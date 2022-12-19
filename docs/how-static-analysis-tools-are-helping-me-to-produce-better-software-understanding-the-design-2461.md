@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/elemarjr/how-static-analysis-tools-are-helping-me-to-produce-better-software-understanding-the-design-2461>
 
-[![](../Images/db8f78d0b2f793f51abe68a547e23312.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BU8iOsXV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/05/helloquence-61189-unsplash-300x200.jpg)
+[![](img/db8f78d0b2f793f51abe68a547e23312.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BU8iOsXV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/05/helloquence-61189-unsplash-300x200.jpg)
 
 作为一名顾问，我经常需要处理我不知道的代码。我需要理解不属于我的设计决策。我需要熟悉我没有帮助构思的建筑。静态分析工具，如 [NDepend](https://www.ndepend.com/) 和 Visual Studio 代码图，帮助我更有效地完成工作。
 
@@ -14,7 +14,7 @@
 
 在下载代码并启动和运行之后，我的第一步是从解决方案中生成一个代码图(使用 Visual Studio)。
 
-[![](../Images/779bd7cfcfe39ba7cbe4b2b61cd0637d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sucJFQfu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/05/codemap.png)
+[![](img/779bd7cfcfe39ba7cbe4b2b61cd0637d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sucJFQfu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/05/codemap.png)
 
 这个简单的视图让我对软件组件及其关系有了初步的了解。默认情况下，Visual Studio 使用解决方案的文件夹结构对项目进行分组。
 
@@ -26,7 +26,7 @@
 
 我的第二步是生成一个依赖图，用盒子大小表示代码行数(使用 NDepend)。
 
-[![](../Images/9f6d27f377614597650a8ebad537af7f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r5PA0NVp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/05/DependencyGraphSnapshot.png)
+[![](img/9f6d27f377614597650a8ebad537af7f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r5PA0NVp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/05/DependencyGraphSnapshot.png)
 
 现在我对项目的比例大小有了一个很好的想法。此外，我可以估计阅读代码所需的时间(这并不精确，但一般来说足够了)。
 
@@ -38,7 +38,7 @@
 
 我的第三步是生成依赖图，这次使用传入耦合来定义盒子大小。
 
-[![](../Images/e33e3caef03eefe2d00e2f64eb24095b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zFSN_xvt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/05/DependencyGraphSnapshot_ac.png)
+[![](img/e33e3caef03eefe2d00e2f64eb24095b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zFSN_xvt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/05/DependencyGraphSnapshot_ac.png)
 
 分析结果图，我知道 EventBus 是这个项目中的核心组件和概念。另外，我知道改变 EventBus 是危险的，因为它会影响整个系统。
 
@@ -50,7 +50,7 @@
 
 我的第四步是生成一个依赖矩阵。
 
-[![](../Images/68464855ba98b6ea68f290bf20733026.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2wt_xIOn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/05/dependencymatrix.png)
+[![](img/68464855ba98b6ea68f290bf20733026.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2wt_xIOn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/05/dependencymatrix.png)
 
 蓝色单元格表示列中的程序集正在使用行中的程序集。绿色单元格表示该行中的程序集使用该列中的程序集。
 
@@ -62,7 +62,7 @@
 
 最后(有一段时间)，我使用 NDepend 来检查代码中的关键潜在问题。
 
-[![](../Images/f1bf93f5fb532178328158a9d28a5139.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ECW7YE0x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/05/problems.png)
+[![](img/f1bf93f5fb532178328158a9d28a5139.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ECW7YE0x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/05/problems.png)
 
 NDepend 使用通用规则来尝试识别代码中的难点。它通常非常有效。
 

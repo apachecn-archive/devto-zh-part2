@@ -8,6 +8,6 @@
 
 ## 屏幕截图
 
-[![screenshot_1](../Images/6f1efb45d420997ba1af1010941e7ef0.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--IP1z8fwU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/12113222/38746166-4fdee346-3f79-11e8-9c59-e545b0853922.png) [ ![screenshot_2](../Images/5bf90006c68aa5940ecc8ff67ffe0e71.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TIE8Ymfb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/12113222/38746603-979c5d70-3f7a-11e8-8cf8-131968d4d36a.png)
+[![screenshot_1](img/6f1efb45d420997ba1af1010941e7ef0.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--IP1z8fwU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/12113222/38746166-4fdee346-3f79-11e8-9c59-e545b0853922.png) [ ![screenshot_2](img/5bf90006c68aa5940ecc8ff67ffe0e71.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TIE8Ymfb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/12113222/38746603-979c5d70-3f7a-11e8-8cf8-131968d4d36a.png)
 
 ## 回购:【https://github.com/xxhomey19/nba-bar】T2

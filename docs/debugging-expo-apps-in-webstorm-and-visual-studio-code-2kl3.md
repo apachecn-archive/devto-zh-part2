@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ghost/debugging-expo-apps-in-webstorm-and-visual-studio-code-2kl3>
 
-[![](../Images/adc32d4dd1bc5d7ee887678610184dfd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8oCqsi1B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/512/1%2AnBbx0atmv-5B7k3czPRuAQ.png) 
+[![](img/adc32d4dd1bc5d7ee887678610184dfd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8oCqsi1B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/512/1%2AnBbx0atmv-5B7k3czPRuAQ.png) 
 
 <figcaption>图标由</figcaption>
 
@@ -26,7 +26,7 @@ Visual Studio Code 和 WebStorm 是开发 React Native/Expo 应用的两个流�
 adb connect 192.168.101.1 # Replace with your Device IP 
 ```
 
-[![](../Images/a7bcccc2d19e798d8199d9abfc09de94.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zc2iw1my--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/819/1%2Az721hvW08jI7qkd_DaP3kg.png) 
+[![](img/a7bcccc2d19e798d8199d9abfc09de94.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zc2iw1my--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/819/1%2Az721hvW08jI7qkd_DaP3kg.png) 
 
 <figcaption>图 1:在安卓设备上打开“远程调试 JS”</figcaption>
 
@@ -50,11 +50,11 @@ adb connect 192.168.101.1 # Replace with your Device IP
 exp android 
 ```
 
-[![](../Images/531380df1d2ebca984c9fcb16dd06d93.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--96Ss-tfD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AzpnV-mA_ZmK4xvp6Fa3tcg.png) 
+[![](img/531380df1d2ebca984c9fcb16dd06d93.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--96Ss-tfD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AzpnV-mA_ZmK4xvp6Fa3tcg.png) 
 
 <figcaption>图 2:运行/调试配置设置</figcaption>
 
-[![](../Images/9a0766c663d222c867b1b6b4ce6cdf20.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--q7p-eN2I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aaz7HWKO2u2IPO_IrWW4Hhg.gif) 
+[![](img/9a0766c663d222c867b1b6b4ce6cdf20.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--q7p-eN2I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aaz7HWKO2u2IPO_IrWW4Hhg.gif) 
 
 <figcaption>图 3:WebStorm；启动调试器</figcaption>
 
@@ -103,7 +103,7 @@ exp android
 
  ``*   切换到*调试控制台*选项卡查看调试器
 
-[![](../Images/ae7b3c32c13990a397bf8af2e78725cc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--znmagVwQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ADyrR-59GutksX5IsGcyJpw.gif)T3】图 4: Visual Studio 代码；启动调试器
+[![](img/ae7b3c32c13990a397bf8af2e78725cc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--znmagVwQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ADyrR-59GutksX5IsGcyJpw.gif)T3】图 4: Visual Studio 代码；启动调试器
 
 ### 附录
 

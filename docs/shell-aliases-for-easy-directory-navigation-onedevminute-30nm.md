@@ -6,7 +6,7 @@
 
 曾经有过写`cd..`而不是`cd ..`的打字错误吗——这篇技巧文章不仅解决了这个打字错误，还添加了几个其他的别名来帮助你轻松地浏览你的系统目录。视频中的更多内容…
 
-[![OneDevMinute](../Images/cb437c70483f5b9bc872def05f14c2fd.png)](https://www.youtube.com/watch?v=x-on-xD3OdE&feature=youtu.be)T3】
+[![OneDevMinute](img/cb437c70483f5b9bc872def05f14c2fd.png)](https://www.youtube.com/watch?v=x-on-xD3OdE&feature=youtu.be)T3】
 
 ```
 ################################################

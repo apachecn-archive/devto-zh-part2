@@ -18,19 +18,19 @@
 
 导航回您创建的 google 表单，并检查 Google 表单的 action 属性。
 
-[![](../Images/199418c6352b2ca9b74db019197b8b05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wWG_OQey--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/981/1%2AfLHT-AFfskKBOtWB2fgw-Q.png)
+[![](img/199418c6352b2ca9b74db019197b8b05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wWG_OQey--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/981/1%2AfLHT-AFfskKBOtWB2fgw-Q.png)
 
 ### **第三步(一)**
 
 将相同的动作复制到 html 表单中。
 
-[![](../Images/f477a7424a0a92867c940dfa1d2e808b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UElEOUt3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWHbQ-ruNSP6XWoZ8it_aeA.png)
+[![](img/f477a7424a0a92867c940dfa1d2e808b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UElEOUt3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWHbQ-ruNSP6XWoZ8it_aeA.png)
 
 ### **第四步**
 
 检查并查找谷歌表单中提到的每个字段的属性名称值。
 
-[![](../Images/dfaa810182ba4a6141549fba131adf27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b_mBBkOy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A7GwU6eNxyMaJSUMwgmA3lA.png)
+[![](img/dfaa810182ba4a6141549fba131adf27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b_mBBkOy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A7GwU6eNxyMaJSUMwgmA3lA.png)
 
 ### **第四步(一)**
 
@@ -66,7 +66,7 @@ element, apply CSS however you want to :)
 
 与谷歌表单链接的样本表单。
 
-[![](../Images/9afb47f2c4b399ca978d13edad9a345a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QhsxZ88i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/688/1%2ABwbXKHEZQH_4Kpczesmjww.png)
+[![](img/9afb47f2c4b399ca978d13edad9a345a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QhsxZ88i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/688/1%2ABwbXKHEZQH_4Kpczesmjww.png)
 
 ### 接下来呢
 

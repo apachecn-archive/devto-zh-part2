@@ -102,11 +102,11 @@ x = x + await 2;
 
 这是在运行异步函数时在 [EcmaScript 规范中定义的行为。](https://tc39.github.io/ecma262/#sec-async-functions-abstract-operations-async-function-start)
 
-[![Execution Contexts creation](../Images/472b26b0501e0db86851a37934689a4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pw4eh2Yz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dflig534m7phna8qz37j.png)
+[![Execution Contexts creation](img/472b26b0501e0db86851a37934689a4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pw4eh2Yz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dflig534m7phna8qz37j.png)
 
 由于我们现在*在等待*一个变量，函数的剩余内容将不会被执行，直到承诺被解决，并且执行堆栈是空的。
 
-[![Execution stack](../Images/857921dc15fd9f95b3228c2abbe4499e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AZ5U8P6G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ztazp0ppdjdhzqai2s2z.png)
+[![Execution stack](img/857921dc15fd9f95b3228c2abbe4499e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AZ5U8P6G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ztazp0ppdjdhzqai2s2z.png)
 
 因此，我们将继续同步执行代码。
 
@@ -118,7 +118,7 @@ x++;
 
 在运行的执行堆栈中，X 的前一个值是 0，因此它增加到 1。
 
-[![Running context value - X = 1](../Images/1dc7f0fa87f21fbee9ebf779e3f37d1e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YLQY8X3P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l2j4xwgw40lsnx52f4ed.png)T3】
+[![Running context value - X = 1](img/1dc7f0fa87f21fbee9ebf779e3f37d1e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YLQY8X3P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l2j4xwgw40lsnx52f4ed.png)T3】
 
 ```
 console.log(x) 
@@ -142,14 +142,14 @@ x = x + 2;
 x = 0 + 2; 
 ```
 
-[![Async execution context values - X = 0 + 2](../Images/548f1011bb7243ae0b90668a8922c583.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XPnCtgWN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q3zlfmydvl9grr2950yl.png)
+[![Async execution context values - X = 0 + 2](img/548f1011bb7243ae0b90668a8922c583.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XPnCtgWN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q3zlfmydvl9grr2950yl.png)
 
 异步执行上下文现在具有值为 2 的 X。
 
-[![Async execution context values - X = 2](../Images/c91b6ccf592c5314ac873543a0f659ed.png)T4】](https://res.cloudinary.com/practicaldev/image/fetch/s--acaokrk8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/phzk73lgam8hwayxgof6.png)
+[![Async execution context values - X = 2](img/c91b6ccf592c5314ac873543a0f659ed.png)T4】](https://res.cloudinary.com/practicaldev/image/fetch/s--acaokrk8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/phzk73lgam8hwayxgof6.png)
 
 最后，当我们现在进入一个新的同步代码块时，两个执行上下文将合并，正在运行的执行上下文将获得`x`的新值`2`。
-T3![Execution contexts merging](../Images/a6cc230e50eb77504ce8926f1cab7593.png)T5
+T3![Execution contexts merging](img/a6cc230e50eb77504ce8926f1cab7593.png)T5
 
 ```
 console.log(x) 

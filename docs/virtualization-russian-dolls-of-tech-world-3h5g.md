@@ -12,11 +12,11 @@ Kubernetes，容器，虚拟机，裸机？对我来说全是希腊语。当我�
 
 在你的终端里写 top 会怎么样？
 
-[![Individual processes](../Images/57a208daa63b8bc890c13f624356f96c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FYPSiy_1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3hd14z9ozjbz6qojjh48.png)
+[![Individual processes](img/57a208daa63b8bc890c13f624356f96c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FYPSiy_1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3hd14z9ozjbz6qojjh48.png)
 
 如上所示，所有的进程都在您的机器上运行。其中的妙处在于，操作系统被设计成让所有这些进程相信它们是操作系统上运行的唯一进程。每个进程都被分配了一个时间片，在该时间片内，它将像单个进程一样运行。你可以在这里了解更多。这种假装 OS 上的进程的排他性的概念被称为进程隔离。扩展这一思想，出现了不仅隔离一个进程，而且将一堆进程作为一个整体隔离的方法(就像假装一台不同的计算机一样),因此，虚拟化诞生了。
 
-[![Virtualiation = Russian Dolls for Computer Science](../Images/3195273b46f82626989fffddb9a94c32.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z5I386__--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uegq59ypta3scnnqig6j.png)
+[![Virtualiation = Russian Dolls for Computer Science](img/3195273b46f82626989fffddb9a94c32.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z5I386__--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uegq59ypta3scnnqig6j.png)
 
 ## 2。如何虚拟化？
 

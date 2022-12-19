@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/aershov24/5-graphql-interview-questions-and-answers-you-should-know-4ajb>
 
-[![5 GraphQL Interview Questions You Should Know](../Images/abcca3936453ec8f08343fe10152fe05.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HxHRMEhr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/527/man-person-people-train.jpg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D350) 
+[![5 GraphQL Interview Questions You Should Know](img/abcca3936453ec8f08343fe10152fe05.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HxHRMEhr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/527/man-person-people-train.jpg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D350) 
 GraphQL 是一种用于 API 的查询语言，也是一种用现有数据完成这些查询的运行时语言。GraphQL 为 API 中的数据提供了完整且易于理解的描述，使客户能够准确地要求他们需要的东西，使 API 更容易随时间发展，并支持强大的开发工具。
 
 > 最初发表于 [FullStack。永远不要再错过你的技术面试](https://www.fullstack.cafe)

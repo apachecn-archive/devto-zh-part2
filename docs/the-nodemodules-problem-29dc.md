@@ -14,17 +14,17 @@
 
 一个清楚显示问题的例子是我的 [ToRead CLI 项目](https://dev.to/leoat12/my-first-serious-project-in-nodejs-toread-cli-3e4b)的 **node_modules** 文件夹，如下图所示。
 
-[![node_modules property window](../Images/9e96e1af61dee9b21b81c10551085e63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3SWbgjQd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ncg9881ha4nndrtovfzu.PNG)
+[![node_modules property window](img/9e96e1af61dee9b21b81c10551085e63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3SWbgjQd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ncg9881ha4nndrtovfzu.PNG)
 
 文件夹的大小并不是真正的问题，虽然我稍后会谈到，但 15.000 个文件和 1800 多个文件夹！？你在开玩笑吗？！这是一个简单的 CLI 项目，有 5 个文件！为了便于比较，我们来看看 **Windows** 文件夹中有多少个文件和文件夹:
 
-[![Windows folder property window](../Images/eadb0ad024f76ba1c62cdaee43959b52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dbUm7Ykt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o9zbnztjbo2nbhwuflbf.PNG)
+[![Windows folder property window](img/eadb0ad024f76ba1c62cdaee43959b52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dbUm7Ykt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o9zbnztjbo2nbhwuflbf.PNG)
 
 在系统计数的时候，我真的以为 **node_modules** 会赢，但是没有。在任何情况下，这个文件夹的文件量几乎是整个操作系统的一半！
 
 正如我说过的，将 **node_modules** 文件夹从一个地方复制到另一个地方的问题不是大小，而是文件和文件夹的数量，以及树的复杂性。这是硬盘的噩梦。发现所有文件要花很多分钟，更不用说复制它们了。最后，它还会影响 **npm** 的表现，这也有模因。
 
-[![Waiting for npm install](../Images/4fae8ebdb9f7f4cee4eef6784a5afbf5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yhX-rugr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/06505f9jenak444a48g8.jpg)
+[![Waiting for npm install](img/4fae8ebdb9f7f4cee4eef6784a5afbf5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yhX-rugr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/06505f9jenak444a48g8.jpg)
 
 其他比较来自我对无服务器的热情。对我来说，用 Java 和 Javascript 实现同一个函数并不少见，因为您必须将函数与其依赖项捆绑在一起，所以比较哪一个在依赖项管理中更有效是一个好方法。在我的一个项目中，我注意到两种语言的函数具有几乎相同的特性，Java 包的大小是 11.1 MB，NodeJS 包的大小是 29.0 MB。因此，NodeJS 在依赖项的规模上也能做得更好。
 

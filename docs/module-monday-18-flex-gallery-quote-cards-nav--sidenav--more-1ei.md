@@ -14,7 +14,7 @@
 
 [视图对](https://anymod.com/mod/bbmba?v=20)视图
 
- [![](../Images/177a240f009be20e3b164c01fc8d9be8.png)
+ [![](img/177a240f009be20e3b164c01fc8d9be8.png)
 T4】](https://anymod.com/mod/bbmba?v=20)
 
 ## 报牌
@@ -23,7 +23,7 @@ T4】](https://anymod.com/mod/bbmba?v=20)
 
 [视图对](https://anymod.com/mod/kolbo?v=20)视图
 
- [![](../Images/ad95bdb2f652445556166870a3d6301c.png)
+ [![](img/ad95bdb2f652445556166870a3d6301c.png)
 T4】](https://anymod.com/mod/kolbo?v=20)
 
 ## Nav & sidenav
@@ -32,7 +32,7 @@ T4】](https://anymod.com/mod/kolbo?v=20)
 
 [视图对](https://anymod.com/mod/ooaod?v=20)视图
 
- [![](../Images/ddc472a4509d8431c83c50b94a32872b.png)
+ [![](img/ddc472a4509d8431c83c50b94a32872b.png)
 T4】](https://anymod.com/mod/ooaod?v=20)
 
 ## 推特时间轴
@@ -41,7 +41,7 @@ T4】](https://anymod.com/mod/ooaod?v=20)
 
 [视图对](https://anymod.com/mod/nkdab?v=20)视图
 
- [![](../Images/71b00e76566d94aa2840c273af6d8e01.png)
+ [![](img/71b00e76566d94aa2840c273af6d8e01.png)
 T4】](https://anymod.com/mod/nkdab?v=20)
 
 ## 普通表
@@ -50,7 +50,7 @@ T4】](https://anymod.com/mod/nkdab?v=20)
 
 [视图对](https://anymod.com/mod/akakd?v=20)视图
 
- [![](../Images/c8875039956a6e07f0479b28591615e9.png)
+ [![](img/c8875039956a6e07f0479b28591615e9.png)
 T4】](https://anymod.com/mod/akakd?v=20)
 
 * * *

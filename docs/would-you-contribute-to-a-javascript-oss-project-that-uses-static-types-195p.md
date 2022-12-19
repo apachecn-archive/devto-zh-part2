@@ -8,11 +8,11 @@
 
 如果您对静态类型感兴趣，这里有一些好的起点
 
-[![iampeekay](../Images/f7d3dea50f5b348bbd6b0329ecd76c66.png)](/iampeekay) [## 为什么在 JavaScript 中使用静态类型？(第一部分)
+[![iampeekay](img/f7d3dea50f5b348bbd6b0329ecd76c66.png)](/iampeekay) [## 为什么在 JavaScript 中使用静态类型？(第一部分)
 
 ### preethi kasi Reddy 12 月 8 日 1610 分钟读取
 
-#javascript #types #flow](/iampeekay/why-use-static-types-in-javascript-part-1)[![nickytonline](../Images/6883bc3afaaae319b5553cb8ecf6b599.png)](/nickytonline) [## 考虑使用 TypeScript
+#javascript #types #flow](/iampeekay/why-use-static-types-in-javascript-part-1)[![nickytonline](img/6883bc3afaaae319b5553cb8ecf6b599.png)](/nickytonline) [## 考虑使用 TypeScript
 
 ### 尼克·泰勒(他/他)10 月 8 日 175 分钟阅读
 

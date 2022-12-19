@@ -14,7 +14,7 @@
 
 有四种事情你可以花时间去做:
 
-[![The four quadrants](../Images/07da3d4bb200e605b834a2fef3d36049.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bOVPlVpn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/finding-time/quadrants.jpg)
+[![The four quadrants](img/07da3d4bb200e605b834a2fef3d36049.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bOVPlVpn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/finding-time/quadrants.jpg)
 
 象限 1 包含重要和紧急的事情。这些可以是有期限的工作相关的事情。它们能让你陷入危机状态。
 

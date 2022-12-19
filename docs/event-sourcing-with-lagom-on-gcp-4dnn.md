@@ -20,15 +20,15 @@ Lagom 帮助您构建反应式系统，而不仅仅是微服务，提供开箱�
 
 Lagom 推广了这两个概念，并使建立一个活动采购和 CQRS 系统变得非常简单。每个服务的核心都有对命令做出反应的实体。每个命令持续一个或多个事件，并且每个事件导致实体的状态改变。我们通常使用 HTTP 调用或某种消息队列来与这些实体进行交互并向其发送命令。要查看 Lagom 实体的运行情况:
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [拉戈姆](https://github.com/lagom) / [在线-拍卖-斯卡拉](https://github.com/lagom/online-auction-scala)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [拉戈姆](https://github.com/lagom) / [在线-拍卖-斯卡拉](https://github.com/lagom/online-auction-scala)
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
 该示例应用程序已存档。参见[https://github.com/lagom/lagom-samples](https://github.com/lagom/lagom-samples)了解更多展示 Lagom 使用的示例项目。
 
-[![Lagom](../Images/301faf6ec25f79d4a0e563d9206e9ee5.png)T2】](https://github.com/lagom/lagom)
+[![Lagom](img/301faf6ec25f79d4a0e563d9206e9ee5.png)T2】](https://github.com/lagom/lagom)
 
-[![Gitter](../Images/4fa2bdf0686a2da133ad2fac114102ee.png) ](https://gitter.im/lagom/lagom?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [ ![](../Images/8daf36a4d9b39f82fee5c6d8ef80e060.png)](https://travis-ci.org/lagom/lagom)
+[![Gitter](img/4fa2bdf0686a2da133ad2fac114102ee.png) ](https://gitter.im/lagom/lagom?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [ ![](img/8daf36a4d9b39f82fee5c6d8ef80e060.png)](https://travis-ci.org/lagom/lagom)
 
 # 介绍
 

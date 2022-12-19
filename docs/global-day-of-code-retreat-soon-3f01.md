@@ -6,7 +6,7 @@
 
 更准确地说是明年 11 月 17 日。
 
-[![Code Retreat Banner](../Images/13f0d87b3379aad20f0d3649e3bc9dea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O1SUJPtQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4i4431n6s4b1zzzwmjxq.png)
+[![Code Retreat Banner](img/13f0d87b3379aad20f0d3649e3bc9dea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O1SUJPtQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4i4431n6s4b1zzzwmjxq.png)
 
 什么是“代码撤退”？这是一个各种背景和经验水平的开发人员聚在一起交流、实践、交流、学习和娱乐的盛会。这是非常有活力的，因为你花了很多时间与像你一样有动力提高和学习的人一起结对编程。
 

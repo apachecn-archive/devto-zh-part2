@@ -72,7 +72,7 @@ Angular 是我构建 PWAs 的首选。
 
 请看下面的 GIF 来学习如何做。
 
-[![GIF of how trying Khophi.blog works](../Images/7a67a47ffada39da13ff29004965ec95.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UAN8zqW4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.khophi.co/wp-content/uploads/2018/06/Peek-2018-06-14-14-44.gif)
+[![GIF of how trying Khophi.blog works](img/7a67a47ffada39da13ff29004965ec95.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UAN8zqW4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.khophi.co/wp-content/uploads/2018/06/Peek-2018-06-14-14-44.gif)
 
 输入你的 WordPress 网址，通过 KhoPhi Blog 开始探索你的博客。我希望你喜欢 PWAs 带来的速度和轻松。
 

@@ -10,7 +10,7 @@
 
 *更新:*写完这篇文章后，我看到 [@ojkelly](https://dev.to/ojkelly) 有一篇非常相似的文章描述了文档的层次:
 
-[![ojkelly image](../Images/4602ce3f929189b9c1779403868aad64.png)](/ojkelly) [## 优秀文档的四个层次
+[![ojkelly image](img/4602ce3f929189b9c1779403868aad64.png)](/ojkelly) [## 优秀文档的四个层次
 
 ### 欧文凯利 6 月 7 日 185 分钟阅读
 

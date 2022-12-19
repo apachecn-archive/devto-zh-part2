@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/himankbhalla/why-should-i-care-about-immutables-in-python-4ofn>
 
-[![](../Images/9d12e41f3f97510ca283837ee525ae0a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JhrhcjkW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fef4t2pzo1sty270jg76.jpg) 
+[![](img/9d12e41f3f97510ca283837ee525ae0a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JhrhcjkW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fef4t2pzo1sty270jg76.jpg) 
 为什么我会关心 Python 中的不变？
 
 我们经常读到可变数据类型和不可变数据类型。例如，字符串在 Java 中是不可变的。有很多资源都在讨论这个概念，但是我找不到关于 Python 的完整讨论。在本文中，我将讨论这个概念。它的用例以及为什么我们需要 Python 的不变性？
@@ -38,7 +38,7 @@ print(id(x))      #This will print some id like 4387438948 different
 
 因为字符串对象“hello”不同于字符串对象“python”。函数 id 返回不同的唯一 id。这意味着存储这些对象的内存位置是不同的，这是两个不同的对象。
 
-[![](../Images/d880e112d65d3215719e2c9b37a013e1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0VtTmeyD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Ae1DF3ithSOP3bP_ZCef78A.png) 
+[![](img/d880e112d65d3215719e2c9b37a013e1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0VtTmeyD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Ae1DF3ithSOP3bP_ZCef78A.png) 
 **可变对象**
 可变对象是在创建后状态可以修改的对象。在程序执行期间，它可能表示相同的值，也可能不表示相同的值。例如，列表是一个可变对象。
 

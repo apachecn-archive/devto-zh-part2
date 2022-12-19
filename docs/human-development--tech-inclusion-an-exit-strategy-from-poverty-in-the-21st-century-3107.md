@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/adetuyitolu/human-development--tech-inclusion-an-exit-strategy-from-poverty-in-the-21st-century-3107>
 
-[![](../Images/92b5019efc36ddf3392b75f84ed36845.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xr-bBCxt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zoxem31owfkfqlkxav8d.jpg)
+[![](img/92b5019efc36ddf3392b75f84ed36845.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xr-bBCxt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zoxem31owfkfqlkxav8d.jpg)
 
 据统计，非洲人口整体非常年轻，整个大陆 60%的人口年龄在 25 岁以下，是世界上最年轻的大陆。这给了我们相对于其他大陆的合理优势。然而，我们仍然在贫困的深渊中打滚。
 

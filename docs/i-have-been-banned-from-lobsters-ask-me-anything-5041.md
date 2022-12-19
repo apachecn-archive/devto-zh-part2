@@ -129,4 +129,4 @@
 
 我来回答。我是黑客。
 
-[![](../Images/809d36e9481dc228fe32b68eaca7f719.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8lohbV5V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.mastodon.social/media_attachments/files/006/053/256/original/0e2a898b01052765.jpeg)
+[![](img/809d36e9481dc228fe32b68eaca7f719.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8lohbV5V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.mastodon.social/media_attachments/files/006/053/256/original/0e2a898b01052765.jpeg)

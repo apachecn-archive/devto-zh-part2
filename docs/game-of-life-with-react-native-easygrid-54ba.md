@@ -133,4 +133,4 @@ render(){
 
 我知道在 three.js 中这样做可能更优雅，但这是一个有趣的实验。这里有一个到 Github 库的链接。以及最终产品(已经稍微加快了速度)。
 
-[![Game of Life react native app gif](../Images/c026a0c09674428cbdcee3bb7a5a3954.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---CV5WzJI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v2i95vkxjq5m83j0bhol.gif)
+[![Game of Life react native app gif](img/c026a0c09674428cbdcee3bb7a5a3954.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---CV5WzJI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v2i95vkxjq5m83j0bhol.gif)

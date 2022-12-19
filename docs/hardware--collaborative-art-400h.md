@@ -4,9 +4,9 @@
 
 不久前，我被要求做一个包含艺术的硬件项目给高中生看。我首先想到的是创建一个电子壁画，但我喜欢更好的协作工作，所以我受到了分布式账本系统的启发。这个想法是有一堆节点，每个节点都有空间用于绘图和电子随机配件，如 led 灯。他们也有导电材料和电线。这个想法是让学生在“*节点*中画东西，然后要求另一个“*节点*连接到他们的节点。当连接时，节点中的电子设备激活，因此他们在同一工作中合作，而不是离开他们的艺术个体。结果将是一幅充满不同绘画风格和电子设备的**大壁画**。我还买了一堆半透明纸，这样我们可以把*折纸*放在 led 灯里，让它看起来更可爱。
 
-[![](../Images/14dc1cd08a1f5c5cd36d28895a155a02.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VxAm-WQG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a2j9amrzx32qwph2t0uu.jpg)
-[![](../Images/1dd1086f56a34b7ca7ac3f7921814159.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Hvn6Wg4L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r0ofuinvazffo1v87qa7.jpg)
-[![](../Images/da242c79781acbbf48e0f538990d37b1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6NLsYU9Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jxe53hgv1dz0y1br7xum.jpg)
+[![](img/14dc1cd08a1f5c5cd36d28895a155a02.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VxAm-WQG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a2j9amrzx32qwph2t0uu.jpg)
+[![](img/1dd1086f56a34b7ca7ac3f7921814159.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Hvn6Wg4L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r0ofuinvazffo1v87qa7.jpg)
+[![](img/da242c79781acbbf48e0f538990d37b1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6NLsYU9Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jxe53hgv1dz0y1br7xum.jpg)
 
 这是其中一个节点的 RGB led 引脚的基本代码，如 [adafruit](https://learn.adafruit.com/adafruit-arduino-lesson-3-rgb-leds?view=all) :
 中所述

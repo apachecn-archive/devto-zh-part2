@@ -4,7 +4,7 @@
 
 **通用数据保护条例** (GDPR)现已生效。早在实施之前，它就已经引起了轩然大波。GDPR 的实施不仅标志着欧盟数据保护历史上的新篇章。从个人和企业数据的角度来看，GDPR 对欧盟公民非常重要。
 
-[![](../Images/e3ed4546c7ab5b39bb351278d3604253.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4avx2Ig8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/0%2ASXJN14j2K-Gz1XJl.jpg)
+[![](img/e3ed4546c7ab5b39bb351278d3604253.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4avx2Ig8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/0%2ASXJN14j2K-Gz1XJl.jpg)
 
 这是自 1998 年数据保护法案实施以来，欧盟公民见证的最大变化。通过这一法案，人们将对个人数据公司拥有更大的控制权和选择权。这些公司在遵守 GDPR 法案的过程中也会更加透明。
 

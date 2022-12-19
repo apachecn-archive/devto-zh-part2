@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/aershov24/30-top-mongodb-interview-questions-and-answers-3d1p>
 
-[![30+ Top MongoDB Interview Questions and Answers (2018 Update)](../Images/7340fc9a67320997f770743c0503c8dd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ghIXsurl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/1143416/pexels-photo-1143416.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D350)
+[![30+ Top MongoDB Interview Questions and Answers (2018 Update)](img/7340fc9a67320997f770743c0503c8dd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ghIXsurl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/1143416/pexels-photo-1143416.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D350)
 NoSQL 数据库运动旨在解决关系数据库的缺点和现代软件开发的需求。MongoDB 是领先的 NoSQL 数据库，在财富 500 强和全球 500 强中被大量采用。
 
 > 最初发表于 [FullStack。永远不要再错过你的技术面试](https://www.fullstack.cafe)

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/johndemian/aws-lambda-faq-1ji6>
 
-[![Alt text of image](../Images/5dfd5864d27d14b9bfd16a81eaa0fa17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UXRZodNe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/356079/pexels-photo-356079.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D750%26w%3D1260)
+[![Alt text of image](img/5dfd5864d27d14b9bfd16a81eaa0fa17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UXRZodNe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/356079/pexels-photo-356079.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D750%26w%3D1260)
 
 你听说过 AWS Lambda 吗？它是一种新的计算系统，可以为你提供各种好处，比如实时数据处理和定制后端服务。希望你知道这个系统的来龙去脉，这样你就可以决定它是否适合你？
 

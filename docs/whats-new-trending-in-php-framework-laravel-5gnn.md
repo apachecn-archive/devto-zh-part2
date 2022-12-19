@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/rigelnetworks/whats-new-trending-in-php-framework-laravel-5gnn>
 
-[![What's new in Laravel 5.6?](../Images/7efe8d80ba20141cbbff6684d2c1e120.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K0gqW5N7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.rigelnetworks.com/wp-content/uploads/2018/08/What%25E2%2580%2599s-New-Trending-in-PHP-framework-Laravel.jpg)
+[![What's new in Laravel 5.6?](img/7efe8d80ba20141cbbff6684d2c1e120.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K0gqW5N7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.rigelnetworks.com/wp-content/uploads/2018/08/What%25E2%2580%2599s-New-Trending-in-PHP-framework-Laravel.jpg)
 
 Laravel 是最受欢迎的开源 PHP 框架,设计用于构建具有丰富优雅语法的 web 应用程序。由于这项技术附带了许多现成的特性，所以应用程序的开发速度很快。2018 年第一季度，Laravel 5.6 的发布是 GitHub 上最受欢迎的 PHP 框架的重大发布。
 

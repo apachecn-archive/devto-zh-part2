@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/codetheweb/for-loops-and-while-loops-in-javascript-3a1d>
 
-[![For loops and while loops in JavaScript](../Images/6f4769c42ffeef2a73dd0fb112dcedee.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ThFcgDrf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codetheweb.blog/assets/img/posts/for-and-while-loops-javascript/cover.jpg) 
+[![For loops and while loops in JavaScript](img/6f4769c42ffeef2a73dd0fb112dcedee.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ThFcgDrf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codetheweb.blog/assets/img/posts/for-and-while-loops-javascript/cover.jpg) 
 循环让你想运行多少次代码就运行多少次！他们真的很强大，这是一件值得了解的事情。从《编写 Web 代码》这篇文章中一劳永逸地学习它们吧！
 
 ## 入门！

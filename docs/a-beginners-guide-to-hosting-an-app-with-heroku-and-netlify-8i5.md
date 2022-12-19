@@ -37,24 +37,24 @@
 好吧，这对我来说是个棘手的部分。这些图片应该会有帮助！
 
 a.登录到您的帐户后，您可以单击右上角的新建，然后单击创建新应用程序。
-[![Create New App Screen](../Images/bb3b29709097eab34e5a1906ce466b56.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--r1S8iI2N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.auth0.com/blog/ultimateguide/create_new_app.png)
+[![Create New App Screen](img/bb3b29709097eab34e5a1906ce466b56.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--r1S8iI2N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.auth0.com/blog/ultimateguide/create_new_app.png)
 
 b.您将为您的服务器命名，然后单击底部的创建应用程序。
-[![Name and Create Screen](../Images/ec5c1a064f8aed67fe5f03e32a9cdc34.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s---qOegGVP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.auth0.com/blog/jsdeploy/herokunewname.png)
+[![Name and Create Screen](img/ec5c1a064f8aed67fe5f03e32a9cdc34.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s---qOegGVP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.auth0.com/blog/jsdeploy/herokunewname.png)
 
 c.这将带你到一个有一些选项的页面。因为我们托管的是一个只有一个贡献者的简单站点，所以你现在不必担心管道问题(这就是你如何处理一个由多人定期维护的项目，所以你可以通过一个阶段化的过程来推动事情，进行测试等等)。
 
 接下来你要做的是将它连接到你的 GitHub 帐户，这样我们就可以访问后端代码了。
-[![Connect to GitHub screen](../Images/df25dc78ac93cdfe7fbde404d4bd225a.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--1PFT0PT5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.auth0.com/blog/jsdeploy/connectogithub.png)
+[![Connect to GitHub screen](img/df25dc78ac93cdfe7fbde404d4bd225a.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--1PFT0PT5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.auth0.com/blog/jsdeploy/connectogithub.png)
 
 d.一旦连接上，您就可以搜索您的服务器存储库的名称，并单击 connect，这样，正如您可能猜到的那样，它就会连接到该存储库。
-[![Connect screen](../Images/9886f5ebf232b4faa669281cb57b02b0.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--dQGpDWs6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.auth0.com/blog/jsdeploy/clickonconnect.png)
+[![Connect screen](img/9886f5ebf232b4faa669281cb57b02b0.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--dQGpDWs6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.auth0.com/blog/jsdeploy/clickonconnect.png)
 
 e.这里的最后一件事是设置部署。您将选择您想要它使用的分支(对于我的例子，主分支是我想要的)，并且您将想要点击 Enable Automatic deployments。(您不需要选中此图中显示的“等待 CI”链接，除非您已经设置了要在代码更新之前运行的测试。)
-[![Automatic Deploys screen](../Images/bf609491e786b914117057adae87525f.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--OvRF1dgd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.auth0.com/blog/jsdeploy/enableautomaticdeploy.png)
+[![Automatic Deploys screen](img/bf609491e786b914117057adae87525f.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--OvRF1dgd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.auth0.com/blog/jsdeploy/enableautomaticdeploy.png)
 
 f.然后，我首先错过的部分是:您需要通过单击 Deploy Branch 来运行手动部署，以启动并运行您的站点！一旦完成，在底部会有一个按钮来查看您的网站。恭喜-您的服务器现在已经启动并运行了！
-[![Deploy and view screen](../Images/e0917df47cce2b90467f046ab05b1a61.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zn_HQsbf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.auth0.com/blog/jsdeploy/deployprocess.png)
+[![Deploy and view screen](img/e0917df47cce2b90467f046ab05b1a61.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zn_HQsbf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.auth0.com/blog/jsdeploy/deployprocess.png)
 
 ### 4。测试你的新网站！
 
@@ -75,13 +75,13 @@ f.然后，我首先错过的部分是:您需要通过单击 Deploy Branch 来�
 这里的另一个多部分步骤——这个更简单！
 
 a.一旦你的帐户被创建，你将点击右上角的来自 Git 的新站点。
-[![Create Site screen](../Images/5c2f1ab03d4a467beea0240db20e4fd2.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--KgsEg0iI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.auth0.com/blog/jsdeploy/ncreatesitefromgit.png)
+[![Create Site screen](img/5c2f1ab03d4a467beea0240db20e4fd2.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--KgsEg0iI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.auth0.com/blog/jsdeploy/ncreatesitefromgit.png)
 
 b.从这里，您将再次选择从 GitHub 部署并连接您的帐户。
-[![Connect GitHub screen](../Images/986e35503b88485c8b99a40f7454dcff.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--39kt-fSG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.auth0.com/blog/jsdeploy/nchoosegithub.png)
+[![Connect GitHub screen](img/986e35503b88485c8b99a40f7454dcff.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--39kt-fSG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.auth0.com/blog/jsdeploy/nchoosegithub.png)
 
 c.然后，您将选择前端存储库....
-[![Pick repo screen](../Images/416d95756a5600641e4f9791ed089196.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--ArMNHDbW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.auth0.com/blog/jsdeploy/nselectrepo.png)
+[![Pick repo screen](img/416d95756a5600641e4f9791ed089196.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--ArMNHDbW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.auth0.com/blog/jsdeploy/nselectrepo.png)
 
 d....并选择您的设置。我再次用我的主树枝作为 Netlify 阅读的主要树枝。
 
@@ -89,14 +89,14 @@ d....并选择您的设置。我再次用我的主树枝作为 Netlify 阅读的
 如果您有一个构建步骤(我在我的项目中使用 gulp 来编译我的 CSS 和 JS 文件)，那么您将进入构建您的项目的任务。
 
 您还将设置(或创建)一个文件夹，Netlify 将使用它作为您的主/根文件夹。据我所知，这是 Netlify 能够看到的唯一文件夹，所以你需要所有的文件在这里——HTML，CSS，JS，图像，服务工作者文件，manifest.json....您的前端网站使用的任何内容，您都希望放在此文件夹中。我把我的命名为 dist，就像图片一样，但是你可以随意命名。
-[![Build commands screen](../Images/6dd4c68301c7e127060e432b1f07eb3e.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--UK7BVmzK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.auth0.com/blog/jsdeploy/netliftyputbuildcommands.png)
+[![Build commands screen](img/6dd4c68301c7e127060e432b1f07eb3e.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--UK7BVmzK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.auth0.com/blog/jsdeploy/netliftyputbuildcommands.png)
 
 e.然后点击底部的部署网站，让这个过程开始！
 
 ### 8。重命名您的项目
 
 默认情况下，Netlify 为你的站点选择一个随机的名字。您可以点击仪表板页面上的站点设置(如下图)并根据需要进行更改。
-[![Deployed screen](../Images/b100e346d881dd853321a572ad7dec89.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--y2EY3s2u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.auth0.com/blog/jsdeploy/sitedeployinprogress.png)
+[![Deployed screen](img/b100e346d881dd853321a572ad7dec89.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--y2EY3s2u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.auth0.com/blog/jsdeploy/sitedeployinprogress.png)
 
 ### 9。恭喜——主要步骤完成了！！
 

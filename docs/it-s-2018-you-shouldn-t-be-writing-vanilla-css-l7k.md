@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/it-s-2018-you-shouldn-t-be-writing-vanilla-css-l7k>
 
-[![Alt Text](../Images/48b3e4c7b95734308dcf170712821afd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--joz5KqND--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rsmv588zte2l63e5fvkv.png)
+[![Alt Text](img/48b3e4c7b95734308dcf170712821afd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--joz5KqND--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rsmv588zte2l63e5fvkv.png)
 
 开发人员的一个常见错误是，与他们代码库的其他部分相比，不太重视(通常根本不重视)样式。
 
@@ -24,7 +24,7 @@ CSS 的发展是持续的。像 [CSS 网格布局](https://dev.to/bnevilleoneill
 
 事实是，除了少数例外，任何项目都可能受到前后处理工具或 CSS-in-JS 库的青睐。在本文中，我们将会看到它们是如何工作的以及它们的优点。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### **前置处理器**
 
@@ -459,7 +459,7 @@ const SignInButton = styled.button`
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

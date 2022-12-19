@@ -14,11 +14,11 @@
 
 我显然不是第一个谈论在转向基于微服务的应用时需要有效的边缘解决方案的人。事实上，在菲尔·卡尔卡多(Phil Calcado)提出的对马丁·福勒(Martin Fowler)最初的[微服务先决条件](https://martinfowler.com/bliki/MicroservicePrerequisites.html)的扩展文章中——[卡尔卡多的微服务先决条件](http://philcalcado.com/2017/06/11/calcados_microservices_prerequisites.html)——他的第五个先决条件是“[轻松到达边缘](http://philcalcado.com/2017/06/11/calcados_microservices_prerequisites.html#5-easy-access-to-the-edge)”。Phil 根据他的经验谈到，许多组织第一次尝试在他们的 monolith 上部署新的微服务时，只是简单地将服务直接暴露在互联网上。这对于单个(简单的)服务来说可以很好地工作，但是这种方法往往不具有可伸缩性，并且还会迫使调用客户端在授权或数据聚合方面经历重重困难。
 
-[![image1](../Images/407701155a2143bde58f477944bd03a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j-MU0j-H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.datawire.io/wp-content/uploads/2018/06/1_8gJ0imO9IXdidzb7h4QL9Q.png)
+[![image1](img/407701155a2143bde58f477944bd03a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j-MU0j-H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.datawire.io/wp-content/uploads/2018/06/1_8gJ0imO9IXdidzb7h4QL9Q.png)
 
 可以使用现有的整体应用程序作为网关，如果您有复杂且高度耦合的授权和身份验证代码，那么这可能是唯一可行的解决方案，直到安全组件被重构为新的模块或服务。这种方法有明显的缺点，包括要求您必须用任何新的路由信息“更新”monolith(这可能涉及完全重新部署)，以及所有流量必须通过 monolith 的事实。如果您将微服务部署到单独的新架构或平台(如 Kubernetes ),后一个问题的成本可能会特别高，因为现在进入您应用程序的任何请求都必须在接触新堆栈之前通过旧堆栈进行路由。
 
-[![image2](../Images/e9651ae91f39ea93288cb49fb4680bc6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IwgelGNN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.datawire.io/wp-content/uploads/2018/06/1_IjQyv_orZeYqvtxv33S-RA.png)
+[![image2](img/e9651ae91f39ea93288cb49fb4680bc6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IwgelGNN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.datawire.io/wp-content/uploads/2018/06/1_IjQyv_orZeYqvtxv33S-RA.png)
 
 您可能已经在使用边缘网关或反向代理——例如 NGINX 或 ha proxy——因为在使用任何类型的后端架构时，这些都可以提供许多优势。提供的特性通常包括到多个后端组件的透明路由、头重写、TLS 终止等，以及横切关注点，而不管请求最终是如何被服务的。在这种情况下，要问的问题是，您是否希望继续将该网关用于您的微服务实现，如果您希望，是否应该以同样的方式使用它？
 
@@ -34,7 +34,7 @@
 
 选择在哪里部署和运行您的边缘网关需要权衡:
 
-[![comparison_table](../Images/c6eaf1017fff1025b8a677b392e3a6f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WheMd7bG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.datawire.io/wp-content/uploads/2018/06/1_mioM6QEThogmQjwfkfBNiQ.png)
+[![comparison_table](img/c6eaf1017fff1025b8a677b392e3a6f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WheMd7bG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.datawire.io/wp-content/uploads/2018/06/1_mioM6QEThogmQjwfkfBNiQ.png)
 
 一旦你选择了如何实现边缘网关，下一个决定就是如何改进你的系统。概括地说，你可以尝试“扼杀”整块石头，或者你把“整块石头放在一个盒子里”并从这里开始凿掉。
 
@@ -42,9 +42,9 @@
 
 Martin Fowler 写了一篇关于[stranger 应用程序模式](https://www.martinfowler.com/bliki/StranglerApplication.html)的很棒的文章，尽管这篇文章已经写了十多年了，但是当试图将功能从一个整体迁移到更小的服务中时，同样的指导方针也适用。该模式的核心描述了功能应该以服务的形式从整体中提取出来，这些服务通过 RPC 或类似 REST 的“[接缝](http://amzn.to/2pdQCvc)”或通过[消息和事件](https://www.infoq.com/news/2018/03/asynchronous-event-architectures)与整体进行交互。随着时间的推移，monolith 中的功能(和相关代码)被淘汰，这导致新的微服务“扼杀”现有的代码库。这种模式的主要缺点是，只要 monolith 仍然在使用，您就必须维护现有的基础设施以及您要部署微服务的任何新平台。
 
-[![image4](../Images/29bab7b261e5ccb3f4089f8b7001d68b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y9J7UBJi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.datawire.io/wp-content/uploads/2018/06/1_7ifdA0aqe2seM_1DcpEkBQ.png)
+[![image4](img/29bab7b261e5ccb3f4089f8b7001d68b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y9J7UBJi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.datawire.io/wp-content/uploads/2018/06/1_7ifdA0aqe2seM_1DcpEkBQ.png)
 
-[![image5](../Images/2eb237adf6b0ee7bd47574ac2b2362f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mLPWa4gO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.datawire.io/wp-content/uploads/2018/06/1_F0f-vipeVyOqs33fFtGgNw.png)
+[![image5](img/2eb237adf6b0ee7bd47574ac2b2362f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mLPWa4gO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.datawire.io/wp-content/uploads/2018/06/1_F0f-vipeVyOqs33fFtGgNw.png)
 
 Groupon 是第一批深入讨论在微服务中使用这种模式的公司之一，早在 2013 年，它就发布了“ [I-Tier:拆除整体](https://engineering.groupon.com/2013/misc/i-tier-dismantling-the-monoliths/)”。从他们的工作中可以学到很多东西，但我们绝对不需要在 2018 年编写一个定制的 NGINX 模块，就像 Groupon 最初对“Grout”所做的那样。现在现代开源 API 网关，如[大使](https://www.getambassador.io/)和 [Traefik](https://traefik.io/) 已经存在，它们使用简单的声明式配置来提供这种功能。
 
@@ -56,7 +56,7 @@ Groupon 是第一批深入讨论在微服务中使用这种模式的公司之一
 
 盒中独石模式的最终目标是将您的独石部署到您的新基础设施，并逐渐将您的所有流量转移到这个新平台上。这允许您在完成整体结构的完全分解之前退役旧的基础设施。如果你遵循这种模式，那么我认为在 Kubernetes 中运行你的边缘网关更有意义，因为这是所有流量最终将被路由的地方。
 
-[![image6](../Images/21ca647de53248388383bcf6ea96d4ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bClPh9Mh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.datawire.io/wp-content/uploads/2018/06/1_fobilwK9fJRNSoIflWIuTQ.png)
+[![image6](img/21ca647de53248388383bcf6ea96d4ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bClPh9Mh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.datawire.io/wp-content/uploads/2018/06/1_fobilwK9fJRNSoIflWIuTQ.png)
 
 **离别的思念**
 

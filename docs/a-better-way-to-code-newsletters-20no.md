@@ -169,9 +169,9 @@ MJML。IO 是 HTML 电子邮件的预处理程序。不，它没有采用现代 
 </mjml> 
 ```
 
-[![Newsletter Part One](../Images/335c402acd3447e4c0169eef99a48009.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cxD6ptPg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://modayil.club/wp-content/uploads/2018/07/codepen.io_modayilme_live_RxPBdb-2.png)
+[![Newsletter Part One](img/335c402acd3447e4c0169eef99a48009.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cxD6ptPg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://modayil.club/wp-content/uploads/2018/07/codepen.io_modayilme_live_RxPBdb-2.png)
 
-[![Newsletter Part Two](../Images/c386d5b6052a04f3ea753a6a1895f41f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MB_hDJ9h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://modayil.club/wp-content/uploads/2018/07/codepen.io_modayilme_live_RxPBdb-1-1.png)
+[![Newsletter Part Two](img/c386d5b6052a04f3ea753a6a1895f41f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MB_hDJ9h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://modayil.club/wp-content/uploads/2018/07/codepen.io_modayilme_live_RxPBdb-1-1.png)
 
 MJML 电子邮件的语法可能感觉有点奇怪，但术语足够通用，您不必多想，可以用更简单的术语来思考:
 

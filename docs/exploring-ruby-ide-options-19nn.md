@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/cseeman/exploring-ruby-ide-options-19nn>
 
-[![](../Images/39d1a56a2b8d2c8f9982b1c803446009.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ptjGsARA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://christine-seeman.com/wp-content/uploads/2018/07/real_programmers.png) 
+[![](img/39d1a56a2b8d2c8f9982b1c803446009.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ptjGsARA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://christine-seeman.com/wp-content/uploads/2018/07/real_programmers.png) 
 途经 [xkcd](https://xkcd.com/378/)
 
 我已经在 Ruby 和 Rails 上工作了几个星期了，但是我不知道我是否对和我一起工作过的编辑器/IDE 完全满意。来自 Java 背景的我在所有的开发工作中都使用了 Eclipse/Spring 工具套件。我知道捷径，知道如何快速方便地浏览，但是 Ruby 还没有给人一种点击的感觉。

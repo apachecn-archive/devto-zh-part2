@@ -8,7 +8,7 @@
 
 我们的 DbUp 项目看起来相当标准:
 
-[![DbUp Project](../Images/d64f7e5185627452a9099f94d632da3e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HhvfvxyJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uxtz7n0o27vpbipnr2gr.png)
+[![DbUp Project](img/d64f7e5185627452a9099f94d632da3e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HhvfvxyJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uxtz7n0o27vpbipnr2gr.png)
 
 DbUp 负责运行脚本，并通过其内置日志系统确保没有脚本运行超过一次，日志记录也存储在数据库中。问题是，这些“Alter Procedure”脚本中只包含存储过程的完整副本，即使这六个文件都在更改同一个存储过程。
 
@@ -16,7 +16,7 @@ DbUp 负责运行脚本，并通过其内置日志系统确保没有脚本运行
 
 基本思想是，您将该文件夹用于包含简单拖放 SQL 脚本，并为每个存储过程创建脚本。DbUp 每次都运行这些脚本，本质上是确保数据库定义总是正确的，并允许开发人员对源存储库中的现有脚本进行更改，而不是像普通迁移脚本那样必须一直创建新的脚本。
 
-[![DROP and CREATE Script](../Images/2b455a5443e51a5dfcb873e47614f337.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZxSdaXDs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/44izwnvjh4yk0chszznz.png)
+[![DROP and CREATE Script](img/2b455a5443e51a5dfcb873e47614f337.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZxSdaXDs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/44izwnvjh4yk0chszznz.png)
 
 ## DbUp 脚本运行程序
 

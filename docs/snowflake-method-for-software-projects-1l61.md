@@ -22,7 +22,7 @@
 
 [雪花法](http://www.advancedfictionwriting.com/articles/snowflake-method/)由 Randy Ingermanson 发明，它基于 Koch 曲线的概念，Koch 曲线是一种分形。这个想法是从一些简单的(或小的)东西开始——在科赫曲线的例子中，它是一个简单的正三角形——然后添加越来越多的细节，形成一个复杂的形状。
 
-[![](../Images/7433f4a4601e156ac5b206b6b00e4e4a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3r-V4Hfn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://katafrakt.me/assets/600px-KochFlake.svg.png)
+[![](img/7433f4a4601e156ac5b206b6b00e4e4a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3r-V4Hfn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://katafrakt.me/assets/600px-KochFlake.svg.png)
 
 Koch 雪花的每一次迭代都对应着雪花方法中的一个步骤。每一步都给前面的图片增加了更多的细节，每一步之后，你可以(也可能应该)回过头来检查你是否不需要在更高的层次上改变一些东西。与具有无限迭代次数的分形不同，用于新颖设计的雪花方法有 10 个步骤。我对软件设计的改编只有 5 个，但是如果你喜欢的话，你可以增加更多。
 

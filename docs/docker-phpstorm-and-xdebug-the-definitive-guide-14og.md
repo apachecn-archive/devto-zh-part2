@@ -86,13 +86,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 确保您拥有之前在“XDEBUG_CONFIG”环境变量中配置的 some 端口:
 
-[![](../Images/e45361639d3fea46eb5c54782cb6cb2e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W5IaOGuQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/lt8ayc9.png)
+[![](img/e45361639d3fea46eb5c54782cb6cb2e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W5IaOGuQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/lt8ayc9.png)
 
 接下来，我们需要配置一个服务器。这就是 PHPStorm 将本地系统中的文件路径映射到容器中的路径的方式。
 
 进入文件->设置->语言和框架-> PHP ->服务器
 
-[![](../Images/94d06c390cdb9b61956da98379c04805.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0bGXXi9F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/zTF9QFb.png)
+[![](img/94d06c390cdb9b61956da98379c04805.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0bGXXi9F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/zTF9QFb.png)
 
 为您的服务器命名。它应该与您在“PHP_IDE_CONFIG”环境变量中定义的值相匹配。我们称之为“symfony-demo”。
 
@@ -108,13 +108,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 在右上角，点击“编辑配置”:
 
-[![](../Images/8d462c7206a1d6ff11244cd8d16be5a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1oC-0LvC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/G4r1uoo.png)
+[![](img/8d462c7206a1d6ff11244cd8d16be5a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1oC-0LvC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/G4r1uoo.png)
 
 点击左上角的绿色加号，从列表中选择“PHP 远程调试”。
 
 现在像这样配置它:
 
-[![](../Images/b7c2d498687155fcc46e7cc24c70242b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--evUdFVZM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/hTi2lM6.png)
+[![](img/b7c2d498687155fcc46e7cc24c70242b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--evUdFVZM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/hTi2lM6.png)
 
 确保将它与先前创建的“服务器”定义相关联。使用“PHPSTORM”作为 idekey。
 
@@ -131,13 +131,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 *   然后点击 PHPStorm 右上角的“开始监听 PHP 调试连接”图标。
 
-[![](../Images/a77caa296f8385acba905377da87ee85.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MIxYgVTs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/e6kD7BT.png)
+[![](img/a77caa296f8385acba905377da87ee85.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MIxYgVTs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/e6kD7BT.png)
 
 *   打开 [http://localhost:8888？XDEBUG _ SESSION _ START = PHP storm](http://localhost:8888?XDEBUG_SESSION_START=PHPSTORM)
 
 如果一切顺利，您应该看到执行在断点处停止。
 
-[![](../Images/d0e743bbbf3a334abc2daa23688ce744.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jo3PLd-i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/UxgccEi.png)
+[![](img/d0e743bbbf3a334abc2daa23688ce744.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jo3PLd-i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/UxgccEi.png)
 
 就这样。现在，您应该拥有一个完全配置好的开发环境，Docker 和 Xdebug 与 PHPStorm IDE 集成在一起。
 

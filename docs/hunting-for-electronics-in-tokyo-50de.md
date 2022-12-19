@@ -10,7 +10,7 @@
 
 我注意到的第一件事与我见过的其他地方不同(但我可能会在柏林逛更多的书店被证明是错的)，那就是你可以在普通书店的科技区找到电路板。在我去过的其他地方，你只能在专门的电子和 DIY 商店找到 Arduinos 和 Raspeberry Pi，人们通常已经知道它们是什么了。虽然至少我拍这张照片的地方是在秋叶原，日本电子和宅男文化的中心，所以这可能是原因。
 
-[![alt text](../Images/8f80434f36569d25fd3aad1cd0138911.png "Boards at Shosen Book Tower")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PWsyhoib--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3yg1uk62gga04izzu13i.JPG)
+[![alt text](img/8f80434f36569d25fd3aad1cd0138911.png "Boards at Shosen Book Tower")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PWsyhoib--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3yg1uk62gga04izzu13i.JPG)
 
 这张照片来自秋叶原的少森书塔。一个相当大的书店，也有相当多的各种各样的恋物癖动漫和 Hentai 收藏。
 
@@ -20,17 +20,17 @@
 
 先睹为快，这些书似乎没有英文版:
 
-[![alt text](../Images/6dbf496e6f5f21958c6500fc8b3f2883.png "Make Books at Shosen Book Tower ")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HKR7K0VR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/igr4pkq2as212wocbnif.JPG)
+[![alt text](img/6dbf496e6f5f21958c6500fc8b3f2883.png "Make Books at Shosen Book Tower ")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HKR7K0VR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/igr4pkq2as212wocbnif.JPG)
 
-[![alt text](../Images/e83285466015cea95baada330a2f098d.png "Make Books at Shosen Book Tower ")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bkXRrNVn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p60ya4ouj005hthw79p5.JPG)
+[![alt text](img/e83285466015cea95baada330a2f098d.png "Make Books at Shosen Book Tower ")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bkXRrNVn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p60ya4ouj005hthw79p5.JPG)
 
-[![alt text](../Images/f56aa875141861a9b087322860c61f2d.png "Make Books at Shosen Book Tower ")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--38zsGar1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8oypxwlskxa82oerkcev.JPG)
+[![alt text](img/f56aa875141861a9b087322860c61f2d.png "Make Books at Shosen Book Tower ")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--38zsGar1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8oypxwlskxa82oerkcev.JPG)
 
 这个系列看起来也很酷，到目前为止还没有找到英文版的。
 
-[![alt text](../Images/c8cd657a536b5265e16e08958d50dd81.png "Make Books at Shosen Book Tower")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3ttRMLzf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yr11anrag8i7fs6dyarr.JPG)
+[![alt text](img/c8cd657a536b5265e16e08958d50dd81.png "Make Books at Shosen Book Tower")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3ttRMLzf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yr11anrag8i7fs6dyarr.JPG)
 
-[![alt text](../Images/5d83b33d19917c44c011499eaecea2ae.png "Make Books at Shosen Book Tower")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3UNll9iZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/71j96funy7nfhw5nnlyj.JPG)
+[![alt text](img/5d83b33d19917c44c011499eaecea2ae.png "Make Books at Shosen Book Tower")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3UNll9iZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/71j96funy7nfhw5nnlyj.JPG)
 
 ## 商店
 
@@ -40,19 +40,19 @@
 
 我去了几家商店，我最喜欢的一家是 Akizuki Denshi，他们有非常好的零部件供应，我再次惊讶于日本人是如何有组织的，并设法充分利用小地方。
 
-[![alt text](../Images/3c4fbbdb913ee371dd0eb6a482e360b9.png "Electronic Components at Akizuki Denshi")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bDvQUciC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z8cc2f64y1ldg4qycqra.JPG)
+[![alt text](img/3c4fbbdb913ee371dd0eb6a482e360b9.png "Electronic Components at Akizuki Denshi")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bDvQUciC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z8cc2f64y1ldg4qycqra.JPG)
 
-[![alt text](../Images/e2d9344d5c9686e9a53a0a6a0d3cf90d.png "Electronic Components at Akizuki Denshi")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OG0mq3QP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/obv5q1u04yxq8sni5iv1.JPG)
+[![alt text](img/e2d9344d5c9686e9a53a0a6a0d3cf90d.png "Electronic Components at Akizuki Denshi")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OG0mq3QP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/obv5q1u04yxq8sni5iv1.JPG)
 
 另一件让我对这家商店感到非常高兴的事情是，我想要一个 Mastech 8260 系列万用表，在德国你可以得到它们的唯一方式是从中国订购，我订购了我的，它在途中丢失了，我甚至在两个月后拿回了钱...我在这家商店找到了它...而且很便宜！
 
-[![alt text](../Images/c46efa4541b70a22dce514becc388df6.png "Electronic Components at Akizuki Denshi")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jX7OsCi9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.staticbg.com/thumb/view/oaupload/banggood/images/5E/54/c7e1dbb5-04d5-7358-180b-5347a6c25791.jpg)
+[![alt text](img/c46efa4541b70a22dce514becc388df6.png "Electronic Components at Akizuki Denshi")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jX7OsCi9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.staticbg.com/thumb/view/oaupload/banggoimg/5E/54/c7e1dbb5-04d5-7358-180b-5347a6c25791.jpg)
 
 ### 丸津
 
 另一家非常好的店，比 Akizuki Denshi 更大的是 [Marutsu](https://www.marutsu.co.jp/) 。我想我就是在那里得到了我的创客集会项目所需要的冲浪板。他们有各种各样的质量和价格，这很好，因为这是旅行的最后一天，我已经破产了。
 
-[![alt text](../Images/7168507a716bdb6893381f6fa14e4230.png "Boards at Marutsu")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SWDibejZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1h7i6ew1gssxsvbyym0v.JPG)
+[![alt text](img/7168507a716bdb6893381f6fa14e4230.png "Boards at Marutsu")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SWDibejZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1h7i6ew1gssxsvbyym0v.JPG)
 
 ### 电器城
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bjhaid_93/awesome-visual-studio-code-extensions--40el>
 
-[![Alt text of image](../Images/97c165af1fcbce7e33c4dc09568b9851.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ky8z1pgU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jmo849900b3atr4vl9wa.png)
+[![Alt text of image](img/97c165af1fcbce7e33c4dc09568b9851.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ky8z1pgU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jmo849900b3atr4vl9wa.png)
 
 ## 什么是 Visual Studio 代码？
 

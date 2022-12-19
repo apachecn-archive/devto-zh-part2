@@ -4,7 +4,7 @@
 
 这是我一年前写的一篇旧文章。我只是把一些东西从中号移过来。
 
-[![](../Images/7d8f009073f5f69866487efde5b1858d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--95DISF1D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AKw2TcCGoU1-7Ex8RbyjB0A.jpeg)
+[![](img/7d8f009073f5f69866487efde5b1858d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--95DISF1D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AKw2TcCGoU1-7Ex8RbyjB0A.jpeg)
 
 在过去的几个月里，我一直尽我所能努力工作，成为一名前端开发人员。我下班回家，不去健身房，和妻子匆匆吃了晚饭，然后坐在电脑前学习每一门课程，看录像等等。…我能拿到的东西。在最初的一两个星期里，我取得了一些进步，但是后来我吸收和保留的信息量急剧下降，我对学习的注意力也急剧下降，我讨厌这样。我想学习编码，我想建立网站和应用程序，我想创造数字建筑设计，像埃菲尔铁塔和西斯廷教堂一样成为技术杰作(我对自己有很高的期望，嗯？).
 

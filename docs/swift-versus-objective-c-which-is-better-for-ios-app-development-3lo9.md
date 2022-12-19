@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/fractiontech/swift-versus-objective-c-which-is-better-for-ios-app-development-3lo9>
 
-[![](../Images/6dc37e19eea143ef2bac042e05ce3bb4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kF0PaZEY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AAxjksNRbWQ7vngQUxKcn1Q.jpeg) 
+[![](img/6dc37e19eea143ef2bac042e05ce3bb4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kF0PaZEY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AAxjksNRbWQ7vngQUxKcn1Q.jpeg) 
 
 <figcaption>Objective-C 或者 Swift</figcaption>
 
@@ -26,11 +26,11 @@ Swift 可能会成为 Objective-C 的一致对比选项，并且可以在 iOS、
 
 苹果公司声称 Swift 比 Objective-C 更好、更快、更出色，这使得这种方言成为世界各地的设计师之间的流行对话。Swift 同样获得了更加直白的名声，并准备在 iOS 设计师和购物者之间建立顺畅的联系。
 
-[![](../Images/20ea8206979ee90808cebc1f4df613f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cSSMUQt6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AnEQDH6i5IruWSFT5hngCcg.png)
+[![](img/20ea8206979ee90808cebc1f4df613f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cSSMUQt6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AnEQDH6i5IruWSFT5hngCcg.png)
 
 ***阅读更多:*** [*企业聊天机器人解决方案提高生产力|企业智能自动化*](https://dev.to/fractiontech/enterprise-chatbot-solutions-to-increase-productivity--intelligent-automation-for-enterprise-18)
 
-[![](../Images/538544e8e5a3f8d2c1d313855a36b681.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--At9LLMhS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/799/1%2AZAUPasXSPNJQVn3XB9yi7Q.png) 
+[![](img/538544e8e5a3f8d2c1d313855a36b681.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--At9LLMhS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/799/1%2AZAUPasXSPNJQVn3XB9yi7Q.png) 
 
 <figcaption>栈溢出开发者调查 2018</figcaption>
 

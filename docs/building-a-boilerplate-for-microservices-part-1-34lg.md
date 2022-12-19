@@ -4,7 +4,7 @@
 
 ### 为微服务构建样板文件—第 1 部分
 
-[![](../Images/d2d1eefaa0341f745fb904f61dcff63b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gAfbs3eG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/583/1%2AFkI7s0abXnLn-xWszZzsLg.png)
+[![](img/d2d1eefaa0341f745fb904f61dcff63b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gAfbs3eG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/583/1%2AFkI7s0abXnLn-xWszZzsLg.png)
 
 构建项目经常涉及到做许多重复的任务，我们作为开发人员经常会遇到这样的挫折:
 

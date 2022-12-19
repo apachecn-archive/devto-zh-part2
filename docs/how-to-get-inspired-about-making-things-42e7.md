@@ -8,7 +8,7 @@
 
 # 1。看教程
 
-[![birthday mailbox](../Images/e86c30b4d925e4dd74c43022859ac977.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---EndLJUG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tp2mtm5i8g7gbwcydpjg.jpg)
+[![birthday mailbox](img/e86c30b4d925e4dd74c43022859ac977.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---EndLJUG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tp2mtm5i8g7gbwcydpjg.jpg)
 
 这是获得灵感的好方法。有些人的全职工作就是激励你去创造东西。让他们的魔法发生吧。有时你会发现，有一本指南可以准确地指导你一直想做的事情。有时候，你会看到一个项目，然后想到一个让它成为独一无二的你的转折。查看 [Adafruit 的教程](https://learn.adafruit.com/)或[制作:杂志](https://makezine.com/)中的任何内容。这就是我如何制作上图所示的四月礼物的方法:一台**生日邮箱打印机**——这是一台直播打印机，打印出生日快乐的推文，以及我的 FB 页面上的消息。这些信息是温暖人心的，人们很高兴看到他们的数字信息变成了纸质笔记！
 
@@ -24,7 +24,7 @@
 
 与其买些东西来帮你摆脱困境，为什么不自己做一个并在过程中学习一些东西呢？有一只宠物，并希望能够检查他们？你可以为此购买一个产品，或者你可以选择制造它！这里有一个来自 Pimoroni 的 Octocam 套件，可以满足你的一切需求。作为奖励，自己做东西通常意味着你可以找到一种方法来满足你的特殊需求。我很想看到有人在他们不在的时候黑掉这个相机，扔个球或飞盘和他们的宠物一起玩。
 
-[![shop traffic analyzer](../Images/bf5ade1b11fea1bf219b7eaec13b5561.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--J6_hYa-j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jed86hwlfnkoykl200rj.JPG)
+[![shop traffic analyzer](img/bf5ade1b11fea1bf219b7eaec13b5561.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--J6_hYa-j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jed86hwlfnkoykl200rj.JPG)
 
 本着只做不买的精神，我想在我新公寓的墙上挂一幅艺术作品，但它必须是特别的、有意义的，还能作为餐厅的一盏明亮的灯。因此，在我的六月制作中，我创作了这个**墙壁艺术装置**，用来挂我从世界各地收集和收到的 instax 照片和明信片。符合我的所有标准，第一次使用了 Dremel，并了解了 forstner 钻头[。另外，它由 Google Home 控制。超级满足。](https://www.rockler.com/how-to/the-value-of-forstner-bits/)
 

@@ -95,7 +95,7 @@
 
 典型的数据中心拓扑有 3 层:
 
-[![https://tse4.mm.bing.net/th?id=OIP.7ZfRQrajOY55baa9vvqPZwHaFj&pid=Api](../Images/744d214b485895f435eb63b52e2f76bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cfHeq9zM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tse4.mm.bing.net/th%3Fid%3DOIP.7ZfRQrajOY55baa9vvqPZwHaFj%26pid%3DApi)
+[![https://tse4.mm.bing.net/th?id=OIP.7ZfRQrajOY55baa9vvqPZwHaFj&pid=Api](img/744d214b485895f435eb63b52e2f76bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cfHeq9zM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tse4.mm.bing.net/th%3Fid%3DOIP.7ZfRQrajOY55baa9vvqPZwHaFj%26pid%3DApi)
 
 *   **访问**层连接到服务器本身
 *   **聚合**层
@@ -111,7 +111,7 @@
 
 在接入层，每台机器都有一个独立的 MAC 地址。这意味着上一层中的每个交换机都需要为每个 MAC 地址存储一个转发表条目。解决方案是通过交换机将服务器组分配为“Pods”，并为它们分配“伪 MAC 地址”。因此，服务器只需要维护到达拓扑中的其他 pod 的条目。
 
-[![pods](../Images/68488b4e741b3f17dad947fcf2addbe1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--00FZuTro--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.cisco.com/c/dam/en/us/products/collateral/switches/nexus-7000-series-switches/white-paper-c11-737022.docx/_jcr_content/renditions/white-paper-c11-737022_1.jpg)
+[![pods](img/68488b4e741b3f17dad947fcf2addbe1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--00FZuTro--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.cisco.com/c/dam/en/us/products/collateral/switches/nexus-7000-series-switches/white-paper-c11-737022.docx/_jcr_content/renditions/white-paper-c11-737022_1.jpg)
 
 ## 跨数据中心的负载均衡
 
@@ -127,13 +127,13 @@
 
 这是一棵胖树，您可以看到顶层(访问)的拥塞情况:
 
-[![https://2.bp.blogspot.com/-8uKSOcP-FDQ/T5ZhZpef-wI/AAAAAAAAAOE/lw-Pw0aMed4/s400/FatTree.png](../Images/48e0bd832d760e8405c047fcf625e5d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1528C8xi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://2.bp.blogspot.com/-8uKSOcP-FDQ/T5ZhZpef-wI/AAAAAAAAAOE/lw-Pw0aMed4/s400/FatTree.png)
+[![https://2.bp.blogspot.com/-8uKSOcP-FDQ/T5ZhZpef-wI/AAAAAAAAAOE/lw-Pw0aMed4/s400/FatTree.png](img/48e0bd832d760e8405c047fcf625e5d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1528C8xi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://2.bp.blogspot.com/-8uKSOcP-FDQ/T5ZhZpef-wI/AAAAAAAAAOE/lw-Pw0aMed4/s400/FatTree.png)
 
 水母的拓扑是一个“随机正则图”——每个图都是从所有“正则”图的集合中统一随机选取的。“规则”图是指每个节点(在这个上下文中是一个开关)具有相同度数的图。
 
 这是一只水母——有*没有*的结构对坚固性很有帮助！
 
-[![https://2.bp.blogspot.com/-fES5sXO_rF4/T5Zhy7AeinI/AAAAAAAAAOQ/KMZ0g6eMv8s/s1600/Jellyfish.png](../Images/549cc092f2cd63370b2ea055df5eb252.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S6AEn1we--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://2.bp.blogspot.com/-fES5sXO_rF4/T5Zhy7AeinI/AAAAAAAAAOQ/KMZ0g6eMv8s/s1600/Jellyfish.png)
+[![https://2.bp.blogspot.com/-fES5sXO_rF4/T5Zhy7AeinI/AAAAAAAAAOQ/KMZ0g6eMv8s/s1600/Jellyfish.png](img/549cc092f2cd63370b2ea055df5eb252.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S6AEn1we--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://2.bp.blogspot.com/-fES5sXO_rF4/T5Zhy7AeinI/AAAAAAAAAOQ/KMZ0g6eMv8s/s1600/Jellyfish.png)
 
 ## 我们系列的下一个
 

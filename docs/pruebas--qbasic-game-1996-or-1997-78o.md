@@ -4,7 +4,7 @@
 
 《普鲁巴斯》是微软 QBasic(MS-DOS 6.22 下)编写的文字冒险和 RPG 的开源游戏组合。
 
-[![Screenshot](../Images/6d79c7c1bb0fc7ba5b3e2da07a0a0e4a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ppJEYsFg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://dhtmlgames.com/pruebas/pruebas.gif)
+[![Screenshot](img/6d79c7c1bb0fc7ba5b3e2da07a0a0e4a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ppJEYsFg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://dhtmlgames.com/pruebas/pruebas.gif)
 
 它是我在 1996 年或 1997 年(我记不清了)创作的第一批游戏之一，当时我大约 12 岁(我的生日在 11 月)。这是西班牙语。
 

@@ -74,7 +74,7 @@ echo "</body></html>";
 
 Enter fullscreen mode Exit fullscreen mode
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)[【galar】](https://github.com/galatar)/[【生成-自动编码-年度重启】](https://github.com/galatar/generar-codigo-autonumerico-con-reinicio-anual)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)[【galar】](https://github.com/galatar)/[【生成-自动编码-年度重启】](https://github.com/galatar/generar-codigo-autonumerico-con-reinicio-anual)
 
 ### 教程代码:生成每年重新启动的独立代码
 

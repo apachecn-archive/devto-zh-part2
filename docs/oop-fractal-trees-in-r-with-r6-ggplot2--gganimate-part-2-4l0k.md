@@ -10,7 +10,7 @@
 # Create & animate R6 tree object  tree  =  fractal_tree_seq$new()  tree$animate() 
 ```
 
-[![](../Images/464af4d6dcf28298122913a100351c5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3dp1kmjp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ivsxrlx5lsgs5o06x69c.gif)
+[![](img/464af4d6dcf28298122913a100351c5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3dp1kmjp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ivsxrlx5lsgs5o06x69c.gif)
 
 ***注**:本帖意在探究 [`R6`](https://r6.r-lib.org/) 功能；这并不是创造分形树的最好方法。一些设计选择仅仅是为了利用不同的功能。另外，这篇文章更多的是基于例子而不是解释。更深入的解释，我推荐从`R6`进入[这一页](https://r6.r-lib.org/)或者从[高级 R](https://adv-r.hadley.nz)*
 查看[这一章](https://adv-r.hadley.nz/r6.html)
@@ -19,7 +19,7 @@
 
 ## 设计
 
-[![](../Images/11a4aa2e527853f8d3078215d9a106a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--toZ7WxWb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5zpndgviot59elezyo36.png)
+[![](img/11a4aa2e527853f8d3078215d9a106a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--toZ7WxWb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5zpndgviot59elezyo36.png)
 
 我们已经有了一个`fractal_tree`对象，它可以创建一棵带有以给定角度放置的分支的树。为了简单起见，我们将构建我们的动画树作为我们的(已经定义的)`fractal_tree`对象的序列；每棵树都是动画中的一帧。免责声明:如果您最终运行了这段代码，您会发现这种方法可能不是最有效的方法，但它是有效的。
 
@@ -49,13 +49,13 @@ fractal_tree_seq  =  R6Class('fractal_tree_seq',  public  =  list(  trees  =  da
 # Create & animate R6 tree object  tree  =  fractal_tree_seq$new()  tree$animate() 
 ```
 
-[![](../Images/464af4d6dcf28298122913a100351c5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3dp1kmjp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ivsxrlx5lsgs5o06x69c.gif)
+[![](img/464af4d6dcf28298122913a100351c5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3dp1kmjp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ivsxrlx5lsgs5o06x69c.gif)
 
 ```
 # Create & animate R6 tree object with new min_len  tree  =  fractal_tree_seq$new(min_len  =  3)  tree$animate() 
 ```
 
-[![](../Images/09334d37e4a19fa55ffcf595fc01855d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gVzi_K7S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4taglrchquz72m1ahl13.gif)
+[![](img/09334d37e4a19fa55ffcf595fc01855d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gVzi_K7S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4taglrchquz72m1ahl13.gif)
 
 ```
 # Create & animate R6 tree object with new angle_seq  tree_seq  =  fractal_tree_seq$new(angle_seq  =  runif(4,  min=pi  /  16,  max=pi  /  4))  tree$animate() 
@@ -63,4 +63,4 @@ fractal_tree_seq  =  R6Class('fractal_tree_seq',  public  =  list(  trees  =  da
 
 <sub>**变小以来就这么晃眼*</sub>
 
-[![](../Images/0f483831ae943bd38c57fc03cffeb086.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W3fcoATx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7eubcqpu2j5kjqdo1pcs.gif)
+[![](img/0f483831ae943bd38c57fc03cffeb086.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W3fcoATx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7eubcqpu2j5kjqdo1pcs.gif)

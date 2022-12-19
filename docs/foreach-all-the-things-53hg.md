@@ -18,7 +18,7 @@
 
 当开发人员从命令式 for 循环转移到更具声明性的 forEach 函数时，他们开始做的第一件事就是**“forEach all things”**！
 
-[![](../Images/91112db14be89d763067adcd2185c7fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--429AEgKF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/1%2A_HepUVzNXC4oo5jGsco_og.jpeg)
+[![](img/91112db14be89d763067adcd2185c7fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--429AEgKF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/1%2A_HepUVzNXC4oo5jGsco_og.jpeg)
 
 这没问题，肯定比到处使用 for 循环要好，但是我们可以做得更好。
 
@@ -141,7 +141,7 @@ list.forEach(user => fireAndForgetNetworkRequest(user))
 
 #### TL；DR；
 
-[![](../Images/5cbb0c5ba19dec9558708bec2fec85d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WemmvgaZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/757/1%2A8AOqGSDe1pzNAb1nMrYOTA.png)
+[![](img/5cbb0c5ba19dec9558708bec2fec85d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WemmvgaZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/757/1%2A8AOqGSDe1pzNAb1nMrYOTA.png)
 
 如果你做到了这一步，希望这篇文章不会太无聊。如果你有任何不同意的地方，或者你有一些我没有想到的更好的例子，请在评论中告诉我。
 

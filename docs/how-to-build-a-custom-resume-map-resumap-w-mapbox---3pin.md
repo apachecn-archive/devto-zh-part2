@@ -10,7 +10,7 @@ T3】为什么是？从人群中脱颖而出-加上，测绘岩石。
 
 查看这里的演示，[https://mapbox-explorer.github.io/](https://mapbox-explorer.github.io/)
 
-[![](../Images/d2804cccdc737f1a25ffe4d11ea44f3e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5gDZ9tJj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_62E418C5B045FDF175E803788F0E70DDFB83A94380AD16621A9AE0428BEF1E0F_1524783098287_image.png)
+[![](img/d2804cccdc737f1a25ffe4d11ea44f3e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5gDZ9tJj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_62E418C5B045FDF175E803788F0E70DDFB83A94380AD16621A9AE0428BEF1E0F_1524783098287_image.png)
 
 ## 1。登录到您的帐户
 
@@ -217,7 +217,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 你会希望你的简历放在你的浏览者正在阅读的地方的中央。您可以使用 Mapbox Studio 的[样式编辑器](https://www.mapbox.com/studio/styles/)中的`Map position`菜单来获得您需要的确切的`longitude`、`latitude`、`zoom`、`bearing`和`pitch`:
 
-[![](../Images/417b9e1c6df91b6b4e7eca44a01715a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pQnkUbix--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_5F1878FF0C2D60C2D208C17E2D26761CCCA2A8395B273B0AB9878B776D8AD47A_1524590500528_map%2Bposition.gif)
+[![](img/417b9e1c6df91b6b4e7eca44a01715a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pQnkUbix--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_5F1878FF0C2D60C2D208C17E2D26761CCCA2A8395B273B0AB9878B776D8AD47A_1524590500528_map%2Bposition.gif)
 
 回到你的文本编辑器中，你会看到一个专门用来在你的代码中映射位置的部分。这是您想要输入缩放级别、经度、纬度、俯仰和方位的地方。看起来是这样的:
 
@@ -268,7 +268,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 既然你已经创建并运行了一个简历，是时候与全世界分享它了。在你的个人文件夹中使用它，把它寄给潜在的雇主，或者用它来代替你的求职信。一定要在推特上炫耀一下 **@Mapbox #builtwithmapbox**
 
-[![](../Images/f1673edf18e172547e0ef1f4288d7d90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pMoLooIF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_5F1878FF0C2D60C2D208C17E2D26761CCCA2A8395B273B0AB9878B776D8AD47A_1524591933548_flyto.gif)
+[![](img/f1673edf18e172547e0ef1f4288d7d90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pMoLooIF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_5F1878FF0C2D60C2D208C17E2D26761CCCA2A8395B273B0AB9878B776D8AD47A_1524591933548_flyto.gif)
 
 ## 额外积分-可选定制
 

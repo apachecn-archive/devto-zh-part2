@@ -14,6 +14,6 @@ reduce 返回单个值(或对象)
 
 [JavaScript 中 map()、reduce()和 filter()函数介绍](https://www.skptricks.com/2018/11/introduction-to-map-reduce-and-filter-in-javascript.html)
 
-[![](../Images/0f45534dd5a1d8fe6baecd9a40fdb957.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NQBpceU1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-h_KinjbmKN0/W_GUAzvxG-I/AAAAAAAACJ0/0BCnliF3gZ88dutpYAb9-Vplzry1qfZjwCLcBGAs/s640/map.png)
+[![](img/0f45534dd5a1d8fe6baecd9a40fdb957.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NQBpceU1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-h_KinjbmKN0/W_GUAzvxG-I/AAAAAAAACJ0/0BCnliF3gZ88dutpYAb9-Vplzry1qfZjwCLcBGAs/s640/map.png)
 
 [阅读更多...](https://www.skptricks.com/2018/11/introduction-to-map-reduce-and-filter-in-javascript.html)

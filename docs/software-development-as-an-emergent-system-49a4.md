@@ -8,7 +8,7 @@
 
 也许自然界中涌现系统的一个最典型的例子就是一群鸟完美协调地飞行。
 
-[![image of a flock of birds flying together in a coordinated way](../Images/94cbcc2eb5f95ab4b97e7610f2989d57.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AWkPwwMw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.blinkingcaret.com/wp-content/uploads/2018/08/flock_of_birds.jpg)
+[![image of a flock of birds flying together in a coordinated way](img/94cbcc2eb5f95ab4b97e7610f2989d57.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AWkPwwMw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.blinkingcaret.com/wp-content/uploads/2018/08/flock_of_birds.jpg)
 
 如果你试图将鸟类的运动作为一个整体来建模，这将变得困难和复杂。它们的运动看起来几乎不可预测。
 
@@ -54,7 +54,7 @@ Boids 模拟中隐含的一个方面是，每只鸟都完美地遵循它的规�
 
 每次构建解决方案时，它都会分析您的解决方案，并以交互式图表和显示通过/失败规则的仪表板的形式提供见解。
 
-[![NDepend's Dashboard](../Images/8cf199143209fd5fee5d6ea56e1d5517.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w_Nn9WwN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.blinkingcaret.com/wp-content/uploads/2018/08/NDependDashboard.png)
+[![NDepend's Dashboard](img/8cf199143209fd5fee5d6ea56e1d5517.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w_Nn9WwN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.blinkingcaret.com/wp-content/uploads/2018/08/NDependDashboard.png)
 
 NDepend 中的规则类似于 Linq 查询(在 NDepend 中它们被称为 CQLinq，CQ 代表代码查询)，并且有 200 多个可用的规则。
 
@@ -67,13 +67,13 @@ warn if count > 0 from method in Methods where method.NbLinesOfCode > 10 select 
 
 当有方法被该规则选择时，您将看到以下内容:
 
-[![Tree view of methods matching more than 10 lines of code](../Images/03a2f18159f1d5c7a54cf3c8ae392d23.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o0yew8Af--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.blinkingcaret.com/wp-content/uploads/2018/08/Rule-match-example.png)
+[![Tree view of methods matching more than 10 lines of code](img/03a2f18159f1d5c7a54cf3c8ae392d23.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o0yew8Af--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.blinkingcaret.com/wp-content/uploads/2018/08/Rule-match-example.png)
 
 你可以点击任何一个方法，NDepend 将带你到它们在源代码中的位置。
 
 您可以在 NDepend 的规则资源管理器面板中找到预定义规则和自定义规则:
 
-[![Queries and rules explorer panel displaying the rule we've just created](../Images/1897512076e528e59c70635bd103833e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cKvEKs11--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.blinkingcaret.com/wp-content/uploads/2018/08/Queries-and-Rules-Explorer-Panel.png)
+[![Queries and rules explorer panel displaying the rule we've just created](img/1897512076e528e59c70635bd103833e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cKvEKs11--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.blinkingcaret.com/wp-content/uploads/2018/08/Queries-and-Rules-Explorer-Panel.png)
 
 您可能已经注意到我在规则定义中使用了`select method`。您可以通过返回一个带有方法属性的匿名对象和我们想要添加的额外信息来添加额外信息。这些额外的信息将显示在用户界面上。
 
@@ -90,7 +90,7 @@ warn if count > 0 from method in Methods where method.NbLinesOfCode > 10 select 
 
 当您在规则浏览器中单击规则时，可以访问此信息。您甚至可以将鼠标悬停在每个“已返回”字段上，以获取额外信息:
 
-[![Hover over MethodsCalled example](../Images/29be9b8a607909faa2e20393963c37b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i3kZK-UZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.blinkingcaret.com/wp-content/uploads/2018/08/MethodsCalled.png)
+[![Hover over MethodsCalled example](img/29be9b8a607909faa2e20393963c37b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i3kZK-UZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.blinkingcaret.com/wp-content/uploads/2018/08/MethodsCalled.png)
 
 除了能够定制规则的显示方式之外，您还可以定义它们如何在技术债务方面影响项目。也就是说，在任意长的时间内。
 
@@ -121,7 +121,7 @@ select new {
 
 例如，您可以创建一个“代码度量视图”图表，它可以同时向您显示两个维度。例如，一个类中的代码行数(LoC)及其圈复杂度。LoC 由类占用的面积和颜色的复杂程度来表示:
 
-[![Code Metrics View example where it is possible to see that the ManageController is the worst class in the project](../Images/6f00d63b77e68e578e8968ca4e6994e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4WwJO_Kg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.blinkingcaret.com/wp-content/uploads/2018/08/Code-Metrics-View.png)
+[![Code Metrics View example where it is possible to see that the ManageController is the worst class in the project](img/6f00d63b77e68e578e8968ca4e6994e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4WwJO_Kg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.blinkingcaret.com/wp-content/uploads/2018/08/Code-Metrics-View.png)
 
 从上面的例子中可以看出，就圈复杂度而言，`ManageController`是“最差”的类，就代码行数而言，它是第二大类。
 

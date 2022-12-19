@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/dailydotdev/most-popular-development-posts-of-the-week-12-september-2018-2jeo>
 
-<figure>[![](../Images/b720b04b2bbbe6f1b80d0dd200e04ae6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0k3XVc6X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A91HSFvIK6pgeqvMGu8O_xw.jpeg) 
+<figure>[![](img/b720b04b2bbbe6f1b80d0dd200e04ae6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0k3XVc6X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A91HSFvIK6pgeqvMGu8O_xw.jpeg) 
 
 <figcaption>待小没什么不好。你可以用一个小团队做大事。</figcaption>
 
@@ -27,6 +27,6 @@
 
 [*感谢每日*](https://www.dailynow.co/) *开发者可以专注于代码而不是搜索新闻。只需打开一个新标签，即可立即访问所有这些帖子以及更多内容。*
 
-[![](../Images/742e0ffd579ea3d14bb946c2894281a1.png)T2】](https://app.dailynow.co/download)
+[![](img/742e0ffd579ea3d14bb946c2894281a1.png)T2】](https://app.dailynow.co/download)
 
 * * *

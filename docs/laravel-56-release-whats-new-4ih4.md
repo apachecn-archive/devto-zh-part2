@@ -8,4 +8,4 @@
 
 [读下去💻](https://auth0.com/blog/laravel-5-6-release-what-is-new/?utm_source=dev&utm_medium=sc&utm_campaign=laravel5_new)
 
-[![Laravel 5.6 Release: What's New?](../Images/17bef8e56717c080d962eff0bdbfa82e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ABFYyCuU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ih10p9z56z53iskgthcf.png)
+[![Laravel 5.6 Release: What's New?](img/17bef8e56717c080d962eff0bdbfa82e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ABFYyCuU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ih10p9z56z53iskgthcf.png)

@@ -6,9 +6,9 @@
 
 这将是一个简单的抽认卡格式。卡片上会有一个问题和一些选项。如果选择的选项是正确答案，卡片会翻转过来祝贺我们。为了这个效果，我们将利用一些过渡效果。最终结果会是这样的。
 
-[![Final result of the quiz app - question and options](../Images/3b22dcd5ea94f3726c4ff0576c3df832.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tRwJMCgS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cc7uglnxf7szvu7nrf46.JPG)
+[![Final result of the quiz app - question and options](img/3b22dcd5ea94f3726c4ff0576c3df832.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tRwJMCgS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cc7uglnxf7szvu7nrf46.JPG)
 
-[![Final result of the quiz app - correct answer](../Images/078e0d360d23e5c4d77ba8864910fe5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IviPHFuo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v7k2zdwx2h366eiftl9g.JPG)
+[![Final result of the quiz app - correct answer](img/078e0d360d23e5c4d77ba8864910fe5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IviPHFuo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v7k2zdwx2h366eiftl9g.JPG)
 
 * * *
 

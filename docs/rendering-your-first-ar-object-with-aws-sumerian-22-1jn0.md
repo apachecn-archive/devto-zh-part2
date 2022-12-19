@@ -18,7 +18,7 @@
 2.  选择提示屏幕左上角的**框**实体。
 3.  (可选)单击该框，并在屏幕右侧更改它的`name`属性，以便将来可以更容易地识别该实体。
 
-[![](../Images/7e62d2e438534a6b339f8c07cf7f90a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gcx6nrei--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lnb3zwbxgg6yo82ayreg.png)
+[![](img/7e62d2e438534a6b339f8c07cf7f90a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gcx6nrei--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lnb3zwbxgg6yo82ayreg.png)
 
 随着 AWS Sumerian 自动保存所有更改，我们差不多完成了创建一个基本的 3D 形状，它将呈现在屏幕上(尽管你可以随意地让它变得复杂)。
 
@@ -90,7 +90,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 此时，您可以保存您的脚本文件，您会注意到一个带有`Entity`属性的新槽出现在右边的属性菜单上(在脚本部分内)。
 
-[![](../Images/27b1d3bc306fac85236edf4b5dede6a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1GlfsPvE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kax50n5vue9y78fuclgq.png)
+[![](img/27b1d3bc306fac85236edf4b5dede6a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1GlfsPvE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kax50n5vue9y78fuclgq.png)
 
 此时，您可以将您的资产包拖动到空槽中，现在应该可以在该空槽中看到您的包的名称，为了完成该过程，添加将实例化您的资产并将其放置在 AR 世界场景中的代码:
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/willamesoares/what-i-learned-from-implementing-a-sudoku-solver-in-python-3a3g>
 
-[![header](../Images/08d3f315bd102af2439a0e3fd9e8cffb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a8EdRZpR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qf1060mcg8cetjxjmeoj.jpg)
+[![header](img/08d3f315bd102af2439a0e3fd9e8cffb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a8EdRZpR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qf1060mcg8cetjxjmeoj.jpg)
 
 你好。
 
@@ -194,7 +194,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 它通过检查特定索引的上、下、右和左的所有位置来实现。这些位置由从作为参数接收的索引开始的因子 9 确定。例如，如果收到的索引是 30(在下图中以绿色显示)，则向上方向的所有位置都将位于与每个位置正好相差 9 个位置的索引中。
 
-[![matrix1](../Images/eed0781a12706e58c689878d9d6c3bd6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--E7g_nr9F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kkevm02pt6eib147uk1k.png) 
+[![matrix1](img/eed0781a12706e58c689878d9d6c3bd6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--E7g_nr9F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kkevm02pt6eib147uk1k.png) 
 <small>记住，0 是用来表示空的位置。</small>
 
 在此图中，绿色位置上方的值分别位于位置 3、12 和 21。由于我们收到了 30 作为检查的指标，我们有:
@@ -263,7 +263,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 是的，所有这些艰苦的工作和花哨的概念并没有给我预期的输出，相反，它抛出了一个丑陋的大错误日志，就像下图中的那个。
 
-[![error-log](../Images/7a24acdacab8d4a5a6c3ca5b8a9a3a76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RXth33sJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2f949giy3l9xwxqpaywv.png)
+[![error-log](img/7a24acdacab8d4a5a6c3ca5b8a9a3a76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RXth33sJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2f949giy3l9xwxqpaywv.png)
 
 不幸的是，由于当时我非常沮丧，我没有真正看到写着`RecursionError: maximum recursion depth exceeded in comparison`的消息，并最终试图调试整个错误日志。是的，我试图一步一步地跟踪算法在做什么(这可能需要大约 30 分钟)，直到我意识到问题与我所遵循的逻辑无关，而是与语言本身有关。
 

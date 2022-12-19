@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/thadevelyouknow/git-branching-step-by-step-2pcc>
 
-[![git](../Images/412d0da14a6b8d6cbef3808933414bef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zeO02K8M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/71bk4rcbfnebny5hful3.png)
+[![git](img/412d0da14a6b8d6cbef3808933414bef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zeO02K8M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/71bk4rcbfnebny5hful3.png)
 
 ```
 "Stop.

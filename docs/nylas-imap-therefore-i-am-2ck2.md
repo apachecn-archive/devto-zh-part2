@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nylas/nylas-imap-therefore-i-am-2ck2>
 
-[![Nylas: IMAP, Therefore I Am.](../Images/2a45954f399b3d132e59a39385a555ec.png)T2】](https://www.nylas.com/blog/nylas-imap-therefore-i-am)
+[![Nylas: IMAP, Therefore I Am.](img/2a45954f399b3d132e59a39385a555ec.png)T2】](https://www.nylas.com/blog/nylas-imap-therefore-i-am)
 
 在本帖中，我们将深入探讨 IMAP。IMAP 代表 Internet 邮件访问协议，它是描述如何访问电子邮件邮箱中的邮件的开放标准。虽然 IMAP 是接收电子邮件的重要部分，但它并不总是最容易实现(或理解)的，这就是 Nylas 存在的原因！简而言之，IMAP 是 Mail.app、Thunderbird 和 Mailspring 等电子邮件客户端用来从您的电子邮件帐户下载邮件并进行更改(如归档邮件或将其分类到文件夹中)的协议。
 

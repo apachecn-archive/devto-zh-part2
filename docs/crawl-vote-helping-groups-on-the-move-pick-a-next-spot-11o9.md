@@ -12,7 +12,7 @@
 
 ## 链接到代码
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [ nholden ](https://github.com/nholden) / [爬行 _ 投票](https://github.com/nholden/crawl_vote)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [ nholden ](https://github.com/nholden) / [爬行 _ 投票](https://github.com/nholden/crawl_vote)
 
 ### 帮助移动中的小组选择下一个地点
 
@@ -73,7 +73,7 @@ bundle exec rspec
 
 一旦用户成功地创建了一个抓取并邀请了一些朋友，推送通道就允许每个人在不刷新浏览器的情况下实时看到投票。当用户单击一个点旁边的投票按钮时，它会向应用程序发出请求，该应用程序会保存投票并向推送通道触发一个事件。当所有用户的浏览器都收到该事件时，Vue 组件发出另一个请求来刷新屏幕上的数据。
 
-[![Crawl Vote demo](../Images/fc7dcf7cb4ab0f9d69a6005aeb07b7b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uPCefLFH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x0f896noabygq0f0xhkz.gif)
+[![Crawl Vote demo](img/fc7dcf7cb4ab0f9d69a6005aeb07b7b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uPCefLFH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x0f896noabygq0f0xhkz.gif)
 
 我以前从未使用过 Vue 的[列表移动过渡](https://vuejs.org/v2/guide/transitions.html#List-Move-Transitions)，但我真的很惊讶，在很少的 CSS 下，Vue 添加了如丝般平滑的动画，作为在排名中上下移动的点。神奇！✨
 

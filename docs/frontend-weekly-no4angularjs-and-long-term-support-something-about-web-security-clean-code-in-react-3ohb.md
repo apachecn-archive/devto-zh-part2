@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/wxyyxc1992/frontend-weekly-no4angularjs-and-long-term-support-something-about-web-security-clean-code-in-react-3ohb>
 
-[![周报封面 50.jpg](../Images/587abbf5a5907c7e537a3b35d57bcf97.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3m9Suu9M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://upload-images.jianshu.io/upload_images/1647496-158b53fefd7a44fa.jpg%3FimageMogr2/auto-orient/strip%257CimageView2/2/w/1240)
+[![周报封面 50.jpg](img/587abbf5a5907c7e537a3b35d57bcf97.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3m9Suu9M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://upload-images.jianshu.io/upload_images/1647496-158b53fefd7a44fa.jpg%3FimageMogr2/auto-orient/strip%257CimageView2/2/w/1240)
 
 与前端开发相关的最佳文章、链接和新闻等，每周发布一次。本期所有参考资料均来自[媒体](https://medium.com/@384924552)、[黑客新闻](https://news.ycombinator.com/news)、 [Reddit](//reddit.com) 、 [Twitter](//twitter.com) 、 [MyBridge](//mybridge.co) 等。
 

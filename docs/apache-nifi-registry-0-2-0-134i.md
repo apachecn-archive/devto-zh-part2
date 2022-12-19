@@ -10,7 +10,7 @@ Apache NiFi 社区最近完成了 NiFi Registry 的第二个版本(0.2.0)。这�
 
 用户界面是用 Angular 构建的单页面 webapp，通过 NiFi RegistryREST API 与服务器通信。在 REST API 的背后是一个服务层，在这里实现主要的业务逻辑，服务层与元数据数据库和流持久性提供者进行交互。
 
-[![](../Images/01937b4e39a522b24819ab1f42a0c090.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QtHV7O3P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://bbende.github.io/assets/images/nifi-registry-0_2_0/01-architecture-original.png)
+[![](img/01937b4e39a522b24819ab1f42a0c090.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QtHV7O3P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://bbende.github.io/asseimg/nifi-registry-0_2_0/01-architecture-original.png)
 
 *元数据数据库*存储关于桶和版本化项目的信息，例如标识符、名称、描述和提交注释，以及哪些项目属于哪个桶。最初的版本利用了一个嵌入式 H2 数据库，除了配置目录位置之外，这个数据库对最终用户是隐藏的。
 
@@ -22,7 +22,7 @@ Apache NiFi 社区最近完成了 NiFi Registry 的第二个版本(0.2.0)。这�
 
 0.2.0 版本利用 JGit 库提供了一个新的基于 git 的 FlowPersistenceProvider 实现。这意味着版本化流的内容现在可以存储在 git 存储库中。
 
-[![](../Images/a6d07ef80fd660728a68e11738cdaea9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JRnyXeGi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://bbende.github.io/assets/images/nifi-registry-0_2_0/02-architecture-git.png)
+[![](img/a6d07ef80fd660728a68e11738cdaea9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JRnyXeGi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://bbende.github.io/asseimg/nifi-registry-0_2_0/02-architecture-git.png)
 
 git 提供者可以通过以下配置在 providers.xml 中进行配置:
 
@@ -55,7 +55,7 @@ git 提供者可以通过以下配置在 providers.xml 中进行配置:
 
 0.2.0 版本提供了新的配置，允许元数据数据库利用外部数据库。目前 Postgres 是除 H2 之外唯一受支持的数据库，尽管其他数据库可能需要额外的测试。
 
-[![](../Images/a97096c57663f41d53aeb212a498477c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UtuYtBQK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://bbende.github.io/assets/images/nifi-registry-0_2_0/03-architecture-postgres.png)
+[![](img/a97096c57663f41d53aeb212a498477c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UtuYtBQK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://bbende.github.io/asseimg/nifi-registry-0_2_0/03-architecture-postgres.png)
 
 0.1.0 版本最初在 nifi-registry.properties 中有两个与 H2 数据库相关的属性:
 

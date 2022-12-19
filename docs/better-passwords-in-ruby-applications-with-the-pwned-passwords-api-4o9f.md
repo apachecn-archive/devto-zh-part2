@@ -138,7 +138,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，当您的用户尝试注册时，Devise 将检查 Pwned 密码 API。
 
-[![A sign up form showing one error that reads 'Password has previously appeared in a data breach and should never be used. Please choose something harder to guess.'](../Images/35eb4b8a89862dca0e733350cb53e1ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f7-4ie8u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://twilioinc.wpengine.com/wp-content/uploads/2018/03/PKl6U6IBFObKYXVnrYvVyzDd6g1431Tx5zoNRB01EWvDocBaeYKuknJMWG4l5TVQy1bmcQJZWpGACJ8Sff2Swcs6hTYGru2xTai63F3g02OhJ1U0RIBdxB4U19zKS43xNyIERO4.png)
+[![A sign up form showing one error that reads 'Password has previously appeared in a data breach and should never be used. Please choose something harder to guess.'](img/35eb4b8a89862dca0e733350cb53e1ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f7-4ie8u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://twilioinc.wpengine.com/wp-content/uploads/2018/03/PKl6U6IBFObKYXVnrYvVyzDd6g1431Tx5zoNRB01EWvDocBaeYKuknJMWG4l5TVQy1bmcQJZWpGACJ8Sff2Swcs6hTYGru2xTai63F3g02OhJ1U0RIBdxB4U19zKS43xNyIERO4.png)
 
 您还可以使用 Devise 插件在现有用户登录时警告他们的密码。为此，您需要在您的`ApplicationController` :
 中覆盖`after_sign_in_path_for(resource)`

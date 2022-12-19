@@ -24,11 +24,11 @@
 
 如果生成成功，您应该会得到一个结构如下的小应用程序:
 
-[![Sails project structure](../Images/07485d1b2326f6750ff47733bbdb611b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7so5VR7S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/a18c934d165196bc4696d5677987b0fa/sails-structure.png)
+[![Sails project structure](img/07485d1b2326f6750ff47733bbdb611b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7so5VR7S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/a18c934d165196bc4696d5677987b0fa/sails-structure.png)
 
 首先，我将浏览 ***api/*** 文件夹，它和它的子文件夹包含什么:
 
-[![Sails API folder](../Images/ae60badde485ecb8e2b8ef4d97e359bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fmRmHNSt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/3ecfbdb32b0c3ff03f2792b7e9c123a1/sails-api.png)
+[![Sails API folder](img/ae60badde485ecb8e2b8ef4d97e359bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fmRmHNSt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/3ecfbdb32b0c3ff03f2792b7e9c123a1/sails-api.png)
 
 ## 控制器
 
@@ -47,7 +47,7 @@
 
 这是一个直观的表示:
 
-[![Sails GraphQL folder](../Images/7ff799622fd03cfef35828229f4b9443.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2TBvK9sL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/8596fc2aba90eb1990587f0ac4f5e33f/sails-graphql.png)
+[![Sails GraphQL folder](img/7ff799622fd03cfef35828229f4b9443.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2TBvK9sL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/8596fc2aba90eb1990587f0ac4f5e33f/sails-graphql.png)
 
 根文件夹将包含 ***schema.js*** 文件，在该文件中，您将把所有的查询和变化组合成一个大的 **GraphQL 模式**。
 
@@ -61,7 +61,7 @@
 
 例如，一个用户的基本信息将保存在 ***User.js*** model 中，但是他的详细信息将保存在 ***Profile.js*** model 中，该模型将包含在 ***models/user/*** 子文件夹中:
 
-[![Sails models](../Images/485ee0f2b63e57b444a2ff31e6e2ad10.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ko0S3cxE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/601eba447c5fc37503e67015adfccb0b/sails-models.png) 。
+[![Sails models](img/485ee0f2b63e57b444a2ff31e6e2ad10.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ko0S3cxE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/601eba447c5fc37503e67015adfccb0b/sails-models.png) 。
 
 ## 政策
 
@@ -75,7 +75,7 @@ SailsJS 中的策略是授权和访问控制的通用工具。策略文件是为
 
 由于所有的流量都通过一个特定的控制器，您将只保留其中的两个响应，并创建一个新的。您将保留 ***ok.js*** 和 ***badRequest.js*** ，因为这些是我们的 GraphQL 控制器能够提供给我们的仅有的两个响应，并且您将创建***unauthorized . js***，如果请求没有通过我们的上述策略，您将发送这些响应。
 
-[![Sails responses](../Images/33e783ebb1bafb60475f47c0398f7687.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ciSnX6C---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/2ad3114d4f90888edf961cd150b050f6/sails-responses.png)
+[![Sails responses](img/33e783ebb1bafb60475f47c0398f7687.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ciSnX6C---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/2ad3114d4f90888edf961cd150b050f6/sails-responses.png)
 
 ## 服务
 
@@ -85,7 +85,7 @@ SailsJS 中的策略是授权和访问控制的通用工具。策略文件是为
 
 我使用 ***api/services/*** 作为可重用工具，如 S3Upload.js、Honeybadger.js、PusherService.js 等。
 
-[![Sails services folder](../Images/fe3b439cf0f60ec84cedce0479c81762.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u68otqYI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/28376d794a613cceb91c83421eaa109f/sails-services.png)
+[![Sails services folder](img/fe3b439cf0f60ec84cedce0479c81762.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u68otqYI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/28376d794a613cceb91c83421eaa109f/sails-services.png)
 
 用上面的文字，我覆盖了 ***api/*** 及其子文件夹的结构。我就不一一赘述 ***资产/******配置/*** 和 ***任务/*** 了，因为它们最初是中组织得最好的。
 
@@ -97,7 +97,7 @@ Sails 不会自动为我们创建 ***test/*** 文件夹，所以您可以自己�
 
 为了创建一些质量测试，您将需要一个 ***assets/*** 文件夹来保存您在测试中需要的文件，您将需要 ***【工厂】/*** 来干净地创建我们的测试数据对象，***【graph QL/***在那里您将放置专用于测试查询和突变的测试，以及 ***【模型】/*** 用于单元测试。
 
-[![Sails test folder](../Images/e9292d0dfbc9ac4e17ee54cac8078f4e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9zLEVwlA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/85ad0b7b32381780133b4f8ba11b9f3c/sails-test.png)
+[![Sails test folder](img/e9292d0dfbc9ac4e17ee54cac8078f4e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9zLEVwlA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/85ad0b7b32381780133b4f8ba11b9f3c/sails-test.png)
 
 如前所述，剖析 ***测试/*** 文件夹与 ***api/*** 文件夹结构完全相同，除了你有工厂和资产的附加文件夹。
 

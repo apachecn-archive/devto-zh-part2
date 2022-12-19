@@ -6,7 +6,7 @@
 
 出乎意料的是，我工作的公司([阿根廷公司](http://www.sisorg.com.ar))给了我两个新项目；一家俄罗斯公司给了我一个实习机会，让我成为一名本土 iOS 开发者；我的[卡波伊拉老师](https://www.instagram.com/cuecacdo)让我重新开始给孩子们上课(我当时在阿根廷)；我们开始装修公寓！我的父母决定第一次来看我，为期三周！
 
-[![](../Images/342ebaebdf11c902f63ba1bcbcc4845a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--onCqoJMj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yzsb6z34vse9qj6a24yk.jpg)
+[![](img/342ebaebdf11c902f63ba1bcbcc4845a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--onCqoJMj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yzsb6z34vse9qj6a24yk.jpg)
 
 不，只是开玩笑。我对这一切感到非常兴奋。我是个极度活跃的人，这就像是我的戒指。良好的..也许我会在这些任务之间多留一点空间。但是当宇宙给你柠檬时..你懂的！买卡恰卡，准备一些美味的[caipinhas](https://www.thespruceeats.com/caipirinha-recipe-759290)！
 

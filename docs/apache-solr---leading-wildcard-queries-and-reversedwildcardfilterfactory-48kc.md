@@ -53,19 +53,19 @@ Apache Solr 有一个名为 [`ReversedWildcardFilterFactory`](https://lucene.apa
 
 当在 Solr 中为一个字段设置了`ReversedWildcardFilterFactory`时，该字段在索引期间会发出两个不同的标记，原始标记和反转标记。下面的屏幕截图显示了[分析选项卡](https://lucene.apache.org/solr/guide/7_5/analysis-screen.html)，展示了如何为一个简单的字符串`abcdefg`创建令牌。
 
-[![](../Images/8502d5df7097aed53f5af0c9191cdce7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7O3b8wHB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-10-25/test_analysis.png)
+[![](img/8502d5df7097aed53f5af0c9191cdce7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7O3b8wHB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-10-25/test_analysis.png)
 
 额外的反转标记会增加索引大小，但这通常是一个可以接受的折衷，因为另一个选项是非常慢的前导通配符查询。
 
 当一个查询使用带有`ReversedWildcardFilterFactory`的字段时，Solr [在内部评估](https://github.com/apache/lucene-solr/blob/branch_7_5/solr/core/src/java/org/apache/solr/parser/SolrQueryParserBase.java#L1192)是搜索原始的还是反向的查询字符串。由于这种优化是 Solr 内部的，因此一个恼人的问题是没有向用户提示查询字符串被反转了。即使使用 [`debug=true`](https://lucene.apache.org/solr/guide/7_5/common-query-parameters.html) ，解析后的查询也是一样的，因为 [`AutomatonQuery#toString()`方法](https://github.com/apache/lucene-solr/blob/branch_7_5/solr/core/src/java/org/apache/solr/parser/SolrQueryParserBase.java#L1213)不提供自动机的信息。下面的屏幕截图显示了一个前导通配符查询，但没有表明它工作正常。
 
-[![](../Images/3aec5fc7b6e2df2cf70f8334419b6803.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AO3x9prp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-10-25/wildcard_debug_query.png)
+[![](img/3aec5fc7b6e2df2cf70f8334419b6803.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AO3x9prp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-10-25/wildcard_debug_query.png)
 
 我能够通过远程调试正在运行的 Solr 服务器来确认预期的行为。这表明该查询基于 [`ReversedWildcardFilterFactory`](https://lucene.apache.org/solr/7_5_0/solr-core/org/apache/solr/analysis/ReversedWildcardFilterFactory.html) 的参数正确地反转了自动机。
 
 我在 Solr UI 中唯一能找到的显示 ReversedWildcardFilterFactory 实际上做了什么的地方是在集合下的[模式部分](https://lucene.apache.org/solr/guide/7_5/stream-screen.html)。然后，您必须选择字段，然后单击“加载条款信息”按钮，以获得有关基础条款的详细信息。下面的屏幕截图显示了`a_txt_rev`字段的术语。
 
-[![](../Images/42f7dd9625f3c8cd505ac412f8a5bdf0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rMwpMrPB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-10-25/a_txt_rev_terms.png)
+[![](img/42f7dd9625f3c8cd505ac412f8a5bdf0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rMwpMrPB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-10-25/a_txt_rev_terms.png)
 
 ### 结论
 

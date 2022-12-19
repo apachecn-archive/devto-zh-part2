@@ -42,13 +42,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 接下来，你只需要确保你已经选择了`TypeScript`和`Babel`选项。你可以在下面看到，我还选择了一些其他可选功能。
 
-[![Select your options](../Images/b9dd9d82943edfae74dfe3cb82b1aeba.png "Select your options")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rR11VHyD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A920vRlqxtqvsKtG6XpALNQ.png)
+[![Select your options](img/b9dd9d82943edfae74dfe3cb82b1aeba.png "Select your options")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rR11VHyD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A920vRlqxtqvsKtG6XpALNQ.png)
 
 一旦你这样做了，它会问你是否愿意使用`class-style component syntax`。你会想要选择这个选项。
 
 然后配置其余的设置，它应该看起来像下图。
 
-[![Configuration options](../Images/d3f52a63318fb9bd6f9a1e58479eda48.png "Configuration options")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bffNOZHG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Ay1IvrXFH4oPnuql0Vahy-g.png)
+[![Configuration options](img/d3f52a63318fb9bd6f9a1e58479eda48.png "Configuration options")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bffNOZHG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Ay1IvrXFH4oPnuql0Vahy-g.png)
 
 Vue CLI 工具现在将安装所有依赖项并设置项目。
 

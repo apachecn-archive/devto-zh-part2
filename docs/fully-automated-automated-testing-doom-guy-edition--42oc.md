@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/skatkov/fully-automated-automated-testing-doom-guy-edition--42oc>
 
-[![Woohoo, Doom guy in notifications!](../Images/f1d8a2b29e4a146b536374fb9cf58e86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MaQgJDoQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/879q596j4z6igz2j52fc.png)
+[![Woohoo, Doom guy in notifications!](img/f1d8a2b29e4a146b536374fb9cf58e86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MaQgJDoQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/879q596j4z6igz2j52fc.png)
 
 我讨厌充满激情的重复性工作，我尽可能地避免它。在浏览 twitter 时，我偶然发现了 Sam Saffron 的视频，他在视频中谈到了他对改进自己的工作流程和构建开发工具的热爱。
 
@@ -141,7 +141,7 @@ Enter fullscreen mode Exit fullscreen mode
 *   如果我们已经显示了错误通知，并显示“哇，一切都好了”通知
 *   我们可以跳过一些通知，以免过于烦人
 
-[![Not a cool version of notifications](../Images/82d5a11ccc218856398ca8d9797b68f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0TPyAZpw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dh1dhf89vdj1qp2uwxsp.png)
+[![Not a cool version of notifications](img/82d5a11ccc218856398ca8d9797b68f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0TPyAZpw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dh1dhf89vdj1qp2uwxsp.png)
 
 看起来这对于我的日常活动来说几乎是完美的。但缺乏冷静..
 
@@ -200,6 +200,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 所以，现在我对结果和效率非常满意！
 
-[![Woohoo, Doom guy in notifications!](../Images/f1d8a2b29e4a146b536374fb9cf58e86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MaQgJDoQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/879q596j4z6igz2j52fc.png)
+[![Woohoo, Doom guy in notifications!](img/f1d8a2b29e4a146b536374fb9cf58e86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MaQgJDoQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/879q596j4z6igz2j52fc.png)
 
 测试愉快！

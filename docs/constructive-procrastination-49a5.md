@@ -4,13 +4,13 @@
 
 我最近读了一篇关于拖延症的很棒的文章。虽然普遍的观点是拖延是浪费时间，但它也可以成为创造力的源泉。这让我想起了当你把头撞向一个问题时的经典建议:休息一下。走开。深呼吸。
 
-[![](../Images/1df20435606a19dc5068b4eb3dc6062a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EoyjwSF6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.professorbeekums.com/img/2018/procrastinate.jpeg)
+[![](img/1df20435606a19dc5068b4eb3dc6062a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EoyjwSF6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.professorbeekums.com/img/2018/procrastinate.jpeg)
 
 一年前，我开始进一步采纳这个建议。如果我被一个问题困住了，我会推迟至少一天。我开始尝试这个是因为我十年前的一次经历。我花了几天时间研究这个并不复杂的功能。大部分时间都花在了我引进的几个 bug 上。我没有像以前那样长时间工作，而是回家了。第二天，我顿悟了，把我写的所有代码放在一边，并在几个小时内重写了所有代码。
 
 推迟工作不仅仅在我被一个问题困住的时候有帮助。当我有一个解决问题的方法时，它也经常有帮助，但是我讨厌它。一个例子是当我在为 [Maleega](https://maleega.com) 做文件版本的时候。我想将同一附件的不同版本分组到一个电子邮件线程中:
 
-[![](../Images/ecac010ea1ad4b8a7b1acba72e1ffda2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jjrFCYhW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.professorbeekums.com/img/2018/file_versions.png)
+[![](img/ecac010ea1ad4b8a7b1acba72e1ffda2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jjrFCYhW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.professorbeekums.com/img/2018/file_versions.png)
 
 当我第一次开始的时候，我陷入了构建一个树形结构的编程兔子洞。如何存储版本的版本的版本？我该如何展示这样的东西？我需要准备什么样的边缘情况，需要构建什么样的测试？这些事情都不是不可能的，只是需要一点努力。
 
@@ -20,13 +20,13 @@
 
 还有一次，我正在为 Maleega 重构用户系统，以清理我最初原型的一些技术债务。我显著地改变了用户在我的系统中的实际情况，这需要一堆新的数据库表。迁移开始是这样的:
 
-[![](../Images/dae0fdc2bcb90d64d97f17984f6bab35.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vfrBDLvy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.professorbeekums.com/img/2018/badmigrate.png)
+[![](img/dae0fdc2bcb90d64d97f17984f6bab35.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vfrBDLvy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.professorbeekums.com/img/2018/badmigrate.png)
 
 问题是用户 id 在许多其他需要更新的表中被引用。不适当的迁移虽然不太可能，但有可能为另一个人显示一个人的数据。这在电子邮件产品中是完全不可接受的。所以这将导致花费大量的时间来构建自动化测试和运行手动测试。
 
 我把这方面的工作推迟了几天。最终我想出了一个愚蠢的简单解决方案。为什么不仅仅保留原始的用户 id 呢？
 
-[![](../Images/2e613c8b60105faf78afcdd53dabfe37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7X0LYY3j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.professorbeekums.com/img/2018/goodmigrate.png)
+[![](img/2e613c8b60105faf78afcdd53dabfe37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7X0LYY3j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.professorbeekums.com/img/2018/goodmigrate.png)
 
 这需要克服一些程序员对数据“混乱”的强迫症，但它大大减少了开发时间和产品风险。没有其他表需要更新，因为所有的用户 id 都是相同的。拖延两天为我节省了数周的工作，这是一个更安全的解决方案。
 

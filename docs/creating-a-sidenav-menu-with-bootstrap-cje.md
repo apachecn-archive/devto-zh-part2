@@ -4,7 +4,7 @@
 
 到目前为止，我写大多是关于 Angular 和 Typescript，这不会改变。但是今天，我将带给你一个关于如何在 Bootstrap 中做一个简单而有效的 Sidenav 的帖子。
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [迈克尔约塔](https://github.com/michaeljota) / [自举——举例](https://github.com/michaeljota/bootstrap-examples)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [迈克尔约塔](https://github.com/michaeljota) / [自举——举例](https://github.com/michaeljota/bootstrap-examples)
 
 ### 一些基于 Bootstrap 4 的组件示例
 

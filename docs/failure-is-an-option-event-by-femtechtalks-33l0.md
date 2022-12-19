@@ -28,7 +28,7 @@ Bethan Davies——The brave Path 的联合创始人 Bethan 在金融和高科�
 
 **订阅我的 YouTube 频道，获取更多关于#开源# github #远程#创业&#包容的视频。Eddie 是开源项目 DashboardHub 的创始人。[http://youtube.com/eddiejaoude](https://youtube.com/eddiejaoude?sub_confirmation=1)T3】**
 
-[![YouTube](../Images/46ee1bb7a333ea503260ee978ca1886e.png)T2】](https://www.youtube.com/watch?v=c6nWyl_-cG8)
+[![YouTube](img/46ee1bb7a333ea503260ee978ca1886e.png)T2】](https://www.youtube.com/watch?v=c6nWyl_-cG8)
 
 *设备:索尼 A7III、腾龙 28–75mm F/2.8 Di III RXD、Moza AirCross 和带 Final Cut Pro 的 iMac Pro*
 

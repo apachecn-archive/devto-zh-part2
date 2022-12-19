@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/itachiuchiha/dockerizing-an-adonisjs-app-27bd>
 
-[![Dockerizing An AdonisJs App](../Images/a5b7cbe4cecda89e486bb2dcf3908aa2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_cg5Qmbv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0uky2oh007zs0tkqz7c9.png)
+[![Dockerizing An AdonisJs App](img/a5b7cbe4cecda89e486bb2dcf3908aa2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_cg5Qmbv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0uky2oh007zs0tkqz7c9.png)
 
 嗨，在这篇文章中，我将谈论一个 AdonisJs 应用程序的 Dockerizing。我将使用 docker-compose 来简化它。
 

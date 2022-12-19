@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/insmartcode/becoming-a-javascript-developer-5h63>
 
-[![](../Images/9b2c3d7eb8c0026bd01c917064dfe5ff.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--28XCQr9K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6nxo4qgjrtc9iwb7wt46.png) 
+[![](img/9b2c3d7eb8c0026bd01c917064dfe5ff.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--28XCQr9K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6nxo4qgjrtc9iwb7wt46.png) 
 我们生活在一个数字时代，脸书、谷歌、Airbnb、亚马逊和优步等公司正在开辟新的领域，重塑全球商业生态系统。然而，如果没有程序员(当然包括 JavaScript 开发人员)的工作，这一切都是不可能的。
 
 **为什么是 JavaScript？**

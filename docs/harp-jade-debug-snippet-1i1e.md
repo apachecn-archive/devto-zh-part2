@@ -6,4 +6,4 @@
 
 现在我有了那个 [`debug.jade`](https://github.com/CatChen/catchen.me/blob/master/public/_partials/debug.jade) 文件在[我的项目](https://github.com/CatChen/catchen.me)里。每当我想在 Harp 中检查一些 JSON 数据时，我只需调用`!= partial('debug', { data: anything })`并传递正确的`data`。
 
-[![](../Images/74b5b3a4bd3e6eeeb59220cf7608aa5c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tcX_JzaN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/CatChen/English/%257E4/4ZBj4VXAuwU)
+[![](img/74b5b3a4bd3e6eeeb59220cf7608aa5c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tcX_JzaN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/CatChen/English/%257E4/4ZBj4VXAuwU)

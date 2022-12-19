@@ -4,7 +4,7 @@
 
 我💖表情符号，所以当我听说 WhatsApp 的新的 Twilio API 时，我想做一些东西，比如 T2 的表情符号。受 [Monica Dinculescu 的](https://twitter.com/notwaldorf) [to_emoji Twitter bot](https://twitter.com/to_emoji/) 和 [emoji translator](https://meowni.ca/emoji-translate/) 的启发，我决定开发一个 WhatsApp 文本到 emoji translator。您现在可以通过[将您的消息发送到我们的 WhatsApp 号码+441745472072](https://wa.me/441745472072?text=she%20sells%20sea%20shells%20on%20the%20seashore) 来尝试一下。
 
-[![An example of sending a message to the app we're going to build. The WhatsApp number responds with the message translated to emoji.](../Images/a74c8b372dcac96a7b43216f20e9a2ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zGzFPnWB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/07/example.png)
+[![An example of sending a message to the app we're going to build. The WhatsApp number responds with the message translated to emoji.](img/a74c8b372dcac96a7b43216f20e9a2ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zGzFPnWB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/07/example.png)
 
 以下是你也可以构建这个应用程序的方法。
 
@@ -27,11 +27,11 @@
 
 在 Twilio 控制台中，进入*运行时*部分来[配置你的功能](https://www.twilio.com/console/runtime/functions/configure)。在依赖项部分添加版本 1.0.8 的`moji-translate`。保存配置，我们准备好构建函数了。
 
-[![Add moji-translate and the version 1.0.8 to the dependencies section, then save.](../Images/1f282d5ea0a39169e7855bdf9a5272e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kiZ-TLAp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/07/dependencies-1024x525.png)
+[![Add moji-translate and the version 1.0.8 to the dependencies section, then save.](img/1f282d5ea0a39169e7855bdf9a5272e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kiZ-TLAp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/07/dependencies-1024x525.png)
 
 从[管理页面](https://www.twilio.com/console/runtime/functions/manage)添加一个新功能，并选择“Hello SMS”模板，因为回复收到的 WhatsApp 消息使用与回复收到的 SMS 消息相同的 [TwiML](https://www.twilio.com/docs/sms/twiml) 。给你的函数一个名字和一个路径。
 
-[![Give your function a name and a path.](../Images/066032ecdb930b0ae09da1fb2a17016b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EWmsjUqT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/07/function.png)
+[![Give your function a name and a path.](img/066032ecdb930b0ae09da1fb2a17016b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EWmsjUqT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/07/function.png)
 
 到目前为止，代码应该是这样的:
 
@@ -74,13 +74,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 > 👐 🆙WhatsApp🔛你的🤳，发送一个💬去沙箱💯你会收到一个回复💬翻译成表情符号。
 
-[![A screen shot of the original and translated message.](../Images/5145ad50f7d7382ba3371a1b66960732.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4IBcSUd8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/07/result.png)
+[![A screen shot of the original and translated message.](img/5145ad50f7d7382ba3371a1b66960732.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4IBcSUd8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/07/result.png)
 
 如果您收到一条消息，说您的号码与沙盒频道无关，请确保您按照[的说明将您的号码连接到沙盒](https://www.twilio.com/docs/sms/whatsapp/api#using-phone-numbers-with-whatsapp)。
 
 如果你想在不连接沙盒的情况下试用这个应用程序，[发送你的消息到我们的 WhatsApp 号码+441745472072](https://wa.me/441745472072?text=she%20sells%20sea%20shells%20on%20the%20seashore) 。你也可以用手机扫描这个二维码开始对话。
 
-[![Scan this QR code and start translating your text to emoji over WhatsApp.](../Images/89e7b600b74c731634413b2bbd149856.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4Umk9qJA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/com.twilio.prod.twilio-docs/original_images/qr-1.png)
+[![Scan this QR code and start translating your text to emoji over WhatsApp.](img/89e7b600b74c731634413b2bbd149856.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4Umk9qJA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/com.twilio.prod.twilio-docs/original_images/qr-1.png)
 
 ## 👞后续步骤
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/djangotricks/equivalents-in-python-and-javascript-part-2-3fej>
 
-[![](../Images/9161b6f41e6bb923aa072dd841f18992.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y9C9sJw3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://4.bp.blogspot.com/-ZEZgva-20Og/WzrCcYKB-NI/AAAAAAAAB5w/8Pv9p7uP_kYXxEL-Y_wkFxvTtU_ZXJK6gCLcBGAs/s1600/equivalents-in-python-and-javascript-part-2.png)
+[![](img/9161b6f41e6bb923aa072dd841f18992.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y9C9sJw3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://4.bp.blogspot.com/-ZEZgva-20Og/WzrCcYKB-NI/AAAAAAAAB5w/8Pv9p7uP_kYXxEL-Y_wkFxvTtU_ZXJK6gCLcBGAs/s1600/equivalents-in-python-and-javascript-part-2.png)
 
 [上次](https://dev.to/djangotricks/equivalents-in-python-and-javascript-part-1-3317)我们开始了一系列关于 **Python** 和 **JavaScript** 类比的新文章。我们看了列表、数组、字典、对象和字符串、条件赋值和解析整数。这一次我们将经历更有趣和更复杂的事情，比如将字典和列表序列化到 JSON，正则表达式操作，以及引发和捕捉错误。
 
@@ -270,4 +270,4 @@ Equivalents in Python and JavaScript
 
 本杰明·洪的封面照片。
 
-[![](../Images/66ee32021d7b15044ec2062a2fcde02c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mtVy3kJF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/djangotricks/%257E4/QSH4HQuebtY)
+[![](img/66ee32021d7b15044ec2062a2fcde02c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mtVy3kJF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/djangotricks/%257E4/QSH4HQuebtY)

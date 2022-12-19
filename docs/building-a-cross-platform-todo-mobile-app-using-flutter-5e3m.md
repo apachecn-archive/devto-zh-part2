@@ -4,7 +4,7 @@
 
 <figure>
 
-[![Photo by Andrea Reiman on Unsplash](../Images/f590b8c22a4c1b3263dff3c4f2e344ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c4kE5qee--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yfuqrhx5j462q3ieyv6d.jpeg)
+[![Photo by Andrea Reiman on Unsplash](img/f590b8c22a4c1b3263dff3c4f2e344ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c4kE5qee--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yfuqrhx5j462q3ieyv6d.jpeg)
 
 <figcaption>Photo by Andrea Reiman on Unsplash</figcaption>
 
@@ -57,7 +57,7 @@ $ flutter run
 
 <figure>
 
-[![Flutter boilerplate counter app running on iPhone XS Simulator.](../Images/7ed37f10dee213cae3336198bd82fa15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qGaE7u2g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AaEegE8iHOq6HNxpKhFr84Q.png)
+[![Flutter boilerplate counter app running on iPhone XS Simulator.](img/7ed37f10dee213cae3336198bd82fa15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qGaE7u2g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AaEegE8iHOq6HNxpKhFr84Q.png)
 
 <figcaption>Flutter boilerplate counter app running on iPhone XS Simulator.</figcaption>
 

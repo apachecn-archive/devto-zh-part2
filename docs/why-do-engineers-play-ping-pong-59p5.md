@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/tiptopgs/why-do-engineers-play-ping-pong-59p5>
 
-[![](../Images/3f75d08306b4e028873c095351f22909.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kA9aucNo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2APIQ_CHn3wavCWQPjLuancQ.jpeg) 
+[![](img/3f75d08306b4e028873c095351f22909.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kA9aucNo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2APIQ_CHn3wavCWQPjLuancQ.jpeg) 
 
 <figcaption>不溅</figcaption>
 
@@ -16,7 +16,7 @@
 
 乒乓球有益健康，因为它有益于心脏和大脑。打乒乓球会增加你的心率。工程师和我一样，花很多时间坐在电脑前。所以这是伪装的好突破口。我打球的时候会出很多汗，所以我通常会带一套额外的衣服和网球鞋，在我打完球后去换。乒乓球有利于制定战略和长期记忆。你可以在这里阅读更多关于对大脑的好处:[https://www.pongboss.com/tips/table-tennis-brain/](https://www.pongboss.com/tips/table-tennis-brain/)
 
-[![](../Images/45a90df43da2563e2334bdd81679d698.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uuMqK2TU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ak54yjd8BNpyRJi6xhS9Vag.jpeg) 
+[![](img/45a90df43da2563e2334bdd81679d698.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uuMqK2TU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ak54yjd8BNpyRJi6xhS9Vag.jpeg) 
 
 <figcaption>获得联赛第三名的团队奖杯</figcaption>
 

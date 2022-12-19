@@ -56,7 +56,7 @@ en:
               blank: "custom message, can\'t be blank" 
 ```
 
-[![Presence validation error on firstname](../Images/c613ef00f84c735b11d392558589b701.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DdMCO0z8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3z470kpbpa0qmq6t6e13.png) 
+[![Presence validation error on firstname](img/c613ef00f84c735b11d392558589b701.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DdMCO0z8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3z470kpbpa0qmq6t6e13.png) 
 活动记录提供了几个可以放置消息翻译的名称空间，以便为某些模型、属性和/或验证提供不同的消息和翻译。它还透明地考虑了单表继承。
 
 占位符/插值变量也仍然可用。

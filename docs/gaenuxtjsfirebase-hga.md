@@ -4,7 +4,7 @@
 
 以前在 mixi APP 上做了一个叫“猫 corese”的 APP，因为发现那个素材处于放置状态很浪费，所以试着做了一个可以让猫换衣服说话并发布到 Twitter 上的简易的网络 APP。
 
-[![yf4qcSgR8rZR0fmmSwS7.png](../Images/c84707aa8dfb7ced97563228d9376a04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i9dCfgt9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vz03rmrp0k5ohnhl02e2.png)
+[![yf4qcSgR8rZR0fmmSwS7.png](img/c84707aa8dfb7ced97563228d9376a04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i9dCfgt9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vz03rmrp0k5ohnhl02e2.png)
 
 [猫先生谈话](https://nekoko.alphabrend.com/)
 

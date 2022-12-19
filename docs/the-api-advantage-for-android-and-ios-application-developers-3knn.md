@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nylas/the-api-advantage-for-android-and-ios-application-developers-3knn>
 
-[![HaystackCRM calendar iPhone screenshot Oct 18](../Images/e62d799746e112d1439d997d308cf4b2.png)T2】](https://www.nylas.com/blog/building-android-and-ios-applications-with-the-nylas-api)
+[![HaystackCRM calendar iPhone screenshot Oct 18](img/e62d799746e112d1439d997d308cf4b2.png)T2】](https://www.nylas.com/blog/building-android-and-ios-applications-with-the-nylas-api)
 
 在移动应用领域，将用户需要的核心功能快速推向市场至关重要。这就是为什么我们创建了 Nylas API，来帮助开发人员构建他们梦想中的移动应用程序，而不必担心通信层。
 
@@ -18,7 +18,7 @@
 
 现在，用户可以选择连接他们的日历帐户，以便在 HaystackCRM 中查看和安排活动。
 
-[![HaystackCRM calendar iPhone screenshot Oct 18](../Images/9b5f7248c18496c620cca0bdab9fb5bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DvXhvqHG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/HaystackCRM%2520calendar%2520iPhone%2520screenshot%2520Oct%252018.jpg)
+[![HaystackCRM calendar iPhone screenshot Oct 18](img/9b5f7248c18496c620cca0bdab9fb5bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DvXhvqHG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/HaystackCRM%2520calendar%2520iPhone%2520screenshot%2520Oct%252018.jpg)
 
 (干草堆日历同步)
 
@@ -36,7 +36,7 @@
 
 HaystackCRM 还使用 Nylas API 来消除 CRM 到电子邮件集成中的摩擦。他们需要找到一种方法，将他们的 CRM 集成到 Office365、Outlook.com、Exchange 和 IMAP 电子邮件提供商中，并根据他们的业务进行扩展。使用 Nylas API 让 HaystackCRM 在最初的产品之外有了更多的电子邮件管理选择。由 Nylas API 支持的特性允许 HaystackCRM 用户在使用 HaystackCRM 时保持使用以前的电子邮件地址、电子邮件客户端和日历的舒适度。
 
-[![HaystackCRM email view iPhone screenshot](../Images/b57444980c994750402cefb9655187db.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GaBALTku--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/HaystackCRM%2520email%2520view%2520iPhone%2520screenshot.jpg)T4】
+[![HaystackCRM email view iPhone screenshot](img/b57444980c994750402cefb9655187db.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GaBALTku--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/HaystackCRM%2520email%2520view%2520iPhone%2520screenshot.jpg)T4】
 
 (草堆邮件同步)
 
@@ -56,7 +56,7 @@ VoIPLy 提供简单可靠的电话解决方案，帮助企业更好地为客户�
 
 当客户点击联系人时，该应用程序与 Nylas 集成，以同步他们所有的联系人。VoIPLy 还为他们的电话系统创建了一个日历应用程序，使系统能够向呼叫者读出日历上的事件。
 
-[![image003](../Images/afd4d9d0b617510eba69082efe555a5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--khassl6E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/image003.jpg)
+[![image003](img/afd4d9d0b617510eba69082efe555a5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--khassl6E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/image003.jpg)
 
 (用户通过 Nylas API 认证联系人同步)
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/_arpy/html5-form-validation-in-react-3308>
 
-[![](../Images/395ac9222c01454ed7113d83e490c2e3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bcnek76T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AHsjdj3i8TIc4_zrU.)
+[![](img/395ac9222c01454ed7113d83e490c2e3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bcnek76T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AHsjdj3i8TIc4_zrU.)
 
 <figcaption>[赛·基兰·阿纳加尼](https://unsplash.com/@_imkiran?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)</figcaption>
 
@@ -143,4 +143,4 @@ export default Form;
 
 记住，在客户端验证用户输入是不够的。像你这样聪明的人总能找到办法避开验证。这就是为什么**总是**也在你的**后端做检查。相信我，你会为那个☺️而感谢自己的**
 
-[![](../Images/07a3552be5e48400b51b5518aa0b33b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VlsT44Mm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media.giphy.com/media/u4KibgMsDLWM0/giphy.gif)
+[![](img/07a3552be5e48400b51b5518aa0b33b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VlsT44Mm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media.giphy.com/media/u4KibgMsDLWM0/giphy.gif)

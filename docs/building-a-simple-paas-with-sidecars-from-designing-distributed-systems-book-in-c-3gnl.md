@@ -14,11 +14,11 @@
 
 这是本书中可用的图示。
 
-[![](../Images/788eb96a9cca2d1933c3bbcc00805674.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qsCX6hmZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/02/sidecar.png)
+[![](img/788eb96a9cca2d1933c3bbcc00805674.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qsCX6hmZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/02/sidecar.png)
 
 我的目标是使用 ASP.net 核心创建这个例子。这个源代码可以在我的 GitHub 上找到。
 
-[![](../Images/df4cf3598317fc06ce4a10a37cc261cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MRUgoKmK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/02/dotnet_sidecar.png)
+[![](img/df4cf3598317fc06ce4a10a37cc261cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MRUgoKmK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/02/dotnet_sidecar.png)
 
 ## 创建一个“当文件更新时自动重新加载”的服务器
 
@@ -72,7 +72,7 @@ version: '3' services: application: image: application build: context: applicati
 
 现在，当您更改分叉回购时，sidecar 将拉取更新，应用程序容器将自动重启 web 应用程序。
 
-[![](../Images/c3234d8e90944a7c76f0947e48fa9360.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XlwsOx_w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/02/running.png)
+[![](img/c3234d8e90944a7c76f0947e48fa9360.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XlwsOx_w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/02/running.png)
 
 ## 最后一句话
 

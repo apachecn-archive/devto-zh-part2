@@ -108,7 +108,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果你错过了我之前的帖子:
 
-[![genejams](../Images/ab410dc05437d55e52306d6bb995095d.png)](/genejams) [## 向您的 web 应用程序添加 ViewPager
+[![genejams](img/ab410dc05437d55e52306d6bb995095d.png)](/genejams) [## 向您的 web 应用程序添加 ViewPager
 
 ### { Gene } Jul 28 ' 182min read
 
@@ -130,25 +130,25 @@ Enter fullscreen mode Exit fullscreen mode
 
 #### zuix-app-5:总档案 **18**
 
-[![zuix-app-5 files](../Images/8097332b7ecc28684d2d894c715f30a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--20OHgYki--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g02hdgw86q2nfivsfhzu.png)
+[![zuix-app-5 files](img/8097332b7ecc28684d2d894c715f30a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--20OHgYki--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g02hdgw86q2nfivsfhzu.png)
 
 #### zuix-app-5:网络性能
 
-[![zuix-app-5 perf](../Images/d9ec2a9b6009fcc40a562fa036336948.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CPVcwyJd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2gk48dshoa4zok3rh1z4.png)
+[![zuix-app-5 perf](img/d9ec2a9b6009fcc40a562fa036336948.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CPVcwyJd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2gk48dshoa4zok3rh1z4.png)
 
 #### zuix-app-6:总档案 **4**
 
-[![zuix-app-6 files](../Images/51fe31b0ac7782551cb12fd42159ecbe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gCzzrzlC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e6g0ex68dmf08msb41rf.png)
+[![zuix-app-6 files](img/51fe31b0ac7782551cb12fd42159ecbe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gCzzrzlC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e6g0ex68dmf08msb41rf.png)
 
 #### zuix-app-6:网络性能
 
-[![zuix-app-6 perf](../Images/e03fcdd9d85a108e9eca2d8113aa38dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---KtaBY6c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ysapo252grk4t7g2xa4p.png)
+[![zuix-app-6 perf](img/e03fcdd9d85a108e9eca2d8113aa38dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---KtaBY6c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ysapo252grk4t7g2xa4p.png)
 
 这是`zuix-app-6`的[源代码](https://glitch.com/edit/#!/zuix-app-6)。
 
 ## Web Starter 捆绑
 
-[![zuix Web Starter](../Images/1b7cedc599bafc5ba41ada10cb15489c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--as0GcYIJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wkumb20jphd5k5a8mt22.gif)
+[![zuix Web Starter](img/1b7cedc599bafc5ba41ada10cb15489c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--as0GcYIJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wkumb20jphd5k5a8mt22.gif)
 
 上图是 zuix 网站本身使用的`zuix-web-starter`的捆绑过程。
 
@@ -161,11 +161,11 @@ Enter fullscreen mode Exit fullscreen mode
 *   迷你机
 *   渐进式 Web 应用程序生成器
 
-[![gotta go](../Images/bc0fae484c46b01970ed766f7985df52.png)T2】](https://i.giphy.com/media/3o7btYYfqOuQAz7SYE/giphy.gif)
+[![gotta go](img/bc0fae484c46b01970ed766f7985df52.png)T2】](https://i.giphy.com/media/3o7btYYfqOuQAz7SYE/giphy.gif)
 
 阅读下一篇:
 
-[![genejams](../Images/ab410dc05437d55e52306d6bb995095d.png)](/genejams) [## 客户端 HTML/CSS 预处理
+[![genejams](img/ab410dc05437d55e52306d6bb995095d.png)](/genejams) [## 客户端 HTML/CSS 预处理
 
 ### { Gene } Aug 7 ' 184 分钟读取
 

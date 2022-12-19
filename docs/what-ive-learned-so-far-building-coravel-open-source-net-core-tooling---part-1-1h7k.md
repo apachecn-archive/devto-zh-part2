@@ -20,7 +20,7 @@
 
 那是在一个星期五。在短短的**两天**[Coravel 回购](https://github.com/jamesmh/coravel)成为 GitHub 上排名第四的 C#回购！哇！我当时(现在仍是)超级谦卑和惊讶！
 
-[![Coravel trending on GitHub](../Images/5ad38e5d0d59768a76a9fd873116bf12.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6tJn239T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.jamesmichaelhickey.com/img/coravel-4th-github.png)
+[![Coravel trending on GitHub](img/5ad38e5d0d59768a76a9fd873116bf12.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6tJn239T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.jamesmichaelhickey.com/img/coravel-4th-github.png)
 
 # 建筑更多特性
 

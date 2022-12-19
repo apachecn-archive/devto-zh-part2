@@ -18,19 +18,19 @@ Google Pay 是谷歌最近推出的面向消费者的支付应用。它将各种
 
 Google Pay 允许用户使用任何保存在其谷歌账户中的信用卡或借记卡进行支付，包括使用 Google Pay 应用程序在 Android 设备上提供的卡。
 
-[![](../Images/33bf9f27538e415e9b7115b3ee28484f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9i3DscoL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ah4T_rtGEBF3krMSBMS7-4A.png) 
+[![](img/33bf9f27538e415e9b7115b3ee28484f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9i3DscoL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ah4T_rtGEBF3krMSBMS7-4A.png) 
 
 <figcaption>*带有非接触式标识的(底部)是设备上的网络令牌；另一张(上图)是保存在用户谷歌账户上的卡片。*</figcaption>
 
 **网络令牌**使用虚拟账号供应并存储到设备。令牌化卡便于在实体店进行点击支付，但它们也包含一次性使用元素，这使它们比普通卡更安全。如果卡的具体信息因任何原因发生变化，发卡机构也可以自动更新这些信息。
 
-[![](../Images/5bf95331eb7d052bb504b02fa4c6a447.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hWxdxi3v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/429/1%2AEJif2DEt3EYFdxIWH00Kaw.png)
+[![](img/5bf95331eb7d052bb504b02fa4c6a447.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hWxdxi3v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/429/1%2AEJif2DEt3EYFdxIWH00Kaw.png)
 
 **保存到谷歌的卡**是存储在用户谷歌账户中的信用卡号。它们通常是在用户为 Google Play、YouTube、Google Cloud 等付费时存储的。用户可以在 https://pay.google.com/payments/的[刷卡。](https://pay.google.com/payments/)
 
 保存到谷歌的卡可供数亿通过各种谷歌服务进行支付的用户使用，因此这可能包括尚未安装或启动 Google Pay 应用程序的用户。
 
-[![](../Images/9022e3750ea73db2af30ff3c850ca66f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5I7ZtByM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/454/1%2AAutdFbgDvJdc7XGwk6B3mA.png)
+[![](img/9022e3750ea73db2af30ff3c850ca66f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5I7ZtByM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/454/1%2AAutdFbgDvJdc7XGwk6B3mA.png)
 
 ### 支付请求 API 和 Google Pay API
 
@@ -60,7 +60,7 @@ Google Pay 是一种基于 URL 的支付方式，可通过支付请求 API 获�
 
 保存到谷歌的卡可以通过 Chrome 支付请求 API 中的基本卡获得。的确如此，但仅限于 Chrome 70。
 
-[![](../Images/89b278887af6d266bf0c9a66c454ecf4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--O1rq6pvN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/730/1%2AA0gsYP2r7Vc6q4UeUZfcQQ.png)
+[![](img/89b278887af6d266bf0c9a66c454ecf4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--O1rq6pvN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/730/1%2AA0gsYP2r7Vc6q4UeUZfcQQ.png)
 
 <figcaption>*chrome://设置/自动填充*</figcaption>
 

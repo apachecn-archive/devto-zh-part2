@@ -6,7 +6,7 @@
 
 当你读这篇文章的时候，把你当成一个计算机爱好者或者一个以计算机和信息为专业的学生也不错。所以知道 python 是什么是必不可少的？
 
-[![alt text](../Images/57f94556c8ee480073f1f090e1f3e834.png "Being High Level")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wgTIVg_z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.devrant.com/devrant/rant/r_389776_tqMPa.jpg)
+[![alt text](img/57f94556c8ee480073f1f090e1f3e834.png "Being High Level")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wgTIVg_z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.devrant.com/devrant/rant/r_389776_tqMPa.jpg)
 
 Python 是一种高级的、简单易学的、功能强大的编程语言，这当然不会让你感到雷神。但是让我们用几行代码写出精彩的代码，可以执行许多功能强大的任务，比如雷神之锤。你可以在他们的 Python 文档中读到更多
 
@@ -20,7 +20,7 @@ Python 是一种高级的、简单易学的、功能强大的编程语言，这�
 
 Python 的第一个也是最好的一个特点是它的文档，这是每个人都忘记提到的。这是 Python 3.6.rc1 文档的链接。它不仅介绍了如何入门，而且给出了深入 Python 的简要步骤。初学者可以从本文档的教程部分开始。但如果你是一个中级或高级程序员，你只需要你故事书或参考指南，只需要检查一些健忘的语法，虽然专业很少忘记这一点，所以他们也不需要这个，其他部分也是为专业和中级程序员准备的。
 
-[![alt text](../Images/72fb84e1f6b2ec32180a1d9cb226ea7b.png "Swag of Python Programmer")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w56IXJjx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.devrant.com/devrant/rant/r_760661_jYdxe.jpg)
+[![alt text](img/72fb84e1f6b2ec32180a1d9cb226ea7b.png "Swag of Python Programmer")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w56IXJjx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.devrant.com/devrant/rant/r_760661_jYdxe.jpg)
 
 ### 英语喜欢的语法
 

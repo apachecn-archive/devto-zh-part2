@@ -6,7 +6,7 @@
 
 这是首发刊物的后续文章，[终于扑+ MVC 了！](https://dev.to/andrious/flutter--mvc-at-last-29j5-temp-slug-5360480)，首先描述了库包，[，mvc_pattern](https://pub.dartlang.org/packages/mvc_pattern) 。它用于在您的移动应用程序中实现 MVC 设计模式。
 
-[![](../Images/6c76e56bc288466bf44bdbcb66438e43.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--N5vWECoY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AUF2pcwIAxPGChgeb3ULRrg.png)T3】
+[![](img/6c76e56bc288466bf44bdbcb66438e43.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--N5vWECoY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AUF2pcwIAxPGChgeb3ULRrg.png)T3】
 
 ### 无怨无悔。嗯…
 
@@ -18,7 +18,7 @@
 
 然而，有了参数，就有点混乱了。我的意思是，你在接受参数的地方“宣布”注入，然后在接收参数的地方。最重要的是，您正在输入相同的导入语句…两次！在许多情况下，没有必要。尽可能只使用一个 import 语句。当您打开一个 Dart 文件时，一眼就可以看到依赖注入——只需查看导入语句。您很容易看到该文件中包含的依赖关系。
 
-[![](../Images/15420bfa94a7fc3bedc8a516bcdf5d47.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mPv9d1aL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ARN3zgMpt2K9SRq8_ZjfmdQ.jpeg)
+[![](img/15420bfa94a7fc3bedc8a516bcdf5d47.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mPv9d1aL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ARN3zgMpt2K9SRq8_ZjfmdQ.jpeg)
 
 ### 飞镖文件。不仅仅是文件。是图书馆！
 
@@ -30,7 +30,7 @@ Dart 文件被称为库，我认为这是因为你可以在同一个文件中声
 
 再看看上面的截图。(如果你太懒，就看下面。)控制器类被称为“Con”而不是“Controller”。它可以被称为“阿尔伯克基”因为我在乎！文件 Controller.dart 可以包含任意数量的类、函数和变量！您可以简单地将 import 语句留在那里“很久很久”,然后在这段时间内，切换并更改文件 Controller.dart 中的代码，而不修改下面代码中的一个字符……非常大。
 
-[![](../Images/15420bfa94a7fc3bedc8a516bcdf5d47.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mPv9d1aL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ARN3zgMpt2K9SRq8_ZjfmdQ.jpeg)
+[![](img/15420bfa94a7fc3bedc8a516bcdf5d47.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mPv9d1aL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ARN3zgMpt2K9SRq8_ZjfmdQ.jpeg)
 
 ### 有选项。伙计。你有选择！
 
@@ -40,9 +40,9 @@ Dart 文件被称为库，我认为这是因为你可以在同一个文件中声
 
 第一种方法是让 AppMVC 类使用自己的 **build()** 函数定义视图，并将控制器作为其父类构造函数的参数。然后，文件 MyHomePage.dart 相对直接，从静态字段引用控制器。
 
-[![](../Images/1afc3e35e0dc7a5d9d429ba99ae80669.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XFPvfS6j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AiNYGuHFTyMLWGTNWE3oiUQ.jpeg)
+[![](img/1afc3e35e0dc7a5d9d429ba99ae80669.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XFPvfS6j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AiNYGuHFTyMLWGTNWE3oiUQ.jpeg)
 
-[![](../Images/57281cb13f744af8dd890f5ed862d4df.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UY6GfNns--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AjyhM3g0kRGb4Zu5VWbUGMQ.jpeg) 
+[![](img/57281cb13f744af8dd890f5ed862d4df.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UY6GfNns--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AjyhM3g0kRGb4Zu5VWbUGMQ.jpeg) 
 
 <figcaption>[首先走近](https://gist.github.com/Andrious/983f685b1cddf4090a087c332e6962b5)要点。</figcaption>
 
@@ -50,13 +50,13 @@ Dart 文件被称为库，我认为这是因为你可以在同一个文件中声
 
 接下来的两种方法将视图和控制器移动到文件 MyHomePage.dart 中，在这种情况下，留下“main”类来扩展 StatelessWidget。
 
-[![](../Images/c7abf2339f519aa0ca2456a49aff111e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Pyj5wkU0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2At15PP5qInkhH0X-CIYjKHQ.png)
+[![](img/c7abf2339f519aa0ca2456a49aff111e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Pyj5wkU0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2At15PP5qInkhH0X-CIYjKHQ.png)
 
 ### 对抗状态
 
 在第二种方法中，状态对象应用于 MVC 实现。这样，现在表示视图的是状态对象的 **build()** 函数，并且这个状态对象现在将控制器接收到其父类的构造函数中。State 对象扩展了 MVC 库包 mvc_pattern 中的 State 类 StateMVC。
 
-[![](../Images/52a50481bcda81e439b606e5efd86365.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--m_40pjj1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AdQb3pmb45JhMuhukZGiyfA.jpeg) 
+[![](img/52a50481bcda81e439b606e5efd86365.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--m_40pjj1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AdQb3pmb45JhMuhukZGiyfA.jpeg) 
 
 <figcaption>[第二种方法](https://gist.github.com/Andrious/68dd50f14401f957b78dc79fb7c66022)阐述要旨。</figcaption>
 
@@ -64,7 +64,7 @@ Dart 文件被称为库，我认为这是因为你可以在同一个文件中声
 
 在第三个和最后一个(或者是？)方法。涉及到两个新的课程。这种方法为您提供了自己专用的视图类。一个是实现它的 **build()** 函数。同样，MVC 库包中的 State 类用于实现 MVC 设计模式。它被称为 StateViewMVC，它的父类构造函数接受我提到的这个专用视图类，它扩展了 ViewMVC 类。这个视图类依次将控制器放入其父类的构造函数中。
 
-[![](../Images/f1e74e2dc0b5818c8c3ec4043f7446eb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AAPQHbkP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ANZoeOfUvLTRHQ9pi_4XL2A.jpeg) 
+[![](img/f1e74e2dc0b5818c8c3ec4043f7446eb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AAPQHbkP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ANZoeOfUvLTRHQ9pi_4XL2A.jpeg) 
 
 <figcaption>[第三种方法](https://gist.github.com/Andrious/efc0c9e185f6e9c63c7bdec0cefbbcff)阐述要旨。</figcaption>
 
@@ -208,7 +208,7 @@ Dart 文件被称为库，我认为这是因为你可以在同一个文件中声
 
 为了鼓励模块化和并行开发，该框架允许任意数量的开发人员向应用程序贡献他们自己的控制器，甚至他们自己的“状态视图”。然而，允许一个开发人员访问另一个开发人员的控制器之类的东西并不是一种好的形式。因此，从一个视图可能拥有的任何控制器列表中，例如，开发人员可以通过使用唯一的字符串标识符来挑选他们自己的……
 
-[![](../Images/b2552094792ad67a048fb0b203037680.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--br9tm489--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aw1DqaxKVIzN13Xp9Hc_IVw.jpeg) 
+[![](img/b2552094792ad67a048fb0b203037680.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--br9tm489--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aw1DqaxKVIzN13Xp9Hc_IVw.jpeg) 
 
 <figcaption>一个控制器的唯一字符串标识符。</figcaption>
 
@@ -218,7 +218,7 @@ Dart 文件被称为库，我认为这是因为你可以在同一个文件中声
 
 下面，你可以看到在“StateView”和 ViewMVC 类中有多达四种方法来访问你的控制器。每个类中列出的第一种方法只是将控制器本身分配给一个公共的“getter”。然而，其他三种方法需要控制器的唯一字符串标识符 keyId。
 
-[![](../Images/f17bf9978daa9332a5100a5cc4d56eac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TM6qKHJ1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AR_LTim6KaUb3hiazGMCv4A.jpeg)
+[![](img/f17bf9978daa9332a5100a5cc4d56eac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TM6qKHJ1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AR_LTim6KaUb3hiazGMCv4A.jpeg)
 
 注意，在 MyHomePageView 类中，可以引用“StateView”对象 MyHomePageState。可以想象，有了所有控制器的按键，你就可以得到你负责的所有控制器。例如，在地图或列表中抓取它们。你有选择。所有这些都无法访问其他开发者的控制器。很好。
 
@@ -226,11 +226,11 @@ Dart 文件被称为库，我认为这是因为你可以在同一个文件中声
 
 下面，为了演示“StateView”类中“keyId”字段的用法，实现了对“AppMVC”对象的静态引用。在本例中，AppMVC 类在控制器中被引用。
 
-[![](../Images/33eae40fa31b1092a10b886c66616833.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FrnIrBWS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aj_DHgafuDYpj1NuOZ-aTow.jpeg)
+[![](img/33eae40fa31b1092a10b886c66616833.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FrnIrBWS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aj_DHgafuDYpj1NuOZ-aTow.jpeg)
 
 下面你可以看到四种访问与控制器相关的“状态视图”的方法。当然，第一种方法使用控制器自己的属性字段 stateView。接下来的三种方式同样涉及到唯一的字符串标识符。一个标识符，在这种情况下，当您实现 AppMVC 类时，它被分配给“StateView”对象。最后，请注意语句“var view = _sv1.view”引用了扩展 ViewMVC 类的 MyHomePageView 类。
 
-[![](../Images/3517f318427e2a07a63d368dd336216c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PQwGceU---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AgOhZm5cbJKu0Ceqo7aortg.jpeg)
+[![](img/3517f318427e2a07a63d368dd336216c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PQwGceU---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AgOhZm5cbJKu0Ceqo7aortg.jpeg)
 
 ### 工业实力
 

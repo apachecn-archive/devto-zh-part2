@@ -10,7 +10,7 @@
 
 正如我们之前说过的，函数式编程始于 50 年代，当时创建了 Lisp 来运行在 IBM700/7000 系列科学计算机上。Lisp 引入了许多我们现在与函数式编程联系在一起的范例和特性，虽然我们可以称 **Lisp** 为函数式编程的鼻祖，但我们甚至可以进一步追溯到所有函数式编程语言的共同根源 **Lambda Calculus** 。
 
-[![Ahh the good ole days](../Images/476b4d3d33f7c9d8492f36b8e6c6f0cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0DQIPUVi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/b/b9/NASAComputerRoom7090.NARA.jpg)
+[![Ahh the good ole days](img/476b4d3d33f7c9d8492f36b8e6c6f0cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0DQIPUVi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/b/b9/NASAComputerRoom7090.NARA.jpg)
 
 这是函数式编程最有趣的方面；所有的函数式编程语言都基于同一个简单的数学基础， **Lambda 演算**。
 

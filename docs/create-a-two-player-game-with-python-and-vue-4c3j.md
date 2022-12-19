@@ -8,7 +8,7 @@
 
 在本教程中，我们将使用 Python 和 Pusher 通道创建一个实时井字游戏。这是一个游戏创建后的外观和行为的演示:
 
-[![](../Images/8ca1e1d194a0427324c093d10ce91d2f.png)T2】](//images.ctfassets.net/1es3ne0caaid/1RGRfjXfgQgYWYy2kqImOs/0c1db39f9371dbb773638ffe57bfd385/python-vue-game-demo.gif)
+[![](img/8ca1e1d194a0427324c093d10ce91d2f.png)T2】](//images.ctfassets.net/1es3ne0caaid/1RGRfjXfgQgYWYy2kqImOs/0c1db39f9371dbb773638ffe57bfd385/python-vue-game-demo.gif)
 
 这种多人游戏将允许玩家使用他们首选的用户名连接(或者在玩家没有使用用户名连接的情况下生成随机用户名)，并从其他在线玩家列表中选择与另一个玩家一起玩。
 
@@ -587,7 +587,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，如果我们访问 [localhost:5000](http://localhost:5000) ，我们应该会看到连接页面并测试游戏:
 
-[![](../Images/8ca1e1d194a0427324c093d10ce91d2f.png)T2】](//images.ctfassets.net/1es3ne0caaid/1RGRfjXfgQgYWYy2kqImOs/0c1db39f9371dbb773638ffe57bfd385/python-vue-game-demo.gif)
+[![](img/8ca1e1d194a0427324c093d10ce91d2f.png)T2】](//images.ctfassets.net/1es3ne0caaid/1RGRfjXfgQgYWYy2kqImOs/0c1db39f9371dbb773638ffe57bfd385/python-vue-game-demo.gif)
 
 ## 结论
 

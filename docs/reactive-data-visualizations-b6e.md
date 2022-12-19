@@ -51,7 +51,7 @@ students:  [{  "name":  "Jack",  "grade":  100  },  {  "name":  "Mary",  "grade"
 
 这将为我们提供一个简单的表单来编辑任何分数:
 
-[![form fields](../Images/801960e431b71c49f36c0fdd5e7599ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kiEX6q_J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9n19t6nfzcm4fky1ffyy.png)
+[![form fields](img/801960e431b71c49f36c0fdd5e7599ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kiEX6q_J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9n19t6nfzcm4fky1ffyy.png)
 
 表单就绪后，接下来要做的事情是将这些元素中的数据与数据可视化的组件相关联。为了简单起见，我选择了条形图。所需要的只是使宽度成为坡度的函数，而 y 位置成为数组索引的函数:
 
@@ -69,6 +69,6 @@ students:  [{  "name":  "Jack",  "grade":  100  },  {  "name":  "Mary",  "grade"
 
 Vue.js 将负责绑定表单字段和图表之间的数据。我们现在有了一个全功能反应图。添加一点样式，你应该有这样的东西:
 
-[![Reactive Chart](../Images/4896fb5e4fc3954eac3c38c742e109a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HMIuy2Fw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d0lfkzia6vdxbi1d6asa.png)
+[![Reactive Chart](img/4896fb5e4fc3954eac3c38c742e109a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HMIuy2Fw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d0lfkzia6vdxbi1d6asa.png)
 
 从这里开始，我让你来使用反应数据创建一些辉煌的视觉效果。你可以在我的 [GitHub](https://github.com/ignoreintuition/reactiveData) 上找到我的项目的完整源代码，如果你正在寻找灵感，你可以看到我在我的 [D3Vue 项目](https://github.com/ignoreintuition/d3vue)中创建的一些反应可视化。干杯。

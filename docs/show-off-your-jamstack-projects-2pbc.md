@@ -6,7 +6,7 @@
 
 直到几个月前，我才开始关注“JAMstack”趋势，如果你不熟悉这个术语，可以看看这篇文章:
 
-[![lewismenelaws image](../Images/654b262827a320f8aa641fd7160ae9e7.png)](/lewismenelaws) [## 詹姆斯塔克。网站如何在膨胀的网络中变得更快。
+[![lewismenelaws image](img/654b262827a320f8aa641fd7160ae9e7.png)](/lewismenelaws) [## 詹姆斯塔克。网站如何在膨胀的网络中变得更快。
 
 ### 刘易斯·梅内利奥斯
 

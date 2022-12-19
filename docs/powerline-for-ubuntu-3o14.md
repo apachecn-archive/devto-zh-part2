@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jeancarlosn/powerline-for-ubuntu-3o14>
 
-[![](../Images/c7e3e23d4191b518c0331aa5f1beaf46.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2B9fc_AG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d1bwwtixojkmk2eui2t2.png)
+[![](img/c7e3e23d4191b518c0331aa5f1beaf46.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2B9fc_AG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d1bwwtixojkmk2eui2t2.png)
 
 第一步->在你的控制台中写:`sudo apt install powerline`。
 

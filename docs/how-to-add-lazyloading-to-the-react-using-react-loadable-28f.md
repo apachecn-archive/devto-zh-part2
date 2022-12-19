@@ -20,7 +20,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我已经将头文件和路由器配置文件清楚地分开，以便于阅读。
 
-[![](../Images/f22c9c3d4ab08543c61b539e5870574d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fUBlQe3M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s8i6n6hng7j05nidrnqr.png)
+[![](img/f22c9c3d4ab08543c61b539e5870574d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fUBlQe3M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s8i6n6hng7j05nidrnqr.png)
 
 应用程序文件夹结构应该如上图所示。
 

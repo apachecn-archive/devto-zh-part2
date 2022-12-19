@@ -12,10 +12,10 @@ Selenium 是开源和免费的，但是在这个“免费”软件上构建和�
 
 还要考虑构建和管理运行这些测试的基础设施的成本。
 
-[![endtest testim mabl ghost inspector](../Images/bc2958810f5bf901f38b9c3d462577b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FyvYpUyF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/eGwjDXS.png)
+[![endtest testim mabl ghost inspector](img/bc2958810f5bf901f38b9c3d462577b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FyvYpUyF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/eGwjDXS.png)
 
 现在让我们来看看成本:
 
-[![endtest testim mabl ghost inspector](../Images/703365f5a39f0dc3631f556f231d9b84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3Z3RgRAv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/fYc33uf.png)
+[![endtest testim mabl ghost inspector](img/703365f5a39f0dc3631f556f231d9b84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3Z3RgRAv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/fYc33uf.png)
 
 如您所见， [Endtest](https://endtest.io) 的定价方案为您的资金提供了最佳价值，特别是考虑到上面比较中提到的所提供的功能数量。

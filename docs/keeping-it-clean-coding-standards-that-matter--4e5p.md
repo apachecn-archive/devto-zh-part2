@@ -26,27 +26,27 @@
 这是我们所关注的，希望这是相当清楚的:
 CHANGELOG.md 文件示例:
 
-[![Changelog sample](../Images/a5b05c7e21109ff7a0cc35e6ebabda40.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5Y9nyIta--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lhuria94.github.io/assets/img/2017-07-26-coding-standards-that-matter/changelog.png)
+[![Changelog sample](img/a5b05c7e21109ff7a0cc35e6ebabda40.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5Y9nyIta--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lhuria94.github.io/assets/img/2017-07-26-coding-standards-that-matter/changelog.png)
 
 *   添加@see 是一个很好的做法，引用类，这将有助于通过使用 IDE(如 PHPStorm)或编辑器(如 Sublime 等)轻松导航到该类定义，只需单击一下。
 
-[![Function referencing](../Images/1b890e2b096ea4a27fb487a931ab36fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XEw5ai9Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lhuria94.github.io/assets/img/2017-07-26-coding-standards-that-matter/fn-referencing.png)
+[![Function referencing](img/1b890e2b096ea4a27fb487a931ab36fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XEw5ai9Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lhuria94.github.io/assets/img/2017-07-26-coding-standards-that-matter/fn-referencing.png)
 
 *   必要时添加@TODOS。如果你觉得你的代码在未来可以改进，并且你有如何改进的想法，但目前没有足够的时间，这是非常重要的。在代码片段上面提到需要改进的地方。一个很好的例子是:
 
-[![Todo example](../Images/cc4b74b2c4659425f8b24c10d499e65e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IU5-yv5t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lhuria94.github.io/assets/img/2017-07-26-coding-standards-that-matter/todo-example.png)
+[![Todo example](img/cc4b74b2c4659425f8b24c10d499e65e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IU5-yv5t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lhuria94.github.io/assets/img/2017-07-26-coding-standards-that-matter/todo-example.png)
 
 *   创建 README.md 文件，以便其他人可以轻松理解该模块的工作原理。例如:
 
-[![Readme example](../Images/29386ffc00d57037386445a6d2bf4082.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9TZj29_p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lhuria94.github.io/assets/img/2017-07-26-coding-standards-that-matter/readme-example.png)
+[![Readme example](img/29386ffc00d57037386445a6d2bf4082.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9TZj29_p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lhuria94.github.io/assets/img/2017-07-26-coding-standards-that-matter/readme-example.png)
 
 *   “文档块”是一种特殊的代码注释，它解释了代码块的用途、参数、返回值和抛出异常。
 
-[![Docblock example](../Images/be0dd5c7e9faed3731d545c3f90a13cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YPIQ3llH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lhuria94.github.io/assets/img/2017-07-26-coding-standards-that-matter/docblock-example.png)
+[![Docblock example](img/be0dd5c7e9faed3731d545c3f90a13cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YPIQ3llH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lhuria94.github.io/assets/img/2017-07-26-coding-standards-that-matter/docblock-example.png)
 
 我在一条简单的推文中发现了一些非常有用的信息:
 
-> ![Larry Garfield profile image](../Images/b87cea881053fdbf440c0f0799557a13.png)拉里·加菲尔德@ crell![twitter logo](../Images/74b03a903e302feaec877e37a7689665.png)如果你的 docblock 没有提供比读取 func 签名更多的信息，你只是在浪费我的时间。[# RealDocs](https://twitter.com/hashtag/RealDocs)2014 年 12 月 01 日 22 点 32 分[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=539547553608761344)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=539547553608761344)7[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=539547553608761344)6
+> ![Larry Garfield profile image](img/b87cea881053fdbf440c0f0799557a13.png)拉里·加菲尔德@ crell![twitter logo](img/74b03a903e302feaec877e37a7689665.png)如果你的 docblock 没有提供比读取 func 签名更多的信息，你只是在浪费我的时间。[# RealDocs](https://twitter.com/hashtag/RealDocs)2014 年 12 月 01 日 22 点 32 分[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=539547553608761344)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=539547553608761344)7[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=539547553608761344)6
 
 **格式化**
 
@@ -99,11 +99,11 @@ CHANGELOG.md 文件示例:
 
 您可以在这里查看最简单的基本配置:
 
-[![travis repo example](../Images/4546e6aab787e9b7dc78e6dce7e075c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uFzot9EC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lhuria94.github.io/assets/img/2017-07-26-coding-standards-that-matter/travis-repo.png)
+[![travis repo example](img/4546e6aab787e9b7dc78e6dce7e075c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uFzot9EC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lhuria94.github.io/assets/img/2017-07-26-coding-standards-that-matter/travis-repo.png)
 
 当您准备好 phpunit 测试并且通过了测试时，它将在您的提交中显示如下内容:
 
-[![travis success message](../Images/6ce570b5e9a4fa1a6c7f50fbb4b5ef51.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A73HLU_X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lhuria94.github.io/assets/img/2017-07-26-coding-standards-that-matter/travis-success-msg.png)
+[![travis success message](img/6ce570b5e9a4fa1a6c7f50fbb4b5ef51.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A73HLU_X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lhuria94.github.io/assets/img/2017-07-26-coding-standards-that-matter/travis-success-msg.png)
 
 你可以点击查看简单的 Travis 设置[:](https://github.com/lhuria94/drupal/pull/3)
 

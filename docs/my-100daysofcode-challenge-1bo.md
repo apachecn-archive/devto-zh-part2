@@ -6,7 +6,7 @@
 
 开始这个挑战已经在我的脑海里有一段时间了，我最终决定现在是时候投入其中了。今天是我的第一天。你可能想知道我为什么决定加入#100daysOfCode？或者在挑战中我打算做什么？好吧，下面全部回答。当然，随着 100 天的进展，这种情况可能会改变。因此，要跟上进度，请定期查看本博客或关注我的#100daysOfCode Github repo。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [ EndlessTrax ](https://github.com/EndlessTrax) / [百日代码-2018](https://github.com/EndlessTrax/100-days-of-code-2018)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [ EndlessTrax ](https://github.com/EndlessTrax) / [百日代码-2018](https://github.com/EndlessTrax/100-days-of-code-2018)
 
 ### 我的第一个 100 天代码挑战！祝我好运...
 

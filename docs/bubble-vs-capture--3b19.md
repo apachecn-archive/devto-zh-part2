@@ -37,13 +37,13 @@ document.querySelector('.box-3').addEventListener('click', e => {
 
 ### 你认为当我点击方框-3 时会发生什么？我们去看看。
 
-[![bubbling-gif](../Images/9143c48cb3aced6ce717a00e9522e7db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jGpL5QLZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/kHzoby8.gif)
+[![bubbling-gif](img/9143c48cb3aced6ce717a00e9522e7db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jGpL5QLZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/kHzoby8.gif)
 
 ### 示例结论
 
 当我们点击。box-3 事件被触发，并在控制台 Box-3、Box-2、Bob-1 中打印出来。因此，正如我们在图片中看到的那样，该事件是由被点击到顶部的元素触发的。这就是冒泡，首先由最内部的元素捕获和处理，然后传播到外部元素。
 
-[![bubbling-img](../Images/20bb6a2b921dc28d879de47dc28ca3d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0jyAWv8T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pywh75b7ewbjrr1l6l3n.png)
+[![bubbling-img](img/20bb6a2b921dc28d879de47dc28ca3d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0jyAWv8T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pywh75b7ewbjrr1l6l3n.png)
 
 现在让我们来看看捕捉。要将其设置为使用捕获事件传播，您必须将 addEventListener 中的第三个(可选)参数设置为 true。
 
@@ -63,13 +63,13 @@ document.querySelector('.box-3').addEventListener('click', e => {
 
 让我们再次点击框-3，看看会发生什么。
 
-[![capturing-gif](../Images/85e8d5df04482898325eb0d35516e09f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2QaP9By0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/WWcUruq.gif)
+[![capturing-gif](img/85e8d5df04482898325eb0d35516e09f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2QaP9By0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/WWcUruq.gif)
 
 ### 示例结论捕获
 
 从上面的例子可以看出，当我们单击 Box-3 时，它首先触发 Box-1，然后是 Box-2，最后是我们单击的元素。这就是我们所说的从上到下捕获它(到我们触发事件的元素)。
 
-[![capture-img-example](../Images/5fce3e3e0c622151864978059f258a4d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4dmgbJ31--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/id61mkalwiedrm2l2az3.png)
+[![capture-img-example](img/5fce3e3e0c622151864978059f258a4d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4dmgbJ31--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/id61mkalwiedrm2l2az3.png)
 
 # 最终结论
 

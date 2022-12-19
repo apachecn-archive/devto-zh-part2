@@ -22,7 +22,7 @@
 
 OAuth2 初看起来可能令人生畏，但由于每个主要平台(Twitter、脸书、谷歌和无数其他平台)都使用它来访问 API 的认证部分，您很快就会了解它。通过您的应用程序登录用户的过程非常简单:
 
-[![OAuth 2.0 Authentication Process with NextJS App](../Images/71810041b0fba55f27625bc8eccc2ef3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gCngy_Ol--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://whoisryosuke.com/static/OAuth2-Process.min-cad1af9f2e2fcbae4bb95cd96a966a6f-e2462.png)
+[![OAuth 2.0 Authentication Process with NextJS App](img/71810041b0fba55f27625bc8eccc2ef3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gCngy_Ol--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://whoisryosuke.com/static/OAuth2-Process.min-cad1af9f2e2fcbae4bb95cd96a966a6f-e2462.png)
 
 1.  您登录到想要用于身份验证的 API，并使用回调 URL 创建一个新的 **"client"** 。这个回调 URL 是应用程序上的页面，API 在用户登录后重定向用户。在 Twitter 上，这是“应用”页面吗？
 

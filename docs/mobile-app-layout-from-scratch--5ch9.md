@@ -90,7 +90,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 接下来阅读:
 
-[![genejams](../Images/ab410dc05437d55e52306d6bb995095d.png)](/genejams) [## 独特、可爱的网页
+[![genejams](img/ab410dc05437d55e52306d6bb995095d.png)](/genejams) [## 独特、可爱的网页
 
 ### { Gene } Jul 26 ' 183min read
 

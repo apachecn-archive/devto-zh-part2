@@ -6,7 +6,7 @@
 
 小时候，我会在我父亲经营的餐馆里闲逛，惊奇地看着彩票走过它们的生命周期:记在记事本上，输入电脑，在厨房打印，端上桌，最后，被钉上钉子。
 
-[![](../Images/7cd2add857983d1317cc0a59de76ba14.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4Ue3hVcE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jzeeq9v3qblc15gq51fe.jpeg) 
+[![](img/7cd2add857983d1317cc0a59de76ba14.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4Ue3hVcE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jzeeq9v3qblc15gq51fe.jpeg) 
 
 <figcaption>(注意手指)</figcaption>
 
@@ -34,7 +34,7 @@
 
 这顿饭是一个*过程*，一系列的决定，每一个都建立在之前的结果之上。如果我选择了意大利面，这个世界将会是一个不同的地方(哪怕只是一点点)。服务员、厨房和我都有指导我们参与的内部模型，有相似的概念，但来自不同的参考框架。
 
-[![](../Images/4bfa36b8b4dd5e5e8825f9e881d89096.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l6EjJMB5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wh9cbc8dooerqhsg8cf1.jpeg)
+[![](img/4bfa36b8b4dd5e5e8825f9e881d89096.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l6EjJMB5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wh9cbc8dooerqhsg8cf1.jpeg)
 
 数据的相关性将设计从单一数据库中解放出来。曾经是一个系统知识的集中表示，现在分解成一个视角的集合，每个视角都有一个针对其关注点的微调模型。我不知道我的三明治是如何穿过厨房的，我只知道我点了餐，等着，然后收到了它。我在这个过程中的角色决定了我感兴趣的数据的相关性和形式。
 

@@ -119,7 +119,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 使用上面的命令，您可以创建一个热图，显示日志的格式和出现的行。热图左边是预估的格式，上面的表头是行数(行号到行号)，右边是总对数。下图有点小，不好看，不过 HTML 文件本身也可以从[这里](https://www.dropbox.com/s/72n7hd9vhc2bmet/secure.html?dl=0)下载。
 
-[![](../Images/5a19db5752cfbe49c59c85ccebdac717.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VoKiCuz5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mebw99ulr5asg2kg9gvy.png)
+[![](img/5a19db5752cfbe49c59c85ccebdac717.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VoKiCuz5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mebw99ulr5asg2kg9gvy.png)
 
 [大尺寸图像](https://www.dropbox.com/s/y8flhuokk0cjfqt/secure.png)
 

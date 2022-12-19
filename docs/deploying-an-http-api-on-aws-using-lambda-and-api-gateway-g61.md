@@ -35,7 +35,7 @@
 
 下图说明了目标体系结构。客户端向 API 网关发送一个 HTTP 请求。网关将丰富该请求并将其转发给 Lambda 函数。函数定义存储在 S3 上并动态加载。Lambda 函数的结果将由 API 网关处理，并向客户端返回相应的响应。
 
-[![architecture](../Images/1d5397f79316be00f007cef69e89f7ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4h0Kd-Xz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0lexbp7wacyq34etri3h.png)
+[![architecture](img/1d5397f79316be00f007cef69e89f7ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4h0Kd-Xz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0lexbp7wacyq34etri3h.png)
 
 在我们的具体例子中，我们将使用 Scala 开发程序逻辑。汇编后的`jar`文件将被发布到 S3，并用于处理请求。我们现在将在概念层面上简要介绍各个组件。
 
@@ -65,7 +65,7 @@ API 通过集成请求和集成响应与后端接口。它不充当简单的代�
 
 [AWS S3](https://aws.amazon.com/s3/) 是 AWS 提供的对象存储。对象本身可以是任何东西，例如 HTML 文件、ZIP 文件或图片。
 
-对象被组织在所谓的*桶*中，充当全局名称空间。在每个桶中，您的对象将由一个层次键寻址。URL `s3.eu-central-1.amazonaws.com/usa-trip/images/feelsbadman.jpg`将用于访问存储在`eu-central-1`区域中的`usa-trip`桶内的对象`/images/feelsbadman.jpg`。
+对象被组织在所谓的*桶*中，充当全局名称空间。在每个桶中，您的对象将由一个层次键寻址。URL `s3.eu-central-1.amazonaws.com/usa-trimg/feelsbadman.jpg`将用于访问存储在`eu-central-1`区域中的`usa-trip`桶内的对img/feelsbadman.jpg`。
 
 架构够了，再来看实现。
 

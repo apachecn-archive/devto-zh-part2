@@ -44,19 +44,19 @@ SharePoint 和 Office 365 已经走过了漫长的道路，看到微软这些年
 
 Bing 中的新体验将把 web 结果和组织结果(来自 SharePoint、微软团队、Yammer 等)结合在一起。
 
-[![](../Images/32fa0d91da641c85ea6c90f3879fb45d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VE-IFGfw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blogit.create.pt/wp-content/uploads/2018/11/Microsoft_Search_Bing.jpg%3Fresize%3D696%252C416%26ssl%3D1)
+[![](img/32fa0d91da641c85ea6c90f3879fb45d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VE-IFGfw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blogit.create.pt/wp-content/uploads/2018/11/Microsoft_Search_Bing.jpg%3Fresize%3D696%252C416%26ssl%3D1)
 
 ## 微软在 Office.com 搜索
 
 可以从 Office.com 门户网站搜索相同的搜索范围，并快速找到与您最相关的文档，包括您最近处理的文档(所有这些都由 Graph API 提供)。
 
-[![](../Images/5e22836c72dcb8ba98a0df82a3717d7f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QLMKOfjC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blogit.create.pt/wp-content/uploads/2018/11/Microsoft_Search_Office.jpg%3Fresize%3D696%252C391%26ssl%3D1)
+[![](img/5e22836c72dcb8ba98a0df82a3717d7f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QLMKOfjC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blogit.create.pt/wp-content/uploads/2018/11/Microsoft_Search_Office.jpg%3Fresize%3D696%252C391%26ssl%3D1)
 
 ## 微软 Office 应用搜索(2019 年发布)
 
 将于 2019 年上半年发布，是办公应用程序(包括桌面、网络和移动应用程序)中一致的搜索体验。
 
-[![](../Images/f707ccd1ccc39dcef380803dd0b0ac2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2Ma3yBbO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blogit.create.pt/wp-content/uploads/2018/11/Microsoft_Search_OfficeApps.jpg%3Fresize%3D696%252C390%26ssl%3D1)
+[![](img/f707ccd1ccc39dcef380803dd0b0ac2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2Ma3yBbO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blogit.create.pt/wp-content/uploads/2018/11/Microsoft_Search_OfficeApps.jpg%3Fresize%3D696%252C390%26ssl%3D1)
 
 关于微软搜索的更多细节，点击[此处](https://www.microsoft.com/en-us/microsoft-365/blog/2018/09/24/microsoft-search-cohesive-search-that-intelligently-helps-you-find-discover-command-and-navigate/)。
 
@@ -77,7 +77,7 @@ Bing 中的新体验将把 web 结果和组织结果(来自 SharePoint、微软�
 
 可能是在 Office 365 中用 SharePoint 构建现代内部网的最重要、最激动人心的公告！现在，基于现代团队站点和通信站点的平面信息体系结构是新的建议，尽管存在中心站点，但仍然缺少一个将所有站点和中心站点粘合在一起的部分，以便为整个组织构建内部网导航。有了大菜单，就有可能超越简单的下拉菜单，建立一个同时显示多个层次的菜单。这是一个大菜单的样子:
 
-[![](../Images/04c6858103b2d0316d1adf1ad793a42c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--24N4_bj_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blogit.create.pt/wp-content/uploads/2018/11/SharePoint_Megamenu.jpg%3Fresize%3D696%252C463%26ssl%3D1)
+[![](img/04c6858103b2d0316d1adf1ad793a42c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--24N4_bj_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blogit.create.pt/wp-content/uploads/2018/11/SharePoint_Megamenu.jpg%3Fresize%3D696%252C463%26ssl%3D1)
 
 ## 新建 Web 部件
 
@@ -87,7 +87,7 @@ Bing 中的新体验将把 web 结果和组织结果(来自 SharePoint、微软�
 *   最近文档的个性化视图(我的最近文档)
 *   新闻的个性化视图(我的新闻)
 
-[![](../Images/b8ed77e29a3d144a1023bb801f0f28d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dopriUz0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blogit.create.pt/wp-content/uploads/2018/11/SharePoint_Personalized_WebParts.jpg%3Fresize%3D696%252C428%26ssl%3D1)
+[![](img/b8ed77e29a3d144a1023bb801f0f28d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dopriUz0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blogit.create.pt/wp-content/uploads/2018/11/SharePoint_Personalized_WebParts.jpg%3Fresize%3D696%252C428%26ssl%3D1)
 
 宣布的其他 web 部件和 web 部件功能:
 
@@ -98,7 +98,7 @@ Bing 中的新体验将把 web 结果和组织结果(来自 SharePoint、微软�
 
 受众定位在 SharePoint 中已存在多年，现在可以将受众应用于新闻和突出显示的内容 Web 部件，以便可以在同一页面中显示不同的信息，这取决于谁在访问该页面。
 
-[![](../Images/df18c6a110d7b98bd2115accbbd03e98.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cw2k97Tr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blogit.create.pt/wp-content/uploads/2018/11/SharePoint_AudienceTargeting_WebParts.jpg%3Fresize%3D696%252C463%26ssl%3D1)
+[![](img/df18c6a110d7b98bd2115accbbd03e98.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cw2k97Tr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blogit.create.pt/wp-content/uploads/2018/11/SharePoint_AudienceTargeting_WebParts.jpg%3Fresize%3D696%252C463%26ssl%3D1)
 
 ## 页眉布局和页脚配置
 
@@ -111,7 +111,7 @@ Bing 中的新体验将把 web 结果和组织结果(来自 SharePoint、微软�
 
 组织和团队现在将能够向用户提供对组织的批准图像的简单访问。例如，营销部门可以在一个集中的位置共享所有人都可以使用的所有营销批准的图像。
 
-[![](../Images/e59b8d44e2c8e86c6e9f23ffe8a0c217.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OWkn-1gF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blogit.create.pt/wp-content/uploads/2018/11/SharePoint_Central_AssetLibrary.jpg%3Fresize%3D696%252C477%26ssl%3D1)
+[![](img/e59b8d44e2c8e86c6e9f23ffe8a0c217.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OWkn-1gF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blogit.create.pt/wp-content/uploads/2018/11/SharePoint_Central_AssetLibrary.jpg%3Fresize%3D696%252C477%26ssl%3D1)
 
 ## 交流网站体验根办公室 365 房客
 
@@ -123,11 +123,11 @@ Bing 中的新体验将把 web 结果和组织结果(来自 SharePoint、微软�
 
 *   **对于最终用户:**可以直接从中心站点创建团队站点或通信站点。如果从中心站点创建站点，用户将获得新的站点体验，并且它将自动关联到中心站点
 
-[![](../Images/4d52522b80b3ea2b4456470464639f00.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f3jqv17T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blogit.create.pt/wp-content/uploads/2018/11/SharePoint_HubSites.jpg%3Fresize%3D696%252C463%26ssl%3D1)
+[![](img/4d52522b80b3ea2b4456470464639f00.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f3jqv17T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blogit.create.pt/wp-content/uploads/2018/11/SharePoint_HubSites.jpg%3Fresize%3D696%252C463%26ssl%3D1)
 
 *   **对于管理员:**可以从 Office 365 中的 SharePoint 管理中心创建中心网站，将现有的现代团队网站或通信网站与中心网站相关联，并查看中心网站关联的网站
 
-[![](../Images/b9e1a7677a4aee714ad75dca071f1345.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bXcxFRGB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blogit.create.pt/wp-content/uploads/2018/11/SharePoint_HubSites_Admin.jpg%3Fresize%3D696%252C439%26ssl%3D1)
+[![](img/b9e1a7677a4aee714ad75dca071f1345.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bXcxFRGB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blogit.create.pt/wp-content/uploads/2018/11/SharePoint_HubSites_Admin.jpg%3Fresize%3D696%252C439%26ssl%3D1)
 
 ## 新增页面功能
 

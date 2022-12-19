@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/robertjgabriel/i-made-an-app-that-gives-you-access-too-20000-plus-hidden-netflix-categories-1i7k>
 
-[![alt text](../Images/6889c28449901a1ddc716c090c200144.png "Logo Title Text 1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z12kmFTr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6cln46t2nk6runeb25m2.png)
+[![alt text](img/6889c28449901a1ddc716c090c200144.png "Logo Title Text 1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z12kmFTr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6cln46t2nk6runeb25m2.png)
 
 任何在 Twitter 或 T2 Github 上关注我的人都知道我在做自己的创业想法和一些自己喜欢的项目。其中一个包括这个。一个 chrome 扩展，搜索和发现网飞的隐藏类别，并与它们一起成长。它是由 Vue，Bem 和 Mocha 建造的。
 

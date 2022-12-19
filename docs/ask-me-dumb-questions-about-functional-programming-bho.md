@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/joelnet/ask-me-dumb-questions-about-functional-programming-bho>
 
-[![header image of f(x)](../Images/3b7ee773847c21a178e54c81e77dfd59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xu31RoJR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nr7vml5tf56z0abtlk4s.png)
+[![header image of f(x)](img/3b7ee773847c21a178e54c81e77dfd59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xu31RoJR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nr7vml5tf56z0abtlk4s.png)
 
 你好。我是[MojiScript](https://github.com/joelnet/MojiScript)(JavaScript 的功能性重新想象)的作者，我想帮助那些对功能好奇的程序员:)
 
@@ -35,4 +35,4 @@ for (let i = 1; i < 6; i++) {
 **更多文章**...一起
 [让我们来谈谈 JavaScript 的自动生成文档工具](https://dev.to/joelnet/lets-talk-about-auto-generated-documentation-tools-for-javascript-49ol)
 
-[![Cheers!](../Images/661c03d25961a6e3b1ecbe00d148b35a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PqqJmrxK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6jsy3a866frzp3u5oda0.jpg)
+[![Cheers!](img/661c03d25961a6e3b1ecbe00d148b35a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PqqJmrxK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6jsy3a866frzp3u5oda0.jpg)

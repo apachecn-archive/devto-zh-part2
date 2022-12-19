@@ -70,7 +70,7 @@ print nativelyFindLongestSubsequenceOfStrings("", "")
 
 将两个字符串放入 2D 数组。(我试图得出我的解释，参见下一节的叙述性解释)
 
-[![my amazing drawing](../Images/8da6d3c29d185c347f7555d77b9f76a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sMhbdr3s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bg61wk8ttilymctync6d.jpg)
+[![my amazing drawing](img/8da6d3c29d185c347f7555d77b9f76a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sMhbdr3s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bg61wk8ttilymctync6d.jpg)
 
 ### 多以文字解释。
 

@@ -14,7 +14,7 @@
 
 *   每个人现在都可以进行分析！更多详情见本的帖子:
 
-    [![The DEV Team](../Images/6b3a9c79aeecf790d5144f3fe1881f50.png)![](../Images/fe64a787b888dfb20fc13ad1e466da3d.png)](/devteam) [## 变更日志:所有人都可以使用帖子分析
+    [![The DEV Team](img/6b3a9c79aeecf790d5144f3fe1881f50.png)![](img/fe64a787b888dfb20fc13ad1e466da3d.png)](/devteam) [## 变更日志:所有人都可以使用帖子分析
 
     ### 开发团队的 Ben Hal pern 11 月 14 日 181 分钟阅读
 
@@ -66,9 +66,9 @@
 
 1.  我们希望在应用程序中添加通用链接功能。引用本的话，“如果我点击网上的 dev.to/ben 链接，我会被带到应用程序，但它只会显示我打开的页面。”
 
-    # [![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) 添加通用链接功能 #99](https://github.com/thepracticaldev/DEV-ios/issues/99) 
+    # [![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) 添加通用链接功能 #99](https://github.com/thepracticaldev/DEV-ios/issues/99) 
 
-    [![benhalpern avatar](../Images/2b95d19f70b4d1ccc724ce3ad9480e00.png)](https://github.com/benhalpern) **[benhalpern](https://github.com/benhalpern)** posted on [<time datetime="2018-11-17T15:48:51Z">Nov 17, 2018</time>](https://github.com/thepracticaldev/DEV-ios/issues/99)
+    [![benhalpern avatar](img/2b95d19f70b4d1ccc724ce3ad9480e00.png)](https://github.com/benhalpern) **[benhalpern](https://github.com/benhalpern)** posted on [<time datetime="2018-11-17T15:48:51Z">Nov 17, 2018</time>](https://github.com/thepracticaldev/DEV-ios/issues/99)
 
     我们在 web 应用程序上已经有了通用链接映射，所以手机知道打开 iOS 应用程序。
 
@@ -81,9 +81,9 @@
     [View on GitHub](https://github.com/thepracticaldev/DEV-ios/issues/99)
 2.  通过电子邮件报告了两个错误。第一个是点击`mailto`链接，这会导致应用程序崩溃。
 
-    # [![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) 如果没有邮件应用设置  #97](https://github.com/thepracticaldev/DEV-ios/issues/97) 点击邮件链接会使应用崩溃
+    # [![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) 如果没有邮件应用设置  #97](https://github.com/thepracticaldev/DEV-ios/issues/97) 点击邮件链接会使应用崩溃
 
-    [![Zhao-Andy avatar](../Images/d67fb0a65ffe2dea4c9a16a59bb7e448.png)](https://github.com/Zhao-Andy) **[Zhao-Andy](https://github.com/Zhao-Andy)** posted on [<time datetime="2018-11-14T18:17:28Z">Nov 14, 2018</time>](https://github.com/thepracticaldev/DEV-ios/issues/97)
+    [![Zhao-Andy avatar](img/d67fb0a65ffe2dea4c9a16a59bb7e448.png)](https://github.com/Zhao-Andy) **[Zhao-Andy](https://github.com/Zhao-Andy)** posted on [<time datetime="2018-11-14T18:17:28Z">Nov 14, 2018</time>](https://github.com/thepracticaldev/DEV-ios/issues/97)
 
     **描述 bug** 这是有人通过邮件举报的；详情照原样。
 
@@ -114,9 +114,9 @@
 
 3.  第二个错误涉及到无意识的行为和切换出应用程序。更多细节请见本期。
 
-    # [![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) 切换出 app，使用相机 app，切换回死机 DEV app  #96](https://github.com/thepracticaldev/DEV-ios/issues/96) 
+    # [![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) 切换出 app，使用相机 app，切换回死机 DEV app  #96](https://github.com/thepracticaldev/DEV-ios/issues/96) 
 
-    [![Zhao-Andy avatar](../Images/d67fb0a65ffe2dea4c9a16a59bb7e448.png)](https://github.com/Zhao-Andy) **[Zhao-Andy](https://github.com/Zhao-Andy)** posted on [<time datetime="2018-11-14T17:17:52Z">Nov 14, 2018</time>](https://github.com/thepracticaldev/DEV-ios/issues/96)
+    [![Zhao-Andy avatar](img/d67fb0a65ffe2dea4c9a16a59bb7e448.png)](https://github.com/Zhao-Andy) **[Zhao-Andy](https://github.com/Zhao-Andy)** posted on [<time datetime="2018-11-14T17:17:52Z">Nov 14, 2018</time>](https://github.com/thepracticaldev/DEV-ios/issues/96)
 
     **描述 bug** 这是有人通过邮件举报的；详情照原样。
 
@@ -150,9 +150,9 @@
 
 *   搜索结果有时会显示无法再访问的结果。这主要是因为该应用程序没有处理 Algolia 的索引问题。感谢 [@tone-dev](https://dev.to/tonedev) 。
 
-    # [![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) 搜索结果返回不可用用户/文章 #1102](https://github.com/thepracticaldev/dev.to/issues/1102) 
+    # [![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) 搜索结果返回不可用用户/文章 #1102](https://github.com/thepracticaldev/dev.to/issues/1102) 
 
-    [![tone-dev avatar](../Images/1222800ff18ad511a4fd894998c4f4e4.png)](https://github.com/tone-dev) **[tone-dev](https://github.com/tone-dev)** posted on [<time datetime="2018-11-12T13:00:06Z">Nov 12, 2018</time>](https://github.com/thepracticaldev/dev.to/issues/1102)
+    [![tone-dev avatar](img/1222800ff18ad511a4fd894998c4f4e4.png)](https://github.com/tone-dev) **[tone-dev](https://github.com/tone-dev)** posted on [<time datetime="2018-11-12T13:00:06Z">Nov 12, 2018</time>](https://github.com/thepracticaldev/dev.to/issues/1102)
 
     **描述 bug**
 
@@ -188,15 +188,15 @@
 
 *   我们希望找到报告违反我们的服务条款或行为准则的用户的方式。[感谢@清教徒](https://dev.to/puritanic)。
 
-    # [![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) 添加举报方式 #1112](https://github.com/thepracticaldev/dev.to/issues/1112) 
+    # [![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) 添加举报方式 #1112](https://github.com/thepracticaldev/dev.to/issues/1112) 
 
-    [![Puritanic avatar](../Images/05c780e36a3468181c325274e563f41c.png)](https://github.com/Puritanic) **[Puritanic](https://github.com/Puritanic)** posted on [<time datetime="2018-11-13T07:54:07Z">Nov 13, 2018</time>](https://github.com/thepracticaldev/dev.to/issues/1112)
+    [![Puritanic avatar](img/05c780e36a3468181c325274e563f41c.png)](https://github.com/Puritanic) **[Puritanic](https://github.com/Puritanic)** posted on [<time datetime="2018-11-13T07:54:07Z">Nov 13, 2018</time>](https://github.com/thepracticaldev/dev.to/issues/1112)
 
-    **您的功能请求是否与某个问题相关？请描述一下。**我听说你最近有很多垃圾邮件帐户加入 DEV.to，我猜有时一些帐户会逃过你的过滤器，在我看来，如果我们有办法报告一些用户，这将是有帮助的。这里有一个例子: [![screen shot 2018-11-13 at 8 42 19 am](../Images/a77b947248898f60a395217a49ccbeba.png)](https://user-images.githubusercontent.com/25148427/48398198-68526480-e720-11e8-8541-c290afafd761.png) 我昨天就被这个跟踪了，看起来像是垃圾账号。前几周看过几个，现在好像被禁了。
+    **您的功能请求是否与某个问题相关？请描述一下。**我听说你最近有很多垃圾邮件帐户加入 DEV.to，我猜有时一些帐户会逃过你的过滤器，在我看来，如果我们有办法报告一些用户，这将是有帮助的。这里有一个例子: [![screen shot 2018-11-13 at 8 42 19 am](img/a77b947248898f60a395217a49ccbeba.png)](https://user-images.githubusercontent.com/25148427/48398198-68526480-e720-11e8-8541-c290afafd761.png) 我昨天就被这个跟踪了，看起来像是垃圾账号。前几周看过几个，现在好像被禁了。
 
     **描述您想要的解决方案**将报告链接添加到用户页面，我们可以在此报告垃圾邮件帐户。
 
-    **附加上下文**当然，有一个问题是以一种意想不到的方式使用它，我猜想一些 troll 用户或被某个特定用户惹恼的用户可能会报告他一些事情，这可能会导致一些并发症，也许会给开发管理员带来垃圾邮件和不良报告<g-emoji class="g-emoji" alias="confused" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f615.png">😕</g-emoji>也许在下拉上下文菜单中隐藏报告按钮，因为这不是一个常见的操作。
+    **附加上下文**当然，有一个问题是以一种意想不到的方式使用它，我猜想一些 troll 用户或被某个特定用户惹恼的用户可能会报告他一些事情，这可能会导致一些并发症，也许会给开发管理员带来垃圾邮件和不良报告<g-emoji class="g-emoji" alias="confused" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f615.png">😕</g-emoji>也许在下拉上下文菜单中隐藏报告按钮，因为这不是一个常见的操作。
 
     想法？
 
@@ -204,9 +204,9 @@
 
 *   标题说明了一切:“写文章时，文本视图不会跟随光标。”本期还有一个视频例子。感谢 [@trueneu](https://dev.to/trueneu) 。
 
-    # [![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) 写帖子时，文字视图不跟随光标 #1109](https://github.com/thepracticaldev/dev.to/issues/1109) 
+    # [![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) 写帖子时，文字视图不跟随光标 #1109](https://github.com/thepracticaldev/dev.to/issues/1109) 
 
-    [![trueneu avatar](../Images/a2a46dba4caa0c17c637ae455a0c3e6d.png)](https://github.com/trueneu) **[trueneu](https://github.com/trueneu)** posted on [<time datetime="2018-11-12T21:52:14Z">Nov 12, 2018</time>](https://github.com/thepracticaldev/dev.to/issues/1109)
+    [![trueneu avatar](img/a2a46dba4caa0c17c637ae455a0c3e6d.png)](https://github.com/trueneu) **[trueneu](https://github.com/trueneu)** posted on [<time datetime="2018-11-12T21:52:14Z">Nov 12, 2018</time>](https://github.com/thepracticaldev/dev.to/issues/1109)
 
     **描述 bug** 写新帖时，文字视图不跟随光标。
 
@@ -232,9 +232,9 @@
 
 *   如上所述，我们为 navbar 添加了可访问性支持，但是我们还需要为其他浏览器添加该功能。再次感谢 [@trueneu](https://dev.to/trueneu) 。
 
-    # [![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) 个人资料菜单(表头最右边的项目)不可点击【更新:需要非 Chrome 支持】 #1110](https://github.com/thepracticaldev/dev.to/issues/1110) 
+    # [![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) 个人资料菜单(表头最右边的项目)不可点击【更新:需要非 Chrome 支持】 #1110](https://github.com/thepracticaldev/dev.to/issues/1110) 
 
-    [![trueneu avatar](../Images/a2a46dba4caa0c17c637ae455a0c3e6d.png)](https://github.com/trueneu) **[trueneu](https://github.com/trueneu)** posted on [<time datetime="2018-11-12T22:04:58Z">Nov 12, 2018</time>](https://github.com/thepracticaldev/dev.to/issues/1110)
+    [![trueneu avatar](img/a2a46dba4caa0c17c637ae455a0c3e6d.png)](https://github.com/trueneu) **[trueneu](https://github.com/trueneu)** posted on [<time datetime="2018-11-12T22:04:58Z">Nov 12, 2018</time>](https://github.com/thepracticaldev/dev.to/issues/1110)
 
     **描述 bug** 档案菜单(表头最右边的项目)不可点击。“仪表板”、“写文章”、“阅读列表”等菜单项只在悬停时出现。
 
@@ -258,21 +258,21 @@
 
 *   [@link2twenty](https://dev.to/link2twenty) 请求了一个可以让你轻松关注他人的功能，类似 Twitter 的处理方式。谢谢你安德鲁。
 
-    # [![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) 快速跟随选项 #1122](https://github.com/thepracticaldev/dev.to/issues/1122) 
+    # [![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) 快速跟随选项 #1122](https://github.com/thepracticaldev/dev.to/issues/1122) 
 
-    [![Link2Twenty avatar](../Images/1ba74938c13a54803539141f2e9d13e2.png)](https://github.com/Link2Twenty) **[Link2Twenty](https://github.com/Link2Twenty)** posted on [<time datetime="2018-11-15T10:03:07Z">Nov 15, 2018</time>](https://github.com/thepracticaldev/dev.to/issues/1122)
+    [![Link2Twenty avatar](img/1ba74938c13a54803539141f2e9d13e2.png)](https://github.com/Link2Twenty) **[Link2Twenty](https://github.com/Link2Twenty)** posted on [<time datetime="2018-11-15T10:03:07Z">Nov 15, 2018</time>](https://github.com/thepracticaldev/dev.to/issues/1122)
 
     当你将鼠标悬停在用户的个人资料图片上时，无论是在评论中还是在查看文章时，如果能看到用户的少量信息并可以选择关注它们，那就太好了。
 
-    [![twitter-mini-profile](../Images/c214a27ade0f096f61961a40eece453c.png)T2】](https://user-images.githubusercontent.com/3534427/48545316-8903f100-e8bd-11e8-9916-3c476fe7ee83.png)
+    [![twitter-mini-profile](img/c214a27ade0f096f61961a40eece453c.png)T2】](https://user-images.githubusercontent.com/3534427/48545316-8903f100-e8bd-11e8-9916-3c476fe7ee83.png)
 
     [View on GitHub](https://github.com/thepracticaldev/dev.to/issues/1122)
 
 *   @equiman 报告了一个在评论中上传图片有点麻烦的错误。更多详细信息，请参见其中的问题和讨论。谢谢卡米洛。
 
-    # [![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) 图片上传回复评论 #1123](https://github.com/thepracticaldev/dev.to/issues/1123) 
+    # [![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) 图片上传回复评论 #1123](https://github.com/thepracticaldev/dev.to/issues/1123) 
 
-    [![equiman avatar](../Images/d0c867d0a8ad83087733ed6ca1c14c7c.png)](https://github.com/equiman) **[equiman](https://github.com/equiman)** posted on [<time datetime="2018-11-15T14:20:57Z">Nov 15, 2018</time>](https://github.com/thepracticaldev/dev.to/issues/1123)
+    [![equiman avatar](img/d0c867d0a8ad83087733ed6ca1c14c7c.png)](https://github.com/equiman) **[equiman](https://github.com/equiman)** posted on [<time datetime="2018-11-15T14:20:57Z">Nov 15, 2018</time>](https://github.com/thepracticaldev/dev.to/issues/1123)
 
     **描述 bug**
 
@@ -289,7 +289,7 @@
 
     **预期行为**当点击上传图像按钮的任何部分时，起作用。
 
-    **截图** [![button](../Images/f8599bb3d1b3016711ed43d6c4ab242c.png) ](https://user-images.githubusercontent.com/933393/48558427-450ded80-e8b7-11e8-8ef8-34eda34da440.gif) [ ![inputbox](../Images/5b6764c620e9090274cb0c5c1faf102c.png)](https://user-images.githubusercontent.com/933393/48558591-a635c100-e8b7-11e8-9849-d984e93ebfed.gif)
+    **截图** [![button](img/f8599bb3d1b3016711ed43d6c4ab242c.png) ](https://user-images.githubusercontent.com/933393/48558427-450ded80-e8b7-11e8-8ef8-34eda34da440.gif) [ ![inputbox](img/5b6764c620e9090274cb0c5c1faf102c.png)](https://user-images.githubusercontent.com/933393/48558591-a635c100-e8b7-11e8-9849-d984e93ebfed.gif)
 
     **桌面(请填写以下信息):**
 
@@ -310,9 +310,9 @@
 
 *   [@加贝克](https://dev.to/gabek)请求改进我们的 RSS 提要，它有一个`<category>`标签，显示文章有哪些标签。谢谢加布。
 
-    # [![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png)  RSS 源:用帖子的标签填充类别 #1128](https://github.com/thepracticaldev/dev.to/issues/1128) 
+    # [![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png)  RSS 源:用帖子的标签填充类别 #1128](https://github.com/thepracticaldev/dev.to/issues/1128) 
 
-    [![gabek avatar](../Images/4bbcdc6962f44c8baa0a9caf17bc6b08.png)](https://github.com/gabek) **[gabek](https://github.com/gabek)** posted on [<time datetime="2018-11-15T21:28:39Z">Nov 15, 2018</time>](https://github.com/thepracticaldev/dev.to/issues/1128)
+    [![gabek avatar](img/4bbcdc6962f44c8baa0a9caf17bc6b08.png)](https://github.com/gabek) **[gabek](https://github.com/gabek)** posted on [<time datetime="2018-11-15T21:28:39Z">Nov 15, 2018</time>](https://github.com/thepracticaldev/dev.to/issues/1128)
 
     看起来好像有一个针对单个标签的 RSS 提要的开放请求，#201，但是这可能是获得相同结果的更快的方法。
 
@@ -326,9 +326,9 @@
 
 *   @flexdinesh 为主页 feed 请求了一个简洁的列表视图，因为我们增长了很多，帖子数量也更多了。谢谢，迪内什。
 
-    # [![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) 良心榜查看中家提要 #1138](https://github.com/thepracticaldev/dev.to/issues/1138) 
+    # [![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) 良心榜查看中家提要 #1138](https://github.com/thepracticaldev/dev.to/issues/1138) 
 
-    [![flexdinesh avatar](../Images/a94fbd418f714e42bae054a97da23fb8.png)](https://github.com/flexdinesh) **[flexdinesh](https://github.com/flexdinesh)** posted on [<time datetime="2018-11-18T02:51:14Z">Nov 18, 2018</time>](https://github.com/thepracticaldev/dev.to/issues/1138)
+    [![flexdinesh avatar](img/a94fbd418f714e42bae054a97da23fb8.png)](https://github.com/flexdinesh) **[flexdinesh](https://github.com/flexdinesh)** posted on [<time datetime="2018-11-18T02:51:14Z">Nov 18, 2018</time>](https://github.com/thepracticaldev/dev.to/issues/1138)
 
     Dev 有了巨大的增长，每天的博客帖子和主题的数量也随之增长。以前，我的 feed 通常会有比今天更多我想打开的帖子。这主要是因为这些天我们有如此多类型的帖子(讨论等)和大量的贡献者。回到那天，我会在几分钟内滚动浏览我的整个订阅源并打开所有我想看的帖子。但是现在，仅仅浏览所有的帖子就让人不知所措，因为我不得不滚动很多次，发现我想打开的帖子数量明显减少。
 
@@ -342,9 +342,9 @@
 
 *   @link2twenty 请求另一个功能，我们可以即时翻译评论，也类似于 Twitter 所做的。再次感谢你，安德鲁。
 
-    # [![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) 翻译评论 #1150](https://github.com/thepracticaldev/dev.to/issues/1150) 
+    # [![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) 翻译评论 #1150](https://github.com/thepracticaldev/dev.to/issues/1150) 
 
-    [![Link2Twenty avatar](../Images/1ba74938c13a54803539141f2e9d13e2.png)](https://github.com/Link2Twenty) **[Link2Twenty](https://github.com/Link2Twenty)** posted on [<time datetime="2018-11-19T15:55:25Z">Nov 19, 2018</time>](https://github.com/thepracticaldev/dev.to/issues/1150)
+    [![Link2Twenty avatar](img/1ba74938c13a54803539141f2e9d13e2.png)](https://github.com/Link2Twenty) **[Link2Twenty](https://github.com/Link2Twenty)** posted on [<time datetime="2018-11-19T15:55:25Z">Nov 19, 2018</time>](https://github.com/thepracticaldev/dev.to/issues/1150)
 
     用户应该能够读和写评论，并张贴(？)，用自己的语言。这有助于 dev 接触到更多的人。
 
@@ -352,9 +352,9 @@
 
     我认为我们现在已经到了一个地步，翻译软件是如此之好，以至于没有必要期望用户学习英语。
 
-    **推特:** [![image](../Images/38adb2519d8d0046422e80dc5d8560c6.png)](https://user-images.githubusercontent.com/3534427/48718375-29864800-ec13-11e8-98f1-9a2f081a5799.png)
+    **推特:** [![image](img/38adb2519d8d0046422e80dc5d8560c6.png)](https://user-images.githubusercontent.com/3534427/48718375-29864800-ec13-11e8-98f1-9a2f081a5799.png)
 
-    开发。至: [链接至](https://dev.to/wi45/comment/71io) [![image](../Images/c18997db0fa8117f4a918324080c8104.png)](https://user-images.githubusercontent.com/3534427/48718364-24c19400-ec13-11e8-98b1-f200a92d91dc.png)
+    开发。至: [链接至](https://dev.to/wi45/comment/71io) [![image](img/c18997db0fa8117f4a918324080c8104.png)](https://user-images.githubusercontent.com/3534427/48718364-24c19400-ec13-11e8-98b1-f200a92d91dc.png)
 
     [View on GitHub](https://github.com/thepracticaldev/dev.to/issues/1150)
 
@@ -362,9 +362,9 @@
 
     1.  Provide content skip links for keyboard/screen reader users.
 
-        # [![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png)  A11y: provide content jump links for keyboard/screen reader users   # 1153](https://github.com/thepracticaldev/dev.to/issues/1153) 
+        # [![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png)  A11y: provide content jump links for keyboard/screen reader users   # 1153](https://github.com/thepracticaldev/dev.to/issues/1153) 
 
-        [![RyKilleen avatar](../Images/6456b7728684920dcb4caa5020c321e0.png)](https://github.com/RyKilleen) **[RyKilleen 【T1 8]](https://github.com/RyKilleen)** Posted on [<time datetime="2018-11-19T18:55:09Z">Nov 19, 2018</time>](https://github.com/thepracticaldev/dev.to/issues/1153)
+        [![RyKilleen avatar](img/6456b7728684920dcb4caa5020c321e0.png)](https://github.com/RyKilleen) **[RyKilleen 【T1 8]](https://github.com/RyKilleen)** Posted on [<time datetime="2018-11-19T18:55:09Z">Nov 19, 2018</time>](https://github.com/thepracticaldev/dev.to/issues/1153)
 
         **Is your function request related to a problem? Please describe it.** When users use keyboard jump, screen reader or other assistive technologies to navigate pages, a useful mode is to provide a jump link that "jumps to the main content" before navigation or long list (tag list, etc.).
 
@@ -375,9 +375,9 @@
         [View on GitHub](https://github.com/thepracticaldev/dev.to/issues/1153)
     2.  Allow exiting focused navigation with the `escape` key. Thanks, Ryan.
 
-        # [![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png)  A11Y: The keyboard user exits the focus navigation with Escape   # 1154](https://github.com/thepracticaldev/dev.to/issues/1154) 
+        # [![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png)  A11Y: The keyboard user exits the focus navigation with Escape   # 1154](https://github.com/thepracticaldev/dev.to/issues/1154) 
 
-        [![RyKilleen avatar](../Images/6456b7728684920dcb4caa5020c321e0.png)](https://github.com/RyKilleen) **[RyKilleen 【T1 9]](https://github.com/RyKilleen)** Posted on [<time datetime="2018-11-19T19:02:57Z">Nov19, 2018</time>](https://github.com/thepracticaldev/dev.to/issues/1154)
+        [![RyKilleen avatar](img/6456b7728684920dcb4caa5020c321e0.png)](https://github.com/RyKilleen) **[RyKilleen 【T1 9]](https://github.com/RyKilleen)** Posted on [<time datetime="2018-11-19T19:02:57Z">Nov19, 2018</time>](https://github.com/thepracticaldev/dev.to/issues/1154)
 
         **Is your function request related to a problem? Please describe it.** When the user's context focuses on navigation, modality or any other pop-up menu, it is useful to refocus on the Escape key outside the context.
 
@@ -387,9 +387,9 @@
 
 *   [@johnwoodruff91](https://dev.to/johnwoodruff91) 报道了 StackBlitz Liquid 标签在 mobile 中渲染不正确，似乎只发生在 Safari mobile webviews 中。谢谢，约翰。
 
-    # [![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png)  StackBlitz 液体标签嵌入手机上施胶不当 #1155](https://github.com/thepracticaldev/dev.to/issues/1155) 
+    # [![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png)  StackBlitz 液体标签嵌入手机上施胶不当 #1155](https://github.com/thepracticaldev/dev.to/issues/1155) 
 
-    [![johnbwoodruff avatar](../Images/c69120207bead5ff76d4dc5d20d00668.png)](https://github.com/johnbwoodruff) **[johnbwoodruff](https://github.com/johnbwoodruff)** posted on [<time datetime="2018-11-19T20:58:09Z">Nov 19, 2018</time>](https://github.com/thepracticaldev/dev.to/issues/1155)
+    [![johnbwoodruff avatar](img/c69120207bead5ff76d4dc5d20d00668.png)](https://github.com/johnbwoodruff) **[johnbwoodruff](https://github.com/johnbwoodruff)** posted on [<time datetime="2018-11-19T20:58:09Z">Nov 19, 2018</time>](https://github.com/thepracticaldev/dev.to/issues/1155)
 
     **描述 bug**
 
@@ -407,7 +407,7 @@
 
     **截图**如果适用，添加截图来帮助解释您的问题。
 
-    [![img_2999](../Images/04136cb6ae68157744fe37be22174050.png)T2】](https://user-images.githubusercontent.com/5883616/48734358-7150a380-ec02-11e8-9ea1-992b0b7e6d3c.PNG)
+    [![img_2999](img/04136cb6ae68157744fe37be22174050.png)T2】](https://user-images.githubusercontent.com/5883616/48734358-7150a380-ec02-11e8-9ea1-992b0b7e6d3c.PNG)
 
     **智能手机(请填写以下信息):**
 

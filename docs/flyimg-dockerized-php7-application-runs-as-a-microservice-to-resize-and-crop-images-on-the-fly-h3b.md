@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/sadok/flyimg-dockerized-php7-application-runs-as-a-microservice-to-resize-and-crop-images-on-the-fly-h3b>
 
-[![Flyimg](../Images/3843e33452f6c5a89267b41316294063.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--naInGNQY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/khusz65mk5uoazuw7mtu.png) 
+[![Flyimg](img/3843e33452f6c5a89267b41316294063.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--naInGNQY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/khusz65mk5uoazuw7mtu.png) 
 有了响应式图像，今天我们有了一堆前端工具，可以向浏览器交付最合适的图像。但是你仍然需要生成这些图像。
 
 这是我们(开源)对这个问题的看法:飞行[https://github.com/flyimg/flyimg](https://github.com/flyimg/flyimg)
@@ -33,16 +33,16 @@
 [https://oi . flyimg . io/upload/w _ 333，h_200，q _ 90/https://www . Mozilla . org/media/img/logos/Firefox/logo-quantum-high-RES . CFD 87 A8 f 62 AE . png](https://oi.flyimg.io/upload/w_333,h_200,q_90/https://www.mozilla.org/media/img/logos/firefox/logo-quantum-high-res.cfd87a8f62ae.png)
 
 ->这将创建一个适合 333x200 矩形的图像版本:
-[![](../Images/c7924ea036e0e94fa13d63f644779614.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SeNayELg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://oi.flyimg.io/upload/w_333%2Ch_200%2Cq_90/https://www.mozilla.org/media/img/logos/firefox/logo-quantum-high-res.cfd87a8f62ae.png)
+[![](img/c7924ea036e0e94fa13d63f644779614.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SeNayELg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://oi.flyimg.io/upload/w_333%2Ch_200%2Cq_90/https://www.mozilla.org/media/img/logos/firefox/logo-quantum-high-res.cfd87a8f62ae.png)
 
 ### 人脸检测裁剪:
 
 [https://oi . fly img . io/upload/fc _ 1/https://oi . fly img . io/faces . jpg](https://oi.flyimg.io/upload/fc_1/https://oi.flyimg.io/faces.jpg)
 
-[![face crop](../Images/b3c0c8da59c5b1e491ed68266a890a7d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7MayC5Vl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://oi.flyimg.io/upload/fc_1/https://oi.flyimg.io/faces.jpg)
+[![face crop](img/b3c0c8da59c5b1e491ed68266a890a7d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7MayC5Vl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://oi.flyimg.io/upload/fc_1/https://oi.flyimg.io/faces.jpg)
 
 ### 人脸检测模糊+调整大小:
 
 [https://oi . fly img . io/upload/FB _ 1，w _ 600/https://oi . fly img . io/faces . jpg](https://oi.flyimg.io/upload/fb_1,w_600/https://oi.flyimg.io/faces.jpg)
 
-[![face blur](../Images/72dbf6e503698339a6c4f361d59d033a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qBPmgrzQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://oi.flyimg.io/upload/fb_1%2Cw_600/https://oi.flyimg.io/faces.jpg)
+[![face blur](img/72dbf6e503698339a6c4f361d59d033a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qBPmgrzQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://oi.flyimg.io/upload/fb_1%2Cw_600/https://oi.flyimg.io/faces.jpg)

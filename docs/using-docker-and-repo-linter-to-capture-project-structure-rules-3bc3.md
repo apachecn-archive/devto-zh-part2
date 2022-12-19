@@ -6,7 +6,7 @@
 
 # 标准
 
-[![Standard JavaScript](../Images/86de9936dd6a264e2b932ac162ac8969.png)T2】](https://standardjs.com)
+[![Standard JavaScript](img/86de9936dd6a264e2b932ac162ac8969.png)T2】](https://standardjs.com)
 
 假设我们已经遇到了[standards](https://standardjs.com/)(我们已经有了)，并且我们想把它应用到我们所有的项目中(我们已经做了)；我们该怎么做？显然，我们必须在本地克隆每个项目，运行 StandardJS 来重新格式化文件，对结果进行测试，提交更改，并提交一个 pull 请求。然后，当我们意识到我们忘记给每个文件添加 StandardJS 徽章时，我们要重新跳一遍。
 
@@ -16,7 +16,7 @@
 
 拿一些非常简单的东西，比如一个`AUTHORS`文件。在一个节点项目中，我们可以将贡献者的[名字放到`package.json`文件](https://docs.npmjs.com/files/package.json#people-fields-author-contributors)中，或者 NPM 将从`AUTHORS`文件中提取贡献者的名字，如果有的话。哪种方法更好？在我看来，后者更好，因为`AUTHORS`文件是一种约定，你会在许多不同类型的开源项目中发现，而不仅仅是 Node。我个人的原则是，如果有一个独立于语言的约定可以免费遵循，那么我会一直遵循它，而不是使用一个特定于语言的对等物。(想想[奥卡姆剃刀](https://simple.wikipedia.org/wiki/Occam%27s_razor)。)
 
-[![Stained-glass window showing William of Ockham](../Images/d17d58a14c90d2c8774ffab4a427a216.png)](https://commons.wikimedia.org/wiki/File:William_of_Ockham.png#/media/File:William_of_Ockham.png) 
+[![Stained-glass window showing William of Ockham](img/d17d58a14c90d2c8774ffab4a427a216.png)](https://commons.wikimedia.org/wiki/File:William_of_Ockham.png#/media/File:William_of_Ockham.png) 
 
 By 自创(Moscarlop) -自己的作品， [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) ，[链接](https://commons.wikimedia.org/w/index.php?curid=5523066)
 
@@ -32,7 +32,7 @@ By 自创(Moscarlop) -自己的作品， [CC BY-SA 3.0](https://creativecommons.
 
 它们可以用散文来写，比如*总是使用`AUTHORS`文件*，这肯定会是一个很好的开始。但是，更好的办法是找到一种方式来表达这些规则，使得它们可以通过软件来执行。在我研究和谷歌搜索的这一点上，我遇到了[回购 Linter](https://github.com/todogroup/repolinter) 。
 
-[![](../Images/bdeef2dc672aa4afa1a8b90d18b8f598.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y1Vl13n8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/todogroup/repolinter/raw/master/docs/images/P_RepoLinter01_logo_only.png)
+[![](img/bdeef2dc672aa4afa1a8b90d18b8f598.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y1Vl13n8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/todogroup/repolinter/raw/master/doimg/P_RepoLinter01_logo_only.png)
 
 ## 回购短绒
 

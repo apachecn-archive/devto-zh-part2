@@ -8,7 +8,7 @@ Faithlife.com 是一个由 React 16.3 支持的 web 应用程序。主页由按�
 
 在 Faithlife 的本地副本上更新 React 到 16.5 之后，我们的下一步是开始分析并捕获哪些组件被重新渲染。下面是工具显示我们在任何帖子上点击“喜欢”按钮的截图:
 
-[![Slow renders screenshot](../Images/7405a3ce2516c9787bdcd87cbba18364.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3h6iT8tC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.logoscdn.com/v1/files/14522904/content.png%3Fsignature%3DNmNdRI26PmGCtI8F6Z-3-o99Le4)
+[![Slow renders screenshot](img/7405a3ce2516c9787bdcd87cbba18364.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3h6iT8tC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.logoscdn.com/v1/files/14522904/content.png%3Fsignature%3DNmNdRI26PmGCtI8F6Z-3-o99Le4)
 
 NewsFeed 下面的蓝色块显示了 Feed 中的所有帖子都被调用了 render。如果加载了 10 个项目，`NewsFeedItem`及其所有子项目将被渲染 10 次。这对于小组件来说可能没问题，但是如果渲染树很深，不必要地渲染组件及其子组件可能会导致性能问题。当用户向下滚动页面时，提要中会加载更多的帖子。这导致 render 一直在顶部被调用，即使它们没有改变！
 
@@ -122,7 +122,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 分析器现在显示更好的结果:渲染新闻提要现在从大约 50 毫秒下降到大约 5 毫秒！
 
-[![Better renders screenshot](../Images/43574672b5fb14b30d54cc64d4a9311f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_41QwIJ0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.logoscdn.com/v1/files/14522909/content.png%3Fsignature%3DFzQeT-m0XOUSU2hSJ7x2cYMqNlo)
+[![Better renders screenshot](img/43574672b5fb14b30d54cc64d4a9311f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_41QwIJ0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.logoscdn.com/v1/files/14522909/content.png%3Fsignature%3DFzQeT-m0XOUSU2hSJ7x2cYMqNlo)
 
 ## PureComponent 可能会让你的性能更差
 

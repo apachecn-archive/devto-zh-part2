@@ -23,7 +23,7 @@ AWS Batch 将其工作分为四个部分:
 
 AWS Batch 可以支持各种资源密集型任务，从分析复杂的财务数据到筛选药物相互作用。也就是说，我们的示例相当简单…通过 [Amazon Rekogniton](https://aws.amazon.com/rekognition/) 处理和标记图像(是的，这可能是一个 Lambda 函数，但我们今天重点关注批处理)。
 
-[![Sample project architecture](../Images/6a9f5a11b779118d951921505f075673.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OKql385P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.iamjkahn.com/assets/images/1%2AkmsdH3HOpadg9ek3S25Qew.png)
+[![Sample project architecture](img/6a9f5a11b779118d951921505f075673.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OKql385P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.iamjkahn.com/asseimg/1%2AkmsdH3HOpadg9ek3S25Qew.png)
 
 当图像被放入 S3 桶中时，会调用一个 Lambda 函数，该函数将提交一个新的 AWS 批处理作业。该作业被实现为 Docker 容器映像，它存储在 [Amazon 弹性容器注册中心(ECR)](https://aws.amazon.com/ecr/) 中。我们的工作是一个简单的 Ruby 应用程序，它接受一组命令行参数作为其工作的输入。我已经使用[地形](https://www.terraform.io/)来管理这个项目的基础设施(见 [template.tf](https://github.com/jkahn117/aws-batch-image-processor/blob/master/template.tf)
 

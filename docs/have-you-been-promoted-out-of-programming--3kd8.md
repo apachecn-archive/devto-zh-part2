@@ -4,7 +4,7 @@
 
 这篇文章一直让我记忆犹新:
 
-[![figspville](../Images/379bb612ae70c105a82d3b1941c9566a.png)](/figspville) [## 从编程中提升出来
+[![figspville](img/379bb612ae70c105a82d3b1941c9566a.png)](/figspville) [## 从编程中提升出来
 
 ### salli Figler Jun 26 ' 177min read
 

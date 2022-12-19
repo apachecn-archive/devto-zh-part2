@@ -61,7 +61,7 @@ _ Click count++；
 
 ### 附录 A——视觉树
 
-[![Visual-Tree-information-for-UWP](../Images/398055b9aefa47bdd1930996f5f1839c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nryWt8c4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/uno-website-assets/wp-content/uploads/2018/08/20160015/Visual-Tree-information-for-UWP.png)
+[![Visual-Tree-information-for-UWP](img/398055b9aefa47bdd1930996f5f1839c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nryWt8c4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/uno-website-assets/wp-content/uploads/2018/08/20160015/Visual-Tree-information-for-UWP.png)
 
 ### 
 
@@ -73,15 +73,15 @@ _ Click count++；
 
 <figcaption>
 
-[![Visual-Tree-information-for-Android](../Images/1cf549cdb062621e0a47f3e543dd6287.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wZyzjYLM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/uno-website-assets/wp-content/uploads/2018/08/20160007/Visual-Tree-information-for-Android.png)
+[![Visual-Tree-information-for-Android](img/1cf549cdb062621e0a47f3e543dd6287.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wZyzjYLM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/uno-website-assets/wp-content/uploads/2018/08/20160007/Visual-Tree-information-for-Android.png)
 
 *安卓视觉树信息*
 
-[![visualtree-ios](../Images/4ce25c880f5cc4c2ce86e7ea703a4fc3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aoeOIQIM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/uno-website-assets/wp-content/uploads/2018/08/17123932/visualtree-ios.png)
+[![visualtree-ios](img/4ce25c880f5cc4c2ce86e7ea703a4fc3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aoeOIQIM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/uno-website-assets/wp-content/uploads/2018/08/17123932/visualtree-ios.png)
 
 *iOS 的可视化树信息*
 
-[![visualtree-wasm](../Images/625da3bbb14b346e2b295fd50a4b963e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L_SmJg8U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/uno-website-assets/wp-content/uploads/2018/08/17124049/visualtree-wasm.png)
+[![visualtree-wasm](img/625da3bbb14b346e2b295fd50a4b963e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L_SmJg8U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/uno-website-assets/wp-content/uploads/2018/08/17124049/visualtree-wasm.png)
 
 *WASM 视觉树信息*
 

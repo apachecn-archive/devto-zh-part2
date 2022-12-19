@@ -6,7 +6,7 @@
 
 这篇文章让我想到初级开发人员找到远程工作有多难。因此，我开始在 [GitHub repo](https://github.com/AdamLombard/we-hire-remote-junior-devs) 上列出雇佣初级开发人员担任远程职位的公司。
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [阿达姆伦巴德](https://github.com/AdamLombard) / [我们-雇佣-远程-初级-发展](https://github.com/AdamLombard/we-hire-remote-junior-devs)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [阿达姆伦巴德](https://github.com/AdamLombard) / [我们-雇佣-远程-初级-发展](https://github.com/AdamLombard/we-hire-remote-junior-devs)
 
 ### 雇佣远程初级开发人员的公司列表
 

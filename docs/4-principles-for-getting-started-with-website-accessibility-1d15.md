@@ -88,7 +88,7 @@ CSS 应该用来强调你的内容的意义。它应该使它更有意义，更�
 
 Mozilla 开发网络有一个页面，其中包含了按用途组织的所有 HTML 元素。(这个参考很牛逼——用起来！)
 
-[![Screenshot of the content sectioning table from the MDN documentation](../Images/8a0fe814fe61d962040b73d0db8cf53d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6t0hf5br--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://benrobertson.io/assets/img/content-sectioning.png)
+[![Screenshot of the content sectioning table from the MDN documentation](img/8a0fe814fe61d962040b73d0db8cf53d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6t0hf5br--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://benrobertson.io/assets/img/content-sectioning.png)
 
 让我们来看看`<div>` s 的一些语义选择。
 
@@ -152,13 +152,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 我想每个人都很熟悉谷歌的登录表单。它有一个标题、电子邮件输入和几个按钮，分别是忘记电子邮件、创建帐户和下一个。
 
-[![The Google sign-in form circa July 2018](../Images/58e07fd30f3baa3b3693a4226de96d1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tYSl0JvY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://benrobertson.io/assets/img/google-sign-in.png)
+[![The Google sign-in form circa July 2018](img/58e07fd30f3baa3b3693a4226de96d1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tYSl0JvY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://benrobertson.io/assets/img/google-sign-in.png)
 
 那么当我们看着它的时候会发生什么呢？
 
 ### 裸谷歌签到表
 
-[![The Google sign-in form circa July 2018, with styles stripped away](../Images/87bddd4790b9d7ba6de181089d822281.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wzTwI0wE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://benrobertson.io/assets/img/google-sign-in-naked.png)
+[![The Google sign-in form circa July 2018, with styles stripped away](img/87bddd4790b9d7ba6de181089d822281.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wzTwI0wE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://benrobertson.io/assets/img/google-sign-in-naked.png)
 
 在我们移除样式后，标题中仍然有一个漂亮的符号，所以我们知道这个页面是关于什么的。
 

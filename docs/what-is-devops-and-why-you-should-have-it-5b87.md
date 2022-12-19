@@ -8,7 +8,7 @@
 
 把事情说清楚——devo PS 是一种方法论。DevOps 方法的思想是创建一种新的思维模式，当开发人员和 IT 运营人员共同努力实现一个共同的目标时。
 
-[![img2](../Images/0ef277dd6642b2862982d46fbef4b501.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ERY699Ae--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2017/05/infinity.png)
+[![img2](img/0ef277dd6642b2862982d46fbef4b501.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ERY699Ae--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2017/05/infinity.png)
 
 有时它会被错误地与工具或角色混淆。它不是工具，尽管它使用工具链来自动化软件交付和部署。这也不是一个职位，尽管运营和开发人员都应该扩大他们的责任。
 
@@ -37,7 +37,7 @@
 *   DevOps 爱**自动化**。现代飞速发展的软件开发行业需要自动化。几十个持续集成的构建排队等待部署...每天。您无法手动测试它们。这同样适用于服务器配置。您无法手动设置 20 台、50 台甚至 100 台服务器。
 *   开发人员利用**工具库**。如果没有像 Jenkins、Ansible、Docker 或 Puppet 这样的工具，DevOps 的大多数方面都是不可能的。尽管如此，工具只是促进了过程，并允许实现目标。知道如何创建 Docker 容器并不意味着你是 DevOps 俱乐部的一员。
 
-[![img3](../Images/95ecebdebd20d2e6fbfe62511e5a3323.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kVDsbohe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2017/05/Culture_v1.png)
+[![img3](img/95ecebdebd20d2e6fbfe62511e5a3323.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kVDsbohe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2017/05/Culture_v1.png)
 
 ## 为什么需要 DevOps？
 
@@ -74,7 +74,7 @@
 
 以下是我们日常使用的 DevOps 工具:
 
-[![img4](../Images/925aa2d7d8d4360c1af4785596609c93.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6MJBd53M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2017/05/list.png)
+[![img4](img/925aa2d7d8d4360c1af4785596609c93.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6MJBd53M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2017/05/list.png)
 
 *   集装箱化码头工人
 *   [詹金斯](https://jenkins.io/)和[圈 CI](https://circleci.com/) 进行持续整合和持续交付

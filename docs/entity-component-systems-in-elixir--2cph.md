@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/yos/entity-component-systems-in-elixir--2cph>
 
-[![Entity Component System is used in the video game Caves of Qud](../Images/b71cd560c7dd3efe772afa9f8855c4b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kDd5NP0n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/7yJLXLX.png)
+[![Entity Component System is used in the video game Caves of Qud](img/b71cd560c7dd3efe772afa9f8855c4b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kDd5NP0n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/7yJLXLX.png)
 
 实体-组件-系统(ECS)是一种分布式组合架构设计模式，主要用于游戏开发。它支持特定领域行为的灵活解耦，这克服了传统面向对象继承的许多缺点。
 
@@ -12,7 +12,7 @@ Elixir 是一种构建在 Erlang VM 之上的动态函数式语言，旨在构�
 
 > 这是我的[实体组件系统](https://speakerdeck.com/yosriady/entity-component-systems)演讲的后续文章。我在 Elixir 中实现 ECS 的源代码在 [Github](https://github.com/yosriady/ecs) 上是开源的。
 
-[![Structure of my Entity Component Systems talk](../Images/d4a2c1c5307e72282c43f2db168ae742.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---w0X24Zx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Chhscxq.png)
+[![Structure of my Entity Component Systems talk](img/d4a2c1c5307e72282c43f2db168ae742.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---w0X24Zx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Chhscxq.png)
 
 # 基于类的继承的弊端
 
@@ -20,13 +20,13 @@ Elixir 是一种构建在 Erlang VM 之上的动态函数式语言，旨在构�
 
 我们正在构建一个游戏引擎，我们发现自己处于以下等级:
 
-[![Class hierarchy of a typical game engine](../Images/dfa644f85c529c983bb2fa73ba15e091.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P4xfjvTV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/ycQyv8Y.png)
+[![Class hierarchy of a typical game engine](img/dfa644f85c529c983bb2fa73ba15e091.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P4xfjvTV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/ycQyv8Y.png)
 
 我们有一个 base `GameObject`，由`Animal`子类化。`Animal`又细分为`Bunny`和`Whale`，分别有自己的特殊行为`hop()`和`swim()`。我们还有一个`Killer Whale`，是`Whale`的子类，比 can `kill()`。
 
 让我们试着向我们的世界介绍一种新动物:
 
-[![Ambiguity in our class hierarchy](../Images/8940ada0657089fad1e2e5e5d832a6f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DsgLMOKZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/tw03lpC.png)
+[![Ambiguity in our class hierarchy](img/8940ada0657089fad1e2e5e5d832a6f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DsgLMOKZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/tw03lpC.png)
 
 > 我们希望`Killer Bunny`能够`hop()`和`kill()`，但是`Killer Bunny`应该从哪个类继承呢？
 
@@ -38,7 +38,7 @@ Elixir 是一种构建在 Erlang VM 之上的动态函数式语言，旨在构�
 
 **刚性功能:**只有`Killer Whale`可以`kill()`。我们不能在以后改变主意，很容易地制造出其他动物`kill()`。行为只适用于专门编码来支持该行为的类。随着游戏实体数量的增长，我们在等级体系中寻找新实体的位置时面临着更大的困难。
 
-[![The diamond problem](../Images/dd74e2cc82f2d226f1e710e9fd26072b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a0l_uIbd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.programmerinterview.com/images/Diamond_inheritance.png)
+[![The diamond problem](img/dd74e2cc82f2d226f1e710e9fd26072b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a0l_uIbd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.programmerinterview.cimg/Diamond_inheritance.png)
 
 **钻石问题**:“钻石问题”(有时被称为“死亡的致命钻石”)是当两个类 B 和 C 从 A 继承，而类 D 从 B 和 C 继承时产生的歧义，如果 A 中有一个方法被 B 和 C 覆盖，而 D 没有覆盖它，那么 D 继承该方法的哪个版本:B 的版本，还是 C 的版本？
 
@@ -66,7 +66,7 @@ ECS 中有三个关键的抽象概念:
 
 想象我们的世界里有一个`Bunny`实体:
 
-[![An example entity in entity component system](../Images/dc92df90ecf38612bdecc9315a77d137.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9Lliem00--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/7usNJkI.png)
+[![An example entity in entity component system](img/dc92df90ecf38612bdecc9315a77d137.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9Lliem00--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/7usNJkI.png)
 
 我们可以把兔子定义为独立组件的集合。在上面的例子中，兔子是由`Physical`和`Seeing`等组件“组成”的。
 
@@ -80,15 +80,15 @@ ECS 中有三个关键的抽象概念:
 
 让我们再来看看我们的`Bunny`:
 
-[![Entities are a container of components](../Images/ee664c579c37ae22c57084f0c8bd77ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NRH4nLEE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Q7fX5M1.png)
+[![Entities are a container of components](img/ee664c579c37ae22c57084f0c8bd77ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NRH4nLEE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Q7fX5M1.png)
 
 看到我们组件周围的虚线框了吗？这就是`Bunny`实体——只不过是一个组件容器。我们可以将实体定义为任何组件子集的集合，就像这个`Carrot`:
 
-[![A carrot is another entity, with its own set of components](../Images/63a48e17f1dcab69aa547d1023965a5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--si8TP7ML--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/OzBVB92.png)
+[![A carrot is another entity, with its own set of components](img/63a48e17f1dcab69aa547d1023965a5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--si8TP7ML--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/OzBVB92.png)
 
 还有这个`Ghost`:
 
-[![Yet another entity](../Images/bfb8251a4d35dd57e4f3a5203027c6ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7ELpPW_g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/8Df8XTS.png)
+[![Yet another entity](img/bfb8251a4d35dd57e4f3a5203027c6ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7ELpPW_g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/8Df8XTS.png)
 
 实体只不过是组件的集合。
 
@@ -100,11 +100,11 @@ ECS 中有三个关键的抽象概念:
 
 系统赋予实体和组件生命。
 
-[![Systems brings entities and components to life](../Images/47653475b94221de3552aab76ef80e02.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_jlThfbe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/ZjqrfQI.png)
+[![Systems brings entities and components to life](img/47653475b94221de3552aab76ef80e02.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_jlThfbe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/ZjqrfQI.png)
 
 系统枚举组件或组件组，根据内部规则或外部事件更新它们的状态。思考行为的一种方式是从一种状态到另一种状态的变化。让我们看一个例子:
 
-[![Systems and their role](../Images/923107d095065aa19f4b909ebf075d3e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wBzip63R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/mMo6Ez1.png)
+[![Systems and their role](img/923107d095065aa19f4b909ebf075d3e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wBzip63R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/mMo6Ez1.png)
 
 > 行为:“树上的兔子因重力而坠落。”
 
@@ -120,7 +120,7 @@ ECS 中有三个关键的抽象概念:
 
 为了进一步巩固您对该模式的理解，让我们看一下该架构中的典型数据流:
 
-[![Entity Component System data flow](../Images/38dedd125ab90e292fc8307dfb0f9160.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--grhpIxGN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/oR44M3E.png)
+[![Entity Component System data flow](img/38dedd125ab90e292fc8307dfb0f9160.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--grhpIxGN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/oR44M3E.png)
 
 每个系统监听一些事件流，如时间或玩家输入，并更新其组件的状态以响应该事件和一些内部规则。这些不断变化的状态可供其所属的实体访问，从而产生行为。
 
@@ -132,7 +132,7 @@ ECS 中有三个关键的抽象概念:
 
 另一种看待 ECS 的方式是将其视为一个关系表，就像电子表格一样:
 
-[![Entity Component System as a spreadsheet](../Images/8dca4aa001f7657c2826818e955f9e26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5jQ06z8A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/nThdtwx.png)
+[![Entity Component System as a spreadsheet](img/8dca4aa001f7657c2826818e955f9e26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5jQ06z8A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/nThdtwx.png)
 
 一个实体组件系统可以被想象成一个由组件列和实体行组成的表格。为了操作单个组件，我们选择它的列并查看每个单元格。为了操作一个实体，我们选择它的行并查看每个单元格。
 
@@ -158,7 +158,7 @@ ECS 中有三个关键的抽象概念:
 
 **处理进程间通信:**我们如何处理系统和组件之间的通信？我们需要某种消息总线或发布-订阅系统来使我们的 ECS 的各个部分能够相互通信。根据实现 ECS 的语言或平台，这可能会导致复杂性激增。遍历组件和实体的开销也可能导致性能下降。
 
-[![A message bus](../Images/58118a4465877156ff07b546a9144872.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oY-JPG99--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://engineeringblog.yelp.com/images/posts/2016-07-14-billions-of-messages-a-day-yelps-real-time-data-pipeline/1.jpg)
+[![A message bus](img/58118a4465877156ff07b546a9144872.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oY-JPG99--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://engineeringblog.yelp.cimg/posts/2016-07-14-billions-of-messages-a-day-yelps-real-time-data-pipeline/1.jpg)
 
 **组件间通信:**当一个系统需要访问和修改多个组件中的数据时会发生什么？组件可能需要与其他组件共享状态，并在与系统通信之前相互通信。例如，假设我们在一个实体中有一个`Position`和`Sound`组件。我们可以有一个需要与两个组件通信的`PositionalSoundSystem`。我们可能需要一个单独的组件间通信通道来支持这个用例。
 
@@ -170,7 +170,7 @@ ECS 中有三个关键的抽象概念:
 
 除了作为视频游戏的流行架构，ECS 的当前应用是用于大规模分布式模拟。这包括实时城市交通、互联网电信网络和物理模拟。它还被用于为拥有惊人数量实体的视频游戏构建大型多人游戏后端。
 
-[![ECS in the real world](../Images/6d8aa30ac3655a76566a7842c2c1e9aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YbYjUVqU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/bgW0JX4.png)
+[![ECS in the real world](img/6d8aa30ac3655a76566a7842c2c1e9aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YbYjUVqU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/bgW0JX4.png)
 
 特别是一家初创公司，正在构建名为 [SpatialOS](https://improbable.io/) 的 ECS 即服务。
 
@@ -188,7 +188,7 @@ Elixir 的关键抽象之一是流程——它们类似于演员模型的演员�
 *   接收消息
 *   产生新演员
 
-[![The actor model](../Images/b0615caaabe3d2aae670851e10008202.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6AqOaqPr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/ANwj1Ak.png)
+[![The actor model](img/b0615caaabe3d2aae670851e10008202.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6AqOaqPr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/ANwj1Ak.png)
 
 在上图中，Actor `A`向 Actor `C`发送消息`1`和`2`，Actor`C`收到消息。作为对这些消息的响应，参与者 C 可以发送新的消息，或者产生新的参与者并等待接收来自这些参与者的消息。
 

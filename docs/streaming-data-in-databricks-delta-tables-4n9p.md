@@ -44,11 +44,11 @@ tweets.write.format("delta").mode("append").saveAsTable("tweets")
 
 在这里，我们创建了一个名为 tweets 的值来读取我们的流拼花文件，然后我们将这些格式写入一个名为 tweets 的表中。我们可以通过单击 UI 中的数据图标来查看该表。
 
-[![](../Images/42afa7787a4ac321b136705d2d3e169d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tHuaVn-T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/589/1%2A43vh6vJ2RpUHNLoYM2zIKA.png)
+[![](img/42afa7787a4ac321b136705d2d3e169d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tHuaVn-T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/589/1%2A43vh6vJ2RpUHNLoYM2zIKA.png)
 
 我们可以看一下我们的表，我们可以看到，我们没有将内容和情绪打印到控制台，而是将它放在 Databricks 的一个表中
 
-[![](../Images/587c3a53853d955245754d1703326e4a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L3eODlon--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AX9a--STwbWwI_wDVg1cMiQ.png)
+[![](img/587c3a53853d955245754d1703326e4a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L3eODlon--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AX9a--STwbWwI_wDVg1cMiQ.png)
 
 我们还可以使用显示器查看笔记本内的内容:
 
@@ -59,7 +59,7 @@ display(tweetsTable)
 
 根据运行时间的不同，您的输出可能会有所不同，但它可能是这样的:
 
-[![](../Images/3d54496a4023a65394db86949ee5e230.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--75HhhxJ_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AJGH3UPi3os2HyazMihAmSg.png)
+[![](img/3d54496a4023a65394db86949ee5e230.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--75HhhxJ_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AJGH3UPi3os2HyazMihAmSg.png)
 
 **总之**
 

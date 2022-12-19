@@ -18,7 +18,7 @@ git commit --author="Ms. Jane Codeldoe <Jane@Codeldoe.com>" -m "Jane wrote this 
 ```
 
 在 GitHub 上看起来怎么样:
-[![Screenshot showing that a commit on Github](../Images/93eab28d7f4f13924de51584183a5a6c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6l1MXKhz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dop2i6rf2ikrmoh8nuod.png)
+[![Screenshot showing that a commit on Github](img/93eab28d7f4f13924de51584183a5a6c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6l1MXKhz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dop2i6rf2ikrmoh8nuod.png)
 
 对于更老的提交，这有点复杂，你要避免这种情况。但是，还是有解决办法的，你只需要做一些传统的谷歌搜索(或者暴饮暴食，或者躲躲藏藏，任何适合你的方式)。
 根据提交是否被推送到远程，解决方案可能会有所不同。

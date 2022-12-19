@@ -22,7 +22,7 @@
 
 最后，这里有一个 GitHub 项目的链接。
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [两颗糖豆](https://github.com/two-jelly-beans) / [糖豆](https://github.com/two-jelly-beans/jelly-fin)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [两颗糖豆](https://github.com/two-jelly-beans) / [糖豆](https://github.com/two-jelly-beans/jelly-fin)
 
 ### 预测理财的简单方法。我们应该让我们的钱自动化，而不是让它让我们自动化。
 
@@ -30,7 +30,7 @@
 
 # 果冻鳍
 
-[![Discord](../Images/18ed2bd3cb79593457ff0a9783c505e2.png)](https://discord.gg/xveZ3FT)[![Dependabot Status](../Images/b8d93cda256dbd6fa96dc23ee96f70b8.png)](https://dependabot.com)[![PRs Welcome](../Images/77e5e739e565e3bae6f254c71942e578.png)](http://makeapullrequest.com)[![contributions welcome](../Images/e4ad4c94284015e0ac8556b1b429bc62.png)](https://github.com/jelly-fin/jelly-fin/issues)[![CodeFactor](../Images/1f75abfb0b00a1123b953dbc85562b40.png)](https://www.codefactor.io/repository/github/jelly-fin/jelly-fin)
+[![Discord](img/18ed2bd3cb79593457ff0a9783c505e2.png)](https://discord.gg/xveZ3FT)[![Dependabot Status](img/b8d93cda256dbd6fa96dc23ee96f70b8.png)](https://dependabot.com)[![PRs Welcome](img/77e5e739e565e3bae6f254c71942e578.png)](http://makeapullrequest.com)[![contributions welcome](img/e4ad4c94284015e0ac8556b1b429bc62.png)](https://github.com/jelly-fin/jelly-fin/issues)[![CodeFactor](img/1f75abfb0b00a1123b953dbc85562b40.png)](https://www.codefactor.io/repository/github/jelly-fin/jelly-fin)
 
 * * *
 

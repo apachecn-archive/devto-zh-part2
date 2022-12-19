@@ -28,7 +28,7 @@ Kubernetes 很可能就是我们要找的身份提供者。它已经为 pod 提�
 2.  一个动态许可的 webhook，用于自动挂载服务帐户，在带注释的 pods 中导入机密，就像常规服务帐户在 pods 中自动挂载一样；
 3.  一个帮助器方法的 Go 库，用于从服务帐户导入中生成 client-go 配置(以及用于回退到 kubeconfig 上下文和常规服务帐户的通用方法)。
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png)/[多集群服务账户](https://github.com/admiraltyio/multicluster-service-account)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png)/[多集群服务账户](https://github.com/admiraltyio/multicluster-service-account)
 
 ### 导入并自动装载远程 Kubernetes 服务帐户
 

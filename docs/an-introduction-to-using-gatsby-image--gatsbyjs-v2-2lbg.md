@@ -5,7 +5,7 @@
 *本帖原载于[codebushi.com](https://codebushi.com/using-gatsby-image/)T3
 T5】获取视频教程，查看[https://www.youtube.com/watch?v=kOrohVsq_kI](https://www.youtube.com/watch?v=kOrohVsq_kI)T8】*
 
-[![Gatsby Image](../Images/0e36b733799b0f35eca64fe4da37dc94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jjb9eFit--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q81b4am24ospos6snr2e.jpg)
+[![Gatsby Image](img/0e36b733799b0f35eca64fe4da37dc94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jjb9eFit--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q81b4am24ospos6snr2e.jpg)
 
 Gatsby.js V2 最近推出，对[盖茨比形象](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-image)的实现方式做了一些小改动。Gatsby Image 是一个 React 组件，可以轻松优化网站上的所有图像。它会为你调整图像大小，这样你就不会在移动设备上加载巨大的图像，它还会用一种很酷的“模糊”效果来延迟加载你的图像，这样你的初始页面加载速度会非常快。如果你是《盖茨比》的新手，我强烈推荐你先去看看他们的[官方教程](https://www.gatsbyjs.org/tutorial/)，熟悉一下《盖茨比》是如何运作的。
 
@@ -81,7 +81,7 @@ module.exports = {
         background_color: '#663399',
         theme_color: '#663399',
         display: 'minimal-ui',
-        icon: 'src/images/gatsby-icon.png', // This path is relative to the root of the site.
+        icon: 'simg/gatsby-icon.png', // This path is relative to the root of the site.
       },
     },
     'gatsby-plugin-offline',
@@ -113,7 +113,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果您点击播放按钮，您应该在响应栏中看到数据。这证明盖茨比能够找到你的形象并加以处理。
 
-[![](../Images/069201f46d1a7d2f9744c3a7e48428f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fopHgD6W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://content.screencast.com/users/hunter1291/folders/Jing/media/3a554288-ac4b-4e35-92b3-7fd5b2024052/00000530.png)
+[![](img/069201f46d1a7d2f9744c3a7e48428f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fopHgD6W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://content.screencast.com/users/hunter1291/folders/Jing/media/3a554288-ac4b-4e35-92b3-7fd5b2024052/00000530.png)
 
 尝试将`file(relativePath: {eq: "one.jpg"})`更改为该文件夹中的其他图像，并确保看到数据返回。
 

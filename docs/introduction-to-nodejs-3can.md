@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/flaviocopes/introduction-to-nodejs-3can>
 
-[![Introduction to Node.js](../Images/003c2063a54f4652a57f2868940c5309.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fOIA8SOO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://flaviocopes.com/nodejs/banner.png)
+[![Introduction to Node.js](img/003c2063a54f4652a57f2868940c5309.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fOIA8SOO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://flaviocopes.com/nodejs/banner.png)
 
 *   概观
 *   一点历史
@@ -41,7 +41,7 @@ JavaScript 是一种编程语言，由网景公司开发，作为一种脚本工
 
 ### 快
 
-[![Fast](../Images/d674b6c2e0511f92b4eb3369eea5d0de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vh6eDsRP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://flaviocopes.com/nodejs/fast.png)
+[![Fast](img/d674b6c2e0511f92b4eb3369eea5d0de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vh6eDsRP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://flaviocopes.com/nodejs/fast.png)
 
 Node.js 的主要卖点之一就是**速度**。Node.js 上运行的 JavaScript 代码(取决于基准测试)比 C 或 Java 等编译语言快两倍，比 Python 或 Ruby 等解释语言快几个数量级，因为它采用了非阻塞范式。
 
@@ -61,7 +61,7 @@ Node.js 运行在开源的 Google V8 JavaScript 引擎上，能够利用成千�
 
 ### 异步平台
 
-[![Async](../Images/752b70719fa60c366dc393bfc75eba76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--duSdRJPP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://flaviocopes.com/nodejs/async.png)
+[![Async](img/752b70719fa60c366dc393bfc75eba76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--duSdRJPP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://flaviocopes.com/nodejs/async.png)
 
 在传统编程语言(C、Java、Python、PHP)中，默认情况下所有指令都是阻塞的，除非你明确地“选择”执行异步操作。如果您执行一个网络请求来读取一些 JSON，那么这个特定线程的执行将被阻塞，直到响应就绪。
 

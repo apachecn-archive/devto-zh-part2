@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kojiyamauchi/hello-this-is-first-post--ffe>
 
-[![image](../Images/4600cf817b12565f80f52349fc2f04c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gh1S5QiQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://kojiyamauchi.com/images/img.jpg)
+[![image](img/4600cf817b12565f80f52349fc2f04c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gh1S5QiQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://kojiyamauchi.cimg/img.jpg)
 
 # Web 前端开发入门套件。
 

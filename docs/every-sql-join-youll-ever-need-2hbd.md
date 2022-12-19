@@ -127,7 +127,7 @@ insert into RESTAURANT values ('H8H8H8', 'Helen Hopper', '8888888', '888@example
 
 ## 加入类型:“在`A`”
 
-[![Venn diagram with the left circle shaded, including the overlap](../Images/9654ab596b950ff6b9811291b9773c34.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CU-ANfG3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://katiekodes.com/images/venn-a.png)
+[![Venn diagram with the left circle shaded, including the overlap](img/9654ab596b950ff6b9811291b9773c34.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CU-ANfG3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://katiekodes.cimg/venn-a.png)
 
 对于这种连接类型，我们期望 6 行输出(Anush-Frances - all people from `CONVENTION`)。
 
@@ -237,7 +237,7 @@ left outer join (select * from RESTAURANT where age >= 50) B on A.ssn = B.social
 
 ## 连接类型:“在`A`而不在`B`
 
-[![Venn diagram with only the portion of the left circle that does not overlap shaded](../Images/01b2d01940e69064a7ad7323c8ad89b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cLacCWGH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://katiekodes.com/images/venn-difference.png)
+[![Venn diagram with only the portion of the left circle that does not overlap shaded](img/01b2d01940e69064a7ad7323c8ad89b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cLacCWGH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://katiekodes.cimg/venn-difference.png)
 
 对于这种连接类型，我们期望 3 行输出 *(Anush+Benita+Cathy 或 Anush+Benita+Frances，取决于我们选择的"[匹配标准](#who-overlaps-and-how))*。
 
@@ -438,7 +438,7 @@ and B.email is null;
 
 ## 联接类型:“在`A`、`B`或两者中”
 
-[![Venn diagram with both circles and their overlap shaded](../Images/c8724488e72c15a7f019ddfa312215a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---fxCQK17--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://katiekodes.com/images/venn-union.png)
+[![Venn diagram with both circles and their overlap shaded](img/c8724488e72c15a7f019ddfa312215a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---fxCQK17--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://katiekodes.cimg/venn-union.png)
 
 对于这种连接类型，我们期望 9 行输出 *(Anush-Helen，Cathy 或 Frances 根据我们选择的[匹配标准](#who-overlaps-and-how))*。
 
@@ -592,7 +592,7 @@ right outer join RESTAURANT B on A.ssn = B.social;
 
 ## 加入类型:“在`A`和`B`都有”
 
-[![Venn diagram with only the overlap of the two circles shaded](../Images/360b1a997ec31ba23fb9523856a81b02.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BBwxZq0S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://katiekodes.com/images/venn-intersect.png)
+[![Venn diagram with only the overlap of the two circles shaded](img/360b1a997ec31ba23fb9523856a81b02.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BBwxZq0S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://katiekodes.cimg/venn-intersect.png)
 
 对于这种连接类型，我们期望 3 行输出 *(Cathy-Ezra 或 Darweesh-Frances，取决于我们选择的"[匹配标准](#who-overlaps-and-how))*。
 
@@ -805,7 +805,7 @@ and A.em = B.email;
 
 ## 联接类型:“在`A`或`B`中，但不能同时在两者中”
 
-[![Venn diagram with the unique portions of the circles shaded, but not the overlap](../Images/6c3ee273931e668394b4352d87156569.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GUaRwm1G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://katiekodes.com/images/venn-xor.png)
+[![Venn diagram with the unique portions of the circles shaded, but not the overlap](img/6c3ee273931e668394b4352d87156569.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GUaRwm1G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://katiekodes.cimg/venn-xor.png)
 
 对于这种连接类型，我们期望 6 行输出*(Anush+Benita+cathy 1+cathy 2+Grace+Helen 或 Anush+Benita+frances 1+frances 2+Grace+Helen，取决于"[匹配标准](#who-overlaps-and-how)"我们选择)*。
 

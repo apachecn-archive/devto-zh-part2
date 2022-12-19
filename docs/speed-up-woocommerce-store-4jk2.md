@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/alexxpaull/speed-up-woocommerce-store-4jk2>
 
-[![](../Images/dc04855845029f720025a2c3acb6dd88.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Ho7to6jF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.cloudways.com/blog/wp-content/uploads/speed-up-woocommerce-store-banner.jpg) 
+[![](img/dc04855845029f720025a2c3acb6dd88.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Ho7to6jF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.cloudways.com/blog/wp-content/uploads/speed-up-woocommerce-store-banner.jpg) 
 速度无疑会增加在线商店的价值，因为访问者可以更方便地浏览您的商店；花更多的时间在你的网站上，导致跳出率降低，最终导致购买。
 
 快速装载 WooCommerce store 的完美配方包含以下成分:

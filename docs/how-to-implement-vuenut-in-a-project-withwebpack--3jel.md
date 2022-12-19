@@ -2,13 +2,13 @@
 
 > 原文：<https://dev.to/luisdanielroviracontreras/how-to-implement-vuenut-in-a-project-withwebpack--3jel>
 
-[![](../Images/03352cbebd1e31dda8176803ea761729.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IYCGziym--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2ASe_6x8t0-knOPoRcEfyfqg.png)
+[![](img/03352cbebd1e31dda8176803ea761729.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IYCGziym--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2ASe_6x8t0-knOPoRcEfyfqg.png)
 
 # 首先，vuenut 是什么？
 
 创建这个库是为了在 vuejs (Vuex)的情况下操作和可视化状态管理的模式。主要思想是促进应用程序中数据的开发和维护。
 
-[![](../Images/b96e06994274289b23288410c9eb63f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LTZK7iNs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AUcUoC5KMNcHGbILdEfZqMw.gif)
+[![](img/b96e06994274289b23288410c9eb63f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LTZK7iNs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AUcUoC5KMNcHGbILdEfZqMw.gif)
 
 # 使用新的 cli 3 de vuejs 启动项目
 
@@ -167,7 +167,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 准备好了，我们只需要检查我们的本地服务器，看看 vuenut 是如何在这么少的步骤中工作的。
 
-[![](../Images/5a7c8aad999ec477e115724b13587f29.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n-Jo2I72--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Axe0RAL5jTG7f0ZlSflijbQ.png)
+[![](img/5a7c8aad999ec477e115724b13587f29.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n-Jo2I72--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Axe0RAL5jTG7f0ZlSflijbQ.png)
 
 Vuenut 是一个需要 vuex 才能工作的库，所以我们可以在我们的项目中实现 Vuex，并看到 vuenut 为我们提供的所有优势。
 
@@ -249,7 +249,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 准备好了，我们有了添加了 vuex 的组件，它应该是这样的
 
-[![](../Images/11392118bf82ff52f03154f1f6f1b763.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1geX2Xij--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Ah39TjuaspkT7trQq4EmUXA.png)
+[![](img/11392118bf82ff52f03154f1f6f1b763.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1geX2Xij--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Ah39TjuaspkT7trQq4EmUXA.png)
 
 太好了，我们已经实现了 vuenut，并准备在项目中使用，你可以用 vuenut 做一些事情。
 

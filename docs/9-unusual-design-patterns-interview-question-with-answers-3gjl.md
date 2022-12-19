@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/aershov24/9-unusual-design-patterns-interview-question-with-answers-3gjl>
 
-[![9 Unusual Design Patterns Interview Questions and Answers](../Images/ad3b5490ec3880edc4412e226c4c0061.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FNtQGuO_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/678117/pexels-photo-678117.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D350) 
+[![9 Unusual Design Patterns Interview Questions and Answers](img/ad3b5490ec3880edc4412e226c4c0061.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FNtQGuO_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/678117/pexels-photo-678117.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D350) 
 在软件工程中，设计模式是对软件设计中常见问题的通用可重复解决方案。设计模式不是可以直接转换成代码的成品设计。它是如何解决一个问题的描述或模板，可以在许多不同的情况下使用。
 
 > 最初发表于 [FullStack。永远不要再错过你的技术面试](https://www.fullstack.cafe)
@@ -49,7 +49,7 @@ List<Laptop> filteredLaptops = searchCriteria.meets(laptops);
 
 在策略模式中，我们创建表示各种策略的对象和一个上下文对象，该对象的行为根据其策略对象而变化。策略对象改变上下文对象的执行算法。
 
-[![](../Images/7c22c57ae10b86ae9aadc50444fcc710.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SsTXCyL9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/4/45/W3sDesign_Strategy_Design_Pattern_UML.jpg)
+[![](img/7c22c57ae10b86ae9aadc50444fcc710.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SsTXCyL9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/4/45/W3sDesign_Strategy_Design_Pattern_UML.jpg)
 
 🔗**来源:**【tutorialspoint.com】T2
 
@@ -67,7 +67,7 @@ List<Laptop> filteredLaptops = searchCriteria.meets(laptops);
 *   Observer (os Subscriber)抽象类提供了一个`update()`方法，主题将调用该方法来通知它主题的状态变化。
 *   Subject(或 Publisher)类也是一个抽象类，它定义了四个主要方法:`attach()`、`detach()`、`setState()`和`notify()`
 
-[![](../Images/75c559f5ee27bde4c97975ae44e2abcf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TZ1lgrm8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/0/01/W3sDesign_Observer_Design_Pattern_UML.jpg)
+[![](img/75c559f5ee27bde4c97975ae44e2abcf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TZ1lgrm8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/0/01/W3sDesign_Observer_Design_Pattern_UML.jpg)
 
 🔗**来源:**【sitepoint.com】T2
 

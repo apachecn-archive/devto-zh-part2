@@ -4,7 +4,7 @@
 
 ### 设计师可以做一些简单的事情让他们的开发同事开心
 
-[![](../Images/47e3b06056b8cd3983924691667fb248.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--epDjTxTp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AUsqmuXYQlsqbb554NUu9rw.png)
+[![](img/47e3b06056b8cd3983924691667fb248.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--epDjTxTp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AUsqmuXYQlsqbb554NUu9rw.png)
 
 当我作为一名前端开发人员工作时，有时我会收到在我称之为*打印心态*下创作的设计。印刷材料和网站都可以被认为是二维图像，应该以一种审美愉悦的方式传达信息，但相似之处也就到此为止了。
 
@@ -22,7 +22,7 @@
 
 表单是一个非常明显的例子，但是设计者也应该意识到任何动态或交互元素中的非理想状态。在设计新闻提要时，请记住可能没有任何新闻条目。设计还应该指出空状态是否是错误的结果，或者是否只是没有要显示的项目。
 
-[![](../Images/184dfcc3649f17c50808cfdfb9409f6a.png)T2】](https://logrocket.com/?cid=banner_b)
+[![](img/184dfcc3649f17c50808cfdfb9409f6a.png)T2】](https://logrocket.com/?cid=banner_b)
 
 ### 想想用户流量
 
@@ -81,7 +81,7 @@
 
 ### Plug: [LogRocket](http://logrocket.com) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

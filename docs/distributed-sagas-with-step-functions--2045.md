@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/yos/distributed-sagas-with-step-functions--2045>
 
-[![](../Images/4dd78cd910c217bd672a78a37e6ce448.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gu3wIQ1Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/MP85ikK.png)
+[![](img/4dd78cd910c217bd672a78a37e6ce448.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gu3wIQ1Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/MP85ikK.png)
 
 在本文中，了解分布式 saga 模式，它如何帮助确保微服务的正确性和一致性，以及如何使用 AWS Step 函数作为 Saga 执行协调器。
 
@@ -12,11 +12,11 @@
 
 微服务已经接管了软件。虽然这种方法有它的好处，但也带来了一些额外的复杂性。
 
-[![The Death Star architecture](../Images/8a10c0f084d639f21efbde23d3a80385.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1QvChIQ3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/CBFiRjl.png)
+[![The Death Star architecture](img/8a10c0f084d639f21efbde23d3a80385.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1QvChIQ3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/CBFiRjl.png)
 
 想象一下，我们正在使用微服务方法构建一个旅游预订平台。
 
-[![A single high-level action involves calling low-level actions across different microservices](../Images/4dd78cd910c217bd672a78a37e6ce448.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gu3wIQ1Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/MP85ikK.png)
+[![A single high-level action involves calling low-level actions across different microservices](img/4dd78cd910c217bd672a78a37e6ce448.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gu3wIQ1Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/MP85ikK.png)
 
 > 在上图中，一个高级业务操作(“预订行程”)包括对不同的微服务进行几个低级操作。
 
@@ -29,7 +29,7 @@
 
 使用微服务方法，您不能只在一个 ACID 事务中预订航班、汽车和酒店。为了保持一致，您需要创建一个分布式事务。
 
-[![Partial execution: the Book Flight request failed while the other service calls succeeded](../Images/e05bece22b3e5d5d4cd054590db08db9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tcowR5AC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/fbED2ot.pngs)
+[![Partial execution: the Book Flight request failed while the other service calls succeeded](img/e05bece22b3e5d5d4cd054590db08db9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tcowR5AC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/fbED2ot.pngs)
 
 如果机票预订失败，你愿意保留酒店和汽车吗？大概不会。
 
@@ -45,23 +45,23 @@
 
 在分布式系统中，跨多个服务的业务事务需要一种机制来确保跨服务的数据一致性。分布式 Saga 模式**是一种用于管理故障的模式**，其中每个动作都有一个用于回滚的补偿动作。分布式 Sagas 有助于确保跨微服务的一致性和正确性。
 
-[![](../Images/773a17121bffa10fdb9aa30c42848e46.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s64rOWk5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/zTYiuNZ.png)
+[![](img/773a17121bffa10fdb9aa30c42848e46.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s64rOWk5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/zTYiuNZ.png)
 
 埃克托·加西亚-莫利纳和肯尼斯·塞勒姆在 1987 年的一篇研究论文中首次使用了“传奇”一词。它是作为长期数据库事务的一种概念性替代方案引入的。
 
-[![](../Images/21eef40214cd820015443c9f4349ab42.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D7Tmigem--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/6jVNPfw.png)
+[![](img/21eef40214cd820015443c9f4349ab42.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D7Tmigem--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/6jVNPfw.png)
 
 最近，sagas 已被应用于帮助解决现代分布式系统中的一致性问题——如 2015 年[分布式 sagas 论文](https://github.com/aphyr/dist-sagas/blob/master/sagas.pdf)中所述。
 
-[![](../Images/1bc4b3b237e3921ccea16efe79399b89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YOJJFmE9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/YTE2sxA.png)
+[![](img/1bc4b3b237e3921ccea16efe79399b89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YOJJFmE9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/YTE2sxA.png)
 
 一个**传奇**代表一个高级业务流程(比如预订一次旅行)，它由几个低级**请求**组成，每个请求在一个服务中更新数据。每个请求都有一个**补偿请求**,当请求失败或事件中止时执行。
 
-[![](../Images/15f19bfb43b2b568fc8a75721cb9e986.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6zUt-Vfz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/9Z9X7PF.png)
+[![](img/15f19bfb43b2b568fc8a75721cb9e986.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6zUt-Vfz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/9Z9X7PF.png)
 
 例如，我们的旅游预订平台的“预订旅行”系列包括以下**请求** : `BookHotel`、`BookCar`和`BookFlight`。
 
-[![](../Images/6e15189eef41dd0aa5f36003541e57ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4P_B22Eo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/40tLnQc.png)
+[![](img/6e15189eef41dd0aa5f36003541e57ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4P_B22Eo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/40tLnQc.png)
 
 一个请求有一个相应的**补偿请求**，该请求在语义上撤销请求。`CancelHotel`撤销`BookHotel`、`CancelFlight`撤销`BookFlight`等等。
 
@@ -92,7 +92,7 @@
 
 我们如何定义一个传奇？作为[状态机](https://en.wikipedia.org/wiki/Finite-state_machine)。
 
-[![](../Images/62a06ad12b69db87b93d6c439553aee2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bCxP81bc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/996aOoa.png)
+[![](img/62a06ad12b69db87b93d6c439553aee2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bCxP81bc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/996aOoa.png)
 
 > 很长一段时间以来，状态机一直是编程中的一个核心概念，非常适合协调许多具有快速、可预测性能的小组件。
 
@@ -116,7 +116,7 @@ Saga 执行协调器是一种编排服务，它可以:
 *   通过与其他服务对话来执行 Saga 的请求
 *   通过执行补偿请求来处理故障恢复
 
-[![](../Images/7a5f4482d8b5086af8755695ccf55115.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vnljjMJN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/GsbgUQy.png)
+[![](img/7a5f4482d8b5086af8755695ccf55115.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vnljjMJN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/GsbgUQy.png)
 
 构建这样一个服务是一项艰巨的任务，但幸运的是，我们可以重新调整现有服务的用途来实现我们的目标。
 
@@ -124,7 +124,7 @@ Saga 执行协调器是一种编排服务，它可以:
 
 [AWS 步骤功能](https://aws.amazon.com/step-functions/)是一个工作流管理服务，可以用作 Saga 执行协调器来监督我们分布式 Saga 的执行。
 
-[![](../Images/43cc9c27b08c3fa8426a98e6cc86d8ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PirhqSFu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/2NiZXXF.png)
+[![](img/43cc9c27b08c3fa8426a98e6cc86d8ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PirhqSFu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/2NiZXXF.png)
 
 > AWS Step Functions 是一个 web 服务，使您能够使用可视化工作流来协调分布式应用程序和微服务的组件。您从单独的组件构建应用程序，每个组件执行一个独立的功能或任务，从而允许您快速扩展和更改应用程序。
 > 
@@ -132,33 +132,33 @@ Saga 执行协调器是一种编排服务，它可以:
 
 阶跃函数的工作方式如下:
 
-[![](../Images/b99744fbca946ca7d1243946b79bbb00.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cB01NiHx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/XjQnhmD.png)
+[![](img/b99744fbca946ca7d1243946b79bbb00.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cB01NiHx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/XjQnhmD.png)
 
 它使用自己的 AWS 状态语言领域特定语言来定义状态机:
 
-[![](../Images/78cf51181a89c091c1ef16e5364d76ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mLbAn5aQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/w1laAxI.png)
+[![](img/78cf51181a89c091c1ef16e5364d76ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mLbAn5aQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/w1laAxI.png)
 
 有七种状态类型可以用来创建状态机。`Task`可以作为请求和补偿请求，而`Choice`和`Parallel`用于控制流。
 
-[![](../Images/8371da80b58038fe06b09aae48144f7b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fPnM19bN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/56sdoIH.png)
+[![](img/8371da80b58038fe06b09aae48144f7b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fPnM19bN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/56sdoIH.png)
 
 通过使用 [AWS 状态语言](https://docs.aws.amazon.com/step-functions/latest/dg/concepts-amazon-states-language.html)和 Step 函数定义状态机，您可以将组件协调到符合您业务需求的工作流中，添加重试逻辑、错误处理等等:
 
-[![](../Images/894b5b826f13c583221b49cdbca55c37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r41UV52U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/FJPyX7y.png)
+[![](img/894b5b826f13c583221b49cdbca55c37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r41UV52U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/FJPyX7y.png)
 
-[![](../Images/64fe75d74e033e25997ac54a6fb99796.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kzaAOHlv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/VtLy9PK.png)
+[![](img/64fe75d74e033e25997ac54a6fb99796.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kzaAOHlv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/VtLy9PK.png)
 
-[![](../Images/923b6e986eec95e07f6495189511c720.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ipBrGGv_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/pCjNqlU.png)
+[![](img/923b6e986eec95e07f6495189511c720.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ipBrGGv_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/pCjNqlU.png)
 
 AWS 还为您提供了一个 web 界面，您可以使用它从 AWS 控制台调试和跟踪步骤功能状态机的执行:
 
-[![](../Images/ec28c17c3253cbb208f6350ef3da09ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4X8oTMnb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/RxLwcap.png)
+[![](img/ec28c17c3253cbb208f6350ef3da09ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4X8oTMnb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/RxLwcap.png)
 
 ### 实际操作 AWS Lambda 和 Step 功能
 
 在这一节中，我们将为本指南开头的旅行预订示例构建一个分布式传奇。
 
-[![A single high-level action involves calling low-level actions across different microservices](../Images/4dd78cd910c217bd672a78a37e6ce448.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gu3wIQ1Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/MP85ikK.png)
+[![A single high-level action involves calling low-level actions across different microservices](img/4dd78cd910c217bd672a78a37e6ce448.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gu3wIQ1Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/MP85ikK.png)
 
 > 您可以在 Github 上克隆并运行示例应用程序。
 
@@ -313,7 +313,7 @@ serverless deploy
 
 创建后，您将能够在 AWS 控制台上可视化和执行您的状态机:
 
-[![](../Images/4b6e44543e9abf878856b156d0809df3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SC_AnTJ---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/vtqTzRg.png)
+[![](img/4b6e44543e9abf878856b156d0809df3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SC_AnTJ---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/vtqTzRg.png)
 
 > 试试 AWS 状态语言和步骤函数吧！
 

@@ -30,7 +30,7 @@
 
 所有这些问题都可以在一定程度上得到缓解(比如 MySql 切分)。要解决所有这些问题，你可以使用 UUID 的。
 
-[![UUID](../Images/cf599eed0cb552e8c4753150a6736bb4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LncOeP4n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dzl07r56r59p8cg2jvg3.png)
+[![UUID](img/cf599eed0cb552e8c4753150a6736bb4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LncOeP4n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dzl07r56r59p8cg2jvg3.png)
 
 ## [UUID](https://en.wikipedia.org/wiki/Universally_unique_identifier) 🍱
 
@@ -46,7 +46,7 @@
 
 > # Basically, UUID/GUID is a random ID, and the values are not continuous. Anyone can create a new ID.
 
-[![](../Images/6994130c6f8f3fa2a72746f1c06d09d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KJ64zsD5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ykg21b16vh08o2b5yjdl.png)
+[![](img/6994130c6f8f3fa2a72746f1c06d09d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KJ64zsD5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ykg21b16vh08o2b5yjdl.png)
 
 与线性增量值相比，有几个优点
 
@@ -58,11 +58,11 @@
 *   你**在插入之前知道 ID** ，这可以简化逻辑/流程
 *   UUID 可以有你自己的格式，你可以把它分成 4 个数字，每个数字代表其他东西，例如，如果你把来自 20 个网站的用户分组，第一个数字可以代表应用程序。
 
-[![Monolith vs Cloud: AUTO PKID vs UUID](../Images/8a4b9725323e47bede6bcc34994e7911.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4tM15KYA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/08qvx53bzc7dcee2yf32.png)
+[![Monolith vs Cloud: AUTO PKID vs UUID](img/8a4b9725323e47bede6bcc34994e7911.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4tM15KYA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/08qvx53bzc7dcee2yf32.png)
 
 ## 新的心态🤕
 
-[![](../Images/fcc435788b83f6bd2a40405a18533612.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QyCI8iEO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hhxtc0s0bmonygyxgkf8.png)
+[![](img/fcc435788b83f6bd2a40405a18533612.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QyCI8iEO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hhxtc0s0bmonygyxgkf8.png)
 
 你将不得不习惯**一个更困难的调试过程**，UUID 的是不可能记住的。记忆第一个或最后一个字符的技巧可能不会奏效。
 
@@ -99,4 +99,4 @@
 
 请(喜欢)👏如果你学到了新的东西就订阅吧。请将您的反馈发送给我，以便我改进以下帖子。
 
-[![](../Images/ee4413adb798fd1aa37ad5aee55e2956.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CM_ikv0a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6q608badp8eqitr4wa0v.jpeg)
+[![](img/ee4413adb798fd1aa37ad5aee55e2956.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CM_ikv0a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6q608badp8eqitr4wa0v.jpeg)

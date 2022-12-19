@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ritikesh/how-to--publish-and-host-your-sassy-front-end-app-for-free-44i3>
 
-<figure>[![](../Images/79a420631622b9501fa4b0436bee8831.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--B3rTEd14--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/400/1%2AzyNSb0UXhP8TfxYbj-GNWg.png) 
+<figure>[![](img/79a420631622b9501fa4b0436bee8831.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--B3rTEd14--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/400/1%2AzyNSb0UXhP8TfxYbj-GNWg.png) 
 
 <figcaption>来源:[https://vuejs.org](https://vuejs.org)</figcaption>
 

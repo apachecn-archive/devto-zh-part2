@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jsguru_io/react-image-lazy-load-component-revisited-4dej>
 
-[![title image](../Images/8d9b28ac0c0fb8b9086627cd9d4190f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KpRqXosx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3s28bia94sk35q3v5487.png)
+[![title image](img/8d9b28ac0c0fb8b9086627cd9d4190f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KpRqXosx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3s28bia94sk35q3v5487.png)
 
 很久以前，我创建了一个简单的 React 组件，它可以延迟加载图像，当它忙于加载图像时，它会显示一个占位符，并编写了一个教程来说明我是如何做的。它的灵感来自聚合物的铁的形象和一个整洁的小技巧，如何从占位符过渡到加载图像。
 
@@ -11,7 +11,7 @@
 
 这产生了一种看起来像模糊图像的效果，暗示着它应该显示的内容突然锐化以显示原始图像。
 
-[![bad@$$ demo gif](../Images/2b70d3a7434372717ba4cb5f9d0c08a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0nLBPw9e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6fxt34nkz0pc3qd028ky.gif)
+[![bad@$$ demo gif](img/2b70d3a7434372717ba4cb5f9d0c08a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0nLBPw9e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6fxt34nkz0pc3qd028ky.gif)
 
 太棒了。
 反应

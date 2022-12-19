@@ -83,7 +83,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Edit Vue Template](../Images/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/6n0wzjvj2k)
+[![Edit Vue Template](img/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/6n0wzjvj2k)
 
 ## 复数支持
 

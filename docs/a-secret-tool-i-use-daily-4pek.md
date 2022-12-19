@@ -10,7 +10,7 @@
 
 Zerotier 使用 UDP 和 TCP 回退，并在您的计算机上创建虚拟网络设备。它通过零层根服务器建立网络，以获取每个网络的私有 IPv4 和 IPv6 地址。或者，你可以加入一个公共的零层网络，比如他们的“地球”网络，这个网络对任何人都开放。一旦连接，你得到加密的点对点连接。下面是从我的工作电脑跳到我的家庭服务器的样子:
 
-[![traceroute](../Images/92036184c83072d534cf6e55eeb82ceb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PQuxMuJW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5q70dmqnzlveh1mid41q.png)
+[![traceroute](img/92036184c83072d534cf6e55eeb82ceb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PQuxMuJW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5q70dmqnzlveh1mid41q.png)
 
 你可能认为我需要配置一百万个文件才能让它工作，就像一个 vpn 服务器一样。事实并非如此。
 

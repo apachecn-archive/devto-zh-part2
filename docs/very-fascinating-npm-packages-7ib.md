@@ -21,7 +21,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 **这就是它所做的一切**。我思考了这个包可能的用例，因为显然有很多。
 
-[![is-positive weekly downloads](../Images/1595a7ce8ea7253a0e1f52f8a04b19a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6jFZvIfK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/786078hzuu1ad36apz5t.png)
+[![is-positive weekly downloads](img/1595a7ce8ea7253a0e1f52f8a04b19a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6jFZvIfK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/786078hzuu1ad36apz5t.png)
 
 在浏览 NPM 提供的`Dependents`部分时，我发现了另一颗隐藏的宝石(共有 4 颗)。
 
@@ -29,7 +29,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这个包只是做了与`is-positive`完全相反的事情。它的描述非常贴切。
 
-[![is-not-positive description](../Images/9f2760615d8862ded5a4860485c5126d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--igYRwfwc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0workjjji0alqwwsl7vl.png)
+[![is-not-positive description](img/9f2760615d8862ded5a4860485c5126d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--igYRwfwc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0workjjji0alqwwsl7vl.png)
 
 # [`is-negative`T4】](https://www.npmjs.com/package/is-negative)
 
@@ -37,7 +37,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这个软件包的负面性甚至通过它的每周下载量表现得很明显，下载量远低于它更受欢迎的同类软件。
 
-[![is-negative weekly downloads](../Images/fb8c557851cf4f50acd33bc62aa71b39.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5BfahkEC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ssshl75zswiz24udxvg2.png)
+[![is-negative weekly downloads](img/fb8c557851cf4f50acd33bc62aa71b39.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5BfahkEC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ssshl75zswiz24udxvg2.png)
 
 # [`true`T4】](https://www.npmjs.com/package/true)
 
@@ -56,7 +56,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 然而，我觉得这个包由于使用了`var`，看起来比其他的要模糊一些。因此，我决定看看 GitHub 上的一些公开问题。*你不会相信接下来发生了什么。*
 
-[![true critical issue](../Images/46113640ff10f4785a4ebfa9f7a72430.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cPS-gq2h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0xt3elkuoy3ve3yfjo95.png)
+[![true critical issue](img/46113640ff10f4785a4ebfa9f7a72430.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cPS-gq2h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0xt3elkuoy3ve3yfjo95.png)
 
 我觉得被背叛了。
 

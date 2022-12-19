@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/gaserd/are-you-interested-in-reading-about-this-3ehi>
 
-[![Facebook](../Images/99666a0371a57dac44faff0f723c2f75.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mpqyr2IA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cvh8lvjqwkbzfrnzh22j.jpg)
+[![Facebook](img/99666a0371a57dac44faff0f723c2f75.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mpqyr2IA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cvh8lvjqwkbzfrnzh22j.jpg)
 
 嘿，伙计们！
 

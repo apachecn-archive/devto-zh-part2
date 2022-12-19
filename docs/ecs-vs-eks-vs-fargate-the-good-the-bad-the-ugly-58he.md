@@ -16,9 +16,9 @@
 
 # ECS vs EKS vs 法盖特一言以蔽之
 
-[![ECS Vs. EKS Vs. Fargate: The Good, the Bad, the Ugly](../Images/78f91c17c6279974b7b8e5f938990047.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gDbcq_bQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.totalcloud.io/wp-content/uploads/2018/06/ECS_EKS_FARGATE_GOOD_BAD_UGLY-V2.jpg)T4】
+[![ECS Vs. EKS Vs. Fargate: The Good, the Bad, the Ugly](img/78f91c17c6279974b7b8e5f938990047.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gDbcq_bQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.totalcloud.io/wp-content/uploads/2018/06/ECS_EKS_FARGATE_GOOD_BAD_UGLY-V2.jpg)T4】
 
-[![ECS Vs. EKS Vs. Fargate](../Images/e3758de0e6ea58b95cb012f724916f28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WhoFV9Ll--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ozfd6psoi2bhgezsnekl.jpg)
+[![ECS Vs. EKS Vs. Fargate](img/e3758de0e6ea58b95cb012f724916f28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WhoFV9Ll--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ozfd6psoi2bhgezsnekl.jpg)
 
 如果你认为我们错过了任何好的方面，请发推文给我们，地址是 [@totalcloudio](https://twitter.com/totalcloudio) 。
 

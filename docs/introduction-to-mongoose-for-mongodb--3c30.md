@@ -4,7 +4,7 @@
 
 Mongoose 是 MongoDB 和 Node.js 的对象数据建模(ODM)库，它管理数据之间的关系，提供模式验证，并用于在代码中的对象和 MongoDB 中这些对象的表示之间进行翻译。
 
-<figure>[![](../Images/c3ffafa2fa688fdb35e0c4437d97fbc4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CwcjvN6o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2Ab5piDNW1dqlkJWKe.) 
+<figure>[![](img/c3ffafa2fa688fdb35e0c4437d97fbc4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CwcjvN6o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2Ab5piDNW1dqlkJWKe.) 
 
 <figcaption>通过 mongose</figcaption>
 
@@ -16,7 +16,7 @@ MongoDB 是一个无模式的 NoSQL 文档数据库。这意味着您可以在�
 
 下面是 Mongo 与 SQL 数据库中数据存储方式的对比示例:
 
-<figure>[![NoSQL Documents vs. Relational Tables in SQL](../Images/0480224089d6767b803fc41fe9dadba6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KqdApFnS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xwccz9hq6adxiplvb32b.png)
+<figure>[![NoSQL Documents vs. Relational Tables in SQL](img/0480224089d6767b803fc41fe9dadba6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KqdApFnS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xwccz9hq6adxiplvb32b.png)
 
 <figcaption>【NoSQL 文档 vs . SQL 关系表</figcaption>
 
@@ -115,7 +115,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 上面的 require(' mongose ')调用返回一个 Singleton 对象。这意味着第一次调用 require(' mongose ')时，它会创建一个 mongose 类的实例并返回它。由于 ES6 中模块导入/导出的工作方式，在后续调用中，它将返回与第一次创建并返回给您的实例相同的实例。
 
-<figure>[![](../Images/80b47a42ccf629c4f4f2e77d31737962.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lC1O1wA9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ARvVsD_byUakUzuCj.) 
+<figure>[![](img/80b47a42ccf629c4f4f2e77d31737962.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lC1O1wA9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ARvVsD_byUakUzuCj.) 
 
 <figcaption>模块导入/需求工作流</figcaption>
 
@@ -512,7 +512,7 @@ Enter fullscreen mode Exit fullscreen mode
 1.  事件的类型(“初始化”、“验证”、“保存”、“删除”)
 2.  使用引用模型实例的 **this** 执行回调
 
-<figure>[![](../Images/0e35be649bb5ae2d540bf71397913425.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vZRxNkJ7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AiZwmyy25FSxuxXlH.) 
+<figure>[![](img/0e35be649bb5ae2d540bf71397913425.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vZRxNkJ7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AiZwmyy25FSxuxXlH.) 
 
 <figcaption>中间件的例子(又称前置和后置挂钩)</figcaption>
 
@@ -679,7 +679,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 * * *
 
-[![theoutlander](../Images/fa3a5404d413070afd491a6351af2493.png)](/theoutlander) [## 如何构建自己的 React 样板文件
+[![theoutlander](img/fa3a5404d413070afd491a6351af2493.png)](/theoutlander) [## 如何构建自己的 React 样板文件
 
 ### 尼克卡尼克 1 月 22 日 1813 分钟阅读
 

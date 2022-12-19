@@ -7,9 +7,9 @@
 
 # 黑金
 
-[![blackgold](../Images/298e6102f8c8c61ccd62e6e9350160bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0H9DvUo9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lx07rb9vz3uq3qtrfohh.png)
+[![blackgold](img/298e6102f8c8c61ccd62e6e9350160bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0H9DvUo9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lx07rb9vz3uq3qtrfohh.png)
 
-[![blackgolden theme](../Images/ddd06f70cbadb61630a0257c32102c4b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TZWlrN1u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0xg0849v4m8u11xboebz.gif)
+[![blackgolden theme](img/ddd06f70cbadb61630a0257c32102c4b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TZWlrN1u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0xg0849v4m8u11xboebz.gif)
 
 安装程序
 1。在 VS 代码中打开扩展侧边栏面板。查看→扩展

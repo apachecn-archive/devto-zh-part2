@@ -6,4 +6,4 @@
 
 [读下去🔬](https://auth0.com/blog/cypress-write-automated-tests-to-validate-web-applications/?utm_source=dev&utm_medium=sc&utm_campaign=cypress_tests)
 
-[![Cypress: Write Automated Tests to Validate Web Applications](../Images/77f7e00ed582b4a94584402fe5d9278c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VkpzFiNs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l9os5dhbcc3thk3d9h57.png)
+[![Cypress: Write Automated Tests to Validate Web Applications](img/77f7e00ed582b4a94584402fe5d9278c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VkpzFiNs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l9os5dhbcc3thk3d9h57.png)

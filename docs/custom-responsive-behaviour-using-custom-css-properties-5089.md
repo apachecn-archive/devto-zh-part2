@@ -4,7 +4,7 @@
 
 #### 如今，自定义 CSS 属性只作为 CSS 变量使用。下面是如何使用自定义 CSS 属性定义自定义响应行为。
 
-[![](../Images/3a7cffb37808219e5134542e84af89c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z4_zg_lH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AvuH0AlKsDuRalaGMcEtOXA.png)
+[![](img/3a7cffb37808219e5134542e84af89c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z4_zg_lH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AvuH0AlKsDuRalaGMcEtOXA.png)
 
 在 2012 年，自定义属性作为“变量”被引入 CSS 变量模块。后来，“变量”被重命名为“自定义属性”，根据 CSS [规范](https://www.w3.org/TR/css-variables-1/#defining-variables)它将支持除变量替换之外的“其他东西”。
 
@@ -30,7 +30,7 @@
 
 关于“变量”用法更详尽的描述，请看这里:[https://developer . Mozilla . org/en-US/docs/Web/CSS/Using _ CSS _ variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables)
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 #### 同“其他事物”的问题
 
@@ -122,7 +122,7 @@ layerJS 尤其受益于自定义 CSS 属性。它提供了从嵌套层中构建�
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

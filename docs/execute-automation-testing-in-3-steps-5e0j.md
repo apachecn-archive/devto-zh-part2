@@ -28,7 +28,7 @@
 **步骤 1:使用记录功能**创建一个新的测试用例
 
 *   打开 Katalon 记录器，点击“New”创建一个新的测试用例
-    [![Katalon Recorder](../Images/daa633e505481fcaa22c7bc8c4c31acb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--D-Hx8Huy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AdY1e62yLhMhzaqfg.)
+    [![Katalon Recorder](img/daa633e505481fcaa22c7bc8c4c31acb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--D-Hx8Huy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AdY1e62yLhMhzaqfg.)
 
 *   然后点击“记录”生成测试用例，步骤如下:
 
@@ -39,7 +39,7 @@
 *   填写并提交表格
 
 *   注销
-    [![Katalon Recorder](../Images/2039369494043148bcf4292e7b6141fc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wOuXO5Wt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2A9y-39__xOfVhuTis.)
+    [![Katalon Recorder](img/2039369494043148bcf4292e7b6141fc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wOuXO5Wt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2A9y-39__xOfVhuTis.)
 
 第二步:保持冷静&执行自动化测试
 
@@ -48,32 +48,32 @@
 您可以手动更改“值”输入，以测试更多帐户的功能。
 
 快乐案例应该如下图所示
-[![Execute automation](../Images/adec297cc90ff6a9ab39df576c081b90.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ofF-O85m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2ABBLCJzVBNc8Ghai4.)
+[![Execute automation](img/adec297cc90ff6a9ab39df576c081b90.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ofF-O85m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2ABBLCJzVBNc8Ghai4.)
 
 并在不登录任何帐户的情况下将您带回主页。
-[![Execute automation](../Images/268f90afbd7772977c8d9d779ee09501.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--7JXk6njJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2A31o134gGPwCoOVn7.)
+[![Execute automation](img/268f90afbd7772977c8d9d779ee09501.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--7JXk6njJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2A31o134gGPwCoOVn7.)
 
 **步骤 3:自动化测试专家的高级步骤**
 
 如果您想要放置更多可变的测试数据来覆盖不同的情况，并使用这些数据自动运行测试，Katalon Recorder 支持数据驱动测试，允许用户定义数据集并执行使用这些数据的测试脚本。
 
 *   您应该在这里下载示例测试数据，并在“test data”选项卡上添加名为“test data.csv”的文件。
-    [![data driven testing](../Images/219d73404e5369293912375ab654c544.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--KhjQbq87--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2A-Ir4M6NOzwlebclw.)
+    [![data driven testing](img/219d73404e5369293912375ab654c544.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--KhjQbq87--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2A-Ir4M6NOzwlebclw.)
 
 *   通过点击“打开测试套件”而不是点击“创建测试套件”来导入保存为 HTML 文件的测试用例，并打开我的示例测试用例。
 
 *   点击“播放”,使用变量输入自动执行测试。
-    [![data driven testing](../Images/dc0c878bfbca32381182978fe3d2bf4f.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--ExfQ2xPm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2A8E3rIdPMLl5ssAeA.)
+    [![data driven testing](img/dc0c878bfbca32381182978fe3d2bf4f.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--ExfQ2xPm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2A8E3rIdPMLl5ssAeA.)
 
 您还可以将测试用例导出为多种语言的脚本，如 Java、Ruby、Groovy、Python、C#和 Robot framework。
 
 不仅如此，Katalon platform 还提供了名为 Katalon Analytics 的工具，帮助您保存所有测试报告，并通过彩色图表直观地显示出来。您可以点击“上传日志”(云状图标)，将您的结果直接上传至 Katalon Recorder。您可能需要在[www.katalon.com](http://www.katalon.com)注册一个 Katalon 账户(免费)，并登录到[https://analytics.katalon.com](https://analytics.katalon.com)的 Katalon Analytics 来创建一个新项目。
-[![katalon analytics](../Images/9c3cd3261b610b7e192da174b13993c4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Ii7zlla0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2ApN5srzvArQBKMhNW.) 
+[![katalon analytics](img/9c3cd3261b610b7e192da174b13993c4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Ii7zlla0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2ApN5srzvArQBKMhNW.) 
 然后回到 Katalon Recorder 窗口，选择你想要上传日志的项目，点击“上传”
-[![upload report](../Images/5b76eadcdd782cb893f89d6bafce5218.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QoBuXXqr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AQ5NYtfGRj2c5J6MF.) 
+[![upload report](img/5b76eadcdd782cb893f89d6bafce5218.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QoBuXXqr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AQ5NYtfGRj2c5J6MF.) 
 下图是我执行两次测试用例后的测试结果。
 
-[![Test result](../Images/d46a04ce4dbc91310be1fcb8d334b4d5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XViMzpnL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AVy6jodNExinZgfRN.) 
+[![Test result](img/d46a04ce4dbc91310be1fcb8d334b4d5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XViMzpnL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AVy6jodNExinZgfRN.) 
 虽然 Katalon Analytics 是作为测试版推出的，但它满足了我对测试报告的所有需求，甚至可以轻松地与队友分享结果。
 
 ## **在 Chrome 上运行 Selenese (Selenium IDE)脚本& Firefox**

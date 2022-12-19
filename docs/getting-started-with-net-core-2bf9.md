@@ -20,7 +20,7 @@
 
 浏览浏览器教程中的
 
-[![Try .NET In Browser](../Images/c208c001cf2dee41a08cd81d80b269d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5s4_km66--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/Dbo6zhQVAAAPeI4.jpg)
+[![Try .NET In Browser](img/c208c001cf2dee41a08cd81d80b269d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5s4_km66--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/Dbo6zhQVAAAPeI4.jpg)
 
 ### 获取比特
 
@@ -28,13 +28,13 @@
 
 另一个选择是安装 Visual Studio 2017，。NET Core 是作为[ASP.NET 和 web 开发工作量](https://www.visualstudio.com/vs/support/selecting-workloads-visual-studio-2017/?WT.mc_id=devto-twitter-shboyer)的一部分安装的。
 
-[![Visual Studio Workloads](../Images/2795bdd9ae644ba8c853cf1356ff2865.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iqK2ZXd3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.visualstudio.com/wp-content/uploads/2017/06/ASP.NETandWebDevelopment.png)
+[![Visual Studio Workloads](img/2795bdd9ae644ba8c853cf1356ff2865.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iqK2ZXd3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.visualstudio.com/wp-content/uploads/2017/06/ASP.NETandWebDevelopment.png)
 
 ### 使用 CLI 创建快速应用程序
 
 打开您喜欢的命令提示符(bash、zsh、powershell 等)并键入`dotnet new`来查看可用的项目模板。
 
-[![dotnet new templates](../Images/19e2d7f1e31ea251c0374b5bd6fbe29e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O9-M_aix--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/DbpGht6V0AAGt4m.jpg)
+[![dotnet new templates](img/19e2d7f1e31ea251c0374b5bd6fbe29e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O9-M_aix--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/DbpGht6V0AAGt4m.jpg)
 
 创建一个名为`devto`
 的新 web 应用程序

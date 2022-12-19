@@ -31,11 +31,11 @@ Firstly, a brief background about myself. I am working as a Software Engineer in
 
 ## 当前架构
 
-[![](../Images/0ad1c41a6f5a8e62b3e9586167206b71.png)](https://4.bp.blogspot.com/-zrXUbB9-EVA/WvaSLHGo0fI/AAAAAAAAbmU/jwHR-jSLH7MALNt8Q7ghWotC5H9dhQvcgCLcBGAs/s1600/internet.jpeg)
+[![](img/0ad1c41a6f5a8e62b3e9586167206b71.png)](https://4.bp.blogspot.com/-zrXUbB9-EVA/WvaSLHGo0fI/AAAAAAAAbmU/jwHR-jSLH7MALNt8Q7ghWotC5H9dhQvcgCLcBGAs/s1600/internet.jpeg)
 
 ### 广阔的视野
 
-We knew that problem that we are solving has to deal with the cruel decentralized Internet. And we need to divide the large task of getting the data from the web and analyzing it into small tasks. [![](../Images/9b4b624764b0aa6446e2cd3b17e177e9.png)](https://1.bp.blogspot.com/-tPW3nCkXYps/WvaVW4XlHoI/AAAAAAAAbmg/_jpZxvZMOA8M-CpZ0fuffHzeU9IzaYbFgCLcBGAs/s1600/croped1.jpeg) Fig 1 On exploring different projects and technologies and analyzing the community support we came to a decision to use **Python** as our language of choice and **Celery** as our commander.  Python is a pretty vast language backed by a large set of libraries. Since inception, It has gained a lot of popularity among the developer and Data Science communities. One of the major reason to use python as a backend is the project Celery.  Its website defines celery as*An asynchronous task queue/job queue based on distributed message passing. It is focused on real-time operation, but supports scheduling as well.* To more about celery you can visit its website [here](http://www.celeryproject.org/). By now we were clear of how we want to proceed. We wanted to divide the process in Fig 1 into granular units (in celery terminology task). Keeping this as the baseline we identified all the individual units which can work independently in the system. This gave rise to a new look to Fig 1 [![](../Images/b6558694463a506e0897ab273107ce01.png)](https://2.bp.blogspot.com/-ShzlN3uYpA4/Wvacz_r0wtI/AAAAAAAAbmw/2q0sPcEN4FM3qTkEPOMTqq_zQyL5CID8wCLcBGAs/s1600/cropped1.jpeg) Fig 2 Were are using MongoDB in a replication cluster as a Database engine and Redis DB for queuing and communication between independent celery workers. The following figure describes the communication of celery works with the help of broker(Redis) [![](../Images/c6966b4d676182b6592cef70b49eb98a.png)](https://3.bp.blogspot.com/-S1r1aSUiOcc/Wvae5cP0BqI/AAAAAAAAbnE/QNNKir9dgUEGEpDk00KWfOOqLfVxKlAoQCLcBGAs/s1600/workers.jpeg)
+We knew that problem that we are solving has to deal with the cruel decentralized Internet. And we need to divide the large task of getting the data from the web and analyzing it into small tasks. [![](img/9b4b624764b0aa6446e2cd3b17e177e9.png)](https://1.bp.blogspot.com/-tPW3nCkXYps/WvaVW4XlHoI/AAAAAAAAbmg/_jpZxvZMOA8M-CpZ0fuffHzeU9IzaYbFgCLcBGAs/s1600/croped1.jpeg) Fig 1 On exploring different projects and technologies and analyzing the community support we came to a decision to use **Python** as our language of choice and **Celery** as our commander.  Python is a pretty vast language backed by a large set of libraries. Since inception, It has gained a lot of popularity among the developer and Data Science communities. One of the major reason to use python as a backend is the project Celery.  Its website defines celery as*An asynchronous task queue/job queue based on distributed message passing. It is focused on real-time operation, but supports scheduling as well.* To more about celery you can visit its website [here](http://www.celeryproject.org/). By now we were clear of how we want to proceed. We wanted to divide the process in Fig 1 into granular units (in celery terminology task). Keeping this as the baseline we identified all the individual units which can work independently in the system. This gave rise to a new look to Fig 1 [![](img/b6558694463a506e0897ab273107ce01.png)](https://2.bp.blogspot.com/-ShzlN3uYpA4/Wvacz_r0wtI/AAAAAAAAbmw/2q0sPcEN4FM3qTkEPOMTqq_zQyL5CID8wCLcBGAs/s1600/cropped1.jpeg) Fig 2 Were are using MongoDB in a replication cluster as a Database engine and Redis DB for queuing and communication between independent celery workers. The following figure describes the communication of celery works with the help of broker(Redis) [![](img/c6966b4d676182b6592cef70b49eb98a.png)](https://3.bp.blogspot.com/-S1r1aSUiOcc/Wvae5cP0BqI/AAAAAAAAbnE/QNNKir9dgUEGEpDk00KWfOOqLfVxKlAoQCLcBGAs/s1600/workers.jpeg)
 
 ## 数据负载问题和不眠之夜
 
@@ -43,7 +43,7 @@ We knew that problem that we are solving has to deal with the cruel decentralize
 
 但这是暴风雨前的平静。当我们计划增加我们的工作负载和配置更多的任务时，系统开始变弱并频繁地耗尽内存。我们现在每天生成大约 1000 万个任务。Celery workers 无法以这样的速度处理任务，这使得队列中的任务越来越多，降低了 Redis broker 的速度，因为它现在存储了大量的任务，这反过来又使整个系统耗尽了内存并逐渐停止运行。
 
-[![](../Images/5e541e3a8a1afe587aaf4146f97b58d5.png)T2】](https://3.bp.blogspot.com/-yFpJdkfSkB0/WvgHuFRr77I/AAAAAAAAbno/p4siRfrXTVIDEypgbo5qd9LfiKRjoW-qACLcBGAs/s1600/calm.jpg)
+[![](img/5e541e3a8a1afe587aaf4146f97b58d5.png)T2】](https://3.bp.blogspot.com/-yFpJdkfSkB0/WvgHuFRr77I/AAAAAAAAbno/p4siRfrXTVIDEypgbo5qd9LfiKRjoW-qACLcBGAs/s1600/calm.jpg)
 
 我们设计精美的船正在下沉，我们必须做些什么来拯救它。
 
@@ -68,7 +68,7 @@ We knew that problem that we are solving has to deal with the cruel decentralize
 
 我们用 celery 应用程序插入这个集群，工作人员抛出一个异常“*移动到服务器 192.168.12.12* ”
 
-[![](../Images/f0300f2da1d16eae653a26834c03e5ec.png)T2】](https://2.bp.blogspot.com/-zw8o3gX19lI/WvibxsT5RII/AAAAAAAAboE/nEeZLU_ia0kqszxTpylxt2FoYDDyfrKfgCEwYBhgL/s1600/fr_201691716455.jpg)
+[![](img/f0300f2da1d16eae653a26834c03e5ec.png)T2】](https://2.bp.blogspot.com/-zw8o3gX19lI/WvibxsT5RII/AAAAAAAAboE/nEeZLU_ia0kqszxTpylxt2FoYDDyfrKfgCEwYBhgL/s1600/fr_201691716455.jpg)
 
 在谷歌上，我们发现芹菜还不支持 Redis 集群。一方面，我们认为我们有一个解决方案，但另一方面，它还没有得到底层框架的支持:(
 
@@ -100,7 +100,7 @@ Redis 是我们已经尝试过的，所以我们选择了第二个选项，它�
 
 我们对系统进行了必要的修改，并尝试运行该系统。
 
-[![](../Images/1ff9e303a2d483748954cc8cd9718a9e.png)T2】](https://3.bp.blogspot.com/-dTzKGioKH8c/Wvig1fw85LI/AAAAAAAAboU/3bugIbOyg6IrPyDrVIVrGqMfr6DC-tJ9QCLcBGAs/s1600/fc6ba9d5149c057a2582a7f07523abd2.jpg)
+[![](img/1ff9e303a2d483748954cc8cd9718a9e.png)T2】](https://3.bp.blogspot.com/-dTzKGioKH8c/Wvig1fw85LI/AAAAAAAAboU/3bugIbOyg6IrPyDrVIVrGqMfr6DC-tJ9QCLcBGAs/s1600/fc6ba9d5149c057a2582a7f07523abd2.jpg)
 
 这一次系统几乎进入一个不可恢复的状态，消耗所有的内存，我们不得不重新启动服务器。
 
@@ -116,7 +116,7 @@ Redis 是我们已经尝试过的，所以我们选择了第二个选项，它�
 
 我们部署 Redis 作为结果后端来存储中间结果，部署 RabbitMQ 作为代理来维护通信和传递任务(记住上面的剧透)。
 
-[![](../Images/b7c496122ef2d7f040e38c738a6e9c83.png)T2】](https://1.bp.blogspot.com/-zFlxvWKDZh8/WvijzlNdrfI/AAAAAAAAbog/ZOD6D9Hq9_8i5wL5zq3BK60BCfqCR-bSQCLcBGAs/s1600/fg.jpeg)
+[![](img/b7c496122ef2d7f040e38c738a6e9c83.png)T2】](https://1.bp.blogspot.com/-zFlxvWKDZh8/WvijzlNdrfI/AAAAAAAAbog/ZOD6D9Hq9_8i5wL5zq3BK60BCfqCR-bSQCLcBGAs/s1600/fg.jpeg)
 
 借助这种架构，我们能够在每天超过 1000 万个任务的工作负载下运行系统，并且可以轻松扩展。
 

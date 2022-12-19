@@ -12,7 +12,7 @@ Raspbian 有时会在物理屏幕和逻辑桌面或控制台的边缘之间输�
 
 ### 前:不吉利的缺口
 
-[![before](../Images/70e8a71dd2935f0ca8a16346998be7a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yu7Z0k1_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ll03p5drca40lmt1bfik.jpg)
+[![before](img/70e8a71dd2935f0ca8a16346998be7a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yu7Z0k1_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ll03p5drca40lmt1bfik.jpg)
 
 是“过扫描”造成的。在 Raspbian 安装程序中，有时会默认设置过扫描选项。
 
@@ -52,6 +52,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 后:吉祥和谐
 
-[![after](../Images/8e7da245b729a23cbb3f0ca340fda2af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TIyyfLwD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5sdszh03vgo3ugr5yi10.jpg)
+[![after](img/8e7da245b729a23cbb3f0ca340fda2af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TIyyfLwD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5sdszh03vgo3ugr5yi10.jpg)
 
 是😃

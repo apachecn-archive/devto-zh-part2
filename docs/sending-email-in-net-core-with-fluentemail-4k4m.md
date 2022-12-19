@@ -4,7 +4,7 @@
 
 我已经很久没有发布关于开源软件 FluentEmail 的文章了。我在 2010 年创建的. net 电子邮件包。在此期间(很大程度上归功于[本·卡尔](https://benjii.me)的出色工作)，流畅的电子邮件已经更新为支持。网芯。
 
-[![FluentEmail](../Images/13087066bbeb47b0455b6efe9ad01a3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wFNL2ynY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/lukencode/FluentEmail/master/assets/fluentemail_logo_64x64.png)
+[![FluentEmail](img/13087066bbeb47b0455b6efe9ad01a3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wFNL2ynY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/lukencode/FluentEmail/master/assets/fluentemail_logo_64x64.png)
 
 我最近又一次动手编写代码来改进。net 核心支持——特别是依赖注入。以下是在 ASP.NET 核心 web 应用程序中使用 FluentEmail 的演练。
 

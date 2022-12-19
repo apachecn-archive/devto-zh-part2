@@ -53,7 +53,7 @@
 
 现在我们知道了谁是你的用户，是时候看看他们会采取什么步骤来实现他们的目标了。这可以通过创建用户流程图来实现。这些图表展示了基于用户目标的示例用户旅程，并且通常可以与业务目标相结合，以获得完整的客户体验视图。
 
-[![](../Images/f95ee2d7b9f986a37c87a23feb4aef1c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IuSTV7B6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2A9y9CjmzR3tjfp30OZV04zg.jpeg)
+[![](img/f95ee2d7b9f986a37c87a23feb4aef1c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IuSTV7B6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2A9y9CjmzR3tjfp30OZV04zg.jpeg)
 
 ###### 用户流程图示例
 
@@ -73,7 +73,7 @@
 
 行为流报告也是非常宝贵的，它以流程图的形式提供了对用户旅程的洞察。它提供了离店、会话等数据，并能够突出显示或分析特定的用户路径。
 
-[![](../Images/48519d3b9aa4bf74230e84bf366719f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5tlNd30n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2AvAlYLVcZDPkSnHTf9tWngw.png)
+[![](img/48519d3b9aa4bf74230e84bf366719f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5tlNd30n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2AvAlYLVcZDPkSnHTf9tWngw.png)
 
 ###### 谷歌分析的行为流程图示例
 
@@ -142,13 +142,13 @@
 
 易访问性经常被开发人员和设计人员所忽视——我自己对此也感到内疚。然而，随着我们越来越被数字所驱动，考虑残疾用户变得越来越重要。像红色按钮上的绿色文字这样简单的东西可能会完全破坏色盲用户的体验，并导致销售或销售线索的丢失。
 
-[![](../Images/48eed68a06eac60341faa9beaa8a6c0f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I6jK4cOc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2Alk_TrO9KpgKOKRjcniClpQ.png)
+[![](img/48eed68a06eac60341faa9beaa8a6c0f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I6jK4cOc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2Alk_TrO9KpgKOKRjcniClpQ.png)
 
 可访问性涵盖几个方面，包括颜色、字体大小、字体类型、描述性文本或 alt 标签。考虑所有这些设计和技术方面很重要，因为它们可能会影响用户的体验。
 
 我经常使用的一个测试网络可访问性的工具是[谷歌灯塔](https://developers.google.com/web/tools/lighthouse/)。Lighthouse 可通过 Chrome 开发者工具获得，并提供关于速度、渐进式网络应用功能、可访问性、最佳实践和网站 SEO 的详细反馈。
 
-[![](../Images/cc5fa92f19052a88af643878a4b1f9bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wNHSLFt4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2AmOcGhbsXSw4DqSLR0jo9Sg.png)
+[![](img/cc5fa92f19052a88af643878a4b1f9bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wNHSLFt4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2AmOcGhbsXSw4DqSLR0jo9Sg.png)
 
 ###### 谷歌灯塔结果
 
@@ -160,7 +160,7 @@
 
 Eightshape 的 [色彩对比网格](http://contrast-grid.eightshapes.com/)是分析数字调色板可用性的有用工具，而[色彩安全](http://colorsafe.co/)提供了一种简单的方法来找到可接受的色彩组合。
 
-[![](../Images/6d4a2114dc2bb9f1dc46c882d887a1a6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--54LcfAgF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2Aj4cJtJmF1TwJsd7iZoR6FQ.png)
+[![](img/6d4a2114dc2bb9f1dc46c882d887a1a6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--54LcfAgF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2Aj4cJtJmF1TwJsd7iZoR6FQ.png)
 
 ###### 八种形状颜色对比测试结果
 
@@ -174,7 +174,7 @@ Eightshape 的 [色彩对比网格](http://contrast-grid.eightshapes.com/)是分
 
 #### 1。性能/速度
 
-[![](../Images/fd52de61abf4c51dfd50950c27fc6392.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U5mZwPCk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2A9jCDQgaYN_xSxEAk6mdURg.png)
+[![](img/fd52de61abf4c51dfd50950c27fc6392.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U5mZwPCk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2A9jCDQgaYN_xSxEAk6mdURg.png)
 
 来自谷歌页面速度洞察的分数
 
@@ -231,7 +231,7 @@ Lighthouse 提供了一些关于 SEO 的高级反馈，但要获得更详细的�
 
 谁知道呢，你甚至可能成为他们团队中的实施伙伴或 UX 设计师。
 
-[![](../Images/f288742df0dcf2dae732f15f3b85c7f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OLn6_mVV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2A5XdPNMEszinp6NvX8CaNoQ.jpeg)
+[![](img/f288742df0dcf2dae732f15f3b85c7f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OLn6_mVV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2A5XdPNMEszinp6NvX8CaNoQ.jpeg)
 
 * * *
 

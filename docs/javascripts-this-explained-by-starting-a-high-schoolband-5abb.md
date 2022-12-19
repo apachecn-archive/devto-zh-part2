@@ -35,7 +35,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果您对本教程的技术版本感兴趣，请查看来自 JavaScriptIsSexy 的[指南。](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
 
-[![](../Images/2a82b0336bca9a3a58bff577c689e08d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gfqYG4ZR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/globalcontext.png)
+[![](img/2a82b0336bca9a3a58bff577c689e08d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gfqYG4ZR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/globalcontext.png)
 
 ## 全局执行上下文
 
@@ -62,7 +62,7 @@ playGig();
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![billyjoelinstruments.png](../Images/dbcd3552879d6bf71bec8e2f9d6eaf92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ezISqbT6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/billyjoelinstruments.png)
+[![billyjoelinstruments.png](img/dbcd3552879d6bf71bec8e2f9d6eaf92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ezISqbT6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/billyjoelinstruments.png)
 
 在上面的例子中，我们有一个 artist **变量**,它指示我们将播放什么类型的音乐。我们有一个装满了*乐器*的数组，它们将被用来在 playGig **函数**中播放音乐。
 
@@ -90,17 +90,17 @@ this.artist="Billy Joel";
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![windowexecution](../Images/db7325196970ebe94d8c6f18819e51b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kbcjmYkf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/windowexecution.png)
+[![windowexecution](img/db7325196970ebe94d8c6f18819e51b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kbcjmYkf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/windowexecution.png)
 
 你的乐队通过演奏吸引每个人的音乐，在全球范围内进行演出(除非那里有任何讨厌比利·周的人)。
 
-[![barpic](../Images/b6fd7fb711c1c34c28a26fa776833f1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FxS8W9iE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/barpic.png)
+[![barpic](img/b6fd7fb711c1c34c28a26fa776833f1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FxS8W9iE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/barpic.png)
 
 ## 对象级执行上下文
 
 假设你的乐队在当地一家酒吧演出。这太棒了！现在，你不需要演奏让镇上所有人都满意的音乐。你只需要播放人们可以跟着跳舞的音乐。
 
-[![barvglobal](../Images/18e82cf1177f4a4075a7ade915c09fa1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fiNRUC5g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/barvglobal.png)
+[![barvglobal](img/18e82cf1177f4a4075a7ade915c09fa1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fiNRUC5g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/barvglobal.png)
 
 假设你选择了酷玩乐队，因为他们最近的大多数歌曲都是流行音乐。这场演出你需要一架钢琴、麦克风、架子鼓和吉他。
 
@@ -134,7 +134,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 下面是上面代码的示意图:
 
-[![barobjdiagram](../Images/84e7b755b7812079fbbf477ca8a19ef1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FymnWTj5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/barobjdiagram.png)
+[![barobjdiagram](img/84e7b755b7812079fbbf477ca8a19ef1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FymnWTj5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/barobjdiagram.png)
 
 所以，让我们说，我们想写代码，让酒吧的演出开始。我们需要观察我们的**执行上下文**，在本例中是*栏*对象。下面是它的样子:
 
@@ -156,7 +156,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 到目前为止，这还算简单。每当我们调用一个函数时，提供**执行上下文**的对象非常简单。但是随着我们变得越来越复杂，这种情况将会改变。
 
-[![schooljam](../Images/8aebbe19126edb0c23ff615af92d2e65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4VQMJWMW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/schooljam.png)
+[![schooljam](img/8aebbe19126edb0c23ff615af92d2e65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4VQMJWMW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/schooljam.png)
 
 ## 使用 jQuery 更改执行上下文
 
@@ -198,7 +198,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 为了找出原因，让我们回到执行上下文。我们引用了一个名为 *#annualBattle* 的 DOM 元素，所以让我们看看它在*窗口*对象中的位置。
 
-[![DomObjectContext](../Images/0986d26b7e1ce81332b561e68e52b75d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bLXsCTF---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/domobjectcontext.png)
+[![DomObjectContext](img/0986d26b7e1ce81332b561e68e52b75d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bLXsCTF---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/domobjectcontext.png)
 
 由于 *#annualBattle* 是 DOM 中的一个元素，所以它是*窗口*对象中*文档*对象的一部分。它没有任何名为 *artist* 的属性。所以如果你运行代码，你会得到:
 
@@ -258,7 +258,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 嗯，这将遇到与上一个例子类似的问题。当我们创建 *practice* 变量时，我们现在将 playGig 方法的一个实例存储在**全局上下文**中！它不再处于战斗对象的上下文中。
 
-[![practiceGlobalDiagram](../Images/7a654c8ce7bd7f07cb1eded79d445f46.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bdKBV4gD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/practiceglobaldiagram.png)
+[![practiceGlobalDiagram](img/7a654c8ce7bd7f07cb1eded79d445f46.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bdKBV4gD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/practiceglobaldiagram.png)
 
 如果我们运行上面的代码，我们会得到:
 
@@ -313,7 +313,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 但是，当我们到达 console.log 语句中的 *this.artist* 时，我们将得到…“比利·周”。这是因为匿名函数在 forEach()方法中用作回调函数。它将范围重置为全局范围。
 
-[![anoncontext2](../Images/e7fb557e35f7d72437b07cdd013f9ba6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VtDu82h2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/anoncontext2.png)
+[![anoncontext2](img/e7fb557e35f7d72437b07cdd013f9ba6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VtDu82h2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/anoncontext2.png)
 
 在这种情况下，这意味着我们将声称在最后扮演比利·周…哦！
 

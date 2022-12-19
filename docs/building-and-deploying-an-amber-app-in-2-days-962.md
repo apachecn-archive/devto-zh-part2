@@ -8,7 +8,7 @@
 
 这个应用程序现在非常简单明了。它只有一个屏幕，没有用户帐户。你只需进入这个网站，粘贴你的 JSON，然后接收一个托管它的 URL。
 
-[![JSON Keeper - A simple JSON hosting store for your web and mobile apps](../Images/a01f587dfad4509f19c3f5fc32c46017.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hOTE-epG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s9pmqhnr6dtbvp3xy690.png)
+[![JSON Keeper - A simple JSON hosting store for your web and mobile apps](img/a01f587dfad4509f19c3f5fc32c46017.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hOTE-epG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s9pmqhnr6dtbvp3xy690.png)
 
 构建应用程序与 Rails 体验非常相似。Amber 拥有良好的旧 MVC 结构，并定期在几微秒内发出响应。
 

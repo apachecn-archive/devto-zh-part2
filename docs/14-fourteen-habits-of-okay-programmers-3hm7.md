@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/vivainio/14-fourteen-habits-of-okay-programmers-3hm7>
 
-<figure>[![](../Images/35fa31803a64f407052f6d9ed3231231.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--00krSjTk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2A4XemvUaTPkKwQ48PfaJAng.jpeg) 
+<figure>[![](img/35fa31803a64f407052f6d9ed3231231.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--00krSjTk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2A4XemvUaTPkKwQ48PfaJAng.jpeg) 
 
 <figcaption>精熟是研</figcaption>
 

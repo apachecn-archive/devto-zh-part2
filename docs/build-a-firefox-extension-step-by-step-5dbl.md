@@ -7,7 +7,7 @@
 
 下面是它的样子(扩展文件可在本文末尾找到):
 
-[![](../Images/42c7e3cf0aacd3381c7555d2a36ec122.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QuAozyLZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wy5hu5jmgrjt9bt5tfk7.gif)
+[![](img/42c7e3cf0aacd3381c7555d2a36ec122.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QuAozyLZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wy5hu5jmgrjt9bt5tfk7.gif)
 
 该扩展要求您已经在浏览器中连接到 Pocket 帐户(因此我们不必处理 API 认证)。
 
@@ -28,7 +28,7 @@
 
 我们的项目中有两个脚本:一个处理后台工作(发送 Ajax 请求),另一个(内容脚本)注册“阅读列表”Dev.to 按钮上的点击事件:
 
-[![](../Images/0ae8d424592d3f727e80438d067d55e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W6qMK2UW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rhgi2mdhfvntunhj37mp.png)
+[![](img/0ae8d424592d3f727e80438d067d55e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W6qMK2UW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rhgi2mdhfvntunhj37mp.png)
 
 ### 内容脚本
 
@@ -148,7 +148,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 至少提供一个 48x48 的图标，如果你提供更多的尺寸，Firefox 会根据你的屏幕分辨率尝试使用最好的图标尺寸。我们将使用这个图标:
 
-icons/devtopket-48 . png[![](../Images/6565513c5f5b9b5ed28f1d004d543162.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kqzqVp3N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8hwqcocltuyxoki8nd5x.png)
+icons/devtopket-48 . png[![](img/6565513c5f5b9b5ed28f1d004d543162.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kqzqVp3N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8hwqcocltuyxoki8nd5x.png)
 
 然后我们定义我们的权限:
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/vaibhavshah/top-7-mistakes-committed-by-nodejs-developers-that-you-should-avoid--3cj0>
 
-[![mistakes that node.js developers should avoid](../Images/8b45f37706051c364bfb554c344e82f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vf3aRDIi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k4w68germo8aneywa301.jpg)
+[![mistakes that node.js developers should avoid](img/8b45f37706051c364bfb554c344e82f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vf3aRDIi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k4w68germo8aneywa301.jpg)
 
 谈到高性能 web 服务器，三个最重要的特征是——可伸缩性、延迟和吞吐量。在纵向扩展或横向扩展的同时保持低延迟和高吞吐量绝对不是一件容易的事情。但是，对于 Node.js 来说，这是一个关键优势——低延迟和高吞吐量。
 
@@ -18,7 +18,7 @@ Node.js 采用完全不同的方法在客户机和 web 服务器之间建立双�
 
 下图显示了与其他 web 服务器相比，Node.js 在流量和受欢迎程度方面的市场地位。
 
-[![node.js market stats](../Images/9ea151fd70cb281ff6d43292fec66f9c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KmVPD3Kp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b3qr2n3e3ouxfjtbfpfz.jpg)
+[![node.js market stats](img/9ea151fd70cb281ff6d43292fec66f9c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KmVPD3Kp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b3qr2n3e3ouxfjtbfpfz.jpg)
 
 尽管 Node.js 有各种各样的优点，但是需要正确地实现它以获得最大的好处。开发人员需要知道如何充分利用他们的 Node.js 项目。为此，他们需要首先理解 Node.js 的主要缺陷。
 

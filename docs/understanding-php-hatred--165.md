@@ -4,7 +4,7 @@
 
 ### 了解 PHP 仇恨
 
-<figure>[![](../Images/9d95e36d34c9a002196022287383bfb9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2u-XC2My--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AbrjYnVlXwM3j_SWXImT0Rg.png) 
+<figure>[![](img/9d95e36d34c9a002196022287383bfb9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2u-XC2My--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AbrjYnVlXwM3j_SWXImT0Rg.png) 
 
 <figcaption>图为:PHP 开发者在他们自然状态下的沉默蔑视</figcaption>
 
@@ -40,13 +40,13 @@
 
 所以你写代码，然后运行它，然后…
 
-[![](../Images/684b2787ed83f94d5521f8d0ead1f6c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EsX2kb0o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/858/0%2AiKeBG9ial1LFcExP.)
+[![](img/684b2787ed83f94d5521f8d0ead1f6c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EsX2kb0o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/858/0%2AiKeBG9ial1LFcExP.)
 
 什么？你说。经过大量的调试，考虑到您的方法可能有问题，您最终求助于 PHP 文档。
 
 在那里你会发现…
 
-<figure>[![](../Images/0e953aa8a7c13f2cb9c6283e0d373fc3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UGBI4K5u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWdQmqjGHTWJD8Avo29rMjw.png) 
+<figure>[![](img/0e953aa8a7c13f2cb9c6283e0d373fc3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UGBI4K5u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWdQmqjGHTWJD8Avo29rMjw.png) 
 
 <figcaption>文档为数组 _ 地图([【https://secure.php.net/manual/en/function.array-map.php】](https://secure.php.net/manual/en/function.array-map.php))</figcaption>
 
@@ -68,7 +68,7 @@
 
 然而，毫无疑问，烦恼的三重来源于在字符串中查找字符串。这再简单不过了。每种语言都有这样的方法，它们都是一样的。接受一个针(您要查找的字符串)和一个干草堆(您要在其中查找它的字符串)，然后该方法返回找到该针的干草堆索引，如果没有找到，则返回-1。Javascript、C 和大多数其他语言都是如此。然而，作为语言潮人的 PHP 认为这还不够好，并决定打破现状，如果针没有找到，就返回 false。这听起来并不坏(虽然与现有的其他语言不一致)，但如果你在 PHP 中粗略地比较 false，它就变成了 0。这是以下代码的问题
 
-[![](../Images/1b0e9f5ac34f05f446d01e93e1e2964b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--roHhIh3t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AAtvD1m_29mSkdMJw_2IQhw.png)
+[![](img/1b0e9f5ac34f05f446d01e93e1e2964b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--roHhIh3t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AAtvD1m_29mSkdMJw_2IQhw.png)
 
 不幸的是，因为开发人员期望从 [strpos](https://secure.php.net/manual/en/function.strpos.php) 方法得到除-1 之外的任何响应，所以即使针显然不在干草堆中，该代码也将返回 true。我发现这是 PHP 中最明显的疏忽之一，因为在编写依赖于此的程序时很容易出错，而且与其他语言不一致。
 
@@ -86,7 +86,7 @@
 
 对于外行人来说，[pamayim nekudatayim](https://en.wiktionary.org/wiki/%D7%A4%D7%A2%D7%9E%D7%99%D7%99%D7%9D_%D7%A0%D7%A7%D7%95%D7%93%D7%AA%D7%99%D7%99%D7%9D#Hebrew)是希伯来语“两次冒号”的罗马化版本，指的是[范围解析操作符](https://en.wikipedia.org/wiki/Scope_resolution_operator#PHP)(::)。你可以用它来调用这样的静态方法
 
-[![](../Images/6be34f11d1e9868c77629f225f206b31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SQf9Qkvt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ap1H01HBwqUr8OhBQf-556w.png)
+[![](img/6be34f11d1e9868c77629f225f206b31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SQf9Qkvt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ap1H01HBwqUr8OhBQf-556w.png)
 
 这最初是由 PHP 3 中以色列建造的 Zend Engine 引入的。这对于说希伯来语的人来说没问题，但是英语被广泛认为是编程和互联网的通用语言。同样，这一切都与易用性有关。在发现其含义后，在某种程度上，我有点喜欢它作为 PHP 的一个有趣的怪癖，有一个有趣的背景故事，但它对新的 PHP 开发人员(或开发人员句号)来说非常困惑。
 
@@ -94,9 +94,9 @@
 
 PHP 错误消息的主要问题是细节和特殊性。在某些时候，因为你不是一个机器人(或者也许你是，如果是这样，请在继续之前填写这个验证码)，你会错过输入一些东西，可能会缺少一个括号或引号。也许你的代码看起来像这样。
 
-[![](../Images/02e5343c9ff6c62fb489c378f69d8d0d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s9c02o9y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AAODwsrc4MDA1ZfPh4les3w.png)
+[![](img/02e5343c9ff6c62fb489c378f69d8d0d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s9c02o9y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AAODwsrc4MDA1ZfPh4les3w.png)
 
-<figure>[![](../Images/bfc97d500e581b32477ccce215d84eab.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Wj0rbIxg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/750/1%2AzQTkfZ1biXDZ8r_rflvaaw.png) 
+<figure>[![](img/bfc97d500e581b32477ccce215d84eab.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Wj0rbIxg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/750/1%2AzQTkfZ1biXDZ8r_rflvaaw.png) 
 
 <figcaption>以上代码的结果</figcaption>
 
@@ -114,7 +114,7 @@ PHP 错误消息的主要问题是细节和特殊性。在某些时候，因为�
 
 有益的是，PHP 手册澄清了这些差异
 
-[![](../Images/4ad3b0c1e49dc8c58c70bb768a33d9ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wp9ARf7w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/740/1%2AEBTgMqTKHbUjL5mIEQQyDg.png)
+[![](img/4ad3b0c1e49dc8c58c70bb768a33d9ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wp9ARf7w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/740/1%2AEBTgMqTKHbUjL5mIEQQyDg.png)
 
 是啊…也许不是。从这一点来看，重要的是不要用一个或另一个决策背后的遗留推理故事来污染您的代码库文档(正如这里所做的)。另一方面，质疑一开始是否应该有那些故事。
 

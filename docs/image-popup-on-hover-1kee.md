@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/sarah_chima/image-popup-on-hover-1kee>
 
-[![Image Popup on hover](../Images/be62090d27ac7a71c87974362c8eb076.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5RAzXUmw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/dvj2hbywq/image/upload/q_49/v1539359213/ezgif.com-optimize_1_dtpz0u.gif)
+[![Image Popup on hover](img/be62090d27ac7a71c87974362c8eb076.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5RAzXUmw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/dvj2hbywq/image/upload/q_49/v1539359213/ezgif.com-optimize_1_dtpz0u.gif)
 
 最近，我的任务是在鼠标悬停时制作一个图像弹出窗口。上面这张 gif 描述了我的意思。我不知道如何去做，但在谷歌搜索了几分钟后，我发现了一种技术，它很容易实现，而且不使用 JavaScript。这种技术是将两个图像并排放置，一个是缩略图(较小的图像),另一个是当您将鼠标悬停在缩略图上时会出现的较大图像。我们开始吧
 
@@ -55,7 +55,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，这是我们的页面应该看起来。
 
-[![Image of work so far](../Images/abb16157931c89108059c489dd0290b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dwMUqKw4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/dvj2hbywq/image/upload/v1538149115/Screen_Shot_2018-09-28_at_4.34.00_PM_xvpmna.png)
+[![Image of work so far](img/abb16157931c89108059c489dd0290b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dwMUqKw4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/dvj2hbywq/image/upload/v1538149115/Screen_Shot_2018-09-28_at_4.34.00_PM_xvpmna.png)
 
 ### 第二步
 
@@ -72,7 +72,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，只剩下较小的图像。
 
-[![Image of work so far](../Images/3cb9ee21e279b4a4ae52f91fed551858.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5uLsemTm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/dvj2hbywq/image/upload/v1539359591/Screen-Shot-2018-10-12-at-4.48.17-PM-compressor_njes69.png) 
+[![Image of work so far](img/3cb9ee21e279b4a4ae52f91fed551858.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5uLsemTm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/dvj2hbywq/image/upload/v1539359591/Screen-Shot-2018-10-12-at-4.48.17-PM-compressor_njes69.png) 
 让我们添加一些样式，让大图在你悬停在小图上方时弹出。
 
 ```

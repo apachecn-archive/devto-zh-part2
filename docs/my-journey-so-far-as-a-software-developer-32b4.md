@@ -22,7 +22,7 @@ Andela Learning community 汇集了非洲各地的所有学习者，与每一个
 
 向包括 jakearchibald 在内的一些最优秀的开发人员学习是一段有趣的旅程。在 3 个月的挑战课程中获得的知识是不可估量的。你曾经想象过拥有离线的第一个网络应用吗？向这个说再见:
 
-[![](../Images/0e8d46449dbb07462c9bd8508719293b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MmIhI9Ct--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/JGRhuL0.jpg)
+[![](img/0e8d46449dbb07462c9bd8508719293b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MmIhI9Ct--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/JGRhuL0.jpg)
 
 如果你像我一样喜欢这个游戏，好的一面是你仍然可以在你想玩的时候玩。多亏了 web Technologies [服务工作者](https://achiengcindy.com/2018/05/11/understanding-the-service-worker-lifecycle/)，Catch API，Indexed db 和 fetch API。
 

@@ -4,7 +4,7 @@
 
 我们已经发布了一些围棋游戏，比如[赎罪之钟](http://blockbros.net/tsugunai/)和[快乐蓝鸟](http://blockbros.net/bluebird/)。不幸的是，由于一些商业原因，我们还没有将它们开源。然而，我们现在正在逐步将代码拆分成一些游戏的公共包，以便围棋游戏开发者可以利用它们，围棋游戏开发将会变得更加流行。在这篇文章中，我想列出我们为游戏开发和使用的公共围棋包！
 
-[![](../Images/e20ce2d7a39dd26eca08ac8d8709d4a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--prx9EpMD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ux6sxr77fg5vzv1mjzbg.png)
+[![](img/e20ce2d7a39dd26eca08ac8d8709d4a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--prx9EpMD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ux6sxr77fg5vzv1mjzbg.png)
 
 # [`github.com/hajimehoshi/ebiten`T4】](https://github.com/hajimehoshi/ebiten)
 

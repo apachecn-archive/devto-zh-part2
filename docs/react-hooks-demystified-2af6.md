@@ -48,7 +48,7 @@ JavaScript 专业人士会发现这里的罪魁祸首:全局变量！
 
 如果你读了丹的文章，你可能会发现这条推文:
 
-> ![unknown tweet media content](../Images/e1591180b86b7ea0efe4a91eb28b584b.png)![BOOlean 👻🐶🏳️‍🌈 profile image](../Images/5f34ee3e55c667f3ddb9c58276c592cf.png)布尔👻🐶🏳️‍🌈[@ Jamie builds](https://dev.to/jamiebuilds)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)[@ Erik ras](https://twitter.com/erikras)[@ sophiebits](https://twitter.com/sophiebits)[@ Dan _ abra mov](https://twitter.com/dan_abramov)错误#1:假设某事是神奇的，因为你还不知道它是如何运作的
+> ![unknown tweet media content](img/e1591180b86b7ea0efe4a91eb28b584b.png)![BOOlean 👻🐶🏳️‍🌈 profile image](img/5f34ee3e55c667f3ddb9c58276c592cf.png)布尔👻🐶🏳️‍🌈[@ Jamie builds](https://dev.to/jamiebuilds)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)[@ Erik ras](https://twitter.com/erikras)[@ sophiebits](https://twitter.com/sophiebits)[@ Dan _ abra mov](https://twitter.com/dan_abramov)错误#1:假设某事是神奇的，因为你还不知道它是如何运作的
 > 
 > 这是基本的想法19:15PM-2018 年 10 月 25 日
 
@@ -196,7 +196,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在过去的几个月里，我不像以前那样经常写博客了。那是因为我写了一本关于学习 React 基础知识的书:
 
-[![React From Zero Book Banner](../Images/8b4e3e430e394add356c4e6a008ca8a2.png)T2】](https://www.fullstackreact.com/react-from-zero/)
+[![React From Zero Book Banner](img/8b4e3e430e394add356c4e6a008ca8a2.png)T2】](https://www.fullstackreact.com/react-from-zero/)
 
 如果你喜欢通过拆开 React 来了解它是如何工作的，那么你可能会喜欢我的书 *React From Zero* 。在书中，我通过研究组件如何工作、元素如何呈现以及如何创建自己的虚拟 DOM 来剖析 React 是如何工作的。
 

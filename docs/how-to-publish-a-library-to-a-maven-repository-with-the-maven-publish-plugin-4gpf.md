@@ -154,7 +154,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 显然，还需要配置 Bintray 凭证，这可以通过项目配置页面来完成:
 
-[![TravisCI environment configuration](../Images/91023481fde9135eef5d20daa1259f1a.png)T2】](/images/publish-library/travis-configure.png)
+[![TravisCI environment configuration](img/91023481fde9135eef5d20daa1259f1a.png)T2】img/publish-library/travis-configure.png)
 
 现在，Gradle git 插件将创建一个开发版本，并在每次 Travis 构建时将其发布到 Bintray。
 

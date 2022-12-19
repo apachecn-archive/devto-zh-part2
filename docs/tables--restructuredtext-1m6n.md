@@ -26,7 +26,7 @@ Riv 是一个很棒的插件，有很多快捷方式让你处理 RST 文件时�
 
 *   `control + enter`:创建新的常规行
 
-[![Tables with Riv](../Images/57b7af867344efdefc30357b413979bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LLCT-9yJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://www.albertotorin.it/blog-files/rst-tables-with-riv-opt.gif)
+[![Tables with Riv](img/57b7af867344efdefc30357b413979bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LLCT-9yJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://www.albertotorin.it/blog-files/rst-tables-with-riv-opt.gif)
 
 如果你尝试 Riv，不要忘记安装 [InstantRst](https://github.com/gu-fan/InstantRst) 。这将在您编辑文档时在浏览器中启用实时预览。
 

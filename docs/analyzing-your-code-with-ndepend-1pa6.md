@@ -14,15 +14,15 @@
 
 仪表板已经为您的整个代码库提供了一个很好的概述。
 
-[![](../Images/c8145bce9123dd9d52b368d19474bfeb.png)T2】](http://programmergoals.com/wp-content/uploads/2018/03/01_ndepend_dashboard_ssl.jpg)
+[![](img/c8145bce9123dd9d52b368d19474bfeb.png)T2】](http://programmergoals.com/wp-content/uploads/2018/03/01_ndepend_dashboard_ssl.jpg)
 
 150 行代码(就像我说的，一个相当小的解决方案…)，完美的 A 评级，但那是什么？严重违反规则？那是什么意思？
 
 一个点击就已经告诉我一切。这是 NDepend 非常重要的一部分:文档。每件事都有详细的解释，也有更深入的链接。
 
-[![](../Images/44574d2f3de20a205858d592869f6eb1.png)T2】](http://programmergoals.com/wp-content/uploads/2018/03/02_ndepend_critical01.jpg)
+[![](img/44574d2f3de20a205858d592869f6eb1.png)T2】](http://programmergoals.com/wp-content/uploads/2018/03/02_ndepend_critical01.jpg)
 
-[![](../Images/1f9a56a86f90fb7ef308624d6ac98b19.png)T2】](http://programmergoals.com/wp-content/uploads/2018/03/03_ndepend_critical02.jpg)
+[![](img/1f9a56a86f90fb7ef308624d6ac98b19.png)T2】](http://programmergoals.com/wp-content/uploads/2018/03/03_ndepend_critical02.jpg)
 
 我可以看到这个问题的债务，每年的利息，打破点，也详细描述了这种违反和如何修复它。这是一个很好的机会来学习这些东西，并提高我的手艺。
 
@@ -30,11 +30,11 @@
 
 现在让我们来看看更大的项目。我可以在 Visual Studio 中打开解决方案并使用 NDepend 扩展进行分析，或者打开 NDepend 本身并让它在那里分析解决方案。无论哪种方式，我看到这个项目有更多的代码行，当然也有更多的问题。
 
-[![](../Images/73415227a520e539445e2f9492bd067a.png)T2】](http://programmergoals.com/wp-content/uploads/2018/03/04_ndpend_dashboard_forscience2.jpg)
+[![](img/73415227a520e539445e2f9492bd067a.png)T2】](http://programmergoals.com/wp-content/uploads/2018/03/04_ndpend_dashboard_forscience2.jpg)
 
 有趣的是，许多问题实际上来自我在 Unity 资产商店中获得的资产。您可以在代码度量视图中很容易地看到这一点。看看这只野兽。
 
-[![](../Images/fd9cc00b7a920e680dc6c32e659c8f10.png)T2】](http://programmergoals.com/wp-content/uploads/2018/03/05_ndepend_code_metrics_view.jpg)
+[![](img/fd9cc00b7a920e680dc6c32e659c8f10.png)T2】](http://programmergoals.com/wp-content/uploads/2018/03/05_ndepend_code_metrics_view.jpg)
 
 百米..也许他们也应该分析他们的代码。
 

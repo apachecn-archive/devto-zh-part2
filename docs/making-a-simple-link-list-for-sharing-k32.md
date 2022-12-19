@@ -20,7 +20,7 @@
 
 最终结果在手机上看起来像这样。
 
-[![Preview of Jekyll and EJS links from this tut](../Images/09b72e78cbe679d9651448ddea4bc324.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pvPC9qyf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ouxzucz9zmv2ox9vjayf.png)
+[![Preview of Jekyll and EJS links from this tut](img/09b72e78cbe679d9651448ddea4bc324.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pvPC9qyf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ouxzucz9zmv2ox9vjayf.png)
 
 ### 杰基尔降价促销
 
@@ -135,7 +135,7 @@ Enter fullscreen mode Exit fullscreen mode
 <div class="tall">
     <div class="px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
         <a class="navbar-brand brand-logo" href="/">
-        <img src="/images/gifts-done-name.png" alt="gifts-done logo"/></a>
+        <img srcimg/gifts-done-name.png" alt="gifts-done logo"/></a>
         <p class="lead">Automate your Gifting!</p>
         <div class="container list-group py-3">
             <a href="/" class="list-group-item list-group-item-action">Learn More</a>

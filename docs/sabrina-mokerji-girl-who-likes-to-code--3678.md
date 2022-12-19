@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/sabrinamokerji/sabrina-mokerji-girl-who-likes-to-code--3678>
 
-[![image](../Images/8e74b6cc8313589c8fb6a82d60cc6392.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AGnx4sg5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/95344ki4zkd4hb1f071i.jpeg)
+[![image](img/8e74b6cc8313589c8fb6a82d60cc6392.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AGnx4sg5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/95344ki4zkd4hb1f071i.jpeg)
 
 ## 你是干什么的？
 

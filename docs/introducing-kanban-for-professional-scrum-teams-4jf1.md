@@ -8,7 +8,7 @@
 
 现在你不仅可以从创建和维护 Scrum 的人那里学习 Scrum，还可以从开发它的人那里学习看板。这个新的课程展示了如何在不改变 Scrum 的情况下，采用看板的核心实践，并在专业 Scrum 的环境中实现它们。我已经发表了关于你如何能够跨越 Sprint 界限的文章，这是我参加这个课程的直接收获。
 
-[![](../Images/3b29c7ca67263c2544450dd0550559f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UvchiKjX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nkdagility.com/wp-content/uploads/2018/02/nkdagility-scrum-and-kanban-1900-800x400.png)
+[![](img/3b29c7ca67263c2544450dd0550559f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UvchiKjX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nkdagility.com/wp-content/uploads/2018/02/nkdagility-scrum-and-kanban-1900-800x400.png)
 
 这是一个为期两天的课程，还有一项评估，将为您赢得 PSK 认证。我将和精益敏捷苏格兰的创始人[克里斯·麦克德莫特](https://www.linkedin.com/in/chrisvmcd/)一起教授这门课，给班上带来一些急需的看板团队经验。虽然我对 Scrum 团队有丰富的经验，但我只和少数看板团队合作过。
 

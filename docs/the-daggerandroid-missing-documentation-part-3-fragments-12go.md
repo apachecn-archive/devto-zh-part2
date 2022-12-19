@@ -178,7 +178,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我的意思是，它肯定*似乎*工作。我得到了预期的视图模型，应用程序没有崩溃....
 
-[![Confused](../Images/91c080d23e7397d955f758e0d3c27b58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XTYpwWp2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/62mfaQJ.png)
+[![Confused](img/91c080d23e7397d955f758e0d3c27b58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XTYpwWp2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/62mfaQJ.png)
 
 提示:还记得我之前说过的框架调用片段的默认构造函数吗？有一次是在**返回导航**期间。如果稍后我们导航*回到*这个片段，我们的应用*将*崩溃。这是因为 Android 框架实际上在完成我们活动的`onCreate`之前实例化并附加了片段*！上面的代码第一次工作是因为视图模型已经被创建了，并且是活动的关键——这意味着我们只是从一个`Map<Activity, ViewModel>`获得一个现有的视图模型。然而，在向后导航期间，当片段被创建*第一个*时，那个`map.get(activity)`调用返回`null`，我们就倒霉了。因此，当我们*确实*需要创建一个新的视图模型时，我们需要视图模型工厂用于向后导航的情况。*
 
@@ -238,7 +238,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这确实是一点“语法糖”(在匕首的意义上，所以它让你流血)，它取代了类似于后面的[:](https://google.github.io/dagger/android)
 
-[![ContributesAndroidInjector](../Images/5885ca45e91fdcee7e0760d9a69ceb00.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z10wg1cW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/8oY9hU3.png)
+[![ContributesAndroidInjector](img/5885ca45e91fdcee7e0760d9a69ceb00.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z10wg1cW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/8oY9hU3.png)
 
 您可以看到为什么注释更可取。但是*点*是你正在做的是定义一个`Subcomponent.Builder`，而不是`Subcomponent`本身！归结到它的本质，你正在创造一个`Map<HasSupportFragmentInjector, Subcomponent.Builder>`。因此，每当您调用`Android[Support]Injection.inject(this)`时，`Android[Support]Injection`类从映射中获取子组件**构建器**，创建一个新的**子组件，然后使用该子组件注入您的对象。这就是为什么每次你注射你保留的碎片时`thing`都是新的。dagger 框架没有保留对子组件*的引用，即使您对它进行了限定*，所以它没有地方存储这些引用。**
 

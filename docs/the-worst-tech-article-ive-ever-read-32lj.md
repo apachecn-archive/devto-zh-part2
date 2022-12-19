@@ -5,7 +5,7 @@
 这是一个黑暗的周一早晨，Mashable 确保通过他们的广告接触到的人会更加黑暗。
 
 我的一个朋友从脸书发给我一张截图，上面写着“Java 仍然是你需要学习的编程语言的 4 个理由”
-[![The screenshot I got](../Images/f7ea6265584387929a271f385ea17aff.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--G4rFAbph--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yb0ohiefta1pupgjm5a2.jpeg)
+[![The screenshot I got](img/f7ea6265584387929a271f385ea17aff.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--G4rFAbph--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yb0ohiefta1pupgjm5a2.jpeg)
 
 这个到目前为止没什么问题。不要误解我，我不是一个讨厌 Java 的人，我不想指出关于 Java 的谬误，但是当你浏览这篇文章时，标题变成了【Javascript 仍然是你需要学习的编程语言的 4 个理由”这个事实已经提高了我对它的紧张程度。
 

@@ -4,7 +4,7 @@
 
 我的家庭服务器设置由几个 Raspberry Pi 组成，我在其中托管不同的 web 应用程序(这个博客、一个 RSS 阅读器、一些家庭 IOT 应用程序……)。我决定设置一个前端网关，将请求代理到正确的服务器:
 
-[![Infrastructure](../Images/cdcb6e78aa4a6fc779ea4426fe97dd07.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e5RXtRIx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://remyg.ovh/assets/img/reverse-proxy.png)
+[![Infrastructure](img/cdcb6e78aa4a6fc779ea4426fe97dd07.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e5RXtRIx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://remyg.ovh/assets/img/reverse-proxy.png)
 
 这些请求由 NGINX 反向代理代理，运行在网关上的 Docker 容器中。它根据主机重定向 HTTP 请求(例如，`remyg.ovh`在`rpi1`上运行，而`rss.remyg.ovh`在 rpi2 上运行)。
 

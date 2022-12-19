@@ -103,4 +103,4 @@ Enter fullscreen mode Exit fullscreen mode
 `bu 2`向上移动两个文件夹，这相当于运行`cd ..\..\`
 你可以在这里看到`bu`的动作(外部链接):
 
-[![asciicast](../Images/3cd6734bbd5fd536d1234c428930941b.png)T2】](https://asciinema.org/a/Serx0ac08heiRW4QI61FW2QKv)
+[![asciicast](img/3cd6734bbd5fd536d1234c428930941b.png)T2】](https://asciinema.org/a/Serx0ac08heiRW4QI61FW2QKv)

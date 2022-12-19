@@ -58,6 +58,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 要是他们以前告诉过我就好了...
 
-<center>![img](../Images/15d1a2fcbddec29eeacbcb9b602a7db3.png)</center>
+<center>![img](img/15d1a2fcbddec29eeacbcb9b602a7db3.png)</center>
 
 附注:这些工具还可以...如果可以用数组代替对象的话。有时你不得不使用物体...因为性能或长期维护。

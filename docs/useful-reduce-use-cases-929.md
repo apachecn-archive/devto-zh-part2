@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jperasmus/useful-reduce-use-cases-929>
 
-[![](../Images/59a9b937aad6c840293834a259ccb6ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ci-rSxc_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aji3NuzK3DyQUmg-NUBUtOQ.jpeg)
+[![](img/59a9b937aad6c840293834a259ccb6ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ci-rSxc_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aji3NuzK3DyQUmg-NUBUtOQ.jpeg)
 
 我最近看到一个开发人员的推文，他说他理解 array reduce 函数，但是想不出很多有用的用例。在这篇文章中，我将给出几个 reduce 的真实用例。
 

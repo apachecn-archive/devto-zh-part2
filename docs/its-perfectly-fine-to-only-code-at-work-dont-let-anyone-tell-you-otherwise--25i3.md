@@ -4,7 +4,7 @@
 
 这是不久前社区里的一个帖子:
 
-[![pungiish](../Images/cef6f30fd14e81252003ae908599615e.png)](/pungiish) [## 只在工作中编码的程序员
+[![pungiish](img/cef6f30fd14e81252003ae908599615e.png)](/pungiish) [## 只在工作中编码的程序员
 
 ### 11 月 13 日 172 分钟读数
 
@@ -14,7 +14,7 @@
 
 我想分享这个精彩的顶级评论:
 
-[![leightondarkins profile image](../Images/e8e066e3840f220887f39a02077e5935.png) ](/leightondarkins) [ Leighton Darkins ](/leightondarkins) • [<time datetime="2017-11-13T14:10:26Z" class="date-short-year"> Nov 13 '17 </time> • Edited on <time datetime="2017-11-13T14:42:42Z" class="hidden m:inline-block date-no-year">Nov 13</time>](https://dev.to/leightondarkins/comment/1aia) 
+[![leightondarkins profile image](img/e8e066e3840f220887f39a02077e5935.png) ](/leightondarkins) [ Leighton Darkins ](/leightondarkins) • [<time datetime="2017-11-13T14:10:26Z" class="date-short-year"> Nov 13 '17 </time> • Edited on <time datetime="2017-11-13T14:42:42Z" class="hidden m:inline-block date-no-year">Nov 13</time>](https://dev.to/leightondarkins/comment/1aia) 
 
 这是一个非常有趣的问题。我想把这个问题应用到其他工作中会有助于重新定义它。
 
@@ -36,7 +36,7 @@
 
 我们人类给彼此施加了很多压力，有很多竞争激烈、不健康的环境给我们带来了很多痛苦。我们每个人都有不同的个人背景，这些背景最终会比 1 和 0 更多地指导我们的生活。
 
-[![kaydacode profile image](../Images/8ea90fd5d4f75191ce1c92a6982bff13.png) ](/kaydacode) [ Kim Arnett  ](/kaydacode) • [<time datetime="2017-11-14T18:12:35Z" class="date-short-year"> Nov 14 '17 </time>](https://dev.to/kaydacode/comment/1b1m) 
+[![kaydacode profile image](img/8ea90fd5d4f75191ce1c92a6982bff13.png) ](/kaydacode) [ Kim Arnett  ](/kaydacode) • [<time datetime="2017-11-14T18:12:35Z" class="date-short-year"> Nov 14 '17 </time>](https://dev.to/kaydacode/comment/1b1m) 
 
 我会小心地假设他们没有激情，因为他们不会在空闲时间写代码。有一段时间，我是一个单身母亲，除非我在工作，否则我没有时间写代码。这并不意味着我在工作的时候没有学习新的东西，或者我对技术不感兴趣。:)
 
@@ -46,11 +46,11 @@
 
 [@_patrickgod](https://dev.to/_patrickgod) 有很多关于保持健康习惯的好帖子，它们都提到了平衡。
 
-[![_patrickgod](../Images/72a2d1a8de0eebe269e710735267971e.png)](/_patrickgod) [## 程序员的 3 个健康习惯
+[![_patrickgod](img/72a2d1a8de0eebe269e710735267971e.png)](/_patrickgod) [## 程序员的 3 个健康习惯
 
 ### 帕特里克上帝 1 月 20 日 184 分钟阅读
 
-#health #life #productivity](/_patrickgod/3-healthy-habits-for-programmers-1dce)[![_patrickgod](../Images/72a2d1a8de0eebe269e710735267971e.png)](/_patrickgod) [## 多睡觉，多编码
+#health #life #productivity](/_patrickgod/3-healthy-habits-for-programmers-1dce)[![_patrickgod](img/72a2d1a8de0eebe269e710735267971e.png)](/_patrickgod) [## 多睡觉，多编码
 
 ### 帕特里克上帝 12 月 19 日 173 分钟阅读
 

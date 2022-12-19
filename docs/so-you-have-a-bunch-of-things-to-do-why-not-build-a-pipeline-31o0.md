@@ -6,7 +6,7 @@
 
 坐下来，喝一杯热饮，让我们直接进入正题。
 
-[![](../Images/30bae69daea509e3f0d4331879959df5.png)T2】](https://i.giphy.com/media/Lp4L5KOAHjCpUidRuq/giphy.gif)
+[![](img/30bae69daea509e3f0d4331879959df5.png)T2】](https://i.giphy.com/media/Lp4L5KOAHjCpUidRuq/giphy.gif)
 
 ## 一个好故事的要素
 
@@ -20,7 +20,7 @@
 
 ## 定义输入
 
-[![](../Images/3112b31eb460fecbfa628281ed2cea58.png)T2】](https://i.giphy.com/media/3ornjKd18tFIZ8PUKQ/giphy.gif)
+[![](img/3112b31eb460fecbfa628281ed2cea58.png)T2】](https://i.giphy.com/media/3ornjKd18tFIZ8PUKQ/giphy.gif)
 
 让我们穿上我们的角色扮演服装。您在这个故事中的角色将是一个分析师，其任务是提交关于选定子数据集的报告。您将获得一个子编辑列表，以便根据页面生成几种类型的报告。
 
@@ -40,7 +40,7 @@
 
 ## 定义步骤
 
-[![](../Images/ff4c4de1278c9e66e566955adcfa9be9.png)T2】](https://i.giphy.com/media/xThta8UkUaoqJoJQC4/giphy.gif)
+[![](img/ff4c4de1278c9e66e566955adcfa9be9.png)T2】](https://i.giphy.com/media/xThta8UkUaoqJoJQC4/giphy.gif)
 
 所以首先，我们需要把问题分解成明确的步骤。粒度越细，就越容易理解、调试和重用。游戏规则是**做一件事，并且做好**。
 
@@ -155,7 +155,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 连接步骤
 
-[![](../Images/61f1c869ad179dd30970b893432c1667.png)T2】](https://i.giphy.com/media/gZqDdFC62X6KY/giphy.gif)
+[![](img/61f1c869ad179dd30970b893432c1667.png)T2】](https://i.giphy.com/media/gZqDdFC62X6KY/giphy.gif)
 
 现在我们已经有了适当的步骤，让我们以经典的命令式风格写出代码，这样我们就能更好地理解这个过程是什么样子的。
 
@@ -167,7 +167,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果我们能把这些步骤连接起来，然后把结果传递下去，会怎么样呢？他眼睛闪闪发光地问道。
 
-[![](../Images/dc2e6fc46d40a940be2efa9e6366a353.png)T2】](https://i.giphy.com/media/13vPE0A3DPqOcg/giphy.gif)
+[![](img/dc2e6fc46d40a940be2efa9e6366a353.png)T2】](https://i.giphy.com/media/13vPE0A3DPqOcg/giphy.gif)
 
 ## 输入管道
 
@@ -253,7 +253,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 `const fetch = require('node-fetch'); const _wordCount = require('@iarna/word-count'); const getRedditJSONUrl = url => url.replace(/\/?$/, '.json'); const fetchData = url => fetch(url).then(response => response.json()); const extractPosts = redditPage => redditPage.data.children; const extractPostTextAndTitle = post => post.data.title + '\n' + post.data.selftext; const countWords = text => _wordCount(text); const numberValueSorter = (a, b) => a - b; const calculateMedian = list => { if (list.length == 0) return undefined; const sorted = Array.from(list).sort(numberValueSorter); if (sorted.length % 2 == 0) { const a = sorted.length / 2 - 1; const b = a + 1; return (list[a] + list[b]) / 2; } else { const i = Math.floor(sorted.length / 2); return list[i]; } }` `const map = mapper => array => array.map(mapper); const pipeline = (...steps) => { return async input => { let result = input; for (const step of steps) result = await step(result); return result; }; }; const getMedianWordCount = pipeline( getRedditJSONUrl, fetchData, extractPosts, map(extractPostTextAndTitle), map(countWords), calculateMedian ); const URL = 'https://www.reddit.com/r/dataisbeautiful/'; getMedianWordCount(URL) .then(median => console.log('Median word count', median));`
 
-[![](../Images/814c8ad212026953149acc5873abe5fb.png)T2】](https://i.giphy.com/media/vA4EnqvJxDv2g/giphy.gif)
+[![](img/814c8ad212026953149acc5873abe5fb.png)T2】](https://i.giphy.com/media/vA4EnqvJxDv2g/giphy.gif)
 
 ## 精简流水线
 
@@ -297,7 +297,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 而且还能用！
 
-[![](../Images/feda77c6a0fda1b37152427ce4709993.png)T2】](https://i.giphy.com/media/1xpTgPBebfe8lhj4yE/giphy.gif)
+[![](img/feda77c6a0fda1b37152427ce4709993.png)T2】](https://i.giphy.com/media/1xpTgPBebfe8lhj4yE/giphy.gif)
 
 ## 分叉管道
 
@@ -437,7 +437,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 `const fetch = require('node-fetch'); const _wordCount = require('@iarna/word-count'); const getRedditJSONUrl = url => url.replace(/\/?$/, '.json'); const fetchData = url => fetch(url).then(response => response.json()); const extractPosts = redditPage => redditPage.data.children; const extractPostTextAndTitle = post => post.data.title + '\n' + post.data.selftext; const countWords = text => _wordCount(text); const numberValueSorter = (a, b) => a - b; const calculateMedian = list => { if (list.length == 0) return undefined; const sorted = Array.from(list).sort(numberValueSorter); if (sorted.length % 2 == 0) { const a = sorted.length / 2 - 1; const b = a + 1; return (list[a] + list[b]) / 2; } else { const i = Math.floor(sorted.length / 2); return list[i]; } } const pipeline = (...steps) => { return async input => { let result = input; for (const step of steps) result = await step(result); return result; }; }; const map = (...mappers) => async array => { const results = []; for (const value of array) { let result = value; for (const mapper of mappers) result = await mapper(result); results.push(result); } return results; }; const countComments = post => post.data.num_comments; const hasImageAttached = post => post.data.post_hint == 'image'; const calculateRatio = array => { if (array.length == 0) return undefined; return array.filter(value => !!value).length / array.length; }; const fork = (...pipelines) => async value => await Promise.all(pipelines.map(pipeline => pipeline(value)));` `const getMedianWordCount = pipeline( map( extractPostTextAndTitle, countWords ), calculateMedian ); const getMedianCommentCount = pipeline( map(countComments), calculateMedian ); const getImagePresentRatio = pipeline( map(hasImageAttached), calculateRatio ); // this is a convenience function that associates names to the results returned const joinResults = ([ medianWordCount, medianCommentCount, imagePresentRatio ]) => ({ medianWordCount, medianCommentCount, imagePresentRatio }); const getSubredditMetrics = pipeline( getRedditJSONUrl, fetchData, extractPosts, fork( getMedianWordCount, getMedianCommentCount, getImagePresentRatio ), joinResults ); const URL = 'https://www.reddit.com/r/dataisbeautiful/'; getSubredditMetrics(URL) .then(results => console.log('Report for ' + URL, results));`
 
-[![](../Images/2cc83056ac5c063058e2fd1770a79fd5.png)T2】](https://i.giphy.com/media/ChzfTLSi47FYc/giphy.gif)
+[![](img/2cc83056ac5c063058e2fd1770a79fd5.png)T2】](https://i.giphy.com/media/ChzfTLSi47FYc/giphy.gif)
 
 ## 最后一个魔术
 
@@ -463,7 +463,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 `const fetch = require('node-fetch'); const _wordCount = require('@iarna/word-count'); const getRedditJSONUrl = url => url.replace(/\/?$/, '.json'); const fetchData = url => fetch(url).then(response => response.json()); const extractPosts = redditPage => redditPage.data.children; const extractPostTextAndTitle = post => post.data.title + '\n' + post.data.selftext; const countWords = text => _wordCount(text); const numberValueSorter = (a, b) => a - b; const calculateMedian = list => { if (list.length == 0) return undefined; const sorted = Array.from(list).sort(numberValueSorter); if (sorted.length % 2 == 0) { const a = sorted.length / 2 - 1; const b = a + 1; return (list[a] + list[b]) / 2; } else { const i = Math.floor(sorted.length / 2); return list[i]; } } const pipeline = (...steps) => { return async input => { let result = input; for (const step of steps) result = await step(result); return result; }; }; const map = (...mappers) => async array => { const results = []; for (const value of array) { let result = value; for (const mapper of mappers) result = await mapper(result); results.push(result); } return results; }; const countComments = post => post.data.num_comments; const hasImageAttached = post => post.data.post_hint == 'image'; const calculateRatio = array => { if (array.length == 0) return undefined; return array.filter(value => !!value).length / array.length; }; const fork = (...pipelines) => async value => await Promise.all(pipelines.map(pipeline => pipeline(value))); const getMedianWordCount = pipeline( map( extractPostTextAndTitle, countWords ), calculateMedian ); const getMedianCommentCount = pipeline( map(countComments), calculateMedian ); const getImagePresentRatio = pipeline( map(hasImageAttached), calculateRatio ); // this is a convenience function that associates names to the results returned const joinResults = ([ medianWordCount, medianCommentCount, imagePresentRatio ]) => ({ medianWordCount, medianCommentCount, imagePresentRatio }); const getSubredditMetrics = pipeline( getRedditJSONUrl, fetchData, extractPosts, fork( getMedianWordCount, getMedianCommentCount, getImagePresentRatio ), joinResults );` `const distribute = pipeline => values => Promise.all(values.map(pipeline)); const URLs = [ 'https://www.reddit.com/r/dataisbeautiful/', 'https://www.reddit.com/r/proceduralgeneration/' ]; const getAllReports = distribute(getSubredditMetrics); getAllReports (URLs) .then(results => { const reports = results.map((report, idx) => ({ url: URLs[idx], report })); console.log(reports); });`
 
-[![](../Images/c5f629beedccdb844b1ac5ef64519e58.png)T2】](https://i.giphy.com/media/RWFpHUbc6s492/giphy.gif)
+[![](img/c5f629beedccdb844b1ac5ef64519e58.png)T2】](https://i.giphy.com/media/RWFpHUbc6s492/giphy.gif)
 
 ## ...从此他们幸福地生活在一起。
 
@@ -511,4 +511,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 你现在可以脱下角色扮演服装了。
 
-[![](../Images/411595fc835a4b9874cbbc428927c3f6.png)T2】](https://i.giphy.com/media/X6SPa7Q4BIc7K/giphy.gif)
+[![](img/411595fc835a4b9874cbbc428927c3f6.png)T2】](https://i.giphy.com/media/X6SPa7Q4BIc7K/giphy.gif)

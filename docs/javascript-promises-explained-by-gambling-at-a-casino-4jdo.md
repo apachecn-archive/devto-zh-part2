@@ -6,7 +6,7 @@
 
 我们都喜欢 JavaScript 的异步功能。事实上，我们太爱他们了，以至于有时我们会过度放纵。然后我们得到的代码看起来像这个“[末日金字塔](https://en.wikipedia.org/wiki/Pyramid_of_doom_%28programming%29)”。
 
-[![](../Images/36ae1cbc384c3822cbf71228deeb9dcd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5omJNNjs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/08/callbackpic.png)
+[![](img/36ae1cbc384c3822cbf71228deeb9dcd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5omJNNjs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/08/callbackpic.png)
 
 [图像信用](https://www.quora.com/Whats-the-difference-between-a-promise-and-a-callback-in-Javascript)
 
@@ -22,7 +22,7 @@
 
 承诺鼓励直截了当的、单一用途的功能，这将允许你编写清晰的代码并理解每一个步骤而不感到头痛。想了一会儿，我意识到承诺就像去赌场一样。当赌场“修改”你银行账户中的钱数时(咳咳，删除)，一连串的承诺以特定的顺序修改数据。
 
-[![](../Images/b082cab4dc3112c71941e9230e27bfd7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5sACbRlc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/08/PromiseCasinoDiagram.jpg)
+[![](img/b082cab4dc3112c71941e9230e27bfd7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5sACbRlc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/08/PromiseCasinoDiagram.jpg)
 
 所以，让我们开始吧。如果你没有回访的经验，看看我对回访原则的解释。如果你在寻找更多关于承诺的技术性解释，可以看看[这个指南](http://www.telerik.com/blogs/what-is-the-point-of-promises)或[这个指南](https://www.promisejs.org/)或[这个视频](https://www.youtube.com/watch?v=obaSQBBWZLk)。
 
@@ -34,7 +34,7 @@
 
 让我们退一步想想这个场景。虽然现金可以用于赌场之外的任何事情，但它在赌场内意味着一件事——在你用完钱之前你剩下的游戏次数。在周末期间，现金数额可能会越来越少。它也可能增长，但你已经向自己承诺，这个周末你的损失不会超过 1000 美元。
 
-[![](../Images/4543fb4c9996c03f68426ddb2c5bddec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MJGMDUA5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/08/PromiseInitDiagram.jpg)
+[![](img/4543fb4c9996c03f68426ddb2c5bddec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MJGMDUA5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/08/PromiseInitDiagram.jpg)
 
 注意上图中你剩余的钱是如何从一个游戏转移到另一个游戏的？
 
@@ -56,7 +56,7 @@
 
 所以，如果你去了一个自动取款机，但是你没有完成你想要的操作…那么，你的银行账户里可能没有 1000 美元，你应该马上离开赌场。如果你成功提取了 1000 美元，那么你已经返回了一个值。
 
-[![](../Images/b5e6a42f167e0be17e1da59fe2646ef0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dJpzlBY3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/08/ProducerDiagram.jpg)
+[![](img/b5e6a42f167e0be17e1da59fe2646ef0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dJpzlBY3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/08/ProducerDiagram.jpg)
 
 所以让我们把它变成代码。下面是 promise 语法。
 
@@ -72,7 +72,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是对代码的逐行解释。
 
-[![promisecodeblock2.jpg](../Images/d8cb267e2b8f240b5b262bc75ec9b63a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ACfBroHU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/jqQFGj6IS3uCvAvVbeB9)
+[![promisecodeblock2.jpg](img/d8cb267e2b8f240b5b262bc75ec9b63a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ACfBroHU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/jqQFGj6IS3uCvAvVbeB9)
 
 第一行——宣布承诺，有两种可能的结果:履行或拒绝
 
@@ -114,7 +114,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 另一个重要的注意事项——play slots 是一个虚构的函数。我们假设这需要两个参数——你拥有的钱的总数，以及你愿意赌的金额。
 
-[![](../Images/fbeb4c4eb4adf06dd1a96552f6816e8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vdNF65Zy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/08/promisev2.jpg)
+[![](img/fbeb4c4eb4adf06dd1a96552f6816e8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vdNF65Zy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/08/promisev2.jpg)
 
 让我们在这个承诺链上再增加一步——一场扑克游戏。它将类似于老虎机的承诺。在这场比赛中，我们想赌多少就赌多少。
 
@@ -141,11 +141,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 因此，我们将玩老虎机后剩余的现金投入到扑克游戏中。如果你问我的话，我觉得很有侵略性。
 
-[![](../Images/b55852f6206d60e67d7d870866ab9b6b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LERWKPXp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/08/pokerresults.jpg)
+[![](img/b55852f6206d60e67d7d870866ab9b6b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LERWKPXp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/08/pokerresults.jpg)
 
 这是这部分的代码图。
 
-[![](../Images/b6e12d62e21791d0fa4bd1a35796181a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ukYn-4UA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/08/promiseexplainedwithmarketing2.jpg)
+[![](img/b6e12d62e21791d0fa4bd1a35796181a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ukYn-4UA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/08/promiseexplainedwithmarketing2.jpg)
 
 让我们想象一下，我们现在已经赌光了所有的钱。虽然我们原本打算玩更多的游戏，但我们没有钱了。这个链条上可能还会有更多的承诺，但我们将无法解决它们。
 
@@ -181,7 +181,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 不管哪个承诺被拒绝，这个 catch 语句都会起作用。
 
-[![](../Images/5f8a61cd4616bc4613027b3ae3a50044.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EP2mVsyZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/08/catchstatementdiagram.jpg)
+[![](img/5f8a61cd4616bc4613027b3ae3a50044.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EP2mVsyZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/08/catchstatementdiagram.jpg)
 
 ### 利用承诺内的对象
 
@@ -208,7 +208,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您现在返回一个具有两个属性的对象。看起来是这样的:
 
-[![](../Images/a409be6ef7d33394389fc6455646c5c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YKY6_DRv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/08/Objectinpromise.jpg)
+[![](img/a409be6ef7d33394389fc6455646c5c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YKY6_DRv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/08/Objectinpromise.jpg)
 
 扑克桌只接受现金换筹码，所以你需要在下一个承诺中使用那个属性。
 

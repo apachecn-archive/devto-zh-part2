@@ -6,7 +6,7 @@
 
 通常我们使用“右键单击”并看到一些上下文菜单，如下所示:
 
-[![context menu](../Images/567e566111bc088b19e439c8f27b9c49.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--34Z091bq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ka5xe0f41otjumsot7cr.png)
+[![context menu](img/567e566111bc088b19e439c8f27b9c49.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--34Z091bq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ka5xe0f41otjumsot7cr.png)
 
 该右键上下文菜单可由`regedit.exe`编辑。
 
@@ -16,9 +16,9 @@
 
 您要打开`cmd.exe`并在此更改目录吗？我愿意。！
 
-[![cmd-here1](../Images/4be4d5161bf40e17dce2c1a4466fe9c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1yD1acFO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zsgvncnwyspe3gcitnhd.png)
+[![cmd-here1](img/4be4d5161bf40e17dce2c1a4466fe9c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1yD1acFO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zsgvncnwyspe3gcitnhd.png)
 
-[![cmd-here2](../Images/717af6a3acbbffe96861693e52e936e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---ZB9Q63R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3lt0g0up5yvu1nx3zzfc.png)
+[![cmd-here2](img/717af6a3acbbffe96861693e52e936e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---ZB9Q63R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3lt0g0up5yvu1nx3zzfc.png)
 
 下面是两个源代码:
 
@@ -64,7 +64,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 接下来，“复制路径”上下文菜单。
 
-[![copy-path](../Images/31710607a9d56381f13cf2fe762ab729.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zt6biowE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r1csbs91d4k6cuv2a4me.png)
+[![copy-path](img/31710607a9d56381f13cf2fe762ab729.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zt6biowE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r1csbs91d4k6cuv2a4me.png)
 
 下面是三个源代码:
 
@@ -120,7 +120,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 感谢您阅读我的文章！
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [ saltyshiomix ](https://github.com/saltyshiomix) / [窗口小提示](https://github.com/saltyshiomix/tiny-pro-tips-for-windows)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [ saltyshiomix ](https://github.com/saltyshiomix) / [窗口小提示](https://github.com/saltyshiomix/tiny-pro-tips-for-windows)
 
 ### 针对 Windows 的微小但专业的提示
 

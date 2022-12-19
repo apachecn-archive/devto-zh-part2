@@ -46,7 +46,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 第三种说法是另一种表达方式。该表达式在循环的每次迭代中在之后运行**。它通常用于递增计数器，但是同样，您可以将任何合法的 JavaScript 放入其中，它将运行(当然，如果您不使用它来递增计数器，您需要确保有另一种方法将第二个语句中的条件语句更改为 true，否则您将陷入可怕的无限循环)。**
 
-[![Person rolling down Escher's infinite staircase](../Images/a82e056c6a53dab3cb695a1baceb4082.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0WBtLvEW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://i.imgur.com/RthAcqh.gif)
+[![Person rolling down Escher's infinite staircase](img/a82e056c6a53dab3cb695a1baceb4082.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0WBtLvEW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://i.imgur.com/RthAcqh.gif)
 
 在我们之前的例子中，我们使用第三条语句在每次迭代后增加`i`的值，这样在 20 次迭代后`i`等于`20`，`i < 20`计算为`true`，我们退出循环。
 

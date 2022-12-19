@@ -352,7 +352,7 @@ import axios from "axios";
 export default {
   async asyncData({ params }) {
     const { data } = await axios.get(
-      "https://api.thedogapi.com/v1/images/search?limit=1"
+      "https://api.thedogapi.com/img/search?limit=1"
     );
     return { dog: data[0] };
   }
@@ -384,7 +384,7 @@ import axios from "axios";
 export default {
   async asyncData({ params }) {
     const { data } = await axios.get(
-      "https://api.thedogapi.com/v1/images/search?size=thumb&limit=10"
+      "https://api.thedogapi.com/img/search?size=thumb&limit=10"
     );
     return { dogs: data };
   },
@@ -426,7 +426,7 @@ import axios from "axios";
 export default {
   async asyncData({ store, route }) {
     const { data } = await axios.get(
-      "https://api.thedogapi.com/v1/images/search?size=thumb&has_breeds=true&limit=50"
+      "https://api.thedogapi.com/img/search?size=thumb&has_breeds=true&limit=50"
     );
 
     const reg = new RegExp(route.params.breed, "g");
@@ -495,7 +495,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您仍然可以使用默认端点，但是现在您也将它绑定到了您的域。它应该是这样的。
 
-[![](../Images/e93c4c9696b117e1ba9c215d1529cfe8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w_ju37BL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/serverless-rendering-nuxt-vue/deploy.png)
+[![](img/e93c4c9696b117e1ba9c215d1529cfe8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w_ju37BL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/serverless-rendering-nuxt-vue/deploy.png)
 
 太好了，你的应用已经运行了。去试试吧。
 
@@ -503,7 +503,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在测试应用程序时，我通常会查看我的 Dashbird 指标，以确保它一切正常。如果是这样，浏览器控制台和 Dashbird 应用程序都不应该有任何错误。酷的是 [Dashbird](https://dashbird.io/features/) 是[免费的，不需要信用卡](https://dashbird.io/pricing/)来[注册](https://dashbird.io/register/)。依我看，这是双赢。
 
-[![](../Images/c7a4dca17f856f18e0f0de5489d491ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cEUypRrh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/serverless-rendering-nuxt-vue/vuessrdashbird.gif)
+[![](img/c7a4dca17f856f18e0f0de5489d491ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cEUypRrh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/serverless-rendering-nuxt-vue/vuessrdashbird.gif)
 
 我这边的日志显示都是绿色的，所以它工作得很好！就这样，应用程序完成了。您已经使用 Nuxt.js 创建了一个服务器端渲染的 Vue.js 应用程序，在 AWS Lambda 上的无服务器环境中托管它，并在用户开始抱怨之前添加了一种监控和调试应用程序的方法。没有比这更好的了。
 
@@ -513,7 +513,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果你在某个地方遇到困难，可以看看 GitHub repo 做进一步参考，如果你想让更多人在 GitHub 上看到它，可以随意给它打个星。
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [阿德纳尼奇](https://github.com/adnanrahic) / [无服务器端渲染-vue-nuxt](https://github.com/adnanrahic/serverless-side-rendering-vue-nuxt)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [阿德纳尼奇](https://github.com/adnanrahic) / [无服务器端渲染-vue-nuxt](https://github.com/adnanrahic/serverless-side-rendering-vue-nuxt)
 
 ### 使用 Nuxt.js 在 AWS Lambda 和 AWS API Gateway 上创建服务器端呈现的 Vue.js 应用程序的示例项目。
 
@@ -549,7 +549,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 * * *
 
-[![This months sponsor is Zeet.](../Images/a4da9440f5519d3156594813d3a02017.png)T2】](https://bit.ly/adnan-zeet)
+[![This months sponsor is Zeet.](img/a4da9440f5519d3156594813d3a02017.png)T2】](https://bit.ly/adnan-zeet)
 
 免责声明: [Zeet](https://bit.ly/adnan-zeet) 将在下个月赞助这篇博客。前几天我试过了。这就像无服务器，但运行整个后端。你可以自动托管和扩展应用。相当整洁。
 

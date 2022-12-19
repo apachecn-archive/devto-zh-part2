@@ -45,7 +45,7 @@ System.Int32
 
 如你所见，这主要是关于类的，查看它们，改变它们，实例化它们，但是都是在运行时而不是编译时！
 
-[![Compile Time Vs Runtime](../Images/e974544d9c7a76a79580beb51f1ffec5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jLHp2cJ7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.designpuddle.com/wp-content/uploads/2018/07/CompileVsRun-1024x414.png)
+[![Compile Time Vs Runtime](img/e974544d9c7a76a79580beb51f1ffec5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jLHp2cJ7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.designpuddle.com/wp-content/uploads/2018/07/CompileVsRun-1024x414.png)
 
 我能解释这两者区别的最好方法就是看你的跑鞋！
 

@@ -62,7 +62,7 @@ export default () => (
 
 然后只需运行`yarn dev`并转到`http://localhost:3000`。
 
-[![localhost:3000](../Images/1aada08108bf521f48c1bc84afdf0cd9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J6Po-7h9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.adrianprieto.com/wp-content/uploads/2018/06/run.png)
+[![localhost:3000](img/1aada08108bf521f48c1bc84afdf0cd9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J6Po-7h9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.adrianprieto.com/wp-content/uploads/2018/06/run.png)
 
 到目前为止，我们得到:
 

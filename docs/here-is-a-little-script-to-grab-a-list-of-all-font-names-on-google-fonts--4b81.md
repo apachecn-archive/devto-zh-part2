@@ -6,7 +6,7 @@
 
 所以，如果你已经读过我之前关于 [faviator](https://github.com/faviator/faviator) 的帖子，你可能已经参观过 [faviator 游乐场](https://www.faviator.xyz/playground)。
 
-[![ycmjason image](../Images/e0c3d8005c7310400a4232bc0f7cd324.png)](/ycmjason) [## 介绍 Faviator:一个简单易用的图标生成器
+[![ycmjason image](img/e0c3d8005c7310400a4232bc0f7cd324.png)](/ycmjason) [## 介绍 Faviator:一个简单易用的图标生成器
 
 ### 余杰生
 
@@ -96,4 +96,4 @@ echo ']'
 
 我们开始吧，在 [faviator playground](https://www.faviator.xyz/playground) 上选择文本时不再有挫败感！
 
-[![image.png](../Images/0c54604b1903f801df4b08bfd1183d72.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xEEau8pF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s14.postimg.org/yjw9efq8x/image.png)
+[![image.png](img/0c54604b1903f801df4b08bfd1183d72.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xEEau8pF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s14.postimg.org/yjw9efq8x/image.png)

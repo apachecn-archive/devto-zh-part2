@@ -4,7 +4,7 @@
 
 我正在开发我的应用程序来支持平板电脑。在 iPad 上，它有一个多任务功能，允许您通过如下方式分割屏幕来同时使用两个应用程序:
 
-[![split view demo](../Images/a27d83d09c5e4a3ad6b11ee05f73693f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qsH6IcMP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mpska7n7rd7odxqmir2a.png)
+[![split view demo](img/a27d83d09c5e4a3ad6b11ee05f73693f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qsH6IcMP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mpska7n7rd7odxqmir2a.png)
 
 在 React Native 中，它需要一些黑客来支持这个功能，因为有一个问题是`Dimensions` [不支持它](https://github.com/facebook/react-native/issues/16152)。
 你总是从`Dimensions.get`得到相同的数据，即使应用程序在 iPad 上处于“分割视图”或“滑过”状态:

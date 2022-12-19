@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nancy07/top-12-reasons-why-you-should-invest-in-iphone-application-development-services--naa>
 
-[![iPhone Application Development](../Images/2f90d9077c4d035bdf0d75b6276c6090.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--goACoH14--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f68mvn6nj7xi4upszun8.png)
+[![iPhone Application Development](img/2f90d9077c4d035bdf0d75b6276c6090.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--goACoH14--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f68mvn6nj7xi4upszun8.png)
 
 我们实话实说吧。一切都在数字化。人们一致喜欢在手机上完成工作。因此，消费者需要一款无所不包的应用。特别是，消费者想要一个什么都可以用的 iPhone 应用程序。
 
@@ -29,7 +29,7 @@ Xcode 是苹果的集成开发环境(IDE)，配备了最先进的功能，如图
 
 **安全交易:**
 
-[![iPhone Application Development](../Images/122c908f66133c556c69d899bc4ae9a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WrKvG1sD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8nz8biiwdu4c8bcogidy.png)
+[![iPhone Application Development](img/122c908f66133c556c69d899bc4ae9a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WrKvG1sD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8nz8biiwdu4c8bcogidy.png)
 
 进行在线支付的用户发现这种模式是 iPhone 应用程序开发的一个高度安全的选项。iPhone 应用程序加密在线交易，并消除外部威胁，如网络钓鱼和黑客攻击。因此，用户可以体验没有任何在线漏洞的无障碍交易。
 
@@ -44,7 +44,7 @@ Xcode 是苹果的集成开发环境(IDE)，配备了最先进的功能，如图
 
 **通过 iPhone 应用开发实现更好的电源管理:**
 
-[![iPhone Application Development](../Images/c3f5e7cf1bdab63457c156ccb785365d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1UOEb3Yl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/beb05f5de8re65slmx1d.png)
+[![iPhone Application Development](img/c3f5e7cf1bdab63457c156ccb785365d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1UOEb3Yl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/beb05f5de8re65slmx1d.png)
 
 在设备电源管理方面，iPhone 应用程序开发走在了游戏的前面。例如，苹果的 iPhone 与大多数在后台运行的第三方应用程序不兼容，但大多数 iPhone 设备支持 LTE 网络，快速的 LTE 下载速度不会影响电池寿命。事实上，电池寿命是苹果脱颖而出的一个领域。
 

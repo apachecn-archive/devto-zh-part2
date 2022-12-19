@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/isabelcmdcosta/intro-to-google-summer-of-code-with-systers-open-source-4eip>
 
-[![Systers plus Google Summer of Code](../Images/5c5f740836337cd98b58c41c1b45d38a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YpgzCqWh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b8uo1gk79hsn2dllfedl.PNG)
+[![Systers plus Google Summer of Code](img/5c5f740836337cd98b58c41c1b45d38a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YpgzCqWh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b8uo1gk79hsn2dllfedl.PNG)
 
 我非常感激被[系统开源社区](http://systers.io/)接纳为今年[谷歌代码之夏(GSoC)](https://summerofcode.withgoogle.com/) 的学生。结果于 4 月 23 日公布，我非常期待这个机会。
 

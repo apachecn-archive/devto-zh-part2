@@ -16,7 +16,7 @@
 
 因此，将显示器分辨率设置为最大值，打开浏览器并导航到您的网页。页面完全加载后，按 F12 打开开发人员工具并取消停靠。
 
-| 在 **Chrome** 中，要移除开发者工具，你只需点击右上角的 3 个点，然后点击下图所示的选项[![Undocking developer tools](../Images/b1209929bbc93ff246990ca2840111de.png)T2】](http://codingfix.com/wp-content/uploads/2017/12/Screenshot-06_30_18-11_23_23.jpg)在 Firefox 中，3 个点是水平对齐的，菜单显示了 3 个选项:“停靠到底部”、“停靠到左边”、“停靠到右边”和“独立窗口”在微软 Edge 中，你可以点击图标[![Undocking developer tools](../Images/495ae6140a1b61783a9183f152e5fb7d.png)T2】](http://codingfix.com/wp-content/uploads/2017/12/Screenshot-06_30_18-15_56_03.jpg) |
+| 在 **Chrome** 中，要移除开发者工具，你只需点击右上角的 3 个点，然后点击下图所示的选项[![Undocking developer tools](img/b1209929bbc93ff246990ca2840111de.png)T2】](http://codingfix.com/wp-content/uploads/2017/12/Screenshot-06_30_18-11_23_23.jpg)在 Firefox 中，3 个点是水平对齐的，菜单显示了 3 个选项:“停靠到底部”、“停靠到左边”、“停靠到右边”和“独立窗口”在微软 Edge 中，你可以点击图标[![Undocking developer tools](img/495ae6140a1b61783a9183f152e5fb7d.png)T2】](http://codingfix.com/wp-content/uploads/2017/12/Screenshot-06_30_18-15_56_03.jpg) |
 
 一旦开发人员工具被移除，您就可以看到由浏览器呈现的整个页面部分，并识别所有立即可用的部分。下一步是给浏览器所有必要的信息，以正确的方式呈现内容，这就是必须应用的 css 规则。
 

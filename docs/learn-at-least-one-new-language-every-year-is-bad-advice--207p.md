@@ -26,7 +26,7 @@
 
 你不仅应该阅读博客，撰写自己的博客，为开源项目做出贡献，与其他程序员建立联系，从事令人兴奋的个人兼职项目，参加会议，阅读以跟上最新的技术发展，以及 ***做你实际的工作*** ，你还应该“每年至少学习*一门新语言”。谁需要睡眠或者生活，对吧？*
 
- *[![stressed computer programmer](../Images/e7ed65628bb8b3aa8e6f0e0d3c580053.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uB3H5ExE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q6cz6kdazrib0am8ahai.jpg)
+ *[![stressed computer programmer](img/e7ed65628bb8b3aa8e6f0e0d3c580053.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uB3H5ExE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q6cz6kdazrib0am8ahai.jpg)
 
 新开发人员几乎总是不知所措，他们需要基础知识方面的帮助。
 

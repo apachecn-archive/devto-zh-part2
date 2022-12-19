@@ -28,8 +28,8 @@
 
 ## 网站示例
 
-[![screenshot](../Images/574780f8891ba28c5fa4a1ae3dc093d3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--572wz1ba--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/lauragift/image/upload/v1523804538/2-screenshot_r6uux6.png)
-[![screenshot](../Images/6c68e4ac4fb35d4479ed126d05f878d1.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--yipw6UU6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/lauragift/image/upload/v1523804647/JAMstack_JavaScript_APIs_and_Markup_1_ys6djd.png)
+[![screenshot](img/574780f8891ba28c5fa4a1ae3dc093d3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--572wz1ba--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/lauragift/image/upload/v1523804538/2-screenshot_r6uux6.png)
+[![screenshot](img/6c68e4ac4fb35d4479ed126d05f878d1.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--yipw6UU6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/lauragift/image/upload/v1523804647/JAMstack_JavaScript_APIs_and_Markup_1_ys6djd.png)
 
 ## 有用的 JAMstack 资源
 

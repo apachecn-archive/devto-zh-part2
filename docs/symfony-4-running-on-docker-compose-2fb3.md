@@ -6,7 +6,7 @@
 
 首先我会调整 **docker-compose.yml** 文件。Mysql 简单纯粹。Nginx 和 Php-fpm 对他们的文件很感兴趣。项目结构是这样的。
 
-[![alt text](../Images/db1b9f307598076ce0566da2402150d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--owaOngGH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mh3nw02inh5t7p5e8z39.png)
+[![alt text](img/db1b9f307598076ce0566da2402150d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--owaOngGH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mh3nw02inh5t7p5e8z39.png)
 
 下面几行表示 **docker.compose.yml** 文件。
 
@@ -259,4 +259,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 从现在开始，`:8888`端口正在监听 http 请求。你打开`http://localhost:8888`，它就回答你。
 
-[![alt text](../Images/6f1b197622406ed052521db2cf74c0ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ld9Dqn21--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s9uavfz9dovlhj73s659.png)
+[![alt text](img/6f1b197622406ed052521db2cf74c0ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ld9Dqn21--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s9uavfz9dovlhj73s659.png)

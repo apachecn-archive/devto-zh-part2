@@ -27,7 +27,7 @@
 
 # 建筑
 
-[![architecture overview](../Images/0a454a09938bce8426c37bf0c89ee0e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DQk3izBA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1zm11u6uwpo9vi3gureo.png)
+[![architecture overview](img/0a454a09938bce8426c37bf0c89ee0e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DQk3izBA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1zm11u6uwpo9vi3gureo.png)
 
 物联网核心充当 MQTT 消息代理。它使用主题将消息从发布者路由到订阅者。每当有消息发布到某个主题时，所有订阅者都会收到关于该消息的通知。物联网核心允许我们使用*规则*高效地向其他 AWS 服务发送消息。一个规则对应于一个 SQL select 语句，该语句定义了何时触发规则，例如，针对某个主题的所有消息。
 
@@ -43,7 +43,7 @@ Lambda 函数将更新一个由[elastic cache](https://aws.amazon.com/elasticach
 
 我们将使用内置于物联网核心的 MQTT 测试客户端来发布消息到我们的主题。作为一个展望，请找到最终结果的动画如下。让我们在下一节中一步一步地研究实现。
 
-[![demo](../Images/4ed5f49fe5f5a19e2897238febf62d31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4H-A2dVi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lr6mq7pw22ol3r7enzhw.gif)
+[![demo](img/4ed5f49fe5f5a19e2897238febf62d31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4H-A2dVi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lr6mq7pw22ol3r7enzhw.gif)
 
 # 实现
 
@@ -60,7 +60,7 @@ Lambda 函数将更新一个由[elastic cache](https://aws.amazon.com/elasticach
 
 ## 物联网核心
 
-[![iot core](../Images/cbbf75dce9719af250605a187438a589.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PBhPMsH1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m38hfkc6svlxssfrt3yf.png)
+[![iot core](img/cbbf75dce9719af250605a187438a589.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PBhPMsH1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m38hfkc6svlxssfrt3yf.png)
 
 使用物联网核心时，不需要设置。每个 AWS 帐户都能够使用 MQTT 代理作为开箱即用的完全托管的服务。所以我们唯一需要做的事情就是配置我们的主题规则和相应的转发消息到 Kinesis 和 Firehose 的动作。
 
@@ -95,7 +95,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 消防水带输送水流
 
-[![firehose delivery stream](../Images/56ff5f27cd84169b689b306f5fef9118.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5IP2TiuH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2ekzesfjh5wmpi0zjqr8.png)
+[![firehose delivery stream](img/56ff5f27cd84169b689b306f5fef9118.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5IP2TiuH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2ekzesfjh5wmpi0zjqr8.png)
 
 为了设置消防软管输送流，我们指定目的地类型(`s3`)并进行相应配置。由于我们在本系列中多次创建了 S3 存储桶，因此我们将在此省略存储桶资源。两个参数`buffer_size` (MB)和`buffer_interval` (s)控制在将分区持久化到 S3 之前，我们等待新数据到达的时间。
 
@@ -127,7 +127,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## Kinesis 数据流
 
-[![kinesis data stream](../Images/18a6d252fe7d127192630ae3564ae431.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_8oN9JLs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/36arcez7baeptkfyfmn5.png)
+[![kinesis data stream](img/18a6d252fe7d127192630ae3564ae431.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_8oN9JLs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/36arcez7baeptkfyfmn5.png)
 
 Kinesis 数据流将只有一个碎片，保留期为 24 小时。每个碎片支持一定的读写吞吐量，受限于每次请求的数量和大小。您可以通过向流中添加更多碎片并选择适当的分区键来进行扩展。我们将保留数据 24 小时，这包含在基础价格中。
 
@@ -145,7 +145,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## λ
 
-[![lambda](../Images/3a11af95cb20809944817c7e73535b67.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1700QiHi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3mqzq5puoe1uxyqlizcd.png)
+[![lambda](img/3a11af95cb20809944817c7e73535b67.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1700QiHi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3mqzq5puoe1uxyqlizcd.png)
 
 到目前为止，您应该已经熟悉如何创建 Lambda 处理程序了。这次我们将使用一个额外的库，它将允许 AWS 自动处理`KinesisEvent`输入的反序列化: [`aws-lambda-java-events`](https://github.com/aws/aws-lambda-java-libs/tree/master/aws-lambda-java-events) 。我们还得包括 [`amazon-kinesis-client`](https://github.com/awslabs/amazon-kinesis-client) 和 [`aws-java-sdk-kinesis`](https://github.com/aws/aws-sdk-java/tree/master/aws-java-sdk-kinesis) 。
 
@@ -232,7 +232,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 弹性缓存重定向
 
-[![redis](../Images/807fc4a6b57443dcff0f06a162e0cf25.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sGjmNAHu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ucfuhkcnitkw0gvd4d6h.png)
+[![redis](img/807fc4a6b57443dcff0f06a162e0cf25.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sGjmNAHu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ucfuhkcnitkw0gvd4d6h.png)
 
 我们将使用运行 Redis 4.0 的单个`cache.t2.micro`实例。与 RDS 类似，我们也可以传递`apply_immediately`标志来强制更新，即使在维护窗口之外。
 
@@ -256,7 +256,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 弹性豆茎 Web UI
 
-[![elastic beanstalk web ui](../Images/aa861c68235e3b57b2a542f747cd333a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j2UXLNWX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a7nsvbk85ro58kcy8l1u.png)
+[![elastic beanstalk web ui](img/aa861c68235e3b57b2a542f747cd333a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j2UXLNWX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a7nsvbk85ro58kcy8l1u.png)
 
 弹性 Beanstalk 应用程序由前端和后端组成。前端是一个包含 JavaScript 和 CSS 的 HTML 文件。那里没什么特别的。后端是用 Scala 编写的，利用了我们已经在 Lambda 函数中使用的 Redis 库，以及 Akka HTTP 来服务静态文件和处理 WebSocket 连接。
 
@@ -264,7 +264,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 前端将提供三个输出:消息计数、最后一条消息以及它从服务器接收最后一次更新的时间。下面你会发现一个用户界面和 HTML 代码的截图。
 
-[![frontend](../Images/ddd6a0f707ada265847412bed889e788.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RUmW2XlB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6plgk0br1ii2xacktrbm.png)T3】
+[![frontend](img/ddd6a0f707ada265847412bed889e788.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RUmW2XlB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6plgk0br1ii2xacktrbm.png)T3】
 
 ```
 <html>
@@ -464,7 +464,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 完成后，我们可以打开 Elastic Beanstalk 环境 URL 来查看 UI。如果我们分配了一个 DNS 名称，我们可以使用那个名称。然后，我们在另一个浏览器选项卡中打开 AWS 物联网控制台，导航到*测试*页面。在这里，我们滚动到*发布*部分，输入`topic/sensors`作为主题，就可以开始发布 MQTT 消息了。
 
-[![demo](../Images/4ed5f49fe5f5a19e2897238febf62d31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4H-A2dVi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lr6mq7pw22ol3r7enzhw.gif)
+[![demo](img/4ed5f49fe5f5a19e2897238febf62d31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4H-A2dVi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lr6mq7pw22ol3r7enzhw.gif)
 
 # 结论
 

@@ -24,21 +24,21 @@ Webpack 为这个问题提供了一个解决方案:**代码拆分**。因为它�
 
 您必须使用 Vue 路由器设置一个 Vue 项目。如果没有，就做一个简单的。要使代码拆分的结果显而易见，必须有多个组件。如果组件中只有一个`<h1>`并不重要，重要的是你实际应用它来更好地理解它。如果你还没有建立一个项目，那就开始吧。这里有一个例子:
 
-[![image of About component for reference](../Images/0ca3ec61da7e779347999a67de6f9744.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x2q4paEw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oeju9iujk964vxc9yonv.JPG)
+[![image of About component for reference](img/0ca3ec61da7e779347999a67de6f9744.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x2q4paEw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oeju9iujk964vxc9yonv.JPG)
 
-[![image of Home component](../Images/2c3cecef4e2c728f59cf85bd8f8ab9a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D5W0KqoU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pp3mmean39j46y2rnsgq.JPG)
+[![image of Home component](img/2c3cecef4e2c728f59cf85bd8f8ab9a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D5W0KqoU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pp3mmean39j46y2rnsgq.JPG)
 
 现在首先，你必须安装 Babel 的动态导入插件。
 
-[![image of install command for Babel plugin](../Images/3afbdd8588ccc2404122852f5eab17d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bnggvRDh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/psn6hgri0oksjzx08j7b.JPG)
+[![image of install command for Babel plugin](img/3afbdd8588ccc2404122852f5eab17d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bnggvRDh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/psn6hgri0oksjzx08j7b.JPG)
 
 Babel 需要这个插件的原因是，虽然 Webpack 理解动态导入(这是我们正在使用的)并相应地捆绑，但在服务器端，我们需要 Babel 理解并传输它。Satyajit Sahoo 在 babeljs slack 中对此做了很好的解释:
 
-[![image of babeljs slack conversation](../Images/007e6befc884f6e1c6f9289d406ab128.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tugFUHhX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2o2ef21v8grbjs3sr91z.JPG)
+[![image of babeljs slack conversation](img/007e6befc884f6e1c6f9289d406ab128.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tugFUHhX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2o2ef21v8grbjs3sr91z.JPG)
 
 接下来，我们在 Babel 配置文件中包含新安装的插件。
 
-[![image of .babelrc file](../Images/cd3ee1ef80a730913e9a21f42ad799c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6mApHNLn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bqs0b0o511mm1fv66wzr.JPG)
+[![image of .babelrc file](img/cd3ee1ef80a730913e9a21f42ad799c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6mApHNLn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bqs0b0o511mm1fv66wzr.JPG)
 
 就这么定了！让我们现在开始主要的事情。
 
@@ -46,7 +46,7 @@ Babel 需要这个插件的原因是，虽然 Webpack 理解动态导入(这是�
 
 导入组件到`router.js`文件的常用方法如下:
 
-[![image of router.js file](../Images/12c94644951eaaa61bc6e1f77c9cfdd7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o3SLRQas--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/61m91bga6swb7hhv614m.JPG)
+[![image of router.js file](img/12c94644951eaaa61bc6e1f77c9cfdd7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o3SLRQas--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/61m91bga6swb7hhv614m.JPG)
 
 保存当前代码，并在开发模式下启动它。
 
@@ -61,23 +61,23 @@ Enter fullscreen mode Exit fullscreen mode
 
 在 Chrome 或 Firefox 或任何你选择的浏览器中访问这个。现在从开发者工具[键盘上的 F12 转到控制台。访问网络选项卡。现在重新加载页面。您将看到两个组件都在加载。从过滤器中选择 js 后(它在实际结果窗口上方一点，参考下面的截图)你会看到 app.js，看看它的大小。
 
-[![image of Network tab in Development Tools](../Images/2275ab97217c896c2d17f83b2a8a2d3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X0TkyFQC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5gphrhv4q5z8kjw3b0ei.JPG)
+[![image of Network tab in Development Tools](img/2275ab97217c896c2d17f83b2a8a2d3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X0TkyFQC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5gphrhv4q5z8kjw3b0ei.JPG)
 
 没有代码分割，在初始加载时，About 组件与 Home 组件和 loading 捆绑在一起，即使我们还不需要它。是时候改变这一切了。还有另一种基于承诺的导入方式，所以请确保为不支持承诺的旧浏览器提供一个 *polyfill* 。
 
-[![image of new import statements in router.js file](../Images/e2cb01011bb557038a7d30327e6eb464.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mcxlBD_Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yvm5sd4s9oont5oelc58.JPG)
+[![image of new import statements in router.js file](img/e2cb01011bb557038a7d30327e6eb464.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mcxlBD_Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yvm5sd4s9oont5oelc58.JPG)
 
 我们结束了。真快！我们所做的是创建一个返回导入的函数。这是动态导入语法。每当 webpack 看到这样的导入，它就会生成一个**块**，也称为响应承诺的代码分割。现在保存代码，重新加载页面并再次检查 Network 选项卡，组件不会一次全部加载。开始逐个访问您的路径，您将看到组件在访问路径时出现在结果窗口中。以下是我一个接一个地访问两条路线时的网络选项卡图像:
 
-[![Network tab for initial load](../Images/c48bba6e6b5f8a0c0059f74a5fa25556.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MSv0WeFx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/shw5iz8tzl0e9p2eleot.JPG)
+[![Network tab for initial load](img/c48bba6e6b5f8a0c0059f74a5fa25556.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MSv0WeFx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/shw5iz8tzl0e9p2eleot.JPG)
 
-[![Network tab when visiting About route](../Images/9f688634303d5c5fcf0b86c08d2d69e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sNjFjIkL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/diqovhgdfz8356mssns0.JPG)
+[![Network tab when visiting About route](img/9f688634303d5c5fcf0b86c08d2d69e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sNjFjIkL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/diqovhgdfz8356mssns0.JPG)
 
 你做到了！！喝点以前的果汁。但是记住不要一口气吞下去；)
 
 但是等等，这是什么；网络选项卡中的所有组件都用数字表示。太不直观了。让我们来解决这个问题:将这个评论添加到您的导入中。
 
-[![Giving names to our chunks](../Images/9a52b080c28811b79d2c5b99b5ac21a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZqFDj5R6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tscfo1rq3asfn5nqs6hy.JPG)
+[![Giving names to our chunks](img/9a52b080c28811b79d2c5b99b5ac21a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZqFDj5R6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tscfo1rq3asfn5nqs6hy.JPG)
 
 Webpack 按照字面意思解释这些评论，**块名**。作为值提供给 *webpackChunkName* 的名称将用于表示网络选项卡中的特定组件，而不是数字。现在，您可以从开发人员工具中知道您正在查看哪个文件。您可能会看到 About 组件在初始加载时仍然存在。但是，快速查看一下文件的大小就会发现，这并不是实际的组件加载，因为文件大小为 0 字节。很可能是 Vue 在幕后工作。实际的组件只有在我们访问它的路径时才会加载。
 

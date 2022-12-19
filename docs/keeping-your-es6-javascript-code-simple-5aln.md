@@ -8,7 +8,7 @@
 
 为了演示我正在谈论的内容，我将带您经历上周的一次精彩的代码审查会议。我们将从一个 35 行的 JS 类开始，并以一个漂亮的 11 行代码段结束，这段代码只使用了巧妙的函数！
 
-[![refactoring](../Images/c821c05dffb0da1ea2fda155a31bc2c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cQlQchxT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yzbr5jol478yyloqfzv1.gif)
+[![refactoring](img/c821c05dffb0da1ea2fda155a31bc2c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cQlQchxT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yzbr5jol478yyloqfzv1.gif)
 
 有了耐心和韧性，你将能够观察并应用这个模式到你自己的代码库中。
 

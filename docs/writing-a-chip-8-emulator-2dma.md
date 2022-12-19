@@ -16,7 +16,7 @@
 
 ## 芯片-8
 
-[![Space Invaders](../Images/a5f07f3edcf566d33d4048d41c1f46da.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Cxng2ltO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/aymanbagabas/C8emu/raw/master/shot1.png) 
+[![Space Invaders](img/a5f07f3edcf566d33d4048d41c1f46da.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Cxng2ltO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/aymanbagabas/C8emu/raw/master/shot1.png) 
 *太空入侵者*
 
 在你变得非常兴奋之前，你真的必须了解这个系统是如何工作和运转的。熟悉二进制和十六进制转换。调试程序时，十六进制查看器可能会派上用场。

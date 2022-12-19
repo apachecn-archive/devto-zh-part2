@@ -4,7 +4,7 @@
 
 “Conectayas”是一款完全用 DHTML (HTML、CSS 和 JavaScript)编写的开源井字游戏、连接四个(又名四个一排)和类似风格的游戏(高度可配置)。
 
-[![Screenshot](../Images/349278bdae4f0f4a0af668e4dda1ad4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eBKAoNZ3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://dhtmlgames.com/conectayas/conectayas.gif)
+[![Screenshot](img/349278bdae4f0f4a0af668e4dda1ad4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eBKAoNZ3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://dhtmlgames.com/conectayas/conectayas.gif)
 
 这是我的第七个 DHTML 游戏，制作于 2006 年末。
 

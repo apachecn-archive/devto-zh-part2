@@ -6,4 +6,4 @@
 
 [读读⚛️](https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/?utm_source=dev&utm_medium=sc&utm_campaign=firstapp_react)
 
-[![React Tutorial: Building and Securing Your First App](../Images/6f7cd8680057d299c963690a63fb0ad1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iYUOKStF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i9q47wlzeyeynjaji871.png)
+[![React Tutorial: Building and Securing Your First App](img/6f7cd8680057d299c963690a63fb0ad1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iYUOKStF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i9q47wlzeyeynjaji871.png)

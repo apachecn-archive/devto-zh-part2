@@ -4,7 +4,7 @@
 
 最近，我们开始编写我们产品的用户手册，就在我们接近完成的时候，我们的用户开始要求提供产品的视频演示。
 
-[![What!!](../Images/844b13105522dffe1e7e7c21931e1af2.png)T2】](https://i.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
+[![What!!](img/844b13105522dffe1e7e7c21931e1af2.png)T2】](https://i.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
 
 不用说，我们开始质疑自己是否应该先做视频。那次讨论的结果是改天的话题。现在，这里是我们如何把我们的产品演示视频放在一起。
 
@@ -50,7 +50,7 @@
 
 这是我们输出的样子
 
- [![Online Invoicing Walkthrough](../Images/e0059f4485f97d3fdd447412d4caf635.png)
+ [![Online Invoicing Walkthrough](img/e0059f4485f97d3fdd447412d4caf635.png)
 T4】](http://www.youtube.com/watch?feature=player_embedded&v=Ke0Zc8Iwsqs)
 
 如果能听到您对这一过程的反馈，以及您是否使用了其他工具来简化这一过程，那就太好了。

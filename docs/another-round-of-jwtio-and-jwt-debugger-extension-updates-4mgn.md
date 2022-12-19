@@ -8,4 +8,4 @@
 
 [读读✊](https://auth0.com/blog/more-jwt-io-and-jwt-debugger-extension-updates/?utm_source=dev&utm_medium=sc&utm_campaign=jwtio_update2)
 
-[![Another Round of JWT.io and JWT Debugger Extension Updates](../Images/ad7e7d3d45c78f3f3b6efb2801f404a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JqRELmd1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6f85m1w2ghhzi4btbhwj.png)
+[![Another Round of JWT.io and JWT Debugger Extension Updates](img/ad7e7d3d45c78f3f3b6efb2801f404a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JqRELmd1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6f85m1w2ghhzi4btbhwj.png)

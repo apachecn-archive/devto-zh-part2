@@ -4,7 +4,7 @@
 
 我在尝试学习编程和数据科学的同时，阅读了 Abisekh 关于不知道下一步该学什么的帖子。
 
-[![abisekhsubedi image](../Images/4579a2e6f062926a0fe97a46c6b5c15a.png)](/abisekhsubedi) [## 我迷路了，不知道该怎么办。
+[![abisekhsubedi image](img/4579a2e6f062926a0fe97a46c6b5c15a.png)](/abisekhsubedi) [## 我迷路了，不知道该怎么办。
 
 ### 阿比塞克·苏贝迪
 

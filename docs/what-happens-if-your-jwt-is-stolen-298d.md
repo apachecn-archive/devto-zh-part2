@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/oktadev/what-happens-if-your-jwt-is-stolen-298d>
 
-[![Stolen JWT](../Images/bbacad0b12c70e0dd6e1d309a5591a38.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EJ-Laov8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/what-happens-if-your-jwt-is-stolen/stolen-jwt-813423a2a0c04d9c99e58aea4bede15081038d6e3e41b98c619734c1b8967512.png)
+[![Stolen JWT](img/bbacad0b12c70e0dd6e1d309a5591a38.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EJ-Laov8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/what-happens-if-your-jwt-is-stolen/stolen-jwt-813423a2a0c04d9c99e58aea4bede15081038d6e3e41b98c619734c1b8967512.png)
 
 我们都知道如果我们的用户凭证(电子邮件和密码)被攻击者发现会发生什么:他们可以登录我们的帐户并造成严重破坏。但是许多现代应用程序都使用 JSON Web 令牌(JWT)来管理用户会话——如果 JWT 遭到破坏会发生什么？因为越来越多的应用程序使用基于令牌的身份验证，所以这个问题与开发人员的关系越来越密切，如果您正在构建任何一种使用基于令牌的身份验证的应用程序，理解这个问题非常重要。
 
@@ -12,7 +12,7 @@
 
 ## 什么是令牌？
 
-[![Shrug](../Images/37acdd83c773e5b9008c936d65c30e26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CaDbvtER--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/what-happens-if-your-jwt-is-stolen/shrug-1ad78de3fb2a4efbec8eb87a486bb48914454a642a4fb4d3d55dfe83db8a3d93.jpg)
+[![Shrug](img/37acdd83c773e5b9008c936d65c30e26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CaDbvtER--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/what-happens-if-your-jwt-is-stolen/shrug-1ad78de3fb2a4efbec8eb87a486bb48914454a642a4fb4d3d55dfe83db8a3d93.jpg)
 
 web 开发环境中的令牌只不过是代表一个会话的任意值。令牌可以是类似“abc123”的字符串，也可以是类似“48ff 796 e-8c8a-46 B9-9f 25-f883c 14734 ea”的随机生成的 id。
 
@@ -22,7 +22,7 @@ web 开发环境中的令牌只不过是代表一个会话的任意值。令牌�
 
 ## 什么是 JSON Web 令牌(JWT)？
 
-[![JSON Web Token](../Images/a78d3f30aca798bb98a2be418a8e9ea7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oclBPlK9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/what-happens-if-your-jwt-is-stolen/jwt-778843a03acacfc994840c1b614464e512ccf5f520240072b593f521d78ecba5.png)
+[![JSON Web Token](img/a78d3f30aca798bb98a2be418a8e9ea7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oclBPlK9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/what-happens-if-your-jwt-is-stolen/jwt-778843a03acacfc994840c1b614464e512ccf5f520240072b593f521d78ecba5.png)
 
 JSON Web 令牌是特殊类型的令牌，其构造方式便于在 Web 上使用。他们有一些决定性的特征:
 
@@ -89,7 +89,7 @@ njwt.verify(token, key, (err, verifiedJwt) => {
 
 ## JSON Web 令牌是如何使用的？
 
-[![How are JSON Web Tokens used?](../Images/4aa0dd56c51628766f386cd3901d73cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xmc1N-9c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/what-happens-if-your-jwt-is-stolen/how-are-jwts-used-916bd87556468089f02086c3900c8f30db0e48231272a374e7537b6eeca80338.jpg)
+[![How are JSON Web Tokens used?](img/4aa0dd56c51628766f386cd3901d73cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xmc1N-9c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/what-happens-if-your-jwt-is-stolen/how-are-jwts-used-916bd87556468089f02086c3900c8f30db0e48231272a374e7537b6eeca80338.jpg)
 
 jwt 通常用作 web 应用程序、移动应用程序和 API 服务的会话标识符。但是，与传统的会话标识符不同，它只不过是指向服务器端实际用户数据的指针，jwt 通常直接包含用户数据。
 
@@ -120,7 +120,7 @@ jwt 近年来变得流行的主要原因是它们可以包含任意的 JSON 数�
 
 ## 如果你的 JSON Web Token 被盗了会怎么样？
 
-[![Angry Rage Face](../Images/96787c5e10cd76b87ce745d914bf6cbe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9VCuCM4w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/what-happens-if-your-jwt-is-stolen/angry-rage-face-ff14143170c6493b0d0090b1c7edbff81a8ed6c55325a25bb11c7ce3d12593fb.png)
+[![Angry Rage Face](img/96787c5e10cd76b87ce745d914bf6cbe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9VCuCM4w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/what-happens-if-your-jwt-is-stolen/angry-rage-face-ff14143170c6493b0d0090b1c7edbff81a8ed6c55325a25bb11c7ce3d12593fb.png)
 
 总之:很烂，*真正的烂*。
 
@@ -150,7 +150,7 @@ jwt 近年来变得流行的主要原因是它们可以包含任意的 JSON 数�
 
 ## 如果你的 JWT 被盗了该怎么办
 
-[![My JWT was stolen, what do I do?](../Images/3e6127db378ca82b346fbb2c92735baa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IBuK3oXU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/what-happens-if-your-jwt-is-stolen/what-do-i-do-d0f98ce43a73a34edca20f7d7f2a3f84bf2a1a47bb06e5fbb0d69b2b8b5762fa.jpg)
+[![My JWT was stolen, what do I do?](img/3e6127db378ca82b346fbb2c92735baa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IBuK3oXU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/what-happens-if-your-jwt-is-stolen/what-do-i-do-d0f98ce43a73a34edca20f7d7f2a3f84bf2a1a47bb06e5fbb0d69b2b8b5762fa.jpg)
 
 一旦 JWT 被盗，您将处于非常糟糕的境地:攻击者现在可以冒充客户端并在没有客户端同意的情况下访问您的服务。但是，即使你处在一个糟糕的情况下，你仍然要充分利用它。
 
@@ -165,7 +165,7 @@ jwt 近年来变得流行的主要原因是它们可以包含任意的 JSON 数�
 
 ## 如何检测令牌泄露
 
-[![Magnifying glass](../Images/22078e049f259fabc1f3f78ff2cfdc4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--04huqZME--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/what-happens-if-your-jwt-is-stolen/magnifying-glass-c3fc5120a04af94e5bc8a6ca3ab519c7a36a069aed0584c3bf04d27614099305.jpg)
+[![Magnifying glass](img/22078e049f259fabc1f3f78ff2cfdc4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--04huqZME--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/what-happens-if-your-jwt-is-stolen/magnifying-glass-c3fc5120a04af94e5bc8a6ca3ab519c7a36a069aed0584c3bf04d27614099305.jpg)
 
 当令牌泄露确实发生时，它可能会导致重大问题。特别是如果您(作为服务提供商)不能快速检测到攻击者已经损害了客户端的令牌。
 

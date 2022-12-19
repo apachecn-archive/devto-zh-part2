@@ -107,7 +107,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Hadoop 通过 ssh 连接到节点，因此让我们在 mac 笔记本电脑上启用它:
 
-[![http://cdn.osxdaily.com/wp-content/uploads/2011/09/enable-sftp-server-mac-os-x-lion.jpg](../Images/8e94c66c910044b1bbcb1eb5c340b3cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kQvHu2eM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://cdn.osxdaily.com/wp-content/uploads/2011/09/enable-sftp-server-mac-os-x-lion.jpg)
+[![http://cdn.osxdaily.com/wp-content/uploads/2011/09/enable-sftp-server-mac-os-x-lion.jpg](img/8e94c66c910044b1bbcb1eb5c340b3cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kQvHu2eM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://cdn.osxdaily.com/wp-content/uploads/2011/09/enable-sftp-server-mac-os-x-lion.jpg)
 
 你应该可以不通过 ssh:
 

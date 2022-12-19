@@ -2,13 +2,13 @@
 
 > 原文：<https://dev.to/onmyway133/react-native-bridginghow-to-make-linear-gradient-view-5f1>
 
-[![](../Images/9e5d7529c2c339a2f276087317250da7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2bK0Eq0V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2A5s38dDBsBUBRLo6O.jpg)
+[![](img/9e5d7529c2c339a2f276087317250da7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2bK0Eq0V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2A5s38dDBsBUBRLo6O.jpg)
 
 React Native 让我们只使用 Javascript 就能构建移动应用。它的工作原理是提供一个通用接口，与原生 iOS 和 Android 组件对话。有足够的基本组件可以开始使用，但更酷的是我们很容易构建自己的组件，因此我们不会受到 React Native 的限制。在这篇文章中，我们将使用原生 UI 组件，特别是 iOS 中的 CAGradientLayer 和 Android 中的 GradientDrawable，实现 React Native 中默认不支持的线性渐变视图。
 
 在 Javascript 中，一个问题有数百个库，你应该检查你是否真的需要它。在谷歌上搜索线性渐变会显示一堆库，比如[react-native-linear-gradient](https://github.com/react-native-community/react-native-linear-gradient)。[依赖](https://medium.com/fantageek/what-is-create-react-native-app-9f3bc5a6c2a3)越少越好。线性梯度实际上非常容易建立，我们可能不需要添加额外的依赖。另外，[整合](https://dev.to/acro5piano/struggle-to-install-react-native-linear-gradient--2omm) [和](https://medium.com/react-native-training/fixing-react-native-issues-and-happy-deploy-to-bitrise-fabric-circleci-44da4ab1487b) [跟随](https://medium.com/react-native-training/firebase-sdk-with-firestore-for-react-native-apps-in-2018-aa89a67d6934) [更新](https://medium.com/react-native-training/facebook-sdk-with-login-for-react-native-apps-in-2018-196601804f66)到第三库是痛苦的，我会尽可能避免。
 
-[![](../Images/20b05193502b97e44b762e55e6b8023c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MFyGkQMp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2ASZnOwVTr15PY7uHYqaeaXw.png)
+[![](img/20b05193502b97e44b762e55e6b8023c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MFyGkQMp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2ASZnOwVTr15PY7uHYqaeaXw.png)
 
 ## 原生 UI 组件 vs 原生模块
 
@@ -44,7 +44,7 @@ React Native 让我们只使用 Javascript 就能构建移动应用。它的工�
 
 将这些 Objective-C 类添加到项目中，我通常将它们放在 NativeComponents 文件夹中
 
-[![](../Images/9bbad9def721fdf13191179832c93f99.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vAd746XS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Av9ecOYKhfHenOfFD_YyXjA.png)
+[![](img/9bbad9def721fdf13191179832c93f99.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vAd746XS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Av9ecOYKhfHenOfFD_YyXjA.png)
 
 > 本地视图由 RCTViewManager 的子类创建和操作。这些子类在功能上类似于视图控制器，但本质上是单例的——桥只创建每个子类的一个实例。它们向 RCTUIManager 公开本地视图，RCTUIManager 根据需要委托给它们来设置和更新视图的属性。RCTViewManagers 通常也是视图的代表，通过桥将事件发送回 JavaScript。
 
@@ -255,7 +255,7 @@ export default class Profile extends React.Component {
 
 将这些 Java 类添加到项目中，我通常将它们放在 nativeComponents 文件夹中
 
-[![](../Images/b45bff5dd692e6b5b2a637ed68f12488.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xqTFX_Lx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A7v9qtfOAGPF2lqvWrrOysg.png)
+[![](img/b45bff5dd692e6b5b2a637ed68f12488.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xqTFX_Lx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A7v9qtfOAGPF2lqvWrrOysg.png)
 
 ### RNGradientManager
 

@@ -28,7 +28,7 @@ FBX 似乎是一个 de-factor 标准，尤其是在视频游戏行业，因为 A
 
 我们需要的是一个“用于 3D 的 JPEG”，这正是 Khronos 小组在开放社区的努力下开发并发布的“OpenGL 传输格式”，该规范的 2.0 版本于 2017 年 6 月发布。
 
-[![](../Images/d9be33f8e51bbfeb73cfddc0799c02b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WfPB2cHO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.ybalrid.info/wp-content/uploads/2018/01/glTF_500px_June16-300x150.png)
+[![](img/d9be33f8e51bbfeb73cfddc0799c02b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WfPB2cHO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.ybalrid.info/wp-content/uploads/2018/01/glTF_500px_June16-300x150.png)
 
 这种格式允许以标准格式描述 3D 对象(甚至包括带有灯光、摄像机和动画整个场景)。例如，与 Collada 相反，在 glTF 中没有解释的余地，也没有描述同一事物的两种方式
 
@@ -38,7 +38,7 @@ glTF 基于一个用 JSON 编写的简单场景图描述，以及大量原始资
 
 该标准在其纯文本中通常容易理解，但使用的一些概念通过一些图形更容易理解。谢天谢地，有一个很棒的“glTF 是什么鸭子？”在官方存储库上:
 
-[![glTF overview poster](../Images/7810453c946869bf36cd84b20aa90787.png)T2】](https://raw.githubusercontent.com/KhronosGroup/glTF/master/specification/2.0/figures/gltfOverview-2.0.0a.png)
+[![glTF overview poster](img/7810453c946869bf36cd84b20aa90787.png)T2】](https://raw.githubusercontent.com/KhronosGroup/glTF/master/specification/2.0/figures/gltfOverview-2.0.0a.png)
 
 这张海报描述了你需要了解的关于 glTF 文件格式的大部分内容
 
@@ -46,7 +46,7 @@ glTF 基于一个用 JSON 编写的简单场景图描述，以及大量原始资
 
 这种格式是由 khronos group 开发的，同时还有 blender 的 exporter 的官方实现，它已经得到了业界的大量支持
 
-[![](../Images/afe9757c2227067265992cbf2682fa4d.png)T2】](https://www.khronos.org/assets/uploads/apis/2017-gltf-20-launch-3_10.jpg)
+[![](img/afe9757c2227067265992cbf2682fa4d.png)T2】](https://www.khronos.org/assets/uploads/apis/2017-gltf-20-launch-3_10.jpg)
 
 glTF NASCAR jacked 有一些真正重要的赞助商！
 

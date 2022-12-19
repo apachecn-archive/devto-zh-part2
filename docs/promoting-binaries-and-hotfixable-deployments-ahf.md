@@ -50,7 +50,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 有了在 Octopus 中部署的包中的版本号，这意味着我们现在可以创建一个 powershell 脚本，并将其放入生产部署流程中。该脚本将主分支快进到已经部署的特定提交，保证主分支将准确地指向构建包时开发分支所在的位置。
 
-[![Fast Forward to Master Step](../Images/960207b9b529fc2edfbbd446c9bef05c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QmG0Wh4G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/v1/../images/posts/fast-forward-to-master-step.png)T3】
+[![Fast Forward to Master Step](img/960207b9b529fc2edfbbd446c9bef05c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QmG0Wh4G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/v1/img/posts/fast-forward-to-master-step.png)T3】
 
 ```
 Set-Location -Path "<path to source repository>"
@@ -78,17 +78,17 @@ Enter fullscreen mode Exit fullscreen mode
 
 既然主服务器已经部署到生产构建点，那么就可以从主服务器分支创建修补程序分支，并将其合并回主服务器分支，然后可以使用正常的构建和部署过程来构建和部署主服务器分支，并知道对开发分支所做的任何更改都不会包含在内。在一个理想的世界中，develop 仍然是可部署的，这个过程是不需要的，但是一个保险策略是一个好主意，并且在这种情况下，拥有它是很便宜的。在我的例子中，我在 TeamCity 上为主分支建立了一个单独的构建，它不会自动触发，并且考虑到每个生产部署都会改变主分支，这是最好的。
 
-[![HotFix Lifecycle](../Images/fa17ba7f5375d749211c812f20e83136.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tR_73lST--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.wengier.com/images/posts/hotfix-lifecycle.png)
+[![HotFix Lifecycle](img/fa17ba7f5375d749211c812f20e83136.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tR_73lST--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.wengier.cimg/posts/hotfix-lifecycle.png)
 
 修补程序构建在 Octopus 中的修补程序通道上发布，这样它可以直接部署到 staging，从而避免测试。这种方式测试仍然映射到开发分支，这样过程就不会被中断。指定要使用的通道就是在创建 Octopus 版本的 TeamCity 构建步骤中设置正确的参数。
 
-[![Specify Channel in Octopus](../Images/9cd00fe327e228761bfd53c67516c692.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B58ld6iI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.wengier.com/images/posts/push-to-octopus.png)
+[![Specify Channel in Octopus](img/9cd00fe327e228761bfd53c67516c692.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B58ld6iI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.wengier.cimg/posts/push-to-octopus.png)
 
 我遇到的唯一问题是，因为我没有使用一个“智能”构建号，而只是一个数字递增的构建计数器，第一个修补程序构建实际上没有被 Octopus 部署。查看 TeamCity 和 Octopus 日志可以清楚地看到，虽然构建和发布版本是正确的，但是当选择哪个包进入发布版本时，Octopus 认为修补程序的构建比上一个开发版本旧，这仅仅是因为构建计数器。
 
 为了解决这个问题，我配置了 Octopus release creator 来强制使用一个包版本。因为我们在每一步都使用了提交散列，所以实际的版本号变得无关紧要，所以这看起来是一件非常安全的事情。理论上，如果两个版本指向相同的提交散列，那么一个版本是 v2.0.1 而另一个版本是 v3.56.231 并不重要，它们具有相同的代码，因此将以相同的方式运行。
 
-[![Advanced Octopus Options](../Images/e684400f7f1aa70e70d54f6957e3c967.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8OuM0TSL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.wengier.com/images/posts/push-to-octopus-advanced-options.png)
+[![Advanced Octopus Options](img/e684400f7f1aa70e70d54f6957e3c967.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8OuM0TSL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.wengier.cimg/posts/push-to-octopus-advanced-options.png)
 
 您可能需要在 TeamCity 中单击“显示高级选项”来显示此项。
 

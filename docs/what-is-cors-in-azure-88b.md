@@ -16,11 +16,11 @@ CORS(跨来源资源共享)允许您使用来自不同来源的 API 和数据。
 
 这是一张简单的图片，展示了当你不是一个被允许的起源时会发生什么。
 
-[![without origin](../Images/f1e3651d1747a2a2fc055ad22629c602.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C89ZXxFO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mx142mca3h9giyz6m9er.JPG)
+[![without origin](img/f1e3651d1747a2a2fc055ad22629c602.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C89ZXxFO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mx142mca3h9giyz6m9er.JPG)
 
 这里有一个当你是一个允许的起源:
 
-[![with origin](../Images/41afb8def8fdde6fd92a26698a7b40b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mwJaFtWQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/guevk5k50uxelx1evjbc.JPG)
+[![with origin](img/41afb8def8fdde6fd92a26698a7b40b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mwJaFtWQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/guevk5k50uxelx1evjbc.JPG)
 
 实际上，使用起来非常简单。你所要做的就是在 Azure 里面更新几行代码，然后你就可以开始了。你可以在他们精彩的文档中看到更多:[【1】](https://docs.microsoft.com/en-us/azure/cdn/cdn-cors)[【2】](https://docs.microsoft.com/en-us/rest/api/storageservices/cross-origin-resource-sharing--cors--support-for-the-azure-storage-services)
 

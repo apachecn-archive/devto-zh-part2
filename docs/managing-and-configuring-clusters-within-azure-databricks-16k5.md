@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/willvelida/managing-and-configuring-clusters-within-azure-databricks-16k5>
 
-[![](../Images/a3150d9962ff6fabec1103866635a8c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o5L1DVJk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AZOfeaPs3Ux8lAPszHFYH5A.png)
+[![](img/a3150d9962ff6fabec1103866635a8c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o5L1DVJk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AZOfeaPs3Ux8lAPszHFYH5A.png)
 
 Azure Databricks 中的集群可以为我们这些数据工程师做很多令人敬畏的事情，比如流、生产 ETL 管道、机器学习等等。
 
@@ -27,7 +27,7 @@ Azure Databricks 中的集群可以为我们这些数据工程师做很多令人
 
 使用 UI 创建集群是一件非常简单的事情。在侧边栏中，单击集群图标。然后点击**创建集群**按钮。然后，您可以为该群集提供以下配置设置:
 
-[![](../Images/75ca16485b1c46731561e5ca5c327435.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SGpLjge6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AldptCaTdaP6IaH7kcKtXOQ.png)
+[![](img/75ca16485b1c46731561e5ca5c327435.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SGpLjge6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AldptCaTdaP6IaH7kcKtXOQ.png)
 
 为了降低成本，我选择了一个非常小的集群大小，但正如您从上面的图片中看到的，我们可以为我们的新集群选择以下设置:
 
@@ -46,7 +46,7 @@ Azure Databricks 中的集群可以为我们这些数据工程师做很多令人
 
 通过单击侧栏中的集群图标，可以在 Databricks 工作区中显示集群
 
-[![](../Images/75e6f2d835875b01cf945f74713b7c9d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6737Sw_F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AESXOVT6VauU2McOxQPjYLw.png)
+[![](img/75e6f2d835875b01cf945f74713b7c9d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6737Sw_F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AESXOVT6VauU2McOxQPjYLw.png)
 
 从上图中可以看出，我们可以在集群页面中看到两个列表。一个用于交互式集群，另一个用于作业集群。每个列表包括以下信息:
 
@@ -88,11 +88,11 @@ Azure Databricks 中的集群可以为我们这些数据工程师做很多令人
 
 让我们看看我们集群的日志。为此，我们可以在群集列表中单击它，然后单击 Event Log 选项卡。
 
-[![](../Images/caccfecc6a906a28a7c7ff5b25d4592d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pxbs2gXH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AwJ1IjUbHZ-zbr7LPB91nQA.png)
+[![](img/caccfecc6a906a28a7c7ff5b25d4592d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pxbs2gXH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AwJ1IjUbHZ-zbr7LPB91nQA.png)
 
 正如您所看到的，我没有对这个集群做很多工作。我们可以通过单击某个事件，然后单击 JSON 选项卡来进一步了解更多信息。
 
-[![](../Images/1a6b1438aeceff780d41770c24c67dfa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---RgbsLS2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/568/1%2ASD--jRHS3dgz2er2eGio3g.png)
+[![](img/1a6b1438aeceff780d41770c24c67dfa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---RgbsLS2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/568/1%2ASD--jRHS3dgz2er2eGio3g.png)
 
 **配置我们的集群**
 
@@ -145,7 +145,7 @@ Azure Databricks 安装在 Spark 驱动程序和工作实例上使用 GPU 所需
 1.  群集创建权限。如果您是管理员，您可以选择哪些用户可以创建集群。
 2.  单个群集权限。可以管理群集的用户可以选择哪些用户可以在给定的群集上执行某些操作。
 
-[![](../Images/b3f53e626e24b3c0a52a0b0f32386c81.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PjcD8u_Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AVSIKrWIIGN7Av2e6JUt8hw.png)
+[![](img/b3f53e626e24b3c0a52a0b0f32386c81.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PjcD8u_Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AVSIKrWIIGN7Av2e6JUt8hw.png)
 
 我们可以强制实施集群配置，这样用户就不会乱用它们。如果您确实需要将其锁定，您可以禁用为所有用户创建群集的功能，然后在您根据需要配置群集后，您可以授予需要访问给定群集的用户**可以重新启动**的权限。这允许这些用户启动和停止集群，而不必手动设置配置。
 
@@ -153,7 +153,7 @@ Azure Databricks 安装在 Spark 驱动程序和工作实例上使用 GPU 所需
 
 如果我们在笔记本上运行 Spark 作业，我们可以使用 Spark UI 显示这些作业的信息。我们还可以对终止的集群使用 Spark UI:
 
-[![](../Images/167eb57596496613000ffcf57a4be061.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FyTYg2b8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2As5qWFbfg5DGPaPhRBnDyjQ.png)
+[![](img/167eb57596496613000ffcf57a4be061.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FyTYg2b8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2As5qWFbfg5DGPaPhRBnDyjQ.png)
 
 如果我们重启集群，Spark UI 将被新的替换。
 
@@ -199,7 +199,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们可以看到连接到集群的笔记本电脑，以及它们在集群详细信息页面上的状态。当您停止使用笔记本电脑时，应该将其从集群中分离出来，以释放驱动程序上的内存空间。
 
-[![](../Images/1aa4c3de99195d5d76f9fbfb90e95ddb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rr8qiFe1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AUVyrpBXZ7V_6pMHN9w8SVQ.png)
+[![](img/1aa4c3de99195d5d76f9fbfb90e95ddb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rr8qiFe1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AUVyrpBXZ7V_6pMHN9w8SVQ.png)
 
 **鳍**
 

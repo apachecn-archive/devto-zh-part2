@@ -6,4 +6,4 @@
 
 [读下去🤖📱](https://auth0.com/blog/best-practices-in-android-development/?utm_source=dev&utm_medium=sc&utm_campaign=android_best_practices)
 
-[![Best Practices in Android Development](../Images/52099c1679db95cf4d35948fe9e35184.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hijYbdti--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b5q2rmlv0yw3iw1a6v8s.png)
+[![Best Practices in Android Development](img/52099c1679db95cf4d35948fe9e35184.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hijYbdti--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b5q2rmlv0yw3iw1a6v8s.png)

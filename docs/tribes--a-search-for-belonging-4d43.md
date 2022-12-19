@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/pavsaund/tribes--a-search-for-belonging-4d43>
 
-[![](../Images/5976afa9e1cea5c0ebbfc7cff628f56f.png)T2】](https://cdn-images-1.medium.com/max/1024/1*gHxQaC66S9c5Oe51laYYKg.jpeg)
+[![](img/5976afa9e1cea5c0ebbfc7cff628f56f.png)T2】](https://cdn-images-1.medium.com/max/1024/1*gHxQaC66S9c5Oe51laYYKg.jpeg)
 
 找到你的部落并不容易。这是一个充满失误的漫长旅程。你可能一辈子都是一个部落的一部分。为了安全起见，你可能会四处寻找其他部落，然后潜回你原来的部落。其他时候你需要找到另一个属于你自己的。有时候你需要和你身边最亲近的人开始自己的生活。其他时候，你只需要开始，并希望其他人会跟随。
 

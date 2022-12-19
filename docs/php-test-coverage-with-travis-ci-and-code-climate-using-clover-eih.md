@@ -7,7 +7,7 @@
 #### 1。获取您的代码气候测试记者 ID
 
 导航到“回购设置->测试覆盖”，如下图所示
-[![Code Climate Image](../Images/648e7414a6238f27177338e24739f136.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NnDhvnWW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/acho-arnold-cf/image/upload/v1539644048/Screenshot_2018-10-15_23.49.21_gxhz7l.jpg)
+[![Code Climate Image](img/648e7414a6238f27177338e24739f136.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NnDhvnWW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/acho-arnold-cf/image/upload/v1539644048/Screenshot_2018-10-15_23.49.21_gxhz7l.jpg)
 
 #### 2。配置您的. travis.yml 文件
 

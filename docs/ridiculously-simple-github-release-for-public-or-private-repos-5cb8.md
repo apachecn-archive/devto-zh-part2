@@ -27,4 +27,4 @@ Please 是一个 bash 脚本，用于在 Github 中自动发布新版本，支�
 
 下面是它漂亮的用户界面的预览:
 
-[![Help Preview](../Images/60579c80114b4e336c9b7d20110ea7ba.png "Help Preview")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1RImjYnF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgur.com/zxc5deM.png)
+[![Help Preview](img/60579c80114b4e336c9b7d20110ea7ba.png "Help Preview")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1RImjYnF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgur.com/zxc5deM.png)

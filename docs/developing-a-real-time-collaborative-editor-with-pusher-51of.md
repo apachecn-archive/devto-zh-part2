@@ -6,4 +6,4 @@
 
 [读下去🏄🏻‍♂️](https://auth0.com/blog/developing-a-real-time-collaborative-editor-with-pusher/?utm_source=dev&utm_medium=sc&utm_campaign=pusher_nodejs)
 
-[![Developing a Real-Time, Collaborative Editor with Pusher](../Images/5491850a6fe60c5c0265c6f2e7a3918d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DamFsiky--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eir27aat1sznqbvggzm9.png)
+[![Developing a Real-Time, Collaborative Editor with Pusher](img/5491850a6fe60c5c0265c6f2e7a3918d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DamFsiky--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eir27aat1sznqbvggzm9.png)

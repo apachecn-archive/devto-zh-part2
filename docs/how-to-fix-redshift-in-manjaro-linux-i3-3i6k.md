@@ -27,7 +27,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 并且在尝试启动`redshift-gtk`时看到这个对话框:
 
-[![redshift-gtk error](../Images/76219fe0c0484e3a2e6957df9247adfc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tFboC-Ha--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lobotuerto.com/blog/how-to-fix-redshift-in-manjaro-linux-i3/redshift-gtk-error.png)
+[![redshift-gtk error](img/76219fe0c0484e3a2e6957df9247adfc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tFboC-Ha--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lobotuerto.com/blog/how-to-fix-redshift-in-manjaro-linux-i3/redshift-gtk-error.png)
 
 从那以后，它再也没有工作过，即使是最新版本的`geoclue2`和`redshift` :
 

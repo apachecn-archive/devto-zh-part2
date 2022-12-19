@@ -4,7 +4,7 @@
 
 每周 [*安德烈斯·西德尔*](https://medium.com/@andres_49956)*7 月 22 日* [*免费加入*](https://www.getrevue.co/profile/Andres-from-Jexia/issues/react-ninjas-newsletter-issue-12-121460?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=React+Ninjas+Newsletter) *或添加* 
 
-<figure>[![](../Images/29c64ae328100d4194b77b06e57c25a4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UYgundjW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t6kxnuqqtpl0hv8bh1dk.jpg) 
+<figure>[![](img/29c64ae328100d4194b77b06e57c25a4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UYgundjW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t6kxnuqqtpl0hv8bh1dk.jpg) 
 
 <figcaption>形象由[达尼洛](https://www.linkedin.com/in/danilowoz/)</figcaption>
 

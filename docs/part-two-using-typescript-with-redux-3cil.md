@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ganderzz/part-two-using-typescript-with-redux-3cil>
 
-[![Click Here](../Images/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/5w70j1916l)
+[![Click Here](img/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/5w70j1916l)
 
 # 第二部分:使用带有 ~~React~~ Redux 的打字稿
 

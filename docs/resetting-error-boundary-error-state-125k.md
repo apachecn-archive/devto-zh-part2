@@ -22,7 +22,7 @@
 
 ***信用:*** *演示程序由 [Brian Vaugn](https://twitter.com/brian_d_vaughn/) 在 [CodeSandBox](https://codesandbox.io/s/k9znx9kj9r) 上创建。*
 
-<figure>[![Error Boundary Reset Demo](../Images/7b7cd96132e5666dd38e03d10b5e58d6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ig2Iqvuw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i2.wp.com/www.slightedgecoder.com/wp-content/uploads/2018/09/demo.gif%3Fw%3D1170%26ssl%3D1) 
+<figure>[![Error Boundary Reset Demo](img/7b7cd96132e5666dd38e03d10b5e58d6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ig2Iqvuw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i2.wp.com/www.slightedgecoder.com/wp-content/uploads/2018/09/demo.gif%3Fw%3D1170%26ssl%3D1) 
 
 <figcaption>错误边界重置演示</figcaption>
 

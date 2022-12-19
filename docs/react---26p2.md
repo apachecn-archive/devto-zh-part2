@@ -80,7 +80,7 @@ Facebook 不希望出现这样的情况:在调节水稻功能相关的东西时�
 
 下面我们来看看 Facebook 近况报告的图片，看看其中组成了什么组件。
 
-[![](../Images/a19b07fd25e5c1786b52293c3dfe52af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eUFtEFy0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zen-of-programming.com/react-intro/facebook-status.png)
+[![](img/a19b07fd25e5c1786b52293c3dfe52af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eUFtEFy0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zen-of-programming.com/react-intro/facebook-status.png)
 
 近况报告本身将会是一个组件――Facebook 的时间线上有很多近况报告。
 因此，您一定会想要重用近况报告组件。
@@ -90,12 +90,12 @@ Facebook 不希望出现这样的情况:在调节水稻功能相关的东西时�
 
 子组件组可能看起来是这样的:
 
-[![](../Images/5e6f164b4ceeb9c94cd4507e88c9f6dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--35EZBJTW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zen-of-programming.com/react-intro/components.png)
+[![](img/5e6f164b4ceeb9c94cd4507e88c9f6dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--35EZBJTW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zen-of-programming.com/react-intro/components.png)
 
 子组件中甚至可以有子组件！
 因此，水稻( Like ) /评论( Comment ) /共享( Share )的集合体本身就成为`ActionBar`成分，在其中进行水稻/评论/共享的处理
 
-[![](../Images/4423c4770ef64a3e1421c646ce552a95.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--02O2IAbH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zen-of-programming.com/react-intro/subcomponents.png)
+[![](img/4423c4770ef64a3e1421c646ce552a95.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--02O2IAbH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zen-of-programming.com/react-intro/subcomponents.png)
 
 有很多方法可以帮助您组织这些组件和子组件，同时考虑到在 APP 中的何处重用它们的功能。
 
@@ -230,7 +230,7 @@ Babel 通过将 JSX 转换(或转换)为普通的 JavaScript，使浏览器能�
 
 添加一些 CSS 后，看起来会像这样:
 
-[![](../Images/d405bfd4b3bed775b8e3cb4be9735a43.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HQbbgK94--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zen-of-programming.com/react-intro/status-component.png)
+[![](img/d405bfd4b3bed775b8e3cb4be9735a43.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HQbbgK94--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zen-of-programming.com/react-intro/status-component.png)
 
 [这边有给 CodePen 制作的开始代码。](https://codepen.io/aspittel/pen/KxzGdx)
 
@@ -698,7 +698,7 @@ const LikeIcon = () => {
 我喜欢图表。
 于是，根据这次的投稿内容，做了一个！
 
-[![](../Images/12b15d6f4ebb76ab5d84eceae29ebaca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N1ozSgPC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zen-of-programming.com/react-intro/cheatsheet.png)
+[![](img/12b15d6f4ebb76ab5d84eceae29ebaca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N1ozSgPC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zen-of-programming.com/react-intro/cheatsheet.png)
 
 [也可以从这里作为](https://zen-of-programming.com/react-intro/cheatsheet.pdf)PDF 下载！
 

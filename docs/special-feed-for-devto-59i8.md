@@ -12,7 +12,7 @@
 
 在前面的问题中我有一个`repost`变量是这样的:
 
-<figure>[![(side note: need to fix the highlighting/rendering of markdown code in posts...)](../Images/d986c6d875d2057dc3edb2fed6d6739c.png "(side note: need to fix the highlighting/rendering of markdown code in posts...)")](https://res.cloudinary.com/practicaldev/image/fetch/s--F_tJsfnz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.anonjr.com/img/2018-11-04-frontmatter.png) 
+<figure>[![(side note: need to fix the highlighting/rendering of markdown code in posts...)](img/d986c6d875d2057dc3edb2fed6d6739c.png "(side note: need to fix the highlighting/rendering of markdown code in posts...)")](https://res.cloudinary.com/practicaldev/image/fetch/s--F_tJsfnz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.anonjr.com/img/2018-11-04-frontmatter.png) 
 
 <figcaption>
 (旁注:需要修复帖子中 markdown 代码的高亮/渲染...)
@@ -24,7 +24,7 @@ T8】</figure>
 
 现在有一个`todev.to.xml`过滤器过滤我想重新发布的帖子。
 
-<figure>[![](../Images/ef928c9920bec9b2c3c538d859853c53.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5k_c4uAs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.anonjr.com/img/2018-11-04-devtoxml.png) 
+<figure>[![](img/ef928c9920bec9b2c3c538d859853c53.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5k_c4uAs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.anonjr.com/img/2018-11-04-devtoxml.png) 
 
 <figcaption>
 </figcaption>

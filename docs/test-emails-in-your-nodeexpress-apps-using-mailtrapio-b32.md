@@ -10,7 +10,7 @@
 
 在这个简短的例子中，我将向您展示我如何在 Node 中进行沙盒电子邮件测试。如果你想跟随，请从 github 下载或克隆[项目](https://github.com/KwabenBerko/mailtrap-tutorial)。在您的终端中打开项目，并使用`npm install`安装所需的 npm 包。一旦安装好，`cd`进入开始文件夹，在你喜欢的编辑器中打开`app.js`文件。如果你还没有这样做，那就去 [mailtrap](https://mailtrap.io/) 网站创建一个免费账户。一旦完成，导航到[收件箱](https://mailtrap.io/inboxes)，你应该看到你的 SMTP 和 POP3 凭证。
 
-[![Mailtrap inbox](../Images/8155a6e7ecb386dc4d62161b9850af3c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vmmES1UX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/rxiLkdI.png)
+[![Mailtrap inbox](img/8155a6e7ecb386dc4d62161b9850af3c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vmmES1UX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/rxiLkdI.png)
 
 我们将使用 [nodemailer](https://www.npmjs.com/package/nodemailer) 模块发送我们的电子邮件。让我们创建一个节点邮件 SMTP 传输器，并对其进行配置以供使用。
 
@@ -76,9 +76,9 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们通过检查我们的邮件陷阱[收件箱](https://mailtrap.io/inboxes)来看看是否是这种情况。
 
-[![Mailtrap inbox](../Images/aec9ca79a00530517b120c1ab01f2866.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KZ8_U_zj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Y6S6Ixi.png)
+[![Mailtrap inbox](img/aec9ca79a00530517b120c1ab01f2866.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KZ8_U_zj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Y6S6Ixi.png)
 
-[![Mailtrap inbox 2](../Images/7fc3536a1d641641adad7adcb41365fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JSjqETUc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/tZdD3y1.png)
+[![Mailtrap inbox 2](img/7fc3536a1d641641adad7adcb41365fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JSjqETUc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/tZdD3y1.png)
 
 如您所见，Mailtrap 允许您轻松地测试发送电子邮件，如上所述。本例中使用的 Node.js 应用程序使用了 [Nodemailer](https://nodemailer.com) 来发送电子邮件，但是还有其他传输选项和电子邮件包。如果您正在寻找 Nodemailer 的替代品，请查看这篇文章:[用 Node.js](https://blog.mailtrap.io/send-emails-with-nodejs/) 发送电子邮件。这篇文章深入介绍了一些面向电子邮件的包，如 [Email.js](https://www.emailjs.com/) ，以及如何使用 Gmail 从 Node.js 应用程序发送邮件。
 

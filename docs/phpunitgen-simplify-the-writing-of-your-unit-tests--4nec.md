@@ -4,7 +4,7 @@
 
 ## 这篇文章过时了。看看新的:
 
-[![paulthebaud image](../Images/ab5d89f5296fb0ed5cda506c0a99e36a.png)](/paulthebaud) [## PhpUnitGen，测试，新方法！
+[![paulthebaud image](img/ab5d89f5296fb0ed5cda506c0a99e36a.png)](/paulthebaud) [## PhpUnitGen，测试，新方法！
 
 ### 保罗·泰博
 
@@ -17,7 +17,7 @@
 
 PhpUnitGen 旨在让您的睡衣和应用程序得到更好的测试！
 
-[![](../Images/b964594a8a87c2f627409d3f3505d6ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I2t-hF80--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.github.com/paul-thebaud/phpunit-generator-assets/master/logos/logo.svg%3Fsanitize%3Dtrue)
+[![](img/b964594a8a87c2f627409d3f3505d6ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I2t-hF80--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.github.com/paul-thebaud/phpunit-generator-assets/master/logos/logo.svg%3Fsanitize%3Dtrue)
 
 **PhpUnitGen** 是一个**在线**或**终端**开发工具，用于为 *PHP* 代码生成你的单元测试框架。
 

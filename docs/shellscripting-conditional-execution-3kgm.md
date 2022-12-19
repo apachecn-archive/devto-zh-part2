@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/puritanic/shellscripting-conditional-execution-3kgm>
 
-[![Alt text of image](../Images/d59c433d6576de368e4b6e0ffc71e895.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t6fTV7OT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mzfpomwt6xfadtk9lpei.png)
+[![Alt text of image](img/d59c433d6576de368e4b6e0ffc71e895.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t6fTV7OT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mzfpomwt6xfadtk9lpei.png)
 
 这是 shell 脚本系列的第二部分。如果你错过了，你可以在这里找到第一部分[。](https://dev.to/puritanic/shellscripting-27bl)
 

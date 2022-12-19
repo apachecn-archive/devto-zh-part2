@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/makingloops/the-art-of-refactoring-i-evaluating-the-code-blob-3dec>
 
-[![Pizza by Tom Brown, 2011](../Images/6a216a04e58c28c6a7223eec6a2d5381.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rvMJkSsI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://purple.pizza/public/art-of-refactoring-part-1.jpg)
+[![Pizza by Tom Brown, 2011](img/6a216a04e58c28c6a7223eec6a2d5381.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rvMJkSsI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://purple.pizza/public/art-of-refactoring-part-1.jpg)
 
 你有没有遇到过一些代码，你知道它们看起来…是错误的，但是却不确定用什么策略来修复它？
 

@@ -4,7 +4,7 @@
 
 灵感来自布莱恩·奥斯普丘克的藏书
 
-[![bosepchuk image](../Images/4a2750bf6275f976448741ffad56eee7.png)](/bosepchuk) [## 29 程序员必读的书
+[![bosepchuk image](img/4a2750bf6275f976448741ffad56eee7.png)](/bosepchuk) [## 29 程序员必读的书
 
 ### Blaine Osepchuk 11 月 14 日 187 分钟阅读
 

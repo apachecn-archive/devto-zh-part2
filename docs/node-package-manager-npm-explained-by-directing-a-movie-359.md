@@ -19,7 +19,7 @@
 
 思考了一会儿之后，我意识到使用 NPM 有点像是在导演一部好莱坞电影。你的工作是让一群人(或软件包)变戏法一样拥有专门的功能，而不使每个人都疯狂(或使你的应用无法构建)。
 
-[![](../Images/77ee8817083babb15b20eec74988b9c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JxmTkHV4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/09/OverviewNPM.jpg)
+[![](img/77ee8817083babb15b20eec74988b9c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JxmTkHV4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/09/OverviewNPM.jpg)
 
 这是 NPM 的完整指南。为了理解这个教程，你只需要知道前端 v .后端的[区别。](https://blog.codeanalogies.com/2018/04/07/front-end-v-back-end-explained-by-waiting-tables-at-a-restaurant/)
 
@@ -33,13 +33,13 @@
 
 如果你想雇佣一个团队，你需要查看一些目录来找到合适的人。我不知道好莱坞是否有某种内部目录，但我想到的是 IMDB。或者，在互联网出现之前，甚至可能有一个实体目录。
 
-[![](../Images/fb1ec66b33ee2ae401874c27ec2824ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---4fSEZJm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/09/NPMDirectoryBasics.png)
+[![](img/fb1ec66b33ee2ae401874c27ec2824ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---4fSEZJm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/09/NPMDirectoryBasics.png)
 
 就像 IMDB 拥有成千上万名演员的信息，你可以利用这些信息做出招聘决定一样，NPM 拥有成千上万个提供专门功能的“包”。它们都是用 JavaScript 编写的，所以从技术上讲，你可以重写它们…但这不是重点。它们旨在通过提供即时可用的新功能来简化您的生活。
 
 这就像雇佣一个知名的男演员/女演员——由于过去的经验，这个人是某类角色的专家。
 
-[![](../Images/058f11a6b8d1727f35db7637b34b6a1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qhL-EpOt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/09/limaneeson.jpg)
+[![](img/058f11a6b8d1727f35db7637b34b6a1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qhL-EpOt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/09/limaneeson.jpg)
 
 我们都知道连姆·尼森的特产
 
@@ -47,7 +47,7 @@
 
 在您的代码中，所有这些包都在 package.json 文件中进行跟踪。所以，这个文件有点像电影中的人员名单。以下是该列表的一个示例:
 
-[![](../Images/8275b06d849b5a584078cc1919aea677.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hsTv20nh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/09/packageexample.png)
+[![](img/8275b06d849b5a584078cc1919aea677.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hsTv20nh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/09/packageexample.png)
 
 我们将在本教程的后面讨论这些版本。
 
@@ -61,21 +61,21 @@
 
 你知道电影《超级骑兵》吗？这是一部经典喜剧，预算只有 300 万美元。然而，大多数优秀的电影花费了 10-100 100 万美元.你可以从头开始构建一个不可思议的 web 应用程序…但是你可能想使用包。
 
-[![](../Images/649c235f86fca3b438a9b1ff42d30683.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NEuRHXBe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/09/Supertrooper.jpg)
+[![](img/649c235f86fca3b438a9b1ff42d30683.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NEuRHXBe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/09/Supertrooper.jpg)
 
 比方说，你正在为你的电影聘请美国著名演员马克·沃尔伯格。当马克加入你的电影，不仅仅是他加入！他有一个支持他并使他成功的团队。厨师…教练…经纪人…
 
-[![](../Images/f2ba288b9d91e23468abee67b556382c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QRJwqs03--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/09/dependenciesex.png)
+[![](img/f2ba288b9d91e23468abee67b556382c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QRJwqs03--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/09/dependenciesex.png)
 
 同样，每个独立的软件包也不是独立运行的。软件包的作者使用其他 NPM 软件包来使他们的生活更容易。事实上，他们的包将与其他包共享一些依赖关系，就像马克·沃尔伯格可能与其他男女演员共享一个私人厨师一样。
 
 下面是[请求](https://www.npmjs.com/package/request)的依赖项列表，这是一个流行的包:
 
-[![](../Images/07cb1ae74598c2d2c07dd9f6310be311.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2i16Apkf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/09/realdepex.png)
+[![](img/07cb1ae74598c2d2c07dd9f6310be311.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2i16Apkf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/09/realdepex.png)
 
 所以让我们回到上面的 package.json 示例:
 
-[![](../Images/8275b06d849b5a584078cc1919aea677.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hsTv20nh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/09/packageexample.png)
+[![](img/8275b06d849b5a584078cc1919aea677.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hsTv20nh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/09/packageexample.png)
 
 当你把“ *axios* ”包添加到你的应用时，你不仅仅是添加了 axios 文件。如果您之前没有在另一个包中添加过依赖项，那么您也添加了 *axios* 文件需要的任何依赖项。这些没有明确说明，但是你总是可以在*节点模块*文件夹中找到它。
 
@@ -89,7 +89,7 @@
 
 把它想象成处于事业不同阶段的男演员/女演员。有些人可能在他们的职业生涯中扮演类似的角色，而有些人可能会发生巨大的变化。
 
-[![](../Images/ab7ff58ec1ddc2ff57b487e3533a625d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B5_l0GmU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/09/a_clint.jpg)
+[![](img/ab7ff58ec1ddc2ff57b487e3533a625d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B5_l0GmU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/09/a_clint.jpg)
 
 *年轻的与年老的克林特·伊斯特伍德*
 
@@ -111,7 +111,7 @@
 
 您可以在 package.json 文件的“脚本”部分添加新命令。一个常见的是“开始”，意思是“开始运行节点服务器”。看起来是这样的:
 
-[![](../Images/cc1d4c68fa7b821a8d72720eea0576bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jMFn6pCo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/09/nodeServerrun.png%3Ffit%3D232%252C45%26ssl%3D1)
+[![](img/cc1d4c68fa7b821a8d72720eea0576bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jMFn6pCo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/09/nodeServerrun.png%3Ffit%3D232%252C45%26ssl%3D1)
 
 有点像导演喊“开拍！”。
 
@@ -128,15 +128,15 @@
 1.  生产和本地使用的包
 2.  仅在本地使用的包
 
-[![](../Images/a8985dced935395c114007e96daf9efb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--voLpqRly--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/09/LocalvProdDependencies.png)
+[![](img/a8985dced935395c114007e96daf9efb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--voLpqRly--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/09/LocalvProdDependencies.png)
 
 [Grunt](https://gruntjs.com/) 是一个任务运行器，可以在命令行上自动执行重复的命令。 [Nodemon](https://github.com/remy/nodemon) 在你的服务器代码发生任何变化时自动重启你的服务器。
 
 在 package.json 文件中，它们被分成两个部分:dependencies 和 devDependencies。看起来是这样的:
 
-[![](../Images/6a309dfb73b8510765bb516943d2ae93.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dQAYAb2n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/09/dependciessection.png%3Ffit%3D254%252C63%26ssl%3D1)
+[![](img/6a309dfb73b8510765bb516943d2ae93.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dQAYAb2n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/09/dependciessection.png%3Ffit%3D254%252C63%26ssl%3D1)
 
-[![](../Images/61a617f72a06983dd9299aed464fdde5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hjw-qA8r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/09/devdependenciessection.png)
+[![](img/61a617f72a06983dd9299aed464fdde5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hjw-qA8r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/09/devdependenciessection.png)
 
 ## 获取最新教程
 

@@ -4,7 +4,7 @@
 
 #### 这个我不太清楚，但我会尽力而为！
 
-<figure>[![](../Images/cf8cce21689fb7f7f1f6df66f6c8a82f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iji0RvMQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AtBVSKJKhdg4Bhsxe.jpg)
+<figure>[![](img/cf8cce21689fb7f7f1f6df66f6c8a82f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iji0RvMQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AtBVSKJKhdg4Bhsxe.jpg)
 
 <figcaption>[德赛平原(巴基斯坦)](https://en.wikipedia.org/wiki/Deosai_National_Park)</figcaption>
 
@@ -22,7 +22,7 @@
 
 学生们一直在使用这些。从教师的角度来看，是对学生能力的信念和信任。从学生的角度来看，这是展示和表演的勇气和信心。
 
-<figure>[![](../Images/de2627437f8d484a396155679615b05d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JAQ3hvDI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AkxX7JRktl-jggN2e.jpg) 
+<figure>[![](img/de2627437f8d484a396155679615b05d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JAQ3hvDI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AkxX7JRktl-jggN2e.jpg) 
 
 <figcaption>形象学分:[定额](https://quotefancy.com/quote/943315/Zig-Ziglar-You-are-the-only-person-on-earth-who-can-use-your-ability)</figcaption>
 
@@ -46,7 +46,7 @@
 
 令人惊讶的是，我设法在 15 分钟内写出了完全相同的程序，而我在那里 30 分钟都写不出来。那是什么问题呢？为什么我不能写在那里？我有各种奇怪的问题，但没有答案。
 
-<figure>[![](../Images/7134ed0e859f5dbcb1eb37d5f2c39a0f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Lr8OnZDW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ACcw1MmhhOMtKLcd1.jpg) 
+<figure>[![](img/7134ed0e859f5dbcb1eb37d5f2c39a0f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Lr8OnZDW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ACcw1MmhhOMtKLcd1.jpg) 
 
 <figcaption>形象学分:[定额](https://quotefancy.com/quote/943315/Zig-Ziglar-You-are-the-only-person-on-earth-who-can-use-your-ability)</figcaption>
 
@@ -60,7 +60,7 @@
 
 在那段抑郁的日子里，这正是我所需要的。一剂动力。一剂自信。一剂去除低估自己能力的药剂。
 
-<figure>[![](../Images/40677a12e1db09a727a140bc9cb40e00.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jbGMW2gm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AMgmDXA2EuOyCgcae.jpg) 
+<figure>[![](img/40677a12e1db09a727a140bc9cb40e00.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jbGMW2gm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AMgmDXA2EuOyCgcae.jpg) 
 
 <figcaption>图片来源:[机智的引用](https://www.brainyquote.com/)</figcaption>
 
@@ -74,7 +74,7 @@
 
 但是仅仅有信仰是不够的。努力工作、激情和坚持不懈会让你的梦想变成现实。所有伟大的梦想都是从我能做到这一点的信念开始的。
 
-[![](../Images/d1f76b966781e773f92165cfc4f2820a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mvf7QLrn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/480/0%2AHcEjiKswKKnr5tW2.jpg)
+[![](img/d1f76b966781e773f92165cfc4f2820a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mvf7QLrn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/480/0%2AHcEjiKswKKnr5tW2.jpg)
 
 在日常生活中，我们经常低估自己和自己的能力。如果有人称赞我们，我们很容易归咎于运气和财富。相反，我们应该说谢谢并接受赞美。我并不是不相信运气或祈祷之类的东西。事实上，我非常相信这些事情。但是没有努力、激情和坚持，这些都不行。
 

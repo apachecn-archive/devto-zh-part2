@@ -17,10 +17,10 @@
 *   彩色图像的每个像素都有一组(红、绿、蓝)值，而灰度图像只有一个值，在普通图像中每个像素值的范围是(0，255)
 
 所以我学院的学生登录入口是这样的:
-[![captcha](../Images/f8df213ebc78cff3b49cb8c1f6cdfa26.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vRGbkrHa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rmofwzej21jh71xsfqc4.png)
+[![captcha](img/f8df213ebc78cff3b49cb8c1f6cdfa26.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vRGbkrHa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rmofwzej21jh71xsfqc4.png)
 
 首先，我对这幅图像做了一些非常有用的观察。
-[![captchaimage](../Images/0631f4448f022f08d1325cbc3b0d551c.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--kFUJr3GW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0bkp32nghrtt702e7ow9.png)
+[![captchaimage](img/0631f4448f022f08d1325cbc3b0d551c.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--kFUJr3GW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0bkp32nghrtt702e7ow9.png)
 
 *   验证码中的字符数始终为 6，并且是灰度图像。
 *   字符之间的间距看起来非常稳定
@@ -28,7 +28,7 @@
 *   该图像有许多分散的暗像素和穿过图像的线条。
 
 所以我最终下载了一张这样的图片，并使用这个[工具](https://www.dcode.fr/binary-image)将图片二进制化(0 代表黑色像素，1 代表白色像素)。
-T3![captchabinary](../Images/ca04e5f1f133f2ac00250256fa4bf683.png)T5】
+T3![captchabinary](img/ca04e5f1f133f2ac00250256fa4bf683.png)T5】
 
 我的观察是正确的——图像尺寸为 45x180，每个字符被分配了 30 个像素的空间，从而使它们均匀分布。就这样，我迈出了第一步，那就是
 
@@ -53,7 +53,7 @@ cropped_image.save("cropped_image.png")
 ```
 
 保存的图像:
-[![cropped_image](../Images/437be81c7bd7ad0668b913c379351ba1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HuuC_L0G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/swnchtyrjurey6eq0n5o.png)
+[![cropped_image](img/437be81c7bd7ad0668b913c379351ba1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HuuC_L0G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/swnchtyrjurey6eq0n5o.png)
 
 我将它包装在一个循环中，编写了一个简单的脚本，从网站上获取 500 张验证码图片，并将所有被裁剪的字符保存到一个文件夹中。
 
@@ -72,9 +72,9 @@ image.save("thresholded_image.png")
 
 为了清楚起见，我将代码应用于原始图像。
 原:
-[![original](../Images/0631f4448f022f08d1325cbc3b0d551c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kFUJr3GW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0bkp32nghrtt702e7ow9.png) 
+[![original](img/0631f4448f022f08d1325cbc3b0d551c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kFUJr3GW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0bkp32nghrtt702e7ow9.png) 
 修改:
-[![thresholded-full](../Images/b935482d753c7520e19618bc183600c8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AgeBVUJZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kevfn6x9jnk6xjzbv2cd.png) 
+[![thresholded-full](img/b935482d753c7520e19618bc183600c8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AgeBVUJZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kevfn6x9jnk6xjzbv2cd.png) 
 所以你可以看到，所有没有完全变暗的像素都被去掉了。这包括穿过图像的线。
 直到项目完成后，我才知道上面的方法在图像处理中被称为阈值法。
 
@@ -93,14 +93,14 @@ for column in range(1, image.height - 1):
 ```
 
 输出:
-[![nostray_image](../Images/e4eeae5216c3914b959ad699b1703b70.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--b23gk26o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/89wib4l8i8d0jvtfqfnt.png)
+[![nostray_image](img/e4eeae5216c3914b959ad699b1703b70.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--b23gk26o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/89wib4l8i8d0jvtfqfnt.png)
 
 所以你看，形象已经被还原为单个人物本身了！尽管看起来有些角色已经丢失了基本像素，但是它们可以作为很好的骨架供其他图像进行比较。毕竟，我们做这么多改变的主要原因是为了给每个可能的角色生成一个合适的图像。
 
 我将上述算法应用于所有被裁剪的字符，并将它们存储在一个新文件夹中。接下来的任务是为属于“abcdefghijklmnopqrstuvwxyz 0123456789”的每个字符命名至少一个样本。这一步就像“训练”步骤，我为每个人手动选择了一个角色图像，并给它们重新命名。
 
 完成这一步后，我有了每个角色的骨架图像！
-[![skeleton](../Images/c6bf3d6e7a90cd8299928d1dd135cb91.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--n-TNtKQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/opo3w6q7i3xvmk6sk5ns.png)
+[![skeleton](img/c6bf3d6e7a90cd8299928d1dd135cb91.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--n-TNtKQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/opo3w6q7i3xvmk6sk5ns.png)
 
 我运行了几个其他脚本来获得一个角色的所有图像中的最佳图像——例如，如果有 20 个“A”字符图像，具有最少暗像素的图像显然是具有最少噪声的图像，因此最适合骨架图像。所以有两个剧本:
 
@@ -149,7 +149,7 @@ for column in range(1, image.height - 1):
 ```
 
 而我们得到的最终结果是:
-[![Final](../Images/b5046afa3f4b5a4a1920b763193666f3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OzF62MaO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d2qh7yna5z0p0z9bdvbo.png)
+[![Final](img/b5046afa3f4b5a4a1920b763193666f3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OzF62MaO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d2qh7yna5z0p0z9bdvbo.png)
 
 也就是 z5m 3 MQ——验证码已经解决成功了！
 

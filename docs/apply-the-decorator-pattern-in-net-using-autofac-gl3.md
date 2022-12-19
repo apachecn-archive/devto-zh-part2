@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/engberrg/apply-the-decorator-pattern-in-net-using-autofac-gl3>
 
-[![](../Images/37be4d8c483946721b66ea7fe94af0e0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5-6i416_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/960/1%2ACl1FLSzewuybqI18Gliv8w.png) 
+[![](img/37be4d8c483946721b66ea7fe94af0e0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5-6i416_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/960/1%2ACl1FLSzewuybqI18Gliv8w.png) 
 
 <figcaption>俄罗斯娃娃——比喻扩展给定功能的行为。图片借用自 [Maxpixel](http://maxpixel.freegreatpicture.com/Traditional-Russian-Toy-Russian-Doll-Russian-1090697) 。</figcaption>
 

@@ -10,7 +10,7 @@ Slack 是一种工具，它允许团队以一种介于即时消息和电子邮�
 
 Slack 应用目录于 2015 年推出，目前已经发展到 700 多个应用([2017 年 10 月](https://techcrunch.com/2018/05/08/slack-hits-8-million-daily-active-users-with-3-million-paid-users/))。应用程序可以通过广泛的 API 深度集成到 Slack 客户端中。最常见的用法是实现(聊天)机器人。
 
-<figure>![](../Images/fbb2385a86d55e7f3c84e74033ef157f.png)
+<figure>![](img/fbb2385a86d55e7f3c84e74033ef157f.png)
 
 <figcaption>Trello example: I can add tickets to my board from within Slack with their chatbot.</figcaption>
 
@@ -31,7 +31,7 @@ Slack 表现出对其应用生态系统的高度承诺，这可以从他们广�
 
 Slack 将其应用市场命名为[应用目录](https://www.slack.com/apps)。从主 Slack 客户端可以很容易地访问 App 目录。每个团队(一组用户)可以免费安装多达 10 个应用程序。只有付费计划的用户才能安装更多应用。据报道，有超过 300 万用户(37%来自 DAU)——不幸的是，更多关于有多少球队付费或应用程序使用的统计数据没有公开。
 
-<figure>![](../Images/b3b5258938333393da6cc7589593a514.png)
+<figure>![](img/b3b5258938333393da6cc7589593a514.png)
 
 <figcaption>Get Essential Apps, that is a strong CTA.</figcaption>
 
@@ -47,7 +47,7 @@ Slack 将其应用市场命名为[应用目录](https://www.slack.com/apps)。�
 
 ### 浏览:
 
-<figure>![](../Images/d96dd8a8459561e1e4e526a107bdf538.png)
+<figure>![](img/d96dd8a8459561e1e4e526a107bdf538.png)
 
 <figcaption>Staff Picks list curated apps, and every category also highlight a top 3.</figcaption>
 
@@ -63,7 +63,7 @@ Slack 将其应用市场命名为[应用目录](https://www.slack.com/apps)。�
 
 ### 应用程序页面:
 
-<figure>![](../Images/bae5db857f03b97fe9d2732c953b5ee1.png)
+<figure>![](img/bae5db857f03b97fe9d2732c953b5ee1.png)
 
 <figcaption>Well designed, but maybe a bit too clean?</figcaption>
 
@@ -110,7 +110,7 @@ Slack API 是成熟稳定的。大量的[方法](https://api.slack.com/methods)�
 
 但总的来说——在我看来——这是一个非常高质量的产品，开发者可以在上面开始构建。
 
-<figure>![](../Images/422e61710d8e3b2231cc6ba498bb5b80.png)
+<figure>![](img/422e61710d8e3b2231cc6ba498bb5b80.png)
 
 <figcaption>This is how you do documentation people!</figcaption>
 
@@ -126,7 +126,7 @@ Slack API 是成熟稳定的。大量的[方法](https://api.slack.com/methods)�
 
 Slack 允许任何使用 Slack API 的应用程序在其应用程序目录中列出。入职是经过深思熟虑的，有一个清晰的 36(！)项。
 
-<figure>![](../Images/9b88523144677fb8af29afd4593e0e38.png)
+<figure>![](img/9b88523144677fb8af29afd4593e0e38.png)
 
 <figcaption>The submission process takes you by the hand and demands you to confirm every checklist step that is mandatory before you can submit your app for approval.</figcaption>
 

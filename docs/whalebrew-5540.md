@@ -12,7 +12,7 @@ Ahnee！如果你来自苹果世界，你可能用过，或者至少听说过[�
 
 ### 用 APT 安装
 
-<figure>[![](../Images/8b510081bf9742e11906c7c6780169b4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VZKbO2b1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/734/1%2AMLwvtPEG0yoOEtCzml-R9Q.png) 
+<figure>[![](img/8b510081bf9742e11906c7c6780169b4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VZKbO2b1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/734/1%2AMLwvtPEG0yoOEtCzml-R9Q.png) 
 
 <figcaption>figlet 显示由普通屏幕字符组成的大字符</figcaption>
 
@@ -34,7 +34,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-<figure>[![](../Images/76228bb58d9878d6924f1422decaedcd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jiFB7y4T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/734/1%2AXkvZZOmATGe8p6Ri2ZqOaA.png) 
+<figure>[![](img/76228bb58d9878d6924f1422decaedcd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jiFB7y4T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/734/1%2AXkvZZOmATGe8p6Ri2ZqOaA.png) 
 
 <figcaption>战斗中的人物</figcaption>
 
@@ -61,7 +61,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-<figure>[![](../Images/d51765d3a8125c0d7a24b83b062345eb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--n0J0NWLl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/734/1%2AEzjhwX8SPJ-Zlcjxiayt2A.png) 
+<figure>[![](img/d51765d3a8125c0d7a24b83b062345eb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--n0J0NWLl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/734/1%2AEzjhwX8SPJ-Zlcjxiayt2A.png) 
 
 <figcaption>Whalebrew 安装到/usr/local/bin/Whalebrew</figcaption>
 
@@ -75,7 +75,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-<figure>[![](../Images/dde76ba7f64207ce4108483cde24dde8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BKY7fjG_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/734/1%2AbLCbFgBYsdCcLfeKnr2UpA.png)
+<figure>[![](img/dde76ba7f64207ce4108483cde24dde8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BKY7fjG_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/734/1%2AbLCbFgBYsdCcLfeKnr2UpA.png)
 
 <figcaption>whalebrew/fig let 安装到/usr/local/bin/figlet</figcaption>
 
@@ -89,7 +89,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-<figure>[![](../Images/1e272247dbe358041865c9d1b7cdc67f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1YUPPIbe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/734/1%2AX8Eew1wrMcMjbw2-skNPGQ.png) 
+<figure>[![](img/1e272247dbe358041865c9d1b7cdc67f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1YUPPIbe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/734/1%2AX8Eew1wrMcMjbw2-skNPGQ.png) 
 
 <figcaption>在 Docker 容器中运行的 fig let</figcaption>
 
@@ -101,7 +101,7 @@ Tada！我们刚刚在一个容器中运行了 figlet。你可能已经注意到
 
 ### 原生对‘原生’
 
-<figure>[![](../Images/3e3b8459f1eeef1766283b429284c966.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wNZz34ee--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/799/1%2AzpAHqMDHdy4hqXN3fo1hAQ.jpeg) 
+<figure>[![](img/3e3b8459f1eeef1766283b429284c966.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wNZz34ee--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/799/1%2AzpAHqMDHdy4hqXN3fo1hAQ.jpeg) 
 
 <figcaption>[一幅印度画的摹本](http://bibliodyssey.blogspot.com/2006/08/bodmer-series-on-native-america.html)</figcaption>
 
@@ -117,7 +117,7 @@ Whalebrew 别名如下:
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/9784b0082f7bbb460de1cfdda7757f52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HtKmU_I---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/734/1%2AzMYeFQLlnwjjhttXCnVGiw.png)
+[![](img/9784b0082f7bbb460de1cfdda7757f52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HtKmU_I---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/734/1%2AzMYeFQLlnwjjhttXCnVGiw.png)
 
 > 当执行一个包时，Whalebrew 将使用 Docker 运行指定的映像，在/workdir 中挂载当前工作目录，并传递所有参数。
 
@@ -129,6 +129,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/dfb2595a74240ebbf35e2f0d2857cc74.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qyBC-Gjc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/734/1%2AlSmdCGIGlEE6KDWGBHfFMA.png)
+[![](img/dfb2595a74240ebbf35e2f0d2857cc74.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qyBC-Gjc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/734/1%2AlSmdCGIGlEE6KDWGBHfFMA.png)
 
 好吧，就这样，往前走。Baamaapii。

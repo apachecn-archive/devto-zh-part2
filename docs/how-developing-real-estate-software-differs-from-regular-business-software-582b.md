@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/brettclawson75/how-developing-real-estate-software-differs-from-regular-business-software-582b>
 
-[![man coding software](../Images/f33ff281cae77902e5671b7d24812eac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LYK6ktq3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rm5x0984te7oi1ays6g2.jpeg)
+[![man coding software](img/f33ff281cae77902e5671b7d24812eac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LYK6ktq3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rm5x0984te7oi1ays6g2.jpeg)
 
 如果你从事房地产业，你就会知道竞争有多激烈。它不同于任何其他行业，也有相当多的障碍。然而，由于软件方面的技术在过去十年中已经起飞，这是您需要了解的最后一个前沿领域。它将帮助您在您的市场中获得独特的优势，并主宰行业。下面是编写房地产软件与普通商业软件的不同之处:
 

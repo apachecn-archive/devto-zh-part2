@@ -12,11 +12,11 @@
 
 小女儿和我又玩了几次游戏，她都赢了。直到，年长的那个把他的沮丧发泄到了整张纸上。
 
-[![Frustrated tic-tac-toe board](../Images/8b264e497577ace73493fca9c91b51e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DVItmERD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y88o3waokhbnsfc6x90f.jpg)
+[![Frustrated tic-tac-toe board](img/8b264e497577ace73493fca9c91b51e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DVItmERD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y88o3waokhbnsfc6x90f.jpg)
 
 我让儿子冷静下来，抓起另一张纸，意识到我不应该让他输得这么快。在这张新的单子上，我让他赢了三场比赛，然后又让他输了一场。即使他输了，他也愿意继续玩下去，因为我在让他输之前已经让他赢了一些。这导致了比我们在第一张纸上看到的更好的井字游戏体验。
 
-[![Happy tic-tac-toe board](../Images/a008d186532c873671f43ff41cd53286.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--psxwH-pt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g25jlav6ttlqi0mbn212.jpg)
+[![Happy tic-tac-toe board](img/a008d186532c873671f43ff41cd53286.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--psxwH-pt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g25jlav6ttlqi0mbn212.jpg)
 
 而我的女儿，小一点的，对失败无所谓，因为我让她赢了前几局，然后她输了。
 

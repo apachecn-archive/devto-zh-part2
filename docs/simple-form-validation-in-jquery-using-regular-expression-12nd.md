@@ -19,7 +19,7 @@
 建立对正则表达式的基本理解。
 验证正则表达式的用户定义函数
 
-[![](../Images/cd42a81cde87ae5752bc82fc8e3c4d19.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HGKX9-TE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-pG6qCcVn12s/WmMRQFYbjsI/AAAAAAAABMc/d6aJYKTqpRAJU-f4zuMKl2H0Ix2ebyCzACLcBGAs/s400/save.PNG)
+[![](img/cd42a81cde87ae5752bc82fc8e3c4d19.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HGKX9-TE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-pG6qCcVn12s/WmMRQFYbjsI/AAAAAAAABMc/d6aJYKTqpRAJU-f4zuMKl2H0Ix2ebyCzACLcBGAs/s400/save.PNG)
 
 [https://www.youtube.com/embed/dxECdlwvBhLE](https://www.youtube.com/embed/dxECdlwvBhLE)
 

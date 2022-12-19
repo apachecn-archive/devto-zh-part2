@@ -21,7 +21,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 显然上面的完全没用，但是让我展示一下使用 micro 消费几乎任何 API 是多么容易，至少是任何不需要认证的 API。
 
-[![](../Images/246358daff1063711c24104664fb8d99.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fdKSiS4T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgs.xkcd.com/comics/chat_systems.png) 
+[![](img/246358daff1063711c24104664fb8d99.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fdKSiS4T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgs.xkcd.com/comics/chat_systems.png) 
 出自[漫画#1810](https://xkcd.com/1810/)
 
 对于这个例子，我将使用 XKCD 漫画中的免费 API，它不能用于客户端的 AJAX 调用，因为 CORS 被禁用了。调用网址[https://xkcd.com/info.0.json](https://xkcd.com/info.0.json)返回最新漫画，像这样:
@@ -127,7 +127,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我用 zeit 的 now 来托管我的各种应用和 API。现在支持这个微服务所需的 JavaScript 语言特性(async/await)以及开箱即用的 HTTPS。如果你的主机不支持这些特性，你需要将代码转换回它支持的版本。
 
-[![](../Images/9e702564823e560b0c6b58810e142e09.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--eXq5Lgi2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgs.xkcd.com/comics/new_bug.png) 
+[![](img/9e702564823e560b0c6b58810e142e09.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--eXq5Lgi2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgs.xkcd.com/comics/new_bug.png) 
 出自[漫画#1700](https://xkcd.com/1700/)
 
 ### 其他例子

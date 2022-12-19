@@ -26,7 +26,7 @@ Blazor 允许你运行 C#代码和。NET Standard 2.0 本机程序集(。dll)放
 
 因此，`"TimeZoneInfo.Local"`总是返回 UTC 时区，`" DateTime.Now"`总是返回 UTC 时间，不管浏览器或操作系统的本地设置如何。
 
-[![fig.1](../Images/19a3165f393e2cdbfeb2731611e5f109.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nhW7a03q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/jsakamoto/Toolbelt.Blazor.TimeZoneKit/blob/master/.assets/fig-2018-09-03-001.png%3Fraw%3Dtrue)
+[![fig.1](img/19a3165f393e2cdbfeb2731611e5f109.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nhW7a03q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/jsakamoto/Toolbelt.Blazor.TimeZoneKit/blob/master/.assets/fig-2018-09-03-001.png%3Fraw%3Dtrue)
 
 如果我们需要访问当地时间或任何时区的信息，我们该怎么办？
 
@@ -61,7 +61,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 仅此而已！
 
-[![fig.2](../Images/1caa930d25149efbc39173c1a5d0ee94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T7lvJUCk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/jsakamoto/Toolbelt.Blazor.TimeZoneKit/blob/master/.assets/fig-2018-09-03-002.png%3Fraw%3Dtrue)
+[![fig.2](img/1caa930d25149efbc39173c1a5d0ee94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T7lvJUCk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/jsakamoto/Toolbelt.Blazor.TimeZoneKit/blob/master/.assets/fig-2018-09-03-002.png%3Fraw%3Dtrue)
 
 ## 如何设置系统时区信息？
 
@@ -81,23 +81,23 @@ Enter fullscreen mode Exit fullscreen mode
 
 Blazor 提供了一种 C#代码和 JavaScript 代码互操作的方式，因此`"UseLocalTimeZone()"`扩展方法可以调用 JavaScript 代码来获取本地时区名称。
 
-[![fig.3](../Images/db63805c6b4fab6e484435a350554780.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DsvdWc_Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/jsakamoto/Toolbelt.Blazor.TimeZoneKit/blob/master/.assets/fig-2018-09-03-003.png%3Fraw%3Dtrue)
+[![fig.3](img/db63805c6b4fab6e484435a350554780.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DsvdWc_Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/jsakamoto/Toolbelt.Blazor.TimeZoneKit/blob/master/.assets/fig-2018-09-03-003.png%3Fraw%3Dtrue)
 
 然而，从 C#到 JavaScript 的互操作代码是异步的。
 
 如果`"UseLocalTimeZone()"`扩展方法在执行期间不能同步完成当地时区的设置，将会导致可怕的包。
 
-[![fig.4](../Images/355eb4a000ab539a51632032fb4c1b47.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ELAOXkn3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/jsakamoto/Toolbelt.Blazor.TimeZoneKit/master/.assets/fig-2018-09-04-001.png)
+[![fig.4](img/355eb4a000ab539a51632032fb4c1b47.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ELAOXkn3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/jsakamoto/Toolbelt.Blazor.TimeZoneKit/master/.assets/fig-2018-09-04-001.png)
 
 但是，因为它会导致死锁，所以我们不能同步等待任务结果。
 
-[![fig.5](../Images/c8e6b2b4ea6384d779065225f95467b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TosxWuok--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/jsakamoto/Toolbelt.Blazor.TimeZoneKit/master/.assets/fig-2018-09-04-002.png)
+[![fig.5](img/c8e6b2b4ea6384d779065225f95467b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TosxWuok--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/jsakamoto/Toolbelt.Blazor.TimeZoneKit/master/.assets/fig-2018-09-04-002.png)
 
 为了避免这个问题，`"UseLocalTimeZone()"`扩展方法调用 JavaScript 代码回调 C#代码。
 
 由于从 JavaScript 到 C#的 interope 代码是同步的，loca 时区设置过程会一直完成，直到`"UseLocalTimeZone()"`扩展方法返回；)
 
-[![fig.6](../Images/c5b3cf4cfef92a179b0018bf34ba3717.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--taBHtcc7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/jsakamoto/Toolbelt.Blazor.TimeZoneKit/blob/master/.assets/fig-2018-09-04-003.png%3Fraw%3Dtrue)
+[![fig.6](img/c5b3cf4cfef92a179b0018bf34ba3717.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--taBHtcc7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/jsakamoto/Toolbelt.Blazor.TimeZoneKit/blob/master/.assets/fig-2018-09-04-003.png%3Fraw%3Dtrue)
 
 ## 如何将 IANA 时区名称转换为。网络时区 id？
 
@@ -120,9 +120,9 @@ JavaScript 的本地时区名称为“IANA 时区名”。
 
 另请参见:
 
-# [![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) 日期时间始终显示为 UTC  #15776](https://github.com/dotnet/aspnetcore/issues/15776) 
+# [![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) 日期时间始终显示为 UTC  #15776](https://github.com/dotnet/aspnetcore/issues/15776) 
 
-[![RickStrahl avatar](../Images/464f1c2638769df84a40212f113cec82.png)](https://github.com/RickStrahl) **[RickStrahl](https://github.com/RickStrahl)** posted on [<time datetime="2018-07-22T07:42:15Z">Jul 22, 2018</time>](https://github.com/dotnet/aspnetcore/issues/15776)
+[![RickStrahl avatar](img/464f1c2638769df84a40212f113cec82.png)](https://github.com/RickStrahl) **[RickStrahl](https://github.com/RickStrahl)** posted on [<time datetime="2018-07-22T07:42:15Z">Jul 22, 2018</time>](https://github.com/dotnet/aspnetcore/issues/15776)
 
 DateTime 值总是显示为 UTC 时间，而不是本地时间，即使在显式强制`.ToLocalTime()`时也是如此。
 

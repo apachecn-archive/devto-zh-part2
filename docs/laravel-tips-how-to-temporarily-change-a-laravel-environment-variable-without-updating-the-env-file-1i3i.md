@@ -4,7 +4,7 @@
 
 想象以下场景:您正在开发一个 laravel 应用程序，它将一些作业分派到一个队列中。您在日志文件中注意到一个特定的作业抛出了一个异常，但是您不能直接调试它(例如用`dd()`),因为这个作业被其他地方的一个工人使用了。
 
-[![](../Images/0fb33ad052a51e39c5abea77de5aca14.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LCBQQOMf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/youghourta.com/wp-content/uploads/2018/05/laravel-tips.png%3Fresize%3D660%252C334)
+[![](img/0fb33ad052a51e39c5abea77de5aca14.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LCBQQOMf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/youghourta.com/wp-content/uploads/2018/05/laravel-tips.png%3Fresize%3D660%252C334)
 
 调试这个问题的一种方法是将您的`.env`文件中的`QUEUE_DRIVER`环境变量改为`sync`，进行调试，然后在您完成后恢复更改。
 
@@ -20,7 +20,7 @@
 
 你可以用 tinker 自己测试一下。
 
-[![](../Images/81f1ff92c678b43354362491842c4968.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5T09V0Hv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/youghourta.com/wp-content/uploads/2018/05/env-variable.png%3Fresize%3D631%252C266)
+[![](img/81f1ff92c678b43354362491842c4968.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5T09V0Hv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/youghourta.com/wp-content/uploads/2018/05/env-variable.png%3Fresize%3D631%252C266)
 
 您甚至可以像这样传递多个环境变量:
 

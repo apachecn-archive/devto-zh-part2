@@ -12,7 +12,7 @@ JavaScript 生态系统的发展速度比其他任何生态系统都要快。
 
 成为一名网络开发人员的指南看起来像一个奇怪的飞行意大利面条怪物。
 
-[![](../Images/3bda366813ecf80de676e35630e84c15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8fWpiaQw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zendev.com/assets/img/posts/learning-web-development/frontend-spaghetti-monster.png)
+[![](img/3bda366813ecf80de676e35630e84c15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8fWpiaQw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zendev.com/assets/img/posts/learning-web-development/frontend-spaghetti-monster.png)
 
 ## 从来没有更好过，也永远不会变好
 

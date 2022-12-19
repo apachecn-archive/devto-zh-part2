@@ -6,21 +6,21 @@
 
 这种攻击会破坏多字节用户 Windows 命令提示符。
 
-[![](../Images/51cbecdb4d55f05521f0d8efda700142.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BAoWgQfw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y306umvrwreva53p7zlh.gif)
+[![](img/51cbecdb4d55f05521f0d8efda700142.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BAoWgQfw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y306umvrwreva53p7zlh.gif)
 
 你可以看到字体被改变了，但没有恢复。
 
 在东亚语言环境中，反斜杠的数字在非东亚语言环境中不相同。在非东亚语言环境中，反斜杠显示如下。
 
-[![](../Images/d929289f03074e138ec733a4ac973c0d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hB_LdU0w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bl7o47hmz99mpz1gyb2z.png)
+[![](img/d929289f03074e138ec733a4ac973c0d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hB_LdU0w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bl7o47hmz99mpz1gyb2z.png)
 
 但是在东亚语言环境中，反斜杠显示如下。
 
-[![](../Images/2f568f5ab069bb475036f3ad7c4533ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m5SZXO5X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vr8v2hve5yhmi8q5z01b.png)
+[![](img/2f568f5ab069bb475036f3ad7c4533ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m5SZXO5X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vr8v2hve5yhmi8q5z01b.png)
 
 仅供参考，大多数 Windows 用户通常使用非 UTF-8 代码页。例如，日本人使用代码页 932。
 
-[![](../Images/1fe5ab05e483f362e73a3fd0c6e44eaf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fE83ec3Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7ov2oigq46bkorwn9573.png)
+[![](img/1fe5ab05e483f362e73a3fd0c6e44eaf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fE83ec3Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7ov2oigq46bkorwn9573.png)
 
 我写了一个补丁来解决这个问题。[https://github.com/stedolan/jq/issues/1121](https://github.com/stedolan/jq/issues/1121)
 
@@ -28,7 +28,7 @@
 
 这也让 cmd.exe 崩溃。
 
-[![](../Images/2d332c75286d871eb3e8b12801d484f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--usl1VPcS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tw37aeqtojiqlud4ym4d.gif)
+[![](img/2d332c75286d871eb3e8b12801d484f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--usl1VPcS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tw37aeqtojiqlud4ym4d.gif)
 
 我又写了一个类似上面的补丁。[https://github.com/curl/curl/pull/3212](https://github.com/curl/curl/pull/3212)
 

@@ -60,7 +60,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 你可能期望一个接一个发生，或者一个会抵消另一个。事实并非如此——两者或多或少会并行运行(因为 JavaScript 不能在我们等待时阻塞),以*或*的顺序结束，并且不清楚什么 HTML 会出现在您的页面上。⚠️
 
-[![How two tasks can run in parallel and overwrite one another](../Images/d5418988d4f145dfb47ea387a8694af6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LGn-CUAv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yqpfeca7xv1d4podbyfj.png)
+[![How two tasks can run in parallel and overwrite one another](img/d5418988d4f145dfb47ea387a8694af6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LGn-CUAv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yqpfeca7xv1d4podbyfj.png)
 
 明确地说，这种方法的基于回调的版本有完全相同的问题，但是它更明显——以一种非常令人厌恶的方式。在使我们的代码现代化以使用`async`和`await`的过程中，我们使它变得更加模糊。😕
 

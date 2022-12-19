@@ -28,7 +28,7 @@ Enter fullscreen mode Exit fullscreen mode
 公司雇佣你来解决问题。一般营利性公司都想多赚钱，减少开支。我们的目标是提供帮助。不要从功能的角度考虑，而要从金钱的角度考虑。如果给你的同事带咖啡能让他们有效率(而效率是瓶颈)——做一个咖啡抢劫犯。谁负责什么并不重要。你的工作协议里有什么并不重要。你是 CTO 也没关系。
 专注于职位、角色和职责会分散我们对客户真正重要的东西的注意力—**金钱**💰。
 
-[![](../Images/3ead18f76145e84340b2db4d0f24b10c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xGva9ggp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AsOWXpj4V2IMFU4LS)
+[![](img/3ead18f76145e84340b2db4d0f24b10c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xGva9ggp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AsOWXpj4V2IMFU4LS)
 
 我们的工作是了解公司是如何赚钱的，帮助它**赚更多的钱**和**减少开支**。以这种方式思考和行动，你将很快成为公司最有价值的资产。
 
@@ -124,7 +124,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 你可以是培训师、顾问、会议组织者、初创公司创始人、宇航员等等。没有理由不做自己喜欢的事情。世界之大，回报之大。不要害怕去寻找(和做)你喜欢的事情，❤️.机不可失，时不再来。邦·乔维知道。🎸
 
-[![](../Images/b97a96e0312788d275f41cdb82599f0b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LYHlkRJO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AY69JfMk2t-wH5rSE)
+[![](img/b97a96e0312788d275f41cdb82599f0b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LYHlkRJO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AY69JfMk2t-wH5rSE)
 
 ### 奖励思想
 
@@ -150,6 +150,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 就是这样。现在给你的家人一个拥抱。❤️
 
-[![](../Images/255463d9e931796a6aebfc136f83cbb0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_p-1yHmK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AV9MzqK28UowkUhWHLvkuPA.jpeg)
+[![](img/255463d9e931796a6aebfc136f83cbb0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_p-1yHmK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AV9MzqK28UowkUhWHLvkuPA.jpeg)
 
 如果你喜欢这个帖子，请告诉我。我们可以在[推特](https://twitter.com/eduardsi)、 [Goodreads](https://www.goodreads.com/eduardsi) 上保持联系。👋

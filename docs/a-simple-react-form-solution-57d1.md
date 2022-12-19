@@ -56,7 +56,7 @@ React 很棒。我明白了，它让我们像快照一样创建组件。但是�
 
 其中，我发现 formik 是一个非常棒的库，非常接近我得到的所有需求:受控字段、验证、易于理解等。但是我总是希望尽可能用简短自然的方式描述我的表单，所以我打开了我的 VSCode，并整理了一个表单规范，就像这样(基于 formik ),这是我想要实现的:
 
-[![A simple form spec](../Images/577c89d83a6ba66922e1e7df838c7c5f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VRKVwPD8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/L8FzVgx.png)
+[![A simple form spec](img/577c89d83a6ba66922e1e7df838c7c5f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VRKVwPD8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/L8FzVgx.png)
 
 在一个周末，我花了一些时间尝试实现这个规范，并取得了一些成功。到目前为止，它对我最喜欢的项目非常有效:
 

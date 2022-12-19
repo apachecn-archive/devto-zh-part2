@@ -17,7 +17,7 @@ Typescript，服务器端预呈现，webpack...
 
 如果你大部分时间都在使用 MVC/WebForms(或者实际上是桌面开发)，突然你会发现自己很难立足。
 
-[![](../Images/b4ebdd79bc8b2077e5b6918ae0ac3440.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LQbk7Md_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/2018-09-14-add-react-to-your-existing-asp-net-project/2018-09-17-08-00-01.png)
+[![](img/b4ebdd79bc8b2077e5b6918ae0ac3440.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LQbk7Md_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/2018-09-14-add-react-to-your-existing-asp-net-project/2018-09-17-08-00-01.png)
 
 那你怎么爬上。当你从底层开始的时候？
 
@@ -131,7 +131,7 @@ React.createElement(
 
 如果您试图在页面上包含组件的 jsx 版本，您会得到一个错误。
 
-[![](../Images/6e3c6abcc2cddbe31edc669f03a30728.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2ZQi9aNd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/2018-09-14-add-react-to-your-existing-asp-net-project/2018-09-14-11-35-46.png)
+[![](img/6e3c6abcc2cddbe31edc669f03a30728.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2ZQi9aNd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/2018-09-14-add-react-to-your-existing-asp-net-project/2018-09-14-11-35-46.png)
 
 ## 浏览器无法解释 jsx
 
@@ -204,11 +204,11 @@ npx 是一个包运行工具，它使得调用包含在节点包中的可执行�
 
 (我的示例项目是使用 ASP.NET 核心项目构建的，因此任何需要提供给浏览器的内容都需要放入`wwwroot`)。
 
-[![](../Images/d31952a8a69df0da4fff712aaa742126.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VIfoDPbh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/2018-09-14-add-react-to-your-existing-asp-net-project/2018-09-15-22-16-07.png)
+[![](img/d31952a8a69df0da4fff712aaa742126.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VIfoDPbh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/2018-09-14-add-react-to-your-existing-asp-net-project/2018-09-15-22-16-07.png)
 
 现在，当我对`src`中的任何文件进行更改时，编译后的版本将出现在`wwwroot/dist`中。
 
-[![](../Images/9b0767f5c9bcbeee71af77b6a9a521b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vl2bkn_a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/2018-09-14-add-react-to-your-existing-asp-net-project/2018-09-14-12-36-00.png)
+[![](img/9b0767f5c9bcbeee71af77b6a9a521b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vl2bkn_a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/2018-09-14-add-react-to-your-existing-asp-net-project/2018-09-14-12-36-00.png)
 
 我可以在我现有的视图中引用这些(编译的)js 文件。
 

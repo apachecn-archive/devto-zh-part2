@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/larsgw/citationjs-showing-blogger-posts-on-a-different-site-ia7>
 
-> ![Lars Willighagen profile image](../Images/3f82a50389ebaeea8070bdbab6feee41.png)Lars Willighagen@ larswillighagen![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)我为 Blogger 做了一个小客户端，它接受一个标签并将其转换成自己的小博客:[citation.js.org/blog/?post=542…](https://t.co/CYoveVJIOE)。但是没有元数据，因为都是客户端的。2018 年 8 月 06 日下午 18:31[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1026536137958072320)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1026536137958072320)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1026536137958072320)
+> ![Lars Willighagen profile image](img/3f82a50389ebaeea8070bdbab6feee41.png)Lars Willighagen@ larswillighagen![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)我为 Blogger 做了一个小客户端，它接受一个标签并将其转换成自己的小博客:[citation.js.org/blog/?post=542…](https://t.co/CYoveVJIOE)。但是没有元数据，因为都是客户端的。2018 年 8 月 06 日下午 18:31[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1026536137958072320)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1026536137958072320)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1026536137958072320)
 
 我制作了一个以[材料为主题的](https://getmdl.io)页面，展示来自 Blogger 的 Citation.js 博客帖子。它支持分页，标签，搜索和链接个人职位。由于这是一个单一的静态页面，我不能支持元数据的`meta`和`link`标签，这将需要 JavaScript，而索引器不运行。
 
@@ -147,4 +147,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 完整的源代码可以在[这里](https://github.com/citation-js/site/blob/master/static/js/blog.js)获得，页面可以在[这里](https://citation.js.org/blog/)查看。结果:
 
-[![Blog screenshot](../Images/2a1bb334d5063ac1a8032f98afc8467a.png "Blog screenshot")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eiEsoHRE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/Qd8EXpblQui1CSErr_BU1Os9Ykk-ximWT_hcTxGhtJBwY6JoM7jSxt7FlAwOSkAs57G4nZ64ccAtMg%3Ds2000)
+[![Blog screenshot](img/2a1bb334d5063ac1a8032f98afc8467a.png "Blog screenshot")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eiEsoHRE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/Qd8EXpblQui1CSErr_BU1Os9Ykk-ximWT_hcTxGhtJBwY6JoM7jSxt7FlAwOSkAs57G4nZ64ccAtMg%3Ds2000)

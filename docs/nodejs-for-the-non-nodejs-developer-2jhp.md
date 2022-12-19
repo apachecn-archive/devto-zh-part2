@@ -6,7 +6,7 @@
 
 去年，在最后一次 [cfObjective](http://www.cfobjective.com/) 上，我专门为 ColdFusion 开发人员做了一个关于 Node.js 的演示。作为一名前 ColdFusion 开发人员(除了偶尔做一些次要的工作)，我分享了我喜欢什么，不喜欢什么，以及在学习 Node 时让我感到困惑的事情。我的意图不是提供一个“Node 简介”，因为有很多这样的资源存在，而是专注于我在学习时注意到的一些特别的东西。我仍在学习 Node，在我认为自己是专家之前，可能还有十年的时间。但是我很高兴我做出了改变，我也想帮助别人。一段时间以来，我一直打算创建一个书面版本的幻灯片，当一位读者几天前给我发电子邮件，从 ColdFusion 的角度询问 Node 时，我认为是时候离开我的后方，实际去做了。
 
-[![Burning Bridges](../Images/48dce84d16657c339a625f54bc65e034.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZpvXsKFN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/08/cfn1.jpg)
+[![Burning Bridges](img/48dce84d16657c339a625f54bc65e034.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZpvXsKFN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/08/cfn1.jpg)
 
 ### 这不是什么……
 
@@ -26,7 +26,7 @@
 
 所以耶！很像 ColdFusion！
 
-[![Woot! Dancing cats!](../Images/12b8b58a0ef78b4a02eccfb6651de876.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PGK9_0u8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/08/cfn2.jpg)
+[![Woot! Dancing cats!](img/12b8b58a0ef78b4a02eccfb6651de876.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PGK9_0u8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/08/cfn2.jpg)
 
 ### 除了…
 
@@ -44,7 +44,7 @@ NPM，或节点包管理器，使安装实用程序变得容易。托管在 npmj
 
 首先，你安装它。前往[nodejs.org](https://nodejs.org/en/)，为你的平台找到安装程序。如果你正在使用 WSL(Linux 的 Windows 子系统)，你会想要遵循 Ubuntu 的指示，或者考虑`nvm`或`n`(是的，祝你好运尝试谷歌那个)。一旦安装完毕，只要进入你的终端并确认你可以运行`node -v`:
 
-[![node -v at the terminal](../Images/39c30ed6cb7f1b9b1e2c85033e135ccb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--84LzNrVK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/08/cfn3.jpg)
+[![node -v at the terminal](img/39c30ed6cb7f1b9b1e2c85033e135ccb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--84LzNrVK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/08/cfn3.jpg)
 
 祝贺您——您成为了一名节点开发人员。去更新你的 LinkedIn 个人资料。
 
@@ -52,11 +52,11 @@ NPM，或节点包管理器，使安装实用程序变得容易。托管在 npmj
 
 注意到我上面使用的节点版本了吗？现在是谈论节点版本控制的好时机，因为它*如此简单*而且一点也不混乱。真的。
 
-[![Stupid meme gif about node versioning](../Images/e631be12918a9ddffa991e5e1adf55bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7rOjmEFN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/08/cfn4.jpg)
+[![Stupid meme gif about node versioning](img/e631be12918a9ddffa991e5e1adf55bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7rOjmEFN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/08/cfn4.jpg)
 
 当您访问 Node.js 页面时，您可能会注意到这个有趣的选择:
 
-[![LTS versus Current](../Images/f929dd127824793ecd65de09ef4b62a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cYVFMjDO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/08/cfn5.jpg)
+[![LTS versus Current](img/f929dd127824793ecd65de09ef4b62a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cYVFMjDO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/08/cfn5.jpg)
 
 好吧…首先，我的版本(9.x)甚至没有被提及。但是我是落后了(10.8.0)还是领先了(8.11.3)？
 
@@ -103,7 +103,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 确实如此。跟着它走。不，说真的，还有其他方法来“写”出字符串，但是在调试时，你可以使用我们都喜欢的相同的熟悉的`console.log`命令。
 
-[![Running hello world](../Images/fa6a481aa11da56d7c43003402f1c91e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QOMc0vd2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/08/cfn6.jpg)
+[![Running hello world](img/fa6a481aa11da56d7c43003402f1c91e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QOMc0vd2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/08/cfn6.jpg)
 
 ### 添加功能
 
@@ -258,7 +258,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 进入网页！
 
-[![Microsoft's old home page](../Images/aa1dd63e0e157daba5ce11890d5ff015.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dpApbO78--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/08/cfn7.jpg)
+[![Microsoft's old home page](img/aa1dd63e0e157daba5ce11890d5ff015.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dpApbO78--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/08/cfn7.jpg)
 
 首先是坏消息。如果你想开发一个网络应用，你需要手工制作。Node 支持这样做所需的一切——它可以启动 HTTP 服务器并监听端口。它可以根据请求发出代码，检查请求的路径，然后做任何有意义的事情。与 ColdFusion 相比，在 cold fusion 中，您只需创建一个名为 foo.cfm 的文件，如果该文件位于名为 snakes 的目录中，则可以在 yoursite.com/snakes/foo.cfm,节点上获得该文件。在构建 web 应用程序方面，该节点没有内置的文件与 URL 的关联。
 

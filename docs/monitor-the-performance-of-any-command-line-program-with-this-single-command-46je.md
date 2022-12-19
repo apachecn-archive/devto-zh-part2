@@ -87,7 +87,7 @@ I❤️htop 是一个进程监控工具，适用于 linux 和 Mac OS。来吧，
     ```
 
 请参见下面的单个命令！
-[![Single command process monitoring with htop](../Images/9f288dd8ee2d4d70b486425840842a2f.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--c1hM-81s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/FepzxVp.gif)
+[![Single command process monitoring with htop](img/9f288dd8ee2d4d70b486425840842a2f.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--c1hM-81s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/FepzxVp.gif)
 
 ## 双倍奖励:让你的编辑器更漂亮
 

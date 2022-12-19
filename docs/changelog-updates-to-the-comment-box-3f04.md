@@ -4,7 +4,7 @@
 
 你好 DEVs！评论框中现在支持一些热键。所有命令都将接受 **Ctrl** 或 **Cmd** 作为控制键。另外，控制键后面的字符不区分大小写。
 
-[![demo](../Images/c55c7a800f0377ee705d55bcd509c577.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6knw1tdF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r9bu3vudrnhxikn40yuo.gif)
+[![demo](img/c55c7a800f0377ee705d55bcd509c577.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6knw1tdF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r9bu3vudrnhxikn40yuo.gif)
 
 # **加粗**
 

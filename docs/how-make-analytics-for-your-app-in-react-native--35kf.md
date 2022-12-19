@@ -73,4 +73,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是它在图表上的样子。
 
-[![Charts](../Images/9b9eb2181b20b503ccf18dc60f5689ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VziOO1b8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vhkqdxxbs2kn5t9zybmx.png)
+[![Charts](img/9b9eb2181b20b503ccf18dc60f5689ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VziOO1b8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vhkqdxxbs2kn5t9zybmx.png)

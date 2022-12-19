@@ -16,11 +16,11 @@
 
 但是当应用程序重新启动时，所有的问题都神奇地消失了！没有人知道发生了什么，所以他们转移到其他优先事项上，但问题周期性地重复出现。
 
-[![NewRelic graph of a leak going full retard](../Images/9558dbf361f7bb8330f3279b62da0e54.png)T2】](https://marmelab.com/images/blog/memory/response-time-over-time.png)
+[![NewRelic graph of a leak going full retard](img/9558dbf361f7bb8330f3279b62da0e54.png)T2】](https://marmelab.cimg/blog/memory/response-time-over-time.png)
 
 内存泄漏并不总是那么明显，但是当这种模式出现时，就应该寻找内存使用和响应时间之间的相关性了。
 
-[![NewRelic graph of a leak going full retard](../Images/4172fa6d266368941963f298a456cab3.png)T2】](https://marmelab.com/images/blog/memory/memory-usage-over-time.png)
+[![NewRelic graph of a leak going full retard](img/4172fa6d266368941963f298a456cab3.png)T2】](https://marmelab.cimg/blog/memory/memory-usage-over-time.png)
 
 恭喜你！您发现了内存泄漏。现在你的乐趣开始了。
 
@@ -76,7 +76,7 @@ Server listening to port 3000\. Press Ctrl+C to stop it.
 
 现在，运行 Chrome(或者 Chrome)，进入下面的 URI: `chrome://inspect`。瞧啊。Node.js 应用程序的全功能调试器。
 
-[![Chrome Dev Tools](../Images/7a8b65c86cac9729711b337f438d9e82.png)T2】](https://marmelab.com/images/blog/memory/chrome-devtools.png)
+[![Chrome Dev Tools](img/7a8b65c86cac9729711b337f438d9e82.png)T2】](https://marmelab.cimg/blog/memory/chrome-devtools.png)
 
 ## 拍摄 V8 内存的快照
 
@@ -111,7 +111,7 @@ Shortest transaction:           0.00
 
 以下是我模拟的结果(点击查看全图):
 
-[![Heap Snapshots Comparison](../Images/00c13c4a03bbeb75360330e6c1b1e12e.png)T2】](https://marmelab.com/images/blog/memory/snapshots-comparison.png)
+[![Heap Snapshots Comparison](img/00c13c4a03bbeb75360330e6c1b1e12e.png)T2】](https://marmelab.cimg/blog/memory/snapshots-comparison.png)
 
 很多要看的！
 
@@ -131,7 +131,7 @@ Shortest transaction:           0.00
 
 在下面的例子中，我在 5 秒后开始攻城，在 10 秒内。
 
-[![Heap Allocation Timeline](../Images/c100f22dd8a46a55cee4e0946e08f0c2.png)T2】](https://marmelab.com/images/blog/memory/allocation-timeline.png)
+[![Heap Allocation Timeline](img/c100f22dd8a46a55cee4e0946e08f0c2.png)T2】](https://marmelab.cimg/blog/memory/allocation-timeline.png)
 
 对于第一个请求，您可以看到一个明显的分配高峰。这与 HTTP 模块初始化有关。但是如果你放大到更常见的分配(比如上图)，你会注意到，同样是日期和对象占用了最多的内存。
 
@@ -180,7 +180,7 @@ heapdump-31216569.978846.heapsnapshot
 
 一旦快照可用，您就可以使用 Chrome DevTools 读取它。只需打开内存选项卡，右键点击侧面，选择*加载*。
 
-[![Load a Heap Snapshot into the Chrome Inspector](../Images/625328abb10dee6f32f1b392ddcaa582.png)T2】](https://marmelab.com/images/blog/memory/load-heap-snapshot.png)
+[![Load a Heap Snapshot into the Chrome Inspector](img/625328abb10dee6f32f1b392ddcaa582.png)T2】](https://marmelab.cimg/blog/memory/load-heap-snapshot.png)
 
 ## 修补漏洞
 
@@ -241,7 +241,7 @@ Longest transaction:            0.38
 Shortest transaction:           0.01 
 ```
 
-[![Fixed Memory Usage](../Images/4187663af50a7e87be11922818c5f4f1.png)T2】](https://marmelab.com/images/blog/memory/fixed-memory-usage.png)
+[![Fixed Memory Usage](img/4187663af50a7e87be11922818c5f4f1.png)T2】](https://marmelab.cimg/blog/memory/fixed-memory-usage.png)
 
 正如你所看到的，内存增长要慢得多！这是因为我们不再为每个请求将请求日志存储在内存中(在`requestLogs`变量中的[)。](#first-code-example)
 

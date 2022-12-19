@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/thetealpickle/video-frontend-vs-backend-tfhdailystandup-3jcb>
 
-[![](../Images/b21bc5c50b298616b6e06368d7c90669.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XyV_spSv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d7bnr41w5d3c2vsq9yvj.png)
+[![](img/b21bc5c50b298616b6e06368d7c90669.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XyV_spSv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d7bnr41w5d3c2vsq9yvj.png)
 
 EP4: TFH 每日站立时间！！！！在今天的《站起来》中，我将谈论前端与后端
 

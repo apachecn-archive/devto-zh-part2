@@ -21,7 +21,7 @@
 
 当然，您可以更改 A 上的脚本，使它们使用 b 上托管的新数据库。但是，如果您的客户随新帖子一起发布图片，该怎么办呢？新的二进制文件会在 **A** 上，新的数据库内容会在 **B** 上，你会有很多麻烦:
 
-[![trouble](../Images/3d7242687f65683158960d545667d413.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--evtqXxDG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mf5521rq25qdtyzdo8yb.png)
+[![trouble](img/3d7242687f65683158960d545667d413.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--evtqXxDG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mf5521rq25qdtyzdo8yb.png)
 
 * * *
 
@@ -53,7 +53,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 通过查看两台服务器上的 Apache 访问日志，可以看到代理转发了所有传入的请求🎉🎉
 
-[![forwarded request](../Images/26af39ea83656636c825428b6332e2ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vD3EdTJw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wsd9sg326e60in9a4wwv.png)
+[![forwarded request](img/26af39ea83656636c825428b6332e2ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vD3EdTJw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wsd9sg326e60in9a4wwv.png)
 
 *对 enbref.tn 的请求被解析到 A 并转发到 B*
 

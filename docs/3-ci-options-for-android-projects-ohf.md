@@ -74,11 +74,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 一旦您添加了配置文件，您需要做的就是进入 Circle CI 页面，添加一个指向您的 Github repo 的新项目。这一部分非常简单，所以这里有一张构建在服务器上执行时的图片:
 
-[![alt](../Images/8e38ceb2759c746c6636b9383f0b7090.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9TT6URJN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xsm54jn71vk96glkky9s.png)
+[![alt](img/8e38ceb2759c746c6636b9383f0b7090.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9TT6URJN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xsm54jn71vk96glkky9s.png)
 
 整合 Circle CI 后，您可以将其作为一个依赖项添加到您的 PR 工作流中，这样，在您可以合并之前，测试需要通过 CI 服务器。它会像这样显示在你的 PR 中:
 
-[![alt](../Images/e45330f2360bf597eee8bbd7bbe619de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GgGUH-69--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5vfklzx0xmb43ud79v1z.png)
+[![alt](img/e45330f2360bf597eee8bbd7bbe619de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GgGUH-69--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5vfklzx0xmb43ud79v1z.png)
 
 上图是我们下一个选择的一个伟大的赛格威。
 
@@ -203,10 +203,10 @@ Enter fullscreen mode Exit fullscreen mode
 
 完成这些步骤后，您可以开始在 Jenkins 仪表盘中设置工作。首先，我们需要告诉 Jenkins 我们在哪里安装了 SDK，这可以通过进入 Jenkins 仪表板中的系统配置来完成:
 
-[![alt](../Images/78cf053cf9cbc5a0e46b4ba2c20878b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--09sZSgw4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3pxualvmp42jwzmw9gey.png)
+[![alt](img/78cf053cf9cbc5a0e46b4ba2c20878b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--09sZSgw4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3pxualvmp42jwzmw9gey.png)
 
 设置 sdk 文件夹后，我们需要创建一组凭证，这样 Jenkins 就可以从我们的存储库中提取代码。你可以进入凭证菜单，在 Jenkins 命名空间下点击添加凭证:
-[![alt](../Images/80de12575c24636dfc7397121d89e805.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nBzIMzMi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vz430cafihtk9bhk6pmf.png)
+[![alt](img/80de12575c24636dfc7397121d89e805.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nBzIMzMi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vz430cafihtk9bhk6pmf.png)
 
 对于用户名，你可以使用你自己的 Github 用户名，密码有点不同。你需要进入你的 Github 账户，在设置->开发者设置选项下选择个人令牌。您需要生成一个令牌，供 jenkins 用作凭证的密码。
 
@@ -214,27 +214,27 @@ Enter fullscreen mode Exit fullscreen mode
 
 1- Github 项目
 
-[![alt](../Images/9af0e0f69dd050c25da2dc2ac01fd8a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3mumf2Iu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d9y123ym18d7zz6uwx58.png)
+[![alt](img/9af0e0f69dd050c25da2dc2ac01fd8a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3mumf2Iu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d9y123ym18d7zz6uwx58.png)
 
 2 - Git repo、凭证和分支来监视推送事件。
 
-[![alt](../Images/aa61a25d3a809fbb18a4a97cb7cdad20.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--42xeOp6c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vdgx9npzmyfwm6zja9it.png)
+[![alt](img/aa61a25d3a809fbb18a4a97cb7cdad20.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--42xeOp6c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vdgx9npzmyfwm6zja9it.png)
 
 3 -构建触发器
 
 构建触发器决定了我们的作业将如何开始运行，对于我们的例子，我们希望检测来自 Github 的推送事件，所以我们选择“Github hook trigger for GITScm polling”。
 
-[![alt](../Images/77e9fa5a6aef1e2a58b800986e3493fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g200cTUd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4o03dco6car0wqsa41zc.png)
+[![alt](img/77e9fa5a6aef1e2a58b800986e3493fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g200cTUd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4o03dco6car0wqsa41zc.png)
 
 要做到这一点，你需要进入你的回购设置，并添加一个新的网络挂钩。只需在有效载荷 URL 选项中填入:`http://<JENKINS_HOST_ADDRESS>/github-webhook/`。
 
-[![alt](../Images/01cb9b0429714d41a0ad2bc4409c5fa2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_O2lZXVr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v22kna5wptxcq9xim3ew.png)
+[![alt](img/01cb9b0429714d41a0ad2bc4409c5fa2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_O2lZXVr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v22kna5wptxcq9xim3ew.png)
 
 4 -构建步骤
 
 这里我们添加两个步骤(通过点击添加 Gradle 脚本)。选中使用 gradlew wrapper 并添加任务`assembleRelease`和`test`。不要忘记选中复选框以使 gradlew 可运行。
 
-[![alt](../Images/f1f9c16ec46c69bb4294c68c27280126.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dVDWsrjM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c8q0hyyynozcm78z3azu.png)
+[![alt](img/f1f9c16ec46c69bb4294c68c27280126.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dVDWsrjM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c8q0hyyynozcm78z3azu.png)
 
 汪汪。要配置的东西太多了，不是吗？我猜这就是为什么他们想出了蓝色海洋...之后，您的 jenkins 设置就可以接收推送事件并自动构建/测试了。
 

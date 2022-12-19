@@ -8,4 +8,4 @@
 
 所以我想出了这个问题给大家！，你最适合做代码的时刻是什么(可以加上你做准备的任何仪式 '-')>)。
 
-[![](../Images/eec68475c5e0d85b75b36a500632d2b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4vyzhOzz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://encrypted-tbn0.gstatic.com/images%3Fq%3Dtbn:ANd9GcSjw_tqwcUoum1XKRCsguoOGZHkyQV8buIXgpwbUTMrbofkCnQ-)
+[![](img/eec68475c5e0d85b75b36a500632d2b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4vyzhOzz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://encrypted-tbn0.gstatic.com/images%3Fq%3Dtbn:ANd9GcSjw_tqwcUoum1XKRCsguoOGZHkyQV8buIXgpwbUTMrbofkCnQ-)

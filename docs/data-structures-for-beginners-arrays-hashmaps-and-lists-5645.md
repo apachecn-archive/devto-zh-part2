@@ -9,33 +9,33 @@
 您可以在 Github repo:
 中找到所有这些实现以及更多内容
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) [阿梅加罗萨里奥](https://github.com/amejiarosario)/[DSA . js-数据-结构-算法-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) [阿梅加罗萨里奥](https://github.com/amejiarosario)/[DSA . js-数据-结构-算法-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)
 
 ### 🥞JavaScript + eBook 中解释和实现的数据结构和算法
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-[![image](../Images/56b5d4dbac1233ee93c5155b15079c68.png)T2】](https://user-images.githubusercontent.com/418605/59557258-10742880-8fa3-11e9-84fb-4d66a9d89faa.png)
+[![image](img/56b5d4dbac1233ee93c5155b15079c68.png)T2】](https://user-images.githubusercontent.com/418605/59557258-10742880-8fa3-11e9-84fb-4d66a9d89faa.png)
 
 # JavaScript 中的数据结构和算法
 
-[![CircleCI](../Images/d5922fc0cbf322196a6f5e893fcfcf37.png)](https://app.circleci.com/pipelines/github/amejiarosario/dsa.js-data-structures-algorithms-javascript)[![NPM version](../Images/2c26fb04f41469582f423d88af92342e.png)](https://badge.fury.io/js/dsa.js)[![chat](../Images/e028ff0be0803e8e9dbdd25d5a8c6ca4.png)](https://dsajs-slackin.herokuapp.com)
+[![CircleCI](img/d5922fc0cbf322196a6f5e893fcfcf37.png)](https://app.circleci.com/pipelines/github/amejiarosario/dsa.js-data-structures-algorithms-javascript)[![NPM version](img/2c26fb04f41469582f423d88af92342e.png)](https://badge.fury.io/js/dsa.js)[![chat](img/e028ff0be0803e8e9dbdd25d5a8c6ca4.png)](https://dsajs-slackin.herokuapp.com)
 
 > 这是 DSA.js book 的编码实现和 NPM 包的回购。
 
 > 在这个库中，您可以找到 JavaScript 中算法和数据结构的实现。这些材料可以作为开发人员的参考手册，或者您可以在面试前刷新特定主题。还有，你可以找到更高效解决问题的思路。
 
-[![Interactive Data Structures](../Images/8f63557fae7adb265acdf574fa489c65.png)T2】](https://user-images.githubusercontent.com/418605/46118890-ba721180-c1d6-11e8-82bc-6a671428b422.png)
+[![Interactive Data Structures](img/8f63557fae7adb265acdf574fa489c65.png)T2】](https://user-images.githubusercontent.com/418605/46118890-ba721180-c1d6-11e8-82bc-6a671428b422.png)
 
 ## 目录
 
 *   [安装](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#installation)
 *   [特性](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#features)
 *   [里面有什么](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#whats-inside)
-    *   [<g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>算法分析](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#-algorithms-analysis)
-    *   [<g-emoji class="g-emoji" alias="pancakes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f95e.png">🥞</g-emoji>线性数据结构](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#-linear-data-structures)
-    *   [<g-emoji class="g-emoji" alias="evergreen_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f332.png">🌲</g-emoji>非线性数据结构](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#-non-linear-data-structures)
-    *   [<g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png">⚒</g-emoji> 算法技巧](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#%E2%9A%92-algorithms-techniques)
+    *   [<g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f4c8.png">📈</g-emoji>算法分析](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#-algorithms-analysis)
+    *   [<g-emoji class="g-emoji" alias="pancakes" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f95e.png">🥞</g-emoji>线性数据结构](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#-linear-data-structures)
+    *   [<g-emoji class="g-emoji" alias="evergreen_tree" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f332.png">🌲</g-emoji>非线性数据结构](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#-non-linear-data-structures)
+    *   [<g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/2692.png">⚒</g-emoji> 算法技巧](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#%E2%9A%92-algorithms-techniques)
 *   [预定](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#book)
 *   [常见问题解答](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#faq)
 *   [支持](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#support)
@@ -122,7 +122,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 **Array 就像一个抽屉，把东西存放在箱子上**
 
-[![](../Images/f45a47e4cf651fc1f26b8c52ec582157.png "Array is like a drawer that stores things on bins")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uMaBX6pb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.com/images/array-drawer.jpg)
+[![](img/f45a47e4cf651fc1f26b8c52ec582157.png "Array is like a drawer that stores things on bins")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uMaBX6pb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.cimg/array-drawer.jpg)
 
 当你想找东西的时候，你可以直接去找箱子号码。那是一个恒定时间操作( *`O(1)`* )。但是，如果您忘记了柜子里有什么，那么您将不得不逐个打开( *`O(n)`* )来验证它的内容，直到您找到您要找的东西。数组也是如此。
 
@@ -285,7 +285,7 @@ HashMap 有很多名字，比如 HashTable、HashMap、Map、Dictionary、Associ
 
 HashMap 就像一个抽屉，把东西放在箱子上，并贴上标签
 
-[![](../Images/97f4d18e5a4207264336196b9437db80.png "HashMap is like a drawer that stores things on bins and labels them")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZPcJMpFo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.com/images/hashmap-drawer.jpg)
+[![](img/97f4d18e5a4207264336196b9437db80.png "HashMap is like a drawer that stores things on bins and labels them")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZPcJMpFo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.cimg/hashmap-drawer.jpg)
 
 在这个例子中，如果你正在寻找 [DSA.js 书](https://gum.co/dsajs)，你不必打开箱子 1、2 和 3 来查看里面有什么。你直接进入标有“书籍”的容器。这是一个巨大的收获！搜索时间从 *O(n)* 到 *O(1)* 。
 
@@ -300,7 +300,7 @@ HashMap 就像一个抽屉，把东西放在箱子上，并贴上标签
 
 **用数组实现 HashMap】**
 
-[![](../Images/a6434b057856744f0b3e959757158c29.png "HashMap: hash function translates keys into bucket (array) indexes")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RMiN08Co--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.com/images/hash-map.jpg)
+[![](img/a6434b057856744f0b3e959757158c29.png "HashMap: hash function translates keys into bucket (array) indexes")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RMiN08Co--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.cimg/hash-map.jpg)
 
 正如您在图中看到的，每个密钥都被翻译成一个**散列码**。由于数组大小有限(例如 10)，我们必须使用模数函数遍历可用的存储桶。在桶中，我们存储键/值对，如果不止一个，我们使用一个集合来保存它们。
 
@@ -678,7 +678,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 换个角度来看
 
-[![](../Images/a6434b057856744f0b3e959757158c29.png "HashMap: hash function translates keys into bucket (array) indexes")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RMiN08Co--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.com/images/hash-map.jpg)
+[![](img/a6434b057856744f0b3e959757158c29.png "HashMap: hash function translates keys into bucket (array) indexes")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RMiN08Co--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.cimg/hash-map.jpg)
 
 如您所见，我们通过增加哈希表的初始容量减少了冲突的数量(从 2 个减少到 1 个)。
 
@@ -955,7 +955,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 链表是一种数据结构，其中每个元素都与下一个元素相连。
 
-[![](../Images/62a675447b14e97d682d56983ac300c1.png "LinkedList")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cTAuB0Cw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.com/images/linked-list.jpg)
+[![](img/62a675447b14e97d682d56983ac300c1.png "LinkedList")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cTAuB0Cw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.cimg/linked-list.jpg)
 
 链表是我们要实现的第一个不使用数组的数据结构。相反，我们将使用一个`node`来保存一个`value`并指向下一个元素。
 
@@ -1153,7 +1153,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当我们有一个节点链，每个节点都指向下一个节点时，我们就有了一个**单链表**。当我们有一个链表时，每个节点都通向下一个的**和上一个**元素的**时，我们就有了一个**双重链表****
 
-[![](../Images/9988482058bc41e1b01cd9660db5da40.png "Doubly Linked List")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dM-ocdsR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.com/images/doubly-linked-list.jpg)
+[![](img/9988482058bc41e1b01cd9660db5da40.png "Doubly Linked List")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dM-ocdsR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.cimg/doubly-linked-list.jpg)
 
 双向链表节点有双重引用(next 和 previous)。我们还将跟踪列表的第一个和最后一个元素。
 
@@ -1347,7 +1347,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Stacks 是一种数据结构，其中最后输入的数据首先出现。也称为后进先出(LIFO)。
 
-[![](../Images/ef9cfe25952daa86455349fb884e7c9e.png "Stack: push and pop")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kd2-Ir7Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.com/images/stack.jpg)
+[![](img/ef9cfe25952daa86455349fb884e7c9e.png "Stack: push and pop")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kd2-Ir7Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.cimg/stack.jpg)
 
 让我们从头开始实现一个堆栈！
 
@@ -1397,7 +1397,7 @@ Enter fullscreen mode Exit fullscreen mode
 队列是一种数据结构，其中第一个进入的数据也是第一个出去的数据。又称先进先出(FIFO)。
 这就像看电影的一队人，第一个进来的就是第一个出来的。
 
-[![](../Images/3120e260d583ec05d31e033fb4f2cc44.png "Queue: enqueue and dequeue")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zVi7Aoom--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.com/images/queue.jpg)
+[![](img/3120e260d583ec05d31e033fb4f2cc44.png "Queue: enqueue and dequeue")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zVi7Aoom--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.cimg/queue.jpg)
 
 我们可以使用数组来实现队列，这与我们实现堆栈的方式非常相似。
 

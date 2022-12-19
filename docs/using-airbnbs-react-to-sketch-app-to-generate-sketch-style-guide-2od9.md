@@ -105,7 +105,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 结果
 
-[![Airbnb's react-sketchapp styleguide example](../Images/9bb956114280cd8076495453b0f95733.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iRXPIfkp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://whoisryosuke.com/static/airbnb-react-sketchapp-styleguide-bc5d7d234a9aa73fb0f824469b398374-f3d01.jpg)
+[![Airbnb's react-sketchapp styleguide example](img/9bb956114280cd8076495453b0f95733.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iRXPIfkp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://whoisryosuke.com/static/airbnb-react-sketchapp-styleguide-bc5d7d234a9aa73fb0f824469b398374-f3d01.jpg)
 
 这是你从盒子里得到的东西。你得到了一个基本的风格指南，包括排版和颜色定义。
 
@@ -173,7 +173,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 结论
 
-[![Airbnb's react-sketchapp styleguide example with Kushy edits](../Images/e0549ed7d445c5318d61f73ac331c2cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_8e27UlC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://whoisryosuke.com/static/kushy-react-sketchapp-style-guide-0546fd74dbdacc0f56d65b4f130b72a0-89322.jpg)
+[![Airbnb's react-sketchapp styleguide example with Kushy edits](img/e0549ed7d445c5318d61f73ac331c2cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_8e27UlC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://whoisryosuke.com/static/kushy-react-sketchapp-style-guide-0546fd74dbdacc0f56d65b4f130b72a0-89322.jpg)
 
 **如果你是从零开始，**这似乎是一个有趣的实验，可以创建一组真正通用的 React 组件，用于 web 和移动设备。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ajmeyghani/javascript-frameworks-performance-comparison-a54>
 
-[![cover](../Images/aec84c819949c014bf343624ae038185.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oPS2FJ0T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8ucgt2k3m6id1jtj4vzz.png)
+[![cover](img/aec84c819949c014bf343624ae038185.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oPS2FJ0T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8ucgt2k3m6id1jtj4vzz.png)
 
 > 阅读全文，所有结果表格都在[介质](https://medium.com/@ajmeyghani/javascript-frameworks-performance-comparison-c566d19ab65b)上。
 

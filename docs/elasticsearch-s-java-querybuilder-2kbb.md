@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/solacedevs/elasticsearch-s-java-querybuilder-2kbb>
 
-[![](../Images/7eac47fb5b513d45efa2de16d75bf995.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hua1PEst--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWEQxGI2m3O-taz4FaXmGnA.png)
+[![](img/7eac47fb5b513d45efa2de16d75bf995.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hua1PEst--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWEQxGI2m3O-taz4FaXmGnA.png)
 
 在 [Solace PubSub+ Cloud](https://cloud.solace.com/) 中，我们很早就开始存储指标，以备记账和计费之用。问题是，我们不太确定将使用哪些指标，也不确定需要什么样的查询来支持我们的会计和计费需求。
 

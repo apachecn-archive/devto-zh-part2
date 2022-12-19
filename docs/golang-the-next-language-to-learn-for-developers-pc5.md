@@ -6,7 +6,7 @@
 
 有传言说 GoLang 的构思发生在开发人员等待程序编译的间歇。这些开发者厌倦了等待，不再工作。谷歌的三名程序员一如既往地应付自如。2009 年发布了 Go，2012 年发布了 1.0 版本。谷歌的三名工程师(Robert Griesemer、Ken Thompson 和 Rob Pike)创造了一种系统级语言来取代所有其他语言，因为该领域已经有一段时间没有新的语言了，而且现有的语言都没有将多线程作为核心原则。
 
-[![Robert Griesemer, Rob Pike, and Ken Thompson](../Images/6521a7d4ad9841f91e286183dadd286e.png "Robert Griesemer, Rob Pike, and Ken Thompson")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--opTYcTMa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A5O-YqwO94QUQ8OkNypcVdQ.png)
+[![Robert Griesemer, Rob Pike, and Ken Thompson](img/6521a7d4ad9841f91e286183dadd286e.png "Robert Griesemer, Rob Pike, and Ken Thompson")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--opTYcTMa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A5O-YqwO94QUQ8OkNypcVdQ.png)
 
 这三个人在过去合作过一些大项目。这包括 C 编程语言、Unix、UTF 8、JVM 和其他一些语言。Go 是一段时间以来的第一种语言，在这种语言中，现代工程师被赋予了不具备高效编译、高效执行或编程简易性的能力。这三种语言并不都可以在同一种主流编程语言中使用。Go 试图将所有这些能力整合到一种语言中。
 
@@ -24,15 +24,15 @@
 
 ### 不要相信我的话
 
-[![StackOverflow 2018 survey](../Images/f0b62c61fc58e8bc4f5d0b82ab195988.png "StackOverflow 2018 survey")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9XB9s700--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2ACx25hkOSMmBIxTHuS3X5Ew.png)
+[![StackOverflow 2018 survey](img/f0b62c61fc58e8bc4f5d0b82ab195988.png "StackOverflow 2018 survey")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9XB9s700--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2ACx25hkOSMmBIxTHuS3X5Ew.png)
 
 围棋已经在 [**StackOverflow**](https://insights.stackoverflow.com/survey/2018/#most-loved-dreaded-and-wanted) 上攀升至最受喜爱语言的第五位。开发者调查显示，目前 65.6%使用 Go 的开发者，如果有选择的话，会继续使用 Go 而不是其他语言。
 
-[![Ranking languages by Github users](../Images/d632fd63f9ffbf521cbc5314b1bd2f25.png "Ranking languages by Github users")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fOa2k3_e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Ayku8frwOl-BnGkb7fUGm3w.png)
+[![Ranking languages by Github users](img/d632fd63f9ffbf521cbc5314b1bd2f25.png "Ranking languages by Github users")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fOa2k3_e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Ayku8frwOl-BnGkb7fUGm3w.png)
 
 Go 也是 [**Github**](https://www.benfrederickson.com/ranking-programming-languages-by-github-users/) 上发展最快的语言之一，Go 正在碾压它。在 [2016](https://octoverse.github.com/2016/) ，Go 有大约 18.8 万个打开的拉取请求，比上一年增长了 93%。在 [2017](https://octoverse.github.com/) 跃升至 285k，成为 Github 上第 9 大热门语言。
 
-[![HackerRank 2018 developer skills survey](../Images/3b4e7e9b3aca70f6541b8dca922b52a2.png "HackerRank 2018 developer skills survey")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qQaKNEnC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A35tEwVztt3EO7jYDeNM-0g.png)
+[![HackerRank 2018 developer skills survey](img/3b4e7e9b3aca70f6541b8dca922b52a2.png "HackerRank 2018 developer skills survey")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qQaKNEnC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A35tEwVztt3EO7jYDeNM-0g.png)
 
 对于很多开发人员来说，Go 已经成为“下一门要学的语言”。据调查，HackerRank 正是如此，围棋遥遥领先。这个评估是从今年二月开始的。
 

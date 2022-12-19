@@ -38,7 +38,7 @@
 
 `Ctrl + S` -保存- `SHIFT + INS`
 
-[![Image result for typing mad gif](../Images/2e6be6501e250242c652c8af2ffa6b4c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k4m9QdT5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/ac226cfe289a96e242f146a304bf95ba/tenor.gif%3Fitemid%3D5315333)
+[![Image result for typing mad gif](img/2e6be6501e250242c652c8af2ffa6b4c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k4m9QdT5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.cimg/ac226cfe289a96e242f146a304bf95ba/tenor.gif%3Fitemid%3D5315333)
 
 * * *
 
@@ -46,7 +46,7 @@
 
 `Ctrl + Y`准备好了吗
 
-[![Image result for undo redo gif](../Images/5a3affb058f18336d1ce88a375499a1c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b4_vDCnz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/t9md/t9md/19e4086ce7f16bd802fd8ec609b422a45a05f8db/img/vim-mode-plus/flash-undo-redo.gif)
+[![Image result for undo redo gif](img/5a3affb058f18336d1ce88a375499a1c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b4_vDCnz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/t9md/t9md/19e4086ce7f16bd802fd8ec609b422a45a05f8db/img/vim-mode-plus/flash-undo-redo.gif)
 
 * * *
 
@@ -60,7 +60,7 @@
 
 `Windows + Left/ Right Arrow` -将当前窗口/应用移动到下一个屏幕的左侧/右侧。
 
-[![Image result for typing mad gif](../Images/9209922a8bb41108be08ce48cf7ee416.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xj1tXTUY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/4dSv0jH.gif)
+[![Image result for typing mad gif](img/9209922a8bb41108be08ce48cf7ee416.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xj1tXTUY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/4dSv0jH.gif)
 
 * * *
 
@@ -68,7 +68,7 @@
 
 `Shift + Alt + Tab` -反转窗口标签移动
 
-[![Image result for typing mad gif](../Images/468594a8e137e9779a336b57e4e1823f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pdgvX-kA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media0.giphy.com/media/3o6Ei2yv8fqpR3nJG8/giphy-preview.gif)
+[![Image result for typing mad gif](img/468594a8e137e9779a336b57e4e1823f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pdgvX-kA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media0.giphy.com/media/3o6Ei2yv8fqpR3nJG8/giphy-preview.gif)
 
 * * *
 
@@ -78,7 +78,7 @@
 
 正如你所看到的，在上面两个例子中，shift 键，`SHIFTS`tab 键的方向！这样想的话真的很直观！
 
-[![Image result for alt tab gif](../Images/edc387f5c462d1aecf18d198e0e9e48e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AIvUCqqe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cloud.addictivetips.com/wp-content/uploads/2016/04/tab-cycle.gif)
+[![Image result for alt tab gif](img/edc387f5c462d1aecf18d198e0e9e48e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AIvUCqqe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cloud.addictivetips.com/wp-content/uploads/2016/04/tab-cycle.gif)
 
 * * *
 
@@ -86,7 +86,7 @@
 
 `Ctrl + Shift + Arrow` -移动光标到下一个特殊字符或空格，`and highlight.`
 
-[![Image result for fast typing gif](../Images/00204e296d49c95058186837f6a4f128.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UT-Me8Fr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://www.typingspeedtests.net/images/typing-speed-tests-practice.gif)
+[![Image result for fast typing gif](img/00204e296d49c95058186837f6a4f128.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UT-Me8Fr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://www.typingspeedtests.nimg/typing-speed-tests-practice.gif)
 
 * * *
 
@@ -94,7 +94,7 @@
 
 下面是一个包含在 VSCode 中的快捷方式列表——大多数 IDE 都有配置快捷方式的选项，所以如果你使用其他的东西，试着设置一下吧！
 
-[![Image result for vscode banner](../Images/d27ab1d8f00fa134d2aa481a3995dcb4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AXPRI90N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/www.marcobeltempo.com/wp-content/uploads/2017/09/visual_studio_code_banner_resized.png%3Fresize%3D1025%252C266)
+[![Image result for vscode banner](img/d27ab1d8f00fa134d2aa481a3995dcb4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AXPRI90N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/www.marcobeltempo.com/wp-content/uploads/2017/09/visual_studio_code_banner_resized.png%3Fresize%3D1025%252C266)
 
 `Alt + Left Arrow` -返回-上一个光标位置，这可能在不同的文件中。
 
@@ -114,7 +114,7 @@
 
 `Ctrl + /` -注释切换
 
-[![Image result for comment uncomment visual studio gif](../Images/9d2c77949d016203b3330947b2cbcd9b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--19M4Y9-m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://joakimysland.com/wp-content/uploads/2015/05/vs_toggle_commenting.gif)
+[![Image result for comment uncomment visual studio gif](img/9d2c77949d016203b3330947b2cbcd9b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--19M4Y9-m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://joakimysland.com/wp-content/uploads/2015/05/vs_toggle_commenting.gif)
 
 * * *
 
@@ -126,7 +126,7 @@
 
 `Ctrl + Shift + R` -重构
 
-[![Image result for rename vscode gif](../Images/e63f6c1beb2be614fee6e444bb67525d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OmYsAkto--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://code.visualstudio.com/assets/docs/editor/refactoring/ts-extract-local.gif)
+[![Image result for rename vscode gif](img/e63f6c1beb2be614fee6e444bb67525d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OmYsAkto--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://code.visualstudio.com/assets/docs/editor/refactoring/ts-extract-local.gif)
 
 * * *
 
@@ -134,7 +134,7 @@
 
 这将节省你很多时间，如果你的代码库是一个庞大的庞然大物，那么这将非常方便。
 
-[![Image result for goto definition gif](../Images/41aa21ea24c27a3958962742347740c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h7QVUVxg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/20873402/27774345-75d635c8-5f45-11e7-9ea1-b17a3c8da345.gif)
+[![Image result for goto definition gif](img/41aa21ea24c27a3958962742347740c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h7QVUVxg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/20873402/27774345-75d635c8-5f45-11e7-9ea1-b17a3c8da345.gif)
 
 * * *
 
@@ -146,11 +146,11 @@
 
 `Ctrl + Shift + L` -多光标，选择文件中的全部
 
-[![Multiple Selection](../Images/ba60d9fe031c9301f18560b56b9a15ab.png)T2】](https://camo.githubusercontent.com/fc051d3b31b546d0ccdcb66e3bab78f084225b8e/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f3239363433322f313835303239312f38613230343664632d373663632d313165332d396237392d3530653062323938663265642e676966)
+[![Multiple Selection](img/ba60d9fe031c9301f18560b56b9a15ab.png)T2】](https://camo.githubusercontent.com/fc051d3b31b546d0ccdcb66e3bab78f084225b8e/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f3239363433322f313835303239312f38613230343664632d373663632d313165332d396237392d3530653062323938663265642e676966)
 
 `Ctrl + P` -快速查找-文件等
 
-[![Quick Find](../Images/fef3fa427837f00b581bb537f82c57c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LodHYhAZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ArmalZkfRK8jeC5s7yf6spQ.gif)
+[![Quick Find](img/fef3fa427837f00b581bb537f82c57c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LodHYhAZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ArmalZkfRK8jeC5s7yf6spQ.gif)
 
 * * *
 
@@ -162,6 +162,6 @@
 
 **我们都努力成为键盘忍者！**
 
-[![Related image](../Images/e36851dd0195204c54ef91fccdef0275.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ng3Gn35x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.seejenwrite.com/blog/wp-content/uploads/2015/03/ninja-04-desk.jpg)
+[![Related image](img/e36851dd0195204c54ef91fccdef0275.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ng3Gn35x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.seejenwrite.com/blog/wp-content/uploads/2015/03/ninja-04-desk.jpg)
 
 你有其他我们应该使用的键盘快捷键吗？

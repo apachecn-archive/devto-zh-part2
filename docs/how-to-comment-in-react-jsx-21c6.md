@@ -28,6 +28,6 @@
     )
     }
 
-[![](../Images/2fc38b75a2316c6e36cb60499336350f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WeL-WlOB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-9_KwL66-Ny0/W2btxCBM8ZI/AAAAAAAABvQ/CQ5SKDrQPtUfKRhS_nRXW-Zeq9445bypQCLcBGAs/s320/reactcomment.jpg)
+[![](img/2fc38b75a2316c6e36cb60499336350f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WeL-WlOB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-9_KwL66-Ny0/W2btxCBM8ZI/AAAAAAAABvQ/CQ5SKDrQPtUfKRhS_nRXW-Zeq9445bypQCLcBGAs/s320/reactcomment.jpg)
 
 [阅读更多...](https://www.skptricks.com/2018/08/how-to-comment-in-react-jsx.html)

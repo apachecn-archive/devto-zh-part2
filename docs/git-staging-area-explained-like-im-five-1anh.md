@@ -4,7 +4,7 @@
 
 想象一个盒子。你可以把东西放进盒子里。你可以从盒子里拿出东西。这个盒子是 Git 的集结地。您可以在这里手工提交。承诺就像密封那个盒子，并在上面贴上标签。盒子里的东西是你的改变。那么，为什么标签没有意义呢？你不会把一个装有厨房用品的搬家盒子简单地称为“东西”
 
-[![Staging Area](../Images/91cd18b7f796ade6ebf8b661ad9db0fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Si7ksd-d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AdiRLm1S5hkVoh5qeArND0Q.png)
+[![Staging Area](img/91cd18b7f796ade6ebf8b661ad9db0fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Si7ksd-d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AdiRLm1S5hkVoh5qeArND0Q.png)
 
 当您在本地进行更改时，Git 可以“看到”它们。然而，形象地说，它们是开箱即用的。如果您试图在此时提交，Git 不会提交任何东西。
 

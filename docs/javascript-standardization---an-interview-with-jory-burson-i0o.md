@@ -4,7 +4,7 @@
 
 跑步活动的一大好处是，你会不时有机会邀请你欣赏的人来演讲。对我来说，Jory Burson 就属于这种情况，他将是今年 10 月 25 日至 26 日在波士顿举行的[jsmobilecoff](https://jsmobileconf.com/)第二天的主题演讲人之一。
 
-[![Jory Burson](../Images/9c1ec8f9151b0bb55cf1e92c00d1ed27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3M7gLtCS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8gddku884t490b6dr46x.jpeg)
+[![Jory Burson](img/9c1ec8f9151b0bb55cf1e92c00d1ed27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3M7gLtCS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8gddku884t490b6dr46x.jpeg)
 
 Jory 是波士顿著名的网络平台咨询公司 Bocoup 的标准联络员和前首席运营官。我第一次有机会见到 Jory 是在大约七年前，当时我参加了 Bocoup 的一个培训课程。这些年来，随着我对她的了解，我看到她在 Bocoup 和 Bocoup 的宣传工作中担任领导职务，成为 Ecma International、JS Foundation、W3C 和 MDN 产品咨询委员会的代表。
 

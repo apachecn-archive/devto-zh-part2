@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/igorsantos07/how-to-set-different-defaults-for-author-and-committer-atgit-3dd1>
 
-> [![Me, looking for a way to set different author and committer on Google: nowhere to be found](../Images/a254fde1ece6ef98ad24dd48c8520631.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--eJvBMGI9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/seruk4cobw387yhgyfum.jpg) 
+> [![Me, looking for a way to set different author and committer on Google: nowhere to be found](img/a254fde1ece6ef98ad24dd48c8520631.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--eJvBMGI9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/seruk4cobw387yhgyfum.jpg) 
 > *我，想办法在 Google 上设置不同的作者和提交者:无处可寻。悲伤的伊戈尔很悲伤。*
 
 我希望有一个不同于默认作者的默认提交者，因为我需要区分来自本地和测试环境的提交。

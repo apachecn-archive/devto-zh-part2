@@ -14,6 +14,6 @@
 
 在我部署设置中，我可以设置秘密 URL:
 
-[![](../Images/f70e92f89175899cf77965e79521f9cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nWfJ06yJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t3gv6j83e577im57v8wp.png)
+[![](img/f70e92f89175899cf77965e79521f9cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nWfJ06yJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t3gv6j83e577im57v8wp.png)
 
 ...这确保了没有字体文件的痕迹留在存储库中！👮‍♂️

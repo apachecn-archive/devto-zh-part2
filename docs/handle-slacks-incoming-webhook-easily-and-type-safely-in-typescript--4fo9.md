@@ -8,7 +8,7 @@
 
 使用 VSCode 时启用代码完成。
 
-[![vscode\.gif \(898×298\)](../Images/95dde8c0ed30d7e29fa3b621c396d5d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xhkRTt8---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/starhoshi/typed-slack/master/docs/vscode.gif)
+[![vscode\.gif \(898×298\)](img/95dde8c0ed30d7e29fa3b621c396d5d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xhkRTt8---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/starhoshi/typed-slack/master/docs/vscode.gif)
 
 ## 安装
 
@@ -69,4 +69,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 请使用[型松紧](https://github.com/starhoshi/typed-slack)！
 
-[![](../Images/5a97db3d7a39822ad384dd324227937d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AxJnohXO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/starhoshi/typed-slack/master/docs/logo.png)
+[![](img/5a97db3d7a39822ad384dd324227937d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AxJnohXO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/starhoshi/typed-slack/master/docs/logo.png)

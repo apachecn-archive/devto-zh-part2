@@ -69,7 +69,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这会导致图像损坏:
 
-[![broken image](../Images/23d0fe410946eb8cc7d6f4502e014d4c.png "No xmlns")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g9OqsXbr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/3Lsgp7A.png)
+[![broken image](img/23d0fe410946eb8cc7d6f4502e014d4c.png "No xmlns")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g9OqsXbr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/3Lsgp7A.png)
 
 属性*的`xmlns`必须*包含在``元素中:
 
@@ -84,6 +84,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在成功了:
 
-[![working image](../Images/c2b1309c406b217f9e6ae14d706c076f.png "Yes xmlns")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qvvzdZ9u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/G6bw388.png)
+[![working image](img/c2b1309c406b217f9e6ae14d706c076f.png "Yes xmlns")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qvvzdZ9u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/G6bw388.png)
 
 在这种情况下，Chrome 不能容忍缺少`xmlns`属性，我想这是一致的:只有内嵌在 HTML 标记中的``、[才允许省略`xmlns`属性](https://www.w3.org/TR/html5/syntax.html#foreign-elements)。用作`<img>`的`src`的外部 SVG 必须包含它，即使 SVG 是“内联的”,因为它是由文档本身作为 blob 创建的，即使 MIME 类型是`image/svg+xml`。

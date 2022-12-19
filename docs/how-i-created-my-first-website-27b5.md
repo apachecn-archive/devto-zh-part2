@@ -8,7 +8,7 @@
 
 从一开始，我就用 GitHub 来托管我的代码库和网站。你可以点击查看[代码。根据 Git 历史记录，第一次提交是在 2017 年 9 月 6 日。这意味着我花了 430 多天才把它出版。](https://github.com/joshi-chinmay/joshi-chinmay.github.io)
 
-[![slow-snail](../Images/2032d20a9a351fb229dbb0d76e93d376.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1NIvC9aC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n2e2daxkjvme6mi72zjh.gif)
+[![slow-snail](img/2032d20a9a351fb229dbb0d76e93d376.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1NIvC9aC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n2e2daxkjvme6mi72zjh.gif)
 
 ### 我写博客有三个主要原因-
 
@@ -24,42 +24,42 @@
 
 背景颜色会根据您访问网站的时间而变化。如果晚上 7 点以后访问，可以看到夜间模式，一直活跃到早上 7 点。有一个按钮可以在白天和夜晚模式之间切换。
 
-[![day-night-mode](../Images/59f03d904468813249349d6a4bc8e401.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3ivi4YMo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1135wvlgxj5yxckedw8s.png)
+[![day-night-mode](img/59f03d904468813249349d6a4bc8e401.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3ivi4YMo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1135wvlgxj5yxckedw8s.png)
 
 #### 2。圆形透明玻璃效果-
 
 我创建了一个半透明的玻璃外观元素层，带有隐藏的滚动条。可见的滚动条可能破坏了整体的流动性和 UX。
 
-[![round-shape](../Images/62c4d6f9f8a472b39605273689a52ae6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MQiAZQTN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mv9o8r4dc4wy95kszsv8.png)
+[![round-shape](img/62c4d6f9f8a472b39605273689a52ae6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MQiAZQTN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mv9o8r4dc4wy95kszsv8.png)
 
 #### 3。自动关闭登录页面-
 
 当任何人打开网站时，首先看到的是一个垂直浮动的动画 gif，上面有一条欢迎消息。还有一个跳转到主网站的功能。你可以在这里找到打字机风格的效果。
 
-[![landing-page](../Images/380a03b6518f43a46f2c705daf940743.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pZ613os---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a95xw68fpmg9akctzg58.png)
+[![landing-page](img/380a03b6518f43a46f2c705daf940743.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pZ613os---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a95xw68fpmg9akctzg58.png)
 
 #### 4。到处都是小写字母-
 
 我不知道我为什么会做那个决定。我只是想在排版方面变得古怪。我决定不使用任何外部字体，因为 monospace 看起来真的很好。当我开始设计时，我用的是 [Nunito](https://fonts.google.com/specimen/Nunito) 。
 
-[![lowercase-letters](../Images/eba65cdfcaff7931ef81c53b45dea4b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Era-gInx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v1vqdp3zdbf44u6z31xd.png)
+[![lowercase-letters](img/eba65cdfcaff7931ef81c53b45dea4b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Era-gInx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v1vqdp3zdbf44u6z31xd.png)
 
 #### 5。大字体大小-
 
 之前我使用了相对较小的字体，这降低了可读性。所以我决定一切都用粗体和大字体。因此，文本保留了更多的空间。在整个页面中，我添加了额外的行高和字母间距，以使外观更加整洁。
 
-[![css-snippet](../Images/6d13008a6694b4e4911197890c8b2770.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vhfd7wRF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/609izzsbglv30d5fwuz9.png)
+[![css-snippet](img/6d13008a6694b4e4911197890c8b2770.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vhfd7wRF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/609izzsbglv30d5fwuz9.png)
 
 #### 6。点击查看更多信息-
 
 在主页上，您可以看到一个图标`[+]`，它将帮助您展开相关部分。当你切换`[+]`图标时，它变成了`[-]`，反之亦然。展开另一个选项卡后，之前打开的选项卡将自动关闭。这种想法背后的原因是为了节省一些空间和避免过多的页面滚动。
 
-[![click-to-view-more](../Images/6ce71f79262806d6e60435baa3e436ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9J8ZePvE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wksso5z52aaouau22zmx.png)
+[![click-to-view-more](img/6ce71f79262806d6e60435baa3e436ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9J8ZePvE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wksso5z52aaouau22zmx.png)
 
 #### 7。令人满意的灯塔评分-
 
 在性能方面还有很多需要改进的地方。
-[![lighthouse](../Images/290b8dad1941df1d8f02246e1f2dbfaa.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--pQMiw7gE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pdlvzdpx5pm2ohfgqvr8.png)
+[![lighthouse](img/290b8dad1941df1d8f02246e1f2dbfaa.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--pQMiw7gE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pdlvzdpx5pm2ohfgqvr8.png)
 
 * * *
 
@@ -95,17 +95,17 @@
 
 这个美妙的开发者社区激励我创建了自己的网站。
 
-[![aspittel image](../Images/45a8d86fe0ff981bf7cdb45b471a3c5c.png)](/aspittel) [## 构建一流的投资组合
+[![aspittel image](img/45a8d86fe0ff981bf7cdb45b471a3c5c.png)](/aspittel) [## 构建一流的投资组合
 
 ### 阿里·斯皮特尔 8 月 2 日 186 分钟阅读
 
 #portfolio #webdev #career #beginners](/aspittel/building-a-kickass-portfolio-28ph)
-[![flexdinesh image](../Images/ecb6dc2da1bf85c037ac132f5ed867ea.png)](/flexdinesh) [## 我用 React 和一些魔法创建了我的作品集🎉
+[![flexdinesh image](img/ecb6dc2da1bf85c037ac132f5ed867ea.png)](/flexdinesh) [## 我用 React 和一些魔法创建了我的作品集🎉
 
 ### dinesh pandi Yan 4 月 1 日 185 分钟阅读
 
 #css #react #javascript #webdev](/flexdinesh/i-re-wrote-my-portfolio-and-added-some-magic-22n7)
-[![mokkapps image](../Images/32b6535a076c70f35a2d05aaf7799b79.png)](/mokkapps) [## 我新的 Kickass 投资组合网站
+[![mokkapps image](img/32b6535a076c70f35a2d05aaf7799b79.png)](/mokkapps) [## 我新的 Kickass 投资组合网站
 
 ### 迈克尔霍夫曼 9 月 2 日 181 分钟阅读
 
@@ -115,7 +115,7 @@ Also, many more searches like [this](https://dev.to/search?q=portfolio) and [thi
 #### 2。dinesh pandi Yan-[@ flexdinesh](https://dev.to/flexdinesh)，[网站](https://flexdinesh.github.io/) -
 
 我看了他的网站，实际上是剽窃了他关于下雨背景效果的想法。它是如此微妙和美丽。谢谢你，迪内什。
-[![dinesh-commit-history](../Images/289f8677c31d781830cbae03dd480800.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zt6xw3cg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x0nfwyreqklezwfkqyfu.png)
+[![dinesh-commit-history](img/289f8677c31d781830cbae03dd480800.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zt6xw3cg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x0nfwyreqklezwfkqyfu.png)
 
 #### 3。阿里·斯皮特尔-[@阿斯皮特尔](https://dev.to/aspittel) -
 
@@ -131,6 +131,6 @@ Also, many more searches like [this](https://dev.to/search?q=portfolio) and [thi
 
 #### 你最喜欢哪种模式...白天还是晚上？
 
-[![side-by-side](../Images/d3f81c1da4b1a48705a30409aead7719.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E6WP9UrR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/da9lmjk3cvl5sxysjcht.jpg)
+[![side-by-side](img/d3f81c1da4b1a48705a30409aead7719.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E6WP9UrR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/da9lmjk3cvl5sxysjcht.jpg)
 
 * * *

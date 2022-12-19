@@ -88,7 +88,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 接下来，如果你正在使用 Chrome，进入你的开发者工具，选择“网络”标签并刷新你的页面。仅按 JS 文件过滤，您应该会看到类似这样的内容:
 
-[![Preloading in WordPress](../Images/e186bbcb1c14acc4b649d7e88f345ff3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WJXIMfxg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://macarthur.me/static/cefe025484c3a7ad9f501e1c7b575532/a296c/preloading.jpg)
+[![Preloading in WordPress](img/e186bbcb1c14acc4b649d7e88f345ff3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WJXIMfxg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://macarthur.me/static/cefe025484c3a7ad9f501e1c7b575532/a296c/preloading.jpg)
 
 按照预加载的顺序，顶部的每个文件都应该具有“高”优先级。
 

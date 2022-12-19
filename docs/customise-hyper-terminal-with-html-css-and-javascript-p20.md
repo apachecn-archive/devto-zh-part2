@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/mrfrontend/customise-hyper-terminal-with-html-css-and-javascript-p20>
 
-[![](../Images/821450ddfafcae6f83dab686b90af843.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--32JatZqE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AGyzPmVlGfVE_UnaM0VNG5Q.jpeg)
+[![](img/821450ddfafcae6f83dab686b90af843.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--32JatZqE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AGyzPmVlGfVE_UnaM0VNG5Q.jpeg)
 
 如今，许多开发人员在终端上花费了大量的时间，以至于它成了开发工作流程中的一个重要工具。
 

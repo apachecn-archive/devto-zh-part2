@@ -4,7 +4,7 @@
 
 # Magento 平台迁移
 
-[![Alt text of image](../Images/0302237875c517027b7437dd3e5a3b5f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--24ROAD-l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eo9yphp728y7ljykh6wm.PNG) 近段时间很多网店店主已经开始[迁移到 Magento 2 平台](https://www.webnexs.com/magento-migration.php?utm_source=devto&utm_medium=article&utm_term=Ecommerce&utm_campaign=praveen)。这是因为该平台提供了各种优势。
+[![Alt text of image](img/0302237875c517027b7437dd3e5a3b5f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--24ROAD-l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eo9yphp728y7ljykh6wm.PNG) 近段时间很多网店店主已经开始[迁移到 Magento 2 平台](https://www.webnexs.com/magento-migration.php?utm_source=devto&utm_medium=article&utm_term=Ecommerce&utm_campaign=praveen)。这是因为该平台提供了各种优势。
 
 通常，有五类重要的数据必须从你现在的商店转移到 Magento。
 
@@ -18,7 +18,7 @@
 
 ## Shopify 到 Magento2 迁移
 
-[![Alt text of image](../Images/445ca1b48d09bb06307e26204234b00a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--a9L9KDxl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6aocsnfvvifctqrzdbf7.PNG)
+[![Alt text of image](img/445ca1b48d09bb06307e26204234b00a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--a9L9KDxl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6aocsnfvvifctqrzdbf7.PNG)
 Shopify 向 Magento 2 迁移的优势
 强大的安全功能
 用于追加销售和交叉销售的工具
@@ -28,7 +28,7 @@ Shopify 向 Magento 2 迁移的优势
 
 ## 预铺至 Magento2 偏移
 
-[![Alt text of image](../Images/8be56c05f0e7cdf0209b5ef2e9650bac.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--E-cOLDhq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k14tsxg9ch3h2wg21blf.PNG)
+[![Alt text of image](img/8be56c05f0e7cdf0209b5ef2e9650bac.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--E-cOLDhq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k14tsxg9ch3h2wg21blf.PNG)
 Prestashop 向 Magento 2 迁移的优势
 适合所有规模的企业
 用户友好性
@@ -38,7 +38,7 @@ SEO 功能
 
 ## BigCommerce 到 Magento2 迁移
 
-[![Alt text of image](../Images/546d12c4d140bd4f22b90cb7c598b153.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LqoerkZq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/abeiimo62fc5qisn61lf.PNG)
+[![Alt text of image](img/546d12c4d140bd4f22b90cb7c598b153.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LqoerkZq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/abeiimo62fc5qisn61lf.PNG)
 big commerce 向 Magento 2 迁移的优势
 语义编码
 全编程访问
@@ -48,7 +48,7 @@ W3 验证
 
 ## WooCommerce 到 Magento2 迁移
 
-[![Alt text of image](../Images/7896815661227d4b85cfd419d879783b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--x7Xq_8ld--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5zvbjka2ykz3nobmie35.PNG)
+[![Alt text of image](img/7896815661227d4b85cfd419d879783b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--x7Xq_8ld--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5zvbjka2ykz3nobmie35.PNG)
 woo commerce 向 Magento 2 迁移的优势
 处理大型商店
 分层导航
@@ -58,7 +58,7 @@ woo commerce 向 Magento 2 迁移的优势
 
 ## Zencart 到 Magento2 迁移
 
-[![Alt text of image](../Images/1fb6d3c9823577bd41d87d9b0bd21c00.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EF0L3LiS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/72qww1gz3coljfxkq1ik.PNG)
+[![Alt text of image](img/1fb6d3c9823577bd41d87d9b0bd21c00.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EF0L3LiS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/72qww1gz3coljfxkq1ik.PNG)
 Zen cart 向 Magento 2 迁移的优势
 独特和高级功能的数量
 可用设计的数量

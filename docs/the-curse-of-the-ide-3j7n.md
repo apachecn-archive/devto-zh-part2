@@ -12,7 +12,7 @@
 
 现在，在我们深入讨论之前，我要求你们不要把这作为真正的程序员使用 Emacs、Vim、Nano 或 butterflies 的证据...
 
-[![XKCD: Real Programmers](../Images/ca69b0e1dd14c9bfc5b7e335c99a3a66.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xbuzAuCG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgs.xkcd.com/comics/real_programmers.png)
+[![XKCD: Real Programmers](img/ca69b0e1dd14c9bfc5b7e335c99a3a66.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xbuzAuCG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgs.xkcd.com/comics/real_programmers.png)
 
 集成开发环境，对我们这些痴迷于缩写词的书呆子来说，绝对是不可思议的工具。我甚至认为它们是几乎所有现代程序员工具箱中必不可少的工具。如果您还没有找到，那么您真的需要找到，尤其是因为有数百种代码可供选择:Visual Studio 代码、Atom、括号、Eclipse、Emacs、Jetbrains 中的任何东西...
 

@@ -18,7 +18,7 @@
 
 这种技术也被认为是传统的，但它将简单的经典方法提升到了新的水平。顾名思义，该技术基于任务的顺序执行。前一步完成后，下一步开始。为了监控进度和执行的步骤，经常使用甘特图，因为它们提供了阶段和依赖关系的清晰的可视化表示。
 
-[![waterfall technique](../Images/a2e130c77236246dcba171ad63bf1298.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JJ3DYvRa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.actitime.com/dist/img/blog/pm-tools-and-techniques/charts/chart1.png)
+[![waterfall technique](img/a2e130c77236246dcba171ad63bf1298.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JJ3DYvRa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.actitime.com/dist/img/blog/pm-tools-and-techniques/charts/chart1.png)
 
 在哪里使用:这种技术传统上用于复杂的项目，其中需要详细的阶段划分，并且成功的交付依赖于严格的工作结构。
 
@@ -26,7 +26,7 @@
 
 敏捷项目管理方法是一套基于以价值为中心的方法的原则。它规定将项目工作分成短时间的冲刺，使用适应性计划和持续改进，并培养团队的自组织和协作，目标是产生最大价值。敏捷框架包括诸如 Scrum、看板、DSDM、FDD 等技术。
 
-[![agile](../Images/77d8160c2f4b65a7761d22dfd537124b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v2a2ibRM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.actitime.com/dist/img/blog/pm-tools-and-techniques/charts/chart2.png)
+[![agile](img/77d8160c2f4b65a7761d22dfd537124b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v2a2ibRM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.actitime.com/dist/img/blog/pm-tools-and-techniques/charts/chart2.png)
 
 在哪里使用:敏捷被用在软件开发项目中，这些项目涉及到频繁的迭代，并且由小型的、高度协作的团队来执行。
 
@@ -40,7 +40,7 @@ Rational 统一过程(RUP)是一个为软件开发团队和项目设计的框架
 
 计划评审技术(PERT)是在各个领域广泛使用的方法之一。它涉及复杂而详细的计划，以及在 [PERT 图](https://www.brighthubpm.com/software-reviews-tips/2791-pros-and-cons-of-pert-and-gantt-charts/)上对工作结果的可视化跟踪。它的核心部分是对项目中执行的任务的分析。最初，这项技术是由美国海军在冷战期间开发的，以提高新技术的工作效率。
 
-[![PERT](../Images/4dcdf6d4dd3ae55cacf48db257c177e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p40CLVuy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.actitime.com/dist/img/blog/pm-tools-and-techniques/charts/chart3.png)
+[![PERT](img/4dcdf6d4dd3ae55cacf48db257c177e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p40CLVuy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.actitime.com/dist/img/blog/pm-tools-and-techniques/charts/chart3.png)
 
 何处使用:这种技术最适合具有非常规任务和挑战性需求的大型长期项目。
 
@@ -48,7 +48,7 @@ Rational 统一过程(RUP)是一个为软件开发团队和项目设计的框架
 
 实际上，这种技术是一种用于安排和计划项目工作的算法，通常与上面讨论的 PERT 方法结合使用。这项技术包括检测从项目开始到结束的最长路径(任务序列),并定义关键任务。关键任务是影响整个项目期限的任务，需要更密切的关注和彻底的控制。
 
-[![critical path technique](../Images/be2abe57d58d9becfce31a82c37524e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N_L-EwYG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.actitime.com/dist/img/blog/pm-tools-and-techniques/charts/chart4.png)
+[![critical path technique](img/be2abe57d58d9becfce31a82c37524e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N_L-EwYG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.actitime.com/dist/img/blog/pm-tools-and-techniques/charts/chart4.png)
 
 使用场合:关键路径技术用于复杂的项目，在这些项目中，交付期限和截止日期是至关重要的，例如建筑、国防、软件开发等领域。
 
@@ -62,7 +62,7 @@ Rational 统一过程(RUP)是一个为软件开发团队和项目设计的框架
 
 极端项目管理技术(XPM)强调计划的弹性，开放的方法，减少形式主义和确定性管理。它源于极限编程方法，关注项目管理中的人的因素，而不是形式化方法和严格的阶段。
 
-[![extreme project management](../Images/7eb9661e29e8d57050a6aad584d12a6b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--plzpnt1C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.actitime.com/dist/img/blog/pm-tools-and-techniques/charts/chart5.png)
+[![extreme project management](img/7eb9661e29e8d57050a6aad584d12a6b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--plzpnt1C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.actitime.com/dist/img/blog/pm-tools-and-techniques/charts/chart5.png)
 
 何处使用:XPM 用于大型、复杂和不确定的项目，这些项目需要管理不确定和不可预测的因素。
 

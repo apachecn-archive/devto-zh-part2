@@ -8,4 +8,4 @@
 
 [React 中默认道具的完整指南](https://www.skptricks.com/2018/11/a-complete-guide-to-default-props-in-react-app.html)
 
-[![](../Images/bb2c94dfbc3dd4794f4ad89223a62e0d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oUKO3D2l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-ueJ7Pdx_cF8/W-pxZHHrCMI/AAAAAAAACIY/1eRYBspfRZMnIB1pzGepKhP3pRPCXmSVACLcBGAs/s640/default.png)
+[![](img/bb2c94dfbc3dd4794f4ad89223a62e0d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oUKO3D2l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-ueJ7Pdx_cF8/W-pxZHHrCMI/AAAAAAAACIY/1eRYBspfRZMnIB1pzGepKhP3pRPCXmSVACLcBGAs/s640/default.png)

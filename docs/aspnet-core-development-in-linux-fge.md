@@ -12,7 +12,7 @@
 
 请注意，这里描述的所有工具都是跨平台的，所有这些工具都可以在任何支持。网芯。
 
-[![.NET Core Linux](../Images/a0191ffab17e0ac5f31e3052c6cf2fca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bBAV4sEw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.blinkingcaret.com/wp-content/uploads/2018/03/NET-CoreLinux.png)
+[![.NET Core Linux](img/a0191ffab17e0ac5f31e3052c6cf2fca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bBAV4sEw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.blinkingcaret.com/wp-content/uploads/2018/03/NET-CoreLinux.png)
 
 ## IDE
 
@@ -210,7 +210,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 之后，我们现在可以转到`launch.json`并点击“添加配置...”左下角的按钮。
 
-[![Add Configuration... button](../Images/cb0ff3e2baa4b05c7e9c666682ace1f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--llnnMXdO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.blinkingcaret.com/wp-content/uploads/2018/02/add_configuration_vscode.png)
+[![Add Configuration... button](img/cb0ff3e2baa4b05c7e9c666682ace1f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--llnnMXdO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.blinkingcaret.com/wp-content/uploads/2018/02/add_configuration_vscode.png)
 
 选择”。Net:推出一个本地。NET 核心 Web 应用程序”并在生成的 json 中将“程序”和“cwd”(当前工作目录)改为:
 
@@ -223,7 +223,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，您可以转到 Visual Studio 代码的调试“部分”,在那里查看 Web 和控制台应用程序配置:
 
-[![Select configuration](../Images/33e704990aa7cc584f9b3c8d0573dc6d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DyPQw3yM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.blinkingcaret.com/wp-content/uploads/2018/02/select_vscode_configuration_f5.png)
+[![Select configuration](img/33e704990aa7cc584f9b3c8d0573dc6d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DyPQw3yM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.blinkingcaret.com/wp-content/uploads/2018/02/select_vscode_configuration_f5.png)
 
 注意，如果愿意，您可以更改配置名称，只需更改`launch.json`中的“name”属性。
 
@@ -304,7 +304,7 @@ Reminder 类有一个 Id 属性、一个描述、一个日期和一个 boolean �
 
 你需要做的第一件事是安装[*C #扩展*扩展](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions)。然后右击提醒。在资源管理器中查看并选择新建类:
 
-[![New Class](../Images/f77267bac543c613db996069053a8f57.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TXDjERbR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.blinkingcaret.com/wp-content/uploads/2018/03/new_class_reminders.png)
+[![New Class](img/f77267bac543c613db996069053a8f57.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TXDjERbR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.blinkingcaret.com/wp-content/uploads/2018/03/new_class_reminders.png)
 
 将其命名为 Reminder.cs 并创建三个属性。最后，它应该是这样的:
 
@@ -327,7 +327,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在将光标放在课程提醒后的开始“{”处，单击灯泡并选择“从属性初始化 ctor”:
 
-[![Initialize constructor form properties](../Images/d4c2254034343301d41b8eaff11f5183.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_eFFu71k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.blinkingcaret.com/wp-content/uploads/2018/03/initialise_ctor_from_properties_reminders.png)
+[![Initialize constructor form properties](img/d4c2254034343301d41b8eaff11f5183.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_eFFu71k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.blinkingcaret.com/wp-content/uploads/2018/03/initialise_ctor_from_properties_reminders.png)
 
 您应该得到这样的结果:
 
@@ -465,7 +465,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 VS 代码提供了对运行单元测试的现成支持。例如，如果您打开 UnitTest1.cs，您会注意到在测试方法上有两个链接，运行测试和调试测试:
 
-[![run test, debug test](../Images/665df27242caed2aa76d2e3e7461fb3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w_9V9ngC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.blinkingcaret.com/wp-content/uploads/2018/03/run_test_debug_test.png)
+[![run test, debug test](img/665df27242caed2aa76d2e3e7461fb3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w_9V9ngC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.blinkingcaret.com/wp-content/uploads/2018/03/run_test_debug_test.png)
 
 这将允许你一次运行一个单元测试，在 VS 代码中没有办法运行一个项目中的所有测试。但是，您可以在终端中导航到一个测试项目，并键入:
 

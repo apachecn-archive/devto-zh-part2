@@ -6,7 +6,7 @@
 
 为什么 git 上的分支是错误的文章跨越了 154 条评论，是真正的谈话和辩论的闪电。 [@nezteb](https://dev.to/nezteb) 以一个似乎被许多人分享的观点获得了第一名:
 
-[![nezteb profile image](../Images/dd0832ff5b853cb3a5390c914b338006.png) ](/nezteb) [ Noah Betzen ](/nezteb) • [<time datetime="2018-10-27T16:45:29Z" class="date-short-year"> Oct 27 '18 </time> • Edited on <time datetime="2018-10-27T16:46:17Z" class="hidden m:inline-block date-no-year">Oct 27</time>](https://dev.to/nezteb/comment/6d31) 
+[![nezteb profile image](img/dd0832ff5b853cb3a5390c914b338006.png) ](/nezteb) [ Noah Betzen ](/nezteb) • [<time datetime="2018-10-27T16:45:29Z" class="date-short-year"> Oct 27 '18 </time> • Edited on <time datetime="2018-10-27T16:46:17Z" class="hidden m:inline-block date-no-year">Oct 27</time>](https://dev.to/nezteb/comment/6d31) 
 
 我不同意这篇文章的大部分内容，但尊重它对你有用。
 
@@ -27,7 +27,7 @@
 
 [@sergio](https://dev.to/sergio) 在**分享一个故事[你想要多少年的经验？！](https://dev.to/jsrn/you-want-how-many-years-experience-4jl4)** 跟帖，谈一个咨询师面试的有趣转折:
 
-[![sergio profile image](../Images/faa19b25655a930432e55bb71b7a3029.png) ](/sergio) [ deleteme deleteme ](/sergio) • [<time datetime="2018-10-25T14:57:54Z" class="date-short-year"> Oct 25 '18 </time>](https://dev.to/sergio/comment/6bn4) 
+[![sergio profile image](img/faa19b25655a930432e55bb71b7a3029.png) ](/sergio) [ deleteme deleteme ](/sergio) • [<time datetime="2018-10-25T14:57:54Z" class="date-short-year"> Oct 25 '18 </time>](https://dev.to/sergio/comment/6bn4) 
 
 让我想起一个同事告诉我的有趣故事。他在面试长生不老药咨询公司的职位；基本上，我们需要有人来审核我们将要做出的某些选择。
 
@@ -39,7 +39,7 @@
 
 上面的评论是一个名为 **[的](https://dev.to/ben/turns-out-language-creators-are-pretty-good-at-their-language-4ham) [#bestofdev](https://dev.to/t/bestofdev) 帖子的基础。事实证明，语言创造者非常擅长他们的语言** 。这给了 [@tux0r](https://dev.to/tux0r) 一个机会来讲述一个类似的故事:
 
-[![tux0r profile image](../Images/a4497c77ca9c9507af4e323a1e815599.png) ](/tux0r) [ tux0r ](/tux0r) • [<time datetime="2018-10-26T14:56:14Z" class="date-short-year"> Oct 26 '18 </time>](https://dev.to/tux0r/comment/6ceg) 
+[![tux0r profile image](img/a4497c77ca9c9507af4e323a1e815599.png) ](/tux0r) [ tux0r ](/tux0r) • [<time datetime="2018-10-26T14:56:14Z" class="date-short-year"> Oct 26 '18 </time>](https://dev.to/tux0r/comment/6ceg) 
 
 这让我想起了一个更古老的故事:
 
@@ -47,7 +47,7 @@
 
 从语言创造者那里转换话题， [@simonhaisz](https://dev.to/simonhaisz) 进入了 **[为什么你应该重新发明轮子](https://dev.to/quantumsheep/why-you-should-reinvent-the-wheel-4ha2)** 的讨论，围绕经常重复的建议添加一些上下文:
 
-[![simonhaisz profile image](../Images/1b8cece937611a1961c532c87281d088.png) ](/simonhaisz) [ simonhaisz ](/simonhaisz) • [<time datetime="2018-10-28T03:38:45Z" class="date-short-year"> Oct 28 '18 </time>](https://dev.to/simonhaisz/comment/6d95) 
+[![simonhaisz profile image](img/1b8cece937611a1961c532c87281d088.png) ](/simonhaisz) [ simonhaisz ](/simonhaisz) • [<time datetime="2018-10-28T03:38:45Z" class="date-short-year"> Oct 28 '18 </time>](https://dev.to/simonhaisz/comment/6d95) 
 
 也许我的经历与你的不同，但通常当我听到/说“不要重新发明轮子”时，不是“不要做 X，它已经完成了”，而是更多的“你试图建立 X，它需要 Y，已经有足够好的 Y 了，为什么不使用它，并把更多的注意力放在让你的 X 变得很棒上”。
 
@@ -55,7 +55,7 @@
 
 最后， **[一个组织者的代词按钮指南](https://dev.to/sublimemarch/an-organizers-guide-to-pronoun-buttons-afb)** 提供了宝贵的资源和重要的讨论。 [@bintlopez](https://dev.to/bintlopez) 很好地描述了为所有与会者提供适当住宿的重要性:
 
-[![bintlopez profile image](../Images/6f0e11738ba2f9e1ef6466c7ea183e2e.png) ](/bintlopez) [ Nicole ](/bintlopez) • [<time datetime="2018-10-25T15:32:58Z" class="date-short-year"> Oct 25 '18 </time>](https://dev.to/bintlopez/comment/6bno) 
+[![bintlopez profile image](img/6f0e11738ba2f9e1ef6466c7ea183e2e.png) ](/bintlopez) [ Nicole ](/bintlopez) • [<time datetime="2018-10-25T15:32:58Z" class="date-short-year"> Oct 25 '18 </time>](https://dev.to/bintlopez/comment/6bno) 
 
 会议和活动中的名字和个人关系很重要。名牌和徽章会分散注意力吗？贴纸和赠品会分散注意力吗？
 

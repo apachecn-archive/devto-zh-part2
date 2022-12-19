@@ -4,7 +4,7 @@
 
 # 蜂巢思维，不，不是外星人，我们说的是硬件！
 
-[![](../Images/0849a82b29d99198b8e44ec391f534c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ghwf-Sgu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://proxy.duckduckgo.com/iu/%3Fu%3Dhttps%253A%252F%252Fmedia.giphy.com%252Fmedia%252Fl3V0ma60jQqGCoJyM%252Fgiphy.gif%26f%3D1)
+[![](img/0849a82b29d99198b8e44ec391f534c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ghwf-Sgu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://proxy.duckduckgo.com/iu/%3Fu%3Dhttps%253A%252F%252Fmedia.giphy.com%252Fmedia%252Fl3V0ma60jQqGCoJyM%252Fgiphy.gif%26f%3D1)
 
 自从我的安全冲刺出版物([1](https://dev.to/terceranexus6/security-sprint-week-1---my-project-and-first-studies-1ko)[2](https://dev.to/terceranexus6/security-sprint-week-2---choosing-a-nice-point-to-sniff-and-using-tcpdump-for-packet-analysis--e9)[3](https://dev.to/terceranexus6/security-sprint-week-3---distributed-ledger-system-and-our-first-catch-the-flag-training-dpj)[4](https://dev.to/terceranexus6/security-sprint-week-4-ca-pairs-creation-with-openssl-eia)[5](https://dev.to/terceranexus6/security-sprint-week-5-network-capture-probe--a33)[6](https://dev.to/terceranexus6/security-sprint-week-6---perl-forensic-and-new-limits-2eci)[7](https://dev.to/terceranexus6/security-sprint-week-78-a-chat-with-a-security-expert-44l9)[8&9](https://dev.to/terceranexus6/security-sprint-week-9-privacy-politics-and-the-internet-o71)[10&11](https://dev.to/terceranexus6/security-sprint-week-10--11-bluetooth-hacking--4kh3)[extra](https://dev.to/terceranexus6/security-with-haskell-3cio))以来，我已经有很长时间没有休假了，以便对我一直从事的一些安全领域进行更深入的学习、工作和实践。我最后的努力是在分布式系统和如何在无处不在的网络中应用安全。我的目标是写一篇关于这个问题的更大的论文，但是现在我想分享一下围绕这个有趣话题的可能性。
 
@@ -24,7 +24,7 @@
 
 假设我们有两种主要可能的攻击，被动和主动。被动攻击是由间谍节点执行的，它们在网络中捕捉相关信息，或者在任何情况下使通信变慢，但不会将错误的信息注入网络，这被认为是主动的。两者可以一起执行来污染整个网络，但是为了防止窒息或隔离，应该仔细构建工作。当心，劣质图纸来了！
 
-[![](../Images/597100027578a0006efd48b6a2cc0a6b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_xkEvdhQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x753o0sngjtj85u31yln.jpg)
+[![](img/597100027578a0006efd48b6a2cc0a6b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_xkEvdhQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x753o0sngjtj85u31yln.jpg)
 
 在图中，有一个由三个不同区域组成的网络，可以完美地作为房子里的传感器。所有节点具有彼此之间的“事务”的公共日志，该日志具有作为令牌的时间和内容信息。正常内容和响应时间的范围应该是预设的。在第一个事务中，T1 (A -> B)的目标是正常、健康的通信。来自 A1 的任何连接的节点可以随机地签署它，并且见证通信的状态。在 T2，不仅涉及更多的节点(A1 和 A2)，而且我想显示一个假阳性，这是考虑和警告，但不标记为主要污染。在 T3 中，一些新朋友受到牵连:*，♥(主动攻击者)和☾(被动攻击者)。☾(以及其他节点中其他可能的被动攻击者)的影响使得♥首先标记*和 f 之间被污染的通信。如果这次攻击成功，它将作为健康通信添加到日志中。哎呀！
 

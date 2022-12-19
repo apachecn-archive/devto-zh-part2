@@ -12,7 +12,7 @@
 *   潜流:`server.undertow.worker-threads`控制 [`WORKER_TASK_CORE_THREADS`](http://undertow.io/undertow-docs/undertow-docs-1.2.0/listeners.html) 默认为 [`availableProcessors() * 8`](https://github.com/undertow-io/undertow/blob/b6a87a4b4a467b297363c46747c344faaee15ded/core/src/main/java/io/undertow/Undertow.java#L419)
 *   Jetty:目前没有可用的 Spring 配置属性。人们可以通过代码和特定于 jetty 的配置来自定义 Jetty 线程池。默认的最大工作线程数是 200。
 
-[![Thread pool](../Images/e21ff5f010bc98e3334b20110c7d3c7c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lu_i65dZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j1s29xy82vr9nbvdiapy.jpg)
+[![Thread pool](img/e21ff5f010bc98e3334b20110c7d3c7c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lu_i65dZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j1s29xy82vr9nbvdiapy.jpg)
 
 ## 请求处理线程池为空时会发生什么？
 

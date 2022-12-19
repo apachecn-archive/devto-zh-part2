@@ -6,13 +6,13 @@
 
 ## 《潘多拉的盒子》
 
-[![pandora_black](../Images/54fe04ab6747ce3a3e0338da55329341.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F9brNF05--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/39673282-45fec654-5174-11e8-9bff-4bddc22faa07.png)
+[![pandora_black](img/54fe04ab6747ce3a3e0338da55329341.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F9brNF05--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/39673282-45fec654-5174-11e8-9bff-4bddc22faa07.png)
 
-[![pandora_black](../Images/52812af0a6fd46838c79cefbd259c453.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HvndlzhP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/1811616/39673286-49c46a0a-5174-11e8-89f5-5538b981d270.gif)
+[![pandora_black](img/52812af0a6fd46838c79cefbd259c453.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HvndlzhP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/1811616/39673286-49c46a0a-5174-11e8-89f5-5538b981d270.gif)
 
-[![pandora_white](../Images/a99563cfb250418ee5c95d2cdb0caa5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DkE4Buaj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/39673283-4622d724-5174-11e8-9f3f-8193340b5a0e.png)
+[![pandora_white](img/a99563cfb250418ee5c95d2cdb0caa5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DkE4Buaj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/39673283-4622d724-5174-11e8-9f3f-8193340b5a0e.png)
 
-[![pandora_white](../Images/43363c432c04a6f8d20710b5eaa9fc67.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UHii8ayP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/1811616/39673287-49f28fe8-5174-11e8-8651-f73c0e2ca98a.gif)
+[![pandora_white](img/43363c432c04a6f8d20710b5eaa9fc67.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UHii8ayP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/1811616/39673287-49f28fe8-5174-11e8-8651-f73c0e2ca98a.gif)
 
 我尝试过只用圆形和三角形来表达潘多拉的盒子。
 

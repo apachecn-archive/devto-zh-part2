@@ -4,7 +4,7 @@
 
 你好。欢迎来到 dev.to！
 
-[![Abe Simpson says, "Oh, hi there!"](../Images/5a97c16fd8f3b098b0d247bd4f2ac358.png)T2】](https://i.giphy.com/media/26tk1rgzY5mgjTuFy/giphy-downsized.gif)
+[![Abe Simpson says, "Oh, hi there!"](img/5a97c16fd8f3b098b0d247bd4f2ac358.png)T2】](https://i.giphy.com/media/26tk1rgzY5mgjTuFy/giphy-downsized.gif)
 
 在下面留下评论向社区介绍自己吧！✌️
 

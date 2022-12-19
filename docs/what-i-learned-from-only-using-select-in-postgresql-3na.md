@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jenc/what-i-learned-from-only-using-select-in-postgresql-3na>
 
-[![Fritz the Rescue Horse](../Images/6f010a9d7da295e77a7b06b2afa1ba99.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--03CnGTMv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zl8g0vtk8w19prwyuwry.png)
+[![Fritz the Rescue Horse](img/6f010a9d7da295e77a7b06b2afa1ba99.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--03CnGTMv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zl8g0vtk8w19prwyuwry.png)
 
 我的任务是为工作中的一个项目收集详细的指标，并被建议只使用 select(作为 Postgres 的新手，并对生产进行查询)，这样我就不会破坏整个系统。
 

@@ -10,13 +10,13 @@
 
 * * *
 
-[![PhonicMind](../Images/01e756f0985474d3087c2d1fb180a167.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w2ZtMEN8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/evtxq0qg976yn9o4qfug.jpg)
+[![PhonicMind](img/01e756f0985474d3087c2d1fb180a167.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w2ZtMEN8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/evtxq0qg976yn9o4qfug.jpg)
 
 PhonicMind 将自己标榜为“在线人工智能声乐提取器”，这是一种使用“人工智能”从音频文件中提取声乐轨迹以改善结果的在线工具。这是一个商业产品(你必须付费才能使用)，在 Tensorflow 中有一个基于深度神经网络的[https://github.com/andabi/music-source-separation](https://dev.toGitHub)知识库，可以将歌声从音乐中分离出来。我没有深入调查，也不关心这两者是否有关联。
 
 * * *
 
-[![Lightbulb](../Images/c3c8f664a3be3ea1873215f1643457f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zi6_BvvG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tqb0bp37eis6n9rgr110.jpg)
+[![Lightbulb](img/c3c8f664a3be3ea1873215f1643457f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zi6_BvvG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tqb0bp37eis6n9rgr110.jpg)
 
 所以，接下来是一个灯泡。背景噪声去除的机器学习？我怀疑(很可能是假设)在这样的大容量音频中检测和消除噪音比 PhonicMind 试图做的要简单得多。或许简单到可以自己做。
 

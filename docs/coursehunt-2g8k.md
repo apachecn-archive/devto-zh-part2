@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/theiyd/coursehunt-2g8k>
 
-[![](../Images/628ce579ed9d3f6b0e13ce19056b3017.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FEvkWaan--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/llonxno0e2pi13dcz2uy.png)
+[![](img/628ce579ed9d3f6b0e13ce19056b3017.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FEvkWaan--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/llonxno0e2pi13dcz2uy.png)
 
 ## 课程搜索
 

@@ -18,7 +18,7 @@
 
 ### 功能？
 
-函数是很酷的盒子，你给它传递一个值，告诉它如何从中产生一个结果。[![](../Images/f8a6fb29ac0761eb87a5750524f3d5a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EPNCE-Z7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Function_machine2.svg/1200px-Function_machine2.svg.png)
+函数是很酷的盒子，你给它传递一个值，告诉它如何从中产生一个结果。[![](img/f8a6fb29ac0761eb87a5750524f3d5a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EPNCE-Z7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Function_machine2.svg/1200px-Function_machine2.svg.png)
 
 线性代数课`f(x) = x+5`写过这个吗？在编程中，你可以用同样的方式写它`const f = x => x+5`，如果我们给它传递一个`3`，这个函数返回`8`这里没有花哨。
 

@@ -10,7 +10,7 @@
 
 如果这个定义在这一点上没有太多意义，请继续阅读，我将深入解释它是如何工作的…
 
-<figure>[![](../Images/a9d20054336e147a1812f003864f0327.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--u1B5ObFa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aa3YcNkv_QRWTvzhBhsS-WQ.jpeg) 
+<figure>[![](img/a9d20054336e147a1812f003864f0327.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--u1B5ObFa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aa3YcNkv_QRWTvzhBhsS-WQ.jpeg) 
 
 <figcaption>你的路径相当于一堆方向牌，告诉你的电脑往哪里走</figcaption>
 
@@ -46,7 +46,7 @@ PATH 以类似的方式工作——它是一个全局变量，包含一串由`:`
 
 > 🔥**提示:** *如果你想看看你的路径当前设置为什么，运行* `$ echo $PATH`。
 
-<figure>[![](../Images/6fd90f94a8b6f25a471507b6427b4733.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---QNWJfye--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A2CL8TDXZRodXpOjT_PNC3g.jpeg) 
+<figure>[![](img/6fd90f94a8b6f25a471507b6427b4733.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---QNWJfye--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A2CL8TDXZRodXpOjT_PNC3g.jpeg) 
 
 <figcaption>路径中的一个目录=一个仓库📦</figcaption>
 
@@ -89,7 +89,7 @@ export PATH="$PATH:~/.composer/vendor/bin"
 
 添加必要的导出后，保存文件并退出，然后重新启动“终端”来载入新的更改。
 
-[![](../Images/cb707d3950acf7aab5e16390e99c4ad0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PZsv8EGH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AC_QcFA7ajZGPhZaujbW5ug.jpeg)
+[![](img/cb707d3950acf7aab5e16390e99c4ad0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PZsv8EGH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AC_QcFA7ajZGPhZaujbW5ug.jpeg)
 
 #### 实际例子
 

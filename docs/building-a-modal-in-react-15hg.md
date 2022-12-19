@@ -4,7 +4,7 @@
 
 在本教程中，我们将在 React 中构建一个模型。下面是它的一个演示。
 
-[![](../Images/b79b00403a18b090a817e5f8f35a7d7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_Z9ar7ig--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/achowba/image/upload/v1537016409/Articles/react-modal/react-modal-demo.gif)
+[![](img/b79b00403a18b090a817e5f8f35a7d7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_Z9ar7ig--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/achowba/image/upload/v1537016409/Articles/react-modal/react-modal-demo.gif)
 
 ### 先决条件
 
@@ -40,7 +40,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 完成此操作后，您的项目结构应该与此类似:
 
-[![](../Images/9be37dba73debf70c39d09d51bfcb660.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tlLmSDB4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/achowba/image/upload/v1537017253/Articles/react-modal/folder-structure.png)
+[![](img/9be37dba73debf70c39d09d51bfcb660.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tlLmSDB4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/achowba/image/upload/v1537017253/Articles/react-modal/folder-structure.png)
 
 ##### Modal.js
 

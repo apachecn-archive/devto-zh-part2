@@ -14,7 +14,7 @@ AJAX 代表 Asynchronous Javascript 和 XML，它是一套从客户端或服务�
 
 ### 下面是对 AJAX 工作方式的描述
 
-[![a](../Images/e1461c0a14bd0323ca1a95eb014566d4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xgVyrrP4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/azyz8o8wd62fn84zhxsk.gif) 
+[![a](img/e1461c0a14bd0323ca1a95eb014566d4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xgVyrrP4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/azyz8o8wd62fn84zhxsk.gif) 
 [请求](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)通过 AJAX 调用发送，JSON 格式的数据从服务器异步获取，页面内容更新无需重新加载您的网页，我们可以从本地机器或服务器获取数据，公共 API。
 我将在下面的代码中演示如何从 [Github API](https://api.github.com/users) 获取数据，这是一个使用 AJAX 的外部 API。
 
@@ -44,7 +44,7 @@ AJAX 代表 Asynchronous Javascript 和 XML，它是一套从客户端或服务�
 Enter fullscreen mode Exit fullscreen mode
 
 下面是数据
-[![a](../Images/f7005a16f65c80bb4fde90ed4e8c7948.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3ZfXmq2---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b5o4tjuhnatrc7vb1dhy.png)
+[![a](img/f7005a16f65c80bb4fde90ed4e8c7948.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3ZfXmq2---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b5o4tjuhnatrc7vb1dhy.png)
 
 ### **获取 API**
 
@@ -61,7 +61,7 @@ Enter fullscreen mode Exit fullscreen mode
 Enter fullscreen mode Exit fullscreen mode
 
 下面是数据
-[![](../Images/2c2cee8e0bc7175054b925a0a0682527.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QOL2-fh_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h3d0gvpvp9zlbupe2jo0.png)
+[![](img/2c2cee8e0bc7175054b925a0a0682527.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QOL2-fh_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h3d0gvpvp9zlbupe2jo0.png)
 
 ### **异步/等待**
 
@@ -86,7 +86,7 @@ getData()
 Enter fullscreen mode Exit fullscreen mode
 
 下面是数据
-[![a](../Images/904d3192c952bcf1eb3b69df658cc95a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pZlIDC_j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c28cudlld8qsnzx109ur.png)
+[![a](img/904d3192c952bcf1eb3b69df658cc95a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pZlIDC_j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c28cudlld8qsnzx109ur.png)
 
 ### **注**
 

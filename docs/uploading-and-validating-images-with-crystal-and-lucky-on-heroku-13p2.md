@@ -184,19 +184,19 @@ describe "Images flow" do
 end
 
 private def valid_image_path
-  "public/assets/images/test/perfect_960x981_56kb.jpg"
+  "public/asseimg/test/perfect_960x981_56kb.jpg"
 end
 
 private def too_tall_image_path
-  "public/assets/images/test/too_tall_1001x1023_95kb.jpg"
+  "public/asseimg/test/too_tall_1001x1023_95kb.jpg"
 end
 
 private def too_big_image_path
-  "public/assets/images/test/too_big_900x900_256kb.jpg"
+  "public/asseimg/test/too_big_900x900_256kb.jpg"
 end
 
 private def wrong_format_image_path
-  "public/assets/images/test/wrong_format_240x245_235kb.bmp"
+  "public/asseimg/test/wrong_format_240x245_235kb.bmp"
 end 
 ```
 
@@ -214,7 +214,7 @@ lucky gen.model Image
 
 Enter fullscreen mode Exit fullscreen mode
 
-我们可以用它的列和一些助手方法来填充`Image`模型，以构建路径、url 和句柄删除。这些图片将在`public/assets/images/...`保存，并在`www.example.com/assets/images/...`公开发布。我们还将为存储在`public/assets/images/test/`目录下的测试图像添加一个案例。
+我们可以用它的列和一些助手方法来填充`Image`模型，以构建路径、url 和句柄删除。这些图片将在`public/asseimg/...`保存，并在`www.example.com/asseimg/...`公开发布。我们还将为存储在`public/asseimg/test/`目录下的测试图像添加一个案例。
 
 ```
 # src/models/image.cr
@@ -231,9 +231,9 @@ class Image < BaseModel
 
   def path
     if Lucky::Env.test?
-      "/assets/images/test/#{self.filename}"
+      "/asseimg/test/#{self.filename}"
     else
-      "/assets/images/#{self.filename}"
+      "/asseimg/#{self.filename}"
     end
   end
 
@@ -292,9 +292,9 @@ class ImageForm < Image::BaseForm
 
   private def image_path
     if Lucky::Env.test?
-      "assets/images/test/" + new_filename
+      "asseimg/test/" + new_filename
     else
-      "assets/images/" + new_filename
+      "asseimg/" + new_filename
     end
   end
 
@@ -411,7 +411,7 @@ Enter fullscreen mode Exit fullscreen mode
 为了检查我们的文件是否存在，我们将确保它不为空，并且文件名存在。
 
 ```
-# src/actions/images/create.cr
+# src/actioimg/create.cr
 class Images::Create < BrowserAction
   include Auth::SkipRequireSignIn
   unexpose current_user
@@ -685,7 +685,7 @@ Enter fullscreen mode Exit fullscreen mode
 而在我们的`Images::Create`行动中。
 
 ```
-# src/actions/images/create.cr
+# src/actioimg/create.cr
 class Images::Create < BrowserAction
   ...
   route do
@@ -720,12 +720,12 @@ Enter fullscreen mode Exit fullscreen mode
 `Images::Delete`动作应该检查`current_ip`是否与图像的`owner_ip`匹配，如果匹配，调用`delete!`。
 
 ```
-# src/actions/images/delete.cr
+# src/actioimg/delete.cr
 class Images::Delete < BrowserAction
   include Auth::SkipRequireSignIn
   unexpose current_user
 
-  route do # expands to: delete "/images/:id"
+  route do # expands to: deleteimg/:id"
     image = ImageQuery.find(id)
 
     if image.owner_ip == current_ip
@@ -777,12 +777,12 @@ Enter fullscreen mode Exit fullscreen mode
 对于我们的操作，我们将使用一个自定义路线，这样我们的路线参数就可以作为`filename`而不是`id`使用。然后我们检查它是否存在，增加视图并呈现页面，否则我们重定向到`Home::Index`动作。
 
 ```
-# src/actions/images/show.cr
+# src/actioimg/show.cr
 class Images::Show < BrowserAction
   include Auth::SkipRequireSignIn
   unexpose current_user
 
-  get "/images/:filename" do
+  getimg/:filename" do
     image = ImageQuery.new.filename(filename).first?
     if image.nil?
       flash.danger = "Image with filename: #{filename} not found"
@@ -800,7 +800,7 @@ Enter fullscreen mode Exit fullscreen mode
 显示页面将非常简单。我们使用最小样式显示文件名、视图和图像，以保持一切居中，同时允许图像伸展到其最大尺寸。
 
 ```
-# src/pages/images/show_page.cr
+# src/pagimg/show_page.cr
 class Images::ShowPage < GuestLayout
   needs image : Image
 

@@ -4,7 +4,7 @@
 
 # 开始一个新项目
 
-[![Photo by Christopher Burns on Unsplash](../Images/991db99e8ea0a39fa7d5e1d439cdf20f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Abh0Ir1t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3De473b21e1b31fbf93ea6887690e1c3b1%26auto%3Dformat%26fit%3Dcrop%26w%3D3900%26q%3D80)
+[![Photo by Christopher Burns on Unsplash](img/991db99e8ea0a39fa7d5e1d439cdf20f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Abh0Ir1t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3De473b21e1b31fbf93ea6887690e1c3b1%26auto%3Dformat%26fit%3Dcrop%26w%3D3900%26q%3D80)
 
 通过 AlloyCI 的[介绍文章](https://hackernoon.com/alloyci-dev-diary-part-1-8ae564fce9f3)，你会认为编写 CI 协调器的想法对我来说是很自然的，但实际上我花了相当长的时间来为一个新项目找到完美的想法。
 

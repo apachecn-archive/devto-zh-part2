@@ -27,7 +27,7 @@ web 应用程序的三个缺陷是:
 
 该网站有一个表单，用户可以在其中填写自己的电子邮件地址，然后按“提交”,电子邮件地址将出现在“提交”按钮下方，如下所示:
 
-[![Unfiltered input](../Images/6eed18b2af84863d00cc34351c901f63.png "Unfiltered input")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HT-NDNrT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AHSct9oJ4QAxF4wHE)
+[![Unfiltered input](img/6eed18b2af84863d00cc34351c901f63.png "Unfiltered input")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HT-NDNrT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AHSct9oJ4QAxF4wHE)
 
 问题是用户输入没有被净化。因此，如果有人输入
 
@@ -35,7 +35,7 @@ web 应用程序的三个缺陷是:
 
 而不是他们的电子邮件地址，我们将得到如下呈现的 HTML:
 
-[![Unfiltered input h1](../Images/a7edd444792afbf574fc1e17cc12d418.png "Unfiltered input h1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ivmqa-k---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AAj3Fr42iWKeT6DpS)
+[![Unfiltered input h1](img/a7edd444792afbf574fc1e17cc12d418.png "Unfiltered input h1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ivmqa-k---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AAj3Fr42iWKeT6DpS)
 
 也有可能插入 JavaScript 和其他各种令人不快的东西。
 

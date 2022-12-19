@@ -12,7 +12,7 @@
 
 因为我知道这正是由`position: sticky;`提供的行为，所以我想我应该看看当前的浏览器支持:
 
-[![caniuse.com browser compatibility stats with CSS position sticky, showing over 86% global browser compatibility](../Images/7b5b5ef6253b0c5bda9c6580c716100c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A65apUZY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/c3G49nb.png)
+[![caniuse.com browser compatibility stats with CSS position sticky, showing over 86% global browser compatibility](img/7b5b5ef6253b0c5bda9c6580c716100c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A65apUZY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/c3G49nb.png)
 
 不算太差！全球超过 86%的浏览器支持`position: sticky;`，几乎所有主流的现代浏览器都支持它。
 
@@ -22,11 +22,11 @@
 
 我已经开始使用它了，我必须说它让我喜笑颜开🙂这是当您向下滚动页面时显示在视窗顶部的菜单栏:
 
-[![Animated GIF of CSS position sticky property sticking navigational menu to the top of the screen](../Images/c7fbf99596a32cbd6586a7894fb1d90d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZQHxVmbI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/z5OuuvZ.gif)
+[![Animated GIF of CSS position sticky property sticking navigational menu to the top of the screen](img/c7fbf99596a32cbd6586a7894fb1d90d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZQHxVmbI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/z5OuuvZ.gif)
 
 这里，当您滚动过父元素时，它会自动释放:
 
-[![Animated GIF of CSS position sticky property releasing navigational menu from the top of the screen when the user scrolls passed the container](../Images/a88a2d693a13632417f651945d7ed529.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8H6iGPiA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/EoA0n4z.gif)
+[![Animated GIF of CSS position sticky property releasing navigational menu from the top of the screen when the user scrolls passed the container](img/a88a2d693a13632417f651945d7ed529.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8H6iGPiA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/EoA0n4z.gif)
 
 轻松点。
 

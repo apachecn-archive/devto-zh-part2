@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/brettclawson75/coding-fail-safes-to-prevent-future-hr-problems-26gj>
 
-[![Coding](../Images/1648493b84edfa20e6bd8dc89646fa95.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g2rpqrQW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1534665482403-a909d0d97c67%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3Decb19fd1a07ada2c72fefa559d65d59f%26auto%3Dformat%26fit%3Dcrop%26w%3D1650%26q%3D80)
+[![Coding](img/1648493b84edfa20e6bd8dc89646fa95.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g2rpqrQW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1534665482403-a909d0d97c67%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3Decb19fd1a07ada2c72fefa559d65d59f%26auto%3Dformat%26fit%3Dcrop%26w%3D1650%26q%3D80)
 
 人力资源部门是公司最重要的部门之一。他们帮助您培训员工，引进新人，在保护您企业最大利益的同时执行公司使命。不恰当的编码技术会让你的人力资源甚至数据面临风险。因此，以下是需要记住的关键事项，以确保未来的人力资源问题不会在你最意想不到的时候突然出现
 

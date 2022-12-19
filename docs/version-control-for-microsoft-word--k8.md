@@ -40,7 +40,7 @@ Git 的主要限制是它只能处理纯文本(想想 Windows 记事本)。我�
 
 在这个例子中，我上传了一个名为“示例文档”的非常原始的文档，其中包含单词“快速的棕色狐狸跳过懒惰的狗”。点击“在 Word 中打开”按钮，Microsoft Word 启动，我将单词“dog”替换为“cat”。保存更改后，Simul 将显示以下内容:
 
-[![Simul shows any changes similar to Word’s Track Changes feature](../Images/cdc11506002ce5c107ec65cb9fea9a87.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PmOc0Fwc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.simuldocs.com/images/git-blog/001.png)
+[![Simul shows any changes similar to Word’s Track Changes feature](img/cdc11506002ce5c107ec65cb9fea9a87.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PmOc0Fwc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.simuldocs.cimg/git-blog/001.png)
 
 这里有几件事值得注意:
 
@@ -54,23 +54,23 @@ Git 的主要限制是它只能处理纯文本(想想 Windows 记事本)。我�
 
 相当直截了当；但是，如果我们的朋友“James”也和我们同时进行了更改(或者只是决定编辑以前的版本)，我们将会看到一个新的分支被创建:
 
-[![Simul introduces the concept of “Branches” to Word](../Images/9f4a3077df764092e684b9d6e34e266d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lh7pnPYg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.simuldocs.com/images/git-blog/002.png)
+[![Simul introduces the concept of “Branches” to Word](img/9f4a3077df764092e684b9d6e34e266d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lh7pnPYg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.simuldocs.cimg/git-blog/002.png)
 
 修订树现在显示 James 对 0.0.1 进行了更改，但不包括我们对 0.0.2 所做的更改。
 
 如果我们看看詹姆斯的变化，我们可以看到他把“狐狸”一词改为“狼”。注意，这个句子仍然是指懒狗而不是猫。
 
-[![Simul allows you to comment on changes](../Images/d19008c2aa22c6ac2475573da5c160fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cdz-_0td--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.simuldocs.com/images/git-blog/003.png)
+[![Simul allows you to comment on changes](img/d19008c2aa22c6ac2475573da5c160fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cdz-_0td--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.simuldocs.cimg/git-blog/003.png)
 
 我们也可以评论詹姆斯的改变；确保所有影响文件的沟通都被记录并可访问。
 
 然而，我们现在的情况是，同一份文件有两个不同的版本。我们可以通过使用上面的蓝绿色面板合并我们的工作来缓解这个问题。
 
-[![Simul can merge branches resulting in a new version with both revisions as Tracked Changes](../Images/f9885960613d6e596910acdf470bb518.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JmxjMZYy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.simuldocs.com/images/git-blog/004.png)
+[![Simul can merge branches resulting in a new version with both revisions as Tracked Changes](img/f9885960613d6e596910acdf470bb518.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JmxjMZYy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.simuldocs.cimg/git-blog/004.png)
 
 通过合并，创建了一个新版本(0.0.4 ),它包括 Ben 和 James 的修改。每位作者的修改将作为常规修订包含在 Microsoft Word 中:
 
-[![You can resolve and conflicts of a merge using Word’s Tracked Changes](../Images/76203f7ce7dff47db7ee8d3f44548198.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8RVJl5mo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.simuldocs.com/images/git-blog/005.png)
+[![You can resolve and conflicts of a merge using Word’s Tracked Changes](img/76203f7ce7dff47db7ee8d3f44548198.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8RVJl5mo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.simuldocs.cimg/git-blog/005.png)
 
 现在可以像往常一样接受或拒绝这些更改，我们有一个单一的“最新版本”供作者贡献。
 

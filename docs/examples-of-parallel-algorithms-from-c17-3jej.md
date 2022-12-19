@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/fenbf/examples-of-parallel-algorithms-from-c17-3jej>
 
-[![Examples of Parallel STL from C++17](../Images/a6ace6ce173bb0acca119acd5b8bc4dc.png)T2】](https://www.bfilipek.com/2018/06/parstl-tests.html)
+[![Examples of Parallel STL from C++17](img/a6ace6ce173bb0acca119acd5b8bc4dc.png)T2】](https://www.bfilipek.com/2018/06/parstl-tests.html)
 
 MSVC (VS 2017 15.8，2018 年 8 月底)是我所知道的唯一一个拥有并行算法的主流编译器/STL 实现。不是所有的事情都完成了，但是你可以使用很多算法，并在它们上面应用`std::execution::par`！
 

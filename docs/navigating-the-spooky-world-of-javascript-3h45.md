@@ -16,7 +16,7 @@ JavaScript(以及一般的前端开发)可能会让人感到害怕，因为太�
 
 我也很欣赏这个评论:
 
-[![maxwell_dev profile image](../Images/87963d1020278f08c6b6b01a37674b6f.png) ](/maxwell_dev) [ Max Antonucci ](/maxwell_dev) [ ![twitter](../Images/82aa32a73d0a2eadd783a8a531ea2cc3.png) ](https://twitter.com/Maxwell_Dev) [![github](../Images/029e4450541d5c4819d89a83d5315060.png)](https://github.com/maxx1128) [<time datetime="2018-10-30T15:31:40Z">Oct 30 '18</time>](/maxwell_dev/comment/6enk)
+[![maxwell_dev profile image](img/87963d1020278f08c6b6b01a37674b6f.png) ](/maxwell_dev) [ Max Antonucci ](/maxwell_dev) [ ![twitter](img/82aa32a73d0a2eadd783a8a531ea2cc3.png) ](https://twitter.com/Maxwell_Dev) [![github](img/029e4450541d5c4819d89a83d5315060.png)](https://github.com/maxx1128) [<time datetime="2018-10-30T15:31:40Z">Oct 30 '18</time>](/maxwell_dev/comment/6enk)
 
 我同意让更多的 JS 基础知识派上用场。我看到 JS 框架具有乘数效应——你事先知道的 JS 越多，JS 框架的好处就越多。
 
@@ -32,7 +32,7 @@ JavaScript(以及一般的前端开发)可能会让人感到害怕，因为太�
 
 闪亮物体综合征是指当你看到一个新的事物时，立刻想放下一切，专注于那个闪亮的物体。在技术领域，这可能意味着每当一个新的库出现时，你都要重写你的应用程序。
 
-[![](../Images/eb99b50ce7afa77676b0bd285c312e1d.png)T2】](https://i.giphy.com/media/CK0gcoAFZZ3G/giphy.gif)
+[![](img/eb99b50ce7afa77676b0bd285c312e1d.png)T2】](https://i.giphy.com/media/CK0gcoAFZZ3G/giphy.gif)
 
 我对此深感内疚——我以前每周都会写关于用新的库或框架编写应用程序的博文。我还在工作中使用过 JQuery、Angular.js、Angular、Vue、Elm 和 React。但是，这不应该是正常的，也不应该被鼓励。
 
@@ -40,7 +40,7 @@ JavaScript(以及一般的前端开发)可能会让人感到害怕，因为太�
 
 那么我们来谈谈如何克服“发光物体综合症”
 
-[![](../Images/8357fe816901c37c69e7aae98a5f17e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XaPiujT6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/Ce5nYp0W4AAxp5Z.jpg)
+[![](img/8357fe816901c37c69e7aae98a5f17e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XaPiujT6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/Ce5nYp0W4AAxp5Z.jpg)
 
 #### 你不需要什么都知道
 

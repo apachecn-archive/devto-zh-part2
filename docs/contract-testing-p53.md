@@ -25,7 +25,7 @@
 
 在研究合同测试的具体例子之前，让我们先来看看测试金字塔。
 
-[![Test pyramid](../Images/730c675d072631b75b451ec7ddbc9e35.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TPNUHnhd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0wnre301xwja9mysa9y7.png)
+[![Test pyramid](img/730c675d072631b75b451ec7ddbc9e35.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TPNUHnhd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0wnre301xwja9mysa9y7.png)
 
 金字塔是我们应该对每种类型进行多少测试的图形表示。在底部我们有单元测试，这意味着按比例我们应该写更多的单元测试。
 

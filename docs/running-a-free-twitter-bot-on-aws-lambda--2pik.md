@@ -54,7 +54,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在服务列表中找到 AWS Lambda，然后寻找这个闪亮的按钮:
 
-[![Create function](../Images/c09975c3015ea235ae1b40e8aff139c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w7rMmxR2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://victoria.dev/verbose/running-a-free-twitter-bot-on-aws-lambda/lambda-01.png%23screenshot)
+[![Create function](img/c09975c3015ea235ae1b40e8aff139c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w7rMmxR2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://victoria.dev/verbose/running-a-free-twitter-bot-on-aws-lambda/lambda-01.png%23screenshot)
 
 我们将从头开始编写一个函数。命名你的函数，然后在**运行时**下选择“Go 1.x”。
 
@@ -62,17 +62,17 @@ Enter fullscreen mode Exit fullscreen mode
 
 点击**创建功能。**
 
-[![Author from scratch](../Images/b0ee1ecc8d79a1d0f7a950546896cc0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5tlkvgaL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://victoria.dev/verbose/running-a-free-twitter-bot-on-aws-lambda/lambda-02.png%23screenshot)
+[![Author from scratch](img/b0ee1ecc8d79a1d0f7a950546896cc0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5tlkvgaL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://victoria.dev/verbose/running-a-free-twitter-bot-on-aws-lambda/lambda-02.png%23screenshot)
 
 ## 2。配置您的功能
 
 您将看到一个配置新功能的屏幕。在**处理程序**下输入您的 Go 程序的名称。
 
-[![Configure your function](../Images/cfc09321e9442fe781e5de1a3afbbc02.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f1W0SXnX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://victoria.dev/verbose/running-a-free-twitter-bot-on-aws-lambda/lambda-03.png%23screenshot)
+[![Configure your function](img/cfc09321e9442fe781e5de1a3afbbc02.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f1W0SXnX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://victoria.dev/verbose/running-a-free-twitter-bot-on-aws-lambda/lambda-03.png%23screenshot)
 
 如果你向下滚动，你会看到一个输入环境变量的地方。这是一个输入 Twitter API 令牌和秘密的好地方，使用程序期望的变量名。AWS Lambda 函数将使用您在此提供的变量为您创建环境。
 
-[![Environment variables](../Images/89e6f7e4bba51054cca4fb02c868ef7c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7BMJ3U28--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://victoria.dev/verbose/running-a-free-twitter-bot-on-aws-lambda/lambda-04.png%23screenshot)
+[![Environment variables](img/89e6f7e4bba51054cca4fb02c868ef7c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7BMJ3U28--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://victoria.dev/verbose/running-a-free-twitter-bot-on-aws-lambda/lambda-04.png%23screenshot)
 
 这个用例不需要进一步的设置。点击页面顶部的**保存**。
 
@@ -102,21 +102,21 @@ Enter fullscreen mode Exit fullscreen mode
 
 想看它走吗？你当然知道！点击顶部下拉菜单中的“配置测试事件”。
 
-[![Configure test events](../Images/c39023b684978002e85a7741a4f7b54a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ABMYO1ho--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://victoria.dev/verbose/running-a-free-twitter-bot-on-aws-lambda/lambda-05.png%23screenshot)
+[![Configure test events](img/c39023b684978002e85a7741a4f7b54a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ABMYO1ho--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://victoria.dev/verbose/running-a-free-twitter-bot-on-aws-lambda/lambda-05.png%23screenshot)
 
 因为您将为这个函数使用一个基于时间的触发器，所以您不需要在弹出窗口中输入任何代码来定义测试事件。只需在**事件名称**下写下任何名称，并清空下面字段中的 JSON。然后点击**创建**。
 
-[![Configuring an empty test event](../Images/c2460cd8e9ef5475e17fd5609bbb2a90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Nt7UUVnY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://victoria.dev/verbose/running-a-free-twitter-bot-on-aws-lambda/lambda-06.png%23screenshot)
+[![Configuring an empty test event](img/c2460cd8e9ef5475e17fd5609bbb2a90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Nt7UUVnY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://victoria.dev/verbose/running-a-free-twitter-bot-on-aws-lambda/lambda-06.png%23screenshot)
 
 点击页面顶部的**测试**，如果一切正常，您应该会看到...
 
-[![Test success notification](../Images/05d6e06f6c8d97a44b5582b1339277d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s1p12cLi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://victoria.dev/verbose/running-a-free-twitter-bot-on-aws-lambda/lambda-07.png%23screenshot)
+[![Test success notification](img/05d6e06f6c8d97a44b5582b1339277d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s1p12cLi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://victoria.dev/verbose/running-a-free-twitter-bot-on-aws-lambda/lambda-07.png%23screenshot)
 
 ## 5。设置 CloudWatch 事件
 
 为了像运行 cron 作业一样运行我们的函数——作为定期安排的基于时间的事件——我们将使用 CloudWatch。点击**设计器**工具条中的**云观察事件**。
 
-[![CloudWatch Events trigger](../Images/ed474c2e9e66f65abbe22d480936d3e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l34qcUmi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://victoria.dev/verbose/running-a-free-twitter-bot-on-aws-lambda/lambda-08.png%23screenshot)
+[![CloudWatch Events trigger](img/ed474c2e9e66f65abbe22d480936d3e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l34qcUmi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://victoria.dev/verbose/running-a-free-twitter-bot-on-aws-lambda/lambda-08.png%23screenshot)
 
 在**配置触发器**下，您将创建一个新规则。为您的规则选择一个不带空格或标点的描述性名称，并确保选择了**计划表达式**。然后输入你希望你的程序运行的时间作为一个*速率表达式*，或者 cron 表达式。
 
@@ -134,7 +134,7 @@ cron 表达式如下所示:`cron(0 12 * * ? *)`
 
 点击**添加**。
 
-[![Set cron expression rule](../Images/bf06f46495d637776aed97f48ec7b5b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jmPpowbd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://victoria.dev/verbose/running-a-free-twitter-bot-on-aws-lambda/lambda-09.png%23screenshot)
+[![Set cron expression rule](img/bf06f46495d637776aed97f48ec7b5b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jmPpowbd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://victoria.dev/verbose/running-a-free-twitter-bot-on-aws-lambda/lambda-09.png%23screenshot)
 
 # 看着它走
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/anaulin/how-to-write-better-job-descriptions-19bk>
 
-[![A person writing in a notebook, in a relaxed pose. Photo by NeONBRAND on Unsplash](../Images/abae6e3be6855e990c6b9aadd8383246.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nRmzDSyC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anaulin.org/img/person-writing-notebook-neonbrand-unsplash.jpg)
+[![A person writing in a notebook, in a relaxed pose. Photo by NeONBRAND on Unsplash](img/abae6e3be6855e990c6b9aadd8383246.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nRmzDSyC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anaulin.org/img/person-writing-notebook-neonbrand-unsplash.jpg)
 
 写得不好的职位描述不仅会让你失去优秀的候选人，还会让你雇佣到对这个职位有错误期望的人。然而，当我们在写一份新的工作描述时，似乎我们经常忘记甚至是得体写作的基础。
 

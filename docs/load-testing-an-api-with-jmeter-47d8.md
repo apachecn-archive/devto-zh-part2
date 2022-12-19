@@ -4,7 +4,7 @@
 
 负载测试是一个独立的流程，我所做的一切都是在它上面平稳的航行。由于手头时间不多，唯一选择的武器是 Jmeter，这是一个非常好的工具！！
 
-[![Load with Max request](../Images/33c4351a3ad0e43022b32ed5bbc80600.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vKbbEWOz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0i6k7vlbd6v5u70atn9y.jpg)
+[![Load with Max request](img/33c4351a3ad0e43022b32ed5bbc80600.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vKbbEWOz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0i6k7vlbd6v5u70atn9y.jpg)
 
 我们不得不测试用 nodejs 构建的 facebook 聊天机器人。这个应用程序是 FB 的一个 webhook，用于将聊天消息推送到我们的应用程序。
 
@@ -51,7 +51,7 @@
 
 这是项目结构的快照
 
-[![project structure](../Images/297dacb57a7b4bb99db511ca6f9ee3e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MpOAC4C2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ul2l0sgttux8o56l6yti.PNG)
+[![project structure](img/297dacb57a7b4bb99db511ca6f9ee3e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MpOAC4C2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ul2l0sgttux8o56l6yti.PNG)
 
 这对于基本的负载测试来说应该足够了。
 

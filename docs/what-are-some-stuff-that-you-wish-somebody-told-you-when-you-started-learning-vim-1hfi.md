@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/alchermd/what-are-some-stuff-that-you-wish-somebody-told-you-when-you-started-learning-vim-1hfi>
 
-[![](../Images/591c57964030b7bd12331393d5eab447.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S7TopOJe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.pinimg.com/originals/b1/63/47/b1634709499836fb581b22dcd5e8eff6.png)
+[![](img/591c57964030b7bd12331393d5eab447.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S7TopOJe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.pinimg.com/originals/b1/63/47/b1634709499836fb581b22dcd5e8eff6.png)
 
 * * *
 

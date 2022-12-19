@@ -8,7 +8,7 @@
 
 如果你想跟随我的旅程，这是我的[帖子索引](https://dev.to/link2twenty/adventures-of-a-hobbyist--index-4oj7)。
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png)[ignis-pwa](https://github.com/ignis-pwa)/[node tree](https://github.com/ignis-pwa/nodetree)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png)[ignis-pwa](https://github.com/ignis-pwa)/[node tree](https://github.com/ignis-pwa/nodetree)
 
 ### 一个用 NodeJS 写的 MySQL 浏览器
 
@@ -40,7 +40,7 @@
 
 这周我真的没有做任何视觉上的改变，我添加了表格视图和查询框，但是我只是继续使用和以前一样的设计规范。这里有一张 gif。
 
-[![Loading tables](../Images/abc5c58a24ac35c962b73f6df4a6e89a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4VhYQekP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yjdl93rrbpfzpyoj3q0d.gif)
+[![Loading tables](img/abc5c58a24ac35c962b73f6df4a6e89a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4VhYQekP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yjdl93rrbpfzpyoj3q0d.gif)
 
 ## 下一步
 

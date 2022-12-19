@@ -33,7 +33,7 @@
 
 让我们考虑一下我们的静态网站基础设施。
 
-[![CloudFront to S3 bucket](../Images/62777d6aa61d1f6e57c96ddbce8e4b91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GX5lx_DI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ty64m22tsao9occrvxyb.png)
+[![CloudFront to S3 bucket](img/62777d6aa61d1f6e57c96ddbce8e4b91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GX5lx_DI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ty64m22tsao9occrvxyb.png)
 
 我们看到我们的 CloudFront 发行版位于 S3 网站的前端。当一个请求进入我们的分发，它被转发到我们的 S3 网站。如果我们从缓存的角度考虑这个问题，我们的分布比我们的 S3 存储桶更接近终端用户。
 
@@ -74,7 +74,7 @@
 
 我们可以在我们的 Chrome 开发工具中观察到这一点。对图像的第一个请求有这样的响应。
 
-[![Miss from CloudFront header](../Images/67e8d629e2408ca028c9d761b275460e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8lcqXQTf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2okrwbfd4atlfc88uex3.png)
+[![Miss from CloudFront header](img/67e8d629e2408ca028c9d761b275460e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8lcqXQTf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2okrwbfd4atlfc88uex3.png)
 
 注意底部的`x-cache`标题。它说这个请求导致了 CloudFront 的一个失误。这意味着我们的请求被转发到我们的 S3 存储桶，因为响应不在边缘缓存中。
 
@@ -90,7 +90,7 @@
 
 如果我们每天甚至每小时都在不断地开发我们的网站并向 S3 发布新内容，那会怎么样呢？对于每次部署，我们必须从命令行运行我们的`create-invalidation`命令。
 
-[![CloudFront create-invalidation command](../Images/cf8c988e2ec55be934bbbe569f92f016.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DXQguvcK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bplavvaau101jzdj9ffq.png)
+[![CloudFront create-invalidation command](img/cf8c988e2ec55be934bbbe569f92f016.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DXQguvcK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bplavvaau101jzdj9ffq.png)
 
 这听起来既乏味又痛苦。
 

@@ -4,7 +4,7 @@
 
 多亏了我在 dev.to 上读到的一篇由 [Ricky White](https://dev.to/endlesstrax/my-100daysofcode-challenge-1bo) 写的帖子，我决定解决我在这个网站上看到的 **[100 天代码](https://www.100daysofcode.com)** 挑战。开始时只是单纯的好奇，现在已经变成了参与的强烈愿望，所以谢谢你，Ricky，是你让骆驼们回来的最后一根稻草😜
 
-## ![GitHub logo](../Images/375dfcc32199b4dedf2b526645c27ff7.png) [ 4lch4 ](https://github.com/4lch4) / [百日代码](https://github.com/4lch4/100-days-of-code)
+## ![GitHub logo](img/375dfcc32199b4dedf2b526645c27ff7.png) [ 4lch4 ](https://github.com/4lch4) / [百日代码](https://github.com/4lch4/100-days-of-code)
 
 ### 把这个模板作为 100 天日志——让你自己负责任(多种语言可用)
 

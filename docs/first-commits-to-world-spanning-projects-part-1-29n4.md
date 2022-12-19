@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/aniketsmk/first-commits-to-world-spanning-projects-part-1-29n4>
 
-<figure>[![](../Images/51cfa2fce1cbd4b10c400d02ab0fe20e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--glGaUIHD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/838/1%2ALW2y6C3Ty2NLxCHLjmlQGA.png) 
+<figure>[![](img/51cfa2fce1cbd4b10c400d02ab0fe20e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--glGaUIHD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/838/1%2ALW2y6C3Ty2NLxCHLjmlQGA.png) 
 
 <figcaption>一段经历[为 Mozilla 代码库贡献](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Introduction)！</figcaption>
 

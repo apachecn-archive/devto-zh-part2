@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/shuzootani/you-would-hire-a-foreign-developer-without-cs-degree--46m2>
 
-[![](../Images/a2579aaaf097755d0df3309e6bbcb352.png)T2】](https://i.giphy.com/media/aqKk1PGZTQnHa/giphy.gif)
+[![](img/a2579aaaf097755d0df3309e6bbcb352.png)T2】](https://i.giphy.com/media/aqKk1PGZTQnHa/giphy.gif)
 
 或许，你只是对标题说了“不”,然而我很高兴你仍然在读这篇文章。
 

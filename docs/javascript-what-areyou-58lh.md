@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/howtocodejs/javascript-what-areyou-58lh>
 
-[![header](../Images/156a5b64e5ff63db3992e057171b3ea0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j7Vzv9vj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7g6r3a7a5wis6dkvykad.png)
+[![header](img/156a5b64e5ff63db3992e057171b3ea0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j7Vzv9vj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7g6r3a7a5wis6dkvykad.png)
 
 Raji Ayinla 最初发表在 codeburst.io 上，他为 howtocodejs.com 开发内容。想以有趣的方式学习 JavaScript 吗？那就来 howtocodejs.com 吧。
 
@@ -23,7 +23,7 @@ Raji Ayinla 最初发表在 codeburst.io 上，他为 howtocodejs.com 开发内�
 
 简单地说，单线程语言使用单个调用堆栈，这意味着它一次只能触发一个事件。如果你不确定如何概念化一个调用栈，就想象一个 Jenga 栈。
 
-[![image](../Images/23e459f8fe4912a9e0f047bff586d987.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uD7CAFQb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1o63duk9jal7etg1zbvv.png)
+[![image](img/23e459f8fe4912a9e0f047bff586d987.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uD7CAFQb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1o63duk9jal7etg1zbvv.png)
 
 假设你写了一个函数列表。JavaScript 的运行时会编译你写的脚本，然后像调用栈中的块一样依次堆叠函数。之后，执行的每个函数都从栈顶取出，直到到达栈底。只有一叠。女士们先生们，这是单线程。
 
@@ -33,7 +33,7 @@ Raji Ayinla 最初发表在 codeburst.io 上，他为 howtocodejs.com 开发内�
 
 现在想象一下，如果你是第十五辆车，你必须去急诊室，你会有多头疼。类似地，用屏蔽代码编码的网站会导致笨拙的用户界面。
 
-[![image](../Images/ea6079dc6d4c9565b5446c6fd74db3f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--drV6LSmv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xoqd3zqe7eitlx7aaozo.jpg)
+[![image](img/ea6079dc6d4c9565b5446c6fd74db3f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--drV6LSmv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xoqd3zqe7eitlx7aaozo.jpg)
 
 所以我们明白什么是阻塞。非阻塞与阻塞完全相反。JavaScript 之类的非阻塞语言使用异步调用，而不是进行同步调用，或者换句话说，一条允许打破顺序的紧急通道，以便您可以按时到达医院。
 
@@ -54,7 +54,7 @@ Raji Ayinla 最初发表在 codeburst.io 上，他为 howtocodejs.com 开发内�
 
 ## 漫画
 
-[![image](../Images/c77fb582c9c9765ec67813390dc3fbb8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Kf_W1g_G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ptda3lrxnwlwdqljxjyy.png)
+[![image](img/c77fb582c9c9765ec67813390dc3fbb8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Kf_W1g_G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ptda3lrxnwlwdqljxjyy.png)
 
 在非常同步的一天，数据流受到限制。“呼叫操作员”或 JavaScript 运行时必须手动记录所有的呼叫。呼叫接线员没有时间去处理更重要的功能，比如给他妻子打电话或呈现网页。
 

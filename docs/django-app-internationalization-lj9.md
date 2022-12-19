@@ -53,7 +53,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 运行您的服务器`./manage.py runserver 8000`并访问`http://localhost:8000/cats/quotes/`。你应该这样看
 
-[![Alt text of image](../Images/d1a47e4d71fd5866139d7b0227fa6425.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AgHGwWoz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://levipy.com/assets/posts/screen_2-6aa782bc305b6afd1a858bf0bef5da141152ba7c0970f3969b5cff5e471945b6.png)
+[![Alt text of image](img/d1a47e4d71fd5866139d7b0227fa6425.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AgHGwWoz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://levipy.com/assets/posts/screen_2-6aa782bc305b6afd1a858bf0bef5da141152ba7c0970f3969b5cff5e471945b6.png)
 
 翻译 django 应用程序有两个主要步骤。第一个是标记应该翻译的字符串，第二个是生成语言文件，您可以在其中为这些标记的字符串定义已翻译的字符串。
 
@@ -259,9 +259,9 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们再次访问我们的猫报价`http://localhost:8000/cats/quotes/`。
 
-[![Alt text of image](../Images/d1a47e4d71fd5866139d7b0227fa6425.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AgHGwWoz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://levipy.com/assets/posts/screen_2-6aa782bc305b6afd1a858bf0bef5da141152ba7c0970f3969b5cff5e471945b6.png)
+[![Alt text of image](img/d1a47e4d71fd5866139d7b0227fa6425.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AgHGwWoz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://levipy.com/assets/posts/screen_2-6aa782bc305b6afd1a858bf0bef5da141152ba7c0970f3969b5cff5e471945b6.png)
 
-[![Alt text of image](../Images/f4ea975d5fc0cf3d14bf0d51a2879b5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YvJ9JXHt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://levipy.com/assets/posts/screen_3-9c88ed4f9b03ea58d585dd4c1c5dc4b374221a9feaef35a2999aab6db151f119.png)
+[![Alt text of image](img/f4ea975d5fc0cf3d14bf0d51a2879b5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YvJ9JXHt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://levipy.com/assets/posts/screen_3-9c88ed4f9b03ea58d585dd4c1c5dc4b374221a9feaef35a2999aab6db151f119.png)
 
 所以，我们把引语翻译成了西班牙语。
 
@@ -307,7 +307,7 @@ Enter fullscreen mode Exit fullscreen mode
 Enter fullscreen mode Exit fullscreen mode
 
 看起来应该是这样的
-[![Alt text of image](../Images/a81cdb5cc047974e73282c53aae0fb86.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---Z5MTYac--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://levipy.com/assets/posts/screen_4-ae580ef3dd11bd88abbe1db2e8548cb2958fa65d48c1fe7491d47ab9e91fb2c7.png)
+[![Alt text of image](img/a81cdb5cc047974e73282c53aae0fb86.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---Z5MTYac--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://levipy.com/assets/posts/screen_4-ae580ef3dd11bd88abbe1db2e8548cb2958fa65d48c1fe7491d47ab9e91fb2c7.png)
 
 我们的标题已经标记为翻译。要更新我们的翻译文件，在`quotes`应用根目录中重新运行`django-admin makemessages -l es_ES`命令，并在我们的`.po`文件`quotes/locale/es_ES/LC_MESSAGES/django.po`
 中添加新条目的翻译
@@ -321,7 +321,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 使用`django-admin compilemessages`再次编译，我们应该得到这个。
 
-[![cat](../Images/50d62a135ba8335c4a2a9600ae105897.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LZGFJQ5i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://levipy.com/assets/posts/screen_5-34d5d974a41d2c9dcaefaca5a7a2146a4d0cf1c231a2c678a55d34b52948fd48.png)
+[![cat](img/50d62a135ba8335c4a2a9600ae105897.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LZGFJQ5i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://levipy.com/assets/posts/screen_5-34d5d974a41d2c9dcaefaca5a7a2146a4d0cf1c231a2c678a55d34b52948fd48.png)
 
 **注意:**记住，我们已经在视图中将西班牙语激活为默认语言。
 
@@ -397,11 +397,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们一起去参观`http://localhost:8000/en-us/cats/quotes/`
 
-[![cat](../Images/bd289af2be2beb5513aa76fc799e0c66.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lD-0u_VO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://levipy.com/assets/posts/screen_6-f2e070ce95d7618656453d2a8265c608bd67a1152164e8bbd8778db25c357842.png)
+[![cat](img/bd289af2be2beb5513aa76fc799e0c66.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lD-0u_VO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://levipy.com/assets/posts/screen_6-f2e070ce95d7618656453d2a8265c608bd67a1152164e8bbd8778db25c357842.png)
 
 现在，我们的西班牙语版本`http://localhost:8000/es-es/cats/quotes/`
 
-[![cat](../Images/e67c1b22bc6982b9c974a2b82c082a80.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rlSiKeqz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://levipy.com/assets/posts/screen_7-7a843beeff8e1f3c3c476a6f3f60cda34203804480de80057bacef5a82ec2dda.png)
+[![cat](img/e67c1b22bc6982b9c974a2b82c082a80.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rlSiKeqz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://levipy.com/assets/posts/screen_7-7a843beeff8e1f3c3c476a6f3f60cda34203804480de80057bacef5a82ec2dda.png)
 
 **注意:**我们 url 中的语言前缀必须与我们在`settings.py`文件中定义的语言代码完全匹配。
 

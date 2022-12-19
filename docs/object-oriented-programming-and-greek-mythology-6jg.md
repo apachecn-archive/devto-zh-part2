@@ -70,7 +70,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 原则不是法律
 
-[![](../Images/2da8b0acee6648a7155c56ac5f48887e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7ImY5FFX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/hrules6872/Writings/master/6-greek-oop/art/1.jpeg)
+[![](img/2da8b0acee6648a7155c56ac5f48887e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7ImY5FFX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/hrules6872/Writings/master/6-greek-oop/art/1.jpeg)
 
 我们必须始终牢记封装，但有时我们必须在使用 **TDA** 或不使用之间找到一个平衡点，因为严格遵守它就像它是一条定律一样有一些缺点:
 

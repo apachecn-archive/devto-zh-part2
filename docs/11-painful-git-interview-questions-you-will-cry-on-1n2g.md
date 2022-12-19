@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/fullstackcafe/11-painful-git-interview-questions-you-will-cry-on-1n2g>
 
-[![11 Painful Git Interview Questions and Answers You Will Cry On](../Images/a1b6660722c040fc7ddecb4ce371de6a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZdnrNCoZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/929382/pexels-photo-929382.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26h%3D350) 
+[![11 Painful Git Interview Questions and Answers You Will Cry On](img/a1b6660722c040fc7ddecb4ce371de6a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZdnrNCoZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/929382/pexels-photo-929382.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26h%3D350) 
 根据最新的 Stack Overflow 开发者调查，超过 70%的开发者使用 Git，使其成为世界上使用最多的 VCS。Git 通常用于开源和商业软件开发，对个人、团队和企业都有很大的好处。
 
 > 🔴最初发表于 [FullStack。咖啡馆-杀死你的技术&编码面试](https://www.fullstack.cafe/?utm_source=dev&utm_medium=blog)
@@ -139,7 +139,7 @@ Gitflow 工作流使用两个并行的*长期运行的*分支来记录项目的�
 
     *   **特性**——每个新特性应该驻留在自己的分支中，可以作为它们的父特性推送到`develop`分支。
 
-[![Gitflow workflow](../Images/a7888946e584e94c8727a6d6821a74af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pLQxGakq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://wac-cdn.atlassian.com/dam/jcr:61ccc620-5249-4338-be66-94d563f2843c/05%2520%282%29.svg%3FcdnVersion%3Dji)
+[![Gitflow workflow](img/a7888946e584e94c8727a6d6821a74af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pLQxGakq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://wac-cdn.atlassian.com/dam/jcr:61ccc620-5249-4338-be66-94d563f2843c/05%2520%282%29.svg%3FcdnVersion%3Dji)
 
 🔗**来源:**【atlassian.com】T2
 

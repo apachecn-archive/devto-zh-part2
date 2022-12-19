@@ -4,7 +4,7 @@
 
 你还记得你注册后收到的来自 dev.to 的欢迎邮件中的帖子吗？
 
-[![acoh3n image](../Images/da3d9d1085c75276909bdddf71220d79.png)](/acoh3n) [## 如何充分利用 dev.to
+[![acoh3n image](img/da3d9d1085c75276909bdddf71220d79.png)](/acoh3n) [## 如何充分利用 dev.to
 
 ### arik Jul 19 ' 183 分钟读取
 
@@ -26,7 +26,7 @@
 
 正如您在下图中看到的
 
-[![Learning Pyramid](../Images/37d6cbce1b8fcd20d3f668a0fb84e4af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--thNtbhC4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.envole.net/doc/l/e/learning-pyramid.jpg)
+[![Learning Pyramid](img/37d6cbce1b8fcd20d3f668a0fb84e4af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--thNtbhC4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.envole.net/doc/l/e/learning-pyramid.jpg)
 
 如果你只是听，就像你在学校做的那样，你的记忆率只有 20%。这不是很多。但是如果你教别人，那么你会有 90%的保留率。这要高得多。:-)
 
@@ -46,7 +46,7 @@
 
 此外，我敢肯定，它将不仅仅对一个人有用。
 
-[![On person](../Images/bd969a18a15163b805079ab9f906270f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6rqWzPro--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1501889376319-c566cdb374b4%3Fixlib%3Drb-0.3.5%26q%3D80%26fm%3Djpg%26crop%3Dentropy%26cs%3Dtinysrgb%26w%3D1080%26fit%3Dmax%26ixid%3DeyJhcHBfaWQiOjF9%26s%3D65074e09cf2f4091244d5e58669df60f) 
+[![On person](img/bd969a18a15163b805079ab9f906270f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6rqWzPro--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1501889376319-c566cdb374b4%3Fixlib%3Drb-0.3.5%26q%3D80%26fm%3Djpg%26crop%3Dentropy%26cs%3Dtinysrgb%26w%3D1080%26fit%3Dmax%26ixid%3DeyJhcHBfaWQiOjF9%26s%3D65074e09cf2f4091244d5e58669df60f) 
 照片来自[维罗妮卡·贝纳维德斯](https://unsplash.com/@vivalaveronica)在 [Unsplash](https://unsplash.com)
 
 * * *

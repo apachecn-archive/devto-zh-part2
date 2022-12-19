@@ -8,7 +8,7 @@
 
 PRESTO 卡支持加拿大最大的交通系统，每个工作日有超过 200 万张卡和 100 万次点击。我是公共交通的忠实支持者，但是我最大的烦恼是查看我是否需要在我的卡上充值。我仍然记得和我的同事讨论创建这样一个单一用途的应用程序是否值得。虽然它给那些特别面临这个问题的人带来了很多便利，但它肯定是一个利基市场(这将是一个仅限 iPhone 的应用程序，用户可以使用第一方网站，信用卡自动加载甚至消除了对这样一个应用程序的需求)。尽管如此，我已经拼凑出了一个刮刀，所以我想[还能有多少工作量？](https://xkcd.com/1658/)
 
-[!["Screenshots of the current Pronto Checker app"](../Images/b842e20188b18f114b053e2603dfe3fe.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_z8qyRMM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7t1mfb7t81oar9acszdp.png)T3】
+[!["Screenshots of the current Pronto Checker app"](img/b842e20188b18f114b053e2603dfe3fe.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_z8qyRMM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7t1mfb7t81oar9acszdp.png)T3】
 
 <center>Screenshots of the current Pronto Checker app</center>
 
@@ -37,7 +37,7 @@ PRESTO 卡支持加拿大最大的交通系统，每个工作日有超过 200 �
 我认为，一旦基本功能完成，另一项至关重要的技术是向用户呈现服务状态信息的能力(例如，系统停机时间或应用程序版本过期)。这可能是一个简单的弹出窗口或只是呈现一个网页。拥有这样一个系统可以让你为意外做好准备。
 
 <center>
-![](../Images/e46cbc9112098f9c07328b9615797634.png)
+![](img/e46cbc9112098f9c07328b9615797634.png)
 Recent popup from iTunes Connect app
 </center>
 
@@ -45,7 +45,7 @@ Recent popup from iTunes Connect app
 
 我已经在这个项目上工作了两年半多一点的时间，工作的节奏与我过去从事的其他项目非常不同。我大部分时间都在短时间内工作，专注于发布补丁或添加新功能，然后离开项目几个月。这提供了一些有趣的观察。
 
-[![Commit history for Nov 15, 2015 – Jul 7, 2018](../Images/2ffd208ee8f34adc9a50bd2eb4de0f5c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--93aISovx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f69bbah4dmtkag4w8msb.png)T3】
+[![Commit history for Nov 15, 2015 – Jul 7, 2018](img/2ffd208ee8f34adc9a50bd2eb4de0f5c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--93aISovx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f69bbah4dmtkag4w8msb.png)T3】
 
 <center>Commit history for Nov 15, 2015 – Jul 7, 2018</center>
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/contentful_blog/how-to-automatically-watermark-contentful-assets-using-a-serverless-function-6j3>
 
-[![How to automatically watermark Contentful assets using a serverless function](../Images/3bb3c55977da80fb664456e7bfadd08c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MfvEdouC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/3KcGEFM59K02KG6eUMiewu/660f655eb78e2e0f4a9c05ba2d4096bc/20181108_Watermark_webhooks.png)
+[![How to automatically watermark Contentful assets using a serverless function](img/3bb3c55977da80fb664456e7bfadd08c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MfvEdouC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/3KcGEFM59K02KG6eUMiewu/660f655eb78e2e0f4a9c05ba2d4096bc/20181108_Watermark_webhooks.png)
 
 我们交了朋友！我们终于达到了开发者可以部署 HTTP 端点而不用担心基础设施的地步。你可能已经猜到了，你是对的——我说的是无服务器的流行词！大型基础设施公司；目前，AWS、微软、IBM 和其他公司都将功能作为服务来提供。无服务器功能使您可以编写 100 行代码，测试并交付——100%可扩展，并且在部署的代码不运行时不会花费您一分钱。
 
@@ -26,7 +26,7 @@
 计划是这样的:每当有人在 Contentful 中创建新资产并上传图像时，就会发送一个 webhook。这个 webhook 触发一个下载上传图像的无服务器功能。例如，带有公司徽标的图像将作为带水印的版本重新上传到 Contentful。
 
 {:img }
-[![The flow with webhooks and serverless functions for image watermarking](../Images/96ba3e3c3617acf952e08528dd5b31d5.png)T3】](//images.ctfassets.net/fo9twyrwpveg/7KhQyRQNMsmkSGuemeAESa/ffc2a891b9d54d0b51f8d890fe670a26/serverless-flow.jpg)
+[![The flow with webhooks and serverless functions for image watermarking](img/96ba3e3c3617acf952e08528dd5b31d5.png)T3】](//images.ctfassets.net/fo9twyrwpveg/7KhQyRQNMsmkSGuemeAESa/ffc2a891b9d54d0b51f8d890fe670a26/serverless-flow.jpg)
 
 这样，你既可以保留原始图像，又可以省去自己修改这些图像的工作。听起来不错？我们开始吧！
 
@@ -129,7 +129,7 @@ functions:
 部署日志为您提供了端点部署位置的信息，以便您可以在浏览器中打开它并立即看到 JSON 响应。
 
 {:img }
-[![Change the method name and HTTP method to POST](../Images/468cdbe6728b18706f701e42b88c37f5.png)T3】](//images.ctfassets.net/fo9twyrwpveg/6ozEksTGfeQEmsyCqAWY68/76fe98aa88e169e04ddefea09a35f791/image_1.png)
+[![Change the method name and HTTP method to POST](img/468cdbe6728b18706f701e42b88c37f5.png)T3】](//images.ctfassets.net/fo9twyrwpveg/6ozEksTGfeQEmsyCqAWY68/76fe98aa88e169e04ddefea09a35f791/image_1.png)
 
 作为最后的准备步骤，让我们将方法名从`hello`改为`watermark`，并且使用 HTTP 方法`POST`代替`GET`。
 
@@ -154,14 +154,14 @@ functions:
 在 Contentful 中，你可以定义一个新的 webhook，每当你发布一个新的资产时，它就会被发送。
 
 {:img }
-[![Define a new webhook to be sent after publishing a new asset](../Images/a693ef4c8a904d62994838a5208282bc.png)T3】](//images.ctfassets.net/fo9twyrwpveg/fFnXAMHeRaSk8ecsyUESC/963f5b6b2547bdc49380957affce42d2/image_2.png)
+[![Define a new webhook to be sent after publishing a new asset](img/a693ef4c8a904d62994838a5208282bc.png)T3】](//images.ctfassets.net/fo9twyrwpveg/fFnXAMHeRaSk8ecsyUESC/963f5b6b2547bdc49380957affce42d2/image_2.png)
 
 酷的是你可以在 webhooks 配置中定义定制的有效负载。使用 JSON 指针，您可以减少负载并避免函数的复杂性，因为它只发送您感兴趣的数据。
 
 当您想要直接连接两个服务时，可调 webhooks 有效负载也很重要，因为服务可能只接受带有特定头或有效负载的请求。
 
 {:img }
-[![The definition of the entire webhook payload sent to the serverless function](../Images/1c30a5b60960e57ef76bcd345124c57d.png)T3】](//images.ctfassets.net/fo9twyrwpveg/20MQxKhM4YqI24aS2kyqQK/73c012e719a0cb9d90e51795db31e836/image_3.png)
+[![The definition of the entire webhook payload sent to the serverless function](img/1c30a5b60960e57ef76bcd345124c57d.png)T3】](//images.ctfassets.net/fo9twyrwpveg/20MQxKhM4YqI24aS2kyqQK/73c012e719a0cb9d90e51795db31e836/image_3.png)
 
 上面看到的是发送给无服务器函数的整个 webhook 有效负载的定义。JSON 指针(`{ /payload/… }`)的语法使得访问原始有效负载和根据您的需求重新构建一切成为可能。在本例中，您将使用以下内容:
 

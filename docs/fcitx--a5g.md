@@ -20,7 +20,7 @@ Fcitx 具有在输入时显示辅助弹出窗口的功能。 作为输入辅助�
 
 输入位置在上面，但弹出窗口(输入候选)显示在窗口外的左下方。
 
-[![](../Images/3aceb10397dc85f524258ebc792384f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IViumO2I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8a5p8gwl6qrotlf4nwkv.jpg)
+[![](img/3aceb10397dc85f524258ebc792384f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IViumO2I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8a5p8gwl6qrotlf4nwkv.jpg)
 
 如果输入方法无法获取输入光标的位置，则可能会出现这种情况。
 
@@ -39,16 +39,16 @@ Fcitx 具有在输入时显示辅助弹出窗口的功能。 作为输入辅助�
 
 安装软件包。
 
-[![](../Images/8ef2a6a93ee52f814600762acc42ce11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4J-mbPp2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/55fokxoc5f4v4mxlob08.png)
+[![](img/8ef2a6a93ee52f814600762acc42ce11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4J-mbPp2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/55fokxoc5f4v4mxlob08.png)
 
 安装后重新启动 Fcitx。
 
-[![](../Images/7655cd752df59261e90bd43317b4c08c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DHFEDHWL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rydploa2hd76fwixho0o.jpg)
+[![](img/7655cd752df59261e90bd43317b4c08c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DHFEDHWL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rydploa2hd76fwixho0o.jpg)
 
 **补充:如果仍然无法修复，请重新启动操作系统。*
 
 ### After: Google Chrome 中的图像
 
-[![](../Images/4c9c8e410dfbe20c87ec443819986252.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f7gR22rp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w3bmud6cggwadnh9ky5a.png)
+[![](img/4c9c8e410dfbe20c87ec443819986252.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f7gR22rp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w3bmud6cggwadnh9ky5a.png)
 
 弹出窗口现在显示在输入位置下方

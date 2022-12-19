@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/scottybo/the-scared-of-change-fallacy-3aa3>
 
-[![Embracing change](../Images/1ce05ebb4705267c484cc02adb961744.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XASpSr5H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zs2bznuwj64b5fuo5bh7.jpg)
+[![Embracing change](img/1ce05ebb4705267c484cc02adb961744.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XASpSr5H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zs2bznuwj64b5fuo5bh7.jpg)
 
 请注意:这是 Scott Bowler 的观点文章，不作为 ClassicPress 的官方声明。
 

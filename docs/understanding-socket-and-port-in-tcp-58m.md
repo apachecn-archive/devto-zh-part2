@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/onmyway133/understanding-socket-and-port-in-tcp-58m>
 
-[![](../Images/719b1d2926db860b523b83992974be1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PZKWUQNl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AFBtXpAXB-9QMV8NK.jpg)
+[![](img/719b1d2926db860b523b83992974be1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PZKWUQNl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AFBtXpAXB-9QMV8NK.jpg)
 
 当深入研究 TCP 世界时，我得到了许多术语，我不知道任何误解。但是在 SO 上那些极客的帮助下，这些问题被揭开了神秘面纱。现在是总结和与他人分享:D 的时候了
 

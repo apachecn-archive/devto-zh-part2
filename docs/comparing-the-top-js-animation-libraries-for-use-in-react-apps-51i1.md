@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/comparing-the-top-js-animation-libraries-for-use-in-react-apps-51i1>
 
-[![](../Images/9a68719eb7759ebc35757c6d32f050bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UHymD7w1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ap6A_nE4_qNjEtDffP6IA4A.jpeg)
+[![](img/9a68719eb7759ebc35757c6d32f050bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UHymD7w1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ap6A_nE4_qNjEtDffP6IA4A.jpeg)
 
 你可能已经注意到动画在网络上非常流行。针对运动爱好者的教程、案例研究和图书馆并不缺乏。这是开发的一个方面，可以激发、增强、愉悦、激励和打动用户。
 
@@ -36,7 +36,7 @@
 
 文档: **B+** ，特性: **A，**语法: **B+，**社区&支持 **:** **A+，稳定: **A****
 
-[![](../Images/dbbf81d8c8a535a76ff63c9e9d58e876.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F-32mejw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AoMzgiPe50QByX6pjumn1gQ.png)
+[![](img/dbbf81d8c8a535a76ff63c9e9d58e876.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F-32mejw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AoMzgiPe50QByX6pjumn1gQ.png)
 
 GreenSock (GSAP)是网络动画师的首选 JavaScript 库之一。您可以创建各种令人惊叹的效果，包括那些需要 SVG 支持的效果。
 
@@ -86,7 +86,7 @@ GreenSock 的主要方面是开放源代码，允许您自由使用 TweenMax (11
 
 文档 **: C，**特性 **: B** ，语法: **B，**社区&支持 **: C，**稳定性: **B**
 
-[![](../Images/59c33da5aa60d0736caa3da8f406b021.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xWcc8xfT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AOBE14NXuAdHGS9YOpVFq2Q.png)
+[![](img/59c33da5aa60d0736caa3da8f406b021.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xWcc8xfT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AOBE14NXuAdHGS9YOpVFq2Q.png)
 
 Anime 是一个轻量级(6.2 KB minified)，开源的 JavaScript 动画库。
 
@@ -108,7 +108,7 @@ Anime 是一个轻量级(6.2 KB minified)，开源的 JavaScript 动画库。
 
 文档 **: C，**特性 **: B** ，语法: **B** ，社区&支持: **C，**稳定性: **C**
 
-[![](../Images/ef6b8909b50a2c79f7a8410df53b4a3e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dZXMNcfL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AxhppBW642BRuHYIXx-iDcg.png)
+[![](img/ef6b8909b50a2c79f7a8410df53b4a3e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dZXMNcfL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AxhppBW642BRuHYIXx-iDcg.png)
 
 Mo.js 是一个开源项目，可以通过 npm 或 CDNJS 安装。它声称快速、可靠、经过单元测试、模块化、健壮，并且有一个简单的 API 所有这些都有助于减少大文件的开销。
 
@@ -125,7 +125,7 @@ Mo.js 是一个开源项目，可以通过 npm 或 CDNJS 安装。它声称快�
 **pop motion**
 T3】文档 **: D，**特性 **: C** ，语法: **C** ，社区&支持: **B，**稳定性: **B**
 
-[![](../Images/56208b9c0c399de9810925ad6fcbfd39.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bzx8PTBu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AV69F0DP6GWAx1e4IYbpJmg.png)
+[![](img/56208b9c0c399de9810925ad6fcbfd39.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bzx8PTBu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AV69F0DP6GWAx1e4IYbpJmg.png)
 
 Popmotion 是一款 11.5 KB 的瑞士军刀，适用于旨在成为乐高积木的动画师，并附带有混合、可拖动、姿势、反应和可旋转的软件包。一个功能性的，*反应性的* JavaScript 动作库，提供了补间的方法，然而，文档可能是一个很难破译的；由于 styler 的解释含糊而简短，因此很难让人理解。
 
@@ -145,7 +145,7 @@ pop motion 的创建者是[希望 Pose](https://github.com/Popmotion/popmotion/t
 
 文档 **: B+，**特性 **: B+** ，语法: **B+** ，社区&支持: **B+，**稳定: **B**
 
-[![](../Images/dfced5e4b55e051bb1e17e7a890c1eb6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8JwzLXln--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AcOXabt0u_0WE44NFrX7KiA.png)
+[![](img/dfced5e4b55e051bb1e17e7a890c1eb6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8JwzLXln--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AcOXabt0u_0WE44NFrX7KiA.png)
 
 熟悉 jQuery 的人会觉得 Velocity 如鱼得水。Velocity 是一个动画引擎，与 jQuery 的 **$具有相同的 API。animate()** 。不管有没有 jQuery，它都可以工作。它具有彩色动画、变换、循环、缓动、SVG 支持和滚动功能。
 
@@ -184,7 +184,7 @@ pop motion 的创建者是[希望 Pose](https://github.com/Popmotion/popmotion/t
 
 1.  *反应式* —“反应式动画”是一种涉及离散变化的动画，由于事件(*Conal Elliot/Paul Hudak 1997*)或基于用户事件/输入和不同输入/事件值发生的变化。反应式库一般不会提前“思考”。【https://www.youtube.com/watch?v=lTCukb6Zn3g】T4。[http://slides.com/davidkhourshid/flipping#/42](http://slides.com/davidkhourshid/flipping#/42)* * * * # Plug:[log rocket](https://logrocket.com/signup/)，一款用于网络应用的 DVR
 
-[![LogRocket Dashboard Free Trial Banner](../Images/0abf868fe5ccbed99d71cb8d9e81ed98.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6FG5kvEL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png%3Fresize%3D1200%252C677%26ssl%3D1)
+[![LogRocket Dashboard Free Trial Banner](img/0abf868fe5ccbed99d71cb8d9e81ed98.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6FG5kvEL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png%3Fresize%3D1200%252C677%26ssl%3D1)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

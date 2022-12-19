@@ -14,7 +14,7 @@
 
 这就是我过去*年*的态度。我像躲避瘟疫一样躲避 UI 工作或者前女友。因为后见之明都是 20/20 之类的东西，我现在知道**我限制了自己**没有花时间*理解*为什么用户会有问题。原料药的消费者？我已经控制住了。图形界面的用户？没有那么多。正因为如此，我也在近十年的时间里避开了任何网络开发。
 
-[![Internet Representation of ex-girlfriend](../Images/1e3a97a8c178408abe9d060a9dd3d0e3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5iJ21i-P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.movieweb.com/img.news.tops/NEEZy48aTAoPIF_1_b/Burying-Ex-Movie-Trailer.jpg) 
+[![Internet Representation of ex-girlfriend](img/1e3a97a8c178408abe9d060a9dd3d0e3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5iJ21i-P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.movieweb.com/img.news.tops/NEEZy48aTAoPIF_1_b/Burying-Ex-Movie-Trailer.jpg) 
 
 <figure>
 

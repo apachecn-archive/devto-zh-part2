@@ -22,7 +22,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 确保安装了节点依赖项(axios 和@sanity/client)。如果您需要手动添加，请单击扳手按钮🔧并选择 *npm 模块*。
 
-[![The Webtask online editor](../Images/9911669298530f5035f2c4e678a96930.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pxSSelqz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b5407e83ly9soqy3qw4v.png)
+[![The Webtask online editor](img/9911669298530f5035f2c4e678a96930.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pxSSelqz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b5407e83ly9soqy3qw4v.png)
 
 ### 2。创建一个松弛的传入 Webhook
 
@@ -36,7 +36,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 复制编辑器页面底部一行打印的 webtask-URL(应该看起来像`https://wt-<SECRET CODE>.sandbox.auth0-extend.com/<SCRIPT NAME>`)并运行`sanity hook create name-of-your-choosing`。选择您想要报告的数据集，并在出现提示时粘贴到您的 webtask-URL 中。
 
-[![Animation of the flow](../Images/738a9501e2661f1b4541aeaefe9f9ac8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ikalVNyX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.sanity.io/images/3do82whm/production/d4fd812b62724bf0f2e0b0d74bcb9ced63f9dc1f-1905x1016.gif%3Fw%3D1000)
+[![Animation of the flow](img/738a9501e2661f1b4541aeaefe9f9ac8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ikalVNyX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.sanity.img/3do82whm/production/d4fd812b62724bf0f2e0b0d74bcb9ced63f9dc1f-1905x1016.gif%3Fw%3D1000)
 
 ## 自定义
 

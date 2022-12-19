@@ -8,7 +8,7 @@
 
 **1)量身定制你的策略:**货币交易者最初的想法是跟随专业人士的做法，抱着和他们一样赚钱的信念。从众心理从长远来看没什么效果！每个交易者都有不同的心态和交易能力。不是每个人都可以日内交易，也不是每个人都有耐心交易。敏锐地观察自己，设计出最适合自己利益的外汇交易策略。
 
-[![Tips to Make Forex Easier](../Images/07ff11ae37f2cdcc0d98d664927ccdc2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hyLrX7ST--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/764ew13us1k13c1sohe1.jpg)
+[![Tips to Make Forex Easier](img/07ff11ae37f2cdcc0d98d664927ccdc2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hyLrX7ST--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/764ew13us1k13c1sohe1.jpg)
 
 探索所有的时间框架:把所有的鸡蛋放在一个篮子里是不明智的。从货币对到时间框架到外汇交易策略，货币交易有很大的自由度。虽然每一种策略都需要一定的练习，但是只有当你穿上所有的鞋子走一英里都感到舒适的时候，成功才是可能的！尝试不同的时间框架，学习每种策略，不要害怕利用外汇提供的选择。
 

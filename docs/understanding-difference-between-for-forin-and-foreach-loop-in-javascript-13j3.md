@@ -30,6 +30,6 @@ console . log(array[I])
 
 [理解 For、For…In 和 ForEach 循环在 Javascript 中的区别](https://www.skptricks.com/2018/11/understanding-difference-between-for-foreach-forin-loop-in-javascript.html)
 
-[![](../Images/67fff3e1271d284e5f72bef50cb0ca86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i-g_kk2G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-osyHzGqxeNs/W_FLfeEK3ZI/AAAAAAAACJo/j406A-ytFYgumOnLO13Y8nZG0Wu9EEFewCLcBGAs/s400/for.png)
+[![](img/67fff3e1271d284e5f72bef50cb0ca86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i-g_kk2G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-osyHzGqxeNs/W_FLfeEK3ZI/AAAAAAAACJo/j406A-ytFYgumOnLO13Y8nZG0Wu9EEFewCLcBGAs/s400/for.png)
 
 [阅读更多...](https://www.skptricks.com/2018/11/understanding-difference-between-for-foreach-forin-loop-in-javascript.html)

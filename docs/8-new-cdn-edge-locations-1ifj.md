@@ -29,9 +29,9 @@ Eugene 在第一次宣布 Commons Host 项目时就表示支持。在完全自�
 
 新服务器是虚拟机。它们位于由云托管公司 Linode 运营的所有数据中心。顶层数据中心很好地连接到互联网交换，许多 ISP 和运营商在这里会面，提供了有效的连接和可扩展的性能。高带宽和低延迟。完美，对吧？
 
-[![UIlicious logo](../Images/94e6f54d8686a2cac7fad4ae3460cc06.png)T2】](https://uilicious.com)
+[![UIlicious logo](img/94e6f54d8686a2cac7fad4ae3460cc06.png)T2】](https://uilicious.com)
 
-[![Linode logo](../Images/4995386154a2f07a443186e1eb2dad5e.png)T2】](https://www.linode.com)
+[![Linode logo](img/4995386154a2f07a443186e1eb2dad5e.png)T2】](https://www.linode.com)
 
 ## 第一世界问题
 

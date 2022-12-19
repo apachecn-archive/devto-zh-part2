@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/smn/why-build-a-dapp-or-blockchain-on-tendermint-consensus-21bf>
 
-[![Tendermint building blocks](../Images/2d4d2c650cfd59da37fb01773f837056.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--osMWs7y3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ckz4f9fb3wlivtda5mgl.png)
+[![Tendermint building blocks](img/2d4d2c650cfd59da37fb01773f837056.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--osMWs7y3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ckz4f9fb3wlivtda5mgl.png)
 
 人们一直问我，为什么我决定在 Tendermint 共识上建立我们的 [Egeon](http://egeon.io) 区块链，而不是其他区块链框架，比如 Hyperledger Fabric/Sawtooth，甚至以太坊/EOS 智能合约。所以这里是我对[嫩薄荷](https://tendermint.com/)的支持:
 

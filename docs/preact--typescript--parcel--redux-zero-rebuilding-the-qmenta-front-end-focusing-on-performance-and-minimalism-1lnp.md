@@ -12,7 +12,7 @@ QMENTA 平台已经持续了一段时间了。旧的平台前端是使用成熟�
 
 今年面临的主要挑战之一是从头开始重建前端，以适应不断增长的神经成像处理中心的新需求，使其干净，易于维护，可扩展，并与前端开发的最新技术保持同步。
 
-[![Register Page](../Images/df400ef5bed5b88c6f19c1a80c71db06.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--z77osAeA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uxvbwc6nglbswqlm0tcc.png) 
+[![Register Page](img/df400ef5bed5b88c6f19c1a80c71db06.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--z77osAeA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uxvbwc6nglbswqlm0tcc.png) 
 
 <figure>
 
@@ -20,7 +20,7 @@ QMENTA 平台已经持续了一段时间了。旧的平台前端是使用成熟�
 
 </figure>
 
-[![Project List View](../Images/83d2583dd2621ea856a71f0cb55c288f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uW1LfPeF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eea9ae1ys3uuheewy3u8.png)
+[![Project List View](img/83d2583dd2621ea856a71f0cb55c288f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uW1LfPeF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eea9ae1ys3uuheewy3u8.png)
 
 <figure>
 
@@ -32,7 +32,7 @@ QMENTA 平台已经持续了一段时间了。旧的平台前端是使用成熟�
 
 以速度、性能和极简主义为旗舰，目标是使用`FrameworkOfChoice`构建一个单页面 web 应用，它可以是 **VueJS、AngularJS、React** 或其他框架，如[*【Hyperapp*](https://github.com/jorgebucaran/hyperapp)。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [约尔格布卡兰](https://github.com/jorgebucaran) / [ hyperapp](https://github.com/jorgebucaran/hyperapp)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [约尔格布卡兰](https://github.com/jorgebucaran) / [ hyperapp](https://github.com/jorgebucaran/hyperapp)
 
 ### 构建超文本应用程序的微小框架。
 
@@ -62,7 +62,7 @@ QMENTA 平台已经持续了一段时间了。旧的平台前端是使用成熟�
 [View on GitHub](https://github.com/jorgebucaran/hyperapp)
 Up until there, pretty standard and mainstream definition for a web application project. After pondering the different frameworks and technologies, we chose [*Preact*](https://preactjs.com/) coupled with [*Typescript*](https://www.typescriptlang.org/) as the core libraries of choice for the project.
 
-[![Typescript and Preact logos](../Images/e99a0a45e51bb57566ae3f341976965f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EG9pUbQL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3qs6lbnj1c4rvafb885c.jpg) 
+[![Typescript and Preact logos](img/e99a0a45e51bb57566ae3f341976965f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EG9pUbQL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3qs6lbnj1c4rvafb885c.jpg) 
 
 <figure>
 
@@ -86,7 +86,7 @@ Preact 做到这一切的同时保持 API 更精简( [react 16.2.0 + React DOM �
 
 关于性能，在一个简单的 [TODO 应用程序](http://todomvc.com/)上测试，结果令人震惊，Preact 是 Vue.js 接近的最快的应用程序之一，比 react 快大约 170 毫秒。很神奇，不是吗？🌠
 
-[![Performance Test](../Images/1ec3b4792e12f446cfb6b5e98c080efa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gUc_8iAh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5qa8ppv6r9ptxu4yb773.png) 
+[![Performance Test](img/1ec3b4792e12f446cfb6b5e98c080efa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gUc_8iAh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5qa8ppv6r9ptxu4yb773.png) 
 
 <figure>
 
@@ -99,7 +99,7 @@ Preact 做到这一切的同时保持 API 更精简( [react 16.2.0 + React DOM �
 
 当然，并不是所有的东西都很棒，你会发现这个社区没有 React 那么大，响应也没有 React 那么快(毕竟它并没有被广泛使用)。一些可爱的功能仍然没有出现，比如对[片段](https://reactjs.org/docs/fragments.html)的支持(所以你仍然必须创建一些好的旧的 div 包装器)。此外，一些库仍然不被支持，但不用担心， [preact-compat](https://github.com/developit/preact-compat) 在 preact 之上创建了一个层，使其与 react 完全兼容。神奇！⚡️
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)[【preactjs】](https://github.com/preactjs)/[【preact-compat】](https://github.com/preactjs/preact-compat)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)[【preactjs】](https://github.com/preactjs)/[【preact-compat】](https://github.com/preactjs/preact-compat)
 
 ### 🙌为 Preact 反应兼容层。
 
@@ -107,9 +107,9 @@ Preact 做到这一切的同时保持 API 更精简( [react 16.2.0 + React DOM �
 
 # preact-compat
 
-[![NPM](../Images/4d7683fccb2e0b63edcf74e32aa3af78.png)](https://www.npmjs.org/package/preact-compat)[![travis-ci](../Images/24c39096e82acf4eaf234acde88e4654.png)](https://travis-ci.org/developit/preact-compat)[![CDNJS](../Images/5220fe012edc3243fdb0b2520a63db93.png)](https://cdnjs.com/libraries/preact-compat)
+[![NPM](img/4d7683fccb2e0b63edcf74e32aa3af78.png)](https://www.npmjs.org/package/preact-compat)[![travis-ci](img/24c39096e82acf4eaf234acde88e4654.png)](https://travis-ci.org/developit/preact-compat)[![CDNJS](img/5220fe012edc3243fdb0b2520a63db93.png)](https://cdnjs.com/libraries/preact-compat)
 
-> <g-emoji class="g-emoji" alias="rotating_light" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a8.png">🚨</g-emoji> **注意:**此模块适用于 Preact 8.x，Preact X 之前默认包含 compat For Preact X，请卸载`preact-compat`并用`preact/compat`替换您的别名。
+> <g-emoji class="g-emoji" alias="rotating_light" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f6a8.png">🚨</g-emoji> **注意:**此模块适用于 Preact 8.x，Preact X 之前默认包含 compat For Preact X，请卸载`preact-compat`并用`preact/compat`替换您的别名。
 
 这个模块是一个兼容层，使得基于 React 的模块可以与 [Preact](https://github.com/developit/preact) 一起工作，而无需任何代码更改。
 
@@ -133,7 +133,7 @@ React 是一个伟大的库和伟大的概念，拥有一个创建高质量组�
 
 [View on GitHub](https://github.com/preactjs/preact-compat)
 
-[![Analysis List View](../Images/1a6ea7513fd8cb4089ea224aebc63d4e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GeARwBi3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i90qhd5lbcu5mfpjkonp.png) 
+[![Analysis List View](img/1a6ea7513fd8cb4089ea224aebc63d4e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GeARwBi3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i90qhd5lbcu5mfpjkonp.png) 
 
 <figure>
 
@@ -292,15 +292,15 @@ Enter fullscreen mode Exit fullscreen mode
 
 为了管理异步行为，我们使用 [`kaop-TS`](https://github.com/k1r0s/kaop-ts) ，这是一个装饰库，提供了一些用类型脚本编写的方法拦截器。有了它们，我们可以在异步方法的连接点插入行为，比如在方法开始之前或方法结束之后执行一些操作，或者插入一个方法来拦截错误并执行一些逻辑。我们可以看到在下面定义 http 装饰器的代码片段中使用了`beforeMethod`装饰器。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)[k1r0s](https://github.com/k1r0s)/[kaop-ts](https://github.com/k1r0s/kaop-ts)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)[k1r0s](https://github.com/k1r0s)/[kaop-ts](https://github.com/k1r0s/kaop-ts)
 
 ### 简单而强大的 ES2016 Decorators 库，具有强类型方法拦截器，如 BeforeMethod、AfterMethod、OnException 等
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-[![kaop](../Images/2829297c88cfd52ad0fb23ea27369640.png)T2】](https://camo.githubusercontent.com/e675ba0ba9ad1a16a4250538a3509ee7e059611b1e76325d572fc7d8c04a9996/687474703a2f2f692e696d6775722e636f6d2f366269457073712e706e67)
+[![kaop](img/2829297c88cfd52ad0fb23ea27369640.png)T2】](https://camo.githubusercontent.com/e675ba0ba9ad1a16a4250538a3509ee7e059611b1e76325d572fc7d8c04a9996/687474703a2f2f692e696d6775722e636f6d2f366269457073712e706e67)
 
-[![semantic-release](../Images/a692f1dbafdf53023b8a11ad2a76d9c8.png)](https://github.com/semantic-release/semantic-release)[![Greenkeeper badge](../Images/3a7e1cf95e2d1f8b0c568766a49d9b2f.png)](https://greenkeeper.io/)[![Image travis](../Images/30b420a9a2fa0adb87122b2bfe7c748f.png)](https://travis-ci.org/k1r0s/)[![version](../Images/8fbdeea67258c350924eb973b779cb9e.png)](https://www.npmjs.com/package/kaop-ts/)[![Coverage Status](../Images/e2f0a449c4fc9b5f61776524629bfd6b.png)](https://coveralls.io/github/k1r0s/kaop-ts?branch=master)[![dependencies](../Images/283055506c029d175f7ef1e599bddbe3.png)](https://david-dm.org/k1r0s/kaop-ts/status.svg)[![dev-dependencies](../Images/3bc4b17c86570827d6c9843f256af98f.png)](https://www.npmjs.com/package/kaop-ts)[![downloads](../Images/78d1020af56646de17f1131e47ceee82.png)](https://www.npmjs.com/package/kaop-ts)[T25】](https://snyk.io/test/npm/kaop-ts)
+[![semantic-release](img/a692f1dbafdf53023b8a11ad2a76d9c8.png)](https://github.com/semantic-release/semantic-release)[![Greenkeeper badge](img/3a7e1cf95e2d1f8b0c568766a49d9b2f.png)](https://greenkeeper.io/)[![Image travis](img/30b420a9a2fa0adb87122b2bfe7c748f.png)](https://travis-ci.org/k1r0s/)[![version](img/8fbdeea67258c350924eb973b779cb9e.png)](https://www.npmjs.com/package/kaop-ts/)[![Coverage Status](img/e2f0a449c4fc9b5f61776524629bfd6b.png)](https://coveralls.io/github/k1r0s/kaop-ts?branch=master)[![dependencies](img/283055506c029d175f7ef1e599bddbe3.png)](https://david-dm.org/k1r0s/kaop-ts/status.svg)[![dev-dependencies](img/3bc4b17c86570827d6c9843f256af98f.png)](https://www.npmjs.com/package/kaop-ts)[![downloads](img/78d1020af56646de17f1131e47ceee82.png)](https://www.npmjs.com/package/kaop-ts)[T25】](https://snyk.io/test/npm/kaop-ts)
 
 轻量级的、可靠的、与框架无关的并且**易于使用的**用 TypeScript 编写的库来处理*横切关注点*并提高代码的模块化。
 
@@ -405,7 +405,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 它的一个实现(作为一个最小的库)包装了[获取 API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) 可以在 [`http-fetch-decorator`](https://github.com/aalises/http-fetch-decorator) 回购上看到:
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [爱丽丝](https://github.com/aalises)/[http-fetch-decorator](https://github.com/aalises/http-fetch-decorator)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [爱丽丝](https://github.com/aalises)/[http-fetch-decorator](https://github.com/aalises/http-fetch-decorator)
 
 ### 为您的函数提供简单的获取接口 http 装饰包装。
 
@@ -446,7 +446,7 @@ class AnyES6Class {
 
 此外，我们的应用程序的状态管理和路由使用 decorators 来扩展组件的功能，例如，将组件连接到商店或侦听特定路由上呈现的内容。在下一节中，我们将对此进行更多的讨论。
 
-[![Subject Detail Viewing](../Images/ef15b31a37ddf7aaf5d6ab620cd5502f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YiZkIHBc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fnzcy8oszdysa8lznuki.png) 
+[![Subject Detail Viewing](img/ef15b31a37ddf7aaf5d6ab620cd5502f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YiZkIHBc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fnzcy8oszdysa8lznuki.png) 
 
 <figure>
 
@@ -463,13 +463,13 @@ class AnyES6Class {
 
 在我们的应用程序中，我们不希望有一个大的存储，我们试图让它尽可能小，减少共享状态的使用，加强关注点的封装和分离。鉴于此，我们决定使用一个名为 [`Redux-Zero`](https://github.com/redux-zero/redux-zero) 的轻量级(小于 1Kb)版本。虽然有一些不同，但它也减少了 Redux 的许多不必要的开销(对于我们的应用程序来说)。它仍然有一个**商店**(尽管只有一个)，它提供了我们想要管理的所有全局状态；在我们的例子中，会话和项目信息、当前页面、当前项目 id 的通知等等。它也没有**缩减器**，讽刺的是，这确实大大降低了库的复杂性。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)/[redux-zero](https://github.com/redux-zero/redux-zero)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)/[redux-zero](https://github.com/redux-zero/redux-zero)
 
 ### 基于 Redux 的轻量级状态容器
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-# [![redux zero logo](../Images/68def7f971803ba242da0e40be93e10c.png "redux zero logo")](https://camo.githubusercontent.com/c88d3fb7980b72edd3f139c81923b987a16473fc2de5bc8db136c47f592962ae/68747470733a2f2f692e696d6775722e636f6d2f53386a6e72384f2e706e67)T3】
+# [![redux zero logo](img/68def7f971803ba242da0e40be93e10c.png "redux zero logo")](https://camo.githubusercontent.com/c88d3fb7980b72edd3f139c81923b987a16473fc2de5bc8db136c47f592962ae/68747470733a2f2f692e696d6775722e636f6d2f53386a6e72384f2e706e67)T3】
 
 基于 Redux 的轻量级状态容器
 
@@ -477,7 +477,7 @@ class AnyES6Class {
 
 * * *
 
-[![codacy](../Images/13bdef981bd88cb965913abc33bee641.png)](https://www.codacy.com/app/matheusml/redux-zero?utm_source=github.com&utm_medium=referral&utm_content=redux-zero/redux-zero&utm_campaign=Badge_Grade)[![build](../Images/becbdd0df4afe21b7560a52faf729cdc.png)](https://travis-ci.org/redux-zero/redux-zero)[![npm](../Images/942e15c41e557a3af9861df7e0634621.png)](https://www.npmjs.com/package/redux-zero)[![downloads](../Images/75221816635ec97a23603921c5a08163.png)](https://www.npmjs.com/package/redux-zero)[![license](../Images/169abed00450868f24b692fd8d42391e.png)](https://raw.githubusercontent.com/redux-zero/redux-zero/master/)[![dependencies](../Images/17fde32fa70c2fff63862c4915849675.png)](https://raw.githubusercontent.com/redux-zero/redux-zero/master/)
+[![codacy](img/13bdef981bd88cb965913abc33bee641.png)](https://www.codacy.com/app/matheusml/redux-zero?utm_source=github.com&utm_medium=referral&utm_content=redux-zero/redux-zero&utm_campaign=Badge_Grade)[![build](img/becbdd0df4afe21b7560a52faf729cdc.png)](https://travis-ci.org/redux-zero/redux-zero)[![npm](img/942e15c41e557a3af9861df7e0634621.png)](https://www.npmjs.com/package/redux-zero)[![downloads](img/75221816635ec97a23603921c5a08163.png)](https://www.npmjs.com/package/redux-zero)[![license](img/169abed00450868f24b692fd8d42391e.png)](https://raw.githubusercontent.com/redux-zero/redux-zero/master/)[![dependencies](img/17fde32fa70c2fff63862c4915849675.png)](https://raw.githubusercontent.com/redux-zero/redux-zero/master/)
 
 ## 目录
 
@@ -549,7 +549,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 [View on GitHub](https://github.com/redux-zero/redux-zero)
 
-[![Brain Fibers Visualizer](../Images/6a3dc1aa58398dbfab581ed67c1edc95.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NECF2918--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bpxtpl673dhwlbaocglj.png) 
+[![Brain Fibers Visualizer](img/6a3dc1aa58398dbfab581ed67c1edc95.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NECF2918--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bpxtpl673dhwlbaocglj.png) 
 
 <figure>
 
@@ -583,7 +583,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 任何现代应用程序的另一个不可或缺的部分是根据 URL 或其他参数在项目的不同视图之间选择路由，能够将参数传递给路由，等等。一个常见的解决方案是使用 React 自带的神奇路由器[。尽管我们很喜欢它，但它附带了很多我们不会真正使用的功能，所以我们制作了自己的](https://github.com/ReactTraining/react-router) [preact-routlet](https://github.com/k1r0s/preact-routlet) ，这是一个基于 decorators 的 Preact/React 的简单路由器。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)[k1r0s](https://github.com/k1r0s)/[preact-roulet](https://github.com/k1r0s/preact-routlet)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)[k1r0s](https://github.com/k1r0s)/[preact-roulet](https://github.com/k1r0s/preact-routlet)
 
 ### 使用 ES7 装饰器为 Preact/React 提供简单的“组件驱动”路由
 
@@ -679,24 +679,24 @@ Enter fullscreen mode Exit fullscreen mode
 
 唯一剩下的事情就是指定一个入口点和输出目录，瞧，这就行了。在我们的例子中，与 webpack 相比，速度和性能上的差异并不明显(在速度上基本相同)，但它的零配置和最小化使它成为我们项目的首选捆绑器。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)/[包裹](https://github.com/parcel-bundler/parcel)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)/[包裹](https://github.com/parcel-bundler/parcel)
 
 ### 📦🚀极快的零配置 web 应用捆绑器
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-[![Parcel](../Images/1b13c4e337dd7aea4f456a4b8204583e.png)T2】](https://parceljs.org/)
+[![Parcel](img/1b13c4e337dd7aea4f456a4b8204583e.png)T2】](https://parceljs.org/)
 
-[![Backers on Open Collective](../Images/dbe55a49f70b3d5ce3c071c1afd29343.png)](https://raw.githubusercontent.com/parcel-bundler/parcel/v2/#backers)[![Sponsors on Open Collective](../Images/7532f769bbeb551c38e7d3354241bc20.png)](https://raw.githubusercontent.com/parcel-bundler/parcel/v2/#sponsors)[![Build Status](../Images/a4f5b61113aef47a03be4a343d456b5a.png)](https://dev.azure.com/devongovett/devongovett/_build/latest?definitionId=1)[![npm package](../Images/5479202d27c73ad2be6730f32d084f3a.png)](https://www.npmjs.com/package/parcel)[![npm package](../Images/146d3ba0b7a5acded52a1a543583cf15.png)](https://www.npmjs.com/package/parcel)[![Twitter Follow](../Images/753d1e4556446be4159d5454bbb9e51e.png)](https://twitter.com/parceljs)
+[![Backers on Open Collective](img/dbe55a49f70b3d5ce3c071c1afd29343.png)](https://raw.githubusercontent.com/parcel-bundler/parcel/v2/#backers)[![Sponsors on Open Collective](img/7532f769bbeb551c38e7d3354241bc20.png)](https://raw.githubusercontent.com/parcel-bundler/parcel/v2/#sponsors)[![Build Status](img/a4f5b61113aef47a03be4a343d456b5a.png)](https://dev.azure.com/devongovett/devongovett/_build/latest?definitionId=1)[![npm package](img/5479202d27c73ad2be6730f32d084f3a.png)](https://www.npmjs.com/package/parcel)[![npm package](img/146d3ba0b7a5acded52a1a543583cf15.png)](https://www.npmjs.com/package/parcel)[![Twitter Follow](img/753d1e4556446be4159d5454bbb9e51e.png)](https://twitter.com/parceljs)
 
 ## 特征
 
-*   <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> **超快的速度**捆绑时间——多核编译，文件系统缓存，即使重启后也能快速重建。
-*   <g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji>开箱即用支持 JS、CSS、HTML、文件资产等- **无需安装插件**。
-*   <g-emoji class="g-emoji" alias="tropical_fish" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f420.png">🐠</g-emoji> **在需要时使用 Babel、PostCSS 和 PostHTML 自动转换模块**——甚至`node_modules`。
-*   <g-emoji class="g-emoji" alias="scissors" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2702.png">✂️</g-emoji> 零配置**代码拆分**使用动态`import()`语句。
-*   <g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji>内置支持**热模块更换**
-*   <g-emoji class="g-emoji" alias="rotating_light" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a8.png">🚨</g-emoji>友好的错误记录体验——语法高亮显示的代码框架有助于查明问题。
+*   <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f680.png">🚀</g-emoji> **超快的速度**捆绑时间——多核编译，文件系统缓存，即使重启后也能快速重建。
+*   <g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f4e6.png">📦</g-emoji>开箱即用支持 JS、CSS、HTML、文件资产等- **无需安装插件**。
+*   <g-emoji class="g-emoji" alias="tropical_fish" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f420.png">🐠</g-emoji> **在需要时使用 Babel、PostCSS 和 PostHTML 自动转换模块**——甚至`node_modules`。
+*   <g-emoji class="g-emoji" alias="scissors" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/2702.png">✂️</g-emoji> 零配置**代码拆分**使用动态`import()`语句。
+*   <g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f525.png">🔥</g-emoji>内置支持**热模块更换**
+*   <g-emoji class="g-emoji" alias="rotating_light" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f6a8.png">🚨</g-emoji>友好的错误记录体验——语法高亮显示的代码框架有助于查明问题。
 
 * * *
 
@@ -720,7 +720,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 [View on GitHub](https://github.com/parcel-bundler/parcel)
 
-[![Parcel Performance](../Images/a34920d4b634b579059a6d9202ae13bd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--U3eEd5vM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8ujt08n3fk4kzwnlffbw.png) 
+[![Parcel Performance](img/a34920d4b634b579059a6d9202ae13bd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--U3eEd5vM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8ujt08n3fk4kzwnlffbw.png) 
 
 <figure>
 
@@ -754,7 +754,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 测试是任何项目不可或缺的一部分。在我们的项目中，我们使用相当标准的 [Jest](https://jestjs.io/) 来[测试我们的组件](https://jestjs.io/docs/en/tutorial-react)和[木偶师](https://github.com/GoogleChrome/puppeteer)，后者是一个网页抓取器，或者让你自己训练有素的猴子执行你在浏览器上告诉他/她的操作，比如单击某个按钮或在某个元素上拖动鼠标。使用这些，我们可以通过一个无头的 Chrome API 在前端执行一些操作，然后用 Jest 检查预期的结果，比如检查确认元素是否出现或者显示的警告消息是否正确👌。如果你想了解更多关于如何在 React 中使用 Jest+puppet er 进行测试的信息，[有一篇关于它的文章](https://blog.bitsrc.io/testing-your-react-app-with-puppeteer-and-jest-c72b3dfcde59)。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [木偶师](https://github.com/puppeteer) / [木偶师](https://github.com/puppeteer/puppeteer)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [木偶师](https://github.com/puppeteer) / [木偶师](https://github.com/puppeteer/puppeteer)
 
 ### 无头 Chrome Node.js API
 
@@ -762,9 +762,9 @@ Enter fullscreen mode Exit fullscreen mode
 
 # 操纵木偶的人
 
-[![Build status](../Images/2adf3b28ac9a6dda27e57c57e0497aa6.png) ](https://github.com/puppeteer/puppeteer/actions?query=workflow%3Arun-checks) [ ![npm puppeteer package](../Images/406efc2eb0d1d17fbacf5b98148bd281.png)](https://npmjs.org/package/puppeteer)
+[![Build status](img/2adf3b28ac9a6dda27e57c57e0497aa6.png) ](https://github.com/puppeteer/puppeteer/actions?query=workflow%3Arun-checks) [ ![npm puppeteer package](img/406efc2eb0d1d17fbacf5b98148bd281.png)](https://npmjs.org/package/puppeteer)
 
-[![](../Images/48ffbae0e7030b5a769ac5d7d281043a.png)T2】](https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png)
+[![](img/48ffbae0e7030b5a769ac5d7d281043a.png)T2】](https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png)
 
 ###### [API](https://github.com/puppeteer/puppeteer/blob/v8.0.0/docs/api.md) | [FAQ](https://raw.githubusercontent.com/puppeteer/puppeteer/main/#faq) | [投稿](https://github.com/puppeteer/puppeteer/blob/main/CONTRIBUTING.md) | [故障排除](https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md)
 
@@ -851,7 +851,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 使用 [Jenkins](https://jenkins.io/) 自动化构建、测试和部署过程，测试在 docker 容器中运行，以便在具有 puppeteer 所需的所有图形库的环境中执行测试。在图 9 中可以看到**相当简单的**管道:
 
-[![Jenkins Pipeline](../Images/216c296af092bb7962d1e0934a656c68.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--d8T6raC6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jx50xsbtibzd11vgw9b1.png) 
+[![Jenkins Pipeline](img/216c296af092bb7962d1e0934a656c68.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--d8T6raC6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jx50xsbtibzd11vgw9b1.png) 
 
 <figure>
 

@@ -36,7 +36,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 因为我还需要在新旧 Rails 项目之间切换，所以我经常需要更改运行的 PostgreSQL 版本。我目前的解决方案是使用 [Postgres.app](https://postgresapp.com) 。
 
-[![Alt Postgres.app](../Images/d927a6e8b6f21e0cac9792035d7e20a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Iis1dZT3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uiu88odsbeque9vpswzi.png)
+[![Alt Postgres.app](img/d927a6e8b6f21e0cac9792035d7e20a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Iis1dZT3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uiu88odsbeque9vpswzi.png)
 
 如果您已经通过 Homebrew 在您的系统上安装了 PostgreSQL，但想要使用 Postgres.app 的特定版本(如以前的版本),只需遵循以下步骤:
 
@@ -54,7 +54,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 *   安装它并创建新的服务器:
 
-[![Alt Postgres.app](../Images/bcceee1259703830c3cc7c710e8d86cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Tp7K_Fy---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rylmc6d1j63yoo1cjbnq.png)
+[![Alt Postgres.app](img/bcceee1259703830c3cc7c710e8d86cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Tp7K_Fy---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rylmc6d1j63yoo1cjbnq.png)
 
 *   初始化它。
 

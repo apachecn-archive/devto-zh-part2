@@ -4,7 +4,7 @@
 
 这是我的“开发聊天”系列中的一篇文章，在这篇文章中，我大约每周都会与一位出色的开发人员或技术人员交谈。你可以在这里阅读更多。如果你觉得这些对你有用，请在评论中告诉我！
 
-[![Katrina is a tester, author and conference speaker.](../Images/8e0ee1af69636ac36929f296efc509d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9l-fNy-Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5a24d27a53450a52b510f38e/1512362624251/katrinaclokie_sml.JPG%3Fformat%3D1000w)
+[![Katrina is a tester, author and conference speaker.](img/8e0ee1af69636ac36929f296efc509d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9l-fNy-Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5a24d27a53450a52b510f38e/1512362624251/katrinaclokie_sml.JPG%3Fformat%3D1000w)
 
 ### 自我介绍！你是谁？你在哪里工作？
 

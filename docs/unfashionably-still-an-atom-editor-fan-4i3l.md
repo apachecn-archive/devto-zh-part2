@@ -8,7 +8,7 @@
 
 所有酷孩子似乎都在使用 Visual Studio 代码，而且他们喜欢它。微软的(大部分)开源代码编辑器肯定有很多让人喜欢的地方。它是轻量级的，可通过一系列非常好的扩展进行扩展，它是跨平台的，并且是免费的。
 
-[![](../Images/5e0c25bbbec152629188e6d3afc747d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bxaXeSwT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i0.wp.com/pauljacobson.me/wp-content/uploads/2018/11/test_py.gif%3Fw%3D1100%26ssl%3D1)
+[![](img/5e0c25bbbec152629188e6d3afc747d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bxaXeSwT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i0.wp.com/pauljacobson.me/wp-content/uploads/2018/11/test_py.gif%3Fw%3D1100%26ssl%3D1)
 
 我用了一段时间，很享受。作为一名程序员新手，当我在我的编码项目中四处闲逛时，它给了我很多反馈。这确实很有帮助。这可能是我长期使用 VS 代码的原因之一(也是为什么我仍然在笔记本电脑上安装它)。当然，我使用它的另一个原因是我跟踪的一些开发人员对它赞不绝口。
 
@@ -22,7 +22,7 @@
 
 这并不是说 Sublime Text 不值得 80 美元的许可费，它确实值得(我同意为高质量的软件付费)。尽管我花了几个星期的时间来配置它，让它很好地为我工作，但有一些我绝对喜欢的功能。我发现的一个小问题是，当我开始输入结束标签时，它会自动关闭 HTML 标签。这些小事情很棒，给我的一天带来了更多的快乐。
 
-[![](../Images/8d9f83a1f3584553e4d2e20086b5e42b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--56Ogd67V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i1.wp.com/pauljacobson.me/wp-content/uploads/2018/11/sublime_text_html_tag_close.gif%3Fw%3D1100%26ssl%3D1)
+[![](img/8d9f83a1f3584553e4d2e20086b5e42b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--56Ogd67V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i1.wp.com/pauljacobson.me/wp-content/uploads/2018/11/sublime_text_html_tag_close.gif%3Fw%3D1100%26ssl%3D1)
 
 与此同时，Atom 在每个版本中都有所改进。当然，它没有 VS 代码的所有提示和反馈，加载速度也慢了一点(尽管没有以前那么快)。实际上我不太介意。我坚持使用 Atom，因为它对我有用。
 

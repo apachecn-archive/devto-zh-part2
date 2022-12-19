@@ -115,7 +115,7 @@ SDLC 的测试阶段可以说是最重要的阶段之一。没有测试就不可
 
 ### 软件开发生命周期信息图
 
-[![Software Development Life Cycle infographic](../Images/e57bccf01d2057e9f498ee49ff7387b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--suqOEdks--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/the-software-development-lifecycle/phases-infographic.png)
+[![Software Development Life Cycle infographic](img/e57bccf01d2057e9f498ee49ff7387b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--suqOEdks--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/the-software-development-lifecycle/phases-infographic.png)
 
 ## 流行的 SDLC 型号
 
@@ -123,7 +123,7 @@ SDLC 中最著名的两种方法是*瀑布*和*敏捷*。下面是一个简短�
 
 ### 瀑布
 
-[![IMAGE2_WATERFALL](../Images/c2b284867c93336d1590cd78d0fb7ca0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HLhn3rVI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/the-software-development-lifecycle/Waterfall_model.jpg)
+[![IMAGE2_WATERFALL](img/c2b284867c93336d1590cd78d0fb7ca0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HLhn3rVI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/the-software-development-lifecycle/Waterfall_model.jpg)
 
 软件开发的瀑布方法遵循一个严格的、预先确定的路径通过一组阶段。这种方法是由传统工程学发展而来的。具有讽刺意味的是，被认为是瀑布方法起源的论文描述它有根本性的缺陷。今天被称为“瀑布”的方法是错误地从对这部原著的误解中衍生出来的。尽管如此，瀑布成为了一种非常普遍的，甚至是全世界大型项目的标准方法。
 
@@ -131,7 +131,7 @@ SDLC 中最著名的两种方法是*瀑布*和*敏捷*。下面是一个简短�
 
 ### 敏捷
 
-[![Agile-Manifesto](../Images/acc0fa05eda94af2a5e5b940794b96cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rqhH-5S3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/the-software-development-lifecycle/agile-manifesto.jpg)
+[![Agile-Manifesto](img/acc0fa05eda94af2a5e5b940794b96cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rqhH-5S3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/the-software-development-lifecycle/agile-manifesto.jpg)
 
 2001 年，一群软件开发人员起草并签署了敏捷软件开发宣言。阅读宣言，你可以清楚地看到瀑布(当时开发方法的事实上的标准)和敏捷(较新的方法)之间的对比。
 

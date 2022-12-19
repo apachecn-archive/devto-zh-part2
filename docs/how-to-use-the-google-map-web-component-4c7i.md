@@ -11,7 +11,7 @@
 Enter fullscreen mode Exit fullscreen mode
 
 结果:
-[![](../Images/c63b178652c2704ac657b02b7bee1630.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GouncZvU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jvn2sif5xi3v30n5617p.png) 
+[![](img/c63b178652c2704ac657b02b7bee1630.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GouncZvU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jvn2sif5xi3v30n5617p.png) 
 好得难以置信？这就是你的网络组件😉让我们看一些关于如何利用这个强大的 web 组件的例子。
 
 ## 在谷歌地图中显示标记和多边形

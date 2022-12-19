@@ -4,11 +4,11 @@
 
 你是 Vue.js 吗😍情人？我相信你也会喜欢🤪这个新的静态站点发生器💪🏻的 Vue.js + GraphQL = [Gridsome](https://gridsome.org) 。
 
-[![Image](../Images/33b3e6ba170bc69aee2ab6095c7aff4a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d5XgJsJ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/878bujtx44yni3oub1hf.gif)
+[![Image](img/33b3e6ba170bc69aee2ab6095c7aff4a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d5XgJsJ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/878bujtx44yni3oub1hf.gif)
 
 在今天的日期，这个项目只有 3 个月，它的发展非常快。
 
-[![Github stars](../Images/8b9689cdd6b2b43ea0e4606aa2fd87c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WgbrZn8I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/shkhodh35k7m7jvz0onk.png)
+[![Github stars](img/8b9689cdd6b2b43ea0e4606aa2fd87c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WgbrZn8I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/shkhodh35k7m7jvz0onk.png)
 
 **但是...什么是 Gridsome？**
 
@@ -16,7 +16,7 @@ Gridsome 是 Vue.js 生态系统中缺失的一块。Gatsby.js 为 React.js 做�
 
 使用 **Gridsome** ，您可以为所有连接的数据源获得一个**通用 GraphQL 层**。这就像是你的网站数据的单一来源，可以在任何页面或组件中使用。连接到任何 CMS 或 API，如 Google 电子表格、Airtable、Instagram Feed、本地 markdown 文件等。
 
-[![Features of gridsome](../Images/7dbb9b9c949a12818b22f7577a1c1f1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1wuJ3lSb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t3eqausptyql5upaaddf.png)
+[![Features of gridsome](img/7dbb9b9c949a12818b22f7577a1c1f1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1wuJ3lSb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t3eqausptyql5upaaddf.png)
 
 让我们看一些代码👨🏻‍💻。
 
@@ -54,7 +54,7 @@ GraphQL 层和所有数据都可以在本地 GraphQL 平台上访问。当一个
 
 不是另一个，实际上，是这个😅
 
-[![Google lighthouse](../Images/c86ff92844fec7ae80b97c5ad0af5355.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8PxUr6De--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.keycdn.com/blog/wp-content/uploads/2017/06/lighthouse-test-report.png)
+[![Google lighthouse](img/c86ff92844fec7ae80b97c5ad0af5355.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8PxUr6De--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.keycdn.com/blog/wp-content/uploads/2017/06/lighthouse-test-report.png)
 
 Gridsome 的目标是创建一个框架，让您能够构建优化的“开箱即用”的网站它遵循了谷歌的 PRPL 模式。使用 Gridsome 制作快速网站不需要成为性能专家。你的网站在 Google lighthouse 上开箱即用，几乎得到满分。以下是 Gridsome 负责的一些性能步骤:
 
@@ -73,7 +73,7 @@ Gridsome 的目标是创建一个框架，让您能够构建优化的“开箱�
 
 > 让我们承诺让网站开发过程对开发者来说更快更容易。
 
-[![Gridsome Footer](../Images/267e9829fa4eb406e8c5113efb90caff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8r-eq5ky--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/crl5la6m1qu5pjrb53sk.png)
+[![Gridsome Footer](img/267e9829fa4eb406e8c5113efb90caff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8r-eq5ky--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/crl5la6m1qu5pjrb53sk.png)
 
 # 链接*(来源&参考)*📰
 
@@ -86,4 +86,4 @@ Gridsome 的目标是创建一个框架，让您能够构建优化的“开箱�
 您同意一旦您阅读了这篇文章，您肯定会尝试使用 Gridsome 并喜欢这篇文章。
 
 觉得这篇文章有趣？考虑给我买杯咖啡。
-[![Buy Me A Coffee Button](../Images/8741c1bafaddaa2b9ee9d5b1c31c3e03.png)T3】](https://www.buymeacoffee.com/mittalyashu)
+[![Buy Me A Coffee Button](img/8741c1bafaddaa2b9ee9d5b1c31c3e03.png)T3】](https://www.buymeacoffee.com/mittalyashu)

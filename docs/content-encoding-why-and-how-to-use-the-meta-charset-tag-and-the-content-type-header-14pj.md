@@ -8,7 +8,7 @@
 
 <figure>
 
-[![Hiragana](../Images/9ff6edabec393758c3222a6e47d06a87.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--47eoumxD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/75z7ckyyklwc4618qpl4.png)
+[![Hiragana](img/9ff6edabec393758c3222a6e47d06a87.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--47eoumxD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/75z7ckyyklwc4618qpl4.png)
 
 <figcaption>Table showing the writing direction of hiraganas
 by Karine WIDMER ([CC-BY-SA-3.0](http://creativecommons.org/licenses/by-sa/3.0/) · [Source](https://commons.wikimedia.org/wiki/File:Table_hiragana.svg)</figcaption>
@@ -78,7 +78,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 为了确保通过页面元数据传输的信息，您可以使用[我们的时间轴/瀑布特性](https://www.dareboost.com/en/doc/analysis-report/timeline-waterfall)。展开主文档的详细值以查看响应 HTTP 头，包括 Content-Type 头，其中包含编码元数据。
 
-[![Content Type Header in an HTTP response](../Images/1d9aa50955ad19eed482a4c779d04a74.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rckhXfZQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m347mpxur8ruczgvl395.png)
+[![Content Type Header in an HTTP response](img/1d9aa50955ad19eed482a4c779d04a74.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rckhXfZQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m347mpxur8ruczgvl395.png)
 
 要更改此 HTTP 头，您可能需要服务器管理员的帮助，而这需要您的托管服务提供商或您组织中的负责人的帮助，因为 HTTP 头的配置对于正在使用的 web 服务器来说是非常特定的，您需要适当的管理权限才能修改这些服务器设置。
 

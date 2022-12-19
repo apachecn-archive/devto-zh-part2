@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/plainprogrammer/tests-should-not-be-optional-1ak>
 
-[![](../Images/6911267e93e5d437034558b85113b6d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fPlWN7M3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://james.thomps.onl/wp-content/uploads/2019/07/006d5-10mgkhw1_ulkzlbps07mq3q.jpeg)
+[![](img/6911267e93e5d437034558b85113b6d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fPlWN7M3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://james.thomps.onl/wp-content/uploads/2019/07/006d5-10mgkhw1_ulkzlbps07mq3q.jpeg)
 
 我认为，任何没有伴随自动化测试的代码都应该被认为是有内在缺陷的。当我们写代码时，我们头脑中有一些关于适用性的概念。测试是一种表达这些概念的方式，其他人可以运行和检查，而不必钻研我们的实际实现。测试提供了一种方式来交流我们写的代码，关于它做什么，而不仅仅是它如何做一些事情。虽然“代码做什么”和“代码如何做某事”这两个概念看起来几乎是一回事，但我相信区分它们是有价值的，这种区别就是为什么我认为没有测试的代码应该被认为是有内在缺陷的。
 

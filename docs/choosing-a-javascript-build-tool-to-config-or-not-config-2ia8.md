@@ -30,7 +30,7 @@
 
 [Browserify](http://browserify.org/) 关注入门的简单性，它是 JavaScript 开发中模块捆绑的一个很好的介绍。Browserify 最初是作为一种方式出现的，它允许前端开发人员在浏览器中使用[CommonJS](http://requirejs.org/docs/commonjs.html)(require statements)，就像在服务器中呈现[节点](https://nodejs.org/en/)应用程序一样。以前的 web 开发在页面上使用多个脚本标签来构建现代 web 应用程序。该工具将所有 JavaScript 文件浏览到一个连接(组合和合并)的文件中，该文件可以作为单个脚本标签轻松包含在页面中。
 
-[![browserify-logo](../Images/3ebb8c2f0be02c4aecb18f4181571885.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kaYg6UV9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/browserify/browserify/HEAD/assets/logo.png)
+[![browserify-logo](img/3ebb8c2f0be02c4aecb18f4181571885.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kaYg6UV9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/browserify/browserify/HEAD/assets/logo.png)
 
 使用 Browserify 从安装 CLI 开始。我建议从命令行使用 npm。
 
@@ -70,7 +70,7 @@ Browserify 实现是功能完整的，并且集中于开箱即用的 JavaScript 
 
 Webpack 是一个构建工具，基于 4 个主要概念:入口、输出、插件和加载器。一旦你理解了[围绕这些概念的想法](https://www.netlify.com/blog/2017/01/03/4-key-concepts-of-webpack/)，你就可以让 Webpack 在一个项目中运行起来。Webpack took 通过一个[插件社区](https://webpack.js.org/plugins/)在某些方面与 Browserify 有相似的增强功能。然而，Webpack 提供了更多开箱即用的功能，并计划继续添加更多功能，并不断地[重新思考项目的设计](https://medium.com/webpack/webpack-4-changes-part-1-week-24-25-fd4d77674e55)。
 
-[![webpack-logo](../Images/45a3004d82866391ee3ea4a075301468.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hODTV-JD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/webpack/media/blob/master/logo/logo-on-white-bg.png%3Fraw%3Dtrue)
+[![webpack-logo](img/45a3004d82866391ee3ea4a075301468.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hODTV-JD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/webpack/media/blob/master/logo/logo-on-white-bg.png%3Fraw%3Dtrue)
 
 我之前写了一篇关于从零开始使用[web pack](https://www.netlify.com/blog/2017/11/30/starting-with-webpack-from-scratch/)的指南，重点是利用 Webpack CLI 来构建 React 应用程序。Webpack 要求您创建单独的配置文件来支持您的 Webpack 构建工作。这个文件只不过是一个 JavaScript 对象，Webpack 使用它根据 config 对象中的键和值在构建过程中启用和禁用特性。
 
@@ -157,7 +157,7 @@ Webpack 不仅关注模块捆绑，它还将代码拆分作为一种内置功能
 
 有许多社区构建的 Webpack 配置样板文件，包括一个名为 [Webpackbin](https://www.webpackbin.com/) 的非常简洁的工具。Webpackbin 是一个沙箱，用于构建和配置 Webpack 示例。您可以从这里生成链接，这在研究 Webpack 配置时很好，因为作者倾向于在沙盒中发布他们的配置，并提供 URL 来共享。
 
-[![https://www.webpackbin.com/bins/-KeVMcQWGocAn5VJL6XL](../Images/b1366d4927002ac25ec0c01f9e20eda6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0Dy8-dsD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_6EABB039D157C13FE0965A1755676EBA7A2B906D3263E4D65C1B144D2FFE7B1B_1515177774353_Screenshot%2B2018-01-05%2B10.42.33.png)
+[![https://www.webpackbin.com/bins/-KeVMcQWGocAn5VJL6XL](img/b1366d4927002ac25ec0c01f9e20eda6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0Dy8-dsD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_6EABB039D157C13FE0965A1755676EBA7A2B906D3263E4D65C1B144D2FFE7B1B_1515177774353_Screenshot%2B2018-01-05%2B10.42.33.png)
 
 Webpack 正朝着包含电池的方向努力，但有些部分是单独出售的构建工具。Webpack 几乎可以处理你现在在使用 web 应用程序时所关心的每一个问题，但是你也可能需要大量阅读手册([文档](https://webpack.js.org/concepts/))来使它的构建和运行符合你的喜好。
 
@@ -169,7 +169,7 @@ Webpack 正朝着包含电池的方向努力，但有些部分是单独出售的
 
 Rollup 是 JavaScript 的一个模块捆绑器，它将小段代码编译成更大更复杂的代码。它使用 JavaScript 的 ES6 模块系统的新版本，而不是以前的特殊解决方案，如 CommonJS 和 AMD，来执行项目的汇总(捆绑)。ES6 模块允许您自由无缝地组合您最喜欢的库中最有用的单个函数。
 
-[![rollup js logo](../Images/449eae97f8c7fbef9f12c07c1f783370.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6PCDWgD---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rollupjs.org/images/twitter-card.jpg)
+[![rollup js logo](img/449eae97f8c7fbef9f12c07c1f783370.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6PCDWgD---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rollupjs.oimg/twitter-card.jpg)
 
 可以通过命令行开始使用汇总。只需指向 index.js 并为捆绑输出提供一个名称。
 
@@ -200,7 +200,7 @@ Rollup 越来越受软件包和开放源码维护者欢迎，因为它具有与 
 
 截至 2017 年春季，所有主要浏览器都支持 ES6 模块，Rollup 现在也希望获得新的竞争优势。Rollup 提供了对树抖动的本地支持，能够从您的项目包中移除未使用的代码，您可以在本例中从 [rollup repl](https://rollupjs.org/repl) 中看到这一点。这对于寻求页面优化帮助的项目来说很有价值。
 
-[![rollup site](../Images/0ce68e450c7dfdcf573263c0466aea8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B77kBAOc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/9gFG4eu.png)
+[![rollup site](img/0ce68e450c7dfdcf573263c0466aea8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B77kBAOc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/9gFG4eu.png)
 
 虽然摇树看起来是一个小功能，但考虑一下像 [Momentjs](https://momentjs.com/) 或 [lodash](https://lodash.com/) 这样的大项目。树抖动提供了从您的包中排除库的所有部分的能力，并且只包括您正在使用的那部分库。
 
@@ -214,7 +214,7 @@ Rollup 越来越受软件包和开放源码维护者欢迎，因为它具有与 
 
 [Gulp](https://gulpjs.com/) 是一个工具，它将脚本作为一个特性引入到你的工作流想法中。在列表中的所有工具中，Gulp 是一个我不会用于模块捆绑的工具，而是作为一个增强我的构建过程的工具。Gulp 是那些希望将脚本放入 JavaScript 的开发人员的理想选择。Webpack 和 Browserify 中缺少的许多功能可以通过 Gulp 命令将它们链接在一起而得到增强。Gulp 命令既可以用普通的 JavaScript 手写，也可以使用 Gulp 庞大的插件社区。
 
-[![gulp logo](../Images/561d1bbe18d076d17b0017cb005aa2ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GHaA86lH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://stefanimhoff.de/assets/images/artikel/gulp-tutorial-1-097f3c0262.png)
+[![gulp logo](img/561d1bbe18d076d17b0017cb005aa2ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GHaA86lH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://stefanimhoff.de/asseimg/artikel/gulp-tutorial-1-097f3c0262.png)
 
 您可以将多个命令链接在一起，使用 Gulp 来编写构建过程的脚本。一些常见的事情可能是发送图片到 [Cloudinary](https://cloudinary.com/) 或者编译 JSON 文件来证明你用 [Algolia](https://www.algolia.com/) 的搜索。我真的相信这就是 Gulp 的闪光点，它有许多社区构建的插件来处理简单到复杂的脚本，比如在构建过程中处理 CVS 生成或图像操作。
 
@@ -272,7 +272,7 @@ npm 项目的[文档](https://docs.npmjs.com/)以及关于如何使用 [npm 作�
 
 [package](https://parceljs.org/)于 2017 年底问世，并获得了将所有配置疲劳的 JavaScript 点包装在一个小小的包中的特权。Parcel 消除了构建工具的复杂性，并且使用 JavaScript 空间中最流行的插件，包括 babel transforms。
 
-[![parcel logo](../Images/69ccc585bd1e51bc15f55e9dd8c6f706.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8kRmikKM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A5cX4trefu1K5C51uo1VShg.png)
+[![parcel logo](img/69ccc585bd1e51bc15f55e9dd8c6f706.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8kRmikKM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A5cX4trefu1K5C51uo1VShg.png)
 
 类似于 Browserify 也没有配置文件，但是也没有特定于包的插件。Parcel 依靠现有的 JavaScript 生态系统项目如 Babel 来完成这项工作。包裹只是指挥者。你也可以在你的 package.json 或者。babelrc 和 Parcel 会知道将它包含在构建过程中。不需要额外的配置，这是一个非常有趣的特性。也没有必要再学习一个库来维护你的项目(也就是可怕的 JavaScript 疲劳)。
 

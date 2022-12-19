@@ -10,9 +10,9 @@
 
 满足`space-evenly`值。这个“新”值类似于`space-around`,但是在边缘提供相等的而不是一半大小的空间。
 
- **[![space-around](../Images/6b0dff99d031ba6c003d19ec462074b7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kT1WRwRd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/akc15phjho8micpa5f1y.PNG)**
+ **[![space-around](img/6b0dff99d031ba6c003d19ec462074b7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kT1WRwRd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/akc15phjho8micpa5f1y.PNG)**
 
- ****[![space-evenly](../Images/3039e44158b080f9ca6672bc278a5326.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ScPCaYNK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mvur94nr4w0h94odk5q0.PNG)**
+ ****[![space-evenly](img/3039e44158b080f9ca6672bc278a5326.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ScPCaYNK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mvur94nr4w0h94odk5q0.PNG)**
 
  **### 微软 Edge
 

@@ -63,7 +63,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在[打开 app http://localhost:3000](http://localhost:3000)。会有一个“登录 Spotify”的链接。单击链接并遵循 OAuth 流程。所有这些都是由 [RSpotify gem](https://github.com/guilhermesad/rspotify) 和 [omniauth](https://github.com/omniauth/omniauth) 处理的，你可以在`config/initializers/rspotify.rb`中查看完成这些工作所需的配置。
 
-[![](../Images/931f10c15a285f2edf8f0e2a20a12ec7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---ulZ09x4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/-cLIvjXZ1zUy1dnYRd6rWFkXIhh0AO33g1YJCEHZAb_Q6x.width-500.png)
+[![](img/931f10c15a285f2edf8f0e2a20a12ec7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---ulZ09x4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/com.twilio.prod.twilio-doimg/-cLIvjXZ1zUy1dnYRd6rWFkXIhh0AO33g1YJCEHZAb_Q6x.width-500.png)
 
 一旦您被引导回应用程序，您将在您面前的页面上看到您的 Spotify 用户 ID、访问令牌、刷新令牌和播放列表 ID。将这些复制到`config/env.yml`中，重启应用程序，再次打开 [http://localhost:3000](http://localhost:3000) 。您会发现脚本刚刚创建的播放列表是空的，并嵌入在页面中。现在是时候在 WhatsApp、Twilio 和 Spotify 之间建立整合了。
 
@@ -160,7 +160,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 获取 ngrok 生成的 URL，添加`/twilio/messages`路径，并将其作为 [WhatsApp 频道](https://www.twilio.com/console/sms/whatsapp/sandbox)的“有消息进来”时的 URL。
 
-[![](../Images/8fe23402ae5798cda39728b0873e4265.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lGhTdgqI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/mOcd_C7CBBLk1HcW4JB11qrpaKD6I0_o2vJlWe4cZDtoYi.width-500.png)
+[![](img/8fe23402ae5798cda39728b0873e4265.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lGhTdgqI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/com.twilio.prod.twilio-doimg/mOcd_C7CBBLk1HcW4JB11qrpaKD6I0_o2vJlWe4cZDtoYi.width-500.png)
 
 向 WhatsApp 沙盒号码发送一条消息，你会得到一个回复，说“你好，世界！”。现在是时候连接 Spotify API 了。
 
@@ -256,7 +256,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 重新启动应用程序并发送信息，搜索您想听的曲目。您应该会收到一条列出您想要的曲目的消息。如果您获得不同的歌曲，请尝试添加艺术家或专辑以缩小搜索范围。
 
-[![](../Images/41514bd0be989a856affab9ce481cbbb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ycyWCE3_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/bA3Sdd8dpQp03o8M8PfVIFv5Hm-L19JSBaeuItZpblztY0.width-500.png)
+[![](img/41514bd0be989a856affab9ce481cbbb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ycyWCE3_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/com.twilio.prod.twilio-doimg/bA3Sdd8dpQp03o8M8PfVIFv5Hm-L19JSBaeuItZpblztY0.width-500.png)
 
 如果我们找不到任何歌曲，我们确实需要处理这个案例。
 

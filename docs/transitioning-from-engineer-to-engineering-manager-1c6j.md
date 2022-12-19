@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/plutov/transitioning-from-engineer-to-engineering-manager-1c6j>
 
-[![em](../Images/54697731ce308b2f65ea780de0521f0b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zkN70pr9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://pliutau.com/em.jpg)
+[![em](img/54697731ce308b2f65ea780de0521f0b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zkN70pr9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://pliutau.com/em.jpg)
 
 几个月前，我从一个团队领导的职位调到了一个小型团队，在 Wizeline Vietnam 担任工程经理。我发现这种角色转变伴随着思维方式的转变。当我还是个人贡献者的时候，一些重要的事情(写好代码，应用最佳工程实践)变得不那么重要了。另一方面，新事物变得更加重要，例如团队健康、团队成功和团队职业发展。
 
@@ -34,7 +34,7 @@
 
 我开始尝试 GSD(完成任务)过程，我发现它已经比我作为个人贡献者时使用的特别方法更适合我。
 
-[![gsd](../Images/31e89f7435617e187efecbc20d4d5dac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UuEW0r0W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://pliutau.com/gsd.png)
+[![gsd](img/31e89f7435617e187efecbc20d4d5dac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UuEW0r0W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://pliutau.com/gsd.png)
 
 ### 从自己做起
 

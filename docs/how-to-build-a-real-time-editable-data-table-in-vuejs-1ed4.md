@@ -12,7 +12,7 @@
 
 我将向您展示如何使用 [Hamoni Sync](https://www.hamoni.tech/) 作为实时状态同步服务，在 Vue.js 中构建一个实时可编辑的数据表。下图显示了我们将构建的内容:
 
-[![realtime-datatable-vue.gif](../Images/86979ea42b6a77187bd86db99a153b8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X7RFVHmF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/1AiyzonTS2Sb5bOtfvLv)
+[![realtime-datatable-vue.gif](img/86979ea42b6a77187bd86db99a153b8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X7RFVHmF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/1AiyzonTS2Sb5bOtfvLv)
 
 要继续下去，你需要有一些基本的 Vue 知识。如果你对 Vue 一无所知，你可以阅读我的[上一篇文章](https://dev.to/pmbanugo/from-vanillajs-to-vuejs-a-guide-to-vue-essentials-5gii)来了解 Vue.js。你还需要以下工具:
 
@@ -154,7 +154,7 @@ Enter fullscreen mode Exit fullscreen mode
 2.  在文本字段中输入您首选的应用程序名称，然后单击创建按钮。这将创建应用程序，并将其显示在应用程序列表部分。
 3.  展开**账户 ID** 卡获取您的账户 ID
 
-[![Hamoni dashboard](../Images/4e41967431b35548bc44f1dd5b14ddc5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yUCiqUkM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://docs.hamoni.tech/assets/dashboard.png)
+[![Hamoni dashboard](img/4e41967431b35548bc44f1dd5b14ddc5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yUCiqUkM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://docs.hamoni.tech/assets/dashboard.png)
 
 在脚本引用第 **139 行**的 Vuetify 下面，添加一个对哈莫尼同步
 的引用
@@ -302,7 +302,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是实现我们的实时可编辑数据表目标所需的所有代码。在浏览器中打开`index.html`文件，应用程序就可以使用了！
 
-[![realtime-datatable-vue.gif](../Images/86979ea42b6a77187bd86db99a153b8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X7RFVHmF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/1AiyzonTS2Sb5bOtfvLv)
+[![realtime-datatable-vue.gif](img/86979ea42b6a77187bd86db99a153b8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X7RFVHmF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/1AiyzonTS2Sb5bOtfvLv)
 
 # 就这么定了！
 

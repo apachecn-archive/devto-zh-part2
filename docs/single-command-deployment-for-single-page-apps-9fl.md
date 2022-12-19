@@ -6,7 +6,7 @@
 
 开发一个单页面的应用程序是很难的。从一开始，您就需要做出许多决定——比如选择一个框架、设置文件夹结构、配置 linter 等等。一般来说，由于围绕你最喜欢的框架和 web 开发的工具生态系统，其中一些任务变得更加容易。例如，Create React App、Angular CLI 和 Create Choo App 等工具将帮助您在几秒钟内设置好您喜欢的框架。
 
-[![Photo by [Jonatan Pie](https://unsplash.com/photos/3l3RwQdHRHg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash](../Images/f03676be35547f3563a69a1787752372.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KWjZ_cuf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y8oyzi5ps873zrus7k7e.jpeg)
+[![Photo by [Jonatan Pie](https://unsplash.com/photos/3l3RwQdHRHg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash](img/f03676be35547f3563a69a1787752372.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KWjZ_cuf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y8oyzi5ps873zrus7k7e.jpeg)
 
 通常，当您开始新项目时，您甚至没有足够的时间来考虑部署。在某些时候，你需要公开你的应用程序，因为你想把它展示给你的客户、朋友，或者在你找第一份工作的时候把它添加到你的文件夹中。
 
@@ -24,7 +24,7 @@ Scotty 背后的主要思想是用一个命令将你的静态网站或单页应�
 
 对于单页应用程序，它还将配置重定向，因此 pushState 可以开箱即用。
 
-[![Beam me up, Scotty](../Images/2129ba1709e08a30e8d7c30027e40381.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bqMXBIGL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dik92plfaxjq6sq9qqtc.gif)
+[![Beam me up, Scotty](img/2129ba1709e08a30e8d7c30027e40381.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bqMXBIGL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dik92plfaxjq6sq9qqtc.gif)
 
 让我们通过一个简单的 React 应用程序来看看它的运行情况。
 
@@ -147,7 +147,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，如果你使用`npm start`启动你的应用程序，它应该可以工作，看起来与这张截图相似:
 
-[![Basic React app with React Router on localhost](../Images/c4b0dd4f98717d401b7b6772753deb25.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4fjVP07N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t8r63elwffx720ftl5o4.png)
+[![Basic React app with React Router on localhost](img/c4b0dd4f98717d401b7b6772753deb25.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4fjVP07N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t8r63elwffx720ftl5o4.png)
 
 是时候使用 npm 运行构建节点脚本来构建您的应用程序了。这将在项目的根目录下创建一个名为“build”的文件夹。
 
@@ -181,7 +181,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 从您的终端运行此命令将部署应用程序，并为您提供两个 URL，如下所示:
 
-[![](../Images/0fbd3e83ac65682ee5a6837b5e802458.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hmmiw-q0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rploeywc2g0azebji4nv.gif)
+[![](img/0fbd3e83ac65682ee5a6837b5e802458.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hmmiw-q0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rploeywc2g0azebji4nv.gif)
 
 第一个，也添加到您的剪贴板，是一个到 AWS S3 的 HTTP 链接。第二个是同样支持 HTTPS 的 CloudFront URL。
 
@@ -197,7 +197,7 @@ Scotty 将在 CloudFront CDN 上设置您的项目，这意味着它将被缓存
 
 斯科特背后没有魔法。它在幕后使用了 Node.js 的 AWS SDK。首先，它检查你是否已经有了一个默认区域。不幸的是，AWS 没有通过 AWS SDK 给我们一个默认区域。Scotty 有一个小型的 LevelDB 数据库来存储这些信息。如果该区域不存在并且没有提供，Scotty 会要求您选择它。
 
-[![](../Images/168ad3759e3e5fa5fee8f3a72f80b450.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cdskwgnv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fwss1zlpmfkiyc8oikcs.png)
+[![](img/168ad3759e3e5fa5fee8f3a72f80b450.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cdskwgnv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fwss1zlpmfkiyc8oikcs.png)
 
 下一步是创建一个 bucket。如果没有提供 bucket name，Scotty 将使用当前文件夹的名称。请记住，bucket 名称对于所有用户都是全局的，因此，您需要为您的 bucket 取一个唯一的名称。
 

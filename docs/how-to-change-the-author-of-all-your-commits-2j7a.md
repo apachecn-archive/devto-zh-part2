@@ -48,6 +48,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 感谢 [Rob](https://dev.to/hoelzro) 在评论中分享了这个选择！
 
-[![hoelzro profile image](../Images/f4ae6137251e6d7a910f7d69ba5bf4a4.png) ](/hoelzro) [ Rob Hoelz ](/hoelzro) • [<time datetime="2018-09-28T20:38:46Z"> Sep 28 '18 </time>](https://dev.to/hoelzro/comment/5obp) 
+[![hoelzro profile image](img/f4ae6137251e6d7a910f7d69ba5bf4a4.png) ](/hoelzro) [ Rob Hoelz ](/hoelzro) • [<time datetime="2018-09-28T20:38:46Z"> Sep 28 '18 </time>](https://dev.to/hoelzro/comment/5obp) 
 
 很棒的提示！或者，如果你不喜欢用`git-filter-branch`重写一个项目的所有历史，Git 有一个名为 [mailmaps](https://git-scm.com/docs/git-shortlog#_mapping_authors) 的特性，允许你规范化用户名和电子邮件地址。

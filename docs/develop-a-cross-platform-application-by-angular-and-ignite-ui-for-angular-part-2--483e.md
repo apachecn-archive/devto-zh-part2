@@ -175,7 +175,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 4.把它们都存起来，检查一下效果如何。
 
-[![Capture.PNG](../Images/451ff1d6fbf595ea7352e2fa74ff67fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7NkWV6s1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/a745d433-a000-5d88-237d-4adb0fcf00b1.png)
+[![Capture.PNG](img/451ff1d6fbf595ea7352e2fa74ff67fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7NkWV6s1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/a745d433-a000-5d88-237d-4adb0fcf00b1.png)
 
 5.如您所见，menu 按预期工作，但它隐藏了菜单栏。我更喜欢
 显示在菜单栏下面，所以添加额外的 css 元素。
@@ -193,7 +193,7 @@ igx-nav-drawer >>> .ig-nav-drawer {
 Enter fullscreen mode Exit fullscreen mode
 
 6.现在它如我所愿。
-[![Capture.PNG](../Images/24db31c8412ac6365a7be4535cf3d67f.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--YCdMNA6I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/337d6dd0-cbb1-6260-e32a-0614f58103dc.png)
+[![Capture.PNG](img/24db31c8412ac6365a7be4535cf3d67f.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--YCdMNA6I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/337d6dd0-cbb1-6260-e32a-0614f58103dc.png)
 
 ## 将列表组件转换为角度模块
 
@@ -201,7 +201,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 1.将新文件夹和详细信息文件夹移到列表文件夹下，因为它们是列表模块的一部分。这并不是必需的，但这样维护起来很容易。它类似于 app.module.ts，但也包含路由信息。通过这种传送方式，新页面和详细页面现在可以作为列表/新页面和列表/详细页面进行访问。
 
-[![Capture.PNG](../Images/db283d46e688a08ebedc9b47f9899fa7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nvVNV9L7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/448811f8-9c9f-cc25-aa9b-a8324c53825d.png)
+[![Capture.PNG](img/db283d46e688a08ebedc9b47f9899fa7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nvVNV9L7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/448811f8-9c9f-cc25-aa9b-a8324c53825d.png)
 
 2.在 src/app/list 下添加 list.module.ts，添加组件信息。这使得列表模块。
 
@@ -691,7 +691,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 5.全部保存，进入[http://localhost:4200/grid](http://localhost:4200/grid)。所有字段都会自动添加。不错:)
 
-[![Capture.PNG](../Images/c0b6a9134ca71b7b9e4fbbefc42a6fdc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YukNLCa---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/024fbc7b-078f-bf76-eca8-ea197d899449.png)
+[![Capture.PNG](img/c0b6a9134ca71b7b9e4fbbefc42a6fdc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YukNLCa---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/024fbc7b-078f-bf76-eca8-ea197d899449.png)
 
 6.嗯，自动生成功能很好，但我想控制显示哪些列。接下来，添加每个单独的列，并通过使用其他控件(如 Avatar)使用模板来显示值。首先添加必要的模块。
 
@@ -796,7 +796,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 8.保存它们并检查网格是否按预期显示数据。
 
-[![Capture.PNG](../Images/dfd0ae874a9c1f521549b88157d51df0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IdvgrV6R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/892d9578-8b43-0879-5993-0428068311f7.png)
+[![Capture.PNG](img/dfd0ae874a9c1f521549b88157d51df0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IdvgrV6R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/892d9578-8b43-0879-5993-0428068311f7.png)
 
 9.如果您单击等级标题，它会更改顺序，因为它被指定为可排序的。如果您双击每一行的名称，您可以编辑它，因为它被指定为可编辑的，尽管我没有实现任何方法来接受更改。
 
@@ -946,18 +946,18 @@ export class UserService {
     this.users = new Array<User>();
     for (let i = 1; i <= 22; i++) {
       let birthdate = new Date(2018, 0, i);
-      let backgrounImage = "http://www.infragistics.com/angular-demos/assets/images/card/media/ny.jpg";
+      let backgrounImage = "http://www.infragistics.com/angular-demos/asseimg/card/media/ny.jpg";
       if( i % 4 == 1){
-        backgrounImage = "http://www.infragistics.com/angular-demos/assets/images/card/media/yosemite.jpg";
+        backgrounImage = "http://www.infragistics.com/angular-demos/asseimg/card/media/yosemite.jpg";
       }
       else if (i%4 == 2){
-        backgrounImage = "http://www.infragistics.com/angular-demos/assets/images/card/media/monuments.jpg";
+        backgrounImage = "http://www.infragistics.com/angular-demos/asseimg/card/media/monuments.jpg";
       }
       else if (i%4 == 3){
-        backgrounImage = "http://www.infragistics.com/angular-demos/assets/images/card/media/the_red_ice_forest.jpg";
+        backgrounImage = "http://www.infragistics.com/angular-demos/asseimg/card/media/the_red_ice_forest.jpg";
       }
       this.users.push(new User(
-        `http://www.infragistics.com/angular-demos/assets/images/avatar/${i}.jpg`,
+        `http://www.infragistics.com/angular-demos/asseimg/avatar/${i}.jpg`,
         "User: " + i,
         i,
         birthdate,
@@ -1129,7 +1129,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 7.全部保存后进入[http://localhost:4200/Card](http://localhost:4200/card)，或者使用菜单进入卡片页面。
 
-[![Capture.PNG](../Images/b510db5979f8164ac44fc8ba850b1cea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DV-ggjAk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/d29287ce-e9ea-cb12-a412-eb0948fd4adf.png)
+[![Capture.PNG](img/b510db5979f8164ac44fc8ba850b1cea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DV-ggjAk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/d29287ce-e9ea-cb12-a412-eb0948fd4adf.png)
 
 # 通过移动设备查看应用
 

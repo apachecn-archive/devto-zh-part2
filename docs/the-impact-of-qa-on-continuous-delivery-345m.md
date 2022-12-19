@@ -12,7 +12,7 @@
 
 根据我的经验，一个指定的角色执行 QA，即 QA 工程师。这个人检查开发人员是否编写了他们想要的代码。QA 工程师验证开发人员的努力符合设计和产品管理的期望。下图显示了新功能的简化交付流程，以及 QA 的适用范围:
 
-[![Delivery Lifecycle](../Images/5a11e593de4741f4e7e8403e542520a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N-DqNPyU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gnchwak9z5v2n3l2v36w.png)
+[![Delivery Lifecycle](img/5a11e593de4741f4e7e8403e542520a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N-DqNPyU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gnchwak9z5v2n3l2v36w.png)
 
 如上所述，工程的目标是最大化吞吐量和稳定性。我们所说的最大化稳定性是什么意思？我们可以用“稳定”来代替“预期行为”。我们希望最大化我们产品的预期行为。这种预期行为可以涵盖很广的范围。一方面，稳定性是确保运营需求。例如，稳定性意味着您的产品在高流量的情况下可以快速可靠地扩展。另一方面，稳定性是确保 UI 请求。例如，稳定性可能意味着蓝色按钮具有设计意图的颜色和版式。
 
@@ -75,7 +75,7 @@ QA 工程师会有财务成本。将这一成本与糟糕的构建投入生产�
 
 我们不需要对每个变更都进行验证。有些情况下 QA 更有价值:
 
-[![QA value scale](../Images/4d525f6608bdbebc7ae68e1e0b939a2e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FvsEEbCz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7bcor2fy4za3ybf6o7v4.png)
+[![QA value scale](img/4d525f6608bdbebc7ae68e1e0b939a2e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FvsEEbCz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7bcor2fy4za3ybf6o7v4.png)
 
 此图显示了随着任务重要性和部署复杂性的增加而出现的风险象限。没有 QA 的交付有一个绿色的低风险象限。有黄色警告区域，您应该谨慎使用。最后，红色象限显示了受益于 QA 的高风险、高价值的工作。
 

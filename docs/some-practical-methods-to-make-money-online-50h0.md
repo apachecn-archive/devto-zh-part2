@@ -6,7 +6,7 @@
 
 大多数人都想享受奢侈的生活，在当代，多种选择也是可行的，所以为了享受舒适的生活，人们寻求帮助他们轻松赚钱的方法。
 
-[![](../Images/26300ac154cf91df26cf36d135ebc2eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nPD9Ig_s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/0%2AUXZ4vHH0H1ROGnJ8.jpg)
+[![](img/26300ac154cf91df26cf36d135ebc2eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nPD9Ig_s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/0%2AUXZ4vHH0H1ROGnJ8.jpg)
 
 通过这个博客，我们将讨论一些帮助我们在网上轻松赚钱的常用方法
 

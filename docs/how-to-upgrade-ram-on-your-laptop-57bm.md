@@ -28,21 +28,21 @@
 
 我开始从我的笔记本电脑上断开我的充电器。接下来，我把笔记本电脑倒过来，从笔记本电脑中取出电池，然后拧开固定背板的螺丝。
 
-[![](../Images/d8359ad69280cda13200cc644d01f2e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rh0so2X6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b43aqewicbihl86av7fp.jpg)
+[![](img/d8359ad69280cda13200cc644d01f2e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rh0so2X6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b43aqewicbihl86av7fp.jpg)
 
 这是我将插入新内存的地方(见下图)。有两个插槽，其中一个已经被我的笔记本电脑自带的内存占用了。我把我的笔记本电脑转到一边(逆时针 90 度)，这样我就可以看到我必须在哪里插入内存更好。
 
-[![](../Images/c09fc1735288be516f797d095dbeec60.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FnMWrHRq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/juwkklm4qc5rmtdu48q8.jpg)
+[![](img/c09fc1735288be516f797d095dbeec60.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FnMWrHRq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/juwkklm4qc5rmtdu48q8.jpg)
 
 我以 45 度角将 RAM 卡滑入。这是从侧面看的样子。这有点复杂，所以请慢慢来。剩下要做的就是把它按下去，直到你听到咔嗒一声。这部分有点吓人，因为我担心如果我太用力，它会断。推了几下后，我就去拿了，令人惊讶的是，它没有断！
 
 这是最难的部分！这比我想象的要容易。我拧上背板，把电池放回原处。我插上充电器，启动了笔记本电脑。关键时刻到了。
 
-[![](../Images/b301a2719ee768d42c7d69e85ffce52f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rf8Fes2E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w0b6zhj5lk5wnlc61gyi.jpg)
+[![](img/b301a2719ee768d42c7d69e85ffce52f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rf8Fes2E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w0b6zhj5lk5wnlc61gyi.jpg)
 
 为了检查新的 RAM 是否已经安装，我打开任务管理器，点击内存——瞧！如您所见，内存已更改为 8GB，这意味着升级 RAM 是成功的。
 
-[![](../Images/a9bdf0ad4ba507d7b7b9c1aa28e89aa1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c7GYNfkK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gsogbb2outfei72z3yo8.jpg)
+[![](img/a9bdf0ad4ba507d7b7b9c1aa28e89aa1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c7GYNfkK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gsogbb2outfei72z3yo8.jpg)
 
 ## 一个月更新
 

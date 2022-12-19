@@ -28,7 +28,7 @@ Twitter 就是一种筹款。 而且对于自己来说，那个砂金比短文�
 
 体系结构就是这样。
 
-[![](../Images/d9a6ba10bd1623690dd6a520a1a0af02.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WoOiHl_h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://steemitimages.com/DQmTW9vy1qmCCAVm8dJaU1TvT2KiY8AADYifqoAnHMsbjAJ/Twlclw.png)
+[![](img/d9a6ba10bd1623690dd6a520a1a0af02.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WoOiHl_h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://steemitimages.com/DQmTW9vy1qmCCAVm8dJaU1TvT2KiY8AADYifqoAnHMsbjAJ/Twlclw.png)
 
 重点是
 
@@ -167,14 +167,14 @@ Enter fullscreen mode Exit fullscreen mode
 
 那么，因为使用了 AWS 的服务，所以很在意一个月的价格。
 
-[![](../Images/5005596a200998247949e1b974650d9c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sFCQgioV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://steemitimages.com/DQmSXnAv7YJWA3LRmGdGWUEScEkV7k8x7wYrKKXYFctYLE5/billing.PNG)
+[![](img/5005596a200998247949e1b974650d9c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sFCQgioV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://steemitimages.com/DQmSXnAv7YJWA3LRmGdGWUEScEkV7k8x7wYrKKXYFctYLE5/billing.PNG)
 
 就是这样的感觉。 在 EC2 中不能这样做。 Dynamodb 可以放在免费框的范围内。
 不设定 TTL 的话会爆死，Twitter 的粉丝有 1 万人之类的人不知道。
 
 ## 试着用 Feedly 显示
 
-[![](../Images/46e75a7b1c66c2507caf31f6644a7895.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dV-N0Q5X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://steemitimages.com/0x0/https://steemitimages.com/DQmWrWcBFo8FjvQubzbkexQRvGuBeDzETjAdSqdQavWiRsd/feedly.PNG)
+[![](img/46e75a7b1c66c2507caf31f6644a7895.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dV-N0Q5X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://steemitimages.com/0x0/https://steemitimages.com/DQmWrWcBFo8FjvQubzbkexQRvGuBeDzETjAdSqdQavWiRsd/feedly.PNG)
 
 实际运用起来很棒，很好。
 Feedly 会随意优先考虑似乎是话题的 URL，所以即使无限地插入 URL，也会从应该看的东西开始显示。

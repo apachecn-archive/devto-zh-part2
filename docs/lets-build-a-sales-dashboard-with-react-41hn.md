@@ -10,7 +10,7 @@
 
 在本文中，我们将为一个虚构的公司构建一个销售仪表板。我们将使用 Github 上现有的用 KendoReact 构建的仪表板:[kendo-react-sales-dashboard](https://github.com/telerik/kendo-react-sales-dashboard)。我的目标是向您展示如何从头开始构建一个类似的仪表板。
 
-[![KendoReact Dashboard](../Images/94cc04b65a076e2c3f82f36de84947ed.png "KendoReact Dashboard")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e9QqPY_L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/4R9iyFL.png)
+[![KendoReact Dashboard](img/94cc04b65a076e2c3f82f36de84947ed.png "KendoReact Dashboard")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e9QqPY_L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/4R9iyFL.png)
 
 我们的销售仪表板将按月显示乡村商店每个季度最畅销的产品。我将在构建组件时介绍每个组件的数据。
 
@@ -43,7 +43,7 @@ $ yarn start
 
 启动 Create React App 后，您可以在浏览器中查看我们的应用程序:
 
-[![CRA View](../Images/c0f064cb4fbbb5c8a3e7a87f821d64b6.png "CRA View")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0yAWITN4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/A7gMYJS8ZIjHQf_2nYlS282sEw6Dktny0Yg9ybFQlROVSvUKmEJQVuB_pXdjoHNweue3rfHSoZF8bw)
+[![CRA View](img/c0f064cb4fbbb5c8a3e7a87f821d64b6.png "CRA View")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0yAWITN4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/A7gMYJS8ZIjHQf_2nYlS282sEw6Dktny0Yg9ybFQlROVSvUKmEJQVuB_pXdjoHNweue3rfHSoZF8bw)
 
 现在，我们可以添加包来帮助创建仪表板的基本布局。KendoReact 有一个材料主题，我们可以将其作为一个包进行布局。我们还需要引入几个 KendoReact 按钮，这将让您了解将这些零碎的东西放进去开始使用是多么容易。由于 Create React 应用程序使用现成的 yarn，对我来说，它似乎比安装包要快一些，所以我将在本教程中使用所有的 yarn 命令:
 
@@ -55,13 +55,13 @@ $ yarn add @progress/kendo-theme-material
 
 在我们走得太远之前，我想分享一下我对这个应用程序的想法，我已经使用一个叫做 [Balsamiq](https://balsamiq.com/) 的工具完成了一个基本草图，展示了组件布局将如何安排。
 
-[![Balsamiq Mockup](../Images/a58213daa4e890dc0296bd2fc9ee5837.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CivxnDHT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/tobYXIcPrCOpiEmk0Y0q9nW6ynQu33hOLca3uj3rp818eVVE9WBSdK3JBBnbZofL10WPKQOCZJahEA)
+[![Balsamiq Mockup](img/a58213daa4e890dc0296bd2fc9ee5837.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CivxnDHT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/tobYXIcPrCOpiEmk0Y0q9nW6ynQu33hOLca3uj3rp818eVVE9WBSdK3JBBnbZofL10WPKQOCZJahEA)
 
 通常一个设计师和一个 UX 专家会开发一个设计原型，给开发者一个更好的设计方向，但是我们有一个 MVP 预算，所以为了我们教程的目的，这个 Balsamiq 模型将是我们的指南。我们使用的材质设计主题将不费吹灰之力给我们带来好看的字体和优美的 UI 风格。定制这些组件是可能的，但是我们将坚持使用默认组件。
 
 一旦我有了这样的模型，我喜欢做的后续工作是概述每个组件，并将这些概述排列成行和列的友好表示。我将用它来理解我需要什么样的`<div>`元素和类的结构。在下面的布局中，我们有两行，第一行包含标题和按钮。其他的都将在下面的新行中。第二行被分成两列。在右列内将是另一组两行，第一行有三列，第二行只有一列。
 
-[![Balsamiq Layout](../Images/2f7d39a56de47ad950ef0dbc87078063.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IqhCejNC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/OlY8bzpvztfqYkD9p2bhHtg2h6BPvdazUmf-JCFNQeh4dzv2pU_w2Zcd_hGfclKIWGc7Bqd8_ifAKA)
+[![Balsamiq Layout](img/2f7d39a56de47ad950ef0dbc87078063.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IqhCejNC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/OlY8bzpvztfqYkD9p2bhHtg2h6BPvdazUmf-JCFNQeh4dzv2pU_w2Zcd_hGfclKIWGc7Bqd8_ifAKA)
 
 现在我们有了这些草图，我们可以使用`<div>`元素构建标记，并分配类来指示每列将组成多少个最大 12 个单元。在下一节中，我将向您介绍包含组件的标记结构。
 
@@ -69,7 +69,7 @@ $ yarn add @progress/kendo-theme-material
 
 考虑到我们上面看到的布局，我以传统的*“12 列响应网格”*的方式创建了一个`div`的层次结构，每个层次都给定了一个`className`，并在视觉辅助中简化了这个想法。在 React 中，每当我们在 JSX 定义 CSS 类时，我们都使用属性`className`而不是`class`。为了简洁起见，我只引用了每个`<div>`的`xs`断点，但是要点是，我需要断点来确保我们的布局在调整页面大小时不会移动。
 
-[![MockupHTML](../Images/f6b862e059e8cfbb0e53d53c98c35377.png "MockupHTML")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gVL8J2te--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2018/2018-10/mockuphtml.png%3Fsfvrsn%3Dd3a8cfe2_0)
+[![MockupHTML](img/f6b862e059e8cfbb0e53d53c98c35377.png "MockupHTML")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gVL8J2te--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2018/2018-10/mockuphtml.png%3Fsfvrsn%3Dd3a8cfe2_0)
 
 我在上面的图片中放置的每个自定义标签都只是用于可视化表示的占位符，所以不要逐字复制这个 HTML。同样，这只是为了帮助我们理解我们需要的结构。
 
@@ -182,7 +182,7 @@ $ yarn add @progress/kendo-theme-material
 
 现在你应该看到你的按钮呈现出一种材质设计风格。
 
-[![Material Themed Buttons](../Images/e6c4cc357268afe7c3f6e48dc6614cda.png "Material Themed Buttons")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---iLhfOxY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/lJXFzsVGDWWapYMRcOeQrjeuHrIc-uOorgq0HEHlwhH7e7KrfEUmcS_qfddDfaboTdZoDFKQV5uCbQ)
+[![Material Themed Buttons](img/e6c4cc357268afe7c3f6e48dc6614cda.png "Material Themed Buttons")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---iLhfOxY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/lJXFzsVGDWWapYMRcOeQrjeuHrIc-uOorgq0HEHlwhH7e7KrfEUmcS_qfddDfaboTdZoDFKQV5uCbQ)
 
 ## 分享对话框
 
@@ -315,7 +315,7 @@ export default App;
 
 现在，当您在按钮点击状态之外单击并拖动并释放时，您将体验到该效果，而不会激活按钮的`click`事件。
 
-[![Ripple Effect](../Images/27d7a24fba4502368815bac973fc7eb4.png "Ripple Effect")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MbHV4yHH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/Z7FC6bPNAdyjgW32cvpuEG4KQ5Ghd4-_rtGRAynSFv4Udj-yJ1ZQZ_uNxSegDOjtXW8rJYp-Rsc7MQ)
+[![Ripple Effect](img/27d7a24fba4502368815bac973fc7eb4.png "Ripple Effect")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MbHV4yHH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/Z7FC6bPNAdyjgW32cvpuEG4KQ5Ghd4-_rtGRAynSFv4Udj-yJ1ZQZ_uNxSegDOjtXW8rJYp-Rsc7MQ)
 
 ## 嗯，甜甜圈图
 
@@ -333,7 +333,7 @@ export default App;
 {/* <DonutChartContainer /> */} 
 ```
 
-[![Create a Components Directory](../Images/5df9130e51de7c2df2e12f73cacc3e9c.png "Create a Components Directory")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_WeWZSLZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/RSBGY_xZE2KdOb--QLcmQNeluO76xbfoEWY_aAPTKxAA0_F0WOarv80XeQMgtdZ_6cAgppY-GBNiDQ)
+[![Create a Components Directory](img/5df9130e51de7c2df2e12f73cacc3e9c.png "Create a Components Directory")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_WeWZSLZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/RSBGY_xZE2KdOb--QLcmQNeluO76xbfoEWY_aAPTKxAA0_F0WOarv80XeQMgtdZ_6cAgppY-GBNiDQ)
 
 接下来，让我们为所有容器组件添加一个目录，并将其命名为`components`，在其中创建我们的第一个容器组件，名为:`DonutChartContainer.js`。我们将继续为我们的每个 KendoReact 组件使用这种命名惯例。
 
@@ -348,7 +348,7 @@ $ yarn add @progress/kendo-react-charts
 
 KendoReact 图表为构建丰富的数据可视化提供了大量的功能。要了解更多关于它们的信息，请随意查看图表 API 。
 
-[![Create Data Directory](../Images/0e739aefc0d79be7b3a6c9dcb134c242.png "Create Data Directory")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--se6IUG2k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/nefnuKMuR7IHwbyWciU6xIoYXcGmXyJMs8PIOHFSTE7bgQWK86TH7Z3Op7KnHVXgO0__CaCcy3g_tg)
+[![Create Data Directory](img/0e739aefc0d79be7b3a6c9dcb134c242.png "Create Data Directory")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--se6IUG2k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/nefnuKMuR7IHwbyWciU6xIoYXcGmXyJMs8PIOHFSTE7bgQWK86TH7Z3Op7KnHVXgO0__CaCcy3g_tg)
 
 我们想为`Chart`创建的第一件事是一些虚拟数据。就像我之前说的，我们所有的组件都需要数据。让我们创建一个名为`data`的目录，作为我们的`components`目录的兄弟。在该目录中创建一个名为`appData.js`文件。
 
@@ -390,7 +390,7 @@ import { DonutChartContainer } from './components/DonutChartContainer';
 const labelTemplate = (e) => (e.category + '\n'+ e.value + '%'); 
 ```
 
-[![enter image description here](../Images/645f082ad5182e926f21695260957481.png "Desired Donut")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7SsQLqiR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/8Lb0skzqJZEsfgR7aHCqYCqYHSusicoGB-LLUsfhyOeYARnNLP2XUEkULYudNDas1g87z1EefvwQ7w)
+[![enter image description here](img/645f082ad5182e926f21695260957481.png "Desired Donut")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7SsQLqiR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/8Lb0skzqJZEsfgR7aHCqYCqYHSusicoGB-LLUsfhyOeYARnNLP2XUEkULYudNDas1g87z1EefvwQ7w)
 
 这是我们漂亮的甜甜圈，看起来甚至很好吃！当我们使用圆环图时，我们与一个`<ChartSeriesLabels>`组件进行交互。`content`输入接受一个返回字符串的函数。就这么简单。它让每个部分(在我们的例子中是类别)都充满了美好。利用我们对 JavaScript 的了解，我们可以实现一些更好的格式化，我认为我们可能想要使用`e.percentage`而不是`e.value`。你可以在我们的[图表系列标签文档](https://www.telerik.com/kendo-react-ui/components/charts/api/ChartSeriesLabelsProps/#toc-content)中获得我们可以利用的领域的详细信息。
 
@@ -495,7 +495,7 @@ KendoReact `Grid`的主要组件是实际的`<Grid>`元素，它包含子`<Colum
 
 在页面上看起来是这样的:
 
-[![Basic Grid](../Images/ac830fab12624d7b7a348900793448f1.png "Basic Grid")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8iTn3cCy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/H00ow4ioymVwPBkvbhCO4MBCAynwUfAEOZufj_joXrExAM0ewToN0oz7PcE3MA_sB3xCFgBP0-78fA)
+[![Basic Grid](img/ac830fab12624d7b7a348900793448f1.png "Basic Grid")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8iTn3cCy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/H00ow4ioymVwPBkvbhCO4MBCAynwUfAEOZufj_joXrExAM0ewToN0oz7PcE3MA_sB3xCFgBP0-78fA)
 
 接下来，打开`App.js`文件，通过替换`<h4>`元素占位符来添加组件。找到这样一行代码:
 
@@ -523,7 +523,7 @@ import { GridContainer } from './components/GridContainer';
 <GridContainer /> 
 ```
 
-[![Grid Container Version One](../Images/7ea3778f44b7cbd53185f303a3a2d29a.png "Grid Container Version One")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gnqlme5I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/tdew-UBYtqoRjiXo5CtbUd7DYwy_dk86xyv25eIlpLyGpNwJEFtwaxWl4911k32YBrIqwT9lLHgiIA)
+[![Grid Container Version One](img/7ea3778f44b7cbd53185f303a3a2d29a.png "Grid Container Version One")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gnqlme5I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/tdew-UBYtqoRjiXo5CtbUd7DYwy_dk86xyv25eIlpLyGpNwJEFtwaxWl4911k32YBrIqwT9lLHgiIA)
 
 在这一点上，我们有了正在工作的`Grid`组件，但是我已经在考虑我想用这个`GridContainer.js`组件做的一些事情，它将涉及管理状态。尽管此时我不想引入任何类似 Redux 的东西，但我可能不得不从使用无状态功能组件切换到使用基于类的组件。但是在我们开始之前，我想指出，到目前为止，我们只使用了无状态功能组件来创建我们的组件。我想花点时间解释一下为什么，并给你一个在 React 中创建组件的两种方法的快速入门。
 
@@ -599,7 +599,7 @@ class SparkLineChartCell extends React.Component {
 
 以防你有任何问题，我已经为`GridContainer.js`创建了[要点](https://gist.github.com/httpJunkie/7a8a1f14e5d5fdc90065efe29d457ec0)，展示了它在这一点上应该是什么样子。就像这样，我们在每个`Grid`行的一列中有`Sparkline`组件渲染:
 
-[![Grid Container Version Three](../Images/5858f13098d1d03eedb80ad84223000d.png "Grid Container Version Three")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vxc_nGfY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/wG4ku4srR2hDsF-JnfuAZ2v0eWWl4yXCqZtO3FXIGanh_eQANCLds_HGLzNP54SaWVcv5Y9b1jEf0w)
+[![Grid Container Version Three](img/5858f13098d1d03eedb80ad84223000d.png "Grid Container Version Three")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vxc_nGfY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/wG4ku4srR2hDsF-JnfuAZ2v0eWWl4yXCqZtO3FXIGanh_eQANCLds_HGLzNP54SaWVcv5Y9b1jEf0w)
 
 ## 添加 PanelBar 导航
 
@@ -634,7 +634,7 @@ import PanelBarContainer from './components/PanelBarContainer';
 
 我们的新组件应该如下所示:
 
-[![Panel Bar](../Images/3ec31ff1667149dad5e2267b30c14af4.png "Panel Bar")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qV_i-4gA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/OyymscEafIoYJqMHI9UUdTj-3kV-e3iIm1cXMWnPTbwdhw89WeA2O4A8HsczsVPi1bo0EisZiEgjmA)
+[![Panel Bar](img/3ec31ff1667149dad5e2267b30c14af4.png "Panel Bar")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qV_i-4gA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/OyymscEafIoYJqMHI9UUdTj-3kV-e3iIm1cXMWnPTbwdhw89WeA2O4A8HsczsVPi1bo0EisZiEgjmA)
 
 在这一点上，我们已经做了很多工作，仪表板的布局方式在中大型屏幕(960 像素及以上)上看起来不错。它还可以对较低分辨率的屏幕进行一些调整，但团队成员部分尤其可以使用一些额外的媒体查询来帮助适应较低的分辨率。
 

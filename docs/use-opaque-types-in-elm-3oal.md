@@ -4,7 +4,7 @@
 
 加入[榆树懈](https://elmlang.herokuapp.com/)已经有一段时间了。在这段时间里，我看到不同的人询问如何以及何时使用**不透明类型**。我也见过许多不透明类型不存在的代码库和例子。
 
-[![Strings, strings everywhere](../Images/84d85d48ec65595bbbf4a975ec9d8091.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5t44nDQZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgflip.com/2ks3pk.jpg)
+[![Strings, strings everywhere](img/84d85d48ec65595bbbf4a975ec9d8091.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5t44nDQZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgflip.com/2ks3pk.jpg)
 
 我认为在 Elm 的 API 设计中，不透明类型是非常重要的，我怀疑它们的使用远远不够。在这篇文章中，我们将学习不透明类型如何将 API 粘合在一起，同时使我们的代码自文档化和无 bug 化。
 

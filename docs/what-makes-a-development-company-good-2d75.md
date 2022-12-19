@@ -4,7 +4,7 @@
 
 最初发表于 [Kolosek](https://kolosek.com/what-makes-a-good-development-company/) 。
 
-[![Web Development Company Whiteboard](../Images/dc67e5395a8b45980a9409922cec190b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IM7gcioR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/sdee3-com/image/upload/v1522847747/blog/Web-Dev-Company-Whiteboard.jpg)
+[![Web Development Company Whiteboard](img/dc67e5395a8b45980a9409922cec190b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IM7gcioR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/sdee3-com/image/upload/v1522847747/blog/Web-Dev-Company-Whiteboard.jpg)
 
 网络开发公司在 2018 年处于上升趋势，这似乎令人惊讶。不过，这对我们来说并不新鲜，因为当 Kolosek 最初创建时，船上的每个人从第一天起就意识到了**风险**和**竞争**。
 
@@ -14,7 +14,7 @@
 
 这就是谷歌搜索开始发挥作用的时候。你从精确定位你的搜索词开始，你专注于你所在地区的好的网络开发公司，如果那组结果没有让你满意，那么你寻找为全球客户工作的网络开发人员，最终，你得到了一个看起来对你有吸引力的 **4-5 家公司**的候选名单。
 
-[![Rick and Morty News Quote](../Images/775feb83a7ca93bed3e38151885fc610.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JMPSQYsY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/sdee3-com/image/upload/v1522847504/blog/and-thats-the-way-the-news-goes--1-.jpg)
+[![Rick and Morty News Quote](img/775feb83a7ca93bed3e38151885fc610.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JMPSQYsY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/sdee3-com/image/upload/v1522847504/blog/and-thats-the-way-the-news-goes--1-.jpg)
 
 即便如此，你也不能确定这些入围公司中的任何一家是否可靠，这是一个很重要的关键词。联系首席开发人员本人，要求看一眼他们的投资组合是不会奏效的。众所周知，It 市场充满了各种选择，我们 Kolosek 意识到雇佣最好的人是多么困难。
 
@@ -22,7 +22,7 @@
 
 ## 好的网页开发公司有丰富的投资组合
 
-[![Web Development Company Portfolio Section](../Images/472efaa8564621bfad6450c91d090a8b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dwJRaStE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/sdee3-com/image/upload/v1522847504/blog/Web_Development_Company_Portfolio_Section.jpg)
+[![Web Development Company Portfolio Section](img/472efaa8564621bfad6450c91d090a8b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dwJRaStE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/sdee3-com/image/upload/v1522847504/blog/Web_Development_Company_Portfolio_Section.jpg)
 
 到目前为止，你一定已经看到了至少几个有自己作品集的网站。到目前为止，所有专业且优秀的网站开发公司都有一个专门的投资组合部分，包含高质量的内容，包括一个简单的最佳项目列表。理解这一点是至关重要的，因为相反的做法，即附加每一个单独的项目是不可取的。
 
@@ -30,7 +30,7 @@
 
 ## 技术支持/客户支持服务质量一流
 
-[![Web Development Company Technical Support Line](../Images/6e708ac7befe6e838a9774bcc81f18fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WJMqISz2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/sdee3-com/image/upload/v1522847504/blog/Web_Development_Company_Technical_Support_Line.jpg)
+[![Web Development Company Technical Support Line](img/6e708ac7befe6e838a9774bcc81f18fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WJMqISz2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/sdee3-com/image/upload/v1522847504/blog/Web_Development_Company_Technical_Support_Line.jpg)
 
 创建一篇简单的博客文章非常简单，在这篇文章中，有人仅仅因为糟糕的后期制作技术支持而批评一家网络开发公司。互联网是一个巨大的地方，这可能发生在任何人身上。
 
@@ -40,7 +40,7 @@
 
 ## 他们的知识库非常准确
 
-[![Web Developer Knowledge Base Diagram](../Images/392b337ba74b1921729df0eaec58bd2e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PCTY4rxd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/sdee3-com/image/upload/v1522847504/blog/Web_Developer_Knowledge_Base_Diagram.jpg)
+[![Web Developer Knowledge Base Diagram](img/392b337ba74b1921729df0eaec58bd2e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PCTY4rxd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/sdee3-com/image/upload/v1522847504/blog/Web_Developer_Knowledge_Base_Diagram.jpg)
 
 我们知道没有一个人或一家公司知道这一切，并说他们会夜以继日地工作，让你的产品只使用你想要的框架。我们所知道的是，好的网站开发公司和他们的个人的一个非常普遍的特点是努力让他们自己，他们的同事和雇员，以及他们的客户跟上最新的关于网站设计和开发的趋势。
 
@@ -50,7 +50,7 @@
 
 ## 优秀的网络开发公司孕育时间线
 
-[![Product Timeline Sand Glass](../Images/8855717b9feadecccb989e17ca98e7f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8YC2AiYU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/sdee3-com/image/upload/v1522847504/blog/Product_Timeline_Sand_Glass.jpg)
+[![Product Timeline Sand Glass](img/8855717b9feadecccb989e17ca98e7f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8YC2AiYU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/sdee3-com/image/upload/v1522847504/blog/Product_Timeline_Sand_Glass.jpg)
 
 所有的 web 开发公司都要求额外的一周或两周时间来完成整个项目或它的部分，这是可以理解的。如前所述，**满意**是双方都在寻找的最终结果，这也是专业的 web 开发公司看重时间的原因。
 

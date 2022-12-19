@@ -21,7 +21,7 @@
 
 这些指标在 CloudWatch 仪表板中可视化，警报被配置为在阈值被突破的情况下向 AWS SNS 主题推送通知。像往常一样，一切都将与 HashiCorp Terraform 一起部署。下面你会看到我们将在文章结尾提供的结果面板的截图。
 
-[![dashboard overview](../Images/6ebc200c4354f163081e07b35617493e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JmvMBtxG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gzreve3r515g5ogpgfsw.png)
+[![dashboard overview](img/6ebc200c4354f163081e07b35617493e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JmvMBtxG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gzreve3r515g5ogpgfsw.png)
 
 [源代码](https://github.com/FRosner/aws-lambda-monitoring-alerting-example)可以在 GitHub 上获得。请注意，我们不会讨论[在单个存储库中管理多个 Lambda 函数](https://dev.to/frosnerd/yarnception-starting-yarn-within-yarn-through-gulp-and-when-it-is-useful-og3)的主题，也不会讨论如何在一个空闲通道中显示[警报通知，因为这已经在之前的博客文章中讨论过了。](https://dev.to/frosnerd/event-handling-in-aws-using-sns-sqs-and-lambda-2ng)
 
@@ -131,11 +131,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果您登录到 AWS 控制台，CloudWatch 会显示您当前所有警报的概览。下表说明了我们的示例函数的三个警报。我生成了一些测试事件，其中一个事件在函数内部生成了一个错误，触发了相应的警报。
 
-[![failing alarm table](../Images/ca70aad701381aa7d7b6ed2b9079c734.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aDsmKOIR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ubsrxru4ekgtf5l9tq72.png)
+[![failing alarm table](img/ca70aad701381aa7d7b6ed2b9079c734.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aDsmKOIR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ubsrxru4ekgtf5l9tq72.png)
 
 除了表格之外，每个警报还有一个非常简单的图形视图，它独立于 CloudWatch 仪表盘。下图描述了我们的警报的三个图表。
 
-[![failing alarm chart](../Images/73e2d6caf286156504520c07c5efd70d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6e2Tq61C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9dnwrytamnh7h8cxsgwu.png)
+[![failing alarm chart](img/73e2d6caf286156504520c07c5efd70d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6e2Tq61C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9dnwrytamnh7h8cxsgwu.png)
 
 # 仪表盘
 
@@ -153,7 +153,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是它在浏览器中的样子:
 
-[![invocations detail view](../Images/3da7705447d4e5981af0bb3a454204b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x7N1c3qq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2b8ar1al6bd352g3kt2y.png)
+[![invocations detail view](img/3da7705447d4e5981af0bb3a454204b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x7N1c3qq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2b8ar1al6bd352g3kt2y.png)
 
 我们还可以添加水平注释来指示我们的警报阈值。此外，显示不同的统计数据也很有用。对于执行时间小部件，我们添加了一个水平注释以及两个统计数据:最大和平均执行时间。请找到下面的代码和结果截图。
 
@@ -163,7 +163,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![execution time detail view](../Images/11573a37a9f8cf316c1f4631163349ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rRDWrTSB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/961wxj6tvnx1tk22nxpj.png)
+[![execution time detail view](img/11573a37a9f8cf316c1f4631163349ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rRDWrTSB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/961wxj6tvnx1tk22nxpj.png)
 
 # 结论
 

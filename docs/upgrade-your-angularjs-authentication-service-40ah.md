@@ -6,4 +6,4 @@
 
 [读读🅰️⬆️](https://auth0.com/blog/upgrade-your-angularjs-authentication-service/?utm_source=dev&utm_medium=sc&utm_campaign=upgrade_angularjs)
 
-[![Upgrade Your AngularJS Authentication Service](../Images/8bee64fcdd899eb3b0d4e904bfb08c51.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--toLQDYtz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cgca3ih9suugvs9mnwsf.png)
+[![Upgrade Your AngularJS Authentication Service](img/8bee64fcdd899eb3b0d4e904bfb08c51.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--toLQDYtz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cgca3ih9suugvs9mnwsf.png)

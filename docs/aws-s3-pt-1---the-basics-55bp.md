@@ -37,7 +37,7 @@ S3 极其可靠和灵活。如果您在某个时候需要存储和检索:
 
 铲斗和物体示例:
 
-[![S3 URL explained](../Images/c55926b0237823a57884f6b9817e40b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GYzJP2fh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wx0mkto03h9zi2vescrv.png)
+[![S3 URL explained](img/c55926b0237823a57884f6b9817e40b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GYzJP2fh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wx0mkto03h9zi2vescrv.png)
 
 *   ## 斗策
 

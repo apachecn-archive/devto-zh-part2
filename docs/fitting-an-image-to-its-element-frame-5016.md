@@ -10,7 +10,7 @@
 
 在我们进入图像之前，让我们先用一个圆形元素来考虑这个概念。圆永远是圆，而不是椭圆。
 
-[![A circle fitted to the element size](../Images/258d30788b9780287cdb125969fdcfea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W1xk28G1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/04/screen-shot-2018-04-11-at-09-34-39.png)
+[![A circle fitted to the element size](img/258d30788b9780287cdb125969fdcfea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W1xk28G1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/04/screen-shot-2018-04-11-at-09-34-39.png)
 
 圆形元素可以比可视元素大；圆在可用元素区域内居中，扩展到宽度或高度。
 
@@ -20,7 +20,7 @@
 
 也许最明显的尺寸模式就是使用图像的自然尺寸；不管元素大小如何，我们将按原样绘制图像，或者裁剪边缘，或者留出空白。
 
-[![A 320x212 image clipped into a 250x300 element](../Images/07ba7f1b9de989220eb92c906815cf7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j8HqtrKb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/04/screen-shot-2018-04-11-at-09-43-44.png)
+[![A 320x212 image clipped into a 250x300 element](img/07ba7f1b9de989220eb92c906815cf7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j8HqtrKb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/04/screen-shot-2018-04-11-at-09-43-44.png)
 
 这种大小调整模式最常用于布局中，在这种布局中，元素的大小与图像的大小相同。例如，您可以在标题栏中使用图标，并让它们定义其大小。
 
@@ -32,23 +32,23 @@
 
 图像通常用于填充某个区域，提供背景、边框或分隔线。这需要拉伸图像，填充整个元素区域，即使图像本身是扭曲的。
 
-[![A stretched image, with aspect distortion.](../Images/26adaa7451a23d6319bd5d1edaa1dcc4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A7XJYt8g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://wordpress.com/5b22caa8-ba86-45f0-8ea6-e4e5704d76f7)
+[![A stretched image, with aspect distortion.](img/26adaa7451a23d6319bd5d1edaa1dcc4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A7XJYt8g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://wordpress.com/5b22caa8-ba86-45f0-8ea6-e4e5704d76f7)
 
 > 上面的照片有助于显示失真，但填充功能可能不适合这样的图像。
 
 拉伸的一个有用的特性是 9 网格拉伸:图像被分成 9 个区域，并自行拉伸。这允许为动态调整大小的元素创建边框。CSS 用`border-image`提供了一个相当健壮的特性。
 
-[![A 9-grid image, showing preserved border/corner sizes, but stretched centres.](../Images/6aa898c013ada7b666b3ba4ac2123c4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7OABlSb2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/04/screen-shot-2018-04-11-at-10-01-13.png)
+[![A 9-grid image, showing preserved border/corner sizes, but stretched centres.](img/6aa898c013ada7b666b3ba4ac2123c4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7OABlSb2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/04/screen-shot-2018-04-11-at-10-01-13.png)
 
 ## 整齐划一
 
 如果整个图像必须适合元素，并且必须保持纵横比，我们使用`Uniform`模式(在 CSS 中称为`contain`)。这将放大图像的大小，使其接触到可用区域的两侧，而将元素的其余部分留空。
 
-[![Preserve ratio, full image inside element.](../Images/efce83fd5f190dfc7bfee44a5f9029a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--by7n3Cni--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/04/screen-shot-2018-04-11-at-09-46-141.png)
+[![Preserve ratio, full image inside element.](img/efce83fd5f190dfc7bfee44a5f9029a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--by7n3Cni--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/04/screen-shot-2018-04-11-at-09-46-141.png)
 
 相反，如果你希望填充整个元素并保持长宽比，我们使用`UniformToFill`模式(在 CSS 中称为`cover`)。这将缩放图像，直到它到达元素的所有边缘，剪切元素之外的那些部分。
 
-[![Stretch to fill preserving aspect, clipping image](../Images/84bc4203a50a6f51530b10407a7db2fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aaw0wk8---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/04/screen-shot-2018-04-11-at-10-08-39.png)
+[![Stretch to fill preserving aspect, clipping image](img/84bc4203a50a6f51530b10407a7db2fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aaw0wk8---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/04/screen-shot-2018-04-11-at-10-08-39.png)
 
 ## 内容对齐
 
@@ -56,7 +56,7 @@
 
 将`ContentAlignment`添加到`Image`允许用户指定该选项。一个好的默认值是继承图像元素的对齐方式。如果你将图像右下方对齐，你会期望视觉效果也右下方对齐。
 
-[![Uniform fill with Left and Right content alignment](../Images/6cae1359cc4dda9c5cd5084df2d7dfcd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xjESdciO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/04/screen-shot-2018-04-11-at-10-10-28.png)
+[![Uniform fill with Left and Right content alignment](img/6cae1359cc4dda9c5cd5084df2d7dfcd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xjESdciO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/04/screen-shot-2018-04-11-at-10-10-28.png)
 
 有一个选项我从来没有实施过，那就是锚定；基本对齐不能很好地涵盖设计的细微差别。锚点允许我们在照片上选择一个感兴趣的点，并确保它位于中心，例如侧面图像的面部。
 

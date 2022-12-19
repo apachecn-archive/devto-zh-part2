@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/executeautotest/the-differences-between-testing-and-debugging-104f>
 
-[![The Differences Between Testing and Debugging](../Images/fc0cb03338c189ef07766ffd0c7094c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VZWfH7m0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/testautomationresources.com/wp-content/uploads/2018/04/Devlopers-Vs-Testers-01.png%3Fresize%3D1024%252C387%26ssl%3D1)
+[![The Differences Between Testing and Debugging](img/fc0cb03338c189ef07766ffd0c7094c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VZWfH7m0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/testautomationresources.com/wp-content/uploads/2018/04/Devlopers-Vs-Testers-01.png%3Fresize%3D1024%252C387%26ssl%3D1)
 
 当谈到软件测试时，由于完善产品定义的不同方法，测试人员和开发人员之间的战斗永无止境。测试和调试成了在这场无休止的战斗中使用的“武器”。但实际上，这些术语通常被误认为是相同的。
 
@@ -29,7 +29,7 @@
 | 可以通过使用自动化测试工具自动完成 | 软件的自动调试仍然是程序员的梦想 |
 | 目的是找到 bug | 目的是找到错误的原因 |
 
-[![Typical Testing & Debugging workflow](../Images/bf76fe34079863eab9e1c5fe4389a4d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s----iOd4O1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/testautomationresources.com/wp-content/uploads/2018/04/Testing-debugging-workflow.png%3Fw%3D564%26ssl%3D1)
+[![Typical Testing & Debugging workflow](img/bf76fe34079863eab9e1c5fe4389a4d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s----iOd4O1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/testautomationresources.com/wp-content/uploads/2018/04/Testing-debugging-workflow.png%3Fw%3D564%26ssl%3D1)
 
 阅读更多:[分三步执行自动化测试](https://testautomationresources.com/web-testing/execute-automation-testing-in-3-steps/)
 

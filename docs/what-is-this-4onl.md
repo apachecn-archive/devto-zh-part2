@@ -12,7 +12,7 @@
 
 当单独调用或在函数中调用时，“this”将引用全局对象。在浏览器中，这指的是窗口对象。一个例外是如果用户处于严格模式，在这种情况下“this”将是未定义的。
 
-[![default example](../Images/0cbbc746d80efd67001c345e50e39bb6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9P-GUeWs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6voq05f3flwlffnevpcx.png) 
+[![default example](img/0cbbc746d80efd67001c345e50e39bb6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9P-GUeWs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6voq05f3flwlffnevpcx.png) 
 
 <figure>
 
@@ -28,7 +28,7 @@
 
 <figure>
 
-[![implicit example](../Images/4c43c7896ef47341215395a62f001f42.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--23DH5nnY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pb52nfl8kd4xaqpfkzqs.png)
+[![implicit example](img/4c43c7896ef47341215395a62f001f42.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--23DH5nnY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pb52nfl8kd4xaqpfkzqs.png)
 
 <figcaption>In this example, we console log out "😸 Meow!"</figcaption>
 
@@ -40,7 +40,7 @@
 
 <figure>
 
-[![explicit example](../Images/15c4a2a1a9cbc65c4822d536e9357cd5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rt3RvPDG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/khyr03oy7d5sh0rbtuta.png)
+[![explicit example](img/15c4a2a1a9cbc65c4822d536e9357cd5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rt3RvPDG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/khyr03oy7d5sh0rbtuta.png)
 
 <figcaption>In this example, all three functions set "this" explicitly.</figcaption>
 
@@ -52,7 +52,7 @@
 
 <figure>
 
-[![new example](../Images/f9be463a4353cb34fdda52680736ee80.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VdzxZ2wM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f3e3ugipckv0o1nrnt35.png)
+[![new example](img/f9be463a4353cb34fdda52680736ee80.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VdzxZ2wM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f3e3ugipckv0o1nrnt35.png)
 
 <figcaption>In this example, "this" points to the new object and prints out my kitty's name</figcaption>
 
@@ -64,7 +64,7 @@
 
 <figure>
 
-[![arrow example](../Images/2b6d4382ba0027527d640a72b6bacd56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3X3JqWSD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t7mnz19w1emt6ljcxk81.png)
+[![arrow example](img/2b6d4382ba0027527d640a72b6bacd56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3X3JqWSD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t7mnz19w1emt6ljcxk81.png)
 
 <figcaption>Here, "this" retains the value of its parent function.</figcaption>
 

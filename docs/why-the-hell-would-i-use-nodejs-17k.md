@@ -12,7 +12,7 @@ JavaScript 越来越受欢迎，随之带来了许多变化，如今 web 开发�
 
 在经历了 20 多年基于无状态请求-响应范例的无状态 web 之后，我们终于拥有了具有实时双向连接的 web 应用程序。
 
-[![Alt text of image](../Images/cd5ea9c2d54108b2bedd590898bc543c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--llpaXIMr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.com/images/apcelent-nodejs-tutorial.jpg)
+[![Alt text of image](img/cd5ea9c2d54108b2bedd590898bc543c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--llpaXIMr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.cimg/apcelent-nodejs-tutorial.jpg)
 
 一句话:Node.js 在通过 websockets 使用推送技术的实时 web 应用程序中大放异彩。这有什么革命性的？在经历了 20 多年基于无状态请求-响应范式的无状态 web 之后，我们终于有了具有实时双向连接的 web 应用程序，其中客户端和服务器都可以发起通信，允许它们自由地交换数据。这与典型的 web 响应范例形成了鲜明的对比，在典型的 web 响应范例中，客户端总是发起通信。此外，它完全基于运行在标准端口 80 上的开放 web 堆栈(HTML、CSS 和 JS)。
 
@@ -34,7 +34,7 @@ Node.js 的主要思想:在面对跨分布式设备运行的数据密集型实�
 
 它是如何在引擎盖下工作的非常有趣。在传统的 web 服务技术中，每个连接(请求)都会产生一个新线程，占用系统 RAM 并最终达到可用 RAM 的最大容量，与之相比，Node.js 在单线程上运行，使用非阻塞 I/O 调用，允许它支持数万个并发连接(保存在事件循环中)。
 
-[![Alt text of image](../Images/bd5a329a06f910678cafd39dd8f63ee8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cv22FO8H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.com/images/apcelent-nodejs-toptal1.png)
+[![Alt text of image](img/bd5a329a06f910678cafd39dd8f63ee8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cv22FO8H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.cimg/apcelent-nodejs-toptal1.png)
 
 快速计算一下:假设每个线程都有 2 MB 的内存，那么在一个有 8 GB 内存的系统上运行，理论上最多有 4000 个并发连接，再加上线程间上下文切换的成本。这是传统 web 服务技术中通常会遇到的情况。通过避免所有这些，Node.js 实现了超过 100 万并发连接的可伸缩性级别(作为概念验证)。
 
@@ -94,7 +94,7 @@ Node.js 的主要思想:在面对跨分布式设备运行的数据密集型实�
 
 3.  所有客户端通过在网页中运行的 websockets 客户端组件接收作为推送消息的新消息。然后，他们获取消息内容，并通过将新消息附加到公告板上来就地更新网页。
 
-[![Alt text of image](../Images/3ed0effbbd2425c62cdf1066b0a12dfb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HWPD-Tot--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.com/images/apcelent-nodejs-toptal2.png)
+[![Alt text of image](img/3ed0effbbd2425c62cdf1066b0a12dfb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HWPD-Tot--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.cimg/apcelent-nodejs-toptal2.png)
 
 这是一个最简单的例子。对于更健壮的解决方案，可以使用基于 Redis 存储的简单缓存。或者在一个更高级的解决方案中，一个消息队列来处理消息到客户端的路由，以及一个更健壮的交付机制，该机制可以弥补临时连接丢失或在注册客户端离线时为其存储消息。但是不管你做了什么改进，Node.js 仍然会在相同的基本原则下运行:对事件做出反应，处理许多并发连接，并保持用户体验的流畅性。
 
@@ -112,7 +112,7 @@ Node.js 的主要思想:在面对跨分布式设备运行的数据密集型实�
 
 数据通过某种缓存或消息队列基础设施(例如， [RabbitMQ](http://www.rabbitmq.com/) ， [ZeroMQ](http://zeromq.org/) 进行排队，并由单独的数据库批量写入过程或计算密集型处理后端服务进行消化，这些服务编写在性能更好的平台上，用于执行此类任务。类似的行为可以用其他语言/框架实现，但不是在相同的硬件上，具有相同的高吞吐量。
 
-[![Alt text of image](../Images/bc24a90912a27c488649aa1c339cf6c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R-Zbbw4W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.com/images/apcelent-nodejs-toptal3.png)
+[![Alt text of image](img/bc24a90912a27c488649aa1c339cf6c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R-Zbbw4W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.cimg/apcelent-nodejs-toptal3.png)
 
 简而言之:使用 Node，您可以将数据库写操作推到一边，稍后再处理它们，就好像它们成功了一样。
 

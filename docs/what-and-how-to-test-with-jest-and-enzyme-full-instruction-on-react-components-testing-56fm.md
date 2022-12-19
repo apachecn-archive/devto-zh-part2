@@ -20,11 +20,11 @@
 
 让我们在项目结构的下一部分讨论这个问题:
 
-[![defining-queue-for-project-structure](../Images/f6a9d7003f8cceeb89e8e7ffab8711b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ng8GE8sK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/09/Img-1--2-.png)
+[![defining-queue-for-project-structure](img/f6a9d7003f8cceeb89e8e7ffab8711b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ng8GE8sK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/09/Img-1--2-.png)
 
 我选择了`shared`目录，因为它是最重要的；它由项目的几个不同页面中使用的组件组成。它们是可重复使用的，通常很小，也不复杂。如果一个或另一个组件出现故障，将会导致其他地方出现故障。这就是为什么我们应该确信它们是否写得正确。该目录的结构分为几个文件夹，每个文件夹包含组件。
 
-[![project-structure](../Images/43102938806fc4b1dfe53c0ebd67ac65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zdr91APb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/09/Img-2--3-.png)
+[![project-structure](img/43102938806fc4b1dfe53c0ebd67ac65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zdr91APb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/09/Img-2--3-.png)
 
 如何定义`shared`目录中组件测试的正确顺序:
 
@@ -37,7 +37,7 @@
 
 最终的组件顺序(基于我们的示例)如下所示:
 
-[![components-order](../Images/990cd46771a8011b2ce3914b64bde9d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0rtJd5ZZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/09/Img-3--1-.png)
+[![components-order](img/990cd46771a8011b2ce3914b64bde9d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0rtJd5ZZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/09/Img-3--1-.png)
 
 按照这个顺序，你一步一步地增加被测试组件的复杂性；因此，当操作更复杂的组件时，您已经知道最小的组件是如何工作的。例如，不要拿‘数组’字段来进行测试，如果你不确定如何测试‘文本’字段；如果你没有测试过“表单”字段本身，就不要使用用 redux-form 修饰的组件。选择要一致，不要拿第一个想到的组件，打开逻辑。当然，你的项目的结构可以不同；它可以有其他目录名，也可以有附加的组件、动作和缩减器，但是定义组件测试顺序的逻辑是相同的。
 
@@ -105,7 +105,7 @@ exports[`Render TextInput correctly component 1`] = `
 *   创建新的快照，它与存储在`__snapshots__`目录中的自动生成的快照进行比较
 *   测试失败，因为快照不同
 
-[![test-failed](../Images/0eb4bc89a46ca8ff9eaa9741d4f84ce1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_ORGjVET--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://djangostars.com/blog/content/images/2018/09/fail.gif)
+[![test-failed](img/0eb4bc89a46ca8ff9eaa9741d4f84ce1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_ORGjVET--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://djangostars.com/blog/conteimg/2018/09/fail.gif)
 
 #### 2。组件没有改变
 
@@ -113,7 +113,7 @@ exports[`Render TextInput correctly component 1`] = `
 *   创建新的快照，它与存储在`__snapshots__`目录中的自动生成的快照进行比较
 *   测试通过，因为快照相同
 
-[![test-succes](../Images/fbadbca01ef2fcfd71600de4429074cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9BUOzmFA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://djangostars.com/blog/content/images/2018/09/success.gif)
+[![test-succes](img/fbadbca01ef2fcfd71600de4429074cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9BUOzmFA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://djangostars.com/blog/conteimg/2018/09/success.gif)
 
 当我测试一个没有逻辑的小组件时，一切都很好，只是 UI 渲染，但实践表明，真正的项目上没有这样的组件。如果有，也是少量的。
 
@@ -157,7 +157,7 @@ exports[`Render TextInput correctly component 1`] = `
 
 看起来像:**
 
-[![date-picker-test](../Images/0a2642090975bcdbad1812d73eba63af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hOlYKA4y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://djangostars.com/blog/content/images/2018/09/Datepicker.gif)
+[![date-picker-test](img/0a2642090975bcdbad1812d73eba63af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hOlYKA4y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://djangostars.com/blog/conteimg/2018/09/Datepicker.gif)
 
 DateInput 组件使用库 react-datepicker，带有两个实用程序:valueToDate(将值转换为日期)和 dateToValue，反之亦然，用于操作日期的 moment package 和用于检查 react 属性的 PropTypes。
 
@@ -340,7 +340,7 @@ it('check value is instanceof moment', () => {
 
 ***长相:***
 
-[![alt](../Images/7457818040675b19cc2b7430a9f8f33b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1Mo4jJ1h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://djangostars.com/blog/content/images/2018/09/spinner.gif)
+[![alt](img/7457818040675b19cc2b7430a9f8f33b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1Mo4jJ1h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://djangostars.com/blog/conteimg/2018/09/spinner.gif)
 
 解释中不需要 Spinner，因为几乎所有的 web 资源都有这个组件。
 所以去写测试吧:
@@ -448,7 +448,7 @@ it('type for subTitle is string', () => {
 #### 4。模态测试(ModalWrapper.js 和 ModalTrigger.js)
 
 ***长相:***
-[![modal-testing](../Images/bcd61d99c9fc9074f9e9393adf30cde1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--V24YBCiA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://djangostars.com/blog/content/images/2018/09/modal.gif)
+[![modal-testing](img/bcd61d99c9fc9074f9e9393adf30cde1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--V24YBCiA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://djangostars.com/blog/conteimg/2018/09/modal.gif)
 
 如何测试情态动词:
 首先，我想解释一下在我们的项目中情态动词是如何组织的。我们有两个组件: **ModalWrapper.js** 和 **ModalTrigger.js** 。

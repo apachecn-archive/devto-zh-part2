@@ -2,13 +2,13 @@
 
 > 原文：<https://dev.to/bnevilleoneill/a-beginners-guide-to-redux-observable-234e>
 
-[![](../Images/68e3b47073a30a99df05a1d7e1e78800.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Pex-cfcY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AYWr-aGD5v0_Ca6YyDAlF2A.png)
+[![](img/68e3b47073a30a99df05a1d7e1e78800.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Pex-cfcY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AYWr-aGD5v0_Ca6YyDAlF2A.png)
 
 [Redux-Observable](https://www.npmjs.com/package/redux-observable) 是一个 [Redux 中间件](https://www.codementor.io/vkarpov/beginner-s-guide-to-redux-middleware-du107uyud)，它允许你使用 [RxJS 操作符](https://www.npmjs.com/package/rxjs)过滤和映射动作。像 [filter()](https://www.learnrxjs.io/operators/filtering/filter.html) 和 [map()](https://www.learnrxjs.io/operators/transformation/map.html) 这样的 RxJS 操作符让您转换动作流，就像 [JavaScript 的](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)[array . prototype . filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)让您转换数组一样。
 
 在本文中，我将向您展示如何使用可以从 Node.js 运行的脚本开始使用 redux-observable。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### 你的第一部史诗
 
@@ -238,7 +238,7 @@ Redux-observable 是一个用 React 和 Redux 处理[异步逻辑的工具。这
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

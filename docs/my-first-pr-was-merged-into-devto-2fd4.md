@@ -8,13 +8,13 @@
 
 [通过 sidemt Pull Request # 1121 the practical dev/dev . to](https://github.com/thepracticaldev/dev.to/pull/1121)将 GitLab URL 字段添加到用户配置文件
 
-[![Merged PR](../Images/090af13b4877abdca284d7b8673454a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8tGJC9Xf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xwujv4qrus9wwv36wpy6.PNG)
+[![Merged PR](img/090af13b4877abdca284d7b8673454a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8tGJC9Xf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xwujv4qrus9wwv36wpy6.PNG)
 
 ## 功能我添加
 
 我添加了一个新的字段，在 DEV profile 上放置了一个到 GitLab profile 的链接。
 
-[![GitLab link on DEV profile](../Images/03ab1085e9b85140983d6a84f59e7f10.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3OQmf1Pp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lsmie7wmfc1sv1o6dcm2.png)
+[![GitLab link on DEV profile](img/03ab1085e9b85140983d6a84f59e7f10.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3OQmf1Pp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lsmie7wmfc1sv1o6dcm2.png)
 
 @ben 在 GitHub 上给了我一个评论，所以我也为它写了更新日志。
 

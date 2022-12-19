@@ -8,7 +8,7 @@
 
 这里有一个标准的模版路由器配置:
 
-[![StencilJS Router Events](../Images/12557b7b8c65eafc6c59b8021bd468ef.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pmfnZ_we--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://yon.fun/content/images/2018/10/stencil-default-router.png)
+[![StencilJS Router Events](img/12557b7b8c65eafc6c59b8021bd468ef.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pmfnZ_we--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://yon.fun/conteimg/2018/10/stencil-default-router.png)
 
 没什么特别的，我们只是给一个**模板-路由**组件提供一些道具，以便基于*历史*链接动态生成我们的 **app-home** 和 **app-about** 组件。更多关于[如何设置模版路由器，查看本文](https://yon.fun/stencil-router-step-by-step/)。
 
@@ -20,13 +20,13 @@ npm i ip-stencil-route-listener
 
 安装后，我们必须在`<stencil-riuter />`的功能下的**router 内添加`<ip-stencil-route-listener />`组件。看一看红色线条:
 
-[![StencilJS Router Events](../Images/b647dbab8063d61d1850e0a8acc00b02.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UTMND90V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://yon.fun/content/images/2018/10/stencil-route-listener-1.png)**
+[![StencilJS Router Events](img/b647dbab8063d61d1850e0a8acc00b02.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UTMND90V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://yon.fun/conteimg/2018/10/stencil-route-listener-1.png)**
 
 没什么！现在每当你进入或离开一个页面时，EventListener 将触发 *pageEnter* 或 *pageLeave* 事件。这些事件的名字谈论他们自己。
 
 请看这张图片:
 
-[![StencilJS Router Events](../Images/eca95fc6bf84a46e45287a722e10b743.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ylT6yA7L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://yon.fun/content/images/2018/10/stencil-listen-page-events.png)
+[![StencilJS Router Events](img/eca95fc6bf84a46e45287a722e10b743.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ylT6yA7L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://yon.fun/conteimg/2018/10/stencil-listen-page-events.png)
 
 因此，让我们在*页面添加谷歌分析，进入*事件:
 

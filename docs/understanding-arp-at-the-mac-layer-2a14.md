@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/onmyway133/understanding-arp-at-the-mac-layer-2a14>
 
-[![](../Images/ffe37d43ee7aa60e55195662cdf48e29.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---SFpXVS3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AjTHJfoEuoPsG_YFa.jpg)
+[![](img/ffe37d43ee7aa60e55195662cdf48e29.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---SFpXVS3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AjTHJfoEuoPsG_YFa.jpg)
 
 有一种技术叫做 ARP 欺骗。
 

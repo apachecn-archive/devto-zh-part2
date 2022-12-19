@@ -4,7 +4,7 @@
 
 测试检查代码是否做了预期的事情。它也给软件工程师信心，让他们相信代码是按预期工作的。这相当于软件中的错误更少或没有。您一定听说过许多类型的自动化软件测试。有单元测试、集成测试、功能测试、验收测试、冒烟测试等。根据 Guru99 的[帖子](http://www.guru99.com/types-of-software-testing.html)，有 100 多种软件测试。在这篇文章中，我将把自动化软件测试分为两类，快速的和非快速的。
 
-[![](../Images/37fa19e2d65cedc2600762c746c96891.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1UhGe8MA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/5570/1%2Aw101yq12wfyUevObORbC2w.jpeg)
+[![](img/37fa19e2d65cedc2600762c746c96891.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1UhGe8MA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/5570/1%2Aw101yq12wfyUevObORbC2w.jpeg)
 
 ## 如何区分慢速和快速测试？
 

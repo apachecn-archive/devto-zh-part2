@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/coreyja/vim-fzf-with-devicons-11ee>
 
-[![Example Screenshot](../Images/a082731fc57b3fc66be30f9d86ad8417.png)T2】](https://coreyja.com/images/posts/vim-fzf-with-devicons/example-screenshot-7d212371.png)
+[![Example Screenshot](img/a082731fc57b3fc66be30f9d86ad8417.png)T2】](https://coreyja.cimg/posts/vim-fzf-with-devicons/example-screenshot-7d212371.png)
 
 *此文最初发布于[coreyja.com](https://coreyja.com/vim-fzf-with-devicons/)T3】*
 

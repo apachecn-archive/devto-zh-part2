@@ -6,7 +6,7 @@
 
 安全文献用一座古典寺庙来比喻精益原则是如何结合在一起的。
 
-[![Diagram of a Temple. The roof says value, the base says Leadership and there are four pillars. Respect for People and Culture, Flow, Innovation and Relentless Improvement](../Images/3afc96fc78cb8bab5f681a8b14864091.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9UOhQu1Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e2y10yhx5g4gfcvqrbu0.png) 
+[![Diagram of a Temple. The roof says value, the base says Leadership and there are four pillars. Respect for People and Culture, Flow, Innovation and Relentless Improvement](img/3afc96fc78cb8bab5f681a8b14864091.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9UOhQu1Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e2y10yhx5g4gfcvqrbu0.png) 
 圣殿的屋顶代表着向顾客传递价值的目标。其他一切都支持这个目标。
 
 圣殿的基础是**‘领导’**——因为它是根基。领导不是一种管理或一个特定的角色。相反，“领导”活动是每个人都做的事情。

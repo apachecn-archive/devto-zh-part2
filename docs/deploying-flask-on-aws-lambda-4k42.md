@@ -4,7 +4,7 @@
 
 在本文中，我们将指导您使用 Zappa 在 AWS Lambda 上部署 flask 应用程序。首先，我们将讨论这些实际上是什么，然后继续我们的主要目标。
 
-[![Alt text of image](../Images/4b0e721a5f62c2979b8d049d300f7759.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_4ego8OX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.com/images/Flask_AWS_Lambda.png)
+[![Alt text of image](img/4b0e721a5f62c2979b8d049d300f7759.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_4ego8OX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.cimg/Flask_AWS_Lambda.png)
 
 ## 烧瓶
 

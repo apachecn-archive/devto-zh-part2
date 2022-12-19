@@ -4,7 +4,7 @@
 
 如何在你的网站中使用 GitHub 库中的 markdown 文件作为静态内容？
 
-[![](../Images/69f756fbae480f757e2c6025cfbb175f.png)T2】](https://cdn-images-1.medium.com/max/1024/1*Trx5kyF44KU7WqS8kDRCTA.jpeg)
+[![](img/69f756fbae480f757e2c6025cfbb175f.png)T2】](https://cdn-images-1.medium.com/max/1024/1*Trx5kyF44KU7WqS8kDRCTA.jpeg)
 
 ### 上下文
 

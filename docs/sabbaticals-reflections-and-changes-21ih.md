@@ -14,7 +14,7 @@ I've had a few versions of this post floating around for longer than I care to t
 
 如果我完全诚实的话，警告信号在 2014 年就存在了。我甚至可能会在回顾展上看到一些。2016 年 1 月，我到达了一个点，至少我愿意承认一些事情是非常错误的，并找出我在哪里。于是我拿着 [Maslach 倦怠量表](https://en.wikipedia.org/wiki/Maslach_Burnout_Inventory)回看我发现了以下结果:
 
-<figure>[![…ouch.](../Images/07b41483d2505bfe4578ef55a3cce1b5.png "…ouch.")](https://res.cloudinary.com/practicaldev/image/fetch/s--R0haF1FX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.anonjr.com/img/2018-11-03-MBIResults.png)
+<figure>[![…ouch.](img/07b41483d2505bfe4578ef55a3cce1b5.png "…ouch.")](https://res.cloudinary.com/practicaldev/image/fetch/s--R0haF1FX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.anonjr.com/img/2018-11-03-MBIResults.png)
 
 <figcaption>
 ……哎哟。
@@ -34,7 +34,7 @@ I've had a few versions of this post floating around for longer than I care to t
 
 知道鉴于我的能量水平，我保留了这份工作，以确保我能走出家门，真正参与到历史悠久的与真人进行语言交流的传统中。
 
-<figure>[![Jabba, illustrating my energy levels.](../Images/294f1595d41a4a61f68c4ccec0555d78.png "Jabba, illustrating my energy levels.")](https://res.cloudinary.com/practicaldev/image/fetch/s--3C1qmmR3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.anonjr.com/img/2018-11-03_JabbaRelaxing.jpg) 
+<figure>[![Jabba, illustrating my energy levels.](img/294f1595d41a4a61f68c4ccec0555d78.png "Jabba, illustrating my energy levels.")](https://res.cloudinary.com/practicaldev/image/fetch/s--3C1qmmR3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.anonjr.com/img/2018-11-03_JabbaRelaxing.jpg) 
 
 <figcaption>
 贾巴，说明我的能量水平。

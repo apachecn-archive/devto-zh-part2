@@ -12,9 +12,9 @@
 
 共享存储示例
 
-[![](../Images/cd73bd2645dfe14a9c42afbdbceb0a8a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--npULL66x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.gyazo.com/d35c88597e72590b3e73d8618f26c061.gif)
+[![](img/cd73bd2645dfe14a9c42afbdbceb0a8a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--npULL66x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.gyazo.com/d35c88597e72590b3e73d8618f26c061.gif)
 
-[![](../Images/decff513f7afb337568a9482d35463e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qz2ub6fa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.gyazo.com/f946435f53d2cf0c4f875676ec23f84b.png)
+[![](img/decff513f7afb337568a9482d35463e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qz2ub6fa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.gyazo.com/f946435f53d2cf0c4f875676ec23f84b.png)
 
 ## 代码
 

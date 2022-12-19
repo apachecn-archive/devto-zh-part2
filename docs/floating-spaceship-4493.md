@@ -23,7 +23,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 中的基本概念`HTML`和`CSS`，
 
-[![notes](../Images/9e06885415f22396bf4b679233ef8e58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--urxBosBs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kp5kv1h3l06pe89d1vw0.jpg)
+[![notes](img/9e06885415f22396bf4b679233ef8e58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--urxBosBs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kp5kv1h3l06pe89d1vw0.jpg)
 
 [https://codepen.io/toomuchome/embed/eLMEKg?height=600&default-tab=result&embed-version=2](https://codepen.io/toomuchome/embed/eLMEKg?height=600&default-tab=result&embed-version=2)
 

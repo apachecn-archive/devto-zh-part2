@@ -12,9 +12,9 @@
 
 我做了这个问题:
 
-# [![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) 建议修改设计方向 #88](https://github.com/thepracticaldev/DEV-ios/issues/88) 
+# [![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) 建议修改设计方向 #88](https://github.com/thepracticaldev/DEV-ios/issues/88) 
 
-[![benhalpern avatar](../Images/2b95d19f70b4d1ccc724ce3ad9480e00.png)](https://github.com/benhalpern) **[benhalpern](https://github.com/benhalpern)** posted on [<time datetime="2018-11-01T18:19:53Z">Nov 01, 2018</time>](https://github.com/thepracticaldev/DEV-ios/issues/88)
+[![benhalpern avatar](img/2b95d19f70b4d1ccc724ce3ad9480e00.png)](https://github.com/benhalpern) **[benhalpern](https://github.com/benhalpern)** posted on [<time datetime="2018-11-01T18:19:53Z">Nov 01, 2018</time>](https://github.com/thepracticaldev/DEV-ios/issues/88)
 
 我想提出一个设计调整，简化这个应用程序的初始版本将被释放。
 
@@ -24,7 +24,7 @@
 
 因此，我认为我们应该使用一个精简的外壳，只提供 web 视图，web 导航到所有需要的内容，底部栏提供后退/前进和其他实用按钮(查看我当前所在的 URL？在 Safari 中打开？等等。)
 
-[![image from ios](../Images/f95cc5d93f38b3cea5e63fdc5bd8ca28.png)T2】](https://user-images.githubusercontent.com/3102842/47870349-bcd01880-dddf-11e8-97c5-5eb0e46e0ab6.jpg)
+[![image from ios](img/f95cc5d93f38b3cea5e63fdc5bd8ca28.png)T2】](https://user-images.githubusercontent.com/3102842/47870349-bcd01880-dddf-11e8-97c5-5eb0e46e0ab6.jpg)
 
 我们专注于网络，我们已经在网络上拥有所有需要的功能。我认为我们应该采用一种更精简的方法，发布一些至少能像网络一样工作的东西。
 
@@ -50,7 +50,7 @@
 
 我写了更多关于这种方法的文章，我认为我们做了一个很好的决定:
 
-[![The DEV Team](../Images/6b3a9c79aeecf790d5144f3fe1881f50.png)![](../Images/fe64a787b888dfb20fc13ad1e466da3d.png)](/devteam) [## 为什么不反应原生？为什么不扑？为什么不是流星？为什么不是 NativeScript？
+[![The DEV Team](img/6b3a9c79aeecf790d5144f3fe1881f50.png)![](img/fe64a787b888dfb20fc13ad1e466da3d.png)](/devteam) [## 为什么不反应原生？为什么不扑？为什么不是流星？为什么不是 NativeScript？
 
 ### 开发团队的 Ben Hal pern 10 月 26 日 182 分钟阅读
 
@@ -58,7 +58,7 @@
 
 我还发起了一个关于沉没成本谬误的帖子，并得到了许多有效的反馈:
 
-[![ben](../Images/fe64a787b888dfb20fc13ad1e466da3d.png)](/ben) [## 你有什么不好的“沉没成本谬误”的故事吗？
+[![ben](img/fe64a787b888dfb20fc13ad1e466da3d.png)](/ben) [## 你有什么不好的“沉没成本谬误”的故事吗？
 
 ### 本哈尔彭 11 月 2 日 181 分钟阅读
 

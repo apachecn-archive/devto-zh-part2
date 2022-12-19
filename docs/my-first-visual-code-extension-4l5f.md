@@ -43,7 +43,7 @@
 
 在 VS 代码中，如果调用:
 
-[![VS Code Quick Pick Screenshot](../Images/caf8b4105fefd08f1105f326cd5b02fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iwBJqfZI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.mokkapps.de/blog/img/vs-code-quick-pick.png%23c)
+[![VS Code Quick Pick Screenshot](img/caf8b4105fefd08f1105f326cd5b02fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iwBJqfZI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.mokkapps.de/blog/img/vs-code-quick-pick.png%23c)
 
 因此，这听起来像是一个列出所有测试块并提供接收所选值的方法的好机会。
 
@@ -55,7 +55,7 @@
 
 Jasmine 测试文件的最终输出如下所示:
 
-[![VS Code Jasmine Test Selector Screenshot](../Images/c66535a69e5e5d0fddf945a0f75a3083.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LJ-oZ-is--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.mokkapps.de/blog/img/jasmine-test-selector.png%23c)
+[![VS Code Jasmine Test Selector Screenshot](img/c66535a69e5e5d0fddf945a0f75a3083.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LJ-oZ-is--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.mokkapps.de/blog/img/jasmine-test-selector.png%23c)
 
 ## 发布扩展
 

@@ -12,4 +12,4 @@
 
 **当天报价**
 
-[![](../Images/97bd6e8130276598dab6b34e355fff83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EvjEWSCG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/1%2AEdLcmci8tRnL6OiqY5GUtA%402x.jpeg)
+[![](img/97bd6e8130276598dab6b34e355fff83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EvjEWSCG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/1%2AEdLcmci8tRnL6OiqY5GUtA%402x.jpeg)

@@ -6,11 +6,11 @@
 
 最终，您求助于终止 Docker 进程，这样，您的容器会成功地停止，并出现著名的`exit code 0`(如果您幸运的话)，或者它会因退出错误而被强行终止。
 
-[![Docker kill corrupts](../Images/13444f90e3a68f41bd54a7466711086a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4SDZWCPd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eomlakvyh35h9m4o5vw1.jpg)
+[![Docker kill corrupts](img/13444f90e3a68f41bd54a7466711086a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4SDZWCPd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eomlakvyh35h9m4o5vw1.jpg)
 
 如果由于终止容器而出现退出错误，则会导致与该容器相关联的卷中的数据损坏，因此，您必须重新构建容器。
 
-[![](../Images/e258e61a199e2391c93bc8a6dc49efe8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4a6bTTsp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9fy084yxhybykv80nhms.png)
+[![](img/e258e61a199e2391c93bc8a6dc49efe8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4a6bTTsp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9fy084yxhybykv80nhms.png)
 
 发生这种情况有两个原因:
 

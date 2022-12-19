@@ -6,19 +6,19 @@
 
 这是一个高层次的首尾流程图:
 
-[![Pipeline Diagram](../Images/ce390bf507c4ca088e211c918b70c2d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HnRFBfel--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/co8fvqp1z5ejy17hvgd7.png)
+[![Pipeline Diagram](img/ce390bf507c4ca088e211c918b70c2d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HnRFBfel--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/co8fvqp1z5ejy17hvgd7.png)
 
 那么，就从大家都知道的开始吧。我刚刚对回购做出了承诺
 
-[![GitHub commit](../Images/1c95723f00f45962bb0dbb90015d5da2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u1k03Ef6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p31t8163bupc1pj84rgf.png)
+[![GitHub commit](img/1c95723f00f45962bb0dbb90015d5da2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u1k03Ef6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p31t8163bupc1pj84rgf.png)
 
 我们的 Couchbase Lite 官方版本。NET 基于包含所需回购和分支以及在哪里检查它们的清单。这个清单格式来自谷歌工具[回购](https://source.android.com/setup/develop/repo)。我们有一个[脚本](https://github.com/couchbase/build/blob/master/scripts/jenkins/manifest/create-build-manifest)，它可以检测清单中密钥回购的变化，如果有变化，就会触发新的源抓取。它作为 Jenkins 作业运行(所有其他下游作业也是如此)。source scrape 将把正确提交时需要的所有存储库拉下来，并把它们全部压缩到一个 GZipped tarball 中进行归档(类似于 GitHub 的“下载 zip”功能，除了它可以跨多个 repos 工作)。然后，该源被上传到 NAS(网络访问共享)机器上，并在内部 HTTP 服务器上可用。
 
-[![Server listing](../Images/0750132a471a03d60afbda465706a590.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WeCfIU3h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xda2youyfalndjlkbzk7.png)
+[![Server listing](img/0750132a471a03d60afbda465706a590.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WeCfIU3h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xda2youyfalndjlkbzk7.png)
 
 所以这个提交导致了版本 2.1.0 的内部版本号 129 的源代码抓取。然后，该源抓取作业触发下游作业的构建。构建作业将提取新创建的源代码，并在其上运行构建脚本以生成 Nuget 包。企业版和社区版各做一次。这些包然后被上传到我们的内部 feed，由一个 [Proget 服务器安装](https://inedo.com/proget)托管。
 
-[![Proget package](../Images/bc0b09c3c60bed4aaf66b416a5546ae0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UPmJwBSR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p40wzr88knlbt9rne8ee.png)
+[![Proget package](img/bc0b09c3c60bed4aaf66b416a5546ae0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UPmJwBSR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p40wzr88knlbt9rne8ee.png)
 
 如果这个建筑是幸运的，这正是将被运送的。对大会没有任何进一步的改动。然而，这一进程远未结束。此时我将包上传到 nuget 提要的原因是因为我想检测任何打包错误，并确保发布的包是可用的。因此，包装本身本质上也在接受测试。
 

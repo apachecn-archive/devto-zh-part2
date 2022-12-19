@@ -14,7 +14,7 @@
 
 ### 第一步:为你的网站建立一个分析账户
 
-[![alt text](../Images/0e7e492ac273801aca524bba82fd4002.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ej94bEow--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AQBhKdgIKMXgi-ApHkl1ueA.png) 
+[![alt text](img/0e7e492ac273801aca524bba82fd4002.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ej94bEow--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AQBhKdgIKMXgi-ApHkl1ueA.png) 
 [在此注册账户](https://analytics.google.com/analytics/web/?authuser=0#provision/SignUp/)
 
 一旦你注册了一个帐户，进入管理面板。在管理面板中，从帐户下拉列表中为网站创建一个帐户。完成后，Google 将创建一个与帐户同名的属性，并为您提供跟踪代码。
@@ -23,11 +23,11 @@
 
 首先，让我们找到我们网站的唯一跟踪代码。导航到管理设置(齿轮图标)，进入“跟踪信息”并在“跟踪代码”下找到跟踪 ID。
 
-[![alt text](../Images/71649dbe991de5d03eeab3162e845225.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XU-_y11l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/0%2Al7ZGVSVBOzAU13NE.)
+[![alt text](img/71649dbe991de5d03eeab3162e845225.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XU-_y11l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/0%2Al7ZGVSVBOzAU13NE.)
 
 接下来，让我们将信息添加到我们的网站，这样我们就可以开始跟踪。在我们网站的索引头，添加以下代码片段。请确保替换为唯一的跟踪 ID。
 
-[![alt text](../Images/59cbae64db8e67e3e5bb3d8b42f1b42a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6MEplHQQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/krfiv418i1l7dpuo4nht.png)
+[![alt text](img/59cbae64db8e67e3e5bb3d8b42f1b42a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6MEplHQQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/krfiv418i1l7dpuo4nht.png)
 
 ### 第三步:发送您的第一个事件，并查看它的运行情况
 
@@ -37,13 +37,13 @@
 
 让我们关注必需的字段 eventCategory 和 eventAction，并使用 eventLabel 和 eventId 在事件中传递特定于事件的数据(在本例中，是所单击视频的名称和 Id)。我们将事件类别命名为“主页”来描述在主页上进行的操作，并将事件操作称为“预告片 _ 播放”。
 
-[![alt text](../Images/44ed586e69e13185eeab5c7e24f18cb1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GQOBiuyN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bpxhjlwqu8z94wv3jlva.png)
+[![alt text](img/44ed586e69e13185eeab5c7e24f18cb1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GQOBiuyN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bpxhjlwqu8z94wv3jlva.png)
 
 让我们通过触发我们的事件来尝试一下。在这种情况下，就是点击一个视频。
 
 为了确保事件正常运行，让我们转到 Google Analytics 门户，并选择实时事件。
 
-[![alt text](../Images/6e0493fa5657a5fed4ff9e330457785d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7uS7Is1w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AAvu-gniH2KbK6YCBX2c8YA.png)
+[![alt text](img/6e0493fa5657a5fed4ff9e330457785d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7uS7Is1w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AAvu-gniH2KbK6YCBX2c8YA.png)
 
 我们的视图应该反映我们刚刚在网页上触发的动作。
 
@@ -55,7 +55,7 @@
 
 让我们从第一个小部件开始。用 dimension 事件标签和 metric Total Events 制作一个 table 小部件，为了只显示“trailer_play”事件，添加一个过滤器，只显示事件动作“trailer_play”的数据。
 
-[![alt text](../Images/9a0aed4334b34b8015c9f371b5646a4e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kMcb1znr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/0%2AMv6FLhphVUH0vBHy.)
+[![alt text](img/9a0aed4334b34b8015c9f371b5646a4e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kMcb1znr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/0%2AMv6FLhphVUH0vBHy.)
 
 确保右上角的日期范围设置为包括今天的日期。如果幸运的话，我们之前发送的事件将已经填充到您的图表中(但是请耐心等待，数据可能需要几个小时才能显示出来)。
 
@@ -69,12 +69,12 @@
 
 在 Google Analytics 门户中，单击设置(齿轮图标)、自定义定义(在属性列下)、自定义指标，然后单击新建自定义指标。
 
-[![alt text](../Images/e93536656bccaef991f9bc3981545a87.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sDyKSwZP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/0%2ApHGEEF1j3pQ8gE3F.)
-[![alt text](../Images/406e52985d068f2ab2bbcad76f295335.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s---MwDQNtQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/0%2AS2XXL4DsyLtJwOym.)
+[![alt text](img/e93536656bccaef991f9bc3981545a87.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sDyKSwZP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/0%2ApHGEEF1j3pQ8gE3F.)
+[![alt text](img/406e52985d068f2ab2bbcad76f295335.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s---MwDQNtQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/0%2AS2XXL4DsyLtJwOym.)
 
 让我们将这个度量命名为“预告片播放”。现在让我们将范围设置为“Hit ”,格式类型设置为“Integer”。最后，确保选中活动，点击创建，然后完成。
 
-[![alt text](../Images/1dc4feb2bcf878a793e2b90f0700b6fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LVAGjCHy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AXs4wtaMYtLF4Q24S.)
+[![alt text](img/1dc4feb2bcf878a793e2b90f0700b6fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LVAGjCHy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AXs4wtaMYtLF4Q24S.)
 
 现在我们将对自定义维度做同样的事情。首先导航到设置(齿轮图标)、自定义定义(在属性列下)、自定义尺寸，然后选择新建自定义尺寸。
 
@@ -82,13 +82,13 @@
 
 每个自定义定义都与一个索引号相关联，我们将在发送事件时使用该索引号。通过导航至设置(齿轮图标)、自定义定义、自定义，查看并记录每个自定义指标和维度的这些指数。
 
-[![alt text](../Images/cc0f22f64b96fc0f3ff7b96bbadcb246.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5aqlN1TA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/0%2AhnKcIfA2PZcy_KNR.)
+[![alt text](img/cc0f22f64b96fc0f3ff7b96bbadcb246.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5aqlN1TA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/0%2AhnKcIfA2PZcy_KNR.)
 
 ### 步骤 6:发送包含您的自定义维度和指标的事件
 
 现在让我们回到我们的代码，重新安排如何发送我们的事件。我们可以保留所有的事件属性，但是也可以添加自定义的度量和维度。
 
-[![alt text](../Images/83ec1500d2a96284cd2aba63eeafca90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pO_tUSgs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/auykhjhh05c2895vef94.png)
+[![alt text](img/83ec1500d2a96284cd2aba63eeafca90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pO_tUSgs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/auykhjhh05c2895vef94.png)
 
 ### 步骤 7:创建一个小部件
 
@@ -96,7 +96,7 @@
 
 在返回控制面板时，请注意，这一次，当我们创建一个小部件时，我们的自定义维度和指标将显示在维度和指标下拉列表中，这使我们可以创建一个图表来准确显示我们想要的内容。
 
-[![alt text](../Images/01b522b7350c2a312f365fa2927d3b15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iaCvIQkz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2Ay8B54Oh5vVBKEi-4.)
+[![alt text](img/01b522b7350c2a312f365fa2927d3b15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iaCvIQkz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2Ay8B54Oh5vVBKEi-4.)
 
 就是这样！我们在谷歌分析中创建了定制的事件跟踪。现在，我们正在跟踪网站上发生的实际事件，我们将能够更好地管理我们的内容，并为我们的用户群策划我们的产品。
 

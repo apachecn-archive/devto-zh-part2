@@ -17,7 +17,7 @@
 1.  这些建议泛泛而谈，毫无用处。每个候选人都被描述为积极主动的团队成员，以个人发展为目标。等等等等。如果你去掉那些废话，你会发现你在和一个平庸的程序员打交道，他的投资组合很无聊。公司和候选人都在浪费时间和代理机构交谈，因为无论如何，我们都必须自己解决大部分问题。最有趣的事实是那些不被记录在案的。
 
 2.  一家机构曾经将这些建议保存为 DOCX 文件。我在 Ubuntu 上工作，LibreOffice 没有正确地呈现这些文件，从页面中丢弃了一些内容。我不得不切换到 Windows，启动 Microsoft Word，为自己准备一个 PDF 文件，然后再切换回来。最终，人力资源部的人学会了如何自己创建 PDF。真是如释重负。
-    [![How do I convert to PDF?](../Images/31bb356a458d5c3b066af4270c444282.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--kZK6TF37--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k2zna3qgk9m5ukphjuqz.jpg)
+    [![How do I convert to PDF?](img/31bb356a458d5c3b066af4270c444282.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--kZK6TF37--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k2zna3qgk9m5ukphjuqz.jpg)
 
 3.  同一家机构剥离了我的招聘任务。它最初是一个 GitHub repo，由根目录中的一些重要文件(`composer.json`、`docker-compose.yml`、`phpunit.xml.dist`和最重要的`README.md`)组成！)和一个`tests`目录。你必须写一个简单的实现，通过我所有的测试。我惊讶地发现，那家机构送来的候选人都是自己重写了`composer.json`。我问他们:“你们为什么要这么做？整个自动加载器都是在那里定义的！."原来中介给候选人发的只是`tests`目录。当然，他们没有发送完整的回购协议——候选人可以找到是哪家公司完成了这项任务。目标公司的名字在开始时是最高机密——我鲁莽地把它作为 PSR-4 名称空间的供应商部分。
 

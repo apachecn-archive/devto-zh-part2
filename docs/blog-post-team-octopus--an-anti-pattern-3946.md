@@ -39,7 +39,7 @@
 
 –2 名测试人员，其中 1 名还担任测试经理
 
-–1 名产品经理—*即我* [![🙂](../Images/2ea3454d48c385c4b31b2c45b77b4229.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zCyXRrdx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f642.png)
+–1 名产品经理—*即我* [![🙂](img/2ea3454d48c385c4b31b2c45b77b4229.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zCyXRrdx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f642.png)
 
 产品经理和前端开发人员设计特性，开发人员开发，测试人员测试。我们的团队经理负责确保运营问题与新功能的平衡，一切都很顺利——除了似乎永无止境的积压，但这似乎是游戏的一部分。
 

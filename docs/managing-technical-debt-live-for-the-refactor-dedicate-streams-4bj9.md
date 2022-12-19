@@ -17,7 +17,7 @@
 
 即使是最简单的服务也会达到耗尽点，需要一些工作来恢复。
 
-> ![](../Images/61db12ee8a577c20aba59ee2834ed6c5.png)图钉板@图钉板![](../Images/4d9c44713c216584b3d48ff3455cbb68.png)网站将停机几分钟以修复标记问题。2018 年 3 月 22 日上午 11:06[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=976777215470837761)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=976777215470837761)2[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=976777215470837761)18
+> ![](img/61db12ee8a577c20aba59ee2834ed6c5.png)图钉板@图钉板![](img/4d9c44713c216584b3d48ff3455cbb68.png)网站将停机几分钟以修复标记问题。2018 年 3 月 22 日上午 11:06[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=976777215470837761)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=976777215470837761)2[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=976777215470837761)18
 
 大多数情况下，当代码是一个类似于纸牌屋的复杂拼图的一部分，并且破坏系统的风险远远大于维护系统的痛苦时，代码会停留数年。
 

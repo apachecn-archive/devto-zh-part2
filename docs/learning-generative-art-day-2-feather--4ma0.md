@@ -8,9 +8,9 @@
 
 我画了一幅表现羽毛的图像；这是地球上任何生物都没有的美好事物。
 
-[![image](../Images/2d7883d73a73a005daa76119aefd52b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--THrBQRER--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/39481377-353be79c-4da6-11e8-9746-6f8a4cc4e12e.png)
+[![image](img/2d7883d73a73a005daa76119aefd52b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--THrBQRER--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/39481377-353be79c-4da6-11e8-9746-6f8a4cc4e12e.png)
 
-[![image](../Images/c0cbb71d5218487a54eba1c35a974a6c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5ljwmXSx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/39481690-3c932dce-4da7-11e8-9659-00ba54532ba9.png)T3】
+[![image](img/c0cbb71d5218487a54eba1c35a974a6c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5ljwmXSx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/39481690-3c932dce-4da7-11e8-9659-00ba54532ba9.png)T3】
 
 ```
 function setup() {

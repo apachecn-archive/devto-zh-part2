@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/onmyway133/using-bitrise-ci-for-android-apps-5e3k>
 
-[![](../Images/256eec26ce67323fbf5adfe7192146fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G67Vpsx8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AgoLDTJPdKbN2rR46dC3Xag%402x.jpeg)
+[![](img/256eec26ce67323fbf5adfe7192146fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G67Vpsx8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AgoLDTJPdKbN2rR46dC3Xag%402x.jpeg)
 
 CI 是持续集成的缩写，是一个快速自信地将代码集成到共享存储库中的良好实践。让拉请求被构建、测试和发布构建被分发给测试人员的能力允许团队验证自动化构建并快速识别问题。
 
@@ -20,21 +20,21 @@ CI 是持续集成的缩写，是一个快速自信地将代码集成到共享�
 
 通常，我希望应用程序模块和 stagingRelease 构建变体，因为我们需要将阶段构建部署到内部测试人员。
 
-[![](../Images/40620493c8386de581db88d995809748.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tkmAQ7O1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2882/1%2AuJGkaQ0EvmDIM_T3ZTmuZw.png)
+[![](img/40620493c8386de581db88d995809748.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tkmAQ7O1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2882/1%2AuJGkaQ0EvmDIM_T3ZTmuZw.png)
 
 如果转到 Bitrise.yml 选项卡，可以看到配置文件已经更新。这非常方便。我使用过一些其他的 CI 服务，我需要查找他们关于如何使用 yml 的文档。
 
-[![](../Images/283a777ddbce755fd7a9bcb3b65655d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CGyjzqE8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2836/1%2Az9eotS_Dyetx4ubtjWsnjg.png)
+[![](img/283a777ddbce755fd7a9bcb3b65655d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CGyjzqE8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2836/1%2Az9eotS_Dyetx4ubtjWsnjg.png)
 
 ## 自动撞版码
 
 我以前用过一些其他 CI 服务，app 版本代码肯定不是从 0 开始的。因此，Bitrise 可以从当前的版本号自动删除版本代码是有道理的。工作流中有一些预定义的步骤，但它们不能满足我的需要
 
-[![](../Images/013e5ac14b4e3d945ccf9e8f56c15baf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nKXxxelG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AMsojdXPWw9WMzVa8SuOtDA.png)
+[![](img/013e5ac14b4e3d945ccf9e8f56c15baf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nKXxxelG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AMsojdXPWw9WMzVa8SuOtDA.png)
 
 对于设置 Android 清单版本代码和名称步骤，源代码是[这里是](https://github.com/jamesmontemagno/steps-set-android-manifest-versions/blob/master/step.sh)，所以我理解它做什么。它通过使用 sed 修改 AndroidManifest.xml 文件来工作。这条[调你的建号](https://blog.bitrise.io/adjust-your-build-numbers)不够清晰。
 
-[![](../Images/6607d35314954d8ec3f1b0359f288d59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c5rOQ95v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2076/1%2AWDmvpUHp23a-jBjWVfN00Q.png)
+[![](img/6607d35314954d8ec3f1b0359f288d59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c5rOQ95v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2076/1%2AWDmvpUHp23a-jBjWVfN00Q.png)
 
 ```
 sed -i.bak “s/android:versionCode=”\”${VERSIONCODE}\””/android:versionCode=”\”${CONFIG_new_version_code}\””/” ${manifest_file} 
@@ -54,7 +54,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 243 是这个项目的当前版本代码，所以让我们转到应用程序的设置，并更改您的下一个版本号将是
 
-[![](../Images/55efb5647d70f8c6b426461ed55f77de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k5nhJeik--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2254/1%2AxUOPh2zy6V6hMPPty_PMXg.png)
+[![](img/55efb5647d70f8c6b426461ed55f77de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k5nhJeik--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2254/1%2AxUOPh2zy6V6hMPPty_PMXg.png)
 
 ## 部署到结构
 
@@ -118,7 +118,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 转到 Fabric.io 上的应用程序，创建一组测试人员。请注意为该组生成别名
 
-[![](../Images/73dbb52c1832e8ecb57ed29cca495cfd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3fbf2iP6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AHMeW8VGqC6OWRizl0cC5BQ.png)
+[![](img/73dbb52c1832e8ecb57ed29cca495cfd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3fbf2iP6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AHMeW8VGqC6OWRizl0cC5BQ.png)
 
 转到您的应用程序的 build.gradle，将 ext . beta distribution group aliases = ' my-internal-testers '添加到您所需的产品风格或构建类型中。对我来说，我在 productFlavors 下添加了 staging
 
@@ -142,7 +142,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 转到“工作流”选项卡，添加一个 Gradle 运行步骤，并将其放在“部署到 Bitrise.io 步骤”下面。
 
-[![](../Images/2b82919e756d0646792c2e553814f55a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9GQkgXJI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2782/1%2AoHUZoX-rdiqXjTV9SFFcKA.png)
+[![](img/2b82919e756d0646792c2e553814f55a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9GQkgXJI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2782/1%2AoHUZoX-rdiqXjTV9SFFcKA.png)
 
 展开“配置”,并将 assembleStagingRelease crashlyticsuploaddistributionstaginrelease 添加到要运行的 Gradle 任务。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/svikashk/time-is-costly-estimation-is-key-how-to-estimate-projects-3mjf>
 
-[![Time Is Costly, Estimation Is Key: How To Estimate Projects](../Images/1ebed62f5da5394ce820f932b8a20e03.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1KkiTTzX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1533749047139-189de3cf06d3%3Fixlib%3Drb-0.3.5%26q%3D80%26fm%3Djpg%26crop%3Dentropy%26cs%3Dtinysrgb%26w%3D1080%26fit%3Dmax%26ixid%3DeyJhcHBfaWQiOjExNzczfQ%26s%3D87fc17230df396d97f9d72e5a5ee389d)
+[![Time Is Costly, Estimation Is Key: How To Estimate Projects](img/1ebed62f5da5394ce820f932b8a20e03.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1KkiTTzX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1533749047139-189de3cf06d3%3Fixlib%3Drb-0.3.5%26q%3D80%26fm%3Djpg%26crop%3Dentropy%26cs%3Dtinysrgb%26w%3D1080%26fit%3Dmax%26ixid%3DeyJhcHBfaWQiOjExNzczfQ%26s%3D87fc17230df396d97f9d72e5a5ee389d)
 
 在开发人员和产品经理中，没有比评估更有争议的话题了。
 
@@ -30,7 +30,7 @@
 
 我们看到一些文章提出了一个通用的公式，比如:“想想你需要多长时间来构建这个特性，然后增加两倍。”
 
-[![Time Is Costly, Estimation Is Key: How To Estimate Projects](../Images/d85a548a1090665f3d2e5329ae09074e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uXRRPtch--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.zepel.io/content/images/2018/09/generic-formula-for-estimation-1.png) 
+[![Time Is Costly, Estimation Is Key: How To Estimate Projects](img/d85a548a1090665f3d2e5329ae09074e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uXRRPtch--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.zepel.io/conteimg/2018/09/generic-formula-for-estimation-1.png) 
 
 <small>图片来源: [xkcd](https://xkcd.com/1658/)</small>
 
@@ -56,7 +56,7 @@
 
 当开发人员被迫在截止日期前完成任务时，他们很可能没有彻底考虑问题，低估了复杂性，并做出让经理满意的估计。
 
-[![Time Is Costly, Estimation Is Key: How To Estimate Projects](../Images/c0c36739f5a2f2e1935894560276ade7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qAiBgRBM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.zepel.io/content/images/2018/09/wrong-estimates-to-satisfy-manager.gif) 
+[![Time Is Costly, Estimation Is Key: How To Estimate Projects](img/c0c36739f5a2f2e1935894560276ade7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qAiBgRBM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.zepel.io/conteimg/2018/09/wrong-estimates-to-satisfy-manager.gif) 
 
 <small>形象演职员表:[呆伯特](http://dilbert.com/)</small>
 
@@ -102,7 +102,7 @@ b .部分已知的任务:
 
 通常，这些任务需要你花一个小时到至少半天的时间去理解需要用到的技术，并思考如何执行。
 
-[![Time Is Costly, Estimation Is Key: How To Estimate Projects](../Images/4e1985a79f83ab79979d5f3f0e0adcae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zdzFoq8x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.zepel.io/content/images/2018/09/types-of-tasks-during-estimation-4.png)
+[![Time Is Costly, Estimation Is Key: How To Estimate Projects](img/4e1985a79f83ab79979d5f3f0e0adcae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zdzFoq8x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.zepel.io/conteimg/2018/09/types-of-tasks-during-estimation-4.png)
 
 构建软件很少是关于构建你已经知道如何执行的同样的东西。主要是找到让不同的工具(API 和库)为您工作的方法，按照您希望的方式。这意味着研究在获得准确的评估中扮演着重要的角色。
 
@@ -116,7 +116,7 @@ b .部分已知的任务:
 
 我们可以通过查看一个流行的概念来更好地理解这一点，这个概念被称为不确定性圆锥，它表示您对如何实现项目越不确定，您的估计也就越不确定。
 
-[![Time Is Costly, Estimation Is Key: How To Estimate Projects](../Images/f11e84a8f4456d6f9c4552d11676e524.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QJBkZjZy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.zepel.io/content/images/2018/09/cone-of-uncertainity.jpg) 
+[![Time Is Costly, Estimation Is Key: How To Estimate Projects](img/f11e84a8f4456d6f9c4552d11676e524.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QJBkZjZy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.zepel.io/conteimg/2018/09/cone-of-uncertainity.jpg) 
 
 <small>不确定的圆锥体。图片来源:[信息](http://www.informit.com/articles/article.aspx?p=1374899)</small>
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/letsbsocial1/installing-pgadmin-only-after-installing-postgresql-with-homebrew-part-2-4k44>
 
-[![postgresql](../Images/d0a236745c4fc03b006a2fc5625f59fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gaI7Ff9D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6lu26u1oaysf8cdfiiux.png)
+[![postgresql](img/d0a236745c4fc03b006a2fc5625f59fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gaI7Ff9D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6lu26u1oaysf8cdfiiux.png)
 
 这篇文章假设你已经在某个地方备份了你现有的数据库(如果你关心它们的话！).我不会跳过这些步骤。
 

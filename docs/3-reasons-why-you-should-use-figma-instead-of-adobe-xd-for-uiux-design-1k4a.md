@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/steelwolf180/3-reasons-why-you-should-use-figma-instead-of-adobe-xd-for-uiux-design-1k4a>
 
-[![Photo by Jeff Sheldon on Unsplash](../Images/c4bd463cfb79e1ff20ef26dd4a08e8bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--akvIwyFh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/007davp7i8zwmn1yqfq6.jpg)
+[![Photo by Jeff Sheldon on Unsplash](img/c4bd463cfb79e1ff20ef26dd4a08e8bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--akvIwyFh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/007davp7i8zwmn1yqfq6.jpg)
 
 ## 简介
 

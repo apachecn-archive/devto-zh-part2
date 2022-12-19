@@ -4,7 +4,7 @@
 
 为你的企业开发一个软件，不管是 UNIX 还是微软的应用程序，可能是一种需要，也可能是进一步支持你的企业的愿望。当您最终决定进行定制软件开发时，在尝试选择最佳软件产品开发公司时，会出现一个两难问题。这是因为软件开发公司的数量众多。
 
-[![](../Images/3c79c8de073019222e3b4d433353eadf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--e628Cco9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/69mphasazf9kwgrc1krh.jpg) 
+[![](img/3c79c8de073019222e3b4d433353eadf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--e628Cco9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/69mphasazf9kwgrc1krh.jpg) 
 就像选择合适的建筑承包商来建造你的房子一样，在决定使用软件产品开发公司时，必须进行适当的分析。如果你做不到这一点，最终你会得到一个非常糟糕的软件产品。
 在本帖中，我们将考虑选择最佳软件产品开发公司的标准。
 

@@ -137,7 +137,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 另一方面，代码清晰简单，测试起来并不困难。但是如果你觉得你的具体情况需要一些解释，那么我鼓励你记录这样的设计决策。
 
-[![Risk inside](../Images/439f91a0eac85017734369fdb6a1601c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hhIshcT2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c4rgadokwclqmgsfrs75.jpg)
+[![Risk inside](img/439f91a0eac85017734369fdb6a1601c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hhIshcT2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c4rgadokwclqmgsfrs75.jpg)
 
 ## 可空#1:无崩溃方法
 

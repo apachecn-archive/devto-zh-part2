@@ -21,7 +21,7 @@ clear 属性可以有以下值:
 
 咨询了[能不能用](https://caniuse.com/#search=clear)服务，看到支持度是**超过 87%** 。
 
-[![clear_usage](../Images/6e79448623adf9c509e33a65495199ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Il84klNm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/02/clear_usage.png)
+[![clear_usage](img/6e79448623adf9c509e33a65495199ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Il84klNm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/02/clear_usage.png)
 
 ## 例子
 
@@ -55,7 +55,7 @@ CSS
 } 
 ```
 
-[![clear_example_1](../Images/9f93c73b1e499849cffaf6ccc7c5c254.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--30-8HV_T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/02/clear_example_1.png)
+[![clear_example_1](img/9f93c73b1e499849cffaf6ccc7c5c254.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--30-8HV_T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/02/clear_example_1.png)
 
 这里你可以看到 div 应用了 **float: left** 。当我将**设置为 clear: left** 到文本段落后，它**移到了浮动元素**的下面。
 
@@ -89,7 +89,7 @@ CSS
 } 
 ```
 
-[![clear_example_2](../Images/fecc072cb1991537945b7cef5bc3f022.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xF0yzDwC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/02/clear_example_2.png)
+[![clear_example_2](img/fecc072cb1991537945b7cef5bc3f022.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xF0yzDwC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/02/clear_example_2.png)
 
 接下来，您可以看到两个带有 **float: right** 属性的 div 和一个带有 **clear: right** 属性的段落。通过设置这个，段落被移动到浮动元素下面**。**
 
@@ -131,7 +131,7 @@ CSS
 } 
 ```
 
-[![clear_example_3](../Images/1afb392a0ce267f9f77fc5973ae5eeef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7MmyPDUo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/02/clear_example_3.png)
+[![clear_example_3](img/1afb392a0ce267f9f77fc5973ae5eeef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7MmyPDUo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/02/clear_example_3.png)
 
 最后，最后一个例子展示了 **clear: both** 属性的用法。两个 div 被浮动**左右**，而段落被添加了 clear 属性。这样，**被移动到两个[浮动元素](http://kolosek.com/css-float/)的**下方。值得一提的是，这是最常用的 clear 属性。
 

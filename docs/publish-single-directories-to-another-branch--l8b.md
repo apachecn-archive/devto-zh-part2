@@ -48,7 +48,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 然后转到您的 GitHub 并进入您的回购设置。
 
-[![GitHub Pages Settings](../Images/4bf485edfa5552e206889492283b5a81.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p1PaCFt3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assertnotmagic.com/img/gh-pages-settings.png)
+[![GitHub Pages Settings](img/4bf485edfa5552e206889492283b5a81.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p1PaCFt3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assertnotmagic.com/img/gh-pages-settings.png)
 
 将您创建的分支设置为公共分支。就是这样！去`<your-username>.github.io/<repo-name>`跳你的快乐舞吧！
 

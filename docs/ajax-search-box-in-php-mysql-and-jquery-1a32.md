@@ -12,4 +12,4 @@ HTML 的这个搜索框完全由 JQuery 函数控制。在输入字段(例如搜
 
 [PHP、MySQL 和 JQuery 中的 Ajax 搜索框](https://www.skptricks.com/2017/11/ajax-search-box-in-php-mysql-and-jquery.html)
 
-[![](../Images/4c420cda4448a6de3ea5cb129cd60799.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1ffRkeKj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://3.bp.blogspot.com/--Ah2DJf733k/WgaEnVtUezI/AAAAAAAABBA/23V9uC3mfoY_yFbFcADr3REflM60P_uqACLcBGAs/s400/output_3R0ERu.gif)
+[![](img/4c420cda4448a6de3ea5cb129cd60799.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1ffRkeKj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://3.bp.blogspot.com/--Ah2DJf733k/WgaEnVtUezI/AAAAAAAABBA/23V9uC3mfoY_yFbFcADr3REflM60P_uqACLcBGAs/s400/output_3R0ERu.gif)

@@ -8,7 +8,7 @@
 
 与任何其他资源一样，GCP 存储与项目相关联。在 GCP，当我说“存储”时，它可能包括您可以存储结构化数据的 SQL 或 Datastore，但在这篇博客中，我只谈论存储非结构化数据的存储。
 
-[![storage](../Images/13cdda4d736ed157ca554523300e4601.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZKpLmU00--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d815fo6i2pni0ogrm8qf.PNG)
+[![storage](img/13cdda4d736ed157ca554523300e4601.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZKpLmU00--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d815fo6i2pni0ogrm8qf.PNG)
 
 它需要“桶”来存储数据，所以我需要创建一个桶。
 
@@ -35,7 +35,7 @@
 好了，说够了！！让我们写代码，因为这是我感兴趣的。
 
 1.首先，我创建 bucket。有几种方法可以创建它，但是我在 portal 中使用 CLI。进入[谷歌云控制台](https://portal.azure.com)，选择“云壳”。
-T3![portal](../Images/9bd6125162abba0814939581de138e98.png)T5】
+T3![portal](img/9bd6125162abba0814939581de138e98.png)T5】
 
 2.运行代码来创建 bucket。我一直使用“g cloud”CLI，但是对于存储，我需要使用“gsutil”。这将创建多区域存储，因为我将位置指定为“US”。
 
@@ -45,7 +45,7 @@ gsutil mb -l us gs://cloudcomparestorage20180306
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![storage](../Images/880fad351f53e46167147009439bf2be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QDH7V2cK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ncw9d61pyoge7qwgl02i.PNG)
+[![storage](img/880fad351f53e46167147009439bf2be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QDH7V2cK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ncw9d61pyoge7qwgl02i.PNG)
 
 3.现在我需要向服务部门认证。似乎有几种方法可以做到这一点，但是我通过在本地运行以下命令来直接进行身份验证。如果你还没有 gcloud，从[这里](https://cloud.google.com/sdk/)安装。
 
@@ -58,13 +58,13 @@ gcloud auth application-default login
 Enter fullscreen mode Exit fullscreen mode
 
 4.创建存储桶并完成身份验证后，打开 Visual Studio 并创建新项目。选择“ASP。NET 核心 Web 应用程序”并创建它。
-[![code](../Images/4d70a3433beb334686830df748fe2651.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--VDKh95RY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gx6qz5gs705tig6ntqxc.PNG)
+[![code](img/4d70a3433beb334686830df748fe2651.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--VDKh95RY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gx6qz5gs705tig6ntqxc.PNG)
 
 5.选择“Web API”并单击确定。
-[![code](../Images/5821566eb997b9130d401ace6f9158d3.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--JK14pkXN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hs7f1sokt46yoxoqnrvq.PNG)
+[![code](img/5821566eb997b9130d401ace6f9158d3.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--JK14pkXN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hs7f1sokt46yoxoqnrvq.PNG)
 
 6.添加“谷歌。Cloud.Storage.V1" NuGet 包。
-[![code](../Images/e7298150261e5540601e379a734813b9.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--WgUWZDZk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6q6n6juyfqgxcuag6u6e.PNG)
+[![code](img/e7298150261e5540601e379a734813b9.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--WgUWZDZk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6q6n6juyfqgxcuag6u6e.PNG)
 
 7.将现有的“ValueController.cs”重命名为“StorageController.cs”，然后粘贴代码。在第 20 行替换存储键。
 
@@ -146,27 +146,27 @@ Enter fullscreen mode Exit fullscreen mode
 1.按 F5 调试应用程序。检查地址和端口。
 
 2.打开 [Postman](https://www.getpostman.com/) 选择“POST”作为动词，输入端点地址，然后点击“Body”。
-T3![test](../Images/ca5cedcb10993adac23de62c1b7d56ba.png)T5】
+T3![test](img/ca5cedcb10993adac23de62c1b7d56ba.png)T5】
 
 3.从下拉键中选择“文件”。
-[![test](../Images/8ed9bf9c49e519598daf45d80a4dafc1.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--TM1tmQYk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/apkmtwbv6sownxrd20pf.PNG)
+[![test](img/8ed9bf9c49e519598daf45d80a4dafc1.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--TM1tmQYk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/apkmtwbv6sownxrd20pf.PNG)
 
 4.输入“文件”键，从本地电脑中选择任何图像文件，然后点击“发送”。我选择了“apple-touch-icon.png”。
-[![test](../Images/1db1d81697cff376ddc3d5ac6bbf4f4a.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--AdQjPzfY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qnnvallbjcby88tn4nef.PNG)
+[![test](img/1db1d81697cff376ddc3d5ac6bbf4f4a.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--AdQjPzfY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qnnvallbjcby88tn4nef.PNG)
 
 5.将动词从“POST”改为“GET”，然后在地址前加上“/”。
-[![test](../Images/3ed40eafe0fe7b1dd1c26fdc419fa4fb.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--GKiOTt-o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u5aqmge0pgczjtbtpux9.PNG)
+[![test](img/3ed40eafe0fe7b1dd1c26fdc419fa4fb.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--GKiOTt-o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u5aqmge0pgczjtbtpux9.PNG)
 
 6.转到 Google Cloud 控制台，导航到存储，查看文件是否存在。
-[![test](../Images/dd33c9e2f9627c716cc3d5d951a25d1d.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--W6FGb-Ao--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sgvde0x65sebh7z0oy0l.PNG)
+[![test](img/dd33c9e2f9627c716cc3d5d951a25d1d.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--W6FGb-Ao--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sgvde0x65sebh7z0oy0l.PNG)
 
 7.点击“公开分享”按钮，你可以从任何地方访问它。
-[![test](../Images/5fe1e7378ab54af93a84abe6093e1ccf.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--U8u-KNYm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q8o0orp0agnruqlbi2h1.PNG)
+[![test](img/5fe1e7378ab54af93a84abe6093e1ccf.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--U8u-KNYm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q8o0orp0agnruqlbi2h1.PNG)
 
 [https://storage.googleapis.com/](https://storage.googleapis.com/)//
 
 8.在 Postman 中，将动词改为“删除”并点击发送。
-[![test](../Images/1440b541b59a3ebb0bab2c619603eb6c.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--6Fa9t4Dt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i9g9q7zv4zozxbpmpjzq.PNG)
+[![test](img/1440b541b59a3ebb0bab2c619603eb6c.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--6Fa9t4Dt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i9g9q7zv4zozxbpmpjzq.PNG)
 
 # 部署到各个平台
 
@@ -205,7 +205,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 3.文件生成后，复制到本地，添加到 Visual Studio 2017 项目根目录。
 
-[![key](../Images/262f60b921dc8dd1bd5bf1e9631844c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5tvvwngK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bw6lchvy60mikv55ulrz.PNG)
+[![key](img/262f60b921dc8dd1bd5bf1e9631844c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5tvvwngK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bw6lchvy60mikv55ulrz.PNG)
 
 4.更改 StorageClient 初始化代码以传递密钥。
 

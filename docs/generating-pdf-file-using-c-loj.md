@@ -12,7 +12,7 @@
 *   terms 部分-包含附加的字符串列表；
 *   页脚-可选部分，在页面底部放置一个字符串。
 
-[![The invoice layout](../Images/172ca47404b77aa3eeb52fbaa2db8080.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yurGaPcJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xgjs7mpkeynb6atjmas1.jpg)
+[![The invoice layout](img/172ca47404b77aa3eeb52fbaa2db8080.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yurGaPcJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xgjs7mpkeynb6atjmas1.jpg)
 
 *免责声明:*请注意，Apose.PDF 是一个付费产品，但试用版完全适合做一些实验，如创建一个长达 4 页的文档。
 

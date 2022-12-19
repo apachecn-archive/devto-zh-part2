@@ -4,19 +4,19 @@
 
 生产数据库上的数据库迁移从来都不简单。根据请求的数量，一些团队将数据库迁移安排在非工作时间。按照下面提到的步骤，通过一个实例，您可以在零停机或最小停机时间的情况下运行 alter 语句。
 
-[![How to Do a Zero Downtime Database (DB) Migration (Schema Change) With a Practical Example](../Images/9d0ee56044a9fc645ea3ad4e5fa3a347.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LFfGhPNZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://geshan.com.np/images/db-migration/db-migration.png)
+[![How to Do a Zero Downtime Database (DB) Migration (Schema Change) With a Practical Example](img/9d0ee56044a9fc645ea3ad4e5fa3a347.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LFfGhPNZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://geshan.com.img/db-migration/db-migration.png)
 
 ## 举例
 
 作为这篇文章的例子，让我们假设你在一家电子商务公司工作，这家公司既有老客户也有新客户。您的合作伙伴公布了在给定日期范围内有效的折扣代码，并通过他们的折扣代码跟踪了订单总额的百分比。下面是合作伙伴和优惠券代码的模式。以下是任何更改之前的初始模式:
 
-[![](../Images/82e52cf737161cff728fd6f407e2f91c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t_Xyevdg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2Abq4fOX7aEBuZKo4u.png)
+[![](img/82e52cf737161cff728fd6f407e2f91c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t_Xyevdg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2Abq4fOX7aEBuZKo4u.png)
 
 现在，新的要求是跟踪新客户和老客户的不同佣金百分比。新客户和老客户由不同的系统/微服务进行评估，它还负责根据订单总额计算佣金，这不在本示例的讨论范围内。
 
 为了按客户类型进行佣金跟踪，我们将决定添加两个新列 commission _ percent _ new _ customer，commission _ percent _ recurring _ customer，困难的问题是如何在不停机的情况下推出它。
 
-[![](../Images/a777663c4e3b342b73d6a28aa2fe0e25.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I417p0Tk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AwkW6wq3-PGORXQ-k.png)
+[![](img/a777663c4e3b342b73d6a28aa2fe0e25.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I417p0Tk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AwkW6wq3-PGORXQ-k.png)
 
 ## 迁移脚本(DB schema alter 语句)
 
@@ -63,7 +63,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 删除 commission_percent 列后的最终模式
 
-[![](../Images/4bca894fd58686e004a838b29c847316.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vv9XVt6v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2Al8KoNkohtfWPY0tp.png)
+[![](img/4bca894fd58686e004a838b29c847316.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vv9XVt6v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2Al8KoNkohtfWPY0tp.png)
 
 ## 要考虑的事情
 

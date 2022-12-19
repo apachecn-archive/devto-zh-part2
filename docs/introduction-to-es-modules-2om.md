@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/flaviocopes/introduction-to-es-modules-2om>
 
-[![ES Modules](../Images/318f9c0447536d70c06d0cc0f826cd31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZAv-Tbv3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://flaviocopes.com/es-modules/banner.jpg)
+[![ES Modules](img/318f9c0447536d70c06d0cc0f826cd31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZAv-Tbv3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://flaviocopes.com/es-modules/banner.jpg)
 
 *   ES 模块介绍
 *   ES 模块语法
@@ -19,7 +19,7 @@ ES 模块是使用模块的 ECMAScript 标准。
 
 模块非常酷，因为它们可以让你封装各种功能，并将这些功能作为库暴露给其他 JavaScript 文件。
 
-[![ES Modules Support](../Images/e048daac824cd84f4e8a7e61d188de8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A3JyU1pF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://flaviocopes.com/es-modules/browser-support.png)
+[![ES Modules Support](img/e048daac824cd84f4e8a7e61d188de8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A3JyU1pF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://flaviocopes.com/es-modules/browser-support.png)
 
 ## ES 模块语法
 

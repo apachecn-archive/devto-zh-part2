@@ -10,7 +10,7 @@
 
 到本文结束时，我们将构建一个如下所示的应用程序:
 
-[![](../Images/5c451b3f82fc0e042c63c89385e37600.png)T2】](//images.ctfassets.net/1es3ne0caaid/3dhebYl8aAm4cCME4Os2ys/4d39432a0bd39156cf8556c15649a2f1/go-comments-demo.gif)
+[![](img/5c451b3f82fc0e042c63c89385e37600.png)T2】](//images.ctfassets.net/1es3ne0caaid/3dhebYl8aAm4cCME4Os2ys/4d39432a0bd39156cf8556c15649a2f1/go-comments-demo.gif)
 
 ## 要求
 
@@ -28,7 +28,7 @@
 
 去 Pusher 网站创建一个帐户。创建帐户后，您应该创建一个新的应用程序。遵循应用程序创建向导，然后您应该获得您的应用程序凭证，我们将在本文后面使用它。
 
-[![](../Images/b8ac2f2ee7d1b8b5cebe1d93f03e532c.png)T2】](//images.ctfassets.net/1es3ne0caaid/2h3e4hp58cIW6acMc8Mgy0/dfeac8f3cdffb41174e93ad567233cd0/go-comments-app-keys.png)
+[![](img/b8ac2f2ee7d1b8b5cebe1d93f03e532c.png)T2】](//images.ctfassets.net/1es3ne0caaid/2h3e4hp58cIW6acMc8Mgy0/dfeac8f3cdffb41174e93ad567233cd0/go-comments-app-keys.png)
 
 现在我们有了应用程序，让我们进入下一步。
 
@@ -120,11 +120,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们可以使用 Postman 发送 HTTP 请求。下面是一个使用 Postman 的 GET 请求示例:
 
-[![](../Images/48527dfadb78ee8d6e0ae75e4d2195c2.png)T2】](//images.ctfassets.net/1es3ne0caaid/1hOAHfzR8C2SocUciKSaEi/de4455b61abfaed1da7f612a6b1c75f6/go-comments-get-example.png)
+[![](img/48527dfadb78ee8d6e0ae75e4d2195c2.png)T2】](//images.ctfassets.net/1es3ne0caaid/1hOAHfzR8C2SocUciKSaEi/de4455b61abfaed1da7f612a6b1c75f6/go-comments-get-example.png)
 
 邮递员的邮寄请求:
 
-[![](../Images/f2125c56d385d1a6da9cb8a2c0652d3c.png)T2】](//images.ctfassets.net/1es3ne0caaid/1uCCDXGXBeus4mSKgSKYoi/a66e13b4921d54b799a3ceae40c2b4d1/go-comments-post-example.png)
+[![](img/f2125c56d385d1a6da9cb8a2c0652d3c.png)T2】](//images.ctfassets.net/1es3ne0caaid/1uCCDXGXBeus4mSKgSKYoi/a66e13b4921d54b799a3ceae40c2b4d1/go-comments-post-example.png)
 
 我们将创建一个初始化数据库的函数，为此我们需要 SQL 和 SQLite3 驱动程序。我们已经将它们添加到了`import`语句中，所以取消对它们的注释。我们还将创建一个函数，该函数将使用函数中定义的数据库模式来迁移数据库。
 
@@ -633,7 +633,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们的应用程序应该如下所示:
 
-[![](../Images/b1fd95010d8c4221b0c601743cee0756.png)T2】](//images.ctfassets.net/1es3ne0caaid/2m7H3gsZCMIkEKGueSEuK/d014e440249b413da2ed8f509d91eae1/go-comments-homepage.png)
+[![](img/b1fd95010d8c4221b0c601743cee0756.png)T2】](//images.ctfassets.net/1es3ne0caaid/2m7H3gsZCMIkEKGueSEuK/d014e440249b413da2ed8f509d91eae1/go-comments-homepage.png)
 
 ### 实时显示评论
 
@@ -760,7 +760,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们可以将 web 浏览器指向这个地址 [http://localhost:9000](http://localhost:9000) ，我们应该可以看到应用程序在运行:
 
-[![](../Images/5c451b3f82fc0e042c63c89385e37600.png)T2】](//images.ctfassets.net/1es3ne0caaid/3dhebYl8aAm4cCME4Os2ys/4d39432a0bd39156cf8556c15649a2f1/go-comments-demo.gif)
+[![](img/5c451b3f82fc0e042c63c89385e37600.png)T2】](//images.ctfassets.net/1es3ne0caaid/3dhebYl8aAm4cCME4Os2ys/4d39432a0bd39156cf8556c15649a2f1/go-comments-demo.gif)
 
 ## 结论
 

@@ -43,7 +43,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这个例子试图阐明一个重要的事实:记忆不是你最好的朋友。它在 99%的情况下都对你有利，但当它决定刺你时，它会直接刺你的眼睛。
 
-[![stab](../Images/3cb27bb164c3a99b7e89a2894c7a12e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oHgBHPmY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://files.explosm.net/comics/Rob/blowdart.jpg)
+[![stab](img/3cb27bb164c3a99b7e89a2894c7a12e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oHgBHPmY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://files.explosm.net/comics/Rob/blowdart.jpg)
 
 ### 内存泄露…
 
@@ -101,7 +101,7 @@ Enter fullscreen mode Exit fullscreen mode
 > **内存泄漏**是一种[资源泄漏](https://en.wikipedia.org/wiki/Resource_leak)，当一个[计算机程序](https://en.wikipedia.org/wiki/Computer_program)错误地管理[内存分配](https://en.wikipedia.org/wiki/Memory_allocation) [ [1]](https://en.wikipedia.org/wiki/Memory_leak#cite_note-1) 使得不再需要的内存没有被释放时就会发生。
 
 我发现把它看作一种症状会更容易理解这个概念。你的程序是一个病人，他对记忆的热爱无止境地增长。
-[![love](../Images/2767f356ce5c1d2c1cc2a7b6670c513d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7D23QJ9I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.pinimg.com/originals/3e/53/d0/3e53d09e86eb0ece8a0351a7f2383f07.gif) 
+[![love](img/2767f356ce5c1d2c1cc2a7b6670c513d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7D23QJ9I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.pinimg.com/originals/3e/53/d0/3e53d09e86eb0ece8a0351a7f2383f07.gif) 
 大多数时候，电脑 **【垃圾收集器】** 足以发现大多数你不再使用的数据，并为你清理它们。但它并不完美，我们还远没有一个比人类更聪明的垃圾收集器。 **(如果我们有一个，那就是写代码而不是我们:P)**
 
 ### 给我一些现实生活中的漏洞
@@ -132,13 +132,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 你应该可以在开发工具中找到这个标签。
 
-[![image](../Images/d828d098381dd0e726f27ec0646b75c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JtAwqgYU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/6966254/35474233-6264a034-0359-11e8-852a-165687947454.png)
+[![image](img/d828d098381dd0e726f27ec0646b75c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JtAwqgYU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/6966254/35474233-6264a034-0359-11e8-852a-165687947454.png)
 
 就本文的范围而言，我们将重点关注`Take Heap Snapshot`。该功能可以获取程序当前内存使用情况的快照。
 
 在我的例子中，它看起来像这样:
 
-[![image](../Images/baed4693d14dc923fa553ec757caef46.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LSUEqYHY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/6966254/35474258-c402b1f0-0359-11e8-8b1d-6a374bc4ea70.png)
+[![image](img/baed4693d14dc923fa553ec757caef46.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LSUEqYHY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/6966254/35474258-c402b1f0-0359-11e8-8b1d-6a374bc4ea70.png)
 
 很好，现在我们将运行几次无辜的函数。
 
@@ -152,13 +152,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果您拍摄另一个快照，您将看到内存使用量增加。
 
-[![image](../Images/db5490216dcdc9896fcc2963bf9cd4b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ay5-iqh5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/6966254/35474314-83a13e00-035a-11e8-815d-835d3b4a0aa2.png)
+[![image](img/db5490216dcdc9896fcc2963bf9cd4b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ay5-iqh5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/6966254/35474314-83a13e00-035a-11e8-815d-835d3b4a0aa2.png)
 
 在我的例子中，有 10 兆字节的完全**差异。在许多实际情况下，几兆字节的跳跃可能是正常的，你可能想要在一段时间内拍摄**多个快照**来排除泄漏。**
 
 您可以通过点击`Summary`下拉菜单并切换到`Comparison`来轻松比较两个快照。
 
-[![image](../Images/2d59ce940e532c0ca7d9f2b873c0f37a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vHQQfEeD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/6966254/35474393-af4e122a-035b-11e8-94cc-6583b4ac01a2.png)
+[![image](img/2d59ce940e532c0ca7d9f2b873c0f37a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vHQQfEeD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/6966254/35474393-af4e122a-035b-11e8-94cc-6583b4ac01a2.png)
 
 如果您将新快照与之前拍摄的快照进行比较，并将`#Delta`设为降序，您会发现`(string)`中有一个巨大的数字。这是我们的内存泄漏的地方。点击它，你会看到很多`Gandhi`
 

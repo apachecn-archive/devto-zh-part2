@@ -55,7 +55,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 很好，这导致图像大小为 381MB，节省了 2MB(T3)。等待....瓦特？
 
-[![<INSERT ALT TEXT HERE>](../Images/915c83f158319fac6adc6924f3e39d15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--13Cak3dZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.codependentcodr.com/static/imgs/wat.jpg)
+[![<INSERT ALT TEXT HERE>](img/915c83f158319fac6adc6924f3e39d15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--13Cak3dZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.codependentcodr.com/static/imgs/wat.jpg)
 
 所以我*删除了*一些东西，最后得到了一个几 MB 的*大*的图像？这是怎么回事？
 

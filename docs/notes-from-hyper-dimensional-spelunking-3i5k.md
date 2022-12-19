@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/awfulaxolotl/notes-from-hyper-dimensional-spelunking-3i5k>
 
-[![intro spelunker](../Images/1ec1d7c1e48a18f31464e3361d65645c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6e2bvGQJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://axolotl.industries/static/intro-spelunker-953e11c2b0d0d31224ab847d550d7e80-7efac.png)
+[![intro spelunker](img/1ec1d7c1e48a18f31464e3361d65645c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6e2bvGQJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://axolotl.industries/static/intro-spelunker-953e11c2b0d0d31224ab847d550d7e80-7efac.png)
 
 写软件很难。视觉化它的行为使它变得更容易。
 
@@ -43,7 +43,7 @@
 
 你*可以*随意看，但那样你可能会错过重要的特征。看看一些随机的数学函数:
 
-[![random sampling](../Images/8f1070bd69d42362f547e95feef9e98f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fDkq3Skn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://axolotl.industries/static/random-sampling-880d00754943571dd6528be2aa6e34bd-126cd.png)
+[![random sampling](img/8f1070bd69d42362f547e95feef9e98f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fDkq3Skn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://axolotl.industries/static/random-sampling-880d00754943571dd6528be2aa6e34bd-126cd.png)
 
 好吧，如果你的洞穴碰巧是一个信号，那么你可以问一些信息理论家。他们是洞穴探险专家，但前提是洞穴是由波浪组成的。
 
@@ -51,7 +51,7 @@
 
 他们建议使用[奈奎斯特-香农采样定理](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem)。基本思想是以两倍于最小可能波长的速率采样。否则你永远不会完全确定你在看什么。
 
-[![shannon nyquist sampling](../Images/4f1d00e45c338a1c0521bd0a92ef36e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o9NXejuJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://axolotl.industries/static/shannon-nyquist-sampling-17462fe4b13ca5ba6ee7123662f1f83c-126cd.png)
+[![shannon nyquist sampling](img/4f1d00e45c338a1c0521bd0a92ef36e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o9NXejuJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://axolotl.industries/static/shannon-nyquist-sampling-17462fe4b13ca5ba6ee7123662f1f83c-126cd.png)
 
 酷毙了。但是我们的洞穴不是由波浪构成的。它不是一维的。它是超多维的。
 
@@ -118,7 +118,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 # 不要碰填充空间的蛇
 
-[![snake curves](../Images/bc4f836271a6c41a1159dd5f00c0365a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uAo-MQ8z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://axolotl.industries/static/snake-curves-bc2cf7dd44c7b2720771e9272965b43c-126cd.png)
+[![snake curves](img/bc4f836271a6c41a1159dd5f00c0365a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uAo-MQ8z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://axolotl.industries/static/snake-curves-bc2cf7dd44c7b2720771e9272965b43c-126cd.png)
 
 笛卡尔积很容易理解，但是有一些缺点。你不能选择任意数量的样本，并让它们平均分布。你必须选择最喜欢的。
 
@@ -126,7 +126,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 它们之所以整洁，是因为它们在保持局部性的同时非常易于使用。想要五个样品？只需选择五个标量点，并将它们投影到曲线上。想让他们平均分配？嗯，它们会在投射后保持展开。
 
-[![hilbert mapping](../Images/159284052c215082846e1b3b5f72e2e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UDQgWvzL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://axolotl.industries/static/hilbert-mapping-3bb0684fc965be1097e7057aaccea906-6631e.png)
+[![hilbert mapping](img/159284052c215082846e1b3b5f72e2e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UDQgWvzL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://axolotl.industries/static/hilbert-mapping-3bb0684fc965be1097e7057aaccea906-6631e.png)
 
 我更喜欢[希尔伯特曲线](https://en.wikipedia.org/wiki/Hilbert_curve)而不是 [Z 顺序](https://en.wikipedia.org/wiki/Z-order_curve)或[阿砣曲线](https://en.wikipedia.org/wiki/Peano_curve)。后两种方法不能像希尔伯特曲线那样保持局部性，但是计算起来要快得多。
 
@@ -152,13 +152,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 你可以看到一些简洁的空间填充曲线的可视化应用，用于二进制数据可视化和互联网地图。
 
-[![binvisio](../Images/b98619a49247f17c8cbb7eb6771eac75.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KMdMXTCt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://axolotl.industries/static/binvisio-a67c5902b0e9f5a98c1def0a2b0de9e2-c2ae9.jpg)
+[![binvisio](img/b98619a49247f17c8cbb7eb6771eac75.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KMdMXTCt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://axolotl.industries/static/binvisio-a67c5902b0e9f5a98c1def0a2b0de9e2-c2ae9.jpg)
 
 但是空间填充曲线并不是唯一的游戏。我们新的超级护目镜也可以通过[降维](https://en.wikipedia.org/wiki/Dimensionality_reduction)过程制成。
 
 一个例子是 t-SNE，它在机器学习领域很受欢迎。它主要用于通过检查深度神经网络如何对数据集中的项目进行分组来窥视深度神经网络的学习。当然，SNE 霸王龙并不是唯一一个像 UMAP 一样正在开发其他方法的人。
 
-[![t sne cnn embed](../Images/c324da182bb66d878daba9e2ea218f29.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XIF83MJq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://axolotl.industries/static/t-sne-cnn-embed-af2c91f36afecfd02d3f9867af1a438c-c2ae9.jpg)
+[![t sne cnn embed](img/c324da182bb66d878daba9e2ea218f29.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XIF83MJq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://axolotl.industries/static/t-sne-cnn-embed-af2c91f36afecfd02d3f9867af1a438c-c2ae9.jpg)
 
 现在想象这被用来可视化样本空间的聚类。我承认，这有点夸张。我不太确定这些方法的性能如何，或者它们是否支持数据集的实时添加。
 

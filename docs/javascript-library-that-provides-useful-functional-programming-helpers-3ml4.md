@@ -10,17 +10,17 @@
 我将感谢任何想法和反馈。
 谢谢！
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) [希亚斯特鲁克](https://github.com/shystruk) / [法默卢斯](https://github.com/shystruk/famulus)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) [希亚斯特鲁克](https://github.com/shystruk) / [法默卢斯](https://github.com/shystruk/famulus)
 
 ### JavaScript 库，提供有用的函数式编程助手。添加您自己的👍
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-# 著名的 [![Twitter URL](../Images/4182637137f34f5a0aa620c1e2afc983.png)](https://twitter.com/intent/tweet?hashtags=javascript%20%23helpers%20%23utilities&original_referer=https%3A%2F%2Fpublish.twitter.com%2F&ref_src=twsrc%5Etfw&text=JavaScript%20library%20that%20provides%20a%20useful%20functional%20programming%20helpers.%20Do%20not%20wait%2C%20add%20your%20own%20%F0%9F%94%A7%F0%9F%92%AA&tw_p=tweetbutton&url=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Ffamulus&via=shystrukk)
+# 著名的 [![Twitter URL](img/4182637137f34f5a0aa620c1e2afc983.png)](https://twitter.com/intent/tweet?hashtags=javascript%20%23helpers%20%23utilities&original_referer=https%3A%2F%2Fpublish.twitter.com%2F&ref_src=twsrc%5Etfw&text=JavaScript%20library%20that%20provides%20a%20useful%20functional%20programming%20helpers.%20Do%20not%20wait%2C%20add%20your%20own%20%F0%9F%94%A7%F0%9F%92%AA&tw_p=tweetbutton&url=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Ffamulus&via=shystrukk)
 
-[![MIT Licence](../Images/a2978d6944844daf3fdcb084340fd49a.png)](https://opensource.org/licenses/mit-license.php)[![codecov](../Images/7099782fcbc28b735266b7a83bfeed8e.png)](https://codecov.io/gh/shystruk/famulus)[![Build Status](../Images/cf18a1253f6d11c8b019fc6bb7a0ef8a.png)](https://travis-ci.org/shystruk/famulus)[![Known Vulnerabilities](../Images/372991d7240623edee858916367d4247.png)](https://snyk.io/test/github/shystruk/famulus?targetFile=package.json)[![npm version](../Images/ed647d76eb131851e4cdaa3781097b96.png)](https://badge.fury.io/js/famulus)
+[![MIT Licence](img/a2978d6944844daf3fdcb084340fd49a.png)](https://opensource.org/licenses/mit-license.php)[![codecov](img/7099782fcbc28b735266b7a83bfeed8e.png)](https://codecov.io/gh/shystruk/famulus)[![Build Status](img/cf18a1253f6d11c8b019fc6bb7a0ef8a.png)](https://travis-ci.org/shystruk/famulus)[![Known Vulnerabilities](img/372991d7240623edee858916367d4247.png)](https://snyk.io/test/github/shystruk/famulus?targetFile=package.json)[![npm version](img/ed647d76eb131851e4cdaa3781097b96.png)](https://badge.fury.io/js/famulus)
 
-JavaScript 库，提供了一个有用的函数式编程助手。不要等待，选择并添加您自己的<g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">🔧</g-emoji> <g-emoji class="g-emoji" alias="muscle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png">💪</g-emoji>
+JavaScript 库，提供了一个有用的函数式编程助手。不要等待，选择并添加您自己的<g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f527.png">🔧</g-emoji> <g-emoji class="g-emoji" alias="muscle" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f4aa.png">💪</g-emoji>
 
 ## 装置
 

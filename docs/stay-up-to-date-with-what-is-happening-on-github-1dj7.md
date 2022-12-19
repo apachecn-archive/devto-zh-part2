@@ -4,7 +4,7 @@
 
 在几次听到一些不使用社交网络的朋友说“我的社交网络是 Github”之后，我决定制作一个 feed，将你在 Github 中关注的人的活动带来。从对问题的评论，拉请求，星库，提交等…让你跟踪开源社区发生的一切。
 
-<figure>[![](../Images/89467974409e22f5f7ddaf55c7aa1f8a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7bockJZi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/600/1%2A2WmnaXxc9Nt9sr6hZ-cklQ.gif) 
+<figure>[![](img/89467974409e22f5f7ddaf55c7aa1f8a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7bockJZi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/600/1%2A2WmnaXxc9Nt9sr6hZ-cklQ.gif) 
 
 <figcaption>牛逼饲料—[https://awesomefeed.js.org/](https://awesomefeed.js.org/)</figcaption>
 

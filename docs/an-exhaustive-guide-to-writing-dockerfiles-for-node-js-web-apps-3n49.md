@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/hasurahq/an-exhaustive-guide-to-writing-dockerfiles-for-node-js-web-apps-3n49>
 
-[![](../Images/190ee01b0784fd3b3862579237c64e53.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YsqTw6IE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/an-exhaustive-guide-to-writing-dockerfiles-for-node-js-web-apps-bbee6bd2f3c4/1-4KhmpXFJ_Etczs6awRnAbg.png)
+[![](img/190ee01b0784fd3b3862579237c64e53.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YsqTw6IE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/an-exhaustive-guide-to-writing-dockerfiles-for-node-js-web-apps-bbee6bd2f3c4/1-4KhmpXFJ_Etczs6awRnAbg.png)
 
 ## TL；速度三角形定位法(dead reckoning)
 

@@ -80,14 +80,14 @@ Enter fullscreen mode Exit fullscreen mode
 
 构建并运行。它应该有一个红色的 Chromecast 按钮出现在导航栏的右侧。
 
-[![Simulator-Screen-Shot---iPhone-8---2018-08-19-at-09.51.49](../Images/de700767cc6058fa5439dddb19391816.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vyeyRMip--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ysy59aqy32vi28uvxk20.png) 
+[![Simulator-Screen-Shot---iPhone-8---2018-08-19-at-09.51.49](img/de700767cc6058fa5439dddb19391816.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vyeyRMip--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ysy59aqy32vi28uvxk20.png) 
 点击 Cast 按钮应该会显示一个 ViewController，其中列出了找到的 Chromecast 设备。
 
-[![Simulator-Screen-Shot---iPhone-8---2018-08-19-at-09.53.08](../Images/756ec2d7734d1c4b03f21ad36f353f80.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--E5BrRRMZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ub9obkwjmwith3k9lnr4.png) 
+[![Simulator-Screen-Shot---iPhone-8---2018-08-19-at-09.53.08](img/756ec2d7734d1c4b03f21ad36f353f80.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--E5BrRRMZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ub9obkwjmwith3k9lnr4.png) 
 如果一开始导航条上没有显示 Cast 按钮，尝试打开你的 Chromecast 设备。根据我的测试，如果没有找到 Chromecast 设备，Cast 按钮将不会出现。
 
 我使用值`https://lawgimenez.me`作为接收者应用程序 URL 的值。当一切顺利时，Chromecast 应该可以将我的网站投射到我的电视上。当我点击 Gimenez 房间的电视时，它应该会显示我的网址的内容。我在真实设备和模拟器上测试了这个实现。
 
-[![IMG_0714](../Images/51220870a22835d0672c75f75ece1921.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D3-E1goE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x23fqrmdplvwjh22go2m.png)
+[![IMG_0714](img/51220870a22835d0672c75f75ece1921.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D3-E1goE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x23fqrmdplvwjh22go2m.png)
 
 最初发布于[https://lwg mnz . me/2018/08/20/implement-chrome cast-on-IOs-using-swift/](https://lwgmnz.me/2018/08/20/implement-chromecast-on-ios-using-swift/)

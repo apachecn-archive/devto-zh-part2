@@ -24,7 +24,7 @@
 
 假设你，读者，熟悉大多数 web 应用程序的客户机-服务器-数据库结构，简短的回答是剩下的就是描述你的客户机如何与你的服务器通信的一组指南。
 
-<figure>[![Cartoon representing server and client with the word REST between them](../Images/f0ecb847c8c0fa6ea85e0cade7349dd5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--i6i9KwAs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AmxteJkmWq77KbRJoiZbklQ.jpeg) 
+<figure>[![Cartoon representing server and client with the word REST between them](img/f0ecb847c8c0fa6ea85e0cade7349dd5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--i6i9KwAs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AmxteJkmWq77KbRJoiZbklQ.jpeg) 
 
 <figcaption>形象由:[涂鸦发展](http://doodlingdev.com)</figcaption>
 

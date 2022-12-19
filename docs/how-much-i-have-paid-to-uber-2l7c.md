@@ -131,7 +131,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 `head(n=5)`函数返回数据帧的前 n(默认为 5)行。
 
-[![uber-sheet](../Images/e1dceaa87abf280f1fcd0c5b41c63257.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e0gJYjfp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/174doh6gqd4dybmgnc92.png)
+[![uber-sheet](img/e1dceaa87abf280f1fcd0c5b41c63257.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e0gJYjfp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/174doh6gqd4dybmgnc92.png)
 
 我们表格中的第一行是错误的，应该作为表格的标题。
 
@@ -152,7 +152,7 @@ df.head()
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![uber-sheet](../Images/03204c5acd43982ac479c27a2a4dd981.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vaysMfaB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wx4gup99dbg0et4yah73.png)
+[![uber-sheet](img/03204c5acd43982ac479c27a2a4dd981.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vaysMfaB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wx4gup99dbg0et4yah73.png)
 
 模式现在看起来更好了。但是数据呢。在我们开始寻找答案之前，我们需要清理它。例如，价格列类似于`₹89.53`。我们需要删除该列的前 3 个字符。
 
@@ -211,11 +211,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是结果-
 
-[![uber](../Images/a55ea5263d8519d9acb3c79c98ba68c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w7nOZAkO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/475dvvfkghr3hp4kvpk0.png)
+[![uber](img/a55ea5263d8519d9acb3c79c98ba68c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w7nOZAkO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/475dvvfkghr3hp4kvpk0.png)
 
 我们还可以使用`matplotlib`库在 colabs 中绘制图形。这是一个时间和价格图表的例子。
 
-[![graph](../Images/bf94f725248cecc8411faa1878a3e771.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9BAUQNDh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7fcqb1voto4oudkmal71.png)
+[![graph](img/bf94f725248cecc8411faa1878a3e771.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9BAUQNDh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7fcqb1voto4oudkmal71.png)
 
 从这个数据集中可以检索到一千多个答案。请随意尝试新的组合，并在下面的部分发表评论。
 

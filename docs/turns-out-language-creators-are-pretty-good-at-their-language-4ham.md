@@ -4,7 +4,7 @@
 
 # 这个好。😂
 
-[![sergio profile image](../Images/faa19b25655a930432e55bb71b7a3029.png) ](/sergio) [ deleteme deleteme ](/sergio) • [<time datetime="2018-10-25T14:57:54Z" class="date-short-year"> Oct 25 '18 </time>](https://dev.to/sergio/comment/6bn4) 
+[![sergio profile image](img/faa19b25655a930432e55bb71b7a3029.png) ](/sergio) [ deleteme deleteme ](/sergio) • [<time datetime="2018-10-25T14:57:54Z" class="date-short-year"> Oct 25 '18 </time>](https://dev.to/sergio/comment/6bn4) 
 
 让我想起一个同事告诉我的有趣故事。他在面试长生不老药咨询公司的职位；基本上，我们需要有人来审核我们将要做出的某些选择。
 

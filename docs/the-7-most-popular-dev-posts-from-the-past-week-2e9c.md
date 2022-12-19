@@ -8,7 +8,7 @@
 
 facebook 如何使用 for 循环来防止 JSON 劫持。你还见过哪些方法？
 
-[![antogarand](../Images/c677e747be5675acd89e409e90c3019e.png)](/antogarand) [## 为什么脸书的 api 以 for 循环开始
+[![antogarand](img/c677e747be5675acd89e409e90c3019e.png)](/antogarand) [## 为什么脸书的 api 以 for 循环开始
 
 ### 安东尼·加兰 11 月 13 日 185 分钟阅读
 
@@ -18,7 +18,7 @@ facebook 如何使用 for 循环来防止 JSON 劫持。你还见过哪些方法
 
 推荐给所有开发者阅读的非特定技术书籍的精选列表——从数据分析到领导力再到个人效率。
 
-[![bosepchuk](../Images/4a2750bf6275f976448741ffad56eee7.png)](/bosepchuk) [## 29 程序员必读的书
+[![bosepchuk](img/4a2750bf6275f976448741ffad56eee7.png)](/bosepchuk) [## 29 程序员必读的书
 
 ### Blaine Osepchuk 11 月 14 日 18 时 6 分阅读
 
@@ -34,7 +34,7 @@ facebook 如何使用 for 循环来防止 JSON 劫持。你还见过哪些方法
 
 如何将一个 python 流程容器化，以一个工作的 Docker 映像结束。
 
-[![thejessleigh](../Images/f469a39e68e830438247062fe0064d78.png)](/thejessleigh) [## 将一个简单的 Python 过程归档
+[![thejessleigh](img/f469a39e68e830438247062fe0064d78.png)](/thejessleigh) [## 将一个简单的 Python 过程归档
 
 ### Jess un rein 11 月 16 日 187 分钟阅读
 
@@ -44,7 +44,7 @@ facebook 如何使用 for 循环来防止 JSON 劫持。你还见过哪些方法
 
 这是给任何对给予或接受投资组合反馈感兴趣的人的线索。
 
-[![aspittel](../Images/45a8d86fe0ff981bf7cdb45b471a3c5c.png)](/aspittel) [## 投资组合建议线索
+[![aspittel](img/45a8d86fe0ff981bf7cdb45b471a3c5c.png)](/aspittel) [## 投资组合建议线索
 
 ### 阿里·斯皮特尔 11 月 15 日 181 分钟阅读
 
@@ -54,7 +54,7 @@ facebook 如何使用 for 循环来防止 JSON 劫持。你还见过哪些方法
 
 安娜分享了他们如何最终找到平衡，同时兼顾全职工作、兼职项目、保持健康和生活！这篇文章讲的是他们从一路走来的奋斗中学到的东西。
 
-[![simoroshka](../Images/802d1c3242f5c9f2d8e053a05588a5c8.png)](/simoroshka) [## 全职，兼职，学习，保持理智
+[![simoroshka](img/802d1c3242f5c9f2d8e053a05588a5c8.png)](/simoroshka) [## 全职，兼职，学习，保持理智
 
 ### 安娜·西蒙罗什卡 11 月 14 日 183 分钟阅读
 
@@ -64,7 +64,7 @@ facebook 如何使用 for 循环来防止 JSON 劫持。你还见过哪些方法
 
 我总是在做任何工作的时候听音乐。当我唱的时候，一般都是电子版的，没有歌词。这个帖子有很多所有流派的推荐:)
 
-[![hus_hmd](../Images/e2a8227a2651a90e94c843ef7faf849c.png)](/hus_hmd) [## 编码时最喜欢听的专辑
+[![hus_hmd](img/e2a8227a2651a90e94c843ef7faf849c.png)](/hus_hmd) [## 编码时最喜欢听的专辑
 
 ### 侯赛因·哈马德 11 月 18 日 182 分钟阅读
 

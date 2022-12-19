@@ -18,7 +18,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这就是我们开始查看从本地开发服务器提供的“Hello World”页面所需的全部内容，每当发生源代码更改时，页面会自动刷新。
 
-[![Hello World from create-react-app](../Images/fe032966248d39336867d6d63cd8c777.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FRBfMj32--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d69q5xk83hkyz16juov3.png)
+[![Hello World from create-react-app](img/fe032966248d39336867d6d63cd8c777.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FRBfMj32--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d69q5xk83hkyz16juov3.png)
 
 这很酷，已经帮我们省去了一周的头痛。但是在 create-react-app 中没有默认的 TypeScript 支持。TypeScript 真的很棒，在一起工作了一段时间后，我现在觉得没有 TypeScript 的 JavaScript 就像一块没有巧克力的蛋糕——你可能会吃，但那种快乐在哪里呢？
 
@@ -36,7 +36,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这就是我们得到的——几乎和以前一样，但是用 TSX(打字稿风格的 JSX)代替了！
 
-[![Hello World from create-react-app-typescript](../Images/57a9a0785fb0f949b1135bf0a12443bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Pcw-jehA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1e5meucg4rfahdgpxk5j.png)
+[![Hello World from create-react-app-typescript](img/57a9a0785fb0f949b1135bf0a12443bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Pcw-jehA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1e5meucg4rfahdgpxk5j.png)
 
 但是，如果我们已经超越了`create-react-app`的产品，我们需要挖掘 webpack bundler 或 jest test runner 的诡计，那该怎么办呢？这是可能的，但不幸的是，在这种情况下，我们需要告别漂亮而干净的抽象，这种抽象使我们不必处理大约 30 个直接依赖项和大约 12 个配置文件。当我们运行`npm run eject`命令时，我们的项目被重写以直接包含所有这些，我们不再能够将我们的开发环境`npm update`为一个单独的依赖项。在决定做之前，我们应该明确地知道我们在做什么。在大多数情况下，直到我们开始对构建过程有了非标准的需求，我们才应该需要这样做。
 

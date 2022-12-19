@@ -6,7 +6,7 @@
 
 *   **2015 年(好奇号)**
 
-[![](../Images/5faca92f0b3d5571b0c22b330b66e5aa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sw5W-ccH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/290/1%2AU-SqxxLQ4e2fsdYVnmNhSA.jpeg)
+[![](img/5faca92f0b3d5571b0c22b330b66e5aa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sw5W-ccH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/290/1%2AU-SqxxLQ4e2fsdYVnmNhSA.jpeg)
 
 <figcaption>[https://en.wikipedia.org/wiki/Mobile_BASIC](https://en.wikipedia.org/wiki/Mobile_BASIC)</figcaption>
 
@@ -14,7 +14,7 @@
 
 *   **2016 年(网页开发)**
 
-[![](../Images/ea143483753a9a8f611c1549e9f99bbd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--txfEnOEg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ADd8ie2K_9n2FPgb2LxleVw.png)
+[![](img/ea143483753a9a8f611c1549e9f99bbd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--txfEnOEg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ADd8ie2K_9n2FPgb2LxleVw.png)
 
 <figcaption>[https://www.1training.org/wp-content/uploads/2017/10/6.png](https://www.1training.org/wp-content/uploads/2017/10/6.png)</figcaption>
 
@@ -24,7 +24,7 @@
 
 *   **2017 年(沉迷网络)**
 
-[![](../Images/90fb47f4482792c138caa04f7d11ef20.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--z1thK-vN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/238/1%2A2baes62J4NmG1qrQBpPM4w.jpeg)
+[![](img/90fb47f4482792c138caa04f7d11ef20.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--z1thK-vN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/238/1%2A2baes62J4NmG1qrQBpPM4w.jpeg)
 
 <figcaption></figcaption>
 
@@ -32,7 +32,7 @@
 
 *   **2018 年(第一份工作)**
 
-[![](../Images/7a39687379cdfb73ef9a433e9b87d214.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Rqjo_HCo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/282/1%2A3b2B1SLLX7oxcnUBXBliqw.jpeg)
+[![](img/7a39687379cdfb73ef9a433e9b87d214.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Rqjo_HCo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/282/1%2A3b2B1SLLX7oxcnUBXBliqw.jpeg)
 
 <figcaption></figcaption>
 

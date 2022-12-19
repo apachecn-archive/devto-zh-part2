@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/wiaio/implementing-a-chartjs-line-chart-in-your-angular-application-19d7>
 
-[![alt text](../Images/a8b6a4befc4f69cef58c8bcb11e8d326.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w1vRHkRQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-06-07/1528382411-789265-chart-js-angular.png)
+[![alt text](img/a8b6a4befc4f69cef58c8bcb11e8d326.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w1vRHkRQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-06-07/1528382411-789265-chart-js-angular.png)
 
 Chart.js 是一个开源库，用于用 Javascript 构建好看的图表。以下是如何在 Angular 应用程序中轻松使用它来显示数据。
 

@@ -17,7 +17,7 @@
 *   [充满激情](#be-passionate)
 *   [结论](#conclusion)
 
-[![Job Interview Meme](../Images/6c9f1a01a2ab3f7591f0230082b895d0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L-7WITfv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AAMFCRjhsLkoqFmoz.)
+[![Job Interview Meme](img/6c9f1a01a2ab3f7591f0230082b895d0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L-7WITfv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AAMFCRjhsLkoqFmoz.)
 
 ## 拥有一份“好”的简历和履历
 
@@ -57,7 +57,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 或者可替换地是图形表示
 
-[![Skill rating](../Images/a35e1870e4ff0605eef611654272f0bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IDI4ar3V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d33wubrfki0l68.cloudfront.net/b20d95510e753aed2517bb13ae09628e6b67262a/bc0d0/img/skills.png)
+[![Skill rating](img/a35e1870e4ff0605eef611654272f0bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IDI4ar3V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d33wubrfki0l68.cloudfront.net/b20d95510e753aed2517bb13ae09628e6b67262a/bc0d0/img/skills.png)
 
 #### 有没有为了让简历看起来更好看而使用过流行语，而实际上并没有底层知识？
 
@@ -71,7 +71,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 总的来说，我建议询问你选择的互联网搜索引擎，你会发现大量可能的面试问题:
 
-[![Search programming language](../Images/7efce2c457f7c1e8c11c5552b4528831.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Fue2rWOU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d33wubrfki0l68.cloudfront.net/9d7629d7f48d3c244b6800f0b5ef4460c9a512ec/925c2/img/search_programming_language.png)
+[![Search programming language](img/7efce2c457f7c1e8c11c5552b4528831.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Fue2rWOU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d33wubrfki0l68.cloudfront.net/9d7629d7f48d3c244b6800f0b5ef4460c9a512ec/925c2/img/search_programming_language.png)
 
 总结一下，学习你最喜欢的编程语言，深入研究它所有可能的方面。
 
@@ -129,7 +129,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 复杂项目的一个好例子:
 
-[![Google Cloud Hue Architecture](../Images/3c17c28f11d575a3313c99a508bcb018.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_rjZT_6f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/Da7_0YsW4AEM4sr.jpg)
+[![Google Cloud Hue Architecture](img/3c17c28f11d575a3313c99a508bcb018.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_rjZT_6f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/Da7_0YsW4AEM4sr.jpg)
 
 ## 充满激情
 

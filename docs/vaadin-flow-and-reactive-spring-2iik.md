@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/committedsw/vaadin-flow-and-reactive-spring-2iik>
 
-[![philip swinburn 60220 unsplash](../Images/7574a037e49bd9df820f81037887a181.png)T2】](///static/philip-swinburn-60220-unsplash-9a57445ecc294e14d46690f9f649dd95-7a1db.jpg)
+[![philip swinburn 60220 unsplash](img/7574a037e49bd9df820f81037887a181.png)T2】](///static/philip-swinburn-60220-unsplash-9a57445ecc294e14d46690f9f649dd95-7a1db.jpg)
 
 # 瓦丁 11 和 Spring Boot 2
 

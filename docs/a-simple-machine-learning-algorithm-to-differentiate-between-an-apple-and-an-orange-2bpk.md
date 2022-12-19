@@ -38,7 +38,7 @@
 
 下表使用两种水果的特征来区分它们:
 
-[![two fruits features](../Images/900d5d95d589f6ef516d70c83dda4a86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l9ytdXS8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ofiqqm5x6v0tz7cz66gs.png)
+[![two fruits features](img/900d5d95d589f6ef516d70c83dda4a86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l9ytdXS8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ofiqqm5x6v0tz7cz66gs.png)
 
 正如你在上面看到的，水果是根据它们的重量和质地来区分的。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jlengrand/automating-the-activation-deactivation-of-spotify-s-proxy-settings-2bp>
 
-[![Automating the activation / deactivation of Spotify's proxy settings](../Images/53c313eb5df1a746eff879929168b0b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AlS25d_w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1504509546545-e000b4a62425%3Fixlib%3Drb-1.2.1%26q%3D80%26fm%3Djpg%26crop%3Dentropy%26cs%3Dtinysrgb%26w%3D1080%26fit%3Dmax%26ixid%3DeyJhcHBfaWQiOjExNzczfQ)
+[![Automating the activation / deactivation of Spotify's proxy settings](img/53c313eb5df1a746eff879929168b0b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AlS25d_w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1504509546545-e000b4a62425%3Fixlib%3Drb-1.2.1%26q%3D80%26fm%3Djpg%26crop%3Dentropy%26cs%3Dtinysrgb%26w%3D1080%26fit%3Dmax%26ixid%3DeyJhcHBfaWQiOjExNzczfQ)
 
 我是 **[Spotify](https://www.spotify.com/)** 的**超级**粉丝。我每天都用它，一用就是几个小时。虽然我喜欢胖客户端，但我发现网页版太容易出错且不稳定。
 

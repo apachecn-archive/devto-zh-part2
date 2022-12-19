@@ -187,7 +187,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 是时候使用可靠的分析器了，在本例中是 [dotTrace](https://www.jetbrains.com/profiler/) :-
 
-[![](../Images/ee102e730b396ff7166e86d6e19d6704.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--78DtUAz9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/di8odrr1ouxlx4mq7nnf.JPG)
+[![](img/ee102e730b396ff7166e86d6e19d6704.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--78DtUAz9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/di8odrr1ouxlx4mq7nnf.JPG)
 
 中的字符串。NET 生态系统是不可改变的。这意味着我们对一个`string` *做的任何事情总是*返回一个全新的副本。因此，在每一行调用`string.Split(',')`(记住我们感兴趣的是`10,036,466`行)会返回被分成几个小字符串的那一行。每行至少有五个我们想要处理的部分。这意味着在导入流程的生命周期中，我们至少要创建`50,182,330 strings`..！接下来，我们将探讨如何消除`string.Split(',')`的使用。
 
@@ -312,7 +312,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 哎呦，比预想的还要糟糕。这是一个容易犯的错误，但是 dotTrace 可以帮助我们…
 
-[![](../Images/92d1e8fe3e5f8bb09f62a67f6fdfed57.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nB6QyPlh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5w4mefamx72l4eskns9o.JPG)
+[![](img/92d1e8fe3e5f8bb09f62a67f6fdfed57.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nB6QyPlh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5w4mefamx72l4eskns9o.JPG)
 
 为每一行的每一部分构建一个`StringBuilder`是非常昂贵的。幸运的是这是一个快速修复，我们在`V05`的构造上构造了一个单独的`StringBuilder`，并在每次使用之前清除它。`V05`现在有以下统计:-
 
@@ -333,7 +333,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在这一点上，dotTrace 成为优化过程的一个重要部分。查看`V05`点迹输出:-
 
-[![](../Images/80e686c3a2f72eebb350ac24696b2bb8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4DMevUmm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w0bpuhbbaq0pvjvqb70u.JPG)
+[![](img/80e686c3a2f72eebb350ac24696b2bb8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4DMevUmm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w0bpuhbbaq0pvjvqb70u.JPG)
 
 构建逗号位置的短期索引是昂贵的。因为在任何`List<T>`下面都只是一个标准的`T[]`数组。该框架负责在添加元素时调整底层数组的大小。这在典型的场景中非常有用和方便。然而，我们知道有六个部分需要处理(但是我们只对其中的五个部分感兴趣)，因此至少有七个逗号需要索引。我们可以为此进行优化:-
 
@@ -470,7 +470,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 剖析揭示了下一个问题
 
-[![](../Images/4229caef0111b083ead355083387fa1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xYyh3-Tp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pff4ihm0tji7w9ym7j6o.JPG)
+[![](img/4229caef0111b083ead355083387fa1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xYyh3-Tp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pff4ihm0tji7w9ym7j6o.JPG)
 
 在`decimal`和`int`解析器内部调用`StringBuilder.ToString()`是非常昂贵的。是时候弃用`StringBuilder`了，不依赖字符串，不调用`int.parse()` / `decimal.parse()`，自己写 <sup>1</sup> `int`和`decimal`解析器。根据评测器，这应该会减少大约 1GB。写完我们自己的`int`和`decimal`解析器`V08`之后，现在的时钟在:-
 
@@ -558,7 +558,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 从`V10`开始，行解析器本身实际上是无分配的。dotTrace 揭示了剩余分配发生的位置
 
-[![](../Images/53a2691783cc8b8a991d72e7eef97329.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XgkablqE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/61kx4blefg2x8xy0nuj1.JPG)
+[![](img/53a2691783cc8b8a991d72e7eef97329.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XgkablqE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/61kx4blefg2x8xy0nuj1.JPG)
 
 这很尴尬，这个框架消耗了我们的内存分配。我们可以在比`StreamReader` :-
 更低的层次上与文件交互

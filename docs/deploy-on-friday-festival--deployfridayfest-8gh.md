@@ -10,4 +10,4 @@
 
 干杯！
 
-[![deploy](../Images/02c24897777e2b31de0ebbc6e8408633.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0zGYu_Ce--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p4xgi37b3ww3gfebigeg.gif)
+[![deploy](img/02c24897777e2b31de0ebbc6e8408633.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0zGYu_Ce--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p4xgi37b3ww3gfebigeg.gif)

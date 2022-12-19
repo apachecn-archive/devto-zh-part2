@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/aviaryan/the-toptal-hiring-process-for-freelancers-27jp>
 
-[![cover](../Images/c3996d9db54a25ef50ccbb20103ea640.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K6N4Mn66--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.us-east-2.amazonaws.com/devletters/covers/homeoffice.jpg)
+[![cover](img/c3996d9db54a25ef50ccbb20103ea640.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K6N4Mn66--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.us-east-2.amazonaws.com/devletters/covers/homeoffice.jpg)
 
 > 首次发布于 [Dev Letters](https://devletters.com/letters/toptal-process/)
 

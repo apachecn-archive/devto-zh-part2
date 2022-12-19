@@ -92,9 +92,9 @@ Enter fullscreen mode Exit fullscreen mode
 
 另一个众所周知的迁移规则是`TemporaryFolder`。不幸的是，JUnit 5 还没有提供替代品。Github 中有一个公开的[问题](http://github.com/junit-team/junit5/issues/1247)。
 
-# [![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) 介绍一个临时文件夹扩展 #1247](https://github.com/junit-team/junit5/issues/1247) 
+# [![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) 介绍一个临时文件夹扩展 #1247](https://github.com/junit-team/junit5/issues/1247) 
 
-[![sbrannen avatar](../Images/98bc9cb1e14cf24921373bcd5908e2a0.png)](https://github.com/sbrannen) **[sbrannen](https://github.com/sbrannen)** posted on [<time datetime="2018-01-18T14:44:07Z">Jan 18, 2018</time>](https://github.com/junit-team/junit5/issues/1247)
+[![sbrannen avatar](img/98bc9cb1e14cf24921373bcd5908e2a0.png)](https://github.com/sbrannen) **[sbrannen](https://github.com/sbrannen)** posted on [<time datetime="2018-01-18T14:44:07Z">Jan 18, 2018</time>](https://github.com/junit-team/junit5/issues/1247)
 
 ## 概述
 

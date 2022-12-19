@@ -24,4 +24,4 @@
 
 我们如何防止坏孩子插入坏块(或者替换好块)，或者我们如何信任 Bob 这个验证者批准坏块？在此期间，如果 Bob 被批准的坏块发现，他的 10 颗糖果的存款将被取走。
 
-[![proof of work vs proof of stake](../Images/da9c33b8742bbb14a9706ebace64a673.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wy4eiHuh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.moesif.com/blog/images/posts/ethereum/pow-vs-pos-og.png)
+[![proof of work vs proof of stake](img/da9c33b8742bbb14a9706ebace64a673.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wy4eiHuh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.moesif.com/blimg/posts/ethereum/pow-vs-pos-og.png)

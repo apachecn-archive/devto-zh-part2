@@ -106,7 +106,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 不幸的是，在使用 Spring 时，几乎不可能避免这样的警告。
 
-[![](../Images/b967afdb126962bd80e102fe068bfd47.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7eFjiHi8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hs93c4yrksfk08d9dtsl.png)
+[![](img/b967afdb126962bd80e102fe068bfd47.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7eFjiHi8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hs93c4yrksfk08d9dtsl.png)
 
 * [“运行测试运行”在 RubyConfBy 2017](https://www.youtube.com/watch?v=q52n4p0wkIs)
 

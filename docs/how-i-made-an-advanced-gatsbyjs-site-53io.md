@@ -6,13 +6,13 @@
 
 在这之后，我建立了一个先进的网站使用盖茨比仍然工程相同的 100%加载速度。
 
-[![jshype](../Images/039d30b9a38896241caf1c1da508506d.png)T2】](https://jshype.com)
+[![jshype](img/039d30b9a38896241caf1c1da508506d.png)T2】](https://jshype.com)
 
 高级意味着我在建立一个网站时专注于一切。
 
 我在谷歌浏览器审计上测试的最终结果。
 
-[![](../Images/a7b47480cef37e37160e6bc5fd03928b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--67xovoUD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/14vauk9vk7ore7bw7gq8.png)
+[![](img/a7b47480cef37e37160e6bc5fd03928b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--67xovoUD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/14vauk9vk7ore7bw7gq8.png)
 
 一切都是 100%，即使我检查了应用的 CPU 4x 节流，它仍然是 90%的性能。
 
@@ -24,7 +24,7 @@
 
 *   甚至我在我的站点上添加了一个 SEO，使用了 json/LD 来处理丰富的片段。
 
-[![jshype json/ld](../Images/f7ac59a8f34aea8836db5f5398e87de0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O2nxUpWV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ve8isgd4c6amnw598rbl.png)
+[![jshype json/ld](img/f7ac59a8f34aea8836db5f5398e87de0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O2nxUpWV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ve8isgd4c6amnw598rbl.png)
 
 ### 建设这个网站我学到了什么？
 

@@ -16,7 +16,7 @@ Visual Studio Team Services (VSTS)有一些很棒的选项，可以帮助将代�
 
 现在，如果您和我一样，您希望在创建拉请求后立即合并您的代码，没有什么可以阻止您检查自己的代码，并在自己的拉请求上单击批准和合并。然而[分支政策](https://docs.microsoft.com/en-us/vsts/git/branch-policies?view=vsts)是解决这个问题的方法。
 
-#### ![Branch Policy](../Images/b955032720936c7c458d84c6cc756c52.png)分公司政策
+#### ![Branch Policy](img/b955032720936c7c458d84c6cc756c52.png)分公司政策
 
 分支策略允许您指定如何合并代码。
 

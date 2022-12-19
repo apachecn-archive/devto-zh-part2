@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nickparsons/simple-steps-to-optimize-your-app-performance-1a70>
 
-[![Winds](../Images/6697e8f2fb069d73a3fdf2f6da6b50a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CAmobpRi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/exj289su867h0z737wdh.png)
+[![Winds](img/6697e8f2fb069d73a3fdf2f6da6b50a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CAmobpRi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/exj289su867h0z737wdh.png)
 
 # 先做第一件事
 
@@ -12,7 +12,7 @@
 
 在这篇文章中，我们将讨论如何通过优化数据库模式和添加缓存来减少 API 调用延迟，以及我们实现的其他工具和改进。
 
-[![](../Images/4998191dd809d86d22fec670c8fb8dcf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FjtSjzHm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image3-3.png%3Fw%3D1024%26h%3D1024)
+[![](img/4998191dd809d86d22fec670c8fb8dcf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FjtSjzHm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image3-3.png%3Fw%3D1024%26h%3D1024)
 
 # 可视化&优化 API 调用
 
@@ -24,7 +24,7 @@
 
 这是 New Relic 在野外的截图(你会注意到我们还没有优化我们的 **POST /rss** 端点*——这是 New Relic 如何让我们看到哪些端点需要优化的完美例子)。*
 
- *[![](../Images/f51b4ee0f9333dce58248de0cdd7f84e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4oGhofbJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image6-1.png%3Fw%3D1024%26h%3D1024)
+ *[![](img/f51b4ee0f9333dce58248de0cdd7f84e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4oGhofbJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image6-1.png%3Fw%3D1024%26h%3D1024)
 
 在上面截图中的“交易”下，您会看到一个路线列表。这些是 API 路由，以及从应用程序到 API、数据库并返回所需的时间(以毫秒为单位)。了解往返需要多长时间对于隔离缓慢的响应时间非常重要。
 
@@ -32,7 +32,7 @@
 
 这个工具*很神奇*。 [VictorOps](https://victorops.com/) 允许我们的团队指派其他团队成员“随叫随到”，如果/当出现问题(如 API 关闭)时，VictorOps 将 ping 用户 Slack 并发送短信以引起他们的注意。这个过程加快了解决问题的速度，并让团队中的每个人都知道应用程序是否有问题。下面是我们的帐户仪表板的屏幕截图:
 
-[![](../Images/df8d12989070709ce678200efa9201d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hfz5uDuk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image8-1.png%3Fw%3D1024%26h%3D1024)
+[![](img/df8d12989070709ce678200efa9201d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hfz5uDuk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image8-1.png%3Fw%3D1024%26h%3D1024)
 
 ## 〔t0〕〔t1〕站起来
 
@@ -181,11 +181,11 @@ Graphite 由三个软件组件组成:Carbon、Whisper 和 Graphite Web。Carbon 
 
 关于 Graphite 的详细实现和其他信息可以在[这里](https://graphiteapp.org/)找到。
 
-[![](../Images/d8ad739f5dc3ba60e962cbf8a14a0054.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GDNDEh5N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image2-3.png%3Fw%3D1024%26h%3D1024)
+[![](img/d8ad739f5dc3ba60e962cbf8a14a0054.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GDNDEh5N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image2-3.png%3Fw%3D1024%26h%3D1024)
 
 ## 格拉法纳
 
-Grafana 是领先的时间序列分析开源软件，这也是我们选择将其用于风和河流的原因。Grafana 允许我们的团队查询、可视化、警告和理解从 Graphite 检索的风的度量。它充满了令人敬畏的可视化工具(如下面的截图所示)，允许我们的团队挑选和选择我们想要如何显示我们的数据。【T2![](../Images/0cd3e996581e74be253ceb746f72cb78.png)
+Grafana 是领先的时间序列分析开源软件，这也是我们选择将其用于风和河流的原因。Grafana 允许我们的团队查询、可视化、警告和理解从 Graphite 检索的风的度量。它充满了令人敬畏的可视化工具(如下面的截图所示)，允许我们的团队挑选和选择我们想要如何显示我们的数据。【T2![](img/0cd3e996581e74be253ceb746f72cb78.png)
 
 # 优化我们的 MongoDB 数据库
 
@@ -193,7 +193,7 @@ Grafana 是领先的时间序列分析开源软件，这也是我们选择将其
 
 虽然 MongoDB Atlas 负责数据库管理的繁重工作。这并不意味着它解决了所有问题。文档需要正确地组织和索引，我们需要确保将读写保持在最低水平，这样我们就不会使用所有分配的每秒输入/输出操作(IOPS)和连接。
 
-[![](../Images/fc2af4ff4093426df7462e0be0874713.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jfP8QLOe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image11.png%3Fw%3D1024%26h%3D1024)
+[![](img/fc2af4ff4093426df7462e0be0874713.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jfP8QLOe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image11.png%3Fw%3D1024%26h%3D1024)
 
 ## 指标使用情况
 
@@ -203,7 +203,7 @@ Grafana 是领先的时间序列分析开源软件，这也是我们选择将其
 
 下图说明了一个使用索引对匹配文档进行选择和排序的查询:
 
-[![](../Images/87740c8b13bb41cc1889c2a0cad81323.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tiNw3y7i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image10-1.png%3Fw%3D1024%26h%3D1024)
+[![](img/87740c8b13bb41cc1889c2a0cad81323.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tiNw3y7i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image10-1.png%3Fw%3D1024%26h%3D1024)
 
 ## 散列索引
 
@@ -217,7 +217,7 @@ Grafana 是领先的时间序列分析开源软件，这也是我们选择将其
 
 除了 default _id 索引之外，MongoDB 还支持在文档的单个字段上创建用户定义的升序/降序索引。这将是你最常用的索引类型。
 
-[![](../Images/2ab4d87172d99f92cb7657d944a105d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e79k78V---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image1-3.png%3Fw%3D1024%26h%3D1024)
+[![](img/2ab4d87172d99f92cb7657d944a105d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e79k78V---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image1-3.png%3Fw%3D1024%26h%3D1024)
 
 对于单字段索引和排序操作，索引键的排序顺序(即升序或降序)并不重要，因为 MongoDB 可以在任一方向上遍历索引。
 
@@ -227,7 +227,7 @@ Grafana 是领先的时间序列分析开源软件，这也是我们选择将其
 
 > **注意:您不能创建具有散列索引类型的复合索引。如果试图创建包含哈希索引字段的复合索引，将会收到错误消息。**
 
-[![](../Images/2200bea3b4dc1bc0493e0bde32ebbbd8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--POpJQerc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image9-1.png%3Fw%3D1024%26h%3D1024)
+[![](img/2200bea3b4dc1bc0493e0bde32ebbbd8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--POpJQerc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image9-1.png%3Fw%3D1024%26h%3D1024)
 
 要创建复合索引，请使用类似如下的操作:
 
@@ -342,7 +342,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 例如，在 Winds 的注册阶段，我们会问你的兴趣是什么，这样我们就可以利用机器学习围绕你喜欢的东西打造用户体验。这个步骤过去需要调用数据库来获取数据库 ID，这样就可以存储它。现在，我们简单地将利息存储为 JSON，并对 Redis 进行查询。因为 Redis 将所有内容都存储在内存中，所以这是一个非常轻量级的任务，几乎没有额外的延迟。
 
-[![](../Images/35496c32b9dbc06239cb069206231050.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VJpsJbJF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image5-2.png%3Fw%3D1024%26h%3D1024)
+[![](img/35496c32b9dbc06239cb069206231050.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VJpsJbJF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image5-2.png%3Fw%3D1024%26h%3D1024)
 
 这里有一个我们如何在风中存储利息的例子:
 
@@ -430,7 +430,7 @@ Bull 是一个奇妙的排队系统，位于 Redis 之上。我们在 Winds 中�
 
 > **注意:这是我们队列的快速截图。这将显示队列中活跃的 RSS、Podcast 和打开的 Graph 作业的数量及其状态。Bull 通过 API 提供所有这些数据，使我们能够更好地了解幕后发生的事情。你也可以使用其他第三方用户界面进行监控，比如[任务组](https://taskforce.sh/)和[竞技场](https://github.com/mixmaxhq/arena)。**
 
-[![](../Images/b195ece05df325a1f4d1351ef5ea7132.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AviG7LvW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image4-3.png%3Fw%3D1024%26h%3D1024)
+[![](img/b195ece05df325a1f4d1351ef5ea7132.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AviG7LvW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image4-3.png%3Fw%3D1024%26h%3D1024)
 
 # 使用专用解决方案
 

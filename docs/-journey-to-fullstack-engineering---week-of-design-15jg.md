@@ -26,7 +26,7 @@
 
 主页和登录页面通常是真正进行转换的地方，我想创造一些美丽的东西，但同时简单而快速地传递信息，我打算创建一个 gif，虽然它会显示作为页面设置的一部分使用的应用程序的样本，但我还没有，所以目前我解决了插图。虽然我的插画技巧相当生疏，但我认为我在这方面做得不错。通过练习变得更好。这里有一个预览，该项目的大部分设计都可以在 dribbble 上获得
 
-[![](../Images/00ab64fa607d451b7bb82bd1c1db2b4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ib7_oYEe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_C8E47E5F5ED0C422322A743DF57E08596C703485A339139552F57A1B289305C1_1530311137802_Home%2B1.png)
+[![](img/00ab64fa607d451b7bb82bd1c1db2b4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ib7_oYEe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_C8E47E5F5ED0C422322A743DF57E08596C703485A339139552F57A1B289305C1_1530311137802_Home%2B1.png)
 
 我认为它仍然有点生疏，这里的工作速度很快，但随着项目的进展，主页/登陆页将进行大量的更改，因此我不试图在第一次就把一切都放在那里。
 
@@ -36,9 +36,9 @@
 
 随着登录和注册，我想有一个不同的插图集，并与中央卡设计，我认为没有多少开发人员为导向的产品侧重于这样的设计概念，所以我想尽我所能或任何我已经得到的，而不是在拉下来。
 
-[![](../Images/1386e4cf815a18a93687117d19ff083a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cjgjFeBc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_C8E47E5F5ED0C422322A743DF57E08596C703485A339139552F57A1B289305C1_1530311424313_Signup%2B1.png)
+[![](img/1386e4cf815a18a93687117d19ff083a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cjgjFeBc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_C8E47E5F5ED0C422322A743DF57E08596C703485A339139552F57A1B289305C1_1530311424313_Signup%2B1.png)
 
-[![](../Images/5f6ef8c510145bfc8aece031287bcb06.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I0fciA6E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_C8E47E5F5ED0C422322A743DF57E08596C703485A339139552F57A1B289305C1_1530311441464_Login.png)
+[![](img/5f6ef8c510145bfc8aece031287bcb06.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I0fciA6E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_C8E47E5F5ED0C422322A743DF57E08596C703485A339139552F57A1B289305C1_1530311441464_Login.png)
 
 在很大程度上，我认为这没问题，但这些部分可能会有一些调整和改进，我希望能得到一些设计师的参与，看看他们能做些什么，希望能得到一些改进这个概念的方法。
 
@@ -48,22 +48,22 @@
 
 该页面将为用户提供他们的项目或项目的快速概述，并帮助他们获得事物的广泛概述，形成设计，我打算仪表板一次处理项目概述，因为项目将处理服务器和协作者，管理部署挂钩，并使用心跳提供一致性检查。
 
-[![](../Images/d3cfde46f06b28a2071a13e45c5a2cd9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PowHrSP_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_C8E47E5F5ED0C422322A743DF57E08596C703485A339139552F57A1B289305C1_1530311704430_Dashboard%2B1.png)
+[![](img/d3cfde46f06b28a2071a13e45c5a2cd9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PowHrSP_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_C8E47E5F5ED0C422322A743DF57E08596C703485A339139552F57A1B289305C1_1530311704430_Dashboard%2B1.png)
 
 虽然我认为这个页面也可能需要一些改进和升级，但在很大程度上，这是一个基本的概述，我会继续改进。
 接下来是项目设置。
 
 ## 项目设置
 
-[![](../Images/1566bdeddcb79919b94c7f7adc8af4fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HzJIpuHn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_C8E47E5F5ED0C422322A743DF57E08596C703485A339139552F57A1B289305C1_1530312120347_Project%2BSettings%2B-%2BProject%2BDetails.png)
+[![](img/1566bdeddcb79919b94c7f7adc8af4fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HzJIpuHn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_C8E47E5F5ED0C422322A743DF57E08596C703485A339139552F57A1B289305C1_1530312120347_Project%2BSettings%2B-%2BProject%2BDetails.png)
 
 以上是项目的设置页面，这一部分将允许用户能够管理他们的项目细节，并改变有关该项目的某些信息和变量，与设计过程的其余部分相同，它的目的是极简和直奔主题。
 
-[![](../Images/7a2caa20e0fcf1dc489eb4cb58256bbe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ngNaXI3p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_C8E47E5F5ED0C422322A743DF57E08596C703485A339139552F57A1B289305C1_1530312425403_Project%2BSettings%2B-%2BServer%2BDetails.png)
+[![](img/7a2caa20e0fcf1dc489eb4cb58256bbe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ngNaXI3p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_C8E47E5F5ED0C422322A743DF57E08596C703485A339139552F57A1B289305C1_1530312425403_Project%2BSettings%2B-%2BServer%2BDetails.png)
 
 这是该项目的服务器管理系统，这管理项目连接的服务器，它将允许用户能够在需要时添加，删除和更新新的密钥服务器。
 
-[![](../Images/d762f5539eda914e65a510260eb0cac5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y9hd1RTQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_C8E47E5F5ED0C422322A743DF57E08596C703485A339139552F57A1B289305C1_1530312477776_Project%2BSettings%2B-Collborators.png)
+[![](img/d762f5539eda914e65a510260eb0cac5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y9hd1RTQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_C8E47E5F5ED0C422322A743DF57E08596C703485A339139552F57A1B289305C1_1530312477776_Project%2BSettings%2B-Collborators.png)
 
 如果所有者帐户对项目拥有最高控制权，该部分将管理项目的合作者，拥有删除项目、分配管理员和限制其他用户访问项目的权限。
 

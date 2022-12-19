@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/react-datepicker-2oc6>
 
-[![](../Images/7ee0cf0518286686a698038b89c735e0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9eSfznFM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AU944VbSXNnjEB0x-zhTslg.jpeg) 
+[![](img/7ee0cf0518286686a698038b89c735e0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9eSfznFM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AU944VbSXNnjEB0x-zhTslg.jpeg) 
 
 <figcaption>原图由 [rawpixel](https://unsplash.com/photos/ZMMXSRMSoI8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 上 [Unsplash](https://unsplash.com/search/photos/calendar?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 
@@ -12,11 +12,11 @@
 
 你可以在这里找到更多关于日期输入类型和浏览器支持的信息。
 
-[![](../Images/2bc5c2cd4cb0da7319feeebb0913c124.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Av6Qv025--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AxMzl9zhZnW-ATJ3d.jpg)
+[![](img/2bc5c2cd4cb0da7319feeebb0913c124.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Av6Qv025--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AxMzl9zhZnW-ATJ3d.jpg)
 
 在本教程中，您将学习如何使用 React 和本地 JavaScript 日期对象从头构建一个自定义日期选择器。下面是一个简短的演示，展示了日期选择器的外观。
 
-[![](../Images/bb32e6b034af2cc447740ee57bc88cdf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lp09YQB_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/480/0%2A56OXuBzi5_p9egND.gif)
+[![](img/bb32e6b034af2cc447740ee57bc88cdf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lp09YQB_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/480/0%2A56OXuBzi5_p9egND.gif)
 
 还可以在**代码沙箱**上获得现场演示。
 
@@ -30,7 +30,7 @@
 
 React 应用程序的样板代码将使用 [create-react-app](https://github.com/facebook/create-react-app) 包创建。您还需要确保它已全局安装在您的计算机上。如果你正在使用 npm > = 5.2，那么你不需要安装 create-react-app 作为一个全局依赖——你可以使用 npx 命令。
 
-[![LogRocket Free Trial Banner](../Images/4aa67f42a82d61c79b61acb13eae9479.png)T2】](https://logrocket.com/signup/)
+[![LogRocket Free Trial Banner](img/4aa67f42a82d61c79b61acb13eae9479.png)T2】](https://logrocket.com/signup/)
 
 ### 入门
 
@@ -512,13 +512,13 @@ class Calendar extends Component {
 
 renderMonthAndYear()方法呈现的 DOM 类似于下面的屏幕截图(带有一些样式):
 
-[![](../Images/9b02673791e4a6b33ba2d100e581c516.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RgPUL-PE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/788/0%2ApkHRL-f8Jtgz8vvS.png)
+[![](img/9b02673791e4a6b33ba2d100e581c516.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RgPUL-PE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/788/0%2ApkHRL-f8Jtgz8vvS.png)
 
 renderDayLabel()方法呈现一周中某一天的标签。它从 WEEK_DAYS 对象中解析标签。注意，它有两个参数——day 和 index，因为它被用作。在 render()方法中看到的 map()。
 
 映射之后，这是一周中每一天呈现的 DOM 的样子。
 
-[![](../Images/1d5a61211b85e459cb080e0313a6afd9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L9NRnrFw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/804/0%2AMOCVDGkwn5Lm09qO.png)
+[![](img/1d5a61211b85e459cb080e0313a6afd9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L9NRnrFw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/804/0%2AMOCVDGkwn5Lm09qO.png)
 
 renderCalendarDate()方法也用作. map()回调函数，并呈现日历日期。它作为第一个参数接收的日期格式为[YYYY，MM，DD]。
 
@@ -783,7 +783,7 @@ export const TodayCalendarDate = styled(HighlightedCalendarDate)`
 
 这就是正确呈现日历所需的组件和样式。如果此时在应用程序中渲染日历组件，它应该看起来像这个截图。
 
-[![](../Images/cf93389bef28afbfc35234ea972d84cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kGhZUcIx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AokAZnzvskWp0uOzk.png)
+[![](img/cf93389bef28afbfc35234ea972d84cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kGhZUcIx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AokAZnzvskWp0uOzk.png)
 
 ### 日期选择器组件
 
@@ -914,7 +914,7 @@ class Datepicker extends React.Component {
 
 Datepicker 组件的最终呈现的 DOM 应该类似于下面的屏幕截图(带有一些样式):
 
-[![](../Images/6de48bf8bde56916bdd46096cb245c3c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0V3uNkd8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AVZmq6zHfYiuw5Fp3.png)
+[![](img/6de48bf8bde56916bdd46096cb245c3c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0V3uNkd8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AVZmq6zHfYiuw5Fp3.png)
 
 #### 设置日期选择器的样式
 
@@ -1046,7 +1046,7 @@ export default App;
 
 ## Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![LogRocket Dashboard Free Trial Banner](../Images/0abf868fe5ccbed99d71cb8d9e81ed98.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6FG5kvEL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png%3Fresize%3D1200%252C677%26ssl%3D1)
+[![LogRocket Dashboard Free Trial Banner](img/0abf868fe5ccbed99d71cb8d9e81ed98.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6FG5kvEL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png%3Fresize%3D1200%252C677%26ssl%3D1)
 
 [log rocket](https://logrocket.com/signup/)是一个前端日志工具，让你重放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

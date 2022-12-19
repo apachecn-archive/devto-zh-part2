@@ -6,7 +6,7 @@
 
 最近在 Drupal 中构建站点时，我收到的一个常见请求是让页面标题的背景可配置，以允许用户上传和更改它。
 
-[![](../Images/7769d7b674a738cbace7a58522a97480.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gg0JK6_N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_58B000CCEE244A0B10193C36972405EDDB99EDFC2E3CC8B2EF3D6B543327D95C_1520443205424_image.png)
+[![](img/7769d7b674a738cbace7a58522a97480.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gg0JK6_N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_58B000CCEE244A0B10193C36972405EDDB99EDFC2E3CC8B2EF3D6B543327D95C_1520443205424_image.png)
 
 当然，这可以用一个新的具有两个字段的块类型来解决，一个用于图像，一个用于标题。但是接下来我们需要为每一页添加我们想要显示标题的块。
 
@@ -108,7 +108,7 @@ Enter fullscreen mode Exit fullscreen mode
 
         $form['image'] = array(
           '#type' => 'managed_file',
-          '#upload_location' => 'public://images/',
+          '#upload_location' => 'publicimg/',
           '#title' => $this->t('Image'),
           '#description' => $this->t("Background image"),
           '#default_value' => $this->configuration['image'],
@@ -159,7 +159,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们创建 *title_bar* 图像样式并相应地配置它(在我的例子中，调整大小并裁剪到预定义的大小就可以了)。
 
-[![](../Images/35c9ea877b28054e0edfc67984907eb4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1xpSlm2C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_58B000CCEE244A0B10193C36972405EDDB99EDFC2E3CC8B2EF3D6B543327D95C_1520464421443_image.png)
+[![](img/35c9ea877b28054e0edfc67984907eb4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1xpSlm2C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_58B000CCEE244A0B10193C36972405EDDB99EDFC2E3CC8B2EF3D6B543327D95C_1520464421443_image.png)
 
 然后，更新你的主题，确保图片 url 显示在一个`style`属性中，或者如果你使用 javascript 加载图片，显示在一个`data-*`属性中。
 
@@ -184,6 +184,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们测试一下！
 
-[![](../Images/2f856d974cd9061b643c6cda2dcbc54c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HDz_EbG4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_58B000CCEE244A0B10193C36972405EDDB99EDFC2E3CC8B2EF3D6B543327D95C_1520465614212_image.png)
-[![](../Images/9e7cb15b5c1bb008e0094682d0077896.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LPmb7rp1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_58B000CCEE244A0B10193C36972405EDDB99EDFC2E3CC8B2EF3D6B543327D95C_1520465649359_image.png)
-[![](../Images/ec87619164f43d9b36c5f4ca72372e76.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PTSGpHRE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_58B000CCEE244A0B10193C36972405EDDB99EDFC2E3CC8B2EF3D6B543327D95C_1520465716498_image.png)
+[![](img/2f856d974cd9061b643c6cda2dcbc54c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HDz_EbG4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_58B000CCEE244A0B10193C36972405EDDB99EDFC2E3CC8B2EF3D6B543327D95C_1520465614212_image.png)
+[![](img/9e7cb15b5c1bb008e0094682d0077896.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LPmb7rp1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_58B000CCEE244A0B10193C36972405EDDB99EDFC2E3CC8B2EF3D6B543327D95C_1520465649359_image.png)
+[![](img/ec87619164f43d9b36c5f4ca72372e76.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PTSGpHRE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_58B000CCEE244A0B10193C36972405EDDB99EDFC2E3CC8B2EF3D6B543327D95C_1520465716498_image.png)

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/mskian/install-z-shell-oh-my-zsh-on-ubuntu-1804-lts-4cm4>
 
-[![Z-shell for Ubuntu](../Images/b93cb81d66bbc30b28888c5322bb6b37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WMKb-PNA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qmdocrps1ngl6v1ox29n.png)
+[![Z-shell for Ubuntu](img/b93cb81d66bbc30b28888c5322bb6b37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WMKb-PNA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qmdocrps1ngl6v1ox29n.png)
 
 *   更新软件包
 

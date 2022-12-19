@@ -36,7 +36,7 @@ METRC 是一家第三方公司，与许多州签订了合同，负责种子销�
 
 他们使用 GoToMeeting，要求我下载那个程序。当我第一次点击邀请链接时，网上研讨会已经满员了，我尝试了大约 20 次，直到 15 分钟后才进入。最终进入网上研讨会后，音频工作正常，但屏幕演示者的幻灯片在演示的前半部分不起作用。幸运的是，在聊天中抱怨之后，他们发出了一个 PDF 副本的链接。演讲者很糟糕，大部分时间都在喃喃自语，而且在主题上语无伦次。
 
-<figure>[![](../Images/3492b1a09fd6f1964d5326e735915afe.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mRY0v_-E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://stayregular.net/content/2-blog/20180305-how-to-get-certified-for-metrc/webinar-full.png) 
+<figure>[![](img/3492b1a09fd6f1964d5326e735915afe.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mRY0v_-E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://stayregular.net/content/2-blog/20180305-how-to-get-certified-for-metrc/webinar-full.png) 
 
 <figcaption>METRC 超额预订网络研讨会，尽管要求您预订一个位置</figcaption>
 
@@ -50,7 +50,7 @@ METRC 是一家第三方公司，与许多州签订了合同，负责种子销�
 
 下面是其中一个问题的例子:
 
-<figure>[![](../Images/6a0ffcd572daf4ab47fd85f623f8b56c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NYK6WPL_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://stayregular.net/content/2-blog/20180305-how-to-get-certified-for-metrc/metrc-exam.png) 
+<figure>[![](img/6a0ffcd572daf4ab47fd85f623f8b56c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NYK6WPL_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://stayregular.net/content/2-blog/20180305-how-to-get-certified-for-metrc/metrc-exam.png) 
 
 <figcaption>英国 METRC 认证考试</figcaption>
 
@@ -94,7 +94,7 @@ METRC simple 没有为您提供足够的数据来完成测试，从他们不完�
 
 说到慢速服务器，API 沙箱在我的测试期间崩溃了，在他们能够让我的应用程序重新上线之前，我无法测试我的应用程序 3 天。如果你在时间表中给自己分配了时间，请记住这一点。
 
-<figure>[![](../Images/915562fcb5e03bdc24ded227d1980ee8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--D1C5-MDM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://stayregular.net/content/2-blog/20180305-how-to-get-certified-for-metrc/metrc-fail-website-down.png) 
+<figure>[![](img/915562fcb5e03bdc24ded227d1980ee8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--D1C5-MDM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://stayregular.net/content/2-blog/20180305-how-to-get-certified-for-metrc/metrc-fail-website-down.png) 
 
 <figcaption>沙盒 API 显示错误消息</figcaption>
 
@@ -116,7 +116,7 @@ METRC simple 没有为您提供足够的数据来完成测试，从他们不完�
 
 我就这个问题联系了 METRC 的工作人员，但从未得到任何支持。唯一的解决办法是改变设施，找到另一个有真正标签的工厂，并使用它。
 
-<figure>[![](../Images/94ee84f83335ae0b1096f3ceb103bd9a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Z4v2k70d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://stayregular.net/content/2-blog/20180305-how-to-get-certified-for-metrc/metrc-fail-plant-tags.png) 
+<figure>[![](img/94ee84f83335ae0b1096f3ceb103bd9a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Z4v2k70d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://stayregular.net/content/2-blog/20180305-how-to-get-certified-for-metrc/metrc-fail-plant-tags.png) 
 
 <figcaption>植物需要标记，但有些植物没有标记</figcaption>
 

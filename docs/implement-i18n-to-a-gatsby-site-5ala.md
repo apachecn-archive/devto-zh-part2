@@ -4,7 +4,7 @@
 
 > 这篇文章最初发表在 [Obytes 博客](https://www.obytes.com/blog/2018/implement-i18n-to-gatsby/)上。
 
-[![i18n on gatsby](../Images/23d2f1349c47f7e49092bacad0b0d38c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2B4YEeMg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d33wubrfki0l68.cloudfront.net/f5e077cd6bfbfc8c5f1d97953f0ea318ca0943ff/70e5e/assets/images/blog/i18n-gatsby/i18n.png)
+[![i18n on gatsby](img/23d2f1349c47f7e49092bacad0b0d38c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2B4YEeMg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d33wubrfki0l68.cloudfront.net/f5e077cd6bfbfc8c5f1d97953f0ea318ca0943ff/70e5e/asseimg/blog/i18n-gatsby/i18n.png)
 
 在这篇文章中，我们将使用 react-intl 和 [React context API](https://reactjs.org/docs/context.html) 对一个 [Gatsby](https://gatsbyjs.org) 站点实现 i18n(国际化),在这篇文章中，我们将只涉及英语和阿拉伯语，但是如果你愿意，你可以添加更多的语言，在我们开始之前，让我们首先计划我们想要如何实现它。
 
@@ -324,7 +324,7 @@ module.exports = {
                 background_color: '#663399',
                 theme_color: '#663399',
                 display: 'minimal-ui',
-                icon: 'src/images/gatsby-icon.png',
+                icon: 'simg/gatsby-icon.png',
             },
         },
         'gatsby-plugin-offline',

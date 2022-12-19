@@ -8,12 +8,12 @@
 
 ## 图表显示每个选项每个配置的成功案例。
 
-[![Distance](../Images/d97dc3a43a0b64992c70abf605afbb44.png "Most Wins: 280")](https://res.cloudinary.com/practicaldev/image/fetch/s--775ogR1q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pastebin.com/raw/pN1BAGFS)
-[![Fov](../Images/29c6bbb31c74eff9e4283b3c9b0b096a.png "Most Wins: 110")](https://res.cloudinary.com/practicaldev/image/fetch/s--TvDyKnwh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pastebin.com/raw/mhKYi6xg)
-[![Height](../Images/ae2c4f6a712d7ace69e7bbb07e432b92.png "Most Wins: 110")](https://res.cloudinary.com/practicaldev/image/fetch/s--4KYCIPMY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pastebin.com/raw/MjapnwTy)
-[![Pitch](../Images/cd96ed370a0f5c1000fa8512d51f3819.png "Most Wins: -3, default")](https://res.cloudinary.com/practicaldev/image/fetch/s--8far_8yG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pastebin.com/raw/SaX5RS4J)
-[![Stiffness](../Images/31d67dd508ff756a7437871592b20c7e.png "Most Wins: 0.3, default")](https://res.cloudinary.com/practicaldev/image/fetch/s--RuF18l-c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pastebin.com/raw/WHwN82cK)
-[![Swivel](../Images/645125c7a63af5a245d8ebd9c721bb59.png "Most Wins: 2.5, default")T22】](https://res.cloudinary.com/practicaldev/image/fetch/s--qoMmEPrT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pastebin.com/raw/dkQdms7q)
+[![Distance](img/d97dc3a43a0b64992c70abf605afbb44.png "Most Wins: 280")](https://res.cloudinary.com/practicaldev/image/fetch/s--775ogR1q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pastebin.com/raw/pN1BAGFS)
+[![Fov](img/29c6bbb31c74eff9e4283b3c9b0b096a.png "Most Wins: 110")](https://res.cloudinary.com/practicaldev/image/fetch/s--TvDyKnwh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pastebin.com/raw/mhKYi6xg)
+[![Height](img/ae2c4f6a712d7ace69e7bbb07e432b92.png "Most Wins: 110")](https://res.cloudinary.com/practicaldev/image/fetch/s--4KYCIPMY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pastebin.com/raw/MjapnwTy)
+[![Pitch](img/cd96ed370a0f5c1000fa8512d51f3819.png "Most Wins: -3, default")](https://res.cloudinary.com/practicaldev/image/fetch/s--8far_8yG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pastebin.com/raw/SaX5RS4J)
+[![Stiffness](img/31d67dd508ff756a7437871592b20c7e.png "Most Wins: 0.3, default")](https://res.cloudinary.com/practicaldev/image/fetch/s--RuF18l-c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pastebin.com/raw/WHwN82cK)
+[![Swivel](img/645125c7a63af5a245d8ebd9c721bb59.png "Most Wins: 2.5, default")T22】](https://res.cloudinary.com/practicaldev/image/fetch/s--qoMmEPrT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pastebin.com/raw/dkQdms7q)
 
 ## 关于数据
 
@@ -33,7 +33,7 @@
 
 这是我使用的工具...大约一年前，我写得很糟糕，代码本身没有注释，而且几乎总是有效。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)[agent d00n ut](https://github.com/agentd00nut)/[CSS _ scraper](https://github.com/agentd00nut/css_scraper)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)[agent d00n ut](https://github.com/agentd00nut)/[CSS _ scraper](https://github.com/agentd00nut/css_scraper)
 
 ### 通过 css 选择器简化网页抓取。
 

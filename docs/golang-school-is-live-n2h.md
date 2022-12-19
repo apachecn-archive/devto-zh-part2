@@ -24,7 +24,7 @@
 
 从我们的登陆页面获取您的护照:[https://gophersland.com](https://gophersland.com)
 
-[![gophersland passport](../Images/19b6d7380bfad627b0532b18117316a9.png)T2】](https://gophersland.com)
+[![gophersland passport](img/19b6d7380bfad627b0532b18117316a9.png)T2】](https://gophersland.com)
 
 我的朋友，在戈弗兰王国的图书馆再见，
 万事如意，

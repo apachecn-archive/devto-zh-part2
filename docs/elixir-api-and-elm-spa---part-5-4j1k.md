@@ -277,11 +277,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 在第一次登录之前，它是空的:
 
-[![Browser Local Storage empty before logging in](../Images/c32a86e442fe237125519430127f8c27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8q5vVmxI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/edwhieuer4nhrhipet2g.png)
+[![Browser Local Storage empty before logging in](img/c32a86e442fe237125519430127f8c27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8q5vVmxI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/edwhieuer4nhrhipet2g.png)
 
 成功登录后，它应该包含会话数据:
 
-[![Browser Local Storage after logging in](../Images/1bcde9ab198e36f8bc34f8fbaad7b5d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z2M2myM4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lurirr2e336bg79cy1gm.png)
+[![Browser Local Storage after logging in](img/1bcde9ab198e36f8bc34f8fbaad7b5d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z2M2myM4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lurirr2e336bg79cy1gm.png)
 
 ## 添加注销动作
 
@@ -514,11 +514,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们注销完毕。重新加载应用程序，并验证在本地存储中登录后应该有正确的序列化会话。当我们点击注销按钮时，请求被发出，然后一段时间后，LogoutCompleted 消息将被发送以继续注销。发生这种情况时，localStorage 将被设置为 Nothing，并且您应该在浏览器开发工具中看到一个 null 作为 localStorage.session 属性的值。另外，您应该在主页结束并注销。
 
-[![](../Images/4c1caa9cc3f613d2390a2044f42211b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VSnMJkGN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/232ih0ri0wqxx4mipaql.png)
+[![](img/4c1caa9cc3f613d2390a2044f42211b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VSnMJkGN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/232ih0ri0wqxx4mipaql.png)
 
 点击注销菜单后，本地存储被设置为空
 
-[![](../Images/ac0ca3d0c9c70de59c5ef4703a1142df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--veHJeR9g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3n8p4ytmoox18cuhde0k.png)
+[![](img/ac0ca3d0c9c70de59c5ef4703a1142df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--veHJeR9g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3n8p4ytmoox18cuhde0k.png)
 
 ## 添加错误页面
 
@@ -652,7 +652,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 就是这样。现在登录应用程序，停止后端 API 并尝试注销。您应该会看到错误页面
 
-[![Error page shown when there is an error](../Images/10200ac7c2b32f8838d6a520dc34c3fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---Ksills3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zzxb3992vhlxsvfdfw57.png)
+[![Error page shown when there is an error](img/10200ac7c2b32f8838d6a520dc34c3fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---Ksills3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zzxb3992vhlxsvfdfw57.png)
 
 你可以在 part-05 分支的这里找到源代码[。](https://github.com/miguelcoba/toltec-web/tree/part-05)
 

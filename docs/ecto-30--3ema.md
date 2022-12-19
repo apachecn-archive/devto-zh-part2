@@ -23,7 +23,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 #### [t1■APP 应用的使用存储器](#%E5%9B%B3001%E2%96%A0%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E4%BD%BF%E7%94%A8%E3%83%A1%E3%83%A2%E3%83%AA)
 
-[![memory.png](../Images/033a8efeb5040b37d5e0a21288c4d64d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yGGSnyU8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.plataformatec.com.br/wp-content/uploads/2018/10/memory.png)
+[![memory.png](img/033a8efeb5040b37d5e0a21288c4d64d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yGGSnyU8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.plataformatec.com.br/wp-content/uploads/2018/10/memory.png)
 
 内存使用量下降是在从 Ecto 2 部署到 Ecto 3 的瞬间。 这个 APP 应用程序在启动过程中读取了很多数据。 你会发现内存的使用得到了怎样的改善。 系统稳定后，平均使用内存总体下降 15%。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kevcui/3-mitmproxy-tips-you-might-not-know-about-5dbg>
 
-[![coverimage](../Images/85f157cf0757d694460a6bae64b617f4.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--xacUQW4h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AaleslIm6g3NqRL1xLQ3w5g.jpeg) <sup>*照片由[阿什巴兹](https://unsplash.com/photos/betmVWGYcLY)*</sup> 
+[![coverimage](img/85f157cf0757d694460a6bae64b617f4.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--xacUQW4h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AaleslIm6g3NqRL1xLQ3w5g.jpeg) <sup>*照片由[阿什巴兹](https://unsplash.com/photos/betmVWGYcLY)*</sup> 
 
 mitmproxy 是一个强大的代理工具，用于调试网络请求和响应。这是我最喜欢的代理工具，并成为我日常工作的必备工具之一。我想和你分享 3 个你可能不知道的秘诀。
 
@@ -75,7 +75,7 @@ mitmproxy 的杀手级特性是脚本。使用 python 脚本，所有的请求�
 *   在客户端访问`http://example.com/pass`
 *   初始响应现在被`test_pass.json` *(顶端终端)*中的响应所取代
 
-[![mitmproxy mock server picture](../Images/3b7e9d70f6fe09ad704bbeb788002ffe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rh3qMV5K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/KevCui/mitm-scripts/master/screenshot/mitm-rewrite-example.jpg)
+[![mitmproxy mock server picture](img/3b7e9d70f6fe09ad704bbeb788002ffe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rh3qMV5K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/KevCui/mitm-scripts/master/screenshot/mitm-rewrite-example.jpg)
 
 如果你想知道更多有用的脚本，我有一个 [mitm-scripts 集合](https://github.com/KevCui/mitm-scripts)可以查看。如果你想制作自己的脚本，这里有[一些例子](https://github.com/mitmproxy/mitmproxy/tree/master/examples/simple)。
 

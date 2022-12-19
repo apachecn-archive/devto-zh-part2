@@ -4,7 +4,7 @@
 
 我想写一篇关于我最喜欢的可访问性主题之一的博文——键盘可访问性！我甚至没有尝试就测试了这么多，因为作为一名开发人员，我经常使用键盘。我用它在应用程序中导航，在网页中导航，在浏览器上滚动浏览我的数百万个标签页(还有谁对此感到内疚呢，哈哈)。
 
-[![Gif of Tom Hanks in You Got Mail movie typing at his computer, looking frustrated.](../Images/0dc7ddc48a420d7c13570198a576f346.png)T2】](https://i.giphy.com/media/LPn77YyDIqfhm/giphy.gif)
+[![Gif of Tom Hanks in You Got Mail movie typing at his computer, looking frustrated.](img/0dc7ddc48a420d7c13570198a576f346.png)T2】](https://i.giphy.com/media/LPn77YyDIqfhm/giphy.gif)
 
 ## 什么是键盘辅助功能
 
@@ -115,19 +115,19 @@ PSA:当你试图在不调整 tabindex 的情况下制作一个`<div>`类似于�
 
 什么是聚焦指示器？默认情况下，它们通常是 tabindex 为 0 的元素周围的浏览器特定轮廓。在谷歌浏览器中，默认焦点是这样的:
 
-[![a blurry blue outline of a11y with Lindsey logo to represent focus](../Images/540a4a9abfeb6d7f8e94f271d6c3d768.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TKt7x_20--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.a11ywithlindsey.com/static/Logo-Chrome-00a19e31fdbb30438d017b9e932a04a3-eb6f9.png)
+[![a blurry blue outline of a11y with Lindsey logo to represent focus](img/540a4a9abfeb6d7f8e94f271d6c3d768.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TKt7x_20--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.a11ywithlindsey.com/static/Logo-Chrome-00a19e31fdbb30438d017b9e932a04a3-eb6f9.png)
 
 在 Firefox 中，默认焦点是这样的:
 
-[![a dotted outline of a11y with Lindsey logo to represent focus](../Images/dc600aacd7f7de9c06f1608ae9353574.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mzKmIQ-6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.a11ywithlindsey.com/static/Logo-Firefox-bb6a4780e03260ef04991d1b6ef886c4-edb60.png)
+[![a dotted outline of a11y with Lindsey logo to represent focus](img/dc600aacd7f7de9c06f1608ae9353574.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mzKmIQ-6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.a11ywithlindsey.com/static/Logo-Firefox-bb6a4780e03260ef04991d1b6ef886c4-edb60.png)
 
 在 Safari 中，默认焦点如下所示:
 
-[![a solid blue outline of a11y with Lindsey logo to represent focus](../Images/cfa09935d55ee5dcea1f33d8a6a4f39b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DmiyKpoa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.a11ywithlindsey.com/static/Logo-Safari-72bbc2dfd7b2ed70ab8fa1b1bedec52a-93174.png)
+[![a solid blue outline of a11y with Lindsey logo to represent focus](img/cfa09935d55ee5dcea1f33d8a6a4f39b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DmiyKpoa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.a11ywithlindsey.com/static/Logo-Safari-72bbc2dfd7b2ed70ab8fa1b1bedec52a-93174.png)
 
 不要因为你的设计师认为焦点指示器难看就把它去掉，你可以设计高对比度的指示器，让它在你的网站上更有品牌效应。我是这样做的:
 
-[![a solid offwhite outline of a11y with Lindsey logo to represent focus](../Images/06e920ae86f44c1c1d6ba2b559c8296f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vvhqW-xU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.a11ywithlindsey.com/static/Logo-updated-focus-3e8209db453a58d6aeec972d061de83e-d6865.png)
+[![a solid offwhite outline of a11y with Lindsey logo to represent focus](img/06e920ae86f44c1c1d6ba2b559c8296f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vvhqW-xU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.a11ywithlindsey.com/static/Logo-updated-focus-3e8209db453a58d6aeec972d061de83e-d6865.png)
 
 无论你做什么，请不要在你的 CSS 中写`outline: none;`。谢谢你来听我的 TED 演讲。
 

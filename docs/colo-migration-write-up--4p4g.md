@@ -8,23 +8,23 @@
 
 我一直是那种尽可能尝试自我主持的人。这始于我在高中早期托管自己的网络文件存储和《我的世界》服务器。很快，craigslist 上的大量购买开始失控。我的实验室有许多老式的惠普和戴尔服务器，它们真的很难正常工作。
 
-[![Old Lab (circa early-mid 2017)](../Images/67b0f3c73babb81deca3c609c8e53612.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---il8NS95--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kiir.us/wp-content/uploads/2017/08/IMG_20170527_173414_766.jpg) 老实验室(大约 2017 年初中)
+[![Old Lab (circa early-mid 2017)](img/67b0f3c73babb81deca3c609c8e53612.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---il8NS95--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kiir.us/wp-content/uploads/2017/08/IMG_20170527_173414_766.jpg) 老实验室(大约 2017 年初中)
 
-[![And from the front](../Images/4b600c5c1a56bf9fc5dd39e333ce4fad.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--L78bN3XG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kiir.us/wp-content/uploads/2017/08/IMG_20170527_173414_764.jpg) 和冲锋陷阵
+[![And from the front](img/4b600c5c1a56bf9fc5dd39e333ce4fad.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--L78bN3XG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kiir.us/wp-content/uploads/2017/08/IMG_20170527_173414_764.jpg) 和冲锋陷阵
 
 这些年来，随着对 DigitalOcean、Vultr、AWS 等的深入研究，我厌倦了每月为有计量带宽的垃圾虚拟硬件付费。现在是时候了，我准备开始一个真正的家庭实验室。上面的图片展示了我最早的实验室，处于一个非常不稳定的状态，有很多失败和很多学习经验。考虑到所有这些智慧，经过大量研究，我开始投资更好的硬件。我首先在易贝(*steeeeal*)花了不到 100 美元买了一台戴尔 R410，64G 内存，双核至强 E2650s。这台服务器运行着我家庭实验室中的大部分虚拟化工作负载。关于个人服务的更多信息将在本帖的后面部分提供。
 
 随着计算资源的蓬勃发展，我意识到我需要一个更好的网络基础设施。在上面的图片中，有一个非常旧的 Dell PowerConnect 6024 千兆交换机。它很好地处理了我的需求，但是管理端口已经坏得无法修复，所以我根本无法配置它。平面网络很无聊，所以我买了一个很新的思科 Catalyst 3560G 24p，带 PoE。整洁！
 
-[![New equipment coming along nicely](../Images/21979d234dd1112fcdd8cbe4a6167e10.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NOevKo4l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kiir.us/wp-content/uploads/2017/08/rack-before-new-rack-2017.jpg) 新装备进展顺利
+[![New equipment coming along nicely](img/21979d234dd1112fcdd8cbe4a6167e10.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NOevKo4l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kiir.us/wp-content/uploads/2017/08/rack-before-new-rack-2017.jpg) 新装备进展顺利
 
 #### 但是那个米色的架子看起来太俗气了...
 
 是的。是的，确实如此。这就是为什么我花了几个星期的时间为我的实验室寻找一些全封闭的短机架。这是一个非品牌的 StarTech 24U 机架(我认为...)而且非常适合我的需求。带锁的门、可拆卸的侧板，最棒的是**方孔**！把我所有的设备都扔进这个东西里，让它完美地被电缆管理，这简直是一场爆炸。*旁注:我疯狂地爱上了完美的电缆管理。我真的很享受。讨厌我。不管怎样，看看这美景！*
 
-[![The full frontal](../Images/0840801f1850f07c47ab4886eb2987fa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7uAr9L6l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kiir.us/wp-content/uploads/2017/08/new-rack-front2-compressed.jpg) 全额
+[![The full frontal](img/0840801f1850f07c47ab4886eb2987fa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7uAr9L6l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kiir.us/wp-content/uploads/2017/08/new-rack-front2-compressed.jpg) 全额
 
-[![And out back](../Images/cd34625515071caf60d82740be660e43.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ktOtrX5d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kiir.us/wp-content/uploads/2017/08/new-rack-back-compressed.jpg) 进退失据
+[![And out back](img/cd34625515071caf60d82740be660e43.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ktOtrX5d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kiir.us/wp-content/uploads/2017/08/new-rack-back-compressed.jpg) 进退失据
 
 #### 好吧，酷，但是颜色呢？
 
@@ -46,13 +46,13 @@
 
 以下是一些最终产品的图片:
 
-[![Drives, drives, drives...](../Images/b2b5ea5b1240a935218b20629d203e8f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HGDi-QcS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kiir.us/wp-content/uploads/2017/08/IMG_20170814_160907.jpg) 驱、驱、驱...
+[![Drives, drives, drives...](img/b2b5ea5b1240a935218b20629d203e8f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HGDi-QcS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kiir.us/wp-content/uploads/2017/08/IMG_20170814_160907.jpg) 驱、驱、驱...
 
-[![Brocade ICX 6610-24 L2/L3 Core Switch](../Images/eebd4efd39fdc103c998d2ef528abc9e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GowdTFnx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kiir.us/wp-content/uploads/2017/08/IMG_20170814_161006.jpg) 博科 ICX 6610-24 L2/L3 核心交换机
+[![Brocade ICX 6610-24 L2/L3 Core Switch](img/eebd4efd39fdc103c998d2ef528abc9e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GowdTFnx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kiir.us/wp-content/uploads/2017/08/IMG_20170814_161006.jpg) 博科 ICX 6610-24 L2/L3 核心交换机
 
-[![The belly of the beast with two TrippLite PDUs to power it all](../Images/df137381706b14402fa6a7c2c39e6d3e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--azCNnFBU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kiir.us/wp-content/uploads/2017/08/IMG_20170814_162255.jpg) 野兽的腹部有两个 TrippLite PDUs 为它提供全部动力
+[![The belly of the beast with two TrippLite PDUs to power it all](img/df137381706b14402fa6a7c2c39e6d3e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--azCNnFBU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kiir.us/wp-content/uploads/2017/08/IMG_20170814_162255.jpg) 野兽的腹部有两个 TrippLite PDUs 为它提供全部动力
 
-[![Yeah the bottom server is on a shelf and is totally unplugged . What of it?](../Images/4d5bc44abcbd5d52c638e4e7966ca76c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--a1P3kSxX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kiir.us/wp-content/uploads/2017/08/IMG_20170814_114131.jpg) 是的，底层服务器在架子上，完全没有插电。那又怎么样
+[![Yeah the bottom server is on a shelf and is totally unplugged . What of it?](img/4d5bc44abcbd5d52c638e4e7966ca76c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--a1P3kSxX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kiir.us/wp-content/uploads/2017/08/IMG_20170814_114131.jpg) 是的，底层服务器在架子上，完全没有插电。那又怎么样
 
 现在，我们将深入了解我在我的实验室中做了什么，以及我在其上运行的其他项目达到了什么程度。
 

@@ -8,14 +8,14 @@
 
 在网上搜索，当我找不到一个无服务器的项目，或者至少找不到一个使用简单设计(比如 YAML)来驱动配置的项目时，我感到很惊讶。部署目录有一个脚本，它的唯一目的是维护配置，包含 SDK 提供的示例代码的包装。在设计动作时，利用 firebase 字段来驱动响应，我想利用谷歌提供的机器学习能力。实体名称代表指标，响应来自 firebase 中的 responses 项，利用类似于我的 Alexa 技能的字符串替换。通过更新 entities.yml 文件，可以增加或减少向用户开放的选项数量。
 
-[![action-design](../Images/8867a2d66fd9d8ae6bccc2a06a8af561.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3jasMlK_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.lucidchart.com/publicSegments/view/55a1678d-11a8-40d4-a61b-ab56c0af47b8/image.png)
+[![action-design](img/8867a2d66fd9d8ae6bccc2a06a8af561.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3jasMlK_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.lucidchart.com/publicSegments/view/55a1678d-11a8-40d4-a61b-ab56c0af47b8/image.png)
 
 因为我们进入了季后赛，比方说你提供了一个“丁格斯”的度量，和一个同义词“全垒打”。一旦您更新了文件并运行了 update-entities npm 脚本，您就可以让助手告诉您“我有多少个 dingers”，或者“有多少个本垒打”，response 和 total_count 字段将动态返回。
-[![assistant-in-action](../Images/272b4220fd134ea12773b4a1bc8d7ce2.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--rRAfM8th--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.lucidchart.com/publicSegments/view/6104f5be-debb-4634-9ef1-b2ad5efd9d70/image.png)
+[![assistant-in-action](img/272b4220fd134ea12773b4a1bc8d7ce2.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--rRAfM8th--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.lucidchart.com/publicSegments/view/6104f5be-debb-4634-9ef1-b2ad5efd9d70/image.png)
 
 我想这就是为什么大联盟仍然没有叫我的号码…此外，这可能不是一个完整的持续交付工作，但它是一项正在进行的工作，同时仍然满足日常用户向您的度量行动添加实体的最初目标。
 
-## ![GitHub logo](../Images/375dfcc32199b4dedf2b526645c27ff7.png) [【丹呱】](https://github.com/danquack) / [无服务器谷歌助手加防火墙](https://github.com/danquack/Serverless-Google-Assistant-with-Firebase)
+## ![GitHub logo](img/375dfcc32199b4dedf2b526645c27ff7.png) [【丹呱】](https://github.com/danquack) / [无服务器谷歌助手加防火墙](https://github.com/danquack/Serverless-Google-Assistant-with-Firebase)
 
 ### google assistant 基于事实的操作，旨在报告 firebase 的指标
 
@@ -25,13 +25,13 @@
 
 * * *
 
-[![Build Status](../Images/aeab1ceca47db294ba8c8d4e9466fb18.png)T2】](https://travis-ci.org/danquack/Serverless-Google-Assistant-with-Firebase)
+[![Build Status](img/aeab1ceca47db294ba8c8d4e9466fb18.png)T2】](https://travis-ci.org/danquack/Serverless-Google-Assistant-with-Firebase)
 
 这个示例 google assistant dialogflow 是一个基于事实的操作，旨在报告 firebase 的指标。这个想法是，外部的东西将更新 firebase，然后通过谷歌助理读取。
 
 ## 设计
 
-[![action-design](../Images/18e756de97e6a8328f93921cfc03ee5f.png)T2】](https://camo.githubusercontent.com/e6fc35a16a600d1508913b5a8badf50ba2004782/68747470733a2f2f7777772e6c7563696463686172742e636f6d2f7075626c69635365676d656e74732f766965772f35356131363738642d313161382d343064342d613631622d6162353663306166343762382f696d6167652e706e67)
+[![action-design](img/18e756de97e6a8328f93921cfc03ee5f.png)T2】](https://camo.githubusercontent.com/e6fc35a16a600d1508913b5a8badf50ba2004782/68747470733a2f2f7777772e6c7563696463686172742e636f6d2f7075626c69635365676d656e74732f766965772f35356131363738642d313161382d343064342d613631622d6162353663306166343762382f696d6167652e706e67)
 
 ## 先决条件
 

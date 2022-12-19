@@ -10,7 +10,7 @@ DevOps 有一堆新的目标、实践和术语。其中许多被混淆、误用�
 
 持续集成特指不断将变更集合并到真理源中的过程。通常，这是开发人员将更改后的代码推送到共享的远程位置。例如，一个由 12 名开发人员组成的团队每天可以处理 18 个不同的 GiT 分支，包含超过 67 个提交。变化真大！在一个工作周的过程中，提交的变更数量很容易超过 300 个。当部署一个新版本的时候，所有这些变更都必须合并到一个单独的分支中。如果发布的压力还不够大，团队还必须确保所有的工作都在一起。我保证，每周 300+的变化会导致问题。这个问题意味着熬夜，处理来自企业主的压力，由于害怕发布日而感到紧张，企业主不信任你，也不信任你的团队按时按目标交付的能力。在这种情况下没有人会赢。
 
-<figure>[![](../Images/ffeb35e1c1e7c82e2657c83cdb0ed100.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kfKtrN_i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/09/Nonsensical_1_top.png) 
+<figure>[![](img/ffeb35e1c1e7c82e2657c83cdb0ed100.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kfKtrN_i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/09/Nonsensical_1_top.png) 
 
 <figcaption>我被告知文章中的图像要保持读者的注意力。</figcaption>
 
@@ -22,7 +22,7 @@ DevOps 有一堆新的目标、实践和术语。其中许多被混淆、误用�
 
 作为一个概念，持续交付是从无到持续集成的逻辑进展，并向完全自动化迈进了一步。为了提供连续的交付，需要适当的自动化质量保证步骤，例如自动化测试、监控、变更和度量。为什么？因为连续交付意味着应用于一个软件的任何变更都随时准备交付。按下按钮，软件应该部署到生产环境中。你 100%必须有一个高水平的保证一切正常，没有任何损坏。
 
-<figure>[![](../Images/4e8f1d23cdcaf5dc5ba7936008f5b678.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--q65PLQ95--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/09/Nonsensical_2_bottom.png) 
+<figure>[![](img/4e8f1d23cdcaf5dc5ba7936008f5b678.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--q65PLQ95--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/09/Nonsensical_2_bottom.png) 
 
 <figcaption>我很喜欢来自[【https://chadhagen.com/Nonsensical-Infographics】](https://chadhagen.com/Nonsensical-Infographics)</figcaption>
 
@@ -36,7 +36,7 @@ DevOps 有一堆新的目标、实践和术语。其中许多被混淆、误用�
 
 这就把我们带到了今天的最后一个概念:持续部署。三者中我认为最容易定义和概念化的。顾名思义，持续部署是指*将*软件持续部署到用户(即真实的人)可以使用该应用程序的地方的过程。
 
-<figure>[![](../Images/a46006f8df91d1f2a9f4b20ed0e5efaa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GkVSDJQP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/10/square_nonsense_infographic_med.jpeg) 
+<figure>[![](img/a46006f8df91d1f2a9f4b20ed0e5efaa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GkVSDJQP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/10/square_nonsense_infographic_med.jpeg) 
 
 <figcaption>它们看起来那么整齐。</figcaption>
 
@@ -50,7 +50,7 @@ DevOps 有一堆新的目标、实践和术语。其中许多被混淆、误用�
 
 作为组织内自动化策略的一部分，您必须创建单元测试、集成检查和端到端场景，以便允许提交到原始存储库中。如果自动化全部通过，则允许将提交应用到源存储库。这是连续交货。
 
-<figure>[![](../Images/b8c6096956bab5bc40ea2eb9db780ef3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--heqFuFi2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/11/nonsensical_1_web_crop_1.png) 
+<figure>[![](img/b8c6096956bab5bc40ea2eb9db780ef3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--heqFuFi2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/11/nonsensical_1_web_crop_1.png) 
 
 <figcaption>最后一个，我保证。</figcaption>
 
@@ -71,7 +71,7 @@ DevOps 有一堆新的目标、实践和术语。其中许多被混淆、误用�
 
 Dev(Chat/Git/Sec/No)Ops 是一个不断变化的地方。术语和首字母缩略词很快变得令人困惑。我希望这有助于澄清一些最常用的短语。
 
-<figure>[![](../Images/b620d79b3d228d314590feacec09ceb5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6bW4Ew-l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/10/path-success.jpg)
+<figure>[![](img/b620d79b3d228d314590feacec09ceb5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6bW4Ew-l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/10/path-success.jpg)
 
 <figcaption>devo PS 领养的每一个故事。</figcaption>
 

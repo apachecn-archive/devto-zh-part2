@@ -4,7 +4,7 @@
 
 开始职业编码冒险的人，无论是还在读书的，刚毕业的，还是转行的，可能经常会犹豫应该从什么编程平台入手。所以让我提几个我认为从 Android 开始是个好主意的理由。
 
-[![Decision](../Images/f1281e187866ad03654cb4da499cf190.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_CKqa71G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/33yvzmcq258opy4v8zt7.jpg)
+[![Decision](img/f1281e187866ad03654cb4da499cf190.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_CKqa71G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/33yvzmcq258opy4v8zt7.jpg)
 
 # 平台可用性
 

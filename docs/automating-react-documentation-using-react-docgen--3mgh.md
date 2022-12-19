@@ -357,7 +357,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 还将文档作为 GraphQL 端点导入，允许我们查询数据——而不是硬导入一个*(可能很大)* JSON 文件——或者使用`gatsby-transformer-json`插件(它不为 GraphQL 以及特定的 react-docgen 插件格式化数据)。
 
-[![Gatsby Documentation Starter using gatsby-transformer-react-docgen](../Images/16de84de42426651088af4ffac796831.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ipsXLqX7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://whoisryosuke.com/static/screenshot-e991536017bd42e7c1e36696cc0ff3cc-e2462.png)
+[![Gatsby Documentation Starter using gatsby-transformer-react-docgen](img/16de84de42426651088af4ffac796831.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ipsXLqX7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://whoisryosuke.com/static/screenshot-e991536017bd42e7c1e36696cc0ff3cc-e2462.png)
 
 你可以在 Github 上下载最终的“纯盖茨比”版本:[盖茨比文档启动器](https://github.com/whoisryosuke/gatsby-documentation-starter)。
 

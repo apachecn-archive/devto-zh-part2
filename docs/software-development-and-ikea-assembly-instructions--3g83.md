@@ -12,7 +12,7 @@
 
 但是，这种组合可能会成为宜家最可怕的噩梦:
 
-[![ikea instructions](../Images/9c962e37554cf711840fa585aa038a7a.png "Software is like IKEA")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9X0rqSPT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://akvo.org/wp-content/uploads/2018/01/Ikea-instructions.png)
+[![ikea instructions](img/9c962e37554cf711840fa585aa038a7a.png "Software is like IKEA")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9X0rqSPT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://akvo.org/wp-content/uploads/2018/01/Ikea-instructions.png)
 
 如果你一生中必须遵循这些指示一次，这可能不会太糟糕。但是软件开发人员必须定期遵循这些说明，因为每当我们需要添加新组件、更新这些组件的版本或构建新功能时，我们都需要重新创建、重建和重新组装我们的应用程序。
 
@@ -85,7 +85,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 那么将这项技术应用到 Akvo 的数据可视化和分析工具 [Akvo Lumen](https://akvo.org/products/akvo-lumen/#overview) 上的结果是什么呢？通过应用这种技术，对 Lumen 的贡献从这…到这:
 
-[![The results](../Images/4af8e7fbd699a0c853f9dca93416b4cf.png "from to results")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m6M75Pdn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://akvo.org/wp-content/uploads/2018/01/Lumen-open-source.gif)
+[![The results](img/4af8e7fbd699a0c853f9dca93416b4cf.png "from to results")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m6M75Pdn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://akvo.org/wp-content/uploads/2018/01/Lumen-open-source.gif)
 
 git 和 docker 这两个工具，以及两个命令，使得构建和组装一个可用的 Akvo Lumen 开发环境变得极其容易。除了简化开源贡献过程之外，通过消除设置工作环境的繁重任务，我们发现使用这项技术还有两个额外的好处:
 

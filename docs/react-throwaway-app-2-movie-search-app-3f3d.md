@@ -20,7 +20,7 @@
 
 下面是我希望你建立的截图:
 
-[![movie screenshot](../Images/38844d88c188b763a4ff8724f81c6cca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--APeAYmfn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rycx1mwmt1juinl0lhxj.png)
+[![movie screenshot](img/38844d88c188b763a4ff8724f81c6cca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--APeAYmfn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rycx1mwmt1juinl0lhxj.png)
 
 此应用程序将显示您了解如何:
 
@@ -38,10 +38,10 @@
 
 为了构建我的应用程序，我必须决定什么是容器和组件。
 
-[![app structure](../Images/cddd8aa6aaa84d9998b9f55dbd2b9ad3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4z9GlZQk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nji5hcb8ujfrmt99p6mo.png)
+[![app structure](img/cddd8aa6aaa84d9998b9f55dbd2b9ad3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4z9GlZQk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nji5hcb8ujfrmt99p6mo.png)
 
 下面是我的文件夹结构:
-[![folder struture](../Images/572f3ecb38d19632a9d8a18ca0abc1c1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7X82Ms0e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/krwwqa72ph2fp1a7vjap.JPG)
+[![folder struture](img/572f3ecb38d19632a9d8a18ca0abc1c1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7X82Ms0e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/krwwqa72ph2fp1a7vjap.JPG)
 
 **MovieCard.js:**
 

@@ -159,7 +159,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 每当我们现在在`orders`表中创建、修改或删除新记录时，浏览器都会通知我们:
 
-[![Chrome console](../Images/c550afb1003abf989978974ec8e428ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2IE5QgVn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y0xdf9il1hztda3gwy6y.png)
+[![Chrome console](img/c550afb1003abf989978974ec8e428ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2IE5QgVn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y0xdf9il1hztda3gwy6y.png)
 
 ### 总结
 

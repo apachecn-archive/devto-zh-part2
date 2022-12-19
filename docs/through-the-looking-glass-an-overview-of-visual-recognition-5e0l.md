@@ -4,7 +4,7 @@
 
 # 透过窥镜:视觉识别概述
 
-[![Face finding from the movie Mission Impossible: Ghost Protocol](../Images/4c8061fbf78749497b99fa72d45238fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rZHwI1Qy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://adelphi.digital/articles/through-the-looking-glass/mission-impossible-face-finding.jpg)
+[![Face finding from the movie Mission Impossible: Ghost Protocol](img/4c8061fbf78749497b99fa72d45238fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rZHwI1Qy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://adelphi.digital/articles/through-the-looking-glass/mission-impossible-face-finding.jpg)
 
 这就像科幻电影中的场景——机器、机器人和机器人能够轻松识别物体和面孔。但如今，视觉识别或图像识别技术的早期应用已经可以通过谷歌和 IBM 等公司提供的服务来实现。
 
@@ -16,7 +16,7 @@
 
 几年后，谷歌推出了图片搜索功能，允许用户直接将图片搜索转换为谷歌搜索，无需任何第三方插件。
 
-[![Google Images](../Images/c07f2acfcccb1c20ecebacdabebbd333.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EDxKutEH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://adelphi.digital/articles/through-the-looking-glass/google-images.jpg)
+[![Google Images](img/c07f2acfcccb1c20ecebacdabebbd333.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EDxKutEH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://adelphi.digital/articles/through-the-looking-glass/google-images.jpg)
 
 ## “有这样一个 App”[【2】](http://edition.cnn.com/2010/TECH/mobile/10/12/app.for.that/index.html)
 
@@ -26,7 +26,7 @@
 
 这意味着人们可以通过使用智能手机立即搜索几乎任何内容，而无需回到桌面等待。
 
-[![Google Goggles](../Images/1bdb44777281f86045130c7d5293da6a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IPs_0ORR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://adelphi.digital/articles/through-the-looking-glass/google-goggles.jpg)
+[![Google Goggles](img/1bdb44777281f86045130c7d5293da6a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IPs_0ORR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://adelphi.digital/articles/through-the-looking-glass/google-goggles.jpg)
 
 ## 视觉识别和网络应用
 
@@ -42,7 +42,7 @@
 
 可能有一段时间，我们的视力有障碍的朋友可能需要帮助来识别物体或阅读小文本。在他们的智能手机上安装一个应用程序，就像拍照和应用程序一样简单，用语音回复用户，告诉用户它看到了什么。用户可以给他们拍一张未知物体的照片，然后回答，“我最确定的是在看一辆跑车”。
 
-[![Centenario Lamborghini](../Images/0f94628134beb4edb9e0612d1fc603e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v3jwBz3i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://adelphi.digital/articles/through-the-looking-glass/centenario.jpg)
+[![Centenario Lamborghini](img/0f94628134beb4edb9e0612d1fc603e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v3jwBz3i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://adelphi.digital/articles/through-the-looking-glass/centenario.jpg)
 
 ### 【植物眼】App
 
@@ -60,4 +60,4 @@
 
 我也走了一步，试图看看这项技术能做什么。在我们下面的小演示中玩一玩。我强烈建议你用手机扫描图片。请记住，这只是一个概念证明。你可能仍然会收到来自网络应用的奇怪回复。快乐点击！
 
-[![Nat's Eye](../Images/9a78a31750619047095569c9f1166e7e.png)http://adel.ph/eye](http://adel.ph/eye)
+[![Nat's Eye](img/9a78a31750619047095569c9f1166e7e.png)http://adel.ph/eye](http://adel.ph/eye)

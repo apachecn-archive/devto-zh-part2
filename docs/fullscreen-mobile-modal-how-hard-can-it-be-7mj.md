@@ -26,7 +26,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 它可以工作，除了用户可以使用`Tab`(或者 iOS 中的`⌃`和`⌄`)将光标移出模式。
 
-[![](../Images/ca09e346a8fb1e2cb50a6853bba1e10e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zregfy2N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dbt6moogpv3kqup2k0we.gif)
+[![](img/ca09e346a8fb1e2cb50a6853bba1e10e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zregfy2N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dbt6moogpv3kqup2k0we.gif)
 
 ## 尝试次数 2
 
@@ -38,7 +38,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 除了当用户想要滚动模态的内容时，它是有效的，但是相反，他们将滚动模态后面的内容。
 
-[![](../Images/004185d5cef0ba087a633cd4530bd8c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---GraV6gC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4muntjp2tbz2t3ytny8m.gif)
+[![](img/004185d5cef0ba087a633cd4530bd8c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---GraV6gC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4muntjp2tbz2t3ytny8m.gif)
 
 ## 尝试次数 3
 
@@ -48,7 +48,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 它的工作，除了当用户向下滚动和移动 Safari get 的底部 chrome 被隐藏，但后来有可能触发底部 chrome 的出现和模态的一部分将被隐藏。
 
-[![](../Images/d09c3ad768b88d55ed971ff1a1f22af7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LyoP9ETy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p9r323f5k3l3oeqx9m21.gif)
+[![](img/d09c3ad768b88d55ed971ff1a1f22af7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LyoP9ETy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p9r323f5k3l3oeqx9m21.gif)
 
 ## 尝试次数 4
 
@@ -56,7 +56,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 使用 [`mobile-safari-fullscreen`](https://github.com/stereobooster/mobile-safari-fullscreen) (除了之前的方案)。当打开模式时，它总是强制显示浏览器 chrome 的底部。
 
-[![](../Images/eb873a493fe1bc365685181e618f00ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1wRNRNz7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3okfqyjq22n4wkk4dxqq.gif)
+[![](img/eb873a493fe1bc365685181e618f00ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1wRNRNz7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3okfqyjq22n4wkk4dxqq.gif)
 
 旁注:`WindowSize`可以代替`mobile-safari-fullscreen`。我会说这是首选的解决方案，这个演示更多地是为了展示有多少边缘情况是可能的。
 

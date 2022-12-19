@@ -14,7 +14,7 @@
 
 > 该清单可以给开发人员作为参考，指出这些东西将被检查。如果您决定这样做，让开发人员知道，这样他们就可以在评审开始之前确定他们对代码感到满意。
 
-[![Related image](../Images/d8063846ca3d91c1ccf74def3a2307c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vyZXB_dp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/598b477817bffc79a0cb1a64/5993b521e4fcb5624a63ef4d/5b4a57b50e2e72d65f8c858a/1532733466351/Mid-Year%2BEstate%2BPlanning%2BChecklist%2B-%2BPostic%2B%2526%2BBates.jpg%3Fformat%3D1500w)
+[![Related image](img/d8063846ca3d91c1ccf74def3a2307c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vyZXB_dp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/598b477817bffc79a0cb1a64/5993b521e4fcb5624a63ef4d/5b4a57b50e2e72d65f8c858a/1532733466351/Mid-Year%2BEstate%2BPlanning%2BChecklist%2B-%2BPostic%2B%2526%2BBates.jpg%3Fformat%3D1500w)
 
 这些东西不难追踪、发现或解释。
 
@@ -126,7 +126,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 **删除！删除！删除！**
 
-[![Image result for delete gif](../Images/524d80847635444609ff5bce93a13b3d.png)T2】](https://i.giphy.com/media/5xaOcLwEvFOizxHVyVy/giphy.gif)
+[![Image result for delete gif](img/524d80847635444609ff5bce93a13b3d.png)T2】](https://i.giphy.com/media/5xaOcLwEvFOizxHVyVy/giphy.gif)
 
 最后，做完以上所有事情后，我们可以把所有的时间和注意力集中在最重要的事情上！
 

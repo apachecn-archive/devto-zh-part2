@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ugis22/linear-and-bayesian-modeling-in-r-predicting-movie-popularity-2j2f>
 
-[![](../Images/134bb3a8a0b1c6dd7f392c60bbfe184b.png)T2】](https://cdn-images-1.medium.com/max/1024/1*tvhwsNMZ-MgfEIol59yxPw.jpeg)
+[![](img/134bb3a8a0b1c6dd7f392c60bbfe184b.png)T2】](https://cdn-images-1.medium.com/max/1024/1*tvhwsNMZ-MgfEIol59yxPw.jpeg)
 
 #### 该选哪部电影？
 
@@ -16,6 +16,6 @@
 
 准备好开始了吗？等一下。我们所理解的一部电影的“流行”是什么？我们的数据集包括来自两个不同来源的电影样本，我们有两个变量可以潜在地用作*流行度* : audience_score(烂番茄上的观众评分)和 IMDB _ Rating(IMDB 上的评分)。让我们继续分析这两个变量。首先，我们将检查这些变量之间是否存在相关性。为此，我们将在散点图中绘制两个变量:
 
-[![](../Images/6bdbdfe2da9b84d66581d7a3e3edeeed.png)T2】](https://cdn-images-1.medium.com/max/480/1*JKeCABBDA7JAJ3_3OEpsWA.png)
+[![](img/6bdbdfe2da9b84d66581d7a3e3edeeed.png)T2】](https://cdn-images-1.medium.com/max/480/1*JKeCABBDA7JAJ3_3OEpsWA.png)
 
 我们可以看到，该图显示了两个变量之间可能的正相关关系。我们将通过使用函数 cor 对相关性进行数值计算来证实这一点:

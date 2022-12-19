@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jj/deploying-a-flask-and-logstash-application-to-digital-ocean-using-docker-cloud--1pe7>
 
-[![Deployed in the cloud](../Images/a8905dc134e25b334402195afe83255b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cfMeA5cr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/98dqd9ul4lgufewovd1d.jpg)
+[![Deployed in the cloud](img/a8905dc134e25b334402195afe83255b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cfMeA5cr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/98dqd9ul4lgufewovd1d.jpg)
 
 您知道每个应用程序都必须做的一件事吗？日志。即使你没有大量的数据，你也必须知道每个人都在用你的东西做什么。而 [Logstash](https://www.elastic.co/products/logstash) 可能是最好的选择之一。除了存储你的数据之外，它还是 [ELK stack](https://www.elastic.co/elk-stack) 的一部分，后者包括弹性数据存储和 Kibana dashboard 构建工具包。
 所以，当创建一个 web 应用程序时，你也可以使用这个(或者其他的)日志服务。这就是我们要对这个应用程序做的事情，这个应用程序最初是作为一个 [Platzi](https://platzi.com) 课程的示例而创建的。

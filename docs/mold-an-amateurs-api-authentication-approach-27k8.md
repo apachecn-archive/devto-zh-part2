@@ -3,7 +3,7 @@
 > 原文：<https://dev.to/spacekidlat/mold-an-amateurs-api-authentication-approach-27k8>
 
 流程
-[![](../Images/4a7987d19df1e68b618e78e4ac90c56e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jGgcnp6h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qxfhwii6yos8in3zwklf.jpg)
+[![](img/4a7987d19df1e68b618e78e4ac90c56e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jGgcnp6h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qxfhwii6yos8in3zwklf.jpg)
 
 我知道，我也很熟悉，我们在 API 认证领域有 oauth/oauth2 的进步，但是我忍不住要探讨一下我自己的想法。
 

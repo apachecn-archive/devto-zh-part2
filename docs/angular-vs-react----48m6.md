@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/antoinettebadry/angular-vs-react----48m6>
 
-[![](../Images/2aeb7e4e566225c3bb43e2646988f794.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pKM3ovxR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/twxmoym6c1bt3cpzzqbs.jpg)
+[![](img/2aeb7e4e566225c3bb43e2646988f794.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pKM3ovxR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/twxmoym6c1bt3cpzzqbs.jpg)
 
 我使用 react 和 Angular 已经有一段时间了。这两个框架都是健壮、可靠和超快的。这两个框架都是由科技巨头建立的(脸书的 react 和谷歌的 Angular)。然而，在学习过程中还是有一些不同的。
 

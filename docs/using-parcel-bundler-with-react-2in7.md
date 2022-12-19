@@ -8,7 +8,7 @@ Parcel 是一个 web 应用程序捆绑器，与 webpack 相比，它以零配�
 
 * * *
 
-[![video camera](../Images/162cbaf8d6272b73c3862dce71e9fe2e.png) 25:38 ](/theoutlander/react-component-lifecycle-explained-3koh) [![theoutlander](../Images/fa3a5404d413070afd491a6351af2493.png)](/theoutlander) [## React 组件生命周期解释
+[![video camera](img/162cbaf8d6272b73c3862dce71e9fe2e.png) 25:38 ](/theoutlander/react-component-lifecycle-explained-3koh) [![theoutlander](img/fa3a5404d413070afd491a6351af2493.png)](/theoutlander) [## React 组件生命周期解释
 
 ### 尼克卡尼克 8 月 14 日 181 分钟阅读
 

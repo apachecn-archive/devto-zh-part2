@@ -6,7 +6,7 @@
 
 今天轮到一个有四个彩色图标按钮的导航组件了。灵感来自[这个提交](https://uimovement.com/ui/5563/navigation-interaction/)，看起来是这样的:
 
-[![reference](../Images/6833979a682c264ba4675842a1f3697d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NcQHr4Pi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/stnvmjcfjmrmffhfajpi.gif)
+[![reference](img/6833979a682c264ba4675842a1f3697d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NcQHr4Pi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/stnvmjcfjmrmffhfajpi.gif)
 
 ### 制剂
 
@@ -97,7 +97,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在我们应该有这样的东西:
 
-[![html+css](../Images/92e9c78278a1f989c4bae8d2e2ea246b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lTk0x0HW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qo8b4hxvehx0sjva162r.png)
+[![html+css](img/92e9c78278a1f989c4bae8d2e2ea246b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lTk0x0HW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qo8b4hxvehx0sjva162r.png)
 
 ### 行为举止
 
@@ -143,7 +143,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这段代码也已经将背景色绑定到了`btn-container` div 样式。
 
-[![getting closer](../Images/5989172390cafc59944d196ff395dd08.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hUOrYPte--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jccsp89vncqvxaxvft20.png)
+[![getting closer](img/5989172390cafc59944d196ff395dd08.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hUOrYPte--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jccsp89vncqvxaxvft20.png)
 
 注意，我们添加了一个`@click`处理程序，它将触发一个名为`selectButton`的函数，当我们需要激活按钮时，`ref`属性也将帮助我们引用它们。
 
@@ -302,4 +302,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 #### 这篇文章有用吗？你可以在这里支持我的咖啡驱动帖子:
 
-[![](../Images/6c135e5c4703fd20d7a8c3b0381a60d8.png)T2】](https://ko-fi.com/D1D0LYW8)
+[![](img/6c135e5c4703fd20d7a8c3b0381a60d8.png)T2】](https://ko-fi.com/D1D0LYW8)

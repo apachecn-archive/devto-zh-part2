@@ -8,7 +8,7 @@
 
 因此，我在演示的第一张幻灯片中使用了这张[信息图](https://github.com/VidyasagarMSC/Awesome-AI/blob/master/infographics/AI-Timeline.jpg)。你可以很容易地弄清楚什么是什么
 
-<figure>[![](../Images/b7baa6fc2625a81a13522823ff3e43a1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ahKsfeNR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A2lhfdjvORODXjAntJ-UNmQ.jpeg) 
+<figure>[![](img/b7baa6fc2625a81a13522823ff3e43a1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ahKsfeNR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A2lhfdjvORODXjAntJ-UNmQ.jpeg) 
 
 <figcaption>来源: [Apttus](https://apttus.com/blog/artificial-intelligence-works-intelligent-enterprise/)</figcaption>
 
@@ -16,7 +16,7 @@
 
 即使这样，他们中也很少有人像
 
-<figure>[![](../Images/02d6a3411353dcef0985606143becc31.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZxrZOEM1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AUh7cufc-VdZLchpdt-GLJA.jpeg) 
+<figure>[![](img/02d6a3411353dcef0985606143becc31.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZxrZOEM1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AUh7cufc-VdZLchpdt-GLJA.jpeg) 
 
 <figcaption>照片由[亚历山大·奈特](https://unsplash.com/photos/2EJCSULRwC8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)上[下](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 

@@ -25,7 +25,7 @@
 
 **下面的信息图也提供了这方面的一些有用信息**
 
-[![the-future-predictions-about-IoT](../Images/08f26e07c656a6f5e1d959b0e264783a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k822jP6Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://peerbits.com/wp-content/uploads/2018/04/the-future-predictions-about-IoT.png)
+[![the-future-predictions-about-IoT](img/08f26e07c656a6f5e1d959b0e264783a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k822jP6Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://peerbits.com/wp-content/uploads/2018/04/the-future-predictions-about-IoT.png)
 
 ## 1。连接的设备
 
@@ -45,7 +45,7 @@
 
 可悲的是，据预测，未来黑客也将继续使用物联网进行 DDoS 攻击。
 
-[![Future-IoT-cta1](../Images/bf9867f5801f8cebe78fb5ade1c6e03c.png)T2】](https://www.peerbits.com/blog/10-iot-security-concerns-to-keep-in-mind-before-developing-apps.html)
+[![Future-IoT-cta1](img/bf9867f5801f8cebe78fb5ade1c6e03c.png)T2】](https://www.peerbits.com/blog/10-iot-security-concerns-to-keep-in-mind-before-developing-apps.html)
 
 ## 3。智能城市
 
@@ -70,7 +70,7 @@
 *   安全 DNS
 *   自动安全更新
 
-[![Future IoT cta3](../Images/1d05fb074f771842b0e0b277169c6a60.png)T2】](https://www.peerbits.com/blog/protect-business-with-enterprise-mobility-security.html)
+[![Future IoT cta3](img/1d05fb074f771842b0e0b277169c6a60.png)T2】](https://www.peerbits.com/blog/protect-business-with-enterprise-mobility-security.html)
 
 ## 5。智能产品的使用
 
@@ -83,7 +83,7 @@
 *   提高安全性
 *   更高质量的产品
 
-[![Future IoT cta4](../Images/774bee37a313e29e7a61a0381ae5e9fa.png)T2】](https://www.peerbits.com/blog/how-can-beacons-help-asset-tracking-and-management.html)
+[![Future IoT cta4](img/774bee37a313e29e7a61a0381ae5e9fa.png)T2】](https://www.peerbits.com/blog/how-can-beacons-help-asset-tracking-and-management.html)
 
 ## 6。特定于应用的设备生态系统
 
@@ -97,7 +97,7 @@
 *   因此物联网行业需要开放的设备管理标准化。这种努力已经在进行，并将很快显示其效果。
 *   通过这种方式，物联网消费者肯定会达到一个新的成熟水平，他们将不再担心失去他们的硬件投资。
 
-[![Future IoT cta5](../Images/674f305d640b4b61c537fcee3cfb031c.png)T2】](https://www.peerbits.com/blog/how-iot-is-building-the-smart-offices-of-tomorrow.html)
+[![Future IoT cta5](img/674f305d640b4b61c537fcee3cfb031c.png)T2】](https://www.peerbits.com/blog/how-iot-is-building-the-smart-offices-of-tomorrow.html)
 
 ## 7。面向企业的物联网
 
@@ -114,7 +114,7 @@
 
 消费者也将把钱投资到物联网生态系统中。
 
-[![Future IoT cta6](../Images/da6e58fa53581e96e6d3fa1009e94e28.png)T2】](https://www.peerbits.com/whitepaper-smart-retail.html)
+[![Future IoT cta6](img/da6e58fa53581e96e6d3fa1009e94e28.png)T2】](https://www.peerbits.com/whitepaper-smart-retail.html)
 
 ## 8。一些令人敬畏的发明
 
@@ -143,7 +143,7 @@
 
 要了解更多关于交通拥堵和自私驾驶的信息，请阅读这里。
 
-[![Future IoT cta7](../Images/88980b188e23463013dc1d4ea73c0e51.png)T2】](https://www.peerbits.com/blog/augmented-reality-is-coming-to-make-our-lives-better.html)
+[![Future IoT cta7](img/88980b188e23463013dc1d4ea73c0e51.png)T2】](https://www.peerbits.com/blog/augmented-reality-is-coming-to-make-our-lives-better.html)
 
 ## 最后的话
 

@@ -12,15 +12,15 @@
 
 看看这看起来有多可悲:
 
-[![](../Images/90c6a12ea219ff0e4eb2ec62d374fac0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OMJ0DdNp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fo0n0k1p7ybro6q0tkm9.png)
+[![](img/90c6a12ea219ff0e4eb2ec62d374fac0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OMJ0DdNp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fo0n0k1p7ybro6q0tkm9.png)
 
 在关注 Flutter 的 Udacity(更多的失望即将到来，不要担心)时，我发现了一个很好的 Android Studio~~IDE 插件，这是 Flutter 的 Visual Studio 代码~~扩展中完全没有的:
 
-[![](../Images/1af3d25471d448479486c03209b52f13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p75O_SJC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ir5lcihxyg305xazkwa5.png)
+[![](img/1af3d25471d448479486c03209b52f13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p75O_SJC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ir5lcihxyg305xazkwa5.png)
 
 **Update-2018-10-21**:Visual Studio 的 [Dart/Flutter 插件](https://github.com/Dart-Code/Dart-Code)也有同样的功能，按`Cmd/Ctrl + .`触发:
 
-[![](../Images/1c9a6b1225b1867e4badcd2ff1adfcc5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QHRetVqg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oibm7xcxz27amu4rrj32.png)
+[![](img/1c9a6b1225b1867e4badcd2ff1adfcc5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QHRetVqg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oibm7xcxz27amu4rrj32.png)
 
 *感谢[@丹图普](https://dev.to/dantup)给我指了正确的方向*
 

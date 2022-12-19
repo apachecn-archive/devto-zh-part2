@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/onmyway133/best-resources-for-ios-development-4fio>
 
-[![](../Images/0ddb93938c10ca704ade8eb2665ed4df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ri0HcPdx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/onmyway133/fantastic-ios/raw/master/Screenshots/Banner.png)
+[![](img/0ddb93938c10ca704ade8eb2665ed4df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ri0HcPdx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/onmyway133/fantastic-ios/raw/master/Screenshots/Banner.png)
 
 ## 苹果链接
 

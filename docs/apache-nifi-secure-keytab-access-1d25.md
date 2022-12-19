@@ -8,7 +8,7 @@
 
 为了创建将数据发送到 Kerberized 化的 HDFS 集群的 PutHDFS 处理器，该处理器必须配置有主体和密钥表，并且密钥表必须位于 NiFi JVM 可以访问的文件系统上。此外，启动 NiFi JVM 的操作系统用户必须能够读取 keytab。
 
-[![](../Images/363afde6ab6f5d637c45cc2092b59e80.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rhH6Exou--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://bbende.github.io/assets/images/nifi-keytab-isolation/01-nifi-keytab-setup-before.png)
+[![](img/363afde6ab6f5d637c45cc2092b59e80.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rhH6Exou--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://bbende.github.io/asseimg/nifi-keytab-isolation/01-nifi-keytab-setup-before.png)
 
 这里的问题是 keytab 属性是一个自由格式的文本字段，因此没有办法阻止团队 1 输入团队 2 的 Keytab。
 
@@ -22,7 +22,7 @@
 
 使用控制器服务的好处是，我们可以通过安全策略限制哪些用户能够使用该服务。在我们上面的例子中，一个管理员用户可以为团队 1 创建一个指向团队 1 的 keytab 的 Keytab 服务，然后创建一个只允许团队 1 访问该服务的策略。管理员用户可以对团队 2 做同样的事情。
 
-[![](../Images/d076eba722511b24c108e8f2211e75bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_pHi_m2T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://bbende.github.io/assets/images/nifi-keytab-isolation/02-nifi-keytab-setup-after.png)
+[![](img/d076eba722511b24c108e8f2211e75bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_pHi_m2T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://bbende.github.io/asseimg/nifi-keytab-isolation/02-nifi-keytab-setup-after.png)
 
 这使我们非常接近我们想要的，但是如果团队 1 中的某个人忽略了为他们创建的服务，只是创建了另一个指向团队 2 的 keytab 的 Keytab 服务怎么办？
 
@@ -42,7 +42,7 @@ NiFi 1.0.0 版本引入了“受限组件”的概念。我们的想法是，一
 
 受限权限由右上角的全局策略菜单控制:
 
-[![](../Images/cf78ec7bf5e3a2bdc33c80e4a0733904.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SRSHKpqU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://bbende.github.io/assets/images/nifi-keytab-isolation/03-nifi-restricted-permissions.png)
+[![](img/cf78ec7bf5e3a2bdc33c80e4a0733904.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SRSHKpqU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://bbende.github.io/asseimg/nifi-keytab-isolation/03-nifi-restricted-permissions.png)
 
 在我们前面的例子中，如果我们只给 admin 用户“access-keytab”权限，那么团队 1 和团队 2 中的用户将不能创建 keytab 控制器服务，从而迫使他们使用他们被授予权限的 Keytab 服务。
 

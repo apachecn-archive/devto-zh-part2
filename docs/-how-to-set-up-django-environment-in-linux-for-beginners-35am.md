@@ -295,7 +295,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当您访问 http://127.0.0.1:8000/时，如果 django 安装成功，您应该会收到一条成功消息“恭喜”
 
-[![SucessPage](../Images/bab2c92ff29a138287e1accaec2fdc56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R2FxbfhV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/F3GEYtx.png)
+[![SucessPage](img/bab2c92ff29a138287e1accaec2fdc56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R2FxbfhV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/F3GEYtx.png)
 
 ##### 配置设置. py
 

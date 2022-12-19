@@ -52,7 +52,7 @@ input.indeterminate = true;
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Checkbox in indeterminate state including a dash instead of being empty or including a checkmark](../Images/7ac9f497ef989025c97c5f1834a68d84.png)T2】](//images.ctfassets.net/f20lfrunubsq/3DG7ExLKLCEQyWw4ysC4Ag/53ad885c80761ea3aa8f3f5d253b7db2/checkbox.png)
+[![Checkbox in indeterminate state including a dash instead of being empty or including a checkmark](img/7ac9f497ef989025c97c5f1834a68d84.png)T2】](//images.ctfassets.net/f20lfrunubsq/3DG7ExLKLCEQyWw4ysC4Ag/53ad885c80761ea3aa8f3f5d253b7db2/checkbox.png)
 
 将`indeterminate`设置为`true`对复选框的值没有任何影响，我能想到的唯一合理的用例是嵌套的复选框，就像[克里斯·科伊尔在 CSSTricks](https://css-tricks.com/indeterminate-checkboxes/) 上描述的那样。
 
@@ -60,7 +60,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 酷的是，你还可以使用 CSS 伪类`:indeterminate`伪类来选择元素，当一个组中没有单选按钮被选中时，这可以方便地显示特定的 UI 组件。
 
-[![Radio buttons followed by a message showcasing the :indeterminate pseudo-class](../Images/492075bf57d3f677dee01f7227c6ea79.png)](//images.ctfassets.net/f20lfrunubsq/gR6DWzopxemgaKa4eUika/d71705c5621232e54fa902eda0e87267/radios.png)T3】
+[![Radio buttons followed by a message showcasing the :indeterminate pseudo-class](img/492075bf57d3f677dee01f7227c6ea79.png)](//images.ctfassets.net/f20lfrunubsq/gR6DWzopxemgaKa4eUika/d71705c5621232e54fa902eda0e87267/radios.png)T3】
 
 ```
 .msg {
@@ -88,7 +88,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这三个属性可以用来判断用户选择了什么，使用起来非常简单。如果用户选择了输入字段中的文本，您可以使用这些来评估所选择的内容。
 
-[![Input with selected characters](../Images/d73f92bce2792de8aa67e7294da4c2e4.png)](//images.ctfassets.net/f20lfrunubsq/pTKyzmAjwkSuMqi6wO2iA/e966e1a23477226bf9046a36645300b1/selection.png)T3】
+[![Input with selected characters](img/d73f92bce2792de8aa67e7294da4c2e4.png)](//images.ctfassets.net/f20lfrunubsq/pTKyzmAjwkSuMqi6wO2iA/e966e1a23477226bf9046a36645300b1/selection.png)T3】
 
 ```
 const input = document.querySelector('input');

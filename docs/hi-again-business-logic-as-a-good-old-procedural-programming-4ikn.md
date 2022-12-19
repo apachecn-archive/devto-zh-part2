@@ -338,7 +338,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 截图
 
-[![todo the movie](../Images/4735ee962244d5778b08adfaa08803a0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1PO2UPHl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gg98mw4twq8rhs2seig9.gif) 
+[![todo the movie](img/4735ee962244d5778b08adfaa08803a0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1PO2UPHl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gg98mw4twq8rhs2seig9.gif) 
 真管用！
 让我们再次向优秀的旧式过程编程问好！
 

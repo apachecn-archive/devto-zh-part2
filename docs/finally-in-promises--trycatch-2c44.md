@@ -65,7 +65,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果您运行这段代码，您应该会看到:
 
-[![result of executing the above code: Each step is logged to the console sequentially; the final result is an object containing three keys](../Images/2748effbee32858ed786a1f25fecf20e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zXvumFEb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7o2uc2fv1nv5wll9hbrl.png)
+[![result of executing the above code: Each step is logged to the console sequentially; the final result is an object containing three keys](img/2748effbee32858ed786a1f25fecf20e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zXvumFEb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7o2uc2fv1nv5wll9hbrl.png)
 
 ## `finally`在尝试/捕捉块中
 
@@ -111,7 +111,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是有道理的，但我觉得不一致。我在承诺方面的经验让我抬起了头——为什么一个`finally`块*曾经*被允许覆盖一个函数返回值？
 
-[![pixel art of a woman looking at her laptop in deep thought](../Images/9fd2b827072bd31a668f5cb3df3b551c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---s2UJNZP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h26k6giyyy38p4v6y8w9.png)
+[![pixel art of a woman looking at her laptop in deep thought](img/9fd2b827072bd31a668f5cb3df3b551c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---s2UJNZP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h26k6giyyy38p4v6y8w9.png)
 
 # 寻找原因
 

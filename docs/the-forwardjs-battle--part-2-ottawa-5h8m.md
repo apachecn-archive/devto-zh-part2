@@ -4,7 +4,7 @@
 
 随着旧金山的结束，我连续第二年把目光转向了和我一起回到 T2 的家。
 
-[![](../Images/7b7237ca09f88da5507e17512621e25b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iJNtCUjy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A1QhTaYQnuOywTusj5758sg.jpeg) 
+[![](img/7b7237ca09f88da5507e17512621e25b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iJNtCUjy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A1QhTaYQnuOywTusj5758sg.jpeg) 
 
 <figcaption>这里我是通过 Halyard.JS 转发 js 渥太华与会者</figcaption>
 
@@ -16,7 +16,7 @@ ForwardJS 年的渥太华是对加拿大首都的一个冷静、冷静的介绍�
 
 第一天带来了如此多的知识——所以第二天的演讲者真的有他们的工作要做。他们完全胜任这项任务。这一天见证了 [Jenn Voss](https://twitter.com/VossJenn) 带给我们[来自 QA Crypt](https://forwardjs.com/ottawa/schedule#lecture-391) 的故事、 [Eric Adamski](https://medium.com/u/cf9894fccad7) 的惊人能量以及 [Rx 和 Async](https://forwardjs.com/ottawa/schedule#lecture-402) 、 [Ksenia Coulter](http://kscoult) 教导我们[从代码评审中获得最大收益](https://forwardjs.com/ottawa/schedule#lecture-399)和 [Brian Tavares](https://twitter.com/_briantavares) 以一个精彩的 [React Native](https://forwardjs.com/ottawa/schedule#lecture-388) 演讲结束。
 
-[![](../Images/69a918a89e2029f1fea8a7119a17a69c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ee2sr1Jf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AtycsPdCz-1xigrlA5WwMCw.jpeg) 
+[![](img/69a918a89e2029f1fea8a7119a17a69c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ee2sr1Jf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AtycsPdCz-1xigrlA5WwMCw.jpeg) 
 
 <figcaption>ForwardJS 甜甜圈，有人吗？</figcaption>
 

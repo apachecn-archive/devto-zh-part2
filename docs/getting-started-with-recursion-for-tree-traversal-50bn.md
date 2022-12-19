@@ -57,7 +57,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在`else if`中，您想要测试当前元素是否匹配您正在搜索的项目。如果是，可以返回 true。如果不是，你需要在列表的其余部分重现。
 
-[![](../Images/184dfcc3649f17c50808cfdfb9409f6a.png)T2】](https://logrocket.com/?cid=banner_b)
+[![](img/184dfcc3649f17c50808cfdfb9409f6a.png)T2】](https://logrocket.com/?cid=banner_b)
 
 这是更新后的代码:
 
@@ -222,7 +222,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### Plug: [LogRocket](http://logrocket.com) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

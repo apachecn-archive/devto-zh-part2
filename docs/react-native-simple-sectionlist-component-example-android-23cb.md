@@ -8,6 +8,6 @@
 
 [React 原生简单 SectionList 组件示例 Android](https://www.skptricks.com/2018/10/react-native-simple-sectionlist-component-example-android.html)
 
-[![](../Images/346ae086d3ec72f72e314b705a31d3f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XN96c7S_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://4.bp.blogspot.com/-PeHYPhP5tPI/W7rQTM6KHdI/AAAAAAAACBI/WMEQUy9wfbsD4f0Y8w7z-popwl8HfLh3ACLcBGAs/s640/sec.png)
+[![](img/346ae086d3ec72f72e314b705a31d3f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XN96c7S_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://4.bp.blogspot.com/-PeHYPhP5tPI/W7rQTM6KHdI/AAAAAAAACBI/WMEQUy9wfbsD4f0Y8w7z-popwl8HfLh3ACLcBGAs/s640/sec.png)
 
 [阅读更多...](https://www.skptricks.com/2018/10/react-native-simple-sectionlist-component-example-android.html)

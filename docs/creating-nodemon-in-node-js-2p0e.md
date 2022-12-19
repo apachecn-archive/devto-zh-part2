@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/creating-nodemon-in-node-js-2p0e>
 
-[![](../Images/07f494fdc4ff62ee1485237f6763d7fd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bhK0AjbE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AOS5a9h-Bgti2tuCHYw9yNA.png)
+[![](img/07f494fdc4ff62ee1485237f6763d7fd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bhK0AjbE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AOS5a9h-Bgti2tuCHYw9yNA.png)
 
 <figcaption>[nodemon . io](https://nodemon.io/)</figcaption>
 
@@ -29,7 +29,7 @@ Nodemon 监视给定目录中发生的任何更改，并在每次更改后重新
 
 为了防止重复通知，以及其他一些[已知的 bug](https://github.com/paulmillr/chokidar#why)，我们将使用一个名为 [chokidar](https://github.com/paulmillr/chokidar) 的包。有了这个包为监视文件系统提供的所有改进和修复，我们终于可以开始考虑我们将在应用程序中使用的其他库了。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### 核心
 
@@ -351,7 +351,7 @@ fromEvent(chokidar.watch(process.cwd()), 'all').pipe(
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

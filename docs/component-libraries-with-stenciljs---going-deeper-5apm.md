@@ -134,7 +134,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在我们已经实现了这些类，我们有了一些看起来非常不可思议的按钮 web 组件！
 
-[![buttons](../Images/3b7e2bf7b9808553c52a14bf6289d023.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9ggSMouO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m0yrzxl4jfk994sj6a7b.png)
+[![buttons](img/3b7e2bf7b9808553c52a14bf6289d023.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9ggSMouO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m0yrzxl4jfk994sj6a7b.png)
 
 ## 下一步
 

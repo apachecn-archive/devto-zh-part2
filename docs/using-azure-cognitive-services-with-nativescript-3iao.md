@@ -4,7 +4,7 @@
 
 让我们面对事实:电脑赢了！未来实际上掌握在我们最高机器人领导人的手中。
 
-[![i for one welcome our robot overlords](../Images/48acef46958f0173192d124b0bae915f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--piy8wZk8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/azure-face/robot-overlords.png)
+[![i for one welcome our robot overlords](img/48acef46958f0173192d124b0bae915f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--piy8wZk8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/azure-face/robot-overlords.png)
 
 虽然今天并不完全是“终结者”式的现实🤖，事实是“认知服务”正在爆炸。从机器学习到人工智能，再到其他认知 API，这些“思考”服务正在将难以置信的能力卸载到云上。
 
@@ -50,17 +50,17 @@ Enter fullscreen mode Exit fullscreen mode
 
 Azure 提供完全免费的 7 天试用，以使用其认知服务(以及更多)。之后，你必须使用信用卡才能继续访问。
 
-[![azure sign up](../Images/b40edcf795ff4631d54c927ece84943b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h29p3mC9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/azure-face/azure-signup.png)
+[![azure sign up](img/b40edcf795ff4631d54c927ece84943b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h29p3mC9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/azure-face/azure-signup.png)
 
 不过不用担心，因为 Azure 还提供前 30 天 200 美元的信用，并会在你开始收取任何费用之前警告你。
 
 创建好 Azure 账户后，打开 [Azure 门户](https://portal.azure.com/)，导航到**创建资源**，搜索“face”并启用 Face API:
 
-[![search for azure face api](../Images/68fdb20e0aab395345f95dc5d4575a1b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cfFZZB4M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/azure-face/azure-face.png)
+[![search for azure face api](img/68fdb20e0aab395345f95dc5d4575a1b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cfFZZB4M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/azure-face/azure-face.png)
 
 点击 **Create** 按钮后，您将填写一个简短的表格，上面有服务的*名称*、*订阅*类型(预填)、*位置*(选择离您最近的一个！)、*定价层*(选免费的！)，并输入一个*资源组*名称:
 
-[![azure face api details](../Images/93aa53830e6184a6da55ba06b93e4905.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UXk89Ain--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/azure-face/azure-details.png)
+[![azure face api details](img/93aa53830e6184a6da55ba06b93e4905.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UXk89Ain--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/azure-face/azure-details.png)
 
 此时，请注意两件事(在您的 NativeScript 应用程序中需要这两件事):
 
@@ -77,7 +77,7 @@ NativeScript 是一个免费的开源框架，用于从单个代码库为 iOS �
 
 NativeScript 允许你使用你的网络技能(比如 JavaScript/TypeScript 和 CSS)和流行的 JavaScript 框架(比如 [Angular](https://www.nativescript.org/nativescript-is-how-you-build-native-mobile-apps-with-angular) 和 [Vue.js](https://www.nativescript.org/vue) )来创建移动应用。它在许多方面与 Ionic 相似，但没有为您的 UI 层使用 webviews。
 
-[![nativescript web skills](../Images/3d66393928dd68d6bd24b2ebac673772.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--80tY74K5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/azure-face/nativescript.png)
+[![nativescript web skills](img/3d66393928dd68d6bd24b2ebac673772.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--80tY74K5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/azure-face/nativescript.png)
 
 > **提示:**开始使用 NativeScript 的最佳方式是浏览 [NativeScript 游乐场](https://play.nativescript.org/?template=play-ng&tutorial=getting-started-ng)上的快速教程。你还可以在[学习 NativeScript Layouts](https://www.nslayouts.com/) 了解 UI 布局系统是如何工作的！
 
@@ -189,7 +189,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这应该会在 iOS 和 Android 上神奇地返回以下屏幕:
 
-[![list of meetup folks](../Images/d6a4d08c88926b43ad39c6650ded161c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EIXnEZ3V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/azure-face/meetup-list.png)
+[![list of meetup folks](img/d6a4d08c88926b43ad39c6650ded161c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EIXnEZ3V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/azure-face/meetup-list.png)
 
 > 现在是一个很好的时机来注意这个应用程序的完整源代码(用 TypeScript 构建)可以在[这个 GitHub 库](https://github.com/rdlauer/meetupfaces)中获得。如果你正在寻找 Angular 的类似版本，[看看这里](https://github.com/ignaciofuentes/meetupfaces)。
 
@@ -245,7 +245,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 假设我们没有错过任何东西(嘿，我有时候是个糟糕的程序员，你永远不知道！)我们应该会看到类似这样的屏幕:
 
-[![meetup detail page](../Images/6f041ad3cd94c6677d7e63526e210011.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bg1wDI2I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/azure-face/meetup-detail.png)
+[![meetup detail page](img/6f041ad3cd94c6677d7e63526e210011.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bg1wDI2I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/azure-face/meetup-detail.png)
 
 我们完成了！😀
 

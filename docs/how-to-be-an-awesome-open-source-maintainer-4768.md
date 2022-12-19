@@ -12,7 +12,7 @@
 
 此外，如果你想贡献[这里](https://github.com/aspittel/learn-code-from-us)是回购，有几个问题开放，大多数是初学者友好的！
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) [阿斯皮特](https://github.com/aspittel) / [向我们学习代码](https://github.com/aspittel/learn-code-from-us)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) [阿斯皮特](https://github.com/aspittel) / [向我们学习代码](https://github.com/aspittel/learn-code-from-us)
 
 ### 来自技术领域未被充分代表的群体的人创造了令人敬畏的编程资源
 

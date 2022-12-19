@@ -52,7 +52,7 @@ Dev.to 是开源的，允许更多的社区参与和透明度。例如，您可�
 
 帖子是 dev.to 的基本功能，它们可以采用传统格式，就像普通的博客帖子一样，但是它们也可以用于讨论线程、ama，或者用于托管其他媒体格式的内容，比如视频或播客。你可以切换到`help`标签来查看更多关于 Dev.to markdown 以及如何将其他媒体嵌入到你的帖子中，比如 CodePens 或 YouTube 视频。你也可以阅读更多关于 frontmatter 的内容，它包含了关于你的文章的元数据，比如标签、封面图片和一个规范的 url(如果你是交叉发布的话)。
 
-[![](../Images/be55d63a830134deb4b914e4ba5b74fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V4J3nn6l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3mbvr01hcqt6mm7s23jw.png)
+[![](img/be55d63a830134deb4b914e4ba5b74fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V4J3nn6l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3mbvr01hcqt6mm7s23jw.png)
 
 ### 首页提要
 
@@ -70,11 +70,11 @@ Dev.to 是开源的，允许更多的社区参与和透明度。例如，您可�
 
 你可以对任何❤️组合的帖子做出回应，🦄，和书签。你给出的反应越多，它就越能提升文章在首页的位置。
 
-[![reactions](../Images/49d36fcd2ca455629c4c10d4b0cb94e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6AIIgBex--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/52iy1olv2glfcva3yeo9.png)
+[![reactions](img/49d36fcd2ca455629c4c10d4b0cb94e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6AIIgBex--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/52iy1olv2glfcva3yeo9.png)
 
 书签还有一个额外的功能，就是把它添加到阅读列表中，在那里你可以保存你想以后阅读的文章！
 
-[![reading list](../Images/f69f2d297966b62f0ccc82eaad59d8a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r5BZgqZs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eiw7pi07h4bbcb4f9njk.png)
+[![reading list](img/f69f2d297966b62f0ccc82eaad59d8a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r5BZgqZs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eiw7pi07h4bbcb4f9njk.png)
 
 ### 会谈
 
@@ -90,13 +90,13 @@ Dev.to 是开源的，允许更多的社区参与和透明度。例如，您可�
 
 Dev.to 鼓励交叉发布，这对于拥有自己的博客或者也想发布到 Medium 的人来说非常好。
 
-[![](../Images/be55d63a830134deb4b914e4ba5b74fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V4J3nn6l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3mbvr01hcqt6mm7s23jw.png)
+[![](img/be55d63a830134deb4b914e4ba5b74fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V4J3nn6l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3mbvr01hcqt6mm7s23jw.png)
 
 ### 表现
 
 Dev.to 速度超快，这很棒:它带来了很好的用户体验，也让网站更容易访问。
 
-[![ben image](../Images/fe64a787b888dfb20fc13ad1e466da3d.png)](/ben) [## 让 dev.to 快得不可思议
+[![ben image](img/fe64a787b888dfb20fc13ad1e466da3d.png)](/ben) [## 让 dev.to 快得不可思议
 
 ### 本哈尔彭 2 月 2 日 175 分钟阅读
 
@@ -112,7 +112,7 @@ Dev.to 也是一个渐进式的 web 应用程序，这意味着它有一个页�
 
 丹和[马利克](https://dev.to/milkstarz)也开始了讨论这些热门帖子的播客，这是一个必须要听的——他们非常积极，对他们有很大的影响！
 
-[![dangolant image](../Images/b18fca424e0056505be4d5a950e7347b.png)](/dangolant) [## 开发人员回顾#4:本周前 7 项，已讨论
+[![dangolant image](img/b18fca424e0056505be4d5a950e7347b.png)](/dangolant) [## 开发人员回顾#4:本周前 7 项，已讨论
 
 ### 丹尼尔·戈兰特 10 月 17 日 181 分钟阅读
 
@@ -122,7 +122,7 @@ Dev.to 也是一个渐进式的 web 应用程序，这意味着它有一个页�
 
 还有一些其他线程会定期出现。每周都有一个关于开源项目寻找贡献者的帖子:
 
-[![ben image](../Images/fe64a787b888dfb20fc13ad1e466da3d.png)](/ben) [## 谁在寻找开源贡献者？(10 月 22 日版)
+[![ben image](img/fe64a787b888dfb20fc13ad1e466da3d.png)](/ben) [## 谁在寻找开源贡献者？(10 月 22 日版)
 
 ### 本哈尔彭 10 月 22 日 181 分钟阅读
 
@@ -130,7 +130,7 @@ Dev.to 也是一个渐进式的 web 应用程序，这意味着它有一个页�
 
 有一个关于谁在招聘的月度帖子:
 
-[![thepracticaldev image](../Images/9beda539d204a28e09d7b574a6cb63a3.png)](/thepracticaldev) [## 谁在招人？(截至 2018 年 10 月)
+[![thepracticaldev image](img/9beda539d204a28e09d7b574a6cb63a3.png)](/thepracticaldev) [## 谁在招人？(截至 2018 年 10 月)
 
 ### 开发人员至员工 10 月 16 日 181 分钟读取
 
@@ -138,7 +138,7 @@ Dev.to 也是一个渐进式的 web 应用程序，这意味着它有一个页�
 
 新用户自我介绍的定期欢迎主题:
 
-[![thepracticaldev image](../Images/9beda539d204a28e09d7b574a6cb63a3.png)](/thepracticaldev) [## 欢迎线程- v19
+[![thepracticaldev image](img/9beda539d204a28e09d7b574a6cb63a3.png)](/thepracticaldev) [## 欢迎线程- v19
 
 ### 开发人员至员工 10 月 22 日 181 分钟读取
 
@@ -146,7 +146,7 @@ Dev.to 也是一个渐进式的 web 应用程序，这意味着它有一个页�
 
 此外，Dev.to codebase 上还有每周一期的问题，您可以帮助解决:
 
-[![andy image](../Images/1d3af2881c3a8b9e2c3b908e00ad9727.png)](/andy) [## 值得注意的发展问题
+[![andy image](img/1d3af2881c3a8b9e2c3b908e00ad9727.png)](/andy) [## 值得注意的发展问题
 
 ### 安迪赵(他/他)10 月 24 日 181 分钟阅读
 
@@ -172,7 +172,7 @@ Dev.to 也是一个渐进式的 web 应用程序，这意味着它有一个页�
 
 导师配对计划是一个测试功能，允许成员相互指导！我没有带宽参加，但是你可以在你的设置里的`Mentorship`下报名。
 
-[![Mentorship in settings](../Images/e34bfa4255334155069ddd0478fcdeed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qKOuwuso--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k6gry9vp7w44ng4fac08.png)
+[![Mentorship in settings](img/e34bfa4255334155069ddd0478fcdeed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qKOuwuso--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k6gry9vp7w44ng4fac08.png)
 
 ## 帖子开始
 
@@ -180,17 +180,17 @@ Dev.to 也是一个渐进式的 web 应用程序，这意味着它有一个页�
 
 ### 建议
 
-[![sobolevn image](../Images/e5348283b1b658d728d7128ee008a9af.png)](/sobolevn) [## 我是一个平庸的开发者
+[![sobolevn image](img/e5348283b1b658d728d7128ee008a9af.png)](/sobolevn) [## 我是一个平庸的开发者
 
 ### 尼基塔·索博列夫 3 月 13 日 186 分钟阅读
 
 #learning #career #beginners #productivity](/sobolevn/i-am-a-mediocre-developer--30hn)
-[![munamohamed94 image](../Images/20053ea493422eceeabb2abfe006d53f.png)](/munamohamed94) [## 前端 web 开发不是你想的那样。
+[![munamohamed94 image](img/20053ea493422eceeabb2abfe006d53f.png)](/munamohamed94) [## 前端 web 开发不是你想的那样。
 
 ### 穆纳穆罕默德 11 月 22 日 174 分钟阅读
 
 #tech #webdev #javascript #advice](/munamohamed94/front-end-web-development-is-not-what-you-think-it-is-1ib)
-[![kaydacode image](../Images/361753ce7a31bcfa5fd40e6413d86a69.png)](/kaydacode) [## 你应该问的面试问题
+[![kaydacode image](img/361753ce7a31bcfa5fd40e6413d86a69.png)](/kaydacode) [## 你应该问的面试问题
 
 ### 金·阿内特·2 月 9 日 184 分钟阅读
 
@@ -198,7 +198,7 @@ Dev.to 也是一个渐进式的 web 应用程序，这意味着它有一个页�
 
 ### 意见件
 
-[![rdegges image](../Images/751d3a70466613d2e14ba00f2738fd4e.png)](/rdegges) [## 请停止使用本地存储
+[![rdegges image](img/751d3a70466613d2e14ba00f2738fd4e.png)](/rdegges) [## 请停止使用本地存储
 
 ### Randall de gges 1 月 30 日 1811 分钟阅读
 
@@ -208,7 +208,7 @@ Dev.to 也是一个渐进式的 web 应用程序，这意味着它有一个页�
 
 ### 讨论
 
-[![lkopacz image](../Images/cd7d14f0da8b5733c447c96ff9f5a2f6.png)](/lkopacz) [## 我从远程工作中学到的 10 件事
+[![lkopacz image](img/cd7d14f0da8b5733c447c96ff9f5a2f6.png)](/lkopacz) [## 我从远程工作中学到的 10 件事
 
 ### 林赛·科帕奇 10 月 13 日 185 分钟阅读
 
@@ -218,12 +218,12 @@ Dev.to 也是一个渐进式的 web 应用程序，这意味着它有一个页�
 
 ### 教程
 
-[![maxwell_dev image](../Images/14673be315f69583cf2f2dbaaa4fa9a1.png)](/maxwell_dev) [## 我希望拥有的 Shell 简介
+[![maxwell_dev image](img/14673be315f69583cf2f2dbaaa4fa9a1.png)](/maxwell_dev) [## 我希望拥有的 Shell 简介
 
 ### max Anton ucci Jul 16 ' 18 11min read
 
 #shell #productivity #beginners #explainlikeimfive](/maxwell_dev/the-shell-introduction-i-wish-i-had-551k)
-[![spences10 image](../Images/48178d80c8ae1794a603093729ec874c.png)](/spences10) [## 使用 React 上下文 API -入门
+[![spences10 image](img/48178d80c8ae1794a603093729ec874c.png)](/spences10) [## 使用 React 上下文 API -入门
 
 ### 斯科特斯宾塞 10 月 14 日 1814 分钟阅读
 
@@ -231,12 +231,12 @@ Dev.to 也是一个渐进式的 web 应用程序，这意味着它有一个页�
 
 ### AMAs
 
-[![dan_abramov image](../Images/096baed00ecd217dccb441b9f54befea.png)](/dan_abramov) [## 反应初学者问题线程⚛
+[![dan_abramov image](img/096baed00ecd217dccb441b9f54befea.png)](/dan_abramov) [## 反应初学者问题线程⚛
 
 ### 丹·阿布拉莫夫 12 月 24 日 171 分钟阅读
 
 #react #javascript #beginners #webdev](/dan_abramov/react-beginner-question-thread--1i5e)
-[![sandimetz image](../Images/6eae01c164c04014860843f145e9f9d5.png)](/sandimetz) [## 我是桑迪·梅斯，问我什么都行！[已完成]
+[![sandimetz image](img/6eae01c164c04014860843f145e9f9d5.png)](/sandimetz) [## 我是桑迪·梅斯，问我什么都行！[已完成]
 
 ### 桑迪梅斯 1 月 24 日 181 分钟阅读
 

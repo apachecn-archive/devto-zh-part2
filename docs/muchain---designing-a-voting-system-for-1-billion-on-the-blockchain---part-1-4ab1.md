@@ -6,7 +6,7 @@
 
 ## 投票过去
 
-[![An EVM used in the Indian national elections.](../Images/ab04f831221a13fc3a3ec308d804c67c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XsJclxvl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://newsmobile.in/wp-content/uploads/2017/03/EVM_B_7122015.jpg) 每台机器可容纳 3840 张选票，投票机由人工运送到中央投票委员会进行计票。这一过程既困难又耗时，而且也有报道称该程序容易出现人工错误或故意数错 [1](https://www.firstpost.com/politics/how-does-india-count-its-millions-of-votes-all-you-need-to-know-1523733.html) 。
+[![An EVM used in the Indian national elections.](img/ab04f831221a13fc3a3ec308d804c67c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XsJclxvl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://newsmobile.in/wp-content/uploads/2017/03/EVM_B_7122015.jpg) 每台机器可容纳 3840 张选票，投票机由人工运送到中央投票委员会进行计票。这一过程既困难又耗时，而且也有报道称该程序容易出现人工错误或故意数错 [1](https://www.firstpost.com/politics/how-does-india-count-its-millions-of-votes-all-you-need-to-know-1523733.html) 。
 
 最近，印度选举委员会设计了一个名为“选民可核实的书面审计跟踪”(VVPAT)的系统，该系统将选民的选择印在一张物理收据上，收据在投入密封箱之前会短暂展示。这使投票人知道投票是正确的，并解决了之前的担忧，即选票被投给了潜在作弊机器上的默认候选人。此外，书面记录将增加计票过程中的责任，除非，不知何故，大量的人会错过:^).
 
@@ -21,7 +21,7 @@ c .印度人对纸质的可验证系统更有信心，因为他们觉得纯粹�
 
 ## 软件投票
 
-[![A traditional software based voting architecture.](../Images/088bacc97c4bbdbcb59fa9e8cc94f913.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SvMapGyJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v7f85emdhx93d746ksp0.jpg) 
+[![A traditional software based voting architecture.](img/088bacc97c4bbdbcb59fa9e8cc94f913.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SvMapGyJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v7f85emdhx93d746ksp0.jpg) 
 在传统的投票系统中，投票在客户端进行(或者是专用的，或者是通过网站)，然后将选择提交给服务器，服务器上的中央数据库会跟踪所有的投票。每张选票都存储在数据库中，因此可以重新计算所有选票，而不是仅仅用计数器跟踪每个候选人的选票。这使得更容易验证没有发生选民欺诈，例如没有重复投票或没有投票。由于投票在发送到服务器之前不会被放置，因此我们可以确保服务器验证投票者的身份和选择以防止欺诈。
 
 虽然软件应用程序的任何更明显的安全问题都可能适用，但一些更特定于领域的问题是:
@@ -47,7 +47,7 @@ c .印度人对纸质的可验证系统更有信心，因为他们觉得纯粹�
 委托利益证明(DPoS)是一种较快的共识算法，由 EOS 令牌使用。他们声称在 21 台“授权”服务器上每秒钟确认 3，000 笔交易。利害关系证明的问题是，EOS 的目标不是在所有可用节点上达成共识。在每个确认回合(称为 epoch)中，随机选择一个服务器作为“块生产者”，该节点负责创建新块并将其发送给所有其他代表。然后，块生成器会统计放在它上面的所有投票，并将其发送给所有其他代表进行确认。如果任何未经授权的节点试图不按顺序提议一个块，该块将被其对等节点拒绝，因为只有为每个时期选择的代表才被允许提议一个块。
 
 可以为投票提出类似的体系结构，投票机充当常规节点，一组专用服务器充当投票确认的代表。
-[![Delegated Proof of Stake applied to voting server nodes across the nation.](../Images/9ffb2cf2669035e0d95aa8086c576efc.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--a9s-VZ7n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qp8u0e1mo5dd7x1jhiot.png)
+[![Delegated Proof of Stake applied to voting server nodes across the nation.](img/9ffb2cf2669035e0d95aa8086c576efc.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--a9s-VZ7n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qp8u0e1mo5dd7x1jhiot.png)
 
 当网络向链中添加一组投票时，随机选择一个“代表”来确认组成当前组的投票的有效性。然后，该块被传播给所有其他代表，以就已经放置的投票达成共识。恶意参与者将不得不绕过投票人身份验证方法，并成功地将无效投票放在随机选择的代理服务器上。
 

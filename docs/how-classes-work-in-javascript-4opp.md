@@ -10,7 +10,7 @@
 
 构造函数是一个函数对象，用于创建和初始化对象。
 
-[![constructor](../Images/4adc1043114fbd6ad1bcfd5942cef617.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Kag1A8uC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/60g6uuod7iamst9xacpe.png)
+[![constructor](img/4adc1043114fbd6ad1bcfd5942cef617.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Kag1A8uC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/60g6uuod7iamst9xacpe.png)
 
 现在我们用例子来讨论。
 
@@ -36,7 +36,7 @@ console.log(student1) //  { }
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/3d7f4590690d7258ae8b28c962262748.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ibdPNjwx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wq1igshbqnk9ctfrg1dg.png)
+[![](img/3d7f4590690d7258ae8b28c962262748.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ibdPNjwx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wq1igshbqnk9ctfrg1dg.png)
 
 如何在返回的空对象中添加属性？
 
@@ -57,7 +57,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 最后，构造函数返回如下图所示的`this`对象。
 
-[![](../Images/21788b2590cebf642c3787f62e16df2e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KU0Z8qxV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gel8sia5i8gvvs99jggk.png)
+[![](img/21788b2590cebf642c3787f62e16df2e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KU0Z8qxV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gel8sia5i8gvvs99jggk.png)
 
 ### 类
 
@@ -108,7 +108,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 看看下面的图片，你会明白的。
 
-[![__proto__](../Images/0ce622b712373347a70ac91ca18db1e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IdzZmz00--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lo9wff2r9vrheji17esa.png)
+[![__proto__](img/0ce622b712373347a70ac91ca18db1e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IdzZmz00--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lo9wff2r9vrheji17esa.png)
 
 ### 在类中延伸
 
@@ -136,13 +136,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 在下图中，我展示了 javascript 引擎是如何处理代码的。
 
-[![](../Images/54e78a0fe32b5876afce5bf0319b8cd0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0eGw1NIQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n3ze8dcdghy4jquec1fo.gif)
+[![](img/54e78a0fe32b5876afce5bf0319b8cd0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0eGw1NIQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n3ze8dcdghy4jquec1fo.gif)
 
 让我解释一下当我们调用一个 Csestudent 类时会发生什么。javascript 引擎首先将 Csestudent 添加到调用堆栈中。一旦它看到 super 方法，就会调用作为学生的父类，并返回带有两个属性的对象。最后，我们将 **course** 属性添加到该对象中。
 
 最终的学生对象可能如下所示。
 
-[![](../Images/6e806873849ca2d211ac69707f2ee8a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iOgtUE2g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k8khnv0bydgxi4e0urcj.png)
+[![](img/6e806873849ca2d211ac69707f2ee8a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iOgtUE2g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k8khnv0bydgxi4e0urcj.png)
 
 但是我们在学生类中声明的方法出现在`this.__proto__.__proto__`中
 

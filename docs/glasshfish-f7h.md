@@ -11,7 +11,7 @@
 
 这次选择了全平台。
 
-[![full](../Images/88c30d5a7e1c26f07313c4bf34f8a0f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--edPS8i4W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ob69fi0osecd9mt2tcfn.png)
+[![full](img/88c30d5a7e1c26f07313c4bf34f8a0f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--edPS8i4W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ob69fi0osecd9mt2tcfn.png)
 
 C 解压到正下方后，移动到 C:\glassfish5\bin，执行用于启动服务器的命令 as admin start-domain
 
@@ -22,14 +22,14 @@ asadmin start-domain
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![server](../Images/74b769c0cd5fc04375bfd5fe89c3adeb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eSaRpg6e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4xskh1x0mngx07x097un.png)
+[![server](img/74b769c0cd5fc04375bfd5fe89c3adeb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eSaRpg6e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4xskh1x0mngx07x097un.png)
 
 服务器启动后用浏览器访问
 [http://localhost:4848](http://localhost:4848)
 。
 如果正确启动，将显示 glassfish 的菜单
 
-[![menu](../Images/8f802131b37ad95dbb3d2e6bcbdd2c83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rbBffoID--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/btfaow074rst9knribk5.png)
+[![menu](img/8f802131b37ad95dbb3d2e6bcbdd2c83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rbBffoID--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/btfaow074rst9knribk5.png)
 
 配置在制作好的 war 文件
 c:\ glassfish5\ glassfish\domains\domain1\ auto deploy
@@ -38,7 +38,7 @@ c:\ glassfish5\ glassfish\domains\domain1\ auto deploy
 
 访问时，将显示 APP 应用程序。
 
-[![acess](../Images/58cac86d49b8cc7eb6a922d762153e63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xa83zVxv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/02eps407e6kbpylo7biz.png)
+[![acess](img/58cac86d49b8cc7eb6a922d762153e63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xa83zVxv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/02eps407e6kbpylo7biz.png)
 
 已成功访问。
 

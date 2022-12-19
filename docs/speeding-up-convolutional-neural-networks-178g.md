@@ -99,7 +99,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在深入研究这种方法之前，要知道它非常依赖于可分离卷积在给定框架中的实现方式。就我而言，TensorFlow 可能会对这种方法进行一些特定的优化，而对于其他后端，如 Caffe、CNTK 或 PyTorch，还不清楚。
 
-[![image](../Images/c5796ebc5f2d76bd0a842d44bbd95d26.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EKN1Dy9s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/716/1%2AodJXfzodb02HDnKy27yfpQ.png)
+[![image](img/c5796ebc5f2d76bd0a842d44bbd95d26.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EKN1Dy9s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/716/1%2AodJXfzodb02HDnKy27yfpQ.png)
 Vincent Vanhoucke，2014 年 4 月，“大规模学习视觉表征”
 
 这个想法是，不是在图像的所有通道上联合卷积，而是在每个深度为`channel_multiplier`的通道上运行单独的 2D 卷积。`in_channels * channel_multiplier`中间通道连接在一起，并使用 1x1 卷积映射到 out_channels。[5]这样一来，需要训练的参数就少得多。[2]
@@ -118,7 +118,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 * * *
 
-[![image](../Images/fb86cfa66c3988fb978db6192cb1df7c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0Ed8TY1q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/716/1%2AFjzcTRoe-R680V0hOwYo5A.png) 
+[![image](img/fb86cfa66c3988fb978db6192cb1df7c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0Ed8TY1q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/716/1%2AFjzcTRoe-R680V0hOwYo5A.png) 
 资料来源:v .列别杰夫等人，使用微调 CP 分解加速卷积神经网络
 
 ## CP-分解和高级方法

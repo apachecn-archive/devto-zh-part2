@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/plainprogrammer/programmers-don-t-understand-value-1epe>
 
-[![](../Images/b19bed2cd1c4cf49b1c1410ad701bd38.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3RF2v2iw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://james.thomps.onl/wp-content/uploads/2019/07/d8fc6-1vvlz0g26brp0ki1dh06vrw.jpeg)
+[![](img/b19bed2cd1c4cf49b1c1410ad701bd38.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3RF2v2iw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://james.thomps.onl/wp-content/uploads/2019/07/d8fc6-1vvlz0g26brp0ki1dh06vrw.jpeg)
 
 我们应该如何决定做什么？回答这个问题是所有软件开发过程的关键。根据我的经验，许多程序员、开发人员和工程师都不擅长回答这个问题。
 

@@ -8,6 +8,6 @@
 
 [JavaScript 中的类如何工作](https://www.skptricks.com/2018/11/how-classes-work-in-javascript.html)
 
-[![](../Images/e5fea5de7c78346f326dbd5a24062eed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uPGXaEGV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-En3V5XLthLw/W-wtZe6_KiI/AAAAAAAACJQ/GJ2gPhUjcR8aVaHDyzrY4n4XhNhlq3ccACLcBGAs/s400/class.png)
+[![](img/e5fea5de7c78346f326dbd5a24062eed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uPGXaEGV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-En3V5XLthLw/W-wtZe6_KiI/AAAAAAAACJQ/GJ2gPhUjcR8aVaHDyzrY4n4XhNhlq3ccACLcBGAs/s400/class.png)
 
 [阅读更多...](https://www.skptricks.com/2018/11/how-classes-work-in-javascript.html)

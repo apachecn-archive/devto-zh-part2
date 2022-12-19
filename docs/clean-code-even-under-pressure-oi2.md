@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/mejiamanuel57/clean-code-even-under-pressure-oi2>
 
-[![](../Images/064a31c29652293636df1414ab866f61.png)T2】](https://4.bp.blogspot.com/-f-xLIkiG44A/Wzt-5kvWvZI/AAAAAAAAPbE/DGX5fxcee18dI5jayF89cA44zQVdHriUACLcBGAs/s1600/giphy.gif)
+[![](img/064a31c29652293636df1414ab866f61.png)T2】](https://4.bp.blogspot.com/-f-xLIkiG44A/Wzt-5kvWvZI/AAAAAAAAPbE/DGX5fxcee18dI5jayF89cA44zQVdHriUACLcBGAs/s1600/giphy.gif)
 
 当压力来临时，我们都在工作岗位上，按时交付是一个“生死关头”。有很多因素会影响一个糟糕的项目计划，比如错误的时间估计、工作量分配、团队选择等等...而且说不定还会发生不止一次，毕竟我们是人，真的不好预测。
 

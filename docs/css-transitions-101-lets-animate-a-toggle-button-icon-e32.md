@@ -4,7 +4,7 @@
 
 ### CSS 转换 101:让我们制作一个切换按钮图标的动画
 
-[![](../Images/e9a088f47434d3294efe6f66ed1d2d92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_8Kdreue--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AScwkb2huLr7PUNS8rEMKqQ.jpeg)
+[![](img/e9a088f47434d3294efe6f66ed1d2d92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_8Kdreue--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AScwkb2huLr7PUNS8rEMKqQ.jpeg)
 
 网络动画的作用远远不止是一件装饰品。你可以用它来引导网站访问者的注意力，组织信息并使其更容易消化，让等待内容加载感觉更快更有趣，等等。
 
@@ -30,7 +30,7 @@
 
 关键帧动画的用例包括加载器，它在页面加载后立即开始播放，并无限期地播放，直到所请求的页面资源准备好显示在屏幕上。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/?cid=banner_a)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/?cid=banner_a)
 
 ### 过渡属性
 
@@ -72,23 +72,23 @@ transition-duration 属性表示将 CSS 属性从起始值转换到结束值所�
 
 *   **缓动**:默认值。它开始缓慢，然后加速，然后减速，最后非常缓慢地结束:
 
-[![](../Images/8bc3c6d6b8dce00d4a0ab52f2677d8b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FQtgdUzQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/444/1%2ANpJ89CwvjF5RFFIJnIRqhg.gif)
+[![](img/8bc3c6d6b8dce00d4a0ab52f2677d8b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FQtgdUzQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/444/1%2ANpJ89CwvjF5RFFIJnIRqhg.gif)
 
 *   **线性**:变化率保持不变；
 
-[![](../Images/953ad9acde3d535560cd364c7c4d4379.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hjznnhyn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/445/1%2Ar364uArJmTILNMFeANRPYg.gif)
+[![](img/953ad9acde3d535560cd364c7c4d4379.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hjznnhyn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/445/1%2Ar364uArJmTILNMFeANRPYg.gif)
 
 *   **缓和**:开始缓慢，然后加快速度:
 
-[![](../Images/43449a8cc242527d3262615aa11a1efd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--llk-du5m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/443/1%2ARJA-qAGlh7F_mzvScTppfg.gif)
+[![](img/43449a8cc242527d3262615aa11a1efd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--llk-du5m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/443/1%2ARJA-qAGlh7F_mzvScTppfg.gif)
 
 *   **放松**:快速启动，然后减速:
 
-[![](../Images/a532f04defc7926b6f8ab003add7b4e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Lk5w3ue8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/440/1%2Avp_ihURQgxdNN_pdr9N6jw.gif)
+[![](img/a532f04defc7926b6f8ab003add7b4e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Lk5w3ue8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/440/1%2Avp_ihURQgxdNN_pdr9N6jw.gif)
 
 *   **渐入渐出**:开始慢，中间快，到最后慢下来。它类似于缓和，但结尾没有那么慢:
 
-[![](../Images/17784f8ba820b537c6d6dde05b876537.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9tgfwGoq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/439/1%2A0x2Eejg8N1otFO_qqxtLEw.gif)
+[![](img/17784f8ba820b537c6d6dde05b876537.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9tgfwGoq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/439/1%2A0x2Eejg8N1otFO_qqxtLEw.gif)
 
 或者，你可以创建自定义的三次贝塞尔曲线，你可以使用像[cubic-bezier.com](http://cubic-bezier.com/#.17,.67,.83,.67)这样的工具快速构建。
 
@@ -106,7 +106,7 @@ transition-delay 属性表示在开始持续时间之前要等待的时间。就
 
 目标是将切换按钮上的图标从汉堡形状变成 X 形状。结果将会是这样的:
 
-[![](../Images/c00106d2d2646c2ba7e62bd5a0faf92c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1xE7N1i---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/262/1%2AQbpBVsvJIlaW0pAxRozCrA.gif)
+[![](img/c00106d2d2646c2ba7e62bd5a0faf92c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1xE7N1i---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/262/1%2AQbpBVsvJIlaW0pAxRozCrA.gif)
 
 **代码概述**
 
@@ -364,7 +364,7 @@ window.requestAnimationFrame(doTransition);
 
 ### Plug: [LogRocket](http://logrocket.com) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

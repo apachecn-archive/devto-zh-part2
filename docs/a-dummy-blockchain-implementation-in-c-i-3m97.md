@@ -12,7 +12,7 @@
 
 现在我们只知道什么是事务、块和散列，我们准备好了:**区块链在其核心**非常简单。它是由计算机科学中一种众所周知的数据结构形成的:链表。
 
-[![A linked list is a sequence of nodes. Each node contains a bulk of data and a link to the next node of the list.](../Images/7a6d3cebe2b7ee0ce5db042ea66b69ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7AgWRnR7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/myram.xyz/wp-content/uploads/2018/09/408px-Singly-linked-list.svg_.png%3Fw%3D408%26ssl%3D1)
+[![A linked list is a sequence of nodes. Each node contains a bulk of data and a link to the next node of the list.](img/7a6d3cebe2b7ee0ce5db042ea66b69ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7AgWRnR7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/myram.xyz/wp-content/uploads/2018/09/408px-Singly-linked-list.svg_.png%3Fw%3D408%26ssl%3D1)
 
 ### 1。街区
 

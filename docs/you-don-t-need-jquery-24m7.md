@@ -4,7 +4,7 @@
 
 我最近读了这篇文章 [***。我仍然喜欢 jQuery——你也应该喜欢。***](https://hackernoon.com/i-still-love-jquery-and-you-should-too-3114f33f249e) 老实说，在当今这个发展的时代，有人愿意为 jQuery 辩护，这让我有点惊讶。
 
-[![](../Images/02f95a32291e08aca349339bfdeda8f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--loX7ccAE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AqKyXecsGDFKV5Gbti-Inzw.jpeg)
+[![](img/02f95a32291e08aca349339bfdeda8f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--loX7ccAE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AqKyXecsGDFKV5Gbti-Inzw.jpeg)
 
 作者为 jQuery 做了一个很好的例子，但是有些陈述并不准确，并且忽略了开发的某些方面。让我们看看他支持 jQuery 的一些论点。
 
@@ -44,7 +44,7 @@ el.innerHTML
 
 剧透一下:Vanilla JS 选择器每次都比 jQuery 快。
 
-<figure>[![](../Images/1a15f478169caf51901bbae163ce4641.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dghk5LP1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AuIG2P4s1Zlp0brMy_5boZQ.png) 
+<figure>[![](img/1a15f478169caf51901bbae163ce4641.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dghk5LP1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AuIG2P4s1Zlp0brMy_5boZQ.png) 
 
 <figcaption>JSPERF 的 jQuery 结果和香草 JS 选择器</figcaption>
 

@@ -18,7 +18,7 @@ BackgroundColor = #F8ECC2 - >旧书纸张颜色。
 
 حفظ = "保存"
 
-[![Example](../Images/7e14947d779ef326521071e9ef4e0135.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oT83abKw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://scontent-mrs1-1.xx.fbcdn.net/v/t1.0-9/18582359_1306964836083153_7055751414427336365_n.jpg%3F_nc_cat%3D0%26oh%3D04a4dee693b273ca850f6d622e342964%26oe%3D5B95ECF7)
+[![Example](img/7e14947d779ef326521071e9ef4e0135.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oT83abKw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://scontent-mrs1-1.xx.fbcdn.net/v/t1.0-9/18582359_1306964836083153_7055751414427336365_n.jpg%3F_nc_cat%3D0%26oh%3D04a4dee693b273ca850f6d622e342964%26oe%3D5B95ECF7)
 
 #F8ECC2 的颜色与旧纸质书的颜色相同。通过改变设置文件中的十六进制颜色，你可以使用任何你喜欢的背景颜色或字体颜色。
 

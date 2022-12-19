@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/setting-up-a-monorepo-with-lerna-for-a-typescript-project-1kec>
 
-[![](../Images/42a2eb79d4ddcde6d6a50b42d8e99342.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PB6FlykY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ABriahqbFqeAW9lXDzuUgzw.png)
+[![](img/42a2eb79d4ddcde6d6a50b42d8e99342.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PB6FlykY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ABriahqbFqeAW9lXDzuUgzw.png)
 
 使用单个存储库来维护包含所有包的整个项目通常是非常有用的。有传言称，谷歌和脸书对他们所有的项目使用同一个存储库。当公司使用类似的技术，并且项目共享公共的依赖项和文件时，这种解决方案会非常方便。
 
@@ -14,13 +14,13 @@ Lerna 有两种模式:固定和独立。
 
 固定模式将所有版本的包保持在同一级别。这种方法现在很流行。你可能在 Angular 看过。
 
-[![](../Images/368338cbbd76e11477359513562d8502.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rii42w_9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/515/1%2APg9JrNskIa60kQX_pLViYg.png)
+[![](img/368338cbbd76e11477359513562d8502.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rii42w_9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/515/1%2APg9JrNskIa60kQX_pLViYg.png)
 
 独立模式允许我们每个包有不同的版本。
 
 在一个存储库中维护所有定制包听起来很诱人，事实上，使用 Lerna 非常容易。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 #### 安装
 
@@ -50,7 +50,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们为名为 **hospital-sdk 的假想项目构建一个由多个包组成的简单项目。**
 
-[![](../Images/7fe42be4172fbf1b73eb92eab02b3841.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--igJHd7bB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/959/1%2AgwivSLxlisO2rMlteOuUOQ.png)
+[![](img/7fe42be4172fbf1b73eb92eab02b3841.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--igJHd7bB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/959/1%2AgwivSLxlisO2rMlteOuUOQ.png)
 
 创建文件夹 hospital，并用
 初始化文件夹中的 Lerna
@@ -118,13 +118,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 lerna create doctor 命令将指导我们创建新的包。包的名称很重要。这个包的名字将会是:@hospital-sdk/doctor
 
-[![](../Images/515f3b74979150106e57b17c3b46f8cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pT1diw8_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/825/1%2ASMRKxkaJI8UNlhxHKhxcQA.png)
+[![](img/515f3b74979150106e57b17c3b46f8cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pT1diw8_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/825/1%2ASMRKxkaJI8UNlhxHKhxcQA.png)
 
 我们将对包**患者**和**调度器**重复相同的过程。
 
 结果应该是:
 
-[![](../Images/8e5ddc1c493010a4e5c1df5becedce6f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--09JkWxJ9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/501/1%2Az4nBnT172voORPe8CoDTXw.png)
+[![](img/8e5ddc1c493010a4e5c1df5becedce6f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--09JkWxJ9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/501/1%2Az4nBnT172voORPe8CoDTXw.png)
 
 因为我们对所有的包都使用了 **TypeScript** ，所以我们将在项目的根中定义一个公共的 tsconfig.json。我们的 tsconfig.json 将看起来像:
 
@@ -175,7 +175,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 结果应该是:
 
-[![](../Images/1f02e170757637ae2b70c3297cd57a3f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_hChl3v_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AZ97AdHoeuw72NHdxOYwR9g.png)
+[![](img/1f02e170757637ae2b70c3297cd57a3f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_hChl3v_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AZ97AdHoeuw72NHdxOYwR9g.png)
 
 我们在每个中添加了简单的逻辑。ts 文件。
 
@@ -190,13 +190,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 上面的命令将在所有创建的包中运行 tsc 脚本:
 
-[![](../Images/7676eb92a8593c56a24351f9c4bafacb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2idnrr5A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/897/1%2A66nX59a4rOFHJ70hvra10A.png)
+[![](img/7676eb92a8593c56a24351f9c4bafacb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2idnrr5A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/897/1%2A66nX59a4rOFHJ70hvra10A.png)
 
 如果一切顺利，我们将把 **src** 文件夹中的 **TypeScript** 文件编译到每个包中的 **lib** 文件夹中。
 
 如果我们查看项目中任何包的 package.json，我们会看到类似于**目录**、**文件、类型、publishConfig** 和 **main:** 的属性
 
-<figure>[![](../Images/3988ab9463bc7aa33c0de8ddefbd9d2a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hgqkuScO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/501/1%2AWfg3WmU_7QPtBg9wuCH0Fg.png) 
+<figure>[![](img/3988ab9463bc7aa33c0de8ddefbd9d2a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hgqkuScO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/501/1%2AWfg3WmU_7QPtBg9wuCH0Fg.png) 
 
 <figcaption>套餐/医生/package.json</figcaption>
 
@@ -214,11 +214,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们在 npmjs.org 创建了一个公共(免费)组织:
 
-[![](../Images/8118765031a0a28504424a72be13b262.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XnOTtfFl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWqqLdTpsYPiieGScJ9WAUQ.png)
+[![](img/8118765031a0a28504424a72be13b262.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XnOTtfFl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWqqLdTpsYPiieGScJ9WAUQ.png)
 
 我们必须从终端登录到该组织:
 
-[![](../Images/e7f6bdeeb27e11e444e3e933c96659e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dGIMbsZk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/764/1%2AGLHj5SVAs6OBCbHbV44hFQ.png)
+[![](img/e7f6bdeeb27e11e444e3e933c96659e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dGIMbsZk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/764/1%2AGLHj5SVAs6OBCbHbV44hFQ.png)
 
 此时，我们已经准备好了组织和构建脚本。让我们从根包中将它们粘在一个 npm 脚本下
 
@@ -287,7 +287,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 并从终端运行它:
 
-[![](../Images/17870257f342acf40989bdc492e0aafb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--la9-2wuT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/732/1%2AfWb4hMqrzBmtVqW2XfVxBQ.png)
+[![](img/17870257f342acf40989bdc492e0aafb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--la9-2wuT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/732/1%2AfWb4hMqrzBmtVqW2XfVxBQ.png)
 
 答对了！我们成功地从包中调用了导出的类。
 
@@ -313,7 +313,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-<figure>[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+<figure>[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption></figcaption>
 

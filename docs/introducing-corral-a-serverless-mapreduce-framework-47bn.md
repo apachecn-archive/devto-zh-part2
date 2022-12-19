@@ -12,7 +12,7 @@ Hadoop 和 Spark 也至少需要一些基础设施知识。像 [EMR](https://aws
 
 我的想法是这样的:使用 Lambda 作为执行环境，就像 Hadoop MapReduce 使用 YARN 一样。本地驱动程序协调函数调用，S3 用于数据存储。
 
-[![architecture.svg](../Images/fa9e38302c87495b8524b80501899fdb.png)T2】](///img/2018-05-02-Introducing-Corral-A-Serverless-MapReduce-Framework/architecture.svg)
+[![architecture.svg](img/fa9e38302c87495b8524b80501899fdb.png)T2】](///img/2018-05-02-Introducing-Corral-A-Serverless-MapReduce-Framework/architecture.svg)
 
 结果是 [corral](https://github.com/bcongdon/corral) ，一个用于编写任意 MapReduce 应用程序的框架，可以在 AWS Lambda 中执行。
 
@@ -64,7 +64,7 @@ Hadoop MapReduce 的架构为其带来了以下优势…
 
 最后，我决定使用 S3 作为无状态分区/洗牌的后端。
 
-<figure>[![Semantic Intermediate Filenames Used for Partition/Shuffle](../Images/b61f6c5fa4a8fbb2f3797b1f2bd06728.png)](///img/2018-05-02-Introducing-Corral-A-Serverless-MapReduce-Framework/intermediate.svg) 
+<figure>[![Semantic Intermediate Filenames Used for Partition/Shuffle](img/b61f6c5fa4a8fbb2f3797b1f2bd06728.png)](///img/2018-05-02-Introducing-Corral-A-Serverless-MapReduce-Framework/intermediate.svg) 
 
 <figcaption>用于分区/洗牌的语义中间文件名</figcaption>
 
@@ -74,7 +74,7 @@ Hadoop MapReduce 的架构为其带来了以下优势…
 
 处理输入数据要简单得多。像 Hadoop MapReduce 一样，输入文件被分割成块。Corral 将这些文件块分组到“输入箱”中，每个映射器读取/处理一个输入箱。输入拆分和仓的大小可以根据需要进行配置。
 
-[![input_splits.svg](../Images/94c7623809aca76ba875051dbbd835e1.png)T2】](///img/2018-05-02-Introducing-Corral-A-Serverless-MapReduce-Framework/input_splits.svg)
+[![input_splits.svg](img/94c7623809aca76ba875051dbbd835e1.png)T2】](///img/2018-05-02-Introducing-Corral-A-Serverless-MapReduce-Framework/input_splits.svg)
 
 ## 自部署应用程序
 
@@ -101,7 +101,7 @@ Corral 能够通过在运行时对环境进行一些巧妙的检查，将*完全
 
 部署后，corral 上传到 Lambda 的二进制文件根据调用它的输入有条件地表现为映射器或缩减器。在 Map/Reduce 阶段，本地执行的二进制文件保持运行并调用 Lambda 函数。
 
-<figure>[![Corral Job Timeline](../Images/5c8e80c599f093c8629758e9a316aa2d.png)](///img/2018-05-02-Introducing-Corral-A-Serverless-MapReduce-Framework/timeline.svg) 
+<figure>[![Corral Job Timeline](img/5c8e80c599f093c8629758e9a316aa2d.png)](///img/2018-05-02-Introducing-Corral-A-Serverless-MapReduce-Framework/timeline.svg) 
 
 <figcaption>畜栏作业时间表</figcaption>
 
@@ -145,7 +145,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 是也不是。Lambda 的免费层每月为您提供 400，000 GB 秒。这听起来很多，但很快就会被长时间运行的应用程序用完。
 
-<figure>[![Lambda Pricing Scheme as of 4/29/2018](../Images/ab339ef46fffd7e77b09d97d24b8ea62.png)](///img/2018-05-02-Introducing-Corral-A-Serverless-MapReduce-Framework/lambda_pricing.png)
+<figure>[![Lambda Pricing Scheme as of 4/29/2018](img/ab339ef46fffd7e77b09d97d24b8ea62.png)](///img/2018-05-02-Introducing-Corral-A-Serverless-MapReduce-Framework/lambda_pricing.png)
 
 <figcaption>λ定价方案截至 2018 年 4 月 29 日</figcaption>
 
@@ -169,7 +169,7 @@ Amplab 基准测试高达 125GB 的输入数据。我很想对大约 1TB 的数�
 
 就是这样:corral 让你编写一个简单的 MR 作业，无摩擦地部署到 Lambda，并在 S3 的数据集上运行作业。
 
-<figure>[![Running a word count job in Lambda](../Images/e03d8490b1e9eac5fdf7c06d1eb9fbff.png)](///img/2018-05-02-Introducing-Corral-A-Serverless-MapReduce-Framework/word_count.gif) 
+<figure>[![Running a word count job in Lambda](img/e03d8490b1e9eac5fdf7c06d1eb9fbff.png)](///img/2018-05-02-Introducing-Corral-A-Serverless-MapReduce-Framework/word_count.gif) 
 
 <figcaption>运行中字数统计作业</figcaption>
 

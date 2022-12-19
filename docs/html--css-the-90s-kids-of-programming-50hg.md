@@ -6,7 +6,7 @@
 
 在参加了近两个月的在线软件工程项目后，我终于感觉到我已经进入了熨斗的课程了。我已经完成了 Ruby 开发入门，学习了 Git 和 [GitHub](https://github.com/meg-gutshall) ，快速浏览了过程化 Ruby，现在正在进行面向对象 Ruby 部分的工作。我特别喜欢的一个部分是 HTML 和 CSS 介绍。
 
-[![HTML & CSS Symbols](../Images/15db77fe8ee95dde9fcad858439318f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SQWXViCA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6z59r46fvrjdl76ow8mu.png)
+[![HTML & CSS Symbols](img/15db77fe8ee95dde9fcad858439318f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SQWXViCA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6z59r46fvrjdl76ow8mu.png)
 
 ## HTML:网络的语言
 

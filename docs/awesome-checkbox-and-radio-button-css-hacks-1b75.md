@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/devhammed/awesome-checkbox-and-radio-button-css-hacks-1b75>
 
-[![](../Images/ecb5ef752efa2ae3cd56022b8edc928d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2QUlqT9q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/355/1%2AL7rQX_nQSB0K59x_bvEAUw.png)
+[![](img/ecb5ef752efa2ae3cd56022b8edc928d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2QUlqT9q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/355/1%2AL7rQX_nQSB0K59x_bvEAUw.png)
 
 你好，今天我们将探讨一些无需 JavaScript 就能使用的 CSS 技巧。我会仔细阅读 3 篇精彩的文章，我知道你会对这篇文章的结尾感到惊讶。让我们继续前进
 
@@ -55,7 +55,7 @@ Enter fullscreen mode Exit fullscreen mode
 [https://codepen.io/devHammed/embed/WzPgbX?height=600&default-tab=result&embed-version=2](https://codepen.io/devHammed/embed/WzPgbX?height=600&default-tab=result&embed-version=2)
 感谢您抽出时间阅读此文，😍😍😍你能做到吗:
 
-<figure>[![](../Images/c27dcc0ae5f267a0359664620847f0e9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uFBrkx5Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/220/1%2AGK6G_LKVxtMAKN7fepRpcA.gif) 
+<figure>[![](img/c27dcc0ae5f267a0359664620847f0e9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uFBrkx5Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/220/1%2AGK6G_LKVxtMAKN7fepRpcA.gif) 
 
 <figcaption>拍手……拍手……拍手……拍手</figcaption>
 

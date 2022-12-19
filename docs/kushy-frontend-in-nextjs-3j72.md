@@ -8,7 +8,7 @@
 
 ## 举例
 
-[![A screenshot of the Kushy frontend app running on Heroku](../Images/890f5f158c8c0b0ecfab3104c17045f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x4DykelC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://whoisryosuke.com/static/kushy-frontend-nextjs-screenshot-from-heroku-3e327eae8d5018fd9cc0730cbe38abd7-ca02f.png)
+[![A screenshot of the Kushy frontend app running on Heroku](img/890f5f158c8c0b0ecfab3104c17045f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x4DykelC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://whoisryosuke.com/static/kushy-frontend-nextjs-screenshot-from-heroku-3e327eae8d5018fd9cc0730cbe38abd7-ca02f.png)
 
 您可以查看部署在 **Heroku** 上的项目，或者浏览 Github 上的源代码:
 

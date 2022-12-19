@@ -44,7 +44,7 @@ public interface ITripServiceFacade
 
 ## 适配器:
 
-[![A Charger Adapter](../Images/306b4898c254d5712b7352524ca33260.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--X16fp-f8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/31jsqekdxozo1p4gf121.png)T3】
+[![A Charger Adapter](img/306b4898c254d5712b7352524ca33260.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--X16fp-f8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/31jsqekdxozo1p4gf121.png)T3】
 
 <center>A Wall Adapter</center>
 
@@ -72,7 +72,7 @@ public interface ITransportationServiceAdapter
 
 # 反腐层:
 
-[![The Great Fire](../Images/a3f96512f39d8cfd3a1b2c19f590e4d1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--eHnjTp7F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mvi9162honjdj2js6njt.jpg)T3】
+[![The Great Fire](img/a3f96512f39d8cfd3a1b2c19f590e4d1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--eHnjTp7F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mvi9162honjdj2js6njt.jpg)T3】
 
 <center>The Great Fire engulfing the city of Rome</center>
 
@@ -269,13 +269,13 @@ namespace Logistics.Shipping
 
 领域模型的大致图如下:
 
-[![Domain Model](../Images/837c211e4c11c4727331b468c9f008d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NXNXN_5b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r4fjbtv8kxo9vb8fkls9.png)
+[![Domain Model](img/837c211e4c11c4727331b468c9f008d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NXNXN_5b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r4fjbtv8kxo9vb8fkls9.png)
 
 为了简单起见，省略了关于抗腐蚀层的细节。
 
 # 结论
 
-[![Great Wall of China](../Images/5b0329cc1b90e0c251595acc3cb6def4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gzo_9sdv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mtr4tfi06tyj6czmbyb9.jpg)T3】
+[![Great Wall of China](img/5b0329cc1b90e0c251595acc3cb6def4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gzo_9sdv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mtr4tfi06tyj6czmbyb9.jpg)T3】
 
 <center>The Great Wall of China</center>
 

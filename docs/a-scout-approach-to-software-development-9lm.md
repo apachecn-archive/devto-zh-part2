@@ -8,4 +8,4 @@
 
 [读下去🏕](https://auth0.com/blog/a-scout-approach-to-software-development/?utm_source=dev&utm_medium=sc&utm_campaign=scout_softdev)
 
-[![A Scout Approach to Software Development](../Images/a721d65c81c8de3f96b8a37cad205f18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LFZstkcm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v9ivfvrj9bo5iscyzp50.png)
+[![A Scout Approach to Software Development](img/a721d65c81c8de3f96b8a37cad205f18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LFZstkcm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v9ivfvrj9bo5iscyzp50.png)

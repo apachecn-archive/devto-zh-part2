@@ -8,7 +8,7 @@
 
 所以，有人求助了。采取什么步骤来确保健康和富有成效的指导关系？
 
-[![A conversation between two people](../Images/5fa95449d0cd207fa7b3a97ce7a84f2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--apJXFNUZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x40lu56gkioccnxzvz8p.jpeg)
+[![A conversation between two people](img/5fa95449d0cd207fa7b3a97ce7a84f2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--apJXFNUZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x40lu56gkioccnxzvz8p.jpeg)
 
 ## 1。设计关系
 

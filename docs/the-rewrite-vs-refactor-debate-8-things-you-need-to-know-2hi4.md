@@ -14,7 +14,7 @@
 
 很容易被一个好故事所迷惑。**但轶事不等于证据**。
 
-[![blind people trying to describe an elephant by touch](../Images/517e16b40bd304f1759816dc1bc974a6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1ytn55sc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f5qo4lrkan3je8aps0ku.png)
+[![blind people trying to describe an elephant by touch](img/517e16b40bd304f1759816dc1bc974a6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1ytn55sc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f5qo4lrkan3je8aps0ku.png)
 
 想一想:对于你所阅读的东西的作者，你真的了解他的专业知识吗？在网上发表一篇博文的门槛极低。如果你知道你读的文章是你见过的最差的程序员写的，你会有什么感觉？经验不足一年的人怎么样？曾经只在一个系统上工作过的人呢？
 
@@ -110,7 +110,7 @@
 
 彻底重写一个重要的系统是一项具有重大风险的重大任务。但是如果你决定继续重写，最好睁大你的眼睛去做，因为你可能会提出软件世界的牙买加试图征服俄罗斯。经由北极！冬天！T3】
 
-[![overwhelmed by the scale of the task](../Images/c32edea2eddccaf48cee519b81f79a20.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YlzSTskj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w52qrrjadw65gj5etjvn.jpg)
+[![overwhelmed by the scale of the task](img/c32edea2eddccaf48cee519b81f79a20.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YlzSTskj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w52qrrjadw65gj5etjvn.jpg)
 
 成功不是自动不可能的，但它不会很容易。如果没有适当的计划、整个组织的支持和足够的资源，你可能会让自己和你的团队自愿参加死亡行军。所以，**在你让你的团队重写之前，确保你有一个可行的计划。**
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/roperzh/weekly-command-managing-processes-with-htop-bm5>
 
-[![overview](../Images/94a326d7917ce79540950a83381f75bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xNyct_pe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/4419992/40049134-474ba27e-580a-11e8-9068-bc5951933f9e.jpg)
+[![overview](img/94a326d7917ce79540950a83381f75bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xNyct_pe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/4419992/40049134-474ba27e-580a-11e8-9068-bc5951933f9e.jpg)
 
 ## 基础知识
 
@@ -46,7 +46,7 @@ htop [-dChustv]
 
 ## 配置
 
-[![config](../Images/8eee76f772af4cdfbeedb54780d7ddc9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--orrM4SKq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/4419992/40049133-471ec18c-580a-11e8-94ba-04ec5cf3370a.jpg)
+[![config](img/8eee76f772af4cdfbeedb54780d7ddc9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--orrM4SKq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/4419992/40049133-471ec18c-580a-11e8-94ba-04ec5cf3370a.jpg)
 
 提供了一个很好的界面来配置 UI:从顶部的仪表到每个进程显示的列数，几乎一切都可以改变。这个界面存在于设置菜单中，可以用`F2`打开，一旦打开就会出现几个菜单供你配置。
 

@@ -26,11 +26,11 @@
 
 在第 84 天，我发布了我的第一个电子书+视频课程，重点是通过使用它学习亚马逊网络服务。
 
-> ![unknown tweet media content](../Images/ea85a0380d53fe07fdb4bbab23aa20bb.png)![Kyle Galbraith profile image](../Images/68168c00a58eefd93fd0aeda3c7599f9.png)Kyle Galbraith[@ Kyle Galbraith](https://dev.to/kylegalbraith)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)我刚刚推出了我的第一款产品！我很高兴开始帮助大家学习。AWS 是一个巨大的信息海洋，人们正迷失在其中。本课程穿越信息的海洋，让你真正开始学习 AWS。[kylegalbraith.com/learn-aws](https://t.co/8HBXfPNqkK)2018 年 04 月 13:47 分[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=981528697978015744)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=981528697978015744)![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)
+> ![unknown tweet media content](img/ea85a0380d53fe07fdb4bbab23aa20bb.png)![Kyle Galbraith profile image](img/68168c00a58eefd93fd0aeda3c7599f9.png)Kyle Galbraith[@ Kyle Galbraith](https://dev.to/kylegalbraith)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)我刚刚推出了我的第一款产品！我很高兴开始帮助大家学习。AWS 是一个巨大的信息海洋，人们正迷失在其中。本课程穿越信息的海洋，让你真正开始学习 AWS。[kylegalbraith.com/learn-aws](https://t.co/8HBXfPNqkK)2018 年 04 月 13:47 分[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=981528697978015744)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=981528697978015744)![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)
 
 当我收到我的书的第一本印刷本时，我从未如此自豪过。
 
-[![How to host, secure, and deliver static websites on Amazon Web Services](../Images/047db9635a9535c6c874bcc2936c7435.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8T-yVNmo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zxoylj3borjnuhpdo2b0.jpg)
+[![How to host, secure, and deliver static websites on Amazon Web Services](img/047db9635a9535c6c874bcc2936c7435.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8T-yVNmo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zxoylj3borjnuhpdo2b0.jpg)
 
 对于一些人来说，这可能不是一个伟大的故事。毕竟，这是一本 100 页的书和一些视频。
 

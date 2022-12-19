@@ -18,7 +18,7 @@ PBS 工程团队对如何提高 pbs.org 等产品的产量和稳定性有其他�
 
 我们努力更有效地利用现有的工程师。我们通过跟踪软件交付性能来做到这一点。我的团队可以在问题层面做出常规决策。他们可以针对稳定性和吞吐量优化每个问题。这些小决定产生了显著的影响。这是一个图表，显示了我们创造的问题与解决的问题:
 
-[![Created vs. Resolved](../Images/968c2e169d52d18e3058558ab9369f17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wahFs-S0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fc7sw7z074koyed9xrzk.png)
+[![Created vs. Resolved](img/968c2e169d52d18e3058558ab9369f17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wahFs-S0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fc7sw7z074koyed9xrzk.png)
 
 注意到四月份的变化了吗？不断增长的绿色区域代表着进步！我们跟踪四个指标:
 

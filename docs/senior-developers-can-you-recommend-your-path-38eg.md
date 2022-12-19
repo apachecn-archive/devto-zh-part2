@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/michaelherold/senior-developers-can-you-recommend-your-path-38eg>
 
-[![Five dice arranged to spell T-E-A-C-H.](../Images/6220071fccc8c88185941b3efd1cb38d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sqKOGSON--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://michaeljherold.com/wp-content/uploads/2018/08/alphabet-class-conceptual-301926-1024x683.jpg)
+[![Five dice arranged to spell T-E-A-C-H.](img/6220071fccc8c88185941b3efd1cb38d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sqKOGSON--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://michaeljherold.com/wp-content/uploads/2018/08/alphabet-class-conceptual-301926-1024x683.jpg)
 
 我在工作中的职责之一是指导我们团队中的一些 Rails 开发人员。我非常享受这一点，但同时也很纠结。在前世，我想成为一名教授，帮助人们学习计算机科学和编程。我厌倦了学术界，所以离开了它，从那以后一直在软件行业工作。然而，我仍然有教书的冲动，这也是我如此喜欢辅导的原因。我与导师的斗争来自于我长期的软件开发背景。我从九岁开始就以某种形式编程，从十八岁开始就靠编程赚钱。因此，我在无数不同的计算机相关背景方面有 13-22 年的经验。从 14 岁到现在，我醒着的大部分时间都在培养自己的技能。我真的可以要求更多的初级开发者也这样做吗？当我向我的同事们提出改进的方法时，我究竟该如何调和这一点呢？
 

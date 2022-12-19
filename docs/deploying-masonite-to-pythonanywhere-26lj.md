@@ -16,7 +16,7 @@
 
 登录后，您将看到一个控制面板。在它的左下角，您会看到一个类似这样的部分:
 
-[![](../Images/7edad9d27aa82a714c413596840a4e8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KLAiW_Gr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s0azh89y9w1mcrn4x5ne.png)
+[![](img/7edad9d27aa82a714c413596840a4e8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KLAiW_Gr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s0azh89y9w1mcrn4x5ne.png)
 
 继续点击`$bash`链接。您将看到一个新的 bash 终端。在这里，您应该 pip 安装 masonite-cli，这样我们就可以开始使用 craft 命令了。
 
@@ -125,19 +125,19 @@ Enter fullscreen mode Exit fullscreen mode
 
 回到控制面板，在右上角我们会看到一个名为“Web”的选项卡，如下所示:
 
-[![](../Images/a5cb33f621f72d8507cd58e217df352f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2yaAJ8n4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yvxy6gq6d8rm3o41qsqh.png)
+[![](img/a5cb33f621f72d8507cd58e217df352f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2yaAJ8n4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yvxy6gq6d8rm3o41qsqh.png)
 
 点击它，然后点击“添加新的 Web 应用程序”:
 
-[![](../Images/15dfcf224d015fb277c1062721266b00.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tgOW0jSc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8jozaqrbyjd9my5qtpjc.png)
+[![](img/15dfcf224d015fb277c1062721266b00.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tgOW0jSc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8jozaqrbyjd9my5qtpjc.png)
 
 你需要点击列表底部的“手动配置”。
 
-[![](../Images/ad6e31569b7f0e96a54d0253548582c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ttuofkpX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hrdnjenccknmz97v5q5n.png)
+[![](img/ad6e31569b7f0e96a54d0253548582c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ttuofkpX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hrdnjenccknmz97v5q5n.png)
 
 然后点击“Python 3.6”:
 
-[![](../Images/8a9083e762f9399bdc4f999cb8cc92a6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wrqBYExG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ltz1m3qtbc6li0320c3n.png)
+[![](img/8a9083e762f9399bdc4f999cb8cc92a6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wrqBYExG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ltz1m3qtbc6li0320c3n.png)
 
 完成后，单击“下一步”,您应该会看到一个专门针对您的应用程序的新仪表板。
 
@@ -147,7 +147,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果您向下滚动这个新的 web 应用仪表板，您会看到一个“代码”部分:
 
-[![](../Images/42a3b682c9e79b9db0e56491e76c0119.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7_tZdMqt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3lqw5hnxyj2mig0usdsq.png)
+[![](img/42a3b682c9e79b9db0e56491e76c0119.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7_tZdMqt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3lqw5hnxyj2mig0usdsq.png)
 
 请记住，我们将应用程序放在一个`/var/www/sites/<your_project>`目录中，所以让我们将它添加到源代码和工作目录中，如上图所示。
 
@@ -157,7 +157,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 最终产品应该是这样的:
 
-[![](../Images/bc91ea8e8c8745f21034187151f784c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--22LNsz5_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tjbgnz8cgmsxerosaww0.png)
+[![](img/bc91ea8e8c8745f21034187151f784c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--22LNsz5_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tjbgnz8cgmsxerosaww0.png)
 
 *确保点击右上角的保存*
 
@@ -165,12 +165,12 @@ Enter fullscreen mode Exit fullscreen mode
 
 在 web 应用仪表板上向下滚动一点，您应该会看到一个新的虚拟环境部分。我们只需要告诉 PythonAnywhere 我们在哪里创建了我们的虚拟环境。记得我们刚刚在我们的项目目录中创建了一个`venv`目录。因此，让我们在已经添加的目录中添加一个`venv`:
 
-[![](../Images/a9ba3daa529355f9dbcb96d9c1bd0b85.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yU-hitFF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0j0dfmmlc984qktmdncl.png)
+[![](img/a9ba3daa529355f9dbcb96d9c1bd0b85.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yU-hitFF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0j0dfmmlc984qktmdncl.png)
 
 ## 成功！
 
 就是这样！现在让我们回到页面顶部，重新加载应用程序:
 
-[![](../Images/de71a7cba7993f65f9fbaab9eb332ec1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zpkuobwe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9i8wcqsq3gmomn36wkex.png)
+[![](img/de71a7cba7993f65f9fbaab9eb332ec1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zpkuobwe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9i8wcqsq3gmomn36wkex.png)
 
 完成后，我们可以使用它上面的链接来查看它，该链接看起来像“. pythonanywhere.com”。这将打开我们的 web 应用程序！

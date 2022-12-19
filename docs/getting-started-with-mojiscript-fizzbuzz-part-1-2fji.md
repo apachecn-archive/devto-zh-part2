@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/joelnet/getting-started-with-mojiscript-fizzbuzz-part-1-2fji>
 
-[![4 people looking at laptop](../Images/79cf7713f05c3d30adf768cc9c5d13fe.png)T2】](https://unsplash.com/photos/vdXMSiX-n6M)
+[![4 people looking at laptop](img/79cf7713f05c3d30adf768cc9c5d13fe.png)T2】](https://unsplash.com/photos/vdXMSiX-n6M)
 
 # 什么是 MojiScript
 
@@ -18,7 +18,7 @@ MojiScript 也是 JavaScript 引擎兼容的，这意味着**它可以在 node.j
 
 你知道的 JavaScript 不会运行。但是除此之外...
 
-[![screenshot of JavaScript errors](../Images/587f10299c8be528428ef7fa96914354.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MSUTQ_hC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h7waopmb48icskst1kwd.png)
+[![screenshot of JavaScript errors](img/587f10299c8be528428ef7fa96914354.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MSUTQ_hC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h7waopmb48icskst1kwd.png)
 
 学习 MojiScript 的时候最好忘记你所知道的关于 JavaScript 的一切。
 
@@ -349,4 +349,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 [在把 90%的 JavaScript 扔进垃圾桶后，我是如何重新发现自己对它的热爱的](https://hackernoon.com/how-i-rediscovered-my-love-for-javascript-after-throwing-90-of-it-in-the-trash-f1baed075d1b)
 
-[![Cheers!](../Images/661c03d25961a6e3b1ecbe00d148b35a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PqqJmrxK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6jsy3a866frzp3u5oda0.jpg)
+[![Cheers!](img/661c03d25961a6e3b1ecbe00d148b35a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PqqJmrxK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6jsy3a866frzp3u5oda0.jpg)

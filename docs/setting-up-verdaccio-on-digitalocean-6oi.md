@@ -8,7 +8,7 @@
 
 ### 创建一个水滴
 
-<figure>[![](../Images/b4aa7be30a6a43225c91ad6daf05fcbf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IHMUEvuD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A04T_T0af4mEZrJq4QBKKcQ.png) 
+<figure>[![](img/b4aa7be30a6a43225c91ad6daf05fcbf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IHMUEvuD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A04T_T0af4mEZrJq4QBKKcQ.png) 
 
 <figcaption>在创建水滴之前选择图像</figcaption>
 
@@ -16,7 +16,7 @@
 
 创建一个 droplet 相当容易，只需要选择一个图像并点击 Create，**我个人选择了 Node.js 8.10.0 版本**来简化设置。
 
-<figure>[![](../Images/f73adc0c024163616d318817fbafdea8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4Nu5lY2u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AV1GIMttiMPYuX8FLKuumRg.png) 
+<figure>[![](img/f73adc0c024163616d318817fbafdea8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4Nu5lY2u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AV1GIMttiMPYuX8FLKuumRg.png) 
 
 <figcaption>一个水滴面板的视图</figcaption>
 
@@ -85,7 +85,7 @@ pm2 start `which verdaccio`
 
 Verdaccio 提供了一个很好的用户界面来浏览你可以通过 URL 访问的包，在我们的例子中，从数字海洋控制面板获得 IP 并访问 *verdaccio* 像【http://xxx.xxx.xxx.xxx/】T2。
 
-[![](../Images/f575015f4f73f82ec7ac012053f5462b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fVxTxood--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Al5oyR93jMLDOJnYUv88IZg.png)
+[![](img/f575015f4f73f82ec7ac012053f5462b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fVxTxood--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Al5oyR93jMLDOJnYUv88IZg.png)
 
 #### 安装包
 

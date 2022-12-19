@@ -107,7 +107,7 @@ namespace ScreenshotFunction
 
 首先，我们需要创建我们的电报机器人。让我们和 BotFather 聊一聊:
 
-[![chat](../Images/f9051981d74ad4d091de64cc49f19845.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0q5bkF9j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/kblok/kblok.github.io/raw/master/img/webphotographer/CreatingABot.png)
+[![chat](img/f9051981d74ad4d091de64cc49f19845.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0q5bkF9j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/kblok/kblok.github.io/raw/master/img/webphotographer/CreatingABot.png)
 
 ## 控制台 app
 
@@ -213,7 +213,7 @@ services:
 
 最后，我们运行`docker-compose up`，让我们的机器人启动并运行。我们来看看这个！
 
-[![demo](../Images/787cd37fd2d5ca38e5d6a00b2bb9afa3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Oi0o0134--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/kblok/kblok.github.io/raw/e320f821e48ae160a72a98be8bcd06c4c29ad9f4/img/webphotographer/Chat.png)
+[![demo](img/787cd37fd2d5ca38e5d6a00b2bb9afa3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Oi0o0134--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/kblok/kblok.github.io/raw/e320f821e48ae160a72a98be8bcd06c4c29ad9f4/img/webphotographer/Chat.png)
 
 # 最后的话
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/_maimart_/test-strategies-when-developing-redux-stores-in-angular-apps-driven-by-tests-2700>
 
-[![TDD Angular](../Images/4e42f2723e5e80b26255955af02830bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CkFGw5vE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/maimart.de/wp-content/uploads/2018/07/TDD__Angular.png%3Fw%3D1280)
+[![TDD Angular](img/4e42f2723e5e80b26255955af02830bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CkFGw5vE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/maimart.de/wp-content/uploads/2018/07/TDD__Angular.png%3Fw%3D1280)
 
 我通常开发由测试驱动的角度应用程序。这很好，但是当在我的项目中使用 redux 时(目前是 ngrx，但也有 angular/redux)，在测试和开发商店和功能/分形商店时，需要考虑几个不同的方面。
 

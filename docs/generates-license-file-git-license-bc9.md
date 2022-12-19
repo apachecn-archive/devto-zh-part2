@@ -4,11 +4,11 @@
 
 *这篇文章最初出现在[blog . web-apps . tech](https://blog.web-apps.tech/)T3 上*
 
-[![Generates LICENSE file: git-license](../Images/df371d756d7b83861104e7dbeb4e0aa9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vBW-S9Yl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.web-apps.tech/content/images/2018/02/git-logo.png)
+[![Generates LICENSE file: git-license](img/df371d756d7b83861104e7dbeb4e0aa9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vBW-S9Yl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.web-apps.tech/conteimg/2018/02/git-logo.png)
 
 当我们在 [GitHub](https://github.com) 上创建一个新的存储库时，我们可以选择一个开源许可。
 
-[![Generates LICENSE file: git-license](../Images/a299b91868cfd38d22feeea14bd3de61.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4jLG9zn_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.web-apps.tech/content/images/2018/02/create_new_repo.png)
+[![Generates LICENSE file: git-license](img/a299b91868cfd38d22feeea14bd3de61.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4jLG9zn_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.web-apps.tech/conteimg/2018/02/create_new_repo.png)
 
 我们选择一个 OSS 许可证，然后，`LICENSE`文件被放入新的存储库中。
 

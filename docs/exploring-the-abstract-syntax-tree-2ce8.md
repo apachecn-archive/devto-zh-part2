@@ -17,7 +17,7 @@ pressure = 30
 ```
 
 并将其转换成树形结构:
-[![Tree visual representation](../Images/48d0f4c93ada9d79923ca1bcc1bc63fb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UWpcgL7F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m1fj5ee4x1hrj27p5th2.jpeg)
+[![Tree visual representation](img/48d0f4c93ada9d79923ca1bcc1bc63fb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UWpcgL7F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m1fj5ee4x1hrj27p5th2.jpeg)
 
 维基百科的定义略有不同:
 
@@ -25,7 +25,7 @@ pressure = 30
 
 所以 AST 是创建编译代码的一个阶段。显然，我们越来越接近机器所理解的东西了！
 
-[![Inside the Matrix](../Images/f45b63706c8a377ca1770063a42c63d0.png)T2】](https://i.giphy.com/media/zXmbOaTpbY6mA/giphy.gif)
+[![Inside the Matrix](img/f45b63706c8a377ca1770063a42c63d0.png)T2】](https://i.giphy.com/media/zXmbOaTpbY6mA/giphy.gif)
 
 这使我们能够遍历程序的结构，并报告任何问题(类似于 intellisense/linters ),甚至更改编写的代码。
 

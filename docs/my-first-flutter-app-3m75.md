@@ -27,7 +27,7 @@
 
 但之前，我添加了一些小功能，使现有的部分更舒适，我在应用程序中添加了编辑和删除功能。
 
-[![BoozeTracker List of Drinks](../Images/ce66acaa3a0292463b98e839fed3ad74.png "BoozeTracker List of Drinks")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fgtcjHFx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/raivmfk1082gbwt4cuhn.png)
+[![BoozeTracker List of Drinks](img/ce66acaa3a0292463b98e839fed3ad74.png "BoozeTracker List of Drinks")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fgtcjHFx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/raivmfk1082gbwt4cuhn.png)
 
 是时候回到同步部分了。首先，我必须想出一个解决方案。所以我必须明确我的需求。
 
@@ -53,7 +53,7 @@
 
 一个名为`MainStats`的提供了过去 X 天的总消耗量和干燥天数。它根据用户定义的一些限制对值进行着色。(绿色表示低于限值，红色表示高于限值。)你还会得到你喝得最多的那一天——如果你能记录下来的话...如果喝酒不节制，我估计什么 app 都很难用。
 
-[![BoozeTracker Statistics](../Images/0f5c6dd4ad91385a8252b449052d8951.png "BoozeTracker Statistics")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--82f84a9q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yyb1vkew2vcaqdvsnrxv.png)
+[![BoozeTracker Statistics](img/0f5c6dd4ad91385a8252b449052d8951.png "BoozeTracker Statistics")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--82f84a9q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yyb1vkew2vcaqdvsnrxv.png)
 
 大的统计页面增加了更多的细节，包括显示你饮酒趋势的图表。我记得去年我发现在 Android 中创建一个图表非常困难，这比用 Flutter 花费的时间要多得多。也许只是我经历的变化，但很可能不止如此。使用[图表库](https://google.github.io/charts/flutter/gallery.html)的学习曲线非常短。我一定会写一个更详细的帖子。
 

@@ -4,7 +4,7 @@
 
 我的编程生涯始于一名软件工程师/开发人员，来自一家开发商店(我找不到合适的术语，称它为开发商店、网络代理、软件公司或网络公司，任何对你有意义的东西。为了生存和发展而承担项目的机构/公司)。那是一个人少的小网络商店，然而，我接触到了 PHP 的开源 web 开发 MVC 框架，并且学到了很多专业 web 和软件开发是如何进行的。
 
-[![Image Source : [BrazenCareerlist Blog](http://blog.brazencareerist.com/2011/07/14/so-you-want-to-work-at-a-startup-heres-how-you-do-it/)](../Images/25a4faedea6f5929eebc12631e625e32.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--pnAcZWuy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2ATFj7KplsNP5zLPHg.png) *图片来源:[brazencareelist 博客](http://blog.brazencareerist.com/2011/07/14/so-you-want-to-work-at-a-startup-heres-how-you-do-it/)*
+[![Image Source : [BrazenCareerlist Blog](http://blog.brazencareerist.com/2011/07/14/so-you-want-to-work-at-a-startup-heres-how-you-do-it/)](img/25a4faedea6f5929eebc12631e625e32.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--pnAcZWuy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2ATFj7KplsNP5zLPHg.png) *图片来源:[brazencareelist 博客](http://blog.brazencareerist.com/2011/07/14/so-you-want-to-work-at-a-startup-heres-how-you-do-it/)*
 
 在那之后的创业运动中，我们给了[我们的公司](http://www.younginnovations.com.np/)一个实体存在，并全心全意地建设它，我在那里总共工作了 2 年多，参与了许多项目。这是一次奇妙的学习经历，我可以看到自己的成长。然后我去读了我的[硕士](http://www.han.nl/opleidingen/master/en/information-systems-design/)，之后加入了[迪拜的一家公司](http://www.namshi.com/)，这是一家产品公司(公司和产品是一样的，没有项目，它关心的只是产品——不多也不少)。我已经在这家公司工作一年多了。我认为自己很幸运能与初创企业合作，他们教会你很多其他东西，不仅仅是编码和解决技术问题的硬技能。
 
@@ -32,7 +32,7 @@
 
 *   在管理层面，公司可能缺乏清晰的愿景和目标(除非投资者为公司提供资金，否则第一个问题是如果它是一家初创公司，如何维持公司)。
 
-[![](../Images/8dfb762b7ec858295ee869fd6b144270.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qv3SFFfA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2Ac_gTtcnr4my4PuHm.png)
+[![](img/8dfb762b7ec858295ee869fd6b144270.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qv3SFFfA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2Ac_gTtcnr4my4PuHm.png)
 
 图片:说明一个单独的开发商店可以做什么。
 
@@ -56,7 +56,7 @@
 
 *   在管理层面上，目标和愿景是明确的。该公司可能不是一个软件公司，但如何维持并不取决于你做了多少项目和交付，所以它非常关注产品。
 
-[![](../Images/3ef73e497975eae560321edb7ef7f9c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ah8f_knY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AHQfLQFUM3vcQBJCt.jpg)
+[![](img/3ef73e497975eae560321edb7ef7f9c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ah8f_knY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AHQfLQFUM3vcQBJCt.jpg)
 
 图片:软件产品公司领域的一些大人物
 

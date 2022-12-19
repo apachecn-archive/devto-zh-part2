@@ -16,7 +16,7 @@
 
 > 考虑到所有这些，你应该如何为你的企业找到最好的应用程序开发人员呢？
 
-[![Good App Developers - How To Find Them](../Images/0bfa263631dc3cbaa88a41427424bf63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z9NyVygr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/db5f7487b7d76fc0a0428cf2b6efad02/Good_App_Developers_-_How_To_Find_Them_.jpg)
+[![Good App Developers - How To Find Them](img/0bfa263631dc3cbaa88a41427424bf63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z9NyVygr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/db5f7487b7d76fc0a0428cf2b6efad02/Good_App_Developers_-_How_To_Find_Them_.jpg)
 
 我来帮你解决这个问题，给你提供几个选择，不包括雇佣家人/朋友推荐的人。在我开始之前，我想给你一个建议:如果你自己不是开发人员，试着找一个在开发公司工作过的招聘人员，他知道如何找到最好的。这将简化找到开发者后的面试过程。
 
@@ -30,7 +30,7 @@
 
 因为 Kolosek 是一个远程开发团队，所以我不建议您雇佣这样的团队。不需要晋升。但是，我不得不提到开发团队和自由职业者的一个区别。
 
-[![App Developers - Carefully Choosing the Right Ones](../Images/1ce1e4462b45ad2eeb39806476cce14e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9L9GuzCs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/7d018634ddc3ccf4a553ad0dd6365a8b/App_Developers_-_Carefully_Choosing_the_Right_Ones.jpg)
+[![App Developers - Carefully Choosing the Right Ones](img/1ce1e4462b45ad2eeb39806476cce14e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9L9GuzCs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/7d018634ddc3ccf4a553ad0dd6365a8b/App_Developers_-_Carefully_Choosing_the_Right_Ones.jpg)
 
 所以，最主要的区别是，对于一个团队来说，你得到的是“整套服务”。这是什么意思？当你雇佣一个团队时，你实际上雇佣了一群习惯于一起工作的人，他们每个人都是各自领域的专家。这一点尤其重要，因为大多数开发团队都有应用程序开发人员和设计人员。然而，请记住雇佣一个开发团队需要投入更多的资源。
 
@@ -54,7 +54,7 @@
 
 如果你求助于 Quora 的答案，你会发现你可以在印度、乌克兰、俄罗斯、捷克共和国和波兰找到最好的应用程序开发者。那么，选择哪个国家呢？嗯，如果你预算有限，**印度肯定是一个选择**，因为在那个地区的产品开发非常划算。
 
-[![App Developers - Location](../Images/290dcbb34f6880d9f43ea9da25758c64.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AmuoN5cd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/741718b06747568e760deda829af5952/App_Developers_-_Location.jpg)
+[![App Developers - Location](img/290dcbb34f6880d9f43ea9da25758c64.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AmuoN5cd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/741718b06747568e760deda829af5952/App_Developers_-_Location.jpg)
 
 举例来说，如果你花点时间将他们的价格与每小时[人](https://www.peopleperhour.com/freelance/india)的价格进行比较，你会发现 PPH 开发者和设计师要求的价格从每小时 10 美元到 35 美元不等。在美国,[的普通开发人员](https://www.codementor.io/blog/how-much-do-freelance-developers-cost-around-the-world-2626eu0rzy)的费用是印度同行的两倍——每小时高达 70 美元——所以在你搜索的过程中要时刻记住这一点。
 
@@ -70,7 +70,7 @@ Toptal、Upwork、Freelancer、GetACoder 只是其中的一部分，但还有很
 
 例如，Toptal 只为你提供全球前 3%的自由职业应用开发者。正因为如此，在这里雇佣一个开发人员比在其他网站上更贵。另一方面，自由职业者有相反的问题——有很多开发人员可供选择，这意味着你必须仔细平衡工作质量和成本。
 
-[![App Developers - Searching Online](../Images/a37371fc1c53ef958745e7b4af52b592.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pypsSHA1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/85be9313b22295739e0f53540a0d1238/App_Developers_-_Searching_Online.jpg)
+[![App Developers - Searching Online](img/a37371fc1c53ef958745e7b4af52b592.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pypsSHA1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/85be9313b22295739e0f53540a0d1238/App_Developers_-_Searching_Online.jpg)
 
 幸运的是，这些网站只是列表的开始。
 
@@ -86,7 +86,7 @@ Toptal、Upwork、Freelancer、GetACoder 只是其中的一部分，但还有很
 
 还有，别忘了当地的高校。如果算的话，Kolosek 参加了 Novi Sad 的一个大学展览会，该展览会为学生提供了与公司代表交谈并了解更多关于团队、开发过程等的机会。实际上，我们在展会上遇到了一些非常酷的应用开发者！
 
-[![App Developers - Networking](../Images/a05627806ce0dfcbe15ffd8baa0eb074.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Es-Zw1BR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/2df6b0210b284495c0c272d979485829/App_Developers_-_Networking.jpg)
+[![App Developers - Networking](img/a05627806ce0dfcbe15ffd8baa0eb074.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Es-Zw1BR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/2df6b0210b284495c0c272d979485829/App_Developers_-_Networking.jpg)
 
 ## 联系你感兴趣的应用开发者
 
@@ -94,7 +94,7 @@ Toptal、Upwork、Freelancer、GetACoder 只是其中的一部分，但还有很
 
 看投资组合的时候，需要注意什么？看到现在大部分开发者都有自己的网站，那就让他们的网站跟你谈吧。**注意设计和作品集部分。**优秀的应用程序开发人员会列出他们参与的几十个甚至上百个项目。如果你不能从这些项目中获得全貌，不要犹豫，要求更详细的投资组合。
 
-[![Reaching Out To App Developers](../Images/6c104eeb702ae9c06424821c336b5692.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZekNoQlL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/dc9728a93e8f84921421b525b1141573/Reaching_Out_To_App_Developers.jpg)
+[![Reaching Out To App Developers](img/6c104eeb702ae9c06424821c336b5692.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZekNoQlL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/dc9728a93e8f84921421b525b1141573/Reaching_Out_To_App_Developers.jpg)
 
 分析投资组合后，下一个合乎逻辑的步骤是安排一次 Skype 通话或一次采访。在任何类型的交流中，一定要问正确的问题并记住:**开发者的经验是最重要的事情之一**。应用开发者在市场上存在的时间越长，就越容易与他们合作。
 

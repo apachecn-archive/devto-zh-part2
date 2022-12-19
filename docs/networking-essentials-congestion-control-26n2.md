@@ -12,7 +12,7 @@
 
 通过[互联网架构设计](https://dev.to/swyx/networking-essentials-architecture-and-principles-2g5e)，源主机 H1 和 H2 彼此都不知道对方，也不知道 S-D 链路的当前状态。因此，它们会非常低效地竞争瓶颈上的资源，这可能会导致数据包丢失和长时间的延迟，以至于 S-D 链路甚至会因为所有的故障而没有使用其全部容量。这就是所谓的**拥塞崩溃**。
 
-[![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMCpIHEbLysGQSMdsWp9qRPhq45l8l2QPu_KkI_Zzyk-o6jD5f](../Images/db0cddb7e566b49cde0d91ee07dfcc40.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sOzNQSwj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://encrypted-tbn0.gstatic.com/images%3Fq%3Dtbn:ANd9GcSMCpIHEbLysGQSMdsWp9qRPhq45l8l2QPu_KkI_Zzyk-o6jD5f)
+[![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMCpIHEbLysGQSMdsWp9qRPhq45l8l2QPu_KkI_Zzyk-o6jD5f](img/db0cddb7e566b49cde0d91ee07dfcc40.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sOzNQSwj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://encrypted-tbn0.gstatic.com/images%3Fq%3Dtbn:ANd9GcSMCpIHEbLysGQSMdsWp9qRPhq45l8l2QPu_KkI_Zzyk-o6jD5f)
 
 **拥塞崩溃**定义为**负载增加导致有用功减少**。它可能由以下原因引起:
 
@@ -30,7 +30,7 @@
 
  **您可以使用相位图绘制两台主机之间的公平性和效率:
 
-[![https://i.ytimg.com/vi/EfeAglStSd4/maxresdefault.jpg](../Images/e4b0d16e43c127b2abc48eddfe01df5c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EuydRfYQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.ytimg.com/vi/EfeAglStSd4/maxresdefault.jpg)
+[![https://i.ytimg.com/vi/EfeAglStSd4/maxresdefault.jpg](img/e4b0d16e43c127b2abc48eddfe01df5c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EuydRfYQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.ytimg.com/vi/EfeAglStSd4/maxresdefault.jpg)
 
 你可以通过**网络辅助拥塞控制**来实现这些目标，其中路由器提供一个比特的反馈来指示拥塞(例如 TCP 中的[显式拥塞通知](https://en.wikipedia.org/wiki/Explicit_Congestion_Notification)扩展)，但更常见的是拥塞控制是隐式的，或者是**端到端**，其中网络不提供反馈，拥塞是通过查看数据包丢失和延迟来推断的。
 
@@ -45,11 +45,11 @@
 
 在相位图上，AIMD 平行于 X1 = X2“公平”线向上移动利率，并根据其与原点的角度向下移动利率:
 
-[![http://omsnotes.com/6250/images/fig8.14.png](../Images/d1eefbbcee9374e2b037b03234f444ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3TOsaVnf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://omsnotes.com/6250/images/fig8.14.png)
+[![http://omsnotes.com/62img/fig8.14.png](img/d1eefbbcee9374e2b037b03234f444ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3TOsaVnf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://omsnotes.com/62img/fig8.14.png)
 
 就随时间变化的个体比率而言，AIMD 还得出一个“锯齿”图:
 
-[![http://omsnotes.com/6250/images/fig8.15.png](../Images/f5d41b4920c04d3bf3fa1ff0330718b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZJ5exuF6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://omsnotes.com/6250/images/fig8.15.png)
+[![http://omsnotes.com/62img/fig8.15.png](img/f5d41b4920c04d3bf3fa1ff0330718b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZJ5exuF6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://omsnotes.com/62img/fig8.15.png)
 
 由于 AIMD，TCP 发送方以其窗口大小的 3/4 的平均速率发送。
 

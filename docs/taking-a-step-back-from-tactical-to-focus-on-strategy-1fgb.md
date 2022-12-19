@@ -8,4 +8,4 @@
 
 当你只专注于你的日常工作，完成工作时，这类问题似乎就会出现。他们通常开始是因为这是解决问题最简单或最快的方法。如果我们不后退一步，看看为什么，看看我们的长期目标，很容易陷入困境。
 
-[![](../Images/35a7d6bb5ba174b15efcaf245c206167.png)T2】](https://i.giphy.com/media/3ov9jJlkW5BhgkJF3a/giphy.gif)
+[![](img/35a7d6bb5ba174b15efcaf245c206167.png)T2】](https://i.giphy.com/media/3ov9jJlkW5BhgkJF3a/giphy.gif)

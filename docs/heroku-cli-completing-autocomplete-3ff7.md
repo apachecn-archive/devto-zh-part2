@@ -28,7 +28,7 @@ API 背后的完成数据:大多数自动完成系统使用本地数据，如文
 
 大多数命令行工具的命令、参数和值没有太大变化。例如，下面是`cat`命令可用的选项，用户不能更改这些选项，除非他们安装不同版本的`cat`。
 
-[![cat-command](../Images/875f75189a55ce755868ef67503b2b8b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vrm4phPh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1528766530-cat-command.png)
+[![cat-command](img/875f75189a55ce755868ef67503b2b8b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vrm4phPh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1528766530-cat-command.png)
 
 大多数自动完成功能的实现——如`cat`的自动完成——是一个充满 case 语句的静态文件。然而，Heroku CLI 的超能力之一是能够使用插件来增强其功能。用户可以添加和删除插件，根据自己的需求定制 CLI。没有两个用户的 Heroku CLI 可以假设完全相同。这意味着我们不能只定义 case 语句的静态文件。相反，我们需要一个能够处理任何 Heroku CLI 插件集以及所有相关命令、参数和标志的自动完成功能。
 
@@ -64,7 +64,7 @@ Heroku CLI Autocomplete 的初始设置要求用户修改他们的 shell 配置�
 
 例如，在上面提到的`addons:info`示例中，应用程序名称`serene-hollows-34516`已经在命令中指定，因此我们可以从 Heroku API 获取应用程序的附加别名，并将其作为完成值返回。
 
-[![heroku-cli-addon-autocomplete](../Images/642e18bb5a36194afbcf94625210b2b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JLBGRbMI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1528768570-heroku-cli-addon-autocomplete.gif)
+[![heroku-cli-addon-autocomplete](img/642e18bb5a36194afbcf94625210b2b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JLBGRbMI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1528768570-heroku-cli-addon-autocomplete.gif)
 
 ## 向前移动
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/mariyat99024111/how-office-365-automates-business-processes-hpf>
 
-[![Sharepoint](../Images/2774d1a7cf4ddfd135aee7458e876ab4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4AAciqpM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/47tbk13kmsvv6ffxml45.png)
+[![Sharepoint](img/2774d1a7cf4ddfd135aee7458e876ab4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4AAciqpM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/47tbk13kmsvv6ffxml45.png)
 
 当我与客户谈论客户承诺时，我经常听到这样的宣告“一定有更好的方法…”通常，这些客户指的是完全手动的业务流程。要么有实体文件在工作场所的个人之间流动，要么有各种消息与连接在不同的组之间来回发送，这是人工过程的一部分。
 

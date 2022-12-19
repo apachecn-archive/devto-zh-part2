@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nishanbajracharya/what-i-learned-from-building-my-own-virtualized-list-library-for-react-45ik>
 
-<figure>[![](../Images/e5b11c7f15fffae7d93c58d83e510662.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_84M-Nap--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ASBgZ6Rv3YqS_SzweL4EfZQ.png) 
+<figure>[![](img/e5b11c7f15fffae7d93c58d83e510662.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_84M-Nap--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ASBgZ6Rv3YqS_SzweL4EfZQ.png) 
 
 <figcaption>虚拟化 vs 非虚拟化列表</figcaption>
 
@@ -36,7 +36,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 这是个新想法吗？
 
-<figure>[![](../Images/53e83a5c7178f1b2e0e4cfe915b6e0d4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--M3FDucES--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ADwChLxQKz-JWSK2fw4Bgpw.png)
+<figure>[![](img/53e83a5c7178f1b2e0e4cfe915b6e0d4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--M3FDucES--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ADwChLxQKz-JWSK2fw4Bgpw.png)
 
 <figcaption>react-虚拟化由布莱恩·沃恩</figcaption>
 
@@ -72,7 +72,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 那么它是如何工作的呢？
 
-<figure>[![](../Images/e8f3f356282b70d5a9978ada7af3aa08.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gcYY14Nq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A1tLLMpZgodT96tPnbxGH2w.png) 
+<figure>[![](img/e8f3f356282b70d5a9978ada7af3aa08.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gcYY14Nq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A1tLLMpZgodT96tPnbxGH2w.png) 
 
 <figcaption>道具的一个渲染列表项</figcaption>
 

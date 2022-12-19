@@ -7,11 +7,11 @@
 
 好，让我们假设你在 GiHub 上有一个项目，但是你想把它转移到 GitLab。这样做的过程可能非常简单，主要依赖于更改 git 存储库的`origin` remote。
 
-首先，确保你在 GitLab 上创建了一个新项目: [![Click ‘New project’](../Images/217d0e6463a63729a1e303f0423ddd70.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JInUHtrV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.gnclmorais.com/images/posts/gitlab_new_project.png)
+首先，确保你在 GitLab 上创建了一个新项目: [![Click ‘New project’](img/217d0e6463a63729a1e303f0423ddd70.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JInUHtrV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.gnclmorais.cimg/posts/gitlab_new_project.png)
 
-填写所有你需要的信息，然后点击“创建项目”: [![Click ‘Create project’](../Images/d7d905c3ac334b816b2e0b1d0b931aaf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--b78YD3Gu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.gnclmorais.com/images/posts/gitlab_create_project.png)
+填写所有你需要的信息，然后点击“创建项目”: [![Click ‘Create project’](img/d7d905c3ac334b816b2e0b1d0b931aaf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--b78YD3Gu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.gnclmorais.cimg/posts/gitlab_create_project.png)
 
-现在我们有了一个新项目，抓取项目的`git`链接(只要点击就会被复制): [![Click the clipboard button](../Images/51c9d144d0948b9c7a0e52f4f7be070a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vANukfYc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.gnclmorais.com/images/posts/gitlab_copy_project.png)
+现在我们有了一个新项目，抓取项目的`git`链接(只要点击就会被复制): [![Click the clipboard button](img/51c9d144d0948b9c7a0e52f4f7be070a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vANukfYc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.gnclmorais.cimg/posts/gitlab_copy_project.png)
 
 太好了，我们找到了一个远程链接。现在我们进入我们项目的文件夹(我们在 GitHub 上托管的那个)并替换掉`origin` remote，基本上是告诉 git 将它的更改推到云中的不同位置:
 

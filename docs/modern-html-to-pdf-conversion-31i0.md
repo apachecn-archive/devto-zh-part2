@@ -66,6 +66,6 @@ Docraptor 是一个由 PrinceXML 支持的云 API，可以让你以更低的价�
 
 总的来说，我试图根据三个标准对不同的 PDF 呈现引擎进行分级——对现代 web 标准的支持，对 JavaScript 的支持，以及对分页媒体和其他高级排版功能的支持。
 
-[![Comparison table](../Images/92b4b587f50105e097894d7ca535641c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yybx-Kx9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3q6xw1qv6mgsm0k3b1ub.png)
+[![Comparison table](img/92b4b587f50105e097894d7ca535641c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yybx-Kx9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3q6xw1qv6mgsm0k3b1ub.png)
 
 我希望这能帮助你为你的项目选择正确的选项！如果你已经做到这一步，让我知道你在评论中使用什么😀。

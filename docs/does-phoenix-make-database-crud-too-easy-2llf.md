@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/michaelherold/does-phoenix-make-database-crud-too-easy-2llf>
 
-[![The Phoenix framework logo, an orange firebird.](../Images/06437d9f2130590b18a4a3599fcaa528.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bgy0XBBI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://michaeljherold.com/wp-content/uploads/2018/08/phoenix-1024x576.png)
+[![The Phoenix framework logo, an orange firebird.](img/06437d9f2130590b18a4a3599fcaa528.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bgy0XBBI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://michaeljherold.com/wp-content/uploads/2018/08/phoenix-1024x576.png)
 
 2014 年， [Phoenix framework](https://phoenixframework.org) 作为现代网络的快速、高效和并发解决方案出现在网络开发领域。它的重点是大规模并发，这要归功于[灵药](https://elixir-lang.org)语言和 Erlang 的 BEAM 虚拟机。最初的品牌强调了*高效的*方面，将框架定位于令人尊敬的高效之王 Ruby on Rails 之上。熟悉 Rails 的人会看到很多来自 Rails 的灵感。Phoenix 在开发模式下自动重新加载代码的方式使得它和 Rails 一样易于使用。路由器语法需要仔细观察才能看出两者之间的区别。这种灵感当然有助于 Rails 开发人员快速学习。但我想知道:代价是什么？Phoenix 是否让你的应用变得像 Rails 应用一样简单？这种便利是否有损于使用灵药的全部力量和表现力？
 

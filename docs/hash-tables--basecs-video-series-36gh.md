@@ -8,7 +8,7 @@
 
 想了解更多关于散列表的信息，请看这篇附带的文章:
 
-[![vaidehijoshi image](../Images/c1af460640a8ad9ea29e58d942edc772.png)](/vaidehijoshi) [## 从货架上取下散列表
+[![vaidehijoshi image](img/c1af460640a8ad9ea29e58d942edc772.png)](/vaidehijoshi) [## 从货架上取下散列表
 
 ### vaide hi Joshi Apr 17 ' 17 11 分钟阅读
 
@@ -16,6 +16,6 @@
 
 我希望你喜欢！欢迎在评论中继续讨论。
 
-[![SparkPost Logo](../Images/18d784e3463d7e6f082d8230df42eeae.png)T2】](https://sparkpost.com/)
+[![SparkPost Logo](img/18d784e3463d7e6f082d8230df42eeae.png)T2】](https://sparkpost.com/)
 
 ### *本系列视频由 [SparkPost](https://www.sparkpost.com/) 赞助。对于开发人员来说，这是发送电子邮件的最佳方式。*

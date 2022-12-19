@@ -30,7 +30,7 @@
 
 **今天，我们正在开源[多集群控制器](https://github.com/admiraltyio/multicluster-controller)。**查看自述文件，了解其工作原理的更多细节，包括如何与定制资源一起使用(使用 CRDs)。我们还包括了一些例子。我们希望社区会发现该项目是有用的。(有人自愿建立一个多集群普罗米修斯运营商吗？)
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) [提奥](https://github.com/admiraltyio) / [多集群控制器](https://github.com/admiraltyio/multicluster-controller)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) [提奥](https://github.com/admiraltyio) / [多集群控制器](https://github.com/admiraltyio/multicluster-controller)
 
 ### 用于构建混合和多云 Kubernetes 运算符的库
 

@@ -6,11 +6,11 @@
 
 你可以通过网络浏览器(或者我最喜欢的工具之一，[失眠](https://insomnia.rest/))来调用它，一切都很完美。
 
-[![](../Images/a18e34bdc2dd308101a9f96ff4fdc1a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WGtZmX6T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-5/2018-08-30-10-39-01.png)
+[![](img/a18e34bdc2dd308101a9f96ff4fdc1a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WGtZmX6T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-5/2018-08-30-10-39-01.png)
 
 然后你试着从你的前端调用它(反应，角度或什么的)然后 boom。
 
-[![](../Images/a338c68edf47c4fa35155e9f20c90128.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JX3tBOnw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-5/2018-08-30-10-40-47.png)
+[![](img/a338c68edf47c4fa35155e9f20c90128.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JX3tBOnw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-5/2018-08-30-10-40-47.png)
 
 您会得到一个关于跨源请求被阻塞的神秘错误，因为同一个源策略不允许读取某处或其他地方的远程资源...
 
@@ -79,7 +79,7 @@
 
 如果你想为自己的应用程序生成 CORS 代码(并获得生成代码的简便解释),请查看[CorsDot.net](https://corsdot.net)。
 
-[![](../Images/dd2711c31185b81902110633ccc4f98f.png)T2】](https://corsdot.net)
+[![](img/dd2711c31185b81902110633ccc4f98f.png)T2】](https://corsdot.net)
 
 这是我创建的一个小站点，用来解决配置 CORs 的问题。请查看并让我知道您的进展:-)
 
@@ -117,7 +117,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 仅此而已。如果您现在检查来自 API 的任何响应，您会注意到它们包括这个响应头。
 
-[![](../Images/2b0278d3825492564d97ca7968397687.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lx-4vry_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-5/2018-08-30-16-51-08.png)
+[![](img/2b0278d3825492564d97ca7968397687.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lx-4vry_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-5/2018-08-30-16-51-08.png)
 
 这个“Access-Control-Allow-Origin”头是确保您不会再看到可怕的 CORS 错误的魔法。
 

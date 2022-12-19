@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/lcezermf/tips-to-improve-your-ruby-code-design-530j>
 
-[![image](../Images/177cd6ce02d191b5bb5f95dc9e0de468.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1zegJyb7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t8js64ppcouwqpv1fs3i.jpg)
+[![image](img/177cd6ce02d191b5bb5f95dc9e0de468.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1zegJyb7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t8js64ppcouwqpv1fs3i.jpg)
 
 > 任何傻瓜都能写出计算机能理解的代码。优秀的程序员写人类能理解的代码。
 

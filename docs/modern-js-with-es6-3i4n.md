@@ -241,12 +241,12 @@ Enter fullscreen mode Exit fullscreen mode
 
 另一个选择是**密封**一个对象，以防止改变对象的结构。
 
-[![Seal](../Images/16f5c76916f959115eb78377138dea0b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xGaUchQk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/kevinlangleyjr-dev/image/upload/v1620847917/blog/modern-js/7093270813_fdafd6e704_o_f1brtj.jpg) 
+[![Seal](img/16f5c76916f959115eb78377138dea0b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xGaUchQk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/kevinlangleyjr-dev/image/upload/v1620847917/blog/modern-js/7093270813_fdafd6e704_o_f1brtj.jpg) 
 [图片来源:伊娃·里纳尔迪](https://www.flickr.com/photos/evarinaldiphotography/7093270813)
 
 等等，不，不是那只海豹！
 
-[![Seal](../Images/b908a9cbc35c123004cf90a7bfe20836.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KaQxnerF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/kevinlangleyjr-dev/image/upload/v1620844147/blog/modern-js/amy-asher-giZJHm2m9yY-unsplash_ts6ic7.jpg) 
+[![Seal](img/b908a9cbc35c123004cf90a7bfe20836.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KaQxnerF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/kevinlangleyjr-dev/image/upload/v1620844147/blog/modern-js/amy-asher-giZJHm2m9yY-unsplash_ts6ic7.jpg) 
 [图片来源:艾米·阿什](https://unsplash.com/photos/giZJHm2m9yY)
 
 是的，不。也不是那一个...
@@ -302,7 +302,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 太阳穴死区
 
-[![TARDIS](../Images/926c4b1153d0961206a106099a5284ec.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--eG6wCDZi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/kevinlangleyjr-dev/image/upload/v1631465914/blog/modern-js/25031662202_51c0be73c9_o_klr3xa.jpg) 
+[![TARDIS](img/926c4b1153d0961206a106099a5284ec.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--eG6wCDZi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/kevinlangleyjr-dev/image/upload/v1631465914/blog/modern-js/25031662202_51c0be73c9_o_klr3xa.jpg) 
 [图片来源:贾尔斯·特恩布尔](https://www.flickr.com/photos/gilest/25031662202/)
 
 虽然时间死区听起来像是《神秘博士》中的情节，但它远没有听起来那么可怕。
@@ -419,7 +419,7 @@ for (const paragraph of articleParagraphs) {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Mind Blown Gif](../Images/e39b8cfb72003cf0d3223f235ad9b0f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--96LMbxTC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/kevinlangleyjr-dev/image/upload/v1631466460/blog/modern-js/blow-mind-mind-blown_oz6qpc.gif)
+[![Mind Blown Gif](img/e39b8cfb72003cf0d3223f235ad9b0f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--96LMbxTC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/kevinlangleyjr-dev/image/upload/v1631466460/blog/modern-js/blow-mind-mind-blown_oz6qpc.gif)
 
 甚至，用它来迭代字符串中的字母！
 
@@ -1287,7 +1287,7 @@ const promiseA = new Promise( ( resolve, reject ) => {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Promise Harry Potter Gif](../Images/e28bd9a35dc74e73a15758188e015bb8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tqhjnrNp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/kevinlangleyjr-dev/image/upload/v1635020656/blog/modern-js/promise_z67bfm.gif)
+[![Promise Harry Potter Gif](img/e28bd9a35dc74e73a15758188e015bb8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tqhjnrNp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/kevinlangleyjr-dev/image/upload/v1635020656/blog/modern-js/promise_z67bfm.gif)
 
 ### 承诺 API
 
@@ -1604,7 +1604,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果您使用上面的代码示例，然后在 Chrome 开发工具中通过单击 Performance 选项卡下的垃圾桶来强制垃圾收集，您会看到`ws`不再保存对`user`的引用。
 
-[![Force JavaScript garbage collection in Chrome](../Images/c8a2d3b2dd181e7b59192ac6552e7d89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--liakRNSL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/kevinlangleyjr-dev/image/upload/v1637687473/blog/modern-js/garbage-collection_u4khbx.png)
+[![Force JavaScript garbage collection in Chrome](img/c8a2d3b2dd181e7b59192ac6552e7d89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--liakRNSL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/kevinlangleyjr-dev/image/upload/v1637687473/blog/modern-js/garbage-collection_u4khbx.png)
 
 ## 地图/WeakMap
 

@@ -5,7 +5,7 @@
 我的 [github](https://github.com/vikkio88?tab=repositories) 里有很多死项目。
 
 基本上我是这样对待副业的
-[![a](../Images/d1b1f90df277552af1542637f14f51e5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8JQO8B5---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jipwln0q7zyvdrise5z5.jpeg)
+[![a](img/d1b1f90df277552af1542637f14f51e5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8JQO8B5---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jipwln0q7zyvdrise5z5.jpeg)
 
 但是我会提到“最好的”
 

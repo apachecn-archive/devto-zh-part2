@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kapil_aggarwal1/one-failing-unit-test-368>
 
-[![](../Images/3f9d6722c135abf8d5b950d90ccbe722.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RdfUeoFd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aq1dabCG6YzaqeLtf5ZZmgw.jpeg) 
+[![](img/3f9d6722c135abf8d5b950d90ccbe722.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RdfUeoFd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aq1dabCG6YzaqeLtf5ZZmgw.jpeg) 
 
 <figcaption>单位</figcaption>
 
@@ -26,7 +26,7 @@
 
 QA :马上就要测试了。
 
-[![](../Images/0e7bfdddccc12445c27a4ebfbd4a456f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jDfoO4EB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ak2I1T8faygpFoOGZQoyxJg.png)T3】要求
+[![](img/0e7bfdddccc12445c27a4ebfbd4a456f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jDfoO4EB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ak2I1T8faygpFoOGZQoyxJg.png)T3】要求
 
 让我们看一些伪代码
 

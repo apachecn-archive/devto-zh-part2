@@ -91,7 +91,7 @@ Enter fullscreen mode Exit fullscreen mode
 为什么我们需要检查两端的浏览器版本:后端和前端？
 如果您的现代 javascript 前端无法在旧浏览器上加载，我们仍然可以使用后端渲染来编写一些 HTML 来通知用户这个问题:
 
-[![The outdated browser html block sample](../Images/c7e9fea2778e3498aaba2c7f4ff99cab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U1rohQXT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/arfb7qw3ely8pq2j20k5.png)
+[![The outdated browser html block sample](img/c7e9fea2778e3498aaba2c7f4ff99cab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U1rohQXT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/arfb7qw3ely8pq2j20k5.png)
 
 ❗This HTML 块可以在任何浏览器中工作，不管它有多旧。
 

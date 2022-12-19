@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jsguru_io/top-10-reasons-to-upgrade-your-angular-application-5dlg>
 
-[![](../Images/ea06a8e37636b69d7bdb77c07aa2bbfc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ESQzqx9f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AbRlKDjxqkQTfgEz40jdftA.png)
+[![](img/ea06a8e37636b69d7bdb77c07aa2bbfc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ESQzqx9f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AbRlKDjxqkQTfgEz40jdftA.png)
 
 Angular 是一个流行的 JavaScript 框架，用于创建 web、桌面和移动应用程序。它由谷歌建立和维护。
 
@@ -102,7 +102,7 @@ Angular 5 带有新的日期、数字和货币管道。
 
 RxJS 版本 5.5 引入了一种使用 RxJS 的新方法，称为“可允许操作符”。现在可以从 rxjs/operators 导入任何操作符。这些新操作符消除了以前导入操作符的方法中存在的副作用和代码分裂/树抖动问题。默认情况下，新的 Angular CLI 将拉这个版本，并将大大节省包的大小！
 
-[![](../Images/bf82d5e73b2f49a068810b9a9e6101b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dAhW1auw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AwDkdwUhMM555aZ8J.png)
+[![](img/bf82d5e73b2f49a068810b9a9e6101b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dAhW1auw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AwDkdwUhMM555aZ8J.png)
 
 ### 是否要将应用升级到 Angular 5？
 

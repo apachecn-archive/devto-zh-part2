@@ -4,7 +4,7 @@
 
 从今天，7 月 1 日开始，我要每天写 5 分钟。乔希·亚当的推特(tweet)给了我尝试这个的灵感，告诉我他发现了一个叫 writingstreak.io 的新应用。
 
-[![https://twitter.com/knewter/status/1002002417150562305](../Images/5fe8a91762f569374bdf0fafa90f18fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nVQkbHYT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cpb4qqf59vaqmdk59lbg.png)
+[![https://twitter.com/knewter/status/1002002417150562305](img/5fe8a91762f569374bdf0fafa90f18fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nVQkbHYT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cpb4qqf59vaqmdk59lbg.png)
 
 谢谢乔希。
 
@@ -16,7 +16,7 @@
 
 下面是 writingstreak.io 在运行中的预览！
 
-[![Inside the writingstreak.io app](../Images/c803e18e8273b9738939116090ce3549.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MkbEQ75P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eq89zfd46qv7peulycml.png)
+[![Inside the writingstreak.io app](img/c803e18e8273b9738939116090ce3549.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MkbEQ75P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eq89zfd46qv7peulycml.png)
 
 我希望这个网络应用程序能给你一点灵感，让你也能每天写作。每天写作对你来说很难吗？如果你以前管理过一个长期博客，我很想听听你是如何保持承诺或受到启发的！
 

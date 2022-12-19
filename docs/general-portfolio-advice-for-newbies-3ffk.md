@@ -4,7 +4,7 @@
 
 阿里有这个线程目前正在进行
 
-[![aspittel](../Images/45a8d86fe0ff981bf7cdb45b471a3c5c.png)](/aspittel) [## 投资组合建议线索
+[![aspittel](img/45a8d86fe0ff981bf7cdb45b471a3c5c.png)](/aspittel) [## 投资组合建议线索
 
 ### 阿里·斯皮特尔 11 月 15 日 181 分钟阅读
 

@@ -8,4 +8,4 @@
 
 [Javascript 中丰富多彩的控制台消息](https://www.skptricks.com/2018/11/colorful-console-message-in-javascript.html)
 
-[![](../Images/2dae2476bceae781882eb1be956cc07b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ur9e1Ilp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://4.bp.blogspot.com/-_c_q7MNLWtk/W-vXh2y1miI/AAAAAAAACJE/9QBvxvLLxxo0QBNelsbCfHFNR0FrEZqHACLcBGAs/s400/console.png)
+[![](img/2dae2476bceae781882eb1be956cc07b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ur9e1Ilp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://4.bp.blogspot.com/-_c_q7MNLWtk/W-vXh2y1miI/AAAAAAAACJE/9QBvxvLLxxo0QBNelsbCfHFNR0FrEZqHACLcBGAs/s400/console.png)

@@ -24,7 +24,7 @@
 
 因此，你想向公共互联网公开 3 个服务，它们是 3 个 web 应用程序，每个都依赖于 2 个私有服务。服务称为 A、B 和 C，而私人服务称为 A1、A2、B1、B2、C1 和 C2。你拥有域名**a.com**、**b.com**和**c.com**。最后，我们希望这个假设的系统看起来像这样:
 
-[![Service Layout](../Images/6b91da5fdf7b270663585c0508443431.png "Service Layout")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DNW_CyzE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a1v9i6icd8gmlb1scwtb.png)
+[![Service Layout](img/6b91da5fdf7b270663585c0508443431.png "Service Layout")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DNW_CyzE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a1v9i6icd8gmlb1scwtb.png)
 
 ## 反向代理分离域请求到各自的服务
 
@@ -175,7 +175,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 集群拓扑如下图所示，容器中的每个服务分布在工作节点上:
 
-[![Manager Reverse Proxy Layout](../Images/fb4461e0fe44e06233e4f5bf6e6194d4.png "Manager Reverse Proxy Layout")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--njc8X8c6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/suy6r94bwgqzm1p3coza.png)
+[![Manager Reverse Proxy Layout](img/fb4461e0fe44e06233e4f5bf6e6194d4.png "Manager Reverse Proxy Layout")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--njc8X8c6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/suy6r94bwgqzm1p3coza.png)
 
 不难看出这里的瓶颈或单点故障。如前所述，无论出于何种原因，如果管理节点出现故障，整个集群都将无法运行。在负载很重的情况下，一台机器很难跟上，更何况它是基础设施中如此重要的一部分。
 
@@ -197,7 +197,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 拓扑现在应该类似于下图
 
-[![DigitalOcean Reverse Proxy Layout](../Images/3e870f5ae5cb058197c7274728cb1b58.png "DigitalOcean Reverse Proxy Layout")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1ZipAPuS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gpn2awtd76uh64r8kknf.png)
+[![DigitalOcean Reverse Proxy Layout](img/3e870f5ae5cb058197c7274728cb1b58.png "DigitalOcean Reverse Proxy Layout")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1ZipAPuS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gpn2awtd76uh64r8kknf.png)
 
 如果某些工作负载接管了某个节点的反向代理功能，则可以设置更复杂的设置。但是布局和它的设置仍然非常相似，所以现在不需要详细说明。
 

@@ -10,7 +10,7 @@
 
 实现传感器很难，你可能会感到困惑。
 
-[![Cry Kid Meme](../Images/254510b1b10a8fe2d384d2d4fed89240.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d2Pux1EW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gsvbn4gmhf2mgvxci1si.gif)
+[![Cry Kid Meme](img/254510b1b10a8fe2d384d2d4fed89240.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d2Pux1EW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gsvbn4gmhf2mgvxci1si.gif)
 
 这是正常的，也是意料之中的，当我阅读自己的代码时，我也会遇到这种情况。不要放弃。
 
@@ -48,7 +48,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 PHP Hadouken！！！
 
-[![PHP Hadouken](../Images/d934be41ad235d0f230e3e6c3d9e5faa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tZxuB4Lu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hcfldtz6c7b3mz1znuy6.jpg)
+[![PHP Hadouken](img/d934be41ad235d0f230e3e6c3d9e5faa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tZxuB4Lu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hcfldtz6c7b3mz1znuy6.jpg)
 
 我们现在已经准备好面对真正的传感器实现，面对一大堆问题。
 
@@ -90,7 +90,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 你所有的数据都是属于我的
 
-[![Catducer](../Images/0fbf51fa773dae3e5ab98eb41c44f4a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BAa5CVHC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/63bt1i95tncc5nxah0nd.jpg)
+[![Catducer](img/0fbf51fa773dae3e5ab98eb41c44f4a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BAa5CVHC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/63bt1i95tncc5nxah0nd.jpg)
 
 实施`my-cat`传感器。对于每一步，您都需要使您的实现适应测试样本所描述的新需求。
 
@@ -176,6 +176,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 祝贺你成功了！
 
-[![Success Kid](../Images/a9b04ac55d9cadddb1770548bdf0c482.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ElZ5WRYx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fcp68zg54jvmqh7s75wx.png)
+[![Success Kid](img/a9b04ac55d9cadddb1770548bdf0c482.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ElZ5WRYx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fcp68zg54jvmqh7s75wx.png)
 
 你是少数人之一。

@@ -41,17 +41,17 @@
 
 该应用程序之前的代码非常简单，我们发出一个 AJAX 请求，然后用`send_data`流传输文件的内容。授权/认证是通过 Pundit / Knock 在一个`before_action`钩子上完成的。
 
-[![My old rails code](../Images/ea7f9e2d8b05f3be649495ddfa636d3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--spaotNL_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AL95vE78HUv4L1zoevMpcVQ.png)
+[![My old rails code](img/ea7f9e2d8b05f3be649495ddfa636d3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--spaotNL_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AL95vE78HUv4L1zoevMpcVQ.png)
 
 这在 Chrome 以外的浏览器上不起作用，所以我把这个过程分开，首先创建一个 30 秒的报告 URL，并在这个新的 URL 上提供文件。
 
-[![The new create method](../Images/724f2477c928b39eb3e29ffeedfcaad3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oM74PzXP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A3O8Oig25GO1K_HmEePTMMQ.png)
+[![The new create method](img/724f2477c928b39eb3e29ffeedfcaad3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oM74PzXP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A3O8Oig25GO1K_HmEePTMMQ.png)
 
 我们给控制器添加了一个`create`方法。这个方法将负责使用一个签名的 JWT 令牌创建一个短的活 URL，这个令牌将在 30 秒后过期，我还对请求资源的用户 id 进行了编码。
 
 客户端会得到一个类似于这样的 JSON 对象:`{url: "https://domain.com/reports/report_type?token=encryptedtoken"}`。
 
-[![The modified show version](../Images/56b9f96612421205446f13c45e1f42bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--73nJ3bwk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AqDZwbFKHupObMgsvt2KICA.png)
+[![The modified show version](img/56b9f96612421205446f13c45e1f42bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--73nJ3bwk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AqDZwbFKHupObMgsvt2KICA.png)
 
 这个节目稍作改变，它跳过了认证，它做的第一件事是用`JWT.decode`解码 JWT 令牌。如果令牌过期,`JWT.decode`将抛出一个`JWT::ExpiredSignature`。然后，如果需要的话，我可以从这个错误中拯救出来，并向我的用户返回一个 403。我也可以在没有令牌的情况下从`JWT::DecodeError`中解救出来。
 

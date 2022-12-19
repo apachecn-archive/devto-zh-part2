@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/aniketsmk/compassionate-coding-the-secret-of-high-perfomance-teams-4mbg>
 
-<figure>[![](../Images/5ac7aec69257133c016847fe816300dc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wKcvz4Vq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/960/1%2ApqPYb8EFWe3Puj-KDfc7WA.png) 
+<figure>[![](img/5ac7aec69257133c016847fe816300dc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wKcvz4Vq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/960/1%2ApqPYb8EFWe3Puj-KDfc7WA.png) 
 
 <figcaption>这个主意太好了，它重复了两次</figcaption>
 
@@ -22,7 +22,7 @@
 
 想一想，你认为那会是什么。这张单子上的第一项是什么？
 
-<figure>[![](../Images/39090726b6610c88bac0e15e0c903c03.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Gl7QAZP6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/960/1%2A-mUM04lP3F2hAoWBeINnWw.png)
+<figure>[![](img/39090726b6610c88bac0e15e0c903c03.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Gl7QAZP6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/960/1%2A-mUM04lP3F2hAoWBeINnWw.png)
 
 <figcaption>[https://rework . with Google . com/blog/five-keys-to-a-successful-Google-team/](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)</figcaption>
 
@@ -52,7 +52,7 @@
 
 ### 没有同情心
 
-[![](../Images/ffa8ba13ddea4a793b2ecf0d51d91a9a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MGmPn2dd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/960/1%2A1UaYEDPFvuvEKYZPCZj-9Q.png)
+[![](img/ffa8ba13ddea4a793b2ecf0d51d91a9a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MGmPn2dd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/960/1%2A1UaYEDPFvuvEKYZPCZj-9Q.png)
 
 这是来自开发者联盟的见解报告，是对来自世界各地组织的 850 人的调查结果，他们想知道的一件事是，为什么软件项目会失败。
 
@@ -239,7 +239,7 @@
 
 ### 科技是为团队服务的
 
-<figure>[![](../Images/75352e1f53e25fc974dccae1983e818c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--en4Zhjkw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AaaAvn_cdiYhAZ08SI7fHlQ.png) 
+<figure>[![](img/75352e1f53e25fc974dccae1983e818c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--en4Zhjkw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AaaAvn_cdiYhAZ08SI7fHlQ.png) 
 
 <figcaption>[来源:](https://www.flickr.com/photos/pictoquotes/14601457842)</figcaption>
 

@@ -4,7 +4,7 @@
 
 ### 微软奥尔良—依赖注入
 
-[![](../Images/3a127c665e9066dd3751eeef47eeea16.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9t84Tn9F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/0%2AJnJHfNGV4tkv8UPw.png)
+[![](img/3a127c665e9066dd3751eeef47eeea16.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9t84Tn9F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/0%2AJnJHfNGV4tkv8UPw.png)
 
 依赖注入是编写松散耦合、易于测试的代码的重要部分。我以前写过一些关于它的文章，但不是在微软奥尔良的背景下。
 
@@ -46,7 +46,7 @@ public void ConfigureServices(IServiceCollection services)
 
 #### 我们如何将此应用于奥尔良？
 
-[![](../Images/f5f503bca3dfebb14c8e84c3587c0331.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--doE3m2Lq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AnuH6GgCOQHGVz8Mv) 
+[![](img/f5f503bca3dfebb14c8e84c3587c0331.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--doE3m2Lq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AnuH6GgCOQHGVz8Mv) 
 
 <figcaption>照片由[萨拉·巴赫什](https://unsplash.com/@sarabakhshi?utm_source=medium&utm_medium=referral)于 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)</figcaption>
 
@@ -236,7 +236,7 @@ public class DependencyInjectionEmailService : IOrleansFunction
 
 输出:
 
-[![](../Images/535d300dd6bf926be6e56dd1ffbcd146.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CRJ8J8MO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AUgf8DPMcgQKHI6r00LuQPQ.png)
+[![](img/535d300dd6bf926be6e56dd1ffbcd146.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CRJ8J8MO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AUgf8DPMcgQKHI6r00LuQPQ.png)
 
 请注意，上面的“电子邮件”显示在 Orleans 控制台中，因为`FakeEmailSender`告诉它只“记录”，从函数运行的上下文来看，它会点击 Orleans 日志，而不是菜单式控制台应用程序。
 

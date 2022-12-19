@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/alanmbarr/utilizing-a-rubric-to-share-expectations-of-the-qa-engineer-role--3kfm>
 
-[![QA Engineer Skill Sheet](../Images/fe59143011f1705c3ed867ca6db55222.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CrIp_gT---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/www.alanmbarr.com/blog/images/void_header_sheet.png)
+[![QA Engineer Skill Sheet](img/fe59143011f1705c3ed867ca6db55222.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CrIp_gT---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/www.alanmbarr.com/blimg/void_header_sheet.png)
 
 ## 为什么要加标题
 
@@ -36,8 +36,8 @@
 | 特种部队 | 有助于根本原因分析和故障排除；不仅仅是找到漏洞，而且要“带着极端的偏见”追踪它们的源头并根除它们； |
 | 策略 | 在设计阶段提出有见地的问题；质疑某个特性是否增加了价值，以及如何测试这种价值；识别潜在的业务和技术风险； |
 
- [![QA Quest Log Team 2](../Images/eccbc73b9219e0731695a0516a6c6c9b.png)
-T4】](https://s3.amazonaws.com/www.alanmbarr.com/blog/images/QAQuestLog_Cthulhu_20170705.png)
+ [![QA Quest Log Team 2](img/eccbc73b9219e0731695a0516a6c6c9b.png)
+T4】](https://s3.amazonaws.com/www.alanmbarr.com/blimg/QAQuestLog_Cthulhu_20170705.png)
 
 ### 团队二
 
@@ -50,7 +50,7 @@ T4】](https://s3.amazonaws.com/www.alanmbarr.com/blog/images/QAQuestLog_Cthulhu
 | 技能 | 可以创建复杂的自动化测试；知道代码的风险；利用知识交流和测试后端； |
 | 圣骑士的热情 | 可以创建复杂的自动化测试；知道代码的风险；利用知识交流和测试后端； |
 
-[![QA Quest Log Team 1](../Images/f19f3d6707474506e28a10d20fd78a1b.png)T2】](https://s3.amazonaws.com/www.alanmbarr.com/blog/images/QAQuestLog_Cthulhu_20170705.png)
+[![QA Quest Log Team 1](img/f19f3d6707474506e28a10d20fd78a1b.png)T2】](https://s3.amazonaws.com/www.alanmbarr.com/blimg/QAQuestLog_Cthulhu_20170705.png)
 
 ## 给团队发言权并进行测试
 

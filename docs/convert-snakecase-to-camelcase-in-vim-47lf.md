@@ -41,7 +41,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 选择要转换的 snake_case 行，然后键入`!camelcase`并按回车键。
 
-[![out.gif](../Images/d5080393cf8cbdf2905a194d13e5d0d0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SUSup5F6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/103885/8b8fbbb7-7124-5199-38e7-a67691037ff0.gif)
+[![out.gif](img/d5080393cf8cbdf2905a194d13e5d0d0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SUSup5F6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/103885/8b8fbbb7-7124-5199-38e7-a67691037ff0.gif)
 
 # 附录
 

@@ -10,13 +10,13 @@
 
 git-remind 检查您计算机中的所有 git 存储库，并显示是否有未提交的文件，以及是否有应该推送到远程的提前提交。
 
-[![](../Images/3e877dac212d4a9ace11ab53ec5a1c91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UtRm7Hur--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vfx2blo98d2k0nxqn10b.png)
+[![](img/3e877dac212d4a9ace11ab53ec5a1c91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UtRm7Hur--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vfx2blo98d2k0nxqn10b.png)
 
 ### 桌面通知
 
 git-remind 使用桌面通知来通知您 git-commit/git-push 状态。这项功能已经在 macOS 上测试过了，但它可以在 Windows 和 Linux 上运行。
 
-[![](../Images/6962bf1370e5da5abbee6d3d57ee6a12.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OK_HLVZw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/daza4qkeldvq6r33ga4q.png)
+[![](img/6962bf1370e5da5abbee6d3d57ee6a12.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OK_HLVZw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/daza4qkeldvq6r33ga4q.png)
 
 ## 装置
 
@@ -106,7 +106,7 @@ PATH=/usr/local/bin:/usr/bin:/bin
 cd $(git remind status -n | fzf) 
 ```
 
-[![](../Images/9a9505254c94d717ea54301a3c2be777.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FYn0MzI9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7lzjcngv47h6zusc8ufe.gif)
+[![](img/9a9505254c94d717ea54301a3c2be777.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FYn0MzI9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7lzjcngv47h6zusc8ufe.gif)
 
 在您的。bashrc/。zshrc:
 

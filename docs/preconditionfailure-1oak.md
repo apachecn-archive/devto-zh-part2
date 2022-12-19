@@ -26,7 +26,7 @@
 
 接下来，我想知道，Swift 是否有某种合同设计支持，但强大的互联网[说没有](https://stackoverflow.com/questions/31817359/design-by-contract-in-swift#31951965):
 
-[![](../Images/557fb1e81d1d9b282635a221ed4c4b08.png)T2】](https://i.giphy.com/media/utmZFnsMhUHqU/giphy.gif)
+[![](img/557fb1e81d1d9b282635a221ed4c4b08.png)T2】](https://i.giphy.com/media/utmZFnsMhUHqU/giphy.gif)
 
 苹果的`precondition`和`preconditionFailure`的含义和 *DbC* 略有不同，就像他们希望我使用它们的方式一样:
 

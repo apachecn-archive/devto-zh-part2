@@ -137,8 +137,8 @@ Enter fullscreen mode Exit fullscreen mode
 
 [完整来源](https://github.com/DEV3L/brain-bit-ledger/tree/master/src/modules/firebase)
 
-[![unit test coverage](../Images/e9dc68603e4c0ef2345f0470436f19e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BnASN_SB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6rj61fu37g954cnur08t.png)
+[![unit test coverage](img/e9dc68603e4c0ef2345f0470436f19e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BnASN_SB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6rj61fu37g954cnur08t.png)
 
 * * *
 
-[![agile2018endorsement](../Images/977d6e0fe4a78faa72534114386769ff.png)T2】](http://sched.co/EU9g)
+[![agile2018endorsement](img/977d6e0fe4a78faa72534114386769ff.png)T2】](http://sched.co/EU9g)

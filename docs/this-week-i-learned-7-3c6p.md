@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/johnpaulada/this-week-i-learned-7-3c6p>
 
-[![This Week I Learned](../Images/83cd6c0a0948b093623d9a947c790380.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jjQN83Iz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jrmvuir64pudz7uzk3kd.JPG)
+[![This Week I Learned](img/83cd6c0a0948b093623d9a947c790380.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jjQN83Iz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jrmvuir64pudz7uzk3kd.JPG)
 
 > 逻辑、承诺、NPM、PHP、ML，以及一大堆我在这一集中学到的其他缩写词！
 > 
@@ -17,9 +17,9 @@
 
 德摩根定律是一套允许我们转换逻辑表达式的规则。我用这些来简化我的布尔表达式。
 
-[![De Morgan's code](../Images/1f356b8155dc0c868e66cea11cb10c35.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b9yBsIDv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u8bftpkrkpstvidpcvgg.png)
+[![De Morgan's code](img/1f356b8155dc0c868e66cea11cb10c35.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b9yBsIDv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u8bftpkrkpstvidpcvgg.png)
 
-[![Testing the function in Chrome](../Images/fb46149d343f2ff3fd958460099226c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F29gdcoy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/19sidrm1qs1ofsz7wf6e.png)
+[![Testing the function in Chrome](img/fb46149d343f2ff3fd958460099226c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F29gdcoy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/19sidrm1qs1ofsz7wf6e.png)
 
 ## 【Promise.notAll/Promise.allMost】T2
 
@@ -27,11 +27,11 @@
 
 我们遇到了这个问题，所以我们建立了`Promise.notAll`！我们也叫它`Promise.allMost`(懂吗？)感谢[科特杰罗姆奥比斯波](https://medium.com/@kurtgerm)的建议。总之，这是它的代码。
 
-[![Promise.notAll Code](../Images/466c94ca1375ae540d5239efed40e4f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dt_BTlMn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/co1sec4jl34xl6ficymd.png)
+[![Promise.notAll Code](img/466c94ca1375ae540d5239efed40e4f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dt_BTlMn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/co1sec4jl34xl6ficymd.png)
 
 你可以这样使用它:
 
-[![Promise.notAll usage](../Images/76c9f03c3514d9dfb386f97720ad1c2d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---4ZfUxEp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/76y4iy48mth5quym00eg.png)
+[![Promise.notAll usage](img/76c9f03c3514d9dfb386f97720ad1c2d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---4ZfUxEp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/76y4iy48mth5quym00eg.png)
 
 ## [npm -](https://docs.npmjs.com/cli/run-script#description)
 
@@ -49,7 +49,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## [Ow](https://github.com/sindresorhus/ow)
 
-[![Ow](../Images/e64dfebba5d6216a22ee04f906f6d3cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PDprmo0c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u7y3fp9d95odtm1z27sb.png)
+[![Ow](img/e64dfebba5d6216a22ee04f906f6d3cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PDprmo0c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u7y3fp9d95odtm1z27sb.png)
 
 嗷！是由多产的[辛德雷·索胡斯](https://github.com/sindresorhus)建造的用于人类函数参数验证的库。它的电池，包括并有一个伟大的可链接的 API。如果你愿意，你也可以使用创建你自己的验证器！总而言之，这将有助于你的代码远离错误和恶意输入。
 
@@ -59,7 +59,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## [毫升。网](https://www.microsoft.com/net/learn/apps/machine-learning-and-ai/ml-dotnet)
 
-[![ML .NET](../Images/62c27f11cd75cf5a738224ff6bc5a0e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bWAPai-_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7v6wfxb0scs0rrv7gj09.png)
+[![ML .NET](img/62c27f11cd75cf5a738224ff6bc5a0e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bWAPai-_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7v6wfxb0scs0rrv7gj09.png)
 
 只需安装微软。ML 包，并享受机器学习的力量，无论您使用 C#或 F#或任何使用。NET 框架！我对此没有太多的话要说，所以直接跳进去试试吧！😆
 
@@ -71,7 +71,7 @@ Rendertron 是谷歌对 Prerender 的回答，它允许你渲染你的 spa，这
 
 ## [PHP UI](http://php.net/manual/en/book.ui.php)
 
-[![PHP UI](../Images/78d5d05dad3e2570ba3a53ffcb46745b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p-DVddyq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kvas2m5e3zlijtb9gw35.png)
+[![PHP UI](img/78d5d05dad3e2570ba3a53ffcb46745b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p-DVddyq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kvas2m5e3zlijtb9gw35.png)
 
 没错。你没看错。你实际上可以用 PHP 构建跨平台的桌面应用程序！这是官方文件，伙计们！在引言中:
 

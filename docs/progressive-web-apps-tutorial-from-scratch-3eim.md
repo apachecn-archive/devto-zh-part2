@@ -27,10 +27,10 @@
 
 在这些 API 之上有一个包装器对于生产力来说是很好的，但是对于理解事物如何工作来说是很糟糕的。
 
-[![Github repo screencast](../Images/b56a860592639df585baa5d67025be17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7AS6-8IL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/AFAHXfN.png)
+[![Github repo screencast](img/b56a860592639df585baa5d67025be17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7AS6-8IL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/AFAHXfN.png)
 
 这正是为什么我在 YouTube 上录制了一个免费视频系列，从头开始教授渐进式 Web 应用程序。我们从一个包含简单 index.html、app.js 和 app.css 的存储库开始，一直到构建一个简单的 PWA。
 
-[![PWA video series](../Images/1a3e6d5209887f27f16f0654ce8b5cb5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S2xHslGb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/pJKxBqS.jpg)
+[![PWA video series](img/1a3e6d5209887f27f16f0654ce8b5cb5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S2xHslGb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/pJKxBqS.jpg)
 
 观看[📽PWA 视频系列](https://www.youtube.com/watch?v=GSSP5BxBnu0&list=PLIiQ4B5FSuphk6P-zg_E3W9zL3J22U4dT&index=1)免费！

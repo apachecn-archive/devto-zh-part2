@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/harniloza/preparing-for-the-looming-employment-crisis-44jo>
 
-[![app developers India](../Images/07cfaab219e0d2f6e33c8afe6b0e64dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TxOmUanB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.myccmi.com/wp-content/uploads/2017/09/Prep.jpg)
+[![app developers India](img/07cfaab219e0d2f6e33c8afe6b0e64dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TxOmUanB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.myccmi.com/wp-content/uploads/2017/09/Prep.jpg)
 
 最近四大技术是人工智能、虚拟现实、增强现实和物联网。虽然它们都被庆祝，但只有极少数人在思考它们的缺点。组织正在使用这些技术的组合来自动化他们的过程，以削减成本、提高速度、提高准确性，而人们正在失去他们的工作。因此，[应用开发商印度](https://www.hyperlinkinfosystem.com/android-app-development-india.htm)将继续开发更多的应用。
 

@@ -10,7 +10,7 @@
 
 根据我创作的原始设计，这是我为第五天准备的:
 
-[![ecommerce listing showing orange knitted winter hat, the name of item "Thinsulate Winter Cap", and the $20.99 sale price with a crossed out $34.99 price, and an "add to cart" button in blue, on the bottom](../Images/985a01f1af760cf6a97161d501e158ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uPHFBnFo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui-assets/master/ecommerce-listing/day5/w1d5-final.png)
+[![ecommerce listing showing orange knitted winter hat, the name of item "Thinsulate Winter Cap", and the $20.99 sale price with a crossed out $34.99 price, and an "add to cart" button in blue, on the bottom](img/985a01f1af760cf6a97161d501e158ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uPHFBnFo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui-assets/master/ecommerce-listing/day5/w1d5-final.png)
 
 我把这个变体列表放在产品名称和价格的下面——但是在购物车按钮的上面——因为它更像是那些文本元素的次要特性，应该放在可操作的 UI 项目之前，这可能会把用户从页面上带走(购物车按钮)。
 
@@ -18,7 +18,7 @@
 
 下面是变体选择器的 GIF 图片:
 
-[![Ecommerce listing GIF animation showing the different states of the variant selector, as it loops through various colors of the hat product](../Images/565c762d565dc7249064d2998fb5cafe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Nl0XaQus--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui-assets/master/ecommerce-listing/day5/w1d5-variant-demo-ld.gif)
+[![Ecommerce listing GIF animation showing the different states of the variant selector, as it loops through various colors of the hat product](img/565c762d565dc7249064d2998fb5cafe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Nl0XaQus--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui-assets/master/ecommerce-listing/day5/w1d5-variant-demo-ld.gif)
 
 您可以在我的 Github pages 站点上查看我为这个项目编写的代码实现[。](https://geoffdavis92.github.io/weekly-ui/)
 

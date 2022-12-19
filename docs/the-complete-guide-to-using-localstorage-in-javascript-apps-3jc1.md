@@ -2,11 +2,11 @@
 
 > 原文：<https://dev.to/bnevilleoneill/the-complete-guide-to-using-localstorage-in-javascript-apps-3jc1>
 
-[![](../Images/b3438510a7ca3fe3b183644ed3633aeb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8cLeWRpS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Akrty-B-4mEibZa7er8Uz_A.jpeg)
+[![](img/b3438510a7ca3fe3b183644ed3633aeb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8cLeWRpS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Akrty-B-4mEibZa7er8Uz_A.jpeg)
 
 LocalStorage 是一种 web 存储类型，它允许 Javascript 网站和应用程序在浏览器中存储和访问数据，没有到期日。这意味着存储在浏览器中的数据即使在浏览器窗口关闭后仍将存在。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### 使用本地存储
 
@@ -125,7 +125,7 @@ if (typeof(Storage) !== "undefined") {
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

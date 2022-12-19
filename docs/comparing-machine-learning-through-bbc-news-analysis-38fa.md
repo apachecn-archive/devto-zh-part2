@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/solacedevs/comparing-machine-learning-through-bbc-news-analysis-38fa>
 
-[![](../Images/6b5c63e8df5d7ed96a51292784042ddb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oa15pTAU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/958/1%2AWPc5z0dYSx0tkxU54FRHrg.png) 
+[![](img/6b5c63e8df5d7ed96a51292784042ddb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oa15pTAU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/958/1%2AWPc5z0dYSx0tkxU54FRHrg.png) 
 
 <figcaption>对比两种基于云的机器学习能力:图像分析和情感分析</figcaption>
 
@@ -42,7 +42,7 @@
 
 正如开始提到的，我很惊讶地看到三个提供商的结果有所不同。下面是一个示例结果，其中他们对文章观点的看法不一致:
 
-[![](../Images/76beea4162874bb71ee05f28b84bc004.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--u1BuRnL9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ABRDpNEl0zwwRr98v) 
+[![](img/76beea4162874bb71ee05f28b84bc004.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--u1BuRnL9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ABRDpNEl0zwwRr98v) 
 
 <figcaption>三家供应商的 ML 结果不一致的示例。</figcaption>
 
@@ -50,13 +50,13 @@
 
 AWS 的[领悟](https://aws.amazon.com/comprehend/)所决定的中性情绪，在这里也值得强调。这项服务似乎经常为了安全起见，对“中立”的“中立”评估是其主导立场:
 
-[![](../Images/f3e7a8f3fa4a1debde61d7451ae52035.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2D1DZTHM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AnO_CaN6L9DoajfRQ)
+[![](img/f3e7a8f3fa4a1debde61d7451ae52035.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2D1DZTHM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AnO_CaN6L9DoajfRQ)
 
 <figcaption>AWS 单独提供离群结果的例子。</figcaption>
 
 更令人高兴的是，虽然每个人都喜欢一个新的王室宝宝的消息，但这似乎很普遍:
 
-[![](../Images/32c9b5db2c92a9d04895ba01c4c33960.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oRoxKt9y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2Aqi1AUrx2-g9IMzKM) 
+[![](img/32c9b5db2c92a9d04895ba01c4c33960.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oRoxKt9y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2Aqi1AUrx2-g9IMzKM) 
 
 <figcaption>一致同意的结果的例子。</figcaption>
 
@@ -72,7 +72,7 @@ AWS 的[领悟](https://aws.amazon.com/comprehend/)所决定的中性情绪，�
 
 Azure 和 Google 似乎更具可比性，因为它们的数量更少(更专注？)标签产生。也就是说，如果服务没有完全被难住，没有产生任何东西，就像 Azure 在这里做的那样:
 
-[![](../Images/09bbf2d98b3326aa51bec4061e0a634c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--aUdO840g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AUpxb1zGFCcgvZuCG)
+[![](img/09bbf2d98b3326aa51bec4061e0a634c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--aUdO840g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AUpxb1zGFCcgvZuCG)
 
 <figcaption>Azure 是一个产生了零标签的离群值的示例结果。</figcaption>
 
@@ -86,12 +86,12 @@ Azure 和 Google 似乎更具可比性，因为它们的数量更少(更专注�
 
 我们或许可以从中吸取一点，机器学习已经取得了巨大的进步，但是我们离智能机器人取代我们所有的工作还有很长的路要走！这个系统仍然需要一点[更多的搅拌](https://xkcd.com/1838/):
 
-[![](../Images/b7df82ea7514128f47161564f6ff757c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TuGVy2zG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/742/0%2A1VXu3YqXG_CCObTl)
+[![](img/b7df82ea7514128f47161564f6ff757c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TuGVy2zG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/742/0%2A1VXu3YqXG_CCObTl)
 
 <figcaption>xkcd.com 对机器学习</figcaption>
 
 请务必让我知道你的想法。我有一个程序随时待命，对这个帖子的评论进行情感分析，并自动用相关的表情符号进行回复。
 
-[![](../Images/10e2c53693a0468694a86d1e36e90734.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BU7QFmHS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/650/0%2AioDDrg_mh5zJScpi)
+[![](img/10e2c53693a0468694a86d1e36e90734.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BU7QFmHS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/650/0%2AioDDrg_mh5zJScpi)
 
 *最初发表于*[*【https://www.linkedin.com】*](https://www.linkedin.com/pulse/comparing-machine-learning-through-bbc-news-analysis-jamil-ahmed/)*。*

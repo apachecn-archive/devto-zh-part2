@@ -8,7 +8,7 @@
 
 下面是链接:[https://stickeroid.com/](https://stickeroid.com/)
 
-[![Demo UI](../Images/b8cfe61014ea08288e91f190e7e453f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iPnHFSsQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c9duw55bxg46c2odjo46.png)
+[![Demo UI](img/b8cfe61014ea08288e91f190e7e453f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iPnHFSsQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c9duw55bxg46c2odjo46.png)
 
 这个项目是关于我引以为豪的人，维克多·科赫。
 

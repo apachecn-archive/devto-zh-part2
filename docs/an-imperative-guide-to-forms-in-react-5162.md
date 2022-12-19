@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/an-imperative-guide-to-forms-in-react-5162>
 
-[![](../Images/a3311a64ccb04bc101f82c7019f226c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V0NELw0V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/842/1%2AbPbp6STKWvl8Y-hC2jpyEg.jpeg)
+[![](img/a3311a64ccb04bc101f82c7019f226c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V0NELw0V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/842/1%2AbPbp6STKWvl8Y-hC2jpyEg.jpeg)
 
 所以，你刚刚开始使用 React，你已经开始构建 React 应用程序，你想知道，我如何在 React 中使用表单？不要担心。
 
@@ -85,7 +85,7 @@ Checkbox 元素在 React 表单中的实现与上面的有些不同。不是将 
 
 ### 使用 Formik
 
-[![](../Images/91c0b3e582d8b485dc51390d7b65f852.png)](https://github.com/jaredpalmer/formik)
+[![](img/91c0b3e582d8b485dc51390d7b65f852.png)](https://github.com/jaredpalmer/formik)
 
 <figcaption>[https://github.com/jaredpalmer/formik](https://github.com/jaredpalmer/formik)</figcaption>
 
@@ -199,7 +199,7 @@ handleSubmit 函数是提交处理程序，它接受值(包含表单细节)，re
 
 ### Plug: LogRocket，一款用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

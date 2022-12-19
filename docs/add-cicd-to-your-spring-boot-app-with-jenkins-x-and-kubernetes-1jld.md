@@ -18,7 +18,7 @@ Kubernetes 于 2014 年 6 月 6 日首次开源。Google 已经使用容器很�
 
 > “Jenkins X 的想法是为所有开发人员提供他们自己的 nevil 航海管家，帮助您在持续交付的海洋中航行。”詹姆斯·斯特拉坎
 
-[![Jenkins X Logo](../Images/3c5548e4555c5b6cd284d2b0b44a16c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fWhxPqJn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/spring-boot-jenkins-x/jenkins-x-06edfd4fd18047600da1631ba5fd06b8b742a2beb710a93f7489332e9ffb5894.svg)
+[![Jenkins X Logo](img/3c5548e4555c5b6cd284d2b0b44a16c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fWhxPqJn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/spring-boot-jenkins-x/jenkins-x-06edfd4fd18047600da1631ba5fd06b8b742a2beb710a93f7489332e9ffb5894.svg)
 
 Jenkins X 帮助您在 Kubernetes 中自动化您的 CI/CD——您甚至不必学习 Docker 或 Kubernetes！
 
@@ -105,7 +105,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 运行`jx console`，点击产生的链接，如果您想要更丰富的视觉效果，请导航到您的项目。
 
-[![jx console](../Images/8d296d3d634b229ce5be555cd9a289ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6hbUC7sd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/spring-boot-jenkins-x/jx-console-218555ae4b7cda6108cb48d15e26a7b07bae408f50b13845496a07be904ac03e.png)
+[![jx console](img/8d296d3d634b229ce5be555cd9a289ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6hbUC7sd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/spring-boot-jenkins-x/jx-console-218555ae4b7cda6108cb48d15e26a7b07bae408f50b13845496a07be904ac03e.png)
 
 该过程将执行几项任务:
 
@@ -463,11 +463,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 打开浏览器，导航到 GitHub 上的存储库，创建一个 pull 请求。创建后应该如下图所示。
 
-[![Add Bootiful PWA Pull Request](../Images/1392a8a30dcb90aca2a27db07146a39a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W_YrETJ1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/spring-boot-jenkins-x/pr-bootiful-pwa-3c80d152f689f7af50ba0a8064b081e873bc7d6e8fac016c310eea9d7e8f1f74.png)
+[![Add Bootiful PWA Pull Request](img/1392a8a30dcb90aca2a27db07146a39a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W_YrETJ1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/spring-boot-jenkins-x/pr-bootiful-pwa-3c80d152f689f7af50ba0a8064b081e873bc7d6e8fac016c310eea9d7e8f1f74.png)
 
 如果你的拉请求通过了测试，你应该会看到一些绿色植物和 Jenkins X 的评论，你的应用可以在预览环境中使用。
 
-[![PR Success!](../Images/f78ea065c89166373bba6392ad8b391d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uIZhnkZB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/spring-boot-jenkins-x/pr-bootiful-pwa-success-acae02f7777d71517ccf208eb049d285b1ad704b94d6953c6bf942b4ad060e4c.png)
+[![PR Success!](img/f78ea065c89166373bba6392ad8b391d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uIZhnkZB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/spring-boot-jenkins-x/pr-bootiful-pwa-success-acae02f7777d71517ccf208eb049d285b1ad704b94d6953c6bf942b4ad060e4c.png)
 
 如果你点击**这里的**链接并尝试登录，你很可能会从 Okta 得到一个错误，重定向 URI 没有被列入白名单。
 
@@ -616,7 +616,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 提交并推送您的更改，您的应用程序应该会更新为`http://{yourPreviewURL}/login`的重定向 URI。你需要为`http://{yourPreviewURL}`手动添加一个注销重定向 URI，因为 Okta 的 Java SDK 目前不支持这个[。](https://github.com/okta/openapi/issues/132)
 
-[![Okta app with URI settings](../Images/2e87a30346d7159451c687963ef7fe04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SnpiD-KY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/spring-boot-jenkins-x/okta-settings-with-redirect-uris-579246f0b88ce645e6cb1ddbc57872a05694fa8600c89a490d09458f3c966376.png)
+[![Okta app with URI settings](img/2e87a30346d7159451c687963ef7fe04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SnpiD-KY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/spring-boot-jenkins-x/okta-settings-with-redirect-uris-579246f0b88ce645e6cb1ddbc57872a05694fa8600c89a490d09458f3c966376.png)
 
 要将传递的拉请求提升到暂存环境，请合并它，主分支将被推送到暂存环境。很遗憾，您将无法登录。这是因为没有进程在你的 Okta 应用程序中注册中转站点的重定向 URIs。如果您手动添加 URIs，一切都应该工作。
 
@@ -778,7 +778,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 测试可能会在第一次运行时失败，因为没有为新的预览环境配置注销重定向 URI。更新你的 Okta 应用程序的注销重定向 URIs，以匹配你的公关预览环境 URI，重放拉请求测试，一切都应该通过！
 
-[![blog/spring-boot-jenkins-x/jenkinsx-everything-is-awesome.png](../Images/0ea1489f2530a2b2238b20acac90d5ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ENDU4u9a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/spring-boot-jenkins-x/jenkinsx-everything-is-awesome-4850f66b7c90bed1377a55e88f9a9d25b889059d0c11b772a8ed0803dd118683.png)
+[![blog/spring-boot-jenkins-x/jenkinsx-everything-is-awesome.png](img/0ea1489f2530a2b2238b20acac90d5ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ENDU4u9a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/spring-boot-jenkins-x/jenkinsx-everything-is-awesome-4850f66b7c90bed1377a55e88f9a9d25b889059d0c11b772a8ed0803dd118683.png)
 
 您可以在 GitHub 上找到本例[中完整应用程序的源代码。](https://github.com/oktadeveloper/okta-spring-jx-example)
 

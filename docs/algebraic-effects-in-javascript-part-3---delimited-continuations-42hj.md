@@ -38,7 +38,7 @@ function product(xs) {
 
 为了可视化给定时刻的调用堆栈，我们可以在浏览器 devtools 中设置一个断点，然后在控制台中运行上面的示例。程序将暂停，我们可以检查浏览器的调用堆栈面板
 
-[![call-stack-1](../Images/3ba89f8cbf92be322aa889e29752f9e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hfs8YCsT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/5453835/45965848-7be72600-c021-11e8-80e9-ffb332d1fa28.png)
+[![call-stack-1](img/3ba89f8cbf92be322aa889e29752f9e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hfs8YCsT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/5453835/45965848-7be72600-c021-11e8-80e9-ffb332d1fa28.png)
 
 这里程序暂停在`product()`的第三行。调用堆栈已经包含四个框架:
 

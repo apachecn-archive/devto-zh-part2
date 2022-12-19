@@ -14,7 +14,7 @@
 
 使用 Reactjs 的最终音乐播放器。
 
-[![](../Images/ecadfbfd38967c05258fc83874160d76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rGnwcmUE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ed6cv60z4hllawsc9f2b.png)
+[![](img/ecadfbfd38967c05258fc83874160d76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rGnwcmUE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ed6cv60z4hllawsc9f2b.png)
 
 # [音乐播放器演示](https://5y2r5k2m1p.codesandbox.io/)
 

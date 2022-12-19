@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/onmyway133/run-ui-test-with-map-view-in-ios-3f76>
 
-[![](../Images/28dc1d0aeb78ec6367032db8efddf1f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uN_rv2zi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2A04GmSrYKIeWIT9-n.gif)
+[![](img/28dc1d0aeb78ec6367032db8efddf1f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uN_rv2zi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2A04GmSrYKIeWIT9-n.gif)
 
 ## 嘲弄地点
 
@@ -12,7 +12,7 @@
 
 进入 Xcode ->文件->新建-> GPX 文件
 
-[![](../Images/e53401acf171c09d387f5140ff085e9b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eVaUM58L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2ABl6CKaJxrFYZN9gn.png)
+[![](img/e53401acf171c09d387f5140ff085e9b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eVaUM58L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2ABl6CKaJxrFYZN9gn.png)
 
 似乎
 
@@ -45,7 +45,7 @@ gpx 文件非常强大，因为它允许你指定一条不同移动速度的路�
 
 *   在 app target 中声明 gpx 文件，而不是 UITests target。进入你的应用方案->运行->选项
 
-[![](../Images/32b9c961d5f028edd34d0b051dabf95c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AhaEp1FK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AxWPbMJ7JXmETRE0A.png)
+[![](img/32b9c961d5f028edd34d0b051dabf95c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AhaEp1FK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AxWPbMJ7JXmETRE0A.png)
 
 *   进入模拟器->调试->位置->自定义位置，并选择相同位置，只是为了确保。它不需要是相同的，但是我发现如果没有自定义位置，它就不能在 UITests 中工作
 

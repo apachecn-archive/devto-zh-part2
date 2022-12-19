@@ -4,7 +4,7 @@
 
 *这篇文章最初出现在[blog . web-apps . tech](https://blog.web-apps.tech/)T3 上*
 
-[![kubesprayを使用してkubernetes clusterを構築する(2)](../Images/2997112c18c5f0ce229a7aa5868becbe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z3_hBFml--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.web-apps.tech/content/images/2018/02/kubernetes.png)
+[![kubesprayを使用してkubernetes clusterを構築する(2)](img/2997112c18c5f0ce229a7aa5868becbe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z3_hBFml--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.web-apps.tech/conteimg/2018/02/kubernetes.png)
 
 大约在 3 个月前，[使用 kubespray 构建 Kubernetes cluster 被称为](https://dev.to/nasa9084/kubespraykubernetes-cluster-bel-temp-slug-6093684)的[kubespray](https://kubespray.io/) 和 kubespray-cli 来构建 kubernetes 集群
 

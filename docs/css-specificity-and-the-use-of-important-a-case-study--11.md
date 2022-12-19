@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/munamohamed94/css-specificity-and-the-use-of-important-a-case-study--11>
 
-[![](../Images/f8630e0a4651b9943f34d25ab07a301d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--krWbRMgm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3iycaann6j3r4bpsxs71.jpeg)
+[![](img/f8630e0a4651b9943f34d25ab07a301d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--krWbRMgm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3iycaann6j3r4bpsxs71.jpeg)
 
 最近，Twitter 上流传着一个投票，用户问他们的追随者一个关于 CSS 特异性的问题。不幸的是，我无法找到原始推文(如果你碰巧找到了，请在下面评论！)但长话短说，大多数人的答案是错误的。
 
@@ -20,7 +20,7 @@ MDN Web Docs 将特异性描述为“浏览器决定哪些 CSS 属性值与某�
 
 当决定哪些 CSS 属性值最适合应用于某个元素时，浏览器使用 CSS 样式表的源顺序(即层叠)来决定。但是，当 CSS 选择器具有相同的特异性时，这条规则也适用。当一个 CSS 选择器的特异性高于另一个时会发生什么？
 
-[![](../Images/3ab3a157e3fca0b46be43616403784a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oIU_UN07--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nl683w6mstywo4ew66ic.png)
+[![](img/3ab3a157e3fca0b46be43616403784a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oIU_UN07--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nl683w6mstywo4ew66ic.png)
 
 在这种情况下，浏览器将使用 CSS 选择器的特性来确定应用什么 CSS 语句。CSS 选择器的特异性越高，浏览器就越有可能将其 CSS 声明应用于另一个之上。
 
@@ -49,7 +49,7 @@ a {
 
 ## **项目**
 
-[![](../Images/2cec369e455d88ffd22f35080aa5bc62.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eDbugwcN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zz45hpwjyb111h7h6jh8.png)
+[![](img/2cec369e455d88ffd22f35080aa5bc62.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eDbugwcN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zz45hpwjyb111h7h6jh8.png)
 
 关于我们将要重构的项目的一点背景——这是一个受网飞启发的登陆页面，使用了 MovieDB 的 API。
 
@@ -125,7 +125,7 @@ body {
 }
 .wrapper #site-banner {
   height: 550px;
-  background-image: url("https://s1.gifyu.com/images/rampage_2018-1024x576.jpg");
+  background-image: url("https://s1.gifyu.cimg/rampage_2018-1024x576.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

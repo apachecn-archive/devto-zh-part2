@@ -8,7 +8,7 @@
 
 当你给你的网站添加从右到左或 RTL 语言支持时，要考虑的最重要的事情是为你的网站做一个**镜像布局**。也就是说，所有在左边的元素都会将它们的位置切换到右边。例如，看看下面的图片，其中有雅虎美国版(LTR)和雅虎中东(RTL)版的屏幕截图:
 
-[![Yahoo's LTR and RTL version](../Images/af48148243e856b249db9d8bfb54d495.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RvocRdOJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/www.moreonfew.com/wp-content/uploads/2015/11/Mirror_Layout_website.jpg%3Fresize%3D700%252C600%26ssl%3D1) 
+[![Yahoo's LTR and RTL version](img/af48148243e856b249db9d8bfb54d495.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RvocRdOJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/www.moreonfew.com/wp-content/uploads/2015/11/Mirror_Layout_website.jpg%3Fresize%3D700%252C600%26ssl%3D1) 
 *雅虎的 LTR 和 RTL 版*
 
 在上图中，你可以注意到页面上的所有元素或组件都交换了位置。原本在页面左侧的徽标现在出现在页面的右侧。搜索框和按钮也改变了它们的位置，轮播标题也是如此。注意侧菜单，它也向右移动了。

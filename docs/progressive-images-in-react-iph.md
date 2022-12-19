@@ -4,7 +4,7 @@
 
 几乎数字出版物网站上的每一篇文章都会有一张图片。其中大多数都有多个图像。有时 10，20...30...💤
 
-[![](../Images/70805d3a157233af7e6c5530ae698f5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DsBrxxiP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6cwjucjndxb0k1ihyzk5.jpg)
+[![](img/70805d3a157233af7e6c5530ae698f5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DsBrxxiP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6cwjucjndxb0k1ihyzk5.jpg)
 
 #### 所以要懒！
 
@@ -48,7 +48,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 # 客户端上的水合物组分💧
 
-[![](../Images/ef492d995dba4709e8c94680a78e0f0f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SA1yC6l6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pzru8avly79ho8vkm7rq.gif)
+[![](img/ef492d995dba4709e8c94680a78e0f0f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SA1yC6l6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pzru8avly79ho8vkm7rq.gif)
 
 对组件进行水化处理可以让它加载更高质量的图像来替换模糊的版本。前面说过，道具是由数据属性决定的:
 
@@ -125,7 +125,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 # 跟踪能见度🔎
 
-[![](../Images/a77a8de7d4370f531d5b6b3ca4ac2c38.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KmwiomCD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d9t558qjq9l6n26bwskk.gif)
+[![](img/a77a8de7d4370f531d5b6b3ca4ac2c38.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KmwiomCD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d9t558qjq9l6n26bwskk.gif)
 
 [react-on-screen](https://github.com/fkhadra/react-on-screen) 库创建了一个简单的高阶组件来完成这项工作，并向该组件传递了一个`isVisible` prop。但是任何视口内可见性跟踪器都可以。由于这引入了另一个`state`，我们需要将`{ imageSeen: false }`添加到初始状态。
 

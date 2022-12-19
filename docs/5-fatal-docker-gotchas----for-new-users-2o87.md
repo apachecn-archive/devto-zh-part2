@@ -20,7 +20,7 @@
 
 <figure>
 
-[![A literal wall on fire](../Images/ba8d72f6d0f1353aaced696db9cdcd21.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_2ZYYOsp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s7rdghmzbwl79zakdlvn.jpg)
+[![A literal wall on fire](img/ba8d72f6d0f1353aaced696db9cdcd21.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_2ZYYOsp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s7rdghmzbwl79zakdlvn.jpg)
 
 <figcaption>Its probably too late if this happens</figcaption>
 
@@ -64,7 +64,7 @@
 
 <figure>
 
-[![Smashed harddrives](../Images/a135eb8e450b028a5d9ae7175bc99a27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_YkvOllo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u1zoaaqivp4iei6cnehg.jpg)
+[![Smashed harddrives](img/a135eb8e450b028a5d9ae7175bc99a27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_YkvOllo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u1zoaaqivp4iei6cnehg.jpg)
 
 <figcaption>You do have backup right?</figcaption>
 
@@ -136,7 +136,7 @@
 
 <figure>
 
-[![Fast moving vehicles](../Images/5b3b794055716b99e038140bd166a09c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xYF288Al--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/79xpynf094036u7uhwva.jpg)
+[![Fast moving vehicles](img/5b3b794055716b99e038140bd166a09c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xYF288Al--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/79xpynf094036u7uhwva.jpg)
 
 <figcaption>Life on the npm/node.js fastlane is great... until the endless dependency wheels starts breaking apart...</figcaption>
 
@@ -169,7 +169,7 @@
 
 <figure>
 
-[![Door to unit number 404](../Images/7f6ee53ce4f58d6411c460dd6eae995c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OByXBDuw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w4cl81vjnodi8e9zeb8b.png)
+[![Door to unit number 404](img/7f6ee53ce4f58d6411c460dd6eae995c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OByXBDuw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w4cl81vjnodi8e9zeb8b.png)
 
 <figcaption>Im not too sure if thats the right address</figcaption>
 
@@ -199,7 +199,7 @@
 
 <figure>
 
-[![Learning the ABC's](../Images/6e85772ff994078c37cda957730366f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uVf_Qixn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rmc1pl20bwtzjjlyutzv.jpg)
+[![Learning the ABC's](img/6e85772ff994078c37cda957730366f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uVf_Qixn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rmc1pl20bwtzjjlyutzv.jpg)
 
 <figcaption>Everything a new hypershiny tech comes along, everyone seems to need to relearn the ABC's</figcaption>
 
@@ -223,7 +223,7 @@
 
 <figure>
 
-[![Kibana dashboards](../Images/f8b99a0a9b2ec016b09f0a942d346705.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2O6wv6ut--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8l0gvhnseuuzchr5git0.jpg)
+[![Kibana dashboards](img/f8b99a0a9b2ec016b09f0a942d346705.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2O6wv6ut--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8l0gvhnseuuzchr5git0.jpg)
 
 <figcaption>A good dashboard can go a long way in keeping your systems operational</figcaption>
 
@@ -234,7 +234,7 @@
 > 适当地计划你的 RAM 和磁盘使用需求，记住要有额外的缓冲空间以防可能发生的开销。*   Limit the RAM of a single container.
 >     *   Use this to limit the damage caused by "out of control" errors, from one container to others on the same host.*   Monitor your usage requirements through the dashboard or manually from time to time.
 >     *   Elastic searches for your metrics (free, but cumbersome to set up)
->     *   Datadog your indicators (not free, but many things are ready-made)*   Clean up the floating containers/images/volumes, which will free up unused space.*   [Essentials of deploying servers]
+>     *   Datadog your indicators (not free, but many things are ready-made)*   Clean up the floating containeimg/volumes, which will free up unused space.*   [Essentials of deploying servers]
 >     *   [Entropy Generation] (especially for cloud servers)- [container](https://hub.docker.com/r/picoded/haveged/)
 >     *   Rotation- [container](https://hub.docker.com/r/picoded/docker-logrotate/)
 
@@ -250,7 +250,7 @@
 
 * * *
 
-[![Website end-to-end test monitoring via uilicious.com](../Images/f8c8f7bba73d37db3e38df184b68626c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cQ_oVIpX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ncy2o4m20odrxjocx5un.gif)
+[![Website end-to-end test monitoring via uilicious.com](img/f8c8f7bba73d37db3e38df184b68626c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cQ_oVIpX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ncy2o4m20odrxjocx5un.gif)
 
 ## 还有一点:监控不仅仅是关于 http 代码 200
 

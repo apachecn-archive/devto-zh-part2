@@ -8,7 +8,7 @@
 
 这也是我决定写这篇文章的原因。这是安东尼奥·梅勒对[姜戈的快速而密集的回顾](https://amzn.to/2HXmwUm)
 
-[![](../Images/272fde230d22a061bb4ef4f69e50b5c2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PqDYLxzC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/810/1%2AUyiT8nLZ1b8rveOfmscOFw.png) 
+[![](img/272fde230d22a061bb4ef4f69e50b5c2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PqDYLxzC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/810/1%2AUyiT8nLZ1b8rveOfmscOFw.png) 
 
 <figcaption>(该书的封面，来自官方出版物，【packtpub.com】[)](http://packtpub.com/)</figcaption>
 

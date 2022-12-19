@@ -8,7 +8,7 @@
 
 [在 Eclipse 中安装 SVN 插件](https://www.skptricks.com/2018/08/install-svn-plugin-in-eclipse.html)
 
-[![](../Images/5b91694ba17dc5c301ef81b80d7a6250.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TG_7M-m2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-vB5RyvyjkD0/W2lUfQym01I/AAAAAAAABwk/yAJdOrAJNeQOME74qBrrJl_ZEwfJjP4VwCLcBGAs/s320/sv.jpg)
+[![](img/5b91694ba17dc5c301ef81b80d7a6250.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TG_7M-m2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-vB5RyvyjkD0/W2lUfQym01I/AAAAAAAABwk/yAJdOrAJNeQOME74qBrrJl_ZEwfJjP4VwCLcBGAs/s320/sv.jpg)
 
 按照以下步骤在 eclipse IDE 中配置 SVN 插件:
 

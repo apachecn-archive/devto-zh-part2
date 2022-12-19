@@ -62,6 +62,6 @@ $ export TSS\_DEBUG = 5888 $ ./scripts/code.sh
 
 维奥拉。我们已经开始调试了。
 
-[![Sample of debugging a language service plugin in VS Code](../Images/67357079d3fe22b2088ca0267c19cc33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kgbBa9sR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.googleapis.com/jdr-public-imgs/blog/ss-2018-07-03-800-lang-server-debug.png)
+[![Sample of debugging a language service plugin in VS Code](img/67357079d3fe22b2088ca0267c19cc33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kgbBa9sR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.googleapis.com/jdr-public-imgs/blog/ss-2018-07-03-800-lang-server-debug.png)
 
 相当直接。要了解更多信息，请查看[文档](https://github.com/Microsoft/TypeScript/wiki/Debugging-Language-Service-in-VS-Code)，它为不同的调试场景提供了一些额外的上下文和方法。

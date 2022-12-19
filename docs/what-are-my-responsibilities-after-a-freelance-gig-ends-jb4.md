@@ -4,7 +4,7 @@
 
 你刚刚为一个客户完成了一个网站。客户签字同意并支付了最后一笔款项。一周后，他们回来要求修改或修复一个错误。你对客户的责任是什么(也就是说，我什么时候才能最终安排那个早该安排的假期😜)?
 
-[![Huts and Mountains](../Images/49d53d95017db6b088474bff68383388.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iQ_YXUvh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/10/huts-and-mountains.jpg)
+[![Huts and Mountains](img/49d53d95017db6b088474bff68383388.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iQ_YXUvh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/10/huts-and-mountains.jpg)
 
 ## 什么是“常态？”
 

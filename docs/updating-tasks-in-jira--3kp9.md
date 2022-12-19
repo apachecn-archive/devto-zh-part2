@@ -23,7 +23,7 @@
 
 这里是代码库:
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [迪戈纳·阿尔瓦雷斯](https://github.com/diegonalvarez) / [自动任务](https://github.com/diegonalvarez/automated-tasks)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [迪戈纳·阿尔瓦雷斯](https://github.com/diegonalvarez) / [自动任务](https://github.com/diegonalvarez/automated-tasks)
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 

@@ -10,7 +10,7 @@ Python 是一种很棒的动态类型语言，但是很多人认为这是它最�
 
 这意味着，一些本可以被消除的错误，几乎在它们被引入后，它们现在会保持沉默，直到代码被调用，你知道这什么时候会发生，对吗？
 
-[![](../Images/47945037e90ea5e62368aa0f5f5d232b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Lb91ZZd4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/615/1%2AAwcmdb1xwSKXM7aID2TP1A.png)
+[![](img/47945037e90ea5e62368aa0f5f5d232b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Lb91ZZd4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/615/1%2AAwcmdb1xwSKXM7aID2TP1A.png)
 
 ### 与类型打交道，不考虑自杀:)
 

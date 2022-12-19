@@ -45,7 +45,7 @@ process.env.JWT_KEY = config.JWT_KEY;
 
 在更改任何其他内容之前，让我们运行我们的测试，以确保这一更改没有造成任何损害:)
 
-[![Original tests pass ok](../Images/c0d132565969c7caba56291292691b4b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--aJCeMl1u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.antonioufano.com/image_uploads/Part2_test1OK.png)T3】
+[![Original tests pass ok](img/c0d132565969c7caba56291292691b4b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--aJCeMl1u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.antonioufano.com/image_uploads/Part2_test1OK.png)T3】
 
 我们的应用程序将使用**mongose**模块与数据库进行交互，我们将使用 **bcrypt** 模块在保存用户密码之前对其进行加密。我们可以安装这两个通过 NPM 运行 *npm 安装猫鼬 bcrypt。*
 
@@ -75,7 +75,7 @@ mongoose.connect(dbConn, {useNewUrlParser: true}).then( () => {
 
 现在，如果我们用 **node app.js** 启动我们的应用程序(或者 npm start，如果我们已经将它添加到我们的 package.json 文件中)，我们将看到我们的应用程序连接到数据库:
 
-[![app connects to the database](../Images/8559866ec99048113f40b2f841571f3e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lePGvUiW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.antonioufano.com/image_uploads/app_connected.png)T3】
+[![app connects to the database](img/8559866ec99048113f40b2f841571f3e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lePGvUiW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.antonioufano.com/image_uploads/app_connected.png)T3】
 
 为了确保我们的用户详细信息存储在数据库中，让我们修改我们在文章的第一部分创建的“用户注册”测试，并期望接收用户详细信息，它将包含 id 和创建日期:
 

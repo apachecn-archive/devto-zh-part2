@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/colinmtech/new-devs-your-resume-sucks-23oo>
 
-[![](../Images/2a4ffcfe354a107a72a0dff9cc63c7a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ls0s-Icd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5cs20jyzo6jtz7ygxoe3.jpeg)
+[![](img/2a4ffcfe354a107a72a0dff9cc63c7a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ls0s-Icd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5cs20jyzo6jtz7ygxoe3.jpeg)
 
 让我们从坏消息开始，如果你是一个新的或初级开发人员，你的简历可能很糟糕。好消息是，这不是你的错。你的简历很糟糕，因为你正处于职业生涯的最开始，你几乎没有职业经验。
 

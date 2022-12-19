@@ -4,7 +4,7 @@
 
 本教程模型示例说明了如何使用 MATLAB 的 [FEATool Multiphysics FEM 和 CFD 工具箱](https://www.featool.com/matlab-cfd-toolbox)轻松快速地设置和解决计算流体动力学问题。
 
-[![MATLAB GUI for CFD simulations](../Images/d1aa38b7efb3dbc064c13d9c675f5a2b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qoe7IzZE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8dd9xhg1cg6ea9psm2am.jpg)
+[![MATLAB GUI for CFD simulations](img/d1aa38b7efb3dbc064c13d9c675f5a2b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qoe7IzZE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8dd9xhg1cg6ea9psm2am.jpg)
 
 [YouTube 圆柱绕流 CFD 基准 MATLAB 教程](https://youtu.be/ZnnXl7ryBMI)
 

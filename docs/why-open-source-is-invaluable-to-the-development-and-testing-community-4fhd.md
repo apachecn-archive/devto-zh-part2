@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/limiw/why-open-source-is-invaluable-to-the-development-and-testing-community-4fhd>
 
-[![open source](../Images/710bec0e661519c1d4a28b935453f7a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vRuiDOfl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oroc6af0cty2ugzikk4t.jpg)
+[![open source](img/710bec0e661519c1d4a28b935453f7a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vRuiDOfl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oroc6af0cty2ugzikk4t.jpg)
 
 来源: [Pixabay](https://pixabay.com/en/laptop-code-programming-computer-2557468/)
 

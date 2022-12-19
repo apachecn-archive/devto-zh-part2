@@ -22,7 +22,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我特别喜欢滚动条，因为它提供了对错误的实时可见性，以及相应的堆栈跟踪和您需要调试的所有数据，包括请求参数、浏览器、IP 以及通过 Slack 和电子邮件的实时通知，以便我们可以在错误发生时立即修复错误。
 
-[![Rollbar Dashboard](../Images/6c28d97a5d119ea46540af039a9f5656.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fOAY72FB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wirluyun6x6b3649zdh0.png)
+[![Rollbar Dashboard](img/6c28d97a5d119ea46540af039a9f5656.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fOAY72FB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wirluyun6x6b3649zdh0.png)
 
 滚动条提供了一个 JavaScript SDK，你可以手动将它包含在你的应用程序中，但是如果你使用官方的`vue-rollbar`插件，将滚动条添加到你的应用程序中就更加简单了，只需通过从 npm 安装将该包包含在你的项目中即可。
 
@@ -78,11 +78,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果一切顺利，这个错误应该会出现在你的滚动条仪表板上，如下所示。
 
-[![Rollbar Dashboard](../Images/6c28d97a5d119ea46540af039a9f5656.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fOAY72FB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wirluyun6x6b3649zdh0.png)
+[![Rollbar Dashboard](img/6c28d97a5d119ea46540af039a9f5656.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fOAY72FB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wirluyun6x6b3649zdh0.png)
 
 单击错误进行深入查看，并获得有关该特定错误的更多信息，如浏览器版本、设备操作系统和完整的堆栈跟踪，以便您可以轻松找到并修复问题。
 
-[![Rollbar Dashboard](../Images/cefde9e5ad938b5be248a0e024e24649.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ginn-u7W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ryx93beroyfq03olu0hc.png)
+[![Rollbar Dashboard](img/cefde9e5ad938b5be248a0e024e24649.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ginn-u7W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ryx93beroyfq03olu0hc.png)
 
 您还可以使用`vue-rollbar`跟踪您已经在应用中妥善处理的错误，因为它公开了一个调试函数，您可以在应用中的任何地方手动调用该函数，例如:
 

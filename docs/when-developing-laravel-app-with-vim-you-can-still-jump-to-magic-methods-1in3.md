@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/acro5piano/when-developing-laravel-app-with-vim-you-can-still-jump-to-magic-methods-1in3>
 
-[![image](../Images/43e3c79e171959baab0126e7d4e5dbf2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QsiBfcwX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iujvl0hmu7aufcov2vcx.gif)
+[![image](img/43e3c79e171959baab0126e7d4e5dbf2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QsiBfcwX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iujvl0hmu7aufcov2vcx.gif)
 
 我正在用我最喜欢的编辑器 Vim 开发 Laravel 应用程序。
 

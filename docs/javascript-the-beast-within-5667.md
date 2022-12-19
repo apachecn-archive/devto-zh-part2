@@ -64,7 +64,7 @@ JavaScript 只有一个构造:*对象*。每个对象都有一个私有属性，
 
 `__proto__`属性公开了内部原型链接。
 
-[![prototypal inheritance example](../Images/5fc2901dfb7c9adbd11e8f5c1e04fa17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sVTA1RsH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2Asacpzj7gNySk-x8O.png)
+[![prototypal inheritance example](img/5fc2901dfb7c9adbd11e8f5c1e04fa17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sVTA1RsH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2Asacpzj7gNySk-x8O.png)
 
 *原型* vs `__proto__`
 

@@ -75,7 +75,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这里有一个优势演示(使用 webstorm)。仔细查看自动完成工具提示。
 
-[![animated demo gif](../Images/f071d05ae7caea0356d66a7890e73c36.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q8mCRJEy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a09p6tsc38jjtleqxfhw.gif)
+[![animated demo gif](img/f071d05ae7caea0356d66a7890e73c36.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q8mCRJEy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a09p6tsc38jjtleqxfhw.gif)
 
 现在，让我们一步步来。
 
@@ -149,7 +149,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们可以再次看到自动完成的效果。
 
-[![params type demo](../Images/4549f06606ea9c1418c8b128433b3df6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r6cWJISu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rszzw6tiuq7z42juz9kk.png)
+[![params type demo](img/4549f06606ea9c1418c8b128433b3df6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r6cWJISu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rszzw6tiuq7z42juz9kk.png)
 
 ## 类型/回调定义
 
@@ -168,7 +168,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这样，您可以将类型和描述附加到对象的每个项目。
 
-[![type definition demo](../Images/786420f59e6988ee1dc12ee8619682a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qx67VAvG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xxpljf4yy9tch978obhn.png)
+[![type definition demo](img/786420f59e6988ee1dc12ee8619682a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qx67VAvG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xxpljf4yy9tch978obhn.png)
 
 对于预期参数也是如此，考虑以下:
 

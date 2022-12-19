@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/himashi99/javascriptback-to-basics-prefix-vs-postfix-997>
 
-[![abc-building-blocks](../Images/f6ede6797de21cb3d190e4106c53cff0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ARSW75If--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bx58cffauijbx6b4xa0b.jpg)
+[![abc-building-blocks](img/f6ede6797de21cb3d190e4106c53cff0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ARSW75If--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bx58cffauijbx6b4xa0b.jpg)
 
 #### **祝我好运吧，我正在潜入 JavaScript！**
 

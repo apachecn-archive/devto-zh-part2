@@ -22,9 +22,9 @@
 
     这是一个完美的春天。我的速度、呼吸和心态都很好。但最重要的是，我几乎参与了享受美好一天的每一步。
 
-    > ![](../Images/536660074c2c9814b59459c94f239e19.png)![](../Images/2ff06b0b3b74bb4a2e2bd7c693552b0d.png)何塞·冈萨雷斯@ Jose gonz 321![](../Images/4d9c44713c216584b3d48ff3455cbb68.png)[@ Jon hider](https://twitter.com/jonhider)[@ ReidNEvans](https://twitter.com/ReidNEvans)[@ pavsaund](https://twitter.com/pavsaund)[@ pepopowitz](https://twitter.com/pepopowitz)[@ pryelluw](https://twitter.com/pryelluw)[@ Rick _ pack 2](https://twitter.com/rick_pack2)[@ raelyard](https://twitter.com/raelyard)🌷🌸🌳☀️
+    > ![](img/536660074c2c9814b59459c94f239e19.png)![](img/2ff06b0b3b74bb4a2e2bd7c693552b0d.png)何塞·冈萨雷斯@ Jose gonz 321![](img/4d9c44713c216584b3d48ff3455cbb68.png)[@ Jon hider](https://twitter.com/jonhider)[@ ReidNEvans](https://twitter.com/ReidNEvans)[@ pavsaund](https://twitter.com/pavsaund)[@ pepopowitz](https://twitter.com/pepopowitz)[@ pryelluw](https://twitter.com/pryelluw)[@ Rick _ pack 2](https://twitter.com/rick_pack2)[@ raelyard](https://twitter.com/raelyard)🌷🌸🌳☀️
     > 
-    > [# goofy religion](https://twitter.com/hashtag/goofyreligion)2018 年 4 月 29 日下午 17:19[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=990641768269041664)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=990641768269041664)0[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=990641768269041664)2
+    > [# goofy religion](https://twitter.com/hashtag/goofyreligion)2018 年 4 月 29 日下午 17:19[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=990641768269041664)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=990641768269041664)0[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=990641768269041664)2
 
 3.  受到鼓舞和激励
     我受到了极大的鼓舞和激励，以至于我认为一篇文章无法描述我的经历。所以，我决定制作一个简短的视频:

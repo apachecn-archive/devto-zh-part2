@@ -9,7 +9,7 @@
 我的希望是，对所有事物有一个更直观和更有条理的视图，这将帮助我 1)不会被所有打开的标签和看似无尽的互联网所淹没，2)在消耗资源时更有意识，记录外卖或在有用的地方分享它们。
 
 下面是我现在板的部分截图(也可以点击上面的链接查看):
-[![screenshot of an app with color coded cards in a grid](../Images/a1cfa8f523959defd53d209eb99793e0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--08V4CZsX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ufjnytbdccoyjegw3p4f.PNG)
+[![screenshot of an app with color coded cards in a grid](img/a1cfa8f523959defd53d209eb99793e0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--08V4CZsX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ufjnytbdccoyjegw3p4f.PNG)
 
 ## 你是干什么的？
 

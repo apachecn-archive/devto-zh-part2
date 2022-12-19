@@ -24,11 +24,11 @@
 
 在扩展栏中检查你的每个扩展并禁用它们。你不需要重新加载，直到你把它们都做完。
 
-[![Disabling an extension](../Images/7785a8342bb5dd39da3027e94c355a1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8wXtNd6t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://assertnotmagic.com/img/extensions-disable.gif)
+[![Disabling an extension](img/7785a8342bb5dd39da3027e94c355a1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8wXtNd6t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://assertnotmagic.com/img/extensions-disable.gif)
 
 现在你很快。你很时髦。*你。是。速度。*
 
-[![Look at all those disabled extensions](../Images/7864502a0f2f18cd20a55e2192ba1d56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--07SNG96Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://assertnotmagic.com/img/extensions-installed.gif)
+[![Look at all those disabled extensions](img/7864502a0f2f18cd20a55e2192ba1d56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--07SNG96Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://assertnotmagic.com/img/extensions-installed.gif)
 
 ## 好吧，好吧，不是全部
 
@@ -48,7 +48,7 @@
 
 不要惊慌。如果你从事一个需要这些特定语言的项目，你可以在你的工作空间中启用它们*。*
 
-[![Enabling within a workspace](../Images/869397de5be71726a0abf3692a05d61d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G78_ZtHq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://assertnotmagic.com/img/extensions-enable-workspace.gif)
+[![Enabling within a workspace](img/869397de5be71726a0abf3692a05d61d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G78_ZtHq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://assertnotmagic.com/img/extensions-enable-workspace.gif)
 
 现在，您获得了开发环境的全部功能，您的计算机也喜欢您。
 

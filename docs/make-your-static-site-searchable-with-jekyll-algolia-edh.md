@@ -6,7 +6,7 @@
 
 在该教程结束时，我们能够从 YAML 的专辑列表中生成一个 100%静态的、100%免费托管的、外观漂亮的网站，这要感谢 Jekyll 模板。它看起来像这样:
 
-[![screenshot of album collection made with Jekyll and github pages](../Images/26220f9ce4fb869745b9af1eeea0450b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N7HYvYFH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gdh6mg1af0nyx3o3p809.png)
+[![screenshot of album collection made with Jekyll and github pages](img/26220f9ce4fb869745b9af1eeea0450b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N7HYvYFH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gdh6mg1af0nyx3o3p809.png)
 
 我们看到维护相册集非常容易和方便:我们只需编辑`_data/albums.yaml`，它几乎是纯文本格式。
 
@@ -87,7 +87,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们的下一步是在那里创建一个“[应用程序](https://www.algolia.com/manage/applications)”。由于我们的代码库将保持开源，我们可以安全地选择“社区”计划，免费。
 
-[![screenshot of creating a community algolia application](../Images/68180b03c7a6b13411e495521dccf193.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---f9BFtIy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iclpsnb2itdwkgx0x4z4.png)
+[![screenshot of creating a community algolia application](img/68180b03c7a6b13411e495521dccf193.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---f9BFtIy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iclpsnb2itdwkgx0x4z4.png)
 
 我将我的应用程序命名为“album-shelf”，因为这是我想要添加搜索的网站的名称。
 
@@ -177,7 +177,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们回到 Algolia 仪表盘，看看我们的搜索索引是什么样的:
 
-[![screenshot of algolia dashboard with index of albums](../Images/3c30e21ec2e551893c4cc9421259a782.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qInnDap9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9mpl1mw32vdmxaw0mgzr.png)
+[![screenshot of algolia dashboard with index of albums](img/3c30e21ec2e551893c4cc9421259a782.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qInnDap9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9mpl1mw32vdmxaw0mgzr.png)
 
 好消息是仪表盘显示“血糖性 magik”，这是我的网站上列出的专辑之一！
 
@@ -204,7 +204,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 继续之前的快速测试:让我们从 Algolia 的仪表板上搜索我的一张专辑:
 
-[![testing album search from algolia dashboard](../Images/5b9ab6db47d351aa2a0f17e1d6b8c2a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xwmtzNGx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/765336euv5iojk68elaj.png)
+[![testing album search from algolia dashboard](img/5b9ab6db47d351aa2a0f17e1d6b8c2a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xwmtzNGx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/765336euv5iojk68elaj.png)
 
 ✅工作正常！
 
@@ -265,7 +265,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当我在浏览器(Google Chrome)中打开`http://127.0.0.1:4000`时，我在 JavaScript 控制台中发现以下错误:
 
-[![javascript error when trying to import algolia instantsearch from localhost](../Images/f7c1a578d0f9d5a9210f90c586a0c96f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_xmQhTvl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jct9kwayph0jht9fy7oj.png)
+[![javascript error when trying to import algolia instantsearch from localhost](img/f7c1a578d0f9d5a9210f90c586a0c96f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_xmQhTvl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jct9kwayph0jht9fy7oj.png)
 
 1.  拒绝应用来自“[https://cdn . jsdelivr . net/NPM/instant search . js @ 2 . 8 . 1/dist/instant search . min . CSS](https://cdn.jsdelivr.net/npm/instantsearch.js@2.8.1/dist/instantsearch.min.css)的样式，因为其 MIME 类型(“text/plain”)不是受支持的样式表 MIME 类型，并且启用了严格的 MIME 检查。
 2.  拒绝应用来自“[https://cdn . jsdelivr . net/NPM/instant search . js @ 2 . 8 . 1/dist/instant search-theme-algolia . min . CSS](https://cdn.jsdelivr.net/npm/instantsearch.js@2.8.1/dist/instantsearch-theme-algolia.min.css)的样式，因为其 MIME 类型(“text/plain”)不是受支持的样式表 MIME 类型，并且启用了严格的 MIME 检查。
@@ -343,7 +343,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这就是我得到的:
 
-[![screenshot of instantsearch.js with a curly brace glitch](../Images/8cc0ba5a6eef032bf57506ab0f6f7988.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mjpoXyhL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f1jzwe4i4zyxicmlez5w.png)
+[![screenshot of instantsearch.js with a curly brace glitch](img/8cc0ba5a6eef032bf57506ab0f6f7988.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mjpoXyhL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f1jzwe4i4zyxicmlez5w.png)
 
 搜索框显示得很好，但是我们也看到它下面有几行字...🤔
 
@@ -361,7 +361,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 所以现在，我得到的是:
 
-[![screenshot of instantsearch.js integration with default search index](../Images/04c59e39f4fd5c211a92ce341deaed48.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--42mVgFGJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m03ii8ve6dwt2ifhrtz0.png)
+[![screenshot of instantsearch.js integration with default search index](img/04c59e39f4fd5c211a92ce341deaed48.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--42mVgFGJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m03ii8ve6dwt2ifhrtz0.png)
 
 搜索栏下显示的列表在我输入时确实会实时适应，但点击的不是专辑！
 
@@ -373,7 +373,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 完成后，我可以搜索我的相册收藏:
 
-[![screenshot of instantsearch integration with untitled hits](../Images/562a143acf0054b34e59217eb704d476.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jy-teqtg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7ct7fu3tpb90fac8nbdp.png)
+[![screenshot of instantsearch integration with untitled hits](img/562a143acf0054b34e59217eb704d476.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jy-teqtg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7ct7fu3tpb90fac8nbdp.png)
 
 当我们键入作为相册名称一部分的单词时，会有一些点击，但最终的相册名称不会显示出来。
 

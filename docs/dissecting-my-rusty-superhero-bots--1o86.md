@@ -12,7 +12,7 @@
 
 这个游戏是一场玩家对玩家的超级英雄之战。每一方选择两个英雄；我最终选择了铁人和奇异博士——这是最受欢迎的组合。他们在一个有几个灌木丛，几个洞穴和一个房屋塔的地方战斗。目标是杀死其他英雄或摧毁他们的塔。
 
-[![screenshot](../Images/c85588897d3535e2df161873a2b8cf7f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2mUo9inW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/03/screenshot_20180314_070501.png)
+[![screenshot](img/c85588897d3535e2df161873a2b8cf7f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2mUo9inW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/03/screenshot_20180314_070501.png)
 
 字符完全由代码控制。通过`stdin`为它们提供初始设置条件。每一次我们都会得到状态更新，并期望打印出我们想要的动作。
 
@@ -71,7 +71,7 @@
 
 我也很难对付近战对手。这些通常涉及浩克-由于一个缺陷，最终在比赛中与两个浩克。面对近战的时候，我的整个策略应该已经改变了。我需要做一些完全不同的事情。相反，我只是调整参数，试图在弹幕中生存。混战的对手拖住了我。更好的做法是认清对手，使用一套全新的战术。
 
-[![screenshot with hulk](../Images/97fa8718cf6d399200eb4345f3548ec0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jy2lZulI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/03/screenshot_20180314_161725.png)
+[![screenshot with hulk](img/97fa8718cf6d399200eb4345f3548ec0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jy2lZulI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/03/screenshot_20180314_161725.png)
 
 在上面的游戏中，对手也会躲在灌木丛中，等着伏击我。我对我的`run_away`策略做了一个简单的改变，那就是检测隐藏的对手，并防止走得太远进入他们的身边。理想情况下，一旦我意识到隐藏，我会采取一个全新的计划:我可以沿着底部走，攻击他们的塔，或者我可以采取防御，向他们所在的灌木丛开枪(即使他们隐藏，火球仍然可以击中他们)。
 

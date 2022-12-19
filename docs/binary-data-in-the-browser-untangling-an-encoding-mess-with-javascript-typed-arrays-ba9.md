@@ -4,7 +4,7 @@
 
 【MIDI 文件损坏的情况
 
-[![](../Images/7df1b4bc3660c49bfb81afa057287497.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wS2ggbjG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AMPpfSHYOlpIBcdaPQXBBRQ.png)
+[![](img/7df1b4bc3660c49bfb81afa057287497.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wS2ggbjG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AMPpfSHYOlpIBcdaPQXBBRQ.png)
 
 直到最近，我还不太熟悉使用类型化数组，因为我倾向于避免在 web 上使用二进制数据的魔法。
 
@@ -22,7 +22,7 @@
 
 我正在做的项目是一个[音乐应用](https://github.com/tiburzi/cync),探索非西方音乐传统中常见的循环模式。
 
-[![](../Images/429304174fbf2a1dd1fbfe4799f63547.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--eeroPh3A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1016/1%2AT3rBlURk6VQqLE7mXSWnQw.png) 
+[![](img/429304174fbf2a1dd1fbfe4799f63547.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--eeroPh3A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1016/1%2AT3rBlURk6VQqLE7mXSWnQw.png) 
 
 <figcaption>这里有一首来自[加纳邮报工人之歌](https://www.youtube.com/watch?v=por5SopwHDc)的复调，你可以在 [app](https://tiburzi.github.io/cync/?state=eyJvcmJpdHMiOls2MCwxMjAsMjQwXSwibm90ZXMiOlt7Im9JbmRleCI6MCwidGhldGEiOjIuMjg3OTU5NTk3Mzc3ODQxNywic0luZGV4IjowfSx7Im9JbmRleCI6MCwidGhldGEiOjEuNjU3NTM3MjY2NDk1NTU0Mywic0luZGV4IjoyfSx7Im9JbmRleCI6MCwidGhldGEiOjIuOTU3NDI4ODkzMzgyNjg0LCJzSW5kZXgiOjJ9LHsib0luZGV4IjoxLCJ0aGV0YSI6LTIuMDIxNjg3Njk2Njc2Njg1Miwic0luZGV4IjowfSx7Im9JbmRleCI6MSwidGhldGEiOi0xLjU2MjcwNTg4ODgzMjY4NjQsInNJbmRleCI6M30seyJvSW5kZXgiOjEsInRoZXRhIjoxLjU3MDc5NjMyNjc5NDg5NjYsInNJbmRleCI6M30seyJvSW5kZXgiOjEsInRoZXRhIjotMC4wMTMzMzI1OTQxNDc3MzUzNDYsInNJbmRleCI6M30seyJvSW5kZXgiOjIsInRoZXRhIjotMi4zMTAzODkzMDcyNjc0MzgsInNJbmRleCI6MH1dLCJ0ZW1wbyI6Nzh9) 中探索。彩色点是用户可以放置的音符。</figcaption>
 
@@ -30,7 +30,7 @@
 
 我们差一点就可以在没有服务器的情况下运行整个系统了。我们需要的最后一件事是让用户下载他们的创作作为一个 MIDI 文件。如果我们能做到这一点，那么人们就可以将自己的乐器运用到音符中，将它们嵌入自己的旋律中，或者进行自己的进一步音乐分析。那时我们的应用程序会有用得多。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/?cid=banner_a)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/?cid=banner_a)
 
 ### 用 JavaScript 生成 MIDI 文件
 
@@ -90,7 +90,7 @@ saveAs(blob,"music.midi")
 
 我双击下载的 MIDI 文件，心一沉。
 
-[![](../Images/5f81c50557d27316870ae0b7790a5474.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nlOPFjo1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AAyyzh9C1QqVcCXe__qO6xQ.png)
+[![](img/5f81c50557d27316870ae0b7790a5474.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nlOPFjo1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AAyyzh9C1QqVcCXe__qO6xQ.png)
 
 啊哦。
 
@@ -212,7 +212,7 @@ saveAs(new Blob([sample\_string]),"output.txt")
 
 如果我们使用 [HexViewer](https://facelessuser.github.io/HexViewer/) 查看结果文件，我们可以看到每个字符都存储在一个字节中。
 
-[![](../Images/323b01ad4f2cbf8b2ab74f312a5a4529.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sSeVpi3Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AjI8RU5mkvr-1qAcAPHVmRg.png)
+[![](img/323b01ad4f2cbf8b2ab74f312a5a4529.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sSeVpi3Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AjI8RU5mkvr-1qAcAPHVmRg.png)
 
 所有这些字符的值都小于 256。现在，如果我们试图对一个字符串进行编码，而这个字符串中的一个字符的相关值无法用一个字节来表示，会发生什么呢？让我们试着把“Hello✨World！”在一个文件里。“✨”字符的 Unicode 值为 10，024。
 
@@ -223,7 +223,7 @@ saveAs(new Blob([sample\_string]),"output.txt")
 
 所有其他字符仍然存储在 1 个字节中，但是这个新字符占用了 3 个字节！
 
-[![](../Images/2c0f16d4c9f4cbba30e3a5801d0bb538.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yAwgjUzC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AHf0-05cKpc-cTCkAd4zqxg.png)
+[![](img/2c0f16d4c9f4cbba30e3a5801d0bb538.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yAwgjUzC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AHf0-05cKpc-cTCkAd4zqxg.png)
 
 如果你把 10024 转换成二进制，你会得到一个 14 位数，所以我们只需要 2 个字节来存储它。但是让我们看看 UTF 8 号是如何做到的。
 
@@ -259,7 +259,7 @@ saveAs(new Blob([u16]),"output.txt")
 
 我们得到了:
 
-[![](../Images/4cd9bb3f9bafcf07509740b773ac34b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VNkNRznX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A6Kwvj5ygt9LYNcCJQ-ki7A.png)
+[![](img/4cd9bb3f9bafcf07509740b773ac34b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VNkNRznX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A6Kwvj5ygt9LYNcCJQ-ki7A.png)
 
 这肯定更简单(要恢复原始值，您只需将每对字节连接起来，第二个字节在左边)，但您可以看到，如果您的大部分值都在英文字母范围内，会浪费更多的空间。
 
@@ -291,7 +291,7 @@ saveAs(new Blob([u16]),"output.txt")
 
 ### Plug: [LogRocket](http://logrocket.com) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

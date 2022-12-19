@@ -5,7 +5,7 @@
 1.  打开与 [@BotFather 的对话。](https://telegram.me/BotFather)
 2.  发布`/start`，你会看到:
 
-[![telegram_bot_help](../Images/0ddbbc166c48701fa7c6a446b82e62aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BT6Q7t9f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esabook.files.wordpress.com/2018/08/telegram_bot_help.png%3Fw%3D343%26h%3D451)
+[![telegram_bot_help](img/0ddbbc166c48701fa7c6a446b82e62aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BT6Q7t9f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esabook.files.wordpress.com/2018/08/telegram_bot_help.png%3Fw%3D343%26h%3D451)
 
 1.  帖子`/newbot`
 2.  帖子**名称**和**用户名**

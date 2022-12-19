@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ivanovyordan/hacktoberfest-2018-4n2>
 
-[![Hacktoberfest 2018](../Images/4b72faa6aa8cebe2f9b0565ecae59cda.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q-YP4UfK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.ivanovyordan.com/content/images/2018/10/Hacktoberfest_2018_poster1_1600x850.png)
+[![Hacktoberfest 2018](img/4b72faa6aa8cebe2f9b0565ecae59cda.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q-YP4UfK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.ivanovyordan.com/conteimg/2018/10/Hacktoberfest_2018_poster1_1600x850.png)
 
 如果你还不知道的话， [Hacktoberfest](https://hacktoberfest.digitalocean.com/) 是今年由 [DigitalOcean](https://www.digitalocean.com/) 、 [GitHub](https://github.com/) 和 [Twilio](https://www.twilio.com/) 组织的开源庆典。规则很简单，前 50 000 名在 GitHub 中打开五个开源项目的 pull 请求的人将从 DigitalOcean and friends 获得一件很酷的免费 t 恤。
 
@@ -14,21 +14,21 @@
 
 对我来说这是一次有趣的活动，我真的希望这对每个人都有教育意义和娱乐意义。
 
-[![Hacktoberfest 2018](../Images/288a4d429eedadfeee2e13720244d2cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gwGzG0gi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.ivanovyordan.com/content/images/2018/10/43266537_905700509639064_1080438936439881728_n.jpg)
+[![Hacktoberfest 2018](img/288a4d429eedadfeee2e13720244d2cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gwGzG0gi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.ivanovyordan.com/conteimg/2018/10/43266537_905700509639064_1080438936439881728_n.jpg)
 
-[![Hacktoberfest 2018](../Images/a25cceda50ae2bc78a458a9c37b4f86e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5YsDABgF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.ivanovyordan.com/content/images/2018/10/43308170_905700809639034_2144412364131270656_n.jpg)
+[![Hacktoberfest 2018](img/a25cceda50ae2bc78a458a9c37b4f86e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5YsDABgF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.ivanovyordan.com/conteimg/2018/10/43308170_905700809639034_2144412364131270656_n.jpg)
 
-[![Hacktoberfest 2018](../Images/fe55d0d0ca8959d66fe8d0fd96bd5649.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5kDrPwvn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.ivanovyordan.com/content/images/2018/10/43354229_905700832972365_458953767094583296_n.jpg)
+[![Hacktoberfest 2018](img/fe55d0d0ca8959d66fe8d0fd96bd5649.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5kDrPwvn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.ivanovyordan.com/conteimg/2018/10/43354229_905700832972365_458953767094583296_n.jpg)
 
-[![Hacktoberfest 2018](../Images/13ff210e725fef751966b30361da3465.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ORDMRNGi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.ivanovyordan.com/content/images/2018/10/43367843_905700779639037_7290394019283075072_n.jpg)
+[![Hacktoberfest 2018](img/13ff210e725fef751966b30361da3465.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ORDMRNGi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.ivanovyordan.com/conteimg/2018/10/43367843_905700779639037_7290394019283075072_n.jpg)
 
-[![Hacktoberfest 2018](../Images/ba6fa0d9854dd10352f51409c7afac8b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N5xuYPMN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.ivanovyordan.com/content/images/2018/10/43374031_905700879639027_7813529346697592832_n.jpg)
+[![Hacktoberfest 2018](img/ba6fa0d9854dd10352f51409c7afac8b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N5xuYPMN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.ivanovyordan.com/conteimg/2018/10/43374031_905700879639027_7813529346697592832_n.jpg)
 
-[![Hacktoberfest 2018](../Images/6f5766a5da9aa96b360e2fd191872be4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yy6yPGQU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.ivanovyordan.com/content/images/2018/10/43411575_905700692972379_6321741502326243328_n.jpg)
+[![Hacktoberfest 2018](img/6f5766a5da9aa96b360e2fd191872be4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yy6yPGQU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.ivanovyordan.com/conteimg/2018/10/43411575_905700692972379_6321741502326243328_n.jpg)
 
 <figure>
 
-[![Hacktoberfest 2018](../Images/e184ddc0276a7808adbfb44fee77efde.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f6idJsdf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.ivanovyordan.com/content/images/2018/10/43414379_905700542972394_5625976943770861568_n.jpg)
+[![Hacktoberfest 2018](img/e184ddc0276a7808adbfb44fee77efde.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f6idJsdf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.ivanovyordan.com/conteimg/2018/10/43414379_905700542972394_5625976943770861568_n.jpg)
 
 <figcaption>Hacktoberfest Plovdiv 2018 workshop</figcaption>
 

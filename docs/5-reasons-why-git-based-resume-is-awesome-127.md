@@ -8,13 +8,13 @@
 
 基于推特上的讨论。
 
-> ![The Practical Dev profile image](../Images/1a10e330d1a8423f8b4b861b114cf62c.png)实用 Dev[@ thepracticaldev](https://dev.to/thepracticaldev)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)1 .便携性
+> ![The Practical Dev profile image](img/1a10e330d1a8423f8b4b861b114cf62c.png)实用 Dev[@ thepracticaldev](https://dev.to/thepracticaldev)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)1 .便携性
 > 2。拉动请求
 > 3。更易于设计
 > 4。管理成本少
 > 5。堆栈空闲
 > {作者:[@ ydp 140](https://twitter.com/YDP140)}
-> [dev.to/acro5piano/5-r…](https://t.co/Z6KqbSYbeG)2018 年 4 月 28 日上午 11:40![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=990193919882383361)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=990193919882383361)
+> [dev.to/acro5piano/5-r…](https://t.co/Z6KqbSYbeG)2018 年 4 月 28 日上午 11:40![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=990193919882383361)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=990193919882383361)
 
 [/edited]
 
@@ -43,7 +43,7 @@
 
 我一开始没想到这个功能，但是刷简历真的很容易。
 
-[![the PR](../Images/d5d291460b80b470d698b2fbbfeecf94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K34aKmsI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/la9ywsv438vchc1y1dlv.png)
+[![the PR](img/d5d291460b80b470d698b2fbbfeecf94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K34aKmsI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/la9ywsv438vchc1y1dlv.png)
 
 我已经请我的朋友，伟大的波兰开发者，在申请一家公司之前检查我的简历，我把他发送到 URL。他看到了我的存储库，纠正了我的错误并创建了拉取请求。他重构了我的简历！我检查了差异并合并了 PR。非常棒的体验。
 

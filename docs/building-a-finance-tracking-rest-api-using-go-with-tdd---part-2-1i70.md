@@ -231,7 +231,7 @@ ok      github.com/azbshiri/budget-api  0.040s
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![one cannot simply make tests pass](../Images/780ee608842724de42bd63f4d3496380.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M_0AQXcW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgflip.com/2i56ol.jpg)
+[![one cannot simply make tests pass](img/780ee608842724de42bd63f4d3496380.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M_0AQXcW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgflip.com/2i56ol.jpg)
 
 好了，现在我们重复同样的步骤来创建一个新的预算 API:
 

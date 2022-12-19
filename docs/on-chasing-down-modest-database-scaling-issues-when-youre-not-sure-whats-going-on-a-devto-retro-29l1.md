@@ -6,7 +6,7 @@
 
 我在调查这个问题的过程中发布了这个:
 
-[![ben](../Images/fe64a787b888dfb20fc13ad1e466da3d.png)](/ben) [## 如何处理 active record::statement invalid PG::query canceled？
+[![ben](img/fe64a787b888dfb20fc13ad1e466da3d.png)](/ben) [## 如何处理 active record::statement invalid PG::query canceled？
 
 ### 本哈尔彭 18 年 7 月 18 日 18 分 1 秒阅读
 
@@ -14,7 +14,7 @@
 
 莱姆的回答是正确的。
 
-[![rhymes profile image](../Images/557aa2636ae2993dfd13f29772ceb666.png) ](/rhymes) [ rhymes ](/rhymes) • [<time datetime="2018-07-18T16:01:10Z" class="date-short-year"> Jul 18 '18 </time>](https://dev.to/rhymes/comment/49el) 
+[![rhymes profile image](img/557aa2636ae2993dfd13f29772ceb666.png) ](/rhymes) [ rhymes ](/rhymes) • [<time datetime="2018-07-18T16:01:10Z" class="date-short-year"> Jul 18 '18 </time>](https://dev.to/rhymes/comment/49el) 
 
 德夫.托在执行什么 Heroku 计划？好像和 Heroku 的 Postgres 平衡器有关。
 

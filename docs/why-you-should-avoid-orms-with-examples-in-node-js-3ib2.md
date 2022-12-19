@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/why-you-should-avoid-orms-with-examples-in-node-js-3ib2>
 
-[![](../Images/1e728a11bb1d54560a719a812aec0805.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xGTzIZeG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/756/1%2ArWu4Xve7snDgCiCbMokbSQ.png)
+[![](img/1e728a11bb1d54560a719a812aec0805.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xGTzIZeG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/756/1%2ArWu4Xve7snDgCiCbMokbSQ.png)
 
 在这篇文章中，我们将考虑为什么你应该避免在你的项目中使用 ORM(对象关系映射)的几个原因。虽然本文中讨论的概念适用于每种语言和平台，但代码示例将使用 Node.js 风格的 JavaScript 编写，我们将考虑从 npm 存储库中获得的包。
 
@@ -622,7 +622,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-<figure>[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+<figure>[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption></figcaption>
 

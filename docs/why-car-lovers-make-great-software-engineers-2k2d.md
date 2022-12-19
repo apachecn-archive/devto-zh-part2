@@ -4,7 +4,7 @@
 
 我们一些最好的软件工程师热爱汽车，我们不相信这是偶然的。自 DealerOn 于 2004 年成立以来，我们发现汽车行业与软件工程职业有许多相同的技能和挑战。在日常工作中，我们看到了与两种追求相关的特质的融合:独创性、对事物运作方式的好奇心、直觉思维，以及对完美不完美的近乎痴迷的渴望。通过利用我们在专业领域的个人激情**，** DealerOn 从汽车爱好者的角度塑造了汽车行业的软件开发。
 
-<figure>[![](../Images/533dc20267b0a17cad387235d8ddd959.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--j29XhR8U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A-V0jHizQJ4mASqJp.jpg) 
+<figure>[![](img/533dc20267b0a17cad387235d8ddd959.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--j29XhR8U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A-V0jHizQJ4mASqJp.jpg) 
 
 <figcaption>漂亮地坐在 DealerOn 公司的野餐会上</figcaption>
 
@@ -20,7 +20,7 @@
 
 与此同时，其他爱好者专注于给他们的汽车进行美学翻新。DealerOn 目前正在准备公司历史上最大的 UX 改革，我们的目标是尽可能给用户提供最有凝聚力、最清晰、最吸引人的体验。这伴随着要克服的相当多的考验，我们将在博客中分享这方面的见解。
 
-<figure>[![](../Images/fdc2842b41279948723e38d774c86e7c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--C2L7zAP2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AXPT988fxrhcltv1Y-9uvEg.jpeg)
+<figure>[![](img/fdc2842b41279948723e38d774c86e7c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--C2L7zAP2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AXPT988fxrhcltv1Y-9uvEg.jpeg)
 
 <figcaption>【DealerOn Dev】实地考察卡丁车(与 Luigi)</figcaption>
 
@@ -32,6 +32,6 @@
 
 我们的文化正站在工程师激情的肩膀上，这一点显而易见。到了展示日，最重要的是产品质量——其他都不重要。我们面前有一条令人兴奋的道路，所以如果你想沿着前进，请继续关注。
 
-[![](../Images/a82e245618d47818b6d17427b15dc8b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ve5aEpxJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AUnoeUB3ZUkvdJcvf9_0NeA.jpeg)
+[![](img/a82e245618d47818b6d17427b15dc8b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ve5aEpxJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AUnoeUB3ZUkvdJcvf9_0NeA.jpeg)
 
 * * *

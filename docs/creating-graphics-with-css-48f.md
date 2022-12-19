@@ -12,7 +12,7 @@
 
 #### 心形造型
 
-[![heart-mock](../Images/5e21f9d8ba73219704336cb420585195.png "Heart mockup")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nuyKruuN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bit.ly/2yH2VF3)
+[![heart-mock](img/5e21f9d8ba73219704336cb420585195.png "Heart mockup")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nuyKruuN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bit.ly/2yH2VF3)
 
 心脏由三种形状组成。一个正方形和两个圆形。可以只使用一个`div`模块和两个伪元素`::before`和`::after`来创建心形。
 
@@ -68,7 +68,7 @@
 
 我对心脏动画的效果非常满意，我认为这将是尝试在 github 中重新创建一个我以前见过的形状的最佳时刻。
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png)[Elena torro](https://github.com/elenatorro)/[CSS cake](https://github.com/elenatorro/CSSCake)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png)[Elena torro](https://github.com/elenatorro)/[CSS cake](https://github.com/elenatorro/CSSCake)
 
 ### 用 CSS 制作的生日蛋糕
 

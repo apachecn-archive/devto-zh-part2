@@ -41,7 +41,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在 Sublime Text 3 的普通版本中，该团队添加了一个名为 *Adaptive* 的新主题，它将自动调整侧栏和标签栏的外观，以匹配所选的配色方案。我最喜欢的两种配色方案是[德古拉](https://draculatheme.com/sublime/)和[日晒深色](http://ethanschoonover.com/solarized)(默认提供)。过去，我曾使用过[方方正正的主题](https://github.com/ihodev/sublime-boxy)，但它已经被弃用，取而代之的是一个更新的主题。
 
-[![My setup](../Images/e90149aef17496090564c2361f2adb78.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FhArZU7D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4eih36wn2x5rgl1rcla2.png) 
+[![My setup](img/e90149aef17496090564c2361f2adb78.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FhArZU7D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4eih36wn2x5rgl1rcla2.png) 
 *这是我现在使用德古拉主题的设置。*
 
 如果你有一些喜欢的崇高文本插件或设置，请在评论中告诉我。我一直在寻找更多的功能来尝试。

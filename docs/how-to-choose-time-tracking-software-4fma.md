@@ -8,7 +8,7 @@
 
 在我们进入为什么这是一个很难解决的问题之前，让我们回顾一下。很久以前。你在高中的时候有没有在商店或餐馆工作过，在那里你必须在打卡上记录你的工作时间？
 
-<figure>[![](../Images/de320714798c7db46d9d44bbf282bec2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5NVP0DYF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/200/1%2AEohbbCNEd2qyv139_LMK7A.jpeg) 
+<figure>[![](img/de320714798c7db46d9d44bbf282bec2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5NVP0DYF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/200/1%2AEohbbCNEd2qyv139_LMK7A.jpeg) 
 
 <figcaption>*来源:123RF*</figcaption>
 
@@ -16,7 +16,7 @@
 
 这可能看起来很熟悉。这种技术至今仍在使用，真是令人惊讶。但对于知识工作者来说，时间跟踪软件更方便，也更容易让管理层跟踪工作时间。
 
-<figure>[![](../Images/fff73f9af731af0a22ec74bc4d5dd6ce.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AzILRl0W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/1%2A1zppTGvvKq9tiw6IqvRlnQ.jpeg) 
+<figure>[![](img/fff73f9af731af0a22ec74bc4d5dd6ce.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AzILRl0W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/1%2A1zppTGvvKq9tiw6IqvRlnQ.jpeg) 
 
 <figcaption>来源:握手 2.0</figcaption>
 
@@ -32,7 +32,7 @@
 
 如果你用谷歌搜索“时间追踪软件”，你会看到这样的搜索结果:
 
-[![](../Images/db62a7130b220b543fa9815d25634d79.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JXfqjMut--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/650/1%2ARmHAAkwy6V-MnUQqM61LSw.png)
+[![](img/db62a7130b220b543fa9815d25634d79.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JXfqjMut--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/650/1%2ARmHAAkwy6V-MnUQqM61LSw.png)
 
 当然，广告很多，但第一个有机的结果是公司提供“免费”的时间跟踪软件。浏览每一个链接，阅读关于公司、价格等的信息。如果我只是想要最好的时间追踪软件来满足我的业务需求和 T2 的需求，这似乎是浪费时间。挑选“正确”软件的一些策略是什么？
 
@@ -42,7 +42,7 @@
 
 如果我们重温我在 2007 年(克罗诺斯)使用的原始软件，你会注意到他们的网站已经焕然一新，让我觉得软件也更新了:
 
-<figure>[![](../Images/3f66ed33091ff0848f82e0c34ad946dc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--u_alvAF9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AkizIk9CabpcL4leb4hNs9A.gif) 
+<figure>[![](img/3f66ed33091ff0848f82e0c34ad946dc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--u_alvAF9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AkizIk9CabpcL4leb4hNs9A.gif) 
 
 <figcaption>来源:克罗诺斯</figcaption>
 
@@ -56,7 +56,7 @@
 
 深入研究这些“免费”时间跟踪解决方案，您会发现大多数软件包都有典型的定价层级。
 
-<figure>[![](../Images/5149bc0254ae5aa626b8ca6b5e06cb4b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Bv6TqxHI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AO_0-JqeyW4uYwm7-dqUUBg.png) 
+<figure>[![](img/5149bc0254ae5aa626b8ca6b5e06cb4b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Bv6TqxHI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AO_0-JqeyW4uYwm7-dqUUBg.png) 
 
 <figcaption>来源:Toggl</figcaption>
 
@@ -66,7 +66,7 @@
 
 几年来，我早上例行的一部分就是一边吃着一碗麦片一边看体育中心。我会赶上顶级戏剧，听斯蒂芬 a .史密斯对一些运动员的评论，然后准备工作。随着时间的推移，我意识到我唯一看的*频道是 ESPN，我从来没有看过任何其他频道。*
 
-[![](../Images/267328c260dfebdaab0f288603c59dde.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zkmzEANo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/480/1%2AS8dHynnDCdKxsQCITRrz9Q.jpeg)
+[![](img/267328c260dfebdaab0f288603c59dde.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zkmzEANo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/480/1%2AS8dHynnDCdKxsQCITRrz9Q.jpeg)
 
 我每月向时代华纳支付 70 美元观看体育中心！意识到这一点后，我打电话给时代华纳，看看是否有一些体育套餐只包括 ESPN、ESPN2 和 TNT 观看 NBA 比赛。当然，时代华纳的回应是不存在这样的包装。当时，频道被捆绑在一起，消费者不清楚仅传输一个有线频道的成本。几年后，YouTube、网飞和互联网颠覆了订阅频道的意义。
 
@@ -81,13 +81,13 @@
 
 我们的一个制造商决定开发自己的时间追踪软件来解决这两个问题。这里可以看到[模板](https://coda.io/t/Clocking-In-a-Time-Clock-email-with-Gmail_tf229A0YZ1g)。这位制造商没有满足于一款可能不符合他需求的软件，而是开发了一款可在野外使用(例如手机)且易于编辑的应用。这意味着按钮可以随意移动或创建，数据流经应用程序的所有部分，数据可以通过[包](https://blog.coda.io/connecting-the-doc-9be7fc1fd571)发送到 Gmail 和 Slack 等其他服务。
 
-<figure>[![](../Images/5c0dbd55356cf8151f35b7ab1082317b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fwENmCwU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ATyOKdH3T6o9BcVkZcbmjnQ.gif) 
+<figure>[![](img/5c0dbd55356cf8151f35b7ab1082317b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fwENmCwU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ATyOKdH3T6o9BcVkZcbmjnQ.gif) 
 
 <figcaption>来源:[尾声](https://coda.io/t/Clocking-In-a-Time-Clock-email-with-Gmail_tf229A0YZ1g)</figcaption>
 
 </figure>
 
-<figure>[![](../Images/f788b2df0aba5d3862bbef87e8ecfe94.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Qtc2CwnT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AgOm7wCHi90MSJuNoM-gN6w.gif) 
+<figure>[![](img/f788b2df0aba5d3862bbef87e8ecfe94.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Qtc2CwnT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AgOm7wCHi90MSJuNoM-gN6w.gif) 
 
 <figcaption>来源:[尾声](https://coda.io/t/Clocking-In-a-Time-Clock-email-with-Gmail_tf229A0YZ1g)</figcaption>
 

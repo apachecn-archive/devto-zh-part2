@@ -65,7 +65,7 @@ module.exports = Object.entries(require('./vendors.json'))
 
 我们其余的实用程序，无论使用多么频繁，都已经被合并到实用程序库中，由单独的组件使用并捆绑到单独的组件中(见下文)。
 
-[![](../Images/2200308f4fe41c86ddd794dcece97987.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hY_NDjQ---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/960/1%2A1z-MY7fYDYbDHzWLy1vraQ.png)
+[![](img/2200308f4fe41c86ddd794dcece97987.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hY_NDjQ---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/960/1%2A1z-MY7fYDYbDHzWLy1vraQ.png)
 
 ### 3。杂项公用事业
 

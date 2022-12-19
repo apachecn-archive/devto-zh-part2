@@ -17,14 +17,14 @@ npx @vue/cli create simple-sample
 Enter fullscreen mode Exit fullscreen mode
 
 我们现在可以在设置中选择我们想要的功能:
-[![Vue features setup](../Images/23a81c92b83f1f4ebfe69270644715d9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LBGQ5wFp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9ihbumegzmoofdhzeg5e.png)
+[![Vue features setup](img/23a81c92b83f1f4ebfe69270644715d9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LBGQ5wFp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9ihbumegzmoofdhzeg5e.png)
 
 我选择 TypeScript 是因为我们喜欢安全的类型，我不需要任何预处理程序，因为默认情况下会包含 PostCSS，而 [vuex](https://vuex.vuejs.org/) 和 [vue-router](https://router.vuejs.org/) 是因为它们是 vue 生态系统的重要组成部分。我们希望使用类语法(是的，这不是默认的)，因为类是熟悉的，看起来很好。所以我们有我们的设置像:
-[![vue project setup](../Images/ac10a945e5f50e64f1dd2f2bb5baa26e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Cf4CImxn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k7flabpu8v48bmekni37.png)
+[![vue project setup](img/ac10a945e5f50e64f1dd2f2bb5baa26e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Cf4CImxn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k7flabpu8v48bmekni37.png)
 
 快速依赖项安装，现在我们可以看到项目结构:
 
-[![Initial project structure](../Images/3181c9d767e3cfddb46172fd5ae2dac7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GRBsjmiT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/psv8bvjlztlbi7km32zk.png)
+[![Initial project structure](img/3181c9d767e3cfddb46172fd5ae2dac7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GRBsjmiT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/psv8bvjlztlbi7km32zk.png)
 
 `shims-`只是 TS 的一个设置，在`.vue`单个文件组件中使用这个令人敬畏的类型化 JavaScript。您可能已经听说过 SFC:我们不需要这样做，但是我们可以将我们的组件编写在一个文件中，并且对它感到满意！
 为什么？嗯，因为你的组件通常是骨架(模板)、行为(脚本)和外观(风格)。因此，让我们在**组件**文件夹中创建我们的`vue`文件，并编写我们的组件。我把它叫做`DevToHeader.vue`。

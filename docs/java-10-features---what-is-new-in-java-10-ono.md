@@ -8,7 +8,7 @@
 
 [Java 10 特性](https://www.skptricks.com/2018/08/Java-10-features.html)-Java 10 有什么新特性？
 
-[![](../Images/69356d611338cb7461e7d3d8be937b99.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Uht615Ik--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-EFD3uzKqBF0/W3JjEIBC8gI/AAAAAAAABzU/6RCO-tKBn_4RdwzQiwzMl1rQXlWeeCuIACLcBGAs/s320/j10.jpg)
+[![](img/69356d611338cb7461e7d3d8be937b99.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Uht615Ik--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-EFD3uzKqBF0/W3JjEIBC8gI/AAAAAAAABzU/6RCO-tKBn_4RdwzQiwzMl1rQXlWeeCuIACLcBGAs/s320/j10.jpg)
 
 Java 10 有什么新特性？Java 10 于 2018 年 3 月发布，仅比其前身 Java 9 晚六个月，并带来了增强的局部变量类型推断、垃圾收集和编译。
 

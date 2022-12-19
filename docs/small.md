@@ -6,7 +6,7 @@
 
 在这篇课文中，我将试图解释一种控制思想的方法。除了保持健康之外，我还采取了哪些措施来提高工作效率，甚至提高作为软件开发人员的学习质量。
 
-[![diferença entre profissoes](../Images/46d5e14e17c3c83e4bb04202df4133a4.png)T2】](////app.vulpi.com.br/dev?utm_source=blog&utm_medium=eu_sou_dev)
+[![diferença entre profissoes](img/46d5e14e17c3c83e4bb04202df4133a4.png)T2】](////app.vulpi.com.br/dev?utm_source=blog&utm_medium=eu_sou_dev)
 
 ## **修改和更新的常数**
 

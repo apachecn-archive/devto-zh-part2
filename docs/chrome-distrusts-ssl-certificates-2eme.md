@@ -20,7 +20,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果你因为使用了一个不被信任的证书而出现这些错误，那么你的网站在 Chrome 66 或 Chrome 70 中会是什么样子呢？
 
-Chrome 66 现在在开发频道，所以我们可以试一试。[![](../Images/0bf9ca037f5003e7cab7c8f1dad94521.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1tZwZnzu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/www.funkysi1701.com/wp-content/uploads/2018/02/tempsnip.png.jpg%3Fresize%3D662%252C443%26ssl%3D1)
+Chrome 66 现在在开发频道，所以我们可以试一试。[![](img/0bf9ca037f5003e7cab7c8f1dad94521.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1tZwZnzu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/www.funkysi1701.com/wp-content/uploads/2018/02/tempsnip.png.jpg%3Fresize%3D662%252C443%26ssl%3D1)
 
 对你的用户来说不是很好，是吗？现在是时候订购一个新的 SSL 证书，以避免这种情况发生在您的网站上。
 

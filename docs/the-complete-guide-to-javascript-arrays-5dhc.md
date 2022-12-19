@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/booligoosh/the-complete-guide-to-javascript-arrays-5dhc>
 
-[![The complete guide to JavaScript arrays](../Images/9c0bcca8c9eb3ab3ca256eef9da2fc0d.png)T2】](https://codetheweb.blog/2018/04/28/javascript-arrays/)
+[![The complete guide to JavaScript arrays](img/9c0bcca8c9eb3ab3ca256eef9da2fc0d.png)T2】](https://codetheweb.blog/2018/04/28/javascript-arrays/)
 
 数组是 JavaScript 中非常有用的一部分，对于从文本操作到图像处理都很方便！
 
@@ -128,7 +128,7 @@ Enter fullscreen mode Exit fullscreen mode
 现在我们已经完成了基本的工作，让我们看看一些可以用来创建、转换和操作数组的函数。让我们开始吧！(要激动😉)
 
 对于这一节，我将使用`console.log`而不是`alert`，这样我们就可以正确地看到什么是数组，什么不是。要在浏览器中打开控制台，右键单击，然后单击“检查元素”(或类似的东西)。然后点击顶部的“控制台”标签。大概是这样的:
-[![The JavaScript console](../Images/28eb564b0e57029e2c1250d83470f2b5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---aNJ4uHh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codetheweb.blog/assets/img/posts/javascript-arrays/console.png)
+[![The JavaScript console](img/28eb564b0e57029e2c1250d83470f2b5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---aNJ4uHh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codetheweb.blog/assets/img/posts/javascript-arrays/console.png)
 
 ### string.split()
 
@@ -143,7 +143,7 @@ console.log( myString.split(',') );
 Enter fullscreen mode Exit fullscreen mode
 
 (当输出到 JavaScript 控制台时，看起来是这样的:)
-[![An array in the JavaScript console](../Images/803d7cf5ea1064743ff328b81f273c33.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EnQZ-M7j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codetheweb.blog/assets/img/posts/javascript-arrays/array.split.png)
+[![An array in the JavaScript console](img/803d7cf5ea1064743ff328b81f273c33.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EnQZ-M7j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codetheweb.blog/assets/img/posts/javascript-arrays/array.split.png)
 
 但是**这里到底发生了什么？**嗯，看我们怎么说`.split(',')`？这是告诉浏览器将字符串分割成数组项，在`,`字符处分隔它们。这里还有一个例子:
 

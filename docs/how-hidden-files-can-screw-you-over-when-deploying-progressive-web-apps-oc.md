@@ -36,17 +36,17 @@ var precacheConfig = [
 
 我做的第一件事是打开 web 应用程序，使用 Chrome Lighthouse 审计工具快速找出性能和服务人员的潜在问题。这是我看到的。
 
-[![Lighthouse audit performance](../Images/81fad329df54ce4e0cb797febde5d6a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GTMDGg37--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gr49z0q3ers2yt5ywl2i.png)
+[![Lighthouse audit performance](img/81fad329df54ce4e0cb797febde5d6a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GTMDGg37--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gr49z0q3ers2yt5ywl2i.png)
 
 哎哟，64 分的 PWA，这可不好，因为我记得我答应过客户至少 85 分。所以上一次部署明显有问题。让我们再向下滚动一点，看看:
 
-[![Service worker is not installed](../Images/0953b4712b988a501964e823cbc71679.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2ovntsGX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j94l7ybtcqyvnzc1wclx.png)
+[![Service worker is not installed](img/0953b4712b988a501964e823cbc71679.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2ovntsGX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j94l7ybtcqyvnzc1wclx.png)
 
 这就是问题所在。服务工作器安装不正确，因此它的所有优点都不会在应用程序中发挥作用。服务人员一定是在安装过程中遇到了某种错误。下一步是查看应用程序选项卡，了解服务人员的情况。看起来我们这里也有一个错误日志。
 
 看起来有一个错误，没有找到 DS_Store 隐藏文件。让我们看看完整的 **sw.js** 文件，美化一下 javascript，看看发生了什么。
 
-[![Browser is told to cache a missing .DS_Store file](../Images/3c3c062a2f7afd562086328195ba8c5f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jvv0mUD4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5keii8dvgvv7b10zhxkt.png)
+[![Browser is told to cache a missing .DS_Store file](img/3c3c062a2f7afd562086328195ba8c5f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jvv0mUD4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5keii8dvgvv7b10zhxkt.png)
 
 似乎构建过程错误地认为该文件应该被缓存，因此包含在浏览器要缓存的文件列表中。那么，问题是什么呢？嗯，在部署过程中，我们理所当然地忽略了所有隐藏的文件，比如这个 **firebase.json** 在这里指出的:
 

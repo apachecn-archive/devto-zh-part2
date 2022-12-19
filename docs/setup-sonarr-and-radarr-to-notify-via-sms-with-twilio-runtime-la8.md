@@ -20,7 +20,7 @@ Twilio Functions 是一个非常便宜的解决方案，以至于在编写第一
 
 下面是流程如何工作的总结:
 
-[![How Twilio Runtime Functions work, workflow diagram](../Images/5845d479956d745457b18e265c521ed1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--te28Sx6u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/Screen_Shot_2017-07-13_at_12.55.39_PM.width-500.png)
+[![How Twilio Runtime Functions work, workflow diagram](img/5845d479956d745457b18e265c521ed1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--te28Sx6u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/com.twilio.prod.twilio-doimg/Screen_Shot_2017-07-13_at_12.55.39_PM.width-500.png)
 
 *注意*:我不认为 Twilio 运行时被设计成以我提议的方式工作。在未来，这种方法可能不会像这里提到的那样起作用，因此您的里程可能会有所不同。
 
@@ -167,6 +167,6 @@ Enter fullscreen mode Exit fullscreen mode
 以下是在“信息”中收到短信时的屏幕截图:
 
 <source>
-[![ Messages Twilio SMS conversation](../Images/d1f94807660e7e4b10384c1a6848dadc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ocN1-K95--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dc1r9kxqg42ml.cloudfront.net/brandonb.ca/posts/setup-sonarr-radarr-notify-sms-with-twilio/twilio-messages.png)T6】
+[![ Messages Twilio SMS conversation](img/d1f94807660e7e4b10384c1a6848dadc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ocN1-K95--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dc1r9kxqg42ml.cloudfront.net/brandonb.ca/posts/setup-sonarr-radarr-notify-sms-with-twilio/twilio-messages.png)T6】
 
 如你所见，我不仅可以在手机上收到这些通知信息，也可以在 Mac 上收到！这确保了我的至少一个设备会在某个地方收到通知，但至少我会在手机上收到通知。

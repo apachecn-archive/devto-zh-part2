@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/hackersandslackers/rendering-pages-in-flask-using-jinja-h9h>
 
-[![Rendering Pages in Flask Using Jinja](../Images/e031109d00b3490259d2f2b6d28a5cda.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P0jAYF3c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.googleapis.com/hackersandslackers-cdn/2019/02/jinja.jpg)
+[![Rendering Pages in Flask Using Jinja](img/e031109d00b3490259d2f2b6d28a5cda.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P0jAYF3c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.googleapis.com/hackersandslackers-cdn/2019/02/jinja.jpg)
 
 如果 Dreamweaver 这个名字对你来说意味着什么，你可能还记得 90 年代的网络开发有多糟糕。CSS 不是“东西”，我们滥用 HTML 表格，像`<marquee>`这样的标签被认为是合法的。比这一切更糟糕的是*手动*T5】的重复；HTML 从来没有打算识别基本的编程概念，比如继承、导入。即使站点*看起来*在页面之间有共同的元素(比如导航)，现实却是在站点的每个页面上手工硬编码这些元素的噩梦。更改导航链接意味着在数百个页面上手动进行相同的更改。太棒了。
 

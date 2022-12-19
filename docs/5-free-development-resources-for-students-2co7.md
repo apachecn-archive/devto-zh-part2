@@ -16,7 +16,7 @@
 
 诸如用于基于 **Java** 的应用程序的 [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) 、用于 **PHP** 的 [PhpStorm](https://www.jetbrains.com/phpstorm/) 、 **Python** 的 [PyCharm](https://www.jetbrains.com/pycharm/) 以及我个人最喜欢的工具，我最近开始使用这些工具，并且无法获得足够的 [CLion](https://www.jetbrains.com/clion/) 用于 **C/C++** 。
 
-[![JetBrains IDEs](../Images/4162ee44272852f17f682dc9df5969a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r28Ykjft--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tyjsu8upqo26uw9o72zk.png)
+[![JetBrains IDEs](img/4162ee44272852f17f682dc9df5969a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r28Ykjft--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tyjsu8upqo26uw9o72zk.png)
 
 他们还有一个非常有趣的 ide 插件(仍在测试阶段),可以帮助你通过 IDE 内部的练习来学习你选择的语言。
 
@@ -36,7 +36,7 @@ GitLab 正在成为伟大项目的协作和开发的伟大工具。他们目前�
 
 你需要申请的只是填写一张表格，解释你打算如何使用 GitHub。请注意，如果你使用的是机构邮箱，你被录取的几率会更高。
 
-[![Github Education](../Images/bdabf5d78b0a54ab64a61904d6aaa090.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v3xL8A62--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cksbw6m4bhep6v2tw9hc.png)
+[![Github Education](img/bdabf5d78b0a54ab64a61904d6aaa090.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v3xL8A62--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cksbw6m4bhep6v2tw9hc.png)
 
 ### 4。浪子
 
@@ -46,7 +46,7 @@ GitLab 正在成为伟大项目的协作和开发的伟大工具。他们目前�
 
 > 构建和发布移动应用的最简单方式。fastlane 处理繁琐的任务，所以你不必去做
 
-[![fastlane](../Images/8a2ec1d16fb35373cbfcba04bd3d0248.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yYw1c-7O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/shuizl8u12ntgyjqgzm1.png)
+[![fastlane](img/8a2ec1d16fb35373cbfcba04bd3d0248.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yYw1c-7O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/shuizl8u12ntgyjqgzm1.png)
 
 ### 5。微软想象
 

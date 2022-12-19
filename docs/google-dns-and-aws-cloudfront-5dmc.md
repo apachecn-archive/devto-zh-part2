@@ -4,7 +4,7 @@
 
 Bermula dengan nak buka website [runcloud](https://runcloud.io/) tak boleh - imej tiba-tiba tak keluar.
 
-[![runcloud](../Images/c493d58ea6aaffe7f55eff0e6ccf9226.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t-M5yncz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2whflwioqa5121o1onr5.png)
+[![runcloud](img/c493d58ea6aaffe7f55eff0e6ccf9226.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t-M5yncz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2whflwioqa5121o1onr5.png)
 
 Rupanya domain cf1.cdn.runcloud.io tak dapat resolve kalau guna Google dns server 8.8.8.8\.
 

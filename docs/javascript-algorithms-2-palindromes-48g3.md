@@ -2,12 +2,12 @@
 
 > 原文：<https://dev.to/worldclassdev/javascript-algorithms-2-palindromes-48g3>
 
-[![](../Images/7109a79f36c45383abc2f94f60935a03.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XEasNYZM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7qe4349ug4cqz8ndfdcu.png) 
+[![](img/7109a79f36c45383abc2f94f60935a03.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XEasNYZM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7qe4349ug4cqz8ndfdcu.png) 
 回文！回文！！回文！！！哦，男孩。我很确定你现在正在想这些是什么。作为一名软件开发人员，你个人知道，当有人在与我交流时说出这样的话，我会笨拙地做手势，并露出令人讨厌的傻笑来表示某种程度的不感兴趣。我真的不喜欢迷惑人。
 
 安全带系上了吗？让我们公平对待这个词。我们走吧。
 
-[![](../Images/0c9511c8a9d15d7a909d2dbe5fd2f1ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yP4ivGRD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a3aakwl0pcjijhs28rnq.jpeg)
+[![](img/0c9511c8a9d15d7a909d2dbe5fd2f1ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yP4ivGRD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a3aakwl0pcjijhs28rnq.jpeg)
 
 回文是一个单词、数字或其他字符序列，向后读和向前读是一样的，例如“夫人”或“赛车”。用一点程序员的话来说，我们可以说它是一串反向排列时不会改变的文本。这个词就这么多了，是吧？
 
@@ -111,7 +111,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 *   累积起来。如果测试在所有情况下都通过，则 every()方法的计算结果为 true，否则为 false。评估的结果就是我们存储在变量“result”中的内容，这就是我们的函数返回的内容，作为字符串失败或通过回文检查的指示。
 
-[![](../Images/f0c1c259390cc3a5c061eed2fb7a96bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rUisXHQN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/psh88tycfkqoba9hb6ve.jpeg)
+[![](img/f0c1c259390cc3a5c061eed2fb7a96bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rUisXHQN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/psh88tycfkqoba9hb6ve.jpeg)
 
 也许你也注意到了？我们的第二个实现在性能方面存在本质上的问题。也许在你继续这篇文章的其余部分之前，你可以试着自己识别它？
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kaelscion/bye-bye-403-building-a-web-bot-that-cannot-be-blocked---part-1-what-is-web-scraping-5c5k>
 
-[![bye-bye-403-part-one](../Images/77bcbf00a417ad042da5ecf477badbe2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AMaa41TL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kqh6qd2zjf9d27igt1lt.png)
+[![bye-bye-403-part-one](img/77bcbf00a417ad042da5ecf477badbe2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AMaa41TL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kqh6qd2zjf9d27igt1lt.png)
 
 > ***原载于编码鸭博客:【www.ccstechme.com/coding-duck-blog】T2*T5】**
 

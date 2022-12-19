@@ -10,19 +10,19 @@
 
 盒子的中心是内容本身，它占据了一定的高度和宽度。这个区域被称为**内容区域**。内容区域的大小可以自动确定，也可以显式设置高度和宽度的大小。(参见下面关于`box-sizing`的注释)
 
-[![](../Images/fd7264a9f2b474555a545c5e16bd0920.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--waQNaCZJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/343/1%2A_r62OrD_SdDYYjccCfKGLA.jpeg)
+[![](img/fd7264a9f2b474555a545c5e16bd0920.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--waQNaCZJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/343/1%2A_r62OrD_SdDYYjccCfKGLA.jpeg)
 
 在内容区域周围是一个被称为**填充区域**的区域。`padding`的大小可以完全相同，或者您可以分别设置顶部、底部、左侧和右侧的填充。如果您为元素使用背景，背景将延伸到填充区域。
 
-[![](../Images/88315e2a194cd65fb010b4fc894b3f62.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o1bT9LmR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/343/1%2AisGpZLL9d9aaW3BGrpq37g.jpeg)
+[![](img/88315e2a194cd65fb010b4fc894b3f62.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o1bT9LmR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/343/1%2AisGpZLL9d9aaW3BGrpq37g.jpeg)
 
 接下来是**边境地区**。这会在元素及其填充周围创建一个边框。您可以设置边框的粗细、颜色和样式。样式选项包括无、实线、虚线、点线和其他几种。(参见下面关于`box-sizing`的注释)
 
-[![](../Images/650ec51f28b597f525353bd1a0d7b9db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u-tQ8QzN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/399/1%2AY2wKEqxt3o1RWyyXLbWmCg.jpeg)
+[![](img/650ec51f28b597f525353bd1a0d7b9db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u-tQ8QzN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/399/1%2AY2wKEqxt3o1RWyyXLbWmCg.jpeg)
 
 最后是**边缘区域**。这在元素、填充和边框周围创建了清晰的空间。同样，您可以单独设置上边距、下边距、左边距和右边距。在某些情况下，会发生边距折叠，并且相邻元素之间的边距可能会被共享。
 
-[![](../Images/71ce80bd1a729716a486096272a36157.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YwIthwH5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/399/1%2ALCWYi8UVXqF24rgU-8sPHA.jpeg)
+[![](img/71ce80bd1a729716a486096272a36157.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YwIthwH5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/399/1%2ALCWYi8UVXqF24rgU-8sPHA.jpeg)
 
 **`Box-Sizing`属性**
 

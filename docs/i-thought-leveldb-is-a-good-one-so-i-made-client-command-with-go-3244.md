@@ -4,7 +4,7 @@
 
 突然，我寻找可以像 SQLite 一样作为库使用的 KVS，在 LevelDB 中找到了。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [谷歌](https://github.com/google) / [ leveldb](https://github.com/google/leveldb)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [谷歌](https://github.com/google) / [ leveldb](https://github.com/google/leveldb)
 
 ### LevelDB 是 Google 编写的快速键值存储库，它提供了从字符串键到字符串值的有序映射。
 
@@ -12,7 +12,7 @@
 
 LevelDB 是 Google 编写的一个快速键值存储库，它提供了从字符串键到字符串值的有序映射。
 
-[![Build Status](../Images/cd003b864749046ef461c4fb96a1f99d.png) ](https://travis-ci.org/google/leveldb) [ ![Build status](../Images/a7b6a5fb260f4e8f8d0ad56d0d1ac36f.png)](https://ci.appveyor.com/project/pwnall/leveldb)
+[![Build Status](img/cd003b864749046ef461c4fb96a1f99d.png) ](https://travis-ci.org/google/leveldb) [ ![Build status](img/a7b6a5fb260f4e8f8d0ad56d0d1ac36f.png)](https://ci.appveyor.com/project/pwnall/leveldb)
 
 作者:桑杰·格玛瓦特([sanjay@google.com](https://raw.githubusercontent.com/google/leveldb/master/mailto:sanjay@google.com))和杰夫·迪恩([jeff@google.com](https://raw.githubusercontent.com/google/leveldb/master/mailto:jeff@google.com))
 
@@ -44,7 +44,7 @@ LevelDB 是 Google 编写的一个快速键值存储库，它提供了从字符�
 
 这是一个。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)[【yuuichi-fuji oka】](https://github.com/yuuichi-fujioka)/[【go-leveldbctl】](https://github.com/yuuichi-fujioka/go-leveldbctl)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)[【yuuichi-fuji oka】](https://github.com/yuuichi-fujioka)/[【go-leveldbctl】](https://github.com/yuuichi-fujioka/go-leveldbctl)
 
 ### LevelDB 控制命令
 
@@ -52,7 +52,7 @@ LevelDB 是 Google 编写的一个快速键值存储库，它提供了从字符�
 
 # leveldbctl
 
-[![Build Status](../Images/b5abb7591e931ae4f9170d4a0980aa24.png) ](https://travis-ci.org/yuuichi-fujioka/go-leveldbctl) [ ![Coverage Status](../Images/b813bc1896dd6de88cd1b44416d86f45.png)](https://coveralls.io/github/yuuichi-fujioka/go-leveldbctl?branch=master)
+[![Build Status](img/b5abb7591e931ae4f9170d4a0980aa24.png) ](https://travis-ci.org/yuuichi-fujioka/go-leveldbctl) [ ![Coverage Status](img/b813bc1896dd6de88cd1b44416d86f45.png)](https://coveralls.io/github/yuuichi-fujioka/go-leveldbctl?branch=master)
 
 LevelDB 控制命令。
 

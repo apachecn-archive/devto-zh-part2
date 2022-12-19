@@ -231,7 +231,7 @@ liveEduCoin.addBlock(new Block(2, "27/07/2018", { quantity: 20 }));
 
 如果我们将代码保存在 blockchain.js 文件中，并在终端上运行，则输出如下:
 
-[![cryptocurrency blockchain in Node.js](../Images/1bcf1b530ad7d0c341b1434f200256be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kpI0gpRA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iq4w64n1yhza0pgglrjr.jpg)
+[![cryptocurrency blockchain in Node.js](img/1bcf1b530ad7d0c341b1434f200256be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kpI0gpRA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iq4w64n1yhza0pgglrjr.jpg)
 
 有用！
 

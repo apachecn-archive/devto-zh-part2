@@ -8,4 +8,4 @@
 
 [读下去🏛](https://auth0.com/blog/progressive-service-architecture-at-auth0/?utm_source=dev&utm_medium=sc&utm_campaign=aueng_psa)
 
-[![Progressive Service Architecture At Auth0](../Images/c1c8babef4124ee7c7f0cfddb96bd63e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3XXmQrhy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8125biu0z8ig8j59wuvd.png)
+[![Progressive Service Architecture At Auth0](img/c1c8babef4124ee7c7f0cfddb96bd63e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3XXmQrhy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8125biu0z8ig8j59wuvd.png)

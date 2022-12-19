@@ -267,15 +267,15 @@ Enter fullscreen mode Exit fullscreen mode
 
 *   [DOM 元素–反应](https://reactjs.org/docs/dom-elements.html#style)
 
-[![booyaa image](../Images/0856925e87024eeeb56184e23bf8ed45.png)](/booyaa) [## 在博客上写我的作业
+[![booyaa image](img/0856925e87024eeeb56184e23bf8ed45.png)](/booyaa) [## 在博客上写我的作业
 
 ### 标记 Sta Ana Sep 16 ' 181min read
 
-#study #learning #fullstack](/booyaa/blogging-my-homework-3ohf)[![booyaa image](../Images/0856925e87024eeeb56184e23bf8ed45.png)](/booyaa) [## 做一只刺猬-第一部分
+#study #learning #fullstack](/booyaa/blogging-my-homework-3ohf)[![booyaa image](img/0856925e87024eeeb56184e23bf8ed45.png)](/booyaa) [## 做一只刺猬-第一部分
 
 ### 标记 Sta Ana Sep 18 ' 18 15 分钟读取
 
-#learning #study #react #webappdev](/booyaa/web-app-development-core-skill-hedgehog---part-one-2144)[![booyaa image](../Images/0856925e87024eeeb56184e23bf8ed45.png)](/booyaa) [## 做一只刺猬-第二部分
+#learning #study #react #webappdev](/booyaa/web-app-development-core-skill-hedgehog---part-one-2144)[![booyaa image](img/0856925e87024eeeb56184e23bf8ed45.png)](/booyaa) [## 做一只刺猬-第二部分
 
 ### 标记 Sta Ana Sep 21 ' 186min read
 

@@ -6,7 +6,7 @@
 
 *   [第一部分](https://dev.to/plutov/microservices-with-go-kit-part-1-13dd)
 
-[![Microservices with go-kit. Part 2](../Images/2683a541db7d52a9efbd2cf8591dbb81.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qXz9o9Yr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y7y7xvd68ysi6wk3ew81.jpg)
+[![Microservices with go-kit. Part 2](img/2683a541db7d52a9efbd2cf8591dbb81.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qXz9o9Yr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y7y7xvd68ysi6wk3ew81.jpg)
 
 在上一个视频中，我们使用工具包命令行工具为我们的服务准备了一个本地环境。在这个视频中，我们将继续使用这些代码。
 

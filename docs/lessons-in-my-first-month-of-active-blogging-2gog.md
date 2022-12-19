@@ -15,7 +15,7 @@
 
 我知道。就像是“咄，林赛！当然，这需要大量的工作。”这就是为什么你会看到很多开发者在他们的博客上投入大量工作的主要原因。三年后，你可能会看到一两篇他们发布后的帖子。这是因为作为开发人员，我们不断有事情占用我们的时间。为了经常写博客，你必须优先考虑写博客，尤其是如果你想让你的文章有高质量的话。这也是为什么我在一开始就定义了我的动机，因为我必须记住我做这件事的原因。如果你写博客的动力很弱，你可能不会真的去写博客。除了全职工作，我每周可能还会花 15-20 个小时写博客。现在可能会更多，因为我要开始我的 11y for JS 课程了！不能随便投入那么多精力。
 
-[![Gif that states "What is a weekend" from a scene of Downtown Abbey.](../Images/72a7f0d419c20fa223ff2b804fca48c7.png)T2】](https://i.giphy.com/media/Gsrj1RAgVBQ9q/giphy.gif)
+[![Gif that states "What is a weekend" from a scene of Downtown Abbey.](img/72a7f0d419c20fa223ff2b804fca48c7.png)T2】](https://i.giphy.com/media/Gsrj1RAgVBQ9q/giphy.gif)
 
 此外，博客不再仅仅是博客。它是社交媒体，电子邮件通讯，规划内容，交叉发布，时间，谷歌分析等。我大概花了一半时间写帖子，另一半时间做后勤工作。不要误解我，这一切都是值得的，但我真的很尴尬，我以为这很容易。如果你想的话，它可以是一份全职工作，因为那需要做很多工作。
 
@@ -23,7 +23,7 @@
 
 当你第一次开始写博客时，你真的想与世界分享你的内容。你有你独特的观点，你想帮助别人。但是你可能会得到一个受欢迎的帖子。你开始看到那个帖子的所有转发。你会看到 dev.to 上有多少人喜欢你。你可能会看到你的网站流量出现一些峰值。你注意到你的推特粉丝在增加。人们很容易开始沉迷于这些数字，将其作为衡量你成功的标准，尽管关注人们的反应很重要，但也很容易偏离你当初为什么想开始写博客。
 
-[![Gif that opens a computer screen to look at charts and graphs.](../Images/f75aa81e3a20fdb792ee3aae11299816.png)T2】](https://i.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif)
+[![Gif that opens a computer screen to look at charts and graphs.](img/f75aa81e3a20fdb792ee3aae11299816.png)T2】](https://i.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif)
 
 我要对你说实话，我不太喜欢我的上一篇文章。它显示了。我的参与度远不如过去。人们对此没有太多的共鸣。也许公开批评我自己的内容是失礼的，但我获得更多关注和更多参与的原因是因为我专注于写好内容。上周我关注的是增长，具有讽刺意味的是，我并没有增长那么多。
 
@@ -33,7 +33,7 @@
 
 关于我的有趣事实:我在大学里学的是公共关系！自从我成为一名开发人员以来，除了与同事进行良好的沟通之外，我还没有任何机会使用这些知识。我觉得理解人们如何工作、定义我的战略以及保持我的品牌的一致性对我在短时间内看到的增长至关重要。公关不仅仅是新闻发布，还包括策略、声音和身份！这实际上是有趣的事情(至少对我来说)。
 
-[![Lisa Kudrow talking about how publicists speak, correcting phrases.](../Images/0a469d3a569d658532e2859ffbad61de.png)T2】](https://i.giphy.com/media/TlK63EEEdDBzPHAMtc4/giphy.gif)
+[![Lisa Kudrow talking about how publicists speak, correcting phrases.](img/0a469d3a569d658532e2859ffbad61de.png)T2】](https://i.giphy.com/media/TlK63EEEdDBzPHAMtc4/giphy.gif)
 
 这些知识也确实帮助我获得了洞察力，解释了反馈，并决定了我如何写我的帖子和同情我的用户。我认为这是我早期成功的关键。我的朋友凯利·米勒实际上正在写一本专门针对初创公司创始人的关于公共关系的书。我认为阅读这篇文章对那些公关新手来说是一个很好的学习课程。
 
@@ -41,7 +41,7 @@
 
 如果你正在我的网站上阅读这篇博客，我希望你知道我的品牌是可访问性。然而，我是一个充满激情的人，有时我喜欢写一些其他的东西。证据一就是你正在阅读的这篇博客。几周前，我在 dev.to 上写的第一篇关于不可访问性的文章登上了最受欢迎的 7 篇文章的榜首，这是超现实的。我没有交叉张贴，因为它是“非品牌”但是真的吗？我开始质疑我是否应该在这个博客中涉猎更多关于非可访问性的东西。这会损害我的品牌吗？这东西真的很让人困惑。
 
-[![Paul Rudd mouthing the word what.](../Images/e40746e4b52da860894c79196d3a4648.png)T2】](https://i.giphy.com/media/GmdFiZtdJtQty/giphy.gif)
+[![Paul Rudd mouthing the word what.](img/e40746e4b52da860894c79196d3a4648.png)T2】](https://i.giphy.com/media/GmdFiZtdJtQty/giphy.gif)
 
 我最终决定的是，我是谁是我品牌的一部分。我喜欢谈论博客、企业家精神、心理健康等等。易访问性将永远是这个博客的主要焦点，但因为这个博客是我的，我是我的品牌，我觉得只要易访问性是主要焦点，就可以不时地分享这些东西。诚然，这篇文章是一个实验，所以我们将看到它如何结束。
 

@@ -49,7 +49,7 @@ $ ng serve --open
 
 在[https://about.gitlab.com/](https://about.gitlab.com/)创建账户，然后在 ***新建项目*** 。
 
-[![](../Images/43b91bbd2a3221dd9ce56af054e98a91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E1sNEhTx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2APhZ-aMYorUXQN0I68UHtew.png)
+[![](img/43b91bbd2a3221dd9ce56af054e98a91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E1sNEhTx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2APhZ-aMYorUXQN0I68UHtew.png)
 
 一旦建立了空的存储库，就会出现一个列表，其中包含几个关于本地 git 配置的选项。
 
@@ -75,19 +75,19 @@ $ git push --set-upstream origin master
 
 创建新项目。以下是我们项目的定义。
 
-[![](../Images/d77e900c715756c38fef7c28f60ceae0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nZ-r4A8J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A8p7AaBdotPk2jOwbyH8abg.png)
+[![](img/d77e900c715756c38fef7c28f60ceae0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nZ-r4A8J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A8p7AaBdotPk2jOwbyH8abg.png)
 
 一旦项目准备就绪，将会有一组类似于下面的选项可用。
 
-[![](../Images/e0e972c1cadb1fde1b133b2d8a8a92f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I0l25pbA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3360/1%2Aa_Dx5QbzDuuN7qv1k-7LBQ.png)
+[![](img/e0e972c1cadb1fde1b133b2d8a8a92f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I0l25pbA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3360/1%2Aa_Dx5QbzDuuN7qv1k-7LBQ.png)
 
 现在我们要创建一个应用程序。点击* *创建应用程序，* *为您的应用程序选择一个地区。
 
-[![](../Images/dda3a77743f106a99287cbbe08b3fd7d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d6VV1TVB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AQEKJ3y3cck6MTZrFPVFeeA.png)
+[![](img/dda3a77743f106a99287cbbe08b3fd7d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d6VV1TVB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AQEKJ3y3cck6MTZrFPVFeeA.png)
 
 定义**语言**和**环境**。**语言**将是 **Node.js** 而**环境**将是**标准**。要了解关于这个主题的更多信息，请查看[https://cloud . Google . com/app engine/docs/the-app engine-environments](https://cloud.google.com/appengine/docs/the-appengine-environments)。
 
-[![](../Images/b0329e48d1c4679044e2c40eaedac7a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_IBtpqaZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A3WXOW1cyhZFcXXKVEzXbfA.png)
+[![](img/b0329e48d1c4679044e2c40eaedac7a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_IBtpqaZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A3WXOW1cyhZFcXXKVEzXbfA.png)
 
 瞧啊！我们已经创建了我们的应用程序！
 
@@ -125,21 +125,21 @@ $ gcloud app deploy
 
 *   转到服务帐户菜单。
 
-[![](../Images/71d9b0d71257a16e5382804021371485.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bCf5gzTC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AnZvsM-UmM1WadjHA7MxmgA.png)
+[![](img/71d9b0d71257a16e5382804021371485.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bCf5gzTC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AnZvsM-UmM1WadjHA7MxmgA.png)
 
 *   为 GitLab 添加服务帐户。
 
-[![](../Images/8535f106a0502054dfe828426a806aff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cQGlQRRD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AeUdqVnYSciwcHdngF14TfA.png)
+[![](img/8535f106a0502054dfe828426a806aff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cQGlQRRD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AeUdqVnYSciwcHdngF14TfA.png)
 
 *   为该帐户创建一个密钥并保存 json。
 
-[![](../Images/284a54c6c29f80db4b811f2959dc718c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PCUaew4a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Al63hV4mDEMnmKEIzzxhI7A.png)
+[![](img/284a54c6c29f80db4b811f2959dc718c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PCUaew4a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Al63hV4mDEMnmKEIzzxhI7A.png)
 
-[![](../Images/6a3c1e72e683d3b9d33c475374d3e208.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PK0io_Jk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AaahbblNk8LW8eIXci-8bMA.png)
+[![](img/6a3c1e72e683d3b9d33c475374d3e208.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PK0io_Jk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AaahbblNk8LW8eIXci-8bMA.png)
 
 *   导航到列出了成员及其角色的 IAM，并将以下角色添加到我们刚刚创建的服务帐户中:**应用引擎** **管理员**、**云构建编辑器**和**存储管理员**。为了更好地理解角色，请查看 https://cloud.google.com/iam/docs/understanding-roles[。](https://cloud.google.com/iam/docs/understanding-roles)
 
-[![](../Images/5de3249f1d5d72f07a06494afaa918ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5Efi4ZbQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3664/1%2ATNrbHjtWnwRVAuXTOJCKcA.png)
+[![](img/5de3249f1d5d72f07a06494afaa918ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5Efi4ZbQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3664/1%2ATNrbHjtWnwRVAuXTOJCKcA.png)
 
 既然我们已经设置了 Google App Engine，我们可以使用**服务帐户**部署我们的 Angular 应用程序。运行以下命令，第一个是使用服务帐户进行身份验证，第二个是部署 Angular 应用程序。选项“—项目”是**项目 ID** 。
 
@@ -200,29 +200,29 @@ $ npm install puppeteer --save
 
 将所有之前的更新推送到资源库，并检查 **CI/CD** 下 GitLab 的**管道**。
 
-[![](../Images/a1b7af0a728a5b54cfd7e59587a84630.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b4SDMPjk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/4076/1%2AYNWsZjoPCgoiy31CNPP8Eg.png)
+[![](img/a1b7af0a728a5b54cfd7e59587a84630.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b4SDMPjk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/4076/1%2AYNWsZjoPCgoiy31CNPP8Eg.png)
 
 点击左侧显示**通过**的图标，访问作业。
 
-[![](../Images/81e19a3ef50a66b37877d21f10271808.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KQiR07Mi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Aq0oCWj45gQFTYu1eQ_XsrA.png)
+[![](img/81e19a3ef50a66b37877d21f10271808.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KQiR07Mi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Aq0oCWj45gQFTYu1eQ_XsrA.png)
 
 ### 发布
 
 让我们创建一个发布来检查我们的发布工作。在 GitLab 中，在**库**下的侧菜单中，你会找到**标签**。
 
-[![](../Images/8b9d8444bbd21726f560e58871630e83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PwoJh2qX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/4060/1%2A0p0JJtz6noRv_qZGvF8mUA.png)
+[![](img/8b9d8444bbd21726f560e58871630e83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PwoJh2qX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/4060/1%2A0p0JJtz6noRv_qZGvF8mUA.png)
 
 我们的第一个版本被创建
 
-[![](../Images/7d99ba95dafdf8a13e4cb58deca49210.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TXhsxsRw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A574LOcpsYgFLQOCycMgk6g.png)
+[![](img/7d99ba95dafdf8a13e4cb58deca49210.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TXhsxsRw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A574LOcpsYgFLQOCycMgk6g.png)
 
 让我们单击与发布相关联的 git 引用中的链接，然后单击 pipeline 选项。我们的管道现在有一个额外的步骤，**构建**。
 
-[![](../Images/75dc5900167c473d561a788c0246ee07.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2XsonISq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AM3sV96VRqaHCc1HwsznS0A.png)
+[![](img/75dc5900167c473d561a788c0246ee07.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2XsonISq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AM3sV96VRqaHCc1HwsznS0A.png)
 
 在标签下，你可以选择下载你的新版本。您可以通过选择**下载‘发布 _ 作业’**来完成。
 
-[![](../Images/471848e837cf412271a1124804f4c06a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HMXzubFi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/4052/1%2Ar7i31s3m3jdILOkCnexPcA.png)
+[![](img/471848e837cf412271a1124804f4c06a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HMXzubFi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/4052/1%2Ar7i31s3m3jdILOkCnexPcA.png)
 
 ## Angular 6+git lab+Google App 引擎
 
@@ -234,7 +234,7 @@ $ npm install puppeteer --save
 
 在 GitLab 项目的设置菜单下，我们会找到**变量**菜单，点击展开。
 
-[![](../Images/dd3add2ad28b5e23deac61d8e4443f77.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LLUve7Rb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3132/1%2AmJUnzWerg6vNahS-ZRcXuw.png)
+[![](img/dd3add2ad28b5e23deac61d8e4443f77.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LLUve7Rb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3132/1%2AmJUnzWerg6vNahS-ZRcXuw.png)
 
 创建两个变量:
 
@@ -256,7 +256,7 @@ $ npm install puppeteer --save
 
 *   环境:这允许我们在必要时回滚。当部署成功时，它会出现在 **GitLab 的操作>环境**下。
 
-[![](../Images/51e572f3f2a2a85e7c884a4123b51fe4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xkWhDNqo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3860/1%2AOfi99QMOcfbGhDPgKgB3ig.png)
+[![](img/51e572f3f2a2a85e7c884a4123b51fe4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xkWhDNqo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3860/1%2AOfi99QMOcfbGhDPgKgB3ig.png)
 
 *   **before_script** :只有部署所需的脚本。
 
@@ -270,7 +270,7 @@ $ npm install puppeteer --save
 
 下一次我们**创建发布/标签**时，我们的**管道**中将会有新的东西。
 
-[![](../Images/edb95febc817bb9b0c7ea3ec0f409941.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C_bBS-d3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2448/1%2AO84mXoZxo3JtZWwnkzmTAA.png)
+[![](img/edb95febc817bb9b0c7ea3ec0f409941.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C_bBS-d3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2448/1%2AO84mXoZxo3JtZWwnkzmTAA.png)
 
 按下 ***播放*** ， **Angular** 应用将通过 **GitLab 的光盘部署到 **Google App Engine** 。**
 

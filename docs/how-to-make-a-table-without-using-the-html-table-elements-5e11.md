@@ -60,7 +60,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这张桌子的样式并不复杂。需要注意的重要一点是 table 类的 flex 值。这是使列 div 彼此相邻的原因。在 row 类中，您将看到 border 和 height 属性的值。你的桌子不一定要有这些才能工作。他们现在就在这里，所以我可以向你展示这是什么样子。
 
-[![basic CSS table](../Images/c7ce4b7d26c750719525b8351a5dae6d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Btsh_d78--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s6jsh1dmito2vs7psql6.JPG)
+[![basic CSS table](img/c7ce4b7d26c750719525b8351a5dae6d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Btsh_d78--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s6jsh1dmito2vs7psql6.JPG)
 
 现在你可以在行 divs 中写任何代码，它会出现在这个表中。这绝不是使用 CSS 制作表格的唯一方法。我在 CSS Flexbox 和 CSS Grid 上写了一整套东西，它肯定会向你展示更多的东西。
 

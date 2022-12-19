@@ -39,7 +39,7 @@
 你要建立一个货币转换器。
 以下是截图:
 
-[![Converter screenshot](../Images/d3ad97a11ea453d578d2b5ffb098165f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Owd34APN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/39e5ho0vdsgbfb3uqxja.PNG) 
+[![Converter screenshot](img/d3ad97a11ea453d578d2b5ffb098165f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Owd34APN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/39e5ho0vdsgbfb3uqxja.PNG) 
 你可以使用由 [OpenRates.io](http://www.openrates.io/)
 提供的免费 api，这个应用程序将向你展示如何理解:
 
@@ -54,7 +54,7 @@
 
 我使用 OpenRates api 获取我的汇率，并使用 create-react-app 为我的项目生成一个基础结构。此外，我使用“axios”来处理我的请求。下面是我对转换器组件的目录结构:
 
-[![directory structure](../Images/2e0f48f9424919d5f26f5eec1957d0f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--99TWRXvo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bd152b7vxejao50ht1i4.PNG)
+[![directory structure](img/2e0f48f9424919d5f26f5eec1957d0f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--99TWRXvo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bd152b7vxejao50ht1i4.PNG)
 
 下面是完整的 Converter.js
 

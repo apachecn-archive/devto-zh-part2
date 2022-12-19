@@ -20,11 +20,11 @@ head -仅显示一定量的输出。
 
 转动这个>
 
-[![A terminal with a long line before the dollar sign](../Images/e0c54bb52ba4b87900f527462c07e463.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xpag0FzQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/37kqeccxn8y1q36ku4p1.png)
+[![A terminal with a long line before the dollar sign](img/e0c54bb52ba4b87900f527462c07e463.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xpag0FzQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/37kqeccxn8y1q36ku4p1.png)
 
 到此>
 
-[![a terminal with just a dollar sign](../Images/4f5b177ea87568d74a1730ea5029e7d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o7SDGUOu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/98gyh8ofeek36n4wke7h.png)
+[![a terminal with just a dollar sign](img/4f5b177ea87568d74a1730ea5029e7d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o7SDGUOu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/98gyh8ofeek36n4wke7h.png)
 
 把这个加到你的~/里就行了。bashrc:
 

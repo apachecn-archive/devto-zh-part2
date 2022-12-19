@@ -15,7 +15,7 @@
 > *   While 和 for 循环
 > *   条件概率
 
-[![Dice being rolled](../Images/763ad631ca94f0c16b3861f1ce278994.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LBV-g0FN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://crunchingnumbersdotlive.files.wordpress.com/2016/01/dice.jpg)
+[![Dice being rolled](img/763ad631ca94f0c16b3861f1ce278994.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LBV-g0FN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://crunchingnumbersdotlive.files.wordpress.com/2016/01/dice.jpg)
 
 ### 2。[彭尼的游戏](https://crunchingnumbers.live/2016/01/28/monte-carlo-simulations-penneys-game/)
 
@@ -26,7 +26,7 @@
 > *   用户定义的函数
 > *   康威算法
 
-[![Probability distribution of winning Penney's game](../Images/7afe130f792f7ce865146ce2cf8004cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nD4a4mUS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://crunchingnumbersdotlive.files.wordpress.com/2016/01/penney_ante_distribution3.jpg)
+[![Probability distribution of winning Penney's game](img/7afe130f792f7ce865146ce2cf8004cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nD4a4mUS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://crunchingnumbersdotlive.files.wordpress.com/2016/01/penney_ante_distribution3.jpg)
 
 ### 3。[布冯的针](https://crunchingnumbers.live/2016/02/01/monte-carlo-simulations-buffons-needle/)
 
@@ -39,7 +39,7 @@
 > *   矢量化(并行化)
 > *   多态性
 
-[![Needles intersecting lines](../Images/336e23262fa8934a771863e3d0a99e85.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o-ONQqUu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://crunchingnumbersdotlive.files.wordpress.com/2016/01/buffons_needle.jpg)
+[![Needles intersecting lines](img/336e23262fa8934a771863e3d0a99e85.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o-ONQqUu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://crunchingnumbersdotlive.files.wordpress.com/2016/01/buffons_needle.jpg)
 
 ### 4。[你的心有多大？](https://crunchingnumbers.live/2016/02/05/monte-carlo-simulations-how-big-is-your-heart/)
 
@@ -49,4 +49,4 @@
 > *   边界值分析
 > *   尺寸相关模拟
 
-[![Hearts of various sizes](../Images/f799fd29e32f6d6a942c0c6f7c02b421.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WvGsg9Pv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://crunchingnumbersdotlive.files.wordpress.com/2016/02/heart_shape1.png)
+[![Hearts of various sizes](img/f799fd29e32f6d6a942c0c6f7c02b421.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WvGsg9Pv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://crunchingnumbersdotlive.files.wordpress.com/2016/02/heart_shape1.png)

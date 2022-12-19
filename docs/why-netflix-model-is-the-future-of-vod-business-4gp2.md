@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/amndasmit/why-netflix-model-is-the-future-of-vod-business-4gp2>
 
-[![Netflix Business Model](../Images/6cf18879ea938f22daf64350f1c9b4e3.png)](https://streamhash.com/netflix-business-model/) 
+[![Netflix Business Model](img/6cf18879ea938f22daf64350f1c9b4e3.png)](https://streamhash.com/netflix-business-model/) 
 几乎每个行业都受益于数字媒体的繁荣，在线视频点播(VOD)服务也不例外。与传统视频服务不同，OTT 视频流为消费者提供了在方便的时候选择他们希望观看的内容的灵活性，从而改变了市场格局。这些业务因此在网上受众中获得了巨大的欢迎，每年都有数以百万计的人加入。像网飞这样提供 VOD 订阅服务的巨头在 200 多个国家拥有 9000 万订户，并且由于它通过了解现代消费者群的兴趣而提供独特和吸引人的内容，每年都有更多的订户。
 
 现在让我们讨论一些被广泛采用的 VOD 商业模式，它们吸引什么类型的观众以及 VOD 商业的未来在哪里。

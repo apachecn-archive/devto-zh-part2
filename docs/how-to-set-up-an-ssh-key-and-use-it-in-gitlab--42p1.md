@@ -94,7 +94,7 @@ The key's randomart image is:
 去打开`id_rsa.pub`文件(你可以使用任何你想要的文本编辑器)。
 T3 复制那个文件的全部内容然后打开`https://gitlab.com/profile/keys`。
 
-[![How GitLab SSH Keys page looks](../Images/ec018c7ff156a01e7e499198f20760c2.png "GitLabSSH")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4XBz4sLv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/iD6OVf/Capture-For-BLog.png)
+[![How GitLab SSH Keys page looks](img/ec018c7ff156a01e7e499198f20760c2.png "GitLabSSH")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4XBz4sLv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/iD6OVf/Capture-For-BLog.png)
 
 将您从`id_rsa.pub`复制的内容粘贴到键输入中(**不要添加多余的空格或字符**)。
 

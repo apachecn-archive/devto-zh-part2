@@ -4,7 +4,7 @@
 
 我和一位女士会议发言人聊天，我一口气列出了我的旅行建议，因为这些建议适用于那些为足够小/灵活的公司工作的人，你不必通过公司网站预订。
 
-[![An array of bags and the things they contained, including laptop, cords, stickers, portable keyboard, medicine, neck pillow.](../Images/363b71c7171ce413ea3eb9bd5035004a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sKcX_Sat--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2017/11/20171126_022733-300x225.jpg)
+[![An array of bags and the things they contained, including laptop, cords, stickers, portable keyboard, medicine, neck pillow.](img/363b71c7171ce413ea3eb9bd5035004a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sKcX_Sat--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2017/11/20171126_022733-300x225.jpg)
 
 去年的会议旅行分类。从那以后我升级了我的包。
 
@@ -29,6 +29,6 @@
 
 额外提示:如果你有时间的话，选择一个你喜欢看的旅游景点，在你去的城市找找看。我喜欢植物园。
 
-[![Spiky green glass sculptures that echo the shapes of desert plants.](../Images/1e11994bb08d41052e5a3fb85d06f366.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N1fmafno--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2017/11/20171025_153638-225x300.jpg)
+[![Spiky green glass sculptures that echo the shapes of desert plants.](img/1e11994bb08d41052e5a3fb85d06f366.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N1fmafno--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2017/11/20171025_153638-225x300.jpg)
 
 凤凰植物园的玻璃和生物学

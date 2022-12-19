@@ -4,7 +4,7 @@
 
 1.  找到你的调色板或创建一个新的。
 2.  用调色板打开链接(例如:[https://colorswall.com/palette/3](https://colorswall.com/palette/3))。
-3.  按“导出”按钮。![Export colors palette to SCSS,LESS,CSS variables file](../Images/6297f2b9b686e782823c3541e61f902f.png)
+3.  按“导出”按钮。![Export colors palette to SCSS,LESS,CSS variables file](img/6297f2b9b686e782823c3541e61f902f.png)
 4.  选择文件类型 SCSS，少或 CSS，并按下“下载”按钮。
 5.  保存文件并享受。
 

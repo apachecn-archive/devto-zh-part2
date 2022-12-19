@@ -10,7 +10,7 @@ Mailgun 邮件列表允许您创建一个电子邮件地址，您可以订阅成
 
 让我们从创建示例邮件列表开始。我们可以从仪表板或 Mailgun API 中完成这项工作。
 
-[![](../Images/f818b26c641b367128a0e1925fbbe983.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XIZW4FFu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://obem.be/assets/image/2018/04/create.png)
+[![](img/f818b26c641b367128a0e1925fbbe983.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XIZW4FFu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://obem.be/assets/image/2018/04/create.png)
 
 > 注意事项:
 > 
@@ -64,7 +64,7 @@ stripe.charges.create({
 
 您也可以使用 Mailgun 仪表板中的**邮件列表**下的批量上传选项将现有用户添加到列表中。
 
-[![](../Images/e5ff41659c242d10296979811296108c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uddQPzLA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://obem.be/assets/image/2018/04/bulk.png)
+[![](img/e5ff41659c242d10296979811296108c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uddQPzLA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://obem.be/assets/image/2018/04/bulk.png)
 
 或者使用大容量插入 API。
 
@@ -185,7 +185,7 @@ Thanks.
 
 或者一个简单的 HTML 模板。
 
-[![](../Images/74c891daf6a9a8438468082d687ff4ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--28sGW0_4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://obem.be/assets/image/2018/04/template.png)
+[![](img/74c891daf6a9a8438468082d687ff4ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--28sGW0_4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://obem.be/assets/image/2018/04/template.png)
 
 [来源此处](https://gist.github.com/kehers/65bfca51458628b173d6cf50e3da56b3)
 

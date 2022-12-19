@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/flexdinesh/render-browser-specific-content-with-react--amm>
 
-[![Browser Banner](../Images/1d8702ffd7cdecb8babb5edd96aed079.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tlEq4tx0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/c8WZ2d/browser_banner.png)
+[![Browser Banner](img/1d8702ffd7cdecb8babb5edd96aed079.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tlEq4tx0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/c8WZ2d/browser_banner.png)
 ***TL；DR** -你可以用一行程序在 React 中呈现特定于浏览器的内容。*
 
 你有没有想过给你所有的 IE 用户挂个横幅，让他们用 Chrome/Firefox 试试你的网站？

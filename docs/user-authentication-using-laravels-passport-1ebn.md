@@ -69,7 +69,7 @@ Composer 可以根据您的要求进行全球安装或本地安装。我们现�
 
 在我们的应用程序中成功安装 Passport 包后，我们需要设置他们的服务提供商。因此，打开您的`config/app.php`文件并在其中添加以下提供者。
 
-[![Imgur](../Images/b8713ee397285c91b790dbe0d543c7dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_pn_DbXp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/2KhTSZS.png)
+[![Imgur](img/b8713ee397285c91b790dbe0d543c7dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_pn_DbXp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/2KhTSZS.png)
 
 现在，Passport 服务提供者向框架注册了自己的数据库迁移目录，所以您应该在注册提供者之后迁移您的数据库。Passport 迁移将创建应用程序存储客户机和访问令牌所需的表。
 
@@ -81,7 +81,7 @@ Composer 可以根据您的要求进行全球安装或本地安装。我们现�
 
 `php artisan migrate`
 
-[![Imgur](../Images/7568cd35d5921a86942cf15cdbac2cb5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G_2c1R6x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/yKmo2Qx.png)
+[![Imgur](img/7568cd35d5921a86942cf15cdbac2cb5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G_2c1R6x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/yKmo2Qx.png)
 
 接下来，您应该运行`passport:install`命令。此命令将创建生成安全访问令牌所需的加密密钥。此外，该命令将创建“个人访问”和“密码授权”客户端，它们将用于生成访问令牌:
 
@@ -89,15 +89,15 @@ Composer 可以根据您的要求进行全球安装或本地安装。我们现�
 
 运行该命令后，将`Laravel\Passport\HasApiTokens`特征添加到您的`App\User(Location - app\User.php)`模型中。这个特性将为您的模型提供一些助手方法，允许您检查经过身份验证的用户的令牌和范围:
 
-[![Imgur](../Images/3054203c7db0ac4cd4c127831c390763.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--axM11iHu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/8mlxf5c.png)
+[![Imgur](img/3054203c7db0ac4cd4c127831c390763.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--axM11iHu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/8mlxf5c.png)
 
 接下来，您应该在您的`AuthServiceProvider(Location - app\Providers\AuthServiceProvider.php)`的 boot 方法中调用`Passport::routes`方法。此方法将注册颁发访问令牌和撤销访问令牌、客户端和个人访问令牌所需的路由:
 
-[![Imgur](../Images/914e490a5dcefc9c9e57ee44c158eb84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--62AG6uLO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/wt89LNw.png)
+[![Imgur](img/914e490a5dcefc9c9e57ee44c158eb84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--62AG6uLO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/wt89LNw.png)
 
 最后，在您的`config/auth.php`配置文件中，您应该将`api`认证守卫的`driver`选项设置为`passport`。这将指示您的应用程序在验证传入的 API 请求时使用 Passport 的`TokenGuard`:
 
-[![Imgur](../Images/fe03f1668b94e652708eab02000f0108.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fdInKsU1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/DXfBaBw.png)
+[![Imgur](img/fe03f1668b94e652708eab02000f0108.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fdInKsU1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/DXfBaBw.png)
 
 # 现在，我们来写一个登录和注销的控制器。
 
@@ -109,23 +109,23 @@ Composer 可以根据您的要求进行全球安装或本地安装。我们现�
 
 如果没有找到带有请求电子邮件的用户，则遵循与密码不匹配场景相同的过程。
 
-[![Imgur](../Images/e012bab7eb4376e92c5c9e30645edbeb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5Hv0_YxU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/WVgHLqc.png)
+[![Imgur](img/e012bab7eb4376e92c5c9e30645edbeb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5Hv0_YxU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/WVgHLqc.png)
 
 ### 注销
 
 注销的逻辑是从请求头中检索令牌。那么我们将显式地撤销令牌。
 
-[![Imgur](../Images/3789d759af9d1c7d9d5b3c161695c61f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m0InyDmg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/e0yd7gx.png)
+[![Imgur](img/3789d759af9d1c7d9d5b3c161695c61f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m0InyDmg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/e0yd7gx.png)
 
 我们的最终控制器将如下所示:
 
-[![Imgur](../Images/71e74d6ddbfcd3e880611701316bd25a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XDMa5M9J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/2N4WqUi.png)
+[![Imgur](img/71e74d6ddbfcd3e880611701316bd25a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XDMa5M9J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/2N4WqUi.png)
 
 # 路线
 
 所有的 Laravel 路径都在路径文件中定义，路径文件位于路径目录中。我们将使用`api.php`来定义我们的 API 路线。我们将定义两条路由，即- login 和 logut。记住，登录是公共路由，注销是私有路由。路由文件现在将如下所示:
 
-[![Imgur](../Images/ed559bbfb95f82f23108017e1268c56e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zvjcC1Yf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/DwlwAHZ.png)
+[![Imgur](img/ed559bbfb95f82f23108017e1268c56e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zvjcC1Yf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/DwlwAHZ.png)
 
 # 使用 Postman 测试我们的 API
 
@@ -135,12 +135,12 @@ Postman 是一个支持和增强 API 开发的平台。
 
 测试登录- `POST http://localhost/laravel-passport/public/api/login`
 
-[![Imgur](../Images/19de3d3e98a62ca1fc6c877bbe627afc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X978DjTK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/I92bb1j.png)
+[![Imgur](img/19de3d3e98a62ca1fc6c877bbe627afc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X978DjTK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/I92bb1j.png)
 
 测试注销- `GET http://localhost/laravel-passport/public/api/logout`
 
 现在，复制令牌并将其设置为 header。
 
-[![Imgur](../Images/57c6d74a3d208a6cf72850b7515ba71d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7twLyHg1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/OWvcQyn.png)
+[![Imgur](img/57c6d74a3d208a6cf72850b7515ba71d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7twLyHg1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/OWvcQyn.png)
 
 请随意查看最终的[代码库](https://github.com/TheWebDevel/laravel-passport)

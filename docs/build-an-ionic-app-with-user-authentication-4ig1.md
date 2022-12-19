@@ -48,11 +48,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 该命令将打开您在 [http://localhost:8100](http://localhost:8100) 上的默认浏览器。你可以使用 Chrome 的设备工具栏来查看该应用程序在 iPhone 6 上的外观。
 
-[![Welcome to Ionic](../Images/e2a23e9880987cc89db0ca8470439b31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2TashILJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/welcome-to-ionic-2de4557f99caa03e895380b0627547e82d8b7a365301745c231d8be9ccde9738.png)
+[![Welcome to Ionic](img/e2a23e9880987cc89db0ca8470439b31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2TashILJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/welcome-to-ionic-2de4557f99caa03e895380b0627547e82d8b7a365301745c231d8be9ccde9738.png)
 
 Ionic 的`serve`命令的一个巧妙之处是它在浏览器中显示编译错误，而不是在(有时是隐藏的)开发者控制台中。例如，如果您给`app.component.ts`中的`rootPage`变量赋予了一个无效的类型，您将会看到如下所示的错误。
 
-[![TypeScript Error](../Images/e8450fd4f46786292134819060495af8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3vNxmTZx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/typescript-error-8cae045f9dcd9160d3ed4ae07aeed07845a858d2db1360bc156142f789ac161d.png)
+[![TypeScript Error](img/e8450fd4f46786292134819060495af8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3vNxmTZx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/typescript-error-8cae045f9dcd9160d3ed4ae07aeed07845a858d2db1360bc156142f789ac161d.png)
 
 ## 添加用户认证
 
@@ -76,7 +76,7 @@ OpenID Connect (OIDC)建立在 OAuth 2.0 协议之上。它允许客户端验证
 *   给你的应用命名(如“离子 OIDC”)
 *   将**基地 URI** 和**登录重定向 URI** 到`http://localhost:8100`点击**完成**。您应该会看到如下设置:
 
-[![Okta OIDC Settings](../Images/62846796763dbda9375662d68abac06c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VU1Zd6LK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/oidc-settings-46747e5e9af164cf56d05f055a659520252558872d9319cadd831d5e7104b990.png)
+[![Okta OIDC Settings](img/62846796763dbda9375662d68abac06c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VU1Zd6LK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/oidc-settings-46747e5e9af164cf56d05f055a659520252558872d9319cadd831d5e7104b990.png)
 
 ## 创建登录页面
 
@@ -263,7 +263,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在应该加载登录屏幕。你可以使用 Chrome 的设备工具栏来看看它在 iPhone 6 上会是什么样子。
 
-[![Login Page](../Images/e23fa25a2310da8335fdc46101c7055d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6W4doY2e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/login-page-3091baa708880a862442451fddb4d2e746ac4b7dad9a77db1b6099b8b28e8261.png)
+[![Login Page](img/e23fa25a2310da8335fdc46101c7055d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6W4doY2e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/login-page-3091baa708880a862442451fddb4d2e746ac4b7dad9a77db1b6099b8b28e8261.png)
 
 在`src/app/pages/login/login.ts`中添加一个`login()`方法，该方法使用 Okta Auth SDK 来 1)登录和 2)将会话令牌交换为身份和访问令牌。ID 令牌类似于身份证，采用标准的 JWT 格式，由 OpenID 提供商签名。访问令牌是 OAuth 规范的一部分。接入令牌可以是 JWT。它们用于访问受保护的资源，通常是在发出请求时将它们设置为`Authentication`头。
 
@@ -342,7 +342,7 @@ export class BeerService {
 
 Enter fullscreen mode Exit fullscreen mode
 
-您可以(可选地)通过在表单上方添加一个徽标来美化登录屏幕。下载[这张图片](https://www.okta.com/sites/all/themes/Okta/images/blog/Logos/Okta_Logo_BrightBlue_Medium.png)，复制到`src/assets/imgs/okta.png`，在`login.html`中的`<form>`标签上方添加以下内容。您可能需要编辑图像，使其宽度仅为 300 像素。这将它的大小从 110 KB 减少到 12 KB。
+您可以(可选地)通过在表单上方添加一个徽标来美化登录屏幕。下载[这张图片](https://www.okta.com/sites/all/themes/Okimg/blog/Logos/Okta_Logo_BrightBlue_Medium.png)，复制到`src/assets/imgs/okta.png`，在`login.html`中的`<form>`标签上方添加以下内容。您可能需要编辑图像，使其宽度仅为 300 像素。这将它的大小从 110 KB 减少到 12 KB。
 
 ```
 <ion-row>
@@ -445,11 +445,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，您应该可以在登录时看到您的姓名和索赔信息。
 
-[![Home claims](../Images/58c1c6631d14853435b5215550dad35b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NCd8T6vK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/home-claims-daf6b5729a3b77345b2cc1e9bf9e3077e32b1cafce795fa4e0b8c06f2de4b411.png)
+[![Home claims](img/58c1c6631d14853435b5215550dad35b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NCd8T6vK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/home-claims-daf6b5729a3b77345b2cc1e9bf9e3077e32b1cafce795fa4e0b8c06f2de4b411.png)
 
 您还应该能够注销并看到带有徽标的登录屏幕。
 
-[![Login with logo](../Images/9925838cb4bdba05170aad25fc7f3d44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OR_jFkDK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/login-with-logo-95c6223626ff262ff1db89dfc8b7e3c7ed0e23b174769cf5a6aa23d2d1da3420.png)
+[![Login with logo](img/9925838cb4bdba05170aad25fc7f3d44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OR_jFkDK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/login-with-logo-95c6223626ff262ff1db89dfc8b7e3c7ed0e23b174769cf5a6aa23d2d1da3420.png)
 
 ## 部署到移动设备
 
@@ -457,7 +457,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 要查看您的应用程序在不同设备上的外观，您可以运行`ionic serve --lab`。`--lab`标志会在您的浏览器中打开一个页面，让您看到您的应用程序将如何在各种设备上显示。
 
-[![Ionic labs](../Images/302eb9a7e995bf412e61e4df94b7c02c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--naioK4Fw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/ionic-labs-af72a6964445850e20e953512d6891e76e3d847194036cc478721fadf8480ff3.png)
+[![Ionic labs](img/302eb9a7e995bf412e61e4df94b7c02c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--naioK4Fw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/ionic-labs-af72a6964445850e20e953512d6891e76e3d847194036cc478721fadf8480ff3.png)
 
 加载时，`LoginPage`试图自动聚焦到`email`字段。要自动激活键盘，你需要告诉 Cordova，可以在没有用户交互的情况下显示键盘。你可以通过在根目录的`config.xml`中添加以下内容来实现。
 
@@ -497,11 +497,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果您在登录屏幕上输入您的凭证，您会注意到什么也没有发生。打开 Safari，导航到**开发** > **模拟器** > MyApp / **登录**，你会看到最终控制台会出现一个错误。如果您没有看到开发菜单，请查看本文[中的步骤](https://www.computerworld.com/article/3156141/apple-mac/how-to-use-the-safari-develop-menu-on-a-mac.html)来启用它。
 
-[![Web Inspector Error](../Images/d53fd6e870ca2b6573c7c6df2b3aa2f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6q5v5i_T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/webinspector-error-e0926c559701d4b55e965af97dd0dea9e59f4575c3c09e788e15cecc0dc93cc4.png)
+[![Web Inspector Error](img/d53fd6e870ca2b6573c7c6df2b3aa2f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6q5v5i_T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/webinspector-error-e0926c559701d4b55e965af97dd0dea9e59f4575c3c09e788e15cecc0dc93cc4.png)
 
 如果使用网络选项卡，您可以看到只发出了一个网络请求(对`/authn`)，这与在浏览器中运行时发出的两个请求(对`/authn`和`/authorize`)不同。
 
-[![DevTools Network Requests](../Images/31477b988bb215a0e56e9725b1885dc6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tBjOajas--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/devtools-network-requests-f8f4f42856ce9d831c7b99ce7044753b3b97c79a2fcbb25af619b20d95dae1a0.png)
+[![DevTools Network Requests](img/31477b988bb215a0e56e9725b1885dc6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tBjOajas--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/devtools-network-requests-f8f4f42856ce9d831c7b99ce7044753b3b97c79a2fcbb25af619b20d95dae1a0.png)
 
 我相信当应用程序与 Cordova 打包在一起时，这是行不通的，因为它使用嵌入的 iframe 向服务器发出请求，然后使用 postMessage 发送回当前窗口。似乎 Ionic/Cordova(目前)还不支持这种流量。要解决这个问题，您可以使用 Cordova 提供的应用内浏览器直接与 Okta 的 OAuth 服务对话。 [Nic Raboy](https://twitter.com/nraboy) 展示了如何在 Ionic 2 移动应用中使用 OAuth 2.0 服务与[的脸书一起完成这项工作。](https://www.thepolyglotdeveloper.com/2016/01/using-an-oauth-2-0-service-within-an-ionic-2-mobile-app/)
 
@@ -632,7 +632,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，您应该可以通过点击“使用 Okta 登录”按钮并输入有效凭证来登录。
 
-[![Emulator Login](../Images/e533ada76facdd15b3c2168a962a0aae.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---kQlVEwZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/emulator-login-c4b218091f6549081c063e2eb71af4b1bcf371d49cffd109d3f77e6019ec85ce.png)[![Emulator Okta Login](../Images/6e2509e0450f33ef9956dc8d8c68cbd1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lvl5zFZT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/emulator-okta-login-03521c0da232257989de99fe3c41e81f1c822d1397d4b5e2e8a5371b21aef085.png)[![Emulator Home](../Images/04c4fe865b73b61ed298621fa64bceea.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--aj_6jsde--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/emulator-home-935f74e0cd70e31bcf49f782c0b1371c8ad1af4d44f6da3002a91cbf42a95d55.png)
+[![Emulator Login](img/e533ada76facdd15b3c2168a962a0aae.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---kQlVEwZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/emulator-login-c4b218091f6549081c063e2eb71af4b1bcf371d49cffd109d3f77e6019ec85ce.png)[![Emulator Okta Login](img/6e2509e0450f33ef9956dc8d8c68cbd1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lvl5zFZT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/emulator-okta-login-03521c0da232257989de99fe3c41e81f1c822d1397d4b5e2e8a5371b21aef085.png)[![Emulator Home](img/04c4fe865b73b61ed298621fa64bceea.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--aj_6jsde--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/emulator-home-935f74e0cd70e31bcf49f782c0b1371c8ad1af4d44f6da3002a91cbf42a95d55.png)
 
 使用这种技术的好处是 Okta 登录屏幕支持记住我和忘记密码，所以您不需要自己编写代码。
 
@@ -667,7 +667,7 @@ Ionic 的部署文档提供了解决这一问题的说明。
 
 配置好手机、电脑和 Apple ID 后，您应该可以打开应用程序并登录。下面是它在我的 iPhone 上的样子。
 
-[![Emulator Login](../Images/8ef19c4e059a10a5cadc4256c0987856.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nkObHUFf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/iphone-login-5f731e6ba21115febd9c4c21ba802c636370a5eeb9d9e3b47812bb64171c1efb.png)[![Emulator Okta Login](../Images/db4e1afbcdb5b80f8e959905b900c5fc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WcsAWgvK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/iphone-okta-login-920b0eb85c7865bb6e822e471c4ff5655050ac7342832bbb21cf9a928516dfc0.png)[![Emulator Home](../Images/0715e1e02e8a1a89d8cba2bdf3302762.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6LZeLk05--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/iphone-home-f50201f8cc12ab535ee9583a23990c218cc9a23b50bba61302ae708ae9dd8d47.png)
+[![Emulator Login](img/8ef19c4e059a10a5cadc4256c0987856.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nkObHUFf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/iphone-login-5f731e6ba21115febd9c4c21ba802c636370a5eeb9d9e3b47812bb64171c1efb.png)[![Emulator Okta Login](img/db4e1afbcdb5b80f8e959905b900c5fc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WcsAWgvK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/iphone-okta-login-920b0eb85c7865bb6e822e471c4ff5655050ac7342832bbb21cf9a928516dfc0.png)[![Emulator Home](img/0715e1e02e8a1a89d8cba2bdf3302762.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6LZeLk05--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/iphone-home-f50201f8cc12ab535ee9583a23990c218cc9a23b50bba61302ae708ae9dd8d47.png)
 
 ### 安卓
 
@@ -690,7 +690,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 执行这些步骤后，您应该能够运行`ionic cordova emulate android`并看到您的应用程序在 AVD 中运行。
 
-[![Android Login](../Images/10052f634ec90dc81502c59cfc1bc4bb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bz8Z2IKx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/android-login-a0363756fc25a974e87668bc0900acb783f7eec80a1b83b0c5de0a5016004f94.png)[![Android Okta Login](../Images/4503cfad017f8408b124595786c7b593.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Nqpo5If1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/android-okta-login-bb57b05d91580c165352d0f21d2da0415827601a25720ec2121f269ae20618ae.png)[![Android Home](../Images/b26b0310f75dba9edd2676d98bd200ee.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hR1SlPSG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/android-home-9438a0b8324d932abc0dcece445af75c8009350e683bb46d526baaa614e1de13.png)
+[![Android Login](img/10052f634ec90dc81502c59cfc1bc4bb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bz8Z2IKx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/android-login-a0363756fc25a974e87668bc0900acb783f7eec80a1b83b0c5de0a5016004f94.png)[![Android Okta Login](img/4503cfad017f8408b124595786c7b593.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Nqpo5If1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/android-okta-login-bb57b05d91580c165352d0f21d2da0415827601a25720ec2121f269ae20618ae.png)[![Android Home](img/b26b0310f75dba9edd2676d98bd200ee.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hR1SlPSG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ionic-authentication/android-home-9438a0b8324d932abc0dcece445af75c8009350e683bb46d526baaa614e1de13.png)
 
 **注意**:如果你得到一个应用程序错误，说“服务器连接不成功。(`file:///android/www/index.html`)”，在`config.xml`中增加下面一行。这一行将默认超时设置为 60 秒(默认值为 20)。感谢[栈溢出社区](http://stackoverflow.com/a/31377846)提供了这个解决方案。
 

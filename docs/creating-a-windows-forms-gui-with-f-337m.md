@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/vivainio/creating-a-windows-forms-gui-with-f-337m>
 
-[![](../Images/8443376c31469e51996fe46766eb438c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ze5I1uv6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/559/1%2AjAJoDLM4IRmo3EEls2IavA.jpeg)
+[![](img/8443376c31469e51996fe46766eb438c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ze5I1uv6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/559/1%2AjAJoDLM4IRmo3EEls2IavA.jpeg)
 
 Windows 窗体并没有死——自从微软宣布他们将在[支持它以来，它现在比过去几年更有活力。NET Core 3.0](https://blogs.msdn.microsoft.com/dotnet/2018/05/07/net-core-3-and-support-for-windows-desktop-applications/) ，你将能够[在表单应用中嵌入“现代”UWP 控件](https://docs.microsoft.com/en-us/windows/uwp/xaml-platform/xaml-host-controls)。
 
@@ -30,7 +30,7 @@ Windows 窗体并没有死——自从微软宣布他们将在[支持它以来�
 
 我将采用一种快捷方式，使用一个 [Scaffer 模板](https://github.com/vivainio/scaffer-templates)来创建应用程序框架:
 
-[![](../Images/5441ebce4e3af0d794436c5b98454f33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gF04dcn5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/686/1%2Azhmw1J5UeS3fId7uN_-xQw.png)
+[![](img/5441ebce4e3af0d794436c5b98454f33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gF04dcn5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/686/1%2Azhmw1J5UeS3fId7uN_-xQw.png)
 
 呀！那是一大堆东西。恐惧，不，你只需要关心他们中的少数人。如果你点击文件，你会注意到:
 
@@ -39,12 +39,12 @@ Windows 窗体并没有死——自从微软宣布他们将在[支持它以来�
 
 当您构建并启动应用程序时，您将看到最小的默认功能在运行:
 
-[![](../Images/35efb53db2d3668fa471ff665d9f2cb6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GOEj-I2Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/301/1%2A_vT2FfVc10uxKW_SzxV36g.png)
+[![](img/35efb53db2d3668fa471ff665d9f2cb6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GOEj-I2Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/301/1%2A_vT2FfVc10uxKW_SzxV36g.png)
 
 (为了验证这种行为，我建议单击几次按钮，观察标签中“Lorem ipsum”后面的数字在每次单击时是如何递增的)。
 
 在设计器中是这样的(双击 MathManForm.cs 查看设计视图):
 
-[![](../Images/5a1b9153a2e897fa0aab379cf7174639.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FPn295IH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/373/1%2AVcBCTfXg-N9bVWorBO3SqA.png)
+[![](img/5a1b9153a2e897fa0aab379cf7174639.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FPn295IH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/373/1%2AVcBCTfXg-N9bVWorBO3SqA.png)
 
 并按 f7 键进入代码:

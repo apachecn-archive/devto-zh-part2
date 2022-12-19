@@ -4,7 +4,7 @@
 
 测试驱动开发(TDD)是编写可靠软件程序的一种非常好的方法，但是它不是一种非常直观的方法。我最近问了一个问题[你的 TDD 啊哈时刻是什么？](https://dev.to/ben/what-was-your-tdd-aha-moment-h5f)我想分享最热门的评论，它提供了对该主题的深刻见解。
 
-[![leightondarkins profile image](../Images/e8e066e3840f220887f39a02077e5935.png) ](/leightondarkins) [ Leighton Darkins ](/leightondarkins) • [<time datetime="2018-10-29T14:28:25Z" class="date-short-year"> Oct 29 '18 </time>](https://dev.to/leightondarkins/comment/6e1f) 
+[![leightondarkins profile image](img/e8e066e3840f220887f39a02077e5935.png) ](/leightondarkins) [ Leighton Darkins ](/leightondarkins) • [<time datetime="2018-10-29T14:28:25Z" class="date-short-year"> Oct 29 '18 </time>](https://dev.to/leightondarkins/comment/6e1f) 
 
 我经历过的最大的“啊哈”之一是在只有很少单元测试的遗留代码库上工作。
 
@@ -20,7 +20,7 @@
 
 在我软件生涯的早期，我与冒名顶替综合症作斗争，因为 TDD 并不适合我。*没关系* TDD。大多数开发人员不使用这种方法。
 
-[![kaydacode profile image](../Images/8ea90fd5d4f75191ce1c92a6982bff13.png) ](/kaydacode) [ Kim Arnett  ](/kaydacode) • [<time datetime="2018-10-29T17:06:31Z" class="date-short-year"> Oct 29 '18 </time>](https://dev.to/kaydacode/comment/6e36) 
+[![kaydacode profile image](img/8ea90fd5d4f75191ce1c92a6982bff13.png) ](/kaydacode) [ Kim Arnett  ](/kaydacode) • [<time datetime="2018-10-29T17:06:31Z" class="date-short-year"> Oct 29 '18 </time>](https://dev.to/kaydacode/comment/6e36) 
 
 还在等。😂
 
@@ -28,7 +28,7 @@ TDD 是软件开发的更好的方法之一，但是如果它不适合你，不�
 
 如果你对开始使用 TDD 感兴趣，这篇文章可能会有帮助:
 
-[![kylegalbraith](../Images/88a6312db831343b6c7c3b1b5bea970e.png)](/kylegalbraith) [## 今天如何开始测试驱动开发
+[![kylegalbraith](img/88a6312db831343b6c7c3b1b5bea970e.png)](/kylegalbraith) [## 今天如何开始测试驱动开发
 
 ### 凯尔·加尔布雷斯 1818 年 4 月 8 日 14 分钟阅读
 

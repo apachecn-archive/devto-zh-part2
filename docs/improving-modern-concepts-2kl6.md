@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/sfrias/improving-modern-concepts-2kl6>
 
-[![](../Images/a411e112aa12e7207f9ff92e4aa2a82e.png)](/)
+[![](img/a411e112aa12e7207f9ff92e4aa2a82e.png)](/)
 
 鸣谢美国宇航局/加州理工学院/JPL
 

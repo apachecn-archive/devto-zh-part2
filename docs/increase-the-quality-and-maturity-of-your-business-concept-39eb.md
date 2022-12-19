@@ -6,7 +6,7 @@
 
 了解 ARIS 如何通过在您的组织中推广设计标准来帮助您达到并始终如一地确保您的商业理念的卓越品质。
 
-| 2018 年第三期 | [![](../Images/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://bit.ly/2LnlUNm) |
+| 2018 年第三期 | [![](img/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://bit.ly/2LnlUNm) |
 | --- | --- |
 
 记录企业如何运作、如何组织以及不同的商业视角如何相互关联是 ARIS 的核心用例之一。记录流程不仅可以作为业务蓝图，还可以为在概念和操作层面上分析相互依赖关系提供可靠的基础。它被用作流程自动化的基础，例如，在实施软件机器人(机器人流程自动化–RPA)或特定 It 服务方面。它也是向组织的所有员工传达最佳实践知识的重要工具。简而言之，利用 ARIS 创建一个[企业数字孪生兄弟](https://www.softwareag.com/corporate/innovation/enterprise_digital_twin/default.html)，这是一个成熟、高效的商业设计与现实世界应用的逻辑结果，是成功数字化转型的关键驱动力。
@@ -27,7 +27,7 @@
 
 模板已经由 ARIS 自己提供，但模板也可以单独设计或适应一个组织的个人企业身份。模板可以被集中管理并分配给不同的模型类型，从而作为所有建模者和所有设计客户的标准。
 
-[![](../Images/3e6d7f92c46b99c0c9c05fc632c81603.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--d5hr3IdL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/standards.jpg/13dc8c0c-a445-4a7c-a1c1-e7dd41f4639d%3Ft%3D1531814617893) 
+[![](img/3e6d7f92c46b99c0c9c05fc632c81603.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--d5hr3IdL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/standards.jpg/13dc8c0c-a445-4a7c-a1c1-e7dd41f4639d%3Ft%3D1531814617893) 
 
 **图 1:** 集中管理所有设计客户的模板
 
@@ -37,7 +37,7 @@
 
 在许多情况下，自动化可以减少手工建模的工作量。关于前面的例子，数据保护官员可以被自动指定为所有处理活动(处理客户个人数据的活动)的负责人。在其他情况下，对象或模型通过特定的属性被连续编号。这只是两个例子，其中**自动例程**，即报告，可以代替设计者自动进行重复的设计工作。这不仅减少了个人工作量，还降低了出错的风险。
 
-[![](../Images/f191cd33477932491b0daa161f202b56.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--v52i6Svw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/standards2.jpg/7388e390-eb75-4109-8ba8-d778ac5c3b70%3Ft%3D1531814623763) 
+[![](img/f191cd33477932491b0daa161f202b56.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--v52i6Svw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/standards2.jpg/7388e390-eb75-4109-8ba8-d778ac5c3b70%3Ft%3D1531814623763) 
 
 **图 2:** 通过自动程序设计标准
 
@@ -49,7 +49,7 @@
 
 可以使用**语义检查**来对照规则检查 ARIS 存储库中的模型。用户可以选择他的应用场景，例如，对 BPMN 过程建模，这应该在下一步中自动化，ARIS 检查该过程是否适合转移到开发单位，或者是否一个适应的过程应该是下一个版本的一部分，为此它必须通过由定性规则覆盖的**质量关**。
 
-[![](../Images/7301e5b61a9dddc32bf4aa6638fc2ce5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cTM21h_H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/standards3.jpg/b217816b-d579-4331-a64a-7fa0df77ffb8%3Ft%3D1531814628192) 
+[![](img/7301e5b61a9dddc32bf4aa6638fc2ce5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cTM21h_H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/standards3.jpg/b217816b-d579-4331-a64a-7fa0df77ffb8%3Ft%3D1531814628192) 
 
 **图 3:** 智能语义检查
 

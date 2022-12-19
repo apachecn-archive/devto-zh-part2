@@ -6,13 +6,13 @@
 
 然后，你开始你的新工作，你会遇到一个真正的生产代码库。
 
-[![head exploding](../Images/da55e074a326df2c7715742e3cd053bd.png)T2】](https://i.giphy.com/media/l378hQDm0Fd41gb4c/source.gif)
+[![head exploding](img/da55e074a326df2c7715742e3cd053bd.png)T2】](https://i.giphy.com/media/l378hQDm0Fd41gb4c/source.gif)
 
 如果你在一家成熟的公司就职，你会遇到已经工作多年的软件。它经历了多次重构。许多人都为此做出了贡献。如果你进入一个非技术公司的工程团队，时间和资源(或者仅仅是商业决策)可能不允许坚实的 TDD 原则生根发芽。人们可能以各种格式贡献代码，您可能很难在代码库中找到一致性。
 
 您为 Python 做了准备，并且发现您正在使用一个过时的 PHP 版本。您对 React 感到兴奋，并发现自己编写了大量 jQuery。你如何面对这一现实？这只是你必须处理的事情吗？进入这个行业的必要之恶？你有没有数着日子，直到你能找到一个和最新最棒的人一起工作的职位？
 
-[![Seinfeld working on a legacy system](../Images/3c2a6506d8a4f0f2ee8c9e53de803650.png)T2】](https://i.giphy.com/media/dV3GXudtLAbTi/giphy.gif)
+[![Seinfeld working on a legacy system](img/3c2a6506d8a4f0f2ee8c9e53de803650.png)T2】](https://i.giphy.com/media/dV3GXudtLAbTi/giphy.gif)
 
 我在这里提供一个反直觉的想法，这是一个极好的机会！
 

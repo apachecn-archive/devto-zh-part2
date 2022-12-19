@@ -8,4 +8,4 @@
 
 在工作日，我花时间骑自行车锻炼身体，在周末，我试图了解我所在城市的酷地方，比如里约热内卢的“两兄弟山”。
 
-[![Two Brothers Hill](../Images/3796881c714e26164e84d268f1bcfef5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5BAYKMcg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uru93rlmhp2cq7omjyjl.jpg)
+[![Two Brothers Hill](img/3796881c714e26164e84d268f1bcfef5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5BAYKMcg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uru93rlmhp2cq7omjyjl.jpg)

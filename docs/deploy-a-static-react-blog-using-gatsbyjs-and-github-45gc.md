@@ -318,7 +318,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 **祝贺你！**你已经创建了你的第一个静态博客。你可以在这里停下来，运行`gatsby build`让你的博客的生产就绪版本在`public`文件夹中可用。直接上传到你的 FTP 或网络主机上，你就可以开始了。
 
-[![A screenshot of the post page live](../Images/a46df7502f8db838a54cf00914a3f624.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xIpPLeDd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://stayregular.net/content/2-blog/20180416-deploy-a-static-react-blog-using-gatsbyjs-and-github/gatsby-first-blog-gabe-the-dog.png)
+[![A screenshot of the post page live](img/a46df7502f8db838a54cf00914a3f624.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xIpPLeDd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://stayregular.net/content/2-blog/20180416-deploy-a-static-react-blog-using-gatsbyjs-and-github/gatsby-first-blog-gabe-the-dog.png)
 
 但是为什么要止步于此呢？jam stack 的原则之一是使用 **Git** 进行版本控制。这允许你，或者你团队中的任何一个开发人员，轻松地克隆网站的存储库，并创建整个网站的精确副本。它还允许您将新的更改快速推送到服务器，而不是通过 FTP 单独上传文件。
 

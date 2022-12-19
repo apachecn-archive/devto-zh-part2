@@ -6,7 +6,7 @@
 
 今天我们将学习一系列卡片，当你向下滚动时，这些卡片会显示出来。这个小工具的灵感来自于 [Hiwow](https://dribbble.com/Hiwowstudio) 创造的这个[运球](https://uimovement.com/ui/5572/movie-animation/)的第一部分，看起来是这样的:
 
-[![reference](../Images/56443d9bf1a8479af10c6b80c5de0c6a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZJH9EWUV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/40wcxqqssvabemlqtfpu.gif)
+[![reference](img/56443d9bf1a8479af10c6b80c5de0c6a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZJH9EWUV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/40wcxqqssvabemlqtfpu.gif)
 
 ### 制剂
 
@@ -67,7 +67,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![closer](../Images/6d03a8fcf0e47a3483c5bdc944bcfc61.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GxYNXM1q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5ik8ye98wg7rpwvcdutw.png) 
+[![closer](img/6d03a8fcf0e47a3483c5bdc944bcfc61.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GxYNXM1q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5ik8ye98wg7rpwvcdutw.png) 
 我们到了那里，轮到内部元素被设计了。
 
 卡片图像和卡片内容都应该有一个`display: inline-block`并排。图像的宽度是`100px`,也有一个小的空白来分隔它和文本，所以卡片内容将占用卡片宽度的剩余部分。
@@ -109,7 +109,7 @@ Enter fullscreen mode Exit fullscreen mode
 Enter fullscreen mode Exit fullscreen mode
 
 它应该开始看起来更像运球:
-[![styling done](../Images/da139b02505fb40d443982cdfc63146d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GcAn5jCc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2mbg9jsugp4oq9x3ppw0.png)
+[![styling done](img/da139b02505fb40d443982cdfc63146d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GcAn5jCc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2mbg9jsugp4oq9x3ppw0.png)
 
 如果你有一双敏锐的眼睛，你可能会注意到活跃恒星和不活跃恒星之间的空间差异。这是由两个跨度元素之间的空间引起的，可以这样去除:
 
@@ -198,7 +198,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 很好，我们有很多卡片，不幸的是收视率和明星看起来不像我们预期的那样。
 
-[![something wrong](../Images/c4655ad7482b7f5587a728900ad0fe65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J2J-oARy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mf0djsehmlleapc6vc7x.png)
+[![something wrong](img/c4655ad7482b7f5587a728900ad0fe65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J2J-oARy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mf0djsehmlleapc6vc7x.png)
 
 正如你所注意到的，星星就像数字一样被渲染，最后一个评级被打印出来，带有不止一个十进制数字。幸运的是，Vue.js 有一个叫做 [filters](https://vuejs.org/v2/guide/filters.html) 的东西，可以帮助我们以我们想要的方式解析任何数据。
 

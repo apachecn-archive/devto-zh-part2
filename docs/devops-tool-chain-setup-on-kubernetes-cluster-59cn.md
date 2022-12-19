@@ -2,13 +2,13 @@
 
 > 原文：<https://dev.to/sr_balaji/devops-tool-chain-setup-on-kubernetes-cluster-59cn>
 
-[![alt text](../Images/5d339f1dbd1e21f29694d92d2181cda4.png "Kubernetes")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cemFoOyb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/298l0v54pjqkldy2j34e.png)
+[![alt text](img/5d339f1dbd1e21f29694d92d2181cda4.png "Kubernetes")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cemFoOyb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/298l0v54pjqkldy2j34e.png)
 
 ## 简介
 
 DevOps 已经成为具有 CI/CD 管道的软件生命周期管理的一部分，以自动化的方式向生产交付变更。
 
-[![alt text](../Images/caf09cea0f87e98c4276e79fc2d105ea.png "DevOps")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v6AWyfOd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8ko3m7l823612pap65zd.png)
+[![alt text](img/caf09cea0f87e98c4276e79fc2d105ea.png "DevOps")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v6AWyfOd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8ko3m7l823612pap65zd.png)
 
 在 CI/CD 管道中，流行的开源工具是用于源代码库的 Github、用于持续集成、构建、测试和部署编排的 Jenkins、用于静态代码分析的 SonarQube 和用于工件库的 Nexus。也有许多开源工具可供测试。本文并不太关注 DevOps 或 CI/CD pipline，而是描述如何使用 kubectl 在 Kubernetes 集群环境上创建 CI/CD 管道。
 
@@ -24,7 +24,7 @@ DevOps 已经成为具有 CI/CD 管道的软件生命周期管理的一部分，
 
 我已经写了一篇关于在 AWS Cloud 上建立一个 Kubernetes 集群的文章，这个集群有一个主节点和两个工作节点。更多详细信息，请参考链接-[https://dev . to/Sr _ Bala Ji/kubernetes-cluster-setup-on-AWS-13m 6](https://dev.to/sr_balaji/kubernetes-cluster-setup-on-aws-13m6)
 
-[![alt text](../Images/d629c4bc667e75e2519b013f530bebdd.png "Kubernetes node details")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--psoxCKBL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/739ut1xpewm555pf418f.png)
+[![alt text](img/d629c4bc667e75e2519b013f530bebdd.png "Kubernetes node details")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--psoxCKBL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/739ut1xpewm555pf418f.png)
 
 ### Kubernetes 组件
 

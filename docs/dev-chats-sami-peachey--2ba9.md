@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/samjarman/dev-chats-sami-peachey--2ba9>
 
-[![Sami Peachey, formally of Google, now Atlassian](../Images/e97ae082a9d51df2aedd6b0f96a28a94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ic_pwEkw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5990f510e6f2e104f70cdb99/1502672210730/%3Fformat%3D1000w)
+[![Sami Peachey, formally of Google, now Atlassian](img/e97ae082a9d51df2aedd6b0f96a28a94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ic_pwEkw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5990f510e6f2e104f70cdb99/1502672210730/%3Fformat%3D1000w)
 
 萨米·皮奇(Sami Peachey)，前谷歌员工，现为亚特兰大人
 

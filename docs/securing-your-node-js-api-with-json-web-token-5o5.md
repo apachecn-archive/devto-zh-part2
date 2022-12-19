@@ -135,13 +135,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 在[上打开浏览器 http://localhost:3000/](http://localhost:3000/)
 
-[![alt text](../Images/c62728124c60bf723ce5e3b3a6f326fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_g9uLT68--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media.licdn.com/dms/image/C5612AQGv3Wzo_WtlHQ/article-inline_image-shrink_1000_1488/0%3Fe%3D2131315200%26v%3Dbeta%26t%3D3pyCup4k3Njba8FniWItQVEmeSYnswI3z3Pj4Ygq2c4)
+[![alt text](img/c62728124c60bf723ce5e3b3a6f326fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_g9uLT68--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media.licdn.com/dms/image/C5612AQGv3Wzo_WtlHQ/article-inline_image-shrink_1000_1488/0%3Fe%3D2131315200%26v%3Dbeta%26t%3D3pyCup4k3Njba8FniWItQVEmeSYnswI3z3Pj4Ygq2c4)
 
 一切看起来都很好！！
 
 我们还可以看到，由于 morgan 包，请求被记录在我们的控制台中
 
-[![alt text](../Images/1e803ce9cbf1ae4936138708e168a83a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VZ6t8wWa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media.licdn.com/dms/image/C5612AQGUdedBZTTWlA/article-inline_image-shrink_1500_2232/0%3Fe%3D2131315200%26v%3Dbeta%26t%3DmduZcnE7Zoxh5YNUQq3vJuaq4wCP-VyjnEhBO7KVivQ)
+[![alt text](img/1e803ce9cbf1ae4936138708e168a83a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VZ6t8wWa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media.licdn.com/dms/image/C5612AQGUdedBZTTWlA/article-inline_image-shrink_1500_2232/0%3Fe%3D2131315200%26v%3Dbeta%26t%3DmduZcnE7Zoxh5YNUQq3vJuaq4wCP-VyjnEhBO7KVivQ)
 
 # 设置认证系统
 
@@ -194,7 +194,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 既然路线已经建好了，我们可以拿回我们的代币了..所以让我们和邮递员做一个测试
 
-[![alt text](../Images/5cdfc6e31202fedfd1f02404b3c33a49.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vk2Czb6B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media.licdn.com/dms/image/C5612AQFbgfNzLSqWkA/article-inline_image-shrink_1000_1488/0%3Fe%3D2131315200%26v%3Dbeta%26t%3D-TirXQ5yeHxatmMOfrsOjByt8BHRfFElVwESdOEIZnM)
+[![alt text](img/5cdfc6e31202fedfd1f02404b3c33a49.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vk2Czb6B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media.licdn.com/dms/image/C5612AQFbgfNzLSqWkA/article-inline_image-shrink_1000_1488/0%3Fe%3D2131315200%26v%3Dbeta%26t%3D-TirXQ5yeHxatmMOfrsOjByt8BHRfFElVwESdOEIZnM)
 
 现在我们有了令牌，作为客户端，我们首先要以某种方式存储令牌，有许多工具可以做到这一点，例如，如果我们使用浏览器，我们可以使用 localstorage，或者如果我们使用 android 创建移动应用程序，我们可以使用 sharedpreferences
 
@@ -279,13 +279,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在让我们尝试在不提供令牌的情况下获取产品列表，看看会发生什么
 
-[![alt text](../Images/2416200eeec2167e4c0e380ee49f4883.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--01ReJbyd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media.licdn.com/dms/image/C5612AQHMmR4nAf_Fww/article-inline_image-shrink_1500_2232/0%3Fe%3D2131315200%26v%3Dbeta%26t%3DRW_bRaZNK3sJqXatT5LId0QQXnUnofIrTXUt22VtXHs)
+[![alt text](img/2416200eeec2167e4c0e380ee49f4883.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--01ReJbyd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media.licdn.com/dms/image/C5612AQHMmR4nAf_Fww/article-inline_image-shrink_1500_2232/0%3Fe%3D2131315200%26v%3Dbeta%26t%3DRW_bRaZNK3sJqXatT5LId0QQXnUnofIrTXUt22VtXHs)
 
 这一次，中间件没有返回数据，因为我们没有提供令牌，或者换句话说，api 没有识别我们，认为我们是想要获取一些信息的坏人。
 
 因此，现在使用 postman，我们将把令牌放在请求的头部，让我们执行另一个请求
 
-[![alt text](../Images/4b9a394fceacb369f24a86451be2a83f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iNr0NtzH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media.licdn.com/dms/image/C5612AQEOQkmgPrQnUw/article-inline_image-shrink_1500_2232/0%3Fe%3D2131315200%26v%3Dbeta%26t%3D_h2HrI0jVKVOClU_KykA07bxNUt8B6FcvelNZXzaC_U)
+[![alt text](img/4b9a394fceacb369f24a86451be2a83f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iNr0NtzH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media.licdn.com/dms/image/C5612AQEOQkmgPrQnUw/article-inline_image-shrink_1500_2232/0%3Fe%3D2131315200%26v%3Dbeta%26t%3D_h2HrI0jVKVOClU_KykA07bxNUt8B6FcvelNZXzaC_U)
 
 现在一切看起来都很好，我们得到了数据；)).
 

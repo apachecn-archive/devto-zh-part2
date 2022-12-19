@@ -4,7 +4,7 @@
 
 WordPress 是目前最流行的内容管理系统(CMS)。60%的 CMS 市场被 WordPress 占有，此外，几乎 30%的**所有网站**都是在 WordPress 上运行的[。这意味着许多网站上的大量内容渴望以新的方式在新的设备上使用。在某些情况下，在原生移动应用中利用这些内容是非常有意义的。输入 NativeScript。](https://w3techs.com/technologies/overview/content_management/all)
 
-[![wordpress and nativescript](../Images/69a0e577210c2b41e6c2e59f8f552bf9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t5Xr4jMq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/wordpress/wordpress-plus-nativescript.png)
+[![wordpress and nativescript](img/69a0e577210c2b41e6c2e59f8f552bf9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t5Xr4jMq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/wordpress/wordpress-plus-nativescript.png)
 
 是的，WordPress 是用于管理网页内容(HTML)的，NativeScript 是用于构建跨平台原生移动应用的框架(显然*不是* HTML)。那么这两者有什么共同点呢？
 
@@ -38,7 +38,7 @@ Sidekick 是一款适用于 Mac、Windows 和 Linux 的免费工具，运行在 
 
 一旦你安装了 Sidekick，打开它，**创建一个新的应用程序**，并选择**空白**模板:
 
-[![nativescript sidekick starter templates](../Images/5c911015a4cc37d62d4943db7ca699d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XOTPgBgD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/wordpress/sidekick-starter-kits.png)
+[![nativescript sidekick starter templates](img/5c911015a4cc37d62d4943db7ca699d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XOTPgBgD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/wordpress/sidekick-starter-kits.png)
 
 我将坚持使用普通的 JavaScript，但是如果您对这些架构更熟悉，也可以使用 TypeScript 或 Angular。
 
@@ -46,7 +46,7 @@ Sidekick 是一款适用于 Mac、Windows 和 Linux 的免费工具，运行在 
 
 点击**新页面**按钮，向我们的应用程序添加另外两个页面或视图。
 
-[![nativescript sidekick add new page](../Images/6ff7687c78759d7fe68000185b02f0be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k-dgLv1v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/wordpress/sidekick-new-page.png)
+[![nativescript sidekick add new page](img/6ff7687c78759d7fe68000185b02f0be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k-dgLv1v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/wordpress/sidekick-new-page.png)
 
 两个页面都可以只是**空白**页面，可以命名第一个`category`和第二个`post`。
 
@@ -62,7 +62,7 @@ Sidekick 是一款适用于 Mac、Windows 和 Linux 的免费工具，运行在 
 
 我们的视图只是一个按钮。因为谁不爱一个好纽扣呢？
 
-[![wordpress button screen](../Images/3fd53aeeeb40ba77b2acd20f3e8834b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FgiAXM7e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/wordpress/wordpress-button-screenshot.png)
+[![wordpress button screen](img/3fd53aeeeb40ba77b2acd20f3e8834b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FgiAXM7e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/wordpress/wordpress-button-screenshot.png)
 
 为了呈现这个屏幕，我们的`/home/home-page.xml`文件只需要一些简单的带有按钮的布局代码:
 
@@ -170,7 +170,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 留给我们一个可爱的小屏幕，包含我们的 WordPress 文章类别:
 
-[![wordpress categories](../Images/bbdef52530e380cef7162581465eef6c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x0A2iGlY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/wordpress/wordpress-categories-screenshot.png)
+[![wordpress categories](img/bbdef52530e380cef7162581465eef6c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x0A2iGlY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/wordpress/wordpress-categories-screenshot.png)
 
 `category-page.js`中的关键代码是[获取 API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) 。`fetch`允许我们从一个远程端点请求数据，并在 JSON 中返回数据，使它在我们的应用程序中易于使用！
 
@@ -267,7 +267,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 > 为了节省空间，我忽略了一些细节，但提醒一下，所有这些代码都可以在 Github 上找到。
 
-**我们完成了！**嗯，如果你照原样运行这个应用程序，它可能看起来不完全像这些截图。直到你从 Github 中抓取完成的`app.css`、`/images/bg.png`背景图片和`/fonts`、[字体文件，并将它们添加到你的应用程序中。](https://github.com/rdlauer/tns-wordpress)
+**我们完成了！**嗯，如果你照原样运行这个应用程序，它可能看起来不完全像这些截图。直到你从 Github 中抓取完成的`app.css`img/bg.png`背景图片和`/fonts`、[字体文件，并将它们添加到你的应用程序中。](https://github.com/rdlauer/tns-wordpress)
 
 ## 部署您的应用
 
@@ -275,7 +275,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 > 部署应用程序有困难吗？查阅[本地脚本助手文档](https://docs.nativescript.org/sidekick/intro/introduction)！
 
-[![nativescript sidekick run on device](../Images/94c4088e11cefd27b6a2a573acb9d158.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pRcJ8n8z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/wordpress/sidekick-run-on-device.png)
+[![nativescript sidekick run on device](img/94c4088e11cefd27b6a2a573acb9d158.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pRcJ8n8z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/wordpress/sidekick-run-on-device.png)
 
 在网络和移动平台之间共享网站内容是一回事。**与移动端共享实际网站代码怎么样？**虽然与 WordPress 无关，但如果你是 Angular 开发人员，并且对 NativeScript + Angular web/mobile 代码共享故事感兴趣，请务必[查看我们在 YouTube 上的代码共享网络研讨会](https://www.youtube.com/watch?v=lumqZlnDs_I)。
 

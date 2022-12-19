@@ -28,7 +28,7 @@ PSP 教程序员如何跟踪他们的工作和错误。它还为程序员提供�
 
 我知道这听起来很可怕，但我一直在玩 SPARK，我觉得它很棒。首先，你不需要知道或做任何严肃的数学来使用 SPARK。SPARK 可以自动证明(或至少尝试证明)您的 Ada 联系人和类型约束。如果你就此打住，SPARK 基本上是你见过的最好的静态分析器。
 
-[![accurate measurement](../Images/331da8f52fff21d5c4ab1b4a0b4a6850.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hskzWyfM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mmqhvcqiod957kreyncz.jpg)
+[![accurate measurement](img/331da8f52fff21d5c4ab1b4a0b4a6850.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hskzWyfM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mmqhvcqiod957kreyncz.jpg)
 
 但是你可以更进一步。您可以在代码中添加断言，SPARK 将尝试静态地证明它们永远不会被违反。你能走多远取决于你自己，但是你可以让你的代码——或者它的一些重要部分——达到 SPARK 可以证明没有运行时错误的程度。这意味着它不会因为溢出、被零除等而崩溃。
 

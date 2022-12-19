@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/shubheksha/introduction-of-docker-tags-51gn>
 
-<figure>[![](../Images/117ad9d080586a2e13fc4767f7d47ab4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BLta44-z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AKBn45TeUMJZSbz9n.png) 
+<figure>[![](img/117ad9d080586a2e13fc4767f7d47ab4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BLta44-z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AKBn45TeUMJZSbz9n.png) 
 
 <figcaption>[功劳](https://logz.io/blog/what-is-docker/)</figcaption>
 
@@ -70,7 +70,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 另一件要记住的事情是，没有规则规定一个图像只需要一个标签。一个图像可以有多个标签，它们通常用于指定主要版本和次要版本。例如，考虑以下情况:
 
-<figure>[![](../Images/0f6e4f214bf59c697c0a1d7feec339db.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3goAPxsR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/682/1%2AEVve3i5XWD1a1ZwbBLoCrg.png)
+<figure>[![](img/0f6e4f214bf59c697c0a1d7feec339db.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3goAPxsR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/682/1%2AEVve3i5XWD1a1ZwbBLoCrg.png)
 
 <figcaption>[【debian 坞站枢纽页面】](https://hub.docker.com/r/library/debian/)</figcaption>
 

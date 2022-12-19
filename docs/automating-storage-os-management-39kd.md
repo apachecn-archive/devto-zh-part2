@@ -20,7 +20,7 @@
 
 # 建筑
 
-[![bitbucket-puppet-servers](../Images/fc26b7f0987c38f531802d7a649913b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ENdwNLc9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.lucidchart.com/publicSegments/view/9fa476b2-3fd1-4c03-ae4a-a3be26cac1d1/image.png)
+[![bitbucket-puppet-servers](img/fc26b7f0987c38f531802d7a649913b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ENdwNLc9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.lucidchart.com/publicSegments/view/9fa476b2-3fd1-4c03-ae4a-a3be26cac1d1/image.png)
 
 # 解
 
@@ -135,13 +135,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 要查看完整的脚本 api，请在我的 github 上查看该项目，并在下面的评论中告诉我你的想法。
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [丹嘎嘎](https://github.com/danquack) / [ NFS-API](https://github.com/danquack/NFS-API)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [丹嘎嘎](https://github.com/danquack) / [ NFS-API](https://github.com/danquack/NFS-API)
 
 ### 通过 mounts.yml 文件管理 nfs 挂载的容器化 flask api
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-[![Build Status](../Images/71f4baaedc05615829a6e41f4ee93d68.png)T2】](https://travis-ci.org/danquack/NFS-API)
+[![Build Status](img/71f4baaedc05615829a6e41f4ee93d68.png)T2】](https://travis-ci.org/danquack/NFS-API)
 
 NFS API 旨在管理 nfs_mounts mounts puppet repo 中的 mounts.yml 文件。这个 Python3 应用程序被 dockerized 化，并使用嵌入到容器中的 ssh 密钥发布到 git。
 

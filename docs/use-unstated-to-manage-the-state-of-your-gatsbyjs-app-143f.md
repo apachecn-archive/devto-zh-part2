@@ -174,7 +174,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您应该会看到类似这样的内容。
 
-[![gatsby-unstated-state-container](../Images/3f094a6dcd8153ec507da0909431fbec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qpwd9X4k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev.greglobinski.com/static/gatsby-unstated-state-container-d16f54bc6f059b357e1d6f0bdc5f741e-583d6.png)
+[![gatsby-unstated-state-container](img/3f094a6dcd8153ec507da0909431fbec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qpwd9X4k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev.greglobinski.com/static/gatsby-unstated-state-container-d16f54bc6f059b357e1d6f0bdc5f741e-583d6.png)
 
 **Count:** 的值在您切换页面时应该保持不变。
 

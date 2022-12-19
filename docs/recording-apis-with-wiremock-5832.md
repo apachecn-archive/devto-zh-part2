@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/sirech/recording-apis-with-wiremock-5832>
 
-[![Recording the API](../Images/5877bbc11f8eac5a56c9566e1ade869c.png "Recording the API")T2】](///static/f848aea11cf8e83b7deb3b37a8b8ed63/01e7c/cassette.png)
+[![Recording the API](img/5877bbc11f8eac5a56c9566e1ade869c.png "Recording the API")T2】](///static/f848aea11cf8e83b7deb3b37a8b8ed63/01e7c/cassette.png)
 
 当应用程序依赖于第三方 API 时，您似乎总是会面临类似的挑战。即使在开发过程中，你也反对集成吗？那么测试呢，如果 API 需要在那里，它们不会变得不可靠吗？
 
@@ -24,7 +24,7 @@
 
 我在 Github 中有这个[库，里面有所有的细节。可以用一张图来概括:](https://github.com/sirech/example-wiremock-recorder)
 
-[![Recording the API](../Images/a812bc9b0c5598bc41ff097f9ba5a712.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dvuaCwss--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/sirech/example-wiremock-recorder/raw/master/images/diagram.png)
+[![Recording the API](img/a812bc9b0c5598bc41ff097f9ba5a712.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dvuaCwss--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/sirech/example-wiremock-recorder/raw/mastimg/diagram.png)
 
 对于示例 API，我采用了这个非常有用的示例 API 。在这个设置中有四个部分需要考虑。
 

@@ -10,10 +10,10 @@
 
 这是我的
 
-[![terminal](../Images/9a0573625b4a496cb85a3a26b40206bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ctSyIj0m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/45ymsp4z94w6buv7z57p.PNG)
+[![terminal](img/9a0573625b4a496cb85a3a26b40206bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ctSyIj0m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/45ymsp4z94w6buv7z57p.PNG)
 
 更新 1:
 
 现在，在看了一些很酷的终端后，我已经更新为[流畅的终端](https://github.com/felixse/FluentTerminal/)。
 
-[![update 1](../Images/33447e0c1282d36874abfe65c2aa94ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a7Cx1CwE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7sxycfob5q2cikg3mt5c.PNG)
+[![update 1](img/33447e0c1282d36874abfe65c2aa94ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a7Cx1CwE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7sxycfob5q2cikg3mt5c.PNG)

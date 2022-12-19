@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/13-ways-to-vertical-center-in-2018-29ni>
 
-[![](../Images/cf3192ff17680108da29d9db4631edb9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ie8Y0vK0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AcIO90SyNTuk_PjnHCHPgzw.png)
+[![](img/cf3192ff17680108da29d9db4631edb9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ie8Y0vK0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AcIO90SyNTuk_PjnHCHPgzw.png)
 
 回到过去的美好时光，CSS 的局限性是这样的，即使像垂直居中这样“简单”的事情也是一个挑战，我们中的一些人甚至依赖于 JavaScript 解决方案。它是脆弱的，它是非常受约束的，并且总是有一个例外使它失败。
 
@@ -10,7 +10,7 @@
 
 但是 CSS 已经走了很长的路，提供了很多方法，每次都使垂直居中变得更容易。下面是对其中一些的总结，以及它们的使用案例和局限性。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### 1。绝对定位和自动边距
 
@@ -271,7 +271,7 @@ CSS grid 允许将项目显式地放置在特定的行上，所以与上面相�
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

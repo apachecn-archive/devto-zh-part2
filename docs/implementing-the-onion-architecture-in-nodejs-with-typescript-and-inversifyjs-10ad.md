@@ -18,7 +18,7 @@
 
 SOLID 是一个缩写词，代表以下五个原则:
 
-[![](../Images/92c5a0f5b839d7ac26daba2c46d1547a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--To-OoIj2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/awux83emfqr6x9dzfdss.png)
+[![](img/92c5a0f5b839d7ac26daba2c46d1547a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--To-OoIj2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/awux83emfqr6x9dzfdss.png)
 
 ### 单一责任原则
 
@@ -364,7 +364,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 MVC 设计模式将应用程序分成三个主要部分:模型、视图和控制器。
 
-[![](../Images/cf79c64a23e35d5ef8031db8dab4dcd7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---4g7weaO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yl84y5ypxi0i1pfzc7hb.png)
+[![](img/cf79c64a23e35d5ef8031db8dab4dcd7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---4g7weaO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yl84y5ypxi0i1pfzc7hb.png)
 
 ### 型号
 
@@ -396,7 +396,7 @@ MVC 模式帮助我们分离输入逻辑、业务逻辑和 UI 逻辑。但是，
 
 存储库代表客户端创建查询。存储库返回满足查询的一组匹配的实体。存储库还保存新的或更改的实体。下图显示了存储库与客户端和数据源的交互。
 
-[![](../Images/8014200bd51db725c7c9e00ac84433d0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y7V1zVb1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l2e1xo4vm9deyy403p78.png)
+[![](img/8014200bd51db725c7c9e00ac84433d0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y7V1zVb1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l2e1xo4vm9deyy403p78.png)
 
 存储库是不同领域的数据和操作之间的桥梁。一个常见的情况是从一个数据是弱类型的域(如数据库)映射到一个对象是强类型的域(如域实体模型)。
 
@@ -408,7 +408,7 @@ MVC 模式帮助我们分离输入逻辑、业务逻辑和 UI 逻辑。但是，
 
 洋葱架构将应用程序划分为圆形层(像洋葱一样):
 
-[![](../Images/7233534fbb4cac21e28b385a0901d011.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ps56SO9v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6y0l99fwf5vtfgqq3eva.png)
+[![](img/7233534fbb4cac21e28b385a0901d011.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ps56SO9v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6y0l99fwf5vtfgqq3eva.png)
 
 中心层是领域模型。当我们转向外层时，我们可以看到域服务、应用服务，最后是测试、基础设施和 UI 层。
 
@@ -456,17 +456,17 @@ Enter fullscreen mode Exit fullscreen mode
 
 `AircraftController`是基础设施层的一部分，其主要职责是处理与 HTTP 相关的问题，并将工作委托给`AircraftRepository`。`AircraftRepository`实现应该完全不知道任何 HTTP 问题。此时，我们的依赖图如下所示:
 
-[![](../Images/05679fc688f3b6b4055c11737e3cc118.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2z83OYMZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3mjknbo44vtstqvyk0vx.png)
+[![](img/05679fc688f3b6b4055c11737e3cc118.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2z83OYMZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3mjknbo44vtstqvyk0vx.png)
 
 图中的箭头有不同的含义,“comp”箭头定义了`AircraftRepository`是`AircraftController`(合成)的属性。“引用”箭头定义了`AircraftController`对`Aircraft`的引用或依赖。
 
 `AircraftRepository`接口是域服务的一部分，而`AircraftController`和`AircraftRepository`实现是基础设施层的一部分:
 
-[![](../Images/cc3f4a9c95319a46eb4e7271f867b506.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZPBHPETe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l5390ozl9u253sue5dps.png)
+[![](img/cc3f4a9c95319a46eb4e7271f867b506.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZPBHPETe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l5390ozl9u253sue5dps.png)
 
 这意味着我们有一个从外层(基础设施)到内层(域服务)的引用。在洋葱架构中，我们只能从外层引用到内层，而不能从内层引用到外层:
 
-[![](../Images/d3e73ed0e0db9c561a3f6bef25e745b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lY6d-UAl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2i73srvbean7nitmf8up.png)
+[![](img/d3e73ed0e0db9c561a3f6bef25e745b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lY6d-UAl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2i73srvbean7nitmf8up.png)
 
 我们使用`AircraftRepository`接口在设计时将领域层与基础设施层分离。然而，在运行时，这两层必须以某种方式连接起来。接口和实现之间的这种“连接”是由 InversifyJS 管理的。InversifyJS 允许使用`@inject` decorator 来声明要注入的依赖项。在设计时，我们可以声明我们希望注入一个接口的实现:
 
@@ -504,7 +504,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 此时，我们的依赖图如下所示:
 
-[![](../Images/501e662c24fc7584d3a7087cf6ad893c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1c1V4jxC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5bumjhjmjmeamndjabmy.png)
+[![](img/501e662c24fc7584d3a7087cf6ad893c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1c1V4jxC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5bumjhjmjmeamndjabmy.png)
 
 我们现在需要实现`Repository<T>`接口和`AircraftRepository`接口:
 
@@ -590,7 +590,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们使用`EntityDataMapper`从由`TypeOrmRepository`返回的实体映射到我们的域实体。此时，我们的依赖图如下所示:
 
-[![](../Images/9234ad974f9ffd9897de25f84f9132b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Pu-SrLly--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1kvlt30aqebjreb6x5ax.png)
+[![](img/9234ad974f9ffd9897de25f84f9132b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Pu-SrLly--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1kvlt30aqebjreb6x5ax.png)
 
 我们终于可以实现`AircraftRepository` :
 
@@ -624,13 +624,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 至此，我们完成了，我们的依赖图如下所示:
 
-[![](../Images/18d4083d9f1d033d94a1c78c5d7c770e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vlB2elfo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4p6c8t9bbimoreb85kd2.png)
+[![](img/18d4083d9f1d033d94a1c78c5d7c770e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vlB2elfo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4p6c8t9bbimoreb85kd2.png)
 
 上图使用颜色来标识具体化(类，蓝色)和抽象(接口，橙色):
 
 下图使用颜色来标识属于域层的组件(绿色)和属于基础结构层的组件(蓝色):
 
-[![](../Images/01098c8bae070f92c815989aebf35307.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D_8nkttZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/152j7cxu3trb2e4cha5y.png)
+[![](img/01098c8bae070f92c815989aebf35307.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D_8nkttZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/152j7cxu3trb2e4cha5y.png)
 
 在过去的十年里，这种架构在大型企业软件项目中对我非常有效。我最后还把一些巨大的整体洋葱分成了遵循相同架构的微服务。我喜欢说，当我们有实现洋葱架构的微服务时，我们就有了“一袋洋葱”。
 

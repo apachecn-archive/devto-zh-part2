@@ -4,7 +4,7 @@
 
 * * *
 
-[![This months sponsor is Zeet.](../Images/a4da9440f5519d3156594813d3a02017.png)T2】](https://bit.ly/adnan-zeet)
+[![This months sponsor is Zeet.](img/a4da9440f5519d3156594813d3a02017.png)T2】](https://bit.ly/adnan-zeet)
 
 * * *
 
@@ -42,7 +42,7 @@
 
 我喜欢说它像一个微小的虚拟机，但并不真的如此。大多数开发人员都理解虚拟机的概念。我们习惯于在虚拟机中运行应用。它们模拟真实的机器，拥有真实机器所拥有的一切。嗯，在容器中运行应用程序是一样的，除了一些重要的架构差异。主要是容器运行在相同的操作系统内核上。让我展示给你看...
 
-[![](../Images/2d7247af1b40e5af362e77817174410f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NppPX2E_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh6.googleusercontent.com/D137ICpQLAlsjL04zs2hmRjGE_MH4kU-HRFNjGwoO-q16LDXtyPukqLVDicGcwZKBaG_oH8TBW2sVBvXc4kL7bmmUDPWzEfqU2zVw9cmkw3lygT7DoksAFJHS_FKle2sBw3NH0U8dOQ)
+[![](img/2d7247af1b40e5af362e77817174410f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NppPX2E_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh6.googleusercontent.com/D137ICpQLAlsjL04zs2hmRjGE_MH4kU-HRFNjGwoO-q16LDXtyPukqLVDicGcwZKBaG_oH8TBW2sVBvXc4kL7bmmUDPWzEfqU2zVw9cmkw3lygT7DoksAFJHS_FKle2sBw3NH0U8dOQ)
 
 在这里你可以看到一个很好的概述。虚拟机使用一种叫做管理程序的东西。它管理主机上的每台虚拟机。如您所见，每个虚拟机都有自己的操作系统。而容器共享主机操作系统。使容器变得更小，创建和删除的速度更快。
 
@@ -135,7 +135,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 推送图片后，您的 Docker Hub 个人资料将列出该图片。它看起来会像这样。
 
-[![](../Images/b457ecd2beb9e5d77da172aa4938ce76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--70bj5qGq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/containers-vs-serverless/hub-docker.png)
+[![](img/b457ecd2beb9e5d77da172aa4938ce76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--70bj5qGq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/containers-vs-serverless/hub-docker.png)
 
 完成第一步后，您就可以将该映像拖到您选择的 Kubernetes 集群中了。创建集群的时间到了。
 
@@ -375,6 +375,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 * * *
 
-[![This months sponsor is Zeet.](../Images/a4da9440f5519d3156594813d3a02017.png)T2】](https://bit.ly/adnan-zeet)
+[![This months sponsor is Zeet.](img/a4da9440f5519d3156594813d3a02017.png)T2】](https://bit.ly/adnan-zeet)
 
 * * *

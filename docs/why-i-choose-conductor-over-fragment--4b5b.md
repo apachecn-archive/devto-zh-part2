@@ -34,7 +34,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Conductor 最好的一点是，它的控制器生命周期比 Fragment 更容易理解。
 
-[![A lifecycle diagram of Controller](../Images/445583a7b986148eb736abfa19095f9c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_e5kbngN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/bluelinelabs/Conductor/raw/develop/docs/Controller%2520Lifecycle.jpg)
+[![A lifecycle diagram of Controller](img/445583a7b986148eb736abfa19095f9c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_e5kbngN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/bluelinelabs/Conductor/raw/develop/docs/Controller%2520Lifecycle.jpg)
 
 它的导航和 backstack 处理是最好的。更简单的喜欢:
 

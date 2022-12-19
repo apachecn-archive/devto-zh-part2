@@ -4,7 +4,7 @@
 
 #### 在野外可能不常见到。
 
-[![](../Images/f40741105fcc684bdd0d86cf64cb858f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P0CM1rla--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AEhz2uGXNdRTqbTrkHb7sNQ.jpeg)
+[![](img/f40741105fcc684bdd0d86cf64cb858f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P0CM1rla--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AEhz2uGXNdRTqbTrkHb7sNQ.jpeg)
 
 我的一个同事偶然发现了一个团队不确定的 HTTP 状态代码: **207** 。当我看的时候，我无意中发现了一些在我 4 年的开发生涯中从来没有意识到的东西。
 

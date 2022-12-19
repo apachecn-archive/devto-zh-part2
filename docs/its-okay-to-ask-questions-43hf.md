@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/mporam/its-okay-to-ask-questions-43hf>
 
-[![Header Image](../Images/97260de2138be67c7cafb6b417924f0f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---RGGj3tL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://maydenacademy.co.uk/wp-content/uploads/2018/05/black-labrador-1200-780x300.jpg)
+[![Header Image](img/97260de2138be67c7cafb6b417924f0f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---RGGj3tL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://maydenacademy.co.uk/wp-content/uploads/2018/05/black-labrador-1200-780x300.jpg)
 
 作为一个培养了许多有抱负的和现有的开发人员的人，我发现自己在课堂上反复说的一件事就是提问是可以的！根据我的经验，许多新的或初级开发人员会避免问他们的同事问题，但我相信每个团队中的每个开发人员都应该感到安全、舒适，并被鼓励这样做！
 

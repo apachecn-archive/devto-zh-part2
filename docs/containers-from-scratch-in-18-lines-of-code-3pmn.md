@@ -22,7 +22,7 @@
 让我们看看它的实际效果。在下面的例子中，程序被称为`namespace`。
 你可以在文末找到代码。
 
-[![console1](../Images/b4b5b7cc3871e30535c7cb73c5195256.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8LKjghqt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wb850r39wkfewf4svn91.gif) 
+[![console1](img/b4b5b7cc3871e30535c7cb73c5195256.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8LKjghqt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wb850r39wkfewf4svn91.gif) 
 在运行命令之前我的主机名是:`nicola`。
 然后我们运行`sudo ./namespace`，启动`container`。
 然后我们将容器中的主机名改为`container`。

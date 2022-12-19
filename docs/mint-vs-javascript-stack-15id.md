@@ -1270,11 +1270,11 @@ devServer: {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Webpack Error](../Images/bfe6af0df55b551142bcb8a3c7b5ca0c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1uwh0i5A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cy54bdmr5obhn9peknk9.png)
+[![Webpack Error](img/bfe6af0df55b551142bcb8a3c7b5ca0c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1uwh0i5A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cy54bdmr5obhn9peknk9.png)
 
 流错误只能在运行二进制文件后显示在控制台中:
 
-[![Flow Error](../Images/0866ad0e84f4a6f01e6c3745a46d586a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gNzCjxzt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qahizh3w69wslpsq25er.png)
+[![Flow Error](img/0866ad0e84f4a6f01e6c3745a46d586a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gNzCjxzt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qahizh3w69wslpsq25er.png)
 
 在浏览器控制台中可以看到运行时错误。
 
@@ -1282,9 +1282,9 @@ Enter fullscreen mode Exit fullscreen mode
 
 在 Mint 中有许多错误类型(语法、类型等...)但它们都以相同的方式显示在控制台(仅运行控制台命令时)或浏览器中，但内容完全相同:
 
-[![Mint Browser Error](../Images/5deea04b96f16352492153d68c8681f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sevNHG8L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p8ynymgipizqwbzb40qt.png)
+[![Mint Browser Error](img/5deea04b96f16352492153d68c8681f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sevNHG8L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p8ynymgipizqwbzb40qt.png)
 
-[![Mint Console Error](../Images/f2564b55393bf6653bfef45249d18779.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Kb3abFOk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/19hxd5bir8wi134be0l9.png)
+[![Mint Console Error](img/f2564b55393bf6653bfef45249d18779.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Kb3abFOk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/19hxd5bir8wi134be0l9.png)
 
 在浏览器控制台中可以看到运行时错误，尽管由于类型系统的原因它们不应该发生。
 
@@ -1454,13 +1454,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果我激起了你的兴趣，你可以在[网站](https://www.mint-lang.com)上找到开始使用的所有信息，或者如果你喜欢投稿，请查看 Github 资源库:
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [薄荷-郎](https://github.com/mint-lang) / [薄荷](https://github.com/mint-lang/mint)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [薄荷-郎](https://github.com/mint-lang) / [薄荷](https://github.com/mint-lang/mint)
 
 ### 🍃一种令人耳目一新的前端 web 编程语言。
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-# [![Mint](../Images/d7f8604681aad5847b954929f5718067.png)T2】](https://github.com/mint-lang/mintsrc/assets/mint-logo.svg)
+# [![Mint](img/d7f8604681aad5847b954929f5718067.png)T2】](https://github.com/mint-lang/mintsrc/assets/mint-logo.svg)
 
 一种令人耳目一新的前端 web 编程语言，旨在从语言层面解决**单页面应用(spa)**最常见的问题:
 
@@ -1512,7 +1512,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这两个应用程序的完整代码可以在这里找到(在不同的分支上):
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [薄荷-郎](https://github.com/mint-lang) / [薄荷-vs-x](https://github.com/mint-lang/mint-vs-x)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [薄荷-郎](https://github.com/mint-lang) / [薄荷-vs-x](https://github.com/mint-lang/mint-vs-x)
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
@@ -1537,7 +1537,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 此外，如果您对更多用 Mint 编写的应用程序感兴趣，我建议您查看以下资源库:
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [薄荷-郎](https://github.com/mint-lang) / [薄荷-网站](https://github.com/mint-lang/mint-website)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [薄荷-郎](https://github.com/mint-lang) / [薄荷-网站](https://github.com/mint-lang/mint-website)
 
 ### Mint 编程语言的网站
 
@@ -1547,7 +1547,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是 Mint 编程语言网站的源代码。
 
-[![Screenshot of the website](../Images/317124a18ed4fc2a04d0b433df6bd234.png)T2】](https://github.com/mint-lang/mint-website./screenshots/01.png)
+[![Screenshot of the website](img/317124a18ed4fc2a04d0b433df6bd234.png)T2】](https://github.com/mint-lang/mint-website./screenshots/01.png)
 
 ## 砍
 
@@ -1577,7 +1577,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 [View on GitHub](https://github.com/mint-lang/mint-website)
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [薄荷-郎](https://github.com/mint-lang) / [薄荷-现实世界](https://github.com/mint-lang/mint-realworld)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [薄荷-郎](https://github.com/mint-lang) / [薄荷-现实世界](https://github.com/mint-lang/mint-realworld)
 
 ### https://realworld.io 前端的 Mint 实现。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/flexdinesh/create-your-developer-landing-page-with-github-pages---42jk>
 
-[![Developer Landing Page with GitHub Pages](../Images/09eb885f9f97df930eb9f6f461545164.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ctGG0aDm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/jrzpdS/dev_landing_thumb.png)
+[![Developer Landing Page with GitHub Pages](img/09eb885f9f97df930eb9f6f461545164.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ctGG0aDm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/jrzpdS/dev_landing_thumb.png)
 
 我们所有的开发者，在某个时候，都希望有一个自己的个人网站，或者展示我们的在线形象，或者仅仅是因为它很有趣。所以在这里，我给大家呈现一个现成的 **[开发者登陆页面](https://github.com/flexdinesh/dev-landing-page)**
 
@@ -25,7 +25,7 @@
 
 你可以从这些 **9 种材料主题**中选择一种，或者根据你的喜好改变颜色，因为这太简单了。
 
-[![9 Material Themes](../Images/a63393fbfc7020bd756d32a01089676f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SWj5Wnl---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/jJVKCn/dev_landing_page_themes.jpg)
+[![9 Material Themes](img/a63393fbfc7020bd756d32a01089676f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SWj5Wnl---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/jJVKCn/dev_landing_page_themes.jpg)
 
 这是我的 **[开发者登陆页面——Dinesh](https://flexdinesh.github.io)**，用我最喜欢的黄色闪亮！🎉
 

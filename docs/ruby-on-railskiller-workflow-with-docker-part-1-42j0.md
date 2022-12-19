@@ -6,4 +6,4 @@
 
 [读下去💎🐳](https://auth0.com/blog/ruby-on-rails-killer-workflow-with-docker-part-1/?utm_source=dev&utm_medium=sc&utm_campaign=ruby_docker)
 
-[![Ruby on Rails—Killer Workflow with Docker (Part 1)](../Images/7657dbc387df76311e638c9dd764108b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tTO6ru01--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b43tjty3b4e3wnx9bj4r.png)
+[![Ruby on Rails—Killer Workflow with Docker (Part 1)](img/7657dbc387df76311e638c9dd764108b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tTO6ru01--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b43tjty3b4e3wnx9bj4r.png)

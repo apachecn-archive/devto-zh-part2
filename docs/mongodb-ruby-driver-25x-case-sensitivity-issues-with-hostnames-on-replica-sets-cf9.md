@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/scalegrid/mongodb-ruby-driver-25x-case-sensitivity-issues-with-hostnames-on-replica-sets-cf9>
 
-[![ScaleGrid Blog: MongoDB Ruby Driver 2.5.x Case-Sensitivity Issues with Hostnames on Replica Sets](../Images/751e8118911023b6912a4a29e3820f3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_KjBcmi---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lp7zpp7ot61cl3800pxn.png)
+[![ScaleGrid Blog: MongoDB Ruby Driver 2.5.x Case-Sensitivity Issues with Hostnames on Replica Sets](img/751e8118911023b6912a4a29e3820f3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_KjBcmi---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lp7zpp7ot61cl3800pxn.png)
 
 将 [MongoDB Ruby 驱动](https://docs.mongodb.com/ruby-driver/master/)升级到 2.5.x 后，连接到 [MongoDB](https://www.mongodb.com/) 副本集有问题？我们最近收到了一些关于最新 MongoDB Ruby 驱动程序版本的问题的询问，并写了这篇文章来分享我们对问题和原因的发现。
 

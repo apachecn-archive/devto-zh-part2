@@ -6,11 +6,11 @@
 
 在[https://hasura.io/event-triggers](https://hasura.io/event-triggers)检验它，在 [Heroku](https://docs.hasura.io/1.0/graphql/manual/getting-started/heroku-simple.html) 或[码头工人](https://docs.hasura.io/1.0/graphql/manual/getting-started/docker-simple.html)上试用它。
 
-[![](../Images/6546d14f1e09bec092b7842152805600.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6daYhMaf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/announcing-webhook-triggers-on-database-events-for-hasura-graphql-engine-8136c15db3ef/1-rfg50zyPlOMr4tmzXk1Imw.png)
+[![](img/6546d14f1e09bec092b7842152805600.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6daYhMaf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/announcing-webhook-triggers-on-database-events-for-hasura-graphql-engine-8136c15db3ef/1-rfg50zyPlOMr4tmzXk1Imw.png)
 
 这个特性是[开源 Hasura GraphQL 引擎](https://github.com/hasura/graphql-engine):)的一部分
 
-<figure>[![](../Images/4dca6cbbb55d04c8f5f272f936944bfa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vDhQT1aJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/announcing-webhook-triggers-on-database-events-for-hasura-graphql-engine-8136c15db3ef/1-1vY0qPXJHww0g_1rRas-6Q.png) 
+<figure>[![](img/4dca6cbbb55d04c8f5f272f936944bfa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vDhQT1aJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/announcing-webhook-triggers-on-database-events-for-hasura-graphql-engine-8136c15db3ef/1-1vY0qPXJHww0g_1rRas-6Q.png) 
 
 <figcaption>事件-触发 Postgres with Hasura</figcaption>
 
@@ -18,7 +18,7 @@
 
 使用 Hasura，创建一个事件触发器来监听 Postgres 上的数据库更改总共需要 60 秒:
 
-<figure>[![](../Images/1fa0e10d4b622c11d5b5540f7042a956.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BfK-Gyrj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/announcing-webhook-triggers-on-database-events-for-hasura-graphql-engine-8136c15db3ef/1-3Yt2MiWp0w1QsmtgiDxRTw.gif) 
+<figure>[![](img/1fa0e10d4b622c11d5b5540f7042a956.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BfK-Gyrj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/announcing-webhook-triggers-on-database-events-for-hasura-graphql-engine-8136c15db3ef/1-3Yt2MiWp0w1QsmtgiDxRTw.gif) 
 
 <figcaption>为表格上的 webhook 创建事件触发器</figcaption>
 

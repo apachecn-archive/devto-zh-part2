@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/abiodunjames/why-docker-creating-a-multi-container-application-with-docker--1gpb>
 
-[![Multi Container Application](../Images/018de0539740f213239c991119a4fa8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HnGD-tRp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/samueljames/image/upload/v1525300995/multi-container_application.jpg)
+[![Multi Container Application](img/018de0539740f213239c991119a4fa8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HnGD-tRp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/samueljames/image/upload/v1525300995/multi-container_application.jpg)
 
 如果你刚刚开始学习 docker，脑海中出现的一个常见问题是 docker 是什么以及为什么需要它。在这篇文章中，我提供了这些问题的基本答案，并最终带你完成用 docker-compose 编写你的第一个多容器应用程序。
 
@@ -61,7 +61,7 @@ Docker-compose 是一款帮助你运行复杂应用的工具。
 
 通过运行`composer create-project --prefer-dist laravel/laravel laravelApp`
 启动一个 Laravel 项目。如果一切正常，您的目录应该如下所示。
-T3![Project-directory](../Images/1708ca10391a0987784eab430b9a0790.png)T5】
+T3![Project-directory](img/1708ca10391a0987784eab430b9a0790.png)T5】
 
 ###为 web 服务器创建 docker file(Nginx)
 我们需要一个 web 服务器(Nginx)来提供静态内容。我们创建一个`Dockerfile`，它基本上是一个文本文件，包含 docker 应该如何构建我们的图像的指令。
@@ -248,7 +248,7 @@ docker-compose build
 Enter fullscreen mode Exit fullscreen mode
 
 您应该会看到一个类似这样的控制台输出:
-[![Docker-compose build console output](../Images/33ebca9a5193320c65850cf7e16612bb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TFENlhjk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/samueljames/image/upload/c_fit%2Cw_651/v1525294761/docker-compose_build.png)
+[![Docker-compose build console output](img/33ebca9a5193320c65850cf7e16612bb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TFENlhjk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/samueljames/image/upload/c_fit%2Cw_651/v1525294761/docker-compose_build.png)
 
 现在，我们可以继续运行我们的服务了:
 
@@ -273,7 +273,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 最后，将你的网络浏览器指向`http://localhost:8080/`，你应该会看到一个默认的 laravel 主页，如下所示。
 
-[![Laravel-home-page](../Images/15f98f422bbd863cfe88fd7a656da9f5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oOkiEEyd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/samueljames/image/upload/v1525296644/laravel-home-page.png) 
+[![Laravel-home-page](img/15f98f422bbd863cfe88fd7a656da9f5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oOkiEEyd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/samueljames/image/upload/v1525296644/laravel-home-page.png) 
 因为我们已经将项目的目录挂载到应用程序容器的目录中，所以对源代码所做的更改会自动应用。
 
 ## 进一步阅读

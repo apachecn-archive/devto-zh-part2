@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/cwetanow/why-you-should-be-strength-training-4d6h>
 
-[![](../Images/d493ae74053d1b5293b7af468d622da8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R3vesy5F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bodymorphology.files.wordpress.com/2012/08/cropped-barbells.jpg)
+[![](img/d493ae74053d1b5293b7af468d622da8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R3vesy5F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bodymorphology.files.wordpress.com/2012/08/cropped-barbells.jpg)
 
 典型的程序员在下午醒来，早餐吃几只红牛或怪兽，编码到凌晨，偶尔休息一下为送披萨的人开门。那些日子已经过去很久了，我注意到越来越多的开发者意识到健康的生活方式和适当的举重锻炼的好处。
 

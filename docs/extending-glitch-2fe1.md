@@ -30,7 +30,7 @@ Glitch 不是开源的，所以我不能直接派生、修复和创建它的拉�
 
 <figure>
 
-[![Editor Jumping on Selection](../Images/597889739cfce5c859d539c5a4bef121.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rINW9fK0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.glitch.com/0e714b41-7eb0-4c3b-9356-4a6c344ce977%252F28D0043E-E59E-44B7-8B5A-75A11E77D6B8.gif%3F1538962374057)
+[![Editor Jumping on Selection](img/597889739cfce5c859d539c5a4bef121.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rINW9fK0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.glitch.com/0e714b41-7eb0-4c3b-9356-4a6c344ce977%252F28D0043E-E59E-44B7-8B5A-75A11E77D6B8.gif%3F1538962374057)
 
 <figcaption>Editor jumping on selection</figcaption>
 
@@ -42,7 +42,7 @@ Glitch 不是开源的，所以我不能直接派生、修复和创建它的拉�
 
 <figure>
 
-[![Selection no longer makes editor jump and keybindings work](../Images/d74af2c423b4c56e0fa57a776624b000.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VmdxRTvy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.glitch.com/0e714b41-7eb0-4c3b-9356-4a6c344ce977%252F39CF730A-93D8-4D83-B9B6-DCE957F1E85A.gif%3F1538964226838)
+[![Selection no longer makes editor jump and keybindings work](img/d74af2c423b4c56e0fa57a776624b000.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VmdxRTvy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.glitch.com/0e714b41-7eb0-4c3b-9356-4a6c344ce977%252F39CF730A-93D8-4D83-B9B6-DCE957F1E85A.gif%3F1538964226838)
 
 <figcaption>Selection no longer makes editor jump and keybindings work</figcaption>
 
@@ -143,7 +143,7 @@ editor.onSave(function(code) {
 
 <figure>
 
-[![Notification of the extension being loaded](../Images/edf6cdb8b24e8ccc858b2b8fdca427f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yWm6ao9H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.glitch.com/0e714b41-7eb0-4c3b-9356-4a6c344ce977%252FDC24057A-0990-4B7D-BC39-36476703AD1B.gif%3F1538967013939)
+[![Notification of the extension being loaded](img/edf6cdb8b24e8ccc858b2b8fdca427f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yWm6ao9H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.glitch.com/0e714b41-7eb0-4c3b-9356-4a6c344ce977%252FDC24057A-0990-4B7D-BC39-36476703AD1B.gif%3F1538967013939)
 
 <figcaption>Notification of the extension being loaded</figcaption>
 
@@ -153,7 +153,7 @@ editor.onSave(function(code) {
 
 <figure>
 
-[![Notification when prettierfying](../Images/0922900c1b67f5e11a9f8ccc61092528.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RJ1qWuFV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.glitch.com/0e714b41-7eb0-4c3b-9356-4a6c344ce977%252FE9C59CB3-45E5-4E1C-BC7B-14BBA0E10DC0.gif%3F1538967013023)
+[![Notification when prettierfying](img/0922900c1b67f5e11a9f8ccc61092528.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RJ1qWuFV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.glitch.com/0e714b41-7eb0-4c3b-9356-4a6c344ce977%252FE9C59CB3-45E5-4E1C-BC7B-14BBA0E10DC0.gif%3F1538967013023)
 
 <figcaption>Notification when prettierfying</figcaption>
 
@@ -163,7 +163,7 @@ editor.onSave(function(code) {
 
 <figure>
 
-[![Additional user preferences for the extension](../Images/d03ec1bad71dfa2bf33b02feb23b4447.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9UG1M4j_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.glitch.com/0e714b41-7eb0-4c3b-9356-4a6c344ce977%252F51584132-68D0-4537-9EC7-78A1CE6F3C36.gif%3F1538967013818)
+[![Additional user preferences for the extension](img/d03ec1bad71dfa2bf33b02feb23b4447.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9UG1M4j_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.glitch.com/0e714b41-7eb0-4c3b-9356-4a6c344ce977%252F51584132-68D0-4537-9EC7-78A1CE6F3C36.gif%3F1538967013818)
 
 <figcaption>Additional user preferences for the extension</figcaption>
 

@@ -48,7 +48,7 @@ digits = datasets.load_digits()
 print(digits.data) 
 ```
 
-[![python machine learning](../Images/5a81e41209e60b91fd543bdf21e4ded6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0Mz-gg7e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.liveedu.tv/wp-content/uploads/2018/05/ml1.png)
+[![python machine learning](img/5a81e41209e60b91fd543bdf21e4ded6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0Mz-gg7e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.liveedu.tv/wp-content/uploads/2018/05/ml1.png)
 
 此外，`digits.target`让我们更清楚地了解我们想要学习的内容。
 
@@ -56,7 +56,7 @@ print(digits.data)
 print(digits.target) 
 ```
 
-[![digits.target python](../Images/66fcaa156e5500b1159b83a3bd02b6f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hny4Q8Sr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.liveedu.tv/wp-content/uploads/2018/05/ml2.png)
+[![digits.target python](img/66fcaa156e5500b1159b83a3bd02b6f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hny4Q8Sr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.liveedu.tv/wp-content/uploads/2018/05/ml2.png)
 
 我们还可以使用`iris.data`(给出数据数组)和`iris.target`(给出标签数组)来查看数据。
 
@@ -66,19 +66,19 @@ print(digits.target)
 iris.data 
 ```
 
-[![iris.data](../Images/5dd8aa4321aaba05ae6761413418f0e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IBghmEHu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.liveedu.tv/wp-content/uploads/2018/05/ml3.png)
+[![iris.data](img/5dd8aa4321aaba05ae6761413418f0e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IBghmEHu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.liveedu.tv/wp-content/uploads/2018/05/ml3.png)
 
 ```
 iris.target 
 ```
 
-[![iris.target](../Images/4e4308183934eace3e47eea429079906.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OXThgU-s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.liveedu.tv/wp-content/uploads/2018/05/ml4.png)
+[![iris.target](img/4e4308183934eace3e47eea429079906.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OXThgU-s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.liveedu.tv/wp-content/uploads/2018/05/ml4.png)
 
 `iris.target_names`会给我们一个标签名称的数组；也就是数据集中的三种花。
 
 `iris.target_names`
 
-[![iris.target_names](../Images/813e6310e7e9b658956e8e91a283a0d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jdYuV-Un--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.liveedu.tv/wp-content/uploads/2018/05/ml5.png)
+[![iris.target_names](img/813e6310e7e9b658956e8e91a283a0d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jdYuV-Un--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.liveedu.tv/wp-content/uploads/2018/05/ml5.png)
 
 此外，我们还可以使用[盒图](https://en.wikipedia.org/wiki/Box_plot)来生成数据集的可视化表示。
 
@@ -94,7 +94,7 @@ sns.set(rc={'figure.figsize':(1,10)})
 
 这是输出。
 
-[![box plot machine learning](../Images/dc2544f54c31eb8c03fb3f78bbc4c1cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tmyfEz8h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.liveedu.tv/wp-content/uploads/2018/05/ml6.png)
+[![box plot machine learning](img/dc2544f54c31eb8c03fb3f78bbc4c1cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tmyfEz8h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.liveedu.tv/wp-content/uploads/2018/05/ml6.png)
 
 以下是数据在横轴上的表示方式。
 
@@ -137,7 +137,7 @@ print(iris_predict) #lables predicted (flower species) print (iris_test_two) #ac
 
 这是输出。
 
-[![splitting data set randomly classifier training](../Images/d368c094d18733b01c9cdcf1fda5cb02.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--346Ii1Q3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.liveedu.tv/wp-content/uploads/2018/05/ml7.png)
+[![splitting data set randomly classifier training](img/d368c094d18733b01c9cdcf1fda5cb02.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--346Ii1Q3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.liveedu.tv/wp-content/uploads/2018/05/ml7.png)
 
 上面输出的第一行给出了测试数据的标签；即基于分类器预测的花卉种类。
 

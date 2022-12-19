@@ -4,7 +4,7 @@
 
 我在我的博客上将我的 RSS 订阅改成了 medium，但是这些还是会弹出来...所以转贴(虽然我可能已经改变了一些内容)-而且，哦，该死，代码片段不能在两者之间很好地翻译 D:
 
-[![](../Images/dd0582eae2cc564887e80cc8fea16dc8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gDb6ZSYt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2APC7skh24BEQjcTqF) 
+[![](img/dd0582eae2cc564887e80cc8fea16dc8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gDb6ZSYt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2APC7skh24BEQjcTqF) 
 
 <figcaption>【使用笔记本电脑编程的人】作者[史蒂夫·哈拉马](https://unsplash.com/@steve3p_0?utm_source=medium&utm_medium=referral)于[Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)T8】</figcaption>
 

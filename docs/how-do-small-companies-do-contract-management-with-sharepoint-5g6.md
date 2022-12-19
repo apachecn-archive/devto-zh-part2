@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/mariyat99024111/how-do-small-companies-do-contract-management-with-sharepoint-5g6>
 
-[![Sharepoint development](../Images/f2e8010404f6349eceee417c3d5e161b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Iq-2Cfx8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/azq9rcbed6x5bqzf01s1.png)
+[![Sharepoint development](img/f2e8010404f6349eceee417c3d5e161b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Iq-2Cfx8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/azq9rcbed6x5bqzf01s1.png)
 
 合同管理软件提供集中存储容量和合同生命周期机械化，用于快速制作、审批、恢复和共享合同及相关文档。它节省了大量的时间，对于工作量很大但员工不多的小公司来说，时间是至关重要的。此外，合同管理软件对于追求更多的小企业来说是一个不容置疑的需求，因为它为合同管理系统的开发提供了一个很好的理由，因此也为业务本身的扩展提供了一个很好的理由。
 

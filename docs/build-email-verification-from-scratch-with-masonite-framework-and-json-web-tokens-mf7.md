@@ -160,7 +160,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果您的 smtp 凭证正确，您的邮件中将会包含以下内容:
 
-[![Email verification](../Images/237275b4ebc7250ff1141668cf72a16f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yyFHZ-mz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p9mgktx5nsoh5uvkkof5.png)
+[![Email verification](img/237275b4ebc7250ff1141668cf72a16f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yyFHZ-mz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p9mgktx5nsoh5uvkkof5.png)
 
 ## 创建邮件验证路径
 

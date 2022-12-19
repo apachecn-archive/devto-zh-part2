@@ -12,7 +12,7 @@
 
 差不多就是这样，但是让我用一个基本的例子来演示一下。
 
-[![model](../Images/88902cd73fbfa18e5377a13c45b65aa0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MT-PFCmN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lastmover.files.wordpress.com/2018/07/model.png%3Fw%3D277%26h%3D300)
+[![model](img/88902cd73fbfa18e5377a13c45b65aa0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MT-PFCmN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lastmover.files.wordpress.com/2018/07/model.png%3Fw%3D277%26h%3D300)
 
 这里我们有一个由两个表组成的基本数据库模型，一个表包含地址数据，另一个表包含邮政编码数据。
 
@@ -34,7 +34,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 请注意命名约定，即保留封装表的名称，并附加一个:" _v1 "，稍后会详细介绍。
 
-[![zipcode_v1](../Images/017908f838dd16e2923e05cbe847dc04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--olmM4Xy8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lastmover.files.wordpress.com/2018/07/zipcode_v1.png%3Fw%3D660)
+[![zipcode_v1](img/017908f838dd16e2923e05cbe847dc04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--olmM4Xy8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lastmover.files.wordpress.com/2018/07/zipcode_v1.png%3Fw%3D660)
 
 这是其中一个简单的方法，目前它看起来很傻，需要大量的工作，我听到的对这种方法的一个担忧是:
 
@@ -70,7 +70,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们的数据库现在看起来像这样:
 
-[![address_v1](../Images/4e37b0962cef17b3e62e3935b640dc84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sGyD683c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lastmover.files.wordpress.com/2018/07/address_v1.png%3Fw%3D660)
+[![address_v1](img/4e37b0962cef17b3e62e3935b640dc84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sGyD683c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lastmover.files.wordpress.com/2018/07/address_v1.png%3Fw%3D660)
 
 我们正在慢慢地用我们的 RDBMS 组装合同。
 
@@ -100,7 +100,7 @@ Enter fullscreen mode Exit fullscreen mode
 4.  我们将旧表中的数据复制到新表中
 5.  我们重新创建视图，封装变更并保持我们的契约
 
-[![address_v1-2](../Images/3c59ef0673a1720a244130197176b8d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VYagSXXw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lastmover.files.wordpress.com/2018/07/address_v1-2.png%3Fw%3D660)
+[![address_v1-2](img/3c59ef0673a1720a244130197176b8d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VYagSXXw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lastmover.files.wordpress.com/2018/07/address_v1-2.png%3Fw%3D660)
 
 如果我们继续进行重命名，那么通过外键涉及的 zipcode 表也必须被重命名，我没有包括这个例子，但是模式是相同的，好处也是相同的，它可以被重命名，但是封装保持了契约的完整性，并且我们使用数据库的应用程序不必被改变。
 
@@ -117,7 +117,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 命名是困难的，对于一对一的视图，您受模型的支配，这没什么，但是如果您的模型中已经有了不好的命名，这将反映在视图的命名中，因此可以决定在封装层中消除不好的命名，这将我们带到透明性。
 
-为了透明，建议保留原始模型的名称，因为数据模型通常会嵌入到数据库的用户中。请注意，我们是在现有数据模型的基础上实现视图的，所以人们经常求助于与实际模型相关联，而不是抽象/封装——如果我们在一些讨论中能够坚持抽象而不是实现就好了 [![🙂](../Images/2ea3454d48c385c4b31b2c45b77b4229.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zCyXRrdx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f642.png)
+为了透明，建议保留原始模型的名称，因为数据模型通常会嵌入到数据库的用户中。请注意，我们是在现有数据模型的基础上实现视图的，所以人们经常求助于与实际模型相关联，而不是抽象/封装——如果我们在一些讨论中能够坚持抽象而不是实现就好了 [![🙂](img/2ea3454d48c385c4b31b2c45b77b4229.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zCyXRrdx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f642.png)
 
 为意图命名更难，但更像是一种恰当的抽象，而不是一对一的映射。我们开始为我们的服务使用视图，但是它确实传播到了我们的批处理组件中，在那里它被证明是非常有用的。
 

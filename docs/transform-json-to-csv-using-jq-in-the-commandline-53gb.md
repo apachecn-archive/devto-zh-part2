@@ -14,7 +14,7 @@
 
 因此，如果您想要类型为`post`的文档，您可以输入`$ sanity documents query '*[_type == "post"]'`。或者，如果你只是想要那些出版日期在 2018 年的，那就应该是`$ sanity documents query '*[_type == "post" && publishedAt > "2018-01-01"]'`。这个查询给出了完整的文档，但是如果您只是想要标题和出版日期，您可以写:`*[_type == "post"]{title, publishedAt}`。
 
-[![The output from Sanity CLI piped through jq](../Images/59683a819120f46a659a4cd108b96bf7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UPGiuOhs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.io/images/3do82whm/production/12b7f7872916dda7170928afaf279d18424e4177-1386x1512.png)
+[![The output from Sanity CLI piped through jq](img/59683a819120f46a659a4cd108b96bf7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UPGiuOhs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.img/3do82whm/production/12b7f7872916dda7170928afaf279d18424e4177-1386x1512.png)
 
 您也可以在`jq`中从 JSON 数据中挑选出键和值，但是今天我们将使用它将 JSON 数组中的结构化内容转换成 CSV 文件。因为你的老板想要 Excel 表格里的东西，对吗？坐好，我们开始吧！🏊‍♀️
 
@@ -31,12 +31,12 @@ Enter fullscreen mode Exit fullscreen mode
 *   `-r`代表`--raw-ouput`,确保输出是没有颜色或特殊格式的普通的旧文本。
 *   `(map(keys) | add | unique) as $cols`遍历对象中的键(`map`)和`add` `unique`到一个名为`$cols`的变量。换句话说，这最终成为您的列标题。
 
-[![Map out unique keys](../Images/992cb45e44cd318ceeb5cf10dd910707.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZZ4tCn1d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.io/images/3do82whm/production/da54941c127a979d03d7bf057cd5a5154a0a8608-1640x476.png)
+[![Map out unique keys](img/992cb45e44cd318ceeb5cf10dd910707.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZZ4tCn1d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.img/3do82whm/production/da54941c127a979d03d7bf057cd5a5154a0a8608-1640x476.png)
 
 *   `map(. as $row | $cols | map($row[.])) as $rows`获取外部数组中的所有对象，遍历所有对象键(title、slug、publishedAt)并将值附加到一个数组中，这样就得到一个包含值的数组，这就是将 JSON 转换为 CSV 时所需要的。
 *   `$cols, $rows[] | @csv`首先将列标题放入数组，然后将每个数组通过管道传输到`@csv`转换为行，这将输出格式化为… csv。
 
-[![The final result](../Images/b4f3ddaed5494c4b90f8e5d3395a216d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NdprNK3w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.io/images/3do82whm/production/92c28578b1eadd30205b92842b2a4fbcbc12e31c-2080x452.png)
+[![The final result](img/b4f3ddaed5494c4b90f8e5d3395a216d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NdprNK3w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.img/3do82whm/production/92c28578b1eadd30205b92842b2a4fbcbc12e31c-2080x452.png)
 
 这个命令在 shell 中打印出结果，但是如果您想直接将结果写到文件中，您可以将`> filename.csv`附加到文件中，或者附加到剪贴板中(如果您在 mac 上，则通过管道将结果传送到`| pbcopy`)。或者也许你会在[熊猫](https://pandas.pydata.org/)中用 csv 做一些退出的事情🐼🐼用 Python？
 

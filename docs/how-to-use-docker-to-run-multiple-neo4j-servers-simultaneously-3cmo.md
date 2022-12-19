@@ -105,10 +105,10 @@ Enter fullscreen mode Exit fullscreen mode
 
 它应该会呈现如下所示的页面:
 
-[![Neo4j Login Page](../Images/3180464b2e27a661eadfe07d49fe3ee8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BmM_90yg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rohitfarmer.github.io/images/neo4j-1.png)
+[![Neo4j Login Page](img/3180464b2e27a661eadfe07d49fe3ee8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BmM_90yg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rohitfarmer.github.img/neo4j-1.png)
 
 将 bolt 端口更改为 7688(或您在步骤 2 中用于转发的端口)，将密码字段留空(因为我们在步骤 2 中要求不进行身份验证)，然后单击连接。
 
 它应该将您连接到默认的 graph.db 数据库，看起来应该如下所示。
 
-[![Neo4j Connection Established](../Images/5fd13df62e4034ab2dcb7e4af4240dbb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pSJBx-20--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rohitfarmer.github.io/images/neo4j-2.png)
+[![Neo4j Connection Established](img/5fd13df62e4034ab2dcb7e4af4240dbb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pSJBx-20--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rohitfarmer.github.img/neo4j-2.png)

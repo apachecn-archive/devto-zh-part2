@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/vaibhavshah/top-reasons-to-opt-for-iterative-approach-to-mobile-app-development-173d>
 
-[![Iterative Approach to Mobile App Development](../Images/8d89e35be44b08fb038ea998422db581.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TozOdPDh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i6an6yld371prncee7fp.jpg)
+[![Iterative Approach to Mobile App Development](img/8d89e35be44b08fb038ea998422db581.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TozOdPDh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i6an6yld371prncee7fp.jpg)
 
 在移动应用程序用户中，一旦他们开始使用应用程序，他们就会希望应用程序中有一些额外的功能，这是很常见的。但是，这也是一个普遍的事实，人们继续使用相同的移动应用程序，尽管缺少了这些元素。这就是为什么移动应用的推出总是受欢迎的原因。如今，企业在其移动应用战略中采用的移动应用开发迭代方法在这种推广中起着关键作用。
 

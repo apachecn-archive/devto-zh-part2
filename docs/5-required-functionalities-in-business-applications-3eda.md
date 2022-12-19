@@ -8,7 +8,7 @@
     在本主题中，您可能会想到全球化或更改应用程序原始语言的能力，但这是关于客户可以将单词或消息更改或翻译成任何语言的模块或功能。这一点很重要，因为有些公司用不同的名称来称呼相同的职位、领域或流程；例如，交付经理、项目经理或客户经理通常是同样的职位，承担着同样的责任，您可以通过翻译使您的软件适应客户。
 
 2.  导入或批量更新:
-    [![Alt text of image](../Images/08ba099ff574414d1be98e6a3040c7c3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7-k1TOsF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1250/1%2AvyxZk_WkssZeoTYYQ9uuTw.png) 
+    [![Alt text of image](img/08ba099ff574414d1be98e6a3040c7c3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7-k1TOsF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1250/1%2AvyxZk_WkssZeoTYYQ9uuTw.png) 
     试想想这种情况。您已经完成了在您的应用程序中创建新员工的完美表单，验证了所有字段并具有高性能，但是客户需要创建 5000 名新员工。这意味着在应用程序上创建所有公司。在这种情况下，最好上传一个包含所有记录的 excel 文件，只使用一个过程就可以轻松地插入所有记录。
 
 3.  日志文件和日志:
@@ -20,6 +20,6 @@
 
 5.  检查状态和配置:
 
-[![Alt text of image](../Images/295afc8f2d8bfcb24be38ccf6a4a0351.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wZMwBuSb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1250/1%2A70AsGndUpfKM6kCWT-VKLw.png)
+[![Alt text of image](img/295afc8f2d8bfcb24be38ccf6a4a0351.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wZMwBuSb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1250/1%2A70AsGndUpfKM6kCWT-VKLw.png)
 
 “应用程序再次关闭，我们找不到问题所在”。嗯，当您部署包含巨大变化的新版本或为新客户设置新环境时，这是很常见的。基本上，您可以通过构建一个功能来避免这个问题，在这个功能中，管理员用户可以很容易地看到当前的应用程序状态并检查配置。例如，有时某个文件由于某种原因而丢失，或者某些文件需要特定文件夹中的特殊权限，因此您可以在“检查状态”功能中添加所有这些验证。

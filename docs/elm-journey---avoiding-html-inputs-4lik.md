@@ -33,7 +33,7 @@ HTML 输入有自己独立的状态，与你自己的 Elm `Model`分开。当这
 
 一旦你意识到问题，你可以继续使用这些输入...只是不要设置`name`属性(也没有必要设置`value`)。但是为了样式的灵活性，我倾向于用只显示的元素来替换它们。例如，您可以使用图标和文本。下面是一个使用语义 UI 的复选框替换示例。
 
-[![active toggle switch](../Images/404a0b555fa018fd499d215169a1a8a9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ezHzrdyo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dyjax4src8lpdkbxdwrj.png)T3】
+[![active toggle switch](img/404a0b555fa018fd499d215169a1a8a9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ezHzrdyo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dyjax4src8lpdkbxdwrj.png)T3】
 
 ```
 div []
@@ -44,7 +44,7 @@ div []
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![inactive toggle switch](../Images/5fcc1fa76d54be3ce9b9c07c580802eb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nVYxn_3U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o8dqnudoex0zpxwq512l.png)T3】
+[![inactive toggle switch](img/5fcc1fa76d54be3ce9b9c07c580802eb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nVYxn_3U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o8dqnudoex0zpxwq512l.png)T3】
 
 ```
 div []

@@ -12,7 +12,7 @@ SQL Server Management Studio 确实提供了一些工具来帮助实现这一点
 选择你想要的(进程、函数、视图等)
 保存到文件，每个对象一个文件，并指定目标文件夹。我有一个单独的文件夹来存储过程、视图和函数，并分别导出它们。
 
-[![screenshot](../Images/c29fb046171da54b970cccd09db228e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--45kQUpj7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sr9ae1jvax4szw36r68g.png)
+[![screenshot](img/c29fb046171da54b970cccd09db228e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--45kQUpj7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sr9ae1jvax4szw36r68g.png)
 
 确保选择了 ANSI 文本，这样 git 就可以轻松区分文件。这是我第一次犯错的原因。
 
@@ -27,7 +27,7 @@ SQL Server Management Studio 确实提供了一些工具来帮助实现这一点
 
 对于视图和函数，我们想做一些类似的事情，但是使用检查存在性的脚本 create 会生成字符串形式的 CREATE，这很难看，更难维护，并且只创建一次，而不是在创建后改变视图/函数。我认为这是由于 SQL Server 处理视图和函数的一些复杂性，而您可以很容易地创建一个伪存储过程并立即修改它。这里有一个例子:
 
-[![script](../Images/1309a30c0535ae685a7630761149fb1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EJNVwLA6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9qyjsfqxztojdxflu3tg.PNG)
+[![script](img/1309a30c0535ae685a7630761149fb1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EJNVwLA6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9qyjsfqxztojdxflu3tg.PNG)
 
 这显然没那么有用。但是我们不能总是删除和创建，因为如果视图/功能不存在(初始运行)，这将不起作用，并且我们不能总是创建，因为这是不可重新运行的。
 所以:Do 2 生成。一个只用于水滴，检查是否存在。

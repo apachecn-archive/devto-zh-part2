@@ -8,7 +8,7 @@
 
 这是我刚刚做的一个小实验。在这段代码中，我创建了一个包含 100，000，000 个整数的向量，然后使用 5 种不同的方法对其元素求和，计算每种方法需要的时间。结果(每种方法 5 次迭代的平均值)如下。请注意横轴上的对数刻度。
 
-[![](../Images/12fbd75954814bb8d308b758906815ca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aAtvr7O2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://asawicki.info/files/Efficient_way_of_using_std_vector_Plot.png)
+[![](img/12fbd75954814bb8d308b758906815ca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aAtvr7O2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://asawicki.info/files/Efficient_way_of_using_std_vector_Plot.png)
 
 这里是我的测试程序的完整源代码:
 
@@ -95,11 +95,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 如您所见，在调试配置中，有些方法比其他方法慢 3 个数量级以上！差别如此之大，以至于如果你像这样写你的程序或游戏，它的调试版本可能无法使用任何合理大小的输入数据。但如果看拆解的话，应该也不奇怪。例如，方法 4 在循环的每次迭代中调用向量方法`size()`和`operator[]`。我们知道，在调试配置中，函数没有被内联和优化，所以这些是真正的函数调用:
 
-[![](../Images/030e129818f1f5611c986f9b1c8ce092.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--14I1b_AL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://asawicki.info/files/Efficient_way_of_using_std_vector_Debug.png)
+[![](img/030e129818f1f5611c986f9b1c8ce092.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--14I1b_AL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://asawicki.info/files/Efficient_way_of_using_std_vector_Debug.png)
 
 另一方面，在指向 vector 底层数据的原始指针上操作的方法 5 在调试配置中并不比发布慢多少。从调试版本反汇编:
 
-[![](../Images/a59e8985d3830900bd019c365fae7420.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LqJybaUG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://asawicki.info/files/Efficient_way_of_using_std_vector_Debug_Pointer.png)
+[![](img/a59e8985d3830900bd019c365fae7420.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LqJybaUG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://asawicki.info/files/Efficient_way_of_using_std_vector_Debug_Pointer.png)
 
 所以我的结论是:使用 std::vector 来处理内存管理和重新分配，并使用原始指针来访问其数据是最好的方法。
 

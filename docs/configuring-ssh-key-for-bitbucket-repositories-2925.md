@@ -87,23 +87,23 @@ Enter fullscreen mode Exit fullscreen mode
 
 登录 [Bitbucket](//www.bitbucket.org) 并搜索您的用户图标:
 
-[![#1 Search your user icon](../Images/201a9f1fd275dd8b9717168c4565409a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1AZx2qfB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/40waihj872lwzahnhrkm.png)
+[![#1 Search your user icon](img/201a9f1fd275dd8b9717168c4565409a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1AZx2qfB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/40waihj872lwzahnhrkm.png)
 
 现在点击*位桶设置*选项:
 
-[![Click that option](../Images/0f1c76b59daf78138811db3dade4c0b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lASLBpbu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t4m3d3x6am4v4xaodprl.png)
+[![Click that option](img/0f1c76b59daf78138811db3dade4c0b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lASLBpbu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t4m3d3x6am4v4xaodprl.png)
 
 现在点击 *SSH 键*选项:
 
-[![Click that option](../Images/45ae4f3f8c60f86b6290f4263c2cf709.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CGOvwpkQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u2wcmdxualmchg7gb42q.png)
+[![Click that option](img/45ae4f3f8c60f86b6290f4263c2cf709.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CGOvwpkQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u2wcmdxualmchg7gb42q.png)
 
 现在按下*添加键*按钮。如果您之前配置了一个 SSH 密钥，那么它将被列出(像我的一样):
 
-[![Press the button](../Images/48fa410a088e706a966335c81a7ec63a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IALLi8ZI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/txiuxth6gu9akto1bdfo.png)
+[![Press the button](img/48fa410a088e706a966335c81a7ec63a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IALLi8ZI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/txiuxth6gu9akto1bdfo.png)
 
 最后，输入您喜欢的任何名称，然后**粘贴您在步骤 2** 中看到的内容:
 
-[![Press save](../Images/56add55b77d552996eeb3064e4bfaa24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LcFR9BWE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nxguns78en77fd76j6fa.png)
+[![Press save](img/56add55b77d552996eeb3064e4bfaa24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LcFR9BWE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nxguns78en77fd76j6fa.png)
 
 仅此而已。很容易不是吗？
 
@@ -111,8 +111,8 @@ Enter fullscreen mode Exit fullscreen mode
 
 是时候证明你做得很好了，所以创建或转到任何存储库并按下*克隆*按钮。您应该看到 SSH 选项被选中:
 
-[![Press clone button](../Images/de192eefa56005d963059b7b4ed3a9a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w6o2b3l6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tqonb9ntz5irguvqm44j.png)
+[![Press clone button](img/de192eefa56005d963059b7b4ed3a9a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w6o2b3l6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tqonb9ntz5irguvqm44j.png)
 
 最后，克隆你的库，然后**开心点**😁：
 
-[![Be happy](../Images/0fa799e0946f03802e53354c7b6d8090.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Pqe2bD_i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vlygkwmj214e8rn0tkac.png)
+[![Be happy](img/0fa799e0946f03802e53354c7b6d8090.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Pqe2bD_i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vlygkwmj214e8rn0tkac.png)

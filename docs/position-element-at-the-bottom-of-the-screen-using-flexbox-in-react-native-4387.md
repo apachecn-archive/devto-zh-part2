@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/onmyway133/position-element-at-the-bottom-of-the-screen-using-flexbox-in-react-native-4387>
 
-[![](../Images/0878aa587a9f5385cda1ad5df11aa9fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OKxqqRvr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AI6Shwpq7vceXFIBo.jpg)
+[![](img/0878aa587a9f5385cda1ad5df11aa9fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OKxqqRvr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AI6Shwpq7vceXFIBo.jpg)
 
 React Native 使用 [Yoga](https://github.com/facebook/yoga) 来实现 [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) 风格的布局，这有助于我们以一种声明式的简单方式设置布局。
 
@@ -14,7 +14,7 @@ React Native 使用 [Yoga](https://github.com/facebook/yoga) 来实现 [Flexbox]
 
 考虑这个传统的欢迎屏幕，其中有一些文本和一个登录按钮。
 
-[![](../Images/24c02240813f391a94104cf9fcc48220.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mkNVd66J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AmYxO00FDyT91dNaFHeCvIA.png)
+[![](img/24c02240813f391a94104cf9fcc48220.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mkNVd66J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AmYxO00FDyT91dNaFHeCvIA.png)
 
 这很容易实现
 
@@ -105,7 +105,7 @@ bottom: {
 
 这是结果的样子
 
-[![](../Images/ac5b8e01f4df35e58f4a12e690b89c1a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--48F3Qqcj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AJ2SIgsqzREyRz-GSsgoKIA.png)
+[![](img/ac5b8e01f4df35e58f4a12e690b89c1a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--48F3Qqcj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AJ2SIgsqzREyRz-GSsgoKIA.png)
 
 这是完整的代码
 

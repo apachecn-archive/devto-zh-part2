@@ -14,7 +14,7 @@
 > 
 > 我看不出为什么这么长？”
 
-<figure>[![](../Images/a77ca91dadd590750ef88835e7362c0a.png)](http://bit.ly/expo-release) 
+<figure>[![](img/a77ca91dadd590750ef88835e7362c0a.png)](http://bit.ly/expo-release) 
 
 <figcaption>我给你画了一张画。我想现在你可以明白为什么这是一个漫长的过程😉</figcaption>
 
@@ -78,7 +78,7 @@ curl -o app.ipa “$(exp url:ipa)”
 
 猜猜看？我还不能按下按钮，因为我的应用程序是由机器人分析的。
 
-<figure>[![](../Images/0560c5ece71542a2ca86d0e017779c63.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cjgm22FC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AMrEpUTCJ8sGp2Cq5ufWEDA.png) 
+<figure>[![](img/0560c5ece71542a2ca86d0e017779c63.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cjgm22FC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AMrEpUTCJ8sGp2Cq5ufWEDA.png) 
 
 <figcaption>你的建造还不能用于你的 QA 团队</figcaption>
 
@@ -92,7 +92,7 @@ curl -o app.ipa “$(exp url:ipa)”
 
 好消息是，您可以在活动选项卡中跟踪进度。
 
-<figure>[![](../Images/fd8c67837a66ec799153b1e1eac64ab8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bYiBhD_A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2APj6FGs79BSL3q2ggn6xk6g.png) 
+<figure>[![](img/fd8c67837a66ec799153b1e1eac64ab8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bYiBhD_A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2APj6FGs79BSL3q2ggn6xk6g.png) 
 
 <figcaption>仍在处理</figcaption>
 
@@ -102,7 +102,7 @@ curl -o app.ipa “$(exp url:ipa)”
 
 你的 app 又回来了！但是你有一些额外的小步骤要做:提供出口合规信息。很简单，*你只需要按一个按钮*。
 
-<figure>[![](../Images/deb78c0775b573c721d9bbe728625871.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cnSroQ8c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/667/1%2AwORNuR3IXBGjTgsFyWMo9g.gif) 
+<figure>[![](img/deb78c0775b573c721d9bbe728625871.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cnSroQ8c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/667/1%2AwORNuR3IXBGjTgsFyWMo9g.gif) 
 
 <figcaption>再按一次 iOS 发布键</figcaption>
 

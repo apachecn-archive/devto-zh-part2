@@ -25,11 +25,11 @@
 
 在这一部分中，我将描述 QAs 做什么以及何时做。我将要描述的阶段是软件测试生命周期(STLC)中常见的(和通用的)部分。
 
-[![software-testing-life-cycle](../Images/0f56a00d61ecf241dc5afd896cb798b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--62mof5Jz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/07/qa1.png)
+[![software-testing-life-cycle](img/0f56a00d61ecf241dc5afd896cb798b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--62mof5Jz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/07/qa1.png)
 
 #### 第一阶段——需求收集
 
-[![Requirements-Gathering](../Images/0ada93fc4a6d9b7d44bafe0af56c2a47.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8oQOi3e_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/07/qa2.png)
+[![Requirements-Gathering](img/0ada93fc4a6d9b7d44bafe0af56c2a47.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8oQOi3e_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/07/qa2.png)
 
 在我看来，这是最重要的阶段。在第一次见面时，客户大致描述他们想要什么。他们概述了所需应用程序或服务的功能，以及它应该包括哪些功能，但很少提到他们希望它包括的技术。
 
@@ -43,7 +43,7 @@
 
 #### 第二阶段–测试计划
 
-[![Test-Planning](../Images/d5a0e8356ea51e4cbc3638d7a6bb96cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AHBm-dzk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/07/qa3.png)
+[![Test-Planning](img/d5a0e8356ea51e4cbc3638d7a6bb96cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AHBm-dzk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/07/qa3.png)
 
 在这个阶段，QAs 定义测试策略。通过定义策略，我的意思是对整个项目(=软件产品)进行时间和精力的估计。在需求分析之后，QAs 创建一个称为测试计划的文档。它包括项目的可交付成果、范围和目标、负责的角色，并定义了测试环境。
 
@@ -51,13 +51,13 @@
 
 #### 第三阶段——测试开发
 
-[![Test-Development](../Images/ebe7510a78f89df6558af5eff2651d37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5noeKzsI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/07/qa4.png)
+[![Test-Development](img/ebe7510a78f89df6558af5eff2651d37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5noeKzsI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/07/qa4.png)
 
 现在我们有了一个测试计划，我们建立一个测试环境并创建测试用例。测试用例是我们需要采取的一组步骤，以验证软件产品是否没有错误，是否按照指定的需求工作。在这之后，我们考虑验收标准——也就是说，一个软件产品要被认为是成功的，应该满足的技术标准。
 
 #### 阶段 4–测试执行
 
-[![Test-Development](../Images/50e4bec89c731a6f046845e3acd19297.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MGDPQuxi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/07/qa5.png)
+[![Test-Development](img/50e4bec89c731a6f046845e3acd19297.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MGDPQuxi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/07/qa5.png)
 
 这是许多人认为 QA 唯一的工作——根据计划执行所有测试用例的阶段。如果系统的某个部分运行良好，我们将其标记为通过。这样，我们可以确保我们没有遗漏任何细节，产品是高质量的。
 
@@ -65,7 +65,7 @@
 
 #### 第 5 阶段–测试报告
 
-[![Test-Development](../Images/7d9dead26fd573b146284e6d8952918d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0KaMD4Jx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/07/qa6.png)
+[![Test-Development](img/7d9dead26fd573b146284e6d8952918d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0KaMD4Jx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/07/qa6.png)
 
 在产品测试之后，是时候讨论什么是好的，什么是错的，以改进进一步的测试周期。为了确保快速修复 bug 而不被开发人员误解，每个检测到的问题都必须被很好地记录下来。稍后我会告诉你 QAs 从不同角度测试产品最常用的技术。
 
@@ -82,7 +82,7 @@
 *   **安全交易。**你有一个支付系统，而且运行良好。用户为服务付费并得到它。然而，你没有检查某些情况下，钱不去你，但一个随机的银行账户。这是件大事，也是致命的，尤其是如果我们谈论的是数千美元。
 *   **存钱。**下图清楚地显示了生命周期阶段和成本之间的关系。修复一个漏洞比预防它更昂贵。修复一个错误可能会产生另一个错误，所以问题会迅速升级。
 
-[![cost-of-fixing-sofrware-bugs](../Images/2c7b209893a291c5b9620781d9fc1c8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fSQQGygo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/07/Img-2.png)
+[![cost-of-fixing-sofrware-bugs](img/2c7b209893a291c5b9620781d9fc1c8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fSQQGygo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/07/Img-2.png)
 
 *   保护你的名誉。如果你发布了一个有问题的产品，而用户对它有不好的体验，那么很难说服他们问题已经解决了，他们可以再次使用这个产品。经验法则:第一印象很难改变。
 *   **保证产品质量。**如果没有从里到外进行测试，产品可能无法正常工作或根本无法工作。测试需要理论知识，所以如果你不是专业人士，很难保证质量。
@@ -116,7 +116,7 @@
 
 下图显示了最常见的测试设计技术。
 
-[![test-design-techniques](../Images/9ea730ec030ec6fae0b8518c268c38cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KWKb7w15--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/07/qa8.png)
+[![test-design-techniques](img/9ea730ec030ec6fae0b8518c268c38cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KWKb7w15--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/07/qa8.png)
 
 让我们仔细看看我们需要的每一种技术和案例。
 
@@ -138,7 +138,7 @@
 
 没有特殊技能，测试一个系统是不容易的，即使是有经验的开发人员也不太可能成功。这就是为什么最好的团队让 QA 和开发者一起工作；他们可以在追求高质量软件的过程中结合他们的技能。
 
-[![what-qa-engineer-does-how-it-helps-to-build-better-products](../Images/db944053fcda18ad29de44c1d5ef059b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ypGZmcaG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/07/qa7.png)
+[![what-qa-engineer-does-how-it-helps-to-build-better-products](img/db944053fcda18ad29de44c1d5ef059b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ypGZmcaG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/07/qa7.png)
 
 这篇文章是由伊琳娜·梅舍金娜写的。关于[质量保证](https://djangostars.com/blog/why-you-need-qa/)的文章最初发表在 Django Stars 博客上。
 您还可以访问我们的内容平台[产品部落](https://producttribe.com/)，它是由专业人士为那些参与产品开发和成长过程的人创建的。

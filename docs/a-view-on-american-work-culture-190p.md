@@ -4,7 +4,7 @@
 
 我在美国工作了一个月，作为一个拉丁美洲人，我可以指出劳动文化是非常不同的，看看我列出的我们文化之间的差异，并在下面的评论区告诉我你的想法。
 
-[![](../Images/c8f707a7ca4d107d9a5bf751447c36e6.png)](https://media-exp1.licdn.com/dms/image/C4E12AQGr-nZqmWqpug/article-inline_image-shrink_1000_1488/0/1552071175468?e=1647475200&v=beta&t=ve87I_Hm2t2oJUHVc2ILzCZ-B3M5ef0NBq3z4FQvoAU) 
+[![](img/c8f707a7ca4d107d9a5bf751447c36e6.png)](https://media-exp1.licdn.com/dms/image/C4E12AQGr-nZqmWqpug/article-inline_image-shrink_1000_1488/0/1552071175468?e=1647475200&v=beta&t=ve87I_Hm2t2oJUHVc2ILzCZ-B3M5ef0NBq3z4FQvoAU) 
 时间就是金钱
 
 强调你不应该浪费时间，因为你可以用它来赚钱。美国人时刻牢记这一点，并投入所有可能的时间来完成他们的任何商业想法。

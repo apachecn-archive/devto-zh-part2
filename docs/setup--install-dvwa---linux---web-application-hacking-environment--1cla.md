@@ -6,7 +6,7 @@
 
 如果你是网络安全新手，想在网络安全领域领先。我建议您阅读'[Kickstart Your Web Application Security Career](https://sinxloud.com/beginner-web-security-researcher/)'，您将从所提供的技巧和资源中受益匪浅。
 
-[![DVWA Beginner](../Images/78e9b1189dc9decf7b2823dfdfe1a5cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MhEL75IW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sinxloud.com/wp-content/uploads/2018/08/DVWA-website-Screenshot-1024x491.png.webp)
+[![DVWA Beginner](img/78e9b1189dc9decf7b2823dfdfe1a5cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MhEL75IW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sinxloud.com/wp-content/uploads/2018/08/DVWA-website-Screenshot-1024x491.png.webp)
 
 **DVWA 中涵盖的攻击**
 
@@ -40,7 +40,7 @@ DVWA 是用 PHP 和 MySQL 为安全专业人士或有抱负的安全专业人士
 
 完成后，在浏览器中键入 127.0.0.1，您将看到默认的 Apache 2 网页，如下所示:
 
-[![Apache 2 Installation](../Images/1e3dfcdc34bdaba76aa89904489b49da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vwujgihc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sinxloud.com/wp-content/uploads/2018/08/Apache2.png)
+[![Apache 2 Installation](img/1e3dfcdc34bdaba76aa89904489b49da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vwujgihc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sinxloud.com/wp-content/uploads/2018/08/Apache2.png)
 
 查看完该测试页面后，您可以通过键入以下命令来删除它:
 
@@ -64,7 +64,7 @@ DVWA 是用 PHP 和 MySQL 为安全专业人士或有抱负的安全专业人士
 
 完成后，在浏览器中键入 127.0.0.1/DVWA/
 
-[![DVWA Installation](../Images/86b783134f8ee5993a12d75da6f40a5f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RSNbtGUu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sinxloud.com/wp-content/uploads/2018/08/DVWA-Apache-Page--1024x538.png.webp)
+[![DVWA Installation](img/86b783134f8ee5993a12d75da6f40a5f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RSNbtGUu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sinxloud.com/wp-content/uploads/2018/08/DVWA-Apache-Page--1024x538.png.webp)
 
 *   更改 DVWA 的权限
 
@@ -156,7 +156,7 @@ DVWA 是用 PHP 和 MySQL 为安全专业人士或有抱负的安全专业人士
 
 您将看到默认的 PHP 信息页面，如下所示:
 
-[![PHP Installation](../Images/fef6037a3251cdf9b3b36a4a5e96d275.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CDPqpJyO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sinxloud.com/wp-content/uploads/2018/08/PHP-Information-Page.png)
+[![PHP Installation](img/fef6037a3251cdf9b3b36a4a5e96d275.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CDPqpJyO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sinxloud.com/wp-content/uploads/2018/08/PHP-Information-Page.png)
 
 查看完这个测试 PHP 页面后，如果需要，您可以通过键入以下命令来删除该文件:
 
@@ -196,7 +196,7 @@ DVWA 需要一个 PHP 模块，但该模块没有安装到 Kali Linux 或 elemen
 
 这里有一个截屏，显示了你的文件在编辑后的样子。
 
-[![PHP Installation](../Images/e624989ead757458844e9ed333822643.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uXitXGvJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sinxloud.com/wp-content/uploads/2018/08/Edit-DVWA-Config-File-1024x591.png.webp)
+[![PHP Installation](img/e624989ead757458844e9ed333822643.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uXitXGvJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sinxloud.com/wp-content/uploads/2018/08/Edit-DVWA-Config-File-1024x591.png.webp)
 
 完成后，我们需要编辑 apache2 的主配置(php.ini)文件，默认情况下，它不会被 DVWA 正确覆盖。
 
@@ -207,7 +207,7 @@ DVWA 需要一个 PHP 模块，但该模块没有安装到 Kali Linux 或 elemen
 
 这是利用文件上传漏洞所必需的。下面是 php.ini 修改后的截图。
 
-[![Jump to line 821 in php.ini](../Images/0cb5d82355a1434c8ee896075c963d0f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B5jVOJll--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sinxloud.com/wp-content/uploads/2018/08/Edit-Php.ini-for-DVWA-1024x645.png.webp)
+[![Jump to line 821 in php.ini](img/0cb5d82355a1434c8ee896075c963d0f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B5jVOJll--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sinxloud.com/wp-content/uploads/2018/08/Edit-Php.ini-for-DVWA-1024x645.png.webp)
 
 保存对 php.ini 的更改后，我们需要遵循更多的步骤。
 
@@ -229,7 +229,7 @@ DVWA 需要一个 PHP 模块，但该模块没有安装到 Kali Linux 或 elemen
 
 `iceweasel http://127.0.0.1/DVWA/setup.php`
 
-[![Test DVWA Installation](../Images/a42b08c0cc9ee7debf81628ff5052944.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hQE9GByq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sinxloud.com/wp-content/uploads/2018/08/Setup-DVWA-1024x834.png.webp)
+[![Test DVWA Installation](img/a42b08c0cc9ee7debf81628ff5052944.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hQE9GByq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sinxloud.com/wp-content/uploads/2018/08/Setup-DVWA-1024x834.png.webp)
 
 您将被重定向到网络浏览器，类似的页面将出现在您面前。
 
@@ -237,7 +237,7 @@ DVWA 需要一个 PHP 模块，但该模块没有安装到 Kali Linux 或 elemen
 
 *   使用 MySQL 用户和密码登录
 
-[![DVWA Login](../Images/978a6b33f248555c74e28833a591ee7b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J4EOydYz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sinxloud.com/wp-content/uploads/2018/08/DVWA-Install-Complete-Login-Page-1024x485.png.webp)
+[![DVWA Login](img/978a6b33f248555c74e28833a591ee7b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J4EOydYz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sinxloud.com/wp-content/uploads/2018/08/DVWA-Install-Complete-Login-Page-1024x485.png.webp)
 
 现在，通过点击“DVWA 安全”来登录以改变漏洞的强度。
 

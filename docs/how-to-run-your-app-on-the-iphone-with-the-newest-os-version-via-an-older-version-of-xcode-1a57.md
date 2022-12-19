@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nikola/how-to-run-your-app-on-the-iphone-with-the-newest-os-version-via-an-older-version-of-xcode-1a57>
 
-[![](../Images/c2917cb6c489c57893a94af9c8efb17c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uAD13vpz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eb5uo0q24j0fl37jboc3.jpg)
+[![](img/c2917cb6c489c57893a94af9c8efb17c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uAD13vpz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eb5uo0q24j0fl37jboc3.jpg)
 
 *最初发布于[我的博客](http://www.nikola-breznjak.com/blog/ios/run-app-iphone-newest-os-version-via-older-version-xcode/)T3】*
 

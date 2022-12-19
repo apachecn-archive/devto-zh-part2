@@ -25,7 +25,7 @@
 
 对于[扩展面板](https://material.io/guidelines/components/expansion-panels.html)——或者列表，图标(`arrow_drop_up` / `arrow_drop_down`)并不代表面板的状态，而是用户的意图——如果我按下它会发生什么？
 
-[![Components Expansion Panels](../Images/c77574a5867a72584edd9b6c7df13276.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9bWEOxdd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lobotuerto.com/blog/a-little-critique-of-google-material-design-and-its-associated-websites/components-expansion-panels.png)
+[![Components Expansion Panels](img/c77574a5867a72584edd9b6c7df13276.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9bWEOxdd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lobotuerto.com/blog/a-little-critique-of-google-material-design-and-its-associated-websites/components-expansion-panels.png)
 
 由指南举例:
 
@@ -38,9 +38,9 @@
 
 在[密码编辑](https://material.io/guidelines/components/text-fields.html#text-fields-input-types)上，情况正好相反:
 
-[![Shown password](../Images/9d8275bce2f3a8d8146417c8172afc8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OUeFWWZp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lobotuerto.com/blog/a-little-critique-of-google-material-design-and-its-associated-websites/password1.png)
+[![Shown password](img/9d8275bce2f3a8d8146417c8172afc8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OUeFWWZp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lobotuerto.com/blog/a-little-critique-of-google-material-design-and-its-associated-websites/password1.png)
 
-[![Hidden password](../Images/1dc7d4ca6adaafc5cc850fe9880f904d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4686zuGo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lobotuerto.com/blog/a-little-critique-of-google-material-design-and-its-associated-websites/password2.png)
+[![Hidden password](img/1dc7d4ca6adaafc5cc850fe9880f904d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4686zuGo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lobotuerto.com/blog/a-little-critique-of-google-material-design-and-its-associated-websites/password2.png)
 
 由指南举例:
 

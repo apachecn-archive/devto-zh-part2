@@ -20,7 +20,7 @@
 
 随着时间的推移，我已经收集了一些技巧，我希望这些技巧的数量越来越多。我们开始吧。
 
-[![](../Images/b314024227ed5ac40be30ee94a0522af.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KyY-j9hy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/702/1%2ABEYou2n_pyxpxPTZ0fd6lw.jpeg) 
+[![](img/b314024227ed5ac40be30ee94a0522af.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KyY-j9hy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/702/1%2ABEYou2n_pyxpxPTZ0fd6lw.jpeg) 
 
 <figcaption>悲伤！！！</figcaption>
 
@@ -30,7 +30,7 @@
 
 如果你不弄清楚如何变得更加冷血来对抗你心爱的生物，你永远无法在这段旅程中成功。我相信我在这里还有很多工作要做，所以任何建议都很感谢。
 
-[![](../Images/e77d850ee0878ea08458531d07d9bf39.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bQkI-uPZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/287/1%2AR1uoCLPlnO-58_HqH8hMzQ.jpeg)
+[![](img/e77d850ee0878ea08458531d07d9bf39.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bQkI-uPZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/287/1%2AR1uoCLPlnO-58_HqH8hMzQ.jpeg)
 
 ### 事先计划好案例
 

@@ -158,7 +158,7 @@ describe("AppController", () => {
 
 Travis 上的运行也向 Cypress 发送测试的捕获，你可以在这里查看它们。下面截图:
 
-[![Retrofeed 4.1](../Images/fe27a08822e060d62f63ed6a2efee48a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2jw-_upp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/v1/./assets/retrofeed-4-1.png)
+[![Retrofeed 4.1](img/fe27a08822e060d62f63ed6a2efee48a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2jw-_upp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/v1/./assets/retrofeed-4-1.png)
 
 最后，一个非常有用的大规模手工测试工具是 [ngrok](https://ngrok.com/) 。使用`yarn ngrok`启动服务，并按照它的指示临时在线发布应用程序。
 

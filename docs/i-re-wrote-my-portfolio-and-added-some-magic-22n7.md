@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/flexdinesh/i-re-wrote-my-portfolio-and-added-some-magic-22n7>
 
-[![Dinesh Pandiyan - Dev Landing Page](../Images/4fccc80989e0f6df6f74fe7e2b183049.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IXrZJ4y_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/erwyaS/portfolio.png)
+[![Dinesh Pandiyan - Dev Landing Page](img/4fccc80989e0f6df6f74fe7e2b183049.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IXrZJ4y_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/erwyaS/portfolio.png)
 
 ***TL；**博士——我在 React 中重写了我的[作品集](https://flexdinesh.github.io)，并添加了一些小众的技巧，让它看起来更闪亮、更炫。每次刷新页面，都会加载一个新的外观。*
 

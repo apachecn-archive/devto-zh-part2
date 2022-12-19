@@ -4,7 +4,7 @@
 
 *用自定义断言验证您的代码*
 
-[![](../Images/c06e67cebdd9f3726307ffb7a055e488.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CpCoGxLJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AzKuWcfqLosfVWjD_vPxieA%402x.png)
+[![](img/c06e67cebdd9f3726307ffb7a055e488.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CpCoGxLJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AzKuWcfqLosfVWjD_vPxieA%402x.png)
 
 ### 问题
 
@@ -68,7 +68,7 @@ func test\_equals\_allPropertiesMatch\_isTrue() {
 
 如果我们运行这个测试，它通过了，一切都好。但是当断言失败时，Xcode 会在错误的位置显示失败。
 
-[![](../Images/ff04f520a59ca08ffa4747ec4c7fcb8c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--flpI1x1E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/452/1%2ALOEtYibl8_EdWNsDk9Nl3A.png) 
+[![](img/ff04f520a59ca08ffa4747ec4c7fcb8c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--flpI1x1E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/452/1%2ALOEtYibl8_EdWNsDk9Nl3A.png) 
 
 <figcaption>注意:我不得不更改设置来强制中断测试。</figcaption>
 
@@ -106,7 +106,7 @@ func assertSymmetricallyEqual(
 
 再次运行测试，我们得到以下结果:
 
-[![](../Images/0ed55a68915f0f6d6e2cf68101e1ce25.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pPBvwVlj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/471/1%2AQ0DBTd6g5o3C9Y_lDa-qQQ.png)
+[![](img/0ed55a68915f0f6d6e2cf68101e1ce25.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pPBvwVlj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/471/1%2AQ0DBTd6g5o3C9Y_lDa-qQQ.png)
 
 好吧！这正是我们要找的。现在，失败恰恰出现在我们需要看到它们的地方。🙌
 

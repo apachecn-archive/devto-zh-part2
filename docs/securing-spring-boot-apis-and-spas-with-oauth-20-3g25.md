@@ -6,4 +6,4 @@
 
 [读下去🍃](https://auth0.com/blog/securing-spring-boot-apis-and-spas-with-oauth2/?utm_source=dev&utm_medium=sc&utm_campaign=springboot_spa_securing)
 
-[![Securing Spring Boot APIs and SPAs with OAuth 2.0](../Images/101d63c31ab94f93e9d4ef64a0ad17ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hpJrxz-A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p27ne0waoc5swhpesbj2.png)
+[![Securing Spring Boot APIs and SPAs with OAuth 2.0](img/101d63c31ab94f93e9d4ef64a0ad17ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hpJrxz-A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p27ne0waoc5swhpesbj2.png)

@@ -17,11 +17,11 @@
 
 这代表了一个典型的 API——只是一个受 AAD 保护的服务。如果您将 App Service 的内置认证/授权功能用于您的功能，您将获得 App Service 为您验证`Authorization`标头的额外好处。
 
-[![Add Azure AD via Function App → Platform Features → Authentication/Authorization](../Images/84a01919ed3e84eb75594c5c78b39fec.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1KroeV2_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpda.dev/img/1__epEBZiyGpf2zZI6CLHiBQg.png) 通过功能 App 添加 Azure AD 平台功能→认证/授权
+[![Add Azure AD via Function App → Platform Features → Authentication/Authorization](img/84a01919ed3e84eb75594c5c78b39fec.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1KroeV2_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpda.dev/img/1__epEBZiyGpf2zZI6CLHiBQg.png) 通过功能 App 添加 Azure AD 平台功能→认证/授权
 
 接下来，我们将在应用注册中创建一个`appRole`。这实际上是我们可以分配给 MSI 的应用范围。你会像往常一样在 AAD 中找到应用程序的注册，因为应用程序服务中的“快速”管理模式会自动为你创建一个应用程序注册。
 
-[![Note the `allowedMemberType of Application — this creates a scope assignable to an application`](../Images/73680ead6a818445d82339d5efcf330e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bBkLoLxD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpda.dev/img/1__taaPAxBRhvdDcr4cxRdzbg.png) 注`allowedMemberType of Application — this creates a scope assignable to an application`
+[![Note the `allowedMemberType of Application — this creates a scope assignable to an application`](img/73680ead6a818445d82339d5efcf330e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bBkLoLxD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpda.dev/img/1__taaPAxBRhvdDcr4cxRdzbg.png) 注`allowedMemberType of Application — this creates a scope assignable to an application`
 
 现在我们给我们的函数一点代码——这里没有什么太激动人心的。
 
@@ -29,7 +29,7 @@
 
 在我们的 MSI 函数中，我们希望首先启用 MSI。
 
-[![Platform Features → Managed service identity → Turn on](../Images/b33e0826fd2fe382b762536b89d6276b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LAIrLC8d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpda.dev/img/1__8bNtSZXri5KptOeD6W9jvQ.png) 平台特性→托管服务身份→开启
+[![Platform Features → Managed service identity → Turn on](img/b33e0826fd2fe382b762536b89d6276b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LAIrLC8d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpda.dev/img/1__8bNtSZXri5KptOeD6W9jvQ.png) 平台特性→托管服务身份→开启
 
 接下来，我们将添加一些代码。比另一个多一点，但还是不多。
 

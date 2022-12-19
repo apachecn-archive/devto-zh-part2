@@ -6,7 +6,7 @@
 
 作为无服务器的大力提倡者，我对它的未来非常乐观。但当这项技术被错误地吹捧为未来所有应用的灵丹妙药时，我感到很难过。
 
-> ![Cloud Opinion - BRB profile image](../Images/abb786d312347ed78d662148b14e856d.png)云见-BRB@ Cloud _ Opinion![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)2010:
+> ![Cloud Opinion - BRB profile image](img/abb786d312347ed78d662148b14e856d.png)云见-BRB@ Cloud _ Opinion![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)2010:
 > AWS:云是真实的
 > 其他厂商:Lol、书商、真金白银在虚拟化
 > 
@@ -56,7 +56,7 @@
 
 诸如[无服务器数据库](https://www.simform.com/serverless-databases/)、框架、库之类的架构组件还不成熟，开发者没有广泛的选择。
 
-[![Latency Issue](../Images/99ca9d97c107246d72c076f456d9327d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rvN9_q7g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/1LUwUUK.png)
+[![Latency Issue](img/99ca9d97c107246d72c076f456d9327d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rvN9_q7g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/1LUwUUK.png)
 
 其他缺点是**功能中的性能相关问题**、安全漏洞(易受 DoS 攻击)、事件驱动的架构问题，如级联事件导致的滚雪球效应、异步副作用和有害消息。
 

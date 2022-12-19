@@ -8,13 +8,13 @@
 
 只要你的云函数只查询它们将要处理的数据，那么每天运行一个作业并充分利用这些免费配额就会便宜得多。作为一个额外的奖励，你将能够更好地预测你每月的账单，因为你将每天都使用 Firestore。
 
-[![Chris Pratt Happy](../Images/f029f9ce135d5a9483be79ade8ec1f97.png)T2】](https://alexsaveau.dev/assets/chris-pratt.gif)
+[![Chris Pratt Happy](img/f029f9ce135d5a9483be79ade8ec1f97.png)T2】](https://alexsaveau.dev/assets/chris-pratt.gif)
 
 ## 运行日常工作
 
 运行每日 CRON 作业简单得可笑:只需创建一个[云调度器](https://cloud.google.com/scheduler/)作业，设置为每天凌晨 3 点(`0 3 * * *`)运行，发布一个空数据负载(`{}`)到您选择的主题(`daily-tick`)。它看起来会像这样:
 
-[![GCP Scheduler Daily Tick](../Images/bf97bc9757e27edb68cf9dac3b940145.png)T2】](https://alexsaveau.dev/assets/firebase/daily-tick.webp)
+[![GCP Scheduler Daily Tick](img/bf97bc9757e27edb68cf9dac3b940145.png)T2】](https://alexsaveau.dev/assets/firebase/daily-tick.webp)
 
 这个滴答是完全免费的！
 

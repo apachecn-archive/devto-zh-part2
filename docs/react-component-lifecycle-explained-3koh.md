@@ -10,7 +10,7 @@ React 组件有几个生命周期方法，您可以覆盖这些方法以在流�
 
 #### 如果这个视频有帮助，❤️ it 和[订阅我的 YouTube 频道](https://www.youtube.com/channel/UClCm-WAOgN6XLwCpefSVezg?sub_confirmation=1)。
 
-[![theoutlander](../Images/fa3a5404d413070afd491a6351af2493.png)](/theoutlander) [## 如何构建自己的 React 样板文件
+[![theoutlander](img/fa3a5404d413070afd491a6351af2493.png)](/theoutlander) [## 如何构建自己的 React 样板文件
 
 ### 尼克卡尼克 1 月 22 日 1813 分钟阅读
 

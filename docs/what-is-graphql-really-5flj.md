@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/paigen11/what-is-graphql-really-5flj>
 
-[![GraphQL logo](../Images/c1380c7dc4a68c471c118a4c93572b6a.png "GraphQL logo")T2】](///static/4475a2fc4ae5ede0337ec8837f7b1a9d/e85cb/graphql.png)
+[![GraphQL logo](img/c1380c7dc4a68c471c118a4c93572b6a.png "GraphQL logo")T2】](///static/4475a2fc4ae5ede0337ec8837f7b1a9d/e85cb/graphql.png)
 
 ## 简介
 

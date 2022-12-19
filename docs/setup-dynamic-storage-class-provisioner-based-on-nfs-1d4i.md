@@ -155,7 +155,7 @@ spec:
 
 跑`kubectl get deployment nfs-client-provisioner`等着看。
 
-[![](../Images/25919c31f8df088e92697834033c3326.png "Deployment Success")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y6eRz9fi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/syaibc3lyzkq198c089n.png)
+[![](img/25919c31f8df088e92697834033c3326.png "Deployment Success")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y6eRz9fi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/syaibc3lyzkq198c089n.png)
 
 ### 4。测试我们的存储类
 
@@ -206,7 +206,7 @@ spec:
 
 运行`kubectl get pod test-pod`,如果您看到状态“completed ”,这意味着我们的存储类工作了！
 
-[![](../Images/720f18641bb9f35113a7c9637cf2a3ba.png "Test Success")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j4Xj4-T_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/181366888dhblgacl16x.png)
+[![](img/720f18641bb9f35113a7c9637cf2a3ba.png "Test Success")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j4Xj4-T_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/181366888dhblgacl16x.png)
 
 # 总结
 

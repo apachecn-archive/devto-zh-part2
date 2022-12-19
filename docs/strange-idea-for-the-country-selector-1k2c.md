@@ -8,4 +8,4 @@
 
 | ios | 机器人 | 桌面 |
 | --- | --- | --- |
-| [![ios screenshot](../Images/9d9d9bf79e867e73b4dbc3a2766235b0.png)T2】](https://raw.githubusercontent.com/stereobooster/react-simple-country-select/master/other/screenshots/ios.png) | [![android screenshot](../Images/6781bcda7e97cc2ea856e3e1834710b0.png)T2】](https://raw.githubusercontent.com/stereobooster/react-simple-country-select/master/other/screenshots/android.png) | [![desktop screenshot](../Images/95b7c1b42f6468198faa58ed75ee0d5b.png)T2】](https://raw.githubusercontent.com/stereobooster/react-simple-country-select/master/other/screenshots/desktop.png) |
+| [![ios screenshot](img/9d9d9bf79e867e73b4dbc3a2766235b0.png)T2】](https://raw.githubusercontent.com/stereobooster/react-simple-country-select/master/other/screenshots/ios.png) | [![android screenshot](img/6781bcda7e97cc2ea856e3e1834710b0.png)T2】](https://raw.githubusercontent.com/stereobooster/react-simple-country-select/master/other/screenshots/android.png) | [![desktop screenshot](img/95b7c1b42f6468198faa58ed75ee0d5b.png)T2】](https://raw.githubusercontent.com/stereobooster/react-simple-country-select/master/other/screenshots/desktop.png) |

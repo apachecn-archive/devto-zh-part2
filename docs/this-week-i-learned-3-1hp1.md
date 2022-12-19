@@ -8,7 +8,7 @@
 
 ## [蔚蓝数据报](https://docs.microsoft.com/en-us/azure/azure-databricks/what-is-azure-databricks)
 
-[![DataBricks](../Images/bdd8551a3a866757e66a41fc4501595a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r6AZHxO0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bjbvwqfghxf7dmwt5wl6.png)
+[![DataBricks](img/bdd8551a3a866757e66a41fc4501595a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r6AZHxO0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bjbvwqfghxf7dmwt5wl6.png)
 
 我在去年的 Microsoft Connect 上听说过 Azure DataBricks，但一直没有机会谈论它。这个星期我又遇到了它，所以我想也许我有机会在这里谈论它！
 
@@ -22,7 +22,7 @@
 
 ## [Caramella](https://caramel.la/)
 
-[![Caramella](../Images/0b4099e19ba0be0eaf772069702aae97.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d_p9ds3M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/btog2w6hx9ntxpuxba7v.png)
+[![Caramella](img/0b4099e19ba0be0eaf772069702aae97.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d_p9ds3M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/btog2w6hx9ntxpuxba7v.png)
 
 Caramella 是一个新的博客平台，可以让你发布非常漂亮的帖子。我喜欢把它看作是 Adobe Spark Page 的替代品。它看起来很棒，真的。看看吧！
 
@@ -44,13 +44,13 @@ Caramella 是一个新的博客平台，可以让你发布非常漂亮的帖子�
 
 当有人访问或离开你的网站时，这个工具使用谷歌分析发出声音。
 
-[![Chirpss](../Images/ad898776127881dff63512f7bfa5c164.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S0qO92Ap--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/onw6zclc44viiamilr8w.png)
+[![Chirpss](img/ad898776127881dff63512f7bfa5c164.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S0qO92Ap--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/onw6zclc44viiamilr8w.png)
 
 ## [t1](#gitkube)[吉特立方](https://github.com/hasura/gitkube)
 
 > 使用 git push 构建 docker 映像并将其部署到 Kubernetes
 
-[![GitKube](../Images/3cbade2297934ccbeff60c12ff48d09f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XppKuEg0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0gjy1ykek90hh05ciqan.png)
+[![GitKube](img/3cbade2297934ccbeff60c12ff48d09f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XppKuEg0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0gjy1ykek90hh05ciqan.png)
 
 与 Kubernetes 合作的另一个工具。这个允许你一次性设置你的应用和部署 Kubernetes 配置，然后只做 git 推送后续更改。然后，它将自动构建并部署到指定的集群。很酷，是吧？
 
@@ -58,7 +58,7 @@ Caramella 是一个新的博客平台，可以让你发布非常漂亮的帖子�
 
 > 找到你不知道的伟大的工具和资源，发展你的业务
 
-[![Freenio](../Images/22f397a2ff523393f228cc8f82f8da4c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CsIPBeGW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qi0qxfzqjwnivvq8mutb.png)
+[![Freenio](img/22f397a2ff523393f228cc8f82f8da4c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CsIPBeGW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qi0qxfzqjwnivvq8mutb.png)
 
 Freenio 是一个伟大的资源集合，可以帮助你建立你的业务。建立业务所需的所有工具，或者至少你知道你会为哪些应用程序找到替代品。
 
@@ -67,6 +67,6 @@ Freenio 是一个伟大的资源集合，可以帮助你建立你的业务。建
 > 免费工具、云服务和培训
 > 获得在任何平台上构建和部署应用所需的一切。凭借最先进的工具、云的力量、培训和支持，这是我们有史以来最全面的免费开发人员计划。
 
-[![VS Dev Essentials](../Images/a32d0c5a38819af77ed21c6ade986b67.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--37R3A3kU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kj33mes7cofsj3fppeuo.png)
+[![VS Dev Essentials](img/a32d0c5a38819af77ed21c6ade986b67.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--37R3A3kU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kj33mes7cofsj3fppeuo.png)
 
 最后但同样重要的是，如果您想在几个月内免费访问像 PluralSight、LinkedIn Learning 和 DataCamp 这样的资源，请查看 Visual Studio Dev Essentials！没有附加条件！😄

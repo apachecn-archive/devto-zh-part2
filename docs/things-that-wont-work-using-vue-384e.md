@@ -141,12 +141,12 @@ Enter fullscreen mode Exit fullscreen mode
 要注意到这一点，您可以在输入中写一些东西，然后按下按钮(值不会改变),或者您可以使用 dev 工具，看到元素没有被替换:
 
 [https://codepen.io/wistcc/embed/OwgbMg?height=600&default-tab=result&embed-version=2](https://codepen.io/wistcc/embed/OwgbMg?height=600&default-tab=result&embed-version=2)
-[![](../Images/50543f33525f8e202e99f6dfb6e1ad64.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KV2IsnIX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://winnercrespo.com/assets/images/2018-6-21-things-that-wont-work-using-vue-1.gif)
+[![](img/50543f33525f8e202e99f6dfb6e1ad64.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KV2IsnIX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://winnercrespo.com/asseimg/2018-6-21-things-that-wont-work-using-vue-1.gif)
 
 要解决这个问题，我们只需要给它们添加一个键，这样 Vue 就知道它们是不同的元素:
 
 [https://codepen.io/wistcc/embed/PBjbNm?height=600&default-tab=result&embed-version=2](https://codepen.io/wistcc/embed/PBjbNm?height=600&default-tab=result&embed-version=2)
-[![](../Images/432834297165abc048c1cf0cad2c6dd1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bf1mn2Z1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://winnercrespo.com/assets/images/2018-6-21-things-that-wont-work-using-vue-2.gif)
+[![](img/432834297165abc048c1cf0cad2c6dd1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bf1mn2Z1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://winnercrespo.com/asseimg/2018-6-21-things-that-wont-work-using-vue-2.gif)
 
 现在我们可以看到，每次单击按钮时，元素都会被替换。
 

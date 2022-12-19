@@ -27,7 +27,7 @@ Docker 是一个开源工具，可以在软件容器中自动部署应用程序�
 
 Docker 通过在作为主机操作系统的独立进程运行的所有容器之间共享操作系统内核，消除了上述所有问题。
 
-[![Alt text of image](../Images/6bf3a84ef48e819482ee8de249f1922e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qAavsIyJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/07/Img-1.png)
+[![Alt text of image](img/6bf3a84ef48e819482ee8de249f1922e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qAavsIyJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/07/Img-1.png)
 
 请记住，Docker 不是第一个也不是唯一的容器化平台。然而，目前 Docker 是市场上最大和最有实力的玩家。
 
@@ -92,7 +92,7 @@ Enter fullscreen mode Exit fullscreen mode
 *   **注册表**–存储 Docker 图像的服务器。它可以与 Github 相提并论——你可以从注册表中取出一个映像，将其部署到本地，并将本地构建的映像推送到注册表中。
 *   [**Docker Hub**](https://hub.docker.com/explore/)——Docker Inc .提供的具有 web 界面的注册表，它存储了大量使用不同软件的 Docker 映像。Docker Hub 是 Docker 团队或与原始软件制造商合作制作的“官方”Docker 映像的来源(不一定意味着这些“原始”映像来自官方软件制造商)。官方图片列出了它们的潜在漏洞。任何登录的用户都可以获得此信息。有免费和付费账户。每个账户可以有一张私人图片，也可以有无限数量的免费公共图片。[**Docker Store**](https://store.docker.com/search?type=image&source=verified)——非常类似 Docker Hub 的服务。这是一个有评级、评论等的市场。我个人的看法是，这是营销的东西。我对 Docker Hub 非常满意。
 
-[![Alt text of image](../Images/973907ee9d85dad8356ef7a2587fac3a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vw1r4KBJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2017/03/docker-vulnera.png)
+[![Alt text of image](img/973907ee9d85dad8356ef7a2587fac3a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vw1r4KBJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2017/03/docker-vulnera.png)
 
 ## 例 1: hello world
 

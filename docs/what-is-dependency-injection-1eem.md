@@ -14,7 +14,7 @@ web 开发界有太多的行话。老实说，令人惊讶的是，我们竟然�
 
 这是它看起来的样子:
 
-[![dependency injection](../Images/11c0e273db851a8cf1d0e86c1a4d3e1d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dnq8WNoN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://flippedcoding.com/wp-content/uploads/2018/11/dependency-inj.jpg)
+[![dependency injection](img/11c0e273db851a8cf1d0e86c1a4d3e1d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dnq8WNoN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://flippedcoding.com/wp-content/uploads/2018/11/dependency-inj.jpg)
 
 那个紫色的盒子可以是任何你想要的东西。这种方法的美妙之处在于，您可以在使用之前对其进行处理。所以如果你需要清理或者移动一些东西，你可以提前做。
 

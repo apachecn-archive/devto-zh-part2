@@ -206,7 +206,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在保存时，我们将能够打开[http://localhost:3000/arena](http://localhost:3000/arena)并看到以下内容:
 
-[![Screenshot of Arena in browser](../Images/3eccbc1df2b1a0ea503ad16827e71de1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--583poWHr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codewithhugo.com/img/20180721-arena-screenshot.jpg)
+[![Screenshot of Arena in browser](img/3eccbc1df2b1a0ea503ad16827e71de1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--583poWHr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codewithhugo.com/img/20180721-arena-screenshot.jpg)
 
 ## 用 Redis 持久化 webhook 数据
 
@@ -626,11 +626,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 作业已经被添加到队列中，我们可以通过打开[的`bull-arena` UI 来检查:](http://localhost:3000/arena/Worker/NOTIFY_URL/waiting)
 
-[![Screenshot of waiting jobs on the NOTIFY_URL queue](../Images/2ad65152860ce8bde9ded3c4da0512b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sIyIb6jO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codewithhugo.com/img/20180721-waiting-jobs.jpg)
+[![Screenshot of waiting jobs on the NOTIFY_URL queue](img/2ad65152860ce8bde9ded3c4da0512b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sIyIb6jO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codewithhugo.com/img/20180721-waiting-jobs.jpg)
 
 通过单击其中一个`__default__`作业，我们可以看到有效负载、URL 和 id 被正确地传入:
 
-[![Data content of job in queue](../Images/9fbfa676d35b9553a1dd6a7ce0873a6f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CSNZxjYF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codewithhugo.com/img/20180721-job-payload.jpg)
+[![Data content of job in queue](img/9fbfa676d35b9553a1dd6a7ce0873a6f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CSNZxjYF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codewithhugo.com/img/20180721-job-payload.jpg)
 
 ## 处理岗位⚙️
 

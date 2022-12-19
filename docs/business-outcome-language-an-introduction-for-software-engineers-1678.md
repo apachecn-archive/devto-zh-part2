@@ -35,7 +35,7 @@
 
 ### *我们办不到！*
 
-[![Dilbert Technical Debt](../Images/ad39808e772380a7485f11cb2cb52aa2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dgitigUe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i1.wp.com/alediaferia.com/wp-content/uploads/2018/08/tech-debt-dilbert.gif%3Fzoom%3D1.7999999523162842%26w%3D900%26ssl%3D1)
+[![Dilbert Technical Debt](img/ad39808e772380a7485f11cb2cb52aa2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dgitigUe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i1.wp.com/alediaferia.com/wp-content/uploads/2018/08/tech-debt-dilbert.gif%3Fzoom%3D1.7999999523162842%26w%3D900%26ssl%3D1)
 
 > “你所要求的在那个日期之前是不可能做到的。我们积累的技术债务意味着我们需要 3 个月的时间来重构服务类，以支持这一新功能。我们还必须更新到数据库的最新版本，以支持这种变化……“
 > –*一个实施世界本地*
@@ -52,7 +52,7 @@
 
 ### *我也会说你们的语言，我会告诉你到底该怎么做！*
 
-[![Dilbert Feature Creep](../Images/de9adb52a4ed8a604329cc351531306e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S9KTjI35--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/alediaferia.com/wp-content/uploads/2018/08/dilbert_product_development.jpg%3Fw%3D600%26ssl%3D1)
+[![Dilbert Feature Creep](img/de9adb52a4ed8a604329cc351531306e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S9KTjI35--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/alediaferia.com/wp-content/uploads/2018/08/dilbert_product_development.jpg%3Fw%3D600%26ssl%3D1)
 
 > “我们需要在页面上添加一个新按钮，以便用户可以将数据导出为 PDF 格式。”
 > –*一个讲实施语言的商业世界本地人*

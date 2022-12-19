@@ -6,7 +6,7 @@
 
 这是 4 部分系列的第 2 部分。查看第 1 部分，获得对 [TakeShape](https://www.takeshape.io/) 的介绍，并学习内容建模和内容创建。在第 3 部分(即将推出)中，您将学习如何将静态站点部署到 Netlify。在第 4 部分(即将推出)中，您将进一步扩展您的技能，并学习如何在 Gatsby.js 中使用 TakeShape。
 
-[![A screenshot of the JAMstack site you’ll be building.](../Images/cf1a4e47aa5a81eb16a2b68ae7fbf2b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EBfMITIe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4g8kx0b0z5qt62u86cw5.png)
+[![A screenshot of the JAMstack site you’ll be building.](img/cf1a4e47aa5a81eb16a2b68ae7fbf2b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EBfMITIe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4g8kx0b0z5qt62u86cw5.png)
 
 在第 1 部分中，您学习了如何建模和创建内容，并通过 TakeShape 的 GraphQL API 使其可用。现在，您将了解如何结合使用 TakeShape 的静态站点生成器和 API 来快速创建 JAMstack 网站。您将在本地机器上创建并配置一个 TakeShape 静态站点，编写 GraphQL 查询文件，并在 HTML 模板中使用这些查询返回的数据。
 

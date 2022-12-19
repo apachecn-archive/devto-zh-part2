@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/managing-multiple-central-stores-with-vuex-62p>
 
-[![](../Images/d7cb47fa28b5d7134acfc87a15ab0807.png)](https://vuex.vuejs.org/)
+[![](img/d7cb47fa28b5d7134acfc87a15ab0807.png)](https://vuex.vuejs.org/)
 
 <figcaption>[https://vuex.vuejs.org/](https://vuex.vuejs.org/)</figcaption>
 
@@ -14,7 +14,7 @@
 
 我们如何在一个 **Vue** 应用程序的这些组件之间共享数据呢？
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 #### 为什么是 Vuex？
 
@@ -30,7 +30,7 @@
 
 那么，在嵌套组件之间共享数据的最佳方式是什么呢？
 
-[![](../Images/86da8d3d44ad46a91fc6085b72639afa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bWlGQgoJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/691/1%2A4WmNM3B-R8zy555cr68AVA.jpeg) 
+[![](img/86da8d3d44ad46a91fc6085b72639afa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bWlGQgoJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/691/1%2A4WmNM3B-R8zy555cr68AVA.jpeg) 
 
 <figcaption>具有嵌套组件的系统</figcaption>
 
@@ -46,13 +46,13 @@ Vuex can also be considered as a library implementation tailored specifically fo
 
 Vuex 的作用或多或少像是应用程序中所有组件的中央**存储库**——一个你可以从中汲水的水桶。无论应用程序中有多少(嵌套的)组件，任何组件都可以访问**存储**。
 
-[![](../Images/dbe9eeacf7eddf91a73a0c36fe040aab.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--omprGrhn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/199/1%2AaEbrLamj4nefAMavaDNt0w.jpeg) 
+[![](img/dbe9eeacf7eddf91a73a0c36fe040aab.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--omprGrhn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/199/1%2AaEbrLamj4nefAMavaDNt0w.jpeg) 
 
 <figcaption>Vuex 抽象😃</figcaption>
 
 让我们来看看 Vuex 背后的架构。如果架构图看起来有点混乱，请放松。你绝对被覆盖了！
 
-[![](../Images/d9f3dbfa305d1d1692e03fde535cae44.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Xy6WSfzc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/701/1%2AKIoNyRO6s_52W68Y-0usJw.png) 
+[![](img/d9f3dbfa305d1d1692e03fde535cae44.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Xy6WSfzc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/701/1%2AKIoNyRO6s_52W68Y-0usJw.png) 
 
 <figcaption>Vuex 架构—来自[文档](https://vuex.vuejs.org)</figcaption>
 
@@ -109,11 +109,11 @@ Vuex 主要致力于商店的概念——属于商店的物品可以很容易地
 
 一个状态也可以被认为是一个观察者，它监视一个属性的生命周期。在本文中，我们监视的属性称为 counter。
 
-[![](../Images/558f19f07175a04733c41baa8823fbf6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--M4JcLlE---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/671/1%2ATOa1pW9i1sjhP6Cro78mLg.jpeg)
+[![](img/558f19f07175a04733c41baa8823fbf6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--M4JcLlE---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/671/1%2ATOa1pW9i1sjhP6Cro78mLg.jpeg)
 
 让我们创建一个简单的应用程序，它有两个子组件(**计数器和显示器**)和一个**主组件**。计数器组件有两个按钮，**增加**使计数器属性加 1，**减少**使计数器减 1。显示组件显示计数器的当前结果，而**主**组件*将两者组合成一个组件。*
 
-[![](../Images/daf01000f3ade46cec5d15f5f618c4ce.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ph7KF50G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/910/1%2AgYcNKpodp9VjRvDNPKU_kQ.gif) 
+[![](img/daf01000f3ade46cec5d15f5f618c4ce.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ph7KF50G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/910/1%2AgYcNKpodp9VjRvDNPKU_kQ.gif) 
 
 <figcaption>访问计数器状态</figcaption>
 
@@ -192,7 +192,7 @@ export const store = new Vuex.Store({
 
 尽管上面的*状态模式*很简单，但是当需要修改当前状态并跨多个组件显示时，它很容易变得混乱。
 
-[![](../Images/a03bcc7fe081b5ef9b5089a8864e021c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Wa3KwiBi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/801/1%2AVvac8-CcGymFoUE2VvI2Eg.jpeg) 
+[![](img/a03bcc7fe081b5ef9b5089a8864e021c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Wa3KwiBi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/801/1%2AVvac8-CcGymFoUE2VvI2Eg.jpeg) 
 
 <figcaption>状态模式的下行</figcaption>
 
@@ -206,7 +206,7 @@ export const store = new Vuex.Store({
 
 Getters 返回中央存储中的状态。这确保了不会直接从存储中访问状态。在应用程序中的任何组件访问状态之前，修改状态也更容易。
 
-[![](../Images/9ccd9f51420a3db3ef888f5ab228b62e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nRufCf5G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/761/1%2AZSIf178JMeR126x3IQkCYQ.jpeg) 
+[![](img/9ccd9f51420a3db3ef888f5ab228b62e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nRufCf5G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/761/1%2AZSIf178JMeR126x3IQkCYQ.jpeg) 
 
 <figcaption>接入态或用吸子修改态</figcaption>
 
@@ -320,7 +320,7 @@ mapGetters({
 
 > 由**突变**完成的更新状态现在反映在访问应用程序中的 getters 的所有组件中。
 
-[![](../Images/6e91b7340e10042240d64a0e1d6493d9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fxUZiJ6X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/739/1%2AK_5RIpTXZaUxhiujPfHVFw.jpeg) 
+[![](img/6e91b7340e10042240d64a0e1d6493d9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fxUZiJ6X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/739/1%2AK_5RIpTXZaUxhiujPfHVFw.jpeg) 
 
 <figcaption>突变</figcaption>
 
@@ -414,7 +414,7 @@ mapMutations({
 
 随着 web 应用程序变得越来越大，您可能希望连接到远程服务器。该操作肯定会被视为异步操作，因为我们无法判断请求何时完成。如果通过突变直接处理，状态的更新将超出预期的结果
 
-[![](../Images/427b7ce7e4631ad694ab654d45023d3e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pBHvkpuk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/571/1%2A9xBT5N1oqkkg_tuk6lkBUQ.jpeg) 
+[![](img/427b7ce7e4631ad694ab654d45023d3e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pBHvkpuk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/571/1%2A9xBT5N1oqkkg_tuk6lkBUQ.jpeg) 
 
 <figcaption>变异处理同步活动</figcaption>
 
@@ -426,7 +426,7 @@ mapMutations({
 
 *动作*是 Vuex 的另一个片段。我们或多或少可以称**行动**为帮手。这是一个函数，在让突变知道已经做了什么之前，运行任何类型的操作。它的**从组件中分派**，并提交(更新)突变的状态。
 
-[![](../Images/ecdbd8fb4ce39bf074e3ed3f2b29978b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HpgIJHnc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/751/1%2Arv5er-3AbPQag2qQDNVERw.jpeg) 
+[![](img/ecdbd8fb4ce39bf074e3ed3f2b29978b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HpgIJHnc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/751/1%2Arv5er-3AbPQag2qQDNVERw.jpeg) 
 
 <figcaption>动作如何工作</figcaption>
 
@@ -648,7 +648,7 @@ export default {
 </script> 
 ```
 
-[![](../Images/7a6ca0680f0ce3c65e06adc0ca0b035d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gbUbnZfF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/752/1%2Aj8wfHl9KIqJwRqjROkkd-A.gif)
+[![](img/7a6ca0680f0ce3c65e06adc0ca0b035d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gbUbnZfF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/752/1%2Aj8wfHl9KIqJwRqjROkkd-A.gif)
 
 <figcaption>3 ms 后计数器增加 5</figcaption>
 
@@ -664,7 +664,7 @@ Vuex 让您可以根据项目结构的类型灵活地管理多个中央存储。
 
 ## Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![LogRocket Dashboard Free Trial Banner](../Images/0abf868fe5ccbed99d71cb8d9e81ed98.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6FG5kvEL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png%3Fresize%3D1200%252C677%26ssl%3D1)
+[![LogRocket Dashboard Free Trial Banner](img/0abf868fe5ccbed99d71cb8d9e81ed98.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6FG5kvEL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png%3Fresize%3D1200%252C677%26ssl%3D1)
 
 [log rocket](https://logrocket.com/signup/)是一个前端日志工具，让你重放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

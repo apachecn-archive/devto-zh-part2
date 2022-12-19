@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/pemtajo/an-overview-about-hash-functions-theory-and-security-139e>
 
-<figure>[![](../Images/4dcc4873b54c357bcf87e29a00cbd4b4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Wh6RhYof--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/640/1%2AHuCZw-nGPkTsaORer4g4jg.jpeg) 
+<figure>[![](img/4dcc4873b54c357bcf87e29a00cbd4b4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Wh6RhYof--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/640/1%2AHuCZw-nGPkTsaORer4g4jg.jpeg) 
 
 <figcaption>[葡文版](https://pemtajo.github.io/hash_teoria_seguranca/)</figcaption>
 
@@ -76,7 +76,7 @@
 
 ### 哈希是如何被破解的
 
-[![Alt Text](../Images/0dbd5bd994d61a074d6916b746226ef9.png)T2】](https://i.giphy.com/media/1230rTAtEjLyLu/giphy.gif)
+[![Alt Text](img/0dbd5bd994d61a074d6916b746226ef9.png)T2】](https://i.giphy.com/media/1230rTAtEjLyLu/giphy.gif)
 
 通过 hash 的性质，我们已经看到，给定一个 hash H(x)要发现输入 x 在计算上应该是不可行的，所以不可能“解密”hash，毕竟这是一个不允许返回的操作。
 
@@ -100,7 +100,7 @@
 
 首先，攻击者创建一个查找表，将数据库契约的每个密码哈希映射到拥有该哈希的用户列表。
 
-[![](../Images/c5d1afe12a39dee4e8e6580e93f3062b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IM1vdy3h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/721/1%2AlS8fY6ly3mvrHLUMHMcGlw.png)
+[![](img/c5d1afe12a39dee4e8e6580e93f3062b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IM1vdy3h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/721/1%2AlS8fY6ly3mvrHLUMHMcGlw.png)
 
 然后，攻击者进行字典攻击或暴力攻击，一旦发现密码，他就已经有了拥有该密码的用户列表。这种攻击非常有效，因为许多用户拥有相同的密码是很常见的。
 
@@ -116,17 +116,17 @@
 
 当黑客拥有这个散列时，他可以只使用一个网站或一些特定的程序，该程序将测试数据库中是否有这个散列，并返回生成它的值。比如说[http://md5decrypt.net/en/Sha1/#answer](http://md5decrypt.net/en/Sha1/#answer)
 
-[![](../Images/d1c9bf9675271edb7c05399e10cb5e60.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--knPclWs7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AERrzhfm0bYdNmA7nNIzgUQ.png)
+[![](img/d1c9bf9675271edb7c05399e10cb5e60.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--knPclWs7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AERrzhfm0bYdNmA7nNIzgUQ.png)
 
 最常用的 100 个密码的列表可能已经存在于所有可能的散列库中，因此存在使用越来越难的密码来使这些散列库变得困难的活动。但是即使有这些问题，用户也不希望有使用更复杂密码的问题，所以作为一个开发者，了解这些攻击，解决这个问题的最佳方案是什么？在你的杂烩里多放些“盐”。
 
-[![Alt Text](../Images/a72f5556fa318b95d5a41aab8d2402fd.png)T2】](https://i.giphy.com/media/12Oy8aAs0CbTgY/giphy.gif)
+[![Alt Text](img/a72f5556fa318b95d5a41aab8d2402fd.png)T2】](https://i.giphy.com/media/12Oy8aAs0CbTgY/giphy.gif)
 
 ### 盐与安全部署
 
 salt 的概念是在密码中加入一些附加信息，以增加计算散列时的复杂性，例如:
 
-[![](../Images/054aaa7d95811af2a08729752db1e432.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RnTFeeew--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/934/1%2AbKVK5-5jmYo7N9QdQyFSHA.png)
+[![](img/054aaa7d95811af2a08729752db1e432.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RnTFeeew--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/934/1%2AbKVK5-5jmYo7N9QdQyFSHA.png)
 
 在密码中加入附加信息会使创建查找表变得更加困难。
 

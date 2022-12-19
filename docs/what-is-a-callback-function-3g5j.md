@@ -10,7 +10,7 @@
 
 回调函数让你运行你的代码，直到一个事件触发它。然后回调运行，然后你回到你原来的函数。下面是一个回调函数的示例:
 
-[![callback function](../Images/f881484c6735b0bbee5433dabc727226.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OZ_ZE2xf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://flippedcoding.com/wp-content/uploads/2018/11/callback.jpg)
+[![callback function](img/f881484c6735b0bbee5433dabc727226.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OZ_ZE2xf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://flippedcoding.com/wp-content/uploads/2018/11/callback.jpg)
 
 你可以看到回调在做任何事情之前一直在等待，一旦回调函数返回，代码就开始做事情。这就是回调函数的全部内容。是的，确实如此。
 

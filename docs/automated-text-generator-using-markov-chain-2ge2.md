@@ -4,7 +4,7 @@
 
 #### 参考提供的代码，查看该算法如何工作的分步指南。
 
-[![](../Images/fbc97d479a5b42be8165b9e064f43fd8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pesSA8Xe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ALjoLl6iiRelnUMOWzz_zow.jpeg) 
+[![](img/fbc97d479a5b42be8165b9e064f43fd8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pesSA8Xe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ALjoLl6iiRelnUMOWzz_zow.jpeg) 
 
 <figcaption>照片由[托马斯·列斐伏尔](https://unsplash.com/photos/gp8BLyaTaA0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)于 [Unsplash](https://unsplash.com/search/photos/code?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 
@@ -14,7 +14,7 @@
 
 我用两位伟大总统的演讲文本来处理这个问题:
 
-[![](../Images/2dbb0f52ea11fafa3e94f21bc90bce3e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--A0tn6VHi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/520/0%2AGa5lAXlAm89tHqoQ.)
+[![](img/2dbb0f52ea11fafa3e94f21bc90bce3e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--A0tn6VHi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/520/0%2AGa5lAXlAm89tHqoQ.)
 
 <figcaption>screentv.com</figcaption>
 
@@ -31,7 +31,7 @@
 
 对于更技术性的解释，我认为你可以在那里找到大量的资源。简而言之，它是一种算法，用于从基于历史文本的加权单词列表中生成新的结果。这很抽象。更实际地说，在文本生成的场景中，这是一种使用历史文本的方法，将它分割成单个单词(或单词集)，然后随机选择一个给定的单词，然后基于历史序列随机选择下一个可能的单词。例如:
 
-[![](../Images/d6e1d79e504a110b069a858640bbfa17.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--y4Tyz9GC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aah2eGJqTcdiLpVrjTfSznw.png) 括号中的数字表示该词在原词中的出现次数。
+[![](img/d6e1d79e504a110b069a858640bbfa17.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--y4Tyz9GC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aah2eGJqTcdiLpVrjTfSznw.png) 括号中的数字表示该词在原词中的出现次数。
 
 这不仅适用于文本(虽然最流行的应用之一是在智能手机上，那里有预测文本)，它可以用于任何使用历史信息来定义给定状态的后续步骤的场景。例如，您可以对给定的股票市场模式进行编码(例如过去 30 天的每日变化百分比)，然后使用它来查看历史上第二天可能的结果(仅作为示例..我很怀疑会有多大效果)。
 
@@ -43,13 +43,13 @@
 
 使用马尔可夫链生成文本有两个阶段。首先是“字典构建阶段”,它包括收集历史文本，然后生成一个字典，其中的关键字是句子中的给定单词，然后得到的结果是自然的后续单词。
 
-[![](../Images/8eefbb0589eada1c7ed0d53d8bcfe215.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Bg_Pl7Am--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AZvHu5HdE9GJfdV3hnhfmiQ.png) 
+[![](img/8eefbb0589eada1c7ed0d53d8bcfe215.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Bg_Pl7Am--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AZvHu5HdE9GJfdV3hnhfmiQ.png) 
 
 <figcaption>在这里你可以看到原来的句子被分解成单词，而后面包含的单词用一个计数器来表示出现的次数。请注意，句号也包括在内。</figcaption>
 
 第二个是执行，你从一个给定的单词开始，然后用这个单词以概率的方式来看下一个单词会是什么。例如:
 
-[![](../Images/7894a970bce627cdff4d858443295856.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MXQriaFw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AVw8ZINzfpPsy89zfFpQaYQ.png) 
+[![](img/7894a970bce627cdff4d858443295856.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MXQriaFw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AVw8ZINzfpPsy89zfFpQaYQ.png) 
 
 <figcaption>遍历字典生成文本</figcaption>
 

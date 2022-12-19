@@ -4,7 +4,7 @@
 
 我今天正在寻找一种方法来给一些终端输出添加一点风格，发现了这个 StackOverflow 帖子解释了如何使用 [ANSI 颜色代码](https://en.wikipedia.org/wiki/ANSI_escape_code)给终端输出添加颜色。下面是我的(MobaXterm / Ubuntu) shell 中以下 Java 代码的输出:
 
-[![](../Images/27e8ab9e145ec6eb9162d30f972ef3d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QxGIN9mR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xej7gshfqqvevqert1fs.png)
+[![](img/27e8ab9e145ec6eb9162d30f972ef3d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QxGIN9mR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xej7gshfqqvevqert1fs.png)
 
 请注意，我没有包括下划线或粗体文本，这两种文本也是可用的。还有一个由迪奥戈·努内斯开发的名为[Java Colored Debug Printer(JCDP)](https://github.com/dialex/JCDP)的库，它将 ANSI 代码翻译成 Windows command prompt 可以处理的东西，使解决方案跨平台。代码如下:
 

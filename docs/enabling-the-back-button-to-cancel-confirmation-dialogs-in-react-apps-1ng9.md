@@ -6,11 +6,11 @@
 
 在 React 应用程序中，我们可以使用浏览器的历史(由我们选择的路由库公开)来确保在对话框打开时按下后退按钮关闭对话框，并将应用程序保留在打开对话框的同一屏幕上。另外，如果用户再次向前导航，我们可以很容易地将对话框恢复到它以前的状态。让我们来看看。
 
-[![](../Images/c8c1ae6ce36ddc3a4608c27f74f84f1d.png)T2】](https://codesandbox.io/s/n74l8jpv6p)
+[![](img/c8c1ae6ce36ddc3a4608c27f74f84f1d.png)T2】](https://codesandbox.io/s/n74l8jpv6p)
 
 为了方便起见，我在 CodeSandbox 上创建了一个例子[来演示最终结果。在这个例子中，我添加了](https://codesandbox.io/s/n74l8jpv6p) [Reach Router](https://reach.tech/router/) 和 [Material UI](https://material-ui.com/) 作为依赖项，以提供路由/导航和一些 UI 控件。我在这里演示的概念应该与 [React Router](https://reacttraining.com/react-router/web/) 和其他 UI 控件库一起工作，不需要太多的修改。
 
- [![Edit React dialogs with back button](../Images/0b3f0135583496627e3621355d8e9248.png)
+ [![Edit React dialogs with back button](img/0b3f0135583496627e3621355d8e9248.png)
 
 T6】](https://codesandbox.io/s/n74l8jpv6p)
 

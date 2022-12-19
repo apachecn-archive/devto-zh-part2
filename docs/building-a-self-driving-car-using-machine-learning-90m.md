@@ -4,7 +4,7 @@
 
 # **简介**
 
-[![Building a Self Driving Car using Machine Learning](../Images/e0ea77298e0785105d83789e4f2dd36f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AMSiqmDX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.suryad.com/content/images/2019/08/0_k4i_wXZQby3xFUPY.jpeg)
+[![Building a Self Driving Car using Machine Learning](img/e0ea77298e0785105d83789e4f2dd36f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AMSiqmDX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.suryad.com/conteimg/2019/08/0_k4i_wXZQby3xFUPY.jpeg)
 
 这是一个关于一名高中生如何单枪匹马击败佐治亚理工学院机器人团队的故事，而不是一场技术深度跳水。为此，下面是与该项目相对应的论文[https://arxiv.org/abs/1807.08233](https://arxiv.org/abs/1807.08233)T3】
 
@@ -20,7 +20,7 @@
 
 从我五年级的夏天开始，我就这样开始了为期 5 年的建造和改装遥控汽车的职业生涯。
 
-<figure>[![Building a Self Driving Car using Machine Learning](../Images/7a4b679a1f8273bd98df3a2cdda10ac4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LY-C956g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.suryad.com/content/images/2019/08/0_k4i_wXZQby3xFUPY--1-.jpeg)
+<figure>[![Building a Self Driving Car using Machine Learning](img/7a4b679a1f8273bd98df3a2cdda10ac4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LY-C956g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.suryad.com/conteimg/2019/08/0_k4i_wXZQby3xFUPY--1-.jpeg)
 
 <figcaption>【ETG】四处打滚</figcaption>
 
@@ -32,7 +32,7 @@
 
 随着时间的推移，我意识到我们机器人团队的团队文化是有毒的。这与我前几年听到的关于这支球队文化的诉讼新闻相吻合。截至写这篇博文时，我无法也不想解释这对机器人团队的每个人来说有多糟糕，但糟糕到我不得不离开。
 
-[![Building a Self Driving Car using Machine Learning](../Images/9bcd0d6b61e8afc16ae28bdb2ece3feb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FAehkp_D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.suryad.com/content/images/2019/08/0_V9mssslJcGJlomaK-1.jpg)
+[![Building a Self Driving Car using Machine Learning](img/9bcd0d6b61e8afc16ae28bdb2ece3feb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FAehkp_D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.suryad.com/conteimg/2019/08/0_V9mssslJcGJlomaK-1.jpg)
 
 虽然我交的许多朋友仍然留在这个团队，但最终让我决定离开的是，我意识到 FIRST 更像是一场基于机械和硬件的竞争。我对机器人的机械或硬件方面并不真正感兴趣，因为大多数时候我没有机会接触这些系统来了解更多的信息(我没有机会接触 CNC 机器或 3D 打印机)。软件肯定有作用，但许多一线团队(据我所知)似乎真的怀疑他们的计算机视觉技能(或缺乏这种技能)或最近的机器学习技能。考虑到 FIRST 是一个面向高中学生的比赛，这更有意义，因为高中学生通常没有学位，也不了解复杂/高级的 CV 或 ML 算法，以及如何在快节奏的比赛中实现它们。除了 CV 或 ML，我见过的(在蒙他 Vista 的机器人团队)唯一需要做的软件是“微调控制”。直到今天，我还不确定蒙他·维斯塔的机器人团队在“微调控制”时在做什么，因为远程控制运动应该不难实现，尤其是当其他团队在 Github 上开源他们的代码时。
 
@@ -40,7 +40,7 @@
 
 离开几周后，附近的一个竞争对手团队，瓦尔基里机器人公司，请我在他们的团队中负责计算机视觉。我接受了这个角色，因为大多数成员也是蒙他维斯塔的学生(关于瓦尔基里的存在以及为什么它只由蒙他维斯塔的学生组成有一个巨大的背景故事)。我每天都花大量时间在那里，但很快就被机器人戏剧吸引住了。我是 2017 年 7 月份走的。
 
-<figure>[![Building a Self Driving Car using Machine Learning](../Images/326a2dca146acc81351e5ad2b3ecc85f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--btYIJq5X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.suryad.com/content/images/2019/08/0_5ZVH1Koxa8sG8Uw9.png) 
+<figure>[![Building a Self Driving Car using Machine Learning](img/326a2dca146acc81351e5ad2b3ecc85f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--btYIJq5X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.suryad.com/conteimg/2019/08/0_5ZVH1Koxa8sG8Uw9.png) 
 
 <figcaption>*图片来自:**[https://www . 33 rdsquare . com/2012/01/what-will-自驾-cars-mean-for-us . html](https://www.33rdsquare.com/2012/01/what-will-self-driving-cars-mean-for-us.html)*</figcaption>
 
@@ -80,7 +80,7 @@
 
 我整合了 OpenCV，一个基本和高级算法的混合体，来处理比赛的不同部分。我知道这将是非常计算昂贵的，但没有那么多，一个 RPI3 和 Dragonboard 410c 并行工作都将耗尽内存和 CPU 的能力。
 
-<figure>[![Building a Self Driving Car using Machine Learning](../Images/b0ad03e0afda8089113111bfb2c0ca45.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zjo_MTOX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.suryad.com/content/images/2019/08/0_GcSK3GsoBJcAR-BX.jpg) 
+<figure>[![Building a Self Driving Car using Machine Learning](img/b0ad03e0afda8089113111bfb2c0ca45.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zjo_MTOX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.suryad.com/conteimg/2019/08/0_GcSK3GsoBJcAR-BX.jpg) 
 
 <figcaption>*再现自己的所作所为。作者:*</figcaption>
 
@@ -128,7 +128,7 @@
 
 长话短说，我从密苏里州拿到了 3D 打印服务订单。他们给了我一个低于 100 美元的合理价格，我觉得还可以。
 
-<figure>[![Building a Self Driving Car using Machine Learning](../Images/0d72b14fa0cec26f16999b30dd8ac05a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BDed6r1V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.suryad.com/content/images/2019/08/0_xAUc4HikFtvZIwfN.jpg) 
+<figure>[![Building a Self Driving Car using Machine Learning](img/0d72b14fa0cec26f16999b30dd8ac05a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BDed6r1V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.suryad.com/conteimg/2019/08/0_xAUc4HikFtvZIwfN.jpg) 
 
 <figcaption>CAD 模型上部底座为 ETG</figcaption>
 
@@ -150,7 +150,7 @@
 
 在我找到 PCA9685 之后，PWM 控制就没那么难了。我用 Adafruit 库最终控制了油门和伺服。
 
-<figure>[![Building a Self Driving Car using Machine Learning](../Images/149448edad569d3c0544fa0d89329801.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--d-svbAje--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.suryad.com/content/images/2019/08/0_zRclaKU1Xn8qP3tf.png) 
+<figure>[![Building a Self Driving Car using Machine Learning](img/149448edad569d3c0544fa0d89329801.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--d-svbAje--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.suryad.com/conteimg/2019/08/0_zRclaKU1Xn8qP3tf.png) 
 
 <figcaption>网络为 ETG</figcaption>
 
@@ -170,7 +170,7 @@
 
 我使用 Tensorflow(我只使用 Tensorflow，尽管我在 Caffe 制作的模型在 RPI3 上运行时出现了一些问题)构建了一个 RNN/LSTM 模型来预测节流阀值。我在我的论文中解释了这一点，但本质上它防止了驱动环路之间的快速变化或停顿。换句话说，它平稳地增加和降低速度，而不是在随机情况下快速加速和减速。在测试期间，DCNN 模型实际上打破了相机模型几次(以及出于某种原因的 ESC)。
 
-<figure>[![Building a Self Driving Car using Machine Learning](../Images/f5c512205cdcc3b0c592d08a8f7a4dcf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yRWMRAtw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.suryad.com/content/images/2019/08/0_jnDL5kb8Ym6aYLXG.jpg) 
+<figure>[![Building a Self Driving Car using Machine Learning](img/f5c512205cdcc3b0c592d08a8f7a4dcf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yRWMRAtw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.suryad.com/conteimg/2019/08/0_jnDL5kb8Ym6aYLXG.jpg) 
 
 <figcaption>*显著物体可视化。视频此处:**[https://www.youtube.com/watch?v=lFjsN7KcKIE](https://www.youtube.com/watch?v=lFjsN7KcKIE)*</figcaption>
 
@@ -218,7 +218,7 @@
 
 我周四看到的那个团队，周五很快就和我成了朋友。他们有一个有点基础的 OpenCV + Arduino 机器人，类似于许多大学级别的机器人。我不得不说，他们的团队中有一些高素质的人，他们了解他们机器人的一切，似乎对他们的机器人充满热情。
 
-[![Building a Self Driving Car using Machine Learning](../Images/80a2a2deae624d8282577755d1028531.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qI9wQD98--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.suryad.com/content/images/2019/08/0_2OipxHbwykMPpKkr.jpg)
+[![Building a Self Driving Car using Machine Learning](img/80a2a2deae624d8282577755d1028531.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qI9wQD98--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.suryad.com/conteimg/2019/08/0_2OipxHbwykMPpKkr.jpg)
 
 最初，我的机器人在四处漫游时做得很好。我很高兴至少基本的手动控制对 SSH 有效。然后我开始遇到我想象中最糟糕的问题。
 

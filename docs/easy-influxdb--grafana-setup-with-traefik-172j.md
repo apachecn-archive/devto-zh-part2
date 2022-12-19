@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/joenas/easy-influxdb--grafana-setup-with-traefik-172j>
 
-[![Easy InfluxDB & Grafana setup with Traefik](../Images/58fc52d5ae266676cc2a1c7fada680c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t_z2kcBW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonnev.se/content/images/2018/08/Screen-Shot-2018-08-15-at-22.09.30-1.png)
+[![Easy InfluxDB & Grafana setup with Traefik](img/58fc52d5ae266676cc2a1c7fada680c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t_z2kcBW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonnev.se/conteimg/2018/08/Screen-Shot-2018-08-15-at-22.09.30-1.png)
 
 有什么比盯着图形看更刺激的？一切都不对。如果你只是喜欢一些系统指标，或者想显示你家一段时间内的温度，像 [InfluxDB](https://www.influxdata.com/time-series-platform/influxdb/) 结合 [Grafana](https://grafana.com/grafana) 这样的时间序列数据库是不错的选择！
 
@@ -147,7 +147,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果一切正常，打开你的 Grafana 网址，你会看到一个登录界面。使用`admin`和您设置为`GF_SECURITY_ADMIN_PASSWORD`的密码。登录后，点击“添加数据源”并填写如下字段。
 
-[![Easy InfluxDB & Grafana setup with Traefik](../Images/196a020632ea7b2e650deb6d6950b06a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QHLdQAhZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonnev.se/content/images/2018/08/grafana-settings.png)
+[![Easy InfluxDB & Grafana setup with Traefik](img/196a020632ea7b2e650deb6d6950b06a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QHLdQAhZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonnev.se/conteimg/2018/08/grafana-settings.png)
 
 Url 设置中的主机名`influx_influxdb_1`来自 docker 网络`influx`，因为服务在单独的容器中，所以这里不能使用`localhost`。
 
@@ -285,7 +285,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在回到 Grafana 实例，创建一些[仪表板](https://grafana.com/dashboards?dataSource=influxdb)！
 
-[![Easy InfluxDB & Grafana setup with Traefik](../Images/42082a84c936a8f7efb2ff755f1dab80.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zfUyJ7_J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonnev.se/content/images/2018/08/Screen-Shot-2018-08-15-at-22.09.30.png)
+[![Easy InfluxDB & Grafana setup with Traefik](img/42082a84c936a8f7efb2ff755f1dab80.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zfUyJ7_J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonnev.se/conteimg/2018/08/Screen-Shot-2018-08-15-at-22.09.30.png)
 
 [电报局系统状态](https://grafana.com/dashboards/4823)为[电报局](https://grafana.com/orgs/broferek)
 

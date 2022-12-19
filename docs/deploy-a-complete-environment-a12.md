@@ -22,14 +22,14 @@
 
 在我的场景中，我希望将存储帐户创建流程与持续部署流程相集成。我可以编写一些 PowerShell 脚本，并将它作为一个步骤添加到我的 CD 定义中。我还可以为我的 CI/CD 工具编写一些自定义扩展，这将为我创建新的存储帐户提供一个很好的视图:)我正在使用 [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/) (它是 Visual Studio Team Services 的继任者)。在投入到 Azure DevOps 扩展开发的一些战斗之后，我最终得到了我以前的一篇帖子中描述的东西:
 
-[![meanin image](../Images/eac22e42f116bab1ea6a5ece836378db.png)](/meanin) [## 在发布管道上创建 Azure 存储帐户
+[![meanin image](img/eac22e42f116bab1ea6a5ece836378db.png)](/meanin) [## 在发布管道上创建 Azure 存储帐户
 
 ### (罗马尼亚语)
 
 #devops #azure #microservices](/meanin/create-azure-storage-account-on-release-pipeline-4kn4)
 
 看起来像下面。不错吧？您可以使用设计良好的用户界面来创建您需要的资源，而不是使用 PowerShell。
-[![img](../Images/c90e010a2c9098231899b57d8df3117d.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--HFQNHPLw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/meanin/vsts-tasks/master/screenshots/createstorageaccount.png)
+[![img](img/c90e010a2c9098231899b57d8df3117d.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--HFQNHPLw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/meanin/vsts-tasks/master/screenshots/createstorageaccount.png)
 
 ### 2。将连接字符串传递给密钥库
 
@@ -39,14 +39,14 @@
 
 因此，我想到了一个主意，在 CD 过程中，就在创建完成之后，将我新创建的存储帐户的连接字符串推送到所选的密钥库。除了内嵌 PowerShell/CLI 脚本之外，我没有找到任何现有的方法来做到这一点。我决定为 Azure DevOps 创建另一个任务，也是在一篇专门的帖子中描述的:
 
-[![meanin image](../Images/eac22e42f116bab1ea6a5ece836378db.png)](/meanin) [## 将存储帐户连接字符串传递到发布管道上的密钥保管库
+[![meanin image](img/eac22e42f116bab1ea6a5ece836378db.png)](/meanin) [## 将存储帐户连接字符串传递到发布管道上的密钥保管库
 
 ### (罗伦斯保威十八章二分钟后开始读)
 
 #devops #azure](/meanin/pass-storage-account-connection-string-to-key-vault-on-release-pipeline-1pkl)
 
 和以前一样，我认为从事代码基础工作的开发人员不应该关心配置部署脚本。看起来像下面:
-[![img](../Images/b54981f2c120120466d1b0dd639a3104.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--K70qsoKi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/meanin/vsts-tasks/master/screenshots/connectionstringtokeyvault.png)
+[![img](img/b54981f2c120120466d1b0dd639a3104.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--K70qsoKi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/meanin/vsts-tasks/master/screenshots/connectionstringtokeyvault.png)
 
 ### 3。种子台存储
 
@@ -54,13 +54,13 @@
 
 我越是深入开发 Azure DevOps 扩展，就越能找到新任务的灵感。现在我创建了一个帮助将数据植入 Azure 表存储的工具。看我的帖子:
 
-[![meanin image](../Images/eac22e42f116bab1ea6a5ece836378db.png)](/meanin) [## 种子台存储
+[![meanin image](img/eac22e42f116bab1ea6a5ece836378db.png)](/meanin) [## 种子台存储
 
 ### paweruciński 11 月 13 日 182 分钟阅读
 
 #devops #azure #microservices](/meanin/seed-table-storage-10an)
 It needs an input JSON file, with predefined two fields which are Azure Table Storage restriction - PartitionKey and RowKey. Any other field can names as needed by an application. The task configuration needs an Azure subscription, Storage Account Name, table name and of course path to seed file. In this case, it is a local JSON file.
-![img](../Images/41e278f25657fa6de3c7394941726fd3.png)
+![img](img/41e278f25657fa6de3c7394941726fd3.png)
 
 ### 4。应用程序部署
 
@@ -72,7 +72,7 @@ It needs an input JSON file, with predefined two fields which are Azure Table St
 
 最后，我准备了一个简短的 ASP.NET 核心演示项目，它从 Azure Table 存储表中读取所有数据，并将其呈现在网站上。在我的 github 上可以找到一个代码库:
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) [意为](https://github.com/meanin)/[ASP-net-core-azure-storage-account](https://github.com/meanin/asp-net-core-azure-storage-account)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) [意为](https://github.com/meanin)/[ASP-net-core-azure-storage-account](https://github.com/meanin/asp-net-core-azure-storage-account)
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
@@ -111,7 +111,7 @@ As you can see in the config file, there is only connection string to a local em
 ```
 
 在触发发布的几分钟后，我看到了这个全新的 web 应用程序，显示了一个源代码库一无所知的表格。瞧啊。
-[![img](../Images/c51544456bed0f36bf95ddf4b7b21ca8.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--PiiA0fTT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/meanin/dev-to-articles/master/img/2018-11-21-deploy-complete-environment/deployed-application.png)
+[![img](img/c51544456bed0f36bf95ddf4b7b21ca8.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--PiiA0fTT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/meanin/dev-to-articles/master/img/2018-11-21-deploy-complete-environment/deployed-application.png)
 
 # P.S
 

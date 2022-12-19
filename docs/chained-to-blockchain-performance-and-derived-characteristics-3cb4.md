@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/harniloza/chained-to-blockchain-performance-and-derived-characteristics-3cb4>
 
-[![blockchain technology](../Images/7024dcc8b779b570451915e9d73f5c5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XoLfHfxI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://bitcoinist.com/wp-content/uploads/2018/05/ss-blockchain-4IR.jpg)
+[![blockchain technology](img/7024dcc8b779b570451915e9d73f5c5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XoLfHfxI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://bitcoinist.com/wp-content/uploads/2018/05/ss-blockchain-4IR.jpg)
 
 区块链技术作为一种新的和革命性的东西在短时间内闯入了世界舞台。虽然它有符合这些特征的方面，但事实是它大部分是由许多已经使用了很长时间的其他技术组成的。这就是为什么经常会发现对其操作或特征的过时或片面的解释。
 

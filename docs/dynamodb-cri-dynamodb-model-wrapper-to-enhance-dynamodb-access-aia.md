@@ -24,13 +24,13 @@ DynamoDB-CRI 是一个用 Typescript 编写的库，它实现了一种访问 Dyn
 *   选项来跟踪所有的实体，并更新所有的信息。
 *   通过 Lambda 和 DynamoDB 流跟踪变化的选项。
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png)[con apps](https://github.com/conapps)/[dynamo db-CRI](https://github.com/conapps/dynamodb-cri)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png)[con apps](https://github.com/conapps)/[dynamo db-CRI](https://github.com/conapps/dynamodb-cri)
 
 ### 增强 DynamoDB 访问的 DynamoDB 模型包装器
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-# DynamoDB-CRI [![Build Status](../Images/80b8ac94b501ecf16fdb391a427ff016.png)](https://travis-ci.org/conapps/dynamodb-cri)
+# DynamoDB-CRI [![Build Status](img/80b8ac94b501ecf16fdb391a427ff016.png)](https://travis-ci.org/conapps/dynamodb-cri)
 
 ## 介绍
 
@@ -57,11 +57,11 @@ DynamoDB-CRI 考虑到了这一点，实现了 DynamoDB 文档站点上详细介
 
 我们的模型将是:
 
-[![animage](../Images/7c260415bf21e5eaaee248df05f9ce90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BYdUpGMy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AyXGMS2cSEjFF3BTk-UhnoA.png)
+[![animage](img/7c260415bf21e5eaaee248df05f9ce90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BYdUpGMy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AyXGMS2cSEjFF3BTk-UhnoA.png)
 
 本例的 express 应用程序托管在 github 中，因此您可以使用它并尝试库。
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png)[【agussnavce】](https://github.com/agusnavce)/[dynamodb-CRI-express](https://github.com/agusnavce/dynamodb-cri-express)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png)[【agussnavce】](https://github.com/agusnavce)/[dynamodb-CRI-express](https://github.com/agusnavce/dynamodb-cri-express)
 
 ### express 中使用 DynamoDB-CRI 的 API 示例
 

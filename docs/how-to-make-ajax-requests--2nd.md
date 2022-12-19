@@ -49,7 +49,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我个人认为最大的问题是没有 IE 11 的支持。
 
-[![Support Fetch API](../Images/e8fed8843169bc04bbcb8db34b7d9819.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2jZ5xY4H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tailomateus.github.io/images/support_fetch.png)
+[![Support Fetch API](img/e8fed8843169bc04bbcb8db34b7d9819.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2jZ5xY4H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tailomateus.github.img/support_fetch.png)
 
 ## Axios -如何使用
 
@@ -105,7 +105,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 大多数使用的浏览器都支持它。
 
-[![Support Fetch API](../Images/ffa590141cf2463dbecb22f284c28b51.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u9j2-CjD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tailomateus.github.io/images/support_axios.png)
+[![Support Fetch API](img/ffa590141cf2463dbecb22f284c28b51.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u9j2-CjD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tailomateus.github.img/support_axios.png)
 
 要了解有关 Axios API 的更多信息:
 

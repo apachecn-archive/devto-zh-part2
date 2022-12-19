@@ -490,7 +490,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 所以为了有一个干净的`GitServer`实现，我当然使用了我所知道的最好的技术:TDD。
 
-[![yo dawg tests](../Images/515ff91d5e560a3f1df995609f6e2a16.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6vcQplEN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/yo-dawg-test.jpg)
+[![yo dawg tests](img/515ff91d5e560a3f1df995609f6e2a16.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6vcQplEN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/yo-dawg-test.jpg)
 
 您可以在 [test_test_helpers.py](https://github.com/SuperTanker/tsrc/blob/master/tsrc/test/test_test_helpers.py) 文件中找到它们。
 

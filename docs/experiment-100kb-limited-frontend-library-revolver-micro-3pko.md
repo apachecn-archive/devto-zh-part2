@@ -6,7 +6,7 @@
 
 对于我的小型 [CMS RevolveR](https://dev.to/xshiftx/writing-revolver-cms-just-for-fun-5efo) 来说，我需要一个前端库，它可以提取请求，并用 HTML 标记编辑器和 HTML 表单美化器的模块制作 3D CSS 动画。
 
-[![RevolveR frontend interface improvements](../Images/de7f1eb31df1e8f4ce913bd074c8a46a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jeOIX6C2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nw3k6i6p5k5vlc4sprea.PNG)
+[![RevolveR frontend interface improvements](img/de7f1eb31df1e8f4ce913bd074c8a46a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jeOIX6C2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nw3k6i6p5k5vlc4sprea.PNG)
 
 所以。我把堆积如山的旧片段用相同的风格在 ES7 上重写了一遍。
 

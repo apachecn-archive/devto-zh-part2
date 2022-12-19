@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/_codingblocks/when-is-an-array-not-an-array-1ooo>
 
-[![Solar Array Picture, Photo by Andreas Gücklhorn on Unsplash](../Images/552b1dd7b4c8d8a3acc76a5d78dd1a3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---3FUkdkP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tpkhtxyqzz4agt1fywn1.jpg)
+[![Solar Array Picture, Photo by Andreas Gücklhorn on Unsplash](img/552b1dd7b4c8d8a3acc76a5d78dd1a3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---3FUkdkP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tpkhtxyqzz4agt1fywn1.jpg)
 
 TL；DR:不要对 JavaScript 数组做奇怪的事情。
 

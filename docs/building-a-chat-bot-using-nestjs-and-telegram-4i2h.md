@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/yemiwebby/building-a-chat-bot-using-nestjs-and-telegram-4i2h>
 
-[![](../Images/a32cdd6c86639299867a4314302532c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NKzpee19--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/738/1%2A0zZ09keEm0AKHSHargUeVQ.jpeg)
+[![](img/a32cdd6c86639299867a4314302532c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NKzpee19--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/738/1%2A0zZ09keEm0AKHSHargUeVQ.jpeg)
 
 ### 简介
 
@@ -28,7 +28,7 @@
 
 *   [Nest.js](https://nestjs.com/) :构建高效可伸缩的服务器端应用的渐进式框架；旨在利用现代 JavaScript 的优势，但仍然保持与纯 JavaScript 的兼容性。
 
-[![](../Images/ea79362328444a5d03d39dc4ce5a5cb6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--guj3Wq9I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2A8_uUnP2g8H8Zj3N_KktFtw.png)
+[![](img/ea79362328444a5d03d39dc4ce5a5cb6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--guj3Wq9I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2A8_uUnP2g8H8Zj3N_KktFtw.png)
 
 *   [Node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) :与官方[电报 Bot API](https://core.telegram.org/bots/api) 交互的 Node.js 模块。
 
@@ -62,11 +62,11 @@ $ npm install --save node-telegram-bot-api
 
 我们基本上会与 Telegram bot API 进行交互。为此，您需要获得一个访问令牌。打开一个[电报 app](https://web.telegram.org/) ，搜索 [@botfather](https://dev.to/botfather) ，开始聊天。使用/newbot 命令创建一个新的 bot。在生成访问令牌之前，僵尸父亲会问你几个问题，比如名字和用户名。
 
-[![](../Images/4d78a70f66b927541e085e19c97cc001.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mbmX79jX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/695/0%2AuA1JKceuZv7b0l5_.png)
+[![](img/4d78a70f66b927541e085e19c97cc001.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mbmX79jX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/695/0%2AuA1JKceuZv7b0l5_.png)
 
 按照所有说明操作，一旦完成，将为您生成一个向 Telegram Bot API 发送请求所需的令牌。如下图所示:
 
-[![](../Images/26a2825bf6b8c858de016fbd22a8a8ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P50SB8oi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ABPP_fA5Qb1_SPRktYuuwWw.jpeg)
+[![](img/26a2825bf6b8c858de016fbd22a8a8ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P50SB8oi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ABPP_fA5Qb1_SPRktYuuwWw.jpeg)
 
 现在，我们已经成功地创建了一个机器人，但它目前是被动的，因为它尚未配置为响应聊天。
 
@@ -175,19 +175,19 @@ $ npm start
 
 这将在 Nest.js 使用的默认端口上启动应用程序。打开浏览器并导航到 [http://localhost:3000](http://localhost:3000) 。
 
-[![](../Images/61abc60fbe3dfc8855192607a0f2426e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L5z2lSnj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AZTnkRysk-zkqei24.png)
+[![](img/61abc60fbe3dfc8855192607a0f2426e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L5z2lSnj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AZTnkRysk-zkqei24.png)
 
 接下来，打开一个[电报应用](https://web.telegram.org/#/im)，搜索 new-nest-bot 或者你的电报机器人的名字，如果你碰巧选择了一个不同的名字。
 
-[![](../Images/36537c062efbf1e9ff661d1e4f34ae15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ASuq4tW1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2Ag0EggNgYipgx4YtK.png)
+[![](img/36537c062efbf1e9ff661d1e4f34ae15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ASuq4tW1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2Ag0EggNgYipgx4YtK.png)
 
 现在，您可以点击开始按钮开始聊天。
 
-[![](../Images/faf69341342162705e51755619347623.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_xxsR09h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ATACZqrOgmoK_0SOr.png)
+[![](img/faf69341342162705e51755619347623.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_xxsR09h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ATACZqrOgmoK_0SOr.png)
 
 如果您目前没有得到响应，不要担心，如果您在不同的选项卡中打开应用程序，只需刷新它。
 
-[![](../Images/f0cd5b9ce5e17ed7e0cc6722e31773af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T3Ys4JGT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ArJybkJUQ4EeURg6O.png)
+[![](img/f0cd5b9ce5e17ed7e0cc6722e31773af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T3Ys4JGT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ArJybkJUQ4EeURg6O.png)
 
 ### 更新服务
 
@@ -213,7 +213,7 @@ import { Component, OnModuleInit } from '@nestjs/common';
 
 如果开发服务器当前正在运行，重启它，然后继续尝试新的 nest-bot
 
-[![](../Images/d4ce5821d87a7ea45ceafb1a97afe91b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mDzW6vF---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AHlU0qbVBhIijVRC1.png)
+[![](img/d4ce5821d87a7ea45ceafb1a97afe91b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mDzW6vF---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AHlU0qbVBhIijVRC1.png)
 
 你可以在 GitHub 的完整对话框中找到完整的 bot.service.ts 文件[。](https://github.com/yemiwebby/nest-telegram-chat-bot/blob/master/src/bot/bot.service.ts)
 

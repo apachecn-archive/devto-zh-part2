@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/michaelherold/finding-rails-migrations-1dhc>
 
-[![Scrabble pieces arranged to spell S-E-A-R-C-H signifying the search for Rails migrations across branches.](../Images/230abde2c09e23fe30ca43b046d7910a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hKr6M29F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oi1xuee9oiz1x32pozhg.jpg)
+[![Scrabble pieces arranged to spell S-E-A-R-C-H signifying the search for Rails migrations across branches.](img/230abde2c09e23fe30ca43b046d7910a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hKr6M29F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oi1xuee9oiz1x32pozhg.jpg)
 
 有时，我发现自己跨越几个分支，帮助不同的队友讲述他们的故事。通常，这些分支机构使用 Rails 迁移来轻松管理支持工作所需的数据库更改。这意味着我最终要从许多不同的分支运行迁移。因为我是人，所以我经常忘记在切换分支之前回滚那些迁移。当破坏性迁移作为分支的一部分必须发生时，它使我处于这样一种情况，我有几个迁移需要在任何给定的时间回滚。此外，如果是一个长期运行的分支，它们可能会与存在于`master`分支上的迁移交错。
 

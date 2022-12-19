@@ -20,7 +20,7 @@
 
 现在，可怕的部分来了，你必须在开始之前输入你的账单信息。记住，如果你打 1000 次以上的电话，你将被收费。
 
-[![](../Images/8a29d73dfa999ae7816e8fc7731168cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NbWyjDBK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/google-vision-billing.png)
+[![](img/8a29d73dfa999ae7816e8fc7731168cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NbWyjDBK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/google-vision-billing.png)
 
 同样，如果您的免费通话次数超过 1000 次，您将需要付费。(什么？我已经说过了吗？哦。)
 
@@ -28,11 +28,11 @@
 
 在设置了计费信息之后，我们仍然需要启用 Cloud Vision API。这是一个安全特性，本质上，所有的谷歌 API 都是默认禁用的，所以如果有人意外进入，他们不会到处释放地狱。
 
-[![](../Images/dce00e091f59875d4def56ac8e9db91d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eNv9cE20--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/enable-cloud-vision.png)
+[![](img/dce00e091f59875d4def56ac8e9db91d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eNv9cE20--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/enable-cloud-vision.png)
 
 现在搜索`Vision`并点击按钮。这里应该有一个炫目的`Enable`按钮。按下它。
 
-[![](../Images/4ea849cfbd6cd5ab89a89b2fd3772a17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hTrBeqgw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/cloud-vision-enable-button.png)
+[![](img/4ea849cfbd6cd5ab89a89b2fd3772a17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hTrBeqgw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/cloud-vision-enable-button.png)
 
 我们需要做的最后一件事是获取 API 密钥。这需要包含在用于认证的 API 调用头中。
 
@@ -44,16 +44,16 @@
 
 我们去拿你的 API 密匙。找到`Credentials`部分
 
-[![](../Images/accbc7efb347614cc2f47642caf41446.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--owbwQ_YO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/google-cloud-vision-credentials.png)
+[![](img/accbc7efb347614cc2f47642caf41446.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--owbwQ_YO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/google-cloud-vision-credentials.png)
 
 您可能看不到任何创建的凭证，因为您可能还没有创建任何凭证。
 
 让我们创建一个新的 API 键。
-[![](../Images/c03827ab10f5a5cdff3b7b5110a8701a.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--ssOVto8T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/google-vision-create-credentials.png)
+[![](img/c03827ab10f5a5cdff3b7b5110a8701a.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--ssOVto8T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/google-vision-create-credentials.png)
 
 我会给这个键起一个有意义的名字，并且只限于 Google Cloud API。
 
-[![](../Images/55e3c873e0da1a00135154947c2791c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LqxC3Am4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/cloud-vision-create-api-key.png)
+[![](img/55e3c873e0da1a00135154947c2791c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LqxC3Am4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/cloud-vision-create-api-key.png)
 
 继续复制您的 API 密钥，因为我们将在下一步中需要它。
 
@@ -141,14 +141,14 @@ npm axios
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/94af34677af5a7ef76ce989a0c1a66e2.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--bK-y6To1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/hepburn.png) {:。另外，让我们创建一个资源目录并下载我们可爱的测试图像。啊，赫本小姐！
+[![](img/94af34677af5a7ef76ce989a0c1a66e2.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--bK-y6To1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/hepburn.png) {:。另外，让我们创建一个资源目录并下载我们可爱的测试图像。啊，赫本小姐！
 
 下载图像时，确保您在`google-vis/resources`项目目录中。
 
 ```
 mkdir resources
 cd resources
-wget https://ladvien.com/images/hepburn.png 
+wget https://ladvien.cimg/hepburn.png 
 ```
 
 Enter fullscreen mode Exit fullscreen mode
@@ -185,7 +185,7 @@ function base64_encode(file) {
 }
 var base64str = base64_encode('./resources/audrey.jpg');
 
-const apiCall = `https://vision.googleapis.com/v1https://ladvien.com/images/:annotate?key=${API_KEY}`;
+const apiCall = `https://vision.googleapis.com/v1https://ladvien.cimg/:annotate?key=${API_KEY}`;
 
 const reqObj = {
     requests:[

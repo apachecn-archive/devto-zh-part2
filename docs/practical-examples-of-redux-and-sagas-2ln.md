@@ -24,7 +24,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您最终将得到一个小的 react 模板:
 
-[![](../Images/c9133d0046d5a674cc800c7cfc5cfddc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HxZOXIYm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2028/1%2A2U-GoQvitCs2CamM1I7LoA.png)
+[![](img/c9133d0046d5a674cc800c7cfc5cfddc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HxZOXIYm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2028/1%2A2U-GoQvitCs2CamM1I7LoA.png)
 
 您可以通过键入 npm start 在本地开发服务器上运行该应用程序。然后打开浏览器进入 [http://localhost:3000](http://localhost:3000) 查看一下。
 
@@ -40,7 +40,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这样一来，让我们创建两个组件，它们将成为我们 redux 消费者(以及 dispatchers)。我们将使用[表示/容器组件模式](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)来做到这一点，因为这将使代码更干净、更易维护。如果您不喜欢这种模式，请随意继续，只是将所有内容放在一起，但我强烈建议您至少尝试一下。
 
-[![](../Images/59fecd5b57a9d4a7e129306dd3cd8677.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2UsTyGvM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A1lylSUFjKv8SdGpuOVcWVQ.png)
+[![](img/59fecd5b57a9d4a7e129306dd3cd8677.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2UsTyGvM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A1lylSUFjKv8SdGpuOVcWVQ.png)
 
 除了根应用程序组件之外，我们的应用程序将由两个组件组成，一个用于添加新的待办事项，我们称之为**待办事项加法器**，另一个用于列出现有待办事项，我们称之为**待办事项列表**。这种布局没有什么特别之处:
 
@@ -294,7 +294,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 说完这些，让我们看看我们已经创建了什么。
 
-[![saga demo](../Images/e282b6478829e10efafba12e1600e16c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pwv5cRpK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AZZtTu2otobgiQ37lQ9-2og.gif)
+[![saga demo](img/e282b6478829e10efafba12e1600e16c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pwv5cRpK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AZZtTu2otobgiQ37lQ9-2og.gif)
 
 ### 总结
 
@@ -488,6 +488,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 停止—演示时间！
 
-[![saga demo](../Images/deda31e88ed84f1838de2e26a07505cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lUZMTyZM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AaO9WI6yW1bSuqJDdyBQ6yg.gif)
+[![saga demo](img/deda31e88ed84f1838de2e26a07505cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lUZMTyZM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AaO9WI6yW1bSuqJDdyBQ6yg.gif)
 
 在那里！我们完成的演示，使用 redux 和 sagas！演示源代码[可以在 GitHub](https://github.com/simskij/medium-react-redux-saga-demo) 上完整获得。不言而喻，这不是产品级代码，我们已经通过跳过错误处理、加载指示器等简化了很多事情**。但我希望它至少让你对进一步的实验感到好奇。**

@@ -21,7 +21,7 @@ h2:before {
 
 结果将是:
 
-[![before_add_element](../Images/f0ad55ed456405da4e264d7d0983e463.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zZ-GgYpZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/03/before_add_element.png)
+[![before_add_element](img/f0ad55ed456405da4e264d7d0983e463.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zZ-GgYpZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/03/before_add_element.png)
 
 这是一个非常简单的原则。您正在某个元素之前或之后添加内容。在**添加图标、[清除浮动](https://kolosek.com/css-clear-float/)** 以及其他许多情况下，这非常有用。
 
@@ -54,7 +54,7 @@ h2:before {
 
 结果是:
 
-[![before_add_icon](../Images/08c392a405089a156bde82ed3b484ed0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JKcr8wVP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/03/before_add_icon.png)
+[![before_add_icon](img/08c392a405089a156bde82ed3b484ed0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JKcr8wVP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/03/before_add_icon.png)
 
 现在，您已经成功地在文本前添加了一个图标。很简单，对吧？
 
@@ -64,7 +64,7 @@ h2:before {
 
 假设你有这种情况:
 
-[![after_clear_float](../Images/662d549f5a0a37a885adb4c4f03f0261.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nPZ3Oqt1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/03/after_clear_float.png)
+[![after_clear_float](img/662d549f5a0a37a885adb4c4f03f0261.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nPZ3Oqt1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/03/after_clear_float.png)
 
 您可以使用下一个代码来实现对浮点数的学习。
 
@@ -102,7 +102,7 @@ CSS
 
 现在，让我们看看结果。
 
-[![after_float_cleared](../Images/fd0b0b7d49ec93eddee5bfcb72cd2d46.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M6_preI9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/03/after_float_cleared.png)
+[![after_float_cleared](img/fd0b0b7d49ec93eddee5bfcb72cd2d46.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M6_preI9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/03/after_float_cleared.png)
 
 通过使用这个方法，你可以**清除浮动**并且段落被移动到两个元素下面。
 
@@ -130,7 +130,7 @@ h2:after {
 
 取得的成果:
 
-[![after_add_background](../Images/25ce807f48cf00a5b729326c491496d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FAhC1vac--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/03/after_add_background.png)
+[![after_add_background](img/25ce807f48cf00a5b729326c491496d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FAhC1vac--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/03/after_add_background.png)
 
 ## 浏览器支持
 

@@ -22,7 +22,7 @@
 
 首先出现在我的 GitHub 墓地的是[弹出式图书馆](https://github.com/jrg94/PopLibrary)，一个被动收入图书馆应用。我在 2016 年春天开始这个项目，那时我刚从大学毕业。将近一年后，我放弃了。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [ jrg94 ](https://github.com/jrg94) / [府库](https://github.com/jrg94/PopLibrary)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [ jrg94 ](https://github.com/jrg94) / [府库](https://github.com/jrg94/PopLibrary)
 
 ### 教师的图书馆申请
 
@@ -50,7 +50,7 @@
 
 我必须将第一个 GitHub 墓地荣誉授予俄耳甫斯，这是我的第一个电子游戏。我在 2014 年在曼彻斯特的时候开发了它。当然，这个游戏是为一门碰巧是声音设计的课程设计的。那个学期的大部分时间我都在玩 Blender，甚至还学了一点 Python。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [ jrg94 ](https://github.com/jrg94) / [俄耳甫斯](https://github.com/jrg94/Orpheus)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [ jrg94 ](https://github.com/jrg94) / [俄耳甫斯](https://github.com/jrg94/Orpheus)
 
 ### 专注于 3D 音频的冒险游戏
 
@@ -80,7 +80,7 @@
 
 在 [Raspberry Pi 项目](https://github.com/jrg94/RaspberryPiProjects)方面，我花了一小段时间探索物联网(IoT)。毕竟，我爱很多。不然我为什么会有一双几乎不能用的 C by GE 睡眠灯泡？
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)[jrg 94](https://github.com/jrg94)/[RaspberryPiProjects](https://github.com/jrg94/RaspberryPiProjects)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)[jrg 94](https://github.com/jrg94)/[RaspberryPiProjects](https://github.com/jrg94/RaspberryPiProjects)
 
 ### Raspberry Pi 开发沙箱
 

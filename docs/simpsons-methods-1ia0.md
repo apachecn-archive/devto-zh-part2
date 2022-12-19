@@ -12,13 +12,13 @@
 
 > 辛普森的 1/3 方法使用二次多项式来近似被积函数。我们需要三个点来确定这个多项式的系数。这些点分别是 *x* <sub>1</sub> = *a* 、 *x* <sub>3</sub> = *b* 和*x*<sub>2</sub>=(*a*+*b*)/2
 > 
-> [![1/3](../Images/753efa50735c1321ecbc0614996d0c97.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qyltl_nn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/milyzy904t8vhkj8v0u3.png)
+> [![1/3](img/753efa50735c1321ecbc0614996d0c97.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qyltl_nn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/milyzy904t8vhkj8v0u3.png)
 > 
 > > 方法中的 1/3 这个名字来源于表达式中的因子。
 > 
 > 如果您想用这种方法更精确地评估积分，您可以使用复合辛普森 1/3 方法，其中您必须使用偶数将整个区间分成 *n* 个子区间，因为辛普森 1/3 方法需要三个点来定义二次多项式，这意味着这种方法一次应用两个相邻的子区间。
 > 
-> [![1/3C](../Images/8b3b796d6e5184520f2efb6f504d1adf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aSiLCSp_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4a0qsfv9wczvdvxl1g6e.png)
+> [![1/3C](img/8b3b796d6e5184520f2efb6f504d1adf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aSiLCSp_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4a0qsfv9wczvdvxl1g6e.png)
 > 
 > > 其中，子间隔 *n* 必须等间距。以及*h*=(*b*-*a*)/*n*
 
@@ -26,13 +26,13 @@
 
 > 辛普森的 3/8 方法使用三次多项式来逼近被积函数。我们需要四个点来确定这个多项式的系数。这些点分别是 *x* <sub>1</sub> = *a* ，*x*<sub>2</sub>=*a*+*h*，*x*T16】3=*a*+2*h*和*x*<sub>4</sub>=*b*
 > 
-> [![3/8](../Images/c735b866f93230b0e3d4125cbf97d86c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h8XmDdhN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pin7tseoulymiru9eonm.png)
+> [![3/8](img/c735b866f93230b0e3d4125cbf97d86c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h8XmDdhN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pin7tseoulymiru9eonm.png)
 > 
 > > 方法中的 3/8 这个名字来源于表达式中的因子。
 > 
 > 如果你想用这种方法更精确地计算积分，你可以使用复合辛普森的 3/8 方法，其中你必须将整个区间分成可被 3 整除的 n 个子区间，因为辛普森的 3/8 方法需要四个点来构造一个三次多项式，这意味着这种方法一次应用三个相邻的子区间。
 > 
-> [![3/8C](../Images/e0e62330b9204b9db5988e61ee0da8ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iOWuyzZH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b3rsjarh9ku9ekovbyxr.png)
+> [![3/8C](img/e0e62330b9204b9db5988e61ee0da8ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iOWuyzZH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b3rsjarh9ku9ekovbyxr.png)
 > 
 > > 其中，子间隔 *n* 必须等间距。以及*h*=(*b*-*a*)/*n*
 
@@ -40,7 +40,7 @@
 
 例如:ECO 公司想要排水并填充一个深度为 5 英尺的受污染沼泽(见下图)。生态公司的首席执行官想知道排干沼泽后需要多少立方英尺的土地来填充该地区。
 
-[![Marsh](../Images/9e9c57c0c171d875678e51a2debe5497.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YO3cA2kw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r89dpf5gxg0853j18syq.png)
+[![Marsh](img/9e9c57c0c171d875678e51a2debe5497.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YO3cA2kw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r89dpf5gxg0853j18syq.png)
 
 为了解决这个问题，我使用了复合辛普森的 1/3 方法。
 

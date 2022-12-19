@@ -6,7 +6,7 @@
 
 今天，我发现了另一个很棒的帖子，标题是[“我在 React 和 Vue 中创建了同一个应用。区别就在这里。”](https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd)我想把 [AppRun](https://github.com/yysun/apprun) 也加入到比较中。
 
-[![original post](../Images/05cc3c9821c4957869a4b001069f0564.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tLHuoL2P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AmJ-qdNqldpgae2U5oS0qDg.png)
+[![original post](img/05cc3c9821c4957869a4b001069f0564.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tLHuoL2P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AmJ-qdNqldpgae2U5oS0qDg.png)
 
 我将重新创建该应用程序，并回答在原始帖子中探索的相同问题:
 
@@ -21,7 +21,7 @@
 
 我像往常一样在 glitch.com 上创建了应用程序。使用 glitch.com 非常方便。下面是现场演示链接:[https://apprun-todo.glitch.me/](https://apprun-todo.glitch.me/)。
 
-[![apprun app](../Images/ce412316c22270fd7c82540684e6597b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4a1M4Rzu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ADWsG3B2utcEmD1rKSbIVpA.png)
+[![apprun app](img/ce412316c22270fd7c82540684e6597b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4a1M4Rzu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ADWsG3B2utcEmD1rKSbIVpA.png)
 
 # 1。项目结构是什么？
 
@@ -55,7 +55,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Parcel 将 src/index.html 编译为新的 dist/index.html。新的 html 文件引用编译的 CSS 和 JavaScript 文件。
 
-[![Compiled index.html](../Images/8e1cb1d3a227564c80b73090f47ee524.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZnSfrBSU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AHpWNhgqzxm7PwPs10krxHg.png)
+[![Compiled index.html](img/8e1cb1d3a227564c80b73090f47ee524.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZnSfrBSU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AHpWNhgqzxm7PwPs10krxHg.png)
 
 todo.294293ff.js 编译自 src/todo.tsx，style.1190871a.css 编译自 style.css. BTW，我更喜欢一个 css/Scss，而不是在组件文件中有单独的 CSS 文件或 CSS。此外，我更喜欢将 CSS 嵌入到 HTML 中(package 目前不这么做)。
 

@@ -8,7 +8,7 @@
 
 首先，这篇文章讲述了网飞在搜索产品目录时，如何将展示给个人的图片个性化。这是对 A/B 测试如何在野外工作的一个很好的分析，当你看到他们进入的细节时，甚至更令人印象深刻。
 
-[![](../Images/7d8f957f31356a4f0b59aa30a0b60039.png)T2】](https://medium.com/@NetflixTechBlog/artwork-personalization-at-netflix-c589f074ad76)
+[![](img/7d8f957f31356a4f0b59aa30a0b60039.png)T2】](https://medium.com/@NetflixTechBlog/artwork-personalization-at-netflix-c589f074ad76)
 
 * * *
 
@@ -22,7 +22,7 @@
 
 接下来是这篇关于旅行的可爱帖子。旅行作为一种完善自我和获得启迪的方式，已经被推到了令人不安的高度。好吧，也许这有点夸张，但最终我们会把它视为一种让我们快乐和改善心情的方式。这篇文章解释了为什么情况并非总是如此。
 
-[![](../Images/d48db79e77322e6e237f756e907dd9b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dx0icxvg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sihq1sank7hku9i3ordb.PNG)
+[![](img/d48db79e77322e6e237f756e907dd9b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dx0icxvg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sihq1sank7hku9i3ordb.PNG)
 
 * * *
 
@@ -38,7 +38,7 @@
 
 随着 Javascript 遍布我们的浏览器，使用它的真正成本是什么？
 
-[![](../Images/030a2d60498b14e14148a12aca08bce7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XwBqH-DY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9gaf5qdw4tw3w0eesd58.PNG)
+[![](img/030a2d60498b14e14148a12aca08bce7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XwBqH-DY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9gaf5qdw4tw3w0eesd58.PNG)
 
 # [网络架构 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
 

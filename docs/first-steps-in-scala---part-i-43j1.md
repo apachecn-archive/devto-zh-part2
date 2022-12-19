@@ -75,7 +75,7 @@ object HelloWorld {
 
 在 IntelliJ IDE 中，它应该是这样的:
 
-[![hello world in IntelliJ](../Images/089f88c2fb85f070350b634332ae0ec6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aKfZvYL2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wyzf2tm8g9mw316j1kzi.png)
+[![hello world in IntelliJ](img/089f88c2fb85f070350b634332ae0ec6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aKfZvYL2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wyzf2tm8g9mw316j1kzi.png)
 
 你不用在终端中输入 scala helloWorld.scala，只需在 IntelliJ 中点击 main 方法旁边的绿色“play”按钮就可以运行你的 helloWorld。
 

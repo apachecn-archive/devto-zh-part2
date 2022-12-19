@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/codetheweb/variables-in-javascript-3m52>
 
-[![Variables in JavaScript](../Images/eb314591f12752636f6fe568b3e58a7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LyeGMs-k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codetheweb.blog/assets/img/posts/javascript-variables/cover.jpg)
+[![Variables in JavaScript](img/eb314591f12752636f6fe568b3e58a7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LyeGMs-k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codetheweb.blog/assets/img/posts/javascript-variables/cover.jpg)
 
 变量是 JavaScript 的核心部分——事实上，它们是几乎所有编程语言的核心部分。它们让你存储信息，也是 JavaScript 如此强大的基础。在这篇文章中了解它们...
 

@@ -12,7 +12,7 @@
 
 一旦你有你的帐户设置，我们可以设置机器人。搜索 *Lex* 或在服务下拉列表中找到它。
 
-[![](../Images/6cae46ac60dcf32e13a106a4416a6c83.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--v5khWRTt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AGrZ1JfkXxInFf10AKXkSvA.png)
+[![](img/6cae46ac60dcf32e13a106a4416a6c83.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--v5khWRTt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AGrZ1JfkXxInFf10AKXkSvA.png)
 
 <figcaption>AWS 服务列表</figcaption>
 
@@ -22,7 +22,7 @@
 
 完成所有设置后，您可以点击**创建**。你将被带到一个像这样的新仪表板，我会在我们进行的过程中解释每件事的含义。
 
-[![](../Images/288eed0ac6ab14f8e2d67c136048d029.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HHbmItUh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/915/1%2AbytzXWvlXP6iZPzryN82Lg.png)
+[![](img/288eed0ac6ab14f8e2d67c136048d029.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HHbmItUh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/915/1%2AbytzXWvlXP6iZPzryN82Lg.png)
 
 ### 意图
 
@@ -36,13 +36,13 @@
 
 这将我们带到目的屏幕。现在重要的部分是*样本话语*和*回应。*其余的设置我们将在后面介绍。
 
-[![](../Images/c14cc08c54af5d461d6607e7a70717a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x2F4rKBE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/903/1%2AWZ1wjkHeDo-5ne6p8U5jXA.png)
+[![](img/c14cc08c54af5d461d6607e7a70717a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x2F4rKBE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/903/1%2AWZ1wjkHeDo-5ne6p8U5jXA.png)
 
 #### 示例话语
 
 话语是你想要这个意图回复的短语。对我们来说，这些是像“你叫什么名字”和“你叫什么名字”这样的短语。将每个短语添加到样本话语中；还加了“你喜欢别人叫你什么”和“我该怎么称呼你”。
 
-[![](../Images/b9c9f46bd822d90004362324ac38d7cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DawCiqqk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/469/1%2AWg-tdra9fS_Xu1OZ6Rr4rA.png)
+[![](img/b9c9f46bd822d90004362324ac38d7cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DawCiqqk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/469/1%2AWg-tdra9fS_Xu1OZ6Rr4rA.png)
 
 Amazon Lex 的聪明之处在于它使用自然语言理解(NLU)来理解用户想要表达的意思。如果他们说“你叫什么名字”而不是“你叫什么名字”，Lex 仍然会匹配这些短语。相当聪明！
 
@@ -50,7 +50,7 @@ Amazon Lex 的聪明之处在于它使用自然语言理解(NLU)来理解用户�
 
 不，我们需要回复这条消息。点击响应框中的 ***添加消息*** 按钮。这将创建一个新的消息框供我们填写。
 
-[![](../Images/4294d742767fe8d0fb80566cb8ff2f67.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yesC7_0F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/635/1%2AC6BMDFckK9qbV3E5Yb-lLA.png)
+[![](img/4294d742767fe8d0fb80566cb8ff2f67.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yesC7_0F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/635/1%2AC6BMDFckK9qbV3E5Yb-lLA.png)
 
 在这里你可以输入任何你想回复的内容。你可以输入多个答案，这样用户可以得到不同的、更自然的回答。
 
@@ -62,7 +62,7 @@ Amazon Lex 的聪明之处在于它使用自然语言理解(NLU)来理解用户�
 
 完成后，你会在右边得到一个新的区域，叫做*测试机器人(最新)*。在这里你可以试着和你的机器人聊天并测试它。试着问问你的新机器人它的名字。
 
-[![](../Images/5fdf997d1e4d8ac924d139d3e26801e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wai4eTYK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/398/1%2Ahyhj5biPiXiBBXuKqrhwiQ.png)
+[![](img/5fdf997d1e4d8ac924d139d3e26801e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wai4eTYK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/398/1%2Ahyhj5biPiXiBBXuKqrhwiQ.png)
 
 ### 添加更多意图
 
@@ -108,37 +108,37 @@ Amazon Lex 的聪明之处在于它使用自然语言理解(NLU)来理解用户�
 
 第一种方法是最期待的方法。在*插槽*部分，输入变量的名称，选择插槽类型并编写提示。在这个例子中，我调用我的变量*名*选择*亚马逊。GB_FIRST_NAME* 说*嗨，你叫什么名字？*如提示。
 
-[![](../Images/73a767281ad49e0f72be2a47999cf4fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NOpajr4J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A3K9mmmFMGNqkqc4kqRS26g.png)
+[![](img/73a767281ad49e0f72be2a47999cf4fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NOpajr4J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A3K9mmmFMGNqkqc4kqRS26g.png)
 
 如果勾选了*必填*框，并且 intent 不知道变量值，则发送提示。点击设置按钮打开一个新的菜单，你可以设置多个提示信息并列出一些回复。
 
 用户可以只回答问题的答案，但是如果他们说*我的名字是大卫*呢？Lex 需要知道回复的哪一部分是变量，哪一部分只是填充词。您可以用花括号将变量括起来。
 
-[![](../Images/fcccb5d9028ea4bd1a2c0bb5f2dd216c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PFvufZ8_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/587/1%2Aj9Ig6l7QiE9aDfParU0hkg.png)
+[![](img/fcccb5d9028ea4bd1a2c0bb5f2dd216c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PFvufZ8_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/587/1%2Aj9Ig6l7QiE9aDfParU0hkg.png)
 
 最后一点是改变最后的回应。您可以使用与提示语句中相同的{variableName}语法在最终消息中包含任何变量。
 
-[![](../Images/0cd1824aa2305bd1fc70e8f1cae26602.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LfM2J1hr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/564/1%2ALO3KHaJqaaVOyHWwMbN1kQ.png)
+[![](img/0cd1824aa2305bd1fc70e8f1cae26602.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LfM2J1hr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/564/1%2ALO3KHaJqaaVOyHWwMbN1kQ.png)
 
 所有这些都更新了，是时候重新构建并尝试一下了！
 
-[![](../Images/6a49451bec1e9409c637664282457569.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ubbxhXXq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/496/1%2A6YXcz3DooqcYzTXeosnsNg.gif)
+[![](img/6a49451bec1e9409c637664282457569.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ubbxhXXq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/496/1%2A6YXcz3DooqcYzTXeosnsNg.gif)
 
 ### 其他方式来填充插槽
 
 到目前为止，用户说出一个短语，让机器人回复一个槽值的提示。这很好，但还有另一种方法。如果用户说“*你好，我是克莱尔”*会怎么样？
 
-[![](../Images/db92a96ff5572cbd24b60dad83db8c86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xobwFM8D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/487/1%2AbMDo2ioK0MuGMqycsM6WQw.png)
+[![](img/db92a96ff5572cbd24b60dad83db8c86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xobwFM8D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/487/1%2AbMDo2ioK0MuGMqycsM6WQw.png)
 
 这是不对的。他们告诉你他们的名字，然后你问他们的名字。幸运的是，我们可以解决这个问题。
 
 我们可以添加包括槽名的新话语。这与编写提示话语，包括话语中的{SlotName}是一样的。
 
-[![](../Images/28852ee35558a1e86e30d29285aefe44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y0QYoJIp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/650/1%2AGcooD5h4Qv-N5Yo3lUgktA.png)
+[![](img/28852ee35558a1e86e30d29285aefe44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y0QYoJIp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/650/1%2AGcooD5h4Qv-N5Yo3lUgktA.png)
 
 这就用第一条消息中他们的名字填充了这个槽。该槽被填满，所以提示永远不会被触发，最后的消息被发送。
 
-[![](../Images/4fa1b40446bd2a2c0e475c6d99e58d70.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hfrx7drf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/597/1%2AG4FXISqnYwEpSentmhc-dg.png)
+[![](img/4fa1b40446bd2a2c0e475c6d99e58d70.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hfrx7drf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/597/1%2AG4FXISqnYwEpSentmhc-dg.png)
 
 ### 书写自己的意图
 
@@ -146,7 +146,7 @@ Amazon Lex 的聪明之处在于它使用自然语言理解(NLU)来理解用户�
 
 试着创造一个这样的意图:
 
-[![](../Images/9a009ef4462aced638d367a882c8eddd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PfjkVOiE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/398/1%2Aj2Lb-EfPzLDC2waiHtDFbg.gif)
+[![](img/9a009ef4462aced638d367a882c8eddd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PfjkVOiE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/398/1%2Aj2Lb-EfPzLDC2waiHtDFbg.gif)
 
 感谢你阅读本教程，希望你喜欢。如果你有，那么请作出反应，跟随我获取更多的机器人教程和 JavaScript 内容。
 

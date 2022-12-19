@@ -13,7 +13,7 @@
 *   What kind of background is there?
 *   What is it for JavaScript and even Web development?
 
-[![](../Images/2132fe2ecd7fdc0fd6814efe7993edf4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0sxnToO7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A4ZMcCrF95AUvVzJ4S6Lo-g.png)
+[![](img/2132fe2ecd7fdc0fd6814efe7993edf4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0sxnToO7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A4ZMcCrF95AUvVzJ4S6Lo-g.png)
 
 在所有浏览器中，无论是 Chrome / Firefox / Edge / Safari，代码都是由 JavaScript 引擎解释和执行的——只是执行 JavaScript。
 遗憾的是，JavaScript 不是您希望执行的任何操作的理想选择。
@@ -27,7 +27,7 @@ WebAssembly 不是记述其本身，而是从其他高级语言编译制作。
 汇编是人类可读且接近机器代码的语言的典型。
 机器码是指处理器能够理解的数字的罗列。
 
-[![](../Images/457ee9941988690d2cc064325387fef3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JabqGr2G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AY0nZhsD-0ac5gKHc_OG3TQ.png)
+[![](img/457ee9941988690d2cc064325387fef3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JabqGr2G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AY0nZhsD-0ac5gKHc_OG3TQ.png)
 
 ###### 
 
@@ -36,7 +36,7 @@ WebAssembly 不是记述其本身，而是从其他高级语言编译制作。
 所有高级编程语言都被翻译成机器代码，以便在处理器上运行。
 不同类型的处理器体系结构需要不同的机器代码，以及对应的不同组件。
 
-[![](../Images/6ec9f132fb3d627845f7db73596d6c8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t9eoVVO5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AfY3Nj1rqpy1sveLt_Np9jg.png)
+[![](img/6ec9f132fb3d627845f7db73596d6c8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t9eoVVO5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AfY3Nj1rqpy1sveLt_Np9jg.png)
 
 ###### 
 
@@ -46,7 +46,7 @@ WebAssembly 不是记述其本身，而是从其他高级语言编译制作。
 因为不对应特定的机器(机器)。 是支持浏览器的东西。
 代码在浏览器中运行时，实际上不知道在什么机器上运行。
 
-[![](../Images/0d9be7accd370449ddf827976b6ecb7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NHXZkdur--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2ApdkebdFYtLbrvjL88dQ-BA.png)
+[![](img/0d9be7accd370449ddf827976b6ecb7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NHXZkdur--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2ApdkebdFYtLbrvjL88dQ-BA.png)
 
 ###### 
 
@@ -57,7 +57,7 @@ WebAssembly 是一种概念机语言，用于表示现实世界中广泛使用�
 
 这是 WebAssembly 的样子——具有可读性高的文本形式的样子(.wat )，但实际上在传送到浏览器时会采取二进制形式的样子(.wasm )。
 
-[![](../Images/b37c088321972923652b2d2546091b8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--utgsibiT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AcuLEJje56uGtxt37cUGIWw.png)
+[![](img/b37c088321972923652b2d2546091b8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--utgsibiT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AcuLEJje56uGtxt37cUGIWw.png)
 
 ###### 
 
@@ -68,7 +68,7 @@ WebAssembly 是一种概念机语言，用于表示现实世界中广泛使用�
 
 WebAssembly 不是 JavaScript 的替代品，而是合作伙伴。
 
-[![](../Images/080742d657ed2baac39a23103253c645.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xE6kKNZU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AzaeiNOe-kSznuKi1ndPbpw.png)
+[![](img/080742d657ed2baac39a23103253c645.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xE6kKNZU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AzaeiNOe-kSznuKi1ndPbpw.png)
 
 ###### 
 
@@ -136,7 +136,7 @@ JavaScript 是动态类型化语言，但变量类型无需事先确定，且无
 所有这些都会带来更快更稳定的性能。
 **WASM 二进制文件的执行时间与用本机代码执行相同处理的情况相比，只增加了 20%。**
 
-[![](../Images/478fd4ae31571af6eeb71b9e9ade94d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9cMRaym8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AxU7akQpF9KctXbQA.png)
+[![](img/478fd4ae31571af6eeb71b9e9ade94d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9cMRaym8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AxU7akQpF9KctXbQA.png)
 
 ###### 
 
@@ -147,7 +147,7 @@ WebAssembly 设计时的主要目标之一是**可移植性**。
 也就是说，源代码必须能够编译以适合所支持的操作系统和 CPU 体系结构的所有组合。
 使用 WebAssembly，只需执行一个编译步骤，你的 APP 就可以在所有时髦的浏览器上执行了。
 
-[![](../Images/c04a0012034a6481415b5bde624bad9f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9Jaqrt3---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ANT8Fw1gCXa0eYBuCU-MiJA.png)
+[![](img/c04a0012034a6481415b5bde624bad9f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9Jaqrt3---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ANT8Fw1gCXa0eYBuCU-MiJA.png)
 
 ###### 
 
@@ -186,7 +186,7 @@ UI 和 APP 的逻辑等部分不用 JavaScript 处理，可以用 WebAssembly �
 emcc hello.c -s WASM=1 -o hello.html 
 ```
 
-[![](../Images/d3aa122af8e6743d976771abae1ebb44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--icgH2utA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AxNUJSNFWssBQcekQ.png)
+[![](img/d3aa122af8e6743d976771abae1ebb44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--icgH2utA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AxNUJSNFWssBQcekQ.png)
 
 ###### 
 
@@ -227,7 +227,7 @@ WebAssembly 在现实中触手可及。
 作为覆盖旧式浏览器的应对措施，也可以用 Emscripten 编译为[asm.js](http://asmjs.org/faq.html) ——这是只处理数值(不处理字符串和对象等)的 JavaScript
 asm.js 是直接关系到 WebAssembly 诞生的手法，在 Web 上被广泛使用。 例如，在 Facebook 上上传照片时压缩图像，在 Adobe 的[Lightroom](https://lightroom.adobe.com/) 上编辑图像时使用。
 
-[![](../Images/caf57daaba85ff9f603f99852aee6246.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2xDDvXNB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2APliXmTDmymYjfm2G.png)
+[![](img/caf57daaba85ff9f603f99852aee6246.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2xDDvXNB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2APliXmTDmymYjfm2G.png)
 
 ###### 
 
@@ -242,7 +242,7 @@ Epic 公司公开了[WebAssembly 的短在线演示](https://mzl.la/webassemblyd
 <center>
  [**Tanks! Demo — WebAssembly**
 
-![](../Images/c88ba5f15ece3ee6c0ccf5481d646269.png)
+![](img/c88ba5f15ece3ee6c0ccf5481d646269.png)
 *これは Tanks! のデモです。
 Unity のチュートリアルにあるゲームを WebAssembly にエクスポートしたものです。
 砂漠の戦車を操縦してください...*
@@ -258,7 +258,7 @@ Figma 的开发人员最初使用 asm.js 为 Web 编译 C++代码。
 <center>
  [**WebAssembly cut Figma’s load time by 3x**
 
-![](../Images/71eeb18ebc82fc6279564e74a6fa6765.png)
+![](img/71eeb18ebc82fc6279564e74a6fa6765.png)
 *WebAssembly のケーススタディ*
 <small>blog.figma.com</small>](https://blog.figma.com/webassembly-cut-figmas-load-time-by-3x-76f3f2395164) 
 </center>
@@ -290,12 +290,12 @@ Figma 的开发人员最初使用 asm.js 为 Web 编译 C++代码。
 
 <center>. . .</center>
 
- [![](../Images/40154e4dbe897ff1ce518621c3ffa424.png)
+ [![](img/40154e4dbe897ff1ce518621c3ffa424.png)
 T4】](https://logrocket.com/signup/)
 
 ### 广告:[LogRocket](https://logrocket.com/signup/) -用于 web APP 的 DVR
 
-[![](../Images/ca4c066bd69916a0e81eef432a8a2537.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t9y0Nb8l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1500/1%2As_rMyo6NbrAsP-XtvBaXFg.png)
+[![](img/ca4c066bd69916a0e81eef432a8a2537.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t9y0Nb8l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1500/1%2As_rMyo6NbrAsP-XtvBaXFg.png)
 
 ###### 
 

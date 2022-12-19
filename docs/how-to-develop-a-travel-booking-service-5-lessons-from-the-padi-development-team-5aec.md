@@ -21,17 +21,17 @@
 *   **移动优化** - [eMarketer 预测](https://www.emarketer.com/Article/Mobile-Drives-Growth-of-Online-Travel-Bookings/1016053)2021 年美国 49.5%的数字旅游销售将通过移动设备完成，所以要确保你的应用程序有一个能在所有类型的设备上闪耀的响应设计。
 *   **位置识别** -本地化有助于为用户创造更好、更个性化的体验(他们将看到当地的办公室地址、联系电话&货币)
 *   个性化服务(personalization)-通过 cookies 和日志分析访客的行为模式，该服务将建议定制交易。
-*   **点评和评级** -给顾客留下点评的机会将有助于增加顾客参与度和信任度(例如，PADI 旅行社将这一战略资产放在第一折的正下方):![padi-reviews-and-ratings](../Images/217c8d3403d18d348aca6f2996996cee.png)
+*   **点评和评级** -给顾客留下点评的机会将有助于增加顾客参与度和信任度(例如，PADI 旅行社将这一战略资产放在第一折的正下方):![padi-reviews-and-ratings](img/217c8d3403d18d348aca6f2996996cee.png)
 *   游戏化 -增加互动元素，如测验、测试和计算器，也会增加客户参与度。
 *   **创造紧迫感** -添加强调最佳交易的元素，并显示实时动态，帮助用户找到最佳提议
 *   **灵感元素** -大多数游客花了大部分时间盯着很酷的图片，比较、考虑和权衡不同的选择。确保你的服务能激励人们——高质量的内容将引导他们完成旅行计划。
 
 要打造下一个 Airbnb，你必须先经历客户的整个决策漏斗。了解你的服务用户的问题和痛苦将使它从其他应用中脱颖而出。想想用户是如何解决问题的，以及你的应用程序将如何帮助他们做得更好、更快或(由你选择)。开发一个在线预订服务需要大量的工作和技术技能——它需要处理过滤搜索、地理定位、在线支付、用户之间的交流和审查系统。因此，请确保您知道您的服务将为客户带来什么价值:
 
-[![identify-problems-process](../Images/2648000436c96a17357448e065b64727.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--23GS_-H9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/07/img-2.png)
+[![identify-problems-process](img/2648000436c96a17357448e065b64727.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--23GS_-H9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/07/img-2.png)
 
 商业模型画布是一个很好的选择，可以让你的预订应用系统化:
-[![airbnb-business-model-canvas](../Images/597be53d0944ac41fb5727b91e70a588.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ba_BFyqi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/07/Img-3-1.png)
+[![airbnb-business-model-canvas](img/597be53d0944ac41fb5727b91e70a588.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ba_BFyqi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/07/Img-3-1.png)
 
 ### 那么，PADI 旅游预订服务的价值主张是什么？
 
@@ -54,7 +54,7 @@
 *   在沉船和水下博物馆周围游泳
 *   去潜水，例如，一些热情的潜水者可能会看研究人员最近发现的一种特定类型的鱼，就像这条:
 
-[![weird-fish](../Images/0fa98d5ddb3e4ed603d7b11b32aafd70.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wkWtIJRh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/07/Img-4-1.png)
+[![weird-fish](img/0fa98d5ddb3e4ed603d7b11b32aafd70.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wkWtIJRh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/07/Img-4-1.png)
 
 所以，你会看到我们最初的假设发生了变化，变成了非常具体的原因——通过理解它们，你会得到如何改进你的产品的想法。
 
@@ -67,7 +67,7 @@
 
 每种类型的潜水员都可能有一个非潜水员的配偶或伴侣，他们应该清楚地知道他会有一些乐趣，而不仅仅是在他/她的伴侣潜水时在海里看泡泡或浮潜。通过在直播板上添加更多的内容，陆地上的活动和日落的照片，你甚至可以激励非潜水者。通常，人们会集体进行潜水旅行，这意味着与单独旅行者相比有不同的条件，PADI 从一开始就在页脚处找到了两个清晰的按钮:
 
-[![contact-options](../Images/d579b393b8e865e7978f3eb67fe8a744.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bv6Uih37--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/07/Img-5-1.png)
+[![contact-options](img/d579b393b8e865e7978f3eb67fe8a744.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bv6Uih37--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/07/Img-5-1.png)
 
 当然，你不希望把你的预订服务变成一个为所有人设计的万能工具，但最终，没有人会得到它。这就是你需要强大的 UX/用户界面支持的地方:你必须优先考虑你的受众，并根据他们的需求、愿望和痛点创建主要的用户角色。在了解了潜在用户的类型之后，你需要弄清楚他们是如何做出决定的，从而用要点组成一个客户之旅。
 
@@ -76,7 +76,7 @@
 设计客户决策之旅时，最重要的考虑因素是用户反馈。您可以通过客户调查和用户测试来了解这一点。在你画出了线框图之后，把用 InVision 制作的可点击的实体模型进行用户测试，确保用户会完成工作流程。
 
 旅游解决方案的客户旅程可能是这样的:
-[![booking-user-roadmap](../Images/d8e64f979af9947a0463677528cb4c24.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6QAs8sq7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/07/Img-6.png)
+[![booking-user-roadmap](img/d8e64f979af9947a0463677528cb4c24.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6QAs8sq7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/07/Img-6.png)
 
 ## 人们实际上喜欢做计划，所以用一些很酷的功能来强化这个过程
 
@@ -85,7 +85,7 @@
 通过在你的预订系统中添加合适的功能来满足用户的需求，会让你赢得很多心存感激的用户。以 PADI 旅游为例，重要的是区分“最好拥有的功能”和“必须拥有的功能”，测试它们并部署最有用的功能。
 
 从一开始，用户就可以预订他的旅行——他只需选择一个 liveboard 和位置，然后点击几下，做出最终选择。通常，这是当我们看到一个怀疑的微笑时，意思是“人们真的会在几分钟内预订他们的潜水旅行吗？”嘿不要。根据 Expedia Media Solutions 的数据，人们在预订前平均会去旅游网站 38 次。所以，如果在第 39 次点击的时候，你的平台必须从第一页开始就准备好满足这个需求。
-T3![booking-destination-navigation](../Images/4dd999f8351e5d6d103f71b5e4a24e55.png)T5】
+T3![booking-destination-navigation](img/4dd999f8351e5d6d103f71b5e4a24e55.png)T5】
 
 ### 激发
 
@@ -103,17 +103,17 @@ T3![booking-destination-navigation](../Images/4dd999f8351e5d6d103f71b5e4a24e55.p
 
 每个位置显示每个月的空气、水和降水水平的平均温度，这很重要。它帮助潜水员根据他们的冷/热水耐受力选择合适的潜水服:
 
-[![water-temperature-chart](../Images/16e121dfed7a4b1da59a378768eed670.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1eEfLIQ3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/07/Img-8.png)
+[![water-temperature-chart](img/16e121dfed7a4b1da59a378768eed670.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1eEfLIQ3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/07/Img-8.png)
 
 遇到水下生物的可能性——为了将潜水员从生物研究中解放出来，节省他们的时间，并防止他们在水下交叉手指(我猜这真的很难)，有一个日历显示了水下鱼类和动物以及每个月看到它们的可能性:
 
-[![underwater-fish-calendar](../Images/ed6a259b3f7f36885abbde67f2979f8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rcTwkXy0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/07/Img-9.png)
+[![underwater-fish-calendar](img/ed6a259b3f7f36885abbde67f2979f8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rcTwkXy0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/07/Img-9.png)
 
 与 Airbnb 上的每一个房间或 booking.com 上的每一家酒店类似，所有 Liveaboards(甚至那些名字很有趣的，比如海参)都有一个登陆页面，用户可以在这里浏览 Liveboard 的简历，决定这是不是一家适合他们旅行的公司。
 
 经过一系列的 A/B 测试后，目的地预订页面有三个 CTA。这三个按钮涵盖了用户的主要查询:
 
-[![recommended-diving-trainings](../Images/26261bb0a3c8d68e3df0ae5f433c1cd8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EkIBKS3N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/07/Img-10.png)
+[![recommended-diving-trainings](img/26261bb0a3c8d68e3df0ae5f433c1cd8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EkIBKS3N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/07/Img-10.png)
 
 魔鬼在细节中；小事情有助于建立一个整体的图景。例如，页面之间的预加载器是气泡的形式——专业潜水员称自己为“气泡头”——这个小东西有助于给客户一种“你几乎就在那里”的体验。
 
@@ -162,7 +162,7 @@ T3![booking-destination-navigation](../Images/4dd999f8351e5d6d103f71b5e4a24e55.p
 *   交易信息
 *   天气状况通知
 
-[![hopper-push-notifications](../Images/cd5d625e98e2de9bc7df2cb766b9d2e0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XhOIg0t9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/07/Img-11.png) 
+[![hopper-push-notifications](img/cd5d625e98e2de9bc7df2cb766b9d2e0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XhOIg0t9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/07/Img-11.png) 
 下面是 Hopper app 如何通知用户降价
 
 为了保持客户的忠诚度，在真正重要的通知和“很高兴知道”的通知之间找到适当的平衡是很重要的，所以通过以适当的比例混合警报来设计您的策略。
@@ -176,9 +176,9 @@ T3![booking-destination-navigation](../Images/4dd999f8351e5d6d103f71b5e4a24e55.p
 PADI 旅游有基于多个动态变化规则的过滤和搜索逻辑，允许用户从 120，000 个产品库中搜索各种类型的对象。
 下面是 Diviac 搜索如何从基于运营商类型的分类发展而来:
 
-[![padi-travel-filtering](../Images/9c662133a88e3e16e155be80e02dc005.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Vqm-xWt0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/07/Img-12.png)T3】...涉及 15 个类别的过滤搜索:
+[![padi-travel-filtering](img/9c662133a88e3e16e155be80e02dc005.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Vqm-xWt0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/07/Img-12.png)T3】...涉及 15 个类别的过滤搜索:
 
-[![padi-travel-nav-categories](../Images/bc3d6bbcf5ae41ffe7eac74e5ec69a55.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k5YgyxG4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/07/Img-13.png)
+[![padi-travel-nav-categories](img/bc3d6bbcf5ae41ffe7eac74e5ec69a55.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k5YgyxG4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/07/Img-13.png)
 
 通过实时自动解析，允许用户只预订实际的现场直播和潜水中心，避免了预订冲突。在某些情况下，无法进行实时数据处理，旅行经理需要手动编辑可用性信息。这就是为什么只有在收到 liveaboard 的确认后，才决定撤回客户的付款。
 
@@ -208,7 +208,7 @@ PADI 旅行社开发了一个内部客户关系管理系统，为旅行社提供
 *   复杂的**分析**不仅显示收入或预订数量方面的明显数据，还计算平均值并显示“计划与实际”对比
 *   创建**交互式仪表盘的选项**
 
-[![padi-travel-crm-dashboard](../Images/9f33a3c636e265a2e219efd444fed995.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VeInqF0q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/07/Img-14.png)
+[![padi-travel-crm-dashboard](img/9f33a3c636e265a2e219efd444fed995.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VeInqF0q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/07/Img-14.png)
 
 **-帮助他们快速浏览大量数据的高级过滤器**:
 

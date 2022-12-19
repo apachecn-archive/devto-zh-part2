@@ -6,7 +6,7 @@
 
 记住这个日期，所有的组织都已经提前做好准备，以达到法案中规定的标准。
 
-[![](../Images/f12bbf6be561d92c93db3e470c153d44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m-ZTWyjF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/0%2A8Zf5mQ9Rsc_qU-Og.jpg)
+[![](img/f12bbf6be561d92c93db3e470c153d44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m-ZTWyjF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/0%2A8Zf5mQ9Rsc_qU-Og.jpg)
 
 GDPR 涵盖的准则适用于用于识别个人身份的所有类型的信息，也适用于闭路电视，甚至像 cookies 和地址这样的在线标识符都在它的扫描范围内。因此，当你存储任何个人信息时，你必须谨记遵循 GDPR[**为数据保护**](http://www.wenso.co.uk/gdpr-consulting-services/) 制定的指导方针。每个公司都有义务遵守这一规定，并承担起保护公司数据甚至员工的责任。通过遵守 GDPR 准则，公司确保其客户和员工的“**隐私权**”，这对于业务非常重要，并且将使公司长期受益。
 

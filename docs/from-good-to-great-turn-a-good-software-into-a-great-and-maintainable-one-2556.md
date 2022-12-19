@@ -29,7 +29,7 @@
 
 现在是他/她的职责——下图很好地说明了这一点:
 
-[![](../Images/40714553a8b153948cf213991ff08798.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cc3UT4tG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.codeproject.com/KB/architecture/873448/softwarearchitect.jpg)
+[![](img/40714553a8b153948cf213991ff08798.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cc3UT4tG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.codeproject.com/KB/architecture/873448/softwarearchitect.jpg)
 
 现在有些事情
 
@@ -91,7 +91,7 @@ v)娱乐多个平台的可能性
 
 **信不信由你——一个分层蛋糕**
 
-[![](../Images/06faa642795fff6b2e3e7f4595819cf2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l5H7bOQ---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://www.codeproject.com/KB/architecture/873448/cake.gif)
+[![](img/06faa642795fff6b2e3e7f4595819cf2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l5H7bOQ---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://www.codeproject.com/KB/architecture/873448/cake.gif)
 
 资料来源:http://msdn.microsoft.com/en-us/magazine/cc163962.aspx
 
@@ -113,7 +113,7 @@ v)娱乐多个平台的可能性
 
 **效率&优雅**
 
-## ![](../Images/f9fcc147f75fd03c64b82843ab104d1a.png)
+## ![](img/f9fcc147f75fd03c64b82843ab104d1a.png)
 
 这个简单但看起来很漂亮的方程是伟大的阿尔伯特·爱因斯坦的广义相对论。如此强大的理论却能如此雄辩地表达出来。优雅是一种糖衣，使建筑的各层保持可维护性，即使在多年后看起来也令人振奋。
 

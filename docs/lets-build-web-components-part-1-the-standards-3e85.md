@@ -72,7 +72,7 @@ Enter fullscreen mode Exit fullscreen mode[https://glitch.com/embed/#!/embed/wis
 
 使用`<template>`元素既简单又高效。我组装了一个愚蠢的小[基准](https://jsperf.com/template-element-vs-dom-api-vs-template-literals/1)，它以三种方式构建了一个简单的表:通过克隆一个模板元素，通过直接使用 DOM <abbr title="Application Programmer Interface">API</abbr> s，以及通过设置`innerHTML`。克隆模板元素是最快的，DOM APIs 稍慢，而`innerHTML`是迄今为止最慢的。
 
-[![Template Elements: 55877 Operations / second. DOM APIs: 51666 Operations / second. Template Literals: 44102 Operations / second](../Images/9cdf7a2e7ebf49466bcd83593369bbbc.png)T2】](https://jsperf.com/template-element-vs-dom-api-vs-template-literals/1)
+[![Template Elements: 55877 Operations / second. DOM APIs: 51666 Operations / second. Template Literals: 44102 Operations / second](img/9cdf7a2e7ebf49466bcd83593369bbbc.png)T2】](https://jsperf.com/template-element-vs-dom-api-vs-template-literals/1)
 
 因此,`<template>`元素让我们可以解析 HTML 一次，并根据需要多次重用它。就像我们需要的可重用组件一样！
 
@@ -148,7 +148,7 @@ Enter fullscreen mode Exit fullscreen mode[https://glitch.com/embed/#!/embed/ivo
 
 > 我是黑暗。我是黑夜。我是影子 DOM！
 
-[![Batman lurking in the shadows](../Images/85cccd039a55e13ec1ea9304fd588725.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RrMhhoCl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gq600wk8fo1vg93854mf.png)
+[![Batman lurking in the shadows](img/85cccd039a55e13ec1ea9304fd588725.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RrMhhoCl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gq600wk8fo1vg93854mf.png)
 
 虽然“影子 DOM”听起来很奇怪，但事实证明你已经使用它很多年了。每次您使用带有控件的`<video>`元素，或者带有数据列表的`<input>`元素，或者类似日期选择器元素的其他元素时，您都在使用 Shadow DOM。
 
@@ -156,7 +156,7 @@ Enter fullscreen mode Exit fullscreen mode[https://glitch.com/embed/#!/embed/ivo
 
 例如，视频元素中的控件实际上是一个独立的 DOM 树，像蝙蝠侠一样生活在页面的阴影中。全局样式不会影响视频控件，反之亦然。
 
-[![Screenshot of Firefox developer tools highlighting the use of a shadow root on wego.com](../Images/4e9abeca566d3c4fcd2676330c20b247.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UWnCUCIr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zue201pl8hk31s6go5al.png) 
+[![Screenshot of Firefox developer tools highlighting the use of a shadow root on wego.com](img/4e9abeca566d3c4fcd2676330c20b247.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UWnCUCIr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zue201pl8hk31s6go5al.png) 
 
 <figure>
 
@@ -374,13 +374,13 @@ Web 组件标准让我们可以分解自包含的、可重用的 UI，它可以�
 
 查看本系列的下一篇文章
 
-[![bennypowers](../Images/57370d6f6dab8d6651a3f138a1aaaa40.png)](/bennypowers) [## 让我们构建 Web 组件！第 2 部分:聚合填料
+[![bennypowers](img/57370d6f6dab8d6651a3f138a1aaaa40.png)](/bennypowers) [## 让我们构建 Web 组件！第 2 部分:聚合填料
 
 ### 本尼·鲍尔斯🇮🇱🇨🇦9 月 29 日 1812 分钟阅读
 
 #webcomponents #javascript #html #polyfill](/bennypowers/lets-build-web-components-part-2-the-polyfills-dkh)
 
-您想就此处涉及的任何主题进行一对一的辅导吗？[![Contact me on Codementor](../Images/97f0e0737ce864c47f2412396b01e737.png)T2】](https://www.codementor.io/bennyp?utm_source=github&utm_medium=button&utm_term=bennyp&utm_campaign=github)
+您想就此处涉及的任何主题进行一对一的辅导吗？[![Contact me on Codementor](img/97f0e0737ce864c47f2412396b01e737.png)T2】](https://www.codementor.io/bennyp?utm_source=github&utm_medium=button&utm_term=bennyp&utm_campaign=github)
 
 ## 勘误表
 

@@ -6,7 +6,7 @@
 
 所以我分叉了他的项目，加了**更多的** Lipsum，因为*你知道*，Lipsum 越多越好。
 
-[![GIF of plugin in action](../Images/7bea36d3aabda021f29d4ad899c5de58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J46HaKLE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/whoisryosuke/sketch-lorem-ipsum-2017/blob/master/example.gif%3Fraw%3Dtrue)
+[![GIF of plugin in action](img/7bea36d3aabda021f29d4ad899c5de58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J46HaKLE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/whoisryosuke/sketch-lorem-ipsum-2017/blob/master/example.gif%3Fraw%3Dtrue)
 
 ## 工作原理
 

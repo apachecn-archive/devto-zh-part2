@@ -10,7 +10,7 @@
 
 本文中使用的代码位于 Github 上的一个示例库中。你可以参考[https://github.com/eddiewebb/circleci-multi-cloud-k8s](https://github.com/eddiewebb/circleci-multi-cloud-k8s)获得完整的代码样本，或者跟随。以下是我们将要构建的工作流:
 
-[![](../Images/50304f17e3f15793dcf8f5052b4b9821.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NNmpzPzT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i8b8sdqd6lnyowdjldh9.png)
+[![](img/50304f17e3f15793dcf8f5052b4b9821.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NNmpzPzT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i8b8sdqd6lnyowdjldh9.png)
 
 ## 凭证管理
 
@@ -34,7 +34,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 复制输出并将其保存为 CircleCI 项目配置中的环境变量:
 
-[![](../Images/6bc07754201e927eeef075cba03d744a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NcWTFICh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/woakyy0p0bemd4bm5cl8.png)
+[![](img/6bc07754201e927eeef075cba03d744a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NcWTFICh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/woakyy0p0bemd4bm5cl8.png)
 
 稍后，当我们在部署工作中需要它时，我们可以再次用 base64 将其解码回一个文件:
 
@@ -62,7 +62,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 CircleCI 更喜欢确定性和显式配置，而不是插件。这使我们能够控制在我们的配置中使用的环境和版本。我们要做的第一件事是安装我们的 CLI 工具:
 
-[![](../Images/9998ed3b47587ac7efdf3ef7e4e32e86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tHOxasT9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5tsc0zcs2o71gttbiuge.png)
+[![](img/9998ed3b47587ac7efdf3ef7e4e32e86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tHOxasT9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5tsc0zcs2o71gttbiuge.png)
 
 记住:您可以从我们的[示例项目的](https://github.com/eddiewebb/circleci-multi-cloud-k8s/blob/master/.circleci/config.yml)配置中复制文本。
 
@@ -76,7 +76,7 @@ CircleCI 更喜欢确定性和显式配置，而不是插件。这使我们能�
 
 在`gcloud`做这些之前，我们需要向它提供凭证和项目信息。这是我们将 GCP 密钥“再水合”成可读文件的步骤:
 
-[![](../Images/f1d0961a05776343ca310b2bf1a6efbf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lNatl59u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/plz3haciqzwa8jb0qpv7.png)
+[![](img/f1d0961a05776343ca310b2bf1a6efbf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lNatl59u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/plz3haciqzwa8jb0qpv7.png)
 
 ### 运行您的首次部署
 
@@ -116,7 +116,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 为了确保一切都已启动并且路由成功，我们可以运行一个基本的健康检查:
 
-[![](../Images/76eb68b8db39061f71470c8fe744d907.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Fv8MoRYF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jvnt7pre69bhlf4nmdr6.png)
+[![](img/76eb68b8db39061f71470c8fe744d907.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Fv8MoRYF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jvnt7pre69bhlf4nmdr6.png)
 
 正如你在上面的冒烟测试工作中可能注意到的，我们不知道 Google 将提前分配的 IP 地址。在生产环境中，您可能会选择购买和分配保留 IP，而不是使用浮动 IP。你可以在我们的 [AWS 部署](https://circleci.com/docs/2.0/deployment-integrations/#aws)中看到这样的例子，它是[样本项目](https://github.com/eddiewebb/circleci-multi-cloud-k8s/blob/master/.circleci/config.yml)的一部分。
 
@@ -124,13 +124,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 每个云提供商都公开了将动态集群 IP 分配给已知域名的方法。我想展示我们如何为来自多个云提供商的应用提供服务，并动态解决分布和负载问题。除了提供简单的 API 来管理我们的 DNS，Cloudflare 还允许我们通过他们的代理路由流量，以获得额外的缓存和保护。此外，由于这是在它自己的步骤中运行，我们需要再次从`kubectl`中获取`CLUSTER_IP`。然后，我们将在对 Cloudflare 的 DNS 的`POST`调用中使用该 IP:
 
-[![](../Images/c4cd7e5276253a57f98a957f8132f621.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DHoCtH3L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lwckx4v98e2bos80t7lv.png)
+[![](img/c4cd7e5276253a57f98a957f8132f621.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DHoCtH3L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lwckx4v98e2bos80t7lv.png)
 
 **注意:**因为我们以后要在负载平衡器中使用这个子域，所以禁用“代理”很重要。
 
 这将把 GCP 集群映射到一个子域。我们的全球负载平衡器将使用该子域在多个云提供商之间分配流量。
 
-[![](../Images/49f1e44552c66a8b0c8c411c78084bcd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wD1fLxiq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/atpqr7bl17fm44tr96k8.png)
+[![](img/49f1e44552c66a8b0c8c411c78084bcd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wD1fLxiq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/atpqr7bl17fm44tr96k8.png)
 
 酷！成功了吗？如果您已经完成了，您将拥有一个类似于 [k8sgcp.justademo.online](http://k8sgcp.justademo.online/) 的活动子域，通过 Cloudflare 路由到您在 Google Cloud 中的 Kubernetes 集群。
 
@@ -142,11 +142,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 创建群集或获取凭据:
 
-[![](../Images/7e670b438453562fb5a99afae082e453.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0k6mRF6R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j0t6lw4w0vf7fwjshg98.png)
+[![](img/7e670b438453562fb5a99afae082e453.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0k6mRF6R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j0t6lw4w0vf7fwjshg98.png)
 
 运行部署或更新映像:
 
-[![](../Images/be3c6836db40f7ec3a25d8bd1ef6323a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R8562Gy---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6gbv3smph8qixeloek37.png)
+[![](img/be3c6836db40f7ec3a25d8bd1ef6323a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R8562Gy---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6gbv3smph8qixeloek37.png)
 
 我们的[示例项目](https://github.com/eddiewebb/circleci-multi-cloud-k8s)使用的逻辑将根据当前状态创建或更新所有方面。
 
@@ -166,15 +166,15 @@ AWS 为部署容器提供了几个选项，包括 Fargate、ECS 和从 EC2 实�
 
 我选择不写这个部分，因为这真的是一次性的事情。创建一个负载平衡器，它与您希望位于所有云前面的主域相关联:
 
-[![](../Images/50451fc55bfb696c434a7acb68b10387.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lnJaOUHB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vluwus0g5qvwt6iq9r83.png)
+[![](img/50451fc55bfb696c434a7acb68b10387.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lnJaOUHB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vluwus0g5qvwt6iq9r83.png)
 
 您需要创建至少一个源池。如果您已经运行了部署，您可以指定我们在上面为 GCP 集群创建的子域:
 
-[![](../Images/dbd2bb922c2f96a8da02eac2f782226e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T-H_PGP0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ux97ya5keixx76g9hvbv.png)
+[![](img/dbd2bb922c2f96a8da02eac2f782226e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T-H_PGP0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ux97ya5keixx76g9hvbv.png)
 
 您还将被要求定义一个健康监视器。我选择了一个简单的`GET`到应用程序上的`/build-info`端点，期望得到 200 响应:
 
-[![](../Images/1d77caf48451e7770eab8a297adef494.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M8_tttn8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g0kjdq4mz1ddaqdc73q3.png)
+[![](img/1d77caf48451e7770eab8a297adef494.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M8_tttn8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g0kjdq4mz1ddaqdc73q3.png)
 
 一旦创建了初始负载平衡器和 GCP 原始池，我们就可以继续编写 AWS 集成的脚本，使用在每个部署上创建的动态 AWS ELB 来更新第二个原始池。
 
@@ -182,15 +182,15 @@ AWS 为部署容器提供了几个选项，包括 Fargate、ECS 和从 EC2 实�
 
 如上所述，在 AWS 中使用`kops`时，它会自动创建一个路由到 Kubernetes 集群的 ELB。我们不需要在 Cloudflare 中设置 AWS 域，而是使用 Amazon 提供的域。我们需要将它传递给 Cloudflare。使用`kubectl get service`可以获得 ELB 的名称:
 
-[![](../Images/6351f9f628ed655487a9663e275e279b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mbXy0tj3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9hzcm9n5ick5tx7nhijt.png)
+[![](img/6351f9f628ed655487a9663e275e279b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mbXy0tj3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9hzcm9n5ick5tx7nhijt.png)
 
 因为 ELB 可能不会立即准备好，所以我们将该逻辑放在一个循环中:
 
-[![](../Images/88678e67f6bdb6ba189a7ec101e73e18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t4mFdnIq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y12b9gblsis7qkhf2mwz.png)
+[![](img/88678e67f6bdb6ba189a7ec101e73e18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t4mFdnIq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y12b9gblsis7qkhf2mwz.png)
 
 结果应该是两个健康的源池，在单独的云提供商中运行，都在单个域后面:
 
-[![](../Images/05a6bcd4507888f705ff65e876951af1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a7UFXoJx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1k8dt2crfsor6lg22gbx.png)
+[![](img/05a6bcd4507888f705ff65e876951af1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a7UFXoJx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1k8dt2crfsor6lg22gbx.png)
 
 我们在顶级域名上使用代理和 SSL 强制，所以请继续查看[https://justademo.online/](https://justademo.online)。
 

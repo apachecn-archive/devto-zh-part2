@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/acoh3n/no-youre-not-bad-at-math-5h77>
 
-[![Banner](../Images/4768b77dd04767edba889ad92774025f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ENQeCFXs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9yua3zu52u4hybwlyx3l.jpg)
+[![Banner](img/4768b77dd04767edba889ad92774025f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ENQeCFXs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9yua3zu52u4hybwlyx3l.jpg)
 
 抱歉，但是在这一点上我不得不反对你。全心全意。如果你认为自己“数学不好”，那你就错了。大错特错。我怎么知道这个？因为没有人的数学比我差。整个青少年时期，我都是班上的垫底学生，并且深信数学只不过是虐待狂老师手中的刑具。
 
@@ -36,7 +36,7 @@
 
 你从哪里开始？就我个人而言，我喜欢可汗学院按科目和成绩划分的方式:
 
-[![Khan](../Images/806bddee026c0712f089635fb7fafb92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EtvfSrwK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rcypo5vgeknwiyzduih8.png)
+[![Khan](img/806bddee026c0712f089635fb7fafb92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EtvfSrwK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rcypo5vgeknwiyzduih8.png)
 
 当我报名时，我决定放下自尊，从头开始。是的，我又开始做算术和幼儿园水平的数学了。但是因为我是在自己的家里，用自己的时间做这件事，所以没有人来评判我或取笑我。通过这样做，我确信我覆盖了数学教育中的每一个缺口。你知道吗？我早在一年级或二年级就发现了差距！
 

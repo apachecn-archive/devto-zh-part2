@@ -6,7 +6,7 @@
 
 在此之前，我学习代码的进度很慢。发现自己跳过天，对自己说“忙了一天，现在累了”“明天再做”“我现在在旅行”“今天是周末/假期”。这就是为什么在读了一篇关于它的文章后，我接受了挑战。现在我要告诉你为什么你也应该开始这个挑战。
 
-[![##100DaysOfCode](../Images/4f19d13f43d569420564382e652f4c26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BtFmMese--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l0c0wxzhblog13jgbl4p.jpg)
+[![##100DaysOfCode](img/4f19d13f43d569420564382e652f4c26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BtFmMese--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l0c0wxzhblog13jgbl4p.jpg)
 
 **1。推动自己更上一层楼**
 

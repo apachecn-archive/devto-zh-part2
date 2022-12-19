@@ -55,7 +55,7 @@ Enter fullscreen mode Exit fullscreen mode
 现在让我们生成您的应用程序的生产版本，并将其部署到 GitHub 页面。
 `npm run deploy`
 
-[![Console](../Images/e96a729018768453f35dde71d027707b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8G8X7ZfT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e01jiocljuwdewuplso2.png)
+[![Console](img/e96a729018768453f35dde71d027707b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8G8X7ZfT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e01jiocljuwdewuplso2.png)
 
 现在，您应该可以通过指定的 URL 访问您的应用程序。
 
@@ -77,6 +77,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是我的项目的第一个结果。
 
-[![](../Images/236ced6abb02cfc1ca224a735918e674.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w_dSc7QZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s9p82u891vfbnhujccl0.png)
+[![](img/236ced6abb02cfc1ca224a735918e674.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w_dSc7QZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s9p82u891vfbnhujccl0.png)
 
 如果你现在检查这个页面，它是完全不同的。我是如何创造了你所能看到的一切？查看下一篇文章了解更多。

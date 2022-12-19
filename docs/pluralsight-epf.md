@@ -12,7 +12,7 @@ Pluralsight 是一个销售各种技术主题培训视频的网站。你可以�
 
 自从我注册以来，我已经听了超过 27 小时的技术视频。这些涵盖了 C#、安全性、Xamarin、MVVM、接口、参与和干净架构等主题。我学到的第一件事是有很多东西我仍然不明白。
 
-[![pluralsight](../Images/c695c1bc76aac67061d9ce74fa234ff2.png)](http://referral.pluralsight.com/mQd8BJ4) 也就是说，我愿意认为自从开始听复数观概念以来，它已经从未知的未知数(我不知道它们，也不理解它们)变成了已知的未知数(我知道它们，但还没有完全理解它们)
+[![pluralsight](img/c695c1bc76aac67061d9ce74fa234ff2.png)](http://referral.pluralsight.com/mQd8BJ4) 也就是说，我愿意认为自从开始听复数观概念以来，它已经从未知的未知数(我不知道它们，也不理解它们)变成了已知的未知数(我知道它们，但还没有完全理解它们)
 
 为了记录你的学习情况，pluralsight 有一些你可以完成的测试。我特别自豪的是我在 Azure 测试中的分数，它把我列为专家。
 

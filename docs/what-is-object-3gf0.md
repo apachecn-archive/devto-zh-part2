@@ -6,21 +6,21 @@
 
 对象示例:
 
-[![alt text](../Images/ad8ef220e6cdbdc66b093705b7288f88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CxeN2uTN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/51omyjriepp6lhxq4pp7.PNG)
+[![alt text](img/ad8ef220e6cdbdc66b093705b7288f88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CxeN2uTN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/51omyjriepp6lhxq4pp7.PNG)
 
 示例结果:
 
-[![alt text](../Images/e98c7c98ed3852edbc0aa027e62913e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pwG3hb8G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mgapmjb4vtejt706sn2o.PNG)
+[![alt text](img/e98c7c98ed3852edbc0aa027e62913e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pwG3hb8G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mgapmjb4vtejt706sn2o.PNG)
 
 从这个例子来看，object 可以被认为是 set 对象上的数据的编译。事实也是如此，对象可以用来设置数据和指出一个对象的信息。这是指出对象的键或值的许多方法之一。
 
 对象指出示例:
 
-[![alt text](../Images/476cc0ffa6b620e41a6bbff475d7d01c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XOU_Xy7u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jxr9czmf0ignn3r443of.PNG)
+[![alt text](img/476cc0ffa6b620e41a6bbff475d7d01c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XOU_Xy7u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jxr9czmf0ignn3r443of.PNG)
 
 示例结果:
 
-[![alt text](../Images/b57bf52c228d0a074c1fc90af41a37cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J7LvgBv9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y73rv1vpib7jpkrqv3rd.PNG)
+[![alt text](img/b57bf52c228d0a074c1fc90af41a37cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J7LvgBv9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y73rv1vpib7jpkrqv3rd.PNG)
 
 在本例中，我们使用 Object.keys()和 Object.values()指出每个键和值。这些方法将每个键和值分隔成一个数组。在 forloop 的帮助下，我们可以分别显示每个键和值。
 

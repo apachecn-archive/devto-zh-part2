@@ -24,7 +24,7 @@
 
 来自官方文档的下图描述了大理石图的解剖结构:
 
-[![Marble Diagram Anatomy](../Images/8401878cd036974c3e306699d934914d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yta4hE6A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.mokkapps.de/marble-diagram-anatomy-70a8819bfbc13c46a956a06eccee9614.svg)
+[![Marble Diagram Anatomy](img/8401878cd036974c3e306699d934914d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yta4hE6A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.mokkapps.de/marble-diagram-anatomy-70a8819bfbc13c46a956a06eccee9614.svg)
 
 > 在弹珠图中，时间向右流动，该图描述了值(“弹珠”)是如何在可观察的执行上发出的。
 

@@ -6,7 +6,7 @@
 
 人们担心，劳动力整合、流失、退休、招聘冻结以及新 It 员工对基础架构元素的兴趣降低，可能会导致许多依赖大型机关键业务系统的公司出现技能短缺。幸运的是，你不需要让代际劳动力技能的转变让你措手不及。你现在可以采取一些行动来充实你的员工和人才库。
 
-| 2018 年第二期 | [![](../Images/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue2/SAG_A_Recipe_for_Success_TECHniques_Apr18_WEB.pdf) |
+| 2018 年第二期 | [![](img/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue2/SAG_A_Recipe_for_Success_TECHniques_Apr18_WEB.pdf) |
 | --- | --- |
 
 Adabas & Natural 的一些客户已经找到了如何通过成功管理团队内部人才的代际变化来保持其核心应用程序长期运行的方法，他们吸引并留住年轻的开发人员，并让所有代人一起工作，分享技能和知识，并进行创新。以下是他们成功管理员工代际变化的秘诀。
@@ -57,7 +57,7 @@ Adabas & Natural 的一些客户已经找到了如何通过成功管理团队内
 
 当新员工被给予尊重新想法以及发挥影响力和创造力的机会时，你将会在建立长期的员工队伍方面大有作为。
 
-[![](../Images/c145b2181a25c31a0a5f6fe742c69201.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TigDYFY2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/arecipeforsuccess1.jpg/5715334c-d158-4093-8232-95a172f1d792%3Ft%3D1523440968738)
+[![](img/c145b2181a25c31a0a5f6fe742c69201.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TigDYFY2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/arecipeforsuccess1.jpg/5715334c-d158-4093-8232-95a172f1d792%3Ft%3D1523440968738)
 
 *图 1:在这个[视频](https://www.youtube.com/watch?v=rWs5ojxuWRE&feature=youtu.be)* 中，听听软件公司的客户 Alte Oldenburger 如何成功解决其技能过渡问题。
 
@@ -73,5 +73,5 @@ Josh 希望该机构雇佣新的程序员来支持其核心系统，并认为招
 
 显然，这也是该机构的一个胜利，它现在确保了他们的任务关键型应用程序将在未来的业务中继续发挥重要作用。网络、移动、大数据、云和物联网带来的新的数字机遇也可以加以利用，因为该机构已经获得、培训和保留了解决 IT 代际过渡所需的人才。
 
-*   了解更多信息，查看我们客户的[成功秘诀:掌握世代变化](http://info.softwareag.com/rs/858-DJP-749/images/SAG_Recipe_For_Success_FL_Mar17_Web.pdf)
+*   了解更多信息，查看我们客户的[成功秘诀:掌握世代变化](http://info.softwareag.com/rs/858-DJP-7img/SAG_Recipe_For_Success_FL_Mar17_Web.pdf)
 *   观看 Stefen Macke 在此[视频](https://resources.softwareag.com/youtube-product-videos-for-uberflip-2/managing-the-generational-change-software-ag-adabas-natural-by-stefan-macke-2)中讨论的“用 NaturalONE 管理代际变化”

@@ -4,7 +4,7 @@
 
 * * *
 
-[![Capture](../Images/4e3835db644064b1fe4005156448ab44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KANRYJVW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esabook.files.wordpress.com/2018/07/capture.png%3Fw%3D525)
+[![Capture](img/4e3835db644064b1fe4005156448ab44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KANRYJVW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esabook.files.wordpress.com/2018/07/capture.png%3Fw%3D525)
 
 * * *
 

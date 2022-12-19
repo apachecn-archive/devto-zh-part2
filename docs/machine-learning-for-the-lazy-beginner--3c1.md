@@ -72,7 +72,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 使用尽可能多的数据进行训练的一种方法是使用 [*交叉验证*](https://en.wikipedia.org/wiki/Cross-validation_%28statistics%29) ，在这种情况下，我们取一小部分数据进行测试，其余的用于训练。一种常用的技术是 *k-fold* 交叉验证，其中数据集被分成 *k* 个不同的子集( *k* 可以是任意数目，甚至是数据集中实例的数目)，每个子集被用作测试集，而其余的被用于训练——该过程被重复，直到每个子集都被用于测试，即 *k* 次。
 
-[![k-fold cross validation](../Images/a3c073e4f804e0d7405ad6f14bc38ee4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qpHJ6Ogt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/1/1c/K-fold_cross_validation_EN.jpg)
+[![k-fold cross validation](img/a3c073e4f804e0d7405ad6f14bc38ee4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qpHJ6Ogt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/1/1c/K-fold_cross_validation_EN.jpg)
 
 ## 推文数据示例
 

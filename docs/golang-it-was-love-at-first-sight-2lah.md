@@ -25,7 +25,7 @@
 
 当我读到它时，我发现我们有很多共同点(我和 Go)，这对任何关系来说都是一个好的开始。
 
-[![](../Images/2bc41fc64326e89c20667c40376a52e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4gJx43Br--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AjwSiKwsOX7ONrx4kUksrJw.jpeg)
+[![](img/2bc41fc64326e89c20667c40376a52e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4gJx43Br--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AjwSiKwsOX7ONrx4kUksrJw.jpeg)
 
 *   我们俩都非常**固执己见**
 
@@ -47,7 +47,7 @@
 [BG Adrian/data-structures
 * data-structures-Abstract data structures Go 包，构建时考虑了性能和并发性来学习 Go。](https://github.com/bgadrian/data-structures)
 
-[![](../Images/15d6ef1bfa6cc53320a04077f5b7c7e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U63PcbvP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AUc-Ey0te8v80aV15zR_Jhg.png)
+[![](img/15d6ef1bfa6cc53320a04077f5b7c7e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U63PcbvP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AUc-Ey0te8v80aV15zR_Jhg.png)
 
 对我来说，Golang 还有几个优点:
 
@@ -65,7 +65,7 @@
 
 *   学习编译语言将有助于获得优势&享受同时编写 JavaScript 和 WebAssembly 模块的乐趣。
 
-[![](../Images/c792fb16750a6e05d2bad214632b07bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---rhQ4_Xu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2294/1%2Arkbogy-oxQQwOJiBSan9Vg.jpeg)
+[![](img/c792fb16750a6e05d2bad214632b07bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---rhQ4_Xu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2294/1%2Arkbogy-oxQQwOJiBSan9Vg.jpeg)
 
 大多数[“反对”去的理由](https://github.com/ksimka/go-is-not-good)我认为它们是“赞成”的理由，这里有几个例子:
 
@@ -75,7 +75,7 @@
 
 *   **重载**——通常会创建太多相似的代码，而且没有多态性，所以当你以 Go 风格编码时，它没有多大用处。重载使得“代码看起来很酷”，但是更难调试、维护和解释。我认为有了显式转换，接口就足够了(1 个函数做 1 件事，可以关联到 1 个接口)。
 
-[![Actual c++ code](../Images/ee1a31ad1c77d93c13bb52210eddec2b.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--41gzGFb---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Atqxky0NtFY9AUu02XRHgSw.jpeg) *实际 c++代码*
+[![Actual c++ code](img/ee1a31ad1c77d93c13bb52210eddec2b.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--41gzGFb---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Atqxky0NtFY9AUu02XRHgSw.jpeg) *实际 c++代码*
 
 *   代码是艺术，没有灵魂——我认为美妙之处不在于源代码的格式，而在于系统/架构层面，用简单的解决方案解决困难的问题。
 
@@ -95,7 +95,7 @@
 [**学习围棋的第一步**
 *我如何学习作为我的新主要语言的围棋，我使用了哪些资源&技巧？*coder.today](https://coder.today/first-steps-in-learning-golang-d0f3dbb3b6d7)
 
-[![](../Images/3b234f412d54a934701c984f0d9187a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JWJRgfJ4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Ape4RBWcHsCYwlw7XTOVlTw.jpeg)
+[![](img/3b234f412d54a934701c984f0d9187a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JWJRgfJ4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Ape4RBWcHsCYwlw7XTOVlTw.jpeg)
 
 完成，咆哮结束，感谢阅读！
 

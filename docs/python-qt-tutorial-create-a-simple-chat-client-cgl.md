@@ -35,7 +35,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您可以通过 shell 中的前缀`(virtualenv)`来判断激活是否成功:
 
-[![Screenshot of an activate Python 3 virtual environment on Windows](../Images/68840acde49b19a34c78e4b8251dcea9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rR_FzC8d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://build-system.fman.io/static/public/img/python3-virtual-environment-active-screenshot-windows.png)
+[![Screenshot of an activate Python 3 virtual environment on Windows](img/68840acde49b19a34c78e4b8251dcea9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rR_FzC8d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://build-system.fman.io/static/public/img/python3-virtual-environment-active-screenshot-windows.png)
 
 对于本教程的剩余部分，我们将假设虚拟环境是活动的。
 
@@ -53,15 +53,15 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们现在将使用 Qt for Python 来创建一个(工作！)聊天客户端。它看起来是这样的:
 
-[![Qt sample application](../Images/b4ba53da28cc2233071fcec629318b44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EWM8a9rR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://build-system.fman.io/static/public/img/python-qt-tutorial/qt-example-application.png)
+[![Qt sample application](img/b4ba53da28cc2233071fcec629318b44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EWM8a9rR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://build-system.fman.io/static/public/img/python-qt-tutorial/qt-example-application.png)
 
 我们将自上而下地建造它。首先，显示每个人消息的文本区域:
 
-[![QTextEdit screenshot](../Images/ad9f1a9ef67b1c6d34c7ffac13263c6d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1Td4S193--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://build-system.fman.io/static/public/img/python-qt-tutorial/qtextedit-screenshot.png)
+[![QTextEdit screenshot](img/ad9f1a9ef67b1c6d34c7ffac13263c6d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1Td4S193--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://build-system.fman.io/static/public/img/python-qt-tutorial/qtextedit-screenshot.png)
 
 要显示它，在您的终端中启动`python`并输入以下命令:
 
-[![QTextEdit sample code on Windows](../Images/dbf3d4de106bda9f220174d53393ef9d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AVHuh5qc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://build-system.fman.io/static/public/img/python-qt-tutorial/qtextedit-sample-code.png)
+[![QTextEdit sample code on Windows](img/dbf3d4de106bda9f220174d53393ef9d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AVHuh5qc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://build-system.fman.io/static/public/img/python-qt-tutorial/qtextedit-sample-code.png)
 
 第一行告诉 Python 加载 PySide:
 
@@ -111,7 +111,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们现在想要在文本区域下面添加用于输入消息的文本字段:
 
-[![Qt sample application: A QLineEdit below a QTextEdit](../Images/a337e6a9ad2733ed37ae0a658c1d7000.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JYvhtrpc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://build-system.fman.io/static/public/img/python-qt-tutorial/qt-example-application-empty.png)
+[![Qt sample application: A QLineEdit below a QTextEdit](img/a337e6a9ad2733ed37ae0a658c1d7000.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JYvhtrpc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://build-system.fman.io/static/public/img/python-qt-tutorial/qt-example-application-empty.png)
 
 但是我们如何告诉 Qt 把它放在文本区域的下面(而不是右边)？答案是通过一个*布局*。布局告诉 Qt 如何定位 GUI 元素。
 
@@ -139,7 +139,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 下面是最重要的 Qt 部件的截图:
 
-[![Screenshot of the most common Qt widgets](../Images/b5688db5e184adba83e171bb69f33376.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AXZUEeZ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://build-system.fman.io/static/public/img/python-qt-tutorial/qt-widgets-screenshot.png)
+[![Screenshot of the most common Qt widgets](img/b5688db5e184adba83e171bb69f33376.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AXZUEeZ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://build-system.fman.io/static/public/img/python-qt-tutorial/qt-widgets-screenshot.png)
 
 例如，它显示:
 
@@ -210,7 +210,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当您运行这段代码时，消息`hi!`每秒钟在您的终端中出现一次:
 
-[![QTimer example](../Images/56998597f66de32c8bb737a1250c889c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HLVezO_U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://build-system.fman.io/static/public/img/python-qt-tutorial/qtimer-example.png)
+[![QTimer example](img/56998597f66de32c8bb737a1250c889c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HLVezO_U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://build-system.fman.io/static/public/img/python-qt-tutorial/qtimer-example.png)
 
 上面代码中的信号是`timer.timeout`。我们使用它的`.connect(...)`方法来指定当信号出现时被调用的函数。在这个例子中，我们使用了内嵌函数`lambda: print('hi!')`。我们的另一个调用`timer.start(1000)`确保 Qt 每 1000 毫秒运行一次这个函数。
 

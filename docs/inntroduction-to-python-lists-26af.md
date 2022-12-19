@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/achiengcindy/inntroduction-to-python-lists-26af>
 
-[![](../Images/676a9312b56240cfcf2501de41565bb3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6p2dhskM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1r60jwep68i2y5c0vg16.jpg)
+[![](img/676a9312b56240cfcf2501de41565bb3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6p2dhskM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1r60jwep68i2y5c0vg16.jpg)
 
 List 是最通用的 python 数据结构，存储有序的元素序列，就像购物清单或待办事项清单一样。在 Python 中，列表是`mutable`，这意味着元素可以被改变，不像`tuples`甚至`strings`。`list`的这些元素被称为`items`，可以是任何数据类型。
 

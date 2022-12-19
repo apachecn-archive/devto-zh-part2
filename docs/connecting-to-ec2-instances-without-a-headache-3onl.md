@@ -12,7 +12,7 @@ AWS 提供了一个强大的特性，叫做**自动缩放**。如果在您的基
 
 除此之外，通过使用**堡垒架构**来保护您的应用服务器是一个安全最佳实践。换句话说，只有一个 EC2 实例将暴露在公共子网中，而所有其他 EC2 实例都将配置在私有子网中。要访问这些服务器，您需要通过 bastion 主机打开一个 SSH 连接。
 
-[![AWS bastion architecture](../Images/3ddd3636457226b7caddbef5817241f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r_1tLAH4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ajardin.fr/public/img/bastion_architecture.png)
+[![AWS bastion architecture](img/3ddd3636457226b7caddbef5817241f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r_1tLAH4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ajardin.fr/public/img/bastion_architecture.png)
 
 即使这是云基础设施的首选方法，但当您需要通过 SSH 访问应用服务器时，这种方法就不那么用户友好了。希望这不是你在“生产就绪”平台上经常做的事情，因为 AWS 提供了足够的服务(尤其是 CloudWatch)让你监控所有的实例。
 

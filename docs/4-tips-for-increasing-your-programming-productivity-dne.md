@@ -10,7 +10,7 @@
 
 <figure>
 
- [![Are you too busy to improve? webcomic](../Images/43768f897e43a2fcd8b0786902ed03df.png)
+ [![Are you too busy to improve? webcomic](img/43768f897e43a2fcd8b0786902ed03df.png)
 T4】](http://hakanforss.wordpress.com)
 
 <figcaption>Don't be these dudes.</figcaption>
@@ -31,7 +31,7 @@ T4】](http://hakanforss.wordpress.com)
 
 <figure>
 
- [![Programmer, Interrupted webcomic](../Images/9a7ea4c9829a6d4887592d6db20ae769.png)
+ [![Programmer, Interrupted webcomic](img/9a7ea4c9829a6d4887592d6db20ae769.png)
 T4】](http://heeris.id.au/2013/this-is-why-you-shouldnt-interrupt-a-programmer/)
 
 <figcaption>If you multitask, you do this to yourself dozens of times per day.</figcaption>
@@ -107,7 +107,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <figure>
 
- [![Automation xkcd webcomic](../Images/0659b44a2218b0fad4ec52a71f7f35dd.png)
+ [![Automation xkcd webcomic](img/0659b44a2218b0fad4ec52a71f7f35dd.png)
 T4】](https://xkcd.com/1319/)
 
 <figcaption>My experience is usually more like the top panel, I swear...</figcaption>

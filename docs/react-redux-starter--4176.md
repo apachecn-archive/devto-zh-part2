@@ -20,7 +20,7 @@
 
 下图说明了如何使用 Redux 和一个*邮政编码服务*获取数据:
 
-[![react-redux-starter-zipcodes](../Images/b2fda39b306c3d32cc3fc00a8fab029b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f_Ewt5pY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/36661103-035bd11a-1ae3-11e8-8c01-0224860801f8.png)
+[![react-redux-starter-zipcodes](img/b2fda39b306c3d32cc3fc00a8fab029b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f_Ewt5pY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/36661103-035bd11a-1ae3-11e8-8c01-0224860801f8.png)
 
 ## 特性
 
@@ -47,11 +47,11 @@
 
 ### 桌面
 
-[![desktop](../Images/03c13c3cd9185debc334c63f601f9c63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ap74-jMl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/33935506/36639642-ce08ea3a-1a19-11e8-8f97-0bcb29276aaf.gif)
+[![desktop](img/03c13c3cd9185debc334c63f601f9c63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ap74-jMl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/33935506/36639642-ce08ea3a-1a19-11e8-8f97-0bcb29276aaf.gif)
 
 ### 移动
 
-[![mobile](../Images/03ff29138989553de4779fe179ccfad2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C888TArI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/33935506/36639643-ce440ad4-1a19-11e8-9728-3a4b5f1bd800.gif)
+[![mobile](img/03ff29138989553de4779fe179ccfad2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C888TArI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/33935506/36639643-ce440ad4-1a19-11e8-9728-3a4b5f1bd800.gif)
 
 * * *
 
@@ -144,7 +144,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 运行上述命令后，将打开一个浏览器窗口，显示类似下图的交互式图形:
 
-[![webpack bundle analyzer](../Images/ae0130f3cc256ebf84811e5383871055.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--th6uJNAo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/36639476-30f9479c-1a16-11e8-9d09-1b80355a089b.png)
+[![webpack bundle analyzer](img/ae0130f3cc256ebf84811e5383871055.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--th6uJNAo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/36639476-30f9479c-1a16-11e8-9d09-1b80355a089b.png)
 
 #### 构建包含 BundleBuddy 插件的应用
 
@@ -200,7 +200,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 上述命令将在您的控制台中显示一个类似下图的仪表板视图:
 
-[![webpack-dashboard](../Images/525ed3452ea218fe211ba953e11f7b23.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0BCA8BuN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/36639594-589409e8-1a18-11e8-84fe-29f7bdafcaa6.png)
+[![webpack-dashboard](img/525ed3452ea218fe211ba953e11f7b23.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0BCA8BuN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/36639594-589409e8-1a18-11e8-84fe-29f7bdafcaa6.png)
 
 #### 运行生产服务器
 

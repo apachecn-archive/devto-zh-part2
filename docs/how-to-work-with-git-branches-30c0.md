@@ -16,21 +16,21 @@
 
 让我们从[创建一个新的分支](https://kolosek.com/git-commands-tutorial-part2/) : `git branch hello-world`开始。
 
-[![git-branch](../Images/be5d19d576e6935ab6a7d373e12d8383.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--x6KCl1ov--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/e7024eeebf14e60d1ef085e26a54c7ff/git-branch.png)
+[![git-branch](img/be5d19d576e6935ab6a7d373e12d8383.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--x6KCl1ov--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/e7024eeebf14e60d1ef085e26a54c7ff/git-branch.png)
 
 > 这只产生了**新的分支**。要开始处理它，您需要切换到带有`git checkout`的分支。现在，你已经准备好使用标准的`git add`和`git commit`命令了。
 
 您可以看到两个不同的分支指向同一个提交。*Git 如何知道哪个分支当前被检出？*这就是**头部指针**发挥作用的地方！
 
-[![git-branch-head-master](../Images/6b5ce4d697fa7d6c533668ee31049f2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--54PaglrC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/c67bce46b37a3ed035ab3578caae4721/git-branch-head-master.png)
+[![git-branch-head-master](img/6b5ce4d697fa7d6c533668ee31049f2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--54PaglrC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/c67bce46b37a3ed035ab3578caae4721/git-branch-head-master.png)
 
 **HEAD** 总是指向当前检出的分支或提交。在我们的例子中，它是主人。让我们看看会发生什么。
 
-[![Git-branch-head-hello](../Images/ec3e53988e48cdb6fd85ccdefb279305.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fcF9G9M7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/2e1d719f1b70ee891cea0486f745d8ae/git-branch-head-hello.png)
+[![Git-branch-head-hello](img/ec3e53988e48cdb6fd85ccdefb279305.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fcF9G9M7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/2e1d719f1b70ee891cea0486f745d8ae/git-branch-head-hello.png)
 
 可以看到，头部现在指向的是`hello-world`分支，而不是 master。下一步是修改一些文件，[用`git commit -m "commit message"`创建一个新的提交]((https://kolosek.com/git-commands-tutorial-part2/))
 
-[![git-branch-new-commit](../Images/36fbd5e249534df346ea9092ec55d424.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D-_dH5ka--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/0b7f7d3500d892133946f6f05109ebca/git-branch-new-commit.png)
+[![git-branch-new-commit](img/36fbd5e249534df346ea9092ec55d424.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D-_dH5ka--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/0b7f7d3500d892133946f6f05109ebca/git-branch-new-commit.png)
 
 在分支`hello-world`中创建了一个**新提交 C5** 。指针总是指向我们签出的那个分支中的最新提交。`hello-world`分支的变化不影响任何其他分支。*分支使你能够将自己的工作与其他人隔离开来。*
 
@@ -42,11 +42,11 @@
 
 正如我们之前说过的，HEAD 总是指向当前检出的分支或提交。**签出**到一个提交，看看`git checkout C0`会发生什么。
 
-[![git-branch-checkout-commit](../Images/d4db65b5680896133375b0d47087d5e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TFhZ14_B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/7cb2c78e7074fe052eb153b19907c4b2/git-branch-checkout-commit.png)
+[![git-branch-checkout-commit](img/d4db65b5680896133375b0d47087d5e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TFhZ14_B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/7cb2c78e7074fe052eb153b19907c4b2/git-branch-checkout-commit.png)
 
 现在，矛头指向了 C0。我们当前签出到一个远程分支。*可以在签出提交时创建新的提交吗？*是时候找出答案了！`git commit -m "commit message"`
 
-[![git-branch-head-detached](../Images/bbc34830f535f00c3ecc95e6e6d7303a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FAN_-VxP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/9088288889fb85fbf6a1c895bb2c53dc/git-granch-head-detached.png)
+[![git-branch-head-detached](img/bbc34830f535f00c3ecc95e6e6d7303a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FAN_-VxP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/9088288889fb85fbf6a1c895bb2c53dc/git-granch-head-detached.png)
 
 头部被分离，并随着每个新创建的提交一起移动。新创建的提交`C6`指向`C0`，它现在表现得像一个分支，但它不是。
 
@@ -54,7 +54,7 @@
 > 
 > 为了避免这种情况，我们只需要为新创建的提交和签出创建一个新的分支。`git checkout -b hotfix C6`。
 
-[![git-branch-hotfix](../Images/b3a82fff91d3d33bfd93705b7520c859.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bSm9r0JG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/d617a0d49810d7489e9a7cc75c59ab03/git-branch-hotfix.png)
+[![git-branch-hotfix](img/b3a82fff91d3d33bfd93705b7520c859.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bSm9r0JG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/d617a0d49810d7489e9a7cc75c59ab03/git-branch-hotfix.png)
 
 当你解决新问题时，一定要使用分支，以避免干扰同事的功能！
 

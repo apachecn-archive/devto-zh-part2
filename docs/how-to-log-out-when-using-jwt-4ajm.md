@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/_arpy/how-to-log-out-when-using-jwt-4ajm>
 
-[![](../Images/3a4a67020f550e7c7b17f325cc3348d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kXXo_Ky8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/13vklhgjviq6pp6bbqy2.jpg)
+[![](img/3a4a67020f550e7c7b17f325cc3348d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kXXo_Ky8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/13vklhgjviq6pp6bbqy2.jpg)
 
 ### JSON Web 令牌的奇妙之处
 
@@ -64,7 +64,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 结论
 
-<figure>[![](../Images/966b75cc1dc22f5171488a7b57f01c84.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5F6dVY3f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/568/1%2AQp_2RBl4GgCn022OZFpkfQ.jpeg) 
+<figure>[![](img/966b75cc1dc22f5171488a7b57f01c84.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5F6dVY3f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/568/1%2AQp_2RBl4GgCn022OZFpkfQ.jpeg) 
 
 <figcaption>一个人不跟 JWT 简单注销……</figcaption>
 
@@ -77,7 +77,7 @@ Enter fullscreen mode Exit fullscreen mode
 3.  拥有不再活动的令牌的数据库，这些令牌仍有一些生存时间
 4.  在每个授权请求中，根据黑名单查询提供的令牌
 
- **<figure>[![](../Images/a59836e6fd4724e05ffda1374d429bc6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EZaghuY1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/879/1%2Ao-17hHqSjIGvsGU3zaGyXw.png) 
+ **<figure>[![](img/a59836e6fd4724e05ffda1374d429bc6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EZaghuY1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/879/1%2Ao-17hHqSjIGvsGU3zaGyXw.png) 
 
 <figcaption>图片来源:cartermatt.com</figcaption>
 

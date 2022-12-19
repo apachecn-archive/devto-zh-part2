@@ -42,7 +42,7 @@ HTML，或者超文本标记语言，是一种用于创建*网页*的标记语�
 
 #### 嵌套
 
-*   开始和结束标签定义受标签影响的区域。这些区域可以*嵌套*，但是*不能*重叠。 [![tags](../Images/2244b1e6522d9442deb6d3f7bbb7d872.png)](https://clearlydecoded.com/anatomy-of-html-tag) 点击图片为来源网站< 3 [ ![tagging](../Images/71f813c0ec4a35fb7fe5c797a6533788.png)](https://thepracticaldev.s3.amazonaws.com/i/ccp2ywlxb49q85qsv3of.png)
+*   开始和结束标签定义受标签影响的区域。这些区域可以*嵌套*，但是*不能*重叠。 [![tags](img/2244b1e6522d9442deb6d3f7bbb7d872.png)](https://clearlydecoded.com/anatomy-of-html-tag) 点击图片为来源网站< 3 [ ![tagging](img/71f813c0ec4a35fb7fe5c797a6533788.png)](https://thepracticaldev.s3.amazonaws.com/i/ccp2ywlxb49q85qsv3of.png)
 
 #### 标题标签
 
@@ -153,7 +153,7 @@ Relative path:
 *   和 **align** 属性来设置图像对齐。
 
 ```
-<img src="http://www.mahidol.ac.th/images/logo.gif" width="45" height="45" align="right"> 
+<img src="http://www.mahidol.ac.img/logo.gif" width="45" height="45" align="right"> 
 ```
 
 #### HTML 中的列表
@@ -265,7 +265,7 @@ This is another text.
 </table> 
 ```
 
-[![](../Images/38f28db875048268752ffe943ba267aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8nO4Hbzm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/je00498uh1dopbu8kct3.png)
+[![](img/38f28db875048268752ffe943ba267aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8nO4Hbzm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/je00498uh1dopbu8kct3.png)
 
 其他基本的 HTML 标签，[点击这里](https://www.w3schools.com/tags/ref_byfunc.asp)！
 

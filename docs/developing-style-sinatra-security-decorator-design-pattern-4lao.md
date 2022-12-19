@@ -16,17 +16,17 @@
 
 我真的很高兴了解并尝试实现 OOP 设计模式，但这不是我在制作应用程序时遇到的第一个深入研究的领域。相反，这是建立适当的安全机制的障碍。虽然这可能没有我想要的优雅，
 
-[![Lightsaber](../Images/14bb42f243bac73c7d4ce8ee8ad66748.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2yh2LZTA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/7wqhs6w.png)
+[![Lightsaber](img/14bb42f243bac73c7d4ce8ee8ad66748.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2yh2LZTA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/7wqhs6w.png)
 
 它是一个非常实用的基本工具，需要像对待任何新算法或高效设计模式一样认真对待。
 
-[![Blaster](../Images/8cff80217cf6a2fdc60fd85d908a3ef6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UiDLpMoW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/xeDiQuR.jpg)
+[![Blaster](img/8cff80217cf6a2fdc60fd85d908a3ef6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UiDLpMoW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/xeDiQuR.jpg)
 
 即使在简单的 web 应用程序中，正确的身份验证和授权也不是小事。如果不认真对待，您可能会暴露您的用户信息、应用程序信息，甚至危及您的服务器。[2]此外，你没有发展技能和肌肉记忆，而这些可能是你以后获得更敏感的应用所需要的。
 
 那么，一个简单的 Sinatra App 需要哪些步骤呢？嗯，我们必须考虑如何对用户进行授权和认证。我们在登录时对照数据库检查他们的用户名和密码。然后我们用 cookies 持久化一个会话。对于我们的用例来说，这是两个主要的脆弱领域。幸运的是，使用 ActiveRecord 抽象通过使用准备好的语句(使用参数化查询) [OWASP 的 SQL 注入备忘单](https://www.owasp.org/index.php/SQL_Injection_Prevention_Cheat_Sheet)在登录时防范 [SQL 注入](https://en.wikipedia.org/wiki/SQL_injection)。如果我们花时间正确使用它，Sinatra 还为我们提供了(几乎)所有保护 cookies 安全所需的工具。
 
-[![Cookies](../Images/0bca949ba0ce46df318164455ea95a30.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bGavk42U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Kx0Lxfv.png)
+[![Cookies](img/0bca949ba0ce46df318164455ea95a30.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bGavk42U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Kx0Lxfv.png)
 
 您可能知道也可能不知道，cookies 是从服务器发送给用户并存储在他们浏览器上的散列(只是字典)。这使得从用户到服务器的后续 HTTP 请求可以与该 cookie 一起发送，并且服务器可以知道关于该用户的信息——例如，他们以前已经过身份验证(即，它用于持久化状态)。
 
@@ -72,13 +72,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 在制作这个应用的几天后，我读到了关于跨站请求伪造的文章，( [CSRF](https://en.wikipedia.org/wiki/Cross-site_request_forgery) )。我了解到，人们可以使用网站上的帖子，这些帖子没有正确地过滤用户输入，以使用户在用户不知情的情况下使用户的浏览器访问该网站(通常通过使用带有 src 的 img 标签访问该网站)。我对 Javascript、AJAX 等知之甚少，但这促使我了解更多(我将很快分享)。无论如何，我决定去我的网站做一些乱七八糟的事情，我发现我可以通过张贴评论将脚本插入到网站中。这使得攻击者有很多选择，从窃取其他用户的 cookies，对他们进行 CSRF 攻击，或者覆盖那个网页。我决定伪装成一个试图在网站用户中散布不满情绪的人(我通过在浏览器中检查网站获得所有的查询信息，而不是通过制作网站的过程):
 
-[![script in post](../Images/24410ee912581e8bdff2e2dfcdb7d414.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bEFHtXGk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/XQty8t7.png) 
+[![script in post](img/24410ee912581e8bdff2e2dfcdb7d414.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bEFHtXGk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/XQty8t7.png) 
 
-[![post output](../Images/a8136cf01e606c9214279d167843292a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZN1l1u1E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/trgsg9s.png)
+[![post output](img/a8136cf01e606c9214279d167843292a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZN1l1u1E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/trgsg9s.png)
 
 为了解决这个问题，我需要净化我的输入。起初我打算自己过滤，但最好的方法可能是使用一种既定的方法。所以我最终使用了 sanitize gem，现在我的黑客尝试看起来像这样:
 
-[![sanitized](../Images/4d61b64cacdca39d3e60a26647a091a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fxhf8Wqe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/002rLv4.png)
+[![sanitized](img/4d61b64cacdca39d3e60a26647a091a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fxhf8Wqe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/002rLv4.png)
 
 令我失望的是，我开始制作一个 web 应用程序，却忘记了这个非常基本的概念。这应该是任何设计 web 应用程序的人必备的知识。
 
@@ -110,7 +110,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 对我来说，决定使用什么样的设计模式和实现它们一样困难，如果不是更困难的话——这里有一个它们如何相互关联的图形表示，帮助我们决定相对于其他模式使用哪一个:
 
-[![Design Pattern Relationships](../Images/8f7459330c2e8e65f6bef0807d5e0499.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Iy63fBxF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/vQXBIko.png)
+[![Design Pattern Relationships](img/8f7459330c2e8e65f6bef0807d5e0499.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Iy63fBxF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/vQXBIko.png)
 
 对我第一次来说，这是很难接受的。这就是我如何做出决定的。
 
@@ -303,7 +303,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在我们对装饰器有了一个直觉，我认为看到一个正式的定义是很重要的，以类图的形式
 
-[![Decorator Pattern UML](../Images/d08bcdd1c2c6aca6a31ddf14b276ea4e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AfTFPIxq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/XADKZbN.gif)
+[![Decorator Pattern UML](img/d08bcdd1c2c6aca6a31ddf14b276ea4e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AfTFPIxq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/XADKZbN.gif)
 
 那么，我如何使用一个装饰者呢？
 
@@ -335,7 +335,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 虽然对于一个装饰者来说，这可能不是最好的用例，或者我可能实现得很草率，或者可能有一些更好的设计模式，但是使用这种模式确实使我的代码更容易使用，让我练习搜索和选择设计模式，并让我对装饰者设计模式有了更好的理解。下次我有问题时，我将能够有一个新的方法来潜在地解决它，并且我将能够改进我的想法的具体实现。
 
-[![larger world](../Images/ecdbd477fef16edf22fbedd60d15d6ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NNF6xX-x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/OOZKmer.png)
+[![larger world](img/ecdbd477fef16edf22fbedd60d15d6ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NNF6xX-x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/OOZKmer.png)
 
 ## 参考文献
 

@@ -20,7 +20,7 @@
 
 我用 [TickTick](https://www.ticktick.com/) 保存了一个博客帖子想法的运行列表——这是我使用的待办事项列表应用程序。当我想到主题的时候写下来是很重要的——如果我不写的话，我会完全忘记的。月初我做一个内容日历，上面写着那个月我实际想写的帖子。我并不总是坚持内容日历，但提前知道我想写什么，并知道不同主题和类型之间的平衡是很好的。
 
-[![Tips for coming up with a blog topic](../Images/debdf47ed1b8c4e4cdf844774b40b273.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rGhLOHAy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/82jcqgmprzrvyti8nfkl.jpg)
+[![Tips for coming up with a blog topic](img/debdf47ed1b8c4e4cdf844774b40b273.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rGhLOHAy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/82jcqgmprzrvyti8nfkl.jpg)
 
 ## 2。草案初稿
 
@@ -48,13 +48,13 @@
 
 我在[草图](https://dev.to/aspittel/designing-with-sketch-42jp)中画出这些，我有一个样板设置，我只是复制并粘贴包含不同大小图像的不同画板。然后，我只需添加我想要的帖子设计并格式化它们！
 
-[![All of the Sketch artboards that go into a blog post](../Images/49c32dc69d7923d503a65e23d892d3c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qmICq6DJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3qci0yww3xveiiy0vlkq.png)
+[![All of the Sketch artboards that go into a blog post](img/49c32dc69d7923d503a65e23d892d3c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qmICq6DJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3qci0yww3xveiiy0vlkq.png)
 
 ## 5。出版
 
 最后一步是按下发布键，把你的文章发送到世界上！我强烈建议一开始就发布到别人的网站上，或者至少交叉发布——除非构建和维护博客基础设施是你的主要目标！现在，我在自己的网站 dev.to 和 Medium 上发表文章。我也试过一次 LinkedIn，但它很难格式化，只有大约 100 人阅读，所以以我的经验来看不值得花这么大力气。Medium 也可能很棘手，但是 [Markdown to Medium](http://markdowntomedium.com/) 使它变得简单一点——它将您的 Markdown 代码转换成 Gists，所以您不必担心怪异的 Medium 代码格式！
 
-[![](../Images/20a5bdbe88271f510fbcd52ada935fd7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kpSI0w7v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vqdp9jz0wjq1ehpubzj6.png)
+[![](img/20a5bdbe88271f510fbcd52ada935fd7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kpSI0w7v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vqdp9jz0wjq1ehpubzj6.png)
 
 老实说，对我来说，发布常常是最难的部分。我的电脑上有很多未发表的帖子，我可能会也可能不会在某个时候发布。老实说——由于紧张，我经常在写完文章几天后才发表。我想列出一些我常见的担忧，以及我是如何促使自己最终坚持发表文章的。
 

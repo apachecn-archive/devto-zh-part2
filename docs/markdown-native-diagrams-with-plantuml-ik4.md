@@ -27,7 +27,7 @@ app -> client
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![basic component diagram showing data flowing from a database via an app to a client](../Images/ceb6c43833e354298016e9823abfa308.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mvpt6QlT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anoff.io/blog/img/assets/plantuml/diagrams/dist/component.svg)
+[![basic component diagram showing data flowing from a database via an app to a client](img/ceb6c43833e354298016e9823abfa308.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mvpt6QlT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anoff.io/blog/img/assets/plantuml/diagrams/dist/component.svg)
 
 ## 爱上 PlantUML 的理由🤗
 
@@ -69,7 +69,7 @@ PlantUML 的基本语法非常简洁，为不同的图类型打下了良好的�
 
 你所需要做的就是获得 [PlantUML 扩展](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)来启用代码本地 [Markdown 预览特性](https://code.visualstudio.com/docs/languages/markdown)来解析内嵌图。
 
-[![Screenshot of Visual Studio Code showing rendered PlantUML diagram in Markdown preview](../Images/46ca517c54431f84cf2b1b758ad0e39d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ez59kPHX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anoff.io/blog/img/assets/plantuml/code-rendering.png)
+[![Screenshot of Visual Studio Code showing rendered PlantUML diagram in Markdown preview](img/46ca517c54431f84cf2b1b758ad0e39d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ez59kPHX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anoff.io/blog/img/assets/plantuml/code-rendering.png)
 
 默认情况下，插件需要运行一个本地 PlantUML 进程并接受渲染请求。我推荐切换成使用服务器进行渲染；这可能是官方的 plantuml.com 服务器、本地实例或本地运行的[容器](https://hub.docker.com/r/plantuml/plantuml-server/)。安装插件后，进入 VS 代码选项(`ctrl/⌘ + ,`)并更改`plantuml.render`属性。
 
@@ -123,9 +123,9 @@ Enter fullscreen mode Exit fullscreen mode
 
 最棒的是，这不仅适用于提交到 git 存储库中的 markdown 文件，还适用于 GitLab 中呈现 Markdown 的所有其他字段——几乎所有内容。你也可以用小图表来帮助说明问题。
 
-[![Screenshot of PlantUML syntax in a GitLab issue](../Images/5204e6ba7dd98f8f40621eab938762f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wSWARklz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anoff.io/blog/img/assets/plantuml/puml-issue.png)
+[![Screenshot of PlantUML syntax in a GitLab issue](img/5204e6ba7dd98f8f40621eab938762f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wSWARklz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anoff.io/blog/img/assets/plantuml/puml-issue.png)
 
-[![Rendered PlantUML diagram in a GitLab issue](../Images/fe39493a610cf5d35a9b6e3b4865ec46.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--stOvpDRX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anoff.io/blog/img/assets/plantuml/puml-issue-rendered.png)
+[![Rendered PlantUML diagram in a GitLab issue](img/fe39493a610cf5d35a9b6e3b4865ec46.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--stOvpDRX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anoff.io/blog/img/assets/plantuml/puml-issue-rendered.png)
 
 # GitHub 集成
 
@@ -137,7 +137,7 @@ GitHub 和 gitlab.com 没有本地的 PlantUML 集成。为了保持上面列出
 
 下图显示了当您打开 GitHub 上包含此类链接的降价页面时会发生什么:
 
-[![sequence diagram showing how PlantUML proxy service works](../Images/8aa7e855bac4aae18fd7e0a3495f11a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0-fq-CvJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anoff.io/blog/img/assets/plantuml/diagrams/dist/plantuml-proxy.svg)
+[![sequence diagram showing how PlantUML proxy service works](img/8aa7e855bac4aae18fd7e0a3495f11a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0-fq-CvJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anoff.io/blog/img/assets/plantuml/diagrams/dist/plantuml-proxy.svg)
 
 [这个例子](https://github.com/anoff/plantbuddy/blame/master/readme.md#L12)表明添加一个`?cache=no`可能是个好主意，因为 GitHubs Camo [缓存策略](http://forum.plantuml.net/7163/githubs-aggressive-caching-prevent-diagrams-updated-markdown)会阻止你的图像在你改变源代码时更新。
 

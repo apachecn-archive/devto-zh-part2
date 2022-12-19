@@ -16,19 +16,19 @@
 
 GitHub、Bitbucket 和 GitLab 集成是可用的，如果您在其他地方托管代码，还可以手动上传项目的归档。确保选择您是分发代码还是提供 web 服务，因为 FOSSA 会建议一套合理的规则来检查您的项目。
 
-[![Step 1 Sign Up for FOSSA](../Images/689064c43f5976043b58cfa592e716e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C5H--APD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yfa1ali4457oimspw7he.png)
+[![Step 1 Sign Up for FOSSA](img/689064c43f5976043b58cfa592e716e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C5H--APD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yfa1ali4457oimspw7he.png)
 
 ##### 步骤 2)通过 FOSSA 运行你的代码
 
 等待检查员运行；成功的运行将被固定到您手动上载的项目的分支或版本。
 
-[![Step 2 Run Your Code Through FOSSA](../Images/79e728924fb1629e20db22c9bea0938e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pnMZzRXY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r50vcrh38wiubabl5oru.png)
+[![Step 2 Run Your Code Through FOSSA](img/79e728924fb1629e20db22c9bea0938e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pnMZzRXY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r50vcrh38wiubabl5oru.png)
 
 ##### 步骤 3)生成报告
 
 将出现一个兼容、不兼容和遵守措施项目的列表。大多数律师事务所想要这些页面的 pdf 格式；他们是有益的打印格式，并使一个很好的组合文件时，完成。
 
-[![Generate a Report](../Images/79e728924fb1629e20db22c9bea0938e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pnMZzRXY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r50vcrh38wiubabl5oru.png)
+[![Generate a Report](img/79e728924fb1629e20db22c9bea0938e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pnMZzRXY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r50vcrh38wiubabl5oru.png)
 
 这就是全部了。虽然这不会完全取代对开发团队不良行为的严格监控(例如，复制和粘贴整个堆栈溢出答案)，但它会在尽职调查期间为您节省大量时间。
 
@@ -36,6 +36,6 @@ GitHub、Bitbucket 和 GitLab 集成是可用的，如果您在其他地方托�
 
 这是我的一个开源项目的许可证徽章的例子(一个后台搜索服务的 PHP 包装器)
 
-[![FOSSA Status](../Images/7ff4300ac5bab3126a25339b00e711b7.png)T2】](https://app.fossa.io/projects/git%2Bgithub.com%2Flyal%2Fcheckr?ref=badge_shield)
+[![FOSSA Status](img/7ff4300ac5bab3126a25339b00e711b7.png)T2】](https://app.fossa.io/projects/git%2Bgithub.com%2Flyal%2Fcheckr?ref=badge_shield)
 
 *这篇文章最初发布在 [PullRequest 的博客](https://www.pullrequest.com/blog/?utm_medium=referral&utm_source=dev.to)上。让您的代码接受专业评审员的评审:[今天就报名](https://www.pullrequest.com/?utm_medium=referral&utm_source=dev.to)参加 PullRequest*

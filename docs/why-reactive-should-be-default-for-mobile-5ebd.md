@@ -22,17 +22,17 @@
 
 > "在计算中，反应式编程是一种与数据流和变化传播有关的声明式编程范例."
 
-[![Wut?](../Images/472b258ec369dc8717ee347c4dd916b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LGJFVGeO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media.giphy.com/media/SqmkZ5IdwzTP2/giphy.gif%23center)
+[![Wut?](img/472b258ec369dc8717ee347c4dd916b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LGJFVGeO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media.giphy.com/media/SqmkZ5IdwzTP2/giphy.gif%23center)
 
 没关系！假设你有一个程序，其中有一个按钮和标签。它们被定义为类，就像面向对象系统中的其他事物一样。这个程序所做的就是将标签的文本更新为“Clicked！”单击按钮时。所以我们可以说，按钮可以以某种方式影响标签内的文本，对吗？
 
-[![OO Relation](../Images/86d58412def16567b5672ee72b304944.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AZ8LCFHh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zuhaibahmad.com/assets/images/posts/relation.png%23center)
+[![OO Relation](img/86d58412def16567b5672ee72b304944.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AZ8LCFHh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zuhaibahmad.com/asseimg/posts/relation.png%23center)
 
 所以情况很简单，按钮可以被点击，标签可以被更新，两者都可以在各自的类中定义为一个函数。现在，这里有个问题！如果您要编写这个交互的代码，那么当按钮被点击时，您会把更新标签的逻辑放在哪里呢？是在纽扣本身里面还是标签里面？
 
 假设你使用按钮，顺便说一句，我们通常是这样做的，那么在这种情况下，你需要在你的按钮中有一个标签的引用，你可以在按钮被点击时更新它。这本质上是一种主动的编程方式。我们基本上把状态管理的所有责任都委托给了按钮，让标签保持被动，也就是说，不关心外面发生了什么。互动的时候按照说明就好了。
 
-[![Proactive Relation](../Images/4abaccfe32529f56038cfb06b1bde2e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d5QY_iAp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zuhaibahmad.com/assets/images/posts/proactive_relation.png%23center)
+[![Proactive Relation](img/4abaccfe32529f56038cfb06b1bde2e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d5QY_iAp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zuhaibahmad.com/asseimg/posts/proactive_relation.png%23center)
 
 类`Button`看起来会像这样:
 
@@ -46,7 +46,7 @@ class Button (val label: Label) {
 
 这种方法的替代方案是反应式编程。我们基本上只是颠倒了角色，这样状态所有者就有能力改变自己，让按钮要求改变，标签对它作出反应。
 
-[![Reactive Relation](../Images/52210a2c237396a9a78da7119f1b96fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2kLVhCc1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zuhaibahmad.com/assets/images/posts/reactive_relation.png%23center)
+[![Reactive Relation](img/52210a2c237396a9a78da7119f1b96fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2kLVhCc1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zuhaibahmad.com/asseimg/posts/reactive_relation.png%23center)
 
 在这种情况下，`Button`类应该与此类似(注意这里绝对没有标签或任何外部依赖的痕迹):
 

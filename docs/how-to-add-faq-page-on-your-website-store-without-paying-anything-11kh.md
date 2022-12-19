@@ -4,7 +4,7 @@
 
 由于谷歌搜索算法最近的变化，我们的许多客户都提出了这样的问题，如如何创建 FAQ 页面，制作 FAQ 页面的成本是多少，一旦你开发了它，我们是否能够自己维护它，等等。这个帖子最初是为了回答这些问题而创建的。
 
-[![](../Images/9475992ba609bd50ced9c8c08c1998c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hvIl6qxL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z53iux0c3bb7zehfkzi9.jpg)
+[![](img/9475992ba609bd50ced9c8c08c1998c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hvIl6qxL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z53iux0c3bb7zehfkzi9.jpg)
 
 首先，你可以在你的网站商店中添加 FAQ 页面，而无需支付任何费用。怎么会？
 
@@ -69,7 +69,7 @@ WpWorx 是一个完全可定制的 FAQ 插件。它响应迅速，几乎可以�
 
 **https://wordpress.org/plugins/wpworx-faq/**
 
-[![](../Images/c5e320135df39dc9413ce99251574460.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4-ZR4Fqh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ba295irtnxrau864ulnw.png)
+[![](img/c5e320135df39dc9413ce99251574460.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4-ZR4Fqh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ba295irtnxrau864ulnw.png)
 
 **安装插件**
 
@@ -77,13 +77,13 @@ WpWorx 是一个完全可定制的 FAQ 插件。它响应迅速，几乎可以�
 
 登录你的 WordPress 管理面板:
 
-[![](../Images/121fe425fd3dc736f3a7f26a7f9ca337.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ayp9Ej6N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mwpo891gq3ojzyoju9d9.png)
+[![](img/121fe425fd3dc736f3a7f26a7f9ca337.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ayp9Ej6N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mwpo891gq3ojzyoju9d9.png)
 
 在管理面板左侧的选项下，你可以点击“插件”。
 
 上传 WpWorx 插件的 Zip 文件。为此，您需要“选择文件”,然后点击“立即安装”。一旦插件链接被激活，您就可以开始构建您的 FAQ 页面，并根据您的要求进行定制。
 
-[![](../Images/8b5ef9567db9492ed2ec88c17f4cc800.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZSZ37aB8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k2vc7ui4hwpbv0elzin3.png)
+[![](img/8b5ef9567db9492ed2ec88c17f4cc800.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZSZ37aB8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k2vc7ui4hwpbv0elzin3.png)
 
 **自动安装**
 
@@ -94,7 +94,7 @@ WpWorx 是一个完全可定制的 FAQ 插件。它响应迅速，几乎可以�
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/8fab4e7be51594a5c7f928e475ce3e09.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XCpedPWY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nhscwnfuzec3e3undhxx.png)
+[![](img/8fab4e7be51594a5c7f928e475ce3e09.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XCpedPWY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nhscwnfuzec3e3undhxx.png)
 
 ```
  •    Click “Add New” 
@@ -104,7 +104,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/31c8747dd9dab4a5ddb88c9fa460b215.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C_az_8gL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lb98k78epqev094489sr.png)
+[![](img/31c8747dd9dab4a5ddb88c9fa460b215.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C_az_8gL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lb98k78epqev094489sr.png)
 
 ```
  •    Once the plugin is installed that might take around less than a minute, you will be prompted to “Activate” the plugin. 
@@ -112,7 +112,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/0e82976176994f67ee3386e8d13c2788.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o10KzQLV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xrrpnka4540grqgg7dr0.png)
+[![](img/0e82976176994f67ee3386e8d13c2788.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o10KzQLV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xrrpnka4540grqgg7dr0.png)
 
 **添加常见问题并呈现在第**页上
 
@@ -124,7 +124,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/d18c57830702f5c8ae96b6f1f6090c9a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CScUrOP5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mi2t9ll0til5of3kbxj3.png)
+[![](img/d18c57830702f5c8ae96b6f1f6090c9a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CScUrOP5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mi2t9ll0til5of3kbxj3.png)
 
 ```
  •    Once the category is created, you can click “Add New”, type in the question, answer and category before you publish the question. Each question can come under multiple categories. 
@@ -132,7 +132,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/275298b26fc41749ab3e2c842cbd135b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BGVyjzuR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n9y29dagdlm1j0v8gxdb.png)
+[![](img/275298b26fc41749ab3e2c842cbd135b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BGVyjzuR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n9y29dagdlm1j0v8gxdb.png)
 
 ```
  •    WpWorx plugin brings with it the power of customization and SEO. 
@@ -140,7 +140,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/54945df6a7d32957e3d69c37168d4f1d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zQCR7fh_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8uo4xeol94pmk9l4r849.png)
+[![](img/54945df6a7d32957e3d69c37168d4f1d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zQCR7fh_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8uo4xeol94pmk9l4r849.png)
 
 它允许您添加标题和标题(H1 和 H2)到每个常见问题，使其搜索引擎优化丰富。就在这个页面上，您可以选择 FAQ 演示的折叠或切换样式。样式选项是高级定制选项，允许您添加自定义 CSS，选择图标颜色，图标背景颜色，问题颜色，问题背景，问题悬停颜色和类似的答案。
 

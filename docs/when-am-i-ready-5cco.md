@@ -20,7 +20,7 @@
 
 一旦你开始写应用程序，你就不会停止学习，就像你完成一项任务一样。这是一个持续的、有节奏的过程:你做直到你做不到，然后你为了做得更多而学习。你做的越多，这个循环就越熟悉。
 
-[![Screenshot from an early version of my app](../Images/e6b58a530f8f3b4381e8d442237a657c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yw6JXojA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.appsdissected.com/wp-content/uploads/2018/11/screenshot_5-200x300.png) 让我们照亮房间里的大象:**你会犯错误。你会写出糟糕的代码，你会做出丑陋的界面，你会做出错误的选择。**从现在开始，你会回顾你的应用程序，然后大笑。上面的图片是我写的一个追踪保龄球分数的早期版本的旧截图。现在看来，这是值得畏缩的，但这是建造粗糙的东西，学习更好的方法，然后改正错误的循环的一部分。所以通常情况下，如果一开始不犯错误，你就无法找到正确的做事方法。
+[![Screenshot from an early version of my app](img/e6b58a530f8f3b4381e8d442237a657c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yw6JXojA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.appsdissected.com/wp-content/uploads/2018/11/screenshot_5-200x300.png) 让我们照亮房间里的大象:**你会犯错误。你会写出糟糕的代码，你会做出丑陋的界面，你会做出错误的选择。**从现在开始，你会回顾你的应用程序，然后大笑。上面的图片是我写的一个追踪保龄球分数的早期版本的旧截图。现在看来，这是值得畏缩的，但这是建造粗糙的东西，学习更好的方法，然后改正错误的循环的一部分。所以通常情况下，如果一开始不犯错误，你就无法找到正确的做事方法。
 
 如果你在学习中已经足够成熟，可以问自己是否准备好了，那么你已经有了被压抑的动力和“足够”的知识来完成你的第一个应用程序。开始吧。
 

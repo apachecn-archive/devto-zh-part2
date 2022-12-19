@@ -100,7 +100,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我删除了`if`条件并运行脚本，今天的输出如下所示
 
-[![dev.to certificate expiry reminder](../Images/819259c02977e3be9285a38302d43d76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--em7Pde0M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/cu860TW.png)
+[![dev.to certificate expiry reminder](img/819259c02977e3be9285a38302d43d76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--em7Pde0M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/cu860TW.png)
 
 现在你需要做的就是将它添加到你的 crontab 中，当你的证书即将更新时，它会不断提醒你。
 

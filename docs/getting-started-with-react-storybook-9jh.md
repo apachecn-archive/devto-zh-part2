@@ -38,7 +38,7 @@ Enter fullscreen mode Exit fullscreen mode
 *   导航到`http://localhost:6006`(或者任何故事书在`storybook` npm 脚本中给你的端口。
 *   嘣！你在童话世界里。去拍拍自己的背。
 
-[![Screenshot of Storybook in action](../Images/775100639bf171f97593275be64265cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YE6_iwqF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7a9brlemrfxvrizy8ipu.gif)
+[![Screenshot of Storybook in action](img/775100639bf171f97593275be64265cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YE6_iwqF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7a9brlemrfxvrizy8ipu.gif)
 
 *   另一个脚本`build-storybook`，如果运行，将会生成一个静态故事书站点，您可以将它部署到您喜欢的任何地方。默认情况下，它会被生成到一个名为`storybook-static`的文件夹中。
 

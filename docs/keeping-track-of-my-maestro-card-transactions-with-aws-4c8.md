@@ -18,7 +18,7 @@
 
 我想，如果能收到每日通知，告知我当月的支出和余额，那会很酷。显然，如果银行有公开/免费使用的 API，实现这样的事情可能是一个容易的项目。或者是否有可能以编程方式登录(也称为无头浏览)，由于需要双因素身份验证，这无论如何都是行不通的。幸运的是，瑞银提供电子邮件/短信/推送通知。
 
-[![alt text](../Images/4eeab2b475e66d6e17289e181965e96b.png "UBS Push Notification")](https://res.cloudinary.com/practicaldev/image/fetch/s--ht38UuRk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qqxod4sk27t78c58q3le.png) 
+[![alt text](img/4eeab2b475e66d6e17289e181965e96b.png "UBS Push Notification")](https://res.cloudinary.com/practicaldev/image/fetch/s--ht38UuRk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qqxod4sk27t78c58q3le.png) 
 *来源:ubs.com*
 
 这是我可以储存起来供将来分析的那种数据。问题是如何和在哪里？因此，这篇文章的目的有两个:1)在我的银行中启用电子邮件通知 2)解析数据并将其存储在某种数据库中。
@@ -37,7 +37,7 @@ AWS 中有大量的[服务可用，将来我可能会添加更多的组件，但
 
 逻辑流程非常简单:
 
-[![alt text](../Images/5e8636449cd336569448199ea478ac03.png "AWS Workflow")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XSvWRND7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b8g1yb8b9vsexv8w7lab.png)
+[![alt text](img/5e8636449cd336569448199ea478ac03.png "AWS Workflow")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XSvWRND7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b8g1yb8b9vsexv8w7lab.png)
 
 1.  收到银行(SES)的通知
 2.  将其传递给主题订阅者(SNS)
@@ -170,7 +170,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 表中的每个事务都由一个惟一的 id 标识，这个 ID 是由 *uuid* 库生成的。
 
-[![alt text](../Images/ba082cfa6073fa466b01705a93806d04.png "Transactions Table")](https://res.cloudinary.com/practicaldev/image/fetch/s--eU1GsWrF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ate5hul3xem0giwgqu5d.png) 
+[![alt text](img/ba082cfa6073fa466b01705a93806d04.png "Transactions Table")](https://res.cloudinary.com/practicaldev/image/fetch/s--eU1GsWrF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ate5hul3xem0giwgqu5d.png) 
 *注:由于显而易见的原因，数字并非真实*
 
 ### 预算更新
@@ -328,18 +328,18 @@ Enter fullscreen mode Exit fullscreen mode
 
 最终的更新如下所示:
 
-[![alt text](../Images/af13a8dd2410f472cde9735572baabcf.png "Summary Table")](https://res.cloudinary.com/practicaldev/image/fetch/s--9fcCBrjx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ql8dh4n3460cn5fasifa.png) 
+[![alt text](img/af13a8dd2410f472cde9735572baabcf.png "Summary Table")](https://res.cloudinary.com/practicaldev/image/fetch/s--9fcCBrjx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ql8dh4n3460cn5fasifa.png) 
 *注:由于显而易见的原因，数字并非真实*
 
 ### 总计通知
 
 设置的最后一部分是获取每日报告，通知流程同样非常简单:
 
-[![alt text](../Images/50c66c8e1a70068fac8b9066d0cfa9a1.png "AWS Workflow")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LjoF8b_J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d6qmoce9qbo7g9j53rqh.png)
+[![alt text](img/50c66c8e1a70068fac8b9066d0cfa9a1.png "AWS Workflow")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LjoF8b_J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d6qmoce9qbo7g9j53rqh.png)
 
 我配置了 *CloudWatch 定时器*在每天 19:00 GMT 触发 *dailyNotify* Lambda 功能。
 
-[![alt text](../Images/2a8de2316be88473e7dcfcb950f6e4ad.png "DailyBankingNotification")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E2tdqvZY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ibyd81akjynmsr0bhwyu.png)
+[![alt text](img/2a8de2316be88473e7dcfcb950f6e4ad.png "DailyBankingNotification")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E2tdqvZY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ibyd81akjynmsr0bhwyu.png)
 
 *load* 函数从 DynamoDB 表中检索数据，而 *make_html* 函数返回 html 代码。
 
@@ -504,7 +504,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 暂时就这样吧！交易发生后，会处理收到的消息，更新总数，并在一天结束时发送一份报告。
 
-[![alt text](../Images/6b45c24c0e3563810fa6d19a23282882.png "Daily Email Report")](https://res.cloudinary.com/practicaldev/image/fetch/s--dfWp2LKr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4qhdn5jyibf0lvqxpk2f.png) 
+[![alt text](img/6b45c24c0e3563810fa6d19a23282882.png "Daily Email Report")](https://res.cloudinary.com/practicaldev/image/fetch/s--dfWp2LKr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4qhdn5jyibf0lvqxpk2f.png) 
 *注:由于显而易见的原因，数字并非真实*
 
 我有更多的计划来扩展功能，如包括商家信息和每个成本类别的支出。使用 D3.js 或类似的制作一些视觉效果也很棒，但是我会为此写一篇新的帖子。

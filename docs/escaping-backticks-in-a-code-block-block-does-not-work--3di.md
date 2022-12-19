@@ -15,7 +15,7 @@
 
 完成后的样子可以在下面看到
 
-[![alt](../Images/d83e839954955d0270e37bf049d7a8c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hlLqeC-4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4g0myzzf0rzg04vspd32.png)
+[![alt](img/d83e839954955d0270e37bf049d7a8c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hlLqeC-4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4g0myzzf0rzg04vspd32.png)
 
 * * *
 

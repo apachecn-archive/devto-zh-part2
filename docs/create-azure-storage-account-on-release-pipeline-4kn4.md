@@ -14,11 +14,11 @@ Azure 是一个越来越受欢迎的云平台。在 Azure DevOps 上配置 CI/CD
 
 一个 [Azure 存储帐户](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview)包含所有的 Azure 存储数据对象:blobs、文件、队列、表和磁盘。表存储是 Azure cloud 上可用的基本 NoSQL 数据库。用于存储非关系数据的简单文档数据库。我现在将集中讨论这个问题。
 
-若要安装此扩展，您需要 Azure DevOps 门户上的组织。你可以从这里的开始[。在此门户上，您必须拥有安装扩展的权限。然后在](https://azure.microsoft.com/en-us/services/devops/?nav=min)导航[，或者在如下的发布管道窗口中搜索`manage storage account release tools`:](https://marketplace.visualstudio.com/items?itemName=meanin.storage-account-managment) [![img](../Images/2331e778c822ca1975a5a253688e488d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FAK2BVNP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/meanin/dev-to-articles/master/img/2018-10-08-create-azure-storage-account-on-release-pipeline/add-tasks.png)
+若要安装此扩展，您需要 Azure DevOps 门户上的组织。你可以从这里的开始[。在此门户上，您必须拥有安装扩展的权限。然后在](https://azure.microsoft.com/en-us/services/devops/?nav=min)导航[，或者在如下的发布管道窗口中搜索`manage storage account release tools`:](https://marketplace.visualstudio.com/items?itemName=meanin.storage-account-managment) [![img](img/2331e778c822ca1975a5a253688e488d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FAK2BVNP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/meanin/dev-to-articles/master/img/2018-10-08-create-azure-storage-account-on-release-pipeline/add-tasks.png)
 
 # 配置任务
 
-[![img1](../Images/c90e010a2c9098231899b57d8df3117d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HFQNHPLw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/meanin/vsts-tasks/master/screenshots/createstorageaccount.png)
+[![img1](img/c90e010a2c9098231899b57d8df3117d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HFQNHPLw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/meanin/vsts-tasks/master/screenshots/createstorageaccount.png)
 
 要使用此任务，您必须拥有一个配置了服务主体的[Azure 资源管理器连接。设置新的存储帐户名称(这是必需的，但如果存储帐户存在，它不会破坏任何东西)。为您的存储帐户设置位置，您可以将其保留为默认值，然后它将从资源组位置继承。最后需要做的是设置](https://docs.microsoft.com/en-us/azure/devops/pipelines/library/service-endpoints?view=vsts#sep-azure-rm) [Sku](https://docs.microsoft.com/en-us/rest/api/storagerp/skus/list) (性能层)。如果您愿意，可以通过设置名称在表存储中创建一个表。
 

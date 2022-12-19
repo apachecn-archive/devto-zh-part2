@@ -8,4 +8,4 @@
 
 [读下去📠🗣💻](https://auth0.com/blog/using-m2m-authorization?utm_source=twitter&utm_medium=sc&utm_campaign=m2m_auth)
 
-[![Using Machine to Machine (M2M) Authorization](../Images/25da281073ed10bf86dee0bdabde7793.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3Oe20kVr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xjkk9suzp3bymfx6j4cq.png)
+[![Using Machine to Machine (M2M) Authorization](img/25da281073ed10bf86dee0bdabde7793.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3Oe20kVr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xjkk9suzp3bymfx6j4cq.png)

@@ -99,7 +99,7 @@ Use *** or - - - for horizontal rule
 
 `:+1:`👍
 
-[![emoji](../Images/526d211381b0ad4d548975a0c6024a14.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gCtNTISe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x4ndj3k5qj6wxh56yrpy.png)
+[![emoji](img/526d211381b0ad4d548975a0c6024a14.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gCtNTISe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x4ndj3k5qj6wxh56yrpy.png)
 
 ### 链接和图像
 
@@ -123,7 +123,7 @@ Syntanx `![Cat Image](catURI)`或`![Dog Image][huskyDogID]`
 
 [开发网站的参考链接](//dev.to)
 
-[![image](../Images/f98db036c4bc992c13bbde513d7d67f2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0EPnwFF---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/fullstop360.com/blog/wp-content/uploads/2017/05/design-quotes-for-inspiration-2.jpg)T3】
+[![image](img/f98db036c4bc992c13bbde513d7d67f2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0EPnwFF---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/fullstop360.com/blog/wp-content/uploads/2017/05/design-quotes-for-inspiration-2.jpg)T3】
 
 ```
 Footnote References[^1]: 

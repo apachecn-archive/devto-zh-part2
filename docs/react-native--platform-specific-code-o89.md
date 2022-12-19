@@ -4,11 +4,11 @@
 
 有了 React Native，我们正在为 iOS 和 Android 编写代码。很快就会注意到我们需要彼此不同。
 
-[![](../Images/7c6fd336b9d4ef03703f31957ac2bfac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EVZwx5mZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/353/1%2A27A-seCkORB2P4QyEWIZUQ.png)
+[![](img/7c6fd336b9d4ef03703f31957ac2bfac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EVZwx5mZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/353/1%2A27A-seCkORB2P4QyEWIZUQ.png)
 
-[![](../Images/5fad6bb81e89330917fff5b68e8e311f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8p_J-3KU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/405/1%2Azsngww4SLJp5W5CcwD2xvg.png)
+[![](img/5fad6bb81e89330917fff5b68e8e311f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8p_J-3KU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/405/1%2Azsngww4SLJp5W5CcwD2xvg.png)
 
-[![](../Images/968c0236644ff44d4bb2da3d7da9e38b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WQdA1-cn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/274/1%2Aq6svgsA7XjoEX1t2zUw-BQ.png) 
+[![](img/968c0236644ff44d4bb2da3d7da9e38b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WQdA1-cn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/274/1%2Aq6svgsA7XjoEX1t2zUw-BQ.png) 
 
 <figcaption>右:安卓模拟器 Nexus 5 API 23 1080 x 1920:xxhdpi x86 _ 64</figcaption>
 
@@ -48,7 +48,7 @@ const styles = StyleSheet.create({
 
 运行这些代码的结果是:
 
-[![](../Images/908a524c1f524f22d15e936d28be0097.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NdDVzuSn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/558/1%2AF4oppM9YhvpThAadRb9LDQ.png) 
+[![](img/908a524c1f524f22d15e936d28be0097.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NdDVzuSn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/558/1%2AF4oppM9YhvpThAadRb9LDQ.png) 
 
 <figcaption>页眉样式应用后</figcaption>
 
@@ -169,23 +169,23 @@ export const Body = Platform.select({
 
 结果是:
 
-[![](../Images/b29e097859bfd42a4957cb19c4061e76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hA8qlbRo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/510/1%2A-jQkLNSm62SMjnpSB_zOQg.png)
+[![](img/b29e097859bfd42a4957cb19c4061e76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hA8qlbRo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/510/1%2A-jQkLNSm62SMjnpSB_zOQg.png)
 
 虽然看起来不错，但我不认为这是最好的解决办法。有一种叫做 ***的平台专用扩展*** 我比较喜欢。因此，在 iOS 的情况下，我们希望有`.ios.`扩展，而对于 Android，我们将有`.android.`。这将有助于 React Native 确定哪个平台使用哪个组件。
 
 让我们用一个例子来说明这一点。
 
-[![](../Images/902c97c096ab24491b053ab81ec6eaa9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qMLYM2F7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/353/1%2AbNqv2IwY33y28DWwCw_WlQ.png)
+[![](img/902c97c096ab24491b053ab81ec6eaa9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qMLYM2F7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/353/1%2AbNqv2IwY33y28DWwCw_WlQ.png)
 
-[![](../Images/a7d3665e4e1a345e6c1602d0aa0a915e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IimrKAv4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/660/1%2A0D5GGp57xaqUKxfZTbgRPg.png)
+[![](img/a7d3665e4e1a345e6c1602d0aa0a915e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IimrKAv4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/660/1%2A0D5GGp57xaqUKxfZTbgRPg.png)
 
-[![](../Images/1f3fe27b487c09d261e7998182881ec5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SPr4nBkt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/274/1%2AvOY86XGPoRv2OveCzL3MjQ.png)
+[![](img/1f3fe27b487c09d261e7998182881ec5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SPr4nBkt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/274/1%2AvOY86XGPoRv2OveCzL3MjQ.png)
 
 我们的*页脚*的代码与我们的*页眉*非常相似，因此，我不会在这里粘贴它。对我们来说重要的是这条简单的线`import { Footer } from './src/components/Footer';`。正如我们可以注意到的，在组件目录中，我们没有页脚文件，但是有右边的 *Footer.ios* 和 *Footer.android* 。React Native 足够智能，可以根据我们构建应用的平台来决定使用哪一个。
 
 我们已经看到了如何使用特定于*平台的*扩展和*平台来添加我们的组件。这就是*平台模块*所能做的一切吗？哦，不。还有一件事，你可能已经猜到了。正在检测 Android/iOS 的版本。因此，让我们修改我们的正文消息，向它附加版本号。*
 
-[![](../Images/07a608220afaa1a5b8447253ed8bee84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NCIXdySv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/528/1%2AJ-WyBmyljd0UgkcHo7UEvQ.png)
+[![](img/07a608220afaa1a5b8447253ed8bee84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NCIXdySv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/528/1%2AJ-WyBmyljd0UgkcHo7UEvQ.png)
 
 显示*平台*版本就像调用**平台*一样简单。版本*** 。嗯……有一个条件。Android 以整数的形式返回版本，而 iOS 就不那么友好了，它会以字符串的形式返回版本。如果我们需要比较它，将它转换成整数应该不难(如果我们需要版本号，这是最有可能的情况)。如果我们只是想展示它，我们可以放心地使用我们得到的东西。
 

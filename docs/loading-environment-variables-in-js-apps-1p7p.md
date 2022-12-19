@@ -6,7 +6,7 @@
 
 API 和第三方集成要求开发人员使用名为**环境的配置数据或配置变量**。这些变量通常存储在密码保护的地方，如 CI 工具或部署管道，但是当我们在本地开发应用程序时，我们如何使用它们呢？
 
-[![](../Images/923d5e008779d67209be558e19c20b56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5ng7r_Zd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AiTLvajtJ6tN3DnHArGKkDA.png)
+[![](img/923d5e008779d67209be558e19c20b56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5ng7r_Zd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AiTLvajtJ6tN3DnHArGKkDA.png)
 
 #### TL；博士:
 

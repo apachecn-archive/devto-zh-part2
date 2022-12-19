@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/feezyhendrix/ionic-tips-you-might-need-in-your-native-applications-5fen>
 
-<figure>[![](../Images/da6abd57c11a19c81f90b5ea6e378330.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DiCIeB33--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/750/0%2A6yZvOqBADoY_AjzO.png) 
+<figure>[![](img/da6abd57c11a19c81f90b5ea6e378330.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DiCIeB33--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/750/0%2A6yZvOqBADoY_AjzO.png) 
 
 <figcaption>谷歌图片</figcaption>
 

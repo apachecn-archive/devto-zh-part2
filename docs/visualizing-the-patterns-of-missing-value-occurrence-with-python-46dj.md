@@ -8,7 +8,7 @@
 
 我已经在我的 GitHub repo 中上传了[一个 Jupyter 笔记本。您可以点击下面的徽章，使用活页夹运行它。](https://github.com/TomoyukiAota/visualization_of_missing_value_location)
 
-[![Binder](../Images/c1523f145a839bacbec32e0e8bd1b7e5.png)T2】](https://mybinder.org/v2/gh/TomoyukiAota/visualization_of_missing_value_location/master)
+[![Binder](img/c1523f145a839bacbec32e0e8bd1b7e5.png)T2】](https://mybinder.org/v2/gh/TomoyukiAota/visualization_of_missing_value_location/master)
 
 # 先决条件
 
@@ -67,7 +67,7 @@ sns.heatmap(df.isnull(), cbar=False)
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![seaborn_heatmap.png](../Images/890f3fdf069a5efd855313b360ea6b29.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a6RI0m_q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/blloy3vrfai3uxf3wf07.png)
+[![seaborn_heatmap.png](img/890f3fdf069a5efd855313b360ea6b29.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a6RI0m_q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/blloy3vrfai3uxf3wf07.png)
 
 根据索引，我可以看到
 
@@ -104,7 +104,7 @@ msno.matrix(df)
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![missingno_matrix](../Images/6a2f75c10d9beeba773172b606ad7cb2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6na7c-NM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/srdhfazzaqw5ymos7sfh.png)
+[![missingno_matrix](img/6a2f75c10d9beeba773172b606ad7cb2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6na7c-NM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/srdhfazzaqw5ymos7sfh.png)
 
 除了热图之外，该图的右侧还有一个条形。这是每行数据完整性的线图。在该数据集中，所有行都有 10 - 12 个有效值，因此有 0 - 2 个缺失值。
 
@@ -116,7 +116,7 @@ msno.heatmap(df)
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![missingno_heatmap](../Images/c2ec9b821316e192bfbae1f3110ff9d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7TMeem8t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4chhgdutjimuyjzwfcbx.png)
+[![missingno_heatmap](img/c2ec9b821316e192bfbae1f3110ff9d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7TMeem8t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4chhgdutjimuyjzwfcbx.png)
 
 `missingno`模块有更多的功能，比如每列缺失值个数的柱状图，缺失值位置关联生成的树状图。要了解更多信息， [README](https://github.com/ResidentMario/missingno) 是一本不错的入门书。
 

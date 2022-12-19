@@ -4,7 +4,7 @@
 
 中本聪介绍对等电子货币系统概念的论文至今已近 10 年，你还不知道比特币是什么，更不用说 Blockchain 了。那我们走吧，因为我们还有时间进入浪尖！
 
-[![In Blockchain we trust!](../Images/4bef687838ca45c91fc3bf94792bd2a3.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--0J4qPOdE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AJqgiftyvFtTFVAao.jpg) *我们信任的区块链！*
+[![In Blockchain we trust!](img/4bef687838ca45c91fc3bf94792bd2a3.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--0J4qPOdE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AJqgiftyvFtTFVAao.jpg) *我们信任的区块链！*
 
 对于 5 岁的孩子来说，有一些文字来解释这个概念，但是在我们生活的这个时代，这些孩子天生就知道，所以不要在阅读这样的文字时感到气馁，你一定能看到这个概念，然后去更技术性的部分。下面是我一直使用的一个例子，我非常喜欢它:
 
@@ -12,7 +12,7 @@
 
 我们坐在伊比利亚公园的一个长椅上。天气真好。我带了一个苹果给你。
 
-[![](../Images/0e79baa510288eea723d6c4b36cc2b1a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kbWz8baK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2Ads2ohSBurU8x40Ss.jpg)
+[![](img/0e79baa510288eea723d6c4b36cc2b1a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kbWz8baK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2Ads2ohSBurU8x40Ss.jpg)
 
 你现在有一个苹果，我有零。很简单，对吧？
 

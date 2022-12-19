@@ -10,7 +10,7 @@
 
 有时候和 [Docker](https://www.docker.com/) 一起工作让我感觉像是在和一个黑盒一起工作，尤其是在玩来自社区的 [Docker](https://www.docker.com/) 图片的时候，它并没有按照预期的方式进行。在许多情况下，读取日志会占用调试的很大一部分时间。
 
-[![](../Images/c7a954d7fc7d8c2bdca973726a398a16.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0NTA-1ye--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iwf9nqcvpp6bp8e4av5x.jpg)
+[![](img/c7a954d7fc7d8c2bdca973726a398a16.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0NTA-1ye--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iwf9nqcvpp6bp8e4av5x.jpg)
 
 这篇文章是关于为 [Docker](https://www.docker.com/) 容器设置日志轮换的。
 
@@ -18,7 +18,7 @@
 
 我们可以为容器配置不同的日志驱动程序，默认情况下，容器的 **stdout** 和 **stderr** 被写入位于 */var/lib/docker/containers/【容器标识】/【容器标识】-json.log* 的 json 文件中。如果您让它无人看管，它可能会占用大量的磁盘空间，如下所示。
 
-[![A large log file in json format](../Images/a2c389ab594b07b339050d9166e477a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5vV0Aro0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ewyzkc6d6pjiorzwaszz.jpg)
+[![A large log file in json format](img/a2c389ab594b07b339050d9166e477a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5vV0Aro0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ewyzkc6d6pjiorzwaszz.jpg)
 
 ### 手动清除日志
 
@@ -96,7 +96,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 验证设置是否正常工作。
 
-[![The logs are broken down into 1k files](../Images/09779e6ae8b7e34f31b48fcc33ed0581.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bE2wId7I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8rmiccbwvjvkn6a0rvh3.jpg)
+[![The logs are broken down into 1k files](img/09779e6ae8b7e34f31b48fcc33ed0581.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bE2wId7I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8rmiccbwvjvkn6a0rvh3.jpg)
 
 ## 总结
 
@@ -104,7 +104,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果你正在寻找一个**日志管理 SAAS 解决方案**，考虑使用[水手长](https://boatswain.io/)，我们会帮助你管理所有的日志以及监控你的 [Docker](https://www.docker.com/) 服务器。💫
 
-[![Insufficient facts always invite danger](../Images/1f44622856f03aaaf0489fe420fc32b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lVE4ZvxZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bq2s1t4uivetgtremwxg.jpg)
+[![Insufficient facts always invite danger](img/1f44622856f03aaaf0489fe420fc32b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lVE4ZvxZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bq2s1t4uivetgtremwxg.jpg)
 
 > 事实不足总是招致危险。
 > -斯波克@星际迷航

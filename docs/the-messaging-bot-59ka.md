@@ -19,7 +19,7 @@ Twilio 是一个 API，它可以用来将你的应用程序与一个可以拨打
 炒作是合理的。API 非常用户友好，文档非常清晰，他们甚至有一个游戏来帮助你入门(试试吧: [TwilioQuest](https://www.twilio.com/) )。
 
 我写了一篇关于在我的应用程序中添加短信和语音功能的技术部分的博文(你可以在 Twilio 的博客[这里](https://www.twilio.com/blog/2018/04/sms-notifications-ruby-on-rails.html)阅读)。这篇文章将集中在应用程序的用户方面。
-T3![](../Images/1009544c4ca43862a25c2f09d3f51d46.png)T5】
+T3![](img/1009544c4ca43862a25c2f09d3f51d46.png)T5】
 
 #### 它是如何工作的？
 
@@ -41,9 +41,9 @@ T3![](../Images/1009544c4ca43862a25c2f09d3f51d46.png)T5】
 
 如果我认为我的 Twitter 机器人是成功的，我的短信应用程序让我完全没有准备。一天之内，我有了 60 多个粉丝，一周之内，我就有了 100 个粉丝(在我写这篇文章的时候是 140 个)。
 
-> ![Yechiel K profile image](../Images/ad254a2fe2368f04c84c6f106ab3eb20.png)ye chiel K[@ ye chiel K](https://dev.to/yechielk)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)OMG 我已经有 67 个订户了😱照这样下去，我的点数很快就会用完。
+> ![Yechiel K profile image](img/ad254a2fe2368f04c84c6f106ab3eb20.png)ye chiel K[@ ye chiel K](https://dev.to/yechielk)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)OMG 我已经有 67 个订户了😱照这样下去，我的点数很快就会用完。
 > 
-> 我没想到这一关...🤔[twitter.com/AlterSideBot/s…](https://t.co/xRWx0xH9s1)2018 年 3 月 13 日下午 14:15备用侧停车机器人 @AlterSideBot好消息！@AlterSideBot 提醒现在可以通过短信发送。文本订阅(347) 404-5618，以便在#NYCASP 规则暂停时接收文本消息。随时以文本状态获取#NYCASP 规则的最新状态。你可以随时退订。【T30[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=973563306614185984)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=973563306614185984)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=973563306614185984)
+> 我没想到这一关...🤔[twitter.com/AlterSideBot/s…](https://t.co/xRWx0xH9s1)2018 年 3 月 13 日下午 14:15备用侧停车机器人 @AlterSideBot好消息！@AlterSideBot 提醒现在可以通过短信发送。文本订阅(347) 404-5618，以便在#NYCASP 规则暂停时接收文本消息。随时以文本状态获取#NYCASP 规则的最新状态。你可以随时退订。【T30[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=973563306614185984)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=973563306614185984)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=973563306614185984)
 
 问题是，与我的 Twitter 机器人不同，这个应用程序可能会让我花钱。不是很多(向 150 个订阅者发送一次暴风雪的通知花费 2.10 美元)，但是它有可能增加。
 

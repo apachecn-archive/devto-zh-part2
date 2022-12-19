@@ -8,7 +8,7 @@
 
 ## 文章不再可用
 
-[![gonedark](../Images/8ac292f3c39b3c830c7a02e5403fff5e.png)](/gonedark) [## 你是童子军吗？
+[![gonedark](img/8ac292f3c39b3c830c7a02e5403fff5e.png)](/gonedark) [## 你是童子军吗？
 
 ### Jason mccrea ry 10 月 9 日 171 分钟阅读
 

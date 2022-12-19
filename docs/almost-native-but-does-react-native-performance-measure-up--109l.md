@@ -36,7 +36,7 @@ React Native 是一个 JavaScript 框架。如果你向你的开发者询问 Jav
 
 在他的 GPU 测试中，John 的 React 原生应用程序实现了与原生变体几乎相同的每秒帧数性能。这个测试的结果可以在下面的图表中看到。
 
-[![CPU Usage](../Images/cd395a7abf388da55d572d7e5e8ae6fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zPcuMB_w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2AVCrdvrBoterX_v25H9z3Pw.png)
+[![CPU Usage](img/cd395a7abf388da55d572d7e5e8ae6fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zPcuMB_w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2AVCrdvrBoterX_v25H9z3Pw.png)
 
 ## React 原生与 Java (Android)应用
 

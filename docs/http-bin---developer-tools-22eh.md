@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/briannipper/http-bin---developer-tools-22eh>
 
-[![](../Images/818e1debed48461b4bf682710087f197.png)T2】](https://3.bp.blogspot.com/-qdMd20WyI1c/W6mR3wXF1SI/AAAAAAAAHK8/5S2MHzcD9iEBGubIUv1jNKLAkrt8gKqMgCLcBGAs/s1600/10_in_1_screwdriver.jpg)
+[![](img/818e1debed48461b4bf682710087f197.png)T2】](https://3.bp.blogspot.com/-qdMd20WyI1c/W6mR3wXF1SI/AAAAAAAAHK8/5S2MHzcD9iEBGubIUv1jNKLAkrt8gKqMgCLcBGAs/s1600/10_in_1_screwdriver.jpg)
 
 10 合 1 螺丝刀中我最喜欢的工具之一。吸引力在于，在一个工具中，只需翻转一些部件，你就能找到你想要的东西。在家里的许多小工作中，我可以用这个工具做任何需要的事情。
 

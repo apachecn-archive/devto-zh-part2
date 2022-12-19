@@ -26,7 +26,7 @@
 
 当我们有两个非事务性资源时，我们知道我们有许多整体模式来尝试协调这些动作(在我的[Refactoring to Resilience 系列](https://jimmybogard.com/refactoring-towards-resilience-a-primer/)中有所涉及):
 
-[![](../Images/9ddae7d7d7dde6933c49b19782f49f61.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jeCxjglZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jimmybogardsblog.blob.core.windows.net/jimmybogardsblog/0/2017/Picture2.png)
+[![](img/9ddae7d7d7dde6933c49b19782f49f61.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jeCxjglZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jimmybogardsblog.blob.core.windows.net/jimmybogardsblog/0/2017/Picture2.png)
 
 所有这些选项都假设“我必须让这两个动作暂时耦合”并让它们同时发生。
 
@@ -34,11 +34,11 @@
 
 这也是 Pat Helland 的论文《交易之外的生活:一个叛教者的观点》的主要内容。在本文中，Pat 描述了一种机制，用于解决当我们的事务只涉及单个实体——消息传递——时，在资源之间协调动作的基本问题。
 
-[![](../Images/598f6a4aca9b4959715113bc0643aedb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--57LuYBjo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jimmybogardsblog.blob.core.windows.net/jimmybogardsblog/7/2018/helland7.png)
+[![](img/598f6a4aca9b4959715113bc0643aedb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--57LuYBjo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jimmybogardsblog.blob.core.windows.net/jimmybogardsblog/7/2018/helland7.png)
 
 我们使用某种消息传递方式，将我们的消息保存在实体内*,以便发送给其他实体:*
 
-[![](../Images/b75981f9bb097acbf6d15b83b4ab7f59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x-VNYYkn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jimmybogardsblog.blob.core.windows.net/jimmybogardsblog/7/2018/helland5.png)
+[![](img/b75981f9bb097acbf6d15b83b4ab7f59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x-VNYYkn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jimmybogardsblog.blob.core.windows.net/jimmybogardsblog/7/2018/helland5.png)
 
 由于事务的范围是单个实体，如果我们需要影响其他实体，我们不能直接这样做。相反，我们将影响变化的意图作为信息存储在我们的实体中。该事务涵盖了我们的业务数据、*和*对外通信。
 

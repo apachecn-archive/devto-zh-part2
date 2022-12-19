@@ -6,7 +6,7 @@
 
 当我成为维护者时，我对项目中缺少测试感到惊讶。有几个组件具有复杂的逻辑，但在任何地方都找不到测试。作为一名开发人员，我学到的最重要的事情之一是，测试是编写可靠、易于重构的代码的最简单的方法。老维护者只是懒惰吗？他仅仅是不关心他的代码的质量吗？不，恰恰相反，他很在乎。
 
-[![Saka used to switch between tabs](../Images/ecb8660ca9afea5b078f8890d3e3d1ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5j7qp_oB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uuripy5nf6vyxfoonwna.gif)
+[![Saka used to switch between tabs](img/ecb8660ca9afea5b078f8890d3e3d1ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5j7qp_oB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uuripy5nf6vyxfoonwna.gif)
 
 问题是缺少关于这个主题的文档意味着几乎没有人能够测试它们的扩展。我对自己在不破坏代码的情况下做出改变的能力没有信心，这是一个大问题。但是在尝试了十几种不同的方法后，我最终找到了一个解决方案。
 
@@ -26,7 +26,7 @@
 
 为了使用这个解决方案，您的项目应该使用 Webpack。该示例使用版本 4，但这可能仍然适用于旧版本。虽然我没有尝试过，但在进行一些配置以确保所有东西都被正确捆绑后，应该可以用 Gulp 实现这一点。你可以在这里找到一个示例 webpack 配置[。](https://github.com/pureooze/extension-testing-example/blob/37e5a82cc436fc8256110600255145ad347340f1/webpack.config.js)
 
-[![Karma, Jasmine and Chrome logos](../Images/4169923342084753bb125dd6380c7478.png "Karma, Jasmine and Chrome")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QiVhn0O2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/95124nbr9e5k8vmuvwj8.png)
+[![Karma, Jasmine and Chrome logos](img/4169923342084753bb125dd6380c7478.png "Karma, Jasmine and Chrome")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QiVhn0O2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/95124nbr9e5k8vmuvwj8.png)
 
 ### 因果报应+茉莉
 
@@ -58,7 +58,7 @@
 
 为了运行测试，可以直接调用 karma 可执行文件，将配置文件的路径作为参数传入。虽然这可行，但更好的解决方案是将该命令添加到 package.json 文件[中的 npm 脚本中，就像这样](https://github.com/pureooze/extension-testing-example/blob/4f047127a0735c5d97f3b4c6f2b46b063de61d55/package.json#L7)。你现在应该能够运行纱线测试，并看到来自 Karma 的输出，如下所示。
 
-[![Screenshot of result after the tests ran](../Images/df08e78b9978a38e2f6eed39a56b0ec9.png "Screenshot of result after the tests ran")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lPonWH7s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ej9aoz0sbledxm5ro8e5.png)
+[![Screenshot of result after the tests ran](img/df08e78b9978a38e2f6eed39a56b0ec9.png "Screenshot of result after the tests ran")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lPonWH7s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ej9aoz0sbledxm5ro8e5.png)
 
 ### 用 WebExtension APIs 进行测试
 
@@ -73,7 +73,7 @@
 在测试目录中创建一个名为 popup.test.js 的新文件，以存储您刚刚创建的 popup.js 文件的所有测试。将下面的代码添加到测试文件中，注意浏览器 API 是如何被 sinon-chrome 模仿的。对于每一个使用 WebExtension APIs 的测试，您必须指定当 Jasmine 遇到它时每个 API 应该返回什么，从而允许您绕过没有定义 API 的问题。
 
 运行纱线测试，您应该会看到以下测试结果:
-[![Screenshot of successful test run with sinon-chrome ran](../Images/f6413b51ea87058821144525d5942581.png "Screenshot of successful test run with sinon-chrome")](https://res.cloudinary.com/practicaldev/image/fetch/s--euIG8pga--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kzwn4tdhtmhmgsb1ww16.png)
+[![Screenshot of successful test run with sinon-chrome ran](img/f6413b51ea87058821144525d5942581.png "Screenshot of successful test run with sinon-chrome")](https://res.cloudinary.com/practicaldev/image/fetch/s--euIG8pga--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kzwn4tdhtmhmgsb1ww16.png)
 
 你可以自由地测试你的 chrome 扩展，而不必担心扩展 API。
 

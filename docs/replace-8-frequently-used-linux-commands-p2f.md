@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kevcui/replace-8-frequently-used-linux-commands-p2f>
 
-[![coverimage](../Images/89689d101738dfea044ef40b0fa0a77c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qaY5Vx-c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AhcY3Bk8YY_1keCJW_b70Vw.jpeg)
+[![coverimage](img/89689d101738dfea044ef40b0fa0a77c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qaY5Vx-c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AhcY3Bk8YY_1keCJW_b70Vw.jpeg)
 
 差不多十年前，我开始接触命令行界面(CLI)。我现在是一个书呆子式的 CLI 爱好者，我被它的效率迷住了。因此，我总是尝试新的命令行命令。在我的日常工作流程中，有时一些命令会被其他改进的命令所取代。特别是对于一些经常使用的命令，找到更好的替代方法是值得的。
 
@@ -72,7 +72,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 [exa](https://github.com/ogham/exa) 的目标是成为`ls`的调制解调器替代品。在我看来，它做到了。exa 真的很好用。它的选择很简单:
 
-[![exa-example](../Images/17ff7a03b988492d315472af328ea946.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f2MELheO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kevcui.github.io/images/exa-example.jpg)
+[![exa-example](img/17ff7a03b988492d315472af328ea946.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f2MELheO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kevcui.github.img/exa-example.jpg)
 
 以下是我的化名:
 
@@ -89,7 +89,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 [bat](https://github.com/sharkdp/bat) 是一个`cat`克隆，具有语法高亮、行号和自动分页(使用`less`作为默认分页器)。使用`bat`显示文件的内容看起来像:
 
-[![bat-example](../Images/dd91636e38235faa1b3993e59252ebb6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e8cscuGf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kevcui.github.io/images/bat-example.jpg)
+[![bat-example](img/dd91636e38235faa1b3993e59252ebb6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e8cscuGf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kevcui.github.img/bat-example.jpg)
 
 可以自定义语法突出显示的主题。它支持崇高的文本语法格式。查看这些默认主题来获得一些灵感: [bat 主题](https://github.com/sharkdp/bat/tree/master/assets/themes)
 
@@ -99,9 +99,9 @@ Enter fullscreen mode Exit fullscreen mode
 
 `grep`对我来说的一个主要用途就是找出哪些文件包含了一些特定的内容。一个比较`grep`和`ripgrep`的例子:
 
-[![grep-example](../Images/5e4b0d29134ce72862b4b9af77d0abcc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ysEzlymt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kevcui.github.io/images/grep-example.jpg)
+[![grep-example](img/5e4b0d29134ce72862b4b9af77d0abcc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ysEzlymt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kevcui.github.img/grep-example.jpg)
 
-[![ripgrep-example](../Images/04f03c79eb1f189258a7d8d464a50c12.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_DP-zWiK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kevcui.github.io/images/ripgrep-example.jpg)
+[![ripgrep-example](img/04f03c79eb1f189258a7d8d464a50c12.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_DP-zWiK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kevcui.github.img/ripgrep-example.jpg)
 
 如果你对`rg`能有多快感兴趣？检查一下这个对比: [rg vs. grep vs. ag。不确定现在是否还是这样。但总的来说，ripgrep 对于我的日常使用已经足够快了。](https://github.com/BurntSushi/ripgrep#quick-examples-comparing-tools)
 
@@ -223,7 +223,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 tldr 是手册页的简化版。它返回了一些带有实际示例的命令片段:
 
-[![tldr-example](../Images/286195b39595d50c19c88c331c142371.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--isRN9N45--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kevcui.github.io/images/tldr-example.jpg)
+[![tldr-example](img/286195b39595d50c19c88c331c142371.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--isRN9N45--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kevcui.github.img/tldr-example.jpg)
 
 #### 宠物
 
@@ -239,7 +239,7 @@ how2 采用另一种方法来搜索正确的命令:它从 stackoverflow 查询�
 
 从现在开始，我们可以自信地“拯救世界”了！
 
-[![xkcd-tar](../Images/d74158fada86ecf3d39d314fcf33070c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C3uS6lmx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgs.xkcd.com/comics/tar.png)
+[![xkcd-tar](img/d74158fada86ecf3d39d314fcf33070c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C3uS6lmx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgs.xkcd.com/comics/tar.png)
 
 * * *
 

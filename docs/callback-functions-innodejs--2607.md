@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/martinnrdstrm/callback-functions-innodejs--2607>
 
-[![a lot of code!](../Images/650c7367bd7e07e80579d3cadf9e94de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DVJvseKb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/djcef43bckrb6yijykao.jpeg)
+[![a lot of code!](img/650c7367bd7e07e80579d3cadf9e94de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DVJvseKb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/djcef43bckrb6yijykao.jpeg)
 
 ### node . js 是什么？
 

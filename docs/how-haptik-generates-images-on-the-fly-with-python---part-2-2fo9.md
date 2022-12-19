@@ -12,7 +12,7 @@
 
 通过文本宽度，我们可以确定何时需要移动到下一行，通过文本高度，我们可以计算出两行之间应该留出多少空间:
 
-[![Multiline Text with Pillow](../Images/4227fa860821c408b1560b8114037a31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UtvXwZI0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gwm1pjbds9gmu6bvv7vp.png)
+[![Multiline Text with Pillow](img/4227fa860821c408b1560b8114037a31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UtvXwZI0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gwm1pjbds9gmu6bvv7vp.png)
 
 这个想法是将长句分成多个短句，并在正确的位置上一个接一个地画出每一个短句，从而使它看起来像一个多行文本。为了拆分一个较长的行，我们将使用 Pillow 函数来计算传递给它的文本的大小，作为参数之一。
 
@@ -103,7 +103,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 为绘制在**基线**下方的 **g、j、p、q、y** 和绘制在**中线**上方的 **b、d、f、h、k、l** 等字符找到正确的高度有点繁琐，因为高度不一。
 
-[![Typography](../Images/b862eff4a2b11260c00f85991770d452.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f41CDiLW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mnxe4qlkig4fom2m76mq.png)
+[![Typography](img/b862eff4a2b11260c00f85991770d452.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f41CDiLW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mnxe4qlkig4fom2m76mq.png)
 
 获得文本正确高度的最佳方法是简单地计算出**“Hg”的总高度。**这一招很管用，因为 **h** 和 **g** 覆盖了所有英文字符的高度范围。
 
@@ -144,7 +144,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这将输出如下图像:
 
-[![Multiline Output](../Images/8fbb8c7d08d3fda48419b0f87286bef4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U3qUo7eN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8w788euxu3pcw8arsfxq.png)
+[![Multiline Output](img/8fbb8c7d08d3fda48419b0f87286bef4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U3qUo7eN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8w788euxu3pcw8arsfxq.png)
 
 后一种图像中的文本看起来更好，可读性更强。在 [Haptik](https://haptik.ai) ，我们相信实验和找出解决问题的最佳方法。上面就是这样一个例子。在我的下一篇博文中，我将会写关于如何使用 Python 来居中**水平和垂直**对齐图像中的文本。
 

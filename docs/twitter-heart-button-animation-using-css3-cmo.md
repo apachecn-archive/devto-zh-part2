@@ -9,7 +9,7 @@
 
 [推特心形动画按钮](https://www.skptricks.com/2018/02/twitter-heart-button-animation-using-css3.html)
 
-[![](../Images/5ccc97ce2cb92c8a62ff1b7d6f95e928.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bHEwRAFU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://3.bp.blogspot.com/-J2gNNrDic2M/WnWPQnUEQcI/AAAAAAAABQU/mqqgkZicfnc8JzleY-zgjPj9xpNMW5a3ACLcBGAs/s400/ezgif.com-video-to-gif.gif)
+[![](img/5ccc97ce2cb92c8a62ff1b7d6f95e928.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bHEwRAFU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://3.bp.blogspot.com/-J2gNNrDic2M/WnWPQnUEQcI/AAAAAAAABQU/mqqgkZicfnc8JzleY-zgjPj9xpNMW5a3ACLcBGAs/s400/ezgif.com-video-to-gif.gif)
 
 我们已经尽力使这个教程非常简单，希望你会喜欢。当用户点击心形按钮时，CSS 的转换属性也有助于显示心形爆炸效果。不要浪费时间，让我们开始吧。
 

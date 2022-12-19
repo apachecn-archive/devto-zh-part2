@@ -4,7 +4,7 @@
 
 今天我在清理我的一个抽屉时，发现了这块旧宝石。
 
-[![Windows 95 CD-ROM](../Images/31c571b460103be07fa7d0be6890a0df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r67azjYZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.geekytidbits.com/media/windows-95.jpg)
+[![Windows 95 CD-ROM](img/31c571b460103be07fa7d0be6890a0df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r67azjYZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.geekytidbits.com/media/windows-95.jpg)
 
 那天是 1995 年 8 月 24 日星期四。我期待这一天已经好几个月了。微软的小册子、美国在线聊天室里的极客热以及与朋友的聊天让我迫不及待地想要得到一份 Windows 95。
 

@@ -4,7 +4,7 @@
 
 “Yasminoku”是一款完全用 DHTML (HTML、CSS 和 JavaScript)编写的开源数独游戏(游戏、生成器和求解器)。
 
-[![Screenshot](../Images/fe2051c5619bb84f3e0a0ea18f498d63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5_emoYVk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://dhtmlgames.com/yasminoku/yasminoku_new.jpg)
+[![Screenshot](img/fe2051c5619bb84f3e0a0ea18f498d63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5_emoYVk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://dhtmlgames.com/yasminoku/yasminoku_new.jpg)
 
 这是我的第五个 DHTML 游戏，制作于 2006 年中期。
 

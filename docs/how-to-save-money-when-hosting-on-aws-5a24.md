@@ -22,7 +22,7 @@
 
 要开始计划你需要削减什么，你需要看看你的账单。这是我的样子:
 
-[![AWS Charges](../Images/0305c99df5eb5f20b236fe3d06eb157f.png)T2】](///static/9997ab006d5dde7dcfd797519ee157ec/78363/aws-charges.png)
+[![AWS Charges](img/0305c99df5eb5f20b236fe3d06eb157f.png)T2】](///static/9997ab006d5dde7dcfd797519ee157ec/78363/aws-charges.png)
 
 如您所见，支出主要集中在 3 个领域:弹性计算云、关系数据库服务和增值税。
 

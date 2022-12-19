@@ -12,7 +12,7 @@
 
 我已经做了一个准系统的 php 脚本，让你可以玩这个，还有很多需要改进的地方，但是应该足够让你上传自己的图片了。请记住，如果您没有专业帐户，粘贴箱的大小限制是非常小的！
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)[agent d00n ut](https://github.com/agentd00nut)/[pasteStore](https://github.com/agentd00nut/pasteStore)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)[agent d00n ut](https://github.com/agentd00nut)/[pasteStore](https://github.com/agentd00nut/pasteStore)
 
 ### 要上传到 pastebin 的准系统 CLI php 脚本。
 
@@ -50,10 +50,10 @@
 
 我只试过 png 和 jpg 的。我相信几乎任何常见的图像格式都可以。
 [PNG](https://pastebin.com/raw/rSj0j82Q)
-[![PNG](../Images/6a675adebd45ec2357c6968a670461ac.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cMbtZfMD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pastebin.com/raw/rSj0j82Q)
+[![PNG](img/6a675adebd45ec2357c6968a670461ac.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cMbtZfMD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pastebin.com/raw/rSj0j82Q)
 
 [GIF](https://pastebin.com/raw/AHnbEk2a)
-T3![GIF](../Images/959b3cb082d004c66a2824e49de99e19.png)T5】
+T3![GIF](img/959b3cb082d004c66a2824e49de99e19.png)T5】
 
 [网页](https://pastebin.com/raw/Px16eDxe)
 

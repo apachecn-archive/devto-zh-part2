@@ -6,7 +6,7 @@
 
 在阅读了一些关于 ListViews 的内容后，我发现了关于[recycle view](https://blog.xamarin.com/recyclerview-highly-optimized-collections-for-android-apps/)的内容，它有一些很酷的视窗管理功能，可以在将即将进入视窗的新项目排队时，为你已经滚动过的项目回收内存。
 
-[![Image from Xamarin blog post [here](https://blog.xamarin.com/recyclerview-highly-optimized-collections-for-android-apps/)](../Images/e214d89525745bd18c783582e0f31cd2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--i9XONi0P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpda.dev/img/1%2520__rNlpuO__%2520byTAYObhua4IN9w.png) 图片来自 Xamarin 博文[此处](https://blog.xamarin.com/recyclerview-highly-optimized-collections-for-android-apps/)
+[![Image from Xamarin blog post [here](https://blog.xamarin.com/recyclerview-highly-optimized-collections-for-android-apps/)](img/e214d89525745bd18c783582e0f31cd2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--i9XONi0P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpda.dev/img/1%2520__rNlpuO__%2520byTAYObhua4IN9w.png) 图片来自 Xamarin 博文[此处](https://blog.xamarin.com/recyclerview-highly-optimized-collections-for-android-apps/)
 
 总之，我的存根应用程序有两种集合类型，联系人和对话。这很简单，但是当我在处理适配器→视图持有器时，这看起来有些重复。
 

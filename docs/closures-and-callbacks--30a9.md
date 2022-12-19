@@ -8,7 +8,7 @@
 
 目标是使用尽可能多的不同模块来测试 webpack 的捆绑能力。我应该[为一家餐馆](https://www.theodinproject.com/courses/javascript/lessons/restaurant-page)创建一个通用的登陆页面，它必须有一个基于标签的导航系统。[这是我想到的网站。](https://assertnotmagic.com/odin-restaurant/)(以及相关的 [GitHub 回购](https://github.com/rpalo/odin-restaurant)
 
-[![My Odin Project Restaurant](../Images/3701b4c9f247550011f2468fb6a9888f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---KCDoir7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assertnotmagic.com/img/odin-restaurant.png)
+[![My Odin Project Restaurant](img/3701b4c9f247550011f2468fb6a9888f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---KCDoir7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assertnotmagic.com/img/odin-restaurant.png)
 
 我没有做任何事情让它在手机上看起来漂亮，所以如果你在手机上阅读，请原谅我。
 

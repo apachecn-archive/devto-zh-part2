@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/scrimba/how-to-build-a-reactjs-chat-app-in-10-minutes-2j20>
 
- [![](../Images/ce6120aef675512ec7d4fa3779bf3123.png)](https://scrimba.com/g/greactchatkit?utm_source=dev.to&utm_medium=referral&utm_campaign=greactchatkit_10_minute_article) 
+ [![](img/ce6120aef675512ec7d4fa3779bf3123.png)](https://scrimba.com/g/greactchatkit?utm_source=dev.to&utm_medium=referral&utm_campaign=greactchatkit_10_minute_article) 
 在本文中，我将向您展示使用 React.js 创建聊天
 应用程序的最简单方法。它将完全不需要服务器端代码来完成，因为
 我们将让 [Chatkit API](https://pusher.com/chatkit) 处理后端。
@@ -11,7 +11,7 @@
 
 > 注意:我还创建了一个关于如何创建 React.js 聊天应用程序的免费完整课程[:](https://scrimba.com/g/greactchatkit?utm_source=dev.to&utm_medium=referral&utm_campaign=greactchatkit_10_minute_article)
 
- [![https://scrimba.com/g/greactchatkit?utm_source=dev.to&utm_medium=referral&utm_campaign=greactchatkit_10_minute_article](../Images/d359ce88348672341a41c383d444ad17.png)](https://scrimba.com/g/greactchatkit?utm_source=dev.to&utm_medium=referral&utm_campaign=greactchatkit_10_minute_article) 
+ [![https://scrimba.com/g/greactchatkit?utm_source=dev.to&utm_medium=referral&utm_campaign=greactchatkit_10_minute_article](img/d359ce88348672341a41c383d444ad17.png)](https://scrimba.com/g/greactchatkit?utm_source=dev.to&utm_medium=referral&utm_campaign=greactchatkit_10_minute_article) 
 如果你按照本教程学习，最终你将拥有自己的聊天应用程序，如果你愿意，你可以进一步开发它。
 
 我们开始吧！
@@ -22,7 +22,7 @@ React 是围绕组件构建的，因此在创建应用程序时，首先要做�
 
 让我们从围绕整个应用程序画一个矩形开始。这是您的根组件，也是所有其他组件的共同祖先。姑且称之为`App`:
 
-[![](../Images/1425a001446d755dbe51ef82b20be3ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8qufEfAI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A66jz6LtljJtOPDouK9PmYA.png)
+[![](img/1425a001446d755dbe51ef82b20be3ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8qufEfAI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A66jz6LtljJtOPDouK9PmYA.png)
 
 一旦定义了根组件，您需要问自己以下问题:
 
@@ -36,7 +36,7 @@ React 是围绕组件构建的，因此在创建应用程序时，首先要做�
 
 让我们为每一个画一个矩形:
 
-[![](../Images/aac42747bede50b551f6c6e70055a780.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jg25wXNn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2ASUeSr13iO7yJfIf4ipaeFg.png)
+[![](img/aac42747bede50b551f6c6e70055a780.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jg25wXNn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2ASUeSr13iO7yJfIf4ipaeFg.png)
 
 这让我们对应用背后的不同组件和架构有了一个很好的概述。
 
@@ -46,11 +46,11 @@ React 是围绕组件构建的，因此在创建应用程序时，首先要做�
 
 现在我们需要设置我们的存储库。我们将尽可能使用最简单的结构:一个* index.html *文件，它链接到一个 JavaScript 文件和一个样式表。我们还引进了 Chatkit SDK 和 Babel，用于改造我们的 JSX:
 
-[![](../Images/174fa8cac37d24d116327fb8ef45f33a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dkNfS7Nz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AYCcPOlQGBk-dP-UQnyLEMA.png)
+[![](img/174fa8cac37d24d116327fb8ef45f33a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dkNfS7Nz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AYCcPOlQGBk-dP-UQnyLEMA.png)
 
 这里有一个 Scrimba 操场，上面有教程的最终代码。我建议你在一个新的标签页中打开它，当你感到困惑的时候就可以随意摆弄它。
 
-[![](../Images/d543bf887fab7c4b4756a474adfff2b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pdrf5Yas--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Axmr7Z2oR1PwJvLq2sHuZbQ.png)
+[![](img/d543bf887fab7c4b4756a474adfff2b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pdrf5Yas--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Axmr7Z2oR1PwJvLq2sHuZbQ.png)
 
 或者，您可以下载 Scrimba 项目的. zip 文件，并运行一个简单的[服务器，让它在本地启动并运行。](https://gist.github.com/willurd/5720255)
 
@@ -162,7 +162,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 随着我们的虚拟数据流入该组件，它将呈现以下内容:
 
-[![](../Images/9d172a51bafee6454e9548a0f3c1055e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uz9V5iht--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ANf12vqc4Ti_GWY0FwqmQKw.png)
+[![](img/9d172a51bafee6454e9548a0f3c1055e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uz9V5iht--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ANf12vqc4Ti_GWY0FwqmQKw.png)
 
 现在我们有了应用程序的基本结构，我们也能够呈现消息。干得好！
 
@@ -176,7 +176,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 首先在这里创建一个免费[账户。一旦你这样做了，你会看到你的仪表板。这是创建新的 Chatkit 实例的地方。创建一个并给它起一个您想要的名字:](https://pusher.com/chatkit#sign-up)
 
- [![](../Images/0e8dd64009a1d1c50d49dbbe17225fdd.png)](https://pusher.com/chatkit) 
+ [![](img/0e8dd64009a1d1c50d49dbbe17225fdd.png)](https://pusher.com/chatkit) 
 然后您将被导航到您新创建的实例。这里您需要复制四个值:
 
 *   实例定位器
@@ -186,16 +186,16 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们将从**实例定位器**开始:
 
- [![](../Images/8407a5ed7a2df9a517636ff6b8acdbcd.png)
+ [![](img/8407a5ed7a2df9a517636ff6b8acdbcd.png)
 T4】](https://pusher.com/chatkit)
 
 如果您向下滚动一点，您会发现**测试令牌提供者**:
 
-[![](../Images/ed7d3dca32c0a63630bb6cda16044419.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zqHO6hDH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AuSvabQgYrppTGsWKXQsJSQ.png)
+[![](img/ed7d3dca32c0a63630bb6cda16044419.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zqHO6hDH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AuSvabQgYrppTGsWKXQsJSQ.png)
 
 下一步是创建一个**用户** * *和一个* *房间* *，这是在同一个页面上完成的。请注意，您必须首先创建一个用户*，然后您将能够创建一个房间，这再次允许您访问房间标识符。*
 
-[![](../Images/600131d7b843a9b6cb0e8bb4af1c5740.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5AUFyBxG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AhCXjDJ3PQJ_emU4WfJRQEQ.png)
+[![](img/600131d7b843a9b6cb0e8bb4af1c5740.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5AUFyBxG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AhCXjDJ3PQJ_emU4WfJRQEQ.png)
 
 现在你已经找到了你的四个标识符。干得好！
 
@@ -203,7 +203,7 @@ T4】](https://pusher.com/chatkit)
 
 下面是如何做到这一点:
 
-[![](../Images/ede017a3310225439f1912385f2fcf7b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yp2nFFG_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AHU3mzUknYj8_MwY7ceK2Ow.png)
+[![](img/ede017a3310225439f1912385f2fcf7b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yp2nFFG_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AHU3mzUknYj8_MwY7ceK2Ow.png)
 
 这是为了让我们实际上有一个消息在下一步中呈现出来。
 
@@ -272,7 +272,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这导致应用程序从 API 获取数据，然后将其呈现在页面上。
 
-[![](../Images/fb5141d7a2a25f439993b0f080bd6d83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5LAUMl6c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AEAi9TyUba39xN3fciic3aA.png)
+[![](img/fb5141d7a2a25f439993b0f080bd6d83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5LAUMl6c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AEAi9TyUba39xN3fciic3aA.png)
 
 这太棒了，因为我们现在已经有了客户机-服务器连接的框架。
 
@@ -484,7 +484,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 有了它，你就有了自己的聊天应用程序，可以用来和朋友聊天！
 
-[![](../Images/bf96a4e1aa4a54c4155f2fca1ce46e7c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wa1JJb1Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AKQzdlJJLMGyq5IdZu6cZ1Q.png)
+[![](img/bf96a4e1aa4a54c4155f2fca1ce46e7c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wa1JJb1Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AKQzdlJJLMGyq5IdZu6cZ1Q.png)
 
 如果你一直坚持到最后，给自己一点鼓励。
 

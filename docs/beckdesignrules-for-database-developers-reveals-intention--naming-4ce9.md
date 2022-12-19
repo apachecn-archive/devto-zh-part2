@@ -234,7 +234,7 @@ create or replace view soldier_groups_all as
 
 有一个由 [@mzbat](https://twitter.com/mzbat) 发起的 [Twitter 帖子](https://twitter.com/mzbat/status/995368613765935104)，她被要求更改她幻灯片中关于“黑帽黑客”和“白帽黑客”的幻灯片。这是一个很棒的线程，有许多深思熟虑的答案，但给我留下深刻印象的是她的结论(POC =有色人种):
 
-> 我不知道答案是什么，但我知道我没有资格告诉一个 POC 什么是或不是种族不敏感。如果观众中有一个有色人种的孩子被他们不理解的牛仔比喻所伤害，那就太多了。和平与爱你们。[![❤](../Images/a38aacb9bf3a6d875b78a506f0bf990e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qo6T5Tti--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/2764.png)
+> 我不知道答案是什么，但我知道我没有资格告诉一个 POC 什么是或不是种族不敏感。如果观众中有一个有色人种的孩子被他们不理解的牛仔比喻所伤害，那就太多了。和平与爱你们。[![❤](img/a38aacb9bf3a6d875b78a506f0bf990e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qo6T5Tti--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/2764.png)
 > 
 > —bat(@ mzbat)[2018 年 5 月 12 日](https://twitter.com/mzbat/status/995443494805270529?ref_src=twsrc%5Etfw)
 

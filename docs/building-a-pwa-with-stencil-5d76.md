@@ -106,11 +106,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是项目的目录结构
 
-[![](../Images/75168b6e08aa522c9d4a2d6b275eb018.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_gT1bnZv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.com/images/b97b0a37-7a5e-4e19-8505-28cd778e0e8b.png)
+[![](img/75168b6e08aa522c9d4a2d6b275eb018.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_gT1bnZv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.cimg/b97b0a37-7a5e-4e19-8505-28cd778e0e8b.png)
 
 如果您的模具应用程序启动时出现以下错误:**此浏览器禁用此模具应用程序。**就像下面的屏幕截图
 
-[![](../Images/51c7bd07806702c9d4b336e66a47eeab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wGRam1vV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.com/images/2639802d-c94a-4917-bc8d-485526bcd3cc.png)
+[![](img/51c7bd07806702c9d4b336e66a47eeab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wGRam1vV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.cimg/2639802d-c94a-4917-bc8d-485526bcd3cc.png)
 
 这个错误是由于你的浏览器(在我的例子中是 Firefox)还不支持 *ES 模块导入*
 
@@ -124,4 +124,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 您现在应该能够看到您的应用程序启动并运行
 
-[![](../Images/682681ff02eaaf6e1ec98c388b72453e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J43aQU9c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.com/images/8819f2cf-8b85-414a-a18b-7233f76bed28.png)
+[![](img/682681ff02eaaf6e1ec98c388b72453e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J43aQU9c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.cimg/8819f2cf-8b85-414a-a18b-7233f76bed28.png)

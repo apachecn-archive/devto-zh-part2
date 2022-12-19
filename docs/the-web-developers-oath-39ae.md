@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jperasmus/the-web-developers-oath-39ae>
 
-[![](../Images/be2be209d07ff7f8c7b8b1e21b613dac.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KPnGZJ7X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AA2qZNV3Ah0uWIXnV_E9VCQ.jpeg) 
+[![](img/be2be209d07ff7f8c7b8b1e21b613dac.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KPnGZJ7X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AA2qZNV3Ah0uWIXnV_E9VCQ.jpeg) 
 
 <figcaption>照片由 [rawpixel](https://unsplash.com/photos/u26_RbawXyE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 上 [Unsplash](https://unsplash.com/search/photos/promise?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 

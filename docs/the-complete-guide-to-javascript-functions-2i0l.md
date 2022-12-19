@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/codetheweb/the-complete-guide-to-javascript-functions-2i0l>
 
-[![The complete guide to JavaScript functions](../Images/28e5ba72d6588dea78dd8522d1ebeb92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w7lNMaYS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codetheweb.blog/assets/img/posts/javascript-functions/cover.jpg)
+[![The complete guide to JavaScript functions](img/28e5ba72d6588dea78dd8522d1ebeb92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w7lNMaYS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codetheweb.blog/assets/img/posts/javascript-functions/cover.jpg)
 
 ## 入门！
 

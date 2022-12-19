@@ -14,7 +14,7 @@
 
 在“白屏情况”下，你可能会看到一个非常常见的事情，那就是你的应用无法加载 JavaScript 包——这就是我们今天要解决的问题。
 
-[![](../Images/1deb95fd1b2631a45c799ef6c640251f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D_oDr4LR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/www.andreasreiterer.at/wp-content/uploads/2018/11/mainjsnotfound.jpg%3Fresize%3D660%252C84%26ssl%3D1)
+[![](img/1deb95fd1b2631a45c799ef6c640251f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D_oDr4LR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/www.andreasreiterer.at/wp-content/uploads/2018/11/mainjsnotfound.jpg%3Fresize%3D660%252C84%26ssl%3D1)
 
 现在让我们看一下文件实际存放在哪里。在我的例子中，我把它们放在一个子目录 *react-app* 中，所以正确的 URL 是*[【https://www.andreasreiterer.at/react-app/static/js…】](https://www.andreasreiterer.at/react-app/static/js%E2%80%A6)*
 
@@ -42,7 +42,7 @@ _ **那么，我们将这些信息放在哪里呢？** _
 
 如果你使用 create-react-app，你就不必处理 Webpack 配置。(哪个好看😜)取而代之的是——**弹出或者不弹出**——我们只需要在我们的*包中指定*“主页”*即可*
 
-[![](../Images/60b39d07e47656f6bf7faf236ba34b9b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---meJEF1b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/www.andreasreiterer.at/wp-content/uploads/2018/11/homepage_package_json.jpg%3Fresize%3D660%252C90%26ssl%3D1)
+[![](img/60b39d07e47656f6bf7faf236ba34b9b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---meJEF1b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/www.andreasreiterer.at/wp-content/uploads/2018/11/homepage_package_json.jpg%3Fresize%3D660%252C90%26ssl%3D1)
 
 create-react-app 如何设置其 webpack 配置，这将使用正确的应用程序基本 URL 替换`publicPath`。(如果你想了解更多关于`publicPath`设置的信息，请看一下 [Webpack 文档](https://webpack.js.org/configuration/output/#output-publicpath)
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/solacedevs/how-to-unlock-the-potential-of-spring-cloud-stream-apps-with-an-advanced-event-broker-2cbf>
 
-[![](../Images/b734209859e6bb14b5e034649c778c29.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B1PJPred--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://solace.com/wp-content/uploads/2018/12/spring-cloud-stream-ms-feat-img.png)
+[![](img/b734209859e6bb14b5e034649c778c29.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B1PJPred--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://solace.com/wp-content/uploads/2018/12/spring-cloud-stream-ms-feat-img.png)
 
 使用 Spring Cloud Stream 框架构建应用程序的开发人员现在可以将他们的微服务连接到 Solace PubSub+ event broker，并利用与其他应用程序、云服务和连接设备的简单、全功能的基于消息的集成。
 
@@ -21,7 +21,7 @@ Spring Cloud Stream 基于其他 Spring 框架(如 Spring Boot)的“自以为�
 
 Spring Cloud Stream 提供了一个声明性的、基于注释的接口，该接口跨供应商代理实现进行了标准化。
 
-[![](../Images/ab06a3f1d1d978eaf16d5be7ac03b82f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9t4eCxIF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://solace.com/wp-content/uploads/2018/09/spring-cloud-stream-ms-diagram-no-bg-750W-205H.png)
+[![](img/ab06a3f1d1d978eaf16d5be7ac03b82f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9t4eCxIF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://solace.com/wp-content/uploads/2018/09/spring-cloud-stream-ms-diagram-no-bg-750W-205H.png)
 
 复杂事件/数据集成的挑战日益降低开发人员的工作效率。这些开发人员正在使用 Spring Cloud Stream 等现代框架来加速事件驱动的微服务的开发，但由于无法访问从遗留系统、记录系统或移动/物联网设备流中流出的事件，这种效率受到了阻碍。
 
@@ -90,6 +90,6 @@ Solace 完全接受了 Spring Cloud Stream 方法，并发布了 Spring Cloud St
 
 开始使用 Solace Spring Cloud Stream Binder 和 PubSub+ Event Broker，释放您的反应式流和微服务的力量！
 
-[![](../Images/9aac1a7b585e3f3f1977460ff726d1b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZRej3jIA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://play.vidyard.com/wKDMfTwQA8xMwvjQm9kCJm.jpg)
+[![](img/9aac1a7b585e3f3f1977460ff726d1b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZRej3jIA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://play.vidyard.com/wKDMfTwQA8xMwvjQm9kCJm.jpg)
 
 帖子[如何通过高级事件代理](https://solace.com/blog/unlock-potential-spring-cloud-stream/)释放 Spring Cloud Stream 应用的潜力首先出现在 [Solace](https://solace.com) 上。

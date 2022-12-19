@@ -14,7 +14,7 @@
 
 我制作了一个单独的组件来测试拖放，并观察它在没有任何其他事情发生的情况下的执行情况。不可怕，但远不如原生 JavaScript 流畅。我看到火狐在加快 WASM 之间的通话速度方面有点领先，所以我在那里试了一下，看起来确实流畅了一些。
 
-[![draggable experiment](../Images/9e50bb6f82e11563dc0c49d73067131c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JxLPB00N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9ht8mhnnzu0gogp186zt.gif)
+[![draggable experiment](img/9e50bb6f82e11563dc0c49d73067131c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JxLPB00N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9ht8mhnnzu0gogp186zt.gif)
 
 两种浏览器最终都会快得多，目前这还可以忍受。这给了我它应该如何表现的基线，但显然还没有。但我觉得只是从这里开始调试。
 

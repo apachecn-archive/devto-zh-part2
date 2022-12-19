@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/artis3n/encrypting-files-in-a-post-pgp-age-59bf>
 
-> ![Thomas H. Ptacek profile image](../Images/2f0b6f712e28d49cd3dab0a20994c7a8.png)托马斯·h·普塔切克[@ tqbf](https://dev.to/tqbf)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)我曾目睹一位颇有名气的密码学家用 spitball 攻击 PGP MDC，然后说“去他妈的，我不打算花时间研究 PGP”。这大概是我对 PGP 在现代加密领域的看法。2018 年 5 月 18 日 21 点 41 分[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=997593091094794241)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=997593091094794241)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=997593091094794241)
+> ![Thomas H. Ptacek profile image](img/2f0b6f712e28d49cd3dab0a20994c7a8.png)托马斯·h·普塔切克[@ tqbf](https://dev.to/tqbf)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)我曾目睹一位颇有名气的密码学家用 spitball 攻击 PGP MDC，然后说“去他妈的，我不打算花时间研究 PGP”。这大概是我对 PGP 在现代加密领域的看法。2018 年 5 月 18 日 21 点 41 分[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=997593091094794241)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=997593091094794241)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=997593091094794241)
 
 由于最近 [EFail 的披露](https://efail.de/)，一场关于 PGP 的安全性(它缺乏)和可用性(它很复杂)的新对话已经开始。这是一次很好的谈话，虽然我有自己的观点，但我欢迎大家在下面的评论中发表意见。我知道“后 PGP 时代”这个术语会引起 InfoSec 社区的一些成员的关注，他们会认为强大、安全的 PGP 客户端仍然是任何用例的理想解决方案，或者至少是大多数用例的理想解决方案。我写这篇文章的目的并不是要论证 PGP 应该消亡。相反，我想概述 PGP 的合理替代方案，读者可能不知道，所以他们可以对他们的用例做出明智的决定。
 
@@ -12,17 +12,17 @@
 
 PGP 最大的问题是，按照现代标准，加密技术是不够的。首先，PGP 不支持[前向保密](https://en.wikipedia.org/wiki/Forward_secrecy)。前向保密性是密码系统的一个特性，即使过去使用的密钥在将来被泄露，它也能保持保密性。每个会话都有一个不同的密钥。在某些情况下，例如使用[信号](https://www.signal.org/)，每条消息都有一个新的会话密钥，因此，如果密钥被泄露，它只会影响特定的消息。对话的其余部分仍然保密。如果 PGP 中没有前向保密，如果攻击者控制了任何一方的私钥，整个会话的历史都会被破坏。
 
-> ![Steve Weis profile image](../Images/f346bc3fffe11e8469215cf994ea11f9.png)史蒂夫·维斯@斯威思![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)[@ Hacker _ Horse](https://twitter.com/Hacker_Horse)[@ Matthew _ d _ green](https://twitter.com/matthew_d_green)我帮助脸书建立了 PGP 支持，在这一点上，它可能是世界上发送 PGP 邮件最多的人。
+> ![Steve Weis profile image](img/f346bc3fffe11e8469215cf994ea11f9.png)史蒂夫·维斯@斯威思![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)[@ Hacker _ Horse](https://twitter.com/Hacker_Horse)[@ Matthew _ d _ green](https://twitter.com/matthew_d_green)我帮助脸书建立了 PGP 支持，在这一点上，它可能是世界上发送 PGP 邮件最多的人。
 > 
 > 想要权威，菲尔·齐默曼已经停止使用 PGP。
 > 
-> 写的哥们儿不用。2018 年 5 月 17 日 21 点 43 分[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=997231087108550658)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=997231087108550658)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=997231087108550658)
+> 写的哥们儿不用。2018 年 5 月 17 日 21 点 43 分[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=997231087108550658)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=997231087108550658)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=997231087108550658)
 
 此外，PGP 默认不使用[认证加密](https://crypto.stackexchange.com/questions/12178/why-should-i-use-authenticated-encryption-instead-of-just-encryption)。认证加密是一种将密文的机密性和完整性结合到一个操作中的属性。自 2001 年以来，OpenPGP 就支持修改检测代码(MDC)选项[，但它必须由客户端实现来选择，而许多客户端实现都没有。安全的密码系统应该实施安全的默认值。当然，维护对遗留系统的支持是有道理的，但是在 15 年以后，开始要求这个选项应该是可以接受的。](https://lists.gnupg.org/pipermail/gnupg-users/2018-May/060315.html)
 
 ## 我有哪些替代品？
 
-> ![Matthew Green profile image](../Images/95346cd0be3fc07f2b476ca9cf50ecf9.png)马修·格林@马修 _ d _ 格林![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)这就是 PGP 的问题:每当有人有一个远程涉及加密文件的用例时，一些人就认为这意味着我们必须把所有五百页的 OpenPGP 和 GnuPG 都拖进来。不:不是。2018 年 5 月 18 日上午 10:41[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=997426990805409793)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=997426990805409793)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=997426990805409793)
+> ![Matthew Green profile image](img/95346cd0be3fc07f2b476ca9cf50ecf9.png)马修·格林@马修 _ d _ 格林![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)这就是 PGP 的问题:每当有人有一个远程涉及加密文件的用例时，一些人就认为这意味着我们必须把所有五百页的 OpenPGP 和 GnuPG 都拖进来。不:不是。2018 年 5 月 18 日上午 10:41[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=997426990805409793)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=997426990805409793)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=997426990805409793)
 
 如果您需要发送加密电子邮件或保护敏感文件，如果不使用 PGP，您会使用什么？让我们看看外面还有什么。
 

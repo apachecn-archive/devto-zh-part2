@@ -18,7 +18,7 @@ Voucherify 提供可编程的构建模块来构建优惠券、推荐和忠诚度
 *   说到数据存储，我们使用 Postgres、Mongo 和 redis trio。
 
 这是它迁移后的样子:
-[![](../Images/18f10f67302916e61550005e35c2ed2e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Ispv-cgU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wvxl8q1o22kr3jh9z10h.png)
+[![](img/18f10f67302916e61550005e35c2ed2e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Ispv-cgU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wvxl8q1o22kr3jh9z10h.png)
 
 **负载**:我们为 100 多个客户服务，他们每月发送几百万个 API 调用，包括常规请求和一些更耗电的请求，如批量导入/导出或与第三方集成的同步。‍
 

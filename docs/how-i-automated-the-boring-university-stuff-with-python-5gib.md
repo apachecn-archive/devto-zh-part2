@@ -6,7 +6,7 @@
 我是来自印度的计算机系二年级本科生。我喜欢 Python。这是我在 dev.to 社区的第一篇文章。所以让我们开始吧！
 
 我的大学有一个通用的学生登录界面，学生可以在这里查看他们的个人资料、上传作业、获取截止日期、下载课程材料等等。
-[![Login](../Images/5c255ac0e2cc66f5d098a68db39b819e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rG8xx9Rd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ukbcjpamlvf2yisehe8h.png) 
+[![Login](img/5c255ac0e2cc66f5d098a68db39b819e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rG8xx9Rd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ukbcjpamlvf2yisehe8h.png) 
 但是浏览这个网站有点乏味，因此我决定用 python 来自动化这些无聊的东西。其中之一是作业提醒服务。
 
 对于本文，您需要了解一些 web 请求-响应模型的工作原理和简单的 python 知识。它将被分成两部分。我们走吧！
@@ -21,7 +21,7 @@
 一旦我学会了如何使用 BeautifulSoup 和 Requests 库，很明显，如果我们顺序地模仿浏览器的行为，我们就可以处理得到的 HTML/JSON 响应。
 
 我也想让你知道，作为我第一年的一个项目，我为学生登录中的验证码开发了一个破解程序。验证码长这样:
-[![Captcha](../Images/1fad3027e8d10201bed816cf904b5693.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---HFwCXVJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nnoq4ilzkdmephnbz22v.png)
+[![Captcha](img/1fad3027e8d10201bed816cf904b5693.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---HFwCXVJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nnoq4ilzkdmephnbz22v.png)
 
 我已经写了一篇简单的文章解释我是如何做到的[这里](https://dev.to/presto412/how-i-cracked-the-captcha-on-my-universitys-website-237j)在 Dev.to.
 你可以在我的 GitHub 个人资料上找到这个库。这里是[环节](https://github.com/Presto412/VtopBetaCaptchaParser)。
@@ -55,7 +55,7 @@ chrome 开发者工具非常方便，我在其中使用了网络监视器。我�
 ```
 
 作业页面看起来是这样的:
-[![Assignment](../Images/59a66621ec83916c618abc80ccee31f7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Gt86TuT6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dckgzhe0bl2smkuk7hav.png)
+[![Assignment](img/59a66621ec83916c618abc80ccee31f7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Gt86TuT6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dckgzhe0bl2smkuk7hav.png)
 
 *   通过这种方式，我能够获得 HTML 内容，然后写几行就可以导航到作业页面。完成之后，我使用了 [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) ，这是 python 中的一个解析库。
 *   BeautifulSoup 所做的是，将 HTML 响应解析为一个树状结构，如果我想导航到一个更低的分支，我可以简单地转到下一个子节点，以此类推。上面提到了文档链接。
@@ -96,14 +96,14 @@ print 'Event created: %s' % (event.get('htmlLink'))
 ```
 
 *   我将这个片段包装到一个函数中，并为每个待定的赋值调用将事件添加到我的日历中的函数。
-*   瞧啊。我所有的作业到期日都显示在我的日历上，我可以在手机上使用它们。这是我的主屏幕部件的样子:![Widget](../Images/03e49c599b5f66a19ac2f70a7b1646ad.png)
+*   瞧啊。我所有的作业到期日都显示在我的日历上，我可以在手机上使用它们。这是我的主屏幕部件的样子:![Widget](img/03e49c599b5f66a19ac2f70a7b1646ad.png)
 *   除此之外，我开发了一个 chrome 扩展，可以自动破解验证码并填充文本框。它还管理来自大学网站的下载，根据课程代码和教师姓名对它们进行分类，并组织到各自的文件夹中。
     课程资源页面外观:
-    [![CoursePage](../Images/20fd59cf80a55001b1dbf3c8f7f9343c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ttEeh1yZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5hmvsd5tsyqoh5f36j6t.png) 
+    [![CoursePage](img/20fd59cf80a55001b1dbf3c8f7f9343c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ttEeh1yZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5hmvsd5tsyqoh5f36j6t.png) 
     无扩展名下载如何保存:
-    [![woext](../Images/9cd123c50db6d3393dc76588485adba7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JHUQPeb3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3grru0jyyvkyubodiw4x.png) 
+    [![woext](img/9cd123c50db6d3393dc76588485adba7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JHUQPeb3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3grru0jyyvkyubodiw4x.png) 
     通过扩展名下载时如何保存:
-    [![wext](../Images/b765673bba388bcfe00afdaef5cc241c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qswQ03S9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dis6nx4m6pza08t73pc8.png)
+    [![wext](img/b765673bba388bcfe00afdaef5cc241c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qswQ03S9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dis6nx4m6pza08t73pc8.png)
 
 *   你可以查看[扩展页面](https://chrome.google.com/webstore/detail/enhancer-for-vit-vellore/hafeeaangmkbibcaahfjdmmmeappjbbp)，它有超过 1500 个用户，他们是我学院的学生。学习使用 JavaScript 构建非常有趣！
 
@@ -113,12 +113,12 @@ print 'Event created: %s' % (event.get('htmlLink'))
 
 为了更有效率，我计划使用 [Google Sheets 的](http://sheets.google.com)每日日程模板。这基本上是一个为期一周的活动图表，其中以天为列，以时间为行。
 我当前的一周看起来是这样的:
-[![Schedule](../Images/22294da9dbb1b465acc6975bbf307ccc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JURq9Gcy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/op0x3xzdai8pw5rqlui9.png) 
+[![Schedule](img/22294da9dbb1b465acc6975bbf307ccc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JURq9Gcy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/op0x3xzdai8pw5rqlui9.png) 
 红色区域暗示我在那个时间没空。
 
 这件事的美妙之处在于，因为我的时间表在整个学期中总是保持不变，所以我所要做的就是在每个周日晚上坐 15 分钟，然后计划整个星期。现在我想要的是，将它同步到谷歌日历，这样我就可以在手机上看到我计划了什么。我使用的方法如下:
 
-*   填写时间表。当你这样做的时候，相应地调整时间。在顶栏上，导航到工具->脚本编辑器。![ScriptEditor](../Images/4300c8b893f975c11b1495f30126c696.png)
+*   填写时间表。当你这样做的时候，相应地调整时间。在顶栏上，导航到工具->脚本编辑器。![ScriptEditor](img/4300c8b893f975c11b1495f30126c696.png)
 *   脚本编辑器用于 Google 脚本，允许您创建 JavaScript 函数，以便在使用 Google apps APIs 时执行。这里有一个您可以使用的示例代码片段。请注意，我们将对同一个模板使用索引
 
 ```
@@ -143,7 +143,7 @@ print 'Event created: %s' % (event.get('htmlLink'))
 ```
 
 这里，C2 是当前周单元格。要调整单元格的属性，请单击单元格，然后转到索引单元格正上方的宏部分。
-[![macro](../Images/9501417156c25b2177d8b4f8a2767837.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--g3C3W4XO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bumcsgsnljjwgf2zuwvb.png) 
+[![macro](img/9501417156c25b2177d8b4f8a2767837.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--g3C3W4XO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bumcsgsnljjwgf2zuwvb.png) 
 小时数如果是 8，则等于 8:00 AM。我把其他时间都换成了这个，因为我想分开一个小时。这是我现在使用的脚本。“0.041666”基本上就是一天的 1/24 =一个小时。
 
 ```

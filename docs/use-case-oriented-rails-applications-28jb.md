@@ -16,7 +16,7 @@
 
 但是我们永远不能忘记的一点是, **web 是一个交付系统**,不应该主宰我们的代码。
 
-[![the web is a delivery system](../Images/5aa2de7a2d4390a470235da55d8be10b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iKE64iq_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aefxxs18lhzhhd12d3ci.png)
+[![the web is a delivery system](img/5aa2de7a2d4390a470235da55d8be10b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iKE64iq_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aefxxs18lhzhhd12d3ci.png)
 
 # 提议
 
@@ -24,29 +24,29 @@
 
 ### 用户与系统交互
 
-[![the user interacts with the system](../Images/aa1c6ef10ea1a2e195621a27458dd8c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x0xEFlmm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/17p8mdqnjjt88qqq96ys.png)
+[![the user interacts with the system](img/aa1c6ef10ea1a2e195621a27458dd8c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x0xEFlmm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/17p8mdqnjjt88qqq96ys.png)
 
 ### 交付机制构建请求模型，并将其传递给边界/接口
 
-[![the delivery mechanism builds a request model and passes it to the boundary/interface](../Images/4d9ec12bdaeee17ec8e26ecf6a5e621b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--if45oh2M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mgwra7e3hesxylpx8cvs.png)
+[![the delivery mechanism builds a request model and passes it to the boundary/interface](img/4d9ec12bdaeee17ec8e26ecf6a5e621b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--if45oh2M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mgwra7e3hesxylpx8cvs.png)
 
 ### 接口知道使用哪个交互器，并将请求模型传递给它
 
 ### 交互器执行业务规则
 
-[![the interactor executes the business rules and interacts with entities](../Images/0a0a1e13a4993922e3fe0cb2c10524a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8Kes1aEC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bj4vvazl2e89yi8rrag7.png)
+[![the interactor executes the business rules and interacts with entities](img/0a0a1e13a4993922e3fe0cb2c10524a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8Kes1aEC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bj4vvazl2e89yi8rrag7.png)
 
 ### 与实体互动
 
-[![and interacts with entities](../Images/9e2b5f36316a57f82b6573edb7d4d0bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2M40YLyt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g5n8ynvx60x0jhs0p33g.png)
+[![and interacts with entities](img/9e2b5f36316a57f82b6573edb7d4d0bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2M40YLyt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g5n8ynvx60x0jhs0p33g.png)
 
 ### 交互器建立一个结果模型，并将其返回给边界/接口
 
-[![the interactor builds a result model and give it back to the boundary/interface](../Images/5d5899fc192be4b67acba0453b90c4ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CSmlKAAu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/btscyrgoskdpr5nuiawu.png)
+[![the interactor builds a result model and give it back to the boundary/interface](img/5d5899fc192be4b67acba0453b90c4ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CSmlKAAu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/btscyrgoskdpr5nuiawu.png)
 
 ### 将其返还给交付机构和用户
 
-[![which will give it back to the delivery mechanism and the user](../Images/f5364fe53a03db3f6c62e19cf83e735e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Akli8mdj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p3ot6qjf9cb9ruic3s1m.png)
+[![which will give it back to the delivery mechanism and the user](img/f5364fe53a03db3f6c62e19cf83e735e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Akli8mdj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p3ot6qjf9cb9ruic3s1m.png)
 
 如您所见，框架只是该架构中的一个细节，它是一种交付机制。用户界面可以是一个网站，也可以是一个命令行工具，业务规则放在可以与实体交互的用例上。
 
@@ -54,19 +54,19 @@
 
 MVC(也称为模型视图控制器)是一种架构模式，用户与控制器进行交互，控制器操纵模型，模型更新用户看到结果的视图。我从维基百科上找到这张图片来更好地说明:
 
-[![The MVC Process](../Images/d74650dec7d62fa4648719474f0dfb5d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZdzKPRN6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u1q6tvb5x6tzr5p7t8l3.png)
+[![The MVC Process](img/d74650dec7d62fa4648719474f0dfb5d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZdzKPRN6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u1q6tvb5x6tzr5p7t8l3.png)
 
 MVC 模式是由 Trygve Reenskaug 在 1979 年创建的，用于图形用户界面(GUI)软件设计的 SmallTalk。
 
 但是当我们使用这种方法构建整个 web 应用程序时会发生什么呢？
 
-[![MVC as an web architecture is messy](../Images/dff1b5fef8b11878f9f57f741778b27c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6LbW4-yz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d6kxz416rhzx0p1jrmmb.png)
+[![MVC as an web architecture is messy](img/dff1b5fef8b11878f9f57f741778b27c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6LbW4-yz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d6kxz416rhzx0p1jrmmb.png)
 
 会变得很乱。
 
 我不是说 MVC 不好，我是说它是交付机制的一部分，而不是应用程序架构的一部分。
 
-[![the delivery mechanism is the web framework, and the boundary/interface, interactor and entities are out application](../Images/69966af3e87e72a091b13622411d3529.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6GrfZQl---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y96c29rykvgrmc9chpvu.png)
+[![the delivery mechanism is the web framework, and the boundary/interface, interactor and entities are out application](img/69966af3e87e72a091b13622411d3529.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6GrfZQl---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y96c29rykvgrmc9chpvu.png)
 
 # 真实世界用例
 
@@ -155,7 +155,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在我们可以说这个应用程序做的一件事就是支付发票。看看这些文件是如何组织的:
 
-[![We have an use cases folder with an accountant.rb there and an accountant folder with the pay_invoice.rb there](../Images/b8421bdb06190c04bcd6162ecb6b25d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xv9husQ3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/71ssjyd36uwnwqqwzbub.png)
+[![We have an use cases folder with an accountant.rb there and an accountant folder with the pay_invoice.rb there](img/b8421bdb06190c04bcd6162ecb6b25d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xv9husQ3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/71ssjyd36uwnwqqwzbub.png)
 
 你并不真的需要使用`caze`宝石，重要的是:
 

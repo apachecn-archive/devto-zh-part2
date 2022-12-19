@@ -14,7 +14,7 @@
 
 **[Tmux:](https://github.com/tmux/tmux)** 随着我的终端设置，我使用 Tmux，一个终端复用器。tmux 提供了将单个会话分割成多个会话的能力，允许在不中断会话的情况下附加和分离会话，并将我的视图分割成多个窗格。这一切都是通过按键完成的，所以它与我的 Vim 文本编辑工作流集成在一起。
 
-[![](../Images/746b8fe1a5ba57344cb4fc40c6831a68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5wtTIfkg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yycyti192fll37d2yomp.png)
+[![](img/746b8fe1a5ba57344cb4fc40c6831a68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5wtTIfkg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yycyti192fll37d2yomp.png)
 
 NeoVim: NeoVim 是我编辑所有文本和大部分代码的地方。这是 Vim 的改良口味。搭配 [Goyo](https://michaelsoolee.com/goyo-vim/) ，这是一个非常好的，不受干扰的写作环境。
 
@@ -62,7 +62,7 @@ Chrome: 虽然 Firefox 是我的默认浏览器，但我仍然保留 Chrome，�
 
 除此之外，我还利用了一些集成。使我们能够快速将一个会议室链接到一个频道，从而引导人们即时参加会议。我们也使用 Giphy 使用`/giphy search-term`。除了表情符号，gif 确实有助于我们团队的交流。如果你有 Giphy，我强烈推荐你打开的一个选项是*预览*选项。默认情况下，触发 giphy 就像一个通配符，将返回第一个匹配的 gif。这经常导致我的焦虑，因为返回的 gif 可能不是想要与 gif 交流的内容。通过打开预览选项，它允许你在 gif 发布之前先预览它，如果它不是正确的，它还允许你洗牌。
 
-[![](../Images/eac82d7a5f8bea2d44ac22eeca438081.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--70n7Zhpl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/frpl08u7jmy6vmgsaor6.png)
+[![](img/eac82d7a5f8bea2d44ac22eeca438081.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--70n7Zhpl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/frpl08u7jmy6vmgsaor6.png)
 
 我希望尽快组装出我们自己的机器人。因为有一些事情是我们团队独有的，我相信有了机器人，它可以帮助改善我们的工作流程。当我们把它放在一起时，我一定会分享更多。
 

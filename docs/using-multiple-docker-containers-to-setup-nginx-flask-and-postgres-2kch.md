@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ghost/using-multiple-docker-containers-to-setup-nginx-flask-and-postgres-2kch>
 
-[![](../Images/c781caaf245bd2f35c2b335eeae780e1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SB34bIRM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/770/1%2ApIK7TbSe8lHn9PiWMOY6Lg.png) 
+[![](img/c781caaf245bd2f35c2b335eeae780e1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SB34bIRM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/770/1%2ApIK7TbSe8lHn9PiWMOY6Lg.png) 
 
 <figcaption>带 Nginx、烧瓶和 Postgres 的 Docker</figcaption>
 
@@ -30,7 +30,7 @@ Docker 的另一大优势是，我不需要把所有的依赖项直接下载到�
 
 #### Dockerfile
 
-[![](../Images/15fa89efacc3e63359a6f837167b7c0f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_QJahJMl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A-MtBsrUXuDXaxR4AZYK-PQ.png) 
+[![](img/15fa89efacc3e63359a6f837167b7c0f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_QJahJMl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A-MtBsrUXuDXaxR4AZYK-PQ.png) 
 
 <figcaption>Dockerfile</figcaption>
 
@@ -50,7 +50,7 @@ Docker 的另一大优势是，我不需要把所有的依赖项直接下载到�
 
 #### Dockerfile
 
-[![](../Images/1e145acb44ef96ebd69254196c8eea22.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--E3U7IGVI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A8fouUS_-fHGdV3gcCJNeQw.png) 
+[![](img/1e145acb44ef96ebd69254196c8eea22.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--E3U7IGVI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A8fouUS_-fHGdV3gcCJNeQw.png) 
 
 <figcaption>Dockerfile</figcaption>
 
@@ -71,7 +71,7 @@ Docker 的另一大优势是，我不需要把所有的依赖项直接下载到�
 
 #### uwsgi.ini
 
-[![](../Images/7f78d5865e643740f5f1499fb699a228.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CIUDWPOk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/646/1%2AY0yzWPxoNB5uaDpD3_vP0w.png) 
+[![](img/7f78d5865e643740f5f1499fb699a228.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CIUDWPOk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/646/1%2AY0yzWPxoNB5uaDpD3_vP0w.png) 
 
 <figcaption>uwsgi.ini</figcaption>
 
@@ -83,7 +83,7 @@ Postgres 映像更简单，是来自 Docker hub 的最新 Postgres 映像，然�
 
 #### database.conf
 
-[![](../Images/55421f85b204724f6502babadcb05958.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ro9ROU3Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/666/1%2AHuLIgSd25nFTbcSIkotj_Q.png)T3】database . conf
+[![](img/55421f85b204724f6502babadcb05958.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ro9ROU3Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/666/1%2AHuLIgSd25nFTbcSIkotj_Q.png)T3】database . conf
 
 传递的环境变量如下所示。**注意**你不需要把端口或者主机传递给 Postgres Docker 容器。这些由烧瓶容器使用。
 
@@ -91,7 +91,7 @@ Postgres 映像更简单，是来自 Docker hub 的最新 Postgres 映像，然�
 
 我们已经定义了 Docker 文件和这些 Docker 文件使用的配置文件，但是我们如何实际使用 Docker 呢？我们使用 docker 的一种方法是使用 docker-compose 来定义它。在这里，我们定义了一组服务，Docker 将自动运行和构建这些服务，并为我们处理网络。我个人使用 docker-compose 进行开发，因为它节省了为每个 docker 映像/容器运行 docker 构建和 docker 运行命令的大量时间。
 
-[![](../Images/b1524e864c34ec6c45fd7379b165939f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DTDz2tq6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/974/1%2AQqpZqciQLUuc3M9MIP-UFg.png) 
+[![](img/b1524e864c34ec6c45fd7379b165939f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DTDz2tq6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/974/1%2AQqpZqciQLUuc3M9MIP-UFg.png) 
 
 <figcaption>码头工-化合物. yml</figcaption>
 

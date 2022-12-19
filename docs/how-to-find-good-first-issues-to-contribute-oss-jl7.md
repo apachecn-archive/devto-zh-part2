@@ -18,7 +18,7 @@
 
 在这篇文章中，我将介绍一个技巧，通过一个简单的脚本来找到*好的第一个问题*，并制作一个问题列表，如下所示。
 
-[![list](../Images/2c5d745aa66ba98dede0b2d88e75acb7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q2rpIc53--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/41986183-557969d4-7a70-11e8-9e27-55e3fb45f471.png)
+[![list](img/2c5d745aa66ba98dede0b2d88e75acb7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q2rpIc53--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/41986183-557969d4-7a70-11e8-9e27-55e3fb45f471.png)
 
 这个列表有大量的问题等待初学者的贡献。你可以在这里以电子表格[的形式查看完整列表](https://docs.google.com/spreadsheets/d/1-2jhSCFZUWyFsubCnGiX-xui9nA76M783Z2SOfVrEU4/edit#gid=440574128)
 
@@ -26,7 +26,7 @@
 
 它是 GitHub 默认提供给每个存储库的一种标签名称。
 
-[![labels](../Images/a443c24eaa293c8cd77bc6c35aeae167.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YdzzfSio--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/41986182-554eba68-7a70-11e8-8eb3-209fb60aceb2.png)
+[![labels](img/a443c24eaa293c8cd77bc6c35aeae167.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YdzzfSio--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/41986182-554eba68-7a70-11e8-8eb3-209fb60aceb2.png)
 
 根据[官方](https://help.github.com/articles/helping-new-contributors-find-your-project-with-labels/)的说法，这个标签表示如下。
 
@@ -111,9 +111,9 @@ Enter fullscreen mode Exit fullscreen mode
 
 我最初使用的是非常酷的 GitHub 问题阅读器 Jasper T1，通过创建一个收集问题的流来找到这些问题。
 
-[![jasper](../Images/0f35ec3615df29525a20ec11decefd27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e3YaF51d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/41986181-5526dd72-7a70-11e8-9bca-d513e7e36d15.png)
+[![jasper](img/0f35ec3615df29525a20ec11decefd27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e3YaF51d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/41986181-5526dd72-7a70-11e8-9bca-d513e7e36d15.png)
 
-[![jasper_stream](../Images/12b4891365ea0e46c66f978990b8f63d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HnVfmLii--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/41986180-54fbcdee-7a70-11e8-96f3-dab0c9dbda51.png)
+[![jasper_stream](img/12b4891365ea0e46c66f978990b8f63d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HnVfmLii--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/41986180-54fbcdee-7a70-11e8-96f3-dab0c9dbda51.png)
 
 但是...
 
@@ -131,7 +131,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 例如 Node.js
 
-[![contribution](../Images/462a9887b0097c1540df124af23937e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_fDE4K3M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/41986179-54cdb3be-7a70-11e8-9b31-fb30d739e9e1.png)
+[![contribution](img/462a9887b0097c1540df124af23937e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_fDE4K3M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/41986179-54cdb3be-7a70-11e8-9b31-fb30d739e9e1.png)
 
 ## 下一次尝试
 

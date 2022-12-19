@@ -4,7 +4,7 @@
 
 我们现在在搜索中有了这个方便的过滤器:
 
-[![](../Images/e13cd7ca63a2349bd5669a90baee396e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lVXFcd8G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8yj7cuxrk73rmn3aokde.png)
+[![](img/e13cd7ca63a2349bd5669a90baee396e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lVXFcd8G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8yj7cuxrk73rmn3aokde.png)
 
 如果你写了一篇文章来解决一个问题，并想在将来最快速地引用它，这将非常有帮助。通常未来的你最需要的就是这个。
 

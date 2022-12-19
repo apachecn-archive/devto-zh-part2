@@ -4,7 +4,7 @@
 
 我用 Rust 和 WebAssembly 写了 NES 模拟器来学习 Rust。它并不完美，有一些音频错误，但它足以玩超级马里奥兄弟。
 
-[![](../Images/fb8357b7b9971e079f74cfb7545ed996.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NGf4IFZm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/759/1%2AFeNjHAjDRrgLw9w5PJ0GgQ.gif)
+[![](img/fb8357b7b9971e079f74cfb7545ed996.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NGf4IFZm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/759/1%2AFeNjHAjDRrgLw9w5PJ0GgQ.gif)
 
 ### **TL；博士**
 
@@ -30,7 +30,7 @@
 
 ### 仿真器结构
 
-[![](../Images/00c48fc9cf1c54b7a01b17b8471c2474.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yuev5qzm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ANudS1Jxt1STmldYF9n88sg.png)
+[![](img/00c48fc9cf1c54b7a01b17b8471c2474.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yuev5qzm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ANudS1Jxt1STmldYF9n88sg.png)
 
 ### 带锈建筑腹板组装
 

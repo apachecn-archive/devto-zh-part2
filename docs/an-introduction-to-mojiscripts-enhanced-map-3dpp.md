@@ -2,16 +2,16 @@
 
 > 原文：<https://dev.to/joelnet/an-introduction-to-mojiscripts-enhanced-map-3dpp>
 
-[![World map](../Images/d7ac09895557ea4389c2fa788fbcbcea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--muenqqfd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h38jlrfkzqo771qvee7y.jpg)
+[![World map](img/d7ac09895557ea4389c2fa788fbcbcea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--muenqqfd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h38jlrfkzqo771qvee7y.jpg)
 
 MojiScript 在许多方面扩展和增强了`map`,比如支持可迭代和异步代码。这是对 MojiScript 的`map`提供的特性以及与传统的`map`的区别的介绍。
 
 这篇文章的灵感来自 Twitter 上的一个很好的问题:
 
-> ![𝕔𝕛 profile image](../Images/5840636d40c1afe2b030a77427c30387.png)𝕔𝕛@ dually 888![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)[@ thepractical dev](https://twitter.com/ThePracticalDev)[@ Joel net](https://twitter.com/joelnet)但是香草 js 已经做了你想要做的为什么还要带一个 lib 来呢？😩2018 年 10 月 17 日下午 15:06[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1052576566750916608)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1052576566750916608)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1052576566750916608)
+> ![𝕔𝕛 profile image](img/5840636d40c1afe2b030a77427c30387.png)𝕔𝕛@ dually 888![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)[@ thepractical dev](https://twitter.com/ThePracticalDev)[@ Joel net](https://twitter.com/joelnet)但是香草 js 已经做了你想要做的为什么还要带一个 lib 来呢？😩2018 年 10 月 17 日下午 15:06[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1052576566750916608)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1052576566750916608)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1052576566750916608)
 
-> ![𝕔𝕛 profile image](../Images/5840636d40c1afe2b030a77427c30387.png)𝕔𝕛@ dual ly 888![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)[@ thepractical dev](https://twitter.com/ThePracticalDev)[@ Joel net](https://twitter.com/joelnet)字面上只是
-> const evens = values . filter(x =>x % 2 = = = 0)；2018 年 10 月 17 日下午 15:08[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1052577088543297536)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1052577088543297536)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1052577088543297536)
+> ![𝕔𝕛 profile image](img/5840636d40c1afe2b030a77427c30387.png)𝕔𝕛@ dual ly 888![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)[@ thepractical dev](https://twitter.com/ThePracticalDev)[@ Joel net](https://twitter.com/joelnet)字面上只是
+> const evens = values . filter(x =>x % 2 = = = 0)；2018 年 10 月 17 日下午 15:08[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1052577088543297536)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1052577088543297536)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1052577088543297536)
 
 # 传统地图
 
@@ -258,4 +258,4 @@ MojiScript 的`map`也支持异步代码，这非常棒。
 
 我的文章是非常实用的 JavaScript，如果你需要更多的 FP，在这里关注我，或者在 Twitter [@joelnet](https://twitter.com/joelnet) ！
 
-[![Cheers!](../Images/661c03d25961a6e3b1ecbe00d148b35a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PqqJmrxK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6jsy3a866frzp3u5oda0.jpg)
+[![Cheers!](img/661c03d25961a6e3b1ecbe00d148b35a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PqqJmrxK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6jsy3a866frzp3u5oda0.jpg)

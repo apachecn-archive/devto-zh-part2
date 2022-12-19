@@ -12,7 +12,7 @@
 defaults write com.apple.dt.Xcode ShowBuildOperationDuration -bool YES 
 ```
 
-[![](../Images/7b3a767042a958ea9105bf5e4a4b471d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HF3Vcl2b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/developerinsider/developer-insider-content/blob/master/POST/iOS/TipsAndTricks/BuildTime.png%3Fraw%3Dtrue)
+[![](img/7b3a767042a958ea9105bf5e4a4b471d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HF3Vcl2b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/developerinsider/developer-insider-content/blob/master/POST/iOS/TipsAndTricks/BuildTime.png%3Fraw%3Dtrue)
 
 ## 2.缩短您的 Swift 项目构建时间
 
@@ -41,7 +41,7 @@ sudo mkdir /AppleInternal
 ```
 
 新的菜单项应该会出现。
-[![](../Images/6bdc43c4b73f1111889de7fd90f5f136.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--e_SYwFoE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/developerinsider/developer-insider-content/blob/master/POST/iOS/TipsAndTricks/SimulatorInternal.png%3Fraw%3Dtrue)
+[![](img/6bdc43c4b73f1111889de7fd90f5f136.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--e_SYwFoE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/developerinsider/developer-insider-content/blob/master/POST/iOS/TipsAndTricks/SimulatorInternal.png%3Fraw%3Dtrue)
 
 ## 4.捕捉 iOS 模拟器视频
 

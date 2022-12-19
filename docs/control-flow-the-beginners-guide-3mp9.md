@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/howtocodejs/control-flow-the-beginners-guide-3mp9>
 
-[![image](../Images/35d08876485d4bf14ad031c54a42d84c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6wgvjVIX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j7bp97fz7u35xzqydjaw.jpg)
+[![image](img/35d08876485d4bf14ad031c54a42d84c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6wgvjVIX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j7bp97fz7u35xzqydjaw.jpg)
 
 有时，您需要依靠自动化任务来运行代码。想想控制交通的交通灯，它们让城市免去了在每个十字路口指派交通警察的麻烦。或者以令人难以置信的速度完成日常工作的装配线。
 

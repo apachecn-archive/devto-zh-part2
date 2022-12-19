@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/designing-as-a-developer-in-2018-1ee4>
 
-[![](../Images/8e0ff92c1f1fe07311a8ea5488446ac3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FMlVzovc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ARXSuvIVO5oX2xSD42QKg_w.jpeg)
+[![](img/8e0ff92c1f1fe07311a8ea5488446ac3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FMlVzovc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ARXSuvIVO5oX2xSD42QKg_w.jpeg)
 
 无论你是在打造一个产品、一个工具、一个网站、一项服务还是一家初创公司:第一印象就是一切。用户天生就被他们可以信任的产品所吸引，这些产品感觉合法并提供安全感。一个看起来像是孩子设计的网站总是让用户感到安全和健康。即使你的产品很棒，如果看起来你不知道自己在做什么，没有人会使用它。
 
@@ -24,7 +24,7 @@
 
 但是首先让我们让你了解相关的设计原则。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### 半 skeuomorphism
 
@@ -34,7 +34,7 @@
 
 Skeuomorphism 是一种设计原则，其中阴影、渐变和纹理用于创建代表真实世界元素的元素。纹理和光线是 skeuomorphic 设计中的两个主要成分，从 2007 年到 2013 年，它们似乎无处不在。
 
-[![](../Images/53b4b4b9d27ded5a6f3c323480aa24dd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1jS8Kdw9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/300/1%2AvbQwnO88xYer6uPqSUva1w.png)
+[![](img/53b4b4b9d27ded5a6f3c323480aa24dd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1jS8Kdw9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/300/1%2AvbQwnO88xYer6uPqSUva1w.png)
 
 <figcaption>iOS 6 Find My Friends app(2011)大量运用了 skeuomorphic 设计，以及当时苹果的大部分产品。</figcaption>
 
@@ -44,7 +44,7 @@ Skeuomorphism 是一种设计原则，其中阴影、渐变和纹理用于创建
 
 然而，到 2012 年，一个缓慢的迁移开始向一个更扁平的设计系统发展。在类似 [Metro UI](https://en.wikipedia.org/wiki/Metro_(design_language)) 和 [Material Design](https://en.wikipedia.org/wiki/Material_Design) 这样的设计语言的推动下，扁平化设计引入了更柔和、更统一的调色板，更薄的字体，以及使用阴影作为系统层次的工具，而不是强化超现实主义(被谷歌称为[“立面层次”](https://material.io/design/environment/elevation.html#elevation-hierarchy))。
 
-[![](../Images/4b2212163b7c1f9fbdaf9464e2cad74d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pAnDvPdQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/344/1%2A6D4JIJdPed8xjRigagieYQ.png) 
+[![](img/4b2212163b7c1f9fbdaf9464e2cad74d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pAnDvPdQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/344/1%2A6D4JIJdPed8xjRigagieYQ.png) 
 
 <figcaption>iOS 计算器:2011 年(skuomorphic)vs 2013 年(flat)</figcaption>
 
@@ -52,7 +52,7 @@ Skeuomorphism 是一种设计原则，其中阴影、渐变和纹理用于创建
 
 你可能对这个也很熟悉，因为它几乎无处不在。semiskeu 的一个很好的例子是 [Stripe 主页](http://stripe.com):
 
-[![](../Images/cde9eecb59d38556e9e94d9cded868f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ws7fRMHH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AJ7KSONL42WKfoA5Fo4GQUA.png)
+[![](img/cde9eecb59d38556e9e94d9cded868f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ws7fRMHH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AJ7KSONL42WKfoA5Fo4GQUA.png)
 
 你注意到了什么？
 
@@ -82,17 +82,17 @@ Skeuomorphism 是一种设计原则，其中阴影、渐变和纹理用于创建
 4.  永远不要使用纯黑色。纯的不透明黑色(#000)对于大多数网页来说往往过于刺眼。甚至这篇文章的字体颜色设置为 84%的不透明度。
 5.  **确保彩色组件不会相互邻接。**除非这两种颜色非常互补，否则通常两种相邻颜色的对比会产生一种两极分化的感觉，从而破坏页面的流动。如果一个导航条可能接触到一个彩色的英雄，选择一个透明的导航条背景。
 
-[![](../Images/d5e2ac51cfc76a44124090055178e6a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sNnWgY-E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ABfmhuHqa6Vuq12NnENTntg.png)
+[![](img/d5e2ac51cfc76a44124090055178e6a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sNnWgY-E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ABfmhuHqa6Vuq12NnENTntg.png)
 
-[![](../Images/6c0d09af88a6068499af92662544cc66.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8tXufYIw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AhsCOoLHntltn9xQ85va1Ow.png)
+[![](img/6c0d09af88a6068499af92662544cc66.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8tXufYIw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AhsCOoLHntltn9xQ85va1Ow.png)
 
-[![](../Images/ad2a0ca9e09ba0e334aabae749d4919a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0GOwSxda--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AVZZUGB6vARbB0JljrHdmSw.png) 
+[![](img/ad2a0ca9e09ba0e334aabae749d4919a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0GOwSxda--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AVZZUGB6vARbB0JljrHdmSw.png) 
 
 <figcaption>我写的第一个制作网站(2013 年)看起来就像 Windows XP 吐在一页纸上。它最大的设计错误是使用了太多的原色。与此同时，该项目的重新设计(2014 年初)过度使用了单一的原色，这同样是有害的。你的网站应该包含一种或两种原色，并为所有的正文内容使用灰度背景。到第三次重新设计时(2014 年末)，我已经吸取了教训。</figcaption>
 
 **例子**
 
-[![](../Images/6a8dc621829a49d34751b241ba964718.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t1CLFNOW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A_9xYvrjAESG6lLj4lgSQ4w.png)
+[![](img/6a8dc621829a49d34751b241ba964718.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t1CLFNOW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A_9xYvrjAESG6lLj4lgSQ4w.png)
 
 仅仅使用这五个简单的规则，我们就可以彻底地将这个黑蓝色的网页转变成一个更加美观的网站:
 
@@ -114,7 +114,7 @@ Skeuomorphism 是一种设计原则，其中阴影、渐变和纹理用于创建
 
 你觉得光源在哪里？
 
-[![](../Images/38b2bf4c262a261d1a8e44abfc3475a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IicxY9GK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A1GpXc2g2OaMZfUcEPXH8Bw.png)
+[![](img/38b2bf4c262a261d1a8e44abfc3475a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IicxY9GK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A1GpXc2g2OaMZfUcEPXH8Bw.png)
 
 这里有个提示:Stripe 使用的是径向光源。光线出现在元素的正上方，这解释了投影的低偏移和背景渐变中集中的浅绿色。
 
@@ -126,7 +126,7 @@ Skeuomorphism 是一种设计原则，其中阴影、渐变和纹理用于创建
 4.  始终将阴影的不透明度保持在 25%以下。宁可小心谨慎，也不要偏离你的设计。如果你使用的是深色背景，在某些情况下，你可能需要提高阴影的不透明度，以确保其可见性。
 5.  阴影并不总是需要黑色。在彩色表面上使用阴影时，使用非常暗或暗淡的背景色来改善阴影的混合通常是有利的。
 
-[![](../Images/ca485cab2134aa62345d4538992d669c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_ebVdKCp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AjIfU1feIFIUzHl799m0eaQ.png) 
+[![](img/ca485cab2134aa62345d4538992d669c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_ebVdKCp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AjIfU1feIFIUzHl799m0eaQ.png) 
 
 <figcaption>在大多数情况下，可以使用简单的单色渐变来创建光线。然而，互补色，如紫色和粉红色，也能起到同样的效果。 [Udacity](http://udacity.com) 在他们的许多口音成分中使用了这种方法。</figcaption>
 
@@ -134,7 +134,7 @@ Skeuomorphism 是一种设计原则，其中阴影、渐变和纹理用于创建
 
 现在让我们来运用这些规则。这里我们给两套平面名片增加了维度。主卡使用单调渐变来暗示和说明光线，而强调卡使用互补色来强调卡的标题:
 
-[![](../Images/4ca631fa645ca84f912e7ebc8018cf59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--02iORbyZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2An2zsiTK9VumkFYy7TX6qJw.png)
+[![](img/4ca631fa645ca84f912e7ebc8018cf59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--02iORbyZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2An2zsiTK9VumkFYy7TX6qJw.png)
 
 他们如何使用我们的经验法则？
 
@@ -144,7 +144,7 @@ Skeuomorphism 是一种设计原则，其中阴影、渐变和纹理用于创建
 *   每个阴影的不透明度小于 15%(规则 4)。
 *   主卡头像上的阴影是#30163E，不是#000(规则 5)。
 
-[![](../Images/68f3b0b51aef717bd4a03b96fcbdc688.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5A61iEef--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/869/1%2AplNLGc4iiPQ2fvXcliL-tg.png) 
+[![](img/68f3b0b51aef717bd4a03b96fcbdc688.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5A61iEef--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/869/1%2AplNLGc4iiPQ2fvXcliL-tg.png) 
 
 <figcaption>始终保持你光线的角度一致。请注意渐变和平面阴影是如何遵循同一角度的。</figcaption>
 
@@ -159,9 +159,9 @@ Skeuomorphism 是一种设计原则，其中阴影、渐变和纹理用于创建
 
 你可能已经发现自己在挖掘上面卡片中使用的字体。这种字体称为圆形，是当今公司最常用的字体之一。事实上，它是 Spotify 和 Airbnb 的官方字体:
 
-[![](../Images/672ec422ea96a1cac59c2d3507afe78e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O-cR6IeV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ANGFwQ6UvJjVfARjLEpS0KQ.png)
+[![](img/672ec422ea96a1cac59c2d3507afe78e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O-cR6IeV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ANGFwQ6UvJjVfARjLEpS0KQ.png)
 
-[![](../Images/8e2d51332936e008e0361e2f6dfc558c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A6wSvWaG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AUYcuD7k4zuPbbWq9YqfLLA.png)
+[![](img/8e2d51332936e008e0361e2f6dfc558c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A6wSvWaG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AUYcuD7k4zuPbbWq9YqfLLA.png)
 
 圆形字体源于一种叫做几何 sans 的无衬线字体系列。Geo-sans 具有干净的几何形状，并提供现代主义风格，使其成为现代设计师中最受欢迎的字体家族之一。在你的网页上使用 geo-sans 字体永远不会出错。其中最受欢迎的有:
 
@@ -178,7 +178,7 @@ Skeuomorphism 是一种设计原则，其中阴影、渐变和纹理用于创建
 
 **例子**
 
-[![](../Images/c46f557a4074b719d0c380c9417803f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QXs5wygj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AE15ljoIblP6QAMd-4Wtl8w.png)
+[![](img/c46f557a4074b719d0c380c9417803f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QXs5wygj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AE15ljoIblP6QAMd-4Wtl8w.png)
 
 使用这四条规则，我们可以将上述杂乱的文本转换成结构化的文章:
 
@@ -208,7 +208,7 @@ Skeuomorphism 是一种设计原则，其中阴影、渐变和纹理用于创建
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

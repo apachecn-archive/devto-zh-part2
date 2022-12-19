@@ -6,4 +6,4 @@
 
 [读下去💪](https://auth0.com/blog/application-metrics-with-express-gateway/?utm_source=dev&utm_medium=sc&utm_campaign=apigateway_microservices)
 
-[![Application Specific Metrics with Express Gateway](../Images/d4f840bd8258a632e1414590ce6766fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r5CFzVq4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/482bw156s5d5wdhxjzty.png)
+[![Application Specific Metrics with Express Gateway](img/d4f840bd8258a632e1414590ce6766fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r5CFzVq4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/482bw156s5d5wdhxjzty.png)

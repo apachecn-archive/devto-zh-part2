@@ -4,7 +4,7 @@
 
 我正在为非营利组织管理开发一个具有多租户功能的 [Rails 应用。这意味着应用程序的单个实例将支持多个独立的用户。今天，我们将讨论如何使用带有会话的](https://codehannah.nyc/theodora)[公寓](https://github.com/influitive/apartment)库来配置多租户。
 
-[![workflow](../Images/c572fb7596f2a674827404334b518660.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vx9T-YJ6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/rfUkqo9.png)
+[![workflow](img/c572fb7596f2a674827404334b518660.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vx9T-YJ6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/rfUkqo9.png)
 
 ## 什么是多租户？
 
@@ -16,7 +16,7 @@
 
 > 注意:多租户可以很棒，但有时你并不需要它。例如，如果您正在构建一个主要思想是共享数据的社交网络平台，那么您不需要使用多租户来分离数据。
 
-[![workflow](../Images/d4592f88aad31911163721f6186353c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OGuCvnCX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/HPBBuhI.jpg)
+[![workflow](img/d4592f88aad31911163721f6186353c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OGuCvnCX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/HPBBuhI.jpg)
 
 ## 公寓入门
 
@@ -80,7 +80,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 配置中间件
 
-[![workflow](../Images/9144378428cfdd140d89d991bbd79fa1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RupPCUTa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/R0DfSEO.jpg)
+[![workflow](img/9144378428cfdd140d89d991bbd79fa1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RupPCUTa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/R0DfSEO.jpg)
 
 使用公寓时，你通常会使用电梯。在公寓中，电梯根据每个请求帮助配置选定的租户。电梯是在 HTTP 请求到达 Rails 应用程序之前运行的机架中间件。使用子域多租户方法是非常常见的
 , Apartment 内置了对这种方法的支持。然而，由于我将在一个免费的

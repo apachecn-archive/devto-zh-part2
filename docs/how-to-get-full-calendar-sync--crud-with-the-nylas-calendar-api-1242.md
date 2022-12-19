@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nylas/how-to-get-full-calendar-sync--crud-with-the-nylas-calendar-api-1242>
 
-[![Calendar_API_2](../Images/e82999ec72b760653b1712fe3aec3035.png)T2】](https://www.nylas.com/blog/all-about-the-nylas-calendar-api-and-how-it-works)
+[![Calendar_API_2](img/e82999ec72b760653b1712fe3aec3035.png)T2】](https://www.nylas.com/blog/all-about-the-nylas-calendar-api-and-how-it-works)
 
 需要构建一个日历集成吗？只需四行代码，即可让您的应用实现实时、安全的日历同步。了解一下 [Nylas 日历 API](https://www.nylas.com/calendar-sync) 能有什么帮助。
 
@@ -20,7 +20,7 @@
 
 在本帖中，我们将看到如何通过深入研究日历 API 的一些特性和功能来避免这一切。
 
-[![Calendar_API_2](../Images/94a55417e43f914cbaf2f66727206daf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---V3g2tPs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/Calendar_API_2.png)
+[![Calendar_API_2](img/94a55417e43f914cbaf2f66727206daf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---V3g2tPs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/Calendar_API_2.png)
 
 **尼拉斯日历 API**
 
@@ -64,7 +64,7 @@ API 还通过分析跨团队可用性来接收生产力数据。它从日历中�
 
 我们提供三种核心语言的 SDK:Ruby、Node JS 和 Python。只需几行代码，您就可以更快地将 Nylas 集成到您的应用程序中，保持更高的代码质量，并腾出时间来构建核心功能。
 
-[![Calendar_API_3](../Images/280039e56b63e1fce659c2283e05bf5a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Lcmy56P9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/Calendar_API_3.png)T4】
+[![Calendar_API_3](img/280039e56b63e1fce659c2283e05bf5a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Lcmy56P9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/Calendar_API_3.png)T4】
 
 **安全与隐私**
 
@@ -85,4 +85,4 @@ Nylas 日历 API 是由开发人员为开发人员构建的，允许您共享团
 
 关于如何开始的更多信息，[点击这里](https://dashboard.nylas.com/register)。
 
-[![](../Images/b2982d7f24f4d708ba08deb729ed6387.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OY4ZuUH0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://track.hubspot.com/__ptq.gif%3Fa%3D3314308%26k%3D14%26r%3Dhttps%253A%252F%252Fwww.nylas.com%252Fblog%252Fall-about-the-nylas-calendar-api-and-how-it-works%26bu%3Dhttps%25253A%25252F%25252Fwww.nylas.com%25252Fblog%26bvt%3Drss)****
+[![](img/b2982d7f24f4d708ba08deb729ed6387.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OY4ZuUH0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://track.hubspot.com/__ptq.gif%3Fa%3D3314308%26k%3D14%26r%3Dhttps%253A%252F%252Fwww.nylas.com%252Fblog%252Fall-about-the-nylas-calendar-api-and-how-it-works%26bu%3Dhttps%25253A%25252F%25252Fwww.nylas.com%25252Fblog%26bvt%3Drss)****

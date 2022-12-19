@@ -14,11 +14,11 @@
 
 ## 功能开发
 
-[![Feature Development branching strategy](../Images/dc2424b37f34e3a79b7c65d8ff910b6b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0U9qjcGX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-us-west-2.amazonaws.com/my-blogresources/Feature_development_branching_strategy.png)
+[![Feature Development branching strategy](img/dc2424b37f34e3a79b7c65d8ff910b6b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0U9qjcGX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-us-west-2.amazonaws.com/my-blogresources/Feature_development_branching_strategy.png)
 
 ## Bug 修复
 
-[![Bug Fixing branching strategy](../Images/203dcbda4a00bc67261433bece494b93.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EvSsjCdN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-us-west-2.amazonaws.com/my-blogresources/Bug_fix_branching_strategy.png)
+[![Bug Fixing branching strategy](img/203dcbda4a00bc67261433bece494b93.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EvSsjCdN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-us-west-2.amazonaws.com/my-blogresources/Bug_fix_branching_strategy.png)
 
 **注意:**为了简单起见，我只添加了合并/释放时的主要提交点。
 

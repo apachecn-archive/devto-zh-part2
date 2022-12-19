@@ -32,7 +32,7 @@
 
 * * *
 
-[![salesman](../Images/5b1a94471c15c39685742d53f3c14f3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ChE-dQiV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://cdn.wall-pix.net/albums/entertainment-movies/00032673.Wolf.of.Wall.Street.jpg)
+[![salesman](img/5b1a94471c15c39685742d53f3c14f3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ChE-dQiV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://cdn.wall-pix.net/albums/entertainment-movies/00032673.Wolf.of.Wall.Street.jpg)
 
 #### 我们强在硬技，但也需要“软技之矛”。一个推销员，一个倡导者，一个代理人，我们需要一个有魅力的“牛头犬”,天生外向，和我们一样好，但有不同的技能为我们而战，代表我们说话。
 

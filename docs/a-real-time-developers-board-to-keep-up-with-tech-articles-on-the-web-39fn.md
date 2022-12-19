@@ -4,7 +4,7 @@
 
 # 我造了什么
 
-[![front page of app](../Images/bfc73905b0270dee0429c6e20d0404d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q5vQbAxA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/upxkyrjkz58s79aqwn55.PNG)
+[![front page of app](img/bfc73905b0270dee0429c6e20d0404d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q5vQbAxA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/upxkyrjkz58s79aqwn55.PNG)
 
 一个平台，开发者可以发布他们在网上发现的有用的文章，其他人可以看到这些文章，也可以收集可用的知识。它由推送通道 API 实时更新。
 

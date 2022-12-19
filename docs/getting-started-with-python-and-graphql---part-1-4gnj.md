@@ -16,7 +16,7 @@ GraphQL 是什么？
 
 现在，如果您想知道与该项目相关的项目标题和用户电子邮件？你的第一反应是什么？加入两个表格，获取项目标题和用户电子邮件。当然，它将提供预期的结果，但是 GraphQL 将能够检索相同的信息，而无需在服务器端实现联接或接收额外的数据。
 
-[![graphqlVsql.png](../Images/aac8ccab8785a11fd6ded2943ab9e2e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J0LktpsA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.moesif.com/blog/images/posts/technical/graphql/graphqlVsql.png)
+[![graphqlVsql.png](img/aac8ccab8785a11fd6ded2943ab9e2e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J0LktpsA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.moesif.com/blimg/posts/technical/graphql/graphqlVsql.png)
 
 > 作为一种强类型查询语言，它允许您确定需要什么数据，从而避免与未充分利用的数据相关的问题。
 
@@ -162,7 +162,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们从“根”对象开始，并在其上选择`events`字段。从事件返回的对象中，我们将选择`id`、`name`和`url`字段。
 
-[![grapql_query.png](../Images/82c29182060203175fbd0296f5d1c6bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lSmFOg1r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.moesif.com/blog/images/posts/technical/graphql/graphql_query.png)
+[![grapql_query.png](img/82c29182060203175fbd0296f5d1c6bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lSmFOg1r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.moesif.com/blimg/posts/technical/graphql/graphql_query.png)
 
 #### 创造你的第一次突变
 
@@ -170,7 +170,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 定义突变类似于我们定义查询的方式。我们可以定义您可以发送到服务器的数据。突变方法将使用用户发送的数据在数据库上创建一个事件。
 
-[![graphql_mutation.png](../Images/4bb93733926b038605639782330702df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0wOcaHbB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.moesif.com/blog/images/posts/technical/graphql/graphql_mutation.png)
+[![graphql_mutation.png](img/4bb93733926b038605639782330702df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0wOcaHbB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.moesif.com/blimg/posts/technical/graphql/graphql_mutation.png)
 
 再次尝试查询数据，您将看到新事件被创建。
 
@@ -182,15 +182,15 @@ Enter fullscreen mode Exit fullscreen mode
 
 只有事件 Id 和名称字段的最后 n 条记录:
 
-[![query_first_n.png](../Images/7bb2d805bf08516e864d76a4bb089ed7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8FjCmpEz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.moesif.com/blog/images/posts/technical/graphql/query_first_n.png)
+[![query_first_n.png](img/7bb2d805bf08516e864d76a4bb089ed7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8FjCmpEz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.moesif.com/blimg/posts/technical/graphql/query_first_n.png)
 
 在名称或 url 字段中搜索特定术语:
 
-[![query_search.png](../Images/1ca5bafd7e88211e68fc28257e602c60.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vy8rKf7R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.moesif.com/blog/images/posts/technical/graphql/query_search.png)
+[![query_search.png](img/1ca5bafd7e88211e68fc28257e602c60.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vy8rKf7R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.moesif.com/blimg/posts/technical/graphql/query_search.png)
 
 我们还可以一起搜索和过滤:
 
-[![query_filter_search.png](../Images/e0174cb2c07aa01e680792fa09c98fbc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TLT5bxrz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.moesif.com/blog/images/posts/technical/graphql/query_filter_search.png)
+[![query_filter_search.png](img/e0174cb2c07aa01e680792fa09c98fbc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TLT5bxrz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.moesif.com/blimg/posts/technical/graphql/query_filter_search.png)
 
 好吧，就让我玩玩吧！要查看运行中的 GraphQL，您可以从[这里](https://github.com/Moesif/moesif-graphene-django-example)运行这个示例应用程序
 

@@ -22,7 +22,7 @@
 
 # 什么是有意义的？
 
-[![A picture of plato](../Images/9e28923afa69cc23470878f4c63e7c70.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F0nEEzOV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eqseoelz4h012bgi21wn.png)
+[![A picture of plato](img/9e28923afa69cc23470878f4c63e7c70.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F0nEEzOV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eqseoelz4h012bgi21wn.png)
 
 这是一个很好的问题。在宇宙的背景下…很难说。但是在性能方面，我们有一个明确的答案:
 
@@ -40,7 +40,7 @@
 
 ## 什么是页面？
 
-[![A page in a book](../Images/2c3f487baae2ea1ff8c6b47c3b3f0e56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lY6YDc2C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ths6c93d1eaet97s60lz.png)
+[![A page in a book](img/2c3f487baae2ea1ff8c6b47c3b3f0e56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lY6YDc2C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ths6c93d1eaet97s60lz.png)
 
 从用户的角度来看,“页面”具有以下内容:
 
@@ -89,7 +89,7 @@
 
 ## 谁是我们的“用户”？
 
-[![The game of guess who](../Images/56708e259910934bc07b488512e4141d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xBLh38M9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6he9h2alwy8g8vdbirkp.png)
+[![The game of guess who](img/56708e259910934bc07b488512e4141d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xBLh38M9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6he9h2alwy8g8vdbirkp.png)
 
 谁是你的用户可能是显而易见的，但也可能很难确定。有许多变量需要考虑:用户的 cpu 速度是快还是慢，用户的互联网连接速度是快还是慢。他们可能是常客，也可能是第一次。所有这些因素都会影响整体体验，衡量这些因素以更好地了解性能非常重要。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/carloslfu/tackling-ui-complexity-with-state-machines-3kd8>
 
-[![A simple on-off state machine](../Images/c5413673fd91a07300e70ae740bf1dd4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HDHOuum0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gq487rt6bjrcbupaomyh.png)
+[![A simple on-off state machine](img/c5413673fd91a07300e70ae740bf1dd4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HDHOuum0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gq487rt6bjrcbupaomyh.png)
 
 我会告诉你我的故事，也许也是你的…
 
@@ -24,7 +24,7 @@
 
 几个月前，我被重新分配到第一个解决 bug 的应用程序，你知道，我应该弄清楚这些天我的想法如何。
 
-[![Batman interesting meme](../Images/23f3115b7b944f084f66ccb588d90724.png)T2】](https://i.giphy.com/media/a5viI92PAF89q/giphy.gif)
+[![Batman interesting meme](img/23f3115b7b944f084f66ccb588d90724.png)T2】](https://i.giphy.com/media/a5viI92PAF89q/giphy.gif)
 
 我一直认为我缺少了一些东西，一些没有扩展和过时的 UI 规范文档的解决方案。能让我和其他人更快地抓住想法，花更少的时间理解代码。是的，我是对的，最后，我找到了。
 
@@ -38,7 +38,7 @@
 
 有了状态图，您就有了一种简单且易于管理的方法，通过使用图表和一些结构来组织这种逻辑。这给了我们推理复杂 UI 流的能力，同时防止了意外行为的发生。仅供参考，这种形式主义在美国宇航局用于火星科学实验室任务。
 
-[![Taken from the NASA gallery](../Images/d5a8cf20502e1ac97dd6402e49f5c9db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1CnE3fhg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b5qmfaw7fm1gzjrtue43.jpeg)
+[![Taken from the NASA gallery](img/d5a8cf20502e1ac97dd6402e49f5c9db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1CnE3fhg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b5qmfaw7fm1gzjrtue43.jpeg)
 
 没错。好奇号使用状态图！😮 😎
 

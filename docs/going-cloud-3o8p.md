@@ -27,7 +27,7 @@
 
 现在 TMUX 出现了，像一个来自黑暗的救世主。这正是我需要的解决方案，甚至更多。老实说，任何使用过 tmux 的人都知道它有多棒，我向每个人推荐它来尝试一下。它用于在一个控制台窗口中创建多个终端。把 terminator 用在控制台中，而不是用在 gui 上。
 
-来自 tecmint 的 [![TMUX](../Images/ca1184c0a4d1d9e5321bbf818d6408ad.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NnBHzZJQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.tecmint.com/wp-content/uploads/2016/01/Tmux-Manage-Multiple-Linux-Terminals.png) 
+来自 tecmint 的 [![TMUX](img/ca1184c0a4d1d9e5321bbf818d6408ad.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NnBHzZJQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.tecmint.com/wp-content/uploads/2016/01/Tmux-Manage-Multiple-Linux-Terminals.png) 
 图片，查看他们的 [tmux 文章](https://www.tecmint.com/tmux-to-access-multiple-linux-terminals-inside-a-single-console/)以深入了解。
 
 TMUX 启动一个会话，每个会话包含一些窗口，每个窗口可以分成多个窗格。TMUX 会话不需要在你关闭终端窗口时关闭，它们可以被暂停到后台。这意味着我甚至不需要在每次需要工作时都启动一个新会话，我只需要在克隆完回购后创建一个会话。现在每当我 ssh 的时候，我就可以打开那个会话，开始我的项目。

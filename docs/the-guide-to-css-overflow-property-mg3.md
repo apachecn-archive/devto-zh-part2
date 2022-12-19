@@ -53,7 +53,7 @@ div {
 } 
 ```
 
-[![overflow_visible](../Images/dee0bda98d88f0c29d2bc20acb85099e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rNv3v5sN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/03/overflow_visible.png)
+[![overflow_visible](img/dee0bda98d88f0c29d2bc20acb85099e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rNv3v5sN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/03/overflow_visible.png)
 
 在上面的例子中，我已经将**溢出设置为可见的**，内容**溢出**到包含框的外面。
 
@@ -77,7 +77,7 @@ div {
 } 
 ```
 
-[![overflow_hidden](../Images/17afa52d9b4ea4666679671417190401.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1aHZhZaP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/03/overflow_hidden.png)
+[![overflow_hidden](img/17afa52d9b4ea4666679671417190401.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1aHZhZaP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/03/overflow_hidden.png)
 
 在第二个例子中，我将**溢出属性设置为隐藏的**。内容是**剪辑过的**和**没有滚动条**可见。
 
@@ -101,7 +101,7 @@ div {
 } 
 ```
 
-[![overflow_scroll-](../Images/35e354894199fdff58f9935a46c2705a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T5Y5jv_7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/03/overflow_scroll-.png)
+[![overflow_scroll-](img/35e354894199fdff58f9935a46c2705a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T5Y5jv_7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/03/overflow_scroll-.png)
 
 在第三个例子中，我设置了**溢出属性来滚动**。在这种情况下，内容**溢出**到容器外，**滚动条出现**。
 
@@ -126,7 +126,7 @@ div {
 } 
 ```
 
-[![overflow_y](../Images/5cc8a21222d8c60950070c0e14f423f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RsfuLakt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/03/overflow_y.png)
+[![overflow_y](img/5cc8a21222d8c60950070c0e14f423f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RsfuLakt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/03/overflow_y.png)
 
 最后，您可以看到 **overflow-y** 属性的用法。你只看到**垂直滚动条可见**，而**水平滚动条被隐藏**。
 

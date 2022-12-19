@@ -8,11 +8,11 @@
 
 这是 AMAs 现在将有一个家的侧边栏小部件。
 
-[![](../Images/75326ad7a19e9a8ff5d95cfc5e467ff4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ljCx73kP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5vihu9cvbmnby1xtsjop.png)
+[![](img/75326ad7a19e9a8ff5d95cfc5e467ff4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ljCx73kP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5vihu9cvbmnby1xtsjop.png)
 
 把你想讲的有趣的事作为标题。一个很好的例子是:
 
-[![rapidnerd](../Images/c3aa4134eea74a2fb97ebb3e00155b4d.png)](/rapidnerd) [## 我从软件工程转到游戏开发，问我什么都行。
+[![rapidnerd](img/c3aa4134eea74a2fb97ebb3e00155b4d.png)](/rapidnerd) [## 我从软件工程转到游戏开发，问我什么都行。
 
 ### 乔治马尔 8 月 28 日 171 分钟阅读
 

@@ -12,31 +12,31 @@
 
 滚动时出现的彩色内容窗格。
 [查看 mod](https://anymod.com/mod/bkkkk?v=20)
- [![](../Images/8295834ceab628cb0eea431fe4a570d1.png)](https://anymod.com/mod/bkkkk?v=20) 
+ [![](img/8295834ceab628cb0eea431fe4a570d1.png)](https://anymod.com/mod/bkkkk?v=20) 
 
 ### 多张图片上传
 
 轻松上传图片，与 Cloudinary 配合使用。
 [查看 mod](https://anymod.com/mod/dbbbr?v=20)
- [![](../Images/81e6bad40f056949a41467cf551aea55.png)](https://anymod.com/mod/dbbbr?v=20) 
+ [![](img/81e6bad40f056949a41467cf551aea55.png)](https://anymod.com/mod/dbbbr?v=20) 
 
 ### 订阅章节(MailChimp)
 
 允许访问者订阅您的 MailChimp 列表。
 [查看 mod](https://anymod.com/mod/rdddb?v=20)
- [![](../Images/2ed6c6c12812bb814d19876fb8d47ed2.png)](https://anymod.com/mod/rdddb?v=20) 
+ [![](img/2ed6c6c12812bb814d19876fb8d47ed2.png)](https://anymod.com/mod/rdddb?v=20) 
 
 ### 不屑一顾的警惕
 
 可编辑的警告部分，通知用户你想去的地方。
 [查看 mod](https://anymod.com/mod/lrrra)
- [![](../Images/8271127fd9385d4c31bb2fe50982bb6c.png)](https://anymod.com/mod/lrrra) 
+ [![](img/8271127fd9385d4c31bb2fe50982bb6c.png)](https://anymod.com/mod/lrrra) 
 
 ### 脸书喜欢按钮
 
 经典的喜欢按钮，没有麻烦。
 [查看 mod](https://anymod.com/mod/kbbbm)
- [![](../Images/73fe1249a874d531d594e49ddaf21c53.png)](https://anymod.com/mod/kbbbm) 
+ [![](img/73fe1249a874d531d594e49ddaf21c53.png)](https://anymod.com/mod/kbbbm) 
 
 * * *
 

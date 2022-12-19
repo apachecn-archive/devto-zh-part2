@@ -10,7 +10,7 @@
 
 数据科学:我喜欢数据，我认为它能给你带来令人着迷的洞察力。我已经开始了:
 
-[![ericbonfadini image](../Images/527958334dad5ddbac2e7a5e9e8b1a7c.png)](/ericbonfadini) [## 在 Spotify 上找到我最喜欢的新歌
+[![ericbonfadini image](img/527958334dad5ddbac2e7a5e9e8b1a7c.png)](/ericbonfadini) [## 在 Spotify 上找到我最喜欢的新歌
 
 ### 埃里克·邦法迪尼
 

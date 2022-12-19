@@ -6,7 +6,7 @@
 
 首先，如果你不知道什么是 favicon，不要担心！我直到最近才知道。它是你选项卡上的小缩略图。如果你使用谷歌浏览器，它看起来是这样的:
 
-[![Favicons!](../Images/73e4cb69419125b4791fb29e41c17d11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tU_3VSN2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/pickleat/dev.to/master/Screen%2520Shot%25202018-11-08%2520at%25201.22.49%2520PM.png)
+[![Favicons!](img/73e4cb69419125b4791fb29e41c17d11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tU_3VSN2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/pickleat/dev.to/master/Screen%2520Shot%25202018-11-08%2520at%25201.22.49%2520PM.png)
 
 我一直在为网络编程课程 CS50 做一个项目 1。任务:用 Flask 和 PostgreSQL 建立一个书评网站。当我在做的时候，我有点恼火我的网站看起来不是很专业。为了便于格式化，我使用了 Bootstrap，但是它看起来并不好，只比默认的好一点点。我决定添加一个 favicon 会有所帮助，但我不想弄乱制作一个标志或找到一张图片并缩放它，所以我想。也许表情符号会有用？的确如此，太不可思议了！
 
@@ -14,7 +14,7 @@
 
 of my template.html. Here's how the code ended up looking:
 
-[![Code Screenshot](../Images/5712873a658dfa2a89d006df3a36ee71.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QAh1d_qQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/pickleat/dev.to/master/Screen%2520Shot%25202018-11-08%2520at%25201.34.58%2520PM.png)
+[![Code Screenshot](img/5712873a658dfa2a89d006df3a36ee71.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QAh1d_qQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/pickleat/dev.to/master/Screen%2520Shot%25202018-11-08%2520at%25201.34.58%2520PM.png)
 
 这增加了一个伟大的触摸，如果一个用户像我一样，一直有 15 个标签打开，网站图标，会帮助他们找到正确的页面。
 
@@ -33,7 +33,7 @@ of my template.html. Here's how the code ended up looking:
 
 这是它的样子！
 
-[![Look at the icon in the tab!](../Images/b7aa0c50dd59b04735d3de2d4e126ac9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m0BTaTyq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/pickleat/dev.to/master/Screen%2520Shot%25202018-11-08%2520at%25201.36.46%2520PM.png)
+[![Look at the icon in the tab!](img/b7aa0c50dd59b04735d3de2d4e126ac9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m0BTaTyq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/pickleat/dev.to/master/Screen%2520Shot%25202018-11-08%2520at%25201.36.46%2520PM.png)
 
 正如你所看到的，我仍然在本地主机上测试，还没有完全完成这个项目，但它会在我的[个人资料网站](https://pickleat.github.io/)上，以及它自己的[回购](https://github.com/pickleat/BookReviewSite)上。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/acoh3n/that-time-when-programming-saved-my-life-4454>
 
-[![banner](../Images/b06480c39df458bbb0c9c3dbac9ea59f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T3PaVF_s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zxjyjcdh14jey40zcbrk.jpg)
+[![banner](img/b06480c39df458bbb0c9c3dbac9ea59f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T3PaVF_s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zxjyjcdh14jey40zcbrk.jpg)
 
 那是 2000 年，我是以色列国防军的一名士兵，开始了我强制性 3 年服役期的第二年。
 
@@ -16,7 +16,7 @@
 
 由于我对 Access 一无所知，下一次我在部队休假时，我就去我家附近最近的书店，买了我能找到的关于这个主题的最大的书。我想是这个(希伯来语):
 
-[![MS Access Book](../Images/2341a620b93f101da175ca3db253f947.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VUHEp6f4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fusbznjzerw5vu205sx6.jpg)
+[![MS Access Book](img/2341a620b93f101da175ca3db253f947.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VUHEp6f4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fusbznjzerw5vu205sx6.jpg)
 
 现在我只需要一个项目。
 

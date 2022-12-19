@@ -8,7 +8,7 @@
 
 你终于说服了你的项目经理，花一点空闲时间来研究编写自动化 UI 测试真的可以减少 bug。
 
-[![Taskboard with single task in todo: 'Spike: UI testing functionality'](../Images/73ae2a37df4552d5a92601d7503152cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0ODt5KRw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kevinlamping.com/content/images/2018/05/Screen-Shot-2018-05-17-at-3.27.00-PM.png)
+[![Taskboard with single task in todo: 'Spike: UI testing functionality'](img/73ae2a37df4552d5a92601d7503152cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0ODt5KRw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kevinlamping.com/conteimg/2018/05/Screen-Shot-2018-05-17-at-3.27.00-PM.png)
 
 当你坐在那里，看着任务板上的单个项目，你内心有一种对整件事的痛苦感觉。
 
@@ -61,7 +61,7 @@
 
 为了开始我的测试自动化工作，我必须“垂直地”思考。
 
-[![Depiction of all the parts of a test architecture, including build system and test reporting](../Images/ffdc427b569061a1c53e0f806ed49236.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XDGqpKIB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kevinlamping.com/content/images/2018/05/Screen-Shot-2018-05-17-at-3.40.00-PM.png)
+[![Depiction of all the parts of a test architecture, including build system and test reporting](img/ffdc427b569061a1c53e0f806ed49236.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XDGqpKIB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kevinlamping.com/conteimg/2018/05/Screen-Shot-2018-05-17-at-3.40.00-PM.png)
 
 如果我开始写十几个测试，它们都不能满足标准 2 和 3，增加了它们变得无用的可能性。
 

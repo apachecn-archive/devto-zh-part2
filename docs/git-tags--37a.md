@@ -17,7 +17,7 @@
 3.  选择创建标签
 4.  命名您的标签
 
-[![Right clicking on the commit in Git history](../Images/f6a44efca551a354615b7b5df4b79df6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3_wnpEqS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-tag/method1.png)
+[![Right clicking on the commit in Git history](img/f6a44efca551a354615b7b5df4b79df6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3_wnpEqS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-tag/method1.png)
 
 ### 第二种方法
 
@@ -28,23 +28,23 @@
 
 注意:这将在分支所在的同一个提交上创建一个标记。
 
-[![Right clicking on the branch in the sidebar](../Images/d059efee5d1faa907af206b842cf9c89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MUxfMQU7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-tag/method2.png)
+[![Right clicking on the branch in the sidebar](img/d059efee5d1faa907af206b842cf9c89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MUxfMQU7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-tag/method2.png)
 
 ## 删除标签
 
 右击标签并选择“删除标签”。
 
-[![Contextual menu when right clicking on a tag in the sidebar](../Images/d0e5fe68cd30afd0c8cdee22cfec0e24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BkesT4yV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-tag/delete.png)
+[![Contextual menu when right clicking on a tag in the sidebar](img/d0e5fe68cd30afd0c8cdee22cfec0e24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BkesT4yV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-tag/delete.png)
 
 选择“从远程存储库中删除标记”,也从您的远程存储库中删除标记。
 
-[![Choice to delete tag from remote](../Images/58bb557bf892d4b86f7193f712d6cafe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dNHRif-U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-tag/delete2.png)
+[![Choice to delete tag from remote](img/58bb557bf892d4b86f7193f712d6cafe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dNHRif-U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-tag/delete2.png)
 
 ## 推送标签
 
 当您将更改推送到遥控器时，您可以选择`push all tags`将标签推送到遥控器。默认情况下，此选项处于选中状态。
 
-[![Choice to push tag into remote](../Images/5af1b55834959cdc473b784b308123d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--STmUgeO7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-tag/push.png)
+[![Choice to push tag into remote](img/5af1b55834959cdc473b784b308123d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--STmUgeO7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-tag/push.png)
 
 * * *
 

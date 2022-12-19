@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/scriptify/crana---react--nodejs-apps-in-under-a-second-3d70>
 
-[![](../Images/b96904e9ccc11589d4d597681a18276a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cjvO5CZ_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m46kkqxivtkg8ynre7cd.png)
+[![](img/b96904e9ccc11589d4d597681a18276a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cjvO5CZ_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m46kkqxivtkg8ynre7cd.png)
 
 我利用 Hacktoberfest 的机会，试图发布我最近正在做的一个项目:[Crana](https://github.com/scriptify/crana)(**CR**eat**A**T6】Node**A**PP)，这是一个 CLI 工具，它使开发具有 NodeJS 后端和 React 前端的应用程序变得轻而易举。
 

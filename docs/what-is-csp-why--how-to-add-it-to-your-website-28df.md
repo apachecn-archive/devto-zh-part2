@@ -8,7 +8,7 @@
 
 由于 CSP 可以阻止已知的最常见的攻击之一，您认为每个人都会使用它，对吗？没有。在访问量排名前 100 万的网站中，只有不到 2.5%的网站使用它。
 
-[![Dilbert Comic. Click link for a transcript.](../Images/4d6012a2577660f1e6234c9aba7ba70b.png)T2】](http://dilbert.com/strip/2018-05-08)
+[![Dilbert Comic. Click link for a transcript.](img/4d6012a2577660f1e6234c9aba7ba70b.png)T2】](http://dilbert.com/strip/2018-05-08)
 
 对于大多数网站来说，安全是事后才想到的，直到有人窃取了他们所有的数据。然后公众在社交媒体上愤怒。典型的公司反应是解雇某人&承诺把安全放在第一位，同时在背后交叉手指。
 
@@ -26,7 +26,7 @@ Content-Security-Policy-Report-Only: default-src 'none'; form-action 'none'; fra
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Once you've added the CSP to your website, you can use your browser developer tools to view it & any other headers.](../Images/c8de354f7a6e0a5e0ff8ff5e981bb5df.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---qiupeWV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lrxxzeaxqb2mzlswuvmz.png) 在浏览器的开发者工具中查看你的页面时，你的 CSP 应该和你的其他页眉一起出现。
+[![Once you've added the CSP to your website, you can use your browser developer tools to view it & any other headers.](img/c8de354f7a6e0a5e0ff8ff5e981bb5df.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---qiupeWV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lrxxzeaxqb2mzlswuvmz.png) 在浏览器的开发者工具中查看你的页面时，你的 CSP 应该和你的其他页眉一起出现。
 
 如果我们没有将其设置为报告模式，您将会看到*“CSP 的全部功能！”*换句话说，CSP 会屏蔽你网站的大部分内容。
 

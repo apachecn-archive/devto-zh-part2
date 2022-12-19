@@ -14,7 +14,7 @@
 
 我们开始...嗯，开始的时候。准确的说是在 [start.spring.io](//start.spring.io) 。这个 URL 将把你带到**Spring Initializr**——一个方便的小网站，在那里你可以混合和匹配库和包来适应你的项目。在我们的例子中，我们希望拥有 **Web** 、 **JPA** 和 **H2** 包:
 
-[![Spring Initializr Setup](../Images/83e15d63f12551fac60219713a405571.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fcdK8ld9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4ws08d21qq4qpbcasawy.png)
+[![Spring Initializr Setup](img/83e15d63f12551fac60219713a405571.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fcdK8ld9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4ws08d21qq4qpbcasawy.png)
 
 我还将项目名称从“com.example”更改为“org.example”，并将项目类型从 **Maven** 更改为 **Gradle** 。您也可以很好地使用 Maven，但是在本指南中，我将使用 Gradle。一旦你点击“生成项目”按钮，你将得到一个*。zip 文件。将其解压缩到您选择的目录中；这将成为我们的项目目录。在里面，你会发现:
 

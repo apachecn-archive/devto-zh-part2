@@ -32,19 +32,19 @@ Mozilla 的 MDN 文档描述如下:
 
 SOP 阻止了以下相互作用:
 
-[![Different host SOP violation](../Images/6079e974bb51fc898d86ec67cce7b084.png)T2】](///assets/sop_csp/sop_host_malicious-8fe28dbbd55b526a7440ab6bc9793aabdacaf908f26fc69d1ed248a53e83c487.svg)
+[![Different host SOP violation](img/6079e974bb51fc898d86ec67cce7b084.png)T2】](///assets/sop_csp/sop_host_malicious-8fe28dbbd55b526a7440ab6bc9793aabdacaf908f26fc69d1ed248a53e83c487.svg)
 
 由于 mysite.com 和 malicious.com 显然是不同的主机，SOP 阻止了这些不同来源之间的数据共享。
 
-[![Different protocol SOP violation](../Images/be3205395efd37f01e19fc32ce03b2c8.png)T2】](///assets/sop_csp/sop_protocol-22271c4ec18686d544c9eac0b72ab7e03faa444214bd6fbd57e6738765544b64.svg)
+[![Different protocol SOP violation](img/be3205395efd37f01e19fc32ce03b2c8.png)T2】](///assets/sop_csp/sop_protocol-22271c4ec18686d544c9eac0b72ab7e03faa444214bd6fbd57e6738765544b64.svg)
 
 即使我们现在在同一个主机下，但是 HTTPS 和 HTTP 是不同的协议，所以 SOP 阻止了数据交互，把这两个原点分开了。
 
-[![Different port SOP violation](../Images/01c44f6cf8195143c914c4b50c8c4008.png)T2】](///assets/sop_csp/sop_port-dad1f75508d508aba662e55a343f3d489fac4bbbbe073b7431651ca0cbb0948b.svg)
+[![Different port SOP violation](img/01c44f6cf8195143c914c4b50c8c4008.png)T2】](///assets/sop_csp/sop_port-dad1f75508d508aba662e55a343f3d489fac4bbbbe073b7431651ca0cbb0948b.svg)
 
 由于 443 和 4443 是不同的端口，SOP 阻断了数据交互，将这两个原点分开。
 
-[![Different port SOP violation](../Images/dea0f29507754956f9d34234532ade1e.png)T2】](///assets/sop_csp/sop_host_mysite-15d7cd99be2c26146fee697651737113509150b0006b986e0f6a9d1422cdb0ae.svg)
+[![Different port SOP violation](img/dea0f29507754956f9d34234532ade1e.png)T2】](///assets/sop_csp/sop_host_mysite-15d7cd99be2c26146fee697651737113509150b0006b986e0f6a9d1422cdb0ae.svg)
 
 与第一个例子类似，子域被认为是独立的主机。SOP 将阻止两个子域之间的数据交互。
 
@@ -66,15 +66,15 @@ Enter fullscreen mode Exit fullscreen mode
 
 由于**mysite.com**是**a.mysite.com**的超级域，所以允许这个设置(同样适用于**b.mysite.com**)。禁止您将文档的域更改为您无法控制的域。在站点**上运行`document.domain = "google.com"`a.mysite.com**将会失败。
 
-[![SOP superdomain violation prevented](../Images/6211adceeb1d72d643459407a93b290e.png)T2】](///assets/sop_csp/sop_domain_violation-7cc8313a271f3758b31964d4c299d4b2b494551672574722d1ad340cfe58d687.svg)
+[![SOP superdomain violation prevented](img/6211adceeb1d72d643459407a93b290e.png)T2】](///assets/sop_csp/sop_domain_violation-7cc8313a271f3758b31964d4c299d4b2b494551672574722d1ad340cfe58d687.svg)
 
 如果**a.mysite.com**和**b.mysite.com**都将其文档的域更改为同一个超级域，突然两者共享相同的主机、端口和协议，SOP 将允许数据共享。
 
-[![SOP superdomain escalation successful](../Images/c0ada4c68f40d9abc354ed3ea4897af7.png)T2】](///assets/sop_csp/sop_domain_changed-100e07566b6ad547819e9bdd235f6e932c60aef5f8803a4a57740536462c73e3.svg)
+[![SOP superdomain escalation successful](img/c0ada4c68f40d9abc354ed3ea4897af7.png)T2】](///assets/sop_csp/sop_domain_changed-100e07566b6ad547819e9bdd235f6e932c60aef5f8803a4a57740536462c73e3.svg)
 
 请注意，该站点的端口由浏览器单独持有。每当调用来设置`document.domain`的值时，SOP 的域端口值被设置为`null`。这样做是为了防止**a.mysite.com**想要修改**mysite.com**上的数据，因此**a.mysite.com**将其`document.domain`更改为`mysite.com`。主机值现在匹配了，但是**mysite.com**可能不想给子域权限来读取或修改它的内容。由于在**a.mysite.com**上进行了设置`document.domain`的调用，该子域的端口值被设置为`null`。如果**mysite.com**没有类似地调用 set `document.domain = "mysite.com"`(是的，尽管已经是`mysite.com`)，那么【a.mysite.com】T21(`null`)和**mysite.com**(大概是 80 或 443)的端口值将不匹配，确保 SOP 继续阻止数据共享。
 
-[![SOP superdomain escalation failed](../Images/838b5be1b138f502fb7e70aed6f07264.png)T2】](///assets/sop_csp/sop_domain_failed-85e47dcceeed5dd584742bcfcc9c25281872e452a22cb8f4076c505ee4ceb5b8.svg)
+[![SOP superdomain escalation failed](img/838b5be1b138f502fb7e70aed6f07264.png)T2】](///assets/sop_csp/sop_domain_failed-85e47dcceeed5dd584742bcfcc9c25281872e452a22cb8f4076c505ee4ceb5b8.svg)
 
 ## 那么 SOP 允许什么呢？
 

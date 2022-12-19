@@ -132,7 +132,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是 PDF 中的第二页以供比较:
 
-[![dracula-2nd-page](../Images/af2b041e6f75d0471d6b4b68c0308ceb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wmvNMfLH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/my0siuy1uhf2wwlsmn0i.png)
+[![dracula-2nd-page](img/af2b041e6f75d0471d6b4b68c0308ceb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wmvNMfLH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/my0siuy1uhf2wwlsmn0i.png)
 
 从输出中我们可以看到，每个页面都是一个以`page`为类的`div`，然后我们将每个段落作为段落元素`p`的内部文本
 

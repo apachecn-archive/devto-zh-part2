@@ -6,7 +6,7 @@
 
 # 规划
 
-[![Scrum Board](../Images/124dbea0a1fb1c377f9a2fa6d6c60ec7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lnDD9nb1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ipmw9wmudfcygl53qzrc.png)
+[![Scrum Board](img/124dbea0a1fb1c377f9a2fa6d6c60ec7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lnDD9nb1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ipmw9wmudfcygl53qzrc.png)
 
 首先，我跳进 Trello，建立一个 scrum 板来跟踪我构建的各个部分。我试着把我的项目分解成后端任务、前端任务、数据库任务和部署任务。在很大程度上，大多数事情都属于这个项目的前端部分，因为大部分推动器逻辑都属于这个区域。
 
@@ -26,7 +26,7 @@
 
 我的许多测试和试验都是通过将这些特性加载到动作面板中，然后进行试验。一旦我有了`playGame`函数，组件将在需要时移入和移出`ActionsPanel`。这是一个大概的样子(注意还有一堆 css 在玩):
 
-[![Sneak Peak](../Images/b164ecbdf9e9d524dc64c6594b95d727.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vw-DjHL8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dvegwzrstnpmc87m8qxo.png)
+[![Sneak Peak](img/b164ecbdf9e9d524dc64c6594b95d727.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vw-DjHL8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dvegwzrstnpmc87m8qxo.png)
 
 请注意我在右侧的`ActionsPanel`中测试的所有随机动作😂
 

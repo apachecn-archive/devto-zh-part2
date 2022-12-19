@@ -4,7 +4,7 @@
 
 *最初发表于我的博客:* [你所需要的只是后端](http://allyouneedisbackend.com/blog/2018/09/21/software-firefighting-running-production-software/)。
 
-[![Software Firefighting](../Images/d273633b76216d61f7ed19325e987fba.png "Software Firefighting")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0W7Dsr8m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vlrx4ptwkk57rf8sq428.jpg)
+[![Software Firefighting](img/d273633b76216d61f7ed19325e987fba.png "Software Firefighting")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0W7Dsr8m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vlrx4ptwkk57rf8sq428.jpg)
 
 你建造它，你经营它。这个口号传遍了世界各地的软件工程团队。它工作得很好——成功的团队不仅关心编写好的代码，还关心代码如何服务于生产环境中的最终用户。
 

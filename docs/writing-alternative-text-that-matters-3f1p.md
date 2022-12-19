@@ -6,7 +6,7 @@
 
 添加替代文本可能意味着您不会在可访问性扫描中遇到关于缺少替代文本的恼人错误，但这并不一定意味着您的图像有更好的含义。有时候，一个空的 alt 标签实际上是一个更易访问的图像所需要的。你有没有想象出令人惊叹的表情符号和/或 gif？
 
-[![Gif of Chris Pratt doing a gesture about mind blowing.](../Images/b9fe72e752408f4e6413368d342ee945.png)T2】](https://i.giphy.com/media/l0NhZ0aUSE8fXag12/giphy.gif)
+[![Gif of Chris Pratt doing a gesture about mind blowing.](img/b9fe72e752408f4e6413368d342ee945.png)T2】](https://i.giphy.com/media/l0NhZ0aUSE8fXag12/giphy.gif)
 
 这就是我在了解它的时候的感受，它让我意识到我给了别人多少关于修复 alt 文本的糟糕建议。希望这篇博文之后我问心无愧！我曾经认为每一张图片都必须有可供选择的文本，并没有花太多心思去写它。我很乐意给出我的一些建议，不仅可以帮助你避免易访问性错误，还可以更批判性和战略性地思考如何给视障用户最好的体验。
 
@@ -20,7 +20,7 @@
 
 另一个我可以想到替代文本为空的时候是当我们使用图像图标的时候。注意，当我说图像图标时，我并不是指使用像字体牛逼这样的图标字体。以下面的例子为例:
 
-[![List of Features in a menu decorated by icons](../Images/ca711c6958721784a5e233c1539f1335.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---wpCZMD2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/v1/./https://www.a11ywithlindsey.com/static/powerful-features-icon-example-53dd8f0d8b4b6cb7da69b4a384387652-edb60.png) 
+[![List of Features in a menu decorated by icons](img/ca711c6958721784a5e233c1539f1335.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---wpCZMD2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/v1/./https://www.a11ywithlindsey.com/static/powerful-features-icon-example-53dd8f0d8b4b6cb7da69b4a384387652-edb60.png) 
 来源:[重构 UI](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 
 在这种情况下，我们不使用这些图像图标来传达任何意义。这只是为了*修饰*在“强大功能”列表中的每一个列表项。它增加了一些设计的活力，但并没有真正增加任何视觉障碍用户可能会错过的语法价值。
@@ -61,7 +61,7 @@
 
 现在我们来看一个**描述某物**的例子。我真的很喜欢关注美食博主(虽然我通常讨厌他们的页面加载时间太长，哈哈)，看看他们有什么食谱。诚然，这不是我关注的美食博客，但我谷歌了“最佳核仁巧克力饼食谱”，这是我找到的第一个食谱。神圣的鳄梨色拉酱，这些核仁巧克力饼从图片上看是不是很棒！
 
-[![Gooey, fudgy chocolate brownies with melted chocolate dripping throughout](../Images/4e7e8ad1c841b7758ae5980ca524092e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jZgIbmyl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.a11ywithlindsey.com/static/Best-Fudgiest-Brownies-IMAGE-1001-8116aa33c5f1db6bcca6a67f62897427-8bd51.jpg) 
+[![Gooey, fudgy chocolate brownies with melted chocolate dripping throughout](img/4e7e8ad1c841b7758ae5980ca524092e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jZgIbmyl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.a11ywithlindsey.com/static/Best-Fudgiest-Brownies-IMAGE-1001-8116aa33c5f1db6bcca6a67f62897427-8bd51.jpg) 
 来源:[咖啡厅美食](https://cafedelites.com/worlds-best-fudgiest-brownies/)
 
 你将如何创建这个图像的替代文本？这是一个非常有趣的发挥创造力的时间！因为这是一个美食博客，你可能会想用一种听起来很开胃的方式来描述它，让你觉得“我不在乎是否减少糖的摄入量，我必须现在就做那些布朗尼！”

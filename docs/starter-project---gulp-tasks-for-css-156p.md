@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/starbist/starter-project---gulp-tasks-for-css-156p>
 
-[![Gulp tasks for CSS cover](../Images/6549f3aee850d4f67b101767866f355c.png)T2】](//res.cloudinary.com/starbist/image/upload/v1524384850/starter-project-gulp-tasks-for-css_shybn0.png)
+[![Gulp tasks for CSS cover](img/6549f3aee850d4f67b101767866f355c.png)T2】](//res.cloudinary.com/starbist/image/upload/v1524384850/starter-project-gulp-tasks-for-css_shybn0.png)
 
 *这篇文章最初发表于 [silvestar.codes](https://www.silvestar.codes/articles/starter-project-gulp-tasks-for-css/) 。*
 
@@ -12,7 +12,7 @@
 
 Starter Project 的想法是为所有 Gulp 任务创建一个单独的配置文件。如果你打开 [`config.json`](https://github.com/maliMirkec/starter-project/blob/master/config.json) 文件，你可以看到一个 CSS 部分。
 
-[![config.json, CSS part](../Images/7662906c129423251abc4834f24f5f57.png)T2】](//res.cloudinary.com/starbist/image/upload/v1524385137/config-json-css_ha2n75.png)
+[![config.json, CSS part](img/7662906c129423251abc4834f24f5f57.png)T2】](//res.cloudinary.com/starbist/image/upload/v1524385137/config-json-css_ha2n75.png)
 
 第一个选项是`run`。如果设置为 true，将执行 CSS 吞咽任务。CSS 还有另外三个强制选项:
 
@@ -149,7 +149,7 @@ Stylelint 也有它的插件。在 Starter 项目中，使用了 [stylelint-scss
 
 对于所有 VS 代码用户，这里是如何在编辑器中使用 Stylelint 的技巧。首先，为 VS 代码安装 [stylefmt](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-stylefmt) 和 [Run On Save](https://marketplace.visualstudio.com/items?itemName=emeraldwalk.RunOnSave) 扩展。然后按下`cmd + shift + p`调用命令面板，并输入`open workspace settings`。
 
-[![open workspace settings example](../Images/d9a8472e059c07a73766803b374b30f8.png)T2】](//res.cloudinary.com/starbist/image/upload/v1524388057/open-workspace-settings_luw5ru.png)
+[![open workspace settings example](img/d9a8472e059c07a73766803b374b30f8.png)T2】](//res.cloudinary.com/starbist/image/upload/v1524388057/open-workspace-settings_luw5ru.png)
 
 打开工作空间设置时，添加这些设置。
 

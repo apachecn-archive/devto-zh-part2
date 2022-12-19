@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/notwoods/automatic-resume-editor-25f8>
 
-[![](../Images/3292f8729d9df70b6537823eaaf768ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F1RKHWEU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tpiesnyqajiyipnsiivh.gif)
+[![](img/3292f8729d9df70b6537823eaaf768ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F1RKHWEU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tpiesnyqajiyipnsiivh.gif)
 
 在用 Microsoft Word 写了几年简历后，我最近开始用普通的 HTML 和 CSS 制作简历。这对我来说效果更好，因为我可以将简历内容(我的工作经历和描述)与其布局(文本的颜色和位置以及列数)分开。我添加了额外的功能，这样我就可以用 JavaScript 即时编辑简历，并快速保存一份新的副本，以防我无法访问我的主机，需要做一些小的调整。我是这样做的。
 
@@ -41,7 +41,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 接下来，我开始寻找一种方法，从我的网站的在线版本输出 PDF，这样我就可以摆脱 Word 版本。大多数人在一些网站上制作 pdf 的方式是直接打印出来。轻松点。不幸的是，在 web 浏览器中打印有一些奇怪的错误，当我打开打印预览时，我的布局变成了 1 列设计。
 
-[![Chrome print preview showing a broken resume layout](../Images/430e32dbba5fe6e92b439b7379d1c925.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--15W_gd4e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tigeroakes.com/posts/resume-editor/flex-fail.png)
+[![Chrome print preview showing a broken resume layout](img/430e32dbba5fe6e92b439b7379d1c925.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--15W_gd4e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tigeroakes.com/posts/resume-editor/flex-fail.png)
 
 > 如果您希望在打印样式表中使用 Flexbox 或 CSS Grid，您可能会失望。你可以检查出 [Flexbox](https://bugs.chromium.org/p/chromium/issues/detail?id=660611) 和 [Grid](https://bugs.chromium.org/p/chromium/issues/detail?id=614667) 的 Chrome bugs。
 > 
@@ -116,6 +116,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 你可以在我的网站的 [GitHub 库上看到我所有的源代码。](https://github.com/NotWoods/tigeroakes.com/tree/master/content/resume)
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) [诺特伍兹](https://github.com/NotWoods)/[tigeroakes.com](https://github.com/NotWoods/tigeroakes.com)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) [诺特伍兹](https://github.com/NotWoods)/[tigeroakes.com](https://github.com/NotWoods/tigeroakes.com)
 
 ### 我的投资组合网站。旨在脱机工作，快速加载，并展示一些我最喜欢的项目。

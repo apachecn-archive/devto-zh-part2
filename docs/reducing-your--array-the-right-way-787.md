@@ -4,7 +4,7 @@
 
 ### 以正确的方式缩减您的阵列
 
-[![](../Images/308f93f091b3cec876bf4df5622f4915.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QGdwoYGM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AvXkJ89ppSS1eddnK2stWOw.jpeg) 
+[![](img/308f93f091b3cec876bf4df5622f4915.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QGdwoYGM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AvXkJ89ppSS1eddnK2stWOw.jpeg) 
 
 <figcaption>图片来源:Pixabay</figcaption>
 

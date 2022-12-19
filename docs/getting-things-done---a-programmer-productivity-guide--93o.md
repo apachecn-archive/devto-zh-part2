@@ -26,11 +26,11 @@
 
 我使用 Trello 是因为这是一个真正符合我大脑工作方式的工具。Trello 是一个网络应用程序，它为用户提供任意数量的白板，这些白板基本上是空白的画布，最终将容纳你所有的待办事项、想法、项目和其他一切。
 
-[![Blank Trello board](../Images/6c369787eb8d4f2915c8e178ff3343ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T0dmhnll--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assertnotmagic.com/img/gtd-trello1.png)
+[![Blank Trello board](img/6c369787eb8d4f2915c8e178ff3343ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T0dmhnll--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assertnotmagic.com/img/gtd-trello1.png)
 
 在这些*、*板上，你可以创建*列表、*垂直排列有序的*卡片集合。*
 
-[![Board with cards](../Images/ad7223ba8465b7e4a7b48f328b4668d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cUXeFDD4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assertnotmagic.com/img/gtd-trello2.png)
+[![Board with cards](img/ad7223ba8465b7e4a7b48f328b4668d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cUXeFDD4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assertnotmagic.com/img/gtd-trello2.png)
 
 你可以用这些卡片来储存个人大脑项目。它们可以有图片、评论、文档(比如这篇文章)、清单，甚至还有截止日期。我称这个系统为我的另一个大脑。
 
@@ -67,7 +67,7 @@
 
 随意让你的另一个大脑变得漂亮，并为你大脑的不同部分创建不同的区域。我有一块用于个人/编程的板，一块用于工作(我设计塑料模具)，一块用于家务和我与妻子共享的待办事项。
 
-[![My personal board](../Images/5c5831b8a3f34e18d0281f9d05e66ba8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mReEzUlr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assertnotmagic.com/img/gtd-trello3.png)
+[![My personal board](img/5c5831b8a3f34e18d0281f9d05e66ba8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mReEzUlr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assertnotmagic.com/img/gtd-trello3.png)
 
 ## 2。你的收件箱是一个接收区域，而不是待办事项列表
 

@@ -20,7 +20,7 @@
 
 所以让我们来看看一个 14 年前的免费开源替代方案: [KeePass](https://keepass.info/) 。
 
-[![Keepass Screenshot](../Images/a497afbc6260d7713f25d018e58e6fc8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aLO8Ld7C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8lwvwc3q5v49c113n0wi.png)
+[![Keepass Screenshot](img/a497afbc6260d7713f25d018e58e6fc8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aLO8Ld7C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8lwvwc3q5v49c113n0wi.png)
 
 如果你认为这看起来很可怕，你不是一个人。
 
@@ -37,15 +37,15 @@ KeePass 不仅免费开源，而且非常简单。它侧重于管理密码。
 如果你正在寻找一个现代的，漂亮的程序。kdbx 文件，
 看看 [MacPass](https://macpassapp.org/) :
 
-[![MacPass Screenshot](../Images/d723157d5ac674516fec6109a8f156e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oI5OVgTE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gx4gjf200f1g6ejrxzcf.png)
+[![MacPass Screenshot](img/d723157d5ac674516fec6109a8f156e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oI5OVgTE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gx4gjf200f1g6ejrxzcf.png)
 
 或者 [KeeWeb](https://keeweb.info/) :
 
-[![KeeWeb Screenshot](../Images/8680c1f5b3207483fbcceb3f79d97dee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nMhioGTm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pcn8aejzbamdb0u75zvs.png)
+[![KeeWeb Screenshot](img/8680c1f5b3207483fbcceb3f79d97dee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nMhioGTm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pcn8aejzbamdb0u75zvs.png)
 
 我个人更喜欢 [KeePassXC](https://keepassxc.org/) :
 
-[![KeePassXC Screenshot](../Images/ea555b2d716e04d789ec7811477985a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XI2DhHGj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hzrwil4nthepky9v2sn9.png)
+[![KeePassXC Screenshot](img/ea555b2d716e04d789ec7811477985a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XI2DhHGj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hzrwil4nthepky9v2sn9.png)
 
 它看起来不太漂亮，但使用起来最舒服:
 

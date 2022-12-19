@@ -19,7 +19,7 @@
 
 Storm 的架构可以比作连接一组检查站的道路网络。交通从某个检查站(称为**喷口**)开始，并通过其他检查站(称为**门闩**)。流量当然是由**喷口**检索的数据流(例如，从一个数据源，一个公共 API)并路由到各种**螺栓**，在那里数据被过滤、净化、聚集、分析，发送到用户界面供人们查看或任何其他目标。由喷嘴和螺栓组成的网络被称为**拓扑**，数据以**元组**(可能具有不同类型的值列表)的形式流动。
 
-[![](../Images/6aa88ff8629f757d11b168fd786b2c1d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YiZdrdr2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ae7en7kiyjwqnl28yknm.png) 
+[![](img/6aa88ff8629f757d11b168fd786b2c1d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YiZdrdr2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ae7en7kiyjwqnl28yknm.png) 
 <sub><sup>*来源:*</sup></sub>
 
 需要讨论的一件重要事情是数据流量的方向。按照惯例，我们会有一个或多个 spouts 从一个 API、一个 [Kafka topic](https://kafka.apache.org/documentation/#intro_topics) 或其他一些排队系统中读取数据。然后，数据将通过*单向*流向一个或多个螺栓，这些螺栓可能会将数据转发给其他螺栓，依此类推。Bolts 可以将分析的数据发布到 UI 或另一个 bolts。但是*交通几乎总是单向的*，就像一条匕首。虽然当然有可能形成循环，但我们不太可能需要如此复杂的拓扑结构。
@@ -186,7 +186,7 @@ Enter fullscreen mode Exit fullscreen mode
 当然还有其他类型的分组。然而，在大多数情况下，分组可能没多大关系，你可以随意地将数据打乱，并将其扔进螺栓螺纹中(**打乱分组**)。
 现在还有另一个重要的组成部分:我们的拓扑将在其上运行的工作进程的数量。*我们指定的线程总数将在工作进程中平均分配*。因此，在我们的随机数字拓扑示例中，我们有 1 个喷口螺纹、2 个偶数数字螺栓螺纹和 4 个乘以 10 的螺栓螺纹(总共 7 个)。2 个工作进程中的每一个都将负责运行 2 个乘以 10 的螺栓线程、1 个偶数的螺栓，其中一个进程将运行 1 个喷口线程。
 
-[![](../Images/8921993405b8bbe69ed07c78ae087a4a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_zvrKKmP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ppnwksjfn8ji051ec8z8.jpg) 
+[![](img/8921993405b8bbe69ed07c78ae087a4a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_zvrKKmP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ppnwksjfn8ji051ec8z8.jpg) 
 当然，这两个 worker 进程都会有自己的主线程，它们依次会启动 spout 和 bolt 线程。所以总的来说，我们将有 9 个线程。这些人统称为**执行者**。
 
 重要的是要意识到，如果你设置了一个 spout 的并行提示> 1(即多个执行器)，你可能会多次发出相同的数据。比方说，spout 从公共 Twitter 流 API 中读取数据，并使用两个执行器。这意味着从 spout 接收数据的螺栓将获得两次相同的 tweet。只有在 spout 发出元组之后，数据并行性才开始发挥作用，即元组根据指定的流分组在螺栓之间划分。
@@ -226,7 +226,7 @@ Enter fullscreen mode Exit fullscreen mode
 Storm 发行版安装在主节点(Nimbus)和所有从节点(Supervisors)上。
 *主*节点运行风暴[光轮](https://github.com/apache/storm/blob/exclamation/storm-server/src/main/java/org/apache/storm/daemon/nimbus/Nimbus.java)守护进程和风暴 UI。*从节点*运行 Storm [管理器](https://github.com/apache/storm/blob/exclamation/storm-server/src/main/java/org/apache/storm/daemon/supervisor/Supervisor.java)守护进程。独立节点上的 [Zookeeper](http://zookeeper.apache.org/) 守护进程用于主节点和从节点之间的协调。顺便说一下，Zookeeper 只用于集群管理，从不用于任何类型的消息传递。这不像喷口和螺栓通过它或类似的东西互相发送数据。Nimbus 守护进程通过 ZooKeeper 找到可用的监管程序，监管程序守护进程向 ZooKeeper 注册。和其他管理任务，其中一些将很快变得清晰。
 
-[![](../Images/5c7c38b1268d0d8d55cc59c0e099a540.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---D5zwVtt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aywsreb970kpinm5pt4e.jpg)
+[![](img/5c7c38b1268d0d8d55cc59c0e099a540.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---D5zwVtt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aywsreb970kpinm5pt4e.jpg)
 
 <sub><sup>Storm UI 是一个 web 界面，用来管理我们集群的状态。我们稍后再谈这个。<sup>T3</sup>T5】</sup></sub>
 
@@ -353,7 +353,7 @@ Enter fullscreen mode Exit fullscreen mode
 在项目根运行 **`docker-compose up`** 。
 
 在所有的图像都已经建立并且所有的服务都已经启动之后，打开一个新的终端，输入 **`docker ps`** ，你会看到这样的内容:
-[![](../Images/a2c5d6c20d5b31df9b0169578955c876.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1H5h-qYi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sdant5e3lbk71ez55jtz.png)
+[![](img/a2c5d6c20d5b31df9b0169578955c876.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1H5h-qYi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sdant5e3lbk71ez55jtz.png)
 
 ### 启动灵气
 
@@ -362,17 +362,17 @@ Enter fullscreen mode Exit fullscreen mode
 SSH 到光轮容器，然后启动光轮守护进程:
 **`storm nimbus`**
 
-[![](../Images/7c2ccd54bcc4b0acf8c88492b423812b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dy1YTZ3T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/raux9m8jvfaiyrgerevh.png)
+[![](img/7c2ccd54bcc4b0acf8c88492b423812b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dy1YTZ3T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/raux9m8jvfaiyrgerevh.png)
 
 ### 启动暴风 UI
 
 类似地，打开另一个终端，SSH 再次进入 Nimbus 并使用 **`storm ui`** 启动 UI:
 
-[![](../Images/4414372f977a299b1f85bc8ca1b8b1ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ome6wluZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b6j60az4x7gkvhlrt3rl.png)
+[![](img/4414372f977a299b1f85bc8ca1b8b1ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ome6wluZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b6j60az4x7gkvhlrt3rl.png)
 
 在您的浏览器上转到`localhost:8080`，您会看到我们集群的一个很好的概述:
 
-[![](../Images/ee61552ff9faeadeb44f434407bcd226.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rkuaXqTM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dqrrb7hkq3q7c4wkde7v.png)
+[![](img/ee61552ff9faeadeb44f434407bcd226.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rkuaXqTM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dqrrb7hkq3q7c4wkde7v.png)
 
 **集群摘要**中的**空闲槽**指示等待拓扑消耗它们的可用工作者总数(在所有管理节点上)&。**已用槽位**表示当前有多少槽位正忙于一个拓扑。由于我们还没有推出任何主管，所以他们都是零。稍后我们将讨论*执行者*和*任务*。此外，正如我们所看到的，还没有提交拓扑。
 
@@ -382,11 +382,11 @@ SSH 进入一个 Supervisor 容器，启动 Supervisor 守护进程:
 **`docker exec -it coincidenthashtagswithapachestorm_storm-supervisor_1 bash`**
 **`storm supervisor`**
 
-[![](../Images/48ddb1e577f5ee741b88ccc395df39cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sEM7nsfZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vdal0lryhbse6plvi4b7.png)
+[![](img/48ddb1e577f5ee741b88ccc395df39cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sEM7nsfZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vdal0lryhbse6plvi4b7.png)
 
 现在让我们刷新一下我们的用户界面:
 
-[![](../Images/4e39d5efdd6c40d804305995a7933e33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9gnUkPZR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x4ss0igztavokmmszv06.png)
+[![](img/4e39d5efdd6c40d804305995a7933e33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9gnUkPZR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x4ss0igztavokmmszv06.png)
 
 *注意:我们集群中的任何变化可能需要几秒钟才能反映在用户界面上。*
 
@@ -427,7 +427,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 拓扑成功提交后，刷新 UI:
 
-[![](../Images/b10e4cac4edc401f39146fc445f03df2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dbpH9UfL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o6t04y8j39t9mjqdnpwr.png)
+[![](img/b10e4cac4edc401f39146fc445f03df2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dbpH9UfL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o6t04y8j39t9mjqdnpwr.png)
 
 我们一提交拓扑，动物园管理员就收到了通知。动物园管理员又通知管理员从雨云下载代码。我们现在可以看到我们的拓扑以及三个被占用的工作线程，只剩下一个空闲。
 和 10 个字喷口螺纹+ 3 个惊呼螺栓螺纹+ 2 个惊呼螺栓螺纹+3 个工人主螺纹= **总共 18 个执行者**。你可能已经注意到一些新的东西:**任务**。
@@ -446,11 +446,11 @@ builder.setBolt("even-digit-bolt", new EvenDigitBolt(), 2)
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/910526a76fc4ade9c1a4e82334da8b8b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ebJYcxoC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jeukzyaqwqr0atwryp4v.jpg) 
+[![](img/910526a76fc4ade9c1a4e82334da8b8b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ebJYcxoC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jeukzyaqwqr0atwryp4v.jpg) 
 这是我的一个缺点，但是我想不出一个好的用例，我们需要每个执行程序有多个任务。如果我们自己添加一些并行性，比如在 bolt 中生成一个新线程来处理一个长时间运行的任务，那么主 executor 线程将不会阻塞，并且能够使用另一个 bolt 继续处理。然而，这可能会使我们的拓扑难以理解。如果有人知道多任务带来的性能提升超过了增加的复杂性，请发表评论。
 
 不管怎样，从这个小弯路回来，让我们看看我们的拓扑结构的概况。点击**拓扑摘要**下的名称，向下滚动到**工作者资源** :
-[![](../Images/d22a35e330a01d3f2ab526d20dc958c6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cp1oTbQM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4ry2lizx8sfwb6fpcqtm.png) 
+[![](img/d22a35e330a01d3f2ab526d20dc958c6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cp1oTbQM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4ry2lizx8sfwb6fpcqtm.png) 
 我们可以清楚的看到我们的执行者(线程)在 3 个工作者之间的划分。当然，这 3 个工人都在我们运行的同一个管理节点上。
 
 现在，让我们说横向扩展！
@@ -466,7 +466,7 @@ SSH 进入新容器:
 又火了起来:
 **`storm supervisor`**
 
-[![](../Images/673db5978916da7a6cadd3fcd0d322b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ryznXDm3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h3k02g7cuvm73fhz41y2.png)
+[![](img/673db5978916da7a6cadd3fcd0d322b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ryznXDm3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h3k02g7cuvm73fhz41y2.png)
 
 如果您刷新 UI，您将看到我们已经成功添加了另一个主管和四个工人(总共 8 个工人/插槽)。为了真正利用新主管，让我们增加拓扑的工作人员。
 
@@ -477,9 +477,9 @@ SSH 进入新容器:
 *   重新提交:`storm jar target/coincident-hashtags-1.2.1.jar coincident_hashtags.ExclamationTopology`
 
 重新加载 UI:
-[![](../Images/5113b086395b742ae5ec8f1c4ed3a8ae.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---AhCBfge--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8977swo8ftr9nufe84oi.png) 
+[![](img/5113b086395b742ae5ec8f1c4ed3a8ae.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---AhCBfge--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8977swo8ftr9nufe84oi.png) 
 您现在可以看到新的主管和总共 8 个可用主管中的 6 个忙碌的工人。同样需要注意的是，这 6 个繁忙的任务被平均分配给了两个主管。再次单击拓扑名称并向下滚动。
-[![](../Images/f0c4a165c3fe78991d499e2f6de19c0a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fDrt1miv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ztuf2zjtds9zte1tmg0x.png) 
+[![](img/f0c4a165c3fe78991d499e2f6de19c0a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fDrt1miv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ztuf2zjtds9zte1tmg0x.png) 
 我们看到两个唯一的主管 id，它们都运行在不同的节点上，并且我们所有的执行者在它们之间平均分配。这太棒了。但是在拓扑运行时，Storm 提供了另一种漂亮的方式。叫做*再平衡*的东西。在光轮上我们会运行:
 **`storm rebalance exclamation-topology -n 6`** *(从 3 个工人转到 6 个)*
 或者为某个组件改变执行者的数量:

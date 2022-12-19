@@ -8,21 +8,21 @@
 
 ## 失踪
 
-1.  [括号 Guard](https://packagecontrol.io/packages/BracketGuard) :高亮显示不匹配的括号。![](../Images/bed2567010939ef74cf594140c8c6c1b.png)
-2.  GitSavvy :一个类似 curses 的 git 客户端，它运行在 ST. Features、staging、commit、rebasing、branching 等等里面！![](../Images/2df2c166385616375fc82eb1dd6b9976.png)T3】
-3.  [MarkAndMove](https://packagecontrol.io/packages/MarkAndMove) :保存选择并调用它们——保存多个并全部调用以创建一个复杂的选择。![](../Images/ebbe13120885107c73f437fb7201b91c.png)
+1.  [括号 Guard](https://packagecontrol.io/packages/BracketGuard) :高亮显示不匹配的括号。![](img/bed2567010939ef74cf594140c8c6c1b.png)
+2.  GitSavvy :一个类似 curses 的 git 客户端，它运行在 ST. Features、staging、commit、rebasing、branching 等等里面！![](img/2df2c166385616375fc82eb1dd6b9976.png)T3】
+3.  [MarkAndMove](https://packagecontrol.io/packages/MarkAndMove) :保存选择并调用它们——保存多个并全部调用以创建一个复杂的选择。![](img/ebbe13120885107c73f437fb7201b91c.png)
 4.  [MiniPy](https://packagecontrol.io/packages/MiniPy) :将选中的文本作为 Python 代码进行求值，并用字符串化的结果替换选中的文本。
 5.  [MoveText](https://packagecontrol.io/packages/MoveText) :用键盘拖动/移动文本……对交换行等有用，不用像剪切粘贴操作那样移动所有的行。
 6.  MultiEditUtils :处理多重选择的非常有用的工具——包括许多功能，如下所列，并在插件主页上用 gif 展示。
-    *   编辑选择内容时保留大小写![](../Images/383898867ae1480fbed5b7f93c8f00e5.png)
-    *   拆分选择![](../Images/da0ed540632c1b6e75c1ff018ab03a6b.png)
-    *   用上一次选择扩展当前选择![](../Images/7f6e3973abda414112ab257d65b41612.png)
-    *   正常化和切换区域末端![](../Images/6a228b508f2bb9211a2b482e22f8491c.png)
-    *   跳到最后一个区域![](../Images/f7569a8e9dd408b5a795b2b92046669e.png)
-    *   在区域间循环![](../Images/fb7ad55e7204da89cb13570c4031734b.png)
-    *   条带选择![](../Images/5774feede24d842541800c2e7c242a22.png)
-    *   移除空白区域![](../Images/f65ae04cdfad80aeda84a5fc7519b4ab.png)
-    *   快速查找所有多选内容![](../Images/5373f3e06012a5cd277e704e2da56d17.png)
-    *   使用选择作为字段![](../Images/431836fc011dd90b00bb46f2c92c8496.png)
+    *   编辑选择内容时保留大小写![](img/383898867ae1480fbed5b7f93c8f00e5.png)
+    *   拆分选择![](img/da0ed540632c1b6e75c1ff018ab03a6b.png)
+    *   用上一次选择扩展当前选择![](img/7f6e3973abda414112ab257d65b41612.png)
+    *   正常化和切换区域末端![](img/6a228b508f2bb9211a2b482e22f8491c.png)
+    *   跳到最后一个区域![](img/f7569a8e9dd408b5a795b2b92046669e.png)
+    *   在区域间循环![](img/fb7ad55e7204da89cb13570c4031734b.png)
+    *   条带选择![](img/5774feede24d842541800c2e7c242a22.png)
+    *   移除空白区域![](img/f65ae04cdfad80aeda84a5fc7519b4ab.png)
+    *   快速查找所有多选内容![](img/5373f3e06012a5cd277e704e2da56d17.png)
+    *   使用选择作为字段![](img/431836fc011dd90b00bb46f2c92c8496.png)
 7.  [Origami](https://packagecontrol.io/packages/Origami) :使用键盘快捷键移动缓冲区来创建或破坏并排视图，轻松控制编辑器的布局。
-8.  [AlignTab](https://packagecontrol.io/packages/AlignTab) :高级对齐，对于 LaTeX 中的表格对齐也很有用。![](../Images/cd5c60ee39f524bfab4ed85b2075db93.png)T3】
+8.  [AlignTab](https://packagecontrol.io/packages/AlignTab) :高级对齐，对于 LaTeX 中的表格对齐也很有用。![](img/cd5c60ee39f524bfab4ed85b2075db93.png)T3】

@@ -179,7 +179,7 @@ This is a list:
 
 现在我们可以登录并点击“来自 Git 的新站点”开始这个过程。
 
-[![/images/setting-up-hugo-on-netlify/01.png](../Images/1c5c1fc2f11159aeb2dcc99c284e81b1.png "/images/setting-up-hugo-on-netlify/01.png")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mGe4_giI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://erick.navarro.io/images/setting-up-hugo-on-netlify/01.png)
+[img/setting-up-hugo-on-netlify/01.png](img/1c5c1fc2f11159aeb2dcc99c284e81b1.pngimg/setting-up-hugo-on-netlify/01.png")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mGe4_giI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://erick.navarro.img/setting-up-hugo-on-netlify/01.png)
 
 然后有 3 个步骤要遵循:
 
@@ -187,13 +187,13 @@ This is a list:
 
 我们必须使用上传网站的服务登录。
 
-[![/images/setting-up-hugo-on-netlify/02.png](../Images/e13990976858f4b7b945282bb2db2813.png "/images/setting-up-hugo-on-netlify/02.png")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y0MQbbWa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://erick.navarro.io/images/setting-up-hugo-on-netlify/02.png)
+[img/setting-up-hugo-on-netlify/02.png](img/e13990976858f4b7b945282bb2db2813.pngimg/setting-up-hugo-on-netlify/02.png")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y0MQbbWa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://erick.navarro.img/setting-up-hugo-on-netlify/02.png)
 
 #### 挑选一个储存库
 
 现在，我们可以访问我们的存储库列表。我们可以搜索网站所在的那个。
 
-[![/images/setting-up-hugo-on-netlify/03.png](../Images/41f40d69804454acec273c17ec109184.png "/images/setting-up-hugo-on-netlify/03.png")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FLS4wZer--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://erick.navarro.io/images/setting-up-hugo-on-netlify/03.png)
+[img/setting-up-hugo-on-netlify/03.png](img/41f40d69804454acec273c17ec109184.pngimg/setting-up-hugo-on-netlify/03.png")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FLS4wZer--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://erick.navarro.img/setting-up-hugo-on-netlify/03.png)
 
 #### 构建选项
 
@@ -201,13 +201,13 @@ This is a list:
 
 要继续，我们单击“部署站点”。
 
-[![/images/setting-up-hugo-on-netlify/04.png](../Images/d618f3b6ee1f7d47222c8a7cb4c3ecbf.png "/images/setting-up-hugo-on-netlify/04.png")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ul0FL5HD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://erick.navarro.io/images/setting-up-hugo-on-netlify/04.png)
+[img/setting-up-hugo-on-netlify/04.png](img/d618f3b6ee1f7d47222c8a7cb4c3ecbf.pngimg/setting-up-hugo-on-netlify/04.png")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ul0FL5HD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://erick.navarro.img/setting-up-hugo-on-netlify/04.png)
 
 #### 部署结果
 
 Netlify 将提取存储库并使用给定的构建选项编译站点，然后它将生成一个 url 来访问已部署的站点。
 
-[![/images/setting-up-hugo-on-netlify/05.png](../Images/2262e748195655ffbf9fefe556c16da3.png "/images/setting-up-hugo-on-netlify/05.png")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Yjsbl3OL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://erick.navarro.io/images/setting-up-hugo-on-netlify/05.png)
+[img/setting-up-hugo-on-netlify/05.png](img/2262e748195655ffbf9fefe556c16da3.pngimg/setting-up-hugo-on-netlify/05.png")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Yjsbl3OL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://erick.navarro.img/setting-up-hugo-on-netlify/05.png)
 
 现在我们可以转到 Netlify 为该站点生成的 url，我们将看到最终的站点。
 
@@ -215,7 +215,7 @@ Netlify 将提取存储库并使用给定的构建选项编译站点，然后它
 
 默认情况下，只有当我们将更改推送到主服务器时，Netlify 才会构建站点。我们可以将其更改为“部署设置”，并将“分支部署”选项更改为“全部”，如下图所示:
 
-[![/images/setting-up-hugo-on-netlify/06.png](../Images/2feb21919afde72a67dac8d404c9c915.png "/images/setting-up-hugo-on-netlify/06.png")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1C2Av0mB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://erick.navarro.io/images/setting-up-hugo-on-netlify/06.png)
+[img/setting-up-hugo-on-netlify/06.png](img/2feb21919afde72a67dac8d404c9c915.pngimg/setting-up-hugo-on-netlify/06.png")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1C2Av0mB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://erick.navarro.img/setting-up-hugo-on-netlify/06.png)
 
 有了这个配置，我们可以将更改推送到不同于`master`的分支，Netlify 将生成一个新的 url 来查看更改。这对于在将更改发布到生产站点之前测试更改非常有用。
 

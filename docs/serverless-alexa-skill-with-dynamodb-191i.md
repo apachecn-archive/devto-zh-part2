@@ -10,7 +10,7 @@
 
 在我的 [GitHub](https://github.com/danquack/Serverless-Alexa-with-Dynamodb) 上查看这个项目，让我知道你的想法。
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [丹嘎嘎](https://github.com/danquack) / [无服务器 Alexa-with-Dynamodb](https://github.com/danquack/Serverless-Alexa-with-Dynamodb)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [丹嘎嘎](https://github.com/danquack) / [无服务器 Alexa-with-Dynamodb](https://github.com/danquack/Serverless-Alexa-with-Dynamodb)
 
 ### Alexa 基于事实的技能，旨在报告 dynamodb 的指标
 
@@ -20,7 +20,7 @@
 
 * * *
 
-[![Build Status](../Images/d704663b6541a7b732b00629b334c1ce.png)T2】](https://travis-ci.org/danquack/Serverless-Alexa-with-Dynamodb)
+[![Build Status](img/d704663b6541a7b732b00629b334c1ce.png)T2】](https://travis-ci.org/danquack/Serverless-Alexa-with-Dynamodb)
 
 这个示例 alexa 技能是一个基于事实的技能，旨在报告 dynamodb 的指标。这个想法是，外部的东西将更新 dynamodb，然后通过 alexa 读取。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/aviaryan/move-fast-and-break-things---how-it-works-4ae7>
 
-[![cover image](../Images/8b1ab6ff5bc223d272b890fdc38fd7e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j-HvqdVZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.us-east-2.amazonaws.com/devletters/covers/fast.jpeg)
+[![cover image](img/8b1ab6ff5bc223d272b890fdc38fd7e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j-HvqdVZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.us-east-2.amazonaws.com/devletters/covers/fast.jpeg)
 
 > 首次发布于 [Dev Letters](https://devletters.com/letters/move-fast-break-things/)
 

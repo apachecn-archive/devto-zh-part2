@@ -4,7 +4,7 @@
 
 在本教程中，我们将使用 Reason 构建一个小型天气应用程序。在页面的[底部有一个指向源代码的链接。本教程假设您对 React 有基本的了解，因为我们将使用 React 绑定来构建应用程序。如果你以前没有用过 React，](#reason-app-demo)[这篇文章](https://dev.to/tylermcginnis/a-comprehensive-guide-to-reactjs-in-2018--4nbc)是一个很好的起点。
 
-[![ReasonML](../Images/93d0325df1da63cda2539ccdd0132ece.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WCWlyt_9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rndtcngsysf696cvb0wf.png)
+[![ReasonML](img/93d0325df1da63cda2539ccdd0132ece.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WCWlyt_9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rndtcngsysf696cvb0wf.png)
 
 ## 原因是什么？
 

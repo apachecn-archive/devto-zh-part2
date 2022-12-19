@@ -44,7 +44,7 @@
 
 这里是编程的切入点！
 
-[![Test](../Images/76aef6946ad6ce37ad49529b966f2724.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NoAUgQUP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/DSJ9gQ6.png)
+[![Test](img/76aef6946ad6ce37ad49529b966f2724.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NoAUgQUP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/DSJ9gQ6.png)
 
 在**预定量**下面，你可以看到今年这个时候我应该已经完成了多少目标。公式如下:
 
@@ -92,7 +92,7 @@ return Math.round(goal_fraction, 0)
 ### 计算提醒
 
 正如我上面所说，我使用谷歌日历提醒来帮助我完成不到一天的目标。假设我今年要锻炼 50 次，我可以根据公式`FLOOR((365 - day_of_year) / 50)`计算出那个提醒应该出现的频率。使用谷歌日历的自定义递归工具，我可以完美地设置这个:
-[![An example from my calendar](../Images/92cd2794f61b9c09317d966a87142a99.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--B_divO-a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c3jtieskbglo8zrhfy03.PNG) 
+[![An example from my calendar](img/92cd2794f61b9c09317d966a87142a99.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--B_divO-a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c3jtieskbglo8zrhfy03.PNG) 
 这可能有点繁琐，因为每个都必须单独创建。
 
 # 总结

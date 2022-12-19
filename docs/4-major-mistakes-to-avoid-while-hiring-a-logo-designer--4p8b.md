@@ -10,7 +10,7 @@
 
 **2)走极端:**一个标志应该清晰，并且与你的公司相关。绝大多数情况下，徽标包含名称或所提供的服务。当你需要的是品牌的时候，不要雇佣一个画家。设计一个标志需要时间，不要引导过程。确保这个过程以健康的速度进行，并给它必要的时间。
 
-[![Logo Designer in Singapore](../Images/e59c0b3ebf59b40204d1e1980030da84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c6ktEzoc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vcfy3vuuba09cwocnnm3.jpg)
+[![Logo Designer in Singapore](img/e59c0b3ebf59b40204d1e1980030da84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c6ktEzoc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vcfy3vuuba09cwocnnm3.jpg)
 
 **3)不恰当的传达:**当你分配一个设计任务时，确保你把它描述到最小的细节。设计是一个非常重要的过程，你的设计师应该知道你的企业和你的品牌需求的所有细节。
 

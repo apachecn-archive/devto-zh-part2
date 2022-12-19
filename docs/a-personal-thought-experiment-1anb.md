@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ryanhaber/a-personal-thought-experiment-1anb>
 
-[![](../Images/0bb064d30a0c3bf8f114deaf903a28c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--45svK3WE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/ryanhaber/productbrief/content/images/radu-florin-756283-unsplash.jpg)
+[![](img/0bb064d30a0c3bf8f114deaf903a28c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--45svK3WE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/ryanhaber/productbrief/conteimg/radu-florin-756283-unsplash.jpg)
 
 当我还是一名历史专业的本科生时，我读了大量的书。这就是 20 世纪 90 年代末马里兰罗耀拉大学历史专业学生的水平:一台阅读、思考、写作的机器。我通常每周为我的每个研讨会阅读和消化 200-300 页。我很好地处理了这些作业，写了大约 10 页来回应它们。
 

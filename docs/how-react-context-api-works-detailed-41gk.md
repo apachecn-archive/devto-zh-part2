@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/sait/how-react-context-api-works-detailed-41gk>
 
-[![context api](../Images/4175bd2a8042f1e5f6d2f7c5bfb78bf0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1Tt8lGd7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w3z7iicoq435jopfx2lh.png)
+[![context api](img/4175bd2a8042f1e5f6d2f7c5bfb78bf0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1Tt8lGd7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w3z7iicoq435jopfx2lh.png)
 
 React16.3 中提供了 react 上下文 API，因此让我们使用
 上下文 API 构建一个计数器。

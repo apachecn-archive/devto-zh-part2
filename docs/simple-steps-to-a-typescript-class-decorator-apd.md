@@ -6,7 +6,7 @@
 
 #### React 上下文 API 上的文章列表
 
-*   一篇平易近人的文章，有清晰的用例(还有零食！):[![sreisner image](../Images/7ae9b650073b2e86ebc16a9c516c2137.png)](/sreisner) [## 学习反应上下文 API，并将其应用到您的应用程序中
+*   一篇平易近人的文章，有清晰的用例(还有零食！):[![sreisner image](img/7ae9b650073b2e86ebc16a9c516c2137.png)](/sreisner) [## 学习反应上下文 API，并将其应用到您的应用程序中
 
     ### Shawn Reisner Jun 14 ' 184min read
 
@@ -241,7 +241,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 感谢您阅读本文，如果您有任何问题或评论，请不要犹豫！这是在[地块](https://parceljs.org/)上运行的完整回购:
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [ phillipmalboeuf ](https://github.com/phillipmalboeuf) / [简单步骤到打字稿类装饰](https://github.com/phillipmalboeuf/simple-steps-to-a-typescript-class-decorator)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [ phillipmalboeuf ](https://github.com/phillipmalboeuf) / [简单步骤到打字稿类装饰](https://github.com/phillipmalboeuf/simple-steps-to-a-typescript-class-decorator)
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 

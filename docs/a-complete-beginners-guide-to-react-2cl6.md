@@ -55,7 +55,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们看一张脸书状态的图片，并分解其中的不同组件。
 
-[![A Facebook status](../Images/f2a4086e706ddd199b34a76cda3d3162.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D_FmFTGG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s218x9fpea5y9cwvhcx3.png)
+[![A Facebook status](img/f2a4086e706ddd199b34a76cda3d3162.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D_FmFTGG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s218x9fpea5y9cwvhcx3.png)
 
 状态本身将是一个组件——在脸书时间线中有许多状态，所以我们肯定希望能够重用状态组件。
 
@@ -63,11 +63,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 也许我们的子组件看起来像这样:
 
-[![A diagram of breaking down react components](../Images/8b3cea0a3d90cddc7828855d61185b98.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6ca1Fa5p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1s4oddo313hnqs7qosyv.png)
+[![A diagram of breaking down react components](img/8b3cea0a3d90cddc7828855d61185b98.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6ca1Fa5p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1s4oddo313hnqs7qosyv.png)
 
 我们甚至可以在子组件中包含子组件！因此，like、comment 和 share 组可以是它自己的`ActionBar`组件，其中包含 like commenting 和 share 组件！
 
-[![A diagram of subcomponents within subcomponents](../Images/8a07308b87c9effe8e2298ac25bbc4f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uiNFbLaT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/buukhx6ztlizgj7z95je.png)
+[![A diagram of subcomponents within subcomponents](img/8a07308b87c9effe8e2298ac25bbc4f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uiNFbLaT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/buukhx6ztlizgj7z95je.png)
 
 根据在应用程序中重用功能的位置，有许多方法可以分解这些组件和子组件。
 
@@ -196,7 +196,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 添加了一些 CSS，如下所示:
 
-[![](../Images/b500303cad4309ad6074f790485506a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hhLom4VO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7qps44tlmjx09di9u7l7.png)
+[![](img/b500303cad4309ad6074f790485506a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hhLom4VO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7qps44tlmjx09di9u7l7.png)
 
 这里有一个密码笔，上面有完整的启动密码。
 
@@ -654,7 +654,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我喜欢备忘单，所以我用这篇文章的内容做了一个！
 
-[![React cheat sheet with state and props, event handlers, and components](../Images/d98cd4801ffe15686fd00ee53bdd8ced.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PDiR6TPA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t1321qej0f0gsz1u5bok.png)
+[![React cheat sheet with state and props, event handlers, and components](img/d98cd4801ffe15686fd00ee53bdd8ced.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PDiR6TPA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t1321qej0f0gsz1u5bok.png)
 
 你也可以下载成 PDF 格式[这里](https://zen-of-programming.com/react-intro/cheatsheet.pdf)！
 

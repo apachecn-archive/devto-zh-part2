@@ -16,13 +16,13 @@ OpenCV 被广泛使用，在世界各地被采用，对于最终用户来说，�
 
 OpenCV 采用这种方法并定义了许多库，每个库都有特定的职责，并且所有库都使用 opencv_core 库。
 
-[![Alt text of image](../Images/d0d51663b1e251c331d46b04560903a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZHXEwbCw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.codergears.com/Blog/wp-content/uploads/opencv1.png)
+[![Alt text of image](img/d0d51663b1e251c331d46b04560903a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZHXEwbCw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.codergears.com/Blog/wp-content/uploads/opencv1.png)
 
 **2-通过名称空间模块化**
 
 OpenCV 广泛使用名称空间来模块化其代码库，以下是 opencv_core 项目的名称空间示例:
 
-[![Alt text of image](../Images/93bd2c99efaa4e4e3ee57ba1d0e14b95.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UECHqyIl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.codergears.com/Blog/wp-content/uploads/opencv2.png)
+[![Alt text of image](img/93bd2c99efaa4e4e3ee57ba1d0e14b95.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UECHqyIl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.codergears.com/Blog/wp-content/uploads/opencv2.png)
 
 OpenCV 使用“按特性命名空间”的方法。逐个特性的命名空间使用命名空间来反映特性集。它将与单个特性相关的所有项目(且仅与该特性相关)放入单个名称空间中。这导致名称空间具有高内聚和高模块化，并且名称空间之间的耦合最小。紧密配合的项目会并排放置。
 
@@ -38,7 +38,7 @@ OpenCV 使用“按特性命名空间”的方法。逐个特性的命名空间�
 
 让我们在 OpenCV 代码库中搜索没有方法而只有字段的结构。为此，CQLinq 将用于查询代码库。
 
-[![Alt text of image](../Images/3a57fe11e27fc54af99a00c7206e318c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_hi1cYap--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.codergears.com/Blog/wp-content/uploads/opencv3.png)
+[![Alt text of image](img/3a57fe11e27fc54af99a00c7206e318c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_hi1cYap--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.codergears.com/Blog/wp-content/uploads/opencv3.png)
 
 这个查询的结果涉及 OpenCV 项目中定义的 25%的类型。OpenCV 在只有字段的结构中定义了几乎所有的数据模型。
 
@@ -48,7 +48,7 @@ OpenCV 使用“按特性命名空间”的方法。逐个特性的命名空间�
 
 让我们在 OpenCV 代码库中搜索哪些类继承了多个具体的基类。
 
-[![Alt text of image](../Images/671fd825d5c8cd7c48b9a1d4696e242e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bIK1x2br--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.codergears.com/Blog/wp-content/uploads/opencv4.png)
+[![Alt text of image](img/671fd825d5c8cd7c48b9a1d4696e242e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bIK1x2br--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.codergears.com/Blog/wp-content/uploads/opencv4.png)
 
 只有测试项目中的一些类使用多重继承，这个概念在整个 OpenCV 代码库中是避免的。
 
@@ -64,7 +64,7 @@ OpenCV 使用“按特性命名空间”的方法。逐个特性的命名空间�
 
 让我们在 OpenCV 代码库中搜索被认为复杂的方法。
 
-[![Alt text of image](../Images/5e160955fcf04881fa9c8e57fce7df2c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JqIMaUjp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.codergears.com/Blog/wp-content/uploads/opencv5.png)
+[![Alt text of image](img/5e160955fcf04881fa9c8e57fce7df2c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JqIMaUjp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.codergears.com/Blog/wp-content/uploads/opencv5.png)
 
 只有 1%可以被重构以最小化它们的复杂性。
 
@@ -80,7 +80,7 @@ OpenCV 使用“按特性命名空间”的方法。逐个特性的命名空间�
 
 让我们搜索 OpenCV 定义的所有抽象类:
 
-[![Alt text of image](../Images/7462426500bc328675e74570e8e0a16e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BhTcr59Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.codergears.com/Blog/wp-content/uploads/opencv6.png)
+[![Alt text of image](img/7462426500bc328675e74570e8e0a16e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BhTcr59Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.codergears.com/Blog/wp-content/uploads/opencv6.png)
 
 如果我们的主要目标是实施低耦合，那么在使用抽象类时会有一个常见的错误，那就是扼杀使用它们的实用性。使用具体的类而不是抽象的类，为了更好地解释这个问题，让我们举下面的例子:
 
@@ -122,7 +122,7 @@ LCOM HS =(M–总和(MF)/F)(M-1)
 
 LCOMHS 值高于 1 应视为报警。
 
-[![Alt text of image](../Images/742ba4c7749e3e6cf91e1028d72641a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5_WzYl7L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.codergears.com/Blog/wp-content/uploads/opencv7.png)
+[![Alt text of image](img/742ba4c7749e3e6cf91e1028d72641a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5_WzYl7L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.codergears.com/Blog/wp-content/uploads/opencv7.png)
 
 只有少数类型不具有内聚性。
 

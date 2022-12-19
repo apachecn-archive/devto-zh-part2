@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ashenmaster/static-vs-dynamic-sites-61f>
 
-[![Static vs Dynamic Sites](../Images/0d4b39c7716619dd457e0f0c0d595201.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g-x68jYa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1461749280684-dccba630e2f6%3Fixlib%3Drb-0.3.5%26q%3D80%26fm%3Djpg%26crop%3Dentropy%26cs%3Dtinysrgb%26w%3D1080%26fit%3Dmax%26ixid%3DeyJhcHBfaWQiOjExNzczfQ%26s%3D58bba222186b057d9e88ada20ec520a7)
+[![Static vs Dynamic Sites](img/0d4b39c7716619dd457e0f0c0d595201.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g-x68jYa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1461749280684-dccba630e2f6%3Fixlib%3Drb-0.3.5%26q%3D80%26fm%3Djpg%26crop%3Dentropy%26cs%3Dtinysrgb%26w%3D1080%26fit%3Dmax%26ixid%3DeyJhcHBfaWQiOjExNzczfQ%26s%3D58bba222186b057d9e88ada20ec520a7)
 
 很久以前，当 netscape 还是新生事物，家庭互联网还处于起步阶段的时候，对于一个网站来说，你真的只有一个选择，那就是使用 HTML 对其进行硬编码，多年来这是标准，这使得更新网站变得困难、痛苦，并且通常超出了标准企业所有者的能力范围。随着时间的推移，WordPress 最终将网站开发带给了普通大众，有了 WordPress，你不仅可以从一个(当时)易于使用的界面来构建和更新你的网站，你还可以实现一系列动态功能，如联系人表单、社区网站，甚至最终实现电子商务系统。有了广泛的可用功能，似乎唯一的限制就是你对能做什么的想象力，你需要的只是一个开发人员和预算。有了如此强大的市场地位和广泛的功能，为什么静态网站现在又开始流行了呢？
 
@@ -28,7 +28,7 @@
 
 由于没有后端服务或数据库为您的网站提供内容，因此您的网站运行不再需要额外的可用性要求。流量的突然涌入将不再导致性能问题，恶意用户将更难关闭网站。这不是不可能的，在规划和建设你的网站时，安全性和可靠性肯定是需要考虑的，但它比大多数 CMS 和动态平台要健壮得多。
 
-[![Static vs Dynamic Sites](../Images/7ba52223e7370b1aa91fe830ba5ac31e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9u3VTqeW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chrisgray.tech/content/images/2018/04/error-establishing-connection.jpg) 
+[![Static vs Dynamic Sites](img/7ba52223e7370b1aa91fe830ba5ac31e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9u3VTqeW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chrisgray.tech/conteimg/2018/04/error-establishing-connection.jpg) 
 
 不再有`error establishing connection`错误与静态站点。
 

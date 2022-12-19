@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ows_ali/set-up-a-yii-20-application-in-windows-52oa>
 
-[![](../Images/154ef5126628ba5c47917809b3077b01.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mSrwC8Ag--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/650/0%2A0Ci9Hikv6--WF2Dq.jpg) 
+[![](img/154ef5126628ba5c47917809b3077b01.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mSrwC8Ag--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/650/0%2A0Ci9Hikv6--WF2Dq.jpg) 
 
 <figcaption>PHP Yii 2.0 框架</figcaption>
 

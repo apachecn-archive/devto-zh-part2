@@ -14,7 +14,7 @@
 
 第一个想法(在 Slack 时代之前)是创建一个 web 应用程序，从附近的餐馆收集菜单信息。无论是从他们的网页还是从提供这些信息的类似服务。于是，午餐者诞生了！
 
-[![Luncher](../Images/a0c919aba291144c073983124b459de1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kZhkhrHJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e35k6fjjox98tl8ilf32.png)
+[![Luncher](img/a0c919aba291144c073983124b459de1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kZhkhrHJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e35k6fjjox98tl8ilf32.png)
 
 因此，我们的午餐流程是:
 
@@ -30,7 +30,7 @@
 
 在 Slack 中，创建命令相当容易。您只需在组织内创建新的应用程序，然后为其提供功能。在我的例子中，目的是创建所谓的斜杠命令，它以斜杠开头，后跟命令名和参数。我把这个命令叫做`/obed`(斯洛伐克语的意思是午餐)。
 
-[![Implementing obed](../Images/71f376c36f30916332a18807c4248338.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0sgUzJC5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kojjx49sjfck5m2zif5a.png)
+[![Implementing obed](img/71f376c36f30916332a18807c4248338.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0sgUzJC5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kojjx49sjfck5m2zif5a.png)
 
 ## 转折
 
@@ -59,7 +59,7 @@ launcher 以一种非常不同的格式发送响应。
 
 基本上，当执行`/obed`时，它将调用 AWS API Gateway 中定义的端点，该端点将指向 Lambda 函数。这个函数将调用 Luncher REST API，检索数据，在 Slack JSON 响应中转换数据并返回。结果你会得到这个:
 
-[![Ta-daaa](../Images/cb5fd626f6c40c470f1ffcd3c1029de8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vx9vQWd_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lkqrh3rho73on4jic3oj.png)
+[![Ta-daaa](img/cb5fd626f6c40c470f1ffcd3c1029de8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vx9vQWd_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lkqrh3rho73on4jic3oj.png)
 
 ## 最后的话
 

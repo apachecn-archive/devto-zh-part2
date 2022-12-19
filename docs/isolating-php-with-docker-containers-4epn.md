@@ -64,7 +64,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 主容器是 Nginx 代理，它是唯一具有外部端口(8080)的容器。这个容器代理其他两个容器的任何有效请求，一个运行 php 7 php-fpm，另一个在端口 9000 上运行 php 5 php-fpm。
 
-[![phpIsolationDiagram](../Images/34d80ab71999edbe37fc8671e9a20b46.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JirZ8p31--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.john-mccracken.com/static/phpIsolationDiagram-a7498ea5f35c8306a74a36f106161f27-0c130.png)
+[![phpIsolationDiagram](img/34d80ab71999edbe37fc8671e9a20b46.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JirZ8p31--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.john-mccracken.com/static/phpIsolationDiagram-a7498ea5f35c8306a74a36f106161f27-0c130.png)
 
 所有 3 个容器共享 *webroot* 文件夹，Nginx 需要它来服务任何非 PHP 文件，而 PHP 容器需要访问 PHP 文件。
 
@@ -118,11 +118,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 所以打开你选择的浏览器，输入 test5.com:8080，你应该会看到 PHP 5 的 phpinfo()。
 
-[![Screen-Shot-2017-10-07-at-08.04.07](../Images/d3af3bdb8535e0e0f96a6dcc43db683d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2AR4VGSe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.john-mccracken.com/static/Screen-Shot-2017-10-07-at-08.04.07-c5d55953237557557f278eafbd413f26-e7328.png)
+[![Screen-Shot-2017-10-07-at-08.04.07](img/d3af3bdb8535e0e0f96a6dcc43db683d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2AR4VGSe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.john-mccracken.com/static/Screen-Shot-2017-10-07-at-08.04.07-c5d55953237557557f278eafbd413f26-e7328.png)
 
 接下来，输入 test7.com:8080，你应该会看到 phpinfo()，你猜对了，是 PHP 7！
 
-[![Screen-Shot-2017-10-07-at-08.03.49](../Images/def50af5067726e41b5efc0a26438a0c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0nvK7mPl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.john-mccracken.com/static/Screen-Shot-2017-10-07-at-08.03.49-fa6fd10b5835979f416664078d8ea1e9-29566.png)
+[![Screen-Shot-2017-10-07-at-08.03.49](img/def50af5067726e41b5efc0a26438a0c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0nvK7mPl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.john-mccracken.com/static/Screen-Shot-2017-10-07-at-08.03.49-fa6fd10b5835979f416664078d8ea1e9-29566.png)
 
 这就对了，我们可以定义使用哪个版本的 PHP 来处理同一个 index.php 文件，非常有趣...
 

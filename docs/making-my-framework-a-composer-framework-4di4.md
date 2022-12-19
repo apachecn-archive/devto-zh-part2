@@ -10,7 +10,7 @@
 
 #### 【https://github.com/sbebbers/FrameWork.php/releases】T2
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)[sbebbers](https://github.com/sbebbers)/[FrameWork.php](https://github.com/sbebbers/FrameWork.php)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)[sbebbers](https://github.com/sbebbers)/[FrameWork.php](https://github.com/sbebbers/FrameWork.php)
 
 ### 一个简单的面向对象 PHP 框架，作为学习工具构建，但足够稳定，可以在实际产品上使用。
 

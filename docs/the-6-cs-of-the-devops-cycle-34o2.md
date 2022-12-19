@@ -8,7 +8,7 @@
 
 除了工具，您还需要了解 DevOps 周期。
 
-[![DevOps Cycle](../Images/2224e764395a117a0e5bbbda55ae8596.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Fd2rsA5I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o263vwe9rxdtay9j628r.png)
+[![DevOps Cycle](img/2224e764395a117a0e5bbbda55ae8596.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Fd2rsA5I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o263vwe9rxdtay9j628r.png)
 
 下面是 DevOps 的 6 个 c。
 

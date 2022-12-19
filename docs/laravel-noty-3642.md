@@ -10,7 +10,7 @@ Laravel 软件包将漂亮的 noty 通知作为 flash 消息合并到 laravel �
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-[![Latest Version on Packagist](../Images/06461a41d68babb754acbf9043b1f8a1.png) ](https://packagist.org/packages/sarfraznawaz2005/noty) [ ![Total Downloads](../Images/2be1f8f52b9458138e92219dad021453.png)](https://packagist.org/packages/sarfraznawaz2005/noty)
+[![Latest Version on Packagist](img/06461a41d68babb754acbf9043b1f8a1.png) ](https://packagist.org/packages/sarfraznawaz2005/noty) [ ![Total Downloads](img/2be1f8f52b9458138e92219dad021453.png)](https://packagist.org/packages/sarfraznawaz2005/noty)
 
 # 拉维尔·诺迪
 
@@ -20,7 +20,7 @@ Laravel 软件包将漂亮的 noty 通知作为 flash 消息合并到 laravel �
 
 ## 屏幕上显示程序运行的图片
 
-[![Main Window](../Images/e533feb2f1b0ea94d7478dee0c6dcfea.png)T2】](https://github.com/sarfraznawaz2005/noty/blob/master/screen.jpg?raw=true)
+[![Main Window](img/e533feb2f1b0ea94d7478dee0c6dcfea.png)T2】](https://github.com/sarfraznawaz2005/noty/blob/master/screen.jpg?raw=true)
 
 ## 要求
 

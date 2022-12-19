@@ -47,7 +47,7 @@ Ebiten 是我设计的一个非常简单的 2D 游戏库。这基本上是一个
 *   [精灵(GopherJS)](https://jsgo.io/github.com/hajimehoshi/ebiten/examples/sprites)
 *   [精灵(WebAssembly)](https://storage.googleapis.com/ebiten-test/index.html)
 
-[![Sprites](../Images/81188a4900afca4b2a352f72f0c17646.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XSz82o35--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7fdraepf6f6k9cn3dxxe.png)
+[![Sprites](img/81188a4900afca4b2a352f72f0c17646.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XSz82o35--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7fdraepf6f6k9cn3dxxe.png)
 
 通过按左箭头键或右箭头键，您可以更改精灵的数量，并查看 FPS(每秒帧数)如何变化。
 
@@ -71,7 +71,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我粗略地分析了一下，看起来分配(`runtime.mallocgc`)是 WebAssembly 上最繁重的任务。这是不同于 GopherJS 的趋势。我不确定 WebAssembly 上对象如何分配的细节，但至少 WebAssembly 需要与 GopherJS 不同的优化。
 
-[![Profiling](../Images/a7b283a47b3acde6ad91e88119712514.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lNyUuTXP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0gcl7n9t51xpv5kwupm4.png)
+[![Profiling](img/a7b283a47b3acde6ad91e88119712514.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lNyUuTXP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0gcl7n9t51xpv5kwupm4.png)
 
 我打算做优化尽量保持 60 FPS。敬请期待！
 

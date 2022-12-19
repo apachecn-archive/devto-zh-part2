@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/usefulsomebody/tangotwitter-clone-36el>
 
-[![TANGO](../Images/14ac94bb361324a6d4c1117f6440e7c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--22NhBEGY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2azfz91cp1tz5vqewk8z.png)
+[![TANGO](img/14ac94bb361324a6d4c1117f6440e7c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--22NhBEGY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2azfz91cp1tz5vqewk8z.png)
 
 # 我造了什么
 

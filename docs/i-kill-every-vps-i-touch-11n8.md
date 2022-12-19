@@ -53,7 +53,7 @@
 就像试图在我最终设法拼凑的十几个服务
 的基础上再安装一个服务一样。
 
-[![Thanks, Bill Murray.](../Images/5ebbb0f4ab10f158230a930f3297b745.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_RMarSZI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y5liv1l9qjvuzdog3qkw.gif)
+[![Thanks, Bill Murray.](img/5ebbb0f4ab10f158230a930f3297b745.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_RMarSZI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y5liv1l9qjvuzdog3qkw.gif)
 
 这些是杀死副总统的最糟糕的方法。您已经投入了一些实际时间，进行了一系列成功的安装/部署，然后又一次让自己感到失望。不幸的是，也有数百种方法来管理这一点，只有一个出路:重新安装。
 
@@ -75,7 +75,7 @@
 终于到了启动 VPS 和部署 web 应用的时候了。我安装了所有的依赖项，交叉手指，输入`node app.js &`。我遇到了足够多的错误措辞，足以让我点击三次`Page Up`。感觉有点像这样:
 
 **[![Final patch to production<br>
-image](../Images/d8a77e95db0abecd4786473798094faa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nCWLG2j---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.ssdnodes.com/blog/wp-content/uploads/2018/09/201809_kill-patch-942x1024.jpg)T4】**
+image](img/d8a77e95db0abecd4786473798094faa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nCWLG2j---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.ssdnodes.com/blog/wp-content/uploads/2018/09/201809_kill-patch-942x1024.jpg)T4】**
 
 拼凑环境是如此复杂，以至于我甚至在 Github 存储库中添加了以下注释:
 

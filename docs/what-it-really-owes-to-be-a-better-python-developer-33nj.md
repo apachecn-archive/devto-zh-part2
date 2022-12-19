@@ -53,6 +53,6 @@ Q3。当你能够理解列表理解的概念时。
 
 ### Q11:这是你必须能够做的最重要的部分，即调试你的代码，以防任何错误或异常。
 
-如果你能回答或完成所有问题，那么你就准备好进入 Python 的高级部分了，不需要担心忘记概念，让谷歌来做吧。那么，有了这么多足够的知识之后，下一步该做什么呢？你可以通过阅读 [![Why Python Programming?](../Images/587968c1a59d35e66cc57a773458e7bc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zChUwp9E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev.to/thisisrgaurav/why-python-3o39) 来阅读 python 让你选择的各种字段
+如果你能回答或完成所有问题，那么你就准备好进入 Python 的高级部分了，不需要担心忘记概念，让谷歌来做吧。那么，有了这么多足够的知识之后，下一步该做什么呢？你可以通过阅读 [![Why Python Programming?](img/587968c1a59d35e66cc57a773458e7bc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zChUwp9E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev.to/thisisrgaurav/why-python-3o39) 来阅读 python 让你选择的各种字段
 
-如果我遗漏了什么，你可以通过评论补充，或者你可以在 [![What it really owes to be a better Python Developer](../Images/9d2b07fb8294296491902d5ea79430b2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Rokeci83--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tekraze.com/2018/08/what-it-owes-to-be-better-python-dev/) 阅读类似的帖子
+如果我遗漏了什么，你可以通过评论补充，或者你可以在 [![What it really owes to be a better Python Developer](img/9d2b07fb8294296491902d5ea79430b2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Rokeci83--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tekraze.com/2018/08/what-it-owes-to-be-better-python-dev/) 阅读类似的帖子

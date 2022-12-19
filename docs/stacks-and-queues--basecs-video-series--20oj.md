@@ -8,7 +8,7 @@
 
 关于堆栈和队列的更多信息，请查看这篇文章:
 
-[![vaidehijoshi image](../Images/c1af460640a8ad9ea29e58d942edc772.png)](/vaidehijoshi) [## 排队还是不排队
+[![vaidehijoshi image](img/c1af460640a8ad9ea29e58d942edc772.png)](/vaidehijoshi) [## 排队还是不排队
 
 ### vaide hi Joshi Feb 14 ' 179 分钟阅读
 
@@ -16,6 +16,6 @@
 
 如果你有问题或意见，欢迎在下面分享。
 
-[![SparkPost Logo](../Images/e2232787fed781f8d38389598141ee99.png)T2】](https://sparkpost.com/)
+[![SparkPost Logo](img/e2232787fed781f8d38389598141ee99.png)T2】](https://sparkpost.com/)
 
 ### 本视频系列由 [SparkPost](https://www.sparkpost.com/) 赞助。对于开发人员来说，这是发送电子邮件的最佳方式。

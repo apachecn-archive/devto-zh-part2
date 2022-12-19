@@ -8,7 +8,7 @@
 
 在本文中，我们将探讨如何利用 Pusher 的实时特性来创建一个实时更新的计数器。我们将创建一个视频浏览器 iOS 应用程序，实时计数器显示有多少人观看了视频。
 
-[![](../Images/021cf3e871fb7e2e9f0396d6aa12edc9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dB7XEWjM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/06/realtime-online-counter-on-ios-1.gif)
+[![](img/021cf3e871fb7e2e9f0396d6aa12edc9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dB7XEWjM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/06/realtime-online-counter-on-ios-1.gif)
 
 要继续学习，您需要 Swift、Xcode 和命令行的基础知识。您还需要建立一个推销商帐户，并创建一个应用程序。你可以在这里这样做[。](https://pusher.com)
 
@@ -67,7 +67,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在我们完成之后，这是我们目前所拥有的:
 
-[![](../Images/2c044044f8cbefe597f86f074591b924.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2Qik1vP---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/06/realtime-online-counter-on-ios-2.png)
+[![](img/2c044044f8cbefe597f86f074591b924.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2Qik1vP---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/06/realtime-online-counter-on-ios-2.png)
 
 ### 将我们的实时功能添加到我们的应用中
 
@@ -308,7 +308,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 为了让我们的应用程序与本地主机应用程序交互，我们需要做的最后一个更改是在我们的项目`info.plist`文件中。在启动应用程序之前，进行以下更改:
 
-[![](../Images/b9c37d81751ce19a6cb8ee05838f5ed6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t18TjgP6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/06/realtime-online-counter-on-ios-3.png)
+[![](img/b9c37d81751ce19a6cb8ee05838f5ed6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t18TjgP6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/06/realtime-online-counter-on-ios-3.png)
 
 现在，当您启动应用程序时，您可以看到计数器增加，如果有应用程序的另一个实例，他们可以看到计数器实时增加。整洁！
 

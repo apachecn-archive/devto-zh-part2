@@ -124,19 +124,19 @@ Hugo 允许你创建自己的主题或者下载别人做的预制开源主题！
 
 (对于教程，你会看到我的网站使用的编码器主题)。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)[【Luiz depra】](https://github.com/luizdepra)/[【Hugo-coder】](https://github.com/luizdepra/hugo-coder)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)[【Luiz depra】](https://github.com/luizdepra)/[【Hugo-coder】](https://github.com/luizdepra/hugo-coder)
 
 ### 雨果的极简主义博客主题。
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-[![Hugo Theme Badge](../Images/0cca5bfaf2ea7ad9a3fafdefbdd0394e.png) ](https://themes.gohugo.io/hugo-coder/) [ ![MIT License Badge](../Images/1a1ba9fd8a9930a937d32b0788090dc3.png)](https://github.com/luizdepra/hugo-coder/blob/master/LICENSE.txt)
+[![Hugo Theme Badge](img/0cca5bfaf2ea7ad9a3fafdefbdd0394e.png) ](https://themes.gohugo.io/hugo-coder/) [ ![MIT License Badge](img/1a1ba9fd8a9930a937d32b0788090dc3.png)](https://github.com/luizdepra/hugo-coder/blob/master/LICENSE.txt)
 
-[![Hugo Coder Logo](../Images/1febb804234218290ab8b378bf28ea47.png)T2】](https://github.com/luizdepra/hugo-coder)
+[![Hugo Coder Logo](img/1febb804234218290ab8b378bf28ea47.png)T2】](https://github.com/luizdepra/hugo-coder)
 
 一个简单干净的雨果博客主题。
 
-[![](../Images/4a044ded6ca03c11247e4e0b28d2b87b.png)T2】](https://github.com/luizdepra/hugo-coder/blob/master/images/screenshot.png)
+[![](img/4a044ded6ca03c11247e4e0b28d2b87b.png)T2】](https://github.com/luizdepra/hugo-coder/blob/mastimg/screenshot.png)
 
 ## 现场演示
 
@@ -156,7 +156,7 @@ Hugo 允许你创建自己的主题或者下载别人做的预制开源主题！
 
 该主题已准备好导入 Stackbit。这个主题可以部署到 Netlify，您可以连接任何无头 CMS，包括 Forestry、NetlifyCMS、DatoCMS 或 Contentful。
 
-[![Create with Stackbit](../Images/9cfebcb962deecd631c9416959aeedce.png)T2】](https://app.stackbit.com/create?theme=https://github.com/luizdepra/hugo-coder)
+[![Create with Stackbit](img/9cfebcb962deecd631c9416959aeedce.png)T2】](https://app.stackbit.com/create?theme=https://github.com/luizdepra/hugo-coder)
 
 ## 许可证
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/couellet/how-to-organize-your-css-with-a-modular-architecture-oocss-bem-smacss-3gk0>
 
-[![How to Organize Your CSS with a Modular Architecture (OOCSS, BEM, SMACSS)](../Images/fc11bb994c6d6a427e804bc185f6bb1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5rg_f6Ud--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203929/oocss-css-architecture.png)
+[![How to Organize Your CSS with a Modular Architecture (OOCSS, BEM, SMACSS)](img/fc11bb994c6d6a427e804bc185f6bb1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5rg_f6Ud--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203929/oocss-css-architecture.png)
 
 > 这是蒙特利尔的前端设计师克劳迪奥·门东萨在我们博客上的客座博文。他真的做了扎实的工作，所以我想给它一些曝光在这里！享受吧。🙇‍♂️
 
@@ -16,7 +16,7 @@
 
 这不是他们的颜色，或他们的 7K 件千年隼。没有。
 
-[![millennium-falcon-lego-2000](../Images/5318155470ef7ff78755175705130ece.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GCeuP1s3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203928/millennium-falcon-lego-2000.jpg)
+[![millennium-falcon-lego-2000](img/5318155470ef7ff78755175705130ece.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GCeuP1s3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203928/millennium-falcon-lego-2000.jpg)
 
 这就是每一部分如何以各种可能的方式完美地组合在一起。
 
@@ -42,7 +42,7 @@
 
 ### 什么是 OOCSS？
 
-[![OOCSS CSS architecture](../Images/fc11bb994c6d6a427e804bc185f6bb1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5rg_f6Ud--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203929/oocss-css-architecture.png)
+[![OOCSS CSS architecture](img/fc11bb994c6d6a427e804bc185f6bb1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5rg_f6Ud--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203929/oocss-css-architecture.png)
 
 面向对象的 CSS(OOCSS)——以及伴随这种范式转变而来的一切——是更好的界面设计和开发的概念基础。它指出接口是由多个组件组成的，应该尽可能地重用这些组件。
 

@@ -8,7 +8,7 @@
 
 ## HTML
 
-[![Alt text of image](../Images/cb41dbc24ca40759b76e4c3f145ebc25.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5fKX6EZU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0dcwyehim8sya3apq3nq.PNG)
+[![Alt text of image](img/cb41dbc24ca40759b76e4c3f145ebc25.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5fKX6EZU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0dcwyehim8sya3apq3nq.PNG)
 
 1.  这里我们有一个简单的 HTML 文档，带有一个样式表链接，链接到我在头部使用的图标。
 
@@ -18,7 +18,7 @@
 
 ## 现在让我们看看 Javascript 的内部
 
-[![Alt text of image](../Images/7d049c70ed76924c76c4fdfbe8d807f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Kr_UBoSy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sworwl9lc4tx4hrc6w0d.PNG)
+[![Alt text of image](img/7d049c70ed76924c76c4fdfbe8d807f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Kr_UBoSy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sworwl9lc4tx4hrc6w0d.PNG)
 
 除了 Javascript，我还使用了一些 jQuery 方法。
 

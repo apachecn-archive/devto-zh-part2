@@ -17,7 +17,7 @@
 
 从这个网站下载 JDBC
 
-[![jdbc](../Images/28700a70721e68cde8f6ed664213d2ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ROqxZ82n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ztp0uyyfsf1uebamjzib.PNG)
+[![jdbc](img/28700a70721e68cde8f6ed664213d2ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ROqxZ82n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ztp0uyyfsf1uebamjzib.PNG)
 
 # JDBC 的添加目的地 APP 应用的制作
 
@@ -25,13 +25,13 @@
 
 打开 Eclipse，然后选择“文件”>“新建”>“Java 项目”
 
-[![saku](../Images/12f469bdd5b138562eae3817f6af4d7f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qYEUnhvA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/80a0oijptand3696o3rb.PNG)
+[![saku](img/12f469bdd5b138562eae3817f6af4d7f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qYEUnhvA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/80a0oijptand3696o3rb.PNG)
 
 请使用适当的名称创建项目
 
 这次我用了 jdbcsample
 
-[![jdbcsample](../Images/ace9af195adecf72080e821b78139700.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bcFXQLqk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/clvtdqcbgin356mkue5x.PNG)
+[![jdbcsample](img/ace9af195adecf72080e821b78139700.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bcFXQLqk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/clvtdqcbgin356mkue5x.PNG)
 
 # 添加 JDBC 的构建路径
 
@@ -39,11 +39,11 @@
 
 选择项目右键单击>构建路径>添加外部归档文件中提取的 JDBC
 
-[![追加](../Images/798e477706157c48061c1e78f187bc81.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IIPRk1gY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dgncb05uh4oirp8orinb.PNG)
+[![追加](img/798e477706157c48061c1e78f187bc81.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IIPRk1gY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dgncb05uh4oirp8orinb.PNG)
 
 JDBC 现在已添加到项目中
 
-[![追加されたJDBC](../Images/cbf0a6bb4cf7d28cff936abaef217a6e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RbCN9pvM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m7pjon5f0lu4g75foig3.PNG)
+[![追加されたJDBC](img/cbf0a6bb4cf7d28cff936abaef217a6e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RbCN9pvM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m7pjon5f0lu4g75foig3.PNG)
 
 # Java 的程序编制
 
@@ -168,7 +168,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 IDE 的控制台栏显示了执行 SQL 的结果。
 
-[![java](../Images/6a2ae2842bbd93e61686b166aa035dcc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EZxgwwM7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/04y57eyplz4945b36v1d.PNG)
+[![java](img/6a2ae2842bbd93e61686b166aa035dcc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EZxgwwM7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/04y57eyplz4945b36v1d.PNG)
 
 因为运行的是相同的 SQL，所以应该与[这篇帖子](https://dev.to/programmingmonky/postgresqlsql-3dja)的执行结果一致。
 

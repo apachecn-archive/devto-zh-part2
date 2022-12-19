@@ -29,7 +29,7 @@
 
 我听你说这有点复杂。不要担心，做好准备(食物)例子来简单说明这一点。
 
-[![](../Images/b7b147af055b338fa927cf61033e92b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TZR1LIfB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jshilpa.com/wp-content/uploads/2018/02/pringles-105x300.jpg)
+[![](img/b7b147af055b338fa927cf61033e92b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TZR1LIfB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jshilpa.com/wp-content/uploads/2018/02/pringles-105x300.jpg)
 
 [来源:品客官网](https://www.pringles.com/uk/products.html)
 
@@ -63,7 +63,7 @@
 
 让我们再举一个例子来理解其余的问题。
 
-[![](../Images/b1862ee65250e2e2d330f41f93e50cdc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VfyO__eU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AfS3azFCGe6k7tGUMoOdiSw.jpeg)T3】
+[![](img/b1862ee65250e2e2d330f41f93e50cdc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VfyO__eU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AfS3azFCGe6k7tGUMoOdiSw.jpeg)T3】
 
 假设你有一叠煎饼(一叠一叠地叠在一起)。
 

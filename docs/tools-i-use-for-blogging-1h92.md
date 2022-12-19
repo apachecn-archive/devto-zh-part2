@@ -4,7 +4,7 @@
 
 这篇文章是专门为庆祝 dev.to 上的 200 多名追随者而写的。
 
-[![.](../Images/0ea48b5b91c0069b7f828113cadb4023.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hk64ebyd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j0bsgal330ecicqxvfzb.jpg)
+[![.](img/0ea48b5b91c0069b7f828113cadb4023.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hk64ebyd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j0bsgal330ecicqxvfzb.jpg)
 
 我在 13 岁的时候就开始写关于技术、自然和科学的博客，2014 年我开始了一个名为 **AlphaPedia** 的博客博客，每月仅有 1000 名独立访客，每天有 5 到 10 名访客。那时候我对博客一无所知，所以几个星期后我厌倦了，开始专注于编程，所以我离开了博客！
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/hasurahq/graphql-and-geolocation-on-postgres-postgis-using-hasura-2326>
 
-[![](../Images/793e7bebf7d99f080d1f73dd69edda98.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OQ30DCOU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/2019/01/image-1.png)
+[![](img/793e7bebf7d99f080d1f73dd69edda98.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OQ30DCOU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/2019/01/image-1.png)
 
 使用 postgres 和 GraphQL 构建位置感知应用后端的初级读本
 
@@ -14,7 +14,7 @@
 
 我们将使用 Hasura GraphQL 引擎通过 Postgres 即时获取 GraphQL APIs。点击下面的按钮，将 GraphQL 引擎部署到 Heroku 的自由层。
 
-[![Hasura on Heroku](../Images/c5f2ec62efbee76fd41eb9eff7b5c1c0.png)T2】](https://heroku.com/deploy?template=https://github.com/hasura/graphql-engine-heroku)
+[![Hasura on Heroku](img/c5f2ec62efbee76fd41eb9eff7b5c1c0.png)T2】](https://heroku.com/deploy?template=https://github.com/hasura/graphql-engine-heroku)
 
 这将把`graphql-engine`部署到 Heroku。如果您没有 Heroku 帐户，您可能需要创建一个。`graphql-engine`将在`https://your-app.herokuapp.com`运行(用你的 heroku 应用名称替换`your-app`)。
 

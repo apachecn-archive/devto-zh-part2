@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/arleneandrews/testing-elementalseleniums-5-days-of-frustrations-and-explorations-4h35>
 
-[![](../Images/386318f46465e1be962a699641d291e2.png)](https://www.velior.ru/wp-content/uploads/2009/05/Test-Computer-Key-by-Stuart-Miles.jpg)
+[![](img/386318f46465e1be962a699641d291e2.png)](https://www.velior.ru/wp-content/uploads/2009/05/Test-Computer-Key-by-Stuart-Miles.jpg)
 [https://www . velior . ru/WP-content/uploads/2009/05/Test-Computer-Key-by-Stuart-miles . jpg](https://www.velior.ru/wp-content/uploads/2009/05/Test-Computer-Key-by-Stuart-Miles.jpg)
 
 经过几个月的尝试，发现自己擅长什么和不擅长什么后，我找到了自己想追随的兴趣:测试。有如此多的新事物出现，随着我们开始看到的联网设备，加上来自我们认为值得信赖的来源的问题的可能性——这听起来像是一个我可以享受、擅长和成长的职业。

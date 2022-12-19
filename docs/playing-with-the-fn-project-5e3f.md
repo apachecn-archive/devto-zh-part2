@@ -33,7 +33,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 以上命令在单服务器模式下运行 Fn，并嵌入数据库和队列。在后台，fn start 命令以特权模式运行一个名为 fnproject/fnserver 的 Docker 映像。它还将 Docker 套接字装入容器以及当前工作目录中的/data 文件夹(这是存储数据库和队列信息的地方)。最后，它向主机公开端口 8080，因此您可以在该端口上调用它。
 
-[![docker ps](../Images/abf075d28b747e318fed549d353be30b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NtJ2p8hE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Az3us6YbBtLWWHPQ-OVHckg.png)
+[![docker ps](img/abf075d28b747e318fed549d353be30b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NtJ2p8hE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Az3us6YbBtLWWHPQ-OVHckg.png)
 
 现在您已经运行了 Fn 服务器，您可以创建一个新的函数。
 
@@ -107,7 +107,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 命令将应用程序(名为`myapp`)部署到本地 Fn 服务器，并创建一个名为`/hello`(我们的函数名)的路径。
 
-[![running fn deploy](../Images/7ea01518e5cd45d393e12f9c4219d5cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eMPVNBhX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AU9UHXdQlrCScQr6wLn4nsg.png)
+[![running fn deploy](img/7ea01518e5cd45d393e12f9c4219d5cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eMPVNBhX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AU9UHXdQlrCScQr6wLn4nsg.png)
 
 这意味着在 Fn 服务器上，可以在/myapp/hello 路径下访问该函数。应用程序名称用于对功能进行逻辑分组。要查看 Fn 服务器上定义的所有路由的完整列表，请运行以下命令:
 
@@ -202,7 +202,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当图像被下载并且容器执行时，您将能够在`http://localhost:4000`上访问 UI。
 
-[![fn project UI](../Images/85bf5b5f6893297a8175ecb180911732.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bejIdsJ5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2AenzDJZLDo-7DB85i8sBSGQ.png)
+[![fn project UI](img/85bf5b5f6893297a8175ecb180911732.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bejIdsJ5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2AenzDJZLDo-7DB85i8sBSGQ.png)
 
 # 延伸 Fn
 

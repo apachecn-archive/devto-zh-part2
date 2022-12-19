@@ -24,7 +24,7 @@
 
 一个持久的音频播放器，位于页脚，并在您浏览页面时继续播放。
 
-[![persistent audio player action shot](../Images/45e951a70cb2621095c61806a6a23eb6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lc-njpNr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://changelog-assets.s3.amazonaws.com/changelog-player.png)
+[![persistent audio player action shot](img/45e951a70cb2621095c61806a6a23eb6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lc-njpNr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://changelog-assets.s3.amazonaws.com/changelog-player.png)
 
 **但仅此而已**。没有*我们想象中的其他特征或需求*需要水疗。我真的想分叉代码库，增加我们的 JS 有效载荷，并且<选择一个前端框架< /gasp >以便我们可以有一个持久的音频播放器吗？
 

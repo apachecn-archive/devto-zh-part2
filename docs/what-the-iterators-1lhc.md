@@ -54,7 +54,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 等待...什么？
 
-<center>![what](../Images/bbc1fac56fe723f9ccfd70085d7d0cda.png)</center>
+<center>![what](img/bbc1fac56fe723f9ccfd70085d7d0cda.png)</center>
 
 是...这看起来很奇怪，但也没那么糟糕。
 让我们再次引用:
@@ -141,7 +141,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 你必须*始终*小心这一点，并且只使用**可迭代**对象和类似的工具！。
 
-<center>![danger](../Images/3e805ed35a0273221046d38192888aa2.png)</center>
+<center>![danger](img/3e805ed35a0273221046d38192888aa2.png)</center>
 
 我想说*拜拜*加点料:
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/tmclaughbos/static-websites-on-aws-s3-with-serverless-framework-21b7>
 
-[![WWW+S3.png](../Images/f6b60a05917e54e9030ad26c28d93b64.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AtJrb0JO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.serverlessops.io/hs-fs/hubfs/blog/WWW%2BS3.png%3Fnoresize)
+[![WWW+S3.png](img/f6b60a05917e54e9030ad26c28d93b64.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AtJrb0JO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.serverlessops.io/hs-fs/hubfs/blog/WWW%2BS3.png%3Fnoresize)
 
 在寻找一个项目时，我注意到有一个非常简单的无服务器模式，我没有看到太多关于它的文章:网站托管。我们通常会立即想到 Lambda 和 AWS serverless，但它不仅仅是功能即服务(FaaS)。像托管一个静态网站这样的简单用例不需要 EC2 就可以完成，并且可以使用[无服务器框架](https://serverless.com/framework/)进行管理。
 
@@ -33,7 +33,7 @@
 
 该项目大致如下:
 
-[![Serverless Zombo S3 Diagram.png](../Images/24e9e1af3950ace74767a055902a24b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SBsG5COv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.serverlessops.io/hs-fs/hubfs/blog/Serverless%2520Zombo%2520S3%2520Diagram.png%3Ft%3D1518484684999%26width%3D686%26height%3D313%26name%3DServerless%2520Zombo%2520S3%2520Diagram.png)
+[![Serverless Zombo S3 Diagram.png](img/24e9e1af3950ace74767a055902a24b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SBsG5COv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.serverlessops.io/hs-fs/hubfs/blog/Serverless%2520Zombo%2520S3%2520Diagram.png%3Ft%3D1518484684999%26width%3D686%26height%3D313%26name%3DServerless%2520Zombo%2520S3%2520Diagram.png)
 
 ### 无服务器框架设置
 
@@ -255,7 +255,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，如果我们浏览到[http://serverless-zombo.com](http://serverless-zombo.com)，我们又回到了互联网的全盛时期。
 
-[![Serverless Zombo Home Page.png](../Images/90db28c63524a5c6647e2aff0f61da2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HgEj8hgl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.serverlessops.io/hs-fs/hubfs/blog/Serverless%2520Zombo%2520Home%2520Page.png%3Ft%3D1518484684999%26width%3D800%26height%3D500%26name%3DServerless%2520Zombo%2520Home%2520Page.png)
+[![Serverless Zombo Home Page.png](img/90db28c63524a5c6647e2aff0f61da2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HgEj8hgl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.serverlessops.io/hs-fs/hubfs/blog/Serverless%2520Zombo%2520Home%2520Page.png%3Ft%3D1518484684999%26width%3D800%26height%3D500%26name%3DServerless%2520Zombo%2520Home%2520Page.png)
 
 ## 结论
 
@@ -269,4 +269,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 *这最初出现在 [ServerlessOps 博客](https://www.serverlessops.io/blog)上。请访问以阅读更多我们的作品！*
 
-[![](../Images/71430884e6dec9f744eca531312d370c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JjbwS03H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://track.hubspot.com/__ptq.gif%3Fa%3D277116%26k%3D14%26r%3Dhttps%253A%252F%252Fwww.serverlessops.io%252Fblog%252Fstatic-websites-on-aws-s3-with-serverless-framework%26bu%3Dhttps%25253A%25252F%25252Fwww.serverlessops.io%25252Fblog%26bvt%3Drss)
+[![](img/71430884e6dec9f744eca531312d370c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JjbwS03H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://track.hubspot.com/__ptq.gif%3Fa%3D277116%26k%3D14%26r%3Dhttps%253A%252F%252Fwww.serverlessops.io%252Fblog%252Fstatic-websites-on-aws-s3-with-serverless-framework%26bu%3Dhttps%25253A%25252F%25252Fwww.serverlessops.io%25252Fblog%26bvt%3Drss)

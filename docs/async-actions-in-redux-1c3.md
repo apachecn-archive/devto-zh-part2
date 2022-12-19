@@ -91,11 +91,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 **一些有趣的讨论:**
 
-> ![unknown tweet media content](../Images/d5131aab6baeda7907a65a71f3480d81.png)![Hemanth.HM profile image](../Images/89041879804205d5b4e6e7e6fa6a2f55.png)赫曼思。HM@ gnumanth![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)那么，向朋友解释 Redux 中的异步动作，你有什么建议？
+> ![unknown tweet media content](img/d5131aab6baeda7907a65a71f3480d81.png)![Hemanth.HM profile image](img/89041879804205d5b4e6e7e6fa6a2f55.png)赫曼思。HM@ gnumanth![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)那么，向朋友解释 Redux 中的异步动作，你有什么建议？
 > 
 > 0。谈谈 Redux 的 Thunk/Promise 中间件？
 > 1。像下面这样做一些更香草的东西？
-> 2。中间件是强制性的情况？2018 年 2 月 15 日上午 09:35[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=964070760443604993)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=964070760443604993)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=964070760443604993)
+> 2。中间件是强制性的情况？2018 年 2 月 15 日上午 09:35[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=964070760443604993)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=964070760443604993)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=964070760443604993)
 
 页（page 的缩写）感谢`<GreenJello>`的快速回顾。
 

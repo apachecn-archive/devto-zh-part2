@@ -4,7 +4,7 @@
 
 #### 了解如何通过验证道具类型来改进 React 组件。
 
-[![](../Images/9f558d512e304da1c00812abef04c4de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BYghaaXq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AOokUL1A5kfzYkQjX5s9rRQ.jpeg)
+[![](img/9f558d512e304da1c00812abef04c4de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BYghaaXq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AOokUL1A5kfzYkQjX5s9rRQ.jpeg)
 
 Props 是一个非常重要的机制，用于将只读属性传递给 React 组件。这些属性通常需要具有特定的类型或形式，以便在组件中正确使用。
 
@@ -55,7 +55,7 @@ ReactDOM.render(<App />, rootElement);
 
 下面的截图显示了该应用程序的外观— *和一些引导样式*:
 
-[![](../Images/c554be73ba086ecc36d4aa8eb0e6bfcd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2UXYHG-Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AnB_CEQNguyAvqcrW.png) 
+[![](img/c554be73ba086ecc36d4aa8eb0e6bfcd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2UXYHG-Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AnB_CEQNguyAvqcrW.png) 
 
 <figcaption>带 PercentageStat 组件的 App</figcaption>
 
@@ -81,11 +81,11 @@ function App() {
 
 下面的截图显示了应用程序视图现在的样子:
 
-[![](../Images/21a99385978713286e9ad58b56b5adf5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Jddj9Gby--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A5CZP-gVxykKir0N6.png) 
+[![](img/21a99385978713286e9ad58b56b5adf5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Jddj9Gby--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A5CZP-gVxykKir0N6.png) 
 
 <figcaption>带有无效道具的 PercentageStat 组件</figcaption>
 
-[![](../Images/86ffb999570e4efaceac3a814896185c.png)T2】](https://logrocket.com/signup/)
+[![](img/86ffb999570e4efaceac3a814896185c.png)T2】](https://logrocket.com/signup/)
 
 ### 验证道具
 
@@ -135,7 +135,7 @@ class ReactComponent extends React.Component {
 
 当属性被传递给一个 React 组件时，它们会根据在**属性中配置的类型定义进行检查。当为某个属性传递了无效值时，JavaScript 控制台上会显示一条警告。**
 
-[![](../Images/8dcd01a9799f4d877bfa42f66f23750f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9_ca8kPE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2Ao5XE_YVvwxwrHAyQ.png) 
+[![](img/8dcd01a9799f4d877bfa42f66f23750f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9_ca8kPE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2Ao5XE_YVvwxwrHAyQ.png) 
 
 <figcaption>无效道具警告</figcaption>
 
@@ -365,7 +365,7 @@ Component.propTypes = {
 } 
 ```
 
-[![](../Images/1e4724acbee807f7ecc14fa84bcc9a83.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--I0q6TqQt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9ieagimnjojf7vz1x0cz.png) 
+[![](img/1e4724acbee807f7ecc14fa84bcc9a83.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--I0q6TqQt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9ieagimnjojf7vz1x0cz.png) 
 
 <figcaption>无效邮件道具警告</figcaption>
 
@@ -532,7 +532,7 @@ PercentageStat.propTypes = {
 
 ## Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![LogRocket Dashboard Free Trial Banner](../Images/0abf868fe5ccbed99d71cb8d9e81ed98.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6FG5kvEL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png%3Fresize%3D1200%252C677%26ssl%3D1)
+[![LogRocket Dashboard Free Trial Banner](img/0abf868fe5ccbed99d71cb8d9e81ed98.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6FG5kvEL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png%3Fresize%3D1200%252C677%26ssl%3D1)
 
 [log rocket](https://logrocket.com/signup/)是一个前端日志工具，让你重放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

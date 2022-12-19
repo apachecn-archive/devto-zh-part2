@@ -8,7 +8,7 @@
 
 CLI 隐藏了所有管道的事实可能会导致这样的问题:“我如何在 ASP.NET 核心中使用 Angular？”。
 
-[![Angular and Asp.Net Core logos](../Images/5813b7d6ffd8dabe3c878f444bc3123d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dKBafg3O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.blinkingcaret.com/wp-content/uploads/2018/01/asp_net_core_and_angular_logo.png)
+[![Angular and Asp.Net Core logos](img/5813b7d6ffd8dabe3c878f444bc3123d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dKBafg3O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.blinkingcaret.com/wp-content/uploads/2018/01/asp_net_core_and_angular_logo.png)
 
 我希望在这篇博客文章结束时，你会清楚如何回答这个问题(不仅仅是 ASP.NET 核心，无论你想将 Angular 应用程序与哪种技术配合使用)。
 
@@ -229,17 +229,17 @@ Nginx 选择最“具体”的位置块，因此即使对`/api/users`的请求�
 
 但是在此之前，我们需要为我们的 Angular 应用程序创建一个应用程序池。右键单击 IIS 管理器中的应用程序池:
 
-[![Right click on application pools](../Images/5c5e92d96b3e3af24a22e2319e79e704.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3Uc2EqPB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.blinkingcaret.com/wp-content/uploads/2018/01/1_add_new_app_poll.png)
+[![Right click on application pools](img/5c5e92d96b3e3af24a22e2319e79e704.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3Uc2EqPB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.blinkingcaret.com/wp-content/uploads/2018/01/1_add_new_app_poll.png)
 
 Angular 应用程序的应用程序池不需要托管代码(我们只需要提供静态文件)。我们应该在。NET CLR 版本:
 
-[![No Managed Code application pool](../Images/c2db82bb5b7ea91cd3da1a541212fb2c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WlXuPIkR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.blinkingcaret.com/wp-content/uploads/2018/01/2_no_manage_code_app_pool.png)
+[![No Managed Code application pool](img/c2db82bb5b7ea91cd3da1a541212fb2c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WlXuPIkR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.blinkingcaret.com/wp-content/uploads/2018/01/2_no_manage_code_app_pool.png)
 
 我们现在可以添加一个新的 IIS 网站，并将我们创建的新应用程序池设置为它的应用程序池:
 
-[![Add new web site](../Images/b7bec11910e77d6c4e193fa0543d92e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aWGVDJte--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.blinkingcaret.com/wp-content/uploads/2018/01/3_add_website.png)
+[![Add new web site](img/b7bec11910e77d6c4e193fa0543d92e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aWGVDJte--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.blinkingcaret.com/wp-content/uploads/2018/01/3_add_website.png)
 
-[![Configure website](../Images/8b20165e2fee63bb3f648e8c8e8d1e68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D_dzvsfP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.blinkingcaret.com/wp-content/uploads/2018/01/4_new_website_configuration.png)
+[![Configure website](img/8b20165e2fee63bb3f648e8c8e8d1e68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D_dzvsfP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.blinkingcaret.com/wp-content/uploads/2018/01/4_new_website_configuration.png)
 
 物理路径应该设置为 Angular 项目被编译到的位置，通常是`dist`文件夹。
 
@@ -249,7 +249,7 @@ Angular 应用程序的应用程序池不需要托管代码(我们只需要提�
 
 转到包含已编译的 Angular 项目的文件夹，右键单击它并选择 properties，转到 security 选项卡，单击 edit，然后添加，最后添加应用程序池用户:
 
-[![Configure permissions for the folder](../Images/9e81f84e5ade97d622fca4aaeebb3713.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Sa4AET4G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.blinkingcaret.com/wp-content/uploads/2018/01/5_permissions.png)
+[![Configure permissions for the folder](img/9e81f84e5ade97d622fca4aaeebb3713.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Sa4AET4G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.blinkingcaret.com/wp-content/uploads/2018/01/5_permissions.png)
 
 如果您转到`http://localhost`，我们现在应该可以访问您的角度应用程序。
 
@@ -308,7 +308,7 @@ Angular 应用程序的应用程序池不需要托管代码(我们只需要提�
 
 但是在你开始之前，你需要确保你已经安装了用于 IIS 的 ASP.NET 核心模块。如果您安装了，它可能已经安装了。Net Core SDK，但是最好的确认方法是转到 IIS 管理器，看看它是否在模块列表中:
 
-[![Module list with AspNetCoreModule](../Images/feb43d5a7ba6dd35a69888e022a562a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lulvsErp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.blinkingcaret.com/wp-content/uploads/2018/01/AspNetCoreModule.png)
+[![Module list with AspNetCoreModule](img/feb43d5a7ba6dd35a69888e022a562a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lulvsErp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.blinkingcaret.com/wp-content/uploads/2018/01/AspNetCoreModule.png)
 
 如果你没有它，你可以找到更多关于它的信息[这里](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/servers/aspnet-core-module?tabs=aspnetcore2x)和下载它的直接链接[这里](https://go.microsoft.com/fwlink/?linkid=837808)。
 
@@ -325,7 +325,7 @@ ASP.NET 核心应用程序的应用程序池也是非托管的(没有托管代�
 > HTTP 错误 500.19 -内部服务器错误
 > 无法访问请求的页面，因为该页面的相关配置数据无效。
 
-[![IIS permissions error](../Images/46628942d563ce61e5b41c6c2f2f6261.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f6AD1VO6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.blinkingcaret.com/wp-content/uploads/2018/01/Error_500_19_No_Permissions.png)
+[![IIS permissions error](img/46628942d563ce61e5b41c6c2f2f6261.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f6AD1VO6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.blinkingcaret.com/wp-content/uploads/2018/01/Error_500_19_No_Permissions.png)
 
 如果您查看`Config Error`部分，您会看到“由于权限不足，无法读取配置文件”，这几乎说明了一切。
 
@@ -333,7 +333,7 @@ ASP.NET 核心应用程序的应用程序池也是非托管的(没有托管代�
 
 您的 ASP.NET 核心应用程序现在应该可以在您在 IIS 中创建网站时选择的端口上使用。然而，如果你试图从 Angular 应用程序调用它，你会得到这个错误“加载失败...请求的资源上没有“Access-Control-Allow-Origin”标头..."。下面是一个在开发人员工具控制台选项卡中的示例:
 
-[![Failed CORS request](../Images/9d125209b7aedc10cda373f664c085da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J7L2fT14--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.blinkingcaret.com/wp-content/uploads/2018/01/failed_cors.png)
+[![Failed CORS request](img/9d125209b7aedc10cda373f664c085da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J7L2fT14--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.blinkingcaret.com/wp-content/uploads/2018/01/failed_cors.png)
 
 这是因为即使我们的 Angular 和 ASP.NET 核心应用程序在同一个域中，但它们在不同的端口，这足以在除 IE 之外的所有浏览器中将该请求定义为跨源资源共享(CORS)请求。
 

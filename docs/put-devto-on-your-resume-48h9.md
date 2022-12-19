@@ -4,7 +4,7 @@
 
 你可以这样做:
 
-[![resume](../Images/3210c4eb489f7c4822eb005d00aa708c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jVrN-_J9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vsywk19g19nhbo4w2e10.PNG)
+[![resume](img/3210c4eb489f7c4822eb005d00aa708c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jVrN-_J9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vsywk19g19nhbo4w2e10.PNG)
 
 为什么？因为在 dev.to 上写作会向潜在雇主暗示一些关于你的重要事情:
 

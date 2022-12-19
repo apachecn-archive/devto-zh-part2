@@ -65,7 +65,7 @@ HTTP/2 不使用换行符分隔请求和响应，而是将数据分成更小的�
 *   CDNs 是一个 web 缓存覆盖网络，旨在从最佳(通常是地理上最近的)位置向客户端交付内容。
 *   离用户很近的不同的、地理上分散的服务器。
 
-[![https://mjau-mjau.com/content/2.blog/6.cloudflare-page-caching/network-map.png](../Images/096f5e8e5eef1cffe8993c2a4abd191a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZAIyrfsv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mjau-mjau.com/content/2.blog/6.cloudflare-page-caching/network-map.png)
+[![https://mjau-mjau.com/content/2.blog/6.cloudflare-page-caching/network-map.png](img/096f5e8e5eef1cffe8993c2a4abd191a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZAIyrfsv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mjau-mjau.com/content/2.blog/6.cloudflare-page-caching/network-map.png)
 
 cdn 可以属于大型内容提供商，如谷歌，或者独立网络(如 Akamai 和 Netlify)和 ISP(如美国电话电报公司或 Level 3)。为了说明这些网络的规模，谷歌有大约 30，000 个前端缓存节点，而 Akamai 在全球 72 个国家的 1000 个独特的网络中有 85，000 个独特的缓存服务器。
 
@@ -145,7 +145,7 @@ BitTorrent 是一个点对点 CDN，用于文件共享，特别是大型文件�
 
 这里的主要思想是**键**和**节点**映射到同一个 **ID 空间**。
 
-[![http://blog.plasmaconduit.com/content/images/2014/Sep/consistent_hashing_003.jpg](../Images/1bab762def8743b1e5559fbf7d2ed238.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tmnFR3vW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.plasmaconduit.com/content/images/2014/Sep/consistent_hashing_003.jpg)
+[![http://blog.plasmaconduit.com/conteimg/2014/Sep/consistent_hashing_003.jpg](img/1bab762def8743b1e5559fbf7d2ed238.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tmnFR3vW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.plasmaconduit.com/conteimg/2014/Sep/consistent_hashing_003.jpg)
 
 像 SHA1 这样的散列函数被用来为密钥(例如散列密钥)和节点(例如散列 IP 地址)分配标识符。完成后，我们将键 id 映射到节点 id，这样我们就知道哪个负责特定键的查找。 **Chord** 的想法是**一个密钥存储在它的后继节点**，也就是 ID 次高的节点。(如果 ID 是最高的数字，它绕到第一个节点，因此是环形格式)
 

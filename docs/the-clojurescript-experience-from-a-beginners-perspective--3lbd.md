@@ -27,7 +27,7 @@
 
 ClojureScript 真正闪光的地方是 REPL 功能。这是一个强大的功能，并邀请您尝试，测试和学习。
 
-[![Clojure tools](../Images/5ec0419e1ded15c383f7ff4989ef6371.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VPApoynK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mio2lrw2as2kuv5pqsw5.png)
+[![Clojure tools](img/5ec0419e1ded15c383f7ff4989ef6371.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VPApoynK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mio2lrw2as2kuv5pqsw5.png)
 
 ## 第三方套餐
 
@@ -37,7 +37,7 @@ ClojureScript 真正闪光的地方是 REPL 功能。这是一个强大的功能
 
 ## 工装
 
-[![Clojure tooling](../Images/c273f4f5392640f212e1fcb15327e3b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5qwL4JJK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sqng1lq896o5mz5vq58c.png)
+[![Clojure tooling](img/c273f4f5392640f212e1fcb15327e3b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5qwL4JJK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sqng1lq896o5mz5vq58c.png)
 
 *   **[Atom](https://atom.io/)**
     *   可以很好地使用插件(pari fer，atom-pari fer，lisp-paredit)

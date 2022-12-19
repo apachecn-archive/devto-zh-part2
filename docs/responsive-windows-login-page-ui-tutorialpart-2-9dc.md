@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/munamohamed94/responsive-windows-login-page-ui-tutorialpart-2-9dc>
 
-[![](../Images/70d7003264fe6af42059c5f102e7660b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IIxUYCuP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lh91jbl42v1m9ahfyhtr.png)
+[![](img/70d7003264fe6af42059c5f102e7660b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IIxUYCuP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lh91jbl42v1m9ahfyhtr.png)
 *原本贴在介质上。
 
 谁准备好第二部分了？
@@ -81,7 +81,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 #login-page-inner 的宽度设置为 300 像素，对于#user-image-container，我们将宽度和高度设置为 110 像素。我们设置用户图标的行高。fa-user-o，设置为 110 像素，使其在新调整的#user-image-container 中垂直居中。最后，我们给#password 一个 200 像素的宽度。
 
-[![](../Images/5bb9d9ee231159aad29c0f8c028781af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_LIWDo_D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qggg66wurg0xdnk3ztcl.gif)
+[![](img/5bb9d9ee231159aad29c0f8c028781af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_LIWDo_D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qggg66wurg0xdnk3ztcl.gif)
 
 就是这样！在上面的 GIF 中，你可以看到我们的登录页面如何响应不同的屏幕尺寸。
 

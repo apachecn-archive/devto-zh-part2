@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kritner/using-configuration-files-to-manage-nuget-package-versions-and-other-stuff-ojp>
 
-[![](../Images/a9684b734e3cb397f95ffbb1247c27ba.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Cqj47Tnx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AYEroZmGevryq7HmzevaRWA.png)
+[![](img/a9684b734e3cb397f95ffbb1247c27ba.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Cqj47Tnx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AYEroZmGevryq7HmzevaRWA.png)
 
 <figcaption>NuGet.org，微软搜索结果</figcaption>
 
@@ -18,7 +18,7 @@
 
 从一个包含三个“空”类库项目的项目开始:
 
-[![](../Images/1afe2984f74281c95dfeed9c30628980.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--L69ZwxSw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/520/1%2AaLbbOOjL6uamWD8yotASPQ.png) 
+[![](img/1afe2984f74281c95dfeed9c30628980.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--L69ZwxSw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/520/1%2AaLbbOOjL6uamWD8yotASPQ.png) 
 
 <figcaption>解带 3 个“空”类库项目</figcaption>
 
@@ -32,7 +32,7 @@
 
 现在，解决方案应该是这样的:
 
-[![](../Images/edf9e3ab318ad63cf792431a6b095bc9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AjEPe9qh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ALhQE-IHT2Bu6R7QLGHaRxw.png) 
+[![](img/edf9e3ab318ad63cf792431a6b095bc9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AjEPe9qh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ALhQE-IHT2Bu6R7QLGHaRxw.png) 
 
 <figcaption>解与 NuGet 包的依赖关系。</figcaption>
 

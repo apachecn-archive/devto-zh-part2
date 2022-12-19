@@ -6,4 +6,4 @@ Gatsby 是一个现代的基于 React 的静态内容生成器，它拥有令人
 
 [开始行动🚀](https://auth0.com/blog/building-a-blog-with-gatsby-react-and-webtask/?utm_source=dev&utm_medium=sc&utm_campaign=gatsby_blog)
 
-[![Building a blog with Gatsby, React and Webtask.io!](../Images/5ec3d025e892ba629c8ada82a5fbe14a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yllT_KqC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/66eggyslj6s2a8eu9xmw.png)
+[![Building a blog with Gatsby, React and Webtask.io!](img/5ec3d025e892ba629c8ada82a5fbe14a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yllT_KqC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/66eggyslj6s2a8eu9xmw.png)

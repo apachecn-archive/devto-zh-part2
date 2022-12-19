@@ -18,7 +18,7 @@ JavaScript 中的 reduce 方法为您提供了一种简单的方法来获取一�
 
 我意识到这有点像节食。从卡路里计数这样非常简单的方法，到阿特金斯或 WeightWatchers 这样更复杂的饮食，目标是将你一天中可能吃的所有食物提取到一个值(或多个值)中，看看你是否正在减肥。
 
-[![](../Images/fb1de9a67f597b80d93ef8eeb5c71c3e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rKzhOWmk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2A6uTOdFevTD49equ3)
+[![](img/fb1de9a67f597b80d93ef8eeb5c71c3e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rKzhOWmk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2A6uTOdFevTD49equ3)
 
 所以让我们开始吧！为了理解这个教程，你只需要对循环的*有经验。*
 
@@ -61,9 +61,9 @@ Enter fullscreen mode Exit fullscreen mode
 
 所以，*减少*有一些记忆的概念。当您遍历数组中的每一项时，在 *sum* 参数中会跟踪这些值。在前面的例子中，我们必须在循环范围之外声明一个新变量来“记住”这些值。
 
-[![](../Images/07050247fdfa464eefea045553792872.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UdRUBuKU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A9p2n2qurUUU8fbPVcj6l7A.jpeg)
+[![](img/07050247fdfa464eefea045553792872.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UdRUBuKU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A9p2n2qurUUU8fbPVcj6l7A.jpeg)
 
-[![](../Images/dab440107246c91f25c9920c19395131.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ql_JV69a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A-_qAZrNzGc3mHwcmZKbBCg.jpeg)
+[![](img/dab440107246c91f25c9920c19395131.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ql_JV69a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A-_qAZrNzGc3mHwcmZKbBCg.jpeg)
 
 这个和 for()之间的可读性似乎没有太大的区别。但是，当你(或另一个开发者)需要扫描数百行代码时，reduce 会给你一个关于代码块用途的快速提示。
 
@@ -115,7 +115,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 下面是这个过程的快速 GIF。
 
-[![](../Images/d80ff55d20f373020944ce2472b5c601.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L16XQisV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AE2u29KZCOjKUHTxACzKFew.gif)
+[![](img/d80ff55d20f373020944ce2472b5c601.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L16XQisV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AE2u29KZCOjKUHTxACzKFew.gif)
 
 在浏览每个项目时，您将更改对象中特定属性的值。如果该对象还没有正确名称的属性，您将创建它。这是代码。
 

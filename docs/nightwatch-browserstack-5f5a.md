@@ -30,7 +30,7 @@ Browserstack 有一份关于如何运行 Nightwatch 测试套件的很好的文�
 
 如果测试需要在 Browserstack 上运行，我们设置 runner 使用 Browserstack local。如果没有，我们使用默认配置来设置服务器，这与 Browserstack 文档提供的代码相同。
 
-<figure>[![](../Images/3b5641795d2cad23fb8a3b923e3d5305.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_pLBmMUL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2As-EoAc7HQIkAXdI4lreaWg.png) 
+<figure>[![](img/3b5641795d2cad23fb8a3b923e3d5305.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_pLBmMUL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2As-EoAc7HQIkAXdI4lreaWg.png) 
 
 <figcaption>在浏览器堆栈</figcaption>
 
@@ -42,7 +42,7 @@ Browserstack 有一份关于如何运行 Nightwatch 测试套件的很好的文�
 
 我们的配置默认使用本地 selenium。如果提供节点环境变量 RUNNERis 来对 browserstack 执行测试，我们将覆盖这些设置以使用 Browserstack selenium(类似于 Browserstack 文档)。
 
-<figure>[![](../Images/d323f391cca4a2b1fb21349a3ed47555.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LL_P9lxI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ApWI24Jnwl42e5xvNMNfxVA.png) 
+<figure>[![](img/d323f391cca4a2b1fb21349a3ed47555.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LL_P9lxI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ApWI24Jnwl42e5xvNMNfxVA.png) 
 
 <figcaption>覆盖 Nightwatch 配置以使用浏览器堆栈硒</figcaption>
 
@@ -54,7 +54,7 @@ Browserstack 有一份关于如何运行 Nightwatch 测试套件的很好的文�
 
 请求需要会话 ID，它可以在测试中或者在每个测试套件结束时执行的全局 afterEach 中获得。在 nightwatch 配置文件中，您可以在 globals 属性中设置它。如果测试失败，我们会请求将它们设置为失败。我们还更新了会话的名称，以显示测试是在哪个环境中执行的:test 或 prod。
 
-<figure>[![](../Images/4370a84901f02614c26dfd4fe16afc81.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--I4_mmzxz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ahn7BbaMflgsG4EWBxLHA4A.png) 
+<figure>[![](img/4370a84901f02614c26dfd4fe16afc81.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--I4_mmzxz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ahn7BbaMflgsG4EWBxLHA4A.png) 
 
 <figcaption>将浏览器堆栈中的测试会话设置为失败或成功</figcaption>
 

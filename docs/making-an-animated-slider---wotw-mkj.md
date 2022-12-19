@@ -7,7 +7,7 @@
 这一次我们将创建一个温度滑块，虽然它可以用于任何事情。
 灵感来自于[ramykhufash](https://uimovement.com/user/10/ramykhuffash/)创作的[投稿](https://uimovement.com/ui/5774/smart-home/)，看起来是这样的:
 
-[![wotw-slider](../Images/80396028ab9355e1684338543b2ec2f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EnfN2C28--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6td1xmj40502hlnhgwwt.gif)
+[![wotw-slider](img/80396028ab9355e1684338543b2ec2f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EnfN2C28--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6td1xmj40502hlnhgwwt.gif)
 
 ### 制剂
 
@@ -82,7 +82,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在`upper-container`中设置的`position: relative`属性将在我们托盘定位其内部元素时使用。
 
-[![bgs](../Images/89669d84fc0545ec31f440242fd49ba9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mw6cXZE6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m6bb179vepyjxxrdvmfx.png) 
+[![bgs](img/89669d84fc0545ec31f440242fd49ba9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mw6cXZE6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m6bb179vepyjxxrdvmfx.png) 
 我们才刚开始热身。
 
 上半部分的数字似乎是合乎逻辑的下一步。
@@ -174,7 +174,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们还设置了`bottom`属性，使它出现在下半部分的正上方。
 
-[![numbers-ready](../Images/b058ce298294d9a4c5f347ada9bf40c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FAn1dB7a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t7053zxp9lsg6z39tfd1.png)
+[![numbers-ready](img/b058ce298294d9a4c5f347ada9bf40c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FAn1dB7a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t7053zxp9lsg6z39tfd1.png)
 
 ### 滑块
 
@@ -228,7 +228,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 滑块现在只是缺少了一个“波浪”形状，起初我试图通过使用`border-radius`值和旋转`div`来实现，但遗憾的是它与设计不匹配。我最后做的是一个`SVG`图形，看起来像这样:
 
-[![little-prince](../Images/22a50cb0bebfbbc2de5721b394ff4844.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QcPwBmVe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oi3c61qhfus7nbk3z7eq.png)
+[![little-prince](img/22a50cb0bebfbbc2de5721b394ff4844.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QcPwBmVe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oi3c61qhfus7nbk3z7eq.png)
 
 该形状的代码如下:
 
@@ -241,7 +241,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![design-ready](../Images/c608f55b5c161222017106d148c8165e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hFxbpd8h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pjl6f5temh0rfofjfbg1.png) 
+[![design-ready](img/c608f55b5c161222017106d148c8165e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hFxbpd8h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pjl6f5temh0rfofjfbg1.png) 
 虽然有点困难，但我们已经做好了设计。
 
 ### 互动
@@ -355,7 +355,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![float](../Images/7f43f598572e95d3502aa27fc5c3e5b4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--K4IjXc0s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8iuc45cldecnqn22l2yo.png) 
+[![float](img/7f43f598572e95d3502aa27fc5c3e5b4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--K4IjXc0s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8iuc45cldecnqn22l2yo.png) 
 现在的问题是它正在渲染浮点数。我们可以用一个过滤器来避免:
 
 ```

@@ -92,7 +92,7 @@ Enter fullscreen mode Exit fullscreen mode
         *   步长:0.1
         *   最大值:1
 
-[![Umbraco Crawling Tab](../Images/760ac31a6de0d4a893440872bd4bb4b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2yorskOd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.swimburger.net/media/1086/crawling-tab.png%3Fwidth%3D1098%26height%3D640)
+[![Umbraco Crawling Tab](img/760ac31a6de0d4a893440872bd4bb4b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2yorskOd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.swimburger.net/media/1086/crawling-tab.png%3Fwidth%3D1098%26height%3D640)
 
 我们已经有了自己的组合，但是还没有任何页面文档类型。让我们用模板创建两种页面文档类型:
 
@@ -102,7 +102,7 @@ Enter fullscreen mode Exit fullscreen mode
 *   通用页面
     *   允许通用页面下的通用页面
 
-[![Umbraco Templates](../Images/a1b1d9f20af1a9674b45f8ad37f75261.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tHuuc72v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.swimburger.net/media/1087/umbraco-templates.png%3Fwidth%3D1016%26height%3D325)
+[![Umbraco Templates](img/a1b1d9f20af1a9674b45f8ad37f75261.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tHuuc72v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.swimburger.net/media/1087/umbraco-templates.png%3Fwidth%3D1016%26height%3D325)
 
 让我们保持这些页面的模板非常简单，如下所示:
 
@@ -134,7 +134,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在文档类型已经准备好了，让我们创建一些内容吧！下面是我创作的内容截图。
 
-[![Umbraco Content Tree](../Images/18a161eeb636e6bebefdceeaa5388342.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--McRhN0l_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.swimburger.net/media/1088/content-tree.png%3Fwidth%3D353%26height%3D241)
+[![Umbraco Content Tree](img/18a161eeb636e6bebefdceeaa5388342.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--McRhN0l_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.swimburger.net/media/1088/content-tree.png%3Fwidth%3D353%26height%3D241)
 
 除了我们的“秘密推广页面”之外，这些页面需要显示在站点地图中，所以一定要选中“从站点地图中排除”开关。
 
@@ -210,7 +210,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当你把你的站点地图提交给谷歌时，你可能会注意到谷歌实际上“排除”了你站点地图中的许多 URL。你可以在谷歌网站管理员控制台的覆盖率报告下查看。
 
-[![Webmaster Coverage Console](../Images/1b0b79fdbcb45b96b00f05f7114d3397.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qqd--Dge--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.swimburger.net/media/1085/webmaster-snippet.png%3Fwidth%3D827%26height%3D794)
+[![Webmaster Coverage Console](img/1b0b79fdbcb45b96b00f05f7114d3397.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qqd--Dge--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.swimburger.net/media/1085/webmaster-snippet.png%3Fwidth%3D827%26height%3D794)
 
 有许多可能的原因导致某些网址被排除在外，但有一个原因我想特别提请你注意。
 

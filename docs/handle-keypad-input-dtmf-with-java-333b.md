@@ -179,7 +179,7 @@ ngrok http 3000
 
 请记下转发地址，因为在配置您的帐户时会用到它。下图，转发地址是`http://99cad2de.ngrok.io`。
 
-[![Screenshot of ngrok running in terminal with forwarding address http://99cad2de.ngrok.io](../Images/f007ce721c7a11ab1bae6ad60f578d1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jymgB-Eq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.nexmo.com/wp-content/uploads/2018/08/ngrok.png)
+[![Screenshot of ngrok running in terminal with forwarding address http://99cad2de.ngrok.io](img/f007ce721c7a11ab1bae6ad60f578d1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jymgB-Eq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.nexmo.com/wp-content/uploads/2018/08/ngrok.png)
 
 ### 配置您的 Nexmo 账户
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/djangotricks/equivalents-in-python-and-javascript-part-1-3317>
 
-[![](../Images/fa0ee820da3df7d0e7d9a4838bf8393a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iGP5ac8P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://2.bp.blogspot.com/-vPKYTFzcQIE/WzrCDyN3S_I/AAAAAAAAB5k/7bCSikeIKrgP27OEDrcJp4NsjDZnSt2YACLcBGAs/s1600/equivalents-in-python-and-javascript-part-1.png)
+[![](img/fa0ee820da3df7d0e7d9a4838bf8393a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iGP5ac8P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://2.bp.blogspot.com/-vPKYTFzcQIE/WzrCDyN3S_I/AAAAAAAAB5k/7bCSikeIKrgP27OEDrcJp4NsjDZnSt2YACLcBGAs/s1600/equivalents-in-python-and-javascript-part-1.png)
 
 虽然 **Python** 和 **JavaScript** 是截然不同的语言，但是有一些类比是全栈 **Python** 开发者在开发 web 项目时应该知道的。在这个由 4 部分组成的系列中，我将探索每种语言的相似之处，以及解决常见问题的常用方法。这并不意味着是一个参考，我将跳过像原始变量类型，条件和循环的基础知识。但是我将同时使用 **Python** 和 **JavaScript** 来深入研究更复杂的结构和数据操作。此外，我将努力把重点放在实际的用例上。对于 Django、Flask 或另一个 **Python** 框架的开发者来说，这个系列应该很有趣，他们希望掌握传统和现代的普通 JavaScript**和**。另一方面，它将对前端用户有用，他们希望更好地了解后端是如何工作的，甚至可能开始他们自己的 Django 网站。
 
@@ -241,4 +241,4 @@ Equivalents in Python and JavaScript
 
 本杰明·洪的封面照片。
 
-[![](../Images/ebad7401c7c6260774d995fbf97ad9ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TpNjbUUW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/djangotricks/%257E4/GeUgbRasTww)
+[![](img/ebad7401c7c6260774d995fbf97ad9ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TpNjbUUW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/djangotricks/%257E4/GeUgbRasTww)

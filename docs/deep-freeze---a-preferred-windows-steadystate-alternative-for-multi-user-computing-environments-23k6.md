@@ -18,7 +18,7 @@ Faronics 的 Deep Freeze 是首选的 Windows SteadyState 替代方案，它利�
 
 ****深度冻结:管理多用户计算环境的可行 Windows SteadyState 替代方案****
 
-****[![Windows SteadyState Alternative](../Images/9ad60f3727589bc414f824443a27d4c5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RyfwfC0---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ij3gohptpdin7etx1jn2.png)****
+****[![Windows SteadyState Alternative](img/9ad60f3727589bc414f824443a27d4c5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RyfwfC0---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ij3gohptpdin7etx1jn2.png)****
 
 Deep Freeze 是一款有效的系统恢复软件，允许 IT 管理员设置和控制基线配置。每次重新启动时，此 重新启动以恢复 解决方案可以将系统恢复到预定义的状态，同时消除所有用户引起的更改。通过保存和保护由 IT 管理员建立的配置状态，Deep Freeze 使端点几乎无法破解。T11】
 

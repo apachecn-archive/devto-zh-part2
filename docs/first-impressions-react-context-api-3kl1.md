@@ -51,7 +51,7 @@ render(<App />, document.getElementById('root'));
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Edit 387l8656xp](../Images/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/387l8656xp)
+[![Edit 387l8656xp](img/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/387l8656xp)
 
 上面是一个创建一些上下文并使用它的基本例子。第 8 行我为应用程序主题创建了一些上下文。创建上下文给了我两个新的 React 组件`{ Provider, Consumer }`。在第 27 行，我使用了`Provider`来允许子组件访问我们创建的主题上下文。然后在我的`AppButton`组件的第 11 行，我使用上下文的`Consumer`部分来访问主题信息。这个例子很小，但是说明了使用新的上下文 API 背后的基本设置。
 

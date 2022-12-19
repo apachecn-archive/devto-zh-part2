@@ -64,11 +64,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 根据公认答案下的评论，我删除了两个证书中“较新的”一个，并试图弄清楚发生了什么。SIF 脚本创建了一个新版本的“DO _ NOT _ TRUST _ SitecoreRootCert”证书——它对我来说没有任何意义。这应该已经存在了，因为已经有一个 Sitecore 实例在机器上愉快地运行了。并且查看本地机器的证书存储，它确实在那里:
 
-[![](../Images/fcea15758a0424d2744cc9fd37949fcc.png)T2】](https://jermdavis.files.wordpress.com/2018/07/certpresent.png)
+[![](img/fcea15758a0424d2744cc9fd37949fcc.png)T2】](https://jermdavis.files.wordpress.com/2018/07/certpresent.png)
 
 看到这个，我脑海中闪现的第一个想法是“啊——也许这个也需要放在我的商店里？”所以我把根证书从机器存储复制到我的存储。这给了我一个不同的，同样模糊的错误:
 
-[![](../Images/ed9b7c79b7ec214302c63a9985c5cd0b.png)T2】](https://jermdavis.files.wordpress.com/2018/07/sifcerterror.png)
+[![](img/ed9b7c79b7ec214302c63a9985c5cd0b.png)T2】](https://jermdavis.files.wordpress.com/2018/07/sifcerterror.png)
 
 为了谷歌的利益，这次的错误是:
 
@@ -112,7 +112,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 至少这次它只报告了一个证书指纹——所以这至少是一个进步。现在，这一次的重要信息似乎是“证书没有引用私钥的属性”——如果您去查看可信存储中的根证书的详细信息，您会发现它没有附加私钥:
 
-[![](../Images/6979fa14525e8cac2708d85dee851f15.png)T2】](https://jermdavis.files.wordpress.com/2018/07/certhasnokey.png)
+[![](img/6979fa14525e8cac2708d85dee851f15.png)T2】](https://jermdavis.files.wordpress.com/2018/07/certhasnokey.png)
 
 这有一定的道理——如果没有“根”证书的私钥，就不能用它来签署任何东西。签名的安全性依赖于密钥的私有部分。
 
@@ -124,7 +124,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您可以通过要求首先进行安装的用户从他们的个人证书存储中为您导出它来获得:
 
-[![](../Images/8ccdd14e8c2dbd885539bcf25aa8d9ee.png)T2】](https://jermdavis.files.wordpress.com/2018/07/certwithkey.png)
+[![](img/8ccdd14e8c2dbd885539bcf25aa8d9ee.png)T2】](https://jermdavis.files.wordpress.com/2018/07/certwithkey.png)
 
 如果他们导出包含密钥的证书，而您将它导入到您的存储中，那么 SIF 脚本将成功完成。
 

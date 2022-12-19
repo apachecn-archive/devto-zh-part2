@@ -4,7 +4,7 @@
 
 # MongoDB——一种不那么愚蠢的推送方式
 
-[![skating](../Images/2b1338ef482acf40b6ba0860b00172df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rcptve3e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.cheffamily.com/wp2015/wp-content/uploads/2015/01/Mongo.png)
+[![skating](img/2b1338ef482acf40b6ba0860b00172df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rcptve3e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.cheffamily.com/wp2015/wp-content/uploads/2015/01/Mongo.png)
 
 任何有滑冰背景的人听到这个词都会打转。蒙哥。令人欣慰的是，技术开发人员已经设法收回了这个词，并给予它一些应有的尊重。MongoDB 的历史就像滑板运动一样曲折。致力于开发名为 Babble 的开源平台(类似于当今的 Google Apps)的开发人员必须建立自己的数据库来适应他们的项目。Babble 没有足够的用户兴趣，但 MongoDB(humongous 的缩写)用 flex 填补了数据库模型的空白，只需做最小的更改即可按需扩展。有了这段历史，就更容易理解像 Mongoose 这样的其他分裂程序是如何从 MongoDB 中抽取并增强其属性的。Mongo 易于使用 Javascript 符号，并且高度可扩展到不断增长的数据，使其成为 MERN 堆栈(Mongo、Express、React 和 Node)的关键组件。因此，让我们仔细看看您可以使用 dat DB 的一些方法！
 

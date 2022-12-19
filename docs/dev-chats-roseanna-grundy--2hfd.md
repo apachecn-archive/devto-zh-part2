@@ -4,7 +4,7 @@
 
 这是我的“开发聊天”系列中的一篇文章，在这篇文章中，我大约每周都会与一位出色的开发人员或技术人员交谈。你可以在这里阅读更多。如果你觉得这些对你有用，请在评论中告诉我！
 
-[![](../Images/2c7919592db06cb9412de68582b0d068.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ih4fTJDd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5987c9a3a803bb82a168cf1a/1502071212887/%3Fformat%3D1000w)
+[![](img/2c7919592db06cb9412de68582b0d068.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ih4fTJDd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5987c9a3a803bb82a168cf1a/1502071212887/%3Fformat%3D1000w)
 
 ### 自我介绍！你是谁？你在哪里工作？
 
@@ -14,7 +14,7 @@
 
 我对讲故事的热爱:大约 2001 年的尼奥宠物(HTML/CSS)和 RPG Maker。
 
-[![](../Images/b7ecad17f420d04d792b9d144d824751.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--3C9GcTnr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5987c4fcbf629a081ff2a857/1502070016598/%3Fformat%3D1000w) [ ![](../Images/79bbd8c30d10d87dc785ae564361f532.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yU8zJbup--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5987c50b914e6b456544736e/1502070031573/%3Fformat%3D1000w)
+[![](img/b7ecad17f420d04d792b9d144d824751.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--3C9GcTnr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5987c4fcbf629a081ff2a857/1502070016598/%3Fformat%3D1000w) [ ![](img/79bbd8c30d10d87dc785ae564361f532.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yU8zJbup--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5987c50b914e6b456544736e/1502070031573/%3Fformat%3D1000w)
 
 我想为我的 Neopets 创建背景故事，丰富多彩的网站和公会，Neo 在网站上有 HTML 教程。RPG Maker 在我不知情的情况下教会了我全局变量、循环和 if 语句！直到高中结束，我才真正学会了一门编程语言。
 

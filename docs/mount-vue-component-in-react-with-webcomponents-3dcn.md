@@ -33,11 +33,11 @@ document.body.innerHTML = `
 *   my-react-component(深度=n) => my-vue-component(深度=n-1)
 *   my-vue-component(深度=n) => my-react-component(深度=n-1)
 
-[![](../Images/aa1ff1208beb0d7b93f07f565a3c147d.png)T2】](https://camo.githubusercontent.com/962476ebcc8ed34d034d1bf767babd7b3ff7752e/68747470733a2f2f6779617a6f2e636f6d2f30616461626236303064643530376462326163303239313965613233613032662e676966)
+[![](img/aa1ff1208beb0d7b93f07f565a3c147d.png)T2】](https://camo.githubusercontent.com/962476ebcc8ed34d034d1bf767babd7b3ff7752e/68747470733a2f2f6779617a6f2e636f6d2f30616461626236303064643530376462326163303239313965613233613032662e676966)
 
 超文本标记语言
 
-[![](../Images/56893096d1d0fe6ec1b5b02f0685ab62.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BnHyhJLO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.gyazo.com/08d8a34a99f7e1f417f1ae7314ef5807.png)
+[![](img/56893096d1d0fe6ec1b5b02f0685ab62.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BnHyhJLO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.gyazo.com/08d8a34a99f7e1f417f1ae7314ef5807.png)
 
 代码
 

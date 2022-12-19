@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/the-easiest-way-to-keep-your-web-apps-accessible-1nc2>
 
-[![](../Images/54b26804755b8d594694c3ebace6bccc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ozuy2Au6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AuuQzakQc52pdhRw9KB0NPA.jpeg)
+[![](img/54b26804755b8d594694c3ebace6bccc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ozuy2Au6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AuuQzakQc52pdhRw9KB0NPA.jpeg)
 
 网络不再仅仅是静态文本文档的集合，其中夹杂着一些图片和 gif。在过去 20 年左右的时间里，我们已经看到 web 融合成大大小小的 web 应用程序的泥浆，每一个都比上一个更加复杂和动态，用 API、脚本和任何人都无法想象的更多数据串在一起。
 
@@ -75,7 +75,7 @@ HTML5 中引入的许多标签侧重于提供附加的语义，使用户和机�
 
 说到文本的实际样式，你要考虑的主要是**大小**和**对比度**。
 
-[![](../Images/48a01ad9536a643fb9b986b3a7c4d081.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PrSOu-F---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AtXbauN7gEIweTGBj) 
+[![](img/48a01ad9536a643fb9b986b3a7c4d081.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PrSOu-F---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AtXbauN7gEIweTGBj) 
 
 <figcaption>对比度是视觉无障碍的关键。</figcaption>
 
@@ -127,13 +127,13 @@ HTML5 中引入的许多标签侧重于提供附加的语义，使用户和机�
 
 React 自己的文档就是一个很好的例子。[在讨论组件和道具](https://reactjs.org/docs/components-and-props.html)时，他们用了一个注释作为例子:
 
-[![](../Images/7cbdf81df001f7bad37a592d143adc31.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AyUmlpiQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AycqHgCxgModyHzG8)
+[![](img/7cbdf81df001f7bad37a592d143adc31.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AyUmlpiQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AycqHgCxgModyHzG8)
 
 <figcaption>React 组件的默认标记。</figcaption>
 
 如果我们用更具描述性的 HTML 标签替换其中一些 div 元素会怎么样？
 
-[![](../Images/f03d2dc3e5e091d33ac7a869f698f86f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AaXvAjK_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AjdscAIXApOm29qzT) 
+[![](img/f03d2dc3e5e091d33ac7a869f698f86f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AaXvAjK_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AjdscAIXApOm29qzT) 
 
 <figcaption>我们能让那个组件更容易访问吗？</figcaption>
 
@@ -153,7 +153,7 @@ React 自己的文档就是一个很好的例子。[在讨论组件和道具](ht
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

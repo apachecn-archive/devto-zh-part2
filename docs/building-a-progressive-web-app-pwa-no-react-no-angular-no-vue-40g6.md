@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/building-a-progressive-web-app-pwa-no-react-no-angular-no-vue-40g6>
 
-[![](../Images/db7cefb31e46d85192b23b284976ec6d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BFBiXgsy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AXLZEINjl3HInk0Hu8RKILQ.jpeg)
+[![](img/db7cefb31e46d85192b23b284976ec6d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BFBiXgsy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AXLZEINjl3HInk0Hu8RKILQ.jpeg)
 
 最近，渐进式网络应用(PWAs)获得了更多的关注。部分来说，浏览器(尤其是移动设备)中现有的 API 集就是其中的一部分。
 
@@ -16,7 +16,7 @@
 
 几年前，离线功能就已经包含在浏览器中了——它是应用缓存或应用清单。在这个规范中，我们需要一个特殊的文件(通常称为 app.cache 或 app.manifest 之类的文件)来描述哪些资源应该可供脱机使用、仅供联机使用，或者在从一种模式切换到另一种模式时被替换。然而，这种方法面临许多问题(特别是在更新清单本身方面)，没有被广泛采用。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 当清单方法失败时，Mozilla 想出了许多新的 API——主要是为他们的 Firefox OS 移动系统。在这一努力中，Mozilla 探索了使用包括网络商店在内的移动应用程序等网络应用程序的可能性，理论上，这也可以被其他平台包括在内，如 Android 或 iOS。不幸的是，Firefox OS 从来没有真正获得过关注，大多数标准的采用也没有变得至关重要。结果是“一个开放的商店”或“一个商店规范”的梦想失败了。
 
@@ -147,7 +147,7 @@
 
 要检测我们的清单是否有效并被正确提取，我们可以使用我们选择的浏览器的调试工具。在 Chrome 中，目前如下所示:
 
-[![](../Images/827c5710618088ede8977d9312e6f357.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LVAx0so7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/587/1%2AzRVvPPO3O2s0dJAvl_wdew.png)
+[![](img/827c5710618088ede8977d9312e6f357.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LVAx0so7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/587/1%2AzRVvPPO3O2s0dJAvl_wdew.png)
 
 <figcaption>Chrome“应用清单”调试器工具。</figcaption>
 
@@ -160,7 +160,7 @@
 ```
 "icons": [
   {
-    "src": "/images/icon-144.png",
+    "src":img/icon-144.png",
     "sizes": "144x144",
     "type": "image/png"
   }
@@ -239,7 +239,7 @@ if ('serviceWorker' in navigator) {
 
 下图说明了这两个事件在我们的 web 应用程序中的作用。
 
-[![](../Images/7e4f033b0afdb28169ab935d15953212.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0KlI-dP6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/523/1%2AS2jR21bc4Ob36sqV5dYo-A.png) 
+[![](img/7e4f033b0afdb28169ab935d15953212.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0KlI-dP6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/523/1%2AS2jR21bc4Ob36sqV5dYo-A.png) 
 
 <figcaption>使用服务工作者的例子流程。</figcaption>
 
@@ -270,7 +270,7 @@ self.addEventListener('fetch', e => {
 
 在这个阶段，我们的应用程序已经可以独立运行，并像应用程序一样添加到主屏幕(例如，Windows 上的桌面)中。
 
-[![](../Images/826877f4eb05df683e275e5e7e73fafa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--u0ZBy6a7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/549/1%2AJ8cUgqW-btAjbkLbmOCyaQ.png) 
+[![](img/826877f4eb05df683e275e5e7e73fafa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--u0ZBy6a7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/549/1%2AJ8cUgqW-btAjbkLbmOCyaQ.png) 
 
 <figcaption>独立运行以特殊窗口模式启动 Chrome。</figcaption>
 
@@ -383,7 +383,7 @@ pwa 只不过是我们的标准 web 应用程序，通过使用一些最近引�
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

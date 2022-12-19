@@ -20,7 +20,7 @@ TC39 引入了新特性，TC39 是一个负责维护 Javascript 底层规范的�
 
 从长远来看，在生产应用中依赖阶段 0 功能是一场赌博。那么，为什么开发者在过去的一周里下载了 740，000 次 0 阶段巴别塔预设(在撰写本文时)？
 
-[![A download chart for babel-preset-stage-0 showing 740,000 downloads this week](../Images/38fb6ecdeb7f69a0c01b93f4c615f7a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tmUB5DYV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dxggi3a8zemh2y4av34d.PNG)
+[![A download chart for babel-preset-stage-0 showing 740,000 downloads this week](img/38fb6ecdeb7f69a0c01b93f4c615f7a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tmUB5DYV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dxggi3a8zemh2y4av34d.PNG)
 
 你在用吗？...你应该害怕吗？
 

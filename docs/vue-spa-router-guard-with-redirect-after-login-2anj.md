@@ -39,7 +39,7 @@ export default [{
 
 ### 路由器流量逻辑
 
-[![alt text](../Images/9bef66230d3fcbc21a5565912441181d.png "Logic flow of guard Function")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1cqfJKw8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hgill.io/images/code/vuex-flowchart.svg)
+[![alt text](img/9bef66230d3fcbc21a5565912441181d.png "Logic flow of guard Function")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1cqfJKw8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hgill.img/code/vuex-flowchart.svg)
 
 我们希望在访问每个受保护的路线之前执行上面的逻辑流。我们有一个占位符变量`entryUrl`来跟踪用户进入网站的 url，初始设置为`null`。然后我们检查我们是否登录了，我们的应用程序保持一个变量在`Vuex`状态，如果登录了，然后我们检查`entryUrl`变量是否没有被设置，然后简单地像平常一样转到下一个路由。否则，我们重定向到`entryUrl`，并再次将变量设置为`null`。
 

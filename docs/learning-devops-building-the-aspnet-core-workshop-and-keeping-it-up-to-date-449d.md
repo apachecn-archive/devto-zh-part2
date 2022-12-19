@@ -6,7 +6,7 @@
 > 
 > 多诺万·布朗
 
-[![Build status](../Images/a8c27fa510bf1070881c11d70039bce3.png)T2】](https://dotnetfoundation.visualstudio.com/AspNetCoreWorkshop/_build/latest?definitionId=30)
+[![Build status](img/a8c27fa510bf1070881c11d70039bce3.png)T2】](https://dotnetfoundation.visualstudio.com/AspNetCoreWorkshop/_build/latest?definitionId=30)
 
 你有多少次去 GitHub repo 发现样本代码不是最新的 SDK，或者甚至没有构建？
 
@@ -35,33 +35,33 @@ VSTS 太棒了，比我想象的还要棒。我过去在我的开源项目中使
 
 首先，我只需要使用 GitHub 的 oAuth 连接器从 repo 中获取代码。
 
-[![Learning DevOps and building the ASP.NET Core Workshop and keeping it up to date](../Images/681cfe9bf135a457f11ba2f489da66e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_Mp9IOu1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/content/images/2018/06/Screen-Shot-2018-06-25-at-1.19.34-PM.png)
+[![Learning DevOps and building the ASP.NET Core Workshop and keeping it up to date](img/681cfe9bf135a457f11ba2f489da66e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_Mp9IOu1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/conteimg/2018/06/Screen-Shot-2018-06-25-at-1.19.34-PM.png)
 
 接下来，在每个保存点添加构建应用程序的每个步骤非常容易。我通过为每一个创建一个“[阶段](https://docs.microsoft.com/vsts/pipelines/process/phases?view=vsts&tabs=web&WT.mc_id=cicd-devto-shboyer)来完成这个任务。
 
 这里第一阶段在`/src`文件夹中构建代码，这是完成的 workshop，产生两个[工件](https://docs.microsoft.com/vsts/pipelines/release/artifacts?view=vsts&WT.mc_id=cicd-devto-shboyer)； **backend.zip** (Web API app)和**frontend . zip**(Razor Pages app)
 
-[![Learning DevOps and building the ASP.NET Core Workshop and keeping it up to date](../Images/824376dbd5eeb157a6ce568fadc027ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JEp8ZQ1R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/content/images/2018/06/Screen-Shot-2018-06-25-at-1.27.01-PM.png)
+[![Learning DevOps and building the ASP.NET Core Workshop and keeping it up to date](img/824376dbd5eeb157a6ce568fadc027ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JEp8ZQ1R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/conteimg/2018/06/Screen-Shot-2018-06-25-at-1.27.01-PM.png)
 
 构建多个“阶段”,并且当手动或通过触发器(PR 或 merge)启动构建时，它们将并行地、顺序地或两者都进行，这取决于构建代理的可用性和/或阶段之间的依赖性。
 
 此屏幕截图显示了所有已完成的阶段，以及“已完成的研讨会”阶段或工作的每个步骤的摘要。
 
-[![Learning DevOps and building the ASP.NET Core Workshop and keeping it up to date](../Images/76ffacb2b5424226481aed5ecbf5f012.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--444Xc7w8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/content/images/2018/06/Screen-Shot-2018-06-25-at-11.32.17-AM.png)
+[![Learning DevOps and building the ASP.NET Core Workshop and keeping it up to date](img/76ffacb2b5424226481aed5ecbf5f012.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--444Xc7w8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/conteimg/2018/06/Screen-Shot-2018-06-25-at-11.32.17-AM.png)
 
 以下是 Docker 选项的步骤总结。
 
-[![Learning DevOps and building the ASP.NET Core Workshop and keeping it up to date](../Images/57c6990f02ba974c42e92afe611049ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MAToQY2U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/content/images/2018/06/Screen-Shot-2018-06-25-at-11.32.52-AM.png)
+[![Learning DevOps and building the ASP.NET Core Workshop and keeping it up to date](img/57c6990f02ba974c42e92afe611049ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MAToQY2U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/conteimg/2018/06/Screen-Shot-2018-06-25-at-11.32.52-AM.png)
 
 单击该阶段中的任何一个步骤，都会显示所发生事件的详细日志。
 
-[![Learning DevOps and building the ASP.NET Core Workshop and keeping it up to date](../Images/446c660746db2b3267c691615819fb3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dGJzRYlX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/content/images/2018/06/Screen-Shot-2018-06-25-at-11.33.22-AM.png)
+[![Learning DevOps and building the ASP.NET Core Workshop and keeping it up to date](img/446c660746db2b3267c691615819fb3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dGJzRYlX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/conteimg/2018/06/Screen-Shot-2018-06-25-at-11.33.22-AM.png)
 
 #### 发布
 
 当构建成功完成时，来自第一阶段 **backend.zip** 和 **frontend.zip** 的工件可以作为发布发生的触发器。在这里，我们已经设置了一个发布，因此每当一个成功的构建完成并且新的工件可用时； **backend.zip** 和 **frontend.zip** 都通过 web deploy 部署到 Azure 应用服务。
 
-[![Learning DevOps and building the ASP.NET Core Workshop and keeping it up to date](../Images/f31dd90615c2cc9127ef4acd44281a17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tT0_ZM_g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/content/images/2018/06/Screen-Shot-2018-06-21-at-4.16.40-PM.png)
+[![Learning DevOps and building the ASP.NET Core Workshop and keeping it up to date](img/f31dd90615c2cc9127ef4acd44281a17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tT0_ZM_g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/conteimg/2018/06/Screen-Shot-2018-06-21-at-4.16.40-PM.png)
 
 ### 其他版本
 
@@ -97,7 +97,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 运行容器会下载 vsts 代理，并将其附加到构建服务器，作为构建的可用代理。用这个做实验很有趣。我在 Mac 上运行了 4，在 Azure Container Service 中启动了一些(这需要一段时间来启动，图像是 3 Gb ),并将它们设置为非 Docker 构建阶段。
 
-[![Learning DevOps and building the ASP.NET Core Workshop and keeping it up to date](../Images/7f56131e8c9563cb5f615f2c7ece6e7a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PGRo5s1e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/content/images/2018/06/Screen-Shot-2018-06-21-at-9.12.09-PM--2-.png)
+[![Learning DevOps and building the ASP.NET Core Workshop and keeping it up to date](img/7f56131e8c9563cb5f615f2c7ece6e7a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PGRo5s1e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/conteimg/2018/06/Screen-Shot-2018-06-21-at-9.12.09-PM--2-.png)
 
 ### 资源
 

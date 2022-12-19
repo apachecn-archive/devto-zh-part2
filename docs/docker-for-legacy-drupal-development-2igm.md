@@ -6,7 +6,7 @@
 
 阿妮。先说这篇文章/教程(artorial，tutarticle！？)，这个 *artorial* 可以被命名为“ **Docker for Development** 、*Leveraging Linux containers*”，并且几乎可以应用于任何你想要的栈。
 
-[![](../Images/49cba5194c8552a907c27dc19bec6203.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fhn6Wm5I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2As-YgL1NW7evYyCBWI-7w8Q.png)
+[![](img/49cba5194c8552a907c27dc19bec6203.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fhn6Wm5I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2As-YgL1NW7evYyCBWI-7w8Q.png)
 
 我使用 Drupal 是因为我最近开始了从 Drupal 6 (D6)到 Drupal 8 (D8)的网站迁移。
 
@@ -20,7 +20,7 @@
 
 那么如何在同一台主机上同时运行 PHP 5 和 PHP 7 呢？启动一对虚拟机？[和 Apache 一起滑入 Nginx 和 PHP-FPM](https://www.tecmint.com/install-different-php-versions-in-ubuntu/)？前一种选择是可以接受的。后者近乎虐待狂。
 
-<figure>[![](../Images/8963f23c24d857be4a4d6ff08cf89341.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WY990CuX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/244/1%2A4jh-4MnN2NkYxWZVOKBklw.jpeg) 
+<figure>[![](img/8963f23c24d857be4a4d6ff08cf89341.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WY990CuX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/244/1%2A4jh-4MnN2NkYxWZVOKBklw.jpeg) 
 
 <figcaption>还有就是，凯文！</figcaption>
 
@@ -84,7 +84,7 @@ Docker 将包含操作系统和完成工作所需软件的映像加载到容器�
 
 绑定装载是装载到容器中的主机上的文件或目录。它们是在开发期间共享配置数据、源代码和构建工件的好选择。在生产中，您的构建工件最好直接复制到映像中，在环境中配置，不需要源代码。
 
-[![](../Images/8446b684d8861c4f476d113868c12b61.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WdOtDgdR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/740/1%2AW49kEOLhKZTuC9DmRKD6Qg.png)
+[![](img/8446b684d8861c4f476d113868c12b61.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WdOtDgdR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/740/1%2AW49kEOLhKZTuC9DmRKD6Qg.png)
 
 建议使用卷来存储容器使用和生成的数据。绑定挂载依赖于主机的目录结构，阻碍了容器的可移植性。
 

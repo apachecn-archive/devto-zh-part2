@@ -4,7 +4,7 @@
 
 Endive Software 是一家快速发展并屡获殊荣的 IT 服务公司。在 Endive Software，我们提供同类最佳和行业特定的 web 和移动应用程序开发解决方案，以增加业务利润。此外，我们还为全球有价值的客户提供卓越的定制软件服务和云解决方案，拥抱最新技术和乐观的行业趋势。
 
-[![](../Images/e3e3005b89c5f951d411353b61007af6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7JUbVV9U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k64savry4temhd41mjk9.jpeg)
+[![](img/e3e3005b89c5f951d411353b61007af6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7JUbVV9U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k64savry4temhd41mjk9.jpeg)
 
 PHP 编程语言用于开发动态网站。数百万活跃的网站目前正在使用 PHP。PHP 以其固有的优化内存的能力而闻名。它从不允许服务器过载。它有助于显著提高服务器的处理速度。
 
@@ -12,7 +12,7 @@ PHP 编程语言用于开发动态网站。数百万活跃的网站目前正在�
 
 **1。易于管理**
 
-[![](../Images/3372f6248e5e2c0798939e27a7ef8574.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T5HZ_LzL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iyg9riv1luyz3p0h4obn.jpeg)
+[![](img/3372f6248e5e2c0798939e27a7ef8574.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T5HZ_LzL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iyg9riv1luyz3p0h4obn.jpeg)
 
 PHP 附带了相当正常的通信设置。它发生在 URL 和文件之间。它帮助程序员创建页面以及进行编辑。这个特性非常方便。尤其是在开发具有大量内容的静态网站时。静态网站的变化可能需要过度设计。PHP 使得 easier.PHP 开发公司可以很容易地用 PHP 制作静态网站。
 
@@ -26,7 +26,7 @@ PHP 更容易扩展。这使得它使用起来相当透明。寻找代码最微�
 
 **4。与所有平台兼容**
 
-[![](../Images/5f648ef223d1ee2cc538baa2ea5e52e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_QzWS558--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yd93x5z6b275an3hfqgh.jpg)
+[![](img/5f648ef223d1ee2cc538baa2ea5e52e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_QzWS558--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yd93x5z6b275an3hfqgh.jpg)
 
 每个人都希望自己的网站能在不同的平台上流畅运行。尤其是电子商务网站必须在所有平台和设备上运行。一个 PHP web 开发使得网站可以在所有主流平台上运行。这些平台包括 Mac OS、Windows、Linux 和 UNIX。
 

@@ -57,11 +57,11 @@
 
 这样想，你可以得到很多可能的设计，然后你开始筛选，直到你找到你喜欢的，所以我决定四处寻找一些灵感，我发现了这个，你可能从来没有听说过，但我拍了张照片！
 
-[![Image 1](../Images/0b3043ffe702df447cb6795b22a4a9ca.png "The Dev.to profile page")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9lQpXglR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/06cIwRG.png)
+[![Image 1](img/0b3043ffe702df447cb6795b22a4a9ca.png "The Dev.to profile page")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9lQpXglR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/06cIwRG.png)
 
 看看它看起来有多棒！👌🏻*漂亮！*也许我们可以在某些地方做些调整...
 
-[![Image 2](../Images/164a64495db9aa24bc6ecb084cf94923.png "The Dev.to profile page... but better")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IWH5bCOD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/PkIRm1q.png)
+[![Image 2](img/164a64495db9aa24bc6ecb084cf94923.png "The Dev.to profile page... but better")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IWH5bCOD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/PkIRm1q.png)
 
 是的，我想我有发现了！
 
@@ -71,7 +71,7 @@
 
 这个很简单:根据这个设计制作一份简历，并使其具有互动性。
 
-[![Image 3](../Images/63aa1617b925d85025410a0a9538bbc0.png "A design for my eCV")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0xbK8ZaO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/3yzMphp.png)
+[![Image 3](img/63aa1617b925d85025410a0a9538bbc0.png "A design for my eCV")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0xbK8ZaO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/3yzMphp.png)
 
 这只是一个例子，但是想象一下所有的可能性！
 

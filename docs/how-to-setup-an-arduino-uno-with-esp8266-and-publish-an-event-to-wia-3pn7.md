@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/wiaio/how-to-setup-an-arduino-uno-with-esp8266-and-publish-an-event-to-wia-3pn7>
 
-[![alt text](../Images/f213fdc421f40f12e45594336e91c741.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ivQvUAtm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-05-29/1527605155-310926-blog-01.png)
+[![alt text](img/f213fdc421f40f12e45594336e91c741.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ivQvUAtm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-05-29/1527605155-310926-blog-01.png)
 
 ### **组件**
 
@@ -27,7 +27,7 @@
 在 Arduino IDE 中:
 
 *   进入菜单:`Tools > Board > Boards Manager`
-*   搜索`Arduino AVR Boards`找到后，点击`Install` ![alt text](../Images/43b495450cb4273ca12e6d09225982dd.png)
+*   搜索`Arduino AVR Boards`找到后，点击`Install` ![alt text](img/43b495450cb4273ca12e6d09225982dd.png)
 *   通过转到`Tools > Board`选择`Arduino\Genuino Uno`电路板类型
 *   选择显示`Arduino\Genuino Uno`的端口
 
@@ -54,11 +54,11 @@ T1】
 ### **连接硬件**
 
 要将 Arduino Uno 连接到 ESP 8266，您需要连接以下引脚:
-[![alt text](../Images/cde792faeaf4e0345838be477e7b938c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0aTs2roX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-05-22/1526995407-139516-unoesppins.png)
+[![alt text](img/cde792faeaf4e0345838be477e7b938c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0aTs2roX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-05-22/1526995407-139516-unoesppins.png)
 
 由于 Ardnuino Uno 采用公跳线，而 ESP 8266 需要母跳线，因此可使用面包板进行连接。它也很有用，因为 ESP 8266 上的`CH_PD`和`VCC`引脚都需要电源。
 
-[![alt text](../Images/fb8445a40d515878ab2377d095375b65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dy02jwH8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-05-22/1526996228-643696-2d9eabd-unobread.png)
+[![alt text](img/fb8445a40d515878ab2377d095375b65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dy02jwH8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-05-22/1526996228-643696-2d9eabd-unobread.png)
 
 ### **创建新草图**
 

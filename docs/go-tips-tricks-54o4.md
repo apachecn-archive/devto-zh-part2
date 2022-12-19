@@ -11,7 +11,7 @@
 
 关于 Go 有很多很棒的东西，在用 Go 开发项目一段时间后，我发现了一些关于这种语言的好东西，我想和大家分享一下。我已经有一段时间没有写博客了，所以希望这篇文章能点燃我的热情，鼓励我再次把写技术博客作为一种爱好。至于这篇文章，这不是一个令人敬畏的特性和库的详尽列表(太多了！)，但这是一个开始。所以，让我们开始吧！
 
-[![Starting Party](../Images/050ec7ac268062d44d7e4a54f42ec88c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Fe48UIwA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://farisj.github.io/assets/images/go-tips-tricks/party.gif)
+[![Starting Party](img/050ec7ac268062d44d7e4a54f42ec88c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Fe48UIwA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://farisj.github.io/asseimg/go-tips-tricks/party.gif)
 
 **注:**这篇博文假设了一些围棋的基础知识。
 
@@ -269,7 +269,7 @@ ok farisj/mypackage/fib 1.996s
 
 我个人在基准测试方面遇到的一个问题是，我已经习惯了这样一种观点，即给出的数字是相对于我的机器而言的，代码运行没有客观的“速度”。不仅有许多运行 Go 代码的不同平台/处理器，它们的性能各不相同，而且通常还有许多其他进程在运行，它们会耗尽资源。如果按照我的方式，代码会有一些客观的“分数”,但事实就是如此！我不得不相信不同功能的相对性能，并希望我的计算机处理器能够处理它。
 
-[![Fox Meditating](../Images/e1ed840acc6127731a906f7db8188085.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e6cCtE_2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://farisj.github.io/assets/images/go-tips-tricks/zen.gif)
+[![Fox Meditating](img/e1ed840acc6127731a906f7db8188085.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e6cCtE_2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://farisj.github.io/asseimg/go-tips-tricks/zen.gif)
 
 (我试图接受我无法改变的事情的动作镜头。)
 

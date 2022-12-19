@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ryanmiller/google-launches-ml-kit-for-android-and-ios-developers--3dna>
 
-[![](../Images/543031417be9c727b0238d35e38a4628.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1c2M-CK2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/7XswH2Z.png) 
+[![](img/543031417be9c727b0238d35e38a4628.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1c2M-CK2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/7XswH2Z.png) 
 随着最近谷歌 ML Kit Beta 的推出，据估计，该软件开发工具包最终将被优化，以在 Firebase 等平台上为移动应用部署人工智能。由于该工具包可用于 Android 和 iOS 平台，因此可以在设备上和云平台上调用 API。
 
 在移动平台中包含人工智能可以做一系列事情，例如从产品标签中提取与营养相关的信息，并为照片添加风格转移、遮罩和效果。整个工具包的设计既适合初学者使用，也适合能够使用 ML 程序的高级开发人员使用。人工智能可用于文本识别、条形码扫描、图片标签、地标识别和人脸检测；这些功能在 Firebase 控制台上可用。此外，设备上的 API 不需要网络连接就能工作。此外，一些顶级 Android 开发者和顶级 iOS 应用开发者对这一新功能深信不疑，因为它将提升应用的性能。

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/collinbarrett/resharper-vs-coderush-a-quick-n-dirty-unfair-comparison-41k2>
 
-[![ReSharper vs. Code Rush](../Images/bc80b822e2795d6edfdf2e4d913f2021.png)T2】](https://collinmbarrett.com/resharper-vs-coderush/)
+[![ReSharper vs. Code Rush](img/bc80b822e2795d6edfdf2e4d913f2021.png)T2】](https://collinmbarrett.com/resharper-vs-coderush/)
 
 我的产品团队正在评估购买 [JetBrains ReSharper](https://www.jetbrains.com/resharper/) 或 [DevExpress CodeRush](https://www.devexpress.com/products/coderush/) 来帮助提高我们的代码质量。NET 应用程序组合。我已经使用 ReSharper 好几年了，只是在过去几天才听说并试用 CodeRush。因此，下面的比较确实是不公平的，仅仅是因为我对每个人都有丰富的经验。
 

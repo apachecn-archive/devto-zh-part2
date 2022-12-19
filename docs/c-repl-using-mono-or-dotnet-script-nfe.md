@@ -13,7 +13,7 @@
 
 它看起来是这样的:
 
-[![](../Images/2e772c377fe1f5c07c53dd80f0096dac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1Z7cpOdF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gldraphael.com/content/images/2018/10/Screen-Shot-2018-10-13-at-17.13.13.png)
+[![](img/2e772c377fe1f5c07c53dd80f0096dac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1Z7cpOdF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gldraphael.com/conteimg/2018/10/Screen-Shot-2018-10-13-at-17.13.13.png)
 
 REPL 在这里被记载为。
 
@@ -25,7 +25,7 @@ REPL 在这里被记载为。
 
 它看起来是这样的:
 
-[![](../Images/309e50d024160ecfe99ca4cc99cd992d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RtgMJx55--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gldraphael.com/content/images/2018/10/Screen-Shot-2018-10-13-at-17.10.51.png)
+[![](img/309e50d024160ecfe99ca4cc99cd992d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RtgMJx55--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gldraphael.com/conteimg/2018/10/Screen-Shot-2018-10-13-at-17.10.51.png)
 
 这个工具涵盖了基本 REPL 之外的许多用例，它们都记录在它的 [GitHub repo](https://github.com/filipw/dotnet-script) 中。
 

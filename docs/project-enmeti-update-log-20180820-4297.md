@@ -18,11 +18,11 @@
 
 因此，与其只是谈论扩展，不如我来告诉你如何使用它？插入链接最简单的方法是选择一些文本，右键单击，然后选择`Insert Link`。它会显示一个**输入框**，这样你就可以给它你的链接的网址:
 
-[![Example-1](../Images/d83c7831ecfbe6eb691a528ea55b5af0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ihckxNk0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zesvk29zyzdqlgvlvqp8.gif)
+[![Example-1](img/d83c7831ecfbe6eb691a528ea55b5af0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ihckxNk0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zesvk29zyzdqlgvlvqp8.gif)
 
 正如你在 gif 中看到的，你也可以使用默认的`Ctrl+Alt+I`键绑定，或者甚至在 [keybindings.json](https://code.visualstudio.com/docs/getstarted/keybindings) 中把它改成你喜欢的:
 
-[![Keybindings.json](../Images/4cdd3cbb1d9752a18a8588a174a088ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Es43AoGb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/7NKAy7e.png)
+[![Keybindings.json](img/4cdd3cbb1d9752a18a8588a174a088ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Es43AoGb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/7NKAy7e.png)
 
 ## 接下来
 

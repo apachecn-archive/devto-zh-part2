@@ -11,7 +11,7 @@
 
 ## 什么是字符串像素化器
 
-[![image](../Images/a23cbe571902557fdb700c4bacff09a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q_K0fcLO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/39958038-d70fbda2-5637-11e8-8b03-4b2d7bb21bf4.png)
+[![image](img/a23cbe571902557fdb700c4bacff09a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q_K0fcLO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/39958038-d70fbda2-5637-11e8-8b03-4b2d7bb21bf4.png)
 
 这是一个简单的工具来像素化任何字符。`pixelate`的意思是“将一个字符转换成一个二维数组”，这样我们就可以出于多种目的来处理表格数据。我实际上是为绘画生成艺术创作这个和 [p5.js](https://p5js.org/)
 
@@ -183,17 +183,17 @@ Enter fullscreen mode Exit fullscreen mode
 
 结果如下所示:
 
-[![2018-05-12 22 49 04](../Images/5a92a2d993fb240ada765c3c15e7b05b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fMe-q97R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/39957847-bd96294a-5634-11e8-93be-9efaac493833.png)
+[![2018-05-12 22 49 04](img/5a92a2d993fb240ada765c3c15e7b05b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fMe-q97R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/39957847-bd96294a-5634-11e8-93be-9efaac493833.png)
 
 ## 用线像素化器的艺术品
 
 就凭`StringPixelater.pixelate('hello')`:
 
-[![2018-05-12 22 49 04](../Images/7b2e979ec90e3d1d04240dcb7c6f3b91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d-Kmkxdu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/39958008-34941f78-5637-11e8-8ec9-271d87e58f76.png)
+[![2018-05-12 22 49 04](img/7b2e979ec90e3d1d04240dcb7c6f3b91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d-Kmkxdu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/39958008-34941f78-5637-11e8-8ec9-271d87e58f76.png)
 
 我们可以得到像素化的表情符号，如`StringPixelater.pixelate('🐈')`。
 
-[![2018-05-12 22 52 36](../Images/4a02bbde3b9ed74d66fc7e9438d3a35e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--54BMxG8_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/39958009-34b9721e-5637-11e8-80c2-42b5e6661e23.png)
+[![2018-05-12 22 52 36](img/4a02bbde3b9ed74d66fc7e9438d3a35e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--54BMxG8_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/39958009-34b9721e-5637-11e8-80c2-42b5e6661e23.png)
 
 * * *
 

@@ -38,7 +38,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这个实现的灵感来自于这篇出色的文章中提到的 Phil Nash 的 Ruby 实现。
 
-[![philnash image](../Images/b650ec198faa986f9f11da3a62066a49.png)](/philnash) [## 使用 Pwned 密码 API 在 Ruby 应用程序中使用更好的密码
+[![philnash image](img/b650ec198faa986f9f11da3a62066a49.png)](/philnash) [## 使用 Pwned 密码 API 在 Ruby 应用程序中使用更好的密码
 
 ### 菲尔纳什 4 月 4 日 186 分钟阅读
 

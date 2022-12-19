@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/raulmonteroc/variables-and-types-in-kotlin-2heg>
 
-[![](../Images/9fffbb5718cc3cae0d47414dbab8ce86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F5e5_4Fk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raulmonteroc.com/wp-content/uploads/2018/07/kotlin_800x320-1.png)
+[![](img/9fffbb5718cc3cae0d47414dbab8ce86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F5e5_4Fk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raulmonteroc.com/wp-content/uploads/2018/07/kotlin_800x320-1.png)
 
 所有的语言都是不同的，但同时，它们有很多共同点，有很多相似的成分。
 

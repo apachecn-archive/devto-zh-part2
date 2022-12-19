@@ -4,7 +4,7 @@
 
 ### 使用重新组合来编写干净的高阶组件
 
-[![](../Images/2a295a0aac453ede641b4afc07cf4e6a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9rPIryvV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AYwgQkhqNcJZGgym5I-VSMQ.png)
+[![](img/2a295a0aac453ede641b4afc07cf4e6a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9rPIryvV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AYwgQkhqNcJZGgym5I-VSMQ.png)
 
 如果您喜欢在 React 中保持简单，通过使用功能组件语法创建小组件，并使用它们作为片段来创建更大的组件， [*Recompose*](https://github.com/acdlite/recompose) 可以帮助您对高阶组件(hoc)做同样的事情。
 
@@ -12,7 +12,7 @@
 
 但是在进入细节之前，让我们开始回顾一些概念…
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/?cid=banner_a)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/?cid=banner_a)
 
 ### 高阶函数
 
@@ -500,7 +500,7 @@ const ButtonWithTrackCountdown = compose(
 
 ### Plug: [LogRocket](http://logrocket.com) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

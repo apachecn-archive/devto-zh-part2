@@ -63,7 +63,7 @@
 
 MDN 文档的例子看起来很有希望。
 
-[![Sepia Filter Example](../Images/979fae69e379488926f062df88eab196.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--13rC1-WN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://domysee.com/blogposts/21/sepia-filter.png)
+[![Sepia Filter Example](img/979fae69e379488926f062df88eab196.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--13rC1-WN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://domysee.com/blogposts/21/sepia-filter.png)
 
 让我们试一试:
 

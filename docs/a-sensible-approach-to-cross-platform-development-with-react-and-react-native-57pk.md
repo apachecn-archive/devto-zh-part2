@@ -89,7 +89,7 @@ osascript -e "tell app \"Terminal\" to do script \"cd $PROJECTDIR/../bin && sh .
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/4c88dd8794fa560268d9be440814c7f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e5-O6is0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://g.recordit.co/j6A8lIxu6s.gif)
+[![](img/4c88dd8794fa560268d9be440814c7f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e5-O6is0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://g.recordit.co/j6A8lIxu6s.gif)
 
 ## Web 和移动聚合填充
 
@@ -190,4 +190,4 @@ Enter fullscreen mode Exit fullscreen mode
 Enter fullscreen mode Exit fullscreen mode
 
 这样我们在 web 和移动设备上创建了一个简单的表单，我们的高阶组件使用我们的跨平台 api 来记录事件，
-[![](../Images/48cfb617b451efa1d991ad6c7f1b4149.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5z3IxpGt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://g.recordit.co/t1bqzCFFfe.gif)
+[![](img/48cfb617b451efa1d991ad6c7f1b4149.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5z3IxpGt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://g.recordit.co/t1bqzCFFfe.gif)

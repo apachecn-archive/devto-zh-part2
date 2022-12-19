@@ -96,7 +96,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 首先，当 URL 在语义上被很好地制作时，它改善了用户体验并促进了对搜索引擎的理解。
 
-[![Piece of a Google search page result with the link and a highlight with red borders indicating the URL](../Images/aaac729d80909aa318bd7eb0a2c8508b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IsIw8jPi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d8ot7d47ruyyud5644ba.png)
+[![Piece of a Google search page result with the link and a highlight with red borders indicating the URL](img/aaac729d80909aa318bd7eb0a2c8508b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IsIw8jPi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d8ot7d47ruyyud5644ba.png)
 
 看到明确定义的 URL 的用户将知道，不需要标题，将在页面上找到什么。当以`men's watch`的形式搜索术语时，`keyword focus`会在结果中出现得更多，因为它出现在标题、描述和链接中。
 
@@ -121,7 +121,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 有和没有视口的区别:
 
-[![Displays 2 smartphone screens, the one on the left side with unadjusted content and on the right side the most readable and screen-adjusted content](../Images/209d5f0efc1971c6c7cfe5ed74248e8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6Z4uy3SK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2lyni42a80cni751qam2.png)
+[![Displays 2 smartphone screens, the one on the left side with unadjusted content and on the right side the most readable and screen-adjusted content](img/209d5f0efc1971c6c7cfe5ed74248e8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6Z4uy3SK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2lyni42a80cni751qam2.png)
 
 ### 页面的标题(标签标题)
 
@@ -166,7 +166,7 @@ Men's Watches | World of Watches
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Piece of a Google search page result with the highlighted example title with red borders](../Images/a59cc20ca3f208a8da500af808d6203e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RAUmy_1F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lm3pg7v1t97m05i9479h.png)
+[![Piece of a Google search page result with the highlighted example title with red borders](img/a59cc20ca3f208a8da500af808d6203e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RAUmy_1F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lm3pg7v1t97m05i9479h.png)
 
 **优化页面标题的技巧:**
 
@@ -193,7 +193,7 @@ export default {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Piece of a Google search page result with the description of the highlighted example with red borders](../Images/7681bbc6f4f3222af52cc6ac15134d94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ee5t3Jz4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jh79kwuueibodhoelu9s.png)
+[![Piece of a Google search page result with the description of the highlighted example with red borders](img/7681bbc6f4f3222af52cc6ac15134d94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ee5t3Jz4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jh79kwuueibodhoelu9s.png)
 
 优化页面描述的技巧:
 
@@ -314,15 +314,15 @@ Sitemap.xml 可以通过[谷歌搜索控制台](https://www.google.com/webmaster
 
 点击按钮`ADD/TEST SITEMAP`，你一点击它就会打开一个对话框，询问你的站点地图的地址。
 
-[![Dialog to add sitemap.xml address](../Images/9b7ccd0a6966d7728e653a96a2c370a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pj9Ds7lt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t5azsyc0v8qyvi1p2v9d.png)
+[![Dialog to add sitemap.xml address](img/9b7ccd0a6966d7728e653a96a2c370a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pj9Ds7lt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t5azsyc0v8qyvi1p2v9d.png)
 
 在使用 Vue.js 的应用程序中，您通常应该将 sitemap.xml 访问放在公共目录中，在使用 vue-cli 3 和 vuepress 构建的应用程序中，理想的目录是`/public`。用 Nuxt.js 插入`/static`。
 
-[![Dialog box with the sitemap.xml address entered in the field](../Images/39939789bccf1b74d1f6ae0d2ae62046.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tgmYLP7S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q0gvup4dq73bhgbtiyc2.png)
+[![Dialog box with the sitemap.xml address entered in the field](img/39939789bccf1b74d1f6ae0d2ae62046.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tgmYLP7S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q0gvup4dq73bhgbtiyc2.png)
 
 一旦你提交了你的站点地图，你就可以看到你的站点的索引是如何通过图片来实现的:
 
-[![Graph in bar with 2 options the blue bar (97 sent) meaning the URLs sent and the red bar (70 indexed) meaning the indexed URLs](../Images/622f2381759c393d2ded1e9a3e435c46.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o738Fh9P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/haf87zlhmx0cn9uxrvp5.png)
+[![Graph in bar with 2 options the blue bar (97 sent) meaning the URLs sent and the red bar (70 indexed) meaning the indexed URLs](img/622f2381759c393d2ded1e9a3e435c46.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o738Fh9P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/haf87zlhmx0cn9uxrvp5.png)
 
 你需要知道的一件事是，sitemap.xml 并不索引你的站点，但是它确实给了你一个提示。谷歌将索引那些他们认为相关且质量足够好值得索引的页面。
 

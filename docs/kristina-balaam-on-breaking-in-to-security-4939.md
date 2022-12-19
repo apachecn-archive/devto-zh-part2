@@ -4,7 +4,7 @@
 
 这是我的“开发聊天”系列中的一篇文章，在这篇文章中，我大约每周都会与一位出色的开发人员或技术人员交谈。你可以在这里阅读更多。如果你觉得这些对你有用，请在评论中告诉我！
 
-[![IMG_2546.JPG](../Images/0b23660295f47bff70ab403a98f621a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--atvUKOlD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5a1a339d53450a9c543c916b/1511666647983/IMG_2546.JPG%3Fformat%3D1000w)
+[![IMG_2546.JPG](img/0b23660295f47bff70ab403a98f621a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--atvUKOlD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5a1a339d53450a9c543c916b/1511666647983/IMG_2546.JPG%3Fformat%3D1000w)
 
 ### 自我介绍！你是谁？你在哪里工作？
 

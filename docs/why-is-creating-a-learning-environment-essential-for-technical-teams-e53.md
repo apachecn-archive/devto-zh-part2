@@ -8,7 +8,7 @@
 
 此外，他还看到这些学习机会不仅有助于打造更强大的团队，也有助于开发更强大的产品。在《管理难以驾驭的事物》一书中，利希提和合著者米奇·w·曼托探讨了弗雷德里克·赫茨伯格自 20 世纪 50 年代以来的开创性工作，该工作确定了人们的动机(和去动机)是什么。Lichty 和 Mantle 更进一步，将其应用于软件工程师。学习排在满意度的第二位，正如他们指出的，学习不仅是让软件工程师开心的关键，也是让你的产品成功的关键。
 
-[![What Motivates Programmers graph from Managing the Unmanageable](../Images/5179bdb88315f5b01d634803ed8c1d10.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ocjRzstn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2Are5quhToslUW9giv)
+[![What Motivates Programmers graph from Managing the Unmanageable](img/5179bdb88315f5b01d634803ed8c1d10.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ocjRzstn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2Are5quhToslUW9giv)
 
 这一原则之所以重要，有两个主要原因:
 

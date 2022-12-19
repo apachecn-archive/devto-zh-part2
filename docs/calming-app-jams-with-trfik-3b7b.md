@@ -21,11 +21,11 @@
 
 ### [树](#tr%C3%A6fik)
 
-[![](../Images/bf825cab665cc2e3bc8d6f7c0c0a86c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j9l9t-lw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/300/1%2AvmIbVVtdPASC7bHBvY7JAA.png)
+[![](img/bf825cab665cc2e3bc8d6f7c0c0a86c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j9l9t-lw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/300/1%2AvmIbVVtdPASC7bHBvY7JAA.png)
 
 > trfik 是一个现代化的 HTTP 反向代理和负载平衡器，使部署微服务变得简单。Træ fik 可与您现有的基础设施组件集成，并自动、动态地进行自我配置。将 trfik 指向您的 orchestrator 应该是您需要的唯一*配置步骤。*
 
-[![](../Images/3c2dd35b54e8132da4690cc579996e65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--69nvStY_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AtxAxvAwECxvFKHMQBQ8zjw.png)
+[![](img/3c2dd35b54e8132da4690cc579996e65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--69nvStY_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AtxAxvAwECxvFKHMQBQ8zjw.png)
 
 在下面的例子中，我们只涉及 Træ fik 功能的一小部分。我们的目标是:
 
@@ -44,7 +44,7 @@
 
 #### 新世界
 
-[![](../Images/8894c82a8894e524ae6a9352e202e702.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k8qtvBcj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/890/1%2Abn2gW_eYr5V9VXQoN4106w.png)
+[![](img/8894c82a8894e524ae6a9352e202e702.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k8qtvBcj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/890/1%2Abn2gW_eYr5V9VXQoN4106w.png)
 
 #### 堆栈 1:树
 

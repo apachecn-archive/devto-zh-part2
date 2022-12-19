@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jermdavis/playing-mythbusters-with-sitecore-setup-suggestions-1dg6>
 
-[![](../Images/c146ed59eb2e5d89d1116fa08e37b822.png)](https://jermdavis.files.wordpress.com/2018/05/mythbuster-group.jpg) 最近，我的一位同事告诉我，他们得到了一个关于建立 Sitecore 实例的建议。他们被告知您应该将许可文件放在数据目录的子文件夹中，因为许可检查会枚举包含该文件的目录中的文件和文件夹。所以如果文件夹里有其他东西，这将会减慢检查的速度。这对我来说听起来很奇怪，因为你必须在你的配置中指定许可证的确切路径，所以我想我应该做一些调查，看看我是否能证明或否定这个建议。
+[![](img/c146ed59eb2e5d89d1116fa08e37b822.png)](https://jermdavis.files.wordpress.com/2018/05/mythbuster-group.jpg) 最近，我的一位同事告诉我，他们得到了一个关于建立 Sitecore 实例的建议。他们被告知您应该将许可文件放在数据目录的子文件夹中，因为许可检查会枚举包含该文件的目录中的文件和文件夹。所以如果文件夹里有其他东西，这将会减慢检查的速度。这对我来说听起来很奇怪，因为你必须在你的配置中指定许可证的确切路径，所以我想我应该做一些调查，看看我是否能证明或否定这个建议。
 
 所以，戴上我最好的贝雷帽去参加一个欢快的“为了科学！”安格尔，这是我的发现:
 
@@ -33,7 +33,7 @@
 
 我运行了脚本两次，并将结果整合到一个图表中:
 
-[![](../Images/c850d0e8053419dab705a215b6701c99.png)T2】](https://jermdavis.files.wordpress.com/2018/05/timingaveragesgraph2.png)
+[![](img/c850d0e8053419dab705a215b6701c99.png)T2】](https://jermdavis.files.wordpress.com/2018/05/timingaveragesgraph2.png)
 
 (启动时间在左边的轴上，请求时间在右边的轴上——尽管绝对时间可能没有那么大的意义，只是它们之间的差异)
 
@@ -51,11 +51,11 @@
 
 但是我在这里看到了一些东西，让我确信它没有做任何枚举。首先，代码直接引用许可证文件配置设置，并检查特定文件是否存在:
 
-[![](../Images/a5c302c91af4abc55a93dcf882f81494.png)T2】](https://jermdavis.files.wordpress.com/2018/05/licensefilecheck.png)
+[![](img/a5c302c91af4abc55a93dcf882f81494.png)T2】](https://jermdavis.files.wordpress.com/2018/05/licensefilecheck.png)
 
 第二，如果我遵循调用树，许可证文件属性的值会传递给一个`XmlDocument`的 load 调用:
 
-[![](../Images/e11d500fe1e83b71c0162259212258c9.png)T2】](https://jermdavis.files.wordpress.com/2018/05/licensefilecheck2.png)
+[![](img/e11d500fe1e83b71c0162259212258c9.png)T2】](https://jermdavis.files.wordpress.com/2018/05/licensefilecheck2.png)
 
 因此，您在 config 中描述的特定文件似乎已经过验证和加载。
 
@@ -63,6 +63,6 @@
 
 ## 总之…
 
-[![](../Images/8d47705ecbc7cd49d298b554a400b413.png)T2】](https://jermdavis.files.wordpress.com/2018/05/15130616.jpg)
+[![](img/8d47705ecbc7cd49d298b554a400b413.png)T2】](https://jermdavis.files.wordpress.com/2018/05/15130616.jpg)
 
 我称之为“终结”。在我看来，你可以把你的执照放在你想放的地方——处理时间似乎不会受到有意义的影响。

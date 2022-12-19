@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/shreyasminocha/what-do-you-think-about-the-ternary-operator-5ajg>
 
-[![Shortcuts](../Images/d9867284a3d785995b0bd82347409438.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yFREbSOR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pdy2jegats9a8ssrqye3.png)
+[![Shortcuts](img/d9867284a3d785995b0bd82347409438.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yFREbSOR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pdy2jegats9a8ssrqye3.png)
 
 三元运算符有降低可读性的名声。然而，在合适的人手里，它可能会减少重复。
 

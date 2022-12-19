@@ -4,7 +4,7 @@
 
 LaTeX 是事实上的标记语言，用于撰写包含大量数学内容的技术文章——研究文章、课堂笔记等。在这篇文章中，我将描述我如何使用 Elm 为 LaTeX 构建一个实时渲染的 web 应用程序。你可以在 [MiniLatex Live](https://jxxcarlson.github.io/app/miniLatexLive/index.html) 上尝试演示，如下图。(本文在图片下方继续)
 
-[![](../Images/630be69585c27644a6c8770cc3215ab7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GDpGvklc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tpwu40b7t1v152rvoyt9.png)
+[![](img/630be69585c27644a6c8770cc3215ab7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GDpGvklc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tpwu40b7t1v152rvoyt9.png)
 
 ## 关于乳胶
 

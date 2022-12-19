@@ -37,7 +37,7 @@ Enter fullscreen mode Exit fullscreen mode
 3.  如果没有找到设备，它将退出脚本。
 4.  如果`MOUSEBATTERY`小于`COMPARE`，在 macOS 中显示当前电池电量的通知。
 
-[![Low Battery Notification](../Images/f4fd50fd901ac8f83bee5cdcb2137164.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a-h9NuQi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/aromig/scripts/master/check_battery/check_mouse_battery_notification.png)
+[![Low Battery Notification](img/f4fd50fd901ac8f83bee5cdcb2137164.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a-h9NuQi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/aromig/scripts/master/check_battery/check_mouse_battery_notification.png)
 
 然后，我必须设置一种定期自动运行脚本的方法。为此我使用了 [`launchctl`](http://www.manpagez.com/man/1/launchctl/) ，设置说明包含在下面这个实用程序的库中。我将它的 plist 配置为每 2 小时运行一次脚本。
 

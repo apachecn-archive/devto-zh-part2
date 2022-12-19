@@ -16,7 +16,7 @@
 
 我想给自己设定一个合理的挑战。从评论来看，这可能比我意识到的更有挑战性。我发现不经常做出承诺更难。我喜欢由 [@perigk](https://dev.to/perigk) 提到的一天一个节拍的简单性(宋飞技术)
 
-[![perigk image](../Images/7e14d6fbffcc2dad01c9bcf73aed572b.png)](/perigk) [## 你的任务管理流程是什么？你使用 trello，asana，calendar 等还是混合？又是怎么做到的？
+[![perigk image](img/7e14d6fbffcc2dad01c9bcf73aed572b.png)](/perigk) [## 你的任务管理流程是什么？你使用 trello，asana，calendar 等还是混合？又是怎么做到的？
 
 ### periklis Gkolias Aug 14 ' 181min read
 
@@ -34,12 +34,12 @@
 
 *   接受一个适合你模式的挑战。如果你每隔几天或一周写一篇文章，那很好。或者一个完全不同的挑战
 
-[![kebabyusuf image](../Images/69346d23d4fa626b4742f367c784caa9.png)](/kebabyusuf) [## 在这个# code 11 月挑战自己！
+[![kebabyusuf image](img/69346d23d4fa626b4742f367c784caa9.png)](/kebabyusuf) [## 在这个# code 11 月挑战自己！
 
 ### 凯南优素福 11 月 1 日 182 分钟阅读
 
 #challenge #webdev #css #javascript](/kebabyusuf/challenge-yourself-this-codevember-2kha)
-[![aspittel image](../Images/45a8d86fe0ff981bf7cdb45b471a3c5c.png)](/aspittel) [## 通过艺术创作学习 CSS
+[![aspittel image](img/45a8d86fe0ff981bf7cdb45b471a3c5c.png)](/aspittel) [## 通过艺术创作学习 CSS
 
 ### 阿里·斯皮特尔 11 月 25 日 171 分钟阅读
 

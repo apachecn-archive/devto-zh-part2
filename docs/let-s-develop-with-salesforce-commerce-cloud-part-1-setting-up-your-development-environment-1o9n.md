@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/pxjohnny/let-s-develop-with-salesforce-commerce-cloud-part-1-setting-up-your-development-environment-1o9n>
 
-<figure>[![](../Images/c750f90d3b6c633bc6e62a0712368c1f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--km0iwwv9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AZQC-3_5tfCIDjPteKi40yw.jpeg) 
+<figure>[![](img/c750f90d3b6c633bc6e62a0712368c1f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--km0iwwv9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AZQC-3_5tfCIDjPteKi40yw.jpeg) 
 
 <figcaption>感谢[https://unsplash.com/@igormiske](https://unsplash.com/@igormiske)！</figcaption>
 
@@ -41,7 +41,7 @@ Salesforce Commerce Cloud 的开发和调试是通过一个名为 UX 工作室�
 
 下面的 GIF 展示了整个安装过程:
 
-[![](../Images/4db3baa1510d47e80a31330acc21bc75.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uVbZCqiq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/640/1%2ALR6x1ZR8Vt_3M_XM-AWYAg.gif)
+[![](img/4db3baa1510d47e80a31330acc21bc75.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uVbZCqiq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/640/1%2ALR6x1ZR8Vt_3M_XM-AWYAg.gif)
 
 ### 第二步:连接到你的沙盒服务器
 
@@ -52,11 +52,11 @@ Salesforce Commerce Cloud 的开发和调试是通过一个名为 UX 工作室�
 3.  在*新建数字服务器连接*对话框中，填写服务器*主机名*、*用户名*(与您的业务经理用户名相同)和*密码*(与您的业务经理密码相同)字段。
 4.  完成后，点击*下一步。*
 
-[![](../Images/42a6d7b5c75a05f265783b6643be45b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DrkOwVJk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ANN4S5tYjwInbd7lRPzNtQw.png)
+[![](img/42a6d7b5c75a05f265783b6643be45b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DrkOwVJk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ANN4S5tYjwInbd7lRPzNtQw.png)
 
 1.  在*代码暂存目录*对话框中，选择*版本 1* 为*目标版本目录*，点击*完成。*
 
-[![](../Images/2502289c9b99c2ddb8636d4a846d1899.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RxmRvkHv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Afx-at44Bd0JI5sFwMei6Lw.png)
+[![](img/2502289c9b99c2ddb8636d4a846d1899.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RxmRvkHv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Afx-at44Bd0JI5sFwMei6Lw.png)
 
 1.  此时将开始下载数字 API(您可以在 Eclipse 的右下角看到进度)。等待它完成。
 

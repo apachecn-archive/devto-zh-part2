@@ -4,7 +4,7 @@
 
 如果你想进一步了解 JS 是如何工作的，以及我们是如何创建自己的过滤函数的，你可以看看我之前的帖子:
 
-[![machy44 image](../Images/ed7881beba32b873b6e40d5a6749bf2f.png)](/machy44) [## 让我们在 JS 中创建我们自己的过滤方法
+[![machy44 image](img/ed7881beba32b873b6e40d5a6749bf2f.png)](/machy44) [## 让我们在 JS 中创建我们自己的过滤方法
 
 ### machy 44 Feb 26 ' 183 分钟读取
 

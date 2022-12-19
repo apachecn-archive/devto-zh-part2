@@ -50,7 +50,7 @@ tmux 是一个终端应用程序，它允许您在一个终端窗口中模拟几
 
 更重要的是，你失去了宝贵的键盘狂热惯性。所以总的来说，你的生产力下降了。
 
-[![](../Images/9bc5504b365b5e8ccd2f37fc4c1d21ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rSDncqrO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://pmihaylov.com/wp-content/uploads/2018/05/Selection_017-1024x547.png)
+[![](img/9bc5504b365b5e8ccd2f37fc4c1d21ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rSDncqrO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://pmihaylov.com/wp-content/uploads/2018/05/Selection_017-1024x547.png)
 
 为了生成所有这些终端并以这种方式排序，我花了大量的鼠标点击和移动。
 
@@ -58,7 +58,7 @@ tmux 是一个终端应用程序，它允许您在一个终端窗口中模拟几
 
 但是另一方面，通过使用 tmux，你可以在一个终端窗口中完成所有的工作，只需敲击几下键盘**，而不是使用鼠标**。
 
-[![](../Images/d1a49bd6509fac14782b49816a9b619a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VDoRrGkk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://pmihaylov.com/wp-content/uploads/2018/05/Selection_018-1024x576.png)
+[![](img/d1a49bd6509fac14782b49816a9b619a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VDoRrGkk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://pmihaylov.com/wp-content/uploads/2018/05/Selection_018-1024x576.png)
 
 为了调整上面的布局，没有使用单一的鼠标点击。
 
@@ -130,15 +130,15 @@ tmux 是一个独立于 vim 的软件。所以你可以像安装其他普通软�
 
 垂直生成一个新的终端。
 
-[![](../Images/5aca9b4836909c343198296b6247c075.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QE7ckrSz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://pmihaylov.com/wp-content/uploads/2018/05/Selection_019-1024x580.png)
+[![](img/5aca9b4836909c343198296b6247c075.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QE7ckrSz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://pmihaylov.com/wp-content/uploads/2018/05/Selection_019-1024x580.png)
 
 水平生成一个新的终端
 
-[![](../Images/ef166f2e42621e68962b8889bc86d4e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C2zlzogP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://pmihaylov.com/wp-content/uploads/2018/05/Selection_020-1024x577.png)
+[![](img/ef166f2e42621e68962b8889bc86d4e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C2zlzogP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://pmihaylov.com/wp-content/uploads/2018/05/Selection_020-1024x577.png)
 
 这些操作也可以在内部 tmux 窗口上递归使用，以创建一个漂亮的终端网格。
 
-[![](../Images/ebc92ff548c27b0cf656c86472fa81a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9wZaVTtR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://pmihaylov.com/wp-content/uploads/2018/05/Selection_021-1024x577.png)
+[![](img/ebc92ff548c27b0cf656c86472fa81a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9wZaVTtR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://pmihaylov.com/wp-content/uploads/2018/05/Selection_021-1024x577.png)
 
 关于这两个操作只需注意一点。在您使用它们之后，您将返回到正常的终端操作。
 

@@ -38,7 +38,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 下面，你可以看到我们已经创建了一个[示例应用程序](https://github.com/RollbarExample/Rollbar-Ios-Example)，当用户点击一个按钮时它会触发一个异常。Rollbar 跟踪错误信息，并包括一个堆栈跟踪，您可以在其中看到导致错误的代码行。它还提供了大量的其他上下文信息来帮助您区分错误的优先级并更快地找到根本原因。
 
-[![Screenshot of Rollbar iOS Error](../Images/9e3a8557d3b04a9396bfae53b1289536.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fHtyAkVb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vabcuoltnnifas4sjz5k.gif)
+[![Screenshot of Rollbar iOS Error](img/9e3a8557d3b04a9396bfae53b1289536.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fHtyAkVb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vabcuoltnnifas4sjz5k.gif)
 
 ## 如何在滚动条上设置 iOS 项目
 
@@ -198,10 +198,10 @@ Enter fullscreen mode Exit fullscreen mode
 
 打开滚动条，查看这些错误在您帐户的项目页面中的样子。您刚刚生成的错误应该标题为“应用程序终止”
 
-[![Screenshot of Rollbar iOS Error](../Images/b4bf6e69846540d576450ff666b1fb7f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1UduD-3w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ovibs7026nhtfn104f6f.png)
+[![Screenshot of Rollbar iOS Error](img/b4bf6e69846540d576450ff666b1fb7f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1UduD-3w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ovibs7026nhtfn104f6f.png)
 
 通过单击项目获取更多详细信息。现在可以看到一个回溯，显示了产生错误的确切的源代码文件、方法和行号。在本例中，错误是在 ViewController.swift 的第 13 行生成的。
 
-[![Screenshot of Rollbar iOS Error details](../Images/eb3d06fbade290f3716577259d5f0f48.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3TdvWSN0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/32amol8dtxl4hjtdaerw.png)
+[![Screenshot of Rollbar iOS Error details](img/eb3d06fbade290f3716577259d5f0f48.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3TdvWSN0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/32amol8dtxl4hjtdaerw.png)
 
 在整个应用程序中跟踪错误非常容易。设置 Rollbar 只需要几分钟，将来您将有更多的上下文来更快地跟踪和调试问题。您将立即知道错误，这样您的用户就可以按照预期的方式体验您的应用程序。了解更多关于 iOS 的[滚动条功能。](https://rollbar.com/error-tracking/ios/)

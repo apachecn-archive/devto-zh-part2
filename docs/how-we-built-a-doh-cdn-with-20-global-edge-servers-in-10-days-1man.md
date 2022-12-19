@@ -4,7 +4,7 @@
 
 就在几个月前，[Commons Host static hosting CDN](https://commons.host)推出了一个单一的边缘服务器。如今，全球有超过 20 台边缘服务器。大多数是廉价的基于 ARM 的微服务器，由志愿贡献者在商品互联网连接(通常是千兆光纤)上托管。另一些是位于云数据中心的虚拟机，提供类似的性能。
 
-[![Map of Commons Host CDN edge servers](../Images/98842760cd54776f17ca4daad851e865.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8ULTaaH8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m18r6n1l7aeh4u90u6qx.png)
+[![Map of Commons Host CDN edge servers](img/98842760cd54776f17ca4daad851e865.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8ULTaaH8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m18r6n1l7aeh4u90u6qx.png)
 
 *图示:公共主机 CDN 边缘服务器地图(现场& WIP)*
 
@@ -22,7 +22,7 @@ Kenny 和我在部署自动化方面努力工作。这允许将边缘服务器�
 
 像 HTTP 或 DNS 这样的标准是互联网工程任务组的工作成果。该组织通过公共邮件列表提供了一个开放的、供应商中立的讨论平台。IETF 还举办会议，每年举行三次，轮流在美洲、欧洲和亚洲举行。
 
-[![IETF 100 session](../Images/13d33424f7677fe4e270b52b271f47fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---iLAx4nv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.ietf.org/media/images/download.original.jpg)
+[![IETF 100 session](img/13d33424f7677fe4e270b52b271f47fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---iLAx4nv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.ietf.org/medimg/download.original.jpg)
 
 *图片:IETF 100 会议的一个环节*
 
@@ -38,7 +38,7 @@ HTTP 服务器存在。DNS 服务器存在。所以我们就用胶带把两者�
 
 在接下来的几天里，我们重写并重构了代码。最后，我们为 Node.js web 服务器构建了一个名为 [Playdoh](https://github.com/qoelet/playdoh) 的中间件。
 
-[![Playdoh GitHub repository](../Images/5f631535088df6a39b808198b4b2cc77.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TSUxdqBe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sx388h6aqfgfoe8hws38.png)
+[![Playdoh GitHub repository](img/5f631535088df6a39b808198b4b2cc77.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TSUxdqBe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sx388h6aqfgfoe8hws38.png)
 
 *截图: [Playdoh GitHub 库](https://github.com/qoelet/playdoh)T3】*
 
@@ -48,7 +48,7 @@ Playdoh 在像 Firefox 这样的 doh 客户端和传统的 DNS 服务器之间�
 
 为了提供全球 DOH 服务，每个边缘服务器都需要运行自己的缓存 DNS 解析器。解析器处理 DNS 查询并缓存响应，以便用户从更快的未来查找中受益。
 
-[![Knot Resolver logo](../Images/4ed8a0847935e24c77fa4fd7943d8e8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mx2l6qP5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q9bhz969n7iv929caqe5.png)
+[![Knot Resolver logo](img/4ed8a0847935e24c77fa4fd7943d8e8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mx2l6qP5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q9bhz969n7iv929caqe5.png)
 
 通过与 CDN 行业的朋友交谈，我们了解到了 [Knot Resolver](https://www.knot-resolver.cz) 。Knot Resolver 是由捷克共和国 DNS 注册中心( [CZ)开发的开源软件。网卡](https://www.nic.cz)。有趣的是，Knot Resolver 还支持 1.1.1.1 的[公共 DNS 服务。其他人推荐使用](https://1.1.1.1)[未绑定](https://nlnetlabs.nl/projects/unbound/about/)或[绑定](https://www.isc.org/downloads/bind/)作为解析器。我们还可以在一个混合的网络中运行它们，以获得不同的弹性。
 
@@ -72,7 +72,7 @@ Playdoh 在像 Firefox 这样的 doh 客户端和传统的 DNS 服务器之间�
 
 DOH 通过引导解析器主机名的初始 DNS 查找来工作。这种 DNS 查找仍然由传统的 DNS 服务器处理，如 ISP 或本地服务器。然后，HTTPS 连接将使用该域的签名 TLS 证书来保护。ISP 处恶意(或有故障)DNS 服务器的任何篡改都会导致连接尝试失败。因此没有向 DOH 客户端暴露被篡改的响应的风险。
 
-[![DOH bootstrap sequence diagram](../Images/ac75d5e66cb6ba0eb66fdb0f903bb64e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lNdKyalE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jnm5fzak7l5xi7w4sgd3.png)
+[![DOH bootstrap sequence diagram](img/ac75d5e66cb6ba0eb66fdb0f903bb64e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lNdKyalE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jnm5fzak7l5xi7w4sgd3.png)
 
 *图:DOH 引导序列*
 
@@ -103,7 +103,7 @@ Commons 主机网络的一个好处是任何人都可以赞助和托管一个边
 
 目前 Firefox 是使用 DOH 最简单的方法。
 
-[![Firefox Network Settings for DOH](../Images/5c09548d2c488f8435fd09a8d40db934.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4MHaQy5m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6aqdoym2i14w2zsekwio.png)
+[![Firefox Network Settings for DOH](img/5c09548d2c488f8435fd09a8d40db934.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4MHaQy5m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6aqdoym2i14w2zsekwio.png)
 
 *截图:DOH 的火狐网络设置*
 

@@ -14,7 +14,7 @@
 
 从 Windows 应用商店安装 Linux 的 Windows 子系统(WSL)。我选择了 Ubuntu 选项。
 
-<figure>[![](../Images/e35be19d658cbe6ec061ef6f7966e34b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---UUxE-Jn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/10/image-29.png)
+<figure>[![](img/e35be19d658cbe6ec061ef6f7966e34b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---UUxE-Jn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/10/image-29.png)
 
 <figcaption>Windows 上的 Linux #神魂颠倒</figcaption>
 
@@ -22,7 +22,7 @@
 
 接下来，我们将希望在 Windows 10 上安装 Xming。如果能从[https://sourceforge.net/projects/xming/](https://sourceforge.net/projects/xming/)得到。按照安装程序中显示的安装说明进行操作。
 
-<figure>[![](../Images/368129f5b705d80528af0c26efaba065.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4gkwI8HD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/10/image-28.png) 
+<figure>[![](img/368129f5b705d80528af0c26efaba065.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4gkwI8HD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/10/image-28.png) 
 
 <figcaption>退房。Windows 10 上的 X11 服务器。</figcaption>
 
@@ -35,7 +35,7 @@ sudo apt-get install vim-gtk
 
 ```
 
-<figure>[![](../Images/9a3409a73f96fba3ab5051dfed728384.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EGJRtc9q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/10/image-30.png) 
+<figure>[![](img/9a3409a73f96fba3ab5051dfed728384.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EGJRtc9q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/10/image-30.png) 
 
 <figcaption>gvim 安装</figcaption>
 
@@ -55,7 +55,7 @@ gvim
 
 ```
 
-<figure>[![](../Images/0c7d1c92dd60cbaea41d04fc21833ed3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qKsamys_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/10/image-31.png) 
+<figure>[![](img/0c7d1c92dd60cbaea41d04fc21833ed3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qKsamys_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/10/image-31.png) 
 
 <figcaption>哇，看那个！</figcaption>
 

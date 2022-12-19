@@ -4,7 +4,7 @@
 
 > 这篇文章最初发表在我的个人博客 [Smakosh](https://smakosh.com/blog) 上。
 
-[![Tools](../Images/1c4ee5aa22583d72629dc654bcea2c10.png "Taken from my Instagram")T2】](///static/tech-84f598a3896d271a6bdbaab95494ff67-ab4eb.jpg)
+[![Tools](img/1c4ee5aa22583d72629dc654bcea2c10.png "Taken from my Instagram")T2】](///static/tech-84f598a3896d271a6bdbaab95494ff67-ab4eb.jpg)
 
 TL；博士我使用 Javascript 的一切:D
 

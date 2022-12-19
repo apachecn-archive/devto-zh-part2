@@ -10,7 +10,7 @@
 
 下面是我们将要构建的内容的屏幕记录:
 
-[![](../Images/ac5369cdf47c473fdf68b3ff0ae8aad8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---WiC5-kG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2A9g0iD4TbKe_gBYrI.gif)
+[![](img/ac5369cdf47c473fdf68b3ff0ae8aad8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---WiC5-kG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2A9g0iD4TbKe_gBYrI.gif)
 
 ### 先决条件
 

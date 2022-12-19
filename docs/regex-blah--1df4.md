@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kauresss/regex-blah--1df4>
 
-[![Regex](../Images/faac90db2d296fa29a7d50609351a88f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--n3FYKDxz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gs8hzn4i9q8g483ki20i.png) 
+[![Regex](img/faac90db2d296fa29a7d50609351a88f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--n3FYKDxz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gs8hzn4i9q8g483ki20i.png) 
 只是我对正则表达式的注释。没什么刺激的，只是痛苦。
 
 ### 简介

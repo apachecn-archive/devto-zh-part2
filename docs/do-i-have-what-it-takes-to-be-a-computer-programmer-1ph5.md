@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kalbert1/do-i-have-what-it-takes-to-be-a-computer-programmer-1ph5>
 
-[![programmer header](../Images/819f6985a2f1be8b7966c96594287930.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--E-uTp7mV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3zegy9nkrucyxj1k62yj.jpg) 
+[![programmer header](img/819f6985a2f1be8b7966c96594287930.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--E-uTp7mV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3zegy9nkrucyxj1k62yj.jpg) 
 我具备成为一名计算机程序员的条件吗？在指导学习计算机科学或程序员相关专业的大学生时，我经常会遇到这个问题。这个问题通常来自于这些学生在茫然和困惑地离开他们的第一堂高级算法课后。当尝试计算机科学学位的严格性时，很容易变得沮丧，这可能会过度教授只有计算机科学家才能理解的高级概念，但这些主题几乎没有触及计算机程序员需要“具备什么”的表面。
 
 我试图传达给我指导的那些人的是，记住所有与面向对象编程相关的术语不是任何考虑从事计算机编程的人应该用来作为他们职业决策的基础。当然，你绝对需要对这些概念有一个全面的理解，但是正如我告诉任何怀疑他们编程能力的人的那样，你能学到的东西并不等同于你的学习能力。

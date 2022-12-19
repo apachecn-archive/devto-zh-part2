@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/joshua/the-state-of-the-state-react-state-management-in-2018-2l0c>
 
-[![Photo of a dashboard](../Images/7ef7ebc10946cd720f2ac0c6d7c9d146.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SMu1KSUv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j954wf72re89cn06fe5c.jpg)
+[![Photo of a dashboard](img/7ef7ebc10946cd720f2ac0c6d7c9d146.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SMu1KSUv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j954wf72re89cn06fe5c.jpg)
 
 在 React 中，管理状态的方式总是数不胜数。Redux 一直是一个受欢迎的选择，但是随着 React 16 和最近发布的库的出现，现在有了更多的选择。这些选项是什么，为什么您会使用其中任何一个选项而不是其他选项？
 
@@ -28,9 +28,9 @@ setState()是一种管理应用程序状态的简单方法，除了 React 之外
 
 有带注释的源代码可用于比较示例。
 
-[![react set state screenshot](../Images/068018886b37933d1dd5be819687b8ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_fsImIm_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5g5xjtj4td4ywxzszsak.png)
+[![react set state screenshot](img/068018886b37933d1dd5be819687b8ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_fsImIm_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5g5xjtj4td4ywxzszsak.png)
 
-[![Edit react-state-demo-setstate](../Images/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/m9v3xvkl0y)
+[![Edit react-state-demo-setstate](img/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/m9v3xvkl0y)
 
 ## Redux
 
@@ -50,7 +50,7 @@ Redux observables 是一种允许状态管理中所有 observables 功能的方�
 
 ### ✨举例
 
-[![Edit react-state-demo-redux](../Images/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/mzjmrpn63y)
+[![Edit react-state-demo-redux](img/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/mzjmrpn63y)
 
 ## 阿波罗链接状态
 
@@ -70,7 +70,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### ✨举例
 
-[![Edit react-state-demo-apollo-linkstate](../Images/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/k9k56pnj77)
+[![Edit react-state-demo-apollo-linkstate](img/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/k9k56pnj77)
 
 ## 未说明
 
@@ -90,7 +90,7 @@ React 16 带来了一个[新的上下文 API](https://reactjs.org/docs/context.h
 
 ### ✨举例
 
-[![Edit react-state-demo-unstated](../Images/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/qxw215zm7j)
+[![Edit react-state-demo-unstated](img/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/qxw215zm7j)
 
 ## 光荣提及
 

@@ -12,7 +12,7 @@
 
 根据我创作的原始设计，这是我为第三天准备的:
 
-[![A search bar component, with input text element and submit button](../Images/afb92b632ff21e1e3d6650b0d6f7257f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dtuw9M8---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bha1bm0cqf0jn0exrskr.jpg)
+[![A search bar component, with input text element and submit button](img/afb92b632ff21e1e3d6650b0d6f7257f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dtuw9M8---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bha1bm0cqf0jn0exrskr.jpg)
 
 submit/search 按钮使用了 search `input`元素的许多相同样式，为了统一，也因为它的大小非常适合点击，使得用户可以轻松完成搜索。
 
@@ -20,7 +20,7 @@ submit/search 按钮使用了 search `input`元素的许多相同样式，为了
 
 下面是搜索输入和提交按钮协同工作的动画:
 
-[![An animation showing the search bar component in use, with text input to the input element, a button to trigger a search form submission, and a logger display showing the output below](../Images/f9090b94b80477b80b15db819f98ca8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8FOiDjxD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui-assets/master/search-bar/day3/w2d3-animation-xld.gif)
+[![An animation showing the search bar component in use, with text input to the input element, a button to trigger a search form submission, and a logger display showing the output below](img/f9090b94b80477b80b15db819f98ca8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8FOiDjxD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui-assets/master/search-bar/day3/w2d3-animation-xld.gif)
 
 ## 现在轮到你了
 

@@ -66,7 +66,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当我们运行该命令时，控制台将显示如下表格:
 
-[![Output of running console.table on an array of objects in NodeJS](../Images/744318a9db569cf9d0b800a73ef583a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MOVdkI-A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chaseadams.io/img/nodejs-console-table.png)
+[![Output of running console.table on an array of objects in NodeJS](img/744318a9db569cf9d0b800a73ef583a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MOVdkI-A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chaseadams.io/img/nodejs-console-table.png)
 
 # 检查浏览器中的对象数组(Chrome 示例)
 
@@ -74,7 +74,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 复制上面的 JavaScript 片段并将其粘贴到 JavaScript 控制台中，按 enter 键，您将看到一个类似于下面截图的表格:
 
-[![](../Images/2096ad3cb9c9535620bb4d8e47ba1db4.png "Output of running console.table on an array of objects in Chrome")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VARKrZr2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chaseadams.io/img/chrome-console-table.png)
+[![](img/2096ad3cb9c9535620bb4d8e47ba1db4.png "Output of running console.table on an array of objects in Chrome")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VARKrZr2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chaseadams.io/img/chrome-console-table.png)
 
 # 基于键构造表格
 
@@ -89,7 +89,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 用第二个 argumend 调用`console.table`,构造一个新表，只包含索引和数组中的键值:
 
-[![](../Images/d40a70ed73241db56cd9e8755719ec63.png "Output of running console.table on an array of objects in Chrome with only the common name key")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q4JRJeyu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chaseadams.io/img/console-table-only-one-key.png)
+[![](img/d40a70ed73241db56cd9e8755719ec63.png "Output of running console.table on an array of objects in Chrome with only the common name key")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q4JRJeyu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chaseadams.io/img/console-table-only-one-key.png)
 
 # 使用 console.table 上的一个对象的对象
 
@@ -125,6 +125,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 您可以看到该表现在将每个对象的键作为索引:
 
-[![](../Images/c7a80d2fd37d1b3885bf30f7717fd8d0.png "Output of running console.table on an object of objects in Chrome")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xqwT3sT---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chaseadams.io/img/console-table-object-of-objects.png)
+[![](img/c7a80d2fd37d1b3885bf30f7717fd8d0.png "Output of running console.table on an object of objects in Chrome")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xqwT3sT---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chaseadams.io/img/console-table-object-of-objects.png)
 
 现在您已经有了一个很好的选择来代替`console.log`以表格形式显示 JavaScript 中的对象，而不是嵌套数据——这个选择将节省您检查和调试的时间！

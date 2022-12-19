@@ -26,17 +26,17 @@
 
 让我们通过输入 fun (function)来测试一下，我们看到了这个
 
-[![Alt text of image](../Images/03b26b945f3a23f8e3efe8a812c9bae7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ddt6Bryb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/94k17rmn1nr20z2oqig8.png)
+[![Alt text of image](img/03b26b945f3a23f8e3efe8a812c9bae7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ddt6Bryb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/94k17rmn1nr20z2oqig8.png)
 
 等等，现在按回车键。现在您应该看到自动完成功能开始工作了。
 
-[![Alt text of image](../Images/e4f739603bc296e337e05937ea872b8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s-RrrWBO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9omffxi2mwod2x1drm1v.png)
+[![Alt text of image](img/e4f739603bc296e337e05937ea872b8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s-RrrWBO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9omffxi2mwod2x1drm1v.png)
 
 # 4。文件图标
 
 文件图标是每个 atom 用户必须拥有的一个可爱的包(抱歉，不是必须的，而是选择)
 
-[![Alt text of image](../Images/d664b092dfcb2bfcd267713f107593fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iKQvw-Sq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/35radqirm4d8gryq1rtx.png)
+[![Alt text of image](img/d664b092dfcb2bfcd267713f107593fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iKQvw-Sq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/35radqirm4d8gryq1rtx.png)
 
 # 5。php-cs 固定程序
 
@@ -49,7 +49,7 @@
 1.  导航到您的终端
 2.  通过执行 **composer -v** 检查是否安装了 composer。这将检查 composer 的版本。不过，你可以通过这个链接安装[作曲](https://getcomposer.org/download/)
 
-[![Alt text of image](../Images/1e5a2667aac6eee97966a5b77b67e79f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CYSGzmSk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ippadl0jrvjxhw8qdpya.png)
+[![Alt text of image](img/1e5a2667aac6eee97966a5b77b67e79f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CYSGzmSk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ippadl0jrvjxhw8qdpya.png)
 
 如果安装了 composer，您应该会看到上面的输出
 

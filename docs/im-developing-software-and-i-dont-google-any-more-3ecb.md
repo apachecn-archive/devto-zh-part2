@@ -10,7 +10,7 @@
 
 > 幸运的是，一个美丽的早晨(可以这么说)我发现了 DuckDuckGo，一切都变了。
 
-[![DuckDuckGoLogo](../Images/d242dbfa9548d8818a8f94d5ac358956.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ockOidxv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/DuckDuckGo_logo_and_wordmark_%25282014-present%2529.svg/250px-DuckDuckGo_logo_and_wordmark_%25282014-present%2529.svg.png)
+[![DuckDuckGoLogo](img/d242dbfa9548d8818a8f94d5ac358956.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ockOidxv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/DuckDuckGo_logo_and_wordmark_%25282014-present%2529.svg/250px-DuckDuckGo_logo_and_wordmark_%25282014-present%2529.svg.png)
 [duck duck go](https://duckduckgo.com/)是一个专注于隐私的强大搜索引擎，它们不会存储你的个人信息或出于广告目的跟踪你，这在你不想让谷歌知道你搜索一个非常奇怪的“Despacito”混音的时候特别有用，或者当你不想被关于烹饪食谱的广告淹没，只是因为你妈妈让你给她找点有趣的东西吃的时候特别有用。
 
 > 一个神奇的隐私优先工具，但我认为我们在谈论软件开发工作流程的改进？
@@ -19,10 +19,10 @@
 
 不过，暂且不谈市场营销。让我们言归正传:我使用 DuckDuckGo 是因为当我写具体的(有时不那么具体)问题时，比如*如何在 express* 中创建帖子请求，我会在 DuckDuckGo 的结果页面上立即得到正确的答案。像这样:
 
-[![DuckDuckGo search result](../Images/0b052870a14a78945359af50e4e3afb9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Es-PtGBs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.com/images/d3436002-099a-449d-b010-52d1aea48157.png)
+[![DuckDuckGo search result](img/0b052870a14a78945359af50e4e3afb9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Es-PtGBs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.cimg/d3436002-099a-449d-b010-52d1aea48157.png)
 
 当我 *Google* 同样的问题这是我得到的:
-[![Google search result](../Images/2bfe6af4fb9ce3a3e8e9ba2361cce86c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9BeWz735--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.com/images/aea835cf-bde6-4dee-b6ab-b41b131c1b5b.png)
+[![Google search result](img/2bfe6af4fb9ce3a3e8e9ba2361cce86c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9BeWz735--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.cimg/aea835cf-bde6-4dee-b6ab-b41b131c1b5b.png)
 
 两个答案都来自 StackOverflow，事实上它们指向的是同一个问题，但它们的显示方式有很大的不同，在 Google 中你必须点击链接，它会将你重定向到 StackOverflow 网站，你必须等待网站加载，然后滚动到问题，而在 DuckDuckGo 中，你只需阅读那里的答案，如果有必要，复制并粘贴代码，而无需点击任何链接。
 

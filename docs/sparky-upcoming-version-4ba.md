@@ -10,7 +10,7 @@ Sparky 是一个轻量级的异步作业运行器，支持通过 docker 和 ssh 
 
 我换成了[布尔玛](https://bulma.io/)，这意味着更好的设计，至少 IMHO(:
 
-[![projects page](../Images/361a7275ee6e24815a180898f8aae8ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5DSUkYyQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jorrsywgy9o1k6wr49lf.png)
+[![projects page](img/361a7275ee6e24815a180898f8aae8ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5DSUkYyQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jorrsywgy9o1k6wr49lf.png)
 
 这是默认的`nuclear`主题(我有物理学硕士学位，这是为什么:)
 
@@ -31,7 +31,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果您不想等到 cron 运行作业，您可以通过 UI 运行它:
 
-[![run now](../Images/41eac79afe0594cf5b34ae4d84da647e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x8ed9AyE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xjwifanj60vn7j9d6q5d.png)
+[![run now](img/41eac79afe0594cf5b34ae4d84da647e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x8ed9AyE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xjwifanj60vn7j9d6q5d.png)
 
 # 系统安装人员
 

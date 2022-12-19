@@ -24,7 +24,7 @@ Webpack 似乎是使用最广泛的软件包。除此之外，我真的没有任
 
 可能没有，但我找到了，就在这里。
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png)[ignis-pwa](https://github.com/ignis-pwa)/[web pack-exercise](https://github.com/ignis-pwa/webpack-exercise)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png)[ignis-pwa](https://github.com/ignis-pwa)/[web pack-exercise](https://github.com/ignis-pwa/webpack-exercise)
 
 ### 学习 webpack 的快速练习
 

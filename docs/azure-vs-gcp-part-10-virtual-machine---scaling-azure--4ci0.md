@@ -63,16 +63,16 @@ Azure 为每一个都提供了解决方案。
 2.点击“连接”,远程桌面进入镜像。
 
 3.一旦登录，按 Windows 键+ "R "并进入 Sysprep，然后运行它。
-[![seed](../Images/8251d6f122203e6955a6276a5b9a1130.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--NurZsf9y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/huzusdsz30g21z9cpirj.PNG)
+[![seed](img/8251d6f122203e6955a6276a5b9a1130.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--NurZsf9y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/huzusdsz30g21z9cpirj.PNG)
 
 4.使用以下设置对其进行概括。它将关闭操作系统。
-[![seed](../Images/6c053c3598dac003d869aeba226870d0.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--sLL1X7TO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ysuydh8kc9ouumpk7807.PNG)
+[![seed](img/6c053c3598dac003d869aeba226870d0.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--sLL1X7TO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ysuydh8kc9ouumpk7807.PNG)
 
 5.回到 Azure Portal，等待虚拟机关闭。然后点击“捕获”。
-[![seed](../Images/d12108f6c3ce08549021464f4d7588b8.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--le2HG-P4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/maeqssc66hgetemhu8j1.PNG)
+[![seed](img/d12108f6c3ce08549021464f4d7588b8.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--le2HG-P4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/maeqssc66hgetemhu8j1.PNG)
 
 6.输入姓名。我指定了新的资源组。如果您想删除捕获的图像，您可以选择“自动删除...”复选框。
-[![seed](../Images/87b9f7b2c526ee257fd51a800cf00c40.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--iflmspsi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jbns5wn0d6y57fzesqzh.PNG)
+[![seed](img/87b9f7b2c526ee257fd51a800cf00c40.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--iflmspsi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jbns5wn0d6y57fzesqzh.PNG)
 
 种子图像现在准备好了。
 
@@ -81,52 +81,52 @@ Azure 为每一个都提供了解决方案。
 我先试试可用性设置。
 
 1.转到新创建的资源组，单击添加并搜索可用性集。
-[![as](../Images/99ca622be9a77e0b67da332edad37fdd.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--_wx4oaB8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/92q68rv1r158m0phhrje.PNG)
+[![as](img/99ca622be9a77e0b67da332edad37fdd.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--_wx4oaB8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/92q68rv1r158m0phhrje.PNG)
 
 2.输入名称并设置值。我对域使用默认值。点击“创建”。
-[![as](../Images/8d128c152e73826445443ab8676b4fbe.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--LPh8gK7v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lv0uiygpz4u20geqdbdg.PNG)
+[![as](img/8d128c152e73826445443ab8676b4fbe.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--LPh8gK7v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lv0uiygpz4u20geqdbdg.PNG)
 
 3.转到种子映像，然后单击“创建虚拟机”。
-[![as](../Images/7236e34d70e3998f84781e918257a345.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--ilesU7Or--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fsuego3qb8j7vieievv8.PNG)
+[![as](img/7236e34d70e3998f84781e918257a345.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--ilesU7Or--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fsuego3qb8j7vieievv8.PNG)
 
 4.输入配置值。
-[![as](../Images/77489175f1261d5f75dc354288519fe7.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--pRomf7v2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pjah2s3u4z46up6qm4gr.PNG)
+[![as](img/77489175f1261d5f75dc354288519fe7.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--pRomf7v2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pjah2s3u4z46up6qm4gr.PNG)
 
 5.在下一步中选择尺寸。我选择“B1MS”进行测试。
 
 6.选择创建的“可用性测试”并根据需要更改设置。所有设置都来自种子图像。我只是用了默认设置。
-[![as](../Images/70e3207c8e52eae8354e6d2601c4cc41.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--t_1uCaSm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/je1ndkuj47lu2vk0qd4w.PNG)
+[![as](img/70e3207c8e52eae8354e6d2601c4cc41.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--t_1uCaSm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/je1ndkuj47lu2vk0qd4w.PNG)
 
 7.单击“确定”创建图像。
 
 8.重复上述步骤，在同一可用性集中创建第二个虚拟机。结果，我创造了许多资源。这是因为种子图像有它们。
-[![as](../Images/a8d6b5d333f36e95e4c096c8d3a2161e.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--uwtNL03k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4yxbl8lolrls2i8kpvou.PNG)
+[![as](img/a8d6b5d333f36e95e4c096c8d3a2161e.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--uwtNL03k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4yxbl8lolrls2i8kpvou.PNG)
 
 9.转到每个虚拟机并确认公共 IP 地址。逐个访问它们，查看应用程序是否按预期运行。
-[![as](../Images/689fc3f62e83220946de24ae76f1f8e3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--n6ldYEhQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bk86opkah429q31iu54l.PNG) 
-[![as](../Images/a8247c57248e63b591177f25bfbd5ab9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--s2KccVt4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a4xojz6bg24oztarwlfv.PNG)
+[![as](img/689fc3f62e83220946de24ae76f1f8e3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--n6ldYEhQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bk86opkah429q31iu54l.PNG) 
+[![as](img/a8247c57248e63b591177f25bfbd5ab9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--s2KccVt4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a4xojz6bg24oztarwlfv.PNG)
 
 10.现在，我有两个虚拟机正在运行。接下来，创建负载平衡器。在资源组中，单击添加并找到它。
-[![lb](../Images/52e8ae8669b8a03769bd902ce8d2c0e4.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--WXP0LQlo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1vv6ss1xbh6f5cvm8iuf.PNG)
+[![lb](img/52e8ae8669b8a03769bd902ce8d2c0e4.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--WXP0LQlo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1vv6ss1xbh6f5cvm8iuf.PNG)
 
 11.设置参数。我为这个测试设置了公共动态 IP 地址。
-[![lb](../Images/c49e77bee0918fe9f22359f7275b8e35.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--LxeLUzdI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ftphm1w26qzfa4gs6grg.PNG)
+[![lb](img/c49e77bee0918fe9f22359f7275b8e35.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--LxeLUzdI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ftphm1w26qzfa4gs6grg.PNG)
 
 12.创建负载平衡器后，转到负载平衡器，选择“后端池”，然后单击“添加”。
-[![lb](../Images/fc7039a3e68a4d8c4042c6e85174d5ed.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--nkcYqPaG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s7vutddru87zzcpd19gm.PNG)
+[![lb](img/fc7039a3e68a4d8c4042c6e85174d5ed.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--nkcYqPaG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s7vutddru87zzcpd19gm.PNG)
 
 13.选择“可用性集”进行关联，并选择 AG。现在，您可以在可用性集中添加虚拟机。添加所有虚拟机，然后单击“确定”进行保存。
-[![lb](../Images/fe7f7c63c92f792916f4eb2d6ed0d19c.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZkKQI72I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z5rapaodv8omln8d13fu.PNG)
+[![lb](img/fe7f7c63c92f792916f4eb2d6ed0d19c.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZkKQI72I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z5rapaodv8omln8d13fu.PNG)
 
 14.接下来，创建用于运行状况检查的探测器。选择“健康探测器”并单击“添加”，然后创建一个探测器。在本例中，我创建了端口 80 探测器。
-[![lb](../Images/c7f122dc5092c131133c677a333bc39f.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--2wdiAxDD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f3fr7y3smec8zvqtxi21.PNG)
+[![lb](img/c7f122dc5092c131133c677a333bc39f.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--2wdiAxDD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f3fr7y3smec8zvqtxi21.PNG)
 
 15.最后，创建一个规则。选择“负载平衡器规则”并单击“添加”，然后创建一个规则。指定刚刚为规则创建的探测器。
-[![lb](../Images/6d00d0883641ce0e1718f054c71edc13.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--vCmfxma3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/elulcs3hp8meb7gwvmjg.PNG)
+[![lb](img/6d00d0883641ce0e1718f054c71edc13.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--vCmfxma3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/elulcs3hp8meb7gwvmjg.PNG)
 
 16.检查概述以确认公共 IP 地址。探测器和规则也是链接的。通过浏览器访问公共 IP 以确认您可以访问应用程序。
-[![lb](../Images/82d1688f06ba664cac78f36a563624b1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VgS15N2m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ssko2w778awprw7yml2k.PNG) 
-[![lb](../Images/2ff0fa3f3269f0a65c4e11c27829f29f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PNmxqMYw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hxbn5o39cwj2c9glt1ix.PNG)
+[![lb](img/82d1688f06ba664cac78f36a563624b1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VgS15N2m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ssko2w778awprw7yml2k.PNG) 
+[![lb](img/2ff0fa3f3269f0a65c4e11c27829f29f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PNmxqMYw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hxbn5o39cwj2c9glt1ix.PNG)
 
 17.我现在不需要每个虚拟机的公共 IP。如果你愿意，你可以删除它们。
 
@@ -135,7 +135,7 @@ Azure 为每一个都提供了解决方案。
 接下来我尝试音阶组合。
 
 1.返回到资源组并单击“添加”，然后找到“模板部署”并单击“创建”。我需要用它来部署自定义图像缩放集。
-[![ss](../Images/fc3329318a6b99a50a2c63d7fd4e8257.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--0a1vBHRx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nxt50ij6nlkvazb82ut6.PNG)
+[![ss](img/fc3329318a6b99a50a2c63d7fd4e8257.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--0a1vBHRx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nxt50ij6nlkvazb82ut6.PNG)
 
 2.在编辑器链接中点击“构建您自己的模板”。这里你需要输入一个模板。下面的代码是创建的最小模板:
 
@@ -154,35 +154,35 @@ Enter fullscreen mode Exit fullscreen mode
 3.保存模板并进行部署。填写参数用户名和密码。
 
 4.等到部署完成。部署完成后，转到资源。
-[![ss](../Images/68c22371f99ab6632db555a8452198fb.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--miVNHFC0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mz7bswje98owqfba91gu.PNG)
+[![ss](img/68c22371f99ab6632db555a8452198fb.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--miVNHFC0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mz7bswje98owqfba91gu.PNG)
 
 5.随着扩展集的部署，我创建了新的负载平衡器。
-[![ss](../Images/05c567b065b5bc820c8dcab58386c42c.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--w6VH8Xs9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3u9ckvuvbf2j0nwmctl8.PNG)
+[![ss](img/05c567b065b5bc820c8dcab58386c42c.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--w6VH8Xs9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3u9ckvuvbf2j0nwmctl8.PNG)
 
 6.创建负载平衡器后，转到后端池并单击“添加”。
-[![ss](../Images/9b18b7da9cdab0a6c9bc26b42669f264.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--x34LSHM8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9o8tdxlc58vqngtmr2fp.PNG)
+[![ss](img/9b18b7da9cdab0a6c9bc26b42669f264.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--x34LSHM8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9o8tdxlc58vqngtmr2fp.PNG)
 
 7.选择“虚拟机规模集”作为关联，然后选择 myScaleSet。
-[![ss](../Images/c75b0238bd8a8c5994ddfe12c7944ec9.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--XXhZGxIR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8xmpdky4qjdexdevpl98.PNG)
+[![ss](img/c75b0238bd8a8c5994ddfe12c7944ec9.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--XXhZGxIR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8xmpdky4qjdexdevpl98.PNG)
 
 8.像以前一样创建一个探测器和一个规则。
-[![ss](../Images/09474a6c5350211baf8f3966f1edb8b1.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--r1VkRMZp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yx5o3zp1gnqfxuzfsri7.PNG)
+[![ss](img/09474a6c5350211baf8f3966f1edb8b1.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--r1VkRMZp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yx5o3zp1gnqfxuzfsri7.PNG)
 
 9.通过负载平衡器的公共 IP 访问应用程序，以确认应用程序已启动并正在运行。
-[![ss](../Images/349bd7ccdb9684cfb86fe59244d928af.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--URa5HplE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qsbjfbbi231b87rgv1rb.PNG)
+[![ss](img/349bd7ccdb9684cfb86fe59244d928af.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--URa5HplE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qsbjfbbi231b87rgv1rb.PNG)
 
 ### 秤台自动秤台设置
 
 我之所以要使用比例集，是为了使用自动缩放。虽然我可以在上面的模板中设置它，但是我没有。因此，我需要在这里手动配置它。
 
 1.转到“缩放集”资源，选择“缩放”。
-[![as](../Images/41bcca436ae0ab7ab0d065659ab65e3b.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--F3QKadEk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y94ro63m4mjorey5mcqc.PNG)
+[![as](img/41bcca436ae0ab7ab0d065659ab65e3b.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--F3QKadEk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y94ro63m4mjorey5mcqc.PNG)
 
 2.点按“启用自动缩放”，然后点按“添加规则”。
-[![as](../Images/d93b185d87c7a73c65b6663e35f97e97.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--xgBqAVMy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vo5rn94wd3faluju8vcu.PNG)
+[![as](img/d93b185d87c7a73c65b6663e35f97e97.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--xgBqAVMy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vo5rn94wd3faluju8vcu.PNG)
 
 3.添加新规则。我指定在 5 分钟内使用 70%的 CPU 来增加一个实例。
-[![as](../Images/682df745e95f7a1274d6484b9faa1d7d.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--OMn6liVZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tlskcosshgc106izxhkf.PNG)
+[![as](img/682df745e95f7a1274d6484b9faa1d7d.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--OMn6liVZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tlskcosshgc106izxhkf.PNG)
 
 4.然后输入“自动缩放设置名称”并保存。
 

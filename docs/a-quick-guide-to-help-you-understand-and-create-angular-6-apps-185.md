@@ -47,7 +47,7 @@ npm start
 
 该应用程序将如下所示:
 
-[![Default Result](../Images/5d752c95be984209951da636b20eaf54.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tkVmqsKb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/odeq6hw7jt910mq7neiu.jpg)
+[![Default Result](img/5d752c95be984209951da636b20eaf54.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tkVmqsKb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/odeq6hw7jt910mq7neiu.jpg)
 
 ## 解释了基本文件夹结构
 
@@ -109,7 +109,7 @@ ng generate service data
 
 该应用程序在移动屏幕上会是这样的:
 
-[![Application Result](../Images/1e6de8f181fa5cf49a1f2888fa736617.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zzwbxMdu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v95srzf5vyncscg3jpos.jpg)
+[![Application Result](img/1e6de8f181fa5cf49a1f2888fa736617.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zzwbxMdu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v95srzf5vyncscg3jpos.jpg)
 
 ## 这个应用程序是做什么的？
 

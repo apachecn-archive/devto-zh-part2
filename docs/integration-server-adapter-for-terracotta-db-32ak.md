@@ -6,7 +6,7 @@
 
 【2017 年 10 月，Software AG 推出了新的大数据产品 Terracotta DB。Terracotta DB 是一个用于操作和分析工作的统一数据平台。它有一个改进的 Ehcache API 和一个全新的用于内存存储和分析的商店 API。Terracotta DB 将 NoSQL 数据存储的强大和便利与 Software AG 速度最快的内存数据网格技术的性能结合在一起。与此同时，webMethods 适配器团队为 Terracotta DB 的 Store API 发布了一个新的适配器，提供了从 webMethods Integration Server (IS)读取、写入和查询 Terracotta DB 的简单拖放、结构化访问。凭借灵活的数据模型、内存索引和专门构建的快速可重启性，对 Terracotta DB 内存存储的访问是对 is 开发人员工具箱的一个强大补充。
 
-| 2018 年第二期 | [![](../Images/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue2/SAG_Integration_Server_Adapter_TECHniques_Apr18_WEB.pdf) |
+| 2018 年第二期 | [![](img/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue2/SAG_Integration_Server_Adapter_TECHniques_Apr18_WEB.pdf) |
 | --- | --- |
 
 ## Terracotta DB 适配器:通向 webMethods 世界的桥梁
@@ -17,7 +17,7 @@ webMethods 开发人员习惯于使用流逻辑快速开发集成应用程序。
 
 适配器连接是由 IS 管理的基于 ART 的标准连接。用户在适配器的管理页面中配置 Terracotta DB URI。IS 提供自动连接池。适配器客户端旨在提供健壮且可调的重新连接行为。
 
-[![](../Images/fe08f921c0ddf01cb5867f3f217e8acb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B-cWMKA2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/1.AdapterConnectionArchitecture.jpg/726874bd-52b2-415d-b235-2bc2443099fd%3Ft%3D1523443154948)
+[![](img/fe08f921c0ddf01cb5867f3f217e8acb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B-cWMKA2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/1.AdapterConnectionArchitecture.jpg/726874bd-52b2-415d-b235-2bc2443099fd%3Ft%3D1523443154948)
 
 *图 1:适配器连接架构*
 
@@ -27,7 +27,7 @@ webMethods 开发人员习惯于使用流逻辑快速开发集成应用程序。
 
 SQL 数据库提供了一种高度结构化的数据交互方式，以及对静态数据模型进行自省的能力。在 Terracotta DB 中，数据被组织成称为数据集的灵活集合。没有预定义的架构或表类型；每一行单元格或记录可以有不同的数据，但属于同一个数据集。
 
-[![](../Images/42969050d0d8b132c9876a9c178195d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CwPkkOpW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/2.PersonDatasetExample.jpg/7a7c3ed6-0178-4aac-afb3-5e6eea0717d8%3Ft%3D1523443159595)
+[![](img/42969050d0d8b132c9876a9c178195d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CwPkkOpW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/2.PersonDatasetExample.jpg/7a7c3ed6-0178-4aac-afb3-5e6eea0717d8%3Ft%3D1523443159595)
 
 *图 2:人员数据集示例*
 
@@ -45,7 +45,7 @@ Terracotta DB 适配器提供了一组丰富的机制，用于与动态的 NoSQL
 
 用户可以在 Terracotta DB 适配器中创建插入、更新、查询和删除服务。更新服务的一个独特功能是“向上插入”的能力因为所有行都不相同，如果更新操作应用于多行，则该行中可能不存在该单元格。“upsert”操作允许创建新小区或更新现有小区。类似地,“删除”功能可以从一组行中删除一个单元定义，当且仅当该单元存在于该行中。
 
-[![](../Images/2b6f2d3f0dc0e954c034ebc77cb2c5f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cDAOP9Vh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/3.table.jpg/e65a645a-a4a9-4ae1-84d7-6b18a48e5de5%3Ft%3D1523443165266)
+[![](img/2b6f2d3f0dc0e954c034ebc77cb2c5f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cDAOP9Vh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/3.table.jpg/e65a645a-a4a9-4ae1-84d7-6b18a48e5de5%3Ft%3D1523443165266)
 
 适配器的查询服务查询给定的键。用户可以使用标准的关系运算符(=，<>)基于单元格名称过滤查询结果，然后使用操作数(and，OR)连接这些过滤参数以形成更复杂的查询。
 

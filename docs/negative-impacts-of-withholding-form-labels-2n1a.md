@@ -14,7 +14,7 @@
 
 我想象如果我对那个候选人很有热情，我会尝试，但是考虑到这个网站让它捐赠我自己的血汗钱是多么困难，我可能会在那一点上放弃。我怀疑我是唯一会放弃的人，至少研究表明是这样的。
 
-[![Gif of woman who is covering her face in frustration](../Images/8a3ab2e5af1adacc72c81c42785d47c9.png)T2】](https://i.giphy.com/media/ql4LidslabKpi/giphy.gif)
+[![Gif of woman who is covering her face in frustration](img/8a3ab2e5af1adacc72c81c42785d47c9.png)T2】](https://i.giphy.com/media/ql4LidslabKpi/giphy.gif)
 
 有重要的研究表明，让另一个用户感到困惑会导致他们有更高的反弹率。我最近在读唐纳德·米勒的书《建立一个故事品牌》,昨天我读到了混淆用户、制造噪音和信息不清晰是如何导致用户转向信息更清晰的品牌竞争对手的。从他的描述来看，在混乱中行走所需的能量会导致卡路里的燃烧，我们不想浪费宝贵的卡路里。他描述的方式是关于生存和繁荣，你绝对应该拿起他的书自己读一读。
 
@@ -26,7 +26,7 @@
 
 虽然我相信创建易访问表单的原因是你不想给你的用户创造一个令人沮丧的体验，但我知道告诉你的老板或客户“嘿，我们只是需要变得更好、更有同情心”是没有说服力的但是损失的美元可能会引起一些人的怀疑。
 
-[![Money on a cutting board being cut up, representing the metaphor of wasting money](../Images/89321c338d841ef2cb937a3168e75a82.png)T2】](https://i.giphy.com/media/3ohze3cqkv058SUy2s/giphy.gif)
+[![Money on a cutting board being cut up, representing the metaphor of wasting money](img/89321c338d841ef2cb937a3168e75a82.png)T2】](https://i.giphy.com/media/3ohze3cqkv058SUy2s/giphy.gif)
 
 让我们开始思考我们的行动号召，以及这些行动中有多少是形式。简讯注册、调查、信用卡信息——所有这些表格最终都会影响我们的底线。如果我们不解决这些用户的问题，可能会产生巨大的成本。这不是“边缘案例”(此处插入翻白眼表情符号)。这实际上是一项昂贵的努力。
 
@@ -36,7 +36,7 @@
 
 我经常看到设计师和开发人员将占位符属性作为标签的替代品。**错**的方式见下面截图和标注。
 
-[![Inaccessible form with no form label using the text inside the input to label it](../Images/7fbccd4f52f2b4624598d52a499b9528.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--i0rw9jDn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.a11ywithlindsey.com/static/search-without-label-1d3cd0625ebbf2d4387f3245bd5960a6-6c8db.png)T3】
+[![Inaccessible form with no form label using the text inside the input to label it](img/7fbccd4f52f2b4624598d52a499b9528.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--i0rw9jDn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.a11ywithlindsey.com/static/search-without-label-1d3cd0625ebbf2d4387f3245bd5960a6-6c8db.png)T3】
 
 ```
 <input placeholder="Search" type="text">
@@ -49,7 +49,7 @@
 
 为了将标签与字段相关联，您必须在输入上有一个`id`属性，并在标签上使用该值`for`作为 for 属性。见下文。
 
-[![search form with label](../Images/3a3bab691c6aa14921a9e05018c17f8b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--a9nTVtrp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.a11ywithlindsey.com/static/search-with-label-0e2c2bea2184e151c77875ae7820b932-71b8d.png)T3】
+[![search form with label](img/3a3bab691c6aa14921a9e05018c17f8b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--a9nTVtrp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.a11ywithlindsey.com/static/search-with-label-0e2c2bea2184e151c77875ae7820b932-71b8d.png)T3】
 
 ```
 <label for="search-field">Search:</label>

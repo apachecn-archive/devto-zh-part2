@@ -6,4 +6,4 @@
 
 但是你知道这个窍门吗？
 
-[![](../Images/5bf949775762ffedc9a27488060fc392.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--njWD0B72--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v2o5a7wss21i0eva63uw.jpg)
+[![](img/5bf949775762ffedc9a27488060fc392.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--njWD0B72--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v2o5a7wss21i0eva63uw.jpg)

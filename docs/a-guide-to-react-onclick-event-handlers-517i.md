@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/a-guide-to-react-onclick-event-handlers-517i>
 
-[![](../Images/5a3e07e3e03bd0435216f820c9f36023.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lBg1IqRn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/700/1%2Ac1duI8rwtQygnJem9RyYUg.png)
+[![](img/5a3e07e3e03bd0435216f820c9f36023.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lBg1IqRn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/700/1%2Ac1duI8rwtQygnJem9RyYUg.png)
 
 事件处理程序用于确定每当触发事件时要采取的操作。这可能是鼠标点击或文本输入的改变。
 
@@ -14,7 +14,7 @@ React 实现了一个[合成事件](https://reactjs.org/docs/events.html)系统�
 
 它通过自动使用事件委托来实现高性能。实际上，React 并不将事件处理程序附加到节点本身。相反，单个事件侦听器附加到文档的根；当事件被触发时，React 将其映射到适当的组件元素。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/?cid=banner_a)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/?cid=banner_a)
 
 ### **听事件**
 
@@ -106,7 +106,7 @@ this.changeText = this.changeText.bind()
 
 ### Plug: [LogRocket](http://logrocket.com) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

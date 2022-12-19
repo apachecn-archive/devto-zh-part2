@@ -8,7 +8,7 @@
 
 访问，
 
-[![ダウンロードページ](../Images/224c5c548c2f544b75abc4fa13e792b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fRU_Q0K0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ct8ogaw8n0nra454akh0.png)
+[![ダウンロードページ](img/224c5c548c2f544b75abc4fa13e792b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fRU_Q0K0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ct8ogaw8n0nra454akh0.png)
 
 指定与要下载的电脑操作系统相同类型的操作系统和
 PostgreSQL 的版本，然后单击“DOWNLOAD NOW”按钮。
@@ -20,17 +20,17 @@ PostgreSQL 的版本，然后单击“DOWNLOAD NOW”按钮。
 
 安装程序已启动，请直接按“Next”。
 
-[![インストーラ](../Images/aa581bab8ba1688e19e03f3af3131377.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9N330Fyd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7c19t0yxwkfn1o4kdb40.png)
+[![インストーラ](img/aa581bab8ba1688e19e03f3af3131377.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9N330Fyd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7c19t0yxwkfn1o4kdb40.png)
 
 系统会询问安装位置。
 
-[![デフォルトの場所でOK](../Images/04e051d115f56bd6779c35a4a9c8d274.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JrhCa149--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/72gomwrk8zf0gfjrdy8m.png)
+[![デフォルトの場所でOK](img/04e051d115f56bd6779c35a4a9c8d274.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JrhCa149--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/72gomwrk8zf0gfjrdy8m.png)
 
 在默认位置没有问题，所以按“next”
 
 有选择下载对象的画面。
 
-[![コンポーネント選択](../Images/75ef6b8d0c0e223bf231e30e52574009.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PksCVSSx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ktqnts72wq1p6405r983.png)
+[![コンポーネント選択](img/75ef6b8d0c0e223bf231e30e52574009.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PksCVSSx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ktqnts72wq1p6405r983.png)
 
 | 工具 | meaning |
 | --- | --- |
@@ -43,13 +43,13 @@ PostgreSQL 的版本，然后单击“DOWNLOAD NOW”按钮。
 
 会被询问保存数据的位置
 
-[![データ](../Images/e15509956a67529c30c6043979f780f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NMxc83z0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sqy7tev45vqbzzvregwl.png)
+[![データ](img/e15509956a67529c30c6043979f780f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NMxc83z0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sqy7tev45vqbzzvregwl.png)
 
 没有必要特别改变，所以直接按“next”
 
 在下一个画面中设定管理用户(用户名: postgres )的密码。
 
-[![pass](../Images/81a12afc29e953d02f129f5db945258d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tHZNge4F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ixraigcyvv7mzrqq9gzn.png)
+[![pass](img/81a12afc29e953d02f129f5db945258d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tHZNge4F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ixraigcyvv7mzrqq9gzn.png)
 
 密码请输入别人不知道的东西，还有不要忘记的东西(重要)。
 
@@ -57,33 +57,33 @@ PostgreSQL 的版本，然后单击“DOWNLOAD NOW”按钮。
 
 接着出现了设定 postgresql 端口号的画面。
 
-[![port](../Images/a77b825be6140a6c1c253cf59f8c7fe7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FqlltdtG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e0jvn05mrtkcoovjzfhl.png)
+[![port](img/a77b825be6140a6c1c253cf59f8c7fe7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FqlltdtG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e0jvn05mrtkcoovjzfhl.png)
 
 我认为默认端口号没有问题，但是已经使用此端口的人请将
 端口号适当改为 1024~65536 的范围内的值。
 
 然后设置创建 database cluster (现在不需要知道)时的区域设置。
 
-[![locale](../Images/400d78d4f94a28b3c52df4dc4de44d44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GFHskZo2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a7jnuwf89gnecv1sx0q1.png)
+[![locale](img/400d78d4f94a28b3c52df4dc4de44d44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GFHskZo2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a7jnuwf89gnecv1sx0q1.png)
 
 在正式使用时，可以在创建 database cluster 和 db 时设置语言环境，所以
 现在不要烦恼，选择[Default locale]。
 
 可以更新安装内容。
 
-[![おさらい](../Images/02c7a88b0e7000906589e66b65eff29f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2FccZR8r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x26skqfsa5vj5bky2814.png)
+[![おさらい](img/02c7a88b0e7000906589e66b65eff29f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2FccZR8r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x26skqfsa5vj5bky2814.png)
 
 就这样按“Next”吧
 
 显示安装准备就绪的画面。
 
-[![ととのった](../Images/b5e2a0edc534a7ebcfd0c4a875efd09a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yWsiihfM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fesmcexazh9o366m43tk.png)
+[![ととのった](img/b5e2a0edc534a7ebcfd0c4a875efd09a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yWsiihfM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fesmcexazh9o366m43tk.png)
 
 按“Next”按钮，安装开始
 
 PostgreSQL 下载完成。
 
-[![](../Images/97076074f80ff1f238d066a76baf21b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--84TIzg8M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wbicbf4ny8giwrwq4uru.png)
+[![](img/97076074f80ff1f238d066a76baf21b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--84TIzg8M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wbicbf4ny8giwrwq4uru.png)
 
 虽然会被催促使用 step builder 进行追加安装，但是
 因为现在不需要，所以取消选中。

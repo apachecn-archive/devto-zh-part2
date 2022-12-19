@@ -4,7 +4,7 @@
 
 给个背景。我们使用的是旧版本的 VideoJS(5 . 4 . 4)，它不会阻止视频在原生 iOS 视频播放器中播放，如下图所示。所以我们对播放视频没有任何控制权。
 
-[![iOS video player](../Images/df48051c892cb0cdb5b3dfa0a87f359f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LxJg7O02--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://cdn.iphonehacks.com/wp-content/uploads/2017/06/iOS-10-vs-iOS-11-Video-player.jpeg)
+[![iOS video player](img/df48051c892cb0cdb5b3dfa0a87f359f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LxJg7O02--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://cdn.iphonehacks.com/wp-content/uploads/2017/06/iOS-10-vs-iOS-11-Video-player.jpeg)
 
 图片提供-[http://www.iphonehacks.com](http://www.iphonehacks.com)
 

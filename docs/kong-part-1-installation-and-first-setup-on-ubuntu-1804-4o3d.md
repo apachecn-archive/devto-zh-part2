@@ -16,7 +16,7 @@ API 网关可以限制速率，用密钥和令牌保护 API，记录日志等等
 
 选择一个适用的并下载。
 
-[![](../Images/836daa0e228d30b09e683f7b190381ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V1z0y1Uq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/zrmOiSZ.png%3Fraw%3Dtrue)
+[![](img/836daa0e228d30b09e683f7b190381ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V1z0y1Uq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/zrmOiSZ.png%3Fraw%3Dtrue)
 
 *   安装孔
 
@@ -42,7 +42,7 @@ API 网关可以限制速率，用密钥和令牌保护 API，记录日志等等
 
 `CREATE USER kong; CREATE DATABASE kong OWNER kong`
 
-[![](../Images/68518e17c8827dec7c2c29263bb4e4fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OM95yH8q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/e3AsUBB.png%3Fraw%3Dtrue)
+[![](img/68518e17c8827dec7c2c29263bb4e4fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OM95yH8q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/e3AsUBB.png%3Fraw%3Dtrue)
 
 *   更新`kong.conf`
 
@@ -58,7 +58,7 @@ API 网关可以限制速率，用密钥和令牌保护 API，记录日志等等
 
 `$ curl -i http://localhost:8001`
 
-[![Imgur](../Images/baab47d3f37bdd7a66621ac4e7ed9ce1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qE3-9l4q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/FbYXgoW.png%3Fraw%3Dtrue)
+[![Imgur](img/baab47d3f37bdd7a66621ac4e7ed9ce1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qE3-9l4q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/FbYXgoW.png%3Fraw%3Dtrue)
 
 ## 奖金
 

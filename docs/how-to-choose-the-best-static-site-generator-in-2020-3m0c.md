@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/couellet/how-to-choose-the-best-static-site-generator-in-2020-3m0c>
 
-[![Picking the Best Static Site Generator for Your Next Project](../Images/04b0de0024e198ad1e9d48a6e4d90a55.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2Fuaza7i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/204774/best-static-site-generator-2020.png)
+[![Picking the Best Static Site Generator for Your Next Project](img/04b0de0024e198ad1e9d48a6e4d90a55.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2Fuaza7i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/204774/best-static-site-generator-2020.png)
 
 所以。
 
@@ -14,7 +14,7 @@
 
 我无法想象对于一个刚刚学习 JAMstack 的开发人员来说是什么感觉。
 
-[![Like landing in freakin’ wonderland](../Images/7fb24e19b9a1fb42c2dcc044b175756e.png)T2】](https://i.giphy.com/media/ACLCA6bvwBEvC/giphy.gif)
+[![Like landing in freakin’ wonderland](img/7fb24e19b9a1fb42c2dcc044b175756e.png)T2】](https://i.giphy.com/media/ACLCA6bvwBEvC/giphy.gif)
 
 就像降落在奇异的仙境
 

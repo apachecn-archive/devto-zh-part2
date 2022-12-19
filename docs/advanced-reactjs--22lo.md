@@ -12,7 +12,7 @@
 我们的最终输出应该像下面的图像。
 
 **React-手风琴**
-[![](../Images/5d7c985f0d5bc6ae23e1ff0c28e41f7c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AX9xVSo---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/saigowthamr/React-Accordion/master/screenshot.gif)
+[![](img/5d7c985f0d5bc6ae23e1ff0c28e41f7c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AX9xVSo---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/saigowthamr/React-Accordion/master/screenshot.gif)
 
 ## 手风琴组件代码
 
@@ -136,7 +136,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 其他示例
 
-[![](../Images/9743ad3e76b5d4b00c95d6a4330b96b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gGXfmzx0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fan2xwgb9e1xpyk74laq.gif)
+[![](img/9743ad3e76b5d4b00c95d6a4330b96b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gGXfmzx0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fan2xwgb9e1xpyk74laq.gif)
 
 你看到了吗，文本或标题组件中没有状态。
 

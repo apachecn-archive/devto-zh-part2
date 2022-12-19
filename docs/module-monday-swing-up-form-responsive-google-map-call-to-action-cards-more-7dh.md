@@ -14,31 +14,31 @@ Mods 是功能强大、随时可用的网络模块，适用于任何平台上的
 
 从浮动动作按钮(FAB)向上摆动的表单。
 [查看 mod](https://anymod.com/mod/rdokl?v=20)
- [![](../Images/df88d6492cd08bfb2bead4a928a94984.png)](https://anymod.com/mod/rdokl?v=20) 
+ [![](img/df88d6492cd08bfb2bead4a928a94984.png)](https://anymod.com/mod/rdokl?v=20) 
 
 ### 反应灵敏的谷歌地图
 
 添加您的 API 键，并为您的站点获得一个响应地图。
 [查看 mod](https://anymod.com/mod/moamb?v=20)
- [![](../Images/4e6d5c08a01880ffd17fccb4d1b4f517.png)](https://anymod.com/mod/moamb?v=20) 
+ [![](img/4e6d5c08a01880ffd17fccb4d1b4f517.png)](https://anymod.com/mod/moamb?v=20) 
 
 ### 报价块
 
 用于向页面添加报价的可编辑块。
 [查看 mod](https://anymod.com/mod/anrlm?v=20)
- [![](../Images/5c7be379f199f2160614a6742ebaf247.png)](https://anymod.com/mod/anrlm?v=20) 
+ [![](img/5c7be379f199f2160614a6742ebaf247.png)](https://anymod.com/mod/anrlm?v=20) 
 
 ### 脸书页
 
 在任意位置添加您的脸书页面并自定义其选项。
 [查看 mod](https://anymod.com/mod/dbdob?v=20)
- [![](../Images/665d6918628794125a7601e04db2170e.png)](https://anymod.com/mod/dbdob?v=20) 
+ [![](img/665d6918628794125a7601e04db2170e.png)](https://anymod.com/mod/dbdob?v=20) 
 
 ### 行动号召卡
 
 添加、删除和编辑卡片，以提高用户参与度。
 [查看 mod](https://anymod.com/mod/moadk?v=20)
- [![](../Images/9471a380f986dc32f03708aef10cfb93.png)](https://anymod.com/mod/moadk?v=20) 
+ [![](img/9471a380f986dc32f03708aef10cfb93.png)](https://anymod.com/mod/moadk?v=20) 
 
 ## 投稿
 

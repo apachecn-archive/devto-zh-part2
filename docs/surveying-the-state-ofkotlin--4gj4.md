@@ -21,7 +21,7 @@ Kotlin 由 JetBrains 于 2011 年创建，用于他们的 ide 和工具中。由
 
 # 变好了！
 
-[![Win a trip to KotlinConf](../Images/5b9a0a12fb6adebe753a7f60f4f6775b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hPnTR_QT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o02chxoo8fcde3shyd66.jpg)
+[![Win a trip to KotlinConf](img/5b9a0a12fb6adebe753a7f60f4f6775b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hPnTR_QT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o02chxoo8fcde3shyd66.jpg)
 
 我们还将于 2018 年 10 月 3 日至 5 日在阿姆斯特丹为调查参与者举办抽奖活动，由 JetBrains(语言背后的大脑)组织前往 [KotlinConf](https://kotlinconf.com/) 。
 

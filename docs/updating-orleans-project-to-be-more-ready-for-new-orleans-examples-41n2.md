@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kritner/updating-orleans-project-to-be-more-ready-for-new-orleans-examples-41n2>
 
-[![](../Images/9f56805b1e80a60596a0c264454272c7.png)T2】](https://cdn-images-1.medium.com/max/1024/1*cP_6oahXjBJX4cwiohTMjQ.png)
+[![](img/9f56805b1e80a60596a0c264454272c7.png)T2】](https://cdn-images-1.medium.com/max/1024/1*cP_6oahXjBJX4cwiohTMjQ.png)
 
 请注意，这不是一篇奥尔良的帖子，不完全是——它只是我想在继续演示更多奥尔良功能之前，在我的奥尔良项目上增强的一些东西！(还有，我需要学习更多的奥尔良特色来演示！)
 
@@ -30,7 +30,7 @@ using (var client = await StartClientWithRetries())
 
 ### 多态性
 
-[![](../Images/87bb9ae6c2f4fd709f6a8fe88c42bb12.png)](https://cdn-images-1.medium.com/max/870/0*xx-wMUksAnr6sNa1) 
+[![](img/87bb9ae6c2f4fd709f6a8fe88c42bb12.png)](https://cdn-images-1.medium.com/max/870/0*xx-wMUksAnr6sNa1) 
 
 <figcaption>这是一个变形的[魔兽世界](https://worldofwarcraft.com/en-us/)玩家！</figcaption>
 
@@ -409,25 +409,25 @@ private static async Task<int> RunMainAsync()
 
 应用程序启动:
 
-[![](../Images/5b98f1dff947023ba0e25d5ccd718781.png)](https://cdn-images-1.medium.com/max/1024/1*D1OyfPOsS4ru_lZhs0GbiA.png) 
+[![](img/5b98f1dff947023ba0e25d5ccd718781.png)](https://cdn-images-1.medium.com/max/1024/1*D1OyfPOsS4ru_lZhs0GbiA.png) 
 
 <figcaption>申请开始</figcaption>
 
 选择“Hello World”示例(选项 0):
 
-[![](../Images/0c19a2d151b4004fa197c6a6efc183f4.png)](https://cdn-images-1.medium.com/max/1024/1*q5tLXqaU9-JqY3R0nEnizg.png) 
+[![](img/0c19a2d151b4004fa197c6a6efc183f4.png)](https://cdn-images-1.medium.com/max/1024/1*q5tLXqaU9-JqY3R0nEnizg.png) 
 
 <figcaption>选择 Hello World 示例</figcaption>
 
 选择有状态颗粒的例子(选项 2):
 
-[![](../Images/bdd583c53dc332cb9f3aa4d666130c7a.png)](https://cdn-images-1.medium.com/max/1024/1*7gcHpRQg3u-jBB1zoGgdlA.png) 
+[![](img/bdd583c53dc332cb9f3aa4d666130c7a.png)](https://cdn-images-1.medium.com/max/1024/1*7gcHpRQg3u-jBB1zoGgdlA.png) 
 
 <figcaption>选择有状态的谷物例子</figcaption>
 
 退出(选择 1):
 
-[![](../Images/6f06b1d5dea3298beb49632b88a9265a.png)](https://cdn-images-1.medium.com/max/1024/1*S_9jcf1zlFPndl_oNhB_zw.png) 
+[![](img/6f06b1d5dea3298beb49632b88a9265a.png)](https://cdn-images-1.medium.com/max/1024/1*S_9jcf1zlFPndl_oNhB_zw.png) 
 
 <figcaption>退出</figcaption>
 

@@ -73,7 +73,7 @@ yaaaaaaaaaaaaaaaaaaaaaaaaaaaarrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 
 ## 首席女演员
 
-[![Winning Pedantic Arguments](../Images/18f0f477e64c26f26dd681f0e48edb42.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qy4B4yJa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l42mryt3ngq0kbwsadky.jpeg)
+[![Winning Pedantic Arguments](img/18f0f477e64c26f26dd681f0e48edb42.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qy4B4yJa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l42mryt3ngq0kbwsadky.jpeg)
 
 你想要因为你所谓的才华而受到关注吗？
 
@@ -85,7 +85,7 @@ yaaaaaaaaaaaaaaaaaaaaaaaaaaaarrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 
 ## 传道者
 
-[![Hating On Languages You Don't Use](../Images/6f3d2ec85680712e94545c1efde98066.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CWQq670E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cusqxgw0i62p0l50kb6o.jpeg)
+[![Hating On Languages You Don't Use](img/6f3d2ec85680712e94545c1efde98066.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CWQq670E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cusqxgw0i62p0l50kb6o.jpeg)
 
 **你只是想要把另一个用户“转化”到你喜欢的技术上的满足感吗？**有时，我们对自己使用的技术充满热情，希望其他人也使用它们，我们发现自己向遇到的每个人都过度推销了这些技术。
 
@@ -101,7 +101,7 @@ C++可能不是你喜欢或需要使用的语言，但这并不贬低或否定�
 
 ## 咨询师
 
-[![Being Theoretically Superior](../Images/31b6c977b976dcdddb61d6b3c874a4aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hSWZ4l19--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mt4ghriyndntah18fslq.png)
+[![Being Theoretically Superior](img/31b6c977b976dcdddb61d6b3c874a4aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hSWZ4l19--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mt4ghriyndntah18fslq.png)
 
 你这样做是因为你觉得你能比其他人更好地管理这个项目吗？我们很容易陷入这种境地，尤其是在与经验比我们少的人打交道时。
 
@@ -111,7 +111,7 @@ C++可能不是你喜欢或需要使用的语言，但这并不贬低或否定�
 
 ## 读心术
 
-[![Mind Reading](../Images/d405b4d1519f7392f366c08ddf8d3490.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bLJ1vRq2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hb7f237oxtsgsev14o06.png)
+[![Mind Reading](img/d405b4d1519f7392f366c08ddf8d3490.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bLJ1vRq2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hb7f237oxtsgsev14o06.png)
 
 你是在假设你可以预测对方的喜好和需求，还是假设他们和你的一样？
 
@@ -119,7 +119,7 @@ C++可能不是你喜欢或需要使用的语言，但这并不贬低或否定�
 
 ## 厌战的士兵
 
-[![Warning Away From Languages](../Images/0a2a778dab629cf7ca5b532f41c3ed2b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IXatJ2fa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mb5mpngjwn8l3k9j62ho.png)
+[![Warning Away From Languages](img/0a2a778dab629cf7ca5b532f41c3ed2b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IXatJ2fa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mb5mpngjwn8l3k9j62ho.png)
 
 你是否被自己对他们目前采取的方法的负面体验蒙蔽了双眼？
 

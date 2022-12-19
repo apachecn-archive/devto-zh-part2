@@ -4,7 +4,7 @@
 
 一个好的代码审查过程可以是开发人员从高级软件工程师那里获得可操作的反馈的最快的反馈回路。PullRequest 评审员 [Dylan Drop](https://www.linkedin.com/in/dylan-drop/) 也从导师的角度看待代码评审，并强调开发人员和评审员拥有交付高质量代码的共同目标。
 
-<figure>[![Dylan Drop](../Images/f63fc1eb6f3c11775b873b5b189e64e8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YOPWZnSf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7uhaccjiafkukth6nn6u.jpg) 
+<figure>[![Dylan Drop](img/f63fc1eb6f3c11775b873b5b189e64e8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YOPWZnSf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7uhaccjiafkukth6nn6u.jpg) 
 
 <figcaption>迪伦降</figcaption>
 

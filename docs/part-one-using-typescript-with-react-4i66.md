@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ganderzz/part-one-using-typescript-with-react-4i66>
 
-[![Edit React Typescript](../Images/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/n3138x65p0?fontsize=14)
+[![Edit React Typescript](img/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/n3138x65p0?fontsize=14)
 
 # 第一部分:使用带有 React 的类型脚本
 

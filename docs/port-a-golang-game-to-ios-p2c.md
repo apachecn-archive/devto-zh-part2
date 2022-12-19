@@ -178,7 +178,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是我们游戏的快照(有广告，但我会在发布时删除):
 
-[![Golang game with admob](../Images/482a90f68c5e1e1e6b988f1413e9ef15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9E-Usm5K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vgvwlr5gxjwac1o8xwek.jpg)
+[![Golang game with admob](img/482a90f68c5e1e1e6b988f1413e9ef15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9E-Usm5K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vgvwlr5gxjwac1o8xwek.jpg)
 
 ## 其他问题
 

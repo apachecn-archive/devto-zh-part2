@@ -74,7 +74,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 或者你可以从这个存根中复制它，并做相应的修改。
 
-[![Package Composer json file](../Images/085afe30d0908b5c56978afa6ce9b1e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TDyNdoRP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/t4kxstetmqwseoh7rkcf.png)
+[![Package Composer json file](img/085afe30d0908b5c56978afa6ce9b1e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TDyNdoRP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/t4kxstetmqwseoh7rkcf.png)
 
 提交更改。不是强制性的，但我们会在每一个独特的步骤后作为一个好习惯去做。
 
@@ -234,7 +234,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 然后，前往 [Packagist](https://packagist.org/) ，创建一个帐户或登录，点击提交，指定 GitHub repo URL，…步骤非常简单，一目了然。您还应该启用包的自动更新，并考虑[语义版本](https://semver.org/)和[发布](https://help.github.com/articles/creating-releases/)。
 
-[![Packagist screenshot](../Images/f68466937040b1f1a79a58652b03b08e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FyxkMCqB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/euf25jnzvbbh3hlziyty.png)
+[![Packagist screenshot](img/f68466937040b1f1a79a58652b03b08e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FyxkMCqB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/euf25jnzvbbh3hlziyty.png)
 
 恭喜你。我们完成了。呼吸几分钟。还有更多。
 
@@ -327,7 +327,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我已经将 StyleCI 集成到包中了。您还应该考虑将徽章添加到自述文件中。
 
-[![Package Badges](../Images/18660c70c1dbeabbf51b92806219ba7f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BTSeSEjS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/kujka3mxmuct6g7x38u2.png)
+[![Package Badges](img/18660c70c1dbeabbf51b92806219ba7f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BTSeSEjS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/kujka3mxmuct6g7x38u2.png)
 
 #### 成功包的秘制酱料
 

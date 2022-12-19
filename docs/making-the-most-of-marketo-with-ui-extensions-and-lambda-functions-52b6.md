@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/contentful_blog/making-the-most-of-marketo-with-ui-extensions-and-lambda-functions-52b6>
 
-[![Marketo forms, Contentful UI Extensions and Lambda functions](../Images/aec120fc1194a6615fa2ac35c0cc58c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KucGJFUB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/4ePBTSoNs4w6QgOQkAyUKI/846d320c26c17c3d869ef7d3db626e9b/20180706_Marketo_UI_Extensions.png)
+[![Marketo forms, Contentful UI Extensions and Lambda functions](img/aec120fc1194a6615fa2ac35c0cc58c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KucGJFUB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/4ePBTSoNs4w6QgOQkAyUKI/846d320c26c17c3d869ef7d3db626e9b/20180706_Marketo_UI_Extensions.png)
 
 Marketo 提供了一套营销自动化工具，解决了营销的不同子领域，因此可以被成熟的营销部门的各个分支广泛使用。我们在 Contentful 使用 Marketo 作为解决方案之一来处理我们的营销人员所执行的职责，例如我们的登录页面上的表单。
 
@@ -14,7 +14,7 @@ Marketo 提供了一套营销自动化工具，解决了营销的不同子领域
 
 ## 美化市场形态
 
-[![Setting up a form in Marketo](../Images/bd2f61052e9c4bcb629a78f31cf2334f.png)T2】](//images.ctfassets.net/fo9twyrwpveg/6IWw7kgZUs8CocwmKsKQIw/2fb2f88e7083987ecfa3d03e2b95021d/marketo_forms_1.png)
+[![Setting up a form in Marketo](img/bd2f61052e9c4bcb629a78f31cf2334f.png)T2】](//images.ctfassets.net/fo9twyrwpveg/6IWw7kgZUs8CocwmKsKQIw/2fb2f88e7083987ecfa3d03e2b95021d/marketo_forms_1.png)
 
 首先也是最重要的，Marketo 表单在表单元素上使用内嵌样式，并且有一个简单的默认设计。这些表单也明显是专有的，具有非常独特的标记模式，这让我们不得不重新思考我们的表单，以便与 Marketo 一起工作。
 
@@ -55,7 +55,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 为了做到这一点，我们构建了一个 Lambda 函数，托管在 Netlify 上，以利用他们令人敬畏的[新函数特性](https://www.netlify.com/docs/functions/)。UI 扩展将对该函数执行 HTTP 调用，该函数将返回 Marketo 实例中所有表单的有效负载，然后解析该有效负载并生成所有表单的下拉选择，供编辑人员在登录页面上使用。
 
-[![Installing a UI extension in Contentful](../Images/958c21a781f56473e75f4a6f220368dd.png)T2】](//images.ctfassets.net/fo9twyrwpveg/39UbV7o93qkG4kSGKYeWkk/74639beac16bbaff26abff29e6258478/marketo_forms_2a.png)
+[![Installing a UI extension in Contentful](img/958c21a781f56473e75f4a6f220368dd.png)T2】](//images.ctfassets.net/fo9twyrwpveg/39UbV7o93qkG4kSGKYeWkk/74639beac16bbaff26abff29e6258478/marketo_forms_2a.png)
 
 您可以通过利用我们新的 UI 扩展示例安装程序来使用这个 UI 扩展。只需在 Contentful 应用程序中进入设置，点击扩展，然后*添加扩展*。从那里，点击*安装一个示例*，从列表中找到 Marketo 表单，然后*安装*。
 

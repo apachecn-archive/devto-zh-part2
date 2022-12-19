@@ -15,7 +15,7 @@ DevOps(开发和操作)是一种结合了软件改进和编程活动的软件编
 CI 的主要目标是快速识别缺陷，从而通过适当的验证提高软件质量，并在更短的时间内发布新的软件更新。
 
 在过去的开发模式中，开发团队在很长一段时间内做出改变。一旦整个工作完成，他们就在主分支中合并变更的代码。整个过程既复杂又耗时。它会导致错误在一段时间内不断累积，而不提供任何修正。因此，软件更新交付给用户变得很晚。
-[![](../Images/e792f652a3e41893174d8efa9c9a7f2e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MhTNsTcI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D450%26w%3D550) 
+[![](img/e792f652a3e41893174d8efa9c9a7f2e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MhTNsTcI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D450%26w%3D550) 
 图片来源:Pexels
 
 ## 它是如何工作的？

@@ -153,11 +153,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 首先，该实用程序旋转城市名称的字母。我将创建一个实用函数:
 
-[![](../Images/6071e09e6eb52087248ff27ed3da79f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QB2-4Ri3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A5ZIRI7F8UHLyINpwKsxuqg.png)
+[![](img/6071e09e6eb52087248ff27ed3da79f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QB2-4Ri3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A5ZIRI7F8UHLyINpwKsxuqg.png)
 
 我:让我们把这个函数弄得更流畅一点(可读性更差一点)。极度自信。
 
-[![](../Images/7da4613844b069ed8e72a1678fc722c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--94RqgULa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A-9LrYX5VIlAidtcwYeMidQ.png)
+[![](img/7da4613844b069ed8e72a1678fc722c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--94RqgULa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A-9LrYX5VIlAidtcwYeMidQ.png)
 
 **我:**对！我喜欢 reduce 方法，我会再次使用它！(它也是非常实用的程序，所以用在面试中很酷😎)
 
@@ -173,11 +173,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 就是这样:
 
-[![](../Images/f78e1610fd1e6b6c276123ee512d9d6f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YlER6ZMz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A2gJXt8ixBlEl5Vuh0M281A.png)
+[![](img/f78e1610fd1e6b6c276123ee512d9d6f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YlER6ZMz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A2gJXt8ixBlEl5Vuh0M281A.png)
 
 现在一起！
 
-[![](../Images/0ff19e0bd1413647c14aabbd23a9883a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PBuEz-YC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AD2hQ-9ZV53aVnFvwjRcsbQ.png)
+[![](img/0ff19e0bd1413647c14aabbd23a9883a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PBuEz-YC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AD2hQ-9ZV53aVnFvwjRcsbQ.png)
 
 [在这里得到要旨](https://gist.github.com/albinotonnina/e5eb9589f3a2322678b75461ac230181)。
 
@@ -214,12 +214,12 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 结论
 
-[![](../Images/26db53eb1aac431a08a31d23f546cf72.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qulSZpMn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2ADw-_bnTlziQ_hucVUQ0uJA.png)
+[![](img/26db53eb1aac431a08a31d23f546cf72.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qulSZpMn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2ADw-_bnTlziQ_hucVUQ0uJA.png)
 
 ### 感谢阅读
 
 感谢[亚当·麦金托什](https://twitter.com/agm1984)和[乔希·科莫](https://twitter.com/JoshWComeau)的校对:)
 
-[![](../Images/093f8cf863d2d8c709628bc76eaaac49.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zaEYIvVl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Andz2zpAwq7qvQhhQI0ieLQ.png)
+[![](img/093f8cf863d2d8c709628bc76eaaac49.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zaEYIvVl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Andz2zpAwq7qvQhhQI0ieLQ.png)
 
 你好，我叫阿尔比诺·汤妮娜，我是一名前端工程师，目前在伦敦工作，做不好白板面试，你可以在 [Twitter](https://twitter.com/albinotonnina) 或 [Github](https://github.com/albinotonnina) 或 [Instagram](https://www.instagram.com/albino_tonnina/) 或城市周围找到我。

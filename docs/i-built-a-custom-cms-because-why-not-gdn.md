@@ -21,14 +21,14 @@
 
 ### 岗位
 
-[![Jobs](../Images/148831888ad8673079665499455a3be3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xS5ReCUD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/egah0zdfaxkk70cznh7n.png) 工作与 LinkedIn 上的工作非常相似，都是在一段时间内在一家公司的一个职位。像项目一样，他们有简短和详细的描述，封面图片，可以起草和发布。它们被呈现在一个漂亮的小时间轴上，从最新的到最老的，这个时间轴是用[的布尔玛扩展](https://wikiki.github.io/components/timeline/)创建的。
+[![Jobs](img/148831888ad8673079665499455a3be3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xS5ReCUD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/egah0zdfaxkk70cznh7n.png) 工作与 LinkedIn 上的工作非常相似，都是在一段时间内在一家公司的一个职位。像项目一样，他们有简短和详细的描述，封面图片，可以起草和发布。它们被呈现在一个漂亮的小时间轴上，从最新的到最老的，这个时间轴是用[的布尔玛扩展](https://wikiki.github.io/components/timeline/)创建的。
 
 ~~### Copies~~
 ~~我想有一些静态页面，比如关于我的和[联系人](https://matteojoliveau/contacts)，但不想硬编码成 HTML。因此，在我致力于实现正确的页面生成时，我添加了一个**副本**的概念，这是一段存储在 Postgres 中的格式化文本，在 HTML 中提供。目前页面仍然是硬编码的，但至少我可以直接从管理面板编辑它们的内容。~~
 
 ### 页面
 
-[![Pages](../Images/b9d9e313fe02413cdb17c6c3506ef80d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_iWe4659--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hqwoim2za0o6c399yg22.png) 
+[![Pages](img/b9d9e313fe02413cdb17c6c3506ef80d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_iWe4659--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hqwoim2za0o6c399yg22.png) 
 更新 18/08/2018
 我添加了对动态页面的基本支持，这样就可以创建和编辑动态页面，而无需访问源代码和执行重新部署。
 模板是用[液态语言](https://shopify.github.io/liquid/)编写的，所以安全可控，可以访问发布的项目和作业列表。页面可以自动添加到导航条，它们的顺序由权重系统控制。

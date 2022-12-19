@@ -6,11 +6,11 @@
 
 我把我的机器人放在 glitch.me 上——我重新混合的项目已经包含了一个. env 文件。但是我并不完全熟悉这个想法。
 
-[![My Glitch Directory](../Images/ce9be1744b4873e85e8c08b7486ac11c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1ivwCz2r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sgrcpf2nrxy96m74oxnw.png)
+[![My Glitch Directory](img/ce9be1744b4873e85e8c08b7486ac11c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1ivwCz2r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sgrcpf2nrxy96m74oxnw.png)
 
 Glitch 作为一个社区和一个项目是非常棒的，我可以叉一个存储库并得到一个空白。env 文件——为我提供模板，而不泄露前存储库所有者的内容和秘密。
 
-[![](../Images/cd3257c070f7c0f0c47c6bc9427901f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9Je7SPdP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k0tljuxygfcuhcnmku5w.png)
+[![](img/cd3257c070f7c0f0c47c6bc9427901f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9Je7SPdP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k0tljuxygfcuhcnmku5w.png)
 
 但是...什么是. env 文件？为什么我的推特机器人会有故障？
 

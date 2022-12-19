@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/theodesp/computer-programmer-is-a-skill-not-a-job-1cdb>
 
-[![img](../Images/bc97517d973d3ec24b0c6e9981b04de3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--k4MFDbh5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j7cjfvxo2yryv11q0zwe.jpeg)
+[![img](img/bc97517d973d3ec24b0c6e9981b04de3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--k4MFDbh5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j7cjfvxo2yryv11q0zwe.jpeg)
 *Unsplash 上 rawpixel 的照片*
 
 我最近在读一本关于软件工程的书，在很大程度上，当我开始编程并在职业生涯中通过犯很多错误来学习新东西时，我是在阅读自己的想法。

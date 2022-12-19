@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nicolasmesa/about-1g7p>
 
-[![Nicolas, Amalia and Elisa](../Images/01bd39106a6e543085b9ccf3ae88d896.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fPqgfUka--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/about/nicolas_amalia_elisa.jpg)
+[![Nicolas, Amalia and Elisa](img/01bd39106a6e543085b9ccf3ae88d896.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fPqgfUka--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/about/nicolas_amalia_elisa.jpg)
 
 嗨，欢迎来到我的博客！
 

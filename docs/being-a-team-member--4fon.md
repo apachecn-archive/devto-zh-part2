@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/emadmokhtar/being-a-team-member--4fon>
 
-[![Team](../Images/5e83d2b7998e289e88f70fa051f0ef38.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RC2z3YX8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.emadmokhtar.com/images/karen-maes-310484.jpg)
+[![Team](img/5e83d2b7998e289e88f70fa051f0ef38.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RC2z3YX8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.emadmokhtar.cimg/karen-maes-310484.jpg)
 
 [卡伦·梅斯](https://unsplash.com/@karen1974?utm_medium=referral&utm_campaign=photographer-credit&utm_content=creditBadge "Download free do whatever you want high-resolution photos from Karen Maes")
 

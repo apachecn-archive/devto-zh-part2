@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/runtime-revolution/theres-no-i-in-team-is-a-lie-11b9>
 
-<figure>[![](../Images/ac5b6f55f896a185d7c0b84aef456d2f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yzoaji09--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ArUVH6bb9IteQw3NmMC3EfA.jpeg) 
+<figure>[![](img/ac5b6f55f896a185d7c0b84aef456d2f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yzoaji09--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ArUVH6bb9IteQw3NmMC3EfA.jpeg) 
 
 <figcaption>照片由[帕特里克·福尔](https://unsplash.com/photos/0u_vbeOkMpk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)上 [Unsplash](https://unsplash.com/search/photos/wall-colors?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 

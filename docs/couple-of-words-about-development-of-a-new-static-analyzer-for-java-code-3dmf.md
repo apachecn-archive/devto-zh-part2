@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/alexastva/couple-of-words-about-development-of-a-new-static-analyzer-for-java-code-3dmf>
 
-[![How Dr. Frankenstein assembled the analyzer from pieces](../Images/cc18308b850d64f2c10426015c35c190.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1f7juRQM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.viva64.com/media/images/content/b/0572_Java_analyzer/image4.png)
+[![How Dr. Frankenstein assembled the analyzer from pieces](img/cc18308b850d64f2c10426015c35c190.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1f7juRQM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.viva64.com/medimg/content/b/0572_Java_analyzer/image4.png)
 
 PVS-Studio static analyzer 团队直到最近还在搜索 C、C++和 C#代码中的错误和潜在漏洞，他们也为 Java 代码准备了新版本的工具。尽管事实上在 Java 世界中已经有许多静态分析工具，开发者相信他们的分析器是强大的，并且将是一个很好的竞争对手。
 

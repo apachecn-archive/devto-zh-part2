@@ -30,7 +30,7 @@
 
 ## 第一周先睹为快
 
-[![ecommerce listing component with different states of pricing, availability, and product color](../Images/a02a3a32028522c9baa29f46ed5cc79f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lobAgJuW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui/master/assets/ecommerce-listing/ecommerce-listing-design%402x.png)
+[![ecommerce listing component with different states of pricing, availability, and product color](img/a02a3a32028522c9baa29f46ed5cc79f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lobAgJuW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui/master/assets/ecommerce-listing/ecommerce-listing-design%402x.png)
 
 第一周的内容是:**电子商务列表**！我有点作弊，已经设计好了；在我已经设计好之后，我有了让这成为一个公开挑战*的想法。每日细分如下所示:*
 

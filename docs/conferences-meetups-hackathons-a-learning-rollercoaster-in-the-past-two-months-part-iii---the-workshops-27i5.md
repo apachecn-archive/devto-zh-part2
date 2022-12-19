@@ -30,11 +30,11 @@ github 页面上有专门为本次研讨会制作的教程，包括在不同设�
 
 这是板的技术说明:
 
-[![alt text](../Images/9bda9b7ff5282bdc2622efb0d8d81f56.png "Micropython")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XKhMw2E4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://store.micropython.org/media/products/PYBLITEv1_0-AC-D.jpg)
+[![alt text](img/9bda9b7ff5282bdc2622efb0d8d81f56.png "Micropython")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XKhMw2E4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://store.micropython.org/media/products/PYBLITEv1_0-AC-D.jpg)
 
 这是我的冲浪板，它有一个金色的外壳。这是他妈的黄金！！！各位，我太喜欢我的 Micropython 板了。
 
-[![alt text](../Images/f27443a26e9eb156f3e0323d3be16972.png "Micropython")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---rfOhwVX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2wke5t4g4qhvkb0h9mqf.jpg)
+[![alt text](img/f27443a26e9eb156f3e0323d3be16972.png "Micropython")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---rfOhwVX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2wke5t4g4qhvkb0h9mqf.jpg)
 
 我们主要是尝试语法和连接，有一个松散的小组，那里有小组开发更先进的想法的建议。
 
@@ -42,7 +42,7 @@ github 页面上有专门为本次研讨会制作的教程，包括在不同设�
 
 甚至还有来自 Amazon Go 的演讲。你见过这个广告吗？一个女人走进一家商店，她只是把东西放在她的钱包里，然后当她出去的时候，所有的东西都自动记入她的账户。嗯，好像不是虚构的。来自亚马逊的某人在那里向我们展示了这项技术背后的东西，他甚至带来了一个物联网设备的原型，它带有一个摄像头和一个非常强大的处理器，我认为它使用机器学习来识别物体。他有一个乒乓球拍和一个球，这个东西能正确地识别它，但识别周围站着的人有困难。
 
-[![](../Images/000a4bc250925e2c673d5021c043e29f.png)T2】](http://www.youtube.com/watch?v=NrmMk1Myrxc)
+[![](img/000a4bc250925e2c673d5021c043e29f.png)T2】](http://www.youtube.com/watch?v=NrmMk1Myrxc)
 
 我会写更多关于这个工作坊的东西，我在那里真的很开心。柏林和皮拉迪斯女性科技公司的女士们做得非常好。甚至餐饮也非常好。请继续做这些精彩的活动！
 
@@ -56,22 +56,22 @@ github 页面上有专门为本次研讨会制作的教程，包括在不同设�
 
 看一看。
 
-[![alt text](../Images/11c579eaedd138dd3328475fa828f6fd.png "My contact mic")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--swJh_53F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ejvk2y590vam0vhzy7jk.jpg)
+[![alt text](img/11c579eaedd138dd3328475fa828f6fd.png "My contact mic")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--swJh_53F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ejvk2y590vam0vhzy7jk.jpg)
 
 压电是接触面，如果你把白色陶瓷面放在一个表面上，然后让它振动，你可以听到通过扬声器放大的声音。这个扬声器是坐在我旁边的一个非常好的人好心给我的，他做了作业，带了一整袋的电子老歌。
 
 我们从一些已经在车间的电路中取出的电容器。我们不得不将它们解冻，并确保它们不会在加工过程中受损。伙计，这太难了。我们还必须提高焊接技能，因为电路板非常小。我对我的焊接技术非常自豪，看看这种美:
 
-[![alt text](../Images/b3e634025fa0b186a94a54bba14850b9.png "My very beautiful soldering")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oHioN2rS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sl08ga523299h6ewunr1.jpg)
+[![alt text](img/b3e634025fa0b186a94a54bba14850b9.png "My very beautiful soldering")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oHioN2rS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sl08ga523299h6ewunr1.jpg)
 
 哈哈哈，我们几乎要进入电路板内部测试连接，看看一切都正常。
 
-[![alt text](../Images/4140fc3f8e28d9cec919068ae3c16b70.png "Soldering")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZPe7587V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y2v44hfohaqedbrh80g0.jpg)
+[![alt text](img/4140fc3f8e28d9cec919068ae3c16b70.png "Soldering")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZPe7587V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y2v44hfohaqedbrh80g0.jpg)
 
 在关键时刻，大多数装置都工作正常。虽然有几个人遇到了一些麻烦，但他们仍然在修理他们的小怪物。
 
 这也很有趣。我真心向任何想学习电子和声音的人推荐[共同点](https://commonground.community/)。我期待着他们的下一次研讨会。他们也卖很酷的东西，比如这些合成器。我很久以前就想要一个柏林学校的合成器，但是它们要 90 欧元，我也可以自己做一个:
 
-[![alt text](../Images/fc2d3cf1af372d0b3bc45784fd6b91bc.png "Synths at Common Ground")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y2bdbn9S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jdga9qunth2uyznw8rx9.jpg)
+[![alt text](img/fc2d3cf1af372d0b3bc45784fd6b91bc.png "Synths at Common Ground")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y2bdbn9S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jdga9qunth2uyznw8rx9.jpg)
 
 原来如此。我希望我能找些时间写下这两个月我参加的聚会(第四部分)。

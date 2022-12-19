@@ -4,7 +4,7 @@
 
 除非你一直生活在岩石下；你一定知道这个项目 [Deno](https://github.com/denoland/deno) 。是的，这个项目是由编写 Node.js 的同一个人完成的，根据他的说法，这是他对自己在 Node.js 中所犯错误的救赎:
 
-[![nickytonline](../Images/58e6eb5aa952b0501600a8c841851ced.png)](/nickytonline) [## Node.js 让我后悔的 10 件事
+[![nickytonline](img/58e6eb5aa952b0501600a8c841851ced.png)](/nickytonline) [## Node.js 让我后悔的 10 件事
 
 ### 尼克·泰勒(他/他)6 月 7 日 181 分钟阅读
 

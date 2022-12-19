@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/tigren5/15-effective-ways-to-optimize-search-bar-for-ecommerce-website-5nc>
 
-[![optimize search bar for ecommerce website tips](../Images/724ac068bf9e65981ccd22db2fbf5900.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rES1rle8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.tigren.com/wp-content/uploads/2018/05/optimize-search-bar-for-ecommerce-website-tips.png)
+[![optimize search bar for ecommerce website tips](img/724ac068bf9e65981ccd22db2fbf5900.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rES1rle8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.tigren.com/wp-content/uploads/2018/05/optimize-search-bar-for-ecommerce-website-tips.png)
 
 在电子商务网站上，有一种有效的方法可以提高客户体验和转化率，那就是优化搜索栏的功能。总的来说，一个好的搜索栏将帮助商店访问者在网站上的大量产品中快速准确地找到他们需要的东西。虽然网站搜索是一个基本功能，但许多电子商务商店不知道如何让它有效地工作。在本帖中，我们将向你展示创建电子商务搜索栏时的一些常见错误，以及优化网站搜索功能的 15 个有价值的技巧。
 

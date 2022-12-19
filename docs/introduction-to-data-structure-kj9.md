@@ -7,7 +7,7 @@
 #### 还不明白？
 
 想想图书馆，要在一个脏乱的图书馆里找到一本书(至少)要花你一整天的时间。但是如果书的每个位置都被标记和记录，或者书被整齐地排列，那么找一本书不到一分钟！
-[![hehe](../Images/e5f6619b545fe502a0e632587a306749.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--mePyZmL---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o3ndywoev0ajs5sz09h3.png)
+[![hehe](img/e5f6619b545fe502a0e632587a306749.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--mePyZmL---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o3ndywoev0ajs5sz09h3.png)
 
 现在，这篇文章将介绍*数组*和*大 O 符号(渐近上限)。*先说**大 O** 。
 
@@ -17,7 +17,7 @@
 
 *   谈论*时间*和*空间*。
 *   我们使用术语**大 O** - >渐近上界(大 O 符号)
-    *   函数中的最大或最大项![Big O comparison](../Images/621b966006ef6ed1291376500eea794b.png)
+    *   函数中的最大或最大项![Big O comparison](img/621b966006ef6ed1291376500eea794b.png)
 
 > 属性:
 > 

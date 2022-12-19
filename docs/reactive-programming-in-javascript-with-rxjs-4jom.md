@@ -10,13 +10,13 @@ RxJS 是 JavaScript 库，用于转换、合成和查询异步数据流。RxJS �
 
 那么，反应式编程到底是什么？
 
-[![Reactive programming](../Images/993d59e53aa7fe114b0e4d83803de720.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2N_OhV_b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pgszjn5110pixunu5uw4.jpg)
+[![Reactive programming](img/993d59e53aa7fe114b0e4d83803de720.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2N_OhV_b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pgszjn5110pixunu5uw4.jpg)
 
 反应式编程是一种编写代码的编程范式，主要关注**异步数据流。**这是一种构建软件应用程序的不同方式，它将对发生的变化做出“反应”,而不是编写软件的典型方式，在这种方式中，我们显式地编写代码(也称为“命令式”编程)来处理这些变化。
 
 ### 流
 
-[![stream](../Images/c3ec20786dd6c3870b2d180ce8b40e5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BDszDe7P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u5tiqri5aefo9imzdm7i.jpg)
+[![stream](img/c3ec20786dd6c3870b2d180ce8b40e5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BDszDe7P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u5tiqri5aefo9imzdm7i.jpg)
 
 流是按时间顺序排列的一系列正在进行的事件。它可以是任何东西，如用户输入、按钮点击或数据结构。你可以听一个流，并对它做出相应的反应。您可以使用函数来合并、过滤或映射流。
 
@@ -37,7 +37,7 @@ promise 和 observables 都是为解决异步问题而构建的(以避免“回�
 
 ### 可观察的
 
-[![observable](../Images/0290ba7bea01740db686b72584e25e7b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IHHdkY3l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fe7a7rcqoj3zib8szr4h.jpg)
+[![observable](img/0290ba7bea01740db686b72584e25e7b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IHHdkY3l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fe7a7rcqoj3zib8szr4h.jpg)
 
 *   可观测值只是一个函数，有一些特殊的特征。它接受一个“观察者”(一个带有“下一个”、“错误”和“完成”方法的对象)，并返回取消逻辑。
 *   Observables 支持在应用程序中的发布者和订阅者之间传递消息。
@@ -70,7 +70,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 订阅
 
-[![subscription](../Images/bba17b1ea3f0f856cf7cf51833072cde.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HJ0-5sVo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7hevybycq37g57jgugx6.jpg)
+[![subscription](img/bba17b1ea3f0f856cf7cf51833072cde.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HJ0-5sVo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7hevybycq37g57jgugx6.jpg)
 
 *   只有当有人订阅时，一个可观察的实例才开始发布值。您通过调用实例的`subscribe()`方法进行订阅，传递一个`observer`对象来接收通知。
 *   订阅有一个重要的方法`unsubscribe()`，它没有参数，只是处理订阅持有的资源。
@@ -89,7 +89,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 观察者
 
-[![observer](../Images/577a8b09035ac2bc13c2bd2bb9d1fa18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SD5lFff5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iy4ya5tq9indrx8zuee5.jpg)
+[![observer](img/577a8b09035ac2bc13c2bd2bb9d1fa18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SD5lFff5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iy4ya5tq9indrx8zuee5.jpg)
 
 *   一个`observer`是具有`next()`、`error()`和`complete()`功能的对象文字。在上面的例子中，观察者是我们传递给`.subscribe()`方法的对象。
 *   当一个可观察对象产生值时，它通知观察者，当一个新值被成功捕获时调用`.next()`方法，当一个错误发生时调用`.error()`。
@@ -116,7 +116,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 运算符
 
-[![operator](../Images/c8d209d0d2b870149c575cc24f0f8645.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NvfIlRCI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/egbbrtsok7k4pfyo8tjq.png)
+[![operator](img/c8d209d0d2b870149c575cc24f0f8645.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NvfIlRCI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/egbbrtsok7k4pfyo8tjq.png)
 
 *   操作符是建立在 Observables 基础上的函数，可以对集合进行复杂的操作。
 *   算子本质上是一个纯函数，它将一个可观察量作为输入，并生成另一个可观察量作为输出。
@@ -138,11 +138,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 *   RxJS 提供了许多运算符，但只有少数几个经常使用。有关操作符和使用示例的列表，请访问 [RxJS API 文档](http://reactivex.io/rxjs/manual/overview.html#operators)。
 
-[![common operator list](../Images/c6e8e71df57916ad589798e2f6840231.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B619sX-F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dvnx7lgy02cseedxscno.png)
+[![common operator list](img/c6e8e71df57916ad589798e2f6840231.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B619sX-F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dvnx7lgy02cseedxscno.png)
 
 ### 主题
 
-[![subject](../Images/ae37c7bef103b15ec819042183bc23aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z4wT0JGF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2c54wvzfvr7c7b2bxor1.jpg)
+[![subject](img/ae37c7bef103b15ec819042183bc23aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z4wT0JGF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2c54wvzfvr7c7b2bxor1.jpg)
 
 *   RxJS Subject 是一种特殊类型的可观察对象，它允许将值**多播给许多观察者**。普通的可观察对象是单播的(每个订阅的观察者拥有可观察对象的独立执行)，**主题是组播的**。
 *   RxJS 中的主体是一种特殊的混合体，可以同时充当可观察对象和观察者。
@@ -172,7 +172,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 可观察与承诺
 
-[![Observable vs Promise](../Images/697d0241a214a51aa981ff7e3c1f8890.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SRaVrvvK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/43c9w4p1dw99m0uvcrqs.jpg)
+[![Observable vs Promise](img/697d0241a214a51aa981ff7e3c1f8890.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SRaVrvvK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/43c9w4p1dw99m0uvcrqs.jpg)
 
 为了更好地理解，我们将比较 ES6 Promise API 和 Observable library RxJS。我们将会看到相似的承诺和可观察到的东西是如何的相似，以及它们是如何的不同，以及为什么在某些情况下我们要用可观察到的东西来代替承诺。
 

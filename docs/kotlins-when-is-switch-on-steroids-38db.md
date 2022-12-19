@@ -154,4 +154,4 @@ class MainActivity : AppCompatActivity() {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/39ab190e8fd2faa3a8b77394c4bb4d70.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9PDtppuT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/WorkingDev/%257E4/zJVCV_KQYoo)
+[![](img/39ab190e8fd2faa3a8b77394c4bb4d70.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9PDtppuT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/WorkingDev/%257E4/zJVCV_KQYoo)

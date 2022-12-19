@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/funkysi1701/new-version-of-pwned-pass-3ke9>
 
-[![Pwned Pass](../Images/1b4a1db8b5f77327a07321079528ba22.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Lr_hmZXr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/qZTLiWRfQwS7pT6gExLMTvU1pl8NtTU-kbeoSzD68p1D-EPY3Pg7cz2AN66QJpTTp1c%3Dh900-rw) 新版 Pwned Pass 可从 [Google Play](https://play.google.com/store/apps/details?id=pwnedpasswords.pwnedpasswords) 获得。
+[![Pwned Pass](img/1b4a1db8b5f77327a07321079528ba22.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Lr_hmZXr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/qZTLiWRfQwS7pT6gExLMTvU1pl8NtTU-kbeoSzD68p1D-EPY3Pg7cz2AN66QJpTTp1c%3Dh900-rw) 新版 Pwned Pass 可从 [Google Play](https://play.google.com/store/apps/details?id=pwnedpasswords.pwnedpasswords) 获得。
 
 几周前[特洛伊·亨特](https://www.troyhunt.com/ive-just-launched-pwned-passwords-version-2/)在他的[官方网站](https://haveibeenpwned.com/)上发布了 Pwned Pass 的 V2。现在有超过 5 亿个密码出现在数据泄露中，供你搜索。
 

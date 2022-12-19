@@ -66,13 +66,13 @@ $global:octopus_productionEnvironment = "Name of Production Environment in Octop
 
 然后，有了提交列表，我们就可以构建发布说明的 HTML 和 markdown 版本。HTML 版本与构建工件一起传递给 Octopus。降价版本与构建工件一起被发送到 GitHub。
 
-<figure>[![](../Images/95f8b153894926dc3492e633f0f18f3b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IELcVxdm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1228996/48307475-14befb80-e513-11e8-85fb-b50ec28751b2.png) 
+<figure>[![](img/95f8b153894926dc3492e633f0f18f3b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IELcVxdm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1228996/48307475-14befb80-e513-11e8-85fb-b50ec28751b2.png) 
 
 <figcaption>降价版</figcaption>
 
 </figure>
 
-<figure>[![](../Images/55bb3588b84675f3e586426370f60799.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ifZ3Tvpd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1228996/48307489-69fb0d00-e513-11e8-8f8c-a86359d90494.png) 
+<figure>[![](img/55bb3588b84675f3e586426370f60799.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ifZ3Tvpd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1228996/48307489-69fb0d00-e513-11e8-8f8c-a86359d90494.png) 
 
 <figcaption>HTML 版</figcaption>
 

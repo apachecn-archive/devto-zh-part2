@@ -9,7 +9,7 @@
 
 在开始之前，有一个简短的声明:在 Marmelab，我们不在生产中运行我们的客户服务。我们的专长是通过敏捷迭代消除不确定性，所以我们通常将托管委托给合作公司。也就是说，我们的工作不能脱离生产。我们对交付软件的质量负责，这包括制作报告服务质量问题的软件，以及使其具有弹性和性能的架构。因此，尽管这本身不是我们的工作，但 web 服务的操作让我很感兴趣。
 
-[![Site Reliability Engineering - How Google Runs Production Systems](../Images/a786039ed6aafb5af9ca5515ba392c27.png)T2】](https://landing.google.com/sre/book.html)
+[![Site Reliability Engineering - How Google Runs Production Systems](img/a786039ed6aafb5af9ca5515ba392c27.png)T2】](https://landing.google.com/sre/book.html)
 
 ## 什么是现场可靠性工程(SRE)？
 
@@ -33,7 +33,7 @@ SRE 更像是一个工程领域，是一种组织工程师以整体管理可靠�
 
 > 人们可以等效地将 SRE 视为 DevOps 的一个特定实现，带有一些特殊的扩展。
 
-[![Balancing Is Not That Easy](../Images/03fba19660980f8c1501b0a308fc9fdf.png)T2】](https://i.giphy.com/media/zjF9aoAIrrjCE/giphy.gif)
+[![Balancing Is Not That Easy](img/03fba19660980f8c1501b0a308fc9fdf.png)T2】](https://i.giphy.com/media/zjF9aoAIrrjCE/giphy.gif)
 
 ## 平衡可用性和速度
 
@@ -56,7 +56,7 @@ SRE 更像是一个工程领域，是一种组织工程师以整体管理可靠�
 
 当然，服务级别目标会随着时间的推移而变化。应该在项目的所有利益相关者之间就所有情况进行讨论。这是一个有价值的指标。
 
-[![Automate ALL The Things](../Images/33747226dc7446948d6a3a43b9cf8f99.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KL3MGm37--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ATKt92huSBbSnbRNuAVTx_A.jpeg)
+[![Automate ALL The Things](img/33747226dc7446948d6a3a43b9cf8f99.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KL3MGm37--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ATKt92huSBbSnbRNuAVTx_A.jpeg)
 
 ## 消除辛劳
 
@@ -70,7 +70,7 @@ SRE 更像是一个工程领域，是一种组织工程师以整体管理可靠�
 
 消除辛劳增加了伸缩能力，使应用程序更好玩。找到它并实现自动化就看你自己了！最好的方法是像其他开发实践一样，将这一常规作为日常习惯。
 
-[![Shame nun of Game of Thrones](../Images/86122890cc32c53e20719e06dff493c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ti0Bkdfm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/CVkAep3UkAAXUXT.jpg:large)
+[![Shame nun of Game of Thrones](img/86122890cc32c53e20719e06dff493c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ti0Bkdfm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/CVkAep3UkAAXUXT.jpg:large)
 
 ## 无可指责的文化回顾
 

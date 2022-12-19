@@ -23,7 +23,7 @@ go test all
 
 它看起来是这样的:
 
-[![](../Images/15aacc69eba9f4a911f77f241010eabf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cIjF58DP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nz68e561yg3zxg5cbhuk.gif)
+[![](img/15aacc69eba9f4a911f77f241010eabf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cIjF58DP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nz68e561yg3zxg5cbhuk.gif)
 
 这对于本地开发来说很酷，但是将它用于持续集成怎么样呢？
 

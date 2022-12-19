@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/hasurahq/getting-started-with-the-hasura-graphql-engine-45nn>
 
-<figure>[![](../Images/a02e9c1ea667ac6f5d5050ee04a3b7c1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OSoEmcwz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/getting-started-with-the-hasura-graphql-engine-29a95ed828c5/1-F5dZw0GOTvHUHPA92lxDrg.png) 
+<figure>[![](img/a02e9c1ea667ac6f5d5050ee04a3b7c1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OSoEmcwz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/getting-started-with-the-hasura-graphql-engine-29a95ed828c5/1-F5dZw0GOTvHUHPA92lxDrg.png) 
 
 <figcaption>任何 Postgres 数据库上的即时实时 graph QL API</figcaption>
 
@@ -31,7 +31,7 @@ Hasura 的一些功能包括:
 *   一个**管理控制台 UI** &受 Rails 启发的模式迁移
 *   **Postgres ❤️** :支持 [Postgres 类型](https://hasura.io/learn/database/postgresql/core-concepts/3-postgresql-data-types-columns/) (PostGIS/geo-location 等。)，将视图变成*图形*，用突变触发存储函数或过程。
 
-<figure>[![](../Images/0823154dd89c4f407b545355c18a3fb1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XRdQPgC6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/2019/01/0-NokSLz97tUpEh1-v.png)
+<figure>[![](img/0823154dd89c4f407b545355c18a3fb1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XRdQPgC6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/2019/01/0-NokSLz97tUpEh1-v.png)
 
 <figcaption>Hasura 管理控制台允许您创建和查看 Postgres 数据库中的表，并使用嵌入式 GraphiQL 接口查询它们。</figcaption>
 

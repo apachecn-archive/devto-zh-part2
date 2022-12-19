@@ -4,7 +4,7 @@
 
 这是我的“开发聊天”系列中的一篇文章，在这篇文章中，我大约每周都会与一位出色的开发人员或技术人员交谈。你可以在这里阅读更多。如果你觉得这些对你有用，请在评论中告诉我！
 
-[![Headshot.jpeg](../Images/b25eedef4cf7777ec7845873cb37976d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rHh1s6zx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5ae51b7f03ce64d372c62831/1524964234429/Headshot.jpeg%3Fformat%3D1000w)
+[![Headshot.jpeg](img/b25eedef4cf7777ec7845873cb37976d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rHh1s6zx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5ae51b7f03ce64d372c62831/1524964234429/Headshot.jpeg%3Fformat%3D1000w)
 
 ### 自我介绍！你是谁？你在哪里工作？
 
@@ -36,7 +36,7 @@
 
 哦天啊-我希望！这是我最喜欢的视觉效果:
 
-[![image1.png](../Images/89016022784597f3c0a8c2c358f47e9b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6Bpt62Cm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5ae51960aa4a99e142f2838f/1524963722598/image1.png%3Fformat%3D1000w)
+[![image1.png](img/89016022784597f3c0a8c2c358f47e9b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6Bpt62Cm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5ae51960aa4a99e142f2838f/1524963722598/image1.png%3Fformat%3D1000w)
 
 这些天，我不像以前那样经常出差参加会议。我的很多时间都花在制作 SF 哨兵总部的内容和教程上。然而，当我参加会议时，我倾向于在社交媒体上发布/分享更多信息。因此，我想很多人会把这句话翻译成“哇！多迷人啊——她出差去了！”实际上，我早上 6 点在酒店房间里完成工作，编辑和练习我的演讲 2 个多小时，在会议室里走来走去会见人们和建立关系网，发表我的演讲，检查我的电子邮件，回答问题/演示，在太多外向时间后蜷缩在我的酒店房间里。很迷人，是吧？我责怪社交媒体，因为我当然会分享聚会后啜饮香槟的照片，而不是我在凌晨 1 点独自吃印度食物时查看我的收件箱😂绝对是错觉。
 

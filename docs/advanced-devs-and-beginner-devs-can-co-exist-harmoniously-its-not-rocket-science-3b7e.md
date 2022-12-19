@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ben/advanced-devs-and-beginner-devs-can-co-exist-harmoniously-its-not-rocket-science-3b7e>
 
-> ![Jeff Atwood profile image](../Images/e0543a84701c92eceb30ce862e811da9.png)杰夫·阿特伍德@ codinghorr![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)[@ lmcdo _](https://twitter.com/lmcdo_)[@ alilyn net](https://twitter.com/alilynnet)[@ dominickronin](https://twitter.com/DominicCronin)[@ cristyn Howard](https://twitter.com/cristynhoward)[@ Bob _ at _ BH](https://twitter.com/Bob_at_BH)[@ aprilwensel](https://twitter.com/aprilwensel)[@ spolsky](https://twitter.com/spolsky)[@ stack ov 但是请记住，SO 的目标读者不是，也从来不是初学者或刚刚开始学习编码的人。我会为那些人推荐](https://twitter.com/StackOverflow)[codecombat.com](https://t.co/HqDaotg4TP)、codecademy、可汗学院等01:26AM-09 2018 年 4 月[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=983154086768885761)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=983154086768885761)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=983154086768885761)
+> ![Jeff Atwood profile image](img/e0543a84701c92eceb30ce862e811da9.png)杰夫·阿特伍德@ codinghorr![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)[@ lmcdo _](https://twitter.com/lmcdo_)[@ alilyn net](https://twitter.com/alilynnet)[@ dominickronin](https://twitter.com/DominicCronin)[@ cristyn Howard](https://twitter.com/cristynhoward)[@ Bob _ at _ BH](https://twitter.com/Bob_at_BH)[@ aprilwensel](https://twitter.com/aprilwensel)[@ spolsky](https://twitter.com/spolsky)[@ stack ov 但是请记住，SO 的目标读者不是，也从来不是初学者或刚刚开始学习编码的人。我会为那些人推荐](https://twitter.com/StackOverflow)[codecombat.com](https://t.co/HqDaotg4TP)、codecademy、可汗学院等01:26AM-09 2018 年 4 月[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=983154086768885761)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=983154086768885761)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=983154086768885761)
 
 非常可悲的是，一个讨论高级话题的环境也不得不完全忽视新手(以及任何可能被软件开发傲慢男孩俱乐部疏远的人)的需求。
 
@@ -16,7 +16,7 @@
 
 杰夫·阿特伍德的上述推文是由这条推文引发的推特对话的一部分。
 
-> ![April Wensel profile image](../Images/0930ad3090174be08f13659698957d8d.png)四月温塞尔[@ April Wensel](https://dev.to/aprilwensel)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)[@斯波尔斯基](https://twitter.com/spolsky)[@ coding horor](https://twitter.com/codinghorror)[@ stack overflow](https://twitter.com/StackOverflow)不错的沾沾自喜帖。你在哪里为创造了一个有毒的，不人道的荒地而道歉，这个荒地奖励傲慢和耻辱，同时排斥妇女和有色人种？下一个是那个吗？2018 年 04 月 07 日 19:11 点[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=982697412077633536)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=982697412077633536)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=982697412077633536)
+> ![April Wensel profile image](img/0930ad3090174be08f13659698957d8d.png)四月温塞尔[@ April Wensel](https://dev.to/aprilwensel)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)[@斯波尔斯基](https://twitter.com/spolsky)[@ coding horor](https://twitter.com/codinghorror)[@ stack overflow](https://twitter.com/StackOverflow)不错的沾沾自喜帖。你在哪里为创造了一个有毒的，不人道的荒地而道歉，这个荒地奖励傲慢和耻辱，同时排斥妇女和有色人种？下一个是那个吗？2018 年 04 月 07 日 19:11 点[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=982697412077633536)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=982697412077633536)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=982697412077633536)
 
 该线程是迷人的，令人沮丧的，以及介于两者之间的一切。杰夫需要明白，他帮助建立了一些改变世界的东西，但它有问题，他自己完全没有能力亲眼看到这些问题。
 
@@ -24,7 +24,7 @@
 
 但老实说，我没有想太多。这个帖子实际上让我明白了很多:
 
-[![jezrielbajan](../Images/10d06a82ba417cd0b6464860b3a6adad.png)](/jezrielbajan) [## 这个网站和 StackOverflow 有什么不同？
+[![jezrielbajan](img/10d06a82ba417cd0b6464860b3a6adad.png)](/jezrielbajan) [## 这个网站和 StackOverflow 有什么不同？
 
 ### 耶斯列巴詹 11 月 26 日 171 分钟阅读
 
@@ -32,7 +32,7 @@
 
 特别是，这个评论:
 
-[![evanoman profile image](../Images/4c02da4b88447dff9e14ab2cc8c9a067.png) ](/evanoman) [ Evan Oman ](/evanoman) • [<time datetime="2017-11-28T16:37:37Z" class="date-short-year"> Nov 28 '17 </time> • Edited on <time datetime="2017-11-28T16:38:27Z" class="hidden m:inline-block date-no-year">Nov 28</time>](https://dev.to/evanoman/comment/1f5k) 
+[![evanoman profile image](img/4c02da4b88447dff9e14ab2cc8c9a067.png) ](/evanoman) [ Evan Oman ](/evanoman) • [<time datetime="2017-11-28T16:37:37Z" class="date-short-year"> Nov 28 '17 </time> • Edited on <time datetime="2017-11-28T16:38:27Z" class="hidden m:inline-block date-no-year">Nov 28</time>](https://dev.to/evanoman/comment/1f5k) 
 
 > 遵循收集“高质量”问题和答案的目标，Stack Overflow 并不关心回答你的问题。除非你的问题不只是对你有用。
 

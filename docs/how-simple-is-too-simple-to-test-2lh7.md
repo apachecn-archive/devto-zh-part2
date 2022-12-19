@@ -6,13 +6,13 @@
 
 嗯，今天我在我的一个项目中发现了一个错误，表明**可能没有下限**。看看这个:
 
-[![suspicious code listing](../Images/66380552f41e560f7956685eecd0d212.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Uthte4Ls--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qvj80szd9htlbzlkkpnn.png)
+[![suspicious code listing](img/66380552f41e560f7956685eecd0d212.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Uthte4Ls--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qvj80szd9htlbzlkkpnn.png)
 
 这个方法对$pcIDs 的内容进行一些检查，如果出错，就会抛出一个异常。简单吧？当然了。它只有 15 行代码，包括签名和括号。
 
 你会相信这段代码有错误吗？让我给你一个提示:
 
-[![first hint about suspicious code](../Images/bc49a4f92a1898ab8dcf16cd456fa115.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RqQ_s80T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dgsvx4gji12u35cgqq6c.png)
+[![first hint about suspicious code](img/bc49a4f92a1898ab8dcf16cd456fa115.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RqQ_s80T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dgsvx4gji12u35cgqq6c.png)
 
 你看到问题了吗(慢慢来，我等着)。
 
@@ -28,7 +28,7 @@
 
 想明白了吗？需要更明显的暗示吗？
 
-[![second hint about suspicious code](../Images/2eb37a66ed643e6bc53c2e86c249e22b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EdlrxXeE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ek8i9wifc8p16usckdpc.png)
+[![second hint about suspicious code](img/2eb37a66ed643e6bc53c2e86c249e22b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EdlrxXeE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ek8i9wifc8p16usckdpc.png)
 
 ### 发生了什么事
 

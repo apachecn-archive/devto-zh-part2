@@ -20,7 +20,7 @@
 
 下面是我在项目管理培训中记笔记的一个例子:
 
-[![An example of what notes look like in a bullet journal](../Images/ebcd96a0126a1645c6cad6f8221764d6.png "An example of what notes look like in a bullet journal")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aYMqDJF5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Wmf0qm0l.jpg)
+[![An example of what notes look like in a bullet journal](img/ebcd96a0126a1645c6cad6f8221764d6.png "An example of what notes look like in a bullet journal")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aYMqDJF5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Wmf0qm0l.jpg)
 
 我记录了训练的内容，并观察了我们教练选择的训练辅助工具[凤凰号的飞行。我在这个页面上没有任何待办事项或其他特别值得注意的笔记，但它让我了解了我每天是如何使用子弹日记的。](https://en.wikipedia.org/wiki/The_Flight_of_the_Phoenix_%281965_film%29)
 
@@ -48,7 +48,7 @@
 
 我在办公室工作，每半年进行一次绩效评估。我发现，如果我在某种高层次的概述中记录了过去六个月我做了什么，写起来会容易得多。为此，我使用每周日志
 
-[![A detailed log of my weekly activities](../Images/87a352e0b5db5ec7afd77053ad75d379.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gmasutiS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Dzf5Lkkl.jpg)
+[![A detailed log of my weekly activities](img/87a352e0b5db5ec7afd77053ad75d379.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gmasutiS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Dzf5Lkkl.jpg)
 
 我在一周的开始写下日志，然后当我做事情的时候，我在每天写一个简短的笔记。“参加利益相关者会议”、“编写工作流容器”、“创建许可进入 UI”、“指导初级开发人员”等。
 
@@ -58,7 +58,7 @@
 
 下面是一个相当空的日历在新的一个月的样子:
 
-[![An empty calendar for a new month](../Images/1dab51dfc9ada2040f502d0a8a49d089.png "An empty calendar for a new month")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--axTaeTld--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/9Z8SaNKl.jpg)
+[![An empty calendar for a new month](img/1dab51dfc9ada2040f502d0a8a49d089.png "An empty calendar for a new month")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--axTaeTld--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/9Z8SaNKl.jpg)
 
 当我学习新的东西时，我会把重要的事件放在我的日历上，不管它们是目标发布日期、测试周期还是演示。我也用这些日历来计划个人事件，比如假期或预约医生。
 
@@ -66,7 +66,7 @@
 
 保留一个索引听起来很无聊也很困难，但是我发现如果我很勤奋的话，这并不是特别困难，事实证明这是我的日志中最有用的部分之一。
 
-[![An index of topics my work bullet journal covers](../Images/6b2550eb55763c270e1ae514f96aed51.png "An index of topics my work bullet journal covers")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P-zmY6ns--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgur.com/aasPfDal.jpg)
+[![An index of topics my work bullet journal covers](img/6b2550eb55763c270e1ae514f96aed51.png "An index of topics my work bullet journal covers")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P-zmY6ns--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgur.com/aasPfDal.jpg)
 
 使索引保持简单的三个实践是
 

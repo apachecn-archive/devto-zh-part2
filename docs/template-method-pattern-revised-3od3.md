@@ -71,7 +71,7 @@ class CsvApplication() extends Application {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Template Method pattern](../Images/2d715449aa286c86d21e0384a7e780a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZNhIViEN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgflip.com/27j995.jpg)
+[![Template Method pattern](img/2d715449aa286c86d21e0384a7e780a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZNhIViEN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgflip.com/27j995.jpg)
 
 ### 弊端
 
@@ -108,7 +108,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 上面的*格言*，由 GoF 创造，提醒我们每次使用面向对象编程语言开发东西时应该指导我们的原则之一。
 
-[![Favor object composition over class inheritance](../Images/2aa39ddaff6e1bbc3c0f6083cee69839.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_epCn2z3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgflip.com/27j94u.jpg)
+[![Favor object composition over class inheritance](img/2aa39ddaff6e1bbc3c0f6083cee69839.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_epCn2z3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgflip.com/27j94u.jpg)
 
 ## 模板方法模式:正确的方式
 
@@ -202,7 +202,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这样，您不必为每个要实现的行为声明新的类型，只需创建一个 lambda 表达式，并在对象创建期间将其传递给构造函数。
 
-[![Object composition is the path through Nirvana](../Images/bc2df7327e8698c6610f28ea2318a20b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tyIdR5s5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgflip.com/27kw8q.jpg)
+[![Object composition is the path through Nirvana](img/bc2df7327e8698c6610f28ea2318a20b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tyIdR5s5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgflip.com/27kw8q.jpg)
 
 ### 斯卡拉道
 
@@ -296,7 +296,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 使用 composition、lambdas 和 curryfication，我们能够在 21 世纪带来模板方法模式。
 
-[![Template Method pattern is not evil!](../Images/50bf8f20199e6b5424f37b3821f27130.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HKpqYQxJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgflip.com/27kxg4.jpg)
+[![Template Method pattern is not evil!](img/50bf8f20199e6b5424f37b3821f27130.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HKpqYQxJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgflip.com/27kxg4.jpg)
 
 ## 参考文献
 

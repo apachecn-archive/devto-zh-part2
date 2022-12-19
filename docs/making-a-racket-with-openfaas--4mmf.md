@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/dvdmuckle/making-a-racket-with-openfaas--4mmf>
 
-[![Image result for racket lang](../Images/d0ece509cb191e837e77e803396dd274.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---3RhipEC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://racket-lang.org/img/racket-logo.svg)
+[![Image result for racket lang](img/d0ece509cb191e837e77e803396dd274.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---3RhipEC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://racket-lang.org/img/racket-logo.svg)
 
 云计算正在发展，随之而来的是一大堆新的框架和术语，比如“无服务器”和“功能即服务”。虽然很多这样的框架是由亚马逊和谷歌这样的大公司提供的，但也有一些项目，如 OpenFaaS，允许你在自己的机器上运行一个功能作为服务平台。此外，OpenFaaS 还允许轻松扩展平台以支持其他语言。因为 OpenFaaS 围绕着函数，所以通过使用美妙的球拍环境来添加对第一种函数式编程语言 Lisp 的支持是非常有意义的。现在你也可以制作自己的无服务器球拍功能了！让我们试一试。
 

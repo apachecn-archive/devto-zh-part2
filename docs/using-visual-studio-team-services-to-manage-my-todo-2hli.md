@@ -27,7 +27,7 @@
 
 在办公室，我们使用吉拉进行软件开发项目。然而，我发现吉拉是相当沉重和笨重的使用。总的来说，我对任何 Atlassian 产品的体验都不是很好，比如吉拉、Bitbucket、Confluence 等等。
 
-我需要的是轻量级的，易于创建/修改任务，易于定制，但管理开销最小的东西。Trello 看起来勾选了几个框，但我个人并没有怎么用过。还有什么？现在被亚特兰蒂斯 [![🙂](../Images/1bb31e891282bfa40812655c9c9ace9e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DvXCaIjD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.org/images/core/emoji/11/72x72/1f642.png) 收购
+我需要的是轻量级的，易于创建/修改任务，易于定制，但管理开销最小的东西。Trello 看起来勾选了几个框，但我个人并没有怎么用过。还有什么？现在被亚特兰蒂斯 [![🙂](img/1bb31e891282bfa40812655c9c9ace9e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DvXCaIjD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.oimg/core/emoji/11/72x72/1f642.png) 收购
 
 另一方面，与吉拉相比，Visual Studio Team Services 是一个熟悉的产品，并且易于使用。有一个被不同的特性(比如存储库，构建配置等等)所困扰的风险，这是我不需要的，但是因为它检查了我所有的框，我决定继续使用 VSTS。
 
@@ -43,11 +43,11 @@
 *   **泳道** / * *标签** 分类不同的工作类型，如办公室、个人等。
 *   根据故事的复杂程度，每个故事有零个或多个(子)任务。
 
-[![ToDoBoard](../Images/32a6b36e4d5018ba2d091b71122cb2e2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tqRRplT6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/ankitvijay.net/wp-content/uploads/2018/09/Untitled.png%3Fresize%3D810%252C427%26ssl%3D1) 
+[![ToDoBoard](img/32a6b36e4d5018ba2d091b71122cb2e2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tqRRplT6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/ankitvijay.net/wp-content/uploads/2018/09/Untitled.png%3Fresize%3D810%252C427%26ssl%3D1) 
 
 <figcaption>**我的待办事宜**</figcaption>
 
-[![SubTasks.png](../Images/82416936bef1ffda801331503b7de6fd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xujLNrAl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/ankitvijay.net/wp-content/uploads/2018/09/SubTasks.png%3Fresize%3D504%252C345%26ssl%3D1) 
+[![SubTasks.png](img/82416936bef1ffda801331503b7de6fd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xujLNrAl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/ankitvijay.net/wp-content/uploads/2018/09/SubTasks.png%3Fresize%3D504%252C345%26ssl%3D1) 
 
 <figcaption>**【子】待办事项/故事下的任务**</figcaption>
 

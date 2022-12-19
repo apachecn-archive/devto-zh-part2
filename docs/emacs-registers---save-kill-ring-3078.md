@@ -22,7 +22,7 @@ Registers 是标准的 Emacs 函数，所以只需键入:
 
 Emacs25 显示粘贴前的内容预览。不错:)
 
-[![Screenshot_2016-11-15_18-27-41.png](../Images/f312dfd04a2577d011c50153f275c007.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xIhvFpw---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/103885/ce4d5eb0-4e04-9e66-f9e9-5b6c85af5cf5.png)
+[![Screenshot_2016-11-15_18-27-41.png](img/f312dfd04a2577d011c50153f275c007.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xIhvFpw---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/103885/ce4d5eb0-4e04-9e66-f9e9-5b6c85af5cf5.png)
 
 ...虽然这是一个有用的特性，但是我必须承认大量的复制粘贴并不是一个好习惯。
 

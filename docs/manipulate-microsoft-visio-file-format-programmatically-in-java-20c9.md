@@ -40,7 +40,7 @@
 
 示例代码使用 Aspose.Diagram 操作名为 *[的**模板 Microsoft Visio 文件**templatemanchantivevisiofileusingasposediagram . vsdx](https://github.com/AsposeDiagram/AsposeDiagram-Screenshots-and-Sample-Files/blob/master/Manipulate-Microsoft-Visio-file-format-programmatically/templateManipulateVisioFileUsingAsposeDiagram.vsdx)*。请注意，您可以使用任何 Microsoft Visio 文件作为模板，代码应该工作正常。
 
-[![Template Microsoft Visio file to be manipulated using Aspose.Diagram.](../Images/486ea921a8c83cf6049e1a774b1e32f7.png "Template Microsoft Visio file to be manipulated using Aspose.Diagram.")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w1xxsRvk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/AsposeDiagram/AsposeDiagram-Screenshots-and-Sample-Files/master/Manipulate-Microsoft-Visio-file-format-programmatically/Template-Microsoft-Visio-file-manipulated-Aspose.Diagram.png)
+[![Template Microsoft Visio file to be manipulated using Aspose.Diagram.](img/486ea921a8c83cf6049e1a774b1e32f7.png "Template Microsoft Visio file to be manipulated using Aspose.Diagram.")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w1xxsRvk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/AsposeDiagram/AsposeDiagram-Screenshots-and-Sample-Files/master/Manipulate-Microsoft-Visio-file-format-programmatically/Template-Microsoft-Visio-file-manipulated-Aspose.Diagram.png)
 
 ## 包含主控形状的模具 Microsoft Visio 文件
 
@@ -51,7 +51,7 @@
 *   *六边形*
 *   *动态连接器*
 
-[![Stencil Microsoft Visio file to import Master Shapes using Aspose.Diagram.](../Images/0168acd6309735253cf69f8d7b98d550.png "Stencil Microsoft Visio file to import Master Shapes using Aspose.Diagram.")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--htZhz91h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/AsposeDiagram/AsposeDiagram-Screenshots-and-Sample-Files/master/Manipulate-Microsoft-Visio-file-format-programmatically/Stencil-Microsoft-Visio-Master-Shapes-Aspose.Diagram.png)
+[![Stencil Microsoft Visio file to import Master Shapes using Aspose.Diagram.](img/0168acd6309735253cf69f8d7b98d550.png "Stencil Microsoft Visio file to import Master Shapes using Aspose.Diagram.")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--htZhz91h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/AsposeDiagram/AsposeDiagram-Screenshots-and-Sample-Files/master/Manipulate-Microsoft-Visio-file-format-programmatically/Stencil-Microsoft-Visio-Master-Shapes-Aspose.Diagram.png)
 
 # 样本代码
 

@@ -27,7 +27,7 @@
 
 *   只需点击下面的按钮，即可部署 Hasura GraphQL 引擎。
 
-<figure>[![Hasura on Heroku](../Images/c5f2ec62efbee76fd41eb9eff7b5c1c0.png)](https://heroku.com/deploy?template=https://github.com/hasura/graphql-engine-heroku) 
+<figure>[![Hasura on Heroku](img/c5f2ec62efbee76fd41eb9eff7b5c1c0.png)](https://heroku.com/deploy?template=https://github.com/hasura/graphql-engine-heroku) 
 
 <figcaption>点击此按钮将 GraphQL 引擎部署到 Heroku</figcaption>
 
@@ -90,21 +90,21 @@ Enter fullscreen mode Exit fullscreen mode
 *   在浏览器中转到您的 GraphQL 引擎 URL。它打开了一个管理用户界面，你可以在那里管理你的后端。
 *   转到顶部的`Data`部分，点击“Create Table ”,添加前面提到的列名和类型。
 
-<figure>[![](../Images/4d951fd4b69e1da4e5a1cbbb7edc08c5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Gj_utnOI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/2019/03/image.png)T5】创建`todos`表</figure>
+<figure>[![](img/4d951fd4b69e1da4e5a1cbbb7edc08c5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Gj_utnOI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/2019/03/image.png)T5】创建`todos`表</figure>
 
-<figure>[![](../Images/97a11a3fc8cc02d6983ddbc07861ed45.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--J3S_EcVB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/2019/03/image-1.png)T5】创建`todos`表</figure>
+<figure>[![](img/97a11a3fc8cc02d6983ddbc07861ed45.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--J3S_EcVB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/2019/03/image-1.png)T5】创建`todos`表</figure>
 
 **表格关系**
 
 正如您在上面看到的，在`todos`和`users`之间应该有一个基于外键的关系。让我们添加外键约束和关系。转到顶部的`Data`选项卡，点击`todos`工作台。现在，在修改部分，编辑`user_id`列并使其成为外键。之后，返回到`Data`选项卡并点击`Track all relations`。
 
-<figure>[![](../Images/0d984094fb99cb76b503118e3fe6b5e4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lRRpEhKf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AGFlOoTknXkAA_OYkmbBwNA.png) 
+<figure>[![](img/0d984094fb99cb76b503118e3fe6b5e4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lRRpEhKf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AGFlOoTknXkAA_OYkmbBwNA.png) 
 
 <figcaption>添加外键</figcaption>
 
 </figure>
 
-<figure>[![](../Images/0dd023e5b376c3effe7282cde4460e82.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8_rq1-6h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AuR2lus1px_M2CpxcNe_HNw.png) 
+<figure>[![](img/0dd023e5b376c3effe7282cde4460e82.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8_rq1-6h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AuR2lus1px_M2CpxcNe_HNw.png) 
 
 <figcaption>添加关系</figcaption>
 
@@ -112,7 +112,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 一旦跟踪了关系，就可以对`https://myfancyapp.herokuapp.com/v1alpha1/graphql`进行复杂的嵌套 GraphQL 查询。要试用，请转到控制台中的`GraphiQL`选项卡并尝试进行查询。
 
-<figure>[![](../Images/0d00e46350cf3eaacc92010a56340e4d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--s0iBEy7---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Ah27UvTXOI7rDXQakCZJ7LQ.png) 
+<figure>[![](img/0d00e46350cf3eaacc92010a56340e4d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--s0iBEy7---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Ah27UvTXOI7rDXQakCZJ7LQ.png) 
 
 <figcaption>图 QL - An API Explorer</figcaption>
 
@@ -124,7 +124,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在你的 Hasura 控制台中转到`/data/schema/public/tables/user/permissions`，进入角色`user`，只有当`x-hasura-user-id`等于`id`时，才允许`user`表中的 CRUD。这意味着 Hasura 将确保只有当头中 JWT 的`X-Hasura-User-Id`等于被 CRUD 的用户的`id`时，用户才能 CRUD。
 
-<figure>[![](../Images/60778562a29c919d5c13e7638bae571a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lTttZEKE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AuP8hZXyhXMT5NWPQ_Bc7Jg.png) 
+<figure>[![](img/60778562a29c919d5c13e7638bae571a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lTttZEKE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AuP8hZXyhXMT5NWPQ_Bc7Jg.png) 
 
 <figcaption>为用户设置插入权限表</figcaption>
 

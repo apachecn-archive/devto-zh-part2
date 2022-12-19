@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/samovertonjr/dev-life-effective-communication-5389>
 
-[![Photo by rawpixel on Unsplash](../Images/58088605a451f40757861fb18fb2bb5a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AccetkpF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v8uyq2wj2w05trfkhq2a.jpg)
+[![Photo by rawpixel on Unsplash](img/58088605a451f40757861fb18fb2bb5a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AccetkpF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v8uyq2wj2w05trfkhq2a.jpg)
 
 ## 沟通是关键
 

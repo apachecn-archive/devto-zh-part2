@@ -18,11 +18,11 @@
 
 [https://dev . to/rockarts/using-your-custom-map box-map-and-adding-navigation-using-swift-1 dje](https://dev.to/rockarts/using-your-custom-mapbox-map-and-adding-navigation-using-swift-1dje)
 
-[![Navigation](../Images/60ec81421e1ce14f074ec143944ae9ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GU_ghQdb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mdrsvv0ymc9da5pa5fji.gif)
+[![Navigation](img/60ec81421e1ce14f074ec143944ae9ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GU_ghQdb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mdrsvv0ymc9da5pa5fji.gif)
 
 两张你的 3D 可视化截图+一段代码片段
 这是我创建的应用程序。我写的博文包含了创建它的所有代码，并解释了每一步。
 
 [https://dev . to/rockarts/build-a-3d-map-using-map box-and-scene kit-515 p](https://dev.to/rockarts/build-a-3d-map-using-mapbox-and-scenekit-515p)
 
-[![3D Map](../Images/4b7333521279019fd059ffdf748b9e53.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xa9oQVsu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u3ayd36dc813zlhhdjfo.gif)
+[![3D Map](img/4b7333521279019fd059ffdf748b9e53.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xa9oQVsu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u3ayd36dc813zlhhdjfo.gif)

@@ -97,7 +97,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 得到这个输出。
 
-[![My TSP Frankenstein](../Images/ad304793306d532f7cace9f9d61ff412.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ihuXZnJq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jacoby.github.io//images/TSP-Frankenstein.png) 。
+[![My TSP Frankenstein](img/ad304793306d532f7cace9f9d61ff412.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ihuXZnJq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jacoby.github.iimg/TSP-Frankenstein.png) 。
 
 对...做同样的事
 
@@ -105,7 +105,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 听听这个
 
-[![My TSP Headshot](../Images/73f50e21c4b1d4d0dfbb0b240d9d3cbf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TH6LeT14--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jacoby.github.io//images/TSP-headshot.png) 。
+[![My TSP Headshot](img/73f50e21c4b1d4d0dfbb0b240d9d3cbf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TH6LeT14--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jacoby.github.iimg/TSP-headshot.png) 。
 
 但是我不喜欢这样，你可以在漫画里看到。我认为这是因为“真正的 R 用户”把它当作一个数据外壳，而我喜欢把事物想象成程序。我得到类似格式的数据(比如来自数据库的数据)，在我的 R 中批量运行，在我做其他事情的时候得到输出。
 

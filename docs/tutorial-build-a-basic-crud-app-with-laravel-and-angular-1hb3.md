@@ -28,7 +28,7 @@ Laravel 最好的“隐藏”特性之一是，使用它可以非常容易地创
 
 今天，我们将建立一个简单的琐事游戏界面，允许你为你的朋友运行琐事游戏。这是完成后的应用程序的外观:
 
-[![The finished application](../Images/dbe4d6135318bba36b83d3d43b7941d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VfvMAw3F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/php-laravel-angular-crud-app/image1-116459b8b78e6ef7858f9b7f6ec24b415b6b1b142570ddf844ac3ccd65089760.png)
+[![The finished application](img/dbe4d6135318bba36b83d3d43b7941d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VfvMAw3F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/php-laravel-angular-crud-app/image1-116459b8b78e6ef7858f9b7f6ec24b415b6b1b142570ddf844ac3ccd65089760.png)
 
 以下是作为主机运行游戏的一种可能方式:
 
@@ -49,11 +49,11 @@ Laravel 最好的“隐藏”特性之一是，使用它可以非常容易地创
 
 转到“应用程序”菜单项，单击“添加应用程序”按钮:
 
-[![Add Application](../Images/67092463057a4a8b0ae8ecb0c021399e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gtsoZelx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/php-laravel-angular-crud-app/image2-6c7f7a13ae7fdc6491fef895e8884fbe753933b59dbad9f7ef61d6ae31145ab0.png)
+[![Add Application](img/67092463057a4a8b0ae8ecb0c021399e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gtsoZelx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/php-laravel-angular-crud-app/image2-6c7f7a13ae7fdc6491fef895e8884fbe753933b59dbad9f7ef61d6ae31145ab0.png)
 
 选择“单页应用程序”，然后单击“下一步”。
 
-[![Choose the application type](../Images/6de09345ca348d68181049fa22f61304.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oDusUWPw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/php-laravel-angular-crud-app/image3-1a23df7a1064c4659963a8354bc65f2ebb4a5ad5cd54efdecab458406c89af13.png)
+[![Choose the application type](img/6de09345ca348d68181049fa22f61304.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oDusUWPw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/php-laravel-angular-crud-app/image3-1a23df7a1064c4659963a8354bc65f2ebb4a5ad5cd54efdecab458406c89af13.png)
 
 设置一个描述性的应用名称，添加[http://localhost:3000/log in](http://localhost:3000/login)作为登录重定向 URI，点击完成。您可以保留其余的设置。
 

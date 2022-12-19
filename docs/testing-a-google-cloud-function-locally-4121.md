@@ -27,7 +27,7 @@ $ functions deploy myFunctionName --trigger-http //deploys your function as HTTP
 
 当一个函数开始运行时，您会得到如下所示的输出:
 
-[![Google Cloud Functions Emulator Output](../Images/648043f6d39a93d7eb0f4056261cd6c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jN3ihNFw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/2y1x121b441B/Image%25202018-06-20%2520at%25205.01.44%2520pm.png)
+[![Google Cloud Functions Emulator Output](img/648043f6d39a93d7eb0f4056261cd6c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jN3ihNFw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/2y1x121b441B/Image%25202018-06-20%2520at%25205.01.44%2520pm.png)
 
 在这里，您可以看到该功能已经启动并在`localhost:8010`上运行，如果您正在开发的所有其他东西也在本地运行，这是一件好事，但是如果您在其他地方有服务器需要与该端点通信，您将会陷入困境。
 
@@ -45,7 +45,7 @@ $ ngrok http 8010
 
 这将打开端口，并给你一个使用的 URL。
 
-[![Ngrok output](../Images/a2822589e6e983c6d17fc8528758ef37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w5W6eTP_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/1d2T2m2S2n3z/Image%25202018-06-20%2520at%25205.06.07%2520pm.png)
+[![Ngrok output](img/a2822589e6e983c6d17fc8528758ef37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w5W6eTP_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/1d2T2m2S2n3z/Image%25202018-06-20%2520at%25205.06.07%2520pm.png)
 
 这里我们可以看到 Ngrok 已经提供了公共的 HTTP 和 HTTPS URL。我们现在可以使用这些来访问我们的本地云功能，只需将`http://localhost:8010`替换为`http://95d039f9.ngrok.io`(您的 URL 会有所不同)。
 

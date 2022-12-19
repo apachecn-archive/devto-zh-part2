@@ -20,7 +20,7 @@
 
 # 绩效预算
 
-[![Piggy bank](../Images/ba8110c057e0fe924195b90b1cdc2404.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JBzQHhvp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qtnjhz8edklff2hj063o.jpg)
+[![Piggy bank](img/ba8110c057e0fe924195b90b1cdc2404.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JBzQHhvp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qtnjhz8edklff2hj063o.jpg)
 
 [绩效预算](https://speedcurve.com/blog/performance-budgets-in-action/)是以结构化的方式进行这种对话的好方法。关键步骤是:
 
@@ -42,7 +42,7 @@
 
 ## 选择一个极限
 
-[![A picture of a speed limit sign](../Images/b82db2fda376186464258dcd4c25c159.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RCMyByyF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kcpk1xtssgrn8iaikqc3.png)
+[![A picture of a speed limit sign](img/b82db2fda376186464258dcd4c25c159.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RCMyByyF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kcpk1xtssgrn8iaikqc3.png)
 
 为限制选择一个精确的数字是困难的，但是要记住以下几点:
 
@@ -64,7 +64,7 @@
 
 # Apdex
 
-[![Apdex logo](../Images/510686fff5c2276686d6389b578a9d9b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6L5FQsm1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7l5kexqiuxhl7bbqirln.jpg)
+[![Apdex logo](img/510686fff5c2276686d6389b578a9d9b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6L5FQsm1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7l5kexqiuxhl7bbqirln.jpg)
 
 Apdex 是另一个有用的“元指标”,可用于保护您的绩效并对其进行高水平的衡量。
 

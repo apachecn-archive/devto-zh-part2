@@ -6,7 +6,7 @@
 
 > [T0】 Solr is a popular, high-speed and open-source enterprise search platform based on Apache Lucene (Solr website).
 
-[![](../Images/4c2724ed090e4b947a42ec40dc140a4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J3FjuCPe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/stwapm3402hoqq5vt10b.png)
+[![](img/4c2724ed090e4b947a42ec40dc140a4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J3FjuCPe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/stwapm3402hoqq5vt10b.png)
 
 ## 目标
 
@@ -250,11 +250,11 @@ Enter fullscreen mode Exit fullscreen mode
 *   重新配置模式后，[确保删除索引中的所有文档，并从数据库中进行全新的完全导入。这可以在管理用户界面中完成。](https://www.google.com/search?rls=com.microsoft%3Aen-US%3A%7Breferrer%3Asource%3F%7D&rlz=1I7TSNF&ei=ohjaWuuHIKWG5wKm7peoCA&q=delete+all+docs+solr&oq=delete+all+docs+solr&gs_l=psy-ab.3..0.2373.2778.0.2996.4.4.0.0.0.0.81.299.4.4.0....0...1c.1.64.psy-ab..0.4.298...0i7i30k1j0i8i7i30k1j0i13i30k1.0.RCVeecp6NmU)
 *   如果需要调试数据库导入，请使用带有详细输出的调试模式。
 
-[![Solr Admin UI](../Images/725184b297ccb3a030e2587ca4b6ad47.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1PSL9_pE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/87cxvsrmhb6z91soxbpm.png)
+[![Solr Admin UI](img/725184b297ccb3a030e2587ca4b6ad47.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1PSL9_pE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/87cxvsrmhb6z91soxbpm.png)
 
 ## 进一步阅读
 
-[![Relevant Search Book](../Images/d5a4937fe6aa55143b938a8bd650e5bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d-icxfmN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qgtxlxqpp38fnrnrefa6.jpg)
+[![Relevant Search Book](img/d5a4937fe6aa55143b938a8bd650e5bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d-icxfmN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qgtxlxqpp38fnrnrefa6.jpg)
 
 道格·特恩布尔和约翰·贝里曼的相关搜索
 

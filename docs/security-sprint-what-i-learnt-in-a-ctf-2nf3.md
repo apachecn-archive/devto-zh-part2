@@ -4,7 +4,7 @@
 
 对于那些不了解安全相关俚语的人来说， **Catch The Flag** 是一个在线黑客游戏，它包括入侵 stego、web、network 等，以便获得密码(flags)并在其他参赛者之前抓住它们。因此，在三天的时间里，我和一个主要致力于网络和法医学研究的团队玩了一次由我的大学组织的游戏。我不会在这里解释所有的过程，但我想指出我使用的所有工具(其中大部分对我来说是全新的)来解决问题。
 
-[![](../Images/771a73939b79cec8a86d1a3424272d8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P0sd_Bes--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://images.duckduckgo.com/iu/%3Fu%3Dhttps%253A%252F%252Fmedia.giphy.com%252Fmedia%252F3o72F1tCu4fOqwMUk8%252Fgiphy.gif%26f%3D1)
+[![](img/771a73939b79cec8a86d1a3424272d8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P0sd_Bes--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://images.duckduckgo.com/iu/%3Fu%3Dhttps%253A%252F%252Fmedia.giphy.com%252Fmedia%252F3o72F1tCu4fOqwMUk8%252Fgiphy.gif%26f%3D1)
 
 *   我已经[写过关于这个工具的文章](https://dev.to/terceranexus6/security-sprint-week-2---choosing-a-nice-point-to-sniff-and-using-tcpdump-for-packet-analysis--e9)，但是我发现这次它也非常有用。这是一个网络扫描和处理工具，它允许我在网络中找到一个奇怪的文件，它实际上包含了*标志*。当其他工具被系统屏蔽时，这个工具保留了下来。耶！它也是 linux 中的命令行工具，灵活且为数不多。
 

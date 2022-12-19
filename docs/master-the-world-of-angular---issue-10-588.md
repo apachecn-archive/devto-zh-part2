@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jexiacom/master-the-world-of-angular---issue-10-588>
 
-[![](../Images/7da6e131c37682c00f8b74ce95ce95d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SpDsb0ee--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/75k5zgzcqjmsewgcm42i.jpg)
+[![](img/7da6e131c37682c00f8b74ce95ce95d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SpDsb0ee--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/75k5zgzcqjmsewgcm42i.jpg)
 
 每周[安德烈·库森科](https://medium.com/@andr.donetsk)7 月 15 日[免费加入](https://www.getrevue.co/profile/jexiacom)或添加[时事通讯 rss](http://fetchrss.com/rss/5b27d6348a93f858388b4567467227328.xml)
 

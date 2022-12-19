@@ -4,7 +4,7 @@
 
 Vue。JS 是一个用于设计新用户界面的渐进式 Javascript 框架。与其他 Javascript 框架不同，Vue。JS 是从底层开始开发的，并逐渐被采用。核心库被设计为只关注视图层，并且很容易与其他库和现有项目集成。另外，Vue。当与支持库和现代工具结合使用时，JS 完全能够支持复杂的单页面应用程序。
 
-[![Vuejs Development](../Images/3a5674376283a6a5ea20fffd232bc235.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7EfWO-Z6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/96nh330t7q5q2bjxcg6l.jpg)
+[![Vuejs Development](img/3a5674376283a6a5ea20fffd232bc235.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7EfWO-Z6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/96nh330t7q5q2bjxcg6l.jpg)
 
 根据 W3Tech.com 的说法。JS 目前为 0.2%运行在 Javascript 框架上的网站提供支持。
 
@@ -26,7 +26,7 @@ Here are the top Vuejs development companies in India:
 
 [JSGuru](https://www.jsguru.io/?utm_source=dev.to&utm_medium=vue.js%20%2F%20ankitkapoor) (顶级 Vuejs 开发公司)
 
-[![JSGuru](../Images/43962a919de569e09b9aaaba1882970e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zvJfQcqX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8d7lx252nu9zzdwovy9l.png)
+[![JSGuru](img/43962a919de569e09b9aaaba1882970e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zvJfQcqX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8d7lx252nu9zzdwovy9l.png)
 
 定价:< $25/hr
 地点:美国
@@ -39,7 +39,7 @@ JSGuru 在美国、波斯尼亚和黑塞哥维那以及维也纳设有办事处�
 
 [Netguru](https://www.netguru.co/services/vue-js?utm_source=dev.to&utm_medium=vue.js%20%2F%20ankitkapoor) (顶级 Vuejs 开发公司之一)
 
-[![Netguru](../Images/622a101447bce942b53d9dc3091930ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VBVJTBZA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/45ubixlsz6x1rrjyzrtj.png)
+[![Netguru](img/622a101447bce942b53d9dc3091930ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VBVJTBZA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/45ubixlsz6x1rrjyzrtj.png)
 
 定价:< $100/hr
 地点:波兰
@@ -52,7 +52,7 @@ Netguru 提供的 Vuejs 服务有 Vuejs app 开发、Vuejs API 开发、Vuejs �
 
 [PixelCrayons](https://www.pixelcrayons.com/javascript-development/vuejs-development-services?utm_source=dev.to&utm_medium=vue.js%20%2F%20ankitkapoor) (最好的 Vuejs 开发公司之一)
 
-[![pixelcrayons](../Images/c4d900836c60be2624e892a638ca742a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pxhGdeo4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/44wq2eat3iqhjkc81p4o.png)
+[![pixelcrayons](img/c4d900836c60be2624e892a638ca742a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pxhGdeo4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/44wq2eat3iqhjkc81p4o.png)
 
 定价:< $25/hr
 地点:印度
@@ -67,7 +67,7 @@ PixelCrayons 是印度最好的 Vuejs 开发公司之一。PixelCrayons 提供�
 
 [估价师](https://www.valuecoders.com/hire-developers/hire-vuejs-developers?utm_source=dev.to&utm_medium=vue.js%20%2F%20ankitkapoor)(印度最好的 Vuejs 开发公司)
 
-[![ValueCoders](../Images/9c468d5f1b6e135175dea827b2df9a18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wHuaVImO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bsvnf982r8yib2oy3pef.png)
+[![ValueCoders](img/9c468d5f1b6e135175dea827b2df9a18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wHuaVImO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bsvnf982r8yib2oy3pef.png)
 
 定价:< $25/hr
 地点:印度
@@ -80,7 +80,7 @@ ValueCoders 还为从大型企业到初创企业的广泛行业提供快速应�
 
 [Spire Digital](https://www.spiredigital.com/services/?utm_source=dev.to&utm_medium=vue.js%20%2F%20ankitkapoor) (顶级 Vuejs 应用开发公司)
 
-[![Spiredigital](../Images/05d414160edf0bcc59e85b4bf613103d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZSqQy_3t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rk1yfkxukcdmie6hq3sn.png)
+[![Spiredigital](img/05d414160edf0bcc59e85b4bf613103d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZSqQy_3t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rk1yfkxukcdmie6hq3sn.png)
 
 定价:< $150/hr
 地点:美国

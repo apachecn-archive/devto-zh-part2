@@ -36,7 +36,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 然后你可以进入实时预览页面[http://localhost:4444/grid/admin/Live](http://localhost:4444/grid/admin/live)，发现 2 台机器正在运行。
 
-[![Live Preview](../Images/3d3a184269ddfd3eada4e7d0f17fdd8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4I05sgR2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yzahzecr9idpsdsuxic9.png)
+[![Live Preview](img/3d3a184269ddfd3eada4e7d0f17fdd8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4I05sgR2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yzahzecr9idpsdsuxic9.png)
 
 ### 运行测试
 
@@ -96,7 +96,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 然后，您可以看到测试在实时预览页面上执行。
 
-[![Live Preview](../Images/aa3888ae1fa26e6c6c1d64ffbd21d344.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--igTrEtBb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3sjj8eqddbfqp25q7ts5.png)
+[![Live Preview](img/aa3888ae1fa26e6c6c1d64ffbd21d344.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--igTrEtBb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3sjj8eqddbfqp25q7ts5.png)
 
 如此简单！！
 
@@ -112,13 +112,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 然后，8 台机器开始测试！测试结束后，它会自动关闭容器。
 
-[![Live Preview3](../Images/e56980983feda7e5eb41728ddfc2c307.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DBkkDSM---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4mnjn4erdt7wsduq7tw7.png)
+[![Live Preview3](img/e56980983feda7e5eb41728ddfc2c307.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DBkkDSM---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4mnjn4erdt7wsduq7tw7.png)
 
 ## 3)并提供测试的视频记录
 
 默认情况下，所有的测试都会被记录下来。我们可以在[上查看](http://localhost:4444/dashboard/#)
 
-[![Recorded Video](../Images/bc68668a7f298853966e306466628d65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7-NE4ZNn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/odim68hse2g8fxvtfy14.png)
+[![Recorded Video](img/bc68668a7f298853966e306466628d65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7-NE4ZNn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/odim68hse2g8fxvtfy14.png)
 
 ## 配置选项
 
@@ -141,7 +141,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这一次，我们可以看到 FireFox 使用了 1280x720 和 Asiz/东京时区。
 
-[![Live Preview4](../Images/7306cf5a97b2d51b32f0961bc82fe62c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T5Uzowky--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7krp9rt8w3sjkh6wy1b7.png)
+[![Live Preview4](img/7306cf5a97b2d51b32f0961bc82fe62c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T5Uzowky--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7krp9rt8w3sjkh6wy1b7.png)
 
 ## 还有更！
 

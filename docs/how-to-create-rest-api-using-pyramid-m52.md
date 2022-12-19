@@ -8,7 +8,7 @@
 
 来自 Mozilla 的库 Cornice 使得用 pyramid 开发 RESTful web 服务变得容易。
 
-[![Alt text of image](../Images/e590f195dd055c42eaacede392f12b96.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qGOvrmfS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.com/images/rest_api_using_pyramid.jpg)
+[![Alt text of image](img/e590f195dd055c42eaacede392f12b96.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qGOvrmfS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.cimg/rest_api_using_pyramid.jpg)
 
 ## 安装
 

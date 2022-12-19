@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/brightdevs/my-motives-for-mvvm--flowcontrollers-path-1im5>
 
-[![Header](../Images/f103698532513e2a7793cf6f089087a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RtauXh4O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9da7d7394bxh32nplqz6.jpeg)
+[![Header](img/f103698532513e2a7793cf6f089087a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RtauXh4O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9da7d7394bxh32nplqz6.jpeg)
 
 构建 iOS 应用程序有许多不同的方法。MVC(模型视图控制器)、MVP(模型视图呈现器)、MVVM(模型视图视图模型)、VIPER(视图交互器呈现器实体路由)、Redux...当然，你还可以举出许多其他的例子。我写 iOS 应用程序已经有一段时间了，我注意到 MVVM +流量控制器的方法对我来说非常有效。在这篇文章中，我想重点谈谈“为什么？”我用它来代替其他方法和“如何？”我在应用程序中使用它。
 

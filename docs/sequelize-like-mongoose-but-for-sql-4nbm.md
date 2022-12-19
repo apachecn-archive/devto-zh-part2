@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/paigen11/sequelize-like-mongoose-but-for-sql-4nbm>
 
-[![Sequelize logo](../Images/8005c5c8a570ac8fbe339b3bdb57c8a1.png "Sequelize logo")T2】](///static/5390b874f7b1f0f3202e068cd1ce4848/772e8/sequelize.png)
+[![Sequelize logo](img/8005c5c8a570ac8fbe339b3bdb57c8a1.png "Sequelize logo")T2】](///static/5390b874f7b1f0f3202e068cd1ce4848/772e8/sequelize.png)
 
 ## 简介
 

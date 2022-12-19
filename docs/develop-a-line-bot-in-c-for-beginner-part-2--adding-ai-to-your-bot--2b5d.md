@@ -25,21 +25,21 @@ LUIS 是微软认知服务之一，它可以将自然语言解析成
 
 3.首先，添加一个实体。实体是你想从句子中提取的关键字。单击左侧的实体，然后单击创建新实体。
 
-[![image](../Images/fd9d96e699454ba57b06e66b4865a069.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YiVzoCIL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5401ys3zuho5xy373lhp.PNG)
+[![image](img/fd9d96e699454ba57b06e66b4865a069.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YiVzoCIL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5401ys3zuho5xy373lhp.PNG)
 
 4.将菜单设置为名称，并键入 Simple。
 
-[![image](../Images/09c756a2373e7aa9f53e766d832082f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8zcXYeeB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/565a5bjz5tam49nxr039.PNG)
+[![image](img/09c756a2373e7aa9f53e766d832082f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8zcXYeeB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/565a5bjz5tam49nxr039.PNG)
 
 5.接下来，添加一个意图。意图是整个句子的意思。点击左侧菜单中的意向，然后点击“创建新意向”。命名为“秩序”。
 
 6.现在，你需要至少 5 个例句。输入“我想要一个奶酪汉堡”，然后点击回车。然后选择“奶酪汉堡”并将其设置为菜单实体。要做到这一点，首先左键单击“奶酪”，然后我们你会看到上下文菜单弹出，移动鼠标到右边的“buger”，再次左键单击，然后单击“菜单”。
 
-[![image](../Images/3df42b2b171e3af427159691390d9efb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1DlyKtKy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yrwpfw5rnccnxpsigrav.PNG)
+[![image](img/3df42b2b171e3af427159691390d9efb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1DlyKtKy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yrwpfw5rnccnxpsigrav.PNG)
 
 7.“芝士汉堡”转化为“菜单”。
 
-[![image](../Images/c95e673b3c194618df53faae1b52f4e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xf73IFBp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ipbjmtoys0td0gepbv1d.PNG)
+[![image](img/c95e673b3c194618df53faae1b52f4e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xf73IFBp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ipbjmtoys0td0gepbv1d.PNG)
 
 8.至少再输入四个类似的话语。
 
@@ -55,7 +55,7 @@ LUIS 是微软认知服务之一，它可以将自然语言解析成
 
 1.训练完成后，选择顶部的“发布”菜单。
 
-[![image](../Images/3db9dd7610f85eb408777e564c1e58fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8X1XG_hE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kxly2avbi0eyw20g8ecq.PNG)
+[![image](img/3db9dd7610f85eb408777e564c1e58fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8X1XG_hE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kxly2avbi0eyw20g8ecq.PNG)
 
 2.单击“发布到生产插槽”以发布它。
 
@@ -127,15 +127,15 @@ Enter fullscreen mode Exit fullscreen mode
 
 6.获取 luisResult 后放置断点，并按 F5 开始调试。
 
-[![image](../Images/016258c1af0477dba7e260b1481bddfd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LHYVXWC_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/op3bw7zsiqkxggw9hmd8.PNG)
+[![image](img/016258c1af0477dba7e260b1481bddfd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LHYVXWC_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/op3bw7zsiqkxggw9hmd8.PNG)
 
 7.从模拟器发送问候。一旦断点命中，则确认 luisResult 的数据。
 
-[![image](../Images/56d9464de65ca8d537b3329d8de4b9d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZHQ1yZfk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3lk8dw6m2tv334ggyvsq.PNG)
+[![image](img/56d9464de65ca8d537b3329d8de4b9d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZHQ1yZfk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3lk8dw6m2tv334ggyvsq.PNG)
 
 8.发送“请来一个奶酪汉堡”并确认它被归类为“订单”并且菜单包含“奶酪汉堡”。
 
-[![image](../Images/a5956529b6fea3d79f85cd985239d84a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--puXPxbyh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8g52b54mie3bfvdp2bbw.PNG)
+[![image](img/a5956529b6fea3d79f85cd985239d84a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--puXPxbyh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8g52b54mie3bfvdp2bbw.PNG)
 
 # 改善谈话流程
 
@@ -147,11 +147,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 3.然后“创建新实体”。这一次，选择“列表”类型。
 
-[![image](../Images/8a420594b3cb0b5027563217e2a49c19.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6XLNJgrZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/smnr1kdcnv7rmxngvtaa.PNG)
+[![image](img/8a420594b3cb0b5027563217e2a49c19.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6XLNJgrZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/smnr1kdcnv7rmxngvtaa.PNG)
 
 4.在列表中输入“奶酪汉堡”、“普通汉堡”、“蔬菜汉堡”、“神奇汉堡”。也可以添加同义词。
 
-[![image](../Images/3eb6d332e7a2a4988cd84a5af5dbe223.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PwQbAAAm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jw19ui1q19tjujw35xw7.PNG)
+[![image](img/3eb6d332e7a2a4988cd84a5af5dbe223.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PwQbAAAm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jw19ui1q19tjujw35xw7.PNG)
 
 5.点击训练按钮并重新学习。与简单类型不同，您不必指定在发音中要显示哪些单词。培训完成后，发布它。
 
@@ -197,7 +197,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 7.重启调试器，发送“我想点个汉堡”。你可以看到按钮模板被返回。
 
-[![image](../Images/2489bfffbd081860c5be1d97b7787113.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8631mHJX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wf3c4xyg8wjvmsf2ygiq.PNG)
+[![image](img/2489bfffbd081860c5be1d97b7787113.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8631mHJX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wf3c4xyg8wjvmsf2ygiq.PNG)
 
 8.接受订单部分看起来没问题。接下来让我们实现询问送货地址。但在这样做之前，我们需要编写一个代码来存储这个用户的订单，否则 bot 会忘记订单。有很多方法可以实现这一点，但是模板默认包含 Azure 存储集成，所以让我们使用它。在 Models 文件夹中添加 Order.cs。
 

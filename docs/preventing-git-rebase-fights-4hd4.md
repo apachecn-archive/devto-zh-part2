@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/atlassian/preventing-git-rebase-fights-4hd4>
 
-[![](../Images/147844f3acb0e7ccaf6360f57d681fef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mPNeajhW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ACWQi11d0x2x15gGyowtA4Q.jpeg)
+[![](img/147844f3acb0e7ccaf6360f57d681fef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mPNeajhW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ACWQi11d0x2x15gGyowtA4Q.jpeg)
 
 ### 什么是 Git Rebase 战斗？
 
@@ -10,15 +10,15 @@
 
 1.  你去合并你的 PR(拉式请求)，但是 PR 说在你能合并之前它必须被重新设定基数。
 
-[![](../Images/db134aad3ca577991517efcf1eb5e0ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZEUb2TFO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/667/0%2A81bGI8nqBr3mF3Gn.png)
+[![](img/db134aad3ca577991517efcf1eb5e0ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZEUb2TFO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/667/0%2A81bGI8nqBr3mF3Gn.png)
 
 1.  你改变它的基础，开始一个新的构建。但是构建必须在允许合并之前完成。
 
-[![](../Images/d4168314500e10b18babb97d96dd0408.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g2fS6RhJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/667/0%2AASYWGCcux35sILLW.png)
+[![](img/d4168314500e10b18babb97d96dd0408.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g2fS6RhJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/667/0%2AASYWGCcux35sILLW.png)
 
 1.  构建完成！耶！但是当你在等待的时候，其他人设法合并了他们的公关，用他们的工作更新了 T2 的起源/主人。啊哦！
 
-[![](../Images/243e026bea305a1f0e2ee7b4c6e9456d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LhNNxQ5H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/667/0%2Ai-nHPN2YrkcLSLzE.png)
+[![](img/243e026bea305a1f0e2ee7b4c6e9456d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LhNNxQ5H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/667/0%2Ai-nHPN2YrkcLSLzE.png)
 
 1.  你回到第一步，希望这次运气会好一些…
 
@@ -46,11 +46,11 @@
 
 如果你在 Bitbucket 服务器上，至少有一个这样的插件:[bit bucket 服务器的 PR-Booster](https://marketplace.atlassian.com/apps/1214545/pr-booster-for-bitbucket-server?hosting=server&tab=overview)。
 
-[![](../Images/519dc4bb93e109d40c82dcc1763a2edc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Sm7NUA8U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/806/0%2Aff0HI2d7KO69tpAe.png)
+[![](img/519dc4bb93e109d40c82dcc1763a2edc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Sm7NUA8U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/806/0%2Aff0HI2d7KO69tpAe.png)
 
 我不知道 Gitlab 或 Github 上有任何针对此问题的预烤解决方案。
 
-[![](../Images/df2f66ce9cb74dd12547545aa6c18673.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9vP7BJTY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/668/0%2ApBVV7hEgCxQaEo88.png)
+[![](img/df2f66ce9cb74dd12547545aa6c18673.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9vP7BJTY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/668/0%2ApBVV7hEgCxQaEo88.png)
 
 ### 什么原因导致 Git 返基大战？
 
@@ -77,7 +77,7 @@
 
 从视觉上看，它是这样的:
 
-[![](../Images/d01bcffe230a51f73931aa2c68bffa62.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JXY2i3RJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/568/0%2AxjCjjp-EAUJet2-1.png)
+[![](img/d01bcffe230a51f73931aa2c68bffa62.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JXY2i3RJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/568/0%2AxjCjjp-EAUJet2-1.png)
 
 这是因为*主*和*分支*的合并基础是提交 cc603d1，这是它们发生分歧之前的最后一次共同提交。因此“git diff*master*…*branch*”等同于“git diff cc603d1 ee7b565”。
 

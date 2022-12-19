@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/spboyer/open-source-tools-for-sql-server-on-linux-30kb>
 
-[![Open source tools for SQL Server on Linux](../Images/72d97d2a5ae12cb8d9334503e8a6f74a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H3qQp3bb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/content/images/2018/07/pablo--4-.png)
+[![Open source tools for SQL Server on Linux](img/72d97d2a5ae12cb8d9334503e8a6f74a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H3qQp3bb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/conteimg/2018/07/pablo--4-.png)
 
 我喜欢伟大的工具，如果它是开源的就更好了。
 
@@ -20,7 +20,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 介绍 [mssql-cli](https://github.com/dbcli/mssql-cli) ，一款全新的交互式跨平台 cli 工具。该工具为命令行带来了现代体验，包括语法突出显示、智能感知、多行模式、特殊命令和许多配置设置。与 sqlcmd 中的交互体验相比，这是一个巨大的升级。
 
-[![Open source tools for SQL Server on Linux](../Images/fa957dbd1293a095e3d378d7befba278.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jzt4PhYx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/dbcli/mssql-cli/raw/master/screenshots/mssql-cli-autocomplete.gif)
+[![Open source tools for SQL Server on Linux](img/fa957dbd1293a095e3d378d7befba278.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jzt4PhYx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/dbcli/mssql-cli/raw/master/screenshots/mssql-cli-autocomplete.gif)
 
 ### 添加到容器中
 
@@ -73,7 +73,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 启动时，会提示您输入用户名/密码。
 
-[![Open source tools for SQL Server on Linux](../Images/1d1afa5863b78d1d59d48f69e01702ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s9XQOIv3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/content/images/2018/07/Screen-Shot-2018-07-17-at-12.20.03-PM.png)
+[![Open source tools for SQL Server on Linux](img/1d1afa5863b78d1d59d48f69e01702ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s9XQOIv3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/conteimg/2018/07/Screen-Shot-2018-07-17-at-12.20.03-PM.png)
 
 ## SQL 操作工作室
 
@@ -88,10 +88,10 @@ SQL Operations Studio 从 VS 代码派生而来，使用了 VS 代码的许多�
 
 为了连接到 docker 容器，端口 1433 被映射到 **localhost:1433** 。因此， **localhost** 就是服务器。
 
-[![Open source tools for SQL Server on Linux](../Images/3001fc80b98e408eac2f3756f86fb5c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VFq4jPFv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/content/images/2018/07/Screen-Shot-2018-07-17-at-12.28.54-PM.png)
+[![Open source tools for SQL Server on Linux](img/3001fc80b98e408eac2f3756f86fb5c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VFq4jPFv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/conteimg/2018/07/Screen-Shot-2018-07-17-at-12.28.54-PM.png)
 
 SQL Ops Studio 除了运行查询之外，还有很多强大的功能。您也可以[构建出色的服务器和数据库管理仪表板](https://docs.microsoft.com/sql/sql-operations-studio/insight-widgets?view=sql-server-2017&WT.mc_id=opensource-devto-shboyer)。
 
-[![Open source tools for SQL Server on Linux](../Images/83d9b59e2ed2120d34b8f44eede1ced6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dB43jnRd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://docs.microsoft.com/en-us/sql/sql-operations-studio/media/insight-widgets/database-dashboard.png%3Fview%3Dsql-server-2017)
+[![Open source tools for SQL Server on Linux](img/83d9b59e2ed2120d34b8f44eede1ced6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dB43jnRd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://docs.microsoft.com/en-us/sql/sql-operations-studio/media/insight-widgets/database-dashboard.png%3Fview%3Dsql-server-2017)
 
 代码是开源的，试一试并提供反馈-[https://github.com/Microsoft/sqlopsstudio](https://github.com/Microsoft/sqlopsstudio)

@@ -10,7 +10,7 @@
 
 看看 GraphQL 网站上的这个例子，了解一下它是如何工作的。
 
-[![](../Images/203859f0f35807e4532e405dc3d19408.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--jLpGDPFX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6udeov2333yh7dkyem3c.gif) *请求(GraphQL 查询)在顶部，响应在底部*
+[![](img/203859f0f35807e4532e405dc3d19408.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--jLpGDPFX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6udeov2333yh7dkyem3c.gif) *请求(GraphQL 查询)在顶部，响应在底部*
 
 作为一个 API 提供者，GraphQL 允许您定义一个模式以及如何获取其中的资源。
 

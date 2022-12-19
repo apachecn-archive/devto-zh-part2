@@ -2,11 +2,11 @@
 
 > 原文：<https://dev.to/bauripalash/baby-steps-in-c-programming-55mb>
 
-[![.](../Images/9b052cb010875e144ac7b36a75a3f2dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BcL8O7bk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://palash.tk/assets/images/babysteps-c-prog.jpg)
+[![.](img/9b052cb010875e144ac7b36a75a3f2dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BcL8O7bk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://palash.tk/asseimg/babysteps-c-prog.jpg)
 
 C 语言是迄今为止最常用的编程语言之一。它是最强大的语言之一，是许多现代编程语言(如 Python、Ruby)的母亲
 
-[![](../Images/b9a18f708cda62f578f8f8620507d4d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dWwH4rJ4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media2.giphy.com/media/fnD9cHHIrYRYk/giphy.gif)
+[![](img/b9a18f708cda62f578f8f8620507d4d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dWwH4rJ4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media2.giphy.com/media/fnD9cHHIrYRYk/giphy.gif)
 
 🍭C 是一种编译语言，不像 [Python](https://python.org) 或者 [Ruby](https://www.ruby-lang.org/en/) ，C 程序必须从人类可读代码翻译成机器可读代码。
 
@@ -61,7 +61,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果一切正常，你会在控制台/终端看到一个 **Hello World** 文本
 
-[![](../Images/eae352cdd8f3211faff7e898aa72880d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qxQFeeOP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://2.bp.blogspot.com/-XZzF3zjKqLI/VHs78mMe7SI/AAAAAAAACHE/T4Vk3REwaaI/s1600/Hello_world.jpg)
+[![](img/eae352cdd8f3211faff7e898aa72880d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qxQFeeOP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://2.bp.blogspot.com/-XZzF3zjKqLI/VHs78mMe7SI/AAAAAAAACHE/T4Vk3REwaaI/s1600/Hello_world.jpg)
 
 如果有任何问题，请在下面的评论中告诉我👇
 

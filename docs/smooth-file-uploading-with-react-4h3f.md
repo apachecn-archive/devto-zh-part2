@@ -4,7 +4,7 @@
 
 **关于如何快速设置 FilePond React 适配器的教程**
 
-[![](../Images/2a13f1be0f1dbf4e19413386a5d32ee8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OeuBUGdA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AA66M6hR0oBaAqNoLqBXZ9A.jpeg)
+[![](img/2a13f1be0f1dbf4e19413386a5d32ee8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OeuBUGdA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AA66M6hR0oBaAqNoLqBXZ9A.jpeg)
 
 [FilePond](https://pqina.nl/filepond) 是一个比较新的 JavaScript 文件上传库。在本教程中，我们将建立一个新的 [React](https://reactjs.org) 应用程序，与 [FilePond React 适配器](https://github.com/pqina/react-filepond)组件集成，并建立一个到后端的连接，该后端将接收我们上传的文件。
 
@@ -88,13 +88,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 文件池拖放区现在应该显示在介绍文本的下面。它看起来会像这样:
 
-[![](../Images/da3253e2381b27b2f57eba01b01c8002.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--byiTdyht--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2AtMmUHba39VqaKbCyry9K8A.png)
+[![](img/da3253e2381b27b2f57eba01b01c8002.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--byiTdyht--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2AtMmUHba39VqaKbCyry9K8A.png)
 
 现在，我们可以开始按照自己的意愿配置 FilePond 了。
 
 默认情况下，FilePond 只接受一个文件，这是因为它增强了默认的 file input 元素并复制了它的标准行为。
 
-[![](../Images/21335b38b025e7451cc448eed38c85be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bS78kTgx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2A27IG4zyokQcRTxh2zU6YWg.gif)
+[![](img/21335b38b025e7451cc448eed38c85be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bS78kTgx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2A27IG4zyokQcRTxh2zU6YWg.gif)
 
 要启用多文件模式，让我们添加`allowMultiple`属性。
 
@@ -106,7 +106,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 放下一个文件夹或选择多个文件来查看它的运行。
 
-[![](../Images/25d1cce70ca139e99f2ae4b41df9a48f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kuqW4QX0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2AEQ3uuEJ4nwtsBH5-5GYGYA.gif)
+[![](img/25d1cce70ca139e99f2ae4b41df9a48f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kuqW4QX0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2AEQ3uuEJ4nwtsBH5-5GYGYA.gif)
 
 就像经典的文件输入一样，文件被加载到 FilePond，但不做任何其他事情，它们只是呆在那里。我们很可能希望将它们发送到我们的后端。我们将通过为 FilePond 提供服务器属性来实现这一点。
 
@@ -120,7 +120,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 配置好服务器位置后，FilePond 会自动将拖放的文件发布到提供的 URL。
 
-[![](../Images/196de204436b91abad8c65a04d09e679.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RB4p6huM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2A8tN-yfQKQPkkHfM07T5NQg.gif)
+[![](img/196de204436b91abad8c65a04d09e679.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RB4p6huM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2A8tN-yfQKQPkkHfM07T5NQg.gif)
 
 默认的文件池服务器调用在[服务器配置文档](https://pqina.nl/filepond/docs/patterns/api/server/)中有描述。属性的每一个微小细节都可以被微调，这使得 FilePond 基本上可以与任何远程或本地文件存储解决方案集成。
 
@@ -155,7 +155,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 搞定了。让我们重新启动应用程序，并删除一个图像。
 
-[![](../Images/02434c390875df450ba31533ebeaafc1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_EGElTS7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2AmwkOVJH-HlWwIMYa6xkRHw.gif)
+[![](img/02434c390875df450ba31533ebeaafc1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_EGElTS7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2AmwkOVJH-HlWwIMYa6xkRHw.gif)
 
 这就是用 FilePond 上传文件的基础。
 

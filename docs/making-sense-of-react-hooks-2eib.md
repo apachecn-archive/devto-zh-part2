@@ -24,9 +24,9 @@
 
 我们认为 Hooks 是解决所有这些问题的最佳选择。**钩子让我们将组件内部的逻辑*组织成可重用的隔离单元:***
 
-> ![unknown tweet media content](../Images/2e0c4edf646df4350118be4be083c75a.png)![Sunil Pai profile image](../Images/a31448fc6bf24085d4d58df848142883.png)Sunil Pai[@ three pointone](https://dev.to/threepointone)![twitter logo](../Images/65e26e35707d96169ec8af6b3cbf2003.png)好了，我从 react conf 中取出了丹的职业/钩子代码，涂黑了“不必要的”位，然后用“关注”对这些位进行了颜色编码。好多了。这种影响在更复杂的组件中被放大，在这些组件中，关注点在生命周期方法中被分割和混合。2018 年 10 月 28 日下午 17:11[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1056594421079261185)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1056594421079261185)320[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1056594421079261185)1182
+> ![unknown tweet media content](img/2e0c4edf646df4350118be4be083c75a.png)![Sunil Pai profile image](img/a31448fc6bf24085d4d58df848142883.png)Sunil Pai[@ three pointone](https://dev.to/threepointone)![twitter logo](img/65e26e35707d96169ec8af6b3cbf2003.png)好了，我从 react conf 中取出了丹的职业/钩子代码，涂黑了“不必要的”位，然后用“关注”对这些位进行了颜色编码。好多了。这种影响在更复杂的组件中被放大，在这些组件中，关注点在生命周期方法中被分割和混合。2018 年 10 月 28 日下午 17:11[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1056594421079261185)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1056594421079261185)320[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1056594421079261185)1182
 
-> ![unknown tweet media content](../Images/505e46cc0169c71bcdd6e5ebfbb82635.png)![Play butt](../Images/980e9fb12d58fa9423fc94c33003fc4f.png)<video loop="" controls=""><source src="https://video.twimg.com/tweet_video/DqsCilOU0AAoS7P.mp4" type="video/mp4"></video>![Pavel Prichodko profile image](../Images/11f7a7cb34d58ba6c457a32b00e4b841.png)Pavel prichodk[【prchdk】](https://dev.to/prchdk)![twitter logo](../Images/65e26e35707d96169ec8af6b3cbf2003.png)从 [#ReactConf2018](https://twitter.com/hashtag/ReactConf2018) 中取出 [@dan_abramov](https://twitter.com/dan_abramov) 的代码并将其可视化，以便您可以看到2018 年 10 月 29 日下午 17:26[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1056960391543062528)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1056960391543062528)386[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1056960391543062528)1272
+> ![unknown tweet media content](img/505e46cc0169c71bcdd6e5ebfbb82635.png)![Play butt](img/980e9fb12d58fa9423fc94c33003fc4f.png)<video loop="" controls=""><source src="https://video.twimg.com/tweet_video/DqsCilOU0AAoS7P.mp4" type="video/mp4"></video>![Pavel Prichodko profile image](img/11f7a7cb34d58ba6c457a32b00e4b841.png)Pavel prichodk[【prchdk】](https://dev.to/prchdk)![twitter logo](img/65e26e35707d96169ec8af6b3cbf2003.png)从 [#ReactConf2018](https://twitter.com/hashtag/ReactConf2018) 中取出 [@dan_abramov](https://twitter.com/dan_abramov) 的代码并将其可视化，以便您可以看到2018 年 10 月 29 日下午 17:26[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1056960391543062528)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1056960391543062528)386[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1056960391543062528)1272
 
 **钩子在一个组件内部*应用 React 哲学(显式数据流和组合)，而不仅仅是在*组件之间*。***这就是为什么我觉得钩子非常适合 React 组件模型。
 
@@ -42,7 +42,7 @@
 
 就实现大小而言，钩子支持增加的 React 只有大约 1.5kB (min+gzip)。虽然这并不多，但是采用钩子也有可能减少你的包的大小，因为使用钩子的代码比使用类的代码更容易缩小。下面的例子有点极端，但它有效地证明了为什么(点击查看整个线程):
 
-> ![unknown tweet media content](../Images/1a6d832240cfc90cb671e2308665aa31.png)![BOOlean 👻🐶🏳️‍🌈 profile image](../Images/5f34ee3e55c667f3ddb9c58276c592cf.png)布尔👻🐶🏳️‍🌈[@ Jamie builds](https://dev.to/jamiebuilds)![twitter logo](../Images/65e26e35707d96169ec8af6b3cbf2003.png)我们也来比较一下这些 minify 有多好:2018 年 10 月 27 日上午 02:51[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1056015484364087297)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1056015484364087297)53[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1056015484364087297)352
+> ![unknown tweet media content](img/1a6d832240cfc90cb671e2308665aa31.png)![BOOlean 👻🐶🏳️‍🌈 profile image](img/5f34ee3e55c667f3ddb9c58276c592cf.png)布尔👻🐶🏳️‍🌈[@ Jamie builds](https://dev.to/jamiebuilds)![twitter logo](img/65e26e35707d96169ec8af6b3cbf2003.png)我们也来比较一下这些 minify 有多好:2018 年 10 月 27 日上午 02:51[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1056015484364087297)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1056015484364087297)53[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1056015484364087297)352
 
 Hooks 的提议不包括任何突破性的改变。即使你在新编写的组件中采用了钩子，你现有的代码也会继续工作。事实上，这正是我们建议的——不要做任何大的重写！在任何关键代码中采用钩子都是一个好主意。尽管如此，如果你能对 16.7 alpha 进行实验，向我们提供关于[钩子提议](https://github.com/reactjs/rfcs/pull/68)和[报告任何错误](https://github.com/facebook/react/issues/new)的反馈，我们将不胜感激。
 
@@ -58,7 +58,7 @@ Hooks 的提议不包括任何突破性的改变。即使你在新编写的组�
 
 由于钩子是常规的 JavaScript 函数，你可以将 React 提供的内置钩子组合成你自己的“自定义钩子”。这使您可以将复杂的问题转化为一行程序，并在您的应用程序之间或与 React 社区共享它们:
 
-> ![Laurie Voss profile image](../Images/b2c6b8615fb33371b900846f231881f4.png)劳里·沃斯@谢多![twitter logo](../Images/65e26e35707d96169ec8af6b3cbf2003.png)“你可以用 npm 安装比以前更大比例的应用程序代码”，我认为这将是 Hooks 的一个重要卖点。2018 年 10 月 29 日 22 点 05 分[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1057030727512911874)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1057030727512911874)2[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1057030727512911874)23
+> ![Laurie Voss profile image](img/b2c6b8615fb33371b900846f231881f4.png)劳里·沃斯@谢多![twitter logo](img/65e26e35707d96169ec8af6b3cbf2003.png)“你可以用 npm 安装比以前更大比例的应用程序代码”，我认为这将是 Hooks 的一个重要卖点。2018 年 10 月 29 日 22 点 05 分[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1057030727512911874)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1057030727512911874)2[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1057030727512911874)23
 
 请注意，从技术上讲，自定义挂钩不是 React 特性。编写自己的钩子的可能性自然来自钩子的设计方式。
 
@@ -68,7 +68,7 @@ Hooks 的提议不包括任何突破性的改变。即使你在新编写的组�
 
 现在有几种方法可以编写这种代码。它们涉及编写一个类，设置一些生命周期方法，或者甚至可能提取一个渲染道具或一个更高阶的组件，如果你想在组件之间重用它的话。但是我认为没有什么比这个更好的了:
 
-<figure>[![](../Images/8ecac79d450ffe7ce76191e1534a133a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--D68Dgqh6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1010/1%2Aj8U3U0nZvmEKJrSOK7iH5g.png)
+<figure>[![](img/8ecac79d450ffe7ce76191e1534a133a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--D68Dgqh6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1010/1%2Aj8U3U0nZvmEKJrSOK7iH5g.png)
 
 <figcaption>[https://gist . github . com/gae Aron/cb5 add 26336003 ed8c 0004 C4 ba 820 EAE](https://gist.github.com/gaearon/cb5add26336003ed8c0004c4ba820eae)</figcaption>
 
@@ -78,7 +78,7 @@ Hooks 的提议不包括任何突破性的改变。即使你在新编写的组�
 
 让我们看看如何实现这个定制钩子。我们将*使用 React 本地状态*来保持当前的窗口宽度，并且*使用一个副作用*来设置当窗口调整大小时的状态:
 
-<figure>[![](../Images/bee824446171203c001199627bd645ed.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uK5507Ix--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A9QhpwSGTKM-c8sc4UNcxqA.png)
+<figure>[![](img/bee824446171203c001199627bd645ed.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uK5507Ix--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A9QhpwSGTKM-c8sc4UNcxqA.png)
 
 <figcaption>[https://gist . github . com/gae Aron/cb5 add 26336003 ed8c 0004 C4 ba 820 EAE](https://gist.github.com/gaearon/cb5add26336003ed8c0004c4ba820eae)</figcaption>
 
@@ -98,7 +98,7 @@ Hooks 的提议不包括任何突破性的改变。即使你在新编写的组�
 
 请注意在演示源代码中，交错的动画是如何通过在同一个渲染函数中的几个自定义钩子传递值来实现的。
 
-<figure>[![](../Images/e42b0dafdd82ac2426e05ca97a6abaa3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DmFM93-o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ANJ2G1R_32k95WiPel5JHpg.png)
+<figure>[![](img/e42b0dafdd82ac2426e05ca97a6abaa3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DmFM93-o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ANJ2G1R_32k95WiPel5JHpg.png)
 
 <figcaption></figcaption>
 
@@ -128,7 +128,7 @@ Hooks 的提议不包括任何突破性的改变。即使你在新编写的组�
 
 注意，钩子的实现也没有什么“魔力”。正如杰米[指出的](https://mobile.twitter.com/jamiebuilds/status/1055538414538223616)，它看起来非常类似于这个:
 
-<figure>[![](../Images/106fe2234a03835033bd91716c942a06.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rSSObFNs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AxNeUnpwUvFMuQu9Zr6A3AA.jpeg)
+<figure>[![](img/106fe2234a03835033bd91716c942a06.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rSSObFNs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AxNeUnpwUvFMuQu9Zr6A3AA.jpeg)
 
 <figcaption>[https://gist . github . com/gae Aron/62866046 e 396 F4 de 9 b 4827 EAE 861 ff 19](https://gist.github.com/gaearon/62866046e396f4de9b4827eae861ff19)</figcaption>
 

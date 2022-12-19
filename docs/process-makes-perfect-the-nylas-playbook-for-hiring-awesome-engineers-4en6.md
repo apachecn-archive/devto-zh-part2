@@ -59,4 +59,4 @@
 
 由托马兹·芬奇和塞丽娜·马尔卡尼合著
 
-[![](../Images/4297d5b89f621f58a95c9946ed354dae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XDnzQwZG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://track.hubspot.com/__ptq.gif%3Fa%3D3314308%26k%3D14%26r%3Dhttps%253A%252F%252Fwww.nylas.com%252Fblog%252Fprocess-makes-perfect-the-nylas-playbook-for-hiring-awesome-engineers%26bu%3Dhttps%25253A%25252F%25252Fwww.nylas.com%25252Fblog%26bvt%3Drss)</u>
+[![](img/4297d5b89f621f58a95c9946ed354dae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XDnzQwZG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://track.hubspot.com/__ptq.gif%3Fa%3D3314308%26k%3D14%26r%3Dhttps%253A%252F%252Fwww.nylas.com%252Fblog%252Fprocess-makes-perfect-the-nylas-playbook-for-hiring-awesome-engineers%26bu%3Dhttps%25253A%25252F%25252Fwww.nylas.com%25252Fblog%26bvt%3Drss)</u>

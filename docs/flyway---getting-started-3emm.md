@@ -322,7 +322,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 [根据官方 Flyway 文档](https://flywaydb.org/documentation/migrations#naming)，文件名由以下部分组成:
 
-[![flyway-naming-convention](../Images/f999088f176e514391fd4720dcfa6768.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bxp5E8GP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/40931818-bc78fb5a-682c-11e8-90ce-cb9f8d0e8c95.png)
+[![flyway-naming-convention](img/f999088f176e514391fd4720dcfa6768.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bxp5E8GP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/40931818-bc78fb5a-682c-11e8-90ce-cb9f8d0e8c95.png)
 
 *   **前缀:** V 表示版本化迁移，U 表示撤消迁移，R 表示可重复迁移
 *   **Version:** 下划线(在运行时自动替换为点)分隔任意多的部分(不用于可重复的迁移)
@@ -351,7 +351,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您应该会看到类似以下输出的输出:
 
-[![flyway-migration-result](../Images/8f1090da9c94f573e45b8999e26a0c3c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E7lcPYnx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/40933249-2e5510b6-6831-11e8-8df5-526f6c191434.png)
+[![flyway-migration-result](img/8f1090da9c94f573e45b8999e26a0c3c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E7lcPYnx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/40933249-2e5510b6-6831-11e8-8df5-526f6c191434.png)
 
 从上面的输出可以看出，所有 7 次迁移都成功运行。
 
@@ -384,17 +384,17 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果您想知道 pgadmin 凭证来自哪里，您可以在 *docker-compose.yml* 文件中找到它们。它们作为环境变量传入。
 
-[![pgadmin-login](../Images/e945e082586756dabb1aa81e7f9a2a3c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xY9Rm8L2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/40934525-5ccbda3e-6835-11e8-8f6d-33efc5eea30c.png)
+[![pgadmin-login](img/e945e082586756dabb1aa81e7f9a2a3c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xY9Rm8L2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/40934525-5ccbda3e-6835-11e8-8f6d-33efc5eea30c.png)
 
 *   登录后，您可以通过添加如下连接来连接到 PostgreSQL 服务器:
 
-[![pgadmin-create-server-1](../Images/d8c25eb6b33aa4a82312fa1d3a8c2572.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4F4umsC8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/40934521-5bf26fec-6835-11e8-83dd-ea686c47be22.png)
+[![pgadmin-create-server-1](img/d8c25eb6b33aa4a82312fa1d3a8c2572.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4F4umsC8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/40934521-5bf26fec-6835-11e8-83dd-ea686c47be22.png)
 
-[![pgadmin-create-server-2](../Images/299f10ac58ce78e1ae8441c8c757264c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l1j2IUIx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/40934522-5c29c0b4-6835-11e8-8a9d-b1324f377011.png)
+[![pgadmin-create-server-2](img/299f10ac58ce78e1ae8441c8c757264c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l1j2IUIx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/40934522-5c29c0b4-6835-11e8-8a9d-b1324f377011.png)
 
 *   打开位于英雄数据库公共模式中的 *flyway_schema_history* 表。
 
-[![pgadmin-flyway-table](../Images/d12c1f4b851a5e7dabf4031e28aed406.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TxCX0bFu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/40934524-5c976d62-6835-11e8-9b51-892aa1493c8b.png)
+[![pgadmin-flyway-table](img/d12c1f4b851a5e7dabf4031e28aed406.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TxCX0bFu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/40934524-5c976d62-6835-11e8-9b51-892aa1493c8b.png)
 
 * * *
 

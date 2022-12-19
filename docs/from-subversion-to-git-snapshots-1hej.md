@@ -55,7 +55,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 下图显示了将压缩文件内容存储到 blob 对象以及生成 packfile 的简化说明。
 
-[![objects](../Images/b74e81ac0b5c3c75475ff773c7c44363.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tLyNAWPE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://steffen.ronalter.de/assets/objects.png)
+[![objects](img/b74e81ac0b5c3c75475ff773c7c44363.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tLyNAWPE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://steffen.ronalter.de/assets/objects.png)
 
 ## 结论
 

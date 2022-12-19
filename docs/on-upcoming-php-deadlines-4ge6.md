@@ -8,13 +8,13 @@
 
 差不多是时候了。“PHP 5.6”是最近的 5 个版本，从 2018 年 12 月起将不会有安全补丁。任何新的漏洞都不会再被修复。这同样适用于最初的 PHP 7 版本，7.0 版。2015 年 12 月发布。当前版本是 PHP 7.2，下一个版本是 PHP 7.3。
 
-[![php deadlines approaching](../Images/77e2d02afc7a1a44facb44030111d285.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uuuFmXmQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.fortrabbit.com/dist/img/php-version-deadline-on-php-net.png)
+[![php deadlines approaching](img/77e2d02afc7a1a44facb44030111d285.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uuuFmXmQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.fortrabbit.com/dist/img/php-version-deadline-on-php-net.png)
 
 在这里可以看到官方支持的 PHP 版本和寿命。
 
 ### 还有多少老 PHP 还在？
 
-[![php usage according to w3techs](../Images/627c1b892dd21f55502f036084e9b816.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ku0Qn0Xl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.fortrabbit.com/dist/img/php-usage-according-to-w3techs.png)
+[![php usage according to w3techs](img/627c1b892dd21f55502f036084e9b816.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ku0Qn0Xl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.fortrabbit.com/dist/img/php-usage-according-to-w3techs.png)
 
 截至 2018 年 9 月:PHP 5 仍是 PHP 使用最多的版本。根据你问的是谁，你会得到不同的答案:
 

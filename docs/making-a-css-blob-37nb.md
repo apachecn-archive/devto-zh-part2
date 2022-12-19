@@ -6,7 +6,7 @@
 
 我发现进行这种转换的唯一方法是使用多步`border-radius`值，它允许你对元素的边缘有更多的控制。
 
-[![](../Images/2ae9507cd3d1e23e6c28d3dd698f66b3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lXXFJHt2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mp0vkurap1lmwxi690zy.png) 
+[![](img/2ae9507cd3d1e23e6c28d3dd698f66b3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lXXFJHt2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mp0vkurap1lmwxi690zy.png) 
 图片来自[中的](https://medium.com/9elements/css-border-radius-can-do-that-d46df1d013ae)
 
 首先，我需要阅读更多关于多步边框半径的信息，而[这篇](https://css-tricks.com/almanac/properties/b/border-radius/) css-tricks 文章非常完美。所以我开始写代码准备所有的东西，但我立即注意到，处理多值边界半径并不像我预期的那么容易。在谷歌搜索了一下之后，我看到了[这篇文章](https://medium.com/9elements/css-border-radius-can-do-that-d46df1d013ae)和他们令人敬畏的工具。这帮助我更多地了解了这种方法和生成`border-radius`属性的值。

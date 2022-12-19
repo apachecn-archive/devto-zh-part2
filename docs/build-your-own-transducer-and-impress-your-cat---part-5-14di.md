@@ -78,7 +78,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### {0 1 2}-Arity
 
-[![You said Arrietty?](../Images/985aae60e32a69b794598263e27c7fc7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PV75P1uk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8vz1hmarvozuwt526k0y.jpg)
+[![You said Arrietty?](img/985aae60e32a69b794598263e27c7fc7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PV75P1uk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8vz1hmarvozuwt526k0y.jpg)
 
 如果您阅读了这个博客系列的第 1 到第 4 部分，您将会知道换能器被期望以不同的算法来调用。
 
@@ -128,7 +128,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### (由我的猫)变得简单容易
 
-[![This is not my cat](../Images/ec01f2fd83d69e2e44b36cf040d3f781.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F8JfEISW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vw6dkrd03jzz8lwmmszn.jpg)
+[![This is not my cat](img/ec01f2fd83d69e2e44b36cf040d3f781.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F8JfEISW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vw6dkrd03jzz8lwmmszn.jpg)
 
 我的猫刚刚告诉我，我是一个白痴，因为有一个更短更有效的方法来实现上述功能。
 

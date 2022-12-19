@@ -32,17 +32,17 @@
 
 **逐个主题的方法:**
 
-[![InterviewBit - Topic by Topic Approach](../Images/15ad20f5faf6acf1a6146642753e58f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dxRA1662--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vyieqimmngyj6bml8xwr.jpg)
+[![InterviewBit - Topic by Topic Approach](img/15ad20f5faf6acf1a6146642753e58f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dxRA1662--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vyieqimmngyj6bml8xwr.jpg)
 
 除非你理解了数组和列表是如何工作的，否则没有必要讨论散列和树相关的问题。
 
 **分解成微观概念的主题:**
 
-[![InterviewBit - Topic broken down into micro-concepts](../Images/b584508e1ed53ef7f51fb80e8e17f53a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V5_461Ke--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/st67kcts1qe3fikz7fda.png)
+[![InterviewBit - Topic broken down into micro-concepts](img/b584508e1ed53ef7f51fb80e8e17f53a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V5_461Ke--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/st67kcts1qe3fikz7fda.png)
 
 **模拟解决问题时的面试体验:**
 
-[![Simulating the interview experience when solving problems](../Images/9b77cc5209cbd8f739bc10fe86a5f1d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ir8Vwjwi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xu8fyjxdtm0artl9b23i.jpg)
+[![Simulating the interview experience when solving problems](img/9b77cc5209cbd8f739bc10fe86a5f1d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ir8Vwjwi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xu8fyjxdtm0artl9b23i.jpg)
 
 解决问题是由以下因素驱动的:
 

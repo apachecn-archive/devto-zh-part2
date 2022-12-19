@@ -58,7 +58,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 #### [t1■新的第 404 页](#%E5%9B%B3001%E2%96%A0%E6%96%B0%E3%81%97%E3%81%84404%E3%83%9A%E3%83%BC%E3%82%B8)
 
-[![新しい404ページ](../Images/df16609c5d9d8edd95b0da17d74e9cc7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SBy6t-LM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://elixirforum.com/uploads/default/original/2X/8/8b1ab227fd84ec401eeb69bf7570301da12c992d.jpeg)
+[![新しい404ページ](img/df16609c5d9d8edd95b0da17d74e9cc7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SBy6t-LM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://elixirforum.com/uploads/default/original/2X/8/8b1ab227fd84ec401eeb69bf7570301da12c992d.jpeg)
 
 # 用户套接字的连接信息
 

@@ -20,7 +20,7 @@
 
 让我们看一下图表，从高层次上了解简单工厂模式在 C#和。网芯。简单工厂设计模式是一种抽象形式，它隐藏了对象实现的实际逻辑，因此初始化代码可以专注于使用，而不是内部工作。
 
-[![Simple Factory Pattern](../Images/8347832be5f313f514dd3265e9cf54ea.png "Simple Factory Pattern")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OOPxjpOv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://garywoodfine.com/wp-content/uploads/2018/08/SimpleFactoryPattern.jpg)
+[![Simple Factory Pattern](img/8347832be5f313f514dd3265e9cf54ea.png "Simple Factory Pattern")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OOPxjpOv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://garywoodfine.com/wp-content/uploads/2018/08/SimpleFactoryPattern.jpg)
 
 在图中`Manufacture`是一个基类，类`Chocolate`和`MotorVehicle`是从它派生的，根据提供的参数，`Manufacture`类决定返回哪个子类。
 
@@ -107,7 +107,7 @@ public class UsernameFactory
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Simple Factory Pattern](../Images/1d0145e685393ddb54d9daeb41e3aed7.png "Simple Factory Pattern")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hg23iUiH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://garywoodfine.com/wp-content/uploads/2018/08/UserNameFactory.jpg)
+[![Simple Factory Pattern](img/1d0145e685393ddb54d9daeb41e3aed7.png "Simple Factory Pattern")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hg23iUiH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://garywoodfine.com/wp-content/uploads/2018/08/UserNameFactory.jpg)
 
 ### 单元测试简单工厂模式
 

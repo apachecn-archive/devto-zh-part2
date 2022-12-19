@@ -6,7 +6,7 @@
 
 以前，我和许多用户一样，坚持手动点击文件夹、拖放文档和文件夹、右击复制和删除材料、双击打开文件等用户体验。等等。我坚持使用 GUI。
 
-[![Dragging to the trash is now dumb](../Images/bfa0df691493209e07879b43405f8883.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VseGTs3p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://assets.rbl.ms/17266104/980x.gif)
+[![Dragging to the trash is now dumb](img/bfa0df691493209e07879b43405f8883.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VseGTs3p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://assets.rbl.ms/17266104/980x.gif)
 
 ###### 我再也不用这样了
 
@@ -14,7 +14,7 @@
 
 我没有手动点击文件夹和滚动，而是使用 change directory 命令和“ls”bash 命令来浏览我的文件结构，以查看我正在查找的文件:
 
-[![basic bash navigation](../Images/98654ad22965233d358c25ab6c0b4b69.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dKibeEtA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hkf7ddka0rlitwglifuk.png)
+[![basic bash navigation](img/98654ad22965233d358c25ab6c0b4b69.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dKibeEtA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hkf7ddka0rlitwglifuk.png)
 
 使用命令行导航确实简化了我的工作流程。我最终会记住文件名和路径名(或者至少是它们的开头)，而且我花在导航和调整菜单大小上的时间要少得多。
 

@@ -90,11 +90,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果一切顺利，这个界面将会打开:
 
-[![](../Images/cb8ceb7e7cc405e77b47776067320ddf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--crBSNo26--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2ALolhBhXNFHk0ne-Q1qIDRg.png)
+[![](img/cb8ceb7e7cc405e77b47776067320ddf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--crBSNo26--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2ALolhBhXNFHk0ne-Q1qIDRg.png)
 
 我们创建的文件是可用的，所以我们可以运行我们的测试。我们有一个界面，在那里我们可以看到我们的网页是如何表现和获得的结果。
 
-[![](../Images/887bbc385485529e3d74498ffba841f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CPWimj0N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Axb7WjOdjOUJe43hK3NhRYA.png)
+[![](img/887bbc385485529e3d74498ffba841f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CPWimj0N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Axb7WjOdjOUJe43hK3NhRYA.png)
 
 ### 检查页面上的一个元素
 
@@ -114,11 +114,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们的测试结果:
 
-[![](../Images/aa407ee6bfee5b319fdc22365df7dee0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AS6MHu4R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AyZFX1NmJavGysMbeYntbUQ.png)
+[![](img/aa407ee6bfee5b319fdc22365df7dee0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AS6MHu4R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AyZFX1NmJavGysMbeYntbUQ.png)
 
 但是如果由于某种原因我们在测试中犯了错误，结果就会是这样的:
 
-[![](../Images/d533f9c5152878a9233559c64db7c7da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cm1KnLns--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AYvE1hed6KvHJ7TBH1j-JOg.png)
+[![](img/d533f9c5152878a9233559c64db7c7da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cm1KnLns--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AYvE1hed6KvHJ7TBH1j-JOg.png)
 
 ### 测试响应性
 
@@ -141,13 +141,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 默认情况下大小是 1000×660，但是我们可以在配置文件中更改它，前面提到的 *cypress.json* 。您可以测试任何屏幕尺寸。查看我们在移动设备上的测试结果:
 
-[![](../Images/91be0a08d7da8aad9e9b83362fea9d62.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f8AbFmI7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2ATB71xoVOqBCoE26FHt3Vjg.png)
+[![](img/91be0a08d7da8aad9e9b83362fea9d62.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f8AbFmI7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2ATB71xoVOqBCoE26FHt3Vjg.png)
 
 ### 我想更深入
 
 在文档中，你会找到几个例子。但是如果你想要一些可见的东西，当你安装 *Cypress* 时，你会有一个名为“examples”的文件夹，里面有 100 多个测试要运行。
 
-[![](../Images/793aaaf23c0eb7dcde747c9aac1f37e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MukTSuOJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AL2_GisT-XWYYqRDF8HLquA.png)
+[![](img/793aaaf23c0eb7dcde747c9aac1f37e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MukTSuOJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AL2_GisT-XWYYqRDF8HLquA.png)
 
 如图所示，有几种类型的函数。本文没有探讨的一件很酷的事情是 *Cypress* 如何在 *ajax* 和*前端*响应之间排名。我们可以控制从服务器获得的结果。
 

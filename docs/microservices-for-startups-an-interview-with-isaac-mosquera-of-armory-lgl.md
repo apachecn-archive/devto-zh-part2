@@ -4,7 +4,7 @@
 
 *这次采访是为我们的[创业微服务](https://buttercms.com/books/microservices-for-startups/)电子书而做的。一定要去看看关于微服务的实用建议。感谢 Isaac 的时间和投入！*
 
-*[![](../Images/97839d76966d184225eeb4e7e6959d37.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--UKx0KYvs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/NFB2I2rCRze6A8zCdF3w) [艾萨克·莫斯奎拉](https://twitter.com/imosquera?lang=en)是[军械库](http://www.armory.io/)的 CTO，后者帮助软件团队更快地运送更好的软件。*
+*[![](img/97839d76966d184225eeb4e7e6959d37.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--UKx0KYvs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/NFB2I2rCRze6A8zCdF3w) [艾萨克·莫斯奎拉](https://twitter.com/imosquera?lang=en)是[军械库](http://www.armory.io/)的 CTO，后者帮助软件团队更快地运送更好的软件。*
 
 就背景而言，你的工程团队有多大？您是否正在使用微服务，能否概括介绍一下您是如何使用它们的？
 

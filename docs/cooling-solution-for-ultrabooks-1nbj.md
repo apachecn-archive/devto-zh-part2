@@ -72,7 +72,7 @@ CPU 一般有一个*工作*温度:你不能低于环境温度，否则你会招�
 ### 没那么有效——增加一个真空风扇
 
 最近，像这样的东西开始在市场上出现
-[![Vacuum fan laptop](../Images/a5c057e4c7f5ecbe2d547bec02f4f24f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--J6TP3Lr3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ae01.alicdn.com/kf/HTB1cxk3KFXXXXbNXpXXq6xXFXXXC/Mini-Vacuum-USB-Laptop-Cooler-Air-Extracting-Exhaust-Cooling-Fan-CPU-Cooler-for-Notebook-computer-hardware.jpg)
+[![Vacuum fan laptop](img/a5c057e4c7f5ecbe2d547bec02f4f24f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--J6TP3Lr3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ae01.alicdn.com/kf/HTB1cxk3KFXXXXbNXpXXq6xXFXXXC/Mini-Vacuum-USB-Laptop-Cooler-Air-Extracting-Exhaust-Cooling-Fan-CPU-Cooler-for-Notebook-computer-hardware.jpg)
 
 这个想法是为了移动更多的空气，为现有的冷却解决方案提供动力。在网上收集的一些信息显示，这些设备并不像预期的那样有效:一般来说，对于并不便宜的东西(只是比其他解决方案更贵)，只登记了 2C 的下降。
 
@@ -84,7 +84,7 @@ CPU 一般有一个*工作*温度:你不能低于环境温度，否则你会招�
 
 有时，笔记本电脑供应商不得不节省机器的某些部分以使其更便宜，并且可能会发生他们希望节省冷却费用的情况。我有一台笔记本电脑，配有一个独立显卡，一根热管穿过 CPU 和 GPU，即使在这种情况下空闲时，CPU 也会变热
 
-[![Single heat pipe design](../Images/f973b53d24e59133729de84d4c472565.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---raHYt3E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.irisvista.com/tech/laptops/Toshiba-Satellite-A305/disassembly-big/disassembly-process-25.jpg)
+[![Single heat pipe design](img/f973b53d24e59133729de84d4c472565.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---raHYt3E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.irisvista.com/tech/laptops/Toshiba-Satellite-A305/disassembly-big/disassembly-process-25.jpg)
 
 在这种情况下，我的解决方案是从远离散热器的 CPU 直接添加一些铜线。铜和铝都可以用在这种情况下，因为它们具有良好的导热性，但这些都是金属，这意味着导电。如果这些电线在运行时接触到主板，它们会使主板短路，造成永久性的损坏。在这种情况下，我用一层塑料将其隔离，以避免这种情况。
 
@@ -115,9 +115,9 @@ CPU 一般有一个*工作*温度:你不能低于环境温度，否则你会招�
 ### 取决于您的笔记本电脑- USB 风扇
 
 另一种解决方案取决于您的笔记本电脑型号。如果您可以通过机箱上的一些孔接触到更多的内部部件，这可能行得通。我不久前购买了一台这样的电脑，作为在我的机器上进行的实验，结果证明非常有效(我拥有一台 2016 年的 XPS 13)
-[![USB Fan](../Images/a09c3fccb6183cb8bc3d41dc4affdcf7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rY8wt_iT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ae01.alicdn.com/kf/HTB1MSPLSpXXXXXyapXXq6xXFXXXg/2-Set-Gdstime-USB-Fan-120mm-Router-Cooling-Fan-5-V-Silent-Quiet-for-Roku-Receiver.jpg_640x640.jpg)
+[![USB Fan](img/a09c3fccb6183cb8bc3d41dc4affdcf7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rY8wt_iT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ae01.alicdn.com/kf/HTB1MSPLSpXXXXXyapXXq6xXFXXXg/2-Set-Gdstime-USB-Fan-120mm-Router-Cooling-Fan-5-V-Silent-Quiet-for-Roku-Receiver.jpg_640x640.jpg)
 
-在我的情况下，通过机箱上的一些孔，我可以直接访问 CPU，允许我在它上面安装一个风扇，直接冷却它。要真正利用这项技术，你必须隔离气流。我用了一些[胶垫](https://images-na.ssl-images-amazon.com/images/I/51nJllnHlpL._SX355_.jpg)来做它，因为它可以适应，并且稍微有点粘性。
+在我的情况下，通过机箱上的一些孔，我可以直接访问 CPU，允许我在它上面安装一个风扇，直接冷却它。要真正利用这项技术，你必须隔离气流。我用了一些[胶垫](https://images-na.ssl-images-amazon.cimg/I/51nJllnHlpL._SX355_.jpg)来做它，因为它可以适应，并且稍微有点粘性。
 
 这种方法非常有效，比真空风扇有效得多，因为我们直接冷却计算机的热部件。
 无论如何，气流通过这些孔会受到一点限制，所以即使直接将空气吹向 CPU 而不中途离开机箱可以达到更好的效果，便携性也开始成为一个问题。

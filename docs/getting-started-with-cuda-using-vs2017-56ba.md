@@ -20,17 +20,17 @@
 
 另外，你还需要安装 VC++ 2017 工具集(CUDA 仍然与最新版本的 Visual Studio 不兼容)。
 
-[![](../Images/94d2e887e3f2c95bce15c6fd4f0568b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MSZK-NJa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/cuda_setup_1.png)
+[![](img/94d2e887e3f2c95bce15c6fd4f0568b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MSZK-NJa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/cuda_setup_1.png)
 
 ## 使用 CUDA 启动新项目
 
 启动使用 CUDA 的项目最简单的方法是利用 CUDA 模板。
 
-[![](../Images/f590340e0c99d7bd501997ce1d557891.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qzWC5uk8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/CUDA-New-Project.png)
+[![](img/f590340e0c99d7bd501997ce1d557891.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qzWC5uk8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/CUDA-New-Project.png)
 
 为了能够编译它，您需要更改项目属性以使用 Visual Studio 2015 工具集。
 
-[![](../Images/2f3e07d07817a420d54a8d34fd9d3df0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F_ZULIyU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/platform_toolset.png)
+[![](img/2f3e07d07817a420d54a8d34fd9d3df0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F_ZULIyU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/platform_toolset.png)
 
 我建议您清理模板的样板文件，将文件 *kernel.cu* 的内容改为这个 _:_
 

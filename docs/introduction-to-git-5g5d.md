@@ -48,7 +48,7 @@ Git 可以被定义为一个版本控制系统，用来存储和管理你的代�
 
 `git commit -m "Some message"`
 
-[![Gif](../Images/90bf0e8e62af833d83374fc4d160713e.png)T2】](https://i.giphy.com/media/EDt1m8p5hqXG8/giphy.gif)
+[![Gif](img/90bf0e8e62af833d83374fc4d160713e.png)T2】](https://i.giphy.com/media/EDt1m8p5hqXG8/giphy.gif)
 
 哈哈，我们已经做了很多工作，但等待 git 来了很多我们甚至没有听说过的功能。另一个最重要的特性是将您的代码推送到远程存储库，以便您可以在任何地方的任何机器上访问它。
 
@@ -64,6 +64,6 @@ Git 可以被定义为一个版本控制系统，用来存储和管理你的代�
 
 Git 有很多特性，我们只讨论了它的基础，因为我认为这些特性足以让你开始使用 git。在那之前，我会在以后的帖子中谈论更多的特性**再见，祝编码愉快。**
 
-[![Bye](../Images/5024162d4cac66114edb0b4bcc4a36bb.png)T2】](https://i.giphy.com/media/3oEduLRlHYWFNWNkTC/giphy.gif)
+[![Bye](img/5024162d4cac66114edb0b4bcc4a36bb.png)T2】](https://i.giphy.com/media/3oEduLRlHYWFNWNkTC/giphy.gif)
 
 **注意:-** 有些命令可能无法在 windows 上使用，因为它们是 Mac 专用的，所以请找到替代命令。

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/dmigwi/blockchain-technology-the-future-is-here-513f>
 
-[![Blockchain is the future](../Images/de61f83e50147f158c54156e3aeab56c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MmwGbb7Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j07hdwbkq7m8rrd8kclo.png)
+[![Blockchain is the future](img/de61f83e50147f158c54156e3aeab56c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MmwGbb7Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j07hdwbkq7m8rrd8kclo.png)
 
 很长一段时间以来，我一直试图有意识地回避区块链技术话题，但我再也不能忽视它了。我也听说过很多人把比特币称为金融市场的泡沫，它会随着时间自动更正，但现在我不敢苟同上述学派的观点。
 

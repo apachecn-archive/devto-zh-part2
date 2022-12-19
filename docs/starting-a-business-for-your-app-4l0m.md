@@ -41,6 +41,6 @@
 
 恭喜你，你是一个小企业主！(我也喜欢“微创业 CEO”这个称呼。)现在你可以继续做令人兴奋的事情了:名片、广告、[在当地报纸上得到一个特写](https://twitter.com/edwardtheapp/status/992547593958780928)，当然还有(当然)制作更酷的东西。
 
-[![Business cards](../Images/bb1e6c9f07c66b2ffab211f4a18a031a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1Nzo5KYn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://isaaclyman.com/blog/img/business-cards.jpg)
+[![Business cards](img/bb1e6c9f07c66b2ffab211f4a18a031a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1Nzo5KYn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://isaaclyman.com/blog/img/business-cards.jpg)
 
 祝你好运！

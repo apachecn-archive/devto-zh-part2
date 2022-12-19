@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/himankbhalla/declaration-in-dynamically-typedpython-2do3>
 
-[![python](../Images/9bf852dd580d9f3ebfb7106057aed0e5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ILvlt-LR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jt5dy283wrihazk1p81b.png) 
+[![python](img/9bf852dd580d9f3ebfb7106057aed0e5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ILvlt-LR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jt5dy283wrihazk1p81b.png) 
 Python 变量赋值不同于一些流行的语言如 c、c++和 java。python 中没有变量声明，只有赋值语句。
 
 C++中的变量是一个命名对象。它有一个特定的类型，告诉我们什么值是允许的，什么操作可以在这个命名的对象上执行。

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/yeisonpx/connecting-to-wordpress-using-c-5688>
 
-[![alt text](../Images/beee15d17e05379126add8b8695b5f10.png "Connecting c# to Wordpress")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AfBP32ow--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://yeisonpx.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-18-at-9.09.51-AM-1024x558.png)
+[![alt text](img/beee15d17e05379126add8b8695b5f10.png "Connecting c# to Wordpress")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AfBP32ow--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://yeisonpx.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-18-at-9.09.51-AM-1024x558.png)
 
 在这篇文章中，我们将看到如何使用 C#连接到 Wordpress 网站，并通过三个简单的步骤使用 WordpressPCL 库制作出版物。
 
@@ -53,11 +53,11 @@ JWT 需要一个**秘密密钥**来签署令牌。这个**秘密密钥**必须�
 
 现在你需要从 Visual Studio 安装名为 **WordpressPCL** 的 Wordpress nuget 包。要打开掘金包管理器，在 Visual Studio 中右击你的项目，然后点击**管理掘金包**。
 
-[![alt text](../Images/3d2acf191fb9b7aa83250353953b1782.png "Install WordpressPCL from Nuget Packages")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h75z_AxX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://yeisonpx.com/wp-content/uploads/2018/09/nugget-packages-1024x576.png)
+[![alt text](img/3d2acf191fb9b7aa83250353953b1782.png "Install WordpressPCL from Nuget Packages")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h75z_AxX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://yeisonpx.com/wp-content/uploads/2018/09/nugget-packages-1024x576.png)
 
 然后搜索 **WordPressPCL** 并右击**安装**。
 
-[![alt text](../Images/ba753749574e8931df776a527f35f290.png "Installing WordpressPCL from nuget packages")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M0VvpePP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://yeisonpx.com/wp-content/uploads/2018/09/nugget-packages-1-1024x532.png)
+[![alt text](img/ba753749574e8931df776a527f35f290.png "Installing WordpressPCL from nuget packages")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M0VvpePP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://yeisonpx.com/wp-content/uploads/2018/09/nugget-packages-1-1024x532.png)
 
 您也可以使用 nuget packages 控制台插入以下命令来安装软件包:
 
@@ -67,7 +67,7 @@ Install-Package WordPressPCL -Version 1.5.0
 
 你能用 WordpressPCL 做什么？下表显示了您可以使用的支持方法。
 
-[![alt text](../Images/eb84e97ef10c1602777b336f3072501c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A96XkctS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://yeisonpx.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-18-at-3.16.49-PM.png)
+[![alt text](img/eb84e97ef10c1602777b336f3072501c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A96XkctS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://yeisonpx.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-18-at-3.16.49-PM.png)
 
 现在我们已经配置并安装了你需要的所有东西，让我们看看如何从 Wordpress 创建、更新和查询数据。
 

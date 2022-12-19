@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/amitkhirale/comparison-between-angularjs-vs-react-in-2018-1i84>
 
-[![AngularJS vs React](../Images/d8de4cbfe9e3c2bf8d81221d157b04ca.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zU6xMP0M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hoceitpxa28z9i81ab64.jpg) 
+[![AngularJS vs React](img/d8de4cbfe9e3c2bf8d81221d157b04ca.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zU6xMP0M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hoceitpxa28z9i81ab64.jpg) 
 在本文中，我们比较了前端开发最流行的两种技术:Angular 和 React。我们将从项目架构师、开发人员以及公司的角度对它们进行比较。
 
 比较角度和反应是时下非常流行的话题。React 和 Angular 都是非常先进的、被广泛采用的 JavaScript 技术，我们用它们来创建响应性 web 应用程序和交互式单页面应用程序。用于快速单页面应用程序(SPAs)开发的 JavaScript 工具的数量在不断增长，因此为 web 开发人员选择正确的框架更具挑战性。

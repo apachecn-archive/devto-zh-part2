@@ -23,7 +23,7 @@
 
 标准的冥想算法基本上是这样的。
 
-[![The Standard Meditation Algorithm](../Images/7330c65410e3a7775568e74d37b14e17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KAXL0rvy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://d15mu8qrd5jnh5.cloudfront.net/wp-content/uploads/2018/11/sma.jpg)
+[![The Standard Meditation Algorithm](img/7330c65410e3a7775568e74d37b14e17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KAXL0rvy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://d15mu8qrd5jnh5.cloudfront.net/wp-content/uploads/2018/11/sma.jpg)
 
 冥想的时候，你的注意力游离了无数次，你又无数次地恢复它。因此，冥想教会你在注意力分散时重新集中注意力的认知技能。典型的冥想课程实际上是学习如何做到这一点(人们认为这是保持专注；事实并非如此，这更多的是关于学习你被分散了注意力并把自己拉回来——在这个分散注意力的疯狂世界里，这是一项非常有价值的技能)
 

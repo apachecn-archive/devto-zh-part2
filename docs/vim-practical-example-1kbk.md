@@ -30,7 +30,7 @@ yy5p
 Enter fullscreen mode Exit fullscreen mode
 
 现在我们每个元素有一行。
-[![alt 1](../Images/315853b3a7b4737488e7ba4641eb56a1.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--SzuOEffk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qgs6mmiryjss6mwxjgsi.png)
+[![alt 1](img/315853b3a7b4737488e7ba4641eb56a1.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--SzuOEffk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qgs6mmiryjss6mwxjgsi.png)
 
 写下每个元素名称
 
@@ -43,7 +43,7 @@ Enter fullscreen mode Exit fullscreen mode
 Enter fullscreen mode Exit fullscreen mode
 
 重复此 4 次以上
-[![alt 2](../Images/aa07c75a890f35c281d8555b298ae6c7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--E-k0r1aM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/03unebkmdn1urxg5cdft.png)
+[![alt 2](img/aa07c75a890f35c281d8555b298ae6c7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--E-k0r1aM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/03unebkmdn1urxg5cdft.png)
 
 每个语言环境复制这个块 5 次
 
@@ -67,7 +67,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![alt 3](../Images/7dab103fec66b689c29690bd633bc706.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Wg3uLubs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zx6lilxroc5ca37iew75.png)T3】
+[![alt 3](img/7dab103fec66b689c29690bd633bc706.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Wg3uLubs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zx6lilxroc5ca37iew75.png)T3】
 
 ```
 gg # Go to the top 
@@ -88,7 +88,7 @@ qq # start recording
 Enter fullscreen mode Exit fullscreen mode
 
 此时你应该有这样的东西:
-[![alt 4](../Images/15256f101b9ad242ffb49570af9f5c94.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WHyUzm5F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/axk77wcxrdb43mkwvros.png)
+[![alt 4](img/15256f101b9ad242ffb49570af9f5c94.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WHyUzm5F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/axk77wcxrdb43mkwvros.png)
 
 转到第二行，用`de.de`
 重复该过程
@@ -102,7 +102,7 @@ Enter fullscreen mode Exit fullscreen mode
 用`pt.BR`、`es.MX`、`fr.fr`和`ja.jp`重复该过程
 
 此时，你应该有类似
-[![alt 5](../Images/7f91feb9994be6d7531ce512c6bc142f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---McplNRi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5m7cygsgub69uh90omk0.png) 的东西
+[![alt 5](img/7f91feb9994be6d7531ce512c6bc142f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---McplNRi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5m7cygsgub69uh90omk0.png) 的东西
 
 删除每一个空行。
 
@@ -120,7 +120,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![magic3](../Images/586ba833ed4af550ea8c5989aad122b8.png)T2】](https://i.giphy.com/media/3o7TKP9ln2Dr6ze6f6/giphy.gif)
+[![magic3](img/586ba833ed4af550ea8c5989aad122b8.png)T2】](https://i.giphy.com/media/3o7TKP9ln2Dr6ze6f6/giphy.gif)
 
 默认浏览器会在不同的标签中打开所有这些 URL。
 (MAC-OS 上有 open 命令。对于 Linux，您应该有一个类似的)

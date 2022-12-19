@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kaelscion/py-in-5-decorators-14k6>
 
-[![py-in-5-decorators-cover](../Images/47f53ffc53218a2dad1c6929bc45840f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IlHmDJYL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ikzq7irkxu1eqzc2jqlc.jpg)
+[![py-in-5-decorators-cover](img/47f53ffc53218a2dad1c6929bc45840f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IlHmDJYL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ikzq7irkxu1eqzc2jqlc.jpg)
 
 > ***原载于编码鸭博客:【www.ccstechme.com/coding-duck-blog】T2*T5】**
 
@@ -49,7 +49,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 并且渲染成这样
 
-[![base-rendering-image-no-decorators](../Images/df917e724bedd8de64346ec6fec183f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ya_LuuxS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/19fm02rdh6bqzmm7b6tg.png)
+[![base-rendering-image-no-decorators](img/df917e724bedd8de64346ec6fec183f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ya_LuuxS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/19fm02rdh6bqzmm7b6tg.png)
 
 现在，让我们添加下面的装饰者到这个组合中:
 
@@ -89,7 +89,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 添加装饰器会呈现如下所示的表单:
 
-[![rendering-form-with-flex-end-decorator](../Images/de2c28b901fc0e9081512adf45f8bd27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AkP9WUaB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x4wey3a38v1fh0ndiu4l.png)
+[![rendering-form-with-flex-end-decorator](img/de2c28b901fc0e9081512adf45f8bd27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AkP9WUaB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x4wey3a38v1fh0ndiu4l.png)
 
 如您所见，装饰器提供的`justify-content: flex-end;`上下文改变了表单在页面上出现的位置，而无需修改表单代码本身。同样的事情可以用我们的另一个装饰器来完成:
 
@@ -113,7 +113,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 然后呈现如下:
 
-[![form-rendering-flex-center-decorator](../Images/3b427bfec0b0576c8e6effd0806a1cd6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eLtkiSxw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5ziarlqhm0iepihoi8ud.png)
+[![form-rendering-flex-center-decorator](img/3b427bfec0b0576c8e6effd0806a1cd6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eLtkiSxw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5ziarlqhm0iepihoi8ud.png)
 
 因此，总而言之，装饰器给函数添加了上下文。基本上，它给了你的函数使用装饰器提供的附加装饰的“许可”。我们的例子表明，如果我们问`@style_with...`decorator 他们实现的 justify-content 样式是否可以“出来玩”，他们会给我们的 html 一组不同的期望，而不是当他们“在家和爸爸妈妈在一起”时，因此允许他们的行为与平时不同。
 

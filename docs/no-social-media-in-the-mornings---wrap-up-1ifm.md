@@ -30,9 +30,9 @@
 
 已经一个多月了(截止到本文)，我迈出了第一步，还没有回头！😄
 
-> ![](../Images/2ff06b0b3b74bb4a2e2bd7c693552b0d.png)何塞·冈萨雷斯@ Jose gonz 321![](../Images/4d9c44713c216584b3d48ff3455cbb68.png)[@ pav saund](https://twitter.com/pavsaund)诶。今天早上我没去，因为我跑步迟到了。我确实感觉更现实、更平和🙂
+> ![](img/2ff06b0b3b74bb4a2e2bd7c693552b0d.png)何塞·冈萨雷斯@ Jose gonz 321![](img/4d9c44713c216584b3d48ff3455cbb68.png)[@ pav saund](https://twitter.com/pavsaund)诶。今天早上我没去，因为我跑步迟到了。我确实感觉更现实、更平和🙂
 > 
-> (昨晚我也调解了 30 多分钟，所以可能也有帮助)2018 年 4 月 10 日下午 13:23[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=983696879790821376)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=983696879790821376)0[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=983696879790821376)1
+> (昨晚我也调解了 30 多分钟，所以可能也有帮助)2018 年 4 月 10 日下午 13:23[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=983696879790821376)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=983696879790821376)0[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=983696879790821376)1
 
 至此，已经成为一种习惯。这意味着我不需要每天早上和自己“斗争”，因为我的习惯已经改变了。
 
@@ -69,13 +69,13 @@
 
 我在我的 Developer On Fire 访谈中简单提到了这一点:
 
- [# 第 308 集|何塞·冈萨雷斯——思想、身体、灵魂](/developeronfire/episode-308--jose-gonzalez--mind-body-soul) [![](../Images/5fa2375fde61b7d5bc975c0aed4d5d66.png)
+ [# 第 308 集|何塞·冈萨雷斯——思想、身体、灵魂](/developeronfire/episode-308--jose-gonzalez--mind-body-soul) [![](img/5fa2375fde61b7d5bc975c0aed4d5d66.png)
 
-# 开发商着火了](/developeronfire) [![](../Images/51d750950d81cc0cf80c4b0ae882c342.png) iTunes ](https://itunes.apple.com/us/podcast/developer-on-fire/id1006105326) [ ![](../Images/969d3ab7e6342ee846b504a183ac64c5.png) Overcast ](https://overcast.fm/itunes1006105326/developer-on-fire) [ ![](../Images/969d3ab7e6342ee846b504a183ac64c5.png) Android ](http://subscribeonandroid.com/developeronfire.com/rss.xml) [![](../Images/969d3ab7e6342ee846b504a183ac64c5.png) RSS](http://developeronfire.com/rss.xml) ![](../Images/da55340508c383dd96223748725e7fff.png) ![](../Images/b2e500349dc3cd65ea44585f746d2a0d.png) ![](../Images/5fa2375fde61b7d5bc975c0aed4d5d66.png)
+# 开发商着火了](/developeronfire) [![](img/51d750950d81cc0cf80c4b0ae882c342.png) iTunes ](https://itunes.apple.com/us/podcast/developer-on-fire/id1006105326) [ ![](img/969d3ab7e6342ee846b504a183ac64c5.png) Overcast ](https://overcast.fm/itunes1006105326/developer-on-fire) [ ![](img/969d3ab7e6342ee846b504a183ac64c5.png) Android ](http://subscribeonandroid.com/developeronfire.com/rss.xml) [![](img/969d3ab7e6342ee846b504a183ac64c5.png) RSS](http://developeronfire.com/rss.xml) ![](img/da55340508c383dd96223748725e7fff.png) ![](img/b2e500349dc3cd65ea44585f746d2a0d.png) ![](img/5fa2375fde61b7d5bc975c0aed4d5d66.png)
 
 <audio id="audio" data-episode="episode-308--jose-gonzalez--mind-body-soul" data-podcast="developeronfire"><source src="https://traffic.libsyn.com/developeronfire/DeveloperOnFire-308-JoseGonzalez.mp3" type="audio/mpeg"> Your browser does not support the audio element.</audio>
 
-[![](../Images/06c9721ead4cacf5eb111d320a17586e.png) ![](../Images/b4c6951c950232cdfef32ac750ed6d92.png) ](/developeronfire/episode-308--jose-gonzalez--mind-body-soul)  ![](../Images/da55340508c383dd96223748725e7fff.png) ![](../Images/b2e500349dc3cd65ea44585f746d2a0d.png)     ![volume](../Images/64c7607b77476eb3d924254262a5bca4.png)   <input type="range" name="points" id="volumeslider" value="50" min="0" max="100" data-show-value="true">    ![mute](../Images/53eef5aa80ab0610ec1ea90b95d54171.png)  1x  [ x ] 
+[![](img/06c9721ead4cacf5eb111d320a17586e.png) ![](img/b4c6951c950232cdfef32ac750ed6d92.png) ](/developeronfire/episode-308--jose-gonzalez--mind-body-soul)  ![](img/da55340508c383dd96223748725e7fff.png) ![](img/b2e500349dc3cd65ea44585f746d2a0d.png)     ![volume](img/64c7607b77476eb3d924254262a5bca4.png)   <input type="range" name="points" id="volumeslider" value="50" min="0" max="100" data-show-value="true">    ![mute](img/53eef5aa80ab0610ec1ea90b95d54171.png)  1x  [ x ] 
 
 四个月来，玩魔兽世界一直是我的主要任务。
 

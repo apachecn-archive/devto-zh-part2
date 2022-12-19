@@ -52,7 +52,7 @@ MediaWiki 不使用它来显示链接。所以我需要一种方法来清理。�
 
 启动 RegExRX 后，我将上面的模式放入搜索模式字段，并将一小段 HTML 粘贴到源文本字段。我可以立即看到所有的 HTML 标签都匹配了。
 
-[![](../Images/a906516be54f0da00b45200a258b03fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y2xprn9y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.xojo.com/wp-content/uploads/2018/10/2018-10-12_09-54-33.png)
+[![](img/a906516be54f0da00b45200a258b03fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y2xprn9y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.xojo.com/wp-content/uploads/2018/10/2018-10-12_09-54-33.png)
 
 但是我不需要匹配所有的 HTML 标签，我只需要`<a>`和`<tbody>`。对上面的模式稍加修改就可以告诉它只查找以`<a`或`</a`开头的文本。查看正则表达式页面上的正则表达式引用，我看到“？”字符表示 0 或 1 个匹配。所以我可以把模式改成这样:
 
@@ -62,11 +62,11 @@ MediaWiki 不使用它来显示链接。所以我需要一种方法来清理。�
 
 这意味着查找以`<a`或`</a`开头的 HTML 标签。在这个模式中，我可以看到只有`<a>`和`</a>`标签被突出显示:
 
-[![](../Images/d13ed9951d4c781a83d7f3afda0f2fa2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J3ablD4H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.xojo.com/wp-content/uploads/2018/10/2018-10-12_13-24-33.png)
+[![](img/d13ed9951d4c781a83d7f3afda0f2fa2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J3ablD4H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.xojo.com/wp-content/uploads/2018/10/2018-10-12_13-24-33.png)
 
 为了真正删除标签，我使用了一个替换，并用一个空字符串替换匹配的标签。切换到 RegExRX 中的 Replace 选项卡，如下所示:
 
-[![](../Images/cb1fd6593f182648c05740fca6f13377.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u7_2SgmS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.xojo.com/wp-content/uploads/2018/10/2018-10-12_13-28-45.png)
+[![](img/cb1fd6593f182648c05740fca6f13377.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u7_2SgmS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.xojo.com/wp-content/uploads/2018/10/2018-10-12_13-28-45.png)
 
 为了对`<tbody>`做同样的事情，我将模式改为:
 
@@ -131,11 +131,11 @@ End Function
 
 最后，您可以看到`<a>`、`</a>`标记和案例 ID 值都匹配:
 
-[![](../Images/825034ce8aa69c428d76090fa3fe3156.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xgCq_vny--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.xojo.com/wp-content/uploads/2018/10/2018-10-12_13-32-42.png)
+[![](img/825034ce8aa69c428d76090fa3fe3156.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xgCq_vny--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.xojo.com/wp-content/uploads/2018/10/2018-10-12_13-32-42.png)
 
 这种变化的模式意味着我现在有了一个可以用来替换的组。切换到 RegExRX 中的 Replace 选项卡，您会注意到整个匹配的文本都被删除了，因为替换模式是空白的。在替换模式中键入“$1”(这包含具有案例 ID 值的组)会在替换的文本中显示案例 ID:
 
-[![](../Images/408c7b5c2a7d3803c059950bfd49a962.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zd7xQwn6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.xojo.com/wp-content/uploads/2018/10/2018-10-12_13-33-30.png)
+[![](img/408c7b5c2a7d3803c059950bfd49a962.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zd7xQwn6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.xojo.com/wp-content/uploads/2018/10/2018-10-12_13-33-30.png)
 
 现在我把我想要的其余文本放入替换模式中:
 
@@ -145,7 +145,7 @@ End Function
 
 被替换的文本现在看起来像我想要的:
 
-[![](../Images/ea2660da3ed1b0332654b57d56eeb502.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uswRBA2S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.xojo.com/wp-content/uploads/2018/10/2018-10-12_13-34-06.png)
+[![](img/ea2660da3ed1b0332654b57d56eeb502.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uswRBA2S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.xojo.com/wp-content/uploads/2018/10/2018-10-12_13-34-06.png)
 
 下面是更新后的 Xojo 函数:
 

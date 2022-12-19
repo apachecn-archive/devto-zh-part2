@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/steelwolf180/my-journey-as-a-django-developer-2ek4>
 
-[![Photo by Mantas Hesthaven on Unsplash](../Images/40ebea8e4fc7e2f530ca2c009b7916f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qUAWKoJ0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bl6iaoka9pkvjfkt74uk.jpg)
+[![Photo by Mantas Hesthaven on Unsplash](img/40ebea8e4fc7e2f530ca2c009b7916f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qUAWKoJ0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bl6iaoka9pkvjfkt74uk.jpg)
 
 # 简介
 

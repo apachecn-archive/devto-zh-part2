@@ -6,7 +6,7 @@
 
 这是我的...我每天使用的简单终端。
 
-[![](../Images/24dcdfdfdafce3e1f92a1572bd983b18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n_JpQnGk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/banminkyoz/purify/blob/master/demo/demo_osx_hyper.png%3Fraw%3Dtrue)
+[![](img/24dcdfdfdafce3e1f92a1572bd983b18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n_JpQnGk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/banminkyoz/purify/blob/master/demo/demo_osx_hyper.png%3Fraw%3Dtrue)
 
 我确实在 macos 或 iterm2 上使用 hyper 而不是默认终端...虽然它有点慢，但这不是问题，因为它看起来很酷。
 

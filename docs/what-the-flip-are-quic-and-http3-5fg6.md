@@ -48,7 +48,7 @@ HTTP 最初是由欧洲粒子物理研究所的科学家蒂姆·伯纳斯·李�
 
 # 协议概述
 
-[![](../Images/8bad040d33269c5e933c199e89bc08fe.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fO39s5-1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/Dq0JawMXQAAv2du.jpg) 
+[![](img/8bad040d33269c5e933c199e89bc08fe.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fO39s5-1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/Dq0JawMXQAAv2du.jpg) 
 [形象信用](https://twitter.com/kazuho/status/1057511844032798720)
 
 ## 译注

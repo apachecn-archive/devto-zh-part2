@@ -28,7 +28,7 @@ t’0 给予阿拉伯语发言人发言时间。，第一次发言时间为上�
 
 UTF-8(也称为 Unicode)迅速崛起，主要由于其与现有 ASCII 系统的向后兼容性，主要计算机系统开始采用它。2008 年，谷歌报告称 Unicode 成为 HTML 文件最常见的编码。
 
-[![Shows the usage of the main encodings on the web from 2001 to 2012 as recorded by Google.](../Images/03d6880414c2f2fdaf426259117e2303.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1qzHQwe4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xidnnng2j6i4sdtj1t8q.png)
+[![Shows the usage of the main encodings on the web from 2001 to 2012 as recorded by Google.](img/03d6880414c2f2fdaf426259117e2303.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1qzHQwe4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xidnnng2j6i4sdtj1t8q.png)
 
 如果你想知道更多关于字符集和编码意味着什么，它们是如何工作的，以及如何帮助计算机理解语言和软件开发人员开发国际软件，那么读一读乔尔·斯波尔斯基在他的博客[中所说的，每个软件开发人员绝对、肯定必须知道的关于 Unicode 和字符集的绝对最低要求(没有借口！).](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 

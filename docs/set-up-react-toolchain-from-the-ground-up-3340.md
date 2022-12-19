@@ -81,7 +81,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 **一石二鸟**；截至今天，React v16.0 使用道具类型作为其依赖项之一(*可能会在未来的版本*中删除)，通过安装 [react](https://yarnpkg.com/en/package/react) ，您应该可以开箱即用[道具类型](https://yarnpkg.com/en/package/prop-types)。
 
-[![](../Images/f7fad184412a437a7644e074c0132aa0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w6h8VO5j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g4c68n8n2upf49336odm.png)
+[![](img/f7fad184412a437a7644e074c0132aa0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w6h8VO5j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g4c68n8n2upf49336odm.png)
 
 **巴比伦** : [@babel/core](https://yarnpkg.com/en/package/@babel/core) 、 [@babel/preset-env](https://yarnpkg.com/en/package/@babel/preset-env) 、 [@babel/preset-react](https://yarnpkg.com/en/package/@babel/preset-react) 、[babel-eslin](https://yarnpkg.com/en/package/babel-eslint)、 [babel-jest](https://yarnpkg.com/en/package/babel-jest)
 
@@ -94,7 +94,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 节点模块上的(@)前缀称为“作用域包”。作用域是将相关包组合在一起的一种方式。
 
-[![](../Images/abcb8732a2dbaa3d938fa29a3f23e311.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IRmCwrXg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/185obe422mwg7kxnipih.png)
+[![](img/abcb8732a2dbaa3d938fa29a3f23e311.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IRmCwrXg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/185obe422mwg7kxnipih.png)
 
 **Webpack** : [webpack](https://yarnpkg.com/en/package/webpack) ， [webpack-cli](https://yarnpkg.com/en/package/webpack-cli) ， [webpack-dev-server](https://yarnpkg.com/en/package/webpack-dev-server) ， [html-webpack-plugin](https://yarnpkg.com/en/package/html-webpack-plugin)
 
@@ -301,7 +301,7 @@ Enter fullscreen mode Exit fullscreen mode
 DevTools 验证我们的热模块替换已启用
 web pack，编译成功
 
-[![](../Images/e995deff64b8264ae2bb5ef14a013ef5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TTRrOwXx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n8swp1r9uqmc5lmukwcj.png)
+[![](img/e995deff64b8264ae2bb5ef14a013ef5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TTRrOwXx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n8swp1r9uqmc5lmukwcj.png)
 
 * * *
 

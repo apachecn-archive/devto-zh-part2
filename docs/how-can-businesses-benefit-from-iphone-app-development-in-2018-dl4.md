@@ -4,7 +4,7 @@
 
 如果你想让你的业务现代化，那么走 app 开发这条路是你最好的选择。这背后的原因是他们的名气，他们无处不在，他们让每个人的生活都很轻松。
 
-[![](../Images/7d024a1c4611137ace3ca338eaa44cac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--16RLRMgR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hiy6f0mebb4b5dixwyci.png)
+[![](img/7d024a1c4611137ace3ca338eaa44cac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--16RLRMgR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hiy6f0mebb4b5dixwyci.png)
 
 这是时势所需，但是选择平台的两难选择太高了。Android 和 IOS 都是很棒的平台，但有某些原因使得 **[iPhone 应用程序开发](https://www.endivesoftware.com/iphone-application-development)** 成为更安全的赌注。
 

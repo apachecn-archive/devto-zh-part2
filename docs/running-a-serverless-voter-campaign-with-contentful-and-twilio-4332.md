@@ -69,7 +69,7 @@ Contentful 将你的数据存储在所谓的空间中。您可以将空间想象
 
 当你创建免费的内容丰富的帐户时，你将被要求创建一个空间。虽然有一些例子可以帮助您开始，但是我们将创建一个名为**的空白空间来获得更多的投票**。
 
-[![image alt text](../Images/873fb2d15d565e5feaf2e201d24c3f72.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E8Rzw6EL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/4DnnUw0L5uAi64cwW2yowG/3f215a4265ec1fbd3b626b7c0dd92ce5/1_twilio_contentful.png)
+[![image alt text](img/873fb2d15d565e5feaf2e201d24c3f72.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E8Rzw6EL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/4DnnUw0L5uAi64cwW2yowG/3f215a4265ec1fbd3b626b7c0dd92ce5/1_twilio_contentful.png)
 
 #### 创建内容类型
 
@@ -79,31 +79,31 @@ Contentful 将你的数据存储在所谓的空间中。您可以将空间想象
 
 让我们从创建 voterMessage 内容类型开始:
 
-[![image alt text](../Images/51df87d4c9f88ad341ecff05097008bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VIT645Yu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/6R1LKYKK2cwWqCiYSkAaiq/b76fde8c931f15d9dc88ab0543997cb8/2_twilio_contentful.png)
+[![image alt text](img/51df87d4c9f88ad341ecff05097008bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VIT645Yu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/6R1LKYKK2cwWqCiYSkAaiq/b76fde8c931f15d9dc88ab0543997cb8/2_twilio_contentful.png)
 
 创建内容类型后，我们需要添加一个字段来保存我们的信息:
 
-[![image alt text](../Images/40964353191e36cd816c8e41cccc8f85.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xRK8PXYF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/4hhV7DUGhqCEOGGMsCkg4a/7a6c919de1941da7bb85012e663ad575/3_twilio_contentful.png)
+[![image alt text](img/40964353191e36cd816c8e41cccc8f85.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xRK8PXYF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/4hhV7DUGhqCEOGGMsCkg4a/7a6c919de1941da7bb85012e663ad575/3_twilio_contentful.png)
 
 我们将使用单个文本字段:
 
-[![image alt text](../Images/20cb94316c8a123d18d0d4f5a8372974.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NfvYRz16--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/CyG29aiPGoEM4GQcqymUE/c14ebc5426dbb859900c62d5dee93869/4_twilio_contentful.png)
+[![image alt text](img/20cb94316c8a123d18d0d4f5a8372974.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NfvYRz16--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/CyG29aiPGoEM4GQcqymUE/c14ebc5426dbb859900c62d5dee93869/4_twilio_contentful.png)
 
 并将其命名为 messageToVoters，如下所示:
 
-[![image alt text](../Images/5ecc6f0aee4fd6f2349f942c667c0381.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jXP_raKW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/5D4UGyTHZSs4Oi88wqIImQ/e5209b427cf3d53f940ff1fa1cec1e3d/5_twilio_contentful.png)
+[![image alt text](img/5ecc6f0aee4fd6f2349f942c667c0381.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jXP_raKW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/5D4UGyTHZSs4Oi88wqIImQ/e5209b427cf3d53f940ff1fa1cec1e3d/5_twilio_contentful.png)
 
 内容类型就绪后，让我们通过选择**Content/Add entry/voter message**来添加将要发送给潜在投票者的消息。
 
 Polly political 想要传达的信息是——“Selly 名人支持 Polly political——你也应该支持”，所以让我们补充一下:
 
-[![image alt text](../Images/be51e7a0ceff03dff2f0090b216d4957.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jzWgsD81--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/1kWHO1ImoYEYmsUmCwya0y/13c7937c0f2d95c794fc120ee04bae46/6_twilio_contentful.png)
+[![image alt text](img/be51e7a0ceff03dff2f0090b216d4957.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jzWgsD81--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/1kWHO1ImoYEYmsUmCwya0y/13c7937c0f2d95c794fc120ee04bae46/6_twilio_contentful.png)
 
 一旦我们点击绿色的发布按钮，Polly 的选民信息将获得一个唯一的条目 ID。我们将在通过 [Contentful 的](https://www.contentful.com/developers/docs/references/content-delivery-api/?utm_campaign=devto-running-a-serverless-voter-campaign-with-contentful-and-twilio&utm_medium=referral&utm_source=devto&utm_content=devto-running-a-serverless-voter-campaign-with-contentful-and-twilio) [内容](https://www.contentful.com/developers/docs/references/content-delivery-api/) [交付 API](https://www.contentful.com/developers/docs/references/content-delivery-api/?utm_campaign=devto-running-a-serverless-voter-campaign-with-contentful-and-twilio&utm_medium=referral&utm_source=devto&utm_content=devto-running-a-serverless-voter-campaign-with-contentful-and-twilio) 或 CDA 检索条目时使用这个条目 ID。
 
 要查看条目 ID，请点按“简介”按钮:
 
-[![image alt text](../Images/e85174e57d0adae44448571263d2afd3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZFRnpKZI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/3a09Sj3Qc8Q2kcGAKIYmaa/00211ab37dba74956afba11bdda97f1d/7_twilio_contentful.png)
+[![image alt text](img/e85174e57d0adae44448571263d2afd3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZFRnpKZI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/3a09Sj3Qc8Q2kcGAKIYmaa/00211ab37dba74956afba11bdda97f1d/7_twilio_contentful.png)
 
 我们的词条是**ykt 2v 3 iyqwwaekwskg 0a**。
 
@@ -111,11 +111,11 @@ Polly political 想要传达的信息是——“Selly 名人支持 Polly politi
 
 要针对 CDA 进行身份验证，我们需要创建一个 API 密钥，方法是导航到**空间设置**和 **API 密钥**:
 
-[![image alt text](../Images/cc72a0c8386396eb9ac42b1b612c7d57.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p1OPaA-_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/4I7aQNew3uSI8AuUqCWg4k/4fbdcd477bd2d2ebef0ca75ccc6c2bab/8_twilio_contentful.png)
+[![image alt text](img/cc72a0c8386396eb9ac42b1b612c7d57.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p1OPaA-_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/4I7aQNew3uSI8AuUqCWg4k/4fbdcd477bd2d2ebef0ca75ccc6c2bab/8_twilio_contentful.png)
 
 然后点击**添加 API 密匙**并给你的密匙起一个合适的名字:
 
-[![image alt text](../Images/635dc599a8fb8fc24a5cb86d54dcd12a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ARayBJuq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/69u6Z4BQPeiMosOsq604os/e606d6c9724a0d2daa03fefdd36ef255/9_twilio_contentful.png)
+[![image alt text](img/635dc599a8fb8fc24a5cb86d54dcd12a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ARayBJuq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/69u6Z4BQPeiMosOsq604os/e606d6c9724a0d2daa03fefdd36ef255/9_twilio_contentful.png)
 
 现在我们有了 API 键，让我们创建一个名为 **getVoterMessage()** 的函数，利用这个 API 键从 Contentful 获取内容。
 
@@ -146,7 +146,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们会得到:
 
-[![image alt text](../Images/ab85dcadacf81e21b29cb81ae5248444.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JY7eTFbE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/2HEmDOaZ04e8ewsmYK0yay/c8c9bef2ed146a519a0fb2dab2bb0593/10_twilio_contentful.png)
+[![image alt text](img/ab85dcadacf81e21b29cb81ae5248444.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JY7eTFbE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/2HEmDOaZ04e8ewsmYK0yay/c8c9bef2ed146a519a0fb2dab2bb0593/10_twilio_contentful.png)
 
 下一步是将我们的应用程序连接到 Twilio 的可编程 SMS API。
 
@@ -181,7 +181,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 该功能执行几秒钟后，接收方将看到以下短信:
 
-[![image alt text](../Images/fdab9706667ea7bb85f56eb1849bbf53.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5lgyCdEe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/1cBc9pSu4k8QM2acwAAioi/6a117b98e6eb15940c5359fe48de7153/11_twilio_contentful.png)
+[![image alt text](img/fdab9706667ea7bb85f56eb1849bbf53.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5lgyCdEe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/1cBc9pSu4k8QM2acwAAioi/6a117b98e6eb15940c5359fe48de7153/11_twilio_contentful.png)
 
 有了应用程序的核心功能，让我们通过将它部署到 AWS lambda 来使我们的应用程序无服务器化。
 
@@ -295,7 +295,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 要配置网页挂钩，我们将导航至**空间设置**和**网页挂钩**:
 
-[![image alt text](../Images/31568de59a9122cb8d20eae9050e057b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cige1Wly--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/4H9wD5jC5ayWK64KySqOKg/8cffe3da16a437dffb4cc28e168204d8/12_twilio_contentful.png)
+[![image alt text](img/31568de59a9122cb8d20eae9050e057b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cige1Wly--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/4H9wD5jC5ayWK64KySqOKg/8cffe3da16a437dffb4cc28e168204d8/12_twilio_contentful.png)
 
 然后点击**添加 webhook** 。
 
@@ -303,7 +303,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 此外，我们将设置 webhook 来触发我们点击发布按钮:
 
-[![image alt text](../Images/b7d5e88c20d790a1ea34e71346db6e1d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dleEyMRj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/4xJ79ZpyMU8EYc04yGacWa/ca8278741c0d74f16a5f21d4de0bcfad/13_twilio_contentful.png)
+[![image alt text](img/b7d5e88c20d790a1ea34e71346db6e1d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dleEyMRj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/4xJ79ZpyMU8EYc04yGacWa/ca8278741c0d74f16a5f21d4de0bcfad/13_twilio_contentful.png)
 
 现在的想法是，当我们改变我们的活动信息，点击发布。更新后的信息将通过手机短信发送给选民，只需按下一个按钮。但是在这之前，我们需要返回到我们的函数 runVoterCampaign。
 
@@ -329,11 +329,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 为了测试我们的新 webhook，我们将更新活动信息，如下所示:
 
-[![image alt text](../Images/965279d487b82d319c2cd952dd0b9c1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XTssFK01--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/5iq8BIvzFYUwy4AKQWqAGS/bf97587bb92d811c38161869f64e61e1/14_twilio_contentful.png)
+[![image alt text](img/965279d487b82d319c2cd952dd0b9c1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XTssFK01--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/5iq8BIvzFYUwy4AKQWqAGS/bf97587bb92d811c38161869f64e61e1/14_twilio_contentful.png)
 
 点击绿色的大发布按钮，很快我们的手机就会收到以下消息:
 
-[![image alt text](../Images/ca4abef54d14984c6a307ddb7aef5c43.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1Dmn0Lqf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/1vj1YUpy8wwSui0w42EgkK/e7656e38b165a7dfc137b2d289b2afe9/15_twilio_contentful.png)
+[![image alt text](img/ca4abef54d14984c6a307ddb7aef5c43.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1Dmn0Lqf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/1vj1YUpy8wwSui0w42EgkK/e7656e38b165a7dfc137b2d289b2afe9/15_twilio_contentful.png)
 
 是啊！！！它工作了。很简单吧:)
 
@@ -347,7 +347,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们所创建的逻辑流程如下所示:
 
-[![Logic flow chart](../Images/b7cfc5e66f404ebf2d34c4093a8db848.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UHn3AQBW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/1QWmCEzEGwESEqwk2KAmE4/ee4c53c046794270427c569af457897a/16_twilio_contentful.png)
+[![Logic flow chart](img/b7cfc5e66f404ebf2d34c4093a8db848.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UHn3AQBW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/1QWmCEzEGwESEqwk2KAmE4/ee4c53c046794270427c569af457897a/16_twilio_contentful.png)
 
 ### 前方是什么？
 

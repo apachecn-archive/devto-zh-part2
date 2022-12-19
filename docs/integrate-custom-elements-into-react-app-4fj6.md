@@ -4,7 +4,7 @@
 
 中的 Web 组件支持所有流行的浏览器，包括 IE 11
 
-[![Alt text of image](../Images/4d88e56f6a02bc243934c4b2a8975bf2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--angC8HJr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h5n8ys1mfoy2ktvkv579.jpeg)
+[![Alt text of image](img/4d88e56f6a02bc243934c4b2a8975bf2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--angC8HJr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h5n8ys1mfoy2ktvkv579.jpeg)
 
 如果你对定制元素感兴趣，看看这个。
 
@@ -12,15 +12,15 @@
 
 集成示例在此。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [ shystruk ](https://github.com/shystruk) / [创建-反应-还原-应用-结构](https://github.com/shystruk/create-react-redux-app-structure)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [ shystruk ](https://github.com/shystruk) / [创建-反应-还原-应用-结构](https://github.com/shystruk/create-react-redux-app-structure)
 
 ### 使用构建配置✨创建 React + Redux 应用程序结构
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-# 创建 React Redux App 结构 [![Twitter URL](../Images/3aedcf72e57e3736cd6ea05d11dfd7db.png)](https://twitter.com/intent/tweet?hashtags=reactjs%20%23redux%20%23javascript&original_referer=https%3A%2F%2Fpublish.twitter.com%2F&ref_src=twsrc%5Etfw&text=Start%20your%20project%20fast%20with%20Create%20React%20Redux%20App%20Structure&tw_p=tweetbutton&url=https%3A%2F%2Fgithub.com%2Fshystruk%2Fcreate-react-redux-app-structure&via=shystrukk)
+# 创建 React Redux App 结构 [![Twitter URL](img/3aedcf72e57e3736cd6ea05d11dfd7db.png)](https://twitter.com/intent/tweet?hashtags=reactjs%20%23redux%20%23javascript&original_referer=https%3A%2F%2Fpublish.twitter.com%2F&ref_src=twsrc%5Etfw&text=Start%20your%20project%20fast%20with%20Create%20React%20Redux%20App%20Structure&tw_p=tweetbutton&url=https%3A%2F%2Fgithub.com%2Fshystruk%2Fcreate-react-redux-app-structure&via=shystrukk)
 
-[![MIT Licence](../Images/591bd72b6de74f18b511930f894a2060.png)](https://opensource.org/licenses/mit-license.php)[![codecov](../Images/5e92729eb13fb2d49f4a6d6c4d52245d.png)](https://codecov.io/gh/shystruk/create-react-redux-app-structure)[![Build Status](../Images/f4cfe029afc9e647ebe01684105ec5a3.png)](https://travis-ci.org/shystruk/create-react-redux-app-structure)[![npm version](../Images/84179e5b797402333b9e9d1f030865d9.png)T11】](https://badge.fury.io/js/create-react-redux-app-structure)
+[![MIT Licence](img/591bd72b6de74f18b511930f894a2060.png)](https://opensource.org/licenses/mit-license.php)[![codecov](img/5e92729eb13fb2d49f4a6d6c4d52245d.png)](https://codecov.io/gh/shystruk/create-react-redux-app-structure)[![Build Status](img/f4cfe029afc9e647ebe01684105ec5a3.png)](https://travis-ci.org/shystruk/create-react-redux-app-structure)[![npm version](img/84179e5b797402333b9e9d1f030865d9.png)T11】](https://badge.fury.io/js/create-react-redux-app-structure)
 
 使用构建配置创建 React + Redux 应用程序结构。
 

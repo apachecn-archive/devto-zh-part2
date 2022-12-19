@@ -46,7 +46,7 @@ https://pushergram.herokuapp.com/
 
 *更新*:这里有一篇关于我如何开发这个应用的帖子:
 
-[![troy34 image](../Images/9ff20fd28c97d3e5978574e8151c1682.png)](/troy34) [## 用 Ruby 和 Pusher 构建 Instagram 克隆
+[![troy34 image](img/9ff20fd28c97d3e5978574e8151c1682.png)](/troy34) [## 用 Ruby 和 Pusher 构建 Instagram 克隆
 
 ### Chuks Opia
 

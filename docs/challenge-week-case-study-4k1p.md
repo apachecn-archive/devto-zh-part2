@@ -4,7 +4,7 @@
 
 # 挑战周案例分析
 
-[![Working](../Images/8974869584a36cf4f87f109398b7114f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AyNR6anM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7yv9oajpti4ylexpcgje.jpg)
+[![Working](img/8974869584a36cf4f87f109398b7114f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AyNR6anM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7yv9oajpti4ylexpcgje.jpg)
 
 在当今的技术领域，拥有一个健康的、维护良好的模式库被认为是设计和开发过程的核心部分，可以指导设计师和开发人员获得更好、更一致的结果。这就是为什么在最近的一个项目中，我们开始开发一个模式库。
 
@@ -41,11 +41,11 @@
 对于 TNDS 来说，这个元素集合的目的是保持一致性，允许创建多次出现的元素，从而更容易在未来的项目中重用它们。
 
 我们从识别一些模式开始，比如版式、按钮、卡片、导航条、表单和标签。
-[![Buttons](../Images/dd8bd38ad008dd43e426d376bf850cf7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yrliVYaU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/55wfk7fgf6x24vfpptp5.png) 
+[![Buttons](img/dd8bd38ad008dd43e426d376bf850cf7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yrliVYaU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/55wfk7fgf6x24vfpptp5.png) 
 图 1。图 2 库存
-[![Cards](../Images/ec6bd4e578d27b7bcbe11a0084a76b44.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Lua6CeAq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nw0gplfkdocsd9p2ec0x.png) 
+[![Cards](img/ec6bd4e578d27b7bcbe11a0084a76b44.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Lua6CeAq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nw0gplfkdocsd9p2ec0x.png) 
 界面按钮。从网站收集的 UI 卡组件和手机 app 原型
-[![UI Components](../Images/6ff153b92159a840cf80219cffdb863c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--c1kajapa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9g8lcp6julnihplmago9.png) 
+[![UI Components](img/6ff153b92159a840cf80219cffdb863c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--c1kajapa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9g8lcp6julnihplmago9.png) 
 图 3。从网站和移动应用原型收集的 UI 卡组件
 
 我知道有一些工具可以帮助你避免从头开始构建模式库，我找到了一些像 Atomic 和 Astrum 这样的工具，并对它们进行了测试。之所以选择 Astrum，是因为它是轻量级的，易于包含在项目中，还因为它提供了命令行来管理组件和组。Astrum 的响应也很快，我喜欢定制主题的简单性。

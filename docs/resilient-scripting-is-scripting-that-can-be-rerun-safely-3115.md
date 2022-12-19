@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/briannipper/resilient-scripting-is-scripting-that-can-be-rerun-safely-3115>
 
-[![](../Images/743bca4833d2bcaaaa56346b9359dbf8.png)](https://2.bp.blogspot.com/-OpAbl076Y8o/W2yvk-FhKOI/AAAAAAAAHJo/mVd1WFJj4E094cwBvBxUb2E4xt5vjGOqgCLcBGAs/s1600/saftey-first.jpg) 
+[![](img/743bca4833d2bcaaaa56346b9359dbf8.png)](https://2.bp.blogspot.com/-OpAbl076Y8o/W2yvk-FhKOI/AAAAAAAAHJo/mVd1WFJj4E094cwBvBxUb2E4xt5vjGOqgCLcBGAs/s1600/saftey-first.jpg) 
 
 对于不同的人来说，制作一个有弹性的脚本可能意味着许多不同的事情，我认为其中一个重要的事情就是能够“安全地”重新运行脚本。我所说的安全是指尽量减少副作用，防止不良后果。
 

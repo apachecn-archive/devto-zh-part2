@@ -10,19 +10,19 @@
 
 下面是一些集群的图片，在这些集群中进行了 Snappy 压缩测试。这些图表显示了从存储大小到系统指标的各种指标。
 
-[![](../Images/46b05c82bb3231dab9959f747c9ba5ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OhXvv_Ws--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-11-06/dev_grafana_hbase_get_mutate_latencies.png)
+[![](img/46b05c82bb3231dab9959f747c9ba5ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OhXvv_Ws--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-11-06/dev_grafana_hbase_get_mutate_latencies.png)
 
-[![](../Images/8e7a524f6ecec156734fb123317da354.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--linhfWtS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-11-06/dev_grafana_hbase_size.png)
+[![](img/8e7a524f6ecec156734fb123317da354.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--linhfWtS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-11-06/dev_grafana_hbase_size.png)
 
-[![](../Images/32237fd622601a0eed105e947fbcf21c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CnQjjbf5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-11-06/test_grafana_hbase_get_mutate_latencies.png)
+[![](img/32237fd622601a0eed105e947fbcf21c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CnQjjbf5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-11-06/test_grafana_hbase_get_mutate_latencies.png)
 
-[![](../Images/8289fa96a5e37bfdc70b7e5cf858ac76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wfKR38hi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-11-06/test_grafana_hbase_size.png)
+[![](img/8289fa96a5e37bfdc70b7e5cf858ac76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wfKR38hi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-11-06/test_grafana_hbase_size.png)
 
-[![](../Images/2a83d34c0c67ceac04ac6273827d2433.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TSV8lipJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-11-06/test_grafana_system_disk_io.png)
+[![](img/2a83d34c0c67ceac04ac6273827d2433.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TSV8lipJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-11-06/test_grafana_system_disk_io.png)
 
-[![](../Images/eeadf4f8bf944e33290429f99ce83295.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t85MyCDo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-11-06/test_grafana_system_iowait.png)
+[![](img/eeadf4f8bf944e33290429f99ce83295.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t85MyCDo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-11-06/test_grafana_system_iowait.png)
 
-[![](../Images/0ce4d79cc6ca8ee7b356974768a31aa8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E4qI3voD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-11-06/test_grafana_system_user.png)
+[![](img/0ce4d79cc6ca8ee7b356974768a31aa8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E4qI3voD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-11-06/test_grafana_system_user.png)
 
 ### 结论
 

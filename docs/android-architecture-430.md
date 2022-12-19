@@ -12,7 +12,7 @@ Android 最明显的部分，至少对开发者来说，是它的操作系统。
 
 图 1 显示了 Android 平台的逻辑架构。
 
-[![Androidarchitecture](../Images/4b3bd5bf3efa89747498b69f2eeaa898.png "androidarchitecture.png")](https://res.cloudinary.com/practicaldev/image/fetch/s--5fQulu1g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/-hFcqoGfxzPg/W4AXA2ozdZI/AAAAAAAABQg/bU9JK9IIKYY2lPAhhURn7rnujqdpuYsDACHMYCw/androidarchitecture.png%3Fimgmax%3D1600) 
+[![Androidarchitecture](img/4b3bd5bf3efa89747498b69f2eeaa898.png "androidarchitecture.png")](https://res.cloudinary.com/practicaldev/image/fetch/s--5fQulu1g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/-hFcqoGfxzPg/W4AXA2ozdZI/AAAAAAAABQg/bU9JK9IIKYY2lPAhhURn7rnujqdpuYsDACHMYCw/androidarchitecture.png%3Fimgmax%3D1600) 
 
 **图 1。安卓的逻辑架构**
 
@@ -26,4 +26,4 @@ Linux 是一个非常稳定的操作系统，并且无处不在，你可以发�
 
 最后，最上面是应用层。这是我们所有应用程序的所在地，包括我们编写的和预构建的应用程序。应该指出的是，与我们将要编写的应用程序相比，设备自带的预构建应用程序没有任何特权。如果不喜欢手机的邮箱 app，可以自己写，自己更换。安卓就是这样民主的。
 
-[![](../Images/b1670d60ba171a04a73fb387496157eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BS2EzixO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/WorkingDev/%257E4/ClZGsk9-CHE)
+[![](img/b1670d60ba171a04a73fb387496157eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BS2EzixO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/WorkingDev/%257E4/ClZGsk9-CHE)

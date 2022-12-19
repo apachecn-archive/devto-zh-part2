@@ -326,7 +326,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 你的结果应该和我的相似。
 
-[![GraphQL Playground](../Images/127359c326fcd75dee9a8c251631fe91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pWOMQZxa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-graphql-api/graphql-playground-900546fc63871b4bc398ff1dc266f3f4199c9727654a808c4a440d30c6bd5705.png)
+[![GraphQL Playground](img/127359c326fcd75dee9a8c251631fe91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pWOMQZxa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-graphql-api/graphql-playground-900546fc63871b4bc398ff1dc266f3f4199c9727654a808c4a440d30c6bd5705.png)
 
 您可以单击右边的“SCHEMA”选项卡来查看可用的查询和变化。很圆滑，是吧？！
 
@@ -521,7 +521,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 登录您的 Okta 开发者账户(如果您没有账户，请注册，然后导航至**应用** > **添加应用**。点击**单页应用**，点击下一个的**，给应用取一个你会记住的名字。将`localhost:8080`的所有实例更改为`localhost:3000`并点击**完成**。你的设置应该类似于下面的截图。**
 
-[![OIDC App Settings](../Images/35d89d61e32e6be390ab7e1f14cfeacf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I_IUz9Yi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-graphql-api/oidc-app-settings-2d66eb0c762f4d3b73a21158b61bd0ecb4a8f5441677d504f6f1ba02e37c3c70.png)
+[![OIDC App Settings](img/35d89d61e32e6be390ab7e1f14cfeacf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I_IUz9Yi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-graphql-api/oidc-app-settings-2d66eb0c762f4d3b73a21158b61bd0ecb4a8f5441677d504f6f1ba02e37c3c70.png)
 
 Okta 的 React SDK 允许您将 OIDC 集成到 React 应用程序中。要安装，请运行以下命令:
 
@@ -1164,19 +1164,19 @@ Enter fullscreen mode Exit fullscreen mode
 
 您应该会看到`Home`组件和一个登录按钮。
 
-[![Home Screen](../Images/780bbc1490d91baf1c3003dc349ba515.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0UoKGA38--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-graphql-api/home-5a481cae39d18a3043a6e03d9cf84e5be03976661f16a12adcf73bdf796d3e7c.png)
+[![Home Screen](img/780bbc1490d91baf1c3003dc349ba515.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0UoKGA38--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-graphql-api/home-5a481cae39d18a3043a6e03d9cf84e5be03976661f16a12adcf73bdf796d3e7c.png)
 
 点击**登录**，系统会提示您输入 Okta 凭证。
 
-[![Login Screen](../Images/3d05fc9787b8773580663bf78dd7e6a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tiwSkbp0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-graphql-api/login-2ff927fda8724a1654ceb4481d71b31f60f9576182556757ea422724e92c772c.png)
+[![Login Screen](img/3d05fc9787b8773580663bf78dd7e6a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tiwSkbp0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-graphql-api/login-2ff927fda8724a1654ceb4481d71b31f60f9576182556757ea422724e92c772c.png)
 
 然后你就登录了！
 
-[![Home Screen with Authenticated User](../Images/cf06d9ea2fa1ed494147c622a9598165.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a0FKeiJI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-graphql-api/home-authenticated-599ac4b0aa92fd60139800e4878cd5a82f4370e5a2e145a0d569b809f76ef113.png)
+[![Home Screen with Authenticated User](img/cf06d9ea2fa1ed494147c622a9598165.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a0FKeiJI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-graphql-api/home-authenticated-599ac4b0aa92fd60139800e4878cd5a82f4370e5a2e145a0d569b809f76ef113.png)
 
 点击**管理积分**查看积分列表。
 
-[![Your Points Screen](../Images/80a52b05dabd4e2bab522d1e62f09500.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cO-p1G9A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-graphql-api/points-list-f6f1b6417df2a28fdd2a8e151dd5814ad760ac579564e04e1aba8569af0b6e96.png)
+[![Your Points Screen](img/80a52b05dabd4e2bab522d1e62f09500.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cO-p1G9A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-graphql-api/points-list-f6f1b6417df2a28fdd2a8e151dd5814ad760ac579564e04e1aba8569af0b6e96.png)
 
 看到一切都正常运转很酷，不是吗？！:D
 
@@ -1304,9 +1304,9 @@ Enter fullscreen mode Exit fullscreen mode
 
 重启 API，您应该可以开始比赛了！
 
-[![Add Points Modal](../Images/823426c4213dcd76df10e1de3dfbb1dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pQZj0mBN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-graphql-api/modal-add-b6d3e16a6e8b2664db74bb037745286b5226368692a3e2783c6421d1a147fe0f.png)
+[![Add Points Modal](img/823426c4213dcd76df10e1de3dfbb1dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pQZj0mBN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-graphql-api/modal-add-b6d3e16a6e8b2664db74bb037745286b5226368692a3e2783c6421d1a147fe0f.png)
 
-[![Edit Points Modal](../Images/ef589a4cd332b81fd756d8f59c7f78cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7vH89kbZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-graphql-api/modal-edit-0b8914c491e88f64ca9009f0b9390c3c23f50986776df772505f8c408d6f82b8.png)
+[![Edit Points Modal](img/ef589a4cd332b81fd756d8f59c7f78cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7vH89kbZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-graphql-api/modal-edit-0b8914c491e88f64ca9009f0b9390c3c23f50986776df772505f8c408d6f82b8.png)
 
 ### 源代码
 

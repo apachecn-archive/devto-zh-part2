@@ -33,7 +33,7 @@ LevelTraversal(tree)
 ```
 
 让我们来看一个例子。
-[![Alt Stack](../Images/93f54cde62307ac81ca8fe1fce54b3c5.png "Breadth First Search (BFS)")T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--oMBOtL6q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/FrHLqeU.png)
+[![Alt Stack](img/93f54cde62307ac81ca8fe1fce54b3c5.png "Breadth First Search (BFS)")T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--oMBOtL6q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/FrHLqeU.png)
 
 -我们在这里看到了示例，我们将显示队列。
 

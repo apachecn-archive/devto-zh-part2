@@ -16,19 +16,19 @@ https://dev.to/programmingmonky/devto-25lm
 要转移到报道的制作画面时，单击
 画面上部菜单栏的“WRITE A POST”按钮。
 
-[![記事の作成画面](../Images/99dbdaaac612333d9728f07714120330.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1f5h2W09--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u8fvoaot6rzrpkgxaiwz.PNG)
+[![記事の作成画面](img/99dbdaaac612333d9728f07714120330.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1f5h2W09--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u8fvoaot6rzrpkgxaiwz.PNG)
 
 ## 文章投稿画面的解说
 
 我想按下“WRITE A POST”按钮，就会显示文章的制作画面。
 
-[![記事の投稿画面](../Images/991a8281c9161214c259a43a455aaba3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bnp8nK-8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xo7txuilgt1qn1w7zcy7.PNG)
+[![記事の投稿画面](img/991a8281c9161214c259a43a455aaba3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bnp8nK-8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xo7txuilgt1qn1w7zcy7.PNG)
 
 解说这个画面的使用方法
 
 ### Upper UI part
 
-[![上部 UI 部分](../Images/b0bf126861912a386f253a7bbeda07c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hJ62mz5z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/57fpx0nzquori1p3n0jo.PNG)
+[![上部 UI 部分](img/b0bf126861912a386f253a7bbeda07c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hJ62mz5z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/57fpx0nzquori1p3n0jo.PNG)
 
 *   1\. `[HELP]`按钮:显示[dev.to 的说明文章](https://dev.to/p/editor_guide)(英文)。
 *   2\. `[MARKDOWN]`按钮:显示文章的编辑界面。
@@ -37,12 +37,12 @@ https://dev.to/programmingmonky/devto-25lm
 *   4\. `[SAVEPOST]`按钮:临时保存文章的投稿内容。
 *   5\. `[Upload Image]`按钮:用于上传图片。
     *   按按钮在资源管理器中选择要上传的图像。
-        *   上传图像后，upload 图像的 URL 会出现在按钮的右侧。 ![アップロードされた画像へのリンク](../Images/1bb9449c388b153eb5ddf06490382112.png)
+        *   上传图像后，upload 图像的 URL 会出现在按钮的右侧。 ![アップロードされた画像へのリンク](img/1bb9449c388b153eb5ddf06490382112.png)
     *   在文章中嵌入图像的方法由后述的 markdown 解说进行。
 
 ### 下部的报道部分
 
-[![記事部分の画像](../Images/8432403f70f1853e6381c9a7b710ff7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lz3OgH2D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8vic4zkmewuovaikn10i.png)
+[![記事部分の画像](img/8432403f70f1853e6381c9a7b710ff7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lz3OgH2D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8vic4zkmewuovaikn10i.png)
 
 *   1 文章的标题部分。
     *   在此处写入标题、标签等文章的元信息。
@@ -75,13 +75,13 @@ tags:
     *   虽然不会出现在报道中，但是会被记载在链接到 twitter 和 slack 时的卡片上。
     *   这是贴在 Slack 上的例子。 红框的部分是在 description 上写的内容。
 
-    [![Slackに張った例](../Images/98fda85d64fb7b4fd1614fce6ef7e658.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rV_I2sj_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8lqf6lbuent4i8cqkbcx.png)
+    [![Slackに張った例](img/98fda85d64fb7b4fd1614fce6ef7e658.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rV_I2sj_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8lqf6lbuent4i8cqkbcx.png)
 
 *   tags :用 csv 记载那篇报道的类型。 最多可以记载 4 个。
 
 作为实例，本文的标题如下所示。
 
-[![この記事のヘッダ](../Images/6368e24d5c94922ceca352b7e2a33900.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GUqkP91W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mymi6i5iw5j0v7bco0b7.PNG)
+[![この記事のヘッダ](img/6368e24d5c94922ceca352b7e2a33900.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GUqkP91W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mymi6i5iw5j0v7bco0b7.PNG)
 
 # 关于语法的 markdown
 
@@ -274,7 +274,7 @@ html 由 W3C 和 WHATWG 这样的团体努力标准化，但 Markdown 的标准�
 *   引用他人的文章在以`>`开头的行中进行
 *   图像的刊登如下
 
-[![画像の書き方](../Images/cc30de233163ce43880cd35f94099baf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IWdBozlW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ib23dcircyw56nfznlec.PNG)
+[![画像の書き方](img/cc30de233163ce43880cd35f94099baf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IWdBozlW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ib23dcircyw56nfznlec.PNG)
 
 *   只有这个是 jekyll 的方言。 对不起。
 
@@ -286,11 +286,11 @@ html 由 W3C 和 WHATWG 这样的团体努力标准化，但 Markdown 的标准�
 
 代码块的描述示例如下所示。
 
-[![コードブロックのサンプル](../Images/4ad893bc08cdc9cafefeac41573a20ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hnW3_c-X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yswu6ab3yn70h05fv1q2.PNG)
+[![コードブロックのサンプル](img/4ad893bc08cdc9cafefeac41573a20ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hnW3_c-X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yswu6ab3yn70h05fv1q2.PNG)
 
 上述 markdown 的记述在文章中显示如下。
 
-[![コードブロックの表示例](../Images/bdfc39eb5ca5d7c878cd0c193c76292d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wOuice-l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1epkmq63wcswswjhmwed.PNG)
+[![コードブロックの表示例](img/bdfc39eb5ca5d7c878cd0c193c76292d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wOuice-l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1epkmq63wcswswjhmwed.PNG)
 
 dev.to 使用名为 jekyll 的工具的 markdown 格式。
 光是上述要素就足以制作 dev.to 的文章，如果想使用 jekyll 用的更发展的句法的话

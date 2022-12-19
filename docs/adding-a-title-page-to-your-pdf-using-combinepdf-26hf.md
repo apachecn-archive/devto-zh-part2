@@ -79,7 +79,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们刚刚保存到我们的`output_filepath`让我们去看看:
 
-[![alt text](../Images/50efee47347f6a82dedc8d36bc078d2a.png "page number on the title page")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IDnwFG8P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dv8mumrhouzo4cmc48hi.png)
+[![alt text](img/50efee47347f6a82dedc8d36bc078d2a.png "page number on the title page")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IDnwFG8P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dv8mumrhouzo4cmc48hi.png)
 
 ## OOoops
 
@@ -122,7 +122,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们运行它，看看我们会得到什么！
 
-[![alt text](../Images/55c988cbf17fb43f42b065327d08dfff.png "No number on the title page")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4L08-_kz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/70lld737zvsbqrg10o7c.png)
+[![alt text](img/55c988cbf17fb43f42b065327d08dfff.png "No number on the title page")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4L08-_kz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/70lld737zvsbqrg10o7c.png)
 
 ## 好看！
 

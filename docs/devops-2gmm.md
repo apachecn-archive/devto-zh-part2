@@ -16,7 +16,7 @@
 # DevOps on Merpay Microservices -株式会社 Merpay 高木润一郎先生
 
 [关注@tjun](https://twitter.com/tjun?ref_src=twsrc%5Etfw)
-[![image.png (3.8 MB)](../Images/99e62ec9ac9f248b57e0861b3d4fcdb2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lcUNE6JX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/20/30651/55d67b4a-b52d-4c42-8df4-de40c57b9dd6.png)
+[![image.png (3.8 MB)](img/99e62ec9ac9f248b57e0861b3d4fcdb2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lcUNE6JX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/20/30651/55d67b4a-b52d-4c42-8df4-de40c57b9dd6.png)
 
 ## 幻灯片
 
@@ -29,7 +29,7 @@
 
 ## Merpay 的体系结构
 
-[![image.png (264.8 kB)](../Images/f746bb3243c6a84d0340f1bc9e69aff2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0ASOufKE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/20/30651/77b451cc-9f8e-4c90-b089-1e5673cf5d86.png)
+[![image.png (264.8 kB)](img/f746bb3243c6a84d0340f1bc9e69aff2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0ASOufKE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/20/30651/77b451cc-9f8e-4c90-b089-1e5673cf5d86.png)
 
 *   大部分是用 Go 写的
     *   有类似 Go microservice template 的代码
@@ -37,14 +37,14 @@
 
 ## Merpay API 网关
 
-[![image.png (240.8 kB)](../Images/bca79bd1821a032ae5635df0200f9703.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O9GowhLu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/20/30651/8b339a85-b941-45dc-b9d1-a0dc3066f930.png)
+[![image.png (240.8 kB)](img/bca79bd1821a032ae5635df0200f9703.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O9GowhLu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/20/30651/8b339a85-b941-45dc-b9d1-a0dc3066f930.png)
 
 *   Merpay 方面也得到改善
 *   CI/CD CircleCI ->集装箱注册-> Spinnakerで自動デプロイ
 
 ## 运用机制的通用化
 
-[![image.png (277.5 kB)](../Images/f3fb18174fb751a96d01aeffe8fb9c7c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xNa0h2td--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/21/30651/48248bce-685c-44a8-a652-265ca878a92c.png)
+[![image.png (277.5 kB)](img/f3fb18174fb751a96d01aeffe8fb9c7c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xNa0h2td--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/21/30651/48248bce-685c-44a8-a652-265ca878a92c.png)
 
 *   在 Microservices 中，各服务团队成为 Owner 进行运用的技术选定也是自由的
 *   尽管如此，为了支持 SRE 和其他团队的成员，需要通用化
@@ -76,9 +76,9 @@ SLO(objective)を服务水平決める
 # IT 基础设施持续改善的实践- red hat 株式会社中岛伦明先生
 
 [关注@irix_jp](https://twitter.com/irix_jp?ref_src=twsrc%5Etfw)
-[![image.png (455.5 kB)](../Images/39db0193573d1c6ee62b910f6a984792.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JJJjQMzp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/21/30651/4a36fbd9-67f2-4b6c-93dc-759ff1e4b04c.png)
+[![image.png (455.5 kB)](img/39db0193573d1c6ee62b910f6a984792.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JJJjQMzp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/21/30651/4a36fbd9-67f2-4b6c-93dc-759ff1e4b04c.png)
 
-[![image.png (399.0 kB)](../Images/c19d1de09eb804cb6b49f420e53ab556.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vTNmvH-g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/21/30651/7c1bd487-ad3f-4b41-949a-10643f254424.png)
+[![image.png (399.0 kB)](img/c19d1de09eb804cb6b49f420e53ab556.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vTNmvH-g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/21/30651/7c1bd487-ad3f-4b41-949a-10643f254424.png)
 
 ## 对 IT 基础设施自动化的关注
 
@@ -93,7 +93,7 @@ SLO(objective)を服务水平決める
 
 ## 提高 IT 基础设施效率的三位一体
 
-[![image.png (292.6 kB)](../Images/b04115242896e8af0f17c5c1d21d7dfb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SDNV6RTo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/21/30651/c99f1062-1f5e-438d-85e6-d50815ec7248.png)
+[![image.png (292.6 kB)](img/b04115242896e8af0f17c5c1d21d7dfb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SDNV6RTo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/21/30651/c99f1062-1f5e-438d-85e6-d50815ec7248.png)
 
 ## 推进自动化时的烦恼
 
@@ -110,7 +110,7 @@ SLO(objective)を服务水平決める
 
 ## 什么是自动化的正确性
 
-[![image.png (336.4 kB)](../Images/742f7be6e2656099e73d09ad187d9f11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XjWRHAo2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/21/30651/330b70dc-87fe-4451-b71c-da73c09f40f2.png)
+[![image.png (336.4 kB)](img/742f7be6e2656099e73d09ad187d9f11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XjWRHAo2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/21/30651/330b70dc-87fe-4451-b71c-da73c09f40f2.png)
 
 *   关于自动化正确性的烦恼
 *   步骤书和规格书是用于在作业前验证担保的东西
@@ -118,7 +118,7 @@ SLO(objective)を服务水平決める
 
 ## TDD 性的基础设施的方法
 
-[![image.png (386.2 kB)](../Images/e47cf9286ff18d2654e7ee172b073fdb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xy1iq165--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/21/30651/d2b16a22-78b2-4edd-8de0-ff5326c7a502.png)
+[![image.png (386.2 kB)](img/e47cf9286ff18d2654e7ee172b073fdb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xy1iq165--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/21/30651/d2b16a22-78b2-4edd-8de0-ff5326c7a502.png)
 
 ## 如果可以自动验证自动化的正确性
 
@@ -134,7 +134,7 @@ SLO(objective)を服务水平決める
 
 ## 应对变化
 
-[![image.png (349.2 kB)](../Images/f9b0ddf39c286f6b727db673be3712c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uKHAuuL4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/21/30651/010a81b3-be1f-41c3-b250-ba04038b4067.png)
+[![image.png (349.2 kB)](img/f9b0ddf39c286f6b727db673be3712c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uKHAuuL4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/21/30651/010a81b3-be1f-41c3-b250-ba04038b4067.png)
 
 *   以应对变化为前提构建、运用系统更合理
 
@@ -145,12 +145,12 @@ SLO(objective)を服务水平決める
 
 [使用基础设施 CI 实践指南 Ansible/GitLab 实现基础设施改善循环](http://amzn.asia/d/cKYtvQF)一书最近发售了！
 
-[![image.png (409.9 kB)](../Images/1eac22587f4c29971931dd4fcb5e8e3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LnQXDJGN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/21/30651/7d02453c-a9d2-401f-a0d9-52c49b728225.png)
+[![image.png (409.9 kB)](img/1eac22587f4c29971931dd4fcb5e8e3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LnQXDJGN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/21/30651/7d02453c-a9d2-401f-a0d9-52c49b728225.png)
 
 # 作为 DevOps 实施者的 SRE 的存在和作用-株式会社研究人员北野胜久先生
 
 [关注@胜久 __](https://twitter.com/katsuhisa__?ref_src=twsrc%5Etfw)
-[![image.png (457.7 kB)](../Images/1cdbe1b812c31832fd7864f8b3668ae9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--opVKZKN7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/21/30651/b18d232e-29b8-445c-8ac2-fec5a6a46597.png)
+[![image.png (457.7 kB)](img/1cdbe1b812c31832fd7864f8b3668ae9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--opVKZKN7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/21/30651/b18d232e-29b8-445c-8ac2-fec5a6a46597.png)
 
 ## 幻灯片
 
@@ -175,13 +175,13 @@ SLO(objective)を服务水平決める
 无论是 SRE 还是 TDD，更多的是各论 IaC、Kubernetes、分析基础，如果是工程师的话是**大家都想做的**，对吧？ 但是，很多人觉得好不容易提出来了也不能顺利进行吧？
 关于这一点，有一个说法是**数据和显示研究结果的**
 
-[![image.png (1.5 MB)](../Images/8bae2c5916e00b762808be8ba96468da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B4JVYuKm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/22/30651/a8575b9c-4ace-4fe0-a731-2a663512b086.png)
+[![image.png (1.5 MB)](img/8bae2c5916e00b762808be8ba96468da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B4JVYuKm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/22/30651/a8575b9c-4ace-4fe0-a731-2a663512b086.png)
 
 我从上一份工作开始就一直在考虑提案的方法，但是我最近发现，对于没能顺利提出的提案，很多时候只会撒下这种让人困扰的事情，这不是更好吗？相反，顺利进行的时候，是充分提取数据的时候。 因为感觉到了，所以感觉到了“咔嗒”的一声。然后最近开始觉得在 DevOps 上再加上 Biz 这样的想法，也就是说提出考虑了经营视线和其他团队以及运用的提案是最重要的，但是我想最近再好好总结一下写报道。 itepaper 好像每年都会在[这里](https://puppet.com/resources/whitepaper)出现(发表中介绍的是[2014 state of devo PS report–thank you|puppet](https://puppet.com/resources/whitepaper/2014-state-devops-report/thank-you))
 
 ### 为了队伍的规模
 
-[![image.png (903.5 kB)](../Images/4bd56cb29bcc0f393d8a6c6b70eca885.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kQj_vrJV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/22/30651/906639d0-2a26-470b-8208-c8cc30b38484.png)
+[![image.png (903.5 kB)](img/4bd56cb29bcc0f393d8a6c6b70eca885.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kQj_vrJV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/22/30651/906639d0-2a26-470b-8208-c8cc30b38484.png)
 
 为了服务的规模，团队和每个人都必须规模，为此要做什么呢
 
@@ -198,7 +198,7 @@ SLO(objective)を服务水平決める
 # CI/CD 自动化与 DevOps 抽象的尝试- Japan Digital Design 株式会社 Takuya Noguchi 先生
 
 [关注@tn961ir](https://twitter.com/tn961ir?ref_src=twsrc%5Etfw)
-[![image.png (555.5 kB)](../Images/15b65101e93ace5e594ea6682528a363.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gloOEhcL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/22/30651/79af7e66-b5ef-41cf-9940-508bf89eb89b.png)
+[![image.png (555.5 kB)](img/15b65101e93ace5e594ea6682528a363.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gloOEhcL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/22/30651/79af7e66-b5ef-41cf-9940-508bf89eb89b.png)
 
 ## 幻灯片
 
@@ -222,11 +222,11 @@ SLO(objective)を服务水平決める
 
 在精神饱满的 JDD 副社长的干杯上还举行了联欢会
 
-[![image.png (506.1 kB)](../Images/d3c154d3e25b38446103664aff71c8c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3au0t2ui--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/22/30651/6c4a75e3-7387-4961-9fbc-0513a4424ad9.png)
+[![image.png (506.1 kB)](img/d3c154d3e25b38446103664aff71c8c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3au0t2ui--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/22/30651/6c4a75e3-7387-4961-9fbc-0513a4424ad9.png)
 
 菜也很好吃
 
-[![image.png (497.0 kB)](../Images/4967e84aa505e869aaec92e4aaaf2c0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--13ceTDqn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/22/30651/a065bc15-3ca7-4d88-9479-06fa8095505f.png)
+[![image.png (497.0 kB)](img/4967e84aa505e869aaec92e4aaaf2c0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--13ceTDqn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://esa-upload.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/7996/2018/09/22/30651/a065bc15-3ca7-4d88-9479-06fa8095505f.png)
 
 我想这一定和每个月在 Sansan 举办的公司内部联谊会是同一家餐饮公司吧。上个月去表参道. rb 的时候也吃过，但是吃了这个饭团就会想起 Sansan (虽然还是辞职两个月左右)
 

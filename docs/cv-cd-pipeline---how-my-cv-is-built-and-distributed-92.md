@@ -6,7 +6,7 @@
 
 这是一个永恒故事的另一部分，在这个故事中，某个地方的某个人认为，手头的任务最好是自动化的。
 
-[![Automate all the things!](../Images/0659b44a2218b0fad4ec52a71f7f35dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4uFpNKSD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgs.xkcd.com/comics/automation.png)
+[![Automate all the things!](img/0659b44a2218b0fad4ec52a71f7f35dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4uFpNKSD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgs.xkcd.com/comics/automation.png)
 
 **剧透:**
 

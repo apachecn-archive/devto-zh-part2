@@ -10,7 +10,7 @@
 
 然而，问题是，除非我们的项目非常简单，否则我们的模板文件增长很快。我们基于[弹性容器服务](https://aws.amazon.com/ecs/)的典型环境设置，包括 VPC、故障转移、防火墙、负载平衡、自动伸缩、日志记录和监控，在我们的 JSON 模板文件中需要大约 2.5k 行。其中的一些构造——比如将 RDS 数据库连接字符串传递给包含多个串联参数的容器实例，其中一些参数是秘密的，另一些是由其他资源生成的——非常冗长和复杂。
 
-[![Is this how your AWS CloudFormation templates looks like?](../Images/daf4b762dfdeeadf87b74e16bcf6cbd4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LUQ9fv1c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m8y6ldtzgnupsz5wlidr.jpg)
+[![Is this how your AWS CloudFormation templates looks like?](img/daf4b762dfdeeadf87b74e16bcf6cbd4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LUQ9fv1c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m8y6ldtzgnupsz5wlidr.jpg)
 
 ## 进入 cloudform
 

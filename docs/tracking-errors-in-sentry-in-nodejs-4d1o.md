@@ -12,13 +12,13 @@ Sentry 是一个开源的错误跟踪工具，可以帮助开发人员实时监�
 
 在[哨兵](https://sentry.io)上注册并登录后，按右上角的新建项目。
 
-[![alt-image](../Images/751c46cf1c5a2ddf7d8eb817574b49d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H_xeNVXF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.gyazo.com/ab375fd14b1381590eb2d62a7f1356e5.png)
+[![alt-image](img/751c46cf1c5a2ddf7d8eb817574b49d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H_xeNVXF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.gyazo.com/ab375fd14b1381590eb2d62a7f1356e5.png)
 
 在本教程中，我们将介绍 Sentry 的一般 Node.js 用法，因此请确保选择 Node.js 而不是 Express。
 
 在给你的项目命名并点击闪亮的 Create 按钮后，会弹出一个文档页面。
 
-[![alt-image](../Images/6a4942f81bfe74e8213f0ebf1d9fe78e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8RVf-u19--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.gyazo.com/24f3e14b1606c9f353d9650eb6761f30.png)
+[![alt-image](img/6a4942f81bfe74e8213f0ebf1d9fe78e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8RVf-u19--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.gyazo.com/24f3e14b1606c9f353d9650eb6761f30.png)
 
 在“配置客户端”标题下，应该有一个包含您的 Sentry DSN 的代码块。将代码保存在某个地方，因为**我们稍后会需要它**，所以我们可以通过我们的客户端模块 Raven 与 Sentry 通信。
 

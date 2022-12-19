@@ -20,7 +20,7 @@
 
 最大的问题——技术债务:由于 Wordpress 是市场上的主要玩家，他们的许多客户都拥有用旧版本 Wordpress 创建的网站。因此，他们无法提出一个新的系统来解决所有根深蒂固的潜在问题。这个概念被称为“技术债务”Wordpress 有一个巨大的债务，如下图所示。技术债务的结果如下:用 Wordpress 启动一个项目可能会很快，随着时间的推移，添加更多的功能会越来越慢。我们曾经为一个客户创建了一个商店。在它上线后，客户要求我们做另一个小更新:在结账时添加一个可选的“学校地址”。这与建立整个商店一样昂贵，只是因为“技术债务”使得在不破坏其他功能的情况下添加一个功能变得如此繁琐。
 
-<figure>[![](../Images/190015f621f14781100ee07797b498c7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dM3u26tz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.penguin.academy/content/images/downloaded_images/The-CMS---Wordpress-vs-React/1-Ykli3Jo7k7ep55ZRrUisTw.jpeg) 
+<figure>[![](img/190015f621f14781100ee07797b498c7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dM3u26tz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.penguin.academy/conteimg/downloaded_images/The-CMS---Wordpress-vs-React/1-Ykli3Jo7k7ep55ZRrUisTw.jpeg) 
 
 <figcaption>技术债。Wordpress 保持世界纪录。</figcaption>
 

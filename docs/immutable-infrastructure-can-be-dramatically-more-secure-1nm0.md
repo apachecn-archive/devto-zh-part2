@@ -34,7 +34,7 @@ Chad Fowler [在 2013 年介绍了不可变服务器](http://chadfowler.com/2013
 
 在云端，Terraform 可以审计配置的偏差，并可以重新应用所需的配置。在 AWS 上，这意味着检测 VPC、服务组、帐户、IAM 角色等的变化。
 
-[![](../Images/97fb3e0f4f8506ede592ddc4109200d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MM2YcnAn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wjcib4e51ezffbxcpblk.png)
+[![](img/97fb3e0f4f8506ede592ddc4109200d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MM2YcnAn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wjcib4e51ezffbxcpblk.png)
 
 这是云中安全操作的未来。不变的基础设施已经存在，并将成为规范。有了像 [Terraform](https://www.terraform.io/) 这样的工具，构建不可变的服务器和配置比以往任何时候都更容易。
 

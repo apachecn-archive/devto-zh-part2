@@ -10,7 +10,7 @@
 
 > 我们正在永无止境地寻找更好的工具和模式，但这是否意味着我们的代码注定会变得陈旧和有皱纹？
 
-[![Your decisions will always impact many other people](../Images/853b96cb21b8f9b512f44a06c202e644.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jRVY468z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AVd1Y16P-mNBDiCtduma8pg.jpeg)
+[![Your decisions will always impact many other people](img/853b96cb21b8f9b512f44a06c202e644.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jRVY468z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AVd1Y16P-mNBDiCtduma8pg.jpeg)
 
 你如何锚定你的项目，使其抵御趋势的*风？这里有 5 个对我们很有效的建议。*
 

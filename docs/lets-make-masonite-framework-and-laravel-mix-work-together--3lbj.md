@@ -103,11 +103,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们做到了🎉 🎉 🎉！您应该会看到类似如下的屏幕:
 
-[![Masonite & Laravel Mix](../Images/c1401611602896e2a1758210c7a2a49e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j27wtpIK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i2q894fghtwrwzfu5krz.png)
+[![Masonite & Laravel Mix](img/c1401611602896e2a1758210c7a2a49e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j27wtpIK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i2q894fghtwrwzfu5krz.png)
 
 您可以观看这个[存储库](https://github.com/nioperas06/masonite-laravel-mix)，我在其中添加了 Bootstrap 作为依赖项，并将其用作示例！
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [尼奥珀拉 06 ](https://github.com/nioperas06) / [梅森内特-拉勒韦尔-米克斯](https://github.com/nioperas06/masonite-laravel-mix)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [尼奥珀拉 06 ](https://github.com/nioperas06) / [梅森内特-拉勒韦尔-米克斯](https://github.com/nioperas06/masonite-laravel-mix)
 
 ### 🎨Masonite 和 Laravel 混合用于处理和编译资产
 

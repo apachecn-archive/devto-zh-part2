@@ -22,11 +22,11 @@
 
 以下是最常见的零调制解调器电缆方案。
 
-[![Null modem cable](../Images/165690f658799f1914af3279ed086ef0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dyn8mgwA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.virtualserialportdriver.com/images/upload/eltima/articles/rs232/1.jpg)
+[![Null modem cable](img/165690f658799f1914af3279ed086ef0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dyn8mgwA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.virtualserialportdriver.cimg/upload/eltima/articles/rs232/1.jpg)
 
 这是微软推荐的 RS232 电缆布线配置，包括完全认证握手。
 
-[![RS232 cable wiring includes full authentication handshaking](../Images/cbf1651657fb1e8afb71543fdb73f533.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EIaqe31A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.virtualserialportdriver.com/images/upload/eltima/articles/rs232/2.jpg)
+[![RS232 cable wiring includes full authentication handshaking](img/cbf1651657fb1e8afb71543fdb73f533.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EIaqe31A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.virtualserialportdriver.cimg/upload/eltima/articles/rs232/2.jpg)
 
 这是 RS232 零调制解调器连接的行业标准。它使用微软开发的由七根电线制成的电缆。
 
@@ -36,7 +36,7 @@
 
 使用 **[空调制解调器仿真器](https://www.eltima.com/best-virtual-null-modems/)** 的专用软件可以获得更高的传输速度。这个应用程序在两台计算机之间创建一个虚拟的零调制解调器连接。它使用虚拟零调制解调器电缆连接到机器的串行端口。
 
-[![Virtual Null Modem Emulator](../Images/0dbdb64f05e49856c0f61f8eade1acd7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HLFbCCUQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.virtualserialportdriver.com/images/upload/eltima/articles/rs232/3.png)
+[![Virtual Null Modem Emulator](img/0dbdb64f05e49856c0f61f8eade1acd7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HLFbCCUQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.virtualserialportdriver.cimg/upload/eltima/articles/rs232/3.png)
 
 虚拟零调制解调器软件允许您[创建虚拟 COM 端口对](https://www.eltima.com/create-virtual-serial-port.html)。该软件支持串行端口之间的双向数据传输。传输到该对中的一个 COM 端口的数据也同时被该对中的另一个端口接收。
 

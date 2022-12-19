@@ -183,11 +183,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 最后一个棘手的部分是在启动时知道 rp0w 分配了什么 IP 地址。等待几分钟让它连接到 wifi 后，访问路由器的管理页面。一般是 [192.168.1.1](//192.168.1.1) 。
 
-[![](../Images/ec47a4b301650a22412093eb13bebcd3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lNzdA62S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/router_admin.png)
+[![](img/ec47a4b301650a22412093eb13bebcd3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lNzdA62S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/router_admin.png)
 
 您需要路由器登录信息。但是一旦进入，就应该有一个类似“附加设备”的部分。在那里，您应该会看到一个“alarm”条目(代表 Arch Linux ARM)。这是您的 rp0w。
 
-[![](../Images/0350f27aab677d29c1639a1c26c855fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bIEnQfmz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/arch_pi_address.png)
+[![](img/0350f27aab677d29c1639a1c26c855fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bIEnQfmz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/arch_pi_address.png)
 
 现在，在命令行输入:
 

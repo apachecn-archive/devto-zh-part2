@@ -6,10 +6,10 @@
 
 我们还了解到 Drupal 社区有多棒(很像 Dev.to！)以及他们如何保持这种状态。你不会想错过这一集的:
 
- [# 321: Drupal 非常重要](/changelog/321-drupal-is-a-pretty-big-deal)  [## 变更日志](/changelog) ![play](../Images/da55340508c383dd96223748725e7fff.png) ![pause](../Images/b2e500349dc3cd65ea44585f746d2a0d.png) ![The Changelog](../Images/33d4471b5fdda875ad9b5ed198e40b23.png)
+ [# 321: Drupal 非常重要](/changelog/321-drupal-is-a-pretty-big-deal)  [## 变更日志](/changelog) ![play](img/da55340508c383dd96223748725e7fff.png) ![pause](img/b2e500349dc3cd65ea44585f746d2a0d.png) ![The Changelog](img/33d4471b5fdda875ad9b5ed198e40b23.png)
 
 <audio id="audio" data-episode="321-drupal-is-a-pretty-big-deal" data-podcast="changelog"><source src="https://cdn.changelog.com/uploads/podcast/321/the-changelog-321.mp3" type="audio/mpeg"> Your browser does not support the audio element.</audio>
 
-[![321: Drupal is a pretty big deal](../Images/d2125475d49febff157a113ea9ac7d15.png) ![animated volume bars](../Images/b4c6951c950232cdfef32ac750ed6d92.png) ](/changelog/321-drupal-is-a-pretty-big-deal)  ![play](../Images/da55340508c383dd96223748725e7fff.png) ![pause](../Images/b2e500349dc3cd65ea44585f746d2a0d.png)     ![volume](../Images/64c7607b77476eb3d924254262a5bca4.png)   <input type="range" name="points" id="volumeslider" value="50" min="0" max="100" data-show-value="true">    ![mute](../Images/53eef5aa80ab0610ec1ea90b95d54171.png)  1x  initializing... × 
+[![321: Drupal is a pretty big deal](img/d2125475d49febff157a113ea9ac7d15.png) ![animated volume bars](img/b4c6951c950232cdfef32ac750ed6d92.png) ](/changelog/321-drupal-is-a-pretty-big-deal)  ![play](img/da55340508c383dd96223748725e7fff.png) ![pause](img/b2e500349dc3cd65ea44585f746d2a0d.png)     ![volume](img/64c7607b77476eb3d924254262a5bca4.png)   <input type="range" name="points" id="volumeslider" value="50" min="0" max="100" data-show-value="true">    ![mute](img/53eef5aa80ab0610ec1ea90b95d54171.png)  1x  initializing... × 
 
 在[changelog.com](https://changelog.com/podcast/321)上找到完整的演出笔记和文字记录。

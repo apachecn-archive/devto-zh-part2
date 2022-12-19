@@ -16,11 +16,11 @@
 
 主屏幕:
 
-[![Home](../Images/856787c4095cbd0025336237bf2c2eb6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TKL1WFkZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3qxra0bfvz6w4yhbgdy4.png)
+[![Home](img/856787c4095cbd0025336237bf2c2eb6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TKL1WFkZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3qxra0bfvz6w4yhbgdy4.png)
 
 对话概念:
 
-[![Dialogue](../Images/d1913d2a8e6c6186b6b330c16efaba02.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TsoWJGn2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mzczuhskuunzdpvk0njk.png)
+[![Dialogue](img/d1913d2a8e6c6186b6b330c16efaba02.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TsoWJGn2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mzczuhskuunzdpvk0njk.png)
 
 我使用一个 JSON 文件来存储服务器细节，而不是密码，当然，为了做到这一点，我使用了我之前写的`confHelper`，这里是我看的[帖子](https://dev.to/link2twenty/adventures-of-a-hobbyist--part-five-532c)。这次我也用`expressjs`来路由。
 
@@ -30,7 +30,7 @@
 
 为了让你了解我的超级简单的结构，这里有一张图片。
 
-[![stucture](../Images/dc3d75f2f8db522389f8579a1f880b7a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HgVXj9DB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hsejjisnyhwe3a4b3ifp.png)
+[![stucture](img/dc3d75f2f8db522389f8579a1f880b7a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HgVXj9DB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hsejjisnyhwe3a4b3ifp.png)
 
 和我的项目一样，如果我做错了什么，请告诉我😀
 

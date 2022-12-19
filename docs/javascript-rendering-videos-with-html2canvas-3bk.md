@@ -48,7 +48,7 @@ Enter fullscreen mode Exit fullscreen mode
 使用最新版本[v 1 . 0 . 0-α12](https://github.com/niklasvh/html2canvas/releases)进行测试
 
 下面举个工作例子
-[![Edit n9wrv84jlj](../Images/0b3f0135583496627e3621355d8e9248.png)](https://codesandbox.io/s/n9wrv84jlj)
+[![Edit n9wrv84jlj](img/0b3f0135583496627e3621355d8e9248.png)](https://codesandbox.io/s/n9wrv84jlj)
 
 ### 为什么我需要对我的 web 应用进行截图？
 

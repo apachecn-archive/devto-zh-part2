@@ -25,7 +25,7 @@
 
 让我们[从开发中挑选](https://git-scm.com/docs/git-cherry-pick)一个提交，并通过使用提交散列将其添加到特性分支。
 
-[![git-cherry-pick](../Images/8760aaa3f26e4a56fece70d35fe9f865.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kLArrWHH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/05/git-cherry-pick.png)
+[![git-cherry-pick](img/8760aaa3f26e4a56fece70d35fe9f865.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kLArrWHH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/05/git-cherry-pick.png)
 
 假设您想从主服务器选择一个提交`C`。要完成这项工作，您应该遵循以下几个步骤:
 
@@ -35,7 +35,7 @@
 2.  [检查到您想要插入提交的分支](https://kolosek.com/git-branches/)，在您的情况下，这是特性分支:`git checkout feature`。
 3.  精选提交:`git cherry-pick C`。
 
-[![git-cherry-pick-1](../Images/ace38e7ae083a41880fb778d8f8c7bdf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5lCKUNxi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/05/git-cherry-pick-1.png)
+[![git-cherry-pick-1](img/ace38e7ae083a41880fb778d8f8c7bdf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5lCKUNxi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/05/git-cherry-pick-1.png)
 
 如果您运行 [`git log`](https://kolosek.com/git-commands-tutorial-part2/) ，您将会看到您精心挑选的提交位于特性分支的顶部。*它将有一个新的不同的提交散列。*
 

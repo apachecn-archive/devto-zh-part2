@@ -4,7 +4,7 @@
 
 #### 学习如何在 React 中创建连接到 Redux 状态的容器组件。
 
-[![](../Images/45630b67e501d2923fc6c4bac7203f90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QfcvYkpG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ANUNUmFiNcqYH3hjNjgB70g.jpeg)
+[![](img/45630b67e501d2923fc6c4bac7203f90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QfcvYkpG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ANUNUmFiNcqYH3hjNjgB70g.jpeg)
 
 React 提供了两个主要的向组件提供数据的机制，即: **props** 和 **state** 。虽然*属性*是只读的并且允许父组件将属性传递给子组件，但是*状态*是本地的并且封装在组件中，并且可以在组件生命周期中的任何时候改变。
 
@@ -12,7 +12,7 @@ React 提供了两个主要的向组件提供数据的机制，即: **props** �
 
  **Redux 是一个可预测的状态容器，适用于从普通应用到框架应用的 JavaScript 应用。它占用空间非常小，但允许您编写可在任何环境下运行的一致应用程序:
 
-[![](../Images/299a4d86cf731b12616d927bb484afb3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3lx7KfET--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1008/0%2ArkzzibjBKN8nV_EY.png) 
+[![](img/299a4d86cf731b12616d927bb484afb3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3lx7KfET--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1008/0%2ArkzzibjBKN8nV_EY.png) 
 
 <figcaption>简单雷杜商店</figcaption>
 
@@ -29,7 +29,7 @@ React 提供了两个主要的向组件提供数据的机制，即: **props** �
 
 您可以从这篇文章中了解更多关于关注点分离的信息。在本指南中，我们主要关注使用 **react-redux** 连接到 Redux 状态的容器组件。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 **react-redux** 包公开了一个非常简单的接口，您应该感兴趣的只是以下内容:
 
@@ -515,7 +515,7 @@ const mapStateToProps = function(state, ownProps) {
 
 ## Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![LogRocket Dashboard Free Trial Banner](../Images/0abf868fe5ccbed99d71cb8d9e81ed98.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6FG5kvEL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png%3Fresize%3D1200%252C677%26ssl%3D1)
+[![LogRocket Dashboard Free Trial Banner](img/0abf868fe5ccbed99d71cb8d9e81ed98.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6FG5kvEL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png%3Fresize%3D1200%252C677%26ssl%3D1)
 
 [log rocket](https://logrocket.com/signup/)是一个前端日志工具，让你重放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

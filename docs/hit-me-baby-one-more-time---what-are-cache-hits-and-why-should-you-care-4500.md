@@ -16,11 +16,11 @@
 
 我们要用的例子是一个非常基础的:矩阵乘法。矩阵乘法被用在很多地方，例如图像处理、人工智能、机器人、数据压缩。矩阵 *A* * *B* = *C* 相乘的公式如下:
 
-[![multiplication formula](../Images/1e45054c9d783a573fe4f089edbd5151.png)T2】](https://wikimedia.org/api/rest_v1/media/math/render/svg/34cd5ccb936a1e163d99a8221d8f178be40012d7)
+[![multiplication formula](img/1e45054c9d783a573fe4f089edbd5151.png)T2】](https://wikimedia.org/api/rest_v1/media/math/render/svg/34cd5ccb936a1e163d99a8221d8f178be40012d7)
 
 对于结果矩阵的每个元素，它按行通过 *A* ，按列通过 *B* ，将每对元素相乘，将结果相加。公式还有一个很好的可视化表示:
 
-[![multiplication scheme](../Images/96127c305ef37a24000e1c73aed3faa3.png)T2】](https://commons.wikimedia.org/wiki/File:Matrix_multiplication_diagram_2.svg)
+[![multiplication scheme](img/96127c305ef37a24000e1c73aed3faa3.png)T2】](https://commons.wikimedia.org/wiki/File:Matrix_multiplication_diagram_2.svg)
 
 现在让我们来看看这个算法的两个不同的变体，并测量不同矩阵大小的执行时间。为了简单起见，我们使用两个方阵。它们由随机生成的双精度值填充。
 
@@ -122,7 +122,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 以下方案描述了主要组件及其连接方式。中央处理器(CPU)负责进行计算工作，例如算术运算。它通过北桥连接到主随机存取存储器(RAM)。北桥还连接其他高速接口，但我们不打算在这里详细介绍。如果数据在内存中不可用，则必须从永久存储器中加载。用于此的不同接口(例如 IDE、SATA、USB)通过南桥连接。
 
-[![motherboard diagram](../Images/68143ae0a74d70243008f45673ca8de8.png)T2】](https://en.wikipedia.org/wiki/Northbridge_(computing)#/media/File:Motherboard_diagram.svg)
+[![motherboard diagram](img/68143ae0a74d70243008f45673ca8de8.png)T2】](https://en.wikipedia.org/wiki/Northbridge_(computing)#/media/File:Motherboard_diagram.svg)
 
 这意味着处理器和数据之间没有直接的联系。如果数据在主存储器中，它必须通过北桥，如果不在那里，它也必须通过南桥。这种存储层次结构是必要的，因为需要在存储成本、速度和大小之间进行权衡。
 
@@ -136,7 +136,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 商品主存一般基于动态 RAM ( [DRAM](https://en.wikipedia.org/wiki/Dynamic_random-access_memory) )。每个元件基本上只由一个晶体管和一个电容器组成，DRAM 很便宜，可以很好地封装，允许更多的容量。然而，由于其设计，它比静态 RAM ( [SRAM](https://en.wikipedia.org/wiki/Static_random-access_memory) )慢得多，后者通常在需要更低延迟时使用。SRAM 用于 CPU 缓存。下图总结了我们刚才讨论的存储层次结构。
 
-[![memory hierarchy](../Images/23345efa0764e7c72113eab90023bd21.png)T2】](https://en.wikipedia.org/wiki/Memory_hierarchy#/media/File:ComputerMemoryHierarchy.svg)
+[![memory hierarchy](img/23345efa0764e7c72113eab90023bd21.png)T2】](https://en.wikipedia.org/wiki/Memory_hierarchy#/media/File:ComputerMemoryHierarchy.svg)
 
 CPU 高速缓存本身通常也有不同的层，从最快但最小的 1 级(l 1)到最大但最慢的 3 级(l 3)高速缓存。此外，L1 缓存分为数据部分(L1d)和指令/代码部分(L1i)。
 
@@ -185,7 +185,7 @@ done
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![l1 cache miss percentage](../Images/ed6f925ac3dd3eddafe13eb727b17b60.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Evr1fIWr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cl9r7g4t90j1c2mrqg0c.png)
+[![l1 cache miss percentage](img/ed6f925ac3dd3eddafe13eb727b17b60.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Evr1fIWr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cl9r7g4t90j1c2mrqg0c.png)
 
 你可以看到，从 *n > = 250* 开始，`mult1`的 L1d 缓存未命中百分比增加。这意味着 CPU 必须退回到更大但更慢的 L2 缓存。它会浪费周期，等待所需的数据从更高级别的存储器中可用。但是为什么会这样呢？
 

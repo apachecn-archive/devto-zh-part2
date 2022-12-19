@@ -4,7 +4,7 @@
 
 关于什么是网页设计，总是有很多困惑，尤其是在自学成才的设计师工作的圈子里。今天，这个术语很少使用，因为很少有其他更专注的职业从中涌现出来。这是完全可以理解的，因为流程比过去复杂得多，但你可以肯定这个职业仍然存在。
 
-[![Web design](../Images/ad6fcc7c1fddc4bd7fbb6f31bed3bf7d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jNM4O7MV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pwgbz5do5p62uekvq2ys.png)
+[![Web design](img/ad6fcc7c1fddc4bd7fbb6f31bed3bf7d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jNM4O7MV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pwgbz5do5p62uekvq2ys.png)
 
 那么，今天的**网页设计**代表了什么？
 
@@ -83,13 +83,13 @@
 
 当我将这些职业与我在本文中提到的常见设计特征进行比较时，它看起来像这样:
 
-[![Main differences between UI design and development professions](../Images/79cc4208b58b954e9fcfce723eb8c1ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ABXhxS1L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ln85f25fjujjjokzd927.png)
+[![Main differences between UI design and development professions](img/79cc4208b58b954e9fcfce723eb8c1ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ABXhxS1L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ln85f25fjujjjokzd927.png)
 
 前端开发有不同的标记，因为与网页设计或 UI 开发相比，它是一个更广泛的开发领域。
 
 为了更清楚，我将在 web 开发职业之间再做一个比较。
 
-[![Main differences between web development professions](../Images/fb3e39e1369992574f4e0080d1e5f0c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZLrqK8ZS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/063lf7rvbe3o4ubvmj9j.png)
+[![Main differences between web development professions](img/fb3e39e1369992574f4e0080d1e5f0c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZLrqK8ZS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/063lf7rvbe3o4ubvmj9j.png)
 
 当涉及到前端开发时，情况对大多数人来说是相当复杂和令人困惑的。我们有三个主要的专业参与前端开发:
 

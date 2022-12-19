@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/committedsw/using-sonarqube-and-github-without-losing-your-comments-2go4>
 
-[![github stickers cover](../Images/028a6bbc447164f6c0bd73278a480f78.png)T2】](///static/github-stickers-cover-0282251214cc1183d9920d1b0d567d70-e17b4.jpg)
+[![github stickers cover](img/028a6bbc447164f6c0bd73278a480f78.png)T2】](///static/github-stickers-cover-0282251214cc1183d9920d1b0d567d70-e17b4.jpg)
 
 如果你碰巧使用官方的 sonar-github 插件将 sonar 集成到你的 GitHub pull 请求中，你可能会发现该插件倾向于删除任何它认为过时的评论。当用于集成的 Github 帐户也是您的团队成员时，这尤其令人讨厌，导致许多有价值的评论消失！
 

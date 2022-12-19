@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/samjarman/inspiring-people-to-do-their-best-with-michelle-glauser-pl4>
 
-[![MichelleGlauser-smol.png](../Images/d7e749e1693c6e05315b48b26acfc7eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NdZLdT02--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5bb026d071c10be87a79a8b1/1538272239017/MichelleGlauser-smol.png%3Fformat%3D1000w)
+[![MichelleGlauser-smol.png](img/d7e749e1693c6e05315b48b26acfc7eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NdZLdT02--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5bb026d071c10be87a79a8b1/1538272239017/MichelleGlauser-smol.png%3Fformat%3D1000w)
 
 ### 自我介绍！你是谁？你在哪里工作？
 

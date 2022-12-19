@@ -20,11 +20,11 @@
 
 现在，您可以通过单击锁上方的加号按钮并填写信息来添加新用户
 
-[![](../Images/db1acb3dce40f1744cfb5eb16b838558.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nfLSQjVi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wop6vnhkakk5t0bsr6t3.png)
+[![](img/db1acb3dce40f1744cfb5eb16b838558.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nfLSQjVi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wop6vnhkakk5t0bsr6t3.png)
 
 最后只需确保用户拥有管理员权限；通过选择新用户并选择“允许用户管理这台计算机”。
 
-[![](../Images/c5b30ca1c5417ae37eca36c700e37cf8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZqWPoTW6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xjvys6zge0tr71kxzg5g.png)
+[![](img/c5b30ca1c5417ae37eca36c700e37cf8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZqWPoTW6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xjvys6zge0tr71kxzg5g.png)
 
 现在您需要做的就是注销您当前的用户并进入新创建的用户。
 
@@ -82,7 +82,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我意识到这些用户中的每一个都是独一无二的，相互独立的！
 
-[![](../Images/13e47ebf4fe1a984130a5239da41b3d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WPezfcT8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qvin012163vq6uyk9x91.png)
+[![](img/13e47ebf4fe1a984130a5239da41b3d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WPezfcT8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qvin012163vq6uyk9x91.png)
 
 有时候你意识不到一些事情，直到它击中你的脸，对不对？
 

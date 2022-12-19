@@ -8,7 +8,7 @@
 
 在我最近的计算机科学转换课程中，我学习了 Python 和 Java 的入门知识。这两种语言面临的一个共同挑战是编写一个程序来显示斐波那契数列的第 n 个数字。这似乎是大多数程序员在学习一门新语言时常见的敲门砖。
 
-[![The Fibonacci Series](../Images/edf528f62c38a78dda3ae86832323d46.png "The Fibonacci Series")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iCYNnWm6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cartesianproduct.files.wordpress.com/2011/03/fib.png)
+[![The Fibonacci Series](img/edf528f62c38a78dda3ae86832323d46.png "The Fibonacci Series")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iCYNnWm6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cartesianproduct.files.wordpress.com/2011/03/fib.png)
 
 我发现自己想把在课堂上学到的东西应用到一个独立的项目中，我无意中发现了把斐波那契数列想象成乐谱的想法。我不太记得何时何地听说过这个想法——可能是从马特·帕克、汉娜·弗莱或我的一位讲师那里听说的。我在谷歌上搜索了这个话题，没有发现任何斐波纳契数列在乐谱上的直接实际实现。这就是我的任务。回想起来，也许快速搜索一下 github 会得到更多的结果——但我那时还是一个比现在更年轻、更天真的开发者。
 
@@ -24,7 +24,7 @@
 
 虽然不是最优雅的解决方案，但我最终基本上修改了以前开发的大学解决方案，该方案输出 Fibonacci 数列到第 n 个数字，并使用该数字的模数来确定它将代表哪个音符。使用 12 的模数，我能够将不同的数字与半音阶中所有的音符联系起来，从 C 的基音开始(为了方便起见，我只使用了升半音)
 
-[![The Chromatic Scale](../Images/bd5938d04df897755dffb9124afb1e26.png "The Chromatic Scale")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5NpxkcxB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.pianowizardacademy.com/campus/files/2015/10/ChromScale.png)
+[![The Chromatic Scale](img/bd5938d04df897755dffb9124afb1e26.png "The Chromatic Scale")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5NpxkcxB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.pianowizardacademy.com/campus/files/2015/10/ChromScale.png)
 
 在建立了斐波那契数列和音阶半音音符之间的联系后，唯一的“困难部分”就是弄清楚如何将这些生成的音符转换成乐谱。
 
@@ -110,7 +110,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 下面是结果的一个小快照——输出的音乐出现了一个有趣的模式，每 25 个左右的音符显示一个重复的模式！
 
-[![Ode to Fibonacci](../Images/9908d4fbdd450e65fd3d6a04020782d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wZXEElHF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dwoojll9ythz66ywwuqb.png)
+[![Ode to Fibonacci](img/9908d4fbdd450e65fd3d6a04020782d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wZXEElHF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dwoojll9ythz66ywwuqb.png)
 
 GitHub repo 的链接[在这里](https://github.com/daniel40392/MusicPrograms)可用，示例输出为 PDF 文件。
 

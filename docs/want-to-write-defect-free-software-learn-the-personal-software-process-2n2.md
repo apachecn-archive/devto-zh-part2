@@ -8,7 +8,7 @@
 
 Watts Humphrey， [PSP](https://en.wikipedia.org/wiki/Personal_software_process) / [TSP](https://en.wikipedia.org/wiki/Team_software_process) 的创造者，对遵循他的过程的个人和团队所能达到的缺陷率和生产率提出了不同寻常的要求。他写了几本关于这个主题的书，但是我今天写的是 [PSP:软件工程师的自我提升过程](https://www.amazon.com/PSP-Self-Improvement-Process-Software-Engineers/dp/0321305493/) (2005)。
 
-[![Software Defects by CMM Level vs the Personal Software Process](../Images/7fc636a951b41c4c1015275e55f2c0f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E9fIgRXK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y7y09r8l4qw7zcwuyemi.PNG)
+[![Software Defects by CMM Level vs the Personal Software Process](img/7fc636a951b41c4c1015275e55f2c0f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E9fIgRXK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y7y09r8l4qw7zcwuyemi.PNG)
 
 这个图表显示了软件开发的正式性和交付软件中的缺陷数量之间的强相关性。正如你所看到的，PSP/TSP 交付了令人震惊的 0.06 缺陷/KLOC，这比你在 [CMM 二级](https://en.wikipedia.org/wiki/Capability_Maturity_Model) (6.24 缺陷/KLOC)附近徘徊的平均组织的缺陷大约少 **100 倍。印象深刻吧。**
 

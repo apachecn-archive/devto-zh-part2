@@ -40,4 +40,4 @@ SONAR-scanner-D SONAR . PROJECT KEY = "您的声纳项目密钥"-D sonar.sources
 
 *单击恢复配置文件，导入您的自定义 JavaScript-profile XML，浏览 JavaScript 配置文件并上传。
 
-[![](../Images/ad5aca97e8bd6cb8cce912bfb18caded.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UTZamn16--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.hashnode.com/res/hashnode/image/upload/v1653045730008/rXttQs3zR.png)
+[![](img/ad5aca97e8bd6cb8cce912bfb18caded.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UTZamn16--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.hashnode.com/res/hashnode/image/upload/v1653045730008/rXttQs3zR.png)

@@ -10,7 +10,7 @@
 
 我非常推荐阅读 GitHub 上的这个 wiki 页面，因为它总结了微基准测试的几个非常重要的方面，包括它的易错性和一些您可能会考虑这么做的原因。它还解释了为什么您实际上应该避免编写微基准测试，因为这样做只有几个合理的借口(主要是当您开发性能关键的库或框架时)。
 
-[![Hourglass](../Images/f4f6811a57efdb390fd4bad793c057f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EJYQ1K_w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z622rj221c16kueidyli.jpg)
+[![Hourglass](img/f4f6811a57efdb390fd4bad793c057f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EJYQ1K_w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z622rj221c16kueidyli.jpg)
 
 # 我该如何开始？
 
@@ -92,7 +92,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Spanner 还可以匿名或使用给定的 API 密钥将您的基准测试结果上传到[https://microbenchmarks.appspot.com](https://microbenchmarks.appspot.com)。
 
-[![Spanner results](../Images/6db974dac231f539d61956242ff0331e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cVFYQvY0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5twnqn6clug50uhwpfhs.png)
+[![Spanner results](img/6db974dac231f539d61956242ff0331e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cVFYQvY0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5twnqn6clug50uhwpfhs.png)
 
 # 可能会出什么差错？
 

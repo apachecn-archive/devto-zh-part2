@@ -8,12 +8,12 @@
 
 然后发生了这样的事:
 
-> ![masukomi profile image](../Images/7a6c934cb0dc900a5c88de9e1c0c7a00.png)..发现后把它们都划掉。
+> ![masukomi profile image](img/7a6c934cb0dc900a5c88de9e1c0c7a00.png)..发现后把它们都划掉。
 > 
 > 某网站生成卡片:
-> [isaaclyman.com/human-bingo/](https://t.co/Nc7QZ3aKNn)by[@ isaacandsuch](https://twitter.com/isaacandsuch)2018 年 8 月 08 日 20 点 51 分[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1027296301690630144)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1027296301690630144)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1027296301690630144)
+> [isaaclyman.com/human-bingo/](https://t.co/Nc7QZ3aKNn)by[@ isaacandsuch](https://twitter.com/isaacandsuch)2018 年 8 月 08 日 20 点 51 分[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1027296301690630144)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1027296301690630144)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1027296301690630144)
 
-[![djquecke profile image](../Images/e7b9f2941dcb8f127875029f635f0c24.png) ](/djquecke) [ DJ Quecke ](/djquecke) • [<time datetime="2018-08-11T03:50:25Z" class="date-short-year"> Aug 11 '18 </time>](https://dev.to/djquecke/comment/4jde) 
+[![djquecke profile image](img/e7b9f2941dcb8f127875029f635f0c24.png) ](/djquecke) [ DJ Quecke ](/djquecke) • [<time datetime="2018-08-11T03:50:25Z" class="date-short-year"> Aug 11 '18 </time>](https://dev.to/djquecke/comment/4jde) 
 
 请完成人类宾果 app)
 

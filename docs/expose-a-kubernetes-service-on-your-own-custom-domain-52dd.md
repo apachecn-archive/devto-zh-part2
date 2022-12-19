@@ -67,7 +67,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 上面的命令将列出在所有名称空间中运行的所有 Kubernetes 服务。您感兴趣的是任何类型为 **LoadBalancer** 的服务和任何具有**外部 IP** 集的服务(通常是同一个服务)。下面是该命令的示例输出:
 
-[![virtuous-gopher is the name Helm picked for the NGINX controller](../Images/8c590268f0ba310d392660c8d1a8625d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5TxQgq_I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AhREGYMrC658q8fiu6UOTkA.png)
+[![virtuous-gopher is the name Helm picked for the NGINX controller](img/8c590268f0ba310d392660c8d1a8625d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5TxQgq_I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AhREGYMrC658q8fiu6UOTkA.png)
 
 上图中`*nginx-ingress-controller`服务旁边的灰色值是您需要的。这是您将域指向的 IP 地址。
 
@@ -85,7 +85,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我的注册服务商是 Name.com，但我很确定其他注册服务商也有一些关于如何做的好文件。
 
-[![Heavily redacted view of the DNS records for my domain](../Images/0d9ca296ed0eb913639d56fe5c11bf78.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9VLPA0Jw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AsX7VWV8fB1IBxmAvI8jhqw.png)
+[![Heavily redacted view of the DNS records for my domain](img/0d9ca296ed0eb913639d56fe5c11bf78.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9VLPA0Jw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AsX7VWV8fB1IBxmAvI8jhqw.png)
 
 我是这样做的:在 Name.com 上，我进入我的域名，打开 DNS 记录选项卡。从那里，我能够添加一个名为`www.mycoolapp.mydomain.com`的主机的 A 记录，作为回答，我输入了我的集群的 IP 地址。
 
@@ -95,4 +95,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 启动您最喜爱的终端或浏览器，并导航至`mycoolapp.mydomain.com`。tadaaa——您应该能够得到响应(在我的例子中，我部署的应用程序是一个简单的 NGINX 容器，因此是默认的 NGINX 页面)
 
-[![Yes, I own containers.social domain… and bunch more that I’ll never use](../Images/1f2ec254add23e3be4b218492d5f9f30.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N8qtiroT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AN2GNi8lAGWwzru_4MYeHDQ.png)
+[![Yes, I own containers.social domain… and bunch more that I’ll never use](img/1f2ec254add23e3be4b218492d5f9f30.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N8qtiroT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AN2GNi8lAGWwzru_4MYeHDQ.png)

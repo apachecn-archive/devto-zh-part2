@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/franken/redirects-affect-prestashop-seo-43e>
 
-[![](../Images/71139aea4cf29f9a1a4f1b1ed66242bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uwOoTkTO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.com/images/stories/redirects-prestashop-seo.jpg)
+[![](img/71139aea4cf29f9a1a4f1b1ed66242bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uwOoTkTO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.cimg/stories/redirects-prestashop-seo.jpg)
 
 ## 重定向是将一个 URL 转发到另一个 URL 的过程。
 

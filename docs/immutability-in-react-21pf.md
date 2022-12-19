@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/immutability-in-react-21pf>
 
-[![](../Images/6ceb73dbd1dd8e2747ed2d128826fc78.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Xtdzgi-v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/1%2ATPF5q9zVHp944Ub-xtU7MQ.jpeg) 
+[![](img/6ceb73dbd1dd8e2747ed2d128826fc78.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Xtdzgi-v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/1%2ATPF5q9zVHp944Ub-xtU7MQ.jpeg) 
 
 <figcaption>[形象功劳](https://www.geeknative.com/39314/mutate-the-t-shirt/)</figcaption>
 
@@ -21,7 +21,7 @@ const newItems = items.concat([newItem]);
 
 你知道变异物体有什么问题吗？
 
-[![](../Images/77b56ea6ec1434afced50127d99232c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QlaId3Pf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/422/0%2A88XOllaZvI-HBP8o.)
+[![](img/77b56ea6ec1434afced50127d99232c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QlaId3Pf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/422/0%2A88XOllaZvI-HBP8o.)
 
 好吧，互联网是错误的。变异物体没有错。
 
@@ -88,7 +88,7 @@ const str = 'abc'
 
 但是现在试试这个:
 [https://jsfiddle.net/eh3rrera/e46Lsrp7/embedded//dark](https://jsfiddle.net/eh3rrera/e46Lsrp7/embedded//dark)
-[![](../Images/352d8513ce69b93be8f367ec6253de0d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SxglwhcT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/302/0%2Af3DODCqLTseJ5h3L.)
+[![](img/352d8513ce69b93be8f367ec6253de0d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SxglwhcT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/302/0%2Af3DODCqLTseJ5h3L.)
 
 字符串**是**不可变的。
 
@@ -108,7 +108,7 @@ str1 === str2 // true
 
 在上面的例子中，两个引用(str1 和 str2)是相等的，因为它们指向同一个对象(“abc”)。
 
-[![](../Images/60c9be7d00ab3c95a9a803a401732715.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pouYYZbh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/377/0%2AipAtUvsW9QPr3EHO.)
+[![](img/60c9be7d00ab3c95a9a803a401732715.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pouYYZbh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/377/0%2AipAtUvsW9QPr3EHO.)
 
 两个引用在引用同一个值时也是相等的，如果这个值是不可变的:
 
@@ -121,7 +121,7 @@ var n2 = 1;
 n1 === n2 // also true 
 ```
 
-[![](../Images/7ea395d9abc2da656c28760268f728aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZdRUUYXD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/419/0%2AjE_ls1ixbCHkVH5J.)
+[![](img/7ea395d9abc2da656c28760268f728aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZdRUUYXD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/419/0%2AjE_ls1ixbCHkVH5J.)
 
 但是当谈到对象时，这不再成立:
 
@@ -136,7 +136,7 @@ arr1 === arr2 // false
 
 在每种情况下，都会创建两个不同的对象，因此它们的引用不相等:
 
-[![](../Images/d68a12a60daf97f7a4ee9ec16aa7a5ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MP0t5IaG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/387/0%2AQI4r9ERIF1OPVADk.)
+[![](img/d68a12a60daf97f7a4ee9ec16aa7a5ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MP0t5IaG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/387/0%2AQI4r9ERIF1OPVADk.)
 
 如果要检查两个对象是否包含相同的值，必须使用值相等，比较对象的属性值。
 
@@ -325,25 +325,25 @@ React 团队推荐 [Immutable.js](https://facebook.github.io/immutable-js/) 和[
 
 并将数组表示为一棵树，如下所示:
 
-[![](../Images/c39ddb78861b97853625194596a09f00.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6Z8f-p2m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/502/0%2A3hlxKXFBvhgY-Pzk.)
+[![](img/c39ddb78861b97853625194596a09f00.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6Z8f-p2m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/502/0%2A3hlxKXFBvhgY-Pzk.)
 
 其中每一级都有两个字节来构成到达一个值的路径。
 
 现在，假设您想要将值 1 更新为 6:
 
-[![](../Images/2cddfd06b966d921e61cb6da9d396f02.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UC8LoTn4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/501/0%2AYq2TMZjNipslzaQe.)
+[![](img/2cddfd06b966d921e61cb6da9d396f02.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UC8LoTn4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/501/0%2AYq2TMZjNipslzaQe.)
 
 不是直接更新树中的值，而是复制从根到您正在更改的值之间的节点:
 
-[![](../Images/54ba99023ee57b78c36063dc0b2320d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YVG0AcC6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/740/0%2AL2vypVatx0VywZZS.)
+[![](img/54ba99023ee57b78c36063dc0b2320d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YVG0AcC6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/740/0%2AL2vypVatx0VywZZS.)
 
 该值在新节点上更新:
 
-[![](../Images/9394fe49819ac99f7b7a322e5200f66b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HB6ZIxJj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/741/0%2A4TVKbnY7a3av-4Fq.)
+[![](img/9394fe49819ac99f7b7a322e5200f66b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HB6ZIxJj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/741/0%2A4TVKbnY7a3av-4Fq.)
 
 其余的节点被重用:
 
-[![](../Images/34f679d06d4429b3c440847d2aa7ad96.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RtsCaY3h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/740/0%2AaAJm2raVQKpBjzqM.)
+[![](img/34f679d06d4429b3c440847d2aa7ad96.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RtsCaY3h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/740/0%2AaAJm2raVQKpBjzqM.)
 
 换句话说，未修改的节点由两个版本共享。
 
@@ -396,7 +396,7 @@ React 团队推荐 [Immutable.js](https://facebook.github.io/immutable-js/) 和[
 
 ### Plug: LogRocket，一款用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

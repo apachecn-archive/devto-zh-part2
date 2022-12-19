@@ -34,34 +34,34 @@
 
 但是...我现在都不明白我当时在想什么。😅
 
-[![image](../Images/3b84d6c89e2e03c29b05c6e06876ff4d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NsKTwl5p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/39439337-37e7728c-4ce2-11e8-88aa-fd29456b2343.png)
+[![image](img/3b84d6c89e2e03c29b05c6e06876ff4d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NsKTwl5p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/39439337-37e7728c-4ce2-11e8-88aa-fd29456b2343.png)
 
-[![light](../Images/f4915fe87018c691b14249d62628a66d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--joBV99uw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/1811616/39439343-3c6cdf5e-4ce2-11e8-9196-1b0df5dbf894.gif)
+[![light](img/f4915fe87018c691b14249d62628a66d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--joBV99uw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/1811616/39439343-3c6cdf5e-4ce2-11e8-9196-1b0df5dbf894.gif)
 
 ### 第二天:[【羽毛】](https://dev.to/ohbarye/learning-generative-art-day-2-feather--4ma0)
 
 我希望能够重现现实世界中的某种主题。我不喜欢这种颜色，因为我不太喜欢它。
 
-[![image](../Images/2d7883d73a73a005daa76119aefd52b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--THrBQRER--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/39481377-353be79c-4da6-11e8-9746-6f8a4cc4e12e.png)
+[![image](img/2d7883d73a73a005daa76119aefd52b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--THrBQRER--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/39481377-353be79c-4da6-11e8-9746-6f8a4cc4e12e.png)
 
 ### 第三天:[《琴弦》](https://dev.to/ohbarye/learning-generative-art-day-3-strings--jb4)
 
 与“羽毛”形成对比的是，我试图在画面中加入一个抽象的形象。虽然主题是“弦”，但我画了一个现实世界中不存在的物体。我喜欢凉爽的感觉。
 
-[![image](../Images/a7dd9c87851a4b67aea863fd03801644.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p0C1vK-I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/urzdi9c51hiztg77bvdx.png)
+[![image](img/a7dd9c87851a4b67aea863fd03801644.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p0C1vK-I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/urzdi9c51hiztg77bvdx.png)
 
 ### 第四天:[《高处不胜寒》](https://dev.to/ohbarye/learning-generative-art-day-4-flower-on-a-lofty-height--54b5)
 
 就像“羽毛”一样，我试图用更细腻的手法画出一些真实的东西。我认为使用`curveVertex`的曲线看起来就像花瓣，而使用`noStroke`的感觉很短暂。
 
-[![blue](../Images/ac7efa7ee71b599234e4f3d964958b95.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YJr84RUH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j3tjpk231kdsk0icf1yk.png)
-[![yellow](../Images/1cfc7edeb389bbb8d50092961864b272.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--NmHv5X34--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4twrtrj47b3jtyl33i0b.png)
+[![blue](img/ac7efa7ee71b599234e4f3d964958b95.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YJr84RUH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j3tjpk231kdsk0icf1yk.png)
+[![yellow](img/1cfc7edeb389bbb8d50092961864b272.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--NmHv5X34--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4twrtrj47b3jtyl33i0b.png)
 
 ### 第五天:[《未知语言》](https://dev.to/ohbarye/learning-generative-art-day-5-unknown-language--1fn1)
 
 这是我不喜欢的旁边的那些艺术品的一天...我跳到了一个困难的主题，表达“当我听到一种未知语言时的感受”，但我迷失了我想画的东西。
 
-[![gif](../Images/e5afdeb041193c93fc71273fae41478f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cgRGaw4V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2fp6w693c6t5bgowaxrn.gif)
+[![gif](img/e5afdeb041193c93fc71273fae41478f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cgRGaw4V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2fp6w693c6t5bgowaxrn.gif)
 
 ### 第六天:[【表面波】](https://dev.to/ohbarye/learning-generative-art-day-6-surface-wave--8hc)
 
@@ -69,17 +69,17 @@
 
 代码从这里开始变得越来越复杂，以后似乎很难再读回来。
 
-[![2018-05-05 21 58 21](../Images/e8edca9b8bd3283156dbf899b3f07ead.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9E3CcZmt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/39663562-65bc2758-50b0-11e8-9823-015ac231c1c0.png)
+[![2018-05-05 21 58 21](img/e8edca9b8bd3283156dbf899b3f07ead.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9E3CcZmt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/39663562-65bc2758-50b0-11e8-9823-015ac231c1c0.png)
 
-[![2018-05-05 21 57 17](../Images/d65856d4fb9dabb44b8a444261a772de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UNnIGA80--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/39663561-65969862-50b0-11e8-8e0f-9a85c14b4a27.png)
+[![2018-05-05 21 57 17](img/d65856d4fb9dabb44b8a444261a772de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UNnIGA80--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/39663561-65969862-50b0-11e8-8e0f-9a85c14b4a27.png)
 
 ### 第七天:[《潘多拉的盒子》](https://dev.to/ohbarye/learning-generative-art-day-7-pandoras-box--ej8)
 
 “潘多拉的盒子”这个主题让我有点痒，但我最喜欢这张照片，因为它充满活力，余像氛围，生动的色彩。
 
-[![pandora_black](../Images/54fe04ab6747ce3a3e0338da55329341.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F9brNF05--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/39673282-45fec654-5174-11e8-9bff-4bddc22faa07.png)
+[![pandora_black](img/54fe04ab6747ce3a3e0338da55329341.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F9brNF05--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/39673282-45fec654-5174-11e8-9bff-4bddc22faa07.png)
 
-[![pandora_white](../Images/a99563cfb250418ee5c95d2cdb0caa5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DkE4Buaj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/39673283-4622d724-5174-11e8-9f3f-8193340b5a0e.png)
+[![pandora_white](img/a99563cfb250418ee5c95d2cdb0caa5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DkE4Buaj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/39673283-4622d724-5174-11e8-9f3f-8193340b5a0e.png)
 
 * * *
 

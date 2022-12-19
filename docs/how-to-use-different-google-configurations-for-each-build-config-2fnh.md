@@ -14,19 +14,19 @@
 
 您可以在项目设置中定义构建配置([项目]→信息)。
 
-[![image](../Images/5653de12c8f68a60bf8e5f68a46a6b34.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L_jyrJ7V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sj5tk6yc4onlnifs7k7e.png)
+[![image](img/5653de12c8f68a60bf8e5f68a46a6b34.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L_jyrJ7V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sj5tk6yc4onlnifs7k7e.png)
 
 #### 用户自定义设置
 
 构建配置让您可以轻松地为每个配置使用不同的**用户定义设置**。您可以在目标构建设置的底部定义这些([目标]→构建设置)。
 
-[![image](../Images/bf692063ad1251a5f9bce5463df66b5f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2mF1WRvO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jx7hafw0z6gzogdvfv5x.png)
+[![image](img/bf692063ad1251a5f9bce5463df66b5f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2mF1WRvO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jx7hafw0z6gzogdvfv5x.png)
 
-[![image](../Images/4cfb02306ba54774c127271b504ec9e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cXlplyG0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xmfnhfkwj3btqmoltvtw.png)
+[![image](img/4cfb02306ba54774c127271b504ec9e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cXlplyG0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xmfnhfkwj3btqmoltvtw.png)
 
 您可以分别在 **Info.plist** 文件中使用用户定义的设置。
 
-[![image](../Images/da829311bf300b4664d15f6fbdd14c29.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VXPCF0iz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w0lwe9li0ucn5gdblejc.png)
+[![image](img/da829311bf300b4664d15f6fbdd14c29.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VXPCF0iz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w0lwe9li0ucn5gdblejc.png)
 
 在上面的例子中，应用程序将为每个构建配置使用不同的`FacebookAppID`属性。`FacebookAppID`属性由 iOS 版[脸书 SDK](https://developers.facebook.com/docs/ios/)自动使用，但您也可以在代码中直接引用这些值:
 
@@ -45,13 +45,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 考虑到只能有一个`GoogleService-Info.plist`文件，并且不可能从自定义中读取用户定义的设置。plist 文件，你如何为每个环境设置不同的 Google 配置？
 
-[![image](../Images/122f737e017c4185fc9d874bce4c92a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YcDk12u1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dkfbwmcetfxi2777mtst.jpeg)
+[![image](img/122f737e017c4185fc9d874bce4c92a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YcDk12u1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dkfbwmcetfxi2777mtst.jpeg)
 
 ## 运行脚本进行救援
 
 幸运的是，您可以添加新的**运行脚本阶段**到目标构建阶段，这些阶段将**复制一个正确的 Google 配置文件**到默认的`GoogleService-Info.plist`位置。
 
-[![image](../Images/48554c5a52fff3e81c4de8485f8a8bf7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LFgtcaeQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c37bberc1ch7jk1xd84z.png)
+[![image](img/48554c5a52fff3e81c4de8485f8a8bf7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LFgtcaeQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c37bberc1ch7jk1xd84z.png)
 
 这个脚本非常简单，它只使用指向构建配置的预定义的`CONFIGURATION`变量从资源中复制一个 plist 文件。在上面列出的构建配置中，它用资源中存储的以下文件之一替换了`GoogleService-Info.plist`文件内容:
 
@@ -73,7 +73,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 更新`GoogleServiceInfo.plist`文件的运行脚本必须在复制包资源阶段之前被拖拽**。否则，它将无法工作，因为将使用默认的 Google 配置文件。**
 
-[![image](../Images/c39178555d1e3ebaeb2dce198741ea69.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PiU3UzuQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ygft8jmbdobg26ypn44h.png)
+[![image](img/c39178555d1e3ebaeb2dce198741ea69.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PiU3UzuQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ygft8jmbdobg26ypn44h.png)
 
 ## 替代品
 
@@ -89,7 +89,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 要在运行时确定构建配置，您可以在目标构建设置中使用**其他 Swift 标志**。为每个构建配置添加一个以`-D`开始的环境标志，比如`-DDEVELOP`。
 
-[![image](../Images/07eb2f7614e79266f736b03fd6f01cc9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--irmXrnJd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2szxoas8zipoxcsxebsf.png)
+[![image](img/07eb2f7614e79266f736b03fd6f01cc9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--irmXrnJd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2szxoas8zipoxcsxebsf.png)
 
 然后，您可以轻松地确定运行时的构建配置:
 

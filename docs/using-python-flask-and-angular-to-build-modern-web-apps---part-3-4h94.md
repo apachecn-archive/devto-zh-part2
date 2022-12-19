@@ -6,4 +6,4 @@
 
 [读下去🐍](https://auth0.com/blog/using-python-flask-and-angular-to-build-modern-web-apps-part-3/?utm_source=dev&utm_medium=sc&utm_campaign=python_flask_angular)
 
-[![Using Python, Flask, and Angular to Build Modern Web Apps - Part 3](../Images/1200e37ff24e6c6a0d20eb154d8ed8a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GjQihm6r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mt5a0w7abdzrag9w2yur.png)
+[![Using Python, Flask, and Angular to Build Modern Web Apps - Part 3](img/1200e37ff24e6c6a0d20eb154d8ed8a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GjQihm6r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mt5a0w7abdzrag9w2yur.png)

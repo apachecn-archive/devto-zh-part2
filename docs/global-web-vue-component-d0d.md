@@ -4,7 +4,7 @@
 
 ## Vue 中的组件
 
-[![alt text](../Images/ff8734dfcb43f2aef16633828b2a92bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--at-_9Sh3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/coursetro/posts/134-full.png)
+[![alt text](img/ff8734dfcb43f2aef16633828b2a92bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--at-_9Sh3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/coursetro/posts/134-full.png)
 
 web 应用程序中的 Web 组件是封装了标记、HTML 模板、CSS 和 Javascript 的 T2 块。
 
@@ -198,7 +198,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 下面是代码的结果:
 
-[![3 player cards](../Images/4430112e8f23c054580854eb02f00e78.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IlUfVrub--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://preview.ibb.co/hDHsdA/cards.png)
+[![3 player cards](img/4430112e8f23c054580854eb02f00e78.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IlUfVrub--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://preview.ibb.co/hDHsdA/cards.png)
 
 *重述*:Web Vue 组件给了你一次声明 HTML 元素并在多个页面上重用它们的能力。耶！这些是可重用的代码块。
 所以，Vue 组件让你的代码更加动态。

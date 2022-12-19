@@ -56,7 +56,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在浏览器中运行`yarn storybook`，然后转到`http://localhost:9009`。您应该看到以下内容:
 
- [![](../Images/4c2a40cd8eeeea1d16e1f23fa9d59b4a.png)
+ [![](img/4c2a40cd8eeeea1d16e1f23fa9d59b4a.png)
 
 T6】](http://dmohq.com/wp-content/uploads/2018/07/storybook-welcome-screen-e1532906435668.png)
 
@@ -98,7 +98,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 故事书网页应该会自动重新加载，我们应该会看到:
 
- [![](../Images/840b163cc5da0fb78d9e9f4e859ee3ed.png)
+ [![](img/840b163cc5da0fb78d9e9f4e859ee3ed.png)
 
 T6】](http://dmohq.com/wp-content/uploads/2018/07/user-list-story.png)
 

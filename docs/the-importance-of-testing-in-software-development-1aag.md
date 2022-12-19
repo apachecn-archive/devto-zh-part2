@@ -6,7 +6,7 @@
 
 它有助于识别开发阶段可能出现的任何缺陷或错误。
 
-[![](../Images/6127be7040b0e9bfb6bb33ce28bf60e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--56rjbQLj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/0%2AlsC2cF6Tbb0dJLTX.jpg)
+[![](img/6127be7040b0e9bfb6bb33ce28bf60e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--56rjbQLj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/0%2AlsC2cF6Tbb0dJLTX.jpg)
 
 任何产品的成功都是由其质量和客户对该产品的信任度来衡量的。
 

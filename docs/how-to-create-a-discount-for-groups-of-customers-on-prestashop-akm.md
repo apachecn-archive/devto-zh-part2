@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/franken/how-to-create-a-discount-for-groups-of-customers-on-prestashop-akm>
 
-[![](../Images/99f119f944f061a5a6f8e71fcee92f9c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UeLGfAvW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.com/images/stories/create-a-discount-for-groups-of-customers.jpg)
+[![](img/99f119f944f061a5a6f8e71fcee92f9c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UeLGfAvW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.cimg/stories/create-a-discount-for-groups-of-customers.jpg)
 
 在 Prestashop 上创建客户团体折扣非常简单。例如，您希望为那些在您的网站上注册的用户设置折扣。默认情况下，你可以很容易做到这一点。但是**如何为一群顾客创造和应用限时优惠**？
 

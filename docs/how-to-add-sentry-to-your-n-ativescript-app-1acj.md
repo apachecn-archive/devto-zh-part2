@@ -33,7 +33,7 @@
 
 [本地脚本文档](https://docs.nativescript.org/)
 
-<figure>[![](../Images/1ccb2c9d8ac1e2cd84590815703fa204.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0JQi4OWr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/400/1%2APf2g7HDIOFQzZGEp_sZXAw.jpeg) 
+<figure>[![](img/1ccb2c9d8ac1e2cd84590815703fa204.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0JQi4OWr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/400/1%2APf2g7HDIOFQzZGEp_sZXAw.jpeg) 
 
 <figcaption>截图#1</figcaption>
 

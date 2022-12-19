@@ -13,6 +13,6 @@
 3.  安装 eclipse。
 
 [使用 Apache POI](https://www.skptricks.com/2018/09/add-images-to-word-document-using-apache-poi-in-java.html)
-[![](../Images/b19fb9cbb56166eca5ccc728d252652d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BLNSvs6E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-uKdr6i1zcGc/W56KcugBWFI/AAAAAAAAB5A/HrqiMQTyPWIIplVKSq09ZATEILw8kdQsgCLcBGAs/s400/pp.png) 向 Word 文档添加图像
+[![](img/b19fb9cbb56166eca5ccc728d252652d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BLNSvs6E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-uKdr6i1zcGc/W56KcugBWFI/AAAAAAAAB5A/HrqiMQTyPWIIplVKSq09ZATEILw8kdQsgCLcBGAs/s400/pp.png) 向 Word 文档添加图像
 
 [点击阅读更多...](https://www.skptricks.com/2018/09/add-images-to-word-document-using-apache-poi-in-java.html)

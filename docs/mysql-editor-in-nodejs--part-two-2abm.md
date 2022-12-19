@@ -6,7 +6,7 @@
 
 本周我继续为 MySQL 查询浏览器制作界面。您现在可以存储会话，尽管还没有实现任何东西来与 MySQL 进行实际的交互，甚至测试连接。如果你想跟随我的旅程，这是我的[帖子索引](https://dev.to/link2twenty/adventures-of-a-hobbyist--index-4oj7)。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)[ignis-pwa](https://github.com/ignis-pwa)/[node tree](https://github.com/ignis-pwa/nodetree)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)[ignis-pwa](https://github.com/ignis-pwa)/[node tree](https://github.com/ignis-pwa/nodetree)
 
 ### 一个用 NodeJS 写的 MySQL 浏览器
 
@@ -32,15 +32,15 @@
 
 **响应:**
 
-[![responsive](../Images/b07ffe70e0b9fb1db7ef8990be3c8322.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z4yjDZKz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4ep4arnru0k6acqunhne.gif)
+[![responsive](img/b07ffe70e0b9fb1db7ef8990be3c8322.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z4yjDZKz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4ep4arnru0k6acqunhne.gif)
 
 **新增(手机):**
 
-[![add new](../Images/1021d6647006ff9ba8248e0c5d87e774.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---euDl7P8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wcck9ri44hd413e21q95.gif)
+[![add new](img/1021d6647006ff9ba8248e0c5d87e774.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---euDl7P8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wcck9ri44hd413e21q95.gif)
 
 **删除(桌面):**
 
-[![delete](../Images/625eb5b59e662541e814d03952a34ab3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xjxy2z-c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pzpgehovwyqdgodd3yl8.gif)
+[![delete](img/625eb5b59e662541e814d03952a34ab3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xjxy2z-c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pzpgehovwyqdgodd3yl8.gif)
 
 ## 学到什么了吗？
 
@@ -130,7 +130,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我实现它是为了确认用户是否真的想要删除一个会话。
 
-[![confirm](../Images/de4a5c2d0ae2c4ecabb893e4183224bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q1U-j36T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3vflsdhzklc07mklr2f7.png)
+[![confirm](img/de4a5c2d0ae2c4ecabb893e4183224bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q1U-j36T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3vflsdhzklc07mklr2f7.png)
 
 ## 接下来是什么？
 

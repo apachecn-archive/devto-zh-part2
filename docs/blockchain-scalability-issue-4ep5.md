@@ -4,7 +4,7 @@
 
 如果你一直在关注比特币/区块链的新闻，你可能听说过 SegWit、Lightning Network 和 SPECTRE(以及其他)这些术语，它们都是最近关于[区块链可扩展性问题](https://perfectial.com/blog/blockchain-scalability-issue/)的。
 
-[![tacklin-blockchain-scalability-problem](../Images/e8a882eb5fdbf3a15c03d66e30c83434.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fuzg3N1a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://perfectial.com/wp-content/uploads/2018/07/blockchain-02.jpg)
+[![tacklin-blockchain-scalability-problem](img/e8a882eb5fdbf3a15c03d66e30c83434.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fuzg3N1a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://perfectial.com/wp-content/uploads/2018/07/blockchain-02.jpg)
 
 在各种技术博客和密码相关的子网站上，并不缺少关于这个主题的帖子，如果你不熟悉区块链的内部工作方式和开发人员的行话，你可能会发现大多数帖子令人困惑。
 

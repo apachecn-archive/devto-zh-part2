@@ -4,7 +4,7 @@
 
 [*ReactJS*](https://reactjs.org/) *是一个令人印象深刻的创建事物和构建用户界面的库。来自脸书的团队为我们做的。*
 
-<figure>[![](../Images/c3b75696bc25698bc0957fe991b750f7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MxC0OC4S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AI2LVy4WMsn6Umd4R) 
+<figure>[![](img/c3b75696bc25698bc0957fe991b750f7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MxC0OC4S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AI2LVy4WMsn6Umd4R) 
 
 <figcaption>照片由[菲利克斯·拉塞尔-拉锯](https://unsplash.com/@frsphoto?utm_source=medium&utm_medium=referral)上[下](https://unsplash.com?utm_source=medium&utm_medium=referral)</figcaption>
 
@@ -34,7 +34,7 @@
 
 我讨论了任何 React 应用程序的元素，以及使用 React 的任何应用程序的起点在哪里。此外，我还概述了构建任何 React 应用程序的步骤。
 
-<figure>[![](../Images/611baa1ff13708a7cd1cf53975d56870.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--N0z21uyq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AvV2mYuwX7lcZsncydIlvvw.png) 
+<figure>[![](img/611baa1ff13708a7cd1cf53975d56870.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--N0z21uyq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AvV2mYuwX7lcZsncydIlvvw.png) 
 
 <figcaption>这是我第一个 React 应用🔥✨</figcaption>
 
@@ -48,7 +48,7 @@
 
 任何 React 应用程序都需要一个根容器来启动。render 函数让我们能够将任何 React 组件渲染到 HTML DOM 中。我最喜欢这个渲染函数的一点是，您可以轻松地测试您的应用程序，并使用您的测试库将您的应用程序渲染为假的 DOM 元素。
 
-[![](../Images/10aa2a797df840c866c71b67b65a11e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7dKCUN9h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AeXmNdsutdSN2npW2PpOzXg.png)
+[![](img/10aa2a797df840c866c71b67b65a11e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7dKCUN9h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AeXmNdsutdSN2npW2PpOzXg.png)
 
 ### 组件
 
@@ -58,7 +58,7 @@
 
 React 应用程序分为多个 React 组件，每个组件都包含一个 render 方法，它是组件的入口点。
 
-<figure>[![](../Images/999b98fb8911c07ea9642b10ca437575.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gowGHAbh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AZNLMhhwo0huzxojc1-0gtg.png) 
+<figure>[![](img/999b98fb8911c07ea9642b10ca437575.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gowGHAbh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AZNLMhhwo0huzxojc1-0gtg.png) 
 
 <figcaption>段落构件</figcaption>
 
@@ -66,7 +66,7 @@ React 应用程序分为多个 React 组件，每个组件都包含一个 render
 
 React 库使用 render 方法可以知道在使用段落组件时要呈现什么。这就是我们在项目中使用组件的方式。
 
-<figure>[![](../Images/c753f25e5139f064df33d3b096326fe3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SKy4Mmak--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWufN_zS7DKCe-xHK0dMhbA.png) 
+<figure>[![](img/c753f25e5139f064df33d3b096326fe3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SKy4Mmak--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWufN_zS7DKCe-xHK0dMhbA.png) 
 
 <figcaption>使用段落组件</figcaption>
 
@@ -78,7 +78,7 @@ React 库使用 render 方法可以知道在使用段落组件时要呈现什么
 
 > "理想情况下，一个组件应该只负责一部分功能."— [Fullstack React](https://www.fullstackreact.com/) ，[索菲亚·舒梅克](https://medium.com/u/fac5e491c445) & [内特·默里](https://medium.com/u/6538666cdb34)。
 
-> ![Programming Wisdom profile image](../Images/c0e04370043baff7812aa9d1c701cd8f.png)编程智慧[@ code Wisdom](https://dev.to/codewisdom)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)“可靠性的中心敌人是复杂性。”——格尔等人2018 年 06 月 03 日下午 16 点 29 分[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1003312607418347521)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1003312607418347521)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1003312607418347521)
+> ![Programming Wisdom profile image](img/c0e04370043baff7812aa9d1c701cd8f.png)编程智慧[@ code Wisdom](https://dev.to/codewisdom)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)“可靠性的中心敌人是复杂性。”——格尔等人2018 年 06 月 03 日下午 16 点 29 分[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1003312607418347521)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1003312607418347521)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1003312607418347521)
 
 ### 组件包含两件初级武器
 
@@ -88,7 +88,7 @@ React 库使用 render 方法可以知道在使用段落组件时要呈现什么
 
 Props 是组件的输入，由父组件拥有并从那里传递。任何组件使用的道具都比其他组件更具可重用性，它把自己的值隐藏在里面。
 
-[![](../Images/b3c8999aa5d48a9490681196bf28028d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yKqFfloG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AR4ZiZ7yoeIjAvQk6Z7ygxA.png)
+[![](img/b3c8999aa5d48a9490681196bf28028d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yKqFfloG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AR4ZiZ7yoeIjAvQk6Z7ygxA.png)
 
 Props 是可重用性的主要武器，因为如果我们在 blogs 组件中定义 blogs 数组，就不能在应用程序的其他地方使用，也不能在应用程序需要的其他地方使用其他 Blogs 值。
 
@@ -106,7 +106,7 @@ Props 是可重用性的主要武器，因为如果我们在 blogs 组件中定�
 
 初始化状态的地方是在构造函数内部，之后您需要使用 React 中的 setState 方法。组件对象来修改组件的状态。
 
-<figure>[![](../Images/e7e773d568531ffdc371e414eab8619f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xZgl81_V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ac84rUbTht2PcCLMMZwytAQ.png) 
+<figure>[![](img/e7e773d568531ffdc371e414eab8619f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xZgl81_V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ac84rUbTht2PcCLMMZwytAQ.png) 
 
 <figcaption>登录组件包含其状态并管理其状态。</figcaption>
 
@@ -114,7 +114,7 @@ Props 是可重用性的主要武器，因为如果我们在 blogs 组件中定�
 
 如果你不明智地使用它们，这两种武器可能会成为你的敌人，主要是当你在错误的地方使用 setState 方法并在没有任何需要的情况下触发重新渲染时。所以，在设计组件和使用什么组件之前，请三思。如果组件不获取状态并从外部获取值，如果组件管理它的状态，这称为有状态组件，这称为无状态组件。
 
-<figure>[![](../Images/71af28e8b0b7973d9b28eafe2037bb4b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--O-1dLK5v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2Ab3SyKELKooLlcupz) 
+<figure>[![](img/71af28e8b0b7973d9b28eafe2037bb4b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--O-1dLK5v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2Ab3SyKELKooLlcupz) 
 
 <figcaption>照片由[莱昂·罗哈斯](https://unsplash.com/@ay_leon?utm_source=medium&utm_medium=referral)上[下](https://unsplash.com?utm_source=medium&utm_medium=referral)</figcaption>
 

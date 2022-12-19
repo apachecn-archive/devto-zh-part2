@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/mahmoudelmahdi/javascript-string-methods-you-probably-havent-heard-of-and-thats-okay-23hc>
 
-[![OCTOPAL](../Images/be7cc7044ffa74a19b7fec634ba48530.png "OCTOPAL")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ipOpvi0P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gw77jwde8kgh8kiraapy.png)
+[![OCTOPAL](img/be7cc7044ffa74a19b7fec634ba48530.png "OCTOPAL")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ipOpvi0P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gw77jwde8kgh8kiraapy.png)
 
 # 概述
 

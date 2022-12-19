@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/arximughal/how-do-you-stand-up-to-these-issues-at-work-37a5>
 
-[![This has nothing to do with the post](../Images/4a4887fcec624603254afa971263c73f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4Zzqicpn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r1x11kkiza31hsl55el1.jpg)
+[![This has nothing to do with the post](img/4a4887fcec624603254afa971263c73f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4Zzqicpn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r1x11kkiza31hsl55el1.jpg)
 
 我之前的帖子可能有点刺耳。我可能只是被工作中发生的事情冲昏了头脑。说到这里，我有几个问题。
 

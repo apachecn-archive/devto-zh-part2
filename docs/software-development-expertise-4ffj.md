@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/s_baltes/software-development-expertise-4ffj>
 
-[![Logo Snippets](../Images/675f92ad55c579349d4d7f4d2a530ffb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LZgnTB5p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://empirical-software.engineering/assets/images/developer.png)
+[![Logo Snippets](img/675f92ad55c579349d4d7f4d2a530ffb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LZgnTB5p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://empirical-software.engineering/asseimg/developer.png)
 
 **TL；博士:** *成为软件开发专家需要一定的技能、知识和经验。我们提出了软件开发专业知识的第一个概念理论，该理论基于对 335 名软件开发人员进行的混合方法调查的数据以及关于专业知识和专家绩效的文献。该理论描述了软件开发专业知识的核心属性，以及哪些因素促进或阻碍了它的形成，包括开发人员的绩效如何随着时间的推移而下降。此外，我们的定量结果表明，开发人员的专业知识自我评估是上下文相关的，经验并不一定与专业知识相关。*
 
@@ -16,7 +16,7 @@
 
 在这篇博文中，我们跳过研究设计的细节，专注于由此产生的概念理论，总结对研究人员、开发者和雇主的意义。
 
-[![Conceptual Theory](../Images/47a2a53349819187b5a6e6ce39f3033e.png)](/assets/images/conceptual-theory-2.png)T3】
+[![Conceptual Theory](img/47a2a53349819187b5a6e6ce39f3033e.png)](/asseimg/conceptual-theory-2.png)T3】
 
 上图将我们概念理论的高级概念以及它们之间的关系形象化了。有些关系被有意标上相当通用的术语，如“影响”或“产生”，因为需要更多的研究来调查它们。该理论描述了软件开发专业知识形成的*过程*，即一个软件开发新手成为专家的路径。这条路径[由](https://www.cambridge.org/core/books/the-cambridge-handbook-of-expertise-and-expert-performance/the-influence-of-experience-and-deliberate-practice-on-the-development-of-superior-expert-performance/C56EDDE9E57B259825916E061B025A72)通过多次修正和重复逐步改进而成，因此我们不描述不连续的步骤，例如，技能获取的 5 阶段 Dreyfus 模型(参见“经验与专业知识”一节)。相反，我们专注于个人任务的重复。下面，我们将描述我们理论的核心(图中的灰色背景)。特别是对*监控*、*反馈*、*自我反思*的作用进行阐述，并将相应的反馈循环与*刻意练习*的概念联系起来。我们理论的所有概念和关系在[论文](http://empirical-software.engineering/publications#fse18-expertise)中有更详细的描述。
 

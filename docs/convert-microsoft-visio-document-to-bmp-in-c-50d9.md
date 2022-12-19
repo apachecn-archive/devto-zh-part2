@@ -12,7 +12,7 @@
 
 为了进行演示，我们将使用 Aspose 将下面的[示例 Microsoft Visio 文档](https://github.com/AsposeDiagram/AsposeDiagram-Screenshots-and-Sample-Files/blob/master/Convert-Microsoft-Visio-Document-to-BMP/SampleConvertMicrosoftVisioDocumentToBMP.vsd)转换为 C#中的 BMP。但是，您可以在示例代码中使用您选择的任何 Microsoft Visio 文档，它也将被转换为 BMP fine。
 
-[![Sample Microsoft Visio Document to be converted to BMP using Aspose.Diagram API.](../Images/3e47d9a60a7922c0e4716e1a62b749e9.png "Sample Microsoft Visio Document to be converted to BMP using Aspose.Diagram API.")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rxXI8Be5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/AsposeDiagram/AsposeDiagram-Screenshots-and-Sample-Files/master/Convert-Microsoft-Visio-Document-to-BMP/Microsoft-Visio-Document-to-be-convert-BMP-Aspose.Diagram.png)
+[![Sample Microsoft Visio Document to be converted to BMP using Aspose.Diagram API.](img/3e47d9a60a7922c0e4716e1a62b749e9.png "Sample Microsoft Visio Document to be converted to BMP using Aspose.Diagram API.")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rxXI8Be5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/AsposeDiagram/AsposeDiagram-Screenshots-and-Sample-Files/master/Convert-Microsoft-Visio-Document-to-BMP/Microsoft-Visio-Document-to-be-convert-BMP-Aspose.Diagram.png)
 
 # 发牌
 

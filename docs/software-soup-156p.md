@@ -10,7 +10,7 @@
 
 ## 配料
 
-[![I know what to do, I have a plan](../Images/e7bf0e0cb8e4dbf71b37bbb6c43c3882.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6ZlI12sF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://rion.io/content/images/2018/07/i-know-what-to-do.jpg)
+[![I know what to do, I have a plan](img/e7bf0e0cb8e4dbf71b37bbb6c43c3882.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6ZlI12sF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://rion.io/conteimg/2018/07/i-know-what-to-do.jpg)
 
 我们的故事从一个想做冰淇淋蛋糕的男孩开始。所以他抓起一些配料，一个蓝色的大平底锅，和一些冰淇淋，然后在上面潜水。他有远见，知道自己想要什么，所以他就去争取。太简单了，不会搞砸吧？
 
@@ -20,7 +20,7 @@
 
 ## 拍着它下来
 
-[![I pat it down, I pat and pat](../Images/1e1a06497cda28f9a7fc0ea2b315f5f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A972UEAG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://rion.io/content/images/2018/07/i-pat-it-down.jpg)
+[![I pat it down, I pat and pat](img/1e1a06497cda28f9a7fc0ea2b315f5f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A972UEAG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://rion.io/conteimg/2018/07/i-pat-it-down.jpg)
 
 当我们的小男孩继续制作他美味的冰淇淋蛋糕时，他开始走神了。他注意到所有这些想要添加的浇头，这些浇头根本不是他最初计划的一部分，所以他必须适应并改变周围的东西以挤进去:
 
@@ -42,7 +42,7 @@
 
 ## 这不是蛋糕，这是一团糟。
 
-[![This is not a cake, this is a mess](../Images/719abc03bd93da96c5377d9053126478.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fVRqKl6---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://rion.io/content/images/2018/07/this-is-not-a-cake.jpg)
+[![This is not a cake, this is a mess](img/719abc03bd93da96c5377d9053126478.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fVRqKl6---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://rion.io/conteimg/2018/07/this-is-not-a-cake.jpg)
 
 在故事的结尾，我们的小男孩没有得到他出发时梦想的美丽蛋糕，相反，他手上有一大堆乱七八糟的东西。
 
@@ -66,7 +66,7 @@
 
 ## 百胜！
 
-[![Yum!](../Images/8e064eb6164339a8707fa93e81a16b2c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y453Oiim--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://rion.io/content/images/2018/07/yum.jpg)
+[![Yum!](img/8e064eb6164339a8707fa93e81a16b2c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y453Oiim--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://rion.io/conteimg/2018/07/yum.jpg)
 
 随着故事的结束，我们的小主角已经吃完了他的蛋糕，最后吃到了和他原本计划完全不同的东西:冰激淋汤。你可能会期望他会因为失望而放弃一切，但他没有。他吃了一大勺，伴随着一个大大的微笑和“好吃！”。
 

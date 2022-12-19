@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/sorrycc/release-umi-20----a-pluggable-enterprise-level-react-application-framework-2dl3>
 
-[![](../Images/82039c1a1c58e33eb9bc812de6739dee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fp9g1X9---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gw.alipayobjects.com/zos/rmsportal/CZcJsXOXCqIbglBjTrWs.png)
+[![](img/82039c1a1c58e33eb9bc812de6739dee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fp9g1X9---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gw.alipayobjects.com/zos/rmsportal/CZcJsXOXCqIbglBjTrWs.png)
 
 [https://位置. org/](https://umijs.org/)
 

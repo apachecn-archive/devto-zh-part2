@@ -11,7 +11,7 @@
 
 # 先决条件
 
-[![Meteor Logo](../Images/c02094e41444de486de6e8e946186cd7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1PsCdBP5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.meteor.com/assets/meteor-logo.png)
+[![Meteor Logo](img/c02094e41444de486de6e8e946186cd7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1PsCdBP5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.meteor.com/assets/meteor-logo.png)
 
 Meteor 是一个基于 Node.js js 编写的免费开源 JavaScript web 框架，具有许多很酷的特性，如反应性、热代码推送、客户端数据库、客户端/服务器代码重用功能
 
@@ -23,7 +23,7 @@ NodeJs 和 NPM 也应该安装在您的机器上，并且可以从命令行使�
 
 # 第 1 部分:用 Cypress 编写一些验收测试
 
-[![Cypress Logo](../Images/d7fef38c02c3c169c77bc77b91fade68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t1bS9Efl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.cypress.io/img/logo-dark.4e8064a6.png)
+[![Cypress Logo](img/d7fef38c02c3c169c77bc77b91fade68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t1bS9Efl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.cypress.io/img/logo-dark.4e8064a6.png)
 
 Cypress 是一个非常酷的端到端测试框架。如果你还不知道并且想了解更多，你可以看一下[这个介绍](https://www.youtube.com/watch?v=lK_ihqnQQEM)。
 
@@ -158,10 +158,10 @@ Enter fullscreen mode Exit fullscreen mode
 
 一旦您保存了文件，只需切换到 Cypress GUI，您就应该看到您的测试可用了:
 
-[![Your test in Cypress GUI](../Images/4f91c7af4db262ad872baf3d86c6b4da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OMxniBVY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e27t3ulab0ea9x5pqyb0.png)
+[![Your test in Cypress GUI](img/4f91c7af4db262ad872baf3d86c6b4da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OMxniBVY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e27t3ulab0ea9x5pqyb0.png)
 
 点击它，Cypress 将打开一个新的 Chrome 实例并开始运行测试。
-[![Test success](../Images/c8299b8ed1603091d9f691020f871f5b.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--cINOhVUQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z6pc4fu4r6yj9ehdpgou.png)
+[![Test success](img/c8299b8ed1603091d9f691020f871f5b.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--cINOhVUQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z6pc4fu4r6yj9ehdpgou.png)
 
 ## 凉柏的特性
 

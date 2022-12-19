@@ -33,7 +33,7 @@
 
 今天的云最好被描述为一组相互有效构建的服务。
 
-[![saas paas iaas pyramid](../Images/96f3d3291abe978c012ca9555958f217.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--33C3Nndo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/serverless/pyramid.png)
+[![saas paas iaas pyramid](img/96f3d3291abe978c012ca9555958f217.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--33C3Nndo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/serverless/pyramid.png)
 
 ### 基础设施即服务(IaaS)
 

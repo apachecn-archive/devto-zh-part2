@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/gadventurestech/why-we-created-a-rest-api-at-g-adventures-1imf>
 
-<figure>[![](../Images/52382c28463075b711684c70875a449d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RwOQ2-X7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A8yz3hkO3ynHV2qYGARynJg.jpeg) 
+<figure>[![](img/52382c28463075b711684c70875a449d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RwOQ2-X7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A8yz3hkO3ynHV2qYGARynJg.jpeg) 
 
 <figcaption>图片由 [Artem Sapegin](https://unsplash.com/photos/b18TRXc8UPQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 上 [Unsplash](https://unsplash.com/search/photos/internet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 
@@ -16,7 +16,7 @@
 
 我们使用这个接口向内部和外部的开发人员公开我们的业务系统。例如
 
-[![](../Images/878f27f0eba2fb85a900d6588be6ace5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jS0hIrM1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AdHoovjeEG3t9rs4hUc8GoQ.jpeg)
+[![](img/878f27f0eba2fb85a900d6588be6ace5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jS0hIrM1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AdHoovjeEG3t9rs4hUc8GoQ.jpeg)
 
 包含关于我们的[秘鲁全景](https://www.gadventures.com/trips/peru-panorama/PPP/)旅游的各种有用的细节，包括旅游路线或具体出发的链接。
 

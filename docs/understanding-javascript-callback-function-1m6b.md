@@ -25,6 +25,6 @@ first()；
 
 [了解 Javascript 回调函数](https://www.skptricks.com/2018/11/understanding-javascript-callback-function.html)
 
-[![](../Images/644a53f07870cead526942daa3ea7598.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AsqwEKgi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-nOAH00N3evQ/W_BMXldORAI/AAAAAAAACJc/8tx17uHRyBg0U3ZBuKolo-GTIH4fYr_8ACLcBGAs/s400/callback.png)
+[![](img/644a53f07870cead526942daa3ea7598.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AsqwEKgi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-nOAH00N3evQ/W_BMXldORAI/AAAAAAAACJc/8tx17uHRyBg0U3ZBuKolo-GTIH4fYr_8ACLcBGAs/s400/callback.png)
 
 [阅读更多....](https://www.skptricks.com/2018/11/understanding-javascript-callback-function.html)

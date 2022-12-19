@@ -6,7 +6,7 @@
 
 适用于许多组织的标准 web 应用程序体系结构在过去 10 年中发生了巨大的变化。早在 2008 年 Heroku 的早期，一个标准的 web 应用程序架构由一个响应 HTTP 请求的 web 进程类型、一个持久化数据的数据库和一个管理[作业队列](https://devcenter.heroku.com/articles/background-jobs-queueing)的 worker 进程类型加上 Redis 组成。
 
-<figure>[![An image of a common web app architecture on Heroku in 2008](../Images/59f48eda3e7a934bfeb0cb19fa636e4e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ad0r3KMQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1534270203-Beyond%2520Web%2520and%2520Worker%2520Blog%2520Post%2520%2528A%2529%25281%2529.png)
+<figure>[![An image of a common web app architecture on Heroku in 2008](img/59f48eda3e7a934bfeb0cb19fa636e4e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ad0r3KMQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1534270203-Beyond%2520Web%2520and%2520Worker%2520Blog%2520Post%2520%2528A%2529%25281%2529.png)
 
 <figcaption>2008 年 Heroku 上的现代 web app</figcaption>
 
@@ -14,7 +14,7 @@
 
 现在，在 2018 年，网站(或移动应用程序)是许多公司与客户互动的主要方式。几乎每个企业都不可避免地融入了技术。随着技术被赋予为企业做更多事情的任务，我们作为开发人员需要新的架构来开始现代 web 应用程序。
 
-<figure>[![An image of the evolution of the modern web app arhcitecture on Herkou](../Images/1b0a1559c2a49e61e4182d4cf52aac23.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nQOJC4Ou--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1534270441-Beyond%2520Web%2520and%2520Worker%2520Blog%2520Post%2520%2528C%2529.png) 
+<figure>[![An image of the evolution of the modern web app arhcitecture on Herkou](img/1b0a1559c2a49e61e4182d4cf52aac23.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nQOJC4Ou--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1534270441-Beyond%2520Web%2520and%2520Worker%2520Blog%2520Post%2520%2528C%2529.png) 
 
 <figcaption>先睹为快:现代 web app 架构的演变</figcaption>
 
@@ -102,7 +102,7 @@ API 还提供了与产品集成的标准点。通常用电插座来解释这一�
 
 让我们从高层次来看我们的新架构。我们讨论的所有新组件都已整合到一个系统中。
 
-<figure>[![An image of a new modern web app architecture](../Images/059a1e315d388b704e4cd5d38dfcbe6d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8NJYWQw_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1534271873-Beyond%2520Web%2520and%2520Worker%2520Blog%2520Post%2520%2528B%2529%25281%2529.png)
+<figure>[![An image of a new modern web app architecture](img/059a1e315d388b704e4cd5d38dfcbe6d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8NJYWQw_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1534271873-Beyond%2520Web%2520and%2520Worker%2520Blog%2520Post%2520%2528B%2529%25281%2529.png)
 
 <figcaption>2018 年现代 web app 架构</figcaption>
 

@@ -139,11 +139,11 @@ $ protractor src/test/javascript/protractor.conf.js
 
 在 JHipster 中使用 OIDC 认证时，似乎缺少的一个特性是用户注册。如果你使用会话或 JWT 认证，主页上有一个注册链接。对于 OIDC，您需要在您的 IdP 中启用它。对于 Keycloak，你可以通过导航到`http://localhost:9080`并点击**管理控制台**来完成。用`admin/admin`登录，点击**登录**标签。此屏幕允许您启用忘记密码、记住我，以及通过电子邮件进行验证。
 
-[![Keycloak User Registration](../Images/53b0b256d9426f043dbbcf0c7c865fd4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--glgrqOBM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/react-photo-gallery-pwa/keycloak-registration-c598822c1db8884cf1d35a170fc1a4e1f196fbb26225b3b4df57da126a1b6f8c.png)
+[![Keycloak User Registration](img/53b0b256d9426f043dbbcf0c7c865fd4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--glgrqOBM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/react-photo-gallery-pwa/keycloak-registration-c598822c1db8884cf1d35a170fc1a4e1f196fbb26225b3b4df57da126a1b6f8c.png)
 
 启用此设置后，您将在 Keycloak 的登录表单上看到一个**注册**链接。
 
-[![Keycloak Login Form with Register link](../Images/4d11db7c67ea93e0d076627604a0fb08.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1bHAdIxx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/react-photo-gallery-pwa/keycloak-login-with-registration-13938c9fc2f2ce64cd6407e27c13154d542d4490b250682015220eb81a39662d.png)
+[![Keycloak Login Form with Register link](img/4d11db7c67ea93e0d076627604a0fb08.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1bHAdIxx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/react-photo-gallery-pwa/keycloak-login-with-registration-13938c9fc2f2ce64cd6407e27c13154d542d4490b250682015220eb81a39662d.png)
 
 您需要在 Keycloak 中为新用户配置一个默认角色。导航到**角色**并点击**默认角色**选项卡。选择`ROLE_USER`并点击**添加选中的**。要配置默认组，请转到**组** > **默认组**。点击`Users`和**添加**。添加默认组是必要的，因为 JHipster 希望用户拥有一个`ROLE_USER`或`ROLE_ADMIN`组(或角色)作为他们的 ID 令牌声明的一部分。
 
@@ -213,13 +213,13 @@ source ~/.okta.env
 
 要在 Okta 中启用自助注册，您需要从 Okta 开发人员仪表板导航到 Classic UI。在屏幕的左上角有一个链接可以在两者之间切换。
 
-[![Classic UI Toggle](../Images/951e7322680be237448bc0554504d8fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--89txnJGb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/react-photo-gallery-pwa/classic-ui-toggle-f4b4c2108b4d7878d0a04aba8e5ec83b888ebb63e33b97f9cc5b83df847a7915.png)
+[![Classic UI Toggle](img/951e7322680be237448bc0554504d8fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--89txnJGb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/react-photo-gallery-pwa/classic-ui-toggle-f4b4c2108b4d7878d0a04aba8e5ec83b888ebb63e33b97f9cc5b83df847a7915.png)
 
 然后导航到**目录** > **自助注册**，点击**启用注册**。将默认组设置为`ROLE_USER`，**默认重定向**到一个自定义 URL，其值为`http://localhost:8080`，点击**保存**。
 
 **注意:**如果你得到一个显示`'http://localhost:8080' is not a valid redirect URI`的错误，那是因为你需要在**安全** > **API** > **可信起源**下添加`http://localhost:8080`作为可信重定向。进行此更改后，导航至**目录** > **自助注册**并编辑设置以再次配置自定义 URL。这次应该能成功。
 
-[![Okta Self-Service Registration Settings](../Images/5bc91de0dfb4a2bb8eb1c03d058a1c3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--21jTX_Qz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/react-photo-gallery-pwa/registration-settings-055bb514524fd134b99f0ca3aa95496204e9149b531b7df127a8c787e837c8b8.png)
+[![Okta Self-Service Registration Settings](img/5bc91de0dfb4a2bb8eb1c03d058a1c3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--21jTX_Qz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/react-photo-gallery-pwa/registration-settings-055bb514524fd134b99f0ca3aa95496204e9149b531b7df127a8c787e837c8b8.png)
 
 **提示:**在你部署好你的应用程序后，你需要将**默认重定向**改为你的生产 URL。
 
@@ -235,7 +235,7 @@ source ~/.okta.env
 
 我为这个应用程序创建了一个数据模型，它有一个`Album`、`Photo`和`Tag`实体，并在它们之间建立了关系。下面是 JDL 工作室的截图。
 
-[![Photo Gallery JDL in JDL Studio](../Images/5f2e3185513c379bb865117446773fac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ub3R-ffH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/react-photo-gallery-pwa/photo-gallery-jdl-studio-5027bab7a49e1cb39a6a9bd43634e3dc814748e7d204cbbaa6879f4962d53c8d.png)
+[![Photo Gallery JDL in JDL Studio](img/5f2e3185513c379bb865117446773fac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ub3R-ffH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/react-photo-gallery-pwa/photo-gallery-jdl-studio-5027bab7a49e1cb39a6a9bd43634e3dc814748e7d204cbbaa6879f4962d53c8d.png)
 
 为了方便起见，您可以复制下面的 JDL，并将其保存在项目根目录下的一个`gallery.jh`文件中。
 
@@ -540,7 +540,7 @@ render() {
 
 登录并在顶部导航栏中导航至**实体** > **照片**。你应该能够上传照片，并在列表顶部的一个漂亮的网格中看到结果。
 
-[![Gallery with Photos](../Images/095899b7fd7951573c8fa8ae9d746fec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QqhtdSlF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/react-photo-gallery-pwa/photo-gallery-7ef745b8ec67972172408e77e70ac09a15a57b708764a1376bcf405e41fb2aeb.png)
+[![Gallery with Photos](img/095899b7fd7951573c8fa8ae9d746fec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QqhtdSlF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/react-photo-gallery-pwa/photo-gallery-7ef745b8ec67972172408e77e70ac09a15a57b708764a1376bcf405e41fb2aeb.png)
 
 你还可以在网格中添加一个“灯箱”功能，这样你就可以点击照片并放大。React 照片库文档展示了如何做到这一点。我已经将它集成到本文的示例中，但是为了简洁起见，我不会在这里展示代码。你可以在 GitHub 上看到添加了 Lightbox 的 [final `photo.tsx`或者一个必要修改的](https://github.com/oktadeveloper/okta-react-photo-gallery-example/blob/master/src/main/webapp/app/entities/photo/photo.tsx)[diff](https://github.com/oktadeveloper/okta-react-photo-gallery-example/commit/47f9ceab2b00f1d7f41d286686c9159f79decc11)。
 
@@ -641,7 +641,7 @@ heroku config:set \
 
 Heroku 重启你的应用后，登录，然后用 Lighthouse 测试。看起来不错，是吧？！💯
 
-[![Lighthouse Score 💯](../Images/dbfdb7fd1fcf287eecfc476311f7b7eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VhqeLtx1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/react-photo-gallery-pwa/lighthouse-score-4f95c4462e97330d1566ec3e8844a1a712c20aed9bf47cdfe10b0736b7f8289e.png)
+[![Lighthouse Score 💯](img/dbfdb7fd1fcf287eecfc476311f7b7eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VhqeLtx1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/react-photo-gallery-pwa/lighthouse-score-4f95c4462e97330d1566ec3e8844a1a712c20aed9bf47cdfe10b0736b7f8289e.png)
 
 ## 了解更多关于 React、Spring Boot、JHipster 和 OAuth 的信息
 

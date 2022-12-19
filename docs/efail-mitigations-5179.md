@@ -16,11 +16,11 @@
 *   禁用 HTML 支持。仅显示明文
 *   **(对于雷鸟)**在 Enigmail 设置中，保持 OpenPGP 加密启用，但关闭消息的自动解密/验证
 
-[![A screenshot of thunderbird with the 'Enigmail' dropdown menu open and the selection on the menu item 'Automatically Decrypt/Verify Messages'](../Images/abf143e2346b0a2cb58e444cf9c95dfd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QDvwVKpE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tawh034iq7dhe7wvlmff.png)
+[![A screenshot of thunderbird with the 'Enigmail' dropdown menu open and the selection on the menu item 'Automatically Decrypt/Verify Messages'](img/abf143e2346b0a2cb58e444cf9c95dfd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QDvwVKpE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tawh034iq7dhe7wvlmff.png)
 
 *   **(针对雷鸟)**不允许消息中出现远程内容。
 
-[![A screenshot of thunderbirds preferences with the 'Privacy' tab selected and the mouse cursor hovering over the checkbox 'Allow remote content in messages'](../Images/259b5cff51271dee7178751639129ba0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n-mA1b0e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r1ndg1zkk8owsun3sajk.png)
+[![A screenshot of thunderbirds preferences with the 'Privacy' tab selected and the mouse cursor hovering over the checkbox 'Allow remote content in messages'](img/259b5cff51271dee7178751639129ba0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n-mA1b0e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r1ndg1zkk8owsun3sajk.png)
 
 #### 注
 

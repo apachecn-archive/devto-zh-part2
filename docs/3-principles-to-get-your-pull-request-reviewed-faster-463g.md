@@ -22,7 +22,7 @@
 
 冗长的代码审查周转时间的最常见的罪魁祸首是带有大量变更的拉式请求——无论是实际的变更行还是复杂性。为了引入一些简单的变更而创建的拉请求可能会突然变得与一些难以评审的重大变更不成比例。
 
-<figure>[![Large pull request](../Images/8ec04ad5a65222f2cd95186ff3dd06fe.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DkXhZV3U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gxmrs9plvj0ws1wt8qlq.png)</figure>
+<figure>[![Large pull request](img/8ec04ad5a65222f2cd95186ff3dd06fe.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DkXhZV3U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gxmrs9plvj0ws1wt8qlq.png)</figure>
 
 甚至当我在一个拉请求中观察它时，我最终会将一个特性、一些代码重构和一两个 bug 修复组合在一起，而这些本来可以很容易地拆分成几个更易于管理的拉请求。具有强大的代码审查文化的团队鼓励这些更小的、更有策略的拉请求，而不是大的变更集。有时这需要额外的工作，但是你的团队的整体生产力(和理智)会感谢你。
 
@@ -48,7 +48,7 @@
 
 开发过程中需要考虑和时间来实现来自质量代码评审的可维护代码库类型。为了从代码评审中获得高质量的反馈，您应该从计划开始。代码评审的时间应该是每个 sprint 计划中考虑的一个一致的项目。
 
-<figure>[![Include code review time during planning](../Images/0b130f1e8eade2dba1351c55a0251ada.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kysbHBDT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g16br2llrqrwvhuwlc5n.jpg) 
+<figure>[![Include code review time during planning](img/0b130f1e8eade2dba1351c55a0251ada.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kysbHBDT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g16br2llrqrwvhuwlc5n.jpg) 
 
 <figcaption>计划期间包含代码评审时间</figcaption>
 

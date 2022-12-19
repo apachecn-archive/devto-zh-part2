@@ -6,7 +6,7 @@
 
 MPR 中的过滤很重要，因为在开发过程中，更改主要是在一个或两个包中进行的。如果只修改了几个包，那么在整个存储库上运行命令是没有意义的。
 
-[![](../Images/f1ed77b442212989fe6422a8e9221336.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FYwwtCtb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/8zIYqAk.png)
+[![](img/f1ed77b442212989fe6422a8e9221336.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FYwwtCtb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/8zIYqAk.png)
 
 ## 在 Lerna 中过滤
 
@@ -34,7 +34,7 @@ lerna run test --scope site-header --include-filtered-dependents
 
 这些标志不仅很难输入，而且很难记忆，很容易混淆。
 
-[![](../Images/b1ff15c4666a473940bf6e1c773a0183.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0AeKbXWz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/qlW1eEG.png)
+[![](img/b1ff15c4666a473940bf6e1c773a0183.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0AeKbXWz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/qlW1eEG.png)
 
 ## 在 pnpm 中过滤
 

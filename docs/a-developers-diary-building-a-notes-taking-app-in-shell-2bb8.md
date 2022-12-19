@@ -26,11 +26,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 一个`did`命令在终端打开一个文件——这样你就不会离开你的工作环境——上面有当前的日期。你要做的就是把你刚刚学到的这个小东西写下来。
 
-[![did : the original](../Images/7accae7297a44ae373e393e959ff544e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IszZUKO9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c87itq826fcqq2ahxe1a.gif)
+[![did : the original](img/7accae7297a44ae373e393e959ff544e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IszZUKO9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c87itq826fcqq2ahxe1a.gif)
 
 我真的很喜欢这样一个想法，即只用系统中已有的东西来构建一个新工具。但其实有点太简单了。例如，如果您在同一天使用 did 两次，会发生以下情况:
 
-[![Maybe too simple](../Images/42f1f80914e2aae841167935245a686a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eD252Acf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ks874lacezl2lumxz2fe.gif)
+[![Maybe too simple](img/42f1f80914e2aae841167935245a686a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eD252Acf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ks874lacezl2lumxz2fe.gif)
 
 有两个问题让我认为我不会将这个命令集成到我的日常工作中:
 
@@ -73,7 +73,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 *   **环境变量`DID_PATH`** :这个变量很有逻辑。它简化了脚本编写，并允许轻松地更改存储文件夹。但是它有一个很大的副作用:通过使用 [direnv](https://direnv.net/) ，它将允许你为每个项目创建一个日志！
 
-[![the new did](../Images/236c0a7d77beae19f72be1f23ae564e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dGnQMKD3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nvj5gvy3d6nys7wohg3b.gif)
+[![the new did](img/236c0a7d77beae19f72be1f23ae564e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dGnQMKD3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nvj5gvy3d6nys7wohg3b.gif)
 
 这个新命令完成了这项工作，因为现在它每周创建一个文件，而不是一个文件。但是这种改进也可以作为 David Kadavy 的文章[“复杂性令人毛骨悚然:它从来不只是多一件事”](https://medium.com/@kadavy/complexity-is-creepy-its-never-just-one-more-thing-79a6a89192db)的一个很好的例子。
 
@@ -102,13 +102,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 `cat`负责显示文件。
 
-[![Display logbooks with didv](../Images/0da2a399575db7dc1d21f00470569112.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qoaZLCeC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o5fy2e4wzsi2anozozmv.gif)
+[![Display logbooks with didv](img/0da2a399575db7dc1d21f00470569112.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qoaZLCeC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o5fy2e4wzsi2anozozmv.gif)
 
 ## 列出每周日志:didl(列表)
 
 我认为设置日志列表是最快的功能。我实际测试了`ls`和`tree`命令:
 
-[![list logs with ls and tree](../Images/6ebcf9ddca2c6cf104d6cf820e8e1267.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LYi4McDI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/77uqm60wt45s4godp224.gif)
+[![list logs with ls and tree](img/6ebcf9ddca2c6cf104d6cf820e8e1267.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LYi4McDI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/77uqm60wt45s4godp224.gif)
 
 但是有两件事困扰着我:
 
@@ -137,7 +137,7 @@ function didl(){
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![didl](../Images/11c17b69becf904b601d0991cff25ddb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7lJtVJM1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qdslsss80fysyjm1cn5d.gif)
+[![didl](img/11c17b69becf904b601d0991cff25ddb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7lJtVJM1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qdslsss80fysyjm1cn5d.gif)
 
 ## 搜索每周日志:dids(搜索)
 
@@ -164,7 +164,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 为了能够标记笔记并将搜索限制在这些标签上，我决定使用标签的前缀`@`，允许做`NB_OCCURENCE="$(grep -c @${1} ${file})"`。第二次使用`grep`不再使用这个前缀，允许显示与被搜索单词对应的所有行。
 
-[![dids](../Images/6ce5669ac07b7151a0fbda0488a9417a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h6kzaHPB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9vygyzclki8j0y1mzjmg.gif)
+[![dids](img/6ce5669ac07b7151a0fbda0488a9417a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h6kzaHPB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9vygyzclki8j0y1mzjmg.gif)
 
 ## 格式化注释
 
@@ -181,7 +181,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 一种标记语言非常适合这种情况:**。**
 
- **[![Markdown everywhere](../Images/64318cd6805ff1352aecb4f66a934960.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pk_SfsVW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ojyi4j0nizkt4ols9mxb.jpg)
+ **[![Markdown everywhere](img/64318cd6805ff1352aecb4f66a934960.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pk_SfsVW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ojyi4j0nizkt4ols9mxb.jpg)
 
 不幸的是，终端中没有处理和显示`.md`文件的基本工具。然而，我给自己定了一个规则:
 
@@ -197,7 +197,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我更喜欢`vmd`的渲染。剩下的就是将所有的`.txt`修改为`.md`，添加一些`#`，并将`didv`函数中的`cat`替换为`vmd`。
 
-[![didv in markdown](../Images/cda2e0bd7dc7140ada0de431b7337dcd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZCWsmGzV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5n36sf7a63aj72dms3ck.gif)
+[![didv in markdown](img/cda2e0bd7dc7140ada0de431b7337dcd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZCWsmGzV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5n36sf7a63aj72dms3ck.gif)
 
 ## 最终脚本
 

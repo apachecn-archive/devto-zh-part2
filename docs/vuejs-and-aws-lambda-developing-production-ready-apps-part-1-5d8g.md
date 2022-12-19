@@ -6,4 +6,4 @@
 
 [多读☁️🚀](https://auth0.com/blog/vue-js-and-lambda-developing-production-ready-apps-part-1?utm_source=dev&utm_medium=sc&utm_campaign=vuejs_lambda)
 
-[![Vue.js and AWS Lambda: Developing Production-Ready Apps (Part 1)](../Images/bb7f7d58291343f0066a7a5390fb1708.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MZp8T7i4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6ryqqqwugy6kmshy7mbo.png)
+[![Vue.js and AWS Lambda: Developing Production-Ready Apps (Part 1)](img/bb7f7d58291343f0066a7a5390fb1708.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MZp8T7i4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6ryqqqwugy6kmshy7mbo.png)

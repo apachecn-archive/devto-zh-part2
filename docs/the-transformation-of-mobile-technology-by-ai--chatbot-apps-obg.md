@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/iam_roma_/the-transformation-of-mobile-technology-by-ai--chatbot-apps-obg>
 
-[![Mobile Technology by AI & Chatbot Apps](../Images/a2257b7bdc928309697c455a67e37428.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k924kswL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e9q1vsvanxol7l9jk1i6.jpeg)
+[![Mobile Technology by AI & Chatbot Apps](img/a2257b7bdc928309697c455a67e37428.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k924kswL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e9q1vsvanxol7l9jk1i6.jpeg)
 
 人工智能已经成为讨论的热门话题很长一段时间了，我想它暂时不会改变。人们通过聊天机器人和虚拟助手交谈，分享他们的想法。
 

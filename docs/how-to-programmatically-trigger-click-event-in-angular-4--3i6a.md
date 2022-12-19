@@ -6,7 +6,7 @@ Angular 4(和 5)中的资源是稀缺的。真的。有时候，我在筛选堆�
 
 我正在做的项目中的一个任务涉及到使用拖放框或点击*浏览*来上传文件，就像这样:
 
-[![File Upload Page](../Images/df450a750cd4ddf0dc3fa5d6ec613e1b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LG8EzHgG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/se3lwt047zm6w7pchsq8.png)
+[![File Upload Page](img/df450a750cd4ddf0dc3fa5d6ec613e1b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LG8EzHgG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/se3lwt047zm6w7pchsq8.png)
 
 本质上，我想在点击*浏览*(这是一个锚标签)时触发隐藏在页面中的文件输入按钮来打开文件浏览器。
 
@@ -47,7 +47,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 页面视图被命名为`uploadFile.component.html`
 
-[![Upload Image](../Images/fb6fed294c3592ccddb0517d2b75a78d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2XXFJG8w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3xtk11l34hx2cxlpzusw.png)
+[![Upload Image](img/fb6fed294c3592ccddb0517d2b75a78d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2XXFJG8w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3xtk11l34hx2cxlpzusw.png)
 
 重要的东西:
 
@@ -59,7 +59,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 TS 文件被命名为`uploadFile.component.ts`
 
-[![Upload Image](../Images/0b8adf54fb2bc235a1a1dc3ce5a0e3e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HX5oKy6W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/spwdwoj8xccu2ffbj3uz.png)
+[![Upload Image](img/0b8adf54fb2bc235a1a1dc3ce5a0e3e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HX5oKy6W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/spwdwoj8xccu2ffbj3uz.png)
 
 重要的东西:
 

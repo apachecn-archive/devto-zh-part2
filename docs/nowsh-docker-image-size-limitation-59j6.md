@@ -3,7 +3,7 @@
 > 原文：<https://dev.to/hitochan777/nowsh-docker-image-size-limitation-59j6>
 
 有人知道 now.sh 有没有限制 docker 图片的大小？我未能部署图像，可能是因为下面日志中看到的模仿。
-[![now.sh log](../Images/053abde3115077a66c3eeee590ccd542.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XgR1nQpK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j8cfvxz3dxymyhjuso19.png)
+[![now.sh log](img/053abde3115077a66c3eeee590ccd542.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XgR1nQpK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j8cfvxz3dxymyhjuso19.png)
 
 直到几天前，我已经能够部署几乎和我今天未能部署的图像一样大的图像。
 

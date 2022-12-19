@@ -14,7 +14,7 @@ React 是一个用于构建 web 应用程序的很棒的 Javascript 库。通过
 
 ## 设置
 
-[![origami wizard's duel](../Images/54a262ad6437818dc00138ae18a07259.png "origami wizard's duel")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r6p_jlWT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/HqQpL3Tm.jpg)
+[![origami wizard's duel](img/54a262ad6437818dc00138ae18a07259.png "origami wizard's duel")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r6p_jlWT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/HqQpL3Tm.jpg)
 
 我已经创建了一个[骨骼 Dropwizard echo 服务器](https://github.com/monknomo/gravina-dropwizard-configurable-assets-bundle-skeleton)和一个[非常小的 React 应用](https://github.com/monknomo/gravina-react-ui)与之配套。Dropwizard 服务器是一个普通的配置，除了在`pom.xml`中增加了这个依赖项
 
@@ -80,7 +80,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 我怎么用？
 
-[![bulldozer](../Images/62c32a15f95c9448195eb6e11f66b4b4.png "bulldozer")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mBNkno1x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/8ZPzPx1m.jpg)
+[![bulldozer](img/62c32a15f95c9448195eb6e11f66b4b4.png "bulldozer")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mBNkno1x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/8ZPzPx1m.jpg)
 
 这种配置允许两种使用模式——开发和生产。
 
@@ -96,7 +96,7 @@ Dropwizard 的端口托管静态构建，所以它不会在您编码时自动重
 
 ## 我为什么要这样做？
 
-[![girl on slide](../Images/7c8be169b5e2d1b231e7e4ac875fb9bb.png "girl on slide")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AScX8YNB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/iWsnVTrm.jpg)
+[![girl on slide](img/7c8be169b5e2d1b231e7e4ac875fb9bb.png "girl on slide")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AScX8YNB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/iWsnVTrm.jpg)
 
 在以下情况下，您应该这样做:
 

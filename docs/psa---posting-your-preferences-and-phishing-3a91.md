@@ -4,7 +4,7 @@
 
 今天我收到了这封邮件。
 
-[![fake email](../Images/7c86c7c9f911f348a8d6f9d005a26998.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gMPhuZ7A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wri9vbas4zfk14zjh2w1.png)
+[![fake email](img/7c86c7c9f911f348a8d6f9d005a26998.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gMPhuZ7A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wri9vbas4zfk14zjh2w1.png)
 
 这封邮件的不同寻常之处在于，我从未注册过 GitLab 账户。更不用说明显的危险信号了，它不是从 gitlab 域发出的。它可能会被误认为是一个自托管的解决方案，只不过我从未注册过它，更不用说更改密码了。我猜这最终是企图窃取源代码。
 
@@ -12,7 +12,7 @@
 
 我认为这可能是一个恶意开发者，他从我碰巧参加的其他开发者社区中挖掘数据。我不记得透露我使用了哪个源代码控制(目前不是 GitLab)，所以它可能只是一个用于攻击多人的安全赌注。也许这只是攻击者最熟悉的服务，并且他们自己的收件箱中已经有了电子邮件，以此作为上述伪造的基础。因为它非常接近 GitLabs 自己的电子邮件格式，如下图所示。
 
-[![real email](../Images/e4439105157baa5c4ad25436d55cd3ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1G7PRI-B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jazgcfemeaatieh8wu24.png)
+[![real email](img/e4439105157baa5c4ad25436d55cd3ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1G7PRI-B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jazgcfemeaatieh8wu24.png)
 
 ## 点到为止
 

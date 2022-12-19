@@ -24,7 +24,7 @@
 
 您可以使用任何名称添加新工具。我给我的取名为，雄猫。对于工具设置，选择`catalina.bat`文件，通常位于 Tomcat 安装的`bin`文件夹中。比如我的是`C:\apache-tomcat-8.5.34\bin\catalina.bat`。最后但同样重要的是，用命令`jpda run`设置一个参数。应该自动设置工作目录。
 
-<figure>[![](../Images/1e2c73095813f66d460990b92b8870c4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mArrPcpx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://stefancosma.xyz/content/images/2018/10/n90GnDc.png) 
+<figure>[![](img/1e2c73095813f66d460990b92b8870c4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mArrPcpx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://stefancosma.xyz/conteimg/2018/10/n90GnDc.png) 
 
 <figcaption>Tomcat 外部工具</figcaption>
 
@@ -48,7 +48,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这行代码使用 Maven 构建项目，然后从指定的路径(通常在项目中配置)获取文件，并将其复制到 Tomcat 中的`webapps`文件夹。然后 Tomcat 知道它有了这个文件的新版本，并重新部署它。
 
-<figure>[![](../Images/15be0be59b9fb828b623ee17ec5d7eda.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iMMXgfKR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://stefancosma.xyz/content/images/2018/10/p1AH4PH.png) 
+<figure>[![](img/15be0be59b9fb828b623ee17ec5d7eda.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iMMXgfKR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://stefancosma.xyz/conteimg/2018/10/p1AH4PH.png) 
 
 <figcaption>构建并部署到 Tomcat</figcaption>
 
@@ -60,7 +60,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 为您的配置命名。您需要将调试器模式设置为`Attach to remote JVM`，将传输设置为`Socket`，将主机设置为`localhost`，最后将端口设置为`8000`。这样，当您开始配置时，Intellij 将通过套接字连接到 Tomcat 服务器，该服务器通过端口`8000`进行发送。您可以在 config 文件夹中的 Tomcat `server.xml`文件中将 Tomcat 的端口更改为其他端口。
 
-<figure>[![](../Images/3eba113b67544148e5c58c80062a6ba0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--M4U_1qon--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://stefancosma.xyz/content/images/2018/10/0sqI0hD.png) 
+<figure>[![](img/3eba113b67544148e5c58c80062a6ba0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--M4U_1qon--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://stefancosma.xyz/conteimg/2018/10/0sqI0hD.png) 
 
 <figcaption>Tomcat 远程调试</figcaption>
 
@@ -70,7 +70,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果您想在调试时保留所有日志的记录，可以通过在新创建的远程配置中使用 logs 选项卡，并将保存控制台输出到文件设置到 Tomcat 安装的`logs`文件夹中来实现。对我来说是`C:\apache-tomcat-8.5.34\logs*.*`。
 
-<figure>[![](../Images/cea21c1c3896c6687a340b129099cde8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BBU1QQYo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://stefancosma.xyz/content/images/2018/10/BSxR11Q.png) 
+<figure>[![](img/cea21c1c3896c6687a340b129099cde8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BBU1QQYo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://stefancosma.xyz/conteimg/2018/10/BSxR11Q.png) 
 
 <figcaption>Tomcat 远程调试日志</figcaption>
 

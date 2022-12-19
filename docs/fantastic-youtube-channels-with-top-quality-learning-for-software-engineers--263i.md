@@ -10,7 +10,7 @@
 
 但是对于那些没有那么多好处，也不能为此每年花费 300 美元左右预算的人来说呢？谢天谢地， [youtube](http://youtube.com) 正在托管相当多的频道，为软件工程师提供高质量的材料。以下是我的最爱，排名不分先后。
 
-[![](../Images/baf4bb442424dd7cca5748eb5dff720e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--C_-r8AhY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/1%2AJtzEheXwoYY3vP0nKbR00A.jpeg) 
+[![](img/baf4bb442424dd7cca5748eb5dff720e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--C_-r8AhY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/1%2AJtzEheXwoYY3vP0nKbR00A.jpeg) 
 
 <figcaption>连尤达大师也同意</figcaption>
 

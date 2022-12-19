@@ -26,7 +26,7 @@
 
 所以，他们测试了它。他们将一只带有 700 兆字节 usb 驱动器的信鸽从中西部飞到悉尼，大约 100 公里或 60 英里。
 
-[![Carrier pigeon](../Images/6d0f53f34b5da0bf434749aa32fef073.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FzsdDWH4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p3pav6q16ajzyk5ko7ou.jpg)
+[![Carrier pigeon](img/6d0f53f34b5da0bf434749aa32fef073.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FzsdDWH4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p3pav6q16ajzyk5ko7ou.jpg)
 
 信鸽赢了，1 小时 5 分钟。他们派了一辆车，用了 2 小时 10 分钟。而互联网连它都没做成，退了两次。
 
@@ -34,16 +34,16 @@
 
 幸运的是，他们做到了！随着时间的推移，互联网速度有所提高:
 
-[![graph of internet speeds](../Images/2151b1340faed7e59e3d4319634d2a5c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YHpoHAs8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hb9ven2oj2vch0viz5pn.png) 
+[![graph of internet speeds](img/2151b1340faed7e59e3d4319634d2a5c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YHpoHAs8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hb9ven2oj2vch0viz5pn.png) 
 [参考](https://www.statista.com/statistics/616210/average-internet-connection-speed-in-the-us/)
 
 除此之外，CPU 速度也在逐年提高:
 
-[![graph of CPU speeds](../Images/882624ea3b9675222f7c738078c97d36.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UQ_7xBx2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3bgcl3uhe779rtojefrj.png)
+[![graph of CPU speeds](img/882624ea3b9675222f7c738078c97d36.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UQ_7xBx2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3bgcl3uhe779rtojefrj.png)
 
 但是唉！网络一点也没有变快:
 
-[![graph of page load times](../Images/c6f93be1ef19bdc856b4d1d0b3a8a13c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--E30fJ68f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8dpd6xedi6huufyq39j3.png) 
+[![graph of page load times](img/c6f93be1ef19bdc856b4d1d0b3a8a13c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--E30fJ68f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8dpd6xedi6huufyq39j3.png) 
 [参考](https://httparchive.org/reports/state-of-javascript?start=earliest&end=latest&view=list)
 
 这是为什么呢？我们一直在改进我们的技术，但在过去几年里，网速基本保持不变。
@@ -52,7 +52,7 @@
 
 类似的事情也发生在网络上。随着技术的进步，我们对媒体、新体验以及最终整个包大小的需求也在增长。
 
-[![graph of increasing bundle size](../Images/806e73b2b8eb2183b8e87a170b59e15a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9FJ-Hw-E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6rc0wfgp4rqk5jz1h7se.png)
+[![graph of increasing bundle size](img/806e73b2b8eb2183b8e87a170b59e15a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9FJ-Hw-E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6rc0wfgp4rqk5jz1h7se.png)
 
 [参考](https://httparchive.org/reports/state-of-javascript?start=earliest&end=latest&view=list)
 
@@ -64,7 +64,7 @@
 
 ### 业务目标
 
-[![A person on a laptop in a conference room](../Images/cfcf80bbc086f44d1032579efbc4e415.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BBxWW8qb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1hsvjqjhegmjmkez5var.png)
+[![A person on a laptop in a conference room](img/cfcf80bbc086f44d1032579efbc4e415.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BBxWW8qb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1hsvjqjhegmjmkez5var.png)
 
 绩效直接等同于业务目标和金钱。
 
@@ -80,7 +80,7 @@
 
 ### 用户幸福感
 
-[![A frustrated user on a laptop](../Images/a31dc3c119c3a4feb1469e3e6f71c620.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IqrQVntn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/muogukc13mpwtylbxvst.png)
+[![A frustrated user on a laptop](img/a31dc3c119c3a4feb1469e3e6f71c620.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IqrQVntn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/muogukc13mpwtylbxvst.png)
 
 [人机交互研究](https://www.nngroup.com/articles/response-times-3-important-limits/)显示，从用户的角度来看，有三大类任务:
 
@@ -92,7 +92,7 @@
 
 ### 世界
 
-[![A picture of earth](../Images/bcc681095b4d46384cfeac267c2d77ca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--249pa36o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cfi2bt76t7sly2zt4gwl.png)
+[![A picture of earth](img/bcc681095b4d46384cfeac267c2d77ca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--249pa36o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cfi2bt76t7sly2zt4gwl.png)
 
 youtube 的一个版本被创建，叫做“ [Youtube 羽毛](https://wpostats.com/2015/11/11/youtube-feather.html)”。这个版本的 youtube 在页面重量方面轻了 90%,并且只包含了 youtube 加载的最低限度。创作者想看看这是否会改善该版本的平均加载时间，所以他们选择了一小部分流量。
 

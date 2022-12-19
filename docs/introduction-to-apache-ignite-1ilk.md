@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bszeliga/introduction-to-apache-ignite-1ilk>
 
-[![Apache Ignite](../Images/634ae18bcc36846f72bcfdac7e2b1a8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XiroBuGt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ignite.apache.org/images/Ignite_tm_Logo_blk_RGB.svg)
+[![Apache Ignite](img/634ae18bcc36846f72bcfdac7e2b1a8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XiroBuGt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ignite.apache.oimg/Ignite_tm_Logo_blk_RGB.svg)
 
 Apache Ignite 是一个分布式缓存平台，支持事务处理。它能够扩展到 1000 个节点，同时提供高速内存访问。
 
@@ -16,7 +16,7 @@ Ignite 可以作为独立的应用程序执行，也可以在使用它的应用�
 
 Ignite 在使用前有两个配置步骤。第一个是定义集群发现机制，第二个是定义缓存。
 
-[![Ignite Clustering](../Images/a314a334577544fb9a5a137f323efadb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yU1HEs5W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/9287d3c-ignite-deploy.png)
+[![Ignite Clustering](img/a314a334577544fb9a5a137f323efadb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yU1HEs5W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/9287d3c-ignite-deploy.png)
 
 在 Ignite 中，集群是共享包含在一个或多个缓存中的数据的一组节点。ignite 提供的用于定义集群的示例包括:
 
@@ -62,7 +62,7 @@ Ignite 提供了许多额外的内置功能，值得一提，但上面没有讨�
 
 #### 参考文献:
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) [ bszeliga ](https://github.com/bszeliga) / [点火-介绍](https://github.com/bszeliga/ignite-intro)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) [ bszeliga ](https://github.com/bszeliga) / [点火-介绍](https://github.com/bszeliga/ignite-intro)
 
 ### 阿帕奇点燃了一个小操场
 

@@ -22,10 +22,10 @@
 
 因为我们需要多次运行 CI 构建，并且我们不想弄乱 Puppeteer 的 repo，所以让我们创建一个新的 repo，这样我们就可以玩它了。docfx-playground 听起来是一个相当~~酷~~体面的名字。
 
-[![Repo Image](../Images/43f099f936977b2c2b00e40000e02684.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--StN_vKnE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/docfx-tutorial/1_repo.png)
+[![Repo Image](img/43f099f936977b2c2b00e40000e02684.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--StN_vKnE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/docfx-tutorial/1_repo.png)
 
 我们还需要为这个新项目建立一个 CI。[搞定](https://ci.appveyor.com/project/kblok/docfx-playground)。
-T3![App Veyor](../Images/305b7a1cda2e44772e1d3cb038eadc3c.png)T5】
+T3![App Veyor](img/305b7a1cda2e44772e1d3cb038eadc3c.png)T5】
 
 现在，让我们将我们的 P#(是的，我称之为 puppeter-Sharp，P#)复制到这个新的 repo 中。
 
@@ -42,7 +42,7 @@ T3![App Veyor](../Images/305b7a1cda2e44772e1d3cb038eadc3c.png)T5】
 
 > docfx 初始化-q
 
-[![Dcofx](../Images/e97059d43b86e795d8a508bd7e3fe86a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H5sd_ZuM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/docfx-tutorial/3_docfxproject.png)
+[![Dcofx](img/e97059d43b86e795d8a508bd7e3fe86a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H5sd_ZuM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/docfx-tutorial/3_docfxproject.png)
 
 厉害！
 
@@ -72,7 +72,7 @@ Enter fullscreen mode Exit fullscreen mode
 > docfx 元数据 docfx_project/docfx.json
 
 嘣！
-[![DocFx metadata](../Images/e9d3d65d8e1fb682b65e5b9577c847f0.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--ws2yc7cV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/docfx-tutorial/4_docfx_metadata.png)
+[![DocFx metadata](img/e9d3d65d8e1fb682b65e5b9577c847f0.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--ws2yc7cV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/docfx-tutorial/4_docfx_metadata.png)
 
 我还不知道那些文件是什么。但这是事实。让我们试着建一个网站。
 
@@ -82,11 +82,11 @@ Enter fullscreen mode Exit fullscreen mode
 然后...主页和 API 索引页面可以有更多的链接来连接新页面。
 
 *网站首页*
-[![First Home](../Images/4655b0f18ccd35b1c5552063ec7ce6dc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vp-rPZ-B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/docfx-tutorial/5_first_home.png) 
+[![First Home](img/4655b0f18ccd35b1c5552063ec7ce6dc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vp-rPZ-B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/docfx-tutorial/5_first_home.png) 
 *API 首页*
-[![FirstAPI](../Images/e62e100f9c69b43813675779a91e21d7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UtlZNuxW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/docfx-tutorial/6_first_api.png)
+[![FirstAPI](img/e62e100f9c69b43813675779a91e21d7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UtlZNuxW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/docfx-tutorial/6_first_api.png)
 *部分 doc 页面*
-[![Doc Page](../Images/7ea7acee38a5795a633f9a8737f6fab8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IolLmSg9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/docfx-tutorial/7_first_doc.png)
+[![Doc Page](img/7ea7acee38a5795a633f9a8737f6fab8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IolLmSg9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/docfx-tutorial/7_first_doc.png)
 
 #### 番茄 1 号结束
 
@@ -107,7 +107,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 > docfx 服务器
 
-[![Good API Page](../Images/7a1c3d00553438c4f3d901ccaa5f0b16.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pavPl2ZL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/docfx-tutorial/8_first_good_api.png)
+[![Good API Page](img/7a1c3d00553438c4f3d901ccaa5f0b16.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pavPl2ZL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/docfx-tutorial/8_first_good_api.png)
 
 #### 番茄末日 2
 
@@ -115,11 +115,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 好吧，我们有一个网站运行。我们来推一下，设置 Github 页面。
 
-[![Githubpage](../Images/a94b780e7c2723e7034777ee21e02bd4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_ScG0wOx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/docfx-tutorial/9_set_github_page.png)
+[![Githubpage](img/a94b780e7c2723e7034777ee21e02bd4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_ScG0wOx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/docfx-tutorial/9_set_github_page.png)
 
 我们有一个网站！
 
-[![Site](../Images/e3c27e9f389a5e1d208d870a3328b482.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rcpsn_ii--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/docfx-tutorial/10_first_site.png)
+[![Site](img/e3c27e9f389a5e1d208d870a3328b482.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rcpsn_ii--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/docfx-tutorial/10_first_site.png)
 
 虽然这里有许多需要改进的地方，但是让我们继续讨论 AppVeyor。这个想法很简单:
 
@@ -251,7 +251,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 所以在尝试推送到 Github 时出现 403 错误是因为我在创建令牌时必须检查“Repo”选项。
 
-[![Repo check](../Images/bd274b99fd8ea453ca44dab546483599.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--459g2WwB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/docfx-tutorial/11_repo_check.png)
+[![Repo check](img/bd274b99fd8ea453ca44dab546483599.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--459g2WwB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/docfx-tutorial/11_repo_check.png)
 
 我刚刚知道这是注册子树的正确方法
 
@@ -288,7 +288,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，我们设置我们的自定义域，我们已经准备好了！
 
-[![Setup domain](../Images/e1960456d40a5eb5e27143bfb6f0d1b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aDYmAg97--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/docfx-tutorial/12_setup_domain.png)
+[![Setup domain](img/e1960456d40a5eb5e27143bfb6f0d1b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aDYmAg97--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/docfx-tutorial/12_setup_domain.png)
 
 哦，如果你想知道这个 DocFx 错误:
 

@@ -2,13 +2,13 @@
 
 > 原文：<https://dev.to/jovanhernandex/using-twilio-to-send-sms-texts-via-python-flask-and-ngrok-4i39>
 
-[![](../Images/e8295323553e56fd79fc3a15b8fe713d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OeavfaS8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AaAMpcafIJX4xLKSSp1m0bg.png)
+[![](img/e8295323553e56fd79fc3a15b8fe713d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OeavfaS8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AaAMpcafIJX4xLKSSp1m0bg.png)
 
 Python 在很多方面都很棒。特别是，有一件事是编写代码来开发和部署简单的 web 应用程序，以实现您业务中可能需要的特定功能或实用程序。在本教程中，我将介绍几种如何使用 Communications REST API 、 [Python 的 Flask 微框架](http://flask.pocoo.org)和 [ngrok](https://ngrok.com) 集成 [Twilio 的可编程 SMS 系统，后者是一种云服务，通过安全隧道将 NAT 和防火墙后面的本地服务器暴露给公共互联网。](https://www.twilio.com/docs/api?filter-product=sms)
 
 ### 出站短信—如何工作？
 
-[![](../Images/240edfcffc7e95f64b7c00a7f832a456.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dsi8BwwI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AU7-ZBE0RJrCOnd_S0DS6hg.png)
+[![](img/240edfcffc7e95f64b7c00a7f832a456.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dsi8BwwI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AU7-ZBE0RJrCOnd_S0DS6hg.png)
 
 使用 Twilio 的 REST API，您可以从您的 Twilio 电话号码向世界各地的手机发送短信。
 
@@ -20,7 +20,7 @@ Python 在很多方面都很棒。特别是，有一件事是编写代码来开�
 
 前往[Twilio.com](https://www.twilio.com)注册一个免费账户。注册后，你可以用他们给新成员的点数购买一个号码。为了简洁起见，[我将把你链接到他们关于如何购买号码的支持页面。](https://support.twilio.com/hc/en-us/articles/223135247-How-to-Search-for-and-Buy-a-Twilio-Phone-Number-from-Console)
 
-<figure>[![](../Images/db9da25c292ccd41544d4b70f8bddee8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--b1IE572t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Ad5J_f-4R0Y9Gt43lZTrUUA.png) 
+<figure>[![](img/db9da25c292ccd41544d4b70f8bddee8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--b1IE572t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Ad5J_f-4R0Y9Gt43lZTrUUA.png) 
 
 <figcaption>确保您购买的号码可以发送短信。</figcaption>
 
@@ -54,7 +54,7 @@ message = client.messages.create(
 print(message.sid) 
 ```
 
-<figure>[![](../Images/bbbbccdcffc323a6bb6f469bf3e0c508.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kxSLL-Cv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ap9dM36e1Z4Q3ZZT4iArK9g.png) 
+<figure>[![](img/bbbbccdcffc323a6bb6f469bf3e0c508.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kxSLL-Cv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ap9dM36e1Z4Q3ZZT4iArK9g.png) 
 
 <figcaption>用自己的信息替换占位符值。</figcaption>
 
@@ -68,7 +68,7 @@ python send\_sms.py
 
 就是这样！你的 Twilio 电话号码很快就会有一条信息打到你的手机上。如果您是试用帐户，您将会看到邮件的前缀。
 
-<figure>[![](../Images/0910efb2c3b56cc37f20a25c3e478f5a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MiQjyY_f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1002/1%2AMDxpF34OJRMdg8NHWHlnyg.png) 
+<figure>[![](img/0910efb2c3b56cc37f20a25c3e478f5a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MiQjyY_f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1002/1%2AMDxpF34OJRMdg8NHWHlnyg.png) 
 
 <figcaption>无视我的高飞测试消息:P</figcaption>
 
@@ -131,7 +131,7 @@ if \_\_name\_\_ == “\_\_main\_\_”:
  app.run(debug=True) 
 ```
 
-<figure>[![](../Images/08e5b490b6407cb9f6853fb4c5fb0958.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gt8bekp5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A-xvjRQdrbWWyzfaI1dtsKA.png) 
+<figure>[![](img/08e5b490b6407cb9f6853fb4c5fb0958.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gt8bekp5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A-xvjRQdrbWWyzfaI1dtsKA.png) 
 
 <figcaption>烧瓶中 Twilio app 的测试代码。</figcaption>
 
@@ -143,7 +143,7 @@ if \_\_name\_\_ == “\_\_main\_\_”:
 
 Naviage 到 localhost:5000/sms。您应该会在浏览器中看到以下文本:
 
-<figure>[![](../Images/ef175c09ce7387eeb1c60873133047fe.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PPBA2t8a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ACqFczmNCN9n3MpCsumO1OQ.png) 
+<figure>[![](img/ef175c09ce7387eeb1c60873133047fe.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PPBA2t8a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ACqFczmNCN9n3MpCsumO1OQ.png) 
 
 <figcaption>你应该看看你做得对不对。</figcaption>
 
@@ -163,7 +163,7 @@ Naviage 到 localhost:5000/sms。您应该会在浏览器中看到以下文本:
 
 您应该会在下面屏幕截图的左上角看到类似于终端的输出:
 
-<figure>[![](../Images/80b19abc239196b12937662a3a9297dd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--W1ct-y0---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AkCz1zOyP7XsspTMqTyNLJA.png) 
+<figure>[![](img/80b19abc239196b12937662a3a9297dd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--W1ct-y0---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AkCz1zOyP7XsspTMqTyNLJA.png) 
 
 <figcaption>Ngrok 让你公开访问本地托管的应用。</figcaption>
 
@@ -208,7 +208,7 @@ if \_\_name\_\_ == "\_\_main\_\_":
 
 在“有消息进来”部分，选择“Webhook”并粘贴您想要使用的 URL。
 
-<figure>[![](../Images/f90525132f504d2a83ffe128073f7c5c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mVWMQAUd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ARHtUjvH5J8i3CWs7y3wkXA.png) 
+<figure>[![](img/f90525132f504d2a83ffe128073f7c5c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mVWMQAUd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ARHtUjvH5J8i3CWs7y3wkXA.png) 
 
 <figcaption>将您的自定义 ngrok URL 粘贴到 Twilio 控制台号码的页面中。</figcaption>
 
@@ -224,7 +224,7 @@ python send\_sms.py
 python run.py 
 ```
 
-<figure>[![](../Images/41bb82ba1bb52ddf13b00c750e28fca5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zBFvnunz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AiXaD_Pi0DV30KkW5lERE3A.png) 
+<figure>[![](img/41bb82ba1bb52ddf13b00c750e28fca5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zBFvnunz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AiXaD_Pi0DV30KkW5lERE3A.png) 
 
 <figcaption>万物一起运转。您可以通过访问以下网址来确认您的响应脚本是否公开。</figcaption>
 
@@ -232,7 +232,7 @@ python run.py
 
 您应该收到您的初始文本，如果您回复它，您应该得到您在第二个 python 脚本中编码的响应文本。
 
-<figure>[![](../Images/52f3cce5c78357f99f50a51e0242219a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ar26FXKR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1002/1%2AyhWkbxADa1LCXoZLSK9tjA.png) 
+<figure>[![](img/52f3cce5c78357f99f50a51e0242219a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ar26FXKR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1002/1%2AyhWkbxADa1LCXoZLSK9tjA.png) 
 
 <figcaption>再次，忽略我的高飞矩阵引用:P</figcaption>
 

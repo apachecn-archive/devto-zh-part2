@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/wiaio/publish-an-event-to-wia-using-your-sodaq-sara-n211--nb-iot-79e>
 
-[![alt text](../Images/13f9cdc7f633580f4abc5bcd9eef8fc6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w9ds-t4t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/488416/nb-iot-press-release_TyfUxnrY3N.png%3Fauto%3Dcompress%252Cformat%26w%3D900%26h%3D675%26fit%3Dmin)
+[![alt text](img/13f9cdc7f633580f4abc5bcd9eef8fc6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w9ds-t4t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/488416/nb-iot-press-release_TyfUxnrY3N.png%3Fauto%3Dcompress%252Cformat%26w%3D900%26h%3D675%26fit%3Dmin)
 
 在本教程中，我们将介绍设置 NB-IoT 并向 Wia 发布事件的初始步骤。
 
@@ -71,7 +71,7 @@ T1】
 *   进入菜单:`Tools > Board > Boards Manager`
 *   搜索`Arduino SAMD`。找到后，点击`Install`
 
-[![alt text](../Images/dc8fed25f00323f4c2506397d801eea4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VvHhUE1N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/ba31e52-aruinodsambboard.png)
+[![alt text](img/dc8fed25f00323f4c2506397d801eea4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VvHhUE1N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/ba31e52-aruinodsambboard.png)
 
 在 Arduino IDE 中:
 
@@ -153,7 +153,7 @@ Enter fullscreen mode Exit fullscreen mode
 **注意** : Wia CoAP API 端点细节
 `52.17.209.228`是 Wia CoAP API 的 IP 地址，`5683`是端口。
 
-[![alt text](../Images/a9cc48f5be8595722146eb0febf02728.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8lCFrTo---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/bed4da1-serial_accesstoken.png)
+[![alt text](img/a9cc48f5be8595722146eb0febf02728.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8lCFrTo---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/bed4da1-serial_accesstoken.png)
 
 ### **与设备接口**
 
@@ -180,7 +180,7 @@ Enter fullscreen mode Exit fullscreen mode
 *   打开一个套接字并通过 UDP 向 Wia 发送消息
 *   输出应该如下图所示:
 
-[![alt text](../Images/8cf37f7daf4ea02bcffcc4b1214748c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3bL5KgIm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/73aa36b-publishing_an_event_to_wia.png)
+[![alt text](img/8cf37f7daf4ea02bcffcc4b1214748c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3bL5KgIm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/73aa36b-publishing_an_event_to_wia.png)
 
 ### **常见错误**
 

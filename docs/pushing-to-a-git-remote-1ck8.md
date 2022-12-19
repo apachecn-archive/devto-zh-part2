@@ -38,7 +38,7 @@ Git remote 是存储在互联网上其他地方的同一个存储库。它可以
 
 登录后，您会在页面的右上角看到一个加号(+)按钮。单击此加号按钮，并选择新建存储库。
 
-[![Menu that shows up after clicking the plus button on the top right hand corner. There is a option that says create repository](../Images/85457a21e7a1ec2d5ea32cc50d7cb7d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--62ioTrJP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-push/create-repo-1.png)
+[![Menu that shows up after clicking the plus button on the top right hand corner. There is a option that says create repository](img/85457a21e7a1ec2d5ea32cc50d7cb7d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--62ioTrJP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-push/create-repo-1.png)
 
 要创建新的存储库，您需要为您的存储库命名。
 
@@ -48,11 +48,11 @@ Git remote 是存储在互联网上其他地方的同一个存储库。它可以
 
 然后，忽略其余部分，单击 create repository 按钮。
 
-[![Example of creating a repo](../Images/425eb3582b620aeca950971d799423c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VpEchtOQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-push/create-repo-2.png)
+[![Example of creating a repo](img/425eb3582b620aeca950971d799423c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VpEchtOQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-push/create-repo-2.png)
 
 一旦你点击创建存储库，你会看到一个页面，里面有一些 Git 指令。
 
-[![Instructions after creating repo](../Images/339723e374c22d8e0144b38e9bc669b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cn-8UoHa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-push/git-instructions.png)
+[![Instructions after creating repo](img/339723e374c22d8e0144b38e9bc669b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cn-8UoHa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-push/git-instructions.png)
 
 暂时忽略这些说明。这些知识要求您使用 Git 命令行。你将在几节课中学会如何去做。
 
@@ -66,13 +66,13 @@ Git remote 是存储在互联网上其他地方的同一个存储库。它可以
 
 SSH 允许您推送(将内容放入远程存储库)和拉取(将远程存储库复制回本地存储库),而无需每次都输入 Github 用户名和密码。这让事情变得简单多了。
 
-[![Select the URL. Make sure SSH is checked](../Images/ba53469c8cf2d7839b81eec6cd4b19a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L4oxI3f9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-push/git-url.png)
+[![Select the URL. Make sure SSH is checked](img/ba53469c8cf2d7839b81eec6cd4b19a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L4oxI3f9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-push/git-url.png)
 
 接下来，在 Fork 中打开项目并单击按钮。
 
 从左边数第四个按钮。它看起来像一个向上的箭头。
 
-[![The push button is a button that looks like an up arrow](../Images/c6ff292ae1794c644dfaf02677882a58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WTfLXDSj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-push/push.png)
+[![The push button is a button that looks like an up arrow](img/c6ff292ae1794c644dfaf02677882a58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WTfLXDSj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-push/push.png)
 
 一旦你点击按钮，Fork 会要求你选择一个分支和一个遥控器。
 
@@ -80,7 +80,7 @@ SSH 允许您推送(将内容放入远程存储库)和拉取(将远程存储库�
 
 我们需要添加刚刚创建的遥控器。要添加遥控器，单击选择框并选择添加遥控器。
 
-[![Adding a remote](../Images/2d4084f1bfe2e9209879c648397e6464.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vGjK10Dc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-push/add-remote.png)
+[![Adding a remote](img/2d4084f1bfe2e9209879c648397e6464.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vGjK10Dc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-push/add-remote.png)
 
 接下来，您需要命名您的遥控器。
 
@@ -90,13 +90,13 @@ SSH 允许您推送(将内容放入远程存储库)和拉取(将远程存储库�
 
 完成后选择添加新遥控器。
 
-[![The remote name and url](../Images/40731f91a6eafedc5587198ba1831b6c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P_yrCFML--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-push/remote-name.png)
+[![The remote name and url](img/40731f91a6eafedc5587198ba1831b6c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P_yrCFML--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-push/remote-name.png)
 
 ## 第一次推送到远程
 
 当您第一次将文件推送到遥控器上时，请确定“创建跟踪引用”注记格已选中。
 
-[![Make sure tracking reference is checked](../Images/2a00eb8cb219263aa839b10a5e64cda4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UtN-7a1G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-push/tracking-ref.png)
+[![Make sure tracking reference is checked](img/2a00eb8cb219263aa839b10a5e64cda4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UtN-7a1G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-push/tracking-ref.png)
 
 跟踪引用告诉 Git 跟踪当前分支(在本例中是主分支),并推或拉远程上的同一个分支。
 
@@ -110,13 +110,13 @@ SSH 允许您推送(将内容放入远程存储库)和拉取(将远程存储库�
 
 在所有提交中，您将看到两个标签。一个叫`master`(我们电脑上的主分支)。另一个称为`origin/master`(称为 origin 的遥控器上的主分支)。在这种情况下，我们的原点是 Github，所以`origin/master`指的是 Github 上的主分支。
 
-[![Git History shows `master` and `origin/master` on the same commit](../Images/844e766fabe7b90c53fd18920a70cd6f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ymitY9xi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-push/history-1.png)
+[![Git History shows `master` and `origin/master` on the same commit](img/844e766fabe7b90c53fd18920a70cd6f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ymitY9xi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-push/history-1.png)
 
 当这两个标签在同一个提交上时，这意味着我们在本地主分支上的文件与我们在 Github 主分支上的文件是相同的。
 
 如果您回到获取 Git 远程 URL 的页面，就可以验证这一点。刷新这个页面，你会看到你通常在 Github(一个项目页面)上看到的内容。
 
-[![Git repository page updated with the files you pushed](../Images/c52f631ea337de0330ec3efcf145fa87.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mx_yWU7U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-push/git-repo-1.png) 
+[![Git repository page updated with the files you pushed](img/c52f631ea337de0330ec3efcf145fa87.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mx_yWU7U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-push/git-repo-1.png) 
 
 <figure>
 
@@ -140,13 +140,13 @@ SSH 允许您推送(将内容放入远程存储库)和拉取(将远程存储库�
 
 当您创建一个新的提交时，请看一下左侧的侧栏。在主分支旁边，您会看到一个数字、一个数字和一个向上的箭头。
 
-[![Right of master branch contains 1 and an up arrow](../Images/c31ce6d0f9d25594c0fcd3e52931d013.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GNwKUzIW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-push/branch.png)
+[![Right of master branch contains 1 and an up arrow](img/c31ce6d0f9d25594c0fcd3e52931d013.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GNwKUzIW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-push/branch.png)
 
 这告诉我们，我们的主分支比远程分支早一次提交。这意味着我们的主分支比远程分支更新。
 
 如果您查看 Git 历史，您可以“Create readme.md”提交在本地分支上，但是这个提交还没有到达远程。
 
-[![Git history updated with local commits](../Images/4d415a983e526509999da23df39c1867.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WUEJcLSB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-push/history-2.png)
+[![Git history updated with local commits](img/4d415a983e526509999da23df39c1867.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WUEJcLSB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-push/history-2.png)
 
 要将新提交推送到遥控器上，您需要再次单击 push 按钮。
 
@@ -154,7 +154,7 @@ SSH 允许您推送(将内容放入远程存储库)和拉取(将远程存储库�
 
 就是这样。
 
-[![Menu to push again becomes simpler. You just need to click push.](../Images/d55d644eeff1d61935a4917f25eb9305.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--A7L2m8DT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-push/pushing-again.png)
+[![Menu to push again becomes simpler. You just need to click push.](img/d55d644eeff1d61935a4917f25eb9305.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--A7L2m8DT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-push/pushing-again.png)
 
 <figure>
 
@@ -164,7 +164,7 @@ SSH 允许您推送(将内容放入远程存储库)和拉取(将远程存储库�
 
 一旦提交被推送到远程分支，您可以看到`origin/master`标记被移动到与`master`标记相同的提交。
 
-[![Git history updated. `origin/master` is also on the 'Create Readme.md' commit](../Images/85c247aab99894f0a32ecce69a1b56dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JvmEINmB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-push/history-3.png)
+[![Git history updated. `origin/master` is also on the 'Create Readme.md' commit](img/85c247aab99894f0a32ecce69a1b56dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JvmEINmB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-push/history-3.png)
 
 为了证明这是可行的，您可以刷新 Github 存储库页面，您将能够看到您的新`README.md`文件！
 

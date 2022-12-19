@@ -6,7 +6,7 @@
 
 为新开发人员收集的 25 个技巧，来自一位自学成才的软件工程师，他目前的主要工作是教人们如何编码！
 
-[![aspittel](../Images/45a8d86fe0ff981bf7cdb45b471a3c5c.png)](/aspittel) [## 给新开发人员的 25 个建议:来自一个(大部分)自学成才的软件工程师的建议
+[![aspittel](img/45a8d86fe0ff981bf7cdb45b471a3c5c.png)](/aspittel) [## 给新开发人员的 25 个建议:来自一个(大部分)自学成才的软件工程师的建议
 
 ### 阿里·斯皮特尔 8 月 7 日 189 分钟阅读
 
@@ -16,7 +16,7 @@
 
 图书馆如何强迫我们使用`this`、`this`的问题以及如何停止使用`this`的例子。
 
-[![joelnet](../Images/01cc0aabe2a6d3f7821506160dcb40d3.png)](/joelnet) [## 重新思考 JavaScript:彻底消除和根除 JavaScript 的 this。
+[![joelnet](img/01cc0aabe2a6d3f7821506160dcb40d3.png)](/joelnet) [## 重新思考 JavaScript:彻底消除和根除 JavaScript 的 this。
 
 ### JavaScript 乔尔 Aug 8 ' 18 分钟阅读
 
@@ -26,7 +26,7 @@
 
 对每个人都是很好的提醒，不管你的职业生涯处于什么阶段。
 
-[![kaydacode](../Images/3de2399e0b14953a1e56d56a188134cf.png)](/kaydacode) [## 我希望能告诉过去的自己的 5 件事
+[![kaydacode](img/3de2399e0b14953a1e56d56a188134cf.png)](/kaydacode) [## 我希望能告诉过去的自己的 5 件事
 
 ### 金·阿内特·8 月 11 日 183 分钟阅读
 
@@ -36,7 +36,7 @@
 
 并最大限度地减少您的依赖性！！！
 
-[![catriname](../Images/2d091e7dcc53340c2cd6c53a5ca13c54.png)](/catriname) [## 我是一个前端骗子
+[![catriname](img/2d091e7dcc53340c2cd6c53a5ca13c54.png)](/catriname) [## 我是一个前端骗子
 
 ### 卡特里娜
 
@@ -52,7 +52,7 @@
 
 增加你价值的简单方法。
 
-[![karan](../Images/09fb3bd8865fb98e6763cb6c6c678ef0.png)](/karan) [## 在 1 件事情上表现平平比在 1 件事情上表现出色更容易，也更有价值。
+[![karan](img/09fb3bd8865fb98e6763cb6c6c678ef0.png)](/karan) [## 在 1 件事情上表现平平比在 1 件事情上表现出色更容易，也更有价值。
 
 ### karan Aug 12 ' 182 分钟读数
 
@@ -62,7 +62,7 @@
 
 技术噩梦一瞥。
 
-[![jwoertink](../Images/731d305f891ea312eec7dfc1ea49dac3.png)](/jwoertink) [## 成人娱乐行业的节目被打破了
+[![jwoertink](img/731d305f891ea312eec7dfc1ea49dac3.png)](/jwoertink) [## 成人娱乐行业的节目被打破了
 
 ### 杰里米沃尔廷克 8 月 8 日 181 分钟阅读
 

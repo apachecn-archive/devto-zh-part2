@@ -329,7 +329,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在我们开始工作了！你应该能看到一张标有标记的地图，以及你的位置。除非你在模拟器上。然后你会看到你在旧金山的某个地方。我想知道那是不是世博会团队工作的地方？
 
-[![Final](../Images/0ec1061e0fc112cd5392890cda02b4fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--REUY11a7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f0mdowhjji8m8jnmjf9d.png)
+[![Final](img/0ec1061e0fc112cd5392890cda02b4fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--REUY11a7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f0mdowhjji8m8jnmjf9d.png)
 
 我希望你能从这篇文章中得到乐趣，希望它能激励你做出更酷的东西。在我准备这篇文章的过程中，我创建了一个类似的应用程序，增加了一些额外的功能，它甚至有过滤按钮。其中一个过滤器是“星巴克”，以防你找不到它们。如果你感兴趣，你可以在这里看到代码。
 

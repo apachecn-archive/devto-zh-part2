@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/vscode/introducing-vscode-theme-shades-of-purple--33me>
 
-[![shades of purple](../Images/ba8c16481486bf2fc575a3e6ab902bc9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V2cLUfXp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0tuv1vf7ql1r9asxqxj8.gif)
+[![shades of purple](img/ba8c16481486bf2fc575a3e6ab902bc9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V2cLUfXp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0tuv1vf7ql1r9asxqxj8.gif)
 
 ## [深浅不一的紫色主题为 VS 代号](http://Ahmda.ws/VSCSOP)
 
@@ -22,11 +22,11 @@
 | Ahmad Awais 开发的一个自由开源软件项目。 |
 | <sup>关注 Ahmad 在 GitHub 上的#FOSS 作品[@ Ahmad awais](https://github.com/ahmadawais)——说👋在推特上[@ MrAhmadAwais](https://twitter.com/mrahmadawais/)T5】</sup> |
 
-| [![Version](../Images/9c4ea4b7859ab8aa506393e7eae3c643.png)T2】](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple) | [![Installs](../Images/68f6fc1bbd56bbbe9d29cff38e2c34bc.png)T2】](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple) | [![Rating](../Images/43317cbd6f788be66103764532fb209b.png)T2】](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details) |
+| [![Version](img/9c4ea4b7859ab8aa506393e7eae3c643.png)T2】](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple) | [![Installs](img/68f6fc1bbd56bbbe9d29cff38e2c34bc.png)T2】](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple) | [![Rating](img/43317cbd6f788be66103764532fb209b.png)T2】](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details) |
 | --- | --- | --- |
-| [![GitHub stars](../Images/a635f1d47874a20d051dc870c03b30d0.png)T2】](https://github.com/ahmadawais/shades-of-purple-vscode/stargazers) | [![GitHub followers](../Images/4c448512c0091bcd3cd130fcbc3ca6ae.png)T2】](https://github.com/ahmadawais?tab=followers) | [![Tweet for help](../Images/d7279bf36ba86626afa6c070e40754f1.png)T2】](https://twitter.com/mrahmadawais/) |
+| [![GitHub stars](img/a635f1d47874a20d051dc870c03b30d0.png)T2】](https://github.com/ahmadawais/shades-of-purple-vscode/stargazers) | [![GitHub followers](img/4c448512c0091bcd3cd130fcbc3ca6ae.png)T2】](https://github.com/ahmadawais?tab=followers) | [![Tweet for help](img/d7279bf36ba86626afa6c070e40754f1.png)T2】](https://twitter.com/mrahmadawais/) |
 
-[![Install](../Images/1a4205f4e31fabe97ee964e3d098640c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ciWRKqUw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://on.ahmda.ws/qWVC/c)
+[![Install](img/1a4205f4e31fabe97ee964e3d098640c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ciWRKqUw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://on.ahmda.ws/qWVC/c)
 
 ## 安装方便
 
@@ -36,7 +36,7 @@
 4.  点击**重新加载**来重新加载你的编辑器。
 5.  代码/文件>首选项>颜色主题>**紫色阴影**。
 
-[![alternate installation](../Images/49970dd4a56637c8f35fb17eea7c01d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ivQEYlGI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://on.ahmda.ws/qWuq/c)
+[![alternate installation](img/49970dd4a56637c8f35fb17eea7c01d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ivQEYlGI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://on.ahmda.ws/qWuq/c)
 
 ## 交替安装
 
@@ -46,13 +46,13 @@
 4.  点击**重新加载**来重新加载你的编辑器。
 5.  代码/文件>首选项>颜色主题>**紫色阴影**。
 
-[![Tips](../Images/6edc96f168a6ece8246866d45b86c18c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z6kRfOPT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://on.ahmda.ws/qVjy/c)
+[![Tips](img/6edc96f168a6ece8246866d45b86c18c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z6kRfOPT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://on.ahmda.ws/qVjy/c)
 
 ## 最佳自定义设置！
 
 此主题在下列设置下效果最佳。尤其是如果你有运营商单声道字体。将其添加到您的用户设置 JSON 对象中。
 
-你也可以使用一个定制的 [VSCode 紫色图标](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/logo.png)，这是我根据令人惊叹的设计师达尼斯的作品制作的，名为 [VSCode 图标](https://github.com/dhanishgajjar/vscode-icons#how-to-install)。
+你也可以使用一个定制的 [VSCode 紫色图标](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/mastimg/logo.png)，这是我根据令人惊叹的设计师达尼斯的作品制作的，名为 [VSCode 图标](https://github.com/dhanishgajjar/vscode-icons#how-to-install)。
 
 ```
  // Theme Setup.
@@ -89,7 +89,7 @@
 
 💜我将在 [VSCode.pro](https://VSCode.pro/) 上讲授更多关于配置这个主题和你的 Visual Studio 代码编辑器的内容。感兴趣吗？！报名成为 [VSCode 超级用户](https://VSCode.pro/) →
 
-[![Shades of purple for other software](../Images/16b81fe409b8675f86665ce7fa370559.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TvefSesq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://on.ahmda.ws/qYAe/c)
+[![Shades of purple for other software](img/16b81fe409b8675f86665ce7fa370559.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TvefSesq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://on.ahmda.ws/qYAe/c)
 
 ## 把`Shades of Purple`放到其他地方！
 
@@ -102,7 +102,7 @@
 *   💜[松弛主题](https://github.com/ahmadawais/shades-of-purple-slack) —紫色的阴影
 *   💜阿尔弗雷德主题 —紫色的阴影
 
-[![Hello](../Images/e4ba1fd9c9e54bf149a1226be7d47001.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eEzZyH42--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://on.ahmda.ws/os6O/c)
+[![Hello](img/e4ba1fd9c9e54bf149a1226be7d47001.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eEzZyH42--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://on.ahmda.ws/os6O/c)
 
 #### **你好，我们是 [WordPress 夫妇](https://WPCouple.com)** ！
 
@@ -114,7 +114,7 @@
 
 如果你希望我们继续生产专业的自由和开源软件(FOSS)。考虑为我一小时的开发时间付费。我们将花两个小时在每个贡献的开源上。是的，没错，你付了一个小时的钱，然后让我们俩花一个小时作为感谢。
 
-[![Thanks](../Images/9ff3684760170139edd7f563b1ddf266.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IlF-Ye0t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://on.ahmda.ws/orkW/c)
+[![Thanks](img/9ff3684760170139edd7f563b1ddf266.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IlF-Ye0t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://on.ahmda.ws/orkW/c)
 
 ## 执照&归属
 

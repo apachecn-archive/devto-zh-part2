@@ -8,7 +8,7 @@
 
 例如:
 
-[![A tweet I literally just send out from the docker container](../Images/2afa493ae6d611126670478720f241bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n2f_aW8c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.rmhogervorst.nl/post/2018-11-19-tweeting-wikidata-info_files/Screenshot%2520from%25202018-11-19%252021-32-11.png)
+[![A tweet I literally just send out from the docker container](img/2afa493ae6d611126670478720f241bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n2f_aW8c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.rmhogervorst.nl/post/2018-11-19-tweeting-wikidata-info_files/Screenshot%2520from%25202018-11-19%252021-32-11.png)
 
 我刚刚从 docker 容器中发出的推文
 
@@ -117,7 +117,7 @@ rtweet::post_tweet(status = tweettext, token = token )
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Again the same tweet](../Images/2afa493ae6d611126670478720f241bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n2f_aW8c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.rmhogervorst.nl/post/2018-11-19-tweeting-wikidata-info_files/Screenshot%2520from%25202018-11-19%252021-32-11.png)
+[![Again the same tweet](img/2afa493ae6d611126670478720f241bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n2f_aW8c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.rmhogervorst.nl/post/2018-11-19-tweeting-wikidata-info_files/Screenshot%2520from%25202018-11-19%252021-32-11.png)
 
 同样的推文
 

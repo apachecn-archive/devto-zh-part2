@@ -4,7 +4,7 @@
 
 #### 管道实现了操作的清晰链接，但是它们还没有完全准备好
 
-[![](../Images/91f645ccb5e1d7e4a5a3ac1ed2db36b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FBEz3TcN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2APetXOaNd__kR0_KEbHuXgA.jpeg)
+[![](img/91f645ccb5e1d7e4a5a3ac1ed2db36b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FBEz3TcN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2APetXOaNd__kR0_KEbHuXgA.jpeg)
 
 使用管道来运输水、空气、气体或任何其他流体物质，已经使我们认为理所当然的许多事情成为可能。管道允许我们把水输送到家里，这样我们就可以使用像水槽和浴缸这样的东西。我们的烤箱和加热系统依靠管道输送气体。如果你仔细想想，即使是用杯子喝水的吸管也是一根小管子！
 
@@ -39,7 +39,7 @@ toLower(prepend("🚧 ", trim(" pipelines! 🚧 . ")))
 
  *像这样使用管道也鼓励我们创建许多小的、孤立的函数，每个函数只做一件事。稍后，当我们需要做更复杂的事情时，我们可以将所有的原子函数以一种清晰可读的格式缝合在一起！这有助于测试我们的应用程序逻辑(我们没有一个*大规模的*函数来做*所有的事情*)以及稍后重用逻辑。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### 是什么支撑着管道？
 
@@ -155,7 +155,7 @@ prepend(
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

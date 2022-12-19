@@ -14,7 +14,7 @@
 
 UnMarkDocs 是一个 SaaS 解决方案，它允许你从 GitHub 托管的文档中创建漂亮的页面。它使用了 [UnMarkDocs 风格的降价](http://spec.unmarkdocs.co)，这是一种降价风格，提供了嵌入或提醒等扩展。我的灵感来自于像[Laravel Documentation](https://laravel.com/docs)或[Spatie’s Documentation](https://docs.spatie.be)这样的网站，它们从 GitHub 仓库中呈现它们的内容。
 
-<figure>[![](../Images/126affb09d2232af56c33e4d6145005c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iEuD2KUc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/762/1%2Ago6QC6rau8zR0b1GxWa87w.png) 
+<figure>[![](img/126affb09d2232af56c33e4d6145005c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iEuD2KUc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/762/1%2Ago6QC6rau8zR0b1GxWa87w.png) 
 
 <figcaption>UnMarkDocs 演示。[见直播](https://landing-demo.unmarkdocs.co)</figcaption>
 
@@ -32,7 +32,7 @@ UnMarkDocs 是一个 SaaS 解决方案，它允许你从 GitHub 托管的文档�
 
 还有，这是我搭建的第一个真正吸引人的项目。到目前为止，我的大多数项目只被一小部分用户使用，我直接和他们分享链接，但是对于 UnMarkDocs，情况就不同了。事实上，我们仍处于私人测试阶段，拥有的用户比我的任何其他项目都多！
 
-<figure>[![](../Images/c24bd86354084cfd73683a76b27ab0a8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Nl0tT_vs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/506/1%2AQPIYFzKbpS7kd56GmOlKXA.png) 
+<figure>[![](img/c24bd86354084cfd73683a76b27ab0a8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Nl0tT_vs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/506/1%2AQPIYFzKbpS7kd56GmOlKXA.png) 
 
 <figcaption>谷歌分析。对我来说，甚至在推出</figcaption>
 
@@ -50,13 +50,13 @@ UnMarkDocs 是一个 SaaS 解决方案，它允许你从 GitHub 托管的文档�
 
 我从一个名为[从你自己的项目中谋生](http://www.fullstackradio.com/73)的[全栈电台](https://fullstackradio.com)节目中得到这个想法，在那里[贾斯廷·杰克逊](http://twitter.com/mijustin)谈到如何简单地要求人们分享你的项目总是会带来令人敬畏的结果，所以我决定尝试一下，并发布了以下消息:
 
-> ![Miguel Piedrafita🐘 profile image](../Images/7b627ca48efb49891e6e8badf73259d8.png)米盖尔🐘[@ m1 guelpf](https://dev.to/m1guelpf)![twitter logo](../Images/ad0c7b03deabfe1a161345efb2d537eb.png)我正在做一个很酷的项目，让你的文档变得很棒。你介意和你的朋友分享吗？
+> ![Miguel Piedrafita🐘 profile image](img/7b627ca48efb49891e6e8badf73259d8.png)米盖尔🐘[@ m1 guelpf](https://dev.to/m1guelpf)![twitter logo](img/ad0c7b03deabfe1a161345efb2d537eb.png)我正在做一个很酷的项目，让你的文档变得很棒。你介意和你的朋友分享吗？
 > 谢谢！
-> [unmarkdocs.co](https://t.co/hyIvLZo0ci)2017 年 10 月 12 日下午 19:24[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=918558124482711553)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=918558124482711553)32[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=918558124482711553)56
+> [unmarkdocs.co](https://t.co/hyIvLZo0ci)2017 年 10 月 12 日下午 19:24[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=918558124482711553)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=918558124482711553)32[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=918558124482711553)56
 
 我想你已经可以看到结果了，但如果你还不相信，下面是这条推特背后的衡量标准:
 
-<figure>[![](../Images/34123abc713fe82085ca4646cb7b33e0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1n_rePM4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/404/1%2AHWEm9UkTI2k3o45lrC3ocQ.png) 
+<figure>[![](img/34123abc713fe82085ca4646cb7b33e0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1n_rePM4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/404/1%2AHWEm9UkTI2k3o45lrC3ocQ.png) 
 
 <figcaption>推文度量。印象深刻吧。</figcaption>
 
@@ -66,7 +66,7 @@ UnMarkDocs 是一个 SaaS 解决方案，它允许你从 GitHub 托管的文档�
 
 我原以为发布到 Betalist 会让很多用户出现在早期访问列表上，但是效果并不像预期的那样。我认为这是由于糟糕的时机(这家初创公司晚了一个月才被报道)和糟糕的落地文案。在更改了登录页面中的一些文本后，我们开始收到电子邮件，但为时已晚。
 
-<figure>[![](../Images/2da80da5a096be51dcf91f42a5c2c3c7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oKCmXqyK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/688/1%2AyOxN2wm4IbWHBL7ooBmhYA.png) 
+<figure>[![](img/2da80da5a096be51dcf91f42a5c2c3c7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oKCmXqyK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/688/1%2AyOxN2wm4IbWHBL7ooBmhYA.png) 
 
 <figcaption>谷歌分析。只有 9.66%的网站流量来自 BetaList</figcaption>
 
@@ -86,11 +86,11 @@ UnMarkDocs 是一个 SaaS 解决方案，它允许你从 GitHub 托管的文档�
 
 我想到的第一个名字是亚当·瓦森，但还有很多其他人，比如史蒂夫·舒格、贾斯廷·杰克逊或泰勒·奥特威尔。事实上，我不久前在推特上发的一篇文章可能更好地说明了这一点:
 
-> ![Miguel Piedrafita🐘 profile image](../Images/7b627ca48efb49891e6e8badf73259d8.png)米盖尔🐘[@ m1 guelpf](https://dev.to/m1guelpf)![twitter logo](../Images/ad0c7b03deabfe1a161345efb2d537eb.png)我长大后想成为的人:
+> ![Miguel Piedrafita🐘 profile image](img/7b627ca48efb49891e6e8badf73259d8.png)米盖尔🐘[@ m1 guelpf](https://dev.to/m1guelpf)![twitter logo](img/ad0c7b03deabfe1a161345efb2d537eb.png)我长大后想成为的人:
 > -[@ taylorotwell](https://twitter.com/taylorotwell)
 > -[@ adamwathan](https://twitter.com/adamwathan)
 > -[，@ steveschoger](https://twitter.com/steveschoger)
 > -[@ freekmurze](https://twitter.com/freekmurze)
-> -[@ stauffermatt](https://twitter.com/stauffermatt)20:48PM-2018 年 2 月 23 日[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=967139185365839872)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=967139185365839872)9[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=967139185365839872)48
+> -[@ stauffermatt](https://twitter.com/stauffermatt)20:48PM-2018 年 2 月 23 日[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=967139185365839872)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=967139185365839872)9[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=967139185365839872)48
 
 我还想在 [CoderYouth](https://coderyouth.club) 向所有的开发者大声疾呼，这是一个我为青少年创办的编码社区，在这里我学到了无数的东西。特别感谢 [mrjvs](https://discordapp.com/users/135081860790222848) ，感谢他审查我的低劣设计并提供反馈，感谢 [Jonathan](https://github.com/RedDuckss) ，感谢他的一般性编码建议并报告了一些 UnMarkDocs bugs。

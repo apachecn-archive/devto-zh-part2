@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/enguerran/what-is-it-like-to-be-a-developer-55i0>
 
-[![](../Images/7412bc0fc032c53af945ab4000c6a2bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FJ1G3fBF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bpo1qyspk049qpjnp4yd.jpg)
+[![](img/7412bc0fc032c53af945ab4000c6a2bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FJ1G3fBF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bpo1qyspk049qpjnp4yd.jpg)
 
 新手或高级开发者提出的做什么、学什么或用什么的问题，往往是带着单数人的主观性来回答的。这个人可能是研究分布式神经网络的计算机科学博士，或者是自学的 JavaScript 开发人员。不难理解，如果不帮助初学者寻求建议，他们的答案会非常不同。
 

@@ -4,7 +4,7 @@
 
 几周前，Progress 在波士顿举办了一场面向开发者的活动，他们关注传统 JavaScript 生态系统之外的领域。
 
-[![jsmobileconf crowd](../Images/e8068dd8cb5250901514771a7df25ca8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bEzgRNCa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/rdlauer/articles/raw/master/misc/jsmobileconf-recap/crowd.jpg)
+[![jsmobileconf crowd](img/e8068dd8cb5250901514771a7df25ca8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bEzgRNCa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/rdlauer/articles/raw/master/misc/jsmobileconf-recap/crowd.jpg)
 
 200 多名与会者聚集在波士顿市中心的雅乐轩酒店，参加各种各样的演讲，几乎涵盖了受 JavaScript 影响的所有技术。最初是一个纯移动会议(因此得名！)，jsMobileConf 被它的演讲者塑造成了一个前沿 JavaScript 演讲的主持人。从区块链到虚拟现实到机器学习到人工智能到移动应用到物联网，我们涵盖了一系列令人兴奋的新机会。
 
@@ -40,7 +40,7 @@
 
 甚至是塞巴斯蒂安·维特亚历克，他被发现分发签名！
 
-[![sebastian giving out autographs](../Images/5515c2150eb5a2dd422c01b560a0c3c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s4llEuIP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/rdlauer/articles/raw/master/misc/jsmobileconf-recap/autographs.jpg)
+[![sebastian giving out autographs](img/5515c2150eb5a2dd422c01b560a0c3c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s4llEuIP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/rdlauer/articles/raw/master/misc/jsmobileconf-recap/autographs.jpg)
 
 ## ICYMI
 

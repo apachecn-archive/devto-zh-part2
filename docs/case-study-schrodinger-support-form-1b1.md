@@ -12,7 +12,7 @@
 
 这个客户为科学家创建专有的建模软件，我们建立的网站包括一个支持表单，客户可以使用它来报告软件的问题。支持表单为他们的技术支持科学家创建吉拉票证，并且只对登录用户可用。登录后，用户必须填写姓名、电子邮件、职位和描述字段。他们可以选择添加和上传文件。
 
-[![Client support form](../Images/a0492911e5541632f8cfd60752d38286.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SY9p3lCr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/djaedddy94bcwjfb4rfq.png)
+[![Client support form](img/a0492911e5541632f8cfd60752d38286.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SY9p3lCr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/djaedddy94bcwjfb4rfq.png)
 
 支持表单经历了几次迭代，以改进功能、用户体验和性能。在最初的实现中，提交带有附件的支持表单会立即完整地上传所有文件。这意味着表单一次上传多达 52GB 的文件。在后来的迭代中，我们将 Cloudfront 放在适当的位置来帮助文件存储。结果，一些文件提交开始失败——Cloudfront 有一个 30 秒的自动超时，多个或更大的文件上传需要更长的时间。为了应对这些失败，我们决定“分块”附件。当提交表单时，一张吉拉的机票立即被创建。上传的文件要么附加到票证，要么由 Cron 作业捕获，该作业上传部分文件，直到所有文件附件都完成。这种“分块”上传方法，而不是一次性上传，避免了 Cloudfront 超时。
 
@@ -54,11 +54,11 @@
 *   在第一轮之后、提交表格之前上传附加文件
 *   使用电子邮件表单向现有吉拉票证添加注释和附加文件
 
-[![test plan](../Images/756301ac71b3e4b86527b2a615493a58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3lVzNLkC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y5fyrhft2dsq6v40zvc5.png)
+[![test plan](img/756301ac71b3e4b86527b2a615493a58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3lVzNLkC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y5fyrhft2dsq6v40zvc5.png)
 
 对于每一个测试用例，我都详细列出了至少两个具有不同参数的测试示例，包括边缘、边界和拐角情况。为了尽可能地模拟生产环境，我在我们的登台环境上运行了所有测试，因为这是唯一一个用 Cloudfront 设置的环境。该环境还与一个测试吉拉帐户集成在一起。
 
-[![detail of a test case](../Images/4e1f46cd901e55156ea6ace5ddfeb50b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---b816AK8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8v64xkg8pajg2qky8ohe.png)
+[![detail of a test case](img/4e1f46cd901e55156ea6ace5ddfeb50b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---b816AK8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8v64xkg8pajg2qky8ohe.png)
 
 ## 文档化
 

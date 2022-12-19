@@ -8,11 +8,11 @@
 
 这里有一个快速提示，提醒我们的目标是什么。
 
-[![](../Images/034a7be904917b44c22c2af6cea1e28e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EO-UCXiY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-2/2018-05-23-20-57-22.png)
+[![](img/034a7be904917b44c22c2af6cea1e28e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EO-UCXiY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-2/2018-05-23-20-57-22.png)
 
 我们已经走了这么远。
 
-[![](../Images/9ea4cdc5051952b74f80611548897c90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t8NUHXDm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-2/2018-05-23-20-57-37.png)
+[![](img/9ea4cdc5051952b74f80611548897c90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t8NUHXDm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-2/2018-05-23-20-57-37.png)
 
 在我们继续之前，如果你想看看这个系列的源代码，请点击这里:-)
 
@@ -20,7 +20,7 @@
 
 ## 组件一路向下
 
-[![](../Images/9162021966783527e70283adf1e83074.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q8CnAQ8V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-2/2018-05-23-20-50-10.png)
+[![](img/9162021966783527e70283adf1e83074.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q8CnAQ8V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-2/2018-05-23-20-50-10.png)
 
 React 的支柱之一是**一切都是组件**。
 
@@ -38,7 +38,7 @@ React 的支柱之一是**一切都是组件**。
 
 考虑到这一点，我们开始构建一个简单的组件来显示每个用户的详细信息(作为 My Users 列表中的行)。
 
-[![](../Images/cc2039a0709517b7b7d8a810a4cf1fb5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IZ7eswGO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-2/2018-05-23-21-09-18.png)
+[![](img/cc2039a0709517b7b7d8a810a4cf1fb5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IZ7eswGO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-2/2018-05-23-21-09-18.png)
 
 这是我们最后得到的结果。
 
@@ -123,7 +123,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 检查我们的进展给了我们这个...
 
-[![](../Images/c2b160ce7bedb7e3a816dbe31db77d96.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_s82wmIT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-2/2018-05-29-21-43-54.png)
+[![](img/c2b160ce7bedb7e3a816dbe31db77d96.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_s82wmIT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-2/2018-05-29-21-43-54.png)
 
 到目前为止一切顺利，但是如何从实际数据中驱动这一行呢？(不仅仅是标记中的硬编码值)。
 
@@ -252,7 +252,7 @@ private getUserData() {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/e86ee9d47b90c7e478e937b40091798a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5sWp9W9k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-2/2018-05-29-22-18-35.png)
+[![](img/e86ee9d47b90c7e478e937b40091798a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5sWp9W9k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-2/2018-05-29-22-18-35.png)
 
 ## 总结
 

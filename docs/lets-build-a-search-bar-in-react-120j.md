@@ -62,7 +62,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Add packages to our project](../Images/27279fbf86e4df1936bbe887672dad56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gva6JXca--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d7j7e1fshxeaaxe1j9qo.jpeg)
+[![Add packages to our project](img/27279fbf86e4df1936bbe887672dad56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gva6JXca--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d7j7e1fshxeaaxe1j9qo.jpeg)
 
 ### 向我们的项目添加包
 
@@ -297,7 +297,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们可以在浏览器中使用`yarn start`或`npm run start`并转到`localhost:1234`来测试我们的应用程序。我们的应用程序现在允许我们在列表中添加一个项目！相当酷！
 
-[![Add a delete button](../Images/f60760d7b122a164050ff9e3fff90656.png)T2】](https://i.giphy.com/media/vohOR29F78sGk/giphy.gif)
+[![Add a delete button](img/f60760d7b122a164050ff9e3fff90656.png)T2】](https://i.giphy.com/media/vohOR29F78sGk/giphy.gif)
 
 ### 添加删除按钮
 
@@ -482,7 +482,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，如果我们改变我们的列表使用的`.map()`函数来映射到`filtered`列表，而不是通过 props 传递的`items`列表，我们应该在前端看到同样的事情。
 
-[![Whoop-dee-doo](../Images/cf73deb45ae16fc512a25b4108feda0f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Nw4lAD6a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0abd7b24a1f28196cbde3c081aae20dd/tenor.gif)
+[![Whoop-dee-doo](img/cf73deb45ae16fc512a25b4108feda0f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Nw4lAD6a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.cimg/0abd7b24a1f28196cbde3c081aae20dd/tenor.gif)
 
 有什么大不了的？重要的是，现在我们有了一个列表，我们可以在不改变原始列表的情况下操作它。我们所要做的就是修改我们的`filter`状态，显示的项目也会反映出来，但是我们这样做并没有丢失原来的列表。
 
@@ -507,7 +507,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们有一个好看的搜索栏，但是它除了看起来很漂亮之外，并没有真正做什么。也许这已经足够好了，但是我认为生活不仅仅是长得非常非常非常好看。让我们加上“大脑”。
 
-[![Really Really Ridiculously Good Looking](../Images/45fed45085472a4809b9e4cb5d4bcc1c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P5z9rUFq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/acfdeea24b2907dc5aab376551b69b22/tenor.gif%3Fitemid%3D3547407)
+[![Really Really Ridiculously Good Looking](img/45fed45085472a4809b9e4cb5d4bcc1c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P5z9rUFq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.cimg/acfdeea24b2907dc5aab376551b69b22/tenor.gif%3Fitemid%3D3547407)
 
 首先，我们将在生命周期方法之后添加一个名为`handleChange`的方法。我们将把`e`作为代表事件的参数传入。在方法内部，我们将创建两个变量，它们将保存作为 props 传入的原始任务列表，以及传递到 state 之前的过滤列表。
 

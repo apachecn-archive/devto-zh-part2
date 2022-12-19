@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/girlknowstech/why-working-longer-than-others-is-a-good-quality-4n22>
 
-[![](../Images/7f7228bec4665d700ac0a97c3172c273.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mTVKb62Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/girlknowstech.com/wp-content/uploads/2018/03/working-longer-than-others-good-quality.png%3Fresize%3D481%252C722%26ssl%3D1)
+[![](img/7f7228bec4665d700ac0a97c3172c273.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mTVKb62Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/girlknowstech.com/wp-content/uploads/2018/03/working-longer-than-others-good-quality.png%3Fresize%3D481%252C722%26ssl%3D1)
 
 这个星期，我花了 5 个小时写了一段代码。我的队友在 30 分钟内做了类似的工作。幸运的是，今天它并没有真正影响到我。但我记得有一段时间，当我的朋友眨眨眼就完成一项任务时，我会因为花了这么多时间而感到非常痛苦。
 
@@ -32,7 +32,7 @@
 
 我们都在发展成功的方法:是否每周去找我们的老师，是否不断给他们发电子邮件，是否在课堂上举手，任何我们想要的，我们会不惜任何代价成功的事情！这也是许多雇主所追求的品质。
 
-[![youtube-channels-study-tips](../Images/66ace47491a6be0b2377fb6935f807f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uaHYxXIm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/girlknowstech.com/wp-content/uploads/2018/01/youtube-channels-study-tips.png%3Fresize%3D1170%252C656%26ssl%3D1)
+[![youtube-channels-study-tips](img/66ace47491a6be0b2377fb6935f807f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uaHYxXIm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/girlknowstech.com/wp-content/uploads/2018/01/youtube-channels-study-tips.png%3Fresize%3D1170%252C656%26ssl%3D1)
 
 ### 2。你会努力工作的
 
@@ -50,7 +50,7 @@
 
 然而，**你**有能力完成剩下的工作，你不害怕！是的，努力/结果的比例对你来说不是很好，但至少你有一直付出 100%的优点。
 
-[![](../Images/cd25a7f16b3c621a5cb5866a263d82c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8-pGWn2---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/girlknowstech.com/wp-content/uploads/2018/03/girl-knows-tech-studying.jpg%3Fresize%3D1170%252C658%26ssl%3D1)
+[![](img/cd25a7f16b3c621a5cb5866a263d82c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8-pGWn2---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/girlknowstech.com/wp-content/uploads/2018/03/girl-knows-tech-studying.jpg%3Fresize%3D1170%252C658%26ssl%3D1)
 
 ## 也许你今天的成绩看不到你工作的结果，但是…
 

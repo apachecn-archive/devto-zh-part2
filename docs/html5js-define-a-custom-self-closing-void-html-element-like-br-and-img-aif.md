@@ -38,6 +38,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Failed](../Images/7e9213bb5ae5f76e27360f2c4822a35b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3y1eJBo4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g2s39b87vhg09zc77ljm.png)
+[![Failed](img/7e9213bb5ae5f76e27360f2c4822a35b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3y1eJBo4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g2s39b87vhg09zc77ljm.png)
 
 # 思想？

@@ -61,7 +61,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 总结我对函数的提示...
 
-[![an infographic of the function rules](../Images/4a2e9b5010bc85bfb16474929167c3cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PJAp4TtW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8n7vhis0wmdjqr4fsayn.jpg)
+[![an infographic of the function rules](img/4a2e9b5010bc85bfb16474929167c3cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PJAp4TtW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8n7vhis0wmdjqr4fsayn.jpg)
 
 ## 3。证明文件
 
@@ -114,7 +114,7 @@ Sandi Metz——一位出色的 Ruby 开发人员、演讲者和作者——有�
 
 ### 总结桑迪梅茨规则...
 
-[![an infographic of the Sandi Metz rules](../Images/4bb096a81ae01231be0f083b64e674e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YRRcUTJ1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ze3xrjqe0wpk6tgwzjlr.jpg)
+[![an infographic of the Sandi Metz rules](img/4bb096a81ae01231be0f083b64e674e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YRRcUTJ1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ze3xrjqe0wpk6tgwzjlr.jpg)
 
 ## 5。保持一致
 

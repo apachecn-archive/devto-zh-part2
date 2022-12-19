@@ -55,7 +55,7 @@ function logger(req,res,next){
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![middle component](../Images/6078c66443edc2713a1b6d2aa8397002.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IQmv2f2d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vs9wjgjvrq9drwnn94kk.png)
+[![middle component](img/6078c66443edc2713a1b6d2aa8397002.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IQmv2f2d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vs9wjgjvrq9drwnn94kk.png)
 
 ### 就为了使用一个差不多 1231 分钟的描述方式绘制一个适合我使用的网站
 

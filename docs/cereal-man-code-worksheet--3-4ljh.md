@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kauresss/cereal-man-code-worksheet--3-4ljh>
 
-[![](../Images/775a67b88c0dc29ed3c15ce24fc1ce2d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1jIVSVES--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qtvkpvoc9rftcylqjtx8.png)
+[![](img/775a67b88c0dc29ed3c15ce24fc1ce2d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1jIVSVES--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qtvkpvoc9rftcylqjtx8.png)
 
 这是一系列代码工作表中的第三张:“只要它们有效，我就会得到结果”。
 

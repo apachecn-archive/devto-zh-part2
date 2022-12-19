@@ -315,5 +315,5 @@ OBJ:微软
 *   亚马逊 AWS:[https://aws.amazon.com](https://aws.amazon.com)
 *   Apache OpenNLP:[https://opennlp.apache.org](https://opennlp.apache.org)
 
-[![Dmitry Tsyganov, senior software engineer at Devexperts](../Images/d291d0276084205e427496a3461e7656.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kjQ2Qe1M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.devexperts.com/wp-content/uploads/2018/05/Tsyganov-282x300.jpg)
+[![Dmitry Tsyganov, senior software engineer at Devexperts](img/d291d0276084205e427496a3461e7656.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kjQ2Qe1M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.devexperts.com/wp-content/uploads/2018/05/Tsyganov-282x300.jpg)
 *Devexperts*的高级软件工程师 Dmitry Tsyganov

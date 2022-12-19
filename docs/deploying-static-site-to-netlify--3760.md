@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/mezie/deploying-static-site-to-netlify--3760>
 
-[![](../Images/f9dfa50868bb850896d86d641527e38f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0xVOjwZt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/okotjt36infmmq4cgcir.png)
+[![](img/f9dfa50868bb850896d86d641527e38f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0xVOjwZt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/okotjt36infmmq4cgcir.png)
 
 在本教程中，我们将看看如何将我们用 Nuxt.js 构建的静态博客 Contentful 部署到 Netlify:
 

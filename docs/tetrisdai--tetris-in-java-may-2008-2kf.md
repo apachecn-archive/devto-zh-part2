@@ -4,7 +4,7 @@
 
 “TetrisDAI”是用 NetBeans 用 Java 1.6(又名 Java SE 6)编写的开源俄罗斯方块克隆(高度模块化)。
 
-[![Screenshot](../Images/88d54c74099fcce39ef8de4e5e6536f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5_c-UQ4B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.dhtmlgames.com/tetrisdai/tetrisdai.jpg)
+[![Screenshot](img/88d54c74099fcce39ef8de4e5e6536f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5_c-UQ4B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.dhtmlgames.com/tetrisdai/tetrisdai.jpg)
 
 这是我的第一个 Java 游戏，制作于 2008 年中期。
 

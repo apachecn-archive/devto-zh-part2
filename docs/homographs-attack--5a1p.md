@@ -10,11 +10,11 @@
 
 当我看票的时候，有一张引起了我的注意。这不是一个特别高风险的漏洞，但我不理解票中的许多单词，所以我当然感兴趣。黑客担心 Kickstarter 的个人资料页面。(我们经常会收到关于我们个人资料和项目页面的报告。)
 
-[![Example of Kickstarter's Profile Page](../Images/a2285b63064cb0faa3790d661ae8d271.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--URpsHPUS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgur.com/Yr3KizX.png)
+[![Example of Kickstarter's Profile Page](img/a2285b63064cb0faa3790d661ae8d271.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--URpsHPUS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgur.com/Yr3KizX.png)
 
 个人资料页面通常会给网站带来漏洞。无论何时，当你在你的网站上“招待”某人时，你都要考虑他们会如何滥用你给他们的合法性。我们的黑客特别关注一个允许我们的用户在他们的个人资料中添加用户网址或“网站”的领域。
 
-[![Example of Kickstarter's Profile Page Websites](../Images/90fc07f04c8c6e00743d1f9f2ea219cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D43etkIM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgur.com/6EpiaXz.png)
+[![Example of Kickstarter's Profile Page Websites](img/90fc07f04c8c6e00743d1f9f2ea219cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D43etkIM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgur.com/6EpiaXz.png)
 
 他们认为这部分可以用于同形异义词攻击。对此我想，到底什么是同性恋攻击？这个问题让我陷入了一个国际互联网监管的兔子洞，一把把 RFC，以及一场关于互联网全球性质的长达几十年的辩论。
 
@@ -58,7 +58,7 @@ ICANN 试图回答这个问题，他们在 90 年代末提出并实施了 IDN T1
 
 来自 homoglyphs.net 的 lookalikes 示例:
 
-[![Homoglyphs.net Image of Example Homoglyphs](../Images/c630e4b4dfe9e84b51eed19b9a5bf172.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vT1YxCvG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgur.com/lpDpgMO.png)
+[![Homoglyphs.net Image of Example Homoglyphs](img/c630e4b4dfe9e84b51eed19b9a5bf172.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vT1YxCvG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgur.com/lpDpgMO.png)
 
 让我们看一个域名的例子。
 
@@ -88,7 +88,7 @@ ICANN 试图回答这个问题，他们在 90 年代末提出并实施了 IDN T1
 
 ## 概念证明
 
-[![Gif of POC](../Images/693d9421303c75193ca7b440bb885722.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EthjMyVI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://imgur.com/W5Q1D2N.gif)
+[![Gif of POC](img/693d9421303c75193ca7b440bb885722.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EthjMyVI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://imgur.com/W5Q1D2N.gif)
 
 嗯，当我和我的朋友 [@frewsxcv](https://github.com/frewsxcv) 谈论同形异义词攻击时，他有了一个好主意，可以编写一个脚本来查找易受攻击的 URL。所以我做了一个[同形攻击探测器](https://github.com/loganmeetsworld/homographs-talk/tree/master/ha-finder)说明:
 
@@ -107,11 +107,11 @@ ICANN 试图回答这个问题，他们在 90 年代末提出并实施了 IDN T1
 
 火狐浏览器:
 
-[![Firefox IDN display algo](../Images/800d65b9ff3b2c71473038c462461617.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wxgkOd15--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgur.com/6Nvi8tq.png)
+[![Firefox IDN display algo](img/800d65b9ff3b2c71473038c462461617.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wxgkOd15--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgur.com/6Nvi8tq.png)
 
 铬合金:
 
-[![Chrome IDN display algo](../Images/592d0df47671f3fa3b988236ed5e44eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JwtKvCOZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgur.com/lHf0IaI.png)
+[![Chrome IDN display algo](img/592d0df47671f3fa3b988236ed5e44eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JwtKvCOZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgur.com/lHf0IaI.png)
 
 相当酷！在 Firefox 中，地址栏看起来完全像官方的 PayPal！然而，在 Chrome 中，它解析为 punycode。这是为什么呢？🤔
 

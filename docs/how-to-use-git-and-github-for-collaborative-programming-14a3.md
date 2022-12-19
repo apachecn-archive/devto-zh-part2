@@ -31,19 +31,19 @@
 
 有什么比一群程序员在一个地方牛逼！💙
 
-[![Photo of people at work fist bumping](../Images/877500866a03508509cea1dbd3896b4c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X322DpS7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cdkqkboprlm29adqcs4w.jpg)
+[![Photo of people at work fist bumping](img/877500866a03508509cea1dbd3896b4c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X322DpS7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cdkqkboprlm29adqcs4w.jpg)
 
 让我们从创建一个组织开始。
 
 进入 [GitHub](https://github.com/) 或者[主页点击这里](https://github.com/)可以看到以下画面。
 
-[![GitHub homescreen](../Images/1f5c59c5e798ff245e158f5ee66a90e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QZCvg08O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qn81ijxls98grv0eenov.png)
+[![GitHub homescreen](img/1f5c59c5e798ff245e158f5ee66a90e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QZCvg08O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qn81ijxls98grv0eenov.png)
 
 如果你不是黑客，你必须先登录才能看到上面的屏幕。😬
 
 在右上方，你有这个`+`图标，点击它将打开这个下拉窗口。
 
-[![Picture of the new organization option in the drop-down](../Images/33c2bd72117102fcca3f4fb77808aa86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H07op1V5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8v2h0dcu3w3epkr8yzkz.png)
+[![Picture of the new organization option in the drop-down](img/33c2bd72117102fcca3f4fb77808aa86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H07op1V5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8v2h0dcu3w3epkr8yzkz.png)
 
 你已经有想法了，不是吗？如果您还没有，您必须点击“**创建新组织**来创建一个新组织。😑
 
@@ -77,7 +77,7 @@ fork 只不过是存储库的副本。
 
 在贵单位项目的首页，可以看到一个名为“**叉**的按钮，在右上方，如下图所示。
 
-[![Picture of Fork option](../Images/64fd0d4fe7c4bda4ff3f871f2d49c8f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V29vKp93--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lxxikwcy3ol8srommnky.png)
+[![Picture of Fork option](img/64fd0d4fe7c4bda4ff3f871f2d49c8f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V29vKp93--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lxxikwcy3ol8srommnky.png)
 
 当您在组织中分叉刚刚创建的回购时，它会询问您要在哪个帐户下创建此分叉。点击你的帐户，你会看到你的用户名和你的个人资料图片。现在，您的帐户下有了贵组织回购的副本。被称为机构回购的分叉。
 
@@ -111,7 +111,7 @@ Pull request(也称为 PR)是对父回购协议提出代码更改的方法，甚
 
 现在在浏览器中打开您的 fork 存储库。您可以看到一个下拉菜单来更改项目，如下所示。
 
-[![Picture of list of branches drop-down](../Images/cd417065f40f6a2206858e64d7796326.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FO5nxkIU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g079upf40l2a4uy3b9ng.png)
+[![Picture of list of branches drop-down](img/cd417065f40f6a2206858e64d7796326.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FO5nxkIU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g079upf40l2a4uy3b9ng.png)
 
 现在通过在下拉菜单中选择`feature/first-proposal`转到您的新分支。
 
@@ -129,9 +129,9 @@ Pull request(也称为 PR)是对父回购协议提出代码更改的方法，甚
 
 点击如下所示的“ **Files changed** ”选项卡，将打开一个页面，显示您或您的队友更改的所有文件中的所有代码更改，以一些颜色代码显示。
 
-[![Picture of button of Files changed](../Images/a2924d8afc62a144bce9357f4a5c716b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KrhIMHTC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ao9ggrdegawxk7jzp77c.png)
+[![Picture of button of Files changed](img/a2924d8afc62a144bce9357f4a5c716b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KrhIMHTC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ao9ggrdegawxk7jzp77c.png)
 
-[![Picture of the differences of code changes with red and green color](../Images/35d21795a0511f0d039067f0c34f53d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ECRX-V6O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cbvs6z7ywgnxe82zmz7s.png)
+[![Picture of the differences of code changes with red and green color](img/35d21795a0511f0d039067f0c34f53d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ECRX-V6O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cbvs6z7ywgnxe82zmz7s.png)
 
 在上图中，显示为绿色的代码是已经添加到项目中的代码，显示为红色的代码是从项目中删除的。此外，你可以在每一行前看到`+`或`-`符号，这是不言自明的，与颜色代码的目的相同。
 
@@ -147,11 +147,11 @@ Pull request(也称为 PR)是对父回购协议提出代码更改的方法，甚
 
 一旦一切正常，审核者必须通过点击“**审核变更**”按钮批准拉动请求，并在选中“**批准**”单选按钮的情况下提交，如下所示。
 
-[![Picture of pull request approval option](../Images/482c915b9219a929b436d00973979228.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6TuCpCia--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ax0dplfn7psx9kzuvgo5.png)
+[![Picture of pull request approval option](img/482c915b9219a929b436d00973979228.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6TuCpCia--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ax0dplfn7psx9kzuvgo5.png)
 
 通过点击“**合并拉取请求**按钮并确认，将拉取请求与组织库的主分支合并，如下所示。
 
-[![Picture of merge pull request button](../Images/5a3305253fb076de6580be2474ace8c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gw2PSNFJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f9q2n7n5pcv4vbqzszoc.png)
+[![Picture of merge pull request button](img/5a3305253fb076de6580be2474ace8c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gw2PSNFJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f9q2n7n5pcv4vbqzszoc.png)
 
 除非进行了配置，否则拉式请求无需获得批准即可与组织回购合并。因此，您可以自己检查代码更改，并将其与主分支合并，而无需批准。但理想情况下，不建议这样做。
 
@@ -197,15 +197,15 @@ Pull request(也称为 PR)是对父回购协议提出代码更改的方法，甚
 
 您可以找到一个名为“**发布**的选项卡，如下所示。
 
-[![Picture of releases tab](../Images/51a57028fb10646e651d6f5b317adb91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lHgpgPHz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dth59za3j6y2t0r9ydsv.png)
+[![Picture of releases tab](img/51a57028fb10646e651d6f5b317adb91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lHgpgPHz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dth59za3j6y2t0r9ydsv.png)
 
 点击如下所示的“**标签**标签，查看到目前为止已经被推送到您的云存储库的标签列表。
 
-[![Picture of Tags tab](../Images/bc074460afd90c502b8254bb3768d11e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LbMYbf_6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/26zpy59j6gh88cbp6vzk.png)
+[![Picture of Tags tab](img/bc074460afd90c502b8254bb3768d11e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LbMYbf_6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/26zpy59j6gh88cbp6vzk.png)
 
 选择要命名为最新版本的标签。然后点击右上角的**编辑标签**按钮，如下图所示。
 
-[![Picture of option to edit tag](../Images/cc9d108c2ca00cd7e960ca314f514b51.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7y4O0bX3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9rni3yaqqgsjb5v7d91q.png)
+[![Picture of option to edit tag](img/cc9d108c2ca00cd7e960ca314f514b51.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7y4O0bX3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9rni3yaqqgsjb5v7d91q.png)
 
 现在它会要求你填写一些细节。别担心，这不是求职申请，它只有几个字段需要输入。😉
 
@@ -215,7 +215,7 @@ Pull request(也称为 PR)是对父回购协议提出代码更改的方法，甚
 
 现在，您可以在“**发布**”页面中看到顶部标记为“**最新发布**的标签的详细信息，如下所示。
 
-[![Picture of details of latest release](../Images/a9e36ac0942b7ba7699e6719c8fb29ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hGm-IK1d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lvynknm81z45pxpr9pzb.png)
+[![Picture of details of latest release](img/a9e36ac0942b7ba7699e6719c8fb29ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hGm-IK1d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lvynknm81z45pxpr9pzb.png)
 
 每次有新版本需要部署到云服务器时，您都可以遵循相同的步骤来推送新标签。
 

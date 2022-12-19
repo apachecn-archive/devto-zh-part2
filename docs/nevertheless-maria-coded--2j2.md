@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/maria_michou/nevertheless-maria-coded--2j2>
 
-[![alt code street](../Images/d4e88efc6e032c520f3eb5ed61ecf685.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CNxNK2kV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bvqe7s1b1ll6lfamewu9.png)
+[![alt code street](img/d4e88efc6e032c520f3eb5ed61ecf685.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CNxNK2kV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bvqe7s1b1ll6lfamewu9.png)
 
 这里没什么新东西:
 

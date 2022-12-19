@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/xeroxism/how-to-install-and-use-snap-applications-in-linux-1mn8>
 
-[![install_snap_banner_fossnaija](../Images/117ddbeb3d60bd766161f4856abd2161.png)T2】](https://i1.wp.com/fossnaija.com/wp-content/uploads/2018/09/install_snap_banner_fossnaija.png?ssl=1)
+[![install_snap_banner_fossnaija](img/117ddbeb3d60bd766161f4856abd2161.png)T2】](https://i1.wp.com/fossnaija.com/wp-content/uploads/2018/09/install_snap_banner_fossnaija.png?ssl=1)
 
 [Snaps 应用](https://dev.to/xeroxism/what-is-snap-the-raving-new-way-software-is-distributed-in-linux-1mho-temp-slug-1537777) (snaps)是使用 snap 软件包分发系统捆绑的应用；这是由 canonical(开发 ubuntu Linux 发行版的公司)开发的。它已经成为一些流行的桌面应用程序安装在 ubuntu 上的主要方式。许多其他 Linux 发行版现在也支持 snap 包。
 
@@ -64,7 +64,7 @@ snap find <app_name or description>
 
 该命令会搜索与“电子邮件”相关的所有快照。如果使用的命令没有任何描述或快照名称；返回了一些流行的快照:
 
-[![snap_find_command_result](../Images/c903a41af40f7692e19c93b5e385d7a6.png)T2】](https://i0.wp.com/fossnaija.com/wp-content/uploads/2018/09/snap_find_command_result.png?ssl=1)
+[![snap_find_command_result](img/c903a41af40f7692e19c93b5e385d7a6.png)T2】](https://i0.wp.com/fossnaija.com/wp-content/uploads/2018/09/snap_find_command_result.png?ssl=1)
 
 快照存储包含公共和私有快照。
 
@@ -80,7 +80,7 @@ snap install <package_name>
 
 要查看系统上安装的所有快照，请使用 snap list 命令。该命令还提供有关软件版本、修订号、开发人员的信息，以及快照附带的任何额外注释。
 
-[![snap_list_command](../Images/235c198c8e99400c23ebdd9f90ca6483.png)T2】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/09/snap_find_command_result-copy.png?ssl=1)
+[![snap_list_command](img/235c198c8e99400c23ebdd9f90ca6483.png)T2】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/09/snap_find_command_result-copy.png?ssl=1)
 
 # 删除快照
 

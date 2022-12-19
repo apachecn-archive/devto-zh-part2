@@ -29,7 +29,7 @@
 
 日志查看器打开一个屏幕，我们可以看到所有适用的观察器，并在它们发生变化时查看它们的更新。
 
-[![Results](../Images/50190e5de376aa7f4e8656a65dd8a173.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HW8n4KmG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://SeanKilleen.com/images/post-images/2018-08-21_vscode-logviewer-watches.png)
+[![Results](img/50190e5de376aa7f4e8656a65dd8a173.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HW8n4KmG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://SeanKilleen.cimg/post-images/2018-08-21_vscode-logviewer-watches.png)
 
 我喜欢定义模式，而不仅仅是文件路径，这样我就可以一次查看多个文件。
 

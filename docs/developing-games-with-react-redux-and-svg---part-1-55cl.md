@@ -6,4 +6,4 @@
 
 [读读🕹👾](https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-1/?utm_source=dev&utm_medium=sc&utm_campaign=react_game)
 
-[![Developing Games with React, Redux, and SVG - Part 1](../Images/01dc7fa6b4a2c5fce32b54c58fdb21ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h__ZbZXT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5clwf8munj4x58ztz4ki.png)
+[![Developing Games with React, Redux, and SVG - Part 1](img/01dc7fa6b4a2c5fce32b54c58fdb21ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h__ZbZXT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5clwf8munj4x58ztz4ki.png)

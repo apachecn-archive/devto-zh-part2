@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/vaibhavshah/can-blockchain-technology-really-transform-the-healthcare-industry-5gd8>
 
-[![blockchain technology in healthcare](../Images/5fd7f787ab54764afe2e03a6042c36e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oLazoeKN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k2gswxngndncdm2fo64w.jpg)
+[![blockchain technology in healthcare](img/5fd7f787ab54764afe2e03a6042c36e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oLazoeKN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k2gswxngndncdm2fo64w.jpg)
 
 区块链技术可能会在未来几年内对世界产生重大影响。“区块链”一词通常出现在比特币和以太坊等加密货币中，因为它是加密货币交易的底层技术。
 

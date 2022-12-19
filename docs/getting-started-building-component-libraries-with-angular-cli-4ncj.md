@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nieds/getting-started-building-component-libraries-with-angular-cli-4ncj>
 
-[![](../Images/49689e51e9fd4b860e47195812362ed7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--J4UkNc5G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AIQ9QA3Sy1kX7XdmZmFwlYg.jpeg) 
+[![](img/49689e51e9fd4b860e47195812362ed7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--J4UkNc5G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AIQ9QA3Sy1kX7XdmZmFwlYg.jpeg) 
 
 <figcaption>照片由[塞缪尔·泽勒](https://unsplash.com/photos/JuFcQxgCXwA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)于 [Unsplash](https://unsplash.com/search/photos/package?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 

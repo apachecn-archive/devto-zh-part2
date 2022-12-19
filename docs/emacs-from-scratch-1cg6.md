@@ -14,7 +14,7 @@ Spacemacs 是我使用的第一个 emacs 版本，所以我有点喜欢上了
 
 所以我创建了自己的 Emacs 配置，它比我想象的要简单得多。
 
-[![](../Images/8518790acf5305faf5bd0756567d122e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Sb970a_9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://huytd.github.io/img/custom-emacs.png)
+[![](img/8518790acf5305faf5bd0756567d122e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Sb970a_9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://huytd.github.io/img/custom-emacs.png)
 
 在这篇文章中，我将介绍我构建一个最小的类似 Spacemacs 的版本的步骤，包括一些基本的键绑定:
 

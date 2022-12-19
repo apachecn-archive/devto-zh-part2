@@ -4,7 +4,7 @@
 
 正如你可能已经看到的，我最近写了一个帖子，询问如何增加一个项目的总线因子。
 
-[![scottharrisondev image](../Images/4bbe52a8d9cc0c04ba4217533e87fd26.png)](/scottharrisondev) [## 如何增加你的公交系数？
+[![scottharrisondev image](img/4bbe52a8d9cc0c04ba4217533e87fd26.png)](/scottharrisondev) [## 如何增加你的公交系数？
 
 ### 斯科特哈里森 19 年 7 月 18 日 11 分钟阅读
 

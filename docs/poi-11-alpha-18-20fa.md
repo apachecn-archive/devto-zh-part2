@@ -23,7 +23,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 **请注意，我们所有的版本 11 包目前都发布在 npm 上的`@next`频道下。**
 
-[![2018-09-20 11 50 33](../Images/1366a6afb68d038704dc370539047112.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MIly7npm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/8784712/45830567-054fdd00-bd30-11e8-85ae-421ea424477a.png)
+[![2018-09-20 11 50 33](img/1366a6afb68d038704dc370539047112.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MIly7npm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/8784712/45830567-054fdd00-bd30-11e8-85ae-421ea424477a.png)
 
 如果您选择所有的默认值，上面的命令将在`my-app`文件夹中生成一个最小的项目:
 

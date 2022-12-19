@@ -8,7 +8,7 @@
 
 我要感谢 Chris Fidao，以及这条推文:
 
-[![🔥 Git is great, but not for what Linus probably intended. Despite its intentions, git(hub|lab|bucket) is actually used for: 1\. backup (and distribution) 2\. automation 3\. release management 4\. a hundred other things ..... xxx. version control https://t.co/GLUYkppSLs &mdash; Chris Fidao (@fideloper) https://twitter.com/fideloper/status/1020330385333530624 20 July 2018](../Images/4c6d2133221068e42a8e055c4f63a102.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uysmXzjp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codewithhugo.com/img/2018-07-30-chris-fidao-tweet-screenshot.jpg)
+[![🔥 Git is great, but not for what Linus probably intended. Despite its intentions, git(hub|lab|bucket) is actually used for: 1\. backup (and distribution) 2\. automation 3\. release management 4\. a hundred other things ..... xxx. version control https://t.co/GLUYkppSLs &mdash; Chris Fidao (@fideloper) https://twitter.com/fideloper/status/1020330385333530624 20 July 2018](img/4c6d2133221068e42a8e055c4f63a102.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uysmXzjp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codewithhugo.com/img/2018-07-30-chris-fidao-tweet-screenshot.jpg)
 
 我们将介绍如何使用 GitHub + CircleCI 实现部署自动化和发布管理。
 

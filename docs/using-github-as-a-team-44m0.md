@@ -6,7 +6,7 @@
 
 在我参与的各种 OSS 项目中，有一件事总是比我预期的花费更多的时间。**设定一个 Git(Hub)标准**,用于处理一个存储库(或者酷孩子所说的 repo)。下面是一些最佳实践，它们在我的成长过程中确实帮了我。
 
-[![O really](../Images/e4e9b049d161d2eeb91de81ab4b14b46.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DFGFZXmx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ws0bwu66es7n8kg0kefv.jpeg)
+[![O really](img/e4e9b049d161d2eeb91de81ab4b14b46.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DFGFZXmx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ws0bwu66es7n8kg0kefv.jpeg)
 
 ## 保护你的树枝
 

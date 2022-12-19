@@ -15,7 +15,7 @@
 
 我[指出](https://github.com/scottjehl/CSS-Download-Tests/issues/11#issue-378471829)这些下载的优先级是`Lowest`，所以它们至少不会与页面上的核心资源竞争:
 
-[![Waterfall diagram showing how stylesheets with non-matching media queries are downloaded at lowest priority](../Images/d85a67d1e0cc4bd16f57930344f826ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mF-cPePN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mqcf1iuqvc2giqdq1pyl.png)
+[![Waterfall diagram showing how stylesheets with non-matching media queries are downloaded at lowest priority](img/d85a67d1e0cc4bd16f57930344f826ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mF-cPePN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mqcf1iuqvc2giqdq1pyl.png)
 
 乍一看，这似乎不是最理想的，我认为即使优先级是`Lowest`，浏览器也不应该触发下载。所以我做了一些研究，令人惊讶的是，CSS 规范的作者和浏览器实现者在这一点上非常聪明:
 

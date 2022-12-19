@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/paigen11/postman-vs-insomnia-comparing-the-api-testing-tools-4819>
 
-【 [![Postman logo vs Insomnia logo](../Images/3b96c7e9cf1eeae2ec2e460abc72908e.png "Postman logo vs Insomnia logo")](https://res.cloudinary.com/practicaldev/image/fetch/s--pMMnhgE7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.paigeniedringhaus.com/static/770f43379aa9f6489b083dfd270ce5ec/1e043/postman-insomnia-hero.png)
+【 [![Postman logo vs Insomnia logo](img/3b96c7e9cf1eeae2ec2e460abc72908e.png "Postman logo vs Insomnia logo")](https://res.cloudinary.com/practicaldev/image/fetch/s--pMMnhgE7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.paigeniedringhaus.com/static/770f43379aa9f6489b083dfd270ce5ec/1e043/postman-insomnia-hero.png)
 
 ## 简介
 
@@ -22,7 +22,7 @@ API 端点测试是我们作为 web 开发人员所做的最重要的事情之�
 
 ## API 测试工具的好处
 
-【 [![API testing diagram](../Images/cfa0ab6e3c8a3e23875d019d73fa860e.png "API testing diagram")](https://res.cloudinary.com/practicaldev/image/fetch/s--PuTqmWAH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.paigeniedringhaus.com/static/2f3ae84ba338c24afce944b16f95e878/15ec7/api-testing.jpg)
+【 [![API testing diagram](img/cfa0ab6e3c8a3e23875d019d73fa860e.png "API testing diagram")](https://res.cloudinary.com/practicaldev/image/fetch/s--PuTqmWAH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.paigeniedringhaus.com/static/2f3ae84ba338c24afce944b16f95e878/15ec7/api-testing.jpg)
 
 正如上面简要提到的，这里是使用 API 测试工具的一些最大的好处。
 
@@ -67,7 +67,7 @@ API 端点测试是我们作为 web 开发人员所做的最重要的事情之�
 
 ### 邮递员有什么独特之处
 
-【 [![Postman logo](../Images/08f044d3a6183131c8695878d0e79e11.png "Postman logo")](https://res.cloudinary.com/practicaldev/image/fetch/s--vj0un0PP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.paigeniedringhaus.com/static/f772cab80d400a66f89329d56c1e55db/1e043/postman.png)
+【 [![Postman logo](img/08f044d3a6183131c8695878d0e79e11.png "Postman logo")](https://res.cloudinary.com/practicaldev/image/fetch/s--vj0un0PP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.paigeniedringhaus.com/static/f772cab80d400a66f89329d56c1e55db/1e043/postman.png)
 
 当你真正开始钻研它的文档时，Postman 似乎有一套更成熟的产品和功能。
 
@@ -83,7 +83,7 @@ API 端点测试是我们作为 web 开发人员所做的最重要的事情之�
 
 ### 失眠有什么独特之处
 
-【 [![Insomnia logo](../Images/39652cd05276c06037dda3cec1e45782.png "Insomnia logo")](https://res.cloudinary.com/practicaldev/image/fetch/s--BzrJELvt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.paigeniedringhaus.com/static/0f555dbbaa65f95b3df7ee67b8e0230b/0b533/insomnia.png)
+【 [![Insomnia logo](img/39652cd05276c06037dda3cec1e45782.png "Insomnia logo")](https://res.cloudinary.com/practicaldev/image/fetch/s--BzrJELvt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.paigeniedringhaus.com/static/0f555dbbaa65f95b3df7ee67b8e0230b/0b533/insomnia.png)
 
 失眠为自己辩护说，它提供了一些邮递员没有的很酷的东西。
 

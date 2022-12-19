@@ -400,4 +400,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 伙计们，现在就到这里吧！在本系列的下一章，我们将看到 ritley 如何设法将模型与控制器链接起来，处理异常和管理会话。
 
-[![ritley from metroid](../Images/6c96b2fa78b770f0acbb0e69af3afa58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mCwlMtvz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7q8l002pngb479ra00l3.jpeg)
+[![ritley from metroid](img/6c96b2fa78b770f0acbb0e69af3afa58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mCwlMtvz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7q8l002pngb479ra00l3.jpeg)

@@ -46,7 +46,7 @@ Vue 应用程序中的组件可以有自己的状态。例如，输入框将在�
 
 我使用的例子是 put CodeSandbox，这是一个很棒的服务，它有一个 Vue CLI 示例，可以在[https://codesandbox.io/s/vue](https://codesandbox.io/s/vue)使用。我推荐用它来玩一玩。
 
-[![CodeSandbox](../Images/4cf2f5f8edac58fe4ba5e292a3e6a42c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VnEoIrSY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://flaviocopes.com/vuex/codesandbox.png)
+[![CodeSandbox](img/4cf2f5f8edac58fe4ba5e292a3e6a42c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VnEoIrSY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://flaviocopes.com/vuex/codesandbox.png)
 
 一旦你在那里，点击**添加依赖关系**按钮，输入“vuex”并点击它。
 
@@ -75,7 +75,7 @@ export const store = new Vuex.Store({
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Vuex store](../Images/cbae4dbdc7d8fa2eed8944f501403100.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mh4Orf3I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://flaviocopes.com/vuex/vuex-store.png)
+[![Vuex store](img/cbae4dbdc7d8fa2eed8944f501403100.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mh4Orf3I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://flaviocopes.com/vuex/vuex-store.png)
 
 我们导出一个 Vuex store 对象，它是使用`Vuex.Store()` API 创建的。
 

@@ -14,7 +14,7 @@
 
 这尤其为套接字和其他资源上的 I/O 绑定任务提供了并发性。并发性确保用户不必等待 I/O 绑定的结果。
 
-[![Alt text of image](../Images/eb03012c273da77413d6437133c3867b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IwGqXidK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.com/images/rest_api_using_aiohttp.png)
+[![Alt text of image](img/eb03012c273da77413d6437133c3867b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IwGqXidK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.cimg/rest_api_using_aiohttp.png)
 
 在本文中，我们将使用 aiohttp 为我们的应用程序创建一个 rest API。这是一个简单的应用程序，有一个注释表。
 

@@ -4,7 +4,7 @@
 
 # 通过观察频谱学习架构和测试 GraphQL 服务器
 
-[![alan King](../Images/9fac27c99ed6ce2707ab296e8bc539e8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--taG948Tp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1501041158226-5842bd1f76ac%3Fixlib%3Drb-0.3.5%26s%3D13803e446342e7d1dd138ad63adc12f2%26dpr%3D1%26auto%3Dformat%26fit%3Dcrop%26w%3D1000%26q%3D80%26cs%3Dtinysrgb) 
+[![alan King](img/9fac27c99ed6ce2707ab296e8bc539e8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--taG948Tp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1501041158226-5842bd1f76ac%3Fixlib%3Drb-0.3.5%26s%3D13803e446342e7d1dd138ad63adc12f2%26dpr%3D1%26auto%3Dformat%26fit%3Dcrop%26w%3D1000%26q%3D80%26cs%3Dtinysrgb) 
 照片由艾伦·金在 Unsplash 上拍摄
 
 最近，我一直在寻找更好的方法来构建和测试 JavaScript 应用程序，尤其是那些使用 GraphQL 的应用程序。

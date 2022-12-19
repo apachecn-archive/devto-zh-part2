@@ -10,7 +10,7 @@
 
 这引发了一些评论:
 
-[![gmartigny profile image](../Images/d6950be6704cc10a3d126e1ae22ec12b.png) ](/gmartigny) [ Guillaume Martigny ](/gmartigny) • [<time datetime="2018-08-09T09:23:48Z" class="date-short-year"> Aug 9 '18 </time>](https://dev.to/gmartigny/comment/4i4f) 
+[![gmartigny profile image](img/d6950be6704cc10a3d126e1ae22ec12b.png) ](/gmartigny) [ Guillaume Martigny ](/gmartigny) • [<time datetime="2018-08-09T09:23:48Z" class="date-short-year"> Aug 9 '18 </time>](https://dev.to/gmartigny/comment/4i4f) 
 
 喔，你让每个人回忆起往事。
 
@@ -38,7 +38,7 @@
 
 我认为进一步的回购正在“积极”发展中，所以还没有进入坟墓~~和~~。回到那些老怪物身边很有趣。
 
-[![michaelzaporozhets profile image](../Images/577173c771f3b1758df4eedec0491ef3.png) ](/michaelzaporozhets) [ Michael Zaporozhets ](/michaelzaporozhets) • [<time datetime="2018-08-09T03:30:21Z" class="date-short-year"> Aug 9 '18 </time>](https://dev.to/michaelzaporozhets/comment/4hpk) 
+[![michaelzaporozhets profile image](img/577173c771f3b1758df4eedec0491ef3.png) ](/michaelzaporozhets) [ Michael Zaporozhets ](/michaelzaporozhets) • [<time datetime="2018-08-09T03:30:21Z" class="date-short-year"> Aug 9 '18 </time>](https://dev.to/michaelzaporozhets/comment/4hpk) 
 
 就我个人而言，我喜欢自己早期的雄心壮志:
 
@@ -54,7 +54,7 @@
 
 然后是第一个帖子，由[凯](https://dev.to/kayis):
 
-[![kayis](../Images/c5f2fbb836717fc2a9f5e41f3af9f936.png)](/kayis) [## 我的 GitHub 墓地
+[![kayis](img/c5f2fbb836717fc2a9f5e41f3af9f936.png)](/kayis) [## 我的 GitHub 墓地
 
 ### k(他/他)Aug 9 ' 184min read
 
@@ -62,11 +62,11 @@
 
 紧接着是四个更好的线索:
 
-[![avalander](../Images/dfd7bac1c61f0ed6ce18f3bb69b0f187.png)](/avalander) [## 我的 GitHub 墓地
+[![avalander](img/dfd7bac1c61f0ed6ce18f3bb69b0f187.png)](/avalander) [## 我的 GitHub 墓地
 
 ### avalander Aug 13 ' 182min read
 
-#graveyard](/avalander/my-github-graveyard-172b)[![tux0r](../Images/9c55a9608e1aa4a13ec42e87423999a7.png)](/tux0r) [## 我的比特桶墓地
+#graveyard](/avalander/my-github-graveyard-172b)[![tux0r](img/9c55a9608e1aa4a13ec42e87423999a7.png)](/tux0r) [## 我的比特桶墓地
 
 ### tux0r Aug 13 ' 182 分钟读取
 
@@ -74,7 +74,7 @@
 
 ## 文章不再可用
 
-[![vikkio88](../Images/492640e9c378c6a1af2a102b0d16f2ff.png)](/vikkio88) [## 我的 Github 墓地第 1 部分
+[![vikkio88](img/492640e9c378c6a1af2a102b0d16f2ff.png)](/vikkio88) [## 我的 Github 墓地第 1 部分
 
 ### vincenzo Aug 14 ' 182min read
 

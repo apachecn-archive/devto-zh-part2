@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/elemarjr/is-the-managed-code-slower-than-the-native-code-321l>
 
-[![](../Images/9cd8c31462907cb0177ac68d685df384.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aYewyEuP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/04/evan-dennis-75563-unsplash-300x200.jpg)
+[![](img/9cd8c31462907cb0177ac68d685df384.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aYewyEuP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/04/evan-dennis-75563-unsplash-300x200.jpg)
 
 这是我多年来一直在回答的问题。在大多数情况下，答案是坚决的“不”。
 

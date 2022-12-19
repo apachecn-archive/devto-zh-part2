@@ -104,7 +104,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 默认应用程序现在应该运行在端口 3000 上。请在`http://localhost:3000`查看。
 
-[![Create React App default homepage](../Images/a8536fc243c18cd332108f6c5e03290f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J4nZhy7a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-react-crud/cra-homepage-78544ae32a621e2e6af51c9428ef6bab7b37f8d997c3c8e36107ee72bbb38d88.png)
+[![Create React App default homepage](img/a8536fc243c18cd332108f6c5e03290f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J4nZhy7a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-react-crud/cra-homepage-78544ae32a621e2e6af51c9428ef6bab7b37f8d997c3c8e36107ee72bbb38d88.png)
 
 ## 在 React with Material UI 中创建基本主页
 
@@ -235,7 +235,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 此时，您的应用程序应该如下所示:
 
-[![Blank homepage](../Images/c22425613d11281b687fb97e0ac07cbd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bisIh4eJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-react-crud/blank-homepage-3b436311305e519769a61486860555d3c0fcdcc83d79701f44ce21bae8e9de1d.png)
+[![Blank homepage](img/c22425613d11281b687fb97e0ac07cbd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bisIh4eJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-react-crud/blank-homepage-3b436311305e519769a61486860555d3c0fcdcc83d79701f44ce21bae8e9de1d.png)
 
 ## 用 Okta 给你的 Node + React App 添加认证
 
@@ -251,7 +251,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 因为 Create React App 默认运行在端口 3000 上，所以您应该将其添加为基本 URI 和登录重定向 URI。您的设置应该如下所示:
 
-[![Create new application settings](../Images/183e901d3e116a76c0f0680f90a28195.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5W7xbSYs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-react-crud/create-new-application-settings-aa8fc0f32673947fc50e3fd82935b8dda553c3ee7e769fed022acecd835b6204.png)
+[![Create new application settings](img/183e901d3e116a76c0f0680f90a28195.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5W7xbSYs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-react-crud/create-new-application-settings-aa8fc0f32673947fc50e3fd82935b8dda553c3ee7e769fed022acecd835b6204.png)
 
 点击**完成**保存你的应用，然后复制你的**客户端 ID** 并作为一个变量粘贴到你的项目根目录下的一个名为`.env.local`的文件中。这将允许您在代码中访问该文件，而无需在源代码管理中存储凭据。您还需要添加您的组织 URL(不带`-admin`后缀)。环境变量(除了`NODE_ENV`之外)需要以`REACT_APP_`开头，以便 Create React App 读取它们，因此文件应该看起来像这样:
 
@@ -575,17 +575,17 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，您应该可以使用右上角的按钮登录和退出您的应用程序。
 
-[![homepage with login button](../Images/33aacef380e66c32f5d576330f7ffbc2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cScw6snj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-react-crud/homepage-with-login-7f576e09133c1c84ddb6d6ef0743107962bf2082836005a2068144ba63dc54b3.png)
+[![homepage with login button](img/33aacef380e66c32f5d576330f7ffbc2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cScw6snj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-react-crud/homepage-with-login-7f576e09133c1c84ddb6d6ef0743107962bf2082836005a2068144ba63dc54b3.png)
 
 当您单击登录按钮时，您将被重定向到您的 Okta 组织 URL 以处理身份验证。您可以使用在开发人员控制台中使用的相同凭据登录。
 
-[![Okta sign in](../Images/33d8bdb95a6c82cb406c87c1d9f2bb50.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ywlxH8vp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-react-crud/okta-sign-in-fb3caf2f5651d7920b39cea6fb434491a016878efc840584605a8bcac998e860.png)
+[![Okta sign in](img/33d8bdb95a6c82cb406c87c1d9f2bb50.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ywlxH8vp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-react-crud/okta-sign-in-fb3caf2f5651d7920b39cea6fb434491a016878efc840584605a8bcac998e860.png)
 
 成功登录后，您将返回到您的应用程序，现在应该会看到一个图标，显示您已登录。如果你点击图标，你会在注销按钮上看到你的名字。点击该按钮会让您停留在主页上，但会让您再次注销。
 
-[![homepage, logged in](../Images/2208f0a4e37faf74b4f980cf0a897fe4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e6v4bsvm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-react-crud/homepage-logged-in-6e870037dc4db0e5e285e6e3d5426db6949ace471917cb3700096e8480246ab1.png)
+[![homepage, logged in](img/2208f0a4e37faf74b4f980cf0a897fe4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e6v4bsvm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-react-crud/homepage-logged-in-6e870037dc4db0e5e285e6e3d5426db6949ace471917cb3700096e8480246ab1.png)
 
-[![homepage without logout button](../Images/c80310f433a0428dfb37b13ea8529d29.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SQ4xOkpl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-react-crud/homepage-logout-button-e213b924f329023a85c1e0fd6de5224c33aa2c0877dde329a0b9d4d84eaba68a.png)
+[![homepage without logout button](img/c80310f433a0428dfb37b13ea8529d29.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SQ4xOkpl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-react-crud/homepage-logout-button-e213b924f329023a85c1e0fd6de5224c33aa2c0877dde329a0b9d4d84eaba68a.png)
 
 ## 添加一个节点 REST API 服务器
 
@@ -1291,9 +1291,9 @@ Enter fullscreen mode Exit fullscreen mode
 
 导航至`http://localhost:3000`。你应该能够随心所欲地添加、编辑、查看和删除帖子！
 
-[![new post](../Images/a82e65cf4ad040d2e0763efa75f193b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W1EBOVnr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-react-crud/new-post-739ff632dc24b5d3012a41afcd2964784c62abd826bc33526b427f24ba1c0eff.png)
+[![new post](img/a82e65cf4ad040d2e0763efa75f193b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W1EBOVnr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-react-crud/new-post-739ff632dc24b5d3012a41afcd2964784c62abd826bc33526b427f24ba1c0eff.png)
 
-[![list of posts](../Images/148d5f39a9b78180124b494159722824.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J5ZsZOnZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-react-crud/posts-list-60ace3c84c21bd77b086ad321273aa0c571cfe5b50600036b65ab7f889922a14.png)
+[![list of posts](img/148d5f39a9b78180124b494159722824.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J5ZsZOnZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-react-crud/posts-list-60ace3c84c21bd77b086ad321273aa0c571cfe5b50600036b65ab7f889922a14.png)
 
 ## 了解 React、Node 和 Okta 的更多信息
 

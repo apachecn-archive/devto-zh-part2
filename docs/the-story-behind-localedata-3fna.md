@@ -12,7 +12,7 @@ Rails 允许开发人员使用多个不同的后端来存储他们的翻译。�
 
 我一直对作为副业的微服务感兴趣。我读过太多遍*“为自己做点什么，做你的第一个顾客”*的建议。这似乎是这样一个实验的热门人选。好吧，接受挑战！我在 2017 年 5 月买下了 localedata.com 的[域名，并开始着手工作。](https://www.localedata.com)
 
-[![Before and after](../Images/1e579a40fe15e9d42b2e88633931f2f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FKJW-Vpz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cv352rktuehwskjqy6ok.png)
+[![Before and after](img/1e579a40fe15e9d42b2e88633931f2f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FKJW-Vpz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cv352rktuehwskjqy6ok.png)
 
 ## 打造 MVP
 
@@ -25,15 +25,15 @@ Rails 允许开发人员使用多个不同的后端来存储他们的翻译。�
 
 没有太多可谈的。这个项目的核心相当简单，我一直在独自工作。我没有使用任何线框或模型。我只是把一堆任务和想法放到我的特雷罗板上，然后…
 
-[![Prototype](../Images/7f96ad75b54dac14df5ce95cf061509f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A7R45FBb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g58q7kvc39pwahyin0n4.png)
+[![Prototype](img/7f96ad75b54dac14df5ce95cf061509f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A7R45FBb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g58q7kvc39pwahyin0n4.png)
 
 从第一个项目创意到第一次公开部署大概需要六个月的时间。这似乎是一段很长的时间，然而，我在夏天的生产力相当低(除了其他事情，我走在美丽的威尔士海岸路径)。它可能会更快完成，但没有理由匆忙。
 
-[![Git graph 1](../Images/8ed35fb29f120caf0e768468816297b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eF4PyVz6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2bl58jmr0vw5fpqiswcx.png)
+[![Git graph 1](img/8ed35fb29f120caf0e768468816297b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eF4PyVz6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2bl58jmr0vw5fpqiswcx.png)
 
 除了编写 LocaleData 程序，我还一直在我受雇的公司做全职工作。有时候，很难强迫自己在晚上做一个兼职项目，但关键似乎是定期做一些事情，最好是每天都做。新特性、小的改进，甚至是一个小的 bug 修复。五分钟或五小时。那不重要。我只需要保持这种势头，看到一些真正的进展。我发现这真的有助于我保持动力。
 
-[![Git graph 2](../Images/1a3e4575cfa30b5696f5b80431337920.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7xga71wA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vkhe71jlqydceln4ftpi.png)
+[![Git graph 2](img/1a3e4575cfa30b5696f5b80431337920.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7xga71wA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vkhe71jlqydceln4ftpi.png)
 
 我在 2017 年 11 月公开部署了第一个版本。我取消了我们公司正在使用的第三方订阅，将我们的翻译文件上传到 LocaleData，并向我的队友和我们的翻译介绍了这个新工具。长话短说:与之前昂贵的解决方案相比，他们更喜欢它(而且，令我惊讶的是，不仅仅是因为它的零价格)。
 

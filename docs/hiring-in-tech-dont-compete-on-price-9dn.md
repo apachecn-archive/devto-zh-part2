@@ -26,7 +26,7 @@
 
 如果你的工作场所已经是无毒的，并且在生产好的产品，那么你又回到了起点:薪水。但对于科技行业的薪酬竞争问题，有一个简单且基于证据的解决方案。出于某种原因，这让创始人和经理们非常不舒服。这就是:40 小时工作周的终结。如果你不能在价格上和巨头们竞争(在薪资上和谷歌竞争无疑是徒劳的)，那就在生活质量上和他们竞争。例如:
 
-> ![Chris Raser profile image](../Images/0c5b02382f3cc8c1c17bd63979248223.png)克里斯·拉瑟@ death B4 decaf![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)[@ isaacandsuch](https://twitter.com/isaacandsuch)我会欣然接受减薪 20%的机会&每周工作 30 个小时，但实现这一点的唯一方法是去做自由职业者，这意味着我要花另外两个小时去寻找下一份工作...2018 年 6 月 29 日上午 01:18[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1012505532953817089)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1012505532953817089)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1012505532953817089)
+> ![Chris Raser profile image](img/0c5b02382f3cc8c1c17bd63979248223.png)克里斯·拉瑟@ death B4 decaf![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)[@ isaacandsuch](https://twitter.com/isaacandsuch)我会欣然接受减薪 20%的机会&每周工作 30 个小时，但实现这一点的唯一方法是去做自由职业者，这意味着我要花另外两个小时去寻找下一份工作...2018 年 6 月 29 日上午 01:18[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1012505532953817089)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1012505532953817089)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1012505532953817089)
 
 这只是一个开发商，但他呼应了数百万人的情绪。“等一下，”你可能会说，“从产出价格的角度来看，减少 25%的工作时间，降 20%的工资是不公平的，而且会拖慢公司的步伐。这还没有考虑到雇佣的固定成本，比如福利和办公空间。”这些都是合理的担忧，但陈述的数学缺乏真正描述这种情况的细微差别。
 

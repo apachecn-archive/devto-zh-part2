@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ghost/level-up-unix-timestamp-5hnm>
 
-[![UNIX Timestamp](../Images/7de67967ee8b8aa17bf3943862394692.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qiD4ZoGh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qbvhtvrcsysldoy7kllt.png)
+[![UNIX Timestamp](img/7de67967ee8b8aa17bf3943862394692.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qiD4ZoGh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qbvhtvrcsysldoy7kllt.png)
 
 # 什么是 UNIX 时间戳？
 
@@ -107,7 +107,7 @@ UNIX 时间戳的标准化是为协调时间提供框架的重要一步，但是
 
 检查一下，如果有帮助的话，可以随意使用或分享。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [卡莱南森](https://github.com/KalenAnson) / [ tsc](https://github.com/KalenAnson/tsc)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [卡莱南森](https://github.com/KalenAnson) / [ tsc](https://github.com/KalenAnson/tsc)
 
 ### UNIX 时间戳实用程序
 

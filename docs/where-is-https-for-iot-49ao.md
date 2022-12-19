@@ -20,7 +20,7 @@ Mahmoud Al-Qudsi 已经为 T2 写了一篇很好的博文。
 
 *这里有一张令人震惊的图片，它会让你的血压瞬间升高:*
 
-[![Browser shows unsecure hint](../Images/880e172cc83eb16808a3d6b4812b36e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kH54zSRo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bcrd976y7w93wvjt35gw.png)
+[![Browser shows unsecure hint](img/880e172cc83eb16808a3d6b4812b36e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kH54zSRo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bcrd976y7w93wvjt35gw.png)
 
 # 面向所有物联网开发者的即时安全措施
 
@@ -32,7 +32,7 @@ Mahmoud Al-Qudsi 已经为 T2 写了一篇很好的博文。
 *   不要直接使用任何 HTTP 服务器实现来公开用任何语言编写的服务——而是使用一个维护良好、测试良好的 HTTP 服务器作为入口，比如也可用于 ARM 的 [nginx](https://www.nginx.com/) 。
 *   允许用户更新固件，甚至自动更新。
 
-[![Scribbled login form](../Images/385ea4488f5a4a52dffe662f81aff363.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wZ4hCsvm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4gswwd1qv5wqns48piw2.png)
+[![Scribbled login form](img/385ea4488f5a4a52dffe662f81aff363.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wZ4hCsvm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4gswwd1qv5wqns48piw2.png)
 
 # 物联网中使用 HTTPS 的好处
 
@@ -42,7 +42,7 @@ Mahmoud Al-Qudsi 已经为 T2 写了一篇很好的博文。
 
 HTTPS 防止通信嗅探，数据操纵，并提供验证您的同行。这应该会让你感觉更安全，因为即使你的路由器被入侵，你的银行账户登录仍然是安全的。此外，HTTPS 验证服务器的身份，以便您可以确定您正在与谁通信，并且在犯罪发生的情况下，您知道该起诉谁。耶！
 
-[![HTTPS browser badge](../Images/aa5fc218dd77872b8a7f357253697900.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eF_MaqzE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pmohesrheuzrnnddwrte.png)
+[![HTTPS browser badge](img/aa5fc218dd77872b8a7f357253697900.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eF_MaqzE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pmohesrheuzrnnddwrte.png)
 
 让我们记住 HTTPS 保证的这三个重要承诺，因为我们稍后会谈到它们:
 

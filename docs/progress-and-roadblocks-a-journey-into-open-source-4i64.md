@@ -110,7 +110,7 @@ Sequelize CLI 持续集成没有按照您预期的方式设置:
 
 这可能是一个小众用例，大多数人似乎乐于以`module.exports = () => { /* do some stuff in the closure */ return };`的方式编写模型，尽管看看阅读[“为 Sequelize 4 模型使用 ES6 类”](https://dev.to/hugo__df/using-es6-classes-for-sequelize-4-models-17ga)的人数，这是一种使用 Sequelize 编写应用程序的有效方式:
 
-![](../Images/32f7f7c95a410228070d035658e32e90.png)
+![](img/32f7f7c95a410228070d035658e32e90.png)
 
 我创建了一个公关，但我不希望它被合并:
 
@@ -136,7 +136,7 @@ Sequelize CLI 持续集成没有按照您预期的方式设置:
 1.  `npx np`并浏览对话框
 2.  由于测试需要 10-15 分钟来运行，我发现使用`--yolo`选项很有用
 
-[![](../Images/bb15f76cd8c630d702c11ff5000711cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g-AYekXL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_3F14BC7EA71B60938252453DA3775006F6FE61D96309C1403D86743C7DA41F76_1541151247857_image.png)
+[![](img/bb15f76cd8c630d702c11ff5000711cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g-AYekXL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_3F14BC7EA71B60938252453DA3775006F6FE61D96309C1403D86743C7DA41F76_1541151247857_image.png)
 
 ## 关于开源运动的教训📖
 

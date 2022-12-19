@@ -32,7 +32,7 @@
 
 随着核心服务的安装，我进入了迁移的未知部分。如何迁移 Wordpress？幸运的是，Wordpress 通过**设置菜单**项包含了基本的导入/导出功能。
 
-<figure>[![](../Images/a45b1b1def53480f4c1800eb499fc5b4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8bOWi4_E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/10/wp_export.png) 
+<figure>[![](img/a45b1b1def53480f4c1800eb499fc5b4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8bOWi4_E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/10/wp_export.png) 
 
 <figcaption>赢了！</figcaption>
 

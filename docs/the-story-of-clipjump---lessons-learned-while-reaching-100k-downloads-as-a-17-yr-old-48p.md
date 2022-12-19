@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/aviaryan/the-story-of-clipjump---lessons-learned-while-reaching-100k-downloads-as-a-17-yr-old-48p>
 
-[![cover image](../Images/c1d575821b470765601a5466e2cab8d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZN1cChU7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.us-east-2.amazonaws.com/devletters/covers/dragon.jpeg)
+[![cover image](img/c1d575821b470765601a5466e2cab8d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZN1cChU7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.us-east-2.amazonaws.com/devletters/covers/dragon.jpeg)
 
 > 首次发布于 [Dev Letters](https://devletters.com/letters/lessons-of-clipjump/)
 
@@ -72,7 +72,7 @@
 
 你也可以把它们列在你的网站或应用程序上，作为你感谢的真诚表示。我用 Clipjump 做了这件事，我在 About 部分列出了所有的助手。你可能听说过的一款流行软件 NomadList 的启动方式类似，[也做了同样的事情](https://nomadlist.com/help)。
 
-[![thank you for clipjump](../Images/1c90b072da23f0aff5ee5cfa8d1af114.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U3TPBmDN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/4047597/45890248-2243e900-bde0-11e8-930f-a64e4b92bb43.png)
+[![thank you for clipjump](img/1c90b072da23f0aff5ee5cfa8d1af114.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U3TPBmDN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/4047597/45890248-2243e900-bde0-11e8-930f-a64e4b92bb43.png)
 
 ## 寻找产品与市场的契合点
 

@@ -214,17 +214,17 @@ React 说*孩子是一个不透明的数据结构* (Reach.children)
 *   混杂的
     *   【Airtable 如何使用 React–马特·布什–Medium
 
-[![booyaa image](../Images/0856925e87024eeeb56184e23bf8ed45.png)](/booyaa) [## 在博客上写我的作业
+[![booyaa image](img/0856925e87024eeeb56184e23bf8ed45.png)](/booyaa) [## 在博客上写我的作业
 
 ### 标记 Sta Ana Sep 16 ' 181min read
 
 #study #learning #fullstack](/booyaa/blogging-my-homework-3ohf)
-[![booyaa image](../Images/0856925e87024eeeb56184e23bf8ed45.png)](/booyaa) [## 做一只刺猬-第一部分
+[![booyaa image](img/0856925e87024eeeb56184e23bf8ed45.png)](/booyaa) [## 做一只刺猬-第一部分
 
 ### 标记 Sta Ana Sep 18 ' 18 15 分钟读取
 
 #learning #study #react #webappdev](/booyaa/web-app-development-core-skill-hedgehog---part-one-2144)
-[![booyaa image](../Images/0856925e87024eeeb56184e23bf8ed45.png)](/booyaa) [## 像狐狸一样狡猾
+[![booyaa image](img/0856925e87024eeeb56184e23bf8ed45.png)](/booyaa) [## 像狐狸一样狡猾
 
 ### 标记 Sta Ana Sep 28 ' 184min read
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/terrible-use-cases-for-javascript-proxies-4cf5>
 
-[![](../Images/fa56bf0d81e6ee6576d39637f6aa0d2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P6Cxc_7O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AQ6DuRzcwIGbMv8dqXxbgUA.jpeg)
+[![](img/fa56bf0d81e6ee6576d39637f6aa0d2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P6Cxc_7O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AQ6DuRzcwIGbMv8dqXxbgUA.jpeg)
 
 ECMAScript 6 为 JavaScript 引入了许多新的语言特性，其中包括代理。在我看来，这是 JavaScript 最被低估的特性。
 
@@ -10,7 +10,7 @@ ECMAScript 6 为 JavaScript 引入了许多新的语言特性，其中包括代�
 
 现在，代理的实际、真实、实用的良好用例少之又少。在大多数情况下，同样的事情可以用一点重复的样板代码来实现，但性能要好得多。尽管如此，代理是伟大的，令人难以置信的强大。让我们来看看一些可怕的用例，来展示代理是多么神奇。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### 赦免属性名
 
@@ -148,7 +148,7 @@ p.jedi = true; // ReferenceError: jedi is not defined, did you mean age?
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

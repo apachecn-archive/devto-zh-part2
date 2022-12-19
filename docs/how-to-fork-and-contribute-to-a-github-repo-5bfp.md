@@ -8,7 +8,7 @@
 
 在原始回购中单击“分叉”
 
-[![Fork](../Images/76d2daa5d54b57b02e75cc0c66f015c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wd_p_poK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vlfy5pq38pnfle4q0xq2.png)
+[![Fork](img/76d2daa5d54b57b02e75cc0c66f015c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wd_p_poK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vlfy5pq38pnfle4q0xq2.png)
 
 这将在你自己的 Github 帐户中创建一个分叉版本，这样你就有了自己的回购副本。
 
@@ -16,7 +16,7 @@
 
 1)在分叉式回购中，单击“复制”或“下载”按钮
 
-[![Clone or Download button](../Images/49460b91954b8d55d0fcf0f03e3ba94f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UX9kna-2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i6pz3i5dehsgvfry4wpr.png)
+[![Clone or Download button](img/49460b91954b8d55d0fcf0f03e3ba94f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UX9kna-2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i6pz3i5dehsgvfry4wpr.png)
 
 2)复制 git 地址
 
@@ -86,7 +86,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 1)点击新的拉式请求
 
-[![New pull request](../Images/c00c9167bd599a5f0179d1b1abd0efc8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ddFZ9lCF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/whboatvqlzz0nnjizn9d.png)
+[![New pull request](img/c00c9167bd599a5f0179d1b1abd0efc8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ddFZ9lCF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/whboatvqlzz0nnjizn9d.png)
 
 2)在“比较变更”页面上，检查基本分叉是否为原始回购，主要分叉是否为您选择了正确分支的回购
 

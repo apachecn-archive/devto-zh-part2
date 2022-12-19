@@ -14,4 +14,4 @@ for(iterable 的变量){
 
 [了解 JavaScript For...循环的起点](https://www.skptricks.com/2018/11/understanding-javascript-forof-loop.html)
 
-[![](../Images/cb66ba8473e216817c9a6f44a8a2cac7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qdEPG5iZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-grqYmn-3hqQ/W_OXepT1KQI/AAAAAAAACKM/7NAjmM-Ts5UvuXgGZRKwGkgH-o3IhFrSQCLcBGAs/s400/forof.png)
+[![](img/cb66ba8473e216817c9a6f44a8a2cac7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qdEPG5iZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-grqYmn-3hqQ/W_OXepT1KQI/AAAAAAAACKM/7NAjmM-Ts5UvuXgGZRKwGkgH-o3IhFrSQCLcBGAs/s400/forof.png)

@@ -75,10 +75,10 @@ module.exports = env => {
 “asm-dom”比“virtual-dom”快 2 倍。我怎么也想不到这个结果。WebAssembly 很牛逼。我想比较的也只有 React 的“差异”和“补丁”算法。
 
 asm-dom 结果
-[![asm-dom result](../Images/b0cd48f823fcb65d25cefa3730c0771d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NQp540-w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y1xl0j3aljfcvx33rivb.png)
+[![asm-dom result](img/b0cd48f823fcb65d25cefa3730c0771d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NQp540-w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y1xl0j3aljfcvx33rivb.png)
 
 虚拟世界结果
-[![virtual-dom result](../Images/649dcd3b5d2eb10bee076a7760e0a3a8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---RMu1C8L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jsteuw6z6irszihrwzbw.png)
+[![virtual-dom result](img/649dcd3b5d2eb10bee076a7760e0a3a8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---RMu1C8L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jsteuw6z6irszihrwzbw.png)
 
 # 用于测量的代码
 

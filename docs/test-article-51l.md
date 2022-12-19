@@ -31,13 +31,13 @@ tags:
 
 帖子发布后，帖子底部会出现一个`share bar`。
 
-[![share bar](../Images/c0dbcfe6ceea761b0a5496bbf655de0f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--h_4bj4KE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6s05gks420t8fgkmplpe.jpeg) 
+[![share bar](img/c0dbcfe6ceea761b0a5496bbf655de0f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--h_4bj4KE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6s05gks420t8fgkmplpe.jpeg) 
 点击用红色圈出的三个黑色方块，即可将帖子分享到另一个站点。
-[![click share bar](../Images/1d3c195c23f0e9ad0317b69a783704b4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_JdtfTK0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fnqo4kpgubbyyypuu1t7.jpeg) 
+[![click share bar](img/1d3c195c23f0e9ad0317b69a783704b4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_JdtfTK0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fnqo4kpgubbyyypuu1t7.jpeg) 
 点击后会出现一个弹出框。
-[![popup box](../Images/0fd0f4a5dfd7366857c3592fe88aae45.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Ce4HCDB---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yc54w4nuw7yg27scbdeb.jpeg) 
+[![popup box](img/0fd0f4a5dfd7366857c3592fe88aae45.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Ce4HCDB---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yc54w4nuw7yg27scbdeb.jpeg) 
 我选择了`Share to LinkedIn`，当文章打包显示在 LinkedIn 上时，缩略图是空白的，只包含一个标题卡。
-[![title card](../Images/af88d99677bcdf45fbe8e04cfd35c322.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bAfj36s0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x3krv0m5d7rdfdrngu3w.jpeg) 
+[![title card](img/af88d99677bcdf45fbe8e04cfd35c322.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bAfj36s0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x3krv0m5d7rdfdrngu3w.jpeg) 
 对于生活中的我来说，我想不出为什么一个简单的图像不会渲染。我试了一下`Share to Facebook`，图像果然呈现出来了。因为它呈现给一个应用程序，而不是另一个，我想知道这个问题是否是 LinkedIn 特有的。
 
 在对 LinkedIn 的形象要求进行了大量研究后，我了解到以下几点:

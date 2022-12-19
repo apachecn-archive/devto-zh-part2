@@ -44,7 +44,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <center>**evil TWINS**</center>
 
-[![twins](../Images/4cb0b73dcdc7d48c7192c62e7a536d8d.png)T2】](https://i.giphy.com/media/iGei6Nd3NlwnC/giphy.gif)
+[![twins](img/4cb0b73dcdc7d48c7192c62e7a536d8d.png)T2】](https://i.giphy.com/media/iGei6Nd3NlwnC/giphy.gif)
 
 # 我们来列个清单吧...如何不创建参考
 
@@ -87,4 +87,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 <center>Now they're in different arrays... but can still love each other!</center>
 
-[![love](../Images/769e57ea5f61038e1546ffb49c898357.png)T2】](https://i.giphy.com/media/796g6BvEXi7v2/giphy.gif)
+[![love](img/769e57ea5f61038e1546ffb49c898357.png)T2】](https://i.giphy.com/media/796g6BvEXi7v2/giphy.gif)

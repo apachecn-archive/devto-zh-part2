@@ -16,7 +16,7 @@ Tyler Love 选择了 AWS Lambda，因为它更适合考虑 business 的要求。
 
 此外，选择错误的无服务器提供商的几率很高！
 
-> ![Paulo Lopes profile image](../Images/6b663dc6fa0ff2104c0d2b92cdd70660.png)保罗洛佩斯@ pm l0 pes![twitter logo](../Images/65e26e35707d96169ec8af6b3cbf2003.png)[#无服务器](https://twitter.com/hashtag/serverless)[#计算](https://twitter.com/hashtag/computing)这不是 [#vendor_lockin](https://twitter.com/hashtag/vendor_lockin) 的别名吗？2016 年 4 月 25 日上午 07:46[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=724504783973933056)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=724504783973933056)4[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=724504783973933056)5
+> ![Paulo Lopes profile image](img/6b663dc6fa0ff2104c0d2b92cdd70660.png)保罗洛佩斯@ pm l0 pes![twitter logo](img/65e26e35707d96169ec8af6b3cbf2003.png)[#无服务器](https://twitter.com/hashtag/serverless)[#计算](https://twitter.com/hashtag/computing)这不是 [#vendor_lockin](https://twitter.com/hashtag/vendor_lockin) 的别名吗？2016 年 4 月 25 日上午 07:46[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=724504783973933056)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=724504783973933056)4[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=724504783973933056)5
 
 在选择无服务器提供商时，有基于各种偏见的流行观点，然而，有些事情超出了表面水平。
 

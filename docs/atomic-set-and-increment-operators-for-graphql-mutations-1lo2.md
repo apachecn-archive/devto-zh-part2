@@ -4,7 +4,7 @@
 
 使用 GraphQL 时，对数据的写入或更新是通过突变来完成的。在本帖中，我们将讨论在 [Hasura GraphQL 引擎](https://hasura.io)上可用的更新突变和相关操作符。
 
-[![](../Images/bd1be26d620379f4b635345a31e9b9f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lZEi4mzO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/updating-data-using-mutations-on-hasura-graphql-87c7e22503bc/1-yMbKmCoxIJ4CLO5aHQi-aQ.png)
+[![](img/bd1be26d620379f4b635345a31e9b9f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lZEi4mzO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/updating-data-using-mutations-on-hasura-graphql-87c7e22503bc/1-yMbKmCoxIJ4CLO5aHQi-aQ.png)
 
 **TL；博士:**
 

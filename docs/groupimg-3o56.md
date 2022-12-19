@@ -8,4 +8,4 @@ python 中的一个脚本，通过相似性来组织图像。
 
 观看下面的工作:
 
-[![groupImg](../Images/f936ef97d0ef96d1470da6513e291711.png)T2】](http://www.youtube.com/watch?v=LgzsJU-b34o)
+[![groupImg](img/f936ef97d0ef96d1470da6513e291711.png)T2】](http://www.youtube.com/watch?v=LgzsJU-b34o)

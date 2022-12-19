@@ -12,7 +12,7 @@ VS Code 正在成为一个越来越受欢迎的代码编辑器，它提供了大
 
 就这样， [Python 模板片段](https://marketplace.visualstudio.com/items?itemName=RickyWhite.python-template-snippets)诞生了。
 
-[![Python Template Snippets](../Images/148d2c56117cfb1951e957e5681cb0d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4BnIknXY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rickywhite.gallerycdn.vsassets.io/extensions/rickywhite/python-template-snippets/1.0.0/1540438764811/Microsoft.VisualStudio.Services.Icons.Default)
+[![Python Template Snippets](img/148d2c56117cfb1951e957e5681cb0d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4BnIknXY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rickywhite.gallerycdn.vsassets.io/extensions/rickywhite/python-template-snippets/1.0.0/1540438764811/Microsoft.VisualStudio.Services.Icons.Default)
 
 只需在 VS Code 的 extention 标签中搜索“python 模板片段”即可安装，或者从下面的 Github repo 手动下载。
 
@@ -22,7 +22,7 @@ VS Code 正在成为一个越来越受欢迎的代码编辑器，它提供了大
 
 编码快乐！
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png)/[python-template-snippets](https://github.com/EndlessTrax/python-template-snippets)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png)/[python-template-snippets](https://github.com/EndlessTrax/python-template-snippets)
 
 ### Jinja2 和 Django 模板引擎的 VS 代码片段扩展。
 

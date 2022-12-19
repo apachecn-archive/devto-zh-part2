@@ -10,7 +10,7 @@
 
 越多的人看到广告，你的网站就会获得越多的流量。更多的流量=更大的服务器。就这么简单。
 
-[![Online store will need to evolve](../Images/db48b3eb5145bd83e44b3c675ef4e3c2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7ofw-ISu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/WopDvYB.png) 
+[![Online store will need to evolve](img/db48b3eb5145bd83e44b3c675ef4e3c2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7ofw-ISu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/WopDvYB.png) 
 图片来源于 getshifter.io
 
 ## 2。缩放比例

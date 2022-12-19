@@ -6,7 +6,7 @@
 
 在这篇文章中，我将向你展示如何用 JavaScript 制作实时图表。我们将构建一个基本的投票 web 应用程序，其中包含一个投票页面，另一个页面包含一个显示投票结果的实时图表。这里有一个窥视我们将建立什么
 
-[![](../Images/2076366e6aaef85c470ec25cb32b7a41.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zHwHWzNh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_271D2C4415082D830A5E129B885A0502958EA9373BF02DC765D6BC3010DA0C13_1523603994116_hamoni-chartjs.gif)
+[![](img/2076366e6aaef85c470ec25cb32b7a41.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zHwHWzNh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_271D2C4415082D830A5E129B885A0502958EA9373BF02DC765D6BC3010DA0C13_1523603994116_hamoni-chartjs.gif)
 
 我将使用 [Chart.js](http://www.chartjs.org/) 和 [Hamoni Sync](https://www.hamoni.tech/) 来构建它。js 是一个简单的 JavaScript 图表库。Hamoni Sync 是一个实时状态同步服务，使您能够实时同步您的应用程序状态。投票结果是我们希望实时显示给用户的状态。Hamoni Sync 允许您定义应用程序的状态，同时避免围绕发布/订阅系统设计复杂的状态逻辑，从而使这一点变得更加容易。
 
@@ -39,7 +39,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在“创建应用程序”标题下，输入应用程序名称，然后单击“创建”按钮。几秒钟之内，您应该会看到它被创建并显示在应用程序列表部分。
 
-[![Hamoni dashboard](../Images/99d4073736d6ccf1d94cd246f060b4b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wxOo7MyY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_271D2C4415082D830A5E129B885A0502958EA9373BF02DC765D6BC3010DA0C13_1523552120862_Screen%2BShot%2B2018-04-12%2Bat%2B17.54.22.png)
+[![Hamoni dashboard](img/99d4073736d6ccf1d94cd246f060b4b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wxOo7MyY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_271D2C4415082D830A5E129B885A0502958EA9373BF02DC765D6BC3010DA0C13_1523552120862_Screen%2BShot%2B2018-04-12%2Bat%2B17.54.22.png)
 
 复制应用程序和帐户 ID，并用 **server.js** 中第 40 行的字符串值替换它们
 
@@ -207,7 +207,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在我们可以测试我们的代码，看看它的工作情况。打开命令行并运行`npm start`，然后打开浏览器并导航到 [localhost:5000](http://localhost:5000) 。
 
-[![](../Images/8576eab5da4013f4e88495fd1037c09f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DfZG2V31--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_271D2C4415082D830A5E129B885A0502958EA9373BF02DC765D6BC3010DA0C13_1523604009149_hamoni-chartjs.gif)
+[![](img/8576eab5da4013f4e88495fd1037c09f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DfZG2V31--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_271D2C4415082D830A5E129B885A0502958EA9373BF02DC765D6BC3010DA0C13_1523604009149_hamoni-chartjs.gif)
 
 瞧啊。！🚀
 

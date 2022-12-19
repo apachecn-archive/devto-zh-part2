@@ -20,7 +20,7 @@
 
 这是我的一个。
 
-[![my desk with SAD light on](../Images/655a7cc8ec2e667280a46889e454eb73.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DsMXha1r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ze2juh79nfd505qo8dk3.jpg)
+[![my desk with SAD light on](img/655a7cc8ec2e667280a46889e454eb73.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DsMXha1r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ze2juh79nfd505qo8dk3.jpg)
 
 它发出 10，000 勒克斯的光，阻挡紫外线，光线从上方直射我的眼睛——所有这些都是有效光疗设备的重要特征。
 
@@ -41,13 +41,13 @@
 
 我每天早上都看到这样的东西。
 
-[![August sunrise in northern Alberta](../Images/baf5aad610c6857d5d0b62eda4eed46a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UOrsYphQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lm75bdbjgyr92nct4zvi.jpg)
+[![August sunrise in northern Alberta](img/baf5aad610c6857d5d0b62eda4eed46a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UOrsYphQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lm75bdbjgyr92nct4zvi.jpg)
 
 我们在下午打盹儿，那时风太大，不能喷水，然后一直工作到天黑。
 
 那是很长的*天，但是我注意到只要我白天在外面，我的大脑就会出奇的好。我还注意到，当我在户外生活和工作时，我的慢性睡眠问题消失了。但是当我回到城市，在早上看到类似的东西时，它们会再次出现。*
 
- *[![my desk with normal room illumination](../Images/bebca1cb7655a8c52e01ee67b3458be1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p9s7a_Wq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jycbw6d48z9vugtthykk.jpg)
+ *[![my desk with normal room illumination](img/bebca1cb7655a8c52e01ee67b3458be1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p9s7a_Wq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jycbw6d48z9vugtthykk.jpg)
 
 这让我想到了与室外相比，我办公室的光线水平。我了解到，即使是非常阴沉的一天，也比你普通的办公室明亮得多。这让我读了关于季节性情感障碍的研究。我被迷住了，并受到启发做了一个实验。
 

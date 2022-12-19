@@ -29,7 +29,7 @@ Terraform 看起来更像是一种“普通”语言，有了[条件运算符改
 
 **更新(2018-08-02):**
 
-Terraform 得到了[型系统](https://www.hashicorp.com/blog/terraform-0-12-rich-value-types)。看起来很强大。只需要看到 Terraform 没有进化到 Scala [![🙂](../Images/2ea3454d48c385c4b31b2c45b77b4229.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zCyXRrdx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f642.png)
+Terraform 得到了[型系统](https://www.hashicorp.com/blog/terraform-0-12-rich-value-types)。看起来很强大。只需要看到 Terraform 没有进化到 Scala [![🙂](img/2ea3454d48c385c4b31b2c45b77b4229.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zCyXRrdx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f642.png)
 
 **更新(2018-08-11):**
 
@@ -37,5 +37,5 @@ Terraform 得到了[型系统](https://www.hashicorp.com/blog/terraform-0-12-ric
 
 **更新(2018-08-26):**
 
-*   HCL 到 JSON [一对一映射](https://www.hashicorp.com/blog/terraform-0-12-reliable-json-syntax)。当我读到“在 HCL 和 JSON 之间有一个清晰的 1:1 映射，并确保 HCL 的每一个特性在 JSON 中都得到支持”时，我立刻想到，那时一定有转换工具…并且没有失望![🙂](../Images/2ea3454d48c385c4b31b2c45b77b4229.png)“在 Terraform 的未来版本中，我们还将支持本机工具，以将 HCL 转换为 JSON，并将 JSON 转换为 HCL(包括注释)”
+*   HCL 到 JSON [一对一映射](https://www.hashicorp.com/blog/terraform-0-12-reliable-json-syntax)。当我读到“在 HCL 和 JSON 之间有一个清晰的 1:1 映射，并确保 HCL 的每一个特性在 JSON 中都得到支持”时，我立刻想到，那时一定有转换工具…并且没有失望![🙂](img/2ea3454d48c385c4b31b2c45b77b4229.png)“在 Terraform 的未来版本中，我们还将支持本机工具，以将 HCL 转换为 JSON，并将 JSON 转换为 HCL(包括注释)”
 *   “JSON 中的评论”——不错！

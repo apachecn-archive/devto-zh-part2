@@ -62,7 +62,7 @@
 我希望你开始看到这个方法有多强大。你可以用它做很多事情，特别是当你使用正则表达式或者其他方法的时候。
 用厨师刀，你可以用多种方式拿取食物并更换，同样的方法也适用于`#slice`方法，但没有割伤自己的风险。加入 IRB，玩一会儿，亲自看看它能做什么。Ruby 是为了让程序员开心而设计的，所以有了 Ruby，
 
-[![happiness is a piece of cake](../Images/6d270f3aca692ebfe1f2a690d66eb237.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PXNz44ZR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lombsqm6son61so6nf78.jpg)
+[![happiness is a piece of cake](img/6d270f3aca692ebfe1f2a690d66eb237.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PXNz44ZR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lombsqm6son61so6nf78.jpg)
 
 `#slice`蛋糕？
 

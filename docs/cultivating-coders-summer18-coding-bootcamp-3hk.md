@@ -2,11 +2,11 @@
 
 > 原文：<https://dev.to/kauresss/cultivating-coders-summer18-coding-bootcamp-3hk>
 
-[![ABQ Journal](../Images/dc3f7e9affd679a3fb38566df0970264.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zcgsDYdq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9pkgm653z2vzh6yttydt.png)
+[![ABQ Journal](img/dc3f7e9affd679a3fb38566df0970264.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zcgsDYdq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9pkgm653z2vzh6yttydt.png)
 
 培养程序员给社区和孩子们提供了学习如何编码的机会。从长远来看，这意味着他们有机会学习一门技能，在经济上帮助他们，并有机会接受高等教育和职业生涯[人生之路](https://www.krqe.com/news/education/non-profit-teaches-new-mexico-students-about-computer-coding-stem/1263618318)。
 
-[![CCVS Sponsors](../Images/0aa02e2ec71a8ad39fbbe51264879b89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mwgSXudC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xcpjpzmwa3x20qoag7zx.png)
+[![CCVS Sponsors](img/0aa02e2ec71a8ad39fbbe51264879b89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mwgSXudC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xcpjpzmwa3x20qoag7zx.png)
 
 今年夏天，我在一个培养程序员的训练营当讲师。CCV(培养编码员)得到了 PNM 和脸书的支持和赞助。班上的每个人都得到了一台 thinkpad，并有机会学习如何编码。CCV 是一个由 Charles Ashley III 领导的基层组织，它为每个社区提供服务，这些社区中的大多数都开发了符合他们需求的应用程序。课程是由布兰登·特雷比托夫斯基开发的。它简洁而模块化。按主题和子主题组织。这样的组织是信息过载的绿洲。
 
@@ -14,7 +14,7 @@
 
 #### 工具
 
-[![Kawaii Console](../Images/558ba64a4b195718abfbbe118d7a3623.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nVmeJHPj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/91nc5bhz1x5q0seqwpdc.gif)
+[![Kawaii Console](img/558ba64a4b195718abfbbe118d7a3623.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nVmeJHPj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/91nc5bhz1x5q0seqwpdc.gif)
 
 在课堂上我们使用了 codepen 和 sublime text。人们鼓励使用谷歌来学习如何提出正确的问题。通常从“如何”开始...?"
 
@@ -34,7 +34,7 @@ Codepen 节省了大量时间，因为每个人都可以进行练习和项目。
 
 #### 阅读，有助于编码/一切。有时迷你剧也有帮助..
 
-[![CCVS Coding Bootcamp](../Images/d3ee05ef454f37dce66de2ed4df7eef9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Nfd8F4C8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qducqyppd4vhzkpkgk8s.png)
+[![CCVS Coding Bootcamp](img/d3ee05ef454f37dce66de2ed4df7eef9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Nfd8F4C8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qducqyppd4vhzkpkgk8s.png)
 
 课堂上花一两分钟时间阅读文档和教程的学生学得更好，因为他们获得了同一主题的多视角视图。
 
@@ -50,7 +50,7 @@ Codepen 节省了大量时间，因为每个人都可以进行练习和项目。
 
 #### 承诺移山，不是天才
 
-[![CCVS](../Images/41c7e220091269b2ec6776e94af302a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yn48flhc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/28r9xmo9ncz7130lx1kk.png)
+[![CCVS](img/41c7e220091269b2ec6776e94af302a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yn48flhc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/28r9xmo9ncz7130lx1kk.png)
 
 致力于每天上课和学习的学习者(没有电话，自己定时休息)从他们的训练营经历中获得了更多。
 
@@ -66,7 +66,7 @@ Codepen 节省了大量时间，因为每个人都可以进行练习和项目。
 
 #### 赚钱
 
-[![Cultivating Coders](../Images/c8a0116c3f76057fefa4736b4ff27ae9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jmwLol9I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7s5tfopqwpsh3s1ox0ux.gif)
+[![Cultivating Coders](img/c8a0116c3f76057fefa4736b4ff27ae9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jmwLol9I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7s5tfopqwpsh3s1ox0ux.gif)
 
 在不同的领域和行业中，学习的动机和回报几乎是一样的。动力和回报是创业和金钱。
 
@@ -82,7 +82,7 @@ Codepen 节省了大量时间，因为每个人都可以进行练习和项目。
 
 #### 黑客马拉松
 
-[![CCVS](../Images/2a66c9605d8c6b15dc68102883fe8608.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xssI1LKq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/muot8j0pif239e02ui68.png)
+[![CCVS](img/2a66c9605d8c6b15dc68102883fe8608.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xssI1LKq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/muot8j0pif239e02ui68.png)
 
 我们在课堂上进行了两次黑客马拉松。每个小组都被分配了一个项目，其中有一定数量的必须完成的子任务。每个小组都有一个项目经理。交易是获胜的团队会得到一份奖品，任何没有完成所有子任务的团队的项目经理必须在第二天完成任何剩余的任务！
 
@@ -120,4 +120,4 @@ Codepen 节省了大量时间，因为每个人都可以进行练习和项目。
 
 这是一项艰巨的工作，但任何值得得到的东西都不容易。他们已经到达了训练营的终点，并且掌握了一些扎实的技能。其中一条包括三个小时不看手机:)他们中的几个人对毕业日感到不高兴，因为他们想在他们的项目上花更多的时间。
 
-[![CCVS](../Images/c679f57258758f0d4c4d3981f6daeaf9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ccZiJCru--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gort6wbeo4kbpfw7uw10.png)
+[![CCVS](img/c679f57258758f0d4c4d3981f6daeaf9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ccZiJCru--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gort6wbeo4kbpfw7uw10.png)

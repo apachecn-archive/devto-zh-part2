@@ -10,7 +10,7 @@
 
 我当时正在为一个客户的网站开发“门控内容”功能。我一直在为此做一些后端渲染工作，编辑可以选择一个体验表单进行数据捕获，网站用户可以通过下载来完成它。一两天前，我已经准备好了所有的后端代码，并计划在合并代码之前再花一个小时左右的时间进行一些重构。但是，当我打开我的开发网站开始工作时，我的门控内容组件消失了:
 
-[![](../Images/b8c895a63fde53c41870c74132b7115c.png)T2】](https://jermdavis.files.wordpress.com/2018/08/missingrenderings.png)
+[![](img/b8c895a63fde53c41870c74132b7115c.png)T2】](https://jermdavis.files.wordpress.com/2018/08/missingrenderings.png)
 
 困惑之余，我查看了演示细节。我检查了我仍然在寻找正确的源分支。我检查了“网络”数据库，以确保我发表了一切。我开始担心我昨晚的成功是某种非常真实的梦。
 
@@ -52,15 +52,15 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在我知道在我的组件上的 datasource 集合中没有查询，因为它只是使用了目标项的 ID。但是这让我开始思考搜索索引——在这种情况下是由 Solr 提供的。所以我试着浏览 Solr UI 来检查它是否开心，结果:
 
-[![](../Images/276bafac7b8be656747af16992c18e17.png)T2】](https://jermdavis.files.wordpress.com/2018/08/nosolr.png)
+[![](img/276bafac7b8be656747af16992c18e17.png)T2】](https://jermdavis.files.wordpress.com/2018/08/nosolr.png)
 
 没有索尔。我将它作为 NSSM 服务安装，所以在 Windows 中检查服务管理工具:
 
-[![](../Images/dacf6cc677dcfea86d9ad41c534fff78.png)T2】](https://jermdavis.files.wordpress.com/2018/08/servicestopped.png)
+[![](img/dacf6cc677dcfea86d9ad41c534fff78.png)T2】](https://jermdavis.files.wordpress.com/2018/08/servicestopped.png)
 
 我重启了那个服务，刷新了我的页面——没什么不同。但是在 iisreset 之后:
 
-[![](../Images/712f31dc48675b6fdfd877be1305ec0c.png)T2】](https://jermdavis.files.wordpress.com/2018/08/renderingback.png)
+[![](img/712f31dc48675b6fdfd877be1305ec0c.png)T2】](https://jermdavis.files.wordpress.com/2018/08/renderingback.png)
 
 答对了。我的工作回来了。
 

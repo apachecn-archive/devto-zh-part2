@@ -8,7 +8,7 @@
 
 像许多其他开发人员一样，我一直在做一些兼职项目。我的工作也是我的爱好。每当一个新的副业项目出现时，我会立即去追求它，因为从事一些新的、闪亮的东西会让我兴奋不已！我经常觉得这个由优秀的 [CommitStrip](http://www.commitstrip.com) 创作的漫画中的开发者就是写我的。
 
-[![West Side-project Story](../Images/5406161d4add24754ddc9d33bad56811.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--d056RSto--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gfjg3oume3za4v0aaqh4.jpeg)T3】
+[![West Side-project Story](img/5406161d4add24754ddc9d33bad56811.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--d056RSto--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gfjg3oume3za4v0aaqh4.jpeg)T3】
 
 <center><small>[West Side-project Story](http://www.commitstrip.com/en/2014/11/25/west-side-project-story/) - [CommitStrip](http://www.commitstrip.com) - Nov 25, 2014</small></center>
 
@@ -18,7 +18,7 @@
 
 没错。你可以在你的 Windows PC 上运行多个 Linux 发行版，不需要 virtualbox、双引导等等。这是本地的。这太棒了。
 
-[![WSL Distros](../Images/e8461dc4a0f7c2744820adbadd2baa2e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Lnc196D_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/86n9ewmr69p2ej2fw67i.png)T3】
+[![WSL Distros](img/e8461dc4a0f7c2744820adbadd2baa2e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Lnc196D_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/86n9ewmr69p2ej2fw67i.png)T3】
 
 <center><small>Image from [New distros coming to Bash/WSL via Windows Store](https://blogs.msdn.microsoft.com/commandline/2017/05/11/new-distros-coming-to-bashwsl-via-windows-store/)</small></center>
 
@@ -30,7 +30,7 @@
 
 ## 用 WSL 安装 Ubuntu
 
-[![Enable WSL](../Images/382bc228dc0dd3f05951ee433f4744b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JsT9kZyu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wv1o55uid2fhn7zu8lqr.png)
+[![Enable WSL](img/382bc228dc0dd3f05951ee433f4744b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JsT9kZyu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wv1o55uid2fhn7zu8lqr.png)
 
 您需要做的第一件事是启用 WSL。打开“打开或关闭 Windows 功能”，然后在出现的对话框中，向下滚动并选中“Linux 的 Windows 子系统”框，然后选择“确定”。这将应用更改，并在需要时重新启动您的机器。
 
@@ -50,7 +50,7 @@
 
 我也喜欢 [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) ，它提供了许多漂亮的主题和优秀的插件。我使用了[基本安装](https://github.com/robbyrussell/oh-my-zsh#basic-installation)指令下的`curl`命令，一切就绪！然后，您可以通过编辑您的`~/.zshrc`文件并将主题名称添加到`ZSH_THEME`环境变量中来选择您想要的主题。我个人用的是[纯](https://github.com/sindresorhus/pure)，很美的极简主题。
 
-[![Pure Theme](../Images/9b8e6336db25b26e31e541738164e4c0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sYHCOHzB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/42d0py0lj8nicmq8h2v2.png)T3】
+[![Pure Theme](img/9b8e6336db25b26e31e541738164e4c0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sYHCOHzB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/42d0py0lj8nicmq8h2v2.png)T3】
 
 <center><small>Featured image from the [Pure](https://github.com/sindresorhus/pure) repository</small></center>
 
@@ -80,7 +80,7 @@
 
 **注意:**我最初有些纠结，当我打开我的 Ubuntu 终端时，它会给出错误:`N/A: version "N/A" is not yet installed`经过一番搜索，我发现当我运行`nvm ls`时，它会列出 node 的已安装版本。在 lts 版本中，有几个“不适用”,因为它们没有安装。我安装了这些版本，它不再给我错误。
 
-[![Npm](../Images/911b6ffdb8e4c8dfff2533819290e3f9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hF2gjw4Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6pn7ypli7l8z1lui6jkv.png)T3】
+[![Npm](img/911b6ffdb8e4c8dfff2533819290e3f9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hF2gjw4Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6pn7ypli7l8z1lui6jkv.png)T3】
 
 <center><small>A global npm install of the [Angular CLI](https://cli.angular.io/) repository</small></center>
 
@@ -88,7 +88,7 @@
 
 作为安装 Node 的题外话，我想我应该提出我也安装了 [Yarn](https://yarnpkg.com/) ，因为我喜欢 Yarn。你可以通过 Windows 来安装它，但是同样，我正试图通过 WSL 来做我需要的一切，所以我遵循了 [Linux 安装说明](https://yarnpkg.com/en/docs/install#linux-tab)。当然，特别是 Ubuntu/Debian 指令。这进行得很顺利，而且我有纱线工作！
 
-[![Yarn](../Images/da64c747681d26058e6a73d399d5f283.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CBCOwiDj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gb0z3p3p6mzqfadmg9dt.png)T3】
+[![Yarn](img/da64c747681d26058e6a73d399d5f283.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CBCOwiDj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gb0z3p3p6mzqfadmg9dt.png)T3】
 
 <center><small>A yarn install working beautifully</small></center>
 
@@ -109,7 +109,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 重启终端后，我可以像平常一样调用 docker 和 docker-compose 命令！
 
-[![Docker](../Images/ac6514c58cebe88b19752f725967a083.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zPA83A-8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zywi8gdj24c2dvnxgp4a.png)T3】
+[![Docker](img/ac6514c58cebe88b19752f725967a083.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zPA83A-8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zywi8gdj24c2dvnxgp4a.png)T3】
 
 <center><small>Docker for Windows being run through my zsh shell using the alias</small></center>
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/gorvgoyl/run-debug-get-intellisense-for-c-c-in-vscode-4e0o>
 
-[![](../Images/b6c5d2bc519a8cbea437942b54e33c54.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EqVitqhI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aam2R0KHSgYdw8KOTPk37Hg.png)
+[![](img/b6c5d2bc519a8cbea437942b54e33c54.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EqVitqhI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aam2R0KHSgYdw8KOTPk37Hg.png)
 
 **你可以在我的博客[这里](https://gourav.io/blog/setup-vscode-to-run-debug-c-cpp-code)看更新的文章**
 
@@ -34,7 +34,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 1.  在 VSCode 中安装*推荐的* C/C++扩展，重新加载。
 
-<figure>[![](../Images/cc3931eb95dc4fc52f487514f28ae0ed.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1gsuKdM2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/960/1%2A4fKHWJcmJmdeG66ai2E9bQ.png) 
+<figure>[![](img/cc3931eb95dc4fc52f487514f28ae0ed.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1gsuKdM2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/960/1%2A4fKHWJcmJmdeG66ai2E9bQ.png) 
 
 <figcaption>官方 C/C++扩展为 VSCode</figcaption>
 
@@ -62,13 +62,13 @@ C/C++扩展**不包括**一个 C++编译器。因此，您将需要安装一个�
 
 如果我们第一次尝试调试，VSCode 可以创建并自动配置这些文件。为此，在 VSCode 中打开 C++文件，或者点击 **F5** 或者转到*调试- >开始调试*，选择 C++ (GDB/LLDB)，然后选择 g++。exe 生成并调试活动文件。
 
-<figure>[![](../Images/ca53f64504ea1a4d3763aaff58800945.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nIackaej--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/936/1%2An7-rARwPBxEwtLF3GW1Wvw.png) 
+<figure>[![](img/ca53f64504ea1a4d3763aaff58800945.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nIackaej--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/936/1%2An7-rARwPBxEwtLF3GW1Wvw.png) 
 
 <figcaption>选择 C++ (GDB/LLDB)</figcaption>
 
 </figure>
 
-<figure>[![](../Images/f6df1e4c3f9acd8726bd5ba96bc51b0a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wPMe79mo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/914/1%2AqBxW08EA-FbfCpptmibcNQ.png) 
+<figure>[![](img/f6df1e4c3f9acd8726bd5ba96bc51b0a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wPMe79mo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/914/1%2AqBxW08EA-FbfCpptmibcNQ.png) 
 
 <figcaption>选择 g++。exe 构建并调试活动文件</figcaption>
 
@@ -78,7 +78,7 @@ C/C++扩展**不包括**一个 C++编译器。因此，您将需要安装一个�
 
 请注意，我在 launch.json 中添加了一个可选配置 g++ build & run 活动文件，在 tasks.json 文件中添加了 g++ build & run，目的也是为了**在不调试**的情况下运行 C/C++代码。现在，您可以选择在开始调试时选择哪个配置。您可以删除不需要的配置。
 
-<figure>[![](../Images/315a2b54bf18c1939a1b8e9255d14b2b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iiEaQdww--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/559/1%2AzVnhLFwqnNg-kuaLhqDgow.png) 
+<figure>[![](img/315a2b54bf18c1939a1b8e9255d14b2b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iiEaQdww--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/559/1%2AzVnhLFwqnNg-kuaLhqDgow.png) 
 
 <figcaption>运行&调试或者只运行代码</figcaption>
 
@@ -185,7 +185,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 > *(调试快捷键:_ **_F5* ** *)*
 
-[![](../Images/7ccda51283931025011e7af9263f5b39.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ugJa1JWr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A9cwk-zFyRakslR73wVVTJg.png)
+[![](img/7ccda51283931025011e7af9263f5b39.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ugJa1JWr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A9cwk-zFyRakslR73wVVTJg.png)
 
 **提示**:隐藏*。在 VSCode 的侧面资源管理器中打开 settings 并粘贴下面的 config:
 

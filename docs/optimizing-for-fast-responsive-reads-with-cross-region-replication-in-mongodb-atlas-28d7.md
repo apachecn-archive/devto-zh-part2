@@ -16,7 +16,7 @@ MongoDB Atlas 客户可以实现跨区域复制，以实现多区域容错和快
 *   为地理上分散的用户启用本地读取。例如，来自加利福尼亚的用户可以从位于本地的副本中读取数据，以获得响应速度更快的体验
 *   在故障转移情况下，允许对数据库进行只读访问
 
-[![](../Images/f3906d8fc4ab29b73e8db0e692ab3702.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U-UUADr1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image5-vh6i7z8j0q.png)
+[![](img/f3906d8fc4ab29b73e8db0e692ab3702.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U-UUADr1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image5-vh6i7z8j0q.png)
 
 读取副本只是提供来自操作日志的复制数据的数据库的实例；客户端不会写入读取副本。
 
@@ -30,21 +30,21 @@ MongoDB Atlas 客户可以实现跨区域复制，以实现多区域容错和快
 
 当我们单击它时，会出现一个选项来选择我们想要的交叉复制类型。我们将选择 _ **部署只读副本** _:
 
-[![](../Images/c2fe13838b41603d305e31044dffcd40.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--McPaBlD_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image1-q7z5p2iagp.gif)
+[![](img/c2fe13838b41603d305e31044dffcd40.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--McPaBlD_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image1-q7z5p2iagp.gif)
 
 正如您在上面看到的，我们将首选区域(包含主副本集的区域)设置为 AWS，us-east-1(弗吉尼亚),默认有三个节点。我们可以根据我们认为应用程序的其他用户可能集中的位置，向集群配置中添加区域。在这种情况下，我们将在 us-west-1(北加利福尼亚)和 eu-west-1(爱尔兰)中添加额外的节点，为我们提供读取副本来服务本地用户。
 
 请注意，所有写入操作仍将在我们的首选区域中进行，从我们添加的区域中的辅助节点进行的读取操作将最终保持一致。
 
-[![](../Images/3835d3e874526389bddfd3f8c35c8ea7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--STsm451t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image4-l82awkjmnd.gif)
+[![](img/3835d3e874526389bddfd3f8c35c8ea7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--STsm451t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image4-l82awkjmnd.gif)
 
 我们将单击“确认并部署”，这将部署我们的多区域集群。
 
-[![](../Images/fd74757d68717f1c1208a1a1b75d00f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eNntX3OR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image3-tkhye8w0g6.png)
+[![](img/fd74757d68717f1c1208a1a1b75d00f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eNntX3OR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image3-tkhye8w0g6.png)
 
 我们的默认连接字符串现在将包括这些读取副本。我们可以转到“Connect”按钮，找到完整的连接字符串来访问我们的集群:
 
-[![](../Images/47e504c72b6bb963b2626e9fcf6dd7d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k9_4McTr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image2-fpoel33crq.png)
+[![](img/47e504c72b6bb963b2626e9fcf6dd7d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k9_4McTr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image2-fpoel33crq.png)
 
 当集群部署完成时，我们将准备好使用 MongoDB 驱动程序将应用程序的数据读取分布到多个区域。我们可以在连接字符串中专门配置 readPreference，以便将客户端发送到“最近的副本”。例如，[节点本地 MongoDB 驱动程序](https://mongodb.github.io/node-mongodb-native/index.html)允许我们指定我们的偏好:
 

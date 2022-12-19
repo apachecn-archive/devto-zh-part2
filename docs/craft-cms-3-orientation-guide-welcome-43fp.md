@@ -8,15 +8,15 @@
 
 安德鲁·韦尔奇
 
-[![Welcome To Craft Cms Orientation Guide](../Images/2fa820f09b0ad881b39efa90ea47bb3a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VL13cVMA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/welcome-to-craft-cms-orientation-guide.jpg)
+[![Welcome To Craft Cms Orientation Guide](img/2fa820f09b0ad881b39efa90ea47bb3a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VL13cVMA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/welcome-to-craft-cms-orientation-guide.jpg)
 
 ## 欢迎光临
 
 随着 [Craft CMS 3](http://craftcms.com/) 的发布，这个平台已经[在最近](http://trends.builtwith.com/cms/Craft)的流行城市成长，所以我们有很多新的平台人进入社区。
 
-[![Craft Cms Usage Trends](../Images/5f65e1e2a230e85d0da15ca377edee9a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yNcaro0X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x1020_crop_center-center_100_line/craft-cms-usage-trends.png)
+[![Craft Cms Usage Trends](img/5f65e1e2a230e85d0da15ca377edee9a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yNcaro0X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x1020_crop_center-center_100_line/craft-cms-usage-trends.png)
 
-[![Craft Cms Marketshare Gains](../Images/cdd1223493fb2f47472725d2109aaba1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VYGh6NgL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x589_crop_center-center_100_line/craft-cms-marketshare-gains.png)
+[![Craft Cms Marketshare Gains](img/cdd1223493fb2f47472725d2109aaba1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VYGh6NgL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x589_crop_center-center_100_line/craft-cms-marketshare-gains.png)
 
 本文旨在作为一个入门指南，帮助您了解什么是 Craft，您可能如何使用它，并了解 Craft 使用的所有程序。
 
@@ -28,7 +28,7 @@
 
 Craft CMS 3 是一个内容管理系统，由 Pix el & Ton ic 创建，它是为那些想从系统中得到更多东西的人而设计的。它遵循用于内容创作的管理后端和用于前端的服务器端托管内容的转换模型。
 
-[![Craft Cms Admin Cp](../Images/4096ce5a04805a24ccc03cc44acea772.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MPtoz4oY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x637_crop_center-center_100_line/craft-cms-admin-cp.png)
+[![Craft Cms Admin Cp](img/4096ce5a04805a24ccc03cc44acea772.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MPtoz4oY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x637_crop_center-center_100_line/craft-cms-admin-cp.png)
 
 Craft 使用 PHP(需要 7.0 或更高版本)作为基础语言，健壮的 Yii2 框架位于其上。然后，Craft 本身被*放置在*之上，提供内容模型、管理接口和一组 API，让您可以管理编辑内容的最新用户。
 
@@ -40,7 +40,7 @@ Craft 使用 PHP(需要 7.0 或更高版本)作为基础语言，健壮的 Yii2 
 
 与许多基于 API 的 CMS 不同，Craft 是自托管的，所以没有月费或使用费。参见文章[自由职业者应该如何做虚拟主机](https://dev.to/gaijinity/how-agencies-freelancers-should-do-web-hosting-ih4-temp-slug-5481912)来获得更多关于自主主机的信息。
 
-[![Craft Cms 3 Blank Canvas](../Images/3afef8dade3aaf6907ded4935da7858c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rw_Ry7uV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/craft-cms-3-blank-canvas.jpg)
+[![Craft Cms 3 Blank Canvas](img/3afef8dade3aaf6907ded4935da7858c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rw_Ry7uV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/craft-cms-3-blank-canvas.jpg)
 
 Craft 与其他此类 CMS 系统的不同之处在于其后端丰富的内容创作系统，以及本质上是一张空白画布的前端。
 
@@ -63,7 +63,7 @@ Craft CMS 中内容的基本构建模块包括:
 *   **关系**。所有元素都可以与其他元素相关联
 *   **可搜索的**。所有元素自动材质都可以对其内容进行索引，并且可以进行搜索
 
-[![Craft Cms Field Layout](../Images/77b1296c5391a1fb57352421f630be17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Yf6tf-vB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x754_crop_center-center_100_line/craft-cms-field-layout.png)
+[![Craft Cms Field Layout](img/77b1296c5391a1fb57352421f630be17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Yf6tf-vB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x754_crop_center-center_100_line/craft-cms-field-layout.png)
 
 在手工艺中，段落是用来组织你的作品的。部分可以是:
 
@@ -79,7 +79,7 @@ Craft 还具有强大的本地 iza tion、 [mul ti-lin gual 和 mul ti-site sup 
 
 你可以用 Craft 创建一个网站的一种方法是为你的内容作者创建一个灵活的“内容生成器”,但这并不是唯一的方法。在 Craft CMS 中创建内容生成器的[有一个使用矩阵块字段创建“内容生成器”的简单例子](https://dev.to/gaijinity/creating-a-content-builder-in-craft-cms-29ap-temp-slug-2753628)
 
-[![Craft Cms Live Preview](../Images/df3552227a13ac52151000e182565e52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UOB9M6E4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x733_crop_center-center_100_line/craft-cms-3-live-preview.png)
+[![Craft Cms Live Preview](img/df3552227a13ac52151000e182565e52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UOB9M6E4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x733_crop_center-center_100_line/craft-cms-3-live-preview.png)
 
 还为内容作者提供了一个实时预览，ecosys tem 中的一个强大的 plu g(带有一个存储的集成 plu g ),以及一个强大的[调试器/分析器](http://nystudio107.com/blog/profiling-your-website-with-craft-cms-3s-debug-toolbar)来帮助加速项目的开发。
 
@@ -89,7 +89,7 @@ Craft 还具有强大的本地 iza tion、 [mul ti-lin gual 和 mul ti-site sup 
 
 有句老话是这么说的:“使用合适的工具完成工作。”这是一个经久不衰的概念，因为它适用于从汽车、写作到选择内容管理系统(CMS)的每一件事情。Craft 也不例外。
 
-[![The Right Tool For The Job](../Images/f5b4539c9778ea9b25e461e522314afa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d1zuSsMu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/the-right-tool-for-the-job.jpg)
+[![The Right Tool For The Job](img/f5b4539c9778ea9b25e461e522314afa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d1zuSsMu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/the-right-tool-for-the-job.jpg)
 
 在最近的 inter view [Craft CMS 3 与 Pix el & Ton ic 创始人 Bran don Kel ly！](http://devmode.fm/episodes/craft-cms-3-with-pixel-tonic-founder-brandon-kelly)在[开发模式下。pixel&tonic 的首席执行官 FM](http://devmode.fm/)表示，对于需要简单网站的朋友来说，他从来没有修改过 Craft CMS。
 
@@ -117,7 +117,7 @@ Craft CMS 已经被用于创建各种东西，从名人网站到完整的电子�
 
 这篇文章只是你的观点；现在是时候开始学习 Craft CMS 了。这是我们教你如何钓鱼的地方。
 
-[![Craft Learning To Fish](../Images/3d7260a23aec3b8325f9b70ac3376162.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iM3ZTLg2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/craft-learning-to-fish.jpg)
+[![Craft Learning To Fish](img/3d7260a23aec3b8325f9b70ac3376162.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iM3ZTLg2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/craft-learning-to-fish.jpg)
 
 以下是一些我发现非常有用的资源:
 

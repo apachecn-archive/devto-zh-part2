@@ -6,7 +6,7 @@
 
 我决定最好的方法是在 Github repo 中创建一个持续增长的质数列表。我将使用 CircleCI 来计算下一个质数并更新列表。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [尼克拉夫罗夫](https://github.com/NickLavrov) / [圆周率素数](https://github.com/NickLavrov/circleci-primes)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [尼克拉夫罗夫](https://github.com/NickLavrov) / [圆周率素数](https://github.com/NickLavrov/circleci-primes)
 
 ### 使用 CircleCI 创建一个质数列表
 
@@ -14,7 +14,7 @@
 
 # 圆素数
 
-[![CircleCI](../Images/0c0779cab6ac862c996dd3ccf1f69d45.png)T2】](https://circleci.com/gh/NickLavrov/circleci-primes)
+[![CircleCI](img/0c0779cab6ac862c996dd3ccf1f69d45.png)T2】](https://circleci.com/gh/NickLavrov/circleci-primes)
 
 使用 CircleCI 创建一个质数列表！
 

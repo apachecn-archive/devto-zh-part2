@@ -14,7 +14,7 @@
 
 虽然她不想为她的小农场使用成熟(复杂)的农场管理应用程序而烦恼，但有一种简单的方法来跟踪在哪个月种植哪些种子将是一个很大的帮助。由此，我的简单应用程序——[蔬菜追踪器](https://veggie-tracker.herokuapp.com/)——诞生了！
 
-[![Veggie Tracker dashboard](../Images/e39ecc89f35fe28b747769d9230d5bb7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9KX64tGb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qme3xgoiqy2t1yu5k0f1.png)
+[![Veggie Tracker dashboard](img/e39ecc89f35fe28b747769d9230d5bb7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9KX64tGb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qme3xgoiqy2t1yu5k0f1.png)
 
 ## 入门
 
@@ -30,11 +30,11 @@
 
 我的第一次尝试以一种简单的方式连接了我的班级:
 
-[![First attempt at database schema](../Images/f6ed62ae9109f19409add9e2cae41eef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HiluMp2P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u9kdzoqcfcuuvwdw1zno.png)
+[![First attempt at database schema](img/f6ed62ae9109f19409add9e2cae41eef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HiluMp2P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u9kdzoqcfcuuvwdw1zno.png)
 
 然而，在用户拥有多个农场，并且某些蔬菜种植在多个农场的情况下，这种数据库模式并不是很好，因为这些蔬菜只能属于一个农场。我必须在允许我处理这种情况的数据透视表中工作，所以我像这样重构了我的模式:
 
-[![Refactor of database schema](../Images/9ff5197d82b3c89fed62a2f94dad4909.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WG8MM9wT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iuqp51uyxjm8fptz2v2n.png)
+[![Refactor of database schema](img/9ff5197d82b3c89fed62a2f94dad4909.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WG8MM9wT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iuqp51uyxjm8fptz2v2n.png)
 
 我真的想通过农场来保存与用户相关的蔬菜，但是在实现了数据透视表之后，我无法让它正常工作:/
 

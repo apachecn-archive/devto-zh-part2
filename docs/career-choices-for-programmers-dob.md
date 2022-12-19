@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/aviaryan/career-choices-for-programmers-dob>
 
-[![cover image](../Images/409975461489cc62f2e01e30dd345ce7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D5xVT0Az--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.us-east-2.amazonaws.com/devletters/covers/programmer.jpeg)
+[![cover image](img/409975461489cc62f2e01e30dd345ce7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D5xVT0Az--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.us-east-2.amazonaws.com/devletters/covers/programmer.jpeg)
 
 > 首次发布于 [Dev Letters](https://devletters.com/letters/career-choices-programmer/)
 

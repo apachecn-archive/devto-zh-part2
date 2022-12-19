@@ -18,7 +18,7 @@
 
 它也可以在 Github 上获得:
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) [ Luc45 ](https://github.com/Luc45) / [组织-按日期下载-Chrome-扩展](https://github.com/Luc45/Organize-Downloads-by-Date-Chrome-Extension)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) [ Luc45 ](https://github.com/Luc45) / [组织-按日期下载-Chrome-扩展](https://github.com/Luc45/Organize-Downloads-by-Date-Chrome-Extension)
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 

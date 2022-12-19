@@ -4,7 +4,7 @@
 
 SVG 很酷。他们扩大规模。它们按比例缩小。有时候他们会在你睡觉的时候杀了你，但是你知道，必要的邪恶之类的。
 
-[![](../Images/0eba2425903518299ee8725f6cfdf104.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zDRyHINh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A7I6hcXUXbAxL5Uzn.) 
+[![](img/0eba2425903518299ee8725f6cfdf104.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zDRyHINh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A7I6hcXUXbAxL5Uzn.) 
 
 <figcaption>照片由[诺德伍德主题](https://unsplash.com/@nordwood?utm_source=medium&utm_medium=referral)上 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)</figcaption>
 
@@ -20,7 +20,7 @@ SVG 或可缩放矢量图形是基于 XML 的图像格式，可以缩放到任�
 
 自己构建 SVG 也更复杂。因为它们是用 XML 构造的，所以创建一个比存储像素数据的等效光栅图像更难。
 
-[![](../Images/583c39d7612b8b190a6f29f648dd77bd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LY0v9HmD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/915/1%2ACzphHhXBsKbTdOekRdngvg.png) 
+[![](img/583c39d7612b8b190a6f29f648dd77bd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LY0v9HmD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/915/1%2ACzphHhXBsKbTdOekRdngvg.png) 
 
 <figcaption>缩放——光栅 vs 矢量</figcaption>
 

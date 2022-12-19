@@ -76,4 +76,4 @@ programs:
 
 下面是最终结果:
 
-[![](../Images/f8cec5bc04dbbe2dd700aaf185da8727.png)T2】](http://www.streppone.it/cosimo/blog/wp-content/uploads/2018/07/20180627_202625.jpg)
+[![](img/f8cec5bc04dbbe2dd700aaf185da8727.png)T2】](http://www.streppone.it/cosimo/blog/wp-content/uploads/2018/07/20180627_202625.jpg)

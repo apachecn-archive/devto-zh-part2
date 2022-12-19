@@ -12,7 +12,7 @@
 
 # 配置任务
 
-[![img](../Images/41e278f25657fa6de3c7394941726fd3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9WNRid2E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/meanin/vsts-tasks/master/screenshots/seedtablestorage.png)
+[![img](img/41e278f25657fa6de3c7394941726fd3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9WNRid2E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/meanin/vsts-tasks/master/screenshots/seedtablestorage.png)
 
 要使用此任务，您必须拥有一个配置了服务主体的[Azure 资源管理器连接。设置要植入的存储帐户名和表名。选择 JSON 文件位置。该文件必须是一个平面对象的 JArray，每个对象至少包含两个属性:PrimaryKey 和 RowKey。
 这里有一个小例子:](https://docs.microsoft.com/en-us/azure/devops/pipelines/library/service-endpoints?view=vsts#sep-azure-rm) 
@@ -45,6 +45,6 @@
 ```
 
 发布后，带有数据的表格如下:
-[![img](../Images/4fdaac4b88c804ea1ac0bd299ee4898b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jw0N_LpM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/meanin/dev-to-articles/master/img/2018-mm-dd-seed-table-storage/seed-table.png)
+[![img](img/4fdaac4b88c804ea1ac0bd299ee4898b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jw0N_LpM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/meanin/dev-to-articles/master/img/2018-mm-dd-seed-table-storage/seed-table.png)
 
 这是该任务的第一个发布版本。我将感谢所有的反馈:)

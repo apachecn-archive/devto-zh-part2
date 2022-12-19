@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/rileyvaness/how-was-it-when-you-started-to-code-3j0m>
 
-[![Alt text of image](../Images/5b34a3dac0c6d877a5905ef190ab7a61.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H3DA5SkL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fn9o034060rcd3bz3ajt.jpeg)
+[![Alt text of image](img/5b34a3dac0c6d877a5905ef190ab7a61.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H3DA5SkL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fn9o034060rcd3bz3ajt.jpeg)
 
 # 学习编程
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/acro5piano/braintree-minimum-example-3b2m>
 
-[![image.png](../Images/360a9750958af170cdd4e890429a8b37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EZs7UUTE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/npiu494797ky06ir4nz0.png)
+[![image.png](img/360a9750958af170cdd4e890429a8b37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EZs7UUTE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/npiu494797ky06ir4nz0.png)
 
 # TL；博士；医生
 
@@ -46,6 +46,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 然后打开`index.html`就可以看到 braintree 屏幕。
 
-![image.png](../Images/d90f10b064e44091d6f12d0120685f41.png)[https://github . com/acro 5 piano/learn-paypal-brain tree](https://github.com/acro5piano/learn-paypal-braintree)
+![image.png](img/d90f10b064e44091d6f12d0120685f41.png)[https://github . com/acro 5 piano/learn-paypal-brain tree](https://github.com/acro5piano/learn-paypal-braintree)
 
 谢谢！

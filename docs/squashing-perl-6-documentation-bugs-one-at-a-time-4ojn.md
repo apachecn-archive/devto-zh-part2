@@ -4,7 +4,7 @@
 
 每月一次的社区 bug SQUASHathon 将于明天欧洲中部时间 11 点开始。而*你*可以帮忙。
 
-[![Nasty bugs](../Images/7b1bd0f5c2d98d56a5bcda1903cdd370.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tD5A3YeN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tjte82wr6dynmq2c27hy.jpg)
+[![Nasty bugs](img/7b1bd0f5c2d98d56a5bcda1903cdd370.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tD5A3YeN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tjte82wr6dynmq2c27hy.jpg)
 
 ## 虫子是讨厌的东西
 
@@ -45,7 +45,7 @@
 
 如果你这样做，那就太好了。你将帮助 Camelia 和整个自由软件社区。
 
-[![Beautiful camelia](../Images/18a7ea491f708bbe1482d71f63823a2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FGRI3OgD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/curepuygdjb232b6br6e.jpg)
+[![Beautiful camelia](img/18a7ea491f708bbe1482d71f63823a2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FGRI3OgD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/curepuygdjb232b6br6e.jpg)
 
 ## 我*真的*没时间，但我还是想帮忙。我这周末有场复仇者联盟马拉松...
 

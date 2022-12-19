@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/scalegrid/digital-transformation-it-all-starts-with-data-thinking-2ni4>
 
-[![](../Images/c208c6c4e6ca611802cb9b1b97933299.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WTzuQxb2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mongodb.scalegrid.io/hubfs/Digital-Transformation-It-All-Starts-With-Data-Thinking-ScaleGrid-Blog-493336-edited.jpg)
+[![](img/c208c6c4e6ca611802cb9b1b97933299.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WTzuQxb2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mongodb.scalegrid.io/hubfs/Digital-Transformation-It-All-Starts-With-Data-Thinking-ScaleGrid-Blog-493336-edited.jpg)
 
 每隔几年，技术模式和数字杠杆都会发生范式转变。最近是数字颠覆的时代，这是因为组织需要进行数字化转型才能在竞争中生存。物联网(IoT)、人工智能、机器人流程自动化、机器学习和区块链等新技术平台和服务已经开始产生红利，丰富了数字化转型之旅，并创造了新的摇滚明星:数据。甚至像首席数据官、首席数字官之类的 rew 角色也突然出现来驾驭数据的力量。
 

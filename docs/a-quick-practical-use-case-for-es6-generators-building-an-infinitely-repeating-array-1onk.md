@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/sreisner/a-quick-practical-use-case-for-es6-generators-building-an-infinitely-repeating-array-1onk>
 
-[![](../Images/0872b04194a042c2a37131ec4895871f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_nzSaA-V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6mytns4vyiea6h7gtsew.png)
+[![](img/0872b04194a042c2a37131ec4895871f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_nzSaA-V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6mytns4vyiea6h7gtsew.png)
 
 ### 前言
 

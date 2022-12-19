@@ -21,7 +21,7 @@
 
 ### 斗争是真实的
 
-[![Struggle](../Images/c08842876eea404105ca540afc8d14c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TuZm0Up5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://media.comicbook.com/2017/05/anime-streaming-computer-994731.png)
+[![Struggle](img/c08842876eea404105ca540afc8d14c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TuZm0Up5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://media.comicbook.com/2017/05/anime-streaming-computer-994731.png)
 
 你知道你喜欢什么时候得到什么吗？你的头脑中有一个火花点燃了，然后你得到了它，你掌握了那项技能我还没有到达那里，但我真的想到达那里。
 

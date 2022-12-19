@@ -8,7 +8,7 @@
 
 如果你简单地打开控制台，在 Azure 门户添加 NPM 模块是非常简单的。这是在屏幕的底部:
 
-[![Screen Shot](../Images/c9570744ef0667d5187ed6553960e2a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k225js-7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/09/az1.png)
+[![Screen Shot](img/c9570744ef0667d5187ed6553960e2a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k225js-7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/09/az1.png)
 
 这是一个和其他终端一样的控制台，我只需输入`npm i X`就可以安装我需要的任何软件包。NPM 抱怨丢失了一个 package.json，我想我可以先创建它，但是它运行得足够好，所以我不去管它。
 
@@ -22,7 +22,7 @@
 
 在我看来，在 Azure Functions 中使用这一功能的最佳方式是通过应用程序设置。我之前提到过这个，但是 Azure Functions 做的一件事就是把你的函数分组到一个应用程序中。我越用这个，就越喜欢。这似乎是将无服务器功能组合在一起的一种很好的逻辑方式。Azure 的一个特点是能够指定不同的应用程序级别变量。您可以在 UI 中点击应用程序的根节点，然后简单地向下滚动到变量列表。你可以添加或编辑你认为合适的。
 
-[![Application Settings](../Images/c732c0b0f3123a643df5384f8ceb289f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OfAlBo3R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/09/az2a.png)
+[![Application Settings](img/c732c0b0f3123a643df5384f8ceb289f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OfAlBo3R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/09/az2a.png)
 
 在上面的截屏中，希望你能找出一些以`twitter_`开头的变量，这些是我为我的应用程序定制的值。添加后，您可以通过`process.env.X`引用它们，其中“X”是设置的名称。
 
@@ -30,11 +30,11 @@
 
 我必须敲定的最后一件事是安排 CORS。我已经创建了一个匿名端点(详见我博客文章[这里](https://dev.to/raymondcamden/http-stuff-with-azure-functions-and-more-pbn-temp-slug-7386639))，但是 CORS 是通过“平台设置”完成的:
 
-[![Platform Settings](../Images/049cfd613bc2d442ee179507fa1dfdd4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wCEg1waE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/09/az3.jpg)
+[![Platform Settings](img/049cfd613bc2d442ee179507fa1dfdd4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wCEg1waE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/09/az3.jpg)
 
 这将打开一个面板，您可以在其中配置允许哪些主机进行远程 HTTP 调用(无论如何通过浏览器)。在我的例子中，我将它设置为`*`以使它尽可能简单。
 
-[![CORS Panel](../Images/f9f8171ab3080c5a3e3e0dc0597110b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zLO9VW8L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/09/az4.jpg)
+[![CORS Panel](img/f9f8171ab3080c5a3e3e0dc0597110b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zLO9VW8L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/09/az4.jpg)
 
 好吧——最后——我到底造了什么？
 
@@ -147,7 +147,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 基本上，我只是基于查询字符串值运行我的无服务器 API，并将结果添加到显示代码使用的数组中。我很快通过 Surge 把它发到网上，你可以在这里看到它:[http://black-and-white-frog.surge.sh/?account=oneperfectshot](http://black-and-white-frog.surge.sh/?account=oneperfectshot) 。如果您想尝试另一个帐户，只需更改最后的变量。很有可能我超出了我的 API 限制，这里有一个截图:
 
-[![Demo results](../Images/c25fb0739239f3bafeeb3e9167e8890e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0cA-p3Bl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/09/az5.jpg)
+[![Demo results](img/c25fb0739239f3bafeeb3e9167e8890e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0cA-p3Bl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/09/az5.jpg)
 
 ### 总结起来
 

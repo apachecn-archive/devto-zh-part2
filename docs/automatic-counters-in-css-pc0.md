@@ -29,7 +29,7 @@
 [https://codepen.io/ojanti/embed/QqOYgB/?default-tab=html,result&amp;embed-version=2%20?height=500&default-tab=result&embed-version=2](https://codepen.io/ojanti/embed/QqOYgB/?default-tab=html,result&amp;embed-version=2%20?height=500&default-tab=result&embed-version=2)
 现在到我最喜欢的部分。这在设计中有多大用处。你可以使用 css 计数器来创建漂亮的组件，就像我创建的这个。
 
-[![My CSS Counter example](../Images/881e535000d0fbc9eaeae504e1070bbd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0OU6IxJy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://ojanti.com/assets/img/uploads/css_counters_example.jpg)
+[![My CSS Counter example](img/881e535000d0fbc9eaeae504e1070bbd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0OU6IxJy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://ojanti.com/assets/img/uploads/css_counters_example.jpg)
 
 任何有经验的(或成长中的)UI 架构师都知道，保持界面的标记代码尽可能干净是最佳实践。在上面的例子中使用 CSS 计数器更有意义，因为；
 

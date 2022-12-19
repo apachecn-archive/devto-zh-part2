@@ -6,7 +6,7 @@
 
 如果有人对所用的文件结构有疑问，它将遵循应用于计算机终端的“tree”命令的输出。
 
-[![Terminal](../Images/b5806c6126c73ad39f753016efac08f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AfcpinEA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fr138x1bdk8jnb1sn84h.png)
+[![Terminal](img/b5806c6126c73ad39f753016efac08f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AfcpinEA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fr138x1bdk8jnb1sn84h.png)
 
 ## HTML 代码
 

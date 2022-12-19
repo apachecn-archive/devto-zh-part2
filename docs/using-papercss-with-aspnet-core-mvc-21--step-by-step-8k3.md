@@ -26,7 +26,7 @@ UPD:你可以在这里找到这篇文章的第二部分。
 5.  在**新 ASP.NET 核心 Web 应用**窗口中，确保选择顶部的**ASP.NET 核心 2.1**；
 6.  对于这个演示，我选择 Web 应用程序(MVC)的**无认证**和**配置为 HTTPS** 。
 
-[![New Project Screen](../Images/ce84622f0c918195b0efb329c7affe2d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s0WJtVGV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8i0zr8gt4e10dv9c87gh.png)
+[![New Project Screen](img/ce84622f0c918195b0efb329c7affe2d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s0WJtVGV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8i0zr8gt4e10dv9c87gh.png)
 
 ### 第二步:替换 CSS 框架。
 

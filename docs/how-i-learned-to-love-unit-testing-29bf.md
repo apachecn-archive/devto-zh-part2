@@ -12,7 +12,7 @@
 
 这些元素在我内心制造了如此的困惑和悲伤，以至于我在专业软件开发的早期没有做多少(成功的)单元测试。
 
-[![Home Simpson GIF - My life is ruined](../Images/8cfaf355dc7621dd684185e43cfca620.png)T2】](https://i.giphy.com/media/3o6MbtCPDaE3KSSrN6/giphy.gif)
+[![Home Simpson GIF - My life is ruined](img/8cfaf355dc7621dd684185e43cfca620.png)T2】](https://i.giphy.com/media/3o6MbtCPDaE3KSSrN6/giphy.gif)
 
 对我来说，编程是，而且永远应该是有趣的！软件开发就像建筑，除了无限制的撤销、无限制的材料、X 射线视觉和由 unobtainium 制成的工具——你可以在眨眼之间做出任何你想要的东西，并随时改变它。编程是富有表现力的、快乐的和令人满意的。我认为，单元测试剥夺了我的这些快乐。
 
@@ -24,7 +24,7 @@
 
 现在是 2015 年。我在业余时间写了一个游戏自娱自乐。在这个游戏中，航天器可以组建和解散舰队，但这个功能是一个烂摊子。在游戏测试中，舰队会意外地无法形成、无法解散、成长和缩小...我需要某种方法来全面测试这些代码路径，而不是以科学的严谨态度亲自尝试每一个选项。我突然意识到单元测试实际上是答案。
 
-[![Source code of unit tests for some space ships](../Images/6b6856d556d72cc0535d718365f0aa11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5_R7gDZO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mj109q7r6dj9ffqe1b7t.PNG)
+[![Source code of unit tests for some space ships](img/6b6856d556d72cc0535d718365f0aa11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5_R7gDZO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mj109q7r6dj9ffqe1b7t.PNG)
 
 我已经尝到了单元测试的有用性。在这个过程中，我甚至写了一个简单的 mock 一些能为我提供对象而不是用户输入数据的东西。测试这个项目是一次愉快而轻松的经历，因为:
 
@@ -49,11 +49,11 @@
 
 大约在这个时候，我还注意到 GitHub 上有数百个 NPM 包的酷孩子会自豪地在每个项目的首页显示自动生成的徽章，宣称“__%覆盖率”。他们把单元测试覆盖的代码行的比例游戏化了，这很吸引我！
 
-[![Badges on the front page of a GitHub repo](../Images/0af9e70ec6cf7ce106ea8c6faff9ab3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cqD0eWKb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qtku6j27vbc8h8rurlp8.PNG)
+[![Badges on the front page of a GitHub repo](img/0af9e70ec6cf7ce106ea8c6faff9ab3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cqD0eWKb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qtku6j27vbc8h8rurlp8.PNG)
 
 突然间，单元测试不仅有用，而且很酷。
 
-> ![Ste Griffiths profile image](../Images/dfbb208bcacee2c0ea23e36c39d92a9a.png)Ste Griffiths[@ stegriff](https://dev.to/stegriff)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)酷黑客，2007:从此 FTP 酷黑客下载我的 leet 无证 Python 脚本 2017:我的 npm 模块有 100%测试覆盖率17:25PM-03 2017 年 1 月[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=816334726940229632)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=816334726940229632)
+> ![Ste Griffiths profile image](img/dfbb208bcacee2c0ea23e36c39d92a9a.png)Ste Griffiths[@ stegriff](https://dev.to/stegriff)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)酷黑客，2007:从此 FTP 酷黑客下载我的 leet 无证 Python 脚本 2017:我的 npm 模块有 100%测试覆盖率17:25PM-03 2017 年 1 月[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=816334726940229632)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=816334726940229632)
 
 #### 单元测试灌输美
 
@@ -78,4 +78,4 @@
 
 整合自[乡村软件](https://villagesoftware.co.uk/blog/how-i-learned-to-love-unit-testing/)
 
-[![Geordie thumbs up](../Images/d4ae24d214c45ff08df0d173f28ad50f.png)T2】](https://i.giphy.com/media/n7C5DOuH1m0iA/giphy.gif)
+[![Geordie thumbs up](img/d4ae24d214c45ff08df0d173f28ad50f.png)T2】](https://i.giphy.com/media/n7C5DOuH1m0iA/giphy.gif)

@@ -58,4 +58,4 @@ JavaScript 的成功让互联网充满了低入门水平的资源、介绍和教
 
 ### [防御性编程与可靠性。NASA 事后软件的分析。](https://coder.today/nasa-coding-standards-defensive-programming-and-reliability-a-postmortem-static-analysis-832d0f146b6f)
 
-[![](../Images/799223eea7259ea3573c5f88de9f154a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LwZgR0RD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2560/1%2AgGB1I0XqPtpwGkaXm8L8kw.jpeg)
+[![](img/799223eea7259ea3573c5f88de9f154a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LwZgR0RD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2560/1%2AgGB1I0XqPtpwGkaXm8L8kw.jpeg)

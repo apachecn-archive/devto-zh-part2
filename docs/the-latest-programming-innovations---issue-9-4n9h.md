@@ -4,7 +4,7 @@
 
 由 [Jexia 专家](https://www.getrevue.co/profile/jexia?utm_campaign=Issue&utm_content=topprofilename&utm_medium=email&utm_source=Programming+Innovations)每月简讯第 9 期[免费订阅此处](https://www.getrevue.co/profile/jexia)
 
-![](../Images/300bef9b2710482277bf178d3a55e522.png)![](../Images/3ccf3b473ac99e5fd3819c3b4a4fa0ba.png)
+![](img/300bef9b2710482277bf178d3a55e522.png)![](img/3ccf3b473ac99e5fd3819c3b4a4fa0ba.png)
 
 **深入研究软件工程。导致新的工具、方法和系统。[杰夏](https://www.jexia.com)专家工程师[乔尔·布莱恩·胡利亚诺](https://www.linkedin.com/in/joeljuliano/)和[马克·盖勒](https://www.linkedin.com/in/mark-geller-4b859676/)为您提供最新文章。**
 
@@ -92,4 +92,4 @@ Adobe 研究人员 Vlad 应用人工智能和机器学习来更容易、可靠�
 
 ## 最后，Mark 分享了一些额外的智慧:
 
-[![](../Images/0d224645271b7f4fadd052575bde4a7a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DqNx2tOq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/revue/items/images/003/148/925/original/Jexia-Mark.jpg%3F1530197734)
+[![](img/0d224645271b7f4fadd052575bde4a7a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DqNx2tOq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/revue/iteimg/003/148/925/original/Jexia-Mark.jpg%3F1530197734)

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/straleb/creating-a-3d-object-using-a-nes-catridge-as-an-example-2j35>
 
-[![alt text](../Images/74674ebd7f96c20f9144a0e5e7a556f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iayVfLdl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/27luep5dmwvj6z2dkbwa.jpg)
+[![alt text](img/74674ebd7f96c20f9144a0e5e7a556f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iayVfLdl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/27luep5dmwvj6z2dkbwa.jpg)
 
 很长一段时间，我一直计划写一篇关于某事的文章，我不知道该写什么。最近，我看到了几个由 Web 开发人员完成的关于 3D 对象的帖子，所以我决定自己做一个项目，并以 NES 墨盒为例分享我创建 3D 对象的方法。我用过的游戏封面是 1988 年卡普空出品的游戏《超级男人 2 》,是系列中最著名的游戏之一。
 
@@ -14,7 +14,7 @@
  <div id="wrapper">
       <div class="catridge">
     <section class="front">
-    <img src="http://www.mobygames.com/images/covers/l/43085-mega-man-2-nes-front-cover.jpg" 
+    <img src="http://www.mobygames.cimg/covers/l/43085-mega-man-2-nes-front-cover.jpg" 
 alt="nes cover"
       id="cover-pic" >
 <span class="triangle-down"></span>
@@ -108,7 +108,7 @@ li{
 Enter fullscreen mode Exit fullscreen mode
 
 最后的造型和调教变成了这样:
-[![alt text](../Images/234ef26001329780750a51fe6066c5a6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--41hzSIM9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/co17grerslrt2ydpavmv.png)
+[![alt text](img/234ef26001329780750a51fe6066c5a6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--41hzSIM9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/co17grerslrt2ydpavmv.png)
 
 当首页的成形完成后，剩下的一件事就是在 z 轴上成形墨盒的侧面。如果你想要一个关于 3D 物体的更详细的解释，我强烈推荐你去查看 CSS 和 JS 中的 3D 爬虫头部动画。作者 Yann Prono，他的文章极大地启发了我尝试 3D 物体创作。
 

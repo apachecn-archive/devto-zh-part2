@@ -10,16 +10,16 @@
 
 输入文本在预期文本的位置显示一个空白方块。这是一个非常常见的元素，在大多数情况下，呈现一个被彩色边框包围的白色元素。在里面添加一个占位符文本，在外面加上一个标签，这是一个很好的做法。
 
-[![Screen-Shot-on-May-4th-at-04_34-PM](../Images/e2d481700e0b61efa2b0eb4d72f75479.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ehvTDj1r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/05/Screen-Shot-on-May-4th-at-04_34-PM.png) 
+[![Screen-Shot-on-May-4th-at-04_34-PM](img/e2d481700e0b61efa2b0eb4d72f75479.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ehvTDj1r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/05/Screen-Shot-on-May-4th-at-04_34-PM.png) 
 *默认输入文本*
 
-[![Screen-Shot-on-May-7th-at-10_24-AM](../Images/6e64cbcbb2086d12f27021e689aa860d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OBYwVrVW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/05/Screen-Shot-on-May-7th-at-10_24-AM.png) 
+[![Screen-Shot-on-May-7th-at-10_24-AM](img/6e64cbcbb2086d12f27021e689aa860d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OBYwVrVW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/05/Screen-Shot-on-May-7th-at-10_24-AM.png) 
 *默认输入文本处于焦点状态*
 
-[![Screen-Shot-on-May-7th-at-09_50-AM](../Images/6b06b8bb19bde1ae965d7be9b7122f15.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pARNOIsK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/05/Screen-Shot-on-May-7th-at-09_50-AM.png) 
+[![Screen-Shot-on-May-7th-at-09_50-AM](img/6b06b8bb19bde1ae965d7be9b7122f15.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pARNOIsK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/05/Screen-Shot-on-May-7th-at-09_50-AM.png) 
 *默认占位符文本*
 
-[![Screen-Shot-on-May-8th-at-10_57-AM](../Images/d138fed181014944db9ab6f9f9cc2931.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mOaBZGQy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/05/Screen-Shot-on-May-8th-at-10_57-AM.png) 
+[![Screen-Shot-on-May-8th-at-10_57-AM](img/d138fed181014944db9ab6f9f9cc2931.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mOaBZGQy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/05/Screen-Shot-on-May-8th-at-10_57-AM.png) 
 *默认自动填充状态*
 
 为了给输入添加想要的样式，有几个标准选项和几个特殊选项。**如果输入有一个标签，它被添加到输入旁边的`label`元素中，它的`for`属性与链接的输入元素的`id`属性具有相同的值。**标签元素的样式可以像标准的 HTML 文本元素一样。
@@ -60,7 +60,7 @@
 
 ### 结果:
 
-[![Screen-Shot-on-May-7th-at-10_58-AM](../Images/aa62ab93b53eea5de355b5c87e49065b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TjlnCe4q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/05/Screen-Shot-on-May-7th-at-10_58-AM.png)
+[![Screen-Shot-on-May-7th-at-10_58-AM](img/aa62ab93b53eea5de355b5c87e49065b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TjlnCe4q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/05/Screen-Shot-on-May-7th-at-10_58-AM.png)
 
 ## 焦点状态
 
@@ -88,7 +88,7 @@
 
 ### 结果:
 
-[![Screen-Shot-on-May-7th-at-03_39-PM](../Images/fba2265b3da0d6bdaa95d752c6ade8df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XD_MuX9Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/05/Screen-Shot-on-May-7th-at-03_39-PM.png)
+[![Screen-Shot-on-May-7th-at-03_39-PM](img/fba2265b3da0d6bdaa95d752c6ade8df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XD_MuX9Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/05/Screen-Shot-on-May-7th-at-03_39-PM.png)
 
 在这种情况下(以及任何其他情况下),添加一个[过渡](https://kolosek.com/css-transition/)是个不错的主意！).
 
@@ -108,7 +108,7 @@ Webkit 浏览器提供了一种设置，允许用户自动填写常见表单字�
 
 ### 结果:
 
-[![Screen-Shot-on-May-7th-at-11_45-AM](../Images/08680b63cddfa2e0d339039f287ba489.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DUSP_fyE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/05/Screen-Shot-on-May-7th-at-11_45-AM.png)
+[![Screen-Shot-on-May-7th-at-11_45-AM](img/08680b63cddfa2e0d339039f287ba489.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DUSP_fyE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/05/Screen-Shot-on-May-7th-at-11_45-AM.png)
 
 ## 验证状态
 
@@ -130,7 +130,7 @@ Webkit 浏览器提供了一种设置，允许用户自动填写常见表单字�
 
 ### 结果:
 
-[![validation-examples--1-](../Images/5dbce93f1d66df72a5fe7ca9059fa1f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xmI0WJrb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/05/validation-examples--1-.png)
+[![validation-examples--1-](img/5dbce93f1d66df72a5fe7ca9059fa1f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xmI0WJrb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/05/validation-examples--1-.png)
 
 ## 额外提示
 
@@ -146,12 +146,12 @@ border-radius: 0;
   
 好例子
 
-[![input text example](../Images/54fc1652eb0f46a1e3c8bb8f67e27801.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--69S9Dqax--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.dribbble.com/users/3375/screenshots/1684401/newsletter-animation-final.gif)
-[![input text example](../Images/c7424fbe3c3de79e1d1e4b2000becfa8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7Sem5R_p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://kolosek.com/content/images/2018/05/derna-form-orange.gif)
-[![input text example](../Images/5b115ab117f4aa048b3ae466fe28744b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TDswEvP9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://kolosek.com/content/images/2018/05/payment-1.gif)
-[![input text example](../Images/3725d8b955c4f4c08e37ca9b7e137db9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VdBUoCMn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/05/fb_d_signup.png)
-[![input text example](../Images/815dfd07aba3deef6ca9855f6a3bf847.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZI7Vm-1o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.dribbble.com/users/941294/screenshots/4537544/sign_up_2.png)
-[![gif input text example](../Images/c7ec7d1ffea5f6f8d68764911ec04f2d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0AIA9_HV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.dribbble.com/users/1172503/screenshots/4505740/login-form.gif)
+[![input text example](img/54fc1652eb0f46a1e3c8bb8f67e27801.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--69S9Dqax--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.dribbble.com/users/3375/screenshots/1684401/newsletter-animation-final.gif)
+[![input text example](img/c7424fbe3c3de79e1d1e4b2000becfa8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7Sem5R_p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://kolosek.com/conteimg/2018/05/derna-form-orange.gif)
+[![input text example](img/5b115ab117f4aa048b3ae466fe28744b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TDswEvP9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://kolosek.com/conteimg/2018/05/payment-1.gif)
+[![input text example](img/3725d8b955c4f4c08e37ca9b7e137db9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VdBUoCMn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/05/fb_d_signup.png)
+[![input text example](img/815dfd07aba3deef6ca9855f6a3bf847.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZI7Vm-1o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.dribbble.com/users/941294/screenshots/4537544/sign_up_2.png)
+[![gif input text example](img/c7ec7d1ffea5f6f8d68764911ec04f2d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0AIA9_HV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.dribbble.com/users/1172503/screenshots/4505740/login-form.gif)
 [T25】](https://res.cloudinary.com/practicaldev/image/fetch/s--ud__Wa5---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.dribbble.com/users/1706197/screenshots/4475408/daily_ui_2.jpg)
 
 ## 关闭字

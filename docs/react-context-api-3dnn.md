@@ -179,7 +179,7 @@ export const CounterContext = createContext({
 
 这样，我想如下画面所示，计数器 APP 将显示在浏览器中并动作。
 
-[![デモ画面](../Images/9639d7c4e5a28bd3a3f086af892a2db9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qN_5aDxp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4n72h8my8bcnp6fh9gyl.gif)
+[![デモ画面](img/9639d7c4e5a28bd3a3f086af892a2db9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qN_5aDxp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4n72h8my8bcnp6fh9gyl.gif)
 
 ## 源代码
 

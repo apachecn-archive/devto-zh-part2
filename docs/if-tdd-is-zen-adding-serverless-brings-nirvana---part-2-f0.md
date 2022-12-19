@@ -8,7 +8,7 @@
 
 如果您还没有，我强烈建议您先阅读第 1 部分，一旦您满意了，就回来。
 
-[![ledfusion image](../Images/5da4901e4d20c721fe1b55ef53f0c951.png)](/ledfusion) [## 如果 TDD 是 Zen，那么添加无服务器带来了涅槃
+[![ledfusion image](img/5da4901e4d20c721fe1b55ef53f0c951.png)](/ledfusion) [## 如果 TDD 是 Zen，那么添加无服务器带来了涅槃
 
 ### Jordi Moraleda
 

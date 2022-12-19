@@ -23,7 +23,7 @@
 
 ## 任务
 
-[![program flow](../Images/c40f22b0c479463f2763d7f3ecdfbe33.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZPUtoqL6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://picostitch.com/blog/2017/03/discover-extract-dependencies/load-student-flow.png)
+[![program flow](img/c40f22b0c479463f2763d7f3ecdfbe33.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZPUtoqL6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://picostitch.com/blog/2017/03/discover-extract-dependencies/load-student-flow.png)
 
 *loadStudent 函数流*
 

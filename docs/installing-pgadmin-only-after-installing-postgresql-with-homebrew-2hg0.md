@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/letsbsocial1/installing-pgadmin-only-after-installing-postgresql-with-homebrew-2hg0>
 
-[![pgAdmin](../Images/19daf121f3832d24d78ef1712d03df33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZyKE2tRq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lr6cl6v735pxx42x6uln.png)
+[![pgAdmin](img/19daf121f3832d24d78ef1712d03df33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZyKE2tRq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lr6cl6v735pxx42x6uln.png)
 
 本帖于 2018 年 6 月 15 日*首次发表于我的[开发者博客](http://www.mariadcampbell.com/)。*
 

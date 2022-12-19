@@ -4,11 +4,11 @@
 
 # ES6 模块和 HTML 中的声明性依赖
 
-[![Cables](../Images/c5926e3bf59d4462db17068ef9abf6b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EcU2a2I6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/750/1%2AMWzgHGuxOoiH8RSxHap1eA.jpeg)
+[![Cables](img/c5926e3bf59d4462db17068ef9abf6b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EcU2a2I6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/750/1%2AMWzgHGuxOoiH8RSxHap1eA.jpeg)
 
 > 这是我之前工作的后续跟进:
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)[Ibrahim 对话框](https://github.com/IbrahimTanyalcin) / [ taskq](https://github.com/IbrahimTanyalcin/taskq)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)[Ibrahim 对话框](https://github.com/IbrahimTanyalcin) / [ taskq](https://github.com/IbrahimTanyalcin/taskq)
 
 ### 异步模块加载器，具有 HTML 中的简化依赖关系管理以及与 ES6 导入/导出的兼容性
 
@@ -16,7 +16,7 @@
 
 # 工作
 
-[![Build Status](../Images/7c0086a7f0145ba8bea30f736959f39f.png)](https://travis-ci.org/IbrahimTanyalcin/taskq)[![Patreon donate](../Images/8d632e583dadcc725119186722213124.png)](https://www.patreon.com/ibrahimTanyalcin "Patreon donate")[![Codacy Badge](../Images/914ce24a6e2ba6da9d81c52abf0b3d0e.png)](https://www.codacy.com/app/IbrahimTanyalcin/taskq?utm_source=github.com&utm_medium=referral&utm_content=IbrahimTanyalcin/taskq&utm_campaign=Badge_Grade "Codacy")[![Npm Badge](../Images/66681017d5691b66df098d7af7263c58.png)](https://www.npmjs.com/package/@ibowankenobi/taskq "Npm")[![DOI](../Images/ef6c9ee8b8e1ebf6a9563a182bb3a450.png)](https://zenodo.org/badge/latestdoi/108156384)
+[![Build Status](img/7c0086a7f0145ba8bea30f736959f39f.png)](https://travis-ci.org/IbrahimTanyalcin/taskq)[![Patreon donate](img/8d632e583dadcc725119186722213124.png)](https://www.patreon.com/ibrahimTanyalcin "Patreon donate")[![Codacy Badge](img/914ce24a6e2ba6da9d81c52abf0b3d0e.png)](https://www.codacy.com/app/IbrahimTanyalcin/taskq?utm_source=github.com&utm_medium=referral&utm_content=IbrahimTanyalcin/taskq&utm_campaign=Badge_Grade "Codacy")[![Npm Badge](img/66681017d5691b66df098d7af7263c58.png)](https://www.npmjs.com/package/@ibowankenobi/taskq "Npm")[![DOI](img/ef6c9ee8b8e1ebf6a9563a182bb3a450.png)](https://zenodo.org/badge/latestdoi/108156384)
 
 * * *
 
@@ -24,9 +24,9 @@
 
 ## ⇩第一，你的 1 分钟小抄⇩
 
-[![cheatsheet](../Images/127e23d00f058d08640b88d940978613.png)T2】](https://raw.githubusercontent.com/IbrahimTanyalcin/taskq/master/./cheatsheet.png)
+[![cheatsheet](img/127e23d00f058d08640b88d940978613.png)T2】](https://raw.githubusercontent.com/IbrahimTanyalcin/taskq/master/./cheatsheet.png)
 
-[![](../Images/551aee0b2ed044485be852cb87230e5c.png)T2】](https://camo.githubusercontent.com/328d32d2b883c9a63de6392c8c8102587721db0d96e6ebf7bb7e5e7ebf7f2631/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36612f44657461696c5f6465725f52656368656e6d61736368696e655f766f6e5f4a6f68616e6e5f48656c66726963685f4d2543332542436c6c65722e6a7067)
+[![](img/551aee0b2ed044485be852cb87230e5c.png)T2】](https://camo.githubusercontent.com/328d32d2b883c9a63de6392c8c8102587721db0d96e6ebf7bb7e5e7ebf7f2631/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36612f44657461696c5f6465725f52656368656e6d61736368696e655f766f6e5f4a6f68616e6e5f48656c66726963685f4d2543332542436c6c65722e6a7067)
 
 # 航行
 

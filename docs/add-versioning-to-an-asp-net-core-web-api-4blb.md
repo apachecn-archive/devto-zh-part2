@@ -35,7 +35,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 为了更好地说明上述第一个属性，请参见下文。我使用 Postman 来查看列出了受支持版本的响应头，我突出显示了这些版本
 
-[![Versioning_thumb7](../Images/7df939a78ce403830272c6b8c209d351.png "Versioning\_thumb7")T2】](https://aviddeveloper.com/wp-content/uploads/2018/07/Versioning_thumb7.png)
+[![Versioning_thumb7](img/7df939a78ce403830272c6b8c209d351.png "Versioning\_thumb7")T2】](https://aviddeveloper.com/wp-content/uploads/2018/07/Versioning_thumb7.png)
 
 现在我所要做的就是简单地添加和更新控制器属性
 
@@ -57,11 +57,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 因此控制器类(在我的例子中是 GoalsController)属性的结果应该如下所示
 
-[![Versioning_thumb1](../Images/a364a000522d77d501318f20efad10df.png "Versioning\_thumb1")T2】](https://aviddeveloper.com/wp-content/uploads/2018/07/Versioning_thumb1.png)
+[![Versioning_thumb1](img/a364a000522d77d501318f20efad10df.png "Versioning\_thumb1")T2】](https://aviddeveloper.com/wp-content/uploads/2018/07/Versioning_thumb1.png)
 
 现在，让我们测试我们的 F5，并浏览到后缀为:/api/1.0/goals 的 API 端点，在下面的例子中。
 
-[![Versioning_thumb3](../Images/4841cffd5d3b6b40183c1abe32b24347.png "Versioning\_thumb3")T2】](https://aviddeveloper.com/wp-content/uploads/2018/07/Versioning_thumb3.png)
+[![Versioning_thumb3](img/4841cffd5d3b6b40183c1abe32b24347.png "Versioning\_thumb3")T2】](https://aviddeveloper.com/wp-content/uploads/2018/07/Versioning_thumb3.png)
 
 就是这样，我的 API 现在的版本是 1.0
 

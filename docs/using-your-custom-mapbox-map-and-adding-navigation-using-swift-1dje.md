@@ -10,6 +10,6 @@
 
 首先，我们需要在 XCode 中创建新项目。转到文件->新建->项目(单视图应用程序)，并将您的项目命名为 ExploreOutdoors。现在，在您保存项目的目录中，我们需要创建一个 PodFile，以便安装 Mapbox 和 Mapbox 导航 API。我的目录布局如下所示:
 
-[![Directory layout](../Images/2bc6daa602f27bf8d0876f16db675cac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uiW7GfIS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2z9bnxtp19y48fa3lwr8.png)
+[![Directory layout](img/2bc6daa602f27bf8d0876f16db675cac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uiW7GfIS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2z9bnxtp19y48fa3lwr8.png)
 
 创建一个名为 PodFile 的文件，并添加以下代码。

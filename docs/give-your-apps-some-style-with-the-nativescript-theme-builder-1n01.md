@@ -8,7 +8,7 @@
 
 **进入 [NativeScript 主题生成器](http://www.nativescriptthemebuilder.com/)。**Theme Builder 是一款纯粹的可视化工具，可以非常轻松地将您的原生 UI 元素从极其乏味变为华丽迷人:
 
-[![native ui using theme builder](../Images/4b9cc821924511e5040d09c682ad4068.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mrE1uyWq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/theme-builder/comparison.png)
+[![native ui using theme builder](img/4b9cc821924511e5040d09c682ad4068.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mrE1uyWq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/theme-builder/comparison.png)
 
 ## {N} + CSS =🤩
 
@@ -16,13 +16,13 @@
 
 和 NativeScript UI 元素都是完全原生的。当我们实例化一个`<Button>`时，它会呈现一个真正的本地`UIButton`(在 iOS 上)和`android.widget.Button`(在 Android 上)。
 
-[![native ios and android buttons](../Images/ac866d5591fe7cccd585274617206918.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EGp6Sc26--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/theme-builder/native-buttons.png)
+[![native ios and android buttons](img/ac866d5591fe7cccd585274617206918.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EGp6Sc26--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/theme-builder/native-buttons.png)
 
 但是本土风格会变得很无聊，而且很快。利用 NativeScript 和 CSS 的强大功能，NativeScript 主题构建器可以为您的原生 UI 元素生成完全兼容的样式。
 
 诀窍是，主题生成器生成的 CSS 并不“只是工作”。**你还需要使用作为核心 NativeScript 框架一部分的[核心主题](https://docs.nativescript.org/ui/theme):**
 
-[![nativescript core themes](../Images/4d227d2cccad427eabed09664f2d928a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DVbaM3YZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/theme-builder/color-schemes-light-and-dark.png)
+[![nativescript core themes](img/4d227d2cccad427eabed09664f2d928a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DVbaM3YZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/theme-builder/color-schemes-light-and-dark.png)
 
 > 核心主题还附带了多种多样的配色方案，你可以开箱即用。
 
@@ -48,7 +48,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这很容易理解，但是导航到 [NativeScript 主题构建器](http://www.nativescriptthemebuilder.com/)并定制你想要的所有颜色、字体大小、边框半径等。一旦你完成了，一定要点击**下载主题**按钮来获得你生成的 CSS 文件。
 
-[![nativescript theme builder](../Images/1173989da67803491e8a55b654fdc00a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--De-8n29d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/theme-builder/theme-builder.png)
+[![nativescript theme builder](img/1173989da67803491e8a55b654fdc00a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--De-8n29d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/theme-builder/theme-builder.png)
 
 有了下载的 CSS 文件，再次打开你的`app.css`文件，使用另一个`@import`语句在核心主题之后引用你的主题*:*
 

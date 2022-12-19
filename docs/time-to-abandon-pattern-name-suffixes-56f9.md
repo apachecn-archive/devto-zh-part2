@@ -12,4 +12,4 @@ Kevlin Henney 的一次演讲启发了我，在我正在做的一个项目中，
 
 找一些更简洁的，会说话的名字不是更有意义吗？
 
-[![Image](../Images/f48d3597616f0e0cf4e23fbed4a77751.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hRJdPfY2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.redditmedia.com/tHbmWDAlprYm0RDgHX1EGf7Yhx8KNy20n0HEv8vjD_w.png%3Fs%3De902918450214ca15f33bcf0f5e609e0)
+[![Image](img/f48d3597616f0e0cf4e23fbed4a77751.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hRJdPfY2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.redditmedia.com/tHbmWDAlprYm0RDgHX1EGf7Yhx8KNy20n0HEv8vjD_w.png%3Fs%3De902918450214ca15f33bcf0f5e609e0)

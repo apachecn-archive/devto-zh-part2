@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/osandrolucas/design-pattern---abstract-factory--n4f>
 
-[![Globo Reporter](../Images/0a296165e548346599c5d26c98b1a5d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gt7sSB9U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9ce3ovm2mclca6xg9eu0.jpg)
+[![Globo Reporter](img/0a296165e548346599c5d26c98b1a5d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gt7sSB9U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9ce3ovm2mclca6xg9eu0.jpg)
 
 *从头开始-我...。*
 
@@ -25,11 +25,11 @@ Christopher Alexander 认为，“标准”描述了我们环境中的一个问�
 
 标准通过简洁明了的语言使经验丰富的设计人员能够在较高的抽象级别将知识传授给年轻的设计人员，从而简化代码开发和重复使用。
 
-[![Interessante](../Images/2a0d3922144439e2dfd7beffcfe20bd2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wBNYW_Uq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xgapir1tr3q8djus1s5a.jpg)
+[![Interessante](img/2a0d3922144439e2dfd7beffcfe20bd2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wBNYW_Uq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xgapir1tr3q8djus1s5a.jpg)
 
 **让我们来看看有什么关系，什么是这样的“抽象工厂”？**
 
-[![Vamos ao que interessa](../Images/ea11521591dc31c4d775a08c5785394f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---6Z2_Uk0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/57i96vfc8qfdzcyci0l1.jpg)
+[![Vamos ao que interessa](img/ea11521591dc31c4d775a08c5785394f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---6Z2_Uk0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/57i96vfc8qfdzcyci0l1.jpg)
 
 其目的是提供一个用于创建相关对象或相关对象的族的界面，而无需指定其特定类。也称为 Kit。
 
@@ -45,12 +45,12 @@ Christopher Alexander 认为，“标准”描述了我们环境中的一个问�
 您要提供产品类库，并且只希望公开其界面，而不是其实现。
 根据 GoF 定义的图案的建筑结构如图 1 所示。
 
-![Figura 1](../Images/614dfef579b2822b27a9ea3ae933d7d3.png)
+![Figura 1](img/614dfef579b2822b27a9ea3ae933d7d3.png)
 **图 1。**图案的建筑结构
 
 图 2 显示了符合开发人员实际情况的另一个示例的结构。此图所展示的基本概念是为用户(开发人员)提供在不同平台上运行应用程序的能力。
 
-[![Diversas Plataformas](../Images/9242eb422f21502b2eb08bffda48c0a3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9kUkh8Jg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pbkd1cjl8rdkiahma33i.gif) 
+[![Diversas Plataformas](img/9242eb422f21502b2eb08bffda48c0a3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9kUkh8Jg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pbkd1cjl8rdkiahma33i.gif) 
 **图二。**多样的平台
 
 与会者为:

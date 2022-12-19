@@ -39,7 +39,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Flow 将捕获此错误并在您的代码编辑器中显示信息，或者它也可以在您在 cli 中运行 flow 命令时捕获该错误。这里有一个流将在您的编辑器中输出的示例
 
-[![](../Images/60ef40e27c5c9a4e1ceb81c3015e1599.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---xzDy6dk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/msp8vp79rzaa2bs9mcpa.png)
+[![](img/60ef40e27c5c9a4e1ceb81c3015e1599.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---xzDy6dk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/msp8vp79rzaa2bs9mcpa.png)
 
 正如你所看到的，flow 告诉你它不是一个函数，甚至给你关于它是什么类型的进一步信息。使用心流会有所帮助
 
@@ -63,7 +63,7 @@ Flow 将捕获此错误并在您的代码编辑器中显示信息，或者它也
 
 为你的应用程序编写单元测试是一项极其重要的工作，幸运的是，我们有 Jest 和 Enzyme 来让这个过程变得非常简单(谢谢 facebook，谢谢 airbnb)。
 
-[![](../Images/3ac3d063f9674ca8b35411eb9997d30d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hmHr_Ngp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://humorside.com/wp-content/uploads/2017/12/thank-you-meme-02-1.jpg)
+[![](img/3ac3d063f9674ca8b35411eb9997d30d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hmHr_Ngp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://humorside.com/wp-content/uploads/2017/12/thank-you-meme-02-1.jpg)
 
 尽管单元测试在 React 应用程序中很重要，但我看到很多人对此不屑一顾，我必须说这是一个错误。Jest 和 Enzyme 提供了出色的测试工具，如浅层渲染(只渲染组件，不渲染其子组件进行测试)、快照测试(将组件的渲染输出存储在文件中并与之进行比较，以确保组件不会发生变化)和开箱即用的代码覆盖率。
 
@@ -93,7 +93,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 # 现在都在一起了
 
-[![Image: The Oregon Symphony led by Carlos Kalmar Oregon Symphony](../Images/2878c7942f980d5fd7d7a388770fc574.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jBYLAJ8x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0m39wfgfy8ec0brwd3wn.jpg)
+[![Image: The Oregon Symphony led by Carlos Kalmar Oregon Symphony](img/2878c7942f980d5fd7d7a388770fc574.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jBYLAJ8x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0m39wfgfy8ec0brwd3wn.jpg)
 
 ## 创建 React App
 
@@ -127,7 +127,7 @@ Enter fullscreen mode Exit fullscreen mode
 *   运行 *npm i -D eslint* 安装 eslint。
 *   安装完成后，运行下面的命令*。/node_modules/。bin/eslint - init* 。(注意:同样，您可以通过运行 *npm i -g eslint* 来全局安装 eslint)。init 命令将询问您希望使用的林挺规则。你想创建你自己的还是想使用流行的编码风格
 
-[![](../Images/ae460c747a7d14d38f536c6375bd2c62.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--73s73yti--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lpfjsmrjl6mlfervnj50.png)
+[![](img/ae460c747a7d14d38f536c6375bd2c62.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--73s73yti--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lpfjsmrjl6mlfervnj50.png)
 
 一个流行的选择，我通常使用的是 airbnb 风格。你还会被问到是否使用 React(显然)以及你想使用哪种配置文件类型(JSON、javascript 或 YAML)，我通常使用 Javascript。然后最后你会被要求安装 eslint 的依赖项，安装完成。
 

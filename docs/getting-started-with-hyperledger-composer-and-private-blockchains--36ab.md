@@ -406,7 +406,7 @@ PeerAdmin 卡是您之前通过运行 */.createPeerAdminCard.sh* 创建的卡。
 
 您现在可以导航到 localhost:3000/explorer。
 
-[![](../Images/5a8fcab6a4943822ccf790730f728579.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w9xw7q13--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3neaen6czlimn7yvdelk.png)
+[![](img/5a8fcab6a4943822ccf790730f728579.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w9xw7q13--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3neaen6czlimn7yvdelk.png)
 
 我们现在可以访问 REST API 来与我们的业务网络进行交互。如您所见，我们拥有了之前定义的一切:参与者、资产和交易。
 

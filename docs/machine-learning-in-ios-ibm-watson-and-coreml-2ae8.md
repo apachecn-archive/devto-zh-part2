@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/onmyway133/machine-learning-in-ios-ibm-watson-and-coreml-2ae8>
 
-[![](../Images/17527660b86d74959a00f0c3b098c6aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vhH-QTPQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/4000/1%2AWHxQHcsiU6hSeoljdd6khw.png)
+[![](img/17527660b86d74959a00f0c3b098c6aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vhH-QTPQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/4000/1%2AWHxQHcsiU6hSeoljdd6khw.png)
 
 苹果于 2017 年在 WWDC 推出了 [CoreML](https://developer.apple.com/machine-learning/) ，这是一笔很棒的交易。
 CoreML 是一个机器学习框架，用于许多苹果产品，如 Siri、相机、键盘听写等。
@@ -30,28 +30,28 @@ CoreML 的工作只是根据模型预测数据。如果提供的训练模型不�
 
 > IBM 的一站式云计算商店提供您需要的所有云解决方案和 **IBM cloud** 工具。
 
-[![](../Images/c84671f7ef0c0309b9fe2b43e3843b07.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RKo3iidG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AHfxsqbCIuka0hQYKzYKhkg.png)
+[![](img/c84671f7ef0c0309b9fe2b43e3843b07.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RKo3iidG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AHfxsqbCIuka0hQYKzYKhkg.png)
 
 * *数据科学和沃森工作室
 * *运行在 IBM Cloud 上的众多产品之一是用于自然语言处理、视觉识别和机器学习的 [IBM Watson](https://medium.com/ibm-watson/introducing-ibm-watson-studio-e93638f0bb47) 。我们将使用[沃森工作室](https://www.ibm.com/cloud/watson-studio)在一个单一的集成环境中“构建、训练、部署和管理人工智能模型，并准备和分析数据。”最初叫做[数据科学](https://datascience.ibm.com/)。可以把它想象成一个前端网页，里面有很多与 Watson 服务交互的工具。我们开始吧！
 
 > Watson Studio 是一个免费的工作空间，您可以在其中无缝地创建、评估和管理您的定制模型。
 
-[![](../Images/0ac7c9738579368924c905322ad4005c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RdHqsVJf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A1cWgM-F6FnpFwZN2XqNJZw.png)
+[![](img/0ac7c9738579368924c905322ad4005c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RdHqsVJf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A1cWgM-F6FnpFwZN2XqNJZw.png)
 
 ### 第一步:注册 IBM 云
 
 进入 [IBM Cloud](https://www.ibm.com/cloud/) ，点击[按钮注册 IBM Cloud](https://console.bluemix.net/registration/) 。
 
-[![](../Images/70c5553d9754487533429698c86c79ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IVjLdfsO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2832/1%2A5dqP4i6LqAfgaWB6Bsh3Pg.png)
+[![](img/70c5553d9754487533429698c86c79ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IVjLdfsO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2832/1%2A5dqP4i6LqAfgaWB6Bsh3Pg.png)
 
 成功注册后，前往 [Watson Studio](https://www.ibm.com/cloud/watson-studio) 并点击登录。
 
-[![](../Images/9ea654e7d006139f28bd9d477c570619.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tSAk5lc3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2852/1%2AM3fnjggeCL_zLRiRGP-_Yw.png)
+[![](img/9ea654e7d006139f28bd9d477c570619.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tSAk5lc3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2852/1%2AM3fnjggeCL_zLRiRGP-_Yw.png)
 
 它会带你去 https://dataplatform.ibm.com/home。我认为由于历史原因，域名和产品名称不匹配🙄。
 
-[![](../Images/65f6619ffd5f7802a454afe1ae6c334c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9Q51LGxe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2850/1%2AF5vD5dDyCUtPXfRvEYDTWA.png)
+[![](img/65f6619ffd5f7802a454afe1ae6c334c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9Q51LGxe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2850/1%2AF5vD5dDyCUtPXfRvEYDTWA.png)
 
 ### 第二步:为视觉识别创建新项目
 
@@ -59,27 +59,27 @@ CoreML 的工作只是根据模型预测数据。如果提供的训练模型不�
 
 > 使用机器学习快速准确地标记、分类和训练视觉内容。
 
-[![](../Images/b8a6dbeb1ca2263d0d2c52ba911ad259.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VN7jdihu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AguyThKfCxZN2ZJEFx1ocQQ.png)
+[![](img/b8a6dbeb1ca2263d0d2c52ba911ad259.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VN7jdihu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AguyThKfCxZN2ZJEFx1ocQQ.png)
 
 一个项目包含一组工具和服务。就叫复仇者吧。它配有储物空间。
 
-[![](../Images/97d3a9d6b0854a6af8ee43b1bdf009b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kWGUml2A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2494/1%2A24eBxhgDK5FXYY1QAm9v2g.png)
+[![](img/97d3a9d6b0854a6af8ee43b1bdf009b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kWGUml2A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2494/1%2A24eBxhgDK5FXYY1QAm9v2g.png)
 
 ### 第三步:创建服务
 
 对我来说，在创建新项目之后，它会转到页面**默认定制模型**，并告诉我该项目需要与一个服务相关联。我认为项目应该创建一个服务，并在默认情况下与它相关联🙄
 
-[![](../Images/63526569dd17c199cd6d312bfe41af85.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YMNcqE2p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2854/1%2APt9ALUvl_vWjWA3D5ulffQ.png)
+[![](img/63526569dd17c199cd6d312bfe41af85.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YMNcqE2p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2854/1%2APt9ALUvl_vWjWA3D5ulffQ.png)
 
 回到[首页](https://dataplatform.ibm.com/home?context=data)，从**项目**菜单中选择你的**复仇者联盟**项目，进入**设置**选项卡。
 
-[![](../Images/1bacce6c7261bbab1701250ef3a26000.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CP4YGWRR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AOGeJhh9Q6uyihsn9sa-xrQ.png)
+[![](img/1bacce6c7261bbab1701250ef3a26000.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CP4YGWRR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AOGeJhh9Q6uyihsn9sa-xrQ.png)
 
 向下滚动到**关联服务* *部分，然后单击 Watson。在下一个屏幕中，我们可以看到有许多服务用于许多目的:文本到语音，语音到文本，语言翻译器，声调分析器等。在我们的案例中，我们需要* *视觉识别**服务。对于 Lite 计划，我们每个服务只能有 1 个实例，如果您试图添加更多，您将得到以下警告。
 
 > Service broker 错误:每个服务只能有一个 Lite 计划实例。要创建新实例，请删除现有的 Lite plan 实例或选择付费计划。
 
-[![](../Images/075a3f3efeb2c90e84866f291cc07b18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ofF3Xk4T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2802/1%2AgZfNBaHYq-3jIbXp8ht1lw.png)
+[![](img/075a3f3efeb2c90e84866f291cc07b18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ofF3Xk4T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2802/1%2AgZfNBaHYq-3jIbXp8ht1lw.png)
 
 Watson 项目、工具和服务之间的联系令人困惑，可能是因为有大量的功能我们还没有使用。把项目想象成一包工具和服务。对于 Lite plan，我们只能使用每个服务的 1 个实例，而工具是我们用来与服务交互的前端。
 
@@ -87,7 +87,7 @@ Watson 项目、工具和服务之间的联系令人困惑，可能是因为有�
 
 要删除现有服务，请返回到[主页](https://dataplatform.ibm.com/)，从**服务**菜单中选择**沃森服务**。在这里，我们可以启动该服务的工具或删除它。
 
-[![](../Images/065ceeede2cc68d45901fcb608b88f67.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b2am0KGh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2862/1%2ACabdXO5XsJutP7vGyHrr7w.png)
+[![](img/065ceeede2cc68d45901fcb608b88f67.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b2am0KGh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2862/1%2ACabdXO5XsJutP7vGyHrr7w.png)
 
 删除现有服务后，返回步骤 3，为该项目**复仇者联盟的服务**视觉识别**配置新实例。**
 
@@ -95,7 +95,7 @@ Watson 项目、工具和服务之间的联系令人困惑，可能是因为有�
 
 进入你的**复仇者联盟**项目，点击**资产**标签，前往**视觉识别模型部分。* *对于本教程的有趣部分，我将我们的自定义模型命名为* *复仇者模型🤘。**
 
-[![](../Images/b529580abcfd3e3fae387f5a7fe0ff50.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iFOndEKl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2844/1%2AYtyMJfgPcAaFuXB7sJx0eg.png)
+[![](img/b529580abcfd3e3fae387f5a7fe0ff50.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iFOndEKl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2844/1%2AYtyMJfgPcAaFuXB7sJx0eg.png)
 
 我们可以为每个英雄创建职业，或者上传一个包含每个英雄图片的 zip 文件。请注意，zip 文件的名称对应于类名。负类用于不属于任何预期类的图像。在本教程中，我们将讨论钢铁侠、蜘蛛侠、美国队长和雷神，因为他们是我的最爱😅。
 
@@ -109,7 +109,7 @@ Watson 项目、工具和服务之间的联系令人困惑，可能是因为有�
 
 在这个帖子里，每个英雄 50 张图片应该是好的。让我们压缩它们并上传到 Watson。上传完成后，将这些资产添加到模型中。
 
-[![](../Images/6696b87f6e01360bc4bb33b18496b709.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3ExMOsrk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AoH0goGCQvOUPtN-MUgpURA.png)
+[![](img/6696b87f6e01360bc4bb33b18496b709.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3ExMOsrk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AoH0goGCQvOUPtN-MUgpURA.png)
 
 ### 第七步:训练模型
 
@@ -119,11 +119,11 @@ Watson 项目、工具和服务之间的联系令人困惑，可能是因为有�
 
 > 今天，你可以使用“迁移学习”，即使用现有的图像识别模型，并用你自己的数据集重新训练它。
 
-[![](../Images/9581434d43b99e2d3a96041377d9c5dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aNfX5KTQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2762/1%2AO_Wow5fDLf5z7_6ZFSsUmQ.png)
+[![](img/9581434d43b99e2d3a96041377d9c5dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aNfX5KTQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2762/1%2AO_Wow5fDLf5z7_6ZFSsUmQ.png)
 
 培训完成后，进入**实施**选项卡，然后选择 **Core ML** 下载 Core ML 兼容模型。文件是 13MB。
 
-[![](../Images/d547734c0292ea883dd75abcede5198c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HuRfliH0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2880/1%2AQCUZZcOU7ehepwO_dDWLBw.png)
+[![](img/d547734c0292ea883dd75abcede5198c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HuRfliH0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2880/1%2AQCUZZcOU7ehepwO_dDWLBw.png)
 
 ## 在 iOS app 中使用 CoreML 模型
 
@@ -162,7 +162,7 @@ Watson 项目、工具和服务之间的联系令人困惑，可能是因为有�
 
 预测操作可能需要时间，所以最好将它发送到后台队列，并在得到结果时更新 UI。
 
-[![](../Images/1c3ca3641b306ada14e7a0ccdd69fddb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--efWkY7Rx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AVyCMO-_CEC01EGg9C_0hrg.png)
+[![](img/1c3ca3641b306ada14e7a0ccdd69fddb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--efWkY7Rx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AVyCMO-_CEC01EGg9C_0hrg.png)
 
 构建并运行应用程序。如果你在 iPhone 上构建它，拍一张超级英雄的照片，如果这是我们在本教程中训练的 4 个超级英雄之一，那么 CoreML 将能够根据训练来预测他是谁。mlmodel
 

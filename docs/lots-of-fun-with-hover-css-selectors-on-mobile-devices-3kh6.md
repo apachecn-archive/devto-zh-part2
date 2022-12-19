@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/mario/lots-of-fun-with-hover-css-selectors-on-mobile-devices-3kh6>
 
-[![](../Images/b9b1431c6065b6dd1179f115822c2c74.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3mWd-XBB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q3e47r86fg442793yqb8.png)
+[![](img/b9b1431c6065b6dd1179f115822c2c74.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3mWd-XBB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q3e47r86fg442793yqb8.png)
 
 欢迎来到马里奥的“我不知道我在做什么”
 

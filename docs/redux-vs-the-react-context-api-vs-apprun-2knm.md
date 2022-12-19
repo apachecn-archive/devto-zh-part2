@@ -4,7 +4,7 @@
 
 最近，我读了一篇名为 [Redux 与 React 上下文 API](https://daveceddia.com/context-api-vs-redux) 的文章。这是我喜欢的帖子类型。它用一个简单的例子来解释背后的概念。这个例子看起来很简单，但它让我们毫不分心地理解这个概念。经过几分钟的阅读，我已经学会了 Redux 和 Context API，并开始思考如果我们在 [AppRun](https://github.com/yysun/apprun) 应用程序中做同样的事情会怎么样。事不宜迟，我在 glitch.com 创造了同样的例子。
 
-[![AppRun Example](../Images/86ab9a0e083e3f5fb9755905e20eb5a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4p-N58ik--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A_bvkERxKewur67C5zowOBQ.png)
+[![AppRun Example](img/86ab9a0e083e3f5fb9755905e20eb5a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4p-N58ik--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A_bvkERxKewur67C5zowOBQ.png)
 
 可以在 glitch.com 上看到现场演示:[https://apprun-state-2-components . glitch . me](https://apprun-state-2-components.glitch.me)
 
@@ -162,11 +162,11 @@ AppRun 支持 [JSX 片段](https://reactjs.org/docs/fragments.html)。我们可�
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-# [![Build](../Images/f259070d058f2cdb110bc24faf221358.png)](https://travis-ci.org/yysun/apprun)[![NPM version](../Images/b7beb8c0660d521dd86968e5a8cd6896.png)](https://npmjs.org/package/apprun)[![Downloads](../Images/1350f842f8cb91e44168b2bf8746a3c1.png)](https://npmjs.org/package/apprun)[![License](../Images/7194bf8ac6a620cdacf881fa0c5ffaac.png)](https://raw.githubusercontent.com/yysun/apprun/master/LICENSE.md)[![twitter](../Images/ab05dc0fe6acc6a87259485c555b534f.png)](https://twitter.com/intent/tweet?text=Check%20out%20AppRun%20by%20%40yysun%20https%3A%2F%2Fgithub.com%2Fyysun%2Fapprun%20%F0%9F%91%8D%20%40apprunjs)[![Discord Chat](../Images/4be9076338a059b31ea56a7723e4b7f4.png)](https://discord.gg/CETyUdx)
+# [![Build](img/f259070d058f2cdb110bc24faf221358.png)](https://travis-ci.org/yysun/apprun)[![NPM version](img/b7beb8c0660d521dd86968e5a8cd6896.png)](https://npmjs.org/package/apprun)[![Downloads](img/1350f842f8cb91e44168b2bf8746a3c1.png)](https://npmjs.org/package/apprun)[![License](img/7194bf8ac6a620cdacf881fa0c5ffaac.png)](https://raw.githubusercontent.com/yysun/apprun/master/LICENSE.md)[![twitter](img/ab05dc0fe6acc6a87259485c555b534f.png)](https://twitter.com/intent/tweet?text=Check%20out%20AppRun%20by%20%40yysun%20https%3A%2F%2Fgithub.com%2Fyysun%2Fapprun%20%F0%9F%91%8D%20%40apprunjs)[![Discord Chat](img/4be9076338a059b31ea56a7723e4b7f4.png)](https://discord.gg/CETyUdx)
 
 AppRun 是一个 JavaScript 库，用于使用受 Elm 启发的架构、事件和组件构建可靠、高性能的 web 应用程序。
 
-> AppRun 是一个 MIT 许可的开源项目。请考虑[支持 Patreon](https://www.patreon.com/apprun) 上的项目。<g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji> <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> <g-emoji class="g-emoji" alias="pray" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64f.png">🙏</g-emoji>
+> AppRun 是一个 MIT 许可的开源项目。请考虑[支持 Patreon](https://www.patreon.com/apprun) 上的项目。<g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f44d.png">👍</g-emoji> <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/2764.png">❤️</g-emoji> <g-emoji class="g-emoji" alias="pray" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f64f.png">🙏</g-emoji>
 
 ## 大约好处
 
@@ -204,7 +204,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 建筑概念
 
-[![apprun-demo](../Images/e15bd051d11a9d3c5926cfd74e5ad2bc.png)T2】](https://raw.githubusercontent.com/yysun/apprun/master/docs/imgs/apprun-demo.gif)
+[![apprun-demo](img/e15bd051d11a9d3c5926cfd74e5ad2bc.png)T2】](https://raw.githubusercontent.com/yysun/apprun/master/docs/imgs/apprun-demo.gif)
 
 *   AppRun architecure 有*状态*、*视图*、*更新*。
 *   AppRun 是事件驱动的。
@@ -214,7 +214,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 出版社出版的书
 
-[![Order from Amazon](../Images/ca13816934b0eaf5d68dbccba7115c8d.png)T2】](https://www.amazon.com/Practical-Application-Development-AppRun-High-Performance/dp/1484240685/)
+[![Order from Amazon](img/ca13816934b0eaf5d68dbccba7115c8d.png)T2】](https://www.amazon.com/Practical-Application-Development-AppRun-High-Performance/dp/1484240685/)
 
 *   [来自亚马逊的订单](https://www.amazon.com/Practical-Application-Development-AppRun-High-Performance/dp/1484240685/)
 

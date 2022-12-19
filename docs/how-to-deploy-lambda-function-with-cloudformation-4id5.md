@@ -4,7 +4,7 @@
 
 无服务器部署现在很流行。以最小的代价，您可以让自己的代码等待并响应各种事件。AWS Lambda 和 Azure Functions 只是最大的云提供商提供的无服务器产品的两个例子。很长一段时间以来，我只在不适合长期发展的特定环境中考虑过它们。直到我发现，只需一点点努力，就可以像传统的后端一样对无服务器 API 进行版本化和部署。在这篇文章中，我将展示如何在工具 [Adam](https://adambar.pl/) 的帮助下部署 AWS Lambda 功能，该工具由 [Bright Inventions](https://brightinventions.pl/) 开发，名为 [cloudform](https://github.com/bright/cloudform) 。
 
-[![Lambda function](../Images/5e0b284de8e32be9d8da14680dc23fd8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xvCum0-2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k1ejp3b3wp2w9rjuzapf.png)
+[![Lambda function](img/5e0b284de8e32be9d8da14680dc23fd8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xvCum0-2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k1ejp3b3wp2w9rjuzapf.png)
 
 ## 第一步:定义模板
 
@@ -61,7 +61,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 每当云组织必须定义角色、策略或相关资源时，就需要使用`--capabilities CAPABILITY_IAM`。`--template-body file://<(node_modules/.bin/cloudform aws-template.ts)`指示 CloudFormation 使用文件中定义的模板。`<(...)`是将命令的输出传递给其他程序的 [bash 和 zsh 方式，就好像输出是一个文件一样。等待调用完成后，我们将在 AWS 控制台中看到以下内容:](https://superuser.com/questions/1059781/what-exactly-is-in-bash-and-in-zsh)
 
-[![AWS Lambda Screen](../Images/9ea76b05f007b6fa0794bf22bbd081df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SX_MsaBG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p93azpbvnx43vi5p33h6.png)
+[![AWS Lambda Screen](img/9ea76b05f007b6fa0794bf22bbd081df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SX_MsaBG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p93azpbvnx43vi5p33h6.png)
 
 可以使用 AWS 控制台编辑器来测试和更改该功能。然而，如果我们认真对待无服务器方法，我们不应该忘记标准的实践，比如我们源代码的版本控制。
 

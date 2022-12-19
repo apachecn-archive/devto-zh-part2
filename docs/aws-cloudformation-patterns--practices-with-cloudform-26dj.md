@@ -64,7 +64,7 @@ cloudform({
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Structure and order for our AWS CloudFormation templates](../Images/32852cb153004dacdc428dcc7b8e413f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SWn6790I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s1eqic0u231bvsxhowbf.jpg)
+[![Structure and order for our AWS CloudFormation templates](img/32852cb153004dacdc428dcc7b8e413f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SWn6790I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s1eqic0u231bvsxhowbf.jpg)
 
 ## 去掉重复的资源
 

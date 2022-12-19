@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/idoshamun/most-popular-development-posts-of-the-week-29-august-2018-8m7>
 
-[![](../Images/65495437199a3f52f7b79eae3dadef20.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--teMSfqGY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Akl3gvniXGwqC2gMDYPwYAA.jpeg) 
+[![](img/65495437199a3f52f7b79eae3dadef20.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--teMSfqGY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Akl3gvniXGwqC2gMDYPwYAA.jpeg) 
 
 <figcaption>我怀疑我是否还会回到公司工作。一旦你看到了光明，就没有回头路了。</figcaption>
 

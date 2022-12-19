@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/geraldcroes/the-good-tweak-the-bad-mac-and-the-ugly-terminal-3eg3>
 
-[![](../Images/6b97a0c3c8c8abeb51481f7606d374d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--71qB8T6m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ATwaNryU2UWiaCufqOq2RaA.jpeg)
+[![](img/6b97a0c3c8c8abeb51481f7606d374d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--71qB8T6m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ATwaNryU2UWiaCufqOq2RaA.jpeg)
 
 > 我已经换成 Mac 了…为了工作…
 
@@ -20,7 +20,7 @@
 
 这是我们的起点。
 
-[![](../Images/3ef36227436bfeb22d990bc1201b6696.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bu-pszHX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AewtkWxuMfrtVA1d76o5TfA.png) 
+[![](img/3ef36227436bfeb22d990bc1201b6696.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bu-pszHX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AewtkWxuMfrtVA1d76o5TfA.png) 
 
 <figcaption>人们不喜欢码头……你别说了！</figcaption>
 

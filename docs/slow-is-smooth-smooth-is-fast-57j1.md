@@ -24,13 +24,13 @@
 
 我也学到了多年的技能，如何自学，如何自我纠正和做有意识的改进。因为我花了这么多年做独唱作家，我不得不学会审视自己的作品，迭代，改进。这个基本技能现在为我生活中的各种事情服务。因此，我现在明白了操练和实践的价值。即使不好玩。
 
-[![Handwriting practice sheet](../Images/d97a6fd08bdf712320c126e9ec498406.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x-hj4tXj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/05/Snapchat-1485028219-156x300.jpg)
+[![Handwriting practice sheet](img/d97a6fd08bdf712320c126e9ec498406.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x-hj4tXj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/05/Snapchat-1485028219-156x300.jpg)
 
 要做的第一件事是画线
 
 我曾经对自己的爱好感到很难过——有时我会非常投入地做某件事，并准备好所有的设备去做，参加手工艺班，然后……然后几个月后，我会放弃它。下一次激情来临时，我会惩罚自己。“还记得刺绣吗？你有所有的设备，但你只完成了 2.5 个项目。不，你不能做有趣的事！”。我已经放松了那种态度。我的意思是，我确实试图从我想做的事情的最小可行工具包开始，但是如果我喜欢它，我会一头扎进去。为什么不呢？我容忍轻浮，我没有伤害任何人，这让我乐于学习。
 
-[![](../Images/7b27fdbd8dcef073f18f13847353b772.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qIa9Ec3f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/05/Snapchat-478588624-156x300.jpg)
+[![](img/7b27fdbd8dcef073f18f13847353b772.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qIa9Ec3f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/05/Snapchat-478588624-156x300.jpg)
 
 一遍又一遍地练习一个字母来提炼我想要的并学习动作
 
@@ -60,4 +60,4 @@
 
 这和枪法有什么关系？一切。因为慢就是顺，有时候我们需要慢慢的去欣赏，去学习我们需要的东西。因为流畅是快速的——在我们使用墨水之前，仔细考虑我们想说和写的东西是值得的。因为我们为学习爱好所做的一切本身就是学习自学技能的一种方式。
 
-[![](../Images/b33e8c516f9215a9692f723c46f25b7a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gxn0dfe4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/05/Snapchat-830051294-156x300.jpg)
+[![](img/b33e8c516f9215a9692f723c46f25b7a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gxn0dfe4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/05/Snapchat-830051294-156x300.jpg)

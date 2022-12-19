@@ -15,6 +15,6 @@ function *addnumber() {
 }
 [ES6 生成器基础知识- Javascript](https://www.skptricks.com/2018/10/the-basics-of-es6-generators-javascript.html)
 
-[![](../Images/4395cae8e04b2566b2314d652a932ce7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z6UevYsg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-XhR2CaeJE3M/W8oKAFPha_I/AAAAAAAACCs/MnKDQ_jtCjg8kgF9lirPAfa0CupLcsWhQCLcBGAs/s400/gene.png)
+[![](img/4395cae8e04b2566b2314d652a932ce7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z6UevYsg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-XhR2CaeJE3M/W8oKAFPha_I/AAAAAAAACCs/MnKDQ_jtCjg8kgF9lirPAfa0CupLcsWhQCLcBGAs/s400/gene.png)
 
 [阅读更多...](https://www.skptricks.com/2018/10/the-basics-of-es6-generators-javascript.html)

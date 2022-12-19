@@ -3,7 +3,7 @@
 > 原文：<https://dev.to/nicolecanestri/4-reasons-why-you-should-use-magento-for-your-online-business-476d>
 
 Magento 是一个开放源代码，在全世界范围内免费发布。Magento 已经发布了几年，它已经成为达到最佳标准的开放源码之一。其当前发布的版本在性能和功能方面非常稳定，具有创新性以跟上市场的发展。我们有机会接近 Magento 并与他一起工作了 2 年。另外，我们用它做了 1 年自己的零售工具。我们发现使用 Magento 进行在线交易非常棒。
-[![magento store](../Images/92d913c8a8db9501d6e758f4e8962b8b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--69-Nq_iE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8x3niceit4cs1lxqkpmi.jpg) 
+[![magento store](img/92d913c8a8db9501d6e758f4e8962b8b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--69-Nq_iE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8x3niceit4cs1lxqkpmi.jpg) 
 那么为什么 Magento 是搭建网站系统的最佳工具呢？？？从 Magento 创建一个网站作为在线商店有四个优势。
 
 ## 首先，Magento 内部有很多最好的特性:

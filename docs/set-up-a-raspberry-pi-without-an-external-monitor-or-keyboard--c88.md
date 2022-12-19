@@ -66,7 +66,7 @@ Enter fullscreen mode Exit fullscreen mode
 将`Your-SSID`替换为您的 WiFi 网络，将`Your-PSK`替换为您的 WiFi 密码。
 这个文件将告诉 Raspberry Pi 在启动时连接到指定的网络。
 
-[![alt text](../Images/7e584eea68d6a3790026ea6fe0a06608.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QUkK4LKX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/38d8699-Screenshot_from_2018-03-27_16-53-50.png)
+[![alt text](img/7e584eea68d6a3790026ea6fe0a06608.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QUkK4LKX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/38d8699-Screenshot_from_2018-03-27_16-53-50.png)
 
 #### **重要的**
 
@@ -133,12 +133,12 @@ Enter fullscreen mode Exit fullscreen mode
 #### **在 Mac 和 Linux 上**
 
 *   打开一个终端窗口，运行`ssh pi@ip-address`*用上一步得到的替换`ip-address`
-*   系统会提示您输入密码——默认密码是`raspberry` ![alt text](../Images/3f5a37fe5a243943d9c025e506a95637.png)
+*   系统会提示您输入密码——默认密码是`raspberry` ![alt text](img/3f5a37fe5a243943d9c025e506a95637.png)
 
 #### **上 Windows**
 
 *   从[这里](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)下载 Putty，允许您通过 SSH 与您的主板通信
 *   在`Host Name (or IP address)`下输入您的树莓 Pi 的 IP 地址
-*   点击`Open`按钮创建连接![alt text](../Images/e709918e564586f3e1edd55977b88763.png)
+*   点击`Open`按钮创建连接![alt text](img/e709918e564586f3e1edd55977b88763.png)
 
 就是这样！您现在通过 SSH 连接到您的 Raspberry Pi。您可以通过运行`sudo raspi-config`来配置电路板。

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kennethlarsen/what-can-we-learn-from-50000-tweets-about-emberjs-2k3c>
 
-<figure>[![](../Images/9b1ee1a77a0aa7307ba1c9d9180437b7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--eBFVvxPo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AdiKuoCb0vjKUjXMrrKixXQ.jpeg) 
+<figure>[![](img/9b1ee1a77a0aa7307ba1c9d9180437b7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--eBFVvxPo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AdiKuoCb0vjKUjXMrrKixXQ.jpeg) 
 
 <figcaption>照片由[freestocks.org](https://unsplash.com/photos/HAIPJ8PyeL8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)上[下](https://unsplash.com/search/photos/twitter?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 
@@ -71,7 +71,7 @@
 
 另一个原因可能是 Ember.js 不太擅长炒作自己。如果你看一下 Dan Abramov 的这条推文，他说你可以在没有 npm 的情况下使用 React.js，你会看到它的转发量是排名第一的 Ember.js 推文的两倍。如此简单，如此炒作的东西。
 
-> ![unknown tweet media content](../Images/76e5ca2ee1d70cbfe97466b2f89027e8.png)![Dan Abramov profile image](../Images/8410abe414a98a3109390b1a1f7377ee.png)丹阿布拉莫夫[@丹 _ 阿布拉莫夫](https://dev.to/dan_abramov)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)你知道吗:不用 npm 就可以用 React 作为<脚本>标签！🤔这里有个方便的指南:[reactjs.org/docs/add-react…](https://t.co/gJwqp3ADJf)2018 年 6 月 27 日下午 15:32[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1011995700748521477)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1011995700748521477)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1011995700748521477)
+> ![unknown tweet media content](img/76e5ca2ee1d70cbfe97466b2f89027e8.png)![Dan Abramov profile image](img/8410abe414a98a3109390b1a1f7377ee.png)丹阿布拉莫夫[@丹 _ 阿布拉莫夫](https://dev.to/dan_abramov)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)你知道吗:不用 npm 就可以用 React 作为<脚本>标签！🤔这里有个方便的指南:[reactjs.org/docs/add-react…](https://t.co/gJwqp3ADJf)2018 年 6 月 27 日下午 15:32[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1011995700748521477)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1011995700748521477)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1011995700748521477)
 
 为什么 Ember.js 不能这样自我炒作？首先，Ember.js 已经有很多令人惊叹的功能，但它们并不都是新的。他们就在那里。他们工作了。他们在那里已经有一段时间了。当有新的和伟大的东西出现时，它就从宣传系统中溜走了。
 

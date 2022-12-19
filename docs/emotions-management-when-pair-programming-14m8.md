@@ -6,7 +6,7 @@
 
 #### 结对不仅仅是两个人一起工作。相互尊重、情绪管理等心理因素发挥作用。做好它需要时间，所以要有耐心，适当重复，直到你可以到达“[配对区](http://www.sportspsychologybasketball.com/2012/08/what-is-the-zone/)”。
 
-[![](../Images/7b83dab33d8d016b252b5695912568bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h3t-c2Z4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/0%2ANV2LOBi6QnMmLvp7.jpg)
+[![](img/7b83dab33d8d016b252b5695912568bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h3t-c2Z4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/0%2ANV2LOBi6QnMmLvp7.jpg)
 
 如果你不明白结对的好处，也许你应该从结对开始。让我们快速回顾一下:
 
@@ -43,7 +43,7 @@
 *   **不要口述代码**:如果你知道你想要什么，就把它打下来。口述很难理解，而且看起来居高临下。
 *   如果你喜欢这一天，结束时说“谢谢这一天”或“今天和你很配”。
 
-[![](../Images/f58f691c3c3dc60a2bd4752d8507fac5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L9F5QoaL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A07vV1hhpbvSnaYp7DSuq2w.jpeg)
+[![](img/f58f691c3c3dc60a2bd4752d8507fac5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L9F5QoaL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A07vV1hhpbvSnaYp7DSuq2w.jpeg)
 
 #### 情绪
 

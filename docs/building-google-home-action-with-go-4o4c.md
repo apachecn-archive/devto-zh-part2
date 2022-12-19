@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/plutov/building-google-home-action-with-go-4o4c>
 
-[![Building Google Home Action in Go](../Images/15e8750b2d3b07ede1b282075a585aa5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--esRWOXYP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w9juaw9a2tcmppl56c2o.jpg)
+[![Building Google Home Action in Go](img/15e8750b2d3b07ede1b282075a585aa5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--esRWOXYP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w9juaw9a2tcmppl56c2o.jpg)
 
 ### Google Home
 

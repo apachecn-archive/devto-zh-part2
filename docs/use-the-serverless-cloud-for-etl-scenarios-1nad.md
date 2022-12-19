@@ -6,7 +6,7 @@
 
 *无服务器*的本质是*少服务器*。服务器的细节被抽象出来，开发人员能够专注于代码，而不会陷入基础设施问题。提取、转换和加载(ETL)是企业应用程序中的一个常见场景，无服务器应用程序具有独特的优势。开发人员能够处理文件上传，设置计时器和时间表，并使用无服务器运行转换，而无需接触硬件，安装第三方服务或编写自定义轮询软件。
 
-[![](../Images/7259f2ec976fc1e9138ca5469138d973.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2MmZJ_3F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A2LmO4DODWQ5RESOg4vuNXQ.png) 
+[![](img/7259f2ec976fc1e9138ca5469138d973.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2MmZJ_3F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A2LmO4DODWQ5RESOg4vuNXQ.png) 
 
 <figcaption>常见的 ETL 场景通过本演练解决</figcaption>
 
@@ -26,6 +26,6 @@
 
 如果前面的列表包含了您感兴趣并想了解更多的场景，请在您的时间表中抽出一个小时，直接参加的[实践活动！](https://github.com/JeremyLikness/azure-fn-file-process-hol)
 
-[![](../Images/97adde39a566ae152324f60361115585.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u6zXBAsP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/197/1%2AKwXn3ElS7vnWIk8lNVhBsA.gif)
+[![](img/97adde39a566ae152324f60361115585.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u6zXBAsP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/197/1%2AKwXn3ElS7vnWIk8lNVhBsA.gif)
 
 * * *

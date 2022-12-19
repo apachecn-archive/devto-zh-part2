@@ -9,11 +9,11 @@
 给定以下场景:
 
 你正在编写一个程序，当你的房间温度过高时，它会自动打开你的窗户。您定义了一个打开窗口的函数和一个关闭窗口的函数。窗户上还有一把锁，可以防止窃贼进入。程序看起来如下:
-[![original program](../Images/f29d44b8bc5983702eb6c86007bea0d7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--c-JRKme5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bgz42wqsvjsyv9y1czi6.jpeg)
+[![original program](img/f29d44b8bc5983702eb6c86007bea0d7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--c-JRKme5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bgz42wqsvjsyv9y1czi6.jpeg)
 
 编译并运行代码后，一切看起来都很好，但是有一个问题您可能已经发现了:
 
-[![The window is never locked!](../Images/edd842724690c13c4575752555603b52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cWZ2utpz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/orjlx6ydpah85hn2b7zz.jpeg)
+[![The window is never locked!](img/edd842724690c13c4575752555603b52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cWZ2utpz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/orjlx6ydpah85hn2b7zz.jpeg)
 
 该程序从不锁定你的窗口！在这种情况下，不执行必要的功能。代码覆盖率可以帮助您找到不执行但应该执行的功能，或者您尚未测试的功能(因为它们从未执行过)。您可以使用代码覆盖率报告来进一步加强您的单元测试，并确认您的应用程序正常工作(在每种可能的情况下)。
 

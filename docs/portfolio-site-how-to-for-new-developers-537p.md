@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/itzsaga/portfolio-site-how-to-for-new-developers-537p>
 
-[![](../Images/0ea71aa0be2b39b3d236b61f17965b9f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uLCipiHI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ApsaLRl0apEfIf6KT.jpg)
+[![](img/0ea71aa0be2b39b3d236b61f17965b9f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uLCipiHI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ApsaLRl0apEfIf6KT.jpg)
 
 最近，我与纳什维尔的[自由代码营](https://www.facebook.com/groups/free.code.camp.nashville/)小组分享了我的[作品集网站](http://sethalexander.me/)，并收到了一些关于我用来构建它的一些技术和特性的询问。所以我想我应该分享这个网站的所有方面，以及一些使用我用过的工具的步骤。
 

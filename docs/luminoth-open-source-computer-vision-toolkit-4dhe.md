@@ -80,7 +80,7 @@ Predicting image.jpg... done.
 
 `lumi predict`命令默认使用别名为`accurate`的检查点，但是我们可以使用选项`--checkpoint=<alias_or_id>`指定其他方式。在现代 CPU 上运行大约 30 秒后，输出如下:
 
-[![](../Images/3aaf62c1e3700f229129a5e0487bec5f.png "People and bikes detected with the Faster R-CNN model.")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JbYgO9yw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aqtczuhu3lgjoanj2gya.png)
+[![](img/3aaf62c1e3700f229129a5e0487bec5f.png "People and bikes detected with the Faster R-CNN model.")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JbYgO9yw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aqtczuhu3lgjoanj2gya.png)
 
 您还可以将 JSON 输出写入一个文件(通过`--output`或`-f`选项)，并让 Luminoth 存储绘制了边界框的图像(通过`--save-media-to`或`-d`选项)。
 
@@ -99,7 +99,7 @@ Found 1 files to predict.
 Predicting video.mp4  [####################################]  100%     fps: 45.9
 ```
 
-[![SSD model applied to dog playing fetch.](../Images/da600e8045828321a84085d9730854d0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N4Mj-5P6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xowsrbzctqaqoiqkkun4.gif)
+[![SSD model applied to dog playing fetch.](img/da600e8045828321a84085d9730854d0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N4Mj-5P6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xowsrbzctqaqoiqkkun4.gif)
 
 它，快多了！该命令将通过逐帧运行 SSD 来生成视频，因此没有花哨的时间预测模型(至少目前没有)。在实践中，这意味着您可能会看到一些框中的抖动，以及一些预测的出现和消失，但没有什么后期处理不能修复的。
 
@@ -192,7 +192,7 @@ Neither checkpoint not config specified, assuming 'accurate'.
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 ```
 
-[![Luminoth's frontend with cars being detected.](../Images/60708dcb136e394761d5a09b849747f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fRS2Q9Fz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wuv53da8pord9z1e89xk.jpg)
+[![Luminoth's frontend with cars being detected.](img/60708dcb136e394761d5a09b849747f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fRS2Q9Fz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wuv53da8pord9z1e89xk.jpg)
 
 由于 Luminoth 是基于 Tensorflow 构建的，您还可以通过在配置中指定的`job_dir`上运行它来利用
 [Tensorboard](https://www.tensorflow.org/programmers_guide/summaries_and_tensorboard) ，以便查看训练进度。

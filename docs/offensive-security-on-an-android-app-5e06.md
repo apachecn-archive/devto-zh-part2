@@ -38,7 +38,7 @@ Android 应用程序基本上是压缩文件。它的扩展名是“apk”。
 然后，您可以访问存储器中的所有信息，并检查是否有有价值的东西泄露了(密码、cookies 等)。它是来自 [OWASP 移动 Top10](https://www.owasp.org/index.php/Mobile_Top_10_2016-Top_10) 的[不安全本地存储](https://www.owasp.org/index.php/Mobile_Top_10_2016-M2-Insecure_Data_Storage)。
 我们正在开发 apk，非常有趣的是*对 apk* 进行反编译，看看它的*源代码*，然后看看代码库中是否有一些有价值的东西，从密码、密钥到阻止用户特定行为的机制。我个人使用的是 Jadx，这是一个非常流行的 Java 反编译器。
 
-[![Jadx Graphical User Interface](../Images/50059a9abb8a46b091512dd608b3ce66.png)T2】](https://camo.githubusercontent.com/2b504e792e3ddb1d95094b44e01ab21e101b6f56/68747470733a2f2f692e696d6775722e636f6d2f6839313749425a2e706e67)
+[![Jadx Graphical User Interface](img/50059a9abb8a46b091512dd608b3ce66.png)T2】](https://camo.githubusercontent.com/2b504e792e3ddb1d95094b44e01ab21e101b6f56/68747470733a2f2f692e696d6775722e636f6d2f6839313749425a2e706e67)
 
 然而，比起图形用户界面，我更喜欢命令行 Jadx。
 
@@ -69,7 +69,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 3。接近
 
-[![“Credentials.xml” in the “shared_preferences”. Really?!!](../Images/7177e390bb0493755802d4d85154e340.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ICovLhMT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A3a4V67Ee51qYE71JknMEiA.png)
+[![“Credentials.xml” in the “shared_preferences”. Really?!!](img/7177e390bb0493755802d4d85154e340.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ICovLhMT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A3a4V67Ee51qYE71JknMEiA.png)
 
 正如你在我的一次渗透测试的截图中看到的，一旦我们通过 adb shell 进入“shared_preferences”文件夹，我们就可以看到一个“Credentials.xml”文件。我可以在里面找到以明文形式存储的登录名和密码。😱你可以想到一个应用程序/恶意软件，它会从用户的手机中过滤这些数据，然后非常容易地创建一个登录/密码数据库。这确实是一个非常严重的缺陷。🙅
 
@@ -99,13 +99,13 @@ Owasp ZAP 和 [Burp](https://portswigger.net/burp/) 也是非常流行的工具�
 
 > Owasp ZAP
 
-[![Owasp ZAP](../Images/a61d4187ced136796557f095ecaf425e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xU-uffHd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.owasp.org/images/thumb/7/78/ZAP-ScreenShotHelp.png/400px-ZAP-ScreenShotHelp.png.jpeg)
+[![Owasp ZAP](img/a61d4187ced136796557f095ecaf425e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xU-uffHd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.owasp.oimg/thumb/7/78/ZAP-ScreenShotHelp.png/400px-ZAP-ScreenShotHelp.png.jpeg)
 
 * * *
 
 > 打嗝代理
 
-[![Burp Proxy](../Images/78b9e0260fef30cb6d8eb8b327f6e466.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Sc6Oh-2V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://portswigger.net/sc/UsingBurp_BurpTools_1.png)
+[![Burp Proxy](img/78b9e0260fef30cb6d8eb8b327f6e466.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Sc6Oh-2V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://portswigger.net/sc/UsingBurp_BurpTools_1.png)
 
 * * *
 
@@ -121,7 +121,7 @@ Owasp ZAP 和 [Burp](https://portswigger.net/burp/) 也是非常流行的工具�
 
 您应该会很快看到应用程序的所有请求和响应。
 
-[![Here is a extract of mitmproxy from the Dailymotion application](../Images/d2c16f8864dc4872f9671624399ddeca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EXxUZLNv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2ABkFuwBK6dcsT0Mm_J4vbOA.png)
+[![Here is a extract of mitmproxy from the Dailymotion application](img/d2c16f8864dc4872f9671624399ddeca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EXxUZLNv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2ABkFuwBK6dcsT0Mm_J4vbOA.png)
 
 我喜欢将所有的响应/请求放在一个文件中，然后用 grep 和 Wireshark 自动学习。
 
@@ -142,13 +142,13 @@ Owasp ZAP 和 [Burp](https://portswigger.net/burp/) 也是非常流行的工具�
 
 *它叫做 [AndroSecTest](https://github.com/Shosta/androSecTest) ，在 Github 上有售。* 
 
-## *[![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--i3JOwpme--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev.to/assets/github-logo-ba8488d21cd8ee1fee097b8410db9deaa41d0ca30b004c0c63de0a479114156f.svg)[Shosta](https://github.com/Shosta)/[androSecTest](https://github.com/Shosta/androSecTest)*
+## *[![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--i3JOwpme--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev.to/assets/github-logo-ba8488d21cd8ee1fee097b8410db9deaa41d0ca30b004c0c63de0a479114156f.svg)[Shosta](https://github.com/Shosta)/[androSecTest](https://github.com/Shosta/androSecTest)*
 
 ### *从这个 app 中，连接一部手机，从中提取任何 app，反编译，解压，移除证书锁定，重新打包。同时，对其进行静态和动态分析。*
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-*[![Ask me anything](../Images/f38375515ef01b773629ceba17ffaae6.png)](https://github.com/Shosta/androSecTest/stargazers)[![Maintained](../Images/81116ae2c8c78934156f66f8872a36f3.png)](https://github.com/Shosta/androSecTest/stargazers)[![GitHub stars](../Images/ab208ac81e6cf807434ac458f72f9240.png)](https://github.com/Shosta/androSecTest/stargazers)[![GitHub forks](../Images/51b7fd2b4a750d62e647d93c49268706.png)](https://github.com/Shosta/androSecTest/network)[![GitHub license](../Images/f1b2e7dbcae465684900fa3a04dfa1b3.png)](https://github.com/Shosta/androSecTest/blob/master/LICENSE.md)[![Pentest](../Images/37bcc7d5e3c66d48b39893e2cdd480d9.png)](https://github.com/Shosta/androSecTest/stargazers)*
+*[![Ask me anything](img/f38375515ef01b773629ceba17ffaae6.png)](https://github.com/Shosta/androSecTest/stargazers)[![Maintained](img/81116ae2c8c78934156f66f8872a36f3.png)](https://github.com/Shosta/androSecTest/stargazers)[![GitHub stars](img/ab208ac81e6cf807434ac458f72f9240.png)](https://github.com/Shosta/androSecTest/stargazers)[![GitHub forks](img/51b7fd2b4a750d62e647d93c49268706.png)](https://github.com/Shosta/androSecTest/network)[![GitHub license](img/f1b2e7dbcae465684900fa3a04dfa1b3.png)](https://github.com/Shosta/androSecTest/blob/master/LICENSE.md)[![Pentest](img/37bcc7d5e3c66d48b39893e2cdd480d9.png)](https://github.com/Shosta/androSecTest/stargazers)*
 
 # *Android-Static-Security-Audit*
 

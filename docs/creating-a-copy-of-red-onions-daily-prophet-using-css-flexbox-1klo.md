@@ -12,17 +12,17 @@
 
 当你第一次看的时候，页面布局看起来非常复杂，但是我发现如果我把每一部分都看成一个盒子，会更容易。这是页面在框中的样子。
 
-[![Daily Prophet's sections as seen in boxes](../Images/0db4f5ec22d4fa27c1662e92af9dfa3a.png "Daily Prophet's sections as seen in boxes")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tanWJNNF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7gb2hsh0c147gqemi5so.png)
+[![Daily Prophet's sections as seen in boxes](img/0db4f5ec22d4fa27c1662e92af9dfa3a.png "Daily Prophet's sections as seen in boxes")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tanWJNNF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7gb2hsh0c147gqemi5so.png)
 
 ## 内嵌和阻塞元素
 
 一些框相互内联显示，而另一些则成块显示。默认情况下，当一个弯曲的父长方体有几个子体时，这些子体会并排显示在一行中。
 
-[![Items displayed inline](../Images/d02efbd36a96d0dd06ce13edef69b4a9.png "Items displayed inline")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yFael_iy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/igvz7gvuslim29vm9u1e.png)
+[![Items displayed inline](img/d02efbd36a96d0dd06ce13edef69b4a9.png "Items displayed inline")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yFael_iy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/igvz7gvuslim29vm9u1e.png)
 
 为了在每个子块中显示每个子块，可以使用 **flex-direction** 属性作为**列**。
 
-[![Items displayed in blocks](../Images/4e24c0ce89a6265c112cb984f3fbf709.png "Items displayed in blocks")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hhCxbSFW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1tgngg2z64e2t04egg44.png)
+[![Items displayed in blocks](img/4e24c0ce89a6265c112cb984f3fbf709.png "Items displayed in blocks")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hhCxbSFW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1tgngg2z64e2t04egg44.png)
 
 ## 包裹重叠元素
 

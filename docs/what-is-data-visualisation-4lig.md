@@ -4,7 +4,7 @@
 
 所以我一直在看这个帖子:
 
-[![anthonydelgado](../Images/c1b6c3a5b3b1fa89102767ab277f8ca7.png)](/anthonydelgado) [## JavaScript 正在吞噬世界
+[![anthonydelgado](img/c1b6c3a5b3b1fa89102767ab277f8ca7.png)](/anthonydelgado) [## JavaScript 正在吞噬世界
 
 ### 安东尼·德尔加多 8 月 24 日 173 分钟阅读
 

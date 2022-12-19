@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/geeksamu/building-angular-6-application-3icb>
 
-[![](../Images/965e8cc2cb31cdec3a54a29184fe202f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xlfbTJ3i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AByAhY7BtpARVPzkgM6yV1Q.png) 
+[![](img/965e8cc2cb31cdec3a54a29184fe202f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xlfbTJ3i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AByAhY7BtpARVPzkgM6yV1Q.png) 
 
 <figcaption>棱角分明 6 系</figcaption>
 
@@ -66,7 +66,7 @@ ng serve 将运行我们应用程序的服务器，参数- open 将在默认浏�
 
 现在你应该在浏览器中看到这个
 
-[![](../Images/5a4aa957ff0e467083072925956140ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2UWHDziz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A2y0SONIf8kaLLPnH.png)
+[![](img/5a4aa957ff0e467083072925956140ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2UWHDziz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A2y0SONIf8kaLLPnH.png)
 
 #### 创建组件
 

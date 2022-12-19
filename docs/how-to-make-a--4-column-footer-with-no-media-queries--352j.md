@@ -8,7 +8,7 @@
 
 网格是 css3 中的一个新东西，它是二维的，网格中的主要内容是很容易用更少的时间和代码来制作布局。
 
-[![footer With No media Queries](../Images/b994e8bc83e5ca520efb0e7e949dca63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m2-LjYf7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8dpziaekb3rsuwd2u0c8.gif)
+[![footer With No media Queries](img/b994e8bc83e5ca520efb0e7e949dca63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m2-LjYf7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8dpziaekb3rsuwd2u0c8.gif)
 
 **一行代码做所有事情**
 

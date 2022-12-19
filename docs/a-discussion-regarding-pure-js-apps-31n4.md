@@ -6,7 +6,7 @@
 
 同样的主题， [David](https://dev.to/gypsydave5) 不久前写了一篇文章“为什么你不应该使用 web 框架:
 
-[![gypsydave5 image](../Images/ae3081c50d4c953e1125e67f5f086a97.png)](/gypsydave5) [## 为什么不应该使用 Web 框架
+[![gypsydave5 image](img/ae3081c50d4c953e1125e67f5f086a97.png)](/gypsydave5) [## 为什么不应该使用 Web 框架
 
 ### 大卫·威克斯 7 月 26 日 184 分钟阅读
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/teekay/an-introduction-to-the-basic-principles-of-functional-programming-3e0n>
 
-[![](../Images/a16c1e84a65b83a2c66b3d3541eb6ee7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u070LOF9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AOtbWm_2OFtg7suie4zEtqA.png)
+[![](img/a16c1e84a65b83a2c66b3d3541eb6ee7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u070LOF9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AOtbWm_2OFtg7suie4zEtqA.png)
 
 在长时间学习和使用面向对象编程之后，我退一步思考系统复杂性。
 

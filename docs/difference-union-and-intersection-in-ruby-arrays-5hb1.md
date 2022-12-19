@@ -8,7 +8,7 @@
 
 ### 区别
 
-[![](../Images/51c3ce6cf9d23e36db1d1c91ae8ccc36.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lxRAjaZo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mlusgek25ysbdg49lsnl.png)
+[![](img/51c3ce6cf9d23e36db1d1c91ae8ccc36.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lxRAjaZo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mlusgek25ysbdg49lsnl.png)
 
 ```
 [1, 2, 3] - [3, 4, 5] = [1, 2]
@@ -20,7 +20,7 @@
 
 ### 工会
 
-[![](../Images/f4c9e33f721566c2d27ecc4aadfb82af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m3IIqN8F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yglqkaqwi6wcdlafvobg.png)
+[![](img/f4c9e33f721566c2d27ecc4aadfb82af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m3IIqN8F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yglqkaqwi6wcdlafvobg.png)
 
 ```
 [1, 2, 1, 2, 3] | [1, 2, 3, 4] = [1, 2, 3, 4] 
@@ -28,7 +28,7 @@
 
 ### 交集
 
-[![](../Images/ff27e035db5b457162ff0cffaa917d86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--STLm9wDq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4ci0qs73r29xe1g3sppf.png)
+[![](img/ff27e035db5b457162ff0cffaa917d86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--STLm9wDq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4ci0qs73r29xe1g3sppf.png)
 
 ```
 [1, 1, 3, 5] & [1, 2, 3] = [1, 3] 

@@ -6,7 +6,7 @@
 
 啊哈，抓到你了！你上当了，笨蛋。好吧，我该停止胡闹了。这篇文章的标题实际上是真实的，但有几点需要注意。这是我的网站:
 
-[![](../Images/0eaf47905ce8a517b0e3d6df8376ae6d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Yfcti2yC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.shalvah.me/store/media/zplj307cguvkz41v6y6l.gif)
+[![](img/0eaf47905ce8a517b0e3d6df8376ae6d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Yfcti2yC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.shalvah.me/store/media/zplj307cguvkz41v6y6l.gif)
 
 这将是一个有点长的阅读，所以如果你还没有准备好，这里有你需要的链接:
 
@@ -28,7 +28,7 @@
 
 为了让你知道我有多不喜欢网站，下面是我的网站以前的版本:
 
-[![](../Images/409f50593a83c2a4f54dfbea042d4881.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ex0CE2V7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.shalvah.me/store/media/ad5uvtvo11211jlxsdu5.PNG)
+[![](img/409f50593a83c2a4f54dfbea042d4881.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ex0CE2V7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.shalvah.me/store/media/ad5uvtvo11211jlxsdu5.PNG)
 
 是的，伙计们。就是这样。一些文字，一些图标。我想你可以说它看起来很体面，以极简主义的方式。我不顾一切地想在里面加入一些工程挑战，我添加了一个 hack 来获取和显示我最近的一些媒体文章。
 
@@ -119,7 +119,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 之后，剩下要做的就是将包发布到 NPM，然后用`npm install -g shalvah`安装，瞧:
 
-[![](../Images/e405f70d34e7a1ec02066b211bb6f64b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--24EUk_0Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.shalvah.me/store/media/qqjes6p80semcjy8tboz.gif)
+[![](img/e405f70d34e7a1ec02066b211bb6f64b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--24EUk_0Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.shalvah.me/store/media/qqjes6p80semcjy8tboz.gif)
 
 ## 建设网站
 
@@ -229,7 +229,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我面临的另一个挑战是调整终端的大小，使它在桌面和移动上都很好看，没有任何难看的滚动条。以下是我希望它在手机上的样子:
 
-[![](../Images/ef4e19e36e33d1974ea6d3061cc9147d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mqlYhor6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.shalvah.me/store/media/axgjx11utkix6d7cis85.PNG)
+[![](img/ef4e19e36e33d1974ea6d3061cc9147d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mqlYhor6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.shalvah.me/store/media/axgjx11utkix6d7cis85.PNG)
 
 要做到这一点有点困难，因为终端窗口的大小不仅受 CSS 规则的影响，还受每行的行数和列数的影响，而行数和列数又受字体大小的影响。这非常棘手。如果列数多了 1 个单位，就会出现滚动条。在做了一些研究并尝试了许多方法之后，我决定采用这个方法:
 
@@ -303,7 +303,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 漫长的几个小时后，终端终于工作了！
 
-[![](../Images/0eaf47905ce8a517b0e3d6df8376ae6d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Yfcti2yC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.shalvah.me/store/media/zplj307cguvkz41v6y6l.gif)
+[![](img/0eaf47905ce8a517b0e3d6df8376ae6d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Yfcti2yC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.shalvah.me/store/media/zplj307cguvkz41v6y6l.gif)
 
 ## 值得吗？
 

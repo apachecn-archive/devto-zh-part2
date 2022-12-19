@@ -103,7 +103,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <figure>
 
-[![VScode debugging in action](../Images/1583c8c214729e60609d75cba4f04574.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gQ7403KK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7krvrs464f3qhj3yvg8h.png)
+[![VScode debugging in action](img/1583c8c214729e60609d75cba4f04574.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gQ7403KK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7krvrs464f3qhj3yvg8h.png)
 
 <figcaption>VScode debugging in action</figcaption>
 

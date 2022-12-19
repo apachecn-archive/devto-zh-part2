@@ -12,7 +12,7 @@
 
 尽管完全工作的量子电脑可能还需要 10 年才能进入现实世界，但新的风险和新职业正在蚕食这一创新，直接完成了天际线。量子计算在信息安全、精确的长期气候估计、电子通信以及新处方和新材料的创新工作中提供了更突出的进展。
 
-[![Quantum Computer](../Images/ee12f4b16834d9104dca1d206494ad6f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bWXlN6OJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4ikewbycvv035emtge9u.jpg)
+[![Quantum Computer](img/ee12f4b16834d9104dca1d206494ad6f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bWXlN6OJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4ikewbycvv035emtge9u.jpg)
 
 ## 量子计算基于“量子叠加”概念
 

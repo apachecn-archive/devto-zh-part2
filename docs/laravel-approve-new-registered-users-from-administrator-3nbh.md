@@ -33,7 +33,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 所以我们可以用这个表单登录:
 
-[![Laravel login auth](../Images/3172e2a407f34dc2cea9541c9f511082.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kRGBnIo---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://laraveldaily.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-22-at-11.12.32-AM.png)
+[![Laravel login auth](img/3172e2a407f34dc2cea9541c9f511082.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kRGBnIo---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://laraveldaily.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-22-at-11.12.32-AM.png)
 
 从`users` DB 表的角度来看，我们需要添加两个字段:
 
@@ -126,7 +126,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 此时，如果我们使用凭证`admin@admin.com` - `verysafepassword`登录，我们应该会看到我们的空主页仪表板，默认为 Laravel。
 
-[![Laravel auth home dashboard](../Images/7704b8333719551a9dd03f6ddea0a019.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QMVkIK1f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://laraveldaily.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-22-at-10.37.17-AM.png)
+[![Laravel auth home dashboard](img/7704b8333719551a9dd03f6ddea0a019.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QMVkIK1f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://laraveldaily.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-22-at-10.37.17-AM.png)
 
 * * *
 
@@ -176,7 +176,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 它看起来是这样的:
 
-[![Laravel user approve](../Images/4e20252952002495106f88cc58d853d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---Fi5cip8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://laraveldaily.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-22-at-11.16.24-AM.png)
+[![Laravel user approve](img/4e20252952002495106f88cc58d853d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---Fi5cip8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://laraveldaily.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-22-at-11.16.24-AM.png)
 
 最后，我们需要一条**路线**给它。让我们把它放在`auth`中间件下，我们的`routes/web.php`会是这样的:
 
@@ -367,7 +367,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 因此，对于每个新用户，管理员都会得到类似这样的信息:
 
-[![Laravel mailtrap email](../Images/dcfced63af02dee10dd64edf34019227.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QhJintHQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://laraveldaily.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-22-at-11.16.39-AM.png)
+[![Laravel mailtrap email](img/dcfced63af02dee10dd64edf34019227.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QhJintHQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://laraveldaily.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-22-at-11.16.39-AM.png)
 
 * * *
 
@@ -538,6 +538,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 最终视觉效果:
 
-[![Laravel administrator approve users](../Images/a9259c0682bac2c277d5249632293ea2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VrlZXIOa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://laraveldaily.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-22-at-11.19.10-AM.png)
+[![Laravel administrator approve users](img/a9259c0682bac2c277d5249632293ea2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VrlZXIOa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://laraveldaily.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-22-at-11.19.10-AM.png)
 
 因此，这可能是在 Laravel 中批准新注册用户的最快方法。很简单，是吧？

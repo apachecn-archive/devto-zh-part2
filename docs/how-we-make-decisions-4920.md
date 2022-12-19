@@ -36,31 +36,31 @@
 
 ### 1。抛锚陷阱。
 
-[![Anchoring trap](../Images/b8d56139a260932e97dc89b6d0523410.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V7_u4bC8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.actitime.com/dist/img/blog/anchor-blog-post.png)
+[![Anchoring trap](img/b8d56139a260932e97dc89b6d0523410.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V7_u4bC8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.actitime.com/dist/img/blog/anchor-blog-post.png)
 
 当你已经有一些参考数字时，估计任何事情都比较容易。当你对这个问题有一个模糊的想法时，这就特别棘手了。这种陷阱在价格谈判中被广泛使用(并且经常有效)，当卖方“仅仅为了规模”而设定过高的价格时。他们并不真的期望买方同意支付他们的初始价格，但由此产生的金额通常高于其他情况。如何避免锚定？在咨询他人之前，从自己的角度看待问题，从不同的来源寻求信息，在采取任何行动或谈判之前，仔细思考自己的立场。
 
 ### 2。现状陷阱。
 
-[![status quo trap](../Images/1333a074ec94c84bb11b5bd52fb0b494.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HiXL0mgo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.actitime.com/dist/img/blog/status-quo.png)
+[![status quo trap](img/1333a074ec94c84bb11b5bd52fb0b494.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HiXL0mgo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.actitime.com/dist/img/blog/status-quo.png)
 
 简而言之，我们倾向于保持事物不变。适应新环境要求很高，而且总是害怕失败。在商业中，等待和犹豫往往会导致错失良机。这经常发生在投资中:投资者宁愿等待观望，而不是冒险投资。然而，对资本来说，等待可能比将其投入高风险事业更糟糕。为了避免现状的陷阱，提醒自己你的目标，问问自己如果现状不是现实，你会怎么做，永远不要把现状当成你唯一的选择。
 
 ### 3。沉没成本陷阱。
 
-[![Sunk cost trap](../Images/3c725246da7ae41b461bd05edd2afd03.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WlePJlRB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.actitime.com/dist/img/blog/sunk-cost.png)
+[![Sunk cost trap](img/3c725246da7ae41b461bd05edd2afd03.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WlePJlRB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.actitime.com/dist/img/blog/sunk-cost.png)
 
 这是为了证明我们之前的选择是正确的，即使(尤其是)是错误的。我们过去的决定就像经济学家所说的“沉没成本”——不可收回的投资——一样，每一个新的决定都受到它们的影响。这种偏见经常出现在银行业:当借款人遇到财务问题时，贷款人会向他们提供额外的资金，即使很明显这些成本永远无法收回。为了避免沉没成本陷阱，倾听那些没有参与事件早期发展的人，不要害怕尽早承认你的错误，不要让对失败的恐惧影响你的思考和决定。
 
 ### 4。确认证据陷阱。
 
-[![Confirming evidence trap](../Images/703794a9c6a295034da452aaf8a20945.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BRw1vxRI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.actitime.com/dist/img/blog/Confirming-evidence.png)
+[![Confirming evidence trap](img/703794a9c6a295034da452aaf8a20945.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BRw1vxRI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.actitime.com/dist/img/blog/Confirming-evidence.png)
 
 这是为我们下意识倾向的选择寻找理由。这并不是说潜意识的选择总是一个糟糕的选择——只是要确保你的决定是明智的。对自己的动机要诚实，为自己的决定寻找反驳的理由，或者让别人来帮你做这些，当寻求建议时，不要问那些会引起确认证据的引导性问题。
 
 ### 5。框架陷阱。
 
-[![Framing trap](../Images/3bc6b5dbaff38437ee8b35b2f4a80601.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ofauowrS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.actitime.com/dist/img/blog/framing-trap.png)
+[![Framing trap](img/3bc6b5dbaff38437ee8b35b2f4a80601.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ofauowrS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.actitime.com/dist/img/blog/framing-trap.png)
 
 框定问题是在很大程度上定义最终决策的第一步。关键的想法是适当地构建它:关注正确的事情，相关的参考点，以及适当的术语。让我们来看看由丹尼尔·卡内曼和阿莫斯·特沃斯基制定的经典实验，有人提出如下建议:
 
@@ -74,7 +74,7 @@
 
 ### 6。估计和预测陷阱。
 
-[![Estimating and forecasting trap](../Images/38703e16a87b7bb6a6555f543e69ee44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---ChbBSyT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.actitime.com/dist/img/blog/estimating-and-forecasting.png)
+[![Estimating and forecasting trap](img/38703e16a87b7bb6a6555f543e69ee44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---ChbBSyT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.actitime.com/dist/img/blog/estimating-and-forecasting.png)
 
 我们中没有多少人擅长估算，但我们仍然让估算来指导我们的思考和决策。过度自信和过度谨慎都是不好的，因为受它们影响的估计与现实几乎没有共同之处。为了避免与估计和预测相关的失败，对你的估计和它们的准确性保持诚实，记住以前的事件会影响你的估计，并且总是考虑超出你的估计的极端情况。
 

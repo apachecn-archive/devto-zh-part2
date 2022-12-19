@@ -6,7 +6,7 @@
 
 **免责声明:**这是我的第一篇博文:)。经过多年的拖延，我终于能够专心致志地坐下来写一篇文章。如果你发现写得不够好，那么请让我知道我可以在未来的文章中改进什么。谢谢，请慢用！
 
-[![Hassle Free Life](../Images/03ef3cbb212caa94b9794f640445c3fd.png "Hassle Free Life")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k1sq32cj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A3j7oRXpqinBlyydcf7U6-A.png)
+[![Hassle Free Life](img/03ef3cbb212caa94b9794f640445c3fd.png "Hassle Free Life")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k1sq32cj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A3j7oRXpqinBlyydcf7U6-A.png)
 
 我目前在一家专注于体育新闻和娱乐的媒体公司工作。我们的大部分可读内容都是众包的。我们的内容创作者根据他们的文章产生的收入获得报酬。这是一个非常透明的系统，而且扩展性很好。这种不断增长的规模有利于业务发展，但也给我们的工程团队带来了许多挑战。因此，我们总是专注于构建系统，能够处理大量的流量，而不会给我们的用户和内容创作者带来任何停机时间。
 
@@ -103,7 +103,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 **在客户端**
 
-[![Client Side](../Images/76b1a4e1226fdaa5f0c9cb7fa7975b85.png "Client side")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sXd_KhXr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AtRuHjWXphDVm3P_dB4_CUw.png)
+[![Client Side](img/76b1a4e1226fdaa5f0c9cb7fa7975b85.png "Client side")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sXd_KhXr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AtRuHjWXphDVm3P_dB4_CUw.png)
 
 在客户端。来源:链接
 
@@ -113,7 +113,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 **在 AWS 服务器上**
 
-[![Server Side](../Images/ab024b210a42e8742eaea633b21a600d.png "Server side")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OMmpcGxM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AfubNyDwu3D9mzBbgE7s4Vw.png)
+[![Server Side](img/ab024b210a42e8742eaea633b21a600d.png "Server side")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OMmpcGxM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AfubNyDwu3D9mzBbgE7s4Vw.png)
 
 在 AWS 服务器上。来源:链接
 

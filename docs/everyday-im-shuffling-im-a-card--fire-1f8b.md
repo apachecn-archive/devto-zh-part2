@@ -8,19 +8,19 @@
 
 在这种洗牌中，一组卡片从底部转移到顶部，同样的过程递归执行。
 
-[![overhand shuffle](../Images/3b418f382504b7be0dd84b54e51ff347.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6Cyu4uGg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j45nr8lkzklnhg1rbb95.jpg)
+[![overhand shuffle](img/3b418f382504b7be0dd84b54e51ff347.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6Cyu4uGg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j45nr8lkzklnhg1rbb95.jpg)
 
 一副牌本质上是长度为 52 的固定大小的阵列。上手洗牌将一组牌从数组的末尾放到数组的开头。这个过程重复进行，以获得良好的洗牌。
 
 **重复洗牌**
 
-[![riffle shuffle](../Images/b94d2af34229f93dc54e7106af6c0bad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9TZw_swZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5lczb2w52vh9gxjm12uo.gif)
+[![riffle shuffle](img/b94d2af34229f93dc54e7106af6c0bad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9TZw_swZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5lczb2w52vh9gxjm12uo.gif)
 
 这涉及到把牌切成两半，这样我们就有了两组牌，然后把它们重新洗牌，这样最后两半牌就交错在一起了。
 
 riffle shuffle 的快速实现如下所示。
 
-[![kata](../Images/43424d80b61364d1097d54c4ded06f7f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hf942bHP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/88cjgoufggzflq6jmx4z.png)
+[![kata](img/43424d80b61364d1097d54c4ded06f7f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hf942bHP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/88cjgoufggzflq6jmx4z.png)
 
 现有的洗牌算法运行速度更快，并给出一致的结果。这些算法依靠随机化来在每次迭代中生成唯一的随机数。
 
@@ -32,11 +32,11 @@ Fisher-Yates shuffle 就是这样一种使用随机数发生器实现完美洗�
 
 与在两个不同的索引处交换项目不同，该算法在数组内的元素范围之间生成一个随机数 k。每次迭代都会更新范围中的最后一个元素，因此随机生成器每次迭代都会在新的范围内工作，并且每次都会生成一个唯一的数字。
 
-[![kata](../Images/066033070e1b4903041fcd2b0b729660.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---7F3mNVZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l377t94t4dk1fca402oc.png)
+[![kata](img/066033070e1b4903041fcd2b0b729660.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---7F3mNVZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l377t94t4dk1fca402oc.png)
 
 上述算法在线性时间内工作，比 riffle shuffle 更快。为 100 个整数的数组设置两种混洗算法的时间会产生以下结果。
 
-[![kata](../Images/0965d74252c1378bb16d88eead2f91c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a9Qzd3Er--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vi8mpbfrq999nfa6q7jl.png)
+[![kata](img/0965d74252c1378bb16d88eead2f91c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a9Qzd3Er--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vi8mpbfrq999nfa6q7jl.png)
 
 编程语言在其内置的 shuffle 方法实现中使用类似的算法。Java 的 shuffle 方法的实现可以通过调用
 
@@ -46,7 +46,7 @@ Fisher-Yates shuffle 就是这样一种使用随机数发生器实现完美洗�
 
 Java 文档中 Shuffle 方法的实现
 
-[![kata](../Images/8cf6e0b36c9789343d6d8dbcedaff51c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EXLD6Fjr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/onwuxfzjhcrks36dil00.png)
+[![kata](img/8cf6e0b36c9789343d6d8dbcedaff51c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EXLD6Fjr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/onwuxfzjhcrks36dil00.png)
 
 ### 随机化能提高算法的运行时间吗？
 
@@ -76,4 +76,4 @@ Java 文档中 Shuffle 方法的实现
 如果你想让我写一个特定的话题，请在下面的评论区随意发表。
 
 你可以在下面给我买杯咖啡来支持我的工作。💚💚💚💚💚💚！！
-[![Buy me a ko-fi](../Images/2c34722d2ff9357df105fc9e9ec792b6.png)T3】](https://ko-fi.com/F1F0J8U1)
+[![Buy me a ko-fi](img/2c34722d2ff9357df105fc9e9ec792b6.png)T3】](https://ko-fi.com/F1F0J8U1)

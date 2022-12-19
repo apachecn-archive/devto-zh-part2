@@ -12,11 +12,11 @@
 
 看看这个，很多人都在等着做数据录入工作。这是大量重复劳动的廉价劳动力。
 
-[![](../Images/3a5cf87e5acc333fc62bc3596fc1ec04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IgDlmep5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/Nw79d72.png)
+[![](img/3a5cf87e5acc333fc62bc3596fc1ec04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IgDlmep5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/Nw79d72.png)
 
 在电话里，我让他给我展示一个他当时正在做的真实作品。他向我展示了他最近的工作，他花了大约 5-10 个小时将 2005 年早期网站上的一些数据复制粘贴到电子表格中。通常的过程是这样的，
 
-[![](../Images/18d4d27bb2ed5d075dbba898de7cce28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V4Q_5zmN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mzu9ismc3oz3nsfcsm9j.png)
+[![](img/18d4d27bb2ed5d075dbba898de7cce28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V4Q_5zmN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mzu9ismc3oz3nsfcsm9j.png)
 
 大约有 1.8k 的数据需要填充。我们还测量了只做其中一项需要多少时间，大约需要 1~1.5 分钟。那时他已经做了大约 600 个数据。
 
@@ -42,7 +42,7 @@
 
 看看编程实际上是如何解决现实世界的问题的？它用时间解决了这个问题。我用一个真实世界的例子向一个新手解释了整个愚蠢的事情，在这个例子中，他是简单任务无聊的受害者。现在我让他在我未来的课程上上钩了！
 
-[![](../Images/bf235c44df27bd965df603fa2c4465d9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9b7xjtti--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/kcsZeYV.png) 
+[![](img/bf235c44df27bd965df603fa2c4465d9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9b7xjtti--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/kcsZeYV.png) 
 检查一下这些家伙，他们会提供同样的东西。同样的数据录入，网络调研等等。但是用了不同的方法。他们会明智地花时间写剧本。
 
 如果一个数据输入工作者学习编程，这将是他/她最好的时间投资。超级辛苦，路很长。当他们将知识付诸行动后，他们的生活将会改变。他们会过上更好的生活。
@@ -57,4 +57,4 @@ btw，你能不能写一个脚本或者用一个程序把这个很大很无聊�
 
 这是没有任何并发的最终产品的样子。它能够在不到 1 小时的时间内保存 800 多条数据(同样，没有任何并发)。它可以轻松地遍历整个流程，在 1-5 秒内获取数据，而不是每行 1 分钟。稍后会有更多关于这方面的内容。
 
-[![](../Images/b4384bbf801e2ebf46c102653a4ad75c.png)T2】](https://i.giphy.com/media/fx51b8M8cUOd4zARML/giphy.gif)
+[![](img/b4384bbf801e2ebf46c102653a4ad75c.png)T2】](https://i.giphy.com/media/fx51b8M8cUOd4zARML/giphy.gif)

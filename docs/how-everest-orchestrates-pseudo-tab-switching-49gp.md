@@ -12,7 +12,7 @@ Everest 是我今年一直在做的 REST API 测试客户端。它是用 JavaFX 
 
 # 问题
 
-[![dashboard](../Images/50f04c7565a6f41c3a9eb5536a7aed0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yesml63y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h856ldo18013tjzyaeap.jpg)
+[![dashboard](img/50f04c7565a6f41c3a9eb5536a7aed0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yesml63y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h856ldo18013tjzyaeap.jpg)
 
 这是珠穆朗玛峰的仪表板。您可以撰写和发送请求，还可以在其中查看他们的响应。您可以在不同的标签中打开多个文件。
 
@@ -33,7 +33,7 @@ Everest 是我今年一直在做的 REST API 测试客户端。它是用 JavaFX 
 
 > “你为什么要写一篇关于这个的文章，Rohit？我的猫在睡觉时也能这样做。”你会说。
 
-[![cat typing](../Images/b48dcd94a9d30c1554b7a5e2bcba51db.png)T2】](https://i.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
+[![cat typing](img/b48dcd94a9d30c1554b7a5e2bcba51db.png)T2】](https://i.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
 
 你有一只聪明的猫。玩笑归玩笑，实现这个逻辑并不是一帆风顺的，我遇到了一些我没有预料到的设计问题，但最终得到了一些我非常满意和自豪的解决方案。
 
@@ -73,7 +73,7 @@ Everest 使用`setOnRunning()`来触发仪表板的加载动画，`setOnSucceede
 
 例如，如果`DashboardController`的用于`setOnSucceeded()`的 lambda 通过修改屏幕上标签的文本值来显示响应的状态代码，那么相应的由`DashboardState`设置的 lambda 将修改其自身的`statusCode`属性。
 
-[![PTS in action](../Images/c0c402a93565b7505cdfb1062a08a51f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0l3WF3Mq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/89d3h2mhggdqvq96xdsu.gif)
+[![PTS in action](img/c0c402a93565b7505cdfb1062a08a51f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0l3WF3Mq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/89d3h2mhggdqvq96xdsu.gif)
 
 现在，当用户切换回选项卡 A 时，A 的状态将被应用到仪表板，仪表板又将被 DashboardState 设置的 lambdas 更新！
 
@@ -81,7 +81,7 @@ TLDR？PTS 允许您在选项卡之间切换，即使您有请求在一个或多
 
 # 收获💪
 
-[![comparison](../Images/14df2a9e01ad46f037724c08254e395f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YSwUSMoZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uwy63e5kvz0ul3z5lzwz.jpg) 
+[![comparison](img/14df2a9e01ad46f037724c08254e395f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YSwUSMoZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uwy63e5kvz0ul3z5lzwz.jpg) 
 这个比较是在 Alpha 1.2 *(不带 PTS)* 和即将发布的 Alpha 1.4 *(带 PTS)* 之间进行的，每个实例都有 7 个标签。随着选项卡的增多，差异会变得更大，因为 v1.4 只需创建另一个`DashboardState`实例，而不是像 v1.2 那样创建一个完整的仪表板。
 
 这里和那里仍有微小改进的余地，一旦我们达到一个功能锁定，这将在今年年底或明年年初发生。
@@ -105,17 +105,17 @@ TLDR？PTS 允许您在选项卡之间切换，即使您有请求在一个或多
 
 在 GitHub 上查看珠穆朗玛峰，试用 Alpha 1.3。让你的开发者朋友了解一下。请继续关注未来的更新，因为我们将在明年年初发布一个稳定的版本。
 
-## ![GitHub logo](../Images/375dfcc32199b4dedf2b526645c27ff7.png) [ RohitAwate ](https://github.com/RohitAwate) / [珠穆朗玛峰](https://github.com/RohitAwate/Everest)
+## ![GitHub logo](img/375dfcc32199b4dedf2b526645c27ff7.png) [ RohitAwate ](https://github.com/RohitAwate) / [珠穆朗玛峰](https://github.com/RohitAwate/Everest)
 
 ### 一个漂亮的跨平台 REST 客户端。
 
 <article class="markdown-body entry-content p-5" itemprop="text">
 
-[![everestheader](../Images/2cb2af6a5774b6081cc5bfa9c3fb76a0.png)T2】](https://user-images.githubusercontent.com/23148259/39124644-c886b47a-4719-11e8-953c-f079b3edb664.png)
+[![everestheader](img/2cb2af6a5774b6081cc5bfa9c3fb76a0.png)T2】](https://user-images.githubusercontent.com/23148259/39124644-c886b47a-4719-11e8-953c-f079b3edb664.png)
 
 Everest *(原餐厅)*是一个即将推出的 REST API 测试客户端，用 JavaFX 编写。
 
-[![home](../Images/a06c191e4efc18308e4145493e9e4029.png) ](https://user-images.githubusercontent.com/23148259/45769743-23e5a380-bc5e-11e8-9e45-5ea50342c19f.PNG) *珠穆朗玛运行在 Windows 10 上。*
+[![home](img/a06c191e4efc18308e4145493e9e4029.png) ](https://user-images.githubusercontent.com/23148259/45769743-23e5a380-bc5e-11e8-9e45-5ea50342c19f.PNG) *珠穆朗玛运行在 Windows 10 上。*
 
 # 为什么是珠峰？
 
@@ -129,7 +129,7 @@ Everest *(原餐厅)*是一个即将推出的 REST API 测试客户端，用 Jav
 
 *   珠穆朗玛峰将为您的项目提供云同步，由 [Summit](https://github.com/RohitAwate/Summit) 提供支持。它将在明年年初作为云服务推出，或者你也可以选择自己托管它。
 
-# 实况特写<g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji>
+# 实况特写<g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f525.png">🔥</g-emoji>
 
 #### 所有最常见的
 

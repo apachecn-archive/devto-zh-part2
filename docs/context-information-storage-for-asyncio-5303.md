@@ -135,7 +135,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们更深入地研究一下 asyncio 的内部。被调度执行的协程被包装到 asyncio 中。任务[对象](https://docs.python.org/3/library/asyncio-task.html#task)，负责在事件循环中执行协程对象。
 
-[![https://docs.python.org/3/_images/tulip_coro.png](../Images/34511f9626bcad516f6cf0c2842d1fad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pAwvGajS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.sqreen.io/wp-content/uploads/2018/02/https-docs-python-org-3-_images-tulip_coro-png.png%3Fw%3D840%26ssl%3D1)
+[![https://docs.python.org/3/_images/tulip_coro.png](img/34511f9626bcad516f6cf0c2842d1fad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pAwvGajS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.sqreen.io/wp-content/uploads/2018/02/https-docs-python-org-3-_images-tulip_coro-png.png%3Fw%3D840%26ssl%3D1)
 
 *示例的顺序图*
 

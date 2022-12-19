@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/mitchjacksontech/would-you-pay-a-data-ransom-3h5f>
 
-[![TMBG Ticket](../Images/de2e88be840d170815bd605345baf068.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TzbTUgf8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yjii08osib4n3iqphbl1.jpg)
+[![TMBG Ticket](img/de2e88be840d170815bd605345baf068.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TzbTUgf8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yjii08osib4n3iqphbl1.jpg)
 
 # Ticketfly.com 数据泄露
 

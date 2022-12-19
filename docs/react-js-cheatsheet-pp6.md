@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/fabiofranzini/react-js-cheatsheet-pp6>
 
-<figure>[![](../Images/309ca5f880abf175f8658ad1d06fb9ba.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RePqAEIA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AsiRjmNAVnqwJ6ggFAmA3Og.png)
+<figure>[![](img/309ca5f880abf175f8658ad1d06fb9ba.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RePqAEIA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AsiRjmNAVnqwJ6ggFAmA3Og.png)
 
 <figcaption>react . js cheat sheet</figcaption>
 

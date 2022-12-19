@@ -4,7 +4,7 @@
 
 这个帖子有很多很棒的答案:
 
-[![aspittel](../Images/45a8d86fe0ff981bf7cdb45b471a3c5c.png)](/aspittel) [## 你对学习什么不感兴趣？
+[![aspittel](img/45a8d86fe0ff981bf7cdb45b471a3c5c.png)](/aspittel) [## 你对学习什么不感兴趣？
 
 ### 阿里·斯皮特尔 11 月 5 日 182 分钟阅读
 
@@ -12,15 +12,15 @@
 
 我试着去评论，但是不能真正指出我不感兴趣的东西。相反，我只是阅读，我相信这些答案中有很多智慧。尽情享受吧！
 
-[![dmfay profile image](../Images/130564eb95ceaeb2bb4b978edaafd9f3.png) ](/dmfay) [ Dian Fay ](/dmfay) • [<time datetime="2018-11-06T00:08:06Z" class="date-short-year"> Nov 6 '18 </time> • Edited on <time datetime="2018-11-06T03:26:44Z" class="hidden m:inline-block date-no-year">Nov 6</time>](https://dev.to/dmfay/comment/6j3f) 
+[![dmfay profile image](img/130564eb95ceaeb2bb4b978edaafd9f3.png) ](/dmfay) [ Dian Fay ](/dmfay) • [<time datetime="2018-11-06T00:08:06Z" class="date-short-year"> Nov 6 '18 </time> • Edited on <time datetime="2018-11-06T03:26:44Z" class="hidden m:inline-block date-no-year">Nov 6</time>](https://dev.to/dmfay/comment/6j3f) 
 
 现代前端工具链是我挖掘“全栈”思想的地方。我可以用服务器呈现的模板语言做任何我需要做的事情；如果我在做一些需要认真理解 React 或 Vue 或 Webpack 的事情，我会和了解 React 或 Vue 或 Webpack 的人一起工作。我可以很好地解决那里正在发生的事情，足以修复问题并添加次要功能，但我对深入挖掘毫无兴趣。
 
-[![ballpointcarrot profile image](../Images/ba23e9c1f09eb047d5543c02eb3f7a3f.png) ](/ballpointcarrot) [ Christopher Kruse ](/ballpointcarrot) • [<time datetime="2018-11-06T01:22:43Z" class="date-short-year"> Nov 6 '18 </time>](https://dev.to/ballpointcarrot/comment/6j4m) 
+[![ballpointcarrot profile image](img/ba23e9c1f09eb047d5543c02eb3f7a3f.png) ](/ballpointcarrot) [ Christopher Kruse ](/ballpointcarrot) • [<time datetime="2018-11-06T01:22:43Z" class="date-short-year"> Nov 6 '18 </time>](https://dev.to/ballpointcarrot/comment/6j4m) 
 
 机器学习。我把它看作是新的事物，到处扔来扔去，我就是没有精力去钻研它的复杂性(既有背后的科学，也有大量不同的可用库)。
 
-[![maxwell_dev profile image](../Images/706c11009973de92d34cc5a782bdd8c2.png) ](/maxwell_dev) [ Max Antonucci ](/maxwell_dev) • [<time datetime="2018-11-06T02:00:49Z" class="date-short-year"> Nov 6 '18 </time>](https://dev.to/maxwell_dev/comment/6j5c) 
+[![maxwell_dev profile image](img/706c11009973de92d34cc5a782bdd8c2.png) ](/maxwell_dev) [ Max Antonucci ](/maxwell_dev) • [<time datetime="2018-11-06T02:00:49Z" class="date-short-year"> Nov 6 '18 </time>](https://dev.to/maxwell_dev/comment/6j5c) 
 
 VIM 和 DevOps 其实在我现在的名单上哈哈，虽然那也是我现在经理的建议。我自己的清单包括:
 
@@ -30,9 +30,9 @@ VIM 和 DevOps 其实在我现在的名单上哈哈，虽然那也是我现在�
 
 我也想包括微积分，但是我的微积分漫画书总是把我拉回来。
 
-[![](../Images/0ff1ec36796904825d2d245b5f0393a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FyDZX9sI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ahizjb1zqo5wnfnf25k3.png)
+[![](img/0ff1ec36796904825d2d245b5f0393a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FyDZX9sI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ahizjb1zqo5wnfnf25k3.png)
 
-[![rhymes profile image](../Images/557aa2636ae2993dfd13f29772ceb666.png) ](/rhymes) [ rhymes ](/rhymes) • [<time datetime="2018-11-06T11:30:29Z" class="date-short-year"> Nov 6 '18 </time>](https://dev.to/rhymes/comment/6jcd) 
+[![rhymes profile image](img/557aa2636ae2993dfd13f29772ceb666.png) ](/rhymes) [ rhymes ](/rhymes) • [<time datetime="2018-11-06T11:30:29Z" class="date-short-year"> Nov 6 '18 </time>](https://dev.to/rhymes/comment/6jcd) 
 
 很棒的问题！
 
@@ -54,13 +54,13 @@ VIM 和 DevOps 其实在我现在的名单上哈哈，虽然那也是我现在�
 
 *   PHP/Wordpress/Drupal:我知道，我知道。我不应该以貌取人
 
-[![lkopacz profile image](../Images/84dfcee981cb4b15736fca2f7c15da1f.png) ](/lkopacz) [ Lindsey Kopacz ](/lkopacz) • [<time datetime="2018-11-06T13:58:49Z" class="date-short-year"> Nov 6 '18 </time>](https://dev.to/lkopacz/comment/6jec) 
+[![lkopacz profile image](img/84dfcee981cb4b15736fca2f7c15da1f.png) ](/lkopacz) [ Lindsey Kopacz ](/lkopacz) • [<time datetime="2018-11-06T13:58:49Z" class="date-short-year"> Nov 6 '18 </time>](https://dev.to/lkopacz/comment/6jec) 
 
 DevOps。区块链。棱角分明。
 
 很难不陷入闪亮物体综合症，所以我认为你真的必须把重点放在你成为开发人员的目标上。一如既往，谢谢你发这个帖子，阿里:)
 
-[![simoroshka profile image](../Images/817fd65c8ded895868edcd21dc94e96f.png) ](/simoroshka) [ Anna Simoroshka ](/simoroshka) • [<time datetime="2018-11-06T09:54:45Z" class="date-short-year"> Nov 6 '18 </time>](https://dev.to/simoroshka/comment/6jb1) 
+[![simoroshka profile image](img/817fd65c8ded895868edcd21dc94e96f.png) ](/simoroshka) [ Anna Simoroshka ](/simoroshka) • [<time datetime="2018-11-06T09:54:45Z" class="date-short-year"> Nov 6 '18 </time>](https://dev.to/simoroshka/comment/6jb1) 
 
 你单子上的东西我也有。
 
@@ -74,7 +74,7 @@ DevOps。区块链。棱角分明。
 
 这里有一个有点相关的帖子，解决了通才-专家问题的另一端:
 
-[![hanmaslah](../Images/658785f7eafc5df220d0c844fc520848.png)](/hanmaslah) [## 什么时候你变成了一个什么都懂却什么都不懂的人？
+[![hanmaslah](img/658785f7eafc5df220d0c844fc520848.png)](/hanmaslah) [## 什么时候你变成了一个什么都懂却什么都不懂的人？
 
 ### 汉娜·马西拉 5 月 23 日 171 分钟阅读
 

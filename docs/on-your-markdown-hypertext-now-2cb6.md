@@ -41,7 +41,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 因为我很偏执，应该有**两个**和至少**两个**的方式来做下面管道的任何部分。
 
-[![Writing text, Text to hypertext, Publishing](../Images/46c384bdb6c7a934ccfb209662a30f3b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GjVh9R6u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://yuml.me/diagram/scruffy/class/%255BWriting-text%255D-%253E%255BText-to-hypertext%255D%2C%255BText-to-hypertext%255D-%253E%255BPublishing%255D)
+[![Writing text, Text to hypertext, Publishing](img/46c384bdb6c7a934ccfb209662a30f3b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GjVh9R6u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://yuml.me/diagram/scruffy/class/%255BWriting-text%255D-%253E%255BText-to-hypertext%255D%2C%255BText-to-hypertext%255D-%253E%255BPublishing%255D)
 
 那我们用什么呢？
 

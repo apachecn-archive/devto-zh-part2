@@ -97,7 +97,7 @@ class MyListComponent extends Component {
 
 这里我们有一个简单的组件来保存一个条目列表。在通过 props 传递的回调的帮助下，子组件将项目添加到这个列表中。到目前为止一切顺利。如果你执行上面的例子，你会得到一个错误，因为`this`是未定义的。
 
-[![](../Images/96778af5ba94e698e68aded9d07b3441.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vyZwjTFF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/www.andreasreiterer.at/wp-content/uploads/2018/02/cannot-read-property-setState-of-undefined.jpg%3Fresize%3D660%252C487%26ssl%3D1) 
+[![](img/96778af5ba94e698e68aded9d07b3441.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vyZwjTFF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/www.andreasreiterer.at/wp-content/uploads/2018/02/cannot-read-property-setState-of-undefined.jpg%3Fresize%3D660%252C487%26ssl%3D1) 
 
 <figcaption>当你调用一个没有绑定‘this’的回调函数时得到的错误</figcaption>
 

@@ -2,10 +2,10 @@
 
 > 原文：<https://dev.to/samuyi/the-how-to-of-ssh-port-forwarding-1f4e>
 
-[![Port Forwarding vs Direct communication](../Images/871c5397cdc21ccb60548e81ab47e195.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--y_5i62YS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qpawdpvr1du4fwbknq50.gif) 
+[![Port Forwarding vs Direct communication](img/871c5397cdc21ccb60548e81ab47e195.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--y_5i62YS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qpawdpvr1du4fwbknq50.gif) 
 端口转发是两个应用程序之间的一种交互，通常是 TCP/IP 应用程序，它们使用 SSH 连接相互通信。SSH 拦截来自主机上的客户端应用程序的服务请求，创建一个 SSH 会话，将请求传送到 SSH 连接的另一端。在将请求发送到远程主机上的应用服务器之前，另一端对请求进行解密。端口转发可用于保护传统上不安全的应用程序之间的通信。它们还可以用于不可能的通信，例如 IT 管理员通过防火墙阻止外部访问主机上的某些端口以提高安全性，通过端口转发，可以访问远程计算机上运行的应用程序。在之前的[帖子](https://dev.to/samuyi/ssh-agents-in-depth-4116)中，我们讨论了一种不同类型的转发，叫做 ssh-代理转发。这使我们能够使用公钥认证创建从一台计算机通过一台远程主机到第三台远程主机的 SSH 连接，而不需要在第二台远程主机上拥有您的私钥。端口转发有时被称为“隧道”，因为它提供了一种通过 SSH 保护 TCP/IP 连接的方法。
 
-[![local port forwarding](../Images/462e237860fbbe7d4d93c4ebca7be5b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X7qVeNxx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/la8u765h1lxutfmvonsx.gif)
+[![local port forwarding](img/462e237860fbbe7d4d93c4ebca7be5b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X7qVeNxx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/la8u765h1lxutfmvonsx.gif)
 
 ## 本地端口转发
 
@@ -31,7 +31,7 @@ $ ssh  -g -L2001:localhost:143  remote.net
 
 -g 开关表示客户端配置文件中的 GateWayPorts 选项；如果将其设置为 yes，则不需要-g 选项。
 
-[![remote port forwarding with ssh](../Images/f69f4ea0a3ad74c856ed204e2e069ffe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6ht2e_RB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xl0u5wy98adbgna4zr2a.gif)
+[![remote port forwarding with ssh](img/f69f4ea0a3ad74c856ed204e2e069ffe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6ht2e_RB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xl0u5wy98adbgna4zr2a.gif)
 
 ## 远程端口转发
 

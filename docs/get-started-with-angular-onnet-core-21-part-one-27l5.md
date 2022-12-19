@@ -8,7 +8,7 @@
 
 Angular 是开发客户端单页面应用程序(SPA)的顶级框架之一。它通过内置的声明性模板支持数据绑定和高度可配置的依赖注入(DI)框架，支持“现代 Web 开发的[3d](https://blog.jeremylikness.com/the-three-ds-of-modern-web-development-55d69fe048da)”。从《T4》开始，我就和 Angular 合作我无意在这篇文章中将其与其他框架(如 [ReactJs](https://reactjs.org/) 或 [Vuejs](https://vuejs.org/) )进行比较；目标是说明 Angular 如何与[一起工作。网芯](https://jlik.me/d90)。
 
-[![](../Images/77272953e62c9ef594084b860415ffde.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2OodAo9F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A54IUNsFy3eZS3Fj1K4LkKQ.png)
+[![](img/77272953e62c9ef594084b860415ffde.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2OodAo9F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A54IUNsFy3eZS3Fj1K4LkKQ.png)
 
 。NET Core 是由[定义的 API 的跨平台和开源实现。网标](https://jlik.me/d91)。为...编写的应用程序。NET Core 能够在 Windows 机器(早在 Windows 7)、Mac OS 和几种 Linux 上运行。应用程序以多种语言编写； [C#](https://jlik.me/d92) 和 [F#](https://jlik.me/d93) 最受欢迎。编写从后端 API 到动态网站的所有东西，另外还有一个[模板可以集成 Angular。网芯](https://jlik.me/d94)。在 Azure 云中部署和托管应用程序有很多选择。
 

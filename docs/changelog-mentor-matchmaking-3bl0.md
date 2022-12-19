@@ -8,7 +8,7 @@
 
 如果您对这个测试程序感兴趣，请在您的设置 中填写这个新部分，让我们知道 **[，我们将通过电子邮件与您联系。您也可以帮助我们完整地填写您的个人资料(如果您还没有)，以便我们了解您的个性。](https://dev.to/settings/mentorship)**
 
-[![profile-settings](../Images/fd509b47709967c5989d0cfd60f8279b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Le19tXad--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/0A0O0T321m1V/download/Image%25202018-07-06%2520at%25204.39.04%2520PM.png)
+[![profile-settings](img/fd509b47709967c5989d0cfd60f8279b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Le19tXad--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/0A0O0T321m1V/download/Image%25202018-07-06%2520at%25204.39.04%2520PM.png)
 
 还有一些想法:
 

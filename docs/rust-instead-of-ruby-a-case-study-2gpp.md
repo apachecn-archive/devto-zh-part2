@@ -8,7 +8,7 @@
 
 新版本处于 Rust 中，其内存占用约为 8MB，客户更高兴，他们能够在占用相同内存和稳定性的情况下提供更多功能。
 
-[![memory occupation](../Images/93b7fb6d1d76aca0262b988b79a148cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sv2yZRRw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kboa7n8pch2jjrp10akd.png)
+[![memory occupation](img/93b7fb6d1d76aca0262b988b79a148cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sv2yZRRw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kboa7n8pch2jjrp10akd.png)
 
 (摘自案例研究)
 

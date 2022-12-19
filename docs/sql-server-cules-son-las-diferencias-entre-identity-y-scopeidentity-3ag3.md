@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/campusmvp/sql-server-cules-son-las-diferencias-entre-identity-y-scopeidentity-3ag3>
 
-[![](../Images/1da4b29fc85ca0213d8eab00c5625287.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4qA5VIba--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.campusmvp.es/recursos/image.axd%3Fpicture%3D/2018/3T/Identidad.jpg) 
+[![](img/1da4b29fc85ca0213d8eab00c5625287.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4qA5VIba--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.campusmvp.es/recursos/image.axd%3Fpicture%3D/2018/3T/Identidad.jpg) 
 
 凯尔·格伦在[中的照片](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 

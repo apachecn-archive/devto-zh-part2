@@ -28,7 +28,7 @@ GraphQL 是成形核心。每次您与 TakeShape 上的内容交互时，您都�
 
 ### 建模、创建、开发、使用
 
-[![Four Steps to using TakeShape - Model, Create, Develop, and Use](../Images/14fad976cacc12a88bceb87827bcc8c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HFGiWeO1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a6x37dq448f2twrddkc0.png)
+[![Four Steps to using TakeShape - Model, Create, Develop, and Use](img/14fad976cacc12a88bceb87827bcc8c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HFGiWeO1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a6x37dq448f2twrddkc0.png)
 
 ## 决定使用 GraphQL
 
@@ -74,11 +74,11 @@ query  {  homepage  {  title  image  {  path  }  }
 *   TakeShape 使用我们提供给用户的相同的 GraphQL API 来构建网站，为用于建模和内容创建的单页 react web 客户端、CLI 工具和静态内容生成器提供动力。
 *   这是整个应用程序的运行方式。
 
-[![TakeShape's Collaborative Web UI, Static Site Generator, GraphQL QPI, Dev Tools, Hosting Via Third-parties](../Images/af6d7c2963cd55f414bfd2fba695dd80.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1KzMh0cZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l73rv0me7qbfekxlf4qg.png)
+[![TakeShape's Collaborative Web UI, Static Site Generator, GraphQL QPI, Dev Tools, Hosting Via Third-parties](img/af6d7c2963cd55f414bfd2fba695dd80.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1KzMh0cZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l73rv0me7qbfekxlf4qg.png)
 
 使用 GraphQL API 构建一个提供 GraphQL API 的 GraphQL CMS。是 Meta！
 
-[![TakeShape is Meta GraphQL](../Images/627d7cbf9fc0cfd0e03deecee88fcca0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XeYaHht0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/da1pbz0t4g3x18y8t7w7.gif)
+[![TakeShape is Meta GraphQL](img/627d7cbf9fc0cfd0e03deecee88fcca0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XeYaHht0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/da1pbz0t4g3x18y8t7w7.gif)
 
 ## 开发者如何使用 TakeShape 的 GraphQL API
 
@@ -86,6 +86,6 @@ query  {  homepage  {  title  image  {  path  }  }
 *   使用 TakeShape 静态内容生成器并编写 GraphQL 查询文件，检索存储在 TakeShape 中的内容并用于生成静态站点
 *   或者使用静态站点生成器，比如 Gatsby，它能很好地与 GraphQL 配合使用
 
-[![Directly with the GraphQL API, Using the SSG, Third parties like Gatsby](../Images/97cffadf09cff904867fbf2c945d6ab1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NIbf0NMn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aqlf20dshbw89g8nml5q.png)
+[![Directly with the GraphQL API, Using the SSG, Third parties like Gatsby](img/97cffadf09cff904867fbf2c945d6ab1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NIbf0NMn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aqlf20dshbw89g8nml5q.png)
 
 对无头 GraphQL CMS 感兴趣？TakeShape 是一个无头的 GraphQL CMS，它使得构建 JAMstack 站点更加容易。在 TakeShape，我们正在为最具创造力的设计师和开发人员打造最好的内容管理工具。我们的项目模板让您轻松入门。此外，价格完全可以承受。[注册一个免费账户](https://www.takeshape.io/)，花更多的时间发挥创造力！

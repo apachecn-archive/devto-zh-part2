@@ -34,7 +34,7 @@ Docker Swarm 的优势是紧密集成到 Docker 生态系统中，并且使用�
 
 ### 综上所述，
 
-[![Docker Swarm Vs. Kubernetes](../Images/5393ea15b017da1f83a6fab1dbe59610.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z2AlO9Tw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dclhdhonururot55noak.png)
+[![Docker Swarm Vs. Kubernetes](img/5393ea15b017da1f83a6fab1dbe59610.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z2AlO9Tw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dclhdhonururot55noak.png)
 
 ## **一个用例:Docker Swarm vs . Kubernetes**T3】
 

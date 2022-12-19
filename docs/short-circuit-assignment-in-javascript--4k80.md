@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/flexdinesh/short-circuit-assignment-in-javascript--4k80>
 
-[![JS short circuit assignment](../Images/064207f86d67a6006b3fc08faef98342.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_tqdbPet--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/c9duVn/short_circuit_alt.jpg)
+[![JS short circuit assignment](img/064207f86d67a6006b3fc08faef98342.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_tqdbPet--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/c9duVn/short_circuit_alt.jpg)
 
 **tldr；** *当未找到期望值时，使用短路评估将默认值分配给变量。*
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/alchermd/sell-me-your-stack-4noa>
 
-[![](../Images/a50d1d245942a25e2acf2fe4ee9f5061.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QE7zwNtY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hypem.com/wp-content/uploads/2014/06/stack1.png)
+[![](img/a50d1d245942a25e2acf2fe4ee9f5061.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QE7zwNtY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hypem.com/wp-content/uploads/2014/06/stack1.png)
 
 你好，伙计们，在电脑上操控比特的智人！
 

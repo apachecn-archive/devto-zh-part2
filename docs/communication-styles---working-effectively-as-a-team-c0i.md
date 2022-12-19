@@ -4,9 +4,9 @@
 
 这篇文章的想法来自于 twitter 上的一个帖子，作者是 [@ErynnBrook](https://twitter.com/ErynnBrook/) 。
 
-> ![Erynn Brook profile image](../Images/0b8c9e99c7ab62e06e7e310aacff3f48.png)Erynn Brook@ Erynn Brook![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)今天有空，想做一个关于漫说的帖子。
+> ![Erynn Brook profile image](img/0b8c9e99c7ab62e06e7e310aacff3f48.png)Erynn Brook@ Erynn Brook![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)今天有空，想做一个关于漫说的帖子。
 > 
-> 纨绔子弟关注者，如果 mansplaining 这个词让你有点不安，请告诉我，我会在这里解开:)2018 年 5 月 30 日下午 17:41[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1001881209733988352)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1001881209733988352)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1001881209733988352)
+> 纨绔子弟关注者，如果 mansplaining 这个词让你有点不安，请告诉我，我会在这里解开:)2018 年 5 月 30 日下午 17:41[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1001881209733988352)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1001881209733988352)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1001881209733988352)
 
 这个帖子解释了人工解释的概念(这让我大开眼界，因为我是一个长期的解释者)，但它也深入研究了沟通风格，这是事情变得真正有趣的地方。
 
@@ -49,7 +49,7 @@
 
 它的核心是反馈回路。上述内容可以浓缩为以下内容，这是一个不断循环的过程，你可以在适当的时候切换不同的风格，从连接词开始，到连接词结束。
 
-[![Styles of communication](../Images/69a5aaaec0c882f9906a454dd9b58baf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8R6BgFMp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ly2pjjhmpnipq6hgz6sp.png) 。
+[![Styles of communication](img/69a5aaaec0c882f9906a454dd9b58baf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8R6BgFMp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ly2pjjhmpnipq6hgz6sp.png) 。
 
 如果你需要想出很多主意，去竞争，当你需要共识，切换到连接。真的就这么简单。
 

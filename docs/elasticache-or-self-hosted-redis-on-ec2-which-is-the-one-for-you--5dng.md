@@ -14,7 +14,7 @@ Redis 是领先的开源内存键值存储产品之一。这是一个很好的�
 
 首先，让我们带您了解一下 EC2 上 ElastiCache 和自托管 Redis 之间的主要区别。
 
-[![ElastiCache Vs. Self-hosted Redis on EC2 ](../Images/4e9b15a461b3bbf4e0f1a786210a9973.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nBgqc_Od--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/il0kg7wusepxr86p83lo.png)
+[![ElastiCache Vs. Self-hosted Redis on EC2 ](img/4e9b15a461b3bbf4e0f1a786210a9973.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nBgqc_Od--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/il0kg7wusepxr86p83lo.png)
 
 ## 深入探究 EC2 上 ElastiCache 和自托管 Redis 的实用性
 
@@ -72,7 +72,7 @@ save  60 10000
 
 如果成本是一个大问题，自托管 Redis 集群是一个更好的选择。如果成本不是问题，无缝维护是重点，那么 Elasticache 是更好的选择。下面是一年的对比:
 
-[![ElastiCache or Self-hosted Redis on EC2](../Images/faa4da54f08f8777cde30185ee356c62.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ksvK7FKj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/why2zbr85lk4yepibax1.png)
+[![ElastiCache or Self-hosted Redis on EC2](img/faa4da54f08f8777cde30185ee356c62.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ksvK7FKj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/why2zbr85lk4yepibax1.png)
 
 如果你想知道选择哪种服务，你知道去哪里找！
 

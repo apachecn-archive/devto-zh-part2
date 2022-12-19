@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/hrmny/parket-my-take-on-a-state-management-library-5ela>
 
-[![](../Images/bc45001eca1a74f69bc79f6ab9bfa79e.png)T2】](https://github.com/ForsakenHarmony/parket)
+[![](img/bc45001eca1a74f69bc79f6ab9bfa79e.png)T2】](https://github.com/ForsakenHarmony/parket)
 
 [^点击这里进入 github 回购](https://github.com/ForsakenHarmony/parket)
 

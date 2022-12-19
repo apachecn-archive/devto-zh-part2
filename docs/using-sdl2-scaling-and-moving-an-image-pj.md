@@ -207,7 +207,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 编译并运行。
 
-[![](../Images/ebdafb05b0f6a0f0686544e312616d13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oA-u8_KP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6tseuhr96dhg0whv9s6y.png)
+[![](img/ebdafb05b0f6a0f0686544e312616d13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oA-u8_KP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6tseuhr96dhg0whv9s6y.png)
 
 我们的简笔画在窗口的左上角。现在让我们制作他向右走的动画。
 
@@ -402,7 +402,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 编译并运行。
 
-[![](../Images/b105a41892afb89b03cd684d9e1cf647.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1ILgJ1ok--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qvxwotv9h51hm2kmkant.png)
+[![](img/b105a41892afb89b03cd684d9e1cf647.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1ILgJ1ok--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qvxwotv9h51hm2kmkant.png)
 
 现在事情变得有些奇怪了。
 
@@ -431,7 +431,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 编译并运行。
 
-[![](../Images/fe4316d416a47d1a2878a4594ed1672d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cLA3WUwm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ivweilu39ah96aw9wov1.png)
+[![](img/fe4316d416a47d1a2878a4594ed1672d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cLA3WUwm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ivweilu39ah96aw9wov1.png)
 
 现在我们的简笔画在屏幕上移动，没有任何怪异之处。
 

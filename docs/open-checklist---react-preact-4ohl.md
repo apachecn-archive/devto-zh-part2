@@ -14,7 +14,7 @@
 
 ### 链接到 web app:【https://checklist.messedcode.com T2】
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [大卫-萨博 97 ](https://github.com/david-szabo97) / [开放式清单](https://github.com/david-szabo97/open-checklist)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [大卫-萨博 97 ](https://github.com/david-szabo97) / [开放式清单](https://github.com/david-szabo97/open-checklist)
 
 ### 基于 Preact + Redux 构建的简单清单(待办事项列表)
 
@@ -49,4 +49,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 [View on GitHub](https://github.com/david-szabo97/open-checklist)
 
-[![](../Images/c696e705dd5721e0821f038404d127c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PGKTzwbb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r3b2ha6kb7jtl5yxkvzj.png)
+[![](img/c696e705dd5721e0821f038404d127c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PGKTzwbb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r3b2ha6kb7jtl5yxkvzj.png)

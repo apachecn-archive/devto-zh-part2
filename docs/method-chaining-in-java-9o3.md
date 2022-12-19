@@ -6,7 +6,7 @@
 
 术语方法链指的是设计和约定。每个方法返回一个对象，允许调用在一个语句中链接在一起。链接是一种语法糖，它消除了对中间变量的需要。方法链也称为火车残骸，因为当更多的方法被链接在一起时，即使方法之间经常添加换行符，在同一行中一个接一个出现的方法的数量也会增加。
 
-[![](../Images/acb7db888b182a4d76c7bfd70929aa71.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eAj5Cunh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-gt6lGPNtdJI/W4OIOz9kntI/AAAAAAAAB1c/9ze1u9CiyjolRVdqCf_mnjDJFcI4djp-wCLcBGAs/s400/me.jpg)
+[![](img/acb7db888b182a4d76c7bfd70929aa71.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eAj5Cunh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-gt6lGPNtdJI/W4OIOz9kntI/AAAAAAAAB1c/9ze1u9CiyjolRVdqCf_mnjDJFcI4djp-wCLcBGAs/s400/me.jpg)
 
 类别用户{
 

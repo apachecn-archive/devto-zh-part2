@@ -10,7 +10,7 @@
 
 几天前，我让一位同事看了我刚孵化的博客，因为我想让他看看我最近写的文章。最后，我们甚至没有谈论职位，而是谈论网页设计和工作(他是一名网页设计师)，挑战和机遇，要做的有趣的事情，创造力和过去，以及提醒我不再是最年轻的人。后面一直唠叨的是对我(现已过去)设计的评论。
 
-[![markentier.tech in old design](../Images/be2938c9df54525a9c0d058dbb9357db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1A-it6CS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://markentier.tech/posts/2018/05/minimalism-focus-clean-redesign/mtt-old.png)
+[![markentier.tech in old design](img/be2938c9df54525a9c0d058dbb9357db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1A-it6CS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://markentier.tech/posts/2018/05/minimalism-focus-clean-redesign/mtt-old.png)
 
 > 哦，伙计，你需要更新你的网站
 > 
@@ -24,7 +24,7 @@
 
 我也知道我想从一个重新设计独立地改变标志，但是现在所有的事情走到了一起。
 
-[![m (reference logo file; SVG)](../Images/95b31149fde3ae651aa68d3a598a2297.png)T2】](/m.svg)
+[![m (reference logo file; SVG)](img/95b31149fde3ae651aa68d3a598a2297.png)T2】](/m.svg)
 
 ### 二:一切皆有可能
 
@@ -65,7 +65,7 @@
 
 肯定还有更多，但以上视频应该是一个不错的起点。将来我可能会回到这个话题。
 
-[![markentier.tech new design](../Images/61497bbcc89f9d3d406a85758084ddee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CUsz9GSN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://markentier.tech/posts/2018/05/minimalism-focus-clean-redesign/mtt-now.png)
+[![markentier.tech new design](img/61497bbcc89f9d3d406a85758084ddee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CUsz9GSN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://markentier.tech/posts/2018/05/minimalism-focus-clean-redesign/mtt-now.png)
 
 ### 四:万物都在进化
 
@@ -75,7 +75,7 @@
 
 但我确实相信我的文章应该是可消费的，没有太多的分心或疲劳或紧张。由于它的色彩范围大大减少，色盲(或有部分缺陷)的人应该能够阅读和浏览网站，而不会丢失任何东西或感到困惑。我没有测试过屏幕阅读器，但是我希望我没有使用会影响你在这里的体验的设计魔法。
 
-[![markentier.tech new design, page scrolled down (shows tiny logo and sticky navbar)](../Images/e1d0d6653846f66003f25f86478470e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---pVkIEg_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://markentier.tech/posts/2018/05/minimalism-focus-clean-redesign/mtt-now-scrolled.png)
+[![markentier.tech new design, page scrolled down (shows tiny logo and sticky navbar)](img/e1d0d6653846f66003f25f86478470e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---pVkIEg_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://markentier.tech/posts/2018/05/minimalism-focus-clean-redesign/mtt-now-scrolled.png)
 
 我也仍然致力于它的性能方面。我也推动更现代的浏览器。因为这是我的个人博客，我想我可以“失去”一些客户，或者至少不会因为不总是完全向后兼容而给他们带来完全的快乐。
 

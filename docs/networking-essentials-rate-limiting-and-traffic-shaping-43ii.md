@@ -15,7 +15,7 @@
 *   **恒定比特率(CBR)** :流量以固定的间隔到达，数据包大小大致相同，这就导致了恒定的比特率(如音频)。我们根据峰值负载来调整 CBR 流量。
 *   **可变比特率(VBR)** :所有可变(如视频和数据)。我们根据峰值和平均负载来调整 VBR 流量。
 
-[![https://www.securitycameraking.com/securityinfo/wp-content/uploads/2015/08/Bit-Rates-e1438874598220.jpg](../Images/0018c3bd27f8cfb34c4dd60504aad1b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tKVh1yNw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.securitycameraking.com/securityinfo/wp-content/uploads/2015/08/Bit-Rates-e1438874598220.jpg)
+[![https://www.securitycameraking.com/securityinfo/wp-content/uploads/2015/08/Bit-Rates-e1438874598220.jpg](img/0018c3bd27f8cfb34c4dd60504aad1b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tKVh1yNw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.securitycameraking.com/securityinfo/wp-content/uploads/2015/08/Bit-Rates-e1438874598220.jpg)
 
 ## 流量整形方法
 
@@ -27,7 +27,7 @@
 
 **漏桶流量整形**
 
-[![https://cdncontribute.geeksforgeeks.org/wp-content/uploads/leakyTap-1.png](../Images/e4468f49deb48f4a75cb95c80369d50a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---FNsXl5E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdncontribute.geeksforgeeks.org/wp-content/uploads/leakyTap-1.png)
+[![https://cdncontribute.geeksforgeeks.org/wp-content/uploads/leakyTap-1.png](img/e4468f49deb48f4a75cb95c80369d50a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---FNsXl5E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdncontribute.geeksforgeeks.org/wp-content/uploads/leakyTap-1.png)
 
 漏桶将突发流转变为常规流。两个相关参数是**铲斗尺寸**和**排水速率**。排水管或“泄漏”充当系统的“调节器”。您希望将**排放速率**设置为流入流量的**平均**速率，并根据您预期的**最大**突发大小设置**桶大小**。桶的溢出被丢弃或被置于较低的优先级。
 
@@ -57,7 +57,7 @@
 *   如果桶已满**，则发送数据包并移除`b`令牌。**
 ***   如果桶**是空的**，包必须*等待*直到`b`令牌滴入桶中。*   如果它是部分满的，它也会等待，直到桶中的令牌数超过`b`。**
 
- **[![https://gateoverflow.in/?qa=blob&qa_blobid=14382465908978628560](../Images/a752326bcc884276f929ed8af970986e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MF38Atq3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gateoverflow.in/%3Fqa%3Dblob%26qa_blobid%3D14382465908978628560)
+ **[![https://gateoverflow.in/?qa=blob&qa_blobid=14382465908978628560](img/a752326bcc884276f929ed8af970986e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MF38Atq3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gateoverflow.in/%3Fqa%3Dblob%26qa_blobid%3D14382465908978628560)
 
 令牌桶通过限制**可变/突发流**而不是像漏桶一样总是平滑它。它们没有丢弃或优先级策略，而漏桶有。因为它们可能最终“垄断”网络，所以需要通过将令牌桶和漏桶组合成一个**复合整形器**来监管令牌桶。
 
@@ -73,7 +73,7 @@
 
 大型缓冲器实际上是家用路由器、主机、交换机和接入点中的一个问题，尤其是在与功率提升相结合时。一段时间的高流入(可能与其他用户混合数据)超过缓冲区的排出速率，可能会导致数据在缓冲区中停滞，从而引入不必要的延迟，这对语音和视频等时间敏感型应用程序来说可能是一个问题。
 
-[![https://wiki.untangle.com/images/b/b3/Bufferbloat_diagram_2.png](../Images/02d5f2690350fd2e7101ccea34d8bedd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cZXhaUjm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://wiki.untangle.com/images/b/b3/Bufferbloat_diagram_2.png)
+[![https://wiki.untangle.cimg/b/b3/Bufferbloat_diagram_2.png](img/02d5f2690350fd2e7101ccea34d8bedd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cZXhaUjm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://wiki.untangle.cimg/b/b3/Bufferbloat_diagram_2.png)
 
 试图到处减少缓冲区大小是不切实际的，因此解决缓冲区膨胀的方法是使用流量整形方法，就像我们在上面学到的方法，以确保缓冲区永远不会填满。
 

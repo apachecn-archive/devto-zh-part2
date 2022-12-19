@@ -8,11 +8,11 @@
 
 要管理构建配置，请转到 Xcode 项目设置([项目]→信息):
 
-[![image](../Images/e794a3c2301b21512beea1a812762ba1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6W7cG2ax--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/edih81a8se7fhi0l5km1.png)
+[![image](img/e794a3c2301b21512beea1a812762ba1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6W7cG2ax--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/edih81a8se7fhi0l5km1.png)
 
 您可以通过**复制现有的**来轻松添加新的构建配置。为开发复制调试配置，为测试飞行和应用商店构建发布配置。您也可以通过快速双击来重命名任何配置。
 
-[![image](../Images/ae62782f68f712c71a9191b96fda65d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bnX7t7GV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zl9edwvzh9k4ftjy6o4d.png)
+[![image](img/ae62782f68f712c71a9191b96fda65d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bnX7t7GV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zl9edwvzh9k4ftjy6o4d.png)
 
 #### 调试 vs 发布
 
@@ -22,7 +22,7 @@
 
 上述步骤足以在本地开发中建立新的构建配置。要在构建配置中运行应用程序，请打开**方案**并更改运行构建配置:
 
-[![image](../Images/aebc26c33cdc5f90a759d40d247a3399.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AvSaVedF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/739ak83xkzy3ndeyn5yw.png)
+[![image](img/aebc26c33cdc5f90a759d40d247a3399.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AvSaVedF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/739ak83xkzy3ndeyn5yw.png)
 
 ## 反应自然中的问题
 
@@ -36,19 +36,19 @@
 
 我们需要为新的发布构建配置在目标构建设置([目标]→构建设置)中添加缺少的**头搜索路径**和**库搜索路径**。
 
-[![image](../Images/5374d81d5ac3dca48388a6002ca3308e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_Hb4nRw1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n9mxgzg5nqtiabh5lamz.png)
+[![image](img/5374d81d5ac3dca48388a6002ca3308e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_Hb4nRw1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n9mxgzg5nqtiabh5lamz.png)
 
 为每个新的发布版本配置在**标题搜索路径**中添加一个条目:
 
 $(构建目录)/发布-$(平台名称)/包含
 
-[![image](../Images/1dd7fab8fd9ac26710bc965b7a1a06e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NwK3MEyi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mbq1065ou78vt7aickdo.png)
+[![image](img/1dd7fab8fd9ac26710bc965b7a1a06e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NwK3MEyi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mbq1065ou78vt7aickdo.png)
 
 为每个新的发布版本配置在**库搜索路径**中添加一个条目:
 
 $(构建目录)/发布$(有效平台名称)
 
-[![image](../Images/634fa3e6ef25a13ae82c7196c8b25db0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Of18ssi1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f57t1ju2jhhv53lbaknb.png)
+[![image](img/634fa3e6ef25a13ae82c7196c8b25db0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Of18ssi1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f57t1ju2jhhv53lbaknb.png)
 
 **接下来，对所有测试目标**进行同样的操作，否则命令仍然会失败。
 

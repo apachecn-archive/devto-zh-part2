@@ -32,7 +32,7 @@ git 克隆使得复制项目更加容易。它做三件事:
 
 要克隆这个项目，你可以点击绿色的大按钮克隆或下载。
 
-[![The clone button](../Images/34cb3c06342b3484352a89cce9a8b307.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ypYZQq8e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-clone/clone.png)
+[![The clone button](img/34cb3c06342b3484352a89cce9a8b307.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ypYZQq8e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-clone/clone.png)
 
 当你点击克隆或下载，你会看到一个网址。
 
@@ -40,13 +40,13 @@ git 克隆使得复制项目更加容易。它做三件事:
 
 再次强调，确保使用 SSH 进行克隆。当您使用 SSH 时，您不必在每次推送到远程或从远程拉取时都输入您的用户名和密码。
 
-[![The git URL](../Images/f2c21186a78cbffae06e4e3ade32e059.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gq1D-otT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-clone/git-url.png)
+[![The git URL](img/f2c21186a78cbffae06e4e3ade32e059.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gq1D-otT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-clone/git-url.png)
 
 然后，打开叉子。
 
 您可以通过进入`File`来克隆存储库。选择`clone`。
 
-[![The clone menu in Fork](../Images/3b20f1ae3b9d3bbe6b49689a916272e5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Dz_zsc3---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-clone/fork-clone.png) 
+[![The clone menu in Fork](img/3b20f1ae3b9d3bbe6b49689a916272e5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Dz_zsc3---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-clone/fork-clone.png) 
 
 <figure>
 
@@ -62,7 +62,7 @@ Name 将是项目的名称。这个名称默认为远程存储库上的项目名
 
 当您单击 Clone 时，Fork 将开始下载项目。
 
-[![Project cloned](../Images/1f97e2fc4f9766b6f64d49a49283fa39.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_TI11xxD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-clone/cloned.png) 
+[![Project cloned](img/1f97e2fc4f9766b6f64d49a49283fa39.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_TI11xxD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-clone/cloned.png) 
 
 <figure>
 
@@ -76,7 +76,7 @@ Name 将是项目的名称。这个名称默认为远程存储库上的项目名
 
 在我们的例子中，你可以点击左上角的搜索图标，你会看到“Typi”和“Project”。
 
-[![Switching between projects](../Images/e7a96ff27cb51f3c860be2cca43b9ceb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XhZIcabF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-clone/switch.png) 
+[![Switching between projects](img/e7a96ff27cb51f3c860be2cca43b9ceb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XhZIcabF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-clone/switch.png) 
 
 <figure>
 
@@ -94,7 +94,7 @@ Name 将是项目的名称。这个名称默认为远程存储库上的项目名
 
 他们可以通过去 Github 项目添加你为合作者。然后，点击设置，然后点击 collaborator。接下来，他们需要在文本字段中输入您的用户名，然后单击“添加协作者”
 
-[![Adding a collaborator](../Images/e5ec3914d81343442203214996cce5ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aQdW84It--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-clone/collaborator.png)
+[![Adding a collaborator](img/e5ec3914d81343442203214996cce5ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aQdW84It--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-clone/collaborator.png)
 
 ## 包装完毕
 

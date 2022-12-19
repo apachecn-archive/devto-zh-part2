@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/onmyway133/a-taste-of-mvvm-and-reactive-paradigm-24p5>
 
-[![](../Images/98227d3791161561b2dcda6233f2e9dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v6eq0AXY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A0dCwvCKQU2S9ntkNVaNUTQ.png)
+[![](img/98227d3791161561b2dcda6233f2e9dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v6eq0AXY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A0dCwvCKQU2S9ntkNVaNUTQ.png)
 
 我喜欢 Swift，就像许多其他面向对象的编程语言一样。Swift 允许您表示具有某些特征并能执行某些操作的真实世界对象。
 
@@ -10,13 +10,13 @@
 
 这可能不是一个好例子。但至少你明白了在 OOP 中沟通和委托的重要性。当我开始 iOS 编程时，我对“架构”这个词非常感兴趣。但做了一段时间后，这一切都归结为识别和划分责任。这篇文章讲述了 MVC 和简单的[提取类](https://refactoring.com/catalog/extractClass.html)重构到 MVVM，以及如何进一步使用 Rx。你可以自由地创建自己的架构，但是无论你做什么，一致性是关键，这样才不会让你的队友感到困惑或惊讶。
 
-[![](../Images/c0ab780e780ad2e1fde53e97bfded166.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oVEgpv_b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3000/1%2Akhx4a3vNEcrqLHqh7Ljd0w.png)
+[![](img/c0ab780e780ad2e1fde53e97bfded166.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oVEgpv_b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3000/1%2Akhx4a3vNEcrqLHqh7Ljd0w.png)
 
 ## 模型视图控制器
 
 看看你最了解的架构，MVC，模型视图控制器的简称。创建新的 iOS 项目时，您总是会得到一个。视图是显示数据的地方，使用 UIView、UIButton、UILabel。模型只是数据的一个花哨的词。它可以是您的实体、来自网络的数据、来自数据库或来自缓存的对象。控制器是模型和视图之间的媒介。
 
-[![](../Images/7a28c1e0a90bc43b2fad526cc993f1f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ldEwDnNr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AETgFfqjBaD8SdQBd.png)
+[![](img/7a28c1e0a90bc43b2fad526cc993f1f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ldEwDnNr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AETgFfqjBaD8SdQBd.png)
 
 ## UIViewController 是宇宙的中心
 
@@ -44,7 +44,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Windows Phone 中的 Page 或 Android 中的 Activity 也是如此。它们用于功能屏幕或部分功能屏幕。有些动作只能通过它们来完成，比如[页面。OnNavigatedTo](https://msdn.microsoft.com/en-us/library/system.windows.controls.page.onnavigatedto%28v=vs.105%29.aspx) ， [Activity.onCreate](https://developer.android.com/guide/components/activities/activity-lifecycle#oncreate) 。
 
-[![](../Images/c5d044dff356059dccefab658cb64f24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--crV8dv2b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3000/0%2AFegPo70Zxmid6brv.png)
+[![](img/c5d044dff356059dccefab658cb64f24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--crV8dv2b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3000/0%2AFegPo70Zxmid6brv.png)
 
 ## 建筑的流行语
 
@@ -61,7 +61,7 @@ let acronym = architecture.makeAcronym()
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/959b9bb485689bcd579c097a1b033e9c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_eNJwNDs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AN785wG7eDrflu_OT.jpeg)
+[![](img/959b9bb485689bcd579c097a1b033e9c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_eNJwNDs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AN785wG7eDrflu_OT.jpeg)
 
 在所有的流行词汇被组合起来之后，我们得到了一个架构。其中有很多，从简单的提取类重构，拥抱 MVC 或从 Clean Code、Rx、EventBus 或 Redux 中获取灵感。选择取决于项目，有些团队更喜欢一种架构而不是另一种。
 
@@ -89,7 +89,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 模型视图视图模型
 
-[![](../Images/0e9dd7547e8a3dc8a4667f1fd8926a0f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GDjsa7LU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AoRX6izHOCsHdhDoW.png)
+[![](img/0e9dd7547e8a3dc8a4667f1fd8926a0f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GDjsa7LU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AoRX6izHOCsHdhDoW.png)
 
 另一个足够好的方法是将一些任务卸载到另一个对象，我们称之为 ViewModel。名字不重要，你可以叫它反应堆，大师，恐龙。重要的是你的团队要有一个一致的名字。ViewModel 从 ViewController 获取一些任务，并在任务完成时进行报告。Cocoa Touch 中有[种通信模式](https://www.objc.io/issues/7-foundation/communication-patterns/)可以使用，比如委托、闭包。
 
@@ -145,7 +145,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## Android 中的 Jetpack
 
-[![](../Images/3b14767293930f515899910779798352.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IyNV1OBu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AORC4mswaenJBZOwP.png)
+[![](img/3b14767293930f515899910779798352.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IyNV1OBu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AORC4mswaenJBZOwP.png)
 
 谷歌在 Google IO 2017 上推出了 Android 架构组件，现在是 Jetpack 的一部分。它有 ViewModel 和 LiveData，这也是 Android 中应用的一种 MVVM。ViewModel 在配置更改后仍然存在，并以 LiveData 的形式通知结果以供活动使用。
 
@@ -229,7 +229,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 可观察的
 
-[![](../Images/7d08ee4b5600667f6a8200a6ed0b06f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rF98G2Ww--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AGXJMWsuz8LvgkEXb.png)
+[![](img/7d08ee4b5600667f6a8200a6ed0b06f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rF98G2Ww--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AGXJMWsuz8LvgkEXb.png)
 
 RxSwift 通过 Observable 统一了同步和异步操作。这是你做一个的方法。
 

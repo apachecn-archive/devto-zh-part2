@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/elaziziyoussouf/how-to-make-a-twitter-bot-for-free--9mg>
 
-[![](../Images/2accde853c44fa4b75416ef6cbed2301.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c6mhBhIa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AyAlQxm27HPR2qjRcqizY2w.png)
+[![](img/2accde853c44fa4b75416ef6cbed2301.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c6mhBhIa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AyAlQxm27HPR2qjRcqizY2w.png)
 
 在 Twitter 上为你的新粉丝创建欢迎信息是让更多人关注你的推文和链接的第一步。你可能知道，有许多在线服务可以帮助你向你的新粉丝发送自动直接消息。但是我认为在线服务对一个简单的工具收取 5-15 美元的费用是疯狂的，这个工具可以创建你自己的免费机器人。
 
@@ -49,7 +49,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如您所见，该项目是一个简单的 Node.js 应用程序，以 index.js 文件作为入口点:
 
-[![](../Images/d58b11d94570de38550f49fd419edb52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BVSIiFuO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AY-eOVjfnFZYCN5LQUblrhw.png)
+[![](img/d58b11d94570de38550f49fd419edb52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BVSIiFuO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AY-eOVjfnFZYCN5LQUblrhw.png)
 
 索引文件是一个简单的脚本，它导入并调用`AutoDM`函数。
 
@@ -58,10 +58,10 @@ Enter fullscreen mode Exit fullscreen mode
 正如我已经提到的，我使用 Twit 包来连接 Twitter API。为此，我们需要创建一个简单的 Twitter 应用程序，并使用您的应用程序配置初始化 Twit 实例，如下所示:
 
 //Twit.js 文件
-[![](../Images/ba5a45a13c8946d467d055094c6abe75.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZjXbLEXw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AX4jq7jTLSq346ho5Y7WJ5A.png)
+[![](img/ba5a45a13c8946d467d055094c6abe75.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZjXbLEXw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AX4jq7jTLSq346ho5Y7WJ5A.png)
 
 //config.js 文件
-[![](../Images/24c7749dd9455a9ecb8d290425b68573.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--HsKASBua--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AgpIo0pnMOEGV_ApszXz-0A.png)
+[![](img/24c7749dd9455a9ecb8d290425b68573.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--HsKASBua--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AgpIo0pnMOEGV_ApszXz-0A.png)
 
 `process.env.XXXXXXX`是一个环境变量，我们需要在部署步骤中将其添加到 Heroku 应用程序中。
 
@@ -70,17 +70,17 @@ Enter fullscreen mode Exit fullscreen mode
 如下图所示，`AutoDM`是一个简单的箭头函数。它监听来自 Twitter API 的流`follow`事件，并执行 SendMessage 函数。
 
 //AutoDM.js 文件
-[![](../Images/3c39ae3b3731685cbad672e5853a78be.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--b4jMstjC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AkGF0ObTjFW4zIVA2.)
+[![](img/3c39ae3b3731685cbad672e5853a78be.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--b4jMstjC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AkGF0ObTjFW4zIVA2.)
 
 `sendMessge`函数获取关注您的用户(`screen_name`)作为参数。我们需要创建一个带有`screen_name`的对象和一条文本消息。然后，我们向 Twitter API 发送一个 post 请求，将 DM 发送到`@screen_name`，如下所示:
 
 //sendmessage 函数
-[![](../Images/34085d97a30247b01569dbfec9120a84.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--n615DNzI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A8RHHjhuP5MMix6iyB1oFQA.png)
+[![](img/34085d97a30247b01569dbfec9120a84.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--n615DNzI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A8RHHjhuP5MMix6iyB1oFQA.png)
 
 现在，想想你想如何介绍自己。您可以修改现有的`GenerateMessage`函数来创建您自己的欢迎消息。不要忘了在里面添加一些客套话——这会增加用户点击你的链接或者回复你的信息的机会。
 
 //GenerateMessge 函数
-[![](../Images/99ea8ce04a07f382b3ebc1a09acb847d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--liWESLCJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AvsCpSy_gRmkKavZeyzF9WA.png)
+[![](img/99ea8ce04a07f382b3ebc1a09acb847d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--liWESLCJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AvsCpSy_gRmkKavZeyzF9WA.png)
 
 很容易，不是吗？你可以从 [Github repo](https://github.com/yjose/twitter-bot) 中读到更多代码。
 
@@ -98,11 +98,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 创建一个 Twitter 应用。转到[https://apps.twitter.com/](https://apps.twitter.com/)，点击`Create New App`按钮，然后完成如下所有字段:
 
-[![](../Images/dea4542fe14944678af0a7d42042c49e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f5B-UnFh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AGr9ggwyDcJgSnK-T8U3_JQ.png)
+[![](img/dea4542fe14944678af0a7d42042c49e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f5B-UnFh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AGr9ggwyDcJgSnK-T8U3_JQ.png)
 
 转到`Permissions`部分，通过选中选项`Read, Write and Access direct messages`为应用程序提供发送直接消息的权限。
 
-[![](../Images/e29208ec9a02afae96b0d87c276bd146.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UlQJ0E0---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Am8qV-_h0eK4yMSofD0qINQ.png)
+[![](img/e29208ec9a02afae96b0d87c276bd146.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UlQJ0E0---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Am8qV-_h0eK4yMSofD0qINQ.png)
 
 转到标签`Key and Access Tokens`，然后点击页面底部的`Generate Access Token`按钮。
 
@@ -114,31 +114,31 @@ Enter fullscreen mode Exit fullscreen mode
 *   连接到你的 Heroku 账户，点击`New`按钮，然后点击`Create new App`选项，创建一个新的应用。
 *   选择您的应用程序名称，然后点击`Create App`
 
-[![](../Images/1c81d659b172d7d95eb8fe9e1750a414.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--596cYB9a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AJ7tbxXiRzeOZTlyzIvYxOg.png)
+[![](img/1c81d659b172d7d95eb8fe9e1750a414.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--596cYB9a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AJ7tbxXiRzeOZTlyzIvYxOg.png)
 
 选择 Github 作为部署方法，然后单击 connect 按钮。
 
-[![](../Images/cf258d7cbed0bac991e2237e9aa66425.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1TEcCRzi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AQETgzVnscTLIxuD9XFEV5g.png)
+[![](img/cf258d7cbed0bac991e2237e9aa66425.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1TEcCRzi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AQETgzVnscTLIxuD9XFEV5g.png)
 
 在您的情况下，键入您的 bot repo 名称:`twitter-bot`。
 
-[![](../Images/455d81409f8442110aa0606c1c2c83e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gbNJ2NA_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AnX4Zcbm77GVLmu9s7NWwSQ.png)
+[![](img/455d81409f8442110aa0606c1c2c83e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gbNJ2NA_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AnX4Zcbm77GVLmu9s7NWwSQ.png)
 
 现在，您需要在选项卡设置中添加所有键作为 Heroku 变量，并配置变量部分。
 
-[![](../Images/37e7954f960d95f07ca2f330588160aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IX5YvHDK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AVJgHnF6orcT1PGvyi_JxHA.png)
+[![](img/37e7954f960d95f07ca2f330588160aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IX5YvHDK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AVJgHnF6orcT1PGvyi_JxHA.png)
 
 返回部署部分，单击`enable automatic deploys`，然后单击`deploy branch`按钮，首次部署您的应用程序。
 
-[![](../Images/e40a19c076e6a0f3983ebf55974477c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Yb9tPQXR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AfbJDa_hPhcR5ZTByd4rIZQ.png)
+[![](img/e40a19c076e6a0f3983ebf55974477c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Yb9tPQXR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AfbJDa_hPhcR5ZTByd4rIZQ.png)
 
 转到参考资料部分，激活 worker dyno，并禁用 web dyno。
 
-[![](../Images/fc28fe6b168f3a8057352f57d49f9607.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VrwAnhiX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2ArBSbnSWgrV0d0_lHh38JkQ.png)
+[![](img/fc28fe6b168f3a8057352f57d49f9607.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VrwAnhiX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2ArBSbnSWgrV0d0_lHh38JkQ.png)
 
 要了解您的应用程序是否已成功启动，请单击页面右上角的`more`按钮，然后单击`view logs`选项。您会发现一个简单的控制台，其输出类似于这个屏幕截图。我有了一些新的关注者，消息已经成功发送🤓。
 
-[![](../Images/0e1e642d965b11674fcc2fc0b67221ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3LpiPbcs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A_IH2z4FhXeew5u5PGgW8Nw.png)
+[![](img/0e1e642d965b11674fcc2fc0b67221ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3LpiPbcs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A_IH2z4FhXeew5u5PGgW8Nw.png)
 
 ### 现场演示
 

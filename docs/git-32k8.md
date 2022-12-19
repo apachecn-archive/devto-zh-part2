@@ -60,7 +60,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 然后在 story 文件夹中创建了一个名为. git 的文件夹。
 
-[![git](../Images/7a7f8b2a90f4f60d69ef0ffa6a58fd66.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4GLus4_R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0ei38bnbspa80z7xjsu4.png)
+[![git](img/7a7f8b2a90f4f60d69ef0ffa6a58fd66.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4GLus4_R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0ei38bnbspa80z7xjsu4.png)
 
 git 通过内部处理在这个文件夹中记录变更
 (如果只是利用 git 的话就不需要自己触摸这个文件。 ）

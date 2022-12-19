@@ -21,7 +21,7 @@ npm start`
 
 这将启动一个 react 欢迎页面，如下所示。
 
-[![](../Images/d06870848c3e28be46eae4d25fbe7a91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XUpS2_hi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AQwkXB-kakz6ohvs3)
+[![](img/d06870848c3e28be46eae4d25fbe7a91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XUpS2_hi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AQwkXB-kakz6ohvs3)
 
 我将把计算器应用程序分解成单独的小块。首先，它有一些 JSX，看起来像 HTML，但实际上是 JavaScript。这个 JSX 使计算器应用程序呈现在屏幕上。它有一堆带有类名的 div 和按钮。CSS 的魔力融入了类名，使其看起来更好。
 
@@ -104,7 +104,7 @@ handleClick = e => { const value = e.target.getAttribute('data-value') switch (v
 
 单击按钮后，事件按钮被传递。如果在`Button`组件中查找，该值被存储为`data-value`。
 
-[![](../Images/4d260112ff7dd4250e18cabd28fb1efb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4QFm89Qw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2Az-97sZ86CTX3D1Iw)
+[![](img/4d260112ff7dd4250e18cabd28fb1efb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4QFm89Qw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2Az-97sZ86CTX3D1Iw)
 
 使用`e.target.getAttribute('data-value')`，我们获得分配给属性`data-value`的值，该值与从`App`组件传递的`value`相同。
 
@@ -120,7 +120,7 @@ handleClick = e => { const value = e.target.getAttribute('data-value') switch (v
 
 **为什么更新而不是直接将新值推送到数组？**
 
-[![](../Images/27453e008d3219d6ab7c3ac4cfcaf071.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZR9syuKd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AfD-m8bE8tCHuFB9C)
+[![](img/27453e008d3219d6ab7c3ac4cfcaf071.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZR9syuKd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AfD-m8bE8tCHuFB9C)
 
 `this.state.comment = 'Hello'`不会重新渲染组件。
 
@@ -158,13 +158,13 @@ JavaScript 中的算法有一个基本问题。与其他语言不同，数字只
 
 如果我不控制精度，这就是我得到的…
 
-[![](../Images/4ed5bb6b22b26cc1a1baeb72631849a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tm-sWGJ7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2ALaKGoCQDEEGx_mPf)
+[![](img/4ed5bb6b22b26cc1a1baeb72631849a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tm-sWGJ7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2ALaKGoCQDEEGx_mPf)
 
 即使是 14 位精度，我们也能得到正确的结果。它将显示多达 14 个十进制字符的正确结果。对我们来说这就足够了。
 
 随着精密设置，我得到这个…
 
-[![](../Images/0750d170a6485a57fc2a1cc7374ddc15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uZRGUYbU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AehuPTCW9JO2uUZUx)
+[![](img/0750d170a6485a57fc2a1cc7374ddc15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uZRGUYbU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AehuPTCW9JO2uUZUx)
 
 然后，我们将状态设置为结果，以便显示得到更新。
 
@@ -194,6 +194,6 @@ JavaScript 中的算法有一个基本问题。与其他语言不同，数字只
 
 加入我们的 [**简讯**](https://reactninja.io/subscribe-our-newsletter/) 获取最新最棒的内容，让你成为更好的开发者。
 
-#### 如果这篇帖子有帮助，请点击下面的![👏](../Images/8ad2961b4e302636c33600bb62b5bb8e.png)按钮几下以示支持！![⬇](../Images/c7b598e32d866292d9274dee38c5c797.png) ![⬇](../Images/c7b598e32d866292d9274dee38c5c797.png)
+#### 如果这篇帖子有帮助，请点击下面的![👏](img/8ad2961b4e302636c33600bb62b5bb8e.png)按钮几下以示支持！![⬇](img/c7b598e32d866292d9274dee38c5c797.png) ![⬇](img/c7b598e32d866292d9274dee38c5c797.png)
 
 在 React 中创建一个简单的计算器应用的帖子[首先出现在](https://reactninja.io/2018/06/26/create-simple-calculator-app-react/)[React inja](https://reactninja.io)上。

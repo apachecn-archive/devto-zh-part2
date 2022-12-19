@@ -35,7 +35,7 @@ Persistence 是我们将在一天中简单调用的，它是一个文件，它�
 
 #### 会得到一个大概的样子
 
-[![alt text](../Images/bd24029fe46c35633dc1d9ad42b7cf8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XcJvlaBb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ynzakmbdaf8oit2heyq8.PNG)
+[![alt text](img/bd24029fe46c35633dc1d9ad42b7cf8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XcJvlaBb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ynzakmbdaf8oit2heyq8.PNG)
 
 * * *
 
@@ -59,9 +59,9 @@ Persistence 是我们将在一天中简单调用的，它是一个文件，它�
 `Package : มันจะชี้ไปที่ๆเราสร้างไว้ เพื่อบอกว่า class ที่เรากำลังสร้างอยู่ตอนนี้จะอยู่ภายใต้ package นี้`
 T1】
 
-[![alt text](../Images/5c8dd7f9737773aae0bae8aa2d524269.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eJ4u0kap--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7ss8uwhwo79gxp6akbg8.PNG)
+[![alt text](img/5c8dd7f9737773aae0bae8aa2d524269.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eJ4u0kap--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7ss8uwhwo79gxp6akbg8.PNG)
 
 * * *
 
 4.服务包中剩下 4 个，下面有 4 个类。我们可以自己创建它们。
-[![alt text](../Images/d0a78417bc57598b181dd514f0eae119.png)![alt text](../Images/d0a78417bc57598b181dd514f0eae119.png)。](https://res.cloudinary.com/practicaldev/image/fetch/s--MBoKtLhy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6ltro6qzqjtb3dl4ku4m.PNG)
+[![alt text](img/d0a78417bc57598b181dd514f0eae119.png)![alt text](img/d0a78417bc57598b181dd514f0eae119.png)。](https://res.cloudinary.com/practicaldev/image/fetch/s--MBoKtLhy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6ltro6qzqjtb3dl4ku4m.PNG)

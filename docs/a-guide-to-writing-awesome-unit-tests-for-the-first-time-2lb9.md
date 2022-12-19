@@ -17,7 +17,7 @@
 ### 创建 Vue 项目:
 
 首先，我们将使用 webpack 模板创建一个简单的 Vue 项目。虽然 Vue 3.0 版引入了另一种创建项目的方法，而不是使用模板，但是因为我经常使用模板，所以在本教程中我也会这样做。用这两种方式创建的项目没有太大的区别。
-[![Options selected during project creation](../Images/eb31a13e33a2f5ee091e9f85145fa29c.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--F_He1zSp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f5awilwecnwmml6622xv.PNG)
+[![Options selected during project creation](img/eb31a13e33a2f5ee091e9f85145fa29c.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--F_He1zSp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f5awilwecnwmml6622xv.PNG)
 
 相应地随意选择这些值——项目名称、描述、作者。我更喜欢为我的项目使用独立(运行时+编译器)版本，你可以选择任何一个。这是一个示例项目，是用来教你测试的，所以不需要路由器。如果需要，您可以选择一个 linter，但是不要设置单元测试和端到端测试选项。
 
@@ -25,15 +25,15 @@
 
 现在，这是一个我们将要测试的简单模板。如果需要，继续对文本进行修改，但是保持大纲不变(两个按钮——一个改变数据属性，另一个调用函数)。
 
-app . view:[![App.vue component](../Images/ba7013faa89e2b899fe75a4a62478441.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MOC1_ilC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/svpvlv4aknrh9ee8bgpz.PNG)
+app . view:[![App.vue component](img/ba7013faa89e2b899fe75a4a62478441.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MOC1_ilC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/svpvlv4aknrh9ee8bgpz.PNG)
 
-测试.视图: [![Test.vue component](../Images/c5171d43b63333dee81c54aaeebdbd53.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6ZkG3w-B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jiz8uppcciitpxrb3dm6.PNG)
+测试.视图: [![Test.vue component](img/c5171d43b63333dee81c54aaeebdbd53.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6ZkG3w-B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jiz8uppcciitpxrb3dm6.PNG)
 
 ### 安装测试依赖项:
 
 既然我们已经启动并运行了我们的项目，那么是时候安装我们设置单元测试所需的所有实用程序和软件包了。
 
-[![Installing packages using npm on command line](../Images/c6d45fb182d5be5015c669e4e53bb36d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XHJsDN9Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3qtvz1ffnm2dwwypctwm.PNG)
+[![Installing packages using npm on command line](img/c6d45fb182d5be5015c669e4e53bb36d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XHJsDN9Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3qtvz1ffnm2dwwypctwm.PNG)
 
 我们正在安装的这些新软件包的简单说明:
 
@@ -47,10 +47,10 @@ app . view:[![App.vue component](../Images/ba7013faa89e2b899fe75a4a62478441.png)
 现在对我前面提到的配置文件进行修改。这些更改将对 package.json 和。Vue.js 在我们创建项目时自动为我们创建的 babelrc 文件。json 包含了我们的项目和。babelrc 是 Babel 所需的配置文件。Babel 是一个了不起的东西，它可以翻译我们新的 JavaScript 代码，以便旧的浏览器能够理解它。
 
 package . JSON:
-[![image of all changes made to package.json file](../Images/42b2d618455b8fadbf7ee2ea3e356a3c.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--kVMrkHfw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w34amfrfsqrmwjf0sc0x.PNG)
+[![image of all changes made to package.json file](img/42b2d618455b8fadbf7ee2ea3e356a3c.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--kVMrkHfw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w34amfrfsqrmwjf0sc0x.PNG)
 
 。babelrc 文件:
-[![image of changes made to .babelrc file](../Images/74c5341f7ea4595805e854ac97701fc8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jG2dkf7R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uwp6dr5osdy4mtmgi9lm.PNG)
+[![image of changes made to .babelrc file](img/74c5341f7ea4595805e854ac97701fc8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jG2dkf7R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uwp6dr5osdy4mtmgi9lm.PNG)
 
 所有更改都在注释中进行了解释。由于我们的目标是快速开始编写测试，所以我不会对这些变化进行过多的描述。
 
@@ -64,7 +64,7 @@ package . JSON:
 
 在根目录下创建一个名为 tests 的新文件夹。如果你不熟悉根目录这个术语(我知道它一开始让我很困惑)，你的文件夹应该是这样的:
 
-[![image of folder structure after creating tests folder](../Images/3a7156421df663e541b55a999176332e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GYCPDpsh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0r9lx6e2d9no9j03fr4o.PNG)
+[![image of folder structure after creating tests folder](img/3a7156421df663e541b55a999176332e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GYCPDpsh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0r9lx6e2d9no9j03fr4o.PNG)
 
 您猜对了，这个目录将包含您所有的测试。您的测试文件与您将要测试的文件具有相同的名称是很重要的。它需要有**。测试中间的**分机。例如，如果你正在为 **index.js** 编写测试，你的文件名将是 **index.test.js** 。如果您正在测试 **HelloWorld.vue** ，测试文件的名称将是 **HelloWorld.test.js** 。我们的文件将是一个常规的 JavaScript 文件，因此称为**。js** 扩展。由于我们将为我们的 **Test.vue** 组件编写测试，我们将适当地命名该文件( **Test.test.js** )。就像我上面提到的，Jest 通过比较实际结果和我们的预期来测试我们的代码。但是，它只允许我们写一个测试。
 
@@ -75,7 +75,7 @@ package . JSON:
 类似地，对于我们的测试，即使我们只能告诉 Jest 每个测试只期待一件事，我们也可以在一个测试套件中编写多个测试。一步一步来；我们将首先单击第一个按钮，并检查数据属性是否已更新。
 
 test . test . js:
-[![image of all imported packages and first test case](../Images/f77d5009b9ca26a46cf6d783e201e191.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--41DjpTsG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zomkwmt59wah5erdq40k.PNG)
+[![image of all imported packages and first test case](img/f77d5009b9ca26a46cf6d783e201e191.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--41DjpTsG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zomkwmt59wah5erdq40k.PNG)
 
 大部分解释都写在评论里了。所以我会讲一些很难理解的问题:
 
@@ -84,7 +84,7 @@ test . test . js:
 现在让我们运行测试:
 
 测试命令在
-[![image of test command and test result](../Images/298b054a0549443d8e6cd38e850b8d3c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_qbz-y0Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/031eni44iid1eizxb5tj.PNG) 图中高亮显示
+[![image of test command and test result](img/298b054a0549443d8e6cd38e850b8d3c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_qbz-y0Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/031eni44iid1eizxb5tj.PNG) 图中高亮显示
 
 测试结果给了我们很多信息。当我们编写不止一个测试时，这将是很有帮助的。
 
@@ -92,25 +92,25 @@ test . test . js:
 
 现在我们将编写下一个也是最后一个测试来检查第二个按钮是否成功调用了一个方法。
 
-[![image of second test](../Images/d8cbed22c86c3756e9de9deff3cfd28c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yEb2zYP4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a0kaiiquei64sg77gc2k.PNG)
+[![image of second test](img/d8cbed22c86c3756e9de9deff3cfd28c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yEb2zYP4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a0kaiiquei64sg77gc2k.PNG)
 
 下面是两个测试用例:
-[![image of both test cases together](../Images/7280627e9c1bd95480fe6334d1ae8657.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iGO41shk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8hemmm4gkze9tsew6wdg.PNG)
+[![image of both test cases together](img/7280627e9c1bd95480fe6334d1ae8657.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iGO41shk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8hemmm4gkze9tsew6wdg.PNG)
 
 第一次测试时，您应该已经熟悉了大多数命令。我会解释新的。在这个测试案例中，我们将检查一个函数在点击按钮后是否被调用。我们必须做一些类似于第一个测试用例的事情，在这里我们设置一个数据属性。在这里，我们要设置一个方法。此时，我们并不真正关心我们的方法内部发生了什么，我们关心的只是它被调用。虽然我们可以创建一个空方法，但是最好模仿一个方法(创建一个假方法)。然后我们将这个假方法赋给我们实际方法的名字。这样做的是，当调用方法时，Jest 注意到了 **setMethods()** 函数并调用我们的模拟函数。之后，我们做我们之前做的——找到按钮，模拟一次点击，然后像我们期望的那样开玩笑。在这种情况下，我们期望函数被调用，所以我们使用一个不同于以前的 Jest 内置方法。
 
 两次测试的结果:
-[![image of result of both test cases](../Images/a8d93c75933ba03c7d81a05f00ccce54.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lOQ4q-aW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5ch4nvjue6ieewszqdjx.PNG)
+[![image of result of both test cases](img/a8d93c75933ba03c7d81a05f00ccce54.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lOQ4q-aW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5ch4nvjue6ieewszqdjx.PNG)
 
 ### 测试失败怎么办？
 
 我将花一点时间来解释当测试失败时会发生什么。现在在测试中做一些改变。就像我们期望数据属性是`false`的那一行，把它改成`true`。别担心，不会有太大的不同。现在用同样的命令再次运行测试。您应该得到这样的结果:
 
 测试中做出的更改:
-[![image of change done in the first test case](../Images/e8e7eb431b8d9ba054f8b42860a9bab8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Jjst36A3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wtq096g5gvgrixerwpqw.PNG)
+[![image of change done in the first test case](img/e8e7eb431b8d9ba054f8b42860a9bab8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Jjst36A3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wtq096g5gvgrixerwpqw.PNG)
 
 测试结果失败:
-[![image of test failing](../Images/0384c16881ce3510dfffd9f09fabf88b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kOsG5-w_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x21u7ifbllhfcuxlpg1k.PNG)
+[![image of test failing](img/0384c16881ce3510dfffd9f09fabf88b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kOsG5-w_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x21u7ifbllhfcuxlpg1k.PNG)
 
 您可能已经注意到，当所有测试都通过时，会有一条消息简单地告诉您。但是当一个测试失败时，所有这些代码行，到处都是红线。它好像对你指指点点，告诉你做错了什么。但是没必要害怕。这些红色警告是测试的重要组成部分。在前几行中，您可能会在我们第一个测试的名称旁边看到一个叉号。指示哪个测试有问题。在另外几行之后，它陈述了它所期望的和所接收的。这对我们很有帮助。我们一眼就能看出有什么不同。结果是`false`，我们已经告诉 Jest 期待结果为`true`。这还不是全部，接下来要做的是指出这条线，这样我们甚至不必去寻找问题。就是这样；那些吓人的红线不应该让你担心。相反，它们在找出问题所在和问题所在方面帮助很大。
 

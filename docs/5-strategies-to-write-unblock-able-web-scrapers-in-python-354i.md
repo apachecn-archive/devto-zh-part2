@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kadnan/5-strategies-to-write-unblock-able-web-scrapers-in-python-354i>
 
-[![HTML](../Images/ec4a7d6da405dc2887d0f9efbdcef556.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2017/02/HTML.jpg)
+[![HTML](img/ec4a7d6da405dc2887d0f9efbdcef556.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2017/02/HTML.jpg)
 
 阅读我在 [scraping 系列](http://blog.adnansiddiqi.me/tag/scraping/)中的帖子的人经常联系我，想知道他们如何编写不会被阻塞的 scrapers。编写一个永远不会被阻塞的抓取器是非常困难的，但是是的，你可以通过实施一些策略来延长你的 web 抓取器的寿命。今天我将讨论它们。
 
@@ -41,7 +41,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果你要抓取单个产品页面，那么你可以在 referrer 中设置相关的类别 URL，或者找到你要抓取的域名的[反向链接](https://en.wikipedia.org/wiki/Backlink)。我通常使用 SEMRush 来达到这个目的。对于链接`https://www.olx.com.pk/furniture-home-decor/categories/`, SEM rush 返回如下内容:
 
-[![SEM Rush for Backlinks](../Images/1e9f78a372eaf2b737b4e6b8a2242cd9.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2018/05/Screen-Shot-2018-05-02-at-1.47.55-PM.png)
+[![SEM Rush for Backlinks](img/1e9f78a372eaf2b737b4e6b8a2242cd9.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2018/05/Screen-Shot-2018-05-02-at-1.47.55-PM.png)
 
 如果你点击查看图像的大版本，你可以看到一些链接，指向我需要的类别。一旦你收集了所有这些真正的反向链接，你就可以通过复制`get_random_ua()` return random referrer 里面的逻辑来使用它们。`headers`现在将变成如下所示:
 
@@ -73,7 +73,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 请求标题
 
-到目前为止，你已经实现的东西是好的，但仍然有一些狡猾的网站要求你做更多的工作，当你访问页面时，他们会寻找特定的请求标题条目，如果没有找到特定的标题，他们会阻止内容或欺骗内容。模仿你将要在网站上提出的整个请求是非常容易的。例如，您将要访问某个 Craigslist URL，并想知道正在请求哪些标题。进入 Chrome/Firefox，检查正在访问的页面，你应该能看到如下内容: [![Craigslist Requests Headers](../Images/9a6ff20a60229c4842915c86f9fbf589.png)](http://blog.adnansiddiqi.me/wp-content/uploads/2018/05/Screen-Shot-2018-05-02-at-2.27.20-PM.png)
+到目前为止，你已经实现的东西是好的，但仍然有一些狡猾的网站要求你做更多的工作，当你访问页面时，他们会寻找特定的请求标题条目，如果没有找到特定的标题，他们会阻止内容或欺骗内容。模仿你将要在网站上提出的整个请求是非常容易的。例如，您将要访问某个 Craigslist URL，并想知道正在请求哪些标题。进入 Chrome/Firefox，检查正在访问的页面，你应该能看到如下内容: [![Craigslist Requests Headers](img/9a6ff20a60229c4842915c86f9fbf589.png)](http://blog.adnansiddiqi.me/wp-content/uploads/2018/05/Screen-Shot-2018-05-02-at-2.27.20-PM.png)
 
 如果你点击图像和查看，你会发现除了裁判和用户代理的各种条目。您可以全部实现，也可以逐个实现并测试。不管我要访问哪个网站，我总是设置这些条目。确保你不只是在不同的站点间复制/粘贴，因为这些条目经常会因站点而异:
 

@@ -16,7 +16,7 @@
 
 当然，也有更有序的自治系统，像曼德布洛特的分形，来源于一个看似简单的方程。
 
-[![Mandelbrot's Fractal](../Images/ca1485ecbe1d2a2d7e7c3870bf213354.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qxb9rzpi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/a/a7/Mandelbrot_set_image.png)
+[![Mandelbrot's Fractal](img/ca1485ecbe1d2a2d7e7c3870bf213354.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qxb9rzpi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/a/a7/Mandelbrot_set_image.png)
 
 我们也可以整合这两种方法，将秩序和混乱融合在一起！
 
@@ -151,7 +151,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这里有一张我们在本教程中使用的所有 P5 功能的备忘单。
 
-[![p5.js cheatsheet](../Images/b70bff14bfc01093c98c91ff558322b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QZUtdpkD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7xsjxa0uwd64wa2w7jr0.png)
+[![p5.js cheatsheet](img/b70bff14bfc01093c98c91ff558322b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QZUtdpkD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7xsjxa0uwd64wa2w7jr0.png)
 
 ## 阅读更多
 

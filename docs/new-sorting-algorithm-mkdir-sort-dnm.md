@@ -21,7 +21,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这就像使用 FS 的“b 树排序”
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)T1】o2sh/[mkdir-sort](https://github.com/o2sh/mkdir-sort)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)T1】o2sh/[mkdir-sort](https://github.com/o2sh/mkdir-sort)
 
 ### 使用 mkdir 的排序算法
 

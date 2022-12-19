@@ -6,7 +6,7 @@
 
 *   **编译:**当编译过程完成后，所做的是从整个代码中得到的可执行代码，所以从所有源代码中得到的是一个可以原样使用的，并且具有机器所需要的相同特性的可执行代码。(比如 Java，通过编译它可以在 JVM 上运行)负责这项工作的人是编译器(废话！他当然是！)在下图中，我们可以更深入地看到整个过程...
 
-[![](../Images/bbdd7cf49062a90cf24018287a453605.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cpLmNLMl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sc72gsefcq5ikadyim4z.png)
+[![](img/bbdd7cf49062a90cf24018287a453605.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cpLmNLMl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sc72gsefcq5ikadyim4z.png)
 
 正如你所看到的，它把所有的东西都放在那里，然后生成可执行文件进行处理。
 
@@ -14,13 +14,13 @@
 
 这个过程可以在这里看到更好的解释:
 
-[![](../Images/20474722f9df9ae859a9f01fa60d3927.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--00f8Y2jT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r8w9rylky72s9t9pnrin.png)
+[![](img/20474722f9df9ae859a9f01fa60d3927.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--00f8Y2jT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r8w9rylky72s9t9pnrin.png)
 
 如您所见，一条条语句(简称 stm)被处理并立即执行。
 
 好的，但是应该有第三个，对吗？总是有介于两者之间的东西...是的，还有第三种方法，它结合了两种方法，用于中间语言，我们可以在下图中看到它:
 
-[![](../Images/3d5cda97ad851eb5e39f376fd62d9878.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NboaHil2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gs7xlod8gjg2lrywpaee.png)
+[![](img/3d5cda97ad851eb5e39f376fd62d9878.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NboaHil2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gs7xlod8gjg2lrywpaee.png)
 
 在最后一种方法中，编译是通过一种中间语言完成的，然后使用执行器，执行器只不过是解释过程中使用的解释器，我们可以说这是一种中间方法(有一些来自编译的特性，一些来自解释)
 

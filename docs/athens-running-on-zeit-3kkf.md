@@ -19,7 +19,7 @@
 
 我的意思是，我以前写过关于 ACR 建造的博客，但这是下一个级别。一个命令给你一切。
 
-[![yess](../Images/9dfb7f45230c1ac04823989e122b423c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HZbuzJI---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d33wubrfki0l68.cloudfront.net/72253ecacc740ac1b30979545713b146cca6b2ae/5b0af/images/athens-zeit/yessss.jpg)
+[![yess](img/9dfb7f45230c1ac04823989e122b423c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HZbuzJI---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d33wubrfki0l68.cloudfront.net/72253ecacc740ac1b30979545713b146cca6b2ae/5b0img/athens-zeit/yessss.jpg)
 
 # 雅典-ing it Up
 
@@ -130,7 +130,7 @@
 
 这是用一个多阶段的建筑在一个 Dockerfile 文件中，在 Zeit 的基础设施上建造雅典。我创建它是因为我使用了一个[托管的雅典模块代理](https://github.com/gomods/athens/issues/772)(更新:现在在 https://athens.azurefd.net有一个更可靠的服务器)在 Zeit 的基础设施上构建雅典。
 
-[![athens arch](../Images/2037357430d4e6358d3caa5396a363fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mzqbRPDm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d33wubrfki0l68.cloudfront.net/579517d79133bb68bc7cc870785c2c9e71a506e2/5bfad/images/athens-zeit/diagram.png)
+[![athens arch](img/2037357430d4e6358d3caa5396a363fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mzqbRPDm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d33wubrfki0l68.cloudfront.net/579517d79133bb68bc7cc870785c2c9e71a506e2/5bfimg/athens-zeit/diagram.png)
 
 下面是它部署后的样子:
 
@@ -208,6 +208,6 @@ go build  4.97s user 2.06s system 7% cpu 1:32.16 total
 
 总而言之，这是一个相当不错的平台。我觉得很棒。不是超级 rad -那是为 [clippy](https://en.wikipedia.org/wiki/Office_Assistant) 级别的东西保留的，但是比半 rad 高很多。
 
-[![clipyyyy](../Images/7faa7eff4dfef004717e90c26f004388.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AWEDxtI8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d33wubrfki0l68.cloudfront.net/0deafaa078d06808cf0c9b6abcb4b9e8272f6359/976c1/images/athens-zeit/clippy.jpg)
+[![clipyyyy](img/7faa7eff4dfef004717e90c26f004388.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AWEDxtI8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d33wubrfki0l68.cloudfront.net/0deafaa078d06808cf0c9b6abcb4b9e8272f6359/976img/athens-zeit/clippy.jpg)
 
 继续摇滚每个人！

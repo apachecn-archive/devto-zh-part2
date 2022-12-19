@@ -4,7 +4,7 @@
 
 <figure>
 
-[![A sign post with two one way street signs](../Images/1031e64c06f2fbe016369133dd2ca101.png "Which way?")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e4ZfWlmR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kellen.piffner.com/img/choice-of-priorities/brendan-church-182747-unsplash.jpg)
+[![A sign post with two one way street signs](img/1031e64c06f2fbe016369133dd2ca101.png "Which way?")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e4ZfWlmR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kellen.piffner.com/img/choice-of-priorities/brendan-church-182747-unsplash.jpg)
 
 <figcaption><cite>[Photo by Brendan Church on Unsplash](https://unsplash.com/@bdchu614?utm_medium=referral&utm_campaign=photographer-credit&utm_content=creditBadge)</cite></figcaption>
 

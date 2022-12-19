@@ -39,7 +39,7 @@ iOS 不支持自动生成闪屏的类似方法。相反，您需要使用`apple-
 
 打开应用，点击“添加到主屏幕”——[头条应用](https://headlines-pwa.firebaseapp.com)
 
-[![](../Images/4f573bd54fd1f7727082bcd0c5b6aac5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8UT8FodK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/19OPpMK.gif)
+[![](img/4f573bd54fd1f7727082bcd0c5b6aac5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8UT8FodK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/19OPpMK.gif)
 
 ### 参考文献
 

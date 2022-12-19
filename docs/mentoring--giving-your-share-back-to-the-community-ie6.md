@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/marceloancelmo/mentoring--giving-your-share-back-to-the-community-ie6>
 
-[![](../Images/a5f0a0bf05af97e03ab456bada54d625.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FipCQ89j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AoBaaSdyRh6nAuMBsN48_UQ.jpeg) 
+[![](img/a5f0a0bf05af97e03ab456bada54d625.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FipCQ89j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AoBaaSdyRh6nAuMBsN48_UQ.jpeg) 
 
 <figcaption>形象由[克里斯托夫·亨施](https://www.flickr.com/photos/cmhensch/):[https://www.flickr.com/photos/cmhensch/13477030743](https://www.flickr.com/photos/cmhensch/13477030743)</figcaption>
 

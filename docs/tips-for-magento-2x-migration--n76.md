@@ -4,7 +4,7 @@
 
 作为一家零售店，确保你的网上空间至关重要。赢得你的目标市场，确保你的商业形象在他们心中根深蒂固。就目前的情况来看，这种策略的效果不容小觑；它在过去被证明是有效的，并将继续发挥作用。
 
-[![](../Images/55fc00a6d14a40b6596051b0b8e7f6e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WgHlsK4d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6eamkgrz8z6eplw6nrbs.jpg)
+[![](img/55fc00a6d14a40b6596051b0b8e7f6e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WgHlsK4d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6eamkgrz8z6eplw6nrbs.jpg)
 
 对于希望构建功能平台的公司来说，最好的选择是 [**雇佣 Magento 认证的开发者**](https://dedicateddevelopers.com/developers/hire-magento-developers/) 。当你想雇佣 Magento 程序员时，你应该坚持使用 Magento 的第一版还是第二版？让我们找出答案。
 

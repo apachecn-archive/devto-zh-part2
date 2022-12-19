@@ -8,12 +8,12 @@
 
 Adabas & Natural 产品管理总监 Juergen Lind 和 Software AG 高级首席软件专家 Bernhard Fricke
 
-| 2018 年第四期 | [![](../Images/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue4/SAG_webMethods_EntireX_TECHniques_Oct18-WEB.pdf) |
+| 2018 年第四期 | [![](img/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue4/SAG_webMethods_EntireX_TECHniques_Oct18-WEB.pdf) |
 | --- | --- |
 
 一个简单的例子说明了 API 经济的工作原理，即餐馆、银行和零售商店如何通过将 Google Maps 的地图服务添加到他们的移动应用程序或网页来帮助他们的客户找到他们的位置。在这种双赢的交易中，地图服务公司通过将其地图专业技术外包给其他组织来赚钱，这些组织可以为其用户提供市场上最好的地图服务，而不必投资于不属于其核心竞争力的能力。在真正的数字经济中，你将从使用你的 API 的其他人那里获得报酬。
 
-[![](../Images/6037ec7b3f0d18976eb8dc0267c2ac9b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nUN_Ycpp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/entirex.jpg/2682c409-1e4d-462d-a601-7710f3e3f1d7%3Ft%3D1539850663000) 
+[![](img/6037ec7b3f0d18976eb8dc0267c2ac9b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nUN_Ycpp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/entirex.jpg/2682c409-1e4d-462d-a601-7710f3e3f1d7%3Ft%3D1539850663000) 
 
 **图 1:**API 经济
 
@@ -31,7 +31,7 @@ Adabas & Natural 产品管理总监 Juergen Lind 和 Software AG 高级首席软
 
 让我们仔细看看一个具体的例子:想象一个现有的名为 EMPLOYEE 的自然服务器。它为数据库视图雇员实现了列表和细节功能的访问逻辑:
 
-[![](../Images/a1ac23950e2876886abc06c488734ccf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZBqEAhYJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/entirex2.jpg/3678584f-610d-4ef5-9140-fa5064f1e36b%3Ft%3D1539850614000) 
+[![](img/a1ac23950e2876886abc06c488734ccf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZBqEAhYJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/entirex2.jpg/3678584f-610d-4ef5-9140-fa5064f1e36b%3Ft%3D1539850614000) 
 
 **图 2:** 用 EntireX 提取自然服务器雇员的 API
 
@@ -47,7 +47,7 @@ Adabas & Natural 产品管理总监 Juergen Lind 和 Software AG 高级首席软
 
 在软件 AG IDL 文件的上下文菜单中，选择集成服务器>生成 webMethods IS Connection 选择单选按钮**创建一个新的 EntireX 适配器连接**；在下拉框中选择 **EntireX RPC 连接**；选中**创建或更新 REST 资源**复选框；按**下一步**，定义适配器服务的属性，如包、连接名等；按**下一步**并指定**剩余资源名称**；按完成。好了...
 
-[![](../Images/7108f47a2e824a3bb72357b122829791.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uow0cAk4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/entirex3.jpg/bed17e36-0aa0-438c-a38b-7417a8f21388%3Ft%3D1539850618000) 
+[![](img/7108f47a2e824a3bb72357b122829791.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uow0cAk4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/entirex3.jpg/bed17e36-0aa0-438c-a38b-7417a8f21388%3Ft%3D1539850618000) 
 
 **图 3:** 用 EntireX 生成剩余资源
 
@@ -55,7 +55,7 @@ Adabas & Natural 产品管理总监 Juergen Lind 和 Software AG 高级首席软
 
 使用适当的 REST 客户端，指定 URL、方法和头，并调用您的 REST 资源:
 
-[![](../Images/6ae3a3c8902d2ddd056907f295442ec7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--T80zEkNZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/entirex4.jpg/f83773d0-589a-40d1-9cce-de37fb312c81%3Ft%3D1539850622000) 
+[![](img/6ae3a3c8902d2ddd056907f295442ec7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--T80zEkNZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/entirex4.jpg/f83773d0-589a-40d1-9cce-de37fb312c81%3Ft%3D1539850622000) 
 
 **图 4:** 测试休息资源
 

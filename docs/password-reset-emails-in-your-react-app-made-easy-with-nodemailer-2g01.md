@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/paigen11/password-reset-emails-in-your-react-app-made-easy-with-nodemailer-2g01>
 
-[![Logos of React, Node.js, and Nodemailer](../Images/0538d812fa7680e108b3a0c7857d7df9.png "Logos of React, Node.js, and Nodemailer")T2】](///static/a7064890108db3d198b09d01e8a2a004/2cefc/nodemailer-hero.png)
+[![Logos of React, Node.js, and Nodemailer](img/0538d812fa7680e108b3a0c7857d7df9.png "Logos of React, Node.js, and Nodemailer")T2】](///static/a7064890108db3d198b09d01e8a2a004/2cefc/nodemailer-hero.png)
 
 ## MERN 应用程序中的密码重置
 
@@ -22,7 +22,7 @@
 
 ## 节点邮件程序:神奇的子弹
 
-[![Nodemailer logo](../Images/dc3ef4007432a53edaa61c7a6dbd1093.png "Nodemailer logo")T2】](///static/b637191000560597aaff4e696545c70f/8aea6/nodemailer-logo.png)
+[![Nodemailer logo](img/dc3ef4007432a53edaa61c7a6dbd1093.png "Nodemailer logo")T2】](///static/b637191000560597aaff4e696545c70f/8aea6/nodemailer-logo.png)
 
 当我开始在谷歌上寻找我的密码重置功能的解决方案时，我看到了一些推荐 [Nodemailer](https://nodemailer.com/about/) 的文章。
 
@@ -461,7 +461,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，我可以毫无问题地发送重置电子邮件。如果您遇到问题，请查看 Nodemailer 的常见问题以获得更多帮助。
 
-[![Make Gmail less secure to practice sending reset emails](../Images/d46ed3a402b6e4f4469ffbabd15e4947.png "Make Gmail less secure to practice sending reset emails")T2】](///static/89536a04dbfcb64b2a66621911600fe7/2cefc/gmail-less-secure.png)
+[![Make Gmail less secure to practice sending reset emails](img/d46ed3a402b6e4f4469ffbabd15e4947.png "Make Gmail less secure to practice sending reset emails")T2】](///static/89536a04dbfcb64b2a66621911600fe7/2cefc/gmail-less-secure.png)
 
 *这是您应该看到的屏幕，您可以在这里打开不太安全的应用程序。又多了一个使用虚拟邮箱账户而不是真正的 Gmail 账户的理由。*
 
@@ -469,7 +469,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 很好，现在用户应该会在他们的收件箱里收到类似这样的重置邮件。
 
-[![Password reset email](../Images/dd8d7c31e4affcc55163b9f4bf4bf7c2.png "Password reset email")T2】](///static/169b423e51e73dbe48b108462bc97b6c/2cefc/password-reset-email.png)
+[![Password reset email](img/dd8d7c31e4affcc55163b9f4bf4bf7c2.png "Password reset email")T2】](///static/169b423e51e73dbe48b108462bc97b6c/2cefc/password-reset-email.png)
 
 这是一封简单的电子邮件，但它做了我需要它做的事情。
 

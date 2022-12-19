@@ -49,4 +49,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 这样我们就*隐藏了*和`.text`，只是为了在`input`没有占位符的时候显示出来，所以，当我们重写它的时候！
 
-[![cool](../Images/d0638dee87eb2a9caed0c575d97eb3f5.png)T2】](https://i.giphy.com/media/l4KhStwfccoc7t6IU/giphy.gif)**
+[![cool](img/d0638dee87eb2a9caed0c575d97eb3f5.png)T2】](https://i.giphy.com/media/l4KhStwfccoc7t6IU/giphy.gif)**

@@ -26,7 +26,7 @@
 
 要尝试这个游戏，你需要在两台不同的电脑上运行它。第一个开始的是 1 号玩家(蓝色)，第二个是 2 号玩家(红色)。使用箭头键移动坦克，并按空格键发射。
 
-[![](../Images/b541bd05456de4d901e22bbdb6ccfeea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--37_aOWnd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.xojo.com/wp-content/uploads/2018/08/2018-08-22_14-05-40.png)
+[![](img/b541bd05456de4d901e22bbdb6ccfeea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--37_aOWnd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.xojo.com/wp-content/uploads/2018/08/2018-08-22_14-05-40.png)
 
 在 GitLab 上查看[项目。](https://gitlab.com/xojo/NetTank)
 

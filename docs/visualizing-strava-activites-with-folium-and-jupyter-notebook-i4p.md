@@ -4,7 +4,7 @@
 
 几天前，我参加了我的第一场比赛！这是一项名为[的短铁人三项赛。我的朋友说服了我将近两年。游泳是 500 米，自行车是 34 公里，跑步是 4.5 公里。我不经常游泳或跑步，但我很确定我能应付。我对骑自行车很有信心，结果证明这是一个错误。总的来说，我对结果很满意。我不是最后一名。我对游泳和跑步很满意，但我可以在自行车上加把劲。结果是我有一些有趣的数据可以玩。](https://slapsky-triatlon.webnode.cz/)
 
-[![Map of my ride](../Images/2f13b771f3baa386902aed352fcac581.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--loiYMQ1N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ltvfi6g4gjx8h0y5m5ut.png)
+[![Map of my ride](img/2f13b771f3baa386902aed352fcac581.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--loiYMQ1N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ltvfi6g4gjx8h0y5m5ut.png)
 
 *骑行部分的速度可视化。从深蓝色代表最慢到深红色代表最快。*
 

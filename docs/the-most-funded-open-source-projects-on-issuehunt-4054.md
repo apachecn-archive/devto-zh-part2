@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/issuehunt/the-most-funded-open-source-projects-on-issuehunt-4054>
 
-[![topimage](../Images/30405ecf06e00d0db37c51cbbff52e21.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zLXvWpda--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Ap_a9w9WU7PAw8-C6fLt6VA.png)
+[![topimage](img/30405ecf06e00d0db37c51cbbff52e21.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zLXvWpda--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Ap_a9w9WU7PAw8-C6fLt6VA.png)
 
 [IssueHunt](https://issuehunt.io) 是一个基于问题的开源项目奖励平台。
 
@@ -15,7 +15,7 @@
 
 # 特色项目
 
-[![stcimage](../Images/f1d8b25eb9e2916d5d409fd7c7859fed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iTNvMrSz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AUK_WZriMVDchv4J3zTutnA.png)
+[![stcimage](img/f1d8b25eb9e2916d5d409fd7c7859fed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iTNvMrSz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AUK_WZriMVDchv4J3zTutnA.png)
 
 #### 设置同步
 
@@ -23,7 +23,7 @@
 
 [查看发行号](https://issuehunt.io/repos/47984369)
 
-[![rrimage](../Images/0f102a500d03367d0426c06d4382d37c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CCUry4N4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AJ9OpKiJ9rKscilAzAOFhCA.png)
+[![rrimage](img/0f102a500d03367d0426c06d4382d37c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CCUry4N4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AJ9OpKiJ9rKscilAzAOFhCA.png)
 
 ### React&Redux in TypeScript—静态打字指南
 
@@ -108,4 +108,4 @@
 
 [https://bitly.com/IssueHunt](https://bitly.com/IssueHunt)
 
-[![ihimage](../Images/fa500153dec54b994d2db5382c9e9eee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F-AGBpdt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AoQszREMYl47gbIiMMjKGAA.png)
+[![ihimage](img/fa500153dec54b994d2db5382c9e9eee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F-AGBpdt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AoQszREMYl47gbIiMMjKGAA.png)

@@ -54,6 +54,6 @@ cat.showFavThings();
 
 干得好，龙！你做你的！
 
-[![Toothless applauds](../Images/4f5603b6cb9ef3cd6d371cabaa05965e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lecnaJau--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://vignette.wikia.nocookie.net/howtotrainyourdragon/images/6/69/Toothless_ecstatic_claps.gif/revision/latest%3Fcb%3D20160224034457)
+[![Toothless applauds](img/4f5603b6cb9ef3cd6d371cabaa05965e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lecnaJau--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://vignette.wikia.nocookie.net/howtotrainyourdragimg/6/69/Toothless_ecstatic_claps.gif/revision/latest%3Fcb%3D20160224034457)
 
 作为一个编程新手，我仍在学习如何最好地使用箭头功能，因为并不是所有的情况都需要它们。但是你呢？你为什么喜欢或不喜欢这种方法？

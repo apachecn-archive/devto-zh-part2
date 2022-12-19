@@ -4,10 +4,10 @@
 
 # 介绍 Mongoose ODM:坚固的框架和紧密的支点！
 
-[![bmx](../Images/bfc22d2105755be63c77a17c8c3745f3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gMYot0_8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bmxunion.com/wp-content/uploads/2017/11/mongoose-bmx-in-japan-video-2017-750x394.jpg) 
+[![bmx](img/bfc22d2105755be63c77a17c8c3745f3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gMYot0_8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bmxunion.com/wp-content/uploads/2017/11/mongoose-bmx-in-japan-video-2017-750x394.jpg) 
 如果你是通过搜索小轮车图片找到这个页面的，这里有一段[猫鼬摩托](http://www.mongoose.com/usa/roots/)的有趣历史。如果没有，你仍然读它，那么这是另一个消磨时间的分心，互联网的恭维。专注！在这里，我们将讨论 mongose JS 框架，它已经为 JS 开发人员赢得了自己的名字，作为一种在完整的 JS 堆栈中运行良好的健壮的工具。下图有助于形象化地展示 Mongoose 如何使用我们的 Mongo 客户端和节点循环地(双关语)交付数据库信息。
 
-[![model](../Images/89bdf4f321617f45d85637fe44232562.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CDQwH_Xy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ap3d4omlez1jwuriod9h.png)
+[![model](img/89bdf4f321617f45d85637fe44232562.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CDQwH_Xy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ap3d4omlez1jwuriod9h.png)
 
 要使用 Mongoose，我们必须安装上图中的大部分项目。Mongoose 被设计为与后台运行的 MongoDB 协同工作，因此建立连接是我们首先要关注的。你可以在这里下载 MongoDB [。
 在终端中使用命令:mongod

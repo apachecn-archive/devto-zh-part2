@@ -7,7 +7,7 @@
 *   感谢 DigitalOcean、Github、Twilio 组织#HacktoberFest 活动
 *   Thanks to *Beautus S Gumede* for the repo
 
-    ## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) [ sduduzog ](https://github.com/sduduzog) / [Slim-Launcher](https://github.com/sduduzog/slim-launcher) 
+    ## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) [ sduduzog ](https://github.com/sduduzog) / [Slim-Launcher](https://github.com/sduduzog/slim-launcher) 
 
     ### Android Minimalist Launcher
 
@@ -17,9 +17,9 @@
 
     > All you need is less.
 
-    [![GitHub](../Images/380368bfe2e00098e9f77dc97498fdb5.png) ](https://camo.githubusercontent.com/ecaf820540248b6680d480ee4f9a364569cda202/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f73647564757a6f672f736c696d2d6c61756e636865722e7376673f7374796c653d706c6173746963) [ ![F-Droid](../Images/02375b94fbebb75f90102ab7491b2187.png) ](https://camo.githubusercontent.com/e641420437aad7c45fcd7370712ddbc05a809748/68747470733a2f2f696d672e736869656c64732e696f2f662d64726f69642f762f636f6d2e73647564757a6f672e736c696d6c61756e636865722e7376673f7374796c653d706c6173746963) [ ](https://camo.githubusercontent.com/692f63669a72123416878da6afa81668412dc47b/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f7461672f73647564757a6f672f736c696d2d6c61756e636865722e7376673f7374796c653d706c6173746963) [![GitHub stars](../Images/ac609c848fc0529d9d132849abd3c36e.png) t11]](https://camo.githubusercontent.com/7cdbd15c56168a939ca13d298b81b3bc1c33262c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f73647564757a6f672f736c696d2d6c61756e636865722e7376673f7374796c653d736f6369616c) 
+    [![GitHub](img/380368bfe2e00098e9f77dc97498fdb5.png) ](https://camo.githubusercontent.com/ecaf820540248b6680d480ee4f9a364569cda202/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f73647564757a6f672f736c696d2d6c61756e636865722e7376673f7374796c653d706c6173746963) [ ![F-Droid](img/02375b94fbebb75f90102ab7491b2187.png) ](https://camo.githubusercontent.com/e641420437aad7c45fcd7370712ddbc05a809748/68747470733a2f2f696d672e736869656c64732e696f2f662d64726f69642f762f636f6d2e73647564757a6f672e736c696d6c61756e636865722e7376673f7374796c653d706c6173746963) [ ](https://camo.githubusercontent.com/692f63669a72123416878da6afa81668412dc47b/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f7461672f73647564757a6f672f736c696d2d6c61756e636865722e7376673f7374796c653d706c6173746963) [![GitHub stars](img/ac609c848fc0529d9d132849abd3c36e.png) t11]](https://camo.githubusercontent.com/7cdbd15c56168a939ca13d298b81b3bc1c33262c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f73647564757a6f672f736c696d2d6c61756e636865722e7376673f7374796c653d736f6369616c) 
 
-    [![Get it on Google Play](../Images/f64bdd8338de03ece22d76480ef77d8f.png) ](https://play.google.com/store/apps/details?id=com.sduduzog.slimlauncher) [![Get it on F-Droid](../Images/a71be2f3fb8b16abd7cdd7399f18959c.png)](https://f-droid.org/packages/com.sduduzog.slimlauncher/) 
+    [![Get it on Google Play](img/f64bdd8338de03ece22d76480ef77d8f.png) ](https://play.google.com/store/apps/details?id=com.sduduzog.slimlauncher) [![Get it on F-Droid](img/a71be2f3fb8b16abd7cdd7399f18959c.png)](https://f-droid.org/packages/com.sduduzog.slimlauncher/) 
 
     ## Background
 

@@ -172,7 +172,7 @@ class App extends React.Component {
 
 在 Winds 2.0 中，我们大量使用了 CSS 网格。这是您在浏览播客或 RSS 源时会看到的一般布局之一:
 
-[![](../Images/bfd5924041a30945694ff151ae805f79.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tpKZbNPS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/06/Screen-Shot-2018-06-15-at-10.49.13-AM.png%3Fw%3D300%26h%3D300)
+[![](img/bfd5924041a30945694ff151ae805f79.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tpKZbNPS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/06/Screen-Shot-2018-06-15-at-10.49.13-AM.png%3Fw%3D300%26h%3D300)
 
 如果你还不知道 CSS Grid，不要担心——这段 CSS 将让你快速了解事情是如何安排的:
 

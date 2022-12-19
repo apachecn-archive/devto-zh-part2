@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/daveirvine/postcss-with-css-modules-andreact-51ln>
 
-[![](../Images/f9d0f526b03464205424e8bebca5189b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vQFo0Q_x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fso5smcm6exzy8eqylmr.png)
+[![](img/f9d0f526b03464205424e8bebca5189b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vQFo0Q_x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fso5smcm6exzy8eqylmr.png)
 
 ## 更新
 
@@ -20,7 +20,7 @@ PostCSS 提供了一种使用 JavaScript 插件转换样式的方法。
 
 ## 这个为什么
 
-[![](../Images/95a42744f2f006a9e4abb3ab19defa89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yFbfd7h8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/66z689a6md3ltvtl7eep.gif)
+[![](img/95a42744f2f006a9e4abb3ab19defa89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yFbfd7h8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/66z689a6md3ltvtl7eep.gif)
 
 PostCSS 有一个很深很深的生态系统，我特别感兴趣的是 [postcss-preset-env](https://preset-env.cssdb.org/) 插件。使用这个插件，你可以获得最新的 CSS 特性，以及它们的填充。这个角色曾经由 [cssnext](http://cssnext.io/) 担任，但最近[弃用了](https://moox.io/blog/deprecating-cssnext/)，那么现在是探索 postcss-preset-env 的最佳时机吗？
 
@@ -30,7 +30,7 @@ PostCSS 有一个很深很深的生态系统，我特别感兴趣的是 [postcss
 
 ## 该如何如何
 
-[![](../Images/c8231bef25f34c997bad8034ede865e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GNQKi7U6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gfq94zvlrv90au0nms6f.gif)
+[![](img/c8231bef25f34c997bad8034ede865e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GNQKi7U6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gfq94zvlrv90au0nms6f.gif)
 
 好吧，让我们开始吧。我希望你已经准备好让你的 *node_modules* 目录增长一点，我们有一些安装工作要做！
 
@@ -123,7 +123,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 假设一切正常，您将拥有看起来像单词汤的类名:
 
-[![](../Images/2dc83a4a8dd574a5da22c09c40d2ca1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YvU2Jb4S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ppngjkin15wctr63ijok.png)
+[![](img/2dc83a4a8dd574a5da22c09c40d2ca1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YvU2Jb4S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ppngjkin15wctr63ijok.png)
 
 ## PostCSS
 
@@ -199,7 +199,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 那个时尚街区看起来怎么样？
 
-[![](../Images/64d9e75448f90c98abeab57976a71790.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--snurvTjA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ulk9oh4j1eadfls4kxon.png)
+[![](img/64d9e75448f90c98abeab57976a71790.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--snurvTjA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ulk9oh4j1eadfls4kxon.png)
 
 不错！对于支持它的浏览器，您得到的是 *var()* 规则，对于不支持它的浏览器，您得到的是回退规则。
 

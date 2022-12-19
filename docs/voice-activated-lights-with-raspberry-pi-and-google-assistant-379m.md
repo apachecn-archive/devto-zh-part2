@@ -37,7 +37,7 @@ TypeError: __init__() missing 1 required positional argument: 'device_model_id'
 
 按照教程的指示，我能够很好地连接 LED。当 Pi 监听时，它会亮起，当 Pi 不监听时，它会熄灭。
 
-[![Raspberry Pi 3 with speakers and microphone](../Images/d611234ee1b2302934fbfa05a29268f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X1urMViF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dz8vue2h5li04d2y2gy0.jpg)
+[![Raspberry Pi 3 with speakers and microphone](img/d611234ee1b2302934fbfa05a29268f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X1urMViF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dz8vue2h5li04d2y2gy0.jpg)
 
 教程到此结束，我必须自己想出接下来的步骤。我有两包智能插头，事实证明，它们有一个配套的应用程序:智能生活。
 
@@ -45,7 +45,7 @@ TypeError: __init__() missing 1 required positional argument: 'device_model_id'
 
 回想起来，我可能应该拍一些设置过程的截图。无论如何，应用程序要求我创建一个帐户，然后它扫描可用的设备。它检测到了我刚刚插入并打开的两个，所以它让我添加它们并给它们命名。
 
-[![Screenshot of Smart Life app](../Images/95045274f9bfcdc49dea0c71e98e7b6a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dwhIiUZd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a4sdl1ce84ybdu29zzp7.png)
+[![Screenshot of Smart Life app](img/95045274f9bfcdc49dea0c71e98e7b6a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dwhIiUZd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a4sdl1ce84ybdu29zzp7.png)
 
 该应用程序还允许我定义房间，所以如果我愿意，我可以关闭房间中的所有智能设备。该应用程序还具有定时功能，可以在一天中的特定时间开灯或关灯，等等。
 
@@ -65,7 +65,7 @@ Smart Life 中配置的房间与 Google Assistant 中的房间没有关系，所
 
 结果，我不得不在名字上有所创新。经过反复试验，我最终给它起了一个语音昵称“naameenayz 房间里的灯”(它试了几次才把 Namine 的名字读对。)
 
-[![Screenshot of Google Assistant devices](../Images/830e10bc2bde31ea837136513fc6fbd5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uonrYzun--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uvcde2i136pry9zu21o5.png)
+[![Screenshot of Google Assistant devices](img/830e10bc2bde31ea837136513fc6fbd5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uonrYzun--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uvcde2i136pry9zu21o5.png)
 
 尽管如此，它仍然无法识别命令“打开 Namine 的灯”，即使 Assistant 识别的语音名称与我们发音完全一致。另一方面，更简单的命令“打开灯”仍然有效。然后它会回应“打开 Namine 房间的灯”，这是可以接受的。对结果满意——或者说目前足够满意——我用同样的方法安装了纳米恩的月亮夜灯，挂在她的天花板上。
 

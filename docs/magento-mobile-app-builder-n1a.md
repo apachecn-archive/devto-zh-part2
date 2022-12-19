@@ -6,7 +6,7 @@
 
 MageMob App Builder for Magento 是一个移动应用程序扩展，可帮助您轻松快速地为 Magento 商店构建自定义移动应用程序。使用 **[MageMob 应用构建器](https://www.appjetty.com/magento-magemob-app-builder.htm)** 构建的应用针对 Android 和 iOS 平台进行了优化，并且具有移动响应能力。
 
-[![](../Images/92d37d1833528bee85acae7612ac95c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--neX7XtlU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fqkxlbpw7yqpzhszymkd.png)
+[![](img/92d37d1833528bee85acae7612ac95c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--neX7XtlU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fqkxlbpw7yqpzhszymkd.png)
 
 **获得 Magento 的 100%原生移动应用**
 

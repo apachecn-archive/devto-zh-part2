@@ -15,7 +15,7 @@
 
 根据我创作的原始设计，这是我为第二天准备的:
 
-[![ecommerce listing showing orange knitted winter hat, the name of item "Thinsulate Winter Cap", and the $34.99 price](../Images/e451d8e5cbc319a6ff7647a52783729f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QfRjgyhd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui-assets/master/ecommerce-listing/day2/w1d2-final.png)
+[![ecommerce listing showing orange knitted winter hat, the name of item "Thinsulate Winter Cap", and the $34.99 price](img/e451d8e5cbc319a6ff7647a52783729f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QfRjgyhd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui-assets/master/ecommerce-listing/day2/w1d2-final.png)
 
 我对容器元素采用了经典的“卡片”风格设计，在内部内容周围留有足够的空白填充；它有一个微妙的 **2px** `border-radius`来软化边缘，但不足以使它看起来“幼稚”或畸形。如果你仔细观察，你会看到我在产品图像上添加了相同的半径，这样可以使两个元素看起来统一。
 

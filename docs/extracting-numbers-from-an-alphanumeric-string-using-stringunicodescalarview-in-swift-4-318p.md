@@ -4,7 +4,7 @@
 
 如何从由随机字母数字字符组成的字符串中提取数字？我使用字符的字符串视图作为 Unicode 标量值的集合来完成这项任务。字符串中的每个字符都有一个 Unicode 标量值，您可以从字符串的 unicodeScalars 属性中获取该值。让我们看看下面的例子:
 
-<figure>[![](../Images/5a3850e6466393f1a08482fccab57a1c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_nR7AhHl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AskFokJjUGKQg8VQ4bzMCfw.png) 
+<figure>[![](img/5a3850e6466393f1a08482fccab57a1c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_nR7AhHl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AskFokJjUGKQg8VQ4bzMCfw.png) 
 
 <figcaption>从字符串中访问 Unicode 标量值</figcaption>
 
@@ -14,7 +14,7 @@
 
 因此，对于数字，您可以标识所有对应的 Unicode 标量值，如下所示:
 
-<figure>[![](../Images/83c48cfa7dbc7d5b8e4d254943bcae1b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mdrUqtnD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aijz29oR-fySe4QUt2XBdpQ.png) 
+<figure>[![](img/83c48cfa7dbc7d5b8e4d254943bcae1b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mdrUqtnD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aijz29oR-fySe4QUt2XBdpQ.png) 
 
 <figcaption>打印所有的 Unicode 标量值为位数</figcaption>
 
@@ -24,7 +24,7 @@
 
 Unicode 标量值是 UTF-32 位表示。因此，给定一个 UTF-32 位表示的值，您可以创建自己的 Unicode 标量实例，如下所示。
 
-<figure>[![](../Images/dd6f14647897722c574a4363d25da64b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZnDM0oaY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A3OoO1TbT-07ta0gMpOGCNg.png) 
+<figure>[![](img/dd6f14647897722c574a4363d25da64b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZnDM0oaY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A3OoO1TbT-07ta0gMpOGCNg.png) 
 
 <figcaption>创建和使用 Unicode 标量值</figcaption>
 
@@ -36,7 +36,7 @@ Unicode 标量值是 UTF-32 位表示。因此，给定一个 UTF-32 位表示�
 
 因为您有对应于某些数字的 Unicode 标量值的范围，所以您可以识别该字符是数字还是其他:
 
-<figure>[![](../Images/522927b9e80faf15c5a2f4be24c93986.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1hrqAYnu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AfB9xndpjZ-r3-OcUg6Jt3w.png) 
+<figure>[![](img/522927b9e80faf15c5a2f4be24c93986.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1hrqAYnu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AfB9xndpjZ-r3-OcUg6Jt3w.png) 
 
 <figcaption>检查字符是数字还是其他</figcaption>
 
@@ -44,7 +44,7 @@ Unicode 标量值是 UTF-32 位表示。因此，给定一个 UTF-32 位表示�
 
 最后一步是使用字符串中的数字，所以让我们提取数字并将其转换为更有用的内容:
 
-<figure>[![](../Images/cbb92a818f21014cbb8124a5dab092ef.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tbOhvb3o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AKxjUUktU8i9Vzk4b5UAFAw.png) 
+<figure>[![](img/cbb92a818f21014cbb8124a5dab092ef.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tbOhvb3o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AKxjUUktU8i9Vzk4b5UAFAw.png) 
 
 <figcaption>从字符串中提取数字</figcaption>
 

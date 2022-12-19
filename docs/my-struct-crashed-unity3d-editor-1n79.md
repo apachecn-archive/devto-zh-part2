@@ -70,7 +70,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 之后几乎一帆风顺。我设法用我的库填充了精灵的六边形网格。这里有。
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [ Clpsplug ](https://github.com/Clpsplug) / [六角形 _ 地图](https://github.com/Clpsplug/hexagonal_map)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [ Clpsplug ](https://github.com/Clpsplug) / [六角形 _ 地图](https://github.com/Clpsplug/hexagonal_map)
 
 ### 基于 https://www.redblobgames.com/grids/hexagons/的六边形地图和单元数据结构助手
 

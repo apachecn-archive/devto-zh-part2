@@ -4,7 +4,7 @@
 
 来回答这个问题。**为什么会出现渲染？**
 
-[![example](../Images/ec26d032cec47d1dea6000cd75dbbb55.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I9eQDnp2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/15855766/47255109-5e687900-d474-11e8-86b1-38d732483959.png)
+[![example](img/ec26d032cec47d1dea6000cd75dbbb55.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I9eQDnp2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/15855766/47255109-5e687900-d474-11e8-86b1-38d732483959.png)
 
 ## 优点
 

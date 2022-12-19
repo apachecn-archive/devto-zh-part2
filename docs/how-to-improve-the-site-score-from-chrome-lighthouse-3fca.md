@@ -7,7 +7,7 @@
 ### 如何使用 Chrome 开发者工具审计你的网站
 
 在我们做任何改变以优化网站之前，我们需要首先评估和了解问题。Chrome 增加了 light house——一个网站评估工具，可以在开发活动中评估你的网站。它简单、快速，不仅能给你一个分数，还能给你解决问题的必要建议。
-[![](../Images/9feec0b861b62289fbfa43f3d57c9dc0.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--9PPbNxDU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oi2lco83s74lw446o5qc.PNG)
+[![](img/9feec0b861b62289fbfa43f3d57c9dc0.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--9PPbNxDU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oi2lco83s74lw446o5qc.PNG)
 
 ### 评估结果
 

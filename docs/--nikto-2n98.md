@@ -3,7 +3,7 @@
 > 原文：<https://dev.to/terceranexus6/--nikto-2n98>
 
 “NIKTO”是 web 服务器安全的工具。
-[![](../Images/2e8526c54278af78d38474db58885513.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pHqdn1Nm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.darkorg.net/wp-content/uploads/2017/09/nikto-e1506788710993.png)
+[![](img/2e8526c54278af78d38474db58885513.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pHqdn1Nm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.darkorg.net/wp-content/uploads/2017/09/nikto-e1506788710993.png)
 公的“NIKTO”的根本是[这里](https://cirt.net/nikto2-docs/)。 但是，这篇报道是大致的！
 “LINUX”的“NIKTO”的设备很容易。
 

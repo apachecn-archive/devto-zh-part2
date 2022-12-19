@@ -8,14 +8,14 @@
 
 *预测分析软件公司高级产品经理亚历山大·莱姆和人工智能分析软件公司高级总监莱纳·布哈特博士*
 
-| 2018 年第四期 | [![](../Images/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue4/SAG_Nyoka_Release_TECHniques_Oct18_WEB.pdf) |
+| 2018 年第四期 | [![](img/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue4/SAG_Nyoka_Release_TECHniques_Oct18_WEB.pdf) |
 | --- | --- |
 
 ## 简介
 
 8 月，Software AG 在 GitHub 上发布了 Nyoka，这是一个面向数据科学家的 Python 库。但是女奥卡到底是什么，它代表什么？使用 Nyoka，数据科学家可以将使用流行的基于 Python 的机器学习或深度学习框架创建的预测模型导出到 PMML(见下图 1)。“Nyoka”源自祖鲁语，意思是“蛇”，因此与它的蟒蛇表亲关系密切。
 
-[![](../Images/2c375cfea5b150ee303de7d7e8d559b1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TFmgAhOs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/nyoka1.png/13783207-d3f2-4c93-bd72-2a66d11ff45b%3Ft%3D1539765499003) 
+[![](img/2c375cfea5b150ee303de7d7e8d559b1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TFmgAhOs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/nyoka1.png/13783207-d3f2-4c93-bd72-2a66d11ff45b%3Ft%3D1539765499003) 
 
 **图 1:** 支持的机器学习和深度学习框架
 
@@ -43,7 +43,7 @@ pmml\_file = open(mobilenet\_demo.pmml,"r") pmml = {'file': pmml\_file} pmml\_up
 
 该模型现已部署到 Zementis 服务器实例中，可用于对任何未见过的图像进行分类。我们将发送下面的图片到服务器，显示一条大白鲨。
 
-[![](../Images/882cfaa7d66ce0f62ba9aaeec2eb1afe.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qkZ17pOg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/nyoka2.jpg/fc1e5eb3-db5a-40a8-8c23-aa86a98ea642%3Ft%3D1539765502577) 
+[![](img/882cfaa7d66ce0f62ba9aaeec2eb1afe.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qkZ17pOg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/nyoka2.jpg/fc1e5eb3-db5a-40a8-8c23-aa86a98ea642%3Ft%3D1539765502577) 
 
 **图 2:** 图像我们要分类
 

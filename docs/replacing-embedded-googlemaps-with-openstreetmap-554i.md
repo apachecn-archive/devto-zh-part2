@@ -33,6 +33,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 如您所见，关键要素是所需地图区域边界框的经纬度坐标。`%2C`是 URL 编码的逗号。您还可以根据需要调整`iframe`的宽度和高度等。
 
-[![Map example](../Images/109fc285bceb82ebd97583dca59f5741.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oEjrI_gi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/umeqigyohfvazmko5p8q.png)
+[![Map example](img/109fc285bceb82ebd97583dca59f5741.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oEjrI_gi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/umeqigyohfvazmko5p8q.png)
 
 快乐映射。

@@ -8,10 +8,10 @@
 
 我的 Laravel 配置文件如下所示
 
-[![laravel config](../Images/5b8fbe42b8b97571e8552385f9e9b51f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iaQerYS2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k2owuc8th6x969lbe79p.png)
+[![laravel config](img/5b8fbe42b8b97571e8552385f9e9b51f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iaQerYS2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k2owuc8th6x969lbe79p.png)
 
 我的 WordPress 配置文件看起来像这样
 
-[![wordpress config](../Images/0650b1604ea3800b3731e5c9f63b5ef5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X-0uex9f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/53i67a8oi9q05y6rv0iy.png)
+[![wordpress config](img/0650b1604ea3800b3731e5c9f63b5ef5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X-0uex9f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/53i67a8oi9q05y6rv0iy.png)
 
 *最初发布于[cristiannebunu.com](http://cristiannebunu.com/clean-up-unused-css-with-purgecss-on-laravel-and-wordpress)2018 年 7 月 25 日*

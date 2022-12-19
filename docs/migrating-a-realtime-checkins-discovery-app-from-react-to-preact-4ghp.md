@@ -12,7 +12,7 @@ React-Checkins 是一个实时签到发现应用程序，使用谷歌地图 API 
 
 一旦渲染后，应用程序看起来如下
 
-[![Alt text of image](../Images/27e02250a33aacb14c943f3e3b762b8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YgfgJxrc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.com/images/preact-react-app.png)
+[![Alt text of image](img/27e02250a33aacb14c943f3e3b762b8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YgfgJxrc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.cimg/preact-react-app.png)
 
 ## 设置和地图整合
 

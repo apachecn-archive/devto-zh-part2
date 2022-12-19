@@ -294,7 +294,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 访问 https://github.com/new，为你的项目创建一个新的资源库。GitHub 会告诉你如何连接你的本地库和远程库。
 
-[![New GitHub repository](../Images/f7902984cdc0b192bf074d984374b7ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1KZFihpX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/semaphore-imagecloud/dunja-radulov/004-new-repository.png)
+[![New GitHub repository](img/f7902984cdc0b192bf074d984374b7ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1KZFihpX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/semaphore-imagecloud/dunja-radulov/004-new-repository.png)
 
 最后，添加新的遥控器，并将您的代码推送到 GitHub。
 
@@ -313,17 +313,17 @@ Enter fullscreen mode Exit fullscreen mode
 
 从列表中选择您的 GitHub 存储库:
 
-[![Choose GitHub Repository](../Images/bcd7007bf2aa0b3a492d3109b220bb17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NDWHZ8nj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/semaphore-imagecloud/dunja-radulov/004-choose-github-repository.png)
+[![Choose GitHub Repository](img/bcd7007bf2aa0b3a492d3109b220bb17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NDWHZ8nj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/semaphore-imagecloud/dunja-radulov/004-choose-github-repository.png)
 
 遵循安装指南。Semaphore 将识别出您有一个包含 Postgresql 的 Rails 项目，并将为成功的首次构建生成所有命令。
 
 让我们调整命令列表，并添加我们的 RSpec 和 Cucumber 测试套件。
 
-[![Semaphore Commands](../Images/b64fa5528cc500e819e2068bd67b74fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K1TQ_8nI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/semaphore-imagecloud/dunja-radulov/004-semaphore-commands.png)
+[![Semaphore Commands](img/b64fa5528cc500e819e2068bd67b74fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K1TQ_8nI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/semaphore-imagecloud/dunja-radulov/004-semaphore-commands.png)
 
 点击“使用这些设置构建”开始您的项目的第一个构建。
 
-[![First Green Build](../Images/34dd61f37325814263fe18db27c9fbd2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---gEZ_e99--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/semaphore-imagecloud/dunja-radulov/004-first-green-build.png)
+[![First Green Build](img/34dd61f37325814263fe18db27c9fbd2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---gEZ_e99--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/semaphore-imagecloud/dunja-radulov/004-first-green-build.png)
 
 ## 结论
 

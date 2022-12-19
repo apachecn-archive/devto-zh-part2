@@ -33,7 +33,7 @@ react-scripts 是处理所有配置的库，并带来了项目的大多数依赖
 
 理解 React-脚本是理解 Create React 应用程序内部工作的关键。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### 升级依赖项的版本
 
@@ -278,7 +278,7 @@ react-scripts build
 
 以下是输出的摘录:
 
-[![](../Images/14111903c76fe18abc93ac29657c5632.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--msed7PyH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/960/0%2A4msZVtYhbYoIRDo1)
+[![](img/14111903c76fe18abc93ac29657c5632.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--msed7PyH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/960/0%2A4msZVtYhbYoIRDo1)
 
 这里你可以看到它执行的整个脚本。
 
@@ -300,7 +300,7 @@ react-scripts build
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

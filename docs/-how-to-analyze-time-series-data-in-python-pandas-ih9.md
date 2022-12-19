@@ -10,7 +10,7 @@
 
 我们先来理解一下我们所说的时间序列数据是什么意思。简单来说，时间序列代表一段时间内的一组观察值。每当定期记录数据时，就会发生这种情况。例如...
 
-[![test](../Images/d80fbf1759b72dc8c87f9bde5173f350.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nb1rXVV1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xux99p7pziz598v5pwg1.png)
+[![test](img/d80fbf1759b72dc8c87f9bde5173f350.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nb1rXVV1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xux99p7pziz598v5pwg1.png)
 
 这里，我们记录了多个地点几个月的销售数据。
 
@@ -199,7 +199,7 @@ df[datetime(2016, 6, 30):]
 df.plot(); 
 ```
 
-[![png](../Images/a05504b755133578d5099c0c9d188663.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sr6hD9tO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tkohn1pstcz8s36ikky8.png)
+[![png](img/a05504b755133578d5099c0c9d188663.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sr6hD9tO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tkohn1pstcz8s36ikky8.png)
 
 ## 结论
 

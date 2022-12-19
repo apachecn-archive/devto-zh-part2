@@ -6,7 +6,7 @@
 
 ## 我们将建造什么？
 
-[![](../Images/775065de42740145ac08974f53a239c9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---uE-ivP0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/achowba/image/upload/v1529694163/node-mysql-crud-app/homepage2.png) 
+[![](img/775065de42740145ac08974f53a239c9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---uE-ivP0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/achowba/image/upload/v1529694163/node-mysql-crud-app/homepage2.png) 
 上图为 app。这是一个应用程序，让您添加球员到一个数据库中，并显示他们的详细资料从数据库中。您还可以删除和编辑玩家的详细信息。
 
 ## 先决条件
@@ -395,7 +395,7 @@ nodemon app.js
 Enter fullscreen mode Exit fullscreen mode
 
 你的控制台应该显示如下结果:
-[![](../Images/e502d2d92e435c5f45116f7afef87871.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--S2PBZyV5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/achowba/image/upload/v1529611843/node-mysql-crud-app/app-js-1.png)
+[![](img/e502d2d92e435c5f45116f7afef87871.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--S2PBZyV5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/achowba/image/upload/v1529611843/node-mysql-crud-app/app-js-1.png)
 
 ## 添加路线
 
@@ -589,11 +589,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 删除注释行后，检查命令提示符以确保代码没有错误，然后打开浏览器并打开 [http://localhost:5000](http://localhost:5000) 。将显示索引页面，由于没有添加球员，该页面将类似于下图:
 
-[![](../Images/08dcb0079d9c04d2e2ce1c7089ba0a95.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PfIBmWel--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/achowba/image/upload/v1529611843/node-mysql-crud-app/homepage.png)
+[![](img/08dcb0079d9c04d2e2ce1c7089ba0a95.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PfIBmWel--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/achowba/image/upload/v1529611843/node-mysql-crud-app/homepage.png)
 
 点击页面上的**添加玩家**链接，将加载添加玩家页面，然后填写表格添加玩家。添加一个玩家后，主页会在表格中显示添加的玩家。像这样
 
-[![](../Images/9d5935ce752156ca16dc16dfc754f600.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w9iQBVrG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/achowba/image/upload/v1529611843/node-mysql-crud-app/homepage2.png)
+[![](img/9d5935ce752156ca16dc16dfc754f600.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w9iQBVrG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/achowba/image/upload/v1529611843/node-mysql-crud-app/homepage2.png)
 
 如果遇到错误，请在评论区引起我的注意，或者在 [github](https://github.com/achowba/node-mysql-crud-app) 上查看该项目的报告。
 代码并不完美，请随时做得更好，并发送一个拉请求。

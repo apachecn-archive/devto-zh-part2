@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/runtime-revolution/transposing-lisp-into-ruby-465a>
 
-<figure>[![](../Images/9b87f3e0005a4ffb0899f96b92b7f005.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3ieQlThF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aqr6Wg3rdX4sFcd3YVpU9eA.jpeg) 
+<figure>[![](img/9b87f3e0005a4ffb0899f96b92b7f005.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3ieQlThF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aqr6Wg3rdX4sFcd3YVpU9eA.jpeg) 
 
 <figcaption>照片由[rawpixel.com](https://unsplash.com/photos/YTq-rFKuOKk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)拍于 [Unsplash](https://unsplash.com/search/photos/music-sheet-computer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 。</figcaption>
 
@@ -14,7 +14,7 @@
 
 必须快速学习 Ruby！因此，在跟随教程的同时，我也记下了在 Ruby 中事情是如何完成的。今天我将分享其中的一些。
 
-<figure>[![](../Images/5cfd261ed628ff9a994fc264802e62eb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JrQK1wSF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Ae_Os0W7jd_w-0387M2OSmA.png) 
+<figure>[![](img/5cfd261ed628ff9a994fc264802e62eb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JrQK1wSF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Ae_Os0W7jd_w-0387M2OSmA.png) 
 
 <figcaption>条纹摘自 [Why's(辛酸)导读红宝石](http://poignant.guide/)。</figcaption>
 

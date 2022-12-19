@@ -16,23 +16,23 @@
 
 你可以在这里找到两个测试库的 github repos:
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)[Facebook](https://github.com/facebook)/[jest](https://github.com/facebook/jest)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)[Facebook](https://github.com/facebook)/[jest](https://github.com/facebook/jest)
 
 ### 令人愉快的 JavaScript 测试。
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-[![npm version](../Images/80cf8713d30c19392582da32ed4f1afc.png)](http://badge.fury.io/js/jest)[![Jest is released under the MIT license.](../Images/486bafc059df9137c69818cd66696105.png)](https://github.com/facebook/jest/blob/master/LICENSE)[![Follow on Twitter](../Images/082c151275655a50d8f07e7959175cb6.png)](https://twitter.com/intent/follow?screen_name=fbjest)
+[![npm version](img/80cf8713d30c19392582da32ed4f1afc.png)](http://badge.fury.io/js/jest)[![Jest is released under the MIT license.](img/486bafc059df9137c69818cd66696105.png)](https://github.com/facebook/jest/blob/master/LICENSE)[![Follow on Twitter](img/082c151275655a50d8f07e7959175cb6.png)](https://twitter.com/intent/follow?screen_name=fbjest)
 
-[![](../Images/dde7a63b10c146e691f64affa6839ed3.png)T2】](https://raw.githubusercontent.com/facebook/jest/master/website/static/img/jest-readme-headline.png)
+[![](img/dde7a63b10c146e691f64affa6839ed3.png)T2】](https://raw.githubusercontent.com/facebook/jest/master/website/static/img/jest-readme-headline.png)
 
-## <g-emoji class="g-emoji" alias="black_joker" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f0cf.png">🃏</g-emoji> 愉快的 JavaScript 测试
+## <g-emoji class="g-emoji" alias="black_joker" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f0cf.png">🃏</g-emoji> 愉快的 JavaScript 测试
 
 **👩🏻‍💻开发者就绪**:全面的 JavaScript 测试解决方案。适用于大多数 JavaScript 项目。
 
 **🏃🏽即时反馈**:快速、交互式观看模式只运行与更改文件相关的测试文件。
 
-**<g-emoji class="g-emoji" alias="camera_flash" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f8.png">📸</g-emoji>快照测试**:捕捉大型对象的快照，以简化测试并分析它们如何随时间变化。
+**<g-emoji class="g-emoji" alias="camera_flash" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f4f8.png">📸</g-emoji>快照测试**:捕捉大型对象的快照，以简化测试并分析它们如何随时间变化。
 
 *详见[jest js . io](https://jestjs.io)T3】*
 
@@ -83,7 +83,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 [View on GitHub](https://github.com/facebook/jest)
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [木偶师](https://github.com/puppeteer) / [木偶师](https://github.com/puppeteer/puppeteer)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [木偶师](https://github.com/puppeteer) / [木偶师](https://github.com/puppeteer/puppeteer)
 
 ### 无头 Chrome Node.js API
 
@@ -91,9 +91,9 @@ Enter fullscreen mode Exit fullscreen mode
 
 # 操纵木偶的人
 
-[![Build status](../Images/2adf3b28ac9a6dda27e57c57e0497aa6.png) ](https://github.com/puppeteer/puppeteer/actions?query=workflow%3Arun-checks) [ ![npm puppeteer package](../Images/406efc2eb0d1d17fbacf5b98148bd281.png)](https://npmjs.org/package/puppeteer)
+[![Build status](img/2adf3b28ac9a6dda27e57c57e0497aa6.png) ](https://github.com/puppeteer/puppeteer/actions?query=workflow%3Arun-checks) [ ![npm puppeteer package](img/406efc2eb0d1d17fbacf5b98148bd281.png)](https://npmjs.org/package/puppeteer)
 
-[![](../Images/48ffbae0e7030b5a769ac5d7d281043a.png)T2】](https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png)
+[![](img/48ffbae0e7030b5a769ac5d7d281043a.png)T2】](https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png)
 
 ###### [API](https://github.com/puppeteer/puppeteer/blob/v8.0.0/docs/api.md) | [FAQ](https://raw.githubusercontent.com/puppeteer/puppeteer/main/#faq) | [投稿](https://github.com/puppeteer/puppeteer/blob/main/CONTRIBUTING.md) | [故障排除](https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md)
 
@@ -132,7 +132,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <figure>
 
-[![Can't wait](../Images/c8e13b389ee5f6e0cacb63bc51ba85fd.png)T2】](https://i.giphy.com/media/3owyoYjmvDijECcQTu/giphy.gif)
+[![Can't wait](img/c8e13b389ee5f6e0cacb63bc51ba85fd.png)T2】](https://i.giphy.com/media/3owyoYjmvDijECcQTu/giphy.gif)
 
 <figcaption>Figure 1: I feel you, but sometimes you have to wait just a little bit for everything to be rendered and ready, so your e2e tests do not crash and burn</figcaption>
 
@@ -304,20 +304,20 @@ Enter fullscreen mode Exit fullscreen mode
 
 在下一节中，我们将看到如何劫持请求并提供您所知道的自定义数据。木偶师提供了一种方法来实现这一点，但是如果你想更深入地研究伪造`XMLHttpRequest`和你的测试管理的几乎所有数据，你应该看看 [`Sinon.js`](https://sinonjs.org/) 💖
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [同义词](https://github.com/sinonjs) / [否则](https://github.com/sinonjs/sinon)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [同义词](https://github.com/sinonjs) / [否则](https://github.com/sinonjs/sinon)
 
 ### 测试 JavaScript 的间谍，存根和模拟。
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-# [![Sinon.JS](../Images/a7b39033f953a1d752414a50fb1e4f50.png)](https://sinonjs.org "Sinon.JS") 
+# [![Sinon.JS](img/a7b39033f953a1d752414a50fb1e4f50.png)](https://sinonjs.org "Sinon.JS") 
 否则。联署材料
 
 独立和测试框架不可知的 JavaScript 测试间谍、存根和模拟(读作“叹息-非”，以勇士 Sinon 命名)
 
-[![npm version](../Images/e4390767da09ff27f7cdb1f4a460ee43.png)](https://www.npmjs.com/package/sinon)[![Join the chat at https://gitter.im/sinonjs/sinon](../Images/80064cbae208bbac11d2f49a393a38ef.png)](https://gitter.im/sinonjs/sinon?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)[![Build status](../Images/59096af00c6c80b27487c4d7aa34ae24.png)](http://travis-ci.org/sinonjs/sinon)[![Sauce Test Status](../Images/3a1dbde8653ab0d23bb6ebc2822ed70d.png)](https://saucelabs.com/u/sinonjs)[![Codecov status](../Images/d8247c787fb2a53f5c3e53124da32303.png)](https://codecov.io/gh/sinonjs/sinon)[![OpenCollective](../Images/69552c55a7b3aae8733355c78a9c5a10.png)](https://raw.githubusercontent.com/sinonjs/sinon/master/#backers)[![OpenCollective](../Images/ae9d790b431ba3433788ecf528ddaf29.png)](https://raw.githubusercontent.com/sinonjs/sinon/master/#sponsors)[![npm downloads per month](../Images/da6ce70c82981ecc9fc640a2a77bc55f.png)](https://www.npmjs.com/package/sinon)[![CDNJS version](../Images/4261ebb2f242321c07b02762b0ddbf33.png)](https://cdnjs.com/libraries/sinon.js)[![Contributor Covenant](../Images/2d6e91c763e4451d33e9562c488edc4c.png)](https://raw.githubusercontent.com/sinonjs/sinon/master/CODE_OF_CONDUCT.md)
+[![npm version](img/e4390767da09ff27f7cdb1f4a460ee43.png)](https://www.npmjs.com/package/sinon)[![Join the chat at https://gitter.im/sinonjs/sinon](img/80064cbae208bbac11d2f49a393a38ef.png)](https://gitter.im/sinonjs/sinon?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)[![Build status](img/59096af00c6c80b27487c4d7aa34ae24.png)](http://travis-ci.org/sinonjs/sinon)[![Sauce Test Status](img/3a1dbde8653ab0d23bb6ebc2822ed70d.png)](https://saucelabs.com/u/sinonjs)[![Codecov status](img/d8247c787fb2a53f5c3e53124da32303.png)](https://codecov.io/gh/sinonjs/sinon)[![OpenCollective](img/69552c55a7b3aae8733355c78a9c5a10.png)](https://raw.githubusercontent.com/sinonjs/sinon/master/#backers)[![OpenCollective](img/ae9d790b431ba3433788ecf528ddaf29.png)](https://raw.githubusercontent.com/sinonjs/sinon/master/#sponsors)[![npm downloads per month](img/da6ce70c82981ecc9fc640a2a77bc55f.png)](https://www.npmjs.com/package/sinon)[![CDNJS version](img/4261ebb2f242321c07b02762b0ddbf33.png)](https://cdnjs.com/libraries/sinon.js)[![Contributor Covenant](img/2d6e91c763e4451d33e9562c488edc4c.png)](https://raw.githubusercontent.com/sinonjs/sinon/master/CODE_OF_CONDUCT.md)
 
-[![Sauce Test Status](../Images/e58cc4dfe9a081680002d39273b6a5f6.png)T2】](https://saucelabs.com/u/sinonjs)
+[![Sauce Test Status](img/e58cc4dfe9a081680002d39273b6a5f6.png)T2】](https://saucelabs.com/u/sinonjs)
 
 ## 和睦相处
 

@@ -141,7 +141,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们需要能够以某种方式保存这些 API 键。让我们创建第一个有两个输入和提交按钮的屏幕。
 
-[![binance tracker](../Images/43d336e2a55949318e56560afffcc000.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yJRJlX_i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://d33wubrfki0l68.cloudfront.net/091f802910efd98af6ba896125f0165c5e8ae9a5/aa574/assets/images/binance_profile.png)T3】
+[![binance tracker](img/43d336e2a55949318e56560afffcc000.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yJRJlX_i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://d33wubrfki0l68.cloudfront.net/091f802910efd98af6ba896125f0165c5e8ae9a5/aa574/asseimg/binance_profile.png)T3】
 
 ```
 /* Imports omitted */

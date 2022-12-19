@@ -46,7 +46,7 @@ Parent clicked`
 
 当您单击按钮时，事件从内部事件目标(id 为子级的按钮)传递到文档。按以下顺序单击事件传递:
 
-[![bubbling](../Images/5d06b5fe434974e39033431636577ce6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nN-q40LK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x0i1b7ra0xw3bjltzkyc.png)
+[![bubbling](img/5d06b5fe434974e39033431636577ce6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nN-q40LK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x0i1b7ra0xw3bjltzkyc.png)
 
 如果要停止事件冒泡，可以使用 event.stopPropagation()方法。
 
@@ -81,10 +81,10 @@ Enter fullscreen mode Exit fullscreen mode
 `Parent clicked
 Child clicked`
 
-[![capturing](../Images/094c59a186df9483fe46427135a57799.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_apBw3uN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/crhfkfu5168ah5g1y67m.png)
+[![capturing](img/094c59a186df9483fe46427135a57799.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_apBw3uN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/crhfkfu5168ah5g1y67m.png)
 
 ## 结论
 
 在事件流中，事件目标有两个阶段，一个是事件捕获结束，一个是事件冒泡开始。
 
-[![all](../Images/aa36a8cd44d68adaf969638e8aef92b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1j07Bq16--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mz1kgfil7cyog5esxbxi.png)
+[![all](img/aa36a8cd44d68adaf969638e8aef92b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1j07Bq16--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mz1kgfil7cyog5esxbxi.png)

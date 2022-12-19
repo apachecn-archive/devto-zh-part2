@@ -46,7 +46,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是它在 IBM Cloud Functions 编辑器中的外观:
 
-<figure>[![cloudfunctions-invoke-restapi](../Images/03177545a3fe161d8f2e598286b96db4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XIkiVLED--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://katzmax.files.wordpress.com/2018/07/cloudfunctions-invoke-restapi.png%3Fw%3D1024%26h%3D504) 
+<figure>[![cloudfunctions-invoke-restapi](img/03177545a3fe161d8f2e598286b96db4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XIkiVLED--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://katzmax.files.wordpress.com/2018/07/cloudfunctions-invoke-restapi.png%3Fw%3D1024%26h%3D504) 
 
 <figcaption>云功能码</figcaption>
 
@@ -62,7 +62,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是它在 Firefox 中的样子:
 
-<figure>[![cloudfunctions-test-browser](../Images/26cf694a5af73279c0661cb6f1d77cdb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--trs4UiFX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://katzmax.files.wordpress.com/2018/07/cloudfunctions-test-browser.png%3Fw%3D1024%26h%3D179) 
+<figure>[![cloudfunctions-test-browser](img/26cf694a5af73279c0661cb6f1d77cdb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--trs4UiFX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://katzmax.files.wordpress.com/2018/07/cloudfunctions-test-browser.png%3Fw%3D1024%26h%3D179) 
 
 <figcaption>调用云函数</figcaption>
 

@@ -4,7 +4,7 @@
 
 在线技术的不断扩展带来了我们娱乐、交流或工作方式的范式转变。受技术影响最大的另一个领域是教育系统。
 
-[![](../Images/b2da7f5e8fc6c10241265916854663d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xP5ZVXgJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/0%2AFoDU1YvNoSU4JyFr.jpg)
+[![](img/b2da7f5e8fc6c10241265916854663d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xP5ZVXgJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/0%2AFoDU1YvNoSU4JyFr.jpg)
 
 不用说，这项技术已经跨越了所有的地理障碍，将相距遥远的课程带到了你的家门口。
 

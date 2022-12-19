@@ -31,7 +31,7 @@
 
 4.  访问 [localhost:3000](http://localhost:3000/) 查看应用程序运行
 
-[![](../Images/453ad20283f904cb4853614ad1e1fa94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jRIsSVEI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/p9kbBeeH2nLtD0_h6-sgBGZxn3sZ4vrHOC8JCOARzyEWf3.width-500.png)
+[![](img/453ad20283f904cb4853614ad1e1fa94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jRIsSVEI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/com.twilio.prod.twilio-doimg/p9kbBeeH2nLtD0_h6-sgBGZxn3sZ4vrHOC8JCOARzyEWf3.width-500.png)
 
 我们准备开始构建应用程序。
 
@@ -345,7 +345,7 @@ import AudioVisualiser from './AudioVisualiser';
 
 我们结束了。用`npm start`启动应用程序，如果它不再运行，再次打开浏览器到 [localhost:3000](http://localhost:3000) 。点击按钮，制造一些噪音，然后观看观想者变得栩栩如生。
 
-[![](../Images/6624a358fa6a947aee200e7f62ebedbc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9q5V7dF_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/f45ncza6SRuSXhp7iE4XODmWWhy1_uqWUTbJy9Mg1uB8Eo.width-500.png)
+[![](img/6624a358fa6a947aee200e7f62ebedbc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9q5V7dF_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/com.twilio.prod.twilio-doimg/f45ncza6SRuSXhp7iE4XODmWWhy1_uqWUTbJy9Mg1uB8Eo.width-500.png)
 
 ## 下一步
 

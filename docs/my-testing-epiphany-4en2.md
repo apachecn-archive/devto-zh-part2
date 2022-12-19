@@ -8,7 +8,7 @@
 
 > 你不用写测试来确保你的代码现在工作:你写测试是为了你能在将来发现你的代码出错。
 
-[![Mind blown](../Images/90f39e28a21cb4bc886d27b0b20f356a.png)T2】](https://i.giphy.com/media/3o8dFn5CXJlCV9ZEsg/giphy.gif)
+[![Mind blown](img/90f39e28a21cb4bc886d27b0b20f356a.png)T2】](https://i.giphy.com/media/3o8dFn5CXJlCV9ZEsg/giphy.gif)
 
 这里有一个例子。我们已经在 Android 的 [RotaCloud](https://rotacloud.com/) 中编写了一个文件，其中包含了一系列与时间相关的函数。下面是我们将时间戳(以秒为单位)格式化为 24 小时制的方法:
 

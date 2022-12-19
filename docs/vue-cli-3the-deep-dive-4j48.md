@@ -4,7 +4,7 @@
 
 ### Vue CLI 3 —深度潜水
 
-[![](../Images/79a420631622b9501fa4b0436bee8831.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--B3rTEd14--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/400/1%2AzyNSb0UXhP8TfxYbj-GNWg.png) 
+[![](img/79a420631622b9501fa4b0436bee8831.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--B3rTEd14--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/400/1%2AzyNSb0UXhP8TfxYbj-GNWg.png) 
 
 <figcaption>让我们面对现实吧——你可能不是为了形象而来</figcaption>
 
@@ -245,7 +245,7 @@ vue inspect \> output.js
 
 ### Plug: LogRocket，一款用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。
 

@@ -6,7 +6,7 @@
 
 最好的应用是那些有潜力充分利用 iOS 和 Android 固有的惊人功能的应用。原生活动包括拍照或使用加速度计，通过蓝牙连接到设备，通过手指扫描进行身份验证，等等，今天的应用程序需要实现这一切。现在，我遇到了你们中的许多人，他们经常认为它不能像纯本机应用程序那样访问相同的本机[SDK 功能](https://en.wikipedia.org/wiki/Software_development_kit)。这绝对是不真实的。由于缺乏所有可用的本机插件的中央存储库，当插件分散在各处并且只能通过乏味的挖掘 npm 和 GitHub repos 才能获得时，真的很难知道什么是可用的。
 
-[![](../Images/fe0b2a57b7067212c07662d0684f625b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FiduT-P0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.mytectra.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/i/o/ionic_framework.png)
+[![](img/fe0b2a57b7067212c07662d0684f625b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FiduT-P0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.mytectra.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/i/o/ionic_framework.png)
 
 让我们仔细看看移动应用程序开发框架的碎片化景观。一方面，一些平台吸引开发人员仅仅是因为它们的本地性能目标，而另一方面，基于 HTML 的框架总是让开发人员在选择它们时三思。说到跨平台框架，Ionic 已经越来越受欢迎。
 

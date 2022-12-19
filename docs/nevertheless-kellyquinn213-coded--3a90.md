@@ -20,4 +20,4 @@
 
 结果一切都回到了原点。我又一次踏上了下一段旅程的第一站。
 
-[![myself](../Images/dccc9cc0b88e61eb3b9b666a5e8798df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lvX-Fe5M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/21m82184cub8xiqwdfxs.jpg)
+[![myself](img/dccc9cc0b88e61eb3b9b666a5e8798df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lvX-Fe5M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/21m82184cub8xiqwdfxs.jpg)

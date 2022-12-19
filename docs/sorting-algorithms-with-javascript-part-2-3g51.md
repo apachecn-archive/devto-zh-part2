@@ -62,7 +62,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 #### 目测
 
-[![heap-sort](../Images/fa45c760923b49edebd9a24c46e25897.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rsx1kRWY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/36sw7hiikhyv1mrwmz4g.gif)
+[![heap-sort](img/fa45c760923b49edebd9a24c46e25897.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rsx1kRWY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/36sw7hiikhyv1mrwmz4g.gif)
 
 #### 代码
 
@@ -127,7 +127,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 #### 目测
 
-[![counting-sort](../Images/d0d50a19d008b7c48c6e560688cb92ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FRDgdR3J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w4jk13diiokecdhny33z.gif)
+[![counting-sort](img/d0d50a19d008b7c48c6e560688cb92ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FRDgdR3J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w4jk13diiokecdhny33z.gif)
 
 #### 代码
 
@@ -166,4 +166,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 编码快乐！
 
-[![happy](../Images/f6e75394d8c1b8ad30c16a2317cd95f7.png)T2】](https://i.giphy.com/media/K3raI0cXTkzNC/giphy.gif)
+[![happy](img/f6e75394d8c1b8ad30c16a2317cd95f7.png)T2】](https://i.giphy.com/media/K3raI0cXTkzNC/giphy.gif)

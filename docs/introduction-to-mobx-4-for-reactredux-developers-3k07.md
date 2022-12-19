@@ -6,7 +6,7 @@ MobX 使用可观测量的“魔力”来管理状态和副作用。这不仅有
 
 在这个介绍中，我们将逐步构建一个简单的应用程序，该应用程序 pings 一个模拟 API 来查看 MobX 如何与 React 一起工作，然后制作一个 MobX + React 看板来展示 MobX 的强大功能！
 
-[![it will look like this](../Images/cadbefe437f14f9238c9c6cff317cf92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VjwhytmQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/6764957/37550034-5a31617a-295d-11e8-8799-60c6f57bde0a.gif)
+[![it will look like this](img/cadbefe437f14f9238c9c6cff317cf92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VjwhytmQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/6764957/37550034-5a31617a-295d-11e8-8799-60c6f57bde0a.gif)
 
 我们将如何继续:
 
@@ -393,7 +393,7 @@ const App = connect("lists")(
 
 嘿，很快！我们有一个看板(一个可扩展的列表)！
 
-[![kanban](../Images/cadbefe437f14f9238c9c6cff317cf92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VjwhytmQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/6764957/37550034-5a31617a-295d-11e8-8799-60c6f57bde0a.gif)
+[![kanban](img/cadbefe437f14f9238c9c6cff317cf92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VjwhytmQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/6764957/37550034-5a31617a-295d-11e8-8799-60c6f57bde0a.gif)
 
 这是由那个`listOfLists`的动态扩展能力实现的，它是一个可观察到的地图。老实说，你也可以使用数组来实现这一点，但是如果你有一个更适合演示可观察地图的用例，请在下面的评论中告诉我。
 

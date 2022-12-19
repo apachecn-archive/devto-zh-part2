@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/onmyway133/playground-driven-development-in-swift-3ga9>
 
-[![](../Images/5df0823820b6715702efca615b76fe56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KLFB9KjP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AEbrVuz1m60emAKFrBdboCg.png)
+[![](img/5df0823820b6715702efca615b76fe56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KLFB9KjP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AEbrVuz1m60emAKFrBdboCg.png)
 
 ## 需要快速调整 UI
 
@@ -24,7 +24,7 @@
 
 Xcode 9 允许在 Playground 中导入[自定义框架，只要框架和 Playground 在同一个工作区。我们可以使用](https://help.apple.com/xcode/mac/9.0/#/devc9b33111c) [Carthage](https://github.com/Carthage/Carthage) 获取自定义框架并构建它。但是如果我们使用椰子，那也是可行的。
 
-[![](../Images/bc637fad95c49fb3994b1d7134c287ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y28vhOub--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2394/1%2AZYy8VCrA3i2tI3zpIXwmEw.png)
+[![](img/bc637fad95c49fb3994b1d7134c287ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y28vhOub--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2394/1%2AZYy8VCrA3i2tI3zpIXwmEw.png)
 
 ## 创建 app 框架
 
@@ -58,11 +58,11 @@ Xcode 9 允许在 Playground 中导入[自定义框架，只要框架和 Playgro
 
 在您的工作区中，选择 UsingPlayground 项目并添加新的 CocoaTouch 框架。这是包含我们的应用程序代码的框架。姑且称之为 AppFramework 吧。
 
-[![](../Images/95da1138a7a0115f8ce34d7d8394f463.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oahFHhhc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2A0C17R-Oym31N9BYA.png)
+[![](img/95da1138a7a0115f8ce34d7d8394f463.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oahFHhhc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2A0C17R-Oym31N9BYA.png)
 
 现在将您想要测试的源文件添加到这个框架中。现在，只需检查文件 ViewController.swift 并将其添加到 AppFramework 目标中。
 
-[![](../Images/f5c047df7b6b3e4f382854b5c6fb8508.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rFAc0Dk9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AJap3CnRcDmSyo-4aykWsLA.png)
+[![](img/f5c047df7b6b3e4f382854b5c6fb8508.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rFAc0Dk9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AJap3CnRcDmSyo-4aykWsLA.png)
 
 对于这个简单的项目，只有一个 ViewController.swift。如果该文件引用了其他文件中的代码，您也需要将相关文件添加到 AppFramework 目标中。这就是你应该如何巧妙处理[依赖](https://en.wikipedia.org/wiki/Dependency_inversion_principle)的原因。
 
@@ -72,11 +72,11 @@ iOS 中的 ViewController 大部分位于 UI 层，所以它应该只是获取�
 
 操场没有魔力。每次更改代码时，您都需要编译 AppFramework，否则这些更改不会反映在您的游戏中。如果您不介意缓慢的编译时间，您可以将所有文件添加到 AppFramework 中。简单地扩展组文件夹，选择和添加文件到目标需要很多时间。更不用说，如果你同时选择了文件夹和文件，你将无法将它们添加到你目标中。您只能向目标添加文件。
 
-[![](../Images/8d131f1c521131a54be28a1f27340bc9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3geVztYA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AcOThYP8EGPrjsDnx06Zg1A.png)
+[![](img/8d131f1c521131a54be28a1f27340bc9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3geVztYA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AcOThYP8EGPrjsDnx06Zg1A.png)
 
 更快的方法是在 AppFramework 目标构建阶段编译源代码。这里所有的文件都会自动展开，你需要做的就是选择它们并点击 Add。
 
-[![](../Images/0749e9b1315345f161988a86dc7c0d26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4P12-u_M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2586/1%2AbROv-S-aMElSPB7BpEOhwA.png)
+[![](img/0749e9b1315345f161988a86dc7c0d26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4P12-u_M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2586/1%2AbROv-S-aMElSPB7BpEOhwA.png)
 
 ### 第五步:公开
 
@@ -94,9 +94,9 @@ iOS 中的 ViewController 大部分位于 UI 层，所以它应该只是获取�
 
 添加一个操场，并将其拖动到我们的工作区。让我们称它为我的操场吧。
 
-[![](../Images/9d4ab507fdbb81859d31884e8a273ab8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oxslg2tR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Aj9II1EmZWpOCFiY3TQl0YA.png)
+[![](img/9d4ab507fdbb81859d31884e8a273ab8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oxslg2tR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Aj9II1EmZWpOCFiY3TQl0YA.png)
 
-[![](../Images/259e265c88460f4d3403bbc252f4b648.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cj1WLFR2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A8YWhaZtgb7aSQF1pthuNZA.png)
+[![](img/259e265c88460f4d3403bbc252f4b648.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cj1WLFR2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A8YWhaZtgb7aSQF1pthuNZA.png)
 
 ### 第八步:享受
 
@@ -106,11 +106,11 @@ Playground 最适合独立测试我们的框架或我们的应用。选择 MyPla
 
 有时你想测试你想使用的吊舱的一部分。创建一个名为 CheersAlone 的新游乐场页面。这里你只需要导入 Cheers。
 
-[![](../Images/e3d50024176987a931e7be60135e23c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qFpbZ14A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Ak6eGq11QDCwJInOxGBf9AQ.png)
+[![](img/e3d50024176987a931e7be60135e23c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qFpbZ14A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Ak6eGq11QDCwJInOxGBf9AQ.png)
 
 让我们使用 PlaygroundPage 的 [liveView](https://developer.apple.com/documentation/playgroundsupport/playgroundpage/1964506-liveview) 来显示一个实时视图。记得切换编辑器模式，这样你就可以看到操场的结果。和🎉
 
-[![](../Images/34facb59c68f92118e8e4f646156f018.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9c6f8cii--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2880/1%2AfY6TpydIPaDMRUBudSLopw.png)
+[![](img/34facb59c68f92118e8e4f646156f018.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9c6f8cii--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2880/1%2AfY6TpydIPaDMRUBudSLopw.png)
 
 Xcode 的底部面板有一个按钮。您可以在自动运行和手动运行行为之间切换。而且你可以自己停下来开始游乐场。相当整洁🤘
 
@@ -122,7 +122,7 @@ Xcode 的底部面板有一个按钮。您可以在自动运行和手动运行�
 
 只需确保头的路径是正确的:
 
-[![](../Images/65f67084ff2a7cf1abb2f793f09ec974.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eQD6EwQO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2322/1%2AibjorHdbDd_XMSRGOf3J8Q.png)
+[![](img/65f67084ff2a7cf1abb2f793f09ec974.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eQD6EwQO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2322/1%2AibjorHdbDd_XMSRGOf3J8Q.png)
 
 ### 第一步:导入桥接表头
 
@@ -132,7 +132,7 @@ Xcode 的底部面板有一个按钮。您可以在自动运行和手动运行�
 
 解决方案是在你的 AppFramework.h 里面引用那个桥接头
 
-[![](../Images/dfd607d9f389a2af9e68da225965e480.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6kUh--vh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AiKT_k0n8gozJSEAxvx2uUA.png)
+[![](img/dfd607d9f389a2af9e68da225965e480.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6kUh--vh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AiKT_k0n8gozJSEAxvx2uUA.png)
 
 ### 第二步:公共表头
 
@@ -148,11 +148,11 @@ Xcode 的底部面板有一个按钮。您可以在自动运行和手动运行�
 
 因此，选择 Bridging-Header.h 并将其添加到 AppFramework，并将可见性设置为 public:
 
-[![](../Images/5eee5044716874c92320bbdfade54791.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UhI97qgi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2852/1%2AMp-FeCeU9qtEWc5Thx75PA.png)
+[![](img/5eee5044716874c92320bbdfade54791.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UhI97qgi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2852/1%2AMp-FeCeU9qtEWc5Thx75PA.png)
 
 如果你进入 AppFramework 的构建阶段，你会在那里看到 2 个头文件。
 
-[![](../Images/ba73b74a63814a0f49987ce3c7e107d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HzxLlP_f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2570/1%2AnQv6XSSH_-ptsDX_nUOQHg.png)
+[![](img/ba73b74a63814a0f49987ce3c7e107d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HzxLlP_f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2570/1%2AnQv6XSSH_-ptsDX_nUOQHg.png)
 
 现在，选择 scheme AppFramework 并点击 Build，它应该编译没有任何错误。
 
@@ -164,13 +164,13 @@ Xcode 的底部面板有一个按钮。您可以在自动运行和手动运行�
 
 现在，使用 Playground 选择应用程序方案，并点击构建和运行。该应用程序应该看起来像下面，当然，它可以拿起正确的图像和本地化的字符串。
 
-[![](../Images/36973d249ff1929fc522d998e75f5b73.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--waL0D_Ai--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A4gH9VnqAP7wvJfRAQIoo1w.png)
+[![](img/36973d249ff1929fc522d998e75f5b73.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--waL0D_Ai--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A4gH9VnqAP7wvJfRAQIoo1w.png)
 
 让我们看看我们的操场能否识别这些资产。在 MyPlayground 中创建一个名为 Resource 的新页面，并键入以下内容
 
 等一会儿操场跑完。哎呀。操场上的情况不太好，它不识别图像和本地化的字符串😢
 
-[![](../Images/df475ff5a692bf95de3f3b8ec39de775.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x13F5MTL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2722/1%2AVgzy7nGWLfnydX3SOjmD4Q.png)
+[![](img/df475ff5a692bf95de3f3b8ec39de775.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x13F5MTL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2722/1%2AVgzy7nGWLfnydX3SOjmD4Q.png)
 
 ### 资源文件夹
 
@@ -197,7 +197,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 因此，首先，我们需要将资源文件添加到 AppFramework 目标中。选择 Asset Catalog 和 Localizable.strings 并将它们添加到我们的 AppFramework 目标中。
 
-[![](../Images/7e6b1bd2d6abf83c3de064db606ba406.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4RH2QWNw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2808/1%2AmI2C1ode8HGlBe4-zp_5ew.png)
+[![](img/7e6b1bd2d6abf83c3de064db606ba406.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4RH2QWNw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2808/1%2AmI2C1ode8HGlBe4-zp_5ew.png)
 
 ### 第二步:指定捆绑包
 
@@ -207,7 +207,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 每次我们在 AppFramework 中修改代码，都需要重新编译。这很重要。现在打开操场，它应该拿起正确的资产。
 
-[![](../Images/83609bcc1ac0b9b3c758eec4fe914fe4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ws4nIPsB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2750/1%2AM0_mNdOVjjV3FjAY4eRy7A.png)
+[![](img/83609bcc1ac0b9b3c758eec4fe914fe4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ws4nIPsB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2750/1%2AM0_mNdOVjjV3FjAY4eRy7A.png)
 
 ### 自定义字体呢？
 
@@ -219,7 +219,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 tada，你的应用程序和 Playground 都可以看到自定义字体🎉
 
-[![](../Images/b96a6789270026086af4487737f700e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q7PCb30l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2686/1%2AIz6t5ai_1hZa0lkdtAkblg.png)
+[![](img/b96a6789270026086af4487737f700e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q7PCb30l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2686/1%2AIz6t5ai_1hZa0lkdtAkblg.png)
 
 ## 设备尺寸和特性集合
 

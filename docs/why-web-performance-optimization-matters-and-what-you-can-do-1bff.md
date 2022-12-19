@@ -8,7 +8,7 @@ Web 性能指的是下载网页并在浏览器中显示给用户的速度/速率
 
 你可能会问，所以呢？？我是个坏蛋戴夫。web 应用程序所需的所有功能都已实现，并且运行良好。这有什么关系？
 
-<figure>[![](../Images/d1b21a250920bb41b814dfe4700c80ab.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qCujDhRL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/250/1%2AqyeuHuU7TnwnV2svtHAlMQ.gif) 
+<figure>[![](img/d1b21a250920bb41b814dfe4700c80ab.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qCujDhRL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/250/1%2AqyeuHuU7TnwnV2svtHAlMQ.gif) 
 
 <figcaption>有什么关系。</figcaption>
 
@@ -56,7 +56,7 @@ JAVASCRIPT : [UglifyJS](https://github.com/mishoo/UglifyJS)
 
 为了自动化这个过程，可以使用一个构建工具，比如 Gulp。
 
-<figure>[![](../Images/3756715d79df1c07c2f51ba7ccb113d5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--e2Nh1JG8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/719/1%2AS_awmqLOk2rawTmI5JHkVQ.png) 
+<figure>[![](img/3756715d79df1c07c2f51ba7ccb113d5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--e2Nh1JG8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/719/1%2AS_awmqLOk2rawTmI5JHkVQ.png) 
 
 <figcaption>运行 gulp useref 任务会最小化 html、css 和 js 文件，并将缩小的版本存储在 dist 文件夹</figcaption>
 
@@ -80,7 +80,7 @@ JAVASCRIPT : [UglifyJS](https://github.com/mishoo/UglifyJS)
 
 这个过程也可以使用 gulp-imagemin 插件自动完成。作为依赖项安装，然后快速编写一些代码。
 
-<figure>[![](../Images/889044aaa39f258a12f182160dd581ed.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oVZhV_N0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/694/1%2AUoGFypefjiDPKYfFWnxJnA.png) 
+<figure>[![](img/889044aaa39f258a12f182160dd581ed.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oVZhV_N0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/694/1%2AUoGFypefjiDPKYfFWnxJnA.png) 
 
 <figcaption>使用 gulp 缩小 png、jpg、svg 和 gif 文件。</figcaption>
 
@@ -110,11 +110,11 @@ HTTP 缓存可以用指定浏览器缓存策略的[缓存控制头](https://varv
 
 Lighthouse: 这是一个 chrome 工具，可以作为 Chrome 扩展从 Chrome 开发工具运行，也可以从命令行运行。
 
-[![](../Images/b47d242fc6fa7549d7a85bcdcfc124a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qPpG7y4P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/677/1%2A4Vt6DWwWQ8KmXKfiibkoew.png)
+[![](img/b47d242fc6fa7549d7a85bcdcfc124a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qPpG7y4P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/677/1%2A4Vt6DWwWQ8KmXKfiibkoew.png)
 
 PageSpeed Insights : 这是一项谷歌网络服务，它分析网页的内容，并提出建议，使你的页面加载更快。只需在提供的空白处键入您的网址，点击分析，它就会为您的网站生成一份报告。
 
-[![](../Images/7f92e75626dea3e1364c36298d2f8aed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m-pQw_zX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/975/1%2AQiapAcofyHz8dRy1kwazrg.png)
+[![](img/7f92e75626dea3e1364c36298d2f8aed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m-pQw_zX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/975/1%2AQiapAcofyHz8dRy1kwazrg.png)
 
 这是一个在线工具，使用真实的浏览器(IE 和 Chrome)并以真实的消费者连接速度在全球多个地方运行网站速度测试。
 

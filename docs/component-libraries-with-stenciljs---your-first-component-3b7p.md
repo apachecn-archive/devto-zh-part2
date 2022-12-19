@@ -159,7 +159,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当您的页面自动刷新时，您应该会看到您漂亮的新按钮组件处于禁用和非禁用状态！
 
-[![new buttons](../Images/1265d90ce9e8afc9094241dccac6cd36.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--atyfP9iz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mq6160q4l4v5cu7b0ode.png)
+[![new buttons](img/1265d90ce9e8afc9094241dccac6cd36.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--atyfP9iz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mq6160q4l4v5cu7b0ode.png)
 
 ## 下一步
 

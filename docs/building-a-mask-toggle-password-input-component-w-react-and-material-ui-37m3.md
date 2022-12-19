@@ -4,7 +4,7 @@
 
 众所周知，允许用户切换密码输入可见性消除了摩擦并改善了用户体验。我将在本教程中向你展示如何构建一个可切换的密码输入！
 
-[![](../Images/af9878bc0a04e08c8bb28bd6a283f2db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xiz5AT36--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/497/1%2AHOz8wr_pxG5OIrZKL_rFrQ.gif)
+[![](img/af9878bc0a04e08c8bb28bd6a283f2db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xiz5AT36--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/497/1%2AHOz8wr_pxG5OIrZKL_rFrQ.gif)
 
 ### 设置/依赖关系
 

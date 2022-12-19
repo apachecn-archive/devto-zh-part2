@@ -411,7 +411,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们用名称和指称把一个概念和另一个概念联系起来。当链接不牢固时，我们会遇到麻烦，说它没有“意义”
 
-[![image](../Images/80b5f379eaf6a4c2af6bfce49168622d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YqXgGHcZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/46205981-27131a80-c355-11e8-8a87-c73d29df5e43.png)
+[![image](img/80b5f379eaf6a4c2af6bfce49168622d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YqXgGHcZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/46205981-27131a80-c355-11e8-8a87-c73d29df5e43.png)
 
 我们认为左边的游戏比右边的游戏容易得多。为什么？因为`ladder`和`fire`是映射到你现实生活中的熟悉概念。我们在现有经验的基础上建立新的经验。如果代码脱离了需求，脱离了现实生活的概念，它将很难理解。
 
@@ -453,7 +453,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 因为`[][]int`是陌生的，而`[]Cell`映射到了人生经历。
 
-[![image](../Images/ce9735f87af71ad4c3de0d64adb69a92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bQHHGjzo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/46206140-a99bda00-c355-11e8-9a06-30bf7a8c324b.png)
+[![image](img/ce9735f87af71ad4c3de0d64adb69a92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bQHHGjzo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/46206140-a99bda00-c355-11e8-9a06-30bf7a8c324b.png)
 
 从代码到生活经验的概念链接是通过“名称”完成的，它只是一个字符串。代码模块之间的链接概念可以依赖于“引用”。你定义函数，并引用函数。定义类型，并引用该类型。在 IDE 中，您可以单击引用以转到其定义。当链接强而清晰时，我们可以更快地阅读代码。
 

@@ -14,7 +14,7 @@
 
     > 一个[优先级队列](https://en.wikipedia.org/wiki/Priority_queue)是一个抽象数据结构，用来存储有优先级的值(任何数据)。可以随时插入任何优先级的数据，但只能取出优先级最高的值。
 
-[![Magic](../Images/5c0cd327af2a6e2f0878df007de1b6bd.png) ](https://cdn-images-1.medium.com/max/2000/1*P5umJ1Wdc-qqRVtWOMyMIA.gif) *魔法*
+[![Magic](img/5c0cd327af2a6e2f0878df007de1b6bd.png) ](https://cdn-images-1.medium.com/max/2000/1*P5umJ1Wdc-qqRVtWOMyMIA.gif) *魔法*
 
 ## 何时使用优先队列⁉
 
@@ -34,11 +34,11 @@
 
 我和 Go 开始了漫长的最后一段[关系。我不想让我的训练白费，所以我开始寻找高性能的数据结构来实现(现在还没有)。经过几次搜索，我最终得到了这张图片，](https://coder.today/go-go-go-flash-bang-d66f4c42eb7c)[摘自一本书](https://www.researchgate.net/publication/222685597_Revisiting_priority_queues_for_image_analysis)
 
-[![](../Images/dad76157c17f8918440e4db14fd372fc.png)T2】](https://cdn-images-1.medium.com/max/2210/1*3AkHiTG8E9hpnN2r3J9NZg.png)
+[![](img/dad76157c17f8918440e4db14fd372fc.png)T2】](https://cdn-images-1.medium.com/max/2210/1*3AkHiTG8E9hpnN2r3J9NZg.png)
 
 这两条底线引起了我的兴趣，它们是 O(1)多结构优先级队列。首先是分层堆，它是基于分层队列的，所以让我们深入研究一下。
 
-[![](../Images/dbc0cbc5f0c10305573bb359400fabea.png)T2】](https://cdn-images-1.medium.com/max/2000/1*vmpxla2vG2b5oxd_jxTMOQ.png)
+[![](img/dbc0cbc5f0c10305573bb359400fabea.png)T2】](https://cdn-images-1.medium.com/max/2000/1*vmpxla2vG2b5oxd_jxTMOQ.png)
 
 ## 分层队列
 
@@ -58,7 +58,7 @@
 
 2.  一旦最高优先级队列为空，它将被移除，下一个队列将开始清空，**，并且不能再次创建。**这意味着我们必须在开始出队之前填充队列，否则我们的性能会下降，例如:出队过程只剩下 1 个优先级(255)，我们将其他元素加入队列。所有新元素都将被推入 255 队列中(因为 0–254 是空的并被删除)。
 
-[![](../Images/095d7412f9faef5935237e8c5e501a04.png)T2】](https://cdn-images-1.medium.com/max/2000/1*1R4iZ4wrVdWtONwHkBmgDA.jpeg)
+[![](img/095d7412f9faef5935237e8c5e501a04.png)T2】](https://cdn-images-1.medium.com/max/2000/1*1R4iZ4wrVdWtONwHkBmgDA.jpeg)
 
 ## **围棋码围棋**
 
@@ -70,7 +70,7 @@
 
 在第一次迭代中，我使用**链表**作为队列(使用 golang list。列表)，平均操作时间为 150-200 纳秒。我最终使用了更快的结构(感谢 Egon Elbre 的一个建议)。它把运算时间降低到了 50ns 以下*(这是一个相当快的该死的列表)*，见收藏/德奎:
 
-## ![GitHub logo](../Images/375dfcc32199b4dedf2b526645c27ff7.png) [卡拉拉贝](https://github.com/karalabe) / [库奇亚尔](https://github.com/karalabe/cookiejar)
+## ![GitHub logo](img/375dfcc32199b4dedf2b526645c27ff7.png) [卡拉拉贝](https://github.com/karalabe) / [库奇亚尔](https://github.com/karalabe/cookiejar)
 
 ### 参赛者的算法工具箱
 
@@ -137,13 +137,13 @@ import "gopkg.in/karalabe/cookiejar.v2"
 
 分层队列结构是“priorityqueue”包的一部分，它拥有 100%的测试覆盖率、示例、基准和[文档](https://godoc.org/github.com/bgadrian/data-structures/priorityqueue)。
 
-## ![GitHub logo](../Images/375dfcc32199b4dedf2b526645c27ff7.png) [ bgadrian ](https://github.com/bgadrian) / [数据结构](https://github.com/bgadrian/data-structures)
+## ![GitHub logo](img/375dfcc32199b4dedf2b526645c27ff7.png) [ bgadrian ](https://github.com/bgadrian) / [数据结构](https://github.com/bgadrian/data-structures)
 
 ### 抽象数据结构 Go 包，构建时考虑了性能和并发性以学习 Go。
 
 <article class="markdown-body entry-content p-5" itemprop="text">
 
-# Go 中的数据结构[![Build Status](../Images/a7c518a7d67cfefa357d58d738ba847d.png)](https://travis-ci.org/bgadrian/data-structures)[![codecov](../Images/75af653343e37fb490b550f0e5e14b3d.png)](https://codecov.io/gh/bgadrian/data-structures)[![Go Report Card](../Images/5e17c2c62090b9d59984e211110711ec.png)](https://goreportcard.com/report/github.com/bgadrian/data-structures)
+# Go 中的数据结构[![Build Status](img/a7c518a7d67cfefa357d58d738ba847d.png)](https://travis-ci.org/bgadrian/data-structures)[![codecov](img/75af653343e37fb490b550f0e5e14b3d.png)](https://codecov.io/gh/bgadrian/data-structures)[![Go Report Card](img/5e17c2c62090b9d59984e211110711ec.png)](https://goreportcard.com/report/github.com/bgadrian/data-structures)
 
 我正在为 GO 中不同的数据结构编写一个包的集合。
 
@@ -153,7 +153,7 @@ import "gopkg.in/karalabe/cookiejar.v2"
 
 #### ！！警告该库尚未用于生产。！！
 
-## [优先级队列](https://raw.githubusercontent.com/bgadrian/data-structures/master/priorityqueue/README.md) [![GoDoc](../Images/f01022857188c66836ee58aff8f2adfa.png)](https://godoc.org/github.com/bgadrian/data-structures/priorityqueue)
+## [优先级队列](https://raw.githubusercontent.com/bgadrian/data-structures/master/priorityqueue/README.md) [![GoDoc](img/f01022857188c66836ee58aff8f2adfa.png)](https://godoc.org/github.com/bgadrian/data-structures/priorityqueue)
 
 用于优先级队列的高性能、并发安全、复杂的抽象数据结构的集合。
 
@@ -179,4 +179,4 @@ import "gopkg.in/karalabe/cookiejar.v2"
 
 ## 谢谢！🤝
 
-[![](../Images/600be3503dc9f86b44097a3753428321.png)T2】](https://cdn-images-1.medium.com/max/2560/1*gGB1I0XqPtpwGkaXm8L8kw.jpeg)
+[![](img/600be3503dc9f86b44097a3753428321.png)T2】](https://cdn-images-1.medium.com/max/2560/1*gGB1I0XqPtpwGkaXm8L8kw.jpeg)

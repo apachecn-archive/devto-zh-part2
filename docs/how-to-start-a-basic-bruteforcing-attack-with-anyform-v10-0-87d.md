@@ -4,15 +4,15 @@
 
 在 [GitHub](https://github.com/yak0d3/anyForm/) 上查看 **anyForm v1.0-0** ！
 
-# anyForm ![Language](../Images/a2200bdad7f032728f4b3d61a5269ca2.png)
+# anyForm ![Language](img/a2200bdad7f032728f4b3d61a5269ca2.png)
 
-[![GitHub tag (latest SemVer)](../Images/35309a78a811c7f7317d162240cbb5e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MMPgV2b8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/github/tag/yak0d3/anyForm.svg%3FcolorB%3Dbrightgreen)
+[![GitHub tag (latest SemVer)](img/35309a78a811c7f7317d162240cbb5e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MMPgV2b8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/github/tag/yak0d3/anyForm.svg%3FcolorB%3Dbrightgreen)
 
 > anyForm 是一个轻量级的表单暴力破解工具，可以破解任何包含用户名和密码字段的表单。
 
 目前，anyForm 仍处于早期开发阶段，功能非常有限，但对于传统的 web 表单来说已经足够好了。
 
-[![anyForm main display - screenshot1](../Images/5a9d9607eaeccf11514ac872e80d7744.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bbMDGe0J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://preview.ibb.co/d5KLwp/anyform_main_display.png)
+[![anyForm main display - screenshot1](img/5a9d9607eaeccf11514ac872e80d7744.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bbMDGe0J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://preview.ibb.co/d5KLwp/anyform_main_display.png)
 
 # 用法
 
@@ -26,7 +26,7 @@
 5.  `set userField <field_name_from_html_source>`
 6.  `set passField <field_name_from_html_source>`
 7.  `set ssMsg <success_message_source>`
-8.  `start` ![anyForm brute-forcing - Screenshot2](../Images/9c8b7fc59bebd42bcb04392bd024e94c.png)
+8.  `start` ![anyForm brute-forcing - Screenshot2](img/9c8b7fc59bebd42bcb04392bd024e94c.png)
 
 # 命令
 
@@ -73,4 +73,4 @@
 
     ## 执照
 
-[![anyForm MIT License](../Images/649a66467f998afa1b1a1c58152a4d0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_72U_zMJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/hWqzp9/license.png)
+[![anyForm MIT License](img/649a66467f998afa1b1a1c58152a4d0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_72U_zMJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/hWqzp9/license.png)

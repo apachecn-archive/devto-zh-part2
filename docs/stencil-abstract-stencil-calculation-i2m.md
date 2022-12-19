@@ -136,7 +136,7 @@ fn periodic(r: Sender<Vec<f64>>) {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![heat-periodic](../Images/614e83c66b3ae174dd5861e50eb77c1b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rFxX7vvn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t7ybxihlame7zx4kxk3u.png)T3】
+[![heat-periodic](img/614e83c66b3ae174dd5861e50eb77c1b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rFxX7vvn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t7ybxihlame7zx4kxk3u.png)T3】
 
 ```
 fn fixed(r: Sender<Vec<f64>>) {
@@ -158,7 +158,7 @@ fn fixed(r: Sender<Vec<f64>>) {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![heat-fixed](../Images/68fe3592ac8c6a9e7c3871bca563d223.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tWl9sLv8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9bigc0yi6cewzq0devsb.png)
+[![heat-fixed](img/68fe3592ac8c6a9e7c3871bca563d223.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tWl9sLv8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9bigc0yi6cewzq0devsb.png)
 
 本例使用 [asink](https://github.com/termoshtt/asink) 存储数据。请看[上一篇](https://dev.to/termoshtt/asink-async-sink-for-time-series-data--2nl)。
 
@@ -193,7 +193,7 @@ fn kdv(r: Sender<Vec<f64>>) {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![kdv](../Images/f278652752ad9c70f6bbce778d274fb4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ba3GQRMo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xggcqb6tceorgsubdmeq.png)
+[![kdv](img/f278652752ad9c70f6bbce778d274fb4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ba3GQRMo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xggcqb6tceorgsubdmeq.png)
 
 蛙跳算法也很容易写。
 

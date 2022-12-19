@@ -6,7 +6,7 @@
 
 如今，Docker 和 T2【Kubernetes】让部署变得轻而易举。这篇文章将强调当你部署一个新的主要特性时需要考虑的事情，这个新特性涉及到一些大的代码和数据库变化。
 
-[![5 Things to consider when deploying a new major feature to production](../Images/7550674aa91f0b37e0460bfcbc196c85.png "5 Things to consider when deploying a new major feature to production")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BQZ1_VC1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://geshan.com.np/images/5-deployment-considerations/capistrano-deployment.png)
+[![5 Things to consider when deploying a new major feature to production](img/7550674aa91f0b37e0460bfcbc196c85.png "5 Things to consider when deploying a new major feature to production")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BQZ1_VC1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://geshan.com.img/5-deployment-considerations/capistrano-deployment.png)
 
 ## 主要特征是什么
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/starbist/if-you-are-starting-a-new-website-consider-using-hugo-527m>
 
-[![Making a website with Hugo cover](../Images/9ef859decfe88813f25f7c9b90ad9750.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TSnqtCuS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lzv65l3a71ar01s7en19.jpg)
+[![Making a website with Hugo cover](img/9ef859decfe88813f25f7c9b90ad9750.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TSnqtCuS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lzv65l3a71ar01s7en19.jpg)
 
 *这篇文章最初发表于 [silvestar.codes](https://www.silvestar.codes/articles/making-a-website-with-hugo/) 。*
 

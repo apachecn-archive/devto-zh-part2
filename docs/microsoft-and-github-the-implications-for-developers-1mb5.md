@@ -8,35 +8,35 @@
 
 *   在某些方面，这是注定要发生的。微软显然关心开源软件和该领域的所有投资。正是 GitHub 的受欢迎程度最终导致了 CodePlex 的死亡——开源软件对微软来说太有价值了，微软不可能不持有它的大部分股份。
 
-[![](../Images/79f70b4f67985371f7e15d8e9ed06a57.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SXjSstHQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2018/2018-06/Codeplex.png)
+[![](img/79f70b4f67985371f7e15d8e9ed06a57.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SXjSstHQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2018/2018-06/Codeplex.png)
 
 *   到目前为止，微软还是 GitHub 上开源代码库的最大贡献者。在 [VS 代码](https://github.com/Microsoft/vscode)、[打字稿](https://github.com/Microsoft/TypeScript)、[之间。NET](https://github.com/Microsoft/dotnet) 和 [Azure](https://github.com/Azure) ，微软凭借一些最受欢迎的存储库明显主导了 GitHub 开源领域，并与大量开发人员合作。最大的声音自然对如何驾驶这艘船有发言权。
 
-[![](../Images/0bb8068fc74ed1edac416027408c2673.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OsBwQ7jl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2018/2018-06/MSFTOss.png)
+[![](img/0bb8068fc74ed1edac416027408c2673.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OsBwQ7jl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2018/2018-06/MSFTOss.png)
 
 *   微软的[开源记录](https://open.microsoft.com/)让人们很容易相信他们对运行 GitHub 所带来的社区责任的承诺。在[塞特亚·纳德拉](https://twitter.com/satyanadella)的带领下，微软拥有科技公司中最全面的包容性领导——他们知道要小心对待这次收购。
 
-[![](../Images/1c2414b3f7ad167a88312903ca122679.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SQiO_Ln8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2018/2018-06/Satya.jpg)
+[![](img/1c2414b3f7ad167a88312903ca122679.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SQiO_Ln8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2018/2018-06/Satya.jpg)
 
 *   大型企业经常发现自己在采用开源技术方面进展缓慢——考虑到任务关键型软件的风险，这种犹豫是很自然的。企业现在可以更加信任 GitHub 库，并引入开源依赖项，因为它们都有微软的支持。
 
-[![](../Images/2e1e0a4a3031db0732bd6a95fbb85e23.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SBOKnb3J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2018/2018-06/OSS.jpg)
+[![](img/2e1e0a4a3031db0732bd6a95fbb85e23.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SBOKnb3J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2018/2018-06/OSS.jpg)
 
 *   GitHub 工具对于开发者来说是真正的平台无关性——类似于微软对。NET 和 Azure。开发人员可以期待 GitHub 工具，包括 CLI 和桌面工具，在所有平台上实现真正的统一——并且对开发人员的工作流程更加简化。
 
-[![](../Images/2a6be3fd7711d469e1780bf44902c6bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z368Bz19--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2018/2018-06/CLI.png)
+[![](img/2a6be3fd7711d469e1780bf44902c6bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z368Bz19--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2018/2018-06/CLI.png)
 
 *   GitHub 的新任首席执行官是 [Nat Friedman](https://twitter.com/natfriedman) 和联合创始人 [Chris Wanstrath](https://twitter.com/defunkt) 现在是微软的研究员，他们都向云和人工智能首席执行官 [Scott Guthrie](https://twitter.com/scottgu) 汇报。Nat 之前是 Xamarin 的联合创始人，他清楚地知道如何追求成功，并从卑微的开始做起。此外，领导团队有参与另一项成功但棘手的收购的经验，即 Xamarin 本身。微软不得不让 Xamarin 在一个孤岛中运行，以保持开发者的好感，同时降低进入门槛，改进工具并提供有意义的集成。开发人员可以期待 GitHub acuisition 具有同样水平的技巧。
 
-[![](../Images/474e437e26436b47c0bbb7acc316109c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pHq1Rwu8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2018/2018-06/Leadership.jpg)
+[![](img/474e437e26436b47c0bbb7acc316109c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pHq1Rwu8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2018/2018-06/Leadership.jpg)
 
 *   微软显然在 Azure 中维护着一个庞大的云基础设施，对开发者来说最大的吸引力是自动化云服务。有了 [Visual Studio Team Services](https://www.visualstudio.com/team-services/) 和 [Visual Studio App Center](https://www.visualstudio.com/app-center/) ，微软可以轻松地为在 GitHub 中托管代码的开发者带来大量好处。在云构建和 CI/CD 管道之间，GitHub repos 的自动化故事将会变得更好。
 
-[![](../Images/6bedf8776db517f8fd7e92e8fe4f93b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HU4Bnnkm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2018/2018-06/VSAppCenter.png)
+[![](img/6bedf8776db517f8fd7e92e8fe4f93b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HU4Bnnkm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2018/2018-06/VSAppCenter.png)
 
 *   对 GitHub 的收购符合微软授权开发者的使命。随着广受欢迎的 Visual Studio 和 Visual Studio 代码与 GitHub 托管(公共或私有)的结合，很明显微软工具将在大多数开发人员的日常生活中无处不在。对于一个技术巨头来说，这是一个令人羡慕的位置，微软必须信守承诺，赢得更多开发者的好感。
 
-[![](../Images/187247f9c4c06de9dc04f708de2bab5a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ymJ_IY4P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2018/2018-06/MSFTDevs.gif)
+[![](img/187247f9c4c06de9dc04f708de2bab5a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ymJ_IY4P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/2018/2018-06/MSFTDevs.gif)
 
 ## 担忧
 

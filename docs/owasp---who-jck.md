@@ -4,7 +4,7 @@
 
 我最近写了一篇短文，向所有开发者推荐五个播客，不管他们的技术如何；您可以通过以下链接阅读:
 
-[![dotnetcoreblog image](../Images/532a02d36322a9e6641cc8377a9f5450.png)](/dotnetcoreblog) [## 我的播客订阅
+[![dotnetcoreblog image](img/532a02d36322a9e6641cc8377a9f5450.png)](/dotnetcoreblog) [## 我的播客订阅
 
 ### 杰米 9 月 7 日 184 分钟阅读
 
@@ -12,7 +12,7 @@
 
 在这篇文章的评论中，我的好朋友金成说:
 
-[![dance2die profile image](../Images/0ee510fbd0d5195e8e16812b53490e7e.png) ](/dance2die) [ Sung M. Kim ](/dance2die) • [<time datetime="2018-09-08T02:07:03Z"> Sep 8 '18 </time>](https://dev.to/dance2die/comment/5bbo) 
+[![dance2die profile image](img/0ee510fbd0d5195e8e16812b53490e7e.png) ](/dance2die) [ Sung M. Kim ](/dance2die) • [<time datetime="2018-09-08T02:07:03Z"> Sep 8 '18 </time>](https://dev.to/dance2die/comment/5bbo) 
 
 哇，杰米，谢谢你的列表和每个播客的概要💃。
 
@@ -22,7 +22,7 @@
 
 看起来你和马丁都对安全很感兴趣。他为 InfoSec 准备了一整节播客
 
-[![mrtnrdl image](../Images/7a562adc2ea06fd220ae78e463b8797f.png)](/mrtnrdl) [## 我的播客-订阅
+[![mrtnrdl image](img/7a562adc2ea06fd220ae78e463b8797f.png)](/mrtnrdl) [## 我的播客-订阅
 
 ### 马丁·里德尔
 

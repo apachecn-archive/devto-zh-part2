@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/amycodes/5-tips-to-grow-your-software-engineering-career-28i4>
 
-[![](../Images/906e677a66af8f68167da82be8647d82.png)T2】](https://www.youtube.com/watch?v=_lJarNEjT94)
+[![](img/906e677a66af8f68167da82be8647d82.png)T2】](https://www.youtube.com/watch?v=_lJarNEjT94)
 
 大家好！我的名字是 Amy，我是 dev.to 的新手。在工作日，我是一名系统软件工程师，负责使用像 **Kubernetes、Docker 和 Go** 这样的工具！我喜欢所有的东西**分布式系统**。周末，我会在 youtube 上制作关于软件工程的视频。在刚刚过去的这个周末，我制作了一个视频，给出了关于**职业发展**的建议。
 

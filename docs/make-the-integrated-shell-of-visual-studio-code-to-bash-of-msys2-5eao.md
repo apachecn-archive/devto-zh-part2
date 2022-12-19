@@ -133,4 +133,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 # 结果
 
-[![img](../Images/73eaf6a2c720f229dca35c0ebf4f9f68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cSlgmbp7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y9s5s7q9oq06n4q1xswq.png)
+[![img](img/73eaf6a2c720f229dca35c0ebf4f9f68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cSlgmbp7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y9s5s7q9oq06n4q1xswq.png)

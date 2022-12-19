@@ -6,15 +6,15 @@
 
 **帖子**
 
-[![bhserna image](../Images/d4c739930d8ada5c970b038b3688e675.png)](/bhserna) [## 在用例中组织应用的简单方法
+[![bhserna image](img/d4c739930d8ada5c970b038b3688e675.png)](/bhserna) [## 在用例中组织应用的简单方法
 
 ### 贝尼托·塞雷娜
 
-#ruby #testing](/bhserna/a-simple-way-to-organize-your-app-in-use-cases-3h9e)[![edisonywh image](../Images/388d2736cc1db9d9adde421c4812f753.png)](/edisonywh) [## Ruby 没有类方法
+#ruby #testing](/bhserna/a-simple-way-to-organize-your-app-in-use-cases-3h9e)[![edisonywh image](img/388d2736cc1db9d9adde421c4812f753.png)](/edisonywh) [## Ruby 没有类方法
 
 ### 爱迪生 Yap 11 月 9 日 185 分钟阅读
 
-#ruby #rails](/edisonywh/ruby-has-no-class-methods-39l5)[![chenge image](../Images/04f91bc8315f1715b6c3429327824550.png)](/chenge) [## 学习 Ruby 的好图片
+#ruby #rails](/edisonywh/ruby-has-no-class-methods-39l5)[![chenge image](img/04f91bc8315f1715b6c3429327824550.png)](/chenge) [## 学习 Ruby 的好图片
 
 ### 变化
 
@@ -28,11 +28,11 @@
 
 **帖子**
 
-[![bgadrian image](../Images/e4945123b18c6f7a89352e7ed04346af.png)](/bgadrian) [## 高级 JavaScript 面板
+[![bgadrian image](img/e4945123b18c6f7a89352e7ed04346af.png)](/bgadrian) [## 高级 JavaScript 面板
 
 ### 阿德里安 b . g . 11 月 12 日 183 分钟阅读
 
-#javascript #webdev #node](/bgadrian/advanced-javascript-panel-talks-4b5o)[![waqardm image](../Images/c14f2b94f5b9dcdb14289304b8bb8fad.png)](/waqardm) [## 面向开发新手的学习资源
+#javascript #webdev #node](/bgadrian/advanced-javascript-panel-talks-4b5o)[![waqardm image](img/c14f2b94f5b9dcdb14289304b8bb8fad.png)](/waqardm) [## 面向开发新手的学习资源
 
 ### waqar Mohammad 11 月 20 日 181 分钟阅读
 

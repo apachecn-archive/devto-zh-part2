@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/krtb/tim-berners-lee-solid-and-the-arrival-of-the-web-30-4fg7>
 
-[![](../Images/daef4ab6862aafea741c0e752cbdc52d.png)T2】](https://i.giphy.com/media/5fBH6zhot4F5jeYTYHu/giphy.gif)
+[![](img/daef4ab6862aafea741c0e752cbdc52d.png)T2】](https://i.giphy.com/media/5fBH6zhot4F5jeYTYHu/giphy.gif)
 
 上周末，每个人都过着他们最好的生活，醒来后喝点茶或者洗衣服。这是一个和其他周末一样的周末。但与此同时，也正是在 2018 年，Web 3.0 正式全面拉开序幕。
 

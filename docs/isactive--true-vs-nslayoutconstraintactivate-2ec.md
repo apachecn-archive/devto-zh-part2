@@ -53,7 +53,7 @@ bottomStackView.rightAnchor.constraint(equalTo: contentWrapper.rightAnchor, cons
 
 过去几个小时，我一直在做一个屏幕，上面有两个`UILabel`和一个`UICollectionView`。最后，它应该看起来像这样:
 
-[![Bildschirmfoto-2018-07-17-um-12.40.42](../Images/5317bf00513bbadb9346647c9ae4da0d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e3xYxkwn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zeitschlag.net/content/images/2018/07/Bildschirmfoto-2018-07-17-um-12.40.42.png)
+[![Bildschirmfoto-2018-07-17-um-12.40.42](img/5317bf00513bbadb9346647c9ae4da0d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e3xYxkwn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zeitschlag.net/conteimg/2018/07/Bildschirmfoto-2018-07-17-um-12.40.42.png)
 
 所以我添加了所有的元素和约束，然后按下`CMD+R`。但是没有用。数字是不可见的，但同时，没有不可满足的约束。我仔细检查了约束条件，它们看起来很好。过了一段时间，我发现少了一个`isActive = true`。
 

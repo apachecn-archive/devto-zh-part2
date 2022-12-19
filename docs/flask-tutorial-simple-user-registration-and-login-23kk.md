@@ -24,13 +24,13 @@ Okta 是一个免费使用的 API 服务，它存储用户帐户，并处理用�
 
 首先，你需要创建一个免费的 Okta 开发者账户:[https://developer.okta.com/signup/](https://developer.okta.com/signup/)。一旦你创建了你的帐户并登录，按照下面的步骤配置 Okta，然后你就可以准备写一些代码了！
 
-[![Okta registration page](../Images/52ddf91dbe36889e21731976c7dd44be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pUiLgahY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/flask-tutorial-simple-user-registration-and-login/okta-registration-page-ee14e7516bdc7df3e6e950a2c385706754c5300d842a1374785fd9e43cab2a6b.png)
+[![Okta registration page](img/52ddf91dbe36889e21731976c7dd44be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pUiLgahY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/flask-tutorial-simple-user-registration-and-login/okta-registration-page-ee14e7516bdc7df3e6e950a2c385706754c5300d842a1374785fd9e43cab2a6b.png)
 
 ### 第一步:存储您的组织网址
 
 您需要做的第一件事是从 Okta 仪表板页面的右上方复制下 **Org URL** 。此 URL 将用于路由到您的授权服务器，与之通信，等等。稍后您将需要这个值，所以不要忘记它。
 
-[![Okta org URL](../Images/cbb9fd1220169681bc11ec51f7d1b4df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Tq_0r50u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/flask-tutorial-simple-user-registration-and-login/okta-org-url-b26a98af3fa71a8f88519b5154d16d10fae846ff3df95d09995fcd61fa2c6175.png)
+[![Okta org URL](img/cbb9fd1220169681bc11ec51f7d1b4df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Tq_0r50u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/flask-tutorial-simple-user-registration-and-login/okta-org-url-b26a98af3fa71a8f88519b5154d16d10fae846ff3df95d09995fcd61fa2c6175.png)
 
 ### 步骤 2:创建一个 OpenID Connect 应用程序
 
@@ -40,11 +40,11 @@ OpenID Connect 中的应用程序有一个用户名和密码(称为客户端 ID 
 
 要创建新的应用程序，请浏览到**应用程序**选项卡，并点击**添加应用程序**。
 
-[![Okta application page](../Images/e87558842120ce73488d16a510676ade.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C1rzRuU8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/flask-tutorial-simple-user-registration-and-login/okta-application-page-5d3d0ee99d0d6888f30bffc5fa3d58ddaafe907dfd2ec315589435b2fc7bb23b.png)
+[![Okta application page](img/e87558842120ce73488d16a510676ade.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C1rzRuU8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/flask-tutorial-simple-user-registration-and-login/okta-application-page-5d3d0ee99d0d6888f30bffc5fa3d58ddaafe907dfd2ec315589435b2fc7bb23b.png)
 
 接下来，点击 **Web** 平台选项(因为这个项目是一个 web app)。
 
-[![Okta create application page](../Images/b6329c2292b3bd3bfe57019e495ca386.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tvXZAScz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/flask-tutorial-simple-user-registration-and-login/okta-create-application-page-681dcd71ac7de879a92e80d243020f9c9be6edc17e6ae0b0adb40a70936eac24.png)
+[![Okta create application page](img/b6329c2292b3bd3bfe57019e495ca386.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tvXZAScz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/flask-tutorial-simple-user-registration-and-login/okta-create-application-page-681dcd71ac7de879a92e80d243020f9c9be6edc17e6ae0b0adb40a70936eac24.png)
 
 在“设置”页面上，输入以下值:
 
@@ -54,11 +54,11 @@ OpenID Connect 中的应用程序有一个用户名和密码(称为客户端 ID 
 
 您可以保持所有其他值不变。
 
-[![Okta create application settings page](../Images/e8ca1eeec7efcd4e3ab2c354d159d4a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KJsS0yZ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/flask-tutorial-simple-user-registration-and-login/okta-create-application-settings-page-6113616138c4f65e25532ad8013ed3359a8e389b08f8f093acb25c8ca43f9091.png)
+[![Okta create application settings page](img/e8ca1eeec7efcd4e3ab2c354d159d4a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KJsS0yZ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/flask-tutorial-simple-user-registration-and-login/okta-create-application-settings-page-6113616138c4f65e25532ad8013ed3359a8e389b08f8f093acb25c8ca43f9091.png)
 
 现在您的应用程序已经创建好了，请记下下页的**客户端 ID** 和**客户端秘密**值，稍后我们开始编写代码时会用到它们。
 
-[![Okta application credentials page](../Images/568be6eea8be7a29845039ddae63302f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jw4mcbWk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/flask-tutorial-simple-user-registration-and-login/okta-application-credentials-page-2f5b916ff40dc7425e731c801f9b087342846ed828a7979ab79127059d67d6b3.png)
+[![Okta application credentials page](img/568be6eea8be7a29845039ddae63302f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jw4mcbWk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/flask-tutorial-simple-user-registration-and-login/okta-application-credentials-page-2f5b916ff40dc7425e731c801f9b087342846ed828a7979ab79127059d67d6b3.png)
 
 ### 步骤 3:创建认证令牌
 
@@ -71,7 +71,7 @@ OpenID Connect 中的应用程序有一个用户名和密码(称为客户端 ID 
 
 要创建认证令牌，单击页面顶部的 **API** 选项卡，然后单击**创建令牌**按钮。给你的令牌起一个名字，最好和你的应用程序同名，然后点击**创建令牌**。创建令牌后，请将令牌值复制下来，因为您稍后会需要它。
 
-[![Okta create token page](../Images/793a0dea1bd431baa250cf5119c37cda.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j47owuuP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/flask-tutorial-simple-user-registration-and-login/okta-create-token-page-008a4364f7541ac93b9baf5d3b381ba889bd7188fd6101b19901f0cdf9821a6c.png)
+[![Okta create token page](img/793a0dea1bd431baa250cf5119c37cda.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j47owuuP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/flask-tutorial-simple-user-registration-and-login/okta-create-token-page-008a4364f7541ac93b9baf5d3b381ba889bd7188fd6101b19901f0cdf9821a6c.png)
 
 ### 第四步:启用用户注册
 
@@ -79,11 +79,11 @@ OpenID Connect 中的应用程序有一个用户名和密码(称为客户端 ID 
 
 在您的 Okta 仪表板中，您会注意到页面左上角有一个标有 **< >开发者控制台**的小按钮。将鼠标悬停在该按钮上，选择出现的**经典用户界面**菜单选项。
 
-[![Okta classic UI dropdown](../Images/b6bb70f2d6cbe58c012c062a986e8b24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hGlhVsrV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/flask-tutorial-simple-user-registration-and-login/okta-classic-ui-dropdown-249d1b924c3db38af5d62bf17be65a32579117d9d23c8c28cb7e365eba7d8f85.png)
+[![Okta classic UI dropdown](img/b6bb70f2d6cbe58c012c062a986e8b24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hGlhVsrV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/flask-tutorial-simple-user-registration-and-login/okta-classic-ui-dropdown-249d1b924c3db38af5d62bf17be65a32579117d9d23c8c28cb7e365eba7d8f85.png)
 
 接下来，将鼠标悬停在页面顶部的**目录**选项卡上，然后选择**自助注册**菜单项。在此页面上点击**启用注册**按钮。
 
-[![Okta enable self-service registration page](../Images/ed890f904a65739e310b7dcff6e625a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p20vDo0y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/flask-tutorial-simple-user-registration-and-login/okta-enable-self-service-registration-page-2cfef05884c196fa53bc7c55728c77437713fffa5d549e1874e18c2593825b1f.png)
+[![Okta enable self-service registration page](img/ed890f904a65739e310b7dcff6e625a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p20vDo0y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/flask-tutorial-simple-user-registration-and-login/okta-enable-self-service-registration-page-2cfef05884c196fa53bc7c55728c77437713fffa5d549e1874e18c2593825b1f.png)
 
 在配置页面上，将所有设置保留为默认值，只有两项除外:
 
@@ -92,7 +92,7 @@ OpenID Connect 中的应用程序有一个用户名和密码(称为客户端 ID 
 
 一旦你点击了**保存**，你需要做的最后一件事就是切换回开发者控制台。
 
-[![Okta self-service registration settings page](../Images/2554e18e28d1146d430f8e5ff0b4fdf9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cRYwVTf_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/flask-tutorial-simple-user-registration-and-login/okta-self-service-registration-settings-page-5b1f7922a1342ce35f0f876587e479660d0f51f6fa59d69b239a6d965da8dbf7.png)
+[![Okta self-service registration settings page](img/2554e18e28d1146d430f8e5ff0b4fdf9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cRYwVTf_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/flask-tutorial-simple-user-registration-and-login/okta-self-service-registration-settings-page-5b1f7922a1342ce35f0f876587e479660d0f51f6fa59d69b239a6d965da8dbf7.png)
 
 将鼠标悬停在页面右上角的**经典 UI** 按钮上，从下拉菜单中选择 **< >开发者控制台**菜单项。
 
@@ -341,7 +341,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 访问`http://localhost:5000`，你会看到你漂亮的新网站。
 
-[![app homepage](../Images/d1b3467b037488c5ce55321f26c98478.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--65Vz0Ezj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/flask-tutorial-simple-user-registration-and-login/app-homepage-22521e4e865fb034c4c49a14143bb699c5f4c467f8d08fcd077d16e4464c8942.png)
+[![app homepage](img/d1b3467b037488c5ce55321f26c98478.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--65Vz0Ezj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/flask-tutorial-simple-user-registration-and-login/app-homepage-22521e4e865fb034c4c49a14143bb699c5f4c467f8d08fcd077d16e4464c8942.png)
 
 ## 添加用户注册并登录到您的 Flask 应用程序
 
@@ -538,7 +538,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在你的应用已经完全构建好了，去测试一下吧！打开`http://localhost:5000`，创建账户，登录等。
 
-[![app usage](../Images/28fe245c27b69266951b8fe64e75b166.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iQLY6L1d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://developer.okta.com/assets/blog/flask-tutorial-simple-user-registration-and-login/app-usage-6f982cf53a06b2aa89c0981a861631ab066e0e474f9342b6161e8b06be4bd7d0.gif)
+[![app usage](img/28fe245c27b69266951b8fe64e75b166.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iQLY6L1d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://developer.okta.com/assets/blog/flask-tutorial-simple-user-registration-and-login/app-usage-6f982cf53a06b2aa89c0981a861631ab066e0e474f9342b6161e8b06be4bd7d0.gif)
 
 如你所见，构建一个 Flask 应用程序，包括用户注册、登录等。不一定很难！
 

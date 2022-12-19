@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/furkan_kalkan1/a-fully-automated-metadata-objects-with-python-37s-brand-new-dataclass-library-492i>
 
-[![metadata banner](../Images/fa34d2b0ea0f26a861bf66be6fc883ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3FeDjwf3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/05t7orypfsyow3vfm5lp.png)
+[![metadata banner](img/fa34d2b0ea0f26a861bf66be6fc883ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3FeDjwf3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/05t7orypfsyow3vfm5lp.png)
 
 Dataclass 是 Python 3.7 中一个全新的数据结构。最近，@btaskaya 写了一篇很棒的文章。如果你还没有读过，你可以在[这里](https://dev.to/btaskaya/dataclasses-in-python-4hli)阅读。
 

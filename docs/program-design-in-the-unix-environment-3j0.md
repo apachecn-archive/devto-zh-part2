@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/shubheksha/program-design-in-the-unix-environment-3j0>
 
-[![](../Images/090da9b3c9697d5f0692d5efb140fe2e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LM0bJI8r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AO-H_d2lDRBmnCgFG.jpg) 
+[![](img/090da9b3c9697d5f0692d5efb140fe2e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LM0bJI8r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AO-H_d2lDRBmnCgFG.jpg) 
 [功劳](http://www.adamalthus.com/blog/2013/04/04/the-composable-enterprise/)
 
 今天我们来看看 Pike 和 Kernighan 在 1983 年出版的《[Unix 环境下的程序设计](http://harmful.cat-v.org/cat-v/unix_prog_design.pdf)》一书。

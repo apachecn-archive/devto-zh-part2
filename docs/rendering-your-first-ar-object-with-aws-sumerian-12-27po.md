@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/wandererstudio/rendering-your-first-ar-object-with-aws-sumerian-12-27po>
 
-[![](../Images/21f3a6564d18ac741eccaf21da593fda.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6wwpzk70--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lnva5n1wd6lmq9edzstr.png)
+[![](img/21f3a6564d18ac741eccaf21da593fda.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6wwpzk70--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lnva5n1wd6lmq9edzstr.png)
 
 #### 什么是 AWS 苏美尔语？
 
@@ -22,7 +22,7 @@
 
 首先，前往你的 [AWS 控制台](https://console.aws.amazon.com/console/home)，在 **VR & AR** 部分，你会想要点击**亚马逊苏美尔**。这将提示一个新的标签启动，你应该被送到你的仪表板，现在我们准备开始！
 
-[![](../Images/2e3510ead8bfb88836f02256c1630426.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eCxoXbrs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x5f18ivvjg61ukiyag1l.png)
+[![](img/2e3510ead8bfb88836f02256c1630426.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eCxoXbrs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x5f18ivvjg61ukiyag1l.png)
 
 ##### 1。创建您的项目
 

@@ -2,13 +2,13 @@
 
 > 原文：<https://dev.to/ows_ali/my-first-experience-of-hacktoberfest-4abf>
 
-[![](../Images/77a0f58e00b6f767d577c4ded7a8fda2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kptyviQk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A6yIP3uJ_WYBQ0k60AzChaw.png) 
+[![](img/77a0f58e00b6f767d577c4ded7a8fda2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kptyviQk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A6yIP3uJ_WYBQ0k60AzChaw.png) 
 
 <figcaption>啤酒节后首发投稿</figcaption>
 
 我在 Yii 2 Twitter 群组上读到了关于 [Hacktoberfest](https://hacktoberfest.digitalocean.com) 的消息。从困惑到是不是关于黑客，到知道什么是 PR，开始贡献一点点，最后开放我自己的知识库 [ows-ali/Hacktoberfest](https://github.com/Hacktoberfest) 专门用于 Hacktoberfest。
 
-[![](../Images/08a87746bf1277ddb9ce01a18a5bd052.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MA__rm5G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ak3YWePugK1JR-Lw2LMgu8A.png)
+[![](img/08a87746bf1277ddb9ce01a18a5bd052.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MA__rm5G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ak3YWePugK1JR-Lw2LMgu8A.png)
 
 出乎我的意料，我的存储库得到了:
 
@@ -18,11 +18,11 @@
 
 还有这个
 
-[![](../Images/0145442a3b774f09c73654a94d95d9c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8pBMjgPD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/816/1%2AHFGBDLgTsyIF2kEILCJpxw.png)
+[![](img/0145442a3b774f09c73654a94d95d9c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8pBMjgPD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/816/1%2AHFGBDLgTsyIF2kEILCJpxw.png)
 
 最后，在 10 月 27 日，由于我已经完成了超过 5 个拉请求，我收到了电子邮件(我没有等到收到我的衬衫后写文章，因为我想尽快写下所有的记忆，以免它们变得模糊)
 
-[![](../Images/d75935ce5c811b94b46ddb69a13c5a45.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pEc9xxw8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/551/1%2AAM0zM0y2YhR46qL4DWS8Lw.png)
+[![](img/d75935ce5c811b94b46ddb69a13c5a45.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pEc9xxw8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/551/1%2AAM0zM0y2YhR46qL4DWS8Lw.png)
 
 ### 学习 Github
 
@@ -60,19 +60,19 @@ medium.com/@owaisali.cs/path-to-learning-git-and-github-be 93518 e 06 DC
 
 由此可知:
 
-[![](../Images/3a3e8167de955c9d1bb9ee04db168b5f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xS73HyVB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/758/1%2AaxDLszVPKgB6ELiBlNp8yg.png) 
+[![](img/3a3e8167de955c9d1bb9ee04db168b5f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xS73HyVB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/758/1%2AaxDLszVPKgB6ELiBlNp8yg.png) 
 
 <figcaption>投稿人 v1</figcaption>
 
 对此:
 
-[![](../Images/b4d2a46c883ef5d4c48ec3fd99ca11a1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--arSz0G4d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/753/1%2AnhJYURXXeJTO4Gny4CtItQ.png) 
+[![](img/b4d2a46c883ef5d4c48ec3fd99ca11a1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--arSz0G4d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/753/1%2AnhJYURXXeJTO4Gny4CtItQ.png) 
 
 <figcaption>投稿人 v2</figcaption>
 
 最后是这个:
 
-[![](../Images/e0a60d5602b8344f072494755efd99b2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6HPP0oAr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/808/1%2A2n5ITSpAHuuSvKYeDFFJiA.png) 
+[![](img/e0a60d5602b8344f072494755efd99b2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6HPP0oAr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/808/1%2A2n5ITSpAHuuSvKYeDFFJiA.png) 
 
 <figcaption>投稿人 v3</figcaption>
 

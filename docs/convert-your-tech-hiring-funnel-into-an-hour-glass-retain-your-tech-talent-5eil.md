@@ -4,7 +4,7 @@
 
 有时候我觉得我们十年前创办的软件公司( [YIPL](http://yipl.com.np) )正在变成软件工程师工厂。我们接收应届毕业生或初级软件工程师，培训他们，指导他们。当他们在 6-9 个月后获得技能并准备好为公司效力时，他们会去一家更大更好的软件公司。这是加德满都理工现场的一个典型故事。
 
-[![](../Images/535cfe4042426332898b770d9e9302eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mRWJJYPk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2Aw05K6OPYMYF9vT5b.jpg)
+[![](img/535cfe4042426332898b770d9e9302eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mRWJJYPk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2Aw05K6OPYMYF9vT5b.jpg)
 
 我并不是在指责人们在科技行业跳槽，但我认为，流程和系统本身存在根本性缺陷。在这篇博文中，我将为加德满都的一些科技初创公司揭开一个科技招聘漏斗。它还将包含我对如何通过将漏斗转换为沙漏来留住科技人才的一些想法。
 

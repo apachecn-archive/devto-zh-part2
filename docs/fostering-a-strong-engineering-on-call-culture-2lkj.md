@@ -14,7 +14,7 @@
 
 ### 随叫随到@按钮
 
-[![](../Images/a249cbb240d9f6e768c0d7aa0d9dd86f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nTaQz017--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2APxmY0TuA2HTCV1ejeb2jFQ.png) 
+[![](img/a249cbb240d9f6e768c0d7aa0d9dd86f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nTaQz017--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2APxmY0TuA2HTCV1ejeb2jFQ.png) 
 
 <figcaption>按钮的随叫随到贴纸，由【】黄</figcaption>
 
@@ -74,7 +74,7 @@
 
 **我们的警报理念**
 
-[![](../Images/21ac9ca5be85c4fb0a169c14cd7cd5ba.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gJXRgxsk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/400/0%2AFweGYZBacA5ad9SX.png) 
+[![](img/21ac9ca5be85c4fb0a169c14cd7cd5ba.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gJXRgxsk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/400/0%2AFweGYZBacA5ad9SX.png) 
 
 <figcaption>普罗米修斯标志</figcaption>
 
@@ -86,7 +86,7 @@
 
 团队中的任何工程师都有权添加或删除警报，但所有警报都应该**可操作**，**必须有剧本**。我们的行动手册旨在简明扼要，描述当警报触发时可以采取的具体行动。每个剧本条目都包含对业务影响的简要描述、有用的 bash 命令以及到适当仪表板的链接。我们的目标是让任何工程师，不管他们有多少背景知识，都能够使用行动手册中的信息来快速诊断问题。
 
-[![](../Images/e93e381a78a713970dbc85a4fa68c64a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0pGNu-TZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/764/0%2AI92vvb4EnJPrKAH6.png)
+[![](img/e93e381a78a713970dbc85a4fa68c64a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0pGNu-TZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/764/0%2AI92vvb4EnJPrKAH6.png)
 
 为了跟踪我们的警报是否真正可行，我们从数据科学中借用了一些概念，并测量我们的警报的[精度和召回](https://en.wikipedia.org/wiki/Precision_and_recall)。在这种情况下，precision 指的是发出的可操作警报的百分比，recall 指的是我们的警报通知我们的可操作事件的百分比。当精度较低时，我们会评估是否应禁用或修改特定警报，以便在较低的阈值触发。当回忆率较低时，我们会尝试看看是否有更好的信号来衡量我们应该做出反应的实际症状。
 

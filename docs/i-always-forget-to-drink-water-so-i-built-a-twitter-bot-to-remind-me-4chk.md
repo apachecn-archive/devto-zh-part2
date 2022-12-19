@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jjjjcccjjf/i-always-forget-to-drink-water-so-i-built-a-twitter-bot-to-remind-me-4chk>
 
-[![](../Images/c8d9bad697a732861485486066bb64ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f4weE3WW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AfSpHXKrUknfz7-qRi5L6_Q.png)
+[![](img/c8d9bad697a732861485486066bb64ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f4weE3WW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AfSpHXKrUknfz7-qRi5L6_Q.png)
 
 这些天我总是很难保持水分…尤其是在家的时候。几个小时，我全神贯注于一本书，忘了喝水。这导致我的皮肤和嘴唇变得更加干燥。最近，我追随了许多机器人来帮助我构建世界。将这两个想法结合在一起，我想*为什么不造一个机器人来提醒我喝水呢？*
 
@@ -24,7 +24,7 @@
 
 然后砰！这是我的机器人的 *hello world* tweet。
 
-<figure>[![](../Images/2fab962a8c9e975ff4af74a44a2999dd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--S9NeFk8K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A5G_hCeN4ee0zK3pHR9ZNKQ.png) 
+<figure>[![](img/2fab962a8c9e975ff4af74a44a2999dd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--S9NeFk8K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A5G_hCeN4ee0zK3pHR9ZNKQ.png) 
 
 <figcaption>工作示例✨</figcaption>
 
@@ -37,13 +37,13 @@
 
 我没有真正按照我的清单去做，而是首先从部署过程开始，然后在本地构建我的句子生成器。这里有一些有趣的句子！
 
-[![](../Images/866495ad2de4080fa509476831220d11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cLtltt8p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/587/1%2AbarJMouX64HY8RtUNkkaRQ.png)
+[![](img/866495ad2de4080fa509476831220d11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cLtltt8p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/587/1%2AbarJMouX64HY8RtUNkkaRQ.png)
 
-[![](../Images/5d37d142d17d493280e4d85914a992a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RbPZurfj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/583/1%2AZXzSmQtKuFAPo_leDdoopw.png)
+[![](img/5d37d142d17d493280e4d85914a992a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RbPZurfj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/583/1%2AZXzSmQtKuFAPo_leDdoopw.png)
 
 第二个教程利用了 Heroku 的插件。我使用了一个调度程序插件，每小时运行一次脚本(而不是最初计划的 3 小时)，仅此而已。
 
-<figure>[![](../Images/a7f349b81870e5b847ebe41702c06b56.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--U3Ts-s_5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/540/1%2As6IXG8GsLSgq7jTJy22lhg.png) 
+<figure>[![](img/a7f349b81870e5b847ebe41702c06b56.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--U3Ts-s_5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/540/1%2As6IXG8GsLSgq7jTJy22lhg.png) 
 
 <figcaption>我的初始截屏</figcaption>
 

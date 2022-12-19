@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/fabiorosado/weather-app-using-vue-and-axios-4ia6>
 
-[![Weather App](../Images/e1d696b95b8cc801708e51d84ec3ba65.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qNuVDPOx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tqby077qjt8g6z8smqcv.jpg) 
+[![Weather App](img/e1d696b95b8cc801708e51d84ec3ba65.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qNuVDPOx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tqby077qjt8g6z8smqcv.jpg) 
 *我花了相当多的时间来写这个教程，主要是我写博客来确保我正确地学到了一些东西。这是从我的[个人博客](http://fabiorosado.co.uk)发来的帖子，我希望你喜欢这个教程，我渴望得到你的反馈！*
 
 * * *

@@ -40,10 +40,10 @@
 
 在窗口或终端标签之间切换也有助于反馈回路。在 IDE 中显示测试或类型检查的结果很好，不需要切换到不同的窗口，也不需要显式运行一些命令。例如，在 [vscode-jest](https://github.com/jest-community/vscode-jest) 中，它们内联显示每个测试的状态
 
-[![](../Images/fc353d784e087d1457833b2e24abde1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0ytQE-nj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2xh5hp6e8h77yn09nj25.jpg)
+[![](img/fc353d784e087d1457833b2e24abde1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0ytQE-nj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2xh5hp6e8h77yn09nj25.jpg)
 
 例如，Chrome Developer tools 会在您按 enter 键之前计算表达式
 
-[![](../Images/dfc6ba731fab18ca574a5128215ced23.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DTm8Ggmq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dhuh7e8ici2ujhuh2rib.png)
+[![](img/dfc6ba731fab18ca574a5128215ced23.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DTm8Ggmq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dhuh7e8ici2ujhuh2rib.png)
 
 *奥利弗·黑尔在 Unsplash 上拍摄的照片*

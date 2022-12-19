@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/flexdinesh/react-redux-boilerplate-with-best-practices--2pp5>
 
-[![React-Redux Boilerplate](../Images/15b22419e68c49ca4aa0611da4c423c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TPwJ7wut--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/flexdinesh/react-redux-boilerplate/master/app/components/Header/images/banner.jpg)
+[![React-Redux Boilerplate](img/15b22419e68c49ca4aa0611da4c423c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TPwJ7wut--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/flexdinesh/react-redux-boilerplate/master/app/components/Headimg/banner.jpg)
 
 *TL；博士:有一个惊人的[反应-Redux 样板](https://github.com/flexdinesh/react-redux-boilerplate)。这篇文章是基于我在创建它时学到的东西。*
 

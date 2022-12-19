@@ -1392,7 +1392,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当 Travis 第一次运行这个脚本时，您可能会看到如下所示的错误。
 
-[![Travis failure](../Images/9e81350d361fbf4c266d71671ac62a3a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VjlZVjrx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/cryptocurrency-pwa-java-sdk-testing/travis-required-keys-3744e30473b6ea6022ced9cc2d15103c2fc37431647d63bb737e8c4f944827ef.png)
+[![Travis failure](img/9e81350d361fbf4c266d71671ac62a3a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VjlZVjrx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/cryptocurrency-pwa-java-sdk-testing/travis-required-keys-3744e30473b6ea6022ced9cc2d15103c2fc37431647d63bb737e8c4f944827ef.png)
 
 这是因为没有设置`E2E_USERNAME`和`E2E_PASSWORD`环境变量。Travis 使得[设置加密的环境变量](https://docs.travis-ci.com/user/environment-variables/#Defining-encrypted-variables-in-.travis.yml)变得很容易。执行以下步骤为您的构建设置这些。
 
@@ -1410,7 +1410,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 你可以在下面的截图中看到一个[成功构建的](https://travis-ci.org/oktadeveloper/okta-ionic-crypto-java-sdk-example/builds/371729753)。
 
-[![Travis success](../Images/0a30927d36bd51572f19194e4d323ced.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ltMnEX4N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/cryptocurrency-pwa-java-sdk-testing/travis-success-cf2671318148bc1f84835c62db80c934879229e19039706d9f193dba2bde0e7f.png)
+[![Travis success](img/0a30927d36bd51572f19194e4d323ced.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ltMnEX4N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/cryptocurrency-pwa-java-sdk-testing/travis-success-cf2671318148bc1f84835c62db80c934879229e19039706d9f193dba2bde0e7f.png)
 
 关于添加 Travis 配置的 pull 请求，请参见[okta-ionic-crypto-Java-SDK-example # 4](https://github.com/oktadeveloper/okta-ionic-crypto-java-sdk-example/pull/4)。
 
@@ -1485,7 +1485,7 @@ id 为`jacoco-merge-report`的最后一位合并了 UT，它报告创建了一�
 
 对于事物的棱角方面，Jest 有内置的代码覆盖。你只需要跑`npm run test:coverage`。你可以从下面的截图中看到，仍然有几个页面需要更多的测试。
 
-[![Jest coverage](../Images/f55995546c8349b2f9728726039bebbf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cJc2TA9R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/cryptocurrency-pwa-java-sdk-testing/jest-coverage-0edf67f79e80d18ef5538b05ec21d66a52edd81ac2adaadc51371faa851df88b.png)
+[![Jest coverage](img/f55995546c8349b2f9728726039bebbf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cJc2TA9R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/cryptocurrency-pwa-java-sdk-testing/jest-coverage-0edf67f79e80d18ef5538b05ec21d66a52edd81ac2adaadc51371faa851df88b.png)
 
 [伊斯坦布尔](https://istanbul.js.org/)是 JavaScript 生态系统中另一个受欢迎的代码覆盖工具。是 Angular CLI 用的[。如果您在 Angular CLI 生成的项目中，从项目的根目录运行`ng test --sr --cc`以在`coverage/index.html`中生成报告。](https://github.com/angular/angular-cli/blob/master/docs/documentation/stories/code-coverage.md)
 
@@ -1541,7 +1541,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Codecov report](../Images/3eb99af0d8997994d0a79e1e2a46e87e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TGDD_9mZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/cryptocurrency-pwa-java-sdk-testing/codecov-report-a80586a7f60ad4f45266500f6bdc0717f18947c85fa676f85836398c498f66ae.png)
+[![Codecov report](img/3eb99af0d8997994d0a79e1e2a46e87e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TGDD_9mZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/cryptocurrency-pwa-java-sdk-testing/codecov-report-a80586a7f60ad4f45266500f6bdc0717f18947c85fa676f85836398c498f66ae.png)
 
 **提示:** Codecov [允许您在代码中添加`unittests`、`integration`和`ui`标志](https://docs.codecov.io/docs/flags)来对测试类型进行分组。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/joshghent/networking-at-tech-meetups-1i3g>
 
-<figure>[![](../Images/5e42e3bef47cb711e0a3b5ed95a4cb1e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qudq8NvX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AtDl8t04Zy57DqXRR) 
+<figure>[![](img/5e42e3bef47cb711e0a3b5ed95a4cb1e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qudq8NvX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AtDl8t04Zy57DqXRR) 
 
 <figcaption>图片由[马文·梅耶](https://unsplash.com/photos/SYTO3xs06fU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)上传 [Unsplash](https://unsplash.com/collections/2037290/team-from-above?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 

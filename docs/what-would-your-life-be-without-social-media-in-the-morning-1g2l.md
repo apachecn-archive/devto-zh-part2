@@ -25,17 +25,17 @@
 
 我的好友 Pavneet 从[用同理心编码](https://codingwithempathy.com/)发了以下微博:
 
-> ![](../Images/32c57142e8d01884e2fa73af56c21f82.png)帕夫内特·辛格·索德🚀@ pavsaund![](../Images/4d9c44713c216584b3d48ff3455cbb68.png)我注意到当我在早上避开社交媒体和电子邮件时，我有更强的存在感和平静感。2018 年 4 月 10 日上午 04:37[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=983564693255094274)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=983564693255094274)1[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=983564693255094274)11
+> ![](img/32c57142e8d01884e2fa73af56c21f82.png)帕夫内特·辛格·索德🚀@ pavsaund![](img/4d9c44713c216584b3d48ff3455cbb68.png)我注意到当我在早上避开社交媒体和电子邮件时，我有更强的存在感和平静感。2018 年 4 月 10 日上午 04:37[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=983564693255094274)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=983564693255094274)1[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=983564693255094274)11
 
 第二天我试了一下，几乎立刻就有了结果:
 
-> ![](../Images/2ff06b0b3b74bb4a2e2bd7c693552b0d.png)何塞·冈萨雷斯@ Jose gonz 321![](../Images/4d9c44713c216584b3d48ff3455cbb68.png)[@ pav saund](https://twitter.com/pavsaund)诶。今天早上我没去，因为我跑步迟到了。我确实感觉更现实、更平和🙂
+> ![](img/2ff06b0b3b74bb4a2e2bd7c693552b0d.png)何塞·冈萨雷斯@ Jose gonz 321![](img/4d9c44713c216584b3d48ff3455cbb68.png)[@ pav saund](https://twitter.com/pavsaund)诶。今天早上我没去，因为我跑步迟到了。我确实感觉更现实、更平和🙂
 > 
-> (昨晚我也调解了 30 多分钟，所以可能也有帮助)2018 年 4 月 10 日下午 13:23[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=983696879790821376)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=983696879790821376)0[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=983696879790821376)1
+> (昨晚我也调解了 30 多分钟，所以可能也有帮助)2018 年 4 月 10 日下午 13:23[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=983696879790821376)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=983696879790821376)0[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=983696879790821376)1
 
 第二天继续
 
-> ![](../Images/2ff06b0b3b74bb4a2e2bd7c693552b0d.png)@ Jose gonz 321![](../Images/4d9c44713c216584b3d48ff3455cbb68.png)嘿 [@pavsaund](https://twitter.com/pavsaund) ，今天我继续了早上第一件事不看邮件或社交媒体的练习。它创造了奇迹😄2018 年 4 月 11 日下午 14:49[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=984080890967060480)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=984080890967060480)1[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=984080890967060480)4
+> ![](img/2ff06b0b3b74bb4a2e2bd7c693552b0d.png)@ Jose gonz 321![](img/4d9c44713c216584b3d48ff3455cbb68.png)嘿 [@pavsaund](https://twitter.com/pavsaund) ，今天我继续了早上第一件事不看邮件或社交媒体的练习。它创造了奇迹😄2018 年 4 月 11 日下午 14:49[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=984080890967060480)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=984080890967060480)1[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=984080890967060480)4
 
 ## 知己知彼
 
@@ -94,11 +94,11 @@
 *   匆忙的
 *   心烦意乱的
 
-> ![](../Images/2ff06b0b3b74bb4a2e2bd7c693552b0d.png)@ Jose gonz 321![](../Images/4d9c44713c216584b3d48ff3455cbb68.png)[@ pav saund](https://twitter.com/pavsaund)我这样做了 10 天了。早上感觉不那么焦虑和紧张让我更享受当下。
+> ![](img/2ff06b0b3b74bb4a2e2bd7c693552b0d.png)@ Jose gonz 321![](img/4d9c44713c216584b3d48ff3455cbb68.png)[@ pav saund](https://twitter.com/pavsaund)我这样做了 10 天了。早上感觉不那么焦虑和紧张让我更享受当下。
 > 
 > 简单的变化伴随着巨大的奖励🙂
 > 
-> [# fridayfeeling](https://twitter.com/hashtag/FridayFeeIing)[twitter.com/JoseGonz321/st…](https://t.co/0zrYp8QNPI)下午 15:08-2018 年 4 月 20 日何塞·冈萨雷斯 @JoseGonz321早上第一件事不要看你的邮件或社交媒体。感谢@ pavsaund # Wednesday wisdom[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=987347375759994880)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=987347375759994880)1[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=987347375759994880)4
+> [# fridayfeeling](https://twitter.com/hashtag/FridayFeeIing)[twitter.com/JoseGonz321/st…](https://t.co/0zrYp8QNPI)下午 15:08-2018 年 4 月 20 日何塞·冈萨雷斯 @JoseGonz321早上第一件事不要看你的邮件或社交媒体。感谢@ pavsaund # Wednesday wisdom[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=987347375759994880)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=987347375759994880)1[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=987347375759994880)4
 
 这是一个伟大的旅程，有意想不到的和巨大的直接结果。
 

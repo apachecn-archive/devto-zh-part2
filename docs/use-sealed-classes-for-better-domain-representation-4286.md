@@ -76,7 +76,7 @@ class LessUglyTask private constructor(
 
 这个实现稍微好一点，因为它帮助开发人员更快地理解任务分配背后的逻辑
 
-[![less-ugly-task-creation.png](../Images/c6296977b73d6089994d81dad890a05a.png)T2】](https://postimg.cc/Hc7TC5gw)
+[![less-ugly-task-creation.png](img/c6296977b73d6089994d81dad890a05a.png)T2】](https://postimg.cc/Hc7TC5gw)
 
 但是它也有一些缺点，首先是当编写类似上面的函数时..您实际上以所有必要的空检查结束:
 

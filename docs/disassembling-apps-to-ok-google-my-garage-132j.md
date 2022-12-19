@@ -6,7 +6,7 @@
 
 这很有趣，包括窥探 HTTPS 和摸索安卓字节码。如果你想学习一点逆向工程，请继续阅读！
 
-[![Super low quality GIF of opening my garage](../Images/1173529a687b1d841b78adda5b09ae9d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GJyGel0w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1qky48mrdl465rtt0b9c.gif)
+[![Super low quality GIF of opening my garage](img/1173529a687b1d841b78adda5b09ae9d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GJyGel0w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1qky48mrdl465rtt0b9c.gif)
 
 > ⚠️这个帖子是关于逆向工程的过程，它只是为了教育的目的。我也没有在这篇文章中指明任何供应商或者提供源代码。我不纵容也不赞同这种行为。😅
 
@@ -29,7 +29,7 @@
 5️⃣这连接到我家的物理互联网连接控制器(来自供应商)
 6️⃣控制器在专有频率上广播，让“哑”马达执行动作
 
-[![The seven steps needed to open a garage door](../Images/457d37b6aa7b987fc123c18c4e0bc5ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mfgJsF4T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ti8kcixc8v9i63d5clbh.png)
+[![The seven steps needed to open a garage door](img/457d37b6aa7b987fc123c18c4e0bc5ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mfgJsF4T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ti8kcixc8v9i63d5clbh.png)
 
 这是自动化一个简单任务的许多步骤。但是，从我讲话到门打开或关闭，不超过几秒钟。我也不介意在线部分——我对离线不感兴趣，因为谷歌的识别器不是为离线工作而设计的。
 
@@ -39,7 +39,7 @@
 
 我的大部分工作是在🛠️对车库门公司的 Android 应用程序进行逆向工程，以及它如何与物理控制器对话——正如我上面提到的那样，工作正常，但对我来说太复杂了。
 
-[![Garage door and controller](../Images/d1ff27d30658f1cd546f95af2ec4552b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zia-V1tK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1q0iirclyqjkhd8gzbh0.jpg)
+[![Garage door and controller](img/d1ff27d30658f1cd546f95af2ec4552b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zia-V1tK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1q0iirclyqjkhd8gzbh0.jpg)
 
 <center><small>The controller device from the vendor, which bridges the vendor's API and the dumb motor next to it</small></center>
 
@@ -316,7 +316,7 @@ App Engine 非常适合小型 HTTP 服务器——对小型项目基本免费，
 
 当您用 HTTP POST 点击它时，它会对供应商的 API 进行登录/请求。它看起来有点像:
 
-[![Diagram of HTTP requests](../Images/499214b418da43999bd7d3d33b7cd043.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jHZ4f1y0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b37352wfkb8ykjdhe0me.png)
+[![Diagram of HTTP requests](img/499214b418da43999bd7d3d33b7cd043.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jHZ4f1y0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b37352wfkb8ykjdhe0me.png)
 
 我的应用程序引擎后端知道点击供应商的 API 所需的帐户。但是我要求 HTTP 调用方知道“秘密”——所以任何发现这个 API 的人都不能随便打开我的车库门(想象一个@OpenMyGarageDoor Twitter bot)。
 
@@ -324,7 +324,7 @@ App Engine 非常适合小型 HTTP 服务器——对小型项目基本免费，
 
 IFTTT 允许你设置自定义的“小程序”在某些[谷歌助手](https://ifttt.com/google_assistant)触发器上运行。这就是我如何使用这扇门的。
 
-[![IFTTT applet](../Images/48c5c4b21ae2e6f27618adc3ad68ea4d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lbnQf1Pw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/81lawdz3u19fnc3c5m36.png)
+[![IFTTT applet](img/48c5c4b21ae2e6f27618adc3ad68ea4d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lbnQf1Pw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/81lawdz3u19fnc3c5m36.png)
 
 这个小程序非常简单——我设置了许多语音命令，比如“打开车库”,它们调用一个 HTTP 端点。然而，这种 IFTTT 集成的一个挑战是，IFTTT 将总是说预先设定的响应，例如，“是的，我正在开门！”— *甚至*如果 HTTP 请求失败。似乎没有办法通过 IFTTT 真正传播错误。🚨👎
 

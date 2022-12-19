@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/franken/the-best-length-of-prestashop-meta-description-updated-4lce>
 
-[![The best length of Prestashop meta description (updated)](../Images/06acb4514a94ac8cca3030a2c1a329f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fVAKvjKj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.com/images/stories/the-best-length-of-prestashop-meta-description-length.jpg)
+[![The best length of Prestashop meta description (updated)](img/06acb4514a94ac8cca3030a2c1a329f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fVAKvjKj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.cimg/stories/the-best-length-of-prestashop-meta-description-length.jpg)
 
 坏消息！我说过你可以写 300 个字符的元描述，但是现在已经不正确了。一切都变了！
 

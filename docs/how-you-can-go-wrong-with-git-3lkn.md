@@ -20,7 +20,7 @@ Git 有惊人的特性，对开发者很有帮助。但是在使用 git 的时�
 
 <figure>
 
-[![Force Push](../Images/5155206687b6b51e46bcc3e0e40bc410.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rtfRl87Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5t4vq13p9xgt701qvl3s.jpg)
+[![Force Push](img/5155206687b6b51e46bcc3e0e40bc410.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rtfRl87Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5t4vq13p9xgt701qvl3s.jpg)
 
 <figcaption>Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unsplash](https://unsplash.com)</figcaption>
 
@@ -46,7 +46,7 @@ Git 有惊人的特性，对开发者很有帮助。但是在使用 git 的时�
 
 <figure>
 
-[![Remote Rebase](../Images/0f6d184c07305397985f40cfc13449f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6e7GlMHz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gz3z0y2f8z24cbrp6vp7.jpg)
+[![Remote Rebase](img/0f6d184c07305397985f40cfc13449f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6e7GlMHz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gz3z0y2f8z24cbrp6vp7.jpg)
 
 <figcaption>"green, red, and white high voltage circuit breaker" by [Ben Hershey](https://unsplash.com/@benhershey) on [Unsplash](https://unsplash.com)</figcaption>
 
@@ -74,7 +74,7 @@ Rebase 是一个非常强大的功能，但是要小心使用。
 
 <figure>
 
-[![Amending commirts in remote repository](../Images/51cb245a0df5294c92f9d9723f02bdf5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GHPpIfpW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mvxftfniai5plz7xqha0.jpg)
+[![Amending commirts in remote repository](img/51cb245a0df5294c92f9d9723f02bdf5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GHPpIfpW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mvxftfniai5plz7xqha0.jpg)
 
 <figcaption>"broken ceramic plate on floor" by [chuttersnap](https://unsplash.com/@chuttersnap) on [Unsplash](https://unsplash.com)</figcaption>
 
@@ -97,7 +97,7 @@ Rebase 是一个非常强大的功能，但是要小心使用。
 
 <figure>
 
-[![Hard reset](../Images/2a6efa29dff3765e559c2087177455c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--87tbMTD2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h15umwlormnigs6uoczw.jpg)
+[![Hard reset](img/2a6efa29dff3765e559c2087177455c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--87tbMTD2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h15umwlormnigs6uoczw.jpg)
 
 <figcaption>"clear hour glass beside pink flowers" by [Nathan Dumlao](https://unsplash.com/@nate_dumlao) on [Unsplash](https://unsplash.com)</figcaption>
 
@@ -119,7 +119,7 @@ Commit 5 仍然在 git 内部，但是对它的引用丢失了。我们可以使
 
 <figure>
 
-[![How to know what are the bad practises while using git](../Images/68a45b80ca22d158a3ebdac126f3dc25.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--poe5kjAz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4lqyaltoyrn5oocidxxz.jpg)
+[![How to know what are the bad practises while using git](img/68a45b80ca22d158a3ebdac126f3dc25.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--poe5kjAz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4lqyaltoyrn5oocidxxz.jpg)
 
 <figcaption>"question mark neon signage" by [Emily Morter](https://unsplash.com/@emilymorter) on [Unsplash](https://unsplash.com)</figcaption>
 

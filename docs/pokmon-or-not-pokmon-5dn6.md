@@ -22,25 +22,25 @@
 *   *第四个实行店铺制；*
 *   当我为每一个物体，一个战斗系统，一个寻路算法，一张地图和一个地图创建者创建类的时候。
 
-[![Login](../Images/00de71d61096157b04bef19820a57bf1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SvAx-vFD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/il2cicc1t4yt2fp40axi.PNG)
+[![Login](img/00de71d61096157b04bef19820a57bf1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SvAx-vFD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/il2cicc1t4yt2fp40axi.PNG)
 
 登录后，你会看到一个信息屏幕，让你选择一个神奇宝贝等等...如果你已经做到这一步，这意味着你可以阅读，我不需要列出所有的按钮。
 
-[![Info](../Images/86ce07bd954edc46637dbe9482e5b5e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lWVIL9pb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h47cgjw29a8g0wy0qygz.PNG)
+[![Info](img/86ce07bd954edc46637dbe9482e5b5e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lWVIL9pb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h47cgjw29a8g0wy0qygz.PNG)
 
 在*【开始游戏】*之后是下一个大的步骤。你会看到一个地图对话框，里面有一个玩家角色，一些敌人和障碍物，比如树。因为我们想实现一些很酷的算法，所以我们选择在屏幕上双击鼠标，而不仅仅是用箭头键来移动。然后，它使用 A*路径查找算法来查找您当前位置和点击位置之间的路线，避开路上的障碍物。
 
-[![Map With Picture](../Images/78bb3f90a2067df2fcd3dc1ba295910d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--laMCrfKN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/olpwx9xoa9at6hu6wrr3.png)
+[![Map With Picture](img/78bb3f90a2067df2fcd3dc1ba295910d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--laMCrfKN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/olpwx9xoa9at6hu6wrr3.png)
 
 在图片覆盖的下面，画有允许越过障碍物的边界。我们用一个 *Shift* 键切换图片，看看奇迹发生了。
 
-[![Map with Obstacles](../Images/c207ce5b6b0fee09b748429adbb6fba9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lJ8n-b2o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gjt0ggac0fi1jcl7p5fi.PNG)
+[![Map with Obstacles](img/c207ce5b6b0fee09b748429adbb6fba9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lJ8n-b2o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gjt0ggac0fi1jcl7p5fi.PNG)
 
 我做了一个绘图系统，我在这里说的是这个系统。所以你可以选择画笔，按住鼠标左键进行绘制，或者用鼠标右键进行擦除。然后，通过指定一个唯一的名称将地图保存在本地，并将其转换为一个*。txt* 文件，包含每个彩色块及其颜色。效率不高，但是很好理解。
 
 这是 A*算法如何工作的简单演示。它能相当快地找到足够好的路线，这正是我们在游戏中需要的。
 
-[![A Star](../Images/bc310fe1ed2997a5331cb6afa3f5f8bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r18g5UJi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5t0o6cjblypt3g990xl9.png)
+[![A Star](img/bc310fe1ed2997a5331cb6afa3f5f8bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r18g5UJi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5t0o6cjblypt3g990xl9.png)
 
 点击这里查看更多关于 A*实现的信息。
 

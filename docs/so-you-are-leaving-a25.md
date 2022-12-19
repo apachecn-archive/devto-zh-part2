@@ -8,7 +8,7 @@
 
 因此，你的通知期即将结束，你准备好迎接下一个挑战，并想知道如何利用你即将离开老东家的时间。
 
-[![Alt text of image](../Images/ecbe89b64eb94504a6c0948c653bc497.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SCNNOTN_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nsqrjxecpepgz9c4ih3p.jpg)
+[![Alt text of image](img/ecbe89b64eb94504a6c0948c653bc497.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SCNNOTN_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nsqrjxecpepgz9c4ih3p.jpg)
 
 ## 传播知识
 
@@ -34,7 +34,7 @@
 
 任何和你相处融洽的同事，确保你有他们的联系方式，你永远不知道他们可能会帮你获得未来的机会。我要去的那份工作是一个以前的同事推荐给我的，我相信他对公司是否聘用我有一定的影响力。
 
-[![Reference](../Images/ec107714ff1e44bda98bb0308fb6e275.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QpzTDJ0O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.limerickleader.ie/resizer/750/563/true/GN4_DAT_8142238.jpg--best_keep_it_vague_with_a_tricky_reference_request.jpg)
+[![Reference](img/ec107714ff1e44bda98bb0308fb6e275.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QpzTDJ0O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.limerickleader.ie/resizer/750/563/true/GN4_DAT_8142238.jpg--best_keep_it_vague_with_a_tricky_reference_request.jpg)
 
 ## 获取引用
 

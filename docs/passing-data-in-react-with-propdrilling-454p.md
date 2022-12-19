@@ -4,7 +4,7 @@
 
 * * *
 
-[![Drill](../Images/1d78561a4f6a818cf2cda331496f4273.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bNKSD4st--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m24vqp67i5vunluip6uy.jpg)
+[![Drill](img/1d78561a4f6a818cf2cda331496f4273.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bNKSD4st--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m24vqp67i5vunluip6uy.jpg)
 
 React 生态系统提供了在客户端应用程序中传递数据和管理状态的多种方式。开发人员可能会根据他们正在开发的应用程序的大小和复杂性，在 prop drilling、redux、MobX 和 React 16 中引入的新上下文 API 之间进行选择。
 
@@ -72,7 +72,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在上面的例子中，祖母组件管理应用程序的状态。它在其状态中保存了 lastName 属性。子组件显示姓氏。在这种情况下，孩子只知道姓氏，因为道具已经通过组件树从祖母传递(钻取)到母亲再到孩子。这就像一场电话游戏。
 
-[![Family](../Images/a1fb2e588e5660d745af19c966e473f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SOIfjV4G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ztx3uqe9w44q12c7oytz.jpg)
+[![Family](img/a1fb2e588e5660d745af19c966e473f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SOIfjV4G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ztx3uqe9w44q12c7oytz.jpg)
 
 正确钻取的主要好处是，即使状态发生变化，它也会用新的状态更新它的所有子节点。例如，如果祖母移民到美国，移民官把她的姓从桑切斯改成了史密斯。
 

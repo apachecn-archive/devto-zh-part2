@@ -28,7 +28,7 @@ z [*-chlrtx*] [*regex1 regex2 ... regexn*]
 
 工作得如此之好是因为这个目录列表是根据作者所说的“频率”排序的(这个术语显然是由 Firefox 开发者创造的，如果你有更多的信息，请告诉我！)结合了*频率*:你花在一个目录上的时间和*新近度*:你最近在一个目录上的时间。
 
-<figure>[![A bash session using `z` on the left, the flat file database on the right, notice how it gets updated everytime a directory is visited.](../Images/df635c90b24cba5362c71b732906a29f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fmJAQGQR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/4419992/38288175-64e10660-37a5-11e8-83b4-665b657adfc8.gif) 
+<figure>[![A bash session using `z` on the left, the flat file database on the right, notice how it gets updated everytime a directory is visited.](img/df635c90b24cba5362c71b732906a29f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fmJAQGQR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/4419992/38288175-64e10660-37a5-11e8-83b4-665b657adfc8.gif) 
 
 <figcaption>
  *会话左边使用 z，右边使用平面文件数据库:注意每次访问目录时它是如何更新的。* 

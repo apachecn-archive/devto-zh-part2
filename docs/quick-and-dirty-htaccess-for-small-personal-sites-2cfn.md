@@ -53,7 +53,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <figure>
 
-[![Animated radioactivity symbol with text reading "WARNING DO NOT HOTLINK IMAGES AND STEAL BANDWIDTH beneath](../Images/b95f648b9794d03b59ddc5d09fa11f8a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IJfaoeOQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://imgur.com/ZtXiCBw.gif)
+[![Animated radioactivity symbol with text reading "WARNING DO NOT HOTLINK IMAGES AND STEAL BANDWIDTH beneath](img/b95f648b9794d03b59ddc5d09fa11f8a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IJfaoeOQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://imgur.com/ZtXiCBw.gif)
 
 <figcaption>Anyone who runs into this enough will learn quickly to stop stealing bandwidth from you :)</figcaption>
 

@@ -6,7 +6,7 @@
 
 最初发表于[媒体](https://medium.com/@zimareff/deploy-gitlab-ce-on-a-new-azure-kubernetes-cluster-9251100df5d7)。
 
-[![](../Images/3b4a9889847f0a79785985718ee08a8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TGFoP1JC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AughT-zUXTkdL0xZJA9Nn5w.png)
+[![](img/3b4a9889847f0a79785985718ee08a8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TGFoP1JC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AughT-zUXTkdL0xZJA9Nn5w.png)
 
 * * *
 

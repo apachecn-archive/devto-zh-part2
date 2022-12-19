@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/devamaz/using-fetch-api-to-get-and-post--1g7d>
 
-[![fetchAPI](../Images/4e01b79e88b82aee311f4fc9b0f4bc39.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X8TZXn2g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.ytimg.com/vi/0bec1BmeY4c/maxresdefault.jpg)
+[![fetchAPI](img/4e01b79e88b82aee311f4fc9b0f4bc39.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X8TZXn2g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.ytimg.com/vi/0bec1BmeY4c/maxresdefault.jpg)
 
 在本文中，我将讨论如何使用 javascript fetch API 获取数据并将其发布到公共 API。
 

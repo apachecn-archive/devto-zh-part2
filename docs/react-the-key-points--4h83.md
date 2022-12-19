@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/aberezkin/react-the-key-points--4h83>
 
-[![React logo](../Images/4e8efb997b899cab07b52dc1a89e5132.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BvBER8aJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png)
+[![React logo](img/4e8efb997b899cab07b52dc1a89e5132.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BvBER8aJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png)
 
 # TL；速度三角形定位法(dead reckoning)
 

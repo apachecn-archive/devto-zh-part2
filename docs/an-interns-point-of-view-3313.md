@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/austinhardaway/an-interns-point-of-view-3313>
 
-[![sterotypical code picture](../Images/52620b96791857e9a7eadd6a7993fb56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vknn2DoI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1484417894907-623942c8ee29%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D3f1d38bbdda690e28a81673c06325075%26auto%3Dformat%26fit%3Dcrop%26w%3D1489%26q%3D80)
+[![sterotypical code picture](img/52620b96791857e9a7eadd6a7993fb56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vknn2DoI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1484417894907-623942c8ee29%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D3f1d38bbdda690e28a81673c06325075%26auto%3Dformat%26fit%3Dcrop%26w%3D1489%26q%3D80)
 
 在我说得太多之前，我想我应该简单介绍一下我自己。当我写这篇文章时，我开始了第二次实习
 最后一周的第一天。我曾在一家小型保险公司工作过，目前在一家大型知名公司工作。

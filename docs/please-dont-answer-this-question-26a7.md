@@ -30,7 +30,7 @@
 *   **P** 重新占领
 *   **S** 删除
 
-[![Lumburgh disagrees with you there](../Images/a03eabe7e4332f19600ef49132c3e323.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SH0S9mvo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t43g2euof9vkwc08fv3q.gif)
+[![Lumburgh disagrees with you there](img/a03eabe7e4332f19600ef49132c3e323.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SH0S9mvo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t43g2euof9vkwc08fv3q.gif)
 
 全世界的人可能不同意，但是你的带宽*是有价值的*。
 
@@ -42,7 +42,7 @@
 
 是的，这也是一个真实的故事。
 
-[![Guy yawning](../Images/3bcd1a4c23f5a0c8be598f73ca4af16d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cfBdzp3j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2fbcoc7znnoee1jzt1gs.gif)
+[![Guy yawning](img/3bcd1a4c23f5a0c8be598f73ca4af16d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cfBdzp3j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2fbcoc7znnoee1jzt1gs.gif)
 
 除了显而易见的，当我们累的时候，我们的脾气会变得更暴躁。我们更容易变得不耐烦，说错话，并且通常无意中断桥。我们称之为额叶的精神刹车没有处于最佳状态，这意味着我们的情绪控制和抑制受到了损害。(出于同样的原因，如果你受到任何抑制额叶的物质的影响，试图帮助也不是一个好主意。)
 
@@ -54,7 +54,7 @@
 
 那么，如果你有别的事情要做，会发生什么呢？
 
-[![Doctor Who: Can you please hurry up or I'll hit you with my shoe.](../Images/c9bbc536ba427e34b0669b17f71e3dac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1_7GK7_V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nshqakin2pvon0c359og.gif)
+[![Doctor Who: Can you please hurry up or I'll hit you with my shoe.](img/c9bbc536ba427e34b0669b17f71e3dac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1_7GK7_V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nshqakin2pvon0c359og.gif)
 
 学习过程不能操之过急。如果对方没有找到答案，他们只会在以稍微不同的形式再次遇到时回来寻求更多的帮助。我们的目标应该始终是帮助提问者变得更有教养、更独立，但如果我们赶时间，我们就做不到。
 
@@ -72,7 +72,7 @@
 
 我甚至不知道我是否需要解释这个。
 
-[![Ross throwing computer monitor](../Images/656f7bc2833daf99290316cd867959a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VZdC1fxG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6itajk19l8bmlqoinblb.gif)
+[![Ross throwing computer monitor](img/656f7bc2833daf99290316cd867959a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VZdC1fxG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6itajk19l8bmlqoinblb.gif)
 
 如果你已经生气、沮丧、不耐烦或有压力，猜猜谁会在他们问了一个“愚蠢”的问题后马上感觉到？是的-你要帮助的人！
 

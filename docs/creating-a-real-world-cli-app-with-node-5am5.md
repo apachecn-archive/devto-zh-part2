@@ -8,7 +8,7 @@
 
 当谈到用 Node 构建命令行界面时，现实世界中的教程并不多，因此这是超越基本的“hello world”CLI 应用程序的系列教程中的第一篇。我们将创建一个名为`outside-cli`的应用程序，它将为您提供任何地点的当前天气和 10 天预报。
 
-[![Screen Shot 2018-04-26 at 4.19.16 PM](../Images/cee4bbd0d1fdb61ecd62323ec6416c65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--51RxyoCC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/h6vh38q7qvzk/6z8p7yoTgQqay8aOm4E0wY/fa4ca2bd682c13e33bd2a335421d8c11/Screen_Shot_2018-04-26_at_4.19.16_PM.png)
+[![Screen Shot 2018-04-26 at 4.19.16 PM](img/cee4bbd0d1fdb61ecd62323ec6416c65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--51RxyoCC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/h6vh38q7qvzk/6z8p7yoTgQqay8aOm4E0wY/fa4ca2bd682c13e33bd2a335421d8c11/Screen_Shot_2018-04-26_at_4.19.16_PM.png)
 
 *注意:有几个库可以帮助创建复杂的 CLI，例如 [oclif](https://github.com/oclif/oclif) 、 [yargs](https://github.com/yargs/yargs) 和 [commander](https://github.com/tj/commander.js) ，但是为了这个例子，我们将保持我们的依赖关系精简，这样你可以更好地理解事情是如何在幕后工作的。本教程假设您已经掌握了 Javascript 和 Node 的基本知识。*
 
@@ -225,7 +225,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，如果你运行`outside help today`或`outside today -h`，你应该会看到`today`命令的帮助菜单。运行`outside`或`outside -h`会显示主帮助菜单。
 
-[![outside help](../Images/a437e4a301cd42f9501cd386fba2b838.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nffApVT---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/h6vh38q7qvzk/34w1RCgTrGw4a48M2o0IS8/ddbb452fe22811b36cc7f8945662a99e/Screen_Shot_2018-04-26_at_4.12.07_PM.png)
+[![outside help](img/a437e4a301cd42f9501cd386fba2b838.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nffApVT---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/h6vh38q7qvzk/34w1RCgTrGw4a48M2o0IS8/ddbb452fe22811b36cc7f8945662a99e/Screen_Shot_2018-04-26_at_4.12.07_PM.png)
 
 ## 添加另一个命令
 
@@ -350,7 +350,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 由于请求发生得如此之快，很难看到加载指示器。如果你想手动减慢它的速度，你可以在你的天气工具函数的开头加上这一行:`await new Promise(resolve => setTimeout(resolve, 5000))`。
 
-[![outside activity indicator](../Images/563c6325077f249280b2d38fbf86a5a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gxs7HzNN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://images.ctfassets.net/h6vh38q7qvzk/6rvt4nIk5queIsAIu6OcOw/3a945ae671ac31e18925758483b24e6e/Screen_Recording_2018-04-26_at_04.14_PM.gif)
+[![outside activity indicator](img/563c6325077f249280b2d38fbf86a5a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gxs7HzNN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://images.ctfassets.net/h6vh38q7qvzk/6rvt4nIk5queIsAIu6OcOw/3a945ae671ac31e18925758483b24e6e/Screen_Recording_2018-04-26_at_04.14_PM.gif)
 
 太好了！现在让我们将代码复制到我们的`forecast`命令中，并稍微改变一下格式。
 
@@ -420,7 +420,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，如果你只是在没有位置的情况下运行`outside forecast`，你将会看到你当前位置的预测。
 
-[![outside forecast](../Images/f41a21cc771fdd559e8c0c9d623f7f80.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RbSsDKXJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://images.ctfassets.net/h6vh38q7qvzk/6KbBtOHGzCyIGC6y4i8wse/ebe209940e4f6a8471fc2a96b7936b6f/Screen_Recording_2018-04-26_at_04.17_PM.gif)
+[![outside forecast](img/f41a21cc771fdd559e8c0c9d623f7f80.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RbSsDKXJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://images.ctfassets.net/h6vh38q7qvzk/6KbBtOHGzCyIGC6y4i8wse/ebe209940e4f6a8471fc2a96b7936b6f/Screen_Recording_2018-04-26_at_04.17_PM.gif)
 
 ## 错误和退出代码
 

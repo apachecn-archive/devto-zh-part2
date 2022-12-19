@@ -10,7 +10,7 @@
 
 ### Softmax
 
-通过我的研究，很明显 softmax 图层适用于多分类，而 sigmoid 图层适用于多标注。神经网络的 softmax 层是允许多标签的广义逻辑函数。Softmax 允许我们处理 [![](../Images/211c6ec70fe4a0edc12503497a3f101e.png "\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}")](https://res.cloudinary.com/practicaldev/image/fetch/s--axbIW3Ez--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://latex.codecogs.com/svg.latex%3F%255CLarge%26space%3By%255E%257B%28i%29%257D%2520%255Cin%2520%255Cleft%2520%255C%257B%2520%25201%2C%2520...%2520k%2520%255Cright%2520%255C%257D) 其中 k 是类的数量。Softmax 用于计算特定标签在 k 个不同标签上的概率分布。Softmax 为所有概率等于 1 的输出返回 0 到 1 的范围。对于多标签，这将返回每个标签的概率，其中目标标签的概率最高。这在预测一组标签中的一个标签时非常理想。这可以用张量流来表示:
+通过我的研究，很明显 softmax 图层适用于多分类，而 sigmoid 图层适用于多标注。神经网络的 softmax 层是允许多标签的广义逻辑函数。Softmax 允许我们处理 [![](img/211c6ec70fe4a0edc12503497a3f101e.png "\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}")](https://res.cloudinary.com/practicaldev/image/fetch/s--axbIW3Ez--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://latex.codecogs.com/svg.latex%3F%255CLarge%26space%3By%255E%257B%28i%29%257D%2520%255Cin%2520%255Cleft%2520%255C%257B%2520%25201%2C%2520...%2520k%2520%255Cright%2520%255C%257D) 其中 k 是类的数量。Softmax 用于计算特定标签在 k 个不同标签上的概率分布。Softmax 为所有概率等于 1 的输出返回 0 到 1 的范围。对于多标签，这将返回每个标签的概率，其中目标标签的概率最高。这在预测一组标签中的一个标签时非常理想。这可以用张量流来表示:
 
 ```
 # tf.nn.softmax final_tensor = tf.nn.softmax(logits, name=final_tensor_name) 

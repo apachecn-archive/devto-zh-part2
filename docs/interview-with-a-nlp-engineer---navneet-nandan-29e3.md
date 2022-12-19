@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/aviaryan/interview-with-a-nlp-engineer---navneet-nandan-29e3>
 
-[![cover](../Images/507c6f64ec769e2326f48dcfbc1984d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NBKaJqmY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.us-east-2.amazonaws.com/devletters/covers/robot.jpeg)
+[![cover](img/507c6f64ec769e2326f48dcfbc1984d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NBKaJqmY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.us-east-2.amazonaws.com/devletters/covers/robot.jpeg)
 
 > 首次发布于 [Dev Letters](https://devletters.com/letters/interview-navneet-nlp/)
 

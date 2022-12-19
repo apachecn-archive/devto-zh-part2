@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/flexdinesh/accessing-nested-objects-in-javascript--9m4>
 
-[![undefined error in JavaScript](../Images/f00a4029c506917fd8aa124cea005dd9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jGChYAyx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/i3ybGS/undefined_access.jpg)
+[![undefined error in JavaScript](img/f00a4029c506917fd8aa124cea005dd9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jGChYAyx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/i3ybGS/undefined_access.jpg)
 
 **tldr；** *以超级酷的方式安全访问 JavaScript 中的嵌套对象。*
 

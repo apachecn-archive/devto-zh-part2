@@ -12,14 +12,14 @@
 **纬度**是北极或南极与赤道(地球两极中间的假想圆)之间的距离。赤道以北的地方从 0 到 90，赤道以南的地方从 0 到-90。
 **经度**是本初子午线(一条从北到南穿过英国格林威治的假想线)到西方或东方一点的距离。本初子午线以东的地方从 0 度到 180 度，本初子午线以西的地方从 0 度到-180 度。例如，如果你在巴西，你的纬度和经度将是负的，因为你在地球的西南侧:
 
-[![Map](../Images/0dbaadb986f4e8443dbc8ff3ae0e066d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tztCQxkO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://issart.com/blog/wp-content/uploads/2018/06/earth_map.png)
+[![Map](img/0dbaadb986f4e8443dbc8ff3ae0e066d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tztCQxkO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://issart.com/blog/wp-content/uploads/2018/06/earth_map.png)
 
 我们的应用程序会将您的位置考虑在内，并在该位置放置 AR 场景上的标记。然后，我们获取路径数组中的第一个位置，并使用前一个标记(用户位置的标记)来构建它。然后，我们将获取路径数组中的第二个位置，并使用第一个位置的标记来构建它，依此类推。为了计算下一个航路点位置，我们需要两个值:
 
 1.  两点之间的距离(下一个和当前位置)
 2.  地球北(或南)线与当前点和下一点连线的夹角，称为[方位](https://en.wikipedia.org/wiki/Bearing_%28navigation%29)。
 
-[![Bearing](../Images/2711314529e05091be928ee98db2f4c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w5IfF0Lx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://issart.com/blog/wp-content/uploads/2018/06/schema.png)
+[![Bearing](img/2711314529e05091be928ee98db2f4c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w5IfF0Lx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://issart.com/blog/wp-content/uploads/2018/06/schema.png)
 
 如果我们谈论的是一个[с自流坐标系](https://en.wikipedia.org/wiki/Cartesian_coordinate_system)，我们可以通过应用[勾股定理](https://en.wikipedia.org/wiki/Pythagorean_theorem)和一些简单的三角学，用[正弦](https://en.wikipedia.org/wiki/Sine)和[余弦](https://en.wikipedia.org/wiki/Law_of_cosines)运算得到那些计算。但是我们谈论的是地球的纬度和经度。由于地球表面不是平的，数学变得更加复杂。通过调用类 [CLLocation](https://developer.apple.com/documentation/corelocation/cllocation) 的[方法](https://developer.apple.com/documentation/corelocation/cllocation/1423689-distance)来计算距离。它使用[哈弗辛公式](https://www.igismap.com/haversine-formula-calculate-geographic-distance-earth/)，该公式从两个不同的纬度/经度值对中，通过沿着地球曲率在它们之间描绘一条线来计算距离。另一方面，我们必须手动计算两个不同纬度/经度值对之间的方位角。[这是公式](https://www.igismap.com/formula-to-find-bearing-or-heading-angle-between-two-points-latitude-longitude/):
 

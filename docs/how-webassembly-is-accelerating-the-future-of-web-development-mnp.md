@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kball/how-webassembly-is-accelerating-the-future-of-web-development-mnp>
 
-[![WebAssembly Powering The Web Future](../Images/0ca4c47203a3706ca800d207a1dd50e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nXY4k1-t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zendev.com/assets/img/posts/wasm-web-future/wasm-powering-web-future.png)
+[![WebAssembly Powering The Web Future](img/0ca4c47203a3706ca800d207a1dd50e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nXY4k1-t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zendev.com/assets/img/posts/wasm-web-future/wasm-powering-web-future.png)
 
 “WebAssembly 会杀死 JavaScript 吗？”
 

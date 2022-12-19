@@ -4,7 +4,7 @@
 
 从技术上来说，这不是我参加 [#shecoded](https://dev.to/tag/shecoded) 以来的第一篇帖子，但也不错。
 
-[![itsasine image](../Images/ee9d2360b764ff33768013c63fc9c566.png)](/itsasine) [## 尽管如此，它还是编码了
+[![itsasine image](img/ee9d2360b764ff33768013c63fc9c566.png)](/itsasine) [## 尽管如此，它还是编码了
 
 ### 伊夫萨斯特
 
@@ -24,7 +24,7 @@
 *   抱怨我做的零星的手工测试
 
 这是我的猫:
-[![Pretty Kitty](../Images/8c9cbc3481721bee18fd951982117586.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pQlo8vY7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/2754/ea35b041-1885-464a-adfa-0ac811aa39f5.jpg)
+[![Pretty Kitty](img/8c9cbc3481721bee18fd951982117586.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pQlo8vY7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/2754/ea35b041-1885-464a-adfa-0ac811aa39f5.jpg)
 
 他是我开发电子邮件的粉丝。
 

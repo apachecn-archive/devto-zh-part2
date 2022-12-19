@@ -11,7 +11,7 @@
 哦，我还会把“1980 年关于个人电脑的纪录片”视频留在这里，以防你对我们电脑的进化感到好奇。*竖起大拇指*
 [https://www.youtube.com/embed/v_fTS3BO-cE](https://www.youtube.com/embed/v_fTS3BO-cE)
 好了，我们看了一下它的历史和起源之后，接下来我们来看看互联网**组件**。它主要由三样东西组成；客户端、服务器和网络。很简单，不是吗？下面是其工作原理的图片(点击图片可转出处 xD)
-[![alt](../Images/830908c0dd3b50c4f71d99d6d7f0add7.png "how internet works")](https://slideplayer.com/slide/4759393/) 
+[![alt](img/830908c0dd3b50c4f71d99d6d7f0add7.png "how internet works")](https://slideplayer.com/slide/4759393/) 
 我们来看看一些必备词汇:
 
 > **TCP** 或传输控制协议，它的工作是将数据分解成称为*数据包*的小块，并在这些数据包到达时进行组合。
@@ -25,7 +25,7 @@
 > 
 > **域名**是(大致)IP 地址的文本标签版本，它是层次结构。 *DNS* 或*域名服务器*是提供 IP 地址和“用户友好”域名之间转换服务的服务器；例如，[www.google.com](http://www.google.com)这个域名的 IP 地址是 66.249.89.104。
 > 下面是域名层次:
-> [![alt](../Images/92a4a3156d67f086e848211630652d95.png "domain name hierarchy")](http://www.cialfor.com/2016/02/03/domain-name-system-dns-caching/)
+> [![alt](img/92a4a3156d67f086e848211630652d95.png "domain name hierarchy")](http://www.cialfor.com/2016/02/03/domain-name-system-dns-caching/)
 
 ### 环球网
 

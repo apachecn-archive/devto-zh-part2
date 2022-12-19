@@ -9,7 +9,7 @@
 
 **2018 年 8 月 13 日 D0** :计算组合数并按字典序升序生成的算法。
 
-[![rrampage](../Images/bec6c5c5b1a1ae239588667c16549de7.png)](/rrampage) [## 算法:生成组合#100DaysOfCode
+[![rrampage](img/bec6c5c5b1a1ae239588667c16549de7.png)](/rrampage) [## 算法:生成组合#100DaysOfCode
 
 ### 偈纳克罗摩克里希南 8 月 13 日 187 分钟阅读
 
@@ -25,7 +25,7 @@
 
 2018 年 8 月 18 日，D5 :阅读《TAOCP》第四卷中的格雷码，这是二进制数排序的另一种方式。写了一篇博文，探索了它们的一些属性以及如何生成它们。
 
-[![rrampage](../Images/bec6c5c5b1a1ae239588667c16549de7.png)](/rrampage) [## 算法:格雷二进制码——一种不同的数字排序方式
+[![rrampage](img/bec6c5c5b1a1ae239588667c16549de7.png)](/rrampage) [## 算法:格雷二进制码——一种不同的数字排序方式
 
 ### 偈纳克罗摩克里希南 8 月 18 日 183 分钟阅读
 

@@ -79,6 +79,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 注意，默认情况下这两个选项都是打开的(至少在当前版本中是这样)。保存 Python 文件后，问题视图中将显示 Pylint 警告:
 
-[![Pylint Warnings in VS Code Problems View](../Images/1e336e57dd695c6a13e1a5867ad2fa08.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NQRUyPA8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.codependentcodr.com/static/imgs/pylint_warnings_in_vscode-crunch.png)
+[![Pylint Warnings in VS Code Problems View](img/1e336e57dd695c6a13e1a5867ad2fa08.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NQRUyPA8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.codependentcodr.com/static/imgs/pylint_warnings_in_vscode-crunch.png)
 
 请注意，该屏幕截图还说明了如何通过在搜索框中输入“pylint”来过滤问题视图，只显示 Pylint 警告。还要注意，单击其中任何一个都会在 VS 代码中打开该文件，并导航到有问题的那一行。非常方便。

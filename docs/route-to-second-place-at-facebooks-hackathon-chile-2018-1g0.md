@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/gonzalezanguita/route-to-second-place-at-facebooks-hackathon-chile-2018-1g0>
 
-[![](../Images/00df769af5d336b7fee8c6ee0b7d8d26.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xX-4L1-3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tn2aityoow3hx8grdzyx.png) 
+[![](img/00df769af5d336b7fee8c6ee0b7d8d26.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xX-4L1-3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tn2aityoow3hx8grdzyx.png) 
 首先，祝贺脸书在今年 4 月 14 日至 15 日举办了一场令人惊叹的活动。黑客马拉松不仅是一个竞争的空间，也是一个思考、学习、分享、结识新朋友和享受美好时光的空间！
 
 这一切都是从脸书发邮件邀请我们参加他们在智利举办的年度黑客马拉松开始的。宣传是巨大的，去年我和一些队友参加了，这是一次非常好的经历，我们想不惜任何代价参加今年的黑客马拉松。

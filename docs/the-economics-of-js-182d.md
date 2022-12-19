@@ -34,11 +34,11 @@ web 平台的民主化带来了 JS 替代品的大量涌入——其中一些最
 
 我感谢上帝给了我打字稿。这让我的日常工作压力小了很多。但它并非没有粗糙的边缘:
 
-> ![unknown tweet media content](../Images/637475aa5fcc6e591e5bba0e8d55f951.png)![Gio profile image](../Images/2447ef4e8fbdc39d946f610a892e8a64.png)Gio[@ _ gdelgado](https://dev.to/_gdelgado)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)这是一个 Google 包 w aprx 的 TS 声明文件的源代码。大约 170，000 次/月。最终人们在编写这些文件时变得懒惰，开始告诉编译器，“啊，别担心！”
+> ![unknown tweet media content](img/637475aa5fcc6e591e5bba0e8d55f951.png)![Gio profile image](img/2447ef4e8fbdc39d946f610a892e8a64.png)Gio[@ _ gdelgado](https://dev.to/_gdelgado)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)这是一个 Google 包 w aprx 的 TS 声明文件的源代码。大约 170，000 次/月。最终人们在编写这些文件时变得懒惰，开始告诉编译器，“啊，别担心！”
 > 
 > 【any】类型违背了静态类型的目的。
 > 
-> facepalm。2018 年 3 月 15 日下午 16:39[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=974324130479718400)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=974324130479718400)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=974324130479718400)
+> facepalm。2018 年 3 月 15 日下午 16:39[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=974324130479718400)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=974324130479718400)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=974324130479718400)
 
 上面的推文在我看来公平地代表了 TypeScript 生态系统。大量过时或不恰当的字体令人震惊。正如我在 twitter 帖子中提到的:我会考虑为这个确定类型的项目做贡献，但从它的外观来看，我得到的印象是它是一个失败的事业。
 
@@ -48,7 +48,7 @@ TypeScript 中对`any`的大量使用令人悲哀。通过使用`any`,你已经�
 
 或者这个怎么样？
 
-[![wtf typescript](../Images/9fe33bc8e8a0970bf38c4ef764a51e45.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uAWJ94nE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Mu4MJiI.png)
+[![wtf typescript](img/9fe33bc8e8a0970bf38c4ef764a51e45.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uAWJ94nE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Mu4MJiI.png)
 
 > 因此，不仅 typedefs 是错误的，充斥着`any`，而且它们也是过时的。有时由几个版本组成。
 

@@ -6,4 +6,4 @@
 
 [读于](https://auth0.com/blog/securing-electron-applications-with-openid-connect-and-oauth-2/?utm_source=dev&utm_medium=sc&utm_campaign=securing_electron)
 
-[![Securing Electron Applications with OpenID Connect and OAuth 2.0](../Images/68c7e403e4efe130a33f9879e5b6700e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AYW9I1-l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p6rhumley99jvpi68vud.png)
+[![Securing Electron Applications with OpenID Connect and OAuth 2.0](img/68c7e403e4efe130a33f9879e5b6700e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AYW9I1-l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p6rhumley99jvpi68vud.png)

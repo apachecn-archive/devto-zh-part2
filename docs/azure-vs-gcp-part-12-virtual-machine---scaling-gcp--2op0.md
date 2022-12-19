@@ -52,7 +52,7 @@ GCP 也提供负载平衡器，但它比 Azure 提供了更多的选择。
 首先，我需要创建包含应用程序的 windows 映像。
 
 1.通过 RDP 登录到包含应用程序的虚拟机。
-[![image](../Images/950556d3590a03d10294cb960671566d.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--hG9a6sUp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/labgi3ow464gzqn7nrhb.PNG)
+[![image](img/950556d3590a03d10294cb960671566d.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--hG9a6sUp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/labgi3ow464gzqn7nrhb.PNG)
 
 2.以管理员身份打开 PowerShell，并运行以下命令。
 
@@ -66,84 +66,84 @@ Enter fullscreen mode Exit fullscreen mode
 
 4.指定必要的参数。将源设置为磁盘和您刚才概括的源磁盘。点击“创建”。
 
-[![image](../Images/c31c4aade241190f20a7f318d8a55cc5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jc7ZtWc4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5pqdwakry5xq4p389yv6.PNG)
+[![image](img/c31c4aade241190f20a7f318d8a55cc5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jc7ZtWc4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5pqdwakry5xq4p389yv6.PNG)
 
 ### 创建实例模板
 
 接下来，从定制图像创建实例模板。
 
 1.转到“实例模板”并单击“创建实例模板”。
-[![template](../Images/a02bb1ee73f6da625591de4359141f13.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s---WeRgJke--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/761lufm9g4kly1msyvtw.PNG)
+[![template](img/a02bb1ee73f6da625591de4359141f13.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s---WeRgJke--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/761lufm9g4kly1msyvtw.PNG)
 
 2.输入名称并选择机器类型。单击启动盘的“更改”。
-[![template](../Images/abad297c148fe1109bd15f3ccc2b2ba7.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--NSNm4dtA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zbqaot79dqe399o1yba7.PNG)
+[![template](img/abad297c148fe1109bd15f3ccc2b2ba7.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--NSNm4dtA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zbqaot79dqe399o1yba7.PNG)
 
 3.单击“自定义图像”并选择创建的图像。
-[![template](../Images/35053fa28e57fea56aa70d8c4e6601cd.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--qVJvZTn1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o8k40uwc8dw5f06f0ddg.PNG)
+[![template](img/35053fa28e57fea56aa70d8c4e6601cd.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--qVJvZTn1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o8k40uwc8dw5f06f0ddg.PNG)
 
 4.如果应用程序需要访问 GCP 的任何资源，请设置“身份和 API 访问”。在这种情况下，我不需要任何东西。启用“允许 HTTP 流量”。单击创建。
-[![template](../Images/1f89b53527d671d8d625bbd2d1286041.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--qhb2Nm-3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ohpvfx7jatiwgx1c5hej.PNG)
+[![template](img/1f89b53527d671d8d625bbd2d1286041.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--qhb2Nm-3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ohpvfx7jatiwgx1c5hej.PNG)
 
 ### 创建实例组
 
 现在，因为我有了模板映像，所以我继续创建实例组。
 
 1.转到“Insatnce groups”并单击“创建实例组”。
-[![group](../Images/f7e07c2e5501f40d2c29cf2f6e1b0e85.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--MSCFgMGa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8uy152jm9ofe5arfgwwp.PNG)
+[![group](img/f7e07c2e5501f40d2c29cf2f6e1b0e85.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--MSCFgMGa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8uy152jm9ofe5arfgwwp.PNG)
 
 2.输入名称，并指定“位置”。我在这里选择“多区域”。
-[![group](../Images/4ae8d3a1690b82563b102cd21b12ca0a.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--znmRCKlW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h6pr88lmzsbvchqpjrzt.PNG)
+[![group](img/4ae8d3a1690b82563b102cd21b12ca0a.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--znmRCKlW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h6pr88lmzsbvchqpjrzt.PNG)
 
 3.将“实例模板”指定为创建的模板，并将“自动缩放”设置为“开”。我使用默认值，但你可以调整它。
-[![group](../Images/8507ff9f37a1173cf6261f6da4a7b36e.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--U8Kq_oE_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z2b4efdoslb4sncvnei7.PNG)
+[![group](img/8507ff9f37a1173cf6261f6da4a7b36e.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--U8Kq_oE_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z2b4efdoslb4sncvnei7.PNG)
 
 4.除了自动缩放，我还可以设置自动修复。
-[![group](../Images/141e79e4a3b57d59180e70d7c6a4e1b3.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--4X1psWkl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/akbwb93kdwjd8joleeo7.PNG)
+[![group](img/141e79e4a3b57d59180e70d7c6a4e1b3.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--4X1psWkl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/akbwb93kdwjd8joleeo7.PNG)
 
 5.等待创建完成。然后选择创建的实例组。存在使用公共 IP 显示的正在运行的实例。
-[![group](../Images/f23a577d68512616e8791f10f28ae7f4.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--p4VucPja--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/adcpe6krp2ud00buifew.PNG)
+[![group](img/f23a577d68512616e8791f10f28ae7f4.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--p4VucPja--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/adcpe6krp2ud00buifew.PNG)
 
 6.访问公共 IP 来检查应用程序。
-[![group](../Images/274b6dc208785c9c18de2adad47ee474.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--R1GZB9AO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/whjbqk0nvsmptb10ll79.PNG)
+[![group](img/274b6dc208785c9c18de2adad47ee474.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--R1GZB9AO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/whjbqk0nvsmptb10ll79.PNG)
 
 ### 创建负载平衡器
 
 当自动缩放开始时，有多个实例。要为用户提供单一接入点，请添加负载平衡器。
 
 1.转到“网络服务”|“负载平衡”，然后单击“创建负载平衡器”。
-[![lb](../Images/6c6f3c15f5c94c7022d0dc85c2b357d1.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--QY6mzV9_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1qc9ti7pk7h61uop8243.PNG)
+[![lb](img/6c6f3c15f5c94c7022d0dc85c2b357d1.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--QY6mzV9_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1qc9ti7pk7h61uop8243.PNG)
 
 2.因为我需要对 HTTP 进行负载平衡，所以选择“HTTP(S)负载平衡”。
-[![lb](../Images/b52c29d082e8c8558813860683ee2fce.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--CrI59FyW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dda8z149ekuxikf9uzjk.PNG)
+[![lb](img/b52c29d082e8c8558813860683ee2fce.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--CrI59FyW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dda8z149ekuxikf9uzjk.PNG)
 
 3.输入名称，然后单击创建。选择“后端配置”并创建新的后台服务。
-[![lb](../Images/1bc2d0db20ca9eb128c0446d0dfbe668.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--zKlG0ftu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0dwhc758wetqglopb1ow.PNG)
+[![lb](img/1bc2d0db20ca9eb128c0446d0dfbe668.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--zKlG0ftu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0dwhc758wetqglopb1ow.PNG)
 
 4.选择已创建的实例组，然后选择平衡规则。我在这里使用默认规则。点击“完成”。
-[![lb](../Images/b119c4c98bc2234bce40bbdfc8ab157f.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--VWPywX__--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ztc3wd1vgokcov2qm2uk.PNG)
+[![lb](img/b119c4c98bc2234bce40bbdfc8ab157f.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--VWPywX__--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ztc3wd1vgokcov2qm2uk.PNG)
 
 5.单击“健康检查”并创建新的健康检查。
-[![lb](../Images/d5d39f70d24db50af81f41fbf3481b35.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--TsQuAfsP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/swqbw66ldo5lelwnw79q.PNG)
+[![lb](img/d5d39f70d24db50af81f41fbf3481b35.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--TsQuAfsP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/swqbw66ldo5lelwnw79q.PNG)
 
 6.现在我可以点击“创建”按钮。
 
 7.其余的我使用默认的规则和配置。单击“创建”创建负载平衡器。等待创建完成。
 
 8.创建负载平衡器后，选择它。检查全局 IP。
-[![lb](../Images/762cb49555b3c7571a3a13a2b34005c5.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--FddwKQmb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cy2lt018roq2h29fuhv4.PNG)
+[![lb](img/762cb49555b3c7571a3a13a2b34005c5.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--FddwKQmb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cy2lt018roq2h29fuhv4.PNG)
 
 9.访问 IP 以确认页面已加载。
-[![lb](../Images/0a0e2eb46f3279d047506f119e523738.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--UdNsJwL4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v0t67q6f3lpzved6lvtn.PNG)
+[![lb](img/0a0e2eb46f3279d047506f119e523738.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--UdNsJwL4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v0t67q6f3lpzved6lvtn.PNG)
 
 ### 报
 
 由于我使用免费试用帐户，有一定的配额，我不能超过。如果我继续访问端点，并让自动伸缩发生，那么我就超出了我的限制。
 
 1.转到“实例组”并打开我创建的实例组。有一个带有警告的虚拟机。它说我超过定额了。
-[![quota](../Images/423f86b4fe4e0b7ada46782a92bef804.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--8qfcc2Tv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zl88fokhk3dr47lode49.PNG)
+[![quota](img/423f86b4fe4e0b7ada46782a92bef804.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--8qfcc2Tv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zl88fokhk3dr47lode49.PNG)
 
 2.转到“IAM & admin”|“Quotas”。您可以看到该位置有 8 个 CPU 限制。
-[![quota](../Images/66aba2ff054de79c98e304e2c7767ffc.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s---pzV--ug--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y6uu0o2g4a2nlflpidst.PNG)
+[![quota](img/66aba2ff054de79c98e304e2c7767ffc.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s---pzV--ug--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y6uu0o2g4a2nlflpidst.PNG)
 
 # 总结
 

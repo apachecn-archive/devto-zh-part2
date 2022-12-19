@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kendalmintcode/what-bruce-lee-taught-me-about-business-h0i>
 
-[![Bruce Lee statue in Hong Kong](../Images/cd591920d9e3f36baba8509e7e8332da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PrynbAnN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://robkendal.co.uk/static/574a49e5daebbd1439e7dd352929ed92/b8817/bruce-lee-statue.jpg)
+[![Bruce Lee statue in Hong Kong](img/cd591920d9e3f36baba8509e7e8332da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PrynbAnN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://robkendal.co.uk/static/574a49e5daebbd1439e7dd352929ed92/b8817/bruce-lee-statue.jpg)
 
 这是对我自己来自 [LinkedIn](https://www.linkedin.com/in/robkendal/) 的同名文章的无耻复制，但我们在这里。
 

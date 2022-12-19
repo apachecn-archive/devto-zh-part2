@@ -32,7 +32,7 @@
 
 并不是所有的开源贡献都是工程学的杰作。团队合作和团结意识孕育了好的软件和健康的头脑。您的第一个拉取请求可能是一份文档。谁知道呢，你的第十个可能正在修复一个著名模块中的一个破裂的 bug。
 
-[![](../Images/5181acb6a1cfdb4324bed0aa409177c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q4cx2-yi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A79eg2wWaA6v-vfa2TV3j_A.jpeg)
+[![](img/5181acb6a1cfdb4324bed0aa409177c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q4cx2-yi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A79eg2wWaA6v-vfa2TV3j_A.jpeg)
 
 我希望你从这件事中吸取的教训是**不要缺乏安全感**。使用 [GitHub](https://github.com) 的力量来结识志同道合的开发者，并创建您想要参与的新项目。向您自己的存储库提交 pull 请求并不意味着它对开源的贡献有任何减少！
 
@@ -40,7 +40,7 @@
 
 如果你不自吹自擂，谁会呢？利用你所掌握的工具展示你的作品。你需要向人们展示你所做的一切。让公众看得见，让世界看得见。没有人会从你的资料中挖掘信息，除非他们是联邦调查局。确保**把你引以为豪的东西放在容易看到的地方**。
 
-<figure>[![](../Images/d1575b96783d3ce7e2142d363d5f7cbc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--u_QD4MuK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ah0RujWokmrlodjstxo1jMg.jpeg) 
+<figure>[![](img/d1575b96783d3ce7e2142d363d5f7cbc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--u_QD4MuK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ah0RujWokmrlodjstxo1jMg.jpeg) 
 
 <figcaption>不要羞于把事情推到人的脸上。</figcaption>
 
@@ -62,7 +62,7 @@
 
 教别人会巩固你自己在某一学科的知识。更重要的是，你在教育下一代开发者。试着让社区成为一个更好的共存场所。这会让你在一家准备招聘新人才的公司眼中脱颖而出。
 
-<figure>[![](../Images/da203e8f57e980789433d350f1837375.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xldhXkTi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ALzrr5lNTjwLYDGejARxc5g.jpeg) 
+<figure>[![](img/da203e8f57e980789433d350f1837375.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xldhXkTi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ALzrr5lNTjwLYDGejARxc5g.jpeg) 
 
 <figcaption>你应该试试结对编程！</figcaption>
 
@@ -86,7 +86,7 @@
 
 如果您找不到任何事件，请创建自己的事件。在我成为当地领导人之前，我的家乡萨拉热窝的自由代码营组织一直处于休眠状态。现在，一年过去了，我们已经开了 10 次会，每次都有有趣的演讲者。他们中的大多数是我们自己的露营者。
 
-<figure>[![](../Images/fc19fcc08d4655b71d75ae47af6e2f7b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--U7DuwdPb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Au3ljAi2ZQiO1BjhA0YpJJw.jpeg) 
+<figure>[![](img/fc19fcc08d4655b71d75ae47af6e2f7b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--U7DuwdPb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Au3ljAi2ZQiO1BjhA0YpJJw.jpeg) 
 
 <figcaption>我们的小组在我们的一个营地发生了爆炸。</figcaption>
 
@@ -102,7 +102,7 @@
 
 确保**将所有相关链接添加到你的 GitHub、媒体、博客、个人网站，甚至 Sourcerer** 。LinkedIn 将成为你工作生活中所有事情的新中心。
 
-<figure>[![](../Images/941a08ce1b92e3012cb8d80776699bd4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DrUrfo3t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AeF5z6CTtA6Pe1w7mPYiyUg.jpeg) 
+<figure>[![](img/941a08ce1b92e3012cb8d80776699bd4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DrUrfo3t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AeF5z6CTtA6Pe1w7mPYiyUg.jpeg) 
 
 <figcaption>我不是在开玩笑，把**一切都写下**。</figcaption>
 
@@ -122,4 +122,4 @@
 
 * * *
 
-[![Buy Me A Coffee](../Images/9495598d6727f1b8c34c67e02cbe424a.png)T2】](https://www.buymeacoffee.com/adnanrahic)**
+[![Buy Me A Coffee](img/9495598d6727f1b8c34c67e02cbe424a.png)T2】](https://www.buymeacoffee.com/adnanrahic)**

@@ -37,7 +37,7 @@
 
 不管你有多么花哨的用户界面或人工智能。如果没有人知道你的申请-没有什么是有意义的。我不想说你应该忽略用户的需求，不实现功能，但是不要忘记在你的产品上建立一个品牌。
 
-[![Ruins in Turkey](../Images/538bb23813fdedfe0f495d7b5ecd9019.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5q4QMICm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://apastuhov.com/images/tombs.jpg)
+[![Ruins in Turkey](img/538bb23813fdedfe0f495d7b5ecd9019.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5q4QMICm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://apastuhov.cimg/tombs.jpg)
 
 **坏:**看山上没有路的城堡。你可以在那个城堡里找到成吨的黄金，但是你不知道如何到达那里。人们不知道他们不知道的事情。
 
@@ -93,8 +93,8 @@
 
 **坏:**对用户提出的所有功能请求说“是”:
 
-[![Say yes!](../Images/92f0aec4e37c9b95241dc7f74711232a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oYvGs9Z7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://apastuhov.com/images/yes-to-user.jpeg)
-[![And again](../Images/09d12611a1591ca75bc9a5adc1055040.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--MjCCOZHE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://apastuhov.com/images/yes-to-user-2.jpeg)
+[![Say yes!](img/92f0aec4e37c9b95241dc7f74711232a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oYvGs9Z7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://apastuhov.cimg/yes-to-user.jpeg)
+[![And again](img/09d12611a1591ca75bc9a5adc1055040.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--MjCCOZHE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://apastuhov.cimg/yes-to-user-2.jpeg)
 
 **好:**思考用户的请求，分析它们，给出反馈，在不违背核心思想的情况下添加新功能。
 

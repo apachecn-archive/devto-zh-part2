@@ -4,7 +4,7 @@
 
 工作流程 + [瑜伽](https://yogalayout.com/) + react =你的桌面应用的 css 布局。技术上来说只有 Flexbox。你一直都想这样，对吧？看看那些间隔很好的应用程序窗口吧！
 
-[![floating-images](../Images/4d5151cb3a150a9bb10bea377fff42f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--POFiy9UX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/50qeakmeyszs5ii28v92.png)
+[![floating-images](img/4d5151cb3a150a9bb10bea377fff42f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--POFiy9UX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/50qeakmeyszs5ii28v92.png)
 
 也许没有，至少我从来没有。但是，嘿，让我们不要沉迷于我们想要建立什么，而是看看我们能建立什么。
 

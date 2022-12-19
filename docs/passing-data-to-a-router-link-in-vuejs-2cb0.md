@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/itachiuchiha/passing-data-to-a-router-link-in-vuejs-2cb0>
 
-[![Vue Logo](../Images/2c351b326034e8e2c780cf8489e2b3fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YVmga9rX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xwksyh8ymjr93sh2fgw5.png)
+[![Vue Logo](img/2c351b326034e8e2c780cf8489e2b3fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YVmga9rX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xwksyh8ymjr93sh2fgw5.png)
 
 [这篇文章最初发表在我的博客上](https://aligoren.com/passing-data-to-a-router-link-in-vue-js/)
 
@@ -114,7 +114,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 正如我们看到的，配置文件 route 有 props 键，它的值等于 true。让我们检查 Vue DevTools。
 
-[![Vue Pass Data to Router Link](../Images/46107f927d8380892783eecf2bc346bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dXmVWzZQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h7l4m3fperz2trhfb6aj.png)
+[![Vue Pass Data to Router Link](img/46107f927d8380892783eecf2bc346bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dXmVWzZQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h7l4m3fperz2trhfb6aj.png)
 
 如果路由配置是这样的会怎样
 
@@ -131,6 +131,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 它不会传递数据。
 
-[![Vue Pass Data to Router Link](../Images/cc8287665b9fa614164b52964b745fbd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zjNOPM3y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zy5aajh1nwjm8spnr1ud.png)
+[![Vue Pass Data to Router Link](img/cc8287665b9fa614164b52964b745fbd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zjNOPM3y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zy5aajh1nwjm8spnr1ud.png)
 
 感谢您的阅读。希望这篇帖子能帮到你。你可以访问 Vue 路由器[网站](https://router.vuejs.org/)了解更多详情。

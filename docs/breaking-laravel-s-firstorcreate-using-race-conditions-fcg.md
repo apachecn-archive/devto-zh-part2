@@ -84,7 +84,7 @@ class CreateProductJob implements ShouldQueue
 
 默认情况下，该应用程序使用 Redis 队列和 Horizon。Horizon 配置为使用 3 个进程，因此可以并发调度 3 个作业。如果您启动该命令，您将会看到，即使有 5 个作业排队，我们最终也会重复记录。下面是实际演示:
 
-[![](../Images/b46d1c40cb01580a673363e0f19378bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lwpuryWr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://freek.dev/uploads/media/first-or-create/demo.gif)
+[![](img/b46d1c40cb01580a673363e0f19378bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lwpuryWr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://freek.dev/uploads/media/first-or-create/demo.gif)
 
 我知道这个例子有点做作。我想强调的是，这个问题不是由 Redis、Horizon 或 Laravel 引起的。这是因为事情是并发执行的。在现实世界的项目中，您应该并且可能会在`uuid`列上放置一个唯一的索引，以防止您的数据库存储任何副本。在这篇文章中，我只想提醒你，如果多个作业向它传递相同的参数，那么让`firstOrCreate`产生意想不到的结果并不难。
 

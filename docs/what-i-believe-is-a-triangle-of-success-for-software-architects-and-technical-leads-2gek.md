@@ -8,7 +8,7 @@
 
 # 让你的船员分担任务
 
-[![http://time.com/5304209/blanchett-hathaway-kaling-oceans-8/](../Images/436d8975827ce92c70bad7a971640ad0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oRzyIp3E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imagesvc.timeincapp.com/v3/mm/image%3Furl%3Dhttps%253A%252F%252Ftimedotcom.files.wordpress.com%252F2018%252F06%252Foceans-8-crime-caper-movie.jpg%26w%3D1600%26q%3D70)
+[![http://time.com/5304209/blanchett-hathaway-kaling-oceans-8/](img/436d8975827ce92c70bad7a971640ad0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oRzyIp3E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imagesvc.timeincapp.com/v3/mm/image%3Furl%3Dhttps%253A%252F%252Ftimedotcom.files.wordpress.com%252F2018%252F06%252Foceans-8-crime-caper-movie.jpg%26w%3D1600%26q%3D70)
 
 很容易陷入这样一个陷阱，即在你的决策中只需要说服管理层就足够了，或者只需要作为架构师建立一个规则。如今，我们有独立的团队使用隔离的微服务，团队必须平衡相互冲突的优先级。抄近路或走最短的路很容易。如果你不能说服人们为什么某个决定是重要的，他们可能根本没有足够的时间去遵循它。确保每个人都理解任务，并有高度的积极性。之后，通过亲身参与，成为使命的一部分。
 
@@ -30,7 +30,7 @@
 
 # 了解现金流量
 
-[![https://www.rogerebert.com/reviews/the-wolf-of-wall-street-2013](../Images/01d88dddf8f455e38379e46729e2243d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9G8igR4i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.rogerebert.com/uploads/review/primary_image/reviews/the-wolf-of-wall-street-2013/hero_WolfOfWallStreet-2013-1.jpg)
+[![https://www.rogerebert.com/reviews/the-wolf-of-wall-street-2013](img/01d88dddf8f455e38379e46729e2243d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9G8igR4i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.rogerebert.com/uploads/review/primary_image/reviews/the-wolf-of-wall-street-2013/hero_WolfOfWallStreet-2013-1.jpg)
 
 每一个成功的工程组织都需要财务上的成功，才能继续其使命。这应该是技术领导的主要关注点之一。
 
@@ -56,7 +56,7 @@
 
 # 从内部了解你的车
 
-[![https://www.filmofilia.com/fast-and-furious-6-photos-58-149253/](../Images/f129afb93fb06360653929699d056a77.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WvLMMRWn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ts3taid3mo6iivoj76wz.png)
+[![https://www.filmofilia.com/fast-and-furious-6-photos-58-149253/](img/f129afb93fb06360653929699d056a77.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WvLMMRWn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ts3taid3mo6iivoj76wz.png)
 
 5 年前是 JavaScrip 专家的人今天不会自动成为专家。“我有几十年的经验”在今天的技术领域不是一个论点。事情确实在变，你需要跟上时代。此外，在实践中展示产品和代码库知识的人在提出决策时会赢得更多信任。
 

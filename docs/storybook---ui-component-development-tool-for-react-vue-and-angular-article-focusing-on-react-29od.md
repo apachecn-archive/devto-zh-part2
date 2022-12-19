@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/madhu/storybook---ui-component-development-tool-for-react-vue-and-angular-article-focusing-on-react-29od>
 
-[![Storybook](../Images/b6103ec9f11463e0ca65cf7f0f1e3e63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0REcx4xZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h0tkhbillluy2661maka.png)
+[![Storybook](img/b6103ec9f11463e0ca65cf7f0f1e3e63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0REcx4xZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h0tkhbillluy2661maka.png)
 
 [Storybook](https://storybook.js.org/basics/guide-react/) 是你 UI 组件的 UI 开发环境。有了它，您可以可视化 UI 组件的不同状态，并以交互方式开发它们。能够快速可视化组件并与之交互非常有用。
 
@@ -37,7 +37,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 要运行 Storybook，执行`yarn run storybook`并打开显示的地址( [http://localhost:9009/](http://localhost:9009/) )。该应用程序应该如下所示:
 
-[![Storybook](../Images/edd42469958bbccc41dbbc7d381f0e06.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Nw6_PDi0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k3fpdsu678ef41qb9hl0.png)
+[![Storybook](img/edd42469958bbccc41dbbc7d381f0e06.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Nw6_PDi0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k3fpdsu678ef41qb9hl0.png)
 
 ## 写新故事
 
@@ -104,7 +104,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 故事书会是这样的。
 
-[![Storybook](../Images/955c92c70c6e6a48e6a9baf0a50f1355.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t9inXfeI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dullh3t5keejdyk2weez.png)
+[![Storybook](img/955c92c70c6e6a48e6a9baf0a50f1355.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t9inXfeI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dullh3t5keejdyk2weez.png)
 
 ## 插件
 
@@ -159,7 +159,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 故事书插件部分看起来像这样。
 
-[![Addons](../Images/e6c977b755bd85f6f4d8275ccb93c65a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8XNOeMG9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fam920y1tu3yl0z6ri8x.png)
+[![Addons](img/e6c977b755bd85f6f4d8275ccb93c65a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8XNOeMG9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fam920y1tu3yl0z6ri8x.png)
 
 *   [@故事书/插件旋钮](https://www.npmjs.com/package/@storybook/addon-knobs?activeTab=readme)
 
@@ -195,7 +195,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 故事书插件部分看起来像这样。
 
-[![Addons](../Images/13a448b32af810ca724c56dc306a4f92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Fvtc8VkC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2hv2m01ylt4d24mhols3.png)
+[![Addons](img/13a448b32af810ca724c56dc306a4f92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Fvtc8VkC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2hv2m01ylt4d24mhols3.png)
 
 在使用这些插件之前，我们必须在`.storybook/addons.js`文件中注册这些插件(一些特定的插件不需要这样注册，请参考 [NPM 站点](https://www.npmjs.com/)了解每个插件的详细信息)。
 

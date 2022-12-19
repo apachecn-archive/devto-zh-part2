@@ -6,7 +6,7 @@
 
 Rails 是一个不可思议的框架，但是现代 web 开发已经转移到了前端，这意味着有时候你不需要所有的资产管道和模板系统。在 Rails 5 中，你现在可以创建一个纯 API 的 Rails 应用程序，这意味着你可以按照你喜欢的方式构建你的前端——例如，使用 Create React App。[它不再是 100%奥马卡斯](http://david.heinemeierhansson.com/2012/rails-is-omakase.html)。
 
-[![An image of four logos, React, Rails, Activeadmin, and Heroku](../Images/abb43cc7416fac0d967465f006155a62.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A2_yQ4-K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1526402185-A%2520Rock%2520Solid%2520Stack.jpg)
+[![An image of four logos, React, Rails, Activeadmin, and Heroku](img/abb43cc7416fac0d967465f006155a62.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A2_yQ4-K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1526402185-A%2520Rock%2520Solid%2520Stack.jpg)
 
 对于不需要类似 CMS 的功能的项目，Rails 和它马上就能很好地工作。Create React App 甚至支持开发中的[代理 API 请求](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#proxying-api-requests-in-development)，所以你可以在本地运行两个服务器，而不必用`if NODE_ENV === ‘development’`丢弃你的应用。
 
@@ -33,7 +33,7 @@ Rails 是一个不可思议的框架，但是现代 web 开发已经转移到了
 
 它看起来会像这样:
 
-<figure>[![An image of the app we'll be building, showing recipes for two drinks](../Images/5423870dbc8513179624ff73e2f20ad1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--82JrAygg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1526300250-site-initial.jpg) 
+<figure>[![An image of the app we'll be building, showing recipes for two drinks](img/5423870dbc8513179624ff73e2f20ad1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--82JrAygg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1526300250-site-initial.jpg) 
 
 <figcaption>我们的 app，[配料表](https://list-of-ingredients.herokuapp.com/)，真的如罐头上说的那样。</figcaption>
 
@@ -115,7 +115,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 它会做一些事情，最终告诉你它正在监听`http://localhost:3001`。如果您访问它，您应该会看到类似这样的内容:
 
-<figure>[![The initial Rails page, showing version 5.2.0](../Images/9baa28f4252277a4dac4ac532fa395cb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JMxAEzba--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1526300434-rails.jpg) 
+<figure>[![The initial Rails page, showing version 5.2.0](img/9baa28f4252277a4dac4ac532fa395cb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JMxAEzba--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1526300434-rails.jpg) 
 
 <figcaption>耶铁轨！</figcaption>
 
@@ -426,7 +426,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这次撞上了`http://localhost:3001/admin`。您应该会看到类似这样的内容:
 
-[![The ActiveAdmin login page](../Images/6ef51ee0e38f75809babda6af92d83c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aamU8u7b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1526300515-admin.jpg)
+[![The ActiveAdmin login page](img/6ef51ee0e38f75809babda6af92d83c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aamU8u7b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1526300515-admin.jpg)
 
 你应该花一点时间感觉很棒，因为那是很多次。
 
@@ -496,7 +496,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 它将自动访问 [http://localhost:3000/](http://localhost:3000/) ，您将有一个简单的 Create React 应用程序运行。那很好。另外，如果你以前没有见过`yarn --cwd client`，它会告诉 yarn 运行`client`目录中的命令。这也节省了我们进出目录的 T2。赢了！
 
-[![The initial view when you generate a new Create React App](../Images/c76de36c3eab152c54a7142fae8e06bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h05dW8n0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1526300555-cra.jpg)
+[![The initial view when you generate a new Create React App](img/c76de36c3eab152c54a7142fae8e06bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h05dW8n0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1526300555-cra.jpg)
 
 正如我前面提到的，使用 Create React App 和 API 的一个好处是，您可以通过正确的端口自动代理 API 调用，而无需在开发和生产之间进行任何交换。为此，跳转到您的`client/package.json`并添加一个代理属性，就像这样:
 
@@ -869,7 +869,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，当您刷新时，您应该会看到:
 
-<figure>[![Our recipes in RSS format](../Images/3e837ed5652a77dde99454b7c3b5ae7b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Qu-dz3X3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1526300601-rss-initial.jpg) 
+<figure>[![Our recipes in RSS format](img/3e837ed5652a77dde99454b7c3b5ae7b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Qu-dz3X3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1526300601-rss-initial.jpg) 
 
 <figcaption>文字冰沙！</figcaption>
 
@@ -1140,7 +1140,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这使我们能够根据 id 获取特定的饮料。你可以通过访问[http://localhost:3001/API/drinks/1:](http://localhost:3001/api/drinks/1:)在浏览器中进行测试
 
-[![A single recipe in RSS format, with ingredients](../Images/5dd4b6330554c0af1140090d897b13dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gaFy4C1W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1526300633-rss-all.jpg)
+[![A single recipe in RSS format, with ingredients](img/5dd4b6330554c0af1140090d897b13dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gaFy4C1W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1526300633-rss-all.jpg)
 
 在这里，您还可以向您的`client/src/index.css` :
 添加一些简单的样式
@@ -1161,7 +1161,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 你现在应该有一个漂亮的前端，它使用了[语义 UI](http://react.semantic-ui.com/) ，看起来像这样:
 
-<figure>[![Your Create React App pulling from the Rails API](../Images/ea3fdb34b7f822b892708cd634646854.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5zGftylL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1526300660-site-initial.jpg) 
+<figure>[![Your Create React App pulling from the Rails API](img/ea3fdb34b7f822b892708cd634646854.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5zGftylL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1526300660-site-initial.jpg) 
 
 <figcaption>羽衣甘蓝爽朗！明白了吗？</figcaption>
 
@@ -1298,7 +1298,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在你知道了:
 
-<figure>[![The final site, hosted on Heroku](../Images/cc97dbb7388bb156aa8655770b97282e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rbuEjX36--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1526300703-site-final.jpg) 
+<figure>[![The final site, hosted on Heroku](img/cc97dbb7388bb156aa8655770b97282e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rbuEjX36--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1526300703-site-final.jpg) 
 
 <figcaption>结账</figcaption>
 
@@ -1519,7 +1519,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在你可以直接运行跳转回你的根目录，运行`bin/rake start`，并访问任何不是根目录的 URL 来获得你的 404。
 
-<figure>[![An example of the 404 page](../Images/4289246db36fae823c5da73abff3b028.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5JZ00Q-d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1526306039-404.jpg) 
+<figure>[![An example of the 404 page](img/4289246db36fae823c5da73abff3b028.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5JZ00Q-d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1526306039-404.jpg) 
 
 <figcaption>最差 404—没有小狗</figcaption>
 
@@ -1552,4 +1552,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果您有任何问题或评论[，请通过 Twitter](https://twitter.com/superhighfives) 问好。或者，欣赏一张狗狗说“干得好”的 GIF！
 
-[![](../Images/d925358cb1f1574cfac172462615ad05.png)T2】](https://i.giphy.com/media/H3ElMwEfyhJU4/giphy.gif)
+[![](img/d925358cb1f1574cfac172462615ad05.png)T2】](https://i.giphy.com/media/H3ElMwEfyhJU4/giphy.gif)

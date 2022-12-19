@@ -4,7 +4,7 @@
 
 **`navigator.connection.effectiveType`用于根据用户网络连接的质量交付不同的资产。**
 
-[![](../Images/33c568f18e1cf89d5f75cdd4714779ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ktkd6j7d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4z66d75fid8fje27lp2y.png)
+[![](img/33c568f18e1cf89d5f75cdd4714779ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ktkd6j7d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4z66d75fid8fje27lp2y.png)
 
 [effectiveType](https://developer.mozilla.org/en-US/docs/Web/API/NetworkInformation/effectiveType) 是[网络信息 API](http://w3c.github.io/netinfo/) 的属性，通过 [navigator.connection](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/connection) 对象暴露给 JavaScript。在 Chrome 中，您可以将以下内容拖放到 DevTools 中，以查看您的有效连接类型(ECT):
 
@@ -20,7 +20,7 @@ Chrome 的有效连接类型实现现在使用最近观察到的往返时间(rtt
 
 它将测得的网络性能总结为最相似的蜂窝连接类型(例如 2G)，即使实际连接是 WiFi。例如，想象你在星巴克的无线网络上，但是你的实际有效网络类型是 2G 或 3G。
 
-[![](../Images/aa22099ed8f4e1129cc99cffe4ac86a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T54UF-7H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wqeuhx12frs3k126bmrv.png)
+[![](img/aa22099ed8f4e1129cc99cffe4ac86a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T54UF-7H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wqeuhx12frs3k126bmrv.png)
 
 如何应对网络质量的变化？我们可以使用`connection.onchange`事件监听器来监控连接变化:
 
@@ -39,7 +39,7 @@ navigator.connection.addEventListener('change', onConnectionChange)
 
 下面是一个快速测试，我在 DevTools 中模拟了一个“低端移动”配置文件，并能够从“4g”切换到“2g”条件:
 
-[![](../Images/a7f248a57c29edc81ff6c8f0efd33654.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gdIz0VyD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t9zadl65erjhll14zbcp.png)
+[![](img/a7f248a57c29edc81ff6c8f0efd33654.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gdIz0VyD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t9zadl65erjhll14zbcp.png)
 
 Android 上的 Chrome、Opera 和 Firefox 都支持。在`navigator.connection`上还有其他一些网络质量提示，包括`rtt`、`downlink`和`downlinkMax`。
 
@@ -73,7 +73,7 @@ if (/\slow-2g|2g|3g/.test(navigator.connection.effectiveType)) {
    </template> 
 ```
 
-[![](../Images/e07a043316930baf7cd95853cc184ea8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_tvmKtK---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8jukzhdu62nbghw0cfx3.png)
+[![](img/e07a043316930baf7cd95853cc184ea8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_tvmKtK---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8jukzhdu62nbghw0cfx3.png)
 
 max bck 写了一篇关于使用 React 的[网络感知组件](https://mxb.at/blog/connection-aware-components/)的有趣文章。他同样强调了如何根据网络速度渲染不同的组件:
 

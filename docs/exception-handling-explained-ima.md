@@ -137,7 +137,7 @@ if (hFile == HFILE_ERROR)
 
 假设你喜欢购买最新、最热门的科技产品。当新的小工具发布时，你想成为第一个。
 
-[![](../Images/b28980f3f9269835028b7680d02b079b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5WqDUfIJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o83dfiz9eacxmggbl7pf.jpg)
+[![](img/b28980f3f9269835028b7680d02b079b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5WqDUfIJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o83dfiz9eacxmggbl7pf.jpg)
 
 ### 场景 1
 

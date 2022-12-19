@@ -26,7 +26,7 @@
 
 让我们生成一个基本的 Spring web 项目。
 
-[![Generate project](../Images/1276c568efa5ca90e912d86e335b729d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I2iJk7sL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zso5r075bhrp8c2ids2d.png)
+[![Generate project](img/1276c568efa5ca90e912d86e335b729d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I2iJk7sL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zso5r075bhrp8c2ids2d.png)
 
 然后，我们将添加休息控制器，在开始时，它只会回应零价格。
 

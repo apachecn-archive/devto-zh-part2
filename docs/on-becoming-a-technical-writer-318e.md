@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kolokodess/on-becoming-a-technical-writer-318e>
 
-[![](../Images/a7b3d3095bc144caa0e8791f6b06425f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JPf5UWSE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/810/1%2AXkivhje3fsyI1XEKUokA9w.png)
+[![](img/a7b3d3095bc144caa0e8791f6b06425f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JPf5UWSE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/810/1%2AXkivhje3fsyI1XEKUokA9w.png)
 
 我的许多榜样之一曾经说过，她开始从事技术写作的原因是，作为一名软件开发人员，她写下了她在不断发展的旅程中的新学习和发现，以帮助她在“再次面对相同的问题/错误时迷失”的时候。
 

@@ -8,4 +8,4 @@ Auth0 为任何堆栈上的任何类型(移动、web、本机)的应用提供身
 
 [读下去🏛](https://auth0.com/blog/auth0-architecture-running-in-multiple-cloud-providers-and-regions/?utm_source=dev&utm_medium=sc&utm_campaign=auth0_architecture)
 
-[![Auth0 Architecture: Running In Multiple Cloud Providers And Regions](../Images/96213fa5910ee179ad411e393e9763c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2b2nX7OY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tdohldz7lox3k7980k7h.png)
+[![Auth0 Architecture: Running In Multiple Cloud Providers And Regions](img/96213fa5910ee179ad411e393e9763c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2b2nX7OY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tdohldz7lox3k7980k7h.png)

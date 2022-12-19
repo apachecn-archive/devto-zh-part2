@@ -148,7 +148,7 @@ customFunction`<ul>${arr.map(item => customFunction`<li>${item}</li>`)}</ul>`;
 
 让我们看看这在实践中是如何工作的:
 
-[![updating](../Images/40be9397aa800dc031bd8945a41e0884.png)T2】](https://stackblitz.com/edit/web-components-zero-to-hero-counter?file=demo-element.js)
+[![updating](img/40be9397aa800dc031bd8945a41e0884.png)T2】](https://stackblitz.com/edit/web-components-zero-to-hero-counter?file=demo-element.js)
 
 你可以在这里或者在 [github](https://github.com/thepassle/webcomponents-from-zero-to-hero/tree/part-two/counter-demo) 上看到完整的演示。
 
@@ -201,7 +201,7 @@ window.customElements.define('demo-element', DemoElement);
 
 DOM 中的输出:
 
-[![litoutput](../Images/8d5267ed5bfb1a9104be565d52a2a8c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ocDIgETP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.thepassle.nl/SGTEST/litrenderingoutput.png)
+[![litoutput](img/8d5267ed5bfb1a9104be565d52a2a8c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ocDIgETP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.thepassle.nl/SGTEST/litrenderingoutput.png)
 
 我们现在可以看到 lit *only* 是如何更新我们代码中已经改变的部分(`this.counter`)的，甚至不去理会静态部分。它完成所有这一切不需要任何框架魔法或 VDOM，并且库大小不到 2kb！您还可能注意到输出中有一堆 HTML 注释；不用担心，这就是 lit-html 跟踪静态和动态部分的方式。
 

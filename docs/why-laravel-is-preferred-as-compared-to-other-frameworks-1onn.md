@@ -4,7 +4,7 @@
 
 不仅仅是其他语言的框架，Laravel 是 PHP 生态系统中最好的框架。统计数据证明，Laravel 拥有越来越多的开发人员，每天都有越来越多的开发人员。使用这个简单的现代 web 应用程序开发框架，您可以为您的系统添加所需的健壮性，它在文档、单元测试、身份验证、授权、缓存等方面对您有所帮助。但最重要的是，它为您的 web 应用程序开发提供了高端安全性。
 
-[![](../Images/e9c268cca6a5e9425f16d557ed428091.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JSFTr60T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5g3wc2jm8glbs3qzy9h7.png)
+[![](img/e9c268cca6a5e9425f16d557ed428091.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JSFTr60T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5g3wc2jm8glbs3qzy9h7.png)
 
 但是为什么它如此受欢迎，是什么让它在开发人员社区中如此受欢迎呢？不是一个，而是 10 个原因使它如此完美，它是快速的，开源的，允许开发人员立即轻松完成他们的工作。Laravel 应用程序开发为您的项目提供了可伸缩性，同时极大地提高了性能。
 

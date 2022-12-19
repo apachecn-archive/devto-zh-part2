@@ -10,7 +10,7 @@
 
 该系统由几个微服务组成，其中一个负责管理身份、角色和权限。用户是从客户的公司 Active Directory 导入的。客户知道，我们通过一个特殊的查询来挑选广告用户。
 
-[![System context](../Images/be439ee16ab7b5fa6f6435cf4ea3524d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3MCDCF7C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2i9prauqgz3x4qnsgznt.png)
+[![System context](img/be439ee16ab7b5fa6f6435cf4ea3524d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3MCDCF7C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2i9prauqgz3x4qnsgznt.png)
 
 现在，客户提出，用户在一个特定的部门，不属于 LDAP 查询。所以我们加了那个部门。并解决了罚单。
 
@@ -74,7 +74,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 一切都有道理:没有神奇的密码。我们完全走错了路。他们只是克隆了运行活动目录的虚拟机，一个保留在外部公司，另一个克隆的由我们的客户使用。猜猜看，我们连接的是什么广告？不幸的是第一个。他们拆分了公司，分离了地点，但没有分离网络。他们没有删除第一个广告中保留在被删除部分的员工。
 
-[![The solution](../Images/82d11cf2b061e78c51b63dd9429dec44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y06zUEB1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wx7h5yzckhsfrhropq50.png)
+[![The solution](img/82d11cf2b061e78c51b63dd9429dec44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y06zUEB1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wx7h5yzckhsfrhropq50.png)
 
 因此，基本上所有的用户都可以登录，但那些改变了密码的人却不能登录。很明显，随着时间的推移，用户的数量在增加，因为根据他们的安全策略，他们被迫更改密码。
 

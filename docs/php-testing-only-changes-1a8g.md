@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/mykeels/php-testing-only-changes-1a8g>
 
-[![changes](../Images/7bb044e21dfaa9d354769c1e470a9967.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NZBDjZgs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mausatf.com/wp-content/uploads/2015/05/change_sign1.jpg)T3】
+[![changes](img/7bb044e21dfaa9d354769c1e470a9967.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NZBDjZgs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mausatf.com/wp-content/uploads/2015/05/change_sign1.jpg)T3】
 
 <center><small><u>Ref: [USATF Mid-Atlantic](https://mausatf.com/background-screening-process-changes/)</u></small></center>
 
@@ -41,6 +41,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 而不是
 
-[![image](../Images/db73cb03537722fe794ac764a2fb8660.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ORtr8xS5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/11996508/42683545-85d8f218-8685-11e8-8762-82ec753a8497.png)
+[![image](img/db73cb03537722fe794ac764a2fb8660.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ORtr8xS5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/11996508/42683545-85d8f218-8685-11e8-8762-82ec753a8497.png)
 
 🎉💃编码快乐！

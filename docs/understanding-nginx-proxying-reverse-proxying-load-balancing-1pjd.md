@@ -59,7 +59,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是一个虚拟的描述
 
-[![source - wikipedia - such good people](../Images/d530d9f8c6d3498ed0a2a045ee059f3b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZcwB_Ojj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_E03B7F3068651149406121A3CCB672B40D6EDF37D962EC28850BABB322302CCA_1527048473974_1200px-Reverse_proxy_h2g2bob.svg.png)
+[![source - wikipedia - such good people](img/d530d9f8c6d3498ed0a2a045ee059f3b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZcwB_Ojj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_E03B7F3068651149406121A3CCB672B40D6EDF37D962EC28850BABB322302CCA_1527048473974_1200px-Reverse_proxy_h2g2bob.svg.png)
 
 有了 nginx，我们可以做到这一点，甚至更进一步，听说过 ngrok 吗，也许你听过，也许没有，两种方式都有，
 

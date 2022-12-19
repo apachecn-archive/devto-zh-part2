@@ -26,7 +26,7 @@
 
 # 步骤 2 —设置 React 应用程序
 
-[![package.json • Before](../Images/4892b4c4ce75e87378fe739ba2f022ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NUnAoUCz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2At-t56mOcUMwZm2Py8XDwgw.png)
+[![package.json • Before](img/4892b4c4ce75e87378fe739ba2f022ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NUnAoUCz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2At-t56mOcUMwZm2Py8XDwgw.png)
 
 打开你的 React 应用(我用的是 create-react-app)，打开你的 package.json 文件。如果您使用 create-react-app，我们将添加一个名为 engines 的新对象。在引擎对象内部，我们需要指定 npm 和节点的版本。为此，请打开您的终端并键入:
 

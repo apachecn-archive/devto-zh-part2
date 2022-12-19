@@ -10,7 +10,7 @@
 
 这是我们将构建的预览:
 
-[![](../Images/9f5fc97c21d49def51e4885e5a42be1b.png)T2】](//images.ctfassets.net/1es3ne0caaid/5vVy2T7aY8qoOiCuA8oGQK/abdfe10038a2935fa4a894296db6630d/go-photo-feed-demo.gif)
+[![](img/9f5fc97c21d49def51e4885e5a42be1b.png)T2】](//images.ctfassets.net/1es3ne0caaid/5vVy2T7aY8qoOiCuA8oGQK/abdfe10038a2935fa4a894296db6630d/go-photo-feed-demo.gif)
 
 ## 先决条件
 
@@ -29,7 +29,7 @@
 
 去 Pusher 网站创建一个帐户。创建帐户后，您应该创建一个新的应用程序。遵循应用程序创建向导，然后您应该获得您的应用程序凭证，我们将在本文后面使用它。
 
-[![](../Images/04a8c8a5c51d0d49eaaf5b46eb21d22d.png)T2】](//images.ctfassets.net/1es3ne0caaid/5mwD9r7FFmWugK6AyY08Ga/fdff5e30849724654dd10c6a5f3de29a/go-photo-feed-app-keys.png)
+[![](img/04a8c8a5c51d0d49eaaf5b46eb21d22d.png)T2】](//images.ctfassets.net/1es3ne0caaid/5mwD9r7FFmWugK6AyY08Ga/fdff5e30849724654dd10c6a5f3de29a/go-photo-feed-app-keys.png)
 
 现在我们已经有了应用程序，让我们进入下一步
 
@@ -311,7 +311,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/0f461b4d9d0fb08bf83d2c94f91188ea.png)T2】](//images.ctfassets.net/1es3ne0caaid/3DPeaIV05GMOGMSUouAaO/ce811f6f30da4b86c8c659f8637fdc3e/go-photo-feed-go-run.png)
+[![](img/0f461b4d9d0fb08bf83d2c94f91188ea.png)T2】](//images.ctfassets.net/1es3ne0caaid/3DPeaIV05GMOGMSUouAaO/ce811f6f30da4b86c8c659f8637fdc3e/go-photo-feed-go-run.png)
 
 ## 建设我们的前端
 
@@ -432,7 +432,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是它将再次呈现的样子:
 
-[![](../Images/9f5fc97c21d49def51e4885e5a42be1b.png)T2】](//images.ctfassets.net/1es3ne0caaid/5vVy2T7aY8qoOiCuA8oGQK/abdfe10038a2935fa4a894296db6630d/go-photo-feed-demo.gif)
+[![](img/9f5fc97c21d49def51e4885e5a42be1b.png)T2】](//images.ctfassets.net/1es3ne0caaid/5vVy2T7aY8qoOiCuA8oGQK/abdfe10038a2935fa4a894296db6630d/go-photo-feed-demo.gif)
 
 ## 结论
 

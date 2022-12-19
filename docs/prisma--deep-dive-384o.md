@@ -4,7 +4,7 @@
 
 #### 云原生— GraphQL —数据库 API 层
 
-<figure>[![](../Images/af7e677fa6b8388677d4f7c82f399ab1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--udWQUjy7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AoK0VF4K-Z1JsxsKytP54nA.png) 
+<figure>[![](img/af7e677fa6b8388677d4f7c82f399ab1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--udWQUjy7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AoK0VF4K-Z1JsxsKytP54nA.png) 
 
 <figcaption>一个未来主义的云原生— GraphQL 数据库 API 层</figcaption>
 
@@ -46,7 +46,7 @@ Prisma 处于一个非常强大的 GraphQL 生态系统的前沿。
 
 #### **Prisma 在我的设置中处于什么位置？**
 
-<figure>[![](../Images/9135e2d9df14136083513e3d9b664622.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bq2AMAi6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A3cqtoZ02tki_CYffhA2snQ.jpeg)
+<figure>[![](img/9135e2d9df14136083513e3d9b664622.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bq2AMAi6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A3cqtoZ02tki_CYffhA2snQ.jpeg)
 
 <figcaption>【Prisma(能)做什么？</figcaption>
 
@@ -323,7 +323,7 @@ application server 中的解析器通过使用绑定来使用底层 prisma 服�
 
 ### 授人以鱼
 
-<figure>[![](../Images/a684c53d815048f9dccf77af73ba291b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wywkGygM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ay_FrAGK1g-nYf3lCpmHM4Q.jpeg) 
+<figure>[![](img/a684c53d815048f9dccf77af73ba291b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wywkGygM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ay_FrAGK1g-nYf3lCpmHM4Q.jpeg) 
 
 <figcaption>教人如何钓鱼——照片由[纳撒尼尔·舒曼](https://unsplash.com/photos/ahKO5IOXFDM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)上传 [Unsplash](https://unsplash.com/search/photos/fish?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 

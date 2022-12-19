@@ -4,7 +4,7 @@
 
 这篇文章最初发表在我的博客上。
 
-[![Nuxt and AWS](../Images/d433dd55bbff867188f46c34dff89066.png "Static Sites Powered By Nuxt and AWS")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rmDCC4Nd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rd5n1lbv0ww72ht01r90.png)
+[![Nuxt and AWS](img/d433dd55bbff867188f46c34dff89066.png "Static Sites Powered By Nuxt and AWS")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rmDCC4Nd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rd5n1lbv0ww72ht01r90.png)
 
 我想分享一下我是如何建立我的新个人网站和博客的。就静态博客而言，我的目标非常简单。很明显，我不想用 CMS。我想使用静态托管环境，这样我就不用管理服务器了。我还想探索针对前端的技术，因为我花了很多时间使用服务器端语言构建 web 应用程序。现在在静态站点生成领域真的有很多事情正在发生。静态站点已经证明了它们的价值，尤其是在性能和成本方面。从 React 社区开始，Next.js 和 Gatsby 开始流行起来。Hugo 是一个用 go 编写的流行项目，VuePress 刚刚在今年 4 月问世。
 
@@ -146,7 +146,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 到目前为止，灯塔得分看起来相当不错:
 
-[![Lighthouse](../Images/8aab9c03de773acdcaae015157f99978.png "Lighthouse score")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NATJBnvE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5sgnln5pa14tozy5u0jb.png)
+[![Lighthouse](img/8aab9c03de773acdcaae015157f99978.png "Lighthouse score")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NATJBnvE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5sgnln5pa14tozy5u0jb.png)
 
 ## 部署
 

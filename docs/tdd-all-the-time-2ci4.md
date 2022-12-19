@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/albinotonnina/tdd-all-the-time-2ci4>
 
-[![](../Images/933a8ccf8876c6ae27aa97c9b1057937.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cJVjE1jv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v4axbrlqmcej7glafwet.gif)
+[![](img/933a8ccf8876c6ae27aa97c9b1057937.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cJVjE1jv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v4axbrlqmcej7glafwet.gif)
 
 你真的一直做 TDD 吗？有时候？修复 bug 的时候？做 API 的时候，做 ui 的时候，什么时候？
 或者你做 DDT，开发驱动测试？

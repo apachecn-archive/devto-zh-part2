@@ -6,7 +6,7 @@
 
 他们鼓励配对，所以在过去的几周里，我和[ok](https://github.com/okayzed)配对，让[面对音乐](https://face-the-music.glitch.me)，这允许你用你的面部表情制作音乐，然后将其录制为 webm 文件！
 
-[![Face the Music](../Images/fac376aaa0e35b5ffc3f90567c831fbd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gPr0RpjW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i2d2fg6ifrfjhlhxel1e.gif) 
+[![Face the Music](img/fac376aaa0e35b5ffc3f90567c831fbd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gPr0RpjW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i2d2fg6ifrfjhlhxel1e.gif) 
 它的用途:
 
 *   [clmtrackr.js](https://github.com/auduno/clmtrackr) 用于人脸追踪。

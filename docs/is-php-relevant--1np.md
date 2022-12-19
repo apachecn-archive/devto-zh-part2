@@ -8,7 +8,7 @@
 
 截至 2017 年 12 月， [PHP 占互联网上使用的服务器端语言的 83%](https://w3techs.com/technologies/overview/programming_language/all) 。其中很大一部分是由基于 PHP 的内容管理系统组成的，比如 WordPress，但是即使你把预建的内容管理系统从等式中去掉， [PHP 仍然占据了超过 54%的网络份额](https://w3techs.com/technologies/overview/programming_language/all)。事实上，如果你看看下面的图表，你会发现 PHP 的市场份额在 2017 年一直保持稳定，甚至有所增加。
 
-[![Use of PHP in websites 2017 graph image](../Images/7a2bb0608560b90e5f59b4b6aebb295d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---GyYHjQQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://maydenacademy.co.uk/wp-content/uploads/2018/02/pl-php.png)
+[![Use of PHP in websites 2017 graph image](img/7a2bb0608560b90e5f59b4b6aebb295d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---GyYHjQQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://maydenacademy.co.uk/wp-content/uploads/2018/02/pl-php.png)
 
 早在 9 月份，我写了一篇关于“行业相关”技能和技术的博客。在写这篇博客的时候，PHP 和 JavaScript 是就业市场上最受欢迎的语言。情况依然如此。并非巧合的是，它们是我们在学院花时间最多的两种语言。
 

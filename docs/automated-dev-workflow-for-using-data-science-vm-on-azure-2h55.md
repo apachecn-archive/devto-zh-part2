@@ -8,7 +8,7 @@
 
 在[我之前的博文](https://dev.to/anoff/deploy-datascience-infrastructure-on-azure-using-terraform-12kl-temp-slug-8098101)中，我解释了如何在[平台](https://www.terraform.io/intro/index.html)部署 [Azure 数据科学虚拟机](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/overview)。
 
-[![](../Images/ef2e3e21f85e48750ff86356cb161d03.png)](https://cdn-images-1.medium.com/max/1012/1*Bx6KlPw3otLxrY_nYQdAQg.png) 
+[![](img/ef2e3e21f85e48750ff86356cb161d03.png)](https://cdn-images-1.medium.com/max/1012/1*Bx6KlPw3otLxrY_nYQdAQg.png) 
 
 <figcaption>可用命令概述</figcaption>
 
@@ -16,7 +16,7 @@
 
 最近我开始做一些#深度学习🔮作为我的 Udacity 人工智能纳米学位的一部分。当我去年在做#deeplearning Nanodegree 的时候，我开始[编写启动/停止 AWS GPU VM](https://github.com/anoff/nd101/blob/master/gan_mnist/Makefile) 的脚本，并四处同步代码。这一次，我想试试蔚蓝色的云。主要是因为我白天的工作让我看到了他们的许多服务，我想更深入地探索 Azure 数据科学产品。更多的是软件开发人员，而不是数据科学家👨‍🔬我经常觉得我在版本控制、测试和开发简易性方面的标准超出了 ML 生态系统默认提供的标准(希望这不会冒犯那里的数据奇才)。我的开发机是一个没有 GPU 支持的小 MacBook。因此，为了训练神经网络，我想得到一个带有 GPU 的虚拟机。Azure 为虚拟机提供了一个[预烘焙的 Ubuntu 映像](https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/)，其中包含所有当今的数据科学工具:Python、Conda、Jupyter、GPU Neuralnet libs 等。
 
-[![](../Images/6b009b61c4370a598b0c1bf00a5af573.png)](https://cdn-images-1.medium.com/max/562/1*Oau5dKnDt_e7wFfOlX2llA.png) 
+[![](img/6b009b61c4370a598b0c1bf00a5af573.png)](https://cdn-images-1.medium.com/max/562/1*Oau5dKnDt_e7wFfOlX2llA.png) 
 
 <figcaption>顶级特性，参见[此列表](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/overview)了解 DSVM 上可用的完整堆栈([来源](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-ads.linux-data-science-vm-ubuntu) )</figcaption>
 
@@ -52,11 +52,11 @@ rsync [OPTION]... SRC [SRC]... [USER@]HOST::DEST
 
 *如果我没有正确解释，我很抱歉💯%确定我正确理解他们的工作😊
 
-[![](../Images/38a8a2447651ca33a8a19fccc57f080f.png)](https://cdn-images-1.medium.com/max/729/1*ffSnnPoJkPq2BnXqUfixFQ.png) 
+[![](img/38a8a2447651ca33a8a19fccc57f080f.png)](https://cdn-images-1.medium.com/max/729/1*ffSnnPoJkPq2BnXqUfixFQ.png) 
 
 <figcaption>这是被创造的资源</figcaption>
 
-[![](../Images/3f46972f77c2e0be439ee94b3719b926.png)](https://cdn-images-1.medium.com/max/749/1*TT4fEhGizjadrx17c0Ynew.png)
+[![](img/3f46972f77c2e0be439ee94b3719b926.png)](https://cdn-images-1.medium.com/max/749/1*TT4fEhGizjadrx17c0Ynew.png)
 
 <figcaption>terra form 配方中的变量</figcaption>
 
@@ -68,7 +68,7 @@ rsync [OPTION]... SRC [SRC]... [USER@]HOST::DEST
 
 它们是一个 [SSH 密钥对](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)，您将在以后连接到虚拟机时使用它进行身份验证。在 Terraform 过程中，公钥将存储在虚拟机上，因此它稍后会将其识别为有效密钥。这个私有密钥将被用来在这个过程的最后 SSH 到机器中，为以后的文件传输准备本地文件系统——也就是创建一个`~/work`目录。您可能还想修改管理员用户名或资源位置。
 
-[![](../Images/747ac5495e878d3614d3fd02ff12136b.png)](https://cdn-images-1.medium.com/max/693/1*xBors1HBFd35O0ZDrVqnGQ.png)
+[![](img/747ac5495e878d3614d3fd02ff12136b.png)](https://cdn-images-1.medium.com/max/693/1*xBors1HBFd35O0ZDrVqnGQ.png)
 
 <figcaption>config . auto . TF vars</figcaption>
 
@@ -76,7 +76,7 @@ rsync [OPTION]... SRC [SRC]... [USER@]HOST::DEST
 
 您可能会看到以下错误时，试图运行 Terraform 脚本没有阅读到这里。
 
-[![](../Images/a3a2c25640725c1455b08da2fc56fa17.png)](https://cdn-images-1.medium.com/max/1024/0*rBLvs8PYsESCoQM0.) 
+[![](img/a3a2c25640725c1455b08da2fc56fa17.png)](https://cdn-images-1.medium.com/max/1024/0*rBLvs8PYsESCoQM0.) 
 
 <figcaption>由于缺少许可协议导致 Terraform 错误</figcaption>
 
@@ -92,7 +92,7 @@ $ Get-AzureRmMarketplaceTerms -Publisher "microsoft-ads" -Product "linux-data-sc
 
 成功签署许可条款后，您应该在 shell 中看到以下输出
 
-[![](../Images/795ab289c1a2cdbbbe4b54f8ee01d135.png)T2】](https://cdn-images-1.medium.com/max/1024/0*dJGkO860Y2VCzaDW.png)
+[![](img/795ab289c1a2cdbbbe4b54f8ee01d135.png)T2】](https://cdn-images-1.medium.com/max/1024/0*dJGkO860Y2VCzaDW.png)
 
 #### 运行地形🏃‍♂️
 
@@ -110,7 +110,7 @@ $ Get-AzureRmMarketplaceTerms -Publisher "microsoft-ads" -Product "linux-data-sc
 
 使用工作目录(放置 Makefile 的地方)中的`make syncup`将本地目录内容同步到远程机器上。您可以看到正在执行的命令以及远程目录的名称。在我的情况下，它是~/work/AIND-RNN，这是我的一个纳米学位项目。您还可以看到，该命令自动忽略了在您的`.gitignore`中定义的所有文件，这意味着您不想版本化的任何内容也不会被复制。这对于在神经网络训练过程中创建的工件尤其有用。
 
-[![](../Images/df45485be3a6a5ad46de4285e7a2d129.png)](https://cdn-images-1.medium.com/max/865/1*Dq4e1DsOEc8LIQv8iMR2UQ.png)
+[![](img/df45485be3a6a5ad46de4285e7a2d129.png)](https://cdn-images-1.medium.com/max/865/1*Dq4e1DsOEc8LIQv8iMR2UQ.png)
 
 <figcaption>make syncup 的输出</figcaption>
 
@@ -120,7 +120,7 @@ $ Get-AzureRmMarketplaceTerms -Publisher "microsoft-ads" -Product "linux-data-sc
 
 首先，您需要使用`make ssh`SSH 进入机器，这也将为本地机器上的 Jupyter 端口 **8888** 进行端口转发，以便您可以在本地浏览器(我的 MacBook)中打开 [http://localhost:8888](http://localhost:8888) ,并连接到在虚拟机(Jupyter 笔记本)上监听该端口的 web 服务器。现在，您已经有了一个运行在 DSVM 上的 shell，可以操作文件系统，通过 pip/conda 安装缺失的包，或者只是启动一个进程。
 
-[![](../Images/d3eb974f19f3a8c039407483397d6ecb.png)](https://cdn-images-1.medium.com/max/1020/1*yTi-8TPBnLCdysDuJT3Yaw.png) 
+[![](img/d3eb974f19f3a8c039407483397d6ecb.png)](https://cdn-images-1.medium.com/max/1020/1*yTi-8TPBnLCdysDuJT3Yaw.png) 
 
 <figcaption>首发虚拟机上的 jupyter 笔记本</figcaption>
 
@@ -132,7 +132,7 @@ $ Get-AzureRmMarketplaceTerms -Publisher "microsoft-ads" -Product "linux-data-sc
 
 > _🚨_ 确保您首先退出 SSH 连接
 
-[![](../Images/c633af43b7741229b56e878a2a981655.png)](https://cdn-images-1.medium.com/max/876/1*d9lbCykuPCtKQhe1sDdsBw.png) 
+[![](img/c633af43b7741229b56e878a2a981655.png)](https://cdn-images-1.medium.com/max/876/1*d9lbCykuPCtKQhe1sDdsBw.png) 
 
 <figcaption>将远程更改复制到本地文件系统</figcaption>
 
@@ -142,7 +142,7 @@ $ Get-AzureRmMarketplaceTerms -Publisher "microsoft-ads" -Product "linux-data-sc
 
 如果您还没有查看，您应该查看一下您所调配的虚拟机的实际成本。 **Standard_NC6** (这是最便宜的 GPU 实例)如果你让它运行一个月的话，会花掉你一个小假期。这就是为什么我想要一种简单的方法，当我不需要它时停止它，如果我想继续工作，就快速恢复它。
 
-[![](../Images/9cedc6afb0a0d4a05ba02ccbf1377f77.png)T2】](https://cdn-images-1.medium.com/max/1024/1*l5o4sU8CQMVF29JDpviaNA.png)
+[![](img/9cedc6afb0a0d4a05ba02ccbf1377f77.png)T2】](https://cdn-images-1.medium.com/max/1024/1*l5o4sU8CQMVF29JDpviaNA.png)
 
 Makefile 附带了三个命令来管理虚拟机本身的状态。它们都需要位于。vm-id 以在您的 Azure 订阅中选择正确的 vm:
 
@@ -152,7 +152,7 @@ Makefile 附带了三个命令来管理虚拟机本身的状态。它们都需�
 
 `make status`将告诉您虚拟机是否已启动
 
-[![](../Images/1b685e3a4e1dd121f1fdd0454e9243d7.png)](https://cdn-images-1.medium.com/max/642/1*fWfS39LrqSt3BVnjTVdk-Q.png) 
+[![](img/1b685e3a4e1dd121f1fdd0454e9243d7.png)](https://cdn-images-1.medium.com/max/642/1*fWfS39LrqSt3BVnjTVdk-Q.png) 
 
 <figcaption>虚拟机启动/状态/停止</figcaption>
 
@@ -162,9 +162,9 @@ Makefile 附带了三个命令来管理虚拟机本身的状态。它们都需�
 
 如果你担心如果你错过停止虚拟机，账单可能会飞来，你应该仔细看看 Azure 为你提供的**自动关机**功能。它允许您指定虚拟机每天自动关闭的时间。
 
-[![](../Images/a725bbce958d134d045aa199e442b6b7.png)T2】](https://cdn-images-1.medium.com/max/224/1*eCQ-Uvq0dzVIK8EiqdtFvQ.png)
+[![](img/a725bbce958d134d045aa199e442b6b7.png)T2】](https://cdn-images-1.medium.com/max/224/1*eCQ-Uvq0dzVIK8EiqdtFvQ.png)
 
-[![](../Images/2a184c174bc105e3b1f25919e9b3a9a0.png)](https://cdn-images-1.medium.com/max/514/1*q7Mp8WkWI_0rtsKkMAQIUw.png) 
+[![](img/2a184c174bc105e3b1f25919e9b3a9a0.png)](https://cdn-images-1.medium.com/max/514/1*q7Mp8WkWI_0rtsKkMAQIUw.png) 
 
 <figcaption>虚拟机自动关机</figcaption>
 
@@ -180,7 +180,7 @@ Makefile 附带了三个命令来管理虚拟机本身的状态。它们都需�
 
 这里是另一个看看所有的命令，你可以 use🧙‍♀️
 
-[![](../Images/ef2e3e21f85e48750ff86356cb161d03.png)](https://cdn-images-1.medium.com/max/1012/1*Bx6KlPw3otLxrY_nYQdAQg.png) 
+[![](img/ef2e3e21f85e48750ff86356cb161d03.png)](https://cdn-images-1.medium.com/max/1012/1*Bx6KlPw3otLxrY_nYQdAQg.png) 
 
 <figcaption>可用命令</figcaption>
 

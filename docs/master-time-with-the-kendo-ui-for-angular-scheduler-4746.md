@@ -10,7 +10,7 @@ Angular 的剑道 UI 的调度器已经到了。今天就来看看你能用这�
 
 让我们马上开始吧！
 
-[![001-scheduler-in-action](../Images/efd8aa55cf4f11c053bc349da87ceeb6.png "001-scheduler-in-action")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P7ehKmJN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/001-scheduler-in-action.png%3Fsfvrsn%3D6a369308_1)
+[![001-scheduler-in-action](img/efd8aa55cf4f11c053bc349da87ceeb6.png "001-scheduler-in-action")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P7ehKmJN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/001-scheduler-in-action.png%3Fsfvrsn%3D6a369308_1)
 
 ## 基础数据绑定
 
@@ -135,7 +135,7 @@ export class AppComponent {
 
 当前编辑是使用反应指令`kendoSchedulerReactiveEditing`完成的。这是一个[反应模型驱动的表单](https://angular.io/guide/reactive-forms)，这是截至撰写这篇博文(2018 年 11 月)时唯一支持的编辑这些项目的方式。然而，未来我们还将增加对[模板驱动表单](https://angular.io/guide/forms)的支持。用户双击事件也可以进行编辑，因为拖动/调整事件大小还不可用。顺便说一句，这是我们在接下来的几周内要解决的第一个问题，所以一旦它在组件的未来版本中可用，我们会尽快添加它！
 
-[![002-angular-editing](../Images/b564d32cdd77caa142f891b9fc5a8632.png "002-angular-editing")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OYMiHYLo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/002-angular-editing.gif%3Fsfvrsn%3Db5f6b592_1)
+[![002-angular-editing](img/b564d32cdd77caa142f891b9fc5a8632.png "002-angular-editing")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OYMiHYLo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/002-angular-editing.gif%3Fsfvrsn%3Db5f6b592_1)
 
 正如您所看到的，我们可以编辑单个事件和我们希望围绕重复设置的规则，这是一组现成的功能。
 
@@ -147,19 +147,19 @@ export class AppComponent {
 
 #### 日和周视图
 
-[![003-scheduler-views-day](../Images/1c6b2723306c5250ad9f6b9018952689.png "003-scheduler-views-day")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GZyjbwBX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/003-scheduler-views-day.png%3Fsfvrsn%3D869ee034_1)
+[![003-scheduler-views-day](img/1c6b2723306c5250ad9f6b9018952689.png "003-scheduler-views-day")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GZyjbwBX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/003-scheduler-views-day.png%3Fsfvrsn%3D869ee034_1)
 
 #### 月视图
 
-[![004-scheduler-views-month](../Images/f012be80889a0e5be64909a8d14a196a.png "004-scheduler-views-month")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZHe4b9vH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/004-scheduler-views-month.png%3Fsfvrsn%3D6be1629_1)
+[![004-scheduler-views-month](img/f012be80889a0e5be64909a8d14a196a.png "004-scheduler-views-month")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZHe4b9vH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/004-scheduler-views-month.png%3Fsfvrsn%3D6be1629_1)
 
 #### 时间线视图
 
-[![005-scheduler-views-timeline](../Images/e7f673d48d155f5bce89645dd9e3058c.png "005-scheduler-views-timeline")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XInwr_SE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/005-scheduler-views-timeline.png%3Fsfvrsn%3D3ee920a8_1)
+[![005-scheduler-views-timeline](img/e7f673d48d155f5bce89645dd9e3058c.png "005-scheduler-views-timeline")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XInwr_SE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/005-scheduler-views-timeline.png%3Fsfvrsn%3D3ee920a8_1)
 
 #### 议程视图
 
-[![006-scheduler-views-agenda](../Images/f0ffaa41deb9d5fcea18c47a73de2217.png "006-scheduler-views-agenda")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KArADiwS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/006-scheduler-views-agenda.png%3Fsfvrsn%3D66284ce3_1)
+[![006-scheduler-views-agenda](img/f0ffaa41deb9d5fcea18c47a73de2217.png "006-scheduler-views-agenda")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KArADiwS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/006-scheduler-views-agenda.png%3Fsfvrsn%3D66284ce3_1)
 
 如你所见，有很多不同的方式来表示你预定的事件！
 

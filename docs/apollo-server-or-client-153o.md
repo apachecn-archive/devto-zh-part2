@@ -12,7 +12,7 @@
 
 我认为服务器端是一个 API，也许以后会在移动设备应用程序中使用它，但那是以后的事了。
 
-[![Graph](../Images/028062d55be5ae924d6583984844bc7d.png "What I'm thinking of doing")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EAhkVkjz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uxqscxzwwgs3g5g5aost.png)
+[![Graph](img/028062d55be5ae924d6583984844bc7d.png "What I'm thinking of doing")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EAhkVkjz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uxqscxzwwgs3g5g5aost.png)
 
 作为测试，我可以用 **graphql** 和 **Apollo Server** 创建一个快速 API，但是现在我需要创建客户端，我有点不知道如何实现它。
 

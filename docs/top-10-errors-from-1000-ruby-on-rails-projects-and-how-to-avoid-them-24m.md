@@ -10,7 +10,7 @@
 
 ## 以下是 10 大 Rails 错误:
 
-[![Screenshot of Rails Error Statistics](../Images/51b3cf4a830cb84d7040e5921eff1bf3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JR1Pb-pz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d33wubrfki0l68.cloudfront.net/529e081e467ee620417fedbfa90f83814aac2506/5c36c/static/rails-error-stat-1-d10fce70047361819ed77b431df956d2-7539a.png)
+[![Screenshot of Rails Error Statistics](img/51b3cf4a830cb84d7040e5921eff1bf3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JR1Pb-pz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d33wubrfki0l68.cloudfront.net/529e081e467ee620417fedbfa90f83814aac2506/5c36c/static/rails-error-stat-1-d10fce70047361819ed77b431df956d2-7539a.png)
 
 你可能已经注意到了一些熟悉的面孔。让我们更深入地研究一下这些错误，看看在您的生产应用程序中是什么导致了这些错误。
 

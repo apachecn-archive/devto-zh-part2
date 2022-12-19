@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/actionphp/javascript-this-3-reasons-why-you-find-it-hard-to-grasp-3lpe>
 
-[![What is this?](../Images/86f5722056209aefb3679347ea70bc62.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d_3vVqPs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/io6voc0lc4pbvcbtzryl.jpg)
+[![What is this?](img/86f5722056209aefb3679347ea70bc62.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d_3vVqPs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/io6voc0lc4pbvcbtzryl.jpg)
 
 如果你在纠结 JavaScript `this`，那不是你的错！事实是，这可能是一个棘手的问题。它绊倒了很多人，不只是你。
 

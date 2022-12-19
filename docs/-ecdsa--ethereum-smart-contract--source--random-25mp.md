@@ -8,7 +8,7 @@
 
 让我们先从这里开始。555 如果我们还不知道如何使用它，首先，我们要学习。为什么？为什么？:)对于 ECDSA，它是 elliptic 的缩写。
 
-<figure>[![](../Images/787cd81b76e69d9f2092acac6bd7a761.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--r4tM1gsg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/1%2AY89MBlUMqXQ1JwFkPNpPFQ.png) 
+<figure>[![](img/787cd81b76e69d9f2092acac6bd7a761.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--r4tM1gsg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/1%2AY89MBlUMqXQ1JwFkPNpPFQ.png) 
 
 <figcaption>【示例格式】用于椭圆曲线计算</figcaption>
 
@@ -249,7 +249,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 truffle 内置的编译会创建一个名为 builds 的文件夹，里面有一个编译完成的文件，然后执行 migrate testnen。
 
-<figure>[![](../Images/d6430bcebe7b467bafd8a62302e443a6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9nJibfgM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/762/1%2A38XbuQ-M7roNJyrdLd3THw.png) 
+<figure>[![](img/d6430bcebe7b467bafd8a62302e443a6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9nJibfgM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/762/1%2A38XbuQ-M7roNJyrdLd3THw.png) 
 
 <figcaption>【图】当部署成功时</figcaption>
 
@@ -265,7 +265,7 @@ truffle test
 
 Enter fullscreen mode Exit fullscreen mode
 
-<figure>[![](../Images/d0ec4cc7dfd16cbd8e26e24ee8d9bc05.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---jdxO_Xh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/762/1%2AURUDZrgwkdkmAXSWaDoKiw.png) 
+<figure>[![](img/d0ec4cc7dfd16cbd8e26e24ee8d9bc05.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---jdxO_Xh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/762/1%2AURUDZrgwkdkmAXSWaDoKiw.png) 
 
 <figcaption>【通用计数器图像】成功完成</figcaption>
 
@@ -332,7 +332,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这需要重新设置，因为不然，truffle 会记住 SimpleECDSA 已经部署完毕。truffle 会弹出一个新的连接。足够了。
 
-<figure>[![](../Images/d29e984c8fac47da3731ca530c063087.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--usTN2UUv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/762/1%2A9QrZwZwOLtxZ7sPBjT2-jw.png) 
+<figure>[![](img/d29e984c8fac47da3731ca530c063087.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--usTN2UUv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/762/1%2A9QrZwZwOLtxZ7sPBjT2-jw.png) 
 
 <figcaption>【完成测试时的图像】</figcaption>
 

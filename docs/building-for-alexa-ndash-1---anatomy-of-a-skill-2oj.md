@@ -17,7 +17,7 @@ Alexa 技能流中包含四个主要实体:
 
 所以，基本上当你谈论建立一个技能时，你实际上是在建立后端服务和配置亚马逊 Alexa 服务。下面是一个简单的示意图。
 
-[![image](../Images/ffc784518706eb0bbd4c3f6bba2b3407.png "image")T2】](http://manand.typepad.com/.a/6a00d83451a61969e2022ad38151ff200d-pi)
+[![image](img/ffc784518706eb0bbd4c3f6bba2b3407.png "image")T2】](http://manand.typepad.com/.a/6a00d83451a61969e2022ad38151ff200d-pi)
 
 Amazon Alexa 服务将传入的请求映射到所谓的意图(由开发人员定义),然后用您需要的数据创建一个 JSON，然后将其发送到后端服务。后端服务执行它应该执行的任何过程，然后将数据作为 JSON 返回。作为这种交换一部分的 JSON 格式是由 Amazon 定义的。
 

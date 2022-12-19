@@ -26,7 +26,7 @@
 
 没错，你就是。
 
-CSS 需要你！ [![Join the force of developers who contribute to CSS](../Images/f31c5ddaf045ab3da3f5ff1cfe64096f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PEk_P6U4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/css-exclusions/css-poster.jpg)
+CSS 需要你！ [![Join the force of developers who contribute to CSS](img/f31c5ddaf045ab3da3f5ff1cfe64096f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PEk_P6U4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/css-exclusions/css-poster.jpg)
 
 ## 但是你可以做点什么
 
@@ -55,7 +55,7 @@ CSS 排除定义了内联内容可以流动的任意区域，并且可以在任�
 
 <figcaption>基本术语</figcaption>
 
-[![Exclusion terminology](../Images/d7acabcf23f7f965c4cee95f8af807a9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KNae2NyI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/css-exclusions/terminology.png)
+[![Exclusion terminology](img/d7acabcf23f7f965c4cee95f8af807a9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KNae2NyI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/css-exclusions/terminology.png)
 
 一个**排除元素**是一个*块级*元素，它是*而非浮点*，并生成一个排除框。一个排除元素建立了一个*新的块格式化上下文*。
 
@@ -75,37 +75,37 @@ CSS 排除定义了内联内容可以流动的任意区域，并且可以在任�
 
 内嵌流动内容可以在排除的所有边上流动。
 
-[![wrap-flow:both example](../Images/e17f134295f6f5cbe9eb115eaf3b3c55.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JJxcMF4q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/css-exclusions/wf-both.jpg)
+[![wrap-flow:both example](img/e17f134295f6f5cbe9eb115eaf3b3c55.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JJxcMF4q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/css-exclusions/wf-both.jpg)
 
 #### `start`
 
 内嵌流动内容只能在禁止区域的起始边缘周围流动，但结束边缘是非流动区域。
 
-[![wrap-flow:start example](../Images/c5c4185b05b6bd51e42353a1e7d5b972.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SqBr2is8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/css-exclusions/wf-start.jpg)
+[![wrap-flow:start example](img/c5c4185b05b6bd51e42353a1e7d5b972.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SqBr2is8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/css-exclusions/wf-start.jpg)
 
 #### `end`
 
 内嵌流动内容只能围绕禁止区域的结束边缘流动，但开始边缘是非流动区域。
 
-[![wrap-flow:end example](../Images/427d820d9429a7cc4e0d6ca49d6af1b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tkQgOnnn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/css-exclusions/wf-end.jpg)
+[![wrap-flow:end example](img/427d820d9429a7cc4e0d6ca49d6af1b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tkQgOnnn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/css-exclusions/wf-end.jpg)
 
 #### `minimum`
 
 内嵌流动内容只能围绕可用空间较少的边缘流动，而另一个边缘为空。
 
-[![wrap-flow:minimum example](../Images/6ca5c31486705c8456721d396d714e67.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mwYj6Q----/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/css-exclusions/wf-min.jpg)
+[![wrap-flow:minimum example](img/6ca5c31486705c8456721d396d714e67.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mwYj6Q----/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/css-exclusions/wf-min.jpg)
 
 #### `maximum`
 
 内联流动内容只能在具有更多可用空间的边缘流动，而另一个边缘为空。
 
-[![wrap-flow:maximum example](../Images/90b45833e963e82f2518a24791b1556b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JSX8wxIe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/css-exclusions/wf-max.jpg)
+[![wrap-flow:maximum example](img/90b45833e963e82f2518a24791b1556b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JSX8wxIe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/css-exclusions/wf-max.jpg)
 
 #### `clear`
 
 没有任何东西沿着内嵌方向沿着排除的起始边和结束边流动。_(ツ)_/
 
-[![wrap-flow:clear example](../Images/8133f762423ba38231b07a6e91c1350b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gPMMHRr0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/css-exclusions/wf-clear.jpg)
+[![wrap-flow:clear example](img/8133f762423ba38231b07a6e91c1350b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gPMMHRr0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/css-exclusions/wf-clear.jpg)
 
 ### `wrap-through`地产
 
@@ -113,7 +113,7 @@ CSS 排除定义了内联内容可以流动的任意区域，并且可以在任�
 
 <figcaption>绿色虚线显示`wrap-through:none`而蓝色虚线显示`wrap-through:wrap`</figcaption>
 
-[![wrap-through example](../Images/aa1edaa3646f5b25dbc2511af0a5b184.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sIAIpMzt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/css-exclusions/wrap-through.jpg)
+[![wrap-through example](img/aa1edaa3646f5b25dbc2511af0a5b184.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sIAIpMzt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/css-exclusions/wrap-through.jpg)
 
 我试图通过重现碧昂斯在 2016 年发布常春藤公园系列时接受《ELLE》采访来展示`wrap-flow`和`wrap-through`的不同价值。如果你想用排除法构建一些东西，你必须使用 Edge 或 Internet Explorer 10 或更高版本，并在属性前加上`-ms-`。
 
@@ -127,7 +127,7 @@ CSS 排除定义了内联内容可以流动的任意区域，并且可以在任�
 
 我不否认这是一个麻烦的情况，Chrome、Safari 和 Opera 支持 CSS 形状但不支持排除，Edge 支持排除但不支持 CSS 形状，Firefox 在 v62 发布后只支持 CSS 形状，但也不支持排除。
 
-[![CanIUse support table for CSS exclusions as of 2018 Aug 02](../Images/333428e902462b8fd8cfde484aea61cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P1CMhkgY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rawgit.com/huijing/slides/gh-pages/37-code-2018/img/caniuse-exclusions.png)
+[![CanIUse support table for CSS exclusions as of 2018 Aug 02](img/333428e902462b8fd8cfde484aea61cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P1CMhkgY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rawgit.com/huijing/slides/gh-pages/37-code-2018/img/caniuse-exclusions.png)
 
 如果你在想，为什么我们在形状和排斥方面会处于如此尴尬的境地？相信我，我明白。我希望我的文字也能环绕碧昂斯的两个肘部。但不幸的是，似乎没有办法做到这一点。**尚未**。
 
@@ -143,7 +143,7 @@ CSS 排除定义了内联内容可以流动的任意区域，并且可以在任�
 
 也许如果更多的人开始写用例，或者谈论和发微博，我们可以让事情向前发展。因为，拜托，看看大家对这个功能的普遍情绪就知道了。
 
-天哪，我们发出的这些信号是什么？ [![Chrome platform status: CSS exclusions](../Images/103cac083728098af3a0db2df69228fe.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SRIeTHKq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/css-exclusions/users.jpg)
+天哪，我们发出的这些信号是什么？ [![Chrome platform status: CSS exclusions](img/103cac083728098af3a0db2df69228fe.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SRIeTHKq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/css-exclusions/users.jpg)
 
 公众的怀疑？？叹气。
 

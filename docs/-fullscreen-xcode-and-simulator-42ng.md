@@ -25,7 +25,7 @@
 
 一；一个💡我脑子里突然冒出一个想法，为什么不全屏放在 Xcode 旁边呢？不幸的是，模拟器默认不支持全屏模式。我做了一点研究，发现有一种方法，但这不是我们所需要的，如果我们有一个全屏运行模拟器，第二个运行 Xcode，这几乎不会有任何改善。我们需要将它们合并在一起，以分开的全屏模式运行。幸运的是，一旦它们支持全屏，这两者都可以实现。
 
-[![Xcode 10 with Simulator in fullscreen](../Images/41acfcb81cae864c7fb1e2f1fa6236c9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qzHwktr1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blg.zdnkt.com/content/images/2018/08/Screenshot-2018-08-02-at-20.27.34.png) 
+[![Xcode 10 with Simulator in fullscreen](img/41acfcb81cae864c7fb1e2f1fa6236c9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qzHwktr1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blg.zdnkt.com/conteimg/2018/08/Screenshot-2018-08-02-at-20.27.34.png) 
 左边是全屏运行的 Xcode 10 beta 5，右边是运行 iOS 12 的 iPhone X 模拟器。
 
 # 💨简单的方法
@@ -78,7 +78,7 @@ SIP 是[系统完整性保护](https://support.apple.com/en-us/HT204899)在 El C
 
 通过 Xcode 9 ( `Xcode > Open Developer Tool > Simulator`)打开模拟器应用程序。在菜单中，您现在应该会看到一个新项目，`Internal`。
 
-[![Simulator internal settings](../Images/b2fe91fafe474c8c210ac947d69e987b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vhcJhIwh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blg.zdnkt.com/content/images/2018/08/Screenshot-2018-08-02-at-22.40.32.png)
+[![Simulator internal settings](img/b2fe91fafe474c8c210ac947d69e987b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vhcJhIwh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blg.zdnkt.com/conteimg/2018/08/Screenshot-2018-08-02-at-22.40.32.png)
 
 尽管去玩吧。不要忘记启用全屏模式(`Internal > Allow Fullscreen Mode`)。您在 Xcode 9 Simulator 中所做的更改也应该反映在 Xcode 10 Simulator 中，即使它不显示`Internal`菜单。
 

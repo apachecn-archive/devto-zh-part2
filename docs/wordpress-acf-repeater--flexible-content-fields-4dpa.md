@@ -4,7 +4,7 @@
 
 所以基本上，我的一个客户希望我做一些事情，比如有一个内容字段(repeater: [ACF | Repeater](https://www.advancedcustomfields.com/resources/repeater/) )，他可以添加任意数量的行，并在前端显示出来。
 
-[![](../Images/55d27a7438cd0e09e793aa18fed0cbb6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8FARDm85--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d8jxp3ej7n91oxcuog61.png) 
+[![](img/55d27a7438cd0e09e793aa18fed0cbb6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8FARDm85--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d8jxp3ej7n91oxcuog61.png) 
 *只是我应该做的一个例子…基本上我的客户希望有多个部分，我不知道他想要多少部分，这是一个可变的数字*
 
 与此同时，我一直可耻地使用预先固定的名称，因为我原本打算让我的客户做的只是编辑预定义字段本身的内容。因为我很懒。:(

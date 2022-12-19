@@ -475,6 +475,6 @@ spec:
 
 * * *
 
-[![CC 4.0 License](../Images/4662fd03838b335557c183fd57c6b02c.png)T2】](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![CC 4.0 License](img/4662fd03838b335557c183fd57c6b02c.png)T2】](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 *本作品根据[知识共享署名-非商业性使用-类似共享 4.0 国际许可证](http://creativecommons.org/licenses/by-nc-sa/4.0/)* 进行许可

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/brettclawson75/why-you-should-code-your-own-business-dashboard-4afc>
 
-[![dashboard](../Images/7189f865ce447a8b69a805d4701e650d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--swC2f6Yb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1516549843585-2c4cf2e073d2%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3Df780a0e96db11669bc73e99f35c5e437%26auto%3Dformat%26fit%3Dcrop%26w%3D992%26q%3D80)
+[![dashboard](img/7189f865ce447a8b69a805d4701e650d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--swC2f6Yb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1516549843585-2c4cf2e073d2%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3Df780a0e96db11669bc73e99f35c5e437%26auto%3Dformat%26fit%3Dcrop%26w%3D992%26q%3D80)
 
 业务仪表板是一个数据可视化平台，用于显示公司各个部门(如营销、人力资源和生产部门)的当前绩效。它将 [关键绩效指标](http://www.pnmsoft.com/resources/bpm-tutorial/key-performance-indicators/) 展示给组织的执行成员或员工，让他们看到公司一直在做什么以及为什么这样做。仪表板对于在单一屏幕上显示业务记分卡非常重要。有一个关于为什么组织应该制作他们自己的业务仪表板的讨论。
 

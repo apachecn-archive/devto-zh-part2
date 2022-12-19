@@ -8,4 +8,4 @@
 
 [读下去🎯](https://auth0.com/blog/zero-config-javascript-app-prototyping-with-webpack/?utm_source=dev&utm_medium=sc&utm_campaign=javascript_webpack)
 
-[![Zero Config JavaScript App Prototyping with Webpack](../Images/7f716824840e089fca5f74c7a05b99ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VjmIMVbG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8g18jidn9vwbbxxxgrmk.png)
+[![Zero Config JavaScript App Prototyping with Webpack](img/7f716824840e089fca5f74c7a05b99ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VjmIMVbG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8g18jidn9vwbbxxxgrmk.png)

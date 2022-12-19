@@ -14,7 +14,7 @@
 
 我错误地经历了上述步骤，没有意识到会有差异。我部署了我的项目！！我的项目没有出现在`https://javascripterika.github.io/`上，我的`master`分支拥有所有的构建代码。我想将变更推送到我的`master`分支，但是当然，我不打算引入 5k 变更的构建代码，并且我不能不引入就推变更。哇，现在我有一个随机的`gh-pages`分支？而我的主人只是显示为所有的 HTML(那个又大又长的红色条)。WTF！不不。我的 JavaScripts 在哪里？？！😭
 
-[![react-master](../Images/eb9fa6979e2fee3c38de7fee1ae22f36.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c8uwC-X5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/19316487/40633973-bf8fd6b8-62c0-11e8-9fc7-7efc0efa8400.PNG)
+[![react-master](img/eb9fa6979e2fee3c38de7fee1ae22f36.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c8uwC-X5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/19316487/40633973-bf8fd6b8-62c0-11e8-9fc7-7efc0efa8400.PNG)
 
 ## 解
 
@@ -56,7 +56,7 @@ T1】
 在左侧面板上，点击“分支机构”。
 接下来，您可以选择您的`source`分支，并在默认分支标题下更新它。
 
-[![setdefaultbranch](../Images/be0376f6776a71283c4103f03cff8859.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2-LwGese--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/19316487/40635304-7460f17a-62c7-11e8-9442-3d8d6b7a2eeb.PNG)
+[![setdefaultbranch](img/be0376f6776a71283c4103f03cff8859.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2-LwGese--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/19316487/40635304-7460f17a-62c7-11e8-9442-3d8d6b7a2eeb.PNG)
 
 现在，当您通过终端进入`source`分支时，运行:
 

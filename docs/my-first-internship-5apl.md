@@ -40,10 +40,10 @@
 考试结束后，我认真地进入 Reactjs，完成了 codeacademy 课程，并制作了一些小应用程序，如 todo 和 name search bar，以适应这种环境。然后，我开始着手构建 twitter 账户页面。这对我来说并不容易，因为我需要使用一个 UI 库。这个图书馆当时非常新，没有有用的资料，我开始阅读文档，事实证明这真的很有帮助。除此之外，material-ui 文档很容易理解，对我来说很难理解的原因是 jss、网格以及使用 css 和 react 的新方法。
 
 除了所有这些困难，我设法在我的 twitter 页面中实现了 material-ui。完成的感觉是惊人的！
-[![](../Images/29ffd41206951ea27e6c3a7b3a089baf.png)T3】](https://i.giphy.com/media/rDYtceHSUdFu/giphy.gif)
+[![](img/29ffd41206951ea27e6c3a7b3a089baf.png)T3】](https://i.giphy.com/media/rDYtceHSUdFu/giphy.gif)
 
 但是我错过了提交任务的截止日期。不仅仅是我，很多实习生都有同样的问题，因为我们都有不同的考试时间表，因此都落后了。因此，考虑到这一点，最后期限被延长了！
-[![](../Images/46681738747ff6f98fb3a5e4915526f1.png)T3】](https://i.giphy.com/media/1vZ5cQyySXTGwcn14O/giphy.gif)
+[![](img/46681738747ff6f98fb3a5e4915526f1.png)T3】](https://i.giphy.com/media/1vZ5cQyySXTGwcn14O/giphy.gif)
 
 ## 任务二
 
@@ -52,7 +52,7 @@
 ## 完成任务后的日子！
 
 我真的很高兴完成了我的任务，并急切地等待同行评审，在同行评审中，从事某项技术的实习生将由不从事同一项技术的学生进行评审。我对复习有了反应。
-[![](../Images/8f0ed32933bbc189d051c67fe38bcf97.png)](https://i.giphy.com/media/DUtSpDzxZZwPu/giphy.gif) 
+[![](img/8f0ed32933bbc189d051c67fe38bcf97.png)](https://i.giphy.com/media/DUtSpDzxZZwPu/giphy.gif) 
 除了这些在懈怠中发生了很多事情。我没有太多时间参与，但后来我有空了，所以我开始寻找更小的查询，并尝试帮助其他人实现。即使我不能解决问题，我也一定会试着通过对话了解术语和概念，因为那时一切都是新的！
 
 ## 最终组队任务:16 队
@@ -60,7 +60,7 @@
 *作为这个小组任务的一部分，我们被期望在 Hasura 中部署一个定制服务，该服务与**[Watson Conversation API](http://https://www.ibm.com/watson/developercloud/conversation/api/v1/curl.html?curl)**集成，并实现文档*中描述的用例/特性。
 
 对于这项任务，我们被分成一个四人小组，必须合作完成上述任务！我们也有一位来自 Hasura 的导师作为指导，作为实习的一部分，我们需要每天更新[日志](https://docs.google.com/document/d/1hevcPc8nwaq05EEeIeGX4uMtLKuHyL0x_xQ34x9ZBiw/edit?usp=sharing)。
-[![](../Images/4fafe5d1de4a7ba10222b429578a8fc4.png)](https://i.giphy.com/media/ZqhhS5MJiZFpS/giphy.gif) 
+[![](img/4fafe5d1de4a7ba10222b429578a8fc4.png)](https://i.giphy.com/media/ZqhhS5MJiZFpS/giphy.gif) 
 我们团队决定打造一个**音乐机器人**！这个最终任务有三个子任务！！
 
 ### **最终子任务 1** :准备行动计划文件
@@ -86,7 +86,7 @@
 5)下载组件
 
 然后，任务由导师审核。他喜欢它！并通过它发布到 Hasura Hub。
-[![](../Images/f46ea7ae46f1b02584589e92968b7d53.png)](https://i.giphy.com/media/9Jcw5pUQlgQLe5NonJ/giphy.gif) 
+[![](img/f46ea7ae46f1b02584589e92968b7d53.png)](https://i.giphy.com/media/9Jcw5pUQlgQLe5NonJ/giphy.gif) 
 哈苏拉也在[推特](https://twitter.com/aren_rahman/status/983385692850929665)上发布了
 
 ### **最终子任务 3** :扩展功能
@@ -100,7 +100,7 @@
 
 我总是习惯于思考这些项目是如何建造的，以及所有工业的事情是如何发生的！正是通过这次实习，我了解了一切，并把自己推向了极致。哈苏拉的人们...我说，很酷而且非常有才华的开发者，我从他们身上学到了很多。我学习了技术写作、应用程序开发以及各部分如何整合、协作、git、在 StackOverflow 和论坛上发布和回答问题。
 T2】❤️❤️❤️❤️❤️❤️❤️❤️❤️
-T4![](../Images/cd8f0555605104b1c54e1816182753fc.png)T6】
+T4![](img/cd8f0555605104b1c54e1816182753fc.png)T6】
 
 * * *
 

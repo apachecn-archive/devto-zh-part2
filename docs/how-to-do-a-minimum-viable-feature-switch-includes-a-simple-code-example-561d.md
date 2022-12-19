@@ -4,7 +4,7 @@
 
 功能切换是一种在运行时关闭或打开工作软件功能的方式。我们可以使用配置或条件来实现这一点。功能切换也称为功能标志、功能切换和条件功能。在这篇文章中，我将揭示为什么要做[特性切换](https://en.wikipedia.org/wiki/Feature_toggle)以及如何用一个简单的 if 条件来做。
 
-[![Minimum viable feature switch](../Images/56e42b7cac3da3e48dfcf74be907421e.png "Minimum viable feature switch")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z6uV-00U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://geshan.com.np/images/feature-switch/feature-switch.jpg)
+[![Minimum viable feature switch](img/56e42b7cac3da3e48dfcf74be907421e.png "Minimum viable feature switch")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z6uV-00U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://geshan.com.img/feature-switch/feature-switch.jpg)
 
 ## 为什么要做一个特性开关/标志？
 

@@ -119,7 +119,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在我们的方法之外，我们有几个额外的函数用于一些特定的目的。首先是[救生圈挂钩](https://vuejs.org/v2/guide/instance.html#Lifecycle-Diagram)。这些函数在应用程序中以特定的时间间隔被调用。这允许我们将功能与这些事件相关联，例如当实例被创建、更新、销毁等时。我们将使用`mounted`钩子来确保在呈现图表时页面被加载。
 
-[![Lifecycle Hooks](../Images/ed1ae2928867708fe605294ba0ca53fb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--L0NIOsGR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gowj25um09ko6yrvfpqz.png)T3】
+[![Lifecycle Hooks](img/ed1ae2928867708fe605294ba0ca53fb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--L0NIOsGR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gowj25um09ko6yrvfpqz.png)T3】
 
 ```
 mounted: function () { // <-- lifecycle events
@@ -180,6 +180,6 @@ drawChart: function () {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![screenshot](../Images/da055f0cac7bc73ae99544234e183cfe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nBmlCUJ2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7bu2p3740cfn3cq3qygm.png)
+[![screenshot](img/da055f0cac7bc73ae99544234e183cfe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nBmlCUJ2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7bu2p3740cfn3cq3qygm.png)
 
 如果你想看到完整的代码并克隆本教程所基于的 Github Repo。希望这能为您提供一个基础，让您了解如何将来自 Vue 的数据与组件绑定，并在可视化中对其建模。

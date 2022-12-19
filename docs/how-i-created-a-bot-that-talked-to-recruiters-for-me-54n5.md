@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/whokilledkevin/how-i-created-a-bot-that-talked-to-recruiters-for-me-54n5>
 
-[![Main](../Images/a0776a01882b34da2855310356e29816.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j0A4qBAh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/9ac208d112c709a4980815f9f30ff6fc/tenor.gif%3Fitemid%3D5665698)
+[![Main](img/a0776a01882b34da2855310356e29816.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j0A4qBAh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.cimg/9ac208d112c709a4980815f9f30ff6fc/tenor.gif%3Fitemid%3D5665698)
 
 我的名字叫凯文，我想告诉你一个关于我如何阻止招聘人员发送垃圾邮件的简单方法的故事。
 
@@ -10,7 +10,7 @@
 
 有时招聘人员甚至试图在脸书问题上攻击我。查看消息请求:
 
-[![Requests](../Images/9f77ae1a4f7f7f66f3c73fcd4e926354.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n89gll5p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2A9_CtWDhvrT8rHqDQLhurGg.png)
+[![Requests](img/9f77ae1a4f7f7f66f3c73fcd4e926354.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n89gll5p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2A9_CtWDhvrT8rHqDQLhurGg.png)
 
 这就是为什么我决定宁愿要一个机器人，也不要再读这些烦人的信。我已经决定使用 Messenger 平台来创建我的机器人，因为所有的招聘人员都使用脸书，他们可以很容易地与我的数字弟弟聊天。
 
@@ -44,11 +44,11 @@
 
 这是它在 Chatfuel 上的样子:
 
-[![Chatfuel interface](../Images/887c1db8ef207294116d3f798b5606e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x8Bm83ZS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AWNTrDS_qRS9GksXLvLzB5Q.png)
+[![Chatfuel interface](img/887c1db8ef207294116d3f798b5606e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x8Bm83ZS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AWNTrDS_qRS9GksXLvLzB5Q.png)
 
 里面看起来是这样的:
 
-[![Chatfuel interface2](../Images/76ab1d9cab03de57a84b05347520a741.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6ZkvtboE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AIChAK6_qJtgymUP3VfrB7Q.png)
+[![Chatfuel interface2](img/76ab1d9cab03de57a84b05347520a741.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6ZkvtboE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AIChAK6_qJtgymUP3VfrB7Q.png)
 
 # 收到这样的工作提议，最棒的事情是什么？
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/20-web-design-relics-of-the-old-internet-c24>
 
-[![](../Images/ec6bda0b16a519c17a16549e20fdbefe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qow2QxdW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AxHgipiOSA16nCDZNn4vY6Q.jpeg)
+[![](img/ec6bda0b16a519c17a16549e20fdbefe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qow2QxdW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AxHgipiOSA16nCDZNn4vY6Q.jpeg)
 
 十八年前，在世纪之交，比以往任何时候都多的人购买了他们的第一台电脑，明确的目标是上网，互联网开始融入日常生活。当我在这次大迁徙中第一次冒险上网时，像收集我当时最喜欢的东西的照片这样的简单活动感觉像是惊人的游戏改变者。
 
@@ -12,11 +12,11 @@
 
 你可能会惊讶我们已经走了多远，因为虽然一些遗迹演变成了现代的等价物，但其他的可能更适合留在过去。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### 1)地理城市
 
-[![](../Images/946f1b8425c2b614e893bc66806dada4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pYSMbUez--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Ax-MN2iOnPUImkeSLDq-kbA.png)
+[![](img/946f1b8425c2b614e893bc66806dada4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pYSMbUez--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Ax-MN2iOnPUImkeSLDq-kbA.png)
 
 早在早期，仅次于皇家骑士的头衔，每个人都想拥有的头衔是*“站长”*。与骑士身份不同，成为一名网站管理员并不需要加入对抗法国的骑兵队，这仅仅意味着你有自己的网站。
 
@@ -26,7 +26,7 @@
 
 ### 2)网站推荐浏览器&解析
 
-[![](../Images/9f29d899d1fa879751e23f14b59c9925.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ndke-Nbp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AqqA_4odyXMI_OUGn7rvzIw.png)
+[![](img/9f29d899d1fa879751e23f14b59c9925.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ndke-Nbp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AqqA_4odyXMI_OUGn7rvzIw.png)
 
 通常在一个网站的页脚，甚至有时在一个欢迎页面，你会发现这样的评论:-
 
@@ -44,7 +44,7 @@
 
 ### 3)视频游戏粉丝网站
 
-[![](../Images/6d07088f3750dfd3547fe3995ccac2e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--82bzto71--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AazeGPrGT5dPyvcmGh-kDFQ.png)
+[![](img/6d07088f3750dfd3547fe3995ccac2e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--82bzto71--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AazeGPrGT5dPyvcmGh-kDFQ.png)
 
 如果你喜欢视频游戏，并且可以访问互联网，那么你很有可能也访问过视频游戏爱好者网站。这些是你最喜欢的视频游戏系列的最新报道和讨论的去处。我过去常常(实际上)在 RPG 粉丝网站周围闲逛，并结交朋友，直到今天，我仍然偶尔和他们说话。
 
@@ -52,7 +52,7 @@
 
 ### 4)图像重的页面布局
 
-[![](../Images/a0d07363cae89e977ab50b702cb655a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YX5jd3WF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Al9HAuDnCBvFiRX61opC6Kw.png)
+[![](img/a0d07363cae89e977ab50b702cb655a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YX5jd3WF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Al9HAuDnCBvFiRX61opC6Kw.png)
 
 在这一时期，CSS 的使用和浏览器支持刚刚兴起，因此开发人员必须找到其他方法来构建有吸引力的布局。到目前为止，最流行的方法是使用 Photoshop 或 Paintshop Pro 等软件将布局设计为图像，然后将其分割为一组较小的图像，然后使用 HTML 表格作为脚手架来重建这些图像。
 
@@ -64,7 +64,7 @@
 
 ### [T1】5)基于表格的布局](#5-tablebased-layouts)
 
-[![](../Images/2693ab7639b654e653f3c5f3fab8601a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ykpfp1uA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Axo8evYcqW49DzSUVWbg0Xw.png)
+[![](img/2693ab7639b654e653f3c5f3fab8601a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ykpfp1uA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Axo8evYcqW49DzSUVWbg0Xw.png)
 
 在之前的文章中，你可能读过这句话*“使用 HTML 表格作为脚手架”*并且对自己说:*“但是表格不是为了表格数据吗？”*。
 
@@ -74,13 +74,13 @@
 
 ### 6)帧
 
-[![](../Images/78549ef92c461f4dc9bbf831d8dca3bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UNqXzBof--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AtY3o3UFtBaMQ103en48qxA.png)
+[![](img/78549ef92c461f4dc9bbf831d8dca3bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UNqXzBof--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AtY3o3UFtBaMQ103en48qxA.png)
 
 早期构建网站的一种流行方法是通过框架。这些在 1996 年被引入当时流行的 Netscape Navigator 浏览器，并允许新类型的创造性布局。
 
 本质上，每个框架都是它自己独立的 HTML 文件，在一个框架中，您可以使用超链接来更改另一个框架的内容。对于网站管理员来说，最大的优势是易于维护。如果你给你的萌芽网站添加了一个新页面，而不是更新所有页面的导航，你只需要更新一个带有标题链接的 HTML 文件。
 
-[![](../Images/cbb16269a2a4880547c47bc648cd904c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QZuTzZhG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AeVFJCPmeRb9IEmeppV5BuA.png)
+[![](img/cbb16269a2a4880547c47bc648cd904c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QZuTzZhG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AeVFJCPmeRb9IEmeppV5BuA.png)
 
 对于用户来说，一个常见的模式是固定导航框架，所以不管单独的内容框架滚动了多少次，网站的导航总是在视图中。
 
@@ -90,7 +90,7 @@
 
 ### 7)上层建筑
 
-[![](../Images/18b50da5a26dd80f8b8fcbde58585b0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OwAiCQ4f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2At_cXCtZFQPyl9gHV2NDmuw.png)
+[![](img/18b50da5a26dd80f8b8fcbde58585b0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OwAiCQ4f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2At_cXCtZFQPyl9gHV2NDmuw.png)
 
 Topsites 是一种特殊的网站，它将粉丝网站与粉丝网站对立起来，通常基于页面浏览量或投票。这是一种免费广告的方式，也像是谷歌分析的竞争版本。
 
@@ -98,7 +98,7 @@ Topsites 是一种特殊的网站，它将粉丝网站与粉丝网站对立起�
 
 ### 8)不寻常的航行
 
-[![](../Images/1cf8685d798ba10d1e5b8cc3a62b5324.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FsnH8aIV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AvDjVjO4fcJqu93R-H8TecA.png)
+[![](img/1cf8685d798ba10d1e5b8cc3a62b5324.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FsnH8aIV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AvDjVjO4fcJqu93R-H8TecA.png)
 
 拥有一个清晰可用的导航系统是设计一个成功网站的最重要的因素之一，多年来无数的研究向我们展示了这一点。不幸的是，在世纪之交，这项研究的大部分还没有到来，所以当试图找出如何从一个页面到下一个页面时，网上冲浪有时可能是一种沮丧的练习。
 
@@ -106,7 +106,7 @@ Topsites 是一种特殊的网站，它将粉丝网站与粉丝网站对立起�
 
 ### 9)彩色滚动条
 
-[![](../Images/2b8f65880908763f9fcafdb2cf54b249.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dALwKLw2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AXxYk0cP2zAG_8nzDJfWziQ.png)
+[![](img/2b8f65880908763f9fcafdb2cf54b249.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dALwKLw2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AXxYk0cP2zAG_8nzDJfWziQ.png)
 
 每个人都喜欢彩色滚动条！？对吗？使用一点非标准的 CSS，你也可以在 Internet Explorer 5.5+中调整滚动条的颜色。
 
@@ -124,7 +124,7 @@ Topsites 是一种特殊的网站，它将粉丝网站与粉丝网站对立起�
 
 ### 10)自动播放 MIDI 文件
 
-[![](../Images/347fd7c10319604e2119dd3e98147060.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0_nDoHTX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/994/1%2A2Kh8R3ROq_NDWLwmH1fRaA.png)
+[![](img/347fd7c10319604e2119dd3e98147060.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0_nDoHTX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/994/1%2A2Kh8R3ROq_NDWLwmH1fRaA.png)
 
 我做的第一个网站有一个 MIDI 版本的 Dragonball Z 主题，在加载时在后台播放。没有迹象表明这种情况会发生，也没有办法在播放开始后停止播放，所以任何碰巧遇到我的网站角落的不幸的人都必须面对它。
 
@@ -134,7 +134,7 @@ Topsites 是一种特殊的网站，它将粉丝网站与粉丝网站对立起�
 
 ### 11)动画 gif
 
-[![](../Images/c1ed1ea3bef5f20828ea823128b423cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--If-64cdA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A64jSmWQdZ0STcy6YcambTw.gif)
+[![](img/c1ed1ea3bef5f20828ea823128b423cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--If-64cdA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A64jSmWQdZ0STcy6YcambTw.gif)
 
 动画 gif 是早期互联网的标志。真正的网站管理员知道，没有一个网站是完整的，至少没有一个动画横幅，随机骨架，或滴血。甚至有一个专门的动画 gif 页面也不是没有听说过:一个展示你收藏的数字奖杯陈列柜。
 
@@ -142,7 +142,7 @@ Topsites 是一种特殊的网站，它将粉丝网站与粉丝网站对立起�
 
 ### 12) 1px 透明 GIF
 
-[![](../Images/a798df233701b3a0a97d85f0d1c91b88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dChnBdjh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2ApQ-Po0FpvwTNimkBr-2Axg.png)
+[![](img/a798df233701b3a0a97d85f0d1c91b88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dChnBdjh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2ApQ-Po0FpvwTNimkBr-2Axg.png)
 
 1x1 透明 GIF，或有时被称为间隔 GIF，是黑客开发者用来绕过浏览器限制的最早例子之一。简单地说，你把它扔进一个页面，使用`_width_`和`_height_`属性调整它的大小，你突然有了一个可靠的方法在页面上推送元素，它是跨浏览器兼容的。
 
@@ -150,7 +150,7 @@ Topsites 是一种特殊的网站，它将粉丝网站与粉丝网站对立起�
 
 ### 13)滚动
 
-[![](../Images/2860aad5553c8dd6361778a60cc8bb07.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YkME7j7v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AM0AlreIcAUZ4QLcpotxwZg.gif)
+[![](img/2860aad5553c8dd6361778a60cc8bb07.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YkME7j7v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AM0AlreIcAUZ4QLcpotxwZg.gif)
 
 在 Internet Explorer 中作为 HTML 的专有扩展引入时，marquee 元素从一开始就有点叛逆。它用最前沿的动画吸引你，然后要求你专注于阅读它的内容。
 
@@ -160,7 +160,7 @@ Topsites 是一种特殊的网站，它将粉丝网站与粉丝网站对立起�
 
 ### 14)在建
 
-[![](../Images/433a351267d9649751f7df387e20efd0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wMGu_Mcl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AbMsMVTzIr1ef4dgSpploLw.png)
+[![](img/433a351267d9649751f7df387e20efd0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wMGu_Mcl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AbMsMVTzIr1ef4dgSpploLw.png)
 
 所以你已经注册了 Geocities，并在 geocities.com/skiing4life 拥有了一个全新的网站。你有一张空白的画布，你渴望去。你认为你会喜欢 5 个不同的页面，但目前为止只有第一页的内容。没问题！你只需说:
 
@@ -170,7 +170,7 @@ Topsites 是一种特殊的网站，它将粉丝网站与粉丝网站对立起�
 
 ### 15) Flash 网站
 
-[![](../Images/6893982c3db3bf0bbaad49317458e5dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CwPAZEEZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A6krFuGKvR_xlGjEHmvvewA.png)
+[![](img/6893982c3db3bf0bbaad49317458e5dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CwPAZEEZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A6krFuGKvR_xlGjEHmvvewA.png)
 
 Flash 可以被认为是互联网上丰富内容的鼻祖。它第一次允许开发人员创建复杂的界面，无缝集成音频和视频等多媒体内容。当时的 HTML 无法应对这一挑战，所以 Flash 接手了这个烂摊子。
 
@@ -182,7 +182,7 @@ Flash 可以被认为是互联网上丰富内容的鼻祖。它第一次允许�
 
 ### 16)首页
 
-[![](../Images/0b8d0f7c1c1749e3949ac3a85741f233.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eBmVqP87--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2ASmYVC9nWeBVep952mXYSxw.png)
+[![](img/0b8d0f7c1c1749e3949ac3a85741f233.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eBmVqP87--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2ASmYVC9nWeBVep952mXYSxw.png)
 
 通常，术语*“主页”*通常指网站的第一页。这是用户访问时第一次登陆的地方，也是他们迷路时重新定位的地方。
 
@@ -192,7 +192,7 @@ Flash 可以被认为是互联网上丰富内容的鼻祖。它第一次允许�
 
 ### 17)留言簿
 
-[![](../Images/9a46da14f49d9d215862f3ac5eef8fb0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yrUFHtdS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A6qmsxWjMgBr7rE_-PhB3uw.png)
+[![](img/9a46da14f49d9d215862f3ac5eef8fb0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yrUFHtdS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A6qmsxWjMgBr7rE_-PhB3uw.png)
 
 继上一篇文章中探讨的主页概念之后，留言簿是为那些来到你的互联网角落，想给你留下一个好(或不太好)的信息的友好访问者准备的——他们的数字主机。
 
@@ -202,7 +202,7 @@ Flash 可以被认为是互联网上丰富内容的鼻祖。它第一次允许�
 
 ### 18)留言板
 
-[![](../Images/0e762d4741ddbdefea38eb88a9d02363.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a3QEKA6z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Aa4Ii0xucGnaFa9D8FUcQ0Q.png)
+[![](img/0e762d4741ddbdefea38eb88a9d02363.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a3QEKA6z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Aa4Ii0xucGnaFa9D8FUcQ0Q.png)
 
 留言板并不是旧互联网的真正遗迹。它们仍然存在，尽管是濒临灭绝的物种。你曾经发现每个粉丝网站都有一个留言板，其中许多都有活跃的社区，每天有数百条帖子。今天，只有强者生存了下来。
 
@@ -210,7 +210,7 @@ Flash 可以被认为是互联网上丰富内容的鼻祖。它第一次允许�
 
 ### 19)点击计数器
 
-[![](../Images/13f40d48d6f68ec8bc45501ba0775ffd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--watnBC3B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AK2SXhUWJERvcuBkgi7WMUw.png)
+[![](img/13f40d48d6f68ec8bc45501ba0775ffd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--watnBC3B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AK2SXhUWJERvcuBkgi7WMUw.png)
 
 早期网站的一个常规元素是点击率——本质上是一种分享(或吹嘘)你的网站获得了多少*点击率的方式。大多数是面向页面视图的。理论上，这使得他们很容易通过反复刷新页面来*【游戏】*。我不确定那曾经发生过。永远不会。*
 
@@ -220,7 +220,7 @@ Flash 可以被认为是互联网上丰富内容的鼻祖。它第一次允许�
 
 ### 20)早期的 Internet Explorer
 
-[![](../Images/03ff2d40ebd1578d3a008573e263ed44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iXitEwPR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AZIqWAsYy_nPSLav6XHs4qg.png)
+[![](img/03ff2d40ebd1578d3a008573e263ed44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iXitEwPR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AZIqWAsYy_nPSLav6XHs4qg.png)
 
 许多年前，当互联网开始变得越来越主流时，有一种浏览器叫做网景导航器。这款浏览器占据了至高无上的地位，是所有浏览器中使用最广泛的，直到微软发布了自己的网络浏览器 Internet Explorer，并最终集成到 Windows 中。这是网景公司末日的开始，很快，Internet Explorer 占据了浏览器的大部分份额，仅此而已。
 
@@ -230,7 +230,7 @@ Flash 可以被认为是互联网上丰富内容的鼻祖。它第一次允许�
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/sr_balaji/devops-tool-chain-setup-on-kubernetes-cluster-part---23-3job>
 
-[![alt text](../Images/5d339f1dbd1e21f29694d92d2181cda4.png "Kubernetes")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cemFoOyb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/298l0v54pjqkldy2j34e.png)
+[![alt text](img/5d339f1dbd1e21f29694d92d2181cda4.png "Kubernetes")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cemFoOyb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/298l0v54pjqkldy2j34e.png)
 
 ### 简介
 

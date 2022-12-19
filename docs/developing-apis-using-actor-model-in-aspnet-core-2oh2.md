@@ -8,7 +8,7 @@
 
 # 三层架构
 
-当我们想到服务时，我们通常指的是传统的无状态 3 层架构，它由前端(或多个客户端)、无状态中间层(公开数据)和存储层组成。 [![](../Images/4ec641eff79558cd249bdef60ce74d8a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HEefk3TC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://samueleresca.net/wp-content/uploads/2018/06/n-tier.png) 数据层的可伸缩性有限，每个请求都要咨询，通常通过在中间层和数据层之间使用一个**缓存层**来避免。但是，就可伸缩性和并发性而言，缓存层并不是最佳选择。有时需要一个可以处理所有并发问题的缓存管理器。
+当我们想到服务时，我们通常指的是传统的无状态 3 层架构，它由前端(或多个客户端)、无状态中间层(公开数据)和存储层组成。 [![](img/4ec641eff79558cd249bdef60ce74d8a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HEefk3TC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://samueleresca.net/wp-content/uploads/2018/06/n-tier.png) 数据层的可伸缩性有限，每个请求都要咨询，通常通过在中间层和数据层之间使用一个**缓存层**来避免。但是，就可伸缩性和并发性而言，缓存层并不是最佳选择。有时需要一个可以处理所有并发问题的缓存管理器。
 
 # 演员模型框架
 

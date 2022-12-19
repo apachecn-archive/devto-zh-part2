@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/wajahatkarim/1000-followers-thank-you-53c3>
 
-[![](../Images/b98f497d9daec7907575a196e95c5d33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uoN8caUM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ARNL6VAxQtKxKJ3DYSkOsqg.png)
+[![](img/b98f497d9daec7907575a196e95c5d33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uoN8caUM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ARNL6VAxQtKxKJ3DYSkOsqg.png)
 
 *由[瓦哈卡里姆](https://medium.com/@WajahatKarim3)撰写*
 

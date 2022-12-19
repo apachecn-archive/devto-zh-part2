@@ -4,7 +4,7 @@
 
 最好的智能手表是 [**Pebble**](https://www.pebble.com/) 。即使考虑到生产它们的公司已经被出售，并且不会再有新的设备，它仍然是你能买到的最好的智能手表。
 
-[![](../Images/8c3a3596d1672b2a1dd83350141f4aeb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xIvO9wUb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AKB-De6zghaKa6iaQcgmVkA.jpeg)
+[![](img/8c3a3596d1672b2a1dd83350141f4aeb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xIvO9wUb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AKB-De6zghaKa6iaQcgmVkA.jpeg)
 
 如果你是一名软件开发人员或者只是喜欢玩代码，那就更是如此。 **Pebbles** 为您提供强大而简单的 **SDK** 用于 **C** 和 **Javascript** 。以及酷派 web IDE—[**cloud pebble**](https://cloudpebble.net/)。因此，开发应用程序和 watchfaces 非常容易。
 

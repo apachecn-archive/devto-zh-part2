@@ -23,13 +23,13 @@ MWW 是建立 WordPress 网站的一种现代方式。
 
 兜一圈，你会惊讶的:
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png)[Luc 45](https://github.com/Luc45)/[modern WordPress 网站](https://github.com/Luc45/ModernWordPressWebsite)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png)[Luc 45](https://github.com/Luc45)/[modern WordPress 网站](https://github.com/Luc45/ModernWordPressWebsite)
 
 ### 现代 WordPress 网站(MWW)旨在为使用 WordPress 带来良好的 OOP 体验。
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-[![](../Images/2e6cdc0b365480d01a1f7b7f7d96cfb6.png)T2】](https://camo.githubusercontent.com/002449747212d894e83b05e267a296a3dfe770e9/687474703a2f2f6465762e6c7563617362757374616d616e74652e636f6d2e62722f6d77772d6c6f676f2e737667)
+[![](img/2e6cdc0b365480d01a1f7b7f7d96cfb6.png)T2】](https://camo.githubusercontent.com/002449747212d894e83b05e267a296a3dfe770e9/687474703a2f2f6465762e6c7563617362757374616d616e74652e636f6d2e62722f6d77772d6c6f676f2e737667)
 
 ## 现代 WordPress 网站(MWW)
 

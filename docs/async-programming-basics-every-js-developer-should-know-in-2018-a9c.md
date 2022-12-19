@@ -39,7 +39,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 等等，刚刚发生了什么？我们为电平逻辑增加了两个新功能，`levelTwo()`和`levelThree()`。在 levelOne 的回调函数(第 22 行)中，使用回调函数调用 levelTwo()函数。和 levelOne 的回调结果。对 levelThree()函数重复同样的操作。
 
-[![callback meme](../Images/965c160258c03170486be763683c7df0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y8wwSdu---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2ASf_k39ju9c2UxW-V.jpg)
+[![callback meme](img/965c160258c03170486be763683c7df0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y8wwSdu---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2ASf_k39ju9c2UxW-V.jpg)
 
 现在想象一下，如果我们必须在另外 10 层实现相同的逻辑，这段代码会变成什么样。你已经慌了吗？嗯，我是！随着嵌套回调函数数量的增加，阅读代码变得更加困难，调试也更加困难。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/hauxe/golang-http-serve-static-files-correctly-2oj2>
 
-[![Demo](../Images/a8c7b2fb070142941ba0792075eec9ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--foDTYi31--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1cta07w4u7jyd1jcw2zc.png)
+[![Demo](img/a8c7b2fb070142941ba0792075eec9ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--foDTYi31--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1cta07w4u7jyd1jcw2zc.png)
 
 #### 轻松的方式
 
@@ -16,7 +16,7 @@ http.Handle("/", http.StripPrefix(strings.TrimRight(path, "/"), http.FileServer(
 
 但是，有一个问题，通过访问根 url，您也可以将您的目录结构公开=_=:
 
-[![](../Images/79896c9ff84fe115390c4288bc06229c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BsFkv-0t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AY9U0dNsQcUroz7rp7uSVpA.png) 
+[![](img/79896c9ff84fe115390c4288bc06229c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BsFkv-0t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AY9U0dNsQcUroz7rp7uSVpA.png) 
 *清单目录*
 
 代码为:
@@ -39,12 +39,12 @@ http.Handle("/", http.StripPrefix(strings.TrimRight(path, "/"), fileServer))
 
 如果您再次访问它:
 
-[![](../Images/2cb372e7cee1b28acadbb03f8f3ba8aa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SAkbQ61Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A_C9zn45efpxTCSDbnxyBlQ.png) 
+[![](img/2cb372e7cee1b28acadbb03f8f3ba8aa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SAkbQ61Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A_C9zn45efpxTCSDbnxyBlQ.png) 
 *成功阻止了*
 
 将一个**index.html**文件放入 statics 文件夹，并使用新代码再次运行示例:
 
-[![](../Images/ce596a96cb262bc2c4589671265c5202.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AtYZPA-a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2At6Lf19ENgl0YoFLBCOCEZQ.png) 
+[![](img/ce596a96cb262bc2c4589671265c5202.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AtYZPA-a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2At6Lf19ENgl0YoFLBCOCEZQ.png) 
 *后放 index.html*
 
 完整工作代码:

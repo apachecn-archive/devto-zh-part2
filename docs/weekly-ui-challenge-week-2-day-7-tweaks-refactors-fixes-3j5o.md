@@ -8,7 +8,7 @@
 
 不要烦恼！这并不意味着这个系列会有任何进展，只是我希望每周的挑战和你们所期待的保持一致。如果您想尽可能了解更多信息， [**关注 WeeklyUI 标签页上的**](https://dev.to/t/weeklyui)和[给我一个关注](https://dev.to/geoff)；这样，当我发布挑战时，您会收到通知。
 
-[![follow the WeeklyUI tag on https://dev.to/t/weeklyui](../Images/cca77936102b66c45ad3aa1335a51c2c.png)T2】](https://dev.to/t/weeklyui)
+[![follow the WeeklyUI tag on https://dev.to/t/weeklyui](img/cca77936102b66c45ad3aa1335a51c2c.png)T2】](https://dev.to/t/weeklyui)
 
 * * *
 

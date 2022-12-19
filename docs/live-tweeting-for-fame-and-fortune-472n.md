@@ -22,7 +22,7 @@
 
 我最后的硬件投资是一个 iPad 保护套，它允许我以几种不同的配置支撑它，包括水平和垂直。我总是选择尖叫粉红/棕褐色/等颜色的，因为我很确定“娘娘腔”的技术不太可能被其他人“意外”发现。还有，很上品牌！
 
-[![](../Images/bb04440dcecba2c9d623e679c3316920.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i0XVAj_W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/06/32342191154_fdb612e783_o-300x200.jpg)
+[![](img/bb04440dcecba2c9d623e679c3316920.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i0XVAj_W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/06/32342191154_fdb612e783_o-300x200.jpg)
 
 这是我，粉红色的头发，来自纽约 2017 的首席开发者的实时推特。你可以看到键盘和 iPad 在我腿上保持平衡。(很棒的发布会！)
 
@@ -34,13 +34,13 @@
 *   自动线程，直到你告诉它停止
 *   本地缓存和日志记录
 
-[![](../Images/e590327493eb87e5434c980be11743f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vAEfHlKG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/06/noterlive-1024x593.png)
+[![](img/e590327493eb87e5434c980be11743f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vAEfHlKG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/06/noterlive-1024x593.png)
 
 几乎我所要做的就是按天设置会议标签，开始一个新的线程，设置扬声器，然后我就可以毫无顾虑地打字了，每当我按下 enter 键，tweet 就会被发送出去。
 
 它知道字符限制，当你接近它时会给你提示。唯一有点可疑的是，我仍然不知道它是否会发生，如果我有一个句点和空格的组合，它有时会试图建立一个链接。它不发送链接，但是它抛出字符计数。
 
-[![💖](../Images/b193aed4cacd00bf2fe08140737d6f16.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eOxf3bws--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.org/images/core/emoji/2.4/72x72/1f496.png)
+[![💖](img/b193aed4cacd00bf2fe08140737d6f16.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eOxf3bws--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.oimg/core/emoji/2.4/72x72/1f496.png)
 
 我在 iPad 上使用 TweetBot 观看会议标签，并转发那些我没有注意到或没有看到的很酷的相关内容。新的 Mac tweet bot 刚刚发布，他们终于有了一个黑暗的主题和一个更好的处理和查看列表的方式。
 

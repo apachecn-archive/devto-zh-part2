@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/piczmar_0/error-handling-in-aws-lambda-trigger-by-sqs-events-3amp>
 
-[![](../Images/e8e982b0b9b0ceaf4c25b83cb47c78ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pYXtSEwt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7kio19hdomfivfkqugea.jpg)
+[![](img/e8e982b0b9b0ceaf4c25b83cb47c78ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pYXtSEwt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7kio19hdomfivfkqugea.jpg)
 
 这篇文章最初发表在[我的博客](https://cloudly.tech/blog/aws-lambda-sqs-trigger-error-handling/)
 

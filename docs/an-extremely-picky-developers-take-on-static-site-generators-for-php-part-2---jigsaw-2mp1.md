@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/contentful_blog/an-extremely-picky-developers-take-on-static-site-generators-for-php-part-2---jigsaw-2mp1>
 
-[![An extremely picky developer's take on static site generators for PHP: Part 2 - Jigsaw](../Images/0f1be00d18032008fe06c4013254a353.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KUhFnDv---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/290TvARZuEIAIwEuyeKMeE/328c6423fb224b80a4b89d3c138780ba/20180731_Developer_PHP_SSG_Jigsaw.png)
+[![An extremely picky developer's take on static site generators for PHP: Part 2 - Jigsaw](img/0f1be00d18032008fe06c4013254a353.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KUhFnDv---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/290TvARZuEIAIwEuyeKMeE/328c6423fb224b80a4b89d3c138780ba/20180731_Developer_PHP_SSG_Jigsaw.png)
 
 在本系列的第一篇文章中，我们看了一下 [Sculpin](https://sculpin.io/) ，这是目前 Github 上最受关注的 PHP 静态站点生成器。今天，我们将探索 [Jigsaw](https://jigsaw.tighten.co/) ，这是一款有望将基于 Laravel 的方法引入 PHP 静态站点生成器(SSG)世界的工具。
 
@@ -49,17 +49,17 @@ npm run watch # localhost:3000
 
 不管怎样，工作和你得到这个！
 
-[![Website built](../Images/c324b433b56d609054c9e04cb1c83676.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dersm692--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/skbns55sgxjg/7eJ6r5avBuyw62wEq4Mgeg/05595df4a9b41d5ac2ca7c1aebbaade2/Schermata_2018-07-19_alle_18.51.46.png)
+[![Website built](img/c324b433b56d609054c9e04cb1c83676.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dersm692--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/skbns55sgxjg/7eJ6r5avBuyw62wEq4Mgeg/05595df4a9b41d5ac2ca7c1aebbaade2/Schermata_2018-07-19_alle_18.51.46.png)
 
 自然，只有约翰·奥利弗能真正传达我对这一页的反应。
 
-[![The site works](../Images/3896cbba2db1b73a495006c201fad41e.png)T2】](https://i.giphy.com/media/pikL8QDx238ly/giphy.gif)
+[![The site works](img/3896cbba2db1b73a495006c201fad41e.png)T2】](https://i.giphy.com/media/pikL8QDx238ly/giphy.gif)
 
 ## 目录结构
 
 现在让我们来研究一下之前生成的框架项目。我们探索项目各部分的顺序可能看起来是随机的，因为，事实就是如此。这就是发现新事物的酷之处，对吧？探索阶段，你偷看这个，看看那个，哦，一个`source`目录！其中蕴含着什么？
 
-[![Directory structure](../Images/eed8f6e65f4441cd624d9dffec344d23.png)T2】](//images.ctfassets.net/fo9twyrwpveg/4rqefiTPDaAquciQsEcmWk/89532fd0cff10e76079245da220c39f0/php-jigsaw-1.png?w=300)
+[![Directory structure](img/eed8f6e65f4441cd624d9dffec344d23.png)T2】](//images.ctfassets.net/fo9twyrwpveg/4rqefiTPDaAquciQsEcmWk/89532fd0cff10e76079245da220c39f0/php-jigsaw-1.png?w=300)
 
 作为一个基于 Laravel 的项目，我发现一个包含闪亮的 *Hello world 的`index.blade.php`文件并不奇怪！*从上面。`@extends('_layouts.master')`指令提示我应该在`_layouts`目录中寻找一个`master.blade.php`模板，瞧，它就在那里。模板看起来一切都很好，让我们看看资产是如何处理的。
 
@@ -127,7 +127,7 @@ I'll tell you how I became the prince of a town called Bel-Air
 
 让我们运行`./vendor/bin/jigsaw build`，我们会有一个漂亮的`build_local`目录，这个目录是由我们闪亮的网站生成的，所以让我们打开 URL(我们仍然需要自己构建)然后…它就工作了！
 
-[![](../Images/c7771b776da137dc8fa505c584efe879.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zdMUppbo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/skbns55sgxjg/6wxnnVZ3qgCoU0uOmwi8IS/f03bf7486fba413393aa962b42bc9b2c/Schermata_2018-07-19_alle_20.01.13.png)
+[![](img/c7771b776da137dc8fa505c584efe879.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zdMUppbo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/skbns55sgxjg/6wxnnVZ3qgCoU0uOmwi8IS/f03bf7486fba413393aa962b42bc9b2c/Schermata_2018-07-19_alle_20.01.13.png)
 
 (作者注:在这一点上我想添加更多的 gif，但我必须保持专业。让我们假装有一张杰克·佩拉尔塔的 GIF 照片，他说*noise*，谢谢。)
 

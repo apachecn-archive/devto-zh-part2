@@ -17,7 +17,7 @@ Node.js 正在吞噬世界。许多最大的公司正在用 Node.js 构建越来
 
 Express.js 是 Node.js 生态系统中最受欢迎的 web 框架。它非常简单和简约。此外，有成千上万的开发人员库使用 Express，使得使用它进行开发变得有趣和灵活。
 
-[![express website screenshot](../Images/449e2a5db960cf854fb117827cd1cb2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EUVxbapB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/tutorial-build-a-basic-crud-app-with-node/express-website-screenshot-6e39ae77cc4841f1356326199315a4c10903be4bd18a3dfecd823c27b17d59d3.png)
+[![express website screenshot](img/449e2a5db960cf854fb117827cd1cb2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EUVxbapB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/tutorial-build-a-basic-crud-app-with-node/express-website-screenshot-6e39ae77cc4841f1356326199315a4c10903be4bd18a3dfecd823c27b17d59d3.png)
 
 不管你是想建立一个网站还是一个 API，Express.js 都提供了大量的特性和良好的开发者体验。
 
@@ -54,25 +54,25 @@ Enter fullscreen mode Exit fullscreen mode
 
 运行完上面的命令后，将您最喜欢的浏览器指向`http://localhost:3000`，您应该会看到您的应用程序正在运行:
 
-[![express generator page](../Images/11a5c87ea8ad2bf97da8fb39c5d8f26f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cR2gNx1d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/tutorial-build-a-basic-crud-app-with-node/express-generator-page-0b86cb095fdd227d7b61051795d52a4a02d757fe3b320b9f8e6a0d5a2bec9c59.png)
+[![express generator page](img/11a5c87ea8ad2bf97da8fb39c5d8f26f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cR2gNx1d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/tutorial-build-a-basic-crud-app-with-node/express-generator-page-0b86cb095fdd227d7b61051795d52a4a02d757fe3b320b9f8e6a0d5a2bec9c59.png)
 
 ## 初始化认证
 
 对于每个开发人员来说，处理 web 应用程序中的用户认证是一个巨大的痛苦。这就是 Okta 的闪光点:它帮助您以最小的努力保护您的 web 应用程序。首先，您需要在 Okta 中创建一个 OpenID Connect 应用程序。[注册一个永远免费的开发者账户](https://developer.okta.com/signup/)(或者如果你已经有一个的话登录)。
 
-[![Okta signup page](../Images/6b7f3a716e01c08ab4d2129103f7e6a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BYYhj4fc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/tutorial-build-a-basic-crud-app-with-node/okta-signup-94ec70377e8a1d69fa41cfcd66d9d7f5faf2044e6a361452d155a02762532443.png)
+[![Okta signup page](img/6b7f3a716e01c08ab4d2129103f7e6a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BYYhj4fc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/tutorial-build-a-basic-crud-app-with-node/okta-signup-94ec70377e8a1d69fa41cfcd66d9d7f5faf2044e6a361452d155a02762532443.png)
 
 一旦您登录并进入仪表板页面，复制下下图中的 **Org URL** 。你以后会需要这个的。
 
-[![Okta Org URL](../Images/4189ba3dea3b356820fd5eef251044d0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---eXBSvqX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/tutorial-build-a-basic-crud-app-with-node/okta-org-url-93fb639009e0f0389af1db64678e6561cd01811348bef6350e487a0aa1aada1d.png)
+[![Okta Org URL](img/4189ba3dea3b356820fd5eef251044d0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---eXBSvqX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/tutorial-build-a-basic-crud-app-with-node/okta-org-url-93fb639009e0f0389af1db64678e6561cd01811348bef6350e487a0aa1aada1d.png)
 
 然后通过浏览到**应用**选项卡并点击**添加应用**来创建一个新的应用。
 
-[![Okta app dashboard](../Images/c85649e5c39b73dbf38d33ad6116297a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SG-LqVMB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/tutorial-build-a-basic-crud-app-with-node/okta-app-dashboard-054d9b9b13c1760fe0fb857a4b39ddefad7b219ce3ea72af617bddc360d0d88b.png)
+[![Okta app dashboard](img/c85649e5c39b73dbf38d33ad6116297a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SG-LqVMB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/tutorial-build-a-basic-crud-app-with-node/okta-app-dashboard-054d9b9b13c1760fe0fb857a4b39ddefad7b219ce3ea72af617bddc360d0d88b.png)
 
 接下来，单击 **Web** 平台选项(因为我们的博客项目是一个 Web 应用程序)。
 
-[![Okta create app platform](../Images/ee182a46390241aa3bd7feea2450cbed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A5JydYy3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/tutorial-build-a-basic-crud-app-with-node/okta-create-app-platform-d3aa9a1834906c601d29fd2c7843329dd09c1b5be59f8f35b85e82ffc4cfcc46.png)
+[![Okta create app platform](img/ee182a46390241aa3bd7feea2450cbed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A5JydYy3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/tutorial-build-a-basic-crud-app-with-node/okta-create-app-platform-d3aa9a1834906c601d29fd2c7843329dd09c1b5be59f8f35b85e82ffc4cfcc46.png)
 
 在“设置”页面上，输入以下值:
 
@@ -82,15 +82,15 @@ Enter fullscreen mode Exit fullscreen mode
 
 您可以保持所有其他值不变。
 
-[![Okta create app settings](../Images/08425fb1c5e04172d233b1c29f28153f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e40KAqvF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/tutorial-build-a-basic-crud-app-with-node/okta-create-app-settings-4d0c56e9c1ea35eae1922ab70f8948ea6bcf3e2ad2af210a1e524ecde8738816.png)
+[![Okta create app settings](img/08425fb1c5e04172d233b1c29f28153f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e40KAqvF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/tutorial-build-a-basic-crud-app-with-node/okta-create-app-settings-4d0c56e9c1ea35eae1922ab70f8948ea6bcf3e2ad2af210a1e524ecde8738816.png)
 
 现在您的应用程序已经创建好了，请记下下页的**客户端 ID** 和**客户端秘密**值，您很快就会用到它们。
 
-[![Okta app secrets](../Images/7801bfab57796abe82553c324bba1101.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WwhJxLuw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/tutorial-build-a-basic-crud-app-with-node/okta-app-secrets-d4c5570e7679ca4e5af1c90f8fccc1bed0d880bed69eb4b9a9287aaf1e2398cf.png)
+[![Okta app secrets](img/7801bfab57796abe82553c324bba1101.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WwhJxLuw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/tutorial-build-a-basic-crud-app-with-node/okta-app-secrets-d4c5570e7679ca4e5af1c90f8fccc1bed0d880bed69eb4b9a9287aaf1e2398cf.png)
 
 最后，创建一个新的身份验证令牌。这将允许你的应用程序与 Okta 对话，以检索用户信息等。为此，点击页面顶部的 **API** 标签，然后点击**创建令牌**按钮。给你的令牌起一个名字，最好和你的应用程序同名，然后点击**创建令牌**。记下这个令牌值，因为您很快就会用到它。
 
-[![Okta create token](../Images/99e75eb9d8dc8598e589728a42b1bcb6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--at3rFQ7s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/tutorial-build-a-basic-crud-app-with-node/okta-create-token-87e20254a5485f3482d1fc6a928df9590fac7b0c7a60fbffaca216078f91626f.png)
+[![Okta create token](img/99e75eb9d8dc8598e589728a42b1bcb6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--at3rFQ7s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/tutorial-build-a-basic-crud-app-with-node/okta-create-token-87e20254a5485f3482d1fc6a928df9590fac7b0c7a60fbffaca216078f91626f.png)
 
 ## 安装依赖项
 

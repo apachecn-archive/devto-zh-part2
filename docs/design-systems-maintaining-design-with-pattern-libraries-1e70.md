@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nothing/design-systems-maintaining-design-with-pattern-libraries-1e70>
 
-[![](../Images/f3792d518c372355e45bb5a6d77c62b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1aF6Yusq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k0t581zg59095foymshy.png)
+[![](img/f3792d518c372355e45bb5a6d77c62b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1aF6Yusq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k0t581zg59095foymshy.png)
 
 网络是构建软件的一个不可思议的平台:你可以从几乎任何地方获得大量信息，这给了开发者很大的范围来构建几乎所有东西——从简单的静态网站到 3D 游戏。你可能会感到惊讶，但是维护软件最具挑战性的部分之一是保持设计和代码彼此同步。在这篇文章中，我想强调在开发大中型 web 应用程序时，我们如何使用模式库来维护设计和代码之间的流畅工作流。
 
@@ -14,7 +14,7 @@
 
 这样，模式库有助于隔离设计的单个元素，同时提供一个平台来保持所有部分的概览。**这对于保持设计的长期一致性至关重要**。例如:在 web 应用程序中，模式库是一组具有相应样式和功能的 HTML 元素——其中之一可能是在按下“继续”按钮时关闭的确认对话框。
 
-[![Screenshot of a material design dialog](../Images/871df210da1ad86f116801378f2f5ddf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KKmqA3us--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ALfuaz7wObeRrxLi7WOI2NA.png) 
+[![Screenshot of a material design dialog](img/871df210da1ad86f116801378f2f5ddf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KKmqA3us--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ALfuaz7wObeRrxLi7WOI2NA.png) 
 
 <figcaption>对话框组件中的[材质样式向导](https://material.io/develop/web/components/dialogs/)。</figcaption>
 
@@ -72,7 +72,7 @@ Pattern Lab 的另一个好处是:**它给了我们很多自由**去构建我们
 
 同时，H2G Internetagentur 的后端团队决定与 [Symfony](https://symfony.com) 合作。幸运的是，一些依赖项，最重要的是网站的 CMS，与 Twig 配合得很好。这使得使用 Pattern Lab 的 Twig 版本并尝试构建可以在 Symfony 环境中直接使用的组件变得容易。
 
-[![Visualization of the tools and connections](../Images/7c199130dbaf1c560384ba733ec663b4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Gt5hl7DE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/926/1%2ADRzfWdzXI43PrTetLS1Dmw.png) 
+[![Visualization of the tools and connections](img/7c199130dbaf1c560384ba733ec663b4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Gt5hl7DE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/926/1%2ADRzfWdzXI43PrTetLS1Dmw.png) 
 
 <figcaption>从静态设计到动态代码:我们用草图来创造设计，Zeplin 作为设计师和开发者之间的桥梁。</figcaption>
 
@@ -87,7 +87,7 @@ Pattern Lab 的另一个好处是:**它给了我们很多自由**去构建我们
 3.  模板/布局:一旦我们组合了不同的模式，比如导航、网站页眉和网站页脚，我们就得到了一个模板。在我们的例子中，我们为商店和网站使用了不同的模板。
 4.  **主题**:应用品牌特定的定义，如颜色和字体。在这一层，我们主要是重写在组件和模式中使用的变量。没有这一层，组件和模式仍然可以工作，但是有一个通用的外观。
 
-[![Screenshot of a rendered output with marked areas of the previously described structure](../Images/f5c745f426ebe0ba46d075147e31bd87.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--phLLvjPj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWQ-iOJZbzsVSF3D_qGDiIA.png) 
+[![Screenshot of a rendered output with marked areas of the previously described structure](img/f5c745f426ebe0ba46d075147e31bd87.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--phLLvjPj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWQ-iOJZbzsVSF3D_qGDiIA.png) 
 
 <figcaption>查看不同路段的行动。</figcaption>
 
@@ -107,7 +107,7 @@ Pattern Lab 生成一个 HTML 输出，可以用来研究和测试组件。好�
 
 请注意，在我们使用 Pattern Lab 的所有其他情况下，我们使用 Mustache 构建组件，并且只交付文档和已处理的资产。这是因为我们通常假设开发人员应用了文档中给出的标记和 CSS 类。因此，这个项目是一个例外。
 
-[![Screenshot of one of our rendered pattern libraries](../Images/8601e68ade28f033004cd211756645ef.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VYH-u1M1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AiN57031_SPNlX6bqTGpjeg.png) 
+[![Screenshot of one of our rendered pattern libraries](img/8601e68ade28f033004cd211756645ef.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VYH-u1M1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AiN57031_SPNlX6bqTGpjeg.png) 
 
 <figcaption>模式实验室:一个活生生的文档。</figcaption>
 
@@ -121,7 +121,7 @@ Pattern Lab 生成一个 HTML 输出，可以用来研究和测试组件。好�
 
 不幸的是，**我们还没有到那一步。我们所能做的最好的事情就是确保最终的软件不会有不包含在模式库中的 UI 变化。这很困难，尤其是当一切都必须快速进行并且必须解决一个 bug 的时候。但这是持久一致设计的要求。**
 
-[![Screenshot of Visual Studio Code showing the big folder and file structure of a pattern library](../Images/c02f653f9a22b11feef1e1eb884c4549.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AKwjbFB1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ag2khilHUGeLX_rDB4A2JKQ.png) 
+[![Screenshot of Visual Studio Code showing the big folder and file structure of a pattern library](img/c02f653f9a22b11feef1e1eb884c4549.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AKwjbFB1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ag2khilHUGeLX_rDB4A2JKQ.png) 
 
 ## **结论**
 

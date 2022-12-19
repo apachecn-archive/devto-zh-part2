@@ -29,7 +29,7 @@
 
 ### 商户令牌
 
-[![](../Images/59fb3850afb43cb1aaca106b7fb6b1df.png)](http://www.catrina.me/wp-content/uploads/2018/03/adddemomerchant.jpg) 使用您登录的**商家模拟账户**中的信息获取商家代币(请严格按照图中所示的各个字段下的说明进行操作。指令是可靠的，唯一的小问题是您必须删除 HMAC 密钥，并创建和复制一个新的(因为这是您第一次登录-您没有旧的)。创建它，复制/保存它，返回沙盒并提交表单。你应该会看到一个屏幕，上面列出了你沙箱中的所有商家。您的商家令牌列在第三列，复制并保存。 [![](../Images/3f4a6f1058e808e9c592f8d83ab562b2.png)](http://www.catrina.me/wp-content/uploads/2018/03/token.jpg)
+[![](img/59fb3850afb43cb1aaca106b7fb6b1df.png)](http://www.catrina.me/wp-content/uploads/2018/03/adddemomerchant.jpg) 使用您登录的**商家模拟账户**中的信息获取商家代币(请严格按照图中所示的各个字段下的说明进行操作。指令是可靠的，唯一的小问题是您必须删除 HMAC 密钥，并创建和复制一个新的(因为这是您第一次登录-您没有旧的)。创建它，复制/保存它，返回沙盒并提交表单。你应该会看到一个屏幕，上面列出了你沙箱中的所有商家。您的商家令牌列在第三列，复制并保存。 [![](img/3f4a6f1058e808e9c592f8d83ab562b2.png)](http://www.catrina.me/wp-content/uploads/2018/03/token.jpg)
 
 ### API 密钥/秘密
 

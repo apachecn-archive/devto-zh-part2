@@ -27,4 +27,4 @@ npm start #See Window, look this out
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![alt text](../Images/966faeff808fa5b220d3c96aa27e4b86.png "Windows Compiled with vuejs or vuido")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--81DZeu82--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5v9vt4ndny19bi6u62fa.png)
+[![alt text](img/966faeff808fa5b220d3c96aa27e4b86.png "Windows Compiled with vuejs or vuido")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--81DZeu82--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5v9vt4ndny19bi6u62fa.png)

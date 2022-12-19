@@ -98,7 +98,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Clock Example GIF image](../Images/dc4f7630225b33f70adda2bd8859739c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WdN7in9---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uhhv7dvcj3wyiaut9y2c.gif)
+[![Clock Example GIF image](img/dc4f7630225b33f70adda2bd8859739c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WdN7in9---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uhhv7dvcj3wyiaut9y2c.gif)
 
 > 您可以支持时钟上的一些属性*如刷新间隔或显示字符串模板，然后在创建或附加的回调函数中检查 *this.attributes* 。*
 

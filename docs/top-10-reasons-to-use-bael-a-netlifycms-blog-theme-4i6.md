@@ -2,13 +2,13 @@
 
 > 原文：<https://dev.to/jasperketone/top-10-reasons-to-use-bael-a-netlifycms-blog-theme-4i6>
 
-[![](../Images/1d0c2246ab83f6cf7675262e400fb2c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EcX_Qtbp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ybm05inq9i0uipok125x.jpg)
+[![](img/1d0c2246ab83f6cf7675262e400fb2c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EcX_Qtbp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ybm05inq9i0uipok125x.jpg)
 
 Bael 是一个免费的模板，给你一个简单的方法来开始一个使用现代技术的博客，比如静态站点 JAMstack 架构、CSS 网格布局、响应式设计、使用 Sendgrid 处理电子邮件时事通讯注册的无服务器功能，以及模糊搜索——所有这些都包裹在一种野兽派美学之中。
 
 Bael 使用 [Nuxt.js](https://nuxtjs.org) 、 [Vue.js](https://vuejs.org) 、 [Netlify CMS](https://netlifycms.org) 运行，由 [Netlify](https://netlify.com) 托管。Bael 需要 Netlify 和 Github/Gitlab 的帐户才能部署。需要一个免费的 Sendgrid 帐户和 API 密钥来设置电子邮件简讯注册。
 
-[![](../Images/2615398149205e6fb55f5e9ad4653e82.png)T2】](https://i.giphy.com/media/1pmgKY7Wu7te0/giphy-downsized.gif)
+[![](img/2615398149205e6fb55f5e9ad4653e82.png)T2】](https://i.giphy.com/media/1pmgKY7Wu7te0/giphy-downsized.gif)
 
 **使用 Bael 的十大理由:**
 

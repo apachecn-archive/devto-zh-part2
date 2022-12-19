@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/mattc/modern-mobile-google-hackathon-2543>
 
-[![](../Images/77204e6b32b4dddbf9c6c40b3e432ba6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vRuofU8n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AC65vTduiQbtXOVNXZg-Olg.jpeg)
+[![](img/77204e6b32b4dddbf9c6c40b3e432ba6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vRuofU8n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AC65vTduiQbtXOVNXZg-Olg.jpeg)
 
 9 月 11 日星期二，我、我的同事和一个客户被邀请去伦敦参加现代移动谷歌黑客马拉松。大约一年前，我们开始了与客户的网站速度工作，我们实施了:
 
@@ -39,11 +39,11 @@ AMP 发布了一个名为[***AMP-install-service worker***](https://ampbyexample
 
 *   首先，我们在头部添加脚本。
 
-[![](../Images/fd9b6a1f6da517b7475bb054fbb28aed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VQJ6F6Gp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2ACYgXjMVeZZGuu2nVgI5yvg.jpeg)
+[![](img/fd9b6a1f6da517b7475bb054fbb28aed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VQJ6F6Gp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2ACYgXjMVeZZGuu2nVgI5yvg.jpeg)
 
 *   然后我们在页面中添加组件。
 
-[![](../Images/2a21abf6fa7225531ca52709794743c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0gw75Ii7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2A4fFS3qU8PepgB9VeRpb8wQ.jpeg)
+[![](img/2a21abf6fa7225531ca52709794743c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0gw75Ii7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2A4fFS3qU8PepgB9VeRpb8wQ.jpeg)
 
 您可能已经注意到组件上有几个道具，它们的基本意思是:
 
@@ -53,13 +53,13 @@ AMP 发布了一个名为[***AMP-install-service worker***](https://ampbyexample
 
 该组件将对我们的 AMP 页面做的是，它将下载我们的服务人员，该服务人员位于客户站点上，因此当用户从 AMP 导航到非 AMP 时，它将加快页面之间的转换。
 
-[![](../Images/a098d6e7cff346575e9837092c849ae0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3Igppbcn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A-w_ul0CHWHOM0bguXe3TQQ.jpeg)
+[![](img/a098d6e7cff346575e9837092c849ae0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3Igppbcn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A-w_ul0CHWHOM0bguXe3TQQ.jpeg)
 
 **结果**
 
 目前，在我们的登录页面上，我们的得分很高，但性能很差:
 
-<figure>[![](../Images/93042460fa4e5b3d000e321d7551eaee.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zx8DtTt7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ar2osoBuU3FJgg7GWwOXjGA.jpeg) 
+<figure>[![](img/93042460fa4e5b3d000e321d7551eaee.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zx8DtTt7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ar2osoBuU3FJgg7GWwOXjGA.jpeg) 
 
 <figcaption>当前登陆页面</figcaption>
 
@@ -67,7 +67,7 @@ AMP 发布了一个名为[***AMP-install-service worker***](https://ampbyexample
 
 在我们去年构建的旧 AMP 登录页面上，性能得分很高，但 PWA 和最佳实践得分很低:
 
-<figure>[![](../Images/bb32b55b0d4ae90671371ca477f608e8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ntN0lBiR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AMDbqevDfy44nqJ6rbcbaWw.jpeg) 
+<figure>[![](img/bb32b55b0d4ae90671371ca477f608e8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ntN0lBiR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AMDbqevDfy44nqJ6rbcbaWw.jpeg) 
 
 <figcaption>老 AMP 登陆页面</figcaption>
 
@@ -75,7 +75,7 @@ AMP 发布了一个名为[***AMP-install-service worker***](https://ampbyexample
 
 然而在我们制作的原型上。在我们的图片上添加服务人员并转移到 WebP，使我们的得分都达到了 88+。我认为我们可以做得更好
 
-<figure>[![](../Images/400ae3fbf8328ebcee95b1ddfdd149f8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--x4-z7FQ9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2APnloVQasUbY_m3AMxocM0A.jpeg) 
+<figure>[![](img/400ae3fbf8328ebcee95b1ddfdd149f8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--x4-z7FQ9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2APnloVQasUbY_m3AMxocM0A.jpeg) 
 
 <figcaption>新 AMP 登陆页面</figcaption>
 

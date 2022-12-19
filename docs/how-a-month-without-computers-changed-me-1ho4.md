@@ -9,7 +9,7 @@
 
 <figure>
 
-[![Laptop, smartphone and other digitals devices on the left side and books, notepad and other old things on the right side](../Images/3c4bb4410f032913d7f5449924fad73d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mHQQSbkf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wfox15shv4dhtw6p91yk.jpg)
+[![Laptop, smartphone and other digitals devices on the left side and books, notepad and other old things on the right side](img/3c4bb4410f032913d7f5449924fad73d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mHQQSbkf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wfox15shv4dhtw6p91yk.jpg)
 
 <figcaption>On the left are things from my old, digital life—carefully, I turned them off, got together and put into a bag. What I got myself for the new life is on the right.</figcaption>
 
@@ -39,7 +39,7 @@
 
 # 摄影
 
-[![Andrey Sitnik making selfie in the mirror by Zenit-122](../Images/d4d379eab1b76a97cecac6e5807fc432.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fzLqcetp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/viwouothgifualwgg1lb.JPG)
+[![Andrey Sitnik making selfie in the mirror by Zenit-122](img/d4d379eab1b76a97cecac6e5807fc432.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fzLqcetp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/viwouothgifualwgg1lb.JPG)
 
 为了强行进入模拟摄影的世界，我挑选了一台配有测光表的 Zenit-122。我的相机会处理这个过程——我只需要不停地转动转盘，直到它告诉我一切正常。虽然大多数相机使用特殊的[分屏和微棱镜](https://en.wikipedia.org/wiki/Focusing_screen)来对准图像的两侧，但测光表是一个小型太阳能电池和三个 led，位于取景器的右侧。如果您的照片太暗，上面的灯就会亮，如果太亮，下面的灯就会亮，如果选项设置正确，中间的灯就会变绿。
 
@@ -57,7 +57,7 @@
 
 # 手表
 
-[![Soviet Raketa watch](../Images/62d47a05e761f0ec6b1d66fa18bb519d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ijRVK4re--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jdgwsypo9d6pgxd6w8vs.JPG)
+[![Soviet Raketa watch](img/62d47a05e761f0ec6b1d66fa18bb519d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ijRVK4re--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jdgwsypo9d6pgxd6w8vs.JPG)
 
 为了数字安息日，我买了一块 [Raketa](https://en.wikipedia.org/wiki/Raketa) (火箭)苏联机械表。遗憾的是，我没能为极地探险者和潜水员找到一款特别的 [24 小时人脸版](https://watchesyoucanafford.com/raketa-and-russian-24-hour-watch-review/)。
 
@@ -69,7 +69,7 @@
 
 机械表每天累积的误差高达一分钟。这意味着你的火车可能已经离开了车站，因为在这一周内，误差已经增长到了五分钟。我的手表有一个未知的误差，这让我在整个旅行过程中都很紧张，所以我总是在寻找准确的时间来调整我的手表。
 
-[![quartz clock and alarm clock](../Images/627cf356f691a99fc46054f1ee1c100e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GT9UY7rI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hu0t3ync3o8dn1vlv5zd.JPG)
+[![quartz clock and alarm clock](img/627cf356f691a99fc46054f1ee1c100e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GT9UY7rI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hu0t3ync3o8dn1vlv5zd.JPG)
 
 不幸的是，有一天我的表停了，再也不走了——考虑到它的年龄，这并不奇怪。在你的手腕上携带一个小的机械生命确实很好；尽管如此，我还是去了一家商店，给自己买了一块石英表(那时我已经知道里面没有电脑，只有简单的电子和机械)。我确实喜欢我的精确时间；对此无能为力。
 
@@ -79,7 +79,7 @@
 
 # 地图和指南针
 
-[![The map of Lucca city and compass](../Images/13fb97c027e79edac84d168c79305fd4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ofVerw5L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c5qubyjuhkszoqgumd9e.JPG)
+[![The map of Lucca city and compass](img/13fb97c027e79edac84d168c79305fd4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ofVerw5L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c5qubyjuhkszoqgumd9e.JPG)
 
 作为我们时代象征的技术？我会说，全球定位系统和 GLONASS。一方面，他们使用人们可以想象到的最先进的东西——火箭将卫星送入轨道，量子物理学为卫星制造原子钟，爱因斯坦的相对论补偿由于速度和重力造成的时间损失，计算机进行复杂的计算。另一方面，与其他聪明的东西不同，易于使用的地图是地球上每个人都需要的东西。卫星免费为地球上任何地方的每个人提供精确的坐标——只要他或她有一个便宜的接收器。
 
@@ -93,7 +93,7 @@
 
 <figure>
 
-[![Pen and notepad with Cyrillic vyaz](../Images/b89e35740920b43a87188c4e1d18c4ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WfSlPqSw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i5bk818ymnmpel8u65ll.JPG)
+[![Pen and notepad with Cyrillic vyaz](img/b89e35740920b43a87188c4e1d18c4ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WfSlPqSw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i5bk818ymnmpel8u65ll.JPG)
 
 <figcaption>During my trip I found old church with old Cyrillic calligraphy. It impress my so much, that I then created  account in Twitter for calligraphies like it.</figcaption>
 
@@ -107,7 +107,7 @@
 
 # 意念
 
-[![Andrey Sitnik sitting on the roof](../Images/65ae6a7c277659fb57bfe56ecd6a50dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TbWKr7fI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1cibct9zzcriaxunmrmv.jpeg)
+[![Andrey Sitnik sitting on the roof](img/65ae6a7c277659fb57bfe56ecd6a50dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TbWKr7fI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1cibct9zzcriaxunmrmv.jpeg)
 
 无聊是我最害怕的事情，所以我做了很多准备:拿了几本厚书，起草了一份时间表(当我离开一个地方到另一个地方时)，并制定了几个每天都要遵循的晚上仪式。没有互联网的现实也变得不再无聊。娱乐并不需要什么特别的东西——最后，你总是可以出去寻找好照片。
 
@@ -127,7 +127,7 @@
 
 <figure>
 
-[![GitHub contribution statistics with huge gap in Novermber](../Images/740d19d5eb11e1b37a601e35ff3e5476.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a7ryXIjW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fau555zg5u4h9omimxor.png)
+[![GitHub contribution statistics with huge gap in Novermber](img/740d19d5eb11e1b37a601e35ff3e5476.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a7ryXIjW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fau555zg5u4h9omimxor.png)
 
 <figcaption>My Digital Sabbath was in November, as it can be seen from the GitHub contribution graph.</figcaption>
 

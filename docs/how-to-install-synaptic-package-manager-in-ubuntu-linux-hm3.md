@@ -2,11 +2,11 @@
 
 > 原文：<https://dev.to/xeroxism/how-to-install-synaptic-package-manager-in-ubuntu-linux-hm3>
 
-[![synaptic_banner](../Images/df720ef56c62f0af8997bf923aef416c.png)T2】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/08/synaptic_banner.png?ssl=1)
+[![synaptic_banner](img/df720ef56c62f0af8997bf923aef416c.png)T2】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/08/synaptic_banner.png?ssl=1)
 
 新立得是一个 apt 的图形化包管理程序。它提供了与 apt-get 命令行实用程序相同的功能，具有基于 Gtk+的 GUI 前端。如果你更喜欢在 Debian 和基于 Debian 的系统中使用 GUI 安装应用程序，那么 synaptic 将是值得的。
 
-[![synaptic_screenshot_1](../Images/b80a22d5180db8d135096454815c1f9c.png)T2】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/08/synaptic_screenshot_1.png?ssl=1)
+[![synaptic_screenshot_1](img/b80a22d5180db8d135096454815c1f9c.png)T2】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/08/synaptic_screenshot_1.png?ssl=1)
 
 ## 特性:
 
@@ -23,7 +23,7 @@
 *   包管理器的内置终端模拟器。
 *   仅 Debian/Ubuntu:通过 debconf 系统配置软件包。| |
 
-[![synaptic_screenshot_3](../Images/dd8773457e0a748d000ae6d58223e1bd.png)T2】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/08/synaptic_screenshot_3.png?ssl=1)
+[![synaptic_screenshot_3](img/dd8773457e0a748d000ae6d58223e1bd.png)T2】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/08/synaptic_screenshot_3.png?ssl=1)
 
 # 如何安装:
 

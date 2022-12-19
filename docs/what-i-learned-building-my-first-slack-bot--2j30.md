@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bendenger/what-i-learned-building-my-first-slack-bot--2j30>
 
-[![](../Images/ddd2406e6105e71730ca42f1861a584e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r2zq9gCA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/opp6ydfeo7nvntds60v4.png)
+[![](img/ddd2406e6105e71730ca42f1861a584e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r2zq9gCA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/opp6ydfeo7nvntds60v4.png)
 
 我做了一个 slack 机器人，现在它在 slacks 应用程序目录上运行，我意识到我必须面对一些挑战，这是我没有准备好的。
 

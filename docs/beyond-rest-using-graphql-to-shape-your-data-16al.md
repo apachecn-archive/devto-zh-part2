@@ -4,7 +4,7 @@
 
 ### 超越静止——使用 GraphQL 塑造您的数据
 
-[![](../Images/f1ccc68c4d1b4d108d152a11a78b5003.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dsUJDRsw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ai0_DqUnyzbBVwF31kchSng.png)
+[![](img/f1ccc68c4d1b4d108d152a11a78b5003.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dsUJDRsw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ai0_DqUnyzbBVwF31kchSng.png)
 
 ### 概述
 
@@ -24,7 +24,7 @@ GraphQL 的基础是它的类型系统。有像字符串和整数这样的基本
 
 这就是等级制度的由来。当复杂类型具有本身就是复杂类型的属性时。特定的 GraphQL 应用程序有一个定义所有类型的模式。最好的部分是 GraphQL 支持自省，您可以查询它的模式来发现所有类型及其属性。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/?cid=banner_a)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/?cid=banner_a)
 
 让我们看一个模式定义语言的简单例子。这里有两种类型:玩家和团队。一个队可以有很多球员，一个球员属于一个队。此外，球队和球员都有名字和他们赢得的冠军数。
 
@@ -70,7 +70,7 @@ GraphQL 的另一个有趣之处是它的工具。我非常喜欢交互式图形
 
 这是一个在 https://graphql.github.io/swapi-graphql 从星球大战电影模式中查询飞船的例子。
 
-[![](../Images/313e9536be04a8be61bc682aa6b972d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5zxbfeEH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aai1Yxsm_Lk_rWt1Y-_4DMg.png)
+[![](img/313e9536be04a8be61bc682aa6b972d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5zxbfeEH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aai1Yxsm_Lk_rWt1Y-_4DMg.png)
 
 ### 图 QL vs .休息一下
 
@@ -129,7 +129,7 @@ GitHub 甚至嵌入了一个 GraphiQL [explorer](https://developer.github.com/v4
 
 下面是一个屏幕截图，展示了右边的模式文档(带超链接)和左边的自动完成:
 
-[![](../Images/09110951cabf280131b9f5930404d973.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lL0EX1nh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AECP8UrVkXFXlBBRKIhaV0Q.png)
+[![](img/09110951cabf280131b9f5930404d973.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lL0EX1nh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AECP8UrVkXFXlBBRKIhaV0Q.png)
 
 让我们疯狂吧。微软最近已经成为开源的典范(这还不是最疯狂的部分)。下面的查询怎么样:获得微软存储库的总数及其累积的磁盘使用量+三个最受欢迎的微软回购(基于按流行度排序的星级数),对于每个回购显示项目的名称、url、星级数和最后提交作者的用户名(URL)。
 
@@ -241,11 +241,11 @@ GitHub 甚至嵌入了一个 GraphiQL [explorer](https://developer.github.com/v4
 
 下面是我将使用的查询:
 
-[![](../Images/4aee2205c9445f61b1d30786274c4a8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zznUrjVo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AOy8lXHb7xYX7qFpLU75cSw.png)
+[![](img/4aee2205c9445f61b1d30786274c4a8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zznUrjVo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AOy8lXHb7xYX7qFpLU75cSw.png)
 
 这是应用程序本身:
 
-[![](../Images/9143536bce3c45995f3c1cf7972f2901.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gWGjKKh6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A4pSMbE56nu8M6ajQWUrKvw.png)
+[![](img/9143536bce3c45995f3c1cf7972f2901.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gWGjKKh6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A4pSMbE56nu8M6ajQWUrKvw.png)
 
 我为我糟糕的设计技巧道歉。
 
@@ -439,7 +439,7 @@ GitHub API 是一个全面的、设计良好的 GraphQL API，它展示了 Graph
 
 ### Plug: [LogRocket](http://logrocket.com) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

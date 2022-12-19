@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nylas/how-i-found-myself-learning-about-time-changes-in-the-western-soviet-union-3k0e>
 
-[![Nylas_Blog_TimeChange_V1](../Images/3be8242f16190cc1b3dcab335319347c.png)T2】](https://www.nylas.com/blog/how-i-found-myself-learning-about-time-changes-in-the-western-soviet-union)
+[![Nylas_Blog_TimeChange_V1](img/3be8242f16190cc1b3dcab335319347c.png)T2】](https://www.nylas.com/blog/how-i-found-myself-learning-about-time-changes-in-the-western-soviet-union)
 
 在 [Nylas](https://www.nylas.com/) 这里，我们正在构建一个 API 来帮助[开发者在电子邮件、日历&联系人之上构建应用](https://dev.to/nylas/nylas-api-contacts-crud-now-supports-icloud-2ch3)。事实证明，这样做会让你学到很多关于前苏联时间变化的知识。几个月前，我加入了 Nylas，并且很早就了解到在日历中设置事件的一个重要方面是了解事件所在的时区，相对于事件的创建者以及任何其他参与者。自然，这涉及到大量的时区数学。大部分工作是由 [pytz](https://pypi.org/project/pytz/) 库完成的，这对我们来说已经足够好了。为什么要做别人已经做过的事，对吗？
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/djangotricks/queryset-filters-on-many-to-many-relations-1igm>
 
-[![](../Images/d8661057dfc4eb88f83d4bc24fea2b9a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1u4tkTx7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-B3GL7u_3E8s/WwslYhpiIRI/AAAAAAAAB2g/xABz2VjIWj0C-xkreg1QuVLtvmizA-Z3wCLcBGAs/s1600/queryset-filters-on-many-to-many-relations.png)
+[![](img/d8661057dfc4eb88f83d4bc24fea2b9a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1u4tkTx7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-B3GL7u_3E8s/WwslYhpiIRI/AAAAAAAAB2g/xABz2VjIWj0C-xkreg1QuVLtvmizA-Z3wCLcBGAs/s1600/queryset-filters-on-many-to-many-relations.png)
 
 Django ORM(对象关系映射)使得查询数据库变得如此直观，以至于有时您可能会忘记 SQL 正在后台使用。
 
@@ -205,6 +205,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 Tobias Fischer 拍摄的封面照片。
 
-[![](../Images/bb7b966afb5ec4560dee742ccce551f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s-Vf_RIH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/djangotricks/%257E4/Znynd4jNAVk)
+[![](img/bb7b966afb5ec4560dee742ccce551f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s-Vf_RIH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/djangotricks/%257E4/Znynd4jNAVk)
 
 *本帖最初发表于[djangotricks.blogspot.com](https://djangotricks.blogspot.com/2018/05/queryset-filters-on-many-to-many-relations.html)T3】*

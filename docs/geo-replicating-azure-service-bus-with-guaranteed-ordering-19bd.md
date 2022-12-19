@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jpda/geo-replicating-azure-service-bus-with-guaranteed-ordering-19bd>
 
-[![Photo by [Slava Bowman](https://unsplash.com/@slavab)](../Images/4b96f0c1de74ef02ca393bff15322788.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--cnubo8eP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpda.dev/img/0_eAcdrF5a1HTPad7v.jpg) *摄影作者[斯拉瓦·鲍曼](https://unsplash.com/@slavab?utm_source=medium&utm_medium=referral)*
+[![Photo by [Slava Bowman](https://unsplash.com/@slavab)](img/4b96f0c1de74ef02ca393bff15322788.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--cnubo8eP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpda.dev/img/0_eAcdrF5a1HTPad7v.jpg) *摄影作者[斯拉瓦·鲍曼](https://unsplash.com/@slavab?utm_source=medium&utm_medium=referral)*
 
 最近，一位客户向我提出了一个有趣的问题:
 

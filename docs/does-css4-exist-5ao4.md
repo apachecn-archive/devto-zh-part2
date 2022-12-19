@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/rnrnshn/does-css4-exist-5ao4>
 
-[![CSS 4](../Images/544de3a0828689b3284505a99fd0005c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RQxe_Ww3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jv5izolsa4bf8eflldju.png)
+[![CSS 4](img/544de3a0828689b3284505a99fd0005c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RQxe_Ww3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jv5izolsa4bf8eflldju.png)
 
 我为什么要说这个？这不是很明显吗？是啊。这似乎是显而易见的，但它不是。这个困惑是我在看 Chrome 69 发布会的视频时突然听到[...和一些新的 CSS4 功能]这意味着最新版本的 Chrome 已经支持 CSS4 的新功能。我就像是在说什么？CSS4？。
 

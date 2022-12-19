@@ -6,7 +6,7 @@
 
 几乎是同时，我遭遇了气流。
 
-[![](../Images/2607ba710ab8abade075e38616e51e86.png)T4】](https://res.cloudinary.com/practicaldev/image/fetch/s--y2TCkUYj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i2.wp.com/media.giphy.com/media/12LSDuudJOUDGU/giphy.gif%3Fresize%3D350%252C196%26ssl%3D1)
+[![](img/2607ba710ab8abade075e38616e51e86.png)T4】](https://res.cloudinary.com/practicaldev/image/fetch/s--y2TCkUYj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i2.wp.com/media.giphy.com/media/12LSDuudJOUDGU/giphy.gif%3Fresize%3D350%252C196%26ssl%3D1)
 
 当我执行`npm start`命令时，我得到了第一条错误信息，这是我在设置教程时得到的。
 

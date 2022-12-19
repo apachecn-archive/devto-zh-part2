@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/couellet/a-react-e-commerce-guide-bonus-gatsby-shop-tutorial-5c86>
 
-[![A React E-Commerce Guide (BONUS: Next.js Shop Tutorial!)](../Images/e0de1326671fd95b7f8ab3a1041b9635.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z8E8fAWE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/205468/react-ecommerce-tutorial.png)
+[![A React E-Commerce Guide (BONUS: Next.js Shop Tutorial!)](img/e0de1326671fd95b7f8ab3a1041b9635.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z8E8fAWE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/205468/react-ecommerce-tutorial.png)
 
 2020 年的事件完全加速了电子商务在我们生活中的无所不在。
 

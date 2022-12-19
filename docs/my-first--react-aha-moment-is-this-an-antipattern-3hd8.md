@@ -10,7 +10,7 @@ twitch 上的流媒体我的第一个使用 react 的项目，不仅仅是遵循
 
 我的第一个启示发生在我开始为 STDOUT 和 STDERR 缓冲区构建日志组件时——就像您在 CI 工具上看到的那样。我在 Travis CI 上找到了一个随机的开源示例，看看标记是如何组合在一起的:
 
-[![Random log output from a project on Travis CI](../Images/4d7b4991fdcf8e79da7c6abfe7a4475a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tviy4jzd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3jpnyd4asgg6hapuxkt6.png)
+[![Random log output from a project on Travis CI](img/4d7b4991fdcf8e79da7c6abfe7a4475a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tviy4jzd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3jpnyd4asgg6hapuxkt6.png)
 
 我决定假设我的简单工具，STDOUT 文本应该是绿色的，STDERR 文本应该是红色的。我控制着正在运行的可执行文件，所以我可以做出这样愚蠢的决定...至少目前是这样。
 
@@ -86,7 +86,7 @@ render() {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Showing colour coded output](../Images/37477c43b59e127d0cedf881105ea7c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n_IPkyB_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oemvc132zim0kj9pehwz.png)
+[![Showing colour coded output](img/37477c43b59e127d0cedf881105ea7c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n_IPkyB_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oemvc132zim0kj9pehwz.png)
 
 ## 总结
 

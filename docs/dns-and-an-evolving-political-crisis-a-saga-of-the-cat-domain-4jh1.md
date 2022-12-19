@@ -140,7 +140,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 实际上不是。是关于加泰罗尼亚的。
 
-[![Catalonia](../Images/dfdb24ecbacbac3516aedfc066b028f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yFeu0nGX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u4r3osw23ptj0vtoe142.png)
+[![Catalonia](img/dfdb24ecbacbac3516aedfc066b028f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yFeu0nGX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u4r3osw23ptj0vtoe142.png)
 
 加泰罗尼亚是西班牙一个独立冲突历史悠久的地区。像巴斯克地区一样，加泰罗尼亚说着不同的语言，并认为自己在文化上与周围的西班牙不同。
 

@@ -65,7 +65,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，我们已经讨论了如何从`main()`到`onCreate()`，我们已经使用了一些漂亮的词，如 Handler 和 Looper，当你开发一个应用程序时，你很少在代码中看到这些(可能在这里或那里有一个 Handler，但 Looper 是非常罕见的，除非你正在处理像低级多线程这样的黑暗事物)。当我们的应用程序崩溃时，我们经常看到这些:
 
-[![alt text](../Images/fa29595110dc95a484980458743797a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZMxXLMz9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.android.com/studio/images/debug/android-monitor-logcat_2-2_2x.png)
+[![alt text](img/fa29595110dc95a484980458743797a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZMxXLMz9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.android.com/studimg/debug/android-monitor-logcat_2-2_2x.png)
 
 这是因为它们是 android 执行多线程的基础。让我们从一些定义开始:
 

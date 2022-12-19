@@ -6,7 +6,7 @@
 
 这实际上非常接近我已经建立的东西:
 
-[![](../Images/1a9a23020d9b5e8c9daded2cebdcf84e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dqtqam3U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/usc4c9ujmp0w93rc5ld6.gif)
+[![](img/1a9a23020d9b5e8c9daded2cebdcf84e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dqtqam3U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/usc4c9ujmp0w93rc5ld6.gif)
 
 我对这个搜索栏的设计已经很满意了。然而，它的功能还有待改进。它不是动态获取立法者信息，而是通过一个必须手动更新的大型 JSON 对象进行过滤。不够理想！如你所见，它不会缓存以前的搜索。
 
@@ -16,7 +16,7 @@
 
 因为我正在开发一个已经建立起来的搜索功能，所以我没有做任何高保真的草图，只有这个:
 
-[![](../Images/538b5e4f26d110a37a39de58eac05170.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o3d2MaNv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vtdonbd6w3wzj9umxwov.JPG)
+[![](img/538b5e4f26d110a37a39de58eac05170.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o3d2MaNv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vtdonbd6w3wzj9umxwov.JPG)
 
 ### 思绪&疑问
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/joelnet/i--ramda---partial-application-with-curry-2b02>
 
-[![I ❤ Ramda - Partial Application with a Special Placeholder](../Images/e24e23c014da829f8cf84c5fa01a7ee1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3k7R0mS_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/joelnet/articles/raw/master/articles/2018-05-09---i-heart-ramda--partial_application_with_curry/puzzle-3223941_1920-2.png)
+[![I ❤ Ramda - Partial Application with a Special Placeholder](img/e24e23c014da829f8cf84c5fa01a7ee1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3k7R0mS_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/joelnet/articles/raw/master/articles/2018-05-09---i-heart-ramda--partial_application_with_curry/puzzle-3223941_1920-2.png)
 
 # ❤·拉姆达简介
 
@@ -245,4 +245,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 干杯！
 
-[![license CC BY 4.0](../Images/cfdf14d8c8a99476d3457617d720b6eb.png)T2】](https://creativecommons.org/licenses/by/4.0/)
+[![license CC BY 4.0](img/cfdf14d8c8a99476d3457617d720b6eb.png)T2】](https://creativecommons.org/licenses/by/4.0/)

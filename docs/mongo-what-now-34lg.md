@@ -93,7 +93,7 @@ MongoDB C#驱动程序很好，但是有些东西开箱即用很麻烦。例如�
 
 即使现在 EF Core 中提供了 MongoDB 提供程序，我认为 MongoFramework 仍然有它的位置——如果不在你的下一个项目中，它在我心中也有一席之地。❤️
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)[Turner software](https://github.com/TurnerSoftware)/[MongoFramework](https://github.com/TurnerSoftware/MongoFramework)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)[Turner software](https://github.com/TurnerSoftware)/[MongoFramework](https://github.com/TurnerSoftware/MongoFramework)
 
 ### MongoDB 的类似“实体框架”的接口
 
@@ -103,7 +103,7 @@ MongoDB C#驱动程序很好，但是有些东西开箱即用很麻烦。例如�
 
 MongoDB 的类似“实体框架”的接口
 
-[![AppVeyor](../Images/683472c9150e7926c0eca290f339e995.png)](https://ci.appveyor.com/project/Turnerj/mongoframework)[![Codecov](../Images/7260eb4f7ea36d39dc0e9b0bb2547c2c.png)](https://codecov.io/gh/TurnerSoftware/MongoFramework)[![NuGet](../Images/5e15c035c5c71c698e71e06ab03250e4.png)](https://www.nuget.org/packages/MongoFramework/)[![Codacy Badge](../Images/4f2f4212de102acd5247f678912de96d.png)T11】](https://www.codacy.com/app/Turnerj/MongoFramework)
+[![AppVeyor](img/683472c9150e7926c0eca290f339e995.png)](https://ci.appveyor.com/project/Turnerj/mongoframework)[![Codecov](img/7260eb4f7ea36d39dc0e9b0bb2547c2c.png)](https://codecov.io/gh/TurnerSoftware/MongoFramework)[![NuGet](img/5e15c035c5c71c698e71e06ab03250e4.png)](https://www.nuget.org/packages/MongoFramework/)[![Codacy Badge](img/4f2f4212de102acd5247f678912de96d.png)T11】](https://www.codacy.com/app/Turnerj/MongoFramework)
 
 ## 概观
 
@@ -127,7 +127,7 @@ MongoFramework 目前构建在官方 MongoDB C#驱动之上。
 
 ### MongoFramework。剖析。微型剖析器
 
-[![NuGet](../Images/f97bf3bb25d014ce968141af58bf3920.png)T2】](https://www.nuget.org/packages/MongoFramework.Profiling.MiniProfiler/)
+[![NuGet](img/f97bf3bb25d014ce968141af58bf3920.png)T2】](https://www.nuget.org/packages/MongoFramework.Profiling.MiniProfiler/)
 
 支持分析数据库读写，将数据推送到[微型分析器](https://github.com/MiniProfiler/dotnet/)。
 

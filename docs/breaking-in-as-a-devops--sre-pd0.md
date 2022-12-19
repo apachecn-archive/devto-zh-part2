@@ -6,7 +6,7 @@
 
 因此，这是我的第二篇与职业相关的帖子(*第四篇，总的来说*)，我希望在这篇帖子中，我能比之前的帖子更加愉快。如果你没有读过，请在这里找到它
 
-[![vinayhegde1990](../Images/50993a025705310ce41b9d0f2dbb562f.png)](/vinayhegde1990) [## 在休息和多次被拒后重振事业！
+[![vinayhegde1990](img/50993a025705310ce41b9d0f2dbb562f.png)](/vinayhegde1990) [## 在休息和多次被拒后重振事业！
 
 ### vinay heg de Jun 5 ' 183min read
 

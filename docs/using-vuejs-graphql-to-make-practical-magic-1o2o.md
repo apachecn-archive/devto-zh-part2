@@ -8,7 +8,7 @@
 
 安德鲁·韦尔奇
 
-[![Vuejs Graphql Craft Cms Magic](../Images/54b481574276a473dcf9be0611abb9b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3flNMQlT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/vuejs-graphql-craft-cms-magic.jpg)
+[![Vuejs Graphql Craft Cms Magic](img/54b481574276a473dcf9be0611abb9b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3flNMQlT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/vuejs-graphql-craft-cms-magic.jpg)
 
 新技术的进步可能令人畏惧。我们听说过像 [Vue JS](http://vuejs.org/) 和 [GraphQL](http://graphql.org/) 这样闪亮的新事物，但是一天中学习每一件新事物的时间是有限的。
 
@@ -27,7 +27,7 @@
 
 每个项目都至少需要一点工具；我试着把它保持在一分钟之内，这样我们就可以专注于考试。但是我们仍然需要一些。
 
-[![Craft Cms Vue Js Graphql Tooling](../Images/184e5682409fa8adee486d6969228b90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cOc0ypof--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/craft-cms-vue-js-graphql-tooling.jpg)
+[![Craft Cms Vue Js Graphql Tooling](img/184e5682409fa8adee486d6969228b90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cOc0ypof--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/craft-cms-vue-js-graphql-tooling.jpg)
 
 以下是我们将在前端工具中使用的内容:
 
@@ -66,7 +66,7 @@
 
 最终结果在前端看起来是这样的:
 
-[![Auto Complete Search](../Images/f84baec680e865de1f7dfb544303d6d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nC6yiK0E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_2166x1244_crop_center-center_line/auto-complete-search.png)
+[![Auto Complete Search](img/f84baec680e865de1f7dfb544303d6d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nC6yiK0E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_2166x1244_crop_center-center_line/auto-complete-search.png)
 
 在顶部我们有一个搜索区域，在它的下面，我们展示了一个动态的匹配列表，当他们输入博客条目的时候。下面是一些调试信息，可能有助于您了解正在发生的事情。
 
@@ -151,11 +151,11 @@
 
 在工艺管理中，您可以创建这些轴承令牌:
 
-[![Craftql Bearer Rokens](../Images/1aca284c538c6e83a7a1f0c137d7047e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BYqz73pw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1428x604_crop_center-center_line/craftql-bearer-rokens.png)
+[![Craftql Bearer Rokens](img/1aca284c538c6e83a7a1f0c137d7047e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BYqz73pw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1428x604_crop_center-center_line/craftql-bearer-rokens.png)
 
 并定义他们有哪些缺点:
 
-[![Craftql Token Scopes](../Images/74b3b32e5ed175ed4d66a95b7ed15225.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nsqwEyjJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_2036x1290_crop_center-center_line/craftql-token-scopes.png)
+[![Craftql Token Scopes](img/74b3b32e5ed175ed4d66a95b7ed15225.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nsqwEyjJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_2036x1290_crop_center-center_line/craftql-token-scopes.png)
 
 这些都不是 Craft CMS 或 CraftQL 独有的；无论尤尔最终在后端使用什么，都会有一个访问 API 的 URL 和一个定义权限的 bear er 令牌。
 
@@ -333,7 +333,7 @@ GraphQL 使用我们传入的查询和变量来决定选择什么数据。然后
 
 唷！你累了吗？我累了！但是我认为这里的概念并不坏，只是需要学习一些新的名词。
 
-[![Have A Beer](../Images/0f89f6d7e3ec502d3468621d7a5afec2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gsnRQ2uD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/have-a-beer.jpg)
+[![Have A Beer](img/0f89f6d7e3ec502d3468621d7a5afec2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gsnRQ2uD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/have-a-beer.jpg)
 
 我们已经涵盖了您需要了解的所有事情是如何工作的大部分重要概念，所以喝杯啤酒庆祝一下吧，然后让我们开始接触如何避免误解。
 
@@ -347,7 +347,7 @@ GraphQL 使用我们传入的查询和变量来决定选择什么数据。然后
 
 从正面看，它是这样的:
 
-[![Contact Form Submission Saving](../Images/0a071fdf3c721e937810575071adb622.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ay8sNE7J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_2166x973_crop_center-center_line/contact-form-submission-saving.png)
+[![Contact Form Submission Saving](img/0a071fdf3c721e937810575071adb622.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ay8sNE7J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_2166x973_crop_center-center_line/contact-form-submission-saving.png)
 
 所以，斯坦·达德先生。用户填写姓名、电子邮件和信息，然后点击**submit**but ton……我们将信息保存在后端的数据库中。
 
@@ -519,7 +519,7 @@ GraphQL 使用我们传入的查询和变量来决定选择什么数据。然后
 
 我们在 Con tact Form chan nel 中插入的字段与我们在 Craft CMS 中定义的相匹配:
 
-[![Contact Form Craft Cms Fields](../Images/90703a4010aa6e25968c4ea5675b847f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9_uStXNR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1650x914_crop_center-center_line/contact-form-craft-cms-fields.png)
+[![Contact Form Craft Cms Fields](img/90703a4010aa6e25968c4ea5675b847f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9_uStXNR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1650x914_crop_center-center_line/contact-form-craft-cms-fields.png)
 
 唯一有点不寻常的是我们以硬编码的形式传递的内容。这是因为所有条目都需要由 Craft CMS 中的某个人拥有。
 
@@ -531,13 +531,13 @@ GraphQL 使用我们传入的查询和变量来决定选择什么数据。然后
 
 虽然这似乎是一个很好的学习点，但是一旦你熟悉了 GraphQL 的工作方式，它比用 [Ele ment API](http://github.com/craftcms/element-api) 来“滚动你自己的”自定义 API 要容易得多，而且你会学到一种可以移植到许多不同平台的技能。
 
-[![Victory Image](../Images/186618460c02b07c51f9dece35d09bd0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RetgI5jz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/victory-image.jpg)
+[![Victory Image](img/186618460c02b07c51f9dece35d09bd0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RetgI5jz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/victory-image.jpg)
 
 最好的部分是…你已经从实现它的系统中分离出你的 API。因此，如果您决定迁移到不同的 CMS 或 plat form，这将使迁移变得非常容易！
 
 学习 GraphQL 最有趣、最有趣的方式之一就是简单地使用 [CraftQL plu g in](http://github.com/markhuot/craftql) 中包含的 in-browser[graph QL](http://github.com/graphql/graphiql)IDE:
 
-[![Graphiql Ide Explorer Auto Complete](../Images/fa8a1c94eec29a8ce02eeacca28e0d5a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CjUMUxNy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_2396x1648_crop_center-center_line/graphiql-ide-explorer-auto-complete.png)
+[![Graphiql Ide Explorer Auto Complete](img/fa8a1c94eec29a8ce02eeacca28e0d5a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CjUMUxNy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_2396x1648_crop_center-center_line/graphiql-ide-explorer-auto-complete.png)
 
 您可以使用自动完成的编辑器来处理您的查询和变更，该编辑器知道您的 entry Craft CMS 后端的模式。太好玩了！
 

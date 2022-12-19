@@ -192,7 +192,7 @@
 
 现在，走出去，应用你的新知识。
 
-[![](../Images/32b052b31e86edbf874c41f1346882b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a3XSJhTH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AcJGdKu6pdTG8teb0)
+[![](img/32b052b31e86edbf874c41f1346882b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a3XSJhTH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AcJGdKu6pdTG8teb0)
 
 * * *
 

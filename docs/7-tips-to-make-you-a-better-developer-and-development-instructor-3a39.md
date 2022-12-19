@@ -24,11 +24,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 # 1。谈论我们将要做的事情。
 
-[![alt text](../Images/e6a21e0df440766c4434e73898892284.png "Unfinished Content")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2nypuy9c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i65.tinypic.com/9g920k.png)
+[![alt text](img/e6a21e0df440766c4434e73898892284.png "Unfinished Content")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2nypuy9c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i65.tinypic.com/9g920k.png)
 
 *   展示您的学生将创建的内容的之前和之后。图像非常重要，它帮助人们了解他们在做什么。接下来，向学生展示每张图片的不同之处，并告诉他们如何应用刚刚学到的知识来获得“之后”的图片。
 
-[![alt text](../Images/6aabf522eeff85e59c16cf094729ee47.png "Finished Content")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kzikDgqx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i64.tinypic.com/20qiefs.png)
+[![alt text](img/6aabf522eeff85e59c16cf094729ee47.png "Finished Content")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kzikDgqx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i64.tinypic.com/20qiefs.png)
 
 * * *
 
@@ -40,7 +40,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 # 3。现在演示你正在做的事情，又名**现场编码**:
 
-*   通过在标题周围加上**强**标签和 **p** 标签来显示段落。![alt text](../Images/390f5394d85975a0d15a316d65d37e38.png "Bold Title 1") ![alt text](../Images/cb23853df76fc4ddacb3a4d4c581299f.png "First Paragraph") ![alt text](../Images/4bb5b6e30268bce790aadcaeb145101a.png "Bold Title") ![alt text](../Images/5d6570e841de168cd613c4f1a86620b4.png "Second Paragraph")
+*   通过在标题周围加上**强**标签和 **p** 标签来显示段落。![alt text](img/390f5394d85975a0d15a316d65d37e38.png "Bold Title 1") ![alt text](img/cb23853df76fc4ddacb3a4d4c581299f.png "First Paragraph") ![alt text](img/4bb5b6e30268bce790aadcaeb145101a.png "Bold Title") ![alt text](img/5d6570e841de168cd613c4f1a86620b4.png "Second Paragraph")
 
 * * *
 
@@ -49,7 +49,7 @@ Enter fullscreen mode Exit fullscreen mode
 *   我只是通过添加**强**标签来使标题加粗。
 *   我还通过添加 **p** 标签来分配段落。
 
-展示例子: [![alt text](../Images/6aabf522eeff85e59c16cf094729ee47.png "Finished Content")](https://res.cloudinary.com/practicaldev/image/fetch/s--kzikDgqx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i64.tinypic.com/20qiefs.png)
+展示例子: [![alt text](img/6aabf522eeff85e59c16cf094729ee47.png "Finished Content")](https://res.cloudinary.com/practicaldev/image/fetch/s--kzikDgqx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i64.tinypic.com/20qiefs.png)
 
 * * *
 
@@ -62,7 +62,7 @@ Enter fullscreen mode Exit fullscreen mode
 *   我使用了强标签，因为我想抓住观众的注意力。要做到这一点，你需要让某些单词/短语从周围的文本中脱颖而出。
 *   我使用 p 标签来指定内容中的段落。
 
-[![alt text](../Images/6aabf522eeff85e59c16cf094729ee47.png "Finished Content")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kzikDgqx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i64.tinypic.com/20qiefs.png)
+[![alt text](img/6aabf522eeff85e59c16cf094729ee47.png "Finished Content")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kzikDgqx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i64.tinypic.com/20qiefs.png)
 
 # 7。保持可用:
 

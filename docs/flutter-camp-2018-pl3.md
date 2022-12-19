@@ -4,7 +4,7 @@
 
 大家好，欢迎来到[中型](https://medium.com/flutter-camp)颤振营。
 
-<figure>[![](../Images/da09bd3314694193debcd6db289f7ddc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9w8m-30l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/709/1%2AcqiYrx3XtjeRb1ebQMsphw.jpeg) 
+<figure>[![](img/da09bd3314694193debcd6db289f7ddc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9w8m-30l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/709/1%2AcqiYrx3XtjeRb1ebQMsphw.jpeg) 
 
 <figcaption>旋舞现已进入 beta 3。图片鸣谢:由 [@nitya](https://dev.to/nitya) 在 Google IO2018</figcaption>
 
@@ -22,7 +22,7 @@
 
 但就短期而言，我需要一种方法来快速整理笔记和资源，以参加一个真实世界的全天研讨会活动，我将与来自 *Rainer (GDG 纽黑文)*和 *Adam (GDG 汉普顿路)*的 GDG 同事共同组织这次活动。我们也非常幸运， *Will Larche(颤振团队，材料设计负责人)*不在纽约市，他将在活动中做主题演讲，并帮助支持我们的全天学习。
 
-<figure>[![](../Images/76bdf7c3343b7e76f8cb4e61ef33e808.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JXiFfF3W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AZZB-vUd2Y5W1sP8IAK-aAQ.png) 
+<figure>[![](img/76bdf7c3343b7e76f8cb4e61ef33e808.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JXiFfF3W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AZZB-vUd2Y5W1sP8IAK-aAQ.png) 
 
 <figcaption>颤振营 2018:了解更多 https//旋舞. camp</figcaption>
 

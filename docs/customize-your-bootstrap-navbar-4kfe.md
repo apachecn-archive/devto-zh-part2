@@ -8,7 +8,7 @@
 
 在这里阅读我关于设置引导导航条的介绍性文章:
 
-[![emma_odia image](../Images/b320f768d27b267f03e6a5d27e57ad54.png)](/emma_odia) [## 通过 BootStrap 导航条绘制精细的航道图
+[![emma_odia image](img/b320f768d27b267f03e6a5d27e57ad54.png)](/emma_odia) [## 通过 BootStrap 导航条绘制精细的航道图
 
 ### 艾玛·奥迪亚
 

@@ -6,13 +6,13 @@
 
 因为 React 是建立在即插即用组件理念上的，所以每个公司都争先恐后地构建和开源他们的组件库，这些组件库既可以显示在热门的可重载故事书上，也可以作为 npm 库导入。看看所有这些公司！！！
 
-[![image](../Images/e9b821db19ee258c39ccab0166fc2495.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dVvzPkHo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/35976578/38384106-4ec86d9a-38dc-11e8-952b-ee542cf14ef5.png)
+[![image](img/e9b821db19ee258c39ccab0166fc2495.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dVvzPkHo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/35976578/38384106-4ec86d9a-38dc-11e8-952b-ee542cf14ef5.png)
 
 因为公司也关心可维护性，他们也喜欢用 Typescript 创建设计系统。Typescript 强制执行的正确类型化帮助我们为我们的设计系统自动生成文档，所以这是一个双赢的局面！
 
 今天我们将介绍如何构建和发布一个 React + Typescript 故事书设计系统，该系统带有方便的文档插件。最终结果如下所示:
 
-[![image](../Images/729ed6799860bb261cc78d5037d70b1d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_kxHUpTw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/35976578/38381904-51eb3c6a-38d6-11e8-8ebd-800c29d12258.png)
+[![image](img/729ed6799860bb261cc78d5037d70b1d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_kxHUpTw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/35976578/38381904-51eb3c6a-38d6-11e8-8ebd-800c29d12258.png)
 
 # 短版
 
@@ -148,7 +148,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们看看它的工作！`npm run storybook`:
 
-[![image](../Images/559389cdceb3ae8a23f55ff7425e1d60.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1GCTAo8x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/35976578/38380223-18b5a282-38d1-11e8-8c44-8395015435a1.png)
+[![image](img/559389cdceb3ae8a23f55ff7425e1d60.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1GCTAo8x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/35976578/38380223-18b5a282-38d1-11e8-8c44-8395015435a1.png)
 
 # 你的第一个打字稿组件
 
@@ -304,7 +304,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 嘣！
 
-[![image](../Images/729ed6799860bb261cc78d5037d70b1d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_kxHUpTw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/35976578/38381904-51eb3c6a-38d6-11e8-8ebd-800c29d12258.png)
+[![image](img/729ed6799860bb261cc78d5037d70b1d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_kxHUpTw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/35976578/38381904-51eb3c6a-38d6-11e8-8ebd-800c29d12258.png)
 
 # 构建和交付您的(一键式)设计系统的时间
 

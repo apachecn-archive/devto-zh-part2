@@ -14,7 +14,7 @@
 
 来自 SE 排名 的 [网站审计工具会根据您的需要检查尽可能多的页面，并在每一步提供有价值的提示。](https://seranking.com/website-audit.html)
 
-[![](../Images/b25e0bd8741f271b4aecc6f065327618.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7W_IPgBJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dwcllypckaj55cmb6jm7.png)
+[![](img/b25e0bd8741f271b4aecc6f065327618.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7W_IPgBJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dwcllypckaj55cmb6jm7.png)
 
 该工具将检查您网站的 70 多个参数，并给出建议以消除所有检测到的错误——与技术、内容和可用性相关。您可以从中的综合报告中获得关于如何提高网站性能的所有信息。pdf 格式。
 
@@ -49,7 +49,7 @@
 *   通过添加您自己需要完成的任务来定制营销计划。
 *   将任务分配给其他用户，无需登录您的 CRM 或使用任何其他工具。
 
-[![](../Images/531a9e0cc3007601888d663780abb1c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WT7umqjG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6nbtlkj719a9glsh5qxo.png)
+[![](img/531a9e0cc3007601888d663780abb1c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WT7umqjG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6nbtlkj719a9glsh5qxo.png)
 
 例如，SE 排名营销计划包括基于您的网站分析的有价值的建议:
 
@@ -70,7 +70,7 @@
 
 *表现如何:*
 
-[![](../Images/add514b02b68a4187ae0bdbeb50e0091.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6rgPqxLx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uajg1ygsnj4m6u4plhbs.png)
+[![](img/add514b02b68a4187ae0bdbeb50e0091.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6rgPqxLx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uajg1ygsnj4m6u4plhbs.png)
 
 *   你可以为你的每一个关键词设置一个目标 URL，如果它不符合 SERP 中的那个，你会得到一个通知。
 *   你可以追踪当地的排名，直到邮政编码。例如，如果你在芝加哥有一家花店，你可以检查你在某个特定地区的排名，并利用这些数据。

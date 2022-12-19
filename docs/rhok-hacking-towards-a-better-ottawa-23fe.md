@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/qlikbranch/rhok-hacking-towards-a-better-ottawa-23fe>
 
-<figure>[![](../Images/6ec43b7f6955d987cbb0d419ec944d86.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4oDibL0y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/992/1%2Ar2sbyEzCFKnoQMPM4C8EGg.jpeg) 
+<figure>[![](img/6ec43b7f6955d987cbb0d419ec944d86.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4oDibL0y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/992/1%2Ar2sbyEzCFKnoQMPM4C8EGg.jpeg) 
 
 <figcaption>图片来源:[https://rhok.ca/events/rhok-8/](https://rhok.ca/events/rhok-8/)</figcaption>
 
@@ -14,7 +14,7 @@
 
 这一次是为了[善意的随机黑客](http://rhok.ca) (RHoK)，这是一年两次的黑客马拉松，组织提交有需要的项目，参与者运用他们的技能找出解决方案。
 
-[![](../Images/20e894a5a07a417ac45c58e6c3dee081.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PZi8rnRG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2APLs9Qo2BgLTfOfKKlZv3Ig.png)
+[![](img/20e894a5a07a417ac45c58e6c3dee081.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PZi8rnRG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2APLs9Qo2BgLTfOfKKlZv3Ig.png)
 
 [**项目一**](https://rhok.ca/projects/project-1-growing-futures-hydroponic-monitoring-system/) 涉及[成长未来](https://www.growingfutures.ca/)，这是一个致力于通过使用水培法来教育我们的年轻人美食和好生意从而改善下一代的组织。他们正在寻找一种方法来远程管理城市周围的水培系统。最终的解决方案是硬件、软件和数据可视化的完美结合。
 
@@ -32,7 +32,7 @@
 
 ### RHoK hackathons 的参与者似乎有一个习惯，那就是继续下去，以确保这些项目得到一个结论，看到现实世界中所有努力的结果将是令人兴奋的。
 
-<figure>[![](../Images/80b07922fe33344deaf97966a7e702dc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YfD0kI-h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/592/1%2A9-Rn3nnJIBhoZlr7ejKy9g.jpeg) 
+<figure>[![](img/80b07922fe33344deaf97966a7e702dc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YfD0kI-h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/592/1%2A9-Rn3nnJIBhoZlr7ejKy9g.jpeg) 
 
 <figcaption>图片来源:[https://rhok.ca/events/rhok-8/](https://rhok.ca/events/rhok-8/)</figcaption>
 

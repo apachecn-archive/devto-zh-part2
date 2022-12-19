@@ -26,7 +26,7 @@ $ npm start
 
 导航到 [http://localhost:3000/](http://localhost:3000) ，你会看到一个网页。
 
-[![victor-hugo homepage](../Images/b81680574a39b2393a45394296692fb2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--51lKzzUy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/dzello/image/upload/c_pad%2Cf_auto%2Cq_auto%2Cw_1200%2Ch_630/v1524584290/blog/netlify-victor-hugo-boilerplate-plain)
+[![victor-hugo homepage](img/b81680574a39b2393a45394296692fb2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--51lKzzUy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/dzello/image/upload/c_pad%2Cf_auto%2Cq_auto%2Cw_1200%2Ch_630/v1524584290/blog/netlify-victor-hugo-boilerplate-plain)
 
 ## 重装修改
 

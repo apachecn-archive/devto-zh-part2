@@ -6,7 +6,7 @@
 
 下面是我如何着手配置一个非常简单的设置！
 
-[![](../Images/e0fa2c217ba118b36bb270c4931bed0f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E9sqdkx5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AN8tgXcKNJ6eHOOzhXExsDQ.png)
+[![](img/e0fa2c217ba118b36bb270c4931bed0f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E9sqdkx5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AN8tgXcKNJ6eHOOzhXExsDQ.png)
 
 先决条件:
 
@@ -15,11 +15,11 @@
 
 让我们从 GitHub 市场的 Azure Pipelines 插件开始。
 
-[![](../Images/3e72f0feed0ca78487dd4bfe6ca50b88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qVk-qTi8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Az6LyL8U8YFG9_yorn0tfRA.png)
+[![](img/3e72f0feed0ca78487dd4bfe6ca50b88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qVk-qTi8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Az6LyL8U8YFG9_yorn0tfRA.png)
 
 让我们着手制定一个计划。
 
-[![](../Images/a7fef6dee981a54962bb6a22e5205346.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vt3JmZEd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A5EXPH3EFFBMfs8vOsKNUUg.png)
+[![](img/a7fef6dee981a54962bb6a22e5205346.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vt3JmZEd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A5EXPH3EFFBMfs8vOsKNUUg.png)
 
 Azure Pipelines 对公共和私人项目都是免费的，公共库甚至可以免费获得 10 个并行作业。因此，除非您的私有存储库需要多个并行作业，我们在本教程中肯定不需要，否则您可以选择 free 计划。
 
@@ -27,11 +27,11 @@ Azure Pipelines 对公共和私人项目都是免费的，公共库甚至可以�
 
 首先，选择您的存储库，我将使用我的函数——简单存储库。
 
-[![](../Images/625df3349e067aee9e0d029ee6545be6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mUqdGOph--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AI8afZGM29MVnyIWoOlzGuw.png)
+[![](img/625df3349e067aee9e0d029ee6545be6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mUqdGOph--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AI8afZGM29MVnyIWoOlzGuw.png)
 
 Pipelines 现在将分析 git 存储库并推荐一个初学者模板。这可能会根据您的应用程序而有所不同，您可以在这里随意使用。但我将选择“Starter Template ”,因为我们将放弃它，从头开始编写我们的构建管道。
 
-[![](../Images/6c1018b8fab99c1705149ce5d721aa62.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pGziVU75--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ArinlFzP_rR5EQ5w5QLbLjw.png)
+[![](img/6c1018b8fab99c1705149ce5d721aa62.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pGziVU75--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ArinlFzP_rR5EQ5w5QLbLjw.png)
 
 这就是奇迹开始发生的地方。通过创建一个名为`azure-pipelines.yml`的 YAML 文件，将构建管道定义为代码。我们一会儿就写我们的。但是让我们先了解一下为什么这很棒。
 
@@ -122,19 +122,19 @@ steps:
 
 首先，单击 Devops 门户中管道标题下的发布，然后单击“新建”按钮。
 
-[![](../Images/53c498f18f5f925b167a6fdd72e2d8de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5NavX6t1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A2YxuDMammuL4m1iZAbcbZg.png)
+[![](img/53c498f18f5f925b167a6fdd72e2d8de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5NavX6t1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A2YxuDMammuL4m1iZAbcbZg.png)
 
 我们将使用“Azure 应用服务部署”模板，因此我们将选择该模板，然后点击“应用”。
 
-[![](../Images/2020bda6afdabf1ab9eeeaa94cdf9eba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iona2jbt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AlETmCaABKu46EdHcfj38qw.png)
+[![](img/2020bda6afdabf1ab9eeeaa94cdf9eba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iona2jbt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AlETmCaABKu46EdHcfj38qw.png)
 
 如果你愿意，你可以给你的舞台起一个名字。所以我把我的命名为“部署到 Azure 功能”
 
-[![](../Images/bdf3e7e209c5c66a0ec5295692ff4d4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CHiAiqvD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A532kwsCudR7You0VwWsKew.png)
+[![](img/bdf3e7e209c5c66a0ec5295692ff4d4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CHiAiqvD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A532kwsCudR7You0VwWsKew.png)
 
 接下来，我们需要配置我们希望在发布管道中执行的任务，作为这个阶段的一部分。我们将点击 pipeline 中的“1 job，1 task”链接来完成这些设置。
 
-[![](../Images/e29a184f0266af950bbe9d2d4937af58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5U19xVku--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Akk_K7JZgGBDnJU50ZDgcnQ.png)
+[![](img/e29a184f0266af950bbe9d2d4937af58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5U19xVku--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Akk_K7JZgGBDnJU50ZDgcnQ.png)
 
 系统会警告您，我们的应用服务部署任务缺少一些设置。让我们把这些修好。
 
@@ -144,23 +144,23 @@ steps:
 
 我们将保留 Package 或 folder 字段的默认值`$(System.DefaultWorkingDirectory)/**/*.zip`，它将从这里获取我们构建管道的已发布工件。
 
-[![](../Images/dc49427623751846172dff84b941a5ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DkKLjK-J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AaUUrfNKIuShhpYgxWB-SDw.png)
+[![](img/dc49427623751846172dff84b941a5ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DkKLjK-J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AaUUrfNKIuShhpYgxWB-SDw.png)
 
 回到门户中的“管道”选项卡。接下来，我们需要告诉我们的发布，我们希望它部署哪个构建工件。所以点击“添加工件”。
 
-[![](../Images/13fd4c2e9a7cc789a2fb1ad013c5677e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mD-xs9OJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A0hpZsdNgBvsBRjMwKe72Ug.png)
+[![](img/13fd4c2e9a7cc789a2fb1ad013c5677e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mD-xs9OJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A0hpZsdNgBvsBRjMwKe72Ug.png)
 
 这里，我们用构建管道的设置来配置我们的工件。只需使用预填充的下拉菜单完成表单，并选择我们之前创建的构建管道的值。
 
-[![](../Images/4d45bdd48e9bec7615269540019d5a65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lMl7N5Sl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AG0hM65QmxqgotLt1wyjDgw.png)
+[![](img/4d45bdd48e9bec7615269540019d5a65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lMl7N5Sl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AG0hM65QmxqgotLt1wyjDgw.png)
 
 所以现在我们有了一个工件，以及为这个版本执行的一些步骤。我们现在需要设置一个连续部署触发器。这将告诉 Azure Devops 何时运行我们的版本。继续点击我们工件旁边的闪电符号。
 
-[![](../Images/e811b6d688f7cddfc6f1bdaf3b0e6e19.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xIJekdRm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ArM1hemumrruplZEw4ATAkQ.png)
+[![](img/e811b6d688f7cddfc6f1bdaf3b0e6e19.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xIJekdRm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ArM1hemumrruplZEw4ATAkQ.png)
 
 我们可以告诉服务在每次有新的构建可用时创建一个发布，这将是由于我们之前设置的 GitHub CI 集成，我们每次提交到我们的主分支。因此，选中复选框以启用持续部署触发器。
 
-[![](../Images/07fb020294ab86f13b21957cafe6a07e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_mX9swRi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ABQknfvxlN_drpHOnPlhKcg.png)
+[![](img/07fb020294ab86f13b21957cafe6a07e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_mX9swRi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ABQknfvxlN_drpHOnPlhKcg.png)
 
 ## 测试
 
@@ -172,15 +172,15 @@ steps:
 
 如果你点击 Builds，你应该会看到在推送到 GitHub 时，一个新的构建已经开始了。单击该特定构建将提供该构建的摘要。一旦完成，你应该有一个大的绿色复选标记！
 
-[![](../Images/166e0038ed5d927e96d4148ce80242a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YhKRu0x9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AkiHGVlV-0ENJjEh_4TfTBg.png)
+[![](img/166e0038ed5d927e96d4148ce80242a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YhKRu0x9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AkiHGVlV-0ENJjEh_4TfTBg.png)
 
 如果您想更深入地了解这些步骤，可以单击 Logs 选项卡，查看构建的每个步骤以及每个步骤花费的确切时间，如果您单击其中一个步骤，将会看到底层代理运行该构建步骤时的原始日志。
 
-[![](../Images/2ee2dac4a6587789a6fb538774fcd0c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--utP-31oV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AePwM2JH2THZvsecoUgkgCg.png)
+[![](img/2ee2dac4a6587789a6fb538774fcd0c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--utP-31oV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AePwM2JH2THZvsecoUgkgCg.png)
 
 一旦我们的构建完成，我们的持续部署触发器应该已经启动，我们的发布管道应该已经启动。点击左侧的“发布”,查看我们的渠道进展情况。
 
-[![](../Images/a3068129001d2d4d46a32751ad03a495.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dmend_aR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AGlv3WJR0jJQtUDafmhtHdg.png)
+[![](img/a3068129001d2d4d46a32751ad03a495.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dmend_aR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AGlv3WJR0jJQtUDafmhtHdg.png)
 
 在这里，您将看到发布管道已经被触发，并且您应该看到我们的阶段“部署到 Azure Functions”突出显示为绿色，并带有一个复选标记，表明已经成功。
 

@@ -14,7 +14,7 @@
 
 首先，您需要用您的自定义域更新您的存储库。在 repo 的设置中，在 GitHub Pages 部分的“自定义域”中输入域。
 
-[![GitHub Pages settings for the repo](../Images/361cd916c6df231d411410877245cb36.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XfZKP5WB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/od8rooznh47i0cdk1cjb.png)
+[![GitHub Pages settings for the repo](img/361cd916c6df231d411410877245cb36.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XfZKP5WB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/od8rooznh47i0cdk1cjb.png)
 
 ## 悬停上一条记录
 
@@ -35,7 +35,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您还需要创建一个具有类型`CNAME`、主机`www`和值`[username].github.io`的记录，这样就可以通过[www.yoursite.com](http://www.yoursite.com)访问您的站点。最终的一组值应该如下所示:
 
-[![Hover DNS settings](../Images/5ee51ba2ceb56c3a1ee8628977a2c1d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aIb7COqm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wdum3ad7p2v27j0l1cmw.jpg)
+[![Hover DNS settings](img/5ee51ba2ceb56c3a1ee8628977a2c1d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aIb7COqm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wdum3ad7p2v27j0l1cmw.jpg)
 
 这些更改可能需要几个小时(或大约一天)才能生效。休息一下，睡一觉，然后回到你的领域，确保一切正常。现在我们可以强制执行 HTTPS 了！
 
@@ -43,13 +43,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 在您的 GitHub repo 中，在根文件夹中创建一个名为`CNAME`(无扩展名)的文件。在新文件中，写下你正在使用的悬停域。*确保文件只有一行。*该文件应该类似于下面的文件:
 
-[![CNAME Contents](../Images/158f1d6186cf5edeb4fd095ecf61346c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CTrrH99V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vrra7gnvb37knc9vndpg.jpg)
+[![CNAME Contents](img/158f1d6186cf5edeb4fd095ecf61346c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CTrrH99V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vrra7gnvb37knc9vndpg.jpg)
 
 ## 创建 HTTPS 证书
 
 如果您返回到您的回购设置页面以强制执行 HTTPS，您可能会看到以下“尚不可用”错误:
 
-[![GitHub Pages HTTPS error](../Images/a5c775ab1d3795a8dfb5afbe12f32a6b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vBA-mnjb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gkyyfaxohna4aw08w5qv.png)
+[![GitHub Pages HTTPS error](img/a5c775ab1d3795a8dfb5afbe12f32a6b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vBA-mnjb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gkyyfaxohna4aw08w5qv.png)
 
 根据 [GitHub 的故障排除页面](https://help.github.com/articles/troubleshooting-custom-domains/#https-errors)，您需要删除然后重新添加您的存储库的自定义域。等待大约 24 小时，证书就会生成，您应该可以开始工作了！
 

@@ -4,7 +4,7 @@
 
 *这篇文章最初发表在我们的[博客](https://bugfender.com/blog/18-tips-for-working-remotely-this-year/)上。*
 
-[![](../Images/72cafecb967052adab5bf1f89a8378ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lRg7HRhQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/01/working-remotely.jpg)
+[![](img/72cafecb967052adab5bf1f89a8378ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lRg7HRhQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/01/working-remotely.jpg)
 
 如果你曾经从事过传统的朝九晚五的办公室工作，并且渴望更大的灵活性，你会体会到获得第一份完全远程工作的激动。不再受四面墙的束缚，你的新的远程生活承诺了世界所能提供的一切！旅行。整天穿着睡衣。酷酷的远程工作伙伴。无尽的灵活性。
 
@@ -14,7 +14,7 @@
 
 因此，找到**最佳远程工作技巧**和**积极管理你的期望**以在工作和旅行中取得成功是很重要的。你必须取得平衡，否则你会崩溃和燃烧。
 
-[![](../Images/27d50c3535b6edbeef31097a941bf612.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KNqHzK3t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/01/18-remote-team.jpg)
+[![](img/27d50c3535b6edbeef31097a941bf612.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KNqHzK3t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/01/18-remote-team.jpg)
 *2017 年我们夏令营的团队。*
 
 作为完全远程的开发人员和设计人员，我们一直在寻找优化远程工作的沟通、组织和生产力的方法。对我们每个人来说看起来都有点不同。
@@ -29,7 +29,7 @@
 
 3.  **mifi:本地 SIM 卡与国际数据**。要远程访问互联网，根据您的目的地和需求，您有几种不同的选择。在一些国家，购买带有预付费数据的本地 SIM 卡，并使用本地数据将您的计算机绑定到您的手机作为移动热点，会更便宜。(将你的手机用作热点的主要缺点是它会迅速耗尽你的电池，所以你需要做好准备。)对于想要更普遍、更国际化选择的频繁旅行者来说，你可以使用这个[维基](http://prepaid-data-sim-card.wikia.com/wiki/All_countries2)来比较诸如 [GlocalMe](https://www.glocalme.com) 或 [Skyroam Solis](https://www.skyroam.com/solis-global-wifi?gclid=EAIaIQobChMIwbLHi-qH2AIVSk1-Ch2y8QEKEAAYASAAEgIEGfD_BwE) 之类的选择。你可以租用带有国际数据的移动路由器，但维基不鼓励这样做，因为细则经常出现问题。获得本地 SIM 卡并通过手机运行热点很可能是最便宜的选择(取决于国家)。再次参考维基。
 
-[![](../Images/426687fd2263df15a7ba9c6d22eb080f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fKrM5jtM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/01/18-remote-tripmode.jpg) 
+[![](img/426687fd2263df15a7ba9c6d22eb080f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fKrM5jtM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/01/18-remote-tripmode.jpg) 
 *在 Mac 上使用 TripMode。*
 
 1.  **如果你使用数据连接互联网，投资 [TripMode](https://www.tripmode.ch/) 。**此应用程序允许您监控每个应用程序的互联网使用情况，因此您可以选择哪些应用程序可以访问数据并限制消费。浏览器的移动模式节省了大量数据，这将为您节省大量资金。
@@ -42,7 +42,7 @@
 
 1.  拥有一个虚拟办公室可以帮助你感觉和你的团队有联系。也许这一点不言而喻，但你必须保持联系。你不能关掉无线电。计划使用你的团队用来交流的任何应用程序:Slack、Google Hangouts、HipChat、GroupMe 等。如果你讨厌群发信息，你必须克服这种厌恶，才能远程工作。
 
-[![](../Images/09baaab5aed4568e2d7953aad1a49006.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dmXL3Pqu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/01/18-remote-asana.jpg)
+[![](img/09baaab5aed4568e2d7953aad1a49006.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dmXL3Pqu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/01/18-remote-asana.jpg)
 *Asana 项目管理。*
 
 1.  确保团队成员意见一致。考虑使用像 Trello 或 Asana 这样的项目管理软件。如果你希望远程工作是可持续的，就要坦诚沟通。如果你开始感到与外界脱节，和你的经理/团队谈谈如何增加沟通。团队中的每个人都应该能够实时查看项目、共享信息和保持更新。
@@ -57,7 +57,7 @@
 *   [Toggl](https://toggl.com/time-blocking-app/) 有一个 app 可以让你分时间段，跟踪时间，量化你是如何度过时间的，这样你就可以知道你在哪里浪费了时间，提高效率。[收获](https://www.getharvest.com)也有帮助。
 *   如果你想屏蔽你强制访问的某些网站或对某些网站的数据使用设置时间限制，可以考虑使用一个应用程序，如 [Focus Me](https://focusme.com/) 。
 
-[![](../Images/9eadc163a152171a9bde14ac0fae627c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Vqc9n-9L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/01/18-remote-roost.jpg) 
+[![](img/9eadc163a152171a9bde14ac0fae627c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Vqc9n-9L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/01/18-remote-roost.jpg) 
 *栖息之所，为异地工作者的救星。*
 
 1.  **弄个[栖息架](https://www.therooststand.com/)防止不良姿势。**当你旅行时，你可能无法获得最佳的办公空间。也许你会在一个小小的 Airbnb 工作室里，或者和你的团队一起坐在南非的餐桌旁。这款鸡舍脚架重量超轻，体积小巧。它的工作原理是将你的笔记本电脑提升到一个合适的高度，这样你就不会在工作时弯腰驼背。它对你的背有奇效。(这里有更多关于建立一个[人体工程学工作空间](https://zapier.com/blog/how-to-set-up-your-desk/)。)

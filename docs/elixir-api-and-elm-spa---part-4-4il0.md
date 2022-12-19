@@ -659,11 +659,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 就这样，登录页面现在应该可以工作了。 *elm-app 启动*你的应用，你应该看不到任何错误。如果您打开浏览器，应该会看到类似这样的内容:
 
-[![Toltec login page showing the email and password form](../Images/78600008fd44c62e7467cbcb7e34738d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MwXcFIez--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tkk5z450miy7gdo3ytkj.png)
+[![Toltec login page showing the email and password form](img/78600008fd44c62e7467cbcb7e34738d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MwXcFIez--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tkk5z450miy7gdo3ytkj.png)
 
 使用我们的 seed 用户(电子邮件:user@toltec，密码:user@toltec)登录后，您应该会看到主页:
 
-[![Toltec home page after successful login](../Images/5e8c597e10abc3e4a5715c53ac4a7857.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--74uc0YYJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8e9q4c63acew7f0m2s9y.png)
+[![Toltec home page after successful login](img/5e8c597e10abc3e4a5715c53ac4a7857.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--74uc0YYJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8e9q4c63acew7f0m2s9y.png)
 
 ## 创建注册页面
 
@@ -983,11 +983,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们已经完成了注册页面。转到浏览器并导航到注册菜单，您会看到类似这样的内容:
 
-[![Toltec Register page with name, email and password fields](../Images/5b7f413efd3cf80f4d60ce29df1c2d9d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hjGwe3nM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/df592x577gjfsywd99os.png)
+[![Toltec Register page with name, email and password fields](img/5b7f413efd3cf80f4d60ce29df1c2d9d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hjGwe3nM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/df592x577gjfsywd99os.png)
 
 如果你输入一个新用户的信息，它将在后端应用程序中创建，你也应该登录
 
-[![Toltec Home page after user creation and automatic loggin in](../Images/f5c9db7a40ce6042a0901c54f73c988e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aLd0-0-e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3fyz88vcezsg4i7mx6gd.png)
+[![Toltec Home page after user creation and automatic loggin in](img/f5c9db7a40ce6042a0901c54f73c988e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aLd0-0-e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3fyz88vcezsg4i7mx6gd.png)
 
 你可以在这里找到后端修改的源代码。前端的变化是[这里](https://github.com/miguelcoba/toltec-web/tree/part-04)。在这两种情况下，都要寻找 part-04 分支。
 

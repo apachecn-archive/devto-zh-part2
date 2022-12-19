@@ -16,7 +16,7 @@
 
 让我们借助这个简单的插图来看看它
 
-[![Alt text of image](../Images/5f1b1f696d93aa0bf5dd9d13ceab9169.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TkU95Ghs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.com/images/json-web-token-authentication-apcelent.png)
+[![Alt text of image](img/5f1b1f696d93aa0bf5dd9d13ceab9169.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TkU95Ghs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.cimg/json-web-token-authentication-apcelent.png)
 
 ## JWT 的结构
 

@@ -4,7 +4,7 @@
 
 众所周知，软件开发很难评估。由于这个原因，我知道很少有人认真对待瀑布过程。有许多因素造成了一定程度的不可预测性。一个是通常有一些开发人员以前从未构建过的部分需要构建。领域经验的缺乏会导致某些东西被遗漏，并且世界上所有的计划都不会抓住所有的东西。限制我们自己只建造我们以前建造过的东西值得吗？大概不会。
 
-[![](../Images/d34b919881dbd2e34e97892862b5e99c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s8LM_xpS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.professorbeekums.com/img/2018/unknown.jpeg)
+[![](img/d34b919881dbd2e34e97892862b5e99c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s8LM_xpS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.professorbeekums.com/img/2018/unknown.jpeg)
 
 另一个因素是，随着越来越多的关于用户如何与产品交互的信息被发现，软件产品的各个方面将会发生变化。这些变化通常也是不可预测的。你会喜欢和那些拒绝让你改变需求的开发人员一起工作吗？因为这会打乱他们的评估。大概不会。
 

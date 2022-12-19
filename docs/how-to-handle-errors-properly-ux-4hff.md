@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bugfenderapp/how-to-handle-errors-properly-ux-4hff>
 
-[![](../Images/a8f26c432bb1e761ca44d393567d52f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y4e33HPd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/08/Error-handling.jpg)
+[![](img/a8f26c432bb1e761ca44d393567d52f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y4e33HPd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/08/Error-handling.jpg)
 
 *这篇文章最初发表在我们的[博客](https://mobilejazz.com/blog/how-to-handle-errors-properly-ux/)上。*
 
@@ -10,7 +10,7 @@
 
 每次我想说点什么，他总是绕过我，试图炫耀他的知识。我会张开我的嘴，在话出来之前，他挥霍一些随机评论把我放在我的位置。感觉就像我们在玩打地鼠，只不过我是鼹鼠。
 
-[![](../Images/509186bb5485a2c9740de08e2dc2efe9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_Hzburo_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/08/blah-gif.gif)
+[![](img/509186bb5485a2c9740de08e2dc2efe9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_Hzburo_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/08/blah-gif.gif)
 
 当我们的手机或平板电脑闪现无用的信息时，我们也会有类似的感觉。这是一种沮丧和无助的混合，当应用程序本身的一些随机缺陷触发消息时，情况会变得更糟。它一遍又一遍地弹出来，就像汽车报警器响了一样，没有办法让它静音。
 
@@ -20,7 +20,7 @@
 
 我想知道那个表格是不是劫持我会议的同一个人设计的。它没有倾听和回应用户，而是一遍又一遍地大喊‘你错了’。这种形式让我叔叔没有机会做正确的事情，他什么也学不到。
 
-[![](../Images/c6c56d56afc81f5bf804e33a9e379575.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XesFmn7f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/08/form-error.png)
+[![](img/c6c56d56afc81f5bf804e33a9e379575.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XesFmn7f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/08/form-error.png)
 
 我知道这不是一封有效的电子邮件，让我打完。
 
@@ -28,7 +28,7 @@
 
 然而，我个人最喜欢的是在一些圈子里被称为“死胡同信息”的东西:经典的“对不起，出了点问题”，它在你花了五分钟填写表格后弹出，实际上并没有告诉你任何事情。好吧，我明白了。有点不对劲。但是什么？我拼错单词了吗？我是不是留了一个空字段？我需要使用不同的用户名吗？我需要记住“2134 年 7 月 85 日”在公历中并不存在吗？
 
-[![](../Images/6d583431c40b02d238b53d3099df92da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KphUK1ib--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/08/misc-error.png)
+[![](img/6d583431c40b02d238b53d3099df92da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KphUK1ib--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/08/misc-error.png)
 
 这个例子特别刺耳，因为它太懒了，太不体贴了。设计者或开发者只需付出一点努力，就能让用户的生活变得更加轻松；通过选择让他们蒙在鼓里，侮辱他们的智慧，他们告诉用户去寻找不同的产品。
 
@@ -50,7 +50,7 @@
 
 **为人类使用语言。美国技术人员可能知道“异常:空对象”是什么意思，但普通人可能不知道。如果你认为这个问题很难用人类的语言来表达，试着大声向某人解释。也许你会发现你的用户最终明白你在说什么。**
 
-[![](../Images/8fc8a910f9425deac7389f3fe69f2221.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BhD93nU1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/08/human-errors.gif)
+[![](img/8fc8a910f9425deac7389f3fe69f2221.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BhD93nU1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/08/human-errors.gif)
 
 ## 处理异常错误
 
@@ -70,13 +70,13 @@
 
 **服务器故障。**如果一家服务器托管公司遭遇停机，软件开发人员对此无能为力。他们的产品将不可避免地崩溃，他们必须向用户解释这一点。开发人员可能还需要根据新的服务器更新他们的产品，这也会导致停机时间。
 
-[![](../Images/fd49892972d6409605bfa103f610751e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LBU2h4HQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/08/server-mess.jpg)
+[![](img/fd49892972d6409605bfa103f610751e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LBU2h4HQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/08/server-mess.jpg)
 
 无论问题的性质如何，用户都希望得到解释，以及如何克服障碍的指导。因此开发人员需要确保快速、清晰、真实地给出错误信息。
 
 人们欣赏诚实，尤其是迅速的诚实，而且大多数人都足够理性，能够理解每件产品都会不时出现问题。此外，不要害怕使用幽默——我见过的一些最好的错误信息已经用机智和创意淡化了这个问题。
 
-[![](../Images/04041f5c0536065916e20d98b2c3a7b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6w4vkscj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/08/zapier-waiting-error.png)
+[![](img/04041f5c0536065916e20d98b2c3a7b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6w4vkscj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/08/zapier-waiting-error.png)
 
 在等待其他服务时，扎皮尔会使用有趣的信息。
 

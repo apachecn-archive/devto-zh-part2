@@ -18,7 +18,7 @@ Homebrew-core 是一个非常好的资源库，因为它是通过 GitHub 维护�
 
 我们可以利用 [Repology](https://repology.org/) 来找出什么是过时的。我们查找 [Repology homebrew 页面](https://repology.org/repository/homebrew)，点击“过时的”元包编号链接。
 
-[![Outdated homebrew packages](../Images/e3e80e0a9a828c38ca06a427a0e141ba.png)T2】](https://repology.org/metapackages/?inrepo=homebrew&outdated=1)
+[![Outdated homebrew packages](img/e3e80e0a9a828c38ca06a427a0e141ba.png)T2】](https://repology.org/metapackages/?inrepo=homebrew&outdated=1)
 
 从那里，我们只是挑选一些熟悉的软件来工作——也许你以前用过那个软件，或者它是一个简单的用你擅长的语言构建的软件。尝试选择只需要次要/补丁更新的版本，例如从 1.2.3 到 1.2.4 或 1.3.0，而不是到主要的 2.0.0 版本。确保没有已创建的现有[更新 PRs](https://github.com/Homebrew/homebrew-core/pulls) 。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/gareebcoder/turn-up-your-house-party-4ef7>
 
-[![“Crowd with raised arms in a colorful club in silhouette” by Matty Adame on Unsplash](../Images/7cac848a10f2792e68a4237d80c81584.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bygw8g0C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qfsyrqil3133mpj04jte.jpg)
+[![“Crowd with raised arms in a colorful club in silhouette” by Matty Adame on Unsplash](img/7cac848a10f2792e68a4237d80c81584.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bygw8g0C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qfsyrqil3133mpj04jte.jpg)
 
 ## 你是喜欢聚会的书呆子吗？
 
@@ -28,7 +28,7 @@
 
 #### 电路
 
-[![“Crowd with raised arms in a colorful club in silhouette” by Matty Adame on Unsplash](../Images/b200cb6f5355bf6d8484fefa10a629e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qjf_OQXl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qjdquj9e5ewpxh0cj33z.gif)
+[![“Crowd with raised arms in a colorful club in silhouette” by Matty Adame on Unsplash](img/b200cb6f5355bf6d8484fefa10a629e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qjf_OQXl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qjdquj9e5ewpxh0cj33z.gif)
 
 现在是时候启动你的项目了！下图显示了所有的连接。为了简单起见，这些是直接连接，实际项目中的导线数量可能会有所不同，因为您将使用试验板，并从字面上连接导线。
 

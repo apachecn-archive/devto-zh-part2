@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/albinotonnina/youre-going-out-of-scope-again-j1g>
 
-[![](../Images/dbab4d4a81ca65a0fa64b1a3c35c0379.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_Pygx9Es--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2zg9a2zfnu4xxj7oufm5.jpg)
+[![](img/dbab4d4a81ca65a0fa64b1a3c35c0379.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_Pygx9Es--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2zg9a2zfnu4xxj7oufm5.jpg)
 
 你好，
 我是一名前端开发人员，我在一家 Saas 公司工作。

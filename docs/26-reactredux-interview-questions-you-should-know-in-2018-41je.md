@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/fullstackcafe/26-reactredux-interview-questions-you-should-know-in-2018-41je>
 
-[![26 React Interview Questions and Answers in 2018](../Images/66633faaf7f4b8d5a15ee436fab78ceb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jeJKHYnJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/3702/graffiti-door-closed-greece.jpg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D350) 
+[![26 React Interview Questions and Answers in 2018](img/66633faaf7f4b8d5a15ee436fab78ceb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jeJKHYnJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/3702/graffiti-door-closed-greece.jpg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D350) 
 “首席 JavaScript 开发者(React JS)——13 万澳元/年”。这是澳大利亚悉尼一位经验丰富的全栈 React Dev 的典型职位空缺描述。来吧，跟随 [FullStack 最常见的 React 和 Redux 面试问题和答案。咖啡馆](https://www.fullstack.cafe)让你在下一次面试中脱颖而出。
 
 > 🔴最初发表于 [FullStack。咖啡馆-杀死你的技术&编码面试](https://www.fullstack.cafe/?utm_source=dev&utm_medium=blog)
@@ -39,7 +39,7 @@ Redux 是一个基于 Flux 设计模式的 JavaScript 应用程序的可预测�
 
 **Flux** 是一种应用程序设计范例，用于替代更传统的 mvc 模式。它不是一个框架或库，而是一种新的体系结构，补充了 React 和单向数据流的概念。脸书在使用 React 时，在内部使用了这种模式。在 dispatcher、stores 和 views 组件之间的工作流具有不同的输入和输出，如下所示:
 
-[![](../Images/9e4c46bb167d191286a351bb167aedf1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7e-0f9Fb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/sudheerj/reactjs-interview-questions/raw/master/images/flux.png)
+[![](img/9e4c46bb167d191286a351bb167aedf1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7e-0f9Fb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/sudheerj/reactjs-interview-questions/raw/mastimg/flux.png)
 
 🔗**来源:**【github.com/sudheerj】T2
 
@@ -330,7 +330,7 @@ React 组件生命周期有四个不同的阶段:
 3.  **更新:**在这个阶段，组件以两种方式更新，发送新的道具和更新状态。这个阶段涵盖了**shouldcomponentdupdate、componentWillUpdate 和 componentDidUpdate** 生命周期方法。
 4.  **卸载:**在最后一个阶段，组件不再需要，并从浏览器 DOM 中卸载。这个阶段包括**组件将卸载**生命周期方法。
 
-[![](../Images/2664936c99962d32f92e5959c2c396df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JddQdxAF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/sudheerj/reactjs-interview-questions/raw/master/images/phases.png)
+[![](img/2664936c99962d32f92e5959c2c396df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JddQdxAF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/sudheerj/reactjs-interview-questions/raw/mastimg/phases.png)
 
 🔗**来源:**【github.com/sudheerj】T2
 

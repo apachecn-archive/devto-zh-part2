@@ -12,7 +12,7 @@
 
 ### 1。时间跟踪赚取
 
-[![Time tracking earns](../Images/5fe75488b1b62882eb6871927def1776.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zZ5OIGpQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/3vcaj7203pfzricwy0yf.png)
+[![Time tracking earns](img/5fe75488b1b62882eb6871927def1776.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zZ5OIGpQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/3vcaj7203pfzricwy0yf.png)
 
 你知道你完成 X 任务需要多少分钟吗？你的工作时间有多少真正投入到了开发工作中？80%?70?比你想象的要少得多，如果你现在没有记录时间的话。你的团队呢？他们每个工作日编码多少小时？
 
@@ -36,7 +36,7 @@
 
 ### 3。结对编程
 
-[![Pair Programming](../Images/273ea9282cf51290c45bd90349fb67aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xcKlWpQy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/b7egiz77rayo2l7npkez.png)
+[![Pair Programming](img/273ea9282cf51290c45bd90349fb67aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xcKlWpQy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/b7egiz77rayo2l7npkez.png)
 
 最近一直在享受这个习惯的成果。你可能会说:“*如果两个人一起完成一项任务，如何节省时间？*“我之前也有一模一样的问题。
 
@@ -54,7 +54,7 @@
 
 ### 5。分步解决
 
-[![Divide and conquer](../Images/277cc953750e733ea4f00048ee82f887.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8Mk6VItV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/iw8qe445iyzt6ctaxt2z.png)
+[![Divide and conquer](img/277cc953750e733ea4f00048ee82f887.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8Mk6VItV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/iw8qe445iyzt6ctaxt2z.png)
 
 就像我们吃东西一样，我们的工作任务也需要逐步完成。每当你要开始一项任务时，第一步就是把它分解成更小的逻辑块，然后一个接一个地执行。你可以用上面讨论的方法给每项任务分配一个特定的时间。
 
@@ -64,7 +64,7 @@
 
 ### 6。休息一下，伙计！
 
-[![Take a Break, buddy](../Images/8e86600e633c35ac44d9159ed55ef295.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w2A5ALc5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/04s7c7j9iwwnisjjkzl1.png)
+[![Take a Break, buddy](img/8e86600e633c35ac44d9159ed55ef295.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w2A5ALc5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/04s7c7j9iwwnisjjkzl1.png)
 
 既然我们已经在头脑中装载了大量的信息，处理了如此多的想法，那么让我们来谈谈休息。“上班族”需要定期站起来，以防腰酸背痛。
 

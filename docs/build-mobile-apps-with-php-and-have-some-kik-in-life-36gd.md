@@ -64,7 +64,7 @@ KIK framework 提供了创建原生移动应用程序所需的一切——全部
 
 您可以在命令行工具和基于 Eclipse 的插件之间进行选择，发布应用程序从未如此简单。
 
-[![KikApp Development Environment](../Images/60758337add6f338d66dfc2609915778.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vxmWLXys--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tekraze.com/wp-content/uploads/2018/08/kikapp_development_environm-768x478.png)
+[![KikApp Development Environment](img/60758337add6f338d66dfc2609915778.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vxmWLXys--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tekraze.com/wp-content/uploads/2018/08/kikapp_development_environm-768x478.png)
 
 #### 基于 Eclipse 的插件
 

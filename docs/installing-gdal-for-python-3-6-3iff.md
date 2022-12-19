@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jlengrand/installing-gdal-for-python-3-6-3iff>
 
-[![Installing gdal for Python 3.6](../Images/b843bf4f34798959b72f2edc8ce62923.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aa0rAAfp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1555949963-aa79dcee981c%3Fixlib%3Drb-1.2.1%26q%3D80%26fm%3Djpg%26crop%3Dentropy%26cs%3Dtinysrgb%26w%3D1080%26fit%3Dmax%26ixid%3DeyJhcHBfaWQiOjExNzczfQ)
+[![Installing gdal for Python 3.6](img/b843bf4f34798959b72f2edc8ce62923.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aa0rAAfp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1555949963-aa79dcee981c%3Fixlib%3Drb-1.2.1%26q%3D80%26fm%3Djpg%26crop%3Dentropy%26cs%3Dtinysrgb%26w%3D1080%26fit%3Dmax%26ixid%3DeyJhcHBfaWQiOjExNzczfQ)
 
 Heyo,
 

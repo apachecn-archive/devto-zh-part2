@@ -17,7 +17,7 @@
 
 在上一篇文章中，我们看了如何重构我们的文档，使用消息传递来交流变化。然而，我们仍然遗漏了一些东西——调度员:
 
-[![](../Images/b91938a1b90843fe9315460df61b2efa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uPSqc1jt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jimmybogardsblog.blob.core.windows.net/jimmybogardsblog/7/2018/Picture0050.png)
+[![](img/b91938a1b90843fe9315460df61b2efa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uPSqc1jt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jimmybogardsblog.blob.core.windows.net/jimmybogardsblog/7/2018/Picture0050.png)
 
 我们的 dispatcher 是促进文档通信的主要组件。对于给定的文档，它需要:
 

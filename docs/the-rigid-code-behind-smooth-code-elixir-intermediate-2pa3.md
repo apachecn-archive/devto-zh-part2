@@ -4,7 +4,7 @@
 
 你看到的更简化。
 
-[![Photo by [Jamie Street](https://unsplash.com/photos/d299Wu2xipY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](../Images/08a0c7c8a3450b9c168a8b6d153964c8.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--x08ejX1z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/6158/1%2AwvfO4tFXIbDev34wNMu4yw.jpeg) *照片由[杰米街](https://unsplash.com/photos/d299Wu2xipY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)上 [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)* 
+[![Photo by [Jamie Street](https://unsplash.com/photos/d299Wu2xipY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](img/08a0c7c8a3450b9c168a8b6d153964c8.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--x08ejX1z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/6158/1%2AwvfO4tFXIbDev34wNMu4yw.jpeg) *照片由[杰米街](https://unsplash.com/photos/d299Wu2xipY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)上 [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)* 
 
 本文向您展示了您在 elixir 中编写的流畅代码行背后的僵硬代码行。
 
@@ -18,25 +18,25 @@ if 1+2==3, do: :this, else: :that
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/152298a978445792b9b76fe8701a19eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rs1yl9RT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2048/1%2ANPv3-LyItatGwa0DYAkjCw.png)
+[![](img/152298a978445792b9b76fe8701a19eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rs1yl9RT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2048/1%2ANPv3-LyItatGwa0DYAkjCw.png)
 
 在这里，我不会问你这会导致什么。但是，我问你这最终会如何改变。
 
 让我们观察一下这些变化。
 
-[![](../Images/24b7746916b3786c3565e4a5a7f7aba1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nBpkpA3E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2048/1%2Audm4XJbvIBVtuyZ_goqkJQ.png)
+[![](img/24b7746916b3786c3565e4a5a7f7aba1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nBpkpA3E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2048/1%2Audm4XJbvIBVtuyZ_goqkJQ.png)
 
 正如我们所知，elixir 允许函数调用而不需要`()`。这就是函数调用简单的原因。但是，我推荐使用`()`，它更容易理解正在发生的事情。
 
-[![](../Images/580f73c8206ef67d28ff85004dd4ced4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LxptFBDN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2048/1%2AZcAq70QUQg2wpF5hMDIYwg.png)
+[![](img/580f73c8206ef67d28ff85004dd4ced4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LxptFBDN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2048/1%2AZcAq70QUQg2wpF5hMDIYwg.png)
 
 如果你观察上面的线，我们有几个`,`。
 
-[![](../Images/f2d5d90e955812ef6c191bf4d5eaa6b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k7TlcdPG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2048/1%2AlJdd24JXmmO3J-PcVGtt6A.png)
+[![](img/f2d5d90e955812ef6c191bf4d5eaa6b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k7TlcdPG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2048/1%2AlJdd24JXmmO3J-PcVGtt6A.png)
 
 如果采用三个参数`1+2==3`、`do: :this`和`else: :that`，这种情况更有可能发生，但实际上是采用**两个**。
 
-[![](../Images/be5b20e79102288fc08e86ba3c74dd33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4A9GmRpt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2048/1%2A_qQGBo3-Yigd6qUAzvrXHg.png)
+[![](img/be5b20e79102288fc08e86ba3c74dd33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4A9GmRpt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2048/1%2A_qQGBo3-Yigd6qUAzvrXHg.png)
 
 最后两个参数`do: :this`和`else: :that`合起来称为关键字列表。
 
@@ -95,13 +95,13 @@ if( 1+2==3, [do: :this, else: :that] )
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/67777a72736c6a33921b4286f7231830.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RIkwj63B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2048/1%2AVQ_qpOhvhl8g1-CLf2j9LA.png)
+[![](img/67777a72736c6a33921b4286f7231830.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RIkwj63B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2048/1%2AVQ_qpOhvhl8g1-CLf2j9LA.png)
 
 现在，观察第一个参数`1+2 == 3`，也就是`(1+2)==3`。
 
-[![](../Images/511d822fd7c46da73da42b77fabe168d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7F2CqWsq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2048/1%2AcHtg90yygSlTWu2K-ViEJg.png)
+[![](img/511d822fd7c46da73da42b77fabe168d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7F2CqWsq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2048/1%2AcHtg90yygSlTWu2K-ViEJg.png)
 
-[![](../Images/26ed6446d2600ddc8ecd0664d1f493d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QKpkGBxN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2048/1%2Auv13Xus0Lve8FN3l2O5biA.png)
+[![](img/26ed6446d2600ddc8ecd0664d1f493d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QKpkGBxN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2048/1%2Auv13Xus0Lve8FN3l2O5biA.png)
 
 这里，在解析`==`之前，我们必须添加`(1+2)`。
 
@@ -111,19 +111,19 @@ Enter fullscreen mode Exit fullscreen mode
 
 所以，传统的表示语法(`1+2)`是`+(1,2)`。
 
-[![](../Images/3319da357013719ffcf79fa1b9d89806.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2qcXpmp4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2048/1%2Aam6xvLObA6laoG5Wj377ug.png)
+[![](img/3319da357013719ffcf79fa1b9d89806.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2qcXpmp4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2048/1%2Aam6xvLObA6laoG5Wj377ug.png)
 
 类似地，我们将另一个中缀操作符`==`分解为`==(+(1,2), 3)`，就像我们对`+`所做的一样，这里没什么特别的。
 
 到目前为止，我们已经分解了`+(1,2)==3`到`==(+(1,2), 3)`。
 
-[![](../Images/cceb40de22e320c48bad5a38fcb74406.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D4n80PhI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2048/1%2AcgOT6wr3V7HB-nauJOo91Q.png)
+[![](img/cceb40de22e320c48bad5a38fcb74406.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D4n80PhI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2048/1%2AcgOT6wr3V7HB-nauJOo91Q.png)
 
 这里，我们不能在没有模块名的情况下使用中缀运算符。所有的操作符都在内核模块中定义。这是 elixir 中的默认模块。
 
 因此，我们再次将`==(+(1,2), 3)`分解为`Kernel.==(Kernel.+(1,2), 3)`
 
-[![](../Images/246379dc3c8a969bd672493fdecc2486.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RQ0yEncL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2048/1%2AzzwpKayodY1FT-sBSYzisg.png)
+[![](img/246379dc3c8a969bd672493fdecc2486.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RQ0yEncL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2048/1%2AzzwpKayodY1FT-sBSYzisg.png)
 
 现在，该行被转换为如下
 
@@ -143,9 +143,9 @@ Kernel.if( Kernel.==(Kernel.+(1,2), 3), [do: :this, else: :that ] )
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/1db90e620a9b94176039080d98bce7f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iX0lemux--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2048/1%2A1ywFojdPwfzs99ryu7F5gA.png)
+[![](img/1db90e620a9b94176039080d98bce7f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iX0lemux--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2048/1%2A1ywFojdPwfzs99ryu7F5gA.png)
 
-[![live execution in iex](../Images/9c8e8aed5f60fd9ae35a87768eaddb95.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--YbQsgXh0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3824/1%2AxaDH1bDxvhAVjBwZsMwcZw.png) *在 iex* 现场执行
+[![live execution in iex](img/9c8e8aed5f60fd9ae35a87768eaddb95.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--YbQsgXh0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3824/1%2AxaDH1bDxvhAVjBwZsMwcZw.png) *在 iex* 现场执行
 
 最棒的是，elixir 编译器会处理所有这些转换。
 

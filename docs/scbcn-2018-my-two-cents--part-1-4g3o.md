@@ -196,7 +196,7 @@ github 工程博客上有一篇[文章](https://githubengineering.com/move-fast/
 
 第一天的部分时间用于开放空间。任何对特定话题感兴趣的人都可以提出一个非正式的演讲。观众提出了非常有趣的话题，如生产部署、事件风暴、多样性、与分支/主干基础开发合作的经验…
 
-[![](../Images/e3c421fe37be9b90cda8a82a1b207429.png)T2】](https://apiumhub.com/wp-content/uploads/2018/10/openspaces.jpg)
+[![](img/e3c421fe37be9b90cda8a82a1b207429.png)T2】](https://apiumhub.com/wp-content/uploads/2018/10/openspaces.jpg)
 
 ## 结论:Scbcn 2018
 

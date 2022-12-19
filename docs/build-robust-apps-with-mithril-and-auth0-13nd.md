@@ -8,4 +8,4 @@ Mithril 是一个用于构建单页面应用程序的小型快速 JavaScript 框
 
 [读下去💻](https://auth0.com/blog/build-robust-apps-with-mithril-and-auth0/?utm_source=dev&utm_medium=sc&utm_campaign=mithriljs)
 
-[![Build Robust Apps with Mithril and Auth0](../Images/cab08b92f8144e1c012cef3738dbf289.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tsc1CqFm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7w9ktvtytr0teydikccu.png)
+[![Build Robust Apps with Mithril and Auth0](img/cab08b92f8144e1c012cef3738dbf289.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tsc1CqFm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7w9ktvtytr0teydikccu.png)

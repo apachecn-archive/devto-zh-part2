@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/stefvardalos/macbook--dev-setup-351j>
 
-[![MacBook Readt](../Images/8a961170d1fd838f43e6da144200d228.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kQrWknxd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jxko7f76d34zh2ek29sx.jpg)
+[![MacBook Readt](img/8a961170d1fd838f43e6da144200d228.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kQrWknxd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jxko7f76d34zh2ek29sx.jpg)
 
 多年来，我一直主要使用 linux，但我刚刚获得了一台新的 Macbook Pro (2018)。我以前对 macOS 有过一定的经验，但是我从来没有把这些机器作为我的主要装备。在我最初对它的屏幕感到“惊叹”和对它的(缺少)端口感到“不可思议”之后，我开始迁移我的环境，并寻找我必须安装的任何东西，以使这个庞然大物成为我自己的。下面是这个过程的逐步指南，它涵盖了我作为 Java / Javascript 开发人员的几乎所有需求，尽管大多数部分对大多数人来说也是有价值的。
 
@@ -156,6 +156,6 @@ brew cask install \
 
 * * *
 
-[![MacBook Readt](../Images/c92e2856697e1358f8b884eb3dff7aba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0BiyqzG4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wfaaze654a3vneu2wcvx.jpg)
+[![MacBook Readt](img/c92e2856697e1358f8b884eb3dff7aba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0BiyqzG4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wfaaze654a3vneu2wcvx.jpg)
 
 所有这些安装完成后，我觉得我的新的 powerfull MacBook 已经准备好取代旧的 Dell 作为我的日常驱动程序了。其中许多不适用于任何人，但在 brew /木桶安装之后，设置新机器并立即投入使用应该是轻而易举的事情。

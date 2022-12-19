@@ -6,7 +6,7 @@
 
 当我们使用 React Native + React 导航创建应用程序时，我们通常希望在导航标题中放置类似“保存”的按钮。
 
-[![image.png](../Images/a43f10a96e72cd1d6b605cc3744180bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--resla3Rp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/103885/09a71c59-9726-cf05-1491-d62f9e4da27a.png)
+[![image.png](img/a43f10a96e72cd1d6b605cc3744180bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--resla3Rp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/103885/09a71c59-9726-cf05-1491-d62f9e4da27a.png)
 
 在这种情况下，我们可能希望在屏幕组件中处理 press 事件，而不是在导航操作中。这是因为 React 导航应该专注于处理导航，所以屏幕上的事件和逻辑应该由屏幕组件来处理。
 

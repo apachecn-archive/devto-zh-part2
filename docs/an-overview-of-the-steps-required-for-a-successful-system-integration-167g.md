@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/gray25/an-overview-of-the-steps-required-for-a-successful-system-integration-167g>
 
-[![Integrating systems puzzle image](../Images/77e38c1e2c5579d88db52b2be103e41f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tAOGOa94--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lc91gzwhuq7bwsjzqy7j.jpg)
+[![Integrating systems puzzle image](img/77e38c1e2c5579d88db52b2be103e41f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tAOGOa94--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lc91gzwhuq7bwsjzqy7j.jpg)
 
 系统集成是一个越来越多地被利用的过程，公司正在认识到其业务的价值。这个过程包括把不同的系统作为一个整体一起工作。
 

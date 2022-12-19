@@ -12,7 +12,7 @@
 
 但我也作为一名贡献者回馈了开源社区，以下是我的最终统计数据:
 
-[![My Hacktoberfest stats](../Images/e59d63ac69b7259c82f8bbbafe3692bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8lJUHC42--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1peugyg2y8vjjfilkhyo.png)
+[![My Hacktoberfest stats](img/e59d63ac69b7259c82f8bbbafe3692bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8lJUHC42--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1peugyg2y8vjjfilkhyo.png)
 
 我一直在努力让 https://strikt.io/和 http://pebbletemplates.github.io/pebble/分别建立和部署他们的文档网站。这两个项目都非常棒，我已经用了很长时间了，你一定要去看看！
 

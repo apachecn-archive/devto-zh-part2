@@ -14,7 +14,7 @@
 
 克隆存储库，并在 Xcode 上按下运行按钮。
 
-[![error](../Images/b2587c7107b30a6f5d8b971ce1c1a2a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ETiqG4t3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/Dr1ZyfDVsAEhNaE.jpg)
+[![error](img/b2587c7107b30a6f5d8b971ce1c1a2a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ETiqG4t3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/Dr1ZyfDVsAEhNaE.jpg)
 
 行动。构建错误。我需要“推送通知”
 
@@ -29,6 +29,6 @@
 
 之后，“推送通知”错误消失了。
 
-[![iphone](../Images/79098dcf06534da1864b0cae40401dae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_jr3KxLe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/Dr1brISVsAALiQH.png)
+[![iphone](img/79098dcf06534da1864b0cae40401dae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_jr3KxLe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/Dr1brISVsAALiQH.png)
 
 我在 Mac 上的 iPhone 模拟器上运行它。

@@ -8,25 +8,25 @@ NSFAI 被设计成作为一种“事后想法”易于实现。让我告诉你�
 
 在 [Clarifai](https://clarifai.com) 创建并登录您的帐户后，将鼠标悬停在顶部栏中您的姓名上，然后点击应用程序。
 
-[![clarifai applications](../Images/98ca1937f4afb49217ef7d209f042421.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hQ61AYOW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bbyjins.skiilaa.me/img/nsfai/clarifai_applications.png)
+[![clarifai applications](img/98ca1937f4afb49217ef7d209f042421.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hQ61AYOW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bbyjins.skiilaa.me/img/nsfai/clarifai_applications.png)
 
 点击创建新的应用程序，给你的应用程序一个名字，并将基本工作流程设置为 NSFW(可选)。默认语言不重要。
 
-[![clarifai create app](../Images/bd1ee4b9a67ffc25e577b132fee41d2b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z3F9YTNi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bbyjins.skiilaa.me/img/nsfai/clarifai_create_app.png)
+[![clarifai create app](img/bd1ee4b9a67ffc25e577b132fee41d2b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z3F9YTNi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bbyjins.skiilaa.me/img/nsfai/clarifai_create_app.png)
 
 点击创建应用程序后，进入侧边栏的 API Keys 页面。
 
-[![clarifai api keys](../Images/104f71a736f1e874f25615269d402557.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zUU3mi51--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bbyjins.skiilaa.me/img/nsfai/clarifai_api_keys.png)
+[![clarifai api keys](img/104f71a736f1e874f25615269d402557.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zUU3mi51--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bbyjins.skiilaa.me/img/nsfai/clarifai_api_keys.png)
 
 您已经可以看到一个 API 密钥，并且您可以使用它，但是您应该创建一个具有有限权限的新 API 密钥，这样，如果您的密钥泄露了，您可以撤销它，这样可以减少损失。
 
 点击创建新的 API 密钥，并在应用程序下拉列表中选择您的应用程序。为您的密钥命名，并选择公共和自定义模型上的预测范围。这就是你所需要的。
 
-[![clarifai create api key](../Images/0c28b4db8df3bd0b93cb13edabd15ede.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---3NYPV4x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bbyjins.skiilaa.me/img/nsfai/clarifai_create_api_key.png)
+[![clarifai create api key](img/0c28b4db8df3bd0b93cb13edabd15ede.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---3NYPV4x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bbyjins.skiilaa.me/img/nsfai/clarifai_create_api_key.png)
 
 点击 Save Changes，复制你的新的和闪亮的 API 密匙。
 
-[![clarifai api keys new](../Images/d9e77bfa9845b53e17651af82f11a2ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VHvXyFg_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bbyjins.skiilaa.me/img/nsfai/clarifai_api_keys2.png)
+[![clarifai api keys new](img/d9e77bfa9845b53e17651af82f11a2ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VHvXyFg_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bbyjins.skiilaa.me/img/nsfai/clarifai_api_keys2.png)
 
 ## 步骤 2 -设置国家自然科学基金
 

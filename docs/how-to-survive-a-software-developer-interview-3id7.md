@@ -32,7 +32,7 @@
 
 ## 技术测试
 
-[![Technical Test](../Images/e7ecf52c7b1cac3943cf5d9137152d36.png)T2】](///static/9139e06b169481364570c3facd9edf80/4d836/technical-test.jpg)
+[![Technical Test](img/e7ecf52c7b1cac3943cf5d9137152d36.png)T2】](///static/9139e06b169481364570c3facd9edf80/4d836/technical-test.jpg)
 
 除了我申请研究生的时候，我申请的所有开发工作都要求我做技术测试。
 
@@ -101,7 +101,7 @@
 
 ## 成功面试的标志
 
-[![Job Offer](../Images/a97f5c7c26a7778d5388e50a7162654a.png)T2】](///static/686f354176bfcc821e2177fc9c69281f/4d836/job-offer.jpg)
+[![Job Offer](img/a97f5c7c26a7778d5388e50a7162654a.png)T2】](///static/686f354176bfcc821e2177fc9c69281f/4d836/job-offer.jpg)
 
 这可能不是每个人的情况，但我通常知道我什么时候会得到一份工作，这取决于我面试后的感觉。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/samerbuna/yes-react-is-taking-over-front-end-development-the-question-is-why-4mad>
 
-[![](../Images/8f0e296fa91c2646aeb166b3a1507a1b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E_Z73aId--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A3IUcek7o2S5aJnFAgtP5Gg.png)
+[![](img/8f0e296fa91c2646aeb166b3a1507a1b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E_Z73aId--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A3IUcek7o2S5aJnFAgtP5Gg.png)
 
 *本文的重点是 React 的受欢迎程度，而不是它与其他框架或库相比如何*
 
@@ -106,7 +106,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当我们现在刷新浏览器时，我们应该看到`React`和`ReactDOM`在全局范围内可用:
 
-[![](../Images/fd40ef8c5cc12b053ff4cbb6f286b3bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R-PNVJSE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Ag5-fvPYO0bTelGckK9RWzA.png)
+[![](img/fd40ef8c5cc12b053ff4cbb6f286b3bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R-PNVJSE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Ag5-fvPYO0bTelGckK9RWzA.png)
 
 通过这个简单的设置，我们现在可以访问`React`和`ReactDOM`API，当然，我们也可以访问我们首先要使用的本地 Web APIs 和 JavaScript。
 
@@ -218,7 +218,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/9afe97e372584a35009d1fec276d70e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nUK4xGiw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ATwcqWtECXp6OA0mowRcvEA.png)
+[![](img/9afe97e372584a35009d1fec276d70e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nUK4xGiw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ATwcqWtECXp6OA0mowRcvEA.png)
 
 我们现在有两个节点，一个由 DOM Web API 直接控制，另一个由 React API 控制(反过来使用 DOM Web API)。我们在浏览器中构建这两个节点的唯一主要区别是，在 JS 版本中，我们使用字符串来表示内容，而在 React 版本中，我们使用纯 JavaScript 调用，并用对象而不是字符串来表示内容。
 
@@ -286,7 +286,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 JS 和 React 版本仍然在浏览器中呈现完全相同的 HTML。
 
-[![](../Images/c136848bae46d5ad37147628222c0e0d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ai0o6ZK7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AfLaNHWXUJh4ICEvMXByvwg.png)
+[![](img/c136848bae46d5ad37147628222c0e0d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ai0o6ZK7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AfLaNHWXUJh4ICEvMXByvwg.png)
 
 如你所见，到目前为止，使用 React 实际上比简单熟悉的原生方式要难很多。React 做得如此之好，以至于值得放弃熟悉的 HTML，而不得不学习一种新的 API 来编写可以简单地用 HTML 编写的内容？答案不是关于呈现第一个 HTML 视图，而是关于我们需要做什么来更新 DOM 中的任何现有视图。
 
@@ -339,7 +339,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果您在 Chrome dev tools elements 面板中查看两个 DOM 节点，您可以看到我们可视化地更新 DOM 的不同方式。Chrome div 工具突出显示任何更新的 HTML 元素。您将看到我们如何在每一次点击时重新生成整个“js”div，而 React 只是智能地重新生成带有时间戳字符串的段落。
 
-[![](../Images/493e7e4d9b1f6d8241c4cf22e4886031.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JwzUxlT8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A9RGpVv6Mwjl6LApR7vsYqA.gif)
+[![](img/493e7e4d9b1f6d8241c4cf22e4886031.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JwzUxlT8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A9RGpVv6Mwjl6LApR7vsYqA.gif)
 
 React 有一个智能的*差分*算法，它使用该算法仅在其 DOM 节点中重新生成实际上*需要重新生成的*，同时保持其他所有内容不变。这个不同的过程是可能的，因为 React 的虚拟 DOM 和我们在内存中有一个用户界面的表示(因为我们用 JavaScript 编写)。
 

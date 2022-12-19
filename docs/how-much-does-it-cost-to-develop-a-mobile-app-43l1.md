@@ -6,7 +6,7 @@
 
 移动革命正在发生，不会让我们措手不及。企业正竭尽全力成为这一范式转变的一部分，这导致了对定制应用开发服务的需求增加。虽然现在还在用网站和桌面 app，但是移动 app 慢慢成为工程销售的主流手段。
 
-[![](../Images/a695e35113ad5d58bf1e11dae9c36b89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nHBqsh3x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/nxMsHd/How_Much_Does_it_Cost_to_Develop_a_Mobile_App.png)
+[![](img/a695e35113ad5d58bf1e11dae9c36b89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nHBqsh3x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/nxMsHd/How_Much_Does_it_Cost_to_Develop_a_Mobile_App.png)
 
 **移动应用开发的出现**
 从这个角度来看，仅在 2017 年就有大约 1970 亿次应用下载。当我们考虑移动电话的采用率和它们变得多么无处不在时，很难否定这个数字在未来几年必将成倍增长的预测。

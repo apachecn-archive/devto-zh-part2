@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/spboyer/why-should-we-care-about-containers-for-development-49dh>
 
-[![Why should we care about containers for development](../Images/036b2f45e9aab896df9f4db3bf4c2299.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JeNAgUsF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/content/images/2018/05/whycontainers.png)
+[![Why should we care about containers for development](img/036b2f45e9aab896df9f4db3bf4c2299.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JeNAgUsF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/conteimg/2018/05/whycontainers.png)
 
 在您的开发生涯中，可能不止一次，您花了几个小时对一个问题进行故障诊断，却发现这是一个依赖或版本问题，对吗？
 
@@ -168,4 +168,4 @@ Enter fullscreen mode Exit fullscreen mode
 *   [Visual Studio Docker 工具](https://docs.microsoft.com/aspnet/core/host-and-deploy/docker/visual-studio-tools-for-docker?view=aspnetcore-2.1&WT.mc_id=whycontainers-devto-shboyer)
 *   [Azure 容器实例](https://docs.microsoft.com/azure/container-instances/container-instances-overview?WT.mc_id=whycontainers-devto-shboyer)
 *   [Azure Kubernetes 服务(AKS)](https://docs.microsoft.com/azure/aks/intro-kubernetes?WT.mc_id=whycontainers-devto-shboyer)
-*   [Linux 上的 SQL Server](https://docs.microsoft.com/sql/linux/sql-server-linux-overview?view=sql-server-linux-2017&WT.mc_id=whycontainers-devto-shboyer)![](../Images/f1cbd94dc211b1092a3b73ec1a4be6a8.png)
+*   [Linux 上的 SQL Server](https://docs.microsoft.com/sql/linux/sql-server-linux-overview?view=sql-server-linux-2017&WT.mc_id=whycontainers-devto-shboyer)![](img/f1cbd94dc211b1092a3b73ec1a4be6a8.png)

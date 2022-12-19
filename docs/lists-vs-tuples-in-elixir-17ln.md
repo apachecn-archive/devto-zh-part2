@@ -31,7 +31,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 想象上面的列表(`[1, 2, true, 3]`)放在你电脑的内存里。它是任意分布的，没有特定的顺序，每个元素都包含对下一个元素的引用:
 
-[![](../Images/0b15f00a92fd390790615c95f993568d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yY9l9HT1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.appsignal.com/images/blog/2018-08/list.svg%3F)
+[![](img/0b15f00a92fd390790615c95f993568d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yY9l9HT1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.appsignal.cimg/blog/2018-08/list.svg%3F)
 
 为了到达第三个元素，系统需要知道列表从哪里开始(这几乎是它所知道的全部)，然后从那里开始遍历。这意味着要到达第 100 个元素，必须遍历之前的所有 99 个元素。
 
@@ -49,7 +49,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在内存中，这看起来与列表有很大不同:
 
-[![](../Images/f7c4f6b8cdfab2c383fb32fd9999f128.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IP2tV9Ze--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.appsignal.com/images/blog/2018-08/tuple.svg%3F)
+[![](img/f7c4f6b8cdfab2c383fb32fd9999f128.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IP2tV9Ze--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.appsignal.cimg/blog/2018-08/tuple.svg%3F)
 
 您可以看到内存使用的可预测性要高得多(实际上是 100%可预测的)。
 
@@ -115,7 +115,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 看看它在内存中的样子，我们会看到这样的内容:
 
-[![](../Images/2885e83c2752c6060fc7128f9f20d35f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--89tT6SeU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.appsignal.com/images/blog/2018-08/keyword.svg%3F)
+[![](img/2885e83c2752c6060fc7128f9f20d35f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--89tT6SeU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.appsignal.cimg/blog/2018-08/keyword.svg%3F)
 
 ## 可以添加到元组吗？
 

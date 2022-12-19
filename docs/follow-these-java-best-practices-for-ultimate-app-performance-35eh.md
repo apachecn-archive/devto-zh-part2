@@ -6,7 +6,7 @@ Java 是发展最快的编程语言。Java 从作为嵌入式设备的编程语�
 
 然而，即使我们拥有了好的，我们还是想要更好的。这就是人性。并且，[雇佣 java 开发人员](https://www.nexsoftsys.com/hire/java-developers.html)一直在探索如何在许多平台上利用 Java 来提高性能。随着物联网和数据分析以及机器学习的发展，将安全性和流程完美性视为最高目标变得越来越重要。
 
-[![Java application](../Images/4a2f25bb02551f53416cf8f7a5f09e6c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tXQUPlmB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6vhanz05e5jpk29ujse6.jpg)
+[![Java application](img/4a2f25bb02551f53416cf8f7a5f09e6c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tXQUPlmB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6vhanz05e5jpk29ujse6.jpg)
 
 以下是 Java 开发人员可以遵循的一些最佳实践，以提高他们的 Java 应用程序开发的整体性能
 

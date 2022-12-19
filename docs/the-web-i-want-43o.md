@@ -6,7 +6,7 @@
 
 ## web 怎么变成这样了？
 
-[![From this very website](../Images/cf241528d2e0e74484e2d2970ed33297.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YaL-WUiu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/en9Fc0c.png)
+[![From this very website](img/cf241528d2e0e74484e2d2970ed33297.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YaL-WUiu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/en9Fc0c.png)
 
 前几天，我的合作伙伴在她用了两年的 Chromebook 上浏览网页，它很难运行许多网站，因为它们加载了广告、gif、视频和大量的 JavaScript，完全没有任何价值。
 
@@ -14,7 +14,7 @@
 
 这听起来有点像第一世界的问题，但对发展中国家的人来说，情况要糟糕得多。你知道和我们大多数西方人相比，卫星网络有多糟糕吗？太可怕了。
 
-[![Mobile connection speeds](../Images/c626178e8d56ff7949c1486a8fa1d294.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MBi-C1uC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://wearesocial-net.s3.amazonaws.com/uk/wp-content/uploads/sites/2/2017/01/Slide091.png)
+[![Mobile connection speeds](img/c626178e8d56ff7949c1486a8fa1d294.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MBi-C1uC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://wearesocial-net.s3.amazonaws.com/uk/wp-content/uploads/sites/2/2017/01/Slide091.png)
 
 万维网被认为是一个平等的平台，可以把知识带到任何地方，然而开发者每天都在让那些最需要互联网的人变得更难工作。
 
@@ -62,9 +62,9 @@
 
 除非你知道 Vue/React/什么，否则你不是前端开发人员。如果你敢只写你网站所需的最低限度的 JavaScript 代码，你会被嘲笑
 
-> ![unknown tweet media content](../Images/04c5e2ef110e4d877c20c86ff9427fc4.png)![I Am Devloper profile image](../Images/6d70b9abbf0bf1c0637433b3c86d4250.png)我是 developer@ iamdevloper![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)“我不需要反应，或者有棱角，我可以在香草 JS 中建造我自己的就好了谢谢”
+> ![unknown tweet media content](img/04c5e2ef110e4d877c20c86ff9427fc4.png)![I Am Devloper profile image](img/6d70b9abbf0bf1c0637433b3c86d4250.png)我是 developer@ iamdevloper![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)“我不需要反应，或者有棱角，我可以在香草 JS 中建造我自己的就好了谢谢”
 > 
-> *2 周后*2016 年 3 月 10:03 日[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=704970333300740096)
+> *2 周后*2016 年 3 月 10:03 日[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=704970333300740096)
 
 页面刷新对用户来说是一个大问题，必须不惜一切代价避免。
 

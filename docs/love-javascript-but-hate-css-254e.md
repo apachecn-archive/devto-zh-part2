@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/dceddia/love-javascript-but-hate-css-254e>
 
-[![Love JS, Hate CSS](../Images/8c820bbeac9f233098e5f67730188cdc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jx-kpbA2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://daveceddia.com/images/love-js-hate-css.png)
+[![Love JS, Hate CSS](img/8c820bbeac9f233098e5f67730188cdc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jx-kpbA2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://daveceddia.cimg/love-js-hate-css.png)
 
 一位读者来信说，他在 JS 和 React 上玩得很开心，但当谈到造型时，他不知所措。
 
@@ -100,11 +100,11 @@ Enter fullscreen mode Exit fullscreen mode
 *   设置背景颜色
 *   然后[绘制猫头鹰的其余部分](http://knowyourmeme.com/memes/how-to-draw-an-owl)——添加框阴影，设置:hover/:active/:focus 状态等。
 
-[![Draw the rest of the owl](../Images/7407380e30da479956071e341a51b3bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OgOLMyt0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://daveceddia.com/images/draw-an-owl.jpg)
+[![Draw the rest of the owl](img/7407380e30da479956071e341a51b3bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OgOLMyt0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://daveceddia.cimg/draw-an-owl.jpg)
 
 在某些方面，像 [DRY(不要重复)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)和德米特的[法则这样的软件工程原则可以应用于页面上的样式元素。作为一个例子，考虑这样一种布局，用户的消息带有他们的头像:](https://en.wikipedia.org/wiki/Law_of_Demeter)
 
-[![Layout for a message with user avatar](../Images/8133f36e6ac987d9bdf2967f9239eb36.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r5lWduLM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://daveceddia.com/images/css-layout-dry-example.png)
+[![Layout for a message with user avatar](img/8133f36e6ac987d9bdf2967f9239eb36.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r5lWduLM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://daveceddia.cimg/css-layout-dry-example.png)
 
 请注意，所有东西都距离盒子的边缘 20 个像素。实现这一点的一种方法是将盒子中两个元素的`margin`设置为`20px`。
 

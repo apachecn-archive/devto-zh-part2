@@ -4,7 +4,7 @@
 
 移动应用行业的竞争正迅速变成 iOS 和 Android 之间的两匹马的竞赛。虽然这两个平台都有自己独特的优势和劣势，但如果你选择雇佣一名 iOS 应用程序开发人员来为全球受众创建一款 iOS 应用程序，你需要做好它，以便真正证明你对 iOS 的偏好优于 Android。
 
-[![](../Images/6f66050aede35329431c7c45e3d993d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FkSbPuUq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tgplg5q038o5equza7f6.jpg)
+[![](img/6f66050aede35329431c7c45e3d993d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FkSbPuUq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tgplg5q038o5equza7f6.jpg)
 
 Google Play 下载量同比增长 20%，超过 App Store 下载量 160%。然而，消费者在 App Store 应用上的支出率比 Google Play 应用高出 80%，同比增长 20%。此外，虽然 Google Play 下载率的增长主要是由 Android 在印度和印度尼西亚的强势主导地位推动的，但 iOS 在美国、英国、加拿大等西方国家占据了更大的市场份额。
 

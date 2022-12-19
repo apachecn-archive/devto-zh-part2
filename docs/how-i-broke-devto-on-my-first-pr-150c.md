@@ -6,11 +6,11 @@
 
 这时，我注意到整个网站上嵌入的每一个小故障都被破坏了
 
-[![🤦‍♂️](../Images/f0e2df31f9bca18476989534ea7cb8b8.png)T2】](https://i.giphy.com/media/3og0INyCmHlNylks9O/giphy.gif)
+[![🤦‍♂️](img/f0e2df31f9bca18476989534ea7cb8b8.png)T2】](https://i.giphy.com/media/3og0INyCmHlNylks9O/giphy.gif)
 
 感谢[@韵](https://dev.to/rhymes)，指出问题:
 
-[![rhymes profile image](../Images/557aa2636ae2993dfd13f29772ceb666.png) ](/rhymes) [ rhymes ](/rhymes) • [<time datetime="2018-09-17T14:52:32Z" class="date-short-year"> Sep 17 '18 </time>](https://dev.to/rhymes/comment/5hgh) 
+[![rhymes profile image](img/557aa2636ae2993dfd13f29772ceb666.png) ](/rhymes) [ rhymes ](/rhymes) • [<time datetime="2018-09-17T14:52:32Z" class="date-short-year"> Sep 17 '18 </time>](https://dev.to/rhymes/comment/5hgh) 
 
 我认为某处有一个错误，因为现在如果我试图嵌入这个:
 
@@ -18,7 +18,7 @@
 
 用`{% glitch familiar-violet %}`或`{% glitch familiar-violet app %}`我得到 404 页
 
-[![glitches](../Images/a4af3559a7807903097c3dc2a074bcc2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dez814qa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hw1n0m8k88wvrolldal5.png)
+[![glitches](img/a4af3559a7807903097c3dc2a074bcc2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dez814qa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hw1n0m8k88wvrolldal5.png)
 
 一个小故障:P
 

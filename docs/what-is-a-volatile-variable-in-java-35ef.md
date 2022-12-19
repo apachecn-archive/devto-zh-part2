@@ -8,7 +8,7 @@
 
 为了理解`volatile`的值，首先必须理解计算机的内存架构:
 
-[![](../Images/58b931474902d8924972d7dc254ee6bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LawCJKjx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rnowif.github.io/images/memory_architecture.png)
+[![](img/58b931474902d8924972d7dc254ee6bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LawCJKjx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rnowif.github.img/memory_architecture.png)
 
 每个 CPU 都包含自己的寄存器，这些寄存器基本上是 CPU 内存。在这里访问这些寄存器并对变量执行操作非常快。每个 CPU 也有缓存层。它可以快速访问该高速缓存，但不如寄存器快。最后是主存(也叫 RAM)。所有的 CPU 都可以访问这个内存。主存储器比 CPU 的高速缓冲存储器大得多。
 

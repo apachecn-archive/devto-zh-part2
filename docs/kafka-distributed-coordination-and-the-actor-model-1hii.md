@@ -22,7 +22,7 @@ KTables 建立在 Kafka 之上，除了 Kafka 已经提供的协调机制之外�
 
 在一张图中:
 
-[![kafka topic partitioning](../Images/b84ac17aa5659d58a3e0f3310e8ee244.png "Kafka partition distribution")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VUlE5oe4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://danlebrero.com/images/blog/kafka-actors/kafka-partitions.png)
+[![kafka topic partitioning](img/b84ac17aa5659d58a3e0f3310e8ee244.png "Kafka partition distribution")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VUlE5oe4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://danlebrero.cimg/blog/kafka-actors/kafka-partitions.png)
 
 在我们的例子中，如果给定客户的所有交易头寸都以客户 id 为关键字，那么所有消息都将在同一个分区中结束，这意味着它们都将被一个且只有一个服务实例使用，这就相当于说该实例拥有该特定客户或者是该特定客户的“领导者”。
 
@@ -32,7 +32,7 @@ KTables 建立在 Kafka 之上，除了 Kafka 已经提供的协调机制之外�
 
 这与 [Erlang actors](https://en.wikipedia.org/wiki/Actor_model) 或 [Clojure agents](https://clojure.org/reference/agents) 的并发写模型完全相同:
 
-[![kafka actor model](../Images/2968ad23a3960bea282dc9ad22da6df9.png "Actor model")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gzW-cTA0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://danlebrero.com/images/blog/kafka-actors/kafka-actor-model.png)
+[![kafka actor model](img/2968ad23a3960bea282dc9ad22da6df9.png "Actor model")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gzW-cTA0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://danlebrero.cimg/blog/kafka-actors/kafka-actor-model.png)
 
 基本上，一些状态由单个线程/进程更新，它从一个队列中读取动作(在 Erlang [中，它不是一个简单的队列](http://www.dalnefre.com/wp/2011/10/erlang-style-mailboxes/))。
 

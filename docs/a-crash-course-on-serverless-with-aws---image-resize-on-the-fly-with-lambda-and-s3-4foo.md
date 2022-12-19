@@ -4,7 +4,7 @@
 
 自从我开始写代码以来，处理大型图像一直是我的一大苦恼。最近，它开始对页面速度和 SEO 排名产生巨大影响。如果你的网站的图片优化的很差，它在谷歌灯塔上的得分不会很高。如果评分不好，就上不了谷歌首页。太糟糕了。
 
-[![meme about page 2 of google](../Images/1a156474f62c232290b4082394d986b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xtubDFiX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/image-resize-on-the-fly/googlepage2.gif)
+[![meme about page 2 of google](img/1a156474f62c232290b4082394d986b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xtubDFiX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/image-resize-on-the-fly/googlepage2.gif)
 
 ### TL；速度三角形定位法(dead reckoning)
 
@@ -20,7 +20,7 @@
 
 这种情况下，对于给定的一组尺寸，将只调整一次图像的大小。对该大小的图像的每个后续请求都将从桶中得到服务。很酷吧？这里有个图，因为谁不爱图。
 
-[![diagram](../Images/854ce2d7216644c15f1bd912aaab2d4a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6BbjSY4S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/adnanrahic/cdn/raw/master/image-resize-on-the-fly/diagram.png)
+[![diagram](img/854ce2d7216644c15f1bd912aaab2d4a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6BbjSY4S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/adnanrahic/cdn/raw/master/image-resize-on-the-fly/diagram.png)
 
 因为我已经假设你知道如何使用[无服务器框架](https://serverless.com/framework/)，并且已经被介绍了[无服务器](https://martinfowler.com/articles/serverless.html)、 [Docker](https://www.docker.com/) 和 [AWS](https://aws.amazon.com/) 的基础知识，我将立即进入事情的要点。这是我们将要做的事情的概述。
 
@@ -42,7 +42,7 @@
 
 解释这种复杂结构的最佳方式是用图像。
 
-[![folder structure](../Images/06754a64cfe1a8dab49b62dbfc21f5a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ma9AXRSK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/adnanrahic/cdn/raw/master/image-resize-on-the-fly/image-resize-on-the-fly-diagram.png)
+[![folder structure](img/06754a64cfe1a8dab49b62dbfc21f5a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ma9AXRSK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/adnanrahic/cdn/raw/master/image-resize-on-the-fly/image-resize-on-the-fly-diagram.png)
 
 绿色的文件夹和蓝色的文件。查看[回购](https://github.com/adnanrahic/serverless-docker-image-resize)了解更多信息。
 
@@ -480,15 +480,15 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们检查一下 [Dashbird](https://dashbird.io/features/) 中的日志，确保它在引擎盖下工作正常。
 
-[![Dashbird logs](../Images/aff8e9b110bc749a65fdcaf15253ecde.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UgU0Eh-A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/adnanrahic/cdn/raw/master/image-resize-on-the-fly/dashbird-invocation.gif)
+[![Dashbird logs](img/aff8e9b110bc749a65fdcaf15253ecde.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UgU0Eh-A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/adnanrahic/cdn/raw/master/image-resize-on-the-fly/dashbird-invocation.gif)
 
 看起来不错，但是当我第一次尝试设置这个功能时，我犯了一些初学者的错误。其中之一是忘记在使用模块之前需要它。幸运的是，我立即得到了一个警报，解释了什么是错的。松弛警报是救命稻草。
 
-[![slack alert](../Images/14b27efa8accf796667bf3ff16c6c6b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J0gY4BE2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/adnanrahic/cdn/raw/master/image-resize-on-the-fly/slack-alert.png)
+[![slack alert](img/14b27efa8accf796667bf3ff16c6c6b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J0gY4BE2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/adnanrahic/cdn/raw/master/image-resize-on-the-fly/slack-alert.png)
 
 我解决这个问题的方法是使用[实时跟踪](https://dashbird.io/docs/user-guide/debugging/#live-tailing)功能。它让我在几秒钟的延迟后检查调用日志，这样我就可以调试这个问题。相当酷。
 
-[![live tailing](../Images/b968a13e02012851973f0bddb5a12ef5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8bh79vxF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/adnanrahic/cdn/raw/master/image-resize-on-the-fly/dashbird-live-tailing.gif)
+[![live tailing](img/b968a13e02012851973f0bddb5a12ef5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8bh79vxF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/adnanrahic/cdn/raw/master/image-resize-on-the-fly/dashbird-live-tailing.gif)
 
 ## 包装完毕
 
@@ -504,7 +504,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 * * *
 
-[![This months sponsor is Zeet.](../Images/a4da9440f5519d3156594813d3a02017.png)T2】](https://bit.ly/adnan-zeet)
+[![This months sponsor is Zeet.](img/a4da9440f5519d3156594813d3a02017.png)T2】](https://bit.ly/adnan-zeet)
 
 免责声明: [Zeet](https://bit.ly/adnan-zeet) 将在下个月赞助这篇博客。前几天我试过了。这就像无服务器，但运行整个后端。你可以自动托管和扩展应用。相当整洁。
 

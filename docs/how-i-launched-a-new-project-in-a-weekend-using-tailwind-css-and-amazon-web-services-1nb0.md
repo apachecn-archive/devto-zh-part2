@@ -69,7 +69,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 是的，是的，会的。我不用写一个**单个** CSS 规则。
 
-[![Whaaaaat](../Images/512b4711d4925612df336890e8468eda.png)T2】](https://i.giphy.com/media/qdDO6hTcyeDks/giphy.gif)
+[![Whaaaaat](img/512b4711d4925612df336890e8468eda.png)T2】](https://i.giphy.com/media/qdDO6hTcyeDks/giphy.gif)
 
 Tailwind 提供的所有东西足以让我快速创建我的登陆页面。我不需要造型。这正是我所需要的，因为:
 

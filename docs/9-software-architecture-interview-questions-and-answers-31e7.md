@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/aershov24/9-software-architecture-interview-questions-and-answers-31e7>
 
-[![9 Tricky Software Architecture Interview Questions and Answers](../Images/69b412beabf4781e1ec75d1d0cb95632.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jgHkBlzM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/443383/pexels-photo-443383.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D350) 
+[![9 Tricky Software Architecture Interview Questions and Answers](img/69b412beabf4781e1ec75d1d0cb95632.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jgHkBlzM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/443383/pexels-photo-443383.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D350) 
 软件架构师是一个软件专家，他做出高层次的设计选择并规定技术标准，包括软件编码标准、工具和平台。软件架构指的是软件系统的高层结构，创建这种结构的规程，以及这些结构的文档。
 
 > 最初发表于 [FullStack。永远不要再错过你的技术面试](https://www.fullstack.cafe)

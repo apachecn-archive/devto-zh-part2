@@ -116,7 +116,7 @@
 
 为了练习提取主要目标，让我们看看一个网站，如 GitHub。对我来说，GitHub 是一个让我发布代码并与其他开发者分享的平台。
 
-[![GitHub home page](../Images/72d083e1f1e8eb7d98a6e2871848e00b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dOwHjM7l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ltrko94ikb4s6jxm5a8l.jpg)
+[![GitHub home page](img/72d083e1f1e8eb7d98a6e2871848e00b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dOwHjM7l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ltrko94ikb4s6jxm5a8l.jpg)
 
 “为开发者而建”是当人们第一次看到他们的网站时，GitHub 试图告诉他们的。他们的主要目标是下面的那句话，这句话很好地总结了事情。
 
@@ -135,7 +135,7 @@
 
 从这里开始，我们将缓慢但肯定地把目标分解成功能和可行的步骤。这些步骤将是你可以开始编码的集中的想法。
 
-[![Breaking down goals into steps](../Images/e2716c3b055ec02c359570a9a54b3b7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--muLfK7d1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v761k7mejdn9cnfiydcd.jpg)
+[![Breaking down goals into steps](img/e2716c3b055ec02c359570a9a54b3b7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--muLfK7d1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v761k7mejdn9cnfiydcd.jpg)
 
 当我们自上而下地工作时，最广泛的目标和特性最终会变成定义明确且易于推理的小步骤。
 
@@ -213,7 +213,7 @@
 
 然后，用户可以下注这些硬币，同时试图猜测掷骰子的结果，如果他们赢了，他们将根据赔率获得更多的硬币。
 
-[![Snake Eyes Build a SAAS App with Flask game](../Images/8f975433b7067a64452f2a6c719360a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DPR9yO4D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/84vh500qhaeik7etp77p.jpg)
+[![Snake Eyes Build a SAAS App with Flask game](img/8f975433b7067a64452f2a6c719360a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DPR9yO4D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/84vh500qhaeik7etp77p.jpg)
 
 我设想在按下 bet 按钮后，掷骰子将发生在服务器端，然后客户端将使用 ajax 请求部分更新页面。这很好地演示了部分页面重载。
 
@@ -322,7 +322,7 @@
 
 一张图片最好地描述了这一点，请看:
 
-[![Account system mindmap](../Images/b42fc8d7104e01937bf24f1c8b548f85.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mRqKrXcT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/owaxth1c7mkgh62h9b42.jpg)
+[![Account system mindmap](img/b42fc8d7104e01937bf24f1c8b548f85.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mRqKrXcT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/owaxth1c7mkgh62h9b42.jpg)
 
 #### 为您的数据建模
 

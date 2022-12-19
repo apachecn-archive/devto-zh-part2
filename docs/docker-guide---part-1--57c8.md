@@ -113,7 +113,7 @@
 我们来看一个虚拟机技术的概念图。
 
 **虚拟机图**
-[![docker-guide-vm](../Images/08d42b21555183d782df6e58821c7ef1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jn9bOukY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/36017635-3e3e2324-0d81-11e8-8e24-c533b913c4e8.png)
+[![docker-guide-vm](img/08d42b21555183d782df6e58821c7ef1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jn9bOukY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/36017635-3e3e2324-0d81-11e8-8e24-c533b913c4e8.png)
 
 从上图中可以看出，我们有 3 个物理机“切片”,每个切片都是一个虚拟机。重要的一点是，虚拟机需要自己的客户操作系统。在该图中，我还展示了一个 *[“第二类托管的管理程序”](https://en.wikipedia.org/wiki/Hypervisor)* 。这意味着虚拟机管理程序运行在传统的操作系统上。另一种虚拟机管理程序是*[【1 型裸机虚拟机管理程序】](https://en.wikipedia.org/wiki/Hypervisor)* 。这些虚拟机管理程序直接在主机硬件上运行，不需要主机操作系统。
 
@@ -135,7 +135,7 @@
 正是“沙箱”中独立进程的概念催生了容器技术。我一直在讨论的“沙盒”就是我们所知道的容器。容器是虚拟化操作系统的独立进程。使这成为可能的机制被称为*“名称空间”*和*“控制组(cgroups)”*。
 
 **集装箱概述**
-[![docker-guide-container-overview](../Images/87299c8e648ddc366c769b63235665bd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jGHEa_Ei--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/36032845-f16234dc-0db7-11e8-9f91-d0ffc3746e74.png)
+[![docker-guide-container-overview](img/87299c8e648ddc366c769b63235665bd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jGHEa_Ei--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/36032845-f16234dc-0db7-11e8-9f91-d0ffc3746e74.png)
 
 从上图可以看出，我们最初是从 Linux 操作系统开始的。我使用 Linux 是因为容器技术的起源都发生在 Linux 操作系统上。每个过程没有(或很少)隔离。通过使用*命名空间*和*控制组*，我们现在能够将每个进程作为一个独立的进程在它自己的容器中运行。
 
@@ -167,7 +167,7 @@
 容器不是小型虚拟机，也不像虚拟机。这一点从我上面的讨论中应该很清楚了。然而，为了帮助进一步阐明容器的含义，我提供了虚拟机和容器之间的进一步比较，如下所示。
 
 **虚拟机/容器比较**
-[![docker-guide-vm-vs-container](../Images/e17f8c77040665004a6adc957e64fca1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yiYvgX5_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/36058292-e9406996-0e24-11e8-9b95-1c4236e77093.png)
+[![docker-guide-vm-vs-container](img/e17f8c77040665004a6adc957e64fca1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yiYvgX5_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/36058292-e9406996-0e24-11e8-9b95-1c4236e77093.png)
 
 根据上图，虚拟机和容器之间的差异可以总结如下:
 
@@ -191,7 +191,7 @@ Docker 并不是唯一一个提供 Docker 注册表的平台。微软 Azure、�
 
 存储库是在 Docker 注册表中可以找到特定图像的实际位置。下图进一步阐明了这一点。
 
-[![docker-repository](../Images/69f3dceeeff4e45dd06717ef75f7a94c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ApYSdtH3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/36072808-259a842a-0f2f-11e8-8b3f-ac1790d8c39e.png)
+[![docker-repository](img/69f3dceeeff4e45dd06717ef75f7a94c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ApYSdtH3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/36072808-259a842a-0f2f-11e8-8b3f-ac1790d8c39e.png)
 
 * * *
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/implicit-state-sharing-react-s-context-api-provide-inject-in-vue-30m6>
 
-[![](../Images/09b63524a08394dc4c8926daa3e80cf0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0KrtjxKI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A0WqXbHxXGkzhmiv0wkYWFA.jpeg)
+[![](img/09b63524a08394dc4c8926daa3e80cf0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0KrtjxKI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A0WqXbHxXGkzhmiv0wkYWFA.jpeg)
 
 假设您正在创建一个 accordion 组件，并希望通过 npm 包公开发布。您希望这个 accordion 的用户能够通过将多个组件组合在一起，以非常灵活的方式使用组件。
 
@@ -212,7 +212,7 @@ React 的上下文 API 和 Vue 的提供/注入特性都使得通过隐式状态
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

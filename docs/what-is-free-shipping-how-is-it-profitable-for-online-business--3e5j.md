@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/darshit_parmar/what-is-free-shipping-how-is-it-profitable-for-online-business--3e5j>
 
-[![](../Images/685bda59490e471364d5006a01000db3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---Wpmo184--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qh1nlwakupp933y5ot2b.png)
+[![](img/685bda59490e471364d5006a01000db3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---Wpmo184--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qh1nlwakupp933y5ot2b.png)
 
 虽然许多人声称免费赠品会像 90 年代末一样打破电子商务泡沫，但像亚马逊这样的电子商务巨头声称免费服务只是诱饵。它说“你必须运用某些策略，通过这些策略你可以切蛋糕并拥有它。如果你不知道如何补偿损失，你就不是一个商人。”
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/slyfirefox/laravel-innovations-making-your-own-webhook-mechanism-through-notifications-40e2>
 
-<figure>[![](../Images/f32a5b090c16fe01c2c21c8f6ee6af96.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2sGlj1ZL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AHENwWLb9y57Uuh4v.)</figure>
+<figure>[![](img/f32a5b090c16fe01c2c21c8f6ee6af96.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2sGlj1ZL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AHENwWLb9y57Uuh4v.)</figure>
 
 当我们集成第三方服务时，我们经常需要实现 webhooks。Webhooks 是一个 web 应用程序通过 HTTP 请求向其他 web 应用程序发送数据或事件的地方。例如，大多数电子邮件服务，如 mailgun 和 spark post，在发送应用程序电子邮件时，会发送与硬退信或垃圾邮件通知相关的消息。
 

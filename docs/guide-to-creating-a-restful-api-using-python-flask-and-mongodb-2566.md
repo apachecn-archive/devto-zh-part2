@@ -77,7 +77,7 @@ def create_user():
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![create_user.png](../Images/8d05488a8aab44f4d2f56f4d3f99f7e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uyy9o0XN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.moesif.com/blog/images/posts/technical/restful/create_user.png)
+[![create_user.png](img/8d05488a8aab44f4d2f56f4d3f99f7e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uyy9o0XN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.moesif.com/blimg/posts/technical/restful/create_user.png)
 
 如果这是一个接受用户数组的批处理端点，我们可以返回创建的用户数。另一方面，单个用户可以返回实体 id，这样前端就可以引用新创建的项目。
 
@@ -121,7 +121,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果找到匹配的文档，我们将返回用户的详细信息，否则我们将返回一个空数组。
 
-[![fetch_user.png](../Images/af08c61d88debf3c15df453f2c0673ca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TCkT_WmT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.moesif.com/blog/images/posts/technical/restful/fetch_user.png)
+[![fetch_user.png](img/af08c61d88debf3c15df453f2c0673ca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TCkT_WmT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.moesif.com/blimg/posts/technical/restful/fetch_user.png)
 
 ## 更新用户
 
@@ -150,7 +150,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 更新请求:
 
-[![update_user.png](../Images/09f21f76fb933a039498b23e1f76dd2b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A2O_oDmd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.moesif.com/blog/images/posts/technical/restful/update_user.png)
+[![update_user.png](img/09f21f76fb933a039498b23e1f76dd2b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A2O_oDmd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.moesif.com/blimg/posts/technical/restful/update_user.png)
 
 ## 删除用户
 
@@ -187,7 +187,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们将在请求体中指定删除文档的匹配条件。例如，我们想删除带有`id`的文档为`3`
 
-[![remove_user.png](../Images/bfca8ca342674fa04a1337b179b8f91a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U9DtHN4_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.moesif.com/blog/images/posts/technical/restful/remove_user.png)
+[![remove_user.png](img/bfca8ca342674fa04a1337b179b8f91a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U9DtHN4_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.moesif.com/blimg/posts/technical/restful/remove_user.png)
 
 一旦用户被删除，我们将把被删除用户的数量信息返回给客户端。
 
@@ -220,7 +220,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果您想研究数据，您也可以使用 Robo 3T mongo shell。
 
-[![mongo_shell.png](../Images/8f886276b38bb7e45be8a12a672835ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DsjWemmv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.moesif.com/blog/images/posts/technical/restful/mongo_shell.png)
+[![mongo_shell.png](img/8f886276b38bb7e45be8a12a672835ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DsjWemmv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.moesif.com/blimg/posts/technical/restful/mongo_shell.png)
 
 要查看 RESTful API 的运行情况，您可以从 [GitHub](https://github.com/Moesif/moesif-flask-mongo-example) 中克隆并运行这个示例应用程序
 

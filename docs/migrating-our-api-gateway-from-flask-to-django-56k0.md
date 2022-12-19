@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/gadventurestech/migrating-our-api-gateway-from-flask-to-django-56k0>
 
-<figure>[![](../Images/45f98d92d505bb1606698cee3fb40bb4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Zh9sBxtO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AT-NaIlxpxpB0uvmZ.)
+<figure>[![](img/45f98d92d505bb1606698cee3fb40bb4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Zh9sBxtO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AT-NaIlxpxpB0uvmZ.)
 
 <figcaption>[菠萝供应公司](https://unsplash.com/@pineapple?utm_source=medium&utm_medium=referral)于 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)</figcaption>
 

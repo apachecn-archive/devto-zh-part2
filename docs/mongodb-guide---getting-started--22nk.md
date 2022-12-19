@@ -150,7 +150,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 一旦您在 *Atlas* 上注册并设置了您的 MongoDB 实例，您将看到一个类似下图的仪表板:
 
-[![atlas](../Images/dbf4ea41e52258c45f050c0701f1398a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--43pCJ1X7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/37251882-d19a3818-2520-11e8-97f6-7015435f3cbd.png)
+[![atlas](img/dbf4ea41e52258c45f050c0701f1398a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--43pCJ1X7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/37251882-d19a3818-2520-11e8-97f6-7015435f3cbd.png)
 
 ### 主机带 MLab
 
@@ -162,7 +162,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 一旦您在 *MLab* 上注册并设置了您的 MongoDB 实例，您将看到一个类似下图的仪表板:
 
-[![mlab](../Images/860b786abc612cb53f16feb21fbabd5d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mZN3bWrJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/37251951-ebb4dd74-2521-11e8-88bc-7db18f0a208c.png)
+[![mlab](img/860b786abc612cb53f16feb21fbabd5d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mZN3bWrJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/37251951-ebb4dd74-2521-11e8-88bc-7db18f0a208c.png)
 
 * * *
 
@@ -228,7 +228,7 @@ MongoDB Compass 是一个图形用户界面(GUI)工具，允许用户探索您�
 
 在下面的截图中，我使用 MongoDB Compass 连接到运行在本地机器上的 MongoDB。
 
-[![compass](../Images/5463fcc21107e6e4d46d911ca3380245.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8ojAninK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/37252219-1e877398-2526-11e8-998a-6ecd6bcacaed.png)
+[![compass](img/5463fcc21107e6e4d46d911ca3380245.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8ojAninK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/37252219-1e877398-2526-11e8-998a-6ecd6bcacaed.png)
 
 关于 MongoDB Compass 的更多信息，请点击[这里](https://www.mongodb.com/products/compass)
 
@@ -247,7 +247,7 @@ NoSqlBooster 是一个图形用户界面(GUI ),它提供了一个易于使用的
 
 在下面的截图中，我使用 NoSqlBooster 连接到运行在 Docker 上的 MongoDB。
 
-[![nosqlbooster](../Images/06d26d3fc34e4e7bbb30dc93d277bb0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KGpoE5nP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/37252401-18e5b4a6-2529-11e8-940f-9ad49aa82a4a.png)
+[![nosqlbooster](img/06d26d3fc34e4e7bbb30dc93d277bb0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KGpoE5nP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/37252401-18e5b4a6-2529-11e8-940f-9ad49aa82a4a.png)
 
 更多信息请访问[官方 NoSqlBooster 网站](https://nosqlbooster.com/)。
 
@@ -261,7 +261,7 @@ Robo 3T 是一个免费的 GUI 工具，可以用来探索你的 MongoDB 数据�
 
 在下面的截图中，我使用 Robo 3T 连接到 MongoDB 的一个本地实例:
 
-[![robo3t](../Images/fb0e6566eddd8c32a5fc5458279fe4aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WbAE8WYF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/37252488-3fe78308-252a-11e8-94a7-36c528dca556.png)
+[![robo3t](img/fb0e6566eddd8c32a5fc5458279fe4aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WbAE8WYF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/37252488-3fe78308-252a-11e8-94a7-36c528dca556.png)
 
 [Robo 3T](https://robomongo.org) 可以下载[这里](https://robomongo.org/download)
 
@@ -315,7 +315,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这些步骤如下所示:
 
-[![vs-code-cosmodb-ext](../Images/03df5debf2c0420978b48bc6ab5e6e96.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i1DJ8juQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/33935506/37252725-eafbe816-252e-11e8-93ef-155a1e9816bc.gif)
+[![vs-code-cosmodb-ext](img/03df5debf2c0420978b48bc6ab5e6e96.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i1DJ8juQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/33935506/37252725-eafbe816-252e-11e8-93ef-155a1e9816bc.gif)
 
 #### 使用 Mongo 剪贴簿运行命令
 
@@ -329,7 +329,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这些步骤如下所示:
 
-[![vs-code-scrapbook](../Images/afd88abce4563b5b310d160d3ef92d02.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TIjdIhWK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/33935506/37253010-8797dee6-2534-11e8-9014-357f6b39c881.gif)
+[![vs-code-scrapbook](img/afd88abce4563b5b310d160d3ef92d02.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TIjdIhWK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/33935506/37253010-8797dee6-2534-11e8-9014-357f6b39c881.gif)
 
 在撰写本文的时候，似乎有一个关于 Mongo 剪贴簿的问题
 

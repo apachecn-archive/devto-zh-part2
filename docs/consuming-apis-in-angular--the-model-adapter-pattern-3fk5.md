@@ -109,7 +109,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <figure>
 
-[![](../Images/ef59c61e9c32ad23a6d89732a24bc069.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UnYWPU2j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://florimondmanca-personal-website.s3.amazonaws.com/media/markdownx/ac486986-40d0-4dab-9dee-a9b3f569e6a1.png)
+[![](img/ef59c61e9c32ad23a6d89732a24bc069.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UnYWPU2j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://florimondmanca-personal-website.s3.amazonaws.com/media/markdownx/ac486986-40d0-4dab-9dee-a9b3f569e6a1.png)
 
 <figcaption>The Model-Adapter pattern, visualised.</figcaption>
 
@@ -220,7 +220,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <figure>
 
-[![](../Images/e3c4a48e48bc8ba87832524589c4e304.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YXpf2D1n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://florimondmanca-personal-website.s3.amazonaws.com/media/markdownx/436c8b5c-edd5-41c6-b346-77c713f9942e.png)
+[![](img/e3c4a48e48bc8ba87832524589c4e304.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YXpf2D1n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://florimondmanca-personal-website.s3.amazonaws.com/media/markdownx/436c8b5c-edd5-41c6-b346-77c713f9942e.png)
 
 <figcaption>TypeScript is not happy… Why?</figcaption>
 
@@ -419,7 +419,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 **更新**(2019 . 3 . 1):我写了这篇文章的后续帖子。它解释了如何在角度分量中使用这里创建的`CourseService`:
 
-[![florimondmanca](../Images/122f3b1f9c33dcdad1433bb20f0dab94.png)](/florimondmanca) [## 在 Angular 中使用 API:在组件中显示数据
+[![florimondmanca](img/122f3b1f9c33dcdad1433bb20f0dab94.png)](/florimondmanca) [## 在 Angular 中使用 API:在组件中显示数据
 
 ### 弗洛里蒙德·曼卡 3 月 1 日 1915 分钟阅读
 

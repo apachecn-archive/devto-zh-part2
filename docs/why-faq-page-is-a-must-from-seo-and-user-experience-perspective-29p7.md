@@ -4,7 +4,7 @@
 
 一个网站最有价值、最不可或缺的部分是什么？难道是联系页面——一个巨大的必备？不，绝对不行。这是最容易被忽视和遗忘的常见问题或 FAQ 部分。这是一个非常重要的功能，与讲述公司故事的“关于我们”页面部分不同。
 
-[![](../Images/171b5ba1e91efed4811583e9136d3f49.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CuB30I4K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eq9c1f6dg9nvphb9vmyp.jpg)
+[![](img/171b5ba1e91efed4811583e9136d3f49.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CuB30I4K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eq9c1f6dg9nvphb9vmyp.jpg)
 
 当访问者访问您的网站时，您提供的产品和服务通常会引起他们的兴趣。在寻找关于你的产品的答案和信息时，他们最终停留在 FAQ 部分。
 
@@ -34,7 +34,7 @@ FAQ 页面可以作为一个伟大的搜索引擎优化工具。一个精心制�
 
 通过在 FAQ 页面的问题和答案中加入关键词，您的网站可以针对搜索引擎进行优化。它不仅增加了网上销售，还在搜索结果中建立了良好的排名。
 
-[![](../Images/3970f68493db4d60322a9e16a9b7d100.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BpOyKyzg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1crcupduap1yhgkehu02.jpg)
+[![](img/3970f68493db4d60322a9e16a9b7d100.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BpOyKyzg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1crcupduap1yhgkehu02.jpg)
 
 当每个查询都超链接到相关的服务、产品或网站时，这个页面可以是站点导航的一个组成部分。这允许将客户重定向到相关内容。
 
@@ -48,7 +48,7 @@ FAQ 页面可以作为一个伟大的搜索引擎优化工具。一个精心制�
 
 谷歌生成丰富的数据结果，作为详细的片段，即位于折叠上方的“零位置”(排名#1 之前)的特色片段。谷歌在搜索结果之前回答用户的问题。在浏览完第 1 页到第 10 页后，它会找出最佳答案。这给了没有排名第一的页面出现在特色片段上的机会。
 
-[![](../Images/8872da08e6cd3358864f38dfd28cc250.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iKiOav6Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ss74u99vz68nt0xuwpu0.png)
+[![](img/8872da08e6cd3358864f38dfd28cc250.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iKiOav6Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ss74u99vz68nt0xuwpu0.png)
 
 谷歌使用一种不同于 SEO 的特殊算法来分析你的页面内容。当结果不掺杂隐喻和幽默的时候就容易多了。帮助谷歌的一个方法是通过 FAQ。通过制定传统问题，它可以作为特色片段(段落、列表或表格)或“人们也问”。因此，适当地分别设计常见问题。
 
@@ -60,7 +60,7 @@ FAQ 页面可以作为一个伟大的搜索引擎优化工具。一个精心制�
 
 你可以选择任何一种方式，添加一个基本页面或者在一个 [WordPress FAQ 插件](https://wordpress.org/plugins/wpworx-faq)的帮助下创建一个精致的页面。基本的页面方法包括在 WordPress 中创建一个页面，并在其中列出所有常见问题。如果你只有一堆物品，那么这种方法很适合你。
 
-[![](../Images/3757ae6f108ee650125cd2e2949c2365.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lHWluJtd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zomhrv28w0m7986y0zdg.jpg)
+[![](img/3757ae6f108ee650125cd2e2949c2365.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lHWluJtd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zomhrv28w0m7986y0zdg.jpg)
 
 另一方面，如果你想要一个更详细的 FAQ，那么尝试使用 WPWorx FAQ 插件。
 

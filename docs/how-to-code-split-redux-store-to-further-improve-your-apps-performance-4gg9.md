@@ -24,7 +24,7 @@
 *   redux——一个管理应用状态的简单库，[核心概念](https://redux.js.org/introduction/coreconcepts)，[和 react](https://redux.js.org/basics/usagewithreact) 。
 *   模块- [介绍](https://medium.com/@kimberleycook/intro-to-webpack-1d035a47028d)、 [es6 模块](https://www.sitepoint.com/understanding-es6-modules/)、[动态导入](https://www.sitepoint.com/understanding-es6-modules/)
 *   依赖树——如果`moduleB`在`moduleA`中被导入，那么`moduleB`是`moduleA`的依赖，如果`moduleC`在`moduleB`中被导入，那么结果依赖树是- `moduleA -> moduleB -> moduleC`。像 webpack 这样的捆绑器遍历这个依赖树来捆绑代码库。
-*   代码分割——当父模块使用动态导入来导入子模块时，webpack 将子模块及其依赖项捆绑在一个不同的构建文件中，该文件将在运行时运行导入调用时由客户端加载。Webpack 遍历代码库中的模块，并生成要由浏览器加载的包。![code splitting](../Images/42a45f3555ad305ca16fc39d2768d43c.png)
+*   代码分割——当父模块使用动态导入来导入子模块时，webpack 将子模块及其依赖项捆绑在一个不同的构建文件中，该文件将在运行时运行导入调用时由客户端加载。Webpack 遍历代码库中的模块，并生成要由浏览器加载的包。![code splitting](img/42a45f3555ad305ca16fc39d2768d43c.png)
 
 现在你已经熟悉了上面的概念，让我们开始吧。
 
@@ -283,7 +283,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您可以将上面的代码片段用作代码库中的模块，或者使用下面列出的 npm 包-
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)/[冗余店长](https://github.com/sagiavinash/redux-store-manager)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)/[冗余店长](https://github.com/sagiavinash/redux-store-manager)
 
 ### 使用 redux-store-manager 声明性地对 redux 存储进行代码分割，并使容器拥有整个 redux 流
 

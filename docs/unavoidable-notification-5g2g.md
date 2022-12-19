@@ -6,11 +6,11 @@
 
 下面是我收到通知的截图:
 
-[![Image_1](../Images/cc4f54955943a45cad557285b1694eeb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YVC4_EVO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t0z6r5tzzqc1i9zuwvl7.png)
+[![Image_1](img/cc4f54955943a45cad557285b1694eeb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YVC4_EVO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t0z6r5tzzqc1i9zuwvl7.png)
 
 这是我点击纸飞机时的聊天记录。您可以看到未读标记已消失，但没有新消息:
 
-[![Test2](../Images/a236182cb50d104cdb9e303bc173245c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ijkC0C_9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ebhrgwem22le8hz4z0ys.png)
+[![Test2](img/a236182cb50d104cdb9e303bc173245c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ijkC0C_9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ebhrgwem22le8hz4z0ys.png)
 
 在我返回主页后，未读通知仍然存在。
 

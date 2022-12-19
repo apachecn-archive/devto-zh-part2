@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/waqardm/to-all-ye-naysayers---its-ok-i-know-my-value--3fom>
 
-[![certificate](../Images/74011e9adbbf74bde375e7bc2ee589eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5NUSo7_E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ltpkk3ht3ridfnpj98fs.png)
+[![certificate](img/74011e9adbbf74bde375e7bc2ee589eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5NUSo7_E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ltpkk3ht3ridfnpj98fs.png)
 
 我设法获得了我的第二个 Javascript 算法和数据结构的 FreeCodeCamp(FCC)认证，并在 twitter 上分享给了我的一小群粉丝。在我知道之前，由于昆西(FCC 创始人)对推特的回应，很少有人看到过它。
 
@@ -10,11 +10,11 @@
 
 ##### 推文 1
 
-[![Tweet 1](../Images/7d600042aaf9a5e900687ac641e6228e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i1FAolo4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yz2s99pdig4k4hx335yg.png)
+[![Tweet 1](img/7d600042aaf9a5e900687ac641e6228e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i1FAolo4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yz2s99pdig4k4hx335yg.png)
 
 ##### 推文 2
 
-[![Tweet 2](../Images/2707466eab88421030e26b3248a94662.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YI0b9B79--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8fe7shs47y4ulnlzsr7a.png)
+[![Tweet 2](img/2707466eab88421030e26b3248a94662.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YI0b9B79--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8fe7shs47y4ulnlzsr7a.png)
 
 是的，从技术上讲，证书没有价值，但是我们的大学学位也没有价值，对吗？这些物品所包含的价值是我们投入的血、汗和泪。数百小时的努力和时间。牺牲。以及获得的知识。
 

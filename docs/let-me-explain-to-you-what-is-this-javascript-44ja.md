@@ -9,7 +9,7 @@
 
 Javascript 中的`this`可能是编程世界中最神奇的关键词。它的不可预测性已经达到了前所未有的程度。
 
-[![it's over 9000!!!](../Images/4e42324f364145b5429a0cdcde52a8a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HYHviAUn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media0.giphy.com/media/MvedbKot538WY/giphy.gif)
+[![it's over 9000!!!](img/4e42324f364145b5429a0cdcde52a8a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HYHviAUn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media0.giphy.com/media/MvedbKot538WY/giphy.gif)
 
 然而，如果你想成为一名 Javascript 高手，完全理解它是很重要的。那么让我试着给你解释一下**什么是`this`** 。(如果不行，好吧，至少我试过了。)
 
@@ -66,7 +66,7 @@ const bound = magic.bind(...);
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/fdf90d223d8106e0a4f64d60522bd05c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h4UCcbB4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media2.giphy.com/media/zG6MKhlBxIloc/giphy.gif)
+[![](img/fdf90d223d8106e0a4f64d60522bd05c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h4UCcbB4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media2.giphy.com/media/zG6MKhlBxIloc/giphy.gif)
 
 ## 调用函数的方式
 
@@ -109,7 +109,7 @@ f.apply(...);
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/0cc17edb811e21fbe0bac796422617a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GimMpfxA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media0.giphy.com/media/3oEjI5VtIhHvK37WYo/giphy.gif)
+[![](img/0cc17edb811e21fbe0bac796422617a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GimMpfxA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media0.giphy.com/media/3oEjI5VtIhHvK37WYo/giphy.gif)
 
 ## 快速回顾
 
@@ -133,7 +133,7 @@ Enter fullscreen mode Exit fullscreen mode
 5.  绑定函数+隐式(直接)调用
 6.  绑定函数+显式调用
 
-[![](../Images/0c6963d98719f22f728373554f0376d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rxUSTYMN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.giphy.com/media/lKZEeXJGhU1d6/giphy.gif)
+[![](img/0c6963d98719f22f728373554f0376d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rxUSTYMN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.giphy.com/media/lKZEeXJGhU1d6/giphy.gif)
 
 别慌，没那么可怕。
 
@@ -146,9 +146,9 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 程序查找`this`
 
-[![](../Images/9b278399a1217ebdd3c8128776402e7e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sui3WVSF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media3.giphy.com/media/O7pL1zfZKI836/giphy.gif) 
+[![](img/9b278399a1217ebdd3c8128776402e7e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sui3WVSF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media3.giphy.com/media/O7pL1zfZKI836/giphy.gif) 
 下面是在`f` :
-[![](../Images/bd0e87250741af4aa2bfa19002974e00.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UEIp_Vxd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jbon851k9easj5ot8tte.png) 函数中查找`this`绑定的过程
+[![](img/bd0e87250741af4aa2bfa19002974e00.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UEIp_Vxd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jbon851k9easj5ot8tte.png) 函数中查找`this`绑定的过程
 
 ## 演习！
 

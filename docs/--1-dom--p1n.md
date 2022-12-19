@@ -20,11 +20,11 @@
 
 虽然想到要连载的地方很好，但是没有想到要制作的 SPA。 总之先输入以前在 Angular 上写的[宅男的网名就能瞬间收集到那个人的输出↓](https://github.com/entyo/WatchingU) 的移植进行下去。
 
-[![](../Images/73472e050e000fe80344abdba3efe02e.png)T2】](https://camo.githubusercontent.com/39d233b953ada2c6d4e1e0551d6ffcfc857ce99e/68747470733a2f2f692e696d6775722e636f6d2f4935387963306d2e706e67)
+[![](img/73472e050e000fe80344abdba3efe02e.png)T2】](https://camo.githubusercontent.com/39d233b953ada2c6d4e1e0551d6ffcfc857ce99e/68747470733a2f2f692e696d6775722e636f6d2f4935387963306d2e706e67)
 
 第一次的这次，使用 purescript-halogen 只制作界面部分↓。
 
-[![](../Images/bdf60fbe40ea497455fe22e310acf067.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oQOkvbeX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/ldjs3XS.gif)
+[![](img/bdf60fbe40ea497455fe22e310acf067.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oQOkvbeX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/ldjs3XS.gif)
 
 在今后的连载中，每个用户( user1、user2、……)都可以进行输出的时间线，风格也将进行猜对，最终将脱胎换骨为更帅、没有运行时错误的 APP 应用。
 
@@ -61,7 +61,7 @@
 
 在 purescript-halogen 中，在组件树中生成 UI，例如 React.js。 这次大致设想以下组件树。
 
-[![](../Images/1416cd33d1eb4277ea66dc219fee6281.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V5oA7M1t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/OfLqwuV.png)
+[![](img/1416cd33d1eb4277ea66dc219fee6281.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V5oA7M1t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/OfLqwuV.png)
 
 `UserAdd`组件包含`<input type="text">`要素，用于输入宅男的网名。 `UserList`组件是`UserTimeLine`组件的列表。 迁移前的画面中，用户输出所在的一列相当于`UserTimeLine`，列整体的集合相当于`UserList`。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/scalegrid/mongodb-acquires-mlabwhat-are-the-different-mongodb-hosting-alternatives-508b>
 
-[![MongoDB Acquires mLab — What Are The Different MongoDB Hosting Alternatives? ScaleGrid Blog](../Images/c105477ecaa99ce381970ff49c1c6269.png)T2】](https://scalegrid.io/blog/mongodb-acquires-mlab-what-are-the-different-mongodb-hosting-alternatives/)
+[![MongoDB Acquires mLab — What Are The Different MongoDB Hosting Alternatives? ScaleGrid Blog](img/c105477ecaa99ce381970ff49c1c6269.png)T2】](https://scalegrid.io/blog/mongodb-acquires-mlab-what-are-the-different-mongodb-hosting-alternatives/)
 
 如果您是 mLab 的客户，您可能已经听说过他们被 MongoDB 收购的消息，您的集群将在未来 12 个月内迁移到 MongoDB Atlas。虽然有些人很兴奋，有些人漠不关心，有些人只是在等着看结果如何，但有很多用户担心这对他们的 MongoDB 部署意味着什么。
 
@@ -12,7 +12,7 @@
 
 那么除了 MongoDB Atlas 和 mLab 还有什么可用的呢？排名前三的其他 MongoDB DBaaS 提供商包括 ScaleGrid、Compose 和 object rocket——它们都提供 MongoDB 托管、管理、监控和免费支持。哪个适合你？当然，这取决于您希望从 MongoDB 即服务解决方案中得到什么。查看此 [MongoDB 托管提供商比较](https://scalegrid.io/mongodb/hosting-comparison.html)以深入了解这些提供商如何与 mLab 和 Atlas 相抗衡。
 
-[![Compare MongoDB Hosting Providers: ScaleGrid, mLab, MongoDB Atlas, Compose, and ObjectRocket - ScaleGrid Blog](../Images/2e01d48b9217dac67cc72e4cba177232.png)T2】](https://scalegrid.io/mongodb/hosting-comparison.html)
+[![Compare MongoDB Hosting Providers: ScaleGrid, mLab, MongoDB Atlas, Compose, and ObjectRocket - ScaleGrid Blog](img/2e01d48b9217dac67cc72e4cba177232.png)T2】](https://scalegrid.io/mongodb/hosting-comparison.html)
 
 现在，让我们来看看 mLab 客户在被迫迁移到 MongoDB Atlas 之前可以获得的不同服务。
 

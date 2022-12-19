@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/pancy/entity-component-system-ecs-in-javascript-a-frame--4jbi>
 
-[![ECS](../Images/781fa7d2289e07f070e78b1c704209b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M6vS1_E9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2A8bx8gktS7trsjiwp.png)
+[![ECS](img/781fa7d2289e07f070e78b1c704209b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M6vS1_E9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2A8bx8gktS7trsjiwp.png)
 
 我一直在用 Mozilla 的开源 WebVR 框架 [A-Frame](https://aframe.io/) 进行开发。使 A-Frame 与 Three.js 等 WebGL 库非常不同的是——首先，它构建在 Three.js 之上，通过 HTML DOM 和属性更具声明性，其次，它迎合了 WebVR，这意味着它自带了 VR 模式，最后也是最重要的，它采用了[实体-组件-系统(ECS)](https://en.wikipedia.org/wiki/Entity%E2%80%93component%E2%80%93system) 模式。
 

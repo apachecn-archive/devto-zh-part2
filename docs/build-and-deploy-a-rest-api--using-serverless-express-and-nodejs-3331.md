@@ -12,7 +12,7 @@ Amazon web services 为我们提供了各种各样的服务来构建和部署小
 
 AWS Lambda 无需供应或管理服务器即可运行您的代码，这意味着您无需购买或管理服务器。您只需在您的代码运行或用户访问您的网站时付费。
 
-[![lamda](../Images/9c51538de1b3a7f2d3b7e0f4ae9b4989.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2LCugFcU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/blqwkpsbt4ld7iwxnstj.png)
+[![lamda](img/9c51538de1b3a7f2d3b7e0f4ae9b4989.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2LCugFcU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/blqwkpsbt4ld7iwxnstj.png)
 
 ### 什么是需求？
 

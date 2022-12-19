@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/level-up-your-css-selector-skills-5ha1>
 
-[![](../Images/a2da57eaa39cad10402503b8e5e331df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T-Itb0LQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ac-SHpWHyrJ2ozRbqI2U5sQ.jpeg)
+[![](img/a2da57eaa39cad10402503b8e5e331df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T-Itb0LQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ac-SHpWHyrJ2ozRbqI2U5sQ.jpeg)
 
 我使用 CSS 已经很多年了，但是有一件事我直到最近才深入探讨，那就是 CSS 选择器的话题。
 
@@ -33,7 +33,7 @@
 
 选择 New York 行是因为它紧跟在第一行之后，最后两个城市被突出显示，因为 general sibling 选择器匹配第四个城市之后的所有城市。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/?cid=banner_a)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/?cid=banner_a)
 
 ### 属性选择器
 
@@ -342,7 +342,7 @@ elements can be matched using the :lang() selector:
 
 ### Plug: [LogRocket](http://logrocket.com) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

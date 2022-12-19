@@ -12,7 +12,7 @@
 
 我们的生活充满了精彩的时刻。例如，当我写这篇文章时，我正坐在晨光中，我的狗在我身边，这是我所珍视的东西。但是当我坐下来欣赏这一刻的时候——我哼着一首[歌的第一小节](https://www.youtube.com/watch?v=Uy5T6s25XK4),所以我也在我对这首歌的想象创造的另一个世界里。所以，在我心中的现实中，我既是这个世界上的一个存在，也是我自己创造的一个泡泡中的一个存在。
 
-[![A serene picture of a buddha statuette in a terrarium on my desk at work](../Images/dafaf31555f17161b1497bf8f1338916.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bFyE5JSb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4yr3zmaeg9gp4uckpd4o.jpg)
+[![A serene picture of a buddha statuette in a terrarium on my desk at work](img/dafaf31555f17161b1497bf8f1338916.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bFyE5JSb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4yr3zmaeg9gp4uckpd4o.jpg)
 
 这种二分法不是要解决的问题，因为它是一种自然的生活方式。然而，简单地将注意力转移到我们所占据的现实的泡沫上是有帮助的。如果你对脚下的土地一无所知，你可能会失足。因此，为了更接近我们的人生道路，我们可以练习留意自己和周围的环境。
 

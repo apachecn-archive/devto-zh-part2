@@ -4,7 +4,7 @@
 
 由于几个月前， **[verdaccio@4.0.0](mailto:verdaccio@4.0.0)** 正在开发中，我们想给你第一次更新当前准备测试和即将推出的功能列表。
 
-<figure>[![](../Images/0632bc91b182a3dd5daf0e6518873d5d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PTKA2uSx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AGK9U1wZmB0JUN2XGhu5LjA.png) 
+<figure>[![](img/0632bc91b182a3dd5daf0e6518873d5d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PTKA2uSx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AGK9U1wZmB0JUN2XGhu5LjA.png) 
 
 <figcaption>基于素材的 Verdaccio 4 UI-UI</figcaption>
 
@@ -46,7 +46,7 @@ npm profile set password -ddd --registry http://localhost:4873/
 
 我们希望帮助您保持更新，因此我们发布了一个 CLI 通知，显示可用的最新稳定版本。
 
-[![](../Images/d74981381d2826bb38edcbcbb7c9e528.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1KGoH4Jx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AYw0NdQlZgm46s5cAgew1VQ.png)
+[![](img/d74981381d2826bb38edcbcbb7c9e528.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1KGoH4Jx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AYw0NdQlZgm46s5cAgew1VQ.png)
 
 #### 新界面💅🏻
 
@@ -102,7 +102,7 @@ Verdaccio 是一个开源项目，但我们的目标也是成为一个不错的�
 
 对于那些已经支持和赞助，非常感谢👏👏👏。
 
-> ![unknown tweet media content](../Images/d205acfe835cda3452082939bf179496.png)![Juan Picado (胡) profile image](../Images/ddbb61e80061deee36694c8fceab8b32.png)胡安皮卡多(胡)[@ jotadeveloper](https://dev.to/jotadeveloper)![twitter logo](../Images/ca5dfdb28b446702d18cbfa9843f8167.png)看看我的邮箱里刚刚有什么🔥🔥 ... [@verdaccio_npm](https://twitter.com/verdaccio_npm) ..👌🏼我爱他们[#贴纸](https://twitter.com/hashtag/stickers)[# nodejs](https://twitter.com/hashtag/nodejs)[# NPM](https://twitter.com/hashtag/npm)2018 年 9 月 11 日下午 17:31[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1039567122144354305)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1039567122144354305)2[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1039567122144354305)6
+> ![unknown tweet media content](img/d205acfe835cda3452082939bf179496.png)![Juan Picado (胡) profile image](img/ddbb61e80061deee36694c8fceab8b32.png)胡安皮卡多(胡)[@ jotadeveloper](https://dev.to/jotadeveloper)![twitter logo](img/ca5dfdb28b446702d18cbfa9843f8167.png)看看我的邮箱里刚刚有什么🔥🔥 ... [@verdaccio_npm](https://twitter.com/verdaccio_npm) ..👌🏼我爱他们[#贴纸](https://twitter.com/hashtag/stickers)[# nodejs](https://twitter.com/hashtag/nodejs)[# NPM](https://twitter.com/hashtag/npm)2018 年 9 月 11 日下午 17:31[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1039567122144354305)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1039567122144354305)2[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1039567122144354305)6
 
 如果您有机会见到我们的任何团队成员，请随意索要贴纸(希望他们会带一些)，我们的预算主要用于推广，您可以帮助我们传播声音，提供您的开始，或者只是向您的同事推荐 Verdaccio 有多棒。
 

@@ -98,6 +98,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 从现在开始，我们可以连接数据库了。
 
-[![alt text](../Images/0a801d8f87785ab924e326c9fcc34713.png "Pretty Database Connection")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ls7ofXYr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g9j7yquzlorxdq0bh25c.png)
+[![alt text](img/0a801d8f87785ab924e326c9fcc34713.png "Pretty Database Connection")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ls7ofXYr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g9j7yquzlorxdq0bh25c.png)
 
 太酷了！我的目标正是用 OOP 和数据库连接来启发我们的思维。我希望，我能做到。在这篇文章中，就说到这里。我们已经学习了用接口和常量连接任何数据库连接。

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/codenamev/custom-git-workflows-with-the-latest-git-reflow-42ie>
 
-[![New git-reflow release: Custom Git Workflows](../Images/071abe10cc841457617ee13dd127fdd0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VKD6aTFm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.codenamev.com/content/images/2019/07/reflow-workflows-header.jpeg)
+[![New git-reflow release: Custom Git Workflows](img/071abe10cc841457617ee13dd127fdd0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VKD6aTFm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.codenamev.com/conteimg/2019/07/reflow-workflows-header.jpeg)
 
 这个版本包含了几年的努力，允许您定制我们的过程，以满足您的特定需求。我们已经放弃了严重的依赖性(`gli`)，并引入了一个非常灵活的 DSL 来创建新的 git 命令或覆盖我们现有的命令。
 

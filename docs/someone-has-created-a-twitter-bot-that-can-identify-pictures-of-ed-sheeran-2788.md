@@ -137,7 +137,7 @@
 
 显然克里斯·海姆斯沃斯是不会弄错的，即使少了一只眼睛。但是伊丽莎白·奥尔森给斯卡·乔？走吧。他们并不完全一样……天哪，伊丽莎白·奥尔森也在照片里……
 
-[![](../Images/b44b910000767a28e6a183e2fb1747c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ePqIWOC1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/cEaopzI.png)
+[![](img/b44b910000767a28e6a183e2fb1747c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ePqIWOC1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/cEaopzI.png)
 
 它也会把事情搞得很糟糕。它似乎很难识别“带刺的手镯”…
 

@@ -4,7 +4,7 @@
 
 每周[马尔滕·贝泽默](https://medium.com/@veger)7 月 15 日[免费加入](https://www.getrevue.co/profile/golang-jexia/issues/golang-ninjas-newsletter-issue-9-119028?)或添加[时事通讯 rss](http://fetchrss.com/rss/5b27d6348a93f858388b4567788630470.xml)
 
-[![](../Images/7972cd544e9250c65782b3f1ba394cd3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cHFBQDLx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0r4kshz09w5whrvmmtop.jpg)
+[![](img/7972cd544e9250c65782b3f1ba394cd3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cHFBQDLx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0r4kshz09w5whrvmmtop.jpg)
 
 通过 Maarten Bezemer 为 Golang Ninjas 提供的每周简讯，了解最新动态并领先于同行。
 

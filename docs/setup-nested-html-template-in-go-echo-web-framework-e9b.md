@@ -52,9 +52,9 @@ func main() {
 
 通过 **go 运行 main.go** 启动应用程序，然后通过浏览器或 **curl** 命令访问 [http://localhost:1323](http://localhost:1323) 。
 
-[![Start the Echo server.](../Images/5c9af53c21265006132347e63d6ddad6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nnzHd3DZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fkb9i9msht4v3s2ostpb.jpg)
+[![Start the Echo server.](img/5c9af53c21265006132347e63d6ddad6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nnzHd3DZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fkb9i9msht4v3s2ostpb.jpg)
 
-[![Send a request and get the hello world.](../Images/0f2be8cb1432dddfd78f3f6bb64fb33a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BwY3xuHz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t7ieyy30ww2hjhyqvzwy.jpg)
+[![Send a request and get the hello world.](img/0f2be8cb1432dddfd78f3f6bb64fb33a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BwY3xuHz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t7ieyy30ww2hjhyqvzwy.jpg)
 
 ## 返回一个 JSON 响应
 

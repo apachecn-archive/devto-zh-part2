@@ -6,7 +6,7 @@
 
 最近，离岸软件开发业务已经获得了许多公司的关注，这些公司正在努力为他们的产品和服务实现最低成本投入的技术方法。对他们来说，离岸软件开发服务已经成为一种可供选择的成功模式。
 
-[![](../Images/f2863f9a9f98865145aef7c7257d7a86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4MDRc59O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/0%2AgxnRJhVOvPFPJ_6c.jpg)
+[![](img/f2863f9a9f98865145aef7c7257d7a86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4MDRc59O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/0%2AgxnRJhVOvPFPJ_6c.jpg)
 
 由于对这类公司需求的增加，可能 [**离岸软件开发公司**](http://www.wenso.co.uk/consulting/) 已经在行业中浮出水面。因此，在选择最适合您公司的产品之前，记住一些要点非常重要。
 

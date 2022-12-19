@@ -4,7 +4,7 @@
 
 > 不幸的是，此提示仅在 Mac 上有效，因为在 iOS (iPhone)外观中，小屏幕和线条缠绕会造成混乱。:(
 
-[![](../Images/eea02597b54be21c611f4aa3efeb01e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I-0eebxn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vjr5zh7kdfc4gjzl97n7.png)
+[![](img/eea02597b54be21c611f4aa3efeb01e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I-0eebxn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vjr5zh7kdfc4gjzl97n7.png)
 
 目前(2018 年 4 月 15 日)有[熊 for iOS (App Store Link)](https://itunes.apple.com/us/app/bear-beautiful-writing-app/id1016366447?ls=1&mt=8) 和[熊 for Mac OS (App Store Link)](%5Bhttps://itunes.apple.com/us/app/bear-beautiful-writing-app/id1016366447?ls=1&mt=8) 遗憾的是，没有表示表的可能性。
 

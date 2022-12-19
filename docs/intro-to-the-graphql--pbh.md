@@ -41,7 +41,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在您喜欢的代码编辑器中打开 graphql-example 文件夹
 
-[![](../Images/2a7ba19655bc23a23532551194e9abc7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QmEH5eU0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c9bzblvcwp5h49w078dr.png)
+[![](img/2a7ba19655bc23a23532551194e9abc7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QmEH5eU0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c9bzblvcwp5h49w078dr.png)
 
 创建 server.js 文件
 

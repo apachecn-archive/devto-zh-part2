@@ -4,7 +4,7 @@
 
 缺陷人工智能是一种全自动的服务，使用专门针对该用例训练的机器学习模型来预测 GitHub 问题的标签。不要把时间浪费在标签问题上，而是用你的 it 来解决它们。
 
-[![Defects AI in action](../Images/db1ffaff2bec1213d253adb84cd0f482.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8rrQW_c9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/59ngwrpa1i7pmq1110m1.gif)
+[![Defects AI in action](img/db1ffaff2bec1213d253adb84cd0f482.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8rrQW_c9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/59ngwrpa1i7pmq1110m1.gif)
 
 ## 一切是如何开始的？
 

@@ -4,13 +4,13 @@
 
 Laravel 包自动显示通知实时每当有新的日志条目在应用程序中的任何地方。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)[sarfraznawaz 2005](https://github.com/sarfraznawaz2005)/[日志通知](https://github.com/sarfraznawaz2005/lognotify)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)[sarfraznawaz 2005](https://github.com/sarfraznawaz2005)/[日志通知](https://github.com/sarfraznawaz2005/lognotify)
 
 ### Laravel 包自动显示通知实时每当有新的日志条目在应用程序中的任何地方。
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-[![Latest Version on Packagist](../Images/a2b04f91756aa99e44abb7050db5652a.png) ](https://packagist.org/packages/sarfraznawaz2005/lognotify) [ ![Total Downloads](../Images/8d86571c246506be80663b642ca66708.png)](https://packagist.org/packages/sarfraznawaz2005/lognotify)
+[![Latest Version on Packagist](img/a2b04f91756aa99e44abb7050db5652a.png) ](https://packagist.org/packages/sarfraznawaz2005/lognotify) [ ![Total Downloads](img/8d86571c246506be80663b642ca66708.png)](https://packagist.org/packages/sarfraznawaz2005/lognotify)
 
 # Laravel 日志通知
 
@@ -18,7 +18,7 @@ Laravel 包自动显示通知实时每当有新的日志条目在应用程序中
 
 ## 屏幕上显示程序运行的图片
 
-[![Main Window](../Images/d5d56b07e530e1d0f547ddfd649e988c.png)T2】](https://github.com/sarfraznawaz2005/lognotify/blob/master/screen.jpg?raw=true)
+[![Main Window](img/d5d56b07e530e1d0f547ddfd649e988c.png)T2】](https://github.com/sarfraznawaz2005/lognotify/blob/master/screen.jpg?raw=true)
 
 ## 要求
 

@@ -12,7 +12,7 @@ Kafka 使用 [Zookeeper](https://zookeeper.apache.org/) 来存储关于 Kafka �
 
 虽然您可以使用 Kafka 发行版中包含的脚本直接启动并运行快速而肮脏的单节点 Zookeeper 服务器，但从发行版安装完整版本的 Zookeeper 是微不足道的。
 
-[![Source: Kafka- The Definitive Guide](../Images/128fb73b366147d76ec76986634382f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a_f7LDhZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A0vTDGwBRzFsexzhtiJ4OsQ.png)
+[![Source: Kafka- The Definitive Guide](img/128fb73b366147d76ec76986634382f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a_f7LDhZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A0vTDGwBRzFsexzhtiJ4OsQ.png)
 
 我假设你已经安装了 JDK1.8。如果不是，Linux/macOS 用户可以使用包管理器下载 openJDK。Windows 用户可以去甲骨文的网站安装。
 
@@ -127,4 +127,4 @@ Kafka 使用 [Zookeeper](https://zookeeper.apache.org/) 来存储关于 Kafka �
 
 **直到那时，**
 
-[![Goodbye](../Images/bd8e474940fb036418cc256fc092c89d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wJ5v75Q0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thumbs.gfycat.com/GenuineMenacingImperialeagle-size_restricted.gif)
+[![Goodbye](img/bd8e474940fb036418cc256fc092c89d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wJ5v75Q0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thumbs.gfycat.com/GenuineMenacingImperialeagle-size_restricted.gif)

@@ -12,7 +12,7 @@
 
 这不是一个关于如何配置 vim 的全面参考，而是一个快速、简短和甜蜜的指南，让您在几分钟内快速上手，更有效地学习和使用 vim。
 
-[![A witcher never ever forgets to take care of his blade](../Images/ff616205f1a0b301ad19b7b36b4daaa7.png "Sharpen Thy Sword")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--InyOh1WG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.barbarianmeetscoding.com/images/witcher-care-sword.jpg)
+[![A witcher never ever forgets to take care of his blade](img/ff616205f1a0b301ad19b7b36b4daaa7.png "Sharpen Thy Sword")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--InyOh1WG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.barbarianmeetscoding.cimg/witcher-care-sword.jpg)
 
 来自 thewitcher.com 的壁纸加上来自希里和杰洛特温馨团聚的引用。抱歉我刚刚看完《巫师 3》，无法阻止自己:D
 
@@ -66,7 +66,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您可以使用 vim 的帮助来查找关于可用选项以及如何配置它们的更多信息。尝试使用`:h option-list`查看所有可用选项的摘要，使用`:h options`查看完整交易。帮助非常好和详细。测试`:h compatible`来体验一下(注意这个选项只在 vim 中可用，因为 neovim 甚至不提供向后兼容 vi 的选项，如果你在 neovim 中，试试`:h 'filetype'`):
 
-[![A screenshot of vim's help for the compatible option](../Images/528061373d709fa087f27cabe4089537.png "Nice Help!")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e5Dl-hLS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.barbarianmeetscoding.com/images/vim-help-compatible.jpg)
+[![A screenshot of vim's help for the compatible option](img/528061373d709fa087f27cabe4089537.png "Nice Help!")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e5Dl-hLS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.barbarianmeetscoding.cimg/vim-help-compatible.jpg)
 
 ## 你应该知道的一件事:如何定义你自己的键映射！
 

@@ -40,7 +40,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 的缺失
 
-[![Mist Dapps Store](../Images/734f08817fb459392bfb14612658590d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DE0_ZdlG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://preslav.me/assets/img/2018/july/mist-dapps-store.jpg)
+[![Mist Dapps Store](img/734f08817fb459392bfb14612658590d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DE0_ZdlG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://preslav.me/assets/img/2018/july/mist-dapps-store.jpg)
 
 [Mist](https://github.com/ethereum/mist) 是一个 GUI 以太坊 Dapp 浏览器，包含自己集成的 Geth 节点，以及集成的 eth 钱包管理器。如果你到目前为止只用过 ETH 钱包，那么 Dapp 浏览器的概念一开始会让人望而生畏。除了管理钱包，Mist 还充当事实上的 Dapp 商店，允许用户发现和使用已经开发的 Dapp，如 CryptoKitties、Augur、Bancor 等。最重要的是，Mist 允许在智能契约上创建、部署和执行功能。这是我们将使用它的主要目的。
 
@@ -94,7 +94,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 经过一点设置，薄雾将开始。不管你之前是否已经将 ETH 分配给了 genesis 文件中的一些地址，你都不能访问这些地址。你将需要创建一个新的钱包和我的一些 ETH。
 
-[![Create a new wallet](../Images/f997eafb28ee074c4d8ac41599033904.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j7Vog3VQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://preslav.me/assets/img/2018/july/mist-create-wallet.png)
+[![Create a new wallet](img/f997eafb28ee074c4d8ac41599033904.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j7Vog3VQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://preslav.me/assets/img/2018/july/mist-create-wallet.png)
 
 一旦你有了第一个钱包，你为什么不也买一些呢？假设您将`difficulty`值设置得足够低，这应该是一个相当快速和简单的过程。打开一个新标签页，启动第二个 Geth 实例，如下所示:
 

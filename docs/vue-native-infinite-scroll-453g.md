@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/abiodunjames/vue-native-infinite-scroll-453g>
 
-[![](../Images/81fee2498ac1e5284b66a9ad885ee001.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KoBxDL_o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/samueljames/image/upload/v1540737925/infinite-scrolling.gif) 
+[![](img/81fee2498ac1e5284b66a9ad885ee001.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KoBxDL_o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/samueljames/image/upload/v1540737925/infinite-scrolling.gif) 
 本帖旨在向你展示如何在 [Vue-native](https://vue-native.io/) 中实现无限滚动。毫无疑问，无限滚动是对大型数据集进行分页的最佳选择，尤其是在移动应用程序中。
 
 令人兴奋的是，使用 [Vue-native](https://vue-native.io/) 只需几个简单的步骤就可以实现无限滚动
@@ -31,7 +31,7 @@ npm install
 
 从如下所示的选项中选择`blank`:
 
-[![Blank](../Images/ee61dadb03f0bfe6c5a1e0d7b9349b1c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dlYg9V03--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/samueljames/image/upload/c_scale%2Ch_786/v1540740190/Screen_Shot_2018-10-28_at_16.09.51.png)
+[![Blank](img/ee61dadb03f0bfe6c5a1e0d7b9349b1c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dlYg9V03--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/samueljames/image/upload/c_scale%2Ch_786/v1540740190/Screen_Shot_2018-10-28_at_16.09.51.png)
 
 此时，启动一个 [vue-native](https://vue-native.io) 应用程序所需的一切都应该已经创建好了。太棒了。对吗？让我们继续安装更多的依赖项。
 

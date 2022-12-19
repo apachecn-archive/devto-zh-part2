@@ -30,7 +30,7 @@ apache kafka 是一个分布式消息系统。后者是 opensource，并获得 A
 
 消费者(消息使用者)对一个或多个主题感兴趣，因此订阅主题。因此，他将收到有关这些著名主题的所有消息。
 
-[![](../Images/75ff5669dac0f62a02f255a5584c66c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qAI-Wznn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/726/1%2A3xMMAnMHfY5R4e4gxYTAKQ.png)
+[![](img/75ff5669dac0f62a02f255a5584c66c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qAI-Wznn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/726/1%2A3xMMAnMHfY5R4e4gxYTAKQ.png)
 
 卡夫卡是一个由经纪人组成的群集。
 
@@ -40,7 +40,7 @@ apache kafka 是一个分布式消息系统。后者是 opensource，并获得 A
 
 因此，通过实例化 Kaka 服务，很容易形成 Kaka 集群。
 
-[![](../Images/a53cd1431bf37770ed95c2de1444d630.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--88r_vafy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/425/1%2A3osCkvu1FNU2djmv8ov2_A.png)
+[![](img/a53cd1431bf37770ed95c2de1444d630.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--88r_vafy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/425/1%2A3osCkvu1FNU2djmv8ov2_A.png)
 
 这种群集管理有助于改进数据分区和复制。
 

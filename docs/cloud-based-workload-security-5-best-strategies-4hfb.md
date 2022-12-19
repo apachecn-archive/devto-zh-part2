@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/brettclawson75/cloud-based-workload-security-5-best-strategies-4hfb>
 
-[![data security](../Images/a989c4030877700a6f5cbc51a694f400.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XPcBZjaP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/106344/pexels-photo-106344.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D350)
+[![data security](img/a989c4030877700a6f5cbc51a694f400.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XPcBZjaP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/106344/pexels-photo-106344.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D350)
 
 组织已经发生了巨大的变化，他们正在使用先进的技术来处理大多数服务。使用先进的技术帮助公司变得高效，并最大限度地降低其运营成本，这使他们能够将剩余的资金用于加强组织内的其他部门。公司甚至已经到了将数据存储在基于云的计算机中的程度，与将这种数据存储在公司的硬拷贝文档中相比，在基于云的计算机中存储数据要安全得多。然而，基于云的计算机也正在被网络犯罪分子渗透。然而，使用以下策略有助于企业家对其基于云的工作负载充满信心。
 

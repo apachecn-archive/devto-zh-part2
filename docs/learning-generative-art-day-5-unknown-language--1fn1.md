@@ -6,9 +6,9 @@
 
 ## 【未知语言】
 
-[![gif](../Images/e5afdeb041193c93fc71273fae41478f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cgRGaw4V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2fp6w693c6t5bgowaxrn.gif)
+[![gif](img/e5afdeb041193c93fc71273fae41478f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cgRGaw4V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2fp6w693c6t5bgowaxrn.gif)
 
-[![image](../Images/c91f107ee35fb65c438ae1e3021f7cfd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eutCJShn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8u1v4re8l7oup6xuv3b2.png)
+[![image](img/c91f107ee35fb65c438ae1e3021f7cfd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eutCJShn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8u1v4re8l7oup6xuv3b2.png)
 
 我试图表达我在面对一种未知语言的情况下的感受。那种场合，我从来不懂陌生人说什么，想什么，感受什么。然后我感到难以置信的孤立，我的视力变成灰色。
 

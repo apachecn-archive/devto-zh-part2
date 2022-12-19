@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/roelofjanelsinga/improving-my-programming-skills-at-a-full-time-job-1kd5>
 
-[![Fireworks](../Images/d92a19f976104b7ebd9680272b349f41.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OOmSHo0x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9c66xxt36xzjpz05n9j2.jpeg)
+[![Fireworks](img/d92a19f976104b7ebd9680272b349f41.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OOmSHo0x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9c66xxt36xzjpz05n9j2.jpeg)
 
 # 在全职工作中提高我的编程技能
 

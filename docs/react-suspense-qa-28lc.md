@@ -4,7 +4,7 @@
 
 # 为什么我们要反应悬念，在 GIF 中
 
-[![https://thumbs.gfycat.com/QueasyGrandIriomotecat-size_restricted.gif](../Images/8ae9c75bf33fa0b0ed9d765364a15d1a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wgyUvGbO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thumbs.gfycat.com/QueasyGrandIriomotecat-size_restricted.gif)
+[![https://thumbs.gfycat.com/QueasyGrandIriomotecat-size_restricted.gif](img/8ae9c75bf33fa0b0ed9d765364a15d1a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wgyUvGbO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thumbs.gfycat.com/QueasyGrandIriomotecat-size_restricted.gif)
 
 # 问&答
 

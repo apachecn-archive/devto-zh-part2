@@ -6,7 +6,7 @@
 
 `workflow`是一个节点命令行工具，可以将声明性布局转化为屏幕上运行的应用程序。
 
-[![ReactExample.js](../Images/5e14c69ea00cd3f03af59132cb68c6a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y0oAWxr9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/chodmke88uapwkwsflhm.gif)
+[![ReactExample.js](img/5e14c69ea00cd3f03af59132cb68c6a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y0oAWxr9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/chodmke88uapwkwsflhm.gif)
 
 布局可以声明为 javascript 对象或 React 应用程序。布局包含应用程序及其在屏幕上的位置，以及传递给应用程序的参数。下面的代码示例是上面 gif 中使用的布局，声明为 React 应用程序。React 应用程序由`render`函数中的自定义协调器评估为 javascript 对象。
 

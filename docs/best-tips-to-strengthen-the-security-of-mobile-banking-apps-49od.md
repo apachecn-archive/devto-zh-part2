@@ -4,13 +4,13 @@
 
 银行业是我们生活中必不可少的一部分。随着时间的推移，银行已经发展并经历了巨大的变革。银行通过使用新时代的技术来实现现代化，比如建造先进的自动取款机和提供用户友好的移动应用程序。**移动银行应用**提供更便捷的交易、即时更新和通知，以及随时随地轻松访问账户和其他移动服务。即使在这些革命性的变化之后，银行-客户关系的主要本质仍保持不变，即可靠和安全的运营。
 
-[![](../Images/0e4af7509ce5b79db5793079512d1ead.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VghFT6Az--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hub/3907762/hubfs/Stock%2520images/Media%2520technology%2520illustration%2520with%2520mobile%2520phone%2520and%2520icons.jpeg%3Ft%3D1523431557687%26width%3D960)
+[![](img/0e4af7509ce5b79db5793079512d1ead.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VghFT6Az--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hub/3907762/hubfs/Stock%2520images/Media%2520technology%2520illustration%2520with%2520mobile%2520phone%2520and%2520icons.jpeg%3Ft%3D1523431557687%26width%3D960)
 
 然而，随着银行的发展，它们越来越容易受到安全威胁。如果这些网络银行解决方案不安全，用户的宝贵信息和金钱可能会被窃取。移动应用是许多恶意攻击的目标，尤其是银行应用。糟糕的移动应用程序实践忽视了服务提供商的指导方针，用户的银行详细信息被透露给云中的服务。移动银行应用程序在这里尤其受到关注，这是一个令人严重关切的问题，因为此类应用程序生成的数据非常敏感。
 
 因此，银行需要暗示适当的计划以确保其客户的安全。值得庆幸的是，有许多方法可以保护移动银行应用程序免受任何外部来源的破坏。以下是一些确保这些应用程序安全的提示。
 
-[![Alt text of image](../Images/d35435aec6297e742e9359da7097c5f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O4P8GM_O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.endivesoftware.com/images/banking-and-finance3.jpg)
+[![Alt text of image](img/d35435aec6297e742e9359da7097c5f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O4P8GM_O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.endivesoftware.cimg/banking-and-finance3.jpg)
 
 **1。强客户认证。**
 

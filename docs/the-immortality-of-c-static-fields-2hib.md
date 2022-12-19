@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/collinbarrett/the-immortality-of-c-static-fields-2hib>
 
-[![Static Hair](../Images/50e740180413b401911da56aec26c511.png)T2】](https://collinmbarrett.com/immortality-static-fields/)
+[![Static Hair](img/50e740180413b401911da56aec26c511.png)T2】](https://collinmbarrett.com/immortality-static-fields/)
 
 在过去的两周里，我的团队两次尝试使用静态场。第一个是由你的 truly 无意中引入的，并在我们的最新版本中造成了一点混乱。后者正在争论是否要利用一个来执行数据的内存缓存。在这两种情况下，而且可以说在几乎所有可能的情况下，使用静态(非常数)字段可能都不是一个好的选择。我澄清了非常量，因为 [`const`本质上也是静态的](https://stackoverflow.com/questions/408192/why-cant-i-have-public-static-const-string-s-stuff-in-my-class/408201#408201)，但是使用起来通常更安全，因为它是编译时常量，因此被烧录到构建工件中，而不是设置在内存中。
 

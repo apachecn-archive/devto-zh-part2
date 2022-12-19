@@ -4,7 +4,7 @@
 
 # **开源计算机辅助设计软件可能不具备专有解决方案的所有功能，但它可能拥有你实际需要的一切。**
 
-[![autocad banner](../Images/01cd6cf7db64c16524bd1c4655a3f988.png)T2】](https://i1.wp.com/fossnaija.com/wp-content/uploads/2018/02/autocad_alternatives_banner_fossnaija.png?ssl=1)
+[![autocad banner](img/01cd6cf7db64c16524bd1c4655a3f988.png)T2】](https://i1.wp.com/fossnaija.com/wp-content/uploads/2018/02/autocad_alternatives_banner_fossnaija.png?ssl=1)
 
 CAD——计算机辅助设计或计算机辅助制图，取决于你问谁——是一种技术，旨在更容易地为现实世界的对象创建规范。无论你正在建造的物体是房子、汽车、桥梁还是宇宙飞船，它都有可能是从某种类型的 CAD 程序开始的。
 
@@ -24,7 +24,7 @@ CAD——计算机辅助设计或计算机辅助制图，取决于你问谁—�
 
 ## 
 
- **[![BRL-CAD banner](../Images/c252ff4d56ef0b0a5fa9d2df42666978.png)T2】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/02/brlCAD_banner_fossnaija.png?ssl=1)
+ **[![BRL-CAD banner](img/c252ff4d56ef0b0a5fa9d2df42666978.png)T2】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/02/brlCAD_banner_fossnaija.png?ssl=1)
 
 BRL-CAD 是一个跨平台的 CAD 工具，可以追溯到 1979 年，尽管在开源许可下发布源代码需要 25 年时间。事实上，BRL-CAD 是如此的古老，以至于它已经被[认为是目前正在开发的应用程序中最古老的源代码库。](http://blog.openhub.net/2007/08/worlds_oldest_source_code_repositories/)
 
@@ -34,7 +34,7 @@ BRLCAD 最初由陆军研究实验室的 Mike Muuss 开发，几十年来一直�
 
 ## **FreeCAD**
 
-[![freeCAD banner](../Images/2c1ce7ecc68101d583901a14290592cc.png)T2】](https://i1.wp.com/fossnaija.com/wp-content/uploads/2018/02/freeCAD_banner_fossnaija_1.png?ssl=1)
+[![freeCAD banner](img/2c1ce7ecc68101d583901a14290592cc.png)T2】](https://i1.wp.com/fossnaija.com/wp-content/uploads/2018/02/freeCAD_banner_fossnaija_1.png?ssl=1)
 
 [FreeCAD](http://www.freecadweb.org/) 是一个[参数化](https://en.wikipedia.org/wiki/Solid_modeling#Parametric_and_featurebased_modeling)开源 CAD 程序，它能够设计“任何尺寸的真实物体”，尽管很明显许多展示的[用户创建的例子](http://forum.freecadweb.org/viewforum.php?f=24)是更小的物体，但没有具体的理由它不能用于建筑应用。FreeCAD 主要是用 C++编写的，如果你是一个 Python 程序员，你会希望利用它的 Python 接口来扩展和自动化 FreeCAD。
 
@@ -42,7 +42,7 @@ FreeCAD 可以导入和导出各种常见格式的 3D 对象，其模块化架�
 
 ## **自由 eCAD**
 
-[![libreCAD banner](../Images/cabffca7be590ded139f65f1c8a25725.png)T2】](https://i0.wp.com/fossnaija.com/wp-content/uploads/2018/02/libreCAD_banner_fossnaija_2.png?ssl=1)
+[![libreCAD banner](img/cabffca7be590ded139f65f1c8a25725.png)T2】](https://i0.wp.com/fossnaija.com/wp-content/uploads/2018/02/libreCAD_banner_fossnaija_2.png?ssl=1)
 
 LibreCAD 是另一个 CAD 程序，它可以在 Windows、Mac 和 Linux 上运行。作为 QCAD 的一个分支(下面会提到)，LibreCAD 有一个 AutoCAD 用户熟悉的界面，默认情况下，它使用 AutoCAD DXF 格式进行导入和保存，尽管它也可以使用其他格式。
 

@@ -17,11 +17,11 @@ DataDigger 是一款面向 OpenEdge 开发者的开源数据库浏览器。它�
 
 虽然一切顺利，但感觉并不好:
 
-[![9xkdeni](../Images/08590daeb1abda639b1e946cba6c54e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3WAqtEP6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datadigger.files.wordpress.com/2018/04/9xkdeni.png%3Fw%3D840)
+[![9xkdeni](img/08590daeb1abda639b1e946cba6c54e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3WAqtEP6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datadigger.files.wordpress.com/2018/04/9xkdeni.png%3Fw%3D840)
 
 注意到了吗？尤其让我恼火的是:
 
-[![](../Images/0340b245fc6d4f49ba521d399ed97241.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VMPqphhi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/2w3zC8K.png)
+[![](img/0340b245fc6d4f49ba521d399ed97241.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VMPqphhi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/2w3zC8K.png)
 
 连续六个定时器，虽然终端用户并不关心我的设计画布上有多少定时器，但这让我很困扰。我们——开发者——当然可以做得更好。
 
@@ -115,7 +115,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 DataDigger 中使用的代码比上面显示的要复杂一些。首先，它使用缓冲区而不是直接在 ttTimer 上操作，有更多的注释和一些用于边缘情况和调试的代码。保留所有代码会降低可读性，所以我干脆不写了。我做了一个小演示，没有不必要的代码，可以用作概念验证。你可以在 GitHub 上找到代码[。](https://github.com/patrickTingen/BlogSrc/tree/master/2018-04-26)
 
-[![](../Images/b73179e27db63dd9e75c7fb3db37b6b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SWTpqDha--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/U27Ofsq.png)
+[![](img/b73179e27db63dd9e75c7fb3db37b6b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SWTpqDha--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/U27Ofsq.png)
 
 移动滑块来启动计时器，将它们移回零来禁用它们。第一个显示一个时钟，第二个是一个旋转的转子，第三个会在几秒钟后隐藏文本。
 

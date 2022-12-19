@@ -23,7 +23,7 @@
 *   固定的；不变的
 *   亲戚
 
-[![](../Images/0653b5789f779658c415e3bdd80ef6cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7OJiwKSI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AXDzlibMEpQuEbSi685SOzg.png)
+[![](img/0653b5789f779658c415e3bdd80ef6cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7OJiwKSI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AXDzlibMEpQuEbSi685SOzg.png)
 
 为了清楚起见，冰淇淋圣代将由 4 个主要部分组成:
 

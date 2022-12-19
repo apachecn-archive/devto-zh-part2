@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jrking365/imposter-syndrome-5ck4>
 
-[![](../Images/515b4d7991e77da6f286039f154b0f14.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bJRr6rnT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6oby64hf6dk928xm76pg.png) 
+[![](img/515b4d7991e77da6f286039f154b0f14.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bJRr6rnT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6oby64hf6dk928xm76pg.png) 
 [图片来源](https://www.chanty.com/blog/stop-feeling-like-imposter-work/)
 
 我已经学习软件工程将近 5 年了，我一直有一个问题，我一直认为(现在有时仍然如此)我不知道如何编码，我甚至不是普通人，或者他们是许多天才程序员，而我只是一个努力写代码的人。

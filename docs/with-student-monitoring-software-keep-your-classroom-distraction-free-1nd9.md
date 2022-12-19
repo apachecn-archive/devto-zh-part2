@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/carlhand72/with-student-monitoring-software-keep-your-classroom-distraction-free-1nd9>
 
-[![Student Monitoring Software solution](../Images/e87160efc445acdb24273707f08ae7af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DDgBl5Op--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6xsv1k5bl9q90zue0oss.jpg)
+[![Student Monitoring Software solution](img/e87160efc445acdb24273707f08ae7af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DDgBl5Op--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6xsv1k5bl9q90zue0oss.jpg)
 
 教室内的互联网接入为学生访问和学习数量呈指数增长的数字学习材料和网络内容打开了大门。然而，这种无限制的数字学习环境也可能让学生接触到过多的非教育和不适当的在线内容。
 
@@ -36,7 +36,7 @@
 
 **应用限制**
 
-[![Application Limiting For Student Monitoring Software](../Images/b2a1a2e1afceb389095264abb1e56dfa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ce3Uqxas--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ctpj7bhl0bs1pf6l65uj.jpg)
+[![Application Limiting For Student Monitoring Software](img/b2a1a2e1afceb389095264abb1e56dfa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ce3Uqxas--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ctpj7bhl0bs1pf6l65uj.jpg)
 
 学生监控软件可用于限制学生访问未经授权的应用程序。它允许教师和 It 管理员构建一套定制的所需数字资源，供学生研究和学习。在正在进行的课程中，教师可以检查学生设备上正在运行的应用程序列表，并根据正在进行的课程的要求允许/限制他们的访问。
 

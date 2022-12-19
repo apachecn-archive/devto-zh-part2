@@ -6,7 +6,7 @@
 
 在本教程中，您将学习如何使用 Nylas Calendar API，通过一个简单的 Slack slash 命令创建一个调度程序 bot，将事件添加到您的个人日历中。
 
-### ![Slack Bot2 (1)](../Images/85f06e478cab2554a95b65cb8626e7dd.png)
+### ![Slack Bot2 (1)](img/85f06e478cab2554a95b65cb8626e7dd.png)
 
 ## **你事先需要什么**
 
@@ -45,7 +45,7 @@ TLDR；用 Nylas 认证一个帐户以获得访问令牌，用它来获得日历
 
 您将派生并克隆这个存储库，而不仅仅是克隆它，这样您就有了自己的存储库，可以连接到 Heroku。从 Github 开始按照[这些步骤](https://help.github.com/articles/fork-a-repo/)来派生存储库。按照上面的步骤，直到“找到另一个要分叉的存储库”。
 
-[![null](../Images/378ed80661009b9027d3fd5064177c50.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kPBMfmHH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_9E966E4D153A92A6C1EE7A51F0576B6B726D6CE9A933DDB5AB33E608A1C0317A_1531330588485_image.png)
+[![null](img/378ed80661009b9027d3fd5064177c50.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kPBMfmHH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_9E966E4D153A92A6C1EE7A51F0576B6B726D6CE9A933DDB5AB33E608A1C0317A_1531330588485_image.png)
 
 之后，您将拥有一个名为`slackbot`的目录的本地副本。该目录有五个文件:
 
@@ -79,7 +79,7 @@ TLDR；用 Nylas 认证一个帐户以获得访问令牌，用它来获得日历
 
 您应该看到:
 
-[![null](../Images/1a53a14b49d441de5f3ed4c83beda7c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dbwb43x---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_9E966E4D153A92A6C1EE7A51F0576B6B726D6CE9A933DDB5AB33E608A1C0317A_1531180157293_Screen%2BShot%2B2018-07-09%2Bat%2B4.46.21%2BPM.png)
+[![null](img/1a53a14b49d441de5f3ed4c83beda7c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dbwb43x---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_9E966E4D153A92A6C1EE7A51F0576B6B726D6CE9A933DDB5AB33E608A1C0317A_1531180157293_Screen%2BShot%2B2018-07-09%2Bat%2B4.46.21%2BPM.png)
 
 如果你访问第四行的网址，你会看到`Howdy Hacker!`
 
@@ -101,7 +101,7 @@ Heroku 与 Github 集成，支持自动部署。这意味着无论何时你将�
 
 在创建应用程序后重定向到的部署页面上，在**部署方法**部分，点击`Connect to GitHub`，然后在**连接 Github** 部分，点击`Connect to GitHub`按钮。
 
-[![null](../Images/14c81c18d2890ec41d33ff61fc69ceac.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rOEdIWy3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_9E966E4D153A92A6C1EE7A51F0576B6B726D6CE9A933DDB5AB33E608A1C0317A_1531183138050_Screen%2BShot%2B2018-07-09%2Bat%2B5.25.56%2BPM.png)T4】
+[![null](img/14c81c18d2890ec41d33ff61fc69ceac.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rOEdIWy3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_9E966E4D153A92A6C1EE7A51F0576B6B726D6CE9A933DDB5AB33E608A1C0317A_1531183138050_Screen%2BShot%2B2018-07-09%2Bat%2B5.25.56%2BPM.png)T4】
 
 接下来，您将被带到一个页面，在这里您可以选择要连接的存储库。如果您已经在 github 帐户下成功创建了一个存储库，那么当您开始在输入中键入存储库名称时，它应该会出现。
 
@@ -109,7 +109,7 @@ Heroku 与 Github 集成，支持自动部署。这意味着无论何时你将�
 
 重要的是要注意，如果您开始在一个分支而不是主分支上工作，那么您将不会有自动部署。您可以从另一个分支手动部署代码，如果您将代码推送到另一个分支，从 manual deploy 部分选择该分支并单击`Deploy Branch`。
 
-[![image_preview-1](../Images/f6338a33d577a084978498e82459da63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bwF_Y8DS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/image_preview-1.png)
+[![image_preview-1](img/f6338a33d577a084978498e82459da63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bwF_Y8DS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/image_preview-1.png)
 
 保持 Heroku 开放，因为您将在第 4 部分第 3 步中用到它。
 
@@ -149,17 +149,17 @@ def homepage():
 
 前往[https://dashboard.nylas.com/register](https://dashboard.nylas.com/register)注册一个免费的 Nylas 账户，或者前往[https://dashboard.nylas.com/sign-in](https://dashboard.nylas.com/sign-in)注册一个现有账户。一旦你登录到 Nylas 仪表板，点击左侧栏中的帐户。
 
-[![null](../Images/4a11015a2922505a2d0ca191e9d913dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qkntjU8l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_9E966E4D153A92A6C1EE7A51F0576B6B726D6CE9A933DDB5AB33E608A1C0317A_1531260178164_Screen%2BShot%2B2018-07-10%2Bat%2B2.56.06%2BPM.png)
+[![null](img/4a11015a2922505a2d0ca191e9d913dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qkntjU8l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_9E966E4D153A92A6C1EE7A51F0576B6B726D6CE9A933DDB5AB33E608A1C0317A_1531260178164_Screen%2BShot%2B2018-07-10%2Bat%2B2.56.06%2BPM.png)
 
 在帐户页面上，点击右上角的`Auth Account`,或者如果您之前没有授权的帐户，点击页面中间的`Auth Account`。
 
-[![null](../Images/7f438fe90802bbfb58bec69fbeae14da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iAA36WJv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_9E966E4D153A92A6C1EE7A51F0576B6B726D6CE9A933DDB5AB33E608A1C0317A_1531260180284_Screen%2BShot%2B2018-07-10%2Bat%2B2.55.47%2BPM.png)
+[![null](img/7f438fe90802bbfb58bec69fbeae14da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iAA36WJv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_9E966E4D153A92A6C1EE7A51F0576B6B726D6CE9A933DDB5AB33E608A1C0317A_1531260180284_Screen%2BShot%2B2018-07-10%2Bat%2B2.55.47%2BPM.png)
 
 在弹出的输入窗口中，键入与您想要添加事件的日历相关联的电子邮件地址，然后执行验证步骤。
 
 完成身份验证后，您将被重定向回控制面板的帐户页面。页面顶部会有一个蓝色的通知，看起来像是:
 
-[![image_preview-2](../Images/2ad8cf0b7089cea39dbd78d5f78ab248.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mJ_XfN-1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/image_preview-2.png)
+[![image_preview-2](img/2ad8cf0b7089cea39dbd78d5f78ab248.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mJ_XfN-1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/image_preview-2.png)
 
 从蓝色通知中，将访问令牌的值复制到一个临时位置—您将在下面的两个步骤中需要这个令牌。在这个例子中，访问令牌是`xyz123xyz123xyz123xyz123xyz123.`
 
@@ -177,11 +177,11 @@ def homepage():
 
 将您的访问令牌粘贴到这个端点部分的输入底部的`Authorization`输入字段中。
 
-[![null](../Images/9c43f228c5bfa485dcc4665d1223dcf6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qwNucD3F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_9E966E4D153A92A6C1EE7A51F0576B6B726D6CE9A933DDB5AB33E608A1C0317A_1531262232159_Screen%2BShot%2B2018-07-10%2Bat%2B3.32.36%2BPM.png)
+[![null](img/9c43f228c5bfa485dcc4665d1223dcf6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qwNucD3F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_9E966E4D153A92A6C1EE7A51F0576B6B726D6CE9A933DDB5AB33E608A1C0317A_1531262232159_Screen%2BShot%2B2018-07-10%2Bat%2B3.32.36%2BPM.png)
 
 如果你再向上滚动到上面黑框中的代码，`authorization:`将会自动填写。
 
-[![null](../Images/30cd1bced227a251960ec306f559687e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ovYgmepa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_9E966E4D153A92A6C1EE7A51F0576B6B726D6CE9A933DDB5AB33E608A1C0317A_1531262370948_Screen%2BShot%2B2018-07-10%2Bat%2B3.35.36%2BPM.png)
+[![null](img/30cd1bced227a251960ec306f559687e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ovYgmepa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_9E966E4D153A92A6C1EE7A51F0576B6B726D6CE9A933DDB5AB33E608A1C0317A_1531262370948_Screen%2BShot%2B2018-07-10%2Bat%2B3.35.36%2BPM.png)
 
 接下来，点击右上角的`Try It`。这将在左边运行`cURL`请求，用您的访问令牌点击 Nylas API，并在右边显示响应。这将是您的日历列表。
 
@@ -203,11 +203,11 @@ def homepage():
 
 这是我看到的样子:
 
-[![image_preview-3](../Images/23a65e83a08bf71b5dc68412d5338daf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hsbF7RgQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/image_preview-3.png)
+[![image_preview-3](img/23a65e83a08bf71b5dc68412d5338daf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hsbF7RgQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/image_preview-3.png)
 
 或使用 UTC 偏移:
 
-[![null](../Images/d2dde1ed5b0b5d77ca764b081c385b6e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ArS1KSHv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_9E966E4D153A92A6C1EE7A51F0576B6B726D6CE9A933DDB5AB33E608A1C0317A_1531264746932_Screen%2BShot%2B2018-07-10%2Bat%2B4.12.02%2BPM.png)
+[![null](img/d2dde1ed5b0b5d77ca764b081c385b6e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ArS1KSHv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_9E966E4D153A92A6C1EE7A51F0576B6B726D6CE9A933DDB5AB33E608A1C0317A_1531264746932_Screen%2BShot%2B2018-07-10%2Bat%2B4.12.02%2BPM.png)
 
 很好，现在 Heroku 中的所有东西都配置好了，我们可以开始令人兴奋的下一步了。
 
@@ -217,7 +217,7 @@ def homepage():
 
 去 https://api.slack.com/apps?new_app=1。这是构建新的 Slack 应用程序的登录页面。
 
-[![null](../Images/e0db7edc2082da7bca268e870f201c2c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--flU5ZxEo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_23A4CD528EBB9FE5912B9C3F2BF4F0B1B5BDBBA2881E8512A634DDE0D3EF3B57_1530226678465_Screen%2BShot%2B2018-06-28%2Bat%2B3.56.58%2BPM.png)
+[![null](img/e0db7edc2082da7bca268e870f201c2c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--flU5ZxEo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_23A4CD528EBB9FE5912B9C3F2BF4F0B1B5BDBBA2881E8512A634DDE0D3EF3B57_1530226678465_Screen%2BShot%2B2018-06-28%2Bat%2B3.56.58%2BPM.png)
 
 如果上面的弹出窗口没有出现，点击`Create New App`。
 
@@ -229,11 +229,11 @@ def homepage():
 
 您将被带到一个应用仪表板。在这里，对于您想要构建什么类型的应用程序和功能，有很多选择。您将创建一个斜线命令，因此选择`Slash Commands`选项。
 
-[![null](../Images/08cc429399128782cf9673cd305c0f89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YovQjVTc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_23A4CD528EBB9FE5912B9C3F2BF4F0B1B5BDBBA2881E8512A634DDE0D3EF3B57_1530227635007_Screen%2BShot%2B2018-06-28%2Bat%2B4.06.17%2BPM.png)
+[![null](img/08cc429399128782cf9673cd305c0f89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YovQjVTc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_23A4CD528EBB9FE5912B9C3F2BF4F0B1B5BDBBA2881E8512A634DDE0D3EF3B57_1530227635007_Screen%2BShot%2B2018-06-28%2Bat%2B4.06.17%2BPM.png)
 
 然后选择`Create New Command`。这将带您进入斜线命令配置表单。
 
-[![null](../Images/aa793fdea9dd84325fb53969e81a631d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kNj9Zbdo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_9E966E4D153A92A6C1EE7A51F0576B6B726D6CE9A933DDB5AB33E608A1C0317A_1531184636689_Screen%2BShot%2B2018-07-09%2Bat%2B5.58.05%2BPM.png)
+[![null](img/aa793fdea9dd84325fb53969e81a631d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kNj9Zbdo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_9E966E4D153A92A6C1EE7A51F0576B6B726D6CE9A933DDB5AB33E608A1C0317A_1531184636689_Screen%2BShot%2B2018-07-09%2Bat%2B5.58.05%2BPM.png)
 
 **命令**
 
@@ -255,7 +255,7 @@ def homepage():
 
 对于我的，我把`Adds an event to my calendar!`
 
-[![null](../Images/e046afbc1a7dd2bd87d256dd8f6e3ea3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C1y3_qZB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_9E966E4D153A92A6C1EE7A51F0576B6B726D6CE9A933DDB5AB33E608A1C0317A_1531185146535_Screen%2BShot%2B2018-07-09%2Bat%2B6.12.13%2BPM.png)
+[![null](img/e046afbc1a7dd2bd87d256dd8f6e3ea3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C1y3_qZB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_9E966E4D153A92A6C1EE7A51F0576B6B726D6CE9A933DDB5AB33E608A1C0317A_1531185146535_Screen%2BShot%2B2018-07-09%2Bat%2B6.12.13%2BPM.png)
 
 **用法提示**
 
@@ -271,7 +271,7 @@ def homepage():
 
 在工具条上，点击`Install App`
 
-[![null](../Images/2b34549cb95fd5251b26e14948677d74.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UhmSmGah--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_9E966E4D153A92A6C1EE7A51F0576B6B726D6CE9A933DDB5AB33E608A1C0317A_1531859978889_image.png)
+[![null](img/2b34549cb95fd5251b26e14948677d74.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UhmSmGah--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_9E966E4D153A92A6C1EE7A51F0576B6B726D6CE9A933DDB5AB33E608A1C0317A_1531859978889_image.png)
 
 按照步骤在您的工作区安装应用程序。没有这一步，你的工作空间就不会知道你的应用和它的斜杠命令。
 
@@ -304,7 +304,7 @@ if __name__ == '__main__':
 
 然后，进入你的空闲工作区，输入`/scheduleme`并按回车键。您的机器人应该响应:
 
-[![null](../Images/4ca45bb27ccc6254ee123bb7e9f8af5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tEyrKclT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_9E966E4D153A92A6C1EE7A51F0576B6B726D6CE9A933DDB5AB33E608A1C0317A_1531256268768_Screen%2BShot%2B2018-07-10%2Bat%2B1.57.06%2BPM.png)
+[![null](img/4ca45bb27ccc6254ee123bb7e9f8af5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tEyrKclT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_9E966E4D153A92A6C1EE7A51F0576B6B726D6CE9A933DDB5AB33E608A1C0317A_1531256268768_Screen%2BShot%2B2018-07-10%2Bat%2B1.57.06%2BPM.png)
 
 你已经正式制作了一个 Slack 机器人！现在让我们添加一些功能！
 
@@ -417,11 +417,11 @@ if __name__ == '__main__':
 
 添加、提交和推送这段代码！要测试它，键入一个完整的`/scheduleme`命令来松弛，如下所示:
 
-[![image_preview-5](../Images/f167977358cb479ede6720d1c69abdb9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--acsoJZwq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/image_preview-5.png)
+[![image_preview-5](img/f167977358cb479ede6720d1c69abdb9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--acsoJZwq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/image_preview-5.png)
 
 您应该会看到:
 
-[![null](../Images/95fbf4a8683c069389d216976a54e2e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---1XRs5J8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_9E966E4D153A92A6C1EE7A51F0576B6B726D6CE9A933DDB5AB33E608A1C0317A_1531258937486_Screen%2BShot%2B2018-07-10%2Bat%2B2.41.35%2BPM.png)
+[![null](img/95fbf4a8683c069389d216976a54e2e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---1XRs5J8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_9E966E4D153A92A6C1EE7A51F0576B6B726D6CE9A933DDB5AB33E608A1C0317A_1531258937486_Screen%2BShot%2B2018-07-10%2Bat%2B2.41.35%2BPM.png)
 
 ## **第 5 部分:构建调度功能**
 

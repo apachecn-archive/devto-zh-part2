@@ -37,7 +37,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我原以为这些结果会比实际情况更有趣。结果基本上和你预期的一模一样。
 
-[![Bar chart of internet speeds](../Images/8b2b39e448fbed9e70d2ee65331d47ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1d1AkTB1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r2qit8lyhqbcx4w4u1m0.png)
+[![Bar chart of internet speeds](img/8b2b39e448fbed9e70d2ee65331d47ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1d1AkTB1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r2qit8lyhqbcx4w4u1m0.png)
 
 令我惊讶的是，有很多人的网速低于 5 mbps(我们向你致敬)，但更令人惊讶的是，有很多人不知道自己的网速是多少。差不多 200！但是，本着开发人员的精神，嘲笑任何人都没有任何好处。我们将把这作为一个教学时刻！
 
@@ -68,19 +68,19 @@ Enter fullscreen mode Exit fullscreen mode
 
 > 你经常承担哪些软件开发角色？
 
-[![Bar chart of the different roles](../Images/894f5b232cd3d7a9a77a1332f51a817f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UxLXw5ft--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/chhuz4jwk1cimnkvlnlx.png)
+[![Bar chart of the different roles](img/894f5b232cd3d7a9a77a1332f51a817f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UxLXw5ft--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/chhuz4jwk1cimnkvlnlx.png)
 
 相当健康的传播！
 
 > 您目前在使用哪些前端 JavaScript 框架？
 
-[![Bar chart of frameworks](../Images/290ef4c7a5731432e9b3618b4869a1af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_HBDnOF8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/95tactgxvdqt7r0ccaqi.png)
+[![Bar chart of frameworks](img/290ef4c7a5731432e9b3618b4869a1af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_HBDnOF8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/95tactgxvdqt7r0ccaqi.png)
 
 完全不使用任何框架的人(实际上大多数时候包括我)占总数的 15%。
 
 > 使用 CSS 时，您会使用以下哪一项？
 
-[![Bar chart of CSS](../Images/8124fabc51ca6eebe2147ac55041a2f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fKEj0dn5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/00outthzrsqwxz3lrw18.png)
+[![Bar chart of CSS](img/8124fabc51ca6eebe2147ac55041a2f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fKEj0dn5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/00outthzrsqwxz3lrw18.png)
 
 使用 Flexbox 的人比使用任何类型的预处理器的人都多！介意。吹了。再说一次，我很感兴趣。如果你不用像 Sass 或 Less 或 Stylus 这样的 css 预处理程序，请告诉我为什么不用！
 
@@ -92,7 +92,7 @@ CSS Grid 也越来越受欢迎，这很好。因为太牛逼了。
 
 在这张图上，数据没有我用来展示它的酷图有趣。堆叠的 HBar！
 
-[![Horizontal bar graph of the results](../Images/51d610f86c243a13874f4ff86177d969.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZGYjpNLD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o1sb44omnwt8p9igldkg.png)
+[![Horizontal bar graph of the results](img/51d610f86c243a13874f4ff86177d969.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZGYjpNLD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o1sb44omnwt8p9igldkg.png)
 
 就我个人而言，我对很少有人做 TDD，以及很多人认为浏览器应该强迫人们接受 JavaScript 感到惊讶。
 
@@ -104,7 +104,7 @@ CSS Grid 也越来越受欢迎，这很好。因为太牛逼了。
 > 
 > 你从事软件工作多久了，以年计？
 
-[![Bar plot of age categories](../Images/baf1fc618b730ba88a552ac30fa8be12.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gF2u64N3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yky3tw63nv7eqf52c0ck.png)
+[![Bar plot of age categories](img/baf1fc618b730ba88a552ac30fa8be12.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gF2u64N3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yky3tw63nv7eqf52c0ck.png)
 
 这是一个非常简洁的图表！和那些 17 岁以下的人击掌吧！实际上，更大的击掌给 60 岁以上的人群！我不得不稍微调整一下数据来解释异常值。更多信息请见底部。
 
@@ -130,7 +130,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 正如你所看到的，最准确的数据是“猫/狗/都不是”的问题——这是应该的。因为只有大约 1900 份提交，你可以看到我们几乎没有收到任何“电话类型”的提交，只有大约 300 份“性别身份”的提交。
 
-[![Pie charts of the demographics data](../Images/bb6077540a27dd44aea80dd6eac56670.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZaYbveyO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0rm2wl56nw2w5368vuls.png)
+[![Pie charts of the demographics data](img/bb6077540a27dd44aea80dd6eac56670.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZaYbveyO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0rm2wl56nw2w5368vuls.png)
 
 养猫的人比养狗的人少，我有点郁闷。我对一小部分女性和其他回应者感到非常失望。我只能希望留下空白的 1600 名响应者有更好的代表性。
 

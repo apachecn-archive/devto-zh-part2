@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/xongolabtechno/customized-apps-easier-way-to-have-success-in-business-2561>
 
-[![](../Images/01470b15de27d2cc65f9131636a56f8b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iASr8czD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.xongolab.com/blog/wp-content/uploads/2018/05/on-demand-app.jpeg)
+[![](img/01470b15de27d2cc65f9131636a56f8b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iASr8czD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.xongolab.com/blog/wp-content/uploads/2018/05/on-demand-app.jpeg)
 
 现在，每一个独家业务都有定制应用程序的想法。所有行业都面临着更激烈的竞争，原因是全新的初创 v/s 企业。这些公司想为顾客提供独家服务，并在市场上创造更高的地位。与前几年相比，现在他们已经将重心转移到服务更个性化的产品上。
 

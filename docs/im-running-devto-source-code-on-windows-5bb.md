@@ -8,7 +8,7 @@
 
 我已经阅读了文档和 gorails 教程，现在该站点在我的本地主机上运行良好。更多细节，你可以看我对这个问题的评论
 
-[![nathansebhastian avatar](../Images/89f518b03fae50ac943de81cb8f8427f.png) ](https://github.com/nathansebhastian)  **[nathansebhastian](https://github.com/nathansebhastian)** commented on [Sep 09, 2018](https://github.com/thepracticaldev/dev.to/issues/306#issuecomment-419692198)
+[![nathansebhastian avatar](img/89f518b03fae50ac943de81cb8f8427f.png) ](https://github.com/nathansebhastian)  **[nathansebhastian](https://github.com/nathansebhastian)** commented on [Sep 09, 2018](https://github.com/thepracticaldev/dev.to/issues/306#issuecomment-419692198)
 
 大家好，
 
@@ -68,9 +68,9 @@
 
 18.  打开 Windows Chrome，点击 localhost:3000
 
-[![dev to running on windows](../Images/df4976c5bd790cbe44cb5e1246a7b3b0.png)T2】](https://user-images.githubusercontent.com/10413648/45261385-c2862f00-b42a-11e8-9eba-38f230426bcf.png)
+[![dev to running on windows](img/df4976c5bd790cbe44cb5e1246a7b3b0.png)T2】](https://user-images.githubusercontent.com/10413648/45261385-c2862f00-b42a-11e8-9eba-38f230426bcf.png)
 
-[![dev to running on windows 2](../Images/b2250c6e0ac8ffcdecab17a404f71b95.png)T2】](https://user-images.githubusercontent.com/10413648/45261389-d03bb480-b42a-11e8-9d80-13bd64a4a342.png)
+[![dev to running on windows 2](img/b2250c6e0ac8ffcdecab17a404f71b95.png)T2】](https://user-images.githubusercontent.com/10413648/45261389-d03bb480-b42a-11e8-9d80-13bd64a4a342.png)
 
 我没有做任何事情，除了浏览周围，将包括其他 API 键，并尝试注册后，看看控制台是否会产生一些错误。我希望这有所帮助。
 

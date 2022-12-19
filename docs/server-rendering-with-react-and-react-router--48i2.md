@@ -22,13 +22,13 @@
 
 3)它呈现应用程序的主要组件，并将其包装在标准的 html 文档(DOCTYPE、HTML、head、body 等)中，然后将整个内容作为响应发送回来。
 
-[![SSR response](../Images/d7fa9380a71d0869f9a0f1c7375dd457.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LPFVOgBg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tylermcginnis.com/static/891375429d05b32d5742de8078102a0d-77d4f.png)
+[![SSR response](img/d7fa9380a71d0869f9a0f1c7375dd457.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LPFVOgBg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tylermcginnis.com/static/891375429d05b32d5742de8078102a0d-77d4f.png)
 
 4)浏览器看到它从服务器获得了一个 HTML 文档，并且它的[渲染引擎开始工作](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)。它很快就完成了页面的呈现。
 
 5)此时，**页面可见**，浏览器开始下载任何脚本。
 
-[![Download waterfall](../Images/c0025993ea7cd8960a641cfeca3d8df7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fW9qeV1U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tylermcginnis.com/static/90cd5d58ebc514b289ec0db73f6a4fa4-fed13.png)
+[![Download waterfall](img/c0025993ea7cd8960a641cfeca3d8df7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fW9qeV1U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tylermcginnis.com/static/90cd5d58ebc514b289ec0db73f6a4fa4-fed13.png)
 
 6)一旦脚本被下载，React 接管并且页面是交互式的。
 

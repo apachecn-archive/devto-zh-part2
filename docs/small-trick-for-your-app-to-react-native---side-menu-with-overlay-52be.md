@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/gaserd/small-trick-for-your-app-to-react-native---side-menu-with-overlay-52be>
 
-[![Side Menu](../Images/b9d4dca53ad4c4830cda4ccb307c1334.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LgCeQ1oP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5lgsd81w3d77fdgsusbj.png)
+[![Side Menu](img/b9d4dca53ad4c4830cda4ccb307c1334.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LgCeQ1oP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5lgsd81w3d77fdgsusbj.png)
 
 大家好！
 
@@ -154,4 +154,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 它是如何工作的？
 
-[![chick](../Images/b7e29883fafec3d6b2467ba0be5c7f96.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--22TVw2fA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://im.ezgif.com/tmp/ezgif-1-d597dfb718.gif)
+[![chick](img/b7e29883fafec3d6b2467ba0be5c7f96.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--22TVw2fA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://im.ezgif.com/tmp/ezgif-1-d597dfb718.gif)

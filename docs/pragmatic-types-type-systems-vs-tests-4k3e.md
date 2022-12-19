@@ -17,7 +17,7 @@
 
 简化的模式如下所示:
 
-[![](../Images/2425b261f30b529cb78e84e351465e3b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YIefgqbH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/veud7eoptty10opiig5o.png)
+[![](img/2425b261f30b529cb78e84e351465e3b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YIefgqbH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/veud7eoptty10opiig5o.png)
 
 ## 一种提高打字系统有效性的方法和其他防错方法
 
@@ -43,7 +43,7 @@
 
 但是以上这些和形式验证比起来都不算什么，像 TLA+，达芙妮，F 星等等。
 
-[![map](../Images/0d50b687f2f9cec98c0f6891fdfdf26e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eCzmrGmE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yyjie9qhewoy00nxkcqp.png)
+[![map](img/0d50b687f2f9cec98c0f6891fdfdf26e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eCzmrGmE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yyjie9qhewoy00nxkcqp.png)
 
 结论:
 

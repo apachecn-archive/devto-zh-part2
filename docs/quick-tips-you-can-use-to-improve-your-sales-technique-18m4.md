@@ -4,7 +4,7 @@
 
 销售和营销是一个行业中最具活力和进取心的领域之一。每天都要想出一个新的计划来巩固自己在市场中的存在。过去对公司有效的计划对今天的产品和服务可能不可行。因此，我们需要时刻关注市场的变化和客户行为的变化。
 
-[![](../Images/1ba2935447339b24282bde4430e5acbb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fyP-t6wZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/0%2AncRYETGt2odXaFKJ.jpg)
+[![](img/1ba2935447339b24282bde4430e5acbb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fyP-t6wZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/0%2AncRYETGt2odXaFKJ.jpg)
 
 要达到顶峰，竞争确实很激烈。无论你身处哪个行业，竞争格局都会在一瞬间发生变化。你几乎没有时间坐下来反思错误。
 

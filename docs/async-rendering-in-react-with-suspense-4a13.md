@@ -4,7 +4,7 @@
 
 ### 异步渲染在反应中带有悬念
 
-[![](../Images/62ad4297eb31431f4841486106feae8a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TDiCBDYp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ay6C4nSvy2Woe0m7bWEn4BA.png)
+[![](img/62ad4297eb31431f4841486106feae8a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TDiCBDYp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ay6C4nSvy2Woe0m7bWEn4BA.png)
 
 **什么是悬念？**
 
@@ -14,7 +14,7 @@
 
 在本文中，我们将探索悬念，看看这个特性将对 React 应用程序的构建方式产生什么样的潜在影响。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 **为什么要悬疑？**
 
@@ -283,7 +283,7 @@ export default class App extends React.Component {
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

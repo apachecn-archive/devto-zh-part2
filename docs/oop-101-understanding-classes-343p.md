@@ -106,7 +106,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在此图中，您可以看到 car 和 truck 的变量指向同一个 Vehicle 实例。所以改变其中任何一个都会有效地改变两者。
 
-[![](../Images/8410af07653cacfead8225f555d218b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DG50nQqL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dzf8vqv24eqhg.cloudfront.net/userfiles/1539/2321/ckfinder/images/OOPSameInstance.png%3Fdc%3D201509081753-26)
+[![](img/8410af07653cacfead8225f555d218b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DG50nQqL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dzf8vqv24eqhg.cloudfront.net/userfiles/1539/2321/ckfindimg/OOPSameInstance.png%3Fdc%3D201509081753-26)
 
 如果您想要创建一个类的副本，您需要创建一个新的实例(使用 new 关键字),然后复制它的单个属性，如下所示:
 
@@ -126,7 +126,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当你这样做的时候，你会得到两个独立的实例。正如您在这些图表中看到的，对其中一个的更改不会影响另一个:
 
-[![](../Images/3bf33fc834c946254d0b68bc580b3f3c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EieD3wHR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dzf8vqv24eqhg.cloudfront.net/userfiles/1539/2321/ckfinder/images/OOPDiffInstances.png%3Fdc%3D201509081756-40)
+[![](img/3bf33fc834c946254d0b68bc580b3f3c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EieD3wHR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dzf8vqv24eqhg.cloudfront.net/userfiles/1539/2321/ckfindimg/OOPDiffInstances.png%3Fdc%3D201509081756-40)
 
 ## 向项目中添加类
 

@@ -10,7 +10,7 @@
 
 [@bosepchuk](https://dev.to/bosepchuk) 在一篇名为 **[的帖子中谈到了有效的领导和团队友爱为什么软件行业竞争如此激烈？](https://dev.to/ben/why-is-the-software-industry-so-competitive-1hem)** :
 
-[![bosepchuk profile image](../Images/38df937ac4846bd65833649125cc0088.png) ](/bosepchuk) [ Blaine Osepchuk ](/bosepchuk) • [<time datetime="2018-11-17T15:04:43Z" class="date-short-year"> Nov 17 '18 </time>](https://dev.to/bosepchuk/comment/70b3) 
+[![bosepchuk profile image](img/38df937ac4846bd65833649125cc0088.png) ](/bosepchuk) [ Blaine Osepchuk ](/bosepchuk) • [<time datetime="2018-11-17T15:04:43Z" class="date-short-year"> Nov 17 '18 </time>](https://dev.to/bosepchuk/comment/70b3) 
 
 我同意，这不健康。虽然没有一个因素是唯一的责任，但我认为无效的领导是我们行业的一个大问题。
 
@@ -22,7 +22,7 @@
 
 对于这个“前 5 名”系列中的第一个团队，我们以来自同一主题的连续评论为特色。整个对话值得一读，但你可能想从这个顶级交流开始。首先， [@davidszabo97](https://dev.to/davidszabo97) 回答 **[的提示我们开发者是在帮助谷歌建立一个不可阻挡的垄断吗？](https://dev.to/sarthology/are-we-developers-helping-google-build-an-unstoppable-monopoly--39ki)** :
 
-[![davidszabo97 profile image](../Images/ca6832aeaf8353dc6075a3b19a5e4dba.png) ](/davidszabo97) [ Dávid Szabó ](/davidszabo97) • [<time datetime="2018-11-14T09:17:07Z" class="date-short-year"> Nov 14 '18 </time>](https://dev.to/davidszabo97/comment/6o27) 
+[![davidszabo97 profile image](img/ca6832aeaf8353dc6075a3b19a5e4dba.png) ](/davidszabo97) [ Dávid Szabó ](/davidszabo97) • [<time datetime="2018-11-14T09:17:07Z" class="date-short-year"> Nov 14 '18 </time>](https://dev.to/davidszabo97/comment/6o27) 
 
 谷歌让你的生活变得轻松了吗？
 
@@ -45,7 +45,7 @@
 
 [@sarthology](https://dev.to/sarthology) 贴心回复:
 
-[![sarthology profile image](../Images/bfc22943e5194e42b2d330c7b7b9df68.png) ](/sarthology) [ Sarthak Sharma ](/sarthology) • [<time datetime="2018-11-14T09:31:34Z" class="date-short-year"> Nov 14 '18 </time>](https://dev.to/sarthology/comment/6o2c) 
+[![sarthology profile image](img/bfc22943e5194e42b2d330c7b7b9df68.png) ](/sarthology) [ Sarthak Sharma ](/sarthology) • [<time datetime="2018-11-14T09:31:34Z" class="date-short-year"> Nov 14 '18 </time>](https://dev.to/sarthology/comment/6o2c) 
 
 问题不在于它们是否让我们的生活变得轻松。更重要的是，我们是否应该让他们建立垄断。记得谷歌最初免费提供地图 API 只是为了扼杀竞争，现在当他们拥有大部分市场时，它不再是完全免费的了。很多小公司都在抱怨。
 
@@ -53,7 +53,7 @@
 
 我们将在本周结束招聘开发者指南的学习。 [@rrampage](https://dev.to/rrampage) 以深思熟虑和建设性的方式挑战了原帖的一些要点:
 
-[![rrampage profile image](../Images/7c8fcb60282be937fb7f1f8b3adc8b20.png) ](/rrampage) [ Raunak Ramakrishnan ](/rrampage) • [<time datetime="2018-11-15T09:09:38Z" class="date-short-year"> Nov 15 '18 </time> • Edited on <time datetime="2018-11-15T10:29:17Z" class="hidden m:inline-block date-no-year">Nov 15</time>](https://dev.to/rrampage/comment/6okg) 
+[![rrampage profile image](img/7c8fcb60282be937fb7f1f8b3adc8b20.png) ](/rrampage) [ Raunak Ramakrishnan ](/rrampage) • [<time datetime="2018-11-15T09:09:38Z" class="date-short-year"> Nov 15 '18 </time> • Edited on <time datetime="2018-11-15T10:29:17Z" class="hidden m:inline-block date-no-year">Nov 15</time>](https://dev.to/rrampage/comment/6okg) 
 
 嗨，彼得，
 

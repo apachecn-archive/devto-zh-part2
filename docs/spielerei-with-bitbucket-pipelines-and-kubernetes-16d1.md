@@ -14,7 +14,7 @@
 
 使用您的 Bitbucket 帐户登录并创建一个存储库
 
-[![Create repository](../Images/0f9872a803adab3cf0f584ed6b8b529b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AnhfQyQh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/chxhruvbslna2p9fdy79.png)
+[![Create repository](img/0f9872a803adab3cf0f584ed6b8b529b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AnhfQyQh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/chxhruvbslna2p9fdy79.png)
 
 单击“创建存储库”后，您将可以使用一个空存储库。
 
@@ -77,13 +77,13 @@ git push
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Enable Pipelines](../Images/b5c5a14888ea18adcecc372438e80f3b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rES6qf3t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bu2zgh6m6d8kksxqcpgc.png)
+[![Enable Pipelines](img/b5c5a14888ea18adcecc372438e80f3b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rES6qf3t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bu2zgh6m6d8kksxqcpgc.png)
 
 单击 Enable 启动您的第一个构建！
 
 如果一切顺利的话，你最终会得到这样一个屏幕。
 
-[![First build!](../Images/bbc609a9f4785d54b9b2f858c50dd915.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rWKyWnKV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2yniul8jxrtarzms28se.png)
+[![First build!](img/bbc609a9f4785d54b9b2f858c50dd915.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rWKyWnKV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2yniul8jxrtarzms28se.png)
 
 调查所执行步骤的日志，这样您就可以对 UI 有所了解，并知道出现问题时应该去哪里查找。
 
@@ -124,7 +124,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 再说一次，如果一切顺利，您最终应该会看到这样的屏幕。
 
-[![Build #2](../Images/232029858d075514d50ea23cd77140da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o01R7zme--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ardfkwj6bmrn0cbq1ilk.png)
+[![Build #2](img/232029858d075514d50ea23cd77140da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o01R7zme--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ardfkwj6bmrn0cbq1ilk.png)
 
 与前一个屏幕的一个不同之处是日志概览中`Build`选项卡旁边的`docker`选项卡。这是 docker 守护进程，随您的构建一起启动，能够运行`docker`命令。
 
@@ -144,7 +144,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 打开 Bitbucket 项目，点击 Settings-> environmental variables，添加一个环境变量(如`GCR_KEY`)，以 JSON key 文件的内容作为值。选中安全复选框，然后单击添加。
 
-[![Environment variables](../Images/a8a572547bcda8627fb947d023c76d20.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_9j33lIO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cr4e5t46wh9hck5piq4e.png)
+[![Environment variables](img/a8a572547bcda8627fb947d023c76d20.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_9j33lIO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cr4e5t46wh9hck5piq4e.png)
 
 然后调整`bitbucket-pipelines.yml`，使其看起来像这样:
 
@@ -182,7 +182,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 构建完成后，您应该会看到这样的屏幕:
 
-[![Push to GCR](../Images/2e83477cac6007948571c2aeb87724b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L46dppBO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/chpt5mw9l5kiqzep0q0u.png)
+[![Push to GCR](img/2e83477cac6007948571c2aeb87724b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L46dppBO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/chpt5mw9l5kiqzep0q0u.png)
 
 可以看到，我们已经成功地使用服务帐户登录，并且能够将容器推送到注册中心。接下来，部署！
 
@@ -236,7 +236,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 复制`ca.crt`后面的值，并在 Bitbucket 中创建一个名为`KUBE_CA`的新的安全环境变量。对`token`后面的值做同样的处理，称之为`KUBE_TOKEN`。
 
-[![Environment variables](../Images/425a305be0513a1678f2aa7d935ed861.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A5cQMUn_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ry1n40otinqqt9rau6lk.png)
+[![Environment variables](img/425a305be0513a1678f2aa7d935ed861.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A5cQMUn_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ry1n40otinqqt9rau6lk.png)
 
 ### 步骤 6c2:授权
 
@@ -317,7 +317,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 提交并推动这些更改，然后等待 Bitbucket 管道发挥它的魔力！
 
-[![Yay!](../Images/18d154994e56de3688d8309856ffa32d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z8KzpYuf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wx1vrz0nx2g9o5jysb1q.png)
+[![Yay!](img/18d154994e56de3688d8309856ffa32d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z8KzpYuf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wx1vrz0nx2g9o5jysb1q.png)
 
 (如果您足够快，可以运行以下命令来跟踪卷展栏的状态)
 

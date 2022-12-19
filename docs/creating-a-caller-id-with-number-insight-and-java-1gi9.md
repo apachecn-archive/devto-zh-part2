@@ -171,7 +171,7 @@ public static void main(String[] args) {
 
 你需要一个文件夹来存放你的静态内容。这个文件夹应该在您之前创建的`src/main`下的`resources`目录中。一个好的惯例是将文件夹命名为`public`,并放置一个`css`和`js`文件夹。
 
-[![Resource folder containing a public folder which contains a css and js folder](../Images/baa4fb103e68ae9b8b7335914714ab2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FjbXbLPu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.nexmo.com/wp-content/uploads/2018/08/resource-folder.png)
+[![Resource folder containing a public folder which contains a css and js folder](img/baa4fb103e68ae9b8b7335914714ab2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FjbXbLPu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.nexmo.com/wp-content/uploads/2018/08/resource-folder.png)
 
 在`public`文件夹中添加一个`index.html`文件，内容如下:
 
@@ -226,7 +226,7 @@ private void start() {
 以下是用户界面的一种方法。它使用 JavaScript 对您在前面步骤中构建的 API 进行 AJAX 调用。然后，它在页面上呈现信息。它还使用 [cleave.js](https://github.com/nosir/cleave.js/) JavaScript 库来格式化输入的电话号码。
 
 结果会产生如下页面:
-[![index.html page with a form for entering a phone number and the resulting information](../Images/ce3f4ae0a2020ecc839c0fc2ea80b24b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dHLZrZmW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.nexmo.com/wp-content/uploads/2018/08/user-interface.png)
+[![index.html page with a form for entering a phone number and the resulting information](img/ce3f4ae0a2020ecc839c0fc2ea80b24b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dHLZrZmW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.nexmo.com/wp-content/uploads/2018/08/user-interface.png)
 
 ##### 创建索引页面
 

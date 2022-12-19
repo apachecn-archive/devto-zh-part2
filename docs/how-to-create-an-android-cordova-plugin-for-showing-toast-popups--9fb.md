@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nikola/how-to-create-an-android-cordova-plugin-for-showing-toast-popups--9fb>
 
-[![](../Images/7c56c5b7dfe7a67f20eb02bf32de5189.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n15n3FJo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/89kvzy2qrz39ys8sm70k.jpg)
+[![](img/7c56c5b7dfe7a67f20eb02bf32de5189.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n15n3FJo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/89kvzy2qrz39ys8sm70k.jpg)
 
 *原载于[我的博客](http://www.nikola-breznjak.com/blog/javascript/create-android-cordova-plugin-showing-toast-popups/)*
 
@@ -229,7 +229,7 @@ CD 到克隆的项目中
 
 一旦应用程序在您的设备上运行，您应该会看到类似这样的内容:
 
-[![](../Images/22dda4d9e8914e36022487896aa19166.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HGBp87Bo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/nbz8NwD.png)
+[![](img/22dda4d9e8914e36022487896aa19166.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HGBp87Bo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/nbz8NwD.png)
 
 ## 结论
 

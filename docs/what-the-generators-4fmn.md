@@ -64,7 +64,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 但是我们需要在这个问题上更加精确。
 
-<center>![focus](../Images/029af3a64b0ce96783f641bd319f1fee.png)</center>
+<center>![focus](img/029af3a64b0ce96783f641bd319f1fee.png)</center>
 
 我们都知道，在 JS 中，一个函数总是会返回一些东西。
 如果你没有定义一个*返回*，JS 会帮你定义，方法是*在它的末尾返回一个“未定义的”*。
@@ -147,4 +147,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 <center>HAVE FUN WITH CODE</center>
 
-<center>![Pearl Jam](../Images/c50c252f121e2d4221725d06e53c7bd0.png)</center>
+<center>![Pearl Jam](img/c50c252f121e2d4221725d06e53c7bd0.png)</center>

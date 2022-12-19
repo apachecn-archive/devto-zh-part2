@@ -12,7 +12,7 @@ Axe 有几种不同的使用方式，但是在这篇文章中，我将使用 aXe
 
 ## 测试执行
 
-[![Running the aXe tests](../Images/55c64480b282dd74b1d592069dd2e75b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M-8dgole--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://davefollett.io/2018/09/13/accessibility-testing-axe-browser-extension/run-axe-test.gif)
+[![Running the aXe tests](img/55c64480b282dd74b1d592069dd2e75b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M-8dgole--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://davefollett.io/2018/09/13/accessibility-testing-axe-browser-extension/run-axe-test.gif)
 
 测试网页也非常简单:
 
@@ -25,7 +25,7 @@ Axe 有几种不同的使用方式，但是在这篇文章中，我将使用 aXe
 
 ## 检查结果
 
-[![The aXe tests results](../Images/c299cb0ca3bf4d8b1bcc2cdad77a4af2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--icfHsQ2i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davefollett.io/2018/09/13/accessibility-testing-axe-browser-extension/qit-axe-results.jpg)
+[![The aXe tests results](img/c299cb0ca3bf4d8b1bcc2cdad77a4af2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--icfHsQ2i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davefollett.io/2018/09/13/accessibility-testing-axe-browser-extension/qit-axe-results.jpg)
 
 Axe 不仅在识别问题方面做得非常好，而且提供了修复问题可能需要的一切。
 
@@ -39,7 +39,7 @@ Axe 不仅在识别问题方面做得非常好，而且提供了修复问题可�
 
 哇，太棒了。我在几分钟内发现了四个 a11y 问题，但如果我不修复它们，又有什么意义呢！在开始之前，我应该成为一名优秀的开发人员，在 GitHub 项目中为他们制造问题。自从我最近读了金成([@ Twitter 上的 SlightEdgeCoder](https://twitter.com/SlightEdgeCoder))的文章:
 
-[![dance2die image](../Images/468efb35d9e51b70de31c7071d198e22.png)](/dance2die) [## 提供更好的 GitHub 问题体验
+[![dance2die image](img/468efb35d9e51b70de31c7071d198e22.png)](/dance2die) [## 提供更好的 GitHub 问题体验
 
 ### sung m . Kim Jun 24 ' 18 3min read
 
@@ -47,13 +47,13 @@ Axe 不仅在识别问题方面做得非常好，而且提供了修复问题可�
 
 为什么不为可访问性问题定制一个问题模板呢？
 
-[![Thanks for the emoji recommendations Sung Kim!](../Images/05ac30d8a17eb89de6982138c753f3bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9GbSk5dm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davefollett.io/2018/09/13/accessibility-testing-axe-browser-extension/qit-a11y-issue.jpg)
+[![Thanks for the emoji recommendations Sung Kim!](img/05ac30d8a17eb89de6982138c753f3bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9GbSk5dm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davefollett.io/2018/09/13/accessibility-testing-axe-browser-extension/qit-a11y-issue.jpg)
 
 既然问题已经记录下来，是时候解决它了。
 
 ## 修罗
 
-[![A11y fix by adding aria-label attribute](../Images/ae058edc8a4edd97b3f35c828a9ccee5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AiZOz4lX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davefollett.io/2018/09/13/accessibility-testing-axe-browser-extension/qit-a11y-fix.jpg)
+[![A11y fix by adding aria-label attribute](img/ae058edc8a4edd97b3f35c828a9ccee5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AiZOz4lX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davefollett.io/2018/09/13/accessibility-testing-axe-browser-extension/qit-a11y-fix.jpg)
 
 这个特殊的可访问性问题可以通过向`<input>`元素添加一个 [aria-label 属性](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-label_attribute)来解决。除了修复这个问题，它也不会改变`<input>`元素的原始外观。尽管更好的解决方案可能是重新设计页面，使用与`<input>`相关联的`<label>`元素，而不是使用`aria-label`属性。我将把它留到下一天，并取得一个小小的胜利，使网站的可访问性比以前稍微好一点。
 

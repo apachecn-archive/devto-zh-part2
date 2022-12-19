@@ -8,7 +8,7 @@
 
 像这样:
 
-[![An image showing the Elm compiler helpfully suggesting that Dict.fromLast should be Dict.fromList](../Images/571dfbd1eb2025d85c3d640f6cc601ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4kgZKN0F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j1hwne0mg8hrzcrtjvxl.png)
+[![An image showing the Elm compiler helpfully suggesting that Dict.fromLast should be Dict.fromList](img/571dfbd1eb2025d85c3d640f6cc601ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4kgZKN0F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j1hwne0mg8hrzcrtjvxl.png)
 
 ## 榆树建筑
 
@@ -16,7 +16,7 @@
 
 `The Elm Architecture`是如何在 Elm 应用程序中管理应用程序状态。您的应用程序有一个整体模型、一个更新功能和一个查看功能。您的视图函数能够发送消息，这些消息与您的模型一起被输入到您的更新函数中，这将返回一个新的(更新后的)模型，该模型随后用于呈现您的新视图。这方面的图表更有意义，所以:
 
-[![](../Images/b64a4c7e32b31e12e52a8726d48dde92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oT29AJmn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pfdd18lau3fmjhv63bou.png)
+[![](img/b64a4c7e32b31e12e52a8726d48dde92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oT29AJmn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pfdd18lau3fmjhv63bou.png)
 
 任何熟悉 Redux 的人都应该立即认识到这一点(Redux 受到 Elm 的状态管理的很大影响)，只是对术语做了一些修改。简而言之:
 
@@ -40,15 +40,15 @@ Project Arklay 是一款超级基础的文本冒险游戏，我已经写了几�
 
 要么，你还没开始玩:
 
-[![](../Images/7413dacc91afb119baa1d4c4d0c6bbcf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0Ay_JIYH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2wbhendxoa5378qy4qgm.png)
+[![](img/7413dacc91afb119baa1d4c4d0c6bbcf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0Ay_JIYH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2wbhendxoa5378qy4qgm.png)
 
 或者您已经开始播放，并且正在显示当前可用的方向:
 
-[![](../Images/dc6cf420c31e2dd3f04c56e3b57ebeb1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FkfbkSL_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/33n6cb3adl1embaxrah2.png)
+[![](img/dc6cf420c31e2dd3f04c56e3b57ebeb1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FkfbkSL_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/33n6cb3adl1embaxrah2.png)
 
 或者，您已经开始游戏，并且显示您当前的物品清单:
 
-[![](../Images/a64105a1b413a9bbefc16c47970c5651.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vjwg7tYN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1i5nrewpwaf8flt6lhqx.png)
+[![](img/a64105a1b413a9bbefc16c47970c5651.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vjwg7tYN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1i5nrewpwaf8flt6lhqx.png)
 
 虽然这是三个独立的有限状态，但是很明显第二个和第三个在整个父视图中是兄弟——所以我们在这里有两个视图。我们将这些称为**介绍视图**和**游戏视图**。
 
@@ -84,15 +84,15 @@ Enter fullscreen mode Exit fullscreen mode
 
 首先，让我们看看应用程序状态——还记得我说过我们有两个视图，它们组成了我们所有可能的应用程序状态吗？我们的整个应用程序模型是一个记录(类似于 JavaScript 中的一个对象)，它包含两件事情:
 
-[![](../Images/87e271c64b4ed349d949ddd3e8662b31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2n3Tt9R3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ucyafdw3l0ly2geued0e.png)
+[![](img/87e271c64b4ed349d949ddd3e8662b31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2n3Tt9R3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ucyafdw3l0ly2geued0e.png)
 
 您不需要担心这里的“键”(它的存在是为了允许我们在应用程序的不同页面之间导航，同时控制 URL 中显示的内容，并且由 Elm 的内部生成)，但是 state 字段在这里被定义为保存一个**状态**，这是一个自定义类型。在这个应用程序的例子中，看起来像这样:
 
-[![](../Images/5482b1d3e9633e4989d81d2a1dbd1229.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--00xskWIt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qmqk9deb5cdeenbjp3jy.png)
+[![](img/5482b1d3e9633e4989d81d2a1dbd1229.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--00xskWIt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qmqk9deb5cdeenbjp3jy.png)
 
 因此，整个应用程序的状态可以是 **ViewIntro** (在这种情况下，它需要看起来像 Intro 模块中定义为模型的东西)，或者是 **ViewGame** (在这种情况下，它需要看起来像游戏模块中定义为模型的东西)。这照顾到了我们的两个可能的应用程序状态，我们说过我们的 ViewGame 状态有两个可能的状态，所以让我们来看看什么**游戏。型号**看起来像:
 
-[![](../Images/8265887c187d94dd283d83c5c92942bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mKyOqLKd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/27lmt4f6k2x69081hsl9.png)
+[![](img/8265887c187d94dd283d83c5c92942bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mKyOqLKd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/27lmt4f6k2x69081hsl9.png)
 
 太好了，那就没惊喜了-游戏。模型还有一个**状态**键，它也保存一个自定义类型的状态。值得注意的是，这实际上是一款**游戏。State** ，我们最后看到的“State”是一个 **Main。状态**。
 
@@ -102,17 +102,17 @@ Enter fullscreen mode Exit fullscreen mode
 
 前面我说过视图是基于模型呈现的，我们知道在这个应用程序中，状态也保存在模型中，我们也知道状态是一个自定义类型，所以在代码中看到这一切是如何组合在一起的就不足为奇了:
 
-[![](../Images/a1139096201ea23f03da4603405d1337.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uzn9vVna--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m30cs00gnacevt0lxkfq.png)
+[![](img/a1139096201ea23f03da4603405d1337.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uzn9vVna--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m30cs00gnacevt0lxkfq.png)
 
 如果这看起来有点混乱，那可能是因为 Elm 中的函数没有将它们的参数括起来，Elm 中的每个函数都有一个返回值，并且 Elm 中的每个函数都是作为单个表达式来计算的。如果上面的代码在 JS 中，它应该是这样的:
 
-[![](../Images/33de63a37f3a3f94f120f7e6cff1fac5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wop1lUzY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bsplg6wkv8niskeuqyl9.png)
+[![](img/33de63a37f3a3f94f120f7e6cff1fac5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wop1lUzY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bsplg6wkv8niskeuqyl9.png)
 
 尽管在 JS 示例中，您可能会依赖于状态“ViewIntro”或“ViewGame”。在我们的 Elm 实现中，我们知道它是这两件事情中的一件，因为这是唯一可能的事情——所以在 Elm 中不需要缺省值，而在 JS 版本中我们需要缺省值。
 
 在我们的游戏状态中，只有一部分视图会根据**游戏而改变。State** ，但是它以完全相同的方式工作——在视图发生变化的部分，有另一个 case 表达式:
 
-[![](../Images/332ee739233ddf632c6146eb0bce5ce8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YCo9iWu5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pl6txczwn2c5vp5ib9ou.png)
+[![](img/332ee739233ddf632c6146eb0bce5ce8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YCo9iWu5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pl6txczwn2c5vp5ib9ou.png)
 
 ## 更新是如何发生的
 
@@ -120,17 +120,17 @@ Enter fullscreen mode Exit fullscreen mode
 
 在我们的主模块中有一个更新函数，它是由 Elm 的运行时运行的。我的**介绍**和**游戏**模块也有自己的更新功能，每当一个**介绍。Msg** 或**游戏。Msg** 由运行时接收，它通过管道进入 Intro.update 或 Game.update，允许消息被处理，模型被正确更新。这种连接不是自动的，但也不是特别复杂——Main 的 **Msg** 类型看起来像这样:
 
-[![](../Images/7cdc532ca474847c61720458dadc2aa7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yeGoaDHG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/150wvwf145gytbhx5moj.png)
+[![](img/7cdc532ca474847c61720458dadc2aa7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yeGoaDHG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/150wvwf145gytbhx5moj.png)
 
 这里有 **ChangedUrl** 和 **ActivatedLink** 消息，因为我需要为运行时提供一条消息，以便在这些事情发生时调用，但是这里我们感兴趣的是 **Intro。Msg** 和**游戏。Msg** 。至此，您可能已经知道我们即将查看 **Main.update** 以了解发生了什么:
 
-[![](../Images/a71cc056998568136bd7a726bc429eb0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aIlxS1pm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kfvo3mmnjrc08esukvfc.png)
+[![](img/a71cc056998568136bd7a726bc429eb0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aIlxS1pm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kfvo3mmnjrc08esukvfc.png)
 
 因此，在出现游戏消息的时候，我们会打开游戏**。Msg** 进入 **msgReceived** ，然后我们调用 **Game.update** 连同当前的 **gameModel** 一起传入消息以获得一个 **updatedGameModel** ，然后我们用它来更新我们的状态为**view game updated game model**。
 
 现在如果我们看看这个游戏。Msg 类型，我们可以看到 Game.update 处理了哪些消息:
 
-[![](../Images/e0e3a3761e5e6bd50bfd3fb32b457d4b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0AUmEJlB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bvytmj3rveix8y6ld3bw.png)
+[![](img/e0e3a3761e5e6bd50bfd3fb32b457d4b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0AUmEJlB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bvytmj3rveix8y6ld3bw.png)
 
 当您得知这一切都如您所料时，您不会感到惊讶:
 
@@ -148,7 +148,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们来看看**游戏中的考场功能.更新**:
 
-[![](../Images/0da469aaf8f589e1703864acfbb04fef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0AQHazw4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fwys68ilpm833d7edmuq.png)
+[![](img/0da469aaf8f589e1703864acfbb04fef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0AQHazw4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fwys68ilpm833d7edmuq.png)
 
 如果您不熟悉 Elm，一下子看起来可能会很混乱——请记住，您对曾经使用过的任何其他语言也有同样的感觉！
 
@@ -182,7 +182,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 无论如何，我希望有人觉得这很有趣——我知道这不是对语言本身的特别深入的探究，但是我觉得它应该给出了一点关于如何查看应用程序以弄清楚它发生了什么的味道。就我个人而言，当我得到这么容易理解的东西时，我总是很高兴:
 
-[![](../Images/b95a447f31f91a839ebc09493d68a7e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y0CUJIls--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3yhiknbhil6ask9ermf1.png)
+[![](img/b95a447f31f91a839ebc09493d68a7e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y0CUJIls--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3yhiknbhil6ask9ermf1.png)
 
 如果你感兴趣，你可以看看完整的回购:[https://github.com/dnimmo/project-arklay-v3](https://github.com/dnimmo/project-arklay-v3)(在这篇文章发表后，事情会发生变化，所以这里的例子在回购中很可能与在这篇文章中不同——很乐意回答任何问题，随时联系)
 

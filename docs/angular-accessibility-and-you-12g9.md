@@ -160,11 +160,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 以 Dinolytics 中组屏幕上的网站小部件为例。初始视图显示网站列表。
 
-[![](../Images/87038108bfae850745b07e9050b2e1df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6lCL_0Ua--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.dinolytics.com/wp-content/uploads/2018/10/websites-table.png)
+[![](img/87038108bfae850745b07e9050b2e1df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6lCL_0Ua--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.dinolytics.com/wp-content/uploads/2018/10/websites-table.png)
 
 当用户激活“添加网站”按钮时，屏幕变为网站形式。当这样的交互发生时，您需要确保将焦点设置在适当的元素上，在本例中是表单中的第一个也是唯一一个字段。
 
-[![](../Images/07402e6a6832fabdcd721f3ff08a8130.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QVLLDA_B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.dinolytics.com/wp-content/uploads/2018/10/websites-form.png)
+[![](img/07402e6a6832fabdcd721f3ff08a8130.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QVLLDA_B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.dinolytics.com/wp-content/uploads/2018/10/websites-form.png)
 
 你可以用下面的方法在 Angular 中完成这个:
 
@@ -209,15 +209,15 @@ Enter fullscreen mode Exit fullscreen mode
 
 您正在使用动态表单输入，用户可以通过激活按钮来添加或删除输入。以 Dinolytics 中报告屏幕上的外部电子邮件地址字段为例。
 
-[![](../Images/3d663985f505c3c443d1b5e32c9ae5d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_vgjy6_e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.dinolytics.com/wp-content/uploads/2018/10/external-emails-1.png)
+[![](img/3d663985f505c3c443d1b5e32c9ae5d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_vgjy6_e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.dinolytics.com/wp-content/uploads/2018/10/external-emails-1.png)
 
 该界面以“发送到外部电子邮件地址”按钮开始。当您激活该按钮时，它会为电子邮件地址添加一个新的文本输入。
 
-[![](../Images/ff48234ed628fde5ee3257f5fd46d477.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ogNFF8MC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.dinolytics.com/wp-content/uploads/2018/10/external-emails-2.png)
+[![](img/ff48234ed628fde5ee3257f5fd46d477.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ogNFF8MC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.dinolytics.com/wp-content/uploads/2018/10/external-emails-2.png)
 
 当添加新字段时，它应该获得焦点。
 
-[![](../Images/46c58b40fc9b932de6873bc0e268c9dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ViwRsXEw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.dinolytics.com/wp-content/uploads/2018/10/external-emails-3.png)
+[![](img/46c58b40fc9b932de6873bc0e268c9dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ViwRsXEw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.dinolytics.com/wp-content/uploads/2018/10/external-emails-3.png)
 
 当删除一个字段时，前一个字段应该获得焦点，当删除所有字段时，“发送到外部电子邮件地址”按钮应该获得焦点。您可以在动态输入字段上使用自定义指令来完成大部分工作。
 
@@ -439,7 +439,7 @@ Mac 已经安装了 VoiceOver，随时可以使用。
 
 你可能不得不玩设置，因为我的印象是它是硬件特定的，但这里是我必须使用的设置，让我的工作正常。
 
-[![](../Images/3b645d518877bc36cfde2b77b56e84c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qf7aT4o1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.dinolytics.com/wp-content/uploads/2018/10/vbox-settings.png)
+[![](img/3b645d518877bc36cfde2b77b56e84c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qf7aT4o1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.dinolytics.com/wp-content/uploads/2018/10/vbox-settings.png)
 
 主机音频驱动:PulseAudio
 

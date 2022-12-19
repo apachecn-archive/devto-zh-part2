@@ -12,7 +12,7 @@
 
 ## 测试驱动开发(TDD)
 
-[![Test-Driven Development](../Images/1f76439c199cfc48e2efbf92f5749379.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vomv4NCY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/31kwz1huodqdrtuyiagk.png)
+[![Test-Driven Development](img/1f76439c199cfc48e2efbf92f5749379.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vomv4NCY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/31kwz1huodqdrtuyiagk.png)
 
 TDD 带来了很多[好处](https://www.rainerhahnekamp.com/en/why-we-test-do-things-faster-with-test-driven-development/)。不幸的是，这是一个初学者还没有完全准备好的高级话题。
 
@@ -32,7 +32,7 @@ TDD 带来了很多[好处](https://www.rainerhahnekamp.com/en/why-we-test-do-th
 
 ## 基本面先行
 
-[![Fundamentals First](../Images/b3ece9b4b3e5e8cf7d329b6268520fe1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i62SGo9p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q5xmrqho6lhbdj5khq0w.png)
+[![Fundamentals First](img/b3ece9b4b3e5e8cf7d329b6268520fe1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i62SGo9p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q5xmrqho6lhbdj5khq0w.png)
 
 我经常听到新手应该立即开始使用框架。这就像教人们如何驾驶一样，把他们放在一辆拉力赛车中，并要求他们避免过度转向。这完全忽略了一个事实，他们仍然错把刹车当成油门。
 
@@ -52,7 +52,7 @@ TDD 带来了很多[好处](https://www.rainerhahnekamp.com/en/why-we-test-do-th
 
 ## 库和框架
 
-[![Libraries and Frameworks](../Images/b9c3a50155372f5c45afee8fe05dc59f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rd9jdhF4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0huye7lchazubgu0kn75.png)
+[![Libraries and Frameworks](img/b9c3a50155372f5c45afee8fe05dc59f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rd9jdhF4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0huye7lchazubgu0kn75.png)
 
 在学生花费大量时间编写代码后，他们必须了解大多数代码已经以库或框架的形式存在。这与其说是一种模式，不如说是一种心态。
 
@@ -72,7 +72,7 @@ TDD 带来了很多[好处](https://www.rainerhahnekamp.com/en/why-we-test-do-th
 
 ## 师傅&徒弟
 
-[![Master & Apprentice](../Images/da1fc6d6546217182b3c6e58cbedabf5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oh35KLBx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9iu9998ga3yfsavznh5m.png)
+[![Master & Apprentice](img/da1fc6d6546217182b3c6e58cbedabf5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oh35KLBx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9iu9998ga3yfsavznh5m.png)
 
 20 出头的时候，我想学弹钢琴。我不想要老师，认为我可以自己学习。5 年后，我咨询了专业导师。我能说什么呢？我在一个月里学到的东西比之前五年都多。
 
@@ -90,7 +90,7 @@ TDD 带来了很多[好处](https://www.rainerhahnekamp.com/en/why-we-test-do-th
 
 ## 挑战和激励
 
-[![Challenge and Motivation](../Images/19eba54a891fac379efe9bce04c75a8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BFdY-z83--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k9wktr8nj5jiguwnxw67.png)
+[![Challenge and Motivation](img/19eba54a891fac379efe9bce04c75a8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BFdY-z83--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k9wktr8nj5jiguwnxw67.png)
 
 "让我们创造一个脸书克隆体！"。这不是来自一个由一群高级软件开发人员和数百万欧元预算支持的首席执行官。这是程序员入门课程的练习。这样的任务是不可能的。更糟糕的是，学生们被带进了仙境，并被欺骗相信他们拥有超出他们能力的技能。
 

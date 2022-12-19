@@ -6,15 +6,15 @@
 
 想想 1962 年蜘蛛侠的第一张照片…
 
-[![Spider-Man comic cover from 1962](../Images/07e5f9b9ee66c432090097ca80291c83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VNfHnwhX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/11/mv1.jpg)
+[![Spider-Man comic cover from 1962](img/07e5f9b9ee66c432090097ca80291c83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VNfHnwhX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/11/mv1.jpg)
 
 现在把它与 1988 年的这张精彩照片进行比较:
 
-[![Spier-Man comic cover from 1988](../Images/e0f2288b50c974090669a60d950d8a16.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--guM2pNf1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/11/mv2.jpg)
+[![Spier-Man comic cover from 1988](img/e0f2288b50c974090669a60d950d8a16.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--guM2pNf1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/11/mv2.jpg)
 
 最后是今年的封面:
 
-[![Spider-Man comic cover from 2018](../Images/4b10dc5c2d21422dbc6bccc5cd160c65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NjfZJbr8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/11/mv3.jpg)
+[![Spider-Man comic cover from 2018](img/4b10dc5c2d21422dbc6bccc5cd160c65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NjfZJbr8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/11/mv3.jpg)
 
 我只是喜欢看到几十年来风格的发展，尤其是有这样一个标志性的人物。我决定尝试找出一种方法来自动完成这项工作，并将它显示给用户。现在，在我继续之前，让我声明一下，我不会“现场”运行这个演示。为什么？首先——我仍然不能 100%确定如何用 Azure 函数在免费层保持“安全”。上个月，我收到了一张 40 美元的账单，因为我在一个项目中做了一个错误的选择，虽然这是我的错，但我仍然感到有点心痛。其次，漫威本身对他们的 API 使用有限制。这当然是一个合理的限制，但也是我不想担心的事情。如果微软或漫威想要帮助我，就给我写信吧！我不会屏住呼吸。；)也就是说，我将要展示的所有代码都可以在我的 GitHub repo 中找到:[https://github.com/cfjedimaster/marvelcharacterovertime](https://github.com/cfjedimaster/marvelcharacterovertime)
 
@@ -228,17 +228,17 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们从字符搜索结果屏幕开始:
 
-[![Example of app comic character result screen](../Images/fb6e5c17ed253fbde8381aee90f8a3b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TSZIoIsv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/11/mv4.jpg)
+[![Example of app comic character result screen](img/fb6e5c17ed253fbde8381aee90f8a3b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TSZIoIsv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/11/mv4.jpg)
 
 在你选择了一个角色后，我就点击了后端，坦白地说，这真的非常快，尤其是考虑到像蜘蛛侠这样的人拥有如此多的数据。以下是一长串结果中的四个截图:
 
-[![Comic results](../Images/f28eb02ca205e0a8c12d6ccc126244e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tcvXMPt9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/11/mv5.jpg)
+[![Comic results](img/f28eb02ca205e0a8c12d6ccc126244e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tcvXMPt9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/11/mv5.jpg)
 
-[![Comic results](../Images/ab8a73cf2a70b3d6b2271241fb068ef7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pooktgpE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/11/mv6.jpg)
+[![Comic results](img/ab8a73cf2a70b3d6b2271241fb068ef7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pooktgpE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/11/mv6.jpg)
 
-[![Comic results](../Images/902d54ee3fdbb6555af2f9b94d84a9e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wO2Uai6g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/11/mv7.jpg)
+[![Comic results](img/902d54ee3fdbb6555af2f9b94d84a9e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wO2Uai6g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/11/mv7.jpg)
 
-[![Comic results](../Images/526467d94d6e08e05df62b7920cef1c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NkaNo3Ss--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/11/mv8.jpg)
+[![Comic results](img/526467d94d6e08e05df62b7920cef1c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NkaNo3Ss--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/11/mv8.jpg)
 
 代码非常简单。布局如下:
 

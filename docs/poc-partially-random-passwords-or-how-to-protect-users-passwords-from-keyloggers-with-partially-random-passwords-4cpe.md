@@ -4,7 +4,7 @@
 
 当我们登录到一些在线帐户时，尤其是在公共计算机上，或者在我们不拥有的任何计算机上，我们都面临的一个问题是，我们的密码总是有被盗的风险，尤其是使用键盘记录器。如果黑客得到了你密码的“副本”，她就可以登录你的账户，为所欲为。
 
-[![enter image description here](../Images/edc63af9fcfa5bd33a159f29a935846f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--33wl8RE7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6p0ehei17eqaupnv4k7g.jpg) 
+[![enter image description here](img/edc63af9fcfa5bd33a159f29a935846f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--33wl8RE7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6p0ehei17eqaupnv4k7g.jpg) 
 一如既往，使用双因素认证可以缓解这个问题，因为黑客也需要访问您的手机。但是，如果使用 2FA 不是一个选项，即使在这种情况下，我们也想保护用户，那么当黑客试图登录时，我们能否检测到不是真正的用户，而是试图登录的人窃取了她的密码？
 
 ## 部分随机密码
@@ -40,7 +40,7 @@ public function postLogin(Request $request)
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![enter image description here](../Images/892f9fb9bb2a44ebfab9d8b5f9c8ce89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UTXrsUpm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8726l3lsesln8qjxmz9u.png)
+[![enter image description here](img/892f9fb9bb2a44ebfab9d8b5f9c8ce89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UTXrsUpm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8726l3lsesln8qjxmz9u.png)
 
 ## 如果黑客确切知道密码的哪一部分是随机的怎么办？
 

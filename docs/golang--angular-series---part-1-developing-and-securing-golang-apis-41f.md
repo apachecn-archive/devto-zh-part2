@@ -6,4 +6,4 @@
 
 [读下去🚀](https://auth0.com/blog/developing-golang-and-angular-apps-part-1-backend-api/?utm_source=dev&utm_medium=sc&utm_campaign=stack_golang_angular)
 
-[![Golang & Angular Series - Part 1: Developing and Securing Golang APIs](../Images/f5b1dc45c1b3698df0a92b3721143c46.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O_vXbl3g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4avn2mwz8gfjhnbyrbgk.png)
+[![Golang & Angular Series - Part 1: Developing and Securing Golang APIs](img/f5b1dc45c1b3698df0a92b3721143c46.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O_vXbl3g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4avn2mwz8gfjhnbyrbgk.png)

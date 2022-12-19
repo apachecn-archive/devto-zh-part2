@@ -10,11 +10,11 @@ AJAX 代表异步 JavaScript 和 XML。它是一种用于创建交互式 web 应
 
 一个很好的例子就是你在谷歌搜索框中看到的谷歌建议列表。当你开始在谷歌搜索框中输入内容时，下拉框中的列表会发生变化。页面上的内容在不刷新页面的情况下动态变化。多酷啊！
 
-[![alt text](../Images/675ae09ae7320bbefa6bda49733925c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ebAlB6I7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2t54lkf8pujkui7aknnc.png)
+[![alt text](img/675ae09ae7320bbefa6bda49733925c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ebAlB6I7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2t54lkf8pujkui7aknnc.png)
 
 那么 Ajax 实际上是如何工作的呢？我从 w3schools 得到了下面的图和步骤。
 
-[![alt text](../Images/9045ebe25b70ee11cc3f7caf1e75f302.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fIBFPBvJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r3vai97x0f4zockefp0y.gif)
+[![alt text](img/9045ebe25b70ee11cc3f7caf1e75f302.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fIBFPBvJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r3vai97x0f4zockefp0y.gif)
 
 AJAX 如何工作
 

@@ -38,7 +38,7 @@ Enter fullscreen mode Exit fullscreen mode
 ## 05 开始！
 
 那么，行动的时候终于到了。 执行`yarn dev`或`npm run dev`，确认浏览器和 Electron 启动，显示相同的画面。
-[![](../Images/5b4da58a9f5b5c8ae7c97654fa94a879.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GJmtQy4l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wq2igybejlct8djihkwi.jpg)
+[![](img/5b4da58a9f5b5c8ae7c97654fa94a879.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GJmtQy4l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wq2igybejlct8djihkwi.jpg)
 另外，我们也试试此时热负载已经在 Electron 端发挥作用了。 故意弄错`src/App.js`的语法，确认浏览器和 Electron 的画面都发生错误。
 
 连热道都确认了的话，恭喜你！ 你用 React 成功制作了 electron APP 应用程序。
@@ -50,7 +50,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这次的 electron APP 应用的结构比较简单。 Electron 只是访问并显示由`react-scripts`启动的 Web 服务器。 真的只有这个！ 不用作图，让我们来作图吧。
 
-[![](../Images/df096743204c73b800ffa7fc75d9edd0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--giSSURaE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tzgkfp6m0fmwkt4jfzfm.jpg)
+[![](img/df096743204c73b800ffa7fc75d9edd0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--giSSURaE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tzgkfp6m0fmwkt4jfzfm.jpg)
 
 顺便说一下，`react-scripts`和`electron`分别由`npm-run-all`启动。 此时两个正在同时启动。
 
@@ -123,7 +123,7 @@ Enter fullscreen mode Exit fullscreen mode
 但是，在 macOS 和 linux 的情况下，没有 wine 就不会发生面向 win32 的内部版本。 同样，在 Windows 上，只有具有管理员权限的控制台才能生成针对 mas(macOS )的内部版本。 (为什么不能建立面向 darwin 的版本)
 不假设看这篇文章的各位的操作系统。 请找一个可以在自己环境中工作的二进制文件。
 
-[![](../Images/c80fb1fae4b2ec74ea78009cb3ca2eac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WSv2CJlD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sfnxyvj1kpafhmlpgdzd.jpg)
+[![](img/c80fb1fae4b2ec74ea78009cb3ca2eac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WSv2CJlD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sfnxyvj1kpafhmlpgdzd.jpg)
 
 哇~！ 动了呢！ 并且，即使访问[http://localhost:5000](http://localhost:5000) ，由于 Web 服务器没有启动，所以什么也没有显示，而且在 console 中确认没有发生安全警告 这是正在读取静态文件的证据。
 …那么，构建并没有到此结束。 再往前一点看看吧。
@@ -178,7 +178,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 之后，如果用 ZIP 或什么压缩 release 目录以下的各个目录，就已经成为可以分发的二进制文件了。 恭喜你！
 
-[![](../Images/0fe8b0e30d02b351f188a8caf27bd05c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DlTZLKPg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gilv3q913e4pnil9afy6.jpg)
+[![](img/0fe8b0e30d02b351f188a8caf27bd05c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DlTZLKPg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gilv3q913e4pnil9afy6.jpg)
 
 但是，darwin(mas )也有在 APP 上签名的重要工序，但这次忽略了。 请各位调查。
 

@@ -103,7 +103,7 @@ $ pip install apiron
 
 包中还有一些其他有用的工具，所以今天就试试吧！
 
-## ![](../Images/375dfcc32199b4dedf2b526645c27ff7.png) [伊萨卡](https://github.com/ithaka) / [阿皮龙](https://github.com/ithaka/apiron)
+## ![](img/375dfcc32199b4dedf2b526645c27ff7.png) [伊萨卡](https://github.com/ithaka) / [阿皮龙](https://github.com/ithaka/apiron)
 
 ### 🍳apiron 是一个 Python 包，它帮助您为 RESTful APIs 编写一个美味的客户机。只是不要用肥皂洗。
 
@@ -111,11 +111,11 @@ $ pip install apiron
 
 # 停机坪
 
-[![Documentation Status](../Images/2b820c93deb990f549dcf38075f68186.png)](https://apiron.readthedocs.io/en/latest/?badge=latest)[![PyPI version](../Images/1c03b04ced91a5b97d95fa46fd4379d7.png)](https://badge.fury.io/py/apiron)[![Build Status](../Images/56473bc1a6bc0f76f4147c6d391d7205.png)](https://travis-ci.org/ithaka/apiron)
+[![Documentation Status](img/2b820c93deb990f549dcf38075f68186.png)](https://apiron.readthedocs.io/en/latest/?badge=latest)[![PyPI version](img/1c03b04ced91a5b97d95fa46fd4379d7.png)](https://badge.fury.io/py/apiron)[![Build Status](img/56473bc1a6bc0f76f4147c6d391d7205.png)](https://travis-ci.org/ithaka/apiron)
 
 `apiron`帮助您为 RESTful APIs 设计一个美味的客户端。只是不要用肥皂洗。
 
-[![Pie in a cast iron skillet](../Images/1589d3e3e00fba74e2eef1c36e2c26ed.png)T2】](https://github.com/ithaka/apiron/raw/master/docs/_static/cast-iron-skillet.png)
+[![Pie in a cast iron skillet](img/1589d3e3e00fba74e2eef1c36e2c26ed.png)T2】](https://github.com/ithaka/apiron/raw/master/docs/_static/cast-iron-skillet.png)
 
 对于 web 应用程序开发人员来说，从多个服务收集数据已经成为一项无处不在的任务。调用具有多个参数集的 API 端点，调用多个 API 端点，调用多个 API 中的多个端点，这种复杂性会迅速增加。虽然业务逻辑可能会变得复杂，但是与这些 API 交互的代码却不会。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ebreton/ghost-in-a-shell---part-iv-and-final-maintenance-e6o>
 
-[![Ghost in A shell - part IV (and final): Maintenance](../Images/10fc8be98c20924c3c3d3daefef69a34.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8a5pRpXO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://manu.breton.ch/blog/content/images/2018/06/GIAS-maintenance.png)
+[![Ghost in A shell - part IV (and final): Maintenance](img/10fc8be98c20924c3c3d3daefef69a34.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8a5pRpXO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://manu.breton.ch/blog/conteimg/2018/06/GIAS-maintenance.png)
 
 选择 Ghost(Pro) 的一个很好的理由是，你不必维护你的博客。他们只是跑。永远。即使服务器崩溃，硬盘损坏，电力中断，博客也需要升级...他们将继续服务他们的页面。
 

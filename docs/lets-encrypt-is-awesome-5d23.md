@@ -6,7 +6,7 @@ Let's Encrypt 是一种免费的方式来获得 SSL 证书到您的网站上，�
 
 IIS 是微软随 Windows 10 和 Windows Server 附带的网络服务器软件。我在笔记本上安装了它，它显示默认的 IIS 页面。
 
-[![](../Images/95ba7073aff15763d96eddbcc3d5d8cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0GyL-bov--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storageaccountblog9f5d.blob.core.windows.net/blazor/wp-content/uploads/2018/04/iis.jpg%3Fresize%3D768%252C464%26ssl%3D1)
+[![](img/95ba7073aff15763d96eddbcc3d5d8cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0GyL-bov--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storageaccountblog9f5d.blob.core.windows.net/blazor/wp-content/uploads/2018/04/iis.jpg%3Fresize%3D768%252C464%26ssl%3D1)
 
 在你的笔记本电脑上托管网站，使用专用的网络服务器，或者在托管公司托管，这都不是一个好主意，但是技术是一样的，这给了我一些东西来写！
 
@@ -22,18 +22,18 @@ IIS 是微软随 Windows 10 和 Windows Server 附带的网络服务器软件。
 
 运行 zip 文件中的可执行文件，并按照屏幕提示进行操作。
 
-[![](../Images/ceec708cde9cb03439727d0e9753ed05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Fh8r8BpS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storageaccountblog9f5d.blob.core.windows.net/blazor/wp-content/uploads/2018/04/letsencrypt.jpg%3Fresize%3D768%252C480%26ssl%3D1)
+[![](img/ceec708cde9cb03439727d0e9753ed05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Fh8r8BpS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storageaccountblog9f5d.blob.core.windows.net/blazor/wp-content/uploads/2018/04/letsencrypt.jpg%3Fresize%3D768%252C480%26ssl%3D1)
 
 按 N 创建新证书。
 
 然后按 1 绑定到在您的 IIS 设置中找到的单个网站
 
-[![](../Images/9975c776a3ac289bea47831d327dac0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tLu_EXA6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storageaccountblog9f5d.blob.core.windows.net/blazor/wp-content/uploads/2018/04/letsencrypt2.jpg%3Fresize%3D768%252C686%26ssl%3D1)
+[![](img/9975c776a3ac289bea47831d327dac0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tLu_EXA6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storageaccountblog9f5d.blob.core.windows.net/blazor/wp-content/uploads/2018/04/letsencrypt2.jpg%3Fresize%3D768%252C686%26ssl%3D1)
 
 现在，让我们神奇地加密知道你在 IIS 中设置了什么。
 
 现在你需要做的就是输入一个电子邮件地址，以防续约失败，并同意让我们加密条款，你都设置好了。
 
-[![](../Images/6849b388f70861cd91147a023b2e0388.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y_Z5vsPZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storageaccountblog9f5d.blob.core.windows.net/blazor/wp-content/uploads/2018/04/letsencrypt3.jpg%3Fresize%3D768%252C920%26ssl%3D1)
+[![](img/6849b388f70861cd91147a023b2e0388.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y_Z5vsPZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storageaccountblog9f5d.blob.core.windows.net/blazor/wp-content/uploads/2018/04/letsencrypt3.jpg%3Fresize%3D768%252C920%26ssl%3D1)
 
 让你的网站使用 SSL 证书是多么的棒和简单。如果你在服务器上配置了 IIS，试一试，你就可以对你所有的东西进行 SSL 了。

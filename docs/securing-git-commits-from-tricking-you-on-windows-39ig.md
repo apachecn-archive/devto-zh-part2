@@ -16,31 +16,31 @@ GitHub 帮助文章[使用 GPG](https://help.github.com/articles/signing-commits
 
 3.  点击文件->新密钥对
 
-[![Kleopatra](../Images/bed329eb16047f2100eed0270d371abc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kBH2gVmN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xwhs5ckowzq553eteww4.png)
+[![Kleopatra](img/bed329eb16047f2100eed0270d371abc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kBH2gVmN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xwhs5ckowzq553eteww4.png)
 
 1.  点击创建个人 OpenPGP 密钥对
 
-[![Key Pair Creation](../Images/5468b897504dafd02031267075433e64.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZjpRSngc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f17aykhv4sy3wg18sfyh.png)
+[![Key Pair Creation](img/5468b897504dafd02031267075433e64.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZjpRSngc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f17aykhv4sy3wg18sfyh.png)
 
 1.  输入详细信息，然后单击下一步。
 
-[![Enter details](../Images/402e1cd08722b80f28b31ba26c00f4d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gslXUK4O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h5eykvkrnbfl7td4g8oy.png)
+[![Enter details](img/402e1cd08722b80f28b31ba26c00f4d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gslXUK4O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h5eykvkrnbfl7td4g8oy.png)
 
 1.  查看并创建密钥。这将显示一个弹出窗口，要求您输入密码以保护密钥。
 
 2.  输入密码，然后单击确定
 
-[![Enter Paraphrase](../Images/6d462e95bed5129b4bfeacfc53de1a25.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3n92HTbv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2n08773fa1paru3rtnr4.png)
+[![Enter Paraphrase](img/6d462e95bed5129b4bfeacfc53de1a25.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3n92HTbv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2n08773fa1paru3rtnr4.png)
 
 1.  此时，应该创建了密钥对。单击完成。
 
 您可以创建密钥的备份，并将其保存在安全的地方。
 
-[![Key pair Created](../Images/36bab39c5d545ba2269aa6a96e5e31b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WKU_sQr6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/az95njpwjagh7847s7nl.png)
+[![Key pair Created](img/36bab39c5d545ba2269aa6a96e5e31b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WKU_sQr6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/az95njpwjagh7847s7nl.png)
 
 1.  您现在应该可以在 Kleopatra 中看到密钥了
 
-[![Key in Kleopatra](../Images/915730a6e85e1c49dd312b52b74a3f3b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jazb-QKF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y5mmsdpetdi431wmk2lx.png)
+[![Key in Kleopatra](img/915730a6e85e1c49dd312b52b74a3f3b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jazb-QKF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y5mmsdpetdi431wmk2lx.png)
 
 1.  记下密钥 ID。我们马上就需要它。
 
@@ -48,13 +48,13 @@ GitHub 帮助文章[使用 GPG](https://help.github.com/articles/signing-commits
 
 1.  双击密钥以查看证书详细信息
 
-[![Key Details](../Images/4f298f34e142dbec0f807a298f19c202.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VZ06dV-1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/skr40shaed3fb5y0mdob.png)
+[![Key Details](img/4f298f34e142dbec0f807a298f19c202.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VZ06dV-1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/skr40shaed3fb5y0mdob.png)
 
 1.  点击导出并复制公共 gpg 密钥。
 
 *确保你复制了所有东西，包括`-----BEGIN PGP PUBLIC KEY BLOCK-----`和`-----END PGP PUBLIC KEY BLOCK-----`T3】*
 
-[![PGP public key](../Images/03785fff79e183773859043e2df4c156.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D1hfKT7u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pksmdnqadh7o1u1sw2qu.png)
+[![PGP public key](img/03785fff79e183773859043e2df4c156.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D1hfKT7u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pksmdnqadh7o1u1sw2qu.png)
 
 ## 配置 Git 对提交进行签名
 
@@ -80,7 +80,7 @@ GitHub 帮助文章[使用 GPG](https://help.github.com/articles/signing-commits
 
 为了检查它是否工作，将一些代码提交到一个已经设置为使用签名的存储库中。应该会提示您输入之前输入的密码。
 
-[![Enter Passphrase](../Images/e745ee71359763a2608bdea3fd3be2e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--veg18cXk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tm0n7ggg576sadu404ra.png)
+[![Enter Passphrase](img/e745ee71359763a2608bdea3fd3be2e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--veg18cXk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tm0n7ggg576sadu404ra.png)
 
 ## 配置 Kleopatra 将密码缓存更长时间
 
@@ -90,7 +90,7 @@ GitHub 帮助文章[使用 GPG](https://help.github.com/articles/signing-commits
 
 3.  设置缓存时间。86400 秒等于 1 天。
 
-[![Configure Kleopatra](../Images/bbe70389f0a1b563e39b65c3ef2e267d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SHaopJIQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/owh8hjtqe44uk6yirzno.png)
+[![Configure Kleopatra](img/bbe70389f0a1b563e39b65c3ef2e267d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SHaopJIQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/owh8hjtqe44uk6yirzno.png)
 
 ## 配置 Github 以显示已验证的提交
 
@@ -100,7 +100,7 @@ GitHub 帮助文章[使用 GPG](https://help.github.com/articles/signing-commits
 
 提交应该有一个经过验证的标记，您可以单击它来查看其他详细信息
 
-[![Verified Commits](../Images/dc86c1ff17042302feef79630a5cb0c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BM_nYCby--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oz35fl3rfl074o8osdyb.png)
+[![Verified Commits](img/dc86c1ff17042302feef79630a5cb0c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BM_nYCby--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oz35fl3rfl074o8osdyb.png)
 
 ## 结论
 

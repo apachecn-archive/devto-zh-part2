@@ -10,7 +10,7 @@
 
 在《深度思考》中，加里·卡斯帕罗夫讲述了米哈伊尔·塔尔如何花 40 分钟思考一步棋的故事。这最终成为一个伟大的举动，报纸谈论他如何准确地计算整个时间的举动。事实上，米哈伊尔在想一只被困在沼泽中的河马，如何把它拖出来。他意识到他不能准确地计算移动，并作出了一个直观的。
 
-[![](../Images/be9fbfffed82ffc37ea3e828012e1e35.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EnFe3Utm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.professorbeekums.com/img/2018/hippo.jpeg)
+[![](img/be9fbfffed82ffc37ea3e828012e1e35.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EnFe3Utm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.professorbeekums.com/img/2018/hippo.jpeg)
 
 这些突发的灵感需要创造力。这种灵感会让一位杰出的医生去检查别人没有想到的东西。促使程序员创建新软件模式的灵感。灵感促使音乐家尝试不同的音符组合。
 

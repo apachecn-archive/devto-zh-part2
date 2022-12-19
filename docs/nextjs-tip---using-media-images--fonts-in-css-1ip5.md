@@ -9,8 +9,8 @@
 ```
 These relative modules were not found:
 
-* ../../assets/images/Brand/kushy-logo-short-white.svg in ./components/Header/Header.less
-* ../../assets/images/Brand/Kushy API Logo.png in ./components/Header/Header.less 
+* ../../asseimg/Brand/kushy-logo-short-white.svg in ./components/Header/Header.less
+* ../../asseimg/Brand/Kushy API Logo.png in ./components/Header/Header.less 
 ```
 
 Enter fullscreen mode Exit fullscreen mode

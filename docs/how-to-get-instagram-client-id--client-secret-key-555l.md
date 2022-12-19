@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/franken/how-to-get-instagram-client-id--client-secret-key-555l>
 
-[![](../Images/78835f1959ddcc1872f2282534d82772.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i_xBq3gc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.com/images/stories/instagram-client-id.jpg)
+[![](img/78835f1959ddcc1872f2282534d82772.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i_xBq3gc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.cimg/stories/instagram-client-id.jpg)
 
 **Instagram 客户端 ID** 和**客户端密钥**用于在 Prestashop 网站上集成 Instagram 社交登录模块，允许访问者使用 Instagram ID 访问网站。
 
@@ -16,7 +16,7 @@
 
 没有它们，你的模块将无法与 Instagram API 交换数据。
 
-[![Instagram Client Id](../Images/78835f1959ddcc1872f2282534d82772.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i_xBq3gc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.com/images/stories/instagram-client-id.jpg)
+[![Instagram Client Id](img/78835f1959ddcc1872f2282534d82772.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i_xBq3gc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.cimg/stories/instagram-client-id.jpg)
 
 ## 如何获取 Instagram 客户端 ID 和客户端密钥
 
@@ -24,11 +24,11 @@
 
 参观[https://www.instagram.com/developer/register](https://www.instagram.com/developer/register)
 
-[![Instagram Developer Page](../Images/df640cf212d17e9e4628f6ade2451d64.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eFq9dTIZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.com/images/stories/instagram-developer-page.jpg)
+[![Instagram Developer Page](img/df640cf212d17e9e4628f6ade2451d64.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eFq9dTIZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.cimg/stories/instagram-developer-page.jpg)
 
 点击登录按钮登录 Instagram
 
-[![Login InstaGram](../Images/50914c3ed4ce3ae247c5ffd9fb5ac8d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vO1ocCVv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.com/images/stories/login-instagram.jpg)
+[![Login InstaGram](img/50914c3ed4ce3ae247c5ffd9fb5ac8d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vO1ocCVv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.cimg/stories/login-instagram.jpg)
 
 作为 Instagram 用户登录，或注册一个新帐户，继续本 [Prestashop 教程](https://www.prestasoo.com/Blog/?utm_source=devto&utm_medium=article&utm_campaign=instagram)。这很容易。我保证每一步都一样。
 
@@ -36,7 +36,7 @@
 
 在几秒钟内填写这些字段，注册成为开发人员:
 
-[![Developer Signup](../Images/f69cf299816457f4322a367e774641c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iTA03GKh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.com/images/stories/instagram-developer-signup.jpg)
+[![Developer Signup](img/f69cf299816457f4322a367e774641c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iTA03GKh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.cimg/stories/instagram-developer-signup.jpg)
 
 完成后，是时候构建您的第一个应用程序，将 Prestashop 社交登录模块连接到您的 Instagram API。
 
@@ -44,7 +44,7 @@
 
 点击注册您的应用程序开始
 
-[![Register Application](../Images/38c260f80efcf01ec507fb9e04160458.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D1l8oVe8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.com/images/stories/register-application.jpg)
+[![Register Application](img/38c260f80efcf01ec507fb9e04160458.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D1l8oVe8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.cimg/stories/register-application.jpg)
 
 填写表格中要求填写的所有字段:
 
@@ -53,10 +53,10 @@
 
 确认所有信息后，点击注册按钮查看最终结果。
 
-[![Register New Client Id](../Images/b35eef18431d336da6dff18a755f0e72.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i6x44R5Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.com/images/stories/register-new-client-id.jpg)
+[![Register New Client Id](img/b35eef18431d336da6dff18a755f0e72.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i6x44R5Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.cimg/stories/register-new-client-id.jpg)
 
 第四步-最终
 
 搞定了！您已经获得了 **[Instagram 客户端 ID](https://www.prestasoo.com/blog/instagram-client-id.html?utm_source=devto&utm_medium=article&utm_campaign=instagram)** 和**客户端密钥**！在 [Prestashop 模块](https://www.prestasoo.com/prestashop-addons.html?utm_source=devto&utm_medium=article&utm_campaign=instagram)的管理面板中复制并粘贴客户端 ID 和客户端密钥。
 
-[![Client Id and Client Secret](../Images/5ff782e39bb5c6b7cee95b5d5629562b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8NlKMb01--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.com/images/stories/client-id-client-secret-key.jpg)
+[![Client Id and Client Secret](img/5ff782e39bb5c6b7cee95b5d5629562b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8NlKMb01--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.cimg/stories/client-id-client-secret-key.jpg)

@@ -28,7 +28,7 @@ MVP 代表模型视图演示者。该名称来自于该架构模式中涉及的�
 
 为了更好地理解沟通流程，我们来看一个简短的流程图:
 
-[![](../Images/c7a208a31a1ff4c8b2bf05715958ef04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ETVfTTJ5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rp1qt752vl2hd11pqgye.png)
+[![](img/c7a208a31a1ff4c8b2bf05715958ef04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ETVfTTJ5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rp1qt752vl2hd11pqgye.png)
 
 解释完每个组件后，让我们来分解一下沟通:
 

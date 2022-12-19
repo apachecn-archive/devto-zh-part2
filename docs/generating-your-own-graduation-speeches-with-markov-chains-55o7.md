@@ -46,7 +46,7 @@
 
 ### 现在就试试吧
 
-[![Button](../Images/72130b7743a6586c3ed870384980df27.png)T2】](https://www.floydhub.com/run?template=https://github.com/whatrocks/markov-commencement-speech)
+[![Button](img/72130b7743a6586c3ed870384980df27.png)T2】](https://www.floydhub.com/run?template=https://github.com/whatrocks/markov-commencement-speech)
 
 点击此按钮在 FloydHub 上打开一个[工作区](https://docs.floydhub.com/guides/workspace/)，在这里你可以训练一个马尔可夫链模型，在一个真实的 JupyterLab 环境中生成“毕业典礼演讲风格”的句子。大约 300 篇著名演讲的[毕业典礼演讲数据集将被自动附加并在工作区中可用。跟着 Jupyter 笔记本走就行了。就这么简单，伙计们。](https://floydhub.com/whatrocks/datasets/commencement)
 
@@ -62,7 +62,7 @@
 
 但是马尔可夫链也在自然语言处理(NLP)的文本生成领域找到了一个很好的平衡点。或者，换句话说，它们非常适合创建 Picard 船长推特机器人。
 
-[![Picard](../Images/af8d724ada7d9dd20659ac2abfd3cba7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--caJSPEdn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4a3q7g8chscl0m9rhtt2.png)
+[![Picard](img/af8d724ada7d9dd20659ac2abfd3cba7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--caJSPEdn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4a3q7g8chscl0m9rhtt2.png)
 
 ## 产生有史以来最好的演讲
 
@@ -78,7 +78,7 @@
 
 好了，言归正传。如前所述，markovify 库非常容易使用。让我再次提醒您，只需点击上面的“在 FloydHub 上运行”按钮，就可以在`speech_maker`笔记本中跟随。实际上，这又是:
 
-[![Button](../Images/72130b7743a6586c3ed870384980df27.png)T2】](https://www.floydhub.com/run?template=https://github.com/whatrocks/markov-commencement-speech)
+[![Button](img/72130b7743a6586c3ed870384980df27.png)T2】](https://www.floydhub.com/run?template=https://github.com/whatrocks/markov-commencement-speech)
 
 为了生成我们的句子，我们将遍历我们的数据集中的所有演讲(可在`/floyd/input/speeches`路径获得),并为每个演讲创建一个马尔可夫模型。
 
@@ -126,7 +126,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 工作区包含一个 CSV，其中包含每个演讲的元数据(演讲者`name`、`school`和`year`)。这是你在毕业典礼演讲中崭露头角的机会。哦，这里有一个想法:你为什么不刷掉你的辛普森的电视剧本递归神经网络(RNN)代码，并在这个数据集上试一试？
 
-[![simpsons](../Images/35874e50c6282c58657d1fbff49e4611.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h0VNyweo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a6e2fhj4re3decsdzmlv.jpg)
+[![simpsons](img/35874e50c6282c58657d1fbff49e4611.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h0VNyweo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a6e2fhj4re3decsdzmlv.jpg)
 
 ## 将“在 FloydHub 上运行”添加到您自己的项目中
 

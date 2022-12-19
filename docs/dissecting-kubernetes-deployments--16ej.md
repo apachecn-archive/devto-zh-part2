@@ -16,7 +16,7 @@ Kubernetes 文档是这样描述部署的:
 
 下面是一个基本应用程序中的滚动部署示例:
 
-[![kuber-blog-post-animation](../Images/74a02975fab44ec4e8f4d4279c4850e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gh0CKQTm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1518733263-kuber-blog-post-animation.gif)
+[![kuber-blog-post-animation](img/74a02975fab44ec4e8f4d4279c4850e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gh0CKQTm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1518733263-kuber-blog-post-animation.gif)
 
 在此视频中，我们可以看到一个 10 机架部署正在展开，一次一个机架。当更新被触发时，部署将引导一个新的 Pod 并等待，直到该 Pod 响应请求。当这种情况发生时，它将终止一个 Pod 并启动一个新的。这种情况一直持续到所有旧的 pod 停止运行，并且我们有 10 个新的 pod 运行更新的部署。
 

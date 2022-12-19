@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/hydroweaver/ouch-oh-no-i-recursiond-myself-399n>
 
-[![image](../Images/297fd692a1e5a82455ae7b4c22a744da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3sZa1757--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://c1.staticflickr.com/3/2041/2361164281_cea03b0faa_z.jpg)
+[![image](img/297fd692a1e5a82455ae7b4c22a744da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3sZa1757--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://c1.staticflickr.com/3/2041/2361164281_cea03b0faa_z.jpg)
 
 嘿德弗斯！
 

@@ -56,7 +56,7 @@
 
 ### 工程注意事项
 
-[![Rails and WordPress](../Images/876847451e8cf3d2e01acaf027b12875.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PbO52Dn8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/ZCrfuerDT1GwVdi1r18k)T4】
+[![Rails and WordPress](img/876847451e8cf3d2e01acaf027b12875.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PbO52Dn8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/ZCrfuerDT1GwVdi1r18k)T4】
 
 WordPress 支持的博客可能需要定制，记住定制不是开发者考虑的唯一变化是很重要的。记住，已经有一个用现代技术建立的网站了。工程团队有一套工具和流程来开发和部署这个主站点。通过加入 WordPress 这样的传统内容管理系统，工程师们现在还必须考虑:
 
@@ -126,17 +126,17 @@ WordPress 支持的博客可能需要定制，记住定制不是开发者考虑�
 
 Butter 为你的内容编辑提供了和 WordPress 一样的易用体验。
 
-[![Butter blog](../Images/f07c46e49dd027be1c7ed1b25878568b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4Srjlc8g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/JMsj82qCRv64RhVqHfjy)T4】
+[![Butter blog](img/f07c46e49dd027be1c7ed1b25878568b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4Srjlc8g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/JMsj82qCRv64RhVqHfjy)T4】
 
 Butter 还提供了内置的 SEO、调度功能等等。没有插件安装和麻烦。
 
-[![Butter metadata](../Images/613ad24dc234434423250082a12669cd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CzzqTuJ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/xgrv2jaIQuS3WkpGBjDB)T4】
+[![Butter metadata](img/613ad24dc234434423250082a12669cd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CzzqTuJ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/xgrv2jaIQuS3WkpGBjDB)T4】
 
-[![Butter SEO](../Images/478ab330db71804957f3eba97fabdac6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CpP-BjbK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/jAHpkMqQRiU6MsN2Fwu6)T4】
+[![Butter SEO](img/478ab330db71804957f3eba97fabdac6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CpP-BjbK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/jAHpkMqQRiU6MsN2Fwu6)T4】
 
 ### 工程注意事项
 
-[![Butter and Rails](../Images/5ef225e5e2d7681535f405114686e175.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--e4DmRNtD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/EAZEyYkVSgpTADr4LMNS)T4】
+[![Butter and Rails](img/5ef225e5e2d7681535f405114686e175.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--e4DmRNtD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/EAZEyYkVSgpTADr4LMNS)T4】
 
 现在让我们来看看我们在 WordPress 上做的同样的工程考虑，看看它们在使用 Butter 时是什么样子。
 

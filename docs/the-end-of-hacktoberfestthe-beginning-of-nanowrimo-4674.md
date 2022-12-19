@@ -24,7 +24,7 @@
 
 这一次是第五年的 Hacktoberfest。作为对所有成功完成挑战的前 50，000 名开发者的回报，他们将获得一件限量版衬衫。
 
-[![](../Images/7202ec62f61d26ca74218ea4d974a162.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MzYkwv1m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2Am397bqcVmzHyXezP.png) 
+[![](img/7202ec62f61d26ca74218ea4d974a162.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MzYkwv1m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2Am397bqcVmzHyXezP.png) 
 
 <figcaption>Hacktoberfest T 恤—图片来源:Github 博客</figcaption>
 
@@ -32,7 +32,7 @@
 
 今年，我还参加了挑战，并在 10 月份成功创建了 7 个拉动式请求。幸运的是，它们都被合并了。我向 [Mozilla](https://github.com/mozilla-mobile/android-components) 、 [Travel Mate](https://github.com/project-travel-mate/Travel-Mate) 和我自己的库( [EasyValidation](https://github.com/wajahatkarim3/EasyValidation) 和 [MediumClap-Android](https://github.com/wajahatkarim3/MediumClap-Android) )提交了我的贡献。
 
-[![](../Images/b036e0b36bad0c08932d415c7b6c6f37.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yTstMvDj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AXI3JazFHmtCtz0c4S0LuvA.png) 
+[![](img/b036e0b36bad0c08932d415c7b6c6f37.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yTstMvDj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AXI3JazFHmtCtz0c4S0LuvA.png) 
 
 <figcaption>[我为 Hacktoberfest 2018](https://hacktoberfest.digitalocean.com/stats/wajahatkarim3)</figcaption>
 

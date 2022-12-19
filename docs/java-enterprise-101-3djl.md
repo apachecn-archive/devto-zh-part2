@@ -14,7 +14,7 @@ Java EE 不仅仅是一个软件库。它也是一种建筑和哲学。JEE 不�
 
 那么你准备好进行一些严肃的软件开发了吗？抛开任何非类型化的语言、花哨的脚本、炒作驱动的开发和时髦的技术，让我们认真地编写可以运行 20 多年的软件。简单来说，Java EE 架构如下:
 
-[![Java EE Stack](../Images/59b6bcb37ca89e0e6c687d60abfee2cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6O9NQqwv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vyzmzbjq121deygrr6pq.png)
+[![Java EE Stack](img/59b6bcb37ca89e0e6c687d60abfee2cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6O9NQqwv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vyzmzbjq121deygrr6pq.png)
 
 好吧，当然，你需要一个大果壳。让我们从一些初步观察开始:
 
@@ -61,7 +61,7 @@ Java EE 不仅仅是一个软件库。它也是一种建筑和哲学。JEE 不�
 
 # JEE 语丝
 
-[![JEE Thread Management](../Images/ebfbd5d8f6db3ecc14727bf85b9efa79.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CxspfcKe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ba3u7mddnb6yhw28n0jb.png)
+[![JEE Thread Management](img/ebfbd5d8f6db3ecc14727bf85b9efa79.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CxspfcKe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ba3u7mddnb6yhw28n0jb.png)
 
 一个**请求**总是被绑定到 JEE 的一个**线程**，该线程由应用程序容器实例化和管理(通常在一个线程池中)。这意味着 JEE 服务器应用程序本质上总是并发的，这是无法避免的。众所周知，正确处理并发是**的难点**。幸运的是，当谈到并发性时，JEE 架构已经涵盖了您。如果您看上面的图片，您会看到四个用户并行地使用应用程序，每个用户由绑定到一个线程的请求/响应来表示。有一个特别的细节值得注意:螺纹**从不相交**。应用程序不执行同步，而是将同步留给真正擅长同步的组件:数据库。
 

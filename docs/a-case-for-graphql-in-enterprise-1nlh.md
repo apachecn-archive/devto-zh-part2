@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/hasurahq/a-case-for-graphql-in-enterprise-1nlh>
 
-[![](../Images/a26f9b37275b44e283a067ccdebd8885.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LlJNV2PC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/a-case-for-graphql-in-enterprise-84b4d13c72b3/1-5lwuNFUXOyTa1eqK3QJvrw.png)
+[![](img/a26f9b37275b44e283a067ccdebd8885.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LlJNV2PC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/a-case-for-graphql-in-enterprise-84b4d13c72b3/1-5lwuNFUXOyTa1eqK3QJvrw.png)
 
 GraphQL 最初由脸书于 2015 年发布，现已发展成为一项久经考验的技术，有望解决企业 IT 领域的关键挑战，特别是在加速 API/app 开发周期方面。GraphQL 用户名单不断增加，包括 Github、Twitter 和 Intuit 等公司。
 

@@ -8,7 +8,7 @@
 
 下面是该过程的快速流程图:
 
-[![](../Images/8c9dd56e9f66fbb4e89b90c96f4d4cd1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BmbcPw0J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/08/Conference_no.jpg)
+[![](img/8c9dd56e9f66fbb4e89b90c96f4d4cd1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BmbcPw0J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/08/Conference_no.jpg)
 
 把它分解成指导方针，它是这样的:
 

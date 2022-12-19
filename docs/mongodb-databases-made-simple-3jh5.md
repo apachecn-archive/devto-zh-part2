@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/rmadisetti3/mongodb-databases-made-simple-3jh5>
 
-[![alt text](../Images/9b1fe520890e21816e3e8264cf920fbd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WZvRm2fk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8qw4l1vcq9ohkgf5fppc.png)
+[![alt text](img/9b1fe520890e21816e3e8264cf920fbd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WZvRm2fk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8qw4l1vcq9ohkgf5fppc.png)
 
 各位 Javascript 和 Node.js 编码员好，
 

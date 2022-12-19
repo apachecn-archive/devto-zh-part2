@@ -4,7 +4,7 @@
 
 移动应用生态系统正在爆炸，因为它已经成为地球上最拥挤的行业之一。全球的应用用户数量已经达到数十亿，开发者数量徘徊在几百万左右。
 
-[![](../Images/11f04082213ad4208f5365e33cdd2c00.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0qTI12d6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z5byye57eml7n3d1iqpq.jpg)
+[![](img/11f04082213ad4208f5365e33cdd2c00.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0qTI12d6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z5byye57eml7n3d1iqpq.jpg)
 
 截至 2017 年底，App Store、Play store 和其他任何移动应用商店中约有 1970 亿个应用。虽然一个人平均每天使用的应用程序数量从 7 到 9 个不等，但很明显，如果没有移动应用程序，生活就会像穴居人的生活一样。
 

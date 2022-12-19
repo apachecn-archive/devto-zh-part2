@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/rajil/need-tips-to-start-software-engineering-14dm>
 
-[![](../Images/7079838fa602c6c6184a446909dc252c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nWLoPsPj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n5q1uudov6xv4d9zp0j4.png)
+[![](img/7079838fa602c6c6184a446909dc252c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nWLoPsPj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n5q1uudov6xv4d9zp0j4.png)
 
 # 第一步——询问同行
 

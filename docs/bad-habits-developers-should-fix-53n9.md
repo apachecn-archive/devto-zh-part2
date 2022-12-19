@@ -10,7 +10,7 @@
 
 ## 课间不外出。
 
-[![](../Images/8fedc69f0c7618db40f7276c1842c5bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LcHDzuhW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.wallpaperup.com/uploads/wallpapers/2014/04/01/318673/63eebf3d72c4664d729723dc1952eeb6.jpg)
+[![](img/8fedc69f0c7618db40f7276c1842c5bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LcHDzuhW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.wallpaperup.com/uploads/wallpapers/2014/04/01/318673/63eebf3d72c4664d729723dc1952eeb6.jpg)
 
 对人们说你从来不出去总是一个有趣的笑话。也许这很有趣，因为它部分是真的。
 
@@ -26,7 +26,7 @@
 
 ## 没有变得过大
 
-[![](../Images/58836ef72eccdd73e5d940f73510102f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LI-V0a20--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thumbs.dreamstime.com/z/muscular-athletic-bodybuilder-fitness-model-use-computer-portrait-young-physically-fit-man-using-laptop-84261851.jpg)
+[![](img/58836ef72eccdd73e5d940f73510102f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LI-V0a20--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thumbs.dreamstime.com/z/muscular-athletic-bodybuilder-fitness-model-use-computer-portrait-young-physically-fit-man-using-laptop-84261851.jpg)
 
 我知道，我知道。你大概在想，你为什么不应该成为一个巨型肌肉男，因为你不在乎这个。我同意，我自己并不是一个性感肌肉的开发者。我可以说，健身让我的事业和生活受益匪浅。很难开始健身。尤其是如果你是新手的话。开发人员有很长的一天，并使用大量的脑力，光是想想之后的锻炼就经常让人筋疲力尽。长时间坐着不动，对身体来说真的很难。
 
@@ -36,7 +36,7 @@
 
 ## 只把编程作为业余爱好
 
-[![](../Images/ca05807365c7e6e6e458d5b7125f3e55.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XXg9A7em--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.ytimg.com/vi/RfDT2Rho1sA/maxresdefault.jpg)
+[![](img/ca05807365c7e6e6e458d5b7125f3e55.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XXg9A7em--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.ytimg.com/vi/RfDT2Rho1sA/maxresdefault.jpg)
 
 我喜欢发展。程序员和软件包有一个巨大的生态系统，所以有人想整天做这个是有道理的。也就是说，如果这是你的方法，那么这是一个滑坡。这不能怪开发商。我们的工作不断出现新事物，我们需要保持领先，所以如果我们没有编程作为爱好，我们就会落后。这真的很糟糕，因为在漫长的几天或几周后，我们开始讨厌我们必须编码的事实。甚至开始讨厌你的工作。
 
@@ -46,7 +46,7 @@
 
 ## 呆得太舒服了
 
-[![](../Images/b8d5f7f0677c3b208e23be0a3d91209d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--235mtp-g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/www.islamicinsights.com/wp-content/uploads/sleepbaby-e1483071703213.jpg%3Fresize%3D780%252C405)
+[![](img/b8d5f7f0677c3b208e23be0a3d91209d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--235mtp-g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/www.islamicinsights.com/wp-content/uploads/sleepbaby-e1483071703213.jpg%3Fresize%3D780%252C405)
 
 在开发人员的生活中，会有这样一个时刻，你会不断地使用相同的框架/语言/等等，你会开始学习新的东西。这有几个原因。这通常发生在以下情况:
 
@@ -62,7 +62,7 @@
 
 ## 没有明确的方向。
 
-[![](../Images/84e5ff0682bb52ba6bcf3a103ea0bb09.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HmwPgncH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.tikihumor.com/wp-content/uploads/sites/37/2014/12/which-way-to-go.png)
+[![](img/84e5ff0682bb52ba6bcf3a103ea0bb09.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HmwPgncH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.tikihumor.com/wp-content/uploads/sites/37/2014/12/which-way-to-go.png)
 
 这个在新人中很常见。框架、语言、概念等的饱和生态系统...很难跟上，当你想开始时，它会让你不知所措。很多时候，这导致你在执行任务的能力上存在危机，甚至质疑你在某条路线上的进展。开发人员经常把自己分散得太开，这意味着他们知道这么多不同选项的基础，但不太了解某个特定的选项。这是有问题的。
 

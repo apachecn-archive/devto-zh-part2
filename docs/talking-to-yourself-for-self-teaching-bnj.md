@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/michaelherold/talking-to-yourself-for-self-teaching-bnj>
 
-[![A microphone on a stand.](../Images/82a272cf6840e148e8af19dc86c0843f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0mFFCwcA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://michaeljherold.com/wp-content/uploads/2018/08/mic-mic-stand-microphone-64057-1024x576.jpg)
+[![A microphone on a stand.](img/82a272cf6840e148e8af19dc86c0843f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0mFFCwcA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://michaeljherold.com/wp-content/uploads/2018/08/mic-mic-stand-microphone-64057-1024x576.jpg)
 
 你曾经自言自语过吗？公开怎么样？作为一个社会，我们经常取笑我们的朋友自言自语。但是自言自语是自学的一种强有力的技巧。作为练习，我试着用推特风暴来分享我是如何重新学习一种数值方法技术的。这篇文章讲述了我为什么这么做以及我学到了什么。我也会分享一下我觉得我还会不会再做。
 
@@ -24,7 +24,7 @@
 
 我转向推特。
 
-> ![Michael Herold profile image](../Images/6ff5897e153779d4988e5f3ebbefa99a.png)迈克尔·赫罗德@ mherold![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)🤔不知道鲍尔默高峰对于数学来说是否存在？我喝了第二杯啤酒，刚刚破解了我的数值方法教科书。2018 年 8 月 14 日 23 点 06 分[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1029504464854638593)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1029504464854638593)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1029504464854638593)
+> ![Michael Herold profile image](img/6ff5897e153779d4988e5f3ebbefa99a.png)迈克尔·赫罗德@ mherold![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)🤔不知道鲍尔默高峰对于数学来说是否存在？我喝了第二杯啤酒，刚刚破解了我的数值方法教科书。2018 年 8 月 14 日 23 点 06 分[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1029504464854638593)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1029504464854638593)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1029504464854638593)
 
 我发起了一场“推特风暴”，或者形成一个更长思想的推特链。每条推文要么是我阅读的摘录，要么是对文字的单一思考。这让我放慢脚步，分析自己在想什么。这真的很有效。因为我必须向自己解释这些概念，以便把它们写下来，所以我设法从多个角度来看待每一个概念。
 

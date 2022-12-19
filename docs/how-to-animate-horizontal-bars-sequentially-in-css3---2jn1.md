@@ -77,7 +77,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 上面的 HTML 和 CSS 一起将呈现为。
 
-[![Bars](../Images/c2146bbfce93def1d19ba7cb130cd711.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J1VZ_YXP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gasjfjva9z0oe63zdhi8.png)
+[![Bars](img/c2146bbfce93def1d19ba7cb130cd711.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J1VZ_YXP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gasjfjva9z0oe63zdhi8.png)
 
 现在最有趣的部分，**动画**。因为有 6 个小节，我们必须有 6 个不同的*@关键帧*来按顺序激活它们。让我先展示一下*@关键帧*，然后我会详细解释它们。
 

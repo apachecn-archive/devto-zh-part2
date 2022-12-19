@@ -76,7 +76,7 @@
 
 [这里](https://www.alispit.tel/ar-javascript/#/intro)是我幻灯片的一个例子！
 
-[![what my slides look like](../Images/a2d67dd871d745b47e15df204c2be267.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pePdmZDE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dh2s8xntfxmkforp2ish.png)
+[![what my slides look like](img/a2d67dd871d745b47e15df204c2be267.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pePdmZDE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dh2s8xntfxmkforp2ish.png)
 
 我倾向于把我的 Twitter 句柄放在第一张幻灯片上，这样人们可以在我走的时候给我贴标签，有些人甚至把他们的句柄放在每张幻灯片上！我在最后一张幻灯片上也有我所有的链接，这样人们可以在之后联系我。
 
@@ -86,7 +86,7 @@
 
 ## 你说话的日子
 
-[![Me speaking at an event](../Images/c4ef4acaf366d34962ddf00aa25e462d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3PJUGvi6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y9ckdz5mc77013uawwq7.jpg)
+[![Me speaking at an event](img/c4ef4acaf366d34962ddf00aa25e462d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3PJUGvi6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y9ckdz5mc77013uawwq7.jpg)
 
 所以，我不会粉饰这一点，你几乎肯定会在你演讲的那天感到紧张，尤其是在演讲之前。它发生了！我还是会紧张，我总是这样！我最大的建议是在演讲前听你真正喜欢的欢快音乐——我每次演讲前都会听布兰妮·斯皮尔斯和碧昂斯的音乐，我很喜欢。我穿自己觉得舒服的衣服，这通常是一种声明——这是另一件让我在众人面前更自信的事情。
 

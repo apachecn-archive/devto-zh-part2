@@ -12,7 +12,7 @@
 
 但在我开始之前，我想提一下，这是我第一次来保加利亚，我非常高兴能访问这个国家，了解这里的文化，欣赏美丽的风景，并在这里结交一些新朋友。这是在我们酒店房间拍的照片:
 
-[![Sofia](../Images/b4942c3e146ef410d5ba5411c0035830.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yhzKaH_A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mhz7xf6psqi6lwfxhsj6.jpg)
+[![Sofia](img/b4942c3e146ef410d5ba5411c0035830.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yhzKaH_A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mhz7xf6psqi6lwfxhsj6.jpg)
 
 首先，我有几个问题要问你:
 
@@ -21,7 +21,7 @@
 
 好吧。所以当我说副业的时候你会想到什么？对我来说，是这样的。
 
-[![CommitStrip comic](../Images/cc55ef667b7aaeadae677a6dcce33fc9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uLcS_s3r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cpqqayl5qtda1repkjgi.png)
+[![CommitStrip comic](img/cc55ef667b7aaeadae677a6dcce33fc9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uLcS_s3r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cpqqayl5qtda1repkjgi.png)
 
 也许你知道 CommitStrip，这是一个关于开发人员日常生活的博客，我喜欢阅读他们的文章，但我最喜欢的文章之一是这个。我的意思是这只是一个片段的一部分，但我认为这是最有意义的部分。它显示了一个非常典型的情况....比如有数百万个未完成的永无止境的项目？你们中有多少人有过这种感觉？
 
@@ -33,7 +33,7 @@
 
 Twitter、ProductHunt 甚至 GitHub 都曾是副业。成为百万美元创业公司的副业项目还有很多...
 
-[![Famous examples](../Images/c8a9bb8e0f807741886fe76892e031ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sQb4BjQ5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fufflxgr8knyrzir50gu.PNG)
+[![Famous examples](img/c8a9bb8e0f807741886fe76892e031ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sQb4BjQ5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fufflxgr8knyrzir50gu.PNG)
 
 ## 我的项目
 
@@ -43,7 +43,7 @@ Twitter、ProductHunt 甚至 GitHub 都曾是副业。成为百万美元创业�
 
 下一个叫做词汇。这个故事并不有趣，因为我记得，我真的想做一个应用程序，但我不想学习 Android 和 iOs。所以我寻找另一个选择，那就是跨平台应用程序的世界。为此，你只需要 HTML、CSS 和 JavaScript 知识。所以我想到了一个有趣的文字游戏，我做到了。这是我发布到应用商店的第一款应用，所以你甚至可以从 [Play Store](https://play.google.com/store/apps/details?id=com.floppylab.vocable) 下载并试用它！:)
 
-[![vocable](../Images/ddc2324609d641603e8d5e27bf5f5ce9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---94eu5ru--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/media-p.slid.es/uploads/909178/images/5265017/pasted-from-clipboard.png)
+[![vocable](img/ddc2324609d641603e8d5e27bf5f5ce9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---94eu5ru--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/media-p.slid.es/uploads/9091img/5265017/pasted-from-clipboard.png)
 
 这是我目前正在做的事情，Karancs-Medves Kalauz。这是一本我打算帮助当地社区的旅游指南。在我的家乡周围，有许多美丽的景点，但我们有相当多的游客，而且我们的游客也没有真正意识到这些景点。这是我想用这个网站解决的问题。事实上，它是一个 Spring Boot 应用，前端是 Vue.js，我也在计划一个移动应用。还可以查看它的 [Instagram feed](https://www.instagram.com/karancsmedveskalauz/) 。
 
@@ -51,13 +51,13 @@ Twitter、ProductHunt 甚至 GitHub 都曾是副业。成为百万美元创业�
 
 (我之前在 DEV.to 上写过，见[这里](https://dev.to/leonorader/solve-the-cretan-maze-2fdg))
 
-[![Creatan Maze](../Images/6dc72469f9ea30bbd858866e61001bed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--reL3yb7k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rlwffaga4bd8ndh6pb4g.png)
+[![Creatan Maze](img/6dc72469f9ea30bbd858866e61001bed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--reL3yb7k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rlwffaga4bd8ndh6pb4g.png)
 
 ## 弊
 
 既然我们对副业有了一个概念，让我们问一个问题:为什么有人愿意花时间在副业上？
 
-[![Cons](../Images/3fed1dc9b3dbc1561dd061abfcd834fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AcOH_ief--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/media-p.slid.es/uploads/909178/images/5251531/pasted-from-clipboard.png)
+[![Cons](img/3fed1dc9b3dbc1561dd061abfcd834fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AcOH_ief--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/media-p.slid.es/uploads/9091img/5251531/pasted-from-clipboard.png)
 
 (解释或更正刚说过的话)我是说...你可能会说你没有时间。我猜你们大多数人都是全职开发人员。你可以说在办公室工作了 8 个小时后，你累了，你一点也不在乎，或者你有一个家庭，你想花更多的时间和他们在一起。在周末，你想远离键盘，去山里远足或参加当地的足球队。
 
@@ -73,7 +73,7 @@ Twitter、ProductHunt 甚至 GitHub 都曾是副业。成为百万美元创业�
 
 让我给你看看所有的优点！
 
-[![Pros](../Images/85cc525ac8cafdb2bada362ed1ee3948.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h764UkDE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/media-p.slid.es/uploads/909178/images/5251542/pasted-from-clipboard.png)
+[![Pros](img/85cc525ac8cafdb2bada362ed1ee3948.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h764UkDE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/media-p.slid.es/uploads/9091img/5251542/pasted-from-clipboard.png)
 
 我想强调的第一个优势是学习新技术，新的开发技能。
 
@@ -83,7 +83,7 @@ Twitter、ProductHunt 甚至 GitHub 都曾是副业。成为百万美元创业�
 
 举例来说，你可以有一个项目来学习如何编写干净的代码，如何重构遗留代码或者如何进行测试驱动的开发，而不是一直更新 JavaScript 领域的最新前端框架，因为我们都知道这些事情需要花费大量的时间来掌握。你可以试着读一本该题目的必读书籍，同时将知识落实。
 
-[![Technologies](../Images/4e2175c94381d0587408efbdfce9263a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ONO08po2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ap1zgnppxkv0e3g0wv4f.PNG)
+[![Technologies](img/4e2175c94381d0587408efbdfce9263a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ONO08po2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ap1zgnppxkv0e3g0wv4f.PNG)
 
 兼职项目的另一个好处是，你可以在办公时间之外进行大量练习。也许如果你在工作和业余爱好项目中使用相同的技术，那么你可能会预先遇到典型的错误和陷阱，这样你就可以在工作中更加自信。您将了解最佳实践，因此您可能能够帮助其他人做出正确的决定，就使用库 A 而不是库 B 提供建议，并为您节省时间，甚至为您的公司节省资金。
 
@@ -95,7 +95,7 @@ Twitter、ProductHunt 甚至 GitHub 都曾是副业。成为百万美元创业�
 
 这是另一种可以通过这些旧代码片段简单提高的技能:重构。把它想成是在你必须做的遗留代码上工作，做它需要做的事情，通过把有缺陷的、易受攻击的代码行变成漂亮的东西，一行一行地做改变，小的，但从长远来看是强大的改进。
 
-[![night owls](../Images/c85b68e1253ec68c9b49539b8c197551.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kiipdKQm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/media-p.slid.es/uploads/909178/images/5261023/pasted-from-clipboard.png)
+[![night owls](img/c85b68e1253ec68c9b49539b8c197551.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kiipdKQm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/media-p.slid.es/uploads/9091img/5261023/pasted-from-clipboard.png)
 
 副业也很棒，因为它们在你的简历上看起来很棒，在面试中，当他们问你的项目时，你会很高兴地说你有这个，那个，甚至还有其他一些东西。这有助于建立网上形象，而且肯定不会对你的简历、职业、人脉和职业发展造成任何伤害。
 
@@ -109,7 +109,7 @@ Twitter、ProductHunt 甚至 GitHub 都曾是副业。成为百万美元创业�
 
 我的一个朋友还说，一个好的副业能让你在睡觉的时候赚钱...但有时它可能会造成一些伤害，因为有些人在他们的项目开始赚钱时变得疯狂，即使是很少的钱，通常主要目标也不是赚钱，而是学习，进步，成长。
 
-[![business](../Images/d11ea484368e73ce0019dd8c06fef020.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PR_8ghUs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/media-p.slid.es/uploads/909178/images/5261382/pasted-from-clipboard.png)
+[![business](img/d11ea484368e73ce0019dd8c06fef020.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PR_8ghUs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/media-p.slid.es/uploads/9091img/5261382/pasted-from-clipboard.png)
 
 我还有几个优势副业给你。例如，如果你在一个开源项目上合作，或者为一个社区做一些事情，那么你将能够与来自世界各地的其他开发者联系，结交一些新的朋友和关系。听起来真不错，不是吗？
 
@@ -145,7 +145,7 @@ Twitter、ProductHunt 甚至 GitHub 都曾是副业。成为百万美元创业�
 
 尽管你在一个项目上投入了所有的努力，事情还是会发生，所以你总是有一个好的理由不去完成一个项目。比如去度假，上德语课，或者只是在网上阅读有趣的东西。但有时你必须自己说，“嘿，你要完成这个应用程序，并将其放入 Android 应用程序商店。不管花多长时间，你每天至少要花一个小时在这个应用上，直到完成为止。”
 
-[![what a feeling](../Images/fbffad2b06550a978d41944f5ecd1459.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G1GkeqsQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/media-p.slid.es/uploads/909178/images/5261144/pasted-from-clipboard.png)
+[![what a feeling](img/fbffad2b06550a978d41944f5ecd1459.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G1GkeqsQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/media-p.slid.es/uploads/9091img/5261144/pasted-from-clipboard.png)
 
 ### 第六步。去直播！
 
@@ -170,4 +170,4 @@ Twitter、ProductHunt 甚至 GitHub 都曾是副业。成为百万美元创业�
 
 非常感谢您的关注，希望对您有用！:)
 
-[![Experiment! :) ](../Images/cf9f419e2e400375b8518059aa303a77.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--220AXcX0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/media-p.slid.es/uploads/909178/images/5261151/pasted-from-clipboard.png)
+[![Experiment! :) ](img/cf9f419e2e400375b8518059aa303a77.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--220AXcX0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/media-p.slid.es/uploads/9091img/5261151/pasted-from-clipboard.png)

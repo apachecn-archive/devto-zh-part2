@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/geeksamu/deploy-angular-6-application-to-netlify-48g2>
 
-[![](../Images/965e8cc2cb31cdec3a54a29184fe202f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xlfbTJ3i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AByAhY7BtpARVPzkgM6yV1Q.png) 
+[![](img/965e8cc2cb31cdec3a54a29184fe202f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xlfbTJ3i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AByAhY7BtpARVPzkgM6yV1Q.png) 
 
 <figcaption>**部署 Angular 6 应用到 Netlify**</figcaption>
 
@@ -33,11 +33,11 @@
 
 你必须从[这里](https://github.com/new)创建新的存储库
 
-[![](../Images/cb43abaa14966b73c41d16589a4da581.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4QY8v2JQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AiTC5Dl8vgTIubNWR.png)
+[![](img/cb43abaa14966b73c41d16589a4da581.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4QY8v2JQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AiTC5Dl8vgTIubNWR.png)
 
 创建存储库后，您应该会看到这样的页面，但是存储库的名称会有所不同
 
-[![](../Images/8c94e0e4ddaaccc4b584631202d9b839.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CURYm4EF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AGAAQJ2B3uWbGn-BZ.png)
+[![](img/8c94e0e4ddaaccc4b584631202d9b839.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CURYm4EF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AGAAQJ2B3uWbGn-BZ.png)
 
 现在打开你的终端，将你当前的目录切换到我们的应用程序目录。
 
@@ -87,17 +87,17 @@ Netlify 是我最近见过的最美的东西之一。实际上，我希望我以
 
 之后你会被重定向到创建你的站点
 
-[![](../Images/616879df98ec556987a4920642700e2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KhLUnq0i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AzazFtXyv83YSkKrW.png)
+[![](img/616879df98ec556987a4920642700e2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KhLUnq0i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AzazFtXyv83YSkKrW.png)
 
 点击 Git 中的新站点
 
-[![](../Images/00bb37df6e9c74ea28f573f0860c0824.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_83LSwtg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AsBifB82JSbM2qUrG.png)
+[![](img/00bb37df6e9c74ea28f573f0860c0824.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_83LSwtg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AsBifB82JSbM2qUrG.png)
 
 现在选择 Github，如果你使用另一个 git 系统，选择它。
 
 接下来，选择你的回购。我将部署名为 angular-6-article-series 的 repo
 
-[![](../Images/eb1fc9ad0544a3e88086fbf1e2eba388.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_HQzptbD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AXWiOncSYjX9EGZCl.png)
+[![](img/eb1fc9ad0544a3e88086fbf1e2eba388.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_HQzptbD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AXWiOncSYjX9EGZCl.png)
 
 接下来，我们必须为我们的部署设置一些设置。
 
@@ -118,7 +118,7 @@ ng build --prod
 
 在 dist 中创建新文件夹。确切地说，它是 Angular 在您运行 ng build 时创建的目录，因此它是我们的应用程序的目录。
 
-[![](../Images/aaf29987b0b2aabd26b1b9f276f17699.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_pFTC71n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AUYyvLr7AdS0iT_nS.png)
+[![](img/aaf29987b0b2aabd26b1b9f276f17699.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_pFTC71n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AUYyvLr7AdS0iT_nS.png)
 
 然后单击 Deploy site
 
@@ -138,7 +138,7 @@ ng build --prod
 
 它将创建 dist 文件夹。只需将它拖放到“网络生活”页面的这一部分
 
-[![](../Images/fef881dbc15091aed5514767fa9345cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w_E_iotM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AwwzeBi2SWTSIVFvM.png)
+[![](img/fef881dbc15091aed5514767fa9345cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w_E_iotM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AwwzeBi2SWTSIVFvM.png)
 
 这种解决方案可行，但不是最好的。我们将无法使用 Netlify 的持续部署
 

@@ -4,7 +4,7 @@
 
 会员现在可以因表现出色而获得徽章。到目前为止，我们已经推出了几个:一个是因为在每周必读的综述中发表了一篇文章，另一个是因为长寿。
 
-[![](../Images/9675fc9040cce04ce9b5b28a3fe37d21.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EvRQD-c2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/2h2Y2s1A2u3s/Image%25202018-05-25%2520at%25203.34.29%2520PM.png)
+[![](img/9675fc9040cce04ce9b5b28a3fe37d21.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EvRQD-c2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/2h2Y2s1A2u3s/Image%25202018-05-25%2520at%25203.34.29%2520PM.png)
 
 它们将作为各种拼贴画出现在人们的个人资料中，根据授予徽章实例的数据库 ID 而有不同的倾斜。
 

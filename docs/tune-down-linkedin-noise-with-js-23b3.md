@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/hydroweaver/tune-down-linkedin-noise-with-js-23b3>
 
-[![image](../Images/bdfe6ae0abfc80bb91bba8f277a5a09a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nmG1DWUj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/f/f6/White-noise-mv255-240x180.png)
+[![image](img/bdfe6ae0abfc80bb91bba8f277a5a09a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nmG1DWUj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/f/f6/White-noise-mv255-240x180.png)
 
 大家好，
 

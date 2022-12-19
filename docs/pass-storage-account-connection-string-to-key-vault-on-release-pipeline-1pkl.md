@@ -16,7 +16,7 @@
 
 # 配置任务
 
-[![img](../Images/b54981f2c120120466d1b0dd639a3104.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K70qsoKi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/meanin/vsts-tasks/master/screenshots/connectionstringtokeyvault.png)
+[![img](img/b54981f2c120120466d1b0dd639a3104.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K70qsoKi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/meanin/vsts-tasks/master/screenshots/connectionstringtokeyvault.png)
 
 要使用此任务，您必须拥有一个配置了服务主体的[Azure 资源管理器连接。设置要传递到密钥库中的连接字符串的存储帐户名。设置密钥存储库名称(如果不存在，将立即创建)。设置一个键名。如果您的密钥库尚不存在，您可以为它设置一个位置，或者它将从资源组(由服务主体限定范围)继承位置。瞧，任务执行完成后，您的密钥安全地存储在密钥库中。](https://docs.microsoft.com/en-us/azure/devops/pipelines/library/service-endpoints?view=vsts#sep-azure-rm)
 

@@ -8,7 +8,7 @@
 
 如果你想跟随我的旅程，这是我的[帖子索引](https://dev.to/link2twenty/adventures-of-a-hobbyist--index-4oj7)。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)[ignis-pwa](https://github.com/ignis-pwa)/[node tree](https://github.com/ignis-pwa/nodetree)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)[ignis-pwa](https://github.com/ignis-pwa)/[node tree](https://github.com/ignis-pwa/nodetree)
 
 ### 一个用 NodeJS 写的 MySQL 浏览器
 
@@ -28,7 +28,7 @@
 
 ## 界面更新
 
-[![interface](../Images/152d7d4de603a381b2d823123010d211.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k2X3hztE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2fhic31nkdxuhhq228hq.gif)
+[![interface](img/152d7d4de603a381b2d823123010d211.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k2X3hztE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2fhic31nkdxuhhq228hq.gif)
 
 希望你能看到，我已经添加了一个新的“状态”,这将引入更多的 HTML 来覆盖已经存在的内容，但我将在稍后进行讨论。
 
@@ -36,7 +36,7 @@
 
 这里有一个选择菜单仔细看看
 
-[![menu](../Images/b5243a4636334803809b3b1ab9beaf3f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WaZlW9U9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a9y5720fgww1ftbtcoe0.gif)
+[![menu](img/b5243a4636334803809b3b1ab9beaf3f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WaZlW9U9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a9y5720fgww1ftbtcoe0.gif)
 
 ## JS 路由器
 
@@ -93,7 +93,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我不知道这是不是一个好主意，它似乎足够快了，我一直在关注我的灯塔得分，也不知道这是否有用，目前它都是绿色的。
 
-[![lighthouse](../Images/6d25ff4704788f7b2d1b062e21e6de90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9cdpCnIa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tek7pnv7cfio6h47an6b.png)
+[![lighthouse](img/6d25ff4704788f7b2d1b062e21e6de90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9cdpCnIa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tek7pnv7cfio6h47an6b.png)
 
 这个状态路由器背后的想法是改变页面而不更新它，我知道这意味着后退按钮现在已经失效，所以我可能会在下周查看。
 

@@ -14,7 +14,7 @@
 
 几个月前，我在使用 Wekan [捐赠的服务器](https://blog.wekan.team/2018/01/wekan-progress-on-x64-and-arm/index.html)时遇到了一些崩溃/重启问题。花了很多时间和支持一起调试，崩溃的原因是我确实在服务器上运行了 LXDE desktop 和 VirtualBox，它们在服务器上争夺一些有限的资源。我也能够在我的笔记本电脑上复制同样的行为。我用 x2go 连接到那个桌面。解决方案是我将移除 LXDE desktop 和 VirtualBox，并使用基于 libvirt 的 virt-manager GUI 桌面客户端。有了它，我可以通过 ssh 连接将远程桌面 VNC 连接到服务器，以查看服务器上运行的虚拟机。
 
-[![Using virt-manager for remote desktop](../Images/3195b94a2d4b65814bdb3be801a9f2b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ST-yh3Xr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g4pbpuvqe6e8bq2dq9u4.png)
+[![Using virt-manager for remote desktop](img/3195b94a2d4b65814bdb3be801a9f2b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ST-yh3Xr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g4pbpuvqe6e8bq2dq9u4.png)
 
 我还没有想出如何建立 VirtualBox。ova 文件，因为我没有让 VirtualBox 在 KVM/QEMU 中运行。我可能需要使用 [https://packer.io](https://packer.io) 或其他工具。
 
@@ -34,7 +34,7 @@
 *   清理工作通常需要一整天。
 *   我确实喜欢听鸟儿歌唱，在阳光明媚的日子，在下雨的日子。虽然，从今天拍摄的照片中可以看到，有时候会有电锯声——是的，他们最终得到了在我居住的城市砍树的许可。嗯，一年前有人在停车场用圆锯锯断了一根铁条，那也不错。
 
-[![Someone used chainsaw in the yard](../Images/7f8c1fae57ba316278801c72e52b3af7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SlrCSMpp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/re6d4b4lo2bgc71lqlpl.jpg)
+[![Someone used chainsaw in the yard](img/7f8c1fae57ba316278801c72e52b3af7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SlrCSMpp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/re6d4b4lo2bgc71lqlpl.jpg)
 
 ## 客户工作
 

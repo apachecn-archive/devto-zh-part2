@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/vblaha/yarn-it-im-migrating--341m>
 
-[![img](../Images/e2ac8433caef930c6aa06b7d3ac5644d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9ibh68YF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://yarnpkg.com/assets/feature-secure.png) 
+[![img](img/e2ac8433caef930c6aa06b7d3ac5644d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9ibh68YF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://yarnpkg.com/assets/feature-secure.png) 
 我最近在一个项目上协助从 npm 到 Yarn 的迁移，它就像在终端中键入 *yarn* 一样简单。Yarn 是一个包管理工具，它通过终端命令创建模块(来自其他开发人员的代码块，您可以将其加载到您的程序中)，这与您使用 npm (Node.js 包管理器)的方式非常相似。它通过使用锁定文件来确保所有库在用户之间匹配(npm 客户端用户的一个常见抱怨是，用户之间可能存在多个版本的依赖关系，责任性下降，导致“在我的机器上工作”的态度)。所以有了 Yarn，你总是知道你在每台开发机器上都得到同样的东西。
 
 您可以从 npm 迁移到 yarn，方法是在终端中导航到您的项目文件夹，并使用下面的比较图表来自定义您正在构建的包。

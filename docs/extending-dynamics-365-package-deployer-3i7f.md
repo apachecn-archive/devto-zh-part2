@@ -10,7 +10,7 @@ Dynamics 365 Package Deployer 是一个非常棒的工具，它允许您在不�
 
 它导入您的解决方案和数据，并提供一个 API 来将您的定制代码在某些点上与该流程挂钩。这些挂钩如下:
 
-[![Custom code hooks for Dynamics 365 Package Deployer process](../Images/d1e7277357864b829d2b45e5ef799c7f.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--Rt8c3mYD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://mehmetseckin.com/images/dynamics-365-package-deployer-hooks.png) *为 Dynamics 365 包部署器流程定制代码挂钩*
+[![Custom code hooks for Dynamics 365 Package Deployer process](img/d1e7277357864b829d2b45e5ef799c7f.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--Rt8c3mYD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://mehmetseckin.cimg/dynamics-365-package-deployer-hooks.png) *为 Dynamics 365 包部署器流程定制代码挂钩*
 
 | 方法名称 | 执行时间 |
 | --- | --- |
@@ -28,6 +28,6 @@ Dynamics 365 Package Deployer 是一个非常棒的工具，它允许您在不�
 
 Package Deployer 还支持定制的欢迎和结束 HTML 页面，用于许可协议、发行说明等等。它也支持 javascript，但是我还没有尝试在上面运行一个完整的单页面应用程序，我相信 javascript 支持会有一些限制。
 
-[![A JavaScript alert from a custom welcome page in Dynamics 365 deployment package](../Images/c2780489997f9e114d6d95dd2697688b.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--RtoAfVwZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://mehmetseckin.com/images/dynamics-365-package-deployer-script-alert.png) *来自 Dynamics 365 部署包中自定义欢迎页面的 JavaScript 警报*
+[![A JavaScript alert from a custom welcome page in Dynamics 365 deployment package](img/c2780489997f9e114d6d95dd2697688b.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--RtoAfVwZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://mehmetseckin.cimg/dynamics-365-package-deployer-script-alert.png) *来自 Dynamics 365 部署包中自定义欢迎页面的 JavaScript 警报*
 
 如果您想要定制、增强和自动化您的 Dynamics 365 应用程序的部署过程，可以使用这些扩展点完成许多巧妙的事情。

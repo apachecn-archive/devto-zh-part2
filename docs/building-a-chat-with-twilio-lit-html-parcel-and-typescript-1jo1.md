@@ -83,7 +83,7 @@ npm start
 
 这将在监视模式下启动`parcel` bundler，以确保每当我们改变某些东西时，文件都会被重新编译。打开浏览器，进入 [http://localhost:1234](http://localhost:1234) 。你应该有一句“你好”的问候:
 
-[![Screenshot of Browser showing Hello](../Images/467fccf2127ca4fc1d63bd230779598a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hxuxm9eK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zoya5hv7z323912erkyk.png)
+[![Screenshot of Browser showing Hello](img/467fccf2127ca4fc1d63bd230779598a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hxuxm9eK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zoya5hv7z323912erkyk.png)
 
 ### 开始模板化的时间！
 
@@ -131,7 +131,7 @@ setInterval(() => {
 
 如果您仍然运行着之前的 package dev 服务器，那么您应该能够在浏览器中切换回 [http://localhost:1234](http://localhost:1234) ，并看到更新了日期的页面。
 
-[![Screenshot of browser showing Hello and time](../Images/15abde74f07730b189433da849117c2c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pY-Y39je--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bjxxh1wxm59nblytc1l7.png)
+[![Screenshot of browser showing Hello and time](img/15abde74f07730b189433da849117c2c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pY-Y39je--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bjxxh1wxm59nblytc1l7.png)
 
 ### 组件呢？
 
@@ -208,7 +208,7 @@ render(view, root);
 
 切换回 [http://localhost:1234](http://localhost:1234) ，您应该会看到显示的 3 条消息:
 
-[![Screenshot of mock messages displayed](../Images/41900726939a1a7b57bcbad408a7f796.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R4k0NwXQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5qlo3k56cfbu1dar65jf.png)
+[![Screenshot of mock messages displayed](img/41900726939a1a7b57bcbad408a7f796.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R4k0NwXQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5qlo3k56cfbu1dar65jf.png)
 
 ### 让我们聊聊天吧
 
@@ -361,7 +361,7 @@ init();
 
 确保用您生成的令牌替换`INSERT_YOUR_ACCESS_TOKEN`。回到 [http://localhost:1234](http://localhost:1234) ，在第二个窗口中打开同一个页面。您应该能够在一个窗口中发送消息，而它们应该在另一个窗口中显示:)
 
-[![gif showing two browsers send messages to each other](../Images/b7d75d4662d91aa502fc94bd47004dd6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tWfgjX6Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0kn9bab3nmbgh0vtw257.gif)
+[![gif showing two browsers send messages to each other](img/b7d75d4662d91aa502fc94bd47004dd6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tWfgjX6Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0kn9bab3nmbgh0vtw257.gif)
 
 ### 提升体验
 
@@ -417,7 +417,7 @@ exports.handler = function(context, event, callback) {
 
 如果你是第一次使用 Twilio 函数，你还需要进入[配置部分](https://www.twilio.com/console/runtime/functions/configure)，启用`ACCOUNT_SID`并为`API_KEY`和`API_SECRET`添加条目，你可以[在这里生成一对](https://www.twilio.com/console/runtime/api-keys/create)。
 
-[![screenshot of Twilio Functions configure section](../Images/1ca8e2e3e7904a254c909d350bf19ae8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Lf9FpzGF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hfhh1omxhai3rfo5r2zz.png)
+[![screenshot of Twilio Functions configure section](img/1ca8e2e3e7904a254c909d350bf19ae8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Lf9FpzGF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hfhh1omxhai3rfo5r2zz.png)
 
 现在令牌生成端点已经准备好了，让我们开始使用它。首先让我们更新`src/index.html`文件，添加一个新的用户名输入框和一个开始聊天的按钮:
 
@@ -460,7 +460,7 @@ btn.addEventListener('click', init);
 
 您的聊天应该像以前一样工作，除了您现在可以让多个用户使用不同的用户名聊天。尝试一下同时打开两个窗口。
 
-[![gif of two chat users interacting in separate browser windows](../Images/be70c241d4c8fb58e02746ab1dac9a91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0JjAooP7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w5jc33qzm90flzfy3rtl.gif)
+[![gif of two chat users interacting in separate browser windows](img/be70c241d4c8fb58e02746ab1dac9a91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0JjAooP7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w5jc33qzm90flzfy3rtl.gif)
 
 ### 现在聊开了！
 

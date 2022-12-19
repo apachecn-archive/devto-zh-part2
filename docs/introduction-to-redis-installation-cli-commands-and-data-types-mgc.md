@@ -6,4 +6,4 @@
 
 让我们开始吧🎯
 
-[![Introduction to Redis: Installation, CLI Commands, and Data Types](../Images/9831a8c02e3781d3ad0cadfea974620f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tHydBEWY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fm7oot5hgyqsvnq0a0x7.png)
+[![Introduction to Redis: Installation, CLI Commands, and Data Types](img/9831a8c02e3781d3ad0cadfea974620f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tHydBEWY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fm7oot5hgyqsvnq0a0x7.png)

@@ -12,7 +12,7 @@
 
 这是已完成项目的视觉展示:
 
-[![](../Images/fb9de315c4a7789ff054ead809aa1dfd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RFHhs7F---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.scotch.io/40410/vYzxg2WJTQyeqLFzViph_reek.gif)
+[![](img/fb9de315c4a7789ff054ead809aa1dfd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RFHhs7F---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.scotch.io/40410/vYzxg2WJTQyeqLFzViph_reek.gif)
 
 让我们看看我是如何建造它的。
 
@@ -30,11 +30,11 @@
 
 要创建 Yandex 账户，请点击[此处](https://passport.yandex.com/registration?origin=translate&retpath=https%3A%2F%2Ftranslate.yandex.com%2Fdevelopers):
 
-[![](../Images/73769e59eaa577d5d5fc151392378052.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bw0PNB-J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.scotch.io/40410/pxLlRBnwQhe0MjirfPMb_screenshot-passport.yandex.com-2018-01-07-09-26-19.png)
+[![](img/73769e59eaa577d5d5fc151392378052.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bw0PNB-J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.scotch.io/40410/pxLlRBnwQhe0MjirfPMb_screenshot-passport.yandex.com-2018-01-07-09-26-19.png)
 
 要创建一个免费的 API 密钥，请点击[这里](https://translate.yandex.com/developers/keys):
 
-[![](../Images/ea6b5f455635758fdb82eb64e9a4619e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WI8E4IDH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.scotch.io/40410/zI9XUlrTBSDu28pfDj08_screenshot-translate.yandex.com-2018-01-06-22-55-24.png)
+[![](img/ea6b5f455635758fdb82eb64e9a4619e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WI8E4IDH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.scotch.io/40410/zI9XUlrTBSDu28pfDj08_screenshot-translate.yandex.com-2018-01-06-22-55-24.png)
 
 一旦安装了依赖项，并且您有了密钥，我们就可以开始了！
 
@@ -54,7 +54,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 使用这个命令，您需要响应几行命令提示符查询:
 
-[![](../Images/7ac8365f31986a23c8de2a0f7a235a8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pjFS_QUu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.scotch.io/40410/1Sj8i9KOQ5ua8FkWnuua_snapshot1.png)
+[![](img/7ac8365f31986a23c8de2a0f7a235a8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pjFS_QUu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.scotch.io/40410/1Sj8i9KOQ5ua8FkWnuua_snapshot1.png)
 
 让我们导航到项目目录并安装依赖项:
 
@@ -394,11 +394,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 在 Yandex 上创建账户之后:
 
-[![](../Images/73769e59eaa577d5d5fc151392378052.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bw0PNB-J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.scotch.io/40410/pxLlRBnwQhe0MjirfPMb_screenshot-passport.yandex.com-2018-01-07-09-26-19.png)
+[![](img/73769e59eaa577d5d5fc151392378052.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bw0PNB-J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.scotch.io/40410/pxLlRBnwQhe0MjirfPMb_screenshot-passport.yandex.com-2018-01-07-09-26-19.png)
 
 您将能够创建一个[免费密钥](https://translate.yandex.com/developers/keys):
 
-[![](../Images/ea6b5f455635758fdb82eb64e9a4619e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WI8E4IDH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.scotch.io/40410/zI9XUlrTBSDu28pfDj08_screenshot-translate.yandex.com-2018-01-06-22-55-24.png)
+[![](img/ea6b5f455635758fdb82eb64e9a4619e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WI8E4IDH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.scotch.io/40410/zI9XUlrTBSDu28pfDj08_screenshot-translate.yandex.com-2018-01-06-22-55-24.png)
 
 ### 书写标记
 
@@ -457,7 +457,7 @@ npm run dev
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/71c171b81ae1a39d8e0528ebd1bd0604.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aI_eifQt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.scotch.io/40410/GrrD2zoRjey9qMhW8iJg_Peek%25202018-01-10%252015-18.gif)
+[![](img/71c171b81ae1a39d8e0528ebd1bd0604.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aI_eifQt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.scotch.io/40410/GrrD2zoRjey9qMhW8iJg_Peek%25202018-01-10%252015-18.gif)
 
 输出显示两个组件的 UI 都已经完成，但是当单击下拉菜单时，它没有填充语言。这是因为我们还没有编写驱动这个功能的脚本。
 
@@ -659,7 +659,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这将在浏览器中打开一个新窗口，位于开发地址`localhost:8080`:
 
-[![](../Images/fb9de315c4a7789ff054ead809aa1dfd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RFHhs7F---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.scotch.io/40410/vYzxg2WJTQyeqLFzViph_reek.gif)
+[![](img/fb9de315c4a7789ff054ead809aa1dfd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RFHhs7F---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.scotch.io/40410/vYzxg2WJTQyeqLFzViph_reek.gif)
 
 仅此而已！我们刚刚建立了一个功能音频翻译应用程序，并准备测试。
 

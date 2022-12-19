@@ -10,31 +10,31 @@
 
 我在 [VirtualBox](https://www.virtualbox.org) 上安装了 [Ubuntu 18.04.1 LTS](https://www.ubuntu.com/download/desktop) ，选择了“最小安装”，允许安装程序“在安装 Ubuntu 的同时下载更新”。尽管如此...
 
-[![](../Images/4cea5d9ecc896f703b2a1fc68857bee7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LJxIx7G4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r29pbe6gyg5z95eyqkze.PNG)
+[![](img/4cea5d9ecc896f703b2a1fc68857bee7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LJxIx7G4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r29pbe6gyg5z95eyqkze.PNG)
 
 当然可以。
 
-[![](../Images/a754bef8358998078eb72f93eb877985.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NgFEbJiP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/50nff7wjakbi2o7jfjkx.PNG)
+[![](img/a754bef8358998078eb72f93eb877985.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NgFEbJiP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/50nff7wjakbi2o7jfjkx.PNG)
 
 又来了？好吧。
 
 我知道我以后需要在 SSH 中这样做，所以当它重新启动时，我在 VirtualBox 中设置了一个网络适配器。我点击了 VirtualBox 屏幕右上角的“全球工具”:
 
-[![](../Images/46861e2f733909db936ff0e43c829ab1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qUInJUQw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2xaqeapxjs803s52imtw.PNG)
+[![](img/46861e2f733909db936ff0e43c829ab1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qUInJUQw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2xaqeapxjs803s52imtw.PNG)
 
 点击左上角的“创建”:
 
-[![](../Images/2dddbd21420a2e5a51b787dc421553c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AlZpFeN6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nczvow5o5z43dv5fcvix.PNG)
+[![](img/2dddbd21420a2e5a51b787dc421553c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AlZpFeN6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nczvow5o5z43dv5fcvix.PNG)
 
 点击“是”:
 
-[![](../Images/d2eeebeb5599b21b4206dff9f9272f56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ycF_zevw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4dv9dbptej3xxbnxksl1.PNG)
+[![](img/d2eeebeb5599b21b4206dff9f9272f56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ycF_zevw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4dv9dbptej3xxbnxksl1.PNG)
 
 并单击菜单栏中的“属性”以打开屏幕底部的属性选项卡:
 
-[![](../Images/8a23a0b06be74ba24a324afdf9deb0c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---ZVUtD_k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gdogcxjagkktevlxzl2m.PNG)
+[![](img/8a23a0b06be74ba24a324afdf9deb0c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---ZVUtD_k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gdogcxjagkktevlxzl2m.PNG)
 
-[![](../Images/ed69b6ac5ba636abfac0cb1e2c0a70f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JE220qEx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7dbxwqvnocvte006l6sf.PNG)
+[![](img/ed69b6ac5ba636abfac0cb1e2c0a70f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JE220qEx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7dbxwqvnocvte006l6sf.PNG)
 
 我记下了 IPv4 地址(它应该类似于`192.168.___.1`)，并在最右栏的“DHCP 服务器”下选中“启用”。现在一切都设置好了，我回到 VM 内部。(注意，有时候，在这些教程中，VM——在我的例子中是 Ubuntu——被称为“来宾”操作系统，而运行它的操作系统——在我的例子中是 Windows Server——被称为“主机”操作系统。)
 
@@ -499,7 +499,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 正如 Jess 在这篇文章中提到的:
 
-[![thejessleigh](../Images/f469a39e68e830438247062fe0064d78.png)](/thejessleigh) [## 基本生活质量终端改善
+[![thejessleigh](img/f469a39e68e830438247062fe0064d78.png)](/thejessleigh) [## 基本生活质量终端改善
 
 ### Jess un rein 10 月 26 日 188 分钟阅读
 
@@ -527,11 +527,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 您应该会看到两个类似于上面的连接- `enp0s3`和`lo`。我们需要添加第三个，所以让我们关闭虚拟机并返回到 VirtualBox。返回“机床”，从左侧列表中选择您的虚拟机，然后单击“设置”按钮:
 
-[![](../Images/cb7b019ed7e4e9c63ff36532c6918c11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MJUfqibM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7od33whvn0hnwrc4lpdg.PNG)
+[![](img/cb7b019ed7e4e9c63ff36532c6918c11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MJUfqibM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7od33whvn0hnwrc4lpdg.PNG)
 
 从左侧菜单中单击“网络”，然后单击“适配器 2”。选中“启用网络适配器”，然后在“连接到:”旁边，选择“仅主机适配器”:
 
-[![](../Images/fe292457080d29218cad647b19d3e7b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6yqbeiQW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/40hkk6j9t381x5h16wgy.PNG)
+[![](img/fe292457080d29218cad647b19d3e7b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6yqbeiQW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/40hkk6j9t381x5h16wgy.PNG)
 
 无论 VirtualBox 在这里填写什么名称都可以。点击“确定”并重启你的虚拟机。现在，当您在 Ubuntu VM 上运行`ifconfig`时，您应该会看到三个连接:
 
@@ -562,21 +562,21 @@ Enter fullscreen mode Exit fullscreen mode
 
 要在 VirtualBox 中设置端口转发，请转到“Machine Tools”页面，确保选择了您的虚拟机，然后单击“Settings”，就像我们之前所做的那样。单击左侧菜单上的“网络”，停留在“适配器 1”上，然后打开“高级”部分。点击“端口转发”按钮:
 
-[![](../Images/aa2ba74613e5e3f446b2a44bb9c3c2cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s51VNlKP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s62nize2fg7ub47j1ctr.PNG)
+[![](img/aa2ba74613e5e3f446b2a44bb9c3c2cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s51VNlKP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s62nize2fg7ub47j1ctr.PNG)
 
 通过单击右上角的绿色“+”号添加新的端口转发规则:
 
-[![](../Images/0a6567eb182569420db2a0763ec3d245.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E27uNYb3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b239ytnsi7dops6w3vxc.PNG)
+[![](img/0a6567eb182569420db2a0763ec3d245.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E27uNYb3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b239ytnsi7dops6w3vxc.PNG)
 
 这部分在我的设置中有点复杂。我们有一个位于防火墙后面的服务器，所以服务器本身的 IP 地址与我实际进入的 IP 地址不同。这里，我使用服务器的 IP 地址，您可以通过在远程主机(Windows 服务器)上的 Windows `cmd`提示符下运行`ipconfig`找到它:
 
-[![](../Images/7504c1abaf3ffbd92b5e1688347bc1b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ahuzXz5l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vnq5cbmk0ifidous8vgl.PNG)
+[![](img/7504c1abaf3ffbd92b5e1688347bc1b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ahuzXz5l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vnq5cbmk0ifidous8vgl.PNG)
 
 在我的例子中，服务器在防火墙后面的一个私有局域网上，这个局域网上的服务器 IP 是`192.168.100.100`。我们还在防火墙上设置了端口转发，这样我进入的端口就不同于服务器看到我们试图访问的端口。所以服务器看到我们访问的端口是`22`。一般来说，“主机 IP”和“主机端口”是您试图在远程 Windows 机器(对于我的设置，是 Windows 服务器)上访问的 IP 地址和端口。
 
 “来宾 IP”和“来宾端口”是服务器看到的虚拟机的 IP 地址和端口。来宾 IP 就是我们上面设置的`192.168.___.10`那个，端口可以是任意数字。我尝试使用高价值的质数，但是任何东西都可以。既然这样，我就用`33331`，因为何乐而不为。这只是远程主机用来与虚拟机通信的端口，因此您在这里使用什么并不重要:
 
-[![](../Images/d1ac68d621aa2fb5bc0a366e3c5c6301.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EZRep2c7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yaju7ads8g83wtzye6wv.PNG)
+[![](img/d1ac68d621aa2fb5bc0a366e3c5c6301.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EZRep2c7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yaju7ads8g83wtzye6wv.PNG)
 
 端口转发规则可以有任何名称。再次点击“确定”和“确定”,回到你的虚拟机。我们需要做的最后一件事是编辑`/etc/ssh/sshd_config`。以 sudo 身份打开，并更改行:
 
@@ -606,7 +606,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，当您在 Ubuntu VM 上运行`ifconfig`时，您应该会看到您定义为`inet`地址的 IP 地址。你现在应该可以在远程主机(对我来说是 Windows 服务器)上从 Windows `cmd`提示符中`ping`出`enp0s8`的 IP 地址了:
 
-[![](../Images/eae7914ccad2756af5e4dd3c726658e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3l9PZLH9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aloeo8hro2jv5uzt5qsy.PNG)
+[![](img/eae7914ccad2756af5e4dd3c726658e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3l9PZLH9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aloeo8hro2jv5uzt5qsy.PNG)
 
 我们现在可以从本地 Windows 机器上的 MobaXTerm 远程 SSH 到虚拟机:
 

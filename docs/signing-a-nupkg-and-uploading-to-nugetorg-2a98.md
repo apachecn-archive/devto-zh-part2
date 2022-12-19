@@ -17,7 +17,7 @@ Nuget.org 也有一篇关于这个话题的精彩文章。
 
 创建组织后(档案 **- >管理组织- >新增**)，可以点击铅笔图标进入组织的设置页面，配置各项:
 
-[![](../Images/c985d11f85890a688fea4a95282b1430.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---YmrLTdS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/nuget_edit_icon.png)
+[![](img/c985d11f85890a688fea4a95282b1430.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---YmrLTdS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/nuget_edit_icon.png)
 
 ## 证书创建和注册
 
@@ -25,15 +25,15 @@ Nuget.org 也有一篇关于这个话题的精彩文章。
 
 导入后，选择密钥，点击**导出…** :
 
-[![](../Images/d6ba7ce8081c18e8a553c2da2db0cb83.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hzb2qRkr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/certmgr_export.png)
+[![](img/d6ba7ce8081c18e8a553c2da2db0cb83.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hzb2qRkr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/certmgr_export.png)
 
 出现提示时选择**否，不导出私钥** :
 
-[![](../Images/126831acd99eb66300eff8894192f414.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xvMVBa3x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/certmgr_export_no_private.png)
+[![](img/126831acd99eb66300eff8894192f414.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xvMVBa3x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/certmgr_export_no_private.png)
 
 以及 **DER 编码的 X.509** :
 
-[![](../Images/4338f0d01b0282eb0bc2cc639d90bc1a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qNrVDq1E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/certmgr_export_format.png)
+[![](img/4338f0d01b0282eb0bc2cc639d90bc1a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qNrVDq1E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/certmgr_export_format.png)
 
 然后点击创建. cer。现在，进入 nuget.org 的组织设置页面，选择**证书- >注册新的**。选择。您刚刚创建的 cer。
 
@@ -41,7 +41,7 @@ Nuget.org 也有一篇关于这个话题的精彩文章。
 
 当您访问 nuget.org 时，值得创建一个 API 键**配置文件- > API 键->+创建** :
 
-[![](../Images/e5df59a8c53a63cb8f4a3568cb340a7c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xgXhR5Tq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/nuget-org_apikey_create.png)
+[![](img/e5df59a8c53a63cb8f4a3568cb340a7c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xgXhR5Tq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/nuget-org_apikey_create.png)
 
 对于**包所有者**选择组织。上传的软件包将属于组织，而不是您的个人帐户。
 
@@ -49,7 +49,7 @@ Nuget.org 也有一篇关于这个话题的精彩文章。
 
 点击**创建**然后**复制**将 API 密匙保存到你的剪贴板。您以后不能再获得此密钥；如果你忘记了，你只需要**重新生成**它(使旧的失效):
 
-[![](../Images/572214d53d492ed63e02d6a4ccd37f4e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4Pfa_2OW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/nuget-org_apikey_regenerate.png)
+[![](img/572214d53d492ed63e02d6a4ccd37f4e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4Pfa_2OW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/nuget-org_apikey_regenerate.png)
 
 ## 签署
 
@@ -117,7 +117,7 @@ Your package was pushed.
 1.  右键一个项目 **- >管理 NuGet 包…- >浏览**。
 2.  确保**包源**是`nuget.org`(以防你在包开发过程中改变了它)。并搜索`Subor.NNanomsg.NETStandard` :
 
-    [![](../Images/b11248db60591ed2c508b9ceeba2fb9d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9-DRMQ3_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/vs_nuget_browse.png)
+    [![](img/b11248db60591ed2c508b9ceeba2fb9d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9-DRMQ3_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/vs_nuget_browse.png)
 
 3.  **安装** it 并构建项目(别忘了[设置**平台目标**](./nupkg-containing-native-libraries-1576#consuming-nupkg) ！).
 

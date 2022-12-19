@@ -32,7 +32,7 @@ class BlogPost extends Resource
 
 这就是你需要做的。这是该字段的外观:
 
-[![Screenshot of the murze.be admin](../Images/e0cd0e5317e3979cac73b1951c079cd8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3HSKoZmY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/nova-tags-field/screenshot.png)
+[![Screenshot of the murze.be admin](img/e0cd0e5317e3979cac73b1951c079cd8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3HSKoZmY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/nova-tags-field/screenshot.png)
 
 键入标签时，该字段将自动建议现有的标签。如果你不想要自动暗示，你可以这样关掉它:
 

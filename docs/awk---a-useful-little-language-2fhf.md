@@ -5,7 +5,7 @@
 Awk 是一种小型但功能强大的编程语言，用于处理文本。它是由贝尔实验室的 Aho，Weinberger，Kerninghan 开发的。
 
 [茱莉亚·埃文斯](https://twitter.com/b0rk)为`awk`做了一个很棒的介绍:
-[![AWK comic](../Images/3c664a1221dbcaa4a98064ffa93b73d9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YxKHSWq2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/DeLcVfSWAAAw6OZ.jpg)
+[![AWK comic](img/3c664a1221dbcaa4a98064ffa93b73d9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YxKHSWq2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/DeLcVfSWAAAw6OZ.jpg)
 
 Awk 将输入文件扫描成一系列的行，并将每一行分割成字段。字段分隔符通常是空白，但是您可以将其自定义为任何字符。
 

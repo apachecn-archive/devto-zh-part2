@@ -18,7 +18,7 @@
 
 在我的很多项目中，我都使用类似的设计方案来打造个人品牌，这样我就不用再设计新的了！特别是，我使用了一个标题，每个字母是不同的颜色，上面有一个下落的动画。我的个人网站 [alispit.tel](https://www.alispit.tel) 就是一个很好的例子！我的简历、会议幻灯片上也有这段文字，我还计划在不久的将来将它用于其他网站！它的问题是 CSS 不允许你针对单个字符——除了第一个字符。因此，每个字母都必须用一个`span`包起来。写起来会很痛苦，所以我认为这是使用 webcomponent 的最佳地方！
 
-[![display of the rainbow letters](../Images/c839ba5397cf7290d32f70fe1fab2337.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--98bWCSOg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kbrljpvky5xxb80xyyk3.png)
+[![display of the rainbow letters](img/c839ba5397cf7290d32f70fe1fab2337.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--98bWCSOg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kbrljpvky5xxb80xyyk3.png)
 
 因为我很难找到关于编写 web 组件的人的文章，所以我将在这里深入研究代码。
 
@@ -111,7 +111,7 @@ try {
 我还为使用非 webcomponent 友好浏览器的用户添加了一个警告！
 
 下面是这个元素如何出现在控制台中的:
-[![](../Images/08324053024d8ead40a6526fbb6485fc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Cptd5hXm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4umhrrmgbynsbmq3jgmz.png)
+[![](img/08324053024d8ead40a6526fbb6485fc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Cptd5hXm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4umhrrmgbynsbmq3jgmz.png)
 
 ## 下一步
 

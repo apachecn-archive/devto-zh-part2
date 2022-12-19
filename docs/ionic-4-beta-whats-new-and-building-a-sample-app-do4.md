@@ -6,4 +6,4 @@
 
 [读下去📱🔘](https://auth0.com/blog/ionic-4-beta-whats-new-and-building-a-sample-app/?utm_source=dev&utm_medium=sc&utm_campaign=ionic4beta)
 
-[![Ionic 4 Beta: What’s New and Building a Sample App](../Images/78206cb75e9fce718d792f28e88ff55e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HBSvZawO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ait0e77pje90qsc1lruc.png)
+[![Ionic 4 Beta: What’s New and Building a Sample App](img/78206cb75e9fce718d792f28e88ff55e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HBSvZawO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ait0e77pje90qsc1lruc.png)

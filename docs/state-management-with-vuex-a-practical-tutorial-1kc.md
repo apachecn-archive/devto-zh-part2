@@ -6,4 +6,4 @@
 
 [读下去🎢](https://auth0.com/blog/state-management-with-vuex-a-practical-tutorial/?utm_source=dev&utm_medium=sc&utm_campaign=vuex_tutorial)
 
-[![State Management with Vuex: a Practical Tutorial](../Images/80116a880e3e01b30b1003a7b093bdb5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j1vek5mQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rdez5onabcjao5n08yh0.png)
+[![State Management with Vuex: a Practical Tutorial](img/80116a880e3e01b30b1003a7b093bdb5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j1vek5mQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rdez5onabcjao5n08yh0.png)

@@ -16,7 +16,7 @@
 
 有趣的多边形是一个边长为 T1 的正方形。一个`n`-有趣的多边形是通过将`n - 1`-有趣的多边形和`1`-有趣的多边形并排附加到它的边缘而获得的。可以看到下图中的`1` -、`2` -、`3` -和`4`-有趣的多边形。
 
-<figure>[![Shape Area](../Images/930caffe7b78980b5e69fef7fd9c3ad8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--u5BHfIvI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ithwid4aoppbawxs1c43.png) 
+<figure>[![Shape Area](img/930caffe7b78980b5e69fef7fd9c3ad8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--u5BHfIvI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ithwid4aoppbawxs1c43.png) 
 
 <figcaption>图片取自 [CodeSignal](https://codesignal.com)</figcaption>
 
@@ -115,4 +115,4 @@ Enter fullscreen mode Exit fullscreen mode
 **都是乡亲们！**
 **快乐编码** 🖖
 
-[![beer](../Images/192892baef71a32ea4a5e98a4927b05e.png)T2】](https://github.com/sponsors/deinsoftware)
+[![beer](img/192892baef71a32ea4a5e98a4927b05e.png)T2】](https://github.com/sponsors/deinsoftware)

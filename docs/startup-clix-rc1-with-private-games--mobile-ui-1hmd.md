@@ -42,7 +42,7 @@
 
 我做了一个建筑的图形。它少了一个我最近加的新功能，不过总体来说我觉得是对的。
 
-[![architecture](../Images/641d20583b217da0d813100238708886.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rBhjQQJO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b183hlqe7rha4xtgs0d7.jpg)
+[![architecture](img/641d20583b217da0d813100238708886.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rBhjQQJO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b183hlqe7rha4xtgs0d7.jpg)
 
 ## 接下来
 

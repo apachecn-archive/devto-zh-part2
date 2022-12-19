@@ -48,7 +48,7 @@ func  main()  {  APIURL  :=  "https://httpbin.org/get"  req,  err  :=  http.NewR
 
 你可以在 GitHub 上的 repo 中找到这个和大多数其他试图学习围棋的帖子的代码。
 
-## ![GitHub logo](../Images/375dfcc32199b4dedf2b526645c27ff7.png) [【新达昆】](https://github.com/shindakun) / [ atlg](https://github.com/shindakun/atlg)
+## ![GitHub logo](img/375dfcc32199b4dedf2b526645c27ff7.png) [【新达昆】](https://github.com/shindakun) / [ atlg](https://github.com/shindakun/atlg)
 
 ### 我在 dev.to 上发布的“尝试学习围棋”帖子的来源报告
 

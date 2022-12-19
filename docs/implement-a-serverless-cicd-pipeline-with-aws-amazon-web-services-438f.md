@@ -87,7 +87,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 转到 AWS 控制台，从服务下拉列表中选择 S3 服务，单击创建存储桶并输入存储桶的名称。这里，我用的是`weight-watchers-artifacts`。所以我在 S3 桶后面添加了`-artifacts`,让我的桶更容易找到。S3 时段名称是唯一的，因此您必须输入后缀随机数。选择一个地区，然后单击下一步。将默认设置设置为 S3 桶。
 
-[![s3 bucket creation snapshot](../Images/f479af0de66adbb5311a3ec0cba16c82.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0uccnqRe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fh4c2a3wysknec5u7n1x.jpg)
+[![s3 bucket creation snapshot](img/f479af0de66adbb5311a3ec0cba16c82.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0uccnqRe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fh4c2a3wysknec5u7n1x.jpg)
 
 我强烈建议，在这篇文章中，只关注一个地区。我坚持使用美国东部(N. Virginia)地区，并且检查您选择的地区是否有必要的服务。
 
@@ -95,11 +95,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 AWS CodeBuild 是一个持续的集成服务，它编译源代码，运行测试，并生成可以部署的软件包。我们只需要创建带有适当设置的 CodeBuild 项目。
 
-[![CodeBuild Snapshot First](../Images/69c4228d1745a51b532aa35e693cbfbd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JbSujADF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8asl7zr7gavhv8mws08k.png)
+[![CodeBuild Snapshot First](img/69c4228d1745a51b532aa35e693cbfbd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JbSujADF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8asl7zr7gavhv8mws08k.png)
 
 找到 CodeBuild 服务从服务下拉菜单，一旦你在 CodeBuild 仪表板点击创建项目按钮。根据命名惯例，我给这个项目起了一个名字`weight-watchers-builder`。选择 GitHub 的源提供者(如果使用 CodeCommit，则选择 CodeCommit)。它会提示您进行 GitHub 认证，认证您的 GitHub 帐户。输入你的储存库完整网址，我输入`https://github.com/sagar-gavhane/weight-watchers`储存库网址。在`Source: What to build`部分，跳过默认设置。
 
-[![CodeBuild How to Build](../Images/9dd26722e93748da1e33dcfa11bd0d06.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JtgcSJML--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/myikmrqd59hz6t7nis1l.png)
+[![CodeBuild How to Build](img/9dd26722e93748da1e33dcfa11bd0d06.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JtgcSJML--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/myikmrqd59hz6t7nis1l.png)
 
 移动到`Environment: How to build`部分。有两种选择构建环境方法，您可以使用 AWS CodeBuild 映像或特定的 docker 映像。我坚持使用 AWS 代码构建映像。我选择了一个操作系统为 Ubuntu，运行时环境为 nodejs，具体运行时版本为`aws/codebuild/nodejs:8.11.0`。
 
@@ -107,19 +107,19 @@ AWS CodeBuild 是一个持续的集成服务，它编译源代码，运行测试
 
 如果你知道建筑设置，那么你可以根据自己的需要随意切换设置。
 
-[![CodeBuild Artifacts](../Images/9125199eae1f54c060005993f917bc05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vK7eiGOn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/la51n3par4gws2i4opp0.png)
+[![CodeBuild Artifacts](img/9125199eae1f54c060005993f917bc05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vK7eiGOn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/la51n3par4gws2i4opp0.png)
 
 现在，是时候告诉我们的代码构建项目将工件保存在我们创建的 S3 桶中了。`Artifacts: Where to put the artifacts from this build project`段选择类型为`Amazon S3`并设置名称，路径为空。桶名，我会选择`weight-watchers-artifacts`并将工件打包成 zip。
 
 其余设置:缓存、服务角色和 VPC。对于本文，我们不需要对缓存和 VPC 做任何事情。
 
-[![CodeBuild Service Role](../Images/fe38cd43d1772be53bbe2458ff0a8ab3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m4ljConb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wvfo8qmajexc6g9hc0qv.png)
+[![CodeBuild Service Role](img/fe38cd43d1772be53bbe2458ff0a8ab3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m4ljConb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wvfo8qmajexc6g9hc0qv.png)
 
 移至`Service role`部分，在该部分中，我们将需要一个 IAM 服务角色，当您的构建运行时，它将承担该角色。该服务角色将授予 it 人员向 CloudWatch 写日志和向 S3 写工件的权限。选择`create a service role in your account`它将为我们创建一个服务角色。我给`codebuild-weight-watchers-builder-service-role`起了个角色名。
 
 好吧，我们不需要改变任何高级设置。点击`continue`按钮，查看我们到目前为止构建的内容。
 
-[![CodeBuild Review](../Images/258c64cf741189103264384c0619db29.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EEHs4ar2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i8dmfncm7ile8vu5dt8w.png)
+[![CodeBuild Review](img/258c64cf741189103264384c0619db29.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EEHs4ar2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i8dmfncm7ile8vu5dt8w.png)
 
 恭喜你！！您已经成功创建了一个代码生成项目。休息一下，我知道坚持这篇文章直到这一点很难，但我们会一步一步地提高我们的知识和技能。
 
@@ -131,27 +131,27 @@ AWS CodePipeline 是一项持续的交付服务，帮助我们快速可靠地交
 
 理论够了！！。让我们专注于创建我们自己的管道。从服务下拉列表中选择代码管道。代码管道创建分为 6 个步骤，如名称、源代码、构建、部署、服务角色、审查。
 
-[![CodePipeline Name](../Images/c0f7a2beb7bf959fb53d56cec50932f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7u9SZy-y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/itzx1ylh91h5op12cy16.png)
+[![CodePipeline Name](img/c0f7a2beb7bf959fb53d56cec50932f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7u9SZy-y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/itzx1ylh91h5op12cy16.png)
 
 在`Name`步骤中，输入您的管道名称，出于命名约定，我将选择管道名称为`weight-watchers-pipeline`，然后点击下一步按钮。
 
-[![CodePipeline Source](../Images/8c6612372a15a3a4c3ee3cbe83a3ba99.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mcZSnyvE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uagk6itjnwum65owxjs4.png)
+[![CodePipeline Source](img/8c6612372a15a3a4c3ee3cbe83a3ba99.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mcZSnyvE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uagk6itjnwum65owxjs4.png)
 
 在`Source`步骤中，选择 source provider 作为 GitHub 存储库(如果您在 CodeCommit 上创建了存储库，那么选择 CodeCommit)。它会提示您进行 GitHub 认证。验证您的 GitHub 帐户。成功认证后，您就可以输入存储库名称和分支名称了。我将使用存储库名称`http://github.com/sagar-gavhane/weight-watchers`和分支名称作为主名称。跳过`Change detection options`一节。然后进入下一步。
 
-[![CodePipeline Build](../Images/2fed0f9d63aa9b5bce1cddd445a18d08.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XLOfu6E0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0hbmhktdjvz6grhann1s.png)
+[![CodePipeline Build](img/2fed0f9d63aa9b5bce1cddd445a18d08.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XLOfu6E0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0hbmhktdjvz6grhann1s.png)
 
 在`Build step`中，选择您想要使用的构建提供者，我坚持使用 CodeBuild。移动到`Configure your project`部分，选择您的项目构建者姓名。我们已经在本文开头创建了一个项目构建器，所以我将选择`weight-watchers-builder`，然后进入下一步。
 
-[![CodePipeline Deploy](../Images/c74e0568d92dc08ce90bbb51e4f7b186.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pyLqc8o0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/erl56mbzwzcwvahe4wjb.png)
+[![CodePipeline Deploy](img/c74e0568d92dc08ce90bbb51e4f7b186.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pyLqc8o0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/erl56mbzwzcwvahe4wjb.png)
 
 在`Deploy step`中，选择部署提供为`No Deployment`。稍后，我们将编辑我们的管道并添加一个部署阶段。进入下一步。
 
-[![CodePipeline Service Role](../Images/e710382c24b4048de372d6e7d70b5be4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yjNDRp1---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/al9k8vibmzz8bsiw5bpu.png)
+[![CodePipeline Service Role](img/e710382c24b4048de372d6e7d70b5be4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yjNDRp1---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/al9k8vibmzz8bsiw5bpu.png)
 
 在`Service Role`步骤中，我们的管道需要一个角色来授予访问 CodeBuild 项目的权限，监视 CloudWatch 事件。现在，我们选择现成的服务角色`AWS-CodePipeline-Service`。但是，如果所选的自定义角色和角色配置不正确，AWS CodePipeline 可能无法按预期工作。
 
-[![CodePipeline Review](../Images/bcd4eccaa88ed964054261eed1defd11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZnWaV2TQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sulzjvwqoajr15cwfpgz.png)
+[![CodePipeline Review](img/bcd4eccaa88ed964054261eed1defd11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZnWaV2TQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sulzjvwqoajr15cwfpgz.png)
 
 完成，您已经完成了代码管道配置，只需快速查看管道，然后点击创建管道按钮。
 
@@ -193,7 +193,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![CodePipeline Done](../Images/3a6785ec4c9b91f41f36dfe61543e351.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tQ-K3UYH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eq69g08i6zmcpd099etc.png)
+[![CodePipeline Done](img/3a6785ec4c9b91f41f36dfe61543e351.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tQ-K3UYH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eq69g08i6zmcpd099etc.png)
 
 好吧！无论您在本地机器上对`weight-watcher`项目做了什么修改，将您的更改提交到 GitHub 并检查`weight-watchers-pipeline`管道中的发布更改。如果两个阶段都成功通过，您就创建了自己的 CI 渠道。
 

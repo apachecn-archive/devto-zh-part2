@@ -4,17 +4,17 @@
 
 有了 Visual Studio(安装 Azure SDK ),你现在可以创建一个`Azure Resource Group`项目来管理你在多个 Azure 订阅中的资源。
 
-[![create](../Images/118532924f83b39ecfdc636332a8b12c.png)T2】](https://i.stack.imgur.com/010n6.jpg)
+[![create](img/118532924f83b39ecfdc636332a8b12c.png)T2】](https://i.stack.imgur.com/010n6.jpg)
 
 网上有一些关于 Visual Studio 如何使用 Json 模板的优秀指南，我从埃利奥特·曼斯菲尔德的这个[视频](https://www.youtube.com/watch?v=Rl8PJ4lH1So)和 GitHub 上的源代码[开始，因为我想确保我从自己的资源和客户可能需要的任何资源的模块化方法开始。](https://github.com/eliot-trustm/FirstARMproject)
 
 我正在构建我的项目:
 
-[![project](../Images/2f308796687647e544116339023f1724.png)T2】](https://i.stack.imgur.com/PanZH.jpg)
+[![project](img/2f308796687647e544116339023f1724.png)T2】](https://i.stack.imgur.com/PanZH.jpg)
 
 但是我已经可以部署`key-vaults`、`storage accounts`、`virtual networks`、`vnet gateways`、`virtual machines`等，所有这些都在我的资源组中进行组织、参数化和维护，只需点击几下鼠标:
 
-[![deploy](../Images/4d20ae1ccff800602c152ef99135215c.png)T2】](https://i.stack.imgur.com/eovJT.jpg)
+[![deploy](img/4d20ae1ccff800602c152ef99135215c.png)T2】](https://i.stack.imgur.com/eovJT.jpg)
 
 如果有人想从事这样的项目，这里有一些提示，可能会节省你一些时间:
 

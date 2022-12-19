@@ -13,7 +13,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 负载平均值通常显示为三个数字，就像上面`uptime`的例子一样。结果末尾的三个数字显示了最后一分钟(`0.44`)、最后五分钟(`0.28`)和最后十五分钟(`0.25`)的平均负载。
 
-[![Load averages per host on AppSignal](../Images/b9ba0ce6c414df58b8ab350e6fbfb713.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NhnUf6eS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.appsignal.com/images/blog/2018-03/load-appsignal.jpg)
+[![Load averages per host on AppSignal](img/b9ba0ce6c414df58b8ab350e6fbfb713.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NhnUf6eS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.appsignal.cimg/blog/2018-03/load-appsignal.jpg)
 
 在 AppSignal 上，过去八个小时的平均负载以分钟为单位显示，更长时间的平均负载以小时为单位显示。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/threedeeprinter/you-only-get-one-chance-most-of-the-time-2d7c>
 
-[![Dog Struggling on Leash](../Images/37a9e026cacc95d691fce63639cab118.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AoJoaF2J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zug8rsuxos3h5exo3h81.png)
+[![Dog Struggling on Leash](img/37a9e026cacc95d691fce63639cab118.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AoJoaF2J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zug8rsuxos3h5exo3h81.png)
 
 你渴望去面试那份新工作。你偶然发现了一个梦寐以求的职位，在你一直想为之工作的团队中起步。除此之外，其中一个要求是对框架的经验，你可能只是一知半解，他们需要一个自信的人。
 

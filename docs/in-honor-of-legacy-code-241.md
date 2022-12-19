@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/plainprogrammer/in-honor-of-legacy-code-241>
 
-[![](../Images/038eb9a0c67c9feb1e394424cfbfe5f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bt7uNEEg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://james.thomps.onl/wp-content/uploads/2019/07/515bd-1pxqnjlgqlqw-rxnay3ei-a.jpeg)
+[![](img/038eb9a0c67c9feb1e394424cfbfe5f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bt7uNEEg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://james.thomps.onl/wp-content/uploads/2019/07/515bd-1pxqnjlgqlqw-rxnay3ei-a.jpeg)
 
 我工作过的每家公司都有一些。似乎很少有人想解决这个问题，更少有人有信心解决这个问题。遗留代码在软件开发中是一个相当一致的、带有强烈贬义的术语。但是，这是好事吗？在过去的几年里，我开始认为事实并非如此。在听完 [Chad Fowler 在 RubyConf 2017 上发表的题为“变老”的主题演讲后，](http://confreaks.tv/videos/rubyconf2017-keynote-growing-old)我更加坚定了这个观点。
 

@@ -235,7 +235,7 @@ public static class SvgImage
 
 结果是，默认图像控件可以设置为 SVG 图像并显示，而无需更改自身。
 
-[![](../Images/9650f1156f07513c11b40770f4259450.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7z3kYK_W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ck4pp3gk0nhtbxxq5rpr.png)
+[![](img/9650f1156f07513c11b40770f4259450.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7z3kYK_W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ck4pp3gk0nhtbxxq5rpr.png)
 
 有关 SvgImageSource 的更多信息，请参见[自述文件](https://github.com/muak/SvgImageSource)。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/itsjzt/finding-project-names-smartly--4ln4>
 
-[![cover image](../Images/2adfa2219f545c09cfd540bdaf9a773e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3WA7tgXY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/chrenr3uchoyrz284mho.jpg)
+[![cover image](img/2adfa2219f545c09cfd540bdaf9a773e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3WA7tgXY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/chrenr3uchoyrz284mho.jpg)
 
 > 你需要在忘记之前写下你所做的事情，因为你最终会忘记的
 > ➡[@韦斯博斯](https://dev.to/wesbos)不记得 _(ツ)_/的原话

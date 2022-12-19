@@ -35,7 +35,7 @@
 
 #### *Hello-World*
 
-## ![GitHub logo](../Images/375dfcc32199b4dedf2b526645c27ff7.png)[black bird 71sr](https://github.com/blackbird71SR)/[Hello-World](https://github.com/blackbird71SR/Hello-World)
+## ![GitHub logo](img/375dfcc32199b4dedf2b526645c27ff7.png)[black bird 71sr](https://github.com/blackbird71SR)/[Hello-World](https://github.com/blackbird71SR/Hello-World)
 
 ### 所有可能的编程语言中的 hello world
 
@@ -70,7 +70,7 @@
 
 #### *编程-行情*
 
-## ![GitHub logo](../Images/375dfcc32199b4dedf2b526645c27ff7.png) [ blackbird71SR ](https://github.com/blackbird71SR) / [编程-报价](https://github.com/blackbird71SR/Programming-Quotes)
+## ![GitHub logo](img/375dfcc32199b4dedf2b526645c27ff7.png) [ blackbird71SR ](https://github.com/blackbird71SR) / [编程-报价](https://github.com/blackbird71SR/Programming-Quotes)
 
 ### 包含各种编程报价的存储库
 

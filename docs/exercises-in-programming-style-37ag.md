@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/henrikwarne/exercises-in-programming-style-37ag>
 
-在[工作中的读书俱乐部](https://henrikwarne.com/2016/11/08/developer-book-club/)，我们最近读完了 Cristina Videira Lopes 的编程风格的[练习。这本书包括一个用 33 种不同编程风格实现的简单程序。这是展示不同风格的好方法，这本书在读书俱乐部很受欢迎。这本书相对较新(2014 年出版)，我认为它还没有达到应有的知名度。因此，这里有一个总结和审查。](https://www.amazon.com/Exercises-Programming-Style-Cristina-Videira/dp/1482227371/) [![](../Images/d68d7cdadb279039fdc9fa550ea10bfb.png)](https://henrikwarne1.files.wordpress.com/2018/03/exercises-in-programming-style.jpg)
+在[工作中的读书俱乐部](https://henrikwarne.com/2016/11/08/developer-book-club/)，我们最近读完了 Cristina Videira Lopes 的编程风格的[练习。这本书包括一个用 33 种不同编程风格实现的简单程序。这是展示不同风格的好方法，这本书在读书俱乐部很受欢迎。这本书相对较新(2014 年出版)，我认为它还没有达到应有的知名度。因此，这里有一个总结和审查。](https://www.amazon.com/Exercises-Programming-Style-Cristina-Videira/dp/1482227371/) [![](img/d68d7cdadb279039fdc9fa550ea10bfb.png)](https://henrikwarne1.files.wordpress.com/2018/03/exercises-in-programming-style.jpg)
 
 ### 组织
 

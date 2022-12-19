@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/rishavs/making-a-single-page-app-in-ye-good-olde-js-es6-3eng>
 
-[![Imgur](../Images/6acfc29fa29f3f9ba4842b247ab20e18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NMQU6rfQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Nh6IfFz.png)
+[![Imgur](img/6acfc29fa29f3f9ba4842b247ab20e18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NMQU6rfQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Nh6IfFz.png)
 
 演示:[https://src-brsetrrnrp . now . sh/](https://src-brsetrrnrp.now.sh/)
 rest:[https://github . com/rishavs/vanillajs-spa](https://github.com/rishavs/vanillajs-spa)
@@ -265,7 +265,7 @@ export default About;
 
 ## 应用程序结构
 
-[![Imgur](../Images/fa7a8b2d0b5f61c4b253663a3abaa878.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GCliIVAo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/kzyHwsI.png) 
+[![Imgur](img/fa7a8b2d0b5f61c4b253663a3abaa878.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GCliIVAo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/kzyHwsI.png) 
 这是我如何构建这个应用程序的。views 文件夹包含我的动态内容[页面]和较小的组件[组件]。如果我添加可重复使用的组件，如卡片、评论等，我将在这里为它们添加组件。
 
 如果你已经注意到，我们没有使用任何捆绑器，如 parceljs，webpack 等，因为 ES6 以后我真的不需要。我可以使用脚本标签类型=模块的简单 html 指令来告诉浏览器，我们的 JS 中有一个模块化的应用程序，它需要考虑 ES6 导入/导出命令，并相应地缝合模块。这就是我们如何在核心 html 文件中声明应用程序的根；

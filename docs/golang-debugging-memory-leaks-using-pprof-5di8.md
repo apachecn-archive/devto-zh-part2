@@ -8,7 +8,7 @@
 
 在部署新版本的服务几天后，我打开相关的监控仪表板，看到了以下内容:
 
-[![Memory usage graph](../Images/3f107a49c1772a48b4eda542428adf45.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sHbqTXQf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidsbond.github.io/assets/2018-08-08-debugging-memory-leaks-using-pprof/1.png)
+[![Memory usage graph](img/3f107a49c1772a48b4eda542428adf45.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sHbqTXQf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidsbond.github.io/assets/2018-08-08-debugging-memory-leaks-using-pprof/1.png)
 
 根据这个图表，我们在某个地方有内存泄漏。这很可能是由于服务中 goroutines 的管理问题。然而，该服务严重依赖于并发性，因此找到漏洞可能不那么容易。幸运的是，goroutines 是轻量级的，在泄漏成为真正的/昂贵的问题之前，允许有合理的时间来找出泄漏在哪里。12pm 标记上的两个尖峰是迁移发生的时间。
 
@@ -206,7 +206,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在实施这些更改并将其部署到生产中后，服务的内存使用量将永远保持在一个健康的水平:
 
-[![Memory usage graph](../Images/ac4d52d6713c0103188dbd835270f53d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5XQKBXRD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidsbond.github.io/assets/2018-08-08-debugging-memory-leaks-using-pprof/2.png)
+[![Memory usage graph](img/ac4d52d6713c0103188dbd835270f53d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5XQKBXRD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidsbond.github.io/assets/2018-08-08-debugging-memory-leaks-using-pprof/2.png)
 
 ### 吸取教训
 

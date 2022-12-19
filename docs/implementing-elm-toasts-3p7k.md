@@ -8,7 +8,7 @@
 
 没有太多的产品，但是 Toasty([http://package . elm-lang . org/packages/pablen/Toasty/1 . 0 . 4/Toasty](http://package.elm-lang.org/packages/pablen/toasty/1.0.4/Toasty))看起来有一些很好的定制功能，演示看起来也很合适。
 
-[![alt text](../Images/e77e017b98687b0e652ef88d7df981cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SjuP4TeE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f2g15g3fhk4r6fqtcv0r.png)
+[![alt text](img/e77e017b98687b0e652ef88d7df981cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SjuP4TeE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f2g15g3fhk4r6fqtcv0r.png)
 
 在我的理想世界中，我会安装这个包，编辑一个配置文件，然后开始调用这个模块。哎呀，这听起来像 Javascript...
 

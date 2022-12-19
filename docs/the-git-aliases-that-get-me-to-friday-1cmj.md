@@ -4,7 +4,7 @@
 
 # 把我带到星期五的 Git 别名
 
-[![alt text](../Images/d0cec819951f1e0ae8dae0fef45f5398.png "Git Logo")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k_d3U9ss--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j7to6mqn4b52h31fd9tf.png)
+[![alt text](img/d0cec819951f1e0ae8dae0fef45f5398.png "Git Logo")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k_d3U9ss--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j7to6mqn4b52h31fd9tf.png)
 
 在从 SVN 转到 Git 的过去几年里，我获得了几个别名，它们帮助我简化了工作流程，提高了工作效率。毕竟，捷径的全部意义在于让你的生活更轻松，对吗？我想和你分享我的化名，不管它们有多没用。
 

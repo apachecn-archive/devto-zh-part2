@@ -4,7 +4,7 @@
 
 《Hundiyas》是一款完全用 DHTML (HTML、CSS 和 JavaScript)编写的开源战舰(又名战舰或海战)游戏。高度可配置。
 
-[![Screenshot](../Images/20e3c57d9287206ce76fd21f9db277b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K0HINWJl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://dhtmlgames.com/hundiyas/hundiyas.gif)
+[![Screenshot](img/20e3c57d9287206ce76fd21f9db277b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K0HINWJl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://dhtmlgames.com/hundiyas/hundiyas.gif)
 
 这是我的第八个 DHTML 游戏，制作于 2007 年中期。
 

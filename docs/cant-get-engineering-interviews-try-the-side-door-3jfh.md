@@ -6,7 +6,7 @@
 
 想象一下，一大群人在一栋大楼前，推推搡搡地从大门进去。一些人，厌倦了暴民，决定探索的前提，并遇到了侧门。他们敲门，有人开门，然后走进来。也用那个侧门不是很好吗？
 
-[![Find the side door on Key Values.](../Images/104b9bf8f304bcc7d8c03ab669ea620c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qVPTXU9u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vdx37xb7yqew5iclmjg6.jpg)
+[![Find the side door on Key Values.](img/104b9bf8f304bcc7d8c03ab669ea620c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qVPTXU9u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vdx37xb7yqew5iclmjg6.jpg)
 
 ## 创业的许多方式。
 

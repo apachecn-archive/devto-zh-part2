@@ -36,13 +36,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 是的，我又说了一遍。但这真的很酷吗？能够一次完成多个命令。当其他人一个接一个地执行 git 命令时，您走捷径，使用别名。做一些不同于传统的事情。不得不承认，有时使用 git 别名感觉很糟糕(*尤其是结对编程的时候*
 
-[![alt text](../Images/333de370cff211fa654a58a76e00475f.png)T2】](https://i.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif)
+[![alt text](img/333de370cff211fa654a58a76e00475f.png)T2】](https://i.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif)
 
 #### 节省时间
 
 我想我不需要再强调这个了。只需点击几下鼠标，您就可以准备、提交并推送您的更改。考虑到你一天大概要犯 10 次错误，这将为你节省大约 10 秒钟，每天至少可以节省 2 分钟。你可以用它来煮咖啡，去休息室，更新你的代码审查程序，或者只是舒展一下筋骨，小睡一会儿。
 
-[![alt text](../Images/020fa7ef43015fc8f5aa97c90812cfe7.png)T2】](https://i.giphy.com/media/l6gZ4YYesTutW/giphy.gif)
+[![alt text](img/020fa7ef43015fc8f5aa97c90812cfe7.png)T2】](https://i.giphy.com/media/l6gZ4YYesTutW/giphy.gif)
 
 #### 我的饭桶别名
 

@@ -4,7 +4,7 @@
 
 在过去的几个月里，我在 Linux 环境中执行了越来越多的分析，并有机会改进我的定位命令，获得了一些新的(对我来说)技巧。在这篇文章中，我将分享我喜欢使用的一些技术，并鼓励您分享您在 Linux 系统上执行分析时使用的其他技巧/诀窍，无论是作为您的分析环境还是作为您的目标证据(或者两者都是)！
 
-<figure>[![](../Images/32343525caeed1115bf2439a75580744.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BF5vRn4e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A2yo2yxGMeNb8JZKW) 
+<figure>[![](img/32343525caeed1115bf2439a75580744.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BF5vRn4e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A2yo2yxGMeNb8JZKW) 
 
 <figcaption>照片由[孙浩](https://unsplash.com/@danielleone?utm_source=medium&utm_medium=referral)上[下](https://unsplash.com?utm_source=medium&utm_medium=referral)</figcaption>
 

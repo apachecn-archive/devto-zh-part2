@@ -8,7 +8,7 @@
 
 作为文章推荐，这是博客所缺少的，我去做了。
 
-[![Article recommendation in use](../Images/db1e126eca498c5b145090c9fc1a92e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---PUv2rhe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ops.tips/blog/-/images/recommended-articles.svg)
+[![Article recommendation in use](img/db1e126eca498c5b145090c9fc1a92e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---PUv2rhe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ops.tips/blogimg/recommended-articles.svg)
 
 看看你是如何为你的静态网站做到这一点的！
 
@@ -20,7 +20,7 @@
 
 作为被标记为 [Linux](https://ops.tips/tags/linux) 、[网络](https://ops.tips/tags/networking)和 [Go](https://ops.tips/tags/go) 的文章，我们可以推断有三个内容池可能与本文中的内容相似(它们之间有一些重叠)。
 
-[![Overlap between bag of articles by selecting articles with tags matching](../Images/9c6253a30b81dc3ab07645f7e3ce8b40.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1f49WsJ---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ops.tips/blog/-/images/recommendation-overlap.svg)
+[![Overlap between bag of articles by selecting articles with tags matching](img/9c6253a30b81dc3ab07645f7e3ce8b40.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1f49WsJ---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ops.tips/blogimg/recommendation-overlap.svg)
 
 向前看，我们可以认为，一旦我们解决了可能推荐的文章，下一步是优先选择其中的一些:在更多类别中对那些有更多重叠的文章排名更高。
 

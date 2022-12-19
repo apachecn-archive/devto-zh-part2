@@ -8,7 +8,7 @@
 
 场景很简单，你正在开发一个网站或 web 应用程序，当然你希望它看起来尽可能好，这显然是通过使用 CSS 来实现的。然后，您发现自己在重复标记名称、属性、颜色，并且有一个巨大的 main.css 文件(或者在 HTML 头中有许多`<src rel="stylesheet">`标记？).如果你想改变网站的主色调呢？仅仅因为`#7a19a8`看起来比`#7211a0`稍微好一点，几十行就变了。
 
-[![Imgur](../Images/a2e1d319457a647f9561ddfb264c53c9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uaPxwHf5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/6o46QvA.png) 
+[![Imgur](img/a2e1d319457a647f9561ddfb264c53c9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uaPxwHf5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/6o46QvA.png) 
 *甚至有区别吗？*
 
 为了解决所有这些以及更多的问题，2006 年创建了语法上令人敬畏的样式表，Sass for the friends。Sass 是一种预处理器脚本语言，它被解释或编译成简单的 CSS。所有这些意味着 Sass 扩展了 CSS 语法，使用类似的结构，具有更多的功能。
@@ -21,7 +21,7 @@
 
 变量是 Sass 的核心部分，前提是您在 Sass 中以有效数据类型的形式声明任何数据，并且您可以在整个样式表中使用它。下面是语法:
 
-[![Imgur](../Images/7f8d33997e0a837b96ba953408a107a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--avMBr9wy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Ul2b42X.png)
+[![Imgur](img/7f8d33997e0a837b96ba953408a107a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--avMBr9wy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Ul2b42X.png)
 
 #### *嵌套选择器*
 

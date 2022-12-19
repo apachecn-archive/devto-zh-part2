@@ -4,7 +4,7 @@
 
 当我还是个孩子的时候，我的父母说服我，在交作业和试卷之前仔细检查它们是值得的，以便发现错误并改正。这很快成了我的习惯。曾经评估为自我代码评审过程的习惯:)
 
-[![](../Images/e4b19306c4afe8f47fe5dc3b640f0a50.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zx4yFdAE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/auekgo687fwuyolanu7v.jpg)
+[![](img/e4b19306c4afe8f47fe5dc3b640f0a50.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zx4yFdAE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/auekgo687fwuyolanu7v.jpg)
 
 我将与你分享我在提交代码之前采取的步骤。可能大多数对你来说是显而易见的，但也许你会发现一些有趣的和值得纳入你的日常生活的东西？
 

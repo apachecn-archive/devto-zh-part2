@@ -22,7 +22,7 @@
 *   单击自动筛选下拉列表，从列表中选择您的选项，然后按确定。
 *   所有不符合条件的行将被过滤掉。详情请看这张快照。
 
-[![Apply AutoFilter in Microsoft Excel which can also be done with Aspose.Cells API programmatically.](../Images/d5a5f38b2f98fa4cac02c35a042aaa5c.png "Apply AutoFilter in Microsoft Excel which can also be done with Aspose.Cells API programmatically.")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GOWeGObS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/AsposeCells/AsposeCells-Screenshots-and-Sample-Files/master/Use-AutoFilter-to-Filter-Excel-Data/Apply-AutoFilter-Microsoft-Excel-Aspose.Cells-API.png)
+[![Apply AutoFilter in Microsoft Excel which can also be done with Aspose.Cells API programmatically.](img/d5a5f38b2f98fa4cac02c35a042aaa5c.png "Apply AutoFilter in Microsoft Excel which can also be done with Aspose.Cells API programmatically.")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GOWeGObS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/AsposeCells/AsposeCells-Screenshots-and-Sample-Files/master/Use-AutoFilter-to-Filter-Excel-Data/Apply-AutoFilter-Microsoft-Excel-Aspose.Cells-API.png)
 
 # 在 Aspose 中使用自动筛选功能筛选数据。细胞
 
@@ -32,7 +32,7 @@
 
 为了演示，我们将使用下面的[样本输入 Microsoft Excel 文档](https://github.com/AsposeCells/AsposeCells-Screenshots-and-Sample-Files/blob/master/Use-AutoFilter-to-Filter-Excel-Data/sampleUseAutoFilterToFilterExcelData.xlsx)，它包含四列中的一些数据。我们将对*车辆*和*颜色*列应用自动筛选。一旦行被过滤掉，其中一些行将被隐藏，红线内显示的 *Qty1* 和 *Qty2* 列的**总计**将被相应修改。
 
-[![Sample Input Microsoft Excel Document containing Data for applying AutoFilter using Aspose.Cells API.](../Images/dde316c30ad5c588d0c882a7e19639fa.png "Sample Input Microsoft Excel Document containing Data for applying AutoFilter using Aspose.Cells API.")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tM0W4FR5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/AsposeCells/AsposeCells-Screenshots-and-Sample-Files/master/Use-AutoFilter-to-Filter-Excel-Data/Sample-Microsoft-Excel-Apply-AutoFilter-Aspose.Cells-API.png)
+[![Sample Input Microsoft Excel Document containing Data for applying AutoFilter using Aspose.Cells API.](img/dde316c30ad5c588d0c882a7e19639fa.png "Sample Input Microsoft Excel Document containing Data for applying AutoFilter using Aspose.Cells API.")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tM0W4FR5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/AsposeCells/AsposeCells-Screenshots-and-Sample-Files/master/Use-AutoFilter-to-Filter-Excel-Data/Sample-Microsoft-Excel-Apply-AutoFilter-Aspose.Cells-API.png)
 
 # 样本代码
 

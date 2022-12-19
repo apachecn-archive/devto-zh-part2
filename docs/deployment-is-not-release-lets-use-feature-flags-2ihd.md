@@ -2,13 +2,13 @@
 
 > 原文：<https://dev.to/geshan/deployment-is-not-release-lets-use-feature-flags-2ihd>
 
-[![Deployment Is Not Release, Let’s Use Feature Flags](../Images/7e2ae3a1aae68c9a893cb3badbd6021d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S8NZzb3l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AsNyPMg_QtC3Un9LNNh-skw.jpeg)
+[![Deployment Is Not Release, Let’s Use Feature Flags](img/7e2ae3a1aae68c9a893cb3badbd6021d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S8NZzb3l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AsNyPMg_QtC3Un9LNNh-skw.jpeg)
 
 将一个大的特征分解成史诗和故事总是很棘手的。然后你有子故事使过程变得复杂。如果您能够部署能够为业务带来价值的已完成任务，将会有所帮助。输入特性标志，使用它你可以将你的代码部署到产品中。代码和特性正在生产中，但没有完全发布给每个人。
 
 > 这篇文章将帮助你调整你的思维模式，从特性标志中获得更多的好处。
 
-[![Switches image from [pixabay](https://pixabay.com/en/electric-electricity-building-1080585/)](../Images/554f5ae77e30d678f3fd7fd8ec2ee693.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--wECc7Bbe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3840/1%2AvhQOETtP_3LQmHIKpB1ZZQ.jpeg) *将图像从[切换到](https://pixabay.com/en/electric-electricity-building-1080585/)*
+[![Switches image from [pixabay](https://pixabay.com/en/electric-electricity-building-1080585/)](img/554f5ae77e30d678f3fd7fd8ec2ee693.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--wECc7Bbe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3840/1%2AvhQOETtP_3LQmHIKpB1ZZQ.jpeg) *将图像从[切换到](https://pixabay.com/en/electric-electricity-building-1080585/)*
 
 ## 为什么要使用特征标志？
 

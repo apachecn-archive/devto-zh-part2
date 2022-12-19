@@ -40,17 +40,17 @@ npm start
 ```
 
 在你的浏览器中，进入[http://localhost:8081/VR/](http://localhost:8081/vr/)。类似下面的东西会显示出来:
-[![Hello World no VR button](../Images/1dcb573e9e49b4c2707fd8c988ed1e80.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dF7ZEKaR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dl.dropboxusercontent.com/s/gx8cx6m0q0g5gxf/creating-a-musical-experience-with-react-vr-and-pusher-first-no-vr.png)
+[![Hello World no VR button](img/1dcb573e9e49b4c2707fd8c988ed1e80.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dF7ZEKaR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dl.dropboxusercontent.com/s/gx8cx6m0q0g5gxf/creating-a-musical-experience-with-react-vr-and-pusher-first-no-vr.png)
 
 如果你使用的是兼容的浏览器，你还应该看到用耳机查看应用程序的 VR 按钮:
-[![Hello World VR button](../Images/e68c577fe3246e127ef0f881bf11d10e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--w_-T7Zkm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dl.dropboxusercontent.com/s/xrq8g51rr7cfevh/creating-a-musical-experience-with-react-vr-and-pusher-first-vr.png)
+[![Hello World VR button](img/e68c577fe3246e127ef0f881bf11d10e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--w_-T7Zkm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dl.dropboxusercontent.com/s/xrq8g51rr7cfevh/creating-a-musical-experience-with-react-vr-and-pusher-first-vr.png)
 
 现在让我们开始编写我们的应用程序。
 
 ## 创建背景
 
 我们将使用一个[等矩形图像](https://www.flickr.com/groups/equirectangular/)作为图像背景。这类图像的主要特点是宽度必须正好是高度的两倍，所以打开你最喜欢的图像编辑软件，用你选择的渐变或颜色创建一个大小为 4096x2048 的图像:
-[![Gradient](../Images/9c9cc91029fd56c9df79488fdf67c760.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--G9Rp_FN9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dl.dropboxusercontent.com/s/v3qbhdalrjc083i/creating-a-musical-experience-with-react-vr-and-pusher-background.png)
+[![Gradient](img/9c9cc91029fd56c9df79488fdf67c760.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--G9Rp_FN9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dl.dropboxusercontent.com/s/v3qbhdalrjc083i/creating-a-musical-experience-with-react-vr-and-pusher-background.png)
 
 在你的应用程序根目录下的`static_assets`目录中创建一个名为`images`的新文件夹，并保存你的图片。现在打开文件`index.vr.js`，用下面的内容替换`render`方法的内容:
 
@@ -65,7 +65,7 @@ render() {
 ```
 
 当你重新加载页面时(或者如果你启用了[热重新加载](https://facebook.github.io/react-vr/docs/dev-tools.html#hot-reloading)，你应该会看到这样的内容:
-[![Background](../Images/b2a77239805207c40ad151831b89d809.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kM9zN80I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dl.dropboxusercontent.com/s/kyas3gr52x7pqq2/creating-a-musical-experience-with-react-vr-and-pusher-background.gif)
+[![Background](img/b2a77239805207c40ad151831b89d809.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kM9zN80I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dl.dropboxusercontent.com/s/kyas3gr52x7pqq2/creating-a-musical-experience-with-react-vr-and-pusher-background.gif)
 
 现在，为了模拟一棵树，我们将使用一个[圆柱体](https://facebook.github.io/react-vr/docs/cylinder.html)。事实上，我们需要 100 个这样的东西来在用户周围创建一个森林。在原始音乐森林中，我们可以在[js/components/background-objects . js](https://github.com/googlecreativelab/webvr-musicalforest/blob/master/js/components/background-objects.js)文件中找到生成用户周围树的算法。如果我们将代码改编成项目的 React 组件，我们可以得到这样的结果:
 
@@ -139,7 +139,7 @@ export default class musical_exp_react_vr_pusher extends React.Component {
 ```
 
 在浏览器中，应该会看到这样的内容:
-[![Forest](../Images/b3b5513e8989543505c2ffcb64d3334c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rXiZoCJo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dl.dropboxusercontent.com/s/xpt6nah4sqbzr2o/creating-a-musical-experience-with-react-vr-and-pusher-trees.gif)
+[![Forest](img/b3b5513e8989543505c2ffcb64d3334c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rXiZoCJo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dl.dropboxusercontent.com/s/xpt6nah4sqbzr2o/creating-a-musical-experience-with-react-vr-and-pusher-trees.gif)
 
 很好，我们的背景完成了，现在让我们添加 3D 物体来播放声音。
 
@@ -335,7 +335,7 @@ export default class musical_exp_react_vr_pusher extends React.Component {
 ```
 
 添加必要的导入后，保存文件并刷新浏览器。你应该看到这样的东西:
-[![Shapes](../Images/d86ce26fa3a5b52f3596fb0b264ec32a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sCI6GpxG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dl.dropboxusercontent.com/s/i7qj34285dcc3z0/creating-a-musical-experience-with-react-vr-and-pusher-shapes.gif)
+[![Shapes](img/d86ce26fa3a5b52f3596fb0b264ec32a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sCI6GpxG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dl.dropboxusercontent.com/s/i7qj34285dcc3z0/creating-a-musical-experience-with-react-vr-and-pusher-shapes.gif)
 
 现在让我们添加一些声音！
 
@@ -490,10 +490,10 @@ export default class musical_exp_react_vr_pusher extends React.Component {
 
 在[https://pusher.com/signup](https://pusher.com/signup)创建一个免费账户。
 当你创建一个应用时，你会被要求输入一些配置选项:
-[![Create Pusher App](../Images/f8b08872fda06c5d6241fb1f8844da74.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IGUw1pnW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dl.dropboxusercontent.com/s/t1ud5lyv508wgyz/creating-a-musical-experience-with-react-vr-and-pusher-set-up-pusher.png)
+[![Create Pusher App](img/f8b08872fda06c5d6241fb1f8844da74.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IGUw1pnW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dl.dropboxusercontent.com/s/t1ud5lyv508wgyz/creating-a-musical-experience-with-react-vr-and-pusher-set-up-pusher.png)
 
 输入名称，选择 React 作为前端技术，Node.js 作为后端技术。这将为您提供一些示例代码来帮助您入门:
-[![Pusher Getting Started Code](../Images/b7e0a2d6483a0d8688ce00180fc53a2d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6U0ZyQbG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dl.dropboxusercontent.com/s/3b5knaiaykyn5y4/creating-a-musical-experience-with-react-vr-and-pusher-app.png)
+[![Pusher Getting Started Code](img/b7e0a2d6483a0d8688ce00180fc53a2d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6U0ZyQbG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dl.dropboxusercontent.com/s/3b5knaiaykyn5y4/creating-a-musical-experience-with-react-vr-and-pusher-app.png)
 
 但是不要担心，这不会把你限制在这些特定的技术上，因为你可以随时改变它们。使用 Pusher，您可以使用库的任意组合。
 

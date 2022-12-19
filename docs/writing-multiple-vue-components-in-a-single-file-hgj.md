@@ -89,7 +89,7 @@ export default {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/e860e4ed48616d58ca35af4f5b52c7a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oNPeDihA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_C77B3833CA1DF6A1ECE1A6427FA5D87D901D3E0465D27B32C42538222EBFCCF1_1536749104796_Screen%2BShot%2B2018-09-12%2Bat%2B11.44.47.png)
+[![](img/e860e4ed48616d58ca35af4f5b52c7a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oNPeDihA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_C77B3833CA1DF6A1ECE1A6427FA5D87D901D3E0465D27B32C42538222EBFCCF1_1536749104796_Screen%2BShot%2B2018-09-12%2Bat%2B11.44.47.png)
 
 ## 使用 Vue.component 和一个模板
 
@@ -158,7 +158,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 正如在链接文章中指出的，这将 Vue 模板编译器添加到您的包中…大约 10KB。重新启动开发服务器:`npm run serve`:
 
-[![](../Images/b89e2fad46f683f870a72176b73d9d90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lI5aLye5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_C77B3833CA1DF6A1ECE1A6427FA5D87D901D3E0465D27B32C42538222EBFCCF1_1536749628943_Screen%2BShot%2B2018-09-12%2Bat%2B11.44.47.png)
+[![](img/b89e2fad46f683f870a72176b73d9d90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lI5aLye5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_C77B3833CA1DF6A1ECE1A6427FA5D87D901D3E0465D27B32C42538222EBFCCF1_1536749628943_Screen%2BShot%2B2018-09-12%2Bat%2B11.44.47.png)
 
 ## 使用一个模板而没有 Vue.component
 
@@ -200,7 +200,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 仍然有效(如果我们有正确的`vue.config.js`并启用了`runtimeCompiler`):
 
-[![](../Images/861de5404fb5f6a97670f6acbe08ba1b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LDRb2qIy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_C77B3833CA1DF6A1ECE1A6427FA5D87D901D3E0465D27B32C42538222EBFCCF1_1536749695600_Screen%2BShot%2B2018-09-12%2Bat%2B11.44.47.png)
+[![](img/861de5404fb5f6a97670f6acbe08ba1b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LDRb2qIy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_C77B3833CA1DF6A1ECE1A6427FA5D87D901D3E0465D27B32C42538222EBFCCF1_1536749695600_Screen%2BShot%2B2018-09-12%2Bat%2B11.44.47.png)
 
 由于我没有上面的完整代码，w#使用 JSX(编译成渲染函数)
 

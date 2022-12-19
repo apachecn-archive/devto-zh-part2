@@ -8,7 +8,7 @@
 
 大多数情况下，简单术语“代理”指的是正向代理。它只是位于客户机和服务器之间，充当中继代理。它们通常由客户端或内部网络从客户端放置。可以有各种使用转发代理的情况，如跟踪请求、响应、拒绝对某些域的访问、修改报头、改变位置等。
 
-<figure>[![](../Images/27c5f3656220791242f8c56feede95c0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9eVR9yku--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/539/1%2AB390-BMZ4Tqcc7l6YUgX7g.png) 
+<figure>[![](img/27c5f3656220791242f8c56feede95c0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9eVR9yku--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/539/1%2AB390-BMZ4Tqcc7l6YUgX7g.png) 
 
 <figcaption>转发代理</figcaption>
 
@@ -18,7 +18,7 @@
 
 服务器使用这些类型的代理，主要是为了安全和负载平衡。客户端访问这些反向代理服务器，而不是实际的服务器，然后这些代理服务器向实际的服务器发送请求。对于 web 服务器来说，这种架构有几个好处。它可以将恶意用户拒之门外，平衡服务器之间的负载，并通过缓存静态内容来减少源服务器上的负载。
 
-<figure>[![](../Images/8f83133158485ae33077fc1eb364ac5f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cA_2B30V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/506/1%2AlfyfY68D1wayyIS1qRk8WA.png) 
+<figure>[![](img/8f83133158485ae33077fc1eb364ac5f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cA_2B30V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/506/1%2AlfyfY68D1wayyIS1qRk8WA.png) 
 
 <figcaption>反向代理</figcaption>
 

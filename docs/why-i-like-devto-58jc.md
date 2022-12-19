@@ -32,7 +32,7 @@ Dev.to 仍然很小，不足以成为一个真正的社区，但它有足够的�
 
 人们停下来花时间说这样的话
 
-[![benfaught](../Images/0e044ba68035889f4bb95a526d41f506.png)](/benfaught) [## 我每天都在拜访戴夫·托越来越多😍
+[![benfaught](img/0e044ba68035889f4bb95a526d41f506.png)](/benfaught) [## 我每天都在拜访戴夫·托越来越多😍
 
 ### Benjamin Faught 6 月 21 日 181 分钟阅读
 
@@ -45,7 +45,7 @@ Since I've been here I've seen maybe one or two interactions that weren't friend
 
 # 使用它的人确实参与了整个社交社区的事情...
 
-[![wangonya](../Images/f24a24d0096b366df3522b3e07664d45.png)](/wangonya) [## 为什么我删除了脸书、推特和 Instagram...然后转向戴夫·托
+[![wangonya](img/f24a24d0096b366df3522b3e07664d45.png)](/wangonya) [## 为什么我删除了脸书、推特和 Instagram...然后转向戴夫·托
 
 ### Kelvin Wangonya ・ Sep 4 '18 ・ 4 min read
 
@@ -53,7 +53,7 @@ Since I've been here I've seen maybe one or two interactions that weren't friend
 
 # ...但它仍然以开发者为中心
 
-[![ryanfarney3](../Images/efcc8b279ed4d4a24aaadbe47bb5dec9.png)](/ryanfarney3) [## 为什么你的技术博客属于开发者
+[![ryanfarney3](img/efcc8b279ed4d4a24aaadbe47bb5dec9.png)](/ryanfarney3) [## 为什么你的技术博客属于开发者
 
 ### 瑞安·法尼 1818 年 8 月 2 日 14 分钟阅读
 
@@ -63,7 +63,7 @@ Since I've been here I've seen maybe one or two interactions that weren't friend
 
 我们是开发商。我们更喜欢正在进行的工作，而不是已经完成的工作，因为如果它是最终的，那么每个缺陷都会成为抱怨的理由，而不是修复它的机会。
 
-[![ben](../Images/fe64a787b888dfb20fc13ad1e466da3d.png)](/ben) [## dev.to 现在是开源的
+[![ben](img/fe64a787b888dfb20fc13ad1e466da3d.png)](/ben) [## dev.to 现在是开源的
 
 ### Ben Hal pern Aug 8 ' 184min read
 

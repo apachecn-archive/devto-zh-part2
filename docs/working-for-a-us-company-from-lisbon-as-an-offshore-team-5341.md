@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/runtime-revolution/working-for-a-us-company-from-lisbon-as-an-offshore-team-5341>
 
-<figure>[![](../Images/1a44f89ac926434fd14fda5a207df75d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--loh0fxCv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ACd6ikOkQScio234NiiqY_w.jpeg) 
+<figure>[![](img/1a44f89ac926434fd14fda5a207df75d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--loh0fxCv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ACd6ikOkQScio234NiiqY_w.jpeg) 
 
 <figcaption>照片由[卢卡斯佛朗哥](https://unsplash.com/photos/NMlad_sUGTo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)上 [Unsplash](https://unsplash.com/search/photos/statue-liberty?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 

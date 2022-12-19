@@ -4,9 +4,9 @@
 
 于是，我在努力学习 Elm(我刚放弃)，然后我看到了这个功能要求:
 
-# [![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) 请求:添加列表理解 #147](https://github.com/elm/compiler/issues/147) 
+# [![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) 请求:添加列表理解 #147](https://github.com/elm/compiler/issues/147) 
 
-[![deadfoxygrandpa avatar](../Images/8a687f35ffd82ef71340ef1536aa53e7.png)](https://github.com/deadfoxygrandpa) **[deadfoxygrandpa](https://github.com/deadfoxygrandpa)** posted on [<time datetime="2013-05-04T18:49:44Z">May 04, 2013</time>](https://github.com/elm/compiler/issues/147)
+[![deadfoxygrandpa avatar](img/8a687f35ffd82ef71340ef1536aa53e7.png)](https://github.com/deadfoxygrandpa) **[deadfoxygrandpa](https://github.com/deadfoxygrandpa)** posted on [<time datetime="2013-05-04T18:49:44Z">May 04, 2013</time>](https://github.com/elm/compiler/issues/147)
 
 我建议在 Elm 中加入列表理解。它们在实现它们的语言中被大量使用。考虑到 Elm 和 Haskell 语法之间的相似之处，我建议使用 Haskell 风格的列表理解，如下所示:
 

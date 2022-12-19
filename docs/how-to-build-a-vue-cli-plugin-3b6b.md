@@ -172,11 +172,11 @@ Vue.use(VueRx);
 
 首先，让我们创建这个示例组件。它应该是位于项目`src/components`文件夹中的`.vue`文件。在`generator`文件夹中创建一个`template`文件夹，然后模仿其中的整个结构:
 
-[![tree screenshot](../Images/c2c2a7f3669e212c11e28d5f34fd6044.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZuAP1AKs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/gIsbaeA.png)
+[![tree screenshot](img/c2c2a7f3669e212c11e28d5f34fd6044.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZuAP1AKs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/gIsbaeA.png)
 
 您的示例组件应该是...嗯，只是一个 Vue 单文件组件！在本文中，我不会深入 RxJS 的解释，但是我创建了一个简单的基于 RxJS 的点击计数器，它有两个按钮:
 
-[![Rx Example](../Images/2be5371d87ed8f521036f9bdf8320a29.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M5ctWdBQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/JA2OWvs.png)
+[![Rx Example](img/2be5371d87ed8f521036f9bdf8320a29.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M5ctWdBQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/JA2OWvs.png)
 
 它的源代码可以在这里找到。
 
@@ -238,7 +238,7 @@ if (options.addExample) {
 
 我还希望我的插件在 Vue CLI UI 中有一个漂亮的外观，所以我给`package.json`添加了描述、标签和库名，并创建了一个徽标。Logo 图片应该命名为`logo.png`，放在插件根文件夹中。因此，我的插件在 UI 插件列表中看起来是这样的:
 
-[![vue-rx in UI](../Images/f68ec5c2081bc0b743fdf04117f79c5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XmA53gw9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/eNuDHmb.png)
+[![vue-rx in UI](img/f68ec5c2081bc0b743fdf04117f79c5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XmA53gw9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/eNuDHmb.png)
 
 现在我们准备出版了。你需要注册一个[npmjs.com](https://www.npmjs.com/)，显然你应该已经安装了 npm。
 

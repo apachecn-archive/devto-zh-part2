@@ -93,7 +93,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这就是我们想要的产品系列。
 
-[![example](../Images/26f059b3971a022fae6445089d362fe4.png "The result")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_klaRXLn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gaap4qve9ycmoldlf7uc.PNG)
+[![example](img/26f059b3971a022fae6445089d362fe4.png "The result")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_klaRXLn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gaap4qve9ycmoldlf7uc.PNG)
 
 # 完整源代码
 

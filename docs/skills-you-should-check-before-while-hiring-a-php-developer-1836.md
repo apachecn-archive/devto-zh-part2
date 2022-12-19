@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/xtreemsolution/skills-you-should-check-before-while-hiring-a-php-developer-1836>
 
-[![](../Images/24eabf23407ea0f5d65bcd0810f2c42a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6-7RyrdP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oc9ott5f6j5jftfb29y6.jpg)
+[![](img/24eabf23407ea0f5d65bcd0810f2c42a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6-7RyrdP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oc9ott5f6j5jftfb29y6.jpg)
 
 PHP 的未来是光明的，因为它仍然是 App 和 [Web 开发解决方案](https://xtreemsolution.com/web-development-services.html)最受欢迎的五大编程语言。它为解决方案提供的速度、安全性、直观性和稳定性促进了 PHP 开发人员的成长，他们准备好接受具有挑战性的项目并交付完美的解决方案。
 

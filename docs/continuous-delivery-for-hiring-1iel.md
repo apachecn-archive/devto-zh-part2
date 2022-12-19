@@ -19,7 +19,7 @@
 
 让我们假设一个雇用工程师的典型流程如下:
 
-[![Hiring Process](../Images/f01dab0353adffcda6ebef9003fbf9af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J4h-cx2W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6g56zmbe95k9hmrrotp2.png)
+[![Hiring Process](img/f01dab0353adffcda6ebef9003fbf9af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J4h-cx2W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6g56zmbe95k9hmrrotp2.png)
 
 电话屏幕阶段有规律地循环几次。有招聘人员、人力资源代表、工程经理和工程师的电话屏幕。雇主希望创建一个申请人漏斗，随着每次电话筛选，数量减少，质量提高。目标是让最优秀的候选人进入面试阶段。这里的反模式是高质量和低质量的候选人都要经历相同的步骤。每一步都有机会剔除不好的契合点，但也会阻止好的契合点。想象一下当候选人面对这些守门人时是什么样的。高质量的候选人有选择。为什么他们会选择与你的公司进行另一次电话筛选？从招聘公司的角度来看，这是一个产生优秀候选人的渠道。从工程师的角度来看，这是一个挑战。
 
@@ -37,7 +37,7 @@
 
 再看一下面试流程图:
 
-[![Hiring Process](../Images/f01dab0353adffcda6ebef9003fbf9af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J4h-cx2W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6g56zmbe95k9hmrrotp2.png)
+[![Hiring Process](img/f01dab0353adffcda6ebef9003fbf9af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J4h-cx2W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6g56zmbe95k9hmrrotp2.png)
 
 遗憾的是，面试只是中途。我们甚至可以在面试后进行优化。雇主通过在面试结束时准备好录取通知书来赢得时间和好感。如果你已经磨砺了你的面试过程来产生一个高信号，那么是什么阻止了你呢？起草录取通知书需要一些准备工作，但没什么不寻常的。变量一般是:你能提供的薪水，签约奖金，股票期权，候选人的名字。对于许多候选人来说，你可以提前做好这项工作。随着面试的进行，你可以调整范围，但是变化应该是最小的。这是对一位高级工程师的面试，或者说是对一位董事的面试。在面试开始之前，预算和变化是众所周知的。
 

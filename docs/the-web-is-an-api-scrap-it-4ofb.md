@@ -8,7 +8,7 @@
 
 重点是我有 3 个孩子，我妻子也有一个账户。是的，我们在系统上有 5 个帐户，当我必须检查每个帐户时，事情开始变得困难！
 
-[![1*RHJgbEq5x58OfM_3KbkHOQ.png](../Images/ae2361c108b21dd4b1b85ae6ea3e288d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XghdEg_5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.hashnode.com/res/hashnode/image/upload/v1578665674212/bqGFWTU4R.png)
+[![1*RHJgbEq5x58OfM_3KbkHOQ.png](img/ae2361c108b21dd4b1b85ae6ea3e288d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XghdEg_5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.hashnode.com/res/hashnode/image/upload/v1578665674212/bqGFWTU4R.png)
 
 *Nelligan 目录，最终用户图书馆系统*
 
@@ -50,7 +50,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 然后很容易在贷款到期日之前订购图书…
 
-[![1*J0THuAHs40876n4gLLIO4w.png](../Images/9aa6d76f4f67e303a91427688ec69527.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bZ_XkRGQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.hashnode.com/res/hashnode/image/upload/v1578665723571/T1-aesJGk.png)
+[![1*J0THuAHs40876n4gLLIO4w.png](img/9aa6d76f4f67e303a91427688ec69527.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bZ_XkRGQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.hashnode.com/res/hashnode/image/upload/v1578665723571/T1-aesJGk.png)
 
 *在借出日期结束前从多张卡订购的书籍*
 

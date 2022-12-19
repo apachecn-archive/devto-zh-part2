@@ -4,7 +4,7 @@
 
 所以你使用 phalconphp，喜欢它的速度和简单性，但是错过了一些很酷的东西和做事情的简洁方法？我也是。所以我最终为 phalcon 写了一个简单的即插即用的包装器，它基本上做了很多你希望已经在 phalcon 中的事情。
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png)[ad hoc ore](https://github.com/adhocore)/[phalcon-ext](https://github.com/adhocore/phalcon-ext)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png)[ad hoc ore](https://github.com/adhocore)/[phalcon-ext](https://github.com/adhocore/phalcon-ext)
 
 ### Phalcon 的基础、适配器、扩展、中间件和实用程序
 
@@ -14,7 +14,7 @@
 
 有用的 phalcon 适配器，中间件，扩展和实用工具！
 
-[![Travis Build](../Images/6f5316976636bd61b7f04c7d015f4b7b.png)](https://travis-ci.com/adhocore/phalcon-ext?branch=master)[![Latest Version](../Images/90c8c57f55273cf0020de0716a62b6aa.png)](https://github.com/adhocore/phalcon-ext/releases)[![Scrutinizer CI](../Images/b3bbb624a89cf4d8da9f9a5e3fa3bf82.png)](https://scrutinizer-ci.com/g/adhocore/phalcon-ext/?branch=master)[![Codecov branch](../Images/2898549e2b0ee910a9cb1e3327231bfd.png)](https://codecov.io/gh/adhocore/phalcon-ext)[![StyleCI](../Images/7f1686d1d31c3319603249f0cc62bb9c.png)](https://styleci.io/repos/136166947)[![Software License](../Images/bef0dd78b2319f6aa43444906a81e982.png)](https://github.com/adhocore/phalcon-extLICENSE)[![Donate 15](../Images/b2c2f94625d612f1d6f170d10bb8de6d.png)](https://www.paypal.me/ji10/15usd)[![Donate 25](../Images/55169c512eb5e340a3267ace0ef15ff2.png)](https://www.paypal.me/ji10/25usd)[![Donate 50](../Images/f0d5a67bfcb273a3a2b8548db2a580d6.png)](https://www.paypal.me/ji10/50usd)[![Tweet](../Images/3aedcf72e57e3736cd6ea05d11dfd7db.png)](https://twitter.com/intent/tweet?text=Adapters+middlewares+extensions+and+utilities+missing+in+phalcon+framework&url=https://github.com/adhocore/phalcon-ext&hashtags=php,phalcon,extension,middleware)
+[![Travis Build](img/6f5316976636bd61b7f04c7d015f4b7b.png)](https://travis-ci.com/adhocore/phalcon-ext?branch=master)[![Latest Version](img/90c8c57f55273cf0020de0716a62b6aa.png)](https://github.com/adhocore/phalcon-ext/releases)[![Scrutinizer CI](img/b3bbb624a89cf4d8da9f9a5e3fa3bf82.png)](https://scrutinizer-ci.com/g/adhocore/phalcon-ext/?branch=master)[![Codecov branch](img/2898549e2b0ee910a9cb1e3327231bfd.png)](https://codecov.io/gh/adhocore/phalcon-ext)[![StyleCI](img/7f1686d1d31c3319603249f0cc62bb9c.png)](https://styleci.io/repos/136166947)[![Software License](img/bef0dd78b2319f6aa43444906a81e982.png)](https://github.com/adhocore/phalcon-extLICENSE)[![Donate 15](img/b2c2f94625d612f1d6f170d10bb8de6d.png)](https://www.paypal.me/ji10/15usd)[![Donate 25](img/55169c512eb5e340a3267ace0ef15ff2.png)](https://www.paypal.me/ji10/25usd)[![Donate 50](img/f0d5a67bfcb273a3a2b8548db2a580d6.png)](https://www.paypal.me/ji10/50usd)[![Tweet](img/3aedcf72e57e3736cd6ea05d11dfd7db.png)](https://twitter.com/intent/tweet?text=Adapters+middlewares+extensions+and+utilities+missing+in+phalcon+framework&url=https://github.com/adhocore/phalcon-ext&hashtags=php,phalcon,extension,middleware)
 
 ## 装置
 

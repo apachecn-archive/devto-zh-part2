@@ -216,7 +216,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 结果，
 
-[![ReDoc rendered documentation](../Images/0a888395326ae55f2608663e75906f82.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9z8K6R4r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/QN1LULM.gif)
+[![ReDoc rendered documentation](img/0a888395326ae55f2608663e75906f82.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9z8K6R4r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/QN1LULM.gif)
 
 > OpenAPI 和`swagger-jsdoc`有更多的组件，使得这个过程更加容易。您可以为多次使用的模式/请求/响应编写定义，然后在文档中使用它们。查看[组件部分| Swagger](https://swagger.io/docs/specification/components/) 和[入门| Swagger JSDoc](https://github.com/Surnet/swagger-jsdoc/blob/master/docs/GETTING-STARTED.md) 以 JavaScripty 方式定义它们。
 > 

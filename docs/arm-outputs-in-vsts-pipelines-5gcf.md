@@ -6,7 +6,7 @@
 
 许多开发人员都有 Powershell 或其他脚本来解决这个问题，但我想强调一个扩展，它是免费提供的，可以为您免费完成这个任务！
 
-[![ARM Outputs by Kees Schollaart](../Images/1eb6fecfd3ef2eeec79da7161979cdd4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iYQygSce--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://keesschollaart.gallerycdn.vsassets.io/extensions/keesschollaart/arm-outputs/3.0.2/1517479176919/images/screenshots-vsts-arm-outputs-1.png)
+[![ARM Outputs by Kees Schollaart](img/1eb6fecfd3ef2eeec79da7161979cdd4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iYQygSce--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://keesschollaart.gallerycdn.vsassets.io/extensions/keesschollaart/arm-outputs/3.0.2/15174791769img/screenshots-vsts-arm-outputs-1.png)
 
 > 这个扩展使您能够在您的 VSTS 环境中使用 ARM 部署输出。
 > 
@@ -18,7 +18,7 @@
 
 所以我的亲尖；停止使用您自己的脚本，实现这个方便的扩展！
 
-PS:顺便说一句，Kees 也是一个很棒的人，在你把这个安装到你的项目 [![😉](../Images/b26450942c7c42752fe0b02f126abb48.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fumfYCPq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f609.png) 之后，给他发一条推特
+PS:顺便说一句，Kees 也是一个很棒的人，在你把这个安装到你的项目 [![😉](img/b26450942c7c42752fe0b02f126abb48.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fumfYCPq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f609.png) 之后，给他发一条推特
 
 链接到市场:[https://marketplace.visualstudio.com/items?itemName = keesschollaart . arm-outputs](https://marketplace.visualstudio.com/items?itemName=keesschollaart.arm-outputs)
 

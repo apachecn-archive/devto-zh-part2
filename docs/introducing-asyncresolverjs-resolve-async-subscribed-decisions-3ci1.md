@@ -12,7 +12,7 @@
 
 如果在任何组件中有任何未保存的更改，那么我们取消转换，而是向用户显示一个信息对话框，要求他在继续下一步之前保存信息。
 
-[![AsyncResolver.js Asynchronously resolve subscribed decisions](../Images/89c46116c3c29096f91cbddbe462653c.png "AsyncResolver.js Asynchronously resolve subscribed decisions")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nwNvuWrf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/972g7aw2yqoo34qvrgzq.png)
+[![AsyncResolver.js Asynchronously resolve subscribed decisions](img/89c46116c3c29096f91cbddbe462653c.png "AsyncResolver.js Asynchronously resolve subscribed decisions")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nwNvuWrf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/972g7aw2yqoo34qvrgzq.png)
 
 AsyncResolver.js 是针对这一需求的解决方案，它融合了发布子架构，并承诺在异步环境中提供决策能力。
 

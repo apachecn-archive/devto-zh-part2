@@ -189,9 +189,9 @@ Enter fullscreen mode Exit fullscreen mode
 **8)**
 
 tab 问题*不该*的事现代编辑
-(neo)Vim:[![tabs vim](../Images/572acb87b2fa7b403fc2597e48db05f0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IK3RmPLk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/owfnzb4fkonys4uoex7t.png)
-vs code:[![tabs vscode](../Images/d5c0e5d7c9a0c91b01138424592eeb74.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--L1aFhOSp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bi4upaoiypp4vsxuaano.png)
-Atom:[![tabs atom](../Images/e4229e829bb274b918603e91e414ca1c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xgZ0zNmI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2cb0ut4lwxfqn4pnc689.png)
+(neo)Vim:[![tabs vim](img/572acb87b2fa7b403fc2597e48db05f0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IK3RmPLk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/owfnzb4fkonys4uoex7t.png)
+vs code:[![tabs vscode](img/d5c0e5d7c9a0c91b01138424592eeb74.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--L1aFhOSp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bi4upaoiypp4vsxuaano.png)
+Atom:[![tabs atom](img/e4229e829bb274b918603e91e414ca1c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xgZ0zNmI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2cb0ut4lwxfqn4pnc689.png)
 
 这个结构不应该强加会阻止技术进步的限制——比如在一个还没有代码分割的项目中加入代码分割()。
 

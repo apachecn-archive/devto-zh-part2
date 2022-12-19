@@ -10,7 +10,7 @@
 
 ## 专注于一个概念，直到完全理解为止。
 
-[![focus on one concept at a time](../Images/4a058bab1ef2019673f7a5f4b18eb8f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p4kR60Yi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cqhm8z1f3sg8yvt1cqbc.jpg)
+[![focus on one concept at a time](img/4a058bab1ef2019673f7a5f4b18eb8f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p4kR60Yi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cqhm8z1f3sg8yvt1cqbc.jpg)
 
 *   第一次完整地学习一些东西比继续建立在不完整的知识上要好。当你开始编程时，你需要一个良好的基础，否则你将不能很好地使用这些高级的东西。
 
@@ -18,7 +18,7 @@
 
 ## 遇事求助。
 
-[![don't be afraid to get help](../Images/95106351d444ab8fead064e1aba76d16.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---pvnYdpv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ojlizxa73iw1e8azu855.jpg)
+[![don't be afraid to get help](img/95106351d444ab8fead064e1aba76d16.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---pvnYdpv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ojlizxa73iw1e8azu855.jpg)
 
 *   哪怕只是一句不懂的话，也要求助。人们放弃学习 web 开发的最大原因之一是因为他们觉得自己无法寻求帮助。但是你可以！如果你想要更多的个人关注，有很多论坛，比如堆栈溢出论坛和翻转编码社区，比如 T2。
 
@@ -26,7 +26,7 @@
 
 ## 坚持练习。
 
-[![don't stop practicing](../Images/c1099e8a91d3fe2da9e3cc7aa1b0a9e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4NSiH-TM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r4dsae2znic3g4xbxw4a.jpg)
+[![don't stop practicing](img/c1099e8a91d3fe2da9e3cc7aa1b0a9e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4NSiH-TM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r4dsae2znic3g4xbxw4a.jpg)
 
 *   即使你掌握了一个概念，也要坚持练习。你可以开始设计和建立自己的网站，也可以进入高级主题。无论你决定做什么，确保它是在锻炼你的技能。
 

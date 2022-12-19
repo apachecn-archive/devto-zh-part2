@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/emadmokhtar/advice-to-junior-developers-4hhk>
 
-[![journey](../Images/67543521b406889abc1e1bc7484593e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EYUftMCy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://emadmokhtar.com/images/oziel-gomez-555955-unsplash.jpg)
+[![journey](img/67543521b406889abc1e1bc7484593e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EYUftMCy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://emadmokhtar.cimg/oziel-gomez-555955-unsplash.jpg)
 
 有一天我回答[你能给初级程序员最好的建议是什么？](https://www.quora.com/What-is-the-best-advice-you-can-give-to-a-junior-programmer/answer/Emad-Mokhtar)关于 Quora.com 的问题。我很震惊我的回答得到了这么多的支持，所以我想在我的博客上分享我对这个问题的回答。
 

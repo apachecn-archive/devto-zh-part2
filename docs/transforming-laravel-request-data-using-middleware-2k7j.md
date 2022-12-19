@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/samolabams/transforming-laravel-request-data-using-middleware-2k7j>
 
-[![](../Images/5eba7d22ed116afceb97b815811e6bf1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tNCTnO78--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/384/1%2ACgNQ3ERM67ENaQTKSiG22A.jpeg)
+[![](img/5eba7d22ed116afceb97b815811e6bf1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tNCTnO78--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/384/1%2ACgNQ3ERM67ENaQTKSiG22A.jpeg)
 
 有时候，我们需要格式化表单输入值，以使它们更加用户友好，比如使用输入屏蔽来格式化电话号码(XXX-XXXX-XXXX)或货币(X，XXX，XXX)。这取决于我们的数据层需求。这种值在传递给验证器或保存在数据库中之前，可能需要进行规范化或转换。
 

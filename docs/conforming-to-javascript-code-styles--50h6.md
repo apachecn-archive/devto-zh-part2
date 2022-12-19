@@ -31,11 +31,11 @@
 
 为此，首先点击编辑器左下角的小齿轮，选择“设置”。
 
-[![VS Code Settings](../Images/a1b0d93d011137b5188deca92f45b3c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tiy_XB8f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x7xbx03qixfqy3ekm4t7.png)
+[![VS Code Settings](img/a1b0d93d011137b5188deca92f45b3c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tiy_XB8f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x7xbx03qixfqy3ekm4t7.png)
 
 或者输入`cmd/ctrl+shift+p`，搜索“打开用户设置”。
 
-[![VS Code Settings](../Images/075cb469039bec1bccfb6262d4a2ec83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0Qqa6CG1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hviyup6wq1nlvcsl517m.png)
+[![VS Code Settings](img/075cb469039bec1bccfb6262d4a2ec83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0Qqa6CG1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hviyup6wq1nlvcsl517m.png)
 
 如果你想知道它们是什么，所有漂亮的默认设置都有前缀`prettier.`。然而，在这种情况下，我只想通过将下面一行添加到我的工作区设置中来为这个项目配置一个用户设置。
 
@@ -47,7 +47,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这样看起来就像这样(假设您没有任何其他工作区设置)。
 
-[![VS Code Workspace Settings](../Images/c8f94a1de4907481bc012c70b991ddf8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dT7YIJ7g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nw7nmr6w92zgb2pa3nc2.png)
+[![VS Code Workspace Settings](img/c8f94a1de4907481bc012c70b991ddf8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dT7YIJ7g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nw7nmr6w92zgb2pa3nc2.png)
 
 如果你想让这个设置在你的项目中普遍使用，你可以改变你的用户设置，但是在我看来这更像是一个项目一个项目的设置。
 

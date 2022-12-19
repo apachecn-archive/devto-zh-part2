@@ -156,7 +156,7 @@ Enter fullscreen mode Exit fullscreen mode
 # diagram 1 { width:100%；}
 }
 
-[![](../Images/9215b076750adc95b34df9ae3bf6ded8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9KmBgdwj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1520389661-docker-blog-post-graphics-01.jpg)
+[![](img/9215b076750adc95b34df9ae3bf6ded8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9KmBgdwj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1520389661-docker-blog-post-graphics-01.jpg)
 
 当发出 Docker 命令时，这些命令实际上被传递给负责创建/运行/管理 Docker 映像的`dockerd`守护进程。为了让 dind 工作，它需要运行自己的 Docker 守护进程。然而，dind 的实现方式是使用主机系统的 Docker 实例，允许主机和 dind 共享 Docker 映像，并受益于 Docker 所做的所有缓存。
 
@@ -295,7 +295,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 一个新的反向外壳现在将连接到我们攻击系统的端口 *4446* 。这让我们进入了一个新容器中的 shell，可以直接访问底层 CodeBuild 主机的文件系统和网络。这是因为`--net=host`将映射通过主机网络，而不是将容器保持在一个隔离的网络中。其次，因为 Docker 守护进程运行在主机系统上，所以当使用`-v /:/vhost`的文件映射完成时，主机系统的文件系统被映射通过。
 
-[![](../Images/c964c415a24477fdae5bd2aa63e72d4d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nwwQLGfu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1520555459-diagram3-blog-post-graphics-01-v2.jpg)
+[![](img/c964c415a24477fdae5bd2aa63e72d4d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nwwQLGfu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1520555459-diagram3-blog-post-graphics-01-v2.jpg)
 
 在新的反向 shell 中，现在可以探索底层的主机文件系统。通过检查`/etc/passwd`和`/vhost/etc/passwd`之间的差异，我们可以证明我们在 Docker 之外与这个文件系统交互。
 

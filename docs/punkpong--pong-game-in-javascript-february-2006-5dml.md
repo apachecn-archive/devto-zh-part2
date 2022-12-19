@@ -4,7 +4,7 @@
 
 “PunkPong”是一个完全用 DHTML (HTML，CSS 和 JavaScript)编写的开源 Pong 克隆。
 
-[![Screenshot](../Images/9a2fac89cde79a8e34a5fc2818720198.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HSKLsk5X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://dhtmlgames.com/punkpong/punkpong.gif)
+[![Screenshot](img/9a2fac89cde79a8e34a5fc2818720198.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HSKLsk5X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://dhtmlgames.com/punkpong/punkpong.gif)
 
 这是我的第二个 DHTML 游戏，制作于 2006 年初。
 

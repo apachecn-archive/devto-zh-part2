@@ -4,7 +4,7 @@
 
 微软最近发布了他们开源的 ASP.NET 核心 2 以及跨平台框架和库。这是一个相当令人兴奋的版本，这是迈向框架稳定的一步，使开发者和企业开始考虑使用 ASP.NET 2.0。这就是为什么它为. net 开发服务开辟了新的途径。让我们来看看如何将现有的 ASP.NET 核心 1.1 应用升级到 ASP.NET 核心 2。
 
-[![](../Images/e6256b8ab9c3c713c512a8a8a39696f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_PLvS8qn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.allaboutweb.biz/wp-content/uploads/2018/04/What-is-new-in-ASP.NET-Core-2.0-1140x500.jpg)
+[![](img/e6256b8ab9c3c713c512a8a8a39696f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_PLvS8qn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.allaboutweb.biz/wp-content/uploads/2018/04/What-is-new-in-ASP.NET-Core-2.0-1140x500.jpg)
 
 安装 ASP.NET 核心 2.0
 你要做的第一步是安装新的 2.0 ASP.NET，如果你使用 Visual Studio 作为你的 IDE 选择，那么你必须安装最新版本的 Visual Studio 15.3.x，以便与新的核心 2.0 一起工作。这些步骤非常简单，并且有据可查。

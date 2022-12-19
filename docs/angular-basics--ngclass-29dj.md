@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kritner/angular-basics--ngclass-29dj>
 
-[![](../Images/faec4802367a6cffe5beace5330103d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---3vaWt-8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/250/0%2AioWFxvjTSepxUFpm.png)
+[![](img/faec4802367a6cffe5beace5330103d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---3vaWt-8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/250/0%2AioWFxvjTSepxUFpm.png)
 
 继续我从组装[http://www.kritner.com/solar-projection/](http://www.kritner.com/solar-projection/)系列 NgClass 中学到的东西。我真的很难快速“看到”什么是“好”和“坏”的年份，因为我的太阳投影的百分比值不同。考虑到这一点，我认为根据调用中的值对单元格应用一些阴影会很好。这让我来到了 https://angular.io/api/common/NgClass 的 T2。
 
@@ -88,7 +88,7 @@ public inTheGreen(value: number): boolean{
   </table> 
 ```
 
-[![](../Images/e03b7cd3288b3a079007fce5ba1cfc54.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--58J2LhEL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AwEucFE2RDPz6-eNCyIEi9A.png) 
+[![](img/e03b7cd3288b3a079007fce5ba1cfc54.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--58J2LhEL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AwEucFE2RDPz6-eNCyIEi9A.png) 
 
 <figcaption>应用 NgClass 着色后的结果</figcaption>
 

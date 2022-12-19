@@ -23,7 +23,7 @@
 
 让我们使用 chrome 审计来检查 vue 站点的 web 性能。
 
-[![vuejs](../Images/bff9b344e0373efbb6e7b83ab33239cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---TM7UzLb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fsvx74sjpuv6sjmwmgck.png)
+[![vuejs](img/bff9b344e0373efbb6e7b83ab33239cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---TM7UzLb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fsvx74sjpuv6sjmwmgck.png)
 
 你见过 43%是我机器上的性能吗？
 
@@ -31,7 +31,7 @@
 
 现在业绩 78%。
 
-[![vuejs](../Images/f3488264e18897b6da6366050faf5371.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jrJtaSo4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y51dck7n70dob2bt1bot.png)
+[![vuejs](img/f3488264e18897b6da6366050faf5371.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jrJtaSo4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y51dck7n70dob2bt1bot.png)
 
 这里是[例子](https://deploy-preview-1618--vuejs.netlify.com/)你可以在自己的机器上检查。
 
@@ -39,15 +39,15 @@
 
 ## 亚马逊
 
-[![Amazon](../Images/8f32a144bdb7c1559e1164b8ebe2c614.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AV0b7_-Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k4cj0oqq4w0awthmmvhc.png)
+[![Amazon](img/8f32a144bdb7c1559e1164b8ebe2c614.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AV0b7_-Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k4cj0oqq4w0awthmmvhc.png)
 
 ## Github
 
-[![github](../Images/de2c0d58185048c0ff5b0e3d56c01ae7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HgLXH4ZF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8alvmkooag9ruwzbckmj.png)
+[![github](img/de2c0d58185048c0ff5b0e3d56c01ae7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HgLXH4ZF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8alvmkooag9ruwzbckmj.png)
 
 ## 网飞
 
-[![netflix](../Images/9809151dd1910d2ee39b0adc99eddafd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R4AKcqQ1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t028wgb2dbqm6dk5gd5d.png)
+[![netflix](img/9809151dd1910d2ee39b0adc99eddafd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R4AKcqQ1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t028wgb2dbqm6dk5gd5d.png)
 
 如果你有任何疑问，请随时询问。
 

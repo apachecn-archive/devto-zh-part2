@@ -22,7 +22,7 @@
 
 突然间，它变得有意义了:在传统的调试过程中，来自主机站点的 PHP 解释器建立了一个到客户机(PhpStorm IDE)的连接，但是当在这样的调用过程中调用子站点时，解释器的第二个实例被启动并试图连接...但是被默认配置的单个连接限制所阻止。
 
-[![Screenshot from the XDebug preferences in PhpStorm 2018.1.2](../Images/5d9596e347ba83ee3acc5a0d7253eb4c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zGBtotM3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.riff.org/sites/default/files/inline-images/phpstorm-xdebug-connections_0.png) 所以所要做的就是增加连接的数量！
+[![Screenshot from the XDebug preferences in PhpStorm 2018.1.2](img/5d9596e347ba83ee3acc5a0d7253eb4c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zGBtotM3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.riff.org/sites/default/files/inline-images/phpstorm-xdebug-connections_0.png) 所以所要做的就是增加连接的数量！
 
 在 PhpStorm 2018 和 2019 macOS 中，设置可以在右窗格`External connections`部分的*PHP storm/Preferences/Languages&Frameworks/PHP/Debug*中找到，如下图。
 

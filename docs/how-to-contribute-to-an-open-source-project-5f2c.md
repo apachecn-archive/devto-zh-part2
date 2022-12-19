@@ -24,7 +24,7 @@
 
 您只需点击存储库页面右上角的小按钮。示例:
 
-[![Github Fork](../Images/147d421f7b9fe07ce369f4fb154bce0f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X-UEfM9m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mw8j5h54halejqp0nibb.png)
+[![Github Fork](img/147d421f7b9fe07ce369f4fb154bce0f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X-UEfM9m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mw8j5h54halejqp0nibb.png)
 
 你需要学习如何使用 Git -> [Git 学习指南](http://rogerdudler.github.io/git-guide/)
 
@@ -38,7 +38,7 @@
 
 然后，单击官方存储库页面上的“提取请求”按钮:
 
-[![Github Pull Request](../Images/684be3251747e3f3514815d1924f451b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cbRQhoL7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rlrd7jekm154wzpdnx4h.png)
+[![Github Pull Request](img/684be3251747e3f3514815d1924f451b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cbRQhoL7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rlrd7jekm154wzpdnx4h.png)
 
 点击`New Pull Request`，然后点击`Create pull request`
 

@@ -28,13 +28,13 @@
 
 当你阅读密码的时候，看看这些。
 
-[![paragoniescott image](../Images/67b58e44f82682b23d2c381b2ff2f337.png)](/paragoniescott) [## 你不会用 64 为基数的密码！面向开发人员的加密术语和概念
+[![paragoniescott image](img/67b58e44f82682b23d2c381b2ff2f337.png)](/paragoniescott) [## 你不会用 64 为基数的密码！面向开发人员的加密术语和概念
 
-### Scott Arciszewski 12 月 13 日 1614 分钟阅读](/paragonie/you-wouldnt-base64-a-password-cryptography-terms-and-concepts-for-developers) [![domysee image](../Images/8470100259a1c66f0c9c832a5ff8caa0.png)](/domysee) [## 密码规则会影响安全性吗？
+### Scott Arciszewski 12 月 13 日 1614 分钟阅读](/paragonie/you-wouldnt-base64-a-password-cryptography-terms-and-concepts-for-developers) [![domysee image](img/8470100259a1c66f0c9c832a5ff8caa0.png)](/domysee) [## 密码规则会影响安全性吗？
 
 ### 张秀坤·韦伯 7 月 8 日 181 分钟阅读
 
-#security #passwords #rules](/domysee/do-password-rules-impact-security-137n)[![rdegges image](../Images/751d3a70466613d2e14ba00f2738fd4e.png)](/rdegges) [## 如何防止您的用户使用被破解的密码
+#security #passwords #rules](/domysee/do-password-rules-impact-security-137n)[![rdegges image](img/751d3a70466613d2e14ba00f2738fd4e.png)](/rdegges) [## 如何防止您的用户使用被破解的密码
 
 ### Randall de gges 6 月 11 日 184 分钟阅读
 

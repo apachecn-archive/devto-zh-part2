@@ -4,7 +4,7 @@
 
 [Vue(读作/vjuː/，像](https://vuejs.org/v2/guide/index.html) [**视图**](https://vuejs.org/v2/guide/index.html) [)](https://vuejs.org/v2/guide/index.html) 是一个用于在 web 上构建用户界面的**渐进式框架**。Vue 可以驱动复杂的单页应用程序，通常与现代工具[和支持库](https://vuejs.org/v2/guide/deployment.html)结合使用。我们将向您展示如何在 Vue 应用程序中添加错误处理来捕获已捕获和未捕获的错误。这使您有机会恢复和更新呈现给用户的内容，并跟踪错误以确定修复的优先级。我们还将展示如何使用 Rollbar 监控生产中的错误。
 
-[![Rollbar loves Vue.js](../Images/46321cb46cfab925f59be921bcd0a457.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--091mfVue--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h5puqudwgfofpm1ts8lu.png)
+[![Rollbar loves Vue.js](img/46321cb46cfab925f59be921bcd0a457.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--091mfVue--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h5puqudwgfofpm1ts8lu.png)
 
 ## 如何处理 vanilla Vue 中的错误
 
@@ -50,7 +50,7 @@ Rollbar 的 [JavaScript SDK](https://docs.rollbar.com/docs/javascript/) 可以�
 
 下面，你可以看到我们已经创建了一个[示例应用程序](https://github.com/RollbarExample/Rollbar-Vue-Example)，当用户点击一个按钮时它会触发一个异常。在滚动条中跟踪错误信息，包括一个堆栈跟踪，在这里可以看到导致错误的代码行。滚动条捕捉应用程序中任何地方发生的错误。
 
-[![Screenshot of Rollbar Vue Error](../Images/6fe01af91adf43923cf7428f0eeee2e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cROvynV9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8lutehzjylznm03orlbl.gif)
+[![Screenshot of Rollbar Vue Error](img/6fe01af91adf43923cf7428f0eeee2e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cROvynV9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8lutehzjylznm03orlbl.gif)
 
 ## 如何在滚动条上设置 Vue 项目
 
@@ -211,10 +211,10 @@ Enter fullscreen mode Exit fullscreen mode
 
 打开滚动条，查看这些错误在您帐户的项目页面中的样子。我们刚刚生成的错误应该被称为“syntax error:JSON . parse:expected”:'”
 
-[![Screenshot of Rollbar Vue error item](../Images/c3e88ca5a6170ffc2f3dfa8154d35310.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KiFMR7jw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r93nby1v4dy2cbj5zp73.png)
+[![Screenshot of Rollbar Vue error item](img/c3e88ca5a6170ffc2f3dfa8154d35310.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KiFMR7jw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r93nby1v4dy2cbj5zp73.png)
 
 通过单击项目获取更多详细信息。现在您可以看到一个回溯，显示了产生错误的确切的源代码文件、方法和行号。
 
-[![Screenshot of Rollbar Vue error detail](../Images/bf9c7073460cecb946713d4f23e5bdda.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NDknQp03--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/suek2dx3ts22iaeoysvs.png)
+[![Screenshot of Rollbar Vue error detail](img/bf9c7073460cecb946713d4f23e5bdda.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NDknQp03--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/suek2dx3ts22iaeoysvs.png)
 
 现在你已经将滚动条集成到你的 Vue 应用中，任何发生的错误都将被捕获、分组并报告给滚动条。您将能够快速、轻松地看到发生了哪些错误、发生的频率以及完整的上下文。这将有助于您更快地排查原因并解决问题，从而减少受影响的客户数量。如果你还没有注册，请注册 Rollbar 的 14 天免费试用版。

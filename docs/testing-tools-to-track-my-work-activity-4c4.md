@@ -12,11 +12,11 @@ RescueTime 主页上写着*“在你的数字生活中有这么多令人分心�
 
 我用的是应用程序的精简版。每周我都会收到一封类似下图的电子邮件:
 
-[![](../Images/bd100f9b09986123af126300aef7faa9.png)T2】](https://www.rescuetime.com/ref/1808210)
+[![](img/bd100f9b09986123af126300aef7faa9.png)T2】](https://www.rescuetime.com/ref/1808210)
 
 这封电子邮件给了我很多详细的信息。你可以设定应用程序跟踪你活动的时间——就我而言，是在早上 8 点到下午 6 点之间，这让我可以很好地了解我的日常活动。几个星期后，你打开新的报告，分析交流和最有效率和最没有效率的日子。
 
-[![](../Images/264c957ae68981df787a8cb3fa2f116d.png)T2】](https://www.rescuetime.com/ref/1808210)
+[![](img/264c957ae68981df787a8cb3fa2f116d.png)T2】](https://www.rescuetime.com/ref/1808210)
 
 我们永远不知道我们在 Slack 和类似的应用上花了多少时间。现在我们知道了这些工具在日常生活中的确切影响。
 
@@ -24,7 +24,7 @@ RescueTime 主页上写着*“在你的数字生活中有这么多令人分心�
 
 RescueTime 跟踪你的应用和网站，WakaTime 跟踪你的代码活动。你在你最喜欢的编辑器中安装一个插件，然后就完成了！过一会儿，你会收到每周的电子邮件，你的数据会按照日期/时间、项目、语言、编辑器甚至操作系统组织在一个漂亮的仪表板上。
 
-[![](../Images/dbb84527ecc8046e3731c790bd0c72a5.png)T2】](https://wakatime.com/i/cbdf18ed-26ac-43b6-936c-d006efa2bec0)
+[![](img/dbb84527ecc8046e3731c790bd0c72a5.png)T2】](https://wakatime.com/i/cbdf18ed-26ac-43b6-936c-d006efa2bec0)
 
 我这里没有改变我的工作的信息，但至少看到我如何花时间编码是很有趣的。
 

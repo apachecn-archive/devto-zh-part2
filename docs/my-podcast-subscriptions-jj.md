@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/mrtnrdl/my-podcast-subscriptions-jj>
 
-[![an old microphone](../Images/a510cae672021a776cac6973effd4bdb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cr_6xUuG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j5bu25jybwmj9cfi0r08.jpg)
+[![an old microphone](img/a510cae672021a776cac6973effd4bdb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cr_6xUuG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j5bu25jybwmj9cfi0r08.jpg)
 
 以下帖子是我关注的播客的概述。我正在使用 [Pocket Casts](https://www.shiftyjelly.com/pocketcasts/) 订阅和收听。几年后，这个列表仍在进行中。另外:这里没有暗示*或*的排序。
 

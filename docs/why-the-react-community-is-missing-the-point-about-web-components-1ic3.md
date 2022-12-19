@@ -6,7 +6,7 @@
 
 在最近一次关于技术趋势的对话中，我和 [@bennypowers](https://dev.to/bennypowers) 谈到了围绕 web 组件的对话，以及来自 Web 社区的反馈。不管你在这个问题上的立场如何，我发现这个评论非常值得一读。
 
-[![bennypowers profile image](../Images/da89de13ba506ff0679d92d07166a62a.png) ](/bennypowers) [ Benny Powers 🇮🇱🇨🇦 ](/bennypowers) • [<time datetime="2018-11-03T17:51:10Z" class="date-short-year"> Nov 3 '18 </time> • Edited on <time datetime="2018-11-03T18:03:41Z" class="hidden m:inline-block date-no-year">Nov 3</time>](https://dev.to/bennypowers/comment/6hl2) 
+[![bennypowers profile image](img/da89de13ba506ff0679d92d07166a62a.png) ](/bennypowers) [ Benny Powers 🇮🇱🇨🇦 ](/bennypowers) • [<time datetime="2018-11-03T17:51:10Z" class="date-short-year"> Nov 3 '18 </time> • Edited on <time datetime="2018-11-03T18:03:41Z" class="hidden m:inline-block date-no-year">Nov 3</time>](https://dev.to/bennypowers/comment/6hl2) 
 
 依我拙见，react 社区对他们的库投资太大了。鉴于他们图书馆的巨大成功，我可以理解，但我确实认为泡沫最终会破裂。明智的开发人员将开始改进他们的定制元素，并应该在他们的下一个项目中考虑它们。
 
@@ -58,11 +58,11 @@ React 给 web 开发社区带来了很多美好的东西。
 
 如果你想学习更多关于 Web 组件的知识，Benny 是少数几个发布了关于这个主题的教程的 DEV 成员之一。
 
-[![bennypowers](../Images/41a155870eae4885566582be875341bb.png)](/bennypowers) [## 让我们构建 Web 组件！第 1 部分:标准
+[![bennypowers](img/41a155870eae4885566582be875341bb.png)](/bennypowers) [## 让我们构建 Web 组件！第 1 部分:标准
 
 ### 本尼为🇮🇱🇨🇦供电 9 月 18 日 1810 分钟阅读
 
-#webcomponents #customelements #javascript #html](/bennypowers/lets-build-web-components-part-1-the-standards-3e85)[![thepassle](../Images/672cee74f5eea90a7456b606b9fccbb1.png)](/thepassle) [## Web 组件:从零到英雄
+#webcomponents #customelements #javascript #html](/bennypowers/lets-build-web-components-part-1-the-standards-3e85)[![thepassle](img/672cee74f5eea90a7456b606b9fccbb1.png)](/thepassle) [## Web 组件:从零到英雄
 
 ### Pascal Schilp Oct 28 ' 18 16min read
 

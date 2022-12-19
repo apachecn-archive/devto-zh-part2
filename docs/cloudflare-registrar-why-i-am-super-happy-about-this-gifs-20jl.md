@@ -32,7 +32,7 @@
 
 > 在我们发现的最好的情况下，它是原始报价的两倍左右。最严重的时候，超过二十倍。太恶心了。除此之外，还有其他产品的持续追加销售，这些产品要么应该免费提供(例如 DNSSEC)，要么就是你不想要的(例如毫无价值的可信网站印章)。—云耀斑
 
-[![Tell Me More](../Images/f17719ffe5fc4e79abc97a79029489da.png)T2】](https://AhmadAwais.com/)
+[![Tell Me More](img/f17719ffe5fc4e79abc97a79029489da.png)T2】](https://AhmadAwais.com/)
 
 一针见血。🛠️ 💅 🤣
 
@@ -42,7 +42,7 @@
 
 > 注册商所做的就是把你记录为一个特定域名的所有者。这仅仅包括向 API 发送一些命令。换句话说，域名注册商收取你的费用是因为你是中间人，而且基本上没有提供任何价值来证明他们的加价。我们看得越多，整个市场看起来就越疯狂。
 
-[![Speechless Nathan Fillion](../Images/c8c5c488e43e4afbddeb59c865e66861.png)T2】](https://AhmadAwais.com/)
+[![Speechless Nathan Fillion](img/c8c5c488e43e4afbddeb59c865e66861.png)T2】](https://AhmadAwais.com/)
 
 你说出了我想说的话…
 
@@ -58,11 +58,11 @@ Cloudflare 承诺了一些真正令人惊叹的东西。我在这家公司工作
 > 
 > **2️⃣From 价格方面**，甚至更简单:**我们承诺向您收取的费用不会超过每个 TLD 收取的批发价**。第一年如此，以后每年都是如此。如果您向 Cloudflare Registrar 注册了您的域名，您将始终支付批发价，没有加价。
 
-[![No More Registrar Drama](../Images/828f336043d606e66c34d6b930baf11f.png)T2】](https://AhmadAwais.com/)
+[![No More Registrar Drama](img/828f336043d606e66c34d6b930baf11f.png)T2】](https://AhmadAwais.com/)
 
 > 例如，Verisign 负责管理。目前，注册一个. com 域名每年收费 7.85 美元。ICANN 对每个注册的域名收取 0.18 美元的年费。今天，如果你把你的。这是我们每年向您收取的费用:8.03 美元/年。没有加价。我们所做的只是 doing 一个 API，对我们来说没有增加成本，所以你为什么要支付比批发更多的费用呢？
 
-[![Shut up and just take my money…](../Images/02dec8f69da43a6d8c3f776dba5e3ba3.png)T2】](https://AhmadAwais.com/)
+[![Shut up and just take my money…](img/02dec8f69da43a6d8c3f776dba5e3ba3.png)T2】](https://AhmadAwais.com/)
 
 说真的，伙计们！我被说服了。好得不像真的。但是考虑到是谁提出了这一要求，一家我非常喜欢的公司 Cloudflare —我只是希望他们能一如既往地提供服务。
 

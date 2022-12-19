@@ -8,7 +8,7 @@
 
 *Tweng！*基本上是来自 [*《巫师 3:疯狂猎杀*](https://en.wikipedia.org/wiki/Gwent:_The_Witcher_Card_Game) :D 的 *Gwent* 的一个糟糕且有缺陷的克隆
 
-[![Tweng!](../Images/3bf250077d5da650f5d13a438aa807af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2dll-TIF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/df3h0d338dt2eovpywtf.png)
+[![Tweng!](img/3bf250077d5da650f5d13a438aa807af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2dll-TIF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/df3h0d338dt2eovpywtf.png)
 
 ## 演示链接
 

@@ -10,6 +10,6 @@ Angular 使用其内置的 DSL(领域特定语言)非常方便地创建简单和
 
 让我们看看下面这个从[Angular NgRx Material Starter](https://github.com/tomastrajan/angular-ngrx-material-starter)项目中录制的路线过渡动画来了解一下。
 
-[![Animation preview](../Images/0425a5a1413ae7d7fd0d5f72acf10eda.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pwFdMsJp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/je5at7ms24x525tlsjua.gif)
+[![Animation preview](img/0425a5a1413ae7d7fd0d5f72acf10eda.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pwFdMsJp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/je5at7ms24x525tlsjua.gif)
 
 [阅读更多...](https://medium.com/tomastrajan/total-guide-to-dynamic-angular-animations-that-can-be-toggled-at-runtime-be5bb6778a0a)

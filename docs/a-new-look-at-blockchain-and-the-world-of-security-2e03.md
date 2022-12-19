@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/brettclawson75/a-new-look-at-blockchain-and-the-world-of-security-2e03>
 
-[![data security](../Images/ab160055b1aa09469d13f09339ddab7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---OzXQOz---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D750%26w%3D1260)
+[![data security](img/ab160055b1aa09469d13f09339ddab7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---OzXQOz---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D750%26w%3D1260)
 
 [世界的新科技标准正在由区块链](https://www.forbes.com/sites/omribarzilay/2017/08/21/3-ways-blockchain-is-revolutionizing-cybersecurity/) 开发。我们拥有的是一个无可争议的账本，它提供了准确的结果，得到了研究的支持，并完善了我们正在建设的数字社会。只有当我们加密数据时，这个社会才可能完成，而这可以抵御网络攻击。
 

@@ -14,17 +14,17 @@
 
 `{% github thepracticaldev/dev.to %}`
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [ forem ](https://github.com/forem) / [ forem](https://github.com/forem/forem)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [ forem ](https://github.com/forem) / [ forem](https://github.com/forem/forem)
 
 ### 为社区赋权🌱
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-# Forem <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji>
+# Forem <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f331.png">🌱</g-emoji>
 
 **For Empowering Community**
 
-[![Build Status](../Images/a59640885320d80449880ba412cd1540.png)](https://app.travis-ci.com/github/forem/forem)[![GitHub commit activity](../Images/c636d7221527a9f58a1bcf7eb4f234ec.png)](https://camo.githubusercontent.com/64b9f7c7c5f41ec22113b61235256435cd61779a0554b0595b88b6011f94c60b/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6d6d69742d61637469766974792f772f666f72656d2f666f72656d)[![GitHub issues ready for dev](../Images/a2f086092c44aa16ddbf13a9cf99fea1.png)](https://github.com/forem/forem/issues?q=is%3Aissue+is%3Aopen+label%3A%22ready+for+dev%22)[![Gitpod badge](../Images/e87aed75ceeae18e025435d5084e1209.png)T11】](https://gitpod.io/from-referrer/)
+[![Build Status](img/a59640885320d80449880ba412cd1540.png)](https://app.travis-ci.com/github/forem/forem)[![GitHub commit activity](img/c636d7221527a9f58a1bcf7eb4f234ec.png)](https://camo.githubusercontent.com/64b9f7c7c5f41ec22113b61235256435cd61779a0554b0595b88b6011f94c60b/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6d6d69742d61637469766974792f772f666f72656d2f666f72656d)[![GitHub issues ready for dev](img/a2f086092c44aa16ddbf13a9cf99fea1.png)](https://github.com/forem/forem/issues?q=is%3Aissue+is%3Aopen+label%3A%22ready+for+dev%22)[![Gitpod badge](img/e87aed75ceeae18e025435d5084e1209.png)T11】](https://gitpod.io/from-referrer/)
 
 欢迎来到 [Forem](https://forem.com) 代码库，这个平台为[开发到](https://dev.to)提供动力。我们很高兴你能来。在你们的帮助下，我们可以增强 Forem 的可用性、可伸缩性和稳定性，从而更好地为我们的社区服务。
 
@@ -38,13 +38,13 @@ Forem 是用于构建社区的开源软件。为你的同行、客户、粉丝�
 
 [View on GitHub](https://github.com/forem/forem)
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [脸书](https://github.com/facebook) / [反应过来](https://github.com/facebook/react)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [脸书](https://github.com/facebook) / [反应过来](https://github.com/facebook/react)
 
 ### 一个用于构建用户界面的声明式、高效且灵活的 JavaScript 库。
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-# [反应过来](https://reactjs.org/)[![GitHub license](../Images/486bafc059df9137c69818cd66696105.png)](https://github.com/facebook/react/blob/main/LICENSE)[![npm version](../Images/1351434e3dc3a81944a11210b222cee4.png)](https://www.npmjs.com/package/react)[![CircleCI Status](../Images/c60f8d514aee79f3959a08f202c9a288.png)](https://circleci.com/gh/facebook/react)[![PRs Welcome](../Images/0acf3dadb1c3b4edf7612c12a129d5b1.png)](https://reactjs.org/docs/how-to-contribute.html#your-first-pull-request)
+# [反应过来](https://reactjs.org/)[![GitHub license](img/486bafc059df9137c69818cd66696105.png)](https://github.com/facebook/react/blob/main/LICENSE)[![npm version](img/1351434e3dc3a81944a11210b222cee4.png)](https://www.npmjs.com/package/react)[![CircleCI Status](img/c60f8d514aee79f3959a08f202c9a288.png)](https://circleci.com/gh/facebook/react)[![PRs Welcome](img/0acf3dadb1c3b4edf7612c12a129d5b1.png)](https://reactjs.org/docs/how-to-contribute.html#your-first-pull-request)
 
 React 是一个用于构建用户界面的 JavaScript 库。
 
@@ -60,13 +60,13 @@ React 是一个用于构建用户界面的 JavaScript 库。
 
 还记得我之前提到的液体吗？如果你想看的话，这里还有更多。
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png)/[液体](https://github.com/Shopify/liquid)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png)/[液体](https://github.com/Shopify/liquid)
 
 ### 流动标记语言。面向客户的安全模板语言，适用于灵活的 web 应用。
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-[![Build Status](../Images/ccafbc4e125107593927c9dab3f14e08.png) ](http://travis-ci.org/Shopify/liquid) [ ![Inline docs](../Images/bc272bd23229004eefeae6925cf6b170.png)](http://inch-ci.org/github/Shopify/liquid)
+[![Build Status](img/ccafbc4e125107593927c9dab3f14e08.png) ](http://travis-ci.org/Shopify/liquid) [ ![Inline docs](img/bc272bd23229004eefeae6925cf6b170.png)](http://inch-ci.org/github/Shopify/liquid)
 
 # 液体模板引擎
 

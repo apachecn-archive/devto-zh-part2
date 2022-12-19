@@ -10,7 +10,7 @@
 
 制作了下述内容。 要说这是什么，就是经常在网站的咨询表等上面打上“我不是机器人”这样的复选框才能发送的功能，就是那个。
 
-[![web component.png](../Images/d2072148670f4e7f57a6ecafef96070c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Da0lS5Od--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.googleapis.com/deviita/upload_images/0fe6836506e7d710d619551ffa0da9b65b54041cd1697.png)
+[![web component.png](img/d2072148670f4e7f57a6ecafef96070c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Da0lS5Od--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.googleapis.com/deviita/upload_images/0fe6836506e7d710d619551ffa0da9b65b54041cd1697.png)
 
 图片下方只是一个 Submit 按钮，顶部图片是常见的 15 个谜题。 15 如果不解开谜题，Submit 按钮就不会生效。
 

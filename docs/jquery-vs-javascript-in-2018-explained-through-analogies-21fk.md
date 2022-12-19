@@ -8,7 +8,7 @@
 
 ### jQuery 就像柔软舒适的手柄。
 
-[![Javascript is the hammer, jQuery is the cushioned grip](../Images/0f4d41128b72541d22716a59f69e18c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SLhqVqf2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/09/tools.jpg)
+[![Javascript is the hammer, jQuery is the cushioned grip](img/0f4d41128b72541d22716a59f69e18c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SLhqVqf2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/09/tools.jpg)
 
 **Javascript 是一个类似锤子的工具**。这个工具可以让你**给你的网页添加交互性**。这相当宽泛，但这是有意的，因为 Javascript 相当宽泛。这里只是一些你可以用它做的事情的例子:
 
@@ -56,7 +56,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### jQuery 就像 Siri 对 Mail.app 的接口。
 
-[![Javascript is like Mail.app, jQuery is like using Siri to send email](../Images/753094d11ee4e23b2f52816dd2f978d0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DSTNrViH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/09/siri-vs-mail.jpg)
+[![Javascript is like Mail.app, jQuery is like using Siri to send email](img/753094d11ee4e23b2f52816dd2f978d0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DSTNrViH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/09/siri-vs-mail.jpg)
 
 由于 jQuery 只是 Javascript 上的一个很好的接口，试图让它们互相竞争没有太大意义。通常，试图比较它们的人想知道他们是应该学习普通的 Javascript 还是直接跳到 jQuery。虽然 jQuery 很容易学习，并且可以让您快速操作 DOM，但是 Javascript 有更高级的功能。这里还有一个类比来说明。
 
@@ -72,7 +72,7 @@ Siri 让发送电子邮件变得非常简单，甚至不用看或触摸你的手
 
 ### jQuery 就像一个傻瓜相机。
 
-[![Javascript is a smartphone camera, jQuery is a point-and-shoot](../Images/0067dc65867dd18384ea6c88a1e631cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fDEzzT_M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/09/camera-vs-smartphone.jpg)
+[![Javascript is a smartphone camera, jQuery is a point-and-shoot](img/0067dc65867dd18384ea6c88a1e631cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fDEzzT_M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/09/camera-vs-smartphone.jpg)
 
 把自己放在一个喜欢拍照的人的头顶——不是一个*专业*摄影师，甚至不是一个业余摄影*爱好者*，而是**一个喜欢给家人和朋友拍照的普通人**。就在几年前，这种人会买一个傻瓜相机来拍照，因为智能手机相机并没有那么好。
 

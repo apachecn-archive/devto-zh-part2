@@ -22,7 +22,7 @@
 
 然后，我们编辑目标的方案，添加保存引用捕获的目录。为此，我们添加了一个带有关键字 *FB_REFERENCE_IMAGE_DIR 的环境变量。*
 
-[![spanshot testing](../Images/f2757925ae709706b0d3134950215dc7.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Picture1-3.png)
+[![spanshot testing](img/f2757925ae709706b0d3134950215dc7.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Picture1-3.png)
 
 可选地，我们还可以添加关键字 *IMAGE_DIFF_DIR* 来指示将要生成的差异捕获的目录，如果我们的测试失败，将保存该目录。
 
@@ -30,25 +30,25 @@
 
 为了查看实现，我们将测试一个简单的 *viewcontroller* ，它将根据状态改变视觉方面。
 
-[![ios testing implementation](../Images/6e1be0779ce2b54a0e581abece48f8b6.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Picture2.png)
+[![ios testing implementation](img/6e1be0779ce2b54a0e581abece48f8b6.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Picture2.png)
 
 两个国家的观点是:
 
-[![snapshot testing configuration](../Images/6727d74223f5d0b099d66a3afce27ffd.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-15-at-16.53.50.png)
+[![snapshot testing configuration](img/6727d74223f5d0b099d66a3afce27ffd.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-15-at-16.53.50.png)
 
 我们通过使测试类成为 *FBSnapshotTestCase* 而不是 *XCTestCase* 的子类来配置我们的测试类。
 
 我们通过实例化 ViewController、分配状态并调用 *FBSnapshotVerifyView* 方法来定义我们的测试。
 
-[![viewController ios](../Images/f489447d6bf5d481e5a825637ad485e6.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Picture3.png)
+[![viewController ios](img/f489447d6bf5d481e5a825637ad485e6.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Picture3.png)
 
 首先，我们必须在激活*记录模式*的情况下执行测试，以保存参考图像。为此我们引入了 setUp () recordMode = true 的方法。
 
-[![recordmode ios](../Images/aa0da7e54faaaec1e42f641eeea7e867.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Picture4.png)
+[![recordmode ios](img/aa0da7e54faaaec1e42f641eeea7e867.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Picture4.png)
 
 在记录模式激活的情况下执行测试时，Fail 将退出。这是正常的，因为你还没有另一个图像来做比较。
 
-[![recordmode ios test](../Images/d9c99e0cb51d6e030e701d859f2875c1.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Picture5.png)
+[![recordmode ios test](img/d9c99e0cb51d6e030e701d859f2875c1.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Picture5.png)
 
 然后我们注释或删除 *recordMode* 行，再次启动测试，看看会发生什么。
 
@@ -56,7 +56,7 @@
 
 例如，如果我们不小心改变了图标的尺寸，测试将会生成一个有变化的差分图像。
 
-[![icon mobile app ios](../Images/1d3272382a2e87b70f30f01f77c7bea0.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Picture6.png)
+[![icon mobile app ios](img/1d3272382a2e87b70f30f01f77c7bea0.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Picture6.png)
 
 我已经为 20px 测试增加了图标的大小，这种变化可以在图像中看到。
 
@@ -66,15 +66,15 @@
 
 在我们的*difinishlaunchingwithoptions*中，我们检查我们是否正在运行测试，在这种情况下，我们将扁平且空的 *UIViewController* 分配给 *rootViewController* 。
 
-[![doing ios testing mobile app](../Images/d305fe4a3582f83b2724987c433acb0b.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Picture7.png)
+[![doing ios testing mobile app](img/d305fe4a3582f83b2724987c433acb0b.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Picture7.png)
 
 在我们的测试类中，我们使用一个具有高超时的 *XCTWaiter* ，并将控制器分配给 *rootViewController* 来执行。
 
-[![rootViewController](../Images/09e4ead975f4a1e7f62091e08ef7e2cd.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Picture8.png)
+[![rootViewController](img/09e4ead975f4a1e7f62091e08ef7e2cd.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Picture8.png)
 
 最后，在测试中我们调用了 *debugViewController* 方法。
 
-[![](../Images/a90db9c9b034623dfadac1df169a2895.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Picture9.png)
+[![](img/a90db9c9b034623dfadac1df169a2895.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Picture9.png)
 
 通过这种方式，我们可以以一种简单的方式执行应用程序的长屏幕流中的典型视图。
 

@@ -10,14 +10,14 @@
 
 最大的问题是一些图书馆不再是 JDK 的一部分。这是个好消息——它变得越来越干净了。但结果是，您需要为您的项目定义额外的依赖项。你也可以在命令行参数中包含它们，因为它们实际上仍然在 **JDK** 中，但我认为最好将它们移到依赖项中，因为据我所知，它们将在未来的版本中完全删除。我的情况是:
 
-[![](../Images/d92cfe56241b87c1ce45a104f10d9037.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_vJOT5gP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ASQ14w9r73jrD6tHWTt7d-w.png)
+[![](img/d92cfe56241b87c1ce45a104f10d9037.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_vJOT5gP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ASQ14w9r73jrD6tHWTt7d-w.png)
 
 第二期是 [**Jacoco Gradle 插件**](https://docs.gradle.org/current/userguide/jacoco_plugin.html) 。如果你用它来衡量代码覆盖率，有一个好消息——**Jacoco**本身支持 **Java 10** 。但是为了让 **Jacoco Gradle 插件**工作，我必须在我的 Gradle 构建文件中指定这样的工具版本:
 
-[![](../Images/bac94e9776c1043fb0fca554eb9c7288.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2_fymxnj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AnjwwVXG6jfxW7NDI3YtQnw.png)
+[![](img/bac94e9776c1043fb0fca554eb9c7288.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2_fymxnj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AnjwwVXG6jfxW7NDI3YtQnw.png)
 
 还有最后被打破的部分— [**莫克托**](http://site.mockito.org/) 。这个问题可以通过添加一个新版本的 [**Bytebuddy**](http://bytebuddy.net/) 库来解决，如下所示:
 
-[![](../Images/879f0208045f5e0f0a94251ac5b68ce9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dJ1nFtoB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AVCu3z7x3Lm9b0WKn_czzLw.png)
+[![](img/879f0208045f5e0f0a94251ac5b68ce9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dJ1nFtoB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AVCu3z7x3Lm9b0WKn_czzLw.png)
 
 经过这些修改，我能够构建和运行我的项目，所有测试都是绿色的。不要害怕迁移！下一步是准备 **Dockerbuild** 文件。但是这是下一篇文章的主题。

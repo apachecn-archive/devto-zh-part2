@@ -5,7 +5,7 @@
 编辑:
 我错过了两天前的讨论
 
-[![ben image](../Images/fe64a787b888dfb20fc13ad1e466da3d.png)](/ben) [## 吉多·范·罗苏姆卸任 Python 的 BDFL，有何感想？
+[![ben image](img/fe64a787b888dfb20fc13ad1e466da3d.png)](/ben) [## 吉多·范·罗苏姆卸任 Python 的 BDFL，有何感想？
 
 ### 本哈尔彭 7 月 12 日 181 分钟阅读
 

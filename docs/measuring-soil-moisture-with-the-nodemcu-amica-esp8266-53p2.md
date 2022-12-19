@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/wiaio/measuring-soil-moisture-with-the-nodemcu-amica-esp8266-53p2>
 
-[![alt text](../Images/4ddf85726d74952e4f3e7365a5313f4b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U8y_yp1Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-05-24/1527154845-205657-tech3182-2-sdr2kznlof.jpeg)
+[![alt text](img/4ddf85726d74952e4f3e7365a5313f4b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U8y_yp1Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-05-24/1527154845-205657-tech3182-2-sdr2kznlof.jpeg)
 
 在本教程中，我们将使用 NodeMCU Amica(基于 ESP8266 的开发板)和 Funduino 湿度传感器来测量土壤湿度，并构建一个 Wia 流，在您的植物需要浇水时通知您。
 
@@ -13,7 +13,7 @@
 ### **连接硬件**
 
 使用跳线将湿度传感器连接到电路板，如下所示:
-[![alt text](../Images/2dbfb6a881c58e8f1a41839235b7edb8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RxJ3AEsU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/82b3be5-Screenshot_from_2018-05-15_15-01-06.png)
+[![alt text](img/2dbfb6a881c58e8f1a41839235b7edb8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RxJ3AEsU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/82b3be5-Screenshot_from_2018-05-15_15-01-06.png)
 
 ### **安装所需的库**
 
@@ -142,7 +142,7 @@ Enter fullscreen mode Exit fullscreen mode
 在 Flow Studio 中，从触发器部分拖动一个`Event`节点，然后:
 
 *   输入`moisture`作为`Event Name`
-*   添加与您之前添加到代码中的设备相匹配的设备![alt text](../Images/0b58ae6f21d4b07c6869a2435e6e0892.png)
+*   添加与您之前添加到代码中的设备相匹配的设备![alt text](img/0b58ae6f21d4b07c6869a2435e6e0892.png)
 
 从逻辑部分拖动一个`function`节点，复制并粘贴以下代码:
 
@@ -165,7 +165,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 最后，添加一个`notification`节点，并在文本字段中输入`The plant needs watering`，这样 Wia 就可以在您的植物需要浇水时向您发送通知。
 
-[![alt text](../Images/ad5cf9903cc970223395450617d205b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8qXItk_S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-16/1523879728-577477-notification-node.png)
+[![alt text](img/ad5cf9903cc970223395450617d205b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8qXItk_S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-16/1523879728-577477-notification-node.png)
 
 ### **更进一步**
 
@@ -188,16 +188,16 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果植物需要浇水，这个代码输出‘口渴’,否则输出‘好’。我们现在将把这个`function`节点的输出连接到一个新的`event`动作节点。从“操作”部分(不是“触发器”)拖动一个按钮。这将创建一个新事件。给事件起一个名字(比如`status`，并将`function`节点连接到它。
 
-[![alt text](../Images/1b85a599e1c1e8ad51fac96dbb779fd2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mVRnKlch--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/63ceff4-Screenshot_from_2018-05-15_15-17-15.png)
+[![alt text](img/1b85a599e1c1e8ad51fac96dbb779fd2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mVRnKlch--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/63ceff4-Screenshot_from_2018-05-15_15-17-15.png)
 
 接下来，前往你的设备的“概述”标签。单击“添加小部件”。给小部件一个名称(“Status”)，选择小部件类型“text”，并输入您在流程中创建的事件的名称(`status`)。
 
-[![alt text](../Images/d93f984af6dccb0a0858d047dd6bcff0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fsLQ4UN2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/1dada30-Screenshot_from_2018-05-15_15-22-17.png)
+[![alt text](img/d93f984af6dccb0a0858d047dd6bcff0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fsLQ4UN2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/1dada30-Screenshot_from_2018-05-15_15-22-17.png)
 
 创建另一个类型为“text”的小部件，给它命名(“Moisture”)，并输入原始事件触发器的名称(`moisture`)。
 
-[![alt text](../Images/e640afb81724c1ffac337e4031c528b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M2NPXrdV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/623e1d4-Screenshot_from_2018-05-15_15-24-46.png)
+[![alt text](img/e640afb81724c1ffac337e4031c528b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M2NPXrdV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/623e1d4-Screenshot_from_2018-05-15_15-24-46.png)
 
 现在，当您的活动发布后，设备概览页面上的小部件将实时更新！
 
-[![alt text](../Images/03a6c27648538971abea5ef600b40208.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FIJaGyih--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/00a4538-Screenshot_from_2018-05-15_15-28-40.png)
+[![alt text](img/03a6c27648538971abea5ef600b40208.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FIJaGyih--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/00a4538-Screenshot_from_2018-05-15_15-28-40.png)

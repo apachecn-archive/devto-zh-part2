@@ -16,7 +16,7 @@
 
 如果你有一些使用 Docker 的经验，你会知道在建立你自己的图像时会犯一些错误。起初，我并不介意使用`docker rmi ######`命令不时地删除一个未标记的图像，然而，当我不得不在一个项目中将一个遗留应用程序迁移到 Docker 时，我意识到有许多图像只是悬在空中，就像“我们在这里只是放松一下”。
 
-[![chillin](../Images/5f5912b8a364444ab9bfce3ee95ccc0d.png "Chillin")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NJJ3Peka--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/in5wq65fd5bvl6bibkzg.png)
+[![chillin](img/5f5912b8a364444ab9bfce3ee95ccc0d.png "Chillin")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NJJ3Peka--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/in5wq65fd5bvl6bibkzg.png)
 
 所以，我开始一个接一个地做一些清理工作，直到，你知道，谁想粘贴图像 id 或名称来删除它？没错。然后我想到了下面的一句俏皮话:
 

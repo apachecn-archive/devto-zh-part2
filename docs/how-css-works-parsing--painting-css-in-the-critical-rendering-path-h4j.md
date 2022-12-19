@@ -4,7 +4,7 @@
 
 ### CSS 如何工作:解析&在关键渲染路径中绘制 CSS
 
-[![](../Images/c471c347b7464eb18b6d8af6cfab754a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fT7NyBcg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A5KWw3x7UEVM1XPK-Ix2KNg.jpeg)
+[![](img/c471c347b7464eb18b6d8af6cfab754a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fT7NyBcg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A5KWw3x7UEVM1XPK-Ix2KNg.jpeg)
 
 有一个经典的 web 开发人员笑话是这样的:
 
@@ -46,7 +46,7 @@ CSS 经常让人感觉像是一种神秘的、异想天开的力量，控制着�
 
 DOM 是一个树状数据结构，包含页面上的所有 HTML 节点。每个节点都包含关于 HTML 元素的数据(例如属性、id 和类)。如果节点有任何 HTML 元素作为子节点，它也会指向这些子节点。例如，给定下面的 HTML，我们将构造下面的 DOM。注意 HTML 的缩进和 DOM 的结构非常相似。
 
-[![](../Images/9e5319d638b1a5d87b9aa393159765a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2L0oulPJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A4J8HSEzvi4DQb-WP.)
+[![](img/9e5319d638b1a5d87b9aa393159765a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2L0oulPJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A4J8HSEzvi4DQb-WP.)
 
 至于关键的呈现路径，我们认为 HTML 是我们的呈现阻塞的关键资源之一——如果我们还没有解析它，我们就不能呈现任何内容！
 
@@ -56,7 +56,7 @@ DOM 是一个树状数据结构，包含页面上的所有 HTML 节点。每个�
 
 CSSOM 看起来像什么？给定下面的 CSS，浏览器将构建一个如下所示的 CSSOM。
 
-[![](../Images/4e230644a2659e89d6da6d43f8b5a99a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b_pPfygS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A6T8_7kprBpSSXlct.)
+[![](img/4e230644a2659e89d6da6d43f8b5a99a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b_pPfygS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A6T8_7kprBpSSXlct.)
 
 本质上，我们解析所有的 CSS 选择器，并给它们分配在树中的位置。如果只有一个选择器，它将被附加到树的根节点上。嵌套的选择器将被附加到它们所嵌套的节点上。CSS 解析器必须从右到左读取嵌套的选择器，以保证它们最终位于正确的节点之下。
 
@@ -72,7 +72,7 @@ CSSOM 看起来像什么？给定下面的 CSS，浏览器将构建一个如下�
 
 不过，有一个 CSS 规则是个例外。应用显示:无；在 CSS 规则中，将*从渲染树中完全移除一个元素*。这又回到了在渲染树中只包含可见元素。*隐藏一个元素的其他方法，比如* *不透明度:0；不会从渲染树中移除元素，而是渲染它而不显示它*。
 
-[![](../Images/c91845483e6a216f1fa0fe16557b48b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nJMKpEw0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AbXFDb1USqAonjGYa.)
+[![](img/c91845483e6a216f1fa0fe16557b48b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nJMKpEw0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AbXFDb1USqAonjGYa.)
 
 这样我们就有了一个渲染树，一切准备就绪！在我们将 CSSOM 和 DOM 组合成一个渲染树之后，浏览器可以使用它并安全地假设渲染树包含了绘制第一批像素所需的信息——不多也不少。
 
@@ -104,7 +104,7 @@ CSSOM 看起来像什么？给定下面的 CSS，浏览器将构建一个如下�
 
 ### Plug: LogRocket，一款用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/mrm8488/what-is-overfitting-in-machine-learning--1c11>
 
-[![Image](../Images/99d40d346d6869f1ef4c8c367519db18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8Epq2nAB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lne97v0pst5qjp1u4oup.png)
+[![Image](img/99d40d346d6869f1ef4c8c367519db18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8Epq2nAB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lne97v0pst5qjp1u4oup.png)
 
 当你进入机器学习世界时，过度适应是你必须面对的关键问题之一。
 

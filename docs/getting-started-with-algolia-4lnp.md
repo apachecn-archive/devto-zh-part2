@@ -4,7 +4,7 @@
 
 哦，嘿，你好👋！你有过从零开始做搜索的痛苦吗？或者当你的项目经理说“你知道什么最棒吗?”时的那种挫败感？如果我们能在网站上有一个搜索栏就好了！”你的第一个想法是...
 
-[![awwcmon](../Images/928a0465e941d11484dbd563b0cf7bf1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xSm3NWP4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://www.reactiongifs.com/r/hmwrk.gif)
+[![awwcmon](img/928a0465e941d11484dbd563b0cf7bf1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xSm3NWP4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://www.reactiongifs.com/r/hmwrk.gif)
 
 是的，我以前已经感受过太多次了。老实说，我像躲避瘟疫一样快速跑了几圈，因为即使我把搜索排序好了，我也觉得它不是很好，最重要的是，我会在文档中思考 *wtf，那个模块应该放在哪里？？*真的，不是超级好玩。
 
@@ -14,7 +14,7 @@
 
 # 获取您的 API 密钥
 
-[![algolia keys marked up](../Images/4a0db95d386d4111cc80a08efa826382.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RDmWaa8U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.glitch.com/45e6d35c-2e10-4020-8ad3-d5f1b9d3aae6%252FalgoliaAPIkeysMarkedUp.png%3F1514567735627)
+[![algolia keys marked up](img/4a0db95d386d4111cc80a08efa826382.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RDmWaa8U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.glitch.com/45e6d35c-2e10-4020-8ad3-d5f1b9d3aae6%252FalgoliaAPIkeysMarkedUp.png%3F1514567735627)
 
 首先在[阿尔戈利亚](https://www.algolia.com/cc/devto)创建一个账户。然后从您的[仪表盘](https://www.algolia.com/licensing)中获取您的凭证。你需要复制你的`App Id`、`Search Only API Key`和`Admin API Key`。
 
@@ -89,7 +89,7 @@ function dataToAlgoliaObject(data_points){
 
 Enter fullscreen mode Exit fullscreen mode
 
-*第二步:*现在我们已经构建好了我们的对象，它们已经准备好被送往阿尔戈利亚了！ [![kermit party](../Images/dfec92c63612a9f50f664df6edc04675.png)](https://i.giphy.com/media/D1iAIpluG6ygE/giphy.gif) 
+*第二步:*现在我们已经构建好了我们的对象，它们已经准备好被送往阿尔戈利亚了！ [![kermit party](img/dfec92c63612a9f50f664df6edc04675.png)](https://i.giphy.com/media/D1iAIpluG6ygE/giphy.gif) 
 让我们用 indexData 函数来改变一些事情。由于 axios promise 结构的原因，我们可以在调用中添加一个`.then`，并使用`async`和`await`来确保在我们上传数据之前不会出现任何问题。
 
 ```
@@ -287,4 +287,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 当然，如果你想跳过所有这些手动工作，你可以在 Glitch 上查看我们的 [quickstart 应用程序，重新混合它，你会用大约 5 分钟的努力获得所有这些代码和一个基本的工作应用程序。😉祝阅读愉快，希望这有所帮助！](https://glitch.com/~algolia-quickstart)
 
-[![newgirl](../Images/9c936efd74a41ee9e3f94c74d68fd256.png)T2】](https://i.giphy.com/media/2uhnLivbj0S6A/giphy.gif)
+[![newgirl](img/9c936efd74a41ee9e3f94c74d68fd256.png)T2】](https://i.giphy.com/media/2uhnLivbj0S6A/giphy.gif)

@@ -82,7 +82,7 @@ def equations():
 
 顺便说一下，对于一些简单的 CSS，我推荐阅读[一个伟大的网站](http://bettermotherfuckingwebsite.com/)。要找到那里使用的 CSS，你可以使用开发者工具。
 
-[![](../Images/ad976fee16368b90eade808ab6caefb8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GK12cTa8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2728/1%2AdrvZxl2vP8LENJ3Q1Z5Ucw.png)
+[![](img/ad976fee16368b90eade808ab6caefb8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GK12cTa8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2728/1%2AdrvZxl2vP8LENJ3Q1Z5Ucw.png)
 
 由于输入标签上的必需属性，该表单不能在没有方程数的情况下提交。此外，由于`min`和`max`属性的缘故，该数字不能小于 1，也不能大于 100。
 
@@ -170,7 +170,7 @@ A = request.args.getlist(‘a’, type=int) # 1-dimensional A = np.reshape(A, sh
 {% endif %} 
 ```
 
-[![](../Images/6cb0f732ed0f938db0f7d251c623485f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_hdrmIz6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A3MdaFhyw5-d7ogP6ia0Fwg.png)
+[![](img/6cb0f732ed0f938db0f7d251c623485f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_hdrmIz6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A3MdaFhyw5-d7ogP6ia0Fwg.png)
 
 ## 最终求解系统
 
@@ -232,7 +232,7 @@ return render_template('equations.html', equations_number=equations_number, A=A,
 {% endif %} 
 ```
 
-[![](../Images/54de24d538e5584cae33df3c487a800b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9pVy0cvE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2688/1%2A35qefjzGF59MzHkWWcrAPQ.png)
+[![](img/54de24d538e5584cae33df3c487a800b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9pVy0cvE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2688/1%2A35qefjzGF59MzHkWWcrAPQ.png)
 
 ## 需要改进的地方(作业？)
 

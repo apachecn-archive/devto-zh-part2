@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/dotnet/using-global-tool-dotnet-outdated-to-check-for-the-latest-nuget-package-updates-2bkb>
 
-[![Using global tool](../Images/b616ea80c9f466a20d1ecf202c57e522.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P4jiJqU7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/content/images/2018/07/Screen-Shot-2018-07-02-at-5.27.43-PM.png)
+[![Using global tool](img/b616ea80c9f466a20d1ecf202c57e522.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P4jiJqU7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/conteimg/2018/07/Screen-Shot-2018-07-02-at-5.27.43-PM.png)
 
 就在不久前的[。NET Core June 年 6 月更新](https://blogs.msdn.microsoft.com/dotnet/2018/06/22/net-core-2-1-june-update/?WT.mc_id=none-devto-shboyer)掉线，我刚为 CI/CD build 设立的[ASP.NET 工坊需要更新到](https://tattoocoder.com/learning-devops-and-building-the-asp-net-core-workshop-up-to-date/) [2.1.1(发布说明)](https://github.com/dotnet/core/blob/master/release-notes/2.1/2.1.1.md)。
 
@@ -16,7 +16,7 @@
 
 使用安装该工具。NET CLI - `dotnet tool install --global dotnet-outdated`，那么我可以在解决方案(。sln)级别或项目(。csproj)级别和类型`dotnet outdated`。
 
-[![Using global tool](../Images/cda8cdbec8e540785d934f97e3735b94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SRYL2Kcp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/content/images/2018/07/Screen-Shot-2018-07-02-at-5.27.43-PM-1.png)
+[![Using global tool](img/cda8cdbec8e540785d934f97e3735b94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SRYL2Kcp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/conteimg/2018/07/Screen-Shot-2018-07-02-at-5.27.43-PM-1.png)
 
 输出显示了每个 NuGet 包、当前使用的版本和最新版本。如果你也想寻找预发布版本，你可以选择通过`-pr`。
 

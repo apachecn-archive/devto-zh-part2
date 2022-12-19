@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/couellet/build-a-vuejs-e-commerce-app-with-buttercms-headless-backend-43h3>
 
-[![vuejs-ecommerce-buttercms-snipcart](../Images/27631ced382a2ea11ef2745169046e06.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T_dysxd4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203610/vuejs-ecommerce-buttercms-snipcart.jpg)
+[![vuejs-ecommerce-buttercms-snipcart](img/27631ced382a2ea11ef2745169046e06.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T_dysxd4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203610/vuejs-ecommerce-buttercms-snipcart.jpg)
 
 “我是开发者，不是神 d*mn 点击机。”
 
@@ -10,7 +10,7 @@
 
 几品脱酒下肚，他就开始咆哮:
 
-[![developer-ecommerce-rant](../Images/9075a8b1d4f01c47b1c32d311e7d7a51.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JugINfeI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.giphy.com/media/oCdScruZnEHfy/giphy.gif)
+[![developer-ecommerce-rant](img/9075a8b1d4f01c47b1c32d311e7d7a51.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JugINfeI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.giphy.com/media/oCdScruZnEHfy/giphy.gif)
 
 “你知道我不喜欢什么吗？这里:
 

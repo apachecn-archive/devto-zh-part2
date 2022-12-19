@@ -41,7 +41,7 @@ $ cogear build
 
 它将被编译到默认为`./public`的`output`文件夹中。
 
-[![](../Images/03b97d86309b493387aa0a33ea6c0642.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0iI-NLB8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jktv0tu9imsd48rllb5r.png)
+[![](img/03b97d86309b493387aa0a33ea6c0642.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0iI-NLB8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jktv0tu9imsd48rllb5r.png)
 
 现在，您可以开始部署了。
 
@@ -53,7 +53,7 @@ $ now --public public
 
 几秒钟之内，你的网站就上线了！
 
-[![](../Images/c383305776b5ca5802ecdc4ecef86c46.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8V8DvUMg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1b7kou3t2xp7f9o6u6lx.png)
+[![](img/c383305776b5ca5802ecdc4ecef86c46.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8V8DvUMg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1b7kou3t2xp7f9o6u6lx.png)
 
 网站地址已被复制到剪贴板。
 

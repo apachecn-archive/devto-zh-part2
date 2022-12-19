@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/wiaio/build-an-end-to-end-sigfox-gps-tracker-using-wia-and-pycom-2eni>
 
-[![alt text](../Images/31c59cd1bd62341d9f4ad59f64c9521d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VVg7F-LT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-05-14/1526299660-249518-pycom-smartphone-illustration.png)
+[![alt text](img/31c59cd1bd62341d9f4ad59f64c9521d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VVg7F-LT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-05-14/1526299660-249518-pycom-smartphone-illustration.png)
 
 嗨，伙计们，
 
@@ -147,7 +147,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 走到你的 Wia 仪表盘和你的 Sigfox 设备所在的地方。从那里点击左边菜单中的流程图标，进入您的流程。
 
-[![alt text](../Images/faed0dc3550db250545b4eb8b9087be1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3KDo0l7T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-05-14/1526284386-778692-flow.png)
+[![alt text](img/faed0dc3550db250545b4eb8b9087be1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3KDo0l7T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-05-14/1526284386-778692-flow.png)
 
 现在来创建你的心流，你可以给它起任何你喜欢的名字。一旦你创建了一个流，你应该被带到流工作室。
 
@@ -196,7 +196,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 目前，该流从 Sigfox 接收数据，解析它并输出一个位置。现在，我们将更进一步，获得新创建位置的通知，以便我们可以在手机上的地图上查看它。为此，您将需要 Wia 移动应用程序。你可以在 iOS [这里](https://itunes.apple.com/us/app/wia-talk-to-your-things/id1320616870?ls=1&mt=8)和安卓[这里](https://play.google.com/store/apps/details?id=io.wia.wia)下载。
 
-[![alt text](../Images/7e418b00110afab6400a61a42294a07b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s2mLiswh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-05-14/1526284470-725433-flow-left.png)
+[![alt text](img/7e418b00110afab6400a61a42294a07b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s2mLiswh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-05-14/1526284470-725433-flow-left.png)
 
 在 Flow Studio 编辑器中:
 
@@ -206,8 +206,8 @@ Enter fullscreen mode Exit fullscreen mode
 
 `GPS Coordinates: ${input.body.latitude}, ${input.body.longitude}`
 
-[![alt text](../Images/83d43dc6a1b515404f05f4413ad855dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gSJeZ6DC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-05-14/1526299594-582357-selection-112.png)
+[![alt text](img/83d43dc6a1b515404f05f4413ad855dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gSJeZ6DC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-05-14/1526299594-582357-selection-112.png)
 
 现在，您应该可以在移动设备上接收 Sigfox 数据了。
 
-[![alt text](../Images/6f3689ee74058d9489223e3b7af918d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hZcrsqNj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-05-14/1526303292-200022-track-push.jpeg)
+[![alt text](img/6f3689ee74058d9489223e3b7af918d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hZcrsqNj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-05-14/1526303292-200022-track-push.jpeg)

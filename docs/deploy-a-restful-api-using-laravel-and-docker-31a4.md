@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jfernancordova/deploy-a-restful-api-using-laravel-and-docker-31a4>
 
-[![docker-laravel-api-dev](../Images/6418bbf4cac88bfbef4f79e876c38bb5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SyMT5DFd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aajawuadam0fwye5yqyh.png)
+[![docker-laravel-api-dev](img/6418bbf4cac88bfbef4f79e876c38bb5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SyMT5DFd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aajawuadam0fwye5yqyh.png)
 
 ## 入门
 
@@ -31,7 +31,7 @@
 
 ### 用 Docker 模式玩
 
-[![Play With Docker](../Images/8a370d05ade5965e5f73cd692a650c50.png)T2】](http://play-with-docker.com?stack=https://raw.githubusercontent.com/jfernancordova/docker-laravel-api-dev/master/docker-compose-pwd.yml)
+[![Play With Docker](img/8a370d05ade5965e5f73cd692a650c50.png)T2】](http://play-with-docker.com?stack=https://raw.githubusercontent.com/jfernancordova/docker-laravel-api-dev/master/docker-compose-pwd.yml)
 
 *   yml:您可以使用它来可视化这个环境并测试它，但是，您应该查看容器列表来验证健康检查。
 

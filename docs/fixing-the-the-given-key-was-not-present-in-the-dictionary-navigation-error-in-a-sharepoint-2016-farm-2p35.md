@@ -18,7 +18,7 @@ _ **字典中没有给定的关键字。**堆栈跟踪:at 系统。throw helper 
 
 为了解决这个问题，我所要做的就是在有问题的子网站上重新激活“SharePoint Server 发布”网站功能(而不是相应的网站集功能):
 
-[![](../Images/3c1787d961677f55012067b42079f4f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--612D7fKr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blogit.create.pt/wp-content/uploads/2018/09/PublishingSiteFeature.jpg%3Fresize%3D696%252C52%26ssl%3D1)
+[![](img/3c1787d961677f55012067b42079f4f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--612D7fKr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blogit.create.pt/wp-content/uploads/2018/09/PublishingSiteFeature.jpg%3Fresize%3D696%252C52%26ssl%3D1)
 
 重新激活该功能后，导航开始按预期工作。
 

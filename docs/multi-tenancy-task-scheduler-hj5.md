@@ -9,7 +9,7 @@
 *   达到最大队列大小后拒绝请求
 *   在上游预订处置时中断请求的处理
 
-[![Assigning resources](../Images/4c2d6e52d290a93ccce07a47fa10da52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zHRqHMu5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jkcu0qwc2dz2541uns70.jpg)
+[![Assigning resources](img/4c2d6e52d290a93ccce07a47fa10da52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zHRqHMu5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jkcu0qwc2dz2541uns70.jpg)
 
 ## 租户任务协调器执行方法
 

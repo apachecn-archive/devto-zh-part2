@@ -47,7 +47,7 @@
 *   n 个项目上的单个循环具有 **O(n)** 复杂度。
 *   循环中的循环具有 **O(n** )的复杂度
 
-| [![Different variations of Big O](../Images/d9c1726a9eb4e6f269a60d389c052926.png "Big Oh notation") ](https://1.bp.blogspot.com/-q_If4WoaJTA/WQz5mDhm2QI/AAAAAAAATGg/AWr6IyaHI98WN5aZL0XY5hH4Rmn2XmghACLcB/s1600/Screenshot%2Bfrom%2B2017-05-06%2B04-00-15.png) |
+| [![Different variations of Big O](img/d9c1726a9eb4e6f269a60d389c052926.png "Big Oh notation") ](https://1.bp.blogspot.com/-q_If4WoaJTA/WQz5mDhm2QI/AAAAAAAATGg/AWr6IyaHI98WN5aZL0XY5hH4Rmn2XmghACLcB/s1600/Screenshot%2Bfrom%2B2017-05-06%2B04-00-15.png) |
 |大魔神变型|
 
 关于这个的原博文在这里[。](https://www.shivagaire.com.np/2017/05/05/big-oh-notation-and-algorithmic.html)

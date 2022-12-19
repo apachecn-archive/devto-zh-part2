@@ -9,7 +9,7 @@
 源代码在这里。
 [https://github.com/k-nasa/rmemo](https://github.com/k-nasa/rmemo)
 
-[![asciicast](../Images/18e4037468499b854e8c80deaeeb3cfc.png)T2】](https://asciinema.org/a/F65yWTfdnMyNgiyFhLjGO3mRZ)
+[![asciicast](img/18e4037468499b854e8c80deaeeb3cfc.png)T2】](https://asciinema.org/a/F65yWTfdnMyNgiyFhLjGO3mRZ)
 
 ## 安装
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/_lancegin/a-simple-way-to-manage-and-start-your-api-mock-server-on-your-local-platform-1ol9>
 
-# ![Mockman](../Images/c98fc8d9250649fa5d45f3ea1892feae.png)
+# ![Mockman](img/c98fc8d9250649fa5d45f3ea1892feae.png)
 
 > 是一个强大而方便的工具，帮助您在本地管理和启动模拟服务器。
 > 
@@ -10,11 +10,11 @@
 
 ## 屏幕上显示程序运行的图片
 
-[![Mockman](../Images/4a91a9f66519718f0c7e83f5c64fa78d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Tq9NRuq1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://orhcxc3kd.bkt.clouddn.com/mockman.png)
+[![Mockman](img/4a91a9f66519718f0c7e83f5c64fa78d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Tq9NRuq1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://orhcxc3kd.bkt.clouddn.com/mockman.png)
 
 ## 使用
 
-[![Feature](../Images/4d06f82842079a3219d08ccbd05cd4f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tKqetypw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://orhcxc3kd.bkt.clouddn.com/mockman-preview.jpg)
+[![Feature](img/4d06f82842079a3219d08ccbd05cd4f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tKqetypw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://orhcxc3kd.bkt.clouddn.com/mockman-preview.jpg)
 
 1.  创建您的模拟服务器- `click the add button`
 2.  配置你的移动服务器的`name`、`port`和`prefix`，确保端口没有被使用，否则 Mockman 会给你一个错误通知。

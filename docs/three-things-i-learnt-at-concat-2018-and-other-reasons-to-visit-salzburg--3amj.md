@@ -42,7 +42,7 @@ Nicole 在她的演讲中涵盖了更多内容，包括“PWA 审计”、iOS �
 
 你可以通过下面的链接在 YouTube 上观看妮可的完整讲话。
 
-[![Nicole Saidy - Designing Great Progressive Web Apps](../Images/eddcc97084eb9be82fd0fc4b93a04fd0.png)T2】](https://www.youtube.com/watch?v=2NZc4C7uNcU)
+[![Nicole Saidy - Designing Great Progressive Web Apps](img/eddcc97084eb9be82fd0fc4b93a04fd0.png)T2】](https://www.youtube.com/watch?v=2NZc4C7uNcU)
 
 ## No. 2:今天可以使用 CSS 自定义属性。
 
@@ -58,7 +58,7 @@ Nicole 在她的演讲中涵盖了更多内容，包括“PWA 审计”、iOS �
 
 要了解迈克策略的本质，请查看他在 YouTube 上的完整发言。
 
-[![Mike Riethmuller - The strategy guide to CSS Custom Properties](../Images/efbc6b56d168695194bfc1c417090a12.png)T2】](https://www.youtube.com/watch?v=Zg8f0fNekp4)
+[![Mike Riethmuller - The strategy guide to CSS Custom Properties](img/efbc6b56d168695194bfc1c417090a12.png)T2】](https://www.youtube.com/watch?v=Zg8f0fNekp4)
 
 ## 第三:解决你的偏见
 
@@ -72,7 +72,7 @@ Nicole 在她的演讲中涵盖了更多内容，包括“PWA 审计”、iOS �
 
 你可以在 Ivana 在 YouTube 上的强大演讲中找到这样做的一系列步骤。
 
-[![Ivana McConnell - Your Algorithm isn't neutral...](../Images/092fa86ae223a7015579df4c1beab4a5.png)T2】](https://www.youtube.com/watch?v=As5fhzBY5xk)
+[![Ivana McConnell - Your Algorithm isn't neutral...](img/092fa86ae223a7015579df4c1beab4a5.png)T2】](https://www.youtube.com/watch?v=As5fhzBY5xk)
 
 同样， [Jenny Shen](https://twitter.com/jennyshen) 在她的幽默但无疑发人深省的演讲中探讨了我们如何进行跨文化设计，*建造桥梁，而不是墙壁。为跨文化用户设计*。
 
@@ -80,7 +80,7 @@ Nicole 在她的演讲中涵盖了更多内容，包括“PWA 审计”、iOS �
 
 虽然我可以试着引用她的例子，但我不会公正地对待它们，我恳求你们在方便的时候尽早观看珍妮的演讲。你可以在下面这样做。
 
-[![Jenny Shen - Build bridges, not walls – Design for users across cultures](../Images/c0783cca2a5dc499f220c4a08a241e0d.png)T2】](https://www.youtube.com/watch?v=ER3534JJucc)
+[![Jenny Shen - Build bridges, not walls – Design for users across cultures](img/c0783cca2a5dc499f220c4a08a241e0d.png)T2】](https://www.youtube.com/watch?v=ER3534JJucc)
 
 两次谈话都贯穿着一个一致的主题:**你有偏见，你需要有意识地采取行动，确保你的用户确实体验到你无意的、自然的偏见的影响，这种偏见会影响种族、文化、性别和社会条件。**
 
@@ -100,21 +100,21 @@ Nicole 在她的演讲中涵盖了更多内容，包括“PWA 审计”、iOS �
 
 与 19 世纪的许多城市不同，萨尔茨堡的建筑没有被推倒，这要归功于 1816 年该市加入奥地利后，执政的哈布斯堡王朝长达一百年的经济忽视，确保了该市能够保留其独特的外观。
 
-[![A photograph that doesn't remotely do Salzburg's beauty justice](../Images/8e36a74a4f35e2a472390a648950981f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IqWn-phg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4xtgawmtisynyw40ngu4.jpg)
+[![A photograph that doesn't remotely do Salzburg's beauty justice](img/8e36a74a4f35e2a472390a648950981f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IqWn-phg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4xtgawmtisynyw40ngu4.jpg)
 
 因此，现代游客能够体验到在欧洲许多其他地方很难找到的如画的建筑。此外，萨尔茨堡被群山和其他各种有利位置所包围，有足够的机会让人敬畏。
 
-[![Another photograph that doesn't remotely do Salzburg's beauty justice](../Images/08de65f12f7a518459e93f826c60e5cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---1ME2lf---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/YGJ2tOr.jpg)
+[![Another photograph that doesn't remotely do Salzburg's beauty justice](img/08de65f12f7a518459e93f826c60e5cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---1ME2lf---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/YGJ2tOr.jpg)
 
 ### 菜肴和饮料
 
 萨尔茨堡提供美味佳肴，也是许多美食的故乡，包括 Paul Furst 的[原味萨尔茨堡 Mozartkugel](http://www.original-mozartkugel.com/index_e.php) 和*原味 Sacher Torte* ，后者可在 [Café Confiserie Sacher](https://www.sacher.com/hotel-wien-2/kulinarik/cafe-sacher-wien/) 买到(他们从不放过任何机会提醒你他们不仅提供任何一种 Sacher Torte，还提供*原味 Sacher Torte* )。
 
-[![The "Old Austrian" dish](../Images/5682556c4ff7bce12636924e4d83cd5a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZWLu8YbP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/izTRdHR.jpg)
+[![The "Old Austrian" dish](img/5682556c4ff7bce12636924e4d83cd5a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZWLu8YbP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/izTRdHR.jpg)
 
 除了美食，这里也不缺少正宗的食物，包括牛肉炖牛肉、菠菜饺子和法兰克福香肠。甚至咖啡也很突出。在萨尔茨堡，一个常见的选择是混合咖啡:一种过滤咖啡，配有牛奶、鲜奶油，在大多数情况下，还有巧克力。我在萨尔茨堡尝过的所有咖啡甚至都配有一小杯冷水。
 
-[![Melange coffee from Cafe Mozart](../Images/87bd9e06ca21112b030445f5ef0eddbb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2uyJNy5---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/bHDqHql.jpg)
+[![Melange coffee from Cafe Mozart](img/87bd9e06ca21112b030445f5ef0eddbb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2uyJNy5---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/bHDqHql.jpg)
 
 ### 安特斯伯格山
 
@@ -122,7 +122,7 @@ Nicole 在她的演讲中涵盖了更多内容，包括“PWA 审计”、iOS �
 
 在下了一整天的雪后，我们能够在一个特别晴朗的日子爬山，并且能够享受烈日、无尽的雪，以及萨尔斯堡、*瓦茨曼*山和德国巴伐利亚*联邦区*的难忘景色。
 
-[!['Deep' photo of me enjoying the view](../Images/39fcbf2bf15162f3c3de2644edff49d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jx7Sw-k_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hmf24mf3qafse6k9w3ho.jpg)
+[!['Deep' photo of me enjoying the view](img/39fcbf2bf15162f3c3de2644edff49d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jx7Sw-k_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hmf24mf3qafse6k9w3ho.jpg)
 
 描述:无意中“深入”的我欣赏风景的照片。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nexmobility/5-ios-12-bugs-that-are-the-bane-of-the-life-of-the-apple-users-40pi>
 
-[![iPhone App Development](../Images/bcd7bcda526a794de608e3f90719c7ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v1X-te4y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eboqxlh7ytdh6ugnyk1h.png)
+[![iPhone App Development](img/bcd7bcda526a794de608e3f90719c7ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v1X-te4y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eboqxlh7ytdh6ugnyk1h.png)
 
 iOS 12 是苹果世界的最新流行语。新的操作系统被认为是迄今为止最令人惊叹的。它不仅提高了 iPhones 的性能，还为手机增加了许多功能。众所周知，这个功能丰富的操作系统版本为手机带来了几个有趣的功能。就新的更新而言，这一切似乎都是有益的，但是否有任何漏洞呢？
 

@@ -6,14 +6,14 @@
 
 关于我学习编码的旅程，最近有一条病毒式的推文击中了要害。
 
-[![failure meme](../Images/9000db37f87fc436ebb762f52e96f597.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wekR6p6U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/DdB-zuKX4AAWw5c.jpg) 
+[![failure meme](img/9000db37f87fc436ebb762f52e96f597.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wekR6p6U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/DdB-zuKX4AAWw5c.jpg) 
 *它我！*
 
 然而，认识到这一点，这种对不能完美完成某事的恐惧，在我身上并不容易识别。
 
 事实上，如果你问我，我会说我对失败相当坦然。我完全理解为了成功，一路上会有失败。我会告诉你我是如何公开失败并对此保持透明的。就像那次我尝试了#100DaysofCode 而[只到了第 70 天...三次](https://twitter.com/search?f=tweets&q=shanisebarona%20%23100daysofcode&src=typd)。
 
-[![Day 70](../Images/2e08e932850122201e3456a537feed84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EIpOE8_Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dl8oxzsgq9aaqt2s2voi.png)
+[![Day 70](img/2e08e932850122201e3456a537feed84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EIpOE8_Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dl8oxzsgq9aaqt2s2voi.png)
 
 我在学术上已经在我尝试的每件事情上是优秀的。这句话听起来很疯狂，很烦人，但却是真实的。高中时，我在高级班和 AP 班学习，大学时我学习心理学，重点是经济学，并通过了其他课程的考试。我在大学面临的挑战主要是因为参加了宾夕法尼亚州一个种族主义小镇的 PWI，并试图在那里生存下来，而不是任何学术上的艰苦努力。我甚至没有特别的纪律性，只是一个有着永无止境好奇心的狂热读者。正是这些经历让我对失败有了一种虚假的舒适感。
 
@@ -29,14 +29,14 @@
 
 为什么这对我来说如此难以理解？我能做些什么来为学习成功做准备？我如何在困难时期保持动力？
 
-[![Coding confidence vs competence chart](../Images/36dc7656c973a4d06d28f7036797c000.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SGcqQ8X3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dtczwa13m8e6dncd515r.png) 
+[![Coding confidence vs competence chart](img/36dc7656c973a4d06d28f7036797c000.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SGcqQ8X3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dtczwa13m8e6dncd515r.png) 
 *咻智利，绝望了！*
 
 ### 解
 
 撬是一种红宝石，是 REPL 的一种。REPL 代表读取、评估、打印、循环，是一个对调试非常有帮助的程序。我已经熟悉了 IRB，Ruby 自带的交互式 REPL，但是显然 Pry 有更多的功能。不可否认的是，自从了解到这一点后，我一直在避免窥探。
 
-[![](../Images/556927af41d70d61c63e18caf89205f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rcs8E-Vn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/5a513bb2b20e49cb2f2a3ee753e2c734/tenor.gif%3Fitemid%3D11155741)
+[![](img/556927af41d70d61c63e18caf89205f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rcs8E-Vn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.cimg/5a513bb2b20e49cb2f2a3ee753e2c734/tenor.gif%3Fitemid%3D11155741)
 
 我知道将`require pry`放在一个文件的顶部，并将`binding.pry`放在一个方法中的某个地方，这样做了*一些事情*，但是我不知道在`pry`中应该寻找什么。
 

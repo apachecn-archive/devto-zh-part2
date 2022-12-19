@@ -4,13 +4,13 @@
 
 上周在工作中，我得到了一个新项目。NET 框架。作为一名优秀的开发人员，我尝试使用。NET Core，但是我失败了，我工作的笔记本电脑没有安装 Windows，我该怎么办？。
 
-[![](../Images/3b4f510a6eec92ebfb0c4f68e64efc55.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--APxp7Dox--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/llyxlk1dn1wc4amuqlpc.gif)
+[![](img/3b4f510a6eec92ebfb0c4f68e64efc55.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--APxp7Dox--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/llyxlk1dn1wc4amuqlpc.gif)
 
 所以，我跑去技术支持区，告诉他们这个问题，经过一些研究，唯一的解决方案是:*删除 Linux，安装 Windows，然后再安装 Linux*。
 
 该死的窗户。😡
 
-[![](../Images/a44c063d5a18aa2a022b08fa79d13291.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZhWJmtwX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.kym-cdn.com/photos/images/original/000/176/261/Windows_9X_BSOD.png)
+[![](img/a44c063d5a18aa2a022b08fa79d13291.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZhWJmtwX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.kym-cdn.com/photimg/original/000/176/261/Windows_9X_BSOD.png)
 
 但是这启发了我写这篇文章。
 
@@ -52,7 +52,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在我们有一个好的外壳，太好了。但是[哦，我的 Zsh](https://github.com/robbyrussell/oh-my-zsh) 会给我们额外的动力:
 
-[![](../Images/79ae22d1024437cdfb4a795dd589e8bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vE_KrlWN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hxzoy1s0opswq3o0j2gh.png)
+[![](img/79ae22d1024437cdfb4a795dd589e8bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vE_KrlWN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hxzoy1s0opswq3o0j2gh.png)
 
 然后，只需复制以下命令:
 
@@ -64,7 +64,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 你会得到这个:
 
-[![](../Images/5b8153d419ff4861cb2f163e8ec58fd8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RXYCiCRx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gkgtegq2tnvt0loywl6m.png)
+[![](img/5b8153d419ff4861cb2f163e8ec58fd8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RXYCiCRx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gkgtegq2tnvt0loywl6m.png)
 
 ## 4。默认开始使用 zsh
 
@@ -88,13 +88,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 但是重启后会是这样的结果😍：
 
-[![](../Images/58baac2567912c0d8e71e30d342c2f57.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BC-PWgbE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1p32t7p51dnbrmk5agt2.png)
+[![](img/58baac2567912c0d8e71e30d342c2f57.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BC-PWgbE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1p32t7p51dnbrmk5agt2.png)
 
 ## 5。安装 vim
 
 是时候进入黑客模式了👨‍💻：
 
-[![](../Images/3b80c8b1696b81cfbc7f65bae87daf71.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OvV-Wyml--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dxo5y90fl2wefn6hvtnm.gif)
+[![](img/3b80c8b1696b81cfbc7f65bae87daf71.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OvV-Wyml--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dxo5y90fl2wefn6hvtnm.gif)
 
 开玩笑的。
 

@@ -21,7 +21,7 @@
 
 它看起来是这样的，你可以用它玩[这里](http://hello-tensorflow.glitch.me/)！
 
-[![](../Images/1ff0abbf890457e721802707d4b2a5da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dye2nYf6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ASN5E-so4ydh-EbhDcV_dUw.gif)
+[![](img/1ff0abbf890457e721802707d4b2a5da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dye2nYf6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ASN5E-so4ydh-EbhDcV_dUw.gif)
 
 ### 工作原理
 

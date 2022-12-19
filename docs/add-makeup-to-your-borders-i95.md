@@ -41,7 +41,7 @@ border-image-property 是以下内容的简写:
 
 创建边框时，我将使用以下图像:
 
-[![Border sample](../Images/bb5f6aca5f16525626317653a1a12956.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2b_fmJIs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/05/border.png)
+[![Border sample](img/bb5f6aca5f16525626317653a1a12956.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2b_fmJIs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/05/border.png)
 
 HTML
 
@@ -60,7 +60,7 @@ CSS
   padding: 10px;
 
   border-image:
-      url("../images/border.png")    /* source */
+      url("img/border.png")    /* source */
       50 /                           /* slice */
       25px /                         /* width  */
       12px                           /* outset */
@@ -70,7 +70,7 @@ CSS
 
 结果是:
 
-[![border-image usage example](../Images/39c0f610181ad49951d35a3b204d53f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GbGZ46CS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/05/border-image.png)
+[![border-image usage example](img/39c0f610181ad49951d35a3b204d53f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GbGZ46CS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/05/border-image.png)
 
 ### 用渐变制作边框
 
@@ -93,13 +93,13 @@ CSS
 
 结果是:
 
-[![border-image gradient usage example](../Images/67ab28e0f5dba3cc958ecc250003fa44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2muUzeJi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/05/border-gradient.png)
+[![border-image gradient usage example](img/67ab28e0f5dba3cc958ecc250003fa44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2muUzeJi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/05/border-gradient.png)
 
 ## 浏览器兼容性
 
 了解一处房产兼容性的最佳方式是查看[can use](https://caniuse.com/)服务。
 
-[![border-image browser compatibility](../Images/a8bf533c2722b67e9d37056d7c870f0f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4gaO0q6C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/05/caniuse.png)
+[![border-image browser compatibility](img/a8bf533c2722b67e9d37056d7c870f0f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4gaO0q6C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/05/caniuse.png)
 
 这里你看到兼容性普遍非常好。Chrome 中的**border-image-repeat:space**有一些问题，所以你应该留意一下。
 

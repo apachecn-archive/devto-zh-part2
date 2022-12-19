@@ -6,13 +6,13 @@
 
 在匆匆处理完当前赛季的待办事项后，我遇到了这个问题:
 
-[![YouTube video: Programming Language In Anime !](../Images/95a342efb52ea12ff5bc0cb82ad31b24.png)T2】](https://www.youtube.com/watch?v=vlbO6bakH4)
+[![YouTube video: Programming Language In Anime !](img/95a342efb52ea12ff5bc0cb82ad31b24.png)T2】](https://www.youtube.com/watch?v=vlbO6bakH4)
 
 YouTube 视频:动漫中的编程语言([https://www.youtube.com/watch?v=vlbO6bakH4](https://www.youtube.com/watch?v=vlbO6bakH4))
 
 该节目名为 Dagashi Kashi，基于一部关于廉价日本小吃的漫画。这些片段来自第二季第九集。这可能是我第一次看到动画编程，试图提及实际的堆栈并展示看似合理的代码，即使只是一秒钟。
 
-[![YouTube video: They Decide To Make Dagashi Website !](../Images/537f3057efdafc1dc193531507a5a007.png)T2】](https://www.youtube.com/watch?v=8lBY1jnY02s)
+[![YouTube video: They Decide To Make Dagashi Website !](img/537f3057efdafc1dc193531507a5a007.png)T2】](https://www.youtube.com/watch?v=8lBY1jnY02s)
 
 YouTube 视频:他们决定制作 Dagashi 网站！([https://www.youtube.com/watch?v=8lBY1jnY02s](https://www.youtube.com/watch?v=8lBY1jnY02s)
 

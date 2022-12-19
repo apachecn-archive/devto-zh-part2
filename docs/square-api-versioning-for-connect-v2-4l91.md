@@ -4,7 +4,7 @@
 
 我们为 Connect v2 开发人员带来了激动人心的更新！我们已经为 Square 的 API 发布了所有 Connect v2 端点的[版本。这将使我们能够以前所未有的速度提供更多的功能和特性。不过不用担心，我们的 API 将保持向后兼容，并允许您在最方便的时候升级。这意味着您可以安全地继续使用您已经喜欢的 Square APIs，但允许我们在不破坏您的代码的情况下为您带来新的或改进的功能。](https://developer.squareup.com/docs/changelog/overview)
 
-[![](../Images/493053553d10b8cf249afff7ca5d91f2.png)T2】](//images.ctfassets.net/1wryd5vd9xez/26WYajTAeTr98rly97fON0/6cb93860b98b12021b930c007dd7dcf0/https___cdn-images-1.medium.com_max_3840_1_BkvbW9_QdvWTI6s-Elvx9Q.png)
+[![](img/493053553d10b8cf249afff7ca5d91f2.png)T2】](//images.ctfassets.net/1wryd5vd9xez/26WYajTAeTr98rly97fON0/6cb93860b98b12021b930c007dd7dcf0/https___cdn-images-1.medium.com_max_3840_1_BkvbW9_QdvWTI6s-Elvx9Q.png)
 
 ### 这对我意味着什么？
 

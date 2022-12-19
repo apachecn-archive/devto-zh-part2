@@ -4,7 +4,7 @@
 
 # Magento 2.2.2 功能更新
 
-[![Alt text of image](../Images/15f556daa2c3e26d93626c9f1c18ed32.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iM7GItrv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wdcf7jfgpsiztqmmiqxw.jpg) 
+[![Alt text of image](img/15f556daa2c3e26d93626c9f1c18ed32.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iM7GItrv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wdcf7jfgpsiztqmmiqxw.jpg) 
 Magento 更新是在 Magento 2.2 之后仅仅发布了几次。它将加速销售增长，提高运营效率。它将使 **[Magento](https://www.webnexs.com/magento-development.php?utm_source=devto&utm_medium=article&utm_term=Ecommerce&utm_campaign=praveen)** 的操作更加精简。合并了对核心功能的重要修复。让我们来看看它的一些增强功能
 
 ## 1。Magento 商业智能支持的高级报告

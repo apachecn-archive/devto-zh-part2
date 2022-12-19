@@ -14,7 +14,7 @@
 > 
 > 你的孩子会讨厌它；-)
 
-[![](../Images/b85d8693d1fe4a7f9d52f8845f57ec9f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Yi8PvcTg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s6p5kj5uu1ylz76d96jv.png)
+[![](img/b85d8693d1fe4a7f9d52f8845f57ec9f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Yi8PvcTg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s6p5kj5uu1ylz76d96jv.png)
 
 # 链接
 

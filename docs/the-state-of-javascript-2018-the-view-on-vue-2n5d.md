@@ -8,7 +8,7 @@
 
 让我们直接进入正题 Vue 怎么样了？当然，这不是一个比赛，但仍然…让我们加入反应和角度的结果。为了真正回答这个问题，让我们也展示一下去年的数据，看看它们每年的趋势如何。是的，调查列出了一些其他框架，但与三大框架相比，它们都在“噪音”范围内，所以我没有把它们包括在内。
 
-[![Vue statistics](../Images/4980847f49784ddb3c5e96d03eed9214.png "vue01")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cZAYIzDq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/vue01cf48ed25f6f645df9dbbf866f68aa2fa.png%3Fsfvrsn%3D70102507_0)
+[![Vue statistics](img/4980847f49784ddb3c5e96d03eed9214.png "vue01")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cZAYIzDq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/vue01cf48ed25f6f645df9dbbf866f68aa2fa.png%3Fsfvrsn%3D70102507_0)
 
 非常丰富多彩！那么这实际上告诉了我们什么呢？首先，在过去的一年中，这三个框架的使用量似乎都有所增加。除了将 React 或 Angular 数据的趋势与 Vue 进行比较之外，我不打算详细介绍它们。有一个博客覆盖了关于[反应](https://dev.to/progresstelerik/a-react-state-of-mind-state-of-javascript-survey-2018-de4)的数据，还有一个博客覆盖了[角度](https://dev.to/progresstelerik/the-state-of-js-survey-2018---the-angular-scoop-4b4j)的数据，这些数据更加详细。
 
@@ -28,15 +28,15 @@
 
 此外，如果你是 Vue 开发人员中少数几个年收入超过 20 万美元的人之一，请立即联系我，告诉我你是如何做到的。
 
-[![Vue statistics](../Images/4d077da5888fac98480c01f0d8d2c6d6.png "vue02")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vDy9ktJl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/vue02ece27c39450a459faf8135422e88fa68.png%3Fsfvrsn%3De64460c2_0)
+[![Vue statistics](img/4d077da5888fac98480c01f0d8d2c6d6.png "vue02")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vDy9ktJl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/vue02ece27c39450a459faf8135422e88fa68.png%3Fsfvrsn%3De64460c2_0)
 
 我们还获得了按框架划分的公司规模数据。在这里我们可以看到，对于 Vue，34%的人表示他们在一家拥有 100 多名员工的公司工作，20%的人表示他们在一家拥有 5 名或更少员工的公司工作，因此公司规模分布相当均匀。请注意，类别的重叠(例如“1-5”和“1”)并不是我的错误，这就是列出结果的方式。
 
-[![Vue statistics](../Images/2297f53dfa5b07afc10a329ba7d99a85.png "vue03")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AbRetoqj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/vue032070878868964500b7b781d15f267e7e.png%3Fsfvrsn%3D34ba7264_0)
+[![Vue statistics](img/2297f53dfa5b07afc10a329ba7d99a85.png "vue03")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AbRetoqj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/vue032070878868964500b7b781d15f267e7e.png%3Fsfvrsn%3D34ba7264_0)
 
 最后，他们列出了每个框架的多年经验，在这里我们也得到一个很好的传播。30%有 2-5 年，30%有 5-10 年经验，23%有 10-20 年经验。少于 2 年的是 13%,所以我们确实看到一些入门级的兴趣，但不如更有经验的开发人员多。
 
-[![Vue statistics](../Images/888e2662ec12a48e379f247a990b6b45.png "vue04")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--raLY6INf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/vue044c37e965448c482aac7c05f7c096cc7c.png%3Fsfvrsn%3D2c3c8032_0)
+[![Vue statistics](img/888e2662ec12a48e379f247a990b6b45.png "vue04")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--raLY6INf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/vue044c37e965448c482aac7c05f7c096cc7c.png%3Fsfvrsn%3D2c3c8032_0)
 
 ## 更深的潜
 
@@ -44,11 +44,11 @@
 
 首先，在 Vue“最受欢迎”的方面中，排名第一的原因是“简单的学习曲线”，其次是“优雅的编程风格”和“良好的文档”。换句话说，很容易拿起来。另一方面，“快速性能”在列表中排名第五，所以人们在关心性能的实际应用中使用它。请注意，这些人说他们已经使用过它，并将再次使用它。
 
-[![Vue statistics](../Images/47fdbdc08c34f4ff429be9c0f6e23f30.png "vue05")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0OukdjEu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/vue05.png%3Fsfvrsn%3Dd178c492_0)
+[![Vue statistics](img/47fdbdc08c34f4ff429be9c0f6e23f30.png "vue05")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0OukdjEu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/vue05.png%3Fsfvrsn%3Dd178c492_0)
 
 在那些说他们已经使用过并且不会再使用它的人中，记住**这是非常小的百分比**，第一大原因是“笨拙的编程风格”。这似乎与另一组喜欢它的原因不一致，并表明 Vue 就像南瓜味啤酒。有些人就是喜欢，有些人觉得很恶心。这是风格和偏好的问题。(郑重声明，认为南瓜味啤酒很恶心的人是对的)。
 
-[![Vue statistics](../Images/e052e89e9e2d8c40713a69ec2abe9179.png "vue06")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---tpjBJ5k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/vue065d33da72467949edb2e253d2f2f9a000.png%3Fsfvrsn%3Dd6f9c66_0)
+[![Vue statistics](img/e052e89e9e2d8c40713a69ec2abe9179.png "vue06")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---tpjBJ5k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/vue065d33da72467949edb2e253d2f2f9a000.png%3Fsfvrsn%3Dd6f9c66_0)
 
 下一个有趣的数据集是快乐的 Vue 用户所在位置的细分。在中国、法国、印度尼西亚、泰国、越南、尼日利亚、墨西哥、秘鲁、巴西和其他一些国家，这一比例更高。满意度较低的地方包括美国、印度和澳大利亚。
 
@@ -76,7 +76,7 @@
 
 搜索“Vue”趋势给我们的结果可以追溯到 2004 年，所以这显然不好。搜索[“Vue.js”趋势](https://trends.google.com/trends/explore?date=all&q=vue.js)给我们一条从 2014 年开始的曲线，然后从那里攀升，这样看起来不错，而且肯定没有其他“vue . js”可能会增加不想要的结果。另一方面，有些人可能只是在搜索“Vue”这个词，因为它的缩写更常见。只在“Vue.js”上搜索会漏掉那些人。
 
-[![Vue statistics](../Images/9d901f06849f72946fcbeb95d4222471.png "vue07")](https://res.cloudinary.com/practicaldev/image/fetch/s--puqS2w1z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/vue07.png%3Fsfvrsn%3Df33ce1e7_0) 
+[![Vue statistics](img/9d901f06849f72946fcbeb95d4222471.png "vue07")](https://res.cloudinary.com/practicaldev/image/fetch/s--puqS2w1z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/vue07.png%3Fsfvrsn%3Df33ce1e7_0) 
 
 谷歌趋势数据
 

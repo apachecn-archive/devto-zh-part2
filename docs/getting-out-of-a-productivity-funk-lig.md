@@ -22,7 +22,7 @@
 
 它看起来是这样的:
 
-[![Everything got wrapped in plastic](../Images/a94509ecdee239eeb711f4ee1fa23758.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QNtG9BRP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/productivity-funk/wrapped.jpg) 
+[![Everything got wrapped in plastic](img/a94509ecdee239eeb711f4ee1fa23758.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QNtG9BRP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/productivity-funk/wrapped.jpg) 
 
 <figure>
 

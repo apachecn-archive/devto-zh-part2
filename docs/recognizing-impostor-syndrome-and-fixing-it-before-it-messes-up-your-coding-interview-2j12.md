@@ -28,11 +28,11 @@
 
 软件工程是一个庞大的领域。有一个巨大的宇宙的事情你可以知道。巨大的。
 
-[![Everything you could know](../Images/85ccca62bc93151b3da393865bdaa326.png "Everything you could know")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xw24eSCg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.interviewcake.com/images/svgs/imposter_syndrome__everything_you_could_know.svg%3Fbust%3D500)
+[![Everything you could know](img/85ccca62bc93151b3da393865bdaa326.png "Everything you could know")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xw24eSCg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.interviewcake.cimg/svgs/imposter_syndrome__everything_you_could_know.svg%3Fbust%3D500)
 
 与你可能知道的广阔世界相比，你实际知道的东西只是很小的一部分:
 
-[![Everything you do know](../Images/9d571e8f005ebf96f0cb22b15eb2ce3f.png "Everything you do know")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n7khdba0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.interviewcake.com/images/svgs/imposter_syndrome__everything_you_do_know.svg%3Fbust%3D500)
+[![Everything you do know](img/9d571e8f005ebf96f0cb22b15eb2ce3f.png "Everything you do know")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n7khdba0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.interviewcake.cimg/svgs/imposter_syndrome__everything_you_do_know.svg%3Fbust%3D500)
 
 这是第一个问题。感觉你真的不知道那么多，因为你只知道所有要知道的东西的一小部分。
 
@@ -50,13 +50,13 @@
 
 结果呢？我们认为每个人的知识都是我们自己的超集:
 
-[![Everyone's knowledge is a superset of your own](../Images/9e890f30407de5abaf8a91f4fae1b5a8.png "Everyone's knowledge is a superset of your own")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JC_YgRnp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.interviewcake.com/images/svgs/imposter_syndrome__everything_they_know.svg%3Fbust%3D165)
+[![Everyone's knowledge is a superset of your own](img/9e890f30407de5abaf8a91f4fae1b5a8.png "Everyone's knowledge is a superset of your own")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JC_YgRnp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.interviewcake.cimg/svgs/imposter_syndrome__everything_they_know.svg%3Fbust%3D165)
 
 这让我们觉得其他人都在我们前面。好像我们总是落后一步。
 
 但事实更像这样:
 
-[![Your knowledge and other people's knowledge form a venn diagram](../Images/92d635b03228003f176d85698cb3cf99.png "Your knowledge and other people's knowledge form a venn diagram")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EHpbwJgg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.interviewcake.com/images/svgs/imposter_syndrome__venn_diagram.svg%3Fbust%3D165)
+[![Your knowledge and other people's knowledge form a venn diagram](img/92d635b03228003f176d85698cb3cf99.png "Your knowledge and other people's knowledge form a venn diagram")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EHpbwJgg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.interviewcake.cimg/svgs/imposter_syndrome__venn_diagram.svg%3Fbust%3D165)
 
 你知道的东西有一整块是艾莎和布鲁诺都不知道的。一个你可能忽视的领域，因为你太专注于你不知道的东西。
 

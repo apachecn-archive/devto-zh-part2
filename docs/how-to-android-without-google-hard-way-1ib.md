@@ -143,7 +143,7 @@
 
 前往浏览器应用程序，打开 OpenStreetMaps(或任何你想要的地图/位置服务)，允许它访问设备的位置，并点击显示你的位置。
 
-[![Test Locations](../Images/c9cf1cd04b5b4aa290a765e7eeea7e4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--glTbJUjX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bytemybits.gitlab.io/post-content/2018-05-23/test-locations.png)
+[![Test Locations](img/c9cf1cd04b5b4aa290a765e7eeea7e4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--glTbJUjX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bytemybits.gitlab.io/post-content/2018-05-23/test-locations.png)
 
 #### 推送通知
 
@@ -153,7 +153,7 @@
 
 运行它应该会得到所有绿色的勾选框，最后会有一个推送通知。
 
-[![Push Notifications Test](../Images/73e8fe18637cd2c0972ca770f3af0c37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cmMC47l4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bytemybits.gitlab.io/post-content/2018-05-23/push-notification-test.png)
+[![Push Notifications Test](img/73e8fe18637cd2c0972ca770f3af0c37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cmMC47l4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bytemybits.gitlab.io/post-content/2018-05-23/push-notification-test.png)
 
 就这样，你正式拥有了一个运行 Android 的全功能设备**，没有 T2**的任何功能！
 

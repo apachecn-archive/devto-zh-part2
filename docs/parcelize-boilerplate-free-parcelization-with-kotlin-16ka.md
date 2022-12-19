@@ -56,7 +56,7 @@ public class MyObject implements Parcelable {
 
 我们已经使用它很多年了，但是如果你一直在使用类似于 [Parceler](https://github.com/johncarl81/parceler) 的东西，或者如果你现在已经习惯了最小化的 Kotlin 代码，那么你的反应可能是这样的:
 
-[![Gross!](../Images/214c0f5a37adb19dea583c09cf19e22e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dZBM-5_t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media.giphy.com/media/pVAMI8QYM42n6/giphy.gif%23center)
+[![Gross!](img/214c0f5a37adb19dea583c09cf19e22e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dZBM-5_t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media.giphy.com/media/pVAMI8QYM42n6/giphy.gif%23center)
 
 ## 科特林来救援了(又来了？！)
 

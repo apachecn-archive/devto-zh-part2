@@ -4,7 +4,7 @@
 
 > 工作中的干扰会让人抓狂。加州大学欧文分校的研究人员经过仔细观察后发现，典型的办公室工作人员平均每三分钟零五秒就会被打断或转换任务。回到他们离开的地方可能需要 23 分 15 秒。乔纳森·斯皮拉，《超载！太多的信息对您的组织有多危险”，估计中断和信息过载每年会消耗 280 亿个小时，给美国经济造成近 1 万亿美元的损失。https://www . Washington post . com/news/inspired-life/WP/2015/06/01/工作中的干扰会让你一天损失 6 个小时----如何避免它们？utm_term=.f7d3c2f49fb5
 
-[![](../Images/c2038d73869fffc2cb7d980d0dac290a.png)T2】](http://www.youtube.com/watch?v=qeMFqkcPYcg)
+[![](img/c2038d73869fffc2cb7d980d0dac290a.png)T2】](http://www.youtube.com/watch?v=qeMFqkcPYcg)
 
 这项研究发布已经好几年了，你能想象 23 分钟回到你的专注模式吗？有数百篇文章、统计数据和书籍都是关于职场干扰问题的。
 

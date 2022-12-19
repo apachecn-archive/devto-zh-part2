@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/mcflat/did-you-build-your-house-on-the-rock-of-truth-or-the-sand-of-lies-1n50>
 
-[![](../Images/b6384fea308fbf9d9c6b08ab416f6215.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jY21mY-O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mgjiic0u6jvs5gf0nr2x.jpeg)
+[![](img/b6384fea308fbf9d9c6b08ab416f6215.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jY21mY-O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mgjiic0u6jvs5gf0nr2x.jpeg)
 
 NASA 我们有个问题。我们的部署脚本不再工作了。
 
@@ -10,35 +10,35 @@ NASA 我们有个问题。我们的部署脚本不再工作了。
 
 毫无疑问，在科技行业中，你会遇到“部署”这个术语，对于这个术语，很多人使用火箭发射到“太空”的图像。
 
-[![](../Images/0612f57f51256282d1b27cdbe1fd586c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H1tvQ-WT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/omi55fxani12hnj8w5m2.jpg)
+[![](img/0612f57f51256282d1b27cdbe1fd586c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H1tvQ-WT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/omi55fxani12hnj8w5m2.jpg)
 
 一切都很好，直到这些火箭开始向远处倾斜。然后你可能要开始提问了。我是不是对部署过程过于信任了？这是真的还是只是你的想象？
 
-[![](../Images/698a17018f00015c1397aba56a624591.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vc6Oevsz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m8jirnuyqxlsg5a7grty.jpg)
+[![](img/698a17018f00015c1397aba56a624591.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vc6Oevsz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m8jirnuyqxlsg5a7grty.jpg)
 
-[![](../Images/10a6b01b9fdb4d1552f19d775da78c20.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vG12Q9vq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/km5exiimq6vkbxdoi2ff.jpg)
+[![](img/10a6b01b9fdb4d1552f19d775da78c20.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vG12Q9vq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/km5exiimq6vkbxdoi2ff.jpg)
 
 看起来这并不重要，但事实是，事情远比看上去的要复杂。
 
-[![](../Images/f570f98d10eaabe1cc3511fcd18f2373.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CNYEo6z4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b0xbrfshnnqzctrm0ph5.png)
+[![](img/f570f98d10eaabe1cc3511fcd18f2373.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CNYEo6z4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b0xbrfshnnqzctrm0ph5.png)
 
 不仅有很多证明地球真实形状的证据，而且有解密的政府文件证明他们知道真相，只是他们喜欢对你我和其他人隐瞒。我敢打赌，如果你知道现实，你今天的生活会有很大的不同，毫无疑问。
 
-[![](../Images/723f4acc36fd72c049cdbb7d9ce6092b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wgOTWSSS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mly42twm6614aoz78j98.jpg)
+[![](img/723f4acc36fd72c049cdbb7d9ce6092b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wgOTWSSS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mly42twm6614aoz78j98.jpg)
 
-[![](../Images/a35290ef9ea7a950b1c86bb13b9f448d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6DH_DSxg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m9ngvmdrf2qydviyt69s.jpg)
+[![](img/a35290ef9ea7a950b1c86bb13b9f448d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6DH_DSxg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m9ngvmdrf2qydviyt69s.jpg)
 
 我向你发出挑战，向我证明地球是一个球体！你会发现，甚至有人愿意给任何人 10 万美元，如果他们能证明地球确实是一个球体。如果你能证明给我看，那么毫无疑问你能证明给他们收 100k。你准备好迎接挑战了吗？Youtube 搜索“100000 平地球挑战”，别忘了查看这些频道的其他视频。
 
-[![](../Images/24123bde99587065957b5b63117c0020.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BgsYILx7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u8hhccpp0tg1ijlq032a.jpg)
+[![](img/24123bde99587065957b5b63117c0020.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BgsYILx7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u8hhccpp0tg1ijlq032a.jpg)
 
 要找到答案，你必须自己去研究。请注意，在野外有相当多的虚假信息，真的只有那些能够放下他们一生中所知道的一切重新开始的人才能找到真相。
 
-[![](../Images/a7b8223447dbe1514946b2f67c5fca7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_LxmqDtv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fsa7rbmsbrrm6id566ox.jpg)
+[![](img/a7b8223447dbe1514946b2f67c5fca7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_LxmqDtv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fsa7rbmsbrrm6id566ox.jpg)
 
 YouTube 上有很多很棒的视频频道，人们可以在那里谈论不同的话题。有些人知道发生了什么，有些人不知道，所以你必须半信半疑，真正倾听人们的意见，并亲自研究他们在谈论什么。不要仅仅因为某人这么说或者甚至因为他们做了测试就相信他们，亲自去做实际的测试来看看结果。
 
-[![](../Images/00aec645d4d17bb4ff6280eee258631e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2FRopO2G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xx0c1cyzvhme07s998oo.jpg)
+[![](img/00aec645d4d17bb4ff6280eee258631e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2FRopO2G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xx0c1cyzvhme07s998oo.jpg)
 
 [https://www.youtube.com/channel/UCG7dQ1yYLMtereOsH80u2jQ](https://www.youtube.com/channel/UCG7dQ1yYLMtereOsH80u2jQ)
 
@@ -50,7 +50,7 @@ YouTube 上有很多很棒的视频频道，人们可以在那里谈论不同的
 
 事实上，所有这些我们如此热爱的技术将会被那些控制世界的人用来控制人类，而且很快，时间很短，他们将会被用来杀人。
 
-[![](../Images/07216a282dd35f367cd3caa3852b6b1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fWGrxebW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kln8xgiej3t07o38e9wl.jpeg)
+[![](img/07216a282dd35f367cd3caa3852b6b1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fWGrxebW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kln8xgiej3t07o38e9wl.jpeg)
 
 在圣经中说，在最后的时代，真相会出现，这只是一个问题，如果你对真相感兴趣，并寻求它，如果它会影响你的生活！他们说地球 500 年来一直是一个球体，但那是谎言，如果你做一些研究，你会发现仅仅在 100 年前，他们会因为一个人在学校教孩子们地球理论而处以私刑。平坦的地球事实上是真理。运行政府的撒旦教徒在对立面上工作！如果你认为“平地球理论”是愚蠢的，那么你太相信这个试图杀死你并偷走你灵魂的系统了！你的灵魂比世界上所有的财富都有价值！寻求真相，它会让你从撒旦的精神控制中解放出来。作为做研究的结果，你会变得真正聪明，做你想做的或者做上帝想做的，你决定吧！
 
@@ -109,7 +109,7 @@ Youtube 搜索“理查布鲁斯”
 
 *   诗篇 96-[https://biblehub.com/kjv/psalms/96.htm](https://biblehub.com/kjv/psalms/96.htm)
 
-[![](../Images/9219a125d8e39b4acf02572ce43c8f41.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--demeHqjK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/elf6v2a9znthj7k8cws9.jpg)
+[![](img/9219a125d8e39b4acf02572ce43c8f41.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--demeHqjK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/elf6v2a9znthj7k8cws9.jpg)
 
 太阳之前创造的地球
 

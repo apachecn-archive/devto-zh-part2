@@ -92,7 +92,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 因为不是每个浏览器都支持 ES6/7/Next 特性，所以在浏览器上导航什么可以，什么不可以很快成为一个[雷区](http://kangax.github.io/compat-table/es2016plus/):
 
-[![compat-table](../Images/59346d3403397306ca18ca34b614b259.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L8dgwXXE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jes.al/public/wp-content/uploads/compat-table.png)
+[![compat-table](img/59346d3403397306ca18ca34b614b259.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L8dgwXXE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jes.al/public/wp-content/uploads/compat-table.png)
 
 这就是巴别尔的用武之地。它提供了一些令人惊叹的插件，通过将现代 JS 转换成可以在我们指定的每种浏览器上工作的东西，使得编写现代 JavaScript 变得轻而易举。
 
@@ -194,7 +194,7 @@ Webpack 将识别这些动态导入，并将它们代码分割成单独的块。
 
 如果我们可以在后台预加载这些依赖项，那么当我们调用`myfun`时，这些依赖项已经可用并准备就绪，会怎么样？这就是[预加载插件](https://github.com/GoogleChromeLabs/preload-webpack-plugin)的用武之地。
 
-[![preload plugin](../Images/90c50d9e2aeffb4be29d03021a5604be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kyRz_awW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cloud.githubusercontent.com/assets/110953/22451103/7700b812-e720-11e6-89e8-a6d4e3533159.png)
+[![preload plugin](img/90c50d9e2aeffb4be29d03021a5604be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kyRz_awW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cloud.githubusercontent.com/assets/110953/22451103/7700b812-e720-11e6-89e8-a6d4e3533159.png)
 
 它使用 [Preload](https://w3c.github.io/preload/) web 标准来声明性地让浏览器知道某个特定的资源将很快被需要，这样它就可以开始加载它。
 
@@ -260,7 +260,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 **[Webpack 捆绑包分析器](https://github.com/webpack-contrib/webpack-bundle-analyzer)**
 
-[![Webpack Bundle Analyzer](../Images/4420a709885fa3825d8a099ee029c24e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dtO0cVoQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cloud.githubusercontent.com/assets/302213/20628702/93f72404-b338-11e6-92d4-9a365550a701.gif)
+[![Webpack Bundle Analyzer](img/4420a709885fa3825d8a099ee029c24e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dtO0cVoQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cloud.githubusercontent.com/assets/302213/20628702/93f72404-b338-11e6-92d4-9a365550a701.gif)
 
 您可以通过安装:`npm install --save-dev webpack-bundle-analyzer`并将其添加到您的 Webpack 配置:
 来进行设置
@@ -279,7 +279,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 **[Webpack 监视器](http://webpackmonitor.com/index.html)**
 
-[![Webpack Monitor](../Images/784572e3008584bd5b599dd83789d21c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I-xSTw65--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://webpackmonitor.com/img/overview.gif)
+[![Webpack Monitor](img/784572e3008584bd5b599dd83789d21c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I-xSTw65--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://webpackmonitor.com/img/overview.gif)
 
 这是我第二喜欢的工具，它提供了与 Webpack Bundle Analyzer 相同的信息，但是除了提供了一种监视一段时间内的 Bundle 历史的方法之外，它的方式略有不同。
 

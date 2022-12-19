@@ -8,7 +8,7 @@
 
 <figure>
 
-[![Testing is a piece of cake](../Images/d9f06576442e4c2186d27b48c7f5d2f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wMtMJFCH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/12ad7sjuaotvawcyy2vg.gif)
+[![Testing is a piece of cake](img/d9f06576442e4c2186d27b48c7f5d2f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wMtMJFCH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/12ad7sjuaotvawcyy2vg.gif)
 
 <figcaption>Testing is a piece of cake.</figcaption>
 
@@ -36,7 +36,7 @@ UI-licious 的目标之一是使 bug 复制报告尽可能清晰、完整和明�
 
 <figure>
 
-[![Highlights for interaction commands](../Images/c4733f052d06a94fc269a77dd3d4f910.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_TL-2pxs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4r4hv6phwhwyu67a88sv.png)
+[![Highlights for interaction commands](img/c4733f052d06a94fc269a77dd3d4f910.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_TL-2pxs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4r4hv6phwhwyu67a88sv.png)
 
 <figcaption>Now you can see better! 🤓</figcaption>
 
@@ -48,7 +48,7 @@ UI-licious 的目标之一是使 bug 复制报告尽可能清晰、完整和明�
 
 <figure>
 
-[![Taking full page screenshots](../Images/130d68ea4f73053980d131b9ccb78655.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---kvxjEnF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5x93t3llzwgkck8cdqre.gif)
+[![Taking full page screenshots](img/130d68ea4f73053980d131b9ccb78655.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---kvxjEnF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5x93t3llzwgkck8cdqre.gif)
 
 <figcaption>Hm… let’s do a bit of window shopping today…</figcaption>
 
@@ -60,7 +60,7 @@ UI-licious 的目标之一是使 bug 复制报告尽可能清晰、完整和明�
 
 <figure>
 
-[![How to set the browser user agent](../Images/3f285c4e164a73dca4862d9be3694503.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LWVYHwZO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gqsugjqchncnkcsks7yy.gif)
+[![How to set the browser user agent](img/3f285c4e164a73dca4862d9be3694503.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LWVYHwZO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gqsugjqchncnkcsks7yy.gif)
 
 <figcaption>How to set the user agent for a test run</figcaption>
 

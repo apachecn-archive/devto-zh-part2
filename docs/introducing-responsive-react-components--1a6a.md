@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/flexdinesh/introducing-responsive-react-components--1a6a>
 
-[![Responsive React Components](../Images/ea3f2c2258c7af30505a3572ee4e9dde.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bFlNNeXQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/hXCL70/responsive-react-banner.png)
+[![Responsive React Components](img/ea3f2c2258c7af30505a3572ee4e9dde.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bFlNNeXQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/hXCL70/responsive-react-banner.png)
 
 **TL；博士** - *你可以在 React 中用一行程序渲染视口特定的组件*
 

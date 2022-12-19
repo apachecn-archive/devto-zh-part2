@@ -6,7 +6,7 @@
 
 查看 IT 和转型失败的主要原因，我们发现测试是一个主要的棘手问题。不应该。由于过程驱动的测试，您已经掌握了推动成功的一切。
 
-| 2018 年第二期 | [![](../Images/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue2/SAG_Testing_Makes_It_TECHniques_Apr18_WEB.pdf) |
+| 2018 年第二期 | [![](img/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue2/SAG_Testing_Makes_It_TECHniques_Apr18_WEB.pdf) |
 | --- | --- |
 
 ## 我有 99 个问题，但测试不是其中之一——你确定吗？
@@ -43,11 +43,11 @@ ARIS 测试设计器支持面向过程的测试，因此您可以依赖快速，
 
 比方说，哪些流程异常不太重要，不需要马上测试？如果您让您的最终用户来做，所有这些知识都包含在测试路径设计中。此外，它将增加最终用户对新流程和系统的接受度，因为它们突然对业务产生了更大的影响。
 
-[![](../Images/70f9b31e05f13d1c10f1bab748b51c11.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1OmpbJZJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/testing1.jpg/b8c12a5b-d7b9-458c-adfb-729a9d2f299c%3Ft%3D1523613406927) 
+[![](img/70f9b31e05f13d1c10f1bab748b51c11.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1OmpbJZJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/testing1.jpg/b8c12a5b-d7b9-458c-adfb-729a9d2f299c%3Ft%3D1523613406927) 
 
 *图 VAD 中的测试路径选择*
 
-[![](../Images/9d7229715f96ddab0d0b9e28a1b9de93.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Kw1_WHD6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/testing2.jpg/2f9cb6bd-e97f-4034-b98f-89cbb88ea202%3Ft%3D1523613411114) 
+[![](img/9d7229715f96ddab0d0b9e28a1b9de93.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Kw1_WHD6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/testing2.jpg/2f9cb6bd-e97f-4034-b98f-89cbb88ea202%3Ft%3D1523613411114) 
 
 *图 EPC 中的测试路径选择*
 
@@ -55,7 +55,7 @@ ARIS 测试设计器支持面向过程的测试，因此您可以依赖快速，
 
 当然，有时你需要创建全面的测试用例，并遍历所有可能的过程路径。由于在一个业务流程中有两个或三个决策已经增加了可能的测试路径的数量，您可以想象在一个完整的业务案例中会有多少种可能性。为了帮助你，ARIS 测试设计提供自动化或半自动测试设计。设计测试的用户可以在几个选项中进行选择:要么自动创建所有可能的测试路径，要么生成自动建议的测试路径的选择。
 
-[![](../Images/c9beed1bfa73b689cde97b17a9514df1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hIxvs-JX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/testing3.jpg/2699b4ee-dbd7-47b0-9185-ff229bf95f1e%3Ft%3D1523613415223) 
+[![](img/c9beed1bfa73b689cde97b17a9514df1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hIxvs-JX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/testing3.jpg/2699b4ee-dbd7-47b0-9185-ff229bf95f1e%3Ft%3D1523613415223) 
 
 *图 3:自动化测试路径生成*
 
@@ -63,7 +63,7 @@ ARIS 测试设计器支持面向过程的测试，因此您可以依赖快速，
 
 测试人员需要的不仅仅是过程流信息。这就是 ARIS 测试设计器自动生成测试用例文档的原因。您只需运行一个报告，并选择您想要在您的测试用例文档中使用的信息。比如:要不要:包含流程图？添加测试数据以便直接重用还是不重用？是否插入模型描述？按下 report 按钮，测试用例就创建好了，可以使用了。
 
-[![](../Images/320933717e741878273ae3bbee8f9995.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SFXC1XI6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/testing4.jpg/1fa1a28c-b734-4fdd-92ab-2598b03ec5e5%3Ft%3D1523613419073) 
+[![](img/320933717e741878273ae3bbee8f9995.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SFXC1XI6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/testing4.jpg/1fa1a28c-b734-4fdd-92ab-2598b03ec5e5%3Ft%3D1523613419073) 
 
 *图 4:测试文件中测试路径的显示*
 

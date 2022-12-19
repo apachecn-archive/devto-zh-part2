@@ -6,7 +6,7 @@
 
 这篇文章描述了我们如何使用 k8s 及其工具栈在生产级环境中运行我们的应用程序。
 
-<figure>[![](../Images/bad76bdd6a52883af361b361bb4257d4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--L2dPRExq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AG9OVxt8KHclvgfedgmyV-Q.png) 
+<figure>[![](img/bad76bdd6a52883af361b361bb4257d4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--L2dPRExq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AG9OVxt8KHclvgfedgmyV-Q.png) 
 
 <figcaption>谷歌趋势图显示了人们对各种集装箱调度程序的兴趣如何随时间变化。</figcaption>
 

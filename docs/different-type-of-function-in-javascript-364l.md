@@ -4,7 +4,7 @@
 
 # JavaScript 中不同类型的函数
 
-[![leaf](../Images/1f4d828f2cc30ae63d1b659dac4177b6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lk3IcSk6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ttlwr60fom463mm0vzcm.png) 
+[![leaf](img/1f4d828f2cc30ae63d1b659dac4177b6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lk3IcSk6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ttlwr60fom463mm0vzcm.png) 
 照片由[马库斯·斯皮斯克](https://unsplash.com/photos/QVVXPNbjLrI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)在 [Unsplash](https://unsplash.com/)
 
 JavaScript 函数是为执行特定任务而设计的代码块。

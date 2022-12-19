@@ -13,6 +13,6 @@
 3.  点击它。不要从那里直接关机。
 4.  在里面你会发现一个关闭声音的选项。
 
-[![](../Images/a36d9812eb1af7dce151c3e0d2160a26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_LpVt5UO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jn8zon9rz11r1ai78l8z.png)
+[![](img/a36d9812eb1af7dce151c3e0d2160a26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_LpVt5UO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jn8zon9rz11r1ai78l8z.png)
 
-[![](../Images/35f2b9ca0f8777983664a0e02f7acbdf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3qNVvM3P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w48wgvkwt84mso41mio5.png)
+[![](img/35f2b9ca0f8777983664a0e02f7acbdf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3qNVvM3P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w48wgvkwt84mso41mio5.png)

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/devmazee2057282/php-package-caller-1043>
 
-## ![](../Images/375dfcc32199b4dedf2b526645c27ff7.png) [福伯](https://github.com/fobber) / [来电者](https://github.com/fobber/caller)
+## ![](img/375dfcc32199b4dedf2b526645c27ff7.png) [福伯](https://github.com/fobber) / [来电者](https://github.com/fobber/caller)
 
 ### 用于调用函数、闭包、类和方法的库。
 

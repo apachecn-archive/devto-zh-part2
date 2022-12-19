@@ -44,7 +44,7 @@ public void withdrawWithoutLimitAssignedThrowsIllegalStateException() {
 
 图中转换的语法是`command[condition] / commandHandler()`。它的意思是:当一个命令对象被接收，并且条件被满足时，处理这个命令并进入下一个状态。
 
-[![State machine](../Images/51ac408bf56b46903856de11f30a0d04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IsFVxafc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3laq9tz8h82nwvjsmugv.png)
+[![State machine](img/51ac408bf56b46903856de11f30a0d04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IsFVxafc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3laq9tz8h82nwvjsmugv.png)
 
 模型决定了什么是允许发生的，什么是不允许发生的。比如:提现后才有可能还款。
 
@@ -52,7 +52,7 @@ public void withdrawWithoutLimitAssignedThrowsIllegalStateException() {
 
 这就是为什么在状态机中比在原始代码中有更多重复的`if`语句。减少重复次数的一种方法是使用*超状态*和*子状态*:
 
-[![State machine with sub states](../Images/04d0a5a14d8d023af79f0f92959c2ad6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CCZSYf5s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2cwl67ddaa64l2szlp4s.png)
+[![State machine with sub states](img/04d0a5a14d8d023af79f0f92959c2ad6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CCZSYf5s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2cwl67ddaa64l2szlp4s.png)
 
 在状态机模型中定义依赖于状态的行为是很容易的。但是像*这样的状态独立规则在任何状态下(当条件 X 成立时)，do Y* 会导致几个跃迁。例如，我需要将`requestToCloseCycle`添加到每个超级状态中。
 

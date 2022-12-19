@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/wiaio/how-to-install-nodejs-on-any-raspberry-pi-53fb>
 
-[![alt text](../Images/88f1cf7fc574b5efcda8567fe7e5e59b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NpohKnsq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-07-03/1530621440-312950-blog-nodejs-9touvegvpm.jpeg) 
+[![alt text](img/88f1cf7fc574b5efcda8567fe7e5e59b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NpohKnsq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-07-03/1530621440-312950-blog-nodejs-9touvegvpm.jpeg) 
 大家好，
 这里有一个快速教程，告诉你如何在任何树莓 Pi 上安装 Node.js。当登录到您的 Pi(通过 SSH 或桌面)时，依次运行以下 5 个命令:
 

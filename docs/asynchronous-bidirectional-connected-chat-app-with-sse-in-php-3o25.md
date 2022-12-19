@@ -12,7 +12,7 @@
 
 通常，你上网时使用*同步*、*服务器- >客户端*连接。这篇文章很好地解释了这种类型的连接，这叫做 HTTP。
 
-[![antonfrattaroli image](../Images/59e0bcd8f2b669cc860fcba7fd6723b7.png)](/antonfrattaroli) [## 当你在浏览器中输入“google.com”并按回车键时会发生什么？
+[![antonfrattaroli image](img/59e0bcd8f2b669cc860fcba7fd6723b7.png)](/antonfrattaroli) [## 当你在浏览器中输入“google.com”并按回车键时会发生什么？
 
 ### 安东·弗拉塔罗利 19 年 7 月 18 日 15 分钟阅读
 

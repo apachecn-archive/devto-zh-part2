@@ -24,7 +24,7 @@ Nuxt.js 为您做出的一个选择是，您的应用程序应该能够在服务
 
 服务器呈现的页面提供一整页 HTML，可立即呈现，然后在客户端用 JavaScript“合成”页面，以增加交互性，并将页面转换为单页面应用程序(SPA ),以供将来导航。
 
-[![](../Images/df6e5a68567d6bf5d7d10092f0b06ac5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tNsimoIu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zendev.com/assets/img/posts/nuxt-architecture/ujs-architecture.jpg)
+[![](img/df6e5a68567d6bf5d7d10092f0b06ac5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tNsimoIu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zendev.com/assets/img/posts/nuxt-architecture/ujs-architecture.jpg)
 
 这意味着 Nuxt 应用程序是使用 API 接口加载数据的独立的 JavaScript 应用程序，而不是嵌入在另一个服务器端应用程序框架中或分层到静态 HTML 上。
 

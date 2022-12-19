@@ -8,7 +8,7 @@
 
 这个函数的作用是——它让你的函数每隔`10ms`运行一次，比如在使用 Windows 窗体的时候。因为这样的事件不直接存在于 Windows 窗体中，所以我们可以一起使用几个不同的事件来获得相同的结果。
 
-[![World maker](../Images/72c11bf719a9bb43e75adbfbe52b7198.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GtzX1BxR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8y9rtet77l1w0s06nr9h.PNG)
+[![World maker](img/72c11bf719a9bb43e75adbfbe52b7198.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GtzX1BxR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8y9rtet77l1w0s06nr9h.PNG)
 
 **有两种情况:**
 
@@ -35,7 +35,7 @@ this->timerMouseDrag->Interval = 10;
 ```
 
 对于任何刚刚使用 Visual Studio 设计视图的人来说，这不会变得更容易:
-[![Visual Studio Properties](../Images/66bc419a89b5de719cfc8d2d018c34e8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--p4wzerTr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dlydfegf82f6os6s6cxk.PNG)
+[![Visual Studio Properties](img/66bc419a89b5de719cfc8d2d018c34e8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--p4wzerTr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dlydfegf82f6os6s6cxk.PNG)
 
 * * *
 

@@ -213,7 +213,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，你可以创建并发布一个至少有一段文字和一个标题的帖子:
 
-[![A post in the content studio with Hello World in the title field](../Images/25c831758eaed2023b7bafdf6cffbf1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ECcUpiOR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.io/images/3do82whm/production/01bc987afc3baa6c026f5fe99b74f5d4c2a5c041-1125x316.png%3Fw%3D1000)
+[![A post in the content studio with Hello World in the title field](img/25c831758eaed2023b7bafdf6cffbf1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ECcUpiOR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.img/3do82whm/production/01bc987afc3baa6c026f5fe99b74f5d4c2a5c041-1125x316.png%3Fw%3D1000)
 
 转到[http://localhost:3000/Hello-world](http://localhost:3000/hello-world)并确认 H1 拼写为“Hello world！”。现在，您已经成功地将前端与理智连接起来。🎉
 
@@ -221,11 +221,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 在 Content Studio 中，您会发现，您可以为作者和类别添加条目。去添加至少一个有图片的作者。
 
-[![Content Studio with author name and image filled out](../Images/c3234d354c2f3f81b634bcc545768ee0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v-xaX71P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.io/images/3do82whm/production/070502c8d3fe8a28fab737dd3869be3220363782-1208x833.png%3Fw%3D1000%26h%3D350%26fit%3Dmax)
+[![Content Studio with author name and image filled out](img/c3234d354c2f3f81b634bcc545768ee0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v-xaX71P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.img/3do82whm/production/070502c8d3fe8a28fab737dd3869be3220363782-1208x833.png%3Fw%3D1000%26h%3D350%26fit%3Dmax)
 
 回到你的博客文章，在作者栏附上这个作者，像这样:
 
-[![Animated GIF of typing in Knut Melvær as the author in the reference field](../Images/98340bdd638c0e66c607f3ae9a3b7955.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q_hx07kC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.sanity.io/images/3do82whm/production/2da04a862d99dc1a179aaef911857ddb37384c78-601x447.gif%3Fw%3D1000%26h%3D350%26fit%3Dmax)
+[![Animated GIF of typing in Knut Melvær as the author in the reference field](img/98340bdd638c0e66c607f3ae9a3b7955.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q_hx07kC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.sanity.img/3do82whm/production/2da04a862d99dc1a179aaef911857ddb37384c78-601x447.gif%3Fw%3D1000%26h%3D350%26fit%3Dmax)
 
 发布更改，然后回到代码编辑器。我们刚才所做的是引用一位来自博客帖子的作者。引用是健全性的一个强大部分，它使得跨类型连接和重用内容成为可能。如果检查你的块文档(`ctrl + alt/opt + i`)，你会看到这个对象看起来像这样:
 
@@ -261,7 +261,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们试着对类别做同样的事情。首先，在 Content Studio 中创建至少两个类别。我给 Next.js 加了一个，给*教程*加了一个。
 
-[![Next.js and Tutorials as categories in an array field](../Images/896d013bececeb621321ed37cb0d63be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yQtjlpGJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.io/images/3do82whm/production/39c9adb5a886d2a5fa4fc183cfafe5dc136b8514-663x273.png%3Fw%3D1000%26h%3D350%26fit%3Dmax)
+[![Next.js and Tutorials as categories in an array field](img/896d013bececeb621321ed37cb0d63be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yQtjlpGJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.img/3do82whm/production/39c9adb5a886d2a5fa4fc183cfafe5dc136b8514-663x273.png%3Fw%3D1000%26h%3D350%26fit%3Dmax)
 
 现在我们的博客文章中有了一系列对类别的引用。如果您在文档检查器中取一个峰值，您会看到这些显示为作者条目，带有`_ref` -id 的对象。所以我们也必须使用投影来得到这些。
 
@@ -397,7 +397,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我还加了一个叫`imageOptions`的道具，控制图像的默认输出。就是这样！您可以[定制不同元素的输出，甚至通过发送我们称之为“序列化器”的东西来添加您自己的定制块类型](https://github.com/sanity-io/block-content-to-react)——我们将在另一篇博客文章中介绍这些。
 
-[![Webpage showing the content from Sanity rendered through Next.js](../Images/8be1507f1ab237727318908e82061c01.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zCxJjr1e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.io/images/3do82whm/production/0897b09dd01278a99a7386611e943f652076efe1-785x578.png%3Fw%3D1000%26h%3D350%26fit%3Dmax)
+[![Webpage showing the content from Sanity rendered through Next.js](img/8be1507f1ab237727318908e82061c01.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zCxJjr1e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.img/3do82whm/production/0897b09dd01278a99a7386611e943f652076efe1-785x578.png%3Fw%3D1000%26h%3D350%26fit%3Dmax)
 
 本教程到此结束！当谈到为一个非常常见的内容设置编写前端层时，我们现在已经涉及了很多内容，但是仅仅涉及了我们可以通过结合使用 Sanity 和 React 来完成的功能和漂亮的事情的冰山一角。
 

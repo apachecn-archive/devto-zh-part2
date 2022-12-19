@@ -25,7 +25,7 @@ yarn start
 
 当您运行`create-react-app`时，您将获得一个新文件夹，其中包含您需要开始的所有内容，并且您需要的所有依赖项都将使用`yarn`在本地安装。当你在文件夹中输入`yarn start`时，你就启动了前端开发服务器，当你编辑任何文件时，它都会自动更新。
 
-[![create-react-app bootstrapped app](../Images/356db2a44542d22c9e31b593f7f804d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--omDWRpIf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/graphql-express-react/create-react-app-f1bc3c3d59d01040f1ce6ae716e14f647788afd5451d5d87c4b63bfa2f43985a.png)
+[![create-react-app bootstrapped app](img/356db2a44542d22c9e31b593f7f804d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--omDWRpIf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/graphql-express-react/create-react-app-f1bc3c3d59d01040f1ce6ae716e14f647788afd5451d5d87c4b63bfa2f43985a.png)
 
 ## 创建 GraphQL 服务器
 
@@ -168,7 +168,7 @@ yarn add -D nodemon@1.18.4 npm-run-all@4.1.3
 
 将浏览器指向`http://localhost:4000/graphql`以获取 GraphiQL 服务器。在服务器中修改一些代码后，您可以随时回到这里进行刷新，以查看最新的模式并测试您的查询。
 
-[![GraphiQL](../Images/a82b36b49e15dc1ebcceeeb572c9808e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1M0Yttwk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/graphql-express-react/graphiql-743319c6b059cfd1ed5bc28394749854af242b7f56d5c8521d43e106d548e9f0.png)
+[![GraphiQL](img/a82b36b49e15dc1ebcceeeb572c9808e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1M0Yttwk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/graphql-express-react/graphiql-743319c6b059cfd1ed5bc28394749854af242b7f56d5c8521d43e106d548e9f0.png)
 
 ## 连接 React 到 GraphQL
 
@@ -283,7 +283,7 @@ export default App;
 
 现在如果你去`http://localhost:3000`你应该会看到这个:
 
-[![plain table](../Images/45b7e6a8a25e599eeb1b2a119c34275a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZvM62ZmQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/graphql-express-react/plain-table-596b8d563739fbc4032de03fe94e3501bbfd156cdd7193bc49a053d2d5ea16b5.png)
+[![plain table](img/45b7e6a8a25e599eeb1b2a119c34275a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZvM62ZmQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/graphql-express-react/plain-table-596b8d563739fbc4032de03fe94e3501bbfd156cdd7193bc49a053d2d5ea16b5.png)
 
 ## 增加了在 GraphQL 中编辑帖子的能力
 
@@ -325,7 +325,7 @@ submitPost: ({ input: { id, author, body } }) => {
 
 如果你提供了一个`id`，它将试图在该索引处找到文章，并用提供的`author`和`body`替换数据。否则，它会添加一个新帖子。然后它返回您提供的文章以及新的`id`。当您向 GraphQL 发送一个突变请求时，您可以定义想要返回哪些片段:
 
-[![submit post](../Images/b7b65c4d6e673650342240efcd464727.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hVV2Zee5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/graphql-express-react/submit-post-d2e4223335b436d4e6a5110e2f64b9d8ddfda355f2ea54477d8815bcefbc7aee.png)
+[![submit post](img/b7b65c4d6e673650342240efcd464727.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hVV2Zee5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/graphql-express-react/submit-post-d2e4223335b436d4e6a5110e2f64b9d8ddfda355f2ea54477d8815bcefbc7aee.png)
 
 对于前端，您需要创建一个新的组件来编辑帖子。React 中的表单可以通过一个名为[最终表单](https://github.com/final-form/react-final-form)的库来简化。用`yarn` :
 安装
@@ -599,7 +599,7 @@ export default App;
 
 因为 Create React App 默认运行在端口 3000 上，所以您应该将其添加为基本 URI 和登录重定向 URI。您的设置应该如下所示:
 
-[![create new application settings](../Images/c79b88714c50f220fb595318380dccc4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bb_2UYjc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/graphql-express-react/create-new-application-settings-31cf8fdf708dbb8c222e9e5dd07b7e89f53cc2bae6b5c69acf427a44faadaeef.png)
+[![create new application settings](img/c79b88714c50f220fb595318380dccc4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bb_2UYjc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/graphql-express-react/create-new-application-settings-31cf8fdf708dbb8c222e9e5dd07b7e89f53cc2bae6b5c69acf427a44faadaeef.png)
 
 点击**完成**保存你的应用，然后复制你的**客户端 ID** 并作为一个变量粘贴到你的项目根目录下的一个名为`.env.local`的文件中。这将允许您在代码中访问该文件，而无需在源代码管理中存储凭据。您还需要添加您的组织 URL(不带`-admin`后缀)。环境变量(除了`NODE_ENV`之外)需要以`REACT_APP_`开头，以便 Create React App 读取它们，因此文件应该看起来像这样:
 

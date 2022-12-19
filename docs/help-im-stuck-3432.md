@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/munamohamed94/help-im-stuck-3432>
 
-[![](../Images/32aff49d3ba12fb04b2c0df73db1ee86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xZ_pV5fx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6x0xcejgrfnapxqrmtgi.jpg)
+[![](img/32aff49d3ba12fb04b2c0df73db1ee86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xZ_pV5fx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6x0xcejgrfnapxqrmtgi.jpg)
 
 *有哪些不使数组再次变异的 Javascript 数组方法？*
 

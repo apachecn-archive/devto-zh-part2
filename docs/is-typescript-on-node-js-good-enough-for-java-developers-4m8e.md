@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/is-typescript-on-node-js-good-enough-for-java-developers-4m8e>
 
-[![](../Images/93d5cd2a5bb63c6d237fd04b571d5a99.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PeWK46uh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/672/1%2A0ei2MOQxAzF7krm-v60wnQ.jpeg)
+[![](img/93d5cd2a5bb63c6d237fd04b571d5a99.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PeWK46uh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/672/1%2A0ei2MOQxAzF7krm-v60wnQ.jpeg)
 
 你时不时会遇到讨厌 Javascript 的古怪程序员。他们认为 JavaScript 很糟糕，因为它缺乏类型检查或任何严格的东西。他们会坚持认为企业级系统需要一定程度的严格性，这只能在严格类型的语言中找到(比如 Java、C#或 C++)。
 
@@ -14,7 +14,7 @@
 
 在本文中，我将从一个经验丰富的 Java 程序员的角度评估 Typescript，他已经掌握了 JavaScript、Node.js 和 Vue.js 等。在很大程度上。我很好奇 Typescript 能在多大程度上提高我用 JavaScript 编码的能力。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### 工装和设置
 
@@ -701,7 +701,7 @@ Typescript 的主要缺点是它的类型检查只在编译时执行。正如我
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-<figure>[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+<figure>[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption></figcaption>
 

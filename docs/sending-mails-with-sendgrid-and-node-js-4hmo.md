@@ -4,7 +4,7 @@
 
 本质上，在每个 web 应用程序中，都需要向用户发送电子邮件。在本文中，我将向您展示设置 Sendgrid 和向用户发送电子邮件是多么容易。我们将建立一个简单的模块来处理邮件发送。
 
-[![Image result for nodejs](../Images/124b29e83c6673bb634f8228bd898f02.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oVSG-si3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2A-8kIoJKyDn-j1WPgfTvmew.jpeg)
+[![Image result for nodejs](img/124b29e83c6673bb634f8228bd898f02.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oVSG-si3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2A-8kIoJKyDn-j1WPgfTvmew.jpeg)
 
 #### 安装发送网格
 
@@ -89,7 +89,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 > 通过[swithdevelop1@gmail.com](mailto:swithdevelop1@gmail.com)联系我，并在[推特](https://twitter.com/feezyhendrix)上关注我。
 
-[![](../Images/33903af16c503067312230fd680a660d.png)T2】](http://bit.ly/codeburst)
+[![](img/33903af16c503067312230fd680a660d.png)T2】](http://bit.ly/codeburst)
 
 > ✉️ *订阅* CodeBurst 的*一周一次*[***email blast***](http://bit.ly/codeburst-email)*🐦*跟随* CodeBurst *上*[***Twitter***](http://bit.ly/codeburst-twitter)*，查看*🗺️[***2018 Web 开发者路线图***](http://bit.ly/2018-web-dev-roadmap) *，以及* 🕸️ [***学全栈 web 开发***](http://bit.ly/learn-web-dev-codeburst) *。**
 

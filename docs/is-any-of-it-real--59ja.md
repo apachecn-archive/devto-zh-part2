@@ -6,4 +6,4 @@
 
 机器人先生
 
-[![Elliot](../Images/6376c6f3dbd9b7c1246732e008f81b6b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j86eLGgY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.giphy.com/media/142ht9cM1eimqI/200w.webp)
+[![Elliot](img/6376c6f3dbd9b7c1246732e008f81b6b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j86eLGgY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.giphy.com/media/142ht9cM1eimqI/200w.webp)

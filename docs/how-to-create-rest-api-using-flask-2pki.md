@@ -4,7 +4,7 @@
 
 [Flask](http://flask.pocoo.org/) 是 [python](https://www.python.org/) 的微框架，可用于开发 web 应用。在本文中，我们将看到如何使用 [Flask-RESTful](https://flask-restful.readthedocs.io/en/latest/) 在 Flask 中创建 RESTful APIs。
 
-[![Alt text of image](../Images/202ca21065188ad3cf4939abfcf27ec3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zU_nTrxf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.com/images/rest_api_flask.png)
+[![Alt text of image](img/202ca21065188ad3cf4939abfcf27ec3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zU_nTrxf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.cimg/rest_api_flask.png)
 
 ## 安装
 

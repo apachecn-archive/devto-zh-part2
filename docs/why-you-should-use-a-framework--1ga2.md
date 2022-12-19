@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/silkster/why-you-should-use-a-framework--1ga2>
 
-[![](../Images/c0c3b0bc01dc1fae03d94ef4040f7802.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TpwmrauK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/obihcgs4wkecxupcnm1q.png)
+[![](img/c0c3b0bc01dc1fae03d94ef4040f7802.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TpwmrauK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/obihcgs4wkecxupcnm1q.png)
 
 每当我看到这样的评论:“[框架让你们都变成了糟糕的开发人员](https://dev.to/gypsydave5/why-you-shouldnt-use-a-web-framework-3g24)”，我想作者只是采访了一个不能回答基本问题的人，或者是参加了一个会议，会上一个初级开发人员建议对一个页面作出反应。
 
@@ -24,7 +24,7 @@
 
 建立网站不是火箭科学，所以从零开始真的没有那么难，但是框架的存在是因为，除了时间和金钱，很容易出错。如果你自己动手做，我保证你会忘记一些最终会让你难堪的事情。
 
-[![](../Images/30840fd7268da38d267ea2f3e0c01c8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XQtmupgP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wznro5umovdkmtna3sl0.jpg)
+[![](img/30840fd7268da38d267ea2f3e0c01c8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XQtmupgP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wznro5umovdkmtna3sl0.jpg)
 
 如果有人说不要使用新的框架，我会同意。为原型等测试驱动新的框架，但是为你的真实世界项目使用稳定、可靠和经过测试的框架。
 
@@ -46,7 +46,7 @@
 
 我采访过很多前端开发人员，每次他们中有人将 jQuery 与 JavaScript 互换使用时，我都会感到害怕。不要那样做！尤其是在面试的时候。
 
-[![](../Images/135e5f2cba45a2f32676510aee494de4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Yq72T_B2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qy7pb3ywr603vcqy1c99.jpg)
+[![](img/135e5f2cba45a2f32676510aee494de4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Yq72T_B2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qy7pb3ywr603vcqy1c99.jpg)
 
 当有人说“不要做这个”或“做那个”时，不要全信。除非是你的老板，而你又没有好的反驳理由。
 

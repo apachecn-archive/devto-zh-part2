@@ -4,7 +4,7 @@
 
 通过 NativeScript 制作的神圣古兰经应用程序。
 
-## ![](../Images/375dfcc32199b4dedf2b526645c27ff7.png)[sarfraznawaz 2005](https://github.com/sarfraznawaz2005)/[nativescript-holyquran](https://github.com/sarfraznawaz2005/nativescript-holyquran)
+## ![](img/375dfcc32199b4dedf2b526645c27ff7.png)[sarfraznawaz 2005](https://github.com/sarfraznawaz2005)/[nativescript-holyquran](https://github.com/sarfraznawaz2005/nativescript-holyquran)
 
 ### 神圣的古兰经应用程序与英语/乌尔都语翻译。
 
@@ -26,19 +26,19 @@
 
 ## 截屏
 
-[![Screenshot](../Images/008b6eda47c404f98423b7d4a78eec1c.png)T2】](https://raw.githubusercontent.com/sarfraznawaz2005/nativescript-holyquran/master/screen1.png)
+[![Screenshot](img/008b6eda47c404f98423b7d4a78eec1c.png)T2】](https://raw.githubusercontent.com/sarfraznawaz2005/nativescript-holyquran/master/screen1.png)
 
-[![Screenshot](../Images/9e5b95619830f7a1984204838e49d20f.png)T2】](https://raw.githubusercontent.com/sarfraznawaz2005/nativescript-holyquran/master/screen2.png)
+[![Screenshot](img/9e5b95619830f7a1984204838e49d20f.png)T2】](https://raw.githubusercontent.com/sarfraznawaz2005/nativescript-holyquran/master/screen2.png)
 
-[![Screenshot](../Images/0635c45cea40bd44dc1500fba0330d34.png)T2】](https://raw.githubusercontent.com/sarfraznawaz2005/nativescript-holyquran/master/screen3.png)
+[![Screenshot](img/0635c45cea40bd44dc1500fba0330d34.png)T2】](https://raw.githubusercontent.com/sarfraznawaz2005/nativescript-holyquran/master/screen3.png)
 
-[![Screenshot](../Images/9cceb1c0f007b5abdb29d45e792af6cc.png)T2】](https://raw.githubusercontent.com/sarfraznawaz2005/nativescript-holyquran/master/screen4.png)
+[![Screenshot](img/9cceb1c0f007b5abdb29d45e792af6cc.png)T2】](https://raw.githubusercontent.com/sarfraznawaz2005/nativescript-holyquran/master/screen4.png)
 
-[![Screenshot](../Images/204d1497d0b3c59fadeeddfce3ce7ea0.png)T2】](https://raw.githubusercontent.com/sarfraznawaz2005/nativescript-holyquran/master/screen5.png)
+[![Screenshot](img/204d1497d0b3c59fadeeddfce3ce7ea0.png)T2】](https://raw.githubusercontent.com/sarfraznawaz2005/nativescript-holyquran/master/screen5.png)
 
-[![Screenshot](../Images/2dbca7759042bda2088262864200aa01.png)T2】](https://raw.githubusercontent.com/sarfraznawaz2005/nativescript-holyquran/master/screen6.png)
+[![Screenshot](img/2dbca7759042bda2088262864200aa01.png)T2】](https://raw.githubusercontent.com/sarfraznawaz2005/nativescript-holyquran/master/screen6.png)
 
-[![Screenshot](../Images/6b1676cb373ddbde501544acbf6a41cb.png)T2】](https://raw.githubusercontent.com/sarfraznawaz2005/nativescript-holyquran/master/screen7.png)
+[![Screenshot](img/6b1676cb373ddbde501544acbf6a41cb.png)T2】](https://raw.githubusercontent.com/sarfraznawaz2005/nativescript-holyquran/master/screen7.png)
 
 ### [下载 APK](https://github.com/sarfraznawaz2005/nativescript-holyquran/raw/master/holyquran.apk)
 

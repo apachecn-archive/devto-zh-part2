@@ -12,7 +12,7 @@
 
 出于演示目的，我们将使用 Aspose 将下面的[示例 Microsoft Visio 文档](https://github.com/shakeel-faiz/Screenshots-and-Sample-Files/blob/master/Convert%20Microsoft%20Visio%20Document%20to%20PDF/sampleConvertMicrosoftVisioDocumentToPDF.vsdx)转换为 Java 中的 PDF。Java 的图表。但是，您可以在示例代码中使用您选择的任何 Microsoft Visio 文档，它也将被转换为 PDF fine。
 
-[![Sample Microsoft Visio Document to be converted to PDF using Aspose.Diagram API.](../Images/ee57f24dea8efebb85a4ad5060c29458.png "Sample Microsoft Visio Document to be converted to PDF using Aspose.Diagram API.")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2ry7OLs2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/shakeel-faiz/Screenshots-and-Sample-Files/master/Convert%2520Microsoft%2520Visio%2520Document%2520to%2520PDF/Microsoft-Visio-Document-converted-PDF-Aspose.Diagram.png)
+[![Sample Microsoft Visio Document to be converted to PDF using Aspose.Diagram API.](img/ee57f24dea8efebb85a4ad5060c29458.png "Sample Microsoft Visio Document to be converted to PDF using Aspose.Diagram API.")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2ry7OLs2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/shakeel-faiz/Screenshots-and-Sample-Files/master/Convert%2520Microsoft%2520Visio%2520Document%2520to%2520PDF/Microsoft-Visio-Document-converted-PDF-Aspose.Diagram.png)
 
 # 发牌
 

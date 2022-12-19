@@ -8,11 +8,11 @@
 
 计算我们在学校学到的一组数据的平均值的通常方法是将所有值相加(总计)，然后除以值的数量(计数):
 
-[![mean = total/count](../Images/4574f27233692c5ef5cf339fca567fdc.png "mean = total / count")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ChKRp_Ij--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m6gaye6s0vuyd1b78g8c.png)
+[![mean = total/count](img/4574f27233692c5ef5cf339fca567fdc.png "mean = total / count")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ChKRp_Ij--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m6gaye6s0vuyd1b78g8c.png)
 
 下面是描述我刚才写的内容的数学符号:
 
-[![arithmetic mean formula](../Images/6a9e9702b8638cb8fb25ae6816ae8192.png "arithmetic mean formula")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2qmJ3aEy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o4j4e8jumxflb0jx8uwo.png)
+[![arithmetic mean formula](img/6a9e9702b8638cb8fb25ae6816ae8192.png "arithmetic mean formula")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2qmJ3aEy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o4j4e8jumxflb0jx8uwo.png)
 
 下面是一个简单的 javascript 函数，它使用这种简单的方法来获得平均值:
 
@@ -49,35 +49,35 @@ Enter fullscreen mode Exit fullscreen mode
 
 好，让我们从之前看到的平均值公式开始:
 
-[![arithmetic mean formula](../Images/6a9e9702b8638cb8fb25ae6816ae8192.png "arithmetic mean formula")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2qmJ3aEy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o4j4e8jumxflb0jx8uwo.png)
+[![arithmetic mean formula](img/6a9e9702b8638cb8fb25ae6816ae8192.png "arithmetic mean formula")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2qmJ3aEy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o4j4e8jumxflb0jx8uwo.png)
 
 让我们拆分总和，这样我们首先将前 n-1 个值相加，然后我们将最后一个值 x <sub>n</sub> 相加。
 
-[![arithmetic mean split](../Images/6930a6b1bb139200323c4b7e6a12bfdb.png "arithmetic mean split")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O0WyDquH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yclplm85jp0x9z4m9wnh.png)
+[![arithmetic mean split](img/6930a6b1bb139200323c4b7e6a12bfdb.png "arithmetic mean split")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O0WyDquH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yclplm85jp0x9z4m9wnh.png)
 
 我们知道平均值=总数/计数:
 
-[![average of first n-1 values](../Images/56f0e58605658ae1533db2b73ff30356.png "average of first n-1 values")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--75GYK9tL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s3wonz2r1rg3k6e79cq9.png)
+[![average of first n-1 values](img/56f0e58605658ae1533db2b73ff30356.png "average of first n-1 values")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--75GYK9tL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s3wonz2r1rg3k6e79cq9.png)
 
 让我们稍微重新排列一下:
 
-[![sum to n-1 = mean of n-1 values * n-1](../Images/593dc78185c7bf8e590045a8c6d05987.png "sum to n-1 = mean of n-1 values * n-1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yh_7MaYZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fj6tmxj7n3r1golo7nky.png)
+[![sum to n-1 = mean of n-1 values * n-1](img/593dc78185c7bf8e590045a8c6d05987.png "sum to n-1 = mean of n-1 values * n-1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yh_7MaYZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fj6tmxj7n3r1golo7nky.png)
 
 以下是将上述替换应用于前 n-1 个值的结果:
 
-[![result of substitution](../Images/f8d6826e059e9f99d17410300fd6592e.png "result of substitution")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W3X5VhL2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e9kkjin6zcsedxfvhy6e.png)
+[![result of substitution](img/f8d6826e059e9f99d17410300fd6592e.png "result of substitution")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W3X5VhL2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e9kkjin6zcsedxfvhy6e.png)
 
 让我们扩展一下:
 
-[![expansion](../Images/3efdaeb90c32167c48695943b68c8fba.png "expansion")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YQRhQujz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vniaouvrqc3jp9br8guy.png)
+[![expansion](img/3efdaeb90c32167c48695943b68c8fba.png "expansion")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YQRhQujz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vniaouvrqc3jp9br8guy.png)
 
 稍微重新排列一下，我们得到:
 
-[![rearrange expression](../Images/461b1b3bce84bf21b1a3e1b9e36dd2a6.png "rearrange expression")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Sj9cbC3a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yirl7hs5nibjrmg18hxh.png)
+[![rearrange expression](img/461b1b3bce84bf21b1a3e1b9e36dd2a6.png "rearrange expression")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Sj9cbC3a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yirl7hs5nibjrmg18hxh.png)
 
 我们可以取消第一部分中的`n`，以获得最终结果:
 
-[![cancel out n's](../Images/f31697c76a308a985346a80299a3af29.png "cancel out n's")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TBSUP3lH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yhd6bgnjexpbg51gx5l3.png)
+[![cancel out n's](img/f31697c76a308a985346a80299a3af29.png "cancel out n's")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TBSUP3lH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yhd6bgnjexpbg51gx5l3.png)
 
 这一切到底意味着什么？我们现在有一个递归关系，它定义了第 n 个值的平均值，如下所示:对前 n-1 个值的平均值加上一个微分。每次我们增加一个新值，我们所要做的就是计算这个差值，并把它加到之前的平均值上。这现在变成了新的平均值。
 
@@ -147,23 +147,23 @@ Enter fullscreen mode Exit fullscreen mode
 > 
 > 我们将从均值的递推关系开始:
 > 
-> [![recurrence relation for mean](../Images/f31697c76a308a985346a80299a3af29.png "recurrence relation for mean")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TBSUP3lH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yhd6bgnjexpbg51gx5l3.png)
+> [![recurrence relation for mean](img/f31697c76a308a985346a80299a3af29.png "recurrence relation for mean")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TBSUP3lH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yhd6bgnjexpbg51gx5l3.png)
 > 
 > 让我们从两边减去右边的第一项，得到我们的微分值:
 > 
-> [![subtract](../Images/42d4d00d3b16bd3f2384b2083d92e847.png "subtract")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vT9KXsGo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8u4lfssnd1uuj7a85axp.png)
+> [![subtract](img/42d4d00d3b16bd3f2384b2083d92e847.png "subtract")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vT9KXsGo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8u4lfssnd1uuj7a85axp.png)
 > 
 > 现在让我们乘以 n:
 > 
-> [![multiply by n](../Images/6d3790a29333eb7279dfae82db7d7585.png "multiply by n")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f3CICilB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ogy6x57jlycck2ardfmy.png)
+> [![multiply by n](img/6d3790a29333eb7279dfae82db7d7585.png "multiply by n")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f3CICilB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ogy6x57jlycck2ardfmy.png)
 > 
 > 让我们把两边都乘以-1:
 > 
-> [![multiply by -1](../Images/705ee9fedb3cbdf9d56f497ae33dffc1.png "multiply by -1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3uIBnOVm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qts7u9mqpw2fkt1kdk68.png)
+> [![multiply by -1](img/705ee9fedb3cbdf9d56f497ae33dffc1.png "multiply by -1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3uIBnOVm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qts7u9mqpw2fkt1kdk68.png)
 > 
 > 最后，让我们通过两边乘以-1:
 > 
-> [![multiply -1 through](../Images/02387566a603476e52fb9c1e17ee2338.png "multiply -1 through")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eQqHMXlK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8dbnrfwyumt3xbph6o31.png)
+> [![multiply -1 through](img/02387566a603476e52fb9c1e17ee2338.png "multiply -1 through")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eQqHMXlK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8dbnrfwyumt3xbph6o31.png)
 > 
 > 我们现在只保留这个恒等式，但它在第 2 部分会很有用，在第 2 部分中，我们将推导出增量计算方差和标准差的公式。
 

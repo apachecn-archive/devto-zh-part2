@@ -69,7 +69,7 @@ volumes:
 
 运行`docker-compose up -d`(并将`solr.drupal.development`的条目添加到您的主机文件中)之后，您将在 solr 中看到以下错误:
 
-[![](../Images/09cee70589756b1f30ae176902bdf7f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s_ylRGp5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_B9921B2B19B493AF2F7DA42223C9598F9068F4CEAFE3B4757DB813CAC4A9C716_1520144934510_image.png)
+[![](img/09cee70589756b1f30ae176902bdf7f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s_ylRGp5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_B9921B2B19B493AF2F7DA42223C9598F9068F4CEAFE3B4757DB813CAC4A9C716_1520144934510_image.png)
 
 这是因为用户和 uid 必须与 solr 进程在 solr 容器中运行的用户相匹配。为了解决这个问题，我们必须创建另一个容器来修复内核写入索引的位置。
 
@@ -134,11 +134,11 @@ $ docker-compose exec --user=82 php drupal moi search_api_solr_defaults
 
 转到 Search API configs ( `/admin/config/search/search-api`)，您将看到一个新的 Solr 服务器条目，尽管有错误，因为它缺少服务器名称和它将使用的核心。
 
-[![](../Images/341176a424fe98f2fcb09d9e9ee766bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sXONkfn0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_B9921B2B19B493AF2F7DA42223C9598F9068F4CEAFE3B4757DB813CAC4A9C716_1520146790065_image.png)
+[![](img/341176a424fe98f2fcb09d9e9ee766bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sXONkfn0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_B9921B2B19B493AF2F7DA42223C9598F9068F4CEAFE3B4757DB813CAC4A9C716_1520146790065_image.png)
 
 点击编辑，设置主机(即。solr 容器名， *solr* )和我们之前创建的核心(*博客*):
 
-[![](../Images/4738211ab27142faa59af6a01ea0db59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SC2Kif1l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_B9921B2B19B493AF2F7DA42223C9598F9068F4CEAFE3B4757DB813CAC4A9C716_1520147362408_image.png)
+[![](img/4738211ab27142faa59af6a01ea0db59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SC2Kif1l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_B9921B2B19B493AF2F7DA42223C9598F9068F4CEAFE3B4757DB813CAC4A9C716_1520147362408_image.png)
 
 单击 save，当您返回到 Search API config 页面时，应该能够看到所有的绿色。你现在可以开始使用你的 solar 服务器进行搜索了。
 

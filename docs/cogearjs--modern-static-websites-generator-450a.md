@@ -102,7 +102,7 @@ $ cogear production # build a site and run local server
 
 Github 库:
 
-## ![](../Images/375dfcc32199b4dedf2b526645c27ff7.png)[codemotion](https://github.com/codemotion)/[cogear . js](https://github.com/codemotion/cogear.js)
+## ![](img/375dfcc32199b4dedf2b526645c27ff7.png)[codemotion](https://github.com/codemotion)/[cogear . js](https://github.com/codemotion/cogear.js)
 
 ### 现代静态网站生成器(Node.JS/Webpack)
 
@@ -122,13 +122,13 @@ Github 库:
 
 # 介绍视频
 
-[![Introduction to Cogear.JS](../Images/acee6f42d9ce86c915917cff17931f2e.png)T2】](https://youtu.be/nDga67P6lag?list=PLBuIATAeU0NWhrpWnI--TRG76DwAgem1I "Introduction to Cogear.JS")
+[![Introduction to Cogear.JS](img/acee6f42d9ce86c915917cff17931f2e.png)T2】](https://youtu.be/nDga67P6lag?list=PLBuIATAeU0NWhrpWnI--TRG76DwAgem1I "Introduction to Cogear.JS")
 
 ## 特征
 
-*   <g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥</g-emoji> **现代堆栈技术**用捆绑的脚本和样式构建现代静态网站。快速制作原型并立即部署到服务器上。使用**任何现代前端栈** ( **webpack** 捆绑)–[Vue。JS](https://vuejs.org) 、[反应](https://reactjs.org)、[角度](https://angular.io)、[余光](https://emberjs.org)等。
-*   <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> **超快可靠**每秒执行近 1.000 页(取决于页面内容和原始计算机处理器能力)。在线。服务器每秒钟可以处理数千个请求来服务静态文件(甚至在微型 VPS 上)。
-*   <g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> **对于任何主机**都不需要**任何数据库**(数据存储在平面…
+*   <g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f5a5.png">🖥</g-emoji> **现代堆栈技术**用捆绑的脚本和样式构建现代静态网站。快速制作原型并立即部署到服务器上。使用**任何现代前端栈** ( **webpack** 捆绑)–[Vue。JS](https://vuejs.org) 、[反应](https://reactjs.org)、[角度](https://angular.io)、[余光](https://emberjs.org)等。
+*   <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f680.png">🚀</g-emoji> **超快可靠**每秒执行近 1.000 页(取决于页面内容和原始计算机处理器能力)。在线。服务器每秒钟可以处理数千个请求来服务静态文件(甚至在微型 VPS 上)。
+*   <g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f4e6.png">📦</g-emoji> **对于任何主机**都不需要**任何数据库**(数据存储在平面…
 
 </article>
 

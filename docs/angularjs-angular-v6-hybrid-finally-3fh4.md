@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/roelofjanelsinga/angularjs-angular-v6-hybrid-finally-3fh4>
 
-[!["Sports car"](../Images/134baa84f796c654550c339d1d91df2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kKfvJfDe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/czqt5aux9jsggfdkjprt.jpeg)
+[!["Sports car"](img/134baa84f796c654550c339d1d91df2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kKfvJfDe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/czqt5aux9jsggfdkjprt.jpeg)
 
 # AngularJS + Angular (v6)混血儿(终于！)
 

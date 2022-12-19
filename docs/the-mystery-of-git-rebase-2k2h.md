@@ -18,7 +18,7 @@
 
 <figure>
 
-[![Amends](../Images/7893df9f217e41b7d371f656a3c006cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2OZ88SVt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n99krmiy8jjaptjocp9q.jpg)
+[![Amends](img/7893df9f217e41b7d371f656a3c006cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2OZ88SVt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n99krmiy8jjaptjocp9q.jpg)
 
 <figcaption>"broken ceramic plate on floor" by [chuttersnap](https://unsplash.com/@chuttersnap) on [Unsplash](https://unsplash.com)</figcaption>
 
@@ -76,7 +76,7 @@ git commit --amend --author "Author Name <Author Email>"
 
 <figure>
 
-[![merge](../Images/5c0b5e2caa634c9eefa4e6eda4dfddd6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F5S1lZPh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yswzlv0jtew96eo8dqca.jpg)
+[![merge](img/5c0b5e2caa634c9eefa4e6eda4dfddd6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F5S1lZPh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yswzlv0jtew96eo8dqca.jpg)
 
 <figcaption>Here is how the commit history would look in your local repository.</figcaption>
 
@@ -92,7 +92,7 @@ git commit --amend --author "Author Name <Author Email>"
 
 <figure>
 
-[![branches](../Images/8dece6b511289b29f04709f0307f9bf8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CJLtCjhz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/57ffuenbtxj0b3h84k8q.jpg)
+[![branches](img/8dece6b511289b29f04709f0307f9bf8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CJLtCjhz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/57ffuenbtxj0b3h84k8q.jpg)
 
 <figcaption>This diagram shows the commits in the release branch and your feature branch</figcaption>
 
@@ -121,7 +121,7 @@ Rebasing 尝试逐个添加每个提交，并检查冲突。这听起来令人�
 
 这显示了 rebasing 在内部实际做了什么:
 
-[![rebase](../Images/b1b182fa75ed90e906d74679800dce48.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pNxsSy-s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bjyz80xr9597lwv3jjzc.jpg)
+[![rebase](img/b1b182fa75ed90e906d74679800dce48.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pNxsSy-s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bjyz80xr9597lwv3jjzc.jpg)
 
 ## 第一步
 

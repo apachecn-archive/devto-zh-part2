@@ -8,7 +8,7 @@
 
 我们引入 [API 工具](https://github.com/subor/sdk/blob/master/docs/topics/build_sdk_source.md#thrift)的原因之一是让它更容易与我们的[一起工作。节俭接口定义文件](https://github.com/subor/sdk/tree/master/ThriftFiles) :
 
-[![](../Images/730a745f9d5b3df73c25c4fcbbd16c8e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hSolpWEs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/devtool_apitool_rs.png)
+[![](img/730a745f9d5b3df73c25c4fcbbd16c8e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hSolpWEs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/devtool_apitool_rs.png)
 
 点击**生成**处理所有节俭文件:
 
@@ -287,7 +287,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 不幸的是，看起来 VS 代码中的 Rust“智能感知”还没有完全实现。键入`client.`后，我期望`get_current_language()`等人被建议，但只出现了`TThriftClient`水暖:
 
-[![](../Images/e121755e9544e597e3231c31f45d6f47.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jDN5hUNa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/vscode_rust_intellisense_fail.png)
+[![](img/e121755e9544e597e3231c31f45d6f47.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jDN5hUNa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/vscode_rust_intellisense_fail.png)
 
 如果客户端 RPC 调用失败:
 

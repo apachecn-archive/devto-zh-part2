@@ -97,4 +97,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 后台线程的限制之一是它**不能**做任何修改 UI 的事情。任何 UI 修改代码都必须从创建 UI 的原始线程运行——也就是 UI 线程。如果你需要从后台线程改变用户界面(就像这样)，你可以调用 **Activity** 类的 **runOnUiThread** 方法。它采用一个 Runnable 类型(再次)，你可以把所有的 UI 修改代码放在这个 Runnable 类型的 **run** 方法上
 
-[![](../Images/718192f0986734efc71075b977b15273.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n6ltkEdn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/WorkingDev/%257E4/ZRJYu-8XNVk)
+[![](img/718192f0986734efc71075b977b15273.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n6ltkEdn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/WorkingDev/%257E4/ZRJYu-8XNVk)

@@ -4,7 +4,7 @@
 
 我对我的多显示器布置非常满意，并愿意分享我的设置。
 
-[![Windows 95 CD-ROM](../Images/c4ef6ea6041f923270a6054a5e499941.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qmQmcNZ_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.geekytidbits.com/media/multiple-displays.jpg)
+[![Windows 95 CD-ROM](img/c4ef6ea6041f923270a6054a5e499941.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qmQmcNZ_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.geekytidbits.com/media/multiple-displays.jpg)
 
 ## 初级
 

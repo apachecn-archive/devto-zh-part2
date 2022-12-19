@@ -4,13 +4,13 @@
 
 简单的 laravel 包来备份/恢复文件和数据库。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)[sarfraznawaz 2005](https://github.com/sarfraznawaz2005)/[备份经理](https://github.com/sarfraznawaz2005/backupmanager)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)[sarfraznawaz 2005](https://github.com/sarfraznawaz2005)/[备份经理](https://github.com/sarfraznawaz2005/backupmanager)
 
 ### 简单的 laravel 包来备份/恢复文件和数据库。
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-[![Latest Version on Packagist](../Images/e6327a1b93f86a38dab83054cea7e9b9.png) ](https://packagist.org/packages/sarfraznawaz2005/backupmanager) [ ![Total Downloads](../Images/81ea39c37edb8ee03834493a44bd31ec.png)](https://packagist.org/packages/sarfraznawaz2005/backupmanager)
+[![Latest Version on Packagist](img/e6327a1b93f86a38dab83054cea7e9b9.png) ](https://packagist.org/packages/sarfraznawaz2005/backupmanager) [ ![Total Downloads](img/81ea39c37edb8ee03834493a44bd31ec.png)](https://packagist.org/packages/sarfraznawaz2005/backupmanager)
 
 # Laravel 备份管理员
 
@@ -18,7 +18,7 @@
 
 ## 屏幕上显示程序运行的图片
 
-[![Main Window](../Images/a1fae3e868cd35191c501ab8a683f516.png)T2】](https://github.com/sarfraznawaz2005/backupmanager/blob/master/screen.gif?raw=true)
+[![Main Window](img/a1fae3e868cd35191c501ab8a683f516.png)T2】](https://github.com/sarfraznawaz2005/backupmanager/blob/master/screen.gif?raw=true)
 
 ## 要求
 

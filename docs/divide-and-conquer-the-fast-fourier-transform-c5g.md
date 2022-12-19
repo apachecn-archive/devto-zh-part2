@@ -16,7 +16,7 @@
 
 这是将时域信号 x(t)转换为频域信号 X(f)的等式:
 
-[![](../Images/2c3d537c977d0e482bb53ab760c8272f.png "$X(f) = \int_{-\infty}^{\infty}{x(t)}e^{-j2\pi t}dt$")T2】](http://www.codecogs.com/eqnedit.php?latex=%24X(f)&space;=&space;%5Cint_%7B-%5Cinfty%7D%5E%7B%5Cinfty%7D%7Bx(t)%7De%5E%7B-j2%5Cpi&space;t%7Ddt%24)
+[![](img/2c3d537c977d0e482bb53ab760c8272f.png "$X(f) = \int_{-\infty}^{\infty}{x(t)}e^{-j2\pi t}dt$")T2】](http://www.codecogs.com/eqnedit.php?latex=%24X(f)&space;=&space;%5Cint_%7B-%5Cinfty%7D%5E%7B%5Cinfty%7D%7Bx(t)%7De%5E%7B-j2%5Cpi&space;t%7Ddt%24)
 
 其中 t 是时间，f 是以 Hz 为单位的频率。
 
@@ -25,18 +25,18 @@
 1.  几乎所有存在的信号都可以由余弦和正弦信号的和组成，甚至包括非周期性的连续时间信号。
     *   例如，衰减的指数信号
 
-[![](../Images/07a9e44317af0ea9a192dba5100d1b25.png "$x(t) = e^{-t}u(t)$")](http://www.codecogs.com/eqnedit.php?latex=%24x(t)&space;=&space;e%5E%7B-t%7Du(t)%24) 有频率: [![](../Images/21601f3aa4af175039acccbc7971e98a.png "X(f) = \frac{1}{1 + j2\pi f}")](http://www.codecogs.com/eqnedit.php?latex=X(f)&space;=&space;%5Cfrac%7B1%7D%7B1&space;&plus;&space;j2%5Cpi&space;f%7D)
+[![](img/07a9e44317af0ea9a192dba5100d1b25.png "$x(t) = e^{-t}u(t)$")](http://www.codecogs.com/eqnedit.php?latex=%24x(t)&space;=&space;e%5E%7B-t%7Du(t)%24) 有频率: [![](img/21601f3aa4af175039acccbc7971e98a.png "X(f) = \frac{1}{1 + j2\pi f}")](http://www.codecogs.com/eqnedit.php?latex=X(f)&space;=&space;%5Cfrac%7B1%7D%7B1&space;&plus;&space;j2%5Cpi&space;f%7D)
 
 其幅度看起来像这样:
-- [![Fourier Transform](../Images/2afa379afe61b7a7e13a5d26fc271d52.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--99E98kUm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qmsde0ac0zkp70meiz62.png) 
+- [![Fourier Transform](img/2afa379afe61b7a7e13a5d26fc271d52.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--99E98kUm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qmsde0ac0zkp70meiz62.png) 
 -你可能知道电容器通过指数衰减来响应电压脉冲，随着时间的推移慢慢释放其积累的电压。因此，指数衰减的频率构成在较低频率下较大，在较高频率下较小，这一事实直观上是有道理的，因为只有当输入值变化足够慢，足以允许放电过程发生时，电容两端的电压才会看起来像输入。这就是为什么频率范围在这种情况下看起来是这样的。
 -注意:负频率是正弦和余弦信号的一部分。当我们对时间信号进行数学建模时，这是保持时间信号“真实”的原因，这将在下面解释。
 
 1.  我们可以利用欧拉的性质建立数学上方便的方程:
-    *   [![](../Images/e8b84033486ac33199968a3dc345cba0.png "e^{j2\pi ft} = \cos(2\pi ft) + j\sin(2\pi ft)")T2】](http://www.codecogs.com/eqnedit.php?latex=e%5E%7Bj2%5Cpi&space;ft%7D&space;=&space;%5Ccos(2%5Cpi&space;ft)&space;&plus;&space;j%5Csin(2%5Cpi&space;ft))
-    *   [![](../Images/f6a181d87e354250eb23d6278ef9e145.png "e^{-j2\pi ft} = \cos(2\pi ft) - j\sin(2\pi ft)")T2】](http://www.codecogs.com/eqnedit.php?latex=e%5E%7B-j2%5Cpi&space;ft%7D&space;=&space;%5Ccos(2%5Cpi&space;ft)&space;-&space;j%5Csin(2%5Cpi&space;ft))
-    *   [![](../Images/59d94f2cad08ea87c04ea06972e2c037.png "\cos(2\pi ft) = \frac12(e^{j2\pi t} + e^{-j2\pi t})")T2】](http://www.codecogs.com/eqnedit.php?latex=%5Ccos(2%5Cpi&space;ft)&space;=&space;%5Cfrac12(e%5E%7Bj2%5Cpi&space;t%7D&space;&plus;&space;e%5E%7B-j2%5Cpi&space;t%7D))
-    *   [![](../Images/05e3523ec1a528f378f026fe07fcc375.png "\sin(2\pi ft) = \frac{1}{2j}(e^{j2\pi t} - e^{-j2\pi t})")T2】](http://www.codecogs.com/eqnedit.php?latex=%5Csin(2%5Cpi&space;ft)&space;=&space;%5Cfrac%7B1%7D%7B2j%7D(e%5E%7Bj2%5Cpi&space;t%7D&space;-&space;e%5E%7B-j2%5Cpi&space;t%7D))
+    *   [![](img/e8b84033486ac33199968a3dc345cba0.png "e^{j2\pi ft} = \cos(2\pi ft) + j\sin(2\pi ft)")T2】](http://www.codecogs.com/eqnedit.php?latex=e%5E%7Bj2%5Cpi&space;ft%7D&space;=&space;%5Ccos(2%5Cpi&space;ft)&space;&plus;&space;j%5Csin(2%5Cpi&space;ft))
+    *   [![](img/f6a181d87e354250eb23d6278ef9e145.png "e^{-j2\pi ft} = \cos(2\pi ft) - j\sin(2\pi ft)")T2】](http://www.codecogs.com/eqnedit.php?latex=e%5E%7B-j2%5Cpi&space;ft%7D&space;=&space;%5Ccos(2%5Cpi&space;ft)&space;-&space;j%5Csin(2%5Cpi&space;ft))
+    *   [![](img/59d94f2cad08ea87c04ea06972e2c037.png "\cos(2\pi ft) = \frac12(e^{j2\pi t} + e^{-j2\pi t})")T2】](http://www.codecogs.com/eqnedit.php?latex=%5Ccos(2%5Cpi&space;ft)&space;=&space;%5Cfrac12(e%5E%7Bj2%5Cpi&space;t%7D&space;&plus;&space;e%5E%7B-j2%5Cpi&space;t%7D))
+    *   [![](img/05e3523ec1a528f378f026fe07fcc375.png "\sin(2\pi ft) = \frac{1}{2j}(e^{j2\pi t} - e^{-j2\pi t})")T2】](http://www.codecogs.com/eqnedit.php?latex=%5Csin(2%5Cpi&space;ft)&space;=&space;%5Cfrac%7B1%7D%7B2j%7D(e%5E%7Bj2%5Cpi&space;t%7D&space;-&space;e%5E%7B-j2%5Cpi&space;t%7D))
         *   不要对虚数感到困惑。它们是在频域中显示相角数据的一种方式。实时信号永远不会变成“虚的”时间信号——虚的部分总是会抵消，给你一个正弦和余弦的混合体。
         *   请注意，这说明了为什么负频率对于以这种方式模拟正弦曲线是必要的。
 
@@ -49,12 +49,12 @@
 1.  将无限的 CT 信号转换成离散时间的有限大小的信号。这可以通过对有限数量的样本进行采样和量化来实现。如果采样速率> =信号最高频率成分(即奈奎斯特频率)的两倍，则可以避免混叠。这通常由专用硬件来完成。然而，我们现在关心的是如何使用这些样本，而不是如何获得它们。
 2.  改变获取信号频域的公式，使其能够处理有限大小的采样数据点阵列，而不是无限连续的时间信号。因此，我们需要求和来代替积分，我们使用采样数据数组的大小来代替无穷大小:
 
-    *   不过还有一个问题——非周期信号的频域，不管离散与否，仍然是连续的——所以我们不能在计算机上操纵它。这个问题的答案是离散傅立叶变换，离散时间信号的傅立叶变换的周期性采样版本。为此，我们可以将频率项替换为在 n 个样本上将其分成相等部分的一项: [![](../Images/a36c64d40ed36cb14e54d1ceabea583f.png "2\pi f \Rightarrow \frac{2\pi k}{N}")](http://www.codecogs.com/eqnedit.php?latex=2%5Cpi&space;f&space;%5CRightarrow&space;%5Cfrac%7B2%5Cpi&space;k%7D%7BN%7D) 其中我们评估 k^th 样本，总共有 n 个样本。
+    *   不过还有一个问题——非周期信号的频域，不管离散与否，仍然是连续的——所以我们不能在计算机上操纵它。这个问题的答案是离散傅立叶变换，离散时间信号的傅立叶变换的周期性采样版本。为此，我们可以将频率项替换为在 n 个样本上将其分成相等部分的一项: [![](img/a36c64d40ed36cb14e54d1ceabea583f.png "2\pi f \Rightarrow \frac{2\pi k}{N}")](http://www.codecogs.com/eqnedit.php?latex=2%5Cpi&space;f&space;%5CRightarrow&space;%5Cfrac%7B2%5Cpi&space;k%7D%7BN%7D) 其中我们评估 k^th 样本，总共有 n 个样本。
 
         *   如果您想知道我们能否从频域的这一采样版本中精确地重建时域样本，简单的答案是肯定的，只要我们通过确保频域的总样本大于或等于时域样本的长度来避免时域混叠。通过在时域信号末尾添加零，我们可以在不增加采样数据长度的情况下提高频域的采样速率。这将使我们的频域样本更加接近。
     *   总之，我们可以通过这个等式从一组采样数据中获得频域变换函数:
 
-    *   [![](../Images/b009d921ea8537da9f55dac586fa1144.png "X(k) = \sum_{n = 0}^{N-1}{x(n)e^{-j\frac{2\pi kn}{N}}}")T2】](http://www.codecogs.com/eqnedit.php?latex=X(k)&space;=&space;%5Csum_%7Bn&space;=&space;0%7D%5E%7BN-1%7D%7Bx(n)e%5E%7B-j%5Cfrac%7B2%5Cpi&space;kn%7D%7BN%7D%7D%7D)
+    *   [![](img/b009d921ea8537da9f55dac586fa1144.png "X(k) = \sum_{n = 0}^{N-1}{x(n)e^{-j\frac{2\pi kn}{N}}}")T2】](http://www.codecogs.com/eqnedit.php?latex=X(k)&space;=&space;%5Csum_%7Bn&space;=&space;0%7D%5E%7BN-1%7D%7Bx(n)e%5E%7B-j%5Cfrac%7B2%5Cpi&space;kn%7D%7BN%7D%7D%7D)
 
 ## 你是怎么计算的
 
@@ -88,24 +88,24 @@ end
 
 首先，让我们直觉地知道我们可以利用的捷径是什么，这使得将这个问题分成更小的子问题变得有利和可能。我们想要使用的特征是双重的，并且来自于我们通过乘以来操作单位的复数根
 
-[![](../Images/901ea5e903a6ced92bca6f60b6c6f132.png "e^{-j\frac{2\pi kn}{N}}")T2】](http://www.codecogs.com/eqnedit.php?latex=e%5E%7B-j%5Cfrac%7B2%5Cpi&space;kn%7D%7BN%7D%7D)
+[![](img/901ea5e903a6ced92bca6f60b6c6f132.png "e^{-j\frac{2\pi kn}{N}}")T2】](http://www.codecogs.com/eqnedit.php?latex=e%5E%7B-j%5Cfrac%7B2%5Cpi&space;kn%7D%7BN%7D%7D)
 
 在每次迭代中。那是什么意思？好吧，请记住上面的内容
 
-[![](../Images/e8b84033486ac33199968a3dc345cba0.png "e^{j2\pi ft} = \cos(2\pi ft) + j\sin(2\pi ft)")T2】](http://www.codecogs.com/eqnedit.php?latex=e%5E%7Bj2%5Cpi&space;ft%7D&space;=&space;%5Ccos(2%5Cpi&space;ft)&space;&plus;&space;j%5Csin(2%5Cpi&space;ft))
+[![](img/e8b84033486ac33199968a3dc345cba0.png "e^{j2\pi ft} = \cos(2\pi ft) + j\sin(2\pi ft)")T2】](http://www.codecogs.com/eqnedit.php?latex=e%5E%7Bj2%5Cpi&space;ft%7D&space;=&space;%5Ccos(2%5Cpi&space;ft)&space;&plus;&space;j%5Csin(2%5Cpi&space;ft))
 
 让我们先来看看这个例子是什么样子的；我做了一个简单的演示:
-[![Real Imaginary](../Images/4d9a79eb62375351dfa45a9eebbeeb01.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JAx1aDBE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dbgcpuajxw7mjio1p867.jpg)
+[![Real Imaginary](img/4d9a79eb62375351dfa45a9eebbeeb01.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JAx1aDBE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dbgcpuajxw7mjio1p867.jpg)
 
-因此，您可以将实轴和虚轴想象为东/西线和北/南线，而 [![](../Images/037e4f618525ea47fabe356d9fa406b0.png "e^{j2\pi ft}")](http://www.codecogs.com/eqnedit.php?latex=e%5E%7Bj2%5Cpi&space;ft%7D) 则想象为指向角度 [![](../Images/c3a91b5ad029e70d35338fb1950e9bc9.png "2\pi f")](http://www.codecogs.com/eqnedit.php?latex=2%5Cpi&space;f) 并随时间 t 变化的指南针。我们想要利用的属性是基于将 2π弧度分成 N 个偶数段的情况，就像我们正在计算离散傅里叶变换一样。这是可以想象的:
+因此，您可以将实轴和虚轴想象为东/西线和北/南线，而 [![](img/037e4f618525ea47fabe356d9fa406b0.png "e^{j2\pi ft}")](http://www.codecogs.com/eqnedit.php?latex=e%5E%7Bj2%5Cpi&space;ft%7D) 则想象为指向角度 [![](img/c3a91b5ad029e70d35338fb1950e9bc9.png "2\pi f")](http://www.codecogs.com/eqnedit.php?latex=2%5Cpi&space;f) 并随时间 t 变化的指南针。我们想要利用的属性是基于将 2π弧度分成 N 个偶数段的情况，就像我们正在计算离散傅里叶变换一样。这是可以想象的:
 
-[![Complex Roots of Unity](../Images/1c28cbf89d82dfa29f979a993040fe70.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WxxtSmLe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mpxvxaiqzda8evcw51kc.jpg)
+[![Complex Roots of Unity](img/1c28cbf89d82dfa29f979a993040fe70.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WxxtSmLe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mpxvxaiqzda8evcw51kc.jpg)
 
 你能看到我们想要开发的属性吗？它们是:
 
-1.  i^th 分划是 N-i^th 分划的复共轭。这意味着，如果我们有 8 个分区(k = 1)，1^st 分区是 [![](../Images/240ff63343b8095106fd1589da3ff3e1.png "e^{j2\pi / 8}")](http://www.codecogs.com/eqnedit.php?latex=e%5E%7Bj2%5Cpi&space;/&space;8%7D) ，-1^st 分区(即第 7 个分区)是 [![](../Images/5d050d1543779930b90a924ab3b6d25a.png "e^{j14\pi / 8}")](http://www.codecogs.com/eqnedit.php?latex=e%5E%7Bj14%5Cpi&space;/&space;8%7D) 。
-    *   n = 1: [![](../Images/5c0274de4ad528633783ebcc124aee3c.png "\,\,e^{j2\pi /8} = \cos(2\pi/8) +j\sin(2\pi/8) = 0.707 +j0.707")](http://www.codecogs.com/eqnedit.php?latex=%5C,%5C,e%5E%7Bj2%5Cpi&space;/8%7D&space;=&space;%5Ccos(2%5Cpi/8)&space;&plus;j%5Csin(2%5Cpi/8)&space;=&space;0.707&space;&plus;j0.707)
-    *   n = 7: [![](../Images/1f36181bf73421ebd1169a2790c2aa5c.png "\,\,e^{j14\pi/8} = cos(14\pi/8) + j\sin(14\pi /8) = 0.707 - j0.707")](http://www.codecogs.com/eqnedit.php?latex=%5C,%5C,e%5E%7Bj14%5Cpi/8%7D&space;=&space;cos(14%5Cpi/8)&space;&plus;&space;j%5Csin(14%5Cpi&space;/8)&space;=&space;0.707&space;-&space;j0.707)
+1.  i^th 分划是 N-i^th 分划的复共轭。这意味着，如果我们有 8 个分区(k = 1)，1^st 分区是 [![](img/240ff63343b8095106fd1589da3ff3e1.png "e^{j2\pi / 8}")](http://www.codecogs.com/eqnedit.php?latex=e%5E%7Bj2%5Cpi&space;/&space;8%7D) ，-1^st 分区(即第 7 个分区)是 [![](img/5d050d1543779930b90a924ab3b6d25a.png "e^{j14\pi / 8}")](http://www.codecogs.com/eqnedit.php?latex=e%5E%7Bj14%5Cpi&space;/&space;8%7D) 。
+    *   n = 1: [![](img/5c0274de4ad528633783ebcc124aee3c.png "\,\,e^{j2\pi /8} = \cos(2\pi/8) +j\sin(2\pi/8) = 0.707 +j0.707")](http://www.codecogs.com/eqnedit.php?latex=%5C,%5C,e%5E%7Bj2%5Cpi&space;/8%7D&space;=&space;%5Ccos(2%5Cpi/8)&space;&plus;j%5Csin(2%5Cpi/8)&space;=&space;0.707&space;&plus;j0.707)
+    *   n = 7: [![](img/1f36181bf73421ebd1169a2790c2aa5c.png "\,\,e^{j14\pi/8} = cos(14\pi/8) + j\sin(14\pi /8) = 0.707 - j0.707")](http://www.codecogs.com/eqnedit.php?latex=%5C,%5C,e%5E%7Bj14%5Cpi/8%7D&space;=&space;cos(14%5Cpi/8)&space;&plus;&space;j%5Csin(14%5Cpi&space;/8)&space;=&space;0.707&space;-&space;j0.707)
     *   如您所见，1 和 N-1 信号是相关的，因为它们的实部相同，虚部互为负值。你可以在上面看到。
 
 2_ 这个圆是周期性的，所以当变量 k 开始增加的时候，我们只是以 n 为增量绕着圆循环。
@@ -113,15 +113,15 @@ end
 **现在，让我们最后看看如何使用基数 2 FFT 算法来利用这些特性。**
 
 1.  我们知道为了分而治之，我们要把一个问题分解成两半(或者一些基数)。我们从我们的图中注意到，如果我们在 8 个分区的情况下采用偶数分区，我们将得到这样的分区，就好像我们有 4 个单位的复数根而不是 8 个(即 4 个 2π的偶数分)，从而给我们一个更小的问题要解决，这就是我们想要的。从数学上来说，让我们看看如果将信号分解为偶数和奇数样本会是什么样子:
-    *   ![Summation](../Images/72b0168f56bb747d89697e87920bb9d2.png)
+    *   ![Summation](img/72b0168f56bb747d89697e87920bb9d2.png)
     *   这简化为两个子数据阵列的等式，这两个子数据阵列的大小是原始数据集的一半，并且将乘以 N/2 而不是 N 的单位根，本质上产生两个相同的子问题:
-        *   ![Subproblems](../Images/0a413e59c2c63264b791a00801889744.png)
+        *   ![Subproblems](img/0a413e59c2c63264b791a00801889744.png)
     *   现在，我们可以用偶数和奇数子阵列进行递归，直到遇到 N = 1 的基本情况(这里 n 和 k 将为零，因此您只需将这一个值乘以 e^0 = 1)，并返回该值作为其自身的 DFT。然后按照上面的等式合并。
-2.  太棒了，但是我们还有一件事可以做。还记得我们说过 i^th 和 N-i^th 的根是彼此的复共轭吗(例如，单位绘图的根是穿过 x 轴的镜像)？这意味着，一旦我们解决了大小为 N/2 的两个子问题，我们就可以通过同时创建它们相应的“镜像”值来组合它们，从而获得 N 个 DFT 值。这将使我们不必遍历 N/2 个子问题的数据两次来创建使 X(k)上升一级所需的 N 个数据值。我们希望获得偶数阵列的 DFT 的 k^th 结果，并将其与奇数阵列的 DFT 的 k^th 结果的 [![](../Images/60e09c63ae337179ff18ecb2cc6af9c9.png "e^{-j\frac{2\pi k}{N}}")](http://www.codecogs.com/eqnedit.php?latex=e%5E%7B-j%5Cfrac%7B2%5Cpi&space;k%7D%7BN%7D%7D) 倍相加，并将其放入将为 0 的阵列中...X(k)的 N/2 个值。我们再次取得偶数阵列的 DFT 的 k^th 结果，但是现在我们从它减去奇数阵列的 DFT 的 k^th 结果的 [![](../Images/60e09c63ae337179ff18ecb2cc6af9c9.png "e^{-j\frac{2\pi k}{N}}")](http://www.codecogs.com/eqnedit.php?latex=e%5E%7B-j%5Cfrac%7B2%5Cpi&space;k%7D%7BN%7D%7D) 倍，并且将它放入 N/2 的阵列中...X(k)的 n 个值。我们这样做了 N/2 次。最后，我们添加 N/2...n 数组到 0 的末尾...N/2 数组来获得上一级 X(k)的完整答案。在一个等式中，每个级别的合并步骤如下所示:
+2.  太棒了，但是我们还有一件事可以做。还记得我们说过 i^th 和 N-i^th 的根是彼此的复共轭吗(例如，单位绘图的根是穿过 x 轴的镜像)？这意味着，一旦我们解决了大小为 N/2 的两个子问题，我们就可以通过同时创建它们相应的“镜像”值来组合它们，从而获得 N 个 DFT 值。这将使我们不必遍历 N/2 个子问题的数据两次来创建使 X(k)上升一级所需的 N 个数据值。我们希望获得偶数阵列的 DFT 的 k^th 结果，并将其与奇数阵列的 DFT 的 k^th 结果的 [![](img/60e09c63ae337179ff18ecb2cc6af9c9.png "e^{-j\frac{2\pi k}{N}}")](http://www.codecogs.com/eqnedit.php?latex=e%5E%7B-j%5Cfrac%7B2%5Cpi&space;k%7D%7BN%7D%7D) 倍相加，并将其放入将为 0 的阵列中...X(k)的 N/2 个值。我们再次取得偶数阵列的 DFT 的 k^th 结果，但是现在我们从它减去奇数阵列的 DFT 的 k^th 结果的 [![](img/60e09c63ae337179ff18ecb2cc6af9c9.png "e^{-j\frac{2\pi k}{N}}")](http://www.codecogs.com/eqnedit.php?latex=e%5E%7B-j%5Cfrac%7B2%5Cpi&space;k%7D%7BN%7D%7D) 倍，并且将它放入 N/2 的阵列中...X(k)的 n 个值。我们这样做了 N/2 次。最后，我们添加 N/2...n 数组到 0 的末尾...N/2 数组来获得上一级 X(k)的完整答案。在一个等式中，每个级别的合并步骤如下所示:
 
-*   [![](../Images/f4da115ea99bf945be1cd84d516c9d72.png "X(k) = FFT(even\, subarray)[k] + e^{-j\frac{2\pi k}{N}}FFT(odd\,subarray)[k]")](http://www.codecogs.com/eqnedit.php?latex=X(k)&space;=&space;FFT(even%5C,&space;subarray)%5Bk%5D&space;&plus;&space;e%5E%7B-j%5Cfrac%7B2%5Cpi&space;k%7D%7BN%7D%7DFFT(odd%5C,subarray)%5Bk%5D) 为 [![](../Images/876292746f551fdd7835557fbcf65b94.png "0\leqslant k < N/2")为](http://www.codecogs.com/eqnedit.php?latex=0%5Cleqslant&space;k&space;<&space;N/2)
+*   [![](img/f4da115ea99bf945be1cd84d516c9d72.png "X(k) = FFT(even\, subarray)[k] + e^{-j\frac{2\pi k}{N}}FFT(odd\,subarray)[k]")](http://www.codecogs.com/eqnedit.php?latex=X(k)&space;=&space;FFT(even%5C,&space;subarray)%5Bk%5D&space;&plus;&space;e%5E%7B-j%5Cfrac%7B2%5Cpi&space;k%7D%7BN%7D%7DFFT(odd%5C,subarray)%5Bk%5D) 为 [![](img/876292746f551fdd7835557fbcf65b94.png "0\leqslant k < N/2")为](http://www.codecogs.com/eqnedit.php?latex=0%5Cleqslant&space;k&space;<&space;N/2)
 
-*   [![](../Images/9dd335c285b630c9640aa056e6dc7c46.png "X(k) = FFT(even\, subarray)[k] - e^{-j\frac{2\pi k}{N}}FFT(odd\,subarray)[k]")](http://www.codecogs.com/eqnedit.php?latex=X(k)&space;=&space;FFT(even%5C,&space;subarray)%5Bk%5D&space;-&space;e%5E%7B-j%5Cfrac%7B2%5Cpi&space;k%7D%7BN%7D%7DFFT(odd%5C,subarray)%5Bk%5D) 为 [![](../Images/fa628a1f4bd5c5ea371b84f9a09ef3c3.png "N/2\leqslant k < N")为](http://www.codecogs.com/eqnedit.php?latex=N/2%5Cleqslant&space;k&space;<&space;N)
+*   [![](img/9dd335c285b630c9640aa056e6dc7c46.png "X(k) = FFT(even\, subarray)[k] - e^{-j\frac{2\pi k}{N}}FFT(odd\,subarray)[k]")](http://www.codecogs.com/eqnedit.php?latex=X(k)&space;=&space;FFT(even%5C,&space;subarray)%5Bk%5D&space;-&space;e%5E%7B-j%5Cfrac%7B2%5Cpi&space;k%7D%7BN%7D%7DFFT(odd%5C,subarray)%5Bk%5D) 为 [![](img/fa628a1f4bd5c5ea371b84f9a09ef3c3.png "N/2\leqslant k < N")为](http://www.codecogs.com/eqnedit.php?latex=N/2%5Cleqslant&space;k&space;<&space;N)
 
 3_ 必要的细节:
 

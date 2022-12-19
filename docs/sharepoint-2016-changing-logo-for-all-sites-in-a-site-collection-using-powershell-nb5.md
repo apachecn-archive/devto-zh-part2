@@ -19,7 +19,7 @@
 
 由于网站集有许多子网站，并且我希望避免逐个手动更改徽标 URL，所以我构建了一个小的 PowerShell 脚本，该脚本将循环网站集中的所有子网站，并更改每个子网站的徽标 URL。以下是脚本:
 
-$ site logo = "/_ layouts/15/Images/logo . jpg "
+$ site logo = "/_ layouts/img/logo . jpg "
 
 $site = " [https://intranet](https://intranet) "
 

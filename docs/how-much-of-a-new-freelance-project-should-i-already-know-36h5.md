@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/raddevon/how-much-of-a-new-freelance-project-should-i-already-know-36h5>
 
-[![Gromit lays down track just in time as he rides over it](../Images/f1a25a80725da4764aec7d963981957e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KmBYWOT3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raddevon.com/wp-content/uploads/2018/10/gromit-lays-down-track.gif)
+[![Gromit lays down track just in time as he rides over it](img/f1a25a80725da4764aec7d963981957e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KmBYWOT3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raddevon.com/wp-content/uploads/2018/10/gromit-lays-down-track.gif)
 
 承担你不知道如何去做的工作是很可怕的。你不想误导任何人，但与此同时，你也不想错过一场精彩的演出，因为你还没有完全完成那件事。如果你曾经开发过一个 React 应用程序来为律师预约，那么你从来没有为会计师开发过同样的应用程序，这有什么关系呢？如果会计想要一个移动应用程序，而你必须找出本地反应，答案会改变吗？你的底线在哪里？
 

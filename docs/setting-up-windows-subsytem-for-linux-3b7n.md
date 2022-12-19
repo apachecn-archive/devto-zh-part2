@@ -18,23 +18,23 @@ a)进入你的 Windows 搜索栏，输入`turn windows features on or off`
 
 b)单击与您的查询相匹配的结果。它会在你的控制面板里。您应该会看到类似这样的内容:
 
-[![toggle windows features](../Images/c867a4fac7d2db3e0f8f6ee2e7786a5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zaIeg_WE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k4x418deogy16bqva8ab.png)
+[![toggle windows features](img/c867a4fac7d2db3e0f8f6ee2e7786a5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zaIeg_WE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k4x418deogy16bqva8ab.png)
 
 c)向下滚动，直到您看到“Windows Subsystem for Linux”-确保其复选框被选中！
 
-[![wsl checkbox](../Images/3dca3322a72480e77435825f5e948105.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mO_F4V4G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2wkiufnn6iisl3h9dfm2.png)
+[![wsl checkbox](img/3dca3322a72480e77435825f5e948105.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mO_F4V4G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2wkiufnn6iisl3h9dfm2.png)
 
 2)重新启动计算机
 
 3)通过前往`System Information`并检查您的版本来检查您的 Windows 10 版本。如果您的版本早于 16215，请跳过步骤 4，继续执行步骤 5。
 
-[![windows version](../Images/9cd8a73561f7fce0bf743a9109b06585.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7HkdUoWV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6v6riw4zlxkcs52tiia1.png)
+[![windows version](img/9cd8a73561f7fce0bf743a9109b06585.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7HkdUoWV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6v6riw4zlxkcs52tiia1.png)
 
 4)开辟微软商店。搜索“Ubuntu”
 
 a)选择“Ubuntu”(我没有用 16.04 或 18.04 LTS)
 
-[![ubuntu choice in microsoft store](../Images/faa928da6d623428e04a39474bb74c65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--24t_yLUo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7yp5rdmlaz4vbzbr15xa.png)
+[![ubuntu choice in microsoft store](img/faa928da6d623428e04a39474bb74c65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--24t_yLUo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7yp5rdmlaz4vbzbr15xa.png)
 
 5)如果你遇到错误或者如果你有 Windows 10 的早期版本，请在此查看更多信息
 
@@ -131,19 +131,19 @@ Enter fullscreen mode Exit fullscreen mode
 *   通过`F1`或`Ctrl` + `Shift` + `p`打开命令面板
 *   开始键入以下内容:`Terminal: Select Default Shell`直到您看到它。选择该选项。
 
-    [![command palette](../Images/7e3bd06ea7005ceaf118a43033cae09f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BdfKC0CX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k2a2ft8ycroujlqxp7qj.png)
+    [![command palette](img/7e3bd06ea7005ceaf118a43033cae09f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BdfKC0CX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k2a2ft8ycroujlqxp7qj.png)
 
 *   一旦你选择了它，一些选项将会弹出。您想要选择 WSL
 
-    [![WSL Terminal](../Images/a91fbd0509ae3816e17878601c0ca54c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WjAAfzK---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4dl6urgzipp4ah689dqf.png)
+    [![WSL Terminal](img/a91fbd0509ae3816e17878601c0ca54c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WjAAfzK---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4dl6urgzipp4ah689dqf.png)
 
 3)现在，你可以在 VSCode 中使用你的 Ubuntu 终端了。在“终端”下拉列表中选择“新终端”，或键入`Ctrl` + `Shift` +`以使用它！
 
 4)附加用户设置:
 
 *   您可以在用户设置中添加一些东西来定制和改进您的编程体验。最重要的是，我们可以让 VSCode 请客。erb 文件比如。html 文件，允许我们使用所有相同的快捷键，并获得相同的语法高亮。
-*   要打开用户设置，再次使用`F1`或`Ctr` + `Shift` + `p`打开命令面板，并键入`Preferences: Open Settings (JSON)` ![Preferences - settings](../Images/adc8e922ada4b2fbc2a9f509f896fae5.png)
-*   你会看到这样一个屏幕:![Preferences - settings](../Images/35eb2e060f7a51107072fc3162c39951.png)
+*   要打开用户设置，再次使用`F1`或`Ctr` + `Shift` + `p`打开命令面板，并键入`Preferences: Open Settings (JSON)` ![Preferences - settings](img/adc8e922ada4b2fbc2a9f509f896fae5.png)
+*   你会看到这样一个屏幕:![Preferences - settings](img/35eb2e060f7a51107072fc3162c39951.png)
 *   要像 html 一样处理您的 erb 文件，请将以下内容添加到您的用户设置中(上面圈出的内容):
 
     ```
@@ -171,11 +171,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 下面是任何 Linux 文件系统的最初几个级别的大概情况:
 
-[![linux file system](../Images/259ff1ba21f01268347c4b05babb14ae.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QTjT8r2A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4bua64p5b3buagyyspgs.png)
+[![linux file system](img/259ff1ba21f01268347c4b05babb14ae.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QTjT8r2A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4bua64p5b3buagyyspgs.png)
 
 如您所见，`mnt`目录是为其他文件系统创建的，所以这是微软将您的 Linux 连接到您的 Windows 机器的地方:
 
-[![linux file system](../Images/ffbc7eba1170fec684878aa2eb844ead.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4n_d0U9v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cfjnsjkfm0shewhzxiio.png)
+[![linux file system](img/ffbc7eba1170fec684878aa2eb844ead.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4n_d0U9v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cfjnsjkfm0shewhzxiio.png)
 
 因此，您可以通过键入以下命令从起点到达那里:
 
@@ -254,21 +254,21 @@ Enter fullscreen mode Exit fullscreen mode
 
 3)有几种方法可以完成接下来的几个步骤，但最简单的方法是使用 pgAdmin。打开 pgAdmin，这是 PostgreSQL 的图形用户界面。
 
-[![PGAdmin in start](../Images/f278ced614869d47163c10765f64bb97.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QbbqHEHm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jfzek5lgz9hx0jmyp5yi.png)
+[![PGAdmin in start](img/f278ced614869d47163c10765f64bb97.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QbbqHEHm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jfzek5lgz9hx0jmyp5yi.png)
 
 *   这将在您的浏览器中打开 pgAdmin。通过右键单击“PostgreSQL”并选择“连接服务器”来启动服务器
 
-[![PostgreSQL selection](../Images/4588e86a2e4b94c94c78113da85d0179.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3ytRoCtH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pmjzy3vigf8vti6ydp5b.png)
-[![PostgreSQL connect](../Images/5f04a836400f178699e4334256b80390.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--vwwRdlar--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fzj55nwefbnhfldekkzq.png)
+[![PostgreSQL selection](img/4588e86a2e4b94c94c78113da85d0179.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3ytRoCtH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pmjzy3vigf8vti6ydp5b.png)
+[![PostgreSQL connect](img/5f04a836400f178699e4334256b80390.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--vwwRdlar--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fzj55nwefbnhfldekkzq.png)
 
 *   输入您在下载过程中定义的密码
 *   PostgreSQL 服务器正在运行，现在可以集成到您的项目中了。
 *   您还需要设置一个新的用户/角色和密码，以便在您的 rails 应用程序中使用。确保在设置过程中为您的用户/角色提供所有可用的权限。
 *   在设置过程中，确保在`General`选项卡中填写`Name`，在`Definition`选项卡中填写`Password`，并在`Privileges`选项卡中启用所有权限。
 
-[![create user](../Images/e68d894453ef6809ab55a23ac628bf1a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Oz4Wmp8M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jvyrq5y7vt1gzel4mxma.png)
+[![create user](img/e68d894453ef6809ab55a23ac628bf1a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Oz4Wmp8M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jvyrq5y7vt1gzel4mxma.png)
 
-[![create user permissions](../Images/ec2a4635282b041fd58e3945a32be1ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PZFTQZL8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/812erbbq4e73aia75v40.png)
+[![create user permissions](img/ec2a4635282b041fd58e3945a32be1ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PZFTQZL8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/812erbbq4e73aia75v40.png)
 
 **示例:将 POSTGRESQL 服务器连接到 RAILS 应用程序**
 
@@ -308,15 +308,15 @@ Enter fullscreen mode Exit fullscreen mode
 
 *   如果你导航到`localhost:3000`，你应该会看到我们在轨道上！
 
-[![on Rails](../Images/1d6f432cb77e1790eac71928d2273ec8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8CirmMdQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ccqm9f1z94jagsld82o4.png)
+[![on Rails](img/1d6f432cb77e1790eac71928d2273ec8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8CirmMdQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ccqm9f1z94jagsld82o4.png)
 
 *   让我们通过“localhost:3000/posts”来测试我们的数据库
 
-[![posts](../Images/949ea5bf85c5a59d75d3946b586a7248.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ttzA9vQQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/srkjlem5cr07d3m8jh0y.png)
+[![posts](img/949ea5bf85c5a59d75d3946b586a7248.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ttzA9vQQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/srkjlem5cr07d3m8jh0y.png)
 
 *   现在只需跟随 crud 链接并尝试发布帖子！我们应该看到我们的数据库与我们的 rails 应用程序配合得非常好！
 
-[![database works](../Images/65d264502b8af240ac2c8f6e8a289497.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EcB21GE5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eh5lv6c4t1owo1ua5onl.png)
+[![database works](img/65d264502b8af240ac2c8f6e8a289497.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EcB21GE5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eh5lv6c4t1owo1ua5onl.png)
 
 *   希望一切都为你工作！现在您已经准备好使用 WSL 进行开发了！
 

@@ -4,13 +4,13 @@
 
 大家好！不久前，我在 [glitch](https://glitch.com) 上做了一个小应用，它可以根据你的用户资料告诉你，你是否是一个推特或转发者，并基于此生成一个可下载的图形！
 
-[![Twit Original](../Images/37c82d7d822573e938f114dc68601845.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VJ6ieFQs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iuqr6mxwroub3p29izvs.png)
+[![Twit Original](img/37c82d7d822573e938f114dc68601845.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VJ6ieFQs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iuqr6mxwroub3p29izvs.png)
 
 # 为什么？
 
 我一直看到人们在他们的推特上谈论超级有创造力和原创性。我想要一种有趣的量化方式。
 
-[![Kanye West is a Tweeter](../Images/76e378d0af17b858f4cca4ea6f914fa4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O8uvXENY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ng7m3k1rby1zavsqrnfn.png)
+[![Kanye West is a Tweeter](img/76e378d0af17b858f4cca4ea6f914fa4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O8uvXENY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ng7m3k1rby1zavsqrnfn.png)
 
 # 未来可能的计划
 

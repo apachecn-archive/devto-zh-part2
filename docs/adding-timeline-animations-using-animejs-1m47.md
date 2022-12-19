@@ -17,7 +17,7 @@
 
 这是我计划出来的原始设计。
 
-[![a screenshot of a mock up with around 8 shapes in an inverted triangle point to an input box](../Images/5df9d28e7c9e20d2608ef8436cdd936f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MXYNbUC_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/suql5qalbwxr875mq1lb.PNG)
+[![a screenshot of a mock up with around 8 shapes in an inverted triangle point to an input box](img/5df9d28e7c9e20d2608ef8436cdd936f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MXYNbUC_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/suql5qalbwxr875mq1lb.PNG)
 
 ### 目标
 
@@ -113,7 +113,7 @@
 *   offset:告诉动画在上一个动画结束之前开始一定数量的毫秒
 
 下面是同样的时间轴:
-[![triangles, cricles, and squares falling from a header](../Images/d2b995b502db56ccd03101ceb10cd9b4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yokSoQM0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ate6hgb9in7ifcgby875.gif)
+[![triangles, cricles, and squares falling from a header](img/d2b995b502db56ccd03101ceb10cd9b4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yokSoQM0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ate6hgb9in7ifcgby875.gif)
 
 在对所有形状使用不同的 X 和 Y 坐标后，我用相似的代码完成了剩余的时间线。
 
@@ -147,10 +147,10 @@
 ```
 
 下面是我刷新页面时发生的事情:
-[![the same shapes falling from a header, but missing the triangles](../Images/1e98b70e61e8aa010f8189ba154bd3b8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XfGOaprl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wsihktz2ibwjd2c1tjre.gif)
+[![the same shapes falling from a header, but missing the triangles](img/1e98b70e61e8aa010f8189ba154bd3b8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XfGOaprl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wsihktz2ibwjd2c1tjre.gif)
 
 我的三角形不见了！当我检查大教堂时，我看到他们在他们出发的地方发抖，旋转。
-[![a div element in the header is highlighted and shown spinning](../Images/43bd4ac1163568f77d2dba78be726180.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--zV-4iQB6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3uczdmrx0oqpdbc0bowi.gif)
+[![a div element in the header is highlighted and shown spinning](img/43bd4ac1163568f77d2dba78be726180.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--zV-4iQB6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3uczdmrx0oqpdbc0bowi.gif)
 
 我意识到 CSS 动画和 anime.js 动画有冲突。他们都在改变三角形的属性。即使 anime.js 内联应用了更新的变换值，更新`transform`属性的 CSS 动画似乎会覆盖它们，而不会应用`translateY`或`translateX`的更改。
 
@@ -191,12 +191,12 @@
 我甚至不需要修改 CSS 或 JavaScript。anime.js 动画已经使用数字类将元素作为目标，而形状是使用 shape 和 shape name 类创建的。
 
 当我刷新页面时，它完美地工作了！
-[![the shapes falling from the header with spinning triangles](../Images/c05ce0f0797ba8ed91f17b251033c07e.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--0bQyRa-X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z8smq31ok15u3ca4ymct.gif)
+[![the shapes falling from the header with spinning triangles](img/c05ce0f0797ba8ed91f17b251033c07e.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--0bQyRa-X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z8smq31ok15u3ca4ymct.gif)
 
 ☑️有一些形状不断旋转
 
 将形状嵌套在移动的 div 中也使我的最后一个目标很容易实现，因为我想再次使用 transform 属性。当一个形状被悬停在上面时，它只会增长一点点。
-[![a mouse hovering over shapes that grow](../Images/0d33a690737c8f1c8d60745ec4ca9541.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--FwnihX_k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mjbm8g1hi64maiepxhfv.gif)
+[![a mouse hovering over shapes that grow](img/0d33a690737c8f1c8d60745ec4ca9541.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--FwnihX_k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mjbm8g1hi64maiepxhfv.gif)
 
 下面是代码:
 
@@ -219,7 +219,7 @@
 
 最后，这是大部分动画的 gif 图:从头部落下的形状，落入输入框的形状，从输入框落下的形状，以及旋转的三角形。
 
-[![using the app to see all the repos a user has published, with shapes falling from the header, into the input box, then below it](../Images/bc58668a201bcd4c4e32fb480e1212f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6KR2bhLy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cl1yy6tbzl0u2yuskgqa.gif)
+[![using the app to see all the repos a user has published, with shapes falling from the header, into the input box, then below it](img/bc58668a201bcd4c4e32fb480e1212f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6KR2bhLy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cl1yy6tbzl0u2yuskgqa.gif)
 
 ## 仍在进行中
 

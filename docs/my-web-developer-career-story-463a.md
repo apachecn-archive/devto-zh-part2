@@ -22,15 +22,15 @@
 
 ### 以下是我的史前档案中的几个网站
 
-[![The Cola Quake3 Clan website](../Images/3cca207312d85b3788e868db8db2643a.png)T2】](https://images.ctfassets.net/nj2caiz7hkjw/1YUcjQwKleWy6ooGkAMOKo/2609354195c4331075dc8d8331caf670/TheColaQ3-website.png)
+[![The Cola Quake3 Clan website](img/3cca207312d85b3788e868db8db2643a.png)T2】](https://images.ctfassets.net/nj2caiz7hkjw/1YUcjQwKleWy6ooGkAMOKo/2609354195c4331075dc8d8331caf670/TheColaQ3-website.png)
 
 我们雷神之锤 3 战队的网站。当然是针对网景和 1024x768 分辨率优化的:)
 
-[![Cession2000 LAN website](../Images/c71b7b9230f08ebe1382e52ab8a1fa81.png)T2】](https://images.ctfassets.net/nj2caiz7hkjw/6g2CdSFGtGs0ewGOAG6s2C/16265f06a1488fae208c5ae301f043a3/Cession2000-LAN-website.png)
+[![Cession2000 LAN website](img/c71b7b9230f08ebe1382e52ab8a1fa81.png)T2】](https://images.ctfassets.net/nj2caiz7hkjw/6g2CdSFGtGs0ewGOAG6s2C/16265f06a1488fae208c5ae301f043a3/Cession2000-LAN-website.png)
 
 *赛斯 2000 局域网活动网站设计草图。*
 
-[![Dalmatians](../Images/19fefcd8c7ae2b55c574ba741cdb16d1.png)T2】](https://images.ctfassets.net/nj2caiz7hkjw/dnkilYUalyyE0cIOyS4ci/244ef62448d5c33de4615ca133c45ba8/Dalmatians.gif)
+[![Dalmatians](img/19fefcd8c7ae2b55c574ba741cdb16d1.png)T2】](https://images.ctfassets.net/nj2caiz7hkjw/dnkilYUalyyE0cIOyS4ci/244ef62448d5c33de4615ca133c45ba8/Dalmatians.gif)
 
 我仍然对我的斑点狗网站欢迎页面上的悬停效果感到自豪。幸运的是，这种欢迎页面的趋势已经被遗忘了。
 
@@ -64,7 +64,7 @@ Kuvablogi.com 是一个芬兰的照片分享服务和社区，成员们可以上
 
 最终，一个腐烂的代码库、上涨的成本和其他生活活动占据了我们的空闲时间，Kuvablogi.com 无人维护。此外，视频开始变得越来越受欢迎，因此它会对存储容量产生指数级影响。整个服务后来完全关闭，因为我们认为这是最好的用户使用其他更活跃的服务。
 
-[![mikrobitti-kuvablogi](../Images/1e71f412739a1eaba7c86329d2af5006.png)T2】](https://images.ctfassets.net/nj2caiz7hkjw/1GeVfpG8KgCGwyWuK0EsCw/38ccab7edd41af28961b73a5c0035078/mikrobitti-kuvablogi.jpg)
+[![mikrobitti-kuvablogi](img/1e71f412739a1eaba7c86329d2af5006.png)T2】](https://images.ctfassets.net/nj2caiz7hkjw/1GeVfpG8KgCGwyWuK0EsCw/38ccab7edd41af28961b73a5c0035078/mikrobitti-kuvablogi.jpg)
 
 *图片来自网上相册 [Mikrobitti](https://www.mikrobitti.fi) 杂志(芬兰计算机杂志)的对比。与大玩家相比，我们看起来相当不错:)*
 

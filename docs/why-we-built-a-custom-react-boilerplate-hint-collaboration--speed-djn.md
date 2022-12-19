@@ -8,7 +8,7 @@
 
 请继续阅读，了解他们是如何构建样板文件的，以及使用这一新工具后我们看到了什么。
 
-[![React boilerplate](../Images/9c8e0187fee0ff9100e3481c273caf46.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GbZQ8SdY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1jo3aos7ya9r3mdxzht9.jpg)
+[![React boilerplate](img/9c8e0187fee0ff9100e3481c273caf46.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GbZQ8SdY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1jo3aos7ya9r3mdxzht9.jpg)
 
 ## 一个定制的 React 样板文件，将最初的冲刺从 2 周减少到 3 天
 

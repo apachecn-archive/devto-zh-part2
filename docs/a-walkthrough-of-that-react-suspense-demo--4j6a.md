@@ -6,7 +6,7 @@
 
 * * *
 
-[![the suspense is real!](../Images/d5a7cdc53d7c26c627bd2afd32273929.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---zw0tEHc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/3624098/36625698-50323b20-18d9-11e8-87bf-de1133b023ec.gif)
+[![the suspense is real!](img/d5a7cdc53d7c26c627bd2afd32273929.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---zw0tEHc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/3624098/36625698-50323b20-18d9-11e8-87bf-de1133b023ec.gif)
 
 * * *
 
@@ -29,13 +29,13 @@ Dev Twitter 上有很多杰出的开发人员在研究 Async React 对于从[Rea
 
 不用说，人们很兴奋(阅读全文，非常有趣):
 
-> ![Jani Eväkallio profile image](../Images/d63f9a28599b8092cb42764056f21161.png)Jani evkallio[@ jevakallio](https://dev.to/jevakallio)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)再过一个小时 [@dan_abramov](https://twitter.com/dan_abramov) 将登上 [@jsconfis](https://twitter.com/jsconfis) 的舞台，进行大会历史上最被炒作的演讲之一。你知道这意味着什么吗？
+> ![Jani Eväkallio profile image](img/d63f9a28599b8092cb42764056f21161.png)Jani evkallio[@ jevakallio](https://dev.to/jevakallio)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)再过一个小时 [@dan_abramov](https://twitter.com/dan_abramov) 将登上 [@jsconfis](https://twitter.com/jsconfis) 的舞台，进行大会历史上最被炒作的演讲之一。你知道这意味着什么吗？
 > 
-> 是的，现在是直播热拿推特跟帖的时间👇2018 年 03 月 01 日上午 09:01[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=969135585909792768)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=969135585909792768)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=969135585909792768)
+> 是的，现在是直播热拿推特跟帖的时间👇2018 年 03 月 01 日上午 09:01[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=969135585909792768)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=969135585909792768)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=969135585909792768)
 
 而 [spectrum.chat](https://spectrum.chat/?t=586129b0-845c-4025-bd0e-f4a2200a971b) 的人都非常兴奋:
 
-[![image](../Images/e72459eae72a87d751b1cb8ebba41d0c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LED10XuU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/6764957/36888678-88ba5d66-1dc4-11e8-9813-7f6c034c07a2.png)
+[![image](img/e72459eae72a87d751b1cb8ebba41d0c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LED10XuU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/6764957/36888678-88ba5d66-1dc4-11e8-9813-7f6c034c07a2.png)
 
 令人兴奋的东西。这是一个长达数年的过程的高潮，从 2014 年 Jordan Walke 的这条推文开始，到 [Lin Clark 对 React Fiber 的介绍](https://www.youtube.com/watch?v=ZCuYPiUIONs)(你可以看到时间切片几乎在一年前就开始工作了)，到[2017 年 9 月 React Fiber 的实际发布](https://code.facebook.com/posts/1716776591680069/react-16-a-look-inside-an-api-compatible-rewrite-of-our-frontend-ui-library/)，到 [Sebastian 在 2017 年 12 月推出吊带 API](https://twitter.com/acdlite/status/969172311067713537) 。
 
@@ -376,7 +376,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 对于那些想使用 createFetcher 的人来说(尽管 [simple-cache-provider 目前是官方实现](https://twitter.com/acdlite/status/969168681644179456)):
 
-> ![𝕁𝕒𝕞𝕚𝕖 𝕂 profile image](../Images/adc5d9c9593b750deaaeea6ca1e10c77.png)[@ Jamie builds](https://dev.to/jamiebuilds)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)TL；DR
+> ![𝕁𝕒𝕞𝕚𝕖 𝕂 profile image](img/adc5d9c9593b750deaaeea6ca1e10c77.png)[@ Jamie builds](https://dev.to/jamiebuilds)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)TL；DR
 > 
 > 函数 createFetcher(method){
 > let resolved = new Map()；
@@ -388,7 +388,7 @@ Enter fullscreen mode Exit fullscreen mode
 > return resolved.get(关键)；
 > }
 > }；
-> }2018 年 03 月 01 日上午 11:15[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=969169357094842368)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=969169357094842368)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=969169357094842368)
+> }2018 年 03 月 01 日上午 11:15[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=969169357094842368)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=969169357094842368)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=969169357094842368)
 
 *(阅读整个帖子，而不仅仅是这条推文)*
 
@@ -396,11 +396,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 需要更多演示吗？Dan Abramov 不知何故仍在编写实例(使用他的`createFetcher`实现):
 
-> ![unknown tweet media content](../Images/2d3ed8e1dd20759efe4a6dc91446cd31.png)![Play butt](../Images/980e9fb12d58fa9423fc94c33003fc4f.png)<video loop="" controls=""><source src="https://video.twimg.com/tweet_video/DXPNbWlXUAAmuxr.mp4" type="video/mp4"></video>![Dan Abramov profile image](../Images/8410abe414a98a3109390b1a1f7377ee.png)丹阿布拉莫夫[@丹 _ 阿布拉莫夫](https://dev.to/dan_abramov)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)状态更新是同步的，所以占位符会立即生效。让我们将同步(对于输入)和异步(对于翻译组件)值分开，降低 API 的速度。现在不显示“正在翻译…”马上就去。[gist.github.com/gaearon/376cfa…](https://t.co/Ehb78rLB3s)2018 年 03 月 01 日 22 点 51 分[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=969344290567704577)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=969344290567704577)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=969344290567704577)
+> ![unknown tweet media content](img/2d3ed8e1dd20759efe4a6dc91446cd31.png)![Play butt](img/980e9fb12d58fa9423fc94c33003fc4f.png)<video loop="" controls=""><source src="https://video.twimg.com/tweet_video/DXPNbWlXUAAmuxr.mp4" type="video/mp4"></video>![Dan Abramov profile image](img/8410abe414a98a3109390b1a1f7377ee.png)丹阿布拉莫夫[@丹 _ 阿布拉莫夫](https://dev.to/dan_abramov)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)状态更新是同步的，所以占位符会立即生效。让我们将同步(对于输入)和异步(对于翻译组件)值分开，降低 API 的速度。现在不显示“正在翻译…”马上就去。[gist.github.com/gaearon/376cfa…](https://t.co/Ehb78rLB3s)2018 年 03 月 01 日 22 点 51 分[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=969344290567704577)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=969344290567704577)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=969344290567704577)
 
 如果你担心多投:
 
-> ![Sophie Alpert profile image](../Images/841c5b0263ecfdd387021c123bce2dfc.png)【Sophie alpert】@ sophietes![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)[@ Dan _ abramov](https://twitter.com/dan_abramov)-我...。fns)=>{
+> ![Sophie Alpert profile image](img/841c5b0263ecfdd387021c123bce2dfc.png)【Sophie alpert】@ sophietes![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)[@ Dan _ abramov](https://twitter.com/dan_abramov)-我...。fns)=>{
 > constr RES =[]prom =[]；
 > fns . foreach(fn =>{
 > 【try {
@@ -422,23 +422,23 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果你仍然不确定抛出承诺是不是一件好事，你并不孤单(这应该是有争议的！):
 
-> ![Johannes Ewald profile image](../Images/536bff1b7061dde0b257b538606109c2.png)Johannes e wald@ jhnnns![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)ICYMI:[@ Dan _ abra mov](https://twitter.com/dan_abramov)在 React 中展示了一个即将推出的 API，其中 React 抛出了一个中止用户/应用程序代码的承诺。2018 年 03 月 01 日下午 16:54[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=969254508978155520)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=969254508978155520)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=969254508978155520)
+> ![Johannes Ewald profile image](img/536bff1b7061dde0b257b538606109c2.png)Johannes e wald@ jhnnns![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)ICYMI:[@ Dan _ abra mov](https://twitter.com/dan_abramov)在 React 中展示了一个即将推出的 API，其中 React 抛出了一个中止用户/应用程序代码的承诺。2018 年 03 月 01 日下午 16:54[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=969254508978155520)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=969254508978155520)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=969254508978155520)
 
 *(阅读整个帖子，而不仅仅是这条推文)*
 
 为什么要用承诺？如果我想取消提取，该怎么办？为什么不是发电机？还是可观的？
 
-> ![Jay Phelps profile image](../Images/04a1e20cf95ce8d17ec6dbc56a4a693a.png)杰菲尔普斯@ _ 杰菲尔普斯![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)[@ ACD lite](https://twitter.com/acdlite)[@ Dan _ abra mov](https://twitter.com/dan_abramov)对请求取消有什么想法？例如，通过 Symbol.observable 支持 observable 还是只支持订阅/取消订阅对？20:41PM-2018 年 3 月 01 日[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=969311753015185408)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=969311753015185408)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=969311753015185408)
+> ![Jay Phelps profile image](img/04a1e20cf95ce8d17ec6dbc56a4a693a.png)杰菲尔普斯@ _ 杰菲尔普斯![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)[@ ACD lite](https://twitter.com/acdlite)[@ Dan _ abra mov](https://twitter.com/dan_abramov)对请求取消有什么想法？例如，通过 Symbol.observable 支持 observable 还是只支持订阅/取消订阅对？20:41PM-2018 年 3 月 01 日[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=969311753015185408)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=969311753015185408)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=969311753015185408)
 
 *(阅读整个帖子而不仅仅是这条推文- [幂等](https://twitter.com/acdlite/status/969173378937470977)是关键词)*
 
 哪里可以不使用挂起？安德鲁·克拉克抓住了你:
 
-> ![Andrew Clark profile image](../Images/0e3d1effc010330edb91638551667232.png)Andrew Clark@ ACD lite![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)你知道吗
+> ![Andrew Clark profile image](img/0e3d1effc010330edb91638551667232.png)Andrew Clark@ ACD lite![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)你知道吗
 > 
 > 你可以从 getDerivedStateFromProps 内部暂停。它“工作正常”是因为它是 React 渲染阶段的一部分。
 > 
-> 你也可以在一个 setState reducer 内部挂起(第一个参数)。2018 年 03 月 02 日上午 04:26[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=969428655238557697)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=969428655238557697)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=969428655238557697)
+> 你也可以在一个 setState reducer 内部挂起(第一个参数)。2018 年 03 月 02 日上午 04:26[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=969428655238557697)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=969428655238557697)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=969428655238557697)
 
 *(阅读整个帖子，而不仅仅是这条推文)*
 

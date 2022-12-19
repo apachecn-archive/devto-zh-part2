@@ -2,11 +2,11 @@
 
 > 原文：<https://dev.to/nickparsons/winds-21-building-touch-bar-support-for-macos-in-electron-with-react-3lm5>
 
-[![Winds 2.1](../Images/1af8eac1b341e14ac98a9490884026be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nrvW9789--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mg33pmd30pyrzcpuxoxs.png)
+[![Winds 2.1](img/1af8eac1b341e14ac98a9490884026be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nrvW9789--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mg33pmd30pyrzcpuxoxs.png)
 
 最近，科技/硬件领域最新、最酷的创新之一是苹果去年在 MacBook Pro 上发布的 touch bar。随着这些机器变得越来越受欢迎，越来越多的应用程序正在利用 touch bar 以一种新的方式与用户进行交互。随着我们观察这一趋势的发展，我们认为这似乎是一个有趣的挑战，因为我们过去几个月的宠物项目 Winds 2.0 在本月早些时候首次亮相。
 
-[![Winds](../Images/46afd0f7d1ec1c9690a2cafa789152eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zqs1IE5T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/JzDcF64.gif)
+[![Winds](img/46afd0f7d1ec1c9690a2cafa789152eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zqs1IE5T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/JzDcF64.gif)
 
 随着我们根据社区的反馈继续对 Winds 进行迭代，现在似乎是在 Winds 2.1 中推出对 macOS 触摸条控制支持的最佳时机。走进去，似乎是小菜一碟。然而，我们大错特错了。macOS 和 electronic 之间的 API 通信还远远没有完成。希望在不久的将来，我们能看到 macOS 和 electronic 之间更好的支持。
 
@@ -175,7 +175,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 所有这些都为 Winds 2.1 提供了一个非常棒的 touch bar 功能，允许我们的用户在 Winds 中暂停和播放播客剧集，查看当前正在播放的播客，并向前和向后搜索。
 
-[![Touch Bar](../Images/7b413af63c30a1f77131defee240ca0d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XLRWyq8p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/KlvfuVP.jpg)
+[![Touch Bar](img/7b413af63c30a1f77131defee240ca0d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XLRWyq8p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/KlvfuVP.jpg)
 
 随着我们继续开发应用程序和[收到来自我们令人敬畏的社区的反馈](https://github.com/GetStream/Winds/issues)，我们希望继续为用户添加与 touch bar 互动的新方式，并让人们对他们与 Winds 的每次互动感到惊喜。
 

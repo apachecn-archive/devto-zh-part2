@@ -6,7 +6,7 @@
 
 抬起头来！你需要掌握一些 JavaScript 知识来完成本教程，但是我们如何考虑将聊天机器人集成到 CMS 中仍然很有趣。
 
-[![Make intents for chatbots and conversational UIs a part of your content management system.](../Images/7ac47f2b62f0d219701a7acfa8f5218d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VeycpaoV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ij4cihfgse6crqrb4jgt.png) 
+[![Make intents for chatbots and conversational UIs a part of your content management system.](img/7ac47f2b62f0d219701a7acfa8f5218d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VeycpaoV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ij4cihfgse6crqrb4jgt.png) 
 *图:让聊天机器人和对话用户界面成为你的内容管理系统的一部分。*
 
 一个[无头内容管理系统](https://en.wikipedia.org/wiki/Headless_CMS)的想法是将你的内容从网页的约束中分离出来，以便在许多上下文中重用它。即使当你只想在网页上显示你的内容时，这也是有意义的，因为你可以以一种内容可以在许多页面上重用的方式来组织它，并且当更有趣的东西出现时，更容易切换你的前端代码。然而，当您设法在不同的界面中重用您的内容时，headless 的真正威力就显现出来了。
@@ -27,7 +27,7 @@
 一旦你创建了一个新代理，转到*意向*并选择*创建意向*按钮。你可以把“意图”理解为“用户想要做或者已经回答的某件事情”。我的意图是得到一个关于我们如何在网上生活图书旅行的答案。给意图一个描述性的名称；我们将明智地使用这个名称来映射正确的内容。填写不同的培训短语，这些短语是您的用户会写或说的示例。)以便请求所述信息。在这种情况下，它是“我如何预订旅行”等等的变体。希望在谷歌的机器学习算法能够将用户导向这一意图之前，你不需要输入许多选项。你可以在右边栏测试它的效果。
 
 [![Set up an intent in Dialogflow, test it in the right hand sidebar. Here I have set up alternatives in Norwegian for the question “how do I book travel”<br>
-](../Images/a0923a7570abaf1bd1ef57186499a353.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KiAYMZmF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2z3hzf6pxif25psj895n.png)
+](img/a0923a7570abaf1bd1ef57186499a353.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KiAYMZmF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2z3hzf6pxif25psj895n.png)
 
 *图:在 Dialogflow 中设置一个意图，在右边栏中测试它。在这里，我用挪威语为问题“我如何预订旅行”设置了替代选项*
 
@@ -37,7 +37,7 @@
 
 如果你去 Dialogflow 左边栏的*集成*，你会发现它可以与许多不同的服务集成。设置将与他们中的大多数非常相似，但我们希望松弛。严格遵循松弛盒中*设置*的指示。我说的“密切”是指你应该花时间阅读说明书并试着理解它们。
 
-[![Make sure that you give the Slack bot the necessary event subscriptions.](../Images/bb214640361076ef190e747ce5bb4e83.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0z-d4sIe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cpzmh3ffwnfy8gddeo64.png) 
+[![Make sure that you give the Slack bot the necessary event subscriptions.](img/bb214640361076ef190e747ce5bb4e83.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0z-d4sIe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cpzmh3ffwnfy8gddeo64.png) 
 *图:确保给 Slack bot 必要的事件订阅。*
 
 您的 Slack-bot 将需要一些身份验证和事件订阅，以便能够在 Slack 中读取您的查询。你可以让它听所有的对话，但我更喜欢它只回答直接或间接的信息。部分原因是我不希望机器人在谈话中意外触发，部分原因是我不希望在没有非常好的理由的情况下，在我们谈话的每一行都输入 Dialogflow。

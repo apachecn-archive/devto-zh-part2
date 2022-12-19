@@ -24,7 +24,7 @@
 # 创建新存储库时的规则:
 
 这将是在生产环境中创建的任何新存储库的默认结构。
-[![repo rules](../Images/ba90827f9d5ae6ec9a5c301bb1a58c1b.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--2ueYA3Lt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3sj045ra25p8v9vim0db.jpg)
+[![repo rules](img/ba90827f9d5ae6ec9a5c301bb1a58c1b.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--2ueYA3Lt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3sj045ra25p8v9vim0db.jpg)
 
 *   母版将只包含 README.md
 *   发布将仅通过特征/父分支传递。

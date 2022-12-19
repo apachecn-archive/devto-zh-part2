@@ -8,7 +8,7 @@
 
 运行 opunit，然后会给出一个测试报告，很像一个`mocha`或者其他测试框架。
 
-[![opunit](../Images/b0d64e561cff6d43727b9257c207c68e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mHo_OlJb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/9158546/47369653-29e20080-d6b2-11e8-8098-b64c59d282c6.png)
+[![opunit](img/b0d64e561cff6d43727b9257c207c68e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mHo_OlJb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/9158546/47369653-29e20080-d6b2-11e8-8098-b64c59d282c6.png)
 
 要设置检查，您只需要提供一个简单的配置文件:
 

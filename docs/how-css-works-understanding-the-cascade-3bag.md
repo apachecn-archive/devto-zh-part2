@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/how-css-works-understanding-the-cascade-3bag>
 
-[![](../Images/90910a61d0ff4472886add308d8deaa9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mPOz7byZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AdiR0Ma4Z8nsdH1Kvn53qbA.jpeg)
+[![](img/90910a61d0ff4472886add308d8deaa9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mPOz7byZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AdiR0Ma4Z8nsdH1Kvn53qbA.jpeg)
 
 几周前，我开始了一个关于 CSS 基础的简短系列。如果你在前端 web 开发领域，CSS 是需要了解的基本知识之一。无论你是喜欢 CSS-in-JS 还是喜欢普通的 CSS，了解 CSS 如何工作对于编写高效、可伸缩的 CSS 是至关重要的。
 
@@ -35,7 +35,7 @@ CSS 级联获取这些属性中的一些，并给它们分配一个权重。如�
 
 不要担心，我们将深入研究每一个问题。
 
-[![](../Images/184dfcc3649f17c50808cfdfb9409f6a.png)T2】](https://logrocket.com/?cid=banner_b)
+[![](img/184dfcc3649f17c50808cfdfb9409f6a.png)T2】](https://logrocket.com/?cid=banner_b)
 
 #### 来历&重要性
 
@@ -134,7 +134,7 @@ div {
 
 ### Plug: [LogRocket](http://logrocket.com) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

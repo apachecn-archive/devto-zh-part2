@@ -14,17 +14,17 @@
 
 Hannah 依靠她的腕带来完成日常简单的任务，如闹钟、心跳控制、时间检查和类似的事情。这非常方便，我们家所有人都有一个这样的腕带。但是，安全吗？嗯，他们可能有隐私问题。他们中的一些跟踪你每天的行走路线，这可能是危险的公开或在坏人手中。它们记录你的基本数据，其中一些连接到手机，还存储个人信息，这些信息保存在特定的服务器上，其中大多数在中国(例如小米)，严格来说这不是坏消息，但肯定是用户应该负责的相关信息。这种设备显然不太难破解。
 
-[![](../Images/f9ca18ad29260e70c652633e22bf3cf9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Iqnq2wpP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.after-service.com/media/wysiwyg/img/xiaomi/mi-band-2/leather-strap/mi-band-wrist-Strap_8_.jpg)
+[![](img/f9ca18ad29260e70c652633e22bf3cf9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Iqnq2wpP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.after-service.com/media/wysiwyg/img/xiaomi/mi-band-2/leather-strap/mi-band-wrist-Strap_8_.jpg)
 
 3D 打印是一项惊人的运动，每天都变得越来越重要。创客社区非常活跃，倾向于尝试疯狂的事情，这可能是由于软件和硬件的开放理念而发生的。例如， [open bionics](https://openbionics.com/) 是一家使用开放的低成本硬件开发医疗假肢的公司。制造者社区可以分享可以添加到这些假肢中的想法，所以像[蒂莉](https://twitter.com/GiveTillyaHand)(一个张开双臂的年轻舞者)这样的人可以随时改变他们的风格，而不用花太多的钱。开放并不意味着不安全，只是意味着开放。人可以发展，可以分享，可以提高，千只眼睛能比两只眼检查的更好！
 
-[![](../Images/e28e04ba304338fb9982b166ab29fef1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2P1Lc6GW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://openbionics.com/wp-content/uploads/2017/06/Final.png)
+[![](img/e28e04ba304338fb9982b166ab29fef1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2P1Lc6GW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://openbionics.com/wp-content/uploads/2017/06/Final.png)
 
 使用物联网的“智能”物体，如镜子和类似物体不再是魔法，甚至还有 rpi 选项。正如我在以前的帖子中所描述的，无处不在的技术让我们使用技术并完成特定的任务，而没有意识到我们正在使用技术。为了达到我们的目标，我们忘记了工具，在这种情况下，Hannah 意识到了温度和其他相关信息，而没有考虑工具，因为它分散在她的日常现实中。这可能是伟大的，也可能是危险的，温度并不重要，但警报、指示和医疗或相关信息呢？如果我们没有意识到我们的环境，我们可能会成为未来骗局甚至更糟的受害者。
 
 我们希望广告在我们的生活中占据多少位置？这个我们之前讲过的技术，分散信息，在这里也有影响。
 
-[![](../Images/c478cddcd4920180d193fb903b3e5943.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l45S_l5k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://proxy.duckduckgo.com/iu/%3Fu%3Dhttps%253A%252F%252Fwww.technobuffalo.com%252Fwp-content%252Fuploads%252F2015%252F09%252Fblack-mirror-10.jpeg%26f%3D1)
+[![](img/c478cddcd4920180d193fb903b3e5943.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l45S_l5k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://proxy.duckduckgo.com/iu/%3Fu%3Dhttps%253A%252F%252Fwww.technobuffalo.com%252Fwp-content%252Fuploads%252F2015%252F09%252Fblack-mirror-10.jpeg%26f%3D1)
 
 电动汽车和其他交通工具令人惊叹，它们的自动化程度越来越高。这很棒，因为其中一些功能有助于司机避免撞车或发生事故，但如果他们的安全性很差，这就没用了。对汽车的远程攻击不仅对司机或汽车乘客非常危险，而且对他们的环境、其他车辆等也非常危险。
 

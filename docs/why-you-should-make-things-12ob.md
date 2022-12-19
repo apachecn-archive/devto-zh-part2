@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/aviaryan/why-you-should-make-things-12ob>
 
-[![cover image](../Images/f3a78657ebaacf0e5fabefbce3531690.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kNMWTkaJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.us-east-2.amazonaws.com/devletters/covers/builder.jpeg)
+[![cover image](img/f3a78657ebaacf0e5fabefbce3531690.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kNMWTkaJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.us-east-2.amazonaws.com/devletters/covers/builder.jpeg)
 
 > 首次发布于 [Dev Letters](https://devletters.com/letters/making-is-important/)
 

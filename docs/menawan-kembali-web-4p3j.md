@@ -24,7 +24,7 @@ Kelebihan ssb adalah, jika kita berada dalam rangkaian yang sama, seperti di dal
 
 Patchwork adalah antara aplikasi media sosial yang dibangunkan di atas platform ssb.
 
-[![Patchwork](../Images/3694d8eac5cc50b8861831b0d19f7e07.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KfJU741m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://telegra.ph/file/d5cb20edb7f54f6882474.png)
+[![Patchwork](img/3694d8eac5cc50b8861831b0d19f7e07.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KfJU741m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://telegra.ph/file/d5cb20edb7f54f6882474.png)
 
 Menggunakan Patchwork sebenarnya tidak jauh bezanya dengan laman sosial seperti Facebook. Kita boleh 'Follow' orang (dan sebaliknya), komen pada tulisan mereka atau menerbitkan tulisan kita sendiri. Cuma perlu diingat, tulisan tersebut hanya berada pada komputer kita sehingga ada orang lain yang sync tulisan tersebut ke komputer mereka.
 
@@ -36,7 +36,7 @@ Setiap data yang kita terbitkan ke dalam rangkaian ssb akan ditandatangan secara
 
 [Beaker Browser](https://beakerbrowser.com/) adalah browser khusus yang boleh digunakan untuk mencapai fail yang dikongsikan melalui protokol [Dat](https://datproject.org/) .
 
-[![Fritter dat](../Images/d550e5348787306c29aef03fb4825988.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J0YtwEoD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yjlv692h4y0gtfmg8exq.png)
+[![Fritter dat](img/d550e5348787306c29aef03fb4825988.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J0YtwEoD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yjlv692h4y0gtfmg8exq.png)
 
 Di atas adalah contoh aplikasi web menyerupai Twitter ( [Fritter](https://fritter.hashbase.io/) ) yang boleh dicapai melalui BeakerBrowser. Menggunakan BeakerBrowser, kita boleh membina laman web sendiri yang boleh dicapai oleh pengguna BeakerBrowser yang lain tanpa memerlukan sebarang *hosting* !
 

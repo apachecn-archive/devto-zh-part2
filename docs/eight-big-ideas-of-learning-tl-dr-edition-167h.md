@@ -8,7 +8,7 @@
 
 如果我的背景让你感兴趣的话:**萨格菲就是我基于这些想法建立的项目。**
 
- **[![](../Images/70fd429eb71d184da4aad7e1180fb4d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u5DP5MOS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://heiskr.com/images/eight-2.jpeg)
+ **[![](img/70fd429eb71d184da4aad7e1180fb4d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u5DP5MOS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://heiskr.cimg/eight-2.jpeg)
 
 ## 想法一:一次做一件事
 
@@ -26,7 +26,7 @@
 
 噪音有很多种形式。*噪音影响学习*。找一个安静舒适的地方学习，没有什么会让你分心。禁用社交媒体，将手机设为静音，关闭浏览器标签。摆脱无关的想法、担忧和计划。*允许自己一次专注于学习一件事。*
 
-[![](../Images/510d334a9e00d81baeccacf9058f3a49.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JWhbdZnw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://heiskr.com/images/eight-3.jpeg)
+[![](img/510d334a9e00d81baeccacf9058f3a49.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JWhbdZnw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://heiskr.cimg/eight-3.jpeg)
 
 ## 想法二:设定&坚持目标
 
@@ -44,7 +44,7 @@
 
 对照我们的目标检查我们的进展会增加我们的掌控感，这是三个强大的内在激励因素之一。这反过来又建立了内在动力。当你学习的时候，创造一种方式**将你的进展与你的目标相对照**。这个提醒可以帮助你保持学习的动力。
 
-[![](../Images/ecaa450604b764c7173a8c897cb44b03.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lZ-OfWfZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://heiskr.com/images/eight-4.jpeg)
+[![](img/ecaa450604b764c7173a8c897cb44b03.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lZ-OfWfZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://heiskr.cimg/eight-4.jpeg)
 
 ## 思路三:适应先验知识
 
@@ -62,7 +62,7 @@
 
 在学习新东西之前，*从**复习**你已经知道的相关信息开始*。例如:你正在上一堂关于选择有效字体的课。你可以从复习不同种类的字体开始。**把你已经知道的和你想学的联系起来。**
 
-[![](../Images/eef67a88e9bc4f04dc580875c75125dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V0jWNy7z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://heiskr.com/images/eight-5.jpeg)
+[![](img/eef67a88e9bc4f04dc580875c75125dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V0jWNy7z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://heiskr.cimg/eight-5.jpeg)
 
 ## 思路四:构建图表
 
@@ -80,7 +80,7 @@
 
 随着你的学习，想办法 ***测试*** *你的组织知识*。尝试 [*概念图*](https://en.wikipedia.org/wiki/Concept_map)；画一张图来组织这个主题。当你理解了这个组织，你学得更快，并保持知识。
 
-[![](../Images/637e315e3e94c6aded9f1199c0e57665.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jKrGsam7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://heiskr.com/images/eight-6.jpeg)
+[![](img/637e315e3e94c6aded9f1199c0e57665.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jKrGsam7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://heiskr.cimg/eight-6.jpeg)
 
 ## 理念五:赋权选择
 
@@ -98,7 +98,7 @@
 
 一个学习者自己对能力的感知通常是不准确的。*避免让自己或另一个学习者做出糟糕的选择。避免要求学习者*自我评估*的选择，以做出明智的选择。如果学习者想继续而不选择，给出一个**默认选项**。你希望选择是关于控制和自主的感觉，而不是最优化。*
 
-[![](../Images/b7bf435d506ab21a3c3a915621d5c490.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ASJh35kR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://heiskr.com/images/eight-7.jpeg)
+[![](img/b7bf435d506ab21a3c3a915621d5c490.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ASJh35kR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://heiskr.cimg/eight-7.jpeg)
 
 ## 想法六:深潜
 
@@ -126,7 +126,7 @@
 
 *记忆越强*，我们保持记忆的*越长*。事件重复的间隔越长，记忆越强。**展开你的练习，而不是死记硬背。随着记忆变得更强，你可以不用复习更长的时间。为你自己创建一个系统，某种提醒，在你学习的时候回顾你的知识。**
 
-[![](../Images/4175ff4f423c178ba12bac203384ba1a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z1HSkPvD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://heiskr.com/images/eight-8.jpeg)
+[![](img/4175ff4f423c178ba12bac203384ba1a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z1HSkPvD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://heiskr.cimg/eight-8.jpeg)
 
 ## 想法 7:让它成为现实
 
@@ -144,7 +144,7 @@
 
 听课、看教材是常事。但是一个**例子**要清晰得多。例子可以是*视觉、听觉或互动*形式。在你的学习计划中包含各种形式的**示例**。如果你卡住了，使用图像或视频搜索引擎搜索一个例子。或者创建您自己的图表来帮助您理解！
 
-[![](../Images/95e9f1cd6dec65f226c045d585f9eea0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TeMIlyxy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://heiskr.com/images/eight-9.jpeg)
+[![](img/95e9f1cd6dec65f226c045d585f9eea0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TeMIlyxy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://heiskr.cimg/eight-9.jpeg)
 
 ## 想法八:一起学
 

@@ -20,11 +20,11 @@
 
 这就引出了我的下一个观点。框架已经过全面测试，使用自身作为测试框架。
 
-[![Head Explode](../Images/aeec7efce06f6567778e3b581a4a22c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--78Wmb-Sk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://everythingfunctional.files.wordpress.com/2018/11/giphy-downsized-large.gif%3Fw%3D400)
+[![Head Explode](img/aeec7efce06f6567778e3b581a4a22c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--78Wmb-Sk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://everythingfunctional.files.wordpress.com/2018/11/giphy-downsized-large.gif%3Fw%3D400)
 
 好吧，也许没那么令人吃惊。我确信其他一些测试框架已经做到了这一点。但是尝试用这种方式进行 TDD 有点棘手。哦，是的，我用 TDD 来构建我的测试框架。是啊，这一个确实值得一个头脑爆炸。
 
-[![Head Explode](../Images/aeec7efce06f6567778e3b581a4a22c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--78Wmb-Sk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://everythingfunctional.files.wordpress.com/2018/11/giphy-downsized-large.gif%3Fw%3D400)
+[![Head Explode](img/aeec7efce06f6567778e3b581a4a22c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--78Wmb-Sk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://everythingfunctional.files.wordpress.com/2018/11/giphy-downsized-large.gif%3Fw%3D400)
 
 在过程的早期阶段，测试并没有真正运行，它们只是编译。但是它们至少是存在的，并且试图编写它们是决定下一步需要编写哪个函数或类型的动力。在开始之前，我对整体设计有一个很好的想法，这也很有帮助。
 

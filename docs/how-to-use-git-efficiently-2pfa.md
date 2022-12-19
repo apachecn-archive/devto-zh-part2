@@ -18,7 +18,7 @@
 
 每当多个开发人员参与一个项目时，就有必要为 Git 使用正确的工作流。在这里，我将介绍一个在有多个开发人员的大型项目中非常有效的工作流。
 
-[![Git Workflow](../Images/504e6c98a9fe1c08dfe440cce2b2fe61.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H185MmZ2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0l3ujkyk8qt0s843gl2s.jpg)
+[![Git Workflow](img/504e6c98a9fe1c08dfe440cce2b2fe61.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H185MmZ2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0l3ujkyk8qt0s843gl2s.jpg)
 
 <figcaption>Hopefully this workflow chart I created will help you visualize the process :)</figcaption>
 
@@ -82,11 +82,11 @@
 
 Alice 可以在 GitHub 中提出 pull 请求，如下所示——这些步骤专门针对 GitHub。
 
-[![Pull Request Step 1](../Images/02f5a5d878dd03b086da28df5524d2a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZTuLJbgF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y58hquwl94qraoxf8wbz.jpg)
+[![Pull Request Step 1](img/02f5a5d878dd03b086da28df5524d2a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZTuLJbgF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y58hquwl94qraoxf8wbz.jpg)
 
 在分支名称的右边有一个名为“新拉取请求”的选项。点击该按钮将打开一个新的屏幕，如下所示:
 
-[![Pull Request Step 2](../Images/aadb1055848db8bbe5cbe62511d17885.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1-ytkqIO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/litrn6co16a5we576qyu.jpg)
+[![Pull Request Step 2](img/aadb1055848db8bbe5cbe62511d17885.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1-ytkqIO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/litrn6co16a5we576qyu.jpg)
 
 这里:
 

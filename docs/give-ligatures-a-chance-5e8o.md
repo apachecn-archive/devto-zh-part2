@@ -19,12 +19,12 @@
 连字通常通过区分特殊的字符组合来提高可读性，并且通过显示一个较短的字形而不是两个或有时三个常规宽度的字形来减少代码的宽度，从而使代码更短。
 
 我们来看一个例子:
-[![font ligatures picture](../Images/214e29a2efef7f49216c000aa3ddf513.png "Font ligatures in action")](https://res.cloudinary.com/practicaldev/image/fetch/s--uzH3ViYK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/tonsky/FiraCode/master/showcases/all_ligatures.png)
+[![font ligatures picture](img/214e29a2efef7f49216c000aa3ddf513.png "Font ligatures in action")](https://res.cloudinary.com/practicaldev/image/fetch/s--uzH3ViYK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/tonsky/FiraCode/master/showcases/all_ligatures.png)
 
 有趣的是，在编辑器中，连字充当单个字形，因此您可以将其作为单个字符进行复制和粘贴。但是，在基础文件中，它会根据连字代码将空格作为多个字符。
 
 那么让我们来看看一些带连字的样例代码:
-[![ligatures in editor](../Images/7fe97690d36bac6fd759e5047a49b292.png "Font ligatures in VS Code")](https://res.cloudinary.com/practicaldev/image/fetch/s--pDBBhP9e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://oi67.tinypic.com/11ceiox.jpg)
+[![ligatures in editor](img/7fe97690d36bac6fd759e5047a49b292.png "Font ligatures in VS Code")](https://res.cloudinary.com/practicaldev/image/fetch/s--pDBBhP9e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://oi67.tinypic.com/11ceiox.jpg)
 
 请特别注意:
 

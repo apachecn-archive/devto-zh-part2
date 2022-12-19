@@ -4,7 +4,7 @@
 
 # 新岗位，更好的 UX！
 
-[![chuck_ha image](../Images/8057d9874d283b8f118240a5f78d6bb2.png)](/chuck_ha) [## 在容器中运行 dev.to 第 2 部分
+[![chuck_ha image](img/8057d9874d283b8f118240a5f78d6bb2.png)](/chuck_ha) [## 在容器中运行 dev.to 第 2 部分
 
 ### 查克·哈
 

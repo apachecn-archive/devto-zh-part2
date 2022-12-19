@@ -6,11 +6,11 @@
 
 有关链表的更多信息，请查看视频系列附带的文章:
 
-[![vaidehijoshi image](../Images/c1af460640a8ad9ea29e58d942edc772.png)](/vaidehijoshi) [## 到底什么是链表？[第一部分]
+[![vaidehijoshi image](img/c1af460640a8ad9ea29e58d942edc772.png)](/vaidehijoshi) [## 到底什么是链表？[第一部分]
 
 ### vaide hi Joshi Feb 10 ' 178 分钟阅读
 
-#computerscience #datastructures](/vaidehijoshi/whats-a-linked-list-anyway)[![vaidehijoshi image](../Images/c1af460640a8ad9ea29e58d942edc772.png)](/vaidehijoshi) [## 到底什么是链表？[第二部分]
+#computerscience #datastructures](/vaidehijoshi/whats-a-linked-list-anyway)[![vaidehijoshi image](img/c1af460640a8ad9ea29e58d942edc772.png)](/vaidehijoshi) [## 到底什么是链表？[第二部分]
 
 ### vaide hi Joshi Feb 10 ' 178 分钟阅读
 
@@ -18,6 +18,6 @@
 
 在下面留下问题和评论！
 
-[![SparkPost Logo](../Images/18d784e3463d7e6f082d8230df42eeae.png)T2】](https://sparkpost.com/)
+[![SparkPost Logo](img/18d784e3463d7e6f082d8230df42eeae.png)T2】](https://sparkpost.com/)
 
 ### 本视频系列由 [SparkPost](https://www.sparkpost.com/) 赞助。对于开发人员来说，这是发送电子邮件的最佳方式。

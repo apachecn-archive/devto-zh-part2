@@ -6,4 +6,4 @@
 
 [读下去🚀](https://auth0.com/blog/developing-robust-web-apps-with-javaserver-faces-and-java-ee/?utm_source=dev&utm_medium=sc&utm_campaign=jsf_javaee)
 
-[![Developing Robust Web Apps with JavaServer Faces and Java EE](../Images/b89045c981eb613ed1ec4709ca74a67f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8W4GPbGi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/22l9l41dkc74reh2uozm.png)
+[![Developing Robust Web Apps with JavaServer Faces and Java EE](img/b89045c981eb613ed1ec4709ca74a67f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8W4GPbGi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/22l9l41dkc74reh2uozm.png)

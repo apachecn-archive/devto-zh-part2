@@ -16,7 +16,7 @@
 
 在这篇博文中，我想向您展示如何使用中的“原始”数据访问机制(ADO.NET)。Net 核心，也是一个名为 Dapper 的实体框架的替代方案(由 Stack Overflow 使用)。Dapper 有时被描述为 ORM，但正如我们将看到的，它更像是一个“对象映射器”。
 
-[![orm or not orm image showing wheel spinning suggesting speed, in this context it suggests that not using ORMs is much better in terms of performance](../Images/21888366a48a6565fe7fe28f068eb9d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vhysf4wt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.blinkingcaret.com/wp-content/uploads/2018/04/ormless_data_access.jpg)
+[![orm or not orm image showing wheel spinning suggesting speed, in this context it suggests that not using ORMs is much better in terms of performance](img/21888366a48a6565fe7fe28f068eb9d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vhysf4wt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.blinkingcaret.com/wp-content/uploads/2018/04/ormless_data_access.jpg)
 
 ## 与 ADO.NET 混为一谈。网络核心
 

@@ -28,7 +28,7 @@ Vue.js 是一个用于构建用户界面(UI)的渐进式框架。
 
 我们将创建一个能够拥有多个待办事项列表的待办事项应用程序。
 
-[![todo app screenshot](../Images/7c3a18b767a4e00246bfc203c7c4afe5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tQs4uCsA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/g3g8Gy/Screenshot_2018_07_17_Todo_list.png)
+[![todo app screenshot](img/7c3a18b767a4e00246bfc203c7c4afe5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tQs4uCsA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/g3g8Gy/Screenshot_2018_07_17_Todo_list.png)
 
 ## 入门
 
@@ -42,7 +42,7 @@ Vue CDN 已经包含在我们的 index.html 中，还有我们的 CSS 和 conten
 
 首先，手机侧边导航(📱< 850px)应该显示和隐藏。
 
-[![toggle nav](../Images/e30709a9113512a75b778f663bf3aac6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6QKWGQPi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://image.ibb.co/c7qGmy/menu.gif)
+[![toggle nav](img/e30709a9113512a75b778f663bf3aac6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6QKWGQPi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://image.ibb.co/c7qGmy/menu.gif)
 
 当我们点击**菜单**时，我们希望`<nav>`切换类别`.is-open`。
 

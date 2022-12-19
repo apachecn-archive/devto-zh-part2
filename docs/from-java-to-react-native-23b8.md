@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/pa1nd/from-java-to-react-native-23b8>
 
-[![From Java to React Native](../Images/64f19b7f0bd75bf9b1e40c018e81ae2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wZWXZ-qi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.penguin.academy/content/images/downloaded_images/From-Java-to-React-Native/1-Ln2ZpXRfv6SlWFYC7p1wUw.png)
+[![From Java to React Native](img/64f19b7f0bd75bf9b1e40c018e81ae2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wZWXZ-qi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.penguin.academy/conteimg/downloaded_images/From-Java-to-React-Native/1-Ln2ZpXRfv6SlWFYC7p1wUw.png)
 
 为什么 React Native 不是原生 app 的好选择？
 
@@ -24,7 +24,7 @@
 
 首先，下图显示了 React Native 是一项健壮的技术，并且成熟到足以被世界领先的公司在其旗舰产品中使用。
 
-[![From Java to React Native](../Images/64f19b7f0bd75bf9b1e40c018e81ae2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wZWXZ-qi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.penguin.academy/content/images/downloaded_images/From-Java-to-React-Native/1-Ln2ZpXRfv6SlWFYC7p1wUw.png)
+[![From Java to React Native](img/64f19b7f0bd75bf9b1e40c018e81ae2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wZWXZ-qi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.penguin.academy/conteimg/downloaded_images/From-Java-to-React-Native/1-Ln2ZpXRfv6SlWFYC7p1wUw.png)
 
 特斯拉、沃尔玛和彭博也是 React Native 的大量用户。这里有一个依赖这项技术的项目列表:[https://facebook.github.io/react-native/showcase.html](https://facebook.github.io/react-native/showcase.html)
 
@@ -66,11 +66,11 @@ React Native 是一个 JavaScript 框架，用于为 iOS 和 Android 编写真�
 
 **(1)陈述问题:** ***React Native 对老设备兼容性较差(老 native app 支持回 API 19)***
 
-[![From Java to React Native](../Images/30209f912de0c28a95d5125d063c09d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IBnjycET--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.penguin.academy/content/images/downloaded_images/From-Java-to-React-Native/1-dY-mh9SyqrH1_Rd0YNegAg.png)
+[![From Java to React Native](img/30209f912de0c28a95d5125d063c09d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IBnjycET--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.penguin.academy/conteimg/downloaded_images/From-Java-to-React-Native/1-dY-mh9SyqrH1_Rd0YNegAg.png)
 
 API 19 是 KitKat 或者 Android 4.4。对于 RN，我们支持向后到 4.1(我们只在 4.4 设备上测试)。从全球来看，这意味着我们只遗漏了 0.6%的设备，实际上**覆盖的范围甚至超过了大多数当前的本地应用。**
 
-[![From Java to React Native](../Images/83938e3cff08854b54655e0a8d56b441.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vL8-ssAH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.penguin.academy/content/images/downloaded_images/From-Java-to-React-Native/1-bsKeNRhvmm7HbfJ51h3jdQ.png)
+[![From Java to React Native](img/83938e3cff08854b54655e0a8d56b441.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vL8-ssAH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.penguin.academy/conteimg/downloaded_images/From-Java-to-React-Native/1-bsKeNRhvmm7HbfJ51h3jdQ.png)
 
 看看巴拉圭的图片(南美和非洲看起来一样):我们使用 Android 4.1 和 4.2 的设备略多(约 1.4%)。
 
@@ -78,7 +78,7 @@ API 19 是 KitKat 或者 Android 4.4。对于 RN，我们支持向后到 4.1(我
 
 这方面的统计不计其数。这里有一个报告(我也是从这里取了下面的图):[https://code burst . io/react-native-vs-real-native-apps-ad 890986 f1f](https://codeburst.io/react-native-vs-real-native-apps-ad890986f1f)
 
-[![From Java to React Native](../Images/59aeef817c2018e9bd58f03785c8a8d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ceMBM6iq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.penguin.academy/content/images/downloaded_images/From-Java-to-React-Native/0-8GKzRGh1lti90-wH.)
+[![From Java to React Native](img/59aeef817c2018e9bd58f03785c8a8d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ceMBM6iq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.penguin.academy/conteimg/downloaded_images/From-Java-to-React-Native/0-8GKzRGh1lti90-wH.)
 
 > Codeburst 是这样表述的:
 > 

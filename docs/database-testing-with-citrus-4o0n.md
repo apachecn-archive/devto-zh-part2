@@ -37,7 +37,7 @@
 随着即将发布的 **citrus framework 2.7.4** ，您将能够验证应用程序的数据库通信，而无需设置测试数据库服务器甚至模式！
 
 柑橘 JDBC 集成由两个基本部分组成，即*柑橘-JDBC-服务器*和*柑橘-JDBC-驱动*。
-[![](../Images/7939dd53f33a4225de9731b77921dc67.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4zFjSM2C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l8kz828gbgo3epctd648.png)
+[![](img/7939dd53f33a4225de9731b77921dc67.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4zFjSM2C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l8kz828gbgo3epctd648.png)
 
 为了能够使用柑橘 JDBC 集成，您只需要做两件事:
 1)在测试环境中，用柑橘 JDBC 驱动程序交换您的应用程序的生产性 JDBC 驱动程序。

@@ -450,7 +450,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 嗯，我们已经获得了这个观点。
 
-[![alt text](../Images/1029fe5afd3dc4d7b2a6bd394e3fae74.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OwLDBPTU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lj9k515smn9itaga6pew.png)
+[![alt text](img/1029fe5afd3dc4d7b2a6bd394e3fae74.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OwLDBPTU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lj9k515smn9itaga6pew.png)
 
 如您所见，从现在开始，我们有了一个可以在任何地方使用的 Select 2 组件。我们从根组件传递值。在这里，我们的根组件是**设置。Vue** 同样，我们可以用这种方式创建我们所需要的任何组件。
 

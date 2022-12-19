@@ -4,7 +4,7 @@
 
 今年夏天，我正在阅读艾迪·奥斯马尼的《问我任何事》。虽然这个帖子充满了智慧，但是这个评论却是 web dev 的黄金:
 
-[![addyosmani profile image](../Images/b3bea65c3292b92e2ba253240eedd296.png) ](/addyosmani) [ Addy Osmani ](/addyosmani) • [<time datetime="2018-07-11T17:33:31Z" class="date-short-year"> Jul 11 '18 </time>](https://dev.to/addyosmani/comment/46n7) 
+[![addyosmani profile image](img/b3bea65c3292b92e2ba253240eedd296.png) ](/addyosmani) [ Addy Osmani ](/addyosmani) • [<time datetime="2018-07-11T17:33:31Z" class="date-short-year"> Jul 11 '18 </time>](https://dev.to/addyosmani/comment/46n7) 
 
 我检查的第一个性能改进是站点是否可以减少 JavaScript，同时仍然为最终用户提供大部分价值。如果你发送几兆字节的 JS，如果你的目标用户主要在桌面上，这可能完全没问题，但是如果他们在移动设备上，这通常会使其他资源的成本相形见绌，因为它可能需要更长的处理时间。
 

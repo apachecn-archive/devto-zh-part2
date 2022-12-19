@@ -50,7 +50,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在让我们看看所有这些是如何协同工作的。正如我已经提到的，异步代码运行在单线程中:
 
-[![](../Images/6988e0ff8039e317dab646e3fba54072.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DWMjd7tI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2017/04/new_v1_async.jpg)
+[![](img/6988e0ff8039e317dab646e3fba54072.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DWMjd7tI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2017/04/new_v1_async.jpg)
 
 正如你从图表中看到的:
 

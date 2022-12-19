@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/brettclawson75/scrape-competitors-data-for-a-better-competitive-picture-2kl>
 
-[![Web Scraping](../Images/30a6c8c7970ffd4ab2120515e0ef1623.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GT2BIj8r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/239898/pexels-photo-239898.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D750%26w%3D1260)
+[![Web Scraping](img/30a6c8c7970ffd4ab2120515e0ef1623.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GT2BIj8r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/239898/pexels-photo-239898.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D750%26w%3D1260)
 
 大多数经商的人都明白，他们的目标不仅仅是在市场中生存。他们知道他们需要繁荣、扩张并留下遗产，为此，他们需要在残酷的市场竞争中生存下来。现在，企业已经将广告和其他努力转移到网上，品牌讲述自己的故事和创造自己的知名度变得更加容易。数字迁移也意味着，如果你作为一个品牌犯了一个错误，它可能会在几分钟内传遍世界。好消息是，迁移使得查看和 [分析竞争对手正在做的事情](https://www.forbes.com/sites/forbescommunicationscouncil/2018/03/01/how-to-study-your-competition-to-see-business-success/#dd62280559e2) 变得更加简单，并将其用于您的优势。
 

@@ -30,7 +30,7 @@ python manage.py runserver
 
 访问完`127.0.0.1:8000`后，你应该会看到一个屏幕，显示一切都很好...
 
-[![Django default landing page](../Images/0471f9ff983929c486ecc0a4a9272173.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W2i30EIh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kholinlabs.com/assets/2018-11-10-creating-a-landing-page-in-django/django_new_app.png)
+[![Django default landing page](img/0471f9ff983929c486ecc0a4a9272173.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W2i30EIh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kholinlabs.com/assets/2018-11-10-creating-a-landing-page-in-django/django_new_app.png)
 
 除了它不是你的登陆页面...
 
@@ -157,7 +157,7 @@ def index(request):
 
 然而，如果我们现在检查浏览器，我们会看到一个不那么令人愉快的画面:
 
-[![A landing page without css](../Images/f782d8a522130de7ee6d2d9c2f038184.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pkGZoJd6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kholinlabs.com/assets/2018-11-10-creating-a-landing-page-in-django/landing-with-no-html.png)
+[![A landing page without css](img/f782d8a522130de7ee6d2d9c2f038184.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pkGZoJd6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kholinlabs.com/assets/2018-11-10-creating-a-landing-page-in-django/landing-with-no-html.png)
 
 ## CSS 是一个静态文件
 
@@ -227,7 +227,7 @@ MuN: Music Notifications
 
 ## 增加一些样式
 
-[![Some style](../Images/ac21b96d639ff99bd6598f11550243a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6ipNuYA---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1523268755815-fe7c372a0349%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D78f4a9da162471fff0acce3b5be33393%26auto%3Dformat%26fit%3Dcrop%26w%3D2250%26q%3D80)
+[![Some style](img/ac21b96d639ff99bd6598f11550243a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6ipNuYA---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1523268755815-fe7c372a0349%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D78f4a9da162471fff0acce3b5be33393%26auto%3Dformat%26fit%3Dcrop%26w%3D2250%26q%3D80)
 
 首先，我希望有一个全屏的背景图片，中间是项目的名称和描述。
 
@@ -244,11 +244,11 @@ MuN: Music Notifications
 
 现在我们的容器占据了整个屏幕，我们可以用 flexbox 把内容放在中间。首先我们需要设置`display: flex`来使用 flexbox。然后我们可以使用`align-items: center`和`justify-content: center`将内容定位在中间。
 
-[![Display flex without flex-direction](../Images/e2008d2d8b19e2ad04a1168a48577f69.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oJ5GHMWl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kholinlabs.com/assets/2018-11-10-creating-a-landing-page-in-django/css-1.png)
+[![Display flex without flex-direction](img/e2008d2d8b19e2ad04a1168a48577f69.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oJ5GHMWl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kholinlabs.com/assets/2018-11-10-creating-a-landing-page-in-django/css-1.png)
 
 只剩下一个问题，那就是内容的方向。对它的修复相当简单——添加`flex-direction: column`。
 
-[![Landing page with flexbox](../Images/523d4b8b7b847fbc4ca2b1627f83cb22.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W6wcR6Zg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kholinlabs.com/assets/2018-11-10-creating-a-landing-page-in-django/css-2.png)
+[![Landing page with flexbox](img/523d4b8b7b847fbc4ca2b1627f83cb22.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W6wcR6Zg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kholinlabs.com/assets/2018-11-10-creating-a-landing-page-in-django/css-2.png)
 
 想了解更多 flexbox，我推荐阅读本指南[。](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
@@ -269,7 +269,7 @@ MuN: Music Notifications
 
 我已经使用了 [Unsplash](https://unsplash.com/) 来寻找符合我偏好的图像。
 
-[![The image I found](../Images/956e5c422820408eef9095f8a959da4c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MjRrHjGZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1460667262436-cf19894f4774%3Fixlib%3Drb-0.3.5%26s%3D54bdd105057cf056b35be4150ce317eb%26auto%3Dformat%26fit%3Dcrop%26w%3D2250%26q%3D80)
+[![The image I found](img/956e5c422820408eef9095f8a959da4c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MjRrHjGZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1460667262436-cf19894f4774%3Fixlib%3Drb-0.3.5%26s%3D54bdd105057cf056b35be4150ce317eb%26auto%3Dformat%26fit%3Dcrop%26w%3D2250%26q%3D80)
 
 在 [CSS-Tricks](https://css-tricks.com/perfect-full-page-background-image/) 的一点帮助下，我将图片设置为背景。
 
@@ -336,7 +336,7 @@ MuN: Music Notifications
 
 这是我得到的:
 
-[![Final version of the landing page](../Images/b670890d6abb33065679609779f68725.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vFVPZHhd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kholinlabs.com/assets/2018-11-10-creating-a-landing-page-in-django/css-3.png)
+[![Final version of the landing page](img/b670890d6abb33065679609779f68725.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vFVPZHhd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kholinlabs.com/assets/2018-11-10-creating-a-landing-page-in-django/css-3.png)
 
 如果你对功能部分有什么想法，请写在评论里，因为它现在看起来很糟糕。
 
@@ -344,7 +344,7 @@ MuN: Music Notifications
 
 到目前为止，我们已经完成了大部分工作，但是还有一件。是图标。为此我喜欢 [LogoMark](https://logomakr.com) 网站。它使用起来非常简单，有很多漂亮的图标和东西。
 
-[![Making an icon in the LogoMark](../Images/2ca05dc84a1a9625f96b6a87a5aff2b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SgNsMYjs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kholinlabs.com/assets/2018-11-10-creating-a-landing-page-in-django/logo.png)
+[![Making an icon in the LogoMark](img/2ca05dc84a1a9625f96b6a87a5aff2b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SgNsMYjs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kholinlabs.com/assets/2018-11-10-creating-a-landing-page-in-django/logo.png)
 
 当你下载图标时，它被保存在`.png`扩展名中，但是`.ico`更适合作为图标。 [ICOConverter](http://icoconvert.com/) 是一个很棒的 it 网站。
 

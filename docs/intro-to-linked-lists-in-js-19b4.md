@@ -6,7 +6,7 @@
 
 链表是数据的有序集合。该集合包含许多不同的节点。每个节点都包含一些数据以及对下一个节点的引用。当我们将这些节点放在一起时，我们称之为链表，因为它实际上是链接在一起的节点的列表。我们也经常称之为链。形成链的节点列表有一个顺序，不会突然或随机改变，当然，除非我们想改变它。在每个链表中有两个特殊的节点；头和尾。头节点总是列表的第一个节点。尾节点总是列表的最后一个节点。尾节点总是可以通过它没有对任何其他节点的引用这一事实来识别。
 
-[![alt text](../Images/3e8f545a54e63172c5a3c5f895e4dab7.png "Linked List")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qh9cThPi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.geeksforgeeks.org/wp-content/uploads/gq/2013/03/Linkedlist.png)
+[![alt text](img/3e8f545a54e63172c5a3c5f895e4dab7.png "Linked List")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qh9cThPi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.geeksforgeeks.org/wp-content/uploads/gq/2013/03/Linkedlist.png)
 
 节点中可以包含的数据绝对可以是我们想要的任何数据类型；字符串、数字、数组、对象，任何类型的 JS 值都可以包含在这些节点中。节点的另一部分是对下一个节点的引用。
 

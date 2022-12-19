@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/mitultechs/how-to-upfront-your-ecommerce-business-with-youtube-jgc>
 
-[![](../Images/54b2657d360525fbc1cbdf94cea981bc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HKOOL9Rd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.protonbits.com/blog/wp-content/uploads/2018/05/youtube.png) 
+[![](img/54b2657d360525fbc1cbdf94cea981bc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HKOOL9Rd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.protonbits.com/blog/wp-content/uploads/2018/05/youtube.png) 
 拥有自己的网上电子商务商店可以帮助你在全球建立自己的品牌。与此同时，你肯定会得到悲惨的竞争。你卖的产品可能在许多其他商店都有。关键是以正确的方式向最终用户推销你的产品。如今，电子商务网站营销的最佳渠道之一是 YouTube。
 
 YouTube 恰好给了你展示你的视频的能力，让你的视频到达正确的观众。你可以炫耀你的电子商务产品的好处。
@@ -19,7 +19,7 @@ YouTube 是互联网上最受欢迎的网站之一，成千上万有影响力的
 
 ## 内容为王
 
-[![](../Images/ea04bb8408398a53e1df12c8ac9e4f4f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--m5F9tMu7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.protonbits.com/blog/wp-content/uploads/2018/05/content-is-king-1132259_1280.jpg)
+[![](img/ea04bb8408398a53e1df12c8ac9e4f4f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--m5F9tMu7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.protonbits.com/blog/wp-content/uploads/2018/05/content-is-king-1132259_1280.jpg)
 YouTube 上的内容营销是一个伟大的组合。对于营销人员来说，它已经是一种搜索引擎，人们倾向于在这里搜索 m 内容。
 
 你想知道为什么 YouTube 如此强大吗？如今，用户更喜欢视觉内容。许多内容营销人员不参与在 youtube 上创建视频内容。
@@ -56,7 +56,7 @@ YouTube 上的内容营销是一个伟大的组合。对于营销人员来说，
 
 ## 与有影响力的人合作
 
-[![](../Images/fc00e376e579869b57b2f76282894dbd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lV9Uxr2R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.protonbits.com/blog/wp-content/uploads/2018/05/influencer.jpg)
+[![](img/fc00e376e579869b57b2f76282894dbd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lV9Uxr2R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.protonbits.com/blog/wp-content/uploads/2018/05/influencer.jpg)
 
 你可以根据你的行业找到 Youtube 上有影响力的人，与他们合作，让他们出演你的视频，这将提升你在观众中的形象，并向你介绍新的客户群。
 
@@ -80,7 +80,7 @@ YouTube 的受欢迎程度完全取决于任务。
 
 ## 使用产品评论
 
-[![](../Images/a23fab33e8bd8c8c0fd7a26d07407fc5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rHZ5EJgx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.protonbits.com/blog/wp-content/uploads/2018/05/product_reviews.jpg) 
+[![](img/a23fab33e8bd8c8c0fd7a26d07407fc5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rHZ5EJgx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.protonbits.com/blog/wp-content/uploads/2018/05/product_reviews.jpg) 
 用诚实、真实的反馈做出的评论会建立可信度。
 
 根据研究，84%的消费者信任产品评论，就像他们信任朋友或任何其他来源的推荐一样。

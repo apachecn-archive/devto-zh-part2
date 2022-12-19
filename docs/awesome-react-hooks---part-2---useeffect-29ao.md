@@ -6,7 +6,7 @@
 
 第一部分:
 
-[![tclain image](../Images/e1627620f56a36e5c1d846af5f0be8ff.png)](/tclain) [## 牛逼的 React 钩子，第 1 部分，使用状态
+[![tclain image](img/e1627620f56a36e5c1d846af5f0be8ff.png)](/tclain) [## 牛逼的 React 钩子，第 1 部分，使用状态
 
 ### 提摩太索赔
 

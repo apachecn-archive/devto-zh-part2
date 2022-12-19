@@ -6,7 +6,7 @@
 
 结果将是一个单独的 HTML 文件。HTML 文件是一个很好的报告工具:即使去掉后端服务器，你也可以在一个页面中打包大量的信息，并具有方便的交互性。
 
-[![](../Images/91d6b7e36d6f0be493d042bca7c9809d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sHKWsmoT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t3ikmh861byddzvvczmd.png)
+[![](img/91d6b7e36d6f0be493d042bca7c9809d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sHKWsmoT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t3ikmh861byddzvvczmd.png)
 
 现在，公平地说:这不是一个非常令人兴奋或性感的项目。同样，自动生成报告是一个绝妙的锦囊妙计，尤其是在商业环境中。[把无聊的东西自动化，就像他们说的](https://automatetheboringstuff.com/)。
 
@@ -41,7 +41,7 @@
 
 我自己几乎无法理解的草图如下。
 
-[![](../Images/9b6d7ad981bc440948a681e0cb9826f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZVmS80N9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5mpuuejc6kmc2wbj0z0q.png)
+[![](img/9b6d7ad981bc440948a681e0cb9826f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZVmS80N9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5mpuuejc6kmc2wbj0z0q.png)
 
 ### 早期规划的一些重要经验
 
@@ -115,7 +115,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 简单来说:我们将一个 HTML 页面的*结构*和要发布的*内容*分开。当需要生成一个新的网页(或者在这种情况下，一个报告！)我们可以将内容输入到一个标准化的结构中，然后推出一个新的网页。
 
-[![](../Images/ceeb548ab770e5a66bc4e5a2cce224a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QmkQPbQK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ze46l15yyxhmsrp722xf.jpg)
+[![](img/ceeb548ab770e5a66bc4e5a2cce224a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QmkQPbQK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ze46l15yyxhmsrp722xf.jpg)
 
 模板化现在确实无处不在，但是如果你想要一个没有一致的手动或自动模板化的例子，你可以在 [Geocities 档案](http://www.oocities.org/)中找到许多独特迷人的例子。
 
@@ -201,7 +201,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果您运行这个脚本并且一切顺利，一个新的`report.html`文件将被写入`outputs/`下。打开这个文件，看看你创造了什么！
 
-[![](../Images/d03a46d467c82af5ea41f6a6e2257e22.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--D5cvubX_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/twx3hgldja5dxwjket0e.png) 
+[![](img/d03a46d467c82af5ea41f6a6e2257e22.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--D5cvubX_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/twx3hgldja5dxwjket0e.png) 
 这当然符合“非常简单，但是实用”的标准
 
 如果您检查页面的 HTML，您会注意到模板中的`{{ content }}`标记被整齐地替换为`Hello, world!`字符串，这就是问题的症结所在。

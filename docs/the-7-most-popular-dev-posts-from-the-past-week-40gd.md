@@ -6,7 +6,7 @@
 
 Tomer 发现，关于栈溢出投票最多的 4 个问题中的前 3 个都与 git 有关。在这篇文章中，他深入探讨了其中一个问题。
 
-[![tomerbendavid](../Images/8fe82ce193df1a52635955681a821140.png)](/tomerbendavid) [## StackOverflow 上第二高的投票问题是...
+[![tomerbendavid](img/8fe82ce193df1a52635955681a821140.png)](/tomerbendavid) [## StackOverflow 上第二高的投票问题是...
 
 ### 汤姆本大卫 9 月 15 日 187 分钟阅读
 
@@ -16,7 +16,7 @@ Tomer 发现，关于栈溢出投票最多的 4 个问题中的前 3 个都与 g
 
 经常看到这种烦人的消息？Jovica 分享了一个可以帮你摆脱困境的窍门。
 
-[![jovica](../Images/3a3c9047be6c25f62d6ae07552d70106.png)](/jovica) [## 节省你的时间和精力的 Vim 技巧
+[![jovica](img/3a3c9047be6c25f62d6ae07552d70106.png)](/jovica) [## 节省你的时间和精力的 Vim 技巧
 
 ### Jovi ca 9 月 11 日 182 分钟阅读
 
@@ -32,7 +32,7 @@ Tomer 发现，关于栈溢出投票最多的 4 个问题中的前 3 个都与 g
 
 一个关于一家公司如何导致其所有用户被黑客攻击的故事，以及如何防止这种攻击的发生。
 
-[![dotnetcoreblog](../Images/532a02d36322a9e6641cc8377a9f5450.png)](/dotnetcoreblog) [## 提高 Web 应用安全性的三个步骤
+[![dotnetcoreblog](img/532a02d36322a9e6641cc8377a9f5450.png)](/dotnetcoreblog) [## 提高 Web 应用安全性的三个步骤
 
 ### 杰米 9 月 13 日 186 分钟阅读
 
@@ -54,7 +54,7 @@ Rémi 向我们介绍了 Syncthing，而不是让你的文件同步受制于另�
 
 一个能激励你开始/继续写博客的帖子列表。
 
-[![jess](../Images/15e6599da1ea8b6f92e1b678e9347b2c.png)](/jess) [## 让你写作的精彩帖子！
+[![jess](img/15e6599da1ea8b6f92e1b678e9347b2c.png)](/jess) [## 让你写作的精彩帖子！
 
 ### 李佳薇 9 月 12 日 181 分钟阅读
 

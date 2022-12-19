@@ -4,7 +4,7 @@
 
 今天我在解决一个关于 Codewars 的问题。不知何故，我忘记了一个非常简单的函数，它可以检查一个元素是否是一个列表的成员。
 
-[![Alt searching for a Haskell function](../Images/2d1358e9ddc549979fbb7722913f2d62.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Yb-YQVoc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vj2vlzmkrr9kxfi6kvjq.png)
+[![Alt searching for a Haskell function](img/2d1358e9ddc549979fbb7722913f2d62.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Yb-YQVoc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vj2vlzmkrr9kxfi6kvjq.png)
 
 这当然让我想到了 stackoverflow。你可以在那里找到一个有趣的黑客，是由[在 nNn](https://stackoverflow.com/users/243581/atnnn) 发布的:
 

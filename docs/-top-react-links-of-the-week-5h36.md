@@ -28,7 +28,7 @@ Ryan Florence 指出“悬念不会取代 Redux 的每一个用例”。
 
 * * *
 
-[![React Status](../Images/e57979449b063a49662c09cd86f946b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L55v2Mbs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ewep9rbanchgcv96gb4g.png)
+[![React Status](img/e57979449b063a49662c09cd86f946b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L55v2Mbs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ewep9rbanchgcv96gb4g.png)
 
 以上**只是重点**，完整的摘要汇集了大约 15-20 个值得查看的链接。如果您最近有任何 React 教程或文章，您认为值得在未来的综述中分享，请🔗评论中的链接。
 

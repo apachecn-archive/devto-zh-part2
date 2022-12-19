@@ -10,7 +10,7 @@
 
 但我想改进更多(而且@dev.to 还没有对 twitch 频道进行降价)，但这里是我的流:[https://www.twitch.tv/pedropcruz](https://www.twitch.tv/pedropcruz)
 
-[![My twitch channel](../Images/87951a30cf5b779bbcc0986d93cc298c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0Y1d6_w_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zbqsh0wh1nhss8zm85lk.png)
+[![My twitch channel](img/87951a30cf5b779bbcc0986d93cc298c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0Y1d6_w_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zbqsh0wh1nhss8zm85lk.png)
 
 通常，我做一些平面设计，或品牌设计，然后我做我以前设计的网站的所有代码，解释我正在做的所有事情。有些人喜欢它，我觉得人们似乎对这种类型的内容感到厌倦。
 

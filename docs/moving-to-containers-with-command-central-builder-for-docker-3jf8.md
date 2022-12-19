@@ -6,7 +6,7 @@
 
 **了解如何使用 Docker 的 Command Central Builder 和 GitHub 的默认模板库为 Software AG 数字业务平台产品构建定制的 Docker 映像。**
 
-| 2018 年第四期 | [![](../Images/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue4/SAG_Moving_To_Containers_TECHniques_Oct18_WEB.pdf) |
+| 2018 年第四期 | [![](img/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue4/SAG_Moving_To_Containers_TECHniques_Oct18_WEB.pdf) |
 | --- | --- |
 
 ## 容器、云和命令中枢

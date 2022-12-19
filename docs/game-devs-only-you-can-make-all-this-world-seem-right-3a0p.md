@@ -8,8 +8,8 @@
 
 这里仅举一个例子:
 
-[![No image available](../Images/bd75e09882ea89187857d565be9f569f.png)T2】](https://www.youtube.com/watch?v=Plr6vUsOMp0)
+[![No image available](img/bd75e09882ea89187857d565be9f569f.png)T2】](https://www.youtube.com/watch?v=Plr6vUsOMp0)
 
 那天的我....
 
-[![No image available](../Images/577c1eb2d7661367d4fe2cde7cf678c9.png)T2】](https://www.youtube.com/watch?v=HgzGwKwLmgM)
+[![No image available](img/577c1eb2d7661367d4fe2cde7cf678c9.png)T2】](https://www.youtube.com/watch?v=HgzGwKwLmgM)

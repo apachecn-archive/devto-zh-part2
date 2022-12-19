@@ -6,11 +6,11 @@
 
 安全应始终被视为一个分层过程，而 Cloudflare 作为第一道防线发挥着重要作用。在恶意或可疑请求到达您的服务器之前就将其拦截的能力是一项巨大的资产。显然，只有当 Cloudflare 位于您的服务器之前，并且请求被强制通过 Cloudflare 的代理时，这种方法才有效。
 
-[![Cloudlfare protection](../Images/d6aee993ebd8091918452dac37220d3e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oP_sHSYl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.john-mccracken.com/static/Screen-Shot-2017-02-26-at-20.13.23-2aa87d5b778e172de89f2ed23927f4b5-6080a.png)
+[![Cloudlfare protection](img/d6aee993ebd8091918452dac37220d3e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oP_sHSYl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.john-mccracken.com/static/Screen-Shot-2017-02-26-at-20.13.23-2aa87d5b778e172de89f2ed23927f4b5-6080a.png)
 
 对于任何称职的坏人来说，找出服务器的真实 IP 地址并绕过 Cloudflare 都相对简单。您的服务器现在更容易受到攻击，安全性现在取决于您的服务器技能、最新的软件和编码最佳实践。
 
-[![Bad guys, doing their thing!](../Images/4345e6b56b066d020be44483512eea83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w9wFfUGe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.john-mccracken.com/static/Screen-Shot-2017-02-26-at-20.15.56-615186bc63e1d4797da793b4028a0680-e5f4c.png)
+[![Bad guys, doing their thing!](img/4345e6b56b066d020be44483512eea83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w9wFfUGe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.john-mccracken.com/static/Screen-Shot-2017-02-26-at-20.15.56-615186bc63e1d4797da793b4028a0680-e5f4c.png)
 
 因此，通过仅允许来自 Cloudflare IP 地址的 web 访问来阻止对您站点的直接访问非常重要。这篇 blob 文章将介绍在 [Amazon Web Services](https://aws.amazon.com/) 环境中这样做:
 
@@ -28,7 +28,7 @@ Lambda Python 代码可从 [github 代码库](https://github.com/johnmccuk/cloud
 
 首先创建一个安全组，并记下组 ID。这可以通过 AWS web 界面完成:
 
-[![](../Images/42fdba59219ec7df64dee16661d1a567.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lumQbpxX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.john-mccracken.com/static/aws-security-group-2-4fb9c9b721fb138410e9b406eba8ae35-c795e.png)
+[![](img/42fdba59219ec7df64dee16661d1a567.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lumQbpxX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.john-mccracken.com/static/aws-security-group-2-4fb9c9b721fb138410e9b406eba8ae35-c795e.png)
 
 或者从[命令行](http://docs.aws.amazon.com/cli/latest/userguide/cli-ec2-sg.html):
 
@@ -53,11 +53,11 @@ Lambda Python 代码可从 [github 代码库](https://github.com/johnmccuk/cloud
 ### 配置触发器
 
 接下来，通过点击空白方块并选择***cloud watch Events-Schedule***来设置触发器。
-[![](../Images/3500c5cb3936ca8cd2145708ee45af7d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kQtxlO-a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.john-mccracken.com/static/aws-triggers-a3e919030adbdf84f0c2fc25abe7b9a0-5da69.png)
+[![](img/3500c5cb3936ca8cd2145708ee45af7d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kQtxlO-a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.john-mccracken.com/static/aws-triggers-a3e919030adbdf84f0c2fc25abe7b9a0-5da69.png)
 
 您可以在这里设置您需要的 CRON 或定义的速率。现在选择每天运行的速率(1 天)。
 
-[![](../Images/4934b944e5fed7c8ab3094009281c44f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CCsUFfTH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.john-mccracken.com/static/aws-trigger2-b6addd022ed838ed0607e32228e691d5-02e4b.jpg)
+[![](img/4934b944e5fed7c8ab3094009281c44f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CCsUFfTH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.john-mccracken.com/static/aws-trigger2-b6addd022ed838ed0607e32228e691d5-02e4b.jpg)
 
 ### 配置功能
 

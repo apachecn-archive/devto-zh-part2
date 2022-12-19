@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnorbertjs/my-nodejs-setup-mocha--chai-babel7-es6-43ei>
 
-<figure>[![](../Images/59b07a2a025948743587a09287f4605f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hG3G0PCc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Al9HLxXVl-oD2Q7SCzXSp-A.jpeg) 
+<figure>[![](img/59b07a2a025948743587a09287f4605f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hG3G0PCc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Al9HLxXVl-oD2Q7SCzXSp-A.jpeg) 
 
 <figcaption>我和 Gojira 写作单元测试</figcaption>
 
@@ -30,7 +30,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 安装完成后，我们的 package.json 应该如下所示:
 
-<figure>[![](../Images/5351a0e1b37fbf8a430fadb92a057154.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--O8wlGRiY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/540/1%2ApGPDkVuvhICkrwcfR8HugA.png) 
+<figure>[![](img/5351a0e1b37fbf8a430fadb92a057154.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--O8wlGRiY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/540/1%2ApGPDkVuvhICkrwcfR8HugA.png) 
 
 <figcaption></figcaption>
 
@@ -62,7 +62,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在控制台/终端中键入 npm start 后，您将看到类似这样的内容:
 
-<figure>[![](../Images/84a7ddb14040fca591893f75cbd48e0d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Yt-ny_jK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/415/1%2ACEKbkNN5tFgbcBi7Av9cMg.png) 
+<figure>[![](img/84a7ddb14040fca591893f75cbd48e0d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Yt-ny_jK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/415/1%2ACEKbkNN5tFgbcBi7Av9cMg.png) 
 
 <figcaption>nodemon 运行</figcaption>
 
@@ -78,7 +78,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 结果是:
 
-[![](../Images/e1fd4e900033c9676dbdb52c2883f017.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PcPOJE_P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/490/1%2AkiUdir5yWxMpi0mrjtHv1g.png)
+[![](img/e1fd4e900033c9676dbdb52c2883f017.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PcPOJE_P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/490/1%2AkiUdir5yWxMpi0mrjtHv1g.png)
 
 节点无法识别 ES6 导出/导入关键字。为了解决这个问题，我们需要 babel 将我们的导出默认 sayHello 编译成类似 exports.default = sayHello 的内容。
 
@@ -169,7 +169,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在 npm 运行调试后，您可以看到以下消息。
 
-<figure>[![](../Images/acf5f4391e50fb9c22c753edc7ead086.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DexLx0X1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/528/1%2AUkiT3sh0wdFJrlwuOB3xXA.jpeg) 
+<figure>[![](img/acf5f4391e50fb9c22c753edc7ead086.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DexLx0X1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/528/1%2AUkiT3sh0wdFJrlwuOB3xXA.jpeg) 
 
 <figcaption>节点调试</figcaption>
 
@@ -179,7 +179,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 然后，粘贴到浏览器，就大功告成了。
 
-<figure>[![](../Images/53f80ab40958e71cce72a907a98a19bc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Q-627D19--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/865/1%2AZ_kvpfcVgKxf9KBepe5RJg.png) 
+<figure>[![](img/53f80ab40958e71cce72a907a98a19bc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Q-627D19--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/865/1%2AZ_kvpfcVgKxf9KBepe5RJg.png) 
 
 <figcaption>快乐调试！</figcaption>
 

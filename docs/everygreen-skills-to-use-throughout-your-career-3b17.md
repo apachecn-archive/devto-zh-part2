@@ -17,7 +17,7 @@
 * * 2018 年 12 月 14 日更新**
 查看[亚历克斯·福克斯](https://dev.to/alexfawkes)的这篇精彩文章，他在文章中更深入地讨论了这个话题。
 
-[![alexfawkes image](../Images/c93893369c36ff8c563c23118556faf5.png)](/alexfawkes) [## 软件开发:有些事情永远不会改变
+[![alexfawkes image](img/c93893369c36ff8c563c23118556faf5.png)](/alexfawkes) [## 软件开发:有些事情永远不会改变
 
 ### 亚历克斯福克斯 12 月 13 日 185 分钟阅读
 

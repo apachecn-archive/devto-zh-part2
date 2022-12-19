@@ -42,11 +42,11 @@ Formik 还与 material-ui 无缝集成；这是一个 react 库，实现了 Goog
 
 运行此程序后，我们的项目结构应该如下所示:
 
-[![File structure](../Images/b86bf3e81593e045ac490b5e02a2b835.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E3uJzReP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fv238hoxcca3720tzhow.JPG)
+[![File structure](img/b86bf3e81593e045ac490b5e02a2b835.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E3uJzReP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fv238hoxcca3720tzhow.JPG)
 
 现在打开`src`文件夹中的`App.js`文件，然后删除类名为 App 的父文件`div`的内容。
 
-[![App.js](../Images/7be0ebd15c899ba30b8653bb36b1f0be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3iqG9gtB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh4.googleusercontent.com/w8XxgNeL9WNB2ZrQ0MF_YPYB5FAAapixo1CeXdP3N-j_yHzio4J7Em5U2iBsk7UhsKFygnqZGOYLEPOfUjee11UCwuZZq8NtiIq_tRluLmy0x2tSyI-x1TMdipWKn6YfKg)
+[![App.js](img/7be0ebd15c899ba30b8653bb36b1f0be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3iqG9gtB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh4.googleusercontent.com/w8XxgNeL9WNB2ZrQ0MF_YPYB5FAAapixo1CeXdP3N-j_yHzio4J7Em5U2iBsk7UhsKFygnqZGOYLEPOfUjee11UCwuZZq8NtiIq_tRluLmy0x2tSyI-x1TMdipWKn6YfKg)
 
 在你的终端运行
 
@@ -60,7 +60,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您的 src 文件夹现在应该是这样的:
 
-[![src now](../Images/9062ba84dae6ccffa99e325c7ef83065.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UPyyzDLN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6ghktpphit5kkcc7vmvv.JPG)
+[![src now](img/9062ba84dae6ccffa99e325c7ef83065.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UPyyzDLN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6ghktpphit5kkcc7vmvv.JPG)
 
 `form.js`文件将包含演示文稿，而`index.js`将包含大部分逻辑。
 目前你的应用程序应该显示一个空白页，所以现在让我们显示我们的表单。
@@ -212,7 +212,7 @@ export default App;
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![initial form](../Images/1430f6f1ba038f9214e1b5ee42f01ab6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eqfil1wj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh5.googleusercontent.com/jjBRs0HyIS4F-zT58_JGnyEFk95S2Sb7bBrqdR3gg8KS-44VfGz4KzYwqQX3MXpMAcZZRszgXVEb6KbZwzMeUiukWA5Gp2tkp-QOlc9dp2AXIr5L8ItPjr3v4BtY80eZJ_HnfFXk)
+[![initial form](img/1430f6f1ba038f9214e1b5ee42f01ab6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eqfil1wj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh5.googleusercontent.com/jjBRs0HyIS4F-zT58_JGnyEFk95S2Sb7bBrqdR3gg8KS-44VfGz4KzYwqQX3MXpMAcZZRszgXVEb6KbZwzMeUiukWA5Gp2tkp-QOlc9dp2AXIr5L8ItPjr3v4BtY80eZJ_HnfFXk)
 
 现在我们已经呈现了表单，让我们从表单验证开始。这就是需要 Yup 的地方，基本上，Yup 提供了帮助我们编写直观的验证规则的函数。
 首先我们将 Yup 导入到`InputForm`文件夹中的`Index.js`文件中，然后我们使用它的 API 来编写我们的验证规则。
@@ -422,7 +422,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 最后，`Button`组件有一个名为`disabled`的属性来禁用按钮，我们将其设置为非`!isValid`,因此如果 errors 对象中有任何错误，按钮将保持禁用状态，我的意思是我们不想提交无效的值。
 
-[![working final form](../Images/535755a6090445102a67f582db3acb68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Sx1htTrv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/g4xGDrOUKZzvQMjH9UgQI0IXuTwMw17-a_T6O0Zuj77Gsj8EhWcTUOBv_SjHscppBcM5d21IuecBP7ESA4Gou8nyafNKAEn-2F3TbXJAxNBzwM5IyRiew2xYKn-GFMPs3oVW-dET)
+[![working final form](img/535755a6090445102a67f582db3acb68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Sx1htTrv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/g4xGDrOUKZzvQMjH9UgQI0IXuTwMw17-a_T6O0Zuj77Gsj8EhWcTUOBv_SjHscppBcM5d21IuecBP7ESA4Gou8nyafNKAEn-2F3TbXJAxNBzwM5IyRiew2xYKn-GFMPs3oVW-dET)
 
 用 Formik，Material-UI 和 Yup 创建表单是很棒的。
 

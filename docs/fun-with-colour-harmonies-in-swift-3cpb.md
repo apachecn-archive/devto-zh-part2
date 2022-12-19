@@ -18,7 +18,7 @@
 
 一旦转换，我知道色调是围绕圆形色轮的角度。
 
-[![HBq9I.png](../Images/a132c2a7001f8a019acf8492323058ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XvuC0uLM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5b0e418a562fa77adff8c2d5/1527660949300/HBq9I.png%3Fformat%3D1000w)
+[![HBq9I.png](img/a132c2a7001f8a019acf8492323058ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XvuC0uLM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5b0e418a562fa77adff8c2d5/1527660949300/HBq9I.png%3Fformat%3D1000w)
 
 因此，从这里开始，我只需要添加所需的角度(180 度表示互补)，然后将值标准化，以找到新颜色的色调。其余组件将保持不变。再次重建 RGB 值，然后我们有一个颜色。
 

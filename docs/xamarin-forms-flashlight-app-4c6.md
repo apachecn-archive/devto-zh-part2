@@ -10,7 +10,7 @@
 
 *   kphillpotts。Lamp.Plugin ** Android 输出**
 
-| [![Xamarin](../Images/20a39b205c3b407b4fa4941e61b7249d.png "Xamarin.Forms") ](https://2.bp.blogspot.com/-dO02YggTyz4/W4V1mPfcg0I/AAAAAAAAK2U/sTFlgJfFQxgMahab2WGWw0iAmK24nCg-wCEwYBhgL/s1600/Android%2BOutput.gif) |
+| [![Xamarin](img/20a39b205c3b407b4fa4941e61b7249d.png "Xamarin.Forms") ](https://2.bp.blogspot.com/-dO02YggTyz4/W4V1mPfcg0I/AAAAAAAAK2U/sTFlgJfFQxgMahab2WGWw0iAmK24nCg-wCEwYBhgL/s1600/Android%2BOutput.gif) |
 |安卓输出|
 
 我们开始吧。
@@ -23,7 +23,7 @@
 
 (例如-项目名称:LampDemo)
 
-| [![Xamarin](../Images/f7ca3815f020e660011462213c4db1c4.png "Xamarin.Forms") ](https://3.bp.blogspot.com/-u41JsyR-tXU/W4V1mCgf0bI/AAAAAAAAK2Y/BgBHdsM5xO8DUD_y_YxABcuO9dy4UWaaQCEwYBhgL/s1600/Create.png) |
+| [![Xamarin](img/f7ca3815f020e660011462213c4db1c4.png "Xamarin.Forms") ](https://3.bp.blogspot.com/-u41JsyR-tXU/W4V1mCgf0bI/AAAAAAAAK2Y/BgBHdsM5xO8DUD_y_YxABcuO9dy4UWaaQCEwYBhgL/s1600/Create.png) |
 |创建
 
 **第二步**
@@ -34,7 +34,7 @@
 
 *   kphillpotts。灯。插件
 
-| [![Xamarin](../Images/49a56abe0cb383609794b806e1823fb5.png "Xamarin.Forms") ](https://2.bp.blogspot.com/-gnIrorfpP18/W4V1mEhXH9I/AAAAAAAAK2c/OkAnE0cQbV4lpoKWbB6maquRn0DCiu4VQCEwYBhgL/s1600/Nuget.png) |
+| [![Xamarin](img/49a56abe0cb383609794b806e1823fb5.png "Xamarin.Forms") ](https://2.bp.blogspot.com/-gnIrorfpP18/W4V1mEhXH9I/AAAAAAAAK2c/OkAnE0cQbV4lpoKWbB6maquRn0DCiu4VQCEwYBhgL/s1600/Nuget.png) |
 | Nuget |
 
 为此，请打开解决方案资源管理器并选择您的解决方案。右键单击并选择“管理解决方案的 NuGet 包”。在弹出窗口中，单击导航到“浏览”选项卡，然后单击浏览“kphillpotts”。Lamp.Plugin”并选择以下 NuGet 包，选择您的项目，然后安装它。

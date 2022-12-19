@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/elemarjr/the-1-rule-for-net-performance--46jf>
 
-[![](../Images/8d23abd80fb1bc1a35a77e252fd0bbca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8ZFQtWbC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/chuttersnap-381972-unsplash-300x200.jpg)
+[![](img/8d23abd80fb1bc1a35a77e252fd0bbca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8ZFQtWbC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/chuttersnap-381972-unsplash-300x200.jpg)
 
 如果你问我一个提高应用程序性能的技巧，那就是:
 

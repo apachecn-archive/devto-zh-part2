@@ -8,7 +8,7 @@
 
 如果你还没有订阅，可以在我的[网站](https://aibolik.github.io)随意订阅——底部有一张表格。
 
-[![JSinDEV weekly newsletters](../Images/c0a364e332011fcbd075f30b956dfd3e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TwyPxSNq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wxxpw3o91gaz90w25q8w.png)
+[![JSinDEV weekly newsletters](img/c0a364e332011fcbd075f30b956dfd3e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TwyPxSNq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wxxpw3o91gaz90w25q8w.png)
 
 又及:嘿，我最近开通了我的网站/博客，所以如果你想跟随我的脚步，看看我在做什么，请关注我的推特(twitter)。
 

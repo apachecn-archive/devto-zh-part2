@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/anadea/in-app-advertising-guide-for-developers-4a5i>
 
-[![In-app advertising](../Images/55aab9e801ed6ab7faf4a81450c7805a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ju-C97xe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anadea.info/uploads/image_attachment/image/1538/In-app-ads.jpg)
+[![In-app advertising](img/55aab9e801ed6ab7faf4a81450c7805a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ju-C97xe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anadea.info/uploads/image_attachment/image/1538/In-app-ads.jpg)
 
 广告一直是公司的收入来源。有时广告补充订阅收入，其他时候整个业务几乎完全由广告资助。后一种模式是过去开放电波广播公司赚钱的方式。
 
@@ -42,7 +42,7 @@
 
 应用内广告非常普遍。许多应用程序的收入 100%来自广告。然而，这类似于谚语中的鸡蛋篮子:你不应该完全依赖单一的收入来源。考虑其他收入渠道，比如应用内购买或升级版本，为愿意付费的人完全删除广告。
 
-事实上，[应用收入前景](https://amp.businessinsider.com/images/5984879176084a1d008b5721-640-487.png)表明，应用内购买占了非广告收入的绝大部分，而付费安装和订阅只占很小一部分。记住这一点，仔细考虑你的路线多样化你的收入来源。
+事实上，[应用收入前景](https://amp.businessinsider.cimg/5984879176084a1d008b5721-640-487.png)表明，应用内购买占了非广告收入的绝大部分，而付费安装和订阅只占很小一部分。记住这一点，仔细考虑你的路线多样化你的收入来源。
 
 如果你是一个更喜欢视觉的人，你可以在一个说明性的信息图[这里](https://s3-us-west-2.amazonaws.com/enh-ig/DevelopersGuideInAppAds.png)中看到所有这些。
 

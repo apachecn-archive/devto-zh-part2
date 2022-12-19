@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/mudra2rao/7-ways-to-boost-the-advertising-of-your-magento-mobile-app-2237>
 
-[![magento mobile app Marketing](../Images/816821f7d0a476ef23df7ef63cb8e98a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ax66t-u9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ieeis39jw46adkenfptm.jpeg)
+[![magento mobile app Marketing](img/816821f7d0a476ef23df7ef63cb8e98a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ax66t-u9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ieeis39jw46adkenfptm.jpeg)
 
 **1。使用正确的分析方法**
 

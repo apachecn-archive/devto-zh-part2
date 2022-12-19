@@ -2,11 +2,11 @@
 
 > 原文：<https://dev.to/ahmetcadirci25/sublime-text-3-24k5>
 
-[![Sublime Text 3 Kurulumu](../Images/840d00005adaef241a42c6ef7f45a9fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ptHFBGmO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0xt5oihkmnqhbmlwtzm2.png)
+[![Sublime Text 3 Kurulumu](img/840d00005adaef241a42c6ef7f45a9fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ptHFBGmO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0xt5oihkmnqhbmlwtzm2.png)
 
 安装 superior text 3 并安装常用的外挂程式
 
-## ![](../Images/375dfcc32199b4dedf2b526645c27ff7.png)/[sublime-text-3](https://github.com/ahmetcadirci25/sublime-text-3)
+## ![](img/375dfcc32199b4dedf2b526645c27ff7.png)/[sublime-text-3](https://github.com/ahmetcadirci25/sublime-text-3)
 
 ### 安装 superior text 3 并安装常用的外挂程式
 

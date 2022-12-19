@@ -16,13 +16,13 @@ VIP 与 VIPER 非常相似，因为两者都源于鲍勃叔叔的干净建筑理
 
 VIP 图描述了它的主要结构，这解释了它的缩写定义:view controller/Interactor/Presenter 关系，或者他们称之为:VIP 循环。
 
-[![The unidirectional VIP cycle.](../Images/80e33f8fefc397c32e63ba55b94acc2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LveWSv7E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5b97ac750ebbe8b81e090c9e/1536666750484/the-vip-cycle.png%3Fformat%3D1000w)
+[![The unidirectional VIP cycle.](img/80e33f8fefc397c32e63ba55b94acc2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LveWSv7E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5b97ac750ebbe8b81e090c9e/1536666750484/the-vip-cycle.png%3Fformat%3D1000w)
 
 单向 VIP 循环。
 
 VIP 周期不同于我们之前视频中描述的 VIPER 关系模型。在 VIPER 中，交互者和演示者之间以及视图和演示者之间的通信是双向的。
 
-[![The bidirectional VIPER cycle.](../Images/e406ad0ab23b407c1d851825e88cdbd4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cPJapK_m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5b97aca5cd8366c14a4dd945/1536666797140/viper.png%3Fformat%3D1000w)
+[![The bidirectional VIPER cycle.](img/e406ad0ab23b407c1d851825e88cdbd4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cPJapK_m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5b97aca5cd8366c14a4dd945/1536666797140/viper.png%3Fformat%3D1000w)
 
 双向毒蛇循环。
 
@@ -42,7 +42,7 @@ VIP 还鼓励使用模板来“促进”其实施。拥有模板可能非常方�
 
 让我们来看看 [Clean Swift 示例项目(CleanStore)](https://github.com/Clean-Swift/CleanStore) 依赖关系图。
 
-[![CleanStore sample project class and module dependencies diagram.](../Images/d43f64ac3b0def3e25a11996db74b4d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yYrLiQgw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5b97ad101ae6cfbcdbd675a7/1536666904060/diagram-1.png%3Fformat%3D1000w)
+[![CleanStore sample project class and module dependencies diagram.](img/d43f64ac3b0def3e25a11996db74b4d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yYrLiQgw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5b97ad101ae6cfbcdbd675a7/1536666904060/diagram-1.png%3Fformat%3D1000w)
 
 [CleanStore 示例项目](https://github.com/Clean-Swift/CleanStore)类和模块依赖关系图。
 
@@ -50,13 +50,13 @@ VIP 还鼓励使用模板来“促进”其实施。拥有模板可能非常方�
 
 在 Clean Swift 示例应用程序中，应用程序在场景(或模块)中是分离的。有列出订单场景、创建订单场景和显示订单场景。对模块依赖关系的更高层次的观察表明，场景之间以及与其他系统组件之间是高度耦合的。
 
-[![High-level modules dependencies diagram shows a highly coupled architecture.](../Images/b1466ab5a20ba6bdf1f671324c77ced4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DImjpUR2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5b97ad3a40ec9af58bd2391d/1536666949774/diagram-2.png%3Fformat%3D1000w)
+[![High-level modules dependencies diagram shows a highly coupled architecture.](img/b1466ab5a20ba6bdf1f671324c77ced4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DImjpUR2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5b97ad3a40ec9af58bd2391d/1536666949774/diagram-2.png%3Fformat%3D1000w)
 
 高级模块依赖关系图显示了一个高度耦合的架构。
 
 查看应用程序架构的另一种方式是以循环的形式检查其模块，这样我们可以看到模块之间的依赖关系。越靠近中心，模块越抽象，越独立。
 
-[![High-level modules dependencies diagram shows a highly coupled, monolithic architecture.](../Images/efbfac508a96b9e30ca7410d69fbe3ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wu8ru--l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5b97ad6e575d1f202ba3b2b9/1536667007880/diagram-3.png%3Fformat%3D1000w)
+[![High-level modules dependencies diagram shows a highly coupled, monolithic architecture.](img/efbfac508a96b9e30ca7410d69fbe3ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wu8ru--l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5b97ad6e575d1f202ba3b2b9/1536667007880/diagram-3.png%3Fformat%3D1000w)
 
 高级模块依赖关系图显示了一个高度耦合的整体架构。
 

@@ -16,10 +16,10 @@
 
 在 1994 年之前，我们使用“有类”寻址，将 IP 地址分为“路由前缀”(表示 A、B 或 C 类)、“网络 ID”部分和“主机 ID”部分:
 
-[![https://knowledgeofthings.com/wp-content/uploads/2017/10/ipclassful.png](../Images/32330b0702a755155b2b3b15eb7a2483.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GoPH9oSD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://knowledgeofthings.com/wp-content/uploads/2017/10/ipclassful.png)
+[![https://knowledgeofthings.com/wp-content/uploads/2017/10/ipclassful.png](img/32330b0702a755155b2b3b15eb7a2483.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GoPH9oSD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://knowledgeofthings.com/wp-content/uploads/2017/10/ipclassful.png)
 
 早在 1992 年，路由表中只有大约 5000 个路由前缀，但在 1994 年，这种趋势加速发展，显然这是不可持续的，我们开始用完 C 类地址，同时仍然为未使用的 A 类和 B 类保留整个 IPv4 地址空间。
-[![http://media.packetlife.net/media/blog/attachments/702/plot.png](../Images/9cf91c7d4a183af2968945df169b26af.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--CEGPxaAr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://media.packetlife.net/media/blog/attachments/702/plot.png)
+[![http://media.packetlife.net/media/blog/attachments/702/plot.png](img/9cf91c7d4a183af2968945df169b26af.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--CEGPxaAr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://media.packetlife.net/media/blog/attachments/702/plot.png)
 
 ## 无类域间路由(CIDR)
 
@@ -69,7 +69,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 另一个解决方案是 IPv6。IPv6 不仅增加了更多的地址位，还清除了报头中的大量粘性物质。以下是必填字段的比较:
 
-[![https://www.researchgate.net/profile/Muzhir_Al-Ani/publication/269810379/figure/fig1/AS:295073662160901@1447362451826/Comparison-of-IPv4-and-IPv6-headers-structures-15.png](../Images/8b2a418ce236436d01a6f07df0cdc91e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IKeUqY2i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.researchgate.net/profile/Muzhir_Al-Ani/publication/269810379/figure/fig1/AS:295073662160901%401447362451826/Comparison-of-IPv4-and-IPv6-headers-structures-15.png)
+[![https://www.researchgate.net/profile/Muzhir_Al-Ani/publication/269810379/figure/fig1/AS:295073662160901@1447362451826/Comparison-of-IPv4-and-IPv6-headers-structures-15.png](img/8b2a418ce236436d01a6f07df0cdc91e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IKeUqY2i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.researchgate.net/profile/Muzhir_Al-Ani/publication/269810379/figure/fig1/AS:295073662160901%401447362451826/Comparison-of-IPv4-and-IPv6-headers-structures-15.png)
 
 IPv6 的优势:
 
@@ -90,7 +90,7 @@ IP 地址按层级分配给 ISP:
 
 这一直持续到 2011 年，那时 [IANA 给出了最后一个“/8”区块](https://www.nro.net/ipv4-free-pool-depleted/)。有趣的是，注册管理机构之间的分配并不均衡:
 
-[![https://www.cisco.com/c/dam/en_us/about/ac123/ac147/images/ipj/ipj_8-3/83_ipv4_figure_01_lg.jpg](../Images/d8183400e663a3b35c831c8200bd7d83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UaiFafLi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.cisco.com/c/dam/en_us/about/ac123/ac147/images/ipj/ipj_8-3/83_ipv4_figure_01_lg.jpg)
+[![https://www.cisco.com/c/dam/en_us/about/ac123/ac1img/ipj/ipj_8-3/83_ipv4_figure_01_lg.jpg](img/d8183400e663a3b35c831c8200bd7d83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UaiFafLi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.cisco.com/c/dam/en_us/about/ac123/ac1img/ipj/ipj_8-3/83_ipv4_figure_01_lg.jpg)
 
 这也是一个不错的 CIDR 备忘单，显示了有类到无类的转换，以及每个地址范围内的分配和其中的例外:[https://oav.net/mirrors/cidr.html](https://oav.net/mirrors/cidr.html)。
 

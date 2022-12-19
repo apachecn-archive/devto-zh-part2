@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/robertjgabriel/writing-github-readmes-and-markdown-easier--d75>
 
-[![alt text](../Images/145e4880d21f300dd0b02a829ba27827.png "Logo Title Text 1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tpNZFO1m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vhpahbpfpkosbufmrnpx.jpg)
+[![alt text](img/145e4880d21f300dd0b02a829ba27827.png "Logo Title Text 1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tpNZFO1m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vhpahbpfpkosbufmrnpx.jpg)
 
 如果你和我一样是开发者。你喜欢用减价的方式写作。所以我创建了这个插件，它可以让你不用离开浏览器就能写 markdown，支持所有流行的编码语言，在你打字的时候就能看到它。即使是像 dev.to 这样的地方，不用点击预览就可以看到你输入的内容。使用 vue.js 和 gulp 制作
 

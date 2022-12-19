@@ -2,19 +2,19 @@
 
 > 原文：<https://dev.to/bnevilleoneill/working-with-the-blazor-javascript-interop-52op>
 
-[![](../Images/377fbcc178bdcaf8dc1c044e918501bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nQ3ZaG7---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A9VnQHM6JhrXhm6otyaMVmQ.png)
+[![](img/377fbcc178bdcaf8dc1c044e918501bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nQ3ZaG7---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A9VnQHM6JhrXhm6otyaMVmQ.png)
 
 在本文中，我们将研究 Blazor，一个基于。使用 WebAssembly 在浏览器中运行的. NET。我们将了解 Blazor 如何处理 JavaScript 调用，为什么它是必要的，以及如何使用它。
 
 随着 WebAssembly(缩写为 Wasm)的发展势头越来越猛，了解当前的功能非常重要。WebAssembly 无法直接访问浏览器的 DOM API，但是它可以调用 JavaScript。由于这个缺点，JavaScript 仍然是 web 开发的一部分。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### **Blazor、Mono 和 WebAssembly**
 
 WebAssembly (Wasm)是一种二进制指令格式，旨在为 C#等高级语言提供编译目标。最近，微软开始试验 WebAssembly 来实现。NET 到使用 Mono 运行时的浏览器。Mono 提供了基本的管道。NET 库(.dll)在 WebAssembly 上运行。
 
-[![](../Images/13c2c5a67d83e6563e83874a5f558a3d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--80OTanSn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AVdBE4STMMqP_9g7EKZsEJw.jpeg)
+[![](img/13c2c5a67d83e6563e83874a5f558a3d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--80OTanSn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AVdBE4STMMqP_9g7EKZsEJw.jpeg)
 
 <figcaption>Blazor&浏览器关系框图</figcaption>
 
@@ -125,7 +125,7 @@ public class PromptInterop
 } 
 ```
 
-[![](../Images/c8a228768e8c0c0b6ad98f28a7809f99.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dFWkES95--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/400/1%2AaVDRr5sTO7oOnrX1YmnRVg.gif)
+[![](img/c8a228768e8c0c0b6ad98f28a7809f99.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dFWkES95--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/400/1%2AaVDRr5sTO7oOnrX1YmnRVg.gif)
 
 <figcaption>Blazor JavaScript interop 提供浏览器提示</figcaption>
 
@@ -139,7 +139,7 @@ public class PromptInterop
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

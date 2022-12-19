@@ -14,7 +14,7 @@
 
 然而，不要让漂亮整洁的语法将您的注意力从并发性以及如何从并发运行任务中获益上转移开，这是一个好主意。
 
-[![](../Images/662982999c619370ae5a33dda52e3c01.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NAZrML4C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/500/1%2AWep4GsSxXmvbToTx60c5ug.gif) 
+[![](img/662982999c619370ae5a33dda52e3c01.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NAZrML4C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/500/1%2AWep4GsSxXmvbToTx60c5ug.gif) 
 *多任务*
 
 > **并发计算**是[计算](https://en.wikipedia.org/wiki/Computing)的一种形式，其中几个[计算](https://en.wikipedia.org/wiki/Computation)在重叠的时间段内执行——并发[——而不是顺序执行(一个在下一个开始之前完成)。](https://en.wikipedia.org/wiki/Concurrency_(computer_science))

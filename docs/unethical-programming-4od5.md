@@ -4,7 +4,7 @@
 
 最近我遇到了两个链接，这两个链接让我想起了道德和编程，以及我们在 4 月份围绕这个主题进行的讨论:
 
-[![bosepchuk](../Images/4a2750bf6275f976448741ffad56eee7.png)](/bosepchuk) [## 使用特斯拉 Autopilot 软件合乎道德吗？
+[![bosepchuk](img/4a2750bf6275f976448741ffad56eee7.png)](/bosepchuk) [## 使用特斯拉 Autopilot 软件合乎道德吗？
 
 ### Blaine Osepchuk 4 月 30 日 18 时 14 分读取
 

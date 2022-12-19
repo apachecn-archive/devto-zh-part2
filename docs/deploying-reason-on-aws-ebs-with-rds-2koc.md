@@ -54,7 +54,7 @@ yarn add -D webpack-node-externals
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/5272e2f6819942f9b1f64e9fda9e8051.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LbTkEQuk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0ptcuig2u7zhbngat8w9.jpg)
+[![](img/5272e2f6819942f9b1f64e9fda9e8051.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LbTkEQuk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0ptcuig2u7zhbngat8w9.jpg)
 
 但是当用键`whitelist`调用`nodeExternals(..)`时，您会看到您已经传递了一个 config 对象。这是你*想要捆绑*的一系列东西。
 
@@ -112,7 +112,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 *   您需要编辑该安全组的传入权限，并打开数据库正在监听的端口，以接收来自同一个安全组的传入流量*。你需要告诉它，它可以访问自己！*
 
-[![](../Images/7fc4c7cb01d9e11fd5bd806bede2543b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iIFCx-Um--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p05voxx5uvldy8ul98ax.jpeg)
+[![](img/7fc4c7cb01d9e11fd5bd806bede2543b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iIFCx-Um--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p05voxx5uvldy8ul98ax.jpeg)
 
 您将在上面的快照中看到，安全组`sg-9...`现在指定它应该允许端口 5432 上来自安全组`sg-9...`(同一个组)的流量。
 
@@ -134,4 +134,4 @@ Enter fullscreen mode Exit fullscreen mode
 *   部署之后，您可以在`/var/app`中找到您的应用程序代码
 *   如果你很难从你的实例连接到其他的机器和端口，你可以从你的 EB 机器运行`nc -vf <host> <port>`看看它是否能到达那个端口。这在弄清楚 EB 和 RDS 之间的联系时帮助很大。
 
-[![](../Images/36ef77182fdb30b5a8c2228c5ed8596d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wfKEBH9R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ygoyrhjlpz3nru1nqoi5.jpg)
+[![](img/36ef77182fdb30b5a8c2228c5ed8596d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wfKEBH9R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ygoyrhjlpz3nru1nqoi5.jpg)

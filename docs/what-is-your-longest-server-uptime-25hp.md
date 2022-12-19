@@ -8,6 +8,6 @@
 
 今天，我将一台运行 LAMP stack 的服务器迁移到一个新的位置，对它的正常运行时间感到震惊。这可能不是很多，但对我来说是我目前的记录！这台服务器在平均负载为 91%的情况下工作了 437 天！
 
-[![serveruptime](../Images/958f3040cccc69fae7d4f36bfc614835.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GAgUVdrv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/122rmfvigydl72vey8c1.png)
+[![serveruptime](img/958f3040cccc69fae7d4f36bfc614835.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GAgUVdrv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/122rmfvigydl72vey8c1.png)
 
 我的问题是，您的服务器最长正常运行时间是多久？你是怎么做到的？

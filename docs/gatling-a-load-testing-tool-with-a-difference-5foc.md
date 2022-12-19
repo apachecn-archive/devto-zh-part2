@@ -34,23 +34,23 @@ Gatling 允许用户(开发者/操作者)在选择的浏览器中记录一系列
 
 为`Package`输入一个值(想想`vendor`，然后提供一个类名值。
 
-[![](../Images/f943b37b518fa0da09494430416d34e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bOGKRv8_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidjeddy.com/wp-content/uploads/2018/07/Gatling-Main-UI.png)
+[![](img/f943b37b518fa0da09494430416d34e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bOGKRv8_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidjeddy.com/wp-content/uploads/2018/07/Gatling-Main-UI.png)
 
 我查了一下`Save preferences`；终于打到`Start!`。不一会儿，记录器窗口出现了。暂时不要管它。
 
 接下来，我启动了 Firefox，并将代理设置为对所有请求使用 localhost:8000。
 
-[![](../Images/cde1993007ea9fbf520a7eec452657db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZXm43KDr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidjeddy.com/wp-content/uploads/2018/07/Firefox-Proxy-2400x1296.png)
+[![](img/cde1993007ea9fbf520a7eec452657db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZXm43KDr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidjeddy.com/wp-content/uploads/2018/07/Firefox-Proxy-2400x1296.png)
 
 访问我选择的网站(我用了[这个网站](http://davidjeddy.com/))。你应该在记录器的`Executed Events`面板上看到一些输出。这很好，非常好。
 
 我在网站上走来走去，记录了一些其他的事件。
 
-[![](../Images/33f9cc37b4b370202b888273f36d05cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cZy4kf0u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidjeddy.com/wp-content/uploads/2018/07/Gatling-Recording-User-Events.png)
+[![](img/33f9cc37b4b370202b888273f36d05cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cZy4kf0u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidjeddy.com/wp-content/uploads/2018/07/Gatling-Recording-User-Events.png)
 
 完成后，我按下`stop & save`按钮，窗口关闭。
 
-[![](../Images/2fa50a1b8ec9b009348654cfeeab09c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FzWvepv9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidjeddy.com/wp-content/uploads/2018/07/Gatling-Recorder-Stop.png)
+[![](img/2fa50a1b8ec9b009348654cfeeab09c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FzWvepv9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidjeddy.com/wp-content/uploads/2018/07/Gatling-Recorder-Stop.png)
 
 当我完成了 UI，我也关闭了主窗口。
 
@@ -58,21 +58,21 @@ Gatling 允许用户(开发者/操作者)在选择的浏览器中记录一系列
 
 回到终端，执行记录的过程出人意料地简单。执行`./bin/gatling.sh`产生预期的包/类名选项。将这些与许多其他工具中的 suite/test 联系起来考虑。
 
-[![](../Images/59e92ce36ed82c490bfeecebbc0dd2c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AGP2bfFR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidjeddy.com/wp-content/uploads/2018/07/Gatling-execute-1.png)
+[![](img/59e92ce36ed82c490bfeecebbc0dd2c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AGP2bfFR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidjeddy.com/wp-content/uploads/2018/07/Gatling-execute-1.png)
 
 选择正确的值并按几次 enter 键，我看到执行步骤正在运行。
 
 测试时间将与原始记录的过程一样长，甚至更长。步骤之间的等待、资源加载、点击等等。
 
-[![](../Images/a5f1ab1d1035daba8c16f2a0d85180d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DHtsc5D---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidjeddy.com/wp-content/uploads/2018/07/Gatling-execute-2.png)
+[![](img/a5f1ab1d1035daba8c16f2a0d85180d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DHtsc5D---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidjeddy.com/wp-content/uploads/2018/07/Gatling-execute-2.png)
 
 最后，Gatling 提供了一个本地 URL，可以在带有漂亮图形的浏览器中查看结果。
 
-[![](../Images/a912c424bae3f39704c7e80f6e1622e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SgcAvRJ_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidjeddy.com/wp-content/uploads/2018/07/Gatling-execute-3.png)
+[![](img/a912c424bae3f39704c7e80f6e1622e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SgcAvRJ_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidjeddy.com/wp-content/uploads/2018/07/Gatling-execute-3.png)
 
 与许多其他负载测试工具相比，这是非常好的部分。
 
-[![](../Images/aa53fdb96e87d899dc48a976e26fd3d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zxpnpSHd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidjeddy.com/wp-content/uploads/2018/07/Gatling-Graphs.png)
+[![](img/aa53fdb96e87d899dc48a976e26fd3d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zxpnpSHd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidjeddy.com/wp-content/uploads/2018/07/Gatling-Graphs.png)
 
 **结论**
 

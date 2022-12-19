@@ -12,7 +12,7 @@
 
 相比之下，编写过程本身出奇的简单:一个纯文本编辑器，Kate with markdown。我不想因为格式化而分心；文本编辑器让我可以立即开始，在文档中跳来跳去，轻松地进行修改。
 
-[![Screenshot of this article](../Images/7d44bad29b76f13e26cf3c9f6d09bc09.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dkI8E3Y4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/04/screenshot_20180406_103825.png)
+[![Screenshot of this article](img/7d44bad29b76f13e26cf3c9f6d09bc09.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dkI8E3Y4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/04/screenshot_20180406_103825.png)
 
 像编码一样，我使用比例字体并启用换行。
 
@@ -36,7 +36,7 @@ $`a + b`
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/b8c1435d507e235666361f09188a6b8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fVUC_T2s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s0.wp.com/latex.php%3Flatex%3Da%2B%252B%2Bb%26bg%3Dffffff%26fg%3D333333%26s%3D0)
+[![](img/b8c1435d507e235666361f09188a6b8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fVUC_T2s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s0.wp.com/latex.php%3Flatex%3Da%2B%252B%2Bb%26bg%3Dffffff%26fg%3D333333%26s%3D0)
 
 我的许多文章使用公式，并受益于适当的数学格式。尽管我认为 Latex 是一种糟糕的语言，但它支持我可能需要的任何等式。美元+反勾号扩展允许我内联 latex。
 

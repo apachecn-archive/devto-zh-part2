@@ -13,7 +13,7 @@
 *“清森的守护者！”*是一个游戏，你控制*哥达*和*塔努基*(一个森林精灵)，他必须对抗他的家*清森森林*的腐败。这是用 *Unity* 实现的 3D 制版器。
 我们是一个包括图形师、游戏设计师、程序员在内的 15 人团队。我们在学校项目的范围内制作它，我们的目标是在我们学校组织的 *Gamagora GameShow* 上展示它。
 
-[![The Koda's team](../Images/66150acb7b65d47a91945719e19a3c44.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--a1GlhDhA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.mathieu-nivoliez.com/images/koda_team.gif) 
+[![The Koda's team](img/66150acb7b65d47a91945719e19a3c44.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--a1GlhDhA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.mathieu-nivoliez.cimg/koda_team.gif) 
 *我是中间跳舞的金发女郎*
 
 我们必须开发到三月底，并且有一个*公吨*的任务要完成。我相信我们有足够动力去实现它们。

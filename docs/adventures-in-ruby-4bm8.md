@@ -20,7 +20,7 @@
 
 ### 模型架构
 
-[![](../Images/5b62a8fc5fd0b7bd03250f4c8b3d49cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dXeD_apw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2013/01/chickenegg1.jpg%3Fw%3D300%26ssl%3D1)
+[![](img/5b62a8fc5fd0b7bd03250f4c8b3d49cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dXeD_apw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2013/01/chickenegg1.jpg%3Fw%3D300%26ssl%3D1)
 
 这个特殊的话题似乎在我脑海中引发了最多的问题。有时我会困惑，直到我发现自己陷入了一个无限的循环，在循环中旋转，直到我找到了终点或起点。先有鸡还是先有蛋？鸡蛋是鸡的产物，还是鸡是鸡蛋的产物？开始无限循环。慌！利用我对所属关系、拥有关系、拥有关系和对象关系的理解，我坐下来写下了三种不同的构建模型的方法，并选择了一种感觉最自然的方法来实现我的应用程序的功能。我已经将该文档包含在我的项目文件中，并最终在决定当前配置之前，对其进行了重构，测试了另外两种架构安排。
 
@@ -32,11 +32,11 @@
 
 ### 对象重复
 
-[![](../Images/2721ee8dc8790ea3df70e2e59ff691d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MI-9YjGL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.vikrambedi.com/wp-content/uploads/2017/10/duplicate-content-image.jpg)
+[![](img/2721ee8dc8790ea3df70e2e59ff691d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MI-9YjGL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.vikrambedi.com/wp-content/uploads/2017/10/duplicate-content-image.jpg)
 
 在测试我的列出所有快捷方式功能时，我发现了一个让我困惑的有趣的错误。我的第一个操作系统显示了所有正确的对象和值，而第二个操作系统返回了所有请求的对象和一个副本，第三个操作系统似乎返回了快捷方式对象的三个副本。然而在其他时候，这个程序似乎运行得完美无缺。这种不一致使我更加困惑。在写这篇文章的时候，我不知道是什么导致了这个错误，这是完成我的项目的最后细节。当我打这些信的时候，闪电来了，我有了一个“啊啊啊”的时刻。
 
-[![](../Images/fe51b25cee54e44734cf86306e6bcdfd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DWEPeCKX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vignette.wikia.nocookie.net/buddyfight/images/d/d8/Homer-simpson-quotes-doh-i11.jpg/revision/latest/scale-to-width-down/304%3Fcb%3D20141227165956)
+[![](img/fe51b25cee54e44734cf86306e6bcdfd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DWEPeCKX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vignette.wikia.nocookie.net/buddyfigimg/d/d8/Homer-simpson-quotes-doh-i11.jpg/revision/latest/scale-to-width-down/304%3Fcb%3D20141227165956)
 
 什么会导致在第一个操作系统中显示正确数量的对象，在第二个操作系统中重复显示，在第三个操作系统中重复显示？哦！这是否与我的 scraper 在操作系统被选择后被调用的事实有关，这意味着每次选择新的操作系统时都会调用它，每次调用 scraper 类时都会创建每个对象的另一个副本。我通过将 Scraper 类的方法调用从它在主菜单中的尴尬位置移到 CLIInterface initialize 方法来解决这个问题，该方法在每次程序执行时只被调用一次，这立即纠正了这个问题。
 

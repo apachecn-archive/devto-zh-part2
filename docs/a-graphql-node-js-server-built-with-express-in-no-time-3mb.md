@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/couellet/a-graphql-node-js-server-built-with-express-in-no-time-3mb>
 
-[![graphql-nodejs](../Images/0328d02e192183505573943798001c8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z92hoLD_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/204250/graphql-nodejs-2.png)
+[![graphql-nodejs](img/0328d02e192183505573943798001c8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z92hoLD_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/204250/graphql-nodejs-2.png)
 
 我们已经在博客上玩了 GraphQL [几次](https://snipcart.com/blog/headless-cms-graphql-takeshape-tutorial) [次](https://snipcart.com/blog/vuejs-graphql-airtable-example)。
 

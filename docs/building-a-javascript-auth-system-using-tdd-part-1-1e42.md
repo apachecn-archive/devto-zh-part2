@@ -68,7 +68,7 @@ describe('Array', function() {
 
 一旦我们配置好测试和 mocha，我们只需运行 **$npm 测试**，我们将得到以下输出:
 
-[![first test result](../Images/13157ed2dfa9e70bd4a1e17bc8e1ce69.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---55KGElH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.antonioufano.com/image_uploads/test_0.png)
+[![first test result](img/13157ed2dfa9e70bd4a1e17bc8e1ce69.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---55KGElH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.antonioufano.com/image_uploads/test_0.png)
 
 我们准备好了:)
 
@@ -117,7 +117,7 @@ module.exports = app;
 
 现在我们的考验将会通过。
 
-[![successful mocha test](../Images/7e61da4363193b06b2e57e0be671aaa4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7X25w3n1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.antonioufano.com/image_uploads/firstTestOK.png)
+[![successful mocha test](img/7e61da4363193b06b2e57e0be671aaa4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7X25w3n1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.antonioufano.com/image_uploads/firstTestOK.png)
 
 显然，我们的应用程序没有做任何事情，所以让我们添加更多的测试。我们需要我们的应用程序监听之前定义的所有端点中的请求，所以让我们从最简单的开始，在/中获取请求。为了测试 HTTP 请求，我们必须添加 chai-http 模块。然后我们可以使用 *chai.request()* 方法来发起请求。这个方法后面是我们要发送的请求类型(get、post、put、delete..)并且它将在收到响应时解决/拒绝承诺，因此我们可以使用*。然后()/。catch()* 处理来自我们应用程序的响应:
 
@@ -154,7 +154,7 @@ describe('App basics', () => {
 
 请注意，当我们向箭头函数添加参数( *done* )时， *it()* 将其作为参数接收。这表明测试是异步的(*chai . request()*launch async requests)，并且直到我们在最后通过调用 *done()* 来手动指示它时才会完成。你可以在文档的[部分](https://mochajs.org/#asynchronous-code)找到更多关于用 mocha 进行 asnyc 测试的信息。如果我们运行这个测试，它将失败。
 
-[![Error 404 in test](../Images/3a1af4e5037510d7821c4225dbbd4991.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--K41CEjdO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.antonioufano.com/image_uploads/404.png)T3】
+[![Error 404 in test](img/3a1af4e5037510d7821c4225dbbd4991.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--K41CEjdO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.antonioufano.com/image_uploads/404.png)T3】
 
 这是因为我们的应用程序正在运行，但没有在任何端点侦听传入的请求，因为我们还没有定义任何路由，所以它会返回一个错误。为了解决这个问题，我们只需添加主体解析器中间件，并在我们的 express 应用程序中定义端点路由。它看起来会像这样:
 

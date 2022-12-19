@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/violetdsmith/7-smart-ways-to-secure-your-phone-data-and-privacy-5g4f>
 
-[![](../Images/8586bc0fd9f9214e76be08cb16b7b5e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2jONAylg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0b1yleunmwhnftu3pvdi.png)
+[![](img/8586bc0fd9f9214e76be08cb16b7b5e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2jONAylg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0b1yleunmwhnftu3pvdi.png)
 
 生活在一个高度数字化的世界，你的智能手机可能是你离不开的东西之一。这是一个强大的工具，让你随手可得大量信息。
 

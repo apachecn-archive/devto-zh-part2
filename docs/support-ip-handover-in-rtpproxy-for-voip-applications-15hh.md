@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/onmyway133/support-ip-handover-in-rtpproxy-for-voip-applications-15hh>
 
-[![](../Images/e06ab03295fd975bdb5e76972cbe4e21.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U3LZ3yeW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2ATnIwt7tm6bzDME_G)
+[![](img/e06ab03295fd975bdb5e76972cbe4e21.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U3LZ3yeW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2ATnIwt7tm6bzDME_G)
 
 如果您使用 [VoIP 应用程序](https://codeburst.io/learning-voip-rtp-and-sip-aka-awesome-pjsip-2035fa02cf88)，尤其是像 pjsip 这样的开源软件，您可能会遇到 [kamalio](https://www.kamailio.org/w/) 和 [rtpproxy](http://www.rtpproxy.org/) 来处理 sip 请求。由于 NAT 穿越的限制，需要 rtpproxy 来绕过 NAT。所有 SIP 握手请求都通过代理服务器，但 rtpproxy 也可以中继语音、视频或任何 RTP 数据流。我玩 rtpproxy 的时候是在版本 [2.0](http://www.rtpproxy.org/post/v2release/) 之前，需要处理 IP 切换。这是指当用户在不同网络之间切换时的场景，例如从 Wifi 切换到 4G，并且他们获得新的 IP。通常这意味着在 SIP 呼叫中结束，但是期望是如果可能的话，我们可以为用户重试并继续呼叫。
 

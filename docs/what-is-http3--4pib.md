@@ -23,7 +23,7 @@ QUIC(快速 UDP 互联网连接)是一种新的传输方式，与 TCP 相比，�
 
 Google [称](https://blog.chromium.org/2015/04/a-quic-update-on-googles-experimental.html)Chrome 对 Google 服务器的所有请求中，大约有一半是通过 QUIC 服务的，他们还在继续增加 QUIC 流量，最终使其成为 Google 客户端——Chrome 和移动应用——对 Google 服务器的默认传输。他们计划正式向 IETF 提出 QUIC 作为互联网标准，但他们首先要做一些日常工作，比如改变线路格式，将他们的参考实现从 SPDY-over-QUIC 更新为 HTTP2-over-QUIC(当前的 [HTTP-over-QUIC 协议草案](https://tools.ietf.org/html/draft-ietf-quic-http-16#page-4)使用新发布的 TLS 1.3 协议)。在接下来的几个月里，谷歌还计划降低握手开销，以实现更好的服务器端可扩展性，改善前向纠错和拥塞控制，并增加对多路径连接的支持。
 
-[![](../Images/9e6e11edd4f37417fdcac00dc704548a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0hlAeTAi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Ar6NNOhOGncUfvHXKHUM39w.gif)
+[![](img/9e6e11edd4f37417fdcac00dc704548a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0hlAeTAi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Ar6NNOhOGncUfvHXKHUM39w.gif)
 
 reddit 用户对 TCP vs QUIC 的精彩解释:
 
@@ -32,4 +32,4 @@ Instead of finally reducing these defaults which would not alter the packets and
 
 *原文发表于此:[https://medium.com/devgorilla/what-is-http-3-94335c57823f](https://medium.com/devgorilla/what-is-http-3-94335c57823f)T3】*
 
-[![](../Images/14ce46ce82f3476059194b1fa4b9c347.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0IyP1yFi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Az5o-mslkNcdDbGzo6G3zqg.jpeg)
+[![](img/14ce46ce82f3476059194b1fa4b9c347.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0IyP1yFi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Az5o-mslkNcdDbGzo6G3zqg.jpeg)

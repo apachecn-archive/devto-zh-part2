@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/darshit_parmar/4-ways-to-win-online-buyers-engagement--conversion-on-your-magento-website--1n76>
 
-[![](../Images/19e835ccf1f50c582ab959cb7e2ca3dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OBYNiRou--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e5113r38chmr3t6fgqks.png)
+[![](img/19e835ccf1f50c582ab959cb7e2ca3dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OBYNiRou--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e5113r38chmr3t6fgqks.png)
 
 我们说了很多关于通过在网站内执行熟练的步骤来吸引客户的话，但是在外面有一个完整的世界，你真的需要注意吸引你的客户。我们通常会错过这些幻想转化率的机会。作为一个商人，你必须在内部和外部创造一个环境来吸引和吸引你的顾客。内部策略和外部策略的融合将引导你达到最终的目标，即转变。
 

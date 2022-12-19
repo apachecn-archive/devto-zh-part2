@@ -4,7 +4,7 @@
 
 在 gumi tech 博客上开始连载《Elixir 入门》。
 
-[![elixir_logo.png](../Images/7d50814c4a9304be98f089213ae1d1e9.png)T2】](https://elixir-lang.org/)
+[![elixir_logo.png](img/7d50814c4a9304be98f089213ae1d1e9.png)T2】](https://elixir-lang.org/)
 
 [Elixir](https://elixir-lang.org/) (创造者)是也采用[gumi](https://gu3.co.jp/) 的编程语言，被用于开发大量用户同时玩的实时在线游戏。 其特征是，是可以并行处理的函数型语言。 函数式编程不会改变状态。 相反，通过创造新状态的方法，可以简单地处理并行处理。
 

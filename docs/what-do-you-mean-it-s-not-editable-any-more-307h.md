@@ -8,15 +8,15 @@
 
 在体验编辑器中打开“显示控件”会显示以下内容:
 
-[![](../Images/b86308c3946cbc52e400bffc976a9304.png)T2】](https://jermdavis.files.wordpress.com/2018/10/fieldyoucantedit.png)
+[![](img/b86308c3946cbc52e400bffc976a9304.png)T2】](https://jermdavis.files.wordpress.com/2018/10/fieldyoucantedit.png)
 
 该页面的其他栏都是可编辑的，但“这段文本…”栏是不可编辑的。奇怪的是，它上面出现了一个空的编辑控件。查看控件后面的视图，有两个可编辑的字段:
 
-[![](../Images/b8ad0802e01516c95288ef9d3ac18367.png)T2】](https://jermdavis.files.wordpress.com/2018/10/badfieldview.png)
+[![](img/b8ad0802e01516c95288ef9d3ac18367.png)T2】](https://jermdavis.files.wordpress.com/2018/10/badfieldview.png)
 
 但是在您在浏览器中看到的标记中，似乎有一个可编辑的字段，里面什么也没有，后面是我们字段的文本，再后面是一个空元素:
 
-[![](../Images/81b49fbfe32b1e0dacf432f594c1fc9b.png)T2】](https://jermdavis.files.wordpress.com/2018/10/badfieldmarkup.png)
+[![](img/81b49fbfe32b1e0dacf432f594c1fc9b.png)T2】](https://jermdavis.files.wordpress.com/2018/10/badfieldmarkup.png)
 
 那里发生了什么事？
 
@@ -28,7 +28,7 @@
 
 损坏字段的内容是富文本，查看它包含的 HTML:
 
-[![](../Images/13bd20a44e94167ac5ef8fa71d548254.png)T2】](https://jermdavis.files.wordpress.com/2018/10/fieldcontents.png)
+[![](img/13bd20a44e94167ac5ef8fa71d548254.png)T2】](https://jermdavis.files.wordpress.com/2018/10/fieldcontents.png)
 
 标记中还有另一个
 

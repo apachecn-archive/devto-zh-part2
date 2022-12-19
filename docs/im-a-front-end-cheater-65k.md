@@ -44,7 +44,7 @@ Bootstrap 能做的，布尔玛能做得更好！
 
 ```
 <div class="flip">
-    <img src="~/images/flip_images/branches.jpg" alt="Avatar" class="flip-image" style="width:100%">
+    <img src=img/flip_images/branches.jpg" alt="Avatar" class="flip-image" style="width:100%">
     <div class="flip-middle">
         <div class="flip-text"><a href="/Home/Locations">LOCATIONS</a><br /><div class="is-size-6">Over 80 Years of Service</div></div>
     </div>

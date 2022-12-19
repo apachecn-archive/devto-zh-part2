@@ -11,33 +11,33 @@
 您可以在 Github repo:
 中找到所有这些实现以及更多内容
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) [阿梅加罗萨里奥](https://github.com/amejiarosario)/[DSA . js-数据-结构-算法-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) [阿梅加罗萨里奥](https://github.com/amejiarosario)/[DSA . js-数据-结构-算法-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)
 
 ### 🥞JavaScript + eBook 中解释和实现的数据结构和算法
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-[![image](../Images/56b5d4dbac1233ee93c5155b15079c68.png)T2】](https://user-images.githubusercontent.com/418605/59557258-10742880-8fa3-11e9-84fb-4d66a9d89faa.png)
+[![image](img/56b5d4dbac1233ee93c5155b15079c68.png)T2】](https://user-images.githubusercontent.com/418605/59557258-10742880-8fa3-11e9-84fb-4d66a9d89faa.png)
 
 # JavaScript 中的数据结构和算法
 
-[![CircleCI](../Images/d5922fc0cbf322196a6f5e893fcfcf37.png)](https://app.circleci.com/pipelines/github/amejiarosario/dsa.js-data-structures-algorithms-javascript)[![NPM version](../Images/2c26fb04f41469582f423d88af92342e.png)](https://badge.fury.io/js/dsa.js)[![chat](../Images/e028ff0be0803e8e9dbdd25d5a8c6ca4.png)](https://dsajs-slackin.herokuapp.com)
+[![CircleCI](img/d5922fc0cbf322196a6f5e893fcfcf37.png)](https://app.circleci.com/pipelines/github/amejiarosario/dsa.js-data-structures-algorithms-javascript)[![NPM version](img/2c26fb04f41469582f423d88af92342e.png)](https://badge.fury.io/js/dsa.js)[![chat](img/e028ff0be0803e8e9dbdd25d5a8c6ca4.png)](https://dsajs-slackin.herokuapp.com)
 
 > 这是 DSA.js book 的编码实现和 NPM 包的回购。
 
 > 在这个库中，您可以找到 JavaScript 中算法和数据结构的实现。这些材料可以作为开发人员的参考手册，或者您可以在面试前刷新特定主题。还有，你可以找到更高效解决问题的思路。
 
-[![Interactive Data Structures](../Images/8f63557fae7adb265acdf574fa489c65.png)T2】](https://user-images.githubusercontent.com/418605/46118890-ba721180-c1d6-11e8-82bc-6a671428b422.png)
+[![Interactive Data Structures](img/8f63557fae7adb265acdf574fa489c65.png)T2】](https://user-images.githubusercontent.com/418605/46118890-ba721180-c1d6-11e8-82bc-6a671428b422.png)
 
 ## 目录
 
 *   [安装](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#installation)
 *   [特性](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#features)
 *   [里面有什么](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#whats-inside)
-    *   [<g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>算法分析](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#-algorithms-analysis)
-    *   [<g-emoji class="g-emoji" alias="pancakes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f95e.png">🥞</g-emoji>线性数据结构](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#-linear-data-structures)
-    *   [<g-emoji class="g-emoji" alias="evergreen_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f332.png">🌲</g-emoji>非线性数据结构](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#-non-linear-data-structures)
-    *   [<g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png">⚒</g-emoji> 算法技巧](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#%E2%9A%92-algorithms-techniques)
+    *   [<g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f4c8.png">📈</g-emoji>算法分析](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#-algorithms-analysis)
+    *   [<g-emoji class="g-emoji" alias="pancakes" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f95e.png">🥞</g-emoji>线性数据结构](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#-linear-data-structures)
+    *   [<g-emoji class="g-emoji" alias="evergreen_tree" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f332.png">🌲</g-emoji>非线性数据结构](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#-non-linear-data-structures)
+    *   [<g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/2692.png">⚒</g-emoji> 算法技巧](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#%E2%9A%92-algorithms-techniques)
 *   [预定](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#book)
 *   [常见问题解答](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#faq)
 *   [支持](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#support)
@@ -93,25 +93,25 @@ Enter fullscreen mode Exit fullscreen mode
 
 两个节点之间的连接称为**边**。节点也可以称为**顶点**。
 
-[![](../Images/db7a8a1c47236d3f38092378ab4120bc.png "Graph is composed of vertices and edges")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NBsB8_rI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.com/images/graph-parts.jpg)
+[![](img/db7a8a1c47236d3f38092378ab4120bc.png "Graph is composed of vertices and edges")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NBsB8_rI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.cimg/graph-parts.jpg)
 
 **度**是连接到一个顶点的边的数量。例如，`purple`顶点的度数为 3，而`blue`顶点的度数为 1。
 
 如果边是双向的，那么我们有一个无向图。但是，如果边有方向，那么我们就有了一个**有向图**(或者简称为**有向图**)。你可以把它想象成单行道(有向)或者双行道(无向)。
 
-[![](../Images/c8a5ccfbbeb7b20e85bcd16d91b3e95a.png "Directed vs Undirected graph")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4gDDdkC---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.com/images/directed-vs-undirected-graph.jpg)
+[![](img/c8a5ccfbbeb7b20e85bcd16d91b3e95a.png "Directed vs Undirected graph")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4gDDdkC---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.cimg/directed-vs-undirected-graph.jpg)
 
 顶点可以有通向自身的边(如`blue`节点)，这叫做**自循环**。
 
 一个图可以有**个循环**，这意味着如果你遍历这个节点，你可以不止一次地得到同一个节点。没有圈的图称为**无圈图**。
 
-[![](../Images/0ba8a55c2ae1d3a04c516b0806c49de7.png "Cyclic vs Acyclic directed graph")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w0cEdBfZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.com/images/cyclic-vs-acyclic-directed-graph.jpg)
+[![](img/0ba8a55c2ae1d3a04c516b0806c49de7.png "Cyclic vs Acyclic directed graph")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w0cEdBfZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.cimg/cyclic-vs-acyclic-directed-graph.jpg)
 
 还有，无环无向图叫做**树**。我们将在下一篇文章中深入讨论树木。
 
 图中并非所有顶点都必须相连。你可能有孤立的节点，甚至是分离的子图。如果所有节点至少有一条边，那么我们就有了一个**连通图**。当所有节点都连接到所有其他节点时，我们就有了一个**完整图**。
 
-[![](../Images/3c493c8277ba09f5716b37fdcd554f36.png "Complete vs Connected graph")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--87PPbB8Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.com/images/connected-vs-complete-graph.jpg)
+[![](img/3c493c8277ba09f5716b37fdcd554f36.png "Complete vs Connected graph")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--87PPbB8Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.cimg/connected-vs-complete-graph.jpg)
 
 对于一个完整的图，每个节点应该有`#nodes - 1`条边。在前面的例子中，我们有七个顶点，所以每个节点有六条边。
 
@@ -119,7 +119,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当边被赋予价值/成本时，我们说我们有一个**加权图**。如果没有重量，我们可以假设它是 1。
 
-[![](../Images/670dcf2e1eb46d5cd5f1e23c98364a37.png "Airports weighted graph")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l4Q87zTs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.com/images/airports-weighted-graph.jpg)
+[![](img/670dcf2e1eb46d5cd5f1e23c98364a37.png "Airports weighted graph")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l4Q87zTs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.cimg/airports-weighted-graph.jpg)
 
 根据您需要解决问题的领域，加权图有许多应用。仅举几个例子:
 
@@ -149,7 +149,7 @@ Enter fullscreen mode Exit fullscreen mode
 *   推荐:亚马逊/网飞使用图表为产品/电影提供建议
 *   图表有助于规划交付货物的物流
 
-[![](../Images/de38c0cb36fdc8b245d5e093d629ae62.png "Graph applications: pathfinder")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y5IP8ozn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.com/images/map-graph.jpg)
+[![](img/de38c0cb36fdc8b245d5e093d629ae62.png "Graph applications: pathfinder")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y5IP8ozn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.cimg/map-graph.jpg)
 
 我们刚刚学习了图形的基础知识和一些应用。让我们来看看如何用 JavaScript 表示图形。
 
@@ -162,7 +162,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 下面我们以下面的有向图(digraph)为例来解释一下:
 
-[![](../Images/325071db3026dcf8636b73e73e7f6c41.png "digraph")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UwE0V3zU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.com/images/digraph.png)
+[![](img/325071db3026dcf8636b73e73e7f6c41.png "digraph")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UwE0V3zU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.cimg/digraph.png)
 
 我们有 4 个节点的有向图。当一个顶点有一个到它自己的链接时(如`a`)称为**自环**。
 
@@ -447,7 +447,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 广度优先搜索是一种通过首先访问所有相邻节点来从初始顶点导航图的方法。
 
-[![](../Images/e7a8752f29caba5829ecdfaaad679ead.png "Breadth First Search in a graph")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C3uid7FX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/5/5d/Breadth-First-Search-Algorithm.gif)
+[![](img/e7a8752f29caba5829ecdfaaad679ead.png "Breadth First Search in a graph")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C3uid7FX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/5/5d/Breadth-First-Search-Algorithm.gif)
 
 让我们看看如何在代码中实现这一点:
 
@@ -507,7 +507,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 深度优先搜索是另一种通过递归找到每个顶点的第一个相邻节点来从初始顶点导航图的方法。
 
-[![](../Images/b9fd33cb89efb2c5ef5def4c32ef99e4.png "Depth First Search in a graph")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oZj4k3xs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/7/7f/Depth-First-Search.gif)
+[![](img/b9fd33cb89efb2c5ef5def4c32ef99e4.png "Depth First Search in a graph")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oZj4k3xs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/7/7f/Depth-First-Search.gif)
 
 DFS 的迭代实现与 BFS 是相同的，但是不使用`Queue`，而是使用`Stack`:
 

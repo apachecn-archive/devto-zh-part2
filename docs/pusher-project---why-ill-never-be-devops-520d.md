@@ -8,7 +8,7 @@
 
 谈到 AWS，我的工作流程是，如果有什么东西不工作，我就销毁它，然后再试一次。所以我已经销毁了我的 AWS 资源...今天 4 次了。这是我现在拥有的:
 
-[![Blank page with Pusher running](../Images/8963bcebb1b813db31ff38c15676f6cd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OeuRMzvR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/or7j0rms75s13s91uq47.png) 
+[![Blank page with Pusher running](img/8963bcebb1b813db31ff38c15676f6cd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OeuRMzvR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/or7j0rms75s13s91uq47.png) 
 *你知道这是什么吗？进度*
 
 * * *
@@ -55,7 +55,7 @@ Fourth instance 更进一步，认为我应该尝试真正理解 CodeStar 技术
 
 以前的帖子
 
-[![itsasine](../Images/3849aa01c92d200e0764b4a9ed4cb805.png)](/itsasine) [## 推销商店游戏-最初的想法
+[![itsasine](img/3849aa01c92d200e0764b4a9ed4cb805.png)](/itsasine) [## 推销商店游戏-最初的想法
 
 ### 伊塔辛(凯拉)5 月 5 日 183 分钟阅读
 

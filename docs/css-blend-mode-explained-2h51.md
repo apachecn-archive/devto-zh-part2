@@ -26,9 +26,9 @@ CSS
 } 
 ```
 
-[![beach](../Images/c6460fc96f156a3b111dbab6191d6c62.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YOcv_Dl---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/02/beach.png)
+[![beach](img/c6460fc96f156a3b111dbab6191d6c62.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YOcv_Dl---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/02/beach.png)
 
-[![background-blend-mode](../Images/8be53d18e4500303fb9b20cf98a53fe8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yC3dSHFc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/02/background-blend-mode.png)
+[![background-blend-mode](img/8be53d18e4500303fb9b20cf98a53fe8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yC3dSHFc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/02/background-blend-mode.png)
 
 在顶部，您可以看到原始图像，而底部显示应用了混合模式的图像。
 
@@ -36,7 +36,7 @@ CSS
 
 现在，让我们来看看如何使用背景混合模式将两幅图像混合在一起。让我们把下面两张图片融合在一起:
 
-[![images_for_blending](../Images/93a532ddee4da3188365e2d38c836f0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v0h7y3kX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/02/images_for_blending.png)
+[![images_for_blending](img/93a532ddee4da3188365e2d38c836f0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v0h7y3kX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/02/images_for_blending.png)
 
 CSS
 
@@ -48,7 +48,7 @@ CSS
 } 
 ```
 
-[![blend_images_color](../Images/a050a44917caff84c63ad284105c8fd6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lYnpQiLq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/02/blend_images_color.png)
+[![blend_images_color](img/a050a44917caff84c63ad284105c8fd6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lYnpQiLq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/02/blend_images_color.png)
 
 CSS
 
@@ -59,7 +59,7 @@ CSS
 } 
 ```
 
-[![blend_images](../Images/60cbdabe8999e5f9d74ce5b53f791737.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HemCXwnH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/02/blend_images.png)
+[![blend_images](img/60cbdabe8999e5f9d74ce5b53f791737.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HemCXwnH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/02/blend_images.png)
 
 在这种情况下，有两个示例，其中第一个添加了背景色，而第二个没有背景色。
 
@@ -110,7 +110,7 @@ CSS
 } 
 ```
 
-[![mix_blend](../Images/a043ccde125be417926e7be708123196.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e91HxRPu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/02/mix_blend.png)
+[![mix_blend](img/a043ccde125be417926e7be708123196.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e91HxRPu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/02/mix_blend.png)
 
 ## 支持
 

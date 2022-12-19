@@ -64,7 +64,7 @@ npm install -g nodemon
 
 为了确保我们的项目正在运行，我们应该在控制台中看到这个日志
 
-[![Alt text of image](../Images/62801e16bdffba27e1a6fdb93de2b488.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---Ge1OBrR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media.licdn.com/dms/image/C5612AQFdAsL44d-78A/article-inline_image-shrink_1000_1488/0%3Fe%3D2131315200%26v%3Dbeta%26t%3DvO5wrxNPBaq_Qg6CkVaJNmyER_-bvO7icETjrdLPd_o)
+[![Alt text of image](img/62801e16bdffba27e1a6fdb93de2b488.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---Ge1OBrR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media.licdn.com/dms/image/C5612AQFdAsL44d-78A/article-inline_image-shrink_1000_1488/0%3Fe%3D2131315200%26v%3Dbeta%26t%3DvO5wrxNPBaq_Qg6CkVaJNmyER_-bvO7icETjrdLPd_o)
 
 最精彩的部分来了！！
 
@@ -212,7 +212,7 @@ compile('com.github.nkzawa:socket.io-client:0.5.0') {
 ```
 
 这样预览就会变成这样
-[![Alt text of image](../Images/66a8e289b9e0305fcafc24bd47d429e5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Y5AxBC88--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media.licdn.com/dms/image/C5612AQG0VWYYJnDL0w/article-inline_image-shrink_400_744/0%3Fe%3D2131315200%26v%3Dbeta%26t%3DNEWFM18SAsIOPcSkMVlLJj_cK4oH3ILSdZSaFohrIDk)
+[![Alt text of image](img/66a8e289b9e0305fcafc24bd47d429e5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Y5AxBC88--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media.licdn.com/dms/image/C5612AQG0VWYYJnDL0w/article-inline_image-shrink_400_744/0%3Fe%3D2131315200%26v%3Dbeta%26t%3DNEWFM18SAsIOPcSkMVlLJj_cK4oH3ILSdZSaFohrIDk)
 
 现在你的 MainActivity.java 应该是这样的
 
@@ -288,7 +288,7 @@ android:layout_height="match_parent">
 ```
 
 你的预览应该是这样的
-[![Alt text of image](../Images/d1e4519ce8f0a3c9dad1b8287b60a5f4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--aiRMF5nc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media.licdn.com/dms/image/C5612AQGJ_hXK26bhAg/article-inline_image-shrink_1500_2232/0%3Fe%3D2131315200%26v%3Dbeta%26t%3DCwpgd_YPmFM-THSZWuSgE1uiCR6Aa3WtBWD0kzxFkaw)
+[![Alt text of image](img/d1e4519ce8f0a3c9dad1b8287b60a5f4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--aiRMF5nc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media.licdn.com/dms/image/C5612AQGJ_hXK26bhAg/article-inline_image-shrink_1500_2232/0%3Fe%3D2131315200%26v%3Dbeta%26t%3DCwpgd_YPmFM-THSZWuSgE1uiCR6Aa3WtBWD0kzxFkaw)
 
 现在，在实现 socket 客户端之前，我们应该创建一个适配器来处理和显示我们的消息，为此我们需要创建一个名为 item.xml 的文件和一个名为 message 的 java 类，它们有两个简单的字符串属性(昵称、消息)。
 
@@ -455,7 +455,7 @@ socket.emit('join',Nickname);
 
 现在运行您的模拟器，在第一个活动中输入昵称，然后单击“go to chat”。您将在服务器控制台中看到一个日志，指示用户已成功与服务器建立连接，我们可以看到服务器中触发事件 join 的侦听器工作正常，它记录了连接的用户的名称
 
-[![Alt text of image](../Images/d0f27b8838e0938f933b4b8d1effe6d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p3128Yfn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media.licdn.com/dms/image/C5612AQHYt9jcKTKY6Q/article-inline_image-shrink_400_744/0%3Fe%3D2131315200%26v%3Dbeta%26t%3DG2yf2Q1kOXuGVQff0628QPD_zbTA8bakOVYB2r1TkXc)
+[![Alt text of image](img/d0f27b8838e0938f933b4b8d1effe6d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p3128Yfn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media.licdn.com/dms/image/C5612AQHYt9jcKTKY6Q/article-inline_image-shrink_400_744/0%3Fe%3D2131315200%26v%3Dbeta%26t%3DG2yf2Q1kOXuGVQff0628QPD_zbTA8bakOVYB2r1TkXc)
 
 现在一切正常，我们不应该忘记，当我们的服务器处理一个事件时，它还会广播其他自定义事件，因此这些被触发的事件应该在客户端处理，为此我们将为事件“userjoinedthechat”创建第一个侦听器，这是一个在服务器处理事件“join”时触发的自定义事件。
 
@@ -477,7 +477,7 @@ socket.on("userjoinedthechat", new Emitter.Listener() {
 
 现在，我们同时运行 2 个模拟器，我们从两边输入两个不同的昵称，我们可以看到，两个模拟器中的一个表示用户已经成功加入聊天
 
-[![Alt text of image](../Images/101c7916296a26ca18cfdbcf01075e42.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZXYRowKy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media.licdn.com/dms/image/C5612AQEq9HweRGzHHQ/article-inline_image-shrink_1500_2232/0%3Fe%3D2131315200%26v%3Dbeta%26t%3DL5gNhWdtq7TBjvlZa0y7YqMTwbqyUgBrJF1qI4JT0vc)
+[![Alt text of image](img/101c7916296a26ca18cfdbcf01075e42.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZXYRowKy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media.licdn.com/dms/image/C5612AQEq9HweRGzHHQ/article-inline_image-shrink_1500_2232/0%3Fe%3D2131315200%26v%3Dbeta%26t%3DL5gNhWdtq7TBjvlZa0y7YqMTwbqyUgBrJF1qI4JT0vc)
 
 现在是我们应用程序最好的部分，也就是聊天信息:
 
@@ -580,7 +580,7 @@ socket.on("message", new Emitter.Listener() {
 
 正如我们在下面的截图中看到的，一切都正常:))并且消息从两边显示，请注意，我们可以与许多其他用户连接，但我们只需运行其他模拟器并输入昵称即可加入聊天框
 
-[![Alt text of image](../Images/cf35a79181dfffc7dc5a3f96316e1ff4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7HuHp1Uy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media.licdn.com/dms/image/C5612AQHTPTtd9ViV7w/article-inline_image-shrink_1000_1488/0%3Fe%3D2131315200%26v%3Dbeta%26t%3DKf-D2adfIIqxh6JcUUEkdGZ9_maQnkL0pM4ZvOBFeKE)
+[![Alt text of image](img/cf35a79181dfffc7dc5a3f96316e1ff4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7HuHp1Uy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media.licdn.com/dms/image/C5612AQHTPTtd9ViV7w/article-inline_image-shrink_1000_1488/0%3Fe%3D2131315200%26v%3Dbeta%26t%3DKf-D2adfIIqxh6JcUUEkdGZ9_maQnkL0pM4ZvOBFeKE)
 
 在结束本教程之前，我们必须执行最后一个函数，该函数检测用户是否断开了与聊天框的连接。
 

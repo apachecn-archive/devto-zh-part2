@@ -59,7 +59,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是我从[高性能浏览器网络](https://hpbn.co)偷来的图表，它说明了这些传输之间的通信流。如果你真的想提高你的网络应用程序的性能，这是一本很好的书。
 
-[![ws](../Images/8401ae522627b792eed3f35d36aee7cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ApzTu2NN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/47j90glrwxk8dv2perdp.png)
+[![ws](img/8401ae522627b792eed3f35d36aee7cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ApzTu2NN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/47j90glrwxk8dv2perdp.png)
 
 在大多数处理外部数据的教程中，您将处理最左边范例的 HTTP 请求。实际上，所有这些流都是由 HTTP 请求发起的，如蓝色箭头所示。
 

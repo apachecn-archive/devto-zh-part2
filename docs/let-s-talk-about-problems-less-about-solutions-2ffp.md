@@ -4,11 +4,11 @@
 
 前几天，我偶然发现了下面这条推文。
 
-> ![Simon Martinelli profile image](../Images/26166cb64b722e3c3921eca1e2090bc5.png)西蒙·马丁内利[@ simas _ ch](https://dev.to/simas_ch)![twitter logo](../Images/ad0c7b03deabfe1a161345efb2d537eb.png)向渴望学习的人解释“事情”很容易。但是你如何向不存在的人解释“事物”呢？2018 年 6 月 11 日上午 11:13[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1006132372725751809)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1006132372725751809)0[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1006132372725751809)2
+> ![Simon Martinelli profile image](img/26166cb64b722e3c3921eca1e2090bc5.png)西蒙·马丁内利[@ simas _ ch](https://dev.to/simas_ch)![twitter logo](img/ad0c7b03deabfe1a161345efb2d537eb.png)向渴望学习的人解释“事情”很容易。但是你如何向不存在的人解释“事物”呢？2018 年 6 月 11 日上午 11:13[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1006132372725751809)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1006132372725751809)0[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1006132372725751809)2
 
 这真的是发人深省。而我整理了下面这个回答，花了整整 12 分钟，一遍又一遍地重写了推文。
 
-> ![Simon Harrer profile image](../Images/a9b328a6c183d7894b0b7824e8478ace.png)西蒙哈勒[@西蒙哈勒](https://dev.to/simonharrer)![twitter logo](../Images/ad0c7b03deabfe1a161345efb2d537eb.png)[@ simas _ ch](https://twitter.com/simas_ch)你就是不要。你必须让他们相信“东西”是值得学习的。在你说服他们之后，你就可以向他们解释“事情”了。通常，令人信服的部分才是真正的挑战。2018 年 6 月 11 日上午 11:25[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1006135304305115136)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1006135304305115136)0[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1006135304305115136)1
+> ![Simon Harrer profile image](img/a9b328a6c183d7894b0b7824e8478ace.png)西蒙哈勒[@西蒙哈勒](https://dev.to/simonharrer)![twitter logo](img/ad0c7b03deabfe1a161345efb2d537eb.png)[@ simas _ ch](https://twitter.com/simas_ch)你就是不要。你必须让他们相信“东西”是值得学习的。在你说服他们之后，你就可以向他们解释“事情”了。通常，令人信服的部分才是真正的挑战。2018 年 6 月 11 日上午 11:25[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1006135304305115136)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1006135304305115136)0[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1006135304305115136)1
 
 但是，这个话题并没有让我的思想自由。我突然意识到，这里面有非常非常重要的东西。所以我试着通过在这篇博客中写下我的想法来挣脱束缚。尽情享受吧！
 
@@ -18,7 +18,7 @@
 
 我们根据问题和解决方案 50:50 的比例，进一步发展了这一经验，并通过比较写了我们的书 [Java。对于本书中的每一个比较，我们都将左边一页专门用于问题，右边一页用于解决方案。有很多关于干净代码的书关注解决方案，但据我所知，没有一本花这么多篇幅单独讨论这个问题。我认为这真的让我们的书与众不同，让它对初学者和专家都很有吸引力。你们自己去看看吧。](https://java.by-comparison.com/)
 
-[![](../Images/751bdd4a9f97e38a616ad9f3095575ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---qsPQbSD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/768/1%2AR0dtpFG0cRnqlzNAHu-6TA.png)
+[![](img/751bdd4a9f97e38a616ad9f3095575ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---qsPQbSD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/768/1%2AR0dtpFG0cRnqlzNAHu-6TA.png)
 
 让我概括一下这一点。对于我们这些喜欢分享我们所知道的东西的开发人员来说，谈论解决方案是很自然的。我们希望分享这种很酷新框架、编程语言、IDE、CLI 工具或库。我们想展示它是如何工作的，感觉有多酷。但是我们往往没有花足够的时间去思考为什么要从目前使用的框架、编程语言、IDE、CLI 工具或者库进行切换。我们已经确信，经常是强烈地确信，新的东西就是更好。但是我们往往会忘记，别人没有想过我们的想法，没有获得我们的经验，可能会因为他们当前的需要而得出完全不同的结论。
 

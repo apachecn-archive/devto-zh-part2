@@ -4,7 +4,7 @@
 
 Dev Chats 第二季又回来了！在这一系列中，我大约每周都会与一位出色的开发人员或技术人员交谈。你可以在这里阅读更多。如果你知道下一个我应该和谁聊天，请告诉我。
 
-[![_Profile.jpg](../Images/98c790529bb75733e6ae21c81c1f2f46.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1-ugH5Qd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5bb023ffe79c709989b91cc9/1538270250584/_Profile.jpg%3Fformat%3D1000w)
+[![_Profile.jpg](img/98c790529bb75733e6ae21c81c1f2f46.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1-ugH5Qd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5bb023ffe79c709989b91cc9/1538270250584/_Profile.jpg%3Fformat%3D1000w)
 
 ### 自我介绍！你是谁？你在哪里工作？
 

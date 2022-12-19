@@ -16,11 +16,11 @@ Mike t-shirt generator 构建了一个工具，[通过将 Mike 的随机图像�
 
 我最喜欢的 Cloudinary 集成赢得了 trolls 之王和其他一些奖项。它被称为“演讲者即服务”，它允许用户在演讲者的演讲中添加任何图像。这是迈克展示伯明翰的一张照片。
 
-[![](../Images/76e75747c8ee77c55fba1fba06385400.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YBLLZ216--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/700/0%2ATvaAn4keWwhQulfX.jpg)
+[![](img/76e75747c8ee77c55fba1fba06385400.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YBLLZ216--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/700/0%2ATvaAn4keWwhQulfX.jpg)
 
 我在这里展示一只小狗
 
-[![](../Images/769287237ca4c8bd8f51fda1e12a4bbb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mzhjPaqQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/0%2ALlqeoXTNDpcEqsky.jpg)
+[![](img/769287237ca4c8bd8f51fda1e12a4bbb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mzhjPaqQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/0%2ALlqeoXTNDpcEqsky.jpg)
 
 丹写了一篇博客，讲述他作为(睡眠剥夺)开发者的经历
 
@@ -28,6 +28,6 @@ Mike t-shirt generator 构建了一个工具，[通过将 Mike 的随机图像�
 
 *原载于 2018 年 10 月 21 日*[*【dougsillars.com】*](http://dougsillars.com/2018/10/21/hackference-2018-recap/)*。*
 
-[![](../Images/c764b986b4dd39873a8a174d194c7d5a.png)T2】](https://bit.ly/2O1yNyY)
+[![](img/c764b986b4dd39873a8a174d194c7d5a.png)T2】](https://bit.ly/2O1yNyY)
 
 * * *

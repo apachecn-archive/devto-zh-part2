@@ -6,7 +6,7 @@
 
 在这篇文章中，我将首先谈论在生产中部署和验证模型的典型任务。然后，我将介绍几种**模型部署技术**以及如何用[亚马逊 SageMaker](http://aws.amazon.com/sagemaker) 实现它们。特别是，我将向您详细展示如何在同一个预测端点上**托管多个模型，这是最小化部署风险的一项重要技术。**
 
-[![](../Images/5efe5cf5ccc952959b0c7917b028a936.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--coU37nwR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/500/1%2AAZHhCobmks9vT2vWYN0kww.gif) 
+[![](img/5efe5cf5ccc952959b0c7917b028a936.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--coU37nwR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/500/1%2AAZHhCobmks9vT2vWYN0kww.gif) 
 
 <figcaption>那家伙扮演了艾伦·图灵和奇异博士。努夫说。</figcaption>
 
@@ -45,7 +45,7 @@ SageMaker **大大**简化了这个过程。只需几行代码， [SageMaker SDK
 
 为了使这个过程对客户端应用程序完全透明，一个中间人——位于客户端和环境之间——负责**实现交换机**:常见的选择包括负载平衡器、DNS 等。这是它看起来的样子。
 
-[![](../Images/05d9e9f7ed62c2a7ea93bb4b187c6d15.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XWzibPuX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWGLxrDadcyWmSzC608wKhg.png)T3】蓝绿部署
+[![](img/05d9e9f7ed62c2a7ea93bb4b187c6d15.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XWzibPuX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWGLxrDadcyWmSzC608wKhg.png)T3】蓝绿部署
 
 #### 蓝绿色部署，SageMaker 道
 
@@ -74,7 +74,7 @@ SageMaker 的 [AWS SDK 以](https://boto3.readthedocs.io/en/latest/reference/ser
 
 这是它看起来的样子。
 
-[![](../Images/894b8489031684279fbc995b6666d3b0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iAGhsKuN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AOmCCeJXV7KD5R5LC7qfQUQ.png) 
+[![](img/894b8489031684279fbc995b6666d3b0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iAGhsKuN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AOmCCeJXV7KD5R5LC7qfQUQ.png) 
 
 <figcaption>蓝绿色部署与单一 SageMaker 端点</figcaption>
 
@@ -90,13 +90,13 @@ SageMaker 的 [AWS SDK 以](https://boto3.readthedocs.io/en/latest/reference/ser
 
 这是有两个端点的情况。
 
-[![](../Images/84ec0f737b27919626fe89fad4977850.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--h2pk3KsH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AxCtJrB5KeBb9akLDRCjoug.png) 
+[![](img/84ec0f737b27919626fe89fad4977850.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--h2pk3KsH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AxCtJrB5KeBb9akLDRCjoug.png) 
 
 <figcaption>使用一个“switch”web 服务和两个单模端点进行金丝雀测试。</figcaption>
 
 一旦我们对新模型的工作感到满意，我们就可以逐步将其推广到所有用户，相应地扩大和缩小端点。
 
-[![](../Images/12a36c7e8494169d875ab7b684fa9c75.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DpfWpcNb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ay896vuwRBZI4ccJOVCU4DA.png) 
+[![](img/12a36c7e8494169d875ab7b684fa9c75.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DpfWpcNb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ay896vuwRBZI4ccJOVCU4DA.png) 
 
 <figcaption>逐渐将所有用户切换到新机型。</figcaption>
 

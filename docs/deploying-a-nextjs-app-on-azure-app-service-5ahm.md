@@ -10,6 +10,6 @@
 
 例如，如果我单击“重新部署”,将会显示此消息，而不是之前的错误消息。这可能只是一件艺术品。
 
-[![NextJS on Azure](../Images/8331e44106db47d33132be2adf20cf1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D-Pjd9Rr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wbk64c7ziffa51kjjla4.png)
+[![NextJS on Azure](img/8331e44106db47d33132be2adf20cf1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D-Pjd9Rr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wbk64c7ziffa51kjjla4.png)
 
 长话短说，如果你处理过这种情况，你的体验如何？

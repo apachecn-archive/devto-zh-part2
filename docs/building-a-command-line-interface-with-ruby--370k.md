@@ -23,7 +23,7 @@
 
 我从一开始就知道，我希望能够将我的应用程序包装成自包含的、可分发的 gem 格式。 [Bundler](http://bundler.io/v1.16/guides/creating_gem.html#getting-started) 让脚手架目录的入门变得简单。
 
-[![Getting Started with Gems using Bundler](../Images/ed845f816923886b306c7b405220e3d5.png "Getting Started with Gems using Bundler")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SY_wr794--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/Adjoa/words-with-pictures/master/pictures/bundler.PNG)
+[![Getting Started with Gems using Bundler](img/ed845f816923886b306c7b405220e3d5.png "Getting Started with Gems using Bundler")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SY_wr794--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/Adjoa/words-with-pictures/master/pictures/bundler.PNG)
 
 第一次运行`bundle gem`命令时，您可以选择包含一个`CODE_OF_CONDUCT.md`和`LICENSE.txt`。我选择了许可证。我更新了我的`.gemspec`文件，详细介绍了我的宝石:我的宝石将会做什么的简短总结和更详细的描述。当我向前推进它的功能时，我添加了一个其他 gem 的简短列表，它将依赖于这些 gem 来运行。
 

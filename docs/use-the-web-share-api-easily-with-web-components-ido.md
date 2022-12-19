@@ -8,7 +8,7 @@
 
 ## `<web-share-wrapper>`
 
-[![When you press the share button on Android, the share tray will appear.](../Images/b2f510ad8d70616a392eee4813f6669d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sUeXQt1G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://philna.sh/assets/posts/web-share-wrapper/android-example-4bb48334a880f10b9f0785422b8eb73ef843b59288a7d198c56c8eb9a9e44f8d.png)
+[![When you press the share button on Android, the share tray will appear.](img/b2f510ad8d70616a392eee4813f6669d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sUeXQt1G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://philna.sh/assets/posts/web-share-wrapper/android-example-4bb48334a880f10b9f0785422b8eb73ef843b59288a7d198c56c8eb9a9e44f8d.png)
 
 我已经构建了一个名为`<web-share-wrapper>`的 web 组件。它是一个包装器，因为它旨在包装您可能已经用作各种社交网络的共享按钮的任何现有元素，并用使用 web share API 的单个元素来替换它们。
 

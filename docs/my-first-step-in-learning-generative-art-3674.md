@@ -27,7 +27,7 @@
 
 这是我的第一个生成艺术，没有数学的味道吗？
 
-[![image](../Images/3b84d6c89e2e03c29b05c6e06876ff4d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NsKTwl5p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/39439337-37e7728c-4ce2-11e8-88aa-fd29456b2343.png)
+[![image](img/3b84d6c89e2e03c29b05c6e06876ff4d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NsKTwl5p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1811616/39439337-37e7728c-4ce2-11e8-88aa-fd29456b2343.png)
 
 虽然可能会有一些不熟悉的函数，但是创建这个图片的是熟悉的 JavaScript 代码，它使用了 [p5.js](https://p5js.org/) 。
 
@@ -53,7 +53,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### “黑暗中的光明之路”
 
-[![light](../Images/f4915fe87018c691b14249d62628a66d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--joBV99uw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/1811616/39439343-3c6cdf5e-4ce2-11e8-9196-1b0df5dbf894.gif)T3】
+[![light](img/f4915fe87018c691b14249d62628a66d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--joBV99uw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/1811616/39439343-3c6cdf5e-4ce2-11e8-9196-1b0df5dbf894.gif)T3】
 
 ```
 function setup() {

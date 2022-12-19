@@ -14,7 +14,7 @@
 
 你也可以在这里看到我最新的项目:
 
-## ![](../Images/375dfcc32199b4dedf2b526645c27ff7.png) [ gwartney21 ](https://github.com/gwartney21) / [完成广场](https://github.com/gwartney21/CompleteTheSquare)
+## ![](img/375dfcc32199b4dedf2b526645c27ff7.png) [ gwartney21 ](https://github.com/gwartney21) / [完成广场](https://github.com/gwartney21/CompleteTheSquare)
 
 ### 创建这个程序是为了简化用二次曲线完成正方形的过程。
 

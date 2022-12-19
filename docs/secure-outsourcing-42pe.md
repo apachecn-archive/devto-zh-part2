@@ -10,7 +10,7 @@
 
 每一个雇佣离岸软件工程师的企业都潜在地将自己置于一个易受攻击的位置。然而，像甲骨文和微软这样的 IT 界巨头，多年来一直在成功地使用外包开发。
 
-[![Secure Outsourcing: Before the work begins](../Images/2a9c8a46e9a7665b2a9a2b36c2f65284.png "Secure Outsourcing: Before the work begins")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2HOZ5kz7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://perfectial.com/wp-content/uploads/2018/04/img1-4.jpg)
+[![Secure Outsourcing: Before the work begins](img/2a9c8a46e9a7665b2a9a2b36c2f65284.png "Secure Outsourcing: Before the work begins")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2HOZ5kz7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://perfectial.com/wp-content/uploads/2018/04/img1-4.jpg)
 
 *那么，有什么秘诀呢？*
 

@@ -7,7 +7,7 @@
 [@miku86](https://dev.to/miku86) 在**[Better console . logs](https://dev.to/wangonya/better-consolelogs-448c)**线程:
 中快速提示
 
-[![miku86 profile image](../Images/53199f0f3bc5d00cc78920a7d538145c.png) ](/miku86) [ miku86 ](/miku86) • [<time datetime="2018-10-18T16:49:17Z" class="date-short-year"> Oct 18 '18 </time> • Edited on <time datetime="2018-10-18T16:50:07Z" class="hidden m:inline-block date-no-year">Oct 18</time>](https://dev.to/miku86/comment/68d0) 
+[![miku86 profile image](img/53199f0f3bc5d00cc78920a7d538145c.png) ](/miku86) [ miku86 ](/miku86) • [<time datetime="2018-10-18T16:49:17Z" class="date-short-year"> Oct 18 '18 </time> • Edited on <time datetime="2018-10-18T16:50:07Z" class="hidden m:inline-block date-no-year">Oct 18</time>](https://dev.to/miku86/comment/68d0) 
 
 与开发工具中的`console.log`相关，
 
@@ -37,7 +37,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 接下来我们有请 [@kayis](https://dev.to/kayis) ，他补充了一些关于 **[12 件事的快速想法，每一个初级开发人员都应该学习](https://dev.to/ben/12-things-every-junior-developer-should-learn-lco)** 。简而言之:在“不要重复自己”之前先学会“保持愚蠢的简单”
 
-[![kayis profile image](../Images/e662378fc6ec45f59882254ec51a89b0.png) ](/kayis) [ K (he/him) ](/kayis) • [<time datetime="2018-10-16T19:37:01Z" class="date-short-year"> Oct 16 '18 </time>](https://dev.to/kayis/comment/67bn) 
+[![kayis profile image](img/e662378fc6ec45f59882254ec51a89b0.png) ](/kayis) [ K (he/him) ](/kayis) • [<time datetime="2018-10-16T19:37:01Z" class="date-short-year"> Oct 16 '18 </time>](https://dev.to/kayis/comment/67bn) 
 
 先吻后干。
 
@@ -47,13 +47,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 [@citizen428](https://dev.to/citizen428) 跳进 **[什么类型的特征通常会导致大量科技债务？](https://dev.to/ben/what-types-of-features-typically-lead-to-lots-of-tech-debt-p46)** 讨论线程讨论“技术债”这个术语本身:
 
-[![citizen428 profile image](../Images/ccda4f7ebb3a651cb0c336fed9926d1a.png) ](/citizen428) [ Michael Kohl ](/citizen428) • [<time datetime="2018-10-18T16:54:03Z" class="date-short-year"> Oct 18 '18 </time>](https://dev.to/citizen428/comment/68d3) 
+[![citizen428 profile image](img/ccda4f7ebb3a651cb0c336fed9926d1a.png) ](/citizen428) [ Michael Kohl ](/citizen428) • [<time datetime="2018-10-18T16:54:03Z" class="date-short-year"> Oct 18 '18 </time>](https://dev.to/citizen428/comment/68d3) 
 
 依我看，“科技债务”这个词被过度使用了。很多时候我听到它，它只是“坏代码”的一种更好的说法。对我来说,“技术债务”意味着有人**有意识地**决定做一些权衡，通常是用代码质量换取时间。
 
 最后， [@thecodetrane](https://dev.to/thecodetrane) 在帖子 **[中留下了很棒的评论开发者是下一个蓝领工作](https://dev.to/stereobooster/developer-is-the-next-blue-collar-job-269b)** 。这个讨论跨越了 42 条评论(到目前为止),整个对话非常值得你花时间。
 
-[![thecodetrane profile image](../Images/86cf5a794e377a3231863d5b42ac101b.png) ](/thecodetrane) [ Michael Cain ](/thecodetrane) • [<time datetime="2018-10-21T23:26:54Z" class="date-short-year"> Oct 21 '18 </time> • Edited on <time datetime="2018-10-21T23:27:23Z" class="hidden m:inline-block date-no-year">Oct 21</time>](https://dev.to/thecodetrane/comment/69pe) 
+[![thecodetrane profile image](img/86cf5a794e377a3231863d5b42ac101b.png) ](/thecodetrane) [ Michael Cain ](/thecodetrane) • [<time datetime="2018-10-21T23:26:54Z" class="date-short-year"> Oct 21 '18 </time> • Edited on <time datetime="2018-10-21T23:27:23Z" class="hidden m:inline-block date-no-year">Oct 21</time>](https://dev.to/thecodetrane/comment/69pe) 
 
 很棒的文章。以前说过，现在来看看:我把自己看做一个“数字木匠”。
 

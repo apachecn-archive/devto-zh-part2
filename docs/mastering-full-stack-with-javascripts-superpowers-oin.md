@@ -22,7 +22,7 @@
 
 第二天，我研究了一些主题和资源，在这个旅程中，要成为一名全栈开发人员，只需利用 Javascript 的超强能力。所以我创建了一个待办事项列表，从 javascript 的最基础开始，逐步发展到更高级的概念，涵盖了所有的技术。
 
-[![Screenshot from notes app](../Images/a8eab3953a56ceeeecc310d834b98faf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WxbFOFeT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/YgBfkWW.png)
+[![Screenshot from notes app](img/a8eab3953a56ceeeecc310d834b98faf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WxbFOFeT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/YgBfkWW.png)
 
 如果你是一名前端开发人员，期待着*提升你的游戏水平*，或者你已经是一名全栈开发人员，想要为面试或下一个项目提高技能，我敢肯定，这将对你有所帮助。
 

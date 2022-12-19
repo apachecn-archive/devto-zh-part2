@@ -85,7 +85,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 致命的错字
 
-[![All the automated tests have crashed - it's normal](../Images/f1d0d86d9a6d63ba17f364e6785c5b30.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BcC164G_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/geek-and-poke-its-normal.png)
+[![All the automated tests have crashed - it's normal](img/f1d0d86d9a6d63ba17f364e6785c5b30.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BcC164G_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/geek-and-poke-its-normal.png)
 
 第一个例子:脚本总是在运行任何测试之前崩溃:
 
@@ -167,7 +167,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 # 你的标准方法行不通
 
-[![my normal approach is useless here](../Images/55d5e8dba6e542aa127f491c04972e73.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ngKnJyLV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/xkcd-normal-approach.jpg)
+[![my normal approach is useless here](img/55d5e8dba6e542aa127f491c04972e73.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ngKnJyLV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/xkcd-normal-approach.jpg)
 
 编写 CI 脚本与编写生产代码或测试代码非常不同。这是一个完全不同的世界。我来详细说明一下。
 

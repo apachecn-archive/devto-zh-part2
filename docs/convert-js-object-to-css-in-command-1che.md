@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/acro5piano/convert-js-object-to-css-in-command-1che>
 
-[![image](../Images/0a360bb60c2fd762bb2e836cfc1ce2ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oMYT8ljC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ri161v1uem9tb2wc1xl1.gif)
+[![image](img/0a360bb60c2fd762bb2e836cfc1ce2ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oMYT8ljC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ri161v1uem9tb2wc1xl1.gif)
 
 我发现样式组件对我来说用 React 写样式更方便。
 

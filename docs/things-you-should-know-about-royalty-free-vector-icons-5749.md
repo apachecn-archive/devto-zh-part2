@@ -7,7 +7,7 @@
 为 WordPress 努力选择最合适的颜色并不总是简单的。只需选择一种基色，它就会为你赢得一个适合你的调色板。定制的范围很广。你可以从无穷无尽的选项中选择，尽管属性是必需的。**点击此处[商业用免版税矢量图标](https://www.inventicons.com/)。**
 
 你还会发现一系列归因需求，但大多数集合不需要链接。为了获得更多的功能，您可以使用 API。一如既往，该集合是完全免费的，可以用于任何私人或工业项目，没有任何限制。
-[![Vector icons - Inventicons](../Images/f9e80825c50a527c1e614521dcfb9fc1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nQQCMpDZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ajsedmyt7zk02ogqtge5.jpg) 
+[![Vector icons - Inventicons](img/f9e80825c50a527c1e614521dcfb9fc1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nQQCMpDZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ajsedmyt7zk02ogqtge5.jpg) 
 现实中，没有完全免费的午餐。外包最美妙的事情是你可以选择你所做的工作类型，因此如果你喜欢你所做的事情，那么保持你的积极性会更简单。幸运的是，利用市场上大量的免费资源，事情不需要变成那样。
 
 所有作品都包含在知识共享 CC0 许可协议中。
@@ -26,7 +26,7 @@
 在网络版权上合法使用图片是一个复杂的问题。
 
 在 Font Awesome 中可以找到 100 多万个免费图标、社交网络徽标和数字图像，这是一个工具包，已被华盛顿邮报和斯坦福大学等领先组织采用。正因为如此，如果你适当地优化你的图片，你就不会排斥你的潜在客户。
-[![Vector icons - Inventicons](../Images/94e5497ee5353dfb5b6acb25628c1e0b.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--z-u1fmdW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o5wvcyi6jvj5aa9u4jkz.jpg)
+[![Vector icons - Inventicons](img/94e5497ee5353dfb5b6acb25628c1e0b.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--z-u1fmdW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o5wvcyi6jvj5aa9u4jkz.jpg)
 
 就像在 Adobe apps 中一样，图片在 PowerPoint 中没有链接。成百上千、成千上万的照片组成了每个数据库，它们是你可能要获得最佳图像选择的第一批区域。**在这里找到[用于商业用途的开源图标](https://www.inventicons.com/browse)。**
 

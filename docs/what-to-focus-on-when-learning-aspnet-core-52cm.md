@@ -6,7 +6,7 @@
 
 学习 ASP.NET 曾经相当简单。您将创建一个新的 WebForms 项目，就这样，您启动并运行了。
 
-<center>![](../Images/9e94626d839e27e23a1db8ac158452ac.png)</center>
+<center>![](img/9e94626d839e27e23a1db8ac158452ac.png)</center>
 
 现在(坚持 ASP.NET 核心)你有选择，*这么多选择*。
 
@@ -21,7 +21,7 @@
 
 只有一个问题...
 
-[![](../Images/2d94a908ddbf4dc2413e526c833e1324.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DKVQ2ITj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/2018-10-04-where-to-begin/2018-10-04-14-10-41.png)
+[![](img/2d94a908ddbf4dc2413e526c833e1324.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DKVQ2ITj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/2018-10-04-where-to-begin/2018-10-04-14-10-41.png)
 
 ...当人们对你的决定不感兴趣时，他们(自然地)倾向于根据自己的经验和偏好提出意见，而你真正需要的是更具体的东西。
 
@@ -48,7 +48,7 @@
 
 学习这些东西的最好方法是建造一些东西，*看着它在火焰中燃烧，然后找出你把错字放在哪里了*！
 
-<center>![](../Images/6a2987cda2ffb087531ba3673ab33a75.png)</center>
+<center>![](img/6a2987cda2ffb087531ba3673ab33a75.png)</center>
 
 *图片来源:Citoy ' art*[Tempus fugit](http://www.flickr.com/photos/143910809@N02/31908797886)via[photo pin](http://photopin.com)[(许可证)](https://creativecommons.org/licenses/by-nc-nd/2.0/) *
 
@@ -86,7 +86,7 @@ codementor.io 列出了 40 个想法。
 
 这是一个服务器端应用程序(ASP.NET MVC 或 Razor Pages)。
 
-<center>![](../Images/a6f473521696782df6134b33a50f504e.png)</center>
+<center>![](img/a6f473521696782df6134b33a50f504e.png)</center>
 
 来自浏览器的请求。
 
@@ -98,7 +98,7 @@ ASP.NET 处理这个请求(通过一个 [MVC 控制器或 Razor Page](https://jo
 
 在这里，“后端”被公开为一个 API，有一个单独的前端客户端，用 Angular/React 等语言编写。
 
-<center>![](../Images/5377c24ee74b05d918c7c75b978ba712.png)</center>
+<center>![](img/5377c24ee74b05d918c7c75b978ba712.png)</center>
 
 这一次，用户界面已经移到了客户端(在浏览器中运行)。
 
@@ -158,7 +158,7 @@ ASP.NET 处理这个请求(通过一个 [MVC 控制器或 Razor Page](https://jo
 
 你可以在构建 API 的时候使用类似于[失眠症](https://insomnia.rest/)的东西来测试你的 API，而不是构建一个前端。
 
-<center>![](../Images/a6f3b0e4090078f48bba9d411563c948.png)</center>
+<center>![](img/a6f3b0e4090078f48bba9d411563c948.png)</center>
 
 通过这种方式，您可以轻松地向 API 发起请求，而不会陷入 javascript 框架的泥沼。
 
@@ -168,7 +168,7 @@ ASP.NET 处理这个请求(通过一个 [MVC 控制器或 Razor Page](https://jo
 
 从 Visual Studio(通过文件>新建项目)或 CLI...
 
-[![](../Images/dc2224b7815f37ace1dcf8bf5576dfb6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z9va8enA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/2018-10-04-where-to-begin/2018-10-05-09-16-35.png)
+[![](img/dc2224b7815f37ace1dcf8bf5576dfb6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z9va8enA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/2018-10-04-where-to-begin/2018-10-05-09-16-35.png)
 
 `dotnet new angular`
 

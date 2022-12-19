@@ -4,7 +4,7 @@
 
 你好，我发现了这条推文。
 
-> ![Mohsen Mostafa Jokar profile image](../Images/a7e7f6e88fc4cb6665336f8083a71678.png)
+> ![Mohsen Mostafa Jokar profile image](img/a7e7f6e88fc4cb6665336f8083a71678.png)
 
 我想知道写的是什么，我试着用 mruby 来阅读。
 

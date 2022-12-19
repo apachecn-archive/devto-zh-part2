@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/raulmonteroc/nullability-in-kotlin-a-pragmatic-approach-ep6>
 
-[![](../Images/9fffbb5718cc3cae0d47414dbab8ce86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F5e5_4Fk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raulmonteroc.com/wp-content/uploads/2018/07/kotlin_800x320-1.png)
+[![](img/9fffbb5718cc3cae0d47414dbab8ce86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F5e5_4Fk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raulmonteroc.com/wp-content/uploads/2018/07/kotlin_800x320-1.png)
 
 NullPointerException 来自其他强类型语言，如 Java 或 C#，是您可以找到的最常见的异常之一，它提供长时间的调试会话只是因为传递并最终调用了一个空引用。
 

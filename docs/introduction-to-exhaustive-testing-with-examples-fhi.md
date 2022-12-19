@@ -30,7 +30,7 @@
 
 ## 详尽的测试示例
 
-[![exhaustivetesting](../Images/71f4f9d87a4cc1a125b4293bbf2bcc41.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zu76lkts--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/testautomationresources.com/wp-content/uploads/2018/11/IE-Options.png%3Fw%3D405%26ssl%3D1)
+[![exhaustivetesting](img/71f4f9d87a4cc1a125b4293bbf2bcc41.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zu76lkts--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/testautomationresources.com/wp-content/uploads/2018/11/IE-Options.png%3Fw%3D405%26ssl%3D1)
 
 IE 工具>高级选项窗口
 

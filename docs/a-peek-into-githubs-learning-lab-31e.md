@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kolokodess/a-peek-into-githubs-learning-lab-31e>
 
-[![](../Images/49df6d34169f3f8eb9d79804a0032d47.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hItzarD---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AZ16CjNHE7dV_WVT82_GtbQ.png)
+[![](img/49df6d34169f3f8eb9d79804a0032d47.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hItzarD---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AZ16CjNHE7dV_WVT82_GtbQ.png)
 
 <figcaption>lab.github.com</figcaption>
 
@@ -20,7 +20,7 @@ Github 的团队最近推出了一个交互式指南，帮助开发人员掌握�
 4.  **将项目迁移到 GitHub** :获取将代码和贡献者迁移到 GitHub 的技巧。
 5.  **管理合并冲突**:用户开始学习为什么会发生合并冲突以及如何修复它们。
 
-[![](../Images/072bb0f6874f85086322edce6cc30f79.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tXdr_ymp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rbad239klgw5ndjyiq01.gif) 
+[![](img/072bb0f6874f85086322edce6cc30f79.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tXdr_ymp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rbad239klgw5ndjyiq01.gif) 
 
 <figcaption>先睹为快！Gif 鸣谢:Github 学习实验室</figcaption>
 

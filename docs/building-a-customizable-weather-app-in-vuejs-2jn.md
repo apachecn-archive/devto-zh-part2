@@ -4,19 +4,19 @@
 
 我是一个天气应用收集者。尽管它们基本上都给出了完全相同的信息，但我对天气的美丽渲染情有独钟。我的默认天气应用程序雅虎天气有时会令人震惊。
 
-[![Yahoo Weather App](../Images/12f7f7d8dd0cda49c295d61724baf51d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vLOx5lg4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/03/yahooweather3.jpg)
+[![Yahoo Weather App](img/12f7f7d8dd0cda49c295d61724baf51d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vLOx5lg4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/03/yahooweather3.jpg)
 
 几天前，我发现了我的新宠- [天气小猫](http://weatherkittyapp.com/)。
 
-[![Weather Kitty App](../Images/a886dd0d203a9b65762bd4acbe0f49f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1tHrhON7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/03/weatherkitty.jpg)
+[![Weather Kitty App](img/a886dd0d203a9b65762bd4acbe0f49f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1tHrhON7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/03/weatherkitty.jpg)
 
 你也猜到了，还有一只[天气小狗](http://weatherpuppy.com/)，很可爱，但不是猫可爱。抱歉，没有什么能打败它。我在看 kitty 的应用程序，意识到你可以在*任何*话题上做一个天气应用程序，然后疯狂地生产应用程序。因为“像疯了一样”是我建造东西的主要动力，我认为这会很有趣(而且有教育意义！)在 Vue 中搭建一个天气 app。但不是所有的天气应用。一个你可以很容易地(我的意思是访问代码)放入你自己的照片。例如，一个和你的孩子:
 
-[![My Kids App](../Images/91b1f76f2934f2c368562ef52adaad3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7zpR3j3U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/03/kids2.jpg)
+[![My Kids App](img/91b1f76f2934f2c368562ef52adaad3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7zpR3j3U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/03/kids2.jpg)
 
 甚至是漫威漫画，为什么不呢？
 
-[![Marvel](../Images/d40d3f6ca461b603896cfa520e6bf8f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yaAazaEq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/03/marvel.jpg)
+[![Marvel](img/d40d3f6ca461b603896cfa520e6bf8f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yaAazaEq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/03/marvel.jpg)
 
 总的来说，所有这些应用程序都倾向于遵循一个相似的模式——获取天气信息，并尝试显示适当的图片。在雅虎应用程序的情况下，它是来自同一地理位置的图片。对于其他人来说，这只是一个与当前天气相匹配的图片。
 

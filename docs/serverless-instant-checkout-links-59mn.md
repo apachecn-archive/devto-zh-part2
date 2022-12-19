@@ -22,7 +22,7 @@
 
 *   [方形结账 API](https://developer.squareup.com/docs/payments/checkout/overview)
 
-[![Warning! Clicking on this image will not actually connect your Square account.](../Images/a0ca5a23ba403ad0dbed18f515c07468.png) ](//images.ctfassets.net/1wryd5vd9xez/4nzU7BHOVNBhzx4moUdQzf/3be5b70b7901dadb6d7f91b14c11f1c7/https___cdn-images-1.medium.com_max_2968_1_L8gYudVwq0gRP3SJFkgSwA.png) *警告！点击此图片实际上不会连接到您的 Square 帐户。*
+[![Warning! Clicking on this image will not actually connect your Square account.](img/a0ca5a23ba403ad0dbed18f515c07468.png) ](//images.ctfassets.net/1wryd5vd9xez/4nzU7BHOVNBhzx4moUdQzf/3be5b70b7901dadb6d7f91b14c11f1c7/https___cdn-images-1.medium.com_max_2968_1_L8gYudVwq0gRP3SJFkgSwA.png) *警告！点击此图片实际上不会连接到您的 Square 帐户。*
 
 应用程序的前端最初只是静态页面，但后来被重构为一个相当简单的 React 应用程序。这里主要关注的是使用无服务器函数来完成我们的处理。创建即时结账链接的第一步需要设置 OAuth，以获取用户的访问令牌。为此，我们将创建前两个函数，名为“authorize”和“code”。谷歌在解释如何在他们的网站上使用 Firebase CLI [方面做得很好，所以我们将跳过这一点。](https://firebase.google.com/docs/functions/get-started)
 
@@ -151,7 +151,7 @@ exports.catalog = functions.https.onRequest((request, response) => {
 
 深呼吸，单子上有很多。
 
-[![This is a not so pretty example of our checkout link.](../Images/3451fd3e74fabf73984237d79efc3d11.png) ](//images.ctfassets.net/1wryd5vd9xez/2VfbSezW8iDOvHk7iBZEjo/51b86c4139f2a5bc7ab8e26b495fcec8/https___cdn-images-1.medium.com_max_2000_1_FAlgA0IPTybwJKnrSEXkcw.png) *这是我们结账链接的一个不太漂亮的例子。*
+[![This is a not so pretty example of our checkout link.](img/3451fd3e74fabf73984237d79efc3d11.png) ](//images.ctfassets.net/1wryd5vd9xez/2VfbSezW8iDOvHk7iBZEjo/51b86c4139f2a5bc7ab8e26b495fcec8/https___cdn-images-1.medium.com_max_2000_1_FAlgA0IPTybwJKnrSEXkcw.png) *这是我们结账链接的一个不太漂亮的例子。*
 
 好了，休息结束。回去工作。
 

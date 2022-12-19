@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/couellet/build-an-e-commerce-progressive-web-app-with-gatsby-b02>
 
-[![A PWA Example: Build an E-Commerce Progressive Web App with Gatsby](../Images/fa4f21a1fd7292846a669b4d4290b737.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7Rq3cmDU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203668/what-is-progressive-web-app.png)
+[![A PWA Example: Build an E-Commerce Progressive Web App with Gatsby](img/fa4f21a1fd7292846a669b4d4290b737.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7Rq3cmDU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203668/what-is-progressive-web-app.png)
 
 前几天试着用手机买了一件 t 恤。
 

@@ -23,7 +23,7 @@
 
 # 建筑
 
-[![architecture overview](../Images/7bbf58f9e39204056355fbbbd4576705.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4Ms1b6wG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m1abt2656tiyxybgpdy9.png)
+[![architecture overview](img/7bbf58f9e39204056355fbbbd4576705.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4Ms1b6wG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m1abt2656tiyxybgpdy9.png)
 
 上图显示了解决方案架构，包括持续集成(CI)和 CD 的组件。在这种情况下，客户端是开发者，因为我们是从开发的角度来看设置的。
 
@@ -325,7 +325,7 @@ Enter fullscreen mode Exit fullscreen mode
 *   `terraform apply website`
 *   🎉🎉🎉
 
-[![website deployed](../Images/f681a2febe687914923972bdc7d85c50.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--341lFmyC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vpkrnboq718ax4074it1.png)
+[![website deployed](img/f681a2febe687914923972bdc7d85c50.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--341lFmyC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vpkrnboq718ax4074it1.png)
 
 我听到你问“但是持续交付怎么办”？下一节将介绍如何设置自动化的 Travis 作业。
 
@@ -373,11 +373,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 为了使 Terraform 二进制文件能够从构建服务器内部与 AWS 对话，我们还需要设置 AWS 凭证。这可以通过在构建设置中设置秘密环境变量来实现:
 
-[![travis environment variables](../Images/57eea3ffbe66e9d86b2adb4377e52b8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3SVErCnX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e6robyfmw80kvoblmfmv.png)
+[![travis environment variables](img/57eea3ffbe66e9d86b2adb4377e52b8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3SVErCnX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e6robyfmw80kvoblmfmv.png)
 
 然后，我们只需在 Travis 仪表板上启用存储库，并通过提交或使用 UI 来触发构建。如果一切按预期运行，您将获得一个[绿色建筑](https://travis-ci.org/FRosner/aws_travis/builds/399020823):
 
-[![green build](../Images/507f769a858b39cbf2f3de20ea184751.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GrCuo6hX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dj6fri27no3yaa61njar.png)
+[![green build](img/507f769a858b39cbf2f3de20ea184751.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GrCuo6hX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dj6fri27no3yaa61njar.png)
 
 # 结论
 

@@ -4,7 +4,7 @@
 
 企业软件不可避免的现实之一是必须面对“技术债务”。但是到底是什么呢？总是要避免的吗？当然，这里的核心问题是你如何定义这个术语。
 
-[![](../Images/dc6ce6bdaddd389187d972c392dbf302.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lGW7Cuvu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://aisaac.io/content/images/2015/10/man-pushing-rock-up-hill-ok-to-use.jpg)
+[![](img/dc6ce6bdaddd389187d972c392dbf302.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lGW7Cuvu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://aisaac.io/conteimg/2015/10/man-pushing-rock-up-hill-ok-to-use.jpg)
 
 我对技术债务的定义是这样的:它是为了确保市场优势而做出的商业决策的持续技术影响。科技债务的功能就像成长型企业获得信贷一样，在企业快速增长阶段为其提供急需的推动力。有时，你必须采取一种经过计算的“捷径”来缩短上市时间并获得强大的市场份额。这是一个商业决策，可以说是一场精心策划的赌博。
 

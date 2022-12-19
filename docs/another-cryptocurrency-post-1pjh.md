@@ -11,7 +11,7 @@
 
 现在我们找两个朋友 A 和 B，他们想互相转账假钱，但是他们没有打印自己的钱，而是做了一件事，他们创建了一个共享的存折。这个共享的存折存储了他们两个人的记录。a 通过在他自己的版本中添加一条记录将钱转给 B，他告诉 B 他的交易，现在 B 也可以记录该交易。此共享记录是分布式分类账，是区块链的基础。
 
-[![Shared ledger](../Images/2df8899882c0cc896aa5fc071c5f9b78.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RCdCF6yj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/zeerorg/WriteIt/master/ledger.png)
+[![Shared ledger](img/2df8899882c0cc896aa5fc071c5f9b78.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RCdCF6yj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/zeerorg/WriteIt/master/ledger.png)
 
 现在，越来越多的人想用这些假钱与他们交易，这样每个人都可以得到共享的存折。当有人转账时，他们会通知每个人他们已经转账了，这样每个人都会更新他们的账户。
 
@@ -36,7 +36,7 @@
 
 这就是双重支出的问题。为了防止重复消费，参与者需要一种方法来区分已确认和未确认的交易。这是通过区块链实现的。
 
-[![Double Spending](../Images/511538964b2b2b76cd5b8278fae34bb3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zm2mjUwJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j80w5n9vg5xuv4wwtm8a.png)
+[![Double Spending](img/511538964b2b2b76cd5b8278fae34bb3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zm2mjUwJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j80w5n9vg5xuv4wwtm8a.png)
 
 ### Q4:什么是区块链？
 
@@ -50,7 +50,7 @@ Block:它是事务的集合，包含前一个块的散列。(哈希是对应于�
 
 现在，没有人可以改变交易，因为这将改变块，这将改变问题和问题的答案，引起连锁反应，其中下一个块将改变，等等。
 
-[![Block chain](../Images/3a8c99814f20519500bd0b19691f0af5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NuJT9PlF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/zeerorg/WriteIt/master/blockchain.png)
+[![Block chain](img/3a8c99814f20519500bd0b19691f0af5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NuJT9PlF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/zeerorg/WriteIt/master/blockchain.png)
 
 ## 附加阅读:
 

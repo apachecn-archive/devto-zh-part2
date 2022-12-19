@@ -4,7 +4,7 @@
 
 # 在 Debian 9 上用 Git 安装 Trac
 
-[![Trac](../Images/d42ba498d7f973cc639a67a1e1c952e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fgDXvq5---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9xiv5kwuwsij6zx0q28e.png)
+[![Trac](img/d42ba498d7f973cc639a67a1e1c952e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fgDXvq5---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9xiv5kwuwsij6zx0q28e.png)
 
 既然我已经记录了这个过程，为什么不把我的第一篇文章写在 dev.to 软件安装指南上呢？
 

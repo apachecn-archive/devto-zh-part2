@@ -16,7 +16,7 @@
 $ kubectl describe deploy controller --namespace knative-serving 
 ```
 
-<figure>[![](../Images/e9ed92cfa3ae6f56022393b5ac52f0ac.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Q2B-hRy---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AdMS_nwLCgnPozse2FRUpyg.png) 
+<figure>[![](img/e9ed92cfa3ae6f56022393b5ac52f0ac.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Q2B-hRy---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AdMS_nwLCgnPozse2FRUpyg.png) 
 
 <figcaption>开胃小菜</figcaption>
 
@@ -28,7 +28,7 @@ $ kubectl describe deploy controller --namespace knative-serving
 kubectl get pods --namespace knative-monitoring 
 ```
 
-[![](../Images/5058cb441d2d4bc12127c3388378fbb2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dki2k-2T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aw9v0J3mPNewj16F2DihEtg.png)
+[![](img/5058cb441d2d4bc12127c3388378fbb2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dki2k-2T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aw9v0J3mPNewj16F2DihEtg.png)
 
 > 如果您没有看到任何正在运行的东西，请按照这里的[步骤](https://github.com/knative/docs/blob/master/serving/installing-logging-metrics-traces.md#before-you-begin)进行设置。
 
@@ -46,9 +46,9 @@ kubectl port-forward --namespace monitoring $(kubectl get pods --namespace monit
 
 导航到位于 [http://localhost:3000](http://localhost:3000/) 的 Grafana UI。
 
-[![](../Images/81d0c15e1b0031478279ab13acdc8c28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6mgZm56r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AGSpmymhThc2bJeauSltYhA.png)
+[![](img/81d0c15e1b0031478279ab13acdc8c28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6mgZm56r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AGSpmymhThc2bJeauSltYhA.png)
 
-<figure>[![](../Images/16391f052b38336f9990773249433666.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--54zgay5B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AyeAs4iWTkNXLtxB-8IBPTg.png)
+<figure>[![](img/16391f052b38336f9990773249433666.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--54zgay5B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AyeAs4iWTkNXLtxB-8IBPTg.png)
 
 <figcaption>Grafana UI—knative-node-app</figcaption>
 
@@ -56,7 +56,7 @@ kubectl port-forward --namespace monitoring $(kubectl get pods --namespace monit
 
 您还可以检查 Knative Serving- scaling、deployments、pods 等指标。,
 
-<figure>[![](../Images/5fd2962038ac2e595b613f4f62184667.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cUTLbmlL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AC59TynesT42mG-cUJv4kcQ.png) 
+<figure>[![](img/5fd2962038ac2e595b613f4f62184667.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cUTLbmlL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AC59TynesT42mG-cUJv4kcQ.png) 
 
 <figcaption></figcaption>
 
@@ -85,9 +85,9 @@ kubectl proxy
 
 导航到 [Zipkin UI](http://localhost:8001/api/v1/namespaces/istio-system/services/zipkin:9411/proxy/zipkin/) ，点击“查找痕迹”查看最新的痕迹。您可以搜索跟踪 ID 或查看特定应用程序的跟踪。单击跟踪可查看特定呼叫的详细视图。
 
-[![](../Images/55e8f0c15b4b85e4ee942e2ecb903bea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xz8NpBxl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AJ4ZCAZX5c0rD_n97yTaMZA.png)
+[![](img/55e8f0c15b4b85e4ee942e2ecb903bea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xz8NpBxl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AJ4ZCAZX5c0rD_n97yTaMZA.png)
 
-<figure>[![](../Images/ff9497b65ceec2f9ad2446893360b27a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Ms9QxF_J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AOX1kUKfK5-yNKwsOry43Pg.png) 
+<figure>[![](img/ff9497b65ceec2f9ad2446893360b27a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Ms9QxF_J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AOX1kUKfK5-yNKwsOry43Pg.png) 
 
 <figcaption>齐普金痕迹— Knative-node-app-0001</figcaption>
 
@@ -110,15 +110,15 @@ kubectl apply -f “[https://cloud.weave.works/k8s/scope.yaml?k8s-version=$(kube
 kubectl port-forward -n weave “$(kubectl get -n weave pod — selector=weave-scope-component=app -o jsonpath=’{.items..metadata.name}’)” 4040 
 ```
 
-[![](../Images/25676b97f1e02b8b0e1140cf0801bb0b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---n6st57u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A6azgps1dDbeLcNHqepNH7A.png)
+[![](img/25676b97f1e02b8b0e1140cf0801bb0b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---n6st57u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A6azgps1dDbeLcNHqepNH7A.png)
 
-[![](../Images/6ead98324772fa226bc599788c76c304.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v_ErrI1P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AhsXkyaiJNbtGR4UcMd73-Q.png)
+[![](img/6ead98324772fa226bc599788c76c304.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v_ErrI1P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AhsXkyaiJNbtGR4UcMd73-Q.png)
 
 ### Kibana + ElasticSearch
 
 我试图使用 Kibana UI(用于 [Elasticsearch](https://info.elastic.co/) 的可视化工具)来可视化日志，但是在配置索引模式时遇到了以下错误— *“无法获取映射。你有符合这种模式的指数吗？”*
 
-[![](../Images/d4a7097f109957973b6b7ac395bb1ece.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wcSxeTe4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AbOQ9W4aXu3vb5iMiQt1oMA.png)
+[![](img/d4a7097f109957973b6b7ac395bb1ece.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wcSxeTe4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AbOQ9W4aXu3vb5iMiQt1oMA.png)
 
 由于 knative GitHub repo 上的[这一期](https://github.com/knative/docs/issues/447)将对“记录和监控”相关主题进行修订。我将来肯定会重新访问日志。
 
@@ -152,7 +152,7 @@ kubectl label nodes — all beta.kubernetes.io/fluentd-ds-ready=”true”
 kubectl get daemonset fluentd-ds --namespace knative-monitoring 
 ```
 
-[![](../Images/641a34f94c309235608b589108565533.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hc9Roche--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ApZSzO_sKo4q9yjNs8EWj5Q.png)
+[![](img/641a34f94c309235608b589108565533.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hc9Roche--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ApZSzO_sKo4q9yjNs8EWj5Q.png)
 
 等待一会儿，运行该命令
 
@@ -164,7 +164,7 @@ kubectl proxy
 *   在“配置索引模式”页面中，输入 logstash-*来索引模式，并从时间过滤器字段名称中选择@timestamp，然后单击 Create 按钮。
 *   要创建第二个索引，请选择页面左上角的创建索引模式按钮。输入 zipkin*来索引模式，并从时间过滤器字段名称中选择 timestamp_millis，然后单击创建按钮。
 
-[![](../Images/581b4d5d79e709ba5ad38a30716ef4c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--22E146aR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AbN4O7ds87NnpaXmQGBLhEw.png)
+[![](img/581b4d5d79e709ba5ad38a30716ef4c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--22E146aR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AbN4O7ds87NnpaXmQGBLhEw.png)
 
 如果你仍然看到这个问题，试着点击**基巴纳**页面上的**开发工具**并运行这个命令
 
@@ -172,7 +172,7 @@ kubectl proxy
 GET \_cat/indices?v 
 ```
 
-[![](../Images/0eaab0066b8a4eb16b381591f466be88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W3ba-hTb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Akk7Gvn-q84O6nEf8aWB6ow.png)
+[![](img/0eaab0066b8a4eb16b381591f466be88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W3ba-hTb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Akk7Gvn-q84O6nEf8aWB6ow.png)
 
 ### 进一步阅读
 

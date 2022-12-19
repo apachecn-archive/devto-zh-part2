@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/geraldcroes/from-chief-enterprise-architect-to-developer-4e1n>
 
-<figure>[![](../Images/a1e3ab549a98ecaa393741eed69a20c5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--W0F9KDTv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AjEkqhRqzDpRdnk8nb-go4g.jpeg)
+<figure>[![](img/a1e3ab549a98ecaa393741eed69a20c5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--W0F9KDTv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AjEkqhRqzDpRdnk8nb-go4g.jpeg)
 
 <figcaption>Gerald Croes 摄影——迷你世界里昂</figcaption>
 

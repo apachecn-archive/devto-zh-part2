@@ -10,7 +10,7 @@
 
 ## 官僚的工具
 
-[![Printing out memos](../Images/9ee65dbd75297679d7b95852a9630732.png "A printer with stack of memos on it")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ld09DJoH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/vNIG4jwm.jpg)
+[![Printing out memos](img/9ee65dbd75297679d7b95852a9630732.png "A printer with stack of memos on it")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ld09DJoH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/vNIG4jwm.jpg)
 
 你应该关心备忘录，因为我们工作在一个由经理 <sup id="fnr-footnotes-2">[2](#fn-footnotes-2)</sup> 管理的官僚社会。很可能你为一个足够大的组织工作，它有自己的官僚机构——大多数程序员都是这样。
 
@@ -26,7 +26,7 @@
 
 ## 什么是备忘录？
 
-[![Write things in a notebook](../Images/52025ad5630367678415cd9baba680a4.png "Notebooks, for writing memos")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5D0U_aL1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/rkYnp3Sm.jpg)
+[![Write things in a notebook](img/52025ad5630367678415cd9baba680a4.png "Notebooks, for writing memos")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5D0U_aL1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/rkYnp3Sm.jpg)
 
 程序员用[办公空间](https://en.wikipedia.org/wiki/Office_Space)术语理解备忘录是很常见的。他们是主管做的事情，他们真的需要 TPS 封面。虽然这是真的，但这是对备忘录的一种限制性理解。
 
@@ -44,7 +44,7 @@ Memo 是“备忘录”的缩写，来自拉丁语短语*memorame est，*“必�
 
 ## 具体例子
 
-[![Filing cabinets full of memos](../Images/f3b5436276c3cdc4e71e5379fe945fa1.png "Filing cabinets full of memos")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4AK2mCd5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/LOc9JUfm.jpg)
+[![Filing cabinets full of memos](img/f3b5436276c3cdc4e71e5379fe945fa1.png "Filing cabinets full of memos")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4AK2mCd5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/LOc9JUfm.jpg)
 
 ### 踏上求职之路
 
@@ -76,7 +76,7 @@ Memo 是“备忘录”的缩写，来自拉丁语短语*memorame est，*“必�
 
 ## 做好准备
 
-[![A hall of filing cabinets](../Images/b1099e3f1e61b0c07689afeb9ad8197f.png "A hall of filling cabinets")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EcsvnGKh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Yw9ncFkm.jpg)
+[![A hall of filing cabinets](img/b1099e3f1e61b0c07689afeb9ad8197f.png "A hall of filling cabinets")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EcsvnGKh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Yw9ncFkm.jpg)
 
 写备忘录，不是带着需要它们的意图，而是知道随着情况的变化你可能需要它们。“做好准备”是一个很好的座右铭，无论你是一名侦察兵、一名有后备意识的管理员还是一名程序员官僚。今天是一个快乐的局面，明天可能会改变。当事情变糟时，备忘录存档可以帮你摆脱困境。
 

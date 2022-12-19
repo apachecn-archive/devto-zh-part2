@@ -4,7 +4,7 @@
 
 在我的第一篇文章中，我想分享一些我使用 Apitron 生成 PDF 文档的经验。PDF。工具包。NET 并介绍基本的 PDF 创建技术。作为一个例子，我选择了一个经常使用的文档——发票。
 
-[![Invoice](../Images/d291d0f79542a627a52ba2308ccd9968.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RuK2n5FR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ggs7sgiwv98ztmxfyg04.png)
+[![Invoice](img/d291d0f79542a627a52ba2308ccd9968.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RuK2n5FR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ggs7sgiwv98ztmxfyg04.png)
 
 ### **代码**
 

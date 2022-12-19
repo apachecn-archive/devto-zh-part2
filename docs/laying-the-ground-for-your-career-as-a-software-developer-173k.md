@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/abiodunjames/laying-the-ground-for-your-career-as-a-software-developer-173k>
 
-[![](../Images/0c63a011e6756213c9fb45d9ce4f7ff5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9Gb7csdf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c4j5ze5o3wc7jr0ciqf1.png)
+[![](img/0c63a011e6756213c9fb45d9ce4f7ff5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9Gb7csdf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c4j5ze5o3wc7jr0ciqf1.png)
 
 美国政治家阿德莱·史蒂文森多年前说过一句话，今天我发现这句话仍然很有说服力，适用于生活的方方面面。他说:
 

@@ -4,7 +4,7 @@
 
 # 我造了什么
 
-[![](../Images/310437d6a7c32b7ed2b09cf501b21062.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--65BVbcVq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0pe4mkgd797rn9y09fcb.png)
+[![](img/310437d6a7c32b7ed2b09cf501b21062.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--65BVbcVq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0pe4mkgd797rn9y09fcb.png)
 
 这个在线网络应用程序允许你用积木搭建一个 3D 世界。当你在构建自己的世界时，你也可以看到其他人在实时构建他们的世界。此外，你可以进入旁观者模式，看到你周围发生的所有创造。从他人那里获得灵感，并构建自己的灵感来展示。
 

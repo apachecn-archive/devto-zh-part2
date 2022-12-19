@@ -6,7 +6,7 @@
 
 2017 年 9 月，我在 dev.to 上的第一篇真实帖子如下:
 
-[![rhymes](../Images/91ed8188209dceb0374b6a8c88308333.png)](/rhymes) [## TrailDB 上百万行的冒险，Python 和 Go
+[![rhymes](img/91ed8188209dceb0374b6a8c88308333.png)](/rhymes) [## TrailDB 上百万行的冒险，Python 和 Go
 
 ### 押韵 Sep 22 ' 17 12min read
 
@@ -16,7 +16,7 @@
 
 速度和性能的话题对于这个网站上的每个人来说都是很重要的，即使速度和性能可以与上下文相关(参见“足够快”的概念)。你可以看到这个话题渗透到 dev.to 上关于网络速度慢、浏览器和桌面应用的内存占用以及其他相关话题的对话中。附上几个有趣的长时间讨论的好例子:
 
-[![quii](../Images/57e087adeae522901488437fbb68db84.png)](/quii) [## 我想要的网络
+[![quii](img/57e087adeae522901488437fbb68db84.png)](/quii) [## 我想要的网络
 
 ### 克里斯詹姆斯 Aug 20 ' 18 分钟阅读
 
@@ -24,7 +24,7 @@
 
 由 [@quii](https://dev.to/quii)
 
-[![tux0r](../Images/9c55a9608e1aa4a13ec42e87423999a7.png)](/tux0r) [## 你的网站真的需要比 Windows 95 大吗？
+[![tux0r](img/9c55a9608e1aa4a13ec42e87423999a7.png)](/tux0r) [## 你的网站真的需要比 Windows 95 大吗？
 
 ### tux0r Sep 23 ' 181 分钟读取
 

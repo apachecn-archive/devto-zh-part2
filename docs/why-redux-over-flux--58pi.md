@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/luke/why-redux-over-flux--58pi>
 
-[![CHRISTMAS TREE](../Images/0afb754646ff7cbd167a99a2fe675126.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QK9EFdy4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cqq2h8gqoibzfw7lax1i.JPG)
+[![CHRISTMAS TREE](img/0afb754646ff7cbd167a99a2fe675126.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QK9EFdy4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cqq2h8gqoibzfw7lax1i.JPG)
 
 所以对我来说，现在写关于圣诞节的文章有点晚了，这会迫使你回想起肉馅饼、火鸡和许多你不想要或不想要的礼物的时代。
 

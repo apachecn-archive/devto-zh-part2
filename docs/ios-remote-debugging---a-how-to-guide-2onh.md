@@ -22,7 +22,7 @@
 4.  通过 USB 电缆将您的设备连接到 Mac。
 5.  在左栏中，选择设备，并在详细信息区域中，选中“通过网络连接”框。
 
-[![iOS remote debugging](../Images/8deca7e0e944d247df3ed2373b7db8dd.png "Wireless debugging Xcode")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PSw5y5Qj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.flexihub.com/images/upload/flexihub/articles/ios/xcode_remote_debugging.png)
+[![iOS remote debugging](img/8deca7e0e944d247df3ed2373b7db8dd.png "Wireless debugging Xcode")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PSw5y5Qj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.flexihub.cimg/upload/flexihub/articles/ios/xcode_remote_debugging.png)
 
 现在，Xcode 将与您的设备配对。如果 Xcode 可以通过网络与设备连接，左侧栏中的设备旁边会出现一个网络图标，您可以安全地断开设备的连接。
 
@@ -37,6 +37,6 @@
 3.  在远程计算机上启动软件，并使用相同的凭据登录到 FlexiHub 帐户。
 4.  在本地 Mac 上的软件界面中，您会看到 iPhone/iPad 可用于连接。点击“连接”。
 
-[![debug iOS app on device](../Images/c7d139c8003ed652682c0cfbeb0fd2dd.png "FlexiHub")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lnU-p0FV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.flexihub.com/images/articles-landing/fh.jpg)
+[![debug iOS app on device](img/c7d139c8003ed652682c0cfbeb0fd2dd.png "FlexiHub")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lnU-p0FV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.flexihub.cimg/articles-landing/fh.jpg)
 
 就是这样。现在，您可以从本地计算机访问远程 iOS 设备，并开始调试过程，就像设备直接连接到您的机器一样。

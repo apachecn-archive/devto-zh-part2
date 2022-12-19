@@ -160,7 +160,7 @@ window.customElements.define('hello-component', HelloComponent);
 
 以下是当前对 Web 组件的支持，以及促进这些组件的所有 API，包括影子 DOM、自定义元素(我们刚刚研究过的)、HTML 模板和插槽以及 HTML 导入:
 
-[![Current support for Web Components APIs from the caniuse documentation at the time of writing this article](../Images/73fe62fdeb3b51bf4a2d2a7b131ed52c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ly5BsOXt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://preview.ibb.co/iFidQK/Capture.png)
+[![Current support for Web Components APIs from the caniuse documentation at the time of writing this article](img/73fe62fdeb3b51bf4a2d2a7b131ed52c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ly5BsOXt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://preview.ibb.co/iFidQK/Capture.png)
 
 ## 结论
 

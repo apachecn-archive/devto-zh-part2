@@ -4,7 +4,7 @@
 
 ### 什么代表过去、现在和未来:未来(1)
 
-[![](../Images/e7588232045e3735f01974abb3b41cf8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p3cuW0L7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AO97GbaErKzttHXOM.png)
+[![](img/e7588232045e3735f01974abb3b41cf8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p3cuW0L7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AO97GbaErKzttHXOM.png)
 
 我们的软件为智能代理人建立了一个相互交流的网络空间。使用机器学习算法来构建智能代理是一个热门话题。但是大部分代码仍然是关于构建虚拟环境本身的。代码和运行时描述了在这个关于“未来”的环境中会发生什么。为了解决模糊性，代码和运行时必须解决“当前”真正发生的事情。代码和运行时还需要忠实地记录“过去”发生的事情。要保持完整性并打下坚实的基础，这三件事都应该做得恰当，否则，我们会将异常感知为“一个 bug”。正如文章封面所示，最突出的网络空间是在线多人游戏。
 
@@ -26,11 +26,11 @@
 
 lua 版本:【https://tio.run/】T2
 
-[![](../Images/10065ee8b23e92038b82343fb5ce37db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CWsg2xqC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/476/0%2ABunIN7l1MyvZ43hA.png)
+[![](img/10065ee8b23e92038b82343fb5ce37db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CWsg2xqC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/476/0%2ABunIN7l1MyvZ43hA.png)
 
 es2017 版本:[https://tio.run/](https://tio.run/##hY6xDsIwDET3fMWNLRQqYGLgW6o0BBSU2lXsdEF8e6igqsTELed7sq172MmKS2HUHfHVl3LL5DQwQXjwXRhGTmpJuz5LIC/SjYnd7JVt0Nd4GsyKXpG85Ki4wGKLfsVuJqdPWheWYQO3cM2JFmpexvx8@1fj0OBYG8ckHP0@8r36ntZoW5xLeQM)
 
-[![](../Images/4c5aff3e3a481040c0b28e345897414e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B7f4a-6_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/479/0%2Aq2_WvsomoXtWL6ba.png)
+[![](img/4c5aff3e3a481040c0b28e345897414e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B7f4a-6_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/479/0%2Aq2_WvsomoXtWL6ba.png)
 
 ### 部分功能
 
@@ -38,11 +38,11 @@ es2017 版本:[https://tio.run/](https://tio.run/##hY6xDsIwDET3fMWNLRQqYGLgW6o0B
 
 lua 版本:[https://tio.run/](https://tio.run/##hZDBbsMgDIbvPIWPsCaRtp162GFPEhlKKzRiEJjnT0lJMm5FQlj@/duf8QXX9V7IsAsEERM79PI@wDRNSkA9Phj0oEOh2296ZPgBRu3tFNH8ybMqWS6J4Oj0L/SibM5CL@/ZUnXTLN3Edk@kHBY7uyWGxEg865Id2ZznmIKpr8QBdA@abC6eKyXCBXQnmJr73ln3kj34ANPv0LIviubcRtXq43PeEA3wqcQ4NpfLlcMEYkcFt33EOXzT5ZcSMTli2dIKqvG6rk8)
 
-[![](../Images/6b114c3a20f359227217865ccea4341d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--43N21qRe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/521/0%2Ad_swNOp2pKadKGHx.png)
+[![](img/6b114c3a20f359227217865ccea4341d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--43N21qRe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/521/0%2Ad_swNOp2pKadKGHx.png)
 
 es2017 版本:[https://tio.run/](https://tio.run/##hZC/UsMwDMZ3P4VGB4J7wMTA0CfJKa5bzLlWzpJZuD57UP40l054sSX9PumTv/EH2Zc4yEumUxjHc81eImUYsEjEZM8tOOd6qvl0LBdu4NeAnhKklgwbbhXCXX3POI8pWfmK/NhrjmbRLLmZm9n6MV1DF68DFcEsXV855sDcDYW83hZb6O@zUhCdxTUJfALCM/Rb2mvmfTW8AuvjCfx@kSWrDibVNETJ@xf846WF18YcDosqsjrwlCXmitMm5sHdxNi3xijBlIJLdLFLsQFt8TGOfw)
 
-[![](../Images/a67b213789555f652e1d8d9418f669f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ir5uxzU8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/520/0%2AzH8mH9OPjM9Hdmuf.png)
+[![](img/a67b213789555f652e1d8d9418f669f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ir5uxzU8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/520/0%2AzH8mH9OPjM9Hdmuf.png)
 
 变量“proc”将“a”捕获到自身中。它是一个延续，执行可以从它继续。
 
@@ -52,11 +52,11 @@ es2017 版本:[https://tio.run/](https://tio.run/##hZC/UsMwDMZ3P4VGB4J7wMTA0CfJK
 
 lua 版本:[https://tio.run/](https://tio.run/##nZHdasMwDIXv/RS6TLY20PRqgz2LcVwVDI4cbJkOSp89808oZXQzm2@MrHP0yZKNal2t08pCcDNKMy/OsyKWUwyGMAS5eKfTDR9wvYmGaJDS0Ak/k7ihFOIcSbNx1FIOhJdO9QLS2TpFe84E5BlZsZosdtfbrlWolsjmQSW7KqFHjp7Kq0A6/aGtwLgcumzcwfRQ22OIlkt/hfQK03fSpvkHcCzAStOJcfyJu0UvoH@F14FmQntlZRGHXuz31WACKNCO2FBU@Qfi3kLOv9cBjb1YvCHuarKHZD8@UY7dE@Hbun4B)
 
-[![](../Images/5b20b894c7e013420ca0df1ef2db9cab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RnqLTKoZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/613/0%2AIq8tvnXBt_TI95cT.png)
+[![](img/5b20b894c7e013420ca0df1ef2db9cab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RnqLTKoZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/613/0%2AIq8tvnXBt_TI95cT.png)
 
 es2017 版本:[https://tio.run/](https://tio.run/##hZDBbsIwDIbveYoc000UAacdeJbKDRYEhbiKne0w8eyd01YIgQY@xLL1@Xf8n@Eb2OcwyCrRAccxolimC3bhMlAWSNL1hUNC5m7I5DXbvfURNP8aq@EpseTihbKDZmnWkFPgFpSGqXWdXhYcNq5/4jJyiaLwMvVp@xuQUUpO99yD4Nbd69UTvCrtXm1Yqg/r36@5mipZr9fphD/vDHKbxqzX80BgC9UiCamABEqT1u0vlWlnT7aNqVZSxDbS0c1IY1VoZ555Pfk//Gsc/wA)
 
-[![](../Images/c7a1554e6f383d072485efd807bbb521.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M3zxFLEm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/617/0%2A2gfsAqD5tPwnh_Vf.png)
+[![](img/c7a1554e6f383d072485efd807bbb521.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M3zxFLEm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/617/0%2A2gfsAqD5tPwnh_Vf.png)
 
 这里的变量“proc”与前面的“proc”相同。它是一个延续，执行可以从它继续。
 
@@ -66,11 +66,11 @@ es2017 版本:[https://tio.run/](https://tio.run/##hZDBbsIwDIbveYoc000UAacdeJbKD
 
 lua 版本:[https://tio.run/](https://tio.run/##rZLRasMgFIbvfQrvmmyt0PRqgz7JGGLMKRPMMeiRFUqfPVMTtox1CxvzRsz5z/9/OWqjGkfrtLI8uB6k6QfnSSHJNgaDEIIcvNNp50d@ubIVkZDSYAfnJF5RMnaKqMk4XFMKhNdK1YynNZOCPeUEoB5IkWotVJfrds1ossjNQqV29XFEOJMMBEP6vMn7flOKHih6LBoG2P2CuZhUuXHL20WwhxAtFfiCcc/bHzCaLxizwR9omkKzHKNOMYfv0ObTHde3@dDY/2HLpvOghBBLvnS5L66bgZ4@Ezwvwyfh0qQgTC45Z/05lke2r9luNzWYwBXXDslgVPk/2Pt4cv2xUDc1G7xBqqZazVP34Zbwhu5hHN8A)
 
-[![](../Images/115bf5f3510bcc814502e133b1356a2d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zKz70ia2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/618/0%2AiFEPjY7vjABwyQg0.png)
+[![](img/115bf5f3510bcc814502e133b1356a2d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zKz70ia2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/618/0%2AiFEPjY7vjABwyQg0.png)
 
 es2017 版本:[https://tio.run/](https://tio.run/##jZJNboMwEIX3nMI7TH8chay6yEmqCg3OKHFlbGSP20pVzk49QKOENk29YMTw5ntPHl7hDaIOpqdH53c4DBZJRN9hY7reBwJHTZuicRhj0wevcxVboS3k@lmIfLR3kULS5IOEam7yoYOJCrIaLlsOP6iJhH3@VHJdl6PgOD7Hhmx/gALGZCmPzNh70d7A1uVJEJBScOeghWMtzw35EnTGbP6KML/dCX09h0vW/i8ET0mlFIR9XEbpkA5@N/s@X5q8LPGTWGmwVrL0QXxTZ7djwUzeJQfE91vrluuqWK2mARMF8MLJuARkvBtZp3thzRhN1lXB/4W3qKzfy0lRiczZFL/Ir6qfhuEL)
 
-[![](../Images/d3ee93567f240bf4af7a8a21bc48f8f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HXmujFjC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/626/0%2AzAalUgdrhIQnyyC9.png)
+[![](img/d3ee93567f240bf4af7a8a21bc48f8f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HXmujFjC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/626/0%2AzAalUgdrhIQnyyC9.png)
 
 “next_step”是一个游标，用于跟踪执行状态。在 x86–64 CPU 中，有一个称为“RIP”的指令指针寄存器，它类似于这里的“next_step”概念。
 
@@ -80,15 +80,15 @@ es2017 版本:[https://tio.run/](https://tio.run/##jZJNboMwEIX3nMI7TH8chay6yEmqC
 
 lua 版本:[https://tio.run/](https://tio.run/##hZBLDsIgEIb3nGKWoNZEu3LhWRpKx4SEQsNj4elxaKutRi0bIPP9DzBJ5nxLVkXtLATXY6P7wfkobWzaFLTFEJrBO0U7l4IBLeOUNNDCFZTzLkWCjneNpuPruceQTCRIwh7acfCJT8hapIivx/tLPh92oP56oO0Ym0xK3bdyyqOMyDeeJ1hVTVodqLRylsRJlp9hi1fJ65EX7gAnMUc2h6XwD/Ys2OC1jc/GQGk12xR@UV1yfgA)
 
-[![](../Images/2f341dc2bb88ab97133853df57a2730f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p9Ug2x1m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/633/0%2A2YWa0WAsue2z0Ygo.png)
+[![](img/2f341dc2bb88ab97133853df57a2730f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p9Ug2x1m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/633/0%2A2YWa0WAsue2z0Ygo.png)
 
 es2017 版本:[https://tio.run/](https://tio.run/##hY/RDoIgFIbveYpzKbZ05VUXPYtDPDUagpODq7WenUCdrdUmN8B/vo/93MQonBxUT3tjWwzh4o0kZU0OznZYq663AwlDdeOdMuhc3Q9Wxj0THJ4M4tJI0MAZHgp1uyYDOq8pxgJ20EzxBCyDlZMRqabbaiyHHOSv9mIsWalEJLc6HjgryxlWLjaR1pAyXqQfshQXBu@UcfbV@DM4chYVZzUW2l6zmShGoT1yiC9X7I@04ZxCeAM)
 
-[![](../Images/d4a1446942b97d51f895a8a1b3559b6d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B8k7MJvW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/632/0%2AtiTU_KLed24o1klO.png)
+[![](img/d4a1446942b97d51f895a8a1b3559b6d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B8k7MJvW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/632/0%2AtiTU_KLed24o1klO.png)
 
 产量一举两得。它向调用者返回值并获得输入。从视觉上看，它是这样的:
 
-[![](../Images/036cf39d1f1ecaebc6f361dc4f27724c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dj0Cv4w8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/463/0%2ASmYYhp2mBrbg-njt.png)
+[![](img/036cf39d1f1ecaebc6f361dc4f27724c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dj0Cv4w8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/463/0%2ASmYYhp2mBrbg-njt.png)
 
 ### 协程对象 I
 
@@ -96,11 +96,11 @@ es2017 版本:[https://tio.run/](https://tio.run/##hY/RDoIgFIbveYpzKbZ05VUXPYtDP
 
 lua 版本:[https://tio.run/](https://tio.run/##lZLBbsMgDIbvPAVHsqWRmp02ac@CgLgSEoEIjLap6rNnENJE7Tol5QLCn//f2JgoxtE4JQwNrgeu@8F5FBa5jEFbCIEP3qm00096vpANqOFc2w6@E7xBEnKKVqF2dotsLHwxURGa1lwpmFN2AOwBBQppgJ0v9ZZQkcjJTb5JCsp5FzFBjfIgENi1JlbY1VLe0D8aTPeH8RCiwQQK@krlErxPK9h9ci7nbblbpObDC1W79MB25bBCOdwDW55d4h4wejs1g6SkJ6YREIbjJFdTeSP2v@dEPm/TTgo7PWaD0s15vnt@1rGac3i9tj0DH@WlbUUGry1e@0wPhzSoh3DLHrDv4/gL)
 
-[![](../Images/e08ef2c7923c309ee64b34f1c143f7a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--df_KbVXm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/632/0%2AwvCAy95sGUEca2Ke.png)
+[![](img/e08ef2c7923c309ee64b34f1c143f7a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--df_KbVXm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/632/0%2AwvCAy95sGUEca2Ke.png)
 
 es2017 版本:[https://tio.run/](https://tio.run/##lZDBbsMgDIbP4yl8JJ1K1fS0w54lItTbmChE2FSrpj175rAm2pRDNC4G@/8/bL/bqyWX/cD7mM44ji8lOvYp7oDSBTt/GVJmG7nrC/mIRN2Qk5OobQOfCuQEZOjhGW4ew3nJZKQSWNIWHqGv6Sq4FxadE8mpvhbH/bIDt7Z9qY2@jEROfBvQEONwFN48k@6nlh8ycskR@M2TifjBkv43tv2NnRexAk9cNQFEvbXOY6MOB6hiT7I0lyL7WOz0Q2XMyD/LrYU6p24bJR5KAU1Ir/pHYq42FGxA0Ce1drV6w/Q0jt8)
 
-[![](../Images/c92cf15d1cc3215afdb479a5eb6e77a6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GN-QLyN3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/0%2Aje87lK5U-diJAEUa.png)
+[![](img/c92cf15d1cc3215afdb479a5eb6e77a6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GN-QLyN3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/0%2Aje87lK5U-diJAEUa.png)
 
 ### 协程对象 II
 
@@ -108,11 +108,11 @@ es2017 版本:[https://tio.run/](https://tio.run/##lZDBbsMgDIbP4yl8JJ1K1fS0w54lI
 
 lua 版本:[https://tio.run/](https://tio.run/##jVPbjoIwEH3nK/om3UUS9Wkf/JamwKgkpSW9qBvj/jo7tVhUJEhi0Jkz55y5KBzvOqFKLohRDbC6aZW2XFpWOFNLMIa1WpX4JltyuSYzoJyxWlZwRvDOydLWSqYGxC4jkjdAE4JPUDsiRPPTHuwIUO8waw8gb7/8o8E6LcnxFgBZJQ/BqMP13tBY4klzH0Id/4qJIN@APagKc172VadUWjmLjeUajGvg5jD3LWZ9IY1O/Ce5e5ibYS7hlPLHMXhmdGHAIjG3vBCQXq7ZHFGgiLaQYfBcauAW0jgXOtX6UPJbg6hGQN@8sDGIa0nvtVuyMBbaFeNVtaDPywqD9KV@9OR7WEVeRBAIA28JjStmCJeThE8VoLXS6cJJOLdQWkCfA7g/oXtbr5MIapT89bbW7yx9KhCG6Xe0SUbt9F@@SBlzE2aSQBs0pi@UPv43fDRcaH8ln9zniiYsGxz6VB53cym26ytZLtGBExUpgMQ7QI1a2jg7xGzeE63x0kbYn677Bw)
 
-[![](../Images/07c605ab4b3b3d929a07a0991432fd53.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fUD-dvCi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/0%2AdHmec8p3Nsfu-ZjX.png)
+[![](img/07c605ab4b3b3d929a07a0991432fd53.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fUD-dvCi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/0%2AdHmec8p3Nsfu-ZjX.png)
 
 es2017 版本:[https://tio.run/](https://tio.run/##jVNNc4IwEL3nV2xPBKs46s2O/6H3TocJYdW0mDBJ8GMcfjtNAFGhreYCyb59u/vy8sX2zHAtcjuRKsWqWheSW6EkGLXDWOxypS2TNk4KIyQaE@dacfelLIQzAbcytOAPYQWX5BG9BC8AjabIbHf0sUO7VekYmN6YT5d5EpilXdgchOVb2oBuqfzizCAExmI@i1maBsu7qF9NMcfK4LWuECUDTKKRff/Ja4rkf97J87wprplLG9LZrVYHCAqJxxy5xTToIOVVKcl22NOpr6ZYA/UweFmtmgnmQV@1p4r5m/L3uCCDkdufEfAuNuilpGH99W6IXCHb7jXaQkuQeIB3rY4n6gHjmwY3aJedefyOWjcw2jH8boGW8JJBvTp9zA2uIWs6undeeJdS9iQpwzdSEnJj8EePYhaS6bSZv74G9w4OIsta9fHIMfcNk@uTcKQdvPYdPSdLmJchOCKuCqdwgtC5nXAljcowytSGNgzRnmUF1vjJjAxZXRMPshZV9QM)
 
-[![](../Images/7d6e2353dce1193119e33ca3d0ee636b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2pR4XznX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/0%2AZPis7MPmj9v4S76a.png)
+[![](img/7d6e2353dce1193119e33ca3d0ee636b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2pR4XznX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/0%2AZPis7MPmj9v4S76a.png)
 
 我们可以看到协程和 object 非常相似，协程更强大。但是如果没有直接的语法支持，协程的编写方法是很麻烦的。
 

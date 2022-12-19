@@ -21,7 +21,7 @@
 
 ## 行动路线
 
-[![](../Images/c958e390de15a00d87b88b27f4df192a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z6oQs4us--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://maedahbatool.com/wp-content/uploads/2018/09/cool-background-1.jpg)
+[![](img/c958e390de15a00d87b88b27f4df192a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z6oQs4us--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://maedahbatool.com/wp-content/uploads/2018/09/cool-background-1.jpg)
 
 在这里，我正在构建一个基于 JavaScript 的静态站点生成器，祝我好运吧！当我开始时，我只想让它满足我的网络开发工作流程需求。当我继续开发它的时候，我意识到它也可以为其他几个开发人员服务。
 

@@ -10,7 +10,7 @@
 
 并非所有的 URIs 都是 URL，因为 URI 可能是一个名称而不是定位器。下面是两者区别的一个例子:
 
-[![difference between a uri and a url](../Images/49a65728cadc338d811732e14cf4a429.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lrbx3qNQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j4bka41nypm4do1f3e5b.JPG)
+[![difference between a uri and a url](img/49a65728cadc338d811732e14cf4a429.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lrbx3qNQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j4bka41nypm4do1f3e5b.JPG)
 
 你的名字可以是一个 URI，因为它可以识别你，但它不能是一个网址，因为它不能帮助任何人找到你的位置。另一方面，你的地址既是一个 URI 又是一个 URL，因为它既能识别你的身份*又能为你提供一个位置。*
 

@@ -14,14 +14,14 @@
 
 ##### 寻找无理数平方根
 
-[![](../Images/e7fdbc3dba6b7333b2fd5a6a13bc2ebd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c60FCLeJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yrc5w4rfafovjbrka9gq.png)
+[![](img/e7fdbc3dba6b7333b2fd5a6a13bc2ebd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c60FCLeJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yrc5w4rfafovjbrka9gq.png)
 
 > 我们继续如果 x<sup>2</sup>T8】6。但是如果仍然超过，我们继续下一个小数点。但是我们必须在某个地方停下来，而且是在结果*足够接近*的时候；这是我们通过近似。(但是我们必须小心**精度**和**精度**。
 
 一张图来演示什么是准确度和精度:
-[![](../Images/7e6bae43bbcdbcb4f6dde27d3534afc6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_fcaov7E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p4r0iwazptd2ri7n40ac.png) 
+[![](img/7e6bae43bbcdbcb4f6dde27d3534afc6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_fcaov7E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p4r0iwazptd2ri7n40ac.png) 
 让我们继续看我们是如何解决问题的..
-[![](../Images/859b876332233a03abbee13404a12e18.png)T8】](https://res.cloudinary.com/practicaldev/image/fetch/s--k1sUWwfl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z221nlkle5cy7albl0ew.png)
+[![](img/859b876332233a03abbee13404a12e18.png)T8】](https://res.cloudinary.com/practicaldev/image/fetch/s--k1sUWwfl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z221nlkle5cy7albl0ew.png)
 
 * * *
 

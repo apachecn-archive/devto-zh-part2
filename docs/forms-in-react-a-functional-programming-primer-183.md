@@ -22,7 +22,7 @@
 
 和视频一样，我们从 React 文档中的一个基本表单开始:
 
-[![form](../Images/0754a773eb4a2157d2905881bed4b207.png "Reservation Form")](https://res.cloudinary.com/practicaldev/image/fetch/s--xwVcS0lB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c6unrz3meq7ea37mj8d7.png)T3】
+[![form](img/0754a773eb4a2157d2905881bed4b207.png "Reservation Form")](https://res.cloudinary.com/practicaldev/image/fetch/s--xwVcS0lB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c6unrz3meq7ea37mj8d7.png)T3】
 
 ```
 class Reservation extends React.Component {

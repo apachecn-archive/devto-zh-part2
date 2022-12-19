@@ -4,11 +4,11 @@
 
 我不久前在 Twitter 上发了一篇关于这个话题的帖子，我有一些关于这个话题的想法，我想收集一段时间，所以我将它们合并成一篇(希望有用)博客帖子。
 
-> ![](../Images/435e6c08e84927b5a12c763e38667653.png)酸烧伤👩🏽‍💻@ scribblingon![](../Images/4d9c44713c216584b3d48ff3455cbb68.png)我一直在想，有多少人因为一些糟糕的组合{流程、经理、同事、公司}而没能做好工作、发挥出自己的潜力，最后被烧得够呛。2018 年 11 月 07 日下午 17:37[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1060224805595541504)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1060224805595541504)26[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1060224805595541504)160
+> ![](img/435e6c08e84927b5a12c763e38667653.png)酸烧伤👩🏽‍💻@ scribblingon![](img/4d9c44713c216584b3d48ff3455cbb68.png)我一直在想，有多少人因为一些糟糕的组合{流程、经理、同事、公司}而没能做好工作、发挥出自己的潜力，最后被烧得够呛。2018 年 11 月 07 日下午 17:37[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1060224805595541504)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1060224805595541504)26[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1060224805595541504)160
 
 你每天去工作，你想感到兴奋，但总觉得有些不对劲。有些日子你害怕去上班，有些日子你想干脆不去上班。它非但没有带来回报，反而每天都让你付出巨大的精神代价。你害怕它会对你的精神健康，甚至最终对你的身体健康产生影响。你试着坚持下去，希望它最终会变好，但它没有。你想知道你是不是出了什么问题？你是不是设法搞砸了？如果你不得不在职业生涯早期处理这些事情，结果会更糟，因为你没有足够的时间依靠经验来评估你所处的情况。
 
-[![](../Images/7402d2e9af26c7fa6f3f35a30986dc05.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ncgZ8QeH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/574/1%2APBLgZZemyUVFL9fq_rsy8Q.jpeg) 
+[![](img/7402d2e9af26c7fa6f3f35a30986dc05.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ncgZ8QeH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/574/1%2APBLgZZemyUVFL9fq_rsy8Q.jpeg) 
 
 <figcaption>[功劳](http://mindfulemployerleeds.com/wp-content/uploads/2016/12/burnout-1.jpg)</figcaption>
 
@@ -33,7 +33,7 @@
 
 这也是通过对人类如何进行社会互动的研究。
 
-[![](../Images/0c2df0d50700de5904c418a72971ebea.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QZfSm8Ee--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AtIzEwKGiaJjRtx89RD99LA.png) 
+[![](img/0c2df0d50700de5904c418a72971ebea.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QZfSm8Ee--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AtIzEwKGiaJjRtx89RD99LA.png) 
 
 <figcaption>[功劳](https://conference.iste.org/uploads/ISTE2016/HANDOUTS/KEY_100525149/understandingtheSCARFmodel.pdf)</figcaption>
 
@@ -51,6 +51,6 @@
 
 最后，请好好照顾你的身心，因为:
 
-> ![](../Images/9a4eacca8f31c121930cabb3df8f90bc.png)山嫩达龙@山嫩 x0![](../Images/4d9c44713c216584b3d48ff3455cbb68.png)没有一份工作值得你保持理智。2018 年 11 月 12 日下午 19:44[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1062068638755311617)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1062068638755311617)17076[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1062068638755311617)34325
+> ![](img/9a4eacca8f31c121930cabb3df8f90bc.png)山嫩达龙@山嫩 x0![](img/4d9c44713c216584b3d48ff3455cbb68.png)没有一份工作值得你保持理智。2018 年 11 月 12 日下午 19:44[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1062068638755311617)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1062068638755311617)17076[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1062068638755311617)34325
 
 附:这些观点是我自己的，如果你不同意，完全没关系。

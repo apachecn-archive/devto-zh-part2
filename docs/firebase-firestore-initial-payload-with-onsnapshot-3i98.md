@@ -4,9 +4,9 @@
 
 # Firebase Firestore 初始有效负载，带 onSnapshot
 
-<figure>[![](../Images/dabfca82ae51dd0403a990aa50214cb1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_BXN0ISH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AB0Av_NnFrCKsyC7gN94ytg.png) 
+<figure>[![](img/dabfca82ae51dd0403a990aa50214cb1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_BXN0ISH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AB0Av_NnFrCKsyC7gN94ytg.png) 
 
-<figcaption>图片来自[https://firebase.google.com/images/social.png](https://firebase.google.com/images/social.png)</figcaption>
+<figcaption>图片来自[https://firebase.google.cimg/social.png](https://firebase.google.cimg/social.png)</figcaption>
 
 </figure>
 
@@ -18,7 +18,7 @@
 
 Firebase 没有提供任何方法来检查结果集是否是第一个。我试过 stackoverflow，看看是否有人遇到了同样的问题。这个[线程](https://stackoverflow.com/questions/49798693/differentate-between-first-time-querysnapshot-and-change-listener-in-firestore)很有前途:
 
-<figure>[![](../Images/6fe365b5731fb416ed80b92fe7858156.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uCifmHd6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AlZTfjQWe_7AfK1P7fi8EIA.png)
+<figure>[![](img/6fe365b5731fb416ed80b92fe7858156.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uCifmHd6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AlZTfjQWe_7AfK1P7fi8EIA.png)
 
 <figcaption>stack overflow 线程[https://stack overflow . com/questions/49798693/differentate-between-first-time-query snapshot-and-change-listener-in-firestore](https://stackoverflow.com/questions/49798693/differentate-between-first-time-querysnapshot-and-change-listener-in-firestore)</figcaption>
 

@@ -13,17 +13,17 @@
 
 我很高兴终于宣布数字海洋 JS 正式发布 1.0 版。看看下面的回购，继续战斗，让你的副业活下去！
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [约翰伍德拉夫](https://github.com/johnbwoodruff) / [数字海洋-js](https://github.com/johnbwoodruff/digitalocean-js)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [约翰伍德拉夫](https://github.com/johnbwoodruff) / [数字海洋-js](https://github.com/johnbwoodruff/digitalocean-js)
 
 ### 数字海洋 API 的 JavaScript 库
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-[![digitalocean-js](../Images/c7bd887da6d4a0a52921d74f3d9cd33e.png)T2】](https://user-images.githubusercontent.com/5883616/126348407-dd1e694d-64a9-402e-b8df-f59e67686014.png)
+[![digitalocean-js](img/c7bd887da6d4a0a52921d74f3d9cd33e.png)T2】](https://user-images.githubusercontent.com/5883616/126348407-dd1e694d-64a9-402e-b8df-f59e67686014.png)
 
 # 数字海洋 JS
 
-[![CI](../Images/bb3a58f3d770e0f7ab7e657eac90da06.png)](https://github.com/johnbwoodruff/digitalocean-js/actions/workflows/main.yml)[![npm](../Images/607cdbf913ef1581f1476fa0655f0442.png)](https://www.npmjs.com/package/digitalocean-js)[![npm](../Images/adc8b51b1fcde906a9d9c8fafc804a2f.png)](https://www.npmjs.com/package/digitalocean-js)[![npm](../Images/0db686713e6cd48d9cb7ddb50e4c693f.png)T11】](https://www.npmjs.com/package/digitalocean-js)
+[![CI](img/bb3a58f3d770e0f7ab7e657eac90da06.png)](https://github.com/johnbwoodruff/digitalocean-js/actions/workflows/main.yml)[![npm](img/607cdbf913ef1581f1476fa0655f0442.png)](https://www.npmjs.com/package/digitalocean-js)[![npm](img/adc8b51b1fcde906a9d9c8fafc804a2f.png)](https://www.npmjs.com/package/digitalocean-js)[![npm](img/0db686713e6cd48d9cb7ddb50e4c693f.png)T11】](https://www.npmjs.com/package/digitalocean-js)
 
 数字海洋 API 的 JavaScript 库。用于节点或浏览器。
 

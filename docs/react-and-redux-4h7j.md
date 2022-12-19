@@ -58,7 +58,7 @@ function Greeter() {
 
 <figure>
 
-[![Virtual DOM Diff](../Images/cc2855705c8b671476dd0d96d8619d49.png "Virtual DOM Diff")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Uvth1Tfg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kellen.piffner.com/img/react-redux/virtual_dom_diff.png)
+[![Virtual DOM Diff](img/cc2855705c8b671476dd0d96d8619d49.png "Virtual DOM Diff")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Uvth1Tfg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kellen.piffner.com/img/react-redux/virtual_dom_diff.png)
 
 <figcaption><cite>[Image Source](https://github.com/DonaldWhyte/isomorphic-react-workshop)</cite></figcaption>
 

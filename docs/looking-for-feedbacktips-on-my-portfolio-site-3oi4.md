@@ -8,7 +8,7 @@
 
 我想请你在这里看一看。
 
-[![Afiur Rahman Fahim - Portfolio](../Images/68bc2dd39e239dda9a1479d4c8c2353d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LYMaVZQc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/faahim/faahim.github.io/development/screenshot.png)
+[![Afiur Rahman Fahim - Portfolio](img/68bc2dd39e239dda9a1479d4c8c2353d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LYMaVZQc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/faahim/faahim.github.io/development/screenshot.png)
 
 我不是设计师，但我喜欢漂亮的东西。而且简单。但是我不确定我做的一些设计/内容决定。我脑子里有很多问题。
 

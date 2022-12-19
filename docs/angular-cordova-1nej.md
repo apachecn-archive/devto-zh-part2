@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jspizziri/angular-cordova-1nej>
 
-[![](../Images/22e83a2fddcc2aafafc568a675eb1a39.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mGzboPwr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jspizziri.com/images/banner-angularjs.jpg)
+[![](img/22e83a2fddcc2aafafc568a675eb1a39.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mGzboPwr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jspizziri.cimg/banner-angularjs.jpg)
 
 让我们在不使用 Ionic 或 NativeScript 的情况下，将新的 angular 项目移植到 Cordova。**为什么？**因为那些框架有时候可能太固执己见，约束太多。到本文结束时，您将拥有一个功能正常的 angular/cordova 项目，它将尽可能与 cordova 松散耦合。您将能够遵循 angular 风格惯例，并安装您想要的任何插件、框架或库。(例如 bootstrap、ng-bootstrap、pug 等。)
 

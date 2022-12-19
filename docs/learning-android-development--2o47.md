@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/gauravchaddha1996/learning-android-development--2o47>
 
-[![](../Images/1d8ed617f00592c86fd0963e7888d232.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6-s4_jB2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v5hpu9u4kafc33xe0rzb.png) 
+[![](img/1d8ed617f00592c86fd0963e7888d232.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6-s4_jB2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v5hpu9u4kafc33xe0rzb.png) 
 这篇[原帖](https://www.chaddhag.com/learningAndroidDevelopment)是为我的博客写的。去看看我写的更多疯狂的东西。
 
 Android 开发令人兴奋，看到那些闪亮的动画让人会心一笑。这篇文章是为那些想开始 android 开发的人写的，也是为那些已经掌握了基础知识，现在想提高自己的人写的。我会提供我在学习 android 开发时遇到的资源。

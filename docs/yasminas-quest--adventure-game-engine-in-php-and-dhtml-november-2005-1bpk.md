@@ -4,7 +4,7 @@
 
 “Yasmina's Quest”是一个开源冒险游戏引擎，附带一个冒险游戏示例(西班牙语)，完全使用 PHP、HTML、CSS 和 JavaScript 编写。它大约创建于 2005 年 11 月 17 日。
 
-[![Screenshot](../Images/a7a8817499219b283c35427d8e84ea37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z6DBKXfR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://dhtmlgames.com/yquest/yq.gif)
+[![Screenshot](img/a7a8817499219b283c35427d8e84ea37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z6DBKXfR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://dhtmlgames.com/yquest/yq.gif)
 
 用这个引擎创建的游戏可以作为点击冒险(使用鼠标、指针或手指)或文本冒险(使用键盘或任何其他文本输入方法)来玩，它们完全是跨浏览器和跨平台的。
 

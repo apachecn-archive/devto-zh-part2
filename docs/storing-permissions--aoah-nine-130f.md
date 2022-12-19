@@ -12,7 +12,7 @@
 
 你们中的一些人可能知道，我想要一个配置文件来存储不能轻易存储在远程数据库中的细节，比如数据库的位置。这周我一直在看 SQLite 而不是一个配置文件。SQLite 是一个 Lite 数据库，具有类似 SQL 的简单语法，存储为一个文件，这意味着它不需要服务来运行数据库。
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) [ ignis-pwa ](https://github.com/ignis-pwa) / [权限 _ 帮助者](https://github.com/ignis-pwa/permissions_helper)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) [ ignis-pwa ](https://github.com/ignis-pwa) / [权限 _ 帮助者](https://github.com/ignis-pwa/permissions_helper)
 
 ### 创建和修改用于管理权限的 SQLite 文件
 

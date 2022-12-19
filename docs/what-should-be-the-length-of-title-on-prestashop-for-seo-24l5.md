@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/franken/what-should-be-the-length-of-title-on-prestashop-for-seo-24l5>
 
-[![](../Images/5806df300b8fa38f877ea35a652722c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ohCMAsOG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.com/images/stories/what-should-be-the-length-of-title-on-prestashop-website.jpg)
+[![](img/5806df300b8fa38f877ea35a652722c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ohCMAsOG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.cimg/stories/what-should-be-the-length-of-title-on-prestashop-website.jpg)
 
 ## 如何在你的 Prestashop 网站上写一个 Google 会喜欢的强势 SEO Title 标签？
 

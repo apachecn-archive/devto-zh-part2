@@ -4,7 +4,7 @@
 
 *[本帖于 2018 年 5 月 17 日首次发布在 Twilio 博客上](https://www.twilio.com/blog/2018/05/generating-music-with-sonic-pi-and-ruby.html)*
 
-[![sonic-pi](../Images/f4bc6bea4872fea102b666d7c823b64c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4cRl24K9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/05/jBYyTufwkMUFyBD_Ak6pRbLjb8tirVezDiXA0Oa6zS-g0LKMj6caqRLVlEkr4smnPSuq_CwtGhahVUr6B33fyyhIwrOS4v8OL5jAqe96Sbt5GI9sUbCc0I2BlCPInqE2c3fJ6x7O.png)
+[![sonic-pi](img/f4bc6bea4872fea102b666d7c823b64c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4cRl24K9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/05/jBYyTufwkMUFyBD_Ak6pRbLjb8tirVezDiXA0Oa6zS-g0LKMj6caqRLVlEkr4smnPSuq_CwtGhahVUr6B33fyyhIwrOS4v8OL5jAqe96Sbt5GI9sUbCc0I2BlCPInqE2c3fJ6x7O.png)
 
 Sonic Pi 是一个用 Ruby 写音乐的集成开发环境(IDE)。我使用 Sonic Pi IDE 用 Ruby 写代码，并以艺术家的名字 Messica Arson 用 [Audacity](https://www.audacityteam.org/) 对着它尖叫。我创作的声音很大程度上受到噪音音乐的奇怪声音的启发，结合我在朋克乐队领唱时完善的尖叫声。
 
@@ -161,7 +161,7 @@ end
 
 当我开始使用 Sonic Pi 时，我写了 0 行 Ruby 代码。这是我最喜欢的学习新编程语言的方式，因为我可以听到我的代码发出很酷的声音。如果你稍微修改一下代码，看看它对声音的影响会很有趣。即使您已经在播放音乐，也可以通过按`Run`或`alt/cmd R`实时更新声音。
 
-[![in IDE documentation](../Images/db4d9236f10abddb35ee8855c11d4c00.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t3F4Epxz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/05/dKxXnEtmWVGci_zaIj6N_W-TrwMLa5psaQtHFhKeU1x6CwQobheCwJHbe97HxXqcr8sCX-GDoiTvV8Tu-uZdYeuCHCjG7p7sP2QVweKWWgLdgj1sTJbJBmp3gZP8oXKRarW51NAI.png)
+[![in IDE documentation](img/db4d9236f10abddb35ee8855c11d4c00.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t3F4Epxz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/05/dKxXnEtmWVGci_zaIj6N_W-TrwMLa5psaQtHFhKeU1x6CwQobheCwJHbe97HxXqcr8sCX-GDoiTvV8Tu-uZdYeuCHCjG7p7sP2QVweKWWgLdgj1sTJbJBmp3gZP8oXKRarW51NAI.png)
 
 Sonic Pi 最酷的一点是文档内置在 IDE 中。当我第一次开始使用 Sonic Pi 时，我采用了文档中的例子，并对它们进行了修改，直到它们变成了我自己的声音。当你刚开始或遇到困难时，这个特性也会派上用场。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/roelofjanelsinga/docker-isn-t-as-difficult-as-i-thought-it-was-3e8g>
 
-[!["Containers"](../Images/3fb705639b4040c19acd22131c559c3e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fooS6lne--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d46j2p840qg6ofi8zoxb.jpeg)
+[!["Containers"](img/3fb705639b4040c19acd22131c559c3e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fooS6lne--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d46j2p840qg6ofi8zoxb.jpeg)
 
 # 码头工人没有我想象的那么难
 

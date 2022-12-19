@@ -102,7 +102,7 @@ let subStr = startingString.sub(from: "abc", upTo: "xyz")
 
 我以前从未创建过开源项目，也很少为开源做出贡献。但是我现在已经在 GitHub 上发布了这个库，并获得了麻省理工学院的许可。请到[https://github.com/trozware/swift-strings-helper](https://github.com/trozware/swift-strings-helper)查看。GitHub repo 包含一个 Xcode 项目，其中包含所有的源文件，加上为 macOS 或 iOS 构建框架的目标，以及一个作为文档并对其进行测试的平台。
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) [特洛伊人](https://github.com/trozware) / [快手助手](https://github.com/trozware/swift-strings-helper)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) [特洛伊人](https://github.com/trozware) / [快手助手](https://github.com/trozware/swift-strings-helper)
 
 ### 一个框架/库，使在 Swift 中使用字符串变得更加容易。
 

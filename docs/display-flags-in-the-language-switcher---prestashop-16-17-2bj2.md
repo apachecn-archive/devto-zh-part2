@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/franken/display-flags-in-the-language-switcher---prestashop-16-17-2bj2>
 
-[![](../Images/55af67f5af8d4e42430ad06b4f309599.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8PmSdP-v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.com/images/stories/prestashop-language-selector-with-flags.jpg)
+[![](img/55af67f5af8d4e42430ad06b4f309599.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8PmSdP-v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.cimg/stories/prestashop-language-selector-with-flags.jpg)
 
 有时你想在 Prestashop 主题的语言切换器中显示旗帜。我们的客户还问我如何显示旗帜，有时想显示旗帜从下拉到内嵌。
 

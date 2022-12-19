@@ -12,7 +12,7 @@
 
 在抵押贷款自动化软件方面，被称为千禧一代的整整一代人影响了全球数字贷款服务的升级。这种情况正在发生，部分原因是 1980 年至 1999 年出生的千禧一代现在已经足够成熟，可以成为这种服务的客户，部分原因是千禧一代构成了大多数购买人口。因此，企业正在改变策略，通过提供即时购买、更低的价格和易懂的产品来满足千禧一代的购物习惯。
 
-[![](../Images/a3281ebc0b8e2bcb97238c896a5568ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tBE-9NFc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/10/Img-1--12-.png)
+[![](img/a3281ebc0b8e2bcb97238c896a5568ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tBE-9NFc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/10/Img-1--12-.png)
 
 在线抵押贷款平台(1)比传统的实体抵押贷款服务(经纪人、银行等)更容易理解。)、(2)可能比银行行动更快，以及(3)可能更便宜。
 [JD Power&Associates](https://www.rehmann.com/resources-insights/business-wisdom-2/item/1399-online-mortgage-origination-key-to-future-success)表示，与传统机构相比，在线贷款服务的贷款增长率高出 30%。发放 30%以上贷款的可能性应该足以激励公司重新评估他们的方法，转向更加以客户为中心的经营方式。
@@ -38,7 +38,7 @@
 
 当你知道*谁*将使用这个平台时，你就能看到他们将如何使用它。创建高级用户流，以标记使用抵押贷款服务的阶段，并预测与第三方服务的可能集成。在这种情况下，大多数这样的服务是银行。你可能需要用它们来识别客户并获取他们的信用记录。
 
-[![](../Images/3fbc0c8aa6b3abc2781aa955a02b6b83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K8VLZZHO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/10/Img-3--4-.png)
+[![](img/3fbc0c8aa6b3abc2781aa955a02b6b83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K8VLZZHO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/10/Img-3--4-.png)
 
 **基于流量，可以看到用户的痛点，考虑如何修补。**例如，许多用户不喜欢透露他们的个人和银行信息。当你确定了这是必要的步骤后，你可以思考如何转化一个负面的体验——“有人会看到我的信用记录！”—变成积极的—“我一定会拿到房贷的！”
 
@@ -67,7 +67,7 @@
 经过深思熟虑的用户流预示着更高的用户参与度。与我稍后将提到的其他因素一起，流量定义了用户是否会变成客户。如果你的高层流程看起来太复杂，你需要优化它。
 抵押贷款软件开发的一个特点是，用户必须提供大量的个人信息，开发者必须想办法让这个过程变得轻松。填写在线表格的过程既耗时又令人沮丧。大多数用户在被要求填写表格时会退出网站。
 
-[![](../Images/0d975736b9143c290c5ebb393d2e7c43.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w-U1_H1J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/10/Img-4--6-.png)
+[![](img/0d975736b9143c290c5ebb393d2e7c43.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w-U1_H1J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/10/Img-4--6-.png)
 
 *描述:在制作[金钱公园](https://moneypark.ch/en/)的时候，我们强调了在第一步*只收集基本信息的重要性
 
@@ -79,7 +79,7 @@
 
 这就是我们所做的。使用我们的抵押贷款系统时，用户必须经过几个阶段的验证过程，以检查他们是否有资格获得抵押贷款。注册这项服务时，用户需要提供他们的全名和出生日期。第二步包括为用户提供粗略的抵押估计。如果用户想继续使用某项服务并获得真正的优惠，他们需要完成注册过程。这个流程允许我们**减少对第三方 API 的付费请求数量，**从而减少资金浪费。
 
-[![](../Images/87c2ddfb7140209539f11b1a0c922c91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zxUISLkB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/10/Img-5--5-.png)
+[![](img/87c2ddfb7140209539f11b1a0c922c91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zxUISLkB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/10/Img-5--5-.png)
 
 ### 测试银行 API
 
@@ -99,7 +99,7 @@
 
 首先要考虑的是手机版。因为我们正在谈论一个基于在线的应用程序，许多用户将试图使用他们的手机获得抵押贷款。主要的麻烦可能是数据网格以及如何在 5 英寸的显示器上显示。 [Mint App](https://www.mint.com/) 通过显示图表而不是网格来解决这个问题。可视化是 Excel 表格(糟糕的体验)和交互式数据(良好的体验)的区别。经常用。
 
-[![](../Images/f30cf5dd1de0045a47cf310807a13cfe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QpxB_pnT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/10/Img-2--8-.png)
+[![](img/f30cf5dd1de0045a47cf310807a13cfe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QpxB_pnT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/10/Img-2--8-.png)
 
 ### 小数
 

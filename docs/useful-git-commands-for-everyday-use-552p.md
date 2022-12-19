@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/onmyway133/useful-git-commands-for-everyday-use-552p>
 
-[![](../Images/fe6851cb7bfd913b677f36a9f8a54bfd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--491YAudg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AXsZZ65pZKM_4FTG4lg_PQA.png)
+[![](img/fe6851cb7bfd913b677f36a9f8a54bfd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--491YAudg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AXsZZ65pZKM_4FTG4lg_PQA.png)
 
 你知道关于 [git](https://stackoverflow.com/tags/git) 的问题在 StackOverflow 上获得最多的浏览量吗？我在 Google 上搜索了很多如何用 git 执行某些动作，这实际上大大降低了我的速度。有一些动作我们倾向于经常使用，所以学习它们是有好处的。这是我最喜欢的，从朋友和网上学来的，希望对你有用。
 
@@ -20,7 +20,7 @@
 
 *   [何去何从](https://medium.com/p/e1a4de64037d#1fb5)
 
-[![](../Images/c0ab780e780ad2e1fde53e97bfded166.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oVEgpv_b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3000/1%2Akhx4a3vNEcrqLHqh7Ljd0w.png)
+[![](img/c0ab780e780ad2e1fde53e97bfded166.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oVEgpv_b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3000/1%2Akhx4a3vNEcrqLHqh7Ljd0w.png)
 
 ## 有用的命令
 
@@ -542,7 +542,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在命令行里做事很酷，也更快。然而，对于查看分支和提交，我发现使用 GUI 客户端更加直观和舒适。你可以在这里看到所有 GUI 客户端的列表，我自己使用 [SourceTree](https://www.sourcetreeapp.com/) 。
 
-[![](../Images/8cc7d2ad495723a815cea3cce5dd636c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mMLC-Gb1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2900/1%2Ag2NL2JUXNAFWYrPydraqsg.png)
+[![](img/8cc7d2ad495723a815cea3cce5dd636c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mMLC-Gb1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2900/1%2Ag2NL2JUXNAFWYrPydraqsg.png)
 
 ## 提交前检查
 

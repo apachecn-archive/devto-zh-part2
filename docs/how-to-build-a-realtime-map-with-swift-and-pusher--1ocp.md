@@ -17,7 +17,7 @@
 
 假设你有所有的要求，让我们开始吧。这是我们将要构建的内容的屏幕记录:
 
-[![](../Images/2fa3303c681c3bbd6a679987bea96d3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JLZ8aere--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/12/realtime-map-ios-pusher.gif)
+[![](img/2fa3303c681c3bbd6a679987bea96d3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JLZ8aere--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/12/realtime-map-ios-pusher.gif)
 
 正如您在演示中看到的，每次位置更新时，这种变化都会反映在两台设备上。这就是我们想要复制的。让我们开始吧。
 
@@ -25,7 +25,7 @@
 
 启动 Xcode 并创建一个新的“单应用程序”项目。你可以随意称呼这个项目。
 
-[![](../Images/ddc79bb0455206b0a8df8c7b2f1940c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--had8i_JO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/12/realtime-map-ios-pusher-2-1024x532.png)
+[![](img/ddc79bb0455206b0a8df8c7b2f1940c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--had8i_JO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/12/realtime-map-ios-pusher-2-1024x532.png)
 
 创建项目后，关闭 Xcode。打开您的终端，`cd`到您的应用程序的根目录，运行下面的命令来初始化项目上的 cocoa pods:
 
@@ -187,11 +187,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 用我们的项目重新打开 Xcode 并打开`Main.storyboard`文件。在`ViewController`中我们将添加一个`UIView`，在`UIView`中我们将添加一个模拟按钮。大概是这样的:
 
-[![](../Images/f8408290613ea32e930899262896539d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9hVRvq22--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/12/realtime-map-ios-pusher-3-866x600.png)
+[![](img/f8408290613ea32e930899262896539d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9hVRvq22--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/12/realtime-map-ios-pusher-3-866x600.png)
 
 从按钮到`ViewController`创建一个`@IBAction`。为此，点击 Xcode 工具集右上角的“显示助理编辑器”。这将把屏幕分成故事板和代码编辑器。现在将`ctrl`从按钮中拖到代码编辑器中来创建`@IBAction`。我们将称这个方法为`simulateMovement`。
 
-[![](../Images/962a52a050a2cf2a09ad834b11d910e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Sqh9RE1M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/12/realtime-map-ios-pusher-4-964x600.png)
+[![](img/962a52a050a2cf2a09ad834b11d910e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Sqh9RE1M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/12/realtime-map-ios-pusher-4-964x600.png)
 
 接下来，点击 Xcode 工具栏上的“显示标准编辑器”按钮，关闭分屏，只显示`Main.storyboard`。从最后一个`UIView`的底部开始添加另一个`UIView`到屏幕底部。该视图将显示地图。
 
@@ -364,7 +364,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，在我们启动我们的应用程序之前，我们需要做一些最后的更改，这样我们的 iOS 应用程序就可以连接到我们的`localhost`后端。在 Xcode 中打开`info.plist`文件，并进行以下调整:
 
-[![](../Images/7967867d2e6531cdf0510f53e8883553.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--czPkQ-Xh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/12/realtime-map-ios-pusher-5-1001x600.png)
+[![](img/7967867d2e6531cdf0510f53e8883553.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--czPkQ-Xh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/12/realtime-map-ios-pusher-5-1001x600.png)
 
 这一更改将使我们的应用程序能够连接到本地主机。明确地说，在生产环境中不需要这一步。
 

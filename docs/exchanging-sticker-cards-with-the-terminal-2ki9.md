@@ -4,7 +4,7 @@
 
 在最近的世界杯期间，我的爱好之一是收集贴纸。事实上，我已经建立了贴纸相册，因为我的儿子想要它，但我也很开心，我想。
 
-<figure>[![2018 sticker album showing France team missing three pictures.](../Images/ff7d399762bd56caf5d85e65c4019b77.png)](https://i2.wp.com/suspensao.blog.br/descrenca/wp-content/uploads/2018/07/IMG_20180716_090001719.jpg) 
+<figure>[![2018 sticker album showing France team missing three pictures.](img/ff7d399762bd56caf5d85e65c4019b77.png)](https://i2.wp.com/suspensao.blog.br/descrenca/wp-content/uploads/2018/07/IMG_20180716_090001719.jpg) 
 
 <figcaption>可惜，还没完成</figcaption>
 

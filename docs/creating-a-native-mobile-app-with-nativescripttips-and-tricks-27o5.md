@@ -37,7 +37,7 @@
 
 # 10 000 英尺。概观
 
-[![](../Images/b322bffbe53acec7a0160c498ff2b8f4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--p6DLHvZ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hqri3tp4lq1qj8xpk1qe.png) 
+[![](img/b322bffbe53acec7a0160c498ff2b8f4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--p6DLHvZ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hqri3tp4lq1qj8xpk1qe.png) 
 该 app 负责:
 
 *   验证和收集用户输入(添加新费用/更新费用时)
@@ -103,7 +103,7 @@ app 和 API 共享相同的费用表示(声明性地，通过使用 [json 模式
 
 在我的应用程序中，我用它来做三件不同的事情——所有费用的清单、侧面抽屉和创建/编辑费用的数据表单。
 
-[![add new expense](../Images/54d7a5a357a400452246baf5d630e439.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jHGI2llN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/omj4f1psrp99s2zg6409.png)
+[![add new expense](img/54d7a5a357a400452246baf5d630e439.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jHGI2llN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/omj4f1psrp99s2zg6409.png)
 
 ## `RadListView`
 

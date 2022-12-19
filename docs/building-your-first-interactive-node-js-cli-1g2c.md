@@ -205,7 +205,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们通过运行`node index.js`来测试这个脚本。
 
-[![Screenshot](../Images/b975605923f436d1d0c51de930a53f51.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8p63e5rH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d42ns41x32i4bbkjwhyw.png)
+[![Screenshot](img/b975605923f436d1d0c51de930a53f51.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8p63e5rH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d42ns41x32i4bbkjwhyw.png)
 
 耶！这是最后的代码:
 

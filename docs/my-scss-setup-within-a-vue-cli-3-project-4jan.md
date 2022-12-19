@@ -62,7 +62,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，global.scss 中的所有样式将在整个项目中和组件中可用。通常我的 SCSS 文件结构看起来像这样:
 
-[![Image of scss file structure](../Images/4b69e6390edaef75a61526df48371750.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cnZWrzMn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://lynnefinnigan.com/static/img/styles.png)
+[![Image of scss file structure](img/4b69e6390edaef75a61526df48371750.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cnZWrzMn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://lynnefinnigan.com/static/img/styles.png)
 
 我在 _base.scss 中有基本的富文本样式，变量、排版等都作为部分存储在各自的文件夹中。然后将它们导入到全局样式表中，如下所示:
 

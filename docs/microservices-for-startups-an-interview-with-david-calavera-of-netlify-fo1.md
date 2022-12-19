@@ -4,7 +4,7 @@
 
 *这次采访是为我们的[创业微服务](https://buttercms.com/books/microservices-for-startups/)电子书而做的。一定要去看看关于微服务的实用建议。感谢 David 的时间和投入！*
 
-[![David Calavera](../Images/f9b313058ae05f3eeb3fa79b9b809588.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d3Daw9KB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/9sjzuK8FT1GQDdtRz70M)
+[![David Calavera](img/f9b313058ae05f3eeb3fa79b9b809588.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d3Daw9KB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/9sjzuK8FT1GQDdtRz70M)
 
 *[大卫·卡拉韦拉](https://twitter.com/calavera)是 [Netlify](https://www.netlify.com/) 的首席技术官，这是一个统一的平台，它自动化你的代码来创建高性能、易于维护的网站和网络应用。*
 

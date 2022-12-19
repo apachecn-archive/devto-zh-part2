@@ -6,7 +6,7 @@
 
 阿帕玛的特定领域编程语言 EPL 有能力添加用 C++和 Java 编写的扩展点。10.3 版本还增加了一个令人兴奋的新选项，用 Python 编写它们。本文将探索一些现在可用的新功能。
 
-| 2018 年第四期 | [![](../Images/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue4/SAG_Apama_Python_TECHniques_Oct18_WEB.pdf) |
+| 2018 年第四期 | [![](img/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue4/SAG_Apama_Python_TECHniques_Oct18_WEB.pdf) |
 | --- | --- |
 
 ## Python 用例

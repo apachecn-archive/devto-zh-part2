@@ -21,17 +21,17 @@
 #### 1。创建子域并`cert`它
 
 因为`CA`有效，所以在浏览器
-[![](../Images/e81bf37e83e118bfb8751cf0676874f2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lstkDo5r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xinl69uvfwyfmvdr4hpi.png) 会显示`valid`
+[![](img/e81bf37e83e118bfb8751cf0676874f2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lstkDo5r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xinl69uvfwyfmvdr4hpi.png) 会显示`valid`
 
 #### [2](#2-create-raw-host-overrides-endraw-on-your-raw-dns-resolver-endraw-)。在您的`DNS Resolver`上创建`Host Overrides`
 
 因为`cert`会在 url
 中检查你的域名和实际域名，你必须使用步骤 1 的域名
-[![](../Images/c753b67a58ee45aeac113fd5a01b538c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ptfCiNX6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cl1nq8y9ozjh4528fmxb.png)
+[![](img/c753b67a58ee45aeac113fd5a01b538c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ptfCiNX6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cl1nq8y9ozjh4528fmxb.png)
 
 #### 3。使用子域`cert`设置您的服务器
 
-[![](../Images/9342174f590d5bc9e0edda1c5119128e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JlsMy4ws--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g9wjh5if4rx53hxxf1qn.png)
+[![](img/9342174f590d5bc9e0edda1c5119128e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JlsMy4ws--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g9wjh5if4rx53hxxf1qn.png)
 
 # 引用
 

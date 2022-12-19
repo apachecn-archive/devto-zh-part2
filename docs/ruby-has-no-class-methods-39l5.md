@@ -4,7 +4,7 @@
 
 ## *等等…什么？*
 
-[![Mind Blown.gif](../Images/34b8db6e6addfa98f0280ed9eb1ae688.png)T2】](https://i.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
+[![Mind Blown.gif](img/34b8db6e6addfa98f0280ed9eb1ae688.png)T2】](https://i.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
 
 我不知道你怎么想，但这是我第一次在`RubyConf KL 2018`听到`Nadia Odunayo`的演讲时的确切反应(请注意，这是我听过的最迷人的演讲之一！)，她在其中表明 *Ruby 没有类方法。*
 

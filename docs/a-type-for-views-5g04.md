@@ -133,12 +133,12 @@ Enter fullscreen mode Exit fullscreen mode
 
 作为一个好的副作用，这种方法也使得单元测试我们的视图逻辑变得容易。我们可以为我们的`toView`函数编写普通的 Elm 单元测试，它包含了我们所有的实际转换逻辑。这允许我们针对我们的`Html`返回视图函数编写更少的测试，尽管这可能更难。
 
-[![](../Images/5662b11c39eb16fb5e2d0bdaca04c38c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---UZX81fh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/jiCpoq9.png) 
+[![](img/5662b11c39eb16fb5e2d0bdaca04c38c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---UZX81fh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/jiCpoq9.png) 
 **施特费尔**
 [@施特费尔](https://twitter.com/schtoeffel)
 工程师 at [诺丁克](http://noredink.com)
 
-[![](../Images/2ec1e0953660277b54efed4ed49021a7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uFwOkm4a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/J491Oom.png) 
+[![](img/2ec1e0953660277b54efed4ed49021a7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uFwOkm4a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/J491Oom.png) 
 **贾斯珀·沃登伯格**
 [@贾斯珀·沃登伯格](https://twitter.com/jasperwoudnberg)
 工程师在[诺丁克](http://noredink.com)

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/dormoshe/prepare-your-skill-set-for-web-developer-interviews---part-1-ig1>
 
-[![Prepare Your Skill Set for Web Developer Interviews - Part 1](../Images/fc0d5cdc2316f85a960484e5e62af2cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LSOGOddx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/85c5rk6sez2ow5ou3hln.jpg)
+[![Prepare Your Skill Set for Web Developer Interviews - Part 1](img/fc0d5cdc2316f85a960484e5e62af2cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LSOGOddx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/85c5rk6sez2ow5ou3hln.jpg)
 
 [本文原载于 dormoshe.io](https://dormoshe.io/articles/prepare-your-skill-set-for-web-developer-interviews-part-1-25?utm_source=devto&utm_campaign=prepare-your-skill-set-for-web-developer-interviews-part-1-25)
 
@@ -57,7 +57,7 @@ Enter fullscreen mode Exit fullscreen mode
 而当 HTML 返回到浏览器后，浏览器会做什么呢？有一个很大的过程[解析和渲染](https://varvy.com/pagespeed/display.html)资源，包括元素、外部和内部脚本和样式。在这个过程中有阻塞操作和类似于`defer`和`async`的服务字。对于放置外部资源标签和脚本的交互来说，这关系到性能和时间。有一个优先级，浏览器真的努力做到这一点。
 
 [![A Stork and a Baby — photo credit for simplybabyfurniture.com<br>
-](../Images/b7d68683d72c228ce8fca1bafcdbec7a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GtHUrr1J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/42vxu8x3080cm8ylluhe.jpg)
+](img/b7d68683d72c228ce8fca1bafcdbec7a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GtHUrr1J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/42vxu8x3080cm8ylluhe.jpg)
 
 ## JavaScript 是单线程的
 
@@ -68,7 +68,7 @@ Enter fullscreen mode Exit fullscreen mode
 “它是如何工作的”的另一部分是语言的内部流动和过程——机制。执行的顺序是什么，每个变量保存在哪里，调用栈和队列之间有什么区别，以及使用`setTimeout`时发生了什么。引领世界的机制是什么，又是如何做到的？当你回答这些问题时，你就理解了 JavaScript 流程。不了解这个机制就不要去参加 JavaScript 职位的面试。**很关键**。
 
 [![JavaScript Event Loop Visual Representation — photo credit for Gaurav Pandvia<br>
-](../Images/cd7414b94b407756d06042571a388f2b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xn1AbKma--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0p9xmiw4at7u0iao610m.png)
+](img/cd7414b94b407756d06042571a388f2b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xn1AbKma--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0p9xmiw4at7u0iao610m.png)
 
 [另一个在面试中最常被问到的热门词汇和事物](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition)是范围、上下文、提升、如何在 ES5 和 prototype 中实现封装。当有人和你聊起他们的时候，你一定要控制住自己。
 
@@ -82,7 +82,7 @@ JavaScript 开发人员大量使用异步操作。HTTP 请求、调度程序、�
 
 JavaScript 正在生产中，但它总是在更新。**采用新特性到规范的过程是非常有条理和从容的**。ECMAScript 是构成 JavaScript 基础的规范。ECMAScript 由 ECMA 国际标准组织在 ECMA-262 和 ECMA-402 规范中标准化。
 
-[![ES6 Features — Compatibility & Browser Support](../Images/cc7094a767568cadcd318896bbe42808.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eE5PK_lj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e7mzzyjtbxy3k83gb51w.png)
+[![ES6 Features — Compatibility & Browser Support](img/cc7094a767568cadcd318896bbe42808.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eE5PK_lj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e7mzzyjtbxy3k83gb51w.png)
 
 [ECMAScript 2017 由 TC39 于 2017 年年中](https://dormoshe.io/articles/the-best-of-2017-on-dormoshe-io-23?utm_source=devto&utm_campaign=prepare-your-skill-set-for-web-developer-interviews-part-1-25)正式发布。似乎我们在去年谈论了很多关于 ECMAScript 的内容。不是白来的。ES6 是 JavaScript 世界中最新鲜的事物之一。到处都是。ES6 现在很流行，因为它的改进通过新的语法和创新使开发者的体验更方便。ES 专区中最新的东西是 async\await、arrow 函数、spread 操作符、类结构等等。
 
@@ -109,7 +109,7 @@ Cookies、[本地存储和](https://msdn.microsoft.com/en-us/library/bg142799%28
 
 Cookies 可用于认证和确保请求的来源是可靠的。除非过期，否则 Cookies 将自动添加到请求中。本地和会话存储将不会添加到对服务器的请求中，它们仅在客户端被**访问。会话存储将被保存，直到浏览器中的网站选项卡被关闭。本地存储将保存在浏览器中，供下次使用。**
 
-[![Different type of storage — photo credit for blog.trustpilot.com](../Images/137b2f7c29f28cdf822e6c768567a686.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MOdgl_r5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8sg7yurjkh62pudgyl0n.png)
+[![Different type of storage — photo credit for blog.trustpilot.com](img/137b2f7c29f28cdf822e6c768567a686.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MOdgl_r5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8sg7yurjkh62pudgyl0n.png)
 
 本地存储只能保存字符串键和值，而 cookies 可以保存复杂的对象。这三个都有大小限制。本地和会话存储可以包含高达 5MB 的数据，而 cookies(T2)可以包含高达 4KB 的数据。三者之间有更多的限制和区别。这是一个采访中的常见话题，它可以作为一些问题的答案出现，也可以作为一个直接的问题出现。
 
@@ -119,6 +119,6 @@ Cookies 可用于认证和确保请求的来源是可靠的。除非过期，否
 
 面试是你可以为之做好准备的事情。这种准备有助于增强你的自信心，并提醒你不常用的话题。建议花点时间去做，但是需要专注。在下一部分，我们将继续看到更多相关和重要的主题，如架构，我会给你一些行动项目和一些来源，使准备工作尽可能简单。
 
-[![Follow me](../Images/2b03e17f69f542df4438e6860862480a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0Zow1YxL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mkq1l81wbe7hn4r91iik.png)
+[![Follow me](img/2b03e17f69f542df4438e6860862480a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0Zow1YxL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mkq1l81wbe7hn4r91iik.png)
 
 你可以在 [dormoshe.io](https://dormoshe.io?utm_source=devto&utm_campaign=prepare-your-skill-set-for-web-developer-interviews-part-1-25) 或 [Twitter](https://twitter.com/DorMoshe) 上关注我，阅读更多关于 Angular、JavaScript 和 web 开发的内容。

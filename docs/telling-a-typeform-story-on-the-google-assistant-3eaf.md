@@ -19,15 +19,15 @@
 
 一个有趣的用途是，平台让制作互动故事变得超级容易！实际上，你把每一个领域都变成了一个选择题块，在这里你把你的故事的一部分作为一个章节来讲述，并向读者呈现选项。你甚至可以使用“感谢屏幕”(一个免费使用的专业功能)作为故事分支的结尾。
 
-[![Building a form](../Images/ec305e51ad69e95668c8b126dc2b3dcc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sb9ZMzWY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xlfilhz1un16kk0dkno9.png)
+[![Building a form](img/ec305e51ad69e95668c8b126dc2b3dcc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sb9ZMzWY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xlfilhz1un16kk0dkno9.png)
 
 一旦你的章节和结尾都创建好了，你就需要把它们连接起来，这也是 Typeform 让它变得超级容易的地方！Typeform 的逻辑跳转(另一个 PRO 特性)允许用户根据他们的选择只查看表单的一部分并与之交互。
 
-[![Jump to page 24](../Images/d9307e32959f905ab8bd30c33138990a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hCgeJzXm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ru7r483hto88qa3mhztl.gif)
+[![Jump to page 24](img/d9307e32959f905ab8bd30c33138990a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hCgeJzXm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ru7r483hto88qa3mhztl.gif)
 
 继续这个过程，你可以为任何场景建立案例，最终建立一个像这样的故事…
 
-[![A full story](../Images/954238289c21633c0dc468c6c510b568.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LIG0zQpW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/as4wod87qht3pfbu2vbr.png)
+[![A full story](img/954238289c21633c0dc468c6c510b568.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LIG0zQpW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/as4wod87qht3pfbu2vbr.png)
 
 呀，那是一个激烈的故事！我必须承认，这不是我创造的。其实就是 Typeform 提供的[互动故事模板](https://www.typeform.com/templates/t/interactive-fiction/)。它提供了一个很好的例子，说明如何使用字体来制作一个交互式的故事。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/joshua/react-explaining-explained-1lb8>
 
-[![Feynman with a blackboard](../Images/e13484028072d55fe400d012f505a4ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5ahcEIHu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r7ilhvlik6oggrmilwuv.jpg)
+[![Feynman with a blackboard](img/e13484028072d55fe400d012f505a4ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5ahcEIHu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r7ilhvlik6oggrmilwuv.jpg)
 
 一次，加州理工学院的一名教员问理查德·费曼，为什么自旋 1/2 的粒子服从费米-狄拉克统计。他完美地衡量了他的听众，然后说:“我将为此准备一次新生演讲。”但是几天后他回来说，“你知道，我做不到。我不能把它降低到大一的水平。那说明我们真的不懂。[1]
 

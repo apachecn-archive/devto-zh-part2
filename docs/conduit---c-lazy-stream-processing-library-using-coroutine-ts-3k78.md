@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nikhedonia/conduit---c-lazy-stream-processing-library-using-coroutine-ts-3k78>
 
-[![](../Images/3a96962af31a8531dbb168e21d7ee895.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eybVWnFr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2ApsDujwuN5qPSWUmy.png)
+[![](img/3a96962af31a8531dbb168e21d7ee895.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eybVWnFr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2ApsDujwuN5qPSWUmy.png)
 
 [https://github.com/loopperfect/conduit](https://github.com/loopperfect/conduit)
 

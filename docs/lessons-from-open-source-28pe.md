@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/joshghent/lessons-from-open-source-28pe>
 
-<figure>[![](../Images/95f48bed152100be799618b4f92aa8be.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EVoRLANP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AidogazS2GC315Ga9.) 
+<figure>[![](img/95f48bed152100be799618b4f92aa8be.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EVoRLANP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AidogazS2GC315Ga9.) 
 
 <figcaption>照片由[钻营资本](https://unsplash.com/photos/uv5_bsypFUM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)上[未溅](https://unsplash.com/search/photos/software?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 
@@ -16,7 +16,7 @@
 
 我没有专注于交付特性和错误修复，而是专注于我如何看待代码库应该是什么样子。
 
-<figure>[![](../Images/cc0ec3b9d6f1a46809136466bbaea46d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nnBClEE_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/0%2AKzBNzDDzzdTtEh32.) 
+<figure>[![](img/cc0ec3b9d6f1a46809136466bbaea46d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nnBClEE_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/0%2AKzBNzDDzzdTtEh32.) 
 
 <figcaption>“不对，应该是这个样子！”</figcaption>
 
@@ -32,7 +32,7 @@
 
 开源本质上是对任何拥有 Github 账户的人开放的。因此，偶然发现你的项目并希望为其做出贡献的人可能不是来自同一个时区，也可能不是英语为第二语言的人。这往往会导致沟通失误。因此，最好齐心协力，确保你所说的话没有歧义。此外，不同的国家在他们的语言中可能有某些习俗，虽然可能会冒犯你，但被认为与他人无关。反过来也是如此，所以要注意任何可能不必要冒犯他人的语言。
 
-<figure>[![](../Images/568f7128cd3dceb65f1b07896d7a4c7f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hklMeiRE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/448/0%2A2nwpaiTXHO_QQXR1.) 
+<figure>[![](img/568f7128cd3dceb65f1b07896d7a4c7f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hklMeiRE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/448/0%2A2nwpaiTXHO_QQXR1.) 
 
 <figcaption>情感在网络上并不总能顺利传播</figcaption>
 
@@ -44,7 +44,7 @@
 
 除了编写代码，还有一种更重要但很少被想到的写作形式——文档。在开源领域，如果你想让人们使用你的东西，你必须告诉他们如何使用它！
 
-<figure>[![](../Images/c4285d5321d2a663749c5ee2c98637b2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sGgwm5bZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/480/0%2A0Ijnny5zhcXA1nUM.) 
+<figure>[![](img/c4285d5321d2a663749c5ee2c98637b2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sGgwm5bZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/480/0%2A0Ijnny5zhcXA1nUM.) 
 
 <figcaption>“任意”键在哪里？</figcaption>
 

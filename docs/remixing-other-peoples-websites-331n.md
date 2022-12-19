@@ -23,11 +23,11 @@
 
 所以这个:
 
-[![Office.com before](../Images/ba42837adeea53010075c145a5f80db9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7vmkKQ5A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x08cs31nyqdcaeb99twk.png)
+[![Office.com before](img/ba42837adeea53010075c145a5f80db9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7vmkKQ5A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x08cs31nyqdcaeb99twk.png)
 
 变成了这样:
 
-[![Office.com after](../Images/dc9784fb7263c0575f0246c1a9d8e974.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gaq5txkg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gv9f6uwse2zvqs4zkluv.png)
+[![Office.com after](img/dc9784fb7263c0575f0246c1a9d8e974.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gaq5txkg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gv9f6uwse2zvqs4zkluv.png)
 
 你可以看到我已经抛弃了英雄形象(这意味着当我使用笔记本电脑时，我不得不向下滚动每一页),还删除了我永远不会使用的办公产品。追加销售 CTA 链接也是如此。
 
@@ -53,11 +53,11 @@
 
 所以这个:
 
-[![IMDB before](../Images/1ad623fcf6987d1ef93747a84d66a367.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jV_1QA3s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gu408bs5nfu4ddpfrt0t.png)
+[![IMDB before](img/1ad623fcf6987d1ef93747a84d66a367.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jV_1QA3s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gu408bs5nfu4ddpfrt0t.png)
 
 变成了这样:
 
-[![IMDB after](../Images/b7587aa2ddbe1c6506d39faf21f99617.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--evTGdIzL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ji784urkdkdigk9zhyfq.png)
+[![IMDB after](img/b7587aa2ddbe1c6506d39faf21f99617.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--evTGdIzL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ji784urkdkdigk9zhyfq.png)
 
 ### 变分页为无限滚动
 
@@ -79,7 +79,7 @@
 
 一些网站使用产生“div 汤”的框架，并且没有一致的类名或 id。有时这只是构建过程中的一个产物，有时这是故意让人们更难检测和阻止不想要的内容。
 
-[![Reddit](../Images/eacb208400f57aa7cadb107472fdadda.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dm5ot7si--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cl4zjv1b8diro7q6atnq.png)
+[![Reddit](img/eacb208400f57aa7cadb107472fdadda.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dm5ot7si--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cl4zjv1b8diro7q6atnq.png)
 
 假设你从未对从众感兴趣。你在 Reddit 上，你想要一个更加不受干扰的体验。
 

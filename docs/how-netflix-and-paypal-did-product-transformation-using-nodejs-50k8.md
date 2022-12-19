@@ -14,7 +14,7 @@
 
 为什么实施 Node.js 首席工程师肖。
 
-[![](../Images/c2e619349189eec7473104b855a90210.png)T2】](http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE<br>%0A)
+[![](img/c2e619349189eec7473104b855a90210.png)T2】](http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE<br>%0A)
 
 **转移到 Node.js 的主要原因**
 
@@ -30,7 +30,7 @@
 
 Node.js 支持非阻塞，可以用于 AWS Lambda 这样的微服务，开发无服务器架构。该公司计划使用 AWS Lambda 来构建基于规则的自我管理基础设施，并取代低效的流程，以降低错误率并节省宝贵的时间。
 
-[![](../Images/5815cefaa3e963ed0e0838ff128f6b96.png)T2】](http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE<br>%0A)
+[![](img/5815cefaa3e963ed0e0838ff128f6b96.png)T2】](http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE<br>%0A)
 
 **Paypal**
 

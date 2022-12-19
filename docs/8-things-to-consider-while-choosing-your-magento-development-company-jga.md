@@ -4,7 +4,7 @@
 
 # Magento 开发
 
-[![Alt text of image](../Images/6270830c4cd7f04982e69af5943f28da.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PA0mWU5N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0sm8e4xx1elilr6bc2o6.jpg) 每一个企业都希望不断发展，不管它们的起源在市场上生存了多久。在网站设计和开发领域保持领先是一个基本特征，因为它是一个极限行业。特别是在 24X7 全天候保持活跃的电子商务领域，拥有一个有吸引力的网站来为你的业务提供理由是非常重要的。由于 Magento 平台包含的广泛特性，Magento web 开发正在成为当前环境中一个不断发展的概念。
+[![Alt text of image](img/6270830c4cd7f04982e69af5943f28da.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PA0mWU5N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0sm8e4xx1elilr6bc2o6.jpg) 每一个企业都希望不断发展，不管它们的起源在市场上生存了多久。在网站设计和开发领域保持领先是一个基本特征，因为它是一个极限行业。特别是在 24X7 全天候保持活跃的电子商务领域，拥有一个有吸引力的网站来为你的业务提供理由是非常重要的。由于 Magento 平台包含的广泛特性，Magento web 开发正在成为当前环境中一个不断发展的概念。
 
 有许多不同的因素应该算作一个 PSD，它创建了一个基于 Magento 的基本 **[电子商务商店。](https://www.webnexs.com/magento-development.php?utm_source=devto&utm_medium=article&utm_term=Ecommerce&utm_campaign=praveen)**
 

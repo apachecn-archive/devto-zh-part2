@@ -27,7 +27,7 @@ RP:右枢轴
 
 让我们看一个例子:
 
-[![Alt text of image](../Images/23b07ff95355c90d1de4995b80b0292d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R6O0sTwr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n6mp5fdei3q441ycdn4y.jpg)
+[![Alt text of image](img/23b07ff95355c90d1de4995b80b0292d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R6O0sTwr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n6mp5fdei3q441ycdn4y.jpg)
 
 不需要交换上图中的枢轴，因为 LP < RP.
 现在我们按照下面的方案划分数组。
@@ -36,23 +36,23 @@ RP:右枢轴
 第二子数组:LP < = items < = RP
 第三子数组=: items > = RP
 
-[![Alt text of image](../Images/d89faa0d8287b7d9d249eaf8d81ab767.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lGQastLO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a3eq0j679g59dthcw42d.jpg)
+[![Alt text of image](img/d89faa0d8287b7d9d249eaf8d81ab767.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lGQastLO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a3eq0j679g59dthcw42d.jpg)
 
 现在我们有 3 个子数组，我们将对其执行与上面相同的步骤。由于前两个数组只有两个项目，一个将成为左枢纽，另一个将成为右枢纽。如果左轴大于右轴，我们就把左轴换成右轴，前两个子数组不是这种情况。
 
-[![Alt text of image](../Images/8eba41bcb22a448ad899c965b28e3d60.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GBFSvnl9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ehghis7p9tsd9g1wm4q4.jpg)
+[![Alt text of image](img/8eba41bcb22a448ad899c965b28e3d60.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GBFSvnl9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ehghis7p9tsd9g1wm4q4.jpg)
 
 对于第三个子阵列，正如我们在下图中看到的，左轴大于右轴，因此我们将交换它们。
 
-[![Alt text of image](../Images/975955f26fb93e0e41ecc6e448ecbd08.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--09N5kict--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g95l8m8pa9g66l0v3ov0.jpg)
+[![Alt text of image](img/975955f26fb93e0e41ecc6e448ecbd08.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--09N5kict--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g95l8m8pa9g66l0v3ov0.jpg)
 
 交换枢轴。
-[![Alt text of image](../Images/fe1dd91d4ad2fc76d5aea3f0207e283a.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--XH6MY1Mf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6f473lb9nolxytzohalq.jpg)
+[![Alt text of image](img/fe1dd91d4ad2fc76d5aea3f0207e283a.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--XH6MY1Mf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6f473lb9nolxytzohalq.jpg)
 
 我们在数组中没有更多可以进一步划分的元素了。
-[![Alt text of image](../Images/db3edc32eb8ab27954ea7a548aa4b3d0.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--X5jxC5dK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/13zl7hgjyjuz0tkpilhr.jpg)
+[![Alt text of image](img/db3edc32eb8ab27954ea7a548aa4b3d0.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--X5jxC5dK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/13zl7hgjyjuz0tkpilhr.jpg)
 
-[![Alt text of image](../Images/73b10cfa97b1f98e474252625cd3a689.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KhQZfXVy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nwl0r1opeozphmvzzwby.jpg)
+[![Alt text of image](img/73b10cfa97b1f98e474252625cd3a689.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KhQZfXVy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nwl0r1opeozphmvzzwby.jpg)
 
 **参考文献**
 
@@ -68,4 +68,4 @@ RP:右枢轴
 如果你想让我写一个特定的话题，请在下面的评论区随意发表。
 
 你可以在下面给我买杯咖啡来支持我的工作。💚💚💚💚💚💚！！
-[![Buy me a ko-fi](../Images/2c34722d2ff9357df105fc9e9ec792b6.png)T3】](https://ko-fi.com/F1F0J8U1)
+[![Buy me a ko-fi](img/2c34722d2ff9357df105fc9e9ec792b6.png)T3】](https://ko-fi.com/F1F0J8U1)

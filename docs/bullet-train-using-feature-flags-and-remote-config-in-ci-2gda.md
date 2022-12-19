@@ -8,7 +8,7 @@
 
 ## 减少释放周期和压力
 
-[![](../Images/6f848fbc6e95060d34acb9f47bfc4f7d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hygKN7cc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://cdn2.stylecraze.com/wp-content/uploads/2015/07/2798-How-To-Make-A-Stress-Ball-At-Home-ss.jpg)
+[![](img/6f848fbc6e95060d34acb9f47bfc4f7d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hygKN7cc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://cdn2.stylecraze.com/wp-content/uploads/2015/07/2798-How-To-Make-A-Stress-Ball-At-Home-ss.jpg)
 
 在几个月的发布周期中，我发现使用这种方法很轻松。之前，我发现了以下情况:
 
@@ -53,5 +53,5 @@
 
 快乐发展！
 
- [![](../Images/512f36e256880cb027ee181141daf1e9.png)
+ [![](img/512f36e256880cb027ee181141daf1e9.png)
 T4】](https://bullet-train.io)

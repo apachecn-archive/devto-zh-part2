@@ -4,7 +4,7 @@
 
 我是自动化测试的忠实粉丝。数学就这么算出来了。当计算机可以在几秒钟内完成时，为什么要花几个小时来运行一系列测试用例。有了这样的好处，我对自动化测试的热情让我觉得所有的测试都应该自动化。然而，这与事实相去甚远。
 
-[![](../Images/84aa17a0ce9fc4deb9a8b076c16ff2c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--25GgUwpK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.professorbeekums.com/img/2018/testing.jpeg)
+[![](img/84aa17a0ce9fc4deb9a8b076c16ff2c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--25GgUwpK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.professorbeekums.com/img/2018/testing.jpeg)
 
 在软件开发中，纯机械的手工测试几乎没有空间，但这不是手工测试软件的唯一原因。自动化测试能很好地告诉你软件是否按照你想要的方式工作。他们很难告诉你软件是否按照它应该的方式工作。
 

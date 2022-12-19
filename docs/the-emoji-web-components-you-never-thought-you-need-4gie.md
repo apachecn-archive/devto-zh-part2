@@ -2,13 +2,13 @@
 
 > 原文：<https://dev.to/thisisbinh/the-emoji-web-components-you-never-thought-you-need-4gie>
 
-[![](../Images/17a80deeb17782460d892db592d241ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iscpI_vb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgflip.com/2e5snu.jpg)
+[![](img/17a80deeb17782460d892db592d241ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iscpI_vb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgflip.com/2e5snu.jpg)
 
 今年 7 月 17 日，让我们一起来庆祝世界表情符号日，看看我们的表情符号大使 notwaldorf 的一些最酷的表情符号网络组件👩🏻‍✈️
 
 ## 🌧表情符号-雨🌧
 
-[![](../Images/f585b97da924a1f5df7af3764afb680d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AldgWeOH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vq6tv518brm4f5ay6ccj.gif)
+[![](img/f585b97da924a1f5df7af3764afb680d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AldgWeOH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vq6tv518brm4f5ay6ccj.gif)
 
 这个时髦的组件将会带来大量的表情符号。这是迷人的，丰富多彩的，美丽的(明白吗？).
 
@@ -16,7 +16,7 @@
 
 ## 📚表情符号选择器📚
 
-[![](../Images/cf95943e7e1ad414a1b07e3cc4040247.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z5B_aoMn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zq4sggmq4e3oqgp3iq9e.gif)
+[![](img/cf95943e7e1ad414a1b07e3cc4040247.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z5B_aoMn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zq4sggmq4e3oqgp3iq9e.gif)
 
 表情符号选择器拥有大量的表情符号。它为用户提供了一个“最近使用的”窗口，就像它在大多数智能手机键盘上一样，如果你是❤️或者🔥垃圾邮件制造者。
 
@@ -24,7 +24,7 @@
 
 ## 出血
 
-[![](../Images/3f3a16c6672d99394e5f364f1d350861.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ls3XyVDJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0or5gk8i5e3nq1ryknoe.gif)
+[![](img/3f3a16c6672d99394e5f364f1d350861.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ls3XyVDJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0or5gk8i5e3nq1ryknoe.gif)
 
 表情符号+像素符号=表情符号 -它可以将任何图片翻译成表情符号的全文，所以你甚至可以通过简单的复制&粘贴与人分享。查看 CodePen 演示，给你一个惊喜。
 

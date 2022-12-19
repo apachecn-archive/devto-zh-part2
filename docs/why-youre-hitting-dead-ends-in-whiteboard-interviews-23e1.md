@@ -32,15 +32,15 @@
 
 你对迷宫的形状一无所知，直到你开始在它周围徘徊。你可能隐约知道解决方案在哪里，但你不知道如何到达那里。
 
-[![A maze with a mouse at one corner labeled "You" and a piece of cheese at the opposite corner labeled "An Answer." Only a small section of the maze directly surrounding the mouse is revealed, showing two possible paths to the cheese.](../Images/de218c051db4b6bf59b458f61b10abcd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--78QFlvSW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.interviewcake.com/images/svgs/fog_of_war__maze_start.svg%3Fbust%3D170)
+[![A maze with a mouse at one corner labeled "You" and a piece of cheese at the opposite corner labeled "An Answer." Only a small section of the maze directly surrounding the mouse is revealed, showing two possible paths to the cheese.](img/de218c051db4b6bf59b458f61b10abcd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--78QFlvSW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.interviewcake.cimg/svgs/fog_of_war__maze_start.svg%3Fbust%3D170)
 
 当你在迷宫中漫步时，你可能会找到一条有希望的道路(一种方法，一种分解问题的方法)。你可能会沿着这条路走一段时间。
 
-[![The same maze with the mouse further along, nearing the cheese.](../Images/58a5801bfdaab1a8bd8cac9d3f1ddd5a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0Vm4AaII--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.interviewcake.com/images/svgs/fog_of_war__maze_first_path.svg%3Fbust%3D170)
+[![The same maze with the mouse further along, nearing the cheese.](img/58a5801bfdaab1a8bd8cac9d3f1ddd5a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0Vm4AaII--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.interviewcake.cimg/svgs/fog_of_war__maze_first_path.svg%3Fbust%3D170)
 
 突然，你的面试官提出了一条不同的道路:
 
-[![Now the mouse has turned around in the same spot, and an arrow points the mouse back towards the beginning of the maze to a new path.](../Images/11dcdb96c5f29bfabbe7bc492f347362.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tGG4ll0h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.interviewcake.com/images/svgs/fog_of_war__maze_new_path.svg%3Fbust%3D170)
+[![Now the mouse has turned around in the same spot, and an arrow points the mouse back towards the beginning of the maze to a new path.](img/11dcdb96c5f29bfabbe7bc492f347362.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tGG4ll0h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.interviewcake.cimg/svgs/fog_of_war__maze_new_path.svg%3Fbust%3D170)
 
 但是从你目前所看到的迷宫来看，你的方法已经让你成功了一半！在当前的道路上失去自己的位置将意味着巨大的倒退。或者看起来是这样。
 
@@ -52,15 +52,15 @@
 
 因此，如果你的面试官在建议一条特定的道路，你可以打赌它会引导你找到答案。
 
-[![Following the new path, the mouse has made it to the cheese at the end of the maze.](../Images/3bc8813c075d8fa72de69f7828b8b6a6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XKr5ATyg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.interviewcake.com/images/svgs/fog_of_war__maze_completed.svg%3Fbust%3D170)
+[![Following the new path, the mouse has made it to the cheese at the end of the maze.](img/3bc8813c075d8fa72de69f7828b8b6a6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XKr5ATyg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.interviewcake.cimg/svgs/fog_of_war__maze_completed.svg%3Fbust%3D170)
 
 而你看似伟大的道路呢？可能前方就有一个你还没看到的死胡同:
 
-[![Now the entirety of the maze is revealed, showing that the mouse's original path through the maze lead to a dead end.](../Images/60da68cc7f81cb99c112bd6ed32d6779.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y7QONP1O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.interviewcake.com/images/svgs/fog_of_war__maze_dead_end.svg%3Fbust%3D170)
+[![Now the entirety of the maze is revealed, showing that the mouse's original path through the maze lead to a dead end.](img/60da68cc7f81cb99c112bd6ed32d6779.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y7QONP1O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.interviewcake.cimg/svgs/fog_of_war__maze_dead_end.svg%3Fbust%3D170)
 
 或者这可能是一条比你想象的更长的解决途径。这实际上经常发生——有一个答案，但比你想象的要复杂。
 
-[![Again the maze is revealed, showing an alternate scenario in which the mouse's original path eventually lead to the cheese but in a much more complicated way.](../Images/693ba2ef76d5c7a378d05f5f0c63f326.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4Wp-cl9p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.interviewcake.com/images/svgs/fog_of_war__maze_complicated_path.svg%3Fbust%3D170)
+[![Again the maze is revealed, showing an alternate scenario in which the mouse's original path eventually lead to the cheese but in a much more complicated way.](img/693ba2ef76d5c7a378d05f5f0c63f326.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4Wp-cl9p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.interviewcake.cimg/svgs/fog_of_war__maze_complicated_path.svg%3Fbust%3D170)
 
 ## 撞上死胡同还好。不听不是。
 

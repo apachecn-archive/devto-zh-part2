@@ -2,13 +2,13 @@
 
 > 原文：<https://dev.to/joelnet/settimeout-is-a-callback-style-function-what-would-happen-if-we-change-that-3fei>
 
-[![Clock gold timepiece](../Images/00b1b5d13251c08fa6b25fb9ffeb6228.png)T2】](https://unsplash.com/photos/Ai7sV3SSMIQ)
+[![Clock gold timepiece](img/00b1b5d13251c08fa6b25fb9ffeb6228.png)T2】](https://unsplash.com/photos/Ai7sV3SSMIQ)
 
 如今，将节点风格的回调函数转换成承诺风格的函数是一种常见的做法。那么，为什么我们没有为`setTimeout`这样做呢？
 
 比起节点式回调，更喜欢承诺式函数的主要原因是为了避免[回调地狱](http://callbackhell.com/)。
 
-[![Ryo fireballing code in callback hell](../Images/b1d757bc2d75f45c89de75be6f4f53e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1ppnEIAU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a79vj0fvvdylajtcqz87.gif)
+[![Ryo fireballing code in callback hell](img/b1d757bc2d75f45c89de75be6f4f53e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1ppnEIAU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a79vj0fvvdylajtcqz87.gif)
 
 没人想看到这一幕。
 
@@ -210,7 +210,7 @@ main ({ start: 1, end: 3 })
 
 相当简单！
 
-[![The text "This changes everything" overlaying a surprised cat](../Images/232c7e65235114de311a767260f40a79.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nG2-IALO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rfrzp33kbbj2u07hmsk3.jpeg)
+[![The text "This changes everything" overlaying a surprised cat](img/232c7e65235114de311a767260f40a79.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nG2-IALO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rfrzp33kbbj2u07hmsk3.jpeg)
 
 都在一个可运行的代码块中:
 
@@ -297,4 +297,4 @@ Ramda 的`pipeP`或者 MojiScript 的`pipe`有时候会比`Promises`或者`async
 
 [在把 90%的 JavaScript 扔进垃圾桶后，我是如何重新发现自己对它的热爱的](https://hackernoon.com/how-i-rediscovered-my-love-for-javascript-after-throwing-90-of-it-in-the-trash-f1baed075d1b)
 
-[![Cheers!](../Images/661c03d25961a6e3b1ecbe00d148b35a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PqqJmrxK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6jsy3a866frzp3u5oda0.jpg)
+[![Cheers!](img/661c03d25961a6e3b1ecbe00d148b35a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PqqJmrxK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6jsy3a866frzp3u5oda0.jpg)

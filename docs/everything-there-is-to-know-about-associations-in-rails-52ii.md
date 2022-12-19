@@ -23,7 +23,7 @@ end                                  end
 
 给定关系中的一个模型将有`has_one`方法调用，另一个将有`belongs_to`。它用于描述哪个模型包含**一个外键**对另一个的引用，在您的例子中，它是概要文件模型。
 
-[![one-to-one](../Images/8d5fa0e52a1ef003818cc48358baba6f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LNBZ2vh0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/dd9c653b0c0005b92cdf4a6bdcc10a3e/one-to-one.png)
+[![one-to-one](img/8d5fa0e52a1ef003818cc48358baba6f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LNBZ2vh0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/dd9c653b0c0005b92cdf4a6bdcc10a3e/one-to-one.png)
 
 用 [RSpec 测试](https://kolosek.com/rails-rspec-setup/)覆盖你的关联，以确保一切都按照你想要的方式运行。
 
@@ -43,7 +43,7 @@ end                                  end
 
 第二个模型不知道第一个模型与它的关系——它不知道第一个模型是否引用了不止一个模型，还是只引用了一个模型。
 
-[![one-to-many](../Images/92cb3875448df711b2e6d5dc04769082.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N_IgQ358--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/ec6c6326b0948276a487af75a13ee4c9/one-to-many.png)
+[![one-to-many](img/92cb3875448df711b2e6d5dc04769082.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N_IgQ358--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/ec6c6326b0948276a487af75a13ee4c9/one-to-many.png)
 
 创建的关系越多，关联测试就越复杂。你应该看看如何创建你自己的[关联工厂](https://kolosek.com/factory-girl-associations/)来使你的测试生活更容易。
 
@@ -55,7 +55,7 @@ end                                  end
 
 一个`has_and_belongs_to_many`关联创建了与另一个模型的直接**多对多**连接。它比另一个更简单，因为它只需要从两个模型中调用`has_and_belongs_to_many`。
 
-[![has-and-belongs-to-many](../Images/5cd7d255fa9117e939768fc28af3f0f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C9eEMddp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/6e59bce7bc11d74d4f3b42aa264f0db8/has-and-belongs-to-many.png)
+[![has-and-belongs-to-many](img/5cd7d255fa9117e939768fc28af3f0f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C9eEMddp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/6e59bce7bc11d74d4f3b42aa264f0db8/has-and-belongs-to-many.png)
 
 *举例:*比如说，一个用户可以有许多不同的角色，同一个角色可以包含许多用户，你的模型应该是这样的:
 
@@ -84,7 +84,7 @@ end
 
 定义一个**多对多**关联的另一种方式是使用**有多个通过**的关联类型。这里你应该定义一个**独立模型**，来处理两个不同模型之间的连接。
 
-[![has_many_through](../Images/f065cb0a96420e7576141eb5003439ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wGc6RL15--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/78cbb30deb837728cb6d6153b31c6fb3/has_many_through.png)
+[![has_many_through](img/f065cb0a96420e7576141eb5003439ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wGc6RL15--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/78cbb30deb837728cb6d6153b31c6fb3/has_many_through.png)
 
 不要写下一个新的例子，你应该检查一下这个例子。它解释了你应该知道的关于这个协会的一切。
 
@@ -113,7 +113,7 @@ end
 
 **多态联想**是我们可用的最高级联想。当您有一个模型可能属于单个关联上的许多不同模型时，您可以使用它。
 
-[![polymorphic](../Images/099463999d5aabf305447bd4d9cfcb6c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AgiX5yeP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/6058d06ae05bb5c5ea77ebbc9fa1aabf/polymorphic.png)
+[![polymorphic](img/099463999d5aabf305447bd4d9cfcb6c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AgiX5yeP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/6058d06ae05bb5c5ea77ebbc9fa1aabf/polymorphic.png)
 
 让我们想象你希望能够为用户和故事写评论。你希望两个模型都是可评论的。下面是如何声明的:
 

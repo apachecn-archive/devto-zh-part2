@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/wxyyxc1992/awesome-docker-links-53g2>
 
-[![返回目录](../Images/6781ebee909f292165292a3f514a345d.png)T2】](https://github.com/wxyyxc1992/Awesome-Links)
+[![返回目录](img/6781ebee909f292165292a3f514a345d.png)T2】](https://github.com/wxyyxc1992/Awesome-Links)
 
 # 码头链接|码头资料索引
 

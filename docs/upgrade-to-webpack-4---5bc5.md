@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/flexdinesh/upgrade-to-webpack-4---5bc5>
 
-[![Upgrade to Webpack 4](../Images/e0162d2a2454da7563e56bec714eb6ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V-Vdjw0E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/n6oUYS/webpack_upgrade.png)
+[![Upgrade to Webpack 4](img/e0162d2a2454da7563e56bec714eb6ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V-Vdjw0E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/n6oUYS/webpack_upgrade.png)
 
 Webpack 4 *(代号连奏)*于两周前发布。它包含了许多闪亮的特性。与 Webpack 3 不同的是，Webpack 4 有一系列引人注目的功能，web pack 3 并没有对其前身进行重大升级。
 

@@ -18,7 +18,7 @@
 
 ### **为经验奔忙**
 
-[![The circle of depressing truth. Supplied by @summeroftech](../Images/fff3fbc313bb0db5a8ac4112d8fa4406.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iBVKwC6b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5aa8ccb4419202c439291115/1521011902886/experience.png%3Fformat%3D1000w)
+[![The circle of depressing truth. Supplied by @summeroftech](img/fff3fbc313bb0db5a8ac4112d8fa4406.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iBVKwC6b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5aa8ccb4419202c439291115/1521011902886/experience.png%3Fformat%3D1000w)
 
 令人沮丧的真相圈。由@summeroftech 提供
 

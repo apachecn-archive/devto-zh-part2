@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/contentful_blog/the-understated-innovation-of-static-site-generators-mla>
 
-[![The understated potential of static site generators](../Images/b0d64f2a48a42fe17bd4c1005af7cad2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wlMLaId7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/7gaObMiwo0eqUOYs4gYsI8/e74bb796e13035205fcedd2f1f6fde4a/20180716_potential_static_site_generators.png)
+[![The understated potential of static site generators](img/b0d64f2a48a42fe17bd4c1005af7cad2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wlMLaId7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/7gaObMiwo0eqUOYs4gYsI8/e74bb796e13035205fcedd2f1f6fde4a/20180716_potential_static_site_generators.png)
 
 这篇文章反映了围绕新一代静态站点生成器的更大图景，这些静态站点生成器目前正在获得关注和采用。
 
@@ -49,7 +49,7 @@
 
 这些考虑因素让我想到了“颠倒的堆栈”，在这种堆栈中，数据库或其他服务首先出现，而不是在两者之间或随着逻辑的进展而出现，在这种堆栈中，您带着执行请求所需的所有数据和授权进入运行时。
 
-[![The classic stack versus the upside down stack](../Images/dca932520f4c3102b27914738853a358.png)T2】](//images.ctfassets.net/fo9twyrwpveg/263CbYT8D2WaeoQaIOMGME/79621ab7d709996df955d451615f7c8a/20180716_stacks.png)
+[![The classic stack versus the upside down stack](img/dca932520f4c3102b27914738853a358.png)T2】](//images.ctfassets.net/fo9twyrwpveg/263CbYT8D2WaeoQaIOMGME/79621ab7d709996df955d451615f7c8a/20180716_stacks.png)
 
 ### 静态站点生成器是如何向“倒挂栈”迈进的？
 

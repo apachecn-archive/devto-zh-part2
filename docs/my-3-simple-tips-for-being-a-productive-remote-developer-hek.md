@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/moimikey/my-3-simple-tips-for-being-a-productive-remote-developer-hek>
 
-[![](../Images/c6eaacd3dda4416e697c250d574764e3.png)T2】](https://i.giphy.com/media/11jQqqyF4S5MWY/giphy.gif)
+[![](img/c6eaacd3dda4416e697c250d574764e3.png)T2】](https://i.giphy.com/media/11jQqqyF4S5MWY/giphy.gif)
 
 当我开始在我的公司 [Fusion Media Group](https://kinja.com) 工作的时候，我不得不在 8 个月内做出一个个人决定，搬到其他州去，以便有能力照顾我的母亲。这是一个很大的责任，但我做到了。我的公司接受了我远程全职工作的请求，我开始了在家工作的旅程。
 

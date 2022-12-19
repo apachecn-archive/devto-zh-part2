@@ -4,7 +4,7 @@
 
 最近我们已经检查了【TypeScript 在我们的 React 项目中增加了什么好处。现在，让我们沿着前端项目如今所走的典型道路，将 [Redux](https://brightinventions.pl/blog/from-react-to-react-redux-in-a-few-steps/) 添加到组合中。不幸的是，默认情况下，Redux 并不是真正的类型安全，因为在大多数情况下，它表现为[切换带有任意有效负载的动作](https://redux.js.org/introduction/core-concepts)。但是 TypeScript 是一只强大的野兽，只要稍加小心，我们就可以使 Redux 代码不仅是类型安全的，而且更干净、可读性更好。
 
-[![Redux + TypeScript](../Images/f41ee3d750e6156997f081c08fc0e937.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nbopMMEt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5jg2toq7qgzvh0mcm3re.png)
+[![Redux + TypeScript](img/f41ee3d750e6156997f081c08fc0e937.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nbopMMEt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5jg2toq7qgzvh0mcm3re.png)
 
 ## 基本打字
 
@@ -241,7 +241,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果您使用一个支持类型脚本的 IDE(例如像 [WebStorm](https://www.jetbrains.com/webstorm/) )，您可能会注意到动作属性现在被正确地着色了，代码自动完成的工作方式与我们想象的完全一样。现在让我们再次尝试我们的打字错误示例:
 
-[![TypeScript properly checks Action payload types](../Images/db8ed5d5e8a48428beb8a6c2aceb59df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7CHa9-9P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ic0gx2s3wbxxcuipfdob.png)
+[![TypeScript properly checks Action payload types](img/db8ed5d5e8a48428beb8a6c2aceb59df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7CHa9-9P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ic0gx2s3wbxxcuipfdob.png)
 
 人类的胜利，不是吗？
 
@@ -308,7 +308,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这样做很好，但是这样我们就不能再深入到`mapStateToProps`或`mapDispatchToProps`中，因为这些方法是由独立的部分组成我们最终的道具对象的，我们要么让它不类型化，要么用某种类似`Partial<LinkProps>`的变通方法来描述它，至少给我们一些基本的检查:
 
-[![Workaround on mapStateToProps might help a bit](../Images/ea6fa688cd30a90146ac04c729bd587c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H6SI4_lt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ici50whbv60va9952073.png)
+[![Workaround on mapStateToProps might help a bit](img/ea6fa688cd30a90146ac04c729bd587c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H6SI4_lt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ici50whbv60va9952073.png)
 
 注意这里我们也没有合适的类型用于`ownProps`，为了方便起见，我们使用了`any`。此外，这种方法让我们返回这里的`onClick`财产，在这种情况下，我们显然希望只从`mapDispatchToProps`返回。让我们明确一下，把我们的道具分成三个独立的类型:一个是自己的道具(从父组件传递过来)，一个是基于状态的道具，一个是基于派遣的道具:
 

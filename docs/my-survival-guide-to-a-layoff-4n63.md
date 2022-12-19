@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/threedeeprinter/my-survival-guide-to-a-layoff-4n63>
 
-[![Man carrying a box](../Images/86f57b7ecc6f4d2c56b46b0bd283e64a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bsbsZ00R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aqzzk1k8orj3j08if1f5.jpg)
+[![Man carrying a box](img/86f57b7ecc6f4d2c56b46b0bd283e64a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bsbsZ00R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aqzzk1k8orj3j08if1f5.jpg)
 
 #### 免责声明:这绝对不是放之四海而皆准的建议。相应地适应你自己的环境。
 

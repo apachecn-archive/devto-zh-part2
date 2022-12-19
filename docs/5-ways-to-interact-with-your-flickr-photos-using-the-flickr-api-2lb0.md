@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jackhiston/5-ways-to-interact-with-your-flickr-photos-using-the-flickr-api-2lb0>
 
-[![Flickr logo](../Images/cabeb9e762b0978c11798206875716ca.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IELEiREY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g7r7tjxf0mxxrdrn0eme.png) 
+[![Flickr logo](img/cabeb9e762b0978c11798206875716ca.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IELEiREY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g7r7tjxf0mxxrdrn0eme.png) 
 图片来源-[https://pix abay . com/en/Flickr-logo-brand-Yahoo-internet-881367/](https://pixabay.com/en/flickr-logo-brand-yahoo-internet-881367/)
 
 当涉及许多不同的软件应用时，大量的图像数据是有用的。在机器学习中，如果没有训练材料，训练程序如何识别图像中的对象可能是一个很难解决的问题。Flickr 可以成为这种培训材料。Flickr API 是一种挖掘图像数据的绝妙方法。

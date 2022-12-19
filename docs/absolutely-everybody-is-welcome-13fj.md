@@ -22,7 +22,7 @@
 
 # 内含物
 
-[![inclusion](../Images/2eac7a86165bba99eace74358116ff11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TARxGhpP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://arschles.com/images/avg-joes.png)
+[![inclusion](img/2eac7a86165bba99eace74358116ff11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TARxGhpP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://arschles.cimg/avg-joes.png)
 
 我没有办法总结以上列表中的所有事情，但我希望能够对新来者说些什么，无论是什么事情，基本上都要说:“欢迎你来这里，我们会尽一切努力让这里变得更好。”
 

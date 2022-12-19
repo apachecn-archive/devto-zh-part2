@@ -8,7 +8,7 @@
 
 Developer Hub 是一个新的文档产品，它的明确目标是让您快速、轻松地编写和发布文档。它成功了。进入网站后几秒钟内，你就可以创建即时可用的文档。无需构建、转换或模板化您的文档，这是 SaaS 出版最简单的方式。
 
-[![simple wysiwyg editor](../Images/1ca5db1ad8f7862478bfd973ac4ca6ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DPnQYPQw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/ryanhaber/productbrief/content/images/developerhub-wysiwyg.png)
+[![simple wysiwyg editor](img/1ca5db1ad8f7862478bfd973ac4ca6ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DPnQYPQw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/ryanhaber/productbrief/conteimg/developerhub-wysiwyg.png)
 
 开发者中心有一个简单直观的所见即所得编辑器，这意味着任何人都可以使用它。添加图像或代码块就像点击鼠标一样简单。控制面板简单且相当直观。因此，从现有版本创建新版本这样的任务也很容易。
 
@@ -16,7 +16,7 @@ Developer Hub 是一个新的文档产品，它的明确目标是让您快速、
 
 输出简洁明了。
 
-[![clean and simple output](../Images/b03a0dbd6f7f58892ee98c5de9a4dc1b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kjSgT1X0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/ryanhaber/productbrief/content/images/developerhub-output-page.png)
+[![clean and simple output](img/b03a0dbd6f7f58892ee98c5de9a4dc1b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kjSgT1X0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/ryanhaber/productbrief/conteimg/developerhub-output-page.png)
 
 可以玩玩我做的小迷你文档演示: [API 大使演示文档](https://api-ambassador.developerhub.io/v1.1/api-ambassador/getting-started)。
 

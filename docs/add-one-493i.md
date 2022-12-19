@@ -4,7 +4,7 @@
 
 这是我用 Rust 写的一个小程序，可以让你给任何数字加 1
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [ o2sh ](https://github.com/o2sh) / [ add-one](https://github.com/o2sh/add-one)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [ o2sh ](https://github.com/o2sh) / [ add-one](https://github.com/o2sh/add-one)
 
 ### 将数字加 1
 
@@ -12,7 +12,7 @@
 
 # 添加一个
 
-[![crate](../Images/40fbb861894d5fbf35021f7f0345733d.png)](https://crates.io/crates/add-one)[![documentation](../Images/67ddbe17cb25e0858bded9ede396e7ee.png)](https://docs.rs/add-one)[![minimum rustc 1.26](../Images/6115a55e20daa82e8297eec52d0bfd1e.png)](https://camo.githubusercontent.com/a250965d7b2eefa9bb18173f0f2497a22f239679d2eb8b1c7e1e0a458534e0fb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72757374632d253242312e32362d7265642e737667)[![Travis status](../Images/cd5dac20b33f09c5fd0c39acc6da5b03.png)T11】](https://travis-ci.org/o2sh/add-one)
+[![crate](img/40fbb861894d5fbf35021f7f0345733d.png)](https://crates.io/crates/add-one)[![documentation](img/67ddbe17cb25e0858bded9ede396e7ee.png)](https://docs.rs/add-one)[![minimum rustc 1.26](img/6115a55e20daa82e8297eec52d0bfd1e.png)](https://camo.githubusercontent.com/a250965d7b2eefa9bb18173f0f2497a22f239679d2eb8b1c7e1e0a458534e0fb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72757374632d253242312e32362d7265642e737667)[![Travis status](img/cd5dac20b33f09c5fd0c39acc6da5b03.png)T11】](https://travis-ci.org/o2sh/add-one)
 
 > 返回 n + 1。
 

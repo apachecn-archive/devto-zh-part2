@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/contentful_blog/how-to-build-an-ecommerce-static-site-with-jekyll-contentful-and-commerce-layer-3c9>
 
-[![Build an Ecommerce Static Site with Jekyll, Contentful, and Commerce Layer](../Images/bb175d595ff0de903478cc50bee78ce2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rW3_ZSXb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/2djFApVtJu0Ew04oeui0io/d33c6f485351320ba208ad1488caed70/20181106_Commerce_layer-01.png)
+[![Build an Ecommerce Static Site with Jekyll, Contentful, and Commerce Layer](img/bb175d595ff0de903478cc50bee78ce2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rW3_ZSXb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/2djFApVtJu0Ew04oeui0io/d33c6f485351320ba208ad1488caed70/20181106_Commerce_layer-01.png)
 
 有大量的指南展示了如何为基本的电子商务商店使用静态站点生成器(SSG)——其中大多数使用 [Snipcart](https://www.contentful.com/blog/2016/02/10/snipcart-middleman-contentful/?utm_campaign=static-site-jekyll-contentful-commerce-layer&utm_medium=referral&utm_source=devto&utm_content=static-site-jekyll-contentful-commerce-layer&utm_term=) 将购物车功能添加到简单的产品目录中。
 
@@ -37,7 +37,7 @@
 下图概述了这些工具如何在整体架构中相互配合。如您所见，每个工具都专用于管道的特定步骤，为内容编辑和发布工作流做出贡献。
 
 {:img }
-[![How the tools fit together in the overall architecture](../Images/50b43164b9ab08ecf2067b25f6358a40.png)T3】](//images.ctfassets.net/fo9twyrwpveg/7wyKYa2crCCCUemOY6sMgY/c0f1164469d6846c880ae45e99af32a6/image_0.png)
+[![How the tools fit together in the overall architecture](img/50b43164b9ab08ecf2067b25f6358a40.png)T3】](//images.ctfassets.net/fo9twyrwpveg/7wyKYa2crCCCUemOY6sMgY/c0f1164469d6846c880ae45e99af32a6/image_0.png)
 
 让我们来看看图表的每一步:
 
@@ -51,7 +51,7 @@
 工作流程的第二步是内容编辑在 Contentful 中管理产品目录。这是决定网站如何运作的关键步骤。下图概述了我们为支持多国家、多语言结构而设计的内容模型:
 
 {:img }
-[![Content model that we designed to support the multi-country, multi-language structure](../Images/e3f35ac03f3a30acdfe08bd52f728a7f.png)T3】](//images.ctfassets.net/fo9twyrwpveg/1kmova7aFEcY0ciqccKi2Y/83875f4d6b9f0c779203ec106d830c12/image_1.png)
+[![Content model that we designed to support the multi-country, multi-language structure](img/e3f35ac03f3a30acdfe08bd52f728a7f.png)T3】](//images.ctfassets.net/fo9twyrwpveg/1kmova7aFEcY0ciqccKi2Y/83875f4d6b9f0c779203ec106d830c12/image_1.png)
 
 让我们描述一下每个模型、它们的角色和关系:
 
@@ -68,17 +68,17 @@
 **当代码变更**时，开发者将变更推送到 Github，触发 Netlify 上的新构建。build 命令从 Contentful ( `jekyll contentful`)获取所有发布的内容，并构建静态站点(`jekyll build`)。
 
 {:img }
-[![Build command fetches published content from Contentful and builds the static site](../Images/7e0ab6cc378691adc3fb7bdbbc81186e.png)T3】](//images.ctfassets.net/fo9twyrwpveg/2CyRtcsFjekaMYYEMcsKkC/9e2c599dd9f1f63cd852834e1aa11402/image_2.png)
+[![Build command fetches published content from Contentful and builds the static site](img/7e0ab6cc378691adc3fb7bdbbc81186e.png)T3】](//images.ctfassets.net/fo9twyrwpveg/2CyRtcsFjekaMYYEMcsKkC/9e2c599dd9f1f63cd852834e1aa11402/image_2.png)
 
 **当内容发生变化**时，内容编辑点击 Contentful 上的发布按钮。为了触发每个发布的新构建，我们需要在 Netlify 上创建一个构建挂钩...
 
 {:img }
-[![Creating a build hook on Netlify](../Images/21089f401445e57b6fb920a763dae676.png)T3】](//images.ctfassets.net/fo9twyrwpveg/6AiWsiI0ogUKGeIG8QQsEo/bde3563a6c0b2a21763eb1a34bbf4c54/image_3.png)
+[![Creating a build hook on Netlify](img/21089f401445e57b6fb920a763dae676.png)T3】](//images.ctfassets.net/fo9twyrwpveg/6AiWsiI0ogUKGeIG8QQsEo/bde3563a6c0b2a21763eb1a34bbf4c54/image_3.png)
 
 ...并将其链接到 Contentful 上的 publish webhook:
 
 {:img }
-[![Link it to the publish webhook on Contentful](../Images/593d4a736670dcba10cb74d5f3b1ff6d.png)T3】](//images.ctfassets.net/fo9twyrwpveg/4Ro8Wdbbzy0kaKu6SW4Yoc/ad2d0db739cf47b4846b45b308948b75/image_4.png)
+[![Link it to the publish webhook on Contentful](img/593d4a736670dcba10cb74d5f3b1ff6d.png)T3】](//images.ctfassets.net/fo9twyrwpveg/4Ro8Wdbbzy0kaKu6SW4Yoc/ad2d0db739cf47b4846b45b308948b75/image_4.png)
 
 **当商务发生变化**时，我们不需要触发任何新的构建，因为价格和库存是从静态网站 JavaScript 动态获取的。
 
@@ -89,14 +89,14 @@
 当客户进入站点并选择送货国家时，这个包含的 JavaScript 库获得一个 OAuth2 访问令牌，将相关的市场 ID 放入请求范围。**所有后续请求的范围都是该市场**。
 
 {:img }
-[![Customer chooses a country](../Images/32d240caecb46721a5a6adedd3ffddbc.png)T3】](//images.ctfassets.net/fo9twyrwpveg/2KzMdAHauAQkaKYay0mWiO/6ff50dfa12cd168ca67206c5e863bba8/image_5.png)
+[![Customer chooses a country](img/32d240caecb46721a5a6adedd3ffddbc.png)T3】](//images.ctfassets.net/fo9twyrwpveg/2KzMdAHauAQkaKYay0mWiO/6ff50dfa12cd168ca67206c5e863bba8/image_5.png)
 
 范围内的市场决定了由商业层内的商家定义的正确的价目表、库存模型、促销、支付和运输方法。作为开发人员，您只需要使用正确的访问令牌来获取特定国家的商务数据，并让客户无误地下订单。
 
 作为一个静态网站，所有页面都是由 Netlify CDN 提供的普通 HTML 文件。唯一的动态信息由商业层 API 提供，如下图(红框)所示，用于每个相关页面。
 
 {:img }
-[![Dynamic information provided by Commerce Layer API](../Images/5b1039905ff30653674f89ee0fc7931f.png)T3】](//images.ctfassets.net/fo9twyrwpveg/4qgp7K3aiscmUUaKa8u4ae/ea8763b37c1ee7cbdadf62b09de5df30/image_6.png)
+[![Dynamic information provided by Commerce Layer API](img/5b1039905ff30653674f89ee0fc7931f.png)T3】](//images.ctfassets.net/fo9twyrwpveg/4qgp7K3aiscmUUaKa8u4ae/ea8763b37c1ee7cbdadf62b09de5df30/image_6.png)
 
 如您所见，并非所有页面都需要来自商业层的相同类型的数据:
 
@@ -114,7 +114,7 @@
 当顾客进行结帐时，他们被重定向到商业层托管的结帐应用程序，在那里他们可以添加所有需要的信息并下订单。
 
 {:img }
-[![Commerce Layer hosted checkout page](../Images/fd98696ed22b678653e6b41f2f1bf161.png)T3】](//images.ctfassets.net/fo9twyrwpveg/47fnE4U4esAcu8qkcu6skq/94984bd99b855bd0adc68cc78fb8e3a1/image_7.png)
+[![Commerce Layer hosted checkout page](img/fd98696ed22b678653e6b41f2f1bf161.png)T3】](//images.ctfassets.net/fo9twyrwpveg/47fnE4U4esAcu8qkcu6skq/94984bd99b855bd0adc68cc78fb8e3a1/image_7.png)
 
 这是缩短上市时间并在内容目录准备就绪后立即开始销售的最简单的解决方案。也就是说，Commerce Layer 还提供 API 来在您自己的站点上创建定制的体验。请记住，这需要我们向静态站点添加一些服务器端组件，至少要管理认证并安全地存储它的`client_secret`。
 

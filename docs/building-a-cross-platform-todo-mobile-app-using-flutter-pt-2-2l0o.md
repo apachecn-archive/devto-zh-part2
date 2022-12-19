@@ -4,7 +4,7 @@
 
 <figure>
 
-[![Photo by Randall Ruiz on Unsplash](../Images/3760be5a6e6f010c1dad3beabd1c51cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8iL4wB-l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Aw7Zz6iKz6BKWrUaYwYcI8Q.jpeg)
+[![Photo by Randall Ruiz on Unsplash](img/3760be5a6e6f010c1dad3beabd1c51cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8iL4wB-l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Aw7Zz6iKz6BKWrUaYwYcI8Q.jpeg)
 
 <figcaption>Photo by Randall Ruiz on Unsplash</figcaption>
 

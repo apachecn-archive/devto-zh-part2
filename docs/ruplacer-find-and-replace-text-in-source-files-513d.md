@@ -10,7 +10,7 @@
 
 基本上，它在源文件中查找并替换文本。下面是 ruplacer 的一个截图:
 
-[![ruplacer screenshot](../Images/f4edb4979ccc5bc43ea5df9523de5003.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VIY745ja--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/ruplacer.png)
+[![ruplacer screenshot](img/f4edb4979ccc5bc43ea5df9523de5003.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VIY745ja--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/ruplacer.png)
 
 一些不错的功能:
 

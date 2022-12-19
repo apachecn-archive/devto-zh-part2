@@ -199,13 +199,13 @@ gretty {
 
 您可以通过 [http://localhost:8080](http://localhost:8080) 访问您的应用程序，您将看到以下页面:
 
-[![Sample JavaScript-enabled client for testing the WebSocket server.](../Images/ec964e3dc81ba53c8bd303a10c16b735.png)T2】](https://www.nexmo.com/wp-content/uploads/2018/10/2018-10-01-13-38-05.png)
+[![Sample JavaScript-enabled client for testing the WebSocket server.](img/ec964e3dc81ba53c8bd303a10c16b735.png)T2】](https://www.nexmo.com/wp-content/uploads/2018/10/2018-10-01-13-38-05.png)
 
 “connected”消息表示 JavaScript 客户端能够建立连接。
 
 尝试通过在输入字段中键入并点击发送按钮来发送文本消息。也可以试着上传一张图片。在这两种情况下，您应该看到相同的消息和图像回显。
 
-[![Sample JavaScript-enabled client showing a text and binary message echoed back.](../Images/2fefb02b61ba75a7cf2851affdee20c9.png)T2】](https://www.nexmo.com/wp-content/uploads/2018/10/2018-10-01-14-23-40.png)
+[![Sample JavaScript-enabled client showing a text and binary message echoed back.](img/2fefb02b61ba75a7cf2851affdee20c9.png)T2】](https://www.nexmo.com/wp-content/uploads/2018/10/2018-10-01-14-23-40.png)
 
 ## 结论
 

@@ -8,7 +8,7 @@
 
 虽然从 2011 年我的职业生涯开始以来，JavaScript 一直是前端开发的支柱，但当 Node/NPM 火箭起飞时，我冷静地看着。不在乎。让我们看看它去哪里。
 
-[![Homer and Bart simpson miss a rocket takeoff](../Images/9fe670c682c04d6460f2abf033033f47.png)T2】](https://i.giphy.com/media/1SzFgSCH7LO9ntW9WT/giphy.gif)
+[![Homer and Bart simpson miss a rocket takeoff](img/9fe670c682c04d6460f2abf033033f47.png)T2】](https://i.giphy.com/media/1SzFgSCH7LO9ntW9WT/giphy.gif)
 
 现在，JavaScript 可能是所有语言中最令人兴奋和最繁荣的社区，这是一个有吸引力的前景(尽管它有好的一面也有坏的一面)！不过，似乎不值得费心去了解所有的工具，更不用说下载和设置它们了。另外，当你无知的时候，你不知道你不知道多少。好像很多。
 
@@ -16,19 +16,19 @@
 
 我第一次听说 Glitch 是在 Hyperdev 的一次设计回顾会上，但我并没有多想，直到 GitHub 的一些鼓舞人心的女士和我 twitter 上的其他人开始谈论它并使用它。
 
-[![Glitch logo](../Images/bfecbc435d9fe7551b5f08c0fadc180c.png)T2】](https://glitch.com)
+[![Glitch logo](img/bfecbc435d9fe7551b5f08c0fadc180c.png)T2】](https://glitch.com)
 
 我发现看着你尊敬的人享受某件事是想要参与的最可靠的方式！我参与 GitHub 是因为看着那些人开心地互相编码，Glitch 就像历史在我身上重演。
 
 我第一次真正使用 Glitch 是一个难得的机会，可以花一些时间和我的侄子在一起。我们决定一起学习一些代码。我想帮助他在互联网上制作自己的现实生活网站，格林奇突然出现在我的脑海里。我们做了一些东西，在我把它发到了推特上之后，我真的受到了反馈的鼓舞！
 
-> ![Anil Dash profile image](../Images/85369669d144481c1c909e9a3a6f45fb.png)安尼尔达什@安尼尔达什![twitter logo](../Images/ad0c7b03deabfe1a161345efb2d537eb.png)好爱这个故事！欢迎来到 Glitch 社区。:)[twitter.com/SteGriff/statu…](https://t.co/ocWFpAYvi1)22:15PM-2018 年 7 月 19 日Ste Griffiths@ Ste Griff花了一晚上的时间和我超级聪明的侄子在@Glitch 上教他怎么做网站！#StayingUpLate 检出 https://t.co/T1KTMfrWT2 https://t.co/r4cTEnmQyV[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1020069528481517572)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1020069528481517572)1[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1020069528481517572)12
+> ![Anil Dash profile image](img/85369669d144481c1c909e9a3a6f45fb.png)安尼尔达什@安尼尔达什![twitter logo](img/ad0c7b03deabfe1a161345efb2d537eb.png)好爱这个故事！欢迎来到 Glitch 社区。:)[twitter.com/SteGriff/statu…](https://t.co/ocWFpAYvi1)22:15PM-2018 年 7 月 19 日Ste Griffiths@ Ste Griff花了一晚上的时间和我超级聪明的侄子在@Glitch 上教他怎么做网站！#StayingUpLate 检出 https://t.co/T1KTMfrWT2 https://t.co/r4cTEnmQyV[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1020069528481517572)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1020069528481517572)1[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1020069528481517572)12
 
 这有点虚荣，但得到团队的认可让我想更多地使用 Glitch。我想这表明制造 Glitch 的人实际上关心人们使用它的乐趣。所以我又用了一些！
 
 ## 小故障和 JavaScript
 
-[![Prepare for trouble, and make it double](../Images/379c86fee6e63869eb0e3edfa2c7a316.png)T2】](https://i.giphy.com/media/lDrg1c0wl2vy8/giphy.gif)
+[![Prepare for trouble, and make it double](img/379c86fee6e63869eb0e3edfa2c7a316.png)T2】](https://i.giphy.com/media/lDrg1c0wl2vy8/giphy.gif)
 
 Glitch 低调地支持一系列运行时(T1)，但是它的第一语言是 JavaScript。所有基本的示例项目目前都是 JS，所以当我开始修改这些模板时，选择服务器端 JS 就成了乐趣和挑战的一部分。我最后一次尝试 Express 是在很多年前我还是一名初级开发人员的时候，当时我被吓到了。但是那时候:
 
@@ -58,4 +58,4 @@ C .我对路由、API 和像 NPM 这样的包管理器了解得更少
 *   你觉得怎么样？
 *   你如何看待用一系列“尖峰”组成一个更大的项目？
 
-[![High five cat gif](../Images/5fd2b07e838bbeeef13ae1f8e852d785.png)T2】](https://i.giphy.com/media/vnnoqBjIrJ73y/giphy.gif)
+[![High five cat gif](img/5fd2b07e838bbeeef13ae1f8e852d785.png)T2】](https://i.giphy.com/media/vnnoqBjIrJ73y/giphy.gif)

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/the-question-of-why-in-single-page-application-frameworks-39ke>
 
-[![](../Images/d456b09c05eb43f9254d0eede5d29f41.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aMiZHq0G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AYj1k9fSfHrLNyBUdJvee7A.jpeg)
+[![](img/d456b09c05eb43f9254d0eede5d29f41.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aMiZHq0G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AYj1k9fSfHrLNyBUdJvee7A.jpeg)
 
 多年来,“单页应用程序”一词已经成为一种特殊类型的网站和一种 web 开发模式的代名词。当一个网站被构建得更像桌面应用程序而不是传统的静态 web 文档时，它可以被视为单页应用程序(SPA ),利用结构化 Javascript 连接到服务器端服务，为您的平均 web 体验增加平滑性和动态性。
 
@@ -10,7 +10,7 @@
 
 这个短语本身可以追溯到 2002 年，当时 Tibco Software 的几个工程师实际上为早期单页面应用程序背后的技术申请了专利。大约在同一时间，Slashdotslash.com 出现了，它是首批在线 web 应用程序之一，是一个实验新 web 技术的沙箱，所有这些都在一个 HTML 文档中，无需刷新页面。
 
-[![](../Images/64ebcfbaa2c946867dfe531aebf9f2ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tg_L7QKv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/803/1%2AzHXWJX9ThJC8oUatSRk_wg.png)
+[![](img/64ebcfbaa2c946867dfe531aebf9f2ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tg_L7QKv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/803/1%2AzHXWJX9ThJC8oUatSRk_wg.png)
 
 但是事情真正开始于 2008 年，当时杰西·詹姆斯·加瑞特给 AJAX 起了个名字，这是一种允许开发者向服务器发出动态请求而无需加载新页面的技术。
 
@@ -28,7 +28,7 @@
 
 请记住，这绝不是一个全面的列表，但我认为它很好地代表了框架的轨迹。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### Backbone.js
 
@@ -108,7 +108,7 @@ Preact 的既定目标一直是完全高于——以更少的性能成本(因此
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

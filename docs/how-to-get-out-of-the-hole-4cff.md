@@ -20,6 +20,6 @@
 
 非常感谢所有的支持，我就在这里，如果有人想谈谈，不管是什么。我回来了！！！
 
-[![](../Images/ffc5e36b2b0356a475d25c22368e07da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cJg0psxz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/c4h5A0/IMG-2613.jpg)
+[![](img/ffc5e36b2b0356a475d25c22368e07da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cJg0psxz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/c4h5A0/IMG-2613.jpg)
 
 拥抱和哈士奇爱！

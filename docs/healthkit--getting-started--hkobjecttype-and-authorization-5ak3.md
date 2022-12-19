@@ -14,7 +14,7 @@ HealthKit 是构建健康、健身和锻炼应用程序时最重要的 API。Hea
 
 例如，我已经开始在踏步机上锻炼 30 分钟。在这段时间里，我会改变机器的速度，让我的心率在每分钟 150 到 125 次之间波动，每次 15 到 30 秒。现在，我使用苹果手表上的内置锻炼应用程序，在整个锻炼过程中检查我的心率。
 
-[![](../Images/63b1dd159559a22442084296562e198c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KL0zStBo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2484/0%2AcVlPZdc5MtuA-t2y.)
+[![](img/63b1dd159559a22442084296562e198c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KL0zStBo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2484/0%2AcVlPZdc5MtuA-t2y.)
 
 然而，如果有一个定制的应用程序能够在一段时间内当我达到一定的心率时通知我，那就更好了。作为 Apple Watch 的所有者，他从第一天起就为 Apple Watch 开发了自己的应用程序，这是一个了解 HealthKit 更多信息的好机会。
 
@@ -24,7 +24,7 @@ HealthKit 中的一个关键类是`HKObjectType`。`HKObjectType`是定义不同
 hkobjecttype . quantity type(for identifier:。heartRate)
 另一个 HKObjectType 是 HKWorkoutType，通过调用 HKObjectType.workoutType()来访问。
 
-[![](../Images/122728c195a55c3b8382e6d8b07ae9f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B44UQVG3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AU-2aKHIoHZf428h_.)
+[![](img/122728c195a55c3b8382e6d8b07ae9f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B44UQVG3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AU-2aKHIoHZf428h_.)
 
 对于这些类型，我们要做的第一件事是向用户请求读写 HealthKit 的权限。
 
@@ -36,7 +36,7 @@ hkobjecttype . quantity type(for identifier:。heartRate)
 
 接下来通过类 HKHealthStore 访问 HealthKit。调用 HKHealthStore()实例化一个要在整个应用程序中使用的对象。使用 HKHealthStore 对象，通过。request authorization(to share:，read:，completion:)方法。toShare 和 read 参数采用一组可选的 HKSampleType(数据样本的 HKObjectType 子类)进行写入，并采用一组可选的 HKObjectType 进行读取。
 
-[![](../Images/aaba30613a064050faac235df803c9bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hw59DHd6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AgMieSTTWZYpOyy4a.)
+[![](img/aaba30613a064050faac235df803c9bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hw59DHd6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AgMieSTTWZYpOyy4a.)
 
 **每当这个方法带有新的**HKObjectType** 或 **HKSampleType** 对象时(比如第一次运行 app 时)，就会显示权限屏幕。* *
 request authorization 是一个异步方法，这意味着一旦请求完成，就会调用完成。完成闭包是您开始与用户交互并开始查询数据的地方。

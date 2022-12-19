@@ -109,15 +109,15 @@ Enter fullscreen mode Exit fullscreen mode
 
 当我加载页面时，只考虑了第一个*提示，第二个提示什么也没做。它似乎被忽视了。*
 
-[!["Active Prerender"](../Images/0d714718456a663f169d2241b07c77b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yoPmcjBD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_86E490487AB28BDE8348427E1A325AD17E133E23ED436D4676C93BA3733A0D42_1540836925727_load-1.png)
+[!["Active Prerender"](img/0d714718456a663f169d2241b07c77b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yoPmcjBD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_86E490487AB28BDE8348427E1A325AD17E133E23ED436D4676C93BA3733A0D42_1540836925727_load-1.png)
 
 有趣的是，在我刷新了同一个页面之后，*第二个* URL 被主动预呈现，第一个提示被指定为“重复”显然，浏览器会保留先前预呈现的页面，至少会保留一段时间。
 
-[!["Active Prerender"](../Images/7721f118c203a6ed4dad08a6307863f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UC3JxXjf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_86E490487AB28BDE8348427E1A325AD17E133E23ED436D4676C93BA3733A0D42_1540836932646_load-2.png)
+[!["Active Prerender"](img/7721f118c203a6ed4dad08a6307863f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UC3JxXjf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_86E490487AB28BDE8348427E1A325AD17E133E23ED436D4676C93BA3733A0D42_1540836932646_load-2.png)
 
 当我再次刷新时，两者都没有被预渲染。
 
-[!["Active Prerender"](../Images/c3c04f91adc51a8810544fb5ace272f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_Vr4ZtHU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_86E490487AB28BDE8348427E1A325AD17E133E23ED436D4676C93BA3733A0D42_1540836936908_load-3.png)
+[!["Active Prerender"](img/c3c04f91adc51a8810544fb5ace272f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_Vr4ZtHU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_86E490487AB28BDE8348427E1A325AD17E133E23ED436D4676C93BA3733A0D42_1540836936908_load-3.png)
 
 这里学到的经验是，浏览器会预渲染它发现的第一个尚未缓存的提示(如果我们可以这样称呼它的话)。一旦 prerender 进程开始，以下任何`prerender`提示都是无用的。
 
@@ -157,7 +157,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当我悬停在第*个*链接上时，一切正常。我用 Net Internals 工具和[谷歌的任务管理器](https://www.lifewire.com/google-chrome-task-manager-4103619)面板验证了这个 URL 是预加载的:
 
-[![](../Images/ee27e103afe92d27a2f67b3d443f7eb6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--McP-9-0C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_86E490487AB28BDE8348427E1A325AD17E133E23ED436D4676C93BA3733A0D42_1540932164500_image.png)
+[![](img/ee27e103afe92d27a2f67b3d443f7eb6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--McP-9-0C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_86E490487AB28BDE8348427E1A325AD17E133E23ED436D4676C93BA3733A0D42_1540932164500_image.png)
 
 但是在随后的盘旋中，令我沮丧的是，什么都没有改变。相同的初始链接保持“活动”，并且我没有通过悬停在任何其他链接上获得任何东西。事后看来，这非常有意义，因为我们通过硬编码提示发现了什么。当浏览器启动一个 prerender 进程时，您不能启动另一个进程。这使得有效地利用 JavaScript 来预呈现多个页面变得相当困难，因为一旦完成，它就完成了。
 

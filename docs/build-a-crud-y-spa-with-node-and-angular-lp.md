@@ -43,7 +43,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您现在应该能够在`http://localhost:4200`访问一个非常简单的默认应用程序。当您对代码进行更改时，页面将会自动刷新以显示最新的更改。
 
-[![Angular CLI default homepage](../Images/6232533769c173edc80569a05c26c0e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8js4xrkE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-angular-crud/ng-homepage-ddbda9b0addc1b39ff05d07bc213c5d43aa91939a16f41672c02d36a9ddb8e09.png)
+[![Angular CLI default homepage](img/6232533769c173edc80569a05c26c0e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8js4xrkE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-angular-crud/ng-homepage-ddbda9b0addc1b39ff05d07bc213c5d43aa91939a16f41672c02d36a9ddb8e09.png)
 
 ## 用素材 UI 创建基本主页
 
@@ -184,7 +184,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这应该是它得到一个基本的主页启动和运行。您的站点现在应该看起来像这样:
 
-[![basic home page with material design](../Images/57c97200052d3eaa3e0a6ee8e1e5813b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WVm5PZbS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-angular-crud/basic-crud-homepage-7163c463a944ecdde482b33391a1b2609b07c73f4cc5339ec72cbc1983babdb2.png)
+[![basic home page with material design](img/57c97200052d3eaa3e0a6ee8e1e5813b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WVm5PZbS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-angular-crud/basic-crud-homepage-7163c463a944ecdde482b33391a1b2609b07c73f4cc5339ec72cbc1983babdb2.png)
 
 ## 用 Okta 给你的 Node + Angular App 添加认证
 
@@ -200,7 +200,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 由于从 Angular CLI 生成的应用程序默认运行在端口 4200 上，因此您应该将其设置为基本 URI 和登录重定向 URI。您的设置应该如下所示:
 
-[![Create New Application settings](../Images/7f0176a8b3e664fbf32e43df2a39bd7b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FzKkMSB5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-angular-crud/create-new-application-settings-0fcc92ff623498d1363f98678f3bde1ad0adcfc35cd0e8c6ec46e0412d8f24f5.png)
+[![Create New Application settings](img/7f0176a8b3e664fbf32e43df2a39bd7b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FzKkMSB5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-angular-crud/create-new-application-settings-0fcc92ff623498d1363f98678f3bde1ad0adcfc35cd0e8c6ec46e0412d8f24f5.png)
 
 点击 **Done** 保存你的 app，然后复制你的**客户端 ID** 。
 
@@ -418,13 +418,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，您应该可以通过 Okta 登录和退出了，并且只有通过身份验证后，您才能访问帖子管理器页面。当您单击登录按钮或尝试转到帖子管理器时，您将被重定向到您的 Okta 组织 URL 以处理身份验证。您可以使用在开发人员控制台中使用的相同凭据登录。
 
-[![Okta Sign In](../Images/2fabdfe16e37cc17f93323c0bddd7f00.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qcJzNboU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-angular-crud/okta-sign-in-9d686e86e4d63d4e5ceb12e5cd266f3224311a8ca59d1caacfb040c7dc7de5d0.png)
+[![Okta Sign In](img/2fabdfe16e37cc17f93323c0bddd7f00.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qcJzNboU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-angular-crud/okta-sign-in-9d686e86e4d63d4e5ceb12e5cd266f3224311a8ca59d1caacfb040c7dc7de5d0.png)
 
 您的应用程序现在应该如下所示:
 
-[![Homepage with navigation](../Images/5993826cebce564409cb642688e4463b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MKf014ab--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-angular-crud/homepage-with-nav-00824599aef6756b8b036ac61ac1b31d8b9423355a370c8d228913936c170ad5.png)
+[![Homepage with navigation](img/5993826cebce564409cb642688e4463b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MKf014ab--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-angular-crud/homepage-with-nav-00824599aef6756b8b036ac61ac1b31d8b9423355a370c8d228913936c170ad5.png)
 
-[![Blank posts manager](../Images/9a90388fa2b090eb44438ee739d38b94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sRHBKxAR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-angular-crud/blank-posts-manager-27f8c3816b090630dec1c7d35a3e46ee4a34a95f6d2c14136e1fb8b5602b1ac1.png)
+[![Blank posts manager](img/9a90388fa2b090eb44438ee739d38b94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sRHBKxAR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-angular-crud/blank-posts-manager-27f8c3816b090630dec1c7d35a3e46ee4a34a95f6d2c14136e1fb8b5602b1ac1.png)
 
 ## 添加一个后端 REST API 服务器
 
@@ -1310,9 +1310,9 @@ Enter fullscreen mode Exit fullscreen mode
 
 导航到 [http://localhost:4200](http://localhost:4200) 。你应该能够随心所欲地添加、编辑、查看和删除帖子！
 
-[![New Post](../Images/343a2027ae8f3fa6a03b85a383b0076b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xy40zBAN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-angular-crud/new-post-0fb305a87c7ed83a360f1ba4a6ed74ccecf2f23912168490a85bd58801e7dfeb.png)
+[![New Post](img/343a2027ae8f3fa6a03b85a383b0076b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xy40zBAN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-angular-crud/new-post-0fb305a87c7ed83a360f1ba4a6ed74ccecf2f23912168490a85bd58801e7dfeb.png)
 
-[![List of Posts](../Images/96067c0568a2f9948d797bcf9bf7a2dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7EsrR8Qu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-angular-crud/posts-list-0ee4fbe792169823b836a560ba31780fcaef3d03dd1ff7a675014c0521312ff2.png)
+[![List of Posts](img/96067c0568a2f9948d797bcf9bf7a2dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7EsrR8Qu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/node-angular-crud/posts-list-0ee4fbe792169823b836a560ba31780fcaef3d03dd1ff7a675014c0521312ff2.png)
 
 ## 了解有关角度、节点和应用安全性的更多信息
 

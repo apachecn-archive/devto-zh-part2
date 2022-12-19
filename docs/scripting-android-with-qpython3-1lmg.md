@@ -4,7 +4,7 @@
 
 这是我(初出茅庐，由于普遍缺乏效率而被放弃)的纯移动脚本开发工作流程[(全文在此)](http://blog.matthewodle.com/roll-your-own-name-generator-with-qpython3-on-an-android-device/)。
 
-[![](../Images/3ae8943350c4d2333fa516c1cc376488.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4SJTF62m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.matthewodle.com/wp-content/uploads/2018/02/generated-names-300x97.png)
+[![](img/3ae8943350c4d2333fa516c1cc376488.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4SJTF62m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.matthewodle.com/wp-content/uploads/2018/02/generated-names-300x97.png)
 
 * * *
 
@@ -56,19 +56,19 @@
 
 ## 运行 Qpython3，打开 hello_world.py
 
-[![QPython3 Home](../Images/499a7fc1fff62109c0955c8b1c28a142.png "QPython3 Home")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FcA1UlUS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.matthewodle.com/wp-content/uploads/2018/02/1-qpython-main.png)
+[![QPython3 Home](img/499a7fc1fff62109c0955c8b1c28a142.png "QPython3 Home")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FcA1UlUS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.matthewodle.com/wp-content/uploads/2018/02/1-qpython-main.png)
 
 选择`Programs` > `hello_world.py` > `Open`查看脚本内容。
 
-[![QPython3 Open](../Images/15704ed70cd03293549edd20826114fe.png "QPython3 Open")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f-S7pbbd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.matthewodle.com/wp-content/uploads/2018/02/3-qpython-open.png)
+[![QPython3 Open](img/15704ed70cd03293549edd20826114fe.png "QPython3 Open")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f-S7pbbd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.matthewodle.com/wp-content/uploads/2018/02/3-qpython-open.png)
 
-[![QPython3 Hello World Contents](../Images/87f590fe8809d35ed50f2a6a8c375ac8.png "QPython3 Hello World Contents")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8ZaDRqN6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.matthewodle.com/wp-content/uploads/2018/02/4-qpython-hello-world-contents.png)
+[![QPython3 Hello World Contents](img/87f590fe8809d35ed50f2a6a8c375ac8.png "QPython3 Hello World Contents")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8ZaDRqN6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.matthewodle.com/wp-content/uploads/2018/02/4-qpython-hello-world-contents.png)
 
 这里超标准的 python3。该脚本使用 [SL4A 库](http://pythoncentral.io/python-for-android-the-scripting-layer-sl4a/)(Android 的脚本层)来显示 Android toast，然后将`Hello world!`打印到控制台。
 
 单击脚本编辑器屏幕底部工具栏上的右箭头运行脚本。你也可以退出编辑器，再次点击`hello_world.py`，选择`Run`。
 
-[![QPython3 Hello World Execution](../Images/41e31c3fd40dadc29436af09873cf333.png "QPython3 Hello World Execution")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G2m5wIGw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.matthewodle.com/wp-content/uploads/2018/02/5-qpython-hello-world-execution.png)
+[![QPython3 Hello World Execution](img/41e31c3fd40dadc29436af09873cf333.png "QPython3 Hello World Execution")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G2m5wIGw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.matthewodle.com/wp-content/uploads/2018/02/5-qpython-hello-world-execution.png)
 
 就是这样！
 
@@ -84,7 +84,7 @@
 
 首先，我们需要加载文件内容。我编写了一个快速 loadfile 函数，它接受一个文件名并返回文件中包含的字符串列表。
 
-[![QPython3 Namegen Assets](../Images/39760b83d0d668af87b14b4ce6279c80.png "QPython3 Namegen Assets")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jJ0qXzrA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.matthewodle.com/wp-content/uploads/2018/02/10-qpython-assets.png)
+[![QPython3 Namegen Assets](img/39760b83d0d668af87b14b4ce6279c80.png "QPython3 Namegen Assets")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jJ0qXzrA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.matthewodle.com/wp-content/uploads/2018/02/10-qpython-assets.png)
 
 `weapons.txt`
 
@@ -112,7 +112,7 @@ def loadfile(filename):
 
 ```
 
-[![QPython3 fileutils.py](../Images/62eca08f6500f538c40b9531bfd33fa0.png "QPython3 fileutils.py")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GKbrwFWH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.matthewodle.com/wp-content/uploads/2018/02/30-qpython-fileutils.png)
+[![QPython3 fileutils.py](img/62eca08f6500f538c40b9531bfd33fa0.png "QPython3 fileutils.py")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GKbrwFWH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.matthewodle.com/wp-content/uploads/2018/02/30-qpython-fileutils.png)
 
 这个`root_path`很难看，但是 QPython3 不支持相对路径。可以通过使用`os`库来改进:
 
@@ -188,11 +188,11 @@ for weapon in weapons:
 
 ```
 
-[![QPython3 Namegen Code](../Images/8f0ba171f21aa2583c5d7b9446d0d377.png "QPython3 Namegen Code")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UCMsnW0N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.matthewodle.com/wp-content/uploads/2018/02/20-namegen-code.png)
+[![QPython3 Namegen Code](img/8f0ba171f21aa2583c5d7b9446d0d377.png "QPython3 Namegen Code")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UCMsnW0N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.matthewodle.com/wp-content/uploads/2018/02/20-namegen-code.png)
 
 在您的控制台中，您应该会看到类似这样的内容:
 
-[![QPython3 Generated Names](../Images/01292ac903655fbe94286c33accba6b5.png "QPython3 Generated Names")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sIzLQppE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.matthewodle.com/wp-content/uploads/2018/02/40-qpython-generated-names.png)
+[![QPython3 Generated Names](img/01292ac903655fbe94286c33accba6b5.png "QPython3 Generated Names")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sIzLQppE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.matthewodle.com/wp-content/uploads/2018/02/40-qpython-generated-names.png)
 
 # 结论
 

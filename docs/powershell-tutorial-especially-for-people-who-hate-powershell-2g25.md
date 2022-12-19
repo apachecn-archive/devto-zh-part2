@@ -17,7 +17,7 @@
 
 第一次发现终端是在听说 Python 的时候，对什么都不懂。和一般人用电脑做游戏和 Excel、PowerPoint 之类的应用一样，我去了 [Python 网站](https://www.python.org/)，下载了安装程序，安装好，点击图标。想象一下当这样的事情出现时我有多害怕:
 
-[![The Python REPL](../Images/10365b6faad965d4870b70169cad0c1b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lZApZ0GM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assertnotmagic.com/img/python-repl.png)
+[![The Python REPL](img/10365b6faad965d4870b70169cad0c1b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lZApZ0GM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assertnotmagic.com/img/python-repl.png)
 
 按钮在哪里？老式字体是怎么回事？我用我的鼠标做什么？
 
@@ -29,11 +29,11 @@
 
 所以我决定利用我新发现的编程能力去工作。除了我是一名机械工程师，这通常意味着 SolidWorks 和 Windows。于是我打开了推荐的终端，PowerShell。让我震惊的是:
 
-[![The PowerShell terminal](../Images/2e6126d0e2863dff68d256a5081105ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ruQ6SfIr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assertnotmagic.com/img/powershell-1.png)
+[![The PowerShell terminal](img/2e6126d0e2863dff68d256a5081105ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ruQ6SfIr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assertnotmagic.com/img/powershell-1.png)
 
 没问题，我想。我只需转到首选项屏幕。
 
-[![PowerShell preferences](../Images/5f94de711a73d8517b1d615b5f1919ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--skGJFHOk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assertnotmagic.com/img/powershell-customize.png)
+[![PowerShell preferences](img/5f94de711a73d8517b1d615b5f1919ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--skGJFHOk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assertnotmagic.com/img/powershell-customize.png)
 
 哦，不。我们已经不在堪萨斯了。不完全是我所习惯的。于是我就进了 PowerShell，尝试做一些简单的事情。有些东西工作得很好！`ls`、`cd`和`mkdir`都像我习惯的那样工作。但是我不明白为什么设置`$PATH`这么难。这些反弹是怎么回事？我怎么就不能`sudo`？
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/scalegrid/the-future-of-the-application-stack-3170>
 
-[![The Future Of The Application Stack: Kubernetes, PaaS and DBaaS - ScaleGrid Blog](../Images/9a1198943ce5ec613fde6846e4018f87.png)T2】](https://scalegrid.io/blog/the-future-of-the-application-stack/)
+[![The Future Of The Application Stack: Kubernetes, PaaS and DBaaS - ScaleGrid Blog](img/9a1198943ce5ec613fde6846e4018f87.png)T2】](https://scalegrid.io/blog/the-future-of-the-application-stack/)
 
 集装箱正在吞噬世界。如果您在过去几年中已经在生产环境中构建和部署了一个应用程序，那么您很可能已经在容器中部署了您的代码。您可能已经创建并部署了单独的容器( [Docker](https://www.docker.com/ "Docker Containers") 、 [Linux LXC](https://linuxcontainers.org/ "Linux Containers") 等)。)开始时直接使用，但当您需要协调多节点部署和高可用性(HA)时，可以快速切换到容器编排技术，如 [Kubernetes](https://kubernetes.io/ "Kubernetes Container Orchestration") (K8s)或 [Swarm](https://docs.docker.com/swarm/ "Docker Swarm") 。在这个容器驱动的世界里，应用程序栈的[未来会是什么样子？让我们从我们需要从这个“未来”应用程序堆栈中得到什么开始。](https://scalegrid.io/blog/the-future-of-the-application-stack/)
 
@@ -22,7 +22,7 @@
 
 未来的应用程序堆栈将由三种技术组成:K8s、平台即服务(PaaS)和数据库即服务(DBaaS) **:**
 
-<center>[![The Future Of The Application Stack: K8s, PaaS and DBaaS](../Images/440a72fce3e95712ecb8ff65122df534.png)](https://scalegrid.io/blog/wp-content/uploads/2018/09/Application-Stack-Diagram-DBaaS-PaaS-K8.png)</center>
+<center>[![The Future Of The Application Stack: K8s, PaaS and DBaaS](img/440a72fce3e95712ecb8ff65122df534.png)](https://scalegrid.io/blog/wp-content/uploads/2018/09/Application-Stack-Diagram-DBaaS-PaaS-K8.png)</center>
 
 ### K8s
 

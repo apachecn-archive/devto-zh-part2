@@ -4,7 +4,7 @@
 
 当你的网站需要一个数据库时，为什么要购买一个单独的数据库服务呢？
 
-<figure>[![](../Images/8f8d0e1d2f4a082df29e9873715fdd70.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RZnLyDlz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/400/1%2AYfki03qFEIyx1vIPvgzh3A.jpeg)
+<figure>[![](img/8f8d0e1d2f4a082df29e9873715fdd70.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RZnLyDlz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/400/1%2AYfki03qFEIyx1vIPvgzh3A.jpeg)
 
 <figcaption>MySQL in app in Azure app service</figcaption>
 
@@ -18,7 +18,7 @@
 
 默认情况下，您创建的每个应用程序服务都会禁用此选项。为了在应用程序数据库中使用 MySQL，您需要在 web 应用程序设置中启用它，如下所示:
 
-<figure>[![](../Images/e1b1662475385004747184fcecb52f70.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--p7dUcbZt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A1QdWOWmE1XuRDynvz87GJQ.png) 
+<figure>[![](img/e1b1662475385004747184fcecb52f70.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--p7dUcbZt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A1QdWOWmE1XuRDynvz87GJQ.png) 
 
 <figcaption>为 Azure app 服务在 app 中启用 MySQL</figcaption>
 
@@ -28,7 +28,7 @@
 
 启用后，您将看到如下屏幕:
 
-<figure>[![](../Images/7e27094ede7c4f1d8f2a978f1c4876cb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fcCYYmw7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1015/1%2AN5FyoH-D79YEnwuFUbU_6A.png) 
+<figure>[![](img/7e27094ede7c4f1d8f2a978f1c4876cb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fcCYYmw7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1015/1%2AN5FyoH-D79YEnwuFUbU_6A.png) 
 
 <figcaption>MySQL 中的 App 设置</figcaption>
 

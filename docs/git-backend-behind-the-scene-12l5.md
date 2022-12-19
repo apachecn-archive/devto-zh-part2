@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kodekage/git-backend-behind-the-scene-12l5>
 
-[![Title image](../Images/2868b5dd78fb432be85f3aeb1614ca88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3iNiTlvX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nuaudq3junzpq0qanj88.png)
+[![Title image](img/2868b5dd78fb432be85f3aeb1614ca88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3iNiTlvX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nuaudq3junzpq0qanj88.png)
 
 ### 简介
 
@@ -20,7 +20,7 @@
 
 ### GIT 内部
 
-[![Git Objects](../Images/405e0c9228ec5343a5db118f59770587.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9fOU592e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qgug2w2ycdl9fq7obxcf.png)
+[![Git Objects](img/405e0c9228ec5343a5db118f59770587.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9fOU592e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qgug2w2ycdl9fq7obxcf.png)
 
 使项目目录成为 git 存储库的是位于该项目目录中的隐藏的**`.git directory`**。**。git** 文件夹包含 git **对象数据库**，这是 Git 神奇之处。这个文件夹是有意隐藏的，以避免触动心灵的故事(文件变更，错误)，并保持 Git 的完整性。如果你是一个 windows 极客，你可以通过启用`show hidden files`功能来查看这个文件夹，[如果你不知道如何做这个](https://www.laptopmag.com/articles/show-hidden-files-windows)，跟随这个教程，如果你是一个 mac 用户，[这里是你的链接](https://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/)。
 
@@ -52,7 +52,7 @@ Git 使用 **SHA-1(安全散列算法)**为每个存储对象生成一个唯一�
 
 这个**对象目录**是 Git 存储每个对象的位置，即**对象目录是对象数据库**。
 
-[![Git Objects](../Images/50cb22bff942bae810794172966d4744.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mg5Jgj4W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lxhve46c3heu4g9ifv5e.png)
+[![Git Objects](img/50cb22bff942bae810794172966d4744.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mg5Jgj4W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lxhve46c3heu4g9ifv5e.png)
 
 Git 在对象数据库(对象目录)中存储了三种主要的对象类型，它们是:
 
@@ -80,7 +80,7 @@ Git 对象类型被组织在 git 在试图存储对象时自动创建的子目�
 
 *   打开一个新的终端，将 cd 放入项目目录中，并将两个终端并排放置，这将使我们能够跟踪。git 目录。
 
-[![Open Terminal](../Images/19f6f254cf42a230a76e057ab5c7a8e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wd6pmkPe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/th4anb0k8uz80k850w5k.PNG)
+[![Open Terminal](img/19f6f254cf42a230a76e057ab5c7a8e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wd6pmkPe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/th4anb0k8uz80k850w5k.PNG)
 
 *   创建一个新的文件`example.txt`来包含`Hello world`作为它的内容——你可以通过在你的终端上输入下面的命令`cat > example.txt`来做到这一点，然后在新的一行上输入内容，保存并使用 **CTRL D** 退出
 

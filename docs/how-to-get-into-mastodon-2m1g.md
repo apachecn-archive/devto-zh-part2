@@ -36,13 +36,13 @@
 
 *编辑个人资料*包含一些用于控制个人资料外观的控件；您可以编辑您的显示名称和个人资料，还可以像在 Twitter 上一样添加个人资料图片和标题。你也可以选择在这里锁定你的帐户，这将要求关注者得到你的批准，如果你打算让关注者私人发推文，这很有用。您还可以为您的个人资料输入最多 4 项自定义元数据，您可以使用这些元数据来显示网站或代词等内容。
 
-[![A set of four label and value fields for profile metadata.](../Images/ce98c458d9cdeb699433b42c0d11a403.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o4RapNqq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1ahdlagr0bxgj5qze5wk.png)
+[![A set of four label and value fields for profile metadata.](img/ce98c458d9cdeb699433b42c0d11a403.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o4RapNqq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1ahdlagr0bxgj5qze5wk.png)
 
 <figcaption>Profile metadata entry fields</figcaption>
 
 *Preferences* 包含许多关于如何在 Mastodon 上读写的设置，包括选择你喜欢的界面语言，以及在你的时间线中显示的语言。这有助于过滤掉您无法从本地和联合时间线中读取的内容。首选项还包含隐藏本地/联合时间线帖子的设置，如果你不想这样被发现，并选择退出搜索引擎索引。您还可以在这里控制默认情况下隐藏或显示哪些内容。
 
-[![A preferences panel allowing a user to set their account's default post privacy to public, unlisted, or followers-only.](../Images/ddd0bcaac772f87a67534411ab7d922f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ow8Q3HJL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b5tel49xc664325ra9de.png)
+[![A preferences panel allowing a user to set their account's default post privacy to public, unlisted, or followers-only.](img/ddd0bcaac772f87a67534411ab7d922f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ow8Q3HJL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b5tel49xc664325ra9de.png)
 
 <figcaption>Your account-level privacy settings</figcaption>
 
@@ -54,13 +54,13 @@
 
 如果你还没有写你的第一个嘟嘟，现在是时候了！您最多有 500 个字符，除非您的实例允许更多。如果您想要添加图像，请点按相机图标。地球仪图标允许你调整你的隐私状态；你可以把任何一个人的嘟嘟从公共时间表中删除，或者只发布给你的追随者。你也可以向特定用户发送嘟嘟声，就像 Twitter 上的直接消息。
 
-[![The Mastodon status box, showing the options for post privacy: public, unlisted, followers-only, direct message.](../Images/8beaef981dfb477bffbac86f31479672.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T_4w8yZg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2x38zvxlkap1r3u9bh43.png)
+[![The Mastodon status box, showing the options for post privacy: public, unlisted, followers-only, direct message.](img/8beaef981dfb477bffbac86f31479672.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T_4w8yZg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2x38zvxlkap1r3u9bh43.png)
 
 <figcaption>Your post privacy options, which override your account post privacy settings</figcaption>
 
 在乳齿象上书写 toots 的另一个工具是内容警告；您可以在“CW”图标下管理它们。如果您的 toot 包含敏感内容或常见的恐惧症，您可以用警告标记您隐藏内容的原因，然后将实际内容放在下面。一些乳齿象用户也用这个来讲笑话——他们在“警告”栏写设置，在状态框写笑点。
 
-[![The Mastodon status box, content warning field open, with text: "cw: spiders"](../Images/22786351d67e17b7cbac8e1836542f3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FIECkpU3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oftsjge3c889ulkvq7ih.png)
+[![The Mastodon status box, content warning field open, with text: "cw: spiders"](img/22786351d67e17b7cbac8e1836542f3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FIECkpU3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oftsjge3c889ulkvq7ih.png)
 
 <figcaption>An example of posting a toot with a content warning</figcaption>
 

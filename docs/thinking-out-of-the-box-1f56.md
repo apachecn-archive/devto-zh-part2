@@ -12,11 +12,11 @@
 
 **问题:**“*通过画**四条直线**连接这些点，连续的线穿过九个点中的每一个，并且**永远不要从纸上提起铅笔。***
 
-[![ninedots](../Images/a2bdb1c71b70e5414dbe7574b4f07d15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MSd_9D3q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fl3892j9yony316reu2v.png)
+[![ninedots](img/a2bdb1c71b70e5414dbe7574b4f07d15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MSd_9D3q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fl3892j9yony316reu2v.png)
 
 好吧，我觉得没问题，我们开始吧！
 
-[![ninedotsfilledwrong](../Images/e88bc79d9069ca49c6a413b5f9a0d5de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XTUw_PmA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ftamfg960q1d488gjgrt.png)
+[![ninedotsfilledwrong](img/e88bc79d9069ca49c6a413b5f9a0d5de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XTUw_PmA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ftamfg960q1d488gjgrt.png)
 
 哦，那是错误的？是的，它们是相连的，但是有五条直线，而我需要四条。
 
@@ -26,7 +26,7 @@
 
 所以如果我们跳出框框思考。我们应该以下面的解决方案结束。
 
-[![ninedotsfilledcorrectly](../Images/67b50309188be8fcb8e59e3648310cf5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GSLvhsYY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o7qctguwfactg6zyugag.png)
+[![ninedotsfilledcorrectly](img/67b50309188be8fcb8e59e3648310cf5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GSLvhsYY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o7qctguwfactg6zyugag.png)
 
 这就是解决办法。有趣的是，我们的大脑自动创建了一个我们无法逃脱的“想象的广场”，但在现实中我们**可以**，因为没有规则告诉我们留在某种广场上。
 

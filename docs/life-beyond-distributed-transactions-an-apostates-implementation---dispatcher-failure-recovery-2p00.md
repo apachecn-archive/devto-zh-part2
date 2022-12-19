@@ -17,7 +17,7 @@
 
 在上一篇文章中，我们讨论了如何从代码处理消息中的异常中恢复。我们在文档中执行了一些操作，然后出现了错误。但是当*在*调度过程中出现问题时会发生什么呢:
 
-[![](../Images/33a507de8268af02b5b946eea7f26ee7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mX6PIgQ6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jimmybogardsblog.blob.core.windows.net/jimmybogardsblog/7/2018/Picture0054.png)
+[![](img/33a507de8268af02b5b946eea7f26ee7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mX6PIgQ6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jimmybogardsblog.blob.core.windows.net/jimmybogardsblog/7/2018/Picture0054.png)
 
 如果我们的调度程序本身出现故障，或者:
 

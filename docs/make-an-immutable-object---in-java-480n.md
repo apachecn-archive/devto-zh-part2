@@ -27,7 +27,7 @@
 
 ## 明白了！
 
-[![a lonely tree on a rock](../Images/e8ea568cb666b916899713b153c52553.png "a lonely tree on a rock")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--inUMkMi_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/51q4QPRl.jpg)
+[![a lonely tree on a rock](img/e8ea568cb666b916899713b153c52553.png "a lonely tree on a rock")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--inUMkMi_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/51q4QPRl.jpg)
 
 列表、数组、映射、集合和其他非不可变的对象可能会令人惊讶。没有 setter 的`private final`对象被固定到它最初被赋值的对象上，但是该对象内部的值是不固定的(除非该对象是不可变的)。
 
@@ -148,7 +148,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 当我想改变一个不可变的对象时怎么办？
 
-[![a woman having a good time in a shop](../Images/97935e211f94ca8b0e4354cda4344c8a.png "a woman having a good time in a shop")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lVJEnC0o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/IHsv75ol.jpg)
+[![a woman having a good time in a shop](img/97935e211f94ca8b0e4354cda4344c8a.png "a woman having a good time in a shop")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lVJEnC0o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/IHsv75ol.jpg)
 
 每个人都会这样。你需要一个 an 对象，但是你并不了解这个对象的一切。你不能完全信任一个不可变的对象。
 
@@ -237,7 +237,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 有坏数据的不可变对象怎么办？
 
-[![a very dirty car](../Images/ddf042d724e5c50c5cc00a089668f2b1.png "a very dirty car")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o_ECRiWc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/cqrtgTXl.jpg)
+[![a very dirty car](img/ddf042d724e5c50c5cc00a089668f2b1.png "a very dirty car")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o_ECRiWc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/cqrtgTXl.jpg)
 
 每个人都会遇到这种情况，尤其是当你接受输入的时候。坏数据！
 
@@ -282,7 +282,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 综述
 
-[![a colorful celebration](../Images/68dd6023e8284414f3343bb073806257.png "a colorful celebration")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DSaTe7Jr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/fiWbSvbl.jpg)
+[![a colorful celebration](img/68dd6023e8284414f3343bb073806257.png "a colorful celebration")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DSaTe7Jr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/fiWbSvbl.jpg)
 
 不可变对象需要一些特殊的关心和处理，但是它们的效用是值得的。
 

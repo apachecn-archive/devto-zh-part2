@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnorbertjs/recap-of-data-structures-with-javascript-part-1-335k>
 
-[![](../Images/5500259705f4e3ab1dbdb5c99bd1ff05.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ya6RkoLV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l77pg255rwfmhj9spdbf.jpg) 
+[![](img/5500259705f4e3ab1dbdb5c99bd1ff05.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ya6RkoLV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l77pg255rwfmhj9spdbf.jpg) 
 我决定写一篇关于实现通用数据结构的文章。重点主要是 javascript 中的编码，而不是理论上的解释。
 
 # 链接列表
@@ -189,7 +189,7 @@ const tree = SimpleBinTree(root)
 
 所以，`tree`看起来是这样的:
 
-[![](../Images/2ad956656a4d96cb689457fc7871b9fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WK53IZ1q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/61ir9eyipwn53wylp7i2.png)
+[![](img/2ad956656a4d96cb689457fc7871b9fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WK53IZ1q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/61ir9eyipwn53wylp7i2.png)
 
 ### *任务 2:遍历树并访问每个节点*
 
@@ -352,7 +352,7 @@ console.log(myBST.getMin())
 # 哈希表
 
 哈希表是一种非常强大的键值数据结构。人们主要使用它是因为它高效的查找。为了更好的理解，我给你看一张图。
-[![](../Images/23f02a89fa799a235f58efd5108813c4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--K5RjFPTJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b4m9nh33fpqrnahydazo.png) 
+[![](img/23f02a89fa799a235f58efd5108813c4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--K5RjFPTJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b4m9nh33fpqrnahydazo.png) 
 你提供一个键，这个键通过一个散列函数返回这个键的索引。之后，您可以在数组中查找常量时间的值，因为您知道它的索引。然而，你可能会有冲突。这意味着您的哈希函数为不同的键返回相同的索引。在这种情况下，您必须遍历数组并找到与该键相关联的值。(这效率较低，需要 O(N ),其中 N 是特定索引的冲突数量)。
 
 ### 任务

@@ -8,7 +8,7 @@
 
 所以我做了一个关于我第一件很酷的事情的视频。谷歌搜索街头霸王的闪屏。整个构思都记录在下面的视频中。给我一些爱。<3
 
-[![](../Images/cee39cbf10b75b4dae89d1994725b3d0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--K2AQu-Ia--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a5k775e84vmvka4orl2q.png) 
+[![](img/cee39cbf10b75b4dae89d1994725b3d0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--K2AQu-Ia--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a5k775e84vmvka4orl2q.png) 
 这个画面让我起鸡皮疙瘩。
 
 [https://www.youtube.com/embed/hDIJ9xGjH1Q](https://www.youtube.com/embed/hDIJ9xGjH1Q)

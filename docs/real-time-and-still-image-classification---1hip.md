@@ -74,7 +74,7 @@ parser.add_argument( '-v', '--video', type=int,
 
 # Image 
 parser.add_argument( '-i', '--image', type=str,
-    default='../images/*.jpg',
+    default='img/*.jpg',
     help="Image path" ) 
 ```
 
@@ -83,7 +83,7 @@ Enter fullscreen mode Exit fullscreen mode
 这一改变允许从图像文件夹中读入图像。这样做之后，需要对代码进行一些更改，以适应从相机流到静态图像的转换。其中一个主要部分是研究 NCS 设备如何接收图像。我利用 glob 从 images 路径读入图像，并遍历该文件夹中的所有图像。这种迭代允许用上面的代码处理和推断每个图像。
 
 ```
-images = glob.glob('../images/*.jpg')
+images = glob.glob('img/*.jpg')
 for image in images:
     frame = cv2.imread(image) 
     img = cam.pre_process_image(frame)

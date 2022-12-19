@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jlengrand/playing-around-with-google-maps-and-puppeteer-to-track-parking-lots-fcn>
 
-[![Playing around with Google Maps and Puppeteer to track parking lots](../Images/b22d533d13ab7bb634375e85890048e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xO-3MOht--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1446776811953-b23d57bd21aa%3Fixlib%3Drb-1.2.1%26q%3D80%26fm%3Djpg%26crop%3Dentropy%26cs%3Dtinysrgb%26w%3D1080%26fit%3Dmax%26ixid%3DeyJhcHBfaWQiOjExNzczfQ)
+[![Playing around with Google Maps and Puppeteer to track parking lots](img/b22d533d13ab7bb634375e85890048e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xO-3MOht--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1446776811953-b23d57bd21aa%3Fixlib%3Drb-1.2.1%26q%3D80%26fm%3Djpg%26crop%3Dentropy%26cs%3Dtinysrgb%26w%3D1080%26fit%3Dmax%26ixid%3DeyJhcHBfaWQiOjExNzczfQ)
 
 在过去的几周里，我读了很多关于 **[地理营销](https://en.wikipedia.org/wiki/Geomarketing)** 的文章，并一直在寻找有趣的体验。
 
@@ -118,7 +118,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 其次，因为我们运行的是未登录的 Chrome，谷歌地图的截图包含了 cookie 免责声明以及一些**‘你想选择加入吗……’**弹出窗口。
 
-[![Here is an example](../Images/6f10a1fbbe34ba6565257bb85e5db941.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bIOXVoMQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/v1/%7B%7B%20%22/images/2018-04-05-puppeteer-google-maps-carrefour-google-popups.png%22%20%7C%20absolute_url%20%7D%7D)
+[![Here is an example](img/6f10a1fbbe34ba6565257bb85e5db941.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bIOXVoMQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/v1/%7B%7B%20%img/2018-04-05-puppeteer-google-maps-carrefour-google-popups.png%22%20%7C%20absolute_url%20%7D%7D)
 
 我们通过在 DOM 中查找并点击这些弹出窗口来解决这个问题。你可能也可以在 Chrome 会话中使用现有的 cookies，但我想走捷径:)。
 

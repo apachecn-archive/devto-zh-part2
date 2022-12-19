@@ -10,7 +10,7 @@
 
 现在还没有很好的错误处理，所以-嗯-不要搞砸了？好的，那么我是如何建造这个的呢？我从一个简单的 Vue 应用程序开始，它有一个初始屏幕，提示您输入用户名和董事会名称:
 
-[![Screenshot of demo showing input fields](../Images/69599d0846730d62f43c63df2a2612b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lPzgOYQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/10/pint1.jpg)
+[![Screenshot of demo showing input fields](img/69599d0846730d62f43c63df2a2612b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lPzgOYQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/10/pint1.jpg)
 
 输入这些信息后，代码解析在以下位置找到的 RSS:
 
@@ -20,7 +20,7 @@
 
 一旦加载完毕，我就在视图中注入每一项的 HTML，等待六秒钟，然后进入下一项。
 
-[![Screenshot of Pinterest item](../Images/5a98c10e25e625b7d76f2a466bcd30b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iBDzjDzu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/10/pint2.jpg)
+[![Screenshot of Pinterest item](img/5a98c10e25e625b7d76f2a466bcd30b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iBDzjDzu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/10/pint2.jpg)
 
 我本来可以添加一点 CSS，但我保持简单。让我们从快速浏览 HTML 开始。
 

@@ -64,6 +64,6 @@ a.读心术——你武断地断定某人对你有负面反应。
 
 那么我们如何改变这种思维方式呢？杰米说的第一件事是你需要测试你的感觉。感情也不一定会积极。然而，应该是有益的，合理的，理性的(基于现实)。这有助于您识别问题。接下来，用三栏法(见下文)把这些想法从你的头脑中清除出去。最后，不要害怕寻求帮助。
 
-[![](../Images/73f8d9675e1b2b1749ae0d3f99bae1cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MbhtxvJj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AuyPuWBWZscmD2qu32w8tPw.png)
+[![](img/73f8d9675e1b2b1749ae0d3f99bae1cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MbhtxvJj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AuyPuWBWZscmD2qu32w8tPw.png)
 
 当然，这个话题比我希望在这篇文章中涵盖的要广泛得多，但是我希望它能激起你的兴趣。请查看杰米在 https://vimeo.com/253833709 的完整演讲

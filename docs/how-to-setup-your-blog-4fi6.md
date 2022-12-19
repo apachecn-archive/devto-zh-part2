@@ -23,13 +23,13 @@ Jekyll 是一个用 Ruby 编写的博客框架。它非常简单，易于设置�
 *   通过在命令提示符下运行以下命令来检查 Jekyll 是否安装正确:
     `jekyll -v`。您应该会看到以下结果:
 
-[![Jekyll Version](../Images/74c720549acf30e2111260bb41197e53.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--50rtHKSc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vladimirfomene.github.io/assets/img/jekyll-version.JPG)
+[![Jekyll Version](img/74c720549acf30e2111260bb41197e53.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--50rtHKSc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vladimirfomene.github.io/assets/img/jekyll-version.JPG)
 
 *   转到您选择的目录并键入`jekyll new username.github.io`，其中*用户名*是您的 Github 用户名，就像我的例子中的 *vladimirfomene* 。该命令将为您的博客创建一个目录，其中包含一些框架文件和目录。Jekyll 用默认主题( [minima](https://jekyll.github.io/minima/) )创建每一个新博客。
 
 *   然后转到 *username.github.io* 目录，列出内容。您应该会看到以下文件夹和文件:
 
-[![Jekyll Directory Structure](../Images/823dfb1d4f0ff0ff3ea43ae43108ffbf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WaelL3PN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vladimirfomene.github.io/assets/img/directory-structure.JPG)
+[![Jekyll Directory Structure](img/823dfb1d4f0ff0ff3ea43ae43108ffbf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WaelL3PN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vladimirfomene.github.io/assets/img/directory-structure.JPG)
 
 当有人导航到在你的博客目录中找不到的页面时，404.html 页面就会出现。Jekyll 生成一个*。gitignore* 文件，它列出了 Git 在进行版本控制时应该忽略的所有文件和目录。这个文件的第一行包含一个名为 *_site* 的目录。当您在命令提示符下运行`bundle exec jekyll serve`来启动 Jekyll 服务器以便在浏览器中查看您的站点时，将会生成这个目录。此目录包含生成的博客版本(所有的 markdown 或文本文件都已转换为网页),将提供给浏览器。目录中的 *Gemfile* 被 bundler 用来管理 Jekyll 需要的库。该文件夹还包含一个由 Jekyll 为您创建的 about.md 和 index.md 文件，在为您的博客提供服务时，这些文件将被转换为 html 页面。Index.md 将成为 index.html(主页)，about.md 将成为 about.md 并代表您的 about 页面。 *_config.yml* 文件包含博客的配置。就像博客的标题。url，markdown 解析器，电子邮件和你的博客使用的主题。下面是这篇博客的 *config.yml* 的一部分:
 
@@ -52,11 +52,11 @@ plugins:
 
 运行`bundle exec jekyll serve`后，您应该看到以下内容:
 
-[![Jekyll Server Running](../Images/b0374fe00643471e8e2defcd4c2b816c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Whf5D7Yy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vladimirfomene.github.io/assets/img/jekyll-serve.JPG)
+[![Jekyll Server Running](img/b0374fe00643471e8e2defcd4c2b816c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Whf5D7Yy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vladimirfomene.github.io/assets/img/jekyll-serve.JPG)
 
 这表明您的 Jekyll 服务器正在运行，并在 *127.0.0.1:4000* 为您的博客提供服务。你现在可以在浏览器中输入 *127.0.0.1:4000* 来访问你的博客。您应该看到以下内容:
 
-[![Jekyll Server Running](../Images/a3d716b29af28d660df63f640452a68c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GXxvle_Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vladimirfomene.github.io/assets/img/minima-site.JPG)
+[![Jekyll Server Running](img/a3d716b29af28d660df63f640452a68c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GXxvle_Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vladimirfomene.github.io/assets/img/minima-site.JPG)
 
 ## 撰写你的第一篇文章
 
@@ -89,7 +89,7 @@ You’ll find this post in your `_posts` directory. Go ahead and edit it and re-
 
 要在 Github 页面上发布您的博客，您需要通过运行`git init`将您的博客目录初始化为本地 Git 存储库。然后，用`git add .`暂存目录内容，用`git commit -m "commit message"`提交。然后转到你的 Github 配置文件，创建一个名为 *username.github.io* 的存储库，其中 *username* 代表你的 *Githubusername* 。
 
-[![Jekyll Server Running](../Images/1aad151a7699bbcb0b4a8f52470e57e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qlukure8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vladimirfomene.github.io/assets/img/github-repo.JPG)
+[![Jekyll Server Running](img/1aad151a7699bbcb0b4a8f52470e57e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qlukure8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vladimirfomene.github.io/assets/img/github-repo.JPG)
 
 然后，通过在命令提示符下输入以下命令，将本地存储库连接到远程存储库:`git remote add origin remote-repository-name.git`。通过运行以下命令将本地存储库内容推送到远程存储库:`git push -u origin master`。你现在可以通过访问 *username.github.io* 在线访问你的博客。
 

@@ -4,7 +4,7 @@
 
 ### docker、nginx 和 lets encrypt——为可爱的 HTTPS 建立的网站！
 
-[![](../Images/f89d46e58695c9b1ccbaf7224adc9d7d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pdV6xnoq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/323/0%2Am-xEibEV8ttbhv7W.png)
+[![](img/f89d46e58695c9b1ccbaf7224adc9d7d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pdV6xnoq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/323/0%2Am-xEibEV8ttbhv7W.png)
 
 我曾经使用过免费的证书，但是自从转移到 docker/kestrel/nginx 之后，我就没有成功地使用过它。今天一切都变了，我花了很长时间才弄明白我该怎么做才能让它正常工作。
 
@@ -92,7 +92,7 @@ Letsencrypt 是一个证书颁发机构，提供免费证书来帮助保护您�
 
 虽然我直到现在才真正找到这个页面，但在我的冒险开始之前，它可能会有用。我想将 letsencrypt 与我的 docker 容器网站和 nginx 一起使用，尽可能少地维护，因为 letsencrypt 证书的有效期只有 90 天。在我的研究中，我偶然发现了一个 docker 映像 [linuxserver/letsencrypt](https://hub.docker.com/r/linuxserver/letsencrypt/) ，它承诺利用 nginx、letsencrypt 证书生成和自动更新。听起来棒极了！虽然图像的文档似乎大部分足够了，至少我认为，对于精通所有这一过程的人来说；我发现它是缺乏的。整个设置过程花了我一些时间来弄清楚，因此这篇文章，希望能帮助下一个人，或者未来的我！
 
-[![](../Images/f009f52c2ee294aefc58e09dd1637f4b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--X38oiZT---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ApH4NlR14ZjQskZxa.png) 
+[![](img/f009f52c2ee294aefc58e09dd1637f4b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--X38oiZT---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ApH4NlR14ZjQskZxa.png) 
 
 <figcaption>Linux 服务器。IO 标志</figcaption>
 
@@ -332,13 +332,13 @@ environment:
 
 最后的结果？
 
-[![](../Images/59c41932c361e802607cce5387b045c1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--L5OrkqD0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/281/1%2Abkwc9XLdHIlMJhApeGFU7Q.png) 
+[![](img/59c41932c361e802607cce5387b045c1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--L5OrkqD0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/281/1%2Abkwc9XLdHIlMJhApeGFU7Q.png) 
 
 <figcaption>Awww 耶</figcaption>
 
 从[https://www.ssllabs.com/](https://www.ssllabs.com/)
 
-[![](../Images/d2f2a331ee82a7884676d0e90a406558.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IEiGkfZP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AjYoRBXlE7i8JoWsT9-9BOg.png)
+[![](img/d2f2a331ee82a7884676d0e90a406558.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IEiGkfZP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AjYoRBXlE7i8JoWsT9-9BOg.png)
 
 不是“A+”，但对于使用一个预构建的 docker 映像来满足我的 HTTPs 需求来说，确实不错！
 

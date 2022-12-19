@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/egimba/the-eternal-self-constraining-pseudo-student-3id3>
 
-[![Has this good thing turned into a self imposed prison?](../Images/cc1aff3dd1cfc3bd39eeb59954fe3fa0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qohtcZ3m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gmqwgnsjz8ipwzlgbeaa.jpg)
+[![Has this good thing turned into a self imposed prison?](img/cc1aff3dd1cfc3bd39eeb59954fe3fa0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qohtcZ3m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gmqwgnsjz8ipwzlgbeaa.jpg)
 
 我应该多读书吗？更多手册？更多的书？我应该多看吗？更多教程？更多课程？我应该多听吗？更多播客？或者我应该一头扎进去做？在我前进的时候解决问题？在需要的时候获取材料？我是不是躲在对未知的恐惧后面，用这种“需要学习更多”作为替罪羊？
 

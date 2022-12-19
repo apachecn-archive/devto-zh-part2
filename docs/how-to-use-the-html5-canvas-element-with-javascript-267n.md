@@ -57,7 +57,7 @@ Canvas 元素有一个内置的 DOM 方法，称为 **getContext** 。它是一�
 
 下图显示了画布网格系统的工作原理:
 
-[![Canvas grid system](../Images/60dbf21f30cd25882b14b0581be273ca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5LP7fq3Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1o3vda6ux11i3jk14awi.png)
+[![Canvas grid system](img/60dbf21f30cd25882b14b0581be273ca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5LP7fq3Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1o3vda6ux11i3jk14awi.png)
 
 上述用于创建矩形的每个函数都采用以下参数来表示坐标和尺寸:
 
@@ -100,7 +100,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 下面是浏览器上的输出:
 
-[![Canvas element](../Images/00236569f6c3dd984e96fe40229de3f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--72LdbILO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ofb10lmqk65gyet5esrn.png)
+[![Canvas element](img/00236569f6c3dd984e96fe40229de3f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--72LdbILO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ofb10lmqk65gyet5esrn.png)
 
 这是 JavaScript 脚本中发生的情况:
 

@@ -4,7 +4,7 @@
 
 ### React——组件间传递数据……以口袋妖怪为例！
 
-[![](../Images/15da3ae3bd3c04761297752c3b51d654.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yHYBvLeU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AvWDGffKyCg5E2Lhz) 
+[![](img/15da3ae3bd3c04761297752c3b51d654.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yHYBvLeU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AvWDGffKyCg5E2Lhz) 
 
 <figcaption>照片由[斯蒂芬·亨宁](https://unsplash.com/@unlesbar?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)</figcaption>
 

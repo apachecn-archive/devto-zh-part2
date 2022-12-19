@@ -12,7 +12,7 @@
 
 在数据流驱动架构中，服务发出单独的记录，即所谓的*事件*。任何对特定服务的事件感兴趣的人都可以简单地订阅它们，并在它们可用时尽快接收它们。因为每个服务都可以访问原始事件，所以它不必等待 ETL 过程完成。下图说明了随着时间推移而发生的单个事件。
 
-[![events in time](../Images/27a3bd0e43de2dbb7d26997d9a54d36d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BQq6Tz88--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hfq0sbm3tz5t844blzml.png)
+[![events in time](img/27a3bd0e43de2dbb7d26997d9a54d36d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BQq6Tz88--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hfq0sbm3tz5t844blzml.png)
 
 但是我们如何对数据流进行分析呢？我们如何基于移动数据而不是固定批次生成报告？根据定义，流是无界的，因此如果我们要寻找一个聚合视图，例如，我们网站上来自某个特定国家的点击量，我们需要引入一些边界。在批处理世界中，这个界限受到 ETL 时间表的严重影响。在流分析中，我们可以随意离散化流，以便在上面执行聚合。
 
@@ -36,7 +36,7 @@ Martin Kleppmann 提到了四个常用的窗口函数[1]: *翻滚窗口*、*跳�
 
 翻转窗口具有固定的长度。下一个窗口位于时间轴上上一个窗口结束之后。滚动窗口不重叠并跨越整个时间域，即每个事件恰好被分配给一个窗口。您可以通过将事件时间向下舍入到最近的窗口开始位置来实现翻转窗口。下面的动画演示了长度为 1 的翻转窗口。
 
-[![tumbling window animation](../Images/ef682b2f4722f91d80a86b876d660124.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yuo1M_Sc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c1n1b45h73yahej0cx5k.gif)
+[![tumbling window animation](img/ef682b2f4722f91d80a86b876d660124.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yuo1M_Sc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c1n1b45h73yahej0cx5k.gif)
 
 因为滚动窗口只通过一个属性配置，即窗口长度 *s* ，并且它们只包含一次每个事件，所以它们通常用于简单的报告。您可以使用滚动窗口将 1 分钟内所有传入的服务器请求相加，然后显示一个图表，其中每一分钟对应一个数据点。
 
@@ -56,7 +56,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这意味着翻转窗口是跳跃窗口的特例，其中 *s = h* 。如果*的> h* 窗口重叠，并且如果*的< h* 一些事件可能没有被分配给任何窗口。下面的动画演示了一个长度为 1、跳跃大小为 0.25 的跳跃窗口。常见的是选择 *h* 为 *s* 的一个分数。
 
-[![hopping window animation](../Images/b85620d0d0b8e613495970ee79601d79.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--96wcSgjP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/13sikpcme4mhsliibhe6.gif)
+[![hopping window animation](img/b85620d0d0b8e613495970ee79601d79.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--96wcSgjP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/13sikpcme4mhsliibhe6.gif)
 
 可以通过计算大小为 *h* 的滚动窗口并将它们聚集成一个更大的跳跃窗口来实现跳跃窗口，其中 *h* 是 *s* 的一部分。跳跃窗口的一个常见用例是移动平均计算。
 
@@ -76,7 +76,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 然而，由于我们的数据点是离散的，我们可以通过基于实际事件而不是连续时间向前移动来实现滑动窗口。每当事件进入或退出向前移动的滑动窗口的长度时，就会创建一个新窗口。这在数学上相当于根据分配给所有可能窗口的事件集对这些窗口进行重复数据删除。下图说明了长度为 1 的滑动窗口。
 
-[![sliding window animation](../Images/9833756a8d13be5fcbdc72e4e285080f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iQqSZzGW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i6gei09zof2p0vkmruje.gif)
+[![sliding window animation](img/9833756a8d13be5fcbdc72e4e285080f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iQqSZzGW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i6gei09zof2p0vkmruje.gif)
 
 例如，滑动窗口用于计算移动平均值。它们的独特之处在于，它们提供了基于流中事件时间模式的解决方案，而不是固定的解决方案。如果事件更密集，您将获得更高分辨率的移动集合。如果没有事件传入，聚合流保持不变，不会发出新的值。
 
@@ -96,7 +96,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 与之前的窗口功能相比，会话窗口具有可变的长度。使用会话窗口功能时，您需要指定连续事件之间不得超过的时间阈值。只要时间上足够接近的新事件到来，该窗口将继续扩大。下面的动画演示了阈值为 0.5 的会话窗口。
 
-[![session window animation](../Images/6d1b6c8eec49fb5de8a6b46e7be4f8b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CZ3fQBFT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2s7fvhumgbarpmtj5i2g.gif)
+[![session window animation](img/6d1b6c8eec49fb5de8a6b46e7be4f8b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CZ3fQBFT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2s7fvhumgbarpmtj5i2g.gif)
 
 您可以通过将当前事件保存在缓冲区中并添加新事件(只要它们在指定的会话间隔内)来实现会话窗口。由于流是无限的，会话理论上可以无限增长。因此，一些实现采用第二个参数，该参数表示最大会话时间或每个会话的最大事件量。
 
@@ -124,7 +124,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Flink 和 Kafka 流都是开源框架。Azure Stream Analytics、Google Cloud Dataflow 和 Amazon Kinesis Data Analytics 是公共云提供商的专有托管解决方案。仅考虑预配置的窗口功能。一些工具，例如 Flink，允许自定义窗口函数的定义，这提供了很大的灵活性。
 
-[![available window functions in different tools and products](../Images/5ff8cd558f77df935e06bbabf4242f76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bi-2UZKi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gm6h9abrro0spcfxdu63.png)
+[![available window functions in different tools and products](img/5ff8cd558f77df935e06bbabf4242f76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bi-2UZKi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gm6h9abrro0spcfxdu63.png)
 
 所有工具都支持滚动窗口，尽管在谷歌云数据流中它们被称为固定时间窗口。除了亚马逊 Kinesis 数据分析之外，所有工具都支持跳跃窗口。然而，Flink 和 Dataflow 都称它们为滑动窗口，这与上一节介绍的术语不一致。
 

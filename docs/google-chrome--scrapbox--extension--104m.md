@@ -4,7 +4,7 @@
 
 用了半年以上的 Scrapbox，用[scboloo](https://github.com/e-jigsaw/scboloo) 制作并记录了之后可能会重读的页面，但是因为这样把缩略图记录为 Gyazo 之后在搜索时不方便。
 
-[![](../Images/f7deced8b8f82af6672a04aa6feb15da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8PZkWFJU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.gyazo.com/66db455f380e61f008c910430f2699bb.gif)
+[![](img/f7deced8b8f82af6672a04aa6feb15da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8PZkWFJU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.gyazo.com/66db455f380e61f008c910430f2699bb.gif)
 
 像这样选择范围的话
 

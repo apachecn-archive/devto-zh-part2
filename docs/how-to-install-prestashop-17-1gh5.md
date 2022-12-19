@@ -4,7 +4,7 @@
 
 Prestashop 是最流行的电子商务网站内容管理系统之一。小型企业和大型企业都使用它，并且可以通过数以千计的扩展和主题来增强。全球超过 270，000 个电子商务网站在 PrestaShop 上运行，并提供 65 种不同的语言。
 
-[![How to install Prestashop 1.7 - Prestashop Tutorial](../Images/446252d44d57c6e200dd23095ec26431.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nw11YS4b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7fwzoqdcxwhqptokocmf.jpg)
+[![How to install Prestashop 1.7 - Prestashop Tutorial](img/446252d44d57c6e200dd23095ec26431.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nw11YS4b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7fwzoqdcxwhqptokocmf.jpg)
 
 它相当容易使用，为购物者提供了一个强有力的商店界面，提供了一套全面的功能，而且是免费的。
 
@@ -76,4 +76,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们尽情享受吧&别忘了访问我们的博客，查看更多 [Prestashop 教程](https://www.prestasoo.com/Blog/?utm_source=devto&utm_medium=article&utm_campaign=install_prestashop)！
 
-[![Infographic - How to install Prestashop 1.7](../Images/7dfc179c8239d9e630cd4b8e9731beb9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gGJPEbBX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n1qnisabtnctvfjlswoj.jpg)
+[![Infographic - How to install Prestashop 1.7](img/7dfc179c8239d9e630cd4b8e9731beb9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gGJPEbBX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n1qnisabtnctvfjlswoj.jpg)

@@ -2,13 +2,13 @@
 
 > 原文：<https://dev.to/onmyway133/firebase-sdk-with-firestore-for-react-native-apps-in-2018-6an>
 
-[![](../Images/774c5daa61b5839af2dedffffba4624e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S5RV4GaC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AVlZ7ou_WmSvHZg9a.jpg)
+[![](img/774c5daa61b5839af2dedffffba4624e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S5RV4GaC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AVlZ7ou_WmSvHZg9a.jpg)
 
 在 2017 年 Firebase Dev Summit[上，谷歌推出了](https://www.youtube.com/watch?v=W3xIOQu0h1w) [Firestore](https://firebase.googleblog.com/2017/10/introducing-cloud-firestore.html) 作为完全管理的 NoSQL 文档数据库，用于移动和 web 应用开发。与 Firebase 实时数据库相比，它拥有[更好的查询](https://firebase.googleblog.com/2017/10/cloud-firestore-for-rtdb-developers.html)和更多的结构化数据，以及轻松的手动获取数据。
 
 集合和文档的新结构可能是引人注目的，这使得数据对用户来说更加直观，查询也变得轻而易举。
 
-[![From [https://firebase.googleblog.com/2017/10/cloud-firestore-for-rtdb-developers.html](https://firebase.googleblog.com/2017/10/cloud-firestore-for-rtdb-developers.html)](../Images/4d2fefa5a695ffae9fe81fe952972fb4.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--KRBLprlR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AmEjeh2eMqIvQYNTa.png) *来自[https://firebase . Google blog . com/2017/10/cloud-firestore-for-rtdb-developers . html](https://firebase.googleblog.com/2017/10/cloud-firestore-for-rtdb-developers.html)*
+[![From [https://firebase.googleblog.com/2017/10/cloud-firestore-for-rtdb-developers.html](https://firebase.googleblog.com/2017/10/cloud-firestore-for-rtdb-developers.html)](img/4d2fefa5a695ffae9fe81fe952972fb4.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--KRBLprlR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AmEjeh2eMqIvQYNTa.png) *来自[https://firebase . Google blog . com/2017/10/cloud-firestore-for-rtdb-developers . html](https://firebase.googleblog.com/2017/10/cloud-firestore-for-rtdb-developers.html)*
 
 在这篇文章中，我将展示如何在 iOS 和 Android 的 React 本机应用程序中设置 Firebase Cloud Firestore，当然，还有一些难点。然后我们在 Firestore 数据库中创建和获取文档。
 
@@ -56,7 +56,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 阅读 [Cloud Firestore 库和框架集成](https://firebase.google.com/docs/firestore/library-integrations)，推荐 React Native Firebase。虽然来自 [Firebase Web SDK](https://www.npmjs.com/package/firebase) 的一些功能通常可以与 React Native 一起工作，但它主要是为 Web 构建的，因此具有有限的兼容功能集。
 
-[![Source: [https://rnfirebase.io/docs/v4.3.x/getting-started](https://rnfirebase.io/docs/v4.3.x/getting-started)](../Images/2925f691f9d2a81a6d4f972b5ffe1479.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--U35YTrW5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Arae3_7gLeEQvPRDNesXgrw.png) *来源:【https://rnfirebase.io/docs/v4.3.x/getting-started】*T4
+[![Source: [https://rnfirebase.io/docs/v4.3.x/getting-started](https://rnfirebase.io/docs/v4.3.x/getting-started)](img/2925f691f9d2a81a6d4f972b5ffe1479.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--U35YTrW5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Arae3_7gLeEQvPRDNesXgrw.png) *来源:【https://rnfirebase.io/docs/v4.3.x/getting-started】*T4
 
 下面这篇文章和他们的[入门 app](https://github.com/invertase/react-native-firebase-starter) 就是指路星。在 iOS 和 Android 中集成本机代码可能会很痛苦，但我认为本机 Firebase 非常强大，因为它有最新的本机 Firebase SDK 包装器。
 
@@ -66,11 +66,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 首先你需要 [Firebase 控制台](https://firebase.google.com/console)并添加一个项目。一个项目允许许多应用程序驻留，例如我有 4 个应用程序(2 个 iOS，2 个 Android)可以访问 Firestore 数据库。
 
-[![](../Images/56a2520246c43168fa6578b7d097c180.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_JNnAalS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2868/1%2Aab5VL-6oUZdahAQAFYFBuQ.png)
+[![](img/56a2520246c43168fa6578b7d097c180.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_JNnAalS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2868/1%2Aab5VL-6oUZdahAQAFYFBuQ.png)
 
 在左侧菜单中，我们可以快速浏览 Firestore 及其收藏/文档结构
 
-[![](../Images/323a2361abbf4047aa5778169ee5edca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--txd7Ae8r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2796/1%2A0NEWzQZ9oiKY3lkMBxHtcA.png)
+[![](img/323a2361abbf4047aa5778169ee5edca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--txd7Ae8r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2796/1%2A0NEWzQZ9oiKY3lkMBxHtcA.png)
 
 ### iOS 设置
 
@@ -78,7 +78,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 首先，下载 [GoogleService-Info.plist](https://rnfirebase.io/docs/v4.3.x/installation/ios#1.1.-Setup-GoogleService-Info.plist) 并放在正确的文件夹中，确保它已经通过 Xcode 添加到项目中。否则 Firebase SDK 会导致应用程序在启动后立即崩溃。
 
-[![](../Images/1501ac54517d5ccc24ad9b1bea146b60.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VYdPNrK6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A-Tz59Dx1xbIyqUEuKOlXCA.png)
+[![](img/1501ac54517d5ccc24ad9b1bea146b60.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VYdPNrK6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A-Tz59Dx1xbIyqUEuKOlXCA.png)
 
 然后添加#import 到 AppDelegate.m 和【FIRApp configure】；以运行 didFinishLaunchingWithOptions。接下来在 ios 文件夹中用 pod init 创建 Podfile。对于 Firestore，您需要 Firebase/Firestore 来防止以下错误
 
@@ -99,7 +99,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果您得到 Framework not found firebase analytics，那么确保每个目标在框架搜索路径的顶部都有$(inherited)
 
-[![](../Images/f194b326f8006df73d11ee2f5e13c483.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tY75V3Qe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2446/1%2ATBQZ1GbbDtWFz8Ife2mTEg.png)
+[![](img/f194b326f8006df73d11ee2f5e13c483.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tY75V3Qe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2446/1%2ATBQZ1GbbDtWFz8Ife2mTEg.png)
 
 然后运行 react-native link react-native-firebase，你应该对 iOS 很好。
 

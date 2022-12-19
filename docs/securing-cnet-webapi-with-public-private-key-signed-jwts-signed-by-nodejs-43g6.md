@@ -12,7 +12,7 @@
 
 在序列图中:
 
-[![Sequence diagram](../Images/e77eeed8c7f85e3f02b48da4a22414e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C1THJETN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/882vk6pv0fayuvr7hbx0.png)
+[![Sequence diagram](img/e77eeed8c7f85e3f02b48da4a22414e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C1THJETN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/882vk6pv0fayuvr7hbx0.png)
 
 授权服务器(NodeJS)和资源提供者(C# WebAPI)可以运行在两个完全不同的服务器或云上。我们也可以使用授权服务器(NodeJS)和资源提供者(C# WebAPI)都知道的共享秘密，而不是像他的文章中那样使用公钥私钥来签名和验证 JWT。然而，`shared secret`方法不如`public private key`方法有效，原因如下。
 
@@ -69,7 +69,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 此时，文件结构和`server.js`文件应该如下所示:
 
-[![Figure 1](../Images/c7f2279bbcfddd4c7824445e13bab819.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WeLHvkrz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/it5mzc834w8ke7i6hoaf.png)
+[![Figure 1](img/c7f2279bbcfddd4c7824445e13bab819.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WeLHvkrz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/it5mzc834w8ke7i6hoaf.png)
 
 (不能复制粘贴，不用担心，这段代码到时会完成并可用。请继续阅读)
 
@@ -144,7 +144,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在启动 Postman，发出一个 POST 请求，如下图所示，您将在响应中得到一个 JWT。
 
-[![Login to NodeJS](../Images/4728b5108bc3c155ea3469b0112ae321.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--13--McNp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z1wlq9l3pniffb2j4bcm.png)
+[![Login to NodeJS](img/4728b5108bc3c155ea3469b0112ae321.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--13--McNp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z1wlq9l3pniffb2j4bcm.png)
 
 ## 验证 C# WebAPI 中的 JWT
 
@@ -194,7 +194,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 是我们将要编写的一个类。它是`AuthorizationFilterAttribute`的子类。在我展示它之前，我们必须安装一个名为`BouncyCastle`的 Nuget 包。
 
-[![BouncyCastle](../Images/7aac59d94622a1e8b8bdfd8a1c147bce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ap9OiLSH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4aek9fmytmznhlnpnoi6.png)
+[![BouncyCastle](img/7aac59d94622a1e8b8bdfd8a1c147bce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ap9OiLSH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4aek9fmytmznhlnpnoi6.png)
 
 然后让我们写一个读取公钥的类。请记住，公钥是一个静态文件，位于地址[http://localhost:8080/jwtrs 256 . key . pub](http://localhost:8080/jwtRS256.key.pub)
 
@@ -329,7 +329,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在转到 Postman，向运行 WebAPI 的地方发出 Post 请求，在`Authorization`属性中传递上面得到的 JWT(使用承载模式),您将得到状态为 200 的响应。
 
-[![Call WebAPI endpoint](../Images/0828e95916b93f93da74efe83ecf945d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aWz4L1w7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lvacwu21efynloioo299.png)
+[![Call WebAPI endpoint](img/0828e95916b93f93da74efe83ecf945d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aWz4L1w7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lvacwu21efynloioo299.png)
 
 没有 JWT 或使用不同的方案将导致 401 未授权。
 

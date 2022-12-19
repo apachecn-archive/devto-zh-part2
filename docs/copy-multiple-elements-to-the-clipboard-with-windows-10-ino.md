@@ -4,7 +4,7 @@
 
 ## Windows 10 中节省时间
 
-许多人知道这个问题。你正在运行一个应用程序，你需要来自另一个应用程序的一些文本片段或图片。 [![](../Images/2d2ee9eb2b4f3fb5d3364a9796853115.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9ONHZAQi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://saschamanns.de/img/markers/win-insider.png) 在 Windows 10 之前你得多次复制粘贴它们。但是现在可以一次复制多个片段和图片。但是怎么做呢？
+许多人知道这个问题。你正在运行一个应用程序，你需要来自另一个应用程序的一些文本片段或图片。 [![](img/2d2ee9eb2b4f3fb5d3364a9796853115.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9ONHZAQi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://saschamanns.de/img/markers/win-insider.png) 在 Windows 10 之前你得多次复制粘贴它们。但是现在可以一次复制多个片段和图片。但是怎么做呢？
 
 首先，你必须注册成为微软内部人员，就像那里解释的那样。然后就可以按照接下来的步骤来了。
 
@@ -21,7 +21,7 @@
 
 享受它...
 
-[![Creative Commons License](../Images/0e21f9959916f90e7c4111af92415413.png)T2】](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en)
+[![Creative Commons License](img/0e21f9959916f90e7c4111af92415413.png)T2】](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en)
 
 Sascha Manns 的这个作品是在[归属-共享 3.0 德国许可证(CC BY-SA 3.0 DE)](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en/) 下授权的。
 

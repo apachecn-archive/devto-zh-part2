@@ -20,7 +20,7 @@
 
 以下是我的“发展”工作区的顶层页面:
 
-[![Image](../Images/499690d967924b4bcc109153a2659aa6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uMbaRUtu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/kRnuvMV.png)
+[![Image](img/499690d967924b4bcc109153a2659aa6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uMbaRUtu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/kRnuvMV.png)
 
 概念有一些不错的其他功能，如集成的电子表格/数据库和任务板。
 

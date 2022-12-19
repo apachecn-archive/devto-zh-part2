@@ -6,7 +6,7 @@
 
 我目前正在研究市场，正在收集一份关于围棋的书签清单。我认为与社区分享它们会很好，并且也能发现其他的。
 
-[![gopher](../Images/27c6dda5f9f79994615ab45f4174634f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YKSSaZwE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ih1.redbubble.net/image.468749784.5220/flat%2C800x800%2C075%2Cf.u2.jpg)
+[![gopher](img/27c6dda5f9f79994615ab45f4174634f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YKSSaZwE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ih1.redbubble.net/image.468749784.5220/flat%2C800x800%2C075%2Cf.u2.jpg)
 
 剧透一下，Go 的空缺并不多(我估计全球大约有几百个，但主要在美国)，但数量每个月都在增加。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/dormoshe/prepare-your-skill-set-for-web-developer-interviews---part-2-4642>
 
-[![Prepare Your Skill Set for Web Developer Interviews - Part 1](../Images/7c85c298dce2350354eb99c7416a86dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l2-zFfsS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hyllwh9rpvl8ddakb8jx.png)
+[![Prepare Your Skill Set for Web Developer Interviews - Part 1](img/7c85c298dce2350354eb99c7416a86dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l2-zFfsS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hyllwh9rpvl8ddakb8jx.png)
 
 [本文原载于 dormoshe.io](https://dormoshe.io/articles/prepare-your-skill-set-for-web-developer-interviews-part-2-26?utm_source=devto&utm_campaign=prepare-your-skill-set-for-web-developer-interviews-part-2-26)
 
@@ -32,7 +32,7 @@
 
 面试的这一部分**在某些方面可以进化**。您可能会被要求详细实现解决方案的某些部分。你可能会被要求根据面试官给你的一些新的限制或信息对解决方案提出改进建议。例如，“在您的报告生成的大流程中有一些失败点，您如何应对它们？”或者‘有一个大规模的操作阻碍了其他请求的处理，你能做什么？’。一些答案可以是“实现队列”、“进行预处理”、“添加计划任务”、“添加更多服务实例”等等。
 
-[![System Design and Flows - photo credit for visusllc.com](../Images/4d662e14660716c48925e642ec487c77.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hrUeq1In--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ntsqplpyufw790f29lte.png)
+[![System Design and Flows - photo credit for visusllc.com](img/4d662e14660716c48925e642ec487c77.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hrUeq1In--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ntsqplpyufw790f29lte.png)
 
 正如你所看到的，这一部分是非常动态的，可以飞向许多知识和经验的部分。综上所述，**你需要记住这是你可以在面试前练习和学习的东西**。我的建议是这样做。思考解决方案，利弊，可能出现的障碍和限制。因此，你对这一部分准备得越充分，你就会越有信心，也就越不紧张。我喜欢采访中的这类角色:)
 
@@ -46,7 +46,7 @@
 
 作为后端的微服务，前端有[微前端](https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16)。这些概念给组织带来很多好处。世界在那里行走，许多公司已经在那里。**展示这些话题的知识可以在面试中给你增加一些加分**。这可以表明你着眼于**大局**，而这正是公司所寻求的。但是如果我们正在寻找一个优先级，如果你在更重要的主题上有其他差距，并且你不是一个高级开发人员，我不会把它列为高优先级。所以，即使你不知道，也没关系。很高兴有。
 
-[![Micro-Frontends - photo credit for Tom Söderlund](../Images/3a95451e6b854720794a85f0ccd73d26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x3H8kYAy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kks74uzyhzqvv7bd8puv.png)
+[![Micro-Frontends - photo credit for Tom Söderlund](img/3a95451e6b854720794a85f0ccd73d26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x3H8kYAy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kks74uzyhzqvv7bd8puv.png)
 
 * * *
 
@@ -58,7 +58,7 @@ SPA 和 JavaScript 框架成功地进入了我们的生活。MVC 是许多应用
 
 组件将软件元素的功能和行为封装到一个可重用和自部署的二进制单元中。该架构缩短了上市时间，使开发人员的生活更加轻松。代码更容易理解。与多个团队一起开发一个应用程序非常方便。它更具可重用性、可替换性、可扩展性和封装性。**基于组件的开发不仅仅是网络的未来。这是你现在应该做的事情**，在任何网络应用程序中。
 
-[![Component-Based Architecture](../Images/546b76f4a1d3cfecca6874f9887a0b93.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--67hrR-zU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k69bnxrk9m33o5fkxy8u.png)
+[![Component-Based Architecture](img/546b76f4a1d3cfecca6874f9887a0b93.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--67hrR-zU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k69bnxrk9m33o5fkxy8u.png)
 
 * * *
 
@@ -109,19 +109,19 @@ React 和 Vue 的主要优势之一是虚拟 DOM 机制。虚拟 DOM 是 DOM 的
 
 [LeetCode](https://leetcode.com/) 的目的是为你提供真实编码面试问题的动手训练。在线裁判会对你的算法的正确性和效率给出即时反馈，这有助于获得良好的学习体验。LeetCode 帮助你提高编程技能，并快速找到工作。这是扩展你的知识面和为下一次面试做准备的最好地方之一。你可以在很多主题上找到问题，包括面向对象设计、操作系统、算法和数据库。
 
-[![Leetcode](../Images/05d45feb69de8e07fbbc63aecb76638b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rUWO-xPm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f808nqfp9k3d2j682wp0.png)
+[![Leetcode](img/05d45feb69de8e07fbbc63aecb76638b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rUWO-xPm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f808nqfp9k3d2j682wp0.png)
 
 ### 代码大战
 
 Codewars 是一个开发者社区，被称为代码战士(或者仅仅是战士)，T2 训练他们提高开发技能。把它想象成一个编码道场——开发人员在那里互相训练，互相帮助，通过实践变得更好。Codewars 目前支持 21 种语言，包括 Go、Clojure、Haskell 和 Typescript，以及 11 种测试版语言，包括 Kotlin、Groovy、R 和 Scala。
 
-[![Codewars](../Images/5c8d841f737aa00b3c46689c78df2a30.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bUoX-Rph--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/midmpypk2ctuxa9ejotp.png)
+[![Codewars](img/5c8d841f737aa00b3c46689c78df2a30.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bUoX-Rph--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/midmpypk2ctuxa9ejotp.png)
 
 ### 玻璃门
 
 [玻璃门](https://www.glassdoor.com/index.htm)是我最喜欢去**找工作的地方**。你可以从现在和以前的员工那里看到各种公司的汇总信息、排名、评论和薪水。此外，你可以在一个很棒的用户体验中找到数百家公司的求职面试问题。我推荐你进入**练习你在那里面试的公司的相关问题**。我也推荐练习[脸书面试问题](https://www.glassdoor.com/Interview/Facebook-Interview-Questions-E40772.htm)——有很多而且很有趣。
 
-[![Glassdoor](../Images/c146dbb0605f0e4a4f8a81e2338454a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gDCzS2n1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fb38g3lr223396h6tj6a.png)
+[![Glassdoor](img/c146dbb0605f0e4a4f8a81e2338454a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gDCzS2n1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fb38g3lr223396h6tj6a.png)
 
 * * *
 
@@ -129,6 +129,6 @@ Codewars 是一个开发者社区，被称为代码战士(或者仅仅是战士)
 
 面试是你可以做好准备的事情。这种准备可以帮助你提高自信心，还可以提醒你不常用的话题。建议花点时间去做，但是需要保持专注。
 
-[![Follow me](../Images/2b03e17f69f542df4438e6860862480a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0Zow1YxL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mkq1l81wbe7hn4r91iik.png)
+[![Follow me](img/2b03e17f69f542df4438e6860862480a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0Zow1YxL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mkq1l81wbe7hn4r91iik.png)
 
 你可以在 [dormoshe.io](https://dormoshe.io?utm_source=devto&utm_campaign=prepare-your-skill-set-for-web-developer-interviews-part-2-26) 或 [Twitter](https://twitter.com/DorMoshe) 上关注我，阅读更多关于 Angular、JavaScript 和 web 开发的内容。

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/flaviocopes/javascript-asynchronous-programming-and-callbacks-32jh>
 
-[![JavaScript Asynchronous Programming and Callbacks](../Images/c3cd9d23eeceec135d227dc46df6c553.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1NtGvobC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://flaviocopes.com/javascript-callbacks/banner.jpg)
+[![JavaScript Asynchronous Programming and Callbacks](img/c3cd9d23eeceec135d227dc46df6c553.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1NtGvobC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://flaviocopes.com/javascript-callbacks/banner.jpg)
 
 ## 编程语言中的异步性
 

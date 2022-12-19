@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/banesag/javascript-strings-beginners-1bpj>
 
-[![alt text](../Images/27b439fa82cbc0f2aa1c1e8bf91b7a3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qoj3ixF2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6r3moa4dncwis50bzx3h.jpg)
+[![alt text](img/27b439fa82cbc0f2aa1c1e8bf91b7a3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qoj3ixF2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6r3moa4dncwis50bzx3h.jpg)
 
 字符串是一种可以赋给变量的值。字符串本身是包含字母和符号的字符的集合。字符串是表示文本的值。单引号或双引号用于创建字符串文字；引号表示包含的文本不是代码，而是一个值。
 

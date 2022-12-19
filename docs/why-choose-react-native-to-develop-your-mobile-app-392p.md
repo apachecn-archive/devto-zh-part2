@@ -10,11 +10,11 @@
 
 React Native 的一些优点是，它在混合移动技术中具有最好的性能，您可以使用“create-react-native-app yourApp”引导环境，您可以使用由 [Expo](https://expo.io/) 支持的 Linux/Windows/Mac 为 IOS 和 Android 开发，您可以使用您的手机作为开发环境而不是模拟器，您不需要学习新的编程语言来开发，它只是 JavaScript！
 
-[![](../Images/cf2f15239a8e7fa2ffb8141788bb5564.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z18QTbAl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hyfjpxmfl8ocqxchzvnj.png)
+[![](img/cf2f15239a8e7fa2ffb8141788bb5564.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z18QTbAl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hyfjpxmfl8ocqxchzvnj.png)
 
 一些缺点是，你会受到 React 原生库和元素的限制(但它们几乎涵盖了所有内容)，我说的是你希望在你的应用程序中有一些不同的细节，但它不支持这一点，你可能会在 Github 上找到一些 repo，它为这一细节制作了一个组件，但在更新后可能会中断。或者您可以使用本机代码对其进行编码，并将其集成到您的应用程序中。如果你正在寻找一个长期的应用程序，或者你有更多可以使用移动设备的开发人员，这不是一个好的选择，因为你在制作应用程序的特殊性和单个细节方面会有更少的问题。
 
-[![](../Images/e4f86fe21f757537d643a7398ebb3944.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xqhx6iEG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rhau2pzjaugqqq0vuzlq.png)
+[![](img/e4f86fe21f757537d643a7398ebb3944.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xqhx6iEG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rhau2pzjaugqqq0vuzlq.png)
 
 总的来说，我选择 React Native，因为我的目标是尽快在市场上推出 MVP(最小可行产品),然后我们肯定会迁移到原生环境。在我们的例子中，我们有一些对用户体验至关重要的细节，我们不能错过！
 

@@ -106,7 +106,7 @@ Dan 建议避免使用“高”和“低”来表示优先级，而是使用“�
 
 #### 🔹颜色；色彩；色调
 
-<figure>[![](../Images/9323ea3a3b2d25cced7acbd6d03b7822.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--raDOte9p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/www.slightedgecoder.com/wp-content/uploads/2018/11/profiler.png%3Fw%3D1170%26ssl%3D1) 
+<figure>[![](img/9323ea3a3b2d25cced7acbd6d03b7822.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--raDOte9p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/www.slightedgecoder.com/wp-content/uploads/2018/11/profiler.png%3Fw%3D1170%26ssl%3D1) 
 
 <figcaption>剖面仪在行动</figcaption>
 

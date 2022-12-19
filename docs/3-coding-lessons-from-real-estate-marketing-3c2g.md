@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/brettclawson75/3-coding-lessons-from-real-estate-marketing-3c2g>
 
-[![coding innovation](../Images/c916abc1879e3c292afacb3edc01761f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CQOwzolO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p3gbupk4dds7c58fz509.jpg)
+[![coding innovation](img/c916abc1879e3c292afacb3edc01761f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CQOwzolO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p3gbupk4dds7c58fz509.jpg)
 
 房地产是现存最赚钱的行业之一。他们也没有放慢软件创新的步伐，以便更好地服务于这个市场。因此，看看他们在编写应用程序、功能和网站时使用的想法和系统是一个很好的主意。您可以将这些策略用于您自己的编码和房地产工作中。这里有 3 个需要考虑的关键因素:
 

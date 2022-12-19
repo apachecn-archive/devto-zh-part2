@@ -8,7 +8,7 @@ Apache Solr 是一个基于 [Apache Lucene](https://lucene.apache.org/solr/) 的
 
 Apache 方解石 Avatica 是 Apache 方解石的子项目，提供 JDBC 驱动程序和 JDBC 服务器。Avatica 架构图展示了这两者是如何结合在一起的。
 
-[![](../Images/b5e9eb19632b45851353c377be415bdd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--trGQvjnq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/julianhyde/share/master/slides/avatica-architecture.png)
+[![](img/b5e9eb19632b45851353c377be415bdd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--trGQvjnq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/julianhyde/share/master/slides/avatica-architecture.png)
 
 ### 阿帕奇 Solr 和阿帕奇方解石 Avatica
 

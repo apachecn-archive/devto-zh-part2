@@ -16,7 +16,7 @@
 
 现在我们对安装向导很满意。
 
-[![](../Images/7eee825a8f00b79af81e907b2167e69e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NEQvBx3f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/ZniLgYA.png)
+[![](img/7eee825a8f00b79af81e907b2167e69e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NEQvBx3f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/ZniLgYA.png)
 
 通过这里，你会得到几个选项来定制你喜欢的主题
 
@@ -24,6 +24,6 @@
 
 还有最后的展望
 (无视我凌乱的急电)
-[![](../Images/04ecf0a3a2b34840105d0a37f5db2305.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--k4CLvkbu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/AV4d3IC.png)
+[![](img/04ecf0a3a2b34840105d0a37f5db2305.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--k4CLvkbu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/AV4d3IC.png)
 
-[![Example of how the code can look, with some old code when I was learning TKinter ](../Images/229849fb02b6774d42973d8a13c74d65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YEIn_5ub--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/ilfGR3V.png)
+[![Example of how the code can look, with some old code when I was learning TKinter ](img/229849fb02b6774d42973d8a13c74d65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YEIn_5ub--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/ilfGR3V.png)

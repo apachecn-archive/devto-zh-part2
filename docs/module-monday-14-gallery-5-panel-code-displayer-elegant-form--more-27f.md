@@ -12,31 +12,31 @@
 
 一个漂亮的，反应灵敏的图片库，有 5 个面板。
 [查看 mod](https://anymod.com/mod/ooldr?v=20)
- [![](../Images/dfc02d8e2d3a9e42ba879ca9bef0281c.png)](https://anymod.com/mod/ooldr?v=20) 
+ [![](img/dfc02d8e2d3a9e42ba879ca9bef0281c.png)](https://anymod.com/mod/ooldr?v=20) 
 
 ## 代码显示器(HTML/CSS/JS)
 
 在你的站点上的任何地方呈现清晰的、格式化的代码行。
 [查看 mod](https://anymod.com/mod/akbra?v=20)
- [![](../Images/8ea6030ad30f3024bcb0d448c83f0cfa.png)](https://anymod.com/mod/akbra?v=20) 
+ [![](img/8ea6030ad30f3024bcb0d448c83f0cfa.png)](https://anymod.com/mod/akbra?v=20) 
 
 ## Vimeo 嵌入
 
 在您想要的任何位置添加全屏幕 Vimeo 视频。
 [查看 mod](https://anymod.com/mod/dmadd?v=20)
- [![](../Images/ca0a6a41d8dad10d1905b3aad27f069e.png)](https://anymod.com/mod/dmadd?v=20) 
+ [![](img/ca0a6a41d8dad10d1905b3aad27f069e.png)](https://anymod.com/mod/dmadd?v=20) 
 
 ## 优雅的形式
 
 随时随地都可以使用的联系人表单。
 [查看 mod](https://anymod.com/mod/mkbar?v=20)
- [![](../Images/6df8d09e187e5c018902dbba1283f7c8.png)](https://anymod.com/mod/mkbar?v=20) 
+ [![](img/6df8d09e187e5c018902dbba1283f7c8.png)](https://anymod.com/mod/mkbar?v=20) 
 
 ## 内容标签页
 
 使用可定制的选项卡添加和组织您的内容。
 [查看 mod](https://anymod.com/mod/nbdol?v=20)
- [![](../Images/830b1da137bc686f2518b764be2f0ae2.png)](https://anymod.com/mod/nbdol?v=20) 
+ [![](img/830b1da137bc686f2518b764be2f0ae2.png)](https://anymod.com/mod/nbdol?v=20) 
 
 * * *
 

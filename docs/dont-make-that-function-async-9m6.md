@@ -21,13 +21,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 当使用关键字`await`时，Javascript 将暂停函数的执行，并将控制权返回给调用者，直到异步操作完成。在前面的例子中，我们的 saveUser 函数将保持待机状态，等待对方法`saveUserInDatabase(userData)`的调用所返回的承诺，以重新获得控制权并返回结果。
 
-[![](../Images/99d68d3b608e01ec3ee75857970f9af1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6uSTt-Kd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dnudzojp8zjbiyk5cuuw.png)
+[![](img/99d68d3b608e01ec3ee75857970f9af1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6uSTt-Kd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dnudzojp8zjbiyk5cuuw.png)
 
 现在想象一下，我们让*的每个函数都是异步的*。每个函数都必须等待每个单独的函数被解析，然后该函数将取回控制权，只是将控制权交还给该函数的调用者。在这种情况下，节点进程必须启动/停止并保存/恢复每个函数的执行状态。这实际上降低了代码的性能！
 
 想象一下，如果我们的系统中有几层，每一层都在等待另一层完成，以暂时获得控制权并再次归还。您的调用堆栈可能会变成这样:
 
-[![](../Images/b3f7961dace36759cf9c00dc1fd22b2d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4oMMQxXD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9owrs9akdefu8fqw8r17.png)
+[![](img/b3f7961dace36759cf9c00dc1fd22b2d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4oMMQxXD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9owrs9akdefu8fqw8r17.png)
 
 ### 异步创建函数的建议。
 

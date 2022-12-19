@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/mvinhas/how-to-apache-userdir-with-selinux-installed-2afk>
 
-[![SELinux](../Images/641ab659f9a6de212c182ff17563a455.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--23Jp_qWw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pr0lupoq6k7an84q0r9i.png)
+[![SELinux](img/641ab659f9a6de212c182ff17563a455.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--23Jp_qWw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pr0lupoq6k7an84q0r9i.png)
 
 当我开始使用 Fedora 作为我的 Linux 生产环境时，我最初的挣扎之一是能够在 Apache 和 SELinux 中使用我的`/home`文件夹。最初，我习惯把家里的内容链接到`/var/www/html`，然后通过浏览器访问我的项目。
 
@@ -78,11 +78,11 @@ chmod 755 /home/mvinhas/workspace`
 sudo chcon -R -t httpd_sys_content_t /home/mvinhas/workspace`
 
 现在你应该可以在启用 SELinux 的情况下使用你的文件夹了！
-[![](../Images/c8716464b1a1d48d280cf46aa873a7c8.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--PG87xa7p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ivxredy0nxkwl84lwmvb.png)
+[![](img/c8716464b1a1d48d280cf46aa873a7c8.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--PG87xa7p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ivxredy0nxkwl84lwmvb.png)
 
 在终端中执行`ls -Z`可以看到文件夹和文件 SELinux 上下文。您还可以将`-Z`与传统的`-la`参数结合起来，这样您就可以同时看到 SELinux 策略和传统的文件/文件夹权限:
 
-[![](../Images/7a092854888852671b4a32b9ab882314.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_qAlBcW---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v4bm2xkna2s36o80zw0m.png)
+[![](img/7a092854888852671b4a32b9ab882314.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_qAlBcW---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v4bm2xkna2s36o80zw0m.png)
 
 如您所见，我首先检查了 SELinux 的状态，显示 SELinux 处于强制模式，这是默认的推荐模式。
 

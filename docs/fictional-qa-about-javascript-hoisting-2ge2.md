@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/howtocodejs/fictional-qa-about-javascript-hoisting-2ge2>
 
-[![image](../Images/08fc12215f3f06c174809bdd49e73d7b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bYxzhMo3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u8cpzeylfrvp9ik6ahbl.jpg)
+[![image](img/08fc12215f3f06c174809bdd49e73d7b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bYxzhMo3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u8cpzeylfrvp9ik6ahbl.jpg)
 
 问:我想回答一个问题。为什么会这样？这是什么绝地废话？
 

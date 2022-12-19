@@ -12,7 +12,7 @@
 
 首先，我们需要创建一个 Xcode 项目，以 Cocoa 框架为目标。
 
-[![setup](../Images/ec88c49d3bffc5bcdbf6725798c72945.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jL23nCjJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/550y57wtuby89996b3bs.png)
+[![setup](img/ec88c49d3bffc5bcdbf6725798c72945.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jL23nCjJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/550y57wtuby89996b3bs.png)
 
 ### 调试
 
@@ -22,11 +22,11 @@
 
 为此，选择 Twitter 应用程序作为我们框架方案的 **Run** 配置中的可执行程序。
 
-[![debugging_1](../Images/537e664961a33cbd9a5e41328c698bbe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--isGKMrGd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7tuv6yjg5adn9fculwiq.png)
+[![debugging_1](img/537e664961a33cbd9a5e41328c698bbe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--isGKMrGd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7tuv6yjg5adn9fculwiq.png)
 
 通过这种方式，我们的框架将被编译，Twitter 应用程序将与附加到流程的 lldb 一起启动。
 
-[![debugging_2](../Images/2d39ccb0bea82af4816eac540525540f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---L2Gq3gv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2sd2sgbkpstq6f0l6ujb.png)
+[![debugging_2](img/2d39ccb0bea82af4816eac540525540f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---L2Gq3gv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2sd2sgbkpstq6f0l6ujb.png)
 
 ### 注入代码
 
@@ -39,19 +39,19 @@
 作为一个例子，让我们注入一些记录对`viewDidLoad`的每次调用的代码。
 Cocoa Framework 项目模板创建了一个名为`nameOfTheProject.h`的头文件。我们将创建各自的`.m`文件，并在其中放置 swizzling 逻辑。
 
-[![injection_1](../Images/1800c4b313f8e591460c51c82cb33abb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ybenPeqg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hvpgxj5uor6eboso70ls.png)
+[![injection_1](img/1800c4b313f8e591460c51c82cb33abb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ybenPeqg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hvpgxj5uor6eboso70ls.png)
 
 实际上，Xcode 将编译我们的框架，并启动 Twitter 应用程序，调试器附加到它的进程中。将这两者联系起来就像用一个环境变量运行流程一样简单，这个环境变量强制加载位于给定路径的库。这个环境变量是`DYLD_INSERT_LIBRARIES`和我们库的路径`${TARGET_BUILD_DIR}/${TARGET_NAME}.framework/Versions/A/${TARGET_NAME}`。
 
-[![injection_2](../Images/18425b36d1b840ac6790d49a831f7955.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pzlD1FtB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8bfnlyiapoyyf6fl1htj.png)
+[![injection_2](img/18425b36d1b840ac6790d49a831f7955.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pzlD1FtB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8bfnlyiapoyyf6fl1htj.png)
 
 在我们的方案的 **Run** 配置的 **Arguments** 选项卡中设置环境变量后，单击 Run 按钮。我们的代码应该被正确地注入到 Twitter 进程中。
 
-[![injection_3](../Images/3602a1c51dd777cc2f81b77873af92ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cQ2a9c92--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/112anpji9b3rzr84jjzf.png)
+[![injection_3](img/3602a1c51dd777cc2f81b77873af92ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cQ2a9c92--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/112anpji9b3rzr84jjzf.png)
 
 不够好？Xcode 提供的所有其他调试工具也是可用的，从视图层次结构到内存图调试器。
 
-[![injection_4](../Images/cab1a0fd2c77600ba2f5a98de9c26c9e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_plDm9n6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7t8mh752oqtvehntdtat.png)
+[![injection_4](img/cab1a0fd2c77600ba2f5a98de9c26c9e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_plDm9n6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7t8mh752oqtvehntdtat.png)
 
 ### 总结归纳
 

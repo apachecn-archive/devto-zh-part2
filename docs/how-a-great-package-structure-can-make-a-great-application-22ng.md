@@ -32,7 +32,7 @@ Java 提供了*包*的概念，将你的代码组织成组件。但是经验告�
 
 虽然这些都是好事，但你也会经历你的包裹变得越来越大，大到让你感到不舒服的程度。
 
-[![No packages - No cycles](../Images/f3470edfffdc8304038ee4884690ec9e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H0M40SP7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k4r03z4fbqiwgxbd6izm.jpg)
+[![No packages - No cycles](img/f3470edfffdc8304038ee4884690ec9e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H0M40SP7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k4r03z4fbqiwgxbd6izm.jpg)
 
 如果你觉得你的包变得太大，这是一个明显的迹象，可能有一个更好的特定领域的削减。在这种情况下，您应该回顾并质疑当前软件包的整体目的。根据我的经验，你会遇到以下情况:
 
@@ -45,7 +45,7 @@ Java 提供了*包*的概念，将你的代码组织成组件。但是经验告�
 
 但是因为所有相关的东西都在一起，而且你知道大多数东西都不在包外使用，这给了你重构的信心。
 
-[![unit tests](../Images/5d9f13980edf4507d098973a29e93155.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OwUb5deH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/67q07eyq8e3sd0n8p31v.jpg)
+[![unit tests](img/5d9f13980edf4507d098973a29e93155.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OwUb5deH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/67q07eyq8e3sd0n8p31v.jpg)
 
 你有没有想过单元测试中的*单元*是什么？您可能遇到过测试套件，其中每个生产类都有一个测试类。如果是这样的话，你很可能经历过你的单元测试不是非常健壮的。如果您调整实现类，即使您实际上正确地保留了行为，它们也很容易被破坏。那是因为*单位*不等于*级*。*单元*与所有你想要测试的代码相关，以便解决一个领域特定的问题。*单元*意味着*特性*，在我们的例子中，特性意味着你的包的公共接口。
 

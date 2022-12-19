@@ -5,11 +5,11 @@
 # 什么是编码器
 
 编码器是一个集成开发环境。不仅仅是像我们的 go-to VS Code 或 Android Studio 这样的 IDE，而是具有根 Linux 终端访问的全栈 IDE。类似于 [Codepen](https://codepen.io) 、 [JS Fiddle](https://jsfiddle.net) 甚至 [Run Kit](https://runkit.com) 。
-[![Example IDE code](../Images/cc85f078ca72773807af734267365af9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Kb2WXqwK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3n7n4a6mjx43a33lut7b.png)
+[![Example IDE code](img/cc85f078ca72773807af734267365af9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Kb2WXqwK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3n7n4a6mjx43a33lut7b.png)
 
 # 好人和丑人
 
-[![Table](../Images/72a8631586146d55201563a98fdcd359.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AbCAqexo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/amsq172f9snra93pv7y3.png)
+[![Table](img/72a8631586146d55201563a98fdcd359.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AbCAqexo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/amsq172f9snra93pv7y3.png)
 
 # 该不该上？
 

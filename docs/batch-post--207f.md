@@ -17,15 +17,15 @@ shortcode 的 offset 参数根据文章在批处理中的位置，接受给每�
 
 如果批处理模板的文章标题为`ID15-1[bpauto]`，并且批处理大小等于`5`，则结果将是:
 
-[![Post Title Example](../Images/235cd5c381bae6b879a30b1e480b82bf.png "example of post title using shortcode")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bIqUIEJv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://foresthoffman.com/wp-content/uploads/2018/02/batchpost-template-title.png)
+[![Post Title Example](img/235cd5c381bae6b879a30b1e480b82bf.png "example of post title using shortcode")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bIqUIEJv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://foresthoffman.com/wp-content/uploads/2018/02/batchpost-template-title.png)
 
-[![Metabox Example](../Images/3d2bee1c8bc41717e22e6382266fcfdd.png "example of Batch Post meta box")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lsrfNfLa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://foresthoffman.com/wp-content/uploads/2018/02/batchpost-metabox.png)
+[![Metabox Example](img/3d2bee1c8bc41717e22e6382266fcfdd.png "example of Batch Post meta box")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lsrfNfLa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://foresthoffman.com/wp-content/uploads/2018/02/batchpost-metabox.png)
 
 或者，如果批处理模板的文章标题是`ID15-1[bpauto offset=1]`，一批`5`，结果将是:
 
-[![Post Title Example](../Images/645fd868da74df4f0ed76a9f4ebe45e3.png "example of post title using shortcode with an offset")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VnMWgGSi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://foresthoffman.com/wp-content/uploads/2018/02/batchpost-template-title-2.png)
+[![Post Title Example](img/645fd868da74df4f0ed76a9f4ebe45e3.png "example of post title using shortcode with an offset")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VnMWgGSi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://foresthoffman.com/wp-content/uploads/2018/02/batchpost-template-title-2.png)
 
-[![Metabox Example](../Images/31ebabbee0ad9c1414ac93dc058ee806.png "example of Batch Post meta box with an offset")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1ulQUYzS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://foresthoffman.com/wp-content/uploads/2018/02/batchpost-metabox-2.png)
+[![Metabox Example](img/31ebabbee0ad9c1414ac93dc058ee806.png "example of Batch Post meta box with an offset")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1ulQUYzS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://foresthoffman.com/wp-content/uploads/2018/02/batchpost-metabox-2.png)
 
 通过模板标题的独特选择，批量帖子可以相互链接。例如，考虑这个帖子模板:
 

@@ -10,7 +10,7 @@
 
 这是我们将要建造的:
 
-[![](../Images/c8f8270ed058f88100301be4f28e8931.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G4B-2rCH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rabeuioxm4nlytgkzrbd.jpg)
+[![](img/c8f8270ed058f88100301be4f28e8931.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G4B-2rCH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rabeuioxm4nlytgkzrbd.jpg)
 
 如果你想试着自己建造它，在这里停下来。这里没有我们在上一部分没有看到的东西。不要太担心确切的颜色和尺寸，记住通常有多种方法可以达到相同的效果。
 
@@ -99,7 +99,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/eeb929b3bcf1cc4cad0eb16e604f632a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HDeHSJM9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hpp64bnfy36y8ts2o5ys.jpg)
+[![](img/eeb929b3bcf1cc4cad0eb16e604f632a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HDeHSJM9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hpp64bnfy36y8ts2o5ys.jpg)
 
 按钮很简单。我们想把它放在拍立得的主体后面，HTML 的自然流动会为我们处理好这一点。
 
@@ -116,7 +116,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/61840f07853fce31aad8de66b53b2590.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aJWfRiCW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sdz3unu2namz57ch0w64.jpg)
+[![](img/61840f07853fce31aad8de66b53b2590.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aJWfRiCW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sdz3unu2namz57ch0w64.jpg)
 
 因为我们需要两个闪光灯选择器，我们可以使用`:after` :
 
@@ -141,7 +141,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/5fb3496cdf20f601d3c960738ae4f5b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v0qziR2d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vrid83mw3d3nyl999tb7.jpg)
+[![](img/5fb3496cdf20f601d3c960738ae4f5b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v0qziR2d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vrid83mw3d3nyl999tb7.jpg)
 
 信号灯也很简单:
 
@@ -158,7 +158,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/793b0b6b8b74ebcc0befd1a5997935e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8bdyX6hO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k3tmd16c56gv6apidpot.jpg)
+[![](img/793b0b6b8b74ebcc0befd1a5997935e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8bdyX6hO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k3tmd16c56gv6apidpot.jpg)
 
 让我们继续缩放:
 
@@ -197,7 +197,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 使用伪选择器和边框的组合，我们用一个 div 重新创建了缩放的不同部分。太棒了。
 
-[![](../Images/fef1b9b03bb4524212581d0a3d6a9174.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6G3cPXRQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iyixcgmgx886yt671krw.jpg)
+[![](img/fef1b9b03bb4524212581d0a3d6a9174.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6G3cPXRQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iyixcgmgx886yt671krw.jpg)
 
 现在，我想为我们的缩放添加更多的细节，但是我们已经用完了伪选择器。让我们添加一个 div 到我们的 HTML:
 
@@ -240,7 +240,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 主反射是由旋转 45 度的正方形产生的。我已经给 zoom 元素添加了属性`overflow:hidden`,只显示与它重叠的反射部分。用`:after`伪选择器，我添加了另一个小的光反射。
 
-[![](../Images/0c138725a1481d6f009fd90f48b886df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--swST9Pnc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c04cwm1g0ou8my6anwr6.jpg)
+[![](img/0c138725a1481d6f009fd90f48b886df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--swST9Pnc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c04cwm1g0ou8my6anwr6.jpg)
 
 我们的拍立得快好了。我们需要添加最后一个细节:代表品牌的彩虹条纹。实现这一点有不同的方法。最简单的方法是创建五个 div，并为每个 div 分配不同的背景颜色。我们也可以有伪选择器和边框的组合，就像我们对缩放所做的那样。另一种选择是应用带有色标的渐变。相反，我们将使用盒子阴影属性并链接多个值
 
@@ -261,7 +261,7 @@ Enter fullscreen mode Exit fullscreen mode
 这再次表明，通常有多种方法可以达到相同的结果。做这件事没有对错之分，一切都取决于你自己的喜好。我喜欢让我的代码尽可能干燥，所以我通常会选择需要最少代码的方法。
 
 我们完成了我们的宝丽来！
-[![](../Images/924fe2035cd8092d616cd452db9206a5.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--9igaPi6s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q4o88aqu0qjt4mm3j55b.jpg)
+[![](img/924fe2035cd8092d616cd452db9206a5.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--9igaPi6s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q4o88aqu0qjt4mm3j55b.jpg)
 
 # CSS 动画
 
@@ -294,7 +294,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在上面的例子中，正方形将从 0 度旋转到 360 度。
 
-[![](../Images/f900bdfc76458417209e11afa494cc2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oRyWYilv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cbgifaba9am6xtwogkmt.gif)
+[![](img/f900bdfc76458417209e11afa494cc2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oRyWYilv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cbgifaba9am6xtwogkmt.gif)
 
 这个规则中只定义了两个关键帧选择器，但是我们可以添加任意多个。假设我们不想让我们的正方形旋转一整圈，而是将
 旋转到 180 度，然后再旋转回 0。可以通过一个额外的关键帧选择器来实现:
@@ -315,7 +315,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/30055ed93781d38a4027ed53782fb34f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a5mpxTv0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8o24vho7izki0t0nuye3.gif)
+[![](img/30055ed93781d38a4027ed53782fb34f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a5mpxTv0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8o24vho7izki0t0nuye3.gif)
 
 两个关键帧选择器之间的任何点代表从一个选择器到另一个选择器的过渡状态。例如，假设动画是线性的，在 25%时，正方形将旋转 90 度。
 
@@ -466,7 +466,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/b2e73729325d3539dbdb699764f1f68f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zqat0lYu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bbxn7o8j0xth164u0d7b.gif)
+[![](img/b2e73729325d3539dbdb699764f1f68f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zqat0lYu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bbxn7o8j0xth164u0d7b.gif)
 
 这看起来不太对，动画太慢了。我们已经将动画的持续时间设置为 5s，但这应该是整个序列的长度，包括所有四个动画。我们需要缩短这个的长度。让它在 5%到 15%之间运行。
 
@@ -536,7 +536,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 那么上面的快捷键就不起作用了，因为从 15%到 100%按钮会转换回那个位置。
 
-[![](../Images/cac405f20e9d9ad6cc2689f7096af74f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zawau0Es--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r2emqml3mxo9qvjfptn9.gif)
+[![](img/cac405f20e9d9ad6cc2689f7096af74f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zawau0Es--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r2emqml3mxo9qvjfptn9.gif)
 
 现在让我们继续第二个动画，缩放旋转。让它从 20%开始，在 6%的总持续时间内旋转 20 度，然后再旋转 6%回到初始位置。
 
@@ -558,7 +558,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/bc544737c0db5a1af1bf4d43619c6d25.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ivztcan4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h3heiuenysapeguedydv.gif)
+[![](img/bc544737c0db5a1af1bf4d43619c6d25.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ivztcan4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h3heiuenysapeguedydv.gif)
 
 酷毙了。现在让我们制作闪光灯的动画。我们将动画背景颜色，使其闪烁三次红色。
 
@@ -584,7 +584,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在这种情况下，您可以看到链接或循环独立动画的可能性是多么有用。如果能够定义一个闪烁动画，然后设置它重复两次，而不是必须定义这么多关键帧选择器，那就太好了。唉，CSS 没有提供这个选项，所以我们必须借助这种计算来得到我们想要的效果。
 
-[![](../Images/46e241db7ee74a2b823ded94e8eec29b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KJakgTN6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/khyboiooumnhu5c4ss99.gif)
+[![](img/46e241db7ee74a2b823ded94e8eec29b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KJakgTN6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/khyboiooumnhu5c4ss99.gif)
 
 最后，flash 动画:
 
@@ -606,7 +606,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/037a1453642d764b69f3654eae51cf66.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O-gvC-L4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hxjg6ai41hqwqgpnalf6.gif)
+[![](img/037a1453642d764b69f3654eae51cf66.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O-gvC-L4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hxjg6ai41hqwqgpnalf6.gif)
 
 我们的动画可以到此为止了。在 65%和 100%之间什么都不会发生:这将在动画重新开始之前创建一个很好的暂停。
 

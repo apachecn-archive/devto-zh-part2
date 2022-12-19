@@ -6,7 +6,7 @@
 
 你知道，你只需要做这个。你**只是**需要修改一下；服务器会**明显**崩溃。
 
-[![Obviously a meme](../Images/2d03e7685eb8e85824df7bc0cc6249f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rI-oJS8---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2p8j4ginx0mwl3k9ys53.jpeg)
+[![Obviously a meme](img/2d03e7685eb8e85824df7bc0cc6249f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rI-oJS8---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2p8j4ginx0mwl3k9ys53.jpeg)
 
 不是因为你发现了某件显而易见或简单的事情，就意味着其他人也会发现。像仅仅、明显和简单这样的词通常是令人沮丧的——特别是对那些开始拼凑不同事物的初学者来说。
 

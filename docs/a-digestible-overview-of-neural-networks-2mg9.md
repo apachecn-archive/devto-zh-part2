@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/techsmosh/a-digestible-overview-of-neural-networks-2mg9>
 
-[![](../Images/cc31af11adb72a1a1ee18e1ed0930d55.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hlG-yq5Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9e8062x8w6c9ncguaaac.jpg)
+[![](img/cc31af11adb72a1a1ee18e1ed0930d55.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hlG-yq5Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9e8062x8w6c9ncguaaac.jpg)
 
 *由 Raji Ayinla 撰写，作为对 techsmosh 的贡献*
 
@@ -10,7 +10,7 @@
 
 ## 什么是神经网络？
 
-[![](../Images/75349e1f8874e1eb4a9305cf6e987ecc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vi9eYyX6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oyj4xvvwpvf4d15y2vx0.png)
+[![](img/75349e1f8874e1eb4a9305cf6e987ecc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vi9eYyX6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oyj4xvvwpvf4d15y2vx0.png)
 
 通常的做法是将人工神经网络(ANN)概念化为生物神经元。从技术上讲，正如阿达·洛芙莱斯所说，人工神经网络是“神经系统的演算”一个非常非常简化的神经系统。以至于一些神经科学家可能因为这个类比而失眠。
 
@@ -44,7 +44,7 @@ Y=b+∑ wixi
 
 #### 步进功能:
 
-[![](../Images/49902100eb9659b94b43f1be45dcd2c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G52gYln6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v90f0ao8005ytc3cfmea.png)
+[![](img/49902100eb9659b94b43f1be45dcd2c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G52gYln6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v90f0ao8005ytc3cfmea.png)
 
 阶跃函数就像一个开/关开关。它的二进制。对于任何熟悉编程的人来说，你知道阶跃函数等同于布尔条件。以这个伪代码为例:
 
@@ -58,7 +58,7 @@ Y=b+∑ wixi
 
 #### 乙状结肠功能:
 
-[![](../Images/0ab88df393e8b0795241091b16bbafc3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DWrs1-aE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f3o02890b0o052rn1j6h.png)
+[![](img/0ab88df393e8b0795241091b16bbafc3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DWrs1-aE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f3o02890b0o052rn1j6h.png)
 
 解决方案是使用非线性激活函数，如 sigmoid 函数。当您将求和输出传递给 sigmoid 函数时，输出的范围将在 0 和 1 之间。
 
@@ -68,7 +68,7 @@ Y=b+∑ wixi
 
 当你蹒跚学步时，你可能犯了很多错误，导致你的父母责备你，让你知道你有多错。再骂几次之后，你就知道自己的错误了。类似地，我们通过使用成本函数确定预测中的误差量来训练神经网络。均方误差是用于此目的的常见成本函数。
 
-[![](../Images/84ff335b539647fbc728d0dfd9e2202b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r8vQt_jY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vxlkeoen1f8g5e1niij9.gif)
+[![](img/84ff335b539647fbc728d0dfd9e2202b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r8vQt_jY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vxlkeoen1f8g5e1niij9.gif)
 
 将期望值与预测值进行比较。一旦我们获得了误差值，我们需要找出如何最小化成本函数。理论上，我们需要做的只是调整权重，以改变成本。我们的成本越低，我们的结果就越准确。还记得我们的淋浴类比吗？好吧，把突触上所有的重量想象成独立的旋钮。我们可以通过计算每一种可能性来手动调整这些旋钮，但现在想象一下，不是两个旋钮，而是数百万个旋钮需要调整。维数灾难阻止任何人试图通过暴力方法猜测值。
 
@@ -76,7 +76,7 @@ Y=b+∑ wixi
 
 这就是梯度下降的基本原理。正在发生的是一个叫做微分的数学过程。我们找到均方差的导数。这决定了变化的速度。如果是负的，那么成本函数就是在走下坡路。如果是正的，就是上坡。然后我们相应地调整权重。
 
-[![](../Images/4765636aba5df99f5eeffd8488f53827.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5KJ_9yRd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2smexc834p84xnyvthiv.png)
+[![](img/4765636aba5df99f5eeffd8488f53827.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5KJ_9yRd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2smexc834p84xnyvthiv.png)
 
 这个权重调整过程称为反向传播。你可以把反向传播归结为链式法则。在微积分中，链式法则用于将外部函数的导数乘以内部函数的导数。有了这个规则，不管一个网络有多少个隐藏层，你总是能够从第 n 层到第一层。让我们把一个 3X2X1 层重新想象成嵌套函数 f(f(XW^(1)) W^(2)).
 

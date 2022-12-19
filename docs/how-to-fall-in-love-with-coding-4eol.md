@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/sandipmavani/how-to-fall-in-love-with-coding-4eol>
 
-[![alt text](../Images/7e529be2a15ed3d60367d6c2fb5a8b6d.png "Logo Title Text 1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hS_1a-1k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Abj_qpLZz0Xj0mdQthtNe_Q.png)
+[![alt text](img/7e529be2a15ed3d60367d6c2fb5a8b6d.png "Logo Title Text 1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hS_1a-1k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Abj_qpLZz0Xj0mdQthtNe_Q.png)
 
 无论我们做什么，我们都应该对它充满热情，热爱它。谈到编码，我想引用史蒂夫·乔布斯(Steve Jobs)说过的话——**“每个人都应该学习如何编码，它教会你如何思考”**，因此编码变得至关重要。现在，要从编码开始，或者探索如何爱上编码，我们必须了解编码的不同方面。
 

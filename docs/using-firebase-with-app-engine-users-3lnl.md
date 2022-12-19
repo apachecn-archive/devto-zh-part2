@@ -16,7 +16,7 @@
 
 因此，尽管 Firebase 惊人地支持与多个提供商一起登录[——甚至是你的电话号码！📞—你实际上可以完全跳过 Firebase 的登录代码，直接创建用户，使用下图中的**优先策略**。](https://fir-ui-demo-84a6c.firebaseapp.com/)
 
-[![Two possible Firebase user flows](../Images/87de5c130d4f1b6f21d358a66a0942fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xySucCJ5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o2m0nu1jq7f6cokeea7y.png)
+[![Two possible Firebase user flows](img/87de5c130d4f1b6f21d358a66a0942fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xySucCJ5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o2m0nu1jq7f6cokeea7y.png)
 
 因此，我们可以创建全新的用户，并生成所谓的**自定义令牌**，供这些用户与 Firebase 的服务进行交互。这些用户在技术上与现有的 Google 账户没有关联——因为只有你的后端创建他们，你可以断言他们的有效性。
 

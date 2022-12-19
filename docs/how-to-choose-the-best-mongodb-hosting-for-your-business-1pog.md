@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/scalegrid/how-to-choose-the-best-mongodb-hosting-for-your-business-1pog>
 
-[![How To Choose The Best MongoDB Hosting For Your Business](../Images/72f9d72b8fb94c09aba44c0112d91df3.png)T2】](https://scalegrid.io/blog/how-to-choose-the-best-mongodb-hosting-for-your-business/)
+[![How To Choose The Best MongoDB Hosting For Your Business](img/72f9d72b8fb94c09aba44c0112d91df3.png)T2】](https://scalegrid.io/blog/how-to-choose-the-best-mongodb-hosting-for-your-business/)
 
 来自微型创业公司的 Kayleigh Alexandra 的客座博文。
 
@@ -74,4 +74,4 @@
 
 出于我们提到的所有原因，主机通常非常重要，而对于支持 MongoDB 数据库来说*非常*重要。这不是一个轻率的决定。你可能会觉得简单地选择你看到的第一个托管解决方案会节省时间和精力，但这种短期的节省可能会让你在未来付出高昂的代价。你是在对你的商业前景进行投资——你今天花在选择最佳主机上的时间将会得到巨大的回报。
 
-**[![MicroStartups - Giving Through Growth Hacking](../Images/3f1c09353aa1f9ebaf501389f6636550.png) ](https://microstartups.org/) [凯丽·亚历山德拉](https://microstartups.org/)** 是一个专为微型创业公司撰写创业相关内容的作家，这个网站一直致力于颂扬创业精神的优点。前往微软博客，了解小企业世界的最新消息，并确保在 Twitter [@getmicrostarted](https://twitter.com/getmicrostarted) 上关注我们。
+**[![MicroStartups - Giving Through Growth Hacking](img/3f1c09353aa1f9ebaf501389f6636550.png) ](https://microstartups.org/) [凯丽·亚历山德拉](https://microstartups.org/)** 是一个专为微型创业公司撰写创业相关内容的作家，这个网站一直致力于颂扬创业精神的优点。前往微软博客，了解小企业世界的最新消息，并确保在 Twitter [@getmicrostarted](https://twitter.com/getmicrostarted) 上关注我们。

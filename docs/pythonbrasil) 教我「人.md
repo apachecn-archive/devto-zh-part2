@@ -8,7 +8,7 @@
 
 起初是的，但就像任何梦想或一切都是可预见的(尤其是当你从未担任过这个职位时)。写这篇博客文章的想法是揭露一个你可能没有分析过的情景。当我们恋爱时，我们认为前进的道路是由花组成的。
 
-> ![Avelino profile image](../Images/61c4ec3a5d78933a119085134d1309a1.png)【avellino】@ avelinorun![twitter logo](../Images/ad0c7b03deabfe1a161345efb2d537eb.png)什么时候到了停止在我的上过夜的时候我相信答案是你明白为什么开始！你的创业梦想不应超过任何东西或任何人的总和，尤其是在你的健康之上[【反省】](https://twitter.com/hashtag/Reflections) [【创业】](https://twitter.com/hashtag/empreendedorismo)[【soudev】](https://twitter.com/hashtag/soudev)[【创业】](https://twitter.com/hashtag/startup)
+> ![Avelino profile image](img/61c4ec3a5d78933a119085134d1309a1.png)【avellino】@ avelinorun![twitter logo](img/ad0c7b03deabfe1a161345efb2d537eb.png)什么时候到了停止在我的上过夜的时候我相信答案是你明白为什么开始！你的创业梦想不应超过任何东西或任何人的总和，尤其是在你的健康之上[【反省】](https://twitter.com/hashtag/Reflections) [【创业】](https://twitter.com/hashtag/empreendedorismo)[【soudev】](https://twitter.com/hashtag/soudev)[【创业】](https://twitter.com/hashtag/startup)
 
 ## 让我们直奔主题吧！
 
@@ -44,4 +44,4 @@
 
 从“**巴西[13]** 中吸取的经验教训
 
-> ![unknown tweet media content](../Images/758b54416837871e1d1700460b014727.png)![Avelino profile image](../Images/61c4ec3a5d78933a119085134d1309a1.png)Avelino@ Avelino run![twitter logo](../Images/ad0c7b03deabfe1a161345efb2d537eb.png)[# opensource](https://twitter.com/hashtag/opensource)人与人之间的互动是感动。感谢 [@pythonbrasil](https://twitter.com/pythonbrasil) 教我「人>技术】[# python](https://twitter.com/hashtag/python)[# golang](https://twitter.com/hashtag/golang)[# clo jure](https://twitter.com/hashtag/clojure)[@ ThePSF](https://twitter.com/ThePSF)[@ code](https://twitter.com/code)[@微软](https://twitter.com/Microsoft)[#微软](https://twitter.com/hashtag/microsoft)[# vs code](https://twitter.com/hashtag/vscode)[# OSI](https://twitter.com/hashtag/osi)[@ apyb](https://twitter.com/apyb)***
+> ![unknown tweet media content](img/758b54416837871e1d1700460b014727.png)![Avelino profile image](img/61c4ec3a5d78933a119085134d1309a1.png)Avelino@ Avelino run![twitter logo](img/ad0c7b03deabfe1a161345efb2d537eb.png)[# opensource](https://twitter.com/hashtag/opensource)人与人之间的互动是感动。感谢 [@pythonbrasil](https://twitter.com/pythonbrasil) 教我「人>技术】[# python](https://twitter.com/hashtag/python)[# golang](https://twitter.com/hashtag/golang)[# clo jure](https://twitter.com/hashtag/clojure)[@ ThePSF](https://twitter.com/ThePSF)[@ code](https://twitter.com/code)[@微软](https://twitter.com/Microsoft)[#微软](https://twitter.com/hashtag/microsoft)[# vs code](https://twitter.com/hashtag/vscode)[# OSI](https://twitter.com/hashtag/osi)[@ apyb](https://twitter.com/apyb)***

@@ -10,7 +10,7 @@ Ember 有一些令人兴奋的功能，将它从一些人可能更熟悉的“�
 
 ### [异步生命周期挂钩](https://gitlab.com/NullVoxPopuli/emberclear/blob/master/packages/frontend/src/ui/routes/chat/route.ts)
 
-[![Ember route demonstrating server-side rendering gates as well as [decorators](http://ember-decorators.github.io/ember-decorators/latest/), and async-aware lifecycle hooks](../Images/e8301627d3cf3421686802f8f3e21edf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5TId30RW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1oiicra01ryslttayncw.png)
+[![Ember route demonstrating server-side rendering gates as well as [decorators](http://ember-decorators.github.io/ember-decorators/latest/), and async-aware lifecycle hooks](img/e8301627d3cf3421686802f8f3e21edf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5TId30RW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1oiicra01ryslttayncw.png)
 
 这是一个路由处理程序，演示了异步生命周期挂钩，这些挂钩通过装饰器在服务器端呈现上下文中被禁用。人们可能希望这样做，因为应用程序可能会与 [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) 或 [indexeddb](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API) 进行交互，而这些在服务器端上下文中并不存在。
 
@@ -19,7 +19,7 @@ Ember 有一些令人兴奋的功能，将它从一些人可能更熟悉的“�
 
 ### [组件的语法](https://gitlab.com/NullVoxPopuli/emberclear/blob/master/packages/frontend/src/ui/routes/login/template.hbs)
 
-[![Template for the login route demonstrating component invocation using Angle Brackets](../Images/77c5c2c9aa745f40d38d500267cfece9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Uoor2sZH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/DmDpD52U8AArQgP.jpg)
+[![Template for the login route demonstrating component invocation using Angle Brackets](img/77c5c2c9aa745f40d38d500267cfece9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Uoor2sZH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/DmDpD52U8AArQgP.jpg)
 
 紧随 angular、react 和 vue 的脚步，Ember *也有*的组件，这让你的代码感觉更自然，可读性更好——尤其是与更老的(有时令人讨厌的)[手柄](https://handlebarsjs.com/)语法相比，在那里模板将到处加载`{{ ... }}`。
 
@@ -32,7 +32,7 @@ Ember 有一些令人兴奋的功能，将它从一些人可能更熟悉的“�
 
 ### [检测](https://gitlab.com/NullVoxPopuli/emberclear/blob/master/packages/frontend/src/ui/routes/settings/acceptance-test.ts)
 
-[![Testing comes for free out of the box with ember](../Images/6b975271ed197ae623ce386f3107c1b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N_pu42tO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/DmDp4uQUUAEyK31.jpg)
+[![Testing comes for free out of the box with ember](img/6b975271ed197ae623ce386f3107c1b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N_pu42tO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/DmDp4uQUUAEyK31.jpg)
 
 Ember 应用程序自带一个异步感知测试框架，该框架使用真正的浏览器。没有 jsdom 或假的浏览器来引起对测试和现实之间奇怪的兼容性问题的担心。测试是真实的。
 
@@ -40,7 +40,7 @@ Ember 应用程序自带一个异步感知测试框架，该框架使用真正�
 
 ### [依赖注入是必须的](https://gitlab.com/NullVoxPopuli/emberclear/blob/master/packages/frontend/src/ui/components/current-chat-name/component.ts)
 
-[![Example dependency injection service consumption within a component](../Images/e055ee51bdbf2eb8d305f9e3635679ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ak0A3rDP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/DmDquC-V4AAbLbi.jpg)
+[![Example dependency injection service consumption within a component](img/e055ee51bdbf2eb8d305f9e3635679ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ak0A3rDP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/DmDquC-V4AAbLbi.jpg)
 
 在我看来，依赖注入容器使得 *all* 成为一个框架完整性的差异。默认情况下， [Ember 自带依赖注入](https://guides.emberjs.com/release/applications/dependency-injection/)。不需要连接所有的依赖项。没必要什么都进口。不需要担心一个类有多少个实例，因为服务[单例](https://en.wikipedia.org/wiki/Singleton_pattern)。
 
@@ -48,7 +48,7 @@ Ember 依赖注入容器通过帮助管理应用程序级状态而无需任何�
 
 ### [键盘无障碍](https://gitlab.com/NullVoxPopuli/emberclear/blob/master/packages/frontend/src/ui/routes/application/template.hbs)
 
-[![Declarative Keyboard shortcuts](../Images/09b2c035ddd13559b65215aaf5709365.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P0N64wk---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/DmDsqFaUwAAWNWI.jpg)
+[![Declarative Keyboard shortcuts](img/09b2c035ddd13559b65215aaf5709365.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P0N64wk---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/DmDsqFaUwAAWNWI.jpg)
 
 想要为您的应用程序添加键盘辅助功能吗？Ember 插件 [ember-keyboard](https://github.com/patience-tema-baron/ember-keyboard/) 提供了一套工具，允许你做一些普通的键盘可访问的任务，比如切换模式。
 

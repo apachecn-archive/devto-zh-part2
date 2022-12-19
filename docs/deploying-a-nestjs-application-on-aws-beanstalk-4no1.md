@@ -20,7 +20,7 @@ NestJS 是一个渐进式 web 框架，用于使用 TypeScript 构建后端应�
 Beanstalk 和许多其他生产环境都希望我们使用 PORT 环境变量。默认模板上还不是这种情况，因此我们需要更新`src/main.ts`文件来监听正确的端口。
 这就像用`process.env.PORT || 3000`代替之前硬编码的 3000 一样简单。
 这将使用端口变量(如果它存在的话),如果它没有被设置，将返回到 3000。
-[![Application listening on the port variable](../Images/aa7aa6e6a3a16424f722c65170a7c878.png)T8】](https://res.cloudinary.com/practicaldev/image/fetch/s--KJuGVWVy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rx7dbe0bmuj3cegijn4q.png)
+[![Application listening on the port variable](img/aa7aa6e6a3a16424f722c65170a7c878.png)T8】](https://res.cloudinary.com/practicaldev/image/fetch/s--KJuGVWVy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rx7dbe0bmuj3cegijn4q.png)
 
 # 打字稿
 
@@ -35,14 +35,14 @@ Beanstalk 和许多其他生产环境都希望我们使用 PORT 环境变量。�
 为了知道要安装的依赖项，NodeJS 需要`package.json`文件。
 在我的项目中，我将配置文件存储在`config/config.json`文件中，这些文件也没有复制到 dist 文件夹中，因为它们不是`ts`。
 为了部署应用程序，我们需要将所有非类型脚本的配置文件，包括`package.json`复制到 dist 文件夹中。
-[![Dist folder result](../Images/39236d469a61ecd6ddd0a200afe9a6f4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--F53wQMQ4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kessetqukiwyky8mnt6j.png)
+[![Dist folder result](img/39236d469a61ecd6ddd0a200afe9a6f4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--F53wQMQ4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kessetqukiwyky8mnt6j.png)
 
 # 豆茎配置
 
 最后，一旦我们准备好在 Beanstalk 上部署所有东西，我们需要更改一个设置。
 由于默认的`npm start`不能用于我们的文件夹，考虑到既没有安装`main.ts`也没有安装`ts-node`，我们需要告诉 Beanstalk 运行`node src/main.js`。
 该设置为`Node command`，可以在豆茎配置界面的`Container Options`下找到。
-[![Beanstalk application settings](../Images/37ff243ae771df3fa1d61ba31c472bc9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zHmjCs75--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fthm4fi5dih34o8qe4da.png)
+[![Beanstalk application settings](img/37ff243ae771df3fa1d61ba31c472bc9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zHmjCs75--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fthm4fi5dih34o8qe4da.png)
 
 一旦环境启动，应用程序应该在给定的 beanstalk URL 上启动并运行！
 

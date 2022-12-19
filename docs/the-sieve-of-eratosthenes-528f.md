@@ -4,7 +4,7 @@
 
 用前 N 个素数生成乘法表。
 
-[![](../Images/828c76d174ad21248d1769b1ad709eb1.png)T2】](https://cdn-images-1.medium.com/max/1024/1*MWlNEtcGTEDid6GDTVtPDQ.jpeg)
+[![](img/828c76d174ad21248d1769b1ad709eb1.png)T2】](https://cdn-images-1.medium.com/max/1024/1*MWlNEtcGTEDid6GDTVtPDQ.jpeg)
 
 ### 简介
 
@@ -36,7 +36,7 @@
 
 例如，默认输出将第一个质数作为第一列，直到数字 10。这意味着数字 2，3，5 和 7。第一排也一样。下图应该有助于您直观地看到所需的输出:
 
-[![](../Images/4f74938e5d2e48aacfb3ecf66c1027d9.png)T2】](https://cdn-images-1.medium.com/max/550/1*0x282WdYJKF9rBUsyH7DSA.png)
+[![](img/4f74938e5d2e48aacfb3ecf66c1027d9.png)T2】](https://cdn-images-1.medium.com/max/550/1*0x282WdYJKF9rBUsyH7DSA.png)
 
 ### 创造宝石
 

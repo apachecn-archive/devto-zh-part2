@@ -11,7 +11,7 @@
 3.  **微软最近对 OSS 真的很好**它的 CEO 塞特亚·纳德拉对它的态度很好；
 4.  GitHub 的功能库停滞不前，可能是因为它微薄的预算仅够支付服务器的费用:有了微软庞大的开发者大军，我们最终会看到一些新的东西。
 
-> ![](../Images/6d70b9abbf0bf1c0637433b3c86d4250.png)我是开发者@ iamdevloper![](../Images/4d9c44713c216584b3d48ff3455cbb68.png)微软现在是第一家在 GitHub 上真正付费的公司。2018 年 06 月 04 日下午 13:12[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1003625600714756097)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1003625600714756097)1377[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1003625600714756097)4660
+> ![](img/6d70b9abbf0bf1c0637433b3c86d4250.png)我是开发者@ iamdevloper![](img/4d9c44713c216584b3d48ff3455cbb68.png)微软现在是第一家在 GitHub 上真正付费的公司。2018 年 06 月 04 日下午 13:12[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1003625600714756097)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1003625600714756097)1377[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1003625600714756097)4660
 
 最后，我不认为我们会很快看到这些:
 
@@ -46,7 +46,7 @@
 
 雷德蒙近年来对 OSS 很好。塞特亚·纳德拉[已经证实](https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/)“微软全力支持开源”。此刻我没有理由不相信他。
 
-[![Chris Wanstrath (left), Github CEO and co-founder; Nat Friedman, Microsoft corporate vice president, Developer Services; Satya Nadella, Microsoft CEO; and Amy Hood, Microsoft Chief Financial Officer](../Images/eb9334d77b3e8f14d8250da19b08c0af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9O80vean--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ne0jlgaa5kvmqtnk0w3y.jpg)
+[![Chris Wanstrath (left), Github CEO and co-founder; Nat Friedman, Microsoft corporate vice president, Developer Services; Satya Nadella, Microsoft CEO; and Amy Hood, Microsoft Chief Financial Officer](img/eb9334d77b3e8f14d8250da19b08c0af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9O80vean--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ne0jlgaa5kvmqtnk0w3y.jpg)
 
 所以，微软致力于开源。我们都知道它并不总是这样:它曾经鄙视开源，认为它不安全、不可靠、不专业。甚至*的这种态度也对其业务产生了巨大的影响*，因为自 80 年代末以来，微软一直是一个 IT 巨头。
 
@@ -78,7 +78,7 @@ Bit GitHub 的问题其实很普遍。如今，这个行业的大部分依赖于
 
 微软可能会将 GitHub 整合到其庞大的服务中。想想部署到 Azure，CI/CD 与门户，与团队协作，与 VS/VS 代码集成。甚至可能将 LinkedIn 连接到 GitHub。
 
-> ![](../Images/b5bfdbab4b6cc8b88b74bd7d46ec9d8f.png)我是招聘人员@ iam recruiter![](../Images/4d9c44713c216584b3d48ff3455cbb68.png)我想把你加到我在 GitHub 上的职业关系网中。09:26AM-04 Jun 2018[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1003568544070754304)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1003568544070754304)1047[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1003568544070754304)3634
+> ![](img/b5bfdbab4b6cc8b88b74bd7d46ec9d8f.png)我是招聘人员@ iam recruiter![](img/4d9c44713c216584b3d48ff3455cbb68.png)我想把你加到我在 GitHub 上的职业关系网中。09:26AM-04 Jun 2018[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1003568544070754304)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1003568544070754304)1047[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1003568544070754304)3634
 
 那会很好。好的方面是，GitHub 现在是微软的事情，我们可能会看到 AWS、Google Cloud 或 Digital Ocean 也是如此，T2 不会。(不过，我可能是错的。如果会发生，我会感到惊喜。
 
@@ -86,7 +86,7 @@ Bit GitHub 的问题其实很普遍。如今，这个行业的大部分依赖于
 
 从长远来看，GitHub 将服务于微软的目的，将开发社区聚集到它的法庭上。
 
-[![Steve Ballmer chanting "Developers, developers, developers, developers!"](../Images/523bb5b526fcbb3897a98afd61e491ca.png)T2】](https://i.giphy.com/media/enTimXqzmVXR6/giphy.gif)
+[![Steve Ballmer chanting "Developers, developers, developers, developers!"](img/523bb5b526fcbb3897a98afd61e491ca.png)T2】](https://i.giphy.com/media/enTimXqzmVXR6/giphy.gif)
 
 ## GitHub 上的其他 OS 项目
 
@@ -96,13 +96,13 @@ Bit GitHub 的问题其实很普遍。如今，这个行业的大部分依赖于
 
 那么其他次要的 OSS 贡献者呢？
 
-[![Meme picture of a guy with a girl ogling another girl, captioned as "Every GitHub repo right now", "Microsoft" and "GitLab", respectively](../Images/2d3c656fc5752b84b0e990edbee57fa8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uA5agyj3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/De2XSYEXcAAhJSh.jpg)
+[![Meme picture of a guy with a girl ogling another girl, captioned as "Every GitHub repo right now", "Microsoft" and "GitLab", respectively](img/2d3c656fc5752b84b0e990edbee57fa8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uA5agyj3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/De2XSYEXcAAhJSh.jpg)
 
 大多数人可能会留下来。在我写这篇文章的时候，有些人正在迁移到 GitLab 或 Bitbucket。就我个人而言，我不会移动任何东西——反正会很麻烦——但我可能会考虑在我的下一个项目中使用替代方案，也许只是为了探索新的解决方案。
 
 但是如果你，开源贡献者，决定转移到其他平台，请不要一蹴而就:
 
-> ![](../Images/8f15bc0e9137ecd0293895156143d24e.png)git lab@ git lab![](../Images/4d9c44713c216584b3d48ff3455cbb68.png)我们看到的是 10 倍于正常日存储量的存储库[# movingtogitlab](https://twitter.com/hashtag/movingtogitlab)[dropbox.com/s/uzg9vc5oljr8…](https://t.co/7AWH7BmMvM)我们正在扩展我们的车队，试图跟上时代的步伐。关注[monitor.gitlab.net/dashboard/db/g…](https://t.co/hN0ce379SC)和[@ movingtogitlab](https://twitter.com/movingtogitlab)2018 年 6 月 03 日下午 22:55[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1003409836170547200)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1003409836170547200)352[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1003409836170547200)481
+> ![](img/8f15bc0e9137ecd0293895156143d24e.png)git lab@ git lab![](img/4d9c44713c216584b3d48ff3455cbb68.png)我们看到的是 10 倍于正常日存储量的存储库[# movingtogitlab](https://twitter.com/hashtag/movingtogitlab)[dropbox.com/s/uzg9vc5oljr8…](https://t.co/7AWH7BmMvM)我们正在扩展我们的车队，试图跟上时代的步伐。关注[monitor.gitlab.net/dashboard/db/g…](https://t.co/hN0ce379SC)和[@ movingtogitlab](https://twitter.com/movingtogitlab)2018 年 6 月 03 日下午 22:55[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1003409836170547200)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1003409836170547200)352[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1003409836170547200)481
 
 ## GitHub 的*其他*项目怎么样？
 
@@ -114,7 +114,7 @@ GitHub，Inc .不仅仅是风险投资托管服务 GitHub。GitHub 还创建了�
 
 **更新**:正如 Nat Friedman(GitHub 新任首席执行官)在收购后在他的 [Reddit AMA 上所说，微软“将继续开发和支持 Atom 和 VS 代码”。所以事情暂时不会改变，我仍然怀疑长期的支持。](https://www.reddit.com/r/AMA/comments/8pc8mf/im_nat_friedman_future_ceo_of_github_ama/e0a235q/)
 
-[![Screenshot of Nat Friedman's AMA on Reddit](../Images/1bc6a553be283e6cc660b16c888031ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Nqdncon5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9fn64nrjez7jkfrxmoic.jpg)
+[![Screenshot of Nat Friedman's AMA on Reddit](img/1bc6a553be283e6cc660b16c888031ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Nqdncon5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9fn64nrjez7jkfrxmoic.jpg)
 
 Gitter 或多或少也是如此，因为已经有这样的团队了。可能需要更长时间，但我想不会停留太久。 *Gitter 其实是 2017 年 3 月被 GitLab 收购的[——感谢@mnivoliez 的提醒。](http://blog.gitter.im/2017/03/15/gitter-gitlab-acquisition/)*
 

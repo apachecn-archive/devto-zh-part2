@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/binarydigit/codenewbie-s-codeland-conf-in-nyc-54l>
 
-[![Codenewbie's Codeland Conf in NYC](../Images/4b29bc96087cb64323c60950946b373e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3L3qF3F7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://binarydigit.io/content/images/2018/12/Codeland-badge.jpg)
+[![Codenewbie's Codeland Conf in NYC](img/4b29bc96087cb64323c60950946b373e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3L3qF3F7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://binarydigit.io/conteimg/2018/12/Codeland-badge.jpg)
 
 我参加了我的第一次开发者大会，名为 [Codeland](http://codelandconf.com/) ，这太棒了！
 
@@ -10,13 +10,13 @@
 
 Codeland 在微软位于纽约市时代广场 11 号的大楼里举行，这是一个很好的中心位置。这是一座巨大的建筑，一些墙上写着鼓舞人心的话。经过检查，我收到了一个漂亮的交换袋，里面装满了好吃的东西！
 
-[![Codenewbie's Codeland Conf in NYC](../Images/721f7379dfa5e24b28dd1bf799558730.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JSGji4jC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://binarydigit.io/content/images/2018/12/Swag.jpg)
+[![Codenewbie's Codeland Conf in NYC](img/721f7379dfa5e24b28dd1bf799558730.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JSGji4jC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://binarydigit.io/conteimg/2018/12/Swag.jpg)
 
 然后我试着和一些人聊天——我喜欢人群的多样性——所有的年龄，种族，性别！我立刻对我遇到的人感到很舒服。他们告诉我他们进入软件开发的旅程，有些人刚刚开始，有些人已经做了几年了。
 
 我遇到了实用开发者的 Ben Halpern，这是另一个令人惊奇的在线编码社区！
 
-[![Codenewbie's Codeland Conf in NYC](../Images/e4d98a3c34e34969375b44acdf6258c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4PL-mvaH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://binarydigit.io/content/images/2018/12/Codland2018-01.jpg)
+[![Codenewbie's Codeland Conf in NYC](img/e4d98a3c34e34969375b44acdf6258c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4PL-mvaH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://binarydigit.io/conteimg/2018/12/Codland2018-01.jpg)
 
 我本打算在我的这篇文章上附上一些照片，但是麦克比利·西拍了一些很棒的照片，所以我会链接到他的网站！这里是从[周五](https://www.mcbilly.com/gallery/codeland-2018-day-1/)和[周六](https://www.mcbilly.com/gallery/codeland-2018-day-2/)的照片！我注意到他用的是富士 X-T20(或 X-T10 ),这是富士摄影者的荣耀！👍📷
 

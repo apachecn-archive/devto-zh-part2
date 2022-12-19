@@ -10,7 +10,7 @@
 
 根据我创作的原始设计，这是我为第二天准备的:
 
-[![A search bar component, with input text element](../Images/09244f3e9bf82feca14a1d2d6d866647.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--odhjV72e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui-assets/master/search-bar/day2/w2d2-final-sized.png)
+[![A search bar component, with input text element](img/09244f3e9bf82feca14a1d2d6d866647.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--odhjV72e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui-assets/master/search-bar/day2/w2d2-final-sized.png)
 
 同样，我没有偏离“白色矩形”搜索输入的可靠传统；为此，我使用了一个带有`type="search"`属性的`input`元素；您可以使用`type="text"`或其他类型的元素来获取用户输入，但是使用适当的 HTML 元素和`type`属性将有助于组件的用户体验(或 UX ),因为浏览器和设备将基于搜索类型添加额外的功能。
 
@@ -20,7 +20,7 @@
 
 这是第一件作品的动画:
 
-[![An animation showing the search bar component in use, with text input to the input element and a logger display showing the output below](../Images/b051093686cb7e5d28df9e71caa848ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rv21aZK6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui-assets/master/search-bar/day2/w2d2-searchinput-animation.gif)
+[![An animation showing the search bar component in use, with text input to the input element and a logger display showing the output below](img/b051093686cb7e5d28df9e71caa848ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rv21aZK6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui-assets/master/search-bar/day2/w2d2-searchinput-animation.gif)
 
 ## 现在轮到你了
 

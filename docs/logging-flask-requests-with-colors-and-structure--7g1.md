@@ -35,7 +35,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我想用最新发布的 Flask (v0.12.2)来复制这一点，并添加一些颜色:
 
-[![colorized logging](../Images/02e1280058acbdb7ab82421b2882bc88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0YwAJShU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a810d2ap3r8fgvnncsb3.png)
+[![colorized logging](img/02e1280058acbdb7ab82421b2882bc88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0YwAJShU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a810d2ap3r8fgvnncsb3.png)
 
 **要收集的信息**
 

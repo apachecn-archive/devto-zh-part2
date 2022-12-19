@@ -6,4 +6,4 @@
 
 [读于](https://auth0.com/blog/vuejs-kanban-board-adding-progressive-web-app-features/?utm_source=dev&utm_medium=sc&utm_campaign=vuejs_kanban)
 
-[![Vue.js Kanban Board: Adding Progressive Web App Features](../Images/be12686a719110a3d0af686696e71234.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_JvQ1sT1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n9kuuiaw04305f95rwsv.png)
+[![Vue.js Kanban Board: Adding Progressive Web App Features](img/be12686a719110a3d0af686696e71234.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_JvQ1sT1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n9kuuiaw04305f95rwsv.png)

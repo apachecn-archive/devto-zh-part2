@@ -37,7 +37,7 @@
 
 下图说明了整数 3 如何存储在使用哈希表实现的集合中。我们计算 *h(3)* 并将值存储在数组的相应字段中。
 
-[![hash table](../Images/1822a8153354f0ebc21e11558f4c429f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zvKgfN8A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bj1cw270wi72zfgb73yv.png)
+[![hash table](img/1822a8153354f0ebc21e11558f4c429f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zvKgfN8A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bj1cw270wi72zfgb73yv.png)
 
 我们如何挑选 *h* ？对于 *h* 的实际选择是重用现有的加密哈希函数(例如 [MD5](https://en.wikipedia.org/wiki/MD5) )并取结果值模 *m* 。缺点是这些散列函数可能很慢。这就是为什么 Java 依赖于每种数据类型的定制散列函数(例如 [`String`](http://grepcode.com/file/repository.grepcode.com/java/root/jdk/openjdk/6-b14/java/lang/String.java#String.hashCode%28%29) )。
 
@@ -77,7 +77,7 @@
 
 在[二叉查找树](https://en.wikipedia.org/wiki/Binary_search_tree)中，数据存储在节点中。每个节点最多有两个子节点。左边的子树只包含比当前节点小的元素。右边的子树只包含较大的元素。如果树是平衡的，即对于所有节点，左右子树的高度最多相差 1，则搜索节点需要对数时间。下图说明了如何存储器械包 *{0..6}* 在二叉查找树。
 
-[![binary search tree](../Images/b15a85e11ad2f159a2575bbd42ab2ebb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HrsZFTZj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yqy1fxkchdm2trqr8t3m.png)
+[![binary search tree](img/b15a85e11ad2f159a2575bbd42ab2ebb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HrsZFTZj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yqy1fxkchdm2trqr8t3m.png)
 
 问题是我们如何在插入和删除元素时保持树的平衡？我们需要相应地设计我们的插入和删除算法，以使树自平衡。这种自平衡二分搜索法树的一种广泛使用的变体是红黑树[1]。
 
@@ -85,7 +85,7 @@
 
 详细解释算法超出了这篇文章的范围，所以请随意自行查找。还有一个由大卫·加勒创作的令人惊叹的红黑树互动可视化,值得一看。现在让我们来看看同一个例子集 *{0..6}* 存放在红黑树中。
 
-[![red-black tree](../Images/0e8a8d5065aa716d9f8038eb8a65dafe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XL1Z6z6p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dm6ki4yv0l950r1ihsln.png)
+[![red-black tree](img/0e8a8d5065aa716d9f8038eb8a65dafe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XL1Z6z6p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dm6ki4yv0l950r1ihsln.png)
 
 请注意，红黑树不一定完全平衡，而是根据子树中黑色节点的高度来平衡。由于红黑树的不变量，平衡的红黑树永远不会比完全平衡的树差太多，即它们具有相同的搜索渐近复杂度。
 
@@ -121,7 +121,7 @@
 
 为了执行二分搜索法，我们必须将我们的查询与中位数进行比较。如果中值不是我们要找的元素，我们就取左边或右边的子列表，递归地重复中值比较。这意味着我们并不真的需要完全随机访问，而是访问当前子列表的中间值。下图说明了我们如何使用跳过指针来实现这一点。
 
-[![perfect skip list](../Images/10bb5c88f14d6844140545ad61946883.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LTW6srWn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/omhubcge7dt50dodwkl1.png)
+[![perfect skip list](img/10bb5c88f14d6844140545ad61946883.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LTW6srWn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/omhubcge7dt50dodwkl1.png)
 
 这个跳过列表有三个级别。最低级别包含整数的完整集合 *{0..6}* 。下一级只有 *{1，3，5}* ，上一级只有 *{3}* 。我们正在添加两个人工节点 *-∞* 和 *∞* 。每个节点保存一个值和一个指针数组，每个指针指向相应级别上的每个后继节点。如果我们现在想检查 *4* 是否是器械包的成员，我们按以下步骤进行。
 
@@ -200,8 +200,8 @@
 
 下图显示了从 100 000 个随机整数生成的不同集合上的 100 000 个点查询的运行时间。
 
-[![read-chart](../Images/3bffaf896e6d88a975e699e4f6fb2dc6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--G7tL5wIl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5fk69w087bs8ncsx4s5a.png)
-[![read-chart-legend](../Images/9d4f193350a6f3910570204802785d7b.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--sguh4m_i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nzfe73ah6bb1vxrcz76k.png)
+[![read-chart](img/3bffaf896e6d88a975e699e4f6fb2dc6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--G7tL5wIl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5fk69w087bs8ncsx4s5a.png)
+[![read-chart-legend](img/9d4f193350a6f3910570204802785d7b.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--sguh4m_i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nzfe73ah6bb1vxrcz76k.png)
 
 正如预期的那样，读优化实现的性能明显优于所有其他实现。第二个位置是哈希集。最佳读取实现和散列集都有恒定的渐进读取开销。树集合和跳过列表集合的性能要差得多。这也是意料之中的，因为它们具有对数运行时复杂性。
 

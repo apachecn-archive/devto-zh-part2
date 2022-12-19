@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/thejoezack/be-careful-with-side-projects-21oo>
 
-[![](../Images/35e9512915690174bf44dcd97186eebc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4v84ugOC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.codingblocks.net/wp-content/uploads/2018/03/lasers.jpg)
+[![](img/35e9512915690174bf44dcd97186eebc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4v84ugOC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.codingblocks.net/wp-content/uploads/2018/03/lasers.jpg)
 
 我最近在之前的一篇文章中写了关于编程知识和技能之间的[差异。简而言之:知识是你理解的东西，技能是你能用它做什么。](https://dev.to/thejoezack/programming-knowledge-vs-skill-2a56)
 

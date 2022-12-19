@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jexiacom/master-the-world-of-angular---issue-11-3cjk>
 
-[![](../Images/7da6e131c37682c00f8b74ce95ce95d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SpDsb0ee--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/75k5zgzcqjmsewgcm42i.jpg)
+[![](img/7da6e131c37682c00f8b74ce95ce95d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SpDsb0ee--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/75k5zgzcqjmsewgcm42i.jpg)
 
 每周[安德烈·库森科](https://medium.com/@andr.donetsk)7 月 22 日[免费加入](https://www.getrevue.co/profile/jexiacom)或添加[时事通讯 rss](http://fetchrss.com/rss/5b27d6348a93f858388b4567467227328.xml)
 
@@ -20,7 +20,7 @@
 
 国际化(i18n)是以这样一种方式开发产品的过程，这种方式使得它们可以容易地针对语言和文化进行本地化。
 
-[![](../Images/bfdf0dd3f29b93ed0fa40d57b934fb31.png)T2】](https://twitter.com/BenLesh/status/1017884301487005696)
+[![](img/bfdf0dd3f29b93ed0fa40d57b934fb31.png)T2】](https://twitter.com/BenLesh/status/1017884301487005696)
 
 **[单向模板表达式绑定机制中的](https://blog.angularindepth.com/one-way-template-expression-binding-mechanism-in-angular-5867b0dd7cb9?gi=eeabcc188ff&utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Master%20the%20World%20of%20Angular)**
 
@@ -41,7 +41,7 @@ Angular 的一个关键特性是 DOM 更新、模板和属性绑定。
 
 Ionic 是一个开源框架和 SDK，用于构建混合移动应用。
 
-[![](../Images/d42ffa2a2f1b00931963e8376d4da7b7.png)T2】](https://twitter.com/sulco/status/1017794869576785920/photo/1)
+[![](img/d42ffa2a2f1b00931963e8376d4da7b7.png)T2】](https://twitter.com/sulco/status/1017794869576785920/photo/1)
 
 **[D3.js 为忙碌的角开发者](https://jaxenter.com/d3-js-busy-angular-developer-146873.html?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Master%20the%20World%20of%20Angular)**
 
@@ -69,16 +69,16 @@ Angular 团队已经做了很好的工作，让开发人员能够通过一个命
 
 一步一步初学者教程如何使用角日期管。
 
-[![](../Images/0008ed72c02c25439bd290f57e071616.png)T2】](https://youtu.be/IHK0RaVM814)
+[![](img/0008ed72c02c25439bd290f57e071616.png)T2】](https://youtu.be/IHK0RaVM814)
 
 **[我的前 3 名棱角分明的 HTTP 操作符](https://www.youtube.com/watch?feature=youtu.be&utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Master%20the%20World%20of%20Angular&v=-P035EFafB4)**
 
 我已经为我最常看到的需求构建并发布了 3 个新的 RxJS 操作符。我已经将它们打包并发布在一个名为“http-operators”的包中。
 
-[![](../Images/6811a51e8843ad422a843843fdfa567c.png)T2】](https://youtu.be/-P035EFafB4)
+[![](img/6811a51e8843ad422a843843fdfa567c.png)T2】](https://youtu.be/-P035EFafB4)
 
 **[棱角分明的 5 个最佳实践——谢尔盖·莫雷内斯](https://www.youtube.com/watch?feature=youtu.be&utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Master%20the%20World%20of%20Angular&v=_JeVrPKRB2c)**
 
-[![](../Images/f5be8c2b81ae4c385b9f342cdee083c5.png)T2】](https://youtu.be/_JeVrPKRB2c)
+[![](img/f5be8c2b81ae4c385b9f342cdee083c5.png)T2】](https://youtu.be/_JeVrPKRB2c)
 
 每周[安德烈·库森科](https://medium.com/@andr.donetsk)7 月 22 日[免费加入](https://www.getrevue.co/profile/jexiacom)或添加[时事通讯 rss](http://fetchrss.com/rss/5b27d6348a93f858388b4567467227328.xml)

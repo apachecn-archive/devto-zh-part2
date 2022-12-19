@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/couellet/deep-dive-into-vuepress-craft-a-clean-documentation--blog-4058>
 
-[![In-Depth VuePress Tutorial: Vue-Powered Docs & Blog](../Images/bb6853b7a5988d4a6a86b8de89cbe7f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rf0Sydnm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203742/vuepress.png)
+[![In-Depth VuePress Tutorial: Vue-Powered Docs & Blog](img/bb6853b7a5988d4a6a86b8de89cbe7f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rf0Sydnm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203742/vuepress.png)
 
 有没有浏览过 Vue.js 文档？
 

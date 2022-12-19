@@ -20,7 +20,7 @@
 
 这种格式与伊尼戈·蒙托亚在《公主新娘》中使用的格式相同。
 
-> ![unknown tweet media content](../Images/8be5a7525fe316f77a1b1d10bf472f94.png)![ally mclean profile image](../Images/c657a4cd1700a8df9d470de19fd52011.png)ally McLean@ allymcleangames![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)重要工作午餐指导性幻灯片自我介绍06:44AM-09 2018 年 8 月[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1027445459353096192)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1027445459353096192)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1027445459353096192)
+> ![unknown tweet media content](img/8be5a7525fe316f77a1b1d10bf472f94.png)![ally mclean profile image](img/c657a4cd1700a8df9d470de19fd52011.png)ally McLean@ allymcleangames![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)重要工作午餐指导性幻灯片自我介绍06:44AM-09 2018 年 8 月[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1027445459353096192)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1027445459353096192)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1027445459353096192)
 
 ## 办公室网络小贴士
 
@@ -34,7 +34,7 @@
 
 除了这些，我还使用了我的会议指南中的提示。
 
-[![geekgalgroks image](../Images/e39bd5511955024580ad945870b41c00.png)](/geekgalgroks) [## 内向者的科技会议指南
+[![geekgalgroks image](img/e39bd5511955024580ad945870b41c00.png)](/geekgalgroks) [## 内向者的科技会议指南
 
 ### 19 年 7 月 18 日 13 分钟阅读
 

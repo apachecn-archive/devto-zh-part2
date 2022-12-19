@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bazlur_rahman/-7-ways-to-improve-your-code-reading-skill-1b11>
 
-[![Alt Text](../Images/d97949463b25908b03c33006ecdf7834.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8Gamlcl0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/nk5tds996d2cw2nehj9k.jpg)
+[![Alt Text](img/d97949463b25908b03c33006ecdf7834.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8Gamlcl0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/nk5tds996d2cw2nehj9k.jpg)
 
 [提高代码阅读技能的 7 种方法](https://masterdevskills.com/7-ways-to-improve-your-code-reading-skill/) / [巴兹勒·拉赫曼](https://masterdevskills.com/author/bazlur_rahman/)
 

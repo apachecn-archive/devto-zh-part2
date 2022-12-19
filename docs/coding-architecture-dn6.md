@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/k1pash/coding-architecture-dn6>
 
-[![Structure-ish image](../Images/b90cc24999b2ae5bf9091c3402fb7dcc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HBxuE-eS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jh7jiyrcd2e396cn95fb.png)
+[![Structure-ish image](img/b90cc24999b2ae5bf9091c3402fb7dcc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HBxuE-eS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jh7jiyrcd2e396cn95fb.png)
 
 # 问题
 

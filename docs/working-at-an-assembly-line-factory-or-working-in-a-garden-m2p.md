@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/piczmar_0/working-at-an-assembly-line-factory-or-working-in-a-garden-m2p>
 
-[![Ford assembly line](../Images/9ef5266c5857ef1b4fa0007362b9c6c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wrqdSf-T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6f5vdexgubb5rpr7mkg2.jpg)
+[![Ford assembly line](img/9ef5266c5857ef1b4fa0007362b9c6c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wrqdSf-T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6f5vdexgubb5rpr7mkg2.jpg)
 
 首先，我需要警告你——不要当真。这是一个比喻，有时有点夸张。我没有任何在流水线工厂工作的经验，只是做了一点园丁，但是我有很多在不同组织文化的不同软件公司工作的经验。
 
@@ -20,7 +20,7 @@
 
 * * *
 
-[![Photo by Benjamin Combs on Unsplash](../Images/49ab1ec7dff87cd292905415be511f76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iQvJ-F86--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hk3uhvveihlmm3fnteft.jpg)
+[![Photo by Benjamin Combs on Unsplash](img/49ab1ec7dff87cd292905415be511f76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iQvJ-F86--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hk3uhvveihlmm3fnteft.jpg)
 
 *照片由[本杰明·库姆斯](https://unsplash.com/photos/wuU_SSxDeS0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)在[Unsplash](https://unsplash.com/search/photos/gardening?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)T5 拍摄*
 
@@ -34,7 +34,7 @@
 
 * * *
 
-[![Photo by Jason Edwards on Unsplash](../Images/1761f09573ddee842f9e10dacd1333d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TTkDN2Dg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w9evl9vvbp3hhorcsl5h.jpg)
+[![Photo by Jason Edwards on Unsplash](img/1761f09573ddee842f9e10dacd1333d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TTkDN2Dg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w9evl9vvbp3hhorcsl5h.jpg)
 
 *照片由[杰森·爱德华兹](https://unsplash.com/photos/SH5AC4ATqZQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)在[Unsplash](https://unsplash.com/search/photos/night-work?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)T5 拍摄*
 

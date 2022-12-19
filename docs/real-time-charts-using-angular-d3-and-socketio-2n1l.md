@@ -6,4 +6,4 @@
 
 [多读🅰️📊](https://auth0.com/blog/real-time-charts-using-angular-d3-and-socket-io/?utm_source=dev&utm_medium=sc&utm_campaign=charts_angular_socketio)
 
-[![Real-Time Charts using Angular, D3, and Socket.IO](../Images/4984e5741c0eda6a9fda718a10d18ee5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jTelIWf3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y1man8k61s5nedaqckyl.png)
+[![Real-Time Charts using Angular, D3, and Socket.IO](img/4984e5741c0eda6a9fda718a10d18ee5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jTelIWf3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y1man8k61s5nedaqckyl.png)

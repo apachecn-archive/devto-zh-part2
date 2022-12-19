@@ -36,7 +36,7 @@ JSON-RPC 是一个无状态的轻量级远程过程调用(RPC)协议，使用 JS
 
 ### 碎片如何组合在一起
 
-[![ethereum dapp ecosystem](../Images/758a10a41573b818744f162a337a328e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zXNhK3tX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.moesif.com/blog/images/posts/ethereum/DApp-Ethereum-Architecture.png)
+[![ethereum dapp ecosystem](img/758a10a41573b818744f162a337a328e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zXNhK3tX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.moesif.com/blimg/posts/ethereum/DApp-Ethereum-Architecture.png)
 
 ## 建造 DApp 教程
 
@@ -278,7 +278,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Moesif 自动检测以太坊 Web3 调用并跟踪它们。您可以通过登录 Moesif 并查看事件流来验证事件是否被捕获。
 
-[![json-rpc-dapp-call-instance](../Images/fe8048fed3fc431a7c94360ffa8c4939.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hTsw-a7I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.moesif.com/blog/images/posts/ethereum/json-rpc-captured.png)
+[![json-rpc-dapp-call-instance](img/fe8048fed3fc431a7c94360ffa8c4939.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hTsw-a7I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.moesif.com/blimg/posts/ethereum/json-rpc-captured.png)
 
 ### 期末备注
 

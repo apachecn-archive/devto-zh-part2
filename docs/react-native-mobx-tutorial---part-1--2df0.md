@@ -17,7 +17,7 @@
 
 它看起来有点像这样:
 
-[![binance tracker](../Images/410fdf9fa05d2742e87cf633aae93959.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WXx2Viba--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://d33wubrfki0l68.cloudfront.net/27b4ee441afcfd68fb2337b5148e7410e027c89f/2225b/assets/images/binance_tracker.png)
+[![binance tracker](img/410fdf9fa05d2742e87cf633aae93959.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WXx2Viba--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://d33wubrfki0l68.cloudfront.net/27b4ee441afcfd68fb2337b5148e7410e027c89f/2225b/asseimg/binance_tracker.png)
 
 我们将学习如何在本地存储数据，使用 flatlist，navigator 和多屏幕应用程序，还将学习如何使用 mobx 管理状态。
 

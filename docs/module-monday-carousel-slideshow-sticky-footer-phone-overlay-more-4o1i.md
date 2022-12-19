@@ -14,31 +14,31 @@ Mods 是功能强大、随时可用的网络模块，适用于任何平台上的
 
 带有自定义图像的响应式滑块。
 [查看 mod](https://anymod.com/mod/dbdkb?v=20)
- [![](../Images/d2055265b3d6775567a560beb7dfaeb0.png)](https://anymod.com/mod/dbdkb?v=20) 
+ [![](img/d2055265b3d6775567a560beb7dfaeb0.png)](https://anymod.com/mod/dbdkb?v=20) 
 
 ### 特征部分
 
 带有交替文本和图像的页面(我们在 anymod.com 使用它🤓)
 [查看 mod](https://anymod.com/mod/rdoll?v=20)
- [![](../Images/b304f748cb79285467f9441e9e16f46f.png)](https://anymod.com/mod/rdoll?v=20) 
+ [![](img/b304f748cb79285467f9441e9e16f46f.png)](https://anymod.com/mod/rdoll?v=20) 
 
 ### 粘页脚
 
 可重复使用的页脚停留在任何窗口大小的页面底部。
 [查看 mod](https://anymod.com/mod/ondrb?v=20)
- [![](../Images/2ca6271a81ea23c7cc5a53d448949471.png)](https://anymod.com/mod/ondrb?v=20) 
+ [![](img/2ca6271a81ea23c7cc5a53d448949471.png)](https://anymod.com/mod/ondrb?v=20) 
 
 ### 手机图像叠加
 
 上传您的图像，它会显示在手机屏幕上。
 [查看 mod](https://anymod.com/mod/rdoal?v=20)
- [![](../Images/b80fea4481e2aface8993274700345c2.png)](https://anymod.com/mod/rdoal?v=20) 
+ [![](img/b80fea4481e2aface8993274700345c2.png)](https://anymod.com/mod/rdoal?v=20) 
 
 ### 团队页面
 
 可编辑的团队部分，自动裁剪图像。
 [查看 mod](https://anymod.com/mod/moalk?v=20)
- [![](../Images/ce86dcc61fcf6118a77d7e375a837dc6.png)](https://anymod.com/mod/moalk?v=20) 
+ [![](img/ce86dcc61fcf6118a77d7e375a837dc6.png)](https://anymod.com/mod/moalk?v=20) 
 
 ## 投稿
 

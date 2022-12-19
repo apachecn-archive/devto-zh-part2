@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/verdaccio/verdaccio-and-deterministic-lock-files-19go>
 
-<figure>[![](../Images/cdca9a8bbd9b3d740922ff8c604ca165.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OSiXwHcy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aigz5Q878nju28EAa6RJ_Xg.png) 
+<figure>[![](img/cdca9a8bbd9b3d740922ff8c604ca165.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OSiXwHcy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aigz5Q878nju28EAa6RJ_Xg.png) 
 
 <figcaption>一些随机锁定文件的片段</figcaption>
 
@@ -62,7 +62,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 解析字段是如何被…使用的？
 
-[![](../Images/8a91beb89f2402b9c0758c0cdb5bb0bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EEuQCBn2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AkafHawK1RCt-LDsdGz6iUA.png)
+[![](img/8a91beb89f2402b9c0758c0cdb5bb0bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EEuQCBn2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AkafHawK1RCt-LDsdGz6iUA.png)
 
 npm 使用 JSON 作为锁文件的格式。好消息是，由于 npm@5.0.0 [忽略了 package-lock.json 文件中已解析的字段](http://blog.npmjs.org/post/161081169345/v500)，并且基本上回退到。如果存在，则使用 CLI 的 npmrc 或 via - registry 参数，否则，它将使用 resolved 字段中定义的。
 
@@ -70,7 +70,7 @@ npm 使用 JSON 作为锁文件的格式。好消息是，由于 npm@5.0.0 [忽�
 
 现在，您可以使用 npm cli 和锁定文件安全地与 Verdaccio 独立的网址 tarball 服务。但是，我建议你分享一个本地的。npmrc 文件，注册表默认设置在本地，或者通知您的团队。
 
-[![](../Images/011d79ad363448ff3a0749f0499e9e52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QVHtoLsZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A0pWUcgRyhax5KVJKsnbgkA.png)
+[![](img/011d79ad363448ff3a0749f0499e9e52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QVHtoLsZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A0pWUcgRyhax5KVJKsnbgkA.png)
 
 如果你用的是纱线，情况就有点不同了。直到版本 1.9.4，它试图解决什么锁文件定义为第一选项。
 
@@ -82,7 +82,7 @@ npm 使用 JSON 作为锁文件的格式。好消息是，由于 npm@5.0.0 [忽�
 
 > TDLR；Yarn 2.0 [已经计划在下一个主要版本](https://github.com/yarnpkg/yarn/projects/4#card-10080906)中解决这个问题，直到今天[还在讨论采取什么方法](https://github.com/yarnpkg/rfcs/pull/64#issuecomment-414163196)。
 
-<figure>[![](../Images/973a72dbfa6c3fa9f5be98de8180d8ce.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GlpWevXa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1012/1%2AY3jjekoNQiujCccP3bNvTg.png)
+<figure>[![](img/973a72dbfa6c3fa9f5be98de8180d8ce.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GlpWevXa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1012/1%2AY3jjekoNQiujCccP3bNvTg.png)
 
 <figcaption></figcaption>
 

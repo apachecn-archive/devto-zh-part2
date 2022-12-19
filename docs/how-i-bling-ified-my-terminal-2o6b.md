@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/chiangs/how-i-bling-ified-my-terminal-2o6b>
 
-[![](../Images/f9fd991b1ac71aa953bb8f5e4a72283c.png)T2](https://res.cloudinary.com/practicaldev/image/fetch/s--Ume68FQ_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1wfjklunj5gwf19qi1vn.jpg)
+[![](img/f9fd991b1ac71aa953bb8f5e4a72283c.png)T2](https://res.cloudinary.com/practicaldev/image/fetch/s--Ume68FQ_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1wfjklunj5gwf19qi1vn.jpg)
 
 > 不要害怕终端，它很神奇！
 > 
@@ -10,8 +10,8 @@
 
 首先，这不会让你成为一个更好的开发人员，但这是一个令人敬畏的快速而简单的改变，你可以立即让你在控制台上的时间赏心悦目，并让你*感觉*好像你是 2000 级的开发人员。至少，您将从中获得更多的效用和便利(对于像我一样有在工作前忘记检查自己在哪个分支的坏习惯的人来说)。
 
-*前* [![](../Images/958fd5e6573f9415e14faa4e27875275.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EdLIzOgl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wzgjxjmfkdctk5u7bd17.png) 
-*后* [![](../Images/dbfc4ffd09daf6215133c7111900e9bd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Bt5_tEXy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i3efv77855ooh0pxgf28.png)
+*前* [![](img/958fd5e6573f9415e14faa4e27875275.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EdLIzOgl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wzgjxjmfkdctk5u7bd17.png) 
+*后* [![](img/dbfc4ffd09daf6215133c7111900e9bd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Bt5_tEXy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i3efv77855ooh0pxgf28.png)
 
 随着我花更多的时间开发，我发现自己越来越多地盯着我的控制台。我想说的是，我现在对它相当满意，真的很喜欢移动文件和目录，并快速创建新的目录和文件结构，而不是重复的右键单击>>新的废话。
 
@@ -98,7 +98,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 另一个最喜欢的非。zshrc 预打包插件是一个语法高亮器，它告诉你输入的命令是否正确。GitHub–Zsh-users/Zsh-syntax-highlighting:Zsh 的类似鱼壳的语法突出显示。
 
-[![](../Images/a7099214e59ec9efc1005998aa2958cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4xsbhrpx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/www.chiangs.ninja/blog/wp-content/uploads/2018/03/Screen-Shot-2018-03-15-at-21.26.47.png%3Fresize%3D277%252C372%26ssl%3D1)
+[![](img/a7099214e59ec9efc1005998aa2958cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4xsbhrpx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/www.chiangs.ninja/blog/wp-content/uploads/2018/03/Screen-Shot-2018-03-15-at-21.26.47.png%3Fresize%3D277%252C372%26ssl%3D1)
 
 只需按照下载和安装的指示，不要忘记将其添加到。zshrc 文件是这样的:`source $ZSH/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh`
 

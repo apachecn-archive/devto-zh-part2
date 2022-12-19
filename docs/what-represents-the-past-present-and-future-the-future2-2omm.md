@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/taowen/what-represents-the-past-present-and-future-the-future2-2omm>
 
-[![image](../Images/5330e8f264c0f51ba04f1252c1b55f71.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PR1zWfFS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47513241-68dda500-d8b0-11e8-937c-f272f883dffb.png)
+[![image](img/5330e8f264c0f51ba04f1252c1b55f71.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PR1zWfFS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47513241-68dda500-d8b0-11e8-937c-f272f883dffb.png)
 
 ## 活动流程
 
@@ -14,11 +14,11 @@
 
 lua 版本:[https://tio.run/](https://tio.run/##rVFBboMwEDyXV6xywZYIChB64y0RNZtgFWxkr6VWVd9ObYNI4dBT92TP7szO2INr5/nulCCpFVjRY@cGZNTad56Ar761t1EbzGC0jwxa87DQgNBGO5IKc4PWjb8J8g5MadqIHKhHFVuhDJIzyxVVtzG8ODQNpHZAnNIDR9scP1A4QnaKA3CCPI9ecotCq87yneIhR4CTZ0j3VtxCgy2kyUhFzO8g6YPwzJsgnIp06T6TfkocOrY6zOBr3dyU33/plP@kU6VrjuB89wPCYOtfZovFk0P88xn86OQonIr6eikur9e6eIkxd1gVsXKH1RGr5vkH)
 
-[![image](../Images/19131ee3899f2c75f11dde9fcae9d3ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nQ_DJrMZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47488756-935f3c00-d877-11e8-9216-23e25dfba377.png)
+[![image](img/19131ee3899f2c75f11dde9fcae9d3ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nQ_DJrMZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47488756-935f3c00-d877-11e8-9216-23e25dfba377.png)
 
 es2017 版本:[https://tio.run/](https://tio.run/##rZDBboMwDIbvPIVvJBVD0N0qsdMeYTeEpgxcxpYmCCfdJsSzM6dA1e02aT5YSvz7s3@/qbOieuh6d2dsg/N89KZ2nTVA9Ss2XqNwit4ljBFwaHRwVhoKCL@pwU8n5LUyNtbgAUJOgszzozxRm4AaWqq4q6wmzly69HRHEEG80UMM6PxgLs/pKmIGFEUBMWnEPr7VE7qn7oTWOyEkFA@/9l5Gp4S1NQ3BDvIsy@SKn6Jos7sD8i/5c@gRG55byGpMtW2FwQ94VA6FTNtlomB2TA77PF54Xx3qBsp1xwTGdehhP1V/4e3/mXfPPHYarPHtb2xGP081z98)
 
-[![image](../Images/44b804b933538e50715893bcb4ad037f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wrIIXakf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47488248-94439e00-d876-11e8-9fe2-cad2aed794f8.png)
+[![image](img/44b804b933538e50715893bcb4ad037f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wrIIXakf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47488248-94439e00-d876-11e8-9fe2-cad2aed794f8.png)
 
 ### 谓同续
 
@@ -26,7 +26,7 @@ es2017 版本:[https://tio.run/](https://tio.run/##rZDBboMwDIbvPIVvJBVD0N0qsdMeY
 
 lua 版本:[https://tio.run/](https://tio.run/##nVHLboMwEDyXr1jlgpEICtAop3wLcswmWHFs5IfUKsq3U9uhAVTUSvXF9uzOemYsHB0GoRgVYARi35yddRrhCJKLJDk7ySxXEgzrsHUCSZaAX/wMRCq74GRgO5SxHJZGDz6vKNu4W2quOVB9MX6@pSeBhZM9ZVeymBN7lSnwA5mzSDaxChsoikguDDIlW/NsXJEd4I6a5qY05nAzl9ejTGnlLJdYaDTuhiRIWlr6Jv5tZ5ZJgGZhBUlkcrsq9D7VH7E@afvkKNqfU92pbAJpJrrXXFris7Lcm8lySI3FvkxnL4467mNox@rxG7X6P7VOR8WBtciaaaT@H18GsmT1H3J4Fme5Jtst@Mbe2XAq9@@7sjocqt1btLnA6ohVC2wfsXoYvgA)
 
-[![image](../Images/256e65745b1676af14955399bb4411ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jhqx6Yk2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47488455-fe5c4300-d876-11e8-847a-ae0dea76d2f6.png)
+[![image](img/256e65745b1676af14955399bb4411ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jhqx6Yk2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47488455-fe5c4300-d876-11e8-847a-ae0dea76d2f6.png)
 
 引入了“未来”的概念，它将任务的延续与其需求包装在一起。当需求满足时，任务执行将被恢复。
 
@@ -36,13 +36,13 @@ lua 版本:[https://tio.run/](https://tio.run/##nVHLboMwEDyXr1jlgpEICtAop3wLcswm
 
 es2017 版本:[https://tio.run/](https://tio.run/##pVC9bsMgEN55itsClZuASSNLUTr1ATp0r7B9TWgxWAZiRVWf3cVpUJOxKtOJ776/e1dH5ZtB9@Heuhan6S3aJmhnwRvEnnpsnG09g08C6a1WMKB35oigPeTdDI0HtNAoY7CF@gQew4vu0MVQQDggBOU/YNTGQI2zTOywPVMHDHGwYHGE58F12iPNLrvHK5n8W8AlFtyB4JwztiVfhCh/sg38Foi1eJ09aU6fOImPS@P2dDZ7UgEpW@5/DCgrYOED9mLBzutqVDpc7lCyvyiU/1aQSSFVuupASLpwOkIfwzyJhzUXUkheVpLn3DfAupKbHOcG2FSyyi7T9A0)
 
-[![image](../Images/93067e1422c5973e1c9f8529f36f06a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UqqmyswX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47488534-29df2d80-d877-11e8-9e2d-6206468f1794.png)
+[![image](img/93067e1422c5973e1c9f8529f36f06a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UqqmyswX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47488534-29df2d80-d877-11e8-9e2d-6206468f1794.png)
 
 虽然代码看起来很不一样。底层机制其实很像。es2017 的编译器/解释器会把“await”变成传递给许诺给定的延续。
 
 我们可以修改 lua 代码，使其像 javascript promise 那样工作。它只是返回一个名为“resolve”的函数来捕获任务的继续，并将其注册到某个地方，然后执行。
 
-[![image](../Images/d8d16a84fe993868c4338a8854974633.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uLX0NAJj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47488621-51ce9100-d877-11e8-86d5-fb58e0415cfd.png)
+[![image](img/d8d16a84fe993868c4338a8854974633.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uLX0NAJj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47488621-51ce9100-d877-11e8-86d5-fb58e0415cfd.png)
 
 ### 网络客户端
 
@@ -50,13 +50,13 @@ es2017 版本:[https://tio.run/](https://tio.run/##pVC9bsMgEN55itsClZuASSNLUTr1A
 
 lua 版本:[https://tio.run/](https://tio.run/##bVDbasMwDH33V@gtMayB9j3fUrJEoaau7dlyyhj79ky2u7QxNRiEpHPR0XFYV23HQcOoFRo6z5GiR@jBKC3EHM1IyhoIaKazx3FpaQjXD/D4JQXwK@AN9ZPG/bbT8//NezV9KcrIehtJGey@FeqpLcQeecE89jqPwQn28Gopfh7PSSlbkgAZ5rwy1DaB0B0b@dKqL2iCvSHMwxWT0YiBGilrihNTZNWEYddPq6PHgbDdTEjxnLHZeMOHThkeDkyLxFxwR7gMC6ZICeiyyYuiuwuqyzm/AfMhuCicdgQ1NDi2vLszOGsCNu@9SpGUuO8ipSpnmIs6qbpZaP8xp3X9Aw)
 
-[![image](../Images/97827cfb476bba6b7317939c768f9daf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HzaShwCl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47488934-f6e96980-d877-11e8-845e-5d4e409ddcbb.png)
+[![image](img/97827cfb476bba6b7317939c768f9daf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HzaShwCl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47488934-f6e96980-d877-11e8-845e-5d4e409ddcbb.png)
 
 事实证明，返回值并不是一件难事。调用者和被调用者共享一个“未来”对象，这样他们就可以通过这个对象发送请求和响应。有了 es2017 await 语法，将值返回到协程就简单多了。
 
 es2017 版本:[https://repl.it/@taowen/es2017-client](https://repl.it/@taowen/es2017-client)
 
-[![image](../Images/6d44dcec84e4223b5686d79e630e52ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ah66vcfm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47498718-ab8f8500-d890-11e8-9229-fd8ed3a07d02.png)
+[![image](img/6d44dcec84e4223b5686d79e630e52ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ah66vcfm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47498718-ab8f8500-d890-11e8-9229-fd8ed3a07d02.png)
 
 ### 网络服务器
 
@@ -64,7 +64,7 @@ es2017 版本:[https://repl.it/@taowen/es2017-client](https://repl.it/@taowen/es
 
 es2017 版本:[https://repl.it/@taowen/es2017-server](https://repl.it/@taowen/es2017-server)
 
-[![image](../Images/a21c4d7e0b38c9c910cab14cf67f18a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TfCur9iA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47498748-bc3ffb00-d890-11e8-9a91-f8d473a1bc56.png)
+[![image](img/a21c4d7e0b38c9c910cab14cf67f18a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TfCur9iA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47498748-bc3ffb00-d890-11e8-9a91-f8d473a1bc56.png)
 
 客户机和服务器的区别在于，对于服务器来说，它需要两个 await，而对于客户机来说，它只需要一个 await。一个用于从调度程序中检索请求，一个用于发回响应。对于 TCP 套接字，当缓冲区已满时，内核会阻止写入。所以发送回响应也是一个异步操作。
 
@@ -82,7 +82,7 @@ es2017 版本:[https://repl.it/@taowen/es2017-server](https://repl.it/@taowen/es
 
 活动版本:[https://tio.run/](https://tio.run/##hVHLqsMgEN37FUM3UQhC7r7fEqyZNFKjwQf0UvrtudGkNaGFOwvFOTPnzBx1FPOsrRQavEac2j6G6JCQPhoZlDVrmgbhbzUId/UMliDp2DfAGR6l5plxaZ2NQRnkvwp1lzkYQdPt2eOlaROwoalvcsoEWvmAU1OxIrUN8fAoren8uXl@1P9UHwJywC5qpGut6oEaGw6zMwgDmgyncLgk12eiSnfZbNkziItGHs0k5I0eeHKt9RzvKGNAesoonIDz3My3ydk3@4zSOT0I347WYQ2jv75Fi5cOfRxxZ9drpVfj/@vsPMlmJa6DhnQolvnfn8PIV/0aVrDwzfMf)
 
-[![image](../Images/de51fc2732ce3dad0aca8986d34b9a8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D5Z-2CKg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47514486-15208b00-d8b3-11e8-81da-3dda31daf99c.png)
+[![image](img/de51fc2732ce3dad0aca8986d34b9a8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D5Z-2CKg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47514486-15208b00-d8b3-11e8-81da-3dda31daf99c.png)
 
 真的和“被动”vs .“主动”意义上没什么区别。从 sub1_task 的角度来看，被动版本使用“coroutine.yield”直接等待调度程序将其唤醒，主动版本使用“sleep”依次使用“coroutine.yield”等待调度程序。这两个版本本质上做同样的事情，它们调用“yield”来停放自己。
 
@@ -92,7 +92,7 @@ es2017 版本:[https://repl.it/@taowen/es2017-server](https://repl.it/@taowen/es
 
 调度器成为一个可扩展的平台，任务是可重用平台能力的插件。
 
-[![image](../Images/0b47209e96d03c2a39abf9ef8485a643.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AD6X3pdS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47509355-8870cf80-d8a8-11e8-8c92-b7b8c71e4245.png)
+[![image](img/0b47209e96d03c2a39abf9ef8485a643.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AD6X3pdS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47509355-8870cf80-d8a8-11e8-8c92-b7b8c71e4245.png)
 
 ### 协程 UI
 
@@ -100,7 +100,7 @@ es2017 版本:[https://repl.it/@taowen/es2017-server](https://repl.it/@taowen/es
 
 下面是我们想要描述的一个示例流程
 
-[![image](../Images/ba61216caa6d36b339b333ac406f3d40.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--769my4m9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47511685-4dbd6600-d8ad-11e8-9804-11ffd88d6588.png)
+[![image](img/ba61216caa6d36b339b333ac406f3d40.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--769my4m9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47511685-4dbd6600-d8ad-11e8-9804-11ffd88d6588.png)
 
 当任务启动时，它将向用户提供两个选项，要么添加，要么订阅。然后计算结果会显示回来。一秒钟后，UI 将变回两个选项，让用户进行第二次计算。这就形成了一个无限循环。
 
@@ -108,11 +108,11 @@ es2017 版本:[https://repl.it/@taowen/es2017-server](https://repl.it/@taowen/es
 
 es2017 版本:[https://jsfiddle.net/taowen/L0p516xv/56/](https://jsfiddle.net/taowen/L0p516xv/56/)
 
-[![image](../Images/fb4a61083318768969a540d9cd88ba0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sSK-BcVQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47512237-595d5c80-d8ae-11e8-9c49-8b692ff6b96e.png)
+[![image](img/fb4a61083318768969a540d9cd88ba0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sSK-BcVQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47512237-595d5c80-d8ae-11e8-9c49-8b692ff6b96e.png)
 
 就像调度器可以公开 API“sleep”、“recv”、“reply”一样，它也可以提供“user_input”作为可重用的基础设施。当然，调度程序无法知道用户界面看起来会是什么样子，所以它使用参数来定义要使用的 UI 组件和呈现视图的模型。这是调度程序的源代码
 
-[![image](../Images/30bdd4f91bf3baa72f849cc758758469.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l3FJCqru--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47512280-7003b380-d8ae-11e8-8222-bdd34092161f.png)
+[![image](img/30bdd4f91bf3baa72f849cc758758469.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l3FJCqru--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47512280-7003b380-d8ae-11e8-8222-bdd34092161f.png)
 
 user_input 通过设置三个变量来呈现视图:
 
@@ -130,7 +130,7 @@ scheduler.user_input 作为一个通用工具提供。不管我们需要描述�
 
 这个例子需要一个特殊版本的 lua 解释器:[https://github.com/fnuecke/eris](https://github.com/fnuecke/eris)
 
-[![image](../Images/e365785714b6bf363900c3473fad1fc9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_M0wIn56--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47512433-c5d85b80-d8ae-11e8-9356-b92b182ac103.png)
+[![image](img/e365785714b6bf363900c3473fad1fc9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_M0wIn56--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47512433-c5d85b80-d8ae-11e8-9356-b92b182ac103.png)
 
 我们进一步扩展了调度程序的功能。这一次，“休眠”功能允许任务将自己转储到磁盘中。未来的表现被完全封装在一个协程“fib”中。
 
@@ -138,11 +138,11 @@ scheduler.user_input 作为一个通用工具提供。不管我们需要描述�
 
 休眠实现也有严重缺陷。“continuation.data”是以外来的二进制格式编写的。用“秩序”这样的对象来表示未来就没有这个问题。我们通常会创建一个名为“order”的表来保存未完成的订单流程。
 
-[![image](../Images/4be9b86c8f033bdd559a5e7f50853a35.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DHB3Ng6b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47512477-e6a0b100-d8ae-11e8-8565-7850acd09b1f.png)
+[![image](img/4be9b86c8f033bdd559a5e7f50853a35.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DHB3Ng6b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47512477-e6a0b100-d8ae-11e8-8565-7850acd09b1f.png)
 
 要使用协程来表示订单流程，应该是这样的:
 
-[![image](../Images/814fb6334e1ae4a9965bd1ab8f4a9c52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UvnoBHri--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47512544-02a45280-d8af-11e8-94d2-5556677f49ba.png)
+[![image](img/814fb6334e1ae4a9965bd1ab8f4a9c52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UvnoBHri--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/47512544-02a45280-d8af-11e8-94d2-5556677f49ba.png)
 
 订单表的 order_status 列是一个跟踪执行位置的游标。本质上就是“协程. yield”在协程中的位置。所以我们可以用 lua 标签来表示 order_status。当持久化协程时，可以将“程序计数器”翻译成“order_status ”,并映射到数据库列。
 

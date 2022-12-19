@@ -17,7 +17,7 @@
 
 ### 建筑
 
-[![](../Images/05d93d897ad9b54da0d6dd0f8e57234d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sU1bBdqZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ay1qJ8aRExZ2O6mGX8Ok6cQ.png)
+[![](img/05d93d897ad9b54da0d6dd0f8e57234d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sU1bBdqZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ay1qJ8aRExZ2O6mGX8Ok6cQ.png)
 
 1.  开发人员使用 IBM Cloud 开发人员工具生成一个启动应用程序。
 2.  构建应用程序会产生一个 Docker 容器映像。
@@ -40,7 +40,7 @@ IBM Cloud Kubernetes Service 通过结合 Docker 和 Kubernetes 技术、直观�
 *   从 [IBM 云目录](https://console.bluemix.net/containers-kubernetes/launch)创建一个 Kubernetes 集群。
 *   为了便于使用，请检查配置详细信息，如使用 Lite 和 Standard 计划获得的 CPU 数量、内存和工作节点数量。
 
-[![](../Images/5b72399bcec84da56affbd7d36ef539b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c9ucjDPH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A-WQyE67lzPLmUz89pp6k8w.png)
+[![](img/5b72399bcec84da56affbd7d36ef539b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c9ucjDPH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A-WQyE67lzPLmUz89pp6k8w.png)
 
 *   选择集群类型，然后单击“创建集群”来配置 Kubernetes 集群。
 *   检查集群和工作节点的状态，并等待它们准备就绪。
@@ -116,7 +116,7 @@ ibmcloud dev run
 *   这将使用您的本地 docker 引擎来运行您在上一步中构建的 Docker 映像。
 *   在你的容器启动后，进入 [http://localhost:9080/](http://localhost:9080/) 。如果您创建了 Node.js 应用程序，请使用端口 3000。
 
-[![](../Images/b6eb785efc5f62b379e704940f8de47c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E6pHxnat--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/912/1%2AnrFEawAYuLcO8mK2dnFi_g.png)
+[![](img/b6eb785efc5f62b379e704940f8de47c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E6pHxnat--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/912/1%2AnrFEawAYuLcO8mK2dnFi_g.png)
 
 ### 使用 helm 将应用程序部署到集群
 

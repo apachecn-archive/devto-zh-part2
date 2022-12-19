@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/sr_balaji/devops-tool-chain-setup-on-kubernetes-cluster-part---33-506>
 
-[![alt text](../Images/5d339f1dbd1e21f29694d92d2181cda4.png "Kubernetes")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cemFoOyb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/298l0v54pjqkldy2j34e.png)
+[![alt text](img/5d339f1dbd1e21f29694d92d2181cda4.png "Kubernetes")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cemFoOyb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/298l0v54pjqkldy2j34e.png)
 
 ### 简介
 
@@ -137,16 +137,16 @@ Enter fullscreen mode Exit fullscreen mode
 
 下面是包含持久卷列表的屏幕截图
 
-[![alt text](../Images/eab666435b2ba8ba59e393b4b110e57a.png "Persistence Volumes")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6xitzTIv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/io9fmoge2y2h3cbot53e.png)
+[![alt text](img/eab666435b2ba8ba59e393b4b110e57a.png "Persistence Volumes")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6xitzTIv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/io9fmoge2y2h3cbot53e.png)
 
 存储类别–下面是存储类别列表
-[![alt text](../Images/e20411f3ba93eec28fc56fa4deda2a2d.png "Storage Classes")](https://res.cloudinary.com/practicaldev/image/fetch/s--sBMrD0JA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/goimsgrhxan82ww4t08d.png)
+[![alt text](img/e20411f3ba93eec28fc56fa4deda2a2d.png "Storage Classes")](https://res.cloudinary.com/practicaldev/image/fetch/s--sBMrD0JA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/goimsgrhxan82ww4t08d.png)
 
 部署–下面是部署列表
-[![alt text](../Images/f0bed7c08d580f0add3fa52e1376d308.png "Deployments")](https://res.cloudinary.com/practicaldev/image/fetch/s--PPlwkUXK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/35dol31hs59crz8fch9c.png)
+[![alt text](img/f0bed7c08d580f0add3fa52e1376d308.png "Deployments")](https://res.cloudinary.com/practicaldev/image/fetch/s--PPlwkUXK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/35dol31hs59crz8fch9c.png)
 
 服务–下面是服务列表
-[![alt text](../Images/e264a05bff93cf49204eacdc58a81413.png "Services")](https://res.cloudinary.com/practicaldev/image/fetch/s--HbB2NaaR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gejiin3vxkdvyw8fd4vy.png)
+[![alt text](img/e264a05bff93cf49204eacdc58a81413.png "Services")](https://res.cloudinary.com/practicaldev/image/fetch/s--HbB2NaaR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gejiin3vxkdvyw8fd4vy.png)
 
 ### 结论
 

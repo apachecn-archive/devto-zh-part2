@@ -6,7 +6,7 @@
 
 [@dan_abramov](https://dev.to/dan_abramov) 跳进了 **[为什么 React 社区遗漏了关于 Web 组件的要点](https://dev.to/ben/why-the-react-community-is-missing-the-point-about-web-components-1ic3)** 来提供他的观点。原始帖子以及完整的讨论非常值得您花时间去阅读:
 
-[![dan_abramov profile image](../Images/7e33ef2d061d9d6f8a6b04e8fad121ee.png) ](/dan_abramov) [ Dan Abramov ](/dan_abramov) • [<time datetime="2018-11-07T20:09:32Z" class="date-short-year"> Nov 7 '18 </time> • Edited on <time datetime="2018-11-07T20:31:42Z" class="hidden m:inline-block date-no-year">Nov 7</time>](https://dev.to/dan_abramov/comment/6kdc) 
+[![dan_abramov profile image](img/7e33ef2d061d9d6f8a6b04e8fad121ee.png) ](/dan_abramov) [ Dan Abramov ](/dan_abramov) • [<time datetime="2018-11-07T20:09:32Z" class="date-short-year"> Nov 7 '18 </time> • Edited on <time datetime="2018-11-07T20:31:42Z" class="hidden m:inline-block date-no-year">Nov 7</time>](https://dev.to/dan_abramov/comment/6kdc) 
 
 从我的角度讲几点。(我在 React 上工作。)
 
@@ -24,7 +24,7 @@
 
 [@ben](https://dev.to/ben) 本周在阿里的 **[每日编码谜题-11 月 4 日-11 月 9 日](https://dev.to/aspittel/daily-coding-puzzles---nov-4th---nov-9th-5bfa)** 线程中以他的答案获得了简洁奖。"你的目标是实现一个差分函数，从一个列表中减去另一个列表，并返回结果."：
 
-[![ben profile image](../Images/aafbcbcc2891483db855a7b6ec39b85c.png) ](/ben) [ Ben Halpern ](/ben) • [<time datetime="2018-11-09T18:35:48Z" class="date-short-year"> Nov 9 '18 </time>](https://dev.to/ben/comment/6lk2) 
+[![ben profile image](img/aafbcbcc2891483db855a7b6ec39b85c.png) ](/ben) [ Ben Halpern ](/ben) • [<time datetime="2018-11-09T18:35:48Z" class="date-short-year"> Nov 9 '18 </time>](https://dev.to/ben/comment/6lk2) 
 
 红宝石
 
@@ -36,7 +36,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在一次以抽出有意义的时间为中心的谈话中，如果今天是周六，你要到周一才会再次编码，你如何让自己的注意力从当前的工作中转移出来？——[@ benny powers](https://dev.to/bennypowers)带着很棒的回答跳了进来:
 
-[![bennypowers profile image](../Images/55f19a4b509f7ff68f6b63a38a756013.png) ](/bennypowers) [ Benny Powers 🇮🇱🇨🇦 ](/bennypowers) • [<time datetime="2018-11-10T15:33:13Z" class="date-short-year"> Nov 10 '18 </time>](https://dev.to/bennypowers/comment/6m4g) 
+[![bennypowers profile image](img/55f19a4b509f7ff68f6b63a38a756013.png) ](/bennypowers) [ Benny Powers 🇮🇱🇨🇦 ](/bennypowers) • [<time datetime="2018-11-10T15:33:13Z" class="date-short-year"> Nov 10 '18 </time>](https://dev.to/bennypowers/comment/6m4g) 
 
 作为一名虔诚的犹太人，一旦我们在周五晚上点燃蜡烛，我们就不会碰我们的手机或电脑，直到 havdallah 周六晚上(除非紧急情况，比如我在周六凌晨 4 点接生了我们最小的孩子，但我跑题了)。
 
@@ -46,7 +46,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 整个 **[没人告诉我的关于成为一名软件工程师的事情](https://dev.to/anaulin/things-nobody-told-me-about-being-a-software-engineer-3pa5)** 线程是一个很好的起点，也是关于成为一名软件工程师的大量非显而易见的现实的讨论。 [@shiling](https://dev.to/shiling) 拔得头筹:
 
-[![shiling profile image](../Images/7b501dcbbd64fdabff80827f5b8c105e.png) ](/shiling) [ Shi Ling ](/shiling) • [<time datetime="2018-11-09T07:37:51Z" class="date-short-year"> Nov 9 '18 </time>](https://dev.to/shiling/comment/6lcg) 
+[![shiling profile image](img/7b501dcbbd64fdabff80827f5b8c105e.png) ](/shiling) [ Shi Ling ](/shiling) • [<time datetime="2018-11-09T07:37:51Z" class="date-short-year"> Nov 9 '18 </time>](https://dev.to/shiling/comment/6lcg) 
 
 > CSS 是最复杂的现代编程语言
 
@@ -56,7 +56,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 **[确定自己不需要费心学习的东西就好](https://dev.to/ben/its-good-to-identify-what-you-dont-need-to-bother-learning-1nm6)** 。 [@shalvah](https://dev.to/shalvah) 用这句简洁的话抓住了这条线索的精神:
 
-[![shalvah profile image](../Images/f00ada0a47fcaef46f1b796b3df65275.png) ](/shalvah) [ Shalvah ](/shalvah) • [<time datetime="2018-11-08T22:32:32Z" class="date-short-year"> Nov 8 '18 </time>](https://dev.to/shalvah/comment/6l87) 
+[![shalvah profile image](img/f00ada0a47fcaef46f1b796b3df65275.png) ](/shalvah) [ Shalvah ](/shalvah) • [<time datetime="2018-11-08T22:32:32Z" class="date-short-year"> Nov 8 '18 </time>](https://dev.to/shalvah/comment/6l87) 
 
 FOMO 是焦点的敌人。😞
 

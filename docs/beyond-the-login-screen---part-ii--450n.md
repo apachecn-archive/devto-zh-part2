@@ -8,7 +8,7 @@
 
 OpenID Connect 构建在 OAuth2 之上，
 
-[![](../Images/5bc347f7c77e3b0d83e166b229239c05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_FF-J4zQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q6qv6y3adoe6zwakir2n.png)
+[![](img/5bc347f7c77e3b0d83e166b229239c05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_FF-J4zQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q6qv6y3adoe6zwakir2n.png)
 
 在开始讨论 OpenID Connect 的技术细节之前，让我们回顾一下我们是如何习惯于登录谷歌和 T2 见面的。
 
@@ -89,7 +89,7 @@ OpenID Connect 构建在 OAuth2 之上，
 
 #### 选择流量
 
-[![](../Images/031b5ea161d2ad9ab321000dea71a134.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ItLK3-hF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kv19qcqfwahq3q8nwmpy.png)
+[![](img/031b5ea161d2ad9ab321000dea71a134.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ItLK3-hF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kv19qcqfwahq3q8nwmpy.png)
 
 ### 移动 6
 
@@ -101,7 +101,7 @@ OpenID Connect 构建在 OAuth2 之上，
 
 ### 我们需要问的问题，
 
-[![](../Images/95b0b8d9757e30a444eaec52afc83c9a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PfBwGL1C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u60yc2chlby6tsiphflz.png)
+[![](img/95b0b8d9757e30a444eaec52afc83c9a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PfBwGL1C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u60yc2chlby6tsiphflz.png)
 
 因此身份提供者可以验证应用程序和用户，但是**应用程序如何知道**
 
@@ -113,7 +113,7 @@ OpenID Connect 构建在 OAuth2 之上，
 
 这就是 OpenID Connect 与 OAuth2 的不同之处，它在 OAuth2 标准之上提供了一个身份层。它向应用程序提供关于认证用户的反馈。
 
-[![](../Images/ea2d38e78188b5518196f5af7e4f1bc1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ickk7tOl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/75gty0dmvj8zyafmb1kj.png)
+[![](img/ea2d38e78188b5518196f5af7e4f1bc1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ickk7tOl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/75gty0dmvj8zyafmb1kj.png)
 
 你可以把 [id_token](https://openid.net/specs/openid-connect-core-1_0.html#IDToken) 想象成用户的数字安全身份证。它是一个由`Identity Provider's`私钥签名的 [JWT](https://jwt.io) 令牌。公钥通过[密钥端点](https://tools.ietf.org/html/rfc7517)共享
 

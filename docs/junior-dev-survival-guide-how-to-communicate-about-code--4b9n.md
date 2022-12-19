@@ -20,7 +20,7 @@
 
 作为一名初级开发人员或新团队成员，你会对你不知道的一切感到沮丧。你会被困在纸袋里。你的队友不指望你描述你不知道的东西，或者知道纸袋之外的*是什么。从描述你*知道的*开始，通过解释纸袋*里面的*，它的形状和轮廓。一旦你为你的团队成员提供了他们需要帮助的工具，你们就会一起找到离开那里的方法。*
 
-[![cat in a bag](../Images/341f46c99d92074a89dde21d5f8fa584.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i0YrNC_v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.thegreatcodeadventure.com/content/images/2018/03/paper_bag_cat.jpg)
+[![cat in a bag](img/341f46c99d92074a89dde21d5f8fa584.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i0YrNC_v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.thegreatcodeadventure.com/conteimg/2018/03/paper_bag_cat.jpg)
 
 本文中的指南列出了*对我们的错误代码应该说些什么。但是在我们深入探讨*和*要说什么之前，让我们花点时间谈谈*和*是如何说的。*
 
@@ -97,7 +97,7 @@
 
 “肯定的事杰里！我总是很乐意帮助朋友！”
 
-[![](../Images/f5275b3d7b7ae539edbb5259045abc5b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HH6OHnAi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.thegreatcodeadventure.com/content/images/2018/03/doofus_rick-2.jpg) 
+[![](img/f5275b3d7b7ae539edbb5259045abc5b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HH6OHnAi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.thegreatcodeadventure.com/conteimg/2018/03/doofus_rick-2.jpg) 
 *很明显，我们正在与傻瓜里克一起开发这个应用程序，里克是唯一乐意帮忙的人。*
 
 #### 使用指南

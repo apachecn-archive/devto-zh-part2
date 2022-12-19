@@ -40,7 +40,7 @@ React 是脸书在 2011 年开发的前端 JavaScript 库。
 2.  然后计算以前的 DOM 表示和新的 DOM 表示之间的差异。
 3.  一旦计算完成，真正的 DOM 将只更新实际发生变化的内容。
 
-[![](../Images/89572a9c54ddd29e77494f8e475711fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rorQuVGd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d5amy5j4ly0ruq1inyet.png)
+[![](img/89572a9c54ddd29e77494f8e475711fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rorQuVGd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d5amy5j4ly0ruq1inyet.png)
 
 > ### 5。**React 中的一个事件是什么？**
 > 
@@ -181,7 +181,7 @@ React 组件的生命周期有三个不同的阶段:
 
 【更新 1】感谢
 
-[![themindfuldev image](../Images/e03a18bc9bc949ad7d2bce010e6f2b9a.png)](/themindfuldev)
+[![themindfuldev image](img/e03a18bc9bc949ad7d2bce010e6f2b9a.png)](/themindfuldev)
 
 ## [蒂亚戈·罗梅罗·加西亚](/themindfuldev)
 

@@ -8,13 +8,13 @@
 
 很久很久以前，在一个遥远的产品团队中，有一个项目是为藏书创建一个新的、更灵活的层次结构。最初，我们的数据是这样设置的:
 
-[![original data setup - collections, genres, and books](../Images/ee7193b3e1ddaf4d006b2086cd07453a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zm0BX_Ci--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t5bahvoa7w36sq4n7myu.png)
+[![original data setup - collections, genres, and books](img/ee7193b3e1ddaf4d006b2086cd07453a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zm0BX_Ci--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t5bahvoa7w36sq4n7myu.png)
 
 用户可以访问一系列书籍(在这种情况下是“小说”)；一个集合包含了几个流派，这些流派又包含了各自的书籍。用户可以被授权查看一个收藏中的所有内容，并可以创建“阅读列表”,这样他们就可以根据自己的标准来喜欢/分类书籍。
 
 这很有效——用户可以看到收藏中的所有小说书籍，他们甚至可以将这些书籍添加到个性化的阅读列表中。然而，后来我们的产品团队开始测试一个新系列:
 
-[![same diagram, but with a new "nonfiction" collection in addition to the first](../Images/104219f7b767edc32c950465ce13ad76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vMMwf-SF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wwqmg75m7jffpkb3wj0b.png)
+[![same diagram, but with a new "nonfiction" collection in addition to the first](img/104219f7b767edc32c950465ce13ad76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vMMwf-SF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wwqmg75m7jffpkb3wj0b.png)
 
 我们最初不希望允许所有用户访问新的“非小说类”收藏，所以我们单独授予访问权限。
 
@@ -22,7 +22,7 @@
 
 我们的想法是，随着我们添加更多的收藏，我们需要一种更好的方法来分类我们的内容并避免重复。来自整个组织的人们一起工作来创建一个新的内容结构:
 
-[![proposed content hierarchy](../Images/37f608e2c835aecc8b76c35497d8ceaf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dioK6EgH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3cnn0ur0ebledvcotbt3.png)
+[![proposed content hierarchy](img/37f608e2c835aecc8b76c35497d8ceaf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dioK6EgH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3cnn0ur0ebledvcotbt3.png)
 
 我们不是将我们的内容分割成“集合”，而是将所有的东西存放在一个巨大的集合中——称为“图书馆”——并允许书籍以多种风格出现。我们希望这将使我们的内容在搜索中更容易被发现，减少重复，并允许用户拥有包含小说和非小说标题的阅读列表。
 
@@ -43,7 +43,7 @@
 
 我们很快就决定，如果我们要创建这个新的“世界观”，我们希望在这个过程中使用一些很酷的新技术——公平地说，图形模型似乎确实可以很好地服务于当前的用例。我们画出了一些我们期望我们的实体和关系看起来像什么的概念。
 
-[![image of graph containing library, reading list, genres and books a user can access](../Images/d06bbdd41b46ebe27985be4e30908b5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8ywXJ5Rs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lbyt3lpkpas6cspmz5vo.png)
+[![image of graph containing library, reading list, genres and books a user can access](img/d06bbdd41b46ebe27985be4e30908b5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8ywXJ5Rs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lbyt3lpkpas6cspmz5vo.png)
 
 如果用户愿意的话，他们可以把自己的书添加到阅读清单中——但这并不意味着它们属于图书馆的藏书。
 
@@ -51,7 +51,7 @@
 
 决定之后，我们起草了在关系数据库中存储图形实体和关系(“节点”和“边”)的方法:
 
-[![table setup](../Images/717b2632f2df5192632a601867370bce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TfbF_srh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jb9orgc3kd8f6jgl7p68.png)
+[![table setup](img/717b2632f2df5192632a601867370bce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TfbF_srh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jb9orgc3kd8f6jgl7p68.png)
 
 ## 好人
 
@@ -149,7 +149,7 @@ end
 
 随着图书馆规模的增长，查询变得非常糟糕。查询越来越复杂；为了避免进行数百次查询，需要进行复杂的预加载。我们的许多服务依赖递归来生成序列化的 JSON 或聚合数据，当试图找出您的 bug 是什么、是什么导致的，以及您的额外查询在哪里进行时，这增加了精神开销。当新的开发人员加入我们的团队时，他们很难提高我们正在做的事情，这导致了沮丧和浪费了大量时间。我们使用了类似递归 SQL 视图的工具和可怕的“octo-UI”(见下文)管理工具，这些工具带来了更多的痛苦而不是快乐。
 
-[![image of a force-directed graph](../Images/87a292bd0acc6b64c77772f2ad0d9695.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yUlbpiFB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nborilsqh0hmmtxr24m7.png)
+[![image of a force-directed graph](img/87a292bd0acc6b64c77772f2ad0d9695.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yUlbpiFB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nborilsqh0hmmtxr24m7.png)
 
 *该图类似于我们实现的权宜管理界面，允许管理员与该图互动——截图取自[D3 示例图库](https://github.com/d3/d3/wiki/Gallery)T3】*
 
@@ -177,7 +177,7 @@ end
 
 我认为这也适用于我们用来构建软件的*模式*。当我们很好地隐藏了图形结构的实现细节时，我们引入了感觉不直观和困惑新开发人员的代码。如果我们在隔离代码方面做得更好，那么以后用真正的代码替换我们“自己开发”的版本会容易得多。
 
-[![](../Images/1bb0e20a8e0a0dd777d5720f867be1d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8SzUgT6J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/67s1zlsqaz1gbl9he4az.png)
+[![](img/1bb0e20a8e0a0dd777d5720f867be1d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8SzUgT6J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/67s1zlsqaz1gbl9he4az.png)
 
 上面链接的文章为限制团队使用的技术解决方案的数量提供了一个很好的例子。你可以选择专注于解决业务问题，而不是花费精力排除故障和维护自主开发的解决方案。添加太多不熟悉的技术，你可能会有一两个“专家”(晦涩难懂的大师)来解释你的应用程序是如何工作的，而不是一个大多数人可以在合理的时间内快速上手的简单代码库。
 

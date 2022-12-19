@@ -26,7 +26,7 @@
 
 我们已经开始创建一个定制的 WordPress 仪表盘，有很多目标，但是我列出了一些和这篇文章相关的目标。看看我到目前为止构建的，都是基于无服务器的 Azure 函数——非常棒。
 
-[![A Custom WordPress Dashboard with MongoDB Atlas, Microsoft Azure, & Serverless Functions!](../Images/ac39d63f9d873d586986323bed6b106d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ERLa79cW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://ddwva799xzrph.cloudfront.net/items/3b401D3l3r2D1F2I2g30/Screen%2520Recording%25202018-05-22%2520at%252008.20%2520PM.gif)
+[![A Custom WordPress Dashboard with MongoDB Atlas, Microsoft Azure, & Serverless Functions!](img/ac39d63f9d873d586986323bed6b106d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ERLa79cW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://ddwva799xzrph.cloudfront.net/items/3b401D3l3r2D1F2I2g30/Screen%2520Recording%25202018-05-22%2520at%252008.20%2520PM.gif)
 
 ### 👀高级数据报告
 
@@ -66,7 +66,7 @@
 
 对于这个定制的 WordPress 仪表板，我使用 [MongoDB Atlas](https://www.MongoDB.com/cloud/atlas) 作为 DBaaS(数据库即服务)。我非常高兴。当我第一次分享我将使用 MongoDB 时，许多开发人员都有顾虑。
 
-[![MongoDB Gray Logo Fullcolor Rgb 01](../Images/b6d9615d9a333b4e8bfaacfa05b6f428.png)T2】](https://www.MongoDB.com/)
+[![MongoDB Gray Logo Fullcolor Rgb 01](img/b6d9615d9a333b4e8bfaacfa05b6f428.png)T2】](https://www.MongoDB.com/)
 
 大多数问题都是关于为什么要通过添加另一个数据库来增加另一层复杂性。为什么不直接使用 WordPress 数据库呢？为了回答这些问题以及更多的问题，我准备了一份我为什么使用 [MongoDB Atlas](https://www.MongoDB.com/cloud/atlas) 的理由清单。
 
@@ -93,7 +93,7 @@
 
 好了，现在我知道 MongoDB 是正确的数据库选择，有这么多不同的选项来托管您的数据库。我可以通过 DigitalOcean 在我的 Linux 机器上进行自托管，使用 AWS/Azure 这样的云提供商，或者选择特定于 MongoDB 的 DBaaS 服务。
 
-[![9 MongoDB Atlas](../Images/91d19ef588b2f980ca4cbbe4492bb48f.png)T2】](https://www.MongoDB.com/cloud/atlas)
+[![9 MongoDB Atlas](img/91d19ef588b2f980ca4cbbe4492bb48f.png)T2】](https://www.MongoDB.com/cloud/atlas)
 
 但是我想要一个快速、安全和可管理的 MongoDB 解决方案，我可以随着我们在这个定制的 WordPress 仪表板中附加的模块数量的增长而轻松扩展。那是 [MongoDB 图集](https://www.MongoDB.com/cloud/atlas)。
 
@@ -107,7 +107,7 @@
 
 既然我们要使用 MongoDB，那么最好有一个工具，通过它我们可以探索我们的数据库，查看更改，调试等等。为此，MongoDB 再次率先推出了名为 [MongoDB Compass](https://www.MongoDB.com/products/compass) 的产品。看一看。
 
-[![8 MongoDB Compass](../Images/e19f14f8e7788efd9dbd29f8f8d27159.png)](https://www.MongoDB.com/products/compass) 我建议你去下载 [MongoDB 指南针](https://www.MongoDB.com/products/compass)。
+[![8 MongoDB Compass](img/e19f14f8e7788efd9dbd29f8f8d27159.png)](https://www.MongoDB.com/products/compass) 我建议你去下载 [MongoDB 指南针](https://www.MongoDB.com/products/compass)。
 
 这是可视化 MongoDB 数据库的最佳工具。这里有一组功能:
 
@@ -125,19 +125,19 @@
 
 去 [MongoDB Atlas](https://www.MongoDB.com/cloud/atlas) 网站注册一个完全免费的 MongoDB 实例，托管在 AWS 上，共享内存和 512 Mb 存储空间。点击`Get Started Free`按钮。
 
-[![1 MongoDB Atlas](../Images/447def83999a6f25d88ba64cf8fa08a7.png)T2】](https://www.MongoDB.com/cloud/atlas)
+[![1 MongoDB Atlas](img/447def83999a6f25d88ba64cf8fa08a7.png)T2】](https://www.MongoDB.com/cloud/atlas)
 
 ### 第二步:在 [MongoDB 图集报名→](https://www.MongoDB.com/cloud/atlas)
 
 现在继续用你的电子邮件 ID 注册并填写详细信息。令人惊讶的是，你可以注册并使用一个免费的 MongoDB Atlas 托管数据库实例，他们甚至不需要你为此添加信用卡。
 
-[![2 MongoDB Atlas Signup](../Images/69269df1ef013a9ba2782041ec3e5da9.png)T2】](https://www.MongoDB.com/cloud/atlas)
+[![2 MongoDB Atlas Signup](img/69269df1ef013a9ba2782041ec3e5da9.png)T2】](https://www.MongoDB.com/cloud/atlas)
 
 ### 第三步:创建集群
 
 现在，您将被重定向到一个页面，其中包含关于您将要创建的新 MongoDB 集群的大量信息。我建议您查看一下这些信息，然后点击底部的`Create Cluster`按钮，就像下面的截图一样。
 
-[![3 MongoDB Atlas Create Cluster](../Images/f2b46095e932614708d8bc8d80ac35fb.png)T2】](https://www.MongoDB.com/cloud/atlas)
+[![3 MongoDB Atlas Create Cluster](img/f2b46095e932614708d8bc8d80ac35fb.png)T2】](https://www.MongoDB.com/cloud/atlas)
 
 ### 第 4 步:创建数据库用户/通行证
 
@@ -145,7 +145,7 @@
 
 我将用户/通行证设置为`usermongo`,但你知道得更清楚。
 
-[![GIF for MongoDB Atlas, Microsoft Azure, & Serverless Functions](../Images/64e7cb6feb6357a97b2f52c8d4d4f425.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o5F7VXB4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://ddwva799xzrph.cloudfront.net/items/1K393D0r3k3b3u193837/Screen%2520Recording%25202018-05-21%2520at%252007.35%2520PM.gif)
+[![GIF for MongoDB Atlas, Microsoft Azure, & Serverless Functions](img/64e7cb6feb6357a97b2f52c8d4d4f425.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o5F7VXB4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://ddwva799xzrph.cloudfront.net/items/1K393D0r3k3b3u193837/Screen%2520Recording%25202018-05-21%2520at%252007.35%2520PM.gif)
 
 ### 第 5 步:将 IP 添加到白名单中进行访问
 
@@ -153,7 +153,7 @@
 
 所以，再一次，把头转向`Security` > `IP Whitelist`，点击右边的`+ ADD IP ADDRESS`按钮，最后点击`ALLOW ACCESS FROM ANYWHERE`按钮允许匿名访问。
 
-[![GIF for MongoDB Atlas, Microsoft Azure, & Serverless Functions](../Images/3b6a0cc1d6cd880ece877432307612d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k-0ZcGy1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://ddwva799xzrph.cloudfront.net/items/1k3y3A0A0p0D2M3M3T1a/Screen%2520Recording%25202018-05-21%2520at%252007.45%2520PM.gif)
+[![GIF for MongoDB Atlas, Microsoft Azure, & Serverless Functions](img/3b6a0cc1d6cd880ece877432307612d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k-0ZcGy1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://ddwva799xzrph.cloudfront.net/items/1k3y3A0A0p0D2M3M3T1a/Screen%2520Recording%25202018-05-21%2520at%252007.45%2520PM.gif)
 
 ### 第六步:通过 MongoDB Compass 连接
 
@@ -163,7 +163,7 @@
 
 您可以可视化您的数据库，分析其性能，甚至运行完整的 CRUD 操作。厉害！💯
 
-[![GIF for MongoDB Atlas, Microsoft Azure, & Serverless Functions](../Images/225c59e4ab278a8d9c82ff497296d69c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pRKZ5mL9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://ddwva799xzrph.cloudfront.net/items/3t3P2440132S0B0B1l26/Screen%2520Recording%25202018-05-21%2520at%252008.08%2520PM.gif)
+[![GIF for MongoDB Atlas, Microsoft Azure, & Serverless Functions](img/225c59e4ab278a8d9c82ff497296d69c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pRKZ5mL9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://ddwva799xzrph.cloudfront.net/items/3t3P2440132S0B0B1l26/Screen%2520Recording%25202018-05-21%2520at%252008.08%2520PM.gif)
 
 现在我们已经创建了一个 MongoDB Atlas，将它与 MongoDB Compass 连接起来，接下来我们可以开始构建 Node.js 应用程序了。
 

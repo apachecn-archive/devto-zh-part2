@@ -24,7 +24,7 @@
 
 我看了样本，觉得“这当然比其他库容易！”
 
-[![img](../Images/dea9dd007d15afd6a10a6b16d30b706b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lt5k4_XZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/QBdFu9k.png)
+[![img](img/dea9dd007d15afd6a10a6b16d30b706b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lt5k4_XZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/QBdFu9k.png)
 
 # 最喜欢的一点:好自述(文档)。
 

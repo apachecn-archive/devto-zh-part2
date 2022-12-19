@@ -7,7 +7,7 @@
 ### 功能编程
 
 函数式编程是一种受 lambda 微积分启发的编程概念。在这个概念中，每个计算都被认为是一个函数。尽管这些功能不应该被允许在其范围之外改变状态/数据。
-[![Function](../Images/eeae5ac43fec304fd58685dab03e9d46.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--9zitr8o6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/3/3b/Function_machine2.svg)
+[![Function](img/eeae5ac43fec304fd58685dab03e9d46.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--9zitr8o6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/3/3b/Function_machine2.svg)
 
 #### 为什么？
 

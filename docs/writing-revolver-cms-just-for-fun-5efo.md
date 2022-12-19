@@ -4,7 +4,7 @@
 
 RevolveR CMS 是一个快速、简单和功能强大的内容管理系统，基于 PHP 7 语言，使用 MySQL 数据库和文件缓存，旨在创建新闻网站、博客和论坛，仅用于 6 个月的编码。
 
-[![RevolveR CMS](../Images/7d0117bf0f7dd7f63e69c04bf4fb0250.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hRdNEG4P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/36mmj8l34s3x7jgi6jvn.png)
+[![RevolveR CMS](img/7d0117bf0f7dd7f63e69c04bf4fb0250.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hRdNEG4P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/36mmj8l34s3x7jgi6jvn.png)
 
 左轮 CMS 是安全和移动友好的系统，具有完美的搜索引擎优化兼容性。它有完整的动态加载页面支持，谷歌和 Yandex 涡轮网页解决方案。
 
@@ -61,7 +61,7 @@ RevolveR CMS 是一个快速、简单和功能强大的内容管理系统，基�
 1).干净网站需要 0.5 Mb 内存；
 2)。只需对数据库进行一次查询即可呈现缓存的网站；
 
-[![RevolveR CMS preferences](../Images/68a8b1651b0e5c248ec3e14a7fd29bca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pH3N_6M5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/81sofsyxyfktc2ujxccw.PNG)
+[![RevolveR CMS preferences](img/68a8b1651b0e5c248ec3e14a7fd29bca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pH3N_6M5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/81sofsyxyfktc2ujxccw.PNG)
 
 一个冬天的时间，我计划做一些核心重建，并添加一个电子商务商店模块。
 

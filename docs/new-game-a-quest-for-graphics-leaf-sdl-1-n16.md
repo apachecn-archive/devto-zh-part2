@@ -140,7 +140,7 @@ Leaf 中的字符串目前只是一个`array｢char｣`，其中`char`是一个 
 
 运行这段代码会给我们一个窗口。
 
-[![empty window graphic](../Images/3c56007e570c1f40eeadf38dd750a7dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t4JDMpVn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/02/sdl_window_empty.png)
+[![empty window graphic](img/3c56007e570c1f40eeadf38dd750a7dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t4JDMpVn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/02/sdl_window_empty.png)
 
 可以看到标题，但是内容好像不对。它看起来是透明的，只是在启动时显示它后面的内容。我们没有画任何东西，甚至没有清除它。这是一个未初始化的区域(尽管捕捉已经存在的内容看起来可能是一个安全问题)。
 
@@ -206,7 +206,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 > `ignore`是必需的，因为我忽略了这些函数的返回值。默认情况下，Leaf 不允许忽略值。这里的形式也不好:我应该检查这些返回值是否有错误。
 
-[![a green window](../Images/d96f3d1ff73c236648b998922f806457.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3Xg4clAl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/02/sdl_window_green.png)
+[![a green window](img/d96f3d1ff73c236648b998922f806457.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3Xg4clAl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/02/sdl_window_green.png)
 
 我们看到了:一扇绿色的窗户！
 

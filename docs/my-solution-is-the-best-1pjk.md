@@ -8,7 +8,7 @@
 
 演讲的大部分都很好，有很多很好的例子，他真的很懂自己的东西。但是对我来说，他完全错误的地方是他谈论其他解决方案和技术的方式。称它们为蹩脚的平台，告诉人们如果他们还在使用这个平台，他们可能应该退出，称某些做法为潮人所用，称使用了多年的方法为“大错误”。现在你可能明白我的意思了，在演讲中有很多这样的例子。因此，虽然内容很好，但他对待其他技术的方式实际上让我完全失去了对它的尊重。虽然这个例子有点极端，但它让我思考，为什么我们很多人认为自己的解决方案是最好的，而对其他解决方案说三道四？
 
-[![Mine is better!](../Images/79e30601167ded20c91394b657ce0dde.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FbJ6nC69--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6jigb61eh36zz5w6jnbq.png)
+[![Mine is better!](img/79e30601167ded20c91394b657ce0dde.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FbJ6nC69--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6jigb61eh36zz5w6jnbq.png)
 
 ## 是什么原因导致了这种行为？
 
@@ -22,7 +22,7 @@
 
 当谈到这个主题时，一个容易出现的问题是，每种语言、框架或其他技术解决方案都有针对不同情况的用途。我不认为那是真的。对于一种情况，没有“最佳”的解决方案，顶多有一些好的解决方案。我们在软件工程中的可能性太大了，解决方案被广泛使用，这使得只有一个真正的最佳解决方案的情况几乎消失了。我甚至认为，你对不同的技术了解得越多，你就越会发现它们在本质上比你想象的要相似得多。
 
-[![Different roads](../Images/4653ef4bc477fd0ad5bff90b10fd3a85.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r85dmwub--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7pm7j5q5110u14u0501v.jpg)
+[![Different roads](img/4653ef4bc477fd0ad5bff90b10fd3a85.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r85dmwub--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7pm7j5q5110u14u0501v.jpg)
 
 ## 我们能改变什么？
 
@@ -33,4 +33,4 @@
 我想以一种积极的方式结束这篇文章，因此我想请你试着尊重他人，你不需要贬低他人来增加你自己想法的价值。你的观点，你的想法，你的意见值得分享，并且足够强大，可以独立存在！
 
 [![<br>
-Share your ideas!](../Images/80d31174b570c6ec5d1ab869a759656c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nMv6MFgu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tgajmko680kjws3buipw.jpg)
+Share your ideas!](img/80d31174b570c6ec5d1ab869a759656c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nMv6MFgu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tgajmko680kjws3buipw.jpg)

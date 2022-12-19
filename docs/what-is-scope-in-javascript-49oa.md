@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kartik2406/what-is-scope-in-javascript-49oa>
 
-[![Scope](../Images/2aa9648a577155985ac2982ab333e460.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sO3Yn21p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2wukbiqmde4hu7lbdeve.jpg)
+[![Scope](img/2aa9648a577155985ac2982ab333e460.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sO3Yn21p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2wukbiqmde4hu7lbdeve.jpg)
 
 在编程时，我们经常处理数据，我们需要存储和操作数据以获得有用的结果。在这篇文章中，我们将学习 Javascript 中的变量，什么是范围，以及它如何影响你的变量。
 

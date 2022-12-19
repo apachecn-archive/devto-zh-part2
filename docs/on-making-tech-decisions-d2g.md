@@ -22,11 +22,11 @@
 
 一个软件只要被使用就会经历不断的进化。现在就看你如何处理这些变化了。如果你考虑的是短期问题，因为没有时间而用糟糕的设计和没有测试来推动变革，那也没关系，只要确保一旦你的紧迫性得到解决，这个技术债务就能得到解决。但是，如果一个又一个紧急的/“没有时间”的问题接踵而至，而你忘记了技术债务，它会反咬你一口。在这种情况下，项目/产品管理出现了严重的问题。
 
-> ![Ajey Gore profile image](../Images/76d2378281619dc7adccf09b85ea08e8.png)Ajey Gore@ Ajey Gore![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)如果你不停止偿还科技债，科技债总有一天会停止让你偿还。
+> ![Ajey Gore profile image](img/76d2378281619dc7adccf09b85ea08e8.png)Ajey Gore@ Ajey Gore![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)如果你不停止偿还科技债，科技债总有一天会停止让你偿还。
 > 
 > 会有债务追讨，你可能不想去。
 > 
-> 按时还你的科技债！！！2018 年 8 月 16 日上午 05:58[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1029970538347679744)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1029970538347679744)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1029970538347679744)
+> 按时还你的科技债！！！2018 年 8 月 16 日上午 05:58[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1029970538347679744)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1029970538347679744)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1029970538347679744)
 
 > 快速失败->学习->改进
 
@@ -40,7 +40,7 @@
 
 > 如果我们只是与其他人交流/交谈，寻求帮助，软件中的大多数困惑或问题都是可以避免的。
 
-> ![unknown tweet media content](../Images/1690eb1738dc370a76dc0ceb50cfcf6d.png)![Richard Feynman profile image](../Images/46bb15ee5613d880d4931e4fe74e6935.png)理查德·费曼@ proffeynman![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)可以说“我不知道。”意识到我们不知道答案是很有价值的！2018 年 8 月 06 日下午 15:15[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1026486946153938944)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1026486946153938944)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1026486946153938944)
+> ![unknown tweet media content](img/1690eb1738dc370a76dc0ceb50cfcf6d.png)![Richard Feynman profile image](img/46bb15ee5613d880d4931e4fe74e6935.png)理查德·费曼@ proffeynman![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)可以说“我不知道。”意识到我们不知道答案是很有价值的！2018 年 8 月 06 日下午 15:15[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1026486946153938944)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1026486946153938944)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1026486946153938944)
 
 话虽如此，我有时仍感到对黑暗的恐惧！！！
 **鉴于暗=‘做决定’**

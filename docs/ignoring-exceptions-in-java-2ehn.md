@@ -18,7 +18,7 @@
 
 我们称之为异常，我们必须为“检查的异常”编写额外的代码，而 RuntimeException 类型的其他异常为“未检查的异常”。
 
-[![Checked and Unchecked Exception](../Images/d2bd4614e7d2d034416cd3b8ca09fc18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fTM8c4Bd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/klz8k3pfa8yplbh0vdd4.png)
+[![Checked and Unchecked Exception](img/d2bd4614e7d2d034416cd3b8ca09fc18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fTM8c4Bd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/klz8k3pfa8yplbh0vdd4.png)
 
 ## 为什么要检查异常？
 
@@ -29,7 +29,7 @@
 一个很好的例子是到数据库的连接。库供应商将连接检索方法标记为异常。如果我们将数据库用作缓存，我们可以将查询直接发送到主数据库。这是另一条路。
 
 如果我们的数据库不是缓存，应用程序就无法继续运行。如果应用程序崩溃也没关系:
-[![https://imgflip.com/i/26h3xi](../Images/5ce7f28f985bb4773ff61ef4ab770b8c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---dIkcJTG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/600zwkafhw4pjiniwzv5.jpg)
+[![https://imgflip.com/i/26h3xi](img/5ce7f28f985bb4773ff61ef4ab770b8c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---dIkcJTG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/600zwkafhw4pjiniwzv5.jpg)
 
 ## 一个丢失的数据库
 

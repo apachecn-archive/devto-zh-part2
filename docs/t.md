@@ -62,7 +62,7 @@ public interface IAsyncDisposable
 
 这是 C# 8.0 提案中对`IAsyncEnumerable<T>`的定义，看起来应该很熟悉，正如你所料，它只是带有异步`MoveNext`方法的`IEnumerable<T>`。
 
-[![async-enum12](../Images/eb6032176ac95f848f1227e5a9464f52.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gm1ko14N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://stu.dev/content/images/2018/06/async-enum12.png) 
+[![async-enum12](img/eb6032176ac95f848f1227e5a9464f52.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gm1ko14N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://stu.dev/conteimg/2018/06/async-enum12.png) 
 
 我们现在可以看到与`IObservable<T>`和`IEnumerable<T>`的关系。
 

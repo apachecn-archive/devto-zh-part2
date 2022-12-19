@@ -46,7 +46,7 @@ CSS
 
 结果是:
 
-[![box_shadow_1](../Images/a018fd3f732b6b1bd38d2235a2ae1553.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V045x5KI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/05/box_shadow_1.png)
+[![box_shadow_1](img/a018fd3f732b6b1bd38d2235a2ae1553.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V045x5KI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/05/box_shadow_1.png)
 
 通常，没有必要使用纯色的阴影，增加一些不透明度会让它看起来更自然。
 
@@ -66,7 +66,7 @@ CSS
 } 
 ```
 
-[![box_shadow_2](../Images/f706014f46ee4477f6abaee4cc253333.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KJRREmZ_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/05/box_shadow_2.png)
+[![box_shadow_2](img/f706014f46ee4477f6abaee4cc253333.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KJRREmZ_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/05/box_shadow_2.png)
 
 ### 两个不同的影子
 
@@ -84,7 +84,7 @@ CSS
 } 
 ```
 
-[![box_shadow_3](../Images/b2c217c8488a94d878eac6a055fe0ffa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i1cqk4ly--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/05/box_shadow_3.png)
+[![box_shadow_3](img/b2c217c8488a94d878eac6a055fe0ffa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i1cqk4ly--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/05/box_shadow_3.png)
 
 ### 实心阴影
 
@@ -101,7 +101,7 @@ CSS
 } 
 ```
 
-[![box_shadow_4](../Images/59f6f93099af1249cd2e51d3880f1d39.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZiF5KhPU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/05/box_shadow_4.png)
+[![box_shadow_4](img/59f6f93099af1249cd2e51d3880f1d39.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZiF5KhPU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/05/box_shadow_4.png)
 
 从这个例子中，你可以看到使用一个固体阴影是好的，但通常给它一些传播和不透明度会产生更好的效果。
 
@@ -115,7 +115,7 @@ CSS
 
 正如我在以前的一篇文章中提到的，检查您正在学习的新属性的浏览器兼容性是一个很好的做法。目前，最好使用的服务是[can use](https://caniuse.com/)。
 
-[![box_shadow_use-1](../Images/8eb37d6fc9cb0b950633371e4de54ab4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AZ1j4wAT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/05/box_shadow_use-1.png)
+[![box_shadow_use-1](img/8eb37d6fc9cb0b950633371e4de54ab4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AZ1j4wAT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/05/box_shadow_use-1.png)
 
 可以看到，浏览器支持非常好，除了使用 **Opera Mini** 的时候。你应该知道这个特性在那里是行不通的。
 

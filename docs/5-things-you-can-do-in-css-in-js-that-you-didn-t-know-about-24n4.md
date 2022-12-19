@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/5-things-you-can-do-in-css-in-js-that-you-didn-t-know-about-24n4>
 
-[![](../Images/21a8b600320353f6d20eed615b9565b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QdWKSLjj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AGtHPLcQKLCdD_VuY7vvtTw.png)
+[![](img/21a8b600320353f6d20eed615b9565b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QdWKSLjj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AGtHPLcQKLCdD_VuY7vvtTw.png)
 
 除了传统的 CSS，您还可以选择内联样式和 CSS-in-JS 来样式化 React 应用程序。
 
@@ -49,7 +49,7 @@ const styles = StyleSheet.create({
 
 在这篇文章中，我将谈论你在 CSS-in-JS 中可以用上面的库做的五件事，我打赌你不知道。
 
-[![LogRocket Free Trial Banner](../Images/4aa67f42a82d61c79b61acb13eae9479.png)T2】](https://logrocket.com/signup/)
+[![LogRocket Free Trial Banner](img/4aa67f42a82d61c79b61acb13eae9479.png)T2】](https://logrocket.com/signup/)
 
 ### 1。您可以参考其他样式的组件
 
@@ -325,7 +325,7 @@ CSS-in-JS 是一种用 JavaScript 设计应用程序的技术，您可以用实�
 
 ## Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![LogRocket Dashboard Free Trial Banner](../Images/0abf868fe5ccbed99d71cb8d9e81ed98.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6FG5kvEL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png%3Fresize%3D1200%252C677%26ssl%3D1)
+[![LogRocket Dashboard Free Trial Banner](img/0abf868fe5ccbed99d71cb8d9e81ed98.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6FG5kvEL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2017/03/1d0cd-1s_rmyo6nbrasp-xtvbaxfg.png%3Fresize%3D1200%252C677%26ssl%3D1)
 
 [log rocket](https://logrocket.com/signup/)是一个前端日志工具，让你重放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

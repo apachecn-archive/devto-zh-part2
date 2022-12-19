@@ -52,11 +52,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是 GraphQL 服务器所能做到的最简单的事情。这只是在查询“hello”时返回“Hello，world ”,但这只是一个开始。要进行测试，运行`node .`，然后在另一个选项卡中打开浏览器进入 [GraphQL 游乐场](https://graphqlbin.com)。在那里，输入`http://localhost:4000/graphql`来访问您的 GraphQL 服务器。
 
-[![graphql playground - enter endpoint url](../Images/cb5febd6d3db2953150bc5e87dacb63e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Unw2dx4T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/graphql-express/enter-endpoint-7f42c9864ca2829872853c029fda3d872ecf678c8400ec5e8266576954fb4009.png)
+[![graphql playground - enter endpoint url](img/cb5febd6d3db2953150bc5e87dacb63e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Unw2dx4T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/graphql-express/enter-endpoint-7f42c9864ca2829872853c029fda3d872ecf678c8400ec5e8266576954fb4009.png)
 
 GraphQL Playground 将帮助探索您的模式并测试查询。它甚至会自动为您创建一些文档。
 
-[![graphql playground - hello world schema](../Images/2e94733f29b4bc49fb933663697b8f3c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XlIoJiCI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/graphql-express/hello-world-schema-8aaa28a4face13f0b3e3f871ea97621bf535c70cba010f8add64c96603026049.png)
+[![graphql playground - hello world schema](img/2e94733f29b4bc49fb933663697b8f3c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XlIoJiCI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/graphql-express/hello-world-schema-8aaa28a4face13f0b3e3f871ea97621bf535c70cba010f8add64c96603026049.png)
 
 尝试使用以下查询来查询【T0:】T1
 
@@ -68,7 +68,7 @@ query {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![hello world](../Images/a33ca5c15429df6537d7511511067279.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aDY4hHyX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/graphql-express/hello-world-b26aaf16464d2d0e724fa1f6fbb0202ed165d6e1e684c371eed1f23eee9e48e8.png)
+[![hello world](img/a33ca5c15429df6537d7511511067279.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aDY4hHyX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/graphql-express/hello-world-b26aaf16464d2d0e724fa1f6fbb0202ed165d6e1e684c371eed1f23eee9e48e8.png)
 
 ## 提升您的 GraphQL 开发者体验
 
@@ -133,11 +133,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 即使没有设置解析器，您也可以返回到 GraphQL Playground，通过单击`localhost` URL 旁边的圆形箭头图标来刷新模式。
 
-[![url and refresh button](../Images/e5a396547bd01e787feb2fe4cf726efe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b95-HaQE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/graphql-express/refresh-button-ed43e697bd55dbe9014d8e2a7d2fcdc1fd4019f6936bbd4be3a43936735b5a71.png)
+[![url and refresh button](img/e5a396547bd01e787feb2fe4cf726efe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b95-HaQE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/graphql-express/refresh-button-ed43e697bd55dbe9014d8e2a7d2fcdc1fd4019f6936bbd4be3a43936735b5a71.png)
 
 schema explorer 对于确定如何创建查询非常有用。单击绿色的`SCHEMA`按钮来检查您的新模式。
 
-[![full query schema](../Images/dcbfc4d34db01d56d103634462140bcf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OZjt4lxm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/graphql-express/query-schema-abbb7fa69026f74df57dbf45ffe1dc0edcd764b3128ab706d8847df1fb4ca431.png)
+[![full query schema](img/dcbfc4d34db01d56d103634462140bcf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OZjt4lxm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/graphql-express/query-schema-abbb7fa69026f74df57dbf45ffe1dc0edcd764b3128ab706d8847df1fb4ca431.png)
 
 你需要一些方法来存储数据。为了简单起见，使用 JavaScript 的 [`Map`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map) 对象进行内存存储。您还可以创建一些类来帮助将数据从一个对象连接到另一个对象。
 
@@ -203,11 +203,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 既然您已经设置好了所有的查询，并插入了一些数据，那么就回到 GraphQL Playground，玩一会儿吧。尝试获取所有帖子，或者获取与每个帖子相关的所有作者和帖子。
 
-[![query all posts](../Images/cfc5bb740be69dfd3349475cf8c16936.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6M8b_RsZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/graphql-express/query-all-posts-98ff86056af29acbb756db6e8e9938f49a358ab0827831ceb32b3a254abe9e2f.png)
+[![query all posts](img/cfc5bb740be69dfd3349475cf8c16936.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6M8b_RsZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/graphql-express/query-all-posts-98ff86056af29acbb756db6e8e9938f49a358ab0827831ceb32b3a254abe9e2f.png)
 
 或者变得奇怪，通过 id 获得一个帖子，然后是该帖子的作者，以及该作者的所有帖子(包括您刚才查询的那篇)。
 
-[![get weird](../Images/8262be018a60a9c603e15d9364d225a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M7L1Xs5E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/graphql-express/get-weird-248b11002ac3b9519360fde6730671a5e077ef10c4ea331b94a6ff673d690f0e.png)
+[![get weird](img/8262be018a60a9c603e15d9364d225a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M7L1Xs5E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/graphql-express/get-weird-248b11002ac3b9519360fde6730671a5e077ef10c4ea331b94a6ff673d690f0e.png)
 
 ## 为您的 Express + GraphQL API 添加用户认证
 
@@ -232,7 +232,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 接下来，登录到您的开发者控制台，导航到**应用**，然后点击**添加应用**。选择**网页**，然后点击**下一步**。
 
-[![create new application settings](../Images/a6d3c30fbd2b4103776cbfb25ec959e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o92x8lYz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/graphql-express/create-new-application-settings-a4648d7204cec12d2d2c946f4cbcea29d38310894ec4284f1eec5c1259614a15.png)
+[![create new application settings](img/a6d3c30fbd2b4103776cbfb25ec959e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o92x8lYz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/graphql-express/create-new-application-settings-a4648d7204cec12d2d2c946f4cbcea29d38310894ec4284f1eec5c1259614a15.png)
 
 创建应用程序后，您进入的页面有更多信息需要保存到您的`.env`文件中。复制客户端 ID 和客户端密码。
 
@@ -439,7 +439,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 尝试对新的突变进行调用，并创建一个帖子。因为你没有被认证，你应该得到`null`作为响应。
 
-[![cannot create post](../Images/732d625aef1adbec6ffbd70d8bae1afc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--go-Aluhm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/graphql-express/cannot-create-post-48dcce8560aa5e7a4217322d4f23083c4151a8c4f86d7e21eddef1b589a0874d.png)
+[![cannot create post](img/732d625aef1adbec6ffbd70d8bae1afc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--go-Aluhm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/graphql-express/cannot-create-post-48dcce8560aa5e7a4217322d4f23083c4151a8c4f86d7e21eddef1b589a0874d.png)
 
 通常，某种类型的应用程序，无论是 web 应用程序还是本地应用程序，都会处理用户界面进行身份验证，然后无缝地将`Authorization`头传递给 API。在这种情况下，因为我们只关注 API，所以我让您实现一个端点来手动获取 auth 令牌。
 
@@ -455,11 +455,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在您应该已经通过了身份验证，相同的帖子将返回一个有效的帖子:
 
-[![authenticated - can create post](../Images/b3df1dfc0bb578726bb48dc4e73044d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--10LPHGxG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/graphql-express/can-create-post-beb08a327d41a9931ce8b56eacbf7154c52ba1fcffca1d8a53c724b40cf66d45.png)
+[![authenticated - can create post](img/b3df1dfc0bb578726bb48dc4e73044d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--10LPHGxG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/graphql-express/can-create-post-beb08a327d41a9931ce8b56eacbf7154c52ba1fcffca1d8a53c724b40cf66d45.png)
 
 如果你想和其他用户混在一起，你可以通过导航到**用户**->-**人**，然后点击**添加人**，从开发者控制台添加人。然后，您可以从一个匿名窗口或者在退出开发人员控制台后访问`/access-token`端点。
 
-[![add a person](../Images/be51612ae60d616308b8fa606ad7d743.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V1A9lrF0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/graphql-express/add-person-aad4d29b6938a825b4c79ba05e06dd1397334bd67bfdf28b96c542f8cd994170.png)
+[![add a person](img/be51612ae60d616308b8fa606ad7d743.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V1A9lrF0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/graphql-express/add-person-aad4d29b6938a825b4c79ba05e06dd1397334bd67bfdf28b96c542f8cd994170.png)
 
 ## 了解更多关于 GraphQL、Express 和 Okta 的信息
 

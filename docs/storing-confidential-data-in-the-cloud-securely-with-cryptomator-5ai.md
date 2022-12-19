@@ -49,13 +49,13 @@
 1.  从[cryptomator.org](https://cryptomator.org/)下载并安装
 2.  启动应用程序，你会看到以下窗口:
 
-[![](../Images/83c8f8dd2425d36bf5ecade807d61469.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J6dGg4uF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/654/1%2ADgcJn6LTWL06YphPRxdrrw.png)
+[![](img/83c8f8dd2425d36bf5ecade807d61469.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J6dGg4uF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/654/1%2ADgcJn6LTWL06YphPRxdrrw.png)
 
 1.  单击加号按钮并选择“创建新的保险库”
 
 2.  浏览至您想要创建保险库的文件夹(例如 OneDrive 文件夹)并写入保险库的名称(例如 _ Confidential)—_ 这将是 Cryptomator 在当前目录中为您创建的文件夹的名称。
 
-[![](../Images/2a1531dcbaa1f6b3e635579014c11d94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ENSCPA9J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/705/1%2AKgUDlSj47tx4WNPdIKj4Ag.png)
+[![](img/2a1531dcbaa1f6b3e635579014c11d94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ENSCPA9J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/705/1%2AKgUDlSj47tx4WNPdIKj4Ag.png)
 
 1.  单击“保存”后，系统会提示您为保管库创建密码。这应该是相当强大的(漫长而复杂)，因为如果有人得到了你的加密数据，他们有很多时间来尝试暴力解密(使用字典攻击和其他技术)。互联网上到处都有关于如何创建这样一个密码的指南。顺便说一下，如果你喜欢的话，也许你可以使用密码管理器。
 
@@ -63,19 +63,19 @@
 
 3.  现在你只需打开密码驱动器，复制文件，为了确保安全，你可以看看你在保险库里的加密数据。
 
-<figure>[![](../Images/99effabb47ba1d68d536767184420618.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nzYZl1NP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/723/1%2AoGp7BQAx45UMjQ5GoTNhVQ.png) 
+<figure>[![](img/99effabb47ba1d68d536767184420618.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nzYZl1NP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/723/1%2AoGp7BQAx45UMjQ5GoTNhVQ.png) 
 
 <figcaption>解锁的保险库由密码机自动映射为网络驱动器</figcaption>
 
 </figure>
 
-<figure>[![](../Images/53b94f49c6c20504a158ac8cd02777fb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--i-WiGixE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/718/1%2AIp_v1BsqVD3XcwV0r7G8Qw.png) 
+<figure>[![](img/53b94f49c6c20504a158ac8cd02777fb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--i-WiGixE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/718/1%2AIp_v1BsqVD3XcwV0r7G8Qw.png) 
 
 <figcaption>目标文件夹中可见的加密保管库(本例中为 OneDrive)，已经同步到云端</figcaption>
 
 </figure>
 
-<figure>[![](../Images/852449c3f5e68a957dee779565f8a0f4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WJYjCDoT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/708/1%2AnDIYPBlmVfgFP4_jkVxNYw.png) 
+<figure>[![](img/852449c3f5e68a957dee779565f8a0f4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WJYjCDoT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/708/1%2AnDIYPBlmVfgFP4_jkVxNYw.png) 
 
 <figcaption>文件路径、名称和内容在存储时全部加密</figcaption>
 

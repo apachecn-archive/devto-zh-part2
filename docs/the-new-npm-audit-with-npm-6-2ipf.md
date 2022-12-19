@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/letsbsocial1/the-new-npm-audit-with-npm-6-2ipf>
 
-[![Node-Security-Project.png](../Images/6bfb37906e5bd77580713818e8f6e8f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VKOh95sg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ilu9d3745hd418x1tnbo.jpg)
+[![Node-Security-Project.png](img/6bfb37906e5bd77580713818e8f6e8f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VKOh95sg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ilu9d3745hd418x1tnbo.jpg)
 
 *本帖[首发](http://www.mariadcampbell.com/2018/06/05/the-new-npm-audit-with-npm-6/)于我的**开发者博客**，***2018 年 6 月 5 日*** 。*
 
@@ -177,4 +177,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 我也收到了关于 **npm 包** `sharp`的警告，并且卸载了它，现在，如果我真的想的话，我可以 ***重新安装******修复*** 漏洞**。这也适用于**任何漏洞**你可能必须**修复**你 **Github** 上的**！我知道我有几个问题要解决！****
 
-[![Node Security Project](../Images/1bfcb372b0661b522b631da3c44209f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3UvprVxv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cs07rqxkdwx5d28lcavx.png)**
+[![Node Security Project](img/1bfcb372b0661b522b631da3c44209f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3UvprVxv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cs07rqxkdwx5d28lcavx.png)**

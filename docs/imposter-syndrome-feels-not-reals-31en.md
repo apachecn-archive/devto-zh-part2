@@ -4,7 +4,7 @@
 
 *原载于* [*DevMynd 软件博客*](https://www.devmynd.com/blog/imposter-syndrome-feels-not-reals/) *。*
 
-<figure>[![](../Images/8964d288e3fab27dabfaf60dd05d5e3c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_bir9fHk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AeCboXaQWUZuiRvdpFix2RQ.jpeg) 
+<figure>[![](img/8964d288e3fab27dabfaf60dd05d5e3c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_bir9fHk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AeCboXaQWUZuiRvdpFix2RQ.jpeg) 
 
 <figcaption>图片来源:[pexels.com](https://www.pexels.com/)</figcaption>
 

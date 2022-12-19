@@ -38,7 +38,7 @@
 
 工作室现在看起来像这样:
 
-[![](../Images/24af7cb2cf88d9a6681cd4634f29cad1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GIg19jXz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.io/images/3do82whm/production/7ee2991c9e70b10d3b7545a82ea85006dc006f41-2360x1644.png)
+[![](img/24af7cb2cf88d9a6681cd4634f29cad1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GIg19jXz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.img/3do82whm/production/7ee2991c9e70b10d3b7545a82ea85006dc006f41-2360x1644.png)
 
 如果你不在乎工作室，那完全没问题。您可以轻松地使用 Sanity 的补丁 API 来创建和编辑文档。要创建一个可查询的文档，只需要一个[写令牌](https://www.sanity.io/docs/http-auth)，一个`_type`键，并且对于不同的数据类型有一些约定，你很快就会学会。使用 [JavaScript 客户端](https://www.sanity.io/docs/client-libraries/js-client)，您可以创建这样一个文档:
 

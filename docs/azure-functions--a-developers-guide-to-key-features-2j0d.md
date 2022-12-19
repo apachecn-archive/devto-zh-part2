@@ -4,7 +4,7 @@
 
 ### 如何入门 Azure 功能
 
-[![](../Images/48be3d72b5895e381b722f37d8205484.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R0eQTBCY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://deanbryen.dev/img/feature-start.jpg)
+[![](img/48be3d72b5895e381b722f37d8205484.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R0eQTBCY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://deanbryen.dev/img/feature-start.jpg)
 
 作为一名开发人员，过去一年我一直专注于深入研究 Azure 函数。既然我有机会出来透透气，我想分享我的一些经验，以帮助其他开发人员踏上无服务器之旅。
 
@@ -26,7 +26,7 @@ Azure Functions 的 v2.0 运行时是开源的，运行在。网芯。这意味�
 
 使用本地运行时和扩展的组合，您可以创建一个函数项目，添加一些函数，在本地测试和调试它们，然后将它们发布到 Azure——只需几次点击或命令。一旦它开始运行，你可以简单地将日志从 Azure 中运行的函数直接传输到你的终端的 VSCode 中。
 
-[![](../Images/c80f29d98cc6743969669ae6d89d0c30.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TQ-MhVT---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AVMMw_vkW8KMMQ3dpz_m42A.gif)
+[![](img/c80f29d98cc6743969669ae6d89d0c30.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TQ-MhVT---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AVMMw_vkW8KMMQ3dpz_m42A.gif)
 
 #### 功能绑定
 

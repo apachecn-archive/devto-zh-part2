@@ -8,7 +8,7 @@
 
 你可以在这里找到第 2 部分:
 
-[![rrampage](../Images/bec6c5c5b1a1ae239588667c16549de7.png)](/rrampage) [## JVM 初级教程第 2 部分——调试内存问题
+[![rrampage](img/bec6c5c5b1a1ae239588667c16549de7.png)](/rrampage) [## JVM 初级教程第 2 部分——调试内存问题
 
 ### 偈纳克罗摩克里希南 5 月 16 日 185 分钟阅读
 
@@ -22,7 +22,7 @@ JVM 提供自动内存管理，将程序员从手动管理内存中解放出来�
 
 当 JVM 启动时，它向操作系统请求一些内存。这种记忆被分成不同的空间。
 
-[![Memory spaces in Hotspot](../Images/8a4c69e49646c22d67c11676b1839e0a.png "Memory spaces in Hotspot VM")](https://res.cloudinary.com/practicaldev/image/fetch/s--6OCHdXZ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.ibm.com/support/knowledgecenter/SS3JSW_5.2.0/com.ibm.help.performance_mgmt.doc/SIPM_HotSpotMemory.jpg)
+[![Memory spaces in Hotspot](img/8a4c69e49646c22d67c11676b1839e0a.png "Memory spaces in Hotspot VM")](https://res.cloudinary.com/practicaldev/image/fetch/s--6OCHdXZ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.ibm.com/support/knowledgecenter/SS3JSW_5.2.0/com.ibm.help.performance_mgmt.doc/SIPM_HotSpotMemory.jpg)
 JDK 8 之前 JVM 中的内存空间
 
 *   单独的池保存不同年龄范围的对象

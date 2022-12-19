@@ -22,7 +22,7 @@
 *   将工件从`dist`文件夹移动到一个可公开访问的文件夹(通过 nginx 服务器)
 *   设置一个 nginx 配置文件，并启动 http 服务器
 
-[![Ultimate Courses](../Images/12cdf6285fac1e316bd47871a099ef74.png)T2】](https://ultimatecourses.com/courses/angular/ref/azero79/ "Ultimate Courses")
+[![Ultimate Courses](img/12cdf6285fac1e316bd47871a099ef74.png)T2】](https://ultimatecourses.com/courses/angular/ref/azero79/ "Ultimate Courses")
 
 **我们将分两个阶段进行**:
 
@@ -118,6 +118,6 @@ $ dock run-p 8080:80 myapp
 
 而镜像的大小只有~15.8MB，一旦推送到 Docker 库就更少了。
 
-[![](../Images/73407ee6cdefaa6bb186448903f21991.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CWgI9NS6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0f6v2ku7edmm2yguz8o9.png)
+[![](img/73407ee6cdefaa6bb186448903f21991.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CWgI9NS6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0f6v2ku7edmm2yguz8o9.png)
 
 你可以在这个 GitHub 库中看到一个完整的例子:[https://github.com/avatsaev/angular-contacts-app-example](https://github.com/avatsaev/angular-contacts-app-example)

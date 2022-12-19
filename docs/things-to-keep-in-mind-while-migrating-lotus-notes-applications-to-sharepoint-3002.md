@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/mariyat99024111/things-to-keep-in-mind-while-migrating-lotus-notes-applications-to-sharepoint-3002>
 
-[![Sharepoint migration](../Images/d6a3c8953c1da75617500eee8fc00492.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4gxg_xFr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jdxto7bglv7ke2f1eelj.jpg) 
+[![Sharepoint migration](img/d6a3c8953c1da75617500eee8fc00492.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4gxg_xFr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jdxto7bglv7ke2f1eelj.jpg) 
 Lotus Notes 自 1989 年上市以来，一直作为许多组织的 IT 生态系统的一部分存在至今。然而，在最近几年，有一个值得注意的发展，从 Lotus Notes 到现代，远远超过 IBM 的成熟产品。
 
 ## 它从迁移到 MICROSOFT EXCHANGE 开始

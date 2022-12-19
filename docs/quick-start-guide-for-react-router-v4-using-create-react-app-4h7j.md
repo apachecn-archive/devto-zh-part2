@@ -223,7 +223,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您的应用程序现在应该是这样的:
 
-[![alt text](../Images/2066a139b577ce96e7b1c3369ac9024e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LbN2TzEX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mzt5oyshn1ltqlyk2ezs.gif)
+[![alt text](img/2066a139b577ce96e7b1c3369ac9024e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LbN2TzEX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mzt5oyshn1ltqlyk2ezs.gif)
 
 参考资料:
 

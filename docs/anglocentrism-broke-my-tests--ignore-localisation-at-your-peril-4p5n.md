@@ -20,7 +20,7 @@
 
 但是，当斯洛伐克开发商 Marek 加入我们时，一切都变糟了。我发现，斯洛伐克是许多不使用句号(我的美国朋友称之为“句号”)作为小数点分隔符的国家之一。
 
-[![](../Images/6b82465471dbf341981a526015031048.png)T2】](https://i2.wp.com/blog.tdwright.co.uk/wp-content/uploads/2018/11/High-Tatras-Mountains-Pleso-Slovakia-3223538.jpg)
+[![](img/6b82465471dbf341981a526015031048.png)T2】](https://i2.wp.com/blog.tdwright.co.uk/wp-content/uploads/2018/11/High-Tatras-Mountains-Pleso-Slovakia-3223538.jpg)
 
 斯洛伐克美丽的塔特拉斯山脉。(图片由[最大像素](https://www.maxpixel.net/High-Tatras-Mountains-Pleso-Slovakia-3223538)提供。)
 
@@ -119,7 +119,7 @@ Thread.CurrentThread.CurrentCulture = CultureInfo.CreateSpecificCulture("en-GB")
 
 当然，如果我是一个讲英语的英国人，这一切都不会发生。我的盎格鲁中心主义允许我悄悄地忽略其他人以不同方式做事的事实。在软件开发中，我们主要用英语做生意。我的意思是，想想你选择的语言的内置方法的名字——我打赌它们是英语单词。这让我们很容易忘记这个世界的存在，这在我看来有点可耻。
 
-[![](../Images/339ef53fd951e4be797f5f87add8ab8a.png)T2】](https://i2.wp.com/blog.tdwright.co.uk/wp-content/uploads/2018/11/798px-Imperial_Federation_map_of_the_world_showing_the_extent_of_the_British_Empire_in_1886.jpg)
+[![](img/339ef53fd951e4be797f5f87add8ab8a.png)T2】](https://i2.wp.com/blog.tdwright.co.uk/wp-content/uploads/2018/11/798px-Imperial_Federation_map_of_the_world_showing_the_extent_of_the_British_Empire_in_1886.jpg)
 
 至少我的特权没有延伸到殖民……(图片[来自维基媒体](https://commons.wikimedia.org/wiki/File:Imperial_Federation,_map_of_the_world_showing_the_extent_of_the_British_Empire_in_1886.jpg))。)
 

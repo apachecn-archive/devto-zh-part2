@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/xeroxism/how-to-install-themes-and-make-your-ubuntu-desktop-come-alive-5aeb>
 
-[![ubuntu_theme_banner_fossnaija](../Images/0b0bef59eb28e4e6cb026086ae89aa85.png)T2】](https://i0.wp.com/fossnaija.com/wp-content/uploads/2018/08/ubuntu_theme_banner2.png?ssl=1)
+[![ubuntu_theme_banner_fossnaija](img/0b0bef59eb28e4e6cb026086ae89aa85.png)T2】](https://i0.wp.com/fossnaija.com/wp-content/uploads/2018/08/ubuntu_theme_banner2.png?ssl=1)
 
 有时给 Linux 桌面增加视觉效果会让用户体验变得非常有价值。实现这一点的方法之一是使用主题；这可以改变桌面外观和交互。我将向您展示如何通过安装主题来赋予您的 Linux 桌面个性化的外观和感觉。
 
@@ -20,19 +20,19 @@
 
 ### **T3】超平主题 T5】**
 
-[![ultra flat theme ubuntu](../Images/b0a7a02029ef90e7000b187c14137536.png)T2】](https://i1.wp.com/fossnaija.com/wp-content/uploads/2018/08/ultra-flat-theme-ubuntu.png?ssl=1)
+[![ultra flat theme ubuntu](img/b0a7a02029ef90e7000b187c14137536.png)T2】](https://i1.wp.com/fossnaija.com/wp-content/uploads/2018/08/ultra-flat-theme-ubuntu.png?ssl=1)
 
 ### **T3】Numix 主题 T5】**
 
-[![numix-theme-for-ubuntu-linux-fossnaija](../Images/ada601c5ef53d6b274b67dfbb22beaba.png)T2】](https://i1.wp.com/fossnaija.com/wp-content/uploads/2018/08/numix-theme-for-ubuntu-linux-fossnaija.jpg?ssl=1)
+[![numix-theme-for-ubuntu-linux-fossnaija](img/ada601c5ef53d6b274b67dfbb22beaba.png)T2】](https://i1.wp.com/fossnaija.com/wp-content/uploads/2018/08/numix-theme-for-ubuntu-linux-fossnaija.jpg?ssl=1)
 
 ### 
 
- **[![flatabulous-theme-fossnaija](../Images/582d87bd444cbddee60477220aca6ddd.png)T2】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/08/flatabulous-theme-fossnaija.jpg?ssl=1)
+ **[![flatabulous-theme-fossnaija](img/582d87bd444cbddee60477220aca6ddd.png)T2】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/08/flatabulous-theme-fossnaija.jpg?ssl=1)
 
 ### [祖提克沃](http://gnome-look.org/content/show.php/Zukitwo?content=140562)
 
-## [![zukwito linux theme](../Images/5857b64dd7fb4b35a75bf8e64914f988.png)T4】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/08/zukwito-theme.jpg?ssl=1)
+## [![zukwito linux theme](img/5857b64dd7fb4b35a75bf8e64914f988.png)T4】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/08/zukwito-theme.jpg?ssl=1)
 
 ## #2:解压到系统主题文件夹:
 
@@ -48,17 +48,17 @@ ubuntu 有两个主要的调整工具；统一调整工具和 T2 Gnome 调整工
 
 > > Open it
 
-[![unity_tweak_tool_ubuntu_dash_fossnaija](../Images/9c8f17f51d06de7fe7530bd1240529be.png)T2】](https://i1.wp.com/fossnaija.com/wp-content/uploads/2018/08/unity_tweak_tool_ubuntu_dash_fossnaija-1.png?ssl=1)
+[![unity_tweak_tool_ubuntu_dash_fossnaija](img/9c8f17f51d06de7fe7530bd1240529be.png)T2】](https://i1.wp.com/fossnaija.com/wp-content/uploads/2018/08/unity_tweak_tool_ubuntu_dash_fossnaija-1.png?ssl=1)
 
 > > Go to "Theme" under the appearance section:
 
-[![unity tweak tool](../Images/05f347fbadd39219e6db7282a1f2c9ba.png)T2】](https://i0.wp.com/fossnaija.com/wp-content/uploads/2018/07/unity-tweak-tool.png?ssl=1)
+[![unity tweak tool](img/05f347fbadd39219e6db7282a1f2c9ba.png)T2】](https://i0.wp.com/fossnaija.com/wp-content/uploads/2018/07/unity-tweak-tool.png?ssl=1)
 
 图片:化石人. COM
 
 > > Under Available Themes, you can see all the themes in the folder "**/usr/share/theme** * * e * *". Select one you want, and then the system will apply the theme to your desktop.
 
-[![gnome tweak tool available themes](../Images/1375768c51f9f3398d756bdba38972ae.png)T2】](https://i0.wp.com/fossnaija.com/wp-content/uploads/2018/07/gnome-tweak-tool.png?ssl=1)
+[![gnome tweak tool available themes](img/1375768c51f9f3398d756bdba38972ae.png)T2】](https://i0.wp.com/fossnaija.com/wp-content/uploads/2018/07/gnome-tweak-tool.png?ssl=1)
 
 图片:化石人. COM
 

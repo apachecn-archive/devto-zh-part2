@@ -4,7 +4,7 @@
 
 ### Vim:用更多特性压榨文本编辑器的汁液
 
-<figure>[![](../Images/fd91c581c3840471c2d991c5217004f5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZYa_nQBT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2APwUdhpg4ULj5RKb81TKxpA.jpeg) 
+<figure>[![](img/fd91c581c3840471c2d991c5217004f5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZYa_nQBT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2APwUdhpg4ULj5RKb81TKxpA.jpeg) 
 
 <figcaption>生产力总是一步之遥。来源: [Pixabay](https://pixabay.com/en/tomatoes-vegetables-red-food-5356/)</figcaption>
 

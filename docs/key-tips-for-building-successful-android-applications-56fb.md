@@ -6,7 +6,7 @@ Android market 一直在为其用户提供全球最大的应用基础。事实�
 
 在每天发布的上千个应用程序中，只有 0.1 %的应用程序有幸品尝到成功应用程序的荣耀。背后的主要原因是缺乏关于应用程序的开发、设计、营销等方面的知识。前面提到的所有方面对于你的 Android 应用的成功都是至关重要的。
 
-[![](../Images/6841d2341f028ba61006a4b791797515.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D9KFh-GK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AXaTAQVb3jwwfaGnT8DTa_A.jpeg)
+[![](img/6841d2341f028ba61006a4b791797515.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D9KFh-GK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AXaTAQVb3jwwfaGnT8DTa_A.jpeg)
 
 这是 Android 应用和 iOS 应用的主要区别。尽管 app store 上的应用程序较少，但 iOS 应用程序以其产品质量而闻名。但是，这并不意味着 iOS 应用优于 Android 应用。如果开发正确，Android 应用程序可以像 iOS 应用程序一样高效。
 

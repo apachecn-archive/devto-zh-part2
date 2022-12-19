@@ -24,7 +24,7 @@
 
 复杂的问题无法控制，[只能管理](https://sloanreview.mit.edu/article/the-critical-difference-between-complex-and-complicated/)。然而，我们仍然试图将业务发展视为一个过程，因为我们**真的**希望它是一个过程。只要看看“敏捷”*和“精益”的流行程度，尤其是大量营销的、面向过程的版本，它们强化了这种错觉(而且它们也不起作用)。简直是一厢情愿。
 
-[![Complicated vs Complex](../Images/82eb019eee2e6ee2c0d23cb39bf2c3a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W6eErrip--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8pqayuxmbcybpku4knwq.png)
+[![Complicated vs Complex](img/82eb019eee2e6ee2c0d23cb39bf2c3a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W6eErrip--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8pqayuxmbcybpku4knwq.png)
 
 DDD 承认这一事实，而不是专注于僵化的流程和硬性规定(即，一个尺寸适合所有的解决方案)，它提出了管理和消除模糊性的技术。秘密不在于遵循一个过程，而在于重复你试图解决的问题。
 
@@ -56,7 +56,7 @@ DDD 带来了清晰，通过清晰，我们能够专注。
 
 你加入的人越多，问题就越严重。以典型的指挥链为例。
 
-[![The Chain of Mis-communication](../Images/cd91e2f665c26764f29d71ab58647ef9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AOG7ui3z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w3g46cxab377f313vcba.png)
+[![The Chain of Mis-communication](img/cd91e2f665c26764f29d71ab58647ef9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AOG7ui3z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w3g46cxab377f313vcba.png)
 
 这是一个很大的错误沟通的空间。如果你曾经请求过一个特性，却得到了一些不切实际的东西，这就是原因。
 
@@ -72,7 +72,7 @@ DDD 带来了清晰，通过清晰，我们能够专注。
 
 测试解决方案的速度越快越好。这并不意味着你需要构建软件，这是最昂贵的测试方式。取而代之的是，为什么不用模型甚至纸笔来原型化一个解决方案呢？你会在一小段时间内得到同样的反馈。DDD 鼓励提前发现和迭代，而不是为了写软件而写软件。
 
-[![Feedback loop](../Images/a81c1a0c512e19abea06e6995310959b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5qupOBav--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/naihh7lrfkjyxiwtays5.png)
+[![Feedback loop](img/a81c1a0c512e19abea06e6995310959b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5qupOBav--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/naihh7lrfkjyxiwtays5.png)
 
 这并不是说 DDD 不怎么谈论软件，它肯定会，而且它有很多写作模式，但软件不是核心。DDD 有一句谚语:最好的软件就是没有软件。你看，软件增加了复杂性，所以如果你能避免这种复杂性，你应该这样做。一个好的 DDD 实践者会试图找到现有的问题解决方案，只有当定制软件带来最大价值的时候才会依靠它。
 

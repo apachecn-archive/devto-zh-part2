@@ -10,7 +10,7 @@
 
 有时候会有一个特定的语言或者框架，可能是一些比较笼统的比如“游戏编程”或者“网页设计”之类的。
 
-[![](../Images/a04e3c3808b44369ac240ac0ec76873d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jMKore3a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.codingblocks.net/wp-content/uploads/2018/03/Screen-Shot-2018-03-14-at-9.14.05-PM.png)
+[![](img/a04e3c3808b44369ac240ac0ec76873d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jMKore3a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.codingblocks.net/wp-content/uploads/2018/03/Screen-Shot-2018-03-14-at-9.14.05-PM.png)
 
 知识是你知道什么，技能是你能用它做什么。
 
@@ -26,4 +26,4 @@
 
 (还是红蓝激光？)
 
- [![](../Images/35e9512915690174bf44dcd97186eebc.png)T4】](https://gizmodo.com/5326485/if-knowing-is-half-the-battle-whats-the-other-half-lasers)
+ [![](img/35e9512915690174bf44dcd97186eebc.png)T4】](https://gizmodo.com/5326485/if-knowing-is-half-the-battle-whats-the-other-half-lasers)

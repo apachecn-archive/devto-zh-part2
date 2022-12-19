@@ -16,7 +16,7 @@
 
 衡量页面加载速度的一种常见方法是使用“load”事件。然而，当“load”事件被触发时，页面看起来像这样:
 
-[![site loaded screenshot](../Images/76af0b3e0bcf6f37a4592199a8948d41.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5kBvdZNl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k2o6b8t8pqdkzauv5aed.png)
+[![site loaded screenshot](img/76af0b3e0bcf6f37a4592199a8948d41.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5kBvdZNl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k2o6b8t8pqdkzauv5aed.png)
 
 这显然不是页面加载的时间点。依赖这个指标是危险的。你会关注错误的事情，改变无意义的数字。同时，你会忽略真正的问题——你的用户会默默忍受。
 
@@ -46,7 +46,7 @@
 
 ## 是“可重复的”
 
-[![A photo of agent smith from the matrix](../Images/58b710727bfd8bfa599a9cd31e54c216.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CkIitkUF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uvnamstr07nj1c9lb5br.png)
+[![A photo of agent smith from the matrix](img/58b710727bfd8bfa599a9cd31e54c216.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CkIitkUF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uvnamstr07nj1c9lb5br.png)
 
 > 永远不要派人去做机器的工作——特工史密斯
 
@@ -70,7 +70,7 @@
 
 绘画时间是衡量性能的一个普遍选择。
 
-[![Paint timing](../Images/d0eb96f35eb4362be9f966d0f72af96f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QVV1RhGE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ricahzwlv83dg9dvnwej.png)
+[![Paint timing](img/d0eb96f35eb4362be9f966d0f72af96f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QVV1RhGE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ricahzwlv83dg9dvnwej.png)
 
 上图中的三个绘画计时事件反映了绘画生命周期的不同部分。
 
@@ -88,7 +88,7 @@
 
 速度指数是一个很好的指标，但最初可能很难理解。一种想法是，我们“整合随时间加载的页面百分比”——这可能没有帮助澄清太多，所以让我们分解一下。
 
-[![diagram of speed index](../Images/fac1afc9d984a44d6f1dd2386a56711e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CY2tFYP7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1nwb7mmz2nsq0vkgcnop.png)
+[![diagram of speed index](img/fac1afc9d984a44d6f1dd2386a56711e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CY2tFYP7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1nwb7mmz2nsq0vkgcnop.png)
 
 我们跟踪在某个时间间隔内页面被加载的百分比。我们根据网页加载的百分比和速度给自己打分。举个例子，一个在 5 秒内加载所有内容的页面会比一个在 2.5 秒内加载一半页面，而在 5 秒内加载另一半页面的页面得分更低。
 

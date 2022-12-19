@@ -6,13 +6,13 @@
 
 我们将构建一个“货币转换”扩展，如下所示:
 
-[![](../Images/edf515ee741061f2c38ef0598e50ac6c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SECtPUGZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://prod-ulauncher-ext-images.s3.amazonaws.com/github%257C184563/2018-08-18T10:36:08.309173.png)
+[![](img/edf515ee741061f2c38ef0598e50ac6c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SECtPUGZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://prod-ulauncher-ext-images.s3.amazonaws.com/github%257C184563/2018-08-18T10:36:08.309173.png)
 
 敬请关注。
 
 ## 什么是 Ulauncher？
 
-[![Imgur](../Images/4a63393715ab6f483aee673332343cc7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IyjInbca--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/lY9L2WI.png)
+[![Imgur](img/4a63393715ab6f483aee673332343cc7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IyjInbca--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/lY9L2WI.png)
 
 这是一个用于 Linux 的开源应用程序启动器。它是用 Python 2 编写的，有很多不错的特性，比如快捷方式、扩展和自定义主题。
 
@@ -94,7 +94,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果你在 Ulauncher 窗口上输入“dm ”,你应该会看到演示扩展在工作。
 
-[![demo](../Images/d8afd5b9dce6da1e7a85894b5f82c54a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jmJeGvXi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/caQZHxN.png)
+[![demo](img/d8afd5b9dce6da1e7a85894b5f82c54a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jmJeGvXi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/caQZHxN.png)
 
 **注意:在你的扩展中的代码改变后，只需在你的终端中“Ctrl-C”来停止 Ulauncher 并使用“ulauncher -v”再次启动它。**
 

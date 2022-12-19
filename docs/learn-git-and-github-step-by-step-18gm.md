@@ -29,17 +29,17 @@
 
 你需要在 Github 上有一个帐户，当然这个帐户是免费创建的，所以如果你还没有的话，你必须注册。登录后，点击“新建存储库”，您将看到如下屏幕:
 
-[![](../Images/b0f4230c1556e921aa8fac991d8bcc7f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J6fDMkBC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/694/1%2Afsa8yWFmIo4kVNGCzzF5RA.png)
+[![](img/b0f4230c1556e921aa8fac991d8bcc7f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J6fDMkBC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/694/1%2Afsa8yWFmIo4kVNGCzzF5RA.png)
 
 添加您选择的存储库名称(如果需要，添加描述)，然后单击“创建存储库”。
 
 现在，打开命令提示符，在“开始”菜单中键入“cmd ”,将目录更改为“测试”目录，如下所示:
 
-[![](../Images/413005e177d745bc8d758309bcd7f15c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YIZJrcX2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/668/1%2AQD5Rz3nusJwuTb1wLx8PjQ.png)
+[![](img/413005e177d745bc8d758309bcd7f15c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YIZJrcX2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/668/1%2AQD5Rz3nusJwuTb1wLx8PjQ.png)
 
 键入“dir ”,你可以在下图中看到我们只有一个文件“index.php ”,我们将把它推送到 Github
 
-[![](../Images/c3aa565c70894dc7c58fc75017fa7287.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iNQQr6Nu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/675/1%2AjX30hbUV0QIc8bpIvDgIpA.png)
+[![](img/c3aa565c70894dc7c58fc75017fa7287.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iNQQr6Nu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/675/1%2AjX30hbUV0QIc8bpIvDgIpA.png)
 
 **本地 Git**
 
@@ -76,7 +76,7 @@
 
 现在继续，检查您的存储库，index.php 将在您的存储库中可见，它看起来像这样:
 
-[![](../Images/3ffa962408c8b225df7296a35707c638.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_lHx6wWf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/723/1%2AZQNPVEwOYRpbmGDg7rzrxw.png)
+[![](img/3ffa962408c8b225df7296a35707c638.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_lHx6wWf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/723/1%2AZQNPVEwOYRpbmGDg7rzrxw.png)
 
 **自述文件简介**
 
@@ -84,11 +84,11 @@
 
 因此，您可以按照上述步骤返回并创建一个文件，然后推送它，但我们也可以直接从存储库中创建文件。因此，点击“添加自述文件”,添加您的内容，如以下内容或您喜欢的任何内容:
 
-[![](../Images/c86ad6e662f9b90bd97e964e73ac3f03.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a5-C0s3Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/683/1%2AUG2CB4MIPTc5rJE1lYNrIQ.png)
+[![](img/c86ad6e662f9b90bd97e964e73ac3f03.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a5-C0s3Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/683/1%2AUG2CB4MIPTc5rJE1lYNrIQ.png)
 
 单击预览，您可以在最终确定之前看到更改:
 
-[![](../Images/3b0ff849d0eb5366e83adab8d768143b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rjOXD-Ot--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/736/1%2A_SiG_ayYz89q8XHBm2awoA.png)
+[![](img/3b0ff849d0eb5366e83adab8d768143b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rjOXD-Ot--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/736/1%2A_SiG_ayYz89q8XHBm2awoA.png)
 
 你可以在这里学到一些造型:
 
@@ -104,11 +104,11 @@
 
 看起来很好，现在继续输入您的提交消息(记住提交用于将所有类型的更改带入存储库)并单击 commit。
 
-[![](../Images/27173cf93e8b3f3d74b00764e8034db2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b2b-nCtA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/717/1%2AW-nELDyvKWz8BjJIma9Xww.png)
+[![](img/27173cf93e8b3f3d74b00764e8034db2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b2b-nCtA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/717/1%2AW-nELDyvKWz8BjJIma9Xww.png)
 
 现在，您的存储库将如下所示
 
-[![](../Images/661650d4a42c18b058ea7910b6c7b2f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zMeBy_d3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/888/1%2Au0w2Is9xK9e9dMjcZ9xyTA.png)
+[![](img/661650d4a42c18b058ea7910b6c7b2f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zMeBy_d3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/888/1%2Au0w2Is9xK9e9dMjcZ9xyTA.png)
 
 可爱！看起来好多了。
 
@@ -120,7 +120,7 @@
 
 > git 拉取来源主机
 
-[![](../Images/826c5594f1d9a29262cace0b702e0aea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mH_HTtjl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/667/1%2AcpgKvBuYeROJuOYXi9CdoQ.png)
+[![](img/826c5594f1d9a29262cace0b702e0aea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mH_HTtjl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/667/1%2AcpgKvBuYeROJuOYXi9CdoQ.png)
 
 似乎很棒。现在，远程和本地存储库是同步的。我们的文章到此结束。如果你喜欢，你可以喝杯水。
 

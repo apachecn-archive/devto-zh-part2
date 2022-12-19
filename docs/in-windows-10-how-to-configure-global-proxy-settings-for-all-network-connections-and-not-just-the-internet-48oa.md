@@ -6,7 +6,7 @@
 
 微软浏览器和 Chrome 的代理设置都指向 Windows 的*互联网选项*。Firefox 有自己的设置，允许你只为 Firefox 配置代理。
 
-[![Internet Options](../Images/9d148ec7e7b0ae4a686803e32e8a81f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bGr_8hi4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qqnz13pk35e227u2pog3.png)
+[![Internet Options](img/9d148ec7e7b0ae4a686803e32e8a81f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bGr_8hi4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qqnz13pk35e227u2pog3.png)
 
 许多应用程序(如 cmd.exe、WinSCP、putty、mIRC、Node、youtube-dl、...)忽略互联网选项中的代理配置，直接连接。
 
@@ -14,7 +14,7 @@
 
 大多数应用程序允许您配置代理，但并非所有应用程序都允许。为了避免必须为每个应用程序配置代理设置的痛苦，以及包装、沙箱化或虚拟化没有代理设置的应用程序的痛苦，我认为我们可以在操作系统级别的某个地方更改代理设置。
 
-[![Proxy Settings](../Images/eece356d7a672d393a148bb3b4fbed6c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ifF6-yRf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kkfqybqw7kauu16emdhy.png)
+[![Proxy Settings](img/eece356d7a672d393a148bb3b4fbed6c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ifF6-yRf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kkfqybqw7kauu16emdhy.png)
 
 此处的配置反映了互联网选项的配置。它们是相同的设置，只是在两个屏幕上编辑它们。
 

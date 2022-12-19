@@ -35,7 +35,7 @@ NIST 建议的唯一问题是很难实现。为了对照一系列被破解的密
 
 它被设计为一个简单的 JavaScript 库，可以放入任何网页(页面上的任何地方)，它将根据我是否被 Pwned API 服务检查您用户的密码，并通知用户他们使用的密码是否涉及违规:
 
-[![PassProtect Demo](../Images/47d29833f88eccf336c8ab659dc50af7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZptOqYML--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/shqq9xf3vgminovtawj1.gif)
+[![PassProtect Demo](img/47d29833f88eccf336c8ab659dc50af7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZptOqYML--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/shqq9xf3vgminovtawj1.gif)
 
 PassProtect 是:
 

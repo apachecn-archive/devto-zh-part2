@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/billsourour/elegant-patterns-in-modern-javascript-icefactory-3k5h>
 
-[![](../Images/7c3e3d054ffe905ffd2704e58c87d0ad.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2wVfEdt4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1461023058943-07fcbe16d735%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D89c21e12da5a1c16539ae341645fb184%26auto%3Dformat%26fit%3Dcrop%26w%3D2698%26q%3D80) 
+[![](img/7c3e3d054ffe905ffd2704e58c87d0ad.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2wVfEdt4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1461023058943-07fcbe16d735%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D89c21e12da5a1c16539ae341645fb184%26auto%3Dformat%26fit%3Dcrop%26w%3D2698%26q%3D80) 
 *照片由[黛米·德赫拉](https://unsplash.com/photos/L-sm1B4L1Ns?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)在[Unsplash](https://unsplash.com/search/photos/ice-coffee?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)T9】上拍摄*
 
 从 90 年代末开始，我就断断续续地研究 JavaScript。起初我并不喜欢它，但在推出 ES2015(又名 ES6)后，我开始欣赏 JavaScript 作为一种杰出的动态编程语言，具有巨大的表达能力。
@@ -254,7 +254,7 @@ thing.secret // undefined
 
 下面是克罗克福德用一个他称之为“构造函数”的函数演示对象创建:
 
-[![](../Images/0c8a7fe4b8d66a698e976d52169871af.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1BsUgZX8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AKHVORQsCaE5EJFCb9FsfGA.png) 
+[![](img/0c8a7fe4b8d66a698e976d52169871af.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1BsUgZX8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AKHVORQsCaE5EJFCb9FsfGA.png) 
 *【道格拉斯·克洛克福特】演示启发我的代码。*
 
 我的 Crockford 示例的 Ice Factory 版本将如下所示:
@@ -376,7 +376,7 @@ function someOtherMethod () {
 
 ### 牛逼。我被卖了！
 
-[![](../Images/eaea3f16a0c3b202eeec8438d9c0bf2b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GqO4Nwm---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2APfWy93k2QgidbBFVGySgwA.jpeg) 
+[![](img/eaea3f16a0c3b202eeec8438d9c0bf2b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GqO4Nwm---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2APfWy93k2QgidbBFVGySgwA.jpeg) 
 *谨慎*
 
 每当我们学习新的东西时，特别是像软件架构和设计这样复杂的东西，我们倾向于想要硬性的规则。我们希望听到类似于“*总是*这样做”和“*从不*那样做”这样的话

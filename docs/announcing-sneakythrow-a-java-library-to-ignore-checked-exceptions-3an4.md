@@ -12,7 +12,7 @@
 
 SneakyThrows 将异常包装到 RuntimeException 中。众所周知:我们不需要捕捉这些类型的异常。我们可以将它们作为未检查的异常。
 
-[![SneakyThrow in Action](../Images/c9ad2e768e7822091009b9b67ff13c5a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KrINsNRA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3xgx1anbrbrtyfleqsuh.gif)
+[![SneakyThrow in Action](img/c9ad2e768e7822091009b9b67ff13c5a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KrINsNRA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3xgx1anbrbrtyfleqsuh.gif)
 
 ## 怎么才能得到？
 

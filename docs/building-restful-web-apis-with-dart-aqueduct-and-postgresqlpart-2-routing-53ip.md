@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/graphicbeacon/building-restful-web-apis-with-dart-aqueduct-and-postgresqlpart-2-routing-53ip>
 
-[![Featured image for Building RESTful Web APIs with Dart, Aqueduct and PostgreSQL](../Images/cbdf930372b6e08ad5ad2b8c1296074d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PZk7TA-r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dv19znif0x9wpvdcdt13.jpg)
+[![Featured image for Building RESTful Web APIs with Dart, Aqueduct and PostgreSQL](img/cbdf930372b6e08ad5ad2b8c1296074d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PZk7TA-r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dv19znif0x9wpvdcdt13.jpg)
 
 * * *
 
@@ -128,7 +128,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 代码质量很快变得相当糟糕。这是重复的，容易把事情弄得一团糟:
 
-[![Image of spaghetti meatballs via Giphy](../Images/57c9c2ccdec84775b80d93dbf6b43187.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LWh_GNfZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e99xrgpufaerqzi0sdep.gif)
+[![Image of spaghetti meatballs via Giphy](img/57c9c2ccdec84775b80d93dbf6b43187.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LWh_GNfZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e99xrgpufaerqzi0sdep.gif)
 
 这可以用`HTTPController`清理！
 
@@ -196,7 +196,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们可以通过使用 [Postman](https://www.getpostman.com/apps) 来测试我们的响应。
 
-[![Image of Postman app](../Images/d6dfa5609ea0470a5bbc9f3aca6b26d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CNBEbQG9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/df8jwytrzh6lrr3agguz.png)
+[![Image of Postman app](img/d6dfa5609ea0470a5bbc9f3aca6b26d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CNBEbQG9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/df8jwytrzh6lrr3agguz.png)
 
 ## 嘲讽我们的数据源
 
@@ -398,7 +398,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 * * *
 
-[![graphicbeacon image](../Images/ebd69e31cdafde0c3cc551828feae27a.png)](/graphicbeacon) [## 用 Dart、Aqueduct 和 PostgreSQL 构建 RESTful Web APIs 第 3 部分:Postgres
+[![graphicbeacon image](img/ebd69e31cdafde0c3cc551828feae27a.png)](/graphicbeacon) [## 用 Dart、Aqueduct 和 PostgreSQL 构建 RESTful Web APIs 第 3 部分:Postgres
 
 ### 杰梅因奥蓬 5 月 22 日 186 分钟阅读
 

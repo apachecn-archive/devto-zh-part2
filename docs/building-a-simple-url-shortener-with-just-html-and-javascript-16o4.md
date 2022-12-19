@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bauripalash/building-a-simple-url-shortener-with-just-html-and-javascript-16o4>
 
-[![.](../Images/f83ba4cb1d659fee7fcb67f8ea9cce69.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gGXLyRES--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://palash.tk/assets/images/build_url_shortener.png)
+[![.](img/f83ba4cb1d659fee7fcb67f8ea9cce69.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gGXLyRES--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://palash.tk/asseimg/build_url_shortener.png)
 
 网址缩写，你可能在生活中用过其中的一个，比如 [bit.ly](https://bit.ly) 、 [goo.gl](https://goo.gl) 等等。它们有助于缩短长网址，这样你就可以轻松地与你的朋友、家人或同事分享。
 
@@ -46,7 +46,7 @@
 
 **步骤 0:** 正如我首先提到的，我们将使用 **jsonstore.io** 来存储关于我们的长 url 的信息，我们将需要一个**JSON store . io**T6】endpointURL 来存储数据，请访问 [jsonstore.io](https://jsonstore.io) ，您将看到如下内容
 
-[![Jsonstore Screenshot](../Images/d7740278af68664d2e3d86432ee70408.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fU7nICzi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://palash.tk/assets/images/jsonstore_sshot.png)
+[![Jsonstore Screenshot](img/d7740278af68664d2e3d86432ee70408.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fU7nICzi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://palash.tk/asseimg/jsonstore_sshot.png)
 
 在文本*这是你的终点*下，你可以看到一个带有长 url 的文本框，比如，
 
@@ -219,7 +219,7 @@ https://www.jsonstore.io/8ba4fd855086288421f770482e372ccb5a05d906269a34da5884f39
 
 我们的网址缩短器就要完成了！在输入框中复制粘贴一个长 url，然后点击**短 URL** 按钮！从地址栏复制链接，这是你的短网址！
 
-[![Cheer Up Guys!](../Images/703733eef1ee95fd7863812818514052.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6LrFiev---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/00efa8c07f5a8b537b045544b6782e70/tenor.gif%3Fitemid%3D4180838)
+[![Cheer Up Guys!](img/703733eef1ee95fd7863812818514052.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6LrFiev---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.cimg/00efa8c07f5a8b537b045544b6782e70/tenor.gif%3Fitemid%3D4180838)
 
 ## 一些有用的窍门
 

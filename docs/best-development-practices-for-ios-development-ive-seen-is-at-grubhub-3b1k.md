@@ -4,7 +4,7 @@
 
 ### 我见过的 iOS 开发的最佳开发实践是在 GrubHub
 
-[![](../Images/502ebadd23f98891f325d773df66b7dd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vmpDOfrY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AJrHDbEdqGsVfnBYtxOitcw.jpeg) 
+[![](img/502ebadd23f98891f325d773df66b7dd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vmpDOfrY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AJrHDbEdqGsVfnBYtxOitcw.jpeg) 
 
 <figcaption>照片由 [rawpixel](https://unsplash.com/photos/a2VqhP3d4Vg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 上 [Unsplash](https://unsplash.com/search/photos/development?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 

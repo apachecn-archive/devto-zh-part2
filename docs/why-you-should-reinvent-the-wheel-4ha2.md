@@ -22,7 +22,7 @@
 
 “不要多此一举”这个比喻大错特错！严格地说，轮子已经被重新发明了无数次。在第一次尝试中，我们没有在高科技汽车中使用完整的橡胶轮。事物的发展是因为人们“重新发明轮子”，它应该继续这样。
 
-[![Reinventing the wheel](../Images/ac2dbcad9e683b8276739b635c9d36c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X_6jMzJ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dhedtiyp62p692m59ojy.jpg)
+[![Reinventing the wheel](img/ac2dbcad9e683b8276739b635c9d36c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X_6jMzJ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dhedtiyp62p692m59ojy.jpg)
 
 总之，只是提升自己，不要想着做出一个全新的想法。找到还没有被创造出来的东西并不容易，所以如果你的唯一目标是发现和探索新事物，就不要想太多。
 

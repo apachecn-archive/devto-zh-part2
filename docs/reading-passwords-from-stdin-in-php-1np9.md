@@ -10,7 +10,7 @@
 
 我首先想到的是将密码存储在一个环境变量中。我真的不想这么做，我更喜欢让脚本的用户在每次需要的时候输入密码。
 
-[![](../Images/66badea3a8405ef504844d29ca14456e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qjqpxjtZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://cdn.osxdaily.com/wp-content/uploads/2015/02/typing-password-into-terminal.jpg)
+[![](img/66badea3a8405ef504844d29ca14456e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qjqpxjtZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://cdn.osxdaily.com/wp-content/uploads/2015/02/typing-password-into-terminal.jpg)
 
 <center><small><u>[Secure Password Prompt](http://osxdaily.com/2015/02/04/terminal-wont-show-password-when-typed)</u><small></small></small></center>
 

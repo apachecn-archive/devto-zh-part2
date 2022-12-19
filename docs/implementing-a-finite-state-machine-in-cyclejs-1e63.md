@@ -55,7 +55,7 @@
 
 我们将从代表我们在上一篇文章中作为 FSM 实现的[“旅行个性测试”程序](https://github.com/mjyc/cycle-robot-drivers/tree/master/examples/tutorials/01_personality_quiz/index.js)开始:
 
-[![travel_personality_quiz_fsm](../Images/aed7879a1859154790ff3a39b63a2673.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NFhyYVRH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/et73xk1bvd20kbyrt69c.png)
+[![travel_personality_quiz_fsm](img/aed7879a1859154790ff3a39b63a2673.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NFhyYVRH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/et73xk1bvd20kbyrt69c.png)
 
 这里我们有三种状态，`PEND`、`SAY`、`LISTEN`和五种输入类型，`START`、`SAY_DONE`、`VALID_RESPONSE`、`INVALID_RESPONSE`和`DETECTED_FACE`。为了直观清楚，我们省略了与每个状态相关的变量和与每个转换相关的输出。
 
@@ -65,7 +65,7 @@
 
 现在，让我们更新 FSM 来表达上面提到的第一个附加行为:只有当机器人在等待人的响应时，才看着一个人。
 
-[![travel_personality_quiz_fsm_updated](../Images/8cc1663d339a283a69537a105bbf18b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LpbigTCZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7z09n6fz5z1s8zjlb9ii.png)
+[![travel_personality_quiz_fsm_updated](img/8cc1663d339a283a69537a105bbf18b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LpbigTCZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7z09n6fz5z1s8zjlb9ii.png)
 
 我们在这里所做的就是从`PEND`和`SAY`状态移除两个自循环转换，以阻止机器人在 FSM 处于这些状态时看着一个人。
 
@@ -502,7 +502,7 @@ FSM 模式的真正优势在于它的可维护性。FSM 模式的关键是将`ma
 
 例如，如果我们要实现[节中提到的其他行为，使“旅行个性测验”程序更加复杂](https://dev.tomaking-travel-personality-quiz-program-more-complex)部分，我们需要首先更新 FSM 以反映新的期望行为，例如:
 
-[![travel_personality_quiz_fsm_final](../Images/a6ed917a7fdfc3aa6cb8cf5903266ff2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9VOP0I6Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/st5hzvob4hq22pbrsb78.png)
+[![travel_personality_quiz_fsm_final](img/a6ed917a7fdfc3aa6cb8cf5903266ff2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9VOP0I6Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/st5hzvob4hq22pbrsb78.png)
 
 并相应地更新`input`和`transition`函数。检查一下[的完整代码](https://stackblitz.com/edit/cycle-robot-drivers-tutorials-02-fsm)，看看我是如何更新`input`和`transition`函数来实现剩余的额外行为的。
 

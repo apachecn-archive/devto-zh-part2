@@ -31,7 +31,7 @@
 4.  用户/密码保护。
 5.  一个最终用我得到的 RPi 做些事情的理由。
 
-[![Samba share scheme](../Images/1a0f9477ebbaf71840d97caac8e6a030.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WjsysnSB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kxofvivme0llfdl6x154.png)
+[![Samba share scheme](img/1a0f9477ebbaf71840d97caac8e6a030.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WjsysnSB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kxofvivme0llfdl6x154.png)
 
 最初，我想在 RPi 设备上安装一个专用的云或存储解决方案，但是，我发现配置一个 Samba 服务器更加简单和直观。
 
@@ -222,13 +222,13 @@ sudo mount -a
 *   键入 RPi 设备的服务器名称或 IP 地址。
 *   键入`storeuser`用户名和密码。
 
-[![ES File Explorer](../Images/4379ca8a73a0934f211280370f5601b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aapH-BRz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f1abbbbux0zncxhbyi2d.png)
+[![ES File Explorer](img/4379ca8a73a0934f211280370f5601b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aapH-BRz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f1abbbbux0zncxhbyi2d.png)
 
 现在，您应该能够以读/写权限访问 Samba 共享了。
 
 设置文件管理器也很容易。只需从菜单中使用`Network place`选择您的共享并输入凭证。
 
-[![File Manager](../Images/5e4b42f8d5ada5b8d279938fb2d424dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yGcAdd29--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ouip5s8b60qpsh74u8gk.png)
+[![File Manager](img/5e4b42f8d5ada5b8d279938fb2d424dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yGcAdd29--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ouip5s8b60qpsh74u8gk.png)
 
 ## iOS 客户端
 
@@ -238,7 +238,7 @@ sudo mount -a
 
 键入`storeuser`用户名和密码。
 
-[![File Explorer Free](../Images/d211b64fa8fa2bf18269db849e3b8c96.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FswXAWEC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1new2cle3m70y05t36ur.jpg)
+[![File Explorer Free](img/d211b64fa8fa2bf18269db849e3b8c96.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FswXAWEC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1new2cle3m70y05t36ur.jpg)
 
 现在，您应该能够以读/写权限访问 Samba 共享了。
 

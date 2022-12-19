@@ -24,7 +24,7 @@ Kim 分享了一些你应该问面试官的基本问题，以及为什么要问�
 
 基于与其他语言相比的使用统计数据，Mike 解释说 PHP 仍然很好并且很活跃。他还给出了为什么这么多人声称 php 无关紧要的原因，尽管事实并非如此。
 
-[![mporam image](../Images/1b34d3984ab9bfe5a60f140f9af5f8fd.png)](/mporam) [## PHP 相关吗？
+[![mporam image](img/1b34d3984ab9bfe5a60f140f9af5f8fd.png)](/mporam) [## PHP 相关吗？
 
 ### Mike Oram 2 月 8 日 183 分钟阅读
 
@@ -34,7 +34,7 @@ Kim 分享了一些你应该问面试官的基本问题，以及为什么要问�
 
 成为一名优秀的程序员不仅仅是写代码。Aman 与我们分享了一些重要的实践。
 
-[![amangautam image](../Images/05da6d54accb2ca3bc6b5370b345ad1a.png)](/amangautam) [## 让你成为更好的程序员的软技能
+[![amangautam image](img/05da6d54accb2ca3bc6b5370b345ad1a.png)](/amangautam) [## 让你成为更好的程序员的软技能
 
 ### 阿曼高塔姆 2 月 8 日 183 分钟阅读
 
@@ -44,7 +44,7 @@ Kim 分享了一些你应该问面试官的基本问题，以及为什么要问�
 
 如何以一种超级酷的方式安全地访问 JavaScript 中的嵌套对象，这样你就不会再遇到那个错误了。
 
-[![flexdinesh image](../Images/ecb6dc2da1bf85c037ac132f5ed867ea.png)](/flexdinesh) [## 在 JavaScript 中访问嵌套对象
+[![flexdinesh image](img/ecb6dc2da1bf85c037ac132f5ed867ea.png)](/flexdinesh) [## 在 JavaScript 中访问嵌套对象
 
 ### dinesh pandi Yan Feb 10 ' 183min read
 
@@ -54,7 +54,7 @@ Kim 分享了一些你应该问面试官的基本问题，以及为什么要问�
 
 我们如何确定我们是筋疲力尽了还是只是累了？刘易斯提供了一些如何识别倦怠的提示，以及如何恢复的想法。
 
-[![lewismenelaws image](../Images/654b262827a320f8aa641fd7160ae9e7.png)](/lewismenelaws) [## 作为一名开发人员，如何修复倦怠
+[![lewismenelaws image](img/654b262827a320f8aa641fd7160ae9e7.png)](/lewismenelaws) [## 作为一名开发人员，如何修复倦怠
 
 ### 刘易斯·梅内利奥斯
 

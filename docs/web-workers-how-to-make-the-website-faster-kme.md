@@ -10,7 +10,7 @@
 
 因此，为了促进 web 环境中并行进程的工作，我们推出了名为 Dark Wasp 的新库。简而言之，这种想法是将 web 应用程序代码的最大部分保存在存储中，并在单独的线程中按需加载，而无需一次性加载整个代码库。相同的功能可以用在前端和后端(web 浏览器或 Node.js)。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [团队](https://github.com/teamdomy) / [黄蜂](https://github.com/teamdomy/wasp)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [团队](https://github.com/teamdomy) / [黄蜂](https://github.com/teamdomy/wasp)
 
 ### Web Workers 超集
 

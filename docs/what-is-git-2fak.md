@@ -8,7 +8,7 @@ Git 是一个版本控制系统。让我们打破行话，弄清楚这对我们 
 
 ## 什么是“版本控制？”
 
-[![Safes aboard the Nixon-era Air Force One](../Images/43956cdf256a7b475635961f09d19b29.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8vFf9AYQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/10/safes.jpg)
+[![Safes aboard the Nixon-era Air Force One](img/43956cdf256a7b475635961f09d19b29.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8vFf9AYQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/10/safes.jpg)
 
 对于任何好奇的人来说，上图是尼克松时代的空军一号上的内置保险箱。
 

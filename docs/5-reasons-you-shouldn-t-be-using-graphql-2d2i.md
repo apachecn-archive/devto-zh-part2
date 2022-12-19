@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/5-reasons-you-shouldn-t-be-using-graphql-2d2i>
 
-[![](../Images/039db5c5b80dfa601efa95618367e5b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cP3rCnWX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ArmWsDg6J6PtLVOhXb3zr7w.png)
+[![](img/039db5c5b80dfa601efa95618367e5b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cP3rCnWX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ArmWsDg6J6PtLVOhXb3zr7w.png)
 
 GraphQL 很棒，它允许您以声明的方式工作，只选择您需要的信息或操作。
 
@@ -18,7 +18,7 @@ GraphQL 很棒，它允许您以声明的方式工作，只选择您需要的信
 
 当然，这些情况可能并不总是适用于您的项目，但重要的是您意识到它们并考虑其含义。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### REST 可以做很多 GraphQL 能做的事情
 
@@ -186,7 +186,7 @@ GraphQL 是一个强大的工具，有很多理由选择 GraphQL 而不是 REST�
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

@@ -18,7 +18,7 @@
 
 在本教程中，您是一个农场的主人，该农场销售五种产品:鸡肉、猪肉、鸡蛋、西红柿和玉米。
 
-[![](../Images/4e9fdf5f1b95bb50a7dbad6c08419625.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rSAu_MO8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AJS5g1_gRC72cQhQA.)
+[![](img/4e9fdf5f1b95bb50a7dbad6c08419625.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rSAu_MO8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AJS5g1_gRC72cQhQA.)
 
 为了理解本教程，你只需要理解服务器端代码(后端)和客户端代码(前端)的区别。如果你还不熟悉服务器和客户端，你可以阅读我的[指南的开头来获取/发布](https://blog.codeanalogies.com/2018/01/15/ajax-basics-explained-by-working-at-a-fast-food-restaurant/)。
 
@@ -30,13 +30,13 @@ GUI 允许网站访问者以受控和结构化的方式与服务器上的代码�
 
 作为一个农场主人，这有点像你在自己的土地上设立的农场摊位或你在农贸市场的摊位。
 
-[![](../Images/4dd0918c03760baf50e3ef29a4e5a3a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8EkWSsSz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AuI8OpnP5gTeq9XLB.)
+[![](img/4dd0918c03760baf50e3ef29a4e5a3a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8EkWSsSz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AuI8OpnP5gTeq9XLB.)
 
 你不能只是把你的货物堆在谷仓里，让游客进来，然后指望赚钱。相反，你需要设立一个摊位，这样参观者可以很快了解你的可用商品和价格。
 
 这是客户与你的努力工作“互动”的方式。他们不需要了解种植过程，或者你使用的设备，或者加工过程。他们只看到最终产品。
 
-[![](../Images/5729e3a571e3cd30f85d485e2074b0b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vuUSDMMX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2A1CKu4-YZRsxGAB09.)
+[![](img/5729e3a571e3cd30f85d485e2074b0b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vuUSDMMX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2A1CKu4-YZRsxGAB09.)
 
 请注意每位顾客是如何体验一对一互动的。当他们到达你的摊位时，他们只是在看你农场的产品。
 
@@ -48,7 +48,7 @@ GUI 允许网站访问者以受控和结构化的方式与服务器上的代码�
 
 但是，从你作为农场主的角度来看，你有一个完全不同的销售流程和供应链。现在，你不需要为消费者精心安排一个展位。相反，你可能需要在你的谷仓里增加一个货运间，这样经销商和餐馆就可以把他们的卡车开过来装货。为了更大的销售，你也需要包装你的货物。
 
-[![](../Images/fc4c97aed647b41354e785ef7ce582eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JdANATi5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2A9KQ-8Us5U8PvR90e.)
+[![](img/fc4c97aed647b41354e785ef7ce582eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JdANATi5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2A9KQ-8Us5U8PvR90e.)
 
 这类似于 API 的概念。当您构建一个 API 时，您可以让其他开发人员访问您的数据并在他们的应用程序中使用它。
 
@@ -78,7 +78,7 @@ API 开发人员建立了**端点**，允许其他开发人员从他们的数据
 
 您可以为农场的每种产品设置特定的端点，包括鸡肉、猪肉、鸡蛋、西红柿和玉米。有些可能只能通过农贸市场(GUI)获得，因为您不确定是否准备好扩大生产以满足经销商的需求。
 
-[![](../Images/585193e803e029030ee7b3435d270d87.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QQVxhTzb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AgtKR8rDGBgGewhIr.)
+[![](img/585193e803e029030ee7b3435d270d87.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QQVxhTzb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AgtKR8rDGBgGewhIr.)
 
 这是 API 和开源数据库之间的一个区别。在开源数据库中，一切都可以被查询和访问。当您为后端设置 API 时，您创建的端点只显示特定的数据。
 
@@ -88,7 +88,7 @@ API 开发人员建立了**端点**，允许其他开发人员从他们的数据
 
 假设您决定在您的农场为鸡蛋设置一个**端点**。当地一家餐馆想购买 1000 个鸡蛋，以满足其每周收到的 1000 份煎蛋卷订单。
 
-[![](../Images/d81c19d20734a88053def8b39640246d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2778jzGO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2Ac2DAEyegIUTrwM_W.)
+[![](img/d81c19d20734a88053def8b39640246d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2778jzGO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2Ac2DAEyegIUTrwM_W.)
 
 注意我们的 **API 调用**实际上是如何从用户请求开始的？根据描述，这可能有点违背直觉。
 
@@ -100,11 +100,11 @@ API 开发人员建立了**端点**，允许其他开发人员从他们的数据
 
 请记住，可能有 100 家其他餐馆与您的农场建立了关系，其中 10 家可能会同时发送**请求**！这就是可伸缩性发挥作用的地方。您需要决定您的服务器是否准备好处理这种需求。但这是另一个教程的主题！
 
-[![](../Images/fd5c529f6284ee9c6030f4d4ec00c874.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q0AqkbDs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2A4QZDXA5t95N7vboE.)
+[![](img/fd5c529f6284ee9c6030f4d4ec00c874.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q0AqkbDs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2A4QZDXA5t95N7vboE.)
 
 如果你有一个可以在谷歌地图等其他网站上使用的地图应用程序，这是上述序列的技术版本。
 
-[![](../Images/bdd846ae85137e66ae51d613e933fb52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PRBtWlqs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2ASkAzRcrC2zXcNLy9.)
+[![](img/bdd846ae85137e66ae51d613e933fb52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PRBtWlqs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2ASkAzRcrC2zXcNLy9.)
 
 1.  另一个站点上的某个用户使用了您的地图应用程序，并采取了需要来自您的服务器的数据的操作。
 2.  另一个站点上的开发人员已经编写了代码，该代码将根据用户的动作创建一个对您的 API 的**请求**
@@ -112,7 +112,7 @@ API 开发人员建立了**端点**，允许其他开发人员从他们的数据
 
 当然，可能有 1000 个其他 web 应用程序正在使用您的地图小部件，因此您需要为所有这些 API 调用做好准备！
 
-[![](../Images/5a1ebdb715cba62715881aa7a196c592.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gvWB16D7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2A0wWqB2oCcd7-WNuO.)
+[![](img/5a1ebdb715cba62715881aa7a196c592.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gvWB16D7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2A0wWqB2oCcd7-WNuO.)
 
 ### GET 和 POST 的例子
 
@@ -130,11 +130,11 @@ API 开发人员建立了**端点**，允许其他开发人员从他们的数据
 
 就像餐馆必须建立自己的流程以确保他们在正确的时间收集鸡蛋一样，他们也必须有一个按时付款的流程。这可能涉及到他们的会计师。假设会计知道他们必须在每月的第一天付给你钱。
 
-[![](../Images/84d7c33eaa3168d399eb29caf34f22f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kzLjElYi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2A2OLXd7qM5P3DMsaI.)
+[![](img/84d7c33eaa3168d399eb29caf34f22f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kzLjElYi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2A2OLXd7qM5P3DMsaI.)
 
 现在，用户/客户如何触发 POST 请求？想象一下，每当有人点了来自你农场的食物，餐馆会立即给你付款。如果一个人点了一份 5 美元的煎蛋卷，其中 2 美元来自你农场的鸡蛋，餐馆会立即把这 2 美元打到你的银行账户上。如果这是一个 web 应用程序，这种级别的通信可能行得通，但因为这是一个农业示例，所以有点不切实际。
 
-[![](../Images/74ce755d815a2e13b27b4a3493506fc6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vA--Ns-N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2A6KCimIOx44uBhIYm.)
+[![](img/74ce755d815a2e13b27b4a3493506fc6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vA--Ns-N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2A6KCimIOx44uBhIYm.)
 
 ### 农场和网络应用的区别
 
@@ -144,7 +144,7 @@ API 开发人员建立了**端点**，允许其他开发人员从他们的数据
 
 让我们看看本教程前面的 GET 请求示例。
 
-[![](../Images/7e49c247d2b6212188c0f07e6fc51b38.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KYq9RXgz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2ALn76YuGduAcDlTqg.)
+[![](img/7e49c247d2b6212188c0f07e6fc51b38.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KYq9RXgz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2ALn76YuGduAcDlTqg.)
 
 这在 web 开发术语中意味着什么。
 

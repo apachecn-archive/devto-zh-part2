@@ -22,7 +22,7 @@ React 旨在使创建交互式用户界面变得轻松。它的状态管理是�
 *   **神器:**T0】
 *   **所属** : `JPA`，`H2`，`Web`，`Lombok`
 
-[![Spring Initializr](../Images/3313241a3848e50c2d5a098969a79d66.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s5ck43RF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/spring-boot-2-react/spring-initializr-80a20f3f8df2b210ff974b7a22369ced888ccc703bc390ae287f637614bb8583.png)
+[![Spring Initializr](img/3313241a3848e50c2d5a098969a79d66.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s5ck43RF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/spring-boot-2-react/spring-initializr-80a20f3f8df2b210ff974b7a22369ced888ccc703bc390ae287f637614bb8583.png)
 
 [https://developer . okta . com/assets/blog/spring-boot-2-react/spring-initializ r-80 a 20 F3 F8 df2 b 210 ff 974 b7a 22369 ced 888 CCC 703 BC 390 AE 287 f 637614 bb 8583 . png](https://developer.okta.com/assets/blog/spring-boot-2-react/spring-initializr-80a20f3f8df2b210ff974b7a22369ced888ccc703bc390ae287f637614bb8583.png)
 
@@ -391,7 +391,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 确保 Spring Boot 正在运行，然后在您的`app`目录中运行`yarn start`。您应该会看到默认组的列表。
 
-[![JUG List](../Images/e44d33ea670874a50ee7f64d6ff821b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HdhWEUpM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/spring-boot-2-react/jug-list-bd649c959a684eb0bbc5301614b2335da8c85a7d7a7fcddfa7bf4df6b920e32a.png)
+[![JUG List](img/e44d33ea670874a50ee7f64d6ff821b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HdhWEUpM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/spring-boot-2-react/jug-list-bd649c959a684eb0bbc5301614b2335da8c85a7d7a7fcddfa7bf4df6b920e32a.png)
 
 ## 构建一个 React GroupList 组件
 
@@ -600,11 +600,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 您的 React 应用程序应该在您进行更改时自动更新，您应该会在`http://localhost:3000`看到如下屏幕。
 
-[![Home screen with Manage JUG Tour link](../Images/7efe5f7311d0adbab627b548288bfae6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8jvpwKnZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/spring-boot-2-react/home-with-link-49bb04e0813ed34be986fa0ce6e3dc78943a16eb1b02a4531ce38874ddeb9640.png)
+[![Home screen with Manage JUG Tour link](img/7efe5f7311d0adbab627b548288bfae6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8jvpwKnZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/spring-boot-2-react/home-with-link-49bb04e0813ed34be986fa0ce6e3dc78943a16eb1b02a4531ce38874ddeb9640.png)
 
 点击 **Manage JUG Tour** ，您应该会看到一个默认群组列表。
 
-[![Group List screen](../Images/67b322bb567432700d66f8341b770e97.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cbs7yYU8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/spring-boot-2-react/group-list-70bf3821eb163bb0ec6c7b8938f6e150d3bb99a7cebc0974b2891ee15656e442.png)
+[![Group List screen](img/67b322bb567432700d66f8341b770e97.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cbs7yYU8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/spring-boot-2-react/group-list-70bf3821eb163bb0ec6c7b8938f6e150d3bb99a7cebc0974b2891ee15656e442.png)
 
 你可以在你的 React 应用程序中看到你的 Spring Boot API 的数据，这很好，但是如果你不能编辑它，那就不好玩了！
 
@@ -750,9 +750,9 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，您应该能够添加和编辑组了！
 
-[![Add Group screen](../Images/533fd014058b729e4b24c47738db3fbd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3oFnrm9E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/spring-boot-2-react/add-group-60031f7786d4749bc17f790419b23df9d0d496636bbbfef8655622ffd1df1fda.png)
+[![Add Group screen](img/533fd014058b729e4b24c47738db3fbd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3oFnrm9E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/spring-boot-2-react/add-group-60031f7786d4749bc17f790419b23df9d0d496636bbbfef8655622ffd1df1fda.png)
 
-[![Edit Group screen](../Images/446202d3ab74a86d6de28333c39b17ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gBfplBsh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/spring-boot-2-react/edit-group-9532d22006671154c04028260a8cbd7e6cbcc9f8540e9875c87a0e75f8597c16.png)
+[![Edit Group screen](img/446202d3ab74a86d6de28333c39b17ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gBfplBsh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/spring-boot-2-react/edit-group-9532d22006671154c04028260a8cbd7e6cbcc9f8540e9875c87a0e75f8597c16.png)
 
 ## 用 Okta 添加认证
 
@@ -1457,9 +1457,9 @@ Enter fullscreen mode Exit fullscreen mode
 
 经过所有这些变化，你应该能够重新启动 Spring Boot 和反应，并见证规划自己的 JUG 之旅的荣耀！
 
-[![React Login](../Images/ea8f4ca11c5ab94b154d6fbdd02cb348.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--seEX9ZeK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/spring-boot-2-react/localhost-8080-a84b73c19fb17df9a6c8632cd229cb196b3cb8d0815e5e129952a322bac7b3b7.png)
+[![React Login](img/ea8f4ca11c5ab94b154d6fbdd02cb348.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--seEX9ZeK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/spring-boot-2-react/localhost-8080-a84b73c19fb17df9a6c8632cd229cb196b3cb8d0815e5e129952a322bac7b3b7.png)
 
-[![My JUG Tour](../Images/29e5ae1cc86c560d4ed345d3d1da8057.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8z4U8sqE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/spring-boot-2-react/my-jug-tour-f8f3199af776a10cc3798934cfe942ea4dd9e0f3910a76e32700380f9ef07922.png)
+[![My JUG Tour](img/29e5ae1cc86c560d4ed345d3d1da8057.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8z4U8sqE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/spring-boot-2-react/my-jug-tour-f8f3199af776a10cc3798934cfe942ea4dd9e0f3910a76e32700380f9ef07922.png)
 
 ## 配置 Maven 构建并打包与 Spring Boot 反应
 
@@ -1578,7 +1578,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 添加之后，你应该可以运行`./mvnw spring-boot:run -Pprod`了，你的应用可以看到你的应用在`http://localhost:8080`上运行。
 
-[![App Running with Maven](../Images/f0ca75113f35f101f83e2c130f7143c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PXiB2VIa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/spring-boot-2-react/localhost-8080-bd4c6e484ba4206e9b8e7a56793cc16cfccf5fb61f08833dbd1d97098d8c6cba.png)
+[![App Running with Maven](img/f0ca75113f35f101f83e2c130f7143c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PXiB2VIa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/spring-boot-2-react/localhost-8080-bd4c6e484ba4206e9b8e7a56793cc16cfccf5fb61f08833dbd1d97098d8c6cba.png)
 
 **注意:**如果您无法登录，您可以尝试在匿名窗口中打开您的应用程序。
 

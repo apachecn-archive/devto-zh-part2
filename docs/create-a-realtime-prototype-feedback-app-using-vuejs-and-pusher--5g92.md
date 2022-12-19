@@ -8,7 +8,7 @@
 
 下面是一个屏幕记录，记录了我们完成构建后，我们的应用程序将能够做些什么:
 
-[![](../Images/5c9ac247c34f5552167b20cef990baac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6-S6FGVY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/11/Create-a-realtime-design-feedback-app-using-VueJS-Pusher-and-Laravel.gif)
+[![](img/5c9ac247c34f5552167b20cef990baac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6-S6FGVY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/11/Create-a-realtime-design-feedback-app-using-VueJS-Pusher-and-Laravel.gif)
 
 ## 需求我们将需要构建我们的应用程序
 
@@ -895,7 +895,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/852e4f63b9ad880406ce30554ec67516.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ijifs3h3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/11/Create-a-realtime-design-feedback-app-using-VueJS-Pusher-and-Laravel-2-789x600.png)
+[![](img/852e4f63b9ad880406ce30554ec67516.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ijifs3h3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/11/Create-a-realtime-design-feedback-app-using-VueJS-Pusher-and-Laravel-2-789x600.png)
 
 这将启动一个新的 PHP 服务器，然后您可以使用它来测试您的应用程序。转到给定的 URL，您应该会看到您的应用程序。
 

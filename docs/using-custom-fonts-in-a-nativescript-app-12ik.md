@@ -4,13 +4,13 @@
 
 经验丰富的网络和移动开发人员知道，给应用程序添加一些活力的简单方法是切换到自定义字体。见鬼，我已经活得够久了，还记得 90 年代末的 Verdana 文艺复兴！
 
-[![90s banner](../Images/c7485154871fc8628a2bcc57010d464d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OwvN9H_X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/fonts/90s.png)
+[![90s banner](img/c7485154871fc8628a2bcc57010d464d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OwvN9H_X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/fonts/90s.png)
 
 虽然 90 年代的波浪和蜡笔已经离我们远去(RIP！⚰️)，创造吸引人的用户界面的愿望没有改变。**所以让我们用 [NativeScript](https://www.nativescript.org/) 来实现这一点。**
 
 关于*如何*使用自定义字体的问题大部分在[本地脚本文档](https://docs.nativescript.org/ui/styling#using-fonts)中处理。然而，有一些额外的提示，你可能需要帮助你顺利的漫画无荣耀之旅。
 
-[![comic sans hate](../Images/b30a66787717bafc4c24771843fbaa8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uoXL4b-1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/fonts/comic-sans.png)
+[![comic sans hate](img/b30a66787717bafc4c24771843fbaa8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uoXL4b-1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/fonts/comic-sans.png)
 
 ## 查找字体
 
@@ -35,15 +35,15 @@ iOS 和 Android 都预装了一套字体。问题是 iOS/Android 字体的维恩
 
 *让我们从下图开始:*
 
-[![original image](../Images/be3720a7c124a0d429b8fc6174c8804e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7SWlLl51--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/fonts/original.png)
+[![original image](img/be3720a7c124a0d429b8fc6174c8804e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7SWlLl51--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/fonts/original.png)
 
 我喜欢这种独特的字体。所以我转向了字体匹配器。
 
-[![font matcherator](../Images/ab91037ad8e77d43275058fca7023f34.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3M8alH70--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/fonts/matcherator.png)
+[![font matcherator](img/ab91037ad8e77d43275058fca7023f34.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3M8alH70--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/fonts/matcherator.png)
 
 ...其中吐出了各种各样的建议(有免费的也有付费的):
 
-[![font matcherator results](../Images/d13f3d4671b41245fcccb95fe76ab04a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PtgbMuLU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/fonts/matcherator-results.png)
+[![font matcherator results](img/d13f3d4671b41245fcccb95fe76ab04a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PtgbMuLU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/fonts/matcherator-results.png)
 
 在这种情况下，我便宜地选择了 [Varela 字体](https://fonts.google.com/specimen/Varela)，因为它对我来说足够接近原始字体。
 
@@ -55,7 +55,7 @@ iOS 和 Android 都预装了一套字体。问题是 iOS/Android 字体的维恩
 
 好了，你已经找到了你想要的字体，你已经下载了，解压了。有时(例如 Roboto)你会得到这样的结果:
 
-[![roboto font files](../Images/7e2231b41bcf88ef383bee7c995e60e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VQJbkGO4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/fonts/roboto.png)
+[![roboto font files](img/7e2231b41bcf88ef383bee7c995e60e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VQJbkGO4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/fonts/roboto.png)
 
 但是我只是想要机器人！
 
@@ -87,7 +87,7 @@ iOS 和 Android 都预装了一套字体。问题是 iOS/Android 字体的维恩
 
 **iOS 要求`font-family`是字体的*确切名称*。**我能做到这一点的唯一可靠方法是在 macOS 上使用**字体簿**应用程序，或者在 Windows 中双击字体:
 
-[![identify font name in Windows](../Images/99c3859fe00a38832ea87158645990d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hYGIZqME--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/fonts/font-windows.png)
+[![identify font name in Windows](img/99c3859fe00a38832ea87158645990d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hYGIZqME--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/fonts/font-windows.png)
 
 您会注意到字体名称清楚地显示为 Varela。轻松点。
 
@@ -124,7 +124,7 @@ font-weight: bold;
 
 **搞定！**🎉
 
-[![final font output](../Images/dae0d4adc4aaf19e3f301522235c3e04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fwW7acAc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/fonts/final.png)
+[![final font output](img/dae0d4adc4aaf19e3f301522235c3e04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fwW7acAc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/fonts/final.png)
 
 > **提示:**你可以[在 NativeScript 游乐场试用这个应用](https://play.nativescript.org/?template=play-tsc&id=Y4fVGt&v=16)！
 
@@ -139,7 +139,7 @@ font-weight: bold;
 
 在字体 Awesome 的情况下，我们可以从[主列表](https://fontawesome.com/icons)中查找一个图标，并获取 unicode 值:
 
-[![font awesome unicode](../Images/68620e7e4f2ca060f6fc7078072a0dce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JfwmWr_O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/fonts/font-awesome.png)
+[![font awesome unicode](img/68620e7e4f2ca060f6fc7078072a0dce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JfwmWr_O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/fonts/font-awesome.png)
 
 复制该值，并将其粘贴到 NativeScript UI 元素的`text`属性中，带有关联的 CSS 类名，如下所示:
 
@@ -153,7 +153,7 @@ font-weight: bold;
 
 ...这将按照要求呈现一个漂亮的小图标:
 
-[![font awesome sun icon](../Images/cb35cb067680c5f59fe8aeccfed6e259.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e6mb5TuW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/fonts/font-awesome-sun.png)
+[![font awesome sun icon](img/cb35cb067680c5f59fe8aeccfed6e259.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e6mb5TuW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rdlauer/articles/master/nativescript/fonts/font-awesome-sun.png)
 
 ## 包扎
 

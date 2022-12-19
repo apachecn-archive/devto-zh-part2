@@ -4,11 +4,11 @@
 
 上周，JavaScript 框架世界发生了一件相当重大的事情:Vue.js 在 Github 上的“明星”人数超过了 React.js。
 
-> ![unknown tweet media content](../Images/e5925155621d091ed1d99ce3f58624f0.png)![Dan Abramov profile image](../Images/8410abe414a98a3109390b1a1f7377ee.png)丹阿布拉莫夫[@丹 _ 阿布拉莫夫](https://dev.to/dan_abramov)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)恭喜 [@vuejs](https://twitter.com/vuejs) 在 GitHub 上超越 React 的星数！似乎我无意中捕捉到了一个历史性的瞬间。2018 年 6 月 15 日上午 01:46[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1007439168400654336)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1007439168400654336)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1007439168400654336)
+> ![unknown tweet media content](img/e5925155621d091ed1d99ce3f58624f0.png)![Dan Abramov profile image](img/8410abe414a98a3109390b1a1f7377ee.png)丹阿布拉莫夫[@丹 _ 阿布拉莫夫](https://dev.to/dan_abramov)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)恭喜 [@vuejs](https://twitter.com/vuejs) 在 GitHub 上超越 React 的星数！似乎我无意中捕捉到了一个历史性的瞬间。2018 年 6 月 15 日上午 01:46[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1007439168400654336)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1007439168400654336)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1007439168400654336)
 
 使用一个名为 [Star History](http://www.timqian.com/star-history/) 的工具，我们可以看到这个指标特别讲述了 React 的历史优势被暴涨的 Vue 超越的故事。
 
-[![](../Images/180e44f2ae8d65c3b56a1bf7ed1d8a94.png)T2】](http://www.timqian.com/star-history/#facebook/react&vuejs/vue)
+[![](img/180e44f2ae8d65c3b56a1bf7ed1d8a94.png)T2】](http://www.timqian.com/star-history/#facebook/react&vuejs/vue)
 
 当框架的受欢迎程度提高时，经常会出现这种情况，这引发了关于哪个框架“真正”更受欢迎、哪个框架更强大等等的大量辩论。
 
@@ -16,7 +16,7 @@
 
 不要误解我，我喜欢 Vue——我最近使用它的次数远远超过 React 但 github stars 更多的是衡量一个项目的“时髦度”，而不是它的实际使用情况。一个明显的例子将流行的 Apache 服务器与一个相对无聊的 JavaScript 项目进行了比较:
 
-> ![unknown tweet media content](../Images/0b46094b08352c89693efd33a26299ed.png)![Ben Sandofsky profile image](../Images/6557edeca17ce315b201eb9ffc236ae7.png)本·桑多夫斯基@桑多夫斯基![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)一个为 38%的互联网提供动力的网络服务器在 GitHub 上拥有 1766 颗星。为节点控制台添加颜色的库有 3206 个。2018 年 6 月 15 日 20 点 53 分[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1007727882095886336)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1007727882095886336)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1007727882095886336)
+> ![unknown tweet media content](img/0b46094b08352c89693efd33a26299ed.png)![Ben Sandofsky profile image](img/6557edeca17ce315b201eb9ffc236ae7.png)本·桑多夫斯基@桑多夫斯基![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)一个为 38%的互联网提供动力的网络服务器在 GitHub 上拥有 1766 颗星。为节点控制台添加颜色的库有 3206 个。2018 年 6 月 15 日 20 点 53 分[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1007727882095886336)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1007727882095886336)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1007727882095886336)
 
 为了更好地了解 Vue 与 React 的相对受欢迎程度，我们需要一些方法来衡量项目的实际使用情况。
 
@@ -32,7 +32,7 @@
 
 查看过去 2 年的数据，我们可以看到，与 github stars 数据形成鲜明对比的是，React 在 NPM 包下载量衡量的实际使用方面仍然占据主导地位。
 
-[![](../Images/563c78a6166664ecae4eb9eec1785d07.png)T2】](https://npm-stat.com/charts.html?package=react&package=vue&from=2016-06-01&to=2018-05-31)
+[![](img/563c78a6166664ecae4eb9eec1785d07.png)T2】](https://npm-stat.com/charts.html?package=react&package=vue&from=2016-06-01&to=2018-05-31)
 
 这并不是说 Vue 在采用率方面表现不佳——事实上，Vue 在倍数方面略有赶上，从 2016 年 6 月的约 12:1 比例(1.693 万比 14.15 万)到 2018 年 5 月的略低于 7:1 比例(9.388 万比 1.374 万)。但是在支持 React 方面仍然存在巨大的使用差距。
 
@@ -44,7 +44,7 @@
 
 首先，就 github 明星而言:
 
-[![](../Images/12ba2035d50806f2750b71e0e51e79c3.png)T2】](http://www.timqian.com/star-history/#facebook/react&vuejs/vue&angular/angular.js&angular/angular)
+[![](img/12ba2035d50806f2750b71e0e51e79c3.png)T2】](http://www.timqian.com/star-history/#facebook/react&vuejs/vue&angular/angular.js&angular/angular)
 
 我们可以看到 Angular.js 比 React 和 Vue 领先了一点，但在 2016 年年中的《明星力量》中被 React 超过，在 2017 年被 Vue 超过。第二次迭代 Angular 自 2016 年 9 月推出以来，一直在逐渐赶上 Angular.js，但在这一受欢迎程度方面仍然排名第四。
 
@@ -52,7 +52,7 @@
 
 从 Angular 的两个变体的用法而非“明星效应”来看，又是另一个故事。
 
-[![](../Images/a409810da1187e5dcea43dc309691de0.png)](https://npm-stat.com/charts.html?package=react&package=vue&package=%40angular%2Fcore&package=angular&from=2016-06-01&to=2018-05-31)
+[![](img/a409810da1187e5dcea43dc309691de0.png)](https://npm-stat.com/charts.html?package=react&package=vue&package=%40angular%2Fcore&package=angular&from=2016-06-01&to=2018-05-31)
 
 *其中的‘angular’包是原来的 Angular.js，而@angular/core 是新 Angular 的核心。
 

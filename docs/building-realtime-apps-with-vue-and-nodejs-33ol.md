@@ -24,7 +24,7 @@
 
 ## 设置一个基本的 Node.js 服务器
 
-[![Hello World Node.js](../Images/38be0728cdf5adffd6d91f37b6592351.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wjYRzQF7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anoff.io/blog/img/assets/node-vue-websockets/hello.png)
+[![Hello World Node.js](img/38be0728cdf5adffd6d91f37b6592351.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wjYRzQF7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anoff.io/blog/img/assets/node-vue-websockets/hello.png)
 
 我们要做的第一件事是设置一个节点服务器来提供后端。使用 [servers.js](https://serverjs.io/) 库，只需几行代码就可以构建一个基本的 API 服务。
 
@@ -91,11 +91,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 Webpack 自带带有*热重装*功能的开发服务器，因此您可以立即在浏览器中看到变化。通过使用`npm run dev`(在`myapp/`目录中)启动服务器并打开位于 [localhost:8080](http://localhost:8080) 的 Vue.js 模板来尝试一下
 
-[![Vue.js template project](../Images/e2acbbf8ae8cff5bcbb69371783d1fe5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K8WxSmPS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anoff.io/blog/img/assets/node-vue-websockets/vue.png)
+[![Vue.js template project](img/e2acbbf8ae8cff5bcbb69371783d1fe5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K8WxSmPS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anoff.io/blog/img/assets/node-vue-websockets/vue.png)
 
 > webpack 开发服务器的输出`npm run dev`
 
-[![Vue.js template project](../Images/ca0f0fb7f288d16ec6b8a92c0c4fb2b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EchtGbDr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anoff.io/blog/img/assets/node-vue-websockets/vue-template.png)
+[![Vue.js template project](img/ca0f0fb7f288d16ec6b8a92c0c4fb2b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EchtGbDr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anoff.io/blog/img/assets/node-vue-websockets/vue-template.png)
 
 > 模板 Vue.js 项目位于 [http://localhost:8080](http://localhost:8080)
 
@@ -122,7 +122,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 只需保存文件，开发服务器就会将更改传播到任何打开的浏览器窗口，该窗口会自动重新加载到
 
-[![modified Vue.js template project](../Images/6db0765f02319e2134d6b9c72606cbd6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h_6tPEMk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anoff.io/blog/img/assets/node-vue-websockets/vue-template2.png)
+[![modified Vue.js template project](img/6db0765f02319e2134d6b9c72606cbd6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h_6tPEMk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anoff.io/blog/img/assets/node-vue-websockets/vue-template2.png)
 
 > 带有自定义消息的已修改模板
 
@@ -228,7 +228,7 @@ export default new Router({
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Basic chat app](../Images/66e15452e4f1e38ba516b319dd6e522a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nVYAy600--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anoff.io/blog/img/assets/node-vue-websockets/chat.png)
+[![Basic chat app](img/66e15452e4f1e38ba516b319dd6e522a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nVYAy600--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anoff.io/blog/img/assets/node-vue-websockets/chat.png)
 
 💡如果你正在努力，看看这个[代码](https://github.com/anoff/node-vue-websockets/tree/99fa39d4761ddaa779192a7f9751820ab7952356)作为参考
 
@@ -236,7 +236,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 对于下面的开发，web 应用程序将从两个不同的端点使用。`webpack-dev-server`发送 web 应用程序源(HTML、CSS、Javascript ),节点服务器将提供`socket-io`端点。这通常不是您在生产中想要做的事情，但是因为我们想要热重新加载节点服务器和 Vue 前端，所以我们需要两个系统——web pack 和 nodemon。
 
-[![development setup](../Images/5adf4c24a449444a8ce367096e63a00e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1ZQkAvma--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.plantuml.com/plantuml/png/NP0z3i8m34PtdyBgn58KYGKn8JX9sXWef77b12A4k3ik3RzBfBpdptQoZibAElSU0Zl2AbCpsFQ4ZYuOIIua5Tg8hUyef58pyVanue5ZUle95Ty8PmKLG1SIoSwsX8Ua8pxN72E07bWxpg5-vSUg5oeZeNJ3kfwDiHKEB0aNnfWVDKQBMvgbWNZgmc35zdW3n76nZRvhBtmERikU1Q_aFMULLhJFn1glHOhUc_w7VDVJZsTn9D_XEwmfEFtH1m00)
+[![development setup](img/5adf4c24a449444a8ce367096e63a00e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1ZQkAvma--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.plantuml.com/plantuml/png/NP0z3i8m34PtdyBgn58KYGKn8JX9sXWef77b12A4k3ik3RzBfBpdptQoZibAElSU0Zl2AbCpsFQ4ZYuOIIua5Tg8hUyef58pyVanue5ZUle95Ty8PmKLG1SIoSwsX8Ua8pxN72E07bWxpg5-vSUg5oeZeNJ3kfwDiHKEB0aNnfWVDKQBMvgbWNZgmc35zdW3n76nZRvhBtmERikU1Q_aFMULLhJFn1glHOhUc_w7VDVJZsTn9D_XEwmfEFtH1m00)
 
 ### 前端:vista socket . io
 
@@ -335,13 +335,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 > 注意，在本教程中还没有注册断开事件，所以只有当一个新的网站连接时才会发出`count`事件。
 
-[![Server logs for connecting clients](../Images/14395ed72ed484121b71896ff3488e00.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q04VkL4l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anoff.io/blog/img/assets/node-vue-websockets/clients.png)
+[![Server logs for connecting clients](img/14395ed72ed484121b71896ff3488e00.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q04VkL4l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anoff.io/blog/img/assets/node-vue-websockets/clients.png)
 
 ## 表演时间🍿
 
 在同一个网络中的两个浏览器/独立设备上运行演示，看起来会像这样。这是一个非常非常基本但完全匿名的聊天系统。
 
-[![Very basic chat system](../Images/f1336cae140488343c429244785e695b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7tiEO4pX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://anoff.io/blog/img/assets/node-vue-websockets/2chats.gif)
+[![Very basic chat system](img/f1336cae140488343c429244785e695b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7tiEO4pX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://anoff.io/blog/img/assets/node-vue-websockets/2chats.gif)
 
 您可以在 github 上找到包含该演示代码的[库。](https://github.com/anoff/node-vue-websockets/commits/master)
 

@@ -4,7 +4,7 @@
 
 在前面关于 JavaScript 和渐进式改进的讨论之后
 
-[![ben](../Images/fe64a787b888dfb20fc13ad1e466da3d.png)](/ben) [## 浏览器还应该允许用户禁用 JavaScript 吗？
+[![ben](img/fe64a787b888dfb20fc13ad1e466da3d.png)](/ben) [## 浏览器还应该允许用户禁用 JavaScript 吗？
 
 ### Ben Hal pern Aug 30 ' 181min read
 

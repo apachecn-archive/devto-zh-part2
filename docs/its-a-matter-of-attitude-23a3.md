@@ -2,13 +2,13 @@
 
 > 原文：<https://dev.to/well1791/its-a-matter-of-attitude-23a3>
 
-[![Success kid](../Images/18fbb6bc725b5446590910f96ff1dac3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aeGTD6JK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://cdn.mamamia.com.au/wp/wp-content/uploads/2015/04/Success-kid-4.jpg)
+[![Success kid](img/18fbb6bc725b5446590910f96ff1dac3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aeGTD6JK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://cdn.mamamia.com.au/wp/wp-content/uploads/2015/04/Success-kid-4.jpg)
 
 你有没有想过成功人士有什么共同点？嗯，很明显他们不止有一个共同点，但是！这里有几件事是肯定的！
 
 ### 激情的火焰比聪明的冷酷传播得更快
 
-[![Success kid](../Images/7f59a33608c2921ec61a958ce2343e70.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tW7xBYgS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://c1.staticflickr.com/1/62/178865612_faeecb4c56_b.jpg)
+[![Success kid](img/7f59a33608c2921ec61a958ce2343e70.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tW7xBYgS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://c1.staticflickr.com/1/62/178865612_faeecb4c56_b.jpg)
 
 这是我很难相信的事情，公司(例如在我的国家)继续根据知识量、头衔和很多有时甚至在日常生活中不需要的东西来雇用人。更糟糕的是，这些公司中的一些将*有才华的人*转变成*有才华的机器人*，因为他们一遍又一遍地做着同样的事情，直到他们感到不舒服而辞职。
 
@@ -22,7 +22,7 @@
 
 ### 安心
 
-[![Success kid](../Images/30d218a23fb5d8f22b79bea36439a25c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q3lmmmYn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.pixabay.com/photo/2017/08/22/21/03/light-2670470_960_720.jpg)
+[![Success kid](img/30d218a23fb5d8f22b79bea36439a25c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q3lmmmYn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.pixabay.com/photo/2017/08/22/21/03/light-2670470_960_720.jpg)
 
 有时你需要走很长一段路，进行一次非常简短的谈话，而不是看着屏幕，困难的是要知道什么时候。编程和其他工作一样，有时会变得很困难。
 
@@ -34,7 +34,7 @@
 
 ### 感情，如果你已经强调，那就**更**强调。
 
-[![Success kid](../Images/e60c29437ddfcd5203d3a707f0ba2799.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gEydvkIQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.pixabay.com/photo/2018/03/19/03/22/people-3238943_960_720.jpg)
+[![Success kid](img/e60c29437ddfcd5203d3a707f0ba2799.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gEydvkIQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.pixabay.com/photo/2018/03/19/03/22/people-3238943_960_720.jpg)
 
 你是否曾经因为某些情况没有如你所愿而是相反而感到沮丧？也许是因为你忘记了别人的感受。
 

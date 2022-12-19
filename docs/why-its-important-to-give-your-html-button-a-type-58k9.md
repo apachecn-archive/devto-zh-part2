@@ -76,7 +76,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 下面的 gif 展示了一个简单的表格(下面是原 Codepen)。提交表单时，通过监听`onsubmit`事件，使用 JavaScript 更改页面的背景颜色。前面提到的每种按钮类型都包含在表单中，并被贴上标签以显示它们的类型值。请注意单击每个按钮时会发生什么:
 
-[![Different values of type attribute](../Images/0eea4bbe93c3a9ac4d2822cf3b8ab635.png "Different values of type attribute")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lh6aht4J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t89nf4sfr3i92hxea6tu.gif)
+[![Different values of type attribute](img/0eea4bbe93c3a9ac4d2822cf3b8ab635.png "Different values of type attribute")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lh6aht4J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t89nf4sfr3i92hxea6tu.gif)
 
 *   submit-type 按钮改变背景颜色并提交表单。
 

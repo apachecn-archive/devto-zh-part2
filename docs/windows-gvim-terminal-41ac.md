@@ -8,7 +8,7 @@
 Windows 版可以从[vim-jp](https://vim-jp.org/) 下载 zip。
 如果有什么问题，也可以试试夜总会大楼的[vim/vim-win32-installer](https://github.com/vim/vim-win32-installer/releases) 。
 
-[![gvim-terminal.png](../Images/aa35572f6898fb3af1e952c954687e20.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FBu4BLOi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/urydzfzm37pqxttf6g28.png)
+[![gvim-terminal.png](img/aa35572f6898fb3af1e952c954687e20.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FBu4BLOi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/urydzfzm37pqxttf6g28.png)
 
 在上面的捕获中，我们将 Vim 划分为四个部分，并分别移动以下外壳:
 

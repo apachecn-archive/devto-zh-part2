@@ -5,7 +5,7 @@
 首先，Solidity 是一种面向合同的编程语言，是为在各种区块链平台上编写智能合同而发明的。你已经知道了！对！我的意思是，这就是为什么你在这里知道你可以添加到你的学习清单上的前 10 名坚实度教程。
 
 以太坊是目前领先的区块链平台之一。事实上，Solidity 是专门为开发以太坊专用程序而发明的。Solidity 是一种强大的面向契约的编程语言，每天都在吸引新的学习者。
-[![Solitidy Tutorial](../Images/363f1fedf9355b8e64ed418d3bb1a061.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FXk6D6Uw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/me1v4eoc0yppma3xk0m9.png) 
+[![Solitidy Tutorial](img/363f1fedf9355b8e64ed418d3bb1a061.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FXk6D6Uw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/me1v4eoc0yppma3xk0m9.png) 
 你可能已经意识到加密货币已经流行了好几年了。虽然这场辩论的双方各持己见，有赞成的也有反对的，但与此同时，有几个区块链平台正在崛起。以太坊就是其中之一。事实上，以太坊组织在区块链分散应用市场中占有很大一部分份额。对绘制区块链版图感兴趣的新开发人员需要能够构建分散式应用程序，也称为 Dapps。
 
 要做到这一点，他们需要首先学会稳固。尽管它与 javascript 非常相似，但像任何其他编程语言一样，可靠需要理解和经验。

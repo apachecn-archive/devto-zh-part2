@@ -14,7 +14,7 @@
 
 <figcaption>可惜，我们当时没有拍太多照片回去</figcaption>
 
-[![Team Deep Labs (missing some folks)](../Images/60f7df3848c761921c071ea08f385663.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CZjK-Nbq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/1827-days/deeplabs-640.jpg)
+[![Team Deep Labs (missing some folks)](img/60f7df3848c761921c071ea08f385663.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CZjK-Nbq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/1827-days/deeplabs-640.jpg)
 
 凭借 Markus 在数据分析和管理方面久经考验的专业知识，以及我对在短期内构建 web UIs 的偏好，我们的定位是为寻求建立数据科学团队或启动数据相关项目的公司提供咨询。尽管我们设法会见了一些潜在的客户，但我们总是被大公司抛弃。没有人因为选择 IBM 而被解雇。🤷
 
@@ -28,7 +28,7 @@
 
 <figcaption>和这些美好的乡亲们一起上路</figcaption>
 
-[![Mozilla Developer Roadshow team in KL](../Images/b4ba0d3e9c7b131f79d789c2297a084f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bSLh4RWA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/1827-days/moz-640.jpg)
+[![Mozilla Developer Roadshow team in KL](img/b4ba0d3e9c7b131f79d789c2297a084f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bSLh4RWA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/1827-days/moz-640.jpg)
 
 所有的旅行让我遇见和听到人们的声音，否则我永远不会亲自见到他们。我和来自俄语网络社区的开发人员交了朋友，和实际开发浏览器的开发人员以及规范编辑聊了聊。对于一个没有在这个行业待太久的人来说，听到来自技术领域各种角色的观点也是非常大开眼界的。
 
@@ -40,7 +40,7 @@
 
 <figcaption>你好来自 Nexmo</figcaption>
 
-[![At the London office](../Images/4c77c145bdb9e064906cc11776834a60.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Vf0nqgH4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/1827-days/nexmo-640.jpg)
+[![At the London office](img/4c77c145bdb9e064906cc11776834a60.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Vf0nqgH4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/1827-days/nexmo-640.jpg)
 
 但是，通过一系列幸运的事件，我很高兴担任开发人员倡导者这一新角色。我可能在这方面很垃圾，但是如果我不尝试的话，我会给自己带来伤害。我要做的事情之一就是从东南亚的角度记录我对 DevRel 的了解。
 

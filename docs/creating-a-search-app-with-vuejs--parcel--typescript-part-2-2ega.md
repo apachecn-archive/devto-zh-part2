@@ -78,7 +78,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，在您的浏览器中，您应该会看到:
 
-[![Run](../Images/349dcc314830d3c0a61b551c0f20eb2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---wJRzRbs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6c80x9685wus7m2grfj9.PNG)
+[![Run](img/349dcc314830d3c0a61b551c0f20eb2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---wJRzRbs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6c80x9685wus7m2grfj9.PNG)
 
 如果出现问题，您可以在这里获得完整的工作版本:[https://github . com/scottlepp/search-vue-parcel-typescript/tree/part-2](https://github.com/scottlepp/search-vue-parcel-typescript/tree/part-2)
 

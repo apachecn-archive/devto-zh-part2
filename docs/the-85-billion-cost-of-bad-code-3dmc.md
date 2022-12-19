@@ -4,11 +4,11 @@
 
 Stripe 和 Harris Poll 最近的一项研究发现，开发人员平均花费 42%的时间处理技术债务和维护问题，其中 3.8 个小时花在调试“坏代码”，或者难以维护的低质量代码上。坏代码的机会成本每年高达 850 亿美元——这些资源本可以用来开发更好的软件。
 
-[![Average Dev Week](../Images/d7e4ec8a832f8ec6925921e445b8bba6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9spNHffl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sfhi912efybhwxfktek4.png)
+[![Average Dev Week](img/d7e4ec8a832f8ec6925921e445b8bba6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9spNHffl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sfhi912efybhwxfktek4.png)
 
 建立一个健康的代码评审过程可以通过强调编写可读、可维护的代码的需求来帮助解决这些问题。我们已经在我们的博客上讨论了代码审查的一些好处，但是 Stripe 的研究关注了糟糕代码的经济影响。
 
-[![Cost of bad code](../Images/63007299e354c74960391ce218bc3fcd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BRynbe75--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n5526yygznbh8vlk81sn.png)
+[![Cost of bad code](img/63007299e354c74960391ce218bc3fcd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BRynbe75--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n5526yygznbh8vlk81sn.png)
 
 公司可以通过考虑以下几点来帮助他们的开发团队:
 

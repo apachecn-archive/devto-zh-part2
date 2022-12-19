@@ -19,7 +19,7 @@
 
 希克曼创建了 ***权威矩阵*** (此处重新创建)，该矩阵显示了自我管理不断增加的四个层次，考虑到谁拥有上述职能的权威:
 
-[![](../Images/f6a97d1e1a6879f27bc697f44d33dfa4.png)T2】](https://allagile.files.wordpress.com/2018/07/hickman-authority-matrix.png)
+[![](img/f6a97d1e1a6879f27bc697f44d33dfa4.png)T2】](https://allagile.files.wordpress.com/2018/07/hickman-authority-matrix.png)
 
 1.  **经理领导的团队:**
     *   管理者管理，工人工作，这两种职能尽可能分开(摘自该书)

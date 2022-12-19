@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/mubaris/introduction-to-koajs-b71>
 
-[![Banner](../Images/d093cb6b70d527790c103316b7c8976d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hq_aPTqb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/gJXT4iu.png)
+[![Banner](img/d093cb6b70d527790c103316b7c8976d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hq_aPTqb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/gJXT4iu.png)
 
 最初发布在我的[博客](https://mubaris.com/2018/09/29/koa-basics/)
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/joenas/high-memory-usage-in-influxdb-5bl5>
 
-[![High memory usage in Influxdb](../Images/63d1c6502a468db030347935680271bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wmZ08f0H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonnev.se/content/images/2018/03/influxdb_memory-1.png)
+[![High memory usage in Influxdb](img/63d1c6502a468db030347935680271bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wmZ08f0H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonnev.se/conteimg/2018/03/influxdb_memory-1.png)
 
 我最近将我的各种服务从 Hetzner 的裸机服务器转移到他们新的[云](https://www.hetzner.com/cloud)和几个不同的 VPSes，这为我节省了不少美元(实际上是克朗，但是...)一个月。我的大部分服务都在 Docker 上运行，我已经让 [telegraf](https://www.influxdata.com/time-series-platform/telegraf/) 在所有服务器上运行来监控我的东西。主要是因为我喜欢看 T4 的仪表盘
 
@@ -24,4 +24,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 结果呢？非常好。
 
-[![High memory usage in Influxdb](../Images/88757f0784a5f3b648762a4f32564b78.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3xLQ_d_9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonnev.se/content/images/2018/03/influxdb_memory.png)
+[![High memory usage in Influxdb](img/88757f0784a5f3b648762a4f32564b78.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3xLQ_d_9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonnev.se/conteimg/2018/03/influxdb_memory.png)

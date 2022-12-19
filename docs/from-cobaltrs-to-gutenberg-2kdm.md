@@ -62,7 +62,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这一步对我获得整个网站的一致输出帮助很大，如果我在模板和标记中搞砸了什么，我也会得到警告/错误。
 
-[![books](../Images/d56b112c05bdf868a80575945e1a8643.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JmtpJ2bX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0kfvxpq2yqe9s24rgok5.png)
+[![books](img/d56b112c05bdf868a80575945e1a8643.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JmtpJ2bX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0kfvxpq2yqe9s24rgok5.png)
 
 ### 更多关于`gutenberg`
 
@@ -99,7 +99,7 @@ Tera 的一些缺点使得一些改变变得更加困难，但总的来说，没
 
 总的来说，迁移速度相当快，不到一天左右。对于如何做到这一点，我建议前往 [markentier.tech 库](https://github.com/markentier/markentier.tech)查看提交历史。
 
-[![functions](../Images/e85321dba06b09c184ed3e56b8440ef1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GFSsLpfa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mis15y9ozpuf5ptaes2x.png)
+[![functions](img/e85321dba06b09c184ed3e56b8440ef1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GFSsLpfa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mis15y9ozpuf5ptaes2x.png)
 
 ### 功能，lambdas 和“无服务器”
 

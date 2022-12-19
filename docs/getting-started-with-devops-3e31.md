@@ -4,7 +4,7 @@
 
 ### devo PS 入门，第 1 部分
 
-<figure>[![](../Images/ca3a24d123555e706a0fef45eb26a956.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SYzE61gl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/1%2AcRJvB1XvvexVNPmIwAFh8g.jpeg) 
+<figure>[![](img/ca3a24d123555e706a0fef45eb26a956.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SYzE61gl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/1%2AcRJvB1XvvexVNPmIwAFh8g.jpeg) 
 
 <figcaption>我不是说是 devo PS……但是，是 DevOps</figcaption>
 
@@ -52,7 +52,7 @@ DevOps 是一段旅程，不是目的地。你不会奇迹般地到达某个时�
 
 没关系，他们会借给你另一台笔记本电脑…除了你没有将你的更改推送到远程回购(在这种情况下，GitHub)。现在，在花了半天时间恢复开发环境之后，您整个下午都被束缚在办公桌前，试图弄清楚前一天所做的一切。
 
-<figure>[![](../Images/e7ad3ad2f06dd2f26018f84d8fba57bf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TAqBDm9N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/750/1%2AXFNqxg6UFdqNs52QqblAnA.png) 
+<figure>[![](img/e7ad3ad2f06dd2f26018f84d8fba57bf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TAqBDm9N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/750/1%2AXFNqxg6UFdqNs52QqblAnA.png) 
 
 <figcaption>Git 提交的消息几乎比里面的内容更重要。在你有 Githubs 和 Bitbuckets 之前，这是你的全部。让它有价值！</figcaption>
 
@@ -64,7 +64,7 @@ DevOps 是一段旅程，不是目的地。你不会奇迹般地到达某个时�
 
 ### Git 意大利面
 
-<figure>[![](../Images/c6e8cc401e7a44d3d570b777d180a856.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zxHXOLs---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/280/0%2AM0EfHaTOhLxkKllm.) 
+<figure>[![](img/c6e8cc401e7a44d3d570b777d180a856.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zxHXOLs---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/280/0%2AM0EfHaTOhLxkKllm.) 
 
 <figcaption>尽量避免这种情况。(来源:Reddit)</figcaption>
 
@@ -86,7 +86,7 @@ FBW & TBD 的酷之处在于，如果你有漂亮的部署管道和持续集成�
 
 ### 什么是拉取请求，它们应该是什么
 
-<figure>[![](../Images/11887e2c7737503dcbbf785638fee382.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dDbWKuhf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/610/0%2AcUxf4n46m633zTFH.png) 
+<figure>[![](img/11887e2c7737503dcbbf785638fee382.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dDbWKuhf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/610/0%2AcUxf4n46m633zTFH.png) 
 
 <figcaption>每时每刻都在发生。</figcaption>
 
@@ -96,7 +96,7 @@ FBW & TBD 的酷之处在于，如果你有漂亮的部署管道和持续集成�
 
 拉式请求已经成为一种美化的橡皮图章。
 
-<figure>[![](../Images/fd8b6598017745a65cdf51546322eb95.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1LIxcSta--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/960/0%2AH6MIejUOwx6N_yH4.png)
+<figure>[![](img/fd8b6598017745a65cdf51546322eb95.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1LIxcSta--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/960/0%2AH6MIejUOwx6N_yH4.png)
 
 <figcaption>PRs 都变成什么了。</figcaption>
 
@@ -106,7 +106,7 @@ FBW & TBD 的酷之处在于，如果你有漂亮的部署管道和持续集成�
 
 > **一次性实验**。创建一个分支进行实验，意识到它不会工作，然后删除它——放弃工作——没有其他人会看到它(即使你在此期间推动了其他分支)。来源: [Git About](https://git-scm.com/about)
 
-<figure>[![](../Images/073ebeda1146b7c3da511e30b781c916.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6_RvJb1x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ANaUmBti42n0FMMffyjTtBg.jpeg) 
+<figure>[![](img/073ebeda1146b7c3da511e30b781c916.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6_RvJb1x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ANaUmBti42n0FMMffyjTtBg.jpeg) 
 
 <figcaption>应该是什么拉动要求。照片由 [Marvin Meyer](https://unsplash.com/photos/SYTO3xs06fU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 在 [Unsplash](https://unsplash.com/search/photos/meeting?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 
@@ -165,7 +165,7 @@ PR 应该是团队审查代码的机会，并通过建议更好的方法、询�
 
 ### 代码覆盖率相当于代码可信度
 
-<figure>[![](../Images/a20e49250d1a4572d04af02e774ff0cb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LpchFsnT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWJ5qEwqaY-hutlp3yCqiag.jpeg) 
+<figure>[![](img/a20e49250d1a4572d04af02e774ff0cb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LpchFsnT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWJ5qEwqaY-hutlp3yCqiag.jpeg) 
 
 <figcaption>当你所有的考验都通过时的那种感觉。照片由 [Dino Reichmuth](https://unsplash.com/photos/1tFd-Bb1pxk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 在 [Unsplash](https://unsplash.com/search/photos/freedom?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 

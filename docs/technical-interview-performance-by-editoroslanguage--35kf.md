@@ -18,7 +18,7 @@
 
 这不再仅仅是一个 Emacs 和 Vi(m)世界了(曾经是吗？):
 
-[![Editor - Breakdown.png](../Images/dfa0ce6b3c56842d2a6bf37e170b171f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r4_COnWd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d25hn4jiqx5f7l.cloudfront.net/file_attachments/files/original/6601f0866082ad8dac318cbf1b3a457cfa69898e.png%3F1505780709)
+[![Editor - Breakdown.png](img/dfa0ce6b3c56842d2a6bf37e170b171f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r4_COnWd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d25hn4jiqx5f7l.cloudfront.net/file_attachments/files/original/6601f0866082ad8dac318cbf1b3a457cfa69898e.png%3F1505780709)
 
 我们在采访中看到的最常用的编辑器是 Sublime Text，Vim 紧随其后。
 
@@ -26,7 +26,7 @@
 
 然而，我真的在寻找质量的信号，而不是数量。哪些工程师最有可能顺利通过我们的面试？
 
-[![Editor - Tech interview pass rate.png](../Images/98860c9eb4d5a64b887f173f3c89dbf5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JyZVsbtj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d25hn4jiqx5f7l.cloudfront.net/file_attachments/files/original/c297bfc4d3b5d1bed45a77ecf16e7020284c8b10.png%3F1505780753)
+[![Editor - Tech interview pass rate.png](img/98860c9eb4d5a64b887f173f3c89dbf5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JyZVsbtj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d25hn4jiqx5f7l.cloudfront.net/file_attachments/files/original/c297bfc4d3b5d1bed45a77ecf16e7020284c8b10.png%3F1505780753)
 
 Vim 在这里获奖，但是 PyCharm 和 Emacs 紧随其后。我们发现这些编辑器的用户倾向于以高于平均水平的比率通过我们的面试。
 
@@ -34,7 +34,7 @@ Vim 在这里获奖，但是 PyCharm 和 Emacs 紧随其后。我们发现这些
 
 我很想知道面试后会发生什么，所以我观察了每组通过最终现场面试并获得我们联系的公司的工作机会的可能性:
 
-[![Editor - Onsite success rate.png](../Images/205ce717ddc21f4a7bf0014b94fee490.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--62G7OP0Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d25hn4jiqx5f7l.cloudfront.net/file_attachments/files/original/0c8429f60b923c0e625d0736c961110544122cdb.png%3F1505780770)
+[![Editor - Onsite success rate.png](img/205ce717ddc21f4a7bf0014b94fee490.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--62G7OP0Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d25hn4jiqx5f7l.cloudfront.net/file_attachments/files/original/0c8429f60b923c0e625d0736c961110544122cdb.png%3F1505780770)
 
 在很大程度上，这在编辑之间看起来相当均匀，这告诉我们，即使 Vim 用户作为一个群体比 Sublime 用户更强大，当谈到 Triplebyte 的采访时，我们仍然可以确定 Sublime 用户的正确子集，他们将在我们合作的公司中表现良好。
 
@@ -44,13 +44,13 @@ Vim 在这里获奖，但是 PyCharm 和 Emacs 紧随其后。我们发现这些
 
 在我们技术面试的第一部分，你可以使用任何你喜欢的语言。如今，许多工程师选择用 Python 进行面试:
 
-[![Language - Breakdown.png](../Images/95cf549d9dde39f510993b300d08c74e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kmOXiatz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d25hn4jiqx5f7l.cloudfront.net/file_attachments/files/original/6f4483a664ac5c11e5c558a886dffc4816ad8595.png%3F1505780899)
+[![Language - Breakdown.png](img/95cf549d9dde39f510993b300d08c74e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kmOXiatz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d25hn4jiqx5f7l.cloudfront.net/file_attachments/files/original/6f4483a664ac5c11e5c558a886dffc4816ad8595.png%3F1505780899)
 
 嘿，PHP 怎么了？作为一名前 PHP 开发人员，我发现有趣的是，它现在只是“其他”桶中的一小滴。作为这里的面试官之一，我个人还没见过有人用 PHP 面试(虽然别人见过)。
 
 Python 也以对初学者友好而闻名，那么类似 Eclipse 的趋势会在这里出现吗？嗯，不完全是:
 
-[![Language - Tech interview pass rate.png](../Images/951b7a783a9d175c87e596585dc71be3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8sVsV5ls--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d25hn4jiqx5f7l.cloudfront.net/file_attachments/files/original/97aff5ad4d163cb11d063e2375fd7559842a8d67.png%3F1505780931)
+[![Language - Tech interview pass rate.png](img/951b7a783a9d175c87e596585dc71be3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8sVsV5ls--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d25hn4jiqx5f7l.cloudfront.net/file_attachments/files/original/97aff5ad4d163cb11d063e2375fd7559842a8d67.png%3F1505780931)
 
 在这种情况下，我们发现普通的 Ruby、Swift 和 C#用户往往更强，Python 和 Javascript 处于中间位置。
 
@@ -58,7 +58,7 @@ Python 也以对初学者友好而闻名，那么类似 Eclipse 的趋势会在�
 
 以下是我们挑选工程师一起工作并把他们派到现场后的情况:
 
-[![Language - Onsite success rate.png](../Images/8c47b295f903461640bfa9284ba0381c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wkQdI_qe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d25hn4jiqx5f7l.cloudfront.net/file_attachments/files/original/6e48822b629946201c3a438e08ec547cbf318694.png%3F1505780946)
+[![Language - Onsite success rate.png](img/8c47b295f903461640bfa9284ba0381c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wkQdI_qe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d25hn4jiqx5f7l.cloudfront.net/file_attachments/files/original/6e48822b629946201c3a438e08ec547cbf318694.png%3F1505780946)
 
 这里没有异常值，但是让我们看看 C++部分。虽然 C++程序员平均来说最难通过 Triplebyte 的技术面试，但我们选择与之合作的人往往更容易在每个现场获得报价。
 
@@ -68,17 +68,17 @@ Python 也以对初学者友好而闻名，那么类似 Eclipse 的趋势会在�
 
 如果你在过去几年里经常光顾旧金山的一家咖啡店，那么今天大多数工程师都在 macOS 上接受面试就不足为奇了:
 
-[![OS - Breakdown.png](../Images/8e52e795d17295436704101bf95698a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ms_hRhdX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d25hn4jiqx5f7l.cloudfront.net/file_attachments/files/original/2652c10428eefab788fe6fe5d8315f29155fb53f.png%3F1505780975)
+[![OS - Breakdown.png](img/8e52e795d17295436704101bf95698a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ms_hRhdX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d25hn4jiqx5f7l.cloudfront.net/file_attachments/files/original/2652c10428eefab788fe6fe5d8315f29155fb53f.png%3F1505780975)
 
 在这种情况下，最受欢迎的选择也是最成功的:
 
-[![OS - Tech interview pass rate.png](../Images/b7ca74bb2880780ffdbd97b96632330d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dQoMj6nN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d25hn4jiqx5f7l.cloudfront.net/file_attachments/files/original/016bc1192d0c93e279f8556d4a7a95ab0c10a24b.png%3F1505780989)
+[![OS - Tech interview pass rate.png](img/b7ca74bb2880780ffdbd97b96632330d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dQoMj6nN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d25hn4jiqx5f7l.cloudfront.net/file_attachments/files/original/016bc1192d0c93e279f8556d4a7a95ab0c10a24b.png%3F1505780989)
 
 我们发现，Windows 用户平均来说更加努力。在这个类别中，我很惊讶没有看到 Linux 处于领先地位。作为一个以前的 Linux 桌面用户，我猜想 Linux 用户可能拥有与其日常计算相关的广泛的技术知识。
 
 在现场采访中，这一趋势仍在继续:
 
-[![OS - Onsite success rate.png](../Images/5edb6b73bbf746717a5844635e747f90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I3Z0fl5I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d25hn4jiqx5f7l.cloudfront.net/file_attachments/files/original/8f6f95ba4fa5b1a00b4c69c096614b226a539f71.png%3F1505781002)
+[![OS - Onsite success rate.png](img/5edb6b73bbf746717a5844635e747f90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I3Z0fl5I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d25hn4jiqx5f7l.cloudfront.net/file_attachments/files/original/8f6f95ba4fa5b1a00b4c69c096614b226a539f71.png%3F1505781002)
 
 奇怪的是，与我们一起工作的苹果粉丝似乎也比 Windows 或 Linux 用户多通过了约 20%的现场面试。(这让我想起了一篇旧的 [OkCupid 博客文章](https://theblog.okcupid.com/dont-be-ugly-by-accident-b378f261dea4)比较苹果和安卓用户的数据。)
 

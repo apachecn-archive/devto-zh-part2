@@ -4,7 +4,7 @@
 
 在我职业生涯的大部分时间里，我一直致力于那些我无法公开发布的代码。我写了一些很酷的东西，并在我的简历中写下了关于这些很酷的东西的**...但是我还没有机会公开展示我的作品。从逻辑上讲，这意味着我没有很酷的东西可以向潜在雇主炫耀。不幸的是，这意味着我可能会错过一些独角兽公司的工作机会。**
 
-[![My ideal job opportunity](../Images/91532c0bc68e16a45439e54336e68db7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gkcumbU_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vignette.wikia.nocookie.net/clubpenguinfanon/images/9/96/Obama_unicorn.png/revision/latest%3Fcb%3D20100608171503) 
+[![My ideal job opportunity](img/91532c0bc68e16a45439e54336e68db7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gkcumbU_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vignette.wikia.nocookie.net/clubpenguinfanimg/9/96/Obama_unicorn.png/revision/latest%3Fcb%3D20100608171503) 
 
 <figure>
 

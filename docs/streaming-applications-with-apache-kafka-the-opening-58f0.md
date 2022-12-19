@@ -38,7 +38,7 @@ TL；DR:我开始这个系列是为了**为正在**学习和驾驭 Apache Kafka*
 
 <figure>
 
-[![](../Images/aa05743fc87df0e1ac81e3e0ea4e770e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yKFDTXFA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-card.png)
+[![](img/aa05743fc87df0e1ac81e3e0ea4e770e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yKFDTXFA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-card.png)
 
 <figcaption>Apache Kafka's logo.</figcaption>
 

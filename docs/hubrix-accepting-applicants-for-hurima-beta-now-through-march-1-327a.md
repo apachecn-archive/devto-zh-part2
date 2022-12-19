@@ -23,7 +23,7 @@ Hurima 是一个**访问控制和用户权限管理 API** ，适合与任何本�
     *   法国巴黎 Hurima 发布会的 VIP 通行证
     *   Hubrix 员工将选出一名 MVT(“最有价值的测试者”)，他将在测试结束时获得**Lego Millenium Falcon**(零售价 800 欧元)
 
-[![Dat Millenium Falcon](../Images/fbd08eb171ed329eb16a2ca769af28e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a5DlD4Mp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0u5hzm0e4alpqxm7oy6i.png)
+[![Dat Millenium Falcon](img/fbd08eb171ed329eb16a2ca769af28e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a5DlD4Mp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0u5hzm0e4alpqxm7oy6i.png)
 
 # 如何申请
 

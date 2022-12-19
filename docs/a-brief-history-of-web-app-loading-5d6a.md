@@ -43,7 +43,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 开发人员开始尝试替代方案，捆绑依赖关系的工具数量激增。Browserify、Broccoli.js、Rollup、webpack，当然还有其他我从未听说过的。还有更多的正在被创建，据我所知，Parcel 是最新的一个。它们在 API 和特性上都略有不同。webpack 因其出色的代码拆分功能和灵活性赢得了应用程序的 mindshare，后来的迭代显著提高了可用性(说真的 webpack 4 太棒了)。Rollup 已经成为捆绑库的常用工具，因为它在大多数情况下生成最小的包。
 
-[![An animated gif showing an analyzer's output, with several JS bundles containing many dependencies](../Images/4420a709885fa3825d8a099ee029c24e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dtO0cVoQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cloud.githubusercontent.com/assets/302213/20628702/93f72404-b338-11e6-92d4-9a365550a701.gif)
+[![An animated gif showing an analyzer's output, with several JS bundles containing many dependencies](img/4420a709885fa3825d8a099ee029c24e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dtO0cVoQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cloud.githubusercontent.com/assets/302213/20628702/93f72404-b338-11e6-92d4-9a365550a701.gif)
 
 对解决依赖关系的工具的关注揭示了 CommonJS 的函数的一些缺点。`require`是 Node.js 的一部分，它的一些语义使得在浏览器中使用更加困难。TC39 标准化了模块定义规范，ES 模块，更好地满足了 Node.js 和浏览器中的不同用例。它还在不断发展——[node . js 最近发布了第 10 版](https://nodejs.org/docs/latest-v10.x/api/esm.html)，提供实验支持，而[动态`import()`功能](https://github.com/tc39/proposal-dynamic-import)还没有完全落地。
 

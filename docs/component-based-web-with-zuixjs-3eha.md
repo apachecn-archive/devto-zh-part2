@@ -12,7 +12,7 @@
 
 在下面的图片中，你可以看到旧的，但仍然很好的 HomeGenie web UI。
 
-[![HomeGenie Web UI](../Images/c51e2a21199137c659f1ecdb17c17a8a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g-wdbB2i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://genielabs.github.io/HomeGenie/images/docs/dashboard_page_01.jpg)
+[![HomeGenie Web UI](img/c51e2a21199137c659f1ecdb17c17a8a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g-wdbB2i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://genielabs.github.io/HomeGenimg/docs/dashboard_page_01.jpg)
 
 这个智能家居软件很酷的一点是，人们可以通过使用集成的 web 编辑器定制和编写新的小部件(你可以在[小部件](https://homegenie.it/content/devs/widgets/)文档页面中了解更多信息)。
 
@@ -86,7 +86,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 阅读下一篇:
 
-[![genejams](../Images/ab410dc05437d55e52306d6bb995095d.png)](/genejams) [## 从头开始移动 web 应用程序布局
+[![genejams](img/ab410dc05437d55e52306d6bb995095d.png)](/genejams) [## 从头开始移动 web 应用程序布局
 
 ### { Gene } Jul 22 ' 182min read
 

@@ -4,7 +4,7 @@
 
 > 你，深！
 > 
-> [![XKCD Documents](../Images/fbf7a01fc5022ea2697ecfe944639e1c.png)T2】](https://xkcd.com/1360)
+> [![XKCD Documents](img/fbf7a01fc5022ea2697ecfe944639e1c.png)T2】](https://xkcd.com/1360)
 
 把这篇文章读给你听。
 
@@ -36,7 +36,7 @@
 
 下面是一个关于幕后发生的事情的简化工作流程。
 
-[![SSHFS User Access](../Images/91d931c8abd8d64e8cb6f85d134261c2.png)T2】](http://i.imgur.com/7YPQPBA.png)
+[![SSHFS User Access](img/91d931c8abd8d64e8cb6f85d134261c2.png)T2】](http://i.imgur.com/7YPQPBA.png)
 
 *   **服务器 A** 上的爱丽丝需要访问**服务器 B** 的存储。
 *   鲍勃拥有对**服务器 B** 的存储的完全访问权。

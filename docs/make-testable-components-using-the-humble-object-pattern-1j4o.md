@@ -386,4 +386,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 安静点。
 
-[![](../Images/46461ed01715217fec1816bcec2ad6a9.png)T2】](https://i.giphy.com/media/ef0zYcOodmbTMQZjkU/giphy.gif)
+[![](img/46461ed01715217fec1816bcec2ad6a9.png)T2】](https://i.giphy.com/media/ef0zYcOodmbTMQZjkU/giphy.gif)

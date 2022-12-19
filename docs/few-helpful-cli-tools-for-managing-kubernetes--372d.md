@@ -10,7 +10,7 @@
 
 我可以通过点击标签在集群之间切换，因为我使用 zsh 和 kubernetes 模块，它可以确保我在正确的集群上。
 
-[![alttexthere](../Images/2643a83fb9afff9bd302aa77542c2202.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mAypF5o0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/ahmetb/kubectx/raw/master/img/kubectx-demo.gif)
+[![alttexthere](img/2643a83fb9afff9bd302aa77542c2202.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mAypF5o0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/ahmetb/kubectx/raw/master/img/kubectx-demo.gif)
 
 当处理多集群时，也有许多名称空间。当然，我可以继续做类似
 的事情
@@ -29,7 +29,7 @@ kubectl create -f /yeya/this/is/for/qa.yaml -n ProdNamespace
 
 Kubens -由与上述相同的 GH 作者制作，易于 brew 安装。
 
-[![kubens](../Images/cdf0ee45518c8ee7d752c563561e9996.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wYgC1Ry6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/ahmetb/kubectx/raw/master/img/kubens-demo.gif)
+[![kubens](img/cdf0ee45518c8ee7d752c563561e9996.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wYgC1Ry6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/ahmetb/kubectx/raw/master/img/kubens-demo.gif)
 
 日志很重要，要在 Kubernetes 的世界中查看它们，你要么执行下面的命令，查看日志的历史负载，要么使用一个日志聚合器，比如 Graylog、Sumologic 等等。
 

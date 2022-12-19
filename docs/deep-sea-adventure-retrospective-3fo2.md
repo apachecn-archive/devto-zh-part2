@@ -2,11 +2,11 @@
 
 > 原文：<https://dev.to/cwreacejr/deep-sea-adventure-retrospective-3fo2>
 
-[![](../Images/ceb3767715b933fb6657b1edfef4b218.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A3Z8sues--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rsmrhrvbqlk5jazloycz.jpg)
+[![](img/ceb3767715b933fb6657b1edfef4b218.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A3Z8sues--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rsmrhrvbqlk5jazloycz.jpg)
 
 作为 sprint 回顾会的一个改变，我决定用“[深海冒险](https://boardgamegeek.com/boardgame/169654/deep-sea-adventure)”游戏做一个小实验。在这个小小的桌面游戏中，每个玩家都是一名潜水员，试图抓住尽可能多的宝藏，确保在氧气耗尽之前回到潜艇。
 
-[![image](../Images/57162c42a764dcd2c61d31df61ae0308.png)T2】](https://boardgamegeek.com/boardgame/169654/deep-sea-adventure)
+[![image](img/57162c42a764dcd2c61d31df61ae0308.png)T2】](https://boardgamegeek.com/boardgame/169654/deep-sea-adventure)
 
 ## 玩游戏
 

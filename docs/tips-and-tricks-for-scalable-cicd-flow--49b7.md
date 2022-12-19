@@ -6,11 +6,11 @@
 
 在典型开发过程的开始，在项目准备发布之前，您的 CI 流程看起来像这样:
 
-[![](../Images/3d515e3493d784116db55dff68814e5c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eypmNFFv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3xo43j329k54d8ee9ph9.jpg)
+[![](img/3d515e3493d784116db55dff68814e5c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eypmNFFv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3xo43j329k54d8ee9ph9.jpg)
 
 在开发阶段，更多的步骤被添加到流程中，直到它看起来像下面的图片。然而，在某些项目中，您可能会看到比这更多的步骤。[原图](https://user-images.githubusercontent.com/2697570/48337431-33340c80-e663-11e8-87b0-cdc4e24aa776.jpg)。
 
-[![](../Images/8e44fc5748d8f5ae05e784a9450e70c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xfeMCA0L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/2697570/48337431-33340c80-e663-11e8-87b0-cdc4e24aa776.jpg)
+[![](img/8e44fc5748d8f5ae05e784a9450e70c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xfeMCA0L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/2697570/48337431-33340c80-e663-11e8-87b0-cdc4e24aa776.jpg)
 
 在本文中，我将演示一个典型的 CI/CD 流程，并提供一些技巧来帮助您将它扩展到更大的项目中。请注意，这些建议是在假设您已经使用 Docker 和编排工具(如 Kubernetes)开发了基础设施设置的基础上提出的。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/prelias/emulationstation-configurao-simples-para-windows-aio>
 
-[![](../Images/4348b328793e7f566e55900ad310dbc6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R43x08jK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://emulationstation.org/assets/logo_es.png)
+[![](img/4348b328793e7f566e55900ad310dbc6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R43x08jK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://emulationstation.org/assets/logo_es.png)
 
 近年来，随着 Raspberry Pi 微型计算机版本的出现，仿真场景发生了很大变化，简直成了发烧。
 
@@ -10,7 +10,7 @@
 
 根据磁盘上文件的日期，这是在 2006 年 4 月。想死你了
 
-[![](../Images/a759b2c0e2eed8aff55a4846f0faa574.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x2Nfn90Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.paulorobertoelias.com.br/wp-content/uploads/2018/07/dvd_emuladores-768x1024.jpg)
+[![](img/a759b2c0e2eed8aff55a4846f0faa574.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x2Nfn90Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.paulorobertoelias.com.br/wp-content/uploads/2018/07/dvd_emuladores-768x1024.jpg)
 
 > 如果你想跳过我关于仿真器的全部故事和解释，你可以直接去项目存储库。它包含如何安装的说明。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/_bigblind/are-interruptions-really-worse-for-programmers-than-for-other-knowledge-workers-2ij9>
 
-[![A cartoon with the first set of images showing a programmer's thought process across levels of abstraction, going rom a single if statement to how the components of the system fit together. The last pane shows him being interrupted, and that entire mental model collapsing.](../Images/8cd7e29ec7da5ca6423c85854598a70a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q74QAzOg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heeris.id.au/trinkets/ProgrammerInterrupted.png)
+[![A cartoon with the first set of images showing a programmer's thought process across levels of abstraction, going rom a single if statement to how the components of the system fit together. The last pane shows him being interrupted, and that entire mental model collapsing.](img/8cd7e29ec7da5ca6423c85854598a70a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q74QAzOg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heeris.id.au/trinkets/ProgrammerInterrupted.png)
 
 这是一部相当受欢迎的卡通片。我一年前在一个关于[为什么程序员戴耳机](https://dev.to/andrewlucker/why-do-programmers-wear-headphones-for-the-same-reason-that-you-cantjuggle)的[评论](https://dev.to/_bigblind/comment/662)中发布了这个，它已经收到了 63 个❤s.
 

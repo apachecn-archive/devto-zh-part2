@@ -145,7 +145,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是我们得到的结果:
 
-[![List<string> dump output](../Images/14d422628d205eccb8251cfe18ddc023.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zIdgeXXr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/RLyQWxu.png)
+[![List<string> dump output](img/14d422628d205eccb8251cfe18ddc023.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zIdgeXXr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/RLyQWxu.png)
 
 简洁明了吧？
 
@@ -165,7 +165,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们得到:
 
-[![Object dump output](../Images/fa638e5e7ab1c9b48cb51d8d551249ca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iaMwGSgI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/DlwpphI.png)
+[![Object dump output](img/fa638e5e7ab1c9b48cb51d8d551249ca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iaMwGSgI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/DlwpphI.png)
 
 很好地格式化成键值对，对象中的列表也格式化得很好。
 
@@ -183,7 +183,7 @@ new
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Dump with title](../Images/06b9c9d9914f6f822b0c99b6e7d88e1a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--okbAeIeG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/INiW54e.png)
+[![Dump with title](img/06b9c9d9914f6f822b0c99b6e7d88e1a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--okbAeIeG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/INiW54e.png)
 
 它不止于此。当在我们使用 LINQ 查询数据库的上下文中使用时，它变得更加强大。
 
@@ -205,7 +205,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 会给我们:
 
-[![FirstOrDefault dump output](../Images/56d735d08e11634d094850eb1d1e4e59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tOHVxmyM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/BtRXTHl.png)
+[![FirstOrDefault dump output](img/56d735d08e11634d094850eb1d1e4e59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tOHVxmyM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/BtRXTHl.png)
 
 就像我们之前打印的一样。
 
@@ -218,7 +218,7 @@ Prescriptions.FirstOrDefault().Dump();
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![FK dump output](../Images/b110d1381295998c4a55b2f14f1a3446.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dp26VUdW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/RFHZBEa.png)
+[![FK dump output](img/b110d1381295998c4a55b2f14f1a3446.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dp26VUdW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/RFHZBEa.png)
 
 它解决了这些依赖性，并把它们放在适当的位置！绝对缺德！
 
@@ -230,7 +230,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们该怎么展示它呢？
 
-[![DUMP all the things meme](../Images/6cb514f7bf07f4a43b456ba6334a15c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ryIP0KBP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/xVVkv3x.png)
+[![DUMP all the things meme](img/6cb514f7bf07f4a43b456ba6334a15c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ryIP0KBP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/xVVkv3x.png)
 
 我们将用`region`作为参数调用`.Dump()`函数。这将为我们提供一个格式良好的实例及其状态的区域列表。
 
@@ -260,7 +260,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 屏气凝神凝神凝神凝神凝神凝神凝神凝神凝神凝神凝神凝神凝神：
 
-[![Dashboard output](../Images/e44a3fd4b1be5f226dc620ca50b90d0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OUdFtGcF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/GvZlDlk.png)
+[![Dashboard output](img/e44a3fd4b1be5f226dc620ca50b90d0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OUdFtGcF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/GvZlDlk.png)
 
 厉害！它**工作**，它**可维护**，更糟糕的是，它**科技含量低**。除了一个问题之外，所有的问题都萦绕在我的脑海里:
 

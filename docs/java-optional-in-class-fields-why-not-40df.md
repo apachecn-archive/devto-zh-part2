@@ -119,7 +119,7 @@ mapper.registerModule(new Jdk8Module());
 
 好消息是，如果您使用的是具有`spring-boot-starter-web`依赖性的 Spring Boot，那么它已经配置好了一切，可以使用了:)
 
-[![Spring dependencies](../Images/cf801934d5b149c05180eac1d4681738.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eEKu4ALT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uo1cinj62lx2cta81ia5.png)
+[![Spring dependencies](img/cf801934d5b149c05180eac1d4681738.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eEKu4ALT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uo1cinj62lx2cta81ia5.png)
 
 这里的是这篇文章的演示。
 

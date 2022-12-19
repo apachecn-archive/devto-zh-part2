@@ -9,15 +9,15 @@
 1.  制作电子表格的副本
 2.  在工具菜单上，选择*脚本编辑器…* 选项
 
-[![](../Images/27b9f070ee27dd19ac013bf7c50fd640.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bcsdkIRf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ATqxHjaNyDHduIBhyThDsSg.png)
+[![](img/27b9f070ee27dd19ac013bf7c50fd640.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bcsdkIRf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ATqxHjaNyDHduIBhyThDsSg.png)
 
 1.  进入脚本编辑器后，选择资源>库…
 
-[![](../Images/f5af0514d95178f72ec2b215e0f744a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2579xm76--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/530/1%2AeUmJ7J9eUabiE2GuW3yVyw.png)
+[![](img/f5af0514d95178f72ec2b215e0f744a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2579xm76--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/530/1%2AeUmJ7J9eUabiE2GuW3yVyw.png)
 
 1.  按照这里的步骤选择 Firebase 库:[https://sites . Google . com/site/scripts examples/new-connectors-to-Google-services/Firebase](https://sites.google.com/site/scriptsexamples/new-connectors-to-google-services/firebase)
 
-[![](../Images/0a7cf7081712d73b4aa6d961f25f4309.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zcSiYwYO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AbEo6nD6ZXMh5xeSz9OObQw.png)
+[![](img/0a7cf7081712d73b4aa6d961f25f4309.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zcSiYwYO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AbEo6nD6ZXMh5xeSz9OObQw.png)
 
 1.  按照这里的步骤开始将数据导入 Firebase:[https://sites . Google . com/site/scripts examples/new-connectors-to-Google-services/Firebase/tutorials/read-and-write-data-in-Firebase-from-apps-script](https://sites.google.com/site/scriptsexamples/new-connectors-to-google-services/firebase/tutorials/read-and-write-data-in-firebase-from-apps-script)
 

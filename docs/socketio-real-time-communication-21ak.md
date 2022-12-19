@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/rmadisetti3/socketio-real-time-communication-21ak>
 
-[![](../Images/a6b31295631ad723e6b07c6cd8b89a4c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iY0HmwcV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7brapfmfwzs9cmv1zj6w.jpg) 
+[![](img/a6b31295631ad723e6b07c6cd8b89a4c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iY0HmwcV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7brapfmfwzs9cmv1zj6w.jpg) 
 各位 Javascript 程序员好，
 
 本文将解释套接字。IO 及其在全栈 web 应用程序中的优势，而不是传统的冗长的数据库方法。

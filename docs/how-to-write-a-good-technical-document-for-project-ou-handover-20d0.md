@@ -6,4 +6,4 @@
 
 这个文档很简单，它包含了应用程序的主要流程，以及受影响的主要数据库表和字段名。因为它是由我开发的，我可能会对它有偏见，所以我想知道你是否可以看看同样的东西并提供你的反馈。
 
-[![Technical Document Flow](../Images/4f4ffead9a83aafe2f4bf82871277090.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--11Hsn26h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3rcg2ym842wfsy65zpcf.png)
+[![Technical Document Flow](img/4f4ffead9a83aafe2f4bf82871277090.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--11Hsn26h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3rcg2ym842wfsy65zpcf.png)

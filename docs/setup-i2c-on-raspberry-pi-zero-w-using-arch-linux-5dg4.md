@@ -218,7 +218,7 @@ sudo raspi-config
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/5f142b8c279091b812b2d614495e1c62.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j0sVtVkq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/rasp-config.png)
+[![](img/5f142b8c279091b812b2d614495e1c62.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j0sVtVkq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/rasp-config.png)
 
 选择“接口选项”并启用 I2C。
 

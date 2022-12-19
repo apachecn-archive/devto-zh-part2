@@ -20,7 +20,7 @@
 
 #### 目测
 
-[![merge-sort](../Images/e8fd38b2b38b81d451a34de48b42004a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--deJq_0u1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1npt37z4g0zjxiicljlm.gif)
+[![merge-sort](img/e8fd38b2b38b81d451a34de48b42004a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--deJq_0u1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1npt37z4g0zjxiicljlm.gif)
 
 #### 代码
 
@@ -93,7 +93,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 #### 目测
 
-[![insertion-sort](../Images/028f768ed329733fe3c5bf5d9b7db632.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TnANY--p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g01s69r1ppo9kifien2v.gif)
+[![insertion-sort](img/028f768ed329733fe3c5bf5d9b7db632.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TnANY--p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g01s69r1ppo9kifien2v.gif)
 
 #### 代码
 
@@ -141,7 +141,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 #### 目测
 
-[![bubble-sort](../Images/d8a80d7e92dac68478437c759bc9ef60.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HigHGFxD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m4zwhvxf6ujdrvt9xoq5.gif)
+[![bubble-sort](img/d8a80d7e92dac68478437c759bc9ef60.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HigHGFxD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m4zwhvxf6ujdrvt9xoq5.gif)
 
 #### 代码
 

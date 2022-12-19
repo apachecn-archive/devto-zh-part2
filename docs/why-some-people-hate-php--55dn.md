@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jjsantos/why-some-people-hate-php--55dn>
 
-[![Don't Hate PHP](../Images/858fecb8e9e80c448b8db264b9eca29d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n8YoPQB3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0fhucewvazwysno7tggi.jpg)
+[![Don't Hate PHP](img/858fecb8e9e80c448b8db264b9eca29d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n8YoPQB3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0fhucewvazwysno7tggi.jpg)
 
 很长一段时间以来，我发现我周围的开发者讨厌 PHP，我仍然不明白为什么会这样。
 

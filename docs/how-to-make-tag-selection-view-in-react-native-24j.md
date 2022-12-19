@@ -2,13 +2,13 @@
 
 > 原文：<https://dev.to/onmyway133/how-to-make-tag-selection-view-in-react-native-24j>
 
-[![](../Images/7ea9d73ea1f2d44b030d008b1a9e5db3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--btj6zj47--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AUzcJm9V69NwGBSXF.jpg)
+[![](img/7ea9d73ea1f2d44b030d008b1a9e5db3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--btj6zj47--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AUzcJm9V69NwGBSXF.jpg)
 
 除了 React 风格的编程， [Yoga](https://github.com/facebook/yoga) 是 React Native 的另一个很酷的功能。它是一个跨平台的布局引擎，实现了 Flexbox，所以我们对两个平台使用相同的布局代码。
 
 作为一个在 iOS 中使用自动布局和在 Android 中使用约束布局的人，我起初觉得 Flexbox 有点难用，但有许多任务 Flexbox 做得很好，它们是空间和流动布局中的分布元素。在这篇文章中，我们将使用 Flexbox 构建一个只使用 Javascript 代码的标签选择视图。这很容易做到，所以我们不需要安装额外的依赖项。
 
-[![](../Images/fce41aa0316e372607ce51bb4fcb6e5a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5MgR1gjY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AxLD0YbzaepgAuz7ED-lLGA.png)
+[![](img/fce41aa0316e372607ce51bb4fcb6e5a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5MgR1gjY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AxLD0YbzaepgAuz7ED-lLGA.png)
 
 我们的标签视图将支持多重选择和排他选择。首先，我们需要一个自定义按钮。
 
@@ -115,7 +115,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 要了解填充和边距，请访问 [CSS 盒模型](https://www.w3schools.com/css/css_boxmodel.asp)。基本上，填充意味着清除内容周围的区域，填充是透明的，而边距意味着清除边框之外的区域，边距也是透明的。
 
-[![](../Images/d3dee482c7b319db6d23c24deceb0184.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--okfFf31d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/4572/1%2AA98Em4msrGqOAWSRq3Njjw.png)
+[![](img/d3dee482c7b319db6d23c24deceb0184.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--okfFf31d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/4572/1%2AA98Em4msrGqOAWSRq3Njjw.png)
 
 注意款式。我们有可触摸的空白，这样每个标签按钮在彼此之外都有一点空白。
 

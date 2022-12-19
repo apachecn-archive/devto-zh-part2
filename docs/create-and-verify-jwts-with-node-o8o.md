@@ -10,7 +10,7 @@
 
 ## 信任，但要核实…你的 jwt
 
-[![it must be true](../Images/53b8beeba792aef62400c87c0004341b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NTwTwtJW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/node-jwt/it-must-be-true-fe6a2628bd303679e127a6edadde3a26579d8e3b0b687a3a9835ef068c89064e.jpg)
+[![it must be true](img/53b8beeba792aef62400c87c0004341b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NTwTwtJW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/node-jwt/it-must-be-true-fe6a2628bd303679e127a6edadde3a26579d8e3b0b687a3a9835ef068c89064e.jpg)
 
 好吧，也许不要相信网上看到的一切。你可能想知道为什么有人会做出一些声明并期望服务器相信他们。当你使用 JWT 进行声明时，它会被一个有密钥的服务器签署。读取密钥的服务器可以很容易地验证声明是否有效，即使不知道所使用的秘密。然而，如果没有密钥，要修改声明并确保签名有效几乎是不可能的。
 
@@ -177,7 +177,7 @@ echo "APP_SECRET=`uuid`" >> .env
 
 点击**编辑**并添加`http://localhost:3000/`的**注销重定向 URI** ，然后点击**保存**。
 
-[![okta app settings](../Images/cab5e3ae2ccdea52bc0a0e2c9e1f2cda.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zBYUAJXl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/node-jwt/okta-app-settings-9f9ce74ef8d2d4a840600ac5f0c06adc0636ad12d26d89ce323591dbc4239159.png)
+[![okta app settings](img/cab5e3ae2ccdea52bc0a0e2c9e1f2cda.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zBYUAJXl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/node-jwt/okta-app-settings-9f9ce74ef8d2d4a840600ac5f0c06adc0636ad12d26d89ce323591dbc4239159.png)
 
 创建应用程序后，您进入的页面有更多信息需要保存到您的`.env`文件中。复制客户端 ID 和客户端密码。
 
@@ -229,7 +229,7 @@ app.get('/', oidc.ensureAuthenticated(), (req, res) => res.send('Peekaboo!'))
 
 现在，当您转到`http://localhost:3000`时，您将被重定向到一个安全登录页面。由于您可能仍然从管理面板登录 Okta，您可能需要使用不同的浏览器或匿名窗口来查看登录屏幕，就像您网站的其他访问者一样。
 
-[![okta sign in page](../Images/e7af474cebd14e9d4c245e13f079dee2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mx2DIApC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/node-jwt/okta-sign-in-3df7eb2e9619577eb6bb146f075d31593927849a835bce9bd3839ebeb9d91176.png)
+[![okta sign in page](img/e7af474cebd14e9d4c245e13f079dee2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mx2DIApC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/node-jwt/okta-sign-in-3df7eb2e9619577eb6bb146f075d31593927849a835bce9bd3839ebeb9d91176.png)
 
 登录后，您将收到隐藏的消息！
 

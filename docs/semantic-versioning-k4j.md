@@ -24,7 +24,7 @@
 
 **如果你的补丁号是 9，**当你再次增加补丁版本，**你增加到 10，**然后 11，然后 12，依此类推。(人数没有限制)
 
-[![A patch version is the rightmost number](../Images/1d257c31f4c91f831ef09302f0c5d5e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ex0nbxWE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/semantic-versioning/patch.png)
+[![A patch version is the rightmost number](img/1d257c31f4c91f831ef09302f0c5d5e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ex0nbxWE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/semantic-versioning/patch.png)
 
 ### 次要版本
 
@@ -32,7 +32,7 @@
 
 当您增加次要版本时，您也增加了 1。但是**当你增加次要版本时，你必须将补丁版本重置为零。**
 
-[![A minor version is the second number](../Images/59bba0882b213906cfac4fbd21def961.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eD3KqXFf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/semantic-versioning/minor.png)
+[![A minor version is the second number](img/59bba0882b213906cfac4fbd21def961.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eD3KqXFf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/semantic-versioning/minor.png)
 
 ### 主要版本
 
@@ -40,7 +40,7 @@
 
 当您增加主版本号时，您会重置补丁版本和次版本。
 
-[![A major version is the leftmost number](../Images/0e96a0a9f889be62bf507a0127698c5a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YzTtQkoy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/semantic-versioning/major.png)
+[![A major version is the leftmost number](img/0e96a0a9f889be62bf507a0127698c5a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YzTtQkoy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/semantic-versioning/major.png)
 
 ## 预发布
 

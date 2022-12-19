@@ -10,7 +10,7 @@
 
 我意识到正是这些小碎片让我如此上瘾。当你拿起玩具附带的手册时，你会立即看到你需要采取的小步骤，并看到它们会变成什么。
 
-[![First page](../Images/a7afa8ba652e3e526ffb0ea42efc6467.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KyIHurnY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iu0cpsg7opy7gz6okaly.png)
+[![First page](img/a7afa8ba652e3e526ffb0ea42efc6467.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KyIHurnY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iu0cpsg7opy7gz6okaly.png)
 
 ^这是你首先看到的。
 
@@ -32,7 +32,7 @@
 
 你挣扎是因为你看到的是一大块本质上是一个系统的东西。每当你开始工作时，你必须首先考虑整个系统，并把它储存在你的记忆中，这本身会给你带来精神上的麻烦，这取决于作品的大小。
 
-[![The piece you see](../Images/9d75365dd5ddf757b227227c177ce429.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--elV6Z9PW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3117684m202bma6vcro9.png)
+[![The piece you see](img/9d75365dd5ddf757b227227c177ce429.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--elV6Z9PW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3117684m202bma6vcro9.png)
 
 你正在展示我在上图中强调的那块。你看不到 6x6 的正方形。要到达 6x6 的方块，你需要想通整件事，这需要你每次从办公桌前站起来去喝一杯时耗费时间和精神力量。每次你都必须跳出圈子，这在当前的工作环境中很常见。
 

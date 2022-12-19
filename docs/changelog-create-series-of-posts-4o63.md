@@ -12,7 +12,7 @@
 
 这是一个系列文章的例子(由管理员手动链接)
 
-[![raulavila](../Images/24a0cb6d4961d2ebb488843cff2d62b7.png)](/raulavila) [## Java 中的多线程技术(第 3 部分)
+[![raulavila](img/24a0cb6d4961d2ebb488843cff2d62b7.png)](/raulavila) [## Java 中的多线程技术(第 3 部分)
 
 ### 劳尔Á维拉 1 月 9 日 177 分钟阅读
 
@@ -20,7 +20,7 @@
 
 截图:
 
-[![](../Images/2848eec0072b2b37fb79f3fa445081c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K5q2Eurj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://duaw26jehqd4r.cloudfront.net/items/1m0B1v0P1l26353M413t/Image%25202018-10-29%2520at%25205.40.11%2520PM.png)
+[![](img/2848eec0072b2b37fb79f3fa445081c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K5q2Eurj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://duaw26jehqd4r.cloudfront.net/items/1m0B1v0P1l26353M413t/Image%25202018-10-29%2520at%25205.40.11%2520PM.png)
 
 现在你可以创建自己的系列。如果你使用的是编辑器的“v1 ”,你可以将`series:`添加到 frontmatter 中。为应该出现在专题中的任何文章指定相同的系列名称。
 
@@ -28,7 +28,7 @@
 
 相关:
 
-[![The DEV Team](../Images/6b3a9c79aeecf790d5144f3fe1881f50.png)![](../Images/fe64a787b888dfb20fc13ad1e466da3d.png)](/devteam) [## 我们有一个新的测试版编辑器，你可以试试
+[![The DEV Team](img/6b3a9c79aeecf790d5144f3fe1881f50.png)![](img/fe64a787b888dfb20fc13ad1e466da3d.png)](/devteam) [## 我们有一个新的测试版编辑器，你可以试试
 
 ### 开发团队的 Ben Hal pern 10 月 9 日 181 分钟阅读
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/aviaryan/why-you-should-do-competitive-programming-even-if-a-little-1hf8>
 
-[![cover](../Images/1c0c183a19a2a7703f8aae9b60dbb4d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ra-GMdDP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.us-east-2.amazonaws.com/devletters/covers/code.jpeg)
+[![cover](img/1c0c183a19a2a7703f8aae9b60dbb4d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ra-GMdDP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.us-east-2.amazonaws.com/devletters/covers/code.jpeg)
 
 > 首次发布于 [Dev Letters](https://devletters.com/letters/why-competitve-programming/)
 
@@ -50,7 +50,7 @@ C，C++和 Java 都是编译语言。也就是说，它们直接与系统交互�
 
 如果你喜欢这篇文章，你可能也会喜欢下面的内容。
 
-[![aviaryan image](../Images/6a3c30092d9074c2a86cc06c8ae2691d.png)](/aviaryan) [## 竞争性编程入门——培养您的算法技能
+[![aviaryan image](img/6a3c30092d9074c2a86cc06c8ae2691d.png)](/aviaryan) [## 竞争性编程入门——培养您的算法技能
 
 ### 阿维雅利安 Oct 8 ' 18 分钟阅读
 

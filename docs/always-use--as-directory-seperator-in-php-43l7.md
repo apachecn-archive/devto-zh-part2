@@ -6,7 +6,7 @@
 
 使用`/`。几乎每次都是更好的选择。
 
-[![yes it break things!](../Images/98f3a255eb6c2a55b106bc797f727501.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IUljVMue--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.imgflip.com/2ap1k1.jpg)
+[![yes it break things!](img/98f3a255eb6c2a55b106bc797f727501.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IUljVMue--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.imgflip.com/2ap1k1.jpg)
 
 如果你在 windows 上使用解析为`\`的`DIRECTORY_SEPARATOR`，事情往往会出错。例如:`\`在 URL 中被转换为`%5C`。
 

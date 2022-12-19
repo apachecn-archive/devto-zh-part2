@@ -15,7 +15,7 @@
 
 # 挑战:翻译
 
-[![challenge](../Images/0de04930606512cad595ae55ef8dab8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F13bY3Hc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gitlab.com/AntonyGarand/blogposts/raw/master/assets/challenge.png)
+[![challenge](img/0de04930606512cad595ae55ef8dab8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F13bY3Hc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gitlab.com/AntonyGarand/blogposts/raw/master/assets/challenge.png)
 
 附件包含了挑战本身的链接:[http://translate.ctfcompetition.com:1337](http://translate.ctfcompetition.com:1337)
 
@@ -27,21 +27,21 @@
 
 **指标**
 
-[![Challenge index](../Images/5adbd58fa97fe765caf2785e0cea9836.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4CyKDKNG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gitlab.com/AntonyGarand/blogposts/raw/master/assets/translate_index.png)
+[![Challenge index](img/5adbd58fa97fe765caf2785e0cea9836.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4CyKDKNG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gitlab.com/AntonyGarand/blogposts/raw/master/assets/translate_index.png)
 
 **添加翻译**
 
-[![Add translation](../Images/0fc919fe541d1c53705c1823a961346e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JBZmlUAz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gitlab.com/AntonyGarand/blogposts/raw/master/assets/add_translation.png)
+[![Add translation](img/0fc919fe541d1c53705c1823a961346e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JBZmlUAz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gitlab.com/AntonyGarand/blogposts/raw/master/assets/add_translation.png)
 
-[![Add translation result](../Images/60f567688832461ac874b5f04660a341.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8V6O0UZ1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gitlab.com/AntonyGarand/blogposts/raw/master/assets/add_translation_result.png)
+[![Add translation result](img/60f567688832461ac874b5f04660a341.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8V6O0UZ1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gitlab.com/AntonyGarand/blogposts/raw/master/assets/add_translation_result.png)
 
 **查看译文**
 
-[![View translation](../Images/c6324ca606e955c26964c57df70809ad.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5x2eCZRJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gitlab.com/AntonyGarand/blogposts/raw/master/assets/view_translation.png)
+[![View translation](img/c6324ca606e955c26964c57df70809ad.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5x2eCZRJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gitlab.com/AntonyGarand/blogposts/raw/master/assets/view_translation.png)
 
 **转储**
 
-[![Debug translation](../Images/3758bfb6e7807e72eba6e4fe889a7564.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iVkj14mL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gitlab.com/AntonyGarand/blogposts/raw/master/assets/debug_translations.png)
+[![Debug translation](img/3758bfb6e7807e72eba6e4fe889a7564.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iVkj14mL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gitlab.com/AntonyGarand/blogposts/raw/master/assets/debug_translations.png)
 
 ## 解决挑战
 
@@ -49,7 +49,7 @@
 
 当查看源代码时，我们可以注意到它是一个 AngularJS 应用程序:
 
-[![Source: Html containg ng-app attributes](../Images/10cbf276603b2391e9ec60591412efcf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--94EvrYCA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gitlab.com/AntonyGarand/blogposts/raw/master/assets/source_angular.png) 
+[![Source: Html containg ng-app attributes](img/10cbf276603b2391e9ec60591412efcf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--94EvrYCA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gitlab.com/AntonyGarand/blogposts/raw/master/assets/source_angular.png) 
 
 但奇怪的是，页面上没有 JavaScript，因为这个应用程序是服务器端呈现的。
 
@@ -57,7 +57,7 @@
 
 我的第一个尝试是添加一个包含 HTML 或角模板内容的单词:
 
-[![Translating test<img>](../Images/67da96eca153ba3e1022c4a1836d8898.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UdVGlGMP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gitlab.com/AntonyGarand/blogposts/raw/master/assets/translate_xss_test.png) 
+[![Translating test<img>](img/67da96eca153ba3e1022c4a1836d8898.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UdVGlGMP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gitlab.com/AntonyGarand/blogposts/raw/master/assets/translate_xss_test.png) 
 
 但是这个没有成功，因为它已经被杀毒了。
 
@@ -72,9 +72,9 @@
 与我们注入的单词不同，原始键内部的表达式被正确地渲染和求值。
 这个可以通过覆盖`translate`键来测试:
 
-[![Overwriting the translate keyword](../Images/a0bda1494d0d79a1b801070195b047e4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Nc0HB7R2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gitlab.com/AntonyGarand/blogposts/raw/master/assets/translate_xss_poc_1.png)
+[![Overwriting the translate keyword](img/a0bda1494d0d79a1b801070195b047e4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Nc0HB7R2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gitlab.com/AntonyGarand/blogposts/raw/master/assets/translate_xss_poc_1.png)
 
-[![Source of the overwrited keyword](../Images/46feec8f0eaebb437dc275efb4631f81.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--F8-0g1Xy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gitlab.com/AntonyGarand/blogposts/raw/master/assets/translate_xss_poc_2.png)
+[![Source of the overwrited keyword](img/46feec8f0eaebb437dc275efb4631f81.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--F8-0g1Xy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gitlab.com/AntonyGarand/blogposts/raw/master/assets/translate_xss_poc_2.png)
 
 因为我们可以用新的未赋值的值覆盖原来的 JSON 键，所以我们可以继续！
 
@@ -86,7 +86,7 @@
 
 当查看页脚源代码时，我们可以看到一个自定义的`my-include="static/footer.html"`属性。
 
-[![Source: Footer source containing my-include attribute](../Images/1a59af5cdff568002d9464aa8178a175.png)T5】](https://res.cloudinary.com/practicaldev/image/fetch/s--X2744wDs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gitlab.com/AntonyGarand/blogposts/raw/master/assets/footer_source.png)
+[![Source: Footer source containing my-include attribute](img/1a59af5cdff568002d9464aa8178a175.png)T5】](https://res.cloudinary.com/practicaldev/image/fetch/s--X2744wDs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gitlab.com/AntonyGarand/blogposts/raw/master/assets/footer_source.png)
 
 如果我们试图用`my-include="flag.txt"`创建自己的 div 会发生什么？
 
@@ -94,7 +94,7 @@
 
 这里是将`translate`翻译成`<div my-include="flag.txt"></div>`时的索引页:
 
-[![Error: Broken angular app](../Images/0100651a40d79645f2d13d4fa14ae274.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tH0aI_Jy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gitlab.com/AntonyGarand/blogposts/raw/master/assets/flag_error_include.png)
+[![Error: Broken angular app](img/0100651a40d79645f2d13d4fa14ae274.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tH0aI_Jy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gitlab.com/AntonyGarand/blogposts/raw/master/assets/flag_error_include.png)
 
 my-include 指令只允许我们读取`js`、`json`或`html`文件，而`flag.txt`文件不是这些格式。
 
@@ -214,7 +214,7 @@ app.directive('myInclude', ($compile, $sce, i18n) => {
 
 为值为`FLAG::{{i18n.template('flag.txt')}}::ENDFLAG`的`translate`添加翻译应该提取标志:
 
-[![Printed flag](../Images/5850cdf5e3b9abba18195690727c17d3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3tTzfFVa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gitlab.com/AntonyGarand/blogposts/raw/master/assets/flag.png)
+[![Printed flag](img/5850cdf5e3b9abba18195690727c17d3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3tTzfFVa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gitlab.com/AntonyGarand/blogposts/raw/master/assets/flag.png)
 
 # 参考文献
 

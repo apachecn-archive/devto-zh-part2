@@ -4,7 +4,7 @@
 
 容器正在成为部署软件的标准方式。每个云供应商现在都提供一种或多种方式在他们的平台上运行容器。我们的大多数客户使用 AWS 来托管他们的 SaaS 解决方案。作为我们一个客户的新发展的一部分，我们已经决定放弃[弹性豆茎](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html)而拥抱容器。亚马逊[弹性容器服务](https://aws.amazon.com/ecs/)是一项支持 Docker 容器的编排服务，通常提供一年以上。鉴于我们的开发团队规模较小，这似乎是最佳选择，因为它消除了大多数集群管理难题。在这篇文章中，我将描述我们如何使用 [CloudFormation](https://aws.amazon.com/cloudformation/) 将容器部署到 ECS。
 
-[![containers](../Images/409aa01d84634c620a01d8b36d6e5bb2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W3YjWHrK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ww8017v3xvbq9m8l6108.jpeg)
+[![containers](img/409aa01d84634c620a01d8b36d6e5bb2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W3YjWHrK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ww8017v3xvbq9m8l6108.jpeg)
 
 # ECS 集群定义
 

@@ -23,7 +23,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我得到了这个错误:
 
-[![Uncaught TypeError: timestamps.forEach is not a function](../Images/a8f82a6a9a15bb1c2fbf412248b8316a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LuMAGF5T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/400n160P2g1M/download/Image%25202018-06-08%2520at%25203.17.28%2520PM.png)
+[![Uncaught TypeError: timestamps.forEach is not a function](img/a8f82a6a9a15bb1c2fbf412248b8316a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LuMAGF5T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/400n160P2g1M/download/Image%25202018-06-08%2520at%25203.17.28%2520PM.png)
 
 最终，我意识到`timestamps`不是一个数组，它是一个*节点列表*，在 [mdn 文档](https://developer.mozilla.org/en-US/docs/Web/API/NodeList)的顶部，它清楚地声明:
 

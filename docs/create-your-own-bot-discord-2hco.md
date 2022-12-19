@@ -128,11 +128,11 @@ Enter fullscreen mode Exit fullscreen mode
 *   完成表格。完成后，点击“**创建应用程序**”，然后在同一按钮上再次点击**。**
 ***   点击**创建一个机器人用户**然后点击**是的，做吧！****
 
- **[![This is a preview](../Images/bcce9a5fa272754778a9ae9e965b3513.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cbgMW4oJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8016yfpogcurzb3gsjph.gif)
+ **[![This is a preview](img/bcce9a5fa272754778a9ae9e965b3513.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cbgMW4oJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8016yfpogcurzb3gsjph.gif)
 
 激活“模式”机器人
 
-[![This is a preview for activating the 'mode' bot](../Images/6b9d32c1759cb89e39b9f60adf3d6c65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--92L8uiVS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lcpkmvhiby8n61nsyykm.png)
+[![This is a preview for activating the 'mode' bot](img/6b9d32c1759cb89e39b9f60adf3d6c65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--92L8uiVS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lcpkmvhiby8n61nsyykm.png)
 
 对于权限，机器人需要读取服务器上的消息(消息内容意图)。
 
@@ -153,7 +153,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 复制令牌的示例:
 
-[![Screen of example of a copy token](../Images/c5dd1a5671be6715c10cd89e8154aaff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fNouYkPg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ywvuv78t9y0uv8fcabuz.png)
+[![Screen of example of a copy token](img/c5dd1a5671be6715c10cd89e8154aaff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fNouYkPg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ywvuv78t9y0uv8fcabuz.png)
 
 保存您的文件，并在命令提示符下执行该命令:
 
@@ -165,7 +165,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这就对了。你的机器人启动了！🎉
 
-[![Preview](../Images/d83e2faa75c1a6ae4f2d506d1a38c638.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MZBP91-E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jyjac7sagqzplicjvuy3.gif)
+[![Preview](img/d83e2faa75c1a6ae4f2d506d1a38c638.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MZBP91-E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jyjac7sagqzplicjvuy3.gif)
 
 * * *
 

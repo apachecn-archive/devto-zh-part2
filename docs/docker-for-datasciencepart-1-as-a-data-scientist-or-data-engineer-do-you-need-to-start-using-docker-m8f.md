@@ -14,7 +14,7 @@
 *   了解 Docker 在数据科学工作流程中可以为您提供哪些帮助，
 *   确定 Docker 是否非常适合您在数据科学工作流程中遇到的当前问题。
 
-[![Docker work](../Images/f1a5e89c144f4f2e8ba24f3f1ff27050.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d6fEY5wk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Ar8Re09WenAKyCTV4ZkFrpg.jpeg)
+[![Docker work](img/f1a5e89c144f4f2e8ba24f3f1ff27050.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d6fEY5wk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Ar8Re09WenAKyCTV4ZkFrpg.jpeg)
 
 随着时间的推移与 Docker 的经验。坚持住！
 

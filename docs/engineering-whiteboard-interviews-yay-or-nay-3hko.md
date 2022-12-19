@@ -4,7 +4,7 @@
 
 <figure>
 
-[![Whiteboard interviews](../Images/6a4b4e58ce968bb1d37b0982d289d783.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--on-hhoxO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mlqxginidbt3hv973z9w.jpg)
+[![Whiteboard interviews](img/6a4b4e58ce968bb1d37b0982d289d783.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--on-hhoxO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mlqxginidbt3hv973z9w.jpg)
 
 <figcaption>Photo by [Mark Rabe](https://unsplash.com/photos/zCJrolkwRyE) on Unsplash.</figcaption>
 

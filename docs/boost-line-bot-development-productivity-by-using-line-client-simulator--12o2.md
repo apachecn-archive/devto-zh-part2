@@ -8,7 +8,7 @@
 
 当然，LINE 为非移动平台发布了客户端应用，但当我与 bot 交互时，它受到了限制。
 
-[![image](../Images/a9378a3a7c2507e7034e3147ac48eead.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YUotD8bD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://msdnshared.blob.core.windows.net/media/2017/12/image_thumb78.png)
+[![image](img/a9378a3a7c2507e7034e3147ac48eead.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YUotD8bD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://msdnshared.blob.core.windows.net/media/2017/12/image_thumb78.png)
 
 # 模拟器
 
@@ -45,7 +45,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 。
 
-[![image](../Images/86fa0cb2811f9f25dead94efd7a2396c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BXL9gTJV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://msdnshared.blob.core.windows.net/media/2017/12/image_thumb284.png)
+[![image](img/86fa0cb2811f9f25dead94efd7a2396c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BXL9gTJV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://msdnshared.blob.core.windows.net/media/2017/12/image_thumb284.png)
 
 4.移到。\bin\Debug\netstandard2.0\并运行
 
@@ -53,11 +53,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 来运行函数。
 
-[![image](../Images/44fe94c9648064e8d61c36a4b5c806e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rvl8wE1L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://msdnshared.blob.core.windows.net/media/2017/12/image_thumb285.png)
+[![image](img/44fe94c9648064e8d61c36a4b5c806e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rvl8wE1L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://msdnshared.blob.core.windows.net/media/2017/12/image_thumb285.png)
 
 5.确认它运行没有任何错误。
 
-[![image](../Images/d8c033a8b4bdb32abe0f58857ce101eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--afdf_Jnh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://msdnshared.blob.core.windows.net/media/2017/12/image_thumb286.png)
+[![image](img/d8c033a8b4bdb32abe0f58857ce101eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--afdf_Jnh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://msdnshared.blob.core.windows.net/media/2017/12/image_thumb286.png)
 
 6.输入 F5 并连接到 dotnet.exe
 
@@ -81,11 +81,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 3.您会看到连接屏幕。输入必要的信息，然后单击连接。您可以从 LINE Developer Portal 获取密钥或用户 Id。
 
-[![image](../Images/502ca18a912cb49d6b1684c982021c19.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0543ewBE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://msdnshared.blob.core.windows.net/media/2017/12/image_thumb287.png)
+[![image](img/502ca18a912cb49d6b1684c982021c19.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0543ewBE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://msdnshared.blob.core.windows.net/media/2017/12/image_thumb287.png)
 
 4.一旦连接上，你就可以看到模拟器。使用聊天栏与您的机器人交谈。
 
-[![basic](../Images/96bf5c14ee621b1eeae86552626a4e30.png "basic")T2】](https://msdnshared.blob.core.windows.net/media/2017/12/basic.gif)
+[![basic](img/96bf5c14ee621b1eeae86552626a4e30.png "basic")T2】](https://msdnshared.blob.core.windows.net/media/2017/12/basic.gif)
 
 5.那么，您可以根据需要进行调试。
 

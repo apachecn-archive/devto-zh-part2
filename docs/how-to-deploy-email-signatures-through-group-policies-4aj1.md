@@ -20,7 +20,7 @@
 
 这是我的签名模板(`.html`文件)，占位符存储在所有用户都可以访问的共享位置:
 
-[![template](../Images/62b78b9754214fd70ca043528da90116.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4YKNugbz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uahgkygmndud9cct2sty.png)
+[![template](img/62b78b9754214fd70ca043528da90116.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4YKNugbz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uahgkygmndud9cct2sty.png)
 
 ### 2。PowerShell 脚本
 
@@ -52,7 +52,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果该脚本成功运行，您应该会在 AppData 文件夹中得到一个完整的签名，如下所示:
 
-[![signature](../Images/cf306e77794281fae834d71678ed76ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5pZWeRRQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t9wucevb5xxpj28649py.png)
+[![signature](img/cf306e77794281fae834d71678ed76ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5pZWeRRQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t9wucevb5xxpj28649py.png)
 
 ### 4。设置组策略
 

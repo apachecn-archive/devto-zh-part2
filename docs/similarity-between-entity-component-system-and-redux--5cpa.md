@@ -8,17 +8,17 @@
 
 我们使用 Redux，将所有数据作为单一状态树和单一事实来源进行管理。SST 是高度集中的，反对关注点分离。然而，我们将能够控制事情。
 
-[![React](../Images/2c959f9e158abd171e965b87d487fbbc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oWD7gs7O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wl4cy69ywiovz2wvjv5d.png)
+[![React](img/2c959f9e158abd171e965b87d487fbbc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oWD7gs7O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wl4cy69ywiovz2wvjv5d.png)
 
 我们可以说应用程序具有将状态映射到视图的功能，以及将前一状态映射到下一状态的功能。
 
 我最近了解了 Unity 的实体组件系统(ECS)。ECS 由实体、组件和系统组成，并带有组。实体类似于游戏对象，但它没有功能，只有数据。组件只是数据。系统是收集实体并利用其组件做一些事情的特征。Group 很有趣，它显示了具有指定组件的实体，并且它类似于 duck typing 的思想。例如在 A-Frame 中，[框实体=位置+几何+材质](https://aframe.io/docs/0.8.0/introduction/entity-component-system.html#examples)。
 
-[![ECS](../Images/cb8d1aa4c4849e97af75171dec7f5191.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DpT_l58O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x3c00lcfgentz0hqzq0g.png)
+[![ECS](img/cb8d1aa4c4849e97af75171dec7f5191.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DpT_l58O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x3c00lcfgentz0hqzq0g.png)
 
 我最初认为 ECS 就像是一个游戏组件的替代品。几天后，我注意到 ECS 和 Redux 很像！
 
-[![ECS2](../Images/5e12a6bb3a28f9eac64b0f6c677fb754.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C9VqHQth--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/clkkjnkh6koplgqzppog.png)
+[![ECS2](img/5e12a6bb3a28f9eac64b0f6c677fb754.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C9VqHQth--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/clkkjnkh6koplgqzppog.png)
 
 所以实体和组件就是状态。系统是减速器和副作用。组是选择器。场景图现在 SST！
 

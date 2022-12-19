@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/missismada/build-the-in-app-messaging-experience-your-users-deserve-3ed>
 
-[![](../Images/592369f4a6146f4fce969016f784a637.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SPLtkPxG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_555AD640454613DEE353638D6F9175725E9D37F0FBC12EAA963DF4DCE9C88EC6_1541101565485_twitter-post_1024x512.png)
+[![](img/592369f4a6146f4fce969016f784a637.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SPLtkPxG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_555AD640454613DEE353638D6F9175725E9D37F0FBC12EAA963DF4DCE9C88EC6_1541101565485_twitter-post_1024x512.png)
 
 在过去的一年里，我们一直在努力扩展我们的基础设施，并根据我们从 8，000 多名测试人员那里收到的反馈开发新功能。今天，我们很高兴地宣布，聊天工具已正式上市。
 

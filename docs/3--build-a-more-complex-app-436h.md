@@ -14,7 +14,7 @@
 
 这是一个为新创业公司生成潜在名称的应用程序。我们可以利用这一点来学习以下关键概念:
 
-*   ***视图&布局****——我们将在* [中构建一个此图像](https://flutter.io/get-started/codelab/images/startup-namer-app.gif)
+*   ***视图&布局****——我们将在* [中构建一个此图像](https://flutter.io/get-started/codelimg/startup-namer-app.gif)
 *   ***交互事件&处理*** *—用户可以选择/取消选择姓名*
 *   ***无限滚动，懒懒加载列表****——在滚动 ups 上一次添加 10 个*
 *   ***主题化*** (如何改变 UI 的观感)
@@ -187,7 +187,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 颤振开发的牛逼之处在于模拟器/仿真器通过*死亡红屏即时提供反馈。*这些描述非常详细，让您深入了解问题所在。
 
-<figure>[![](../Images/f65ec9caacdc32349a433d5eb689a9fd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ENGY8xBb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/974/1%2AxwP6l8FtAOUAIPT9-d84lQ.png) 
+<figure>[![](img/f65ec9caacdc32349a433d5eb689a9fd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ENGY8xBb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/974/1%2AxwP6l8FtAOUAIPT9-d84lQ.png) 
 
 <figcaption>死亡的红幕</figcaption>
 

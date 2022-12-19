@@ -34,7 +34,7 @@ popup.showAtLocation(getWindow().getDecorView(), Gravity.BOTTOM, 0, 0);
 Enter fullscreen mode Exit fullscreen mode
 
 在我的项目中，我集成了 AdMob 的 Banner SDK。它与测试 ad-uint-id 配合得非常好。下面是我的游戏截图:
-[![Shoot Stack](../Images/8e8c2df4f9fa465dfaee6b76c5339474.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--043QAoWz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fdxs3gr7uivx4polaox7.png)
+[![Shoot Stack](img/8e8c2df4f9fa465dfaee6b76c5339474.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--043QAoWz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fdxs3gr7uivx4polaox7.png)
 
 我已经发布了 MAC 版和 Android 版。你可以从 itch . io:[https://ntop.itch.io/shootingblock](https://ntop.itch.io/shootingblock)获得 MAC 版本，或者从 https://play.google.com/store/apps/details?的 GooglePlay: [下载 id=io.korok.shootingblock](https://play.google.com/store/apps/details?id=io.korok.shootingblock)
 

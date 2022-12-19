@@ -106,7 +106,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您应该会在`http://localhost:4200`看到如下所示的屏幕。
 
-[![Default Homepage](../Images/396d66d9bedec575d80d4b4f946d4257.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pD0TA3X1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/angular-oidc/default-homepage-073f9f7599c154d38e19f7358a85622bcab268bde6623d640d31349957113934.png)
+[![Default Homepage](img/396d66d9bedec575d80d4b4f946d4257.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pD0TA3X1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/angular-oidc/default-homepage-073f9f7599c154d38e19f7358a85622bcab268bde6623d640d31349957113934.png)
 
 你可以确保你的新项目测试通过，运行`ng test` :
 
@@ -187,7 +187,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果你还在运行`ng serve`，你的浏览器应该会自动刷新。如果没有，导航至`http://localhost:4200`。您可能会看到一个空白屏幕。打开您的 JavaScript 控制台，您就会看到问题。
 
-[![ngModel error](../Images/e91410270ca8842d331db35b40979d68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A4fk-ku7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/angular-oidc/ngmodel-error-b52e91e6cbf9cd3ce3da38d98782ba85b170db2428c01a1033c29cc2d16a0156.png)
+[![ngModel error](img/e91410270ca8842d331db35b40979d68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A4fk-ku7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/angular-oidc/ngmodel-error-b52e91e6cbf9cd3ce3da38d98782ba85b170db2428c01a1033c29cc2d16a0156.png)
 
 要解决这个问题，打开`src/app/app.module.ts`，在`@NgModule` :
 中添加`FormsModule`作为导入
@@ -210,7 +210,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在您应该会看到搜索表单。
 
-[![Search component](../Images/97b40e2989f061a503c82e67205d4fb8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--64UNKlLV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/angular-oidc/search-without-css-3add5390962f7e49a1396554acd0028db32a55cef92e3a769d1de70039557e33.png)
+[![Search component](img/97b40e2989f061a503c82e67205d4fb8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--64UNKlLV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/angular-oidc/search-without-css-3add5390962f7e49a1396554acd0028db32a55cef92e3a769d1de70039557e33.png)
 
 如果你想为这个组件添加 CSS，打开`src/app/search/search.component.css`并添加一些 CSS。比如:
 
@@ -419,7 +419,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在搜索结果看起来更好了。
 
-[![Search Results](../Images/9ba4171ce39db65ba7aacdc63d6ac5f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NJGTKIlr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/angular-oidc/search-results-3114cf1b3c0183acf5f1167103a31fcdfdaa0e278e8a4bf6bc157c3e2ce83fd3.png)
+[![Search Results](img/9ba4171ce39db65ba7aacdc63d6ac5f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NJGTKIlr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/angular-oidc/search-results-3114cf1b3c0183acf5f1167103a31fcdfdaa0e278e8a4bf6bc157c3e2ce83fd3.png)
 
 但是等等，你还是没有搜索功能！要添加一个搜索特性，需要在`SearchService`中添加一个`search()`方法。
 
@@ -649,7 +649,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 此时，您应该能够搜索一个人并更新他们的信息。
 
-[![Edit form](../Images/fcd14ebe542c5cdcf363ef5b114007af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eyy0sb1W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/angular-oidc/edit-form-10b0875bcaa67f5033d69190b1052321da3a905a75ed59e65c5a0822c3cec42e.png)
+[![Edit form](img/fcd14ebe542c5cdcf363ef5b114007af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eyy0sb1W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/angular-oidc/edit-form-10b0875bcaa67f5033d69190b1052321da3a905a75ed59e65c5a0822c3cec42e.png)
 
 `src/app/edit/edit.component.html`中的`<form>`调用`save()`函数来更新一个人的数据。您已经在上面实现了这一点。
 该函数调用一个`gotoList()`函数，当用户返回到搜索屏幕时，该函数将这个人的名字附加到 URL 上。
@@ -735,7 +735,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 做出这些更改后，任何带有`required`属性的字段都将是必需的。
 
-[![Edit form with validation](../Images/211420863e3d24834cfe832ecd7e4a8b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EEULLf5C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/angular-oidc/edit-form-validation-f082b5b4d30d382d746e72e8039354367bf250ab30dbca0912b5856596f7faac.png)
+[![Edit form with validation](img/211420863e3d24834cfe832ecd7e4a8b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EEULLf5C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/angular-oidc/edit-form-validation-f082b5b4d30d382d746e72e8039354367bf250ab30dbca0912b5856596f7faac.png)
 
 在这个屏幕截图中，您可能会注意到地址栏是空白的。这是由您的控制台中的错误解释的。
 
@@ -764,7 +764,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，值应该显示在所有字段中，并且`name`应该是必需的。
 
-[![Edit form with names and validation](../Images/86bc2883f01ddb5f25a1d5ff300909a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J71UTV7p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/angular-oidc/edit-form-names-cb13cfc33184a14c341f67e1e833e5491e83dac660e218b650096208d03304c2.png)
+[![Edit form with names and validation](img/86bc2883f01ddb5f25a1d5ff300909a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J71UTV7p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/angular-oidc/edit-form-names-cb13cfc33184a14c341f67e1e833e5491e83dac660e218b650096208d03304c2.png)
 
 如果您想提供自己的验证消息，而不是依赖于浏览器的，请完成以下步骤:
 
@@ -791,7 +791,7 @@ OpenID Connect (OIDC)建立在 OAuth 2.0 协议之上。它允许客户端验证
 
 登录你的 Okta 账户，或者[创建一个](https://developer.okta.com/signup/)，如果你没有的话。导航至**应用程序**并点击**添加应用程序**按钮。选择 **SPA** 并点击下一个的**。在下一页中，将`http://localhost:4200`指定为基本 URI，登录重定向 URI，注销重定向 URI。点击**完成**，您应该会看到如下设置。**
 
-[![OIDC App Settings](../Images/298bbdce8d83237bf95964ddc089631f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3lIuDtnY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/angular-oidc/oidc-settings-c85c854f381bdca5d4d8835918918ecc20f5721de75db8797daa4e427c741941.png)
+[![OIDC App Settings](img/298bbdce8d83237bf95964ddc089631f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3lIuDtnY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/angular-oidc/oidc-settings-c85c854f381bdca5d4d8835918918ecc20f5721de75db8797daa4e427c741941.png)
 
 使用 npm 将 [Manfred Steyer 的](https://github.com/manfredsteyer)项目安装到[添加 OAuth 2 和 OpenID 连接支持](https://github.com/manfredsteyer/angular-oauth2-oidc)。你还需要 [rxjs-compat](https://www.npmjs.com/package/rxjs-compat) ，因为这个库还没有升级到 RxJS 6。
 
@@ -936,15 +936,15 @@ Enter fullscreen mode Exit fullscreen mode
 
 完成这些更改后，您应该能够运行`ng serve`并看到一个登录按钮。
 
-[![Login button](../Images/8c4831f4ccf0ebe522bd6f9058c956d0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bp2Xk2QA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/angular-oidc/okta-login-button-2ee8674edc8ecbf88bbffac2b40d223797622773da3f8def4135480b3e4923b9.png)
+[![Login button](img/8c4831f4ccf0ebe522bd6f9058c956d0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bp2Xk2QA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/angular-oidc/okta-login-button-2ee8674edc8ecbf88bbffac2b40d223797622773da3f8def4135480b3e4923b9.png)
 
 点击**登录**按钮，用 Okta 应用程序中配置的一个人登录。
 
-[![Okta Login form](../Images/28720af1acf69fd3cee6647af37c0e3f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kufFDk6G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/angular-oidc/okta-login-form-d1905a5f3128aedff316a1730e5f7f54076c0fa739cc8b3ac7101144ddf28980.png)
+[![Okta Login form](img/28720af1acf69fd3cee6647af37c0e3f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kufFDk6G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/angular-oidc/okta-login-form-d1905a5f3128aedff316a1730e5f7f54076c0fa739cc8b3ac7101144ddf28980.png)
 
 登录后，您可以点击*搜索*并查看联系人信息。
 
-[![View after login](../Images/e50146376f9adee60f00cfdf33a3000e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1CwoXOLj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/angular-oidc/okta-post-login-2c35ca453a4755d0ad3b0ce4717885a735bb43e1c1dfdb26b7aba3af74de8460.png)
+[![View after login](img/e50146376f9adee60f00cfdf33a3000e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1CwoXOLj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/angular-oidc/okta-post-login-2c35ca453a4755d0ad3b0ce4717885a735bb43e1c1dfdb26b7aba3af74de8460.png)
 
 如果成功了-太好了！如果你想在你的应用中构建自己的登录表单，继续阅读了解如何使用 [Okta Auth SDK](https://github.com/okta/okta-auth-js) 和`OAuthService`。
 
@@ -1104,7 +1104,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 做出这些更改后，`HomeComponent`应该呈现如下。
 
-[![Custom sign-in form](../Images/e765222c8edf0c8e543fc9b3cf3000a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bkSKc70k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/angular-oidc/sign-in-form-f5e01d92405613c4a90eb61ed8974d98e290034eca19dbbe1efbd89a05f8fe56.png)
+[![Custom sign-in form](img/e765222c8edf0c8e543fc9b3cf3000a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bkSKc70k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/angular-oidc/sign-in-form-f5e01d92405613c4a90eb61ed8974d98e290034eca19dbbe1efbd89a05f8fe56.png)
 
 为用户名和密码字段添加局部变量，导入`OktaAuthWrapper`，并在`HomeComponent`中实现一个`loginWithPassword()`方法。
 
@@ -1129,7 +1129,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您应该能够使用应用程序的一个注册用户使用该表单登录。登录后，您可以点击**搜索**链接，查看人们的信息。
 
-[![View after sign-in](../Images/9bb854bdb51f670aac2fbc79cff43e74.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C8mysX2S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/angular-oidc/sign-in-form-success-c2d36d789b09ab7078b25115bf5b7e980843e6cad8759996b9c69286a4b458de.png)
+[![View after sign-in](img/9bb854bdb51f670aac2fbc79cff43e74.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C8mysX2S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/angular-oidc/sign-in-form-success-c2d36d789b09ab7078b25115bf5b7e980843e6cad8759996b9c69286a4b458de.png)
 
 ## 角+八度
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jexiacom/master-the-world-of-golang---issue-11-h06>
 
-[![](../Images/8d074d9e68f59ef805ce7087574ae795.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oNBWwDlc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8iykftgune5q747g07p5.jpg)
+[![](img/8d074d9e68f59ef805ce7087574ae795.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oNBWwDlc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8iykftgune5q747g07p5.jpg)
 
 每周[马尔滕·贝泽默](https://medium.com/@veger)7 月 15 日[免费加入](https://www.getrevue.co/profile/golang/issues/master-the-world-of-golang-issue-9-120281?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Master+the+World+of+Golang)或添加[时事通讯 rss](http://fetchrss.com/rss/5b27d6348a93f858388b4567878277344.xml)
 

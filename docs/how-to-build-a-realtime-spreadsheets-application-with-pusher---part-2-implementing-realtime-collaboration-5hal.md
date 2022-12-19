@@ -6,7 +6,7 @@
 
 在本文中，我们将通过添加实时协作功能，使我们的应用程序功能更接近 Google Sheets。这意味着多个用户可以同时在同一个工作表中工作，并且他们的更改会立即显示在所有其他窗口中。以下是最终结果的一瞥:
 
-[![](../Images/bf93c9d533387eff7ca1ddd06629395a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n2GPnbX---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_91E250D49C2F46522A90C69B0F2BA43B443748C32F623C6DFC50A0C7F5A0C71E_1524778753133_building-realtime-spreadsheets-app-laravel.gif)
+[![](img/bf93c9d533387eff7ca1ddd06629395a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n2GPnbX---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_91E250D49C2F46522A90C69B0F2BA43B443748C32F623C6DFC50A0C7F5A0C71E_1524778753133_building-realtime-spreadsheets-app-laravel.gif)
 
 ## 先决条件
 

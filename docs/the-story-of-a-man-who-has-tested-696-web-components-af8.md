@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/thisisbinh/the-story-of-a-man-who-has-tested-696-web-components-af8>
 
-[![](../Images/1d5e309f8bd6e95a8e8b54920b7fb90d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cwenuaYN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vliu7bnu9v85drbhnjhy.png)
+[![](img/1d5e309f8bd6e95a8e8b54920b7fb90d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cwenuaYN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vliu7bnu9v85drbhnjhy.png)
 
 ###### *图片来源:DZone*
 
@@ -60,7 +60,7 @@ Safari Tech Preview、Chrome Canary、Firefox Nightly 和 Opera 是我用来测�
 
 一定要去看看！
 
-[![](../Images/62e863ed6876294dffa073ad94bc975f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BnHbkpMC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/thj4s4i0vhvmujh8fcyl.png)
+[![](img/62e863ed6876294dffa073ad94bc975f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BnHbkpMC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/thj4s4i0vhvmujh8fcyl.png)
 
 ## 最终字
 

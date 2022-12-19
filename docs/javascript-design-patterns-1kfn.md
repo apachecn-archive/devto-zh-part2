@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/javascript-design-patterns-1kfn>
 
-[![](../Images/973435d5b7102b0c581556ff4c074215.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xdTo058P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AgHzJ4qDXA5jvxRfFBlBNiA.jpeg)
+[![](img/973435d5b7102b0c581556ff4c074215.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xdTo058P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AgHzJ4qDXA5jvxRfFBlBNiA.jpeg)
 
 #### 目标
 
@@ -17,7 +17,7 @@
 
 这似乎是显而易见的，但是使用特定类型的设计模式确实应该有一个很好的理由。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 #### 为什么要考虑在 Javascript 中使用设计模式？
 
@@ -445,7 +445,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是一个演示，展示了我们如何使用观察者模式。源代码也可以在[这里](https://codepen.io/seunboy/pen/ePxVQJ)找到。
 
-<figure>[![](../Images/fdd89dc91957f36760221e8912d71794.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--aVz5fgPX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/830/1%2AoaVDUmcZ9sw8q9R65M9ZBA.gif) 
+<figure>[![](img/fdd89dc91957f36760221e8912d71794.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--aVz5fgPX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/830/1%2AoaVDUmcZ9sw8q9R65M9ZBA.gif) 
 
 <figcaption>观察者模式演示</figcaption>
 
@@ -465,7 +465,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-<figure>[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+<figure>[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption></figcaption>
 

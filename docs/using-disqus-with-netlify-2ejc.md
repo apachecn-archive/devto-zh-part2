@@ -6,7 +6,7 @@
 
 # Netlify
 
-[![Netlify Logo](../Images/c5c580fc7d87f421a3fa33d8da2271a6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y7zoe1OX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://youknowfordevs.com/images/uploads/netlify.svg)
+[![Netlify Logo](img/c5c580fc7d87f421a3fa33d8da2271a6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y7zoe1OX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://youknowfordevs.cimg/uploads/netlify.svg)
 
 Netlify 很棒。在[寻找理想的博客平台](https://dev.to/2012/02/24/choosing-a-blogging-platform/)中，它拥有完美的架构。
 
@@ -18,13 +18,13 @@ Netlify 很棒。在[寻找理想的博客平台](https://dev.to/2012/02/24/choo
 
 但是有趣的地方就在这里。Netlify 在其构建过程中构建了一整套功能，可以帮助您管理*生成的*博客，而无需修改回购本身。例如，您可以在博客中添加表单和登录信息。
 
-[![AWS Lambda Logo](../Images/f5d8fabad09746762807f9cbd6f200f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ifx7xrUT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://youknowfordevs.com/images/uploads/aws-lambda.jpeg)
+[![AWS Lambda Logo](img/f5d8fabad09746762807f9cbd6f200f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ifx7xrUT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://youknowfordevs.cimg/uploads/aws-lambda.jpeg)
 
 如果你想让网站超越博客，进入应用领域，你甚至可以添加 AWS Lamda 函数。
 
 # 使用网络代码片段
 
-[![Disqus Logo](../Images/b4671391f7644af5cfcdb2d683f02425.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o3Em4xqr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://youknowfordevs.com/images/uploads/disqus.svg)
+[![Disqus Logo](img/b4671391f7644af5cfcdb2d683f02425.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o3Em4xqr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://youknowfordevs.cimg/uploads/disqus.svg)
 
 在 Netlify 中获得 Disqus 的最简单的方法是创建一个片段。只需将 Disqus 指令中的代码粘贴到[通用嵌入代码](https://help.disqus.com/installation/universal-embed-code)中。
 
@@ -55,7 +55,7 @@ disqus:
 
 Jekyll 不会在预览站点中添加正确的代码片段，但在生产模式下生成站点时会添加。这在 Netlify 中很容易做到，只需在您站点的*设置*的*构建环境变量*部分将`JEKYLL_ENV`设置为值`production`:
 
-[![Set JEKYL_ENV in Netlify](../Images/8aa9f985d2f0b3a0973f6575bd0b1b37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--87vfF_91--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://youknowfordevs.com/images/uploads/set-jekyll_env-netlify.png)
+[![Set JEKYL_ENV in Netlify](img/8aa9f985d2f0b3a0973f6575bd0b1b37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--87vfF_91--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://youknowfordevs.cimg/uploads/set-jekyll_env-netlify.png)
 
 一旦添加了 config 和环境变量，结果是 Jekyll 在`article`标签的末尾嵌入了正确的代码片段(看起来比在`body`的末尾整洁得多),并且页面的 URL 和唯一标识符被添加到用于与 Disqus 后端通信的配置中。
 

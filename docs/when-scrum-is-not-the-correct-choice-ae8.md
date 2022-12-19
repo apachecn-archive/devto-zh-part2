@@ -30,4 +30,4 @@
 你如何看待这个博客应该被命名为“当你没有正确使用 SCRUM 的时候”，但是这个名字已经决定了，希望这个小的常见错误列表能帮助你更好地理解 SCRUM，并与你的团队分享，看看你是否在正确的道路上。
 
 **在我们信任的代码里！**
-[![Alt text of image](../Images/836d1dd54ae43a4cb78f307225aab756.png)T5】](https://res.cloudinary.com/practicaldev/image/fetch/s--k2usK0Oz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/20zcz2fdx2k7ha9a4iaw.png)
+[![Alt text of image](img/836d1dd54ae43a4cb78f307225aab756.png)T5】](https://res.cloudinary.com/practicaldev/image/fetch/s--k2usK0Oz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/20zcz2fdx2k7ha9a4iaw.png)

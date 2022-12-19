@@ -67,19 +67,19 @@
 
 ## Pics 还是没发生！
 
-[![Landing page](../Images/dc24adb19a23085f0f81655a28e06fcc.png "Landing page")
+[![Landing page](img/dc24adb19a23085f0f81655a28e06fcc.png "Landing page")
 T3】](https://simon-hofmann.org/img/landing.png)
 
-[![Menu drawer](../Images/c057962480c67e54cf894ad8caaf1d0c.png "Menu drawer")
+[![Menu drawer](img/c057962480c67e54cf894ad8caaf1d0c.png "Menu drawer")
 T3】](https://simon-hofmann.org/img/drawer.png)
 
-[![Time table](../Images/f4c2a2216f3031ac20e71b7cb05401b1.png "Time table")
+[![Time table](img/f4c2a2216f3031ac20e71b7cb05401b1.png "Time table")
 T3】](https://simon-hofmann.org/img/timetable.png)
 
-[![Menu](../Images/f2ad6e190c7b76cb275375bf2ea57aa5.png "Menu")
+[![Menu](img/f2ad6e190c7b76cb275375bf2ea57aa5.png "Menu")
 T3】](https://simon-hofmann.org/img/menu.png)
 
-[![Image stream](../Images/768d81dcf954902f667ce3843135327d.png "Image stream")
+[![Image stream](img/768d81dcf954902f667ce3843135327d.png "Image stream")
 T3】](https://simon-hofmann.org/img/image_stream.png)
 
 ## 结论

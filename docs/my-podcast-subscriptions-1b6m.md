@@ -6,7 +6,7 @@
 
 但首先，宋的帖子:
 
-[![dance2die image](../Images/468efb35d9e51b70de31c7071d198e22.png)](/dance2die) [## 我的播客订阅
+[![dance2die image](img/468efb35d9e51b70de31c7071d198e22.png)](/dance2die) [## 我的播客订阅
 
 ### sung m . Kim 9 月 1 日 184 分钟阅读
 

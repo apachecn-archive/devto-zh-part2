@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/raddevon/5-tools-to-help-web-developers-overcome-imposter-syndrome-44aj>
 
-[![Trick-or-treaters](../Images/69cf112bafcfba68e7a8606ed8c4657a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2UisdifU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/10/trick-or-treaters.jpg)
+[![Trick-or-treaters](img/69cf112bafcfba68e7a8606ed8c4657a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2UisdifU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/10/trick-or-treaters.jpg)
 
 你有没有过这样的感觉:每天都是万圣节，而你是一名网络开发人员？
 

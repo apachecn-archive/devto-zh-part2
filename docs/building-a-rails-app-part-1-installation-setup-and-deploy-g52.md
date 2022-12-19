@@ -180,7 +180,7 @@ Use Ctrl-C to stop
 
 太好了！您的应用程序现在运行在端口 3000 上。如果您在浏览器中访问 [http://localhost:3000](http://localhost:3000) ，您将看到:
 
-[![](../Images/ce8d1842669e4cba0dc6a3f3fbdaf847.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jqVsV0At--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0z6feea2y9x12ak2w5ke.png)
+[![](img/ce8d1842669e4cba0dc6a3f3fbdaf847.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jqVsV0At--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0z6feea2y9x12ak2w5ke.png)
 
 太棒了，一切都准备好了，我们可以开始编码了。但在此之前，我们将通过更多的高级理论来更好地理解 Rails。
 
@@ -192,7 +192,7 @@ Rails 框架遵循模型-视图-控制器架构模式。*模型*负责应用程�
 
 这需要一个非常简单的示意图:
 
-[![](../Images/7dc492c2c08371d49b34e76b065dd69c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9pQXh096--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y86puz7rxorjgph3a7gj.png)
+[![](img/7dc492c2c08371d49b34e76b065dd69c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9pQXh096--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y86puz7rxorjgph3a7gj.png)
 
 如你所见，控制器位于所有东西的中间。如果您查看 tour app/ folder 内部，您会发现三种类型的模块(控制器/、模型/、视图/)之间的区别。让我们创建我们的第一个控制器。
 
@@ -231,7 +231,7 @@ end
 
 我们的控制器名为*欢迎*，我们的动作名为*问候*。保存文件并刷新浏览器:
 
-[![](../Images/6643b4b2eb0c466b73f0399252524793.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zgEX2jfW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vx8l2gn8jy7rfyj7nhky.png)
+[![](img/6643b4b2eb0c466b73f0399252524793.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zgEX2jfW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vx8l2gn8jy7rfyj7nhky.png)
 
 太好了！这是一个好的开始。现在，让我们部署我们的应用程序！
 
@@ -356,6 +356,6 @@ https://aqueous-peak-82306.herokuapp.com/ | https://git.heroku.com/aqueous-peak-
 
 要在 Heroku 上部署，运行`git push heroku master`。你会看到一堆东西出现在你的终端里。完成后，你可以进入你的 Heroku 账户仪表板，看到你的应用程序的子域名。点击它，然后点击右上角的*打开应用*。这是你将会看到的:
 
-[![](../Images/3c74f1e90e6f7e673b8ae35e64919745.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t-qcgwgK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vxmdqniap6zhfwuo5yvp.png)
+[![](img/3c74f1e90e6f7e673b8ae35e64919745.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t-qcgwgK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vxmdqniap6zhfwuo5yvp.png)
 
 恭喜你！您刚刚在 Heroku 上部署了您的第一个 Rails 应用程序，并且学习了如何制作您的第一个控制器！

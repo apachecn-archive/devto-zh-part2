@@ -10,7 +10,7 @@
 
 因此，我可以使用一个 CLI 命令检查我所有存储库上的流量:
 
-[!["github-traffic-cli" Screenshot](../Images/0c20fe69ded2c735a7e8c84a039ff6ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5O8sd5nP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.mokkapps.de/blog/img/github-traffic-cli.png)
+[!["github-traffic-cli" Screenshot](img/0c20fe69ded2c735a7e8c84a039ff6ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5O8sd5nP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.mokkapps.de/blog/img/github-traffic-cli.png)
 
 # 开发&发布 npm 包
 

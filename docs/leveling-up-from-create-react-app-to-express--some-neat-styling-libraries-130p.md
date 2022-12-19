@@ -4,7 +4,7 @@
 
 两个月后——是我写第二篇文章的时候了！你可以在这里 阅读我之前关于可视化斐波那契[的文章。](https://dev.to/daniel40392/visualizing-fibonacci-for-the-music-lover-in-you-2609)
 
-[![Website Screenshot](../Images/39af7b451b018dc7a6b69f719f476c8b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KWWUkZhD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mv5l79mtnvqpz8r65ahh.png) 
+[![Website Screenshot](img/39af7b451b018dc7a6b69f719f476c8b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KWWUkZhD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mv5l79mtnvqpz8r65ahh.png) 
 [链接到直播站点](https://cat-ui.herokuapp.com/)
 
 ## 项目
@@ -130,7 +130,7 @@ Enter fullscreen mode Exit fullscreen mode
 ```
 app.get("/cat", function(req, res) {
   axios
-    .get("http://thecatapi.com/api/images/get")
+    .get("http://thecatapi.com/aimg/get")
     .then(data => res.send(data.request.res.responseUrl))
     .catch(err => console.log(err));
 }); 

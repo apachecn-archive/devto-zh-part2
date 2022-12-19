@@ -24,11 +24,11 @@
 
 根据 Page-Jones 的说法，这些设计标准控制着结构化编程中出现的[级封装](https://books.google.es/books?id=iNAezyMExBkC&pg=PA210&lpg=PA210&dq=levels+of+encapsulation&source=bl&ots=BLv-66F9xq&sig=vaJWjQYq1Bc3_0MHQSKza5y7BiU&hl=en&sa=X&ved=0ahUKEwjF_cy7l-rQAhUBXhQKHSsoCJoQ6AEILjAC#v=onepage&q=levels%20of%20encapsulation&f=false)之间的交互:1 级封装(子程序)和 0 级封装(代码行)，这可以从下面的表格中从[UML 中面向对象设计的基础](https://www.amazon.com/Fundamentals-Object-Oriented-Design-Meilir-Page-Jones/dp/020169946X/ref=asap_bc?ie=UTF8)中看出。
 
-[![alt text](../Images/a21e779dfe9315b2be0f90190a859505.png "Encapsulation levels and design criteria in structured programming")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1cQRiKND--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rt22s4vavo705xwhlt5a.png)
+[![alt text](img/a21e779dfe9315b2be0f90190a859505.png "Encapsulation levels and design criteria in structured programming")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1cQRiKND--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rt22s4vavo705xwhlt5a.png)
 
 然而，OO 至少引入了二级封装(类)，它将一级结构(方法)和属性封装在一起。这在封装级别之间引入了许多新的相互依赖，这将需要定义新的设计标准(参见下面的表格[UML](https://www.amazon.com/Fundamentals-Object-Oriented-Design-Meilir-Page-Jones/dp/020169946X/ref=asap_bc?ie=UTF8)中面向对象设计的基础)。
 
-[![alt text](../Images/80094d4ff91a417aeccd9b793d3ef3cc.png "Encapsulation levels and design criteria in OO")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NefbRDE---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9w7o8z64cdjvqjewkrzv.png)
+[![alt text](img/80094d4ff91a417aeccd9b793d3ef3cc.png "Encapsulation levels and design criteria in OO")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NefbRDE---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9w7o8z64cdjvqjewkrzv.png)
 
 其中两个新的设计标准是**类内聚**和**类耦合**，它们类似于结构化编程的过程内聚和过程耦合，但是，正如你所看到的，表中还有其他一些标准甚至没有名称。
 
@@ -99,7 +99,7 @@ Page-Jones 谈到了**相关性**的两个重要属性，这有助于衡量它�
 
 凯文·卢瑟福的下图展示了我们之前看到的**共生**的不同形式，但是按照强度递减排序。
 
-[![alt text](../Images/84e4bc289f48ec259992a7f7ec42f6f1.png "Connascence forms sorted by descending strength (from Kevin Rutherford's XP Surgery)")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r2h6CPqj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8hqgxh8yoxc759o0gs0i.png)
+[![alt text](img/84e4bc289f48ec259992a7f7ec42f6f1.png "Connascence forms sorted by descending strength (from Kevin Rutherford's XP Surgery)")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r2h6CPqj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8hqgxh8yoxc759o0gs0i.png)
 
 ### 5。相关性、设计原则和重构。
 

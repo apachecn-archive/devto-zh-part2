@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ryanhaber/how-to-request-feedback---and-get-it-4i0c>
 
-[![How to Request Feedback - and Get It](../Images/ef15ff7713db8d6f7d06d4f34494b5e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RuIftULr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://api-ambassador.ghost.io/content/images/2018/02/tax2-emailmessaging-howto-57f7af37a00c18a0426919bd.png)
+[![How to Request Feedback - and Get It](img/ef15ff7713db8d6f7d06d4f34494b5e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RuIftULr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://api-ambassador.ghost.io/conteimg/2018/02/tax2-emailmessaging-howto-57f7af37a00c18a0426919bd.png)
 
 技术作家知道如何使文档和图表有用。这是我们的技能和专业知识。很多时候，我们对我们正在记录的东西并不了解——至少，在我们很好地进入过程之前，我们并不了解。在某种程度上，许多人也是如此。我们都必须和比我们知道的更多的人一起工作。我们需要请他们验证我们的工作是正确的。我们需要从他们身上学到谷歌上找不到或在公司维基上找不到的东西。
 
@@ -12,7 +12,7 @@
 
 再也没有回音。
 
-[![How to Request Feedback - and Get It](../Images/05731293ee6c33d564dd63982e6ffedd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hN9M81KZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1509967733342-437077d8e41a%3Fixlib%3Drb-0.3.5%26q%3D80%26fm%3Djpg%26crop%3Dentropy%26cs%3Dtinysrgb%26w%3D1080%26fit%3Dmax%26ixid%3DeyJhcHBfaWQiOjExNzczfQ%26s%3De209e0e743ca267a74f27849dbda8e7c) 
+[![How to Request Feedback - and Get It](img/05731293ee6c33d564dd63982e6ffedd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hN9M81KZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1509967733342-437077d8e41a%3Fixlib%3Drb-0.3.5%26q%3D80%26fm%3Djpg%26crop%3Dentropy%26cs%3Dtinysrgb%26w%3D1080%26fit%3Dmax%26ixid%3DeyJhcHBfaWQiOjExNzczfQ%26s%3De209e0e743ca267a74f27849dbda8e7c) 
 
 <small>照片由[优雅的 Thika](https://unsplash.com/@elegancethika?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit) / [Unsplash](https://unsplash.com/?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit)</small>
 
@@ -74,7 +74,7 @@
 
 你通常被允许走到同事的办公桌前，亲自和他们交谈。或者打电话。或者使用虚拟存在设备来引起他们的注意。或者什么的。
 
-[![How to Request Feedback - and Get It](../Images/3c60ef0d5d6784f5833a752796265c11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uzCsU8JJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://api-ambassador.ghost.io/content/images/2018/02/ryan-beam.jpg)
+[![How to Request Feedback - and Get It](img/3c60ef0d5d6784f5833a752796265c11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uzCsU8JJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://api-ambassador.ghost.io/conteimg/2018/02/ryan-beam.jpg)
 
 如果你这么做很开心，也很体贴，他们可能不会介意。你可以开始建立一种长期关系，让他们*希望*尽快回复你。
 

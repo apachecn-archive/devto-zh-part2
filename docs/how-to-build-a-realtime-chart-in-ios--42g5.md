@@ -8,7 +8,7 @@
 
 作为背景，下面是我们将要构建的一个示例:
 
-[![](../Images/664df1c848f4c3279202ae4a3d5f1979.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--raR5KmU0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/10/build-realtime-chart-in-ios-using-pusher.gif)
+[![](img/664df1c848f4c3279202ae4a3d5f1979.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--raR5KmU0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/10/build-realtime-chart-in-ios-using-pusher.gif)
 
 ## 在 iOS 中构建实时图表的要求
 
@@ -57,7 +57,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 创建完视图后，您应该会看到下图所示的内容。
 
-[![](../Images/52eb0da0640c3bea807abbd03b9075d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dl76Df0n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/10/build-realtime-chart-in-ios-using-pusher-1.png)
+[![](img/52eb0da0640c3bea807abbd03b9075d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dl76Df0n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/10/build-realtime-chart-in-ios-using-pusher-1.png)
 
 就目前的情况而言，这些意见没有任何作用。让我们将一些功能连接到 iOS 图表应用程序视图。
 
@@ -67,9 +67,9 @@ Enter fullscreen mode Exit fullscreen mode
 
 在 Xcode 中，当故事板仍然打开时，点击页面右上角的“显示助理编辑器”按钮，将视图分为故事板和代码视图。现在，单击一次您创建的按钮，按住`ctrl`，单击并拖动链接到代码编辑器。然后创建一个`@IBaction`，如下图所示:
 
-[![](../Images/f15c6cbdcc3730c1275e143a32d8cc92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9upsaXJc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/10/build-realtime-chart-in-ios-using-pusher-2.png)
+[![](img/f15c6cbdcc3730c1275e143a32d8cc92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9upsaXJc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/10/build-realtime-chart-in-ios-using-pusher-2.png)
 
-[![](../Images/adb9cba0161e3a0be7d5efa12a918bec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fCiZDa_e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/10/build-realtime-chart-in-ios-using-pusher-3.png)
+[![](img/adb9cba0161e3a0be7d5efa12a918bec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fCiZDa_e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/10/build-realtime-chart-in-ios-using-pusher-3.png)
 
 当链接完成时，您应该会看到代码编辑器中添加了如下内容:
 
@@ -84,13 +84,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 在故事板上，点击视图，在“身份检查”选项卡上，确保视图连接到`LineChartView`，如下图所示。
 
-[![](../Images/797c7097fccccd2c9396dd244bbeabe9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u5kAmqH7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/10/realtime-chart-swift-linechartview.png)
+[![](img/797c7097fccccd2c9396dd244bbeabe9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u5kAmqH7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/10/realtime-chart-swift-linechartview.png)
 
 现在视图已经连接到了一个视图类，重复我们之前链接按钮的操作，只是这次我们没有创建一个`@IBAction`而是创建一个`@IBOutlet`。图像如下所示:
 
-[![](../Images/6478ce1a0c5896777f473cf81331307f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yD7OYrZc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/10/build-realtime-chart-in-ios-using-pusher-5.png)
+[![](img/6478ce1a0c5896777f473cf81331307f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yD7OYrZc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/10/build-realtime-chart-in-ios-using-pusher-5.png)
 
-[![](../Images/bacd07477ce807e5dd4f1104821d3531.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UfyhjzcJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/10/build-realtime-chart-in-ios-using-pusher-6.png)
+[![](img/bacd07477ce807e5dd4f1104821d3531.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UfyhjzcJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/10/build-realtime-chart-in-ios-using-pusher-6.png)
 
 当链接完成时，您应该会看到代码编辑器中添加了如下内容:
 
@@ -367,13 +367,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 当安装完成且应用程序准备就绪时，您应该会看到下面的输出:
 
-[![](../Images/6919fabe9c525eeeb3de12b2e9d552d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B0OXIu1y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/10/build-realtime-chart-in-ios-using-pusher-7.png)
+[![](img/6919fabe9c525eeeb3de12b2e9d552d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B0OXIu1y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/10/build-realtime-chart-in-ios-using-pusher-7.png)
 
 ## 测试应用程序
 
 一旦您的本地节点 web 服务器开始运行，您将需要进行一些更改，以便您的应用程序可以与本地 web 服务器通信。在`info.plist`文件中，进行以下更改:
 
-[![](../Images/913172828c6dedcec5e746d05ffa5694.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MPghkE-h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/10/build-realtime-chart-in-ios-using-pusher-8.png)
+[![](img/913172828c6dedcec5e746d05ffa5694.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MPghkE-h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/10/build-realtime-chart-in-ios-using-pusher-8.png)
 
 通过这一更改，您可以构建并运行您的应用程序，它将直接与您的本地 web 应用程序对话。
 

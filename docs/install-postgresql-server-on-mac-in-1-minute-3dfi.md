@@ -18,10 +18,10 @@ DBngin 是一个用户友好的 Mac 应用程序，旨在帮助您在 Mac 上部
 
 *   从驱动程序列表中选择 PostgreSQL，选择 PostgreSQL 版本并命名您的服务器以创建新服务器。您可以稍后编辑服务器并更改端口。
 
-[![Create a new local PostgreSQL server](../Images/aa8b47f3aec35166b84ef370e46214ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---0-1-_XQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dbngin.com/resources/images/new-server%402x.png)
+[![Create a new local PostgreSQL server](img/aa8b47f3aec35166b84ef370e46214ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---0-1-_XQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dbngin.com/resourcimg/new-server%402x.png)
 
 现在，您的计算机上已经运行了一个本地 PostgreSQL 服务器。
 
-[![Server Control](../Images/4f4e7c6daa753692c1b7e81d7f26ad84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ntps_Ro2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dbngin.com/resources/images/welcome%402x.png)
+[![Server Control](img/4f4e7c6daa753692c1b7e81d7f26ad84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ntps_Ro2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dbngin.com/resourcimg/welcome%402x.png)
 
 使用 DBngin，您不仅可以安装和管理 PostgreSQL 的多个服务器，还可以安装和管理 MySQL、Redis 的多个服务器。您可以通过单击来打开和关闭任何数据库服务器。需要时打开，完成后退出。没有依赖。

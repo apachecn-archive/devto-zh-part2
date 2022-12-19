@@ -30,7 +30,7 @@ Jen 的闭幕主题演讲让我很惊讶，因为它让我感觉到了人性。J
 
 珍给她的怪物起的名字和设计真是太棒了。彩虹草稿纸提醒我们，我们把怪物画成彩色的线条和形状，并在中间写下 1 个待办事项，这提醒我们，我们的怪物并不像最初看起来那么可怕。
 
-[![If I see someone sitting alone, I will introduce myself to them and make them feel welcomed.](../Images/7ecd03a6cd46008f9baafb26db92b5c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5wNDuWOk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://crunchingnumbersdotlive.files.wordpress.com/2018/09/rainbow_scratch.png%3Fw%3D480%26h%3D480)
+[![If I see someone sitting alone, I will introduce myself to them and make them feel welcomed.](img/7ecd03a6cd46008f9baafb26db92b5c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5wNDuWOk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://crunchingnumbersdotlive.files.wordpress.com/2018/09/rainbow_scratch.png%3Fw%3D480%26h%3D480)
 
 ### 面向 JS 开发者的数据可视化
 

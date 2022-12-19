@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nasa9084/lets-encrypt--4jg5>
 
-[![Let's Encryptでワイルドカード証明書を取得する](../Images/92213423a78ad0ce9140ce4b153352f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VGhlmFxY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.web-apps.tech/content/images/2018/03/letsencrypt.png)
+[![Let's Encryptでワイルドカード証明書を取得する](img/92213423a78ad0ce9140ce4b153352f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VGhlmFxY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.web-apps.tech/conteimg/2018/03/letsencrypt.png)
 
 这是前几天在 twitter 上发表的受支持的 Let's Encrypt 通配符证书，今天凌晨，certbot 正式发表了支持通配符证书的消息[！](https://community.letsencrypt.org/t/acme-v2-and-wildcard-certificate-support-is-live/55579) [[1]](#fn1)
 
@@ -82,7 +82,7 @@ Press Enter to Continue
 
 Gehirn 的形式如下。
 
-[![Let's Encryptでワイルドカード証明書を取得する](../Images/4d2119c37b4baa24c8b7c97689dc8e3b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cudgwvxD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.web-apps.tech/content/images/2018/03/Gehirn_txt_record.png)
+[![Let's Encryptでワイルドカード証明書を取得する](img/4d2119c37b4baa24c8b7c97689dc8e3b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cudgwvxD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.web-apps.tech/conteimg/2018/03/Gehirn_txt_record.png)
 
 添加后，请使用 dig 命令等待 DNS 记录已渗透()。
 

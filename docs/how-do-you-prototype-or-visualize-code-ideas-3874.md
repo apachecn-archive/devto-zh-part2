@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/tinsoldier6/how-do-you-prototype-or-visualize-code-ideas-3874>
 
-[![Rube Goldberg Machine](../Images/5f89cb572560803d2c0c76bccf089110.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CYMMC5rN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a3zc5f3khi9eusjf2fg7.jpg)
+[![Rube Goldberg Machine](img/5f89cb572560803d2c0c76bccf089110.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CYMMC5rN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a3zc5f3khi9eusjf2fg7.jpg)
 
 有时候，当我在构思一个想法时，我想把这个想法从我的头脑中拿出来，写成代码格式，即使我从来没有真正运行或测试过它。
 

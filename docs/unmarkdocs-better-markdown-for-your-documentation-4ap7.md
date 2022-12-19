@@ -14,7 +14,7 @@
 
 让我们看一些例子:
 
-<figure>[![UnMarkDocs: Better Markdown for your documentation](../Images/0d4d23e611b715434aed5b9f9d7ad549.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PYxLi1qE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/TtRYGLK.png) 
+<figure>[![UnMarkDocs: Better Markdown for your documentation](img/0d4d23e611b715434aed5b9f9d7ad549.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PYxLi1qE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/TtRYGLK.png) 
 
 <figcaption>条纹文档</figcaption>
 
@@ -22,7 +22,7 @@
 
 Stripe 的文档即使不是最好的，也是最好的之一。他们的文档不仅有用，而且美观，使用起来很愉快。绝对是我解决条纹问题的最佳选择。
 
-<figure>[![UnMarkDocs: Better Markdown for your documentation](../Images/3c6895880945cbdad3c8bee28eb371a5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ojYBzUPz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/7qN5d3o.png) 
+<figure>[![UnMarkDocs: Better Markdown for your documentation](img/3c6895880945cbdad3c8bee28eb371a5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ojYBzUPz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/7qN5d3o.png) 
 
 <figcaption>自举日期选择器文档</figcaption>
 
@@ -32,7 +32,7 @@ Stripe 的文档即使不是最好的，也是最好的之一。他们的文档�
 
 > 好吧，我们这样不公平。我们正在比较一个风投资助的跨国公司的文档和一个开源项目的文档。让我们试试另一个例子。
 
-<figure>[![UnMarkDocs: Better Markdown for your documentation](../Images/214058f9b87cedd31e23f2fec2489ce9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--s6PWbtei--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/eeXDNM5.png) 
+<figure>[![UnMarkDocs: Better Markdown for your documentation](img/214058f9b87cedd31e23f2fec2489ce9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--s6PWbtei--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/eeXDNM5.png) 
 
 <figcaption>拉腊维尔文档</figcaption>
 
@@ -68,7 +68,7 @@ Stripe 的文档即使不是最好的，也是最好的之一。他们的文档�
 
 当然，UnMarkDocs 也可以帮助你。
 
-<figure>[![UnMarkDocs: Better Markdown for your documentation](../Images/a41ffde97d0215423eab7ad9a9bd32dd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6wna2twd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Xxum8Fp.png) 
+<figure>[![UnMarkDocs: Better Markdown for your documentation](img/a41ffde97d0215423eab7ad9a9bd32dd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6wna2twd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Xxum8Fp.png) 
 
 <figcaption>示例 UnMarkDocs-powered 文档</figcaption>
 
@@ -90,7 +90,7 @@ UnMarkDocs 从您的 GitHub 存储库和当前页面的锚自动生成导航，�
 
 目前的价格并不贵(`$5`)，但是为了感谢您一直阅读到最后，并补偿您在迁移过程中花费的 30 秒，使用优惠券`AUTOMETALOGOLEX`可以获得您的第一个月的 UnMarkDocs Premium，价格仅为`$2.5`。不到一杯星巴克咖啡。
 
-[![](../Images/aeb2c9d375027851fa15a07e66172512.png)T2】](https://unmarkdocs.co/subscription?code=AUTOMETALOGOLEX)
+[![](img/aeb2c9d375027851fa15a07e66172512.png)T2】](https://unmarkdocs.co/subscription?code=AUTOMETALOGOLEX)
 
 * * *
 

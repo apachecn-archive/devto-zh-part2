@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ryanmiller/how-realtors-comprehend-the-strike-of-technology-in-real-estate-industry-1eb7>
 
-[![](../Images/6293a2b22b4e456efedca595cd30ef75.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--a5AJKTOg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/urAMIWc.jpg) 
+[![](img/6293a2b22b4e456efedca595cd30ef75.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--a5AJKTOg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/urAMIWc.jpg) 
 现实生活中房产的买卖都要经历一系列的步骤。
 
 1.  房地产经纪人向购房者提供一份房产清单

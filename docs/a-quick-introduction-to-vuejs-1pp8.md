@@ -44,25 +44,25 @@ vue ui
 
 这将在浏览器中打开以下屏幕:
 
-[![Page1](../Images/2ed251c5164bba078243c477eb334e92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OcuB5Ef3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/97ex3jxyyd5jp5oecsyb.jpg)
+[![Page1](img/2ed251c5164bba078243c477eb334e92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OcuB5Ef3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/97ex3jxyyd5jp5oecsyb.jpg)
 
 点击**创建。**然后输入创建项目的目的地。
 
-[![Page2](../Images/e28577ab41aa38f2d7d406ff7f025ff0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d3MH1YR1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/srl52orisqauxs7gj6c1.jpg)
+[![Page2](img/e28577ab41aa38f2d7d406ff7f025ff0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d3MH1YR1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/srl52orisqauxs7gj6c1.jpg)
 
 然后点击**在这里创建一个新项目。**
 
-[![Page3](../Images/b0174e97c749aa0f1f608bb2a91a4274.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DhWFn9v4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gsshhomk005fthaul3us.jpg)
+[![Page3](img/b0174e97c749aa0f1f608bb2a91a4274.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DhWFn9v4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gsshhomk005fthaul3us.jpg)
 
 这将打开以下屏幕:
 
-[![Page4](../Images/e170602108811a136331262a04b42eb8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--id8PE8ki--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dewse0lpbt7rxv1btdod.jpg)
+[![Page4](img/e170602108811a136331262a04b42eb8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--id8PE8ki--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dewse0lpbt7rxv1btdod.jpg)
 
 进入项目文件夹 **sample-vue-app** ，点击**下一步。**
 
 在下一个屏幕中，选择**默认预设，**如下图所示。对于这个帖子，**默认预设**是最简单的开始。
 
-[![Page5](../Images/e8feefd6c82a7db9c5d0e1b59ade4f1c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--csqokDXx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wm8h71zzqwzoj9xenfhx.jpg)
+[![Page5](img/e8feefd6c82a7db9c5d0e1b59ade4f1c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--csqokDXx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wm8h71zzqwzoj9xenfhx.jpg)
 
 最后，点击**创建项目**
 
@@ -75,7 +75,7 @@ npm run serve
 
 应用程序在本地主机 8080 上运行。下图显示了应用程序在浏览器中的外观:
 
-[![Output](../Images/46c1c5b17ff5d52a7de0d0a2a68deb82.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xE92YuF6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yp10u3a7frn9szeabgvj.jpg)
+[![Output](img/46c1c5b17ff5d52a7de0d0a2a68deb82.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xE92YuF6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yp10u3a7frn9szeabgvj.jpg)
 
 恭喜你，你已经创建了你的第一个 Vue.js 项目！😄
 
@@ -87,7 +87,7 @@ npm run serve
 
 # 应用程序文件夹结构
 
-[![Folder Structure](../Images/d0f3a9bd3690863d349ae18ffc3239a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--enFk0cV_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/86ad49j03ncauit49dvi.jpg)
+[![Folder Structure](img/d0f3a9bd3690863d349ae18ffc3239a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--enFk0cV_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/86ad49j03ncauit49dvi.jpg)
 
 1.  **package.json:** 这个文件拥有所有的节点依赖关系。
 2.  **public/index.html:** 这是应用程序启动时加载的第一个文件。此外，这个文件有下面的代码片段`<div id=”app”></div>.`所有组件都加载在这个 id 为 **app 的 div 中。**
@@ -172,7 +172,7 @@ export default {
 
 现在使用`npm run serve`运行应用程序，您将看到以下屏幕:
 
-[![Page6](../Images/46c1c5b17ff5d52a7de0d0a2a68deb82.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xE92YuF6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yp10u3a7frn9szeabgvj.jpg)
+[![Page6](img/46c1c5b17ff5d52a7de0d0a2a68deb82.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xE92YuF6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yp10u3a7frn9szeabgvj.jpg)
 
 等一下，这不是和之前的输出一样吗。我们刚刚创建的组件在哪里？
 
@@ -218,7 +218,7 @@ export default {
 
 现在使用`npm run serve`运行应用程序，您将看到下面的输出:
 
-[![Final Output](../Images/68073a22b5136aecbb585628afb246dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jZG3U_ix--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ij5j1rw8w053y0vsueqb.jpg)
+[![Final Output](img/68073a22b5136aecbb585628afb246dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jZG3U_ix--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ij5j1rw8w053y0vsueqb.jpg)
 
 # 密码
 

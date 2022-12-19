@@ -46,13 +46,13 @@ FFmpeg 4.0 刚刚发布，sffmpeg 落后几个版本。然而，已经有来自 
 
 这有一个额外的好处，即通过删除不必要的库和依赖项来最小化 FFMpeg 的攻击面，这些库和依赖项默认包含在 sffmpeg 中，但对于活动存储支持来说并不需要。FFmpeg 为支持其他媒体格式而包含的每一个额外的依赖项都是一个额外的库或工具，可能会给客户应用程序带来漏洞，我们需要监控这些漏洞以获取安全补丁。通过删除活动存储不使用的东西，如 [RTMP](https://en.wikipedia.org/wiki/Real-Time_Messaging_Protocol) 流支持或 [xvid](https://labs.xvid.com/source/) ，我们最大限度地减少了应用程序易受不必要的依赖关系问题的影响。
 
-<figure>[![An image showing default ubuntu ffmpeg](../Images/6c210a12a1d5eed24c01db45f2049a6b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2M0-cxMa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1526946569-default_ubuntu_ffmpeg.png) 
+<figure>[![An image showing default ubuntu ffmpeg](img/6c210a12a1d5eed24c01db45f2049a6b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2M0-cxMa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1526946569-default_ubuntu_ffmpeg.png) 
 
 <figcaption>默认 Ubuntu 安装 ffmpeg 并依赖</figcaption>
 
 </figure>
 
-<figure>[![An image showing sffmpeg fork](../Images/95e08449888cd9145f60b3a5cdd9b6ce.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rOIB7Dfu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1526946594-sffmpeg_fork.png) 
+<figure>[![An image showing sffmpeg fork](img/95e08449888cd9145f60b3a5cdd9b6ce.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rOIB7Dfu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1526946594-sffmpeg_fork.png) 
 
 <figcaption>我们的 sffmpeg fork 的降级攻击面</figcaption>
 
@@ -64,7 +64,7 @@ FFmpeg 4.0 刚刚发布，sffmpeg 落后几个版本。然而，已经有来自 
 
 自动化对于确保我们能够在发布任何新的安全版本时快速做出反应并推出更新版本至关重要。我们使用 CircleCI 的 [Docker 来运行我们分叉的 sffmpeg 构建助手。构建脚本编译带有所有依赖项的静态 FFmpeg 二进制文件，将其添加到 Debian 包(。deb)，然后将包上传到 AWS S3。一旦上传，使用](https://github.com/heroku/sffmpeg/blob/master/.circleci/config.yml)[活动存储预览构建包](https://github.com/heroku/heroku-buildpack-activestorage-preview)的任何人都可以立即使用它。buildpack 通过使用`-x`选项将 Debian 包安装到您的应用程序 dyno 中，在本地提取它，因为 dyno 不作为`root`运行，并且将它添加到您的 dyno 的`PATH`环境变量中，使它可以被 Rails 访问。CI 构建和推送至 S3 大约需要 20 分钟，这使我们能够在上游版本发布后很快向客户发布补丁。
 
-[![diagram-of-update-realease-process](../Images/315bdf22543c7eb504d9f437ebc271ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oRJ8jP2A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1526946609-sffmpeg%2520-%2520Page%25201%2520%25281%2529.png)
+[![diagram-of-update-realease-process](img/315bdf22543c7eb504d9f437ebc271ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oRJ8jP2A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1526946609-sffmpeg%2520-%2520Page%25201%2520%25281%2529.png)
 
 ## 结论
 

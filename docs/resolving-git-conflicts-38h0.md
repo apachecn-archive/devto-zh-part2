@@ -26,11 +26,11 @@
 
 假设我们将`README.md`中的文本从“Hello world，这是我的第一个 Github repo”更改为“Hello world，这是我的第二个 Github repo”。
 
-[![Changing the readme file](../Images/749ea3a9b19695cb660660bb229c9473.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---gW4iQzK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-conflicts/changing-readme.png)
+[![Changing the readme file](img/749ea3a9b19695cb660660bb229c9473.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---gW4iQzK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-conflicts/changing-readme.png)
 
 我们还将生成一条 commit 消息，上面写着“将第一个更改为第二个”，以便稍后在我们的 Git 历史中看到效果。
 
-[![Making a commit on the remote](../Images/6afa99785d1af9eebe173491a1d8729a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1GgDmwhl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-conflicts/changing-readme-commit.png)
+[![Making a commit on the remote](img/6afa99785d1af9eebe173491a1d8729a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1GgDmwhl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-conflicts/changing-readme-commit.png)
 
 对于第二组代码，您可以在本地存储库中更改相同的`README.md`文件。我们不说“第二个 Github 资源库”，而是说“第三个 Github 资源库”。
 
@@ -42,29 +42,29 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们将提交该文件，并将提交消息设置为“从第一个更改为第三个”
 
-[![Make another commit on the local](../Images/aaed45a3c360638877165ae057839f31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mSD_ZQyb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-conflicts/commit-readme-local.png)
+[![Make another commit on the local](img/aaed45a3c360638877165ae057839f31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mSD_ZQyb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-conflicts/commit-readme-local.png)
 
 您可以使用 Fetch 按钮在 Git 客户机中检查更新的。一旦获取完成，您可以看到`origin/master`与`master`相比位于不同的分支上。
 
 这是因为 Git remote 和我们的本地存储库同时发生了变化。
 
-[![There is a fork on the Git history](../Images/4fd0fe6ffb6577f0a2546c5007a643f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yEBDLubx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-conflicts/history-fork.png)
+[![There is a fork on the Git history](img/4fd0fe6ffb6577f0a2546c5007a643f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yEBDLubx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-conflicts/history-fork.png)
 
 如果你看左边的分支，你可以看到主分支说一个向下一个向上。这告诉我们，Git remote 中有一个提交在我们的主服务器之前。同时，我们的主分支在远程分支之前有一个提交。
 
-[![Master branch on the sidebar says one up and one down](../Images/7b68135c2d5797c5496c661591132b78.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mebQwvM1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-conflicts/sidebar.png)
+[![Master branch on the sidebar says one up and one down](img/7b68135c2d5797c5496c661591132b78.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mebQwvM1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-conflicts/sidebar.png)
 
 我们需要将我们的更改拉到我们的本地分支机构来巩固这些更改。当您提取更改时，您会看到一条错误消息。
 
 根据您使用的 Git 客户端的不同，这个错误消息可能会略有不同。在 Fork 中，它表示“将分支`origin/master`合并为`master`。修复 1 个冲突，然后继续。
 
-[![The error message](../Images/ad415dc12686da21668c376e2fdd86ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bi11K1VM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-conflicts/conflict.png)
+[![The error message](img/ad415dc12686da21668c376e2fdd86ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bi11K1VM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-conflicts/conflict.png)
 
 这意味着您需要在继续之前解决冲突。
 
 要查看冲突，您可以返回到 changes 部分。在这里，您将看到包含冲突的文件。在本例中，它是`README.md`文件。
 
-[![The readme file has a conflict](../Images/54653831b0fd260170a64cd966964808.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a3mJMHZV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-conflicts/readme-has-conflict.png)
+[![The readme file has a conflict](img/54653831b0fd260170a64cd966964808.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a3mJMHZV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-conflicts/readme-has-conflict.png)
 
 首先说一下为什么要合并。
 
@@ -118,17 +118,17 @@ Enter fullscreen mode Exit fullscreen mode
 
 单击提交以提交更改。
 
-[![Making a merge commit](../Images/7ff67c85d613bb1caae7d5634339046d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f2MSjU5U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-conflicts/merge-commit.png)
+[![Making a merge commit](img/7ff67c85d613bb1caae7d5634339046d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f2MSjU5U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-conflicts/merge-commit.png)
 
 当您提交更改时，您会看到侧栏中的主分支显示 2 up。这意味着我们的本地分支比远程分支提前两次提交。
 
 如果查看 Git 历史记录，可以看到远程主分支有一个链接指向本地主分支。这显示了一个合并。
 
-[![The fork from `origin/master` has merged back into `master`](../Images/0bffac4bc26994b6965d3ef657d783dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8FTgoyV6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-conflicts/history-2.png)
+[![The fork from `origin/master` has merged back into `master`](img/0bffac4bc26994b6965d3ef657d783dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8FTgoyV6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-conflicts/history-2.png)
 
 接下来您需要做的是将更改推送到 Git 远程。
 
-[![`origin/master` and `master` are on the same commit again](../Images/15acce60d9783a5e6bcfce2431b7ad52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7uXXElWK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-conflicts/history-3.png)
+[![`origin/master` and `master` are on the same commit again](img/15acce60d9783a5e6bcfce2431b7ad52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7uXXElWK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-conflicts/history-3.png)
 
 这就是解决 Git 冲突的方法。
 

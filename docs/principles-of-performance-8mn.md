@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/joshghent/principles-of-performance-8mn>
 
-<figure>[![](../Images/cc4465b736059b3991db3f70d1f6f91c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XYW6ghS0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AauCh4IotYWV1tCLL.) 
+<figure>[![](img/cc4465b736059b3991db3f70d1f6f91c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XYW6ghS0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AauCh4IotYWV1tCLL.) 
 
 <figcaption>照片由[卡拉·富勒](https://unsplash.com/photos/34OTzkN-nuc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)上传 [Unsplash](https://unsplash.com/search/photos/running-cheetah?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 
@@ -12,7 +12,7 @@
 
 无论您使用什么技术，这些都是要使用的原则，并且它们的范围更广。目的是把这个做成小手册，而不是手册。就像一旦你学会了开车，理论上你就可以开任何其他的车一样，本文的目的是教授原理而不是实现。
 
-<figure>[![](../Images/80e1605e99974c36732ee4136f19d92e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--i0Z9MbLw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/480/0%2A-PJFFL6w3b2sbjF5.) 
+<figure>[![](img/80e1605e99974c36732ee4136f19d92e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--i0Z9MbLw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/480/0%2A-PJFFL6w3b2sbjF5.) 
 
 <figcaption>这是你的网站</figcaption>
 
@@ -32,7 +32,7 @@
 
 Addy Osmani 在 CSSConf 上的精彩演讲展示了在你的页面上拥有大量图像资产的不利影响(尤其是在可视视图中)。要有一个快速运行的应用程序或网站，你必须摆脱那些让你慢下来的东西。
 
-<figure>[![](../Images/942350dfc1c829a2aba19a5f7ea994e3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Y94wclvh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/449/0%2AweuFQ40LFR1eJQyR.) 
+<figure>[![](img/942350dfc1c829a2aba19a5f7ea994e3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Y94wclvh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/449/0%2AweuFQ40LFR1eJQyR.) 
 
 <figcaption>我找不到一张尤塞恩·博尔特拿着一袋沙子的照片，但这里有一张最好的！</figcaption>
 
@@ -48,7 +48,7 @@ Addy Osmani 在 CSSConf 上的精彩演讲展示了在你的页面上拥有大�
 
 这也意味着在尽可能短的时间内进行互动。你想让一个人在你的网站上向下滚动，而不是点击一堆我称之为“塔斯马尼亚滚动条恶魔”的东西。我相信你自己也有过这样的经历，向下滚动一个网站，然后可见视窗上方的图像加载并向下推送你试图查看的内容。令人难以置信的恼人的 UX，并占用宝贵的 CPU 时间。
 
-<figure>[![](../Images/6170dd9879884c953d0564ca61df65b3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mY4ipiNE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/250/0%2AsOAULjFJsJE0_kYf.) 
+<figure>[![](img/6170dd9879884c953d0564ca61df65b3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mY4ipiNE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/250/0%2AsOAULjFJsJE0_kYf.) 
 
 <figcaption>你不希望这个家伙在你的地盘上</figcaption>
 

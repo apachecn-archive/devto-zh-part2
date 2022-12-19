@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/d4nyll/automatic-nvm-use-34ol>
 
-[![](../Images/c5eabcebe0b01b4ed3f1cb518fb71874.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sqQp7xmN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9bf5o9sxr8smp8055vjm.gif)
+[![](img/c5eabcebe0b01b4ed3f1cb518fb71874.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sqQp7xmN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9bf5o9sxr8smp8055vjm.gif)
 
 在从事多个 JS 项目时厌倦了键入`nvm use`？那么试试这个 Bash 别名吧！
 

@@ -8,4 +8,4 @@
 
 [读下去🎢](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/?utm_source=dev&utm_medium=sc&utm_campaign=os_guide)
 
-[![A First Timers Guide to an Open Source Project](../Images/244950bf475104bb302b50a075fa3f63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZsZcWPE3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pb5xw9wl6u6hcdkc73m3.png)
+[![A First Timers Guide to an Open Source Project](img/244950bf475104bb302b50a075fa3f63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZsZcWPE3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pb5xw9wl6u6hcdkc73m3.png)

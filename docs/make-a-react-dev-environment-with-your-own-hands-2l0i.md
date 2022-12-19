@@ -76,7 +76,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 要开始配置，我们需要在文件夹中创建一个文件结构。文件结构如下:
 
-[![](../Images/79e6e3d165544193e4208a913d6a9437.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f7l1PuSl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/h8Wm6cC.jpg)
+[![](img/79e6e3d165544193e4208a913d6a9437.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f7l1PuSl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/h8Wm6cC.jpg)
 
 让我们开始配置我们的 webpack。让我们添加下一段代码:
 
@@ -200,7 +200,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 瞧啊
 
-[![](../Images/cd1edeb86a8d71ac188e517ef52d535a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M0kwBU1Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/PFkmJJg.png)
+[![](img/cd1edeb86a8d71ac188e517ef52d535a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M0kwBU1Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/PFkmJJg.png)
 
 我们不希望每次更改应用程序时都运行`npm run build`,所以让我们创建一个服务器来自动化这个过程。
 
@@ -335,6 +335,6 @@ Exit-code: 0
 Enter fullscreen mode Exit fullscreen mode
 
 这意味着我们的文件编译成功。让我们检查一下本地主机。
-[![](../Images/c10d25e96e3e223ab1f5347e0372383c.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--CcgWMmLs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/qDaK1fv.png)
+[![](img/c10d25e96e3e223ab1f5347e0372383c.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--CcgWMmLs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/qDaK1fv.png)
 
 有用！这样，我们就有了自己创造的反应环境！如果你有任何问题或疑问，不要犹豫，留下你的评论。感谢您阅读！

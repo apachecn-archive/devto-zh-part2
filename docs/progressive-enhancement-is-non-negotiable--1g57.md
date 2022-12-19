@@ -8,7 +8,7 @@
 
 除了像纵火狂一样编码别无选择。
 
-[![That was the Internet](../Images/9ea06b451e77184aee0eaaf0ec92a5da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YrkGGVpL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4vkx991cgq3t1xkqann2.jpg)
+[![That was the Internet](img/9ea06b451e77184aee0eaaf0ec92a5da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YrkGGVpL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4vkx991cgq3t1xkqann2.jpg)
 
 21 年后，这是 2018 年。我们仍然建立静态网站(几年前没有动态网站几乎被认为是过时的),但也建立 SPA(单页应用程序)和渐进式网络应用程序。虚拟现实正在成为主流。冰箱自动从网上乳制品商店订购明天的牛奶。html、css 和 javascript 的标准已经出现。构建一个东西并把它放到网上从来没有这么容易过。
 
@@ -31,13 +31,13 @@
 
 ## 3。这就是互联网诞生的原因。
 
-[![](../Images/b730fb96ba970a896a3566dc183991bf.png)T2】](https://thatsthespir.it/quote/view/188)
+[![](img/b730fb96ba970a896a3566dc183991bf.png)T2】](https://thatsthespir.it/quote/view/188)
 
 ## 4。只需几分钟就能掌握。
 
 这是我在 BeCode 为我的糟糕的初级开发人员做的演示。浏览一下。
 
-[![](../Images/d55951e44a41d61705cdc07d337645f1.png)T2】](https://app.ludus.one/8c042d9a-e404-4df5-b14e-48e3eb6e6014)
+[![](img/d55951e44a41d61705cdc07d337645f1.png)T2】](https://app.ludus.one/8c042d9a-e404-4df5-b14e-48e3eb6e6014)
 
 还不相信吗？越过这个 [Reddit 线程](https://www.reddit.com/r/webdev/comments/48z7jz/do_you_take_into_account_those_who_disable/)。
 

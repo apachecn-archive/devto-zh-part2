@@ -14,7 +14,7 @@
 
 以熨斗学校的工程团队为例。这是我们去年夏天的一张照片，我们在办公室外的公园里愉快地聊天。
 
-[![Flatiron School engineers outdoors](../Images/3f1d00726466dccdba0e34900bd8e1df.png "Flatiron School engineers outdoors")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cBNECCVd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i0oup9sloptcl9k1mwl7.JPEG)
+[![Flatiron School engineers outdoors](img/3f1d00726466dccdba0e34900bd8e1df.png "Flatiron School engineers outdoors")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cBNECCVd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i0oup9sloptcl9k1mwl7.JPEG)
 
 为什么我们在公园里？嗯，这是在下午 5:30 左右我们的大楼在一场火灾中被疏散后的片刻。当警报响起时，办公室的其他人做了你所期望的事情:回家。
 
@@ -30,7 +30,7 @@
 
 这是一件好事，因为这意味着只要双方都有一点同情心，我们就可以弥合分歧。我们希望如此，因为回报无疑是值得的。
 
-[![Much Business](../Images/7bb5975d1f7bb7bb743c85bc21a0baf1.png "Much Business")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V69nINxY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hyec4wp5e0zscui56yfx.png)
+[![Much Business](img/7bb5975d1f7bb7bb743c85bc21a0baf1.png "Much Business")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V69nINxY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hyec4wp5e0zscui56yfx.png)
 
 在这里取得成功符合每个人的最佳利益。拥有一个快乐、高效的办公室对你的企业有好处。但在个人层面上也是好的。能够与“另一方”沟通是你能拿出来的最有价值的技能之一。
 
@@ -43,7 +43,7 @@
 
 #### 开发人员、工程师、程序员
 
-[![Labels](../Images/d367a11f823da7145f1b49aebf406999.png "Labels")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PrvXHv11--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8b9sjof89yoy0zva8ohe.png)
+[![Labels](img/d367a11f823da7145f1b49aebf406999.png "Labels")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PrvXHv11--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8b9sjof89yoy0zva8ohe.png)
 
 这些术语有什么区别？就你的日常工作而言，没什么。这些术语都描述了编码人员。没有必要把它弄得比那更复杂。
 
@@ -51,7 +51,7 @@
 
 #### 功能开发
 
-[![Scrum Cycle](../Images/497c5d3565efec4bb519678fb239c6a7.png "Scrum Cycle")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MwAut0dW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8ab5od0850xg29qis8qc.png)
+[![Scrum Cycle](img/497c5d3565efec4bb519678fb239c6a7.png "Scrum Cycle")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MwAut0dW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8ab5od0850xg29qis8qc.png)
 
 大多数公司的工程工作流程是什么样的？大多数初创公司都遵循某种版本的敏捷 scrum 流程，其中来自产品、工程和 QA 团队的团队成员与利益相关者一起工作来交付一个特性。
 
@@ -68,7 +68,7 @@
 
 #### 故事/门票
 
-[![GitHub Projects](../Images/318366589505cbcd5745ea6ae2ecf373.png "GitHub Projects")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--19AXTo40--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ke8uaal6ub5crtr0hjmv.png)
+[![GitHub Projects](img/318366589505cbcd5745ea6ae2ecf373.png "GitHub Projects")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--19AXTo40--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ke8uaal6ub5crtr0hjmv.png)
 
 在 sprint 过程中，工程工作被分解成故事(你可能也听到称之为“票”)。每个故事代表一个独立的任务或工作单元。
 
@@ -90,7 +90,7 @@
 
 这是支持[Learn.co](https://learn.co)的堆栈图。
 
-[![Learn.co Stack](../Images/f3b9edb30940dc1ec1e6d2fbb79b7ba9.png "Learn.co Stack")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ka7AJeIS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x4mog5ov1j702jtqka4i.jpeg)
+[![Learn.co Stack](img/f3b9edb30940dc1ec1e6d2fbb79b7ba9.png "Learn.co Stack")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ka7AJeIS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x4mog5ov1j702jtqka4i.jpeg)
 
 是的，我展示这个图主要是为了吓唬你。
 
@@ -108,7 +108,7 @@
 > 
 > “我们希望我们所有的工程师都是全栈工程师。”
 
-[![Full Stack](../Images/f5bb8943b769d296e0e49fedff3b118f.png "Full Stack")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AVoN0k8k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ulvo6hqeni63thqcrk9n.png)
+[![Full Stack](img/f5bb8943b769d296e0e49fedff3b118f.png "Full Stack")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AVoN0k8k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ulvo6hqeni63thqcrk9n.png)
 
 这些术语泛指工程师花费大部分时间在代码库中的哪个部分。
 
@@ -124,7 +124,7 @@
 
 API 代表**一个**应用 **P** 程序 **I** 接口。
 
-[![API](../Images/9f7da91e6e4d88aefa090acde2630512.png "API")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5GHeWSIq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jw72ysdizujv0avcxyim.png)
+[![API](img/9f7da91e6e4d88aefa090acde2630512.png "API")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5GHeWSIq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jw72ysdizujv0avcxyim.png)
 
 API 定义了一个接口，开发人员可以使用该接口从数据源请求和接收数据。
 
@@ -138,7 +138,7 @@ API 定义了一个接口，开发人员可以使用该接口从数据源请求�
 
 #### 松鼠
 
-[![shipit Squirrel](../Images/a265837d44f6b39c94d0c1990eaf481c.png "shipit Squirrel")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hMKjHQ1j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nbvqvhbgo4bd2yjg612f.jpeg)
+[![shipit Squirrel](img/a265837d44f6b39c94d0c1990eaf481c.png "shipit Squirrel")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hMKjHQ1j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nbvqvhbgo4bd2yjg612f.jpeg)
 
 这个小可爱开始只是 Github 的一个内部笑话，但它的可爱迅速传遍了整个行业。当您的代码被批准发布时，您的队友会用松鼠标记它，松鼠是推代码的通用吉祥物。
 

@@ -22,11 +22,11 @@ int checkMatchStubPattern(char* string) {
 
 `Regex`是解决问题的有效工具；但这是有代价的。阅读和理解真的很难(但是*不难学*)。首先试着阅读下面的例子。
 
-[![Check whether a string is a valid url or not](../Images/ae6372fcd695d0797a5af6598e0982fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1B199waU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/nMveuD7.png)
+[![Check whether a string is a valid url or not](img/ae6372fcd695d0797a5af6598e0982fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1B199waU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/nMveuD7.png)
 
 因为复杂的语法，阅读和理解`Regex`非常困难。此外，你似乎不经常和`Regex`一起工作。ROI(投资回报率)太低；几乎常见的`Regex`你需要使用的都可以在网上找到(密码，网址，IP 地址，...).你愿意花几个星期去学习一年只用 4 到 5 次的东西吗？或者只是浏览一些网站，在大约 5 分钟内得到结果？这种思维方式使得开发者倾向于谷歌一些`Regex`并修改以适应他们的需求。搜索-修改的重复过程有时要花费几个小时到一整天的时间...
 
-[![In every angel a demon hides...](../Images/e3747a5942212b1caca384a07e2a288f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mOFqjjfS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/j3G9xyP.png)
+[![In every angel a demon hides...](img/e3747a5942212b1caca384a07e2a288f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mOFqjjfS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/j3G9xyP.png)
 
 `Regex`解决`string operation`问题；但是`Regex`的问题呢？好在可以用 [`Verbal Expressions`](http://verbalexpressions.github.io/) 解决。试着看看这个例子。
 
@@ -52,7 +52,7 @@ VerEx()
 
 不管怎样，还是有一些缺点。你需要安装一个新的库到你的项目中，有时这是很痛苦的(比如你的客户，经理...觉得没必要)。那样的话，你可以去[verbal regex](https://verbalregex.com/)；编写代码，它将为您生成`Regex`。
 
-[![Online tool for generating Regex](../Images/6a1dfb35a589fb49380e77bab8d4e908.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d0n2eqkX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/w0uMzYE.png)
+[![Online tool for generating Regex](img/6a1dfb35a589fb49380e77bab8d4e908.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d0n2eqkX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/w0uMzYE.png)
 
 通过访问[verbalregex.com](https://verbalregex.com/)来试试这个工具。
 

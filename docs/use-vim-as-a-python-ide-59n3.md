@@ -31,7 +31,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 基于哪个完成引擎被使用，`lang#python`层自动加载 jedi 插件。完成菜单将在您键入时打开。
 
-[![complete python code](../Images/cff505355ea54d466b81b50b3aa81bb5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aNF9ve0v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/13142418/46339650-f5a49280-c665-11e8-86d4-20944ec23098.png)
+[![complete python code](img/cff505355ea54d466b81b50b3aa81bb5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aNF9ve0v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/13142418/46339650-f5a49280-c665-11e8-86d4-20944ec23098.png)
 
 ### 语法线头
 
@@ -68,7 +68,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 要运行当前脚本，您可以按`SPC l r`，一个分割窗口将被打开，脚本的输出将显示在该窗口中。它异步运行，不会阻塞您的 vim。
 
-[![code runner](../Images/2f1344a440315720627d0ac356cf73af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8qMr6BTg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/13142418/46293837-1c5fbc00-c5c7-11e8-9f3c-c11504e2e04a.png)
+[![code runner](img/2f1344a440315720627d0ac356cf73af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8qMr6BTg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/13142418/46293837-1c5fbc00-c5c7-11e8-9f3c-c11504e2e04a.png)
 
 ### 代码格式化
 
@@ -80,6 +80,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 您需要安装 jdk9，JDK 9 提供了一个内置工具`jshell`，SpaceVim 使用`jshell`作为默认的下级 REPL 进程:
 
-[![REPl-JAVA](../Images/77afd8093525969838ad3e85c39924dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_zkiCB71--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/13142418/34159605-758461ba-e48f-11e7-873c-fc358ce59a42.gif)
+[![REPl-JAVA](img/77afd8093525969838ad3e85c39924dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_zkiCB71--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/13142418/34159605-758461ba-e48f-11e7-873c-fc358ce59a42.gif)
 
 ### 调试

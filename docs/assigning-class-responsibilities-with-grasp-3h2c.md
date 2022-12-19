@@ -41,7 +41,7 @@ public class EmailConstructor
 Enter fullscreen mode Exit fullscreen mode
 
 实际上，雷夏普发出了警告。
-[![ReSharper warning](../Images/1edbcd1939e28b99bbb0b6336cc9f33e.png "ReSharper warning")T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--ywuXj0Ly--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.codeproject.com/KB/tips/1229658/1.png)
+[![ReSharper warning](img/1edbcd1939e28b99bbb0b6336cc9f33e.png "ReSharper warning")T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--ywuXj0Ly--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.codeproject.com/KB/tips/1229658/1.png)
 
 ## 特写羡慕
 

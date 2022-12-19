@@ -12,7 +12,7 @@
 
 唐·诺曼(Don Norman)曾写道，许多产品之所以失败，是因为它们在错误的时间发布。我可以改写这句话，说:许多技术未能找到实际应用。当互联网在 90 年代初变得广泛可用时，每个领域都试图将它应用到他们的业务中。这是一场灾难，它的后果仍然可见于数以千计从未访问过的网站，这些网站有着可怕的界面，是由任何一个有电脑的人笨拙地创建的。我们目前正在目睹几乎相同的情况——十年来最有潜力的技术与秘密交易的投机有关。它被广泛用于金融诈骗，尽管它最初是为了相反的目的而创建的。
 
-[![industries-using-blockc](../Images/3380a7b28ce1cdcdb5d8b8a94873519c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mr6tIjW1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/08/Img-1.png) 
+[![industries-using-blockc](img/3380a7b28ce1cdcdb5d8b8a94873519c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mr6tIjW1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/08/Img-1.png) 
 *来源:[微软 Azure](https://azure.microsoft.com/en-us/blog/accelerating-the-adoption-of-enterprise-blockchain/)*
 
 试图将人的因素排除在商业之外是区块链出现的原因之一。这就是为什么可能成功实施区块链的行业是那些(1)严重依赖人类活动的行业，以及(2)受人为错误影响最大的行业，比如金融。

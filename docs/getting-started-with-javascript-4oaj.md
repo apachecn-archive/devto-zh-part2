@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/codetheweb/getting-started-with-javascript-4oaj>
 
-[![Getting started with JavaScript!](../Images/aff26c2a8316626269775bf8b084764c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vRT0NsO1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codetheweb.blog/assets/img/posts/hello-javascript/cover.png)
+[![Getting started with JavaScript!](img/aff26c2a8316626269775bf8b084764c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vRT0NsO1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codetheweb.blog/assets/img/posts/hello-javascript/cover.png)
 
 JavaScript 是一种让网站做事情的编程语言。它可以存储变量，根据逻辑执行某些操作等等。您甚至可以使用 JavaScript 更改页面的 HTML 并添加 CSS！这是每个 web 开发人员都必须在某个时候学习的语言，因为它非常*有用*。
 
@@ -95,7 +95,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 最后，行尾有一个分号。从技术上讲，它们并不总是需要的，但是你应该在每一行的末尾加上一个分号。起初这可能很难记住——这就是为什么每个 JavaScripter 程序员都希望其中一个确实存在:
 
-[![A keyboard with a giant semicolon key](../Images/c73d4b118f8051dd6d8a05023e96a418.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CF0O1vq0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codetheweb.blog/assets/img/posts/hello-javascript/semicolon-keyboard.png)
+[![A keyboard with a giant semicolon key](img/c73d4b118f8051dd6d8a05023e96a418.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CF0O1vq0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codetheweb.blog/assets/img/posts/hello-javascript/semicolon-keyboard.png)
 
 > 来源: [Reddit](https://www.reddit.com/r/ProgrammerHumor/comments/283he1/if_somebody_were_to_make_this_keyboard_i_would/)
 
@@ -125,7 +125,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 重新加载页面，看看会发生什么...
 
-[![An alert pops up!](../Images/c481db44c45597af8bd6f645bb20d170.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HXv5k4Uz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codetheweb.blog/assets/img/posts/hello-javascript/alert.png)
+[![An alert pops up!](img/c481db44c45597af8bd6f645bb20d170.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HXv5k4Uz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codetheweb.blog/assets/img/posts/hello-javascript/alert.png)
 
 呜！你现在正式成为一名 JavaScripter 程序员了！🎉 🎉
 

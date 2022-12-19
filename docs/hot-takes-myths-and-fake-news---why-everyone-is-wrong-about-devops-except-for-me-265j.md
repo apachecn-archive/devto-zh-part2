@@ -6,7 +6,7 @@
 
 说到 DevOps 不要相信网上看到的一切。很多人认为他们知道自己在说什么，但他们真的不知道。
 
-[![](../Images/2dc7e64c23a4b71560fe4fc7d8cead9a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fZe9VGXm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/etqgxy98bkur62s5x79s.png)
+[![](img/2dc7e64c23a4b71560fe4fc7d8cead9a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fZe9VGXm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/etqgxy98bkur62s5x79s.png)
 
 这里有一个关于 DevOps 的一些常见误解的简单列表，以及为什么它们是错误的。
 
@@ -70,7 +70,7 @@
 
 ### 假！
 
-[![](../Images/925067719c13aaad1a9e5d14b69f154e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rsMo2vV_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yrdh560rxgfytqf61yvg.png)
+[![](img/925067719c13aaad1a9e5d14b69f154e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rsMo2vV_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yrdh560rxgfytqf61yvg.png)
 
 还需要我多说吗？
 

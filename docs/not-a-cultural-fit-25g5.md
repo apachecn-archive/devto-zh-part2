@@ -8,7 +8,7 @@
 
 仅此而已。这是最可怕的拒绝反馈，像我这样的内向的人，有相当程度的不安全感，知道它不能被挑战或争论。这种所谓的*文化契合*不是你可以有发言权的事情，也不是你可以实现的事情，不管那是不是你想做的事情。同样，这也不是你可以主动训练的，比如当你因为“你没有足够的经验”或“你没有这个或那个技能”而被拒绝时，甚至当他们需要“有领导技能的人”时。如果你不是一个文化上的合适者，那是相当永久的，你不可能出去获得一些，然后在明年申请这份工作，主要是因为“文化”在这种情况下是一个非常松散的术语，你不确定它到底是什么，但你知道你不适合。
 
-<figure>[![](../Images/cc5f7ef2e25fa12a0bb3e804ad3e5524.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jwSwHc-r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AnZk5Dd2wjoP-GwxqV-gOOw.jpeg) 
+<figure>[![](img/cc5f7ef2e25fa12a0bb3e804ad3e5524.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jwSwHc-r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AnZk5Dd2wjoP-GwxqV-gOOw.jpeg) 
 
 <figcaption>照片由[贾斯汀主](https://unsplash.com/photos/srDN5nHM35g?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)上[下](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 
@@ -54,7 +54,7 @@ iPhone 和其他智能手机的出现催生了一种新的消息平台，其中�
 
 这导致了一个结论，在面试中评估一个人的幸福水平，并使用这种类型的信息来确定这个人是否适合这个职位，根据他们可能出现的情绪，不仅是不道德的，而且可能是非法的，根据***【ADA***。在英国，精神健康问题受到 2010 年 [**平等法案**](https://www.gov.uk/rights-disabled-person/employment) 的保护，被定义为损害的精神健康状况被列在[指导文件](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/570382/Equality_Act_2010-disability_definition.pdf)的*A*部分。
 
-<figure>[![](../Images/cd1141e3d639ad7c29e3771b7a27814f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7Nq7frjr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWqU5k0Ox0m4EXdTo69-iRA.jpeg) 
+<figure>[![](img/cd1141e3d639ad7c29e3771b7a27814f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7Nq7frjr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWqU5k0Ox0m4EXdTo69-iRA.jpeg) 
 
 <figcaption>照片由[玛戈·布罗多维茨](https://unsplash.com/photos/6DXT79UXikY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)上传 [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 

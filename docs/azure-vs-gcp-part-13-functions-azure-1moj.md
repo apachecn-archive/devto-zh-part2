@@ -42,38 +42,38 @@ Azure 提供函数 App 支持函数技术。
 ### 基本功能
 
 1.转到 [Azure 门户](https://portal.azure.com)并创建新资源。选择功能应用程序并创建。
-T3![function](../Images/026d045fbd36224e664b781c2229573c.png)T5】
+T3![function](img/026d045fbd36224e664b781c2229573c.png)T5】
 
 2.输入唯一的应用程序名称，然后选择操作系统。这次我选择了“视窗”。点击“创建”。
-[![funciton](../Images/f20aa21534cf410c5d5752840e2fd01d.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--MN3-6Gor--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9sgsk9xitallzirzh419.PNG)
+[![funciton](img/f20aa21534cf410c5d5752840e2fd01d.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--MN3-6Gor--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9sgsk9xitallzirzh419.PNG)
 
 3.一旦创建好了，就转到资源。选择“功能”并点击“+”，然后点击“新功能”。
-[![function](../Images/49593d739039bfdc97c44468971d1aab.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--WsZoENnf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w50mchognsbwc6v5yjw0.PNG)
+[![function](img/49593d739039bfdc97c44468971d1aab.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--WsZoENnf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w50mchognsbwc6v5yjw0.PNG)
 
 4.选择您想尝试的触发器和语言。我这里用的是 HTTP 触发器和 C#。
-[![function](../Images/cd6efc66df248a667943097f673e40d4.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--wvKX1YKR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bo1lhbd5q068cby6q4d9.PNG)
+[![function](img/cd6efc66df248a667943097f673e40d4.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--wvKX1YKR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bo1lhbd5q068cby6q4d9.PNG)
 
 5.使用默认值单击“创建”。也许改名是个好主意。
-[![function](../Images/21b0a7e0d2cbad11f3056263afbe74d5.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--WQ7gBDE0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8zsfu1uvh69sgp3kc9l5.PNG)
+[![function](img/21b0a7e0d2cbad11f3056263afbe74d5.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--WQ7gBDE0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8zsfu1uvh69sgp3kc9l5.PNG)
 
 6.此时，该函数通过 http 被触发，并返回 http 响应作为输出。点击“获取功能 URL”并复制地址。
-[![function](../Images/6464642e81745bc325025417f1834ab0.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wt-3oDDR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nzs0m7vld3no17qpr33l.PNG)
+[![function](img/6464642e81745bc325025417f1834ab0.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wt-3oDDR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nzs0m7vld3no17qpr33l.PNG)
 
 7.通过 postman 或 curl 等工具点击 URL。添加名称参数。
-[![function](../Images/b6231bb337fe3e749335ac09fe372f0f.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--XsvDKL9m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bum05yfbwknjb8zme7yj.PNG)
+[![function](img/b6231bb337fe3e749335ac09fe372f0f.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--XsvDKL9m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bum05yfbwknjb8zme7yj.PNG)
 
 ### 输入绑定
 
 现在，让我们尝试整合。因为我已经有了存储帐户，它是在我创建函数 App 时自动创建的，所以我将它用作我的输入和输出。
 
 1.选择集成。我可以把 HTTP 看作触发器和输出，没有输入。
-[![input](../Images/eb10ff5e7daa737cffb2666c3e866613.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--5sG8hUpF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7anqfovwnnrzn14ooc6e.PNG)
+[![input](img/eb10ff5e7daa737cffb2666c3e866613.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--5sG8hUpF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7anqfovwnnrzn14ooc6e.PNG)
 
 2.点击“新输入”并选择“Azure Blob 存储”。然后点击“选择”。
-[![input](../Images/af056010c3d16f1b9c2675eec30b839b.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--WixQBdXv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/491zh3meob5xdozb746w.PNG)
+[![input](img/af056010c3d16f1b9c2675eec30b839b.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--WixQBdXv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/491zh3meob5xdozb746w.PNG)
 
 3.单击存储帐户连接旁边的“新建”。选择要连接的存储帐户。向导关闭时，单击“保存”。输入名为“inputBlob ”,路径为“incontainer”。我对这个函数使用容器级，所以我没有指定对象级路径。
-[![input](../Images/dec1307835c96fd74ba74bca86b1c4b2.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--4-mGQwbq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sqjdgp1bmc9b3jrmevfb.PNG)
+[![input](img/dec1307835c96fd74ba74bca86b1c4b2.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--4-mGQwbq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sqjdgp1bmc9b3jrmevfb.PNG)
 
 4.返回函数，用下面的代码更新代码。
 
@@ -118,7 +118,7 @@ public static async Task<HttpResponseMessage> Run(
 Enter fullscreen mode Exit fullscreen mode
 
 5.点击右边的“Test ”,添加带有某个名称的参数“name”。
-[![input](../Images/227098270b0c70c7e598323007ac862c.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--oYHsM5Oj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8plr85gpbfz78z2qt51i.PNG)
+[![input](img/227098270b0c70c7e598323007ac862c.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--oYHsM5Oj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8plr85gpbfz78z2qt51i.PNG)
 
 6.点击“保存并运行”
 

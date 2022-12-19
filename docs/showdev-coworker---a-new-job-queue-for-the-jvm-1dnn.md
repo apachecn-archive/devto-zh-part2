@@ -4,7 +4,7 @@
 
 如果你曾经编写过 ruby on rails 应用程序，你会知道一个非常常见的模式是拥有一个作业运行器，比如[延迟作业](https://github.com/collectiveidea/delayed_job)、 [Sidekiq](https://github.com/mperham/sidekiq) ，或者类似的框架。然而，您可能会惊讶，在 Java 生态系统中并没有这么多！事实上，直到现在，唯一的标准解决方案之一是[杰斯克](https://github.com/gresrun/jesque)。
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [米苏拉](https://github.com/Mythra) / [同事](https://github.com/Mythra/Coworker)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [米苏拉](https://github.com/Mythra) / [同事](https://github.com/Mythra/Coworker)
 
 ### 一个相当不错的 JVM 延迟作业队列。
 
@@ -45,7 +45,7 @@ Coworker 是为基于 JVM 的语言构建的延迟工作运行程序，用 kotli
 
 在 java 中，同事加入实际作业队列的空间，比如 [Jesque](https://github.com/gresrun/jesque) 。然而，为了在实际工作中更有效地处理工作，已经从头开始构建了 Coworker。通过从 ruby library [InstJobs](https://github.com/instructure/inst-jobs) 获取在生产之火中构建的想法，并像 Fibers 一样建立在本地执行的想法上。有了这些特点结合 ***我们就有了力量*** 。
 
-[![He Man I Have the Power](../Images/8f0555ce481a665bfbb4e9d1c12e1ceb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--78TNGcx8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://public-clownfront-distribution.insops.net/images/IHaveThePower.gif)
+[![He Man I Have the Power](img/8f0555ce481a665bfbb4e9d1c12e1ceb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--78TNGcx8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://public-clownfront-distribution.insops.nimg/IHaveThePower.gif)
 
 这种能力是在一台机器上每秒执行数百个任务。具体来说，同事的电梯间推介的一些特点包括:
 
@@ -60,7 +60,7 @@ Coworker 是为基于 JVM 的语言构建的延迟工作运行程序，用 kotli
 
 如果你看了同事的自述文件，你首先会看到的是我们的性能测试领域。具体来说，您会看到一个类似如下的图表:
 
-[![Graph of Coworker Performance](../Images/f335611e1fe3131a720f2f87d9d05b2b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--24TSvcGo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/SecurityInsanity/Coworker/master/bench/coworker-timings.png)
+[![Graph of Coworker Performance](img/f335611e1fe3131a720f2f87d9d05b2b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--24TSvcGo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/SecurityInsanity/Coworker/master/bench/coworker-timings.png)
 
 其中，Coworker 是标记为“1”的行，Jesque 是标记为“0”的行。现在你可能在想“GitHub 上的一个性能测试图，这可能是为了让同事总是获胜而设计的”。这在技术上是正确的，但只是因为 Coworker 是为更快地运行现实生活中的工作场景而构建的！
 
@@ -87,7 +87,7 @@ Coworker 是为基于 JVM 的语言构建的延迟工作运行程序，用 kotli
 
 接下来，在我们的假设场景中，假设账户“1”是我们的大客户，账户“2”、“3”和“4”是我们的小客户。比方说，每当用户访问一个页面时，我们就将一个作业排队，以便在后台更新我们的分析。因为帐户“1”要大得多，所以我们假设他们排队 10 个作业，而帐户“2”/“3”/“4”各排队 1 个作业。我们有一个包含 10 个工作线程的作业箱。同事如何安排这项工作？
 
-[![Thinking Face](../Images/93a67f48fe7ca03b4b87aa36fe42705c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5OR9jQzr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://public-clownfront-distribution.insops.net/images/thonk.png)
+[![Thinking Face](img/93a67f48fe7ca03b4b87aa36fe42705c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5OR9jQzr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://public-clownfront-distribution.insops.nimg/thonk.png)
 
 该同事实际上会一次安排 8 个作业，并在队列中留下 5 个！具体来说，它将运行 5 个“帐户:1”作业，以及每个帐户“2”/“3”/“4”作业。因为您已经设置了一个规则，您只希望在特定时间运行特定帐户的 5 个作业！然后，一旦其中一个“帐户:1”作业完成，它将看到只有 4 个作业正在工作，然后排队下一个“帐户:1”作业。这样你的大客户就不会饿死你的一个员工。
 

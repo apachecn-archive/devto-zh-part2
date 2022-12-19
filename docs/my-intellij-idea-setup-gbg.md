@@ -25,11 +25,11 @@ Fira 代码很快成为我的最爱，因为它不仅读起来很好，而且支
 
 以下是我的设置:
 
-[![Font settings](../Images/d69b3fdabbc35333d7cace6e0ac614b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sU-k1q5c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aqrwneyik27zmvdwp4wh.png)
+[![Font settings](img/d69b3fdabbc35333d7cace6e0ac614b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sU-k1q5c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aqrwneyik27zmvdwp4wh.png)
 
 要了解更多信息，请查看他们的 GitHub 知识库:
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [汤斯基](https://github.com/tonsky) / [菲拉科德](https://github.com/tonsky/FiraCode)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [汤斯基](https://github.com/tonsky) / [菲拉科德](https://github.com/tonsky/FiraCode)
 
 ### 带编程连字的自由等宽字体
 
@@ -37,7 +37,7 @@ Fira 代码很快成为我的最爱，因为它不仅读起来很好，而且支
 
 ## Fira 代码:带有编程连字的自由等宽字体
 
-[![Fira Code](../Images/2fc90b95a6153d36e64030c3bae186ae.png)T2】](https://github.com/tonsky/FiraCode./extras/logo.svg)
+[![Fira Code](img/2fc90b95a6153d36e64030c3bae186ae.png)T2】](https://github.com/tonsky/FiraCode./extras/logo.svg)
 
 读入西班牙语 | [简体中文](https://github.com/tonsky/FiraCode./README_CN.md)
 
@@ -51,7 +51,7 @@ Fira Code 是一种免费的等宽字体，包含常见编程多字符组合的�
 
 ### 下载和安装
 
-[![Fira_Code_v6.2.zip - December 6, 2021 - 2.5 MB](../Images/f5edddd2acf01b3922f707dcf1a4b80e.png)T2】](https://github.com/tonsky/FiraCode/releases/download/6.2/Fira_Code_v6.2.zip)
+[![Fira_Code_v6.2.zip - December 6, 2021 - 2.5 MB](img/f5edddd2acf01b3922f707dcf1a4b80e.png)T2】](https://github.com/tonsky/FiraCode/releases/download/6.2/Fira_Code_v6.2.zip)
 
 然后:
 
@@ -77,7 +77,7 @@ Fira Code 是一种免费的等宽字体，包含常见编程多字符组合的�
 
 我创建了一个`Pizza`类，当我创建它的一个新实例时，自动完成弹出:
 
-[![Auto completion without case sensitivity](../Images/f141833890cd383b85de89c4d2802cf0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pW8Xz-q4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/whwlnylajff8vhu1zwmp.png)
+[![Auto completion without case sensitivity](img/f141833890cd383b85de89c4d2802cf0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pW8Xz-q4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/whwlnylajff8vhu1zwmp.png)
 
 现在，您可以亲自尝试一下，看看它是否适合您:)
 

@@ -58,15 +58,15 @@ Enter fullscreen mode Exit fullscreen mode
 
 #### DbVisualizer
 
-[![](../Images/dfad33d8f83ca73d3321373795b965cb.png)T2】](https://lucene.apache.org/solr/guide/7_2/solr-jdbc-dbvisualizer.html)
+[![](img/dfad33d8f83ca73d3321373795b965cb.png)T2】](https://lucene.apache.org/solr/guide/7_2/solr-jdbc-dbvisualizer.html)
 
 #### 松鼠 SQL
 
-[![](../Images/d87f494484756cc92d4b47dd4a157e91.png)T2】](https://lucene.apache.org/solr/guide/7_2/solr-jdbc-squirrel-sql.html)
+[![](img/d87f494484756cc92d4b47dd4a157e91.png)T2】](https://lucene.apache.org/solr/guide/7_2/solr-jdbc-squirrel-sql.html)
 
 #### 阿帕奇齐柏林飞艇
 
-[![](../Images/6040156a2f05eb7781bf3f5858aac15e.png)T2】](https://lucene.apache.org/solr/guide/7_2/solr-jdbc-apache-zeppelin.html)
+[![](img/6040156a2f05eb7781bf3f5858aac15e.png)T2】](https://lucene.apache.org/solr/guide/7_2/solr-jdbc-apache-zeppelin.html)
 
 ### 接下来是什么？
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/samuyi/ssh-agents-in-depth-4116>
 
-[![Figure showing how SSH agent work](../Images/f47537709d074c745878ec95a9a0cf4e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jWh_oT7k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t74c6r06ugqdh1sijxe1.gif)
+[![Figure showing how SSH agent work](img/f47537709d074c745878ec95a9a0cf4e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jWh_oT7k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t74c6r06ugqdh1sijxe1.gif)
 
 在之前的[帖子](https://dev.to/samuyi/using-ssh-agent-to-simplify-your-ssh-experience--1in8)中，我们讨论了 ssh 密钥管理的最佳实践，其中涉及到使用 ssh-agent 来存储解密的私有密钥，以实现 SSH 客户端身份验证的自动化。在这篇文章中，我们将深入探讨 SSH 代理是如何工作的，包括它使用中的一些边缘案例。
 
@@ -45,7 +45,7 @@ $ssh-add  /home/you/.ssh/id_rsa
 
 ssh-add 会请求您输入一次密码，以加载私钥。有许多命令行选项，包括使用 ssh-add 命令在 ssh-agent 中列出和删除密钥。在您最喜欢的发行版上查找 ssh-add 的手册页，查看命令行选项的完整列表。
 
-[![figure showing how SSH agent forwarding works](../Images/12e8ad1737c9c21b772c2bc51d9711a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HRB_hcZ0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w7p1geq5kn5bf1ktp74l.gif)
+[![figure showing how SSH agent forwarding works](img/12e8ad1737c9c21b772c2bc51d9711a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HRB_hcZ0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w7p1geq5kn5bf1ktp74l.gif)
 
 ## 代理转发
 

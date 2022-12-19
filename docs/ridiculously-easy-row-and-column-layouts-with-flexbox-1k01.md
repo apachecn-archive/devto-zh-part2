@@ -227,11 +227,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 大于 800 像素时:
 
-[![large responsive at greater than 800](../Images/b48f373386d0254a7c1701e9cd903802.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DzPqDKUf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vzblza9096iap76a55ju.png)
+[![large responsive at greater than 800](img/b48f373386d0254a7c1701e9cd903802.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DzPqDKUf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vzblza9096iap76a55ju.png)
 
 小于 800 像素时:
 
-[![resonsive at less than 800](../Images/d27530c4858511d685eb8349f95a3d34.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dzGLNzsR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g4vz31amzqbpn5duuu5l.png)
+[![resonsive at less than 800](img/d27530c4858511d685eb8349f95a3d34.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dzGLNzsR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g4vz31amzqbpn5duuu5l.png)
 
 最终代码笔，提示单击右下角的 1x 或 0.5x 按钮，查看“响应式”布局的差异。
 

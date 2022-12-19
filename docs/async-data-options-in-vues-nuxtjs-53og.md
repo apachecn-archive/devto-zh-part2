@@ -28,7 +28,7 @@ Nuxt.js 有三个不同的钩子，专门为这种类型的“异步”数据获
 
 Nuxt 文档提供了这些相互关系的可视化图表:
 
-[![](../Images/36b4f00d7726c1fe6a6dd2438363acf1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kCGgZL5r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zendev.com/assets/img/posts/nuxt-async-hooks/nuxt-schema.png)
+[![](img/36b4f00d7726c1fe6a6dd2438363acf1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kCGgZL5r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zendev.com/assets/img/posts/nuxt-async-hooks/nuxt-schema.png)
 
 根据这个图，钩子按以下顺序出现:`nuxtServerInit`、`middleware`，然后是`fetch`、`asyncData`。让我们按顺序分解细节。
 

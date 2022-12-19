@@ -4,7 +4,7 @@
 
 # 水波起反应💧
 
-[![screen shot 2018-08-16 at 01 22 16](../Images/cbfb5b50455c53702d5201ad4f4f241a.png)T2】](https://xxhomey19.github.io/react-water-wave/)
+[![screen shot 2018-08-16 at 01 22 16](img/cbfb5b50455c53702d5201ad4f4f241a.png)T2】](https://xxhomey19.github.io/react-water-wave/)
 
 [**试玩链接**](https://xxhomey19.github.io/react-water-wave/)
 

@@ -8,7 +8,7 @@
 
 PHP 开发人员和框架的用户，如 [Electron](https://electronjs.org/) 通常是最严厉的*批评家最常见的受害者，导致了这样的迷因:*
 
-[![](../Images/f63432079adc4077c5c92dd56afca896.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Yh7K0h59--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AM5FszX-_-xh7PIIGSAd2Eg.jpeg)
+[![](img/f63432079adc4077c5c92dd56afca896.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Yh7K0h59--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AM5FszX-_-xh7PIIGSAd2Eg.jpeg)
 
 这些讨论在我看来是愚蠢而无用的。
 

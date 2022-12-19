@@ -20,7 +20,7 @@
 
 ## 社区助推信号
 
-[![the official twitter post](../Images/7d32cd5d070b1fdd54c1dd10aa53cfe7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qpOajaqc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jsrn.net/assets/images/successful-project/twitter-post.PNG)
+[![the official twitter post](img/7d32cd5d070b1fdd54c1dd10aa53cfe7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qpOajaqc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jsrn.net/asseimg/successful-project/twitter-post.PNG)
 
 这是上一点的延伸，但是如果可能的话，找一个社区成为它的一部分。我不想听起来像是在玩世不恭地利用被俘虏的观众来建立你的*~个人品牌~* ，但是如果你想让人们看到并评论你所做的东西，那么像 [dev.to](https://dev.to) 这样的社区是很好的一部分。我试着创造一些东西，然后把它们扔进漠不关心的虚空，希望能有互动，但这不起作用。
 
@@ -28,7 +28,7 @@
 
 在撰写本文时，存储库有相当数量的拉请求。
 
-[![a lot of pull requests!](../Images/4c9d51852d4789670f3e6e6902a6a461.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XwuzWAt---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jsrn.net/assets/images/successful-project/pull-requests.PNG)
+[![a lot of pull requests!](img/4c9d51852d4789670f3e6e6902a6a461.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XwuzWAt---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jsrn.net/asseimg/successful-project/pull-requests.PNG)
 
 有一小段时间我在合并它们，新的拉取请求比我合并它们和感谢人们的速度还要快。我注意到我从某些人那里获得了很多回头客，所以我把他们作为合作者加入了这个项目。我期望他们会使用这种新的权力将他们自己的变更合并到主分支中，已经确定他们知道什么样的变更是预期的，但是没有。我的新同事很快开始审查和合并来自其他人的拉请求，讨论变更并测试提议的功能。
 
@@ -36,7 +36,7 @@
 
 ## 利用 GitHub 的自动回复
 
-[![GitHub's saved reply feature](../Images/aeb95be02ab8472bc6a2d41cd2c3c392.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rqXZFjZo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jsrn.net/assets/images/successful-project/git-replies.png)
+[![GitHub's saved reply feature](img/aeb95be02ab8472bc6a2d41cd2c3c392.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rqXZFjZo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jsrn.net/asseimg/successful-project/git-replies.png)
 
 如果你一遍又一遍地说同样的话，做程序员应该做的事情:自动化。这感觉有点不真诚，试图用一封格式信来表达衷心的感谢，但这会节省你很多时间和精力。
 

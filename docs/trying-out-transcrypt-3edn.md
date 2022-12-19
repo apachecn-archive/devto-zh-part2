@@ -44,7 +44,7 @@ Transcrypt 的目标是成为 Python 的一个“90%完整”的实现，速度�
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Small equally sized red squares scattered on a white background.  The scattering is mostly random but there are a couple clusters and a few sparse places.](../Images/292c9b97d56d73b9a97a3e6fd03d37f5.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--D0cQobUq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i834vu6pyjlbxsdhr5xm.png) *你看不出来，但这些粒子都是相互吸引的。*
+[![Small equally sized red squares scattered on a white background.  The scattering is mostly random but there are a couple clusters and a few sparse places.](img/292c9b97d56d73b9a97a3e6fd03d37f5.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--D0cQobUq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i834vu6pyjlbxsdhr5xm.png) *你看不出来，但这些粒子都是相互吸引的。*
 
 经过一番努力，安装了正确版本的 CPython(Transcrypt 网站说需要 3.6)，pip3 install transcrypt 工作顺利。
 

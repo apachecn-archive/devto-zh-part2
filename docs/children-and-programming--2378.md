@@ -4,7 +4,7 @@
 
 最近在学校等侄子的时候，我在看周围的广告，不想太无聊。令我惊讶的是，关于编程课的广告和关于体育课的广告一样多。他们都瞄准了最小的孩子——小学一年级。我坐在那里，想知道当孩子们还不会用波兰语书写时，怎么可能教他们用任何编程语言编写代码。嘿，他们几乎不识字！
 
-[![Image](../Images/1063fc9bb48f5356a631cccf86681c05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---MVhCozR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i4o0fjlb7n3cuf5nta3u.jpg)
+[![Image](img/1063fc9bb48f5356a631cccf86681c05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---MVhCozR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i4o0fjlb7n3cuf5nta3u.jpg)
 
 当我更仔细地阅读通知时，发现<cite>编程</cite>对于最小的孩子来说，主要是关于逻辑思维、因果概念和问题解决。这些可能被认为是编程的基础，实际上也是数学的基础。那一刻，我意识到我在小学的时候就已经开始学习<cite>编程</cite>！
 

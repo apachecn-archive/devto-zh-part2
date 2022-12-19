@@ -12,7 +12,7 @@
 
 首先，看看下面运行在 [LINQPad](https://www.linqpad.net/) 上的超级简单的 C#代码:
 
-[![](../Images/f15789cc3bfa39bc3a4d0564e8963a2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A9iu1Wil--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/342/1%2A1zooSleYEpn67IUptN_6aw.png)
+[![](img/f15789cc3bfa39bc3a4d0564e8963a2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A9iu1Wil--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/342/1%2A1zooSleYEpn67IUptN_6aw.png)
 
 我们可以从 IL Results 面板中看到生成的 IL，也显示在上面的截图中。让我们只注意突出的部分。
 
@@ -20,7 +20,7 @@
 
 现在，让我们将`virtual`添加到方法中。像这样:
 
-[![](../Images/f3ea65ca4d3c886bfc74e82c549b7617.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TgLB73Tb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/374/1%2A96YASoiJD4iONgbRilFTWg.png)
+[![](img/f3ea65ca4d3c886bfc74e82c549b7617.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TgLB73Tb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/374/1%2A96YASoiJD4iONgbRilFTWg.png)
 
 哦，现在 IL 生成的是`callvirt`而不是`call`，有道理。
 
@@ -38,7 +38,7 @@
 
 现在，让我们稍微修改一下代码，将对象保存到一个实例变量中。
 
-[![](../Images/92c20c3df4d1a8fddd2418fd9ffcb435.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pWP6oqNk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/380/1%2A1cgx-3yZ-Vj4S75f8AyPuw.png)
+[![](img/92c20c3df4d1a8fddd2418fd9ffcb435.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pWP6oqNk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/380/1%2A1cgx-3yZ-Vj4S75f8AyPuw.png)
 
 啊哦，等等，生成的 IL 不是`call`而是`callvirt`……
 
@@ -48,13 +48,13 @@
 
 从那以后，C#不断发展。C#现在有了`?.`空条件操作符。让我们再次修改代码来使用这个操作符。
 
-[![](../Images/38f64e953927b13c4ab90adbcaf964f1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pkVobXQQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/358/1%2AsZ8DmzVppu7jmYEWnFf4Tg.png)
+[![](img/38f64e953927b13c4ab90adbcaf964f1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pkVobXQQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/358/1%2AsZ8DmzVppu7jmYEWnFf4Tg.png)
 
 好的，这样编译器可以确保对象不会为空，所以它可以优化它使用`call`而不是`callvirt`。
 
 现在，让我们添加虚拟。
 
-[![](../Images/67c9d47fcf3644a7c71a28fa11566d31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jCX5EFJy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/371/1%2ADdL1KRSp0NhTwPfaJFqAVA.png)
+[![](img/67c9d47fcf3644a7c71a28fa11566d31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jCX5EFJy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/371/1%2ADdL1KRSp0NhTwPfaJFqAVA.png)
 
 这一次，`callvirt`正在被使用，正如预期的那样。
 
@@ -64,17 +64,17 @@
 
 我们需要确定我们真的比较了`callvirt`和`call`。让我们来比较一下上面的最后两个代码。以下是输出:
 
-[![](../Images/e7798ffa4ee0176a9603049dc3195dec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HjzEazh---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AzNbNdPaNo8pXuctO5cNoLg.png)
+[![](img/e7798ffa4ee0176a9603049dc3195dec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HjzEazh---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AzNbNdPaNo8pXuctO5cNoLg.png)
 
 我们准备好了。
 
 这里是基准的代码。
 
-[![](../Images/8b3aae79123c8c2a06c35a209626fb84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CYsIBfuX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ALMG_95Mf_-Omyss85UYEiw.png)
+[![](img/8b3aae79123c8c2a06c35a209626fb84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CYsIBfuX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ALMG_95Mf_-Omyss85UYEiw.png)
 
 结果是:
 
-[![](../Images/5c8e5df984ddc360d470c7f8c21230e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iG_vHvjE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Arsoyab3720GgfwUTN0Xpig.png)
+[![](img/5c8e5df984ddc360d470c7f8c21230e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iG_vHvjE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Arsoyab3720GgfwUTN0Xpig.png)
 
 结果告诉我们，性能影响是如此之小。
 

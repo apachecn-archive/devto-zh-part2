@@ -57,7 +57,7 @@
 
 # 明确具体的顶层目标
 
-[![Envisioning a peanut butter and jelly sandwich](../Images/3c6a3b367ee44c82fefa273a016ba349.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EFsqz5Sg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jjb9bv3hfoemncx71j29.png)
+[![Envisioning a peanut butter and jelly sandwich](img/3c6a3b367ee44c82fefa273a016ba349.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EFsqz5Sg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jjb9bv3hfoemncx71j29.png)
 
 无论是为客户工作还是开发我们自己最好的新应用程序，如果没有可衡量的东西，我们将无法衡量任何进展或改进。
 
@@ -67,7 +67,7 @@
 
 # 优先考虑和规划中低级目标
 
-[![The components of a peanut butter and jelly sandwich](../Images/97b1bc06117bbac7ea2bbde4496d2274.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_eVVhU8D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6v4wa18oke7tlh5lde8l.png)
+[![The components of a peanut butter and jelly sandwich](img/97b1bc06117bbac7ea2bbde4496d2274.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_eVVhU8D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6v4wa18oke7tlh5lde8l.png)
 
 很少有目标是一步到位的。甚至制作花生酱和果冻三明治的简单过程(一个最受欢迎的计算机编程教学例子)也可以被分解成更小、更精确的指令。虽然我们人类可能不需要计算机程序那样的粒度，但被分成时间框、可实现的步骤的目标更容易理解。🥪
 
@@ -95,7 +95,7 @@
 
 # 自动化你的工作
 
-[![Peanut butter and jelly sandwich robot](../Images/ff236caf110316b9c7389aeb1dcd0da9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lmDmZ7cq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6ttbce1ini0p1ukb1w93.png)
+[![Peanut butter and jelly sandwich robot](img/ff236caf110316b9c7389aeb1dcd0da9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lmDmZ7cq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6ttbce1ini0p1ukb1w93.png)
 
 我最近读了一篇很棒的文章，标题是[手工工作是一个 Bug](https://queue.acm.org/detail.cfm?id=3197520) 。它讨论了成功的开发人员记录并最终自动化他们的工作的过程。这个想法的美妙之处在于它的简单。通过写下我们手动做的事情，我们能够纠正和改进我们的流程。通过细化我们的过程，我们可以更容易地将它们翻译成代码片段和脚本。有了一组可以串在一起的脚本，我们就可以自动化我们的工作。
 
@@ -107,7 +107,7 @@
 
 # 划出代码评审的时间
 
-[![Reviewing a peanut butter and jelly sandwich with a clipboard](../Images/d53ee2e06dd77750d397b70f9aa66a68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iReRyTDI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jqgdl70vx8wlakzoxjql.png)
+[![Reviewing a peanut butter and jelly sandwich with a clipboard](img/d53ee2e06dd77750d397b70f9aa66a68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iReRyTDI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jqgdl70vx8wlakzoxjql.png)
 
 当我们单独工作时，很容易犯混乱的代码。我们想，谁会去看呢？我过会儿会修理它。每次发生这种情况，我们都会养成一种习惯。这是一个坏消息。
 
@@ -161,7 +161,7 @@
 
 # 划出流程评审时间
 
-[![Reviewing sandwich making robot with clipboard](../Images/42dd2b59dc39c5a2b8a6eca9d621dc72.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fxgk963p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kqbrd7db5zwuq6ek5frs.png)
+[![Reviewing sandwich making robot with clipboard](img/42dd2b59dc39c5a2b8a6eca9d621dc72.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fxgk963p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kqbrd7db5zwuq6ek5frs.png)
 
 正如我们从审查我们的代码中学习一样，我们也通过审查它们来精炼我们的过程。在整个项目中定期进行过程评审是最有益的，而不仅仅是在项目完成之后。对于短期项目来说，安排过程评审的一个好的起点是在每个半标记处——中途一次，完成后再一次。长期项目可能在每个季度都有评审。
 
@@ -180,7 +180,7 @@
 
 # 根据您的评估结果更新您的目标和流程
 
-[![Adding additional arms to robot while envisioning a multi-layer PB&J](../Images/f6fa525e50320b176878c4f9bc53b627.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7VT02O_B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oe5e1zlrg0cwgjxgl6k2.png)
+[![Adding additional arms to robot while envisioning a multi-layer PB&J](img/f6fa525e50320b176878c4f9bc53b627.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7VT02O_B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oe5e1zlrg0cwgjxgl6k2.png)
 
 如果我们不付诸实践，世界上所有的性能数据对我们都没有好处。随着每一次后续的代码审查，我们可以细化并添加到我们的清单中。利用我们从每次过程评审中所学到的东西，我们可以微调和改进我们的过程。我们越能发明具体的、可观察的方法来实施我们的学习，我们就越能成功。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/adityarohilla94/a-brief-introduction-to-support-vector-machine-4ne8>
 
-[![](../Images/a56ed595b62ad64cb97980a0f148a95f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uL6WXdnC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AQRD9cnsROioDuQ1lQeaE7g.jpeg)
+[![](img/a56ed595b62ad64cb97980a0f148a95f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uL6WXdnC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AQRD9cnsROioDuQ1lQeaE7g.jpeg)
 
 支持向量机(SVM)是最流行的机器学习分类器之一。它属于监督学习算法的范畴，并使用边缘的概念在类之间进行分类。它给出了比 KNN，决策树和朴素贝叶斯分类器更好的准确性，因此非常有用。
 
@@ -26,7 +26,7 @@
 
 SVM 用一个 ***【超平面】*** 做到了这一点。这个超平面在二维数据的情况下可以是一条直线，在三维数据的情况下可以是一个平面。
 
-[![](../Images/baf4a0db143544b1270c8e2fd3d876d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mo-c0mqV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/599/0%2ALqJ35BlMaAWGfPLv.png)
+[![](img/baf4a0db143544b1270c8e2fd3d876d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mo-c0mqV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/599/0%2ALqJ35BlMaAWGfPLv.png)
 
 不用深入幕后的数学，让我们了解一些基本的功能。
 
@@ -42,7 +42,7 @@ SVM 用一个 ***【超平面】*** 做到了这一点。这个超平面在二�
 
 最棒的是，SVM 还可以对非线性数据进行分类。
 
-[![](../Images/3ca32aea6f087ea77c9e622d83ca2287.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d7skGpeZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AWPin9_Rxa7YRYGWJ.png)
+[![](img/3ca32aea6f087ea77c9e622d83ca2287.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d7skGpeZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AWPin9_Rxa7YRYGWJ.png)
 
 在非线性数据的情况下，事情变得有点棘手。在这里，SVM 使用了**‘K _ ernel-trick _’**，它使用了一个核函数来将非线性数据映射到更高维度，以便它变成线性的，并在那里找到决策边界。
 
@@ -88,7 +88,7 @@ print("Accuracy:",metrics.accuracy\_score(y\_test, y\_pred))
 
 如果你觉得无聊，这里有一只可爱的猫！
 
-[![](../Images/95015a6b94f3a17bee194aabd772f747.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pMtr3uo2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/474/0%2AxVCO6kFL8keODteE.jpg)
+[![](img/95015a6b94f3a17bee194aabd772f747.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pMtr3uo2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/474/0%2AxVCO6kFL8keODteE.jpg)
 
 ### 调谐参数
 
@@ -108,7 +108,7 @@ print("Accuracy:",metrics.accuracy\_score(y\_test, y\_pred))
 
 这是给你的饼干
 
-[![](../Images/b2d22aee5dd0be3e233dec8578ddd657.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EEHqCS1q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AWE2DXEU7XW0ieQZS.jpg)
+[![](img/b2d22aee5dd0be3e233dec8578ddd657.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EEHqCS1q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AWE2DXEU7XW0ieQZS.jpg)
 
 > 如果你喜欢这篇文章，不要忘记*喜欢*！
 

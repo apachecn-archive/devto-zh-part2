@@ -6,7 +6,7 @@
 
 这是我们正在建造的:
 
-[![The simple form we're building consists of one email input and one submit button](../Images/1b62272423ea8ed85e2978ae29da3f05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NMT7PVb5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/simple-form-css-grid/form.png)
+[![The simple form we're building consists of one email input and one submit button](img/1b62272423ea8ed85e2978ae29da3f05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NMT7PVb5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/simple-form-css-grid/form.png)
 
 ## 用 CSS 网格构建表单
 
@@ -34,7 +34,7 @@ form {
 
 以下是您得到的结果:
 
-[![Two rows of elements. The first row is the email input. The second row is the submit button](../Images/dad342ddaf7cae089661d825c881bf14.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IFGZW368--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/simple-form-css-grid/grid1.png)
+[![Two rows of elements. The first row is the email input. The second row is the submit button](img/dad342ddaf7cae089661d825c881bf14.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IFGZW368--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/simple-form-css-grid/grid1.png)
 
 为什么我们有两排？
 
@@ -69,7 +69,7 @@ form {
 </form> 
 ```
 
-[![Adding a smiley icon as the to the submit button](../Images/916b2a80869b7b91a371dd7f193c36b5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--h1ehl2KA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/simple-form-css-grid/smiley.png) 
+[![Adding a smiley icon as the to the submit button](img/916b2a80869b7b91a371dd7f193c36b5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--h1ehl2KA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/simple-form-css-grid/smiley.png) 
 
 <figure>
 
@@ -81,7 +81,7 @@ form {
 
 如果您想改变这种行为，您可以将`align-items`属性改为`start`、`end`或`center`。
 
-[![Items can be aligned differently if you set `align-itemns` to a different value](../Images/713eebcadaec7afe72156795f2827744.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vulH41Gj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/simple-form-css-grid/align-items.png) 
+[![Items can be aligned differently if you set `align-itemns` to a different value](img/713eebcadaec7afe72156795f2827744.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vulH41Gj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/simple-form-css-grid/align-items.png) 
 
 <figure>
 

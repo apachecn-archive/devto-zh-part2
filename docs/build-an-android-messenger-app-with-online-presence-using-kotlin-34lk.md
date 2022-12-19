@@ -10,7 +10,7 @@
 
 这是我们将构建的演示:
 
-[![](../Images/31cd54d82454f960d3d5bd20271cd395.png)T2】](//images.ctfassets.net/1es3ne0caaid/mmdMFfq7WoYsk26cIKocs/486ce2b458e45a41cfeb01ab4441f3b4/android-messenger-presence-demo.gif)
+[![](img/31cd54d82454f960d3d5bd20271cd395.png)T2】](//images.ctfassets.net/1es3ne0caaid/mmdMFfq7WoYsk26cIKocs/486ce2b458e45a41cfeb01ab4441f3b4/android-messenger-presence-demo.gif)
 
 # 先决条件
 
@@ -1028,7 +1028,7 @@ Finally, the last endpoint will be to trigger an event <span class="hljs-string"
 
 > 在运行 Android 应用程序之前，确保我们之前构建的 Node.js API 正在运行。
 
-[![](../Images/31cd54d82454f960d3d5bd20271cd395.png)T2】](//images.ctfassets.net/1es3ne0caaid/mmdMFfq7WoYsk26cIKocs/486ce2b458e45a41cfeb01ab4441f3b4/android-messenger-presence-demo.gif)
+[![](img/31cd54d82454f960d3d5bd20271cd395.png)T2】](//images.ctfassets.net/1es3ne0caaid/mmdMFfq7WoYsk26cIKocs/486ce2b458e45a41cfeb01ab4441f3b4/android-messenger-presence-demo.gif)
 
 ## 结论
 

@@ -6,11 +6,11 @@
 
 几天前，当我们准备部署应用程序时，我试图进行生产构建，这时问题出现了。我运行了`ng build --prod`命令，大约运行到一半时，我得到了一个错误:
 
-[![Output of an error during an Angular build process.](../Images/33978ab4152bdd23fda653c0aee7f855.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9MdDiB_u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestonlamb.com/static/images/blogPosts/es6CodeInAngular/error-output.png)
+[![Output of an error during an Angular build process.](img/33978ab4152bdd23fda653c0aee7f855.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9MdDiB_u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestonlamb.com/statimg/blogPosts/es6CodeInAngular/error-output.png)
 
 有时我会得到这个错误，有时它是不同但相似的。错误是关于“意外的标记常量”。虽然不是很具体，我甚至不知道应该查看哪个文件来找出问题所在。所以我开始在谷歌上搜索这个问题，很幸运地遇到了这个 GitHub 问题，它给我指出了正确的方向。具体来说，我发现了这个评论:
 
-[![GitHub issue comment that gave me the idea to look for JavaScript code written in ES6.](../Images/e1420377b1e1320b125b180942b8ffde.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pfsogXxr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestonlamb.com/static/images/blogPosts/es6CodeInAngular/github-issue.png)
+[![GitHub issue comment that gave me the idea to look for JavaScript code written in ES6.](img/e1420377b1e1320b125b180942b8ffde.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pfsogXxr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestonlamb.com/statimg/blogPosts/es6CodeInAngular/github-issue.png)
 
 在那一点上，我能够回到我的代码库并找出问题所在。因为文件足够小，所以我可以手动将其改回 ES5 语法。这样做之后，构建成功了，我可以继续了。
 

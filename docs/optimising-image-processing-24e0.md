@@ -139,7 +139,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 使用 dotTrace，我们可以看到最大的成本在哪里
 
-[![image-01](../Images/818897ae7b0a88b6726aaebf0ec74e15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3fMii8Mg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7ulo5bhw2oltjs2aorio.jpg)
+[![image-01](img/818897ae7b0a88b6726aaebf0ec74e15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3fMii8Mg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7ulo5bhw2oltjs2aorio.jpg)
 
 现在我们已经建立了一个基线——让我们开始吧！
 
@@ -197,7 +197,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 再次使用 dotTrace，我们可以看到下一个最大的成本:-
 
-[![image-02](../Images/f3e632fd42ea54670495cd5a4633c346.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WYju81T6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bzqur2yor8fs9ms0yo5q.jpg)
+[![image-02](img/f3e632fd42ea54670495cd5a4633c346.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WYju81T6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bzqur2yor8fs9ms0yo5q.jpg)
 
 在`GPStream`的构造函数内部发生了一些事情，让我们付出了沉重的代价。幸运的是，dotTrace 可以向我们展示反编译后的源代码，这样我们就不用去查阅参考资料了:-
 
@@ -274,7 +274,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 dotTrace 向我们展示了我们确实已经将成本从框架代码转移到了我们的代码中:-
 
-[![image-04](../Images/f460ce8b2de0df1096df16f4834a3d1b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o5uvnaW6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iwf9vije0zwdhota4rds.jpg)
+[![image-04](img/f460ce8b2de0df1096df16f4834a3d1b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o5uvnaW6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iwf9vije0zwdhota4rds.jpg)
 
 现在我们*可以*利用我们的老朋友`System.Buffers`租一辆`byte[]`然后把它交给`MemoryStream`的建造者。这是可行的，除了两件事。首先，`Content-Length`是[不保证](https://docs.microsoft.com/en-us/dotnet/api/system.net.httpwebresponse.contentlength?view=netframework-4.7.2#remarks)被置位。其次，几周前我在逛[。当我遇到`Microsoft.IO.RecyclableMemoryStream`时，我觉得这正是我在这里需要的。如果你想了解更多关于`RecyclableMemoryStream`的信息，本·沃特森有一个](https://github.com/datastax/csharp-driver/blob/d8bb178b06c4c075fdeebae44edff8972d6a5a76/src/Cassandra/TcpSocket.cs#L437)[很棒的帖子](http://www.philosophicalgeek.com/2015/02/06/announcing-microsoft-io-recycablememorystream/)关于它是什么以及它的各种用例。直接跳到`V3` :-
 
@@ -363,7 +363,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是一个*难以置信的*对`V1`的改进。这是`V3`在 dotTrace 中的样子:-
 
-[![image-05](../Images/ccd6621c4a1344ed57f9ff8030a6c772.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u-f5Zx_U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w6nyssdrikkdfw61ot8b.jpg)
+[![image-05](img/ccd6621c4a1344ed57f9ff8030a6c772.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u-f5Zx_U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w6nyssdrikkdfw61ot8b.jpg)
 
 ## 再见系统。画画，你不会被错过
 
@@ -442,7 +442,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 无意双关——就在这篇文章即将发表之前，我看到了这条有趣的推文
 
-> ![JimBobSquarePants profile image](../Images/42dce12617f7c9b952730ec88f82533d.png)JimBobSquarePants@ James _ m _ south![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)awwww Yeaaaaaaah😎[twitter.com/1Marcos2Cobena…](https://t.co/E4wzeQA3MC)2018 年 6 月 29 日上午 09:43马科斯·科贝尼亚·莫里安(好样的！) @1Marcos2Cobena出于好奇，我们@WaveEngineTeam 发布了我们对@ SixLabors 的 ImageSharp 与 native approaches 在一系列平台上的对比统计数据 https://t.co/4sN0yZnG2t # WaveEngine[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1012632551486205952)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1012632551486205952)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1012632551486205952)
+> ![JimBobSquarePants profile image](img/42dce12617f7c9b952730ec88f82533d.png)JimBobSquarePants@ James _ m _ south![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)awwww Yeaaaaaaah😎[twitter.com/1Marcos2Cobena…](https://t.co/E4wzeQA3MC)2018 年 6 月 29 日上午 09:43马科斯·科贝尼亚·莫里安(好样的！) @1Marcos2Cobena出于好奇，我们@WaveEngineTeam 发布了我们对@ SixLabors 的 ImageSharp 与 native approaches 在一系列平台上的对比统计数据 https://t.co/4sN0yZnG2t # WaveEngine[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1012632551486205952)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1012632551486205952)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1012632551486205952)
 
 我自然很感兴趣，除了花费的时间、峰值工作集和 LOH 分配显著增加之外，旋转`V5`给了我与`V4`相似的结果。在他们的 [Gitter](https://gitter.im/ImageSharp/General?at=5b3635af7da8cd7c8c786c53) 上的一次对话后，我了解到他们是:-
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/albogdano/implementing-full-text-search-for-your-static-site-4ool>
 
-[![](../Images/ebb4e6f1839cf2dfd21fa8d662e5ad26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2-RA0OpP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://erudika.com/assets/img/blogpost_media8.png)
+[![](img/ebb4e6f1839cf2dfd21fa8d662e5ad26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2-RA0OpP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://erudika.com/assets/img/blogpost_media8.png)
 
 静态站点生成器非常棒——它们可以快速完成我们的博客、登录页面和项目网站的工作。它们使构建、部署和遗忘变得简单——免费托管，无需维护，一种“无服务器”技术。静态网站非常适合那些很少改变的内容。它们缺乏动态功能，但主要问题是你不能在不离开网站的情况下快速搜索一段内容，这阻碍了用户体验。
 
@@ -28,7 +28,7 @@ $ para-cli setup
 
 如果您还没有免费账户，请访问[ParaIO.com](https://paraio.com/signin)并注册。接下来，我们将创建一个新的应用程序来存储我们的博客文章。如果你已经有一个包含一些对象的应用程序，你仍然可以通过使用不同类型的对象来适应你的站点内容，比如`blogpost`。
 
-[![](../Images/3e5e17100fd623d0ac483963eca5a311.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M9J8W1cT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://erudika.com/assets/img/ftsearch1.png)
+[![](img/3e5e17100fd623d0ac483963eca5a311.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M9J8W1cT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://erudika.com/assets/img/ftsearch1.png)
 
 记下您的 Para 访问和密钥，我们将在 CLI 工具中用到它们。现在是时候收集我们的 HTML 文件并将它们发送到 Para 进行索引了。
 
@@ -37,7 +37,7 @@ $ para-cli create "blog/20*/**/*.html" --type "blogpost" --sanitize \
 --accessKey "app:myapp" --secretKey "[key]" 
 ```
 
-[![](../Images/ed4621fcc2ba99e0cdcfdd3ccd2b1e1c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wk1hm3Nk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://erudika.com/assets/img/ftsearch2.png)
+[![](img/ed4621fcc2ba99e0cdcfdd3ccd2b1e1c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wk1hm3Nk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://erudika.com/assets/img/ftsearch2.png)
 
 在我们的例子中，HTML 文件位于一个名为“blog”的文件夹中，每年都有子文件夹。CLI 工具将解析每个 HTML 文件并寻找这两个标签:
 
@@ -55,7 +55,7 @@ $ para-cli search "some keyword" --accessKey "app:myapp" --secretKey "[key]"
 这应该以 JSON 对象数组的形式返回结果。厉害！现在，为了让我们的客户端 JavaScript 小部件能够在没有密钥的情况下访问 Para search API，我们必须允许公众访问
 和`blogposts`资源。
 
-[![](../Images/43308708a379a00f034dccc968f78786.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FqpV7vSf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://erudika.com/assets/img/ftsearch3.png)
+[![](img/43308708a379a00f034dccc968f78786.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FqpV7vSf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://erudika.com/assets/img/ftsearch3.png)
 
 在我们的例子中，搜索框是用老式的 jQuery 和一个名为
 [typehead.js](https://twitter.github.io/typeahead.js/) 的插件实现的。代码非常简单——它调用搜索 API 并查询类型为`blogpost`的对象。结果是带有几个属性的 JSON 对象的形式，但是我们只对找到的对象感兴趣，所以我们把它转换成一个`Array`。

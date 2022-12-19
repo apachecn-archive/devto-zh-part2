@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/starbist/overview-of-popular-static-site-generators-poi>
 
-[![Overview of Popular Static Site Generators Cover](../Images/03e0691978ae0e4cbd28134289445173.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---nq0MJwF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tn48wzx7osbqg2hwdc3b.png)
+[![Overview of Popular Static Site Generators Cover](img/03e0691978ae0e4cbd28134289445173.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---nq0MJwF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tn48wzx7osbqg2hwdc3b.png)
 
 *本文最初发表在 [Toptal 博客](https://www.toptal.com/front-end/static-site-generators-comparison-2018)上。*
 
@@ -10,7 +10,7 @@
 
 提供静态 HTML 文件有许多明显的好处，比如更容易缓存、更快的加载时间和总体上更安全的环境。每个静态页面生成器产生不同的 HTML 输出。
 
-[![Static site generators illustrated](../Images/2d7e9fe7eb0cf084efc31ded53050a84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---UcTvcz_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sugiorh95xv3vmwh0kik.png)
+[![Static site generators illustrated](img/2d7e9fe7eb0cf084efc31ded53050a84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---UcTvcz_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sugiorh95xv3vmwh0kik.png)
 
 然而，这篇文章的目的不是深入讨论它们错综复杂的机制，而是比较每个框架提供的特性集，并强调每个框架的独特方面和特性。
 
@@ -101,7 +101,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 静态页面生成器对主要内容使用 [Markdown](////daringfireball.net/projects/markdown/syntax) 。减价很有效，人们可以很快学会。用 Markdown 编写内容感觉很自然，因为它的语法很简单。这份文件看起来整洁有序。
 
-[![Content in Static page generators](../Images/c40c65963e9af0dd86845642a57d7786.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JK-0MgP4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4jbyqaui9rp45sxllbh3.png)
+[![Content in Static page generators](img/c40c65963e9af0dd86845642a57d7786.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JK-0MgP4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4jbyqaui9rp45sxllbh3.png)
 
 您应该将文章放在全局配置文件中指定的文件夹中。文章名称应该遵循生成器指定的约定。
 
@@ -347,7 +347,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 静态页面生成器对资产管理的处理方式不同。Jekyll 编译放置在任何地方的资产文件。中间人只处理存储在源文件夹中的资产。Hugo 中资产的默认位置是资产目录。Hexo 建议将资产放在 global sourcedirectory 中。
 
-[![Assets of Static page generator](../Images/263003c874ec5d725ba3256c623bd699.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mtX_w7F0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r72nnyqcmu24orqgxgxs.png)
+[![Assets of Static page generator](img/263003c874ec5d725ba3256c623bd699.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mtX_w7F0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r72nnyqcmu24orqgxgxs.png)
 
 ## 萨斯
 

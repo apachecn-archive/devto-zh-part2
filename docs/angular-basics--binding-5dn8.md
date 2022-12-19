@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kritner/angular-basics--binding-5dn8>
 
-[![](../Images/f8e865631a2f1351b7b5deed6ead1ee3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9VgjpVlq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/250/0%2APZecK1iEg7xtIbr8.png)
+[![](img/f8e865631a2f1351b7b5deed6ead1ee3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9VgjpVlq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/250/0%2APZecK1iEg7xtIbr8.png)
 
 在最近来自 Vivint Solar 的[太阳能电池板阵列帖子](https://medium.com/@kritner/my-first-nuget-package-kritner-solarestimate-79d7f4abfdc2)的基础上，我在我的网站【http://kritner.com/solar-projection】T2 上制作了一个太阳能电池板评估页面——我想通过 angular、docker、typescript 等详细介绍我的一些学习经历。
 
@@ -179,7 +179,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 此时，页面看起来像这样:
 
-[![](../Images/496b483e5de671b3a1f6db997948c318.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JerNnSzJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aos2OdZpMGZgm8BBzLgUNUw.png)
+[![](img/496b483e5de671b3a1f6db997948c318.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JerNnSzJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aos2OdZpMGZgm8BBzLgUNUw.png)
 
 开始看起来像…什么了。接下来，我们必须对显示的数字进行格式化。
 

@@ -20,19 +20,19 @@ C refer to as a constant
 
 属性是视图对齐矩形上的一个位置。在上面的等式中，A1 将是视图 1 上的属性，A2 将是视图 2 上的属性。一个视图属性用于建立与另一个视图属性的关系。第一组属性对应于视图对齐矩形的边缘，它们是`top`、`bottom`、`right`和`left`属性。
 
-[![](../Images/f34a31eb2cce0b383ed09920083fe281.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MYw_BEBF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AxgIcNDwXpd9oKXbPtRNiXg.png)
+[![](img/f34a31eb2cce0b383ed09920083fe281.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MYw_BEBF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AxgIcNDwXpd9oKXbPtRNiXg.png)
 
 第二组属性是前导、尾随、左和右属性。
 
-[![](../Images/51dd026218bc18e901d941325f8ce02a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_c_BSzxE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AE3v9wIwNoj1X_wmCoryumA.png)
+[![](img/51dd026218bc18e901d941325f8ce02a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_c_BSzxE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AE3v9wIwNoj1X_wmCoryumA.png)
 
 下一组属性是高度和宽度，高度和宽度属性允许我们创建与我们的视图或另一个视图的高度和宽度的关系。
 
-[![](../Images/218e252fa46a8db78d15dd14a548cace.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yKYlz7pc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A1NsvVc2DGtHDnryiGQYR9w.png)
+[![](img/218e252fa46a8db78d15dd14a548cace.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yKYlz7pc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A1NsvVc2DGtHDnryiGQYR9w.png)
 
 下一组是 CenterX 和 CenterY 属性，用于对齐视图的水平轴和垂直轴。
 
-[![](../Images/9957361b0f50566a6129df30f7af0dbb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n9sotuH6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AavlfslqOMkNH_PrpO6COpQ.png)
+[![](img/9957361b0f50566a6129df30f7af0dbb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n9sotuH6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AavlfslqOMkNH_PrpO6COpQ.png)
 
 我们还有基线属性，第一个基线和最后一个基线。基线就像文本所在的假想线，如果有多条基线，第一条是第一条基线，最后一条是最后一条基线。
 

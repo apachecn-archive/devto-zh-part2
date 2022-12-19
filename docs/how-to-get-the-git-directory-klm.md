@@ -21,7 +21,7 @@ p git_clone_dir_path
 
  *如果我把路径作为期望值，它
 
-[![](../Images/4875c5f11e98185230a3ef7192f9fc24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HExPQYpB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.codinghorror.com/content/images/uploads/2007/03/6a0120a85dcdae970b0128776ff992970c-pi.png)
+[![](img/4875c5f11e98185230a3ef7192f9fc24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HExPQYpB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.codinghorror.com/conteimg/uploads/2007/03/6a0120a85dcdae970b0128776ff992970c-pi.png)
 
 在您机器的克隆体上，路径会有所不同。
 

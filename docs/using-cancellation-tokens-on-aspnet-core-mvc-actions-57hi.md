@@ -42,7 +42,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 下面我添加了一个 gif 图片，快速展示了一个被取消的请求。
 
-[![Cancellation tokens in action](../Images/81c524aac64f40c89f491a76a9297aa4.png)T2】](https://thepracticaldev.s3.amazonaws.com/i/ref5g66uchnqj78zu2l1.gif)
+[![Cancellation tokens in action](img/81c524aac64f40c89f491a76a9297aa4.png)T2】](https://thepracticaldev.s3.amazonaws.com/i/ref5g66uchnqj78zu2l1.gif)
 
 这里是另一个简单的例子:
 

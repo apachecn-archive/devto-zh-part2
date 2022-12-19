@@ -59,7 +59,7 @@ plt.show()
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Latitude histogram](../Images/e023a28a0ab479bf7d8bcc8ae2e455bd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UHKwbOxu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xg74gpmtk0sb7im7pwkm.png)T3】
+[![Latitude histogram](img/e023a28a0ab479bf7d8bcc8ae2e455bd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UHKwbOxu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xg74gpmtk0sb7im7pwkm.png)T3】
 
 ```
 plt.hist(coords['longitude'])
@@ -68,7 +68,7 @@ plt.show()
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Longitude histogram](../Images/6c6fa575da042f42113e78f8b93a7642.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IKq6_zjW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0907t6sn2r99pzz69oot.png)
+[![Longitude histogram](img/6c6fa575da042f42113e78f8b93a7642.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IKq6_zjW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0907t6sn2r99pzz69oot.png)
 
 有一些尖峰，但总的来说，我们所做的似乎是合理的。如果你对数据的随机性不满意，继续改变随机种子并重新运行上面的单元格。
 
@@ -76,7 +76,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这部分将会是更多的管理和更少乐趣的编程。不过没关系！为了获得这些天气数据，我们需要访问一个 web API 并向它请求数据。具体来说，我们将使用 [OpenWeatherData API](https://openweathermap.org/) 。您需要创建一个帐户(这是免费的！)并且您将获得一个 API 密钥，您可以在您的帐户页面的“API 密钥”选项卡上找到它。
 
-[![The API tab on the account page](../Images/c1aa62d60afd9a6710b857d6fa964137.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wi4zgUpu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jzorxlq4fl43jku94el6.png)
+[![The API tab on the account page](img/c1aa62d60afd9a6710b857d6fa964137.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wi4zgUpu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jzorxlq4fl43jku94el6.png)
 
 保持这个密钥的秘密(我会给你一些关于如何做好这件事的提示)。你不会希望某个邪恶的人篡改天气预报，让所有人都以为是你。想想你作为一个好天气 API 公民的声誉！想想孩子们！
 
@@ -354,7 +354,7 @@ plt.show()
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Temperature Latitude plot](../Images/b63173bbb4255a15862bf9be929ed9af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--alHOuKzE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bgtwmzsrpwjxiss009ld.png)
+[![Temperature Latitude plot](img/b63173bbb4255a15862bf9be929ed9af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--alHOuKzE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bgtwmzsrpwjxiss009ld.png)
 
 呜哇！这是很强的趋势！正如你所料，当你接近赤道时，温度会上升，当你接近两极时，温度会下降。去科学吧！
 
@@ -370,7 +370,7 @@ plt.show()
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Humidity vs. Latitude plot](../Images/4be96bbdab92842e693d0742f0b4788c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XopKXRzF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0lwuwigl92tiqw28cw99.png)
+[![Humidity vs. Latitude plot](img/4be96bbdab92842e693d0742f0b4788c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XopKXRzF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0lwuwigl92tiqw28cw99.png)
 
 这些是一些奇怪的结果。看起来，除了一些下降，大量的数据点都是 100%的湿度。我觉得这很难相信。我发现了一些谷歌结果，这让我想知道他们测量湿度的方式是否有些奇怪。如果有人有其他想法，我很乐意听听。让我知道你的想法。
 
@@ -386,7 +386,7 @@ plt.show()
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Cloudiness vs. Latitude plot](../Images/1e8dddf7c2edb04533a71cfe8fda0f18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q7Lnusqx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g9c3y70mcfrxb9a57jju.png)
+[![Cloudiness vs. Latitude plot](img/1e8dddf7c2edb04533a71cfe8fda0f18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q7Lnusqx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g9c3y70mcfrxb9a57jju.png)
 
 我也看不出这有什么趋势。不过，数据的条纹(整齐的行)让我觉得有某种模式。让我们看看是否有经度的关系。
 
@@ -400,7 +400,7 @@ plt.show()
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Longitude Cloudiness plot](../Images/3a4d819b87ab5a9ac5ff83d1e55c9915.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0_B2uv_P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wgou728cv5iwba6jsvm5.png)
+[![Longitude Cloudiness plot](img/3a4d819b87ab5a9ac5ff83d1e55c9915.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0_B2uv_P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wgou728cv5iwba6jsvm5.png)
 
 嗯（表示踌躇等）...我还是看不出有什么关系。再说一次，如果任何人有任何想法，让我知道！
 
@@ -416,11 +416,11 @@ plt.show()
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Wind Latitude plot](../Images/411633590e2bf8fecff63666421090f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3cbpa989--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oscs4zfleixzjvuifuje.png)
+[![Wind Latitude plot](img/411633590e2bf8fecff63666421090f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3cbpa989--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oscs4zfleixzjvuifuje.png)
 
 这是一个有趣的情节。我们看到的是一种混乱，但在-50 度和 50 度左右有一些明显的尖峰。在两极和赤道附近，它似乎向零下降。起初，我很困惑，但后来我想起了我 8 年级的科学课。
 
-[![Global wind current patterns](../Images/6af03ea183e3e16427a415ec0e134bf4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xbq8GNuV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7ec192xfz2pafwb9yagj.png)
+[![Global wind current patterns](img/6af03ea183e3e16427a415ec0e134bf4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xbq8GNuV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7ec192xfz2pafwb9yagj.png)
 
 有一组称为“T0”西风带的风，在南北纬 40 度到 50 度之间吹拂。这些有时被称为“[咆哮四十度](https://en.wikipedia.org/wiki/Roaring_Forties)”，特别是由于南半球广阔的海洋(没有陆地或树木阻碍风)，它们被用来加快航行时间。在该半球的夏季，它们倾向于向赤道移动，而在冬季则向极地移动。
 

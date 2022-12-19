@@ -20,7 +20,7 @@
 
 打开你的 Git 客户端。寻找您想要从中分支的分支。右键单击它并选择 create new branch。
 
-![Cursor on the menu that says create new branch](../Images/898948855f6d899692dd53f33559c14d.png)
+![Cursor on the menu that says create new branch](img/898948855f6d899692dd53f33559c14d.png)
 
 你可以给你的分公司起任何你想要的名字。
 
@@ -28,15 +28,15 @@
 
 命名您的分支后，单击 create and checkout。在这种情况下，Checkout 意味着转移到开发分支。
 
-![Setting the branch name to development](../Images/8437ce87fbef1bf40e359e474c8bf3e6.png)
+![Setting the branch name to development](img/8437ce87fbef1bf40e359e474c8bf3e6.png)
 
 一旦您创建了开发分支，您可以在您的分支部分看到两个分支——主分支和开发分支。
 
-![Sidebar contains all branches. In this case, it shows master and development](../Images/e4509155474aab99ecb0d85328854263.png)
+![Sidebar contains all branches. In this case, it shows master and development](img/e4509155474aab99ecb0d85328854263.png)
 
 在 Git 历史中，您还可以看到一个名为`development`的新标签。这个`development`标签与`master`和`origin/master`在同一个提交上。
 
-![Git history shows the `development` tag](../Images/cadc7717a5375c4430ca149f8579b3cc.png)
+![Git history shows the `development` tag](img/cadc7717a5375c4430ca149f8579b3cc.png)
 
 ## 为什么要创建开发分支？
 
@@ -69,7 +69,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当您创建提交时，确保您在开发分支上。在 Fork，你可以通过观察加粗的树枝来判断你的位置。
 
-[![Development is bold on the sidebar. This shows that the development branch is selected](../Images/bae477aaf77d66166857eff4dfed1948.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2lRS0y1s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-branch/sidebar-2.png)
+[![Development is bold on the sidebar. This shows that the development branch is selected](img/bae477aaf77d66166857eff4dfed1948.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2lRS0y1s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-branch/sidebar-2.png)
 
 将您的代码提交到开发分支。
 
@@ -77,7 +77,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这表明我们可以在`development`分支上尽可能多地编码，而不会影响其他分支。
 
-[![`development` tag is ahead of `origin/master` and `master`](../Images/28086cb5ad24938fe64e5d7d986900de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--11DZ0vVq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-branch/history-2.png)
+[![`development` tag is ahead of `origin/master` and `master`](img/28086cb5ad24938fe64e5d7d986900de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--11DZ0vVq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-branch/history-2.png)
 
 ## 将开发分支推入 Git 远程
 
@@ -85,7 +85,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 一旦推送完成，您可以在同一个提交中看到与`development`标记相同的`origin/development`标记。
 
-[![`origin/development` tag on the same commit as the `development` tag.](../Images/58b00554f84200ef8b0d818818e00c09.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LCEq53Tg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-branch/history-3.png)
+[![`origin/development` tag on the same commit as the `development` tag.](img/58b00554f84200ef8b0d818818e00c09.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LCEq53Tg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-branch/history-3.png)
 
 ## 分支间切换
 
@@ -93,7 +93,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 结帐意味着切换到您选择的分支。
 
-[![Double-click the master branch to checkout the master branch](../Images/6bc4aea5a30fe80c304a5de044937c68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--swTwbNPq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-branch/sidebar-3.png)
+[![Double-click the master branch to checkout the master branch](img/6bc4aea5a30fe80c304a5de044937c68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--swTwbNPq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-branch/sidebar-3.png)
 
 如果你现在看你的项目，你会发现`development.md`文件不见了。这再次证明了您可以在您的`development`分支上进行尽可能多的提交，而不会影响其他分支。
 
@@ -105,7 +105,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 然后，为了将`development`分支合并到`master`分支中，在 Git 客户端中右键单击`development`分支，并选择 merge into‘master’
 
-[![Cursor on menu item that says merge into 'master'](../Images/3047564ce4dba296c01519331e89b56c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1tcgBk6r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-branch/merge-1.png)
+[![Cursor on menu item that says merge into 'master'](img/3047564ce4dba296c01519331e89b56c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1tcgBk6r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-branch/merge-1.png)
 
 <figure>
 
@@ -115,7 +115,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Fork 将询问您是否想要创建一个合并提交。有些客户端会自动为您完成这项工作。
 
-[![Menu that asks whether you want to create a merge commit](../Images/2111babbfbf4086e460a7dd300782d7c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BnWL-Pjw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-branch/merge-2.png)
+[![Menu that asks whether you want to create a merge commit](img/2111babbfbf4086e460a7dd300782d7c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BnWL-Pjw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-branch/merge-2.png)
 
 <figure>
 
@@ -129,31 +129,31 @@ Fork 将询问您是否想要创建一个合并提交。有些客户端会自动
 
 这是因为我们已经完成了合并提交。
 
-[![`master` branch is ahead of the `development` and `origin/development` branches](../Images/ad64fbcebb173b1935f6ccc9770e9aa9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F7ybrd9z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-branch/history-4.png)
+[![`master` branch is ahead of the `development` and `origin/development` branches](img/ad64fbcebb173b1935f6ccc9770e9aa9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F7ybrd9z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-branch/history-4.png)
 
 同时，`master`比`origin/master`分支提前两次提交。这就是为什么我们在侧边栏看到 2 了。
 
-[![`master` is two commits ahead of the `origin/master` branch](../Images/06744dda913ff05f82bd7a34895d0032.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BvOGD8uD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-branch/sidebar-4.png)
+[![`master` is two commits ahead of the `origin/master` branch](img/06744dda913ff05f82bd7a34895d0032.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BvOGD8uD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-branch/sidebar-4.png)
 
 当您完成合并时，您可以通过点击按钮来更新 Git remote。
 
-[![`origin/master` and `master` are now on the same commit](../Images/f4e5fd6aa660119afb154068b577bb5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CRMPYdkS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-branch/history-5.png)
+[![`origin/master` and `master` are now on the same commit](img/f4e5fd6aa660119afb154068b577bb5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CRMPYdkS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-branch/history-5.png)
 
 ## 删除分支
 
 要删除分支，请右键单击要删除的分支，然后选择删除“分支名称”。
 
-[![Cursor on menu item that says delete development](../Images/31bb541711315fbbd1d0dd330f7247f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rP888jmD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-branch/delete-1.png)
+[![Cursor on menu item that says delete development](img/31bb541711315fbbd1d0dd330f7247f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rP888jmD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-branch/delete-1.png)
 
 在 Fork 中，您还可以选择从远程中删除分支。
 
-[![Menu that asks if you want to remove the branch from the origin](../Images/aa216406c7fd7267ecb4627734178967.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JqJj_O6z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-branch/delete-2.png)
+[![Menu that asks if you want to remove the branch from the origin](img/aa216406c7fd7267ecb4627734178967.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JqJj_O6z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-branch/delete-2.png)
 
 点击删除，Fork 将删除两个分支。
 
 删除完成后，您可以查看一下 Git 历史。您会注意到`origin/development`和`development`标签都已经从历史中消失了。
 
-[![`origin/development` and `development` tags have both disappeared from the history](../Images/25b4fd35572f51b5643ca85a9237534c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6whsSHZB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-branch/history-6.png)
+[![`origin/development` and `development` tags have both disappeared from the history](img/25b4fd35572f51b5643ca85a9237534c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6whsSHZB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-branch/history-6.png)
 
 ## 包装完毕
 

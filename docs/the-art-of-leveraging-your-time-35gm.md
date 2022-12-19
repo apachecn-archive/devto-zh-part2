@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/perigk/the-art-of-leveraging-your-time-35gm>
 
-[![](../Images/3fcc1eaa2a76986e6d401770e5e020ad.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YDfC8eIH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AaVzJTznRRfP1lM7AXe9yLw.jpeg) 
+[![](img/3fcc1eaa2a76986e6d401770e5e020ad.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YDfC8eIH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AaVzJTznRRfP1lM7AXe9yLw.jpeg) 
 
 <figcaption>照片由[凯文·Ku](https://unsplash.com/photos/aiyBwbrWWlo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)于 [Unsplash](https://unsplash.com/search/photos/time?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 
@@ -47,7 +47,7 @@
 
 嗯，当你的另一半又迟到的时候，挤出几页来等他们，怎么样？😉
 
-[![](../Images/785d5857261bd20f6b39d13565faa618.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Fyyak30x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/497/1%2AdbO0z2EiFdhM_Eh7HaYBEQ.jpeg) 
+[![](img/785d5857261bd20f6b39d13565faa618.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Fyyak30x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/497/1%2AdbO0z2EiFdhM_Eh7HaYBEQ.jpeg) 
 
 <figcaption>嘿，亲爱的，我只是在看书:)</figcaption>
 
@@ -67,7 +67,7 @@
 
 你还记得发送几封电子邮件，每封花了你 5 分钟，还不算打字的时间吗？您是否一直在等待生产构建，并且花费了很长时间，因为您的 CI/CD 解决方案在您心爱的 [ENIAC](https://en.wikipedia.org/wiki/ENIAC) 上运行，并且在成功之前您不能停止工作？
 
-[![](../Images/083ff6951c1f2f5aeb2e11547c132736.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4mR6_0-z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/259/1%2AEFVqAnjQResvuEWWY4Sx0Q.jpeg)
+[![](img/083ff6951c1f2f5aeb2e11547c132736.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4mR6_0-z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/259/1%2AEFVqAnjQResvuEWWY4Sx0Q.jpeg)
 
 <figcaption>Hello family guy</figcaption>
 

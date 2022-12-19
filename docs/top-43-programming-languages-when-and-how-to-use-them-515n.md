@@ -47,7 +47,7 @@
 
 ### 1。Java 是什么？
 
-[![Java is a popular programming language](../Images/fea7431c07979ad627ec24e504ac732f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9AY_-rNi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/java.png)
+[![Java is a popular programming language](img/fea7431c07979ad627ec24e504ac732f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9AY_-rNi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/java.png)
 
 *   人气:非常高
     *   [5800 个工作岗位](https://www.indeed.com/q-Java-l-New-York,-NY-jobs.html)
@@ -69,7 +69,7 @@ Java 用于商业、网络和移动应用程序。它是谷歌 Android 操作系
 
 ### 2。什么是 C？
 
-[![C is a popular programming language](../Images/751c7bc5573908d75a3663486e9d17ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LbqiofXl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/C.png)
+[![C is a popular programming language](img/751c7bc5573908d75a3663486e9d17ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LbqiofXl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/C.png)
 
 *   受欢迎程度:中等
     *   [643 岗位](https://www.indeed.com/jobs?q=C%20developer&l=New%20York,%20NY)
@@ -89,7 +89,7 @@ C++在就业市场上可能会有一些重叠(参见下面的 C++清单。)
 
 ### 3。Python 是什么？
 
-[![Python is a popular programming language](../Images/dfe2c0dd5e1da8213d57c1430db01310.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a1Vg6S-M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/python.png)
+[![Python is a popular programming language](img/dfe2c0dd5e1da8213d57c1430db01310.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a1Vg6S-M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/python.png)
 
 *   人气:非常高
     *   5842 个工作岗位
@@ -106,7 +106,7 @@ Python 的工作非常多，所以使用 Python 很容易找到工作。
 
 ### 4。什么是 C++？
 
-[![cplus is a popular programming language](../Images/de5fdb87cf250a465775dc83bf9dee05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FLxHptcK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/cplus.png)
+[![cplus is a popular programming language](img/de5fdb87cf250a465775dc83bf9dee05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FLxHptcK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/cplus.png)
 
 *   人气:高
     *   2032 份工作
@@ -122,7 +122,7 @@ C++在市场上占据了与 C 类似的领域，包括系统编程和底层硬�
 
 ### 5。什么是 Visual Basic。网？
 
-[![Visual Basic .NET is a popular programming language](../Images/e2bdeaff8209769fd5c2e4b7351d68e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gPUATidq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/visual-basic.png)
+[![Visual Basic .NET is a popular programming language](img/e2bdeaff8209769fd5c2e4b7351d68e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gPUATidq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/visual-basic.png)
 
 *   受欢迎程度:低
     *   [194 岗位](https://www.indeed.com/jobs?q=C%2b%2b&l=New%20York,%20NY)
@@ -137,7 +137,7 @@ VB.NET 在商业应用中从来都不是很受欢迎。应用程序开发人员�
 
 ### 6。什么是 C#？
 
-[![C# is a popular programming language](../Images/9918e213f2270298103d4a0945600778.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b2JovDio--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/csharp.png)
+[![C# is a popular programming language](img/9918e213f2270298103d4a0945600778.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b2JovDio--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/csharp.png)
 
 *   人气:高
     *   1771 份工作
@@ -153,7 +153,7 @@ C#在本地和 web 应用程序编程中很流行，通常(但不一定)在主�
 
 ### 7。PHP 是什么？
 
-[![PHP is a popular programming language](../Images/f6bf0358b788666604343b55bf9fc206.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Psasi4vL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/php.png)
+[![PHP is a popular programming language](img/f6bf0358b788666604343b55bf9fc206.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Psasi4vL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/php.png)
 
 *   人气:高
     *   [1152 个工作岗位](https://www.indeed.com/jobs?q=PHP&l=New%20York,%20NY)
@@ -169,7 +169,7 @@ PHP 之所以受欢迎，是因为它简单易学。它也是 WordPress 和 Joom
 
 ### 8。JavaScript 是什么？
 
-[![JavaScript is a popular programming language](../Images/2d9e4a9cf9562fc619ae54e83b1d2d27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--POwhjzPo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/javascript.png)
+[![JavaScript is a popular programming language](img/2d9e4a9cf9562fc619ae54e83b1d2d27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--POwhjzPo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/javascript.png)
 
 *   人气:非常高
     *   3555 个工作岗位
@@ -189,7 +189,7 @@ NodeJS 是在服务器端运行 JavaScript 的 web 服务器。NodeJS 应用完�
 
 ### 9。什么是 SQL？
 
-[![SQL is a popular programming language](../Images/68677de682c76ceb3264d7e4a5fdb1aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kBlWIWxd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/sql.png)
+[![SQL is a popular programming language](img/68677de682c76ceb3264d7e4a5fdb1aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kBlWIWxd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/sql.png)
 
 *   人气:非常高
     *   8799 个工作岗位
@@ -205,7 +205,7 @@ SQL 非常受开发人员和数据库管理员的欢迎，因此需要 SQL 技�
 
 ### 10。什么是 Objective-C？
 
-[![Objective-C is a popular programming language](../Images/9e003507f5b41c54059c46085d8aff77.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H8kMp0qN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/objective-c.png)
+[![Objective-C is a popular programming language](img/9e003507f5b41c54059c46085d8aff77.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H8kMp0qN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/objective-c.png)
 
 *   人气:高
     *   1058 份工作
@@ -221,7 +221,7 @@ Objective-C 仍然相对流行，因为有大量的应用程序是用它编写�
 
 ### 11。什么是 Delphi/Object Pascal？
 
-[![Delphi/Object Pascal is a popular programming language](../Images/ad4f1d942ddc4260bacc6d5ee2aa36f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bvwwr8ws--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/delphi.png)
+[![Delphi/Object Pascal is a popular programming language](img/ad4f1d942ddc4260bacc6d5ee2aa36f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bvwwr8ws--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/delphi.png)
 
 *   人气:超小众
     *   [1 个作业](https://www.indeed.com/jobs?q=delphi%20developer&l=New%20York%2C%20NY&vjk=7985ea97906f3f33)
@@ -235,7 +235,7 @@ Delphi/Object Pascal 在这个列表中，因为有很多软件是用 Object Pas
 
 ### 12。什么是 Ruby？
 
-[![Ruby is a popular programming language](../Images/37ba34d14fefb9cfa02426fc87ba5eb1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SWPd0uF7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/ruby.png)
+[![Ruby is a popular programming language](img/37ba34d14fefb9cfa02426fc87ba5eb1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SWPd0uF7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/ruby.png)
 
 *   人气:高
     *   [1172 个工作岗位](https://www.indeed.com/jobs?q=ruby&l=New%20York,%20NY)
@@ -250,7 +250,7 @@ Ruby 相当容易学习。它在 web 应用程序中的普遍使用使得工作�
 
 ### 13。MATLAB 是什么？
 
-[![MATLAB is a popular programming language](../Images/f296656472c091b79837604332642975.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nzdsMiEF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/matlab.png)
+[![MATLAB is a popular programming language](img/f296656472c091b79837604332642975.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nzdsMiEF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/matlab.png)
 
 *   受欢迎程度:中等
     *   514 份工作
@@ -264,7 +264,7 @@ MATLAB 本质上不是一种编程语言。这是一个用于计算和模拟复�
 
 ### 14。什么是汇编语言？
 
-[![Assembly  is a popular programming language](../Images/0acd2181e65782f7435ce2b002c1e807.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1jhYmZZo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/asm.png)
+[![Assembly  is a popular programming language](img/0acd2181e65782f7435ce2b002c1e807.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1jhYmZZo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/asm.png)
 
 *   受欢迎程度:低
     *   [146 岗位](https://www.indeed.com/jobs?q=assembly%20developer&l=New%20York,%20NY)
@@ -281,7 +281,7 @@ MATLAB 本质上不是一种编程语言。这是一个用于计算和模拟复�
 
 ### 15。什么是 Swift？
 
-[![Swift  is a popular programming language](../Images/ec473be180e06240820790e55c24e39b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XyshpJpk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/swift.png)
+[![Swift  is a popular programming language](img/ec473be180e06240820790e55c24e39b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XyshpJpk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/swift.png)
 
 *   受欢迎程度:中等
     *   [590 个工作岗位](https://www.indeed.com/q-Swift-l-New-York,-NY-jobs.html)
@@ -297,7 +297,7 @@ Swift 有相当多的工作机会，因此 Swift 很可能会留在这里。正�
 
 ### 17。围棋是什么？
 
-[![Go  is a popular programming language](../Images/f4a09d47605cd3baf152ae85fe701d26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t_lIpAPz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/golang.png)
+[![Go  is a popular programming language](img/f4a09d47605cd3baf152ae85fe701d26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t_lIpAPz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/golang.png)
 
 *   受欢迎程度:低
     *   [161 岗位](https://www.indeed.com/jobs?q=Golang%20OR%20%22go%20developer%22&l=New%20York,%20NY&vjk=83256495389db348)
@@ -312,7 +312,7 @@ Go(也被称为 Golang)是一个相对较新的产品。它是由两名谷歌工
 
 ### 18。什么是 Perl？
 
-[![Perl  is a popular programming language](../Images/91867c045581e5f30b1a6b637d628f76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--icfGESAq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/perl.png)
+[![Perl  is a popular programming language](img/91867c045581e5f30b1a6b637d628f76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--icfGESAq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/perl.png)
 
 *   人气:高
     *   [1139 个工作岗位](https://www.indeed.com/jobs?q=perl&l=New%20York,%20NY)
@@ -329,7 +329,7 @@ Perl 相当容易学习，但是也有人批评它。Perl 的开发有些杂乱�
 
 ### 19。R 是什么？
 
-[![R  is a popular programming language](../Images/4eda9eb86f9703148151547e32499614.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7WefERoG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/r.png)
+[![R  is a popular programming language](img/4eda9eb86f9703148151547e32499614.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7WefERoG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/r.png)
 
 *   受欢迎程度:低
     *   [271 岗位](https://www.indeed.com/jobs?q=R%20developer&l=New%20York,%20NY)
@@ -343,7 +343,7 @@ r 编程的工作并不难找，但是由于工作的专业性，数量并不高
 
 ### 20。什么是 PL/SQL
 
-[![PL/SQL is a popular programming language](../Images/17d6e5263470ede8d2c6bf0143e8ae86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JIRs4bcM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/pl-sql.png)
+[![PL/SQL is a popular programming language](img/17d6e5263470ede8d2c6bf0143e8ae86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JIRs4bcM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/pl-sql.png)
 
 *   受欢迎程度:低到中等
     *   [438 岗位](https://www.indeed.com/jobs?q=pl%20sql%20&l=New%20York,%20NY&vjk=e81ddb6966e4c9b9)
@@ -357,7 +357,7 @@ Oracle 是占主导地位的数据库供应商，因此 PL/SQL 工作相当多�
 
 ### 21。什么是 Visual Basic？
 
-[![visual basic is a popular programming language](../Images/ddf8bbc5eb3dde863ab1030749eae9d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x-HNM9CM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/visual-basic-copy.png)
+[![visual basic is a popular programming language](img/ddf8bbc5eb3dde863ab1030749eae9d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x-HNM9CM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/visual-basic-copy.png)
 
 *   受欢迎程度:低
     *   [194 岗位](https://www.indeed.com/jobs?q=%22Visual%20Basic%22&l=New%20York,%20NY)
@@ -371,7 +371,7 @@ Visual Basic (VB)是微软公司推出的 Basic 编程语言的变体。它是�
 
 ### 22。什么是 SAS？
 
-[![SAS is a popular programming language](../Images/5b27da22274cd04d281b3003e2e71b4c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DIP_WDo0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/sas.png)
+[![SAS is a popular programming language](img/5b27da22274cd04d281b3003e2e71b4c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DIP_WDo0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/sas.png)
 
 *   受欢迎程度:低
     *   [224 岗位](https://www.indeed.com/jobs?q=SAS%20developer&l=New%20York,%20NY)
@@ -385,7 +385,7 @@ SAS 并不常见，尽管仍然有一些工作机会。现代统计分析工具�
 
 ### 23。Dart 是什么？
 
-[![Dart is a popular programming language](../Images/2cecf1efcc6d538f50c39012cc4dbfd0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bgjna-bC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/dart.png)
+[![Dart is a popular programming language](img/2cecf1efcc6d538f50c39012cc4dbfd0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bgjna-bC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/dart.png)
 
 *   人气:小众
     *   [12 个工作岗位](https://www.indeed.com/jobs?q=Dart%20developer&l=New%20York,%20NY&vjk=64ed2c190fb60034)
@@ -400,7 +400,7 @@ Dart 从未真正起飞，所以它并不流行，工作也很少。
 
 ### 24。F#是什么？
 
-[![F# is a popular programming language](../Images/1a2c5c2bf28e2b0d5d03904bc6414bab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--28AkA7Ah--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/fsharp.png)
+[![F# is a popular programming language](img/1a2c5c2bf28e2b0d5d03904bc6414bab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--28AkA7Ah--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/fsharp.png)
 
 *   人气:小众
     *   [12 个工作岗位](https://www.indeed.com/jobs?q=F#%20developer&l=New%20York,%20NY&vjk=ee95b417bb9dfa16)
@@ -415,7 +415,7 @@ F#是一种特殊情况下的语言，工作机会很少。
 
 ### 25。什么是 COBOL？
 
-[![Cobol is a popular programming language](../Images/8934f981d07d7292ba99f5497383c5ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4AtYYAid--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/cobol.png)
+[![Cobol is a popular programming language](img/8934f981d07d7292ba99f5497383c5ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4AtYYAid--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/cobol.png)
 
 *   人气:小众
     *   [71 个工作岗位](https://www.indeed.com/jobs?q=COBOL&l=New%20York,%20NY)
@@ -429,7 +429,7 @@ COBOL 是一种非常古老的语言，主要用于大型机开发。与更现�
 
 ### 26。什么是 Scala？
 
-[![Scala is a popular programming language](../Images/1570ce016a80d779c9135e8310a66991.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zoecqd9w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/scala.png)
+[![Scala is a popular programming language](img/1570ce016a80d779c9135e8310a66991.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zoecqd9w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/scala.png)
 
 *   受欢迎程度:中高
     *   [943 岗位](https://www.indeed.com/jobs?q=Scala&l=New%20York,%20NY)
@@ -444,7 +444,7 @@ Scala 因其高学习曲线而受到批评。有人说，学习新语言对软�
 
 ### 27。什么是 ABAP？
 
-[![ABAP is a popular programming language](../Images/6984cd3d71547b1f9627bc27facc0eca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V02TK3bi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/abap.png)
+[![ABAP is a popular programming language](img/6984cd3d71547b1f9627bc27facc0eca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V02TK3bi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/abap.png)
 
 *   人气:小众
     *   [58 份工作](https://www.indeed.com/jobs?q=ABAP&l=New%20York,%20NY)
@@ -458,7 +458,7 @@ ABAP 是一种小众语言，工作机会很少。句法与现代语言大不相
 
 ### 28。什么是 Fortran？
 
-[![Fortran is a popular programming language](../Images/b75b63d9c40641dda415737921d2f8cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aYCwO-ig--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/fortran.png)
+[![Fortran is a popular programming language](img/b75b63d9c40641dda415737921d2f8cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aYCwO-ig--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/fortran.png)
 
 *   人气:小众
     *   [7 个工作岗位](https://www.indeed.com/jobs?q=Fortran&l=New%20York,%20NY)
@@ -472,7 +472,7 @@ FORTRAN 已经达到了 COBOL 可能在大约 10 到 15 年内达到的水平—
 
 ### 29。什么是 Lua？
 
-[![Lua is a popular programming language](../Images/230da433ffc77b9ed7e26ec37d5981a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g5HJBnLA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/lua.png)
+[![Lua is a popular programming language](img/230da433ffc77b9ed7e26ec37d5981a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g5HJBnLA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/lua.png)
 
 *   人气:小众
     *   [16 个工作岗位](https://www.indeed.com/jobs?q=Lua&l=New%20York,%20NY&vjk=56c7bc1a3c5ba0fe)
@@ -486,7 +486,7 @@ Lua 是一种小众语言，工作机会很少。学习 Lua 可能会让你成�
 
 ### 30。什么是铁锈？
 
-[![Rust is a popular programming language](../Images/3b4f602f36382b82a8f85861b717995e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zol_59Y8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/rust.png)
+[![Rust is a popular programming language](img/3b4f602f36382b82a8f85861b717995e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zol_59Y8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/rust.png)
 
 *   人气:小众
     *   [20 份工作](https://www.indeed.com/jobs?q=rust%20developer&l=New%20York,%20NY&vjk=5d4fe92f1c612f9d)
@@ -501,7 +501,7 @@ Rust 不是一种好的第一语言，也不受欢迎。这是一个很好的学
 
 ### 31。什么是 Lisp？
 
-[![Lisp is a popular programming language](../Images/af5c579e90757cd0471eb6a20795feee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xy6VfNXy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/lisp.png)
+[![Lisp is a popular programming language](img/af5c579e90757cd0471eb6a20795feee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xy6VfNXy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/lisp.png)
 
 *   人气:小众
     *   [6 个工作岗位](https://www.indeed.com/jobs?q=lisp%20developer&l=New%20York,%20NY)
@@ -515,7 +515,7 @@ LISP 不太好学，语法非常冗长(如果你喜欢输入括号，那就太�
 
 ### 32。什么是 Groovy？
 
-[![Groovy is a popular programming language](../Images/c677af0d8ad33856d9fd5d59d3f4978f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p97OO1Bn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/groovy.png)
+[![Groovy is a popular programming language](img/c677af0d8ad33856d9fd5d59d3f4978f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p97OO1Bn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/groovy.png)
 
 *   人气:小众
     *   [67 份工作](https://www.indeed.com/q-groovy-developer-l-New-York,-NY-jobs.html)
@@ -530,7 +530,7 @@ Groovy 已经在开发人员中发展了一批追随者，并被用于一些流�
 
 ### 33。LabVIEW 是什么？
 
-[![LabVIEW is a popular programming language](../Images/04071424a8b0c19db443686e75336da0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--369s0Zhk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/labview.png)
+[![LabVIEW is a popular programming language](img/04071424a8b0c19db443686e75336da0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--369s0Zhk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/labview.png)
 
 *   人气:小众
     *   [30 份工作](https://www.indeed.com/jobs?q=labview&l=New%20York,%20NY)
@@ -544,7 +544,7 @@ LabVIEW 对于机械工程和自动化就像 MATLAB 对于数学研究一样。�
 
 ### 34。什么是 Prolog？
 
-[![Prolog is a popular programming language](../Images/a185c3266628865a1c0f98d5402ef382.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C-DQRUWC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/prolog.png)
+[![Prolog is a popular programming language](img/a185c3266628865a1c0f98d5402ef382.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C-DQRUWC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/prolog.png)
 
 *   人气:小众
     *   [24 个工作岗位](https://www.indeed.com/jobs?q=prolog&l=New%20York,%20NY&vjk=88c7d46674acf5eb)
@@ -558,7 +558,7 @@ Prolog 的语法很难学习和阅读。除非您恰好在使用 Prolog 的字�
 
 ### 35。阿达是什么？
 
-[![Ada is a popular programming language](../Images/f02216f5c06462478266cb638690c1f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IBr3dqr_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/ada.png)
+[![Ada is a popular programming language](img/f02216f5c06462478266cb638690c1f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IBr3dqr_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/ada.png)
 
 *   人气:小众
     *   [30 份工作](https://www.indeed.com/jobs?q=ada%20developer&l=New%20York,%20NY&vjk=932a6d30170faf84)
@@ -571,7 +571,7 @@ Ada 是一种小众语言，有一些工作可以做。大部分工作可能是�
 
 ### 36。朱莉娅是什么？
 
-[![Julia is a popular programming language](../Images/e9005a38880a722fdecabc2a47785b28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O8jyKn2t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/julia.png)
+[![Julia is a popular programming language](img/e9005a38880a722fdecabc2a47785b28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O8jyKn2t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/julia.png)
 
 *   人气:非常小众
     *   [6 个工作岗位](https://www.indeed.com/jobs?q=julia%20developer&l=New%20York,%20NY&vjk=e3143e6e82053885)
@@ -585,7 +585,7 @@ Julia 是这个列表中的另一种语言，与它所支持的工作紧密相�
 
 ### 37。哈斯克尔是什么？
 
-[![Haskell is a popular programming language](../Images/2b70a57290359bb10edd19df77888364.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mF1gIU2i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/haskell.png)
+[![Haskell is a popular programming language](img/2b70a57290359bb10edd19df77888364.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mF1gIU2i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/haskell.png)
 
 *   人气:小众
     *   [29 个工作岗位](https://www.indeed.com/jobs?q=haskell+developer&l=New+York%2C+NY)
@@ -598,7 +598,7 @@ Haskell 比较难学，但是，这是学习函数式编程的好机会。如果
 
 ### 38。什么是 Apex？
 
-[![Apex is a popular programming language](../Images/bfa09c7d235415ed1bc4c26d72d133c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g4Keuwug--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/apex.png)
+[![Apex is a popular programming language](img/bfa09c7d235415ed1bc4c26d72d133c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g4Keuwug--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/apex.png)
 
 *   受欢迎程度:低
     *   [195 个工作岗位](https://www.indeed.com/jobs?q=apex%20developer&l=New%20York,%20NY&vjk=a18c9bee4adc1de9)
@@ -612,7 +612,7 @@ Apex 跟 C#和 Java 一样难学。如果你想使用 Salesforce 开发，学习
 
 ### 39。科特林是什么？
 
-[![Kotlin is a popular programming language](../Images/7400083e7ee6f1bec0166481206842d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H7s5jVYV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/kotlin.png)
+[![Kotlin is a popular programming language](img/7400083e7ee6f1bec0166481206842d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H7s5jVYV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/kotlin.png)
 
 *   受欢迎程度:低
     *   [133 岗位](https://www.indeed.com/jobs?q=kotlin&l=New%20York,%20NY)
@@ -626,7 +626,7 @@ Kotlin 运行在 Java VM 上，并编译成 JavaScript。它的语法非常类�
 
 ### 40。什么是 Bash？
 
-[![Bash is a popular programming language](../Images/370515904397750f7af8afa407ffc96c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RpNbI4jn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/bash.png)
+[![Bash is a popular programming language](img/370515904397750f7af8afa407ffc96c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RpNbI4jn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/bash.png)
 
 *   受欢迎程度:低(见详情)
     *   [157 份工作](https://www.indeed.com/jobs?q=unix%20administrator&l=New%20York,%20NY)
@@ -640,7 +640,7 @@ Bash 技能主要是 Unix/Linux 管理以及需要为这些平台编写脚本的
 
 ### 41。什么是梯形逻辑？
 
-[![Ladder Logic is a popular programming language](../Images/be7897296de20de5781cb1861ac9aca5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jEfs2uLl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/ladder-logic.png)
+[![Ladder Logic is a popular programming language](img/be7897296de20de5781cb1861ac9aca5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jEfs2uLl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/ladder-logic.png)
 
 *   人气:小众
     *   [20 份工作](https://www.indeed.com/jobs?q=%22ladder%20logic%22&l=New%20York,%20NY&vjk=28015818f847eb19)
@@ -652,7 +652,7 @@ Bash 技能主要是 Unix/Linux 管理以及需要为这些平台编写脚本的
 
 ### 42。Clojure 是什么？
 
-[![Clojure is a popular programming language](../Images/4a9fb026d76bb9c3e17b3a06a36335d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mm4E8QXu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/clojure.png)
+[![Clojure is a popular programming language](img/4a9fb026d76bb9c3e17b3a06a36335d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mm4E8QXu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/clojure.png)
 
 *   人气:小众
     *   [55 份工作](https://www.indeed.com/jobs?q=clojure&l=New%20York,%20NY)
@@ -663,7 +663,7 @@ Clojure 与 LISP 相关，使用类似的语法。Clojure 运行在 Java VM 上�
 
 ### 43。什么是 Scheme？
 
-[![Scheme is a popular programming language](../Images/ee46b90bd1b544063a37422785e3cc27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qqfI1TFV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/programming-languages/scheme.png)
+[![Scheme is a popular programming language](img/ee46b90bd1b544063a37422785e3cc27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qqfI1TFV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/programming-languages/scheme.png)
 
 *   人气:小众
     *   [40 份工作](https://www.indeed.com/jobs?q=scheme%20developer&l=New%20York,%20NY)

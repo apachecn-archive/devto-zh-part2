@@ -8,8 +8,8 @@
 
 我被分配了两份关于我正在建设的网站的 QA bug 报告。它们都与一种特定的呈现方式有关——这允许编辑通过注入页面的`<iframe/>`标签引入外部内容:
 
-*   第一个错误报告说，试图将这种渲染添加到 QA 服务器上的页面会导致 Experience Editor 抛出一个模式对话框，并以神秘的“`An error occurred.`”作为其消息。渲染没有在页面上结束，但是体验编辑器在对话框关闭后继续工作: [![](../Images/55ca3aa47ee79e10e3a0c29d279eb1e3.png)](https://jermdavis.files.wordpress.com/2018/09/firsterror.png)
-*   第二份报告称，在一个已经有该组件的页面上，Experience Editor 现在无法在编辑模式下呈现该组件，而是显示来自其父容器组件的异常: [![](../Images/1794335536cf7bf96a0ad621735a9143.png)](https://jermdavis.files.wordpress.com/2018/09/seconderror.png) 但是该页面在预览和发布模式下工作正常。对于谷歌的好处，这里的两个例外的关键部分是:
+*   第一个错误报告说，试图将这种渲染添加到 QA 服务器上的页面会导致 Experience Editor 抛出一个模式对话框，并以神秘的“`An error occurred.`”作为其消息。渲染没有在页面上结束，但是体验编辑器在对话框关闭后继续工作: [![](img/55ca3aa47ee79e10e3a0c29d279eb1e3.png)](https://jermdavis.files.wordpress.com/2018/09/firsterror.png)
+*   第二份报告称，在一个已经有该组件的页面上，Experience Editor 现在无法在编辑模式下呈现该组件，而是显示来自其父容器组件的异常: [![](img/1794335536cf7bf96a0ad621735a9143.png)](https://jermdavis.files.wordpress.com/2018/09/seconderror.png) 但是该页面在预览和发布模式下工作正常。对于谷歌的好处，这里的两个例外的关键部分是:
 
 ```
 Error Rendering View: /Views/PageLayout/66-33.cshtml: Error while rendering view: '/Views/PageLayout/66-33.cshtml' (model: 'Sitecore.Mvc.Presentation.RenderingModel, Sitecore.Mvc').
@@ -61,7 +61,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 所以我切换到核心数据库，并深入到我添加到新渲染中的自定义体验编辑器按钮定义。透过田野，我发现:
 
-[![](../Images/bb2766df5491ed12c193535bc066f0fb.png)T2】](https://jermdavis.files.wordpress.com/2018/09/fieldissue.png)
+[![](img/bb2766df5491ed12c193535bc066f0fb.png)T2】](https://jermdavis.files.wordpress.com/2018/09/fieldissue.png)
 
 宾果:在 QA 服务器上，您可以指定由该按钮编辑的数据源字段的字段在它所指定的名称的末尾获得了一个流氓冒号。异常消息确实指出不允许使用冒号(以及括号和等号)。我猜是复制/粘贴错误造成的。
 

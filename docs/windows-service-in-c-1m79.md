@@ -128,7 +128,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这将它放在 services.msc 中，其中**开始**执行`layer0.exe --service` :
 
-[![](../Images/013f3a149f2a555ce2cc76957841573e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--L0FIcOdf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/services_layer0.png)
+[![](img/013f3a149f2a555ce2cc76957841573e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--L0FIcOdf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/services_layer0.png)
 
 ## setPermissions()
 
@@ -187,7 +187,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 失败操作指定当服务失败时会发生什么。这可以从 services.msc 访问，方法是右键单击服务，然后单击**属性- >恢复** :
 
-[![](../Images/d51d3ea572ae3e366f86ff34ccefef7a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NW9eAyTp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/services_recovery.png)
+[![](img/d51d3ea572ae3e366f86ff34ccefef7a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NW9eAyTp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/services_recovery.png)
 
 这是一个特别讨厌的 pinvoke 位。责任完全落在更改服务配置参数的函数上， [ChangeServiceConfig2()](https://docs.microsoft.com/en-us/windows/desktop/api/winsvc/nf-winsvc-changeserviceconfig2a) ，因为它的第二个参数指定了第三个参数是指向。
 

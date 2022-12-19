@@ -77,7 +77,7 @@ body {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/59a275996418a0cfd3ce838e42733e83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8hqvhaSS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vnfb7a57rwarv9ke8wp6.jpg)
+[![](img/59a275996418a0cfd3ce838e42733e83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8hqvhaSS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vnfb7a57rwarv9ke8wp6.jpg)
 
 目前为止没什么印象。
 
@@ -158,7 +158,7 @@ body {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/d682f75a9bba63a46fc390add8c7546b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P124fz0d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f6n87mht45wxvffnffjf.jpg)
+[![](img/d682f75a9bba63a46fc390add8c7546b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P124fz0d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f6n87mht45wxvffnffjf.jpg)
 
 好吧，让我们看看这是怎么回事。
 
@@ -291,7 +291,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 它看起来已经好多了。
 
-[![](../Images/71d69915a30946d15fe66c80edef84ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--175hOzPL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jg90tzx6lan2vx0wrudf.jpg)
+[![](img/71d69915a30946d15fe66c80edef84ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--175hOzPL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jg90tzx6lan2vx0wrudf.jpg)
 
 # 更高级的概念
 

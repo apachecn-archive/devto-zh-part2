@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/scalegrid/the-top-6-free-redis-memory-analysis-tools-2hdi>
 
-[![Help section of RMA](../Images/5bb8c7b4d79c50b74da499b6a0a6d639.png)T2】](https://scalegrid.io/blog/the-top-6-free-redis-memory-analysis-tools/)
+[![Help section of RMA](img/5bb8c7b4d79c50b74da499b6a0a6d639.png)T2】](https://scalegrid.io/blog/the-top-6-free-redis-memory-analysis-tools/)
 
 在分析 Redis 实例的内存使用时，市场上有很多免费和开源的工具，以及一些付费产品。一些最受欢迎的工具是 Jacks(各行各业都有名气)，但如果你想对你的记忆问题进行更深入的分析，你可能会更好地使用一种更有针对性、更少为人知的工具。
 
@@ -23,7 +23,7 @@
 
 [Redis 内存分析器](https://github.com/gamenet/redis-memory-analyzer "Redis Memory Analyzer (RMA)") (RMA)是 Redis 可用的最全面的 FOSS 内存分析器之一。它支持三种不同级别的详细信息:
 
-[![Help section of RMA](../Images/05ca5ca8f83876beb103552ac05d83cf.png)T2】](https://scalegrid.io/blog/wp-content/uploads/2018/06/image13.png)
+[![Help section of RMA](img/05ca5ca8f83876beb103552ac05d83cf.png)T2】](https://scalegrid.io/blog/wp-content/uploads/2018/06/image13.png)
 
 *   **全局** -内存使用信息概述。
 *   **扫描器** -最高级别的密钥空间/前缀级别的内存使用信息-换句话说，使用最短的公共前缀。
@@ -35,19 +35,19 @@
 
 在全局模式中，RMA 提供一些高级统计信息，如键的数量、系统内存、常驻集大小、键空间大小等。一个独特的特性是“键空间开销”，Redis 系统使用这种内存来存储与键空间相关的信息，比如列表数据结构的指针。
 
-[![Output from RMA in global mode](../Images/2517b2d8e232898bc91478a496633c23.png)T2】](https://scalegrid.io/blog/wp-content/uploads/2018/06/image15.png)
+[![Output from RMA in global mode](img/2517b2d8e232898bc91478a496633c23.png)T2】](https://scalegrid.io/blog/wp-content/uploads/2018/06/image15.png)
 
 ### RMA -扫描仪模式
 
 在扫描模式下，我们可以看到我们的键空间的概况。它给出了高级名称空间(因此 a🅱️1 和 a:c:1 组合在一起作为一个*)，以及它的条目类型和该名称空间消耗的内存百分比。从这些信息开始，然后使用“RAM”行为和名称空间模式进行详细的分析是很有用的。
 
-[![Output from RMA in scanner mode](../Images/f002f27589cebc9b2823eb2cbd5e1e01.png)T2】](https://scalegrid.io/blog/wp-content/uploads/2018/06/image12.png)
+[![Output from RMA in scanner mode](img/f002f27589cebc9b2823eb2cbd5e1e01.png)T2】](https://scalegrid.io/blog/wp-content/uploads/2018/06/image12.png)
 
 ### RMA - RAM 模式
 
 在 RAM 模式下，我们得到键空间级别的内存消耗，这是大多数其他 FOSS 内存分析器提供的。所以在这里，a🅱️1 和 a:c:1 分别作为 a🅱️*和 a:c:*我们得到了有关内存使用，实际数据大小，开销，编码，最小和最大 TTL 等详细信息。这有助于确定系统中最大的内存占用者。
 
-[![Output from RMA in ram mode](../Images/27252df9b09baa539511d9d8de7e29ae.png)T2】](https://scalegrid.io/blog/wp-content/uploads/2018/06/image11.png)
+[![Output from RMA in ram mode](img/27252df9b09baa539511d9d8de7e29ae.png)T2】](https://scalegrid.io/blog/wp-content/uploads/2018/06/image11.png)
 
 不幸的是，这个工具并不总是更新(GitHub 上的最后一次提交是在一年多以前)。即便如此，这也是我们发现的用于详细分析的最佳方法之一。
 
@@ -77,7 +77,7 @@ RMA 要求在系统上安装 Python 和 PIP(两者都适用于所有主要的操
 
 Redis Sampler 是一个非常强大的工具，可以深入了解 Redis 实例的内存使用情况。它由 Redis 背后的开发者 [antirez](https://github.com/antirez "antirez - Redis Sampler") 维护，Redis 的深厚知识在这个工具中表现得淋漓尽致。该工具并不经常更新——但无论如何也没有太多问题被报告。
 
-[![The help section of RDB Sampler](../Images/7e429880529654360ce9b108d35df5e3.png)T2】](https://scalegrid.io/blog/wp-content/uploads/2018/06/image7.png)
+[![The help section of RDB Sampler](img/7e429880529654360ce9b108d35df5e3.png)T2】](https://scalegrid.io/blog/wp-content/uploads/2018/06/image7.png)
 
 Redis Sampler 对数据库进行概率扫描，并报告以下信息:
 
@@ -90,7 +90,7 @@ Redis Sampler 对数据库进行概率扫描，并报告以下信息:
 
 这是一个单独的 Ruby 脚本。它要求已经安装了 Ruby。您还需要安装“rubygems”和“redis”gems。用法非常简单——从命令行执行`。/redis-sampler.rb '
 
-[![Output from Redis Sampler](../Images/ca4cc901d4dff64bdc4f690e194b558a.png)T2】](https://scalegrid.io/blog/wp-content/uploads/2018/06/image8.png)
+[![Output from Redis Sampler](img/ca4cc901d4dff64bdc4f690e194b558a.png)T2】](https://scalegrid.io/blog/wp-content/uploads/2018/06/image8.png)
 
 #### 重定向至:
 
@@ -114,21 +114,21 @@ Redis Sampler 对数据库进行概率扫描，并报告以下信息:
 
 对于任何认真的 Redis 管理员来说，RDB 工具是一套非常有用的工具。我们能想到的几乎每个用例都有一个工具，但是在这篇文章中，我们将只关注内存分析工具。
 
-[![Help section of RDB](../Images/bc6210edb8d387d6f6864e60209f82a3.png)T2】](https://scalegrid.io/blog/wp-content/uploads/2018/06/image9.png)
+[![Help section of RDB](img/bc6210edb8d387d6f6864e60209f82a3.png)T2】](https://scalegrid.io/blog/wp-content/uploads/2018/06/image9.png)
 
 虽然远不及 RMA 或 Redis Sampler 全面，但 RDB 工具提供了 3 条重要信息:
 
 1)值的(序列化)大小大于 B 字节[B 由用户指定]的所有关键字。
 
-[![RDB Output showing all keys with size greater than 500 bytes](../Images/72b9813115e04f07a98e2730244a021b.png)T2】](https://scalegrid.io/blog/wp-content/uploads/2018/06/image2.png)
+[![RDB Output showing all keys with size greater than 500 bytes](img/72b9813115e04f07a98e2730244a021b.png)T2】](https://scalegrid.io/blog/wp-content/uploads/2018/06/image2.png)
 
 2)最大的 N 个密钥[N 由用户指定]。
 
-[![2 largest keys as shown via RDB](../Images/7a2e439315a006b7929ef5f24571fcda.png)T2】](https://scalegrid.io/blog/wp-content/uploads/2018/06/image16.png)
+[![2 largest keys as shown via RDB](img/7a2e439315a006b7929ef5f24571fcda.png)T2】](https://scalegrid.io/blog/wp-content/uploads/2018/06/image16.png)
 
 3)特定密钥的大小:这是从数据库中实时读取的。
 
-[![RDB output showing memory occupied by a particular key](../Images/49615af49e8514c896be6c030e4b9795.png)T2】](https://scalegrid.io/blog/wp-content/uploads/2018/06/image3.png)
+[![RDB output showing memory occupied by a particular key](img/49615af49e8514c896be6c030e4b9795.png)T2】](https://scalegrid.io/blog/wp-content/uploads/2018/06/image3.png)
 
 这个套件在 GitHub 上有很多活跃的贡献者，并且更新非常频繁。RDB 工具在互联网上也有很好的记录。维护者 [sripathikrishnan](https://github.com/sripathikrishnan?tab=repositories) 在 Redis 社区中因其多年来提供的许多工具而闻名。
 
@@ -159,15 +159,15 @@ RDB 工具要求在系统上安装 Python 和 PIP(两者都适用于所有主流
 
 [Redis-Audit](https://github.com/snmaynard/redis-audit "Redis-Audit") 是一个概率工具，有助于快速了解内存使用情况。它输出关于密钥组的有用信息，如总内存消耗、组中的最大 TTL、平均最后访问时间、组中过期密钥的百分比等。如果您需要在应用程序中找到最占用内存的键组，这是一个完美的工具。
 
-[![Help page from RDB Audit](../Images/a18d8e75cdfa421e9a0e6024dcfd7f24.png)T2】](https://scalegrid.io/blog/wp-content/uploads/2018/06/image5.png)
+[![Help page from RDB Audit](img/a18d8e75cdfa421e9a0e6024dcfd7f24.png)T2】](https://scalegrid.io/blog/wp-content/uploads/2018/06/image5.png)
 
 ### Redis-Audit 安装和使用:
 
 你必须已经安装了 Ruby 和[包](https://bundler.io/)。安装完成后，你可以[将 Redis-Audit 库](https://github.com/snmaynard/redis-audit.git)克隆到一个文件夹中，或者[下载 zip 文件](https://github.com/snmaynard/redis-audit/archive/master.zip)并解压到一个文件夹中。从该文件夹中，运行“捆绑安装”来完成安装。
 
-[![Output from RDB Audit](../Images/66147514dc93d6365ef69515532af7df.png)](https://scalegrid.io/blog/wp-content/uploads/2018/06/image4.png)
-[![redis sampler part 3](../Images/82719e2137747e728ff30dcd913f4b45.png)](https://scalegrid.io/blog/wp-content/uploads/2018/06/image14.png)
-[![The typewise grouped information from RDB Audit](../Images/a380dedafaadcd482b330884181d6938.png)](https://scalegrid.io/blog/wp-content/uploads/2018/06/image6.png)
+[![Output from RDB Audit](img/66147514dc93d6365ef69515532af7df.png)](https://scalegrid.io/blog/wp-content/uploads/2018/06/image4.png)
+[![redis sampler part 3](img/82719e2137747e728ff30dcd913f4b45.png)](https://scalegrid.io/blog/wp-content/uploads/2018/06/image14.png)
+[![The typewise grouped information from RDB Audit](img/a380dedafaadcd482b330884181d6938.png)](https://scalegrid.io/blog/wp-content/uploads/2018/06/image6.png)
 
 用法非常简单:从命令行执行` redis-audit . Rb hostname[port][password][dbmnum][sample _ size]`命令
 
@@ -188,13 +188,13 @@ RDB 工具要求在系统上安装 Python 和 PIP(两者都适用于所有主流
 
 Redis Toolkit 是一个基本的监控解决方案，可用于分析两个关键指标:命中率和内存消耗。该项目定期更新错误修复，但没有一些更著名的工具所享有的社区支持。
 
-[![Help section of Redis Toolkit](../Images/920ada2129746af8ec878dcb50acb9d8.png)T2】](https://scalegrid.io/blog/wp-content/uploads/2018/06/image10.png)
+[![Help section of Redis Toolkit](img/920ada2129746af8ec878dcb50acb9d8.png)T2】](https://scalegrid.io/blog/wp-content/uploads/2018/06/image10.png)
 
 ### Redis 工具包的安装和使用:
 
 您的系统上必须安装 Docker。然后，克隆 [GitHub 库](https://github.com/alexdicianu/redis_toolkit.git)(或者[下载为 zip](https://github.com/alexdicianu/redis_toolkit/archive/master.zip) 解压到一个文件夹)。在该文件夹中，安装就像执行`。/redis-toolkit install `
 
-[![Report from Redis Toolkit](../Images/989a0e8ff72cae809c72a81fe360065f.png)T2】](https://github.com/alexdicianu/redis_toolkit/blob/master/README.md)
+[![Report from Redis Toolkit](img/989a0e8ff72cae809c72a81fe360065f.png)T2】](https://github.com/alexdicianu/redis_toolkit/blob/master/README.md)
 
 使用纯粹是通过命令行，通过一系列简单的命令。
 
@@ -224,7 +224,7 @@ Redis Toolkit 是一个基本的监控解决方案，可用于分析两个关键
 
 这是一个概率抽样工具，可用于根据键的数量确定 10 个最大的名称空间/前缀。这是最新的工具之一，还没有在 GitHub 上看到多少吸引力。但是，如果您是一名 Redis 新手，想要确定哪种应用程序数据堵塞了您的实例，那么没有比 Harvest 更简单的了。
 
-[![Output of Harvest Tool](../Images/8dd3099cca7ab428b87754c4d10f4d00.png)T2】](https://github.com/31z4/harvest/tree/v0.2.0)
+[![Output of Harvest Tool](img/8dd3099cca7ab428b87754c4d10f4d00.png)T2】](https://github.com/31z4/harvest/tree/v0.2.0)
 
 ### Harvest 安装和使用:
 

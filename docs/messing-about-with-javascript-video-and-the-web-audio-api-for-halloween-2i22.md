@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/philnash/messing-about-with-javascript-video-and-the-web-audio-api-for-halloween-2i22>
 
-[![Happy Hallowe'en](../Images/32036b442ce74133a164690da086e80a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DIBiCfDo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/924howsdruiduqumectg.gif)
+[![Happy Hallowe'en](img/32036b442ce74133a164690da086e80a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DIBiCfDo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/924howsdruiduqumectg.gif)
 
 所以是万圣节。我通常不是那种打扮起来吓唬邻居的人，但我确实得到了一点灵感，尝试在网上拼凑一些东西。
 

@@ -8,7 +8,7 @@
 
 我读的论文是约翰·休斯的《为什么函数式编程很重要》，下面是我从中学到的东西。
 
-<figure>[![](../Images/90bcb525512ca6e2f29bdcbcf84e1cb5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_dnUiuLQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AWednDtXFV10wEWC-AdUUGg.png) 
+<figure>[![](img/90bcb525512ca6e2f29bdcbcf84e1cb5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_dnUiuLQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AWednDtXFV10wEWC-AdUUGg.png) 
 
 <figcaption>编程范式的演变</figcaption>
 
@@ -16,11 +16,11 @@
 
 函数式编程之所以被称为函数式编程，是因为程序完全由函数组成。甚至主程序也是一个函数，它接收输入作为参数，生成输出作为结果。
 
-[![](../Images/ea6a5885c089a2e7f4becef8b8ea9a0b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iCkOfD0L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A709ugF12LLkYxvb839YNlg.png)
+[![](img/ea6a5885c089a2e7f4becef8b8ea9a0b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iCkOfD0L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A709ugF12LLkYxvb839YNlg.png)
 
 函数式编程的关键概念是**模块化**。程序功能总是根据其他功能来定义，而其他功能又根据更小的功能来进一步定义。
 
-<figure>[![](../Images/19ed19873587219c2bcadfdd0a6c3c07.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JvtqAcNq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A-p4k90uesC5rHtjfBOovlQ.png) 
+<figure>[![](img/19ed19873587219c2bcadfdd0a6c3c07.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JvtqAcNq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A-p4k90uesC5rHtjfBOovlQ.png) 
 
 <figcaption>功能流程图</figcaption>
 

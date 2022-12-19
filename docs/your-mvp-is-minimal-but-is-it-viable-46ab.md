@@ -38,7 +38,7 @@
 
 粗略地说，复杂性区分了处于混沌状态的系统，死的和活的。被认为有生命的系统已经接近混沌的边缘。他们有足够有趣的动态内置，但他们没有失去控制。
 
-[![t](../Images/414bdc1f68e493324756a0072f5c19f4.png)T2】](https://alexiskold.files.wordpress.com/2015/10/t.png)
+[![t](img/414bdc1f68e493324756a0072f5c19f4.png)T2】](https://alexiskold.files.wordpress.com/2015/10/t.png)
 
 MVP 的类比是，你可以拥有一个有太多功能的产品——它很混乱，很难理解。在另一个极端，你可以有一个没有足够内置的产品。它不够好，它没有生命力。
 
@@ -86,7 +86,7 @@ MVP 的类比是，你可以拥有一个有太多功能的产品——它很混�
 
 想了解更多关于如何打造你的 MVP 的细节，请阅读这篇精彩的指南。下面是帖子里的图片。
 
-[![mvp](../Images/18808b9f951563dfd67c28222dd48074.png)T2】](https://alexiskold.files.wordpress.com/2015/10/mvp.jpg)
+[![mvp](img/18808b9f951563dfd67c28222dd48074.png)T2】](https://alexiskold.files.wordpress.com/2015/10/mvp.jpg)
 
 ### 计算你的 MVP
 

@@ -14,7 +14,7 @@
 2.  您可以在自述文件中添加简短的语言信息。
 3.  是的，你可以(也必须😎)添加任何你知道的新语言。
 
-## ![GitHub logo](../Images/375dfcc32199b4dedf2b526645c27ff7.png)[black bird 71sr](https://github.com/blackbird71SR)/[Hello-World](https://github.com/blackbird71SR/Hello-World)
+## ![GitHub logo](img/375dfcc32199b4dedf2b526645c27ff7.png)[black bird 71sr](https://github.com/blackbird71SR)/[Hello-World](https://github.com/blackbird71SR/Hello-World)
 
 ### 所有可能的编程语言的 Hello World
 

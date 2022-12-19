@@ -18,7 +18,7 @@
 
 ### 一击即中
 
-[![ZDNet home page](../Images/0006498f69bb507b3ec9afe59ad225ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vZMOSTSZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://scotthannen.org/images/zdnet_search_1.png)
+[![ZDNet home page](img/0006498f69bb507b3ec9afe59ad225ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vZMOSTSZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://scotthannen.oimg/zdnet_search_1.png)
 
 首先，搜索框在哪里？你正在寻找一个白色或浅色的盒子在右上角或顶部中心？它不在那里。左上角有一个放大类，但是没有搜索框。
 
@@ -28,7 +28,7 @@
 
 产品搜索是 Amazon.com 的一个重要功能。如果你在一个更小的屏幕上或者一个更小的窗口中查看网站，哪些元素是隐藏的？除了产品搜索。搜索是 ZDNet 网站的重要功能吗？我不知道。
 
-[![ZDNet home page](../Images/8ac647b0345a9a00a5a65c033d61c4eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--47jZnQs9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://scotthannen.org/images/amazon_small_search.png)
+[![ZDNet home page](img/8ac647b0345a9a00a5a65c033d61c4eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--47jZnQs9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://scotthannen.oimg/amazon_small_search.png)
 
 ZDNet 的搜索不是隐藏的，但不是你找的地方。这并不是世界末日。但是他们可以毫无理由地让你浏览页面顶部来寻找它。*一击。*
 
@@ -42,7 +42,7 @@ ZDNet 的搜索不是隐藏的，但不是你找的地方。这并不是世界�
 
 ### 击三
 
-[![ZDNet home page](../Images/e04a7f0cc555784a081b29daa66d5469.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QW3Yc94Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://scotthannen.org/images/zdnet_search_2.png)
+[![ZDNet home page](img/e04a7f0cc555784a081b29daa66d5469.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QW3Yc94Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://scotthannen.oimg/zdnet_search_2.png)
 
 我在找什么？我会告诉你我在找什么。伙计，我的搜索框呢？如果我能找到，我就会输入我真正要找的东西！
 
@@ -60,7 +60,7 @@ Android 应用的右上角有搜索图标，右下角有“记笔记”选项。
 
 然而，该网站的外观和行为有所不同:
 
-[![ZDNet home page](../Images/41e07d0428ef894cb0f2e60ee757211b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K10UYv2P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://scotthannen.org/images/google_keep_search.png)
+[![ZDNet home page](img/41e07d0428ef894cb0f2e60ee757211b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K10UYv2P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://scotthannen.oimg/google_keep_search.png)
 
 用于输入注释的框位于我通常查找搜索框的位置，它看起来像一个搜索框，默认情况下光标放在那里。这款应用训练我，除非我通过点击“记笔记”告诉它我想记笔记，否则我不会写笔记。但是现在我的光标在一个看起来像搜索框的框中，只要我输入一个字符，我就创建了一个需要删除的注释。
 

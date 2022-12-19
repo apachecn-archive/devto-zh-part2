@@ -4,7 +4,7 @@
 
 不久前，我的朋友 Dan 向我展示了一个类似 Photoshop 的可停靠窗格系统的原型实现，它是作为 React 组件构建的，带有 smokey pro 主题。它仍然缺少拖放和浮动窗口，但这是一个很好的开始，看起来很酷。
 
-[![screenshot](../Images/4a6829aad7716dbf1f755e940ff3e8d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wedv7SZZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zzp5is2sqprgjmf5bssv.png)
+[![screenshot](img/4a6829aad7716dbf1f755e940ff3e8d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wedv7SZZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zzp5is2sqprgjmf5bssv.png)
 
 我觉得把它带走会很有趣。它不仅会推动我的原型 UI 框架和我的使用体验的极限，而且我实际上会在我的大项目中使用它，可能还有很多其他项目。
 

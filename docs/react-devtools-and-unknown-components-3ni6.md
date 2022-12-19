@@ -38,7 +38,7 @@ class App extends React.Component {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![unknown1.png](../Images/cefcf62463d22beebd9990c098a953c0.png)T2】](https://postimg.cc/image/rrp23ph37/)
+[![unknown1.png](img/cefcf62463d22beebd9990c098a953c0.png)T2】](https://postimg.cc/image/rrp23ph37/)
 
 这里没有真正的惊喜，React 可以很容易地破译你的组件的名称。如果我们直接导出类呢？
 
@@ -66,7 +66,7 @@ class App extends React.Component {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![unknown2.png](../Images/e2e2fbc3a491a86c87b427adeea80c8d.png)T2】](https://postimg.cc/image/yuwxjbu8j/)
+[![unknown2.png](img/e2e2fbc3a491a86c87b427adeea80c8d.png)T2】](https://postimg.cc/image/yuwxjbu8j/)
 
 嗯，不完全是`<Unknown>`但仍然不是非常有用的信息。
 
@@ -98,7 +98,7 @@ class App extends React.Component {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![unknown3.png](../Images/41cc758686ecf029d6509b5a16a06240.png)T2】](https://postimg.cc/image/oxlwq9ucj/)
+[![unknown3.png](img/41cc758686ecf029d6509b5a16a06240.png)T2】](https://postimg.cc/image/oxlwq9ucj/)
 
 如您所见，两者在 DevTools 中都被正确命名。但是如果我们要导出一个匿名函数呢？
 
@@ -122,7 +122,7 @@ class App extends React.Component {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![unknown4.png](../Images/48cc398360049150b1bbfe074e49074c.png)T2】](https://postimg.cc/image/t6qmsfagj/)
+[![unknown4.png](img/48cc398360049150b1bbfe074e49074c.png)T2】](https://postimg.cc/image/t6qmsfagj/)
 
 我认为 DevTools 现在提供一个`<Unknown>`组件并不令人震惊。我们在导出组件时没有为它提供名称，所以 React 不能为我们推断它。
 
@@ -154,7 +154,7 @@ class App extends React.Component {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![unknown5.png](../Images/fb2c8a501e53593f3f8a8ee6409eeb60.png)T2】](https://postimg.cc/image/r269rd3oz/)
+[![unknown5.png](img/fb2c8a501e53593f3f8a8ee6409eeb60.png)T2】](https://postimg.cc/image/r269rd3oz/)
 
 有意思！尽管为我们的高阶组件定义了一个名称，但是这个名称在 DevTools 中丢失了。此外，被包装的组件保留其名称！
 
@@ -193,7 +193,7 @@ class App extends React.Component {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![unknown6.png](../Images/e847918b8c862626cf4dce541042c607.png)T2】](https://postimg.cc/image/65a1mpddv/)
+[![unknown6.png](img/e847918b8c862626cf4dce541042c607.png)T2】](https://postimg.cc/image/65a1mpddv/)
 
 太好了，这保留了两个组件的名称！
 

@@ -8,12 +8,12 @@
 
 当调试窗口打开时，情况变得更糟。
 
-[![No space](../Images/b37810d2790cace027b0f1be84a62705.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--15HEXgin--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5tscddcxnpq03n8ln0na.png)
+[![No space](img/b37810d2790cace027b0f1be84a62705.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--15HEXgin--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5tscddcxnpq03n8ln0na.png)
 
 这是我前几天偶然发现的一个提示。我试图用快捷键+T 在 Chrome 中打开一个新标签页，却没有意识到我仍然在 XCode 中。我不知道 XCode 支持选项卡式窗口！
 
-[![Command Tab View](../Images/d879ae471739bb96437da5563870993b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iEhShNHr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6zrgasoy3rcby6c2zy79.png)
+[![Command Tab View](img/d879ae471739bb96437da5563870993b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iEhShNHr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6zrgasoy3rcby6c2zy79.png)
 
 你可以打开你的故事板一次，然后关闭所有的窗口以获得更多的空间，这样你就不必担心再次打开它和永远等待了！看看你得到的空间！
 
-[![So much real estate](../Images/6d261b3bf397b61880762e227bdcb6d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z_QP17cr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9ygf1qw41uqj2vx8znub.png)
+[![So much real estate](img/6d261b3bf397b61880762e227bdcb6d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z_QP17cr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9ygf1qw41uqj2vx8znub.png)

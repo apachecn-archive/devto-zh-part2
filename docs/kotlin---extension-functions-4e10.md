@@ -83,10 +83,10 @@ Enter fullscreen mode Exit fullscreen mode
 
 顺便说一下，如果你在 Java 中，你可以在不扩展类的情况下给现有的类(尤其是最终类)增加功能。你可以通过*合成*来实现。我在 dev.to 上看过一篇文章，就是这么做的。你可以在这里找到它。
 
-[![bertilmuth](../Images/dcb4e631a1c765f4fceebb73d53cd256.png)](/bertilmuth) [## Java 中的最终类
+[![bertilmuth](img/dcb4e631a1c765f4fceebb73d53cd256.png)](/bertilmuth) [## Java 中的最终类
 
 ### bertil Muth 7 月 1 日 181 分钟阅读
 
 #java #programming #coding #oop](/bertilmuth/final-classes-in-java-2jh2)
 
-[![](../Images/835cc5d342acc97ebe3515a542ba4093.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q5JES4IT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/WorkingDev/%257E4/VSpcDf5VrX8)
+[![](img/835cc5d342acc97ebe3515a542ba4093.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q5JES4IT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/WorkingDev/%257E4/VSpcDf5VrX8)

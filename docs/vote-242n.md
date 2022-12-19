@@ -67,7 +67,7 @@
 
 * * *
 
-## ![GitHub logo](../Images/375dfcc32199b4dedf2b526645c27ff7.png) [ awwsmm ](https://github.com/awwsmm) / [投票](https://github.com/awwsmm/vote)
+## ![GitHub logo](img/375dfcc32199b4dedf2b526645c27ff7.png) [ awwsmm ](https://github.com/awwsmm) / [投票](https://github.com/awwsmm/vote)
 
 ### 11 月 6 日投票
 

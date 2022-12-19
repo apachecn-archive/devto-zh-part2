@@ -31,7 +31,7 @@ Flexbox 用于简单的*一维节*(只有行或列，如出版物名称节)以�
 要指定网格容器中的列数(和宽度)，必须使用 **grid-template-columns** 属性。
 
 让我们来看看主要的故事部分。
-[![](../Images/26839691ea60225e1a4cdf0b0441def8.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--QgmkrUIx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o3cru9rjgi8ydtc4ffp6.png)
+[![](img/26839691ea60225e1a4cdf0b0441def8.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--QgmkrUIx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o3cru9rjgi8ydtc4ffp6.png)
 
 正如你所看到的，故事左边的内容占了整个章节的四分之三(3/4 ),而右边的内容占了四分之一(1/4)。
 
@@ -81,10 +81,10 @@ Enter fullscreen mode Exit fullscreen mode
 Enter fullscreen mode Exit fullscreen mode
 
 在上面的例子中，在 iPad 和桌面视图中，列将以这种方式显示。
-[![](../Images/c5ae1d81773bae01c59a545a011c681e.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--jF4I_jME--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gtad3mjx9jd09fje89nl.png)
+[![](img/c5ae1d81773bae01c59a545a011c681e.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--jF4I_jME--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gtad3mjx9jd09fje89nl.png)
 
 而在 mobile 上，由于我把它指定为 **repeat(2，1fr)** ，所以会显示成这样。
-T3![](../Images/afdc023f6618db01267223746857ae2f.png)T5】
+T3![](img/afdc023f6618db01267223746857ae2f.png)T5】
 
 ### 重复()
 
@@ -121,7 +121,7 @@ T3![](../Images/afdc023f6618db01267223746857ae2f.png)T5】
 Enter fullscreen mode Exit fullscreen mode
 
 产生了这个结果。
-[![](../Images/31a6f1be8177e4ddb1c1f2a86b43050f.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--tXGmfAVL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hvulkw7o44xdclnv81h6.png)
+[![](img/31a6f1be8177e4ddb1c1f2a86b43050f.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--tXGmfAVL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hvulkw7o44xdclnv81h6.png)
 
 # 结论
 

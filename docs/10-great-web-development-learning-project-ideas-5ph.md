@@ -22,61 +22,61 @@
 
 ### 什么股票
 
-[![Dog with funny glasses and fake nose](../Images/982925c5a41af067c1b33f1e21611e90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SsKH8qeh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/07/what-the-stock.jpg)
+[![Dog with funny glasses and fake nose](img/982925c5a41af067c1b33f1e21611e90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SsKH8qeh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/07/what-the-stock.jpg)
 
 一个股票照片网站，只有怪异或独特的照片。哭泣的小丑、废弃的购物中心、巨大的藤椅……诸如此类。
 
 ### 推广俱乐部
 
-[![Boy shouting into a microphone](../Images/937b14ef9ba403d9b28e433a887c4e03.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C4hwgsLO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/07/promo-club.jpg)
+[![Boy shouting into a microphone](img/937b14ef9ba403d9b28e433a887c4e03.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C4hwgsLO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/07/promo-club.jpg)
 
 人们可以在社交网络上提交自己创作的东西，如自己写的文章、发布的产品或 YouTube 视频。你查看他们的列表，并在你的社交媒体账户上推广你喜欢的人。更多的推广别人的东西可以让你的帖子在网站上获得更高的位置。
 
 ### 迷雾中的探索
 
-[![Boy looking at a map](../Images/7fe1705e45cd77a8ea8379df981cb47d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FQGiSAgt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/07/fog-of-explore.jpg)
+[![Boy looking at a map](img/7fe1705e45cd77a8ea8379df981cb47d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FQGiSAgt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/07/fog-of-explore.jpg)
 
 一款游戏化的 GPS 探险 app。你看到了一张真实世界的地图，但是地图的大部分都被雾覆盖了。(在你探索一个地区之前，游戏玩家会认为这是即时战略游戏中常见的“战争迷雾”。)随着你探索现实世界，地图就显现出来了。用户可以定义一个区域，并查看他们已经探索过的区域的百分比。
 
 ### 插接板阅读器
 
-[![Hand holding up a stack of books](../Images/38951564eced237eefde168429b00ae7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--siE5TrN1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/07/pinboard-reader.jpg)
+[![Hand holding up a stack of books](img/38951564eced237eefde168429b00ae7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--siE5TrN1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/07/pinboard-reader.jpg)
 
 有人用插接板吗？这是一个很棒的社交书签应用，在 del.icio.us 解散后收拾了残局。他们有一个很酷的“阅读”功能，你可以给一篇文章做书签，并标记你想以后阅读。Pinboard Reader 是一个 Instapaper/Pocket 风格的应用程序，它与他们的 API 挂钩。
 
 ### 纠结的网
 
-[![A spider web glistening with dew](../Images/3661d78c72e419522d4c6cd8fc202454.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7Q_Mi7KX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/07/tangled-web.jpg)
+[![A spider web glistening with dew](img/3661d78c72e419522d4c6cd8fc202454.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7Q_Mi7KX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/07/tangled-web.jpg)
 
 一个自动链接用户文章的博客平台。它匹配帖子中常见的单词和短语，更喜欢较长的匹配。例如，如果这个项目描述是平台上的一个帖子，那么“博客平台”这几个词可能会自动链接到另一个用户在 2018 年顶级博客平台上的帖子。链接会随着时间而变化。
 
 ### Fam
 
-[![Woman whispering to her daughter](../Images/2356657c9b8b724005d132e8add10146.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tG5FTK4---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/07/the-fam.jpg)
+[![Woman whispering to her daughter](img/2356657c9b8b724005d132e8add10146.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tG5FTK4---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/07/the-fam.jpg)
 
 好的，这些名字并不都是全垒打。😉你试过 Miitomo 吗？任天堂的社交网络？我喜欢它使用提示来激发朋友之间互动的方式。Fam 为家庭做这些，让他们交流，更多地了解彼此，并通过智能、迷人的提示变得更亲密。
 
 ### 永恒
 
-[![An hourglass](../Images/75451a9ac4c50c509c50ac9537440fe1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CGadN-_1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/07/timeless.jpg)
+[![An hourglass](img/75451a9ac4c50c509c50ac9537440fe1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CGadN-_1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/07/timeless.jpg)
 
 这个社交网络只允许每个用户每年发布一次帖子。最好让它变好！
 
 ### 备注日志
 
-[![A clock, pen, planner, and smartphone on a white desk](../Images/49cce391edcebc30892e8f32babe5bdc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BkuLwRfk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/07/notes-log.jpg)
+[![A clock, pen, planner, and smartphone on a white desk](img/49cce391edcebc30892e8f32babe5bdc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BkuLwRfk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/07/notes-log.jpg)
 
 一个笔记应用程序，每个笔记有多个条目。当用户启动应用程序时，他们选择一个笔记。这将为该便笺添加一个新条目，自动标记当前日期、时间和位置。可以根据此元数据对条目进行排序和过滤。伟大的解决混乱的问题和跟踪你做了什么。
 
 ### 退出策略
 
-[![An exit door](../Images/65cb5be7b7945e07e5b2215429b37239.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Uwn0ZF6j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/07/exit-strategy.jpg)
+[![An exit door](img/65cb5be7b7945e07e5b2215429b37239.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Uwn0ZF6j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/07/exit-strategy.jpg)
 
 在退出意图时弹出一个模式的小部件或插件。(你可能以前见过这些。当你正要关闭一个页面的时候，一个模态弹出来给你一个“最终报价”来阻止你离开。)奇怪的是，模态的内容可以根据用户在页面上停留的时间来定制。
 
 ### 孤立无援
 
-[![Person standing on a rock protruding from a cliff](../Images/4ccb8de41554d0c2c216cd7f0931d5a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hmAuWD3v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/07/out-on-a-limb.jpg)
+[![Person standing on a rock protruding from a cliff](img/4ccb8de41554d0c2c216cd7f0931d5a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hmAuWD3v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/07/out-on-a-limb.jpg)
 
 一款面向创业者的日常“锻炼”app。这不是一项体育锻炼，而是让用户每天通过一项活动走出他们的舒适区。这有助于培养企业家所需的冒险精神，并消除他们对被拒绝的恐惧。
 

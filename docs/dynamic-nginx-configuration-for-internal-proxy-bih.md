@@ -6,7 +6,7 @@
 
 设计很简单，有一个单独的域，带有一个通配符掩码，可以解析到网络中的各个主机。然后，我想从外部确保 https 无处不在，因此利用[区块链调试器指南](https://levelup.gitconnected.com/how-to-get-certbot-wildcard-certificates-3d25618a81e0)，我在 edge 设置了一个通配符证书，然后允许我的网络内部的非认证流量。
 
-[![Concept Design](../Images/c57f69a556a3e3e35c67a475d9317d4c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nMhb7LvL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.lucidchart.com/publicSegments/view/b1562db2-2055-4746-808b-a0ff0dc63e1e/image.png)
+[![Concept Design](img/c57f69a556a3e3e35c67a475d9317d4c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nMhb7LvL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.lucidchart.com/publicSegments/view/b1562db2-2055-4746-808b-a0ff0dc63e1e/image.png)
 
 然后，我利用 Puppet 作为配置管理工具来部署和确保 nginx 服务持续运行。这也给了我模板化的配置能力。nginx config 用 erb 编写，是一个带有变量输入的标准文本文件，但关键组件是 proxy_pass 语句:
 

@@ -16,7 +16,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 但是根据 [Laravel 的服务器要求](https://laravel.com/docs/5.6#installation)
 
-[![](../Images/3f3656a15168ca934047cca9dfb02f77.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--39Y8Faxh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/l62Xz9e.png)
+[![](img/3f3656a15168ca934047cca9dfb02f77.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--39Y8Faxh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/l62Xz9e.png)
 
 我们需要 PHP 版本`7.1.3`或更高版本。我说我们不妨去找最新的版本，PHP `7.2.*`对吗？这里有一个快速简单的[指南](https://jakelprice.com/article/php-70-to-php-72-how-to-upgrade-your-server)在你的 DO 服务器上安装 PHP `7.2`。
 
@@ -83,7 +83,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在我们配置 Nginx 的部分，有一个偷偷摸摸的打字错误，如果不被注意到，它会打乱你的一天(至少我是这样的):
 
-[![](../Images/6836ee44b0b8b47b0ecae39ef5a5867f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ECoFMmzn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/b5CR7Jy.png)
+[![](img/6836ee44b0b8b47b0ecae39ef5a5867f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ECoFMmzn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/b5CR7Jy.png)
 
 看到了吗？您应该打开`/etc/nginx/sites-avaiable/example.com`而不是打开`/etc/nginx/sites-enabled/example.com`，因为这是我们复制的新服务器块。小心这个！
 

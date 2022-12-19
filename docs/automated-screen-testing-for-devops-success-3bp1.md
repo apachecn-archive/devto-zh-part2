@@ -4,7 +4,7 @@
 
 # 为 DevOps 成功
 
-| 2018 年第三期 | [![](../Images/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://bit.ly/2zTIWaf) |
+| 2018 年第三期 | [![](img/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://bit.ly/2zTIWaf) |
 | --- | --- |
 
 我的同事 Zvonimir Ivanetic 最近在 2018 年第 1 期 TECHniques:[DevOps for the Mainframe](http://techcommunity.softwareag.com/web/guest/techniques-blog/-/blogs/devops-for-the-mainframe)和 2018 年第 1 期 Enterprise Tech Journal 文章:[Win-Win:Mainframe and devo PS(http://ourdigitalmags.com/publication/?i=484809)](http://ourdigitalmags.com/publication/?i=484809)中指出，“devo PS 的成功需要持续的测试。面对以惊人的速度交付的日益复杂的应用程序，软件测试人员有可能成为决定开发运维计划成败的瓶颈。要实施完整的开发运维，测试流程必须实现自动化，并转变为持续进行。”
@@ -52,7 +52,7 @@ Screen Tester 通过将输入数据输入业务对象来模拟业务用户，然
 
 对于手动测试，我们没有能力重新运行过去完成的所有测试。这就是自动化价值发挥的地方。如果我可以证明之前(手动)完成的所有测试仍然在工作，那么我就可以证明应用程序在最近一次更改后仍然处于稳定状态。通过自动化，您可以简单地重用过去创建的测试，并重新运行接近总代码覆盖率的测试。
 
-[![](../Images/ec3d744a1fccee41941d4805519df558.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--X-_B2CRr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/DEVOPS1.jpg/073c7a49-2e8c-4b17-9403-2616027d0e66%3Ft%3D1531381203653) 
+[![](img/ec3d744a1fccee41941d4805519df558.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--X-_B2CRr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/DEVOPS1.jpg/073c7a49-2e8c-4b17-9403-2616027d0e66%3Ft%3D1531381203653) 
 
 **图 1:** 比较结果
 
@@ -72,7 +72,7 @@ Screen Tester 通过将输入数据输入业务对象来模拟业务用户，然
 
 在测试工具中启动您的终端会话。使用直接 TCP/IP 连接连接到主机应用程序。在 Screen Tester 的例子中，工作环境应该看起来非常熟悉，因为它是基于 Eclipse 的。
 
-[![](../Images/4f810d948373a0cd3ba80029531c9a08.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DKnAClg5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/DEVOPS2.jpg/ae179b23-902c-4c70-b177-1ef866ef7f06%3Ft%3D1531381207222) 
+[![](img/4f810d948373a0cd3ba80029531c9a08.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DKnAClg5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/DEVOPS2.jpg/ae179b23-902c-4c70-b177-1ef866ef7f06%3Ft%3D1531381207222) 
 
 **图 2:** 启动一个终端会话，记录屏幕流程。
 
@@ -84,7 +84,7 @@ Screen Tester 通过将输入数据输入业务对象来模拟业务用户，然
 
 试用 Software AG 的 Natural Screen Tester，以弥合敏捷开发、持续集成&对基于屏幕的业务功能进行手工测试导致的代码持续交付之间的差距。Screen Tester 自动化测试，通过向业务功能提供输入数据，然后检查结果，允许通过屏幕界面测试新的业务功能。要评估 Screen Tester，只需向您的 Software AG 代表索要测试合同。Screen Tester 可以与 Software AG Installer(Empower 中提供)一起安装。安装时包括快速入门和自学的培训视频。成为高级用户的在线培训课程可于 2018 年 10 月预订。
 
-[![](../Images/f5d8c5cc8357bbf120a11cb7cc71619f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--psMKK_NI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/DEVOPS3.jpg/f6450327-0bb6-4c9c-a1dc-be731254de4b%3Ft%3D1531381211020) 
+[![](img/f5d8c5cc8357bbf120a11cb7cc71619f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--psMKK_NI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/DEVOPS3.jpg/f6450327-0bb6-4c9c-a1dc-be731254de4b%3Ft%3D1531381211020) 
 
 **图 3:** 输入您想要用作输入的数据
 
@@ -92,7 +92,7 @@ Screen Tester 通过将输入数据输入业务对象来模拟业务用户，然
 
 确定您想要用作“输入”的数据，在您的测试用例中可以是动态的。Screen Tester 将让您轻松地从应用程序中已标记的潜在字段的建议列表中选择要用作“输入”的字段。
 
-[![](../Images/96e37d3028a084ec89884fe62e262bf9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0VlEv_Y3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/DEVOPS4.jpg/33cbfb3b-d8da-49c3-b401-07477ec48192%3Ft%3D1531381214661) 
+[![](img/96e37d3028a084ec89884fe62e262bf9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0VlEv_Y3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/DEVOPS4.jpg/33cbfb3b-d8da-49c3-b401-07477ec48192%3Ft%3D1531381214661) 
 
 **图 4:** 从建议列表中选择 _ *文件*_ 作为“断言”。
 
@@ -100,7 +100,7 @@ Screen Tester 通过将输入数据输入业务对象来模拟业务用户，然
 
 确定您想要用作“断言”的数据从应用程序中已经标记的潜在字段的建议列表中，轻松选择要用作“断言”的字段。
 
-[![](../Images/84331cf0a5faa97cfbaa3205d46ee77d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_qNIbjuE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/DEVOPS5.jpg/c32174c1-3d2e-41c4-8f32-fec6e35ebdd0%3Ft%3D1531381218144) 
+[![](img/84331cf0a5faa97cfbaa3205d46ee77d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_qNIbjuE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/DEVOPS5.jpg/c32174c1-3d2e-41c4-8f32-fec6e35ebdd0%3Ft%3D1531381218144) 
 
 **图 5:** 比较结果。
 

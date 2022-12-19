@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/brushyourideas/magento-product-designer-changing-the-online-retail-scenario-2l8m>
 
-[![](../Images/46f87a0b3ab14007f04b8ddbb8396547.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Lq6CVWzQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.brushyourideas.com/wp-content/uploads/2018/08/Magento-Product-Designer-Changing-the-Online-Retail-Scenario.png)
+[![](img/46f87a0b3ab14007f04b8ddbb8396547.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Lq6CVWzQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.brushyourideas.com/wp-content/uploads/2018/08/Magento-Product-Designer-Changing-the-Online-Retail-Scenario.png)
 
 几年前，电子零售是一个玩家很少的游戏。现在，它是一个巨大的游乐场，亚马逊、易贝和沃尔玛等巨头相互竞争。在这么大的操场上，你可能只是一个小点。为了让人们感受到你的存在，你不能只是打开一个电子商务网站，然后等着人们蜂拥而至。你必须让你的电子商店具有互动性。创建一个真正的市场。
 

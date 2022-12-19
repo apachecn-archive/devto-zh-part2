@@ -4,7 +4,7 @@
 
 两天前，我在推特上表达了我的沮丧:
 
-[![Tweet reads "What is CORS? CORS is added to browsers by the devil to make developers cry. Thank you for coming to my TED talk.](../Images/6edfd9b1dcc85a9e67dce775dab2eed3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sNkTmu7I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zk5es2z38nvlu1smo4ej.png)
+[![Tweet reads "What is CORS? CORS is added to browsers by the devil to make developers cry. Thank you for coming to my TED talk.](img/6edfd9b1dcc85a9e67dce775dab2eed3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sNkTmu7I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zk5es2z38nvlu1smo4ej.png)
 
 我花了一个小时来诊断一个小小的浏览器错误，这个错误破坏了整个项目:“CORS 错误，访问控制不错的尝试，你不能这样做，哈哈”(我在转述)。
 

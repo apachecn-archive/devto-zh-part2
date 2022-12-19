@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/harniloza/basic-guide-to-create-an-mobile-app-marketing-strategy-493j>
 
-[![app developers](../Images/f78b20f0486f821eb4c108a1df7f9d4e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dyojnQMg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AzMM8mgTbkQPKzyEIEQPdPA.png)
+[![app developers](img/f78b20f0486f821eb4c108a1df7f9d4e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dyojnQMg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AzMM8mgTbkQPKzyEIEQPdPA.png)
 
 2018 年是应用爆发的一年。随着谷歌在其搜索结果中考虑来自移动应用的信息，越来越多的品牌也加入了创建自己的应用的行列。为了让你的品牌从这一趋势中受益，你不仅需要创造最好的应用程序，你还必须知道如何吸引和保持你的应用程序的潜在受众的注意力，使他们成为忠实用户。尽管如此，今天这篇文章旨在与你分享创建应用营销策略的基本指南。
 

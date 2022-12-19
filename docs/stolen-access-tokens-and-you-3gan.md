@@ -49,4 +49,4 @@
 
 为了保护我们自己、我们的系统和我们的客户，我们需要做最坏的打算，抱最好的希望。
 
-[![looking good](../Images/75f899a8cfbb1c07863ba3771c1e1e43.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bbp-8Mgy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/stolen-access-tokens/looking-good-2683fc93242433d02f08880e1aa06995eb46f862a24015afd4956ec08adeb436.jpg)
+[![looking good](img/75f899a8cfbb1c07863ba3771c1e1e43.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bbp-8Mgy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/stolen-access-tokens/looking-good-2683fc93242433d02f08880e1aa06995eb46f862a24015afd4956ec08adeb436.jpg)

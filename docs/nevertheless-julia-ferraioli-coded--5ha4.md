@@ -10,7 +10,7 @@
 
 当我到达布林莫尔学院时，我仍然下定决心追求一条不同的道路，但为了好玩，我上了更多的计算机科学课。还有更多。还有更多。我玩图形，我引起内核恐慌，我建造机器人并让它们四处缩放，我用机器学习做了一些有趣的事情。
 
-[![julia ferraioli standing at a table with an iron](../Images/f0f7bb17ac7204daf21ea29aefd4b18a.png "Ironing Mylar for our robotic blimp")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_bOipUKd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mmfss5l07b8w8e9sdssv.jpg)
+[![julia ferraioli standing at a table with an iron](img/f0f7bb17ac7204daf21ea29aefd4b18a.png "Ironing Mylar for our robotic blimp")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_bOipUKd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mmfss5l07b8w8e9sdssv.jpg)
 
 在我知道之前，这就是我的路。
 
@@ -44,7 +44,7 @@
 
 好吧，所以我仍然荒谬地为我用 Google CloudML 做的[小演示](https://imgur.com/a/T1QNL)感到骄傲，“我能抱抱它吗？”。(你可以在这里看到它的视频[。)](https://youtu.be/Ja2hxBAwG_0?t=8m57s)
 
-[![a screenshot of a stuffed octopus which shows that has a .696 huggability rating](../Images/c0fe03e49896e805ff587fd4cf1a6215.png "This octopus is likely huggable")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NPrWiFu---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x3l7zvphjee0lq90wprm.png)
+[![a screenshot of a stuffed octopus which shows that has a .696 huggability rating](img/c0fe03e49896e805ff587fd4cf1a6215.png "This octopus is likely huggable")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NPrWiFu---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x3l7zvphjee0lq90wprm.png)
 
 从技术角度来看，这并不难做到。所以我不是在吹嘘它的工程方面(我真的不应该；服务器代码有点乱)。但我确实想吹嘘一下这个概念，因为目标是挑选一个我们无法使用预训练模型来解决的问题，弄清楚为什么定制模型将是正确的方法，并使它在没有机器学习背景的情况下可以理解和平易近人。
 

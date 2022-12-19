@@ -4,7 +4,7 @@
 
 使用电脑是颈部和背部疼痛的首要原因。尝试这些基本的调整来改善你在办公室的姿势，并停止脖子和背部疼痛。
 
-[![](../Images/0c2aedf773a87b68cab415468c5892c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZXPFYzSc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s5oe7ronlb6u55f03k8l.jpg)
+[![](img/0c2aedf773a87b68cab415468c5892c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZXPFYzSc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s5oe7ronlb6u55f03k8l.jpg)
 
 **抬起头来**
 

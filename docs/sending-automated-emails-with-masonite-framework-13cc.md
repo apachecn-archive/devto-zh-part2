@@ -113,7 +113,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们 Masonite 获取并运行您的任务！
 
-[![Alt Text](../Images/493dcc79a63bd437a3875580d3dd5d4e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LPIcPsMV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wxs20gtlvzsz0cidi2xo.gif)
+[![Alt Text](img/493dcc79a63bd437a3875580d3dd5d4e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LPIcPsMV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wxs20gtlvzsz0cidi2xo.gif)
 
 让我们输入正确的参数，告诉任务应该在什么时候运行(记得每周一封邮件)。
 

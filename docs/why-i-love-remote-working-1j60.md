@@ -47,7 +47,7 @@
 
 这些年来，我与多位不同的经理就此进行过几次交谈。虽然他们同意需要安静的空间，但他们根本没有能力改变事情。
 
-[![A peaceful cabin in the woods along a lake shoreline](../Images/34d22c3c45461a0ad9dbce72a44c6846.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YATvx6M_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kevinlamping.com/content/images/2018/05/eberhard-grossgasteiger-412131-unsplash.jpg)
+[![A peaceful cabin in the woods along a lake shoreline](img/34d22c3c45461a0ad9dbce72a44c6846.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YATvx6M_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kevinlamping.com/conteimg/2018/05/eberhard-grossgasteiger-412131-unsplash.jpg)
 
 关于办公室布局的决定主要是基于感觉和成本节约。开发商的私人办公室似乎是浪费金钱。办公空间并不便宜，所以从预算的角度来看，它看起来并不合理。这忽略了私人办公室空间的好处:员工的快乐和生产力的提高，这两者都提高了私人办公室的投资回报率。
 

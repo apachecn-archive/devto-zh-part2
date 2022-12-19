@@ -68,7 +68,7 @@ Azure 存储提供两种存储类型。
 详情见[此处](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction)。我只是在这里分享结构概念。
 
 Blob 服务具有以下结构。
-[![concept](../Images/5df16587e266dc4a7f9ebda9adb4d7a5.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s---WVkkoNG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://docs.microsoft.com/en-us/azure/storage/blobs/media/storage-blobs-introduction/blob1.png)
+[![concept](img/5df16587e266dc4a7f9ebda9adb4d7a5.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s---WVkkoNG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://docs.microsoft.com/en-us/azure/storage/blobs/media/storage-blobs-introduction/blob1.png)
 
 *   帐户:上面解释的存储帐户。
 *   容器:作为分组或类似的文件夹。
@@ -79,7 +79,7 @@ Blob 服务具有以下结构。
 好了，说够了！！让我们写代码，因为这是我感兴趣的。
 
 1.首先，我创建存储帐户。有几种方法可以创建它，但是我在 portal 中使用 CLI。进入 [Azure 门户](https://portal.azure.com)，选择“云壳”。
-T3![portal](../Images/4211e82931082a772333bb5dcb5741d8.png)T5】
+T3![portal](img/4211e82931082a772333bb5dcb5741d8.png)T5】
 
 2.运行代码来创建帐户。我在美国东部调配我的帐户，使用地理冗余，普通存储作为热层，仅支持 https 访问。第二个命令显示我在应用程序中使用的连接字符串。
 
@@ -99,13 +99,13 @@ az storage container create --name images --public-access blob --account-name cl
 Enter fullscreen mode Exit fullscreen mode
 
 4.blob 存储就绪后，打开 Visual Studio 并创建新项目。选择“ASP。NET 核心 Web 应用程序”并创建它。
-[![code](../Images/4d70a3433beb334686830df748fe2651.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--VDKh95RY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gx6qz5gs705tig6ntqxc.PNG)
+[![code](img/4d70a3433beb334686830df748fe2651.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--VDKh95RY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gx6qz5gs705tig6ntqxc.PNG)
 
 5.选择“Web API”并单击确定。
-[![code](../Images/5821566eb997b9130d401ace6f9158d3.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--JK14pkXN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hs7f1sokt46yoxoqnrvq.PNG)
+[![code](img/5821566eb997b9130d401ace6f9158d3.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--JK14pkXN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hs7f1sokt46yoxoqnrvq.PNG)
 
 6.加上“WindowsAzure。存储“NuGet 包。
-[![code](../Images/9f2f2ab059211e2380eb624db5bac445.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--FeWjYTh9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/97mvr09xuqsypg4vxn56.PNG)
+[![code](img/9f2f2ab059211e2380eb624db5bac445.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--FeWjYTh9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/97mvr09xuqsypg4vxn56.PNG)
 
 7.将现有的“ValueController.cs”重命名为“StorageController.cs”，然后粘贴代码。在第 20 行替换存储键。
 
@@ -192,16 +192,16 @@ Enter fullscreen mode Exit fullscreen mode
 1.按 F5 调试应用程序。检查地址和端口。
 
 2.打开 [Postman](https://www.getpostman.com/) 选择“POST”作为动词，输入端点地址，然后点击“Body”。
-T3![test](../Images/ca5cedcb10993adac23de62c1b7d56ba.png)T5】
+T3![test](img/ca5cedcb10993adac23de62c1b7d56ba.png)T5】
 
 3.从下拉键中选择“文件”。
-[![test](../Images/8ed9bf9c49e519598daf45d80a4dafc1.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--TM1tmQYk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/apkmtwbv6sownxrd20pf.PNG)
+[![test](img/8ed9bf9c49e519598daf45d80a4dafc1.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--TM1tmQYk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/apkmtwbv6sownxrd20pf.PNG)
 
 4.输入“文件”键，从本地电脑中选择任何图像文件，然后点击“发送”。我选择了“apple-touch-icon.png”。
-[![test](../Images/1db1d81697cff376ddc3d5ac6bbf4f4a.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--AdQjPzfY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qnnvallbjcby88tn4nef.PNG)
+[![test](img/1db1d81697cff376ddc3d5ac6bbf4f4a.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--AdQjPzfY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qnnvallbjcby88tn4nef.PNG)
 
 5.将动词从“POST”改为“GET”，然后在地址前加上“/”。
-[![test](../Images/3ed40eafe0fe7b1dd1c26fdc419fa4fb.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--GKiOTt-o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u5aqmge0pgczjtbtpux9.PNG)
+[![test](img/3ed40eafe0fe7b1dd1c26fdc419fa4fb.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--GKiOTt-o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u5aqmge0pgczjtbtpux9.PNG)
 
 6.转到 Azure Portal Cloud shell 并运行命令以确认存在 blob 文件。
 
@@ -216,7 +216,7 @@ Enter fullscreen mode Exit fullscreen mode
 https://. blob . core . windows . net//
 
 8.在 Postman 中，将动词改为“删除”并点击发送。
-[![test](../Images/1440b541b59a3ebb0bab2c619603eb6c.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--6Fa9t4Dt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i9g9q7zv4zozxbpmpjzq.PNG)
+[![test](img/1440b541b59a3ebb0bab2c619603eb6c.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--6Fa9t4Dt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i9g9q7zv4zozxbpmpjzq.PNG)
 
 # 部署到各个平台
 
@@ -225,12 +225,12 @@ https://. blob . core . windows . net//
 ## Azure Web Apps
 
 是的，它像预期的那样工作。这里没什么可写的。但是我用的是 Windows 版本。
-[![azure](../Images/468750429f07e032a7b2a2b1bf99215b.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--O4-Zv3o_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y2yqldn5hrb2ihnu639e.PNG)
+[![azure](img/468750429f07e032a7b2a2b1bf99215b.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--O4-Zv3o_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y2yqldn5hrb2ihnu639e.PNG)
 
 ## GCP App 引擎
 
 这也是预期的效果。虽然存储仍然在 Azure 上，但 web api 住在 GCP :)
-[![gcp](../Images/3e6825778b996ab14b0db389233bd6ca.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RIsUewdc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e5dbbiuvezumnwcckbqs.PNG)
+[![gcp](img/3e6825778b996ab14b0db389233bd6ca.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RIsUewdc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e5dbbiuvezumnwcckbqs.PNG)
 
 # 总结
 

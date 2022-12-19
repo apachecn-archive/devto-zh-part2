@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/chiangs/how-im-starting-my-own-angular-component-library-part-1---generic-button-3f3m>
 
-[![easy button image](../Images/68522307590dc8ab1cc0a82bee8ebf2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JTnwgFDY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h0phh33az9sowfagiamr.jpg)
+[![easy button image](img/68522307590dc8ab1cc0a82bee8ebf2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JTnwgFDY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h0phh33az9sowfagiamr.jpg)
 
 ### [T1】简介](#intro)
 

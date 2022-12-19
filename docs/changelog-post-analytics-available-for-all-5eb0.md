@@ -4,7 +4,7 @@
 
 就在昨天，我发了这个帖子:
 
-[![The DEV Team](../Images/6b3a9c79aeecf790d5144f3fe1881f50.png)![](../Images/fe64a787b888dfb20fc13ad1e466da3d.png)](/devteam) [## 分析将很快全面推出
+[![The DEV Team](img/6b3a9c79aeecf790d5144f3fe1881f50.png)![](img/fe64a787b888dfb20fc13ad1e466da3d.png)](/devteam) [## 分析将很快全面推出
 
 ### 开发团队的 Ben Hal pern 11 月 13 日 181 分钟阅读
 

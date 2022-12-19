@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/dailydotdev/most-popular-development-posts-of-the-week-05-september-2018-3o>
 
-<figure>[![](../Images/6774d48463a54eef4bb3b8d4c55aba32.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hlYFTHTS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A7lAKzz1f368KRdhfQgNKYw.jpeg) 
+<figure>[![](img/6774d48463a54eef4bb3b8d4c55aba32.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hlYFTHTS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A7lAKzz1f368KRdhfQgNKYw.jpeg) 
 
 <figcaption>仅仅因为某样东西没有按照你的计划去做，并不意味着它没有用。</figcaption>
 

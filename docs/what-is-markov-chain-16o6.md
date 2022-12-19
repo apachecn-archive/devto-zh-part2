@@ -104,7 +104,7 @@
 `1 - (1 / (1 + 2)) = 0.666666667`，而你可以猜到`"do"`是
 `1 - 0.666666667 = 0.333333333`。
 
-[![Markov chains example](../Images/ba35b8e241440fc96853e653d9ef5947.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SsMOJzoo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sookocheff.com/post/nlp/ngram-modeling-with-markov-chains/learned-probabilities.png)
+[![Markov chains example](img/ba35b8e241440fc96853e653d9ef5947.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SsMOJzoo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sookocheff.com/post/nlp/ngram-modeling-with-markov-chains/learned-probabilities.png)
 
 ## 创造句子
 

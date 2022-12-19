@@ -11,10 +11,10 @@
 我有 2 张床单。一个用于输入/生成的输出，另一个用于具有单词>等效表情符号的查找。第二张工作表是按单词排序的，因此可以实现二分搜索法搜索。
 
 第一张
-[![Sheet 1](../Images/13f2381b26faf58ac65a409df77751f5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bzEOz5dV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2h9qsy47efzode2vz8mw.jpg)
+[![Sheet 1](img/13f2381b26faf58ac65a409df77751f5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bzEOz5dV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2h9qsy47efzode2vz8mw.jpg)
 
 第二张
-[![Sheet 2](../Images/ea9e0766b6681e127ce87c2ce5c62731.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Bsrl-LU---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gbhpg0johdbbbqwfksl8.jpg)
+[![Sheet 2](img/ea9e0766b6681e127ce87c2ce5c62731.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Bsrl-LU---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gbhpg0johdbbbqwfksl8.jpg)
 
 第二步:代码
 
@@ -23,16 +23,16 @@
 convertTexttoEmoji():这是分析输入文本并输出转换后的表情文本的主函数。getEmoji():这个函数由 convertTexttoEmoji()调用，负责为每个单词查找匹配的表情图标。这个函数在这个操作中使用了二分搜索法。
 
 转换文字 tomoji()
-[![convertTexttoEmoji](../Images/601218e1cfd1c28949295ae11bc3bf79.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--I1lLgZlh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lxcrsbalxg0k93hv1k3l.jpg)
+[![convertTexttoEmoji](img/601218e1cfd1c28949295ae11bc3bf79.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--I1lLgZlh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lxcrsbalxg0k93hv1k3l.jpg)
 
 getEmoji()
-[![getEmoji()](../Images/59d6c3a9dcd952d73013bd7a40d0ba53.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MkbhuGdw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/swaibhtugavjm4swphjw.jpg)
+[![getEmoji()](img/59d6c3a9dcd952d73013bd7a40d0ba53.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MkbhuGdw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/swaibhtugavjm4swphjw.jpg)
 
 第三步:结果
 
-[![Output 1](../Images/30f5a744ec2165d3642b69bb141a71b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qd7LDQzB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sdzkjffh75v8p2fv25cc.jpg)
+[![Output 1](img/30f5a744ec2165d3642b69bb141a71b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qd7LDQzB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sdzkjffh75v8p2fv25cc.jpg)
 
-[![Output 2](../Images/0b1fb60f81db2a13cde627e840b9411e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Lc9aVYsT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kam3gvrkrhl4wuxbvkgw.jpg)
+[![Output 2](img/0b1fb60f81db2a13cde627e840b9411e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Lc9aVYsT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kam3gvrkrhl4wuxbvkgw.jpg)
 
 结论:
 

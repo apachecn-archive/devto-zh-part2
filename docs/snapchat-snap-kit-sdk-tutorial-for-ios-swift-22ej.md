@@ -23,13 +23,13 @@
 ## 第二步
 
 注意/复制**开发应用信息> OAUTH2 客户端 ID**
-[![dev portal oath client id](../Images/26550179470f0c09a0d62b13e8563b61.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tgWyT6FZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1100/1%2AUSph3YYDV7RqI0StptCrsw.png) 中的值
+[![dev portal oath client id](img/26550179470f0c09a0d62b13e8563b61.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tgWyT6FZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1100/1%2AUSph3YYDV7RqI0StptCrsw.png) 中的值
 
 ## 第三步
 
 在开发者门户中，添加应用的 iOS 捆绑包 ID(请参见[查找应用的包名](https://help.tune.com/marketing-console/finding-your-apps-package-name/)以获取帮助)
 
-[![location in dev portal for bundle id](../Images/686c98e03641d58e8601400072809bcb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aF4_VJ0g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1100/1%2ATFQRfYHX8NzEEvxVnnCWwA.png)
+[![location in dev portal for bundle id](img/686c98e03641d58e8601400072809bcb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aF4_VJ0g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1100/1%2ATFQRfYHX8NzEEvxVnnCWwA.png)
 
 ## 第四步
 

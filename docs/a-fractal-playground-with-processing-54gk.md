@@ -4,26 +4,26 @@
 
 Sooo [处理](https://processing.org/)相当酷。当[丹尼尔·希夫曼](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)在我的 YouTube feed 上被推荐时，我第一次遇到了它，从那以后，我从它身上获得了很多乐趣。简而言之:这是一个 Java sketchbook，允许任何人在 2D / 3D 空间中创建交互式和可视化的草图。它超级强大，而且超级容易上手。
 
-[![](../Images/ae6df4c8afd44c209b8274672d929e41.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B1-gS7ck--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yxnirigrlwwve6xz2j71.png)
+[![](img/ae6df4c8afd44c209b8274672d929e41.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B1-gS7ck--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yxnirigrlwwve6xz2j71.png)
 
 上面是一个只用几行代码创建的基本绘图程序。处理还有很多可以提供的，但是在这篇文章中，我将带你从简单的形状中制作分形。
 
 但是在我们开始疯狂地搜索 StackOverflow 寻找 Java 编译器错误之前，让我们先来谈谈分形是如何形成的。
 
-[![](../Images/165879169a4b633bdc8269c95c99ae7d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FbppVbYX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fvho3vpz5g3fv6fq2bwa.gif)T3】
+[![](img/165879169a4b633bdc8269c95c99ae7d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FbppVbYX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fvho3vpz5g3fv6fq2bwa.gif)T3】
 
 <center>Triangle de Sierpinski</center>
 
 分形是递归驱动的简单模式(不要惊慌)。
 考虑递归图像:
 
-[![](../Images/a4db94f9e13030515e6eff879a539c88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u9n3rEMf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wg4a9c1krq5iatf6jd7b.png)
+[![](img/a4db94f9e13030515e6eff879a539c88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u9n3rEMf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wg4a9c1krq5iatf6jd7b.png)
 
 花一点时间想想你可以实现这样的东西的方法。什么决定了序列中的下一步？怎样才能保证方块不重叠？
 
 一旦你想好怎么做，就扔掉它，因为除非你说“每一步都移动原点”，否则这可能会是一场争论。递归函数在处理过程中的诀窍是跟踪你的原点。这是之前的同一个草图，但是在每次迭代中都有一个红色的圆圈跟随原点。
 
-[![](../Images/8e9171a9486b902657c49027f43708b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--30kyHxrl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mxv27n9ucou2dbihbplj.png)
+[![](img/8e9171a9486b902657c49027f43708b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--30kyHxrl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mxv27n9ucou2dbihbplj.png)
 
 在加工过程中，移动原点的函数是`translate(...)`，而`translate(...)`是相对于原点之前的位置移动原点的函数。例如:`translate(3, 9)`会将原点向右移动 3，向下移动 9。
 
@@ -59,7 +59,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果您尝试将 200 作为`draw()`中的参数，将会看到:
 
-[![](../Images/928ea7bbf82592c6801b4edba49acb4e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SgiwQLeN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4thq0swf5j0rurkengt2.png)
+[![](img/928ea7bbf82592c6801b4edba49acb4e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SgiwQLeN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4thq0swf5j0rurkengt2.png)
 
 除了关键成分，我们已经有了完成缩放方块所需的一切...递归！
 
@@ -78,7 +78,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们已经用递归函数实现了缩放正方形的功能。
 
-[![](../Images/4af5610cf8d228de65bc91bd81f7bd81.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4ufY_DJz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pfbdd0t1kem12j6bbhlj.png)
+[![](img/4af5610cf8d228de65bc91bd81f7bd81.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4ufY_DJz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pfbdd0t1kem12j6bbhlj.png)
 
 需要注意的一件重要事情是在`scalingSquares(...)`中传递给`scalingSquares(...)`的值。它是原始参数乘以 0.75，以减少进入递归函数的比例因子，直到它小于 30 像素。
 
@@ -135,7 +135,7 @@ void draw_fractal(float r) {
 Enter fullscreen mode Exit fullscreen mode
 
 这段递归代码有如下输出:
-[![](../Images/8a884b243ff2d9182e0e67211774ce23.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bmA0PxTV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qk29xr7tur3nkvvm5kjq.png)
+[![](img/8a884b243ff2d9182e0e67211774ce23.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bmA0PxTV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qk29xr7tur3nkvvm5kjq.png)
 
 红色:顶圈
 蓝色:底圈
@@ -143,7 +143,7 @@ Enter fullscreen mode Exit fullscreen mode
 黑色:左圈
 
 带原点标记:
-[![](../Images/0d2d85c9f763e16e4de9b4a6eeec69fe.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gcq_3t_6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qlx426zgak3gs4zvo8kl.png)
+[![](img/0d2d85c9f763e16e4de9b4a6eeec69fe.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gcq_3t_6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qlx426zgak3gs4zvo8kl.png)
 
 ## 结论
 

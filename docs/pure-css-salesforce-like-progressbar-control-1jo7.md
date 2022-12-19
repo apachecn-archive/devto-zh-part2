@@ -48,7 +48,7 @@ Enter fullscreen mode Exit fullscreen mode
 ## 绘图和箭头
 
 每个物品盒都装饰有一个箭头。
-[![arrow](../Images/ad9dd79b1dae4ba1498fb2d59d93ec6b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1BqmnACM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.codeproject.com/KB/HTML/1194241/arrow1.png) 
+[![arrow](img/ad9dd79b1dae4ba1498fb2d59d93ec6b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1BqmnACM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.codeproject.com/KB/HTML/1194241/arrow1.png) 
 画箭头背后的思想是零宽零高的方框，这个边框本身就作为箭头。箭头的大小由边框的大小决定。例如，如果你想创建一个指向右边的箭头，你可以用一些颜色填充左边的边框，其他的边框保持透明。
 
 ```
@@ -109,7 +109,7 @@ Enter fullscreen mode Exit fullscreen mode
 Enter fullscreen mode Exit fullscreen mode
 
 那么，我们如何显示移动到下一个项目的意图，并因此将这个项目和之前的项目标记为通过？这个想法是用较浅的@active-color 阴影来标记之前或悬停的所有未通过的项目。
-[![hover control forward](../Images/79bc51e0f03e46128becf245d5daa7f6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ACAiAcP5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.codeproject.com/KB/HTML/1194241/hover1.png) 
+[![hover control forward](img/79bc51e0f03e46128becf245d5daa7f6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ACAiAcP5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.codeproject.com/KB/HTML/1194241/hover1.png) 
 在 CSS 中，我们不能只选择之前悬停的所有项目，我们分两步实现我们的目标:
 
 1.  用较浅的@active-color 阴影标记我们的控件包装的所有未通过的子级:
@@ -145,7 +145,7 @@ Enter fullscreen mode Exit fullscreen mode
 ## 悬停物品后退
 
 考虑一个类似的逻辑，将已经传递的项指向后面返回。
-[![hovering control backward](../Images/3d32a434eb411e38c2a870bc05e512a9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ogaDyGtb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.codeproject.com/KB/HTML/1194241/hover2.png) 
+[![hovering control backward](img/3d32a434eb411e38c2a870bc05e512a9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ogaDyGtb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.codeproject.com/KB/HTML/1194241/hover2.png) 
 为了实现我们的目标，我们只需用强调色标记所有悬停后的项目:
 
 ```

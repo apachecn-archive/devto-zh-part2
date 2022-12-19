@@ -12,7 +12,7 @@
 
 *   你现在可以为文章创建系列了！从技术上来说，我们已经支持这个功能有一段时间了，但是以前必须由管理员来设置。查看本在下面的更新日志，了解所有细节。您还可以查看相关拉式请求中的所有技术说明[。](https://github.com/thepracticaldev/dev.to/pull/1034)
 
-[![ben](../Images/fe64a787b888dfb20fc13ad1e466da3d.png)](/ben) [## Changelog:创建一系列帖子
+[![ben](img/fe64a787b888dfb20fc13ad1e466da3d.png)](/ben) [## Changelog:创建一系列帖子
 
 ### 本哈尔彭 10 月 29 日 182 分钟阅读
 

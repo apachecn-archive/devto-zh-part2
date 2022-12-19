@@ -14,7 +14,7 @@
 
 css 属性`background-attachment: fixed`由于巨大的重画成本而无法在移动设备上运行。
 
-> ![Paul Irish profile image](../Images/3100e2db4d8e7867f64775b6a51a18f0.png)保罗爱尔兰[@保罗 _ 爱尔兰](https://dev.to/paul_irish)![twitter logo](../Images/03bb33b910d947ffb5d9c56b0a509ab2.png)[@ PPK](https://twitter.com/ppk)[@ bever loo](https://twitter.com/beverloo)固定背景有*巨大*重画成本和抽取滚动性能，我相信这就是它被禁用的原因。2013 年 2 月 27 日下午 17:30[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=306818591196602368)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=306818591196602368)10[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=306818591196602368)17
+> ![Paul Irish profile image](img/3100e2db4d8e7867f64775b6a51a18f0.png)保罗爱尔兰[@保罗 _ 爱尔兰](https://dev.to/paul_irish)![twitter logo](img/03bb33b910d947ffb5d9c56b0a509ab2.png)[@ PPK](https://twitter.com/ppk)[@ bever loo](https://twitter.com/beverloo)固定背景有*巨大*重画成本和抽取滚动性能，我相信这就是它被禁用的原因。2013 年 2 月 27 日下午 17:30[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=306818591196602368)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=306818591196602368)10[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=306818591196602368)17
 
 ### 不过没事，
 
@@ -24,12 +24,12 @@ css 属性`background-attachment: fixed`由于巨大的重画成本而无法在�
 
 我有两张透明的 gif，有不同的面部表情。一旦用户滚动，gif 就会从微笑变成 meh 表情。
 
-[![meh face](../Images/7f5d5c44a782b72a67c196750e6bda93.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KvvhmEd1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m3tphrqzy5q7eao12rze.png)
-[![happy face](../Images/aeea0f890b36258a846a2c8de531038e.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--NSrntJqG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/agbu4k0lf6vm1findi7d.png)
+[![meh face](img/7f5d5c44a782b72a67c196750e6bda93.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KvvhmEd1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m3tphrqzy5q7eao12rze.png)
+[![happy face](img/aeea0f890b36258a846a2c8de531038e.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--NSrntJqG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/agbu4k0lf6vm1findi7d.png)
 
 这个想法是在两个 gif 之间添加一个白色层来隐藏基础层。
 
-[![sketch on layers](../Images/9cfcd9d79753e4b0880dd2fdcac95e58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aJiCj7eF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/st7rp67sebfeo4idtw65.jpg)
+[![sketch on layers](img/9cfcd9d79753e4b0880dd2fdcac95e58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aJiCj7eF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/st7rp67sebfeo4idtw65.jpg)
 
 [https://codepen.io/toomuchome/embed/zJrEeZ?height=600&default-tab=result&embed-version=2](https://codepen.io/toomuchome/embed/zJrEeZ?height=600&default-tab=result&embed-version=2)
 

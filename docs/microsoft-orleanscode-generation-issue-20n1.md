@@ -14,11 +14,11 @@
 
 当问题不存在时(如在[提交](https://github.com/kritner-blogs/OrleansGettingStarted/commits/2ebd478cba2f5a6a6c679b8b6e6c56caf5518f11)中)，运行应用程序看起来像:
 
-[![](../Images/9d67e3422b4a3e5a1c8c11052bce2d08.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5nmM0f74--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ATLWQpPccjkhIX_kZ.png)
+[![](img/9d67e3422b4a3e5a1c8c11052bce2d08.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5nmM0f74--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ATLWQpPccjkhIX_kZ.png)
 
 当它存在时，(像在[提交](https://github.com/kritner-blogs/OrleansGettingStarted/commits/fe51806c602273afcd29ae3b126e9b964ad21659)中一样)，它看起来像:
 
-[![](../Images/37c6e0996ab9aca08926113168a30f0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t4i0lsmd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AOtkzzvNwD8ywyiVw.png)
+[![](img/37c6e0996ab9aca08926113168a30f0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t4i0lsmd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AOtkzzvNwD8ywyiVw.png)
 
 我已经打开了一个 [GitHub 问题](https://github.com/dotnet/orleans/issues/5154)，试图澄清我所经历的事情；但在此期间，有一个变通办法。
 

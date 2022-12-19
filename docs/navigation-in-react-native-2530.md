@@ -4,7 +4,7 @@
 
 在创建 React 原生应用程序时，屏幕之间的导航可能是您最先关注的问题之一。一旦你开始，你可能会惊讶，没有内置的，功能齐全的导航，将在两个平台上工作。虽然 [React Native 推荐](https://facebook.github.io/react-native/docs/navigation.html)使用 [React 导航](https://reactnavigation.org)，但是你会很快发现这个库完全基于 JavaScript，它并没有直接使用 iOS 和 Android 上的原生导航 API。正如[另一个库所说的](https://github.com/wix/react-native-navigation#quick-links)，如果你试图交付一个与最好的本地应用不相上下的用户体验，你就不能在基于 JS 的组件上妥协，试图伪造真实的东西。
 
-[![image](../Images/263a434ddb9f90797d26b07c8bf5c933.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G0RD_fU5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a307onm7jm7p6d351qry.jpeg)
+[![image](img/263a434ddb9f90797d26b07c8bf5c933.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G0RD_fU5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a307onm7jm7p6d351qry.jpeg)
 
 ## 反应导航
 
@@ -59,7 +59,7 @@ React Native Navigation 有几个问题在其当前架构中无法解决。它�
 
 ## 替代品
 
-[![image](../Images/29b5350ba7b2b61ade3d5a3b124d9df5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZtDCJz-D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yqu0rtob4n1wr9b0rrbg.jpeg)
+[![image](img/29b5350ba7b2b61ade3d5a3b124d9df5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZtDCJz-D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yqu0rtob4n1wr9b0rrbg.jpeg)
 
 如果你的目标只是 iOS，你可以考虑使用内置的 [NavigatorIOS](https://facebook.github.io/react-native/docs/navigation.html#navigatorios) ，它是原生 [`UINavigationController`](https://developer.apple.com/documentation/uikit/uinavigationcontroller) 组件的包装器。但是，如果您计划在将来使用任何其他平台，您应该从一开始就考虑使用任何其他解决方案。
 

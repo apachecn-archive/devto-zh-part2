@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bearguy/how-to-be-a-blockchain-dev-in-2018-pbc>
 
-[![DISTRIBUTED NETWORKS](../Images/ec8533ac5c7940d7f9f2c72c0d601054.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1hHFQ9WT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AYtCKY2hzpJdmF4EmWRIJCA.png)
+[![DISTRIBUTED NETWORKS](img/ec8533ac5c7940d7f9f2c72c0d601054.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1hHFQ9WT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AYtCKY2hzpJdmF4EmWRIJCA.png)
 
 我确信你在过去的几个月里已经接触到了炒作；这几乎是不可避免的。加密、区块链、去中心化、令牌化、智能合约、分布式分类账；也许你知道其中一些单词的意思，而其他的对你来说毫无意义。网上发布的几篇文章称，这些技术正在改变我们所知的世界。“Web 2.0 王朝正在衰落；Web 3.0 时代已经来临。”有人告诉你，你最好为即将到来的事情做好准备；毕竟，每个人都知道这是扰乱，或被扰乱。
 
@@ -52,7 +52,7 @@
 
 另外，需要注意的是，这只是为了进入对话。为了让它继续下去，你应该在 crypto Twitter，Reddit，Telegram(🔌像[斋藤的](https://saito.tech)电报[这里](https://t.me/joinchat/HqTpD0_BR8HYmPg20G8IBw)。为了获得许多区块链项目当前状态的信息更新，我推荐[亚当·塔奇 2018 年夏季加密货币状态](https://hackernoon.com/state-of-cryptocurrencies-summer-2018-932016549375)。
 
-[![Causeway Bay](../Images/e0f9e127b831c97916cd8e3ae4a84327.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EJMPG-Mr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AyYYfX8mWAEOknIdA_edDBA.jpeg)
+[![Causeway Bay](img/e0f9e127b831c97916cd8e3ae4a84327.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EJMPG-Mr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AyYYfX8mWAEOknIdA_edDBA.jpeg)
 
 ## 有目的
 

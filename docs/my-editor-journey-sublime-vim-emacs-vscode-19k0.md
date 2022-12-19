@@ -18,9 +18,9 @@ vim 用户从事的项目更接近我自己的项目，所以我开始检查他�
 
 有一天，我听说了 neovim，但不确定我为什么转而使用它，但看看 github 项目中的两个项目:
 
-[![vim project with only one contributor](../Images/546dc9c4f2ee08c135c3a74dab052255.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zXs672Lh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mr475vfxouxinfcgxeaa.png)
+[![vim project with only one contributor](img/546dc9c4f2ee08c135c3a74dab052255.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zXs672Lh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mr475vfxouxinfcgxeaa.png)
 
-[![vim project with 392 contributors](../Images/da808ce413a8d96a1a1fea765bf557d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hMDTU5ew--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oogdvczt4j9mt5v49jxu.png)
+[![vim project with 392 contributors](img/da808ce413a8d96a1a1fea765bf557d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hMDTU5ew--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oogdvczt4j9mt5v49jxu.png)
 
 等等什么？vim 存储库中只有一个贡献者？为什么只有一个人能做到？检查拉取请求列表时，我看到作者应用了其他人的更改，因为这是他自己的更改。好吧，我不喜欢这个，所以我换成了 neovim，当人们做出贡献时，它会给他们加分。
 
@@ -30,7 +30,7 @@ vim 用户从事的项目更接近我自己的项目，所以我开始检查他�
 
 那时人们在谈论`tmux`，它是一个终端多路复用器，所以你可以拆分你的终端，拥有标签，定制一切，从快捷方式到 tmux 的外观，例如在你的状态栏中添加有用的信息。我试过了，我喜欢。自从我在终端上使用 nvim 以来，它工作得非常好，我甚至找到了一些插件来平滑地集成它们。它看起来是这样的:
 
-[![using tmux and vim having different tabs and splits and running test in a split bellow](../Images/b72feba67ec0836d5d29899aff052ff1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZXT-03_N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u4ncf7ir9rfeb0lx700j.gif)
+[![using tmux and vim having different tabs and splits and running test in a split bellow](img/b72feba67ec0836d5d29899aff052ff1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZXT-03_N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u4ncf7ir9rfeb0lx700j.gif)
 
 我不再使用 nvim 了，但是你仍然可以找到我对 [vim](https://github.com/lucasprag/vimlociraptor) 和 [tmux](https://github.com/lucasprag/dotfiles/blob/master/tmux.conf) 的配置。
 
@@ -85,7 +85,7 @@ Spacemacs 有 vim 键绑定，所以我在家，我只需要学习处理 spacema
 *   [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 *   一个黑暗的专业 Monokai 黑暗主题 -我最喜欢的颜色模式
 
-[![using vscode to switch to files, bookmark files and jump to bookmarks, and use the integrated terminal](../Images/03b323c82ff3020d2865cc8546cbc48f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VlJntUVl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/thtlo6h65n8hmfksan23.gif)
+[![using vscode to switch to files, bookmark files and jump to bookmarks, and use the integrated terminal](img/03b323c82ff3020d2865cc8546cbc48f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VlJntUVl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/thtlo6h65n8hmfksan23.gif)
 
 这是我的文字编辑经验。今天，我不必调试我的编辑器来实现简单的事情，我仍然可以根据我的需要定制它。是的，我对 vscode 很满意，也许你也应该试试。我希望它对某人有用。
 

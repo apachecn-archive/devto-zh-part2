@@ -146,7 +146,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 你可以在我的 [GitHub 流量查看器网站](https://github-traffic-viewer.netlify.com/)上看到一个工作示例。第一页显示了一个备用内容，但页脚粘在底部。如果您登录并看到结果列表，页脚也会显示在页面底部。
 
-[![Example Website](../Images/fd05f4b521ca1311831865b2ea3fb362.png)T2】](///static/example-d8fc28e05d95bb213da4f3b47f119e04-55f2e.png)
+[![Example Website](img/fd05f4b521ca1311831865b2ea3fb362.png)T2】](///static/example-d8fc28e05d95bb213da4f3b47f119e04-55f2e.png)
 
 如果你试图在一个 GatsbyJS 网站中实现一个粘性页脚，我希望这篇文章对你也有帮助。
 

@@ -4,7 +4,7 @@
 
 *这篇文章最初发表在我们的[博客](https://bugfender.com/blog/inside-devcraft-what-weve-learned-building-a-newsletter-for-developers/)上。*
 
-[![](../Images/fbe747765f3ebfdf4fde467a64348012.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wgxS9xRe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/03/Inside-DevCraft.jpg)
+[![](img/fbe747765f3ebfdf4fde467a64348012.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wgxS9xRe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/03/Inside-DevCraft.jpg)
 
 ## 软件工程师是出了名的难缠群体
 
@@ -42,13 +42,13 @@ DevCraft 最初是 Rúben 的一个副业，但我们很快发现他做了一些
 
 我们做出的最佳决定是开始使用 **Google Sheets** 撰写时事通讯。鉴于我们时事通讯的内容是由特定的部分组成的(标题+照片+内容+阅读更多内容的链接)，我们希望利用 Google Sheets 提供的宏和自定义脚本。我们设置了一个宏来获取我们的内容单元格，并将它们组装到一个新的单元格中，该单元格使用 Markdown 格式，并依次使用 HTML 格式。
 
-[![](../Images/c76c90362839c61ef4417ad5b2a65581.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y3TZlSmW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/02/inside-devcraft-1.png)
+[![](img/c76c90362839c61ef4417ad5b2a65581.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y3TZlSmW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/02/inside-devcraft-1.png)
 
 对于一群开发人员来说，自动化相当容易上瘾。在我们用宏“打破封印”之后，我们想让它更加自动化，继续使用 [Google Apps 脚本](https://developers.google.com/apps-script/overview)。这是谷歌工作表的一个鲜为人知的特性，类似于 VBA 脚本对于微软 Excel 的作用。
 
 所以我们走进兔子洞，看看有多少可以自动化。首先，我们将[摊牌](https://github.com/showdownjs/showdown)库添加到 Google Sheets 中，将宏生成的 Markdown 呈现为 HTML，这样我们就可以预览它了:
 
-[![](../Images/4869de4d75465575e2725f365a7f177f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cbkdv2ID--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/02/inside-devcraft-3.png)
+[![](img/4869de4d75465575e2725f365a7f177f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cbkdv2ID--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/02/inside-devcraft-3.png)
 
 接下来，因为图像需要调整大小并上传到 WordPress，我们使用 [WordPress REST API](http://v2.wp-api.org/) 将它们直接添加到我们站点的媒体库中，调整大小，裁剪并返回一个链接。这确保了图像的轻量级，所以它们不会减慢我们的电子邮件和网站。我们走在正确的道路上。
 
@@ -56,7 +56,7 @@ DevCraft 最初是 Rúben 的一个副业，但我们很快发现他做了一些
 
 所有这些功能都可以通过我们创建的这个漂亮的自定义菜单来实现:
 
-[![](../Images/5d8014c54f29ff22a265625347dd151e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NMCwYGDC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/02/inside-devcraft-2.png)
+[![](img/5d8014c54f29ff22a265625347dd151e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NMCwYGDC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/02/inside-devcraft-2.png)
 
 我们也开始使用 Hiplay 和 Buffer 在我们的 Twitter 和脸书账户上更频繁地发帖，所以我们的提要中总是有一些有趣的东西可以阅读。
 
@@ -66,7 +66,7 @@ DevCraft 最初是 Rúben 的一个副业，但我们很快发现他做了一些
 
 首先，我们改变了时事通讯的结构和内容类型。我们的订户似乎喜欢我们分享的每篇文章或工具下面的**自定义描述——只要它们简短、直截了当，有助于略读**。当我们决定在每个链接的描述上投入更少的时间时，我们只看到了温和的反应。点击率下降了，一些用户退订了，但没有太大的变化。
 
-[![](../Images/163ea60580f73b4ae055ed5618a6421a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UUHM1ECM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/02/inside-devcraft-4.png)
+[![](img/163ea60580f73b4ae055ed5618a6421a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UUHM1ECM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/02/inside-devcraft-4.png)
 
 然后我们选择了最常被点击的链接主题(通常是关于远程工作的)，并把它放在时事通讯的末尾。事实证明，这个链接仍然是点击最多的，所以我们了解到，我们的订户确实通读了整个简讯来寻找宝石。
 

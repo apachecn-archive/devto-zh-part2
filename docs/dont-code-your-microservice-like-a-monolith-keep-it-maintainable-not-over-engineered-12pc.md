@@ -6,7 +6,7 @@
 
 好的，你一直在编写和维护大型代码库。有些可能有 100K 多行代码，但是你需要克服你的习惯，用不同的方式思考。本帖帮助你揭开编写小型可维护微服务的奥秘。这些建议是固执己见的，但在百万美元的业务中却是可行的。
 
-[![Don't code your microservice like a monolith, keep it maintainable not over-engineered](../Images/066a3c159eebc0e072e06214a8efd750.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z45GxSP---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://geshan.com.np/images/microservice-code/lego.jpg)
+[![Don't code your microservice like a monolith, keep it maintainable not over-engineered](img/066a3c159eebc0e072e06214a8efd750.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z45GxSP---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://geshan.com.img/microservice-code/lego.jpg)
 
 ## TLDR；
 
@@ -74,7 +74,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 数据映射器或活动记录都带来了自己的观点、做事方式和额外的权重。这不仅会导致性能问题，还会影响代码的可读性。想想前挂钩和后挂钩/事件监听器原则，它们像魔术一样工作，理解魔术总是很棘手。
 
-[![Do not code your microservice like a monolith, keep it maintainable not over-engineered](../Images/7a2325a5461798a1e77b7ee2bacff329.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LFfuhz5T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://geshan.com.np/images/microservice-code/pot-on-head.jpg)
+[![Do not code your microservice like a monolith, keep it maintainable not over-engineered](img/7a2325a5461798a1e77b7ee2bacff329.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LFfuhz5T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://geshan.com.img/microservice-code/pot-on-head.jpg)
 
 试试这个，向初学者/初级软件工程师解释 ORM 相关的插入代码是如何工作的，而简单直接的插入 SQL 查询是如何工作的。你会后悔用了那个表格。特别是在微服务的背景下，ORM 是一个明显的开销。微服务预计将是最大的 10K 代码行，影响不到 10 个表，所以不要使用 ORM。
 
@@ -88,7 +88,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 设计模式与已经很大的代码库相关，并且在接下来的 6-12 个月内会变得更大，这是你通常使用的模块。对于现在有数百行代码的服务来说，它们可能会成为“额外的负担”,而在接下来的 6-12 个月内，它们将变成数千行代码。我们从来没有预见到它会比这更大，因为要做其他部分，我们将有另一个微服务。所以，保持你的微服务代码不含脂肪并经过良好的测试。
 
-[![Do not code your microservice like a monolith, keep it maintainable not over-engineered](../Images/ec9b2c82a11de1d9a054c5640ecf8c61.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7JoEvmFC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://geshan.com.np/images/microservice-code/baggage.jpg)
+[![Do not code your microservice like a monolith, keep it maintainable not over-engineered](img/ec9b2c82a11de1d9a054c5640ecf8c61.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7JoEvmFC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://geshan.com.img/microservice-code/baggage.jpg)
 
 ## 结论
 

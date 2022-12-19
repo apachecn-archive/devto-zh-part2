@@ -16,7 +16,7 @@
 
 <figure>
 
-[![Google Hangouts makes screen sharing simple.](../Images/7125e54a6a410a7155c2ca91eadbf9f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MqT34FJg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://crunchingnumbersdotlive.files.wordpress.com/2018/09/google_hangouts.png)
+[![Google Hangouts makes screen sharing simple.](img/7125e54a6a410a7155c2ca91eadbf9f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MqT34FJg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://crunchingnumbersdotlive.files.wordpress.com/2018/09/google_hangouts.png)
 
 <figcaption>Google Hangouts makes screen sharing simple.</figcaption>
 
@@ -26,7 +26,7 @@
 
 <figure>
 
-[![Help the candidate see that they can use console.log and debugger to solve problems.](../Images/2e8a6d8245d750ed9c863c34f2e7d4d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K_8ZQ0U7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://crunchingnumbersdotlive.files.wordpress.com/2018/09/hello_world_project.png)
+[![Help the candidate see that they can use console.log and debugger to solve problems.](img/2e8a6d8245d750ed9c863c34f2e7d4d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K_8ZQ0U7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://crunchingnumbersdotlive.files.wordpress.com/2018/09/hello_world_project.png)
 
 <figcaption>Help the candidate see that they can use **console.log** and **debugger** to solve problems.</figcaption>
 
@@ -55,7 +55,7 @@
 
 <figure>
 
-[![If your problem does not meet these 5 conditions, try again.](../Images/3fc87a034692a0fb1b567602411d0dcd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T5yHqtc1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://crunchingnumbersdotlive.files.wordpress.com/2018/09/what_makes_a_good_problem2.png%3Fw%3D540%26h%3D810)
+[![If your problem does not meet these 5 conditions, try again.](img/3fc87a034692a0fb1b567602411d0dcd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T5yHqtc1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://crunchingnumbersdotlive.files.wordpress.com/2018/09/what_makes_a_good_problem2.png%3Fw%3D540%26h%3D810)
 
 <figcaption>If your problem does not meet these 5 conditions, try again.</figcaption>
 
@@ -103,7 +103,7 @@
 
 ### a .搜索和排序数据
 
-[![Problem 1\. Search and Sort Data](../Images/71f7eb265081be982e43aa5a0e7b935c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LeSZxRcG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://crunchingnumbersdotlive.files.wordpress.com/2018/09/search_and_sort1.png)
+[![Problem 1\. Search and Sort Data](img/71f7eb265081be982e43aa5a0e7b935c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LeSZxRcG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://crunchingnumbersdotlive.files.wordpress.com/2018/09/search_and_sort1.png)
 
 > 起始代码:
 > 
@@ -126,7 +126,7 @@
 
 ### b .优化渲染
 
-[![Problem 2\. Optimize Render](../Images/da9085e38f9fd94d7301d63f22a1070d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UqDhITWF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://crunchingnumbersdotlive.files.wordpress.com/2018/09/optimize_render.png)
+[![Problem 2\. Optimize Render](img/da9085e38f9fd94d7301d63f22a1070d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UqDhITWF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://crunchingnumbersdotlive.files.wordpress.com/2018/09/optimize_render.png)
 
 > 起始代码:
 > 
@@ -151,7 +151,7 @@
 
 ### c. QUnit 测试
 
-[![Problem 3\. QUnit Test](../Images/180dd9a62f255d2feb4fc81ce87aa283.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ogPNyl2T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://crunchingnumbersdotlive.files.wordpress.com/2018/09/qunit_test1.png)
+[![Problem 3\. QUnit Test](img/180dd9a62f255d2feb4fc81ce87aa283.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ogPNyl2T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://crunchingnumbersdotlive.files.wordpress.com/2018/09/qunit_test1.png)
 
 > 起始代码:
 > 

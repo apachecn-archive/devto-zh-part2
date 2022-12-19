@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/xongolabtechno/top-5-mobile-app-development-trends-2018-19ce>
 
-[![](../Images/fd21a1a00d6d337c68c8a8563581ddcb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iI0WrI8E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.xongolab.com/blog/wp-content/uploads/2017/08/mobile-application-development.jpeg)
+[![](img/fd21a1a00d6d337c68c8a8563581ddcb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iI0WrI8E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.xongolab.com/blog/wp-content/uploads/2017/08/mobile-application-development.jpeg)
 
 移动应用行业在去年见证了一段不平凡的历程。如果我们看看统计数据，2017 年有超过 2540 亿个免费应用被下载。你知道 25 岁以上的成年人一天使用智能手机 264 次，包括发短信和打电话吗？嗯，这是难以置信的，但今天的残酷现实。
 

@@ -8,7 +8,7 @@
 
 即使一开始看起来很难，但这是实现最快、最容易理解的可视化方法之一。
 
-[![Visual](../Images/c89ed01a12bd4d4b698070c5e64cd122.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RAcUUeRg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/alinp25/alinp25.github.io/raw/master/assets/images/gameoflife/gli.gif)
+[![Visual](img/c89ed01a12bd4d4b698070c5e64cd122.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RAcUUeRg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/alinp25/alinp25.github.io/raw/master/asseimg/gameoflife/gli.gif)
 
 ### 我们是如何做到的？
 
@@ -25,7 +25,7 @@
 *   **kill()，born()** >改变细胞的状态为存活或不存活
 *   **update()** >从窗口获取单元格的输入(点击时改变状态)
 
-[![Cell setup](../Images/2fbf48472ef71afabd6e2b76aaf3e54b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---ekU9_By--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/alinp25/alinp25.github.io/raw/master/assets/images/gameoflife/cell.png)
+[![Cell setup](img/2fbf48472ef71afabd6e2b76aaf3e54b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---ekU9_By--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/alinp25/alinp25.github.io/raw/master/asseimg/gameoflife/cell.png)
 
 在我们实现了 cell 类之后，游戏的其余部分比你想象的要简单。在游戏循环中，我们要做的只是遵循 3 个步骤:
 
@@ -33,9 +33,9 @@
 2.  遍历网格并基于当前条件更新 gridCopy(我们必须在 gridCopy 中更新它们，因为一旦我们在主网格中删除/创建一个新单元，下一个单元的邻居数量将小于实际数量)a)任何具有少于两个活邻居的活单元死亡，就像是由于人口不足。b)任何具有两个或三个活邻居的活细胞都可以存活到下一代。c)任何具有三个以上活邻居的活细胞死亡，好像是由于人口过多。d)任何死细胞，只要有三个活的邻居，就会变成活细胞，就像通过繁殖一样。
 3.  将 gridCopy 移动到主网格中。
 
-[![Game Logic](../Images/f33b2a1b0fe520ab2f7015e736a15da0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--waJ8niHg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/alinp25/alinp25.github.io/raw/master/assets/images/gameoflife/gamelogic.png)
+[![Game Logic](img/f33b2a1b0fe520ab2f7015e736a15da0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--waJ8niHg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/alinp25/alinp25.github.io/raw/master/asseimg/gameoflife/gamelogic.png)
 
-[![Example Patterns](../Images/6b6acdd35c4c5344dcaa30ef2362e332.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DqibrrAG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/alinp25/alinp25.github.io/raw/master/assets/images/gameoflife/exmpl.png)
+[![Example Patterns](img/6b6acdd35c4c5344dcaa30ef2362e332.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DqibrrAG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/alinp25/alinp25.github.io/raw/master/asseimg/gameoflife/exmpl.png)
 
 你可以在 GitHub 上看到完整的代码[，在 YouTube](https://github.com/alinp25/gameoflife) 上看到应用[的实用演示。祝你编码愉快，下次再见，*保持微笑，人生苦短，不能有 bug*！](https://www.youtube.com/watch?v=408e5MfifYQ)
 

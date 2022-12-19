@@ -58,7 +58,7 @@ python3 -m venv venv
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![pic1](../Images/1f63142780a6ac60e9161711e57f8cdd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--inlN6npT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/20112458/48008954-b673d080-e140-11e8-87b3-2e668098469e.png)
+[![pic1](img/1f63142780a6ac60e9161711e57f8cdd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--inlN6npT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/20112458/48008954-b673d080-e140-11e8-87b3-2e668098469e.png)
 
 在 Windows 上:
 
@@ -94,7 +94,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![pic2](../Images/a93dfbad19900b9ad4c7c72eacec0438.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zphtMgCe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/20112458/48008953-b5db3a00-e140-11e8-93d7-d3ca238d75e2.png)
+[![pic2](img/a93dfbad19900b9ad4c7c72eacec0438.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zphtMgCe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/20112458/48008953-b5db3a00-e140-11e8-93d7-d3ca238d75e2.png)
 
 在 Windows 上:
 
@@ -116,7 +116,7 @@ $ pip install Flask
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![screenshot 2018-11-05 at 9 22 44 pm](../Images/2dc8659cca6d3af6234aafd80d825863.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_9TnB5yW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/20112458/48009094-f76be500-e140-11e8-882e-00917743fe68.png)
+[![screenshot 2018-11-05 at 9 22 44 pm](img/2dc8659cca6d3af6234aafd80d825863.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_9TnB5yW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/20112458/48009094-f76be500-e140-11e8-882e-00917743fe68.png)
 
 **烧瓶现已安装:**查看[快速入门](http://flask.pocoo.org/docs/1.0/quickstart/)或转到[文档](http://flask.pocoo.org/docs/1.0/)。
 
@@ -159,6 +159,6 @@ Enter fullscreen mode Exit fullscreen mode
     $ python -m flask run 
     ```
 
-    [![screenshot 2018-11-05 at 11 07 58 pm](../Images/1913874e6273ce7fe95800e26ec34770.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KdhIOKTg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/20112458/48015704-c515b400-e14f-11e8-8690-9949dd356239.png)
+    [![screenshot 2018-11-05 at 11 07 58 pm](img/1913874e6273ce7fe95800e26ec34770.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KdhIOKTg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/20112458/48015704-c515b400-e14f-11e8-8690-9949dd356239.png)
 
-    *   进入 [http://127.0.0.1:5000/](http://127.0.0.1:5000/) 查看你的项目运行情况。![screenshot 2018-11-05 at 11 10 19 pm](../Images/766d2b67a4a9ca67dc751880ebbcfe2e.png)
+    *   进入 [http://127.0.0.1:5000/](http://127.0.0.1:5000/) 查看你的项目运行情况。![screenshot 2018-11-05 at 11 10 19 pm](img/766d2b67a4a9ca67dc751880ebbcfe2e.png)

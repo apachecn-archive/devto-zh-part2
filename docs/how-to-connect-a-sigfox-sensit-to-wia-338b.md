@@ -14,12 +14,12 @@
 
 首先，给你的 Sens 'It 插上电源，确保它一直处于充电状态。然后，[跟随这个链接](https://www.sensit.io/)到 Sigfox 的 Sens 'It 平台。在右上角，点击`Launch App`。
 
-[![alt text](../Images/4e3b13b415f83bf541c1dedc06adb1ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GGASmPz0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-08-07/1533655169-784073-screen-shot-2018-08-07-at-41907-pm.png)
+[![alt text](img/4e3b13b415f83bf541c1dedc06adb1ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GGASmPz0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-08-07/1533655169-784073-screen-shot-2018-08-07-at-41907-pm.png)
 
 选择`Activate a Sens'It`。设备 ID 写在传感器的背面。在框中输入设备 ID。
 
-[![alt text](../Images/5ed272762d3d2e92a803fc9c06640b58.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DdN7bldB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-08-07/1533655215-294134-screen-shot-2018-08-07-at-41958-pm.png)
-[![alt text](../Images/6f98723d0028d62acbda30b2d8bfb444.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--SFQipun0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-08-07/1533655285-442484-screen-shot-2018-08-07-at-42036-pm.png)
+[![alt text](img/5ed272762d3d2e92a803fc9c06640b58.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DdN7bldB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-08-07/1533655215-294134-screen-shot-2018-08-07-at-41958-pm.png)
+[![alt text](img/6f98723d0028d62acbda30b2d8bfb444.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--SFQipun0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-08-07/1533655285-442484-screen-shot-2018-08-07-at-42036-pm.png)
 
 继续并添加您的位置。按照提示完成激活传感器。
 
@@ -48,7 +48,7 @@ Wia 提供 Sigfox 集成，因此您可以将 sigfox 设备连接到 [Wia 平台
 *   在 Sigfox 后端，转到`Group > [Your group name] > API Access > New`
 *   选择`DEVICES_MESSAGES [R]`
 
-[![alt text](../Images/5caa6c6771a462febc36d085d7a844fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NqOI0F1k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-08-07/1533655451-320043-screen-shot-2018-08-07-at-42341-pm.png)
+[![alt text](img/5caa6c6771a462febc36d085d7a844fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NqOI0F1k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-08-07/1533655451-320043-screen-shot-2018-08-07-at-42341-pm.png)
 
 选中后，将为您创建一个 API 登录名和密码。
 
@@ -57,12 +57,12 @@ Wia 提供 Sigfox 集成，因此您可以将 sigfox 设备连接到 [Wia 平台
 *   转到 [Wia 仪表板](https://dashboard.wia.io/login)。
 *   通过单击左上角的空间名称打开空间下拉列表，然后单击设置。选择边栏中的集成。
 
-[![alt text](../Images/a5248b95ae4c2d4a6fe04ee6f61641b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Tk8NOxt2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-08-07/1533655515-324090-screen-shot-2018-08-07-at-42441-pm.png)
+[![alt text](img/a5248b95ae4c2d4a6fe04ee6f61641b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Tk8NOxt2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-08-07/1533655515-324090-screen-shot-2018-08-07-at-42441-pm.png)
 
 *   输入您的 API 访问登录名和密码。注意:这不是您用来登录 Sigfox 后端仪表板的，而是您刚刚创建的。
 *   现在您应该看到 Sigfox 的入站密钥已经创建。
 
-[![alt text](../Images/db419937e1870bd9c75fa0f1a403f63a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FG74c7-T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-08-07/1533655560-510857-screen-shot-2018-08-07-at-42535-pm.png)
+[![alt text](img/db419937e1870bd9c75fa0f1a403f63a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FG74c7-T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-08-07/1533655560-510857-screen-shot-2018-08-07-at-42535-pm.png)
 
 ### 设置您的 Sigfox 回调
 
@@ -72,7 +72,7 @@ Wia 提供 Sigfox 集成，因此您可以将 sigfox 设备连接到 [Wia 平台
 *   单击左上角的“新建”以创建新的回调
 *   选择自定义回拨
 
-[![alt text](../Images/355f3373f4f13f488a63212328220fc5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N8sOpCzU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-08-07/1533655632-231271-screen-shot-2018-08-07-at-42649-pm.png)
+[![alt text](img/355f3373f4f13f488a63212328220fc5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N8sOpCzU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-08-07/1533655632-231271-screen-shot-2018-08-07-at-42649-pm.png)
 
 在每个字段中输入以下值:
 
@@ -83,7 +83,7 @@ Wia 提供 Sigfox 集成，因此您可以将 sigfox 设备连接到 [Wia 平台
 
 头球
 
-[![alt text](../Images/b1d5ce62e4a23e310ebb224085386a76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sNJ30ALY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-08-07/1533655659-973650-screen-shot-2018-08-07-at-42725-pm.png)
+[![alt text](img/b1d5ce62e4a23e310ebb224085386a76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sNJ30ALY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-08-07/1533655659-973650-screen-shot-2018-08-07-at-42725-pm.png)
 
 *   内容类型:`application/json`
 *   正文:复制并粘贴下面的文本。
@@ -117,4 +117,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 一旦您的设备发送事件，它将自动出现在 [Wia 仪表板](https://dashboard.wia.io/login)中。
 
-[![alt text](../Images/d12a172fdaea8a7d1babdcebd2f07293.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kNkkfNfJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-08-07/1533656741-178661-screen-shot-2018-08-07-at-44456-pm.png)
+[![alt text](img/d12a172fdaea8a7d1babdcebd2f07293.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kNkkfNfJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-08-07/1533656741-178661-screen-shot-2018-08-07-at-44456-pm.png)

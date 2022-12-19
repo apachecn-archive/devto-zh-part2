@@ -6,7 +6,7 @@
 
 如果你仍然像 2015 年 22%的尼泊尔开发者那样使用 FTP，你需要继续前进。在这篇文章中，我将简要介绍一些部署工具，并尝试分析它们的优缺点。尽管如此，正如标题所示，最好的自动化部署工具是最符合您需求的工具。
 
-[![The best automated deployment tool is… the one that fits your needs](../Images/20195c4927bd267bb9e4f80b73dc3ed6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OnnZEv4Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AW0vvTrhYpesTt8yv.png)
+[![The best automated deployment tool is… the one that fits your needs](img/20195c4927bd267bb9e4f80b73dc3ed6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OnnZEv4Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AW0vvTrhYpesTt8yv.png)
 
 ## 什么是自动化部署？
 

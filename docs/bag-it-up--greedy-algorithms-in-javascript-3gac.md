@@ -215,7 +215,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 使用我们的 groupBy 示例，下图可能有助于澄清问题:
 
-[![visualization](../Images/b32cadd9c508adeb1a20a89898ea87f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9PpHA1OT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1920766/45563508-693f4680-b802-11e8-9891-1879d832b4ff.jpg)
+[![visualization](img/b32cadd9c508adeb1a20a89898ea87f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9PpHA1OT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1920766/45563508-693f4680-b802-11e8-9891-1879d832b4ff.jpg)
 
 如果你对伪代码更熟悉，这里是我们在前面所有例子中使用的模式:
 

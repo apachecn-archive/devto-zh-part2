@@ -4,7 +4,7 @@
 
 对于我的项目，我喜欢使用 [TravisCI](https://travis-ci.org/) 来运行我的构建和测试。如果我正在使用一种支持它的语言，我也喜欢向[发布测试运行的代码覆盖结果。不久前，我发现了一个跨平台的工具来计算覆盖率的结果。净核心项目:](https://coveralls.io/)
 
-## ![GitHub logo](../Images/04febf72106d337f3956ebfaf9121dae.png)[【lucaslorntz】](https://github.com/lucaslorentz)/[【微型汽车】](https://github.com/lucaslorentz/minicover)
+## ![GitHub logo](img/04febf72106d337f3956ebfaf9121dae.png)[【lucaslorntz】](https://github.com/lucaslorentz)/[【微型汽车】](https://github.com/lucaslorentz/minicover)
 
 ### 跨平台代码覆盖工具。网络核心
 
@@ -14,7 +14,7 @@
 
 的代码覆盖率工具。网络核心
 
-[![Build Status](../Images/3f39f48bf651224f070499477474767f.png)](https://dev.azure.com/lucaslorentzlara/lucaslorentzlara/_build/latest?definitionId=3&branchName=master)[![Nuget](../Images/1041aa7e063c4dc1a81ced1408af5f28.png)](https://www.nuget.org/packages/MiniCover/)[![Coverage Status](../Images/34d10a22fa7625a27713815d08a3bd4b.png)](https://coveralls.io/github/lucaslorentz/minicover?branch=master)
+[![Build Status](img/3f39f48bf651224f070499477474767f.png)](https://dev.azure.com/lucaslorentzlara/lucaslorentzlara/_build/latest?definitionId=3&branchName=master)[![Nuget](img/1041aa7e063c4dc1a81ced1408af5f28.png)](https://www.nuget.org/packages/MiniCover/)[![Coverage Status](img/34d10a22fa7625a27713815d08a3bd4b.png)](https://coveralls.io/github/lucaslorentz/minicover?branch=master)
 
 ## 支持。NET Core SDKs
 
@@ -77,7 +77,7 @@ minicover instrument
 
 这篇文章的所有示例代码都可以在我的 GitHub 个人资料中找到:
 
-## ![GitHub logo](../Images/04febf72106d337f3956ebfaf9121dae.png)[nlow](https://github.com/nlowe)/[工作服——netcore](https://github.com/nlowe/coveralls-netcore)
+## ![GitHub logo](img/04febf72106d337f3956ebfaf9121dae.png)[nlow](https://github.com/nlowe)/[工作服——netcore](https://github.com/nlowe/coveralls-netcore)
 
 ### 一个 dotnet 核心应用程序的例子
 
@@ -85,7 +85,7 @@ minicover instrument
 
 # 工作服 Netcore 示例
 
-[![Build Status](../Images/0f867648549be64c8b2266cbe2b2ddb2.png) ](https://travis-ci.org/nlowe/coveralls-netcore) [ ![Coverage Status](../Images/4a191547decee3137104c004297b5a88.png)](https://coveralls.io/github/nlowe/coveralls-netcore?branch=master)
+[![Build Status](img/0f867648549be64c8b2266cbe2b2ddb2.png) ](https://travis-ci.org/nlowe/coveralls-netcore) [ ![Coverage Status](img/4a191547decee3137104c004297b5a88.png)](https://coveralls.io/github/nlowe/coveralls-netcore?branch=master)
 
 从一个 travis 构建的 dotnet 核心项目中获取代码覆盖率。
 
@@ -119,9 +119,9 @@ MiniCover 作为一个`dotnet` cli 工具发布。我们要么需要将它作为
 
 在 MiniCover 更新到支持作为全局工具安装(在中添加)之前，这是必需的。网络核心 2.1):
 
-# [![GitHub logo](../Images/04febf72106d337f3956ebfaf9121dae.png) 发表为。净芯全球工具 #90](https://github.com/lucaslorentz/minicover/issues/90) 
+# [![GitHub logo](img/04febf72106d337f3956ebfaf9121dae.png) 发表为。净芯全球工具 #90](https://github.com/lucaslorentz/minicover/issues/90) 
 
-[![snebjorn avatar](../Images/e65bceadecd51b069dd0c4c0838dd0cd.png) ](https://github.com/snebjorn)  **[snebjorn](https://github.com/snebjorn)** posted on [<time datetime="2018-04-23T12:08:03Z">Apr 23, 2018</time>](https://github.com/lucaslorentz/minicover/issues/90)
+[![snebjorn avatar](img/e65bceadecd51b069dd0c4c0838dd0cd.png) ](https://github.com/snebjorn)  **[snebjorn](https://github.com/snebjorn)** posted on [<time datetime="2018-04-23T12:08:03Z">Apr 23, 2018</time>](https://github.com/lucaslorentz/minicover/issues/90)
 
 随着 dotnet core 2.1 的即将发布，他们正在引入全球工具。它像 npm 全球工具(NPM 安装-g 包)一样工作
 
@@ -198,7 +198,7 @@ cd ..
 
 虽然这是获得代码覆盖率结果的一个很好的方法，但是有点乏味。为了我的。NET 项目，我更喜欢使用`cake`来编写构建过程的脚本:
 
-## ![GitHub logo](../Images/04febf72106d337f3956ebfaf9121dae.png) [蛋糕制作](https://github.com/cake-build) / [蛋糕](https://github.com/cake-build/cake)
+## ![GitHub logo](img/04febf72106d337f3956ebfaf9121dae.png) [蛋糕制作](https://github.com/cake-build) / [蛋糕](https://github.com/cake-build/cake)
 
 ### Cake (C# Make)是一个跨平台构建自动化系统。
 
@@ -206,9 +206,9 @@ cd ..
 
 # 蛋糕
 
-[![NuGet](../Images/96e252b00a68b2bbba8b4a3a0e06a499.png)](https://www.nuget.org/packages/Cake)[![Azure Artifacts](../Images/f733cfb917fe7523acbf18197dad3c13.png)](https://dev.azure.com/cake-build/Cake/_packaging?_a=package&feed=cake&package=Cake&protocolType=NuGet)[![Chocolatey](../Images/0272d8dd24b385eda4b001768d53fe7f.png)](https://chocolatey.org/packages/cake.portable)[![homebrew](../Images/0fa4769641fd30f488397cd46164230d.png)](http://braumeister.org/formula/cake)[![Help Contribute to Open Source](../Images/5b46366f72f7d1c07a314998f7107652.png)](https://www.codetriage.com/cake-build/cake)
+[![NuGet](img/96e252b00a68b2bbba8b4a3a0e06a499.png)](https://www.nuget.org/packages/Cake)[![Azure Artifacts](img/f733cfb917fe7523acbf18197dad3c13.png)](https://dev.azure.com/cake-build/Cake/_packaging?_a=package&feed=cake&package=Cake&protocolType=NuGet)[![Chocolatey](img/0272d8dd24b385eda4b001768d53fe7f.png)](https://chocolatey.org/packages/cake.portable)[![homebrew](img/0fa4769641fd30f488397cd46164230d.png)](http://braumeister.org/formula/cake)[![Help Contribute to Open Source](img/5b46366f72f7d1c07a314998f7107652.png)](https://www.codetriage.com/cake-build/cake)
 
-[![Source Browser](../Images/f771f188ef07d8915122abb9c9cba3d5.png)T2】](http://sourcebrowser.io/Browse/cake-build/cake)
+[![Source Browser](img/f771f188ef07d8915122abb9c9cba3d5.png)T2】](http://sourcebrowser.io/Browse/cake-build/cake)
 
 Cake (C# Make)是一个构建自动化系统，使用 C# DSL 来做诸如编译代码、复制文件/文件夹、运行单元测试、压缩文件和构建 NuGet 包之类的事情。
 
@@ -216,24 +216,24 @@ Cake (C# Make)是一个构建自动化系统，使用 C# DSL 来做诸如编译�
 
 | 构建服务器 | 平台 | 构建状态 | 集成测试 |
 | --- | --- | --- | --- |
-| 天蓝色管道 | 马科斯 | [![Azure Pipelines Mac Build status](../Images/782d6c781804a4b422ef6d4e4251c9b9.png)T2】](https://dev.azure.com/cake-build/Cake/_build/latest?definitionId=4) |
-| 天蓝色管道 | Windows 操作系统 | [![Azure Pipelines Windows Build status](../Images/b35ff16f7b4c494097c4268cf3cf9aa4.png)T2】](https://dev.azure.com/cake-build/Cake/_build/latest?definitionId=1) |
-| 天蓝色管道 | 一种自由操作系统 | [![Azure Pipelines Debian Build status](../Images/78988d8a31f46838c90fde75eca32a50.png)T2】](https://dev.azure.com/cake-build/Cake/_build/latest?definitionId=7) |
-| 天蓝色管道 | 一种男式软呢帽 | [![Azure Pipelines Fedora Build status](../Images/6de5d849c176168b8155f6ce55d5fb64.png)T2】](https://dev.azure.com/cake-build/Cake/_build/latest?definitionId=6) |
-| 天蓝色管道 | 摘录 | [![Azure Pipelines Cake Centos status](../Images/9281f01aa63132e21992dfd8737fa27e.png)T2】](https://dev.azure.com/cake-build/Cake/_build/latest?definitionId=5) |
-| 天蓝色管道 | 人的本质 | [![Azure Pipelines Ubuntu Build status](../Images/9a273cbe6f314152d2ba6d572e6fa66f.png)T2】](https://dev.azure.com/cake-build/Cake/_build/latest?definitionId=3) |
-| 应用程序供应商 | Windows 操作系统 | [![AppVeyor branch](../Images/bce2237f35ad50bfb14f2556d3af3291.png)T2】](https://ci.appveyor.com/project/cakebuild/cake/branch/develop) | [![AppVeyor branch](../Images/f39722f1ce5885e7774b39a49cb99ddf.png)T2】](https://ci.appveyor.com/project/cakebuild/cake-eijwj) |
-| 特拉维斯 | Ubuntu / MacOS | [![Travis build status](../Images/62299f01a3ffc62fccac10655cba4094.png)T2】](https://travis-ci.org/cake-build/cake) |
-| TeamCity | Windows 操作系统 | [![TeamCity Build Status](../Images/4e9fe6eb30cb898be6e025f007444b16.png)T2】](http://teamcity.codebetter.com/viewType.html?buildTypeId=Cake_CakeMaster) |
-| 按位 | 马科斯 | [![Build Status](../Images/fd6daf018c78397b7bd49732cd10ed33.png)T2】](https://app.bitrise.io/app/42eaef77e8db4a5c) | [![Build Status](../Images/1b9493e0bf5afe72d083ef4bd7732de8.png)T2】](https://camo.githubusercontent.com/bdb72a036eb664fb9d846cdde9ae2fc4d99f84ad/68747470733a2f2f6170702e626974726973652e696f2f6170702f383034623433316331663237653061302f7374617475732e7376673f746f6b656e3d714b6f734845614a414a45717a5a6371347335575267266272616e63683d646576656c6f70) |
-| 按位 | 一种自由操作系统 | [![Build Status](../Images/bdcb40a1c9af3e7958a97692bb9a84d8.png)T2】](https://app.bitrise.io/app/ea0c6b3c61eb1e79) | [![Build Status](../Images/6fd0c488b10461af0162ba9fdd8f8a7e.png)T2】](https://camo.githubusercontent.com/64e6f6c3c0337e374584a5e746131af44471864d/68747470733a2f2f6170702e626974726973652e696f2f6170702f356134303666333466323231313363362f7374617475732e7376673f746f6b656e3d54515062736d413979502d694a4f687a756e49503477266272616e63683d646576656c6f70) |
-| 比特桶管道 | 一种自由操作系统 | [![Build Status](../Images/9864bc9fe9df22570bf5e13ef99d618c.png)T2】](https://cakebitbucketpipelinesshield.azurewebsites.net/url/cakebuild/cake-integration-tests/develop) |
-| GitLab | 一种自由操作系统 | [![pipeline status](../Images/6c15d8c13adc1f936ccd651e45ddcf11.png)T2】](https://gitlab.com/cake-build/cake/commits/develop) |   |
-| GitHub 操作 | Windows / Ubuntu/ macOS | [![Build Status](../Images/9bc6c7c53bc03528206f376e39e25bd9.png)T2】](https://github.com/cake-build/cake/actions) |   |
+| 天蓝色管道 | 马科斯 | [![Azure Pipelines Mac Build status](img/782d6c781804a4b422ef6d4e4251c9b9.png)T2】](https://dev.azure.com/cake-build/Cake/_build/latest?definitionId=4) |
+| 天蓝色管道 | Windows 操作系统 | [![Azure Pipelines Windows Build status](img/b35ff16f7b4c494097c4268cf3cf9aa4.png)T2】](https://dev.azure.com/cake-build/Cake/_build/latest?definitionId=1) |
+| 天蓝色管道 | 一种自由操作系统 | [![Azure Pipelines Debian Build status](img/78988d8a31f46838c90fde75eca32a50.png)T2】](https://dev.azure.com/cake-build/Cake/_build/latest?definitionId=7) |
+| 天蓝色管道 | 一种男式软呢帽 | [![Azure Pipelines Fedora Build status](img/6de5d849c176168b8155f6ce55d5fb64.png)T2】](https://dev.azure.com/cake-build/Cake/_build/latest?definitionId=6) |
+| 天蓝色管道 | 摘录 | [![Azure Pipelines Cake Centos status](img/9281f01aa63132e21992dfd8737fa27e.png)T2】](https://dev.azure.com/cake-build/Cake/_build/latest?definitionId=5) |
+| 天蓝色管道 | 人的本质 | [![Azure Pipelines Ubuntu Build status](img/9a273cbe6f314152d2ba6d572e6fa66f.png)T2】](https://dev.azure.com/cake-build/Cake/_build/latest?definitionId=3) |
+| 应用程序供应商 | Windows 操作系统 | [![AppVeyor branch](img/bce2237f35ad50bfb14f2556d3af3291.png)T2】](https://ci.appveyor.com/project/cakebuild/cake/branch/develop) | [![AppVeyor branch](img/f39722f1ce5885e7774b39a49cb99ddf.png)T2】](https://ci.appveyor.com/project/cakebuild/cake-eijwj) |
+| 特拉维斯 | Ubuntu / MacOS | [![Travis build status](img/62299f01a3ffc62fccac10655cba4094.png)T2】](https://travis-ci.org/cake-build/cake) |
+| TeamCity | Windows 操作系统 | [![TeamCity Build Status](img/4e9fe6eb30cb898be6e025f007444b16.png)T2】](http://teamcity.codebetter.com/viewType.html?buildTypeId=Cake_CakeMaster) |
+| 按位 | 马科斯 | [![Build Status](img/fd6daf018c78397b7bd49732cd10ed33.png)T2】](https://app.bitrise.io/app/42eaef77e8db4a5c) | [![Build Status](img/1b9493e0bf5afe72d083ef4bd7732de8.png)T2】](https://camo.githubusercontent.com/bdb72a036eb664fb9d846cdde9ae2fc4d99f84ad/68747470733a2f2f6170702e626974726973652e696f2f6170702f383034623433316331663237653061302f7374617475732e7376673f746f6b656e3d714b6f734845614a414a45717a5a6371347335575267266272616e63683d646576656c6f70) |
+| 按位 | 一种自由操作系统 | [![Build Status](img/bdcb40a1c9af3e7958a97692bb9a84d8.png)T2】](https://app.bitrise.io/app/ea0c6b3c61eb1e79) | [![Build Status](img/6fd0c488b10461af0162ba9fdd8f8a7e.png)T2】](https://camo.githubusercontent.com/64e6f6c3c0337e374584a5e746131af44471864d/68747470733a2f2f6170702e626974726973652e696f2f6170702f356134303666333466323231313363362f7374617475732e7376673f746f6b656e3d54515062736d413979502d694a4f687a756e49503477266272616e63683d646576656c6f70) |
+| 比特桶管道 | 一种自由操作系统 | [![Build Status](img/9864bc9fe9df22570bf5e13ef99d618c.png)T2】](https://cakebitbucketpipelinesshield.azurewebsites.net/url/cakebuild/cake-integration-tests/develop) |
+| GitLab | 一种自由操作系统 | [![pipeline status](img/6c15d8c13adc1f936ccd651e45ddcf11.png)T2】](https://gitlab.com/cake-build/cake/commits/develop) |   |
+| GitHub 操作 | Windows / Ubuntu/ macOS | [![Build Status](img/9bc6c7c53bc03528206f376e39e25bd9.png)T2】](https://github.com/cake-build/cake/actions) |   |
 
 ## 代码覆盖率
 
-[![Coverage Status](../Images/9c39a7b2800eb762eab8ca2abef6ab7f.png)T2】](https://coveralls.io/github/cake-build/cake?branch=develop)
+[![Coverage Status](img/9c39a7b2800eb762eab8ca2abef6ab7f.png)T2】](https://coveralls.io/github/cake-build/cake?branch=develop)
 
 ## 目录
 
@@ -260,7 +260,7 @@ Cake (C# Make)是一个构建自动化系统，使用 C# DSL 来做诸如编译�
 
 要开始使用 cake，您需要两个文件，一个`build.cake`构建脚本和一个特定于平台的引导程序脚本。因为我们可以为。NET 核心项目，我们可以包含一个用于 Windows 的 PowerShell 脚本和一个用于其他平台的 Bash 脚本。如果您想开始用 cake 构建. NET 核心项目，请随意使用我的引导程序脚本:
 
-## ![GitHub logo](../Images/04febf72106d337f3956ebfaf9121dae.png)[nlow](https://github.com/nlowe)/[蛋糕-bootstrap-dotnet](https://github.com/nlowe/cake-bootstrap-dotnet)
+## ![GitHub logo](img/04febf72106d337f3956ebfaf9121dae.png)[nlow](https://github.com/nlowe)/[蛋糕-bootstrap-dotnet](https://github.com/nlowe/cake-bootstrap-dotnet)
 
 ### 使用 cake 和 dotnet 核心的引导程序脚本
 
@@ -282,7 +282,7 @@ dotnet 核心项目的引导蛋糕，无需安装 mono。选项(环境变量):
 
 通过`addin`系统，Cake 具有极强的可扩展性。这将在运行构建脚本之前将扩展恢复为 Cake 的一个`nuget`包。我为 minicover 制作了一个蛋糕插件，它极大地简化了覆盖率生成过程:
 
-## ![GitHub logo](../Images/04febf72106d337f3956ebfaf9121dae.png) [ nlowe ](https://github.com/nlowe) / [蛋糕。迷你 Cover](https://github.com/nlowe/Cake.MiniCover)
+## ![GitHub logo](img/04febf72106d337f3956ebfaf9121dae.png) [ nlowe ](https://github.com/nlowe) / [蛋糕。迷你 Cover](https://github.com/nlowe/Cake.MiniCover)
 
 ### 一个用于 Minicover 的蛋糕插件，使得在 dotnet core 上获得跨平台代码覆盖尽可能容易
 
@@ -290,7 +290,7 @@ dotnet 核心项目的引导蛋糕，无需安装 mono。选项(环境变量):
 
 # 蛋糕。迷你 Cover
 
-[![Build Status](../Images/662ed9648b8585a83279e9d6af5900c1.png) ](https://travis-ci.org/nlowe/Cake.MiniCover) [ ![nuget](../Images/7d7cb5c9ebf14fdfc755af3044f3f933.png)](https://www.nuget.org/packages/Cake.MiniCover/)
+[![Build Status](img/662ed9648b8585a83279e9d6af5900c1.png) ](https://travis-ci.org/nlowe/Cake.MiniCover) [ ![nuget](img/7d7cb5c9ebf14fdfc755af3044f3f933.png)](https://www.nuget.org/packages/Cake.MiniCover/)
 
 一个[蛋糕](https://cakebuild.net)插件给[迷你封面](https://github.com/lucaslorentz/minicover)
 
@@ -577,9 +577,9 @@ Task("Coveralls")
 
 我希望这能对你有所帮助。我希望能够在不需要工具项目的情况下提供 MiniCover 支持，但这需要将 MiniCover 分成一个核心库和一个 cli 工具:
 
-# [![GitHub logo](../Images/04febf72106d337f3956ebfaf9121dae.png) 从其他工具中提取常用库来启用消费 #31](https://github.com/lucaslorentz/minicover/issues/31) 
+# [![GitHub logo](img/04febf72106d337f3956ebfaf9121dae.png) 从其他工具中提取常用库来启用消费 #31](https://github.com/lucaslorentz/minicover/issues/31) 
 
-[![nlowe avatar](../Images/4b238059065a2c0656bfbf9be773d784.png) ](https://github.com/nlowe)  **[nlowe](https://github.com/nlowe)** posted on [<time datetime="2018-02-26T05:46:14Z">Feb 26, 2018</time>](https://github.com/lucaslorentz/minicover/issues/31)
+[![nlowe avatar](img/4b238059065a2c0656bfbf9be773d784.png) ](https://github.com/nlowe)  **[nlowe](https://github.com/nlowe)** posted on [<time datetime="2018-02-26T05:46:14Z">Feb 26, 2018</time>](https://github.com/lucaslorentz/minicover/issues/31)
 
 我想为 MiniCover 写一个类似于为 [OpenCover](https://cakebuild.net/api/Cake.Common.Tools.OpenCover/OpenCoverAliases/191C133A) 存在的[蛋糕](https://cakebuild.net)插件。我不能轻易指示用户添加 MiniCover 作为工具，因为 cake 从 Nuget 下载工具的方式与`DotnetCliTool`包类型不兼容。我可以告诉用户按照自述文件中的说明创建一个工具项目，并将其传递给我的插件，但我认为更简单的解决方案是将实际的工具和报告逻辑与 dotnet cli 工具前端分开。这将允许我在我的包中引用它作为一个依赖项，并使用户能够获得简单的覆盖，例如:
 

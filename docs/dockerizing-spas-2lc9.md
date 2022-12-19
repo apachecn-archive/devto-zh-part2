@@ -4,7 +4,7 @@
 
 如今，大多数网站都是单页应用程序(简称 SPA ),其中一个条目文件处理用户可能访问的所有路线。在云托管的持续趋势下，你可能会发现自己需要“整理”你的 SPA。也就是说，将它包装在 Docker 映像中，并作为容器运行。
 
-[![](../Images/f1023b7b04fe30efb504bf09d9fe686a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--P94VfCdb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/suyyg0olin0mx6ugrjzd.jpg) 
+[![](img/f1023b7b04fe30efb504bf09d9fe686a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--P94VfCdb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/suyyg0olin0mx6ugrjzd.jpg) 
 <small>这年头所有的东西都是用集装箱运来的，连软件也不例外。</small>
 
 在这篇文章中，我们将探讨如何做到这一点。我们将建立一个简单的 SPA，告诉用户他们当前正在访问我们网站的哪条路线。这意味着你不仅可以游览`/`，还可以游览你能想到的任何路线，比如`/unicorn`或`/rainbow`。这个 SPA 将是一个超级简单的手工制作的 SPA，但你可以将其视为任何复杂的 React、Angular 或 Vue 应用程序的代表。最后，我们将把我们的 SPA 构建到 Docker 映像中，并将其作为容器进行部署。
@@ -59,7 +59,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 继续点击几个链接四处移动，或者在你的导航栏中输入另一个路径。
 
-[![](../Images/3a9ba0ca7a38b966bab204641b5c70e4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9qOVSIWk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Al3FxcPMlOckHHpGZC8sXsw.png) 
+[![](img/3a9ba0ca7a38b966bab204641b5c70e4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9qOVSIWk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Al3FxcPMlOckHHpGZC8sXsw.png) 
 <small>我们的超级简单 SPA 告诉用户他们在哪里，并允许他们
 导航。</small>
 
@@ -91,9 +91,9 @@ Enter fullscreen mode Exit fullscreen mode
 
 使用 [Docker run](https://docs.docker.com/engine/reference/commandline/run/) ,我们开始将图像作为一个容器。通过使用`-p`，我们可以为暴露的端口指定一个映射，在这种情况下，我们希望到达本地机器上端口 *8888* 处的暴露端口 *80* 。因此，请打开 [http://localhost:8888/](http://localhost:8888/daf) 来检查我们得到了什么。
 
-[![](../Images/5c98c36a11bfa03e4c8432b3ce3d879e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VoKLp7ps--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A8P6hCT8oQOhOqXt_ZePcwA.png)
+[![](img/5c98c36a11bfa03e4c8432b3ce3d879e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VoKLp7ps--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A8P6hCT8oQOhOqXt_ZePcwA.png)
 
-[![](../Images/318ce9f9dece870338a77c08b18ba81d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hTDkPuon--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w0bdiudbddoio61axrxt.png)
+[![](img/318ce9f9dece870338a77c08b18ba81d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hTDkPuon--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w0bdiudbddoio61axrxt.png)
 
 这不是我们想象的情况…
 
@@ -154,9 +154,9 @@ Enter fullscreen mode Exit fullscreen mode
 
 点击链接，你会发现现在它确实工作了。您访问的每条路线现在都由我们在开始时构建的单页应用程序提供服务。
 
-[![](../Images/c30c2be6c40cc5234d9c0d9419f5a4b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jyIACsGq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AGgY0vSpeKgif4-93-0s6IQ.png)
+[![](img/c30c2be6c40cc5234d9c0d9419f5a4b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jyIACsGq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AGgY0vSpeKgif4-93-0s6IQ.png)
 
-[![](../Images/3b364a88d39c7ec27500af461ad5ccc5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RQ84lFRK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2APMs3fV3LMoFLxOzvHCI-yg.png)
+[![](img/3b364a88d39c7ec27500af461ad5ccc5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RQ84lFRK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2APMs3fV3LMoFLxOzvHCI-yg.png)
 
 ### 奖励等级—在 Docker 中编译您的 SPA
 
@@ -206,7 +206,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我希望你今天学到了一些东西。现在，勇敢一点，大胆一点，走出去，运用你新发现的知识，用 Docker 托管你的应用程序。
 
-[![](../Images/a8e77944cce352fd73212418072c790c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jFzbRnMo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/28pv566f0zxb6u33evwf.png)
+[![](img/a8e77944cce352fd73212418072c790c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jFzbRnMo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/28pv566f0zxb6u33evwf.png)
 
 * * *
 

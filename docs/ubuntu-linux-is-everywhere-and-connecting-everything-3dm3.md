@@ -6,7 +6,7 @@ Ubuntu Linux 是一个非常用户友好的 Linux 桌面发行版(distro ),在�
 
 很多人通过 Ubuntu 爱上了 Linux 桌面。由于 Ubuntu 在 Linux 桌面领域的统治地位，它现在可以在许多有用的硬件架构上运行。Ubuntu 开发背后的公司 Canonical 发布了一张信息图来展示 Ubuntu 的强大和无处不在。看一看:
 
-[![https://fossnaija.com/wp-content/uploads/2018/07/UBUNTU-EVERYWHERE](../Images/696be6aaf9976ed8f9cbf86a5fa07843.png)T2】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/07/UBUNTU-EVERYWHERE.png?ssl=1)
+[![https://fossnaija.com/wp-content/uploads/2018/07/UBUNTU-EVERYWHERE](img/696be6aaf9976ed8f9cbf86a5fa07843.png)T2】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/07/UBUNTU-EVERYWHERE.png?ssl=1)
 
 人的本质
 

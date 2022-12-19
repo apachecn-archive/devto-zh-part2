@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jacoby/the-ethics-of-maintenance-code-1655>
 
-[![Train_wreck_at_Montparnasse_1895.jpg](../Images/f74cefd3243207262e90b9fcb0625b1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VPLMX1wM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jacoby.github.io/images/Train_wreck_at_Montparnasse_1895.jpg)
+[![Train_wreck_at_Montparnasse_1895.jpg](img/f74cefd3243207262e90b9fcb0625b1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VPLMX1wM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jacoby.github.img/Train_wreck_at_Montparnasse_1895.jpg)
 
 我还在一遍又一遍地阅读埃德·巴纳德的推特风暴，他是克雷时代的守旧派开发者，关于 T2 的企业伦理和(真实的)火车事故。
 

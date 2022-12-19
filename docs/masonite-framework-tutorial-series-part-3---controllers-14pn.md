@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/masonite/masonite-framework-tutorial-series-part-3---controllers-14pn>
 
-[![](../Images/32a756bb35faaeb4c1fa1c9d7d480cd0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uhbGxGCp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wxl1ooxdmuik6ocof1ot.png)
+[![](img/32a756bb35faaeb4c1fa1c9d7d480cd0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uhbGxGCp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wxl1ooxdmuik6ocof1ot.png)
 
 # 简介
 

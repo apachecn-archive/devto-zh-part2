@@ -11,6 +11,6 @@
 其他人用一个关于印第安纳琼斯的伟大类比回复了 Ash 的推文:“我喜欢认为印第安纳琼斯…探索和激励并弄清楚它可能被使用的内容和方式”。我喜欢这个！我在很多方面看到测试人员就像琼斯博士一样——无畏的探索者，我们探索前进的道路；我们寻找陷阱和避免它们的方法；我们需要灵活，根据需要快速迭代。除了做得好，我们还努力做好事，经常教导和教育我们周围的人，并确保每个人都为旅程做好准备。我戴着软呢帽看起来也很时髦😉
 
 我们通常对人们有票来捕捉正在完成的工作有强烈的感觉！)
-[![Indiana Jones "no ticket" scene](../Images/8ec9734c3fce0b9cfc571ce15f18bb04.png)T5】](https://res.cloudinary.com/practicaldev/image/fetch/s--NShhk0Vy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2jmq80mdsu13eycynwtl.gif)
+[![Indiana Jones "no ticket" scene](img/8ec9734c3fce0b9cfc571ce15f18bb04.png)T5】](https://res.cloudinary.com/practicaldev/image/fetch/s--NShhk0Vy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2jmq80mdsu13eycynwtl.gif)
 
 我很好奇你会用什么样的类比来描述测试人员！印第安纳琼斯的比较是否引起了你的共鸣，或者其他什么？

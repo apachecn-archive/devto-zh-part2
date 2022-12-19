@@ -139,7 +139,7 @@ $ docker-compose exec nest bash
 
 应用程序目录结构应该是:
 
-[![スクリーンショット 2018-11-11 5.03.17.png](../Images/ed960c6697d048a2f5886e3e5a359006.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kaHJjUbR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/237863/a59c4adc-645e-2cdd-1abd-c95a7e00fe68.png)
+[![スクリーンショット 2018-11-11 5.03.17.png](img/ed960c6697d048a2f5886e3e5a359006.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kaHJjUbR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/237863/a59c4adc-645e-2cdd-1abd-c95a7e00fe68.png)
 
 将以下内容添加到`launch.json`文件中:
 
@@ -186,7 +186,7 @@ $ docker-compose exec nest bash
 
 对于测试操作，在`src/app.service.ts`中添加一些代码，并设置如下断点。
 
-[![スクリーンショット 2018-11-11 4.39.50.png](../Images/dff3e81ef626c1380f3e296e81ddf212.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yjg7gjBC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/237863/a70ddee3-164a-677f-6586-3990e6de6e14.png)
+[![スクリーンショット 2018-11-11 4.39.50.png](img/dff3e81ef626c1380f3e296e81ddf212.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yjg7gjBC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/237863/a70ddee3-164a-677f-6586-3990e6de6e14.png)
 
 在调试模式下运行应用程序:
 
@@ -194,16 +194,16 @@ $ docker-compose exec nest bash
 # npm run debug 
 ```
 
-[![スクリーンショット 2018-11-11 11.52.41.png](../Images/579b34e09b963f26f64b58181784908a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U-DHqvo4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/237863/931c42c5-26a8-2952-4eec-33087b543bae.png)
+[![スクリーンショット 2018-11-11 11.52.41.png](img/579b34e09b963f26f64b58181784908a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U-DHqvo4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/237863/931c42c5-26a8-2952-4eec-33087b543bae.png)
 
 开始对 VScode 进行调试。
 
-[![スクリーンショット 2018-11-11 4.44.01.png](../Images/353791e2a14ee6ae23ffaf6b0632cdff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sbjjWZb2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/237863/f32fc1ac-8ac5-f301-b4fb-feb01be524a4.png)
+[![スクリーンショット 2018-11-11 4.44.01.png](img/353791e2a14ee6ae23ffaf6b0632cdff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sbjjWZb2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/237863/f32fc1ac-8ac5-f301-b4fb-feb01be524a4.png)
 
 打开浏览器并导航至`http://localhost:3000`。
 你应该看到程序在断点处停止。
 
-[![スクリーンショット 2018-11-11 4.52.37.png](../Images/41565848e11c6f8d49439736ea7cc9fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2JFM3XE1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/237863/2d02ff7c-ef44-cc32-b204-232c388531b1.png)
+[![スクリーンショット 2018-11-11 4.52.37.png](img/41565848e11c6f8d49439736ea7cc9fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2JFM3XE1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/237863/2d02ff7c-ef44-cc32-b204-232c388531b1.png)
 
 编码快乐！
 

@@ -9,13 +9,13 @@ T5】](#f1)
 
 我们能从 Reddit 学到一些可以改善 Twitter 的东西吗？为什么人们似乎更喜欢 Twitter、脸书和 Instagram 上的倒序提要，但在 Reddit 和 Hacker News 等网站上，他们更喜欢可能在每次刷新之间完全改变排序的提要？
 
-> ![Burrill Strong profile image](../Images/bbd6776beac82b4621e031485b0f447e.png)伯里尔强@ sgtwolverine![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)我们想要什么？
+> ![Burrill Strong profile image](img/bbd6776beac82b4621e031485b0f447e.png)伯里尔强@ sgtwolverine![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)我们想要什么？
 > 
 > 现在
 > 
 > 一个按时间顺序呈现的社交媒体订阅源
 > 
-> 我们什么时候想要？2018 年 8 月 31 日下午 17:25[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1035579360768655360)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1035579360768655360)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1035579360768655360)
+> 我们什么时候想要？2018 年 8 月 31 日下午 17:25[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1035579360768655360)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1035579360768655360)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1035579360768655360)
 
 Reddit 和 Twitter 都是排名前十的网站，所以这里似乎没有普遍的宏观偏好。
 T3】
@@ -61,11 +61,11 @@ Twitter 能以某种方式避免这个问题吗？
 
 似乎人们喜欢逆时间线。理解为什么事物会以现在的方式出现在你的食物中会让你感到安慰。当你重新加载你的 feed，所有的东西都以不同的顺序排列，有些东西就这样消失了，这让你很沮丧。当你开始打乱人们的时间表时，他们会变得超级热情:
 
-> ![Rachel profile image](../Images/3144df4e5d5b23ddc70b9bba272c3c04.png)瑞秋@ rachloves![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)亲爱的社交媒体应用:
+> ![Rachel profile image](img/3144df4e5d5b23ddc70b9bba272c3c04.png)瑞秋@ rachloves![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)亲爱的社交媒体应用:
 > 请停止打乱时间顺序。我们按时间顺序生活，所以当它到处跳跃时，真的很令人沮丧。
 > 我明白了，你想赚钱。我们都是。找另一种方法做这件事。
 > 真诚，
-> 每一个在线的人曾经2018 年 2 月 09 日下午 15:21[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=961983288750391296)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=961983288750391296)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=961983288750391296)
+> 每一个在线的人曾经2018 年 2 月 09 日下午 15:21[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=961983288750391296)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=961983288750391296)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=961983288750391296)
 
 在一个信任链的环境中，倒序供稿的好处在于，在一个高度关联的图中(例如 Twitter)，平台上的每条推文都有可能在几秒钟内到达你的手中。⁴ 事实证明，最近也是相关性的一个很好的启发。
 
@@ -89,7 +89,7 @@ Hacker News 和 Reddit 都使用强大的 upvote，但它们对待它们的方�
 
 我们希望你的主页能让你看到朋友们在分享什么，进行对话，并帮助你找出接下来应该听什么。对于像其他播客应用程序一样想要一个纯粹的倒序提要的人，我们包括了一个专门的订阅提要 [⁶](#f6) ，但这不是戏谑的目的。
 
-[![Episodes and Clips in the Banter feed. ](../Images/2e2a13eba9118afb0c77253cd35bb041.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z_gXGzt3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/51tz8lw1c7lb3fiunmrt.jpeg)
+[![Episodes and Clips in the Banter feed. ](img/2e2a13eba9118afb0c77253cd35bb041.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z_gXGzt3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/51tz8lw1c7lb3fiunmrt.jpeg)
 
 ### 我们的算法
 
@@ -105,7 +105,7 @@ Hacker News 和 Reddit 都使用强大的 upvote，但它们对待它们的方�
 
 在 Reddit 上，没有对象永恒的感觉。一旦你刷新了你的订阅源，你可能再也看不到任何帖子了，尽管你会愿意相信它在文件夹下面的某个地方。在戏谑中，你知道一旦你在你的 feed 中看到一个项目，它就会永远在那里。如果你以后想给朋友看，你可以一直向下滚动找到它。
 
-> ![Brian Phillips profile image](../Images/07d3590e49e78658f4752c909910cd7f.png)
+> ![Brian Phillips profile image](img/07d3590e49e78658f4752c909910cd7f.png)
 
 在 Twitter 上，有一种感觉，如果你不经常查看，你可能会错过一些重要的东西。我们通过确保受欢迎的项目在您的订阅源中的位置更高来降低这种可能性。你不需要向下滚动来找到重要的东西。
 
@@ -149,7 +149,7 @@ Hacker News 和 Reddit 都使用强大的 upvote，但它们对待它们的方�
 
 【7】更具体地说(通过调整以避免域错误)，我们的顺序是:
 
-[![](../Images/fc978a0e884e2583b9a80ec87b95c770.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GdHj-cBQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m4ota39pwbjrppo7hl4j.png)
+[![](img/fc978a0e884e2583b9a80ec87b95c770.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GdHj-cBQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m4ota39pwbjrppo7hl4j.png)
 
 其中，目前 N = 3。
 

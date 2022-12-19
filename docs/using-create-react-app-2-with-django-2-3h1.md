@@ -103,7 +103,7 @@ WEBPACK_LOADER = {
 
 当构建过程失败时，它还会显示 webpack 错误。
 
-[![Webpack error in Django](../Images/95777009a321bec9a2561c7437ce5d99.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K65Dqh9L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.rousek.name/public/django-webpack-error.png)
+[![Webpack error in Django](img/95777009a321bec9a2561c7437ce5d99.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K65Dqh9L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.rousek.name/public/django-webpack-error.png)
 
 我很高兴让姜戈和 CRA 以这种方式合作，我只能推荐这种方式。
 

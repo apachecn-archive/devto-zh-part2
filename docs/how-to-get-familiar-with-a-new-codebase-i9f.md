@@ -4,7 +4,7 @@
 
 我们大多数人经常需要熟悉一个新的代码库。你可能是一个渴望为另一个项目做贡献的开源男孩/女孩，或者你刚开始一份新工作，你想熟悉这个将成为你未来几个月/几年生活中重要部分的平台…或者只是为了好玩，因为现在谁还看喜剧呢？
 
-[![](../Images/d6df1fe7a41fadf5a78b36c4808c74ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t5Fs4RXE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/311/1%2AJs4O-RaZbAfFa-UIw_1LJw.jpeg)
+[![](img/d6df1fe7a41fadf5a78b36c4808c74ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t5Fs4RXE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/311/1%2AJs4O-RaZbAfFa-UIw_1LJw.jpeg)
 
 在这个美丽的星球上，熟悉新的代码库是每个软件工程师都应该掌握的基本技能。
 

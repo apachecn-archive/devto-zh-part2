@@ -18,7 +18,7 @@
 
 最终的结果是一个系统，可以让远程脑电图分析师几乎实时地检查样本。
 
-[![eeg-visualization](../Images/9e30352de96ad96694fce46de9e37d7c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LDx4NnVl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/eeg_poc_tableau_viz.png)
+[![eeg-visualization](img/9e30352de96ad96694fce46de9e37d7c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LDx4NnVl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/eeg_poc_tableau_viz.png)
 
 下面，我将展示我是如何设置这个系统的。但是，在那几句警告之前。
 

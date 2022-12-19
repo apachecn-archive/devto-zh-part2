@@ -4,7 +4,7 @@
 
 你可能想知道为什么我要写一篇关于错误处理的博文，因为我们都写了从不出错的代码。对吗？
 
-[![laughing](../Images/368fed31415b64907cbc77ab9941246d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d6bAo347--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.prestonlamb.com/static/img/dumb-and-dumber-lauging.gif)
+[![laughing](img/368fed31415b64907cbc77ab9941246d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d6bAo347--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.prestonlamb.com/static/img/dumb-and-dumber-lauging.gif)
 
 如果你和我一样，你知道那不是真的。错误是发展的一部分。我们努力消除尽可能多的缺陷，但仍有一些缺陷会进入生产。因此，当它们发生时，优雅地处理它们是很重要的，这样用户就不会感觉到这些错误的影响。
 
@@ -36,4 +36,4 @@
 
 自从发表了这篇文章，我学到了另一件关于在拦截器服务中捕捉错误的事情。当你在拦截器服务中的 rxjs Observable 上使用`.pipe()`函数时，你既可以`tap`进入流，也可以使用`catchError`函数；两个都管用。然而，这有很大的不同。如果你使用`catchError`，一切都在那里结束。错误被捕获，但是您不能同时捕获调用 API 的组件中的错误。因此，如果在提交表单时确实显示了 loader 元素，那么在错误发生后就无法隐藏它了。如果使用`tap`函数，您仍然可以查看错误，提示错误消息，然后在调用组件中捕获错误。下面是一个简短的代码示例来帮助解释这一点:
 
-[![An example intercept function in the HTTP Interceptor](../Images/8cbc566c7b3d1da94d048913ffbfcf8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FXQW5ixc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestonlamb.com/static/images/blogPosts/angularGlobalErrorHandling/intercept-function.png)
+[![An example intercept function in the HTTP Interceptor](img/8cbc566c7b3d1da94d048913ffbfcf8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FXQW5ixc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestonlamb.com/statimg/blogPosts/angularGlobalErrorHandling/intercept-function.png)

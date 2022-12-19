@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/c0depanda/flexing-with-css-flexbox-1a2l>
 
-[![](../Images/fc63b1a2371911f47e34163b7da40471.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I0s7oD8H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AYbtE_wqudjWLSmNbFLL1uA.png)
+[![](img/fc63b1a2371911f47e34163b7da40471.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I0s7oD8H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AYbtE_wqudjWLSmNbFLL1uA.png)
 
 Flexbox 也称为 flexible box，是 CSS 中的一种布局模型，使设计响应性布局变得非常容易。
 
@@ -94,7 +94,7 @@ flex-wrap 属性指定 flex 项目是否应该换行。
 } 
 ```
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/?cid=banner_a)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/?cid=banner_a)
 
 ### 弹性项目
 
@@ -168,7 +168,7 @@ flex-basis 属性接受以[长度单位](https://www.w3schools.com/cssref/css_un
 
 ### Plug: [LogRocket](http://logrocket.com) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

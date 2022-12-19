@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ugis22/predicting-survival-in-patients-exploratory-analysis-5aj2>
 
-[![](../Images/23a7bd7b1709330352e1d7bde0ca0007.png)T2】](https://cdn-images-1.medium.com/max/1024/1*4qCvEGLb6Iqt5ECJvBAwtA.jpeg)
+[![](img/23a7bd7b1709330352e1d7bde0ca0007.png)T2】](https://cdn-images-1.medium.com/max/1024/1*4qCvEGLb6Iqt5ECJvBAwtA.jpeg)
 
 #### 构建我的第一个数据科学项目
 

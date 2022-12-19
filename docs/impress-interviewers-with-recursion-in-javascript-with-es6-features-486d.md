@@ -77,7 +77,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我熟悉了这个 API，为 Reddit 贡献创建了以下可视化效果(GitHub 的贡献图风格)，[在 ObservableHQ 上看到](https://beta.observablehq.com/@hugodf/reddit-contributions-per-week-graph),[博客版本也是实时的](https://accountableblogging.com/post-frequency):
 
-[![GitHub-style contribution graph for Reddit](../Images/41f7fd6a9105278f0a1205d45daf6224.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AfZyJ79s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_55FB281D4CEA97DF7A863A43508C5F8A03ED2CBE43CBD0A7C2D8693AF9B9134C_1538222014400_image.png)
+[![GitHub-style contribution graph for Reddit](img/41f7fd6a9105278f0a1205d45daf6224.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AfZyJ79s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_55FB281D4CEA97DF7A863A43508C5F8A03ED2CBE43CBD0A7C2D8693AF9B9134C_1538222014400_image.png)
 
 ## 📃计算字符数
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/stefvardalos/cooklist--from-idea-to-project-to-finished-app-31o0>
 
-[![Idea from a need](../Images/e26a395175c659a8da5a42d1c6f2c861.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uqykvrzk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://stefvardalos.github.io/img/posts/cooklist/appidea.jpg)
+[![Idea from a need](img/e26a395175c659a8da5a42d1c6f2c861.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uqykvrzk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://stefvardalos.github.io/img/posts/cooklist/appidea.jpg)
 
 每个开发人员都应该试着花些时间在副业项目上，要么提高他的开发技能，要么满足他的创造力需求。有一份全职工作可能很难，但是这个兼职项目的美妙之处在于你可以按照自己的节奏去做。第一步是找到一个你想去做的想法。它可以是任何东西，但它将对最终到来的拖延有很大帮助，如果它是与你自己的兴趣相近的东西。此外，请记住在开发过程中尝试新技术，因为这将有助于你的职业发展，同时也能让你的职业生涯一直保持有趣。
 
@@ -11,7 +11,7 @@
 # 主意来自日常使用
 
 我在寻找一个兼职项目，但我开始做的任何事情都很快被放弃，要么是因为失去兴趣，要么是因为纯粹的懒惰。我的一些想法要么太复杂，要么需要大量的工作(不容易独自完成)。我试图找到一些与我的日常工作相关的东西。我最大的兴趣之一是音乐，所以我试着找一些相关的东西。我也是 Spotify 的常客，所以当我在网上搜索并发现他们有一个 API 来处理他们的数据时，我立即开始研究它，以得出一个应用程序的计划。
-[![Idea from a need](../Images/d85b414565c018f0dd0875d107a2c617.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--BroNNb9i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://stefvardalos.github.io/img/posts/cooklist/ideabook.jpg)
+[![Idea from a need](img/d85b414565c018f0dd0875d107a2c617.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--BroNNb9i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://stefvardalos.github.io/img/posts/cooklist/ideabook.jpg)
 
 *不要害怕写下你的想法，这有助于*
 
@@ -31,7 +31,7 @@
 我开始实现我的后端服务，创建简单的端点，我知道这些端点以后会转化为实际的应用程序功能。这里可以提出的另一个有用的观点是，你不必从头开始做任何事情。搜索和重用别人已经创建的东西，并尝试在它们的基础上进行构建。在那一点上，一个非常好的 NodeJS 包装器给了 Spotify 的 API 很大的帮助，这个包装器来自 [thelinmichael](https://github.com/thelinmichael/spotify-web-api-node) 。使用它，我开始创建搜索艺术家的端点，然后获取相关的艺术家，然后获取特定艺术家的音轨等等。一旦我用端点编写了非常基本的逻辑，我知道我可以开始实现一个简单的附带 UI。
 
 应用程序的 UI 部分是一个常规的 Angular 6 应用程序，但正如我所说，我想使用共价 UI 平台。应用程序的第一次迭代完全建立在共价的用户界面风格上，但结果并不完全符合我的喜好。虽然我可以方便地使用共价平台的所有强大组件，但它的美学太像一个仪表板，而不是一个应用程序。虽然我坚持了最初的决定一段时间，但最终我删除了大部分共价，并继续将一个漂亮的 HTML5+CSS3 主题从 [html5up](https://html5up.net/) 转换成角度代码。此外，我希望能够创建一些可视化效果，丰富我可以从 Spotify 的端点获得的数据。为此，我选择了强大的 [Echarts](https://ecomfe.github.io/echarts-doc/public/en/index.html) 库，用它我可以为应用程序构建漂亮的图表。
-[![real development](../Images/133413b4fab435400147c9b0a229710e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yThu0tbg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://stefvardalos.github.io/img/posts/cooklist/developcoffee.jpg)
+[![real development](img/133413b4fab435400147c9b0a229710e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yThu0tbg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://stefvardalos.github.io/img/posts/cooklist/developcoffee.jpg)
 
 *咖啡，开发商的实权*
 
@@ -56,7 +56,7 @@
 # App 部署
 
 当以上所有工作完成后，我对结果非常满意，我决定冻结新特性，继续部署应用程序。我在网上搜索了一下，看看我有哪些服务 NodeJS 应用程序的选择，尽管在开发期间我尝试了 Heroku，但最终我选择了 Google Cloud，它提供了一个很棒的免费试用，如果你在第一年花费 300 美元，至少对于我想运行的测试来说是足够的。最重要的是，由于我以前有 AWS 基础设施的经验，我也想检查一下谷歌云，因为我对谷歌 AppEngine 的经验有限。从那时起，我开始研究 docker 和 Kubernetes，在这方面我所知甚少，过了一段时间，我可以构建我的应用程序的 Docker 映像，将其上传到 Google 的容器注册表，并通过 Kubernetes 使用 gcloud cli 工具将其部署到一个集群中。
-[![docker with gcloud](../Images/85c63af2b377e2fdba7c6bec48342d38.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--n4j2v1CO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://stefvardalos.github.io/img/posts/cooklist/containers.jpg)
+[![docker with gcloud](img/85c63af2b377e2fdba7c6bec48342d38.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--n4j2v1CO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://stefvardalos.github.io/img/posts/cooklist/containers.jpg)
 
 *不是那种容器*
 
@@ -68,7 +68,7 @@
 
 # 总结
 
-[![only real playlist](../Images/d22070dc04f830f731625dc3f5b9f151.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oMbE78UT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://stefvardalos.github.io/img/posts/cooklist/cassette.jpeg)
+[![only real playlist](img/d22070dc04f830f731625dc3f5b9f151.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oMbE78UT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://stefvardalos.github.io/img/posts/cooklist/cassette.jpeg)
 
 *唯一真实播放列表*
 

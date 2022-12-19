@@ -31,7 +31,7 @@
 
 #### 制定计划
 
-[![](../Images/226d92ba8563ef1cc16dcf543b0e75b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B-iQxaFc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AsnaikpRqrNElf5gocsSTEQ.jpeg)
+[![](img/226d92ba8563ef1cc16dcf543b0e75b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B-iQxaFc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AsnaikpRqrNElf5gocsSTEQ.jpeg)
 
 有了这些信息，我知道我需要在几个关键领域提升自己的水平:
 
@@ -53,7 +53,7 @@
 
 ### 学习 React 和 Redux，阅读你不知道的 JS
 
-[![](../Images/00d24ac0eb3333571323eb8bdae98794.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yBTvCu_h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Agu-JMdJu3R7w6_qsOSO3KA.jpeg)
+[![](img/00d24ac0eb3333571323eb8bdae98794.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yBTvCu_h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Agu-JMdJu3R7w6_qsOSO3KA.jpeg)
 
 我以前使用 Youtube 视频和普通网络教程做过一点 React，但这次我想确保我正确地学习了它。这让我从 Udemy 获得了 [*React JS 和 Redux:掌握 Web App*](https://www.udemy.com/react-js-and-redux-mastering-web-apps) 课程。
 
@@ -79,7 +79,7 @@
 
 #### [节点与 React: Fullstack Web 开发](https://www.udemy.com/node-with-react-fullstack-web-development)
 
-[![](../Images/86e6928f8fb92a94554edca46196ba72.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h7HE51fv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/480/1%2AU5qMs9sbR2Ra01dOdb9DJw.jpeg)
+[![](img/86e6928f8fb92a94554edca46196ba72.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h7HE51fv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/480/1%2AU5qMs9sbR2Ra01dOdb9DJw.jpeg)
 
 实际上，我已经在这里对这门[课程做了全面的回顾，这是一门很棒的课程。](https://medium.com/@samwsoftware/node-and-react-fullstack-course-review-d8672c8518eb)
 
@@ -95,7 +95,7 @@
 
 在中国的某个时候，我决定写一篇关于在中国尝试发展是多么糟糕的文章。它被自由代码营出版物接受，现在有 1.6K 的阅读量和 791 次鼓掌。我很惊讶人们读了我写的东西并且喜欢它。
 
-[![](../Images/21ecb19a3bb54f5608c6fca96427de23.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jk15lVUA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ar2Kcaw_jS1o8BiojZINpoA.png) 
+[![](img/21ecb19a3bb54f5608c6fca96427de23.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jk15lVUA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ar2Kcaw_jS1o8BiojZINpoA.png) 
 
 <figcaption>我的文章前 30 天的统计数据。你能算出它是什么时候被放到自由代码营的吗？</figcaption>
 
@@ -111,7 +111,7 @@
 
 这正是我所做的。这就是结果。我之前说过，我不是设计师，但是效果很好。我甚至使用 wordpress API 在页面上发布博客文章。
 
-[![](../Images/b4ea2df1683eab23c9f972d6a7d61522.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fPR_leDP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AXNYBkBaKERnw5-F17bSjKQ.png)
+[![](img/b4ea2df1683eab23c9f972d6a7d61522.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fPR_leDP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AXNYBkBaKERnw5-F17bSjKQ.png)
 
 我知道这个设计很糟糕，所以我把它贴在了一个网页设计评论的子编辑上。我得到了很多好的建议，其中大部分都是关于花几个月的时间研究和学习网页设计的基础知识。
 
@@ -135,7 +135,7 @@
 
 有一次面试让我设想一下，如果一家公司的网站很糟糕，客户服务很少，我会为这家公司做些什么。这很酷，因为它促使我学习原型制作。我写了一系列的文章，讲述我是如何构建和充实网站的。你可以看网站[这里](https://golden-shoes.herokuapp.com/)看我的[文章这里](https://hackernoon.com/creating-a-shopping-app-from-scratch-part-1-352ebbd78655)。
 
-[![](../Images/4047879dc03babec3703b5a818cfe949.png)T2】](https://hackernoon.com/creating-a-shopping-app-from-scratch-part-1-352ebbd78655)
+[![](img/4047879dc03babec3703b5a818cfe949.png)T2】](https://hackernoon.com/creating-a-shopping-app-from-scratch-part-1-352ebbd78655)
 
 我在这上面做的最后一件事是创建一个聊天机器人来返回订单。我不得不学习聊天机器人的工作原理，花了大约一周的时间才得到一个像样的工作版本。这是我得到这份工作的一个重要因素。
 
@@ -157,7 +157,7 @@
 
 ### 要约和谈判
 
-[![](../Images/3261f367492938e8e62aae4d26d89613.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P2mizius--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AmjRgciwVUqZKPL7GT6Uegw.jpeg)
+[![](img/3261f367492938e8e62aae4d26d89613.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P2mizius--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AmjRgciwVUqZKPL7GT6Uegw.jpeg)
 
 从我的前三次面试，我有两个提议。第四次面试后，我知道他们不适合我，所以让他们知道我不会考虑他们的录用。如果你遇到类似的情况，如果你知道你不会接受他们的提议，尽量不要误导他们。
 

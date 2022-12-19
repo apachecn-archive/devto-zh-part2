@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/smn/learn-solidity-to-write-smart-contracts-and-ethereum-dapps-4gkn>
 
-[![Solidity logo](../Images/58765ea24c71461c81ea568726ae5ea9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IWPAM0dy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v0aoa7z06lflok510tl0.png)
+[![Solidity logo](img/58765ea24c71461c81ea568726ae5ea9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IWPAM0dy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v0aoa7z06lflok510tl0.png)
 
 今天，如果你知道如何用 Solidity 语言编写，你可以很容易地在以太坊区块链上创建一个去中心化的应用程序(dapp)。这是一种相对较新的面向区块链的编程语言，它的主要目的是让你为你的 dapp 编写事务处理程序。
 

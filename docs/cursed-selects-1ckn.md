@@ -8,7 +8,7 @@
 
 当然，也有一些成功的解决方案，例如，自定义选择 bootstrap、jQuery 以及类似的著名的 React.js 组件。但是即使在这些情况下，泄漏抽象的数量也不是零，只是比其他类似的情况少。如果您认为您知道一个证明相反情况的例子，其中一组 div 的行为与原始 select 完全相同，并且没有抽象泄漏，那么您应该立即记住浏览器中表单的自动完成或长下拉列表和低浏览器窗口。
 
-[![1.jpg](../Images/e90545c4fbde3a45e03b6f271ba5b904.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rlqj-6CL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vault8.io/f95b20ebe15c40f9bd6658aacf91.jpg/autoorient%2Cresize_fit-1920-1080/1.jpg%3Fp%3D0aa930d138b25b338ee16fe%26s%3Dfe3f4586fd85ea1e9884b07a5be69b8c77f7795f)
+[![1.jpg](img/e90545c4fbde3a45e03b6f271ba5b904.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rlqj-6CL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vault8.io/f95b20ebe15c40f9bd6658aacf91.jpg/autoorient%2Cresize_fit-1920-1080/1.jpg%3Fp%3D0aa930d138b25b338ee16fe%26s%3Dfe3f4586fd85ea1e9884b07a5be69b8c77f7795f)
 
 顺便说一下，当浏览器年轻的时候，Internet Explorer 只梦想第七版，Chrome 根本不存在，选择甚至更加独立。一些浏览器，显然是由于一些内部限制，拒绝以标准方式实现下拉列表，而是使用了技巧。这种笨拙的未经打磨的笨重的杂牌汽车。根本不存在选择其他风格的问题，还有更严重的问题。例如，具有绝对位置和增加的 z-index 的 div 不能仅仅因为下拉列表不是文档的一部分就在内部包含选择输入组件。所有选择都是从整个文档中单独呈现的，事实上，是在文档的顶部。如果您突然想创建一个类似模态窗口的东西，那么在额外的 javascript 代码的帮助下，您可以应用这样一个忍者技巧:当打开任何模态 div 元素时，页面上的所有下拉列表都用`visibility: hidden`更新。你可能还会注意到，在速度较慢的电脑上，当滚动页面时，选择位置的计算会滞后一点。Select 计算其位置的时间比页面本身计算的时间要晚一点，移动时也有一点延迟。
 

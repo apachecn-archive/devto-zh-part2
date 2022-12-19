@@ -8,7 +8,7 @@
 
 可能只有我，但当我第一次打开 dev.to 时，我看到右上角的“bell”图标带有一个红色的通知戳；就像你收到通知时在应用程序上看到的那样。
 
-[![alt text](../Images/435ed504989a19bee3c63093cd4b9a84.png "dev.to bell with notification")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--auI9fpwx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3z4n9d5njn9faevnuv5a.png)
+[![alt text](img/435ed504989a19bee3c63093cd4b9a84.png "dev.to bell with notification")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--auI9fpwx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3z4n9d5njn9faevnuv5a.png)
 
 我...仅仅...情不自禁...我不得不点击它...
 

@@ -46,7 +46,7 @@
 
 无论你如何分割你的应用程序，微服务成功的一个普遍原则是保持应用程序之间的解耦。否则，你肯定会面临一连串的不利因素。有些人认为这一结果具有讽刺或幽默的意味:
 
-> ![Honest Status Page profile image](../Images/4249a29d6e1738678297240090f953ab.png)Honest 状态页面@ Honest _ update![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)我们用微服务取代了我们的 monolith，这样每一次宕机都可以更像一个谋杀之谜。2015 年 10 月 07 日晚 23 点 10 分[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=651897353889259520)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=651897353889259520)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=651897353889259520)
+> ![Honest Status Page profile image](img/4249a29d6e1738678297240090f953ab.png)Honest 状态页面@ Honest _ update![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)我们用微服务取代了我们的 monolith，这样每一次宕机都可以更像一个谋杀之谜。2015 年 10 月 07 日晚 23 点 10 分[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=651897353889259520)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=651897353889259520)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=651897353889259520)
 
 要求实时、一致地访问由另一个服务管理的功能或数据是导致灾难的原因——因此我们寻找清晰的隔离线，并异步传递其余数据。这避免了一个服务调用另一个服务、另一个服务调用另一个服务等等的间接性。
 
@@ -76,13 +76,13 @@ Apache Kafka 将自己描述为一个“分布式提交日志”或一个“事�
 
 这可能会让你吃惊，但是步骤 1 实际上是在我们的 monolith 上添加了更多的代码！您通常需要访问新服务中的数据，所以第一步是通过 monolith 中的 Kafka 生成器将数据推送到 Kafka。
 
-[![Step 1](../Images/0a8d6be2ae6b29cb6f2580488b93f121.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dVLYUwXD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1520536183-Step-1.jpg)
+[![Step 1](img/0a8d6be2ae6b29cb6f2580488b93f121.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dVLYUwXD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1520536183-Step-1.jpg)
 
 ## 第二步:将流消费到数据库中
 
 在我们开始提取逻辑之前，我们将准备我们的数据存储，这将使我们的服务与生态系统的其余部分分离。这个新服务最初只是包含一个消费者和数据存储，允许本地访问状态。根据您的应用程序，您可能需要通过执行数据迁移来回填历史数据。
 
-[![Step 2](../Images/c2132423b81ecad4ae3a61e921b85daa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jF9wLwTr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1520536202-Step-2.jpg)
+[![Step 2](img/c2132423b81ecad4ae3a61e921b85daa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jF9wLwTr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1520536202-Step-2.jpg)
 
 ## 第三步:测试消费者
 
@@ -98,7 +98,7 @@ Kafka 在你的系统处于高负载时充当缓冲器的能力是它的一个�
 
 警惕可能触发电子邮件或产生其他意外副作用的功能-您可能需要禁用一些外部呼叫。
 
-[![Step 4](../Images/8a13e81c11e8385dbaef23c1e0228e98.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A9Z2eOHv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1520536222-Step-4.jpg)
+[![Step 4](img/8a13e81c11e8385dbaef23c1e0228e98.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A9Z2eOHv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1520536222-Step-4.jpg)
 
 ## 第五步:添加、测试和消费事件触发器
 
@@ -106,13 +106,13 @@ Kafka 在你的系统处于高负载时充当缓冲器的能力是它的一个�
 
 你可以通过跟踪卡夫卡，确保你期望的事件流过，来检查这些是否有效。一旦您满意了，就将消费者添加到您的服务中，该服务将处理这些事件，执行服务中的相关过程。
 
-[![Step 5](../Images/5050fbbca928386c010f2b9a54c0e2b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_N9s3j3e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1520536248-Step-5.jpg)
+[![Step 5](img/5050fbbca928386c010f2b9a54c0e2b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_N9s3j3e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1520536248-Step-5.jpg)
 
 ## 第六步:推回事件
 
 您可能需要与 monolith 进行沟通，因此您需要服务中的生产者和 monolith 中的消费者来处理此事。
 
-[![Step 6](../Images/2e636e819ac7794ba1724b8d01fc994f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CAz-_WVG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1520536258-Step-6.jpg)
+[![Step 6](img/2e636e819ac7794ba1724b8d01fc994f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CAz-_WVG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1520536258-Step-6.jpg)
 
 ## 第七步:测试动作事件
 
@@ -124,7 +124,7 @@ Kafka 在你的系统处于高负载时充当缓冲器的能力是它的一个�
 
 最后，我们可以从整体中移除提取的逻辑。这可能需要一段时间，但已经安全地实现了。
 
-[![Step 8](../Images/1f1eb701f632861c639ef839f1c03bb9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PonyH4-z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1520536269-Step-8.gif)
+[![Step 8](img/1f1eb701f632861c639ef839f1c03bb9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PonyH4-z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://heroku-blog-files.s3.amazonaws.com/posts/1520536269-Step-8.gif)
 
 # 今天换班去哪里了？
 

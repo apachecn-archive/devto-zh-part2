@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/teekay/actionable-advice-to-start-learning-to-code-38g0>
 
-[![](../Images/a98314372d5d8b0d8d42f85bd9242c1b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j0mJ_1OG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AXthWUtD_NU-VJ7ESA2qX3A.jpeg)
+[![](img/a98314372d5d8b0d8d42f85bd9242c1b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j0mJ_1OG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AXthWUtD_NU-VJ7ESA2qX3A.jpeg)
 
 当我开始分享我关于[掌握编程](https://medium.com/the-renaissance-developer)和[黑我的教育](https://medium.com/the-renaissance-developer/how-i-hack-my-education-354fb5b8a025)的旅程时，人们真的很感兴趣，问了我很多关于如何开始学习编码的问题。
 
@@ -22,7 +22,7 @@
 
 记住:这不是短跑。这是一场漫长的马拉松。不要指望一夜之间学会所有的东西。事情不是这样的。
 
-[![](../Images/39f80b2b8bedeb5eaa2ca82cc510b4e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4aoCJt55--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ATWEjK-8fXse8_4lyz-2YRA.png)
+[![](img/39f80b2b8bedeb5eaa2ca82cc510b4e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4aoCJt55--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ATWEjK-8fXse8_4lyz-2YRA.png)
 
 #### 秘诀之二:不断学习
 
@@ -87,7 +87,7 @@
 
 另一个很棒的站点是[黑客等级](https://www.hackerrank.com/)。该网站有很多编程语言可供选择。但不仅如此，你还可以做其他领域的练习。我很喜欢 Hacker Rank 的解题练习。你会收到很多输入，你的算法需要通过所有的测试。
 
-[![](../Images/ef4e435afc1be0b2ae77745553d813dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1Mp6TZV5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AbkvDxLVBKJ1Gd8cA86B-fg.png)
+[![](img/ef4e435afc1be0b2ae77745553d813dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1Mp6TZV5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AbkvDxLVBKJ1Gd8cA86B-fg.png)
 
 我真正热衷的另一件事是竞争性编程。我在大学里做了两年，参加像 ACM ICPC 这样的比赛。
 

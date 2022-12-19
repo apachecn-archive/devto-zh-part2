@@ -12,7 +12,7 @@
 
 ## 什么是[有向无环图](https://perfectial.com/blog/dag-vs-blockchain/)？
 
-[![What is a DAG (Directed Acyclic Graph)?](../Images/feb014ff69dda4464e9e27d9ff3d82b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lZmR8npT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://perfectial.com/wp-content/uploads/2018/03/img3-4.jpg)
+[![What is a DAG (Directed Acyclic Graph)?](img/feb014ff69dda4464e9e27d9ff3d82b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lZmR8npT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://perfectial.com/wp-content/uploads/2018/03/img3-4.jpg)
 
 就数据结构而言，区块链可以被认为是简单的链表。比特币或以太坊(或其他网络)上的每个条目都被放在它所引用的前一个条目之上。这就是我们如何得到数字事件的线性序列，我们称之为链。
 

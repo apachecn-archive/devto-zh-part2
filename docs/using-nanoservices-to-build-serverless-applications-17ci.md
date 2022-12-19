@@ -2,11 +2,11 @@
 
 > 原文：<https://dev.to/tmclaughbos/using-nanoservices-to-build-serverless-applications-17ci>
 
-[![nanoservices.png](../Images/03c417ae48f6d1aec850da219fb3d9f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bmdOCI4R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.serverlessops.io/hs-fs/hubfs/blog/nanoservices.png%3Ft%3D1521502962558%26width%3D800%26height%3D419%26name%3Dnanoservices.png)
+[![nanoservices.png](img/03c417ae48f6d1aec850da219fb3d9f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bmdOCI4R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.serverlessops.io/hs-fs/hubfs/blog/nanoservices.png%3Ft%3D1521502962558%26width%3D800%26height%3D419%26name%3Dnanoservices.png)
 
 [AWS 无服务器应用程序库(SAR)](https://aws.amazon.com/serverless/serverlessrepo/) 的[最近的一般可用性状态](https://aws.amazon.com/blogs/aws/now-available-aws-serverless-application-repository/)代表了一个里程碑，并促进了我们在未来几年如何构建应用程序的重大飞跃。SAR 允许我们发布可重用的领域逻辑——纳米服务——我们可以用它来组成我们自己的功能应用程序。有这种想法的不止我一个人。在过去的几周里，我与无服务器领域的许多人进行了交谈，或者看到他们各自得出了类似的结论。
 
-> ![Jared Short profile image](../Images/c01b975ff10f6176c6d93ed2b4c042d6.png)Jared Short[@ shortjared](https://dev.to/shortjared)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)我们正在接近可组合服务的理论，比我想象的要快得多。例如，我们需要 appsync 的使用限制。我们只要把 APIG 放在 appsync 前面就行了。绝对疯狂。无服务器==可组合服务。2018 年 3 月 17 日下午 17:24[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=975060195264131074)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=975060195264131074)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=975060195264131074)
+> ![Jared Short profile image](img/c01b975ff10f6176c6d93ed2b4c042d6.png)Jared Short[@ shortjared](https://dev.to/shortjared)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)我们正在接近可组合服务的理论，比我想象的要快得多。例如，我们需要 appsync 的使用限制。我们只要把 APIG 放在 appsync 前面就行了。绝对疯狂。无服务器==可组合服务。2018 年 3 月 17 日下午 17:24[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=975060195264131074)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=975060195264131074)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=975060195264131074)
 
 液体错误:内部
 
@@ -54,11 +54,11 @@
 
 我最初的图表大致是这样的。
 
-[![ACM-1 diagram](../Images/62c958bf184441748f85ec9434aad20b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UYaim18i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.serverlessops.io/hubfs/blog/ACM-1%2520diagram.png%3Ft%3D1521502962558)
+[![ACM-1 diagram](img/62c958bf184441748f85ec9434aad20b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UYaim18i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.serverlessops.io/hubfs/blog/ACM-1%2520diagram.png%3Ft%3D1521502962558)
 
 弄清楚分析平台是什么很难，但我只想停止盯着 CSV 文件，这样我就可以开始理解我拥有的数据。我最终选择了 S3 和 AWS Athena 作为开始，并且知道我可能会继续前进，我使用了一个 SNS 主题来分离读取计费报告的函数和向 S3 写入的函数。这意味着当我想迁移到一个新的分析平台时，我不必重构读取计费报告的功能。我现在有的是这个:
 
-[![ACM-2 diagram](../Images/2452e7f41443c3f28c8db9946bbf1a7d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tEs3ErlL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.serverlessops.io/hubfs/blog/ACM-2%2520diagram.png%3Ft%3D1521502962558)
+[![ACM-2 diagram](img/2452e7f41443c3f28c8db9946bbf1a7d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tEs3ErlL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.serverlessops.io/hubfs/blog/ACM-2%2520diagram.png%3Ft%3D1521502962558)
 
 看着这个图，我意识到我需要将应用程序分解成更小的、独立的部分。如果用户真的发现 Athena 对他们的需求有用呢？如果他们更喜欢用不同于我选定的东西呢？我不想维护一半代码都相同的多个应用程序，或者看着其他人觉得有趣的分叉的扩散。必须有一种方法使核心有价值的代码可重用，而其他代码可以根据个人喜好进行交换和替换。
 
@@ -68,7 +68,7 @@
 
 我继续将应用成本监控分解成更小的部分。我现在有两个服务:一个由 S3 事件触发，将检索账单报告、解析和发布行项目；另一个服务将向 S3 写一个行项目，以便可以用 Athena 进行搜索。
 
-[![ACM-3 diagram](../Images/90f8f7147169acb8c18ea5900b1127a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lwQ6tRpX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.serverlessops.io/hubfs/blog/ACM-3%2520diagram.png%3Ft%3D1521502962558)
+[![ACM-3 diagram](img/90f8f7147169acb8c18ea5900b1127a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lwQ6tRpX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.serverlessops.io/hubfs/blog/ACM-3%2520diagram.png%3Ft%3D1521502962558)
 
 *applicationcostmoning*不能单独使用。但是它是有用的、可部署的和可重用的。
 
@@ -86,17 +86,17 @@
 
 AWS 无服务器应用程序存储库的普遍可用代表了使用纳米服务进步的一个重要时刻。它开始帮助解决该领域最大的问题之一:纳米服务的可发现性。有人怎么知道*applicationcostmoning*存在，并且已经解决了他们的一个问题？这就是为什么我在 SAR 上发布了*应用成本监控*。
 
-[![ACM-SAR](../Images/46a102d7a062416815e42a8e0b452f58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Iweayl-s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.serverlessops.io/hubfs/blog/ACM-SAR.png%3Ft%3D1521502962558)
+[![ACM-SAR](img/46a102d7a062416815e42a8e0b452f58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Iweayl-s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.serverlessops.io/hubfs/blog/ACM-SAR.png%3Ft%3D1521502962558)
 
 在向 SAR 发布了*applicationcostmoning*和多个 publisher nanoservices 之后，其他人现在可以找到它们，并组成自己的系统来分析他们的 AWS 支出。人们可以使用它们来编写符合他们需求的应用程序。更令人兴奋的是，他们可以使用我的纳米服务来构建我从未想过甚至想象过的应用程序，他们可以自由地将更多的时间和精力放在我没有想到的事情上，而不是解决我已经解决的问题。不是重新发明轮子，如果你愿意的话。
 
 *S3 出版商和雅典娜的应用成本监控*
 
-[![ACM-5 diagram](../Images/6e091b3ec756a08288d88faddbca9c5c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mw7BQHbY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.serverlessops.io/hubfs/blog/ACM-5%2520diagram.png%3Ft%3D1521502962558)
+[![ACM-5 diagram](img/6e091b3ec756a08288d88faddbca9c5c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mw7BQHbY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.serverlessops.io/hubfs/blog/ACM-5%2520diagram.png%3Ft%3D1521502962558)
 
 *利用 DynamoDB 支持 web 应用的应用成本监控。*
 
-[![ACM-7 diagram](../Images/87f327798c4da3ed682c797f331dd52b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Eog02ry3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.serverlessops.io/hubfs/blog/ACM-7%2520diagram.png%3Ft%3D1521502962558)
+[![ACM-7 diagram](img/87f327798c4da3ed682c797f331dd52b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Eog02ry3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.serverlessops.io/hubfs/blog/ACM-7%2520diagram.png%3Ft%3D1521502962558)
 
 我也不是唯一看到纳米服务力量的人。参见 AWS 开发者 James Hood 的[AWS-server less-Twitter-event-source](https://serverlessrepo.aws.amazon.com/applications/arn:aws:serverlessrepo:us-east-1:077246666028:applications~aws-serverless-twitter-event-source)和最近[关于发布和部署无服务器应用的 Twitch 广播](https://www.twitch.tv/videos/239114858)。在接下来的几周，我计划使用*AWS-server less-twitter-event-source*来构建一个 Twitter 机器人。这是一个与他的排行榜应用程序完全不同的应用程序，我可以花更多的时间关注我的应用程序与他的应用程序的区别，而不是弄清楚如何使用 Twitter 搜索 API。
 
@@ -110,10 +110,10 @@ AWS 无服务器应用程序存储库的普遍可用代表了使用纳米服务�
 
 然而，有人对用纳米服务编写应用程序非常感兴趣，并致力于实现这一目标。
 
-[![SAR-Slack-Comment](../Images/ed35fccf5e0b583f2ee5797480017cde.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MqkCUMyD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.serverlessops.io/hubfs/blog/SAR-Slack-Comment.png%3Ft%3D1521502962558)
+[![SAR-Slack-Comment](img/ed35fccf5e0b583f2ee5797480017cde.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MqkCUMyD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.serverlessops.io/hubfs/blog/SAR-Slack-Comment.png%3Ft%3D1521502962558)
 
 我们现在所看到的是未来许多年我们将如何构建应用程序的戏剧性转变的开始。
 
 *这最初出现在 [ServerlessOps 博客](https://www.serverlessops.io/blog)上。请访问以阅读更多我们的作品！*
 
-[![](../Images/aaf319811b1705c22978d785c48c2c26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OM0s4blz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://track.hubspot.com/__ptq.gif%3Fa%3D277116%26k%3D14%26r%3Dhttps%253A%252F%252Fwww.serverlessops.io%252Fblog%252Frise-of-the-nanoservice%26bu%3Dhttps%25253A%25252F%25252Fwww.serverlessops.io%25252Fblog%26bvt%3Drss)*
+[![](img/aaf319811b1705c22978d785c48c2c26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OM0s4blz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://track.hubspot.com/__ptq.gif%3Fa%3D277116%26k%3D14%26r%3Dhttps%253A%252F%252Fwww.serverlessops.io%252Fblog%252Frise-of-the-nanoservice%26bu%3Dhttps%25253A%25252F%25252Fwww.serverlessops.io%25252Fblog%26bvt%3Drss)*

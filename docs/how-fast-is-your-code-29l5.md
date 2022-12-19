@@ -40,6 +40,6 @@ console.log( mstime.end("codeblock1") );
 
 [使用 chartist 插件绘制时间数据的示例](https://rawgit.com/ngduc/mstime/master/docs/demo/index.html):
 
-[![chartist plugin](../Images/758747206862167c56d94b9de55e4963.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RqSxVTMU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/ngduc/mstime/raw/master/docs/screenshot-01.png)
+[![chartist plugin](img/758747206862167c56d94b9de55e4963.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RqSxVTMU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/ngduc/mstime/raw/master/docs/screenshot-01.png)
 
 现在轮到您利用您捕获的数据集了！请在下面评论，让我知道你的想法、反馈或任何你想讨论的东西。

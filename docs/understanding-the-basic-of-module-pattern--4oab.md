@@ -30,7 +30,7 @@
 
 让我们来看一个模块模式的例子，并对其进行分解。
 
-[![Alt text of image](../Images/a3b501c0814e274612cbc23d1cb44dfc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zkztmKfU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fxtoaqzvbbnqd25tthnd.PNG)
+[![Alt text of image](img/a3b501c0814e274612cbc23d1cb44dfc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zkztmKfU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fxtoaqzvbbnqd25tthnd.PNG)
 
 ## 击穿
 

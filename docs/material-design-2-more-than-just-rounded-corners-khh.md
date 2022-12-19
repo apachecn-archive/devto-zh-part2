@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/saschb2b/material-design-2-more-than-just-rounded-corners-khh>
 
-<figure>[![](../Images/b1d4e41d5dbd4b7235683ec8ba338df6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OIjjKSYY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AtIOufDyXyCbog64OBiUrfg.png)
+<figure>[![](img/b1d4e41d5dbd4b7235683ec8ba338df6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OIjjKSYY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AtIOufDyXyCbog64OBiUrfg.png)
 
 <figcaption></figcaption>
 
@@ -80,7 +80,7 @@ Material Design 跨平台保持相同的 UI，使用跨 Android、iOS、Flutter 
 
 现在，对于新的目标和原则，我们可以选择更多的颜色。喜欢所有的颜色。希望你的应用程序是紫色的，但有点蓝色？没问题，去吧！
 
-[![](../Images/11017bd5da45098a1ca732649abaeb13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EzhsWvn7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AuNfp9jsEENQgZqVq.png)
+[![](img/11017bd5da45098a1ca732649abaeb13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EzhsWvn7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AuNfp9jsEENQgZqVq.png)
 
 所以他们为颜色定义了三个原则。
 
@@ -102,7 +102,7 @@ Material Design 跨平台保持相同的 UI，使用跨 Android、iOS、Flutter 
 
 到目前为止，我们有圆形按钮、略圆的角和硬角。现在，我们可以使用各种设置进行各种组合。
 
-[![](../Images/87c45d4f2387942a341ba265fa00d63d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i3us-QuZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A5NwaS0Joh4PEso8l.png)
+[![](img/87c45d4f2387942a341ba265fa00d63d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i3us-QuZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A5NwaS0Joh4PEso8l.png)
 
 默认情况下，材料曲面为矩形，带有 4dp 圆角。他们有可调的:
 
@@ -120,11 +120,11 @@ Material Design 跨平台保持相同的 UI，使用跨 Android、iOS、Flutter 
 
 我们已经知道并喜爱应用程序栏。它放在顶部，为我们的汉堡菜单图标、标题和我们需要的各种动作提供空间。
 
-[![](../Images/1cc8bf66fdd3eb325da79a996f4b7d5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nk2TCC8---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AZeSNdKPlX2ElCrBg.png)
+[![](img/1cc8bf66fdd3eb325da79a996f4b7d5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nk2TCC8---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AZeSNdKPlX2ElCrBg.png)
 
 但你知道什么最喜欢顶层空间吗？缺口。哦，光荣的缺口。你可能会注意到 iPhone X UI 的调整，以更好地将 notch 融入当前的设计中。android 也是如此。缩放的页面标题和所有顶部动作现在都在底部。他们没有说出来，但这就是为什么应用程序栏底部被介绍。
 
-[![](../Images/b12c060fda696af5720fc06a746a4171.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0Bre-T3m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AMrmnIeOaXAaEw1i4.png)
+[![](img/b12c060fda696af5720fc06a746a4171.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0Bre-T3m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AMrmnIeOaXAaEw1i4.png)
 
 它将当前的应用程序栏移到底部，基本上和正常情况一样。但是 FAB(悬浮动作按钮)呢。你可能会问，这不会妨碍你吗？是的，会的。所以他们就合并了。
 
@@ -140,7 +140,7 @@ Material Design 跨平台保持相同的 UI，使用跨 Android、iOS、Flutter 
 
 他们将平面按钮重命名为文本按钮，将凸起按钮重命名为内含按钮。他们称“中间”按钮为轮廓按钮。
 
-[![](../Images/777263eb5986f30ec99669f5a4ad0945.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jd9c5XoZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/720/0%2AF5RubobFy7Pn00YU.png)
+[![](img/777263eb5986f30ec99669f5a4ad0945.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jd9c5XoZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/720/0%2AF5RubobFy7Pn00YU.png)
 
 这将使不同的重点更容易显示，并给设计师更多的选择。
 
@@ -152,7 +152,7 @@ Material Design 跨平台保持相同的 UI，使用跨 Android、iOS、Flutter 
 
 一些设计需要在侧面显示选项。如过滤器、排序选项或附加细节。我们必须自己建造这个。但不再是我的朋友了。我在边上介绍床单！
 
-[![](../Images/9071419da277ae73ca12f45326f5fa52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rrA8MMZy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AKEAQYW0XO_7u8zeO.png)
+[![](img/9071419da277ae73ca12f45326f5fa52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rrA8MMZy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AKEAQYW0XO_7u8zeO.png)
 
 它的工作原理和底层一样，但现在是在侧面。在持久状态下使用它，或者像一个模态，让它覆盖你的内容。
 
@@ -162,7 +162,7 @@ Material Design 跨平台保持相同的 UI，使用跨 Android、iOS、Flutter 
 
 这是一个全新的组件。它将前一层中显示的内容与后一层中与该内容相关的细节、过滤器或其他操作相结合。
 
-[![](../Images/cc14edc162a262497928b9a183ffb925.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--seFQCf77--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AIXPbQbUpJ5QNfnTwn9ruVA.gif)
+[![](img/cc14edc162a262497928b9a183ffb925.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--seFQCf77--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AIXPbQbUpJ5QNfnTwn9ruVA.gif)
 
 [背景](https://material.io/design/components/backdrop.html)
 
@@ -170,7 +170,7 @@ Material Design 跨平台保持相同的 UI，使用跨 Android、iOS、Flutter 
 
 输入字段只有一个标签、输入区域和一条下划线。现在有两个选项可以使用。填充文本和轮廓文本。
 
-[![](../Images/12a9e4b7cc8cdfb853f97f3faeb7fc16.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dA46vwaI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AhOHC2MVbQlqiY754.png)
+[![](img/12a9e4b7cc8cdfb853f97f3faeb7fc16.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dA46vwaI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AhOHC2MVbQlqiY754.png)
 
 填充的文本字段具有更多的视觉强调，使它们在被其他内容和组件包围时更加突出。
 

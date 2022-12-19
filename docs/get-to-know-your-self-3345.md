@@ -28,7 +28,7 @@ ghound = AfroPet.new("Giraffet Hound")
 
 上面的代码显示了有一个`species`属性和一个`@@all`类变量的`AfroPet`类。两个方法被定义为`AfroPet`类的一部分:`#initialize`和`self.all`。此外，还创造了三种新的`AfroPet`物种，包括口袋大小的 Eleham！
 
-[![Elephant shrew in the Berlin Zoo](../Images/3cdfd515c4a261722c44c0bb3ebdbc10.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D-vxtpvt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x36hlu3cc8gisa698wnk.jpg)
+[![Elephant shrew in the Berlin Zoo](img/3cdfd515c4a261722c44c0bb3ebdbc10.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D-vxtpvt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x36hlu3cc8gisa698wnk.jpg)
 
 ## `self`泛指一个类的实例
 

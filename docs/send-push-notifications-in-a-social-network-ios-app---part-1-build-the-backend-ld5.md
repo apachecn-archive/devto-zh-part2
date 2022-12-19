@@ -12,7 +12,7 @@
 
 在两篇文章中，我们将了解如何构建一个社交网络 iOS 应用程序。当有人评论他们上传的照片时，我们会向用户添加推送通知。然后，我们将添加设置，以便用户可以指定何时接收通知。
 
-[![](../Images/5c4aa46878dfc816c27776a70dc3264f.png)T2】](//images.ctfassets.net/1es3ne0caaid/51GgQzYiqQEMAQWOK8AMgS/fd0d5bb1bbaa7f1f198fed340d25cd53/ios-push-notifications-social-network-demo.gif)
+[![](img/5c4aa46878dfc816c27776a70dc3264f.png)T2】](//images.ctfassets.net/1es3ne0caaid/51GgQzYiqQEMAQWOK8AMgS/fd0d5bb1bbaa7f1f198fed340d25cd53/ios-push-notifications-social-network-demo.gif)
 
 ## 先决条件
 
@@ -41,7 +41,7 @@ Pusher 依靠 Apple 推送通知服务(APNs)代表您向 iOS 应用程序用户�
 
 点击[这里](https://developer.apple.com/account)进入苹果开发者仪表板，然后创建一个新的密钥，如下所示:
 
-[![](../Images/9d2ecf7c75b6ae66b57dd2f29eccadac.png)T2】](//images.ctfassets.net/1es3ne0caaid/3XWdqEhwo8AuGKIywEsC6s/b260c8ac1052beceb634e1dcbeb99c6f/ios-push-notifications-social-network-create-APN.gif)
+[![](img/9d2ecf7c75b6ae66b57dd2f29eccadac.png)T2】](//images.ctfassets.net/1es3ne0caaid/3XWdqEhwo8AuGKIywEsC6s/b260c8ac1052beceb634e1dcbeb99c6f/ios-push-notifications-social-network-create-APN.gif)
 
 创建密钥后，下载它。请妥善保管，因为我们将在下一节用到它。
 
@@ -51,13 +51,13 @@ Pusher 依靠 Apple 推送通知服务(APNs)代表您向 iOS 应用程序用户�
 
 你需要做的下一件事是从[推杆仪表板](https://dash.pusher.com)创建一个新的推杆梁应用程序。
 
-[![](../Images/e071a1a2f986ecb28838a0b2f610bb21.png)T2】](//images.ctfassets.net/1es3ne0caaid/2Af98mjyDGqUA8wMkgYyaU/9497179efc4643ae5c48e844b8644011/ios-push-notifications-social-network-create-beams.png)
+[![](img/e071a1a2f986ecb28838a0b2f610bb21.png)T2】](//images.ctfassets.net/1es3ne0caaid/2Af98mjyDGqUA8wMkgYyaU/9497179efc4643ae5c48e844b8644011/ios-push-notifications-social-network-create-beams.png)
 
 当您创建了应用程序后，您应该会看到一个快速入门，它将帮助您设置应用程序。
 
 为了配置您的 Beams 实例，您需要通过 Apple 启用的 APNs 服务获取密钥。这与我们在上一节中下载的密钥相同。一旦你得到了密钥，上传它。
 
-[![](../Images/d6ddab7c2b7c78617112026f1d27cf76.png)T2】](//images.ctfassets.net/1es3ne0caaid/1OvPaR9NrieciOQuWYuCCE/4059623254d3571bf71f5069a32904ad/ios-push-notifications-social-network-add-APN-to-beams.png)
+[![](img/d6ddab7c2b7c78617112026f1d27cf76.png)T2】](//images.ctfassets.net/1es3ne0caaid/1OvPaR9NrieciOQuWYuCCE/4059623254d3571bf71f5069a32904ad/ios-push-notifications-social-network-add-APN-to-beams.png)
 
 输入您的 Apple 团队 ID。你可以从[这里](https://developer.apple.com/account/#/membership)获取团队 ID。然后，您可以继续安装向导，并为您的 Pusher 应用程序复制实例 ID 和密钥。
 
@@ -422,7 +422,7 @@ Pusher 依靠 Apple 推送通知服务(APNs)代表您向 iOS 应用程序用户�
  $ php artisan storage:link 
 ```
 
-[![](../Images/528de5ea1e25a0d25191b77e32e62f6e.png)T2】](//images.ctfassets.net/1es3ne0caaid/6jnvC8UIg0s4EOiU6wIEWg/3323c85e9a4f733865cd0efef1e44d0e/ios-push-notifications-social-network-storage-dir.png)
+[![](img/528de5ea1e25a0d25191b77e32e62f6e.png)T2】](//images.ctfassets.net/1es3ne0caaid/6jnvC8UIg0s4EOiU6wIEWg/3323c85e9a4f733865cd0efef1e44d0e/ios-push-notifications-social-network-storage-dir.png)
 
 上面的命令将创建一个从`public/storage`目录到`storage/app/public`目录的符号链接，我们的照片将被上传到这个目录。
 
@@ -689,7 +689,7 @@ Pusher 依靠 Apple 推送通知服务(APNs)代表您向 iOS 应用程序用户�
     $ php artisan passport:install 
 ```
 
-[![](../Images/6b414c200aee4d993eae6df5e134b808.png)T2】](//images.ctfassets.net/1es3ne0caaid/3W31pKCdfW6Y8Eg4CYWqeO/6bca50e55ca38843ac3e82e0879797e0/ios-push-notifications-social-network-passport.png)
+[![](img/6b414c200aee4d993eae6df5e134b808.png)T2】](//images.ctfassets.net/1es3ne0caaid/3W31pKCdfW6Y8Eg4CYWqeO/6bca50e55ca38843ac3e82e0879797e0/ios-push-notifications-social-network-passport.png)
 
 命令执行完毕后，Passport 安装成功。`passport:install`命令将在`storage`目录下创建两个文件:`oauth-public.key`和`oauth-private.key`。这些密钥将用于签署和验证访问令牌。
 
@@ -840,7 +840,7 @@ Pusher 依靠 Apple 推送通知服务(APNs)代表您向 iOS 应用程序用户�
 
 接下来，让我们创建我们的故事板。打开您的`Main.storyboard`文件。我们希望它看起来像这样:
 
-[![](../Images/8e9b98e34b8b6e1e4c933cf7ac23f8ea.png)T2】](//images.ctfassets.net/1es3ne0caaid/3Q8zckYGGk8GaacuGWqS8a/dcb1a02957daf499b62218111bf2e12e/ios-push-notifications-social-network-main-storyboard.png)
+[![](img/8e9b98e34b8b6e1e4c933cf7ac23f8ea.png)T2】](//images.ctfassets.net/1es3ne0caaid/3Q8zckYGGk8GaacuGWqS8a/dcb1a02957daf499b62218111bf2e12e/ios-push-notifications-social-network-main-storyboard.png)
 
 ### 故事板场景是如何连接的
 

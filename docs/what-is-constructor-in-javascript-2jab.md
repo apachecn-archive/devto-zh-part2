@@ -4,7 +4,7 @@
 
 在 JS 世界里有一个术语叫做构造函数，像我这样有 C#/Java 背景的人在实际应用中实现这个时会有很多困惑。所以我做了一个小小的研究，得出了以下的认识
 
-[![Alt text of image](../Images/55d852b541e598d152afb6934eef9e0b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oWJwQXS3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://theleaguelady.com/wp-content/uploads/2018/07/dont-believe-everything-you-read.jpg)T3】
+[![Alt text of image](img/55d852b541e598d152afb6934eef9e0b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oWJwQXS3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://theleaguelady.com/wp-content/uploads/2018/07/dont-believe-everything-you-read.jpg)T3】
 
 ```
 function jsObject(name){ this.name = name };

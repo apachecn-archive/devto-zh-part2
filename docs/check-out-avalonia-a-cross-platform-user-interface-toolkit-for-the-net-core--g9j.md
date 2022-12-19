@@ -10,7 +10,7 @@ Avalonia 的样式只能绑定到 StyledProperty。这类似于 WPF 的依赖性
 
 一家[Asp.Net 开发公司](https://www.tatvasoft.co.uk/technology/microsoft-dot-net-development.php)的开发人员会发现一个有趣的特性，那就是数据绑定语法。对异步操作的支持。例如，Avalonia 可以绑定到其他基于 XAML 的用户界面工具包不支持的任务或 IObservable 操作的结果。
 
-[![Avalonia UI for .net Core](../Images/6cfd9d8c5288f0f33d331f47d7c77677.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y08x_loE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/6i5x7zb.jpg)
+[![Avalonia UI for .net Core](img/6cfd9d8c5288f0f33d331f47d7c77677.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y08x_loE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/6i5x7zb.jpg)
 
 ## 来自更大的开源社区的贡献
 

@@ -28,7 +28,7 @@
 
 你一定听说过在 Ruby 中，*一切*都是对象:类是对象；实例是对象，对象是...我想你明白了！尽管在我们的现实世界中，我们会处理大量的对象，但是很难将其抽象成代码——至少对我来说是这样。但是一旦我们理解了它的目的和它背后的概念，它开始变得更有意义，事情开始变得更容易#希望如此。
 
-[![We are all objects](../Images/ce80ba355b06ea704207e3478ae86486.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OC5UCd3L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6ugtzzpozevd1dujrkr9.jpeg)
+[![We are all objects](img/ce80ba355b06ea704207e3478ae86486.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OC5UCd3L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6ugtzzpozevd1dujrkr9.jpeg)
 
 一个**类**是一组**数据**和**函数**的集合，它们在一起是有意义的，因为它们有共同的特征。它通过防止您将代码分散到不同的文件中来帮助您的日常工作。
 

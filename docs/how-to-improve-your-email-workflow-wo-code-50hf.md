@@ -37,7 +37,7 @@ This doc contains all of the high level information about the campaign. Litmus t
 Enter fullscreen mode Exit fullscreen mode
 
 下面是我的活动概述文档标题的示例:
-[![Campaign Overview Doc sample](../Images/189fd9fc0f734176e5860163e756ef43.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AY8hqf0o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/cbSEt9/Screen_Shot_2018_08_12_at_7_29_58_PM.png)
+[![Campaign Overview Doc sample](img/189fd9fc0f734176e5860163e756ef43.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AY8hqf0o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/cbSEt9/Screen_Shot_2018_08_12_at_7_29_58_PM.png)
 
 ## 了解你的约会
 

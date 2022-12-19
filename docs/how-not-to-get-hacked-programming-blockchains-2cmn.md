@@ -14,7 +14,7 @@
 
 我一点也不知道，因为我没有使用任何环境变量，而且我的回购是公开的，我的帐户的私钥将对所有 GitHub 开放！在 GitHub 上快速搜索后，一个暴露的用户看起来是这样的:
 
-[![github query](../Images/fb36043e5b0ae6e805cf86b34da5be73.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kq4rYIdU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xkly696x8pe48jbue52u.jpg)
+[![github query](img/fb36043e5b0ae6e805cf86b34da5be73.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kq4rYIdU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xkly696x8pe48jbue52u.jpg)
 
 简而言之，有人在 GitHub 上找到了我的钥匙，闯入了我的账户，偷走了我的钱！！！！钱包不好的一天，学习的大好一天！
 

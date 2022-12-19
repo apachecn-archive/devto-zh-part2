@@ -287,7 +287,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 目前的最终结果是:
 
-[![](../Images/abb1f986a88178e316c2ff075ee9a560.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0PObBUy---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n2dn0aoi6jt0m12g9pht.png)
+[![](img/abb1f986a88178e316c2ff075ee9a560.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0PObBUy---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n2dn0aoi6jt0m12g9pht.png)
 
 ## 创建另一个页面
 
@@ -352,7 +352,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 单张照片页面完成:
 
-[![](../Images/c4064c2c7232d8822a4cff8e587a045f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9bHf5DQ5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/irlbts6oerwyguyksoo3.png)
+[![](img/c4064c2c7232d8822a4cff8e587a045f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9bHf5DQ5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/irlbts6oerwyguyksoo3.png)
 
 ## 结论
 
@@ -362,7 +362,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 同时你可以在 [github(分支‘part 1’)](https://github.com/aurelkurtula/basics-of-nextJS/tree/part1)中获得所有这些代码
 
-[![aurelkurtula image](../Images/e1a1b48b6a401b86d5a91c8729e26a35.png)](/aurelkurtula) [## Next.js 简介——从 API 获取数据
+[![aurelkurtula image](img/e1a1b48b6a401b86d5a91c8729e26a35.png)](/aurelkurtula) [## Next.js 简介——从 API 获取数据
 
 ### aurel Kurt ula Aug 24 ' 185 分钟阅读
 

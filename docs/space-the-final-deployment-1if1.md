@@ -36,7 +36,7 @@
 
 这就是它的工作方式..
 
-[![FUNcube MCU software](../Images/71f141a12f5b2b98213fe776df35d01e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4M5MF7-_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ashbysoft.com/assets/FUNcube-MCU-software.png)
+[![FUNcube MCU software](img/71f141a12f5b2b98213fe776df35d01e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4M5MF7-_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ashbysoft.com/assets/FUNcube-MCU-software.png)
 
 ## 有点背景
 

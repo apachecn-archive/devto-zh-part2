@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bugfenderapp/mobile-app-launch-checklist-7a7>
 
-[![](../Images/c34f2bc7eb33c0bcc3a093ed1cc6c698.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pVmts6lg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/06/app-launch-blog-post-featured.jpg)
+[![](img/c34f2bc7eb33c0bcc3a093ed1cc6c698.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pVmts6lg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/06/app-launch-blog-post-featured.jpg)
 
 *这篇文章最初发表在我们的[博客](https://bugfender.com/blog/mobile-app-launch-checklist/)上。*
 

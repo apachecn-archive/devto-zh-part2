@@ -8,4 +8,4 @@
 
 类似这样，但是在更大的项目规模上:
 
-[![](../Images/4f15a77af1df1515204d2b5804affacf.png)T2】](https://3.bp.blogspot.com/-xyiYmQDtz5c/W4aQjVvu7BI/AAAAAAAAPvQ/igyDhU_pJYc_x4jSpaXv1bWLY6e7NszuACLcBGAs/s1600/projectDeps.png)
+[![](img/4f15a77af1df1515204d2b5804affacf.png)T2】](https://3.bp.blogspot.com/-xyiYmQDtz5c/W4aQjVvu7BI/AAAAAAAAPvQ/igyDhU_pJYc_x4jSpaXv1bWLY6e7NszuACLcBGAs/s1600/projectDeps.png)

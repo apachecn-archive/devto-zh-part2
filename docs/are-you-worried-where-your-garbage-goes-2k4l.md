@@ -4,7 +4,7 @@
 
 我开始用 Java 作为我的编程语言，并且只用 Java 开发了许多应用程序(好吧，有时是 python ),已经有 3 年了。当我开始我第一次正式的计算机科学研究时，我意识到关于内存管理有很大的争议。我开始用 C/C++做我的大学项目，意识到，Uff！！我必须担心变量在内存中的位置，如果不再需要它们，我也必须释放空间。奇怪的是，直到我们面临一个问题时，我们才知道它的存在，而且它已经为我们处理好了(就像 Java 为我们处理它一样)。这激起了我的兴趣，我在大学里上了系统课，深入了解 Java 中如何收集垃圾(即不再使用的变量)，以及我如何用 Java 编写了 3 年的 carefree！
 
-[![Where is your garbage going ?](../Images/7fbb42b42dd5df082690382627f2325d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IfQX-GlV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dim356rgpxvtl3hcazbf.png)
+[![Where is your garbage going ?](img/7fbb42b42dd5df082690382627f2325d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IfQX-GlV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dim356rgpxvtl3hcazbf.png)
 
 好吧，从头开始。你把 int x=5。在运行时，即程序执行期间，这个 x 将指向堆上一个 4 字节的位置，该位置的值为 5。你在 1000 行代码中的一行使用了这个 x，然后就不再使用它了！可怕的是，这 4 个字节是为一个在你的程序中几乎不再使用的变量而锁定的。解决方案:使用较少的变量？不可能:我们知道这些高级编程语言是为了给我们使用任何我们想要的东西的自由！尽管从未接受过任何计算机科学方面的正式教育，但这有助于编码并以此谋生！另一个解决方案:应该有某种方法让计算机(以非常简单的方式)不断检查内存中剩余的/未使用的字节，并不断为我们释放它们。
 

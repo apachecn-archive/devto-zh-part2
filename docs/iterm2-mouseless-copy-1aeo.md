@@ -20,7 +20,7 @@
 
 因此，在 iTerm2 的会话中复制任何内容的一种方法是使用默认的*搜索*。至少可以说，这是一种有趣的方法:
 
-[![](../Images/a4b0a5bbaea44441890a174926a17239.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ozw3JJas--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://kevinjalbert.com/images/2018-05-06-iterm2-mouseless-copy/search-copy.gif)
+[![](img/a4b0a5bbaea44441890a174926a17239.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ozw3JJas--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://kevinjalbert.cimg/2018-05-06-iterm2-mouseless-copy/search-copy.gif)
 
 本质上，你用 *cmd+f* 开始搜索，你可以使用 *enter* 和 *tab* 来移动你的选择，并控制你想要在选择中包含多少文本。它在紧要关头也能工作，但是如果你弄乱了你选择的文本量，你基本上不得不重新开始这个过程。另外，我发现 *shift+tab* 命令循环选择搜索结果，导致了一些混乱。
 
@@ -40,7 +40,7 @@
 
 iTerm2 模式试图模拟尽可能多的 tmux 复制模式，允许您使用键盘进行文本选择。这是一种*模式*，非常类似于 Vim 的*插入*和*正常*模式。请务必注意，当您进入拷贝模式时，窗格中的会话将停止更新。
 
-[![](../Images/73fc32fd9f744758710759a8147c3613.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fdKQM-Cd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://kevinjalbert.com/images/2018-05-06-iterm2-mouseless-copy/copy-mode.gif)
+[![](img/73fc32fd9f744758710759a8147c3613.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fdKQM-Cd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://kevinjalbert.cimg/2018-05-06-iterm2-mouseless-copy/copy-mode.gif)
 
 我强烈推荐阅读关于 iTerm2 复制模式的[文档，因为它完全涵盖了键盘快捷键和功能。在我看来，复制模式是无鼠标复制的两种方法中最好的。我强烈建议下次你拿鼠标的时候试一试。以下是复制模式的快速总结:](https://www.iterm2.com/documentation-copymode.html)
 

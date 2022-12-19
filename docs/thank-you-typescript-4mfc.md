@@ -4,7 +4,7 @@
 
 TypeScript 今天已经六岁了，我想花一些时间来思考一下这项惊人的技术在个人层面上对我意味着什么，以及为什么我认为您真的应该看看它(如果您还没有这样做的话)。
 
-[![](../Images/95911b951d236a6b0441db24b9528eb2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c1oUsgUb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xc73aaktzrpfyglii0jv.png)
+[![](img/95911b951d236a6b0441db24b9528eb2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c1oUsgUb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xc73aaktzrpfyglii0jv.png)
 
 当 TypeScript 第一次被引入时，我正在使用 CoffeeScript，并且我有诸如 C#之类的微软技术背景。我记得在安德斯·海尔斯伯格的主题演讲宣布的第二天，我看了这个演讲，从第一天开始，我就对这个想法感到非常兴奋。
 

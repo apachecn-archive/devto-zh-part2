@@ -17,23 +17,23 @@
 *   不同长宽比和尺寸的微光效果感觉相同。
 *   (P.S .寻找新贡献者，随时 ping 我！)
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) [戈克灿](https://github.com/gokcan) / [反应-微光](https://github.com/gokcan/react-shimmer)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) [戈克灿](https://github.com/gokcan) / [反应-微光](https://github.com/gokcan/react-shimmer)
 
 ### 🌠React.js 的异步加载、高性能图像组件
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-[![Logo](../Images/9f77ca42e381ffe3b293405534d134c9.png)T2】](https://camo.githubusercontent.com/f4bc0d165384e2fb85029768b0204622f7e9bc0a/68747470733a2f2f63646e2e7261776769742e636f6d2f676f6b63616e2f72656163742d7368696d6d65722f6d61737465722f6d656469612f6c6f676f2e706e67)
+[![Logo](img/9f77ca42e381ffe3b293405534d134c9.png)T2】](https://camo.githubusercontent.com/f4bc0d165384e2fb85029768b0204622f7e9bc0a/68747470733a2f2f63646e2e7261776769742e636f6d2f676f6b63616e2f72656163742d7368696d6d65722f6d61737465722f6d656469612f6c6f676f2e706e67)
 
 > 一个强大的、可定制的、类似悬疑的`<img>`组件，在**加载**时(可选)模拟一个 [**微光**](https://github.com/facebook/Shimmer) 效果。(零依赖！).
 
-[![NPM](../Images/3e10ce21108546d84afbfc65e9c37372.png)](https://www.npmjs.com/package/react-shimmer)[![JavaScript Style Guide](../Images/dff6a929f64c70517ecb251810e37f0b.png)](https://standardjs.com)[![Github Actions CI Status](../Images/a3c752dac0f0fcb3db453077167528ea.png)](https://github.com/gokcan/react-shimmer/actions?query=workflow%3A%22Node.js+CI%22)[![Maintainability](../Images/ef67d032125fb8f4a236dab64de40ad4.png)T11】](https://codeclimate.com/github/gokcan/react-shimmer/maintainability)
+[![NPM](img/3e10ce21108546d84afbfc65e9c37372.png)](https://www.npmjs.com/package/react-shimmer)[![JavaScript Style Guide](img/dff6a929f64c70517ecb251810e37f0b.png)](https://standardjs.com)[![Github Actions CI Status](img/a3c752dac0f0fcb3db453077167528ea.png)](https://github.com/gokcan/react-shimmer/actions?query=workflow%3A%22Node.js+CI%22)[![Maintainability](img/ef67d032125fb8f4a236dab64de40ad4.png)T11】](https://codeclimate.com/github/gokcan/react-shimmer/maintainability)
 
-[![Header](../Images/de8c844e360a9bce98cb855d774b794b.png)T2】](https://camo.githubusercontent.com/26b5a0815731fc9d282a9299af0f922567232e15/68747470733a2f2f63646e2e7261776769742e636f6d2f676f6b63616e2f72656163742d7368696d6d65722f6d61737465722f6d656469612f6865616465722e706e67)
+[![Header](img/de8c844e360a9bce98cb855d774b794b.png)T2】](https://camo.githubusercontent.com/26b5a0815731fc9d282a9299af0f922567232e15/68747470733a2f2f63646e2e7261776769742e636f6d2f676f6b63616e2f72656163742d7368696d6d65722f6d61737465722f6d656469612f6865616465722e706e67)
 
 ### [**现场试玩**](https://codesandbox.io/s/nh9x1)
 
-[![](../Images/45a1d79562b775e730ee025f833cc015.png)T2】](https://camo.githubusercontent.com/92f836c3865f034ba3d5df879c43cf4d0facc3ff/68747470733a2f2f63646e2e7261776769742e636f6d2f676f6b63616e2f72656163742d7368696d6d65722f6d61737465722f6d656469612f64656d6f2e676966)
+[![](img/45a1d79562b775e730ee025f833cc015.png)T2】](https://camo.githubusercontent.com/92f836c3865f034ba3d5df879c43cf4d0facc3ff/68747470733a2f2f63646e2e7261776769742e636f6d2f676f6b63616e2f72656163742d7368696d6d65722f6d61737465722f6d656469612f64656d6f2e676966)
 
 ## 安装
 
@@ -93,6 +93,6 @@ function App(props) {
 
 [View on GitHub](https://github.com/gokcan/react-shimmer)
 
-[![react-shimmer](../Images/2fd11e5c20652c29de2713b8487263e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7oH8_JZt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h47vgbiq6qbc8o2yvr4e.png)
+[![react-shimmer](img/2fd11e5c20652c29de2713b8487263e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7oH8_JZt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h47vgbiq6qbc8o2yvr4e.png)
 
 *   你也可以在推特上联系我。

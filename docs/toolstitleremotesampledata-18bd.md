@@ -6,7 +6,7 @@
 
 这听起来像是一个非常酷的功能，所以我列出了我最喜欢的指环王中的角色，将其用作`sampledata`，并获得了这个辉煌的布局预览。
 
-[![LotR](../Images/3ec5e3451a1cf028bf5575eaa3a3cd3a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4Emhsygh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AcZHVJzVAvIfQMI47DEZo1A.png)
+[![LotR](img/3ec5e3451a1cf028bf5575eaa3a3cd3a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4Emhsygh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AcZHVJzVAvIfQMI47DEZo1A.png)
 
 后来，我想将它包含在我的其他项目中，但是我唯一的选择是将`sampledata`从一个项目复制/粘贴到另一个项目，这没有任何意义。然后我做了每个(懒惰的)开发者都会做的事情，在 StackOverflow 上问了一个[问题。](https://stackoverflow.com/questions/48874434/use-sample-data-directory-from-a-library)
 

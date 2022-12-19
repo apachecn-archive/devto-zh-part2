@@ -8,4 +8,4 @@ bcrypt 哈希函数允许我们构建一个密码安全平台，它可以随计�
 
 [读下去🔐#️⃣](https://auth0.com/blog/hashing-in-action-understanding-bcrypt/?utm_source=dev&utm_medium=sc&utm_campaign=dasec_bcrypt)
 
-[![Hashing in Action: Understanding bcrypt](../Images/c45aac02f29661e267402bab526b9912.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sqYVEXmA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cdxpiz67ip47ul6p8xhk.png)
+[![Hashing in Action: Understanding bcrypt](img/c45aac02f29661e267402bab526b9912.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sqYVEXmA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cdxpiz67ip47ul6p8xhk.png)

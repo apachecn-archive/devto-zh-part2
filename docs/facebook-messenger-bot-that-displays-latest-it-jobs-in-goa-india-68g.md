@@ -12,11 +12,11 @@
 
 [starupgoa.org](http://startupgoa.org/jobs/#.W4w1d3UzbMV)上的工作显示如下。
 
-[![startup go jobs](../Images/26b2b46896819066c101f3037bb7c7be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AYZp0fd1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vsu68lojda7stfkyw6ro.png)
+[![startup go jobs](img/26b2b46896819066c101f3037bb7c7be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AYZp0fd1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vsu68lojda7stfkyw6ro.png)
 
 在 chrome 的 network 选项卡中查看后，我发现了获取作业的 Ajax 调用。
 
-[![startup goa ajax](../Images/66d600d803739084d4186000c9dd3aa7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CGg-MNYU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/65vw5qkmwtlinrsrmybw.png)
+[![startup goa ajax](img/66d600d803739084d4186000c9dd3aa7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CGg-MNYU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/65vw5qkmwtlinrsrmybw.png)
 
 为了体验 javascript、es6 和 MongoDB，我选择用 Javascript 构建这个 bot。
 

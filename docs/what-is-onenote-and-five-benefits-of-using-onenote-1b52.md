@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/developbit/what-is-onenote-and-five-benefits-of-using-onenote-1b52>
 
-![](../Images/09326c0a6fc159745384368336323ab9.png)
+![](img/09326c0a6fc159745384368336323ab9.png)
 
 #### **什么是 OneNote？**
 

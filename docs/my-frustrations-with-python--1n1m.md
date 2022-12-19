@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/chrismuga/my-frustrations-with-python--1n1m>
 
-[![](../Images/f595258c6bef654adbc17933ec0aa49f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sIWEfBRA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ayp5cyj0t26wluuuvjlu.gif)
+[![](img/f595258c6bef654adbc17933ec0aa49f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sIWEfBRA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ayp5cyj0t26wluuuvjlu.gif)
 
 我已经用 Python 写了将近 2 周的代码，我认为我已经很好地掌握了基本的东西，比如基本的语法，声明变量，打印它们，摆弄列表，字典等等，非常基本。
 

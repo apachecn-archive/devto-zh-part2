@@ -6,7 +6,7 @@
 
 **在这个** **系列** **中，我们将了解如何配置 Alfabet 产品，以实现业务和 it 转型的最佳契合和最佳实践。本集重点介绍 Alfabet 中的数据捕获。**
 
-| 2018 年第二期 | [![](../Images/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue2/SAG_Making_Alfabet_Your_Own_TECHniques_Apr18_WEB.pdf) |
+| 2018 年第二期 | [![](img/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue2/SAG_Making_Alfabet_Your_Own_TECHniques_Apr18_WEB.pdf) |
 | --- | --- |
 
 ## 简介
@@ -17,11 +17,11 @@
 
 向导解决了 IT 管理中的一个最大问题:拥有一个以结构化方式捕获信息的系统方法。统一的数据格式对于聚集数据进行分析是必不可少的。标准向导可确保 Alfabet 库存中关于“商品”对象(如需求、外围设备、组件、设备和应用)的一致数据捕获和高质量数据。在一个易于使用的线性流程中，通过配置用户提示，对主题和解决方案知之甚少的用户可以轻松地执行数据输入。因此，向导可以为大型用户社区提供最佳支持，并加快推广速度。
 
-[![](../Images/a56191e96a5bdf2d79144d22abc20bae.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dVLCPib2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/alfabet1.jpg/0483527c-f775-4c55-a053-10115555c52f%3Ft%3D1523882534012) 
+[![](img/a56191e96a5bdf2d79144d22abc20bae.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dVLCPib2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/alfabet1.jpg/0483527c-f775-4c55-a053-10115555c52f%3Ft%3D1523882534012) 
 
 *图 1:向导确保数据录入的一致性。*
 
-[![](../Images/de91e67549a17759ac00aafa173237f5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mPpWZkTc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/alfabet2.jpg/ff431776-9726-492a-a8a1-ccd6d6949526%3Ft%3D1523882537030) 
+[![](img/de91e67549a17759ac00aafa173237f5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mPpWZkTc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/alfabet2.jpg/ff431776-9726-492a-a8a1-ccd6d6949526%3Ft%3D1523882537030) 
 
 *图 2:可配置检查用于保障数据输入的正确性和完整性。*
 
@@ -47,7 +47,7 @@
 
 上。矩阵轴和这些对象的交叉点显示了它们的关系。该功能支持应用程序和信息组合管理中常见的海量信息管理。数据获取矩阵的另一个用途是填充组织的主计划。组织使用主计划作为核心规划工具，并依靠对对象关系的理解进行可靠的规划。大型 IT 组织经常面临着有效管理大量“业务支持”(在主计划中表示它为特定业务流程或能力、组织或市场产品提供的支持)的挑战。在一家全球运营的公司中，找到多达 100，000 或更多的业务支持并不罕见。这使得业务支持的创建和管理成为一项企业级的任务，而不仅仅是由一小组英雄来完成的练习。data capture matrix 报告通过批量复制和粘贴等功能以及无需识别许可业务支持的规则，减少了捕获和管理业务支持所需的时间。
 
-[![](../Images/5750d68f52e193024a73a27ef9db317c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7kVgg6ow--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/alfabet3.jpg/89c6f98b-7bc2-464c-b01c-ed44cbb327e7%3Ft%3D1523882540137) 
+[![](img/5750d68f52e193024a73a27ef9db317c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7kVgg6ow--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/alfabet3.jpg/89c6f98b-7bc2-464c-b01c-ed44cbb327e7%3Ft%3D1523882540137) 
 
 *图 3:此矩阵用于定义组织单位将哪些应用程序用于哪些业务流程。它是“贸易”领域总体规划图的基础。*
 

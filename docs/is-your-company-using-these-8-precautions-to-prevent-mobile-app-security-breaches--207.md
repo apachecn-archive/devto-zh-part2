@@ -4,7 +4,7 @@
 
 最初发表于 [WahibHaq 博客](http://wahibhaq.com/blog/8-precautions-enterprise-mobile-security/)。
 
-[![](../Images/37d91d680834978c7e1dbfe9f38152c5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8_y6f1vh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://wahibhaq.github.io/img/blog/posts/precautions-mobile-app-security/mobile-fraud.png) 
+[![](img/37d91d680834978c7e1dbfe9f38152c5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8_y6f1vh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://wahibhaq.github.io/img/blog/posts/precautions-mobile-app-security/mobile-fraud.png) 
 来源:TechCrunch
 
 随着市场转向移动，大大小小的企业都看到移动安全漏洞的增加。从[网络钓鱼攻击到](https://securityintelligence.com/six-major-data-breach-trends-from-2017/)无法解决已知漏洞，各行各业都在报告违规事件。

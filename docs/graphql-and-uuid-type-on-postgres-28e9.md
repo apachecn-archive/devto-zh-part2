@@ -4,7 +4,7 @@
 
 ### Hasura GraphQL 引擎对 Postgres UUID 类型有隐式支持，这意味着 UUID 值可以作为字符串提供。
 
-[![](../Images/566747a758602dd274916e99553d4a0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z39o1Bf8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/graphql-and-uuid-type-on-postgres-767f016479e9/1-ohu0ZZXlzkOjp-NyTEr4GA.png)
+[![](img/566747a758602dd274916e99553d4a0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z39o1Bf8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/graphql-and-uuid-type-on-postgres-767f016479e9/1-ohu0ZZXlzkOjp-NyTEr4GA.png)
 
 数据库中的每个表都需要一个[主键](https://hasura.io/learn/database/postgresql/core-concepts/5-postgresql-primary-key/)。
 

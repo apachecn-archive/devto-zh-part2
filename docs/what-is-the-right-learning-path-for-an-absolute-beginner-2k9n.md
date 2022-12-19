@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ioedeveloper/what-is-the-right-learning-path-for-an-absolute-beginner-2k9n>
 
-[![thinking smiley](../Images/05c69c7bc760838cebf7fa3326c5c0bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3MryEdg0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/facebook/138/thinking-face_1f914.png)
+[![thinking smiley](img/05c69c7bc760838cebf7fa3326c5c0bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3MryEdg0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/facebook/138/thinking-face_1f914.png)
 
 昨天，我的一个老朋友请求我教他 javascript，而他没有任何计算机编程的必备知识。我决定扔给他几个视频教程和编程书籍，但他拒绝了，说他想让我带他学习，直到他学到足够的东西继续下去。
 

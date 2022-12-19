@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/socratesdz/optimizing-code-with-algebra-37en>
 
-[![Photo by Roman Mager on Unsplash](../Images/5d1e47706b99c052cbeb09c32742f4aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O6cCrgbj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c24nlacbohaiz8vrwngt.jpg)
+[![Photo by Roman Mager on Unsplash](img/5d1e47706b99c052cbeb09c32742f4aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O6cCrgbj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c24nlacbohaiz8vrwngt.jpg)
 
 ###### Unsplash 上 Roman Mager 的照片
 
@@ -20,14 +20,14 @@
 
 你记得这个玩具吗？
 
-[![haoni-towers](../Images/315018d92c52716d6d9b992527a34721.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F26Rw_eM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t3dh0kcy1au86mi86eev.jpg)
+[![haoni-towers](img/315018d92c52716d6d9b992527a34721.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F26Rw_eM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t3dh0kcy1au86mi86eev.jpg)
 
 著名的河内塔。该游戏包括在尽可能少的步骤内将每个圆盘从第一个磁极移动到最后一个磁极(从左到右或反之亦然)。规则是较大的磁盘不能放在较小的磁盘上，一次只能移动一个磁盘。大概是这样的:
 
-[![hanoi-demo](../Images/34f9927c7943564912f6146584c4af33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g9Fida9y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mq04i1fxf3thuw4horhc.gif)
+[![hanoi-demo](img/34f9927c7943564912f6146584c4af33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g9Fida9y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mq04i1fxf3thuw4horhc.gif)
 
 这个问题有一个算法可以解决，它是这样的:
-[![hanoi-formula](../Images/aae2cd2ca4668da901d918266e30e07b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Dz8xVaEy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jirw4nz2rll5eua3uyxz.png)
+[![hanoi-formula](img/aae2cd2ca4668da901d918266e30e07b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Dz8xVaEy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jirw4nz2rll5eua3uyxz.png)
 
 其中 *n* 是问题中的磁盘数量。
 
@@ -87,11 +87,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 求解递推关系有几种方法，其中一种是*迭代*。它由逐步求解操作和从过程中扣除非递归方程组成。首先我们尝试求解一个给定值:
 
-[![hanoi-algorithm-step-by-step](../Images/13de142ad941176394f91cd3d1635d16.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--12VMqyWY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1tu014vif32swkw3mrjp.jpg)
+[![hanoi-algorithm-step-by-step](img/13de142ad941176394f91cd3d1635d16.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--12VMqyWY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1tu014vif32swkw3mrjp.jpg)
 
 然后，从最后一行，我们可以推导出一个等价方程:
 
-[![hanoi-solved](../Images/c0b6d381a1290f61ab2443eb9ea4a26f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BmM46L7h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fsqr8515gwqcvpfaht5y.jpg)
+[![hanoi-solved](img/c0b6d381a1290f61ab2443eb9ea4a26f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BmM46L7h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fsqr8515gwqcvpfaht5y.jpg)
 
 如果你注意到，`t(4) = 8 + 7`和`t(4) = 2^(4-1) + (2^(4-1) - 1)`是一样的，这就是为什么它是我们的初始语句。但是现在我们已经解决了递归关系，让我们在代码中使用它。
 
@@ -104,7 +104,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 然后...
 
-[![better_code](../Images/a19a2eca2085ddfffeb693c63c6713bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pfrhuZmf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ntdygfkkefqgrl8zxdj6.jpg)
+[![better_code](img/a19a2eca2085ddfffeb693c63c6713bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pfrhuZmf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ntdygfkkefqgrl8zxdj6.jpg)
 
 现在我们知道用 7000 个圆盘(大概是宇宙的寿命，好几次)要解多少步了。
 

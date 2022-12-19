@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/lgelfan/tech-insights-decoupling-or-learning-to-live-with-code-redundancy-4j58>
 
-[![decoupling](../Images/5dce2bcb0311326436a867dba72777b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yxuZLXV_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4b0tkoslgmcjyk61lov3.jpg)
+[![decoupling](img/5dce2bcb0311326436a867dba72777b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yxuZLXV_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4b0tkoslgmcjyk61lov3.jpg)
 
 我明白了——你之前在最近开发的一个软件应用程序中找到了一个聪明的解决方案，现在你发现你在一个不同的应用程序中完美地使用了它。太棒了。因此，您建立了一些系统来共享这些伟大的代码——Git 子树、花哨的 shell 脚本、重用这些代码所需的任何东西、保持同步并保持整洁。很好，对吧？
 

@@ -215,7 +215,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Willy 很抱歉他导致了 90 分钟的疯狂搜索错误信息。
 
-[![Sad Willy](../Images/14b410a76e78018c785e9689e9f1d7ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--caTAiw0q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assertnotmagic.com/img/sad-willy.jpg)
+[![Sad Willy](img/14b410a76e78018c785e9689e9f1d7ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--caTAiw0q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assertnotmagic.com/img/sad-willy.jpg)
 
 ### 回吧
 

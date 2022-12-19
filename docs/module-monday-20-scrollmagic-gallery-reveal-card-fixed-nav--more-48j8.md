@@ -14,7 +14,7 @@
 
 [视图对](https://anymod.com/mod/dkarrd?v=20)视图
 
- [![](../Images/df8a6be25f4c1606fe9d96bbdc934cb3.png)
+ [![](img/df8a6be25f4c1606fe9d96bbdc934cb3.png)
 T4】](https://anymod.com/mod/dkarrd?v=20)
 
 ## 固定导航条
@@ -23,7 +23,7 @@ T4】](https://anymod.com/mod/dkarrd?v=20)
 
 [视图对](https://anymod.com/mod/kdklla?h1=55&h2=56&v=40)视图
 
- [![](../Images/ba6f3d0ac94328652d6cd1b2f4724cf9.png)
+ [![](img/ba6f3d0ac94328652d6cd1b2f4724cf9.png)
 T4】](https://anymod.com/mod/kdklla?h1=55&h2=56&v=40)
 
 ## 揭示底牌
@@ -32,7 +32,7 @@ T4】](https://anymod.com/mod/kdklla?h1=55&h2=56&v=40)
 
 [视图对](https://anymod.com/mod/nbmba?v=30&h1=62&h2=82)视图
 
- [![](../Images/5afb53928052713b0dd5e7bcb41d7578.png)
+ [![](img/5afb53928052713b0dd5e7bcb41d7578.png)
 T4】](https://anymod.com/mod/nbmba?v=30&h1=62&h2=82)
 
 ## 暗卡
@@ -41,7 +41,7 @@ T4】](https://anymod.com/mod/nbmba?v=30&h1=62&h2=82)
 
 [视图对](https://anymod.com/mod/ranmon?h1=49&h2=100&v=20)视图
 
- [![](../Images/bbfe07649a84d311af3285dd86f68af7.png)
+ [![](img/bbfe07649a84d311af3285dd86f68af7.png)
 T4】](https://anymod.com/mod/ranmon?h1=49&h2=100&v=20)
 
 ## Pinterest 板嵌入
@@ -50,7 +50,7 @@ T4】](https://anymod.com/mod/ranmon?h1=49&h2=100&v=20)
 
 [视图对](https://anymod.com/mod/llbnl?v=20)视图
 
- [![](../Images/de11909e051f4fe9207f85b5a4c711dd.png)
+ [![](img/de11909e051f4fe9207f85b5a4c711dd.png)
 T4】](https://anymod.com/mod/llbnl?v=20)
 
 * * *

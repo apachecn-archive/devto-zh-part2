@@ -14,7 +14,7 @@
 
 <figure>
 
-[![There are many open issues on Google’s repo asking for codepoints to be updated.](../Images/3ea9bb5b213f3cef365295676f75d513.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7HwaGXER--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://crunchingnumbersdotlive.files.wordpress.com/2018/07/github_issues.png)
+[![There are many open issues on Google’s repo asking for codepoints to be updated.](img/3ea9bb5b213f3cef365295676f75d513.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7HwaGXER--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://crunchingnumbersdotlive.files.wordpress.com/2018/07/github_issues.png)
 
 <figcaption>There are many open issues on Google’s repo asking for codepoints to be updated.</figcaption>
 
@@ -28,7 +28,7 @@
 
 <figure>
 
-[![Google’s codepoint file listed 932 icons but was missing 104 icons.](../Images/0b87b21807a08e74a6f23c4c10d274b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bdSmgnH---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://crunchingnumbersdotlive.files.wordpress.com/2018/07/existing_codepoints1.png)
+[![Google’s codepoint file listed 932 icons but was missing 104 icons.](img/0b87b21807a08e74a6f23c4c10d274b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bdSmgnH---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://crunchingnumbersdotlive.files.wordpress.com/2018/07/existing_codepoints1.png)
 
 <figcaption>Google’s codepoint file listed 932 icons but was missing 104 icons.</figcaption>
 
@@ -40,7 +40,7 @@
 
 最终，我能够从 104 个丢失的图标中找到 97 个*的代码点和图标名称。请随意查看 https://material-icons.herokuapp.com/T2 的所有图标。*
 
-[![Material Icons has 1036 icons](../Images/dda56f6082fc33c01a70d621df825bee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dX7-kzed--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://crunchingnumbersdotlive.files.wordpress.com/2018/07/all_codepoints.png)
+[![Material Icons has 1036 icons](img/dda56f6082fc33c01a70d621df825bee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dX7-kzed--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://crunchingnumbersdotlive.files.wordpress.com/2018/07/all_codepoints.png)
 
 ### 备注
 

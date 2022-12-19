@@ -16,4 +16,4 @@
 
 [脸书使用 CSS3 加载动画](https://www.skptricks.com/2017/12/facebook-loading-animation-using-css3.html)
 
-[![](../Images/17632fc0614a4960eca9f7aa2fd3a423.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cArKlocH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-sOiWftcLpiw/WizNS8YTjRI/AAAAAAAABEQ/yXnFeuoNl7YXHNpEkGflAn6fKx2UGYcwQCLcBGAs/s400/fb.jpg)
+[![](img/17632fc0614a4960eca9f7aa2fd3a423.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cArKlocH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-sOiWftcLpiw/WizNS8YTjRI/AAAAAAAABEQ/yXnFeuoNl7YXHNpEkGflAn6fKx2UGYcwQCLcBGAs/s400/fb.jpg)

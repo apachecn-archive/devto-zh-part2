@@ -3,7 +3,7 @@
 > 原文：<https://dev.to/croossin/rebuilding-mint-s-ui-from-the-ground-up-using-cardparts-ios-2fna>
 
 不可能的！太有野心了！Mint 是一个多功能的 iOS 应用程序，自 2008 年推出以来一直没有显著变化，彻底改造它的用户界面似乎是一项艰巨的任务。我们的开发团队是如何完成这次重新设计的？简单。我们使用了自己构建的 UI 框架，名为 [CardParts](https://github.com/intuit/CardParts) 。
-T3![Mint CardParts](../Images/f4b3551473d238f904c33326d4e1f914.png)T5】
+T3![Mint CardParts](img/f4b3551473d238f904c33326d4e1f914.png)T5】
 
 ### 什么是 CardParts？
 

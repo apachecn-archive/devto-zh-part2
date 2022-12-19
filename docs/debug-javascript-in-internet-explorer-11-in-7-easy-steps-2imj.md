@@ -24,7 +24,7 @@
 
 为了演示如何使用 Internet Explorer 的开发工具调试应用程序，我将使用一个简单的 Add Person 表单。该表单允许您输入名、中间名和姓。点击“保存”按钮，表格会做一些处理，数据会被发送到你的(假想的)服务器。
 
-[![Internet Explorer debugging example](../Images/e2e949e60041e4bd31ea43e62784baa7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MOC1rrey--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/debug-explorer/image5.png)
+[![Internet Explorer debugging example](img/e2e949e60041e4bd31ea43e62784baa7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MOC1rrey--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/debug-explorer/image5.png)
 
 该表单的代码有三个功能:
 
@@ -66,7 +66,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 进入 Raygun 的错误报告有大量的信息可以用来查找和修复错误，所以让我们来看看我们在处理什么。
 
-[![Raygun Error Internet Explorer Debugging](../Images/fc50868e81aa702c19083a6b77b4ebfb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kF4Cz47P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/debug-explorer/image18.png)
+[![Raygun Error Internet Explorer Debugging](img/fc50868e81aa702c19083a6b77b4ebfb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kF4Cz47P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/debug-explorer/image18.png)
 
 调试错误所需的信息位于堆栈跟踪模块中。
 
@@ -80,23 +80,23 @@ Enter fullscreen mode Exit fullscreen mode
 
 第一步是在 Internet Explorer 中启动应用程序，并打开开发者工具。你可以通过键盘使用 F12 键或在**工具**菜单中选择 **F12 开发者工具**来完成。
 
-[![Internet Explorer Debugging F12 Developer Tools](../Images/6b2aed98ac4bbc40d3eb05966dd7f7e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zaIjVIsX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/debug-explorer/image1.png)
+[![Internet Explorer Debugging F12 Developer Tools](img/6b2aed98ac4bbc40d3eb05966dd7f7e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zaIjVIsX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/debug-explorer/image1.png)
 
 开发人员工具现在将在浏览器选项卡中打开，并且 DOM Explorer 选项卡将处于活动状态。通过单击名称切换到控制台选项卡。Console 选项卡允许您在任何时候执行任意 JavaScript 代码，或者查看来自`console.log`调用的任何输出。
 
 尝试输入`alert('Hello!');`并按回车键——您应该会立即看到警告。
 
-[![Error alert Internet Explorer Debugging](../Images/7693a7b8a2ac7ce2c2f45c6bc0b6dae8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B6lqBPEw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/debug-explorer/image2.png)
+[![Error alert Internet Explorer Debugging](img/7693a7b8a2ac7ce2c2f45c6bc0b6dae8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B6lqBPEw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/debug-explorer/image2.png)
 
 Console 选项卡是一个很有价值的调试工具，因为在诊断问题时，您可以将它作为一个暂存板来尝试代码和评估变量。
 
 要调试代码，首先需要能够在开发人员工具中浏览源代码。您可以在调试器选项卡中完成此操作。
 
-[![Internet Explorer Debugging Tab](../Images/6dbc9817d64e5fd4fe60f16a1f8d03fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BNcvS-HA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/debug-explorer/image3.png)
+[![Internet Explorer Debugging Tab](img/6dbc9817d64e5fd4fe60f16a1f8d03fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BNcvS-HA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/debug-explorer/image3.png)
 
 通过单击选项卡左上角的按钮，可以访问加载到页面中的所有源文件的树视图。您可以像在 IDE 中一样在此导航文件，因为内容显示在中央窗格中。
 
-[![Internet Explorer debugging example](../Images/c79b96f2450437359783469077801ab4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5oQmvfX1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/debug-explorer/image23.png)
+[![Internet Explorer debugging example](img/c79b96f2450437359783469077801ab4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5oQmvfX1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/debug-explorer/image23.png)
 
 右边的窗格为您提供了所有的调试选项，我稍后会谈到这些选项。
 
@@ -114,13 +114,13 @@ Console 选项卡是一个很有价值的调试工具，因为在诊断问题时
 
 当页面上发生特定事件(或一组事件)时，您可以强制中断执行。使用调试窗格中的断点部分，您可以单击**添加事件断点**按钮，并从列表中选择您想要中断的事件。您可以选择添加一个条件表达式，以防止每次执行都被停止。
 
-[![Add event breakpoint Internet Explorer debugging](../Images/bf931d8cb62f528bc4a5433c479c4e33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bBOwU3xb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/debug-explorer/image21.png)
+[![Add event breakpoint Internet Explorer debugging](img/bf931d8cb62f528bc4a5433c479c4e33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bBOwU3xb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/debug-explorer/image21.png)
 
 ### 行断点
 
 添加断点最常见的方式可能是找到您想要停止的特定行，并将其添加到那里。导航到您感兴趣的文件和行，然后单击行号。一个红色的标记将被添加到那一行，每次执行到这一行代码时将停止。在下面的截图中，它将停在`index.js`的第 7 行。
 
-[![Internet Explorer debugging example](../Images/138d7fd75b72fdcc1475c4f845740d55.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zF3dv6hl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/debug-explorer/image22.png)
+[![Internet Explorer debugging example](img/138d7fd75b72fdcc1475c4f845740d55.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zF3dv6hl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/debug-explorer/image22.png)
 
 ### 程序化断点
 
@@ -128,7 +128,7 @@ Console 选项卡是一个很有价值的调试工具，因为在诊断问题时
 
 为此，您可以在希望中断执行的位置添加`debugger;`语句。下面的代码将与上面的行断点具有相同的效果。
 
-[![Programmatic Breakpoint Internet Explorer Debugging](../Images/4f4a7fc4b64ff7283dd37afbe4b01555.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hNWacqkc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/debug-explorer/image19.png)
+[![Programmatic Breakpoint Internet Explorer Debugging](img/4f4a7fc4b64ff7283dd37afbe4b01555.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hNWacqkc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/debug-explorer/image19.png)
 
 ### 错误断点
 
@@ -136,7 +136,7 @@ Developer Tools 有一个方便的特性，当它在代码中遇到异常时会�
 
 要启用此功能，请单击带有暂停符号的停止标志图标，并从列表中选择您想要的选项。启用时，它将呈蓝色。
 
-[![Break on exceptions Internet Explorer Debugging](../Images/a641ffb1b57af0b8c1e15aa2ddfcf58a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RqDRkG9l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/debug-explorer/image11.png)
+[![Break on exceptions Internet Explorer Debugging](img/a641ffb1b57af0b8c1e15aa2ddfcf58a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RqDRkG9l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/debug-explorer/image11.png)
 
 ## 第五步:单步调试你的代码
 
@@ -147,11 +147,11 @@ Developer Tools 有一个方便的特性，当它在代码中遇到异常时会�
 
 有了这些额外的知识，您可以填写名和姓字段，但将中间名留空，以查看这是否会触发错误。
 
-[![Internet Explorer debugging example](../Images/e2e949e60041e4bd31ea43e62784baa7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MOC1rrey--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/debug-explorer/image5.png)
+[![Internet Explorer debugging example](img/e2e949e60041e4bd31ea43e62784baa7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MOC1rrey--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/debug-explorer/image5.png)
 
 点击保存按钮。在这里，Source 选项卡将打开，您可以看到断点被激活。您现在可以开始逐句通过代码了。为此，您可以使用调试窗格中的四个按钮。
 
-[![play pause Internet Explorer debugging](../Images/69bcbddb8386cb4c0296172a906c87de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tIis3otG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/debug-explorer/image13.png)
+[![play pause Internet Explorer debugging](img/69bcbddb8386cb4c0296172a906c87de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tIis3otG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/debug-explorer/image13.png)
 
 继续执行代码，直到下一个断点
 
@@ -163,17 +163,17 @@ Developer Tools 有一个方便的特性，当它在代码中遇到异常时会�
 
 您将使用这些来一步步实现您的`capitalizeString`函数。所以从第 7 行开始，使用“跳过”按钮，直到我们到达第 13 行。活动线显示为黄色背景，并有一个指向它的橙色箭头。
 
-[![Internet Explorer debugging example](../Images/138d7fd75b72fdcc1475c4f845740d55.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zF3dv6hl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/debug-explorer/image22.png)
+[![Internet Explorer debugging example](img/138d7fd75b72fdcc1475c4f845740d55.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zF3dv6hl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/debug-explorer/image22.png)
 
 您现在可以使用“单步执行”按钮进入对`capitalizeString`函数的调用。
 
-[![Internet Explorer debugging example](../Images/138d7fd75b72fdcc1475c4f845740d55.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zF3dv6hl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/debug-explorer/image22.png)
+[![Internet Explorer debugging example](img/138d7fd75b72fdcc1475c4f845740d55.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zF3dv6hl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/debug-explorer/image22.png)
 
 ### 导航调用堆栈
 
 当你像这样遍历代码时，你可能想跳回一个父函数来检查当时发生了什么。为此，请使用 Callstack 部分，该部分列出了您的代码中到达这一点所经过的所有函数——与 Raygun 错误报告中显示的 Call stack 完全相同。
 
-[![Call stack Internet Explorer Debugging](../Images/f7605b8f60aa56f8f0d2c3d2537b5eaa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Eyc16KWp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/debug-explorer/image9.png)
+[![Call stack Internet Explorer Debugging](img/f7605b8f60aa56f8f0d2c3d2537b5eaa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Eyc16KWp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/debug-explorer/image9.png)
 
 您只需点击列表中的一个项目，即可返回该功能。请记住，执行中的当前位置不会改变，因此使用“单步执行”按钮将从调用堆栈的顶部继续。
 
@@ -187,13 +187,13 @@ Developer Tools 有一个方便的特性，当它在代码中遇到异常时会�
 
 确定变量的值的最简单的方法是将鼠标悬停在它上面，工具提示将弹出该值。您甚至可以选择一组表达式，并将鼠标悬停在上面以获得表达式的输出。
 
-[![Mouse Hover Internet Explorer Debugging](../Images/ab7377b8fd4f0df2fbae9e466c5f69c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i_bUt3DU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/debug-explorer/image7.png)
+[![Mouse Hover Internet Explorer Debugging](img/ab7377b8fd4f0df2fbae9e466c5f69c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i_bUt3DU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/debug-explorer/image7.png)
 
 ### 观察者
 
 您可以将表达式添加到“监视”面板，该面板会在您浏览代码时显示表达式的当前值。这有助于跟踪更复杂的表达式是如何随时间变化的。
 
-[![Watchers Internet Explorer Debugging](../Images/72234870c6e0817c532193f46bdb78f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TLB3mRwY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/debug-explorer/image4.png)
+[![Watchers Internet Explorer Debugging](img/72234870c6e0817c532193f46bdb78f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TLB3mRwY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/debug-explorer/image4.png)
 
 您可以通过单击面板顶部的按钮，单击底部的“添加监视”文本，或者通过右键单击并选择“添加监视”来选择表达式，从而添加这些内容。
 
@@ -207,7 +207,7 @@ IE 11 的开发者工具的一个独特的功能是事件跟踪点，它允许�
 
 要添加事件跟踪点，请单击断点部分的按钮。从打开的窗口中选择要跟踪的事件，然后输入要输出的表达式。
 
-[![Event tracepoint Internet Explorer Debugging](../Images/38c55d5e5791c1e6815b31c0e4ff9bef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yGFTesmO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/debug-explorer/image17.png)
+[![Event tracepoint Internet Explorer Debugging](img/38c55d5e5791c1e6815b31c0e4ff9bef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yGFTesmO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/debug-explorer/image17.png)
 
 ### 控制台
 
@@ -223,7 +223,7 @@ IE 11 的开发者工具的一个独特的功能是事件跟踪点，它允许�
 
 您可以通过在控制台中输入完整的表达式来验证这一点:
 
-[![Console Internet Explorer Debugging](../Images/68a64989ae7eb11cf2533a5c7ea9b4fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0SQP-jrV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/debug-explorer/image10.png)
+[![Console Internet Explorer Debugging](img/68a64989ae7eb11cf2533a5c7ea9b4fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0SQP-jrV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/debug-explorer/image10.png)
 
 因此，要解决这个问题，您需要检查字符串是空的还是未定义的。如果是，您需要不做任何处理就返回一个空字符串。
 

@@ -47,7 +47,7 @@ df.head()
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![table1](../Images/839fa5294b7e8f12f30b1f4420032842.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--icChaigA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j9p3vadehmxo2slbshsv.png)
+[![table1](img/839fa5294b7e8f12f30b1f4420032842.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--icChaigA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j9p3vadehmxo2slbshsv.png)
 
 既然我们已经加载了数据，我们将删除所有个人可识别的信息。列`["PassengerId", "Name"]`包含这样的信息。请注意，`["PassengerId", "Name"]`对于每一行都是唯一的，因此如果我们建立一个机器学习模型，我们以后无论如何都会删除它们。关于`["Ticket", "Cabin"]`也可以做类似的论证，几乎每一行都是唯一的。
 
@@ -68,7 +68,7 @@ df.head()
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![table2](../Images/6c9b0bec23c6840d25d04d08232b5e4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YfyJyVww--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/blukzmn7p4iueoc8sdgr.png)
+[![table2](img/6c9b0bec23c6840d25d04d08232b5e4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YfyJyVww--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/blukzmn7p4iueoc8sdgr.png)
 
 接下来，为了提取更多的信息，作为后面的预处理步骤，我们将用数值对`Sex`和`Embarked`进行编码。`Sex`将编码为`0,1`，`Embarked`将编码为`0,1,2`。类`LabelEncoder()`为我们做了大部分工作。
 
@@ -91,7 +91,7 @@ df.head()
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![table3](../Images/1ebb728886b26e3b185b609e139894ae.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7p1pRuPJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8zhrm7sy50eavy9rmwgt.png)T3】
+[![table3](img/1ebb728886b26e3b185b609e139894ae.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7p1pRuPJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8zhrm7sy50eavy9rmwgt.png)T3】
 
 ```
 df.nunique() 
@@ -99,7 +99,7 @@ df.nunique()
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![nunique](../Images/129b03ef28a434a47f16b90a722f9d6f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rXjxvY0Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6mrxw5u62nmxnh6xv95k.png)
+[![nunique](img/129b03ef28a434a47f16b90a722f9d6f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rXjxvY0Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6mrxw5u62nmxnh6xv95k.png)
 
 ### 从同一分布中抽样匿名
 
@@ -136,7 +136,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![result](../Images/5e98e3b53222ce3c2378549c23047d77.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8FEQfdQy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p5sd912h28lg9cx4akr4.png)
+[![result](img/5e98e3b53222ce3c2378549c23047d77.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8FEQfdQy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p5sd912h28lg9cx4akr4.png)
 
 首先，我们确定一个唯一值在变量中出现的频率。这是经验概率函数。然后，我们使用这个概率函数，并将其传送到`np.random.choice()`来创建一个具有相同概率函数的新随机变量。
 
@@ -181,9 +181,9 @@ plot_result(df, continuous, best_distributions)
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Age distribution](../Images/46c3d40bc5da317eba89511fe5ca4c5d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wzSzCOoK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6brxefj3lhi91gv7x132.png)
+[![Age distribution](img/46c3d40bc5da317eba89511fe5ca4c5d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wzSzCOoK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6brxefj3lhi91gv7x132.png)
 
-[![Fare distribution](../Images/4a88c060d35e559d4796ca3ff19f3c27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2wrADO9L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t3y8nvaxhdbu48jhe3tu.png)
+[![Fare distribution](img/4a88c060d35e559d4796ca3ff19f3c27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2wrADO9L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t3y8nvaxhdbu48jhe3tu.png)
 
 我得说，还不算太坏。
 
@@ -217,7 +217,7 @@ gendf.head()
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![table3](../Images/0723e20d620dd2970ac50123dfc8c79d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--odvwQyLd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dgfhbpdh60gq677udpxn.png)
+[![table3](img/0723e20d620dd2970ac50123dfc8c79d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--odvwQyLd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dgfhbpdh60gq677udpxn.png)
 
 作为后处理步骤，还可以对连续变量进行舍入。我选择不那样做。但是，我删除了所有的列名，因为这也可能会泄露一些关于数据集的信息。我只是用 0，1，2 来代替它们，...。
 
@@ -227,7 +227,7 @@ gendf.columns = list(range(gendf.shape[1]))
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![table4](../Images/c32e22c666034ede4f55648dadf2d00d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VFwX0znP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/swfvqbl65yzzklsxclo1.png)
+[![table4](img/c32e22c666034ede4f55648dadf2d00d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VFwX0znP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/swfvqbl65yzzklsxclo1.png)
 
 最后，一切都保存到磁盘。
 

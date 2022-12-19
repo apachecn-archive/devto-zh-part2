@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/brettclawson75/6-programming-languages-you-should-learn-if-you-are-an-aspiring-financial-trader-1goj>
 
-[![Coding](../Images/00f7a115137c2e79737ffdc79d7aeffa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pwTgK7tz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1532522750741-628fde798c73%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D2a122ac12308b23ffd333092dd803920%26auto%3Dformat%26fit%3Dcrop%26w%3D1650%26q%3D80)
+[![Coding](img/00f7a115137c2e79737ffdc79d7aeffa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pwTgK7tz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1532522750741-628fde798c73%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D2a122ac12308b23ffd333092dd803920%26auto%3Dformat%26fit%3Dcrop%26w%3D1650%26q%3D80)
 
 金融行业是该行业中技术含量最高的领域之一。专家必须具备各种技能、知识和经验，才能有效工作并交付预期的结果。人们可以从金融培训机构获得其他课程。 [期权动物可以帮助](https://www.glassdoor.com/Overview/Working-at-OptionsANIMAL-EI_IE1672445.11,24.htm) 个人更好地理解金融市场。鉴于信息技术技能对金融行业来说是必要的，人们需要有大量的编程知识。为了获得所需的编程技能，必须能够使用各种编程语言。这里有一些适合华尔街的最佳编程语言。
 

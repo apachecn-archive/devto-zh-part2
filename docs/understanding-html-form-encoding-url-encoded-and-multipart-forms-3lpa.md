@@ -45,7 +45,7 @@ URL 编码的主体和动作 URL 中传递的查询参数看起来不是非常�
 
 尝试用上面的代码创建一个 HTML 文件，看看它是如何在开发工具中提交的。这是一张快照，
 
-[![URL Encoded Snapshot](../Images/58426244311a86120a51789cf1ea49b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MuvkO3GC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/coe8u0vt3iryp70e1rdv.png)
+[![URL Encoded Snapshot](img/58426244311a86120a51789cf1ea49b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MuvkO3GC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/coe8u0vt3iryp70e1rdv.png)
 
 这里要注意的是写着`application/x-www-form-urlencoded`的`Content-Type`头，查询字符串和表单字段以上面讨论的格式传输到服务器。
 
@@ -65,7 +65,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在尝试提交表单，看看表单字段是如何在开发工具中转移的。这是 Chrome 中的一个开发工具插件。
 
-[![URL Encoded snapshot with space](../Images/054e0ac128c06336d84f88ad00feb7f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O6YhIZZI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kzk72y3ui5r7iwz4g1r6.png)
+[![URL Encoded snapshot with space](img/054e0ac128c06336d84f88ad00feb7f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O6YhIZZI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kzk72y3ui5r7iwz4g1r6.png)
 
 显然，您可以看到空格被替换为“%20”或“+”。对于查询参数和表单主体都是如此。
 
@@ -89,7 +89,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们继续并提交它，看看它如何出现在开发工具中。
 
-[![URL Encoded snapshot with space](../Images/0ca775492f84f8a0bc3ee925ac24c758.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wt6Q4uEV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8bqopft22lv9fhlqr4k2.png)
+[![URL Encoded snapshot with space](img/0ca775492f84f8a0bc3ee925ac24c758.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wt6Q4uEV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8bqopft22lv9fhlqr4k2.png)
 
 这里有两件事需要注意，表单请求的`Content-Type`头和有效负载。让我们一个一个地看。
 

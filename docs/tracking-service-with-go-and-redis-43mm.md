@@ -259,7 +259,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 接下来，我们需要添加四个驱动程序位置。
 
-[![Map example screenshot](../Images/c286f989fe8636fc12b31a322e0dd39e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hsn-TiWg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/douglasmakey/tracking/blob/master/example.png%3Fraw%3Dtrue)
+[![Map example screenshot](img/c286f989fe8636fc12b31a322e0dd39e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hsn-TiWg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/douglasmakey/tracking/blob/master/example.png%3Fraw%3Dtrue)
 
 我们在地图上添加了四个司机，绿色的线显示了提货点和司机之间的距离。
 

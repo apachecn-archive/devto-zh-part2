@@ -34,14 +34,14 @@ Medium 和其他博客网站是很好的平台，但是你在偏僻的地方发�
 *   液体标签，那东西太棒了。
 *   再一次...一个渴望知识和互相帮助的神奇社区。
 
-> ![Ben Halpern profile image](../Images/3814cc9cbc453345725bf2b5e578e8a0.png)本哈尔彭@本哈尔彭![twitter logo](../Images/74b03a903e302feaec877e37a7689665.png)过去 24 小时左右的小反思
-> [dev.to/ben/ah-to-be-t…](https://t.co/CVbucYT2Li)19:52PM-09 2018 年 8 月[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1027643748153544704)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1027643748153544704)23[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1027643748153544704)179
+> ![Ben Halpern profile image](img/3814cc9cbc453345725bf2b5e578e8a0.png)本哈尔彭@本哈尔彭![twitter logo](img/74b03a903e302feaec877e37a7689665.png)过去 24 小时左右的小反思
+> [dev.to/ben/ah-to-be-t…](https://t.co/CVbucYT2Li)19:52PM-09 2018 年 8 月[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1027643748153544704)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1027643748153544704)23[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1027643748153544704)179
 
 * * *
 
 我真的鼓励开发/技术人员和公司也这样做。你还在等什么？
 
-[![Join us!](../Images/489eb2ca3c4dcf0897b2f0c698365efe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OtRM3ztC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/alta7l2nai7db5xb6k9v.jpg)
+[![Join us!](img/489eb2ca3c4dcf0897b2f0c698365efe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OtRM3ztC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/alta7l2nai7db5xb6k9v.jpg)
 
 加入我们吧！
 

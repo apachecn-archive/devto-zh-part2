@@ -11,7 +11,7 @@
 
 因此，无论您的角色是什么，每个目标都可以通过简单的认证轻松实现。或者，你甚至可以考虑联系英国的 Salesforce 开发服务提供商，他们有潜力提供几乎所有可能的利基解决方案。
 
-[![salesforce certification](../Images/2722de14664267cf7db296bf858aae48.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JpkDzcWg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.forcetalks.com/wp-content/uploads/2018/02/certi.png)
+[![salesforce certification](img/2722de14664267cf7db296bf858aae48.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JpkDzcWg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.forcetalks.com/wp-content/uploads/2018/02/certi.png)
 
 *   **Salesforce Administrator**-该认证考试特别面向非新手，并且已经作为 Salesforce 管理员在平稳运行 sales force 的所有管理级别方面获得了足够的经验的个人。
 *   **Salesforce 高级管理员** -获得该认证尤其意味着您在 Salesforce 的管理级别上拥有高级专业知识。除此之外，您还需要选择通过 [Salesforce](https://www.salesforce.com) 管理员考试的先决条件认证。

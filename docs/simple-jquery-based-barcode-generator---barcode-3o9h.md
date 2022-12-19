@@ -27,6 +27,6 @@ MSI(MSI)
 
 [基于 jQuery 的简单条形码生成器-条形码](https://www.skptricks.com/2017/12/simple-jquery-based-barcode-generator.html)
 
-[![](../Images/6954e01966aaa673b4f130efb034174b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5HX3aOUL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-S5DmKgwKBI4/WiYc54IYi8I/AAAAAAAABD8/rlZ57QybJQ8Q1_IFhVgPgN474Wy63WtTACLcBGAs/s320/bar.jpg)
+[![](img/6954e01966aaa673b4f130efb034174b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5HX3aOUL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-S5DmKgwKBI4/WiYc54IYi8I/AAAAAAAABD8/rlZ57QybJQ8Q1_IFhVgPgN474Wy63WtTACLcBGAs/s320/bar.jpg)
 
 [https://www.youtube.com/embed/zZe1ssVhQIo](https://www.youtube.com/embed/zZe1ssVhQIo)

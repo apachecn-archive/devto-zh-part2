@@ -17,14 +17,14 @@
 
 下面是启发我写这篇文章的推文(好建议，尽管我没有使用它):
 
-> ![Ally MacDonald profile image](../Images/0d05e944e6e8d79c29884dbb28a3c500.png)Ally MacDonald@ Ally MacDonald![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)想在 5 秒内提高自己的生活质量？
+> ![Ally MacDonald profile image](img/0d05e944e6e8d79c29884dbb28a3c500.png)Ally MacDonald@ Ally MacDonald![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)想在 5 秒内提高自己的生活质量？
 > 
 > 1。转到系统偏好设置
 > 2。键盘
 > 3。App 快捷方式
 > 4。所有应用- >添加【粘贴并匹配样式】⌘V
 > 
-> 完成。2018 年 8 月 01 日下午 14:03[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1024656834571976705)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1024656834571976705)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1024656834571976705)
+> 完成。2018 年 8 月 01 日下午 14:03[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1024656834571976705)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1024656834571976705)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1024656834571976705)
 
 如果你喜欢详细的步骤，这里有苹果的文档: [macOS Sierra:为应用程序创建键盘快捷键](https://support.apple.com/kb/PH25377?locale=en_US)。
 

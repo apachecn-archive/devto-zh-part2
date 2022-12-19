@@ -228,7 +228,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 谢天谢地，还有另一个解决方案。通过设计，它允许您保持所有的控制。你可能以前也经历过——就是他们给你的那个小蜂鸣器。你知道，这个。
 
-[![Restaurant Buzzer](../Images/3b595007dc80ed4b11d7781399cdb623.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rBmecrKO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tylermcginnis.com/images/posts/advanced-javascript/buzzy.png)
+[![Restaurant Buzzer](img/3b595007dc80ed4b11d7781399cdb623.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rBmecrKO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tylermcginnis.cimg/posts/advanced-javascript/buzzy.png)
 
 如果你以前从未用过，这个想法很简单。他们没有记下你的名字或号码，而是给了你这个装置。当设备开始发出嗡嗡声并发光时，您的桌子就准备好了。你仍然可以做任何你想做的事情，因为你在等待你的桌子空出来，但是现在你不必放弃任何东西。其实恰恰相反。他们必须给**你**一些东西。没有控制反转。
 
@@ -287,7 +287,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们可以通过在创建承诺后立即记录它，然后在调用`resolve`后大约 2 秒钟后再次记录来看到这种变化。
 
-[![Use resolve to change the status of a promise to fulfilled](../Images/c02df26014e8dcffc837cca4400b69e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z0kgJ4o1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://tylermcginnis.com/images/posts/advanced-javascript/resolve.gif)
+[![Use resolve to change the status of a promise to fulfilled](img/c02df26014e8dcffc837cca4400b69e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z0kgJ4o1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://tylermcginnis.cimg/posts/advanced-javascript/resolve.gif)
 
 注意承诺从`<pending>`到`<resolved>`。
 

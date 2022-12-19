@@ -4,11 +4,11 @@
 
 **我们编码的原因是为了解决问题**
 
-[![.](../Images/618a50fb3cbf2d679d03a8852a84bd2b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DyNht997--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.elegantthemes.com/blog/wp-content/uploads/2017/07/programming-languages-to-learn-for-wordpress-featured-image.png)
+[![.](img/618a50fb3cbf2d679d03a8852a84bd2b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DyNht997--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.elegantthemes.com/blog/wp-content/uploads/2017/07/programming-languages-to-learn-for-wordpress-featured-image.png)
 
 [编程](https://en.m.wikipedia.org/wiki/Computer_programming)不全是关于数学，它是关于解决我们在日常生活中面临的问题，这样做我们有时需要数学。
 
-[![](../Images/51dff0b3f3cd956869705ab940d65a65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CoqD_AcZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.progressiveteacher.in/wp-content/uploads/2016/07/002-581x252.jpg)
+[![](img/51dff0b3f3cd956869705ab940d65a65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CoqD_AcZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.progressiveteacher.in/wp-content/uploads/2016/07/002-581x252.jpg)
 
 所以让我们用 [Python](https://python.org) 做一些简单的数学计算，我们选择 Python 是因为它简单易学，语法清晰。
 

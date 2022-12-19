@@ -8,7 +8,7 @@
 
 任何移动应用程序都有无限的潜力，如果获得了关于应用程序开发和营销的适当知识，就可以利用和影响这些潜力。这里有一些想法和计划，可以帮助您防止应用程序过时。
 
-[![](../Images/c73faa2474217e183307f6f86ffd92b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--adpdBZ6O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ANZqr7NWQFwgY5bXRSnYz-Q.jpeg)
+[![](img/c73faa2474217e183307f6f86ffd92b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--adpdBZ6O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ANZqr7NWQFwgY5bXRSnYz-Q.jpeg)
 
 **追赶新技术**
 

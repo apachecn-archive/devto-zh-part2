@@ -6,7 +6,7 @@
 
 [双因素认证(2FA)](https://en.wikipedia.org/wiki/Multi-factor_authentication) 或多因素认证(MFA)是在常规密码保护之外保护帐户的方法。通常，我们认为 2FA 是你知道的东西(你的密码)和你拥有的东西(设备)。这个想法是，如果您破坏了一个，您仍然不能访问受保护的资源。
 
-[![Image of an antique lock](../Images/37bbf40199b43f9df7f4aaaa2e770226.png "Image of an antique lock")](https://res.cloudinary.com/practicaldev/image/fetch/s--pY2MEk7d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://juliaferraioli.com/blog/images/2fa-sms-you/lock.jpg)T3】
+[![Image of an antique lock](img/37bbf40199b43f9df7f4aaaa2e770226.png "Image of an antique lock")](https://res.cloudinary.com/practicaldev/image/fetch/s--pY2MEk7d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://juliaferraioli.com/blimg/2fa-sms-you/lock.jpg)T3】
 
 <center>**Antique, ornate lock**</center>
 

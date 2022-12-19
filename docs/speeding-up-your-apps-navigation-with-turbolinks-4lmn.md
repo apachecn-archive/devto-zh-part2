@@ -19,7 +19,7 @@ Turbolinks 是一种优化，它通过智能地切换页面和重新加载应用
 
 通过合并`<head>`标签，浏览器不需要重新加载和重新呈现像 CSS 和 JavaScript 文件这样的资产，它们同时出现在两个页面上。这可以显著提高应用程序的速度，尤其是当你有很多资源在你的大部分页面上重复使用的时候。
 
-[![](../Images/594cd23ac5511baf8d0db741bc6487ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zmmFOmMD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.appsignal.com/images/blog/2018-05/turbolinks-network.png%3F)
+[![](img/594cd23ac5511baf8d0db741bc6487ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zmmFOmMD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.appsignal.cimg/blog/2018-05/turbolinks-network.png%3F)
 
 在一个带有一些视图的全新 Rails 5 应用程序中，您可以通过点击链接并按下 back 按钮进行导航来查看 Turbolinks 的运行情况。在浏览器的网络标签中，你会看到通过标有“xhr”的 Turbolinks 加载的页面请求。此外，您的资产不会为每个请求重新加载。
 
@@ -51,7 +51,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 为了解决这个问题，Turbolinks 将在 500 毫秒后在页面顶部显示一个蓝色条(可以用 CSS 进行样式化),表示页面正在加载。
 
-[![](../Images/49bbba691ee5fc129a536b7bfabcb736.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SzbKkC5n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.appsignal.com/images/blog/2018-05/turbolinks-loading.png%3F)
+[![](img/49bbba691ee5fc129a536b7bfabcb736.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SzbKkC5n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.appsignal.cimg/blog/2018-05/turbolinks-loading.png%3F)
 
 # `$ rails new --skip-turbolinks`？
 

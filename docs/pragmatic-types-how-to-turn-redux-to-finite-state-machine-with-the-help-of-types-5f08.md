@@ -254,7 +254,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果你认为找到这些类型的 bug 太麻烦了，想想典型的 IT 支持问题:“你有没有试着把它关掉再打开？”。是的，在某个地方隐藏着与状态相关的错误，解决方法是重启系统，将状态重置为初始状态。
 
-[![Guy from IT crowd saying "Have you tried to turning it off and on again"](../Images/024a6ebfe76d5fcae45ab3d226f9560c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KPGotogP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gigf5nztyx9v70l4rvxo.gif)
+[![Guy from IT crowd saying "Have you tried to turning it off and on again"](img/024a6ebfe76d5fcae45ab3d226f9560c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KPGotogP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gigf5nztyx9v70l4rvxo.gif)
 
 另一方面，我同意 JS(或 Flow 或 TS)语法对于这种任务来说有点笨拙。与开关匹配的模式没有表现力。Redux 比传统需要更多的样板文件。**说说你的看法**。如果它需要更少的样板文件，你会使用它吗？
 

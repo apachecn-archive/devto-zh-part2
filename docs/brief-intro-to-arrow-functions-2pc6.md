@@ -34,7 +34,7 @@ doubleArrow(12);
 // output is still 24! 
 ```
 
-[![whaaaaaat?](../Images/81d2ca5b88f67a9dc7da0fb2fa45ac40.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ie2a73F6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://memeshappen.com/media/created/2016/12/Whaaaat-.jpg)
+[![whaaaaaat?](img/81d2ca5b88f67a9dc7da0fb2fa45ac40.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ie2a73F6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://memeshappen.com/media/created/2016/12/Whaaaat-.jpg)
 
 **doubleArrow** 函数做了和 **double** 函数完全一样的事情，但是只用了一行代码而不是三行！太神奇了！
 

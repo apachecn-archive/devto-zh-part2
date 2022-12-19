@@ -22,7 +22,7 @@
 > 转换器相当于对数据元素流的操作。
 
 那个人是一种转换器，它从其输入端获取数据元素，并可能在其输出端发送一些:
-[![A kind of transducer](../Images/99c71b2860bcb9d353513b9fff96bf76.png "from the game 'Human Resource Machine'")](https://res.cloudinary.com/practicaldev/image/fetch/s--FjZRWx4f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bnn66cxstjgiptb3mgh7.png)
+[![A kind of transducer](img/99c71b2860bcb9d353513b9fff96bf76.png "from the game 'Human Resource Machine'")](https://res.cloudinary.com/practicaldev/image/fetch/s--FjZRWx4f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bnn66cxstjgiptb3mgh7.png)
 
 您可以将它视为一个函数，对于输入流的每个元素，它只被调用一次，并且可以将任意数量的元素发送到输出流。
 

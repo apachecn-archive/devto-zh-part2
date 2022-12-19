@@ -19,7 +19,7 @@
 1.  编码训练营——这些很棒，因为它们旨在让你从很少或没有编码经验到在 3 个月内准备好工作。这意味着许多有效的实践和来自运行训练营的开发者的帮助。你可能会遇到的问题是，训练营通常是 3 个月的全日制学习，费用从 3000 美元(4000 美元)到 15000 美元(20000 美元)不等。这是一笔很大的开销，尤其是因为这三个月你都没有收入。
 2.  找一个导师——这是最完美的情况，你开始编码，让一个开发人员作为你的导师。他们可能是朋友、家人，或者只是想帮助你的开发者。你不会得到训练营那么多的帮助，但是当你遇到障碍时，有人可以帮助你真的很有用。还有，有人检查你，确保你投入时间，可以帮助你保持正轨。这听起来很棒，但是找一个导师可能很难。不是每个人都认识从事开发工作的人，这对导师来说是一项额外的工作。如果你认识一个开发人员，他们可能会拒绝做你的导师，你需要尊重这一点。
 
-[![](../Images/081fb5782677ebf12eb87bbe6161947e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--c1xTqrOZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AbyGmIJHlY6R00U3e8rX3Fg.jpeg) 
+[![](img/081fb5782677ebf12eb87bbe6161947e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--c1xTqrOZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AbyGmIJHlY6R00U3e8rX3Fg.jpeg) 
 
 <figcaption>有个导师就能出彩</figcaption>
 
@@ -37,7 +37,7 @@
 
 当我搜索**初级网页开发员**时，我看到的第一个工作列表是**初级前端网页开发员**。这些要求是:
 
-[![](../Images/d7a02fda424772bba38b85425be4c7cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j2N2YH-s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AvWoyfKE_8lkNXVcMlJAq9Q.png)
+[![](img/d7a02fda424772bba38b85425be4c7cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j2N2YH-s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AvWoyfKE_8lkNXVcMlJAq9Q.png)
 
 我们可以浏览一些类似的招聘广告，找到经常出现的要求。这些可能是:
 
@@ -63,7 +63,7 @@
 
 我们将从[响应式网页设计认证](https://learn.freecodecamp.org/)和*基本 HTML 和 HTML5* 和*基本 CSS* 部分开始。这些部分向您介绍 HTML 和 CSS，最后，您将创建表单并使用级联变量设计 HTML。
 
-[![](../Images/a8ee58bbf01c57b5c1bb64d7024e96e6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gC-_2U3I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/810/1%2AhXmg4Z2-YgV8PaSlr079CA.png) 
+[![](img/a8ee58bbf01c57b5c1bb64d7024e96e6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gC-_2U3I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/810/1%2AhXmg4Z2-YgV8PaSlr079CA.png) 
 
 <figcaption>你将在*基础 CSS 中创建的图像:层叠 CSS 变量*</figcaption>
 
@@ -85,7 +85,7 @@
 
 JavaScript 是驱动互联网上 94.8%的网站的语言。那可是好多网站啊！JavaScript 允许你将一个静态的网站转换成一个完全交互式的网站。
 
-[![](../Images/6062c518db833502ed490bafcfb8886a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ggx6-V2O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AXZj7qjKxz7l8xGEf.jpg)
+[![](img/6062c518db833502ed490bafcfb8886a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ggx6-V2O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AXZj7qjKxz7l8xGEf.jpg)
 
 学习 JavaScript 我们可以在 [*FreeCodeCamp*](https://learn.freecodecamp.org/) *上做 *Javascript 算法和数据结构认证*。*因为 JavaScript 是现代网站的重要组成部分，我们将完成整个认证。这可能看起来工作量很大，但是当你作为一名 web 开发人员工作时，你可能会花大部分时间编写 JavaScript，所以擅长它是很重要的。
 
@@ -103,7 +103,7 @@ JavaScript 是驱动互联网上 94.8%的网站的语言。那可是好多网站
 
 这是我用来找第二份工作的简历。
 
-[![](../Images/dffe7432aaa39e98a67a86754896109d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pKLY_xi_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/794/1%2AygWRFpOBDGIKdC_SA_xGAw.png)
+[![](img/dffe7432aaa39e98a67a86754896109d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pKLY_xi_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/794/1%2AygWRFpOBDGIKdC_SA_xGAw.png)
 
 申请哪些工作也很重要。这似乎是错误的，但你应该申请那些你能满足 80%要求的工作。你总是可以指出，作为一个自学成才的开发人员，你可能会比大多数其他人更快地了解其他需求。
 
@@ -129,7 +129,7 @@ JavaScript 是驱动互联网上 94.8%的网站的语言。那可是好多网站
 
 有一些 JavaScript 库可以让你的生活变得更容易。最著名的库是 jQuery，它可以帮助您处理 DOM 操作、对象和数组函数等等。
 
-[![](../Images/453332410a8312e847f0b562cdb063d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8f-mb1p3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/0%2A80BbrrMMtWYYPobP.png)
+[![](img/453332410a8312e847f0b562cdb063d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8f-mb1p3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/0%2A80BbrrMMtWYYPobP.png)
 
 我推荐学习使用 jQuery，因为它是在 JavaScript 中使用库的很好的入门。有很多学习 jQuery 的课程和教程，但是我仍然喜欢 FreeCodeCamp 这一课。
 
@@ -157,7 +157,7 @@ JavaScript 是驱动互联网上 94.8%的网站的语言。那可是好多网站
 
 ### 面试
 
-[![](../Images/c6dc089cb70616c8d528930486c3bf71.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iVhyXn6v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2APApMjuBjzI_cTNQ1JYknqw.jpeg)
+[![](img/c6dc089cb70616c8d528930486c3bf71.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iVhyXn6v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2APApMjuBjzI_cTNQ1JYknqw.jpeg)
 
 在申请了一堆工作并继续提高你的技能后，你有希望在面试中被问到。这是你闪耀的时刻。有很多关于如何处理面试过程的文章，所以我不会讲太多细节，但我会强调这篇文章所说的内容:
 

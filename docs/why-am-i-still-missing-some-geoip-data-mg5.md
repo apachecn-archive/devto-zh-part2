@@ -6,7 +6,7 @@
 
 ## 这个问题
 
-[![](../Images/e77682437ddc62226d68cd917ef6e3c9.png)](https://jermdavis.files.wordpress.com/2018/04/visitlocation.png) 在我的[上一个帖子](https://dev.to/jermdavis/why-am-i-missing-my-geoip-data-3kcl-temp-slug-357725)改变后，我开始看到一些 GeoIP 数据被记录。但是当我仔细查看存储的内容时，我注意到唯一被捕获的数据是加的夫和伦敦的地址。我意识到这两个位置恰好对应于我(在 [Kagool](http://www.bekagool.com) 的内部网络上)和客户作者的网络位置。这看起来很可疑，所以我花了更多的时间查看网站的配置和基础设施的状态。然而，我能找到的信息似乎都没有帮助或相关。
+[![](img/e77682437ddc62226d68cd917ef6e3c9.png)](https://jermdavis.files.wordpress.com/2018/04/visitlocation.png) 在我的[上一个帖子](https://dev.to/jermdavis/why-am-i-missing-my-geoip-data-3kcl-temp-slug-357725)改变后，我开始看到一些 GeoIP 数据被记录。但是当我仔细查看存储的内容时，我注意到唯一被捕获的数据是加的夫和伦敦的地址。我意识到这两个位置恰好对应于我(在 [Kagool](http://www.bekagool.com) 的内部网络上)和客户作者的网络位置。这看起来很可疑，所以我花了更多的时间查看网站的配置和基础设施的状态。然而，我能找到的信息似乎都没有帮助或相关。
 
 所以在用尽了我所知道的和谷歌的神奇力量后，我试着向 Sitecore 提出支持请求…
 
@@ -20,7 +20,7 @@
 
 有了这个建议，我做了一些研究，试图找出负载平衡硬件可能会添加什么标题。我将一些测试代码放到了 CM 和 CD 服务器上，这样我就可以查看客户机请求到达的原始头。但是我看不到任何与本案相关的东西，不管我在网上浏览的时候在哪里。我的笔记本电脑(在公司网络上)和手机(在公共互联网上)都显示如下内容:
 
-[![](../Images/a4532233d1f06847465958f4c8b89fc8.png)T2】](https://jermdavis.files.wordpress.com/2018/06/headerlist.png)
+[![](img/a4532233d1f06847465958f4c8b89fc8.png)T2】](https://jermdavis.files.wordpress.com/2018/06/headerlist.png)
 
 没有任何东西看起来可能是“`X-Forwarded-For`”或类似的标题…
 
@@ -32,7 +32,7 @@
 
 支持人员说，我应该在我的集群中所有需要解析位置的服务器上启用`Analytics.PerformLookup`，以便让一切正常运行—[,他们是对的](https://media.giphy.com/media/YEaQWIJRg6dTa/giphy.gif)。一旦在 CD 服务器上更改了此设置，网站的每个访问者都会被正确地查找到:
 
-[![](../Images/6ea8d380f888e982b57674f180116124.png)T2】](https://jermdavis.files.wordpress.com/2018/06/geoipdata.png)
+[![](img/6ea8d380f888e982b57674f180116124.png)T2】](https://jermdavis.files.wordpress.com/2018/06/geoipdata.png)
 
 答对了…
 

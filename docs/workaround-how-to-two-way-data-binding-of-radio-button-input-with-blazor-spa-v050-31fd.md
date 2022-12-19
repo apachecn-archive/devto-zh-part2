@@ -126,9 +126,9 @@ Enter fullscreen mode Exit fullscreen mode
 
 另请参见:
 
-# [![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) 绑定尚未处理的单选按钮 #5579](https://github.com/dotnet/aspnetcore/issues/5579) 
+# [![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) 绑定尚未处理的单选按钮 #5579](https://github.com/dotnet/aspnetcore/issues/5579) 
 
-[![MarkStega avatar](../Images/abd5586571583628c8897c5946d0f3b1.png)](https://github.com/MarkStega) **[MarkStega](https://github.com/MarkStega)** posted on [<time datetime="2018-08-16T13:00:32Z">Aug 16, 2018</time>](https://github.com/dotnet/aspnetcore/issues/5579)
+[![MarkStega avatar](img/abd5586571583628c8897c5946d0f3b1.png)](https://github.com/MarkStega) **[MarkStega](https://github.com/MarkStega)** posted on [<time datetime="2018-08-16T13:00:32Z">Aug 16, 2018</time>](https://github.com/dotnet/aspnetcore/issues/5579)
 
 我的 cshtml 中有如下内容
 

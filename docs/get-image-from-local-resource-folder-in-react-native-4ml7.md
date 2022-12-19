@@ -10,4 +10,4 @@
 
 [从 React Native 的本地资源文件夹中获取图像](https://www.skptricks.com/2018/07/get-image-from-local-resource-folder-in-react-native.html)
 
-[![](../Images/b9454bab5c123fdb58b1a4530888a474.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hBIWP5Sp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://2.bp.blogspot.com/-7Ve11Ce0XNQ/W0Bh4pQRV4I/AAAAAAAABq8/bUUN70chQdwo5S7sJzgqbROhZ_Z9BuqywCLcBGAs/s400/loca.jpg)
+[![](img/b9454bab5c123fdb58b1a4530888a474.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hBIWP5Sp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://2.bp.blogspot.com/-7Ve11Ce0XNQ/W0Bh4pQRV4I/AAAAAAAABq8/bUUN70chQdwo5S7sJzgqbROhZ_Z9BuqywCLcBGAs/s400/loca.jpg)

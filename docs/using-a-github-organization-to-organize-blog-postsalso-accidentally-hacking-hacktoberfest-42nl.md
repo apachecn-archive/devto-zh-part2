@@ -4,7 +4,7 @@
 
 ### 用 GitHub 组织整理博文——还不小心黑了 Hacktoberfest！
 
-<figure>[![](../Images/a792504738032d67cc37f9b37d4ed395.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--R9U30zO8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AGvXqSqtw3KBPCjOT.png) 
+<figure>[![](img/a792504738032d67cc37f9b37d4ed395.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--R9U30zO8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AGvXqSqtw3KBPCjOT.png) 
 
 <figcaption>GitHub 标志</figcaption>
 
@@ -18,11 +18,11 @@
 
 [https://github.com/Kritner-Blogs](https://github.com/Kritner-Blogs)是我的组织所在地，你可以看到我目前(在撰写本文时)有两个代码库:
 
-[![](../Images/1ed7f7c7e0d0dbb81549b1564f244a91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jczmGFug--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A0lP85ZWwEsjAxMVtaAsnuA.png)
+[![](img/1ed7f7c7e0d0dbb81549b1564f244a91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jczmGFug--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A0lP85ZWwEsjAxMVtaAsnuA.png)
 
 ### 啤酒节
 
-<figure>[![](../Images/c3632f6ef01ad5f7ad624ac9e5c6f9e3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xZGGNonM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ATwjDCueiTdM3GuPX_fGj8w.png) 
+<figure>[![](img/c3632f6ef01ad5f7ad624ac9e5c6f9e3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xZGGNonM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ATwjDCueiTdM3GuPX_fGj8w.png) 
 
 <figcaption>啤酒节标志</figcaption>
 
@@ -36,7 +36,7 @@
 
 请看:
 
-<figure>[![](../Images/1ef4118838a81e62ce774a23467eb085.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--H8CaAtTD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AYg2D9ClVGjU9r5nd14qIsA.png)
+<figure>[![](img/1ef4118838a81e62ce774a23467eb085.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--H8CaAtTD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AYg2D9ClVGjU9r5nd14qIsA.png)
 
 <figcaption></figcaption>
 

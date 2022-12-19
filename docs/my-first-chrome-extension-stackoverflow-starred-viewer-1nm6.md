@@ -19,7 +19,7 @@
 
 下面是一些截图。
 
-[![](../Images/a0f99c567d375eadba28645cb559d30e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bEFfN_h5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_8A94332956CEBD301F63DA15A44A118E6AE15B285C27C0609AC48084A8D96C51_1534023176495_so.gif)
+[![](img/a0f99c567d375eadba28645cb559d30e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bEFfN_h5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_8A94332956CEBD301F63DA15A44A118E6AE15B285C27C0609AC48084A8D96C51_1534023176495_so.gif)
 
 # 反馈
 

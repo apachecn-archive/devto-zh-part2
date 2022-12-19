@@ -16,7 +16,7 @@
 
 这是一个非常方便的技巧，可以用来优化 React 中列表项的呈现。假设您有一个显示项目列表的页面，其定义如下(单击按钮查看 codesandbox 上的代码):
 
-[![Edit r4y5lj0qxn](../Images/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/r4y5lj0qxn)
+[![Edit r4y5lj0qxn](img/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/r4y5lj0qxn)
 
 单击该按钮时，它会向列表中添加一个项目。这将触发对 DOM 的更新，以显示我们的新项目和所有旧项目。如果我们在单击按钮时查看 DOM 检查器，我们会看到以下内容(橙色表示节点正在更新):
 

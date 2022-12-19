@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/imtootypical/5-hot-industries-for-software-engineering-careers-in-2019-110d>
 
-[![Software engineering careers](../Images/e0ed6cd9e92d9f5a2d96ddd033f52f53.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mCcA_vRE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g5waxdyp0wklz71ucs7l.jpeg)
+[![Software engineering careers](img/e0ed6cd9e92d9f5a2d96ddd033f52f53.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mCcA_vRE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g5waxdyp0wklz71ucs7l.jpeg)
 
 劳工统计局预测，到 2020 年，专业和 IT 职业将增加 210 万个工作岗位。Glassdoor 最近发布的一份榜单上，收入最高的 25 份工作中有一半在技术开发领域。这两份报告对软件工程师来说都是好消息。
 

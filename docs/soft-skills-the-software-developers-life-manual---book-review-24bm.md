@@ -8,13 +8,13 @@
 
 因此，当这本书在一位软件工程师同事推荐的书单上与我不期而遇时，我惊喜万分。它向我描绘了我可能喜欢编码并覆盖该领域的图像，但是作为一名软件工程师，生活的剩余部分是什么呢？我说“生活的剩余部分”是有原因的，因为很多书都集中在与客户交谈或工作面试等领域，但这本书承诺除了编码之外，还会关注软件工程师生活中的方方面面。所以我上个月开始阅读，现在我想和你分享我对这本书的看法。
 
-[![Life manual](../Images/85c0265b01cc75dd571c461fd993bd6a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fYbJXzEo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a6mkg08wa66cfdpowd1j.png)
+[![Life manual](img/85c0265b01cc75dd571c461fd993bd6a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fYbJXzEo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a6mkg08wa66cfdpowd1j.png)
 
 ## 结论
 
 从结论开始？我疯了吗？一点也不，我要告诉你我对这本书的真实看法，所以你可以自己决定它是否足够有趣。如果你还想要更多，你可以阅读我的章节。我宁愿你花时间读一本好书，而不是一篇评论，所以你自己决定你会读多远。
 
-当你读这本书时，你会觉得约翰·桑梅兹的意图是与你分享他多年的生活经验。他不仅关注与客户、同事和经理打交道，还关注寻找爱情、财务、生产力和保持身材。这些章节分为 7 个主要部分，我将进一步处理。写作风格易于阅读，章节很小，当你有 15 分钟或半小时空闲时，可以快速阅读。它充满了实际的例子，个人故事和任务，以帮助你开始改善你的生活。当你读了更多关于相同主题的书时，你会注意到流行技术之间有很多相似之处，但是是以一种更简单和实用的方式。其中很多感觉非常熟悉，而有些地方感觉不可用，除非你生活在美国或文化和金融类似的国家。有些章节取决于你在职业生涯的哪个阶段有用，但是，大部分部分真的很好，我认为大约 70%的书在某种程度上适用于大多数软件工程师。我的结论是，这是任何软件开发人员的必读之作，我甚至会把它和《干净的代码》和《设计模式》这样的书放在一起，这些东西在你的生活中太重要了，不能不考虑。我的评分是 4.5 分，满分 5 颗星。[![My rating 4.5 out of 5 stars. ](../Images/d53a1b687d8a3821ebd60c4d5b8f32d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZunjDJyz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gasfgajqf024suvc5cko.png)
+当你读这本书时，你会觉得约翰·桑梅兹的意图是与你分享他多年的生活经验。他不仅关注与客户、同事和经理打交道，还关注寻找爱情、财务、生产力和保持身材。这些章节分为 7 个主要部分，我将进一步处理。写作风格易于阅读，章节很小，当你有 15 分钟或半小时空闲时，可以快速阅读。它充满了实际的例子，个人故事和任务，以帮助你开始改善你的生活。当你读了更多关于相同主题的书时，你会注意到流行技术之间有很多相似之处，但是是以一种更简单和实用的方式。其中很多感觉非常熟悉，而有些地方感觉不可用，除非你生活在美国或文化和金融类似的国家。有些章节取决于你在职业生涯的哪个阶段有用，但是，大部分部分真的很好，我认为大约 70%的书在某种程度上适用于大多数软件工程师。我的结论是，这是任何软件开发人员的必读之作，我甚至会把它和《干净的代码》和《设计模式》这样的书放在一起，这些东西在你的生活中太重要了，不能不考虑。我的评分是 4.5 分，满分 5 颗星。[![My rating 4.5 out of 5 stars. ](img/d53a1b687d8a3821ebd60c4d5b8f32d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZunjDJyz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gasfgajqf024suvc5cko.png)
 
 ## 第一节:职业生涯
 
@@ -28,7 +28,7 @@
 
 我可以很简短的说这个。约翰为自己制定了一个非常有效的 10 步学习计划。它着眼于大局，但也帮助你采取措施，取得进展，并防止被淹没的感觉。对我来说，这本书最鼓舞人心的部分是这一节，“教学:学你想学的？教你必须。”他的 10 步计划的最后一步是教导他人，这是一个逻辑清晰的步骤，直到我真正读了它，我才明白。也许这是他创作的尤达的照片，或者他只是对此有一个伟大的愿景，不管是哪种方式，这一部分让我兴奋不已，我毫不犹豫地加入了 [dev.to](https://dev.to/) 导师项目，并从中学习。
 
-[![Learning](../Images/b0377357b7352b613c19a01b6ed82d70.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZcREVWFU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xycruf04lmm5952mpi9f.jpg)
+[![Learning](img/b0377357b7352b613c19a01b6ed82d70.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZcREVWFU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xycruf04lmm5952mpi9f.jpg)
 
 ## 第四节:生产力
 
@@ -42,7 +42,7 @@
 
 有多少软件工程师真的很注意自己的健康？我知道这是一种刻板印象，我们靠咖啡和披萨生活，但这也有一定的道理。这一节的重点是让你健康。约翰年轻时曾是一名健美运动员，现在仍保持着非常好的身材。这使得他能相对容易地给你健康饮食、锻炼的好建议，甚至是帮助你达到目的的小玩意。对此我没什么可说的，他是对的，我们需要去了解一下。
 
-[![Fitness](../Images/d9f50ec7593dd5cab1b32f85eaab0a66.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tG0oWqYr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hs9tz9t0m91d8ubm4088.png)
+[![Fitness](img/d9f50ec7593dd5cab1b32f85eaab0a66.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tG0oWqYr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hs9tz9t0m91d8ubm4088.png)
 
 ## 第七节:精神
 

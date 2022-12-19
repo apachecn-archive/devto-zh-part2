@@ -4,7 +4,7 @@
 
 <figure>
 
-[![Screenshot showing programming skills](../Images/a8e0a1d8f04775ea7f9572b5d404a1e7.png "Programming Skills")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--03lYRv2A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kellen.piffner.com/img/bad-interview-questions/branko-stancevic-417172-unsplash.jpg)
+[![Screenshot showing programming skills](img/a8e0a1d8f04775ea7f9572b5d404a1e7.png "Programming Skills")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--03lYRv2A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kellen.piffner.com/img/bad-interview-questions/branko-stancevic-417172-unsplash.jpg)
 
 <figcaption><cite>[Photo by Brendan Church on Unsplash](https://unsplash.com/@bdchu614?utm_medium=referral&utm_campaign=photographer-credit&utm_content=creditBadge)</cite></figcaption>
 
@@ -26,7 +26,7 @@
 
 <figure>
 
-[![Person sitting contemplating](../Images/7a3a37db8c28c8515ab6b54bdcedb5c0.png "Nerves")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--732kgNTQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kellen.piffner.com/img/bad-interview-questions/ben-white-292680-unsplash.jpg)
+[![Person sitting contemplating](img/7a3a37db8c28c8515ab6b54bdcedb5c0.png "Nerves")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--732kgNTQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kellen.piffner.com/img/bad-interview-questions/ben-white-292680-unsplash.jpg)
 
 <figcaption><cite>[Photo by Ben White on Unsplash](https://unsplash.com/@benwhitephotography?utm_medium=referral&utm_campaign=photographer-credit&utm_content=creditBadge)</cite></figcaption>
 
@@ -62,7 +62,7 @@
 
 <figure>
 
-[![Person with beard being interviewed at a laptop](../Images/0e6a0f02b1d38c0662c34ce71b43ce33.png "By the power of your beard, Google the answer")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4qPjClbV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kellen.piffner.com/img/bad-interview-questions/rawpixel-423656-unsplash.jpg)
+[![Person with beard being interviewed at a laptop](img/0e6a0f02b1d38c0662c34ce71b43ce33.png "By the power of your beard, Google the answer")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4qPjClbV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kellen.piffner.com/img/bad-interview-questions/rawpixel-423656-unsplash.jpg)
 
 <figcaption>By the power of your beard and Google, figure out the answer. <cite>[Photo by rawpixel on Unsplash](https://unsplash.com/@rawpixel?utm_medium=referral&utm_campaign=photographer-credit&utm_content=creditBadge)</cite></figcaption>
 
@@ -118,7 +118,7 @@
 
 <figure>
 
-[![Two hands shaking](../Images/a02952902fb8567cdfaf7bf699ea7096.png "Another successful handshake")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hkMklD1e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kellen.piffner.com/img/bad-interview-questions/rawpixel-1046277-unsplash.jpg)
+[![Two hands shaking](img/a02952902fb8567cdfaf7bf699ea7096.png "Another successful handshake")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hkMklD1e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kellen.piffner.com/img/bad-interview-questions/rawpixel-1046277-unsplash.jpg)
 
 <figcaption><cite>[Photo by rawpixel on Unsplash](https://unsplash.com/@rawpixel?utm_medium=referral&utm_campaign=photographer-credit&utm_content=creditBadge)</cite></figcaption>
 

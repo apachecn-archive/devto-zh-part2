@@ -4,7 +4,7 @@
 
 有很多*主要是*免费的移动应用，旨在教你如何(更好地)编码。
 
-[![Random pic for the win](../Images/a47fd1f95e93d72d2048f792f51c4c87.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OMeG0gmF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://666a658c624a3c03a6b2-25cda059d975d2f318c03e90bcf17c40.ssl.cf1.rackcdn.com/unsplash_522cb8dbbe680_1.jpg)
+[![Random pic for the win](img/a47fd1f95e93d72d2048f792f51c4c87.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OMeG0gmF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://666a658c624a3c03a6b2-25cda059d975d2f318c03e90bcf17c40.ssl.cf1.rackcdn.com/unsplash_522cb8dbbe680_1.jpg)
 
 我已经看过一些了:
 

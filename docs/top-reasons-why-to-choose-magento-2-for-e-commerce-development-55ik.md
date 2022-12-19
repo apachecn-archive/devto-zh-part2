@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/rigelnetworks/top-reasons-why-to-choose-magento-2-for-e-commerce-development-55ik>
 
-[![](../Images/9228e0b16ddd3f2209616ff79f2a8404.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9HTbtsFm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jnxckpugtsmzavhatn50.png)
+[![](img/9228e0b16ddd3f2209616ff79f2a8404.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9HTbtsFm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jnxckpugtsmzavhatn50.png)
 
 市场上有许多创新技术或平台，您一定想知道选择哪一种，因为它们各有优势。我们知道，对于每个企业来说，没有一个单一的一刀切的电子商务平台解决方案。因此，许多零售商和商店老板很难选择他们最适合的，因为许多有影响力的电子商务网站建设者相互竞争顶级位置。除了你的整个产品系列，让你的顾客忠诚的是你的。
 

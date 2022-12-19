@@ -10,7 +10,7 @@
 
 基本的后端很快就完成了，前端列表和预览组件也很快完成。我把它设置成/products/:gender/:category，后来我后悔了，但是它工作了。
 
-[![](../Images/3931a675565f237b55b3f87d29d183e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xUvBDgYh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AJoRrqATWLevBCcsYykwI9Q.png)
+[![](img/3931a675565f237b55b3f87d29d183e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xUvBDgYh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AJoRrqATWLevBCcsYykwI9Q.png)
 
 ### 过滤
 
@@ -151,7 +151,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，如果我用查询调用 API，它可以处理这些查询并返回所有匹配产品的数组。万岁！
 
-[![](../Images/ef1fa0b9317d3a396b50a332fe190b0b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d_aUw2fw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AwKz2bHUSl4uiSIwooCulzQ.png)
+[![](img/ef1fa0b9317d3a396b50a332fe190b0b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d_aUw2fw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AwKz2bHUSl4uiSIwooCulzQ.png)
 
 ### 过滤条件
 
@@ -159,13 +159,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 我创建了一个 FilterCriteria 组件来映射过滤选项，并为每个选项创建了一个新的选择下拉列表。该选择使用 MaterializeCSS 多选下拉框，以便用户可以选择和取消选择他们想要的选项。由于材料的缘故，这些盒子工作得很好，看起来也很棒。
 
-[![](../Images/dfac390b5385226318338bdfbecea706.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gDwxCXN4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AAxkGH9-Q-KvTkslT5lEYNw.gif)
+[![](img/dfac390b5385226318338bdfbecea706.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gDwxCXN4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AAxkGH9-Q-KvTkslT5lEYNw.gif)
 
 现在，我必须从表单中获取结果信息，并以某种方式将其发送给 API。我想到的解决方案是让搜索按钮 a 指向与查询相对应的 URL。
 
 我通过映射表单并提取所有下拉列表值来实现这一点。然后，我将它们映射到一个查询字符串中。如果一个值有多个选择的选项，我将它们分别映射到查询字符串的另一部分。
 
-[![](../Images/0b3afb49f66b260eb9606a9fc650acec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VfhMr6RP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2ADzGkuvaF6BvWZ58p9t1WVg.gif)
+[![](img/0b3afb49f66b260eb9606a9fc650acec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VfhMr6RP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2ADzGkuvaF6BvWZ58p9t1WVg.gif)
 
 对于完整的查询字符串，我生成完整的 URL 并将其推入历史记录中。
 
@@ -195,7 +195,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是一个简单的布局——图片在左边——基本细节在右边——完整细节在下面。
 
-<figure>[![](../Images/c815327b4cbb7844bdbb32fcfc8e555b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KFjIy_Es--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/799/1%2AULtTiuK7jg_XXMz4zKWFQQ.jpeg) 
+<figure>[![](img/c815327b4cbb7844bdbb32fcfc8e555b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KFjIy_Es--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/799/1%2AULtTiuK7jg_XXMz4zKWFQQ.jpeg) 
 
 <figcaption>基本线框</figcaption>
 
@@ -213,7 +213,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这些组件非常简单，接受一个 auth (user)属性并呈现相关数据。同样，这些组件目前不支持更新用户信息，因为我已经决定先处理原型的其他部分。
 
-[![](../Images/91cb20d90670e20f9f8047a80c935119.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UnFMsvde--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AVMBc63-4iXD-mXg-N-7PYg.gif)
+[![](img/91cb20d90670e20f9f8047a80c935119.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UnFMsvde--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AVMBc63-4iXD-mXg-N-7PYg.gif)
 
 ### 事情要注意
 

@@ -16,7 +16,7 @@ CSS 也在不断发展，尽管 Houdini 可能会在 CSS 开发方面有新的�
 
 另一方面，`rlh`相当于`rem`对`em`的意义:根元素上的行高。
 
-[![Many of the font glyph metrics is an image](../Images/ed635313c4c046e28827ef694d7467c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3cz5LgVK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.stack.imgur.com/crGOe.png)
+[![Many of the font glyph metrics is an image](img/ed635313c4c046e28827ef694d7467c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3cz5LgVK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.stack.imgur.com/crGOe.png)
 
 ## `vi`和`vb`
 

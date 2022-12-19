@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/matheusrodrigues/integration-tests-in-aspnet-core-controllers-3lm8>
 
-[![](../Images/b46a2e935c2e32d35c36cfe377c98777.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2XvVDdLC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.matheus.ro/wp-content/uploads/2018/09/Integration-Tests-In-ASP.NET-Core-Controllers-768x384.png)
+[![](img/b46a2e935c2e32d35c36cfe377c98777.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2XvVDdLC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.matheus.ro/wp-content/uploads/2018/09/Integration-Tests-In-ASP.NET-Core-Controllers-768x384.png)
 
 继续这个系列的文章，探索 asp 中不同的测试方面。网芯。我们将对测试服务器进行试验，以创建集成测试。
 

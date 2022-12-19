@@ -42,7 +42,7 @@ OSS 价值的金额。OSS 开发者被要求将他们的努力集中在技术以
 
 首先，可以用一个简单的图表来描述它。
 
-[![Diagram](../Images/8fc010e61df03405b89702f1fe73b4ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h3V82i4Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f1w5x2ovhx552ca9ue6w.png)
+[![Diagram](img/8fc010e61df03405b89702f1fe73b4ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h3V82i4Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f1w5x2ovhx552ca9ue6w.png)
 
 “Dev”是基于以太坊的生态系统打造的。如果一个人了解区块链，这很容易理解，但即使他们不了解也没关系。
 

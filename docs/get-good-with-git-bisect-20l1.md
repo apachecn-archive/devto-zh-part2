@@ -18,15 +18,15 @@
 
 我们首先将目标值与中间元素进行比较。我们可以看到中间的元素**比我们的目标**大:
 
-[![Comparing to the target value](../Images/cf0419bbfd84ebb7bb4b7d7de50bc975.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oDHThj18--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rfog7e8fdqq3fke30x7j.png)
+[![Comparing to the target value](img/cf0419bbfd84ebb7bb4b7d7de50bc975.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oDHThj18--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rfog7e8fdqq3fke30x7j.png)
 
 因为中间的元素大于目标元素，所以我们可以丢弃数组的后半部分，重新进行测试。这次我们可以看到中间的元素比我们的目标小:
 
-[![Discarding half of the array](../Images/ccd01498c0d53cd19c3d2336e4699ae2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cuSVMpvK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/po6mqufjd5ofqozgsck1.png)
+[![Discarding half of the array](img/ccd01498c0d53cd19c3d2336e4699ae2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cuSVMpvK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/po6mqufjd5ofqozgsck1.png)
 
 因为中间的元素比目标小，所以我们可以丢弃数组的前半部分(记住，我们现在正在处理一个新数组，已经丢弃了原始数组的一半)并再次执行测试。注意，这一次，因为我们在数组中有偶数个元素，所以由算法决定是向上取整还是向下取整来确定中点。在这个例子中，为了简洁起见，我们进行了四舍五入。这一次我们可以看到中间元素**与目标**匹配:
 
-[![Discarding another half of the array](../Images/b9c1fcb024b68afe600cfed792bceabe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JRrcJEER--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yskmltksq6kpbpru61dx.png)
+[![Discarding another half of the array](img/b9c1fcb024b68afe600cfed792bceabe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JRrcJEER--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yskmltksq6kpbpru61dx.png)
 
 因为中间的元素与目标匹配，所以二分搜索法是完整的，目标在数组中的位置就是结果。在我们的例子中，目标位于位置 **4** 。但是这些如何应用于 git 呢？
 

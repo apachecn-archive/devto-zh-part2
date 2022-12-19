@@ -10,7 +10,7 @@
 
 #### 获取 API 密钥
 
-[![Getting the API Key](../Images/cfda684cf8802e4a4daa890862961f3c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kW1eN6SE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sean.lane.sh/images/2018/08/jrnl1.png)
+[![Getting the API Key](img/cfda684cf8802e4a4daa890862961f3c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kW1eN6SE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sean.lane.img/2018/08/jrnl1.png)
 
 进一步的研究表明，API 的基本 url 是`https://jrnl.com/api/v1/`，条目的 API 端点是`https://jrnl.com/api/v1/entry`。使用名为[失眠症](https://dev.to/scottw/insomnia-rest-client-578d-temp-slug-9682618)的 REST API 工具，我们可以插入 API 键，并使用设置了限制选项的端点来允许返回更多条目:`https://jrnl.com/api/v1/entry?limit=250`。
 

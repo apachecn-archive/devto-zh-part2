@@ -19,7 +19,7 @@
 
 我用文件[树莓集群框架](https://www.thingiverse.com/thing:2371586)3D 打印了集群架。
 
-[![setup](../Images/46f0a8b62c1de88112848a26eb0c6926.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pdRvq2Dm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://spino327.github.io/assets/img/c_pi_setup_small.jpg)
+[![setup](img/46f0a8b62c1de88112848a26eb0c6926.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pdRvq2Dm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://spino327.github.io/assets/img/c_pi_setup_small.jpg)
 
 ### 2。操作系统
 

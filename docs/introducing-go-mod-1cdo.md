@@ -26,7 +26,7 @@
 
 [@韵脚](https://dev.to/rhymes)也写了一篇关于`go mod`的文章，并报道了他喜欢它的地方。我推荐也读一读！
 
-[![rhymes](../Images/91ed8188209dceb0374b6a8c88308333.png)](/rhymes) [## 去拿模块
+[![rhymes](img/91ed8188209dceb0374b6a8c88308333.png)](/rhymes) [## 去拿模块
 
 ### 押韵 Aug 25 ' 182min read
 

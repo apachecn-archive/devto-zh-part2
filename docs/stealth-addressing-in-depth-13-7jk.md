@@ -2,13 +2,13 @@
 
 > 原文：<https://dev.to/marpme/stealth-addressing-in-depth-13-7jk>
 
-[![](../Images/b66c3fc3598abea53eb96c7b2fe82fb4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BjskBKhp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pv0s55gwtubqsnm1lxin.jpg)
+[![](img/b66c3fc3598abea53eb96c7b2fe82fb4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BjskBKhp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pv0s55gwtubqsnm1lxin.jpg)
 
 首先，我们将从每天重复发生的正常程序开始。这是一个简单的用例，两个人想要私下交易，这是他们的权利。要做到这一点，我们需要一个秘密地址，使接收者能够从付款人那里接收资金。让我们称付款人为鲍勃。在今天的课文中，我们将讲述如何创建一个秘密地址，它是由什么组成的，它的用途是什么。
 
 ## 如何生成隐形地址？
 
-[![SHA256 workflow](../Images/5db322ec5110ac43bae1c8911780afe8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O-u8vbOh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/1%2AKvKbvq-1AIzxYRukfvMw_g.png)
+[![SHA256 workflow](img/5db322ec5110ac43bae1c8911780afe8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O-u8vbOh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/1%2AKvKbvq-1AIzxYRukfvMw_g.png)
 
 首先，你需要数学，大量的数学。我们基本上需要一些加密算法来完成整个过程，包括 **SHA256** 、 **SECP256k1** (椭圆曲线加密，方程 y = x + 7)和 **Base58 编码**。
 

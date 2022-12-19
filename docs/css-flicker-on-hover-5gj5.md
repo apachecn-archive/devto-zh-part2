@@ -22,15 +22,15 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 到底怎么回事，
 
-[![I drew this](../Images/3aedc8960022dcc0f856509a852d113e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pbOyjWzd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fm0bfwl69m8wui06pjbs.jpg)
+[![I drew this](img/3aedc8960022dcc0f856509a852d113e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pbOyjWzd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fm0bfwl69m8wui06pjbs.jpg)
 
 ### 我决定用推特发布这个问题，而不是谷歌搜索。
 
 而 [@matthew_coxx](https://dev.to/matthew_coxx) 拿出了一个很甜的解决方案。(我现在越来越懒了。)
 
-> ![Matthew Cox profile image](../Images/ea8b70f0b3ab687c3407035edcc3ae5d.png)马修·考克斯[@马修 _ 考克斯](https://dev.to/matthew_coxx)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)[@ toomuchome _](https://twitter.com/toomuchome_)哦，那是一个 webkit 浏览器的预定动作。有点糟糕，但这就是原因。这就是我要做的来修复它。
+> ![Matthew Cox profile image](img/ea8b70f0b3ab687c3407035edcc3ae5d.png)马修·考克斯[@马修 _ 考克斯](https://dev.to/matthew_coxx)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)[@ toomuchome _](https://twitter.com/toomuchome_)哦，那是一个 webkit 浏览器的预定动作。有点糟糕，但这就是原因。这就是我要做的来修复它。
 > 
-> 2018 年 9 月 01 日 20:11 点[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1035983393392082956)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1035983393392082956)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1035983393392082956)
+> 2018 年 9 月 01 日 20:11 点[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1035983393392082956)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1035983393392082956)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1035983393392082956)
 
 想法是添加一个::after 伪元素来填充前面的可点击区域，这样即使按钮已经移动，光标仍然停留在可点击区域内。简单又甜蜜。
 

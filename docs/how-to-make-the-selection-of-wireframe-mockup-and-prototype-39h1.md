@@ -2,18 +2,18 @@
 
 > 原文：<https://dev.to/ryanmiller/how-to-make-the-selection-of-wireframe-mockup-and-prototype-39h1>
 
-[![How to make the selection of Wireframe, Mockup, and Prototype](../Images/fdd0f6b6eb5c07061c614c652ed85595.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tmHN-oKM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8scy83qg4wau0ochrqi1.jpg)
+[![How to make the selection of Wireframe, Mockup, and Prototype](img/fdd0f6b6eb5c07061c614c652ed85595.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tmHN-oKM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8scy83qg4wau0ochrqi1.jpg)
 
 为什么线框比实体模型更容易理解？原型与实际项目有多相似？所有这些都是一样的吗？还是有一些隐藏的细节需要在概述项目之前阅读？毕竟，它们看起来像一幅灰黑色的铅笔素描，传达了同样巧妙的想法！
-[![Wireframes](../Images/3040b659bb54bb12c85e947d0c8d0bc2.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--HI81Kd3Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5z3l1t9sx9jz2ooj07gw.png)
+[![Wireframes](img/3040b659bb54bb12c85e947d0c8d0bc2.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--HI81Kd3Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5z3l1t9sx9jz2ooj07gw.png)
 
 ## 线框(粗略的、灰色的界面表示)
 
 设计团队不需要花太多时间去研究细节，因为通读整个网站总是一件痛苦的事情。线框会给你一个清晰的未来网站设计的画面。这是设计的低保真度表示。
 
-[![Wireframe 1](../Images/bb5980704d8592f11e2e9317a12d0293.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GYq_auNX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jpsif6c0zqpumm6li2rq.png) 图 1:线框 1
+[![Wireframe 1](img/bb5980704d8592f11e2e9317a12d0293.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GYq_auNX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jpsif6c0zqpumm6li2rq.png) 图 1:线框 1
 
-[![wireframe 1](../Images/9c636648b30d853552c238f7161a6f0c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KW2N-Bvo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lg5e4jg90hgnf6yz3ung.png) 图 2:线框 2
+[![wireframe 1](img/9c636648b30d853552c238f7161a6f0c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KW2N-Bvo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lg5e4jg90hgnf6yz3ung.png) 图 2:线框 2
 
 **为什么要线框？**
 
@@ -31,9 +31,9 @@
 
 ## 实体模型(互动)
 
-[![Mockups](../Images/2fae579f94ab70e0d4cf4eb5d78c8334.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--P1QRPUP2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2o9o81gpqptmzzlsh04m.png) 图 3:实体模型 1
+[![Mockups](img/2fae579f94ab70e0d4cf4eb5d78c8334.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--P1QRPUP2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2o9o81gpqptmzzlsh04m.png) 图 3:实体模型 1
 
-[![Mockups](../Images/65ecfbb4c3b289aa1c55b07b242e857a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZUiqYlNg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/byx8dp6io5vzggdpy2y3.png) 图 4:实体模型 2
+[![Mockups](img/65ecfbb4c3b289aa1c55b07b242e857a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZUiqYlNg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/byx8dp6io5vzggdpy2y3.png) 图 4:实体模型 2
 
 在线框中添加一些精确、颜色和细节，它们就成了模型。它们更接近实际的网站，能够以更好的方式说服客户。增加整体视觉的丰富性，实体模型有助于突出线框的基本特征。
 

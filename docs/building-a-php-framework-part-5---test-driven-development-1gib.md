@@ -54,7 +54,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在这个测试中，我们创建了一个新的`NumberAdder`对象，传递我们想要操作的两个数字(1 和 2)。从那里，我们将这些数字加在一起，并告诉 PHPUnit 我们期望结果等于 3。让我们运行它:
 
-[![TDD Example 1](../Images/d80c3650cf4861f18fb26cbd006311bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zstGiCIg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://developmentmatt.com/wp-content/uploads/2018/05/tdd_example_1.png)
+[![TDD Example 1](img/d80c3650cf4861f18fb26cbd006311bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zstGiCIg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://developmentmatt.com/wp-content/uploads/2018/05/tdd_example_1.png)
 
 当然，它没有给我们:
 
@@ -88,7 +88,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在再运行一次:
 
-[![TDD Example 2](../Images/58d17f78999a09d0339c09a404efa0a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x43nADeF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://developmentmatt.com/wp-content/uploads/2018/05/tdd_example_2.png)
+[![TDD Example 2](img/58d17f78999a09d0339c09a404efa0a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x43nADeF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://developmentmatt.com/wp-content/uploads/2018/05/tdd_example_2.png)
 
 很好，错误消失了，我们有了一个新的:
 
@@ -124,7 +124,7 @@ class NumberAdder
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![TDD Example 3](../Images/63220acd3c8c2df224b6f965fd70593a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XKSQEVaj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://developmentmatt.com/wp-content/uploads/2018/05/tdd_example_3.png)
+[![TDD Example 3](img/63220acd3c8c2df224b6f965fd70593a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XKSQEVaj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://developmentmatt.com/wp-content/uploads/2018/05/tdd_example_3.png)
 
 好了，之前的错误没了。现在我们得到:
 
@@ -160,7 +160,7 @@ class NumberAdder
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![TDD Example 4](../Images/25f65486822642b9387a335fe799a513.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z6cuxFBt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://developmentmatt.com/wp-content/uploads/2018/05/tdd_example_4.png)
+[![TDD Example 4](img/25f65486822642b9387a335fe799a513.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z6cuxFBt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://developmentmatt.com/wp-content/uploads/2018/05/tdd_example_4.png)
 
 它过去了！
 

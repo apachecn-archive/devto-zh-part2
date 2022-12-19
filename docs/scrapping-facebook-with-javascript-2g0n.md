@@ -8,6 +8,6 @@
 
 见下面的工作。
 
-[![Scrap](../Images/cf207f4b05fd2bb07431d704084669b1.png)T2】](http://www.youtube.com/watch?v=xIlrF2RF_UY)
+[![Scrap](img/cf207f4b05fd2bb07431d704084669b1.png)T2】](http://www.youtube.com/watch?v=xIlrF2RF_UY)
 
 在这里获取代码

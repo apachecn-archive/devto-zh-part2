@@ -6,13 +6,13 @@
 
 我最早的烤面包经验之一是尽可能精确地测量我的配料。当在家烘烤一两个面包时，额外的一汤匙面粉可以很容易地得到补偿，但当在复活节前烘烤 200 多个面包时，你最好做对。还有足够的其他因素(混合、醒发、定型等。)这需要注意力和判断力，我发现从正确测量我的成分开始会产生巨大的差异。
 
-[![With all of these potential issues, why worry about measuring if you don't have to? Photo from Serious Eats](../Images/99565badc8309f9f237db868f5f0fff4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SyfnVkMj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.seriouseats.com/images/2014/11/bread-infographic2-forweb.jpg)
+[![With all of these potential issues, why worry about measuring if you don't have to? Photo from Serious Eats](img/99565badc8309f9f237db868f5f0fff4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SyfnVkMj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.seriouseats.cimg/2014/11/bread-infographic2-forweb.jpg)
 
 > 有了所有这些潜在的问题，如果没有必要，为什么还要担心测量呢？照片来自 Vicki Wasik 的严重饮食。
 
 不幸的是，美国对他们的独立测量单位很固执，仍然更倾向于杯而不是克的精度和普遍性。杯子可能很棘手——它们不精确。我的一个杯子可能和*你的*一个杯子的容量不太一样。由于面粉有可能被压缩到杯子里，在秤上测量配料有助于消除一些猜测(你可以把所有东西都倒进碗里来检查数量)。
 
-[![Sarah Jampel of Food52 found that there could be as much as a 37-gram difference in the volume of sugar in a measuring cup based on which cup you use.](../Images/1828c481ac06b1701d8f0db8667c4b2d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TN9Fknpy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.food52.com/bVlnUPAnkvV_c97GkJiViXD1Vxc%3D/fit-in/800x0/f4605c1a-be2e-4671-b687-b99cb589311a--IMG_6657.JPG)
+[![Sarah Jampel of Food52 found that there could be as much as a 37-gram difference in the volume of sugar in a measuring cup based on which cup you use.](img/1828c481ac06b1701d8f0db8667c4b2d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TN9Fknpy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.food52.com/bVlnUPAnkvV_c97GkJiViXD1Vxc%3D/fit-in/800x0/f4605c1a-be2e-4671-b687-b99cb589311a--IMG_6657.JPG)
 
 > Food52 的 Sarah Jampel 发现，根据你的设定，在四分之一杯的量中，糖的体积可能有多达 37 克的差异。图片来自 Food52。
 

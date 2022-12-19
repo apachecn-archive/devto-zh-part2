@@ -10,7 +10,7 @@
 
 注意:这些建议大部分都适用于任何地方的自由职业者，但我只在美国有过自由职业的经历。本指南就是从这个角度编写的。
 
-[![Neon dollar sign](../Images/698eb2f98eee7fe464ec69e2969c4ae9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gskju_8H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/09/neon-dollar-sign.png)
+[![Neon dollar sign](img/698eb2f98eee7fe464ec69e2969c4ae9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gskju_8H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/09/neon-dollar-sign.png)
 
 需要更多自由职业者的帮助吗？看看拉德·德文郡我帮你把你的💩成为一名网络开发人员！
 

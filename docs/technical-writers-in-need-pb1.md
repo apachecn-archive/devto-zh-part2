@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/renegadecoder94/technical-writers-in-need-pb1>
 
-[![Featured Image](../Images/6940aecc4dac0694e684c5f863cad258.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4dUb_ggG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vuls950hm39jfsqoxr60.JPEG)
+[![Featured Image](img/6940aecc4dac0694e684c5f863cad258.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4dUb_ggG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vuls950hm39jfsqoxr60.JPEG)
 
 你可能知道我是那种每周定期来一次，在每个语言知识库中推销我的示例程序的人。尽管那很有帮助，我仍然需要更多的帮助。
 

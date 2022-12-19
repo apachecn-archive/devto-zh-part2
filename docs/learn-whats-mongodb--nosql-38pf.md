@@ -4,7 +4,7 @@
 
 Mongo DB 是一个(NoSql)非关系数据库系统，它有一个非结构化数据的动态模式。它比任何关系数据库都更具可伸缩性、灵活性和速度。
 
-[![](../Images/5289c5bfb2e4ff44a69883c119416054.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--28nyBSSa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AplTQEOtbHS3qAr_pz24E4Q.jpeg)
+[![](img/5289c5bfb2e4ff44a69883c119416054.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--28nyBSSa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AplTQEOtbHS3qAr_pz24E4Q.jpeg)
 
 几十年来，关系数据库一直占据主导地位，因为它们很简单，而且有很大的开发人员社区。MySQL、Oracle、PostgreSQL 和 Microsoft SQL Server 通常用于每个应用程序。但是随着时间的推移，即将到来的技术需要更可靠和更强大的数据库。
 
@@ -17,7 +17,7 @@ Mongo DB 是一个(NoSql)非关系数据库系统，它有一个非结构化数�
 
 但是 *MongoDB、Cassandra、Redis、HBase 和 Couchbase* 都是常用的 NoSql 数据库。
 
-[![](../Images/2dd23b0946142e317c4d13ab18cf1296.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QWFBMOkg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AqLhURmfiuYcJuJuY9-5K3g.png)
+[![](img/2dd23b0946142e317c4d13ab18cf1296.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QWFBMOkg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AqLhURmfiuYcJuJuY9-5K3g.png)
 
 [**MongoDB**](https://www.mongodb.com/) 是 2007 年由 10gen 开发的一个流行的开源面向文档的数据库，后来称为 MongoDB Inc.MongoDB 通常与 Node 和 Express JS (Angular for Front-end)一起使用，统称为 **MEAN** ( **M** ongoDB， **E** xpress JS， **A** ngular， **N** ode)
 
@@ -31,7 +31,7 @@ Mongo DB 是一个(NoSql)非关系数据库系统，它有一个非结构化数�
 
 [**分片**](https://docs.mongodb.com/manual/reference/glossary/#term-sharding) 是一种跨多台机器分发数据的方法。MongoDB 使用分片来支持具有非常大的数据集和高吞吐量操作的部署。
 
-[![](../Images/446db5d0bc84eb4a7b5c89f559d82c1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EJ7Uyp9p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/1%2ApxHOVKFDUotLZYI9a7Kw_w.png)
+[![](img/446db5d0bc84eb4a7b5c89f559d82c1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EJ7Uyp9p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/1%2ApxHOVKFDUotLZYI9a7Kw_w.png)
 
 Mongoose 是 MongoDB 和 Node.js 的对象数据建模(ODM)库，它管理数据之间的关系，提供模式验证，并用于在代码中的对象和 MongoDB 中这些对象的表示之间进行翻译。
 

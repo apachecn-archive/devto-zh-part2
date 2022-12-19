@@ -20,7 +20,7 @@
 那里可能有比你期待的更多的东西。
 接下来把所有的事情都弄清楚。
 
-[![SEO 対 PPC | あなたはどちらを選ぶべきか](../Images/1c75910586a5752e7c2d2bf856de385d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GsQgET2q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.cognitiveseo.com/blog/wp-content/uploads/2018/07/SEO_vs_PPC._Which_one_should_you_choose-1024x512.jpg)
+[![SEO 対 PPC | あなたはどちらを選ぶべきか](img/1c75910586a5752e7c2d2bf856de385d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GsQgET2q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.cognitiveseo.com/blog/wp-content/uploads/2018/07/SEO_vs_PPC._Which_one_should_you_choose-1024x512.jpg)
 
 > 图 10 示出了*   **[Advantages and disadvantages of SEO](#1)**
 >     1.  [Advantages of SEO](#2)
@@ -94,7 +94,7 @@ SEO 的作用类似于在森林里播种。
 这是[Sparktoro 公司](https://sparktoro.com/blog/new-data-how-googles-organic-paid-ctrs-have-changed-2015-2018/)的截图。
 兰菲什金( Rand Fishkin )分析了有机搜索和付费搜索的点击率( CTR )在美国的差异。
 
-[![](../Images/32d2679d45ca93273ac0bf5d3acecaec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fDeXTC5g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sparktoro.com/blog/wp-content/uploads/2018/04/desktop-organic-v-paid-2018.png)
+[![](img/32d2679d45ca93273ac0bf5d3acecaec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fDeXTC5g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sparktoro.com/blog/wp-content/uploads/2018/04/desktop-organic-v-paid-2018.png)
 
 在这个看起来不合理的事实的背后，应该存在着很多因素。
 可能的原因有，人们比起付费广告更喜欢有机搜索的结果(大概是觉得更可靠吧)，以及屏蔽广告的软件被频繁使用等。
@@ -147,7 +147,7 @@ JS 和 PHP 也同样很重要吧。
 学好这两者，虽然有做的价值，但是非常困难。
 如果把 PPC 比作乐器演奏的话，可以说 SEO 就像指挥整个交响乐团一样。
 
-[![SEO はマスターするのが困難である](../Images/4dc0a7c290fbc4a9716c4df1d8286b2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o7qHgNv6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.cognitiveseo.com/blog/wp-content/uploads/2018/07/seo-takes-longer-hard-work.gif)
+[![SEO はマスターするのが困難である](img/4dc0a7c290fbc4a9716c4df1d8286b2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o7qHgNv6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.cognitiveseo.com/blog/wp-content/uploads/2018/07/seo-takes-longer-hard-work.gif)
 
 **难以尺度:**
 如果你是一匹狼，要把事情提高到下一个层次不是太容易的事。
@@ -259,7 +259,7 @@ PPC 有很多美好的事情。
 另一个方法是单纯地提高每天的预算来做，让战斗力超过 9，000。
 那样的话，你的竞争对手会积攒挫折感吧:
 
-[![PPC はスケールが簡単である](../Images/7517c40c646a0adbd40775cceb9111c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EjyePNvZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.cognitiveseo.com/blog/wp-content/uploads/2018/07/over9000.gif)
+[![PPC はスケールが簡単である](img/7517c40c646a0adbd40775cceb9111c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EjyePNvZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.cognitiveseo.com/blog/wp-content/uploads/2018/07/over9000.gif)
 
 **没有不确定的因素:**
 谷歌的任何更新都不需要害怕。
@@ -312,7 +312,7 @@ PPC 是收费制的。
 对 100 名访问者的成本一定要比一个销售能赚到的金额低。
 否则，就是把钱扔出窗外吧。
 
-> 并不是对所有点击都收费是不好的。 只是，如果是 SEO 的话，本来就没有必要付钱！ [![🙂](../Images/266d47ffc63cfc68650afce16d9ba345.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xLy0wp9T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.org/images/core/emoji/2.3/svg/1f642.svg)
+> 并不是对所有点击都收费是不好的。 只是，如果是 SEO 的话，本来就没有必要付钱！ [![🙂](img/266d47ffc63cfc68650afce16d9ba345.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xLy0wp9T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.oimg/core/emoji/2.3/svg/1f642.svg)
 
 **学习曲线陡峭:**
 第一次进入谷歌地址平台时，你可能会感到被压倒。
@@ -322,7 +322,7 @@ PPC 是收费制的。
 我最近参与的客户，虽然自己设定了活动，但是浪费了 75 %的预算。
 原因是没有设定排除关键词。
 
-[![PPC にはお金が掛かる](../Images/a841b03377b959ff0dfa9dadadd3ada5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_Dq9Nn48--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.cognitiveseo.com/blog/wp-content/uploads/2018/07/ppc-needs-money.gif)
+[![PPC にはお金が掛かる](img/a841b03377b959ff0dfa9dadadd3ada5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_Dq9Nn48--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn.cognitiveseo.com/blog/wp-content/uploads/2018/07/ppc-needs-money.gif)
 
 尽管如此，一旦理解了它们的基本知识，设定活动就变得简单了，就能提高利润了吧。
 还有谷歌提供的官方学习课程。

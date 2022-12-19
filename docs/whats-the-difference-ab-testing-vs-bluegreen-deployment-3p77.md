@@ -10,7 +10,7 @@ Cross 从[我的博客](https://blog.davidjeddy.com)发布。
 
 ## A / B 测试
 
-<figure>[![](../Images/80a36dece5001f80e43a921ef310e13c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--alN21AMD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/11/ab-testing.png) 
+<figure>[![](img/80a36dece5001f80e43a921ef310e13c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--alN21AMD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/11/ab-testing.png) 
 
 <figcaption>来源于[https://www.optimizely.com](https://www.optimizely.com)<——酷人。</figcaption>
 
@@ -26,7 +26,7 @@ Cross 从[我的博客](https://blog.davidjeddy.com)发布。
 
 ## 蓝色/绿色部署
 
-<figure>[![](../Images/f6ab48a12741287394768fea397fb0c0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bGdnl1K2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/11/blue_green_deployments.png) 
+<figure>[![](img/f6ab48a12741287394768fea397fb0c0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bGdnl1K2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/11/blue_green_deployments.png) 
 
 <figcaption>来源于[https://martinfowler.com/](https://martinfowler.com/)<——聪明的纨绔子弟。</figcaption>
 
@@ -42,7 +42,7 @@ Cross 从[我的博客](https://blog.davidjeddy.com)发布。
 
 ## 比较
 
-<figure>[![](../Images/ee84f1364106757c831069168b2bbd1c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PKjABEs0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/AI8Tg15.jpg) 
+<figure>[![](img/ee84f1364106757c831069168b2bbd1c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PKjABEs0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/AI8Tg15.jpg) 
 
 <figcaption>有时候我想做什么。</figcaption>
 

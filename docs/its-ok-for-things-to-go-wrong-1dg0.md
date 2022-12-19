@@ -8,7 +8,7 @@
 
 我认为大多数软件团队将受益于将事件视为偶尔发生的正常事情，而不是一些可怕和糟糕的事情，不惜一切代价避免。
 
-[![Dog drinking coffee in burning house: "this is fine"](../Images/02dfd058bfbe845fc7fe95041e6b0bfc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5jhSKKnd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vvfd60qo94wpoaxc15cv.png)
+[![Dog drinking coffee in burning house: "this is fine"](img/02dfd058bfbe845fc7fe95041e6b0bfc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5jhSKKnd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vvfd60qo94wpoaxc15cv.png)
 
 ## 发生事故时，你应该怎么做？
 

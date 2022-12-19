@@ -4,7 +4,7 @@
 
 Docker 非常灵活，我们不用担心为我们的应用程序设置环境。
 
-[![Image](../Images/934b21593ad059425647f25163d6fcb7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zFzy4rI---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s4v2omchiwudi5gmganu.jpg)
+[![Image](img/934b21593ad059425647f25163d6fcb7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zFzy4rI---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s4v2omchiwudi5gmganu.jpg)
 
 -照片由弗兰克·麦肯纳在 Unsplash 上拍摄
 
@@ -18,7 +18,7 @@ Docker 非常灵活，我们不用担心为我们的应用程序设置环境。
 
 使用 Hyper-V Manager for Windows 创建虚拟交换机
 
-[![Image](../Images/687f1fae31d8739dbcaddad7e7679720.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OuNwJQgR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lkzs8kihi3jg38yydjnb.PNG)
+[![Image](img/687f1fae31d8739dbcaddad7e7679720.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OuNwJQgR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lkzs8kihi3jg38yydjnb.PNG)
 
 现在使用以下命令创建 docker 容器
 

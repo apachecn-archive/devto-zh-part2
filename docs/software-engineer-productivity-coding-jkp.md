@@ -69,13 +69,13 @@
 
 通过使用更多的 ***键盘快捷键*** ，你将获得巨大的生产力提升。例如“**扩展选择**”这些年来节省了我很多时间。其他例子有**实时模板和多光标**。
 
-[![ide1](../Images/2c043a50a2a41baaebf3c12365caf7ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OGdyz9Ov--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fq646knupdm1xg9knxx6.gif)
+[![ide1](img/2c043a50a2a41baaebf3c12365caf7ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OGdyz9Ov--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fq646knupdm1xg9knxx6.gif)
 
 我经常使用的一个实时模板是调试消息，比如 if `IsDebugBuild {print("msg", var)}`或 try/catch 表达式。
 
 您可能会不时地使用一些正则表达式替换，但有时多游标更简单、更有效。
 
-[![ide2](../Images/52687aecbf864c34a05d8e43001c4886.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ujM9oo5S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2458q8t3dfwppnbxb5pg.gif)
+[![ide2](img/52687aecbf864c34a05d8e43001c4886.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ujM9oo5S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2458q8t3dfwppnbxb5pg.gif)
 
 对多游标来说足够好的场景:硬编码的数据、枚举、模板和一切最无聊的东西。
 
@@ -142,4 +142,4 @@
 
 [乔尔测试:更好编码的 12 个步骤](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) 
 
-[![end](../Images/8afb0c3d200fd0b27f5c99ddf2ad6b76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yKH_uExg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7m44hjlg0ucepy7sop1u.jpeg)
+[![end](img/8afb0c3d200fd0b27f5c99ddf2ad6b76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yKH_uExg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7m44hjlg0ucepy7sop1u.jpeg)

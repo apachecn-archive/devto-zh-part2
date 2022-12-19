@@ -6,7 +6,7 @@
 
 ## 典型的例子:MyFaceTweetSter
 
-[![](../Images/a9329e57db05da112c5e3e2146bbaccd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PNX_F4i7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://635.gtbank.com/wp-content/uploads/2018/06/Social-Media-Graphic.jpg)
+[![](img/a9329e57db05da112c5e3e2146bbaccd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PNX_F4i7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://635.gtbank.com/wp-content/uploads/2018/06/Social-Media-Graphic.jpg)
 
 今年是 2005 年。MFTS 已经成为社交媒体网络之王。他们获得了数百万的收入，每个大学生都在使用它，首席执行官已经可以看到几年后一部关于他的公司的电影。这一切都很好，直到*汤姆·祖克多西*犯了一个致命的错误:当他重构 MFTS 的`inbox.php`脚本时，他意外地使用了`in_array ($needle , $haystack)`。(哪个顺序不对。或者是？IDK 甚至知道)。这显然撕开了时空平面的一个空洞，在时间上冻结了整个 MFTS 建筑。PHP4 相当狂野。
 

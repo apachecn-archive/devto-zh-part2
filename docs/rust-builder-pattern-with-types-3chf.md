@@ -281,11 +281,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 错误将是这样的:
 
-[![](../Images/8f29b8cc3cef7ea470e5de0110b881c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k68cHTPq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l8qp2ouatf69tsq8hfp2.png)
+[![](img/8f29b8cc3cef7ea470e5de0110b881c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k68cHTPq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l8qp2ouatf69tsq8hfp2.png)
 
 `no method named execute found for type CookPastaBuilder<Yes, Yes, No> in the current scope`不是很有帮助，但至少你可以在运行前发现错误。至少泛型类型名将帮助您确定缺少什么:
 
-[![](../Images/a452407b9bf9c84da3c6e1167a55e5dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W90GBKtp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iisn0oqqmdutkfj9y97p.png)
+[![](img/a452407b9bf9c84da3c6e1167a55e5dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W90GBKtp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iisn0oqqmdutkfj9y97p.png)
 
 也就是说，如果您将必要的`WHERE`添加到结构声明:
 

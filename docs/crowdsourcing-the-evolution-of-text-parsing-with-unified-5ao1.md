@@ -38,7 +38,7 @@ unified 的接口用于将 markdown 转换为 HTML，同时添加其他功能 un
 
 ## 宣布统一的集体
 
-[![Organisations under the unified umbrella](../Images/7bdfa5b330caf944c01ff889ade3fdd8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xECRKyt3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p0absj2os4b4h1g8cxim.png) 
+[![Organisations under the unified umbrella](img/7bdfa5b330caf944c01ff889ade3fdd8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xECRKyt3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p0absj2os4b4h1g8cxim.png) 
 *统一旗下的组织*
 
 今天，我们很高兴地宣布[统一集体](https://unified.js.org/)的成立。这是一种努力，通过无缝、可互换和可扩展的工具，将志同道合的组织聚集在一起，共同致力于内容的创新。我们构建解析器、转换器和实用程序，这样其他人就不必担心语法了。我们让开发者更容易开发。
@@ -63,7 +63,7 @@ unified 的接口用于将 markdown 转换为 HTML，同时添加其他功能 un
 
 **MDX** 功能强大。这是组件时代的降价。它可以让你编写嵌入 markdown 内部的 JSX。这是一个很好的组合，因为它允许你对小东西使用 markdown 通常简洁的语法(比如`# heading`),对更高级的组件使用 JSX。MDX 对于一个 [JAMStack](https://jamstack.org/) 应用程序很有用，可以将动态数据注入文档，或者在 mdx-deck 中构建幻灯片。
 
-[![mdx-deck by Brent Jackson](../Images/0035f3f73783d9f5a0d6e7bbb539492d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2VMkZ3lt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ztw2ddnleep6ikkapkfg.gif) 
+[![mdx-deck by Brent Jackson](img/0035f3f73783d9f5a0d6e7bbb539492d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2VMkZ3lt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ztw2ddnleep6ikkapkfg.gif) 
 
  *## 介绍微标
 
@@ -119,7 +119,7 @@ Open Collective 允许 unified 以透明的方式向支持者和赞助商收钱�
 
 个人和公司都可以支持我们的使命。您可以通过成为每月 2 美元起价的支持者或每月 100 美元起价的官方 unified 赞助商来帮助 unified 实现可持续发展。作为感谢的方式，我们在主要的 GitHub 库上列出了支持者和赞助者。赞助商也将出现在 unified.js.org 的[上，并在推特上大声疾呼。🥈白银(500 美元以上)和🥇金牌(1000 美元以上)赞助商还可以获得与核心维护人员的聊天帮助。](https://unified.js.org/)
 
-[![The early and amazing sponsors of unified through Open Collective.](../Images/33e0fccbe8b8b21be3d500806cf254f4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5j5_Y8Wp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/egp6n05mnwj4jg9q1ivy.png) 
+[![The early and amazing sponsors of unified through Open Collective.](img/33e0fccbe8b8b21be3d500806cf254f4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5j5_Y8Wp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/egp6n05mnwj4jg9q1ivy.png) 
 *早期通过开放集体统一的惊人发起人。*
 
 通过开放集体统一的早期和惊人的发起人。

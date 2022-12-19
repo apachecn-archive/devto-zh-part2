@@ -82,7 +82,7 @@ ENTRYPOINT ["dotnet", "dwCheckApi.dll"]
 
 所有的图像都建立在其他图像的基础上。dwCheckApi 的 docker 映像基于微软提供的一个("[Microsoft/dot net:2.1-SDK-alpine](https://github.com/dotnet/dotnet-docker/blob/master/2.1/sdk/alpine3.7/amd64/Dockerfile)")，它本身基于微软提供的另一个("[Microsoft/dot net:2.1-runtime-deps-alpine 3.7](https://github.com/dotnet/dotnet-docker/blob/master/2.1/runtime-deps/alpine3.7/amd64/Dockerfile)")；它基于 docker 提供的另一个图像(“ [alpine:3.7](https://github.com/gliderlabs/docker-alpine/blob/61c3181ad3127c5bedd098271ac05f49119c9915/versions/library-3.7/x86_64/Dockerfile) ”)，后者基于另一个名为“scratch”的图像(本身与 docker 捆绑在一起)。在这一句话中有很多文本，所以这里是相同的信息，但以图形方式呈现:
 
-[![dwCheckApi image make up](../Images/e11ffc227059f4e682a496f000e5c7cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Her0M5a6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aurmn2b0m4pk51x2vtlx.jpg)
+[![dwCheckApi image make up](img/e11ffc227059f4e682a496f000e5c7cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Her0M5a6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aurmn2b0m4pk51x2vtlx.jpg)
 
 *我们不惜代价*
 
@@ -94,7 +94,7 @@ docker build .
 
 我们告诉它(通过 dockerfile)在构建之前获取构建我们基础映像的所有“层”(一直到“alpine:3.7”)。如果您观察控制台输出，就可以看到这种情况
 
-[![Download Step](../Images/247b90f707414707ea82e1ee25d2c2e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gClw9vQM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hvf5muuizu01cwkzktd4.jpg)
+[![Download Step](img/247b90f707414707ea82e1ee25d2c2e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gClw9vQM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hvf5muuizu01cwkzktd4.jpg)
 
 在上面的屏幕截图中，docker 正在下载 dwCheckApi 的图像所依赖的所有图像。这些图像中的每一个都将作为单独的层添加到 docker 图像缓存中。
 
@@ -293,7 +293,7 @@ docker run --rm -p 5000:5000 dwcheckapi:latest --name running-dwcheckapi-instanc
 
 为了简单起见，我们还假设 API 不需要访问外部世界。将它们装入容器并在 docker 中运行后，您可能会得到如下结果:
 
-[![docker network example](../Images/23228ea670808eb1252e52df8392085d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WIr2MXFk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zbbwrloq5g8d19lrkoxs.jpg)
+[![docker network example](img/23228ea670808eb1252e52df8392085d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WIr2MXFk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zbbwrloq5g8d19lrkoxs.jpg)
 
 从右到左，我们有:
 

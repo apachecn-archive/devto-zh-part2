@@ -10,7 +10,7 @@
 
 我真的很喜欢这个:
 
-[![rapidnerd](../Images/c3aa4134eea74a2fb97ebb3e00155b4d.png)](/rapidnerd) [## 我从软件工程转到游戏开发，问我什么都行。
+[![rapidnerd](img/c3aa4134eea74a2fb97ebb3e00155b4d.png)](/rapidnerd) [## 我从软件工程转到游戏开发，问我什么都行。
 
 ### 乔治马尔 8 月 28 日 171 分钟阅读
 

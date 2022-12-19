@@ -4,7 +4,7 @@
 
 * * *
 
-[![chain](../Images/2e3416807ef3adeb05d0d876ad62dc29.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qUsD042l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5x4rpu4wh28ms82qqx1v.jpg)
+[![chain](img/2e3416807ef3adeb05d0d876ad62dc29.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qUsD042l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5x4rpu4wh28ms82qqx1v.jpg)
 
 *最初发表于 codburst.io 作为通过了解 JavaScript 的原型链来通过你的前端面试。*
 
@@ -20,7 +20,7 @@
 
 听起来很像一份清单，是吧？这个特定列表中的每个元素都包含一个称为原型的对象文字。
 
-[![inherit](../Images/48b530588224fd181689c1f7b4b7d148.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DNmkkoge--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fbol4z64ti4rom45ij2e.png)
+[![inherit](img/48b530588224fd181689c1f7b4b7d148.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DNmkkoge--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fbol4z64ti4rom45ij2e.png)
 
 上图有点误导，因为原型链中的最后一个元素总是 Object，函数和数组等所有实例都是从 Object 派生的。把原型链想成一个链表有什么帮助？
 
@@ -140,4 +140,4 @@ Enter fullscreen mode Exit fullscreen mode
 作者:
 拉吉阿音拉|[https://dev.to/realrayinla](https://dev.to/realrayinla)|[rajiayinla858@gmail.com](mailto:rajiayinla858@gmail.com)
 
-[![codesmith](../Images/a25a1b641befd96f8a55c5256ee56d35.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lBFE85mW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rus3vez9s2udmpvfnjgm.jpg)
+[![codesmith](img/a25a1b641befd96f8a55c5256ee56d35.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lBFE85mW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rus3vez9s2udmpvfnjgm.jpg)

@@ -63,7 +63,7 @@ T1】
 我更喜欢有自己的谷歌登录按钮，以便更好地控制登录流程。
 
 `<button id="googleBtn">
-<img src="./../../assets/images/google_signin.png">
+<img src="./../../asseimg/google_signin.png">
 </button>
 declare const gapi: any;
 ngAfterViewInit() {

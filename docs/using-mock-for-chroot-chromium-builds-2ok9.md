@@ -12,7 +12,7 @@
 
 如果你想直接进入，可以在 [chrsh](https://github.com/rsclarke/chrsh) repo 中找到这个文件。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [斯克拉克](https://github.com/rsclarke) / [克里斯赫](https://github.com/rsclarke/chrsh)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [斯克拉克](https://github.com/rsclarke) / [克里斯赫](https://github.com/rsclarke/chrsh)
 
 ### Chromium 的模拟配置，用于在 chroot 环境中构建、测试和运行。
 

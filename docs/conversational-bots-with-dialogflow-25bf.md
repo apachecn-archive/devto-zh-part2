@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/committedsw/conversational-bots-with-dialogflow-25bf>
 
-[![](../Images/08e6ff5350cd9659685be5d012d8862a.png)T2】](///static/google-home-mini-0f63541f5ca4f55b776e67ed87a255ce-be74e.jpeg)
+[![](img/08e6ff5350cd9659685be5d012d8862a.png)T2】](///static/google-home-mini-0f63541f5ca4f55b776e67ed87a255ce-be74e.jpeg)
 
 # 用 Dialogflow 构建对话机器人
 
@@ -26,7 +26,7 @@ Dialogflow 允许我们定义不同的意图，它将匹配传入的查询。我
 
 我们还可以说明应该从每个请求中提取的参数。对于每个参数，我们指定其名称、类型和默认值。Dialogflow 为数字、日期或位置等常见类型提供了许多现有类型，同时还允许我们定义自己的实体类型。
 
-[![](../Images/037aed71baef9bb979ea2b519eb2a3d3.png)T2】](///static/Intent-3537221a7fcc2749e3efb7a61e238fb6-59a72.png)
+[![](img/037aed71baef9bb979ea2b519eb2a3d3.png)T2】](///static/Intent-3537221a7fcc2749e3efb7a61e238fb6-59a72.png)
 
 我们声明每个参数是否是必需的，并且我们还可以在用户没有提供所有必需的参数时提供提示。在上面的例子中，关于午餐的问题需要一个 FoodType 参数。
 
@@ -42,7 +42,7 @@ Dialogflow 允许我们定义不同的意图，它将匹配传入的查询。我
 
 一旦用户的意图被确定，我们需要为他们的请求提供一个响应。Dialogflow 允许我们在浏览器中提供基本的文本响应，针对不同的平台(如 Google Assistant 或 Slack)提供特定的响应。
 
-[![](../Images/005b476871458a364d7463830393e5c4.png)T2】](///static/Response-ab784c4e3c1f734a176c6a85119d5388-5082f.png)
+[![](img/005b476871458a364d7463830393e5c4.png)T2】](///static/Response-ab784c4e3c1f734a176c6a85119d5388-5082f.png)
 
 然而，我们可能希望提供一个定制的响应，为此 Dialogflow 提供了与 Firebase 云功能的集成。它再次允许我们完全在浏览器中编辑和部署该功能。Dialogflow 为我们提供了一个模板化的函数来进行编辑，在这个函数中，我们编写了我们的请求实现代码，并为 Dialogflow 提供了一个映射，说明了处理每个意图时要调用的函数。
 
@@ -102,7 +102,7 @@ function lunchHandler(agent) {
 
 Dialogflow 的主要优势之一是其应用程序集成。Dialogflow 提供了与谷歌助手、Facebook Messenger、Slack、Twitter、Alexa、Skype 等的简单集成。在大多数情况下，这些集成的设置非常简单，很多情况下都是激活集成并提供两个服务通信所需的一组凭证。在每种情况下，Dialogflow 都提供了一组简单的步骤来设置集成。
 
-[![](../Images/44aeb341bbc3f4131799dd448f4e4fb6.png)T2】](///static/Facebook-aa46daefb118bde939fc7bdaff80c8f1-ed1e1.png)
+[![](img/44aeb341bbc3f4131799dd448f4e4fb6.png)T2】](///static/Facebook-aa46daefb118bde939fc7bdaff80c8f1-ed1e1.png)
 
 一旦建立了集成，来自该平台的任何查询请求都将被转发到 Dialogflow 进行处理并返回结果，来自每个平台的所有请求都由相同的底层服务处理。
 

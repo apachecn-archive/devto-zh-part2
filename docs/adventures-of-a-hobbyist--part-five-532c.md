@@ -4,7 +4,7 @@
 
 # 多思考一点`conf`文件
 
-[![bash](../Images/5034ef7c0adf8a4c49a985b08eb1c2c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3A7NSV9Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.pixabay.com/photo/2013/07/13/13/41/bash-161382_960_720.png)
+[![bash](img/5034ef7c0adf8a4c49a985b08eb1c2c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3A7NSV9Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.pixabay.com/photo/2013/07/13/13/41/bash-161382_960_720.png)
 
 ## 这是什么？
 

@@ -4,7 +4,7 @@
 
 *这次采访是为我们的* [*创业微服务*](https://buttercms.com/books/microservices-for-startups/) *电子书做的。一定要去看看关于微服务的实用建议。感谢 Stephen 的时间和投入！T13】*
 
-*[![](../Images/7e8a7e8eb6fc3e8f7d20a40a2709d1bf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hL7HQQGI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/2fQqxUGScGaUEI72GYYr)T6】*
+*[![](img/7e8a7e8eb6fc3e8f7d20a40a2709d1bf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hL7HQQGI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/2fQqxUGScGaUEI72GYYr)T6】*
 
 [*斯蒂芬·布鲁姆*](https://twitter.com/stephenlb?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) *是创始人兼*[*pub nub*](https://www.pubnub.com/)*的 CTO。PubNub 是一个安全的全球数据流网络(DSN)和易于使用的 API，使其客户能够连接、扩展和管理实时应用和物联网设备。T19】*
 

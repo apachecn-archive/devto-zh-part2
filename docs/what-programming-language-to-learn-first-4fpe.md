@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/israteneda/what-programming-language-to-learn-first-4fpe>
 
-[![gif](../Images/b14bb116cbd40060d1b041f43cc05f3f.png)T2】](https://i.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif)
+[![gif](img/b14bb116cbd40060d1b041f43cc05f3f.png)T2】](https://i.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif)
 
 简答:我推荐 Python 或者 Javascript。
 

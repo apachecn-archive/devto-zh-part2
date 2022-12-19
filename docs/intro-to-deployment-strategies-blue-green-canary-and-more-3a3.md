@@ -69,7 +69,7 @@ Big bang 部署不适合现代应用程序，因为这种风险对于面向公�
 
 下图显示了部署模式:在集群中的每个服务器上，旧版本显示为蓝色，新版本显示为绿色。
 
-[![Rolling deployment](../Images/d82dd50e6eca6300f58dae0f7ebb4790.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RbA0NHA6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/divuxihkun2p186c9mye.png)
+[![Rolling deployment](img/d82dd50e6eca6300f58dae0f7ebb4790.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RbA0NHA6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/divuxihkun2p186c9mye.png)
 
 应用程序套件升级是滚动部署的一个例子。如果最初的应用程序部署在容器中，升级可以一次处理一个容器。每个容器都被修改为从应用程序供应商的网站下载最新的图像。如果其中一个应用程序存在兼容性问题，旧映像可以重新创建容器。在这种情况下，套件应用程序的新旧版本共存，直到每个应用程序都升级。
 
@@ -79,11 +79,11 @@ Big bang 部署不适合现代应用程序，因为这种风险对于面向公�
 
 一个是接收所有用户流量的当前运行的生产环境(用蓝色表示)。另一个是它的克隆，但闲置(绿色)。两者都使用相同的数据库后端和应用程序配置:
 
-[![Before blue-green deployment](../Images/ec784f4ca4d22fc1d463ad4afc350fb4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fJ4tYKdy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78dk41w8qmuy9f9pvrf6.png)
+[![Before blue-green deployment](img/ec784f4ca4d22fc1d463ad4afc350fb4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fJ4tYKdy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78dk41w8qmuy9f9pvrf6.png)
 
 新版本的应用程序部署在绿色环境中，并经过功能和性能测试。一旦测试结果成功，应用流量就会从蓝色变为绿色。绿色成为新的产品。
 
-[![After blue-green deployment](../Images/089074528014544dbc69bc2143e0a3fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ca9C-wVZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m664yyotixnqncprryf0.png)
+[![After blue-green deployment](img/089074528014544dbc69bc2143e0a3fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ca9C-wVZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m664yyotixnqncprryf0.png)
 
 如果在绿色变为活动状态后出现问题，流量可以被路由回蓝色。
 
@@ -103,7 +103,7 @@ Big bang 部署不适合现代应用程序，因为这种风险对于面向公�
 
 由于没有错误报告，新版本可以逐步推广到基础设施的其余部分。下图演示了金丝雀部署:
 
-[![Canary deployment](../Images/0b9dbaf7a3c2e1c0800e91b121590afb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7PmOiuG9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zvf9rbd1x38umph98zro.png)
+[![Canary deployment](img/0b9dbaf7a3c2e1c0800e91b121590afb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7PmOiuG9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zvf9rbd1x38umph98zro.png)
 
 canary 部署的主要挑战是设计一种方法将一些用户路由到新的应用程序。此外，一些应用程序可能总是需要同一组用户进行测试，而其他应用程序可能每次都需要不同的组。
 

@@ -77,11 +77,11 @@ superNestedFunction(); // Logs: {prop: "Hello World", fn: ƒ}
 
 现在右击记录的对象并选择**存储为全局变量**选项。
 
-[![Right click on the Object an select "Store as global variable"](../Images/5c8a0e556e35e0482be73e4934d8db11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XNvAAsSt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/09/store_as_global_variable.png)
+[![Right click on the Object an select "Store as global variable"](img/5c8a0e556e35e0482be73e4934d8db11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XNvAAsSt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/09/store_as_global_variable.png)
 
 Chrome 会自动创建一个新的全局临时变量(本例中为`temp1`),并为其分配您右键单击的对象:
 
-[![Global variable "temp1" created by Chrome](../Images/7bd97ad67ba410f7c9883aedff484468.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hizKb8eK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/09/global_variable_created.png)
+[![Global variable "temp1" created by Chrome](img/7bd97ad67ba410f7c9883aedff484468.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hizKb8eK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/09/global_variable_created.png)
 
 现在您可以使用`temp1`来访问该对象的任何字段！让我们看看整个过程:
 

@@ -10,7 +10,7 @@
 
 我们想为我们的用例找到一个完整的产品。
 
-[![](../Images/4e7bd16a8af21b339e7770832ecdfe24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uupJSoY---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/686/1%2AyPv_3AmCyKOyVZ2AZeYflA.png)
+[![](img/4e7bd16a8af21b339e7770832ecdfe24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uupJSoY---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/686/1%2AyPv_3AmCyKOyVZ2AZeYflA.png)
 
 ### 产品需求
 
@@ -45,7 +45,7 @@
 
 #### 数据复制
 
-[![](../Images/d43defdf5c1f8fb6da69dbe91e2f4b3a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a0mApoa1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/198/1%2A-ZlDA_I4wwsfV3WH7kT7bQ.png)
+[![](img/d43defdf5c1f8fb6da69dbe91e2f4b3a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a0mApoa1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/198/1%2A-ZlDA_I4wwsfV3WH7kT7bQ.png)
 
 1.  扫描不安全的 HDFS——递归地，我们还需要知道要同步的子路径。我们有多少文件？路径大小？
 2.  将 HDFS 扫描保存到数据库表。
@@ -57,7 +57,7 @@
 
 #### Apahce Hive Metastore 同步
 
-[![](../Images/588e3405ab2fceaa1b330b52817d7171.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_NI9HaTf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/151/1%2AZkszg-AJQgVuYvyPWLu8OQ.png)
+[![](img/588e3405ab2fceaa1b330b52817d7171.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_NI9HaTf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/151/1%2AZkszg-AJQgVuYvyPWLu8OQ.png)
 
 1.  列出我们不安全集群中的所有配置单元数据库。
 2.  列出我们所有的桌子

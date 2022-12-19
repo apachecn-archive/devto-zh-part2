@@ -4,14 +4,14 @@
 
 还不到去[的 1/6 <sup>路程</sup>几乎是 NaNoWriMo](https://www.anonjr.com/2018/11/Almost-NaNoWriMo.html) ，我承认感觉有点防守。今天早上，我原本是想对这篇文章进行抽查或反思，但如果我直言不讳的话，这是从昨晚开始就在我脑海中慢慢燃烧的一些评论:
 
-<figure>[![](../Images/edcbc088977c4a2782bca19458afa3d4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---X0Iy1Ji--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.anonjr.com/img/2018-11-05-UnhelpfulAdvice-01.png) 
+<figure>[![](img/edcbc088977c4a2782bca19458afa3d4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---X0Iy1Ji--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.anonjr.com/img/2018-11-05-UnhelpfulAdvice-01.png) 
 
 <figcaption>
 </figcaption>
 
 </figure>
 
-<figure>[![](../Images/d860e1c7364ae87714598fbd5e5c3f27.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--P2yxGT-i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.anonjr.com/img/2018-11-05-UnhelpfulAdvice-02.png) 
+<figure>[![](img/d860e1c7364ae87714598fbd5e5c3f27.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--P2yxGT-i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.anonjr.com/img/2018-11-05-UnhelpfulAdvice-02.png) 
 
 <figcaption>
 </figcaption>
@@ -51,7 +51,7 @@
 
 这就把我们带回到写作上来——不写*更多*的文章，你就写不出*更好*的文章；或者至少是更多有特定心态和方法的文章。我们可以在一些更有帮助的评论中看到这一点。
 
-<figure>[![](../Images/abacc7ea3967f7695b694050c87c49d5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--l9z55z_f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.anonjr.com/img/2018-11-05-SemihelpfulAdvice-01.png) 
+<figure>[![](img/abacc7ea3967f7695b694050c87c49d5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--l9z55z_f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.anonjr.com/img/2018-11-05-SemihelpfulAdvice-01.png) 
 
 <figcaption>
 </figcaption>
@@ -66,7 +66,7 @@
 
 哦，对于那些想知道的人，这是这篇文章的统计数据。
 
-<figure>[![Ghostwriter's Document Statistics](../Images/b89fd8b55e52ddc227496080f142ad17.png "Ghostwriter's Document Statistics")](https://res.cloudinary.com/practicaldev/image/fetch/s--A6Zs0blm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.anonjr.com/img/2018-11-05-WritingStats-01.png) 
+<figure>[![Ghostwriter's Document Statistics](img/b89fd8b55e52ddc227496080f142ad17.png "Ghostwriter's Document Statistics")](https://res.cloudinary.com/practicaldev/image/fetch/s--A6Zs0blm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.anonjr.com/img/2018-11-05-WritingStats-01.png) 
 
 <figcaption>
 代笔人的文档统计

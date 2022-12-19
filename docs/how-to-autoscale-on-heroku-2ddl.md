@@ -4,7 +4,7 @@
 
 Heroku 使得为你的应用添加服务器变得很容易(Heroku 行话中的“dynos”)。他们在你的应用仪表板上给你一个方便的滑块，你只需拨入你想要的多少 dynos。
 
-[![dyno slider](../Images/a1acd1ae41e872a9c9aa0b1ed4adba10.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9LIYwS-_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://g.recordit.co/JjfGDgy782.gif)
+[![dyno slider](img/a1acd1ae41e872a9c9aa0b1ed4adba10.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9LIYwS-_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://g.recordit.co/JjfGDgy782.gif)
 
 如果你注意到活动的峰值，这是有帮助的。
 
@@ -16,7 +16,7 @@ Heroku 在其价格较高的层级中提供这种服务(250 美元以上)。
 
 如果你在一个较低的层上，你将需要使用一个像 [Rails Autoscale](https://railsautoscale.com/) 这样的附加组件。
 
-[![Rails Autoscale](../Images/8d9d84ada1d1a3df967e739ceef093fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h91YJfgr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g86uabmf9c4i0ojtsirn.png)
+[![Rails Autoscale](img/8d9d84ada1d1a3df967e739ceef093fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h91YJfgr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g86uabmf9c4i0ojtsirn.png)
 
 ### 我的 Heroku app 应该什么时候添加 dynos？
 

@@ -6,7 +6,7 @@
 
 在本文中，我将详细讨论我在 Mozilla Firefox 隐私浏览模式中发现的一个漏洞，该漏洞使得隐私浏览会话有可能被跟踪。
 
-[![](../Images/4aea15693b045e5ff286ed9a2e67ca2e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eEGy2iDG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2A_wACV-5_7XXEx3uUSW4sUw.png)
+[![](img/4aea15693b045e5ff286ed9a2e67ca2e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eEGy2iDG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2A_wACV-5_7XXEx3uUSW4sUw.png)
 
 [隐私浏览](https://support.mozilla.org/en-US/kb/private-browsing-use-firefox-without-history)是当今现代浏览器中最广为人知和使用最多的功能之一。浏览器不断地为隐私浏览添加[许多](https://blog.mozilla.org/security/2018/01/31/preventing-data-leaks-by-stripping-path-information-in-http-referrers/)增强功能，以增强用户的隐私。
 
@@ -28,11 +28,11 @@
 
 尽管根据文档，IndexedDB 在私人浏览模式下不可用。
 
-[![](../Images/151a8d1a0c7e4d1232294777a74d2f92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fERj7-8l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AwYLRaMD6WFi62ndBMCJnDQ.png)
+[![](img/151a8d1a0c7e4d1232294777a74d2f92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fERj7-8l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AwYLRaMD6WFi62ndBMCJnDQ.png)
 
 如果直接在网页上使用 IndexedDB，会抛出一个错误:
 
-[![](../Images/2afcf6874c775cd629ad1c06278222af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I-gtiy4h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2ASAoSUwkjpuqHw9KPZloWjg.png)
+[![](img/2afcf6874c775cd629ad1c06278222af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I-gtiy4h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2ASAoSUwkjpuqHw9KPZloWjg.png)
 
 但是如果把 IndexedDB 和 [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API) 结合起来会怎么样呢？
 
@@ -50,7 +50,7 @@ IndexedDB 可以通过 Web Workers 在私有浏览模式下访问。不仅如此
 
 例如，如果用户访问一个使用 Web Workers + IndexedDB 托管在 cdn.cliqz.com 上的[测试网页](https://cdn.cliqz.com/browser-f/fun-demo/test-webworker-indexed-db.html) (demo)，并从 konarkmodi.github.io 加载一个资源，则在磁盘上创建以下两个条目。
 
-[![](../Images/7874a3aa03da5d3eb428a6634de1ff51.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xLZHhZM6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2A8IxZqxbAsfVC_xkKxrsk7w.png) 
+[![](img/7874a3aa03da5d3eb428a6634de1ff51.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xLZHhZM6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2A8IxZqxbAsfVC_xkKxrsk7w.png) 
 
 <figcaption>被索引的位置 DB: `<em>profile/storage`列出 Poc 网页。</figcaption>
 
@@ -62,7 +62,7 @@ Mozilla 鼓励对他们的产品进行安全研究。用他们自己的话说:
 
 我在 2017 年 10 月通过他们的 [Bug 赏金计划](https://www.mozilla.org/en-US/security/client-bug-bounty/)报告了这个问题，这个问题在 2017 年 11 月被修复。他们很快发现并解决了问题。
 
-[![](../Images/a11e3809d8a8b63d41b434018abc306d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O4LRRA13--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AHD_jFBEd4XNq3UGb6J_nBg.png)
+[![](img/a11e3809d8a8b63d41b434018abc306d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O4LRRA13--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AHD_jFBEd4XNq3UGb6J_nBg.png)
 
 要了解更多细节，你可以在 Mozilla 的 Bugzilla 上阅读完整的错误报告。
 

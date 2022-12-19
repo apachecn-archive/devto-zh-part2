@@ -16,7 +16,7 @@
 
 我本可以将我的组件命名为“vue-table-component”，这样更合适，但是我懒得更改我的截图(现在已经晚上 11 点了) :)
 
-[![](../Images/2bb7f98986700d4ab07a5ff8399d01db.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iUJ694LQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A0TFnAOHQBw9MkEVtDam77A.png) 
+[![](img/2bb7f98986700d4ab07a5ff8399d01db.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iUJ694LQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A0TFnAOHQBw9MkEVtDam77A.png) 
 
 <figcaption>使用过滤器找到正确的翻译，默认为初始值</figcaption>
 
@@ -24,7 +24,7 @@
 
 注册对于两件事是必要的:第一是确保你可以在你的 HTML 中使用组件，第二，你需要能够引用该组件以便能够传递翻译。
 
-[![](../Images/ce539042e00dd458cdaf6a5d7872355c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7mmmMtlm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/668/1%2Av4H8tXixz0he1yAIaVYsJQ.png) 
+[![](img/ce539042e00dd458cdaf6a5d7872355c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7mmmMtlm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/668/1%2Av4H8tXixz0he1yAIaVYsJQ.png) 
 
 <figcaption>组件的注册</figcaption>
 
@@ -36,7 +36,7 @@
 
 在底部，一个对象数组被分配给“ml”属性，每个对象有两个属性，每个属性都有适当的名称，但是您可以按照自己喜欢的任何方式命名它们，只要您相应地更改过滤函数。
 
-[![](../Images/8e7f885b7368c3716bf8f2338c99e2b4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uUTvuXKd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A_-NRQa4Oy1SeHgx8cCzzag.png) 
+[![](img/8e7f885b7368c3716bf8f2338c99e2b4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uUTvuXKd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A_-NRQa4Oy1SeHgx8cCzzag.png) 
 
 <figcaption>传递一串翻译</figcaption>
 
@@ -52,7 +52,7 @@
 
 在呈现的 HTML 中，只有第二个和第三个标签被翻译，而第一个标签，因为在“ML”列表中没有它的翻译，只显示它的默认值(管道符号前的字符串)。
 
-[![](../Images/e1274c2c6d89f9647ec17f0a9cd2ec9f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ApkLaylY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AsgSRaXQjioO2mckG_DJXxQ.png) 
+[![](img/e1274c2c6d89f9647ec17f0a9cd2ec9f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ApkLaylY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AsgSRaXQjioO2mckG_DJXxQ.png) 
 
 <figcaption>HTML 渲染</figcaption>
 
@@ -68,13 +68,13 @@ PS:这是一个解决方案，所以我猜不是解决方案，所以如果有�
 
 编辑 2:当我还在学习 Vue 的细节时，我了解了全局滤镜，觉得它很棒。为此，我试着在我的翻译中实现这一点，它非常有效！我用以下代码创建了一个名为“component-filters.ts”的新文件:
 
-[![](../Images/5096f2cd37caa6c7f2a1afd6fc8a14c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dlPCfzTQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AAxBKv82KpPv400y4sR1U3A.png)
+[![](img/5096f2cd37caa6c7f2a1afd6fc8a14c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dlPCfzTQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AAxBKv82KpPv400y4sR1U3A.png)
 
 <figcaption>/js/component-filters.ts</figcaption>
 
 并将脚本文件添加到包中:
 
-[![](../Images/524eb7f9293c161b0015aab7974f2c23.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--16PvtRsC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2APrDv7cWm6E0FzSrQdR0lvA.png)
+[![](img/524eb7f9293c161b0015aab7974f2c23.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--16PvtRsC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2APrDv7cWm6E0FzSrQdR0lvA.png)
 
 <figcaption>bundling</figcaption>
 

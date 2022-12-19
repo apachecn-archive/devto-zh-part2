@@ -4,7 +4,7 @@
 
 ### 关于‘但是在规格上看起来不一样’的效果，UI 工具包和其他东西。
 
-[![](../Images/ca7fdcc6dfb01ca464fcaf3eaadafc15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2YdojSg6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A8fAGPEkr7UAqhNf0z3T5Zg.jpeg)
+[![](img/ca7fdcc6dfb01ca464fcaf3eaadafc15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2YdojSg6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A8fAGPEkr7UAqhNf0z3T5Zg.jpeg)
 
 两颗行星但至少是同一个太阳系**！与行星的类比到此结束。**
 
@@ -20,7 +20,7 @@
 
 我们的设计师制作了一系列精美的设计，包括我们* Documents *页面的布局:
 
-[![](../Images/3eedf454b4498a736656cec249573842.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mY61vmQa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Ak0iI0xz1Qls-w1vT-PwWLw.png)
+[![](img/3eedf454b4498a736656cec249573842.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mY61vmQa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Ak0iI0xz1Qls-w1vT-PwWLw.png)
 [https://www . sketchappsources . com/free-source/2576-ooto-productivity-dashboards-sketch-freebie-resource . html](https://www.sketchappsources.com/free-source/2576-ooto-productivity-dashboards-sketch-freebie-resource.html)
 
 很干净，很平衡，有点赏心悦目。对于设计师来说，这是一个漫长过程的高潮，包括研究、采访、思考、回顾、反思、白板、原型制作、线框图等一系列任务。这是一个漫长而乏味的过程，开发人员通常不会经历。
@@ -31,14 +31,14 @@
 
 设计师需要能够让他们快速重复的工具，回顾和更新，一个接一个的反馈，一个接一个的利益相关者会议。* *设计师需要素描这样的工具。**
 
-[![](../Images/50a524157563dd88eef1604f9ea83775.png)](https://i.giphy.com/media/emqXnYodLaS4M/giphy.gif) 
+[![](img/50a524157563dd88eef1604f9ea83775.png)](https://i.giphy.com/media/emqXnYodLaS4M/giphy.gif) 
 img:为利益相关者设计。
 
 #### 另一方面，开发人员的工作方式不同。
 
 他们在不断变化的代码库上工作，这些代码库在任何时候都必须产生一个应用程序的工作版本。实现像我们例子中这样的布局需要付出努力，包括设计、抽象、实现、重构、测试、审查、重构、错误修复、重构。开发人员需要确保他们不会破坏其他任何东西或者用**坏的、重复的代码**污染代码库。
 
-[![](../Images/445cf97f15c83827e3febb8bd30a242f.png)](https://i.giphy.com/media/shXBoJHIx6Lni/giphy.gif) 
+[![](img/445cf97f15c83827e3febb8bd30a242f.png)](https://i.giphy.com/media/shXBoJHIx6Lni/giphy.gif) 
 img:开发者
 
 > 设计师更像是在不断循环的开发中来回跳跃的开发者。
@@ -49,9 +49,9 @@ img:开发者
 
 有布局，空间和颜色等等要记录。Sketch 或者其他任何工具都不太了解你当前的代码库，你的文件结构，你的抽象，那么 Sketch 能做什么呢？衡量事物。这就是将要产生的结果:
 
-[![](../Images/319af1a7c79564bee4aa6d29ccb4d523.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JpLrti0J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2At8K0NcmFdWBkCTalH92aVw.png)
+[![](img/319af1a7c79564bee4aa6d29ccb4d523.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JpLrti0J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2At8K0NcmFdWBkCTalH92aVw.png)
 
-[![](../Images/e19102ae8222b88b7392cd094feeee21.png)T2】](https://i.giphy.com/media/i8tV2kJB8Gig8/giphy.gif)
+[![](img/e19102ae8222b88b7392cd094feeee21.png)T2】](https://i.giphy.com/media/i8tV2kJB8Gig8/giphy.gif)
 
 img:开发人员对规范文件有着复杂的感觉。
 
@@ -59,9 +59,9 @@ img:开发人员对规范文件有着复杂的感觉。
 
 东西都准备好了，设计师们第一眼就看到了:
 
-[![](../Images/16fe03fae35527f9741cb2cea6d9ca2b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iWldHfSE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AOp-Fmt6HD_onew7zktxn9Q.png)
+[![](img/16fe03fae35527f9741cb2cea6d9ca2b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iWldHfSE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AOp-Fmt6HD_onew7zktxn9Q.png)
 
-[![](../Images/8f295846e796fd317ff90d196a98aeb5.png)](https://i.giphy.com/media/y1WDIwAZRSmru/giphy.gif) 
+[![](img/8f295846e796fd317ff90d196a98aeb5.png)](https://i.giphy.com/media/y1WDIwAZRSmru/giphy.gif) 
 img:设计师对最终的结果百感交集。
 
 ### 失意的设计师，失意的开发者。
@@ -119,13 +119,13 @@ img:设计师对最终的结果百感交集。
 
 让我们取一小部分布局，并尝试从头开始构建:
 
-[![](../Images/262e9786022ebcc4a9b8b13f7e0b5a52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6SgDfIG6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ACtk5K5_2twIWj8JBx2KrGw.png)
+[![](img/262e9786022ebcc4a9b8b13f7e0b5a52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6SgDfIG6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ACtk5K5_2twIWj8JBx2KrGw.png)
 
 ### 先结束结果
 
 下面的 CodeSandbox 是世界上唯一一个实现 **Larry:** 的应用
 
-[![Edit larry](../Images/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/github/albinotonnina/larry/tree/master/?module=%2Fsrc%2Fdesign-system%2Fconstants%2Findex.js)
+[![Edit larry](img/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/github/albinotonnina/larry/tree/master/?module=%2Fsrc%2Fdesign-system%2Fconstants%2Findex.js)
 
 你可以在 https://github.com/albinotonnina/larry 的**GitHub**:
 T5】上找到**拉里**
@@ -140,7 +140,7 @@ T5】上找到**拉里**
 
 让我们为我们的布局生成一个调色板。
 
-[![](../Images/cd78af5786ef46bb87bdd19f5c77beb2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Axz8XxaS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AKqcQkVqdJBKSuS7loVd7Yw.png)
+[![](img/cd78af5786ef46bb87bdd19f5c77beb2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Axz8XxaS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AKqcQkVqdJBKSuS7loVd7Yw.png)
 
 我建议从这些颜色中定义一系列语义名称，就像这样:
 
@@ -160,11 +160,11 @@ brilliant azure
 
 定义并同意间距系统，例如:
 
-[![](../Images/e9330e094ad362bc46760887e53027b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aoJANOx0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A8vWeubT5wjJs-cOQHf7cNQ.png)
+[![](img/e9330e094ad362bc46760887e53027b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aoJANOx0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A8vWeubT5wjJs-cOQHf7cNQ.png)
 
 **一个规格文件应该是这样的:**
 
-[![](../Images/68359c868854ecdd193814adaba813d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tUvkvgdI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AwopFDrMRdrdLlPv-XMO6Zw.png)
+[![](img/68359c868854ecdd193814adaba813d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tUvkvgdI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AwopFDrMRdrdLlPv-XMO6Zw.png)
 
 #### 排版
 
@@ -184,7 +184,7 @@ brilliant azure
 
 这里重要的不是技术或者文档中的哪种抽象。重要的是你们一起做这个**。**
 
- **[![](../Images/0ca9533041858a535ddeb216f9ee6c66.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZtycVXEv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AYYrdHo0lKQrNkVZQ9W7D_g.png) 
+ **[![](img/0ca9533041858a535ddeb216f9ee6c66.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZtycVXEv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AYYrdHo0lKQrNkVZQ9W7D_g.png) 
 更复杂 UI 组件的例子
 
 ### 你抓住要点了吗？
@@ -203,11 +203,11 @@ brilliant azure
 
 这是一个包含主题常量的对象，所以空间定义、颜色、字体、排版、断点等等。这是拉里的主题，这是它的一个样本版本:
 
-[![](../Images/daf574b1fdfafca4e7ac11022e7564ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Oa9Y3oCR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ActftgBakeNeruWAQdJArfw.png)
+[![](img/daf574b1fdfafca4e7ac11022e7564ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Oa9Y3oCR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ActftgBakeNeruWAQdJArfw.png)
 
 这里您可以实现的复杂性/完整性没有限制，毕竟这是一个生成 JavaScript 对象的问题，想象一下您可以做什么！
 
-[![](../Images/1a1481dd3687118eb1216b1379968ddc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o69uYdgL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ARjRcYjLRD5haC8DDgQYKrw.png)
+[![](img/1a1481dd3687118eb1216b1379968ddc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o69uYdgL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ARjRcYjLRD5haC8DDgQYKrw.png)
 
 这是一个核心文件。每个颜色、边距或填充、字体大小或字体粗细或断点都必须来自这里，并且只能来自这里。
 
@@ -219,28 +219,28 @@ CSS-in_JS 库是令人惊奇的工具， [styled-system](https://github.com/jxnb
 
 将这些常量提供给你的应用程序:应用程序中的每个组件都可以访问我们的主题常量。
 
-[![](../Images/9b504aff4745fd72556252f9185e0313.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QUG9E7AL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A6M6Q9zuKzNlcWPphfUI9ww.png)
+[![](img/9b504aff4745fd72556252f9185e0313.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QUG9E7AL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A6M6Q9zuKzNlcWPphfUI9ww.png)
 
 #### 创建基本 UI 组件
 
-[![](../Images/ca28d321202644faa97ab2baaa1c9424.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fSWWdGl0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A1eIZb7yNcdppncpoj5fCLw.png) 
+[![](img/ca28d321202644faa97ab2baaa1c9424.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fSWWdGl0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A1eIZb7yNcdppncpoj5fCLw.png) 
 一个图元框 UI 组件
 
 #### 更专业的 UI 组件
 
 这是一个 Flex 组件。
 
-[![](../Images/675847b67f91ea2ddb7a074f374ff346.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b-eUHsBZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Akd_s4cbWxxqcJTlC2N04fw.png)
+[![](img/675847b67f91ea2ddb7a074f374ff346.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b-eUHsBZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Akd_s4cbWxxqcJTlC2N04fw.png)
 
 #### 在你的特征文件中实现 UI 组件
 
-[![](../Images/8b4d07cc73f2813a2cdde1acead1db08.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---vwD6T4a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AqSxzGojmAS-vfB3LTkZctw.png)
+[![](img/8b4d07cc73f2813a2cdde1acead1db08.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---vwD6T4a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AqSxzGojmAS-vfB3LTkZctw.png)
 
 #### 渲染某物的时间
 
 这是实现 UI 组件和业务逻辑的地方。
 
-[![](../Images/495fe75919147974a141dc925e4ba7c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ar2azXSM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A5vObQKvSpUX9engeMaNX6A.png)
+[![](img/495fe75919147974a141dc925e4ba7c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ar2azXSM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A5vObQKvSpUX9engeMaNX6A.png)
 
 ### 文件结构
 
@@ -250,7 +250,7 @@ Larry 把所有东西都放到了一个“* * design-system”* *文件夹中，
 
 还要注意文档布局文件夹中的 UI 文件夹，这是我定义和导出特定于我们特性的 UI 组件的地方。
 
-[![](../Images/deed2a2b9087ba5518251deceeb063c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--At4H4xVV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AeN6vUZcqCJfmHMdVmKu5EQ.png)
+[![](img/deed2a2b9087ba5518251deceeb063c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--At4H4xVV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AeN6vUZcqCJfmHMdVmKu5EQ.png)
 
 ### 结论
 
@@ -258,7 +258,7 @@ Larry 把所有东西都放到了一个“* * design-system”* *文件夹中，
 
 设计师和开发人员可能对同一个问题有非常不同的方法，但这并不意味着他们不能有效地沟通。
 
-[![](../Images/6ce95d3452acb1016b83435f141642fe.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nati_4Yt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ALRjLAzWqaLiYl4N5DZH8Kg.gif)
+[![](img/6ce95d3452acb1016b83435f141642fe.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nati_4Yt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ALRjLAzWqaLiYl4N5DZH8Kg.gif)
 [https://dribbble.com/shots/2712522-Designer-vs-Developer](https://dribbble.com/shots/2712522-Designer-vs-Developer)
 
 ### 感谢阅读
@@ -267,7 +267,7 @@ Larry 把所有东西都放到了一个“* * design-system”* *文件夹中，
 
 你好，我叫阿尔比诺·汤妮娜，我是一名在伦敦工作的软件工程师，你可以在 [Twitter](https://twitter.com/albinotonnina) 或 [Github](https://github.com/albinotonnina) 或 [Instagram](https://www.instagram.com/albino_tonnina/) 或城市周围找到我。
 
-[![](../Images/093f8cf863d2d8c709628bc76eaaac49.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zaEYIvVl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Andz2zpAwq7qvQhhQI0ieLQ.png)
+[![](img/093f8cf863d2d8c709628bc76eaaac49.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zaEYIvVl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Andz2zpAwq7qvQhhQI0ieLQ.png)
 
 #### 我的最新文章
 

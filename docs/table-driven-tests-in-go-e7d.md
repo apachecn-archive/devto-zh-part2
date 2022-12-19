@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/plutov/table-driven-tests-in-go-e7d>
 
-[![Table driven tests in Go](../Images/ff7aff1f7dd7735ce9ae2a61d73e6b9f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wvUMOZQW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ez5kpn63di6xdcymvpn8.png)
+[![Table driven tests in Go](img/ff7aff1f7dd7735ce9ae2a61d73e6b9f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wvUMOZQW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ez5kpn63di6xdcymvpn8.png)
 
 在 [practice-go](https://github.com/plutov/practice-go) 中，我们经常使用表驱动测试来测试所有的功能场景。例如，`FindAnagrams()`函数返回给我们一个在字典中找到的给定输入的字谜列表。为了能够正确地测试这个函数，我们需要测试多种情况，比如空输入、有效输入、无效输入等等。我们可以修改不同的断言来实现它，但是使用表格测试要容易得多。
 

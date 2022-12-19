@@ -2,11 +2,11 @@
 
 > 原文：<https://dev.to/kritner/angular-and-typescript-basics--custom-pipes-573o>
 
-[![](../Images/e898c2ce71c509516433b1a64f5f48a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9HgXIHeR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/250/0%2AE_EsQcTWnrmuWHYO.png)
+[![](img/e898c2ce71c509516433b1a64f5f48a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9HgXIHeR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/250/0%2AE_EsQcTWnrmuWHYO.png)
 
 [上一篇文章](https://dev.to/kritner/angular-basics--pipes-180)，我们在我的【http://www.kritner.com/solar-projection】页面[添加了一些基本的管道信息。我注意到，由于我的数组的工作方式，从索引 0 开始，表中的数据将第一年显示为“第 0 年”。是的，我可以改变代码中的几个地方，从 index 1 开始，更新对复利的调用以使用 index-1，等等，但这看起来像是一个 PITA。当然，我们可以做一个自定义管道来应用于表中的 year 列，返回原来的数字+1，对吗？](http://www.kritner.com/solar-projection)
 
-[![](../Images/a49da1106b1426397c1a06be108b86c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7wE1Cemf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/490/0%2AUuxvlP3TAzbgR81T.jpg)
+[![](img/a49da1106b1426397c1a06be108b86c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7wE1Cemf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/490/0%2AUuxvlP3TAzbgR81T.jpg)
 
 所以自定义管道将允许我用 TypeScript 编写我的第一个函数，哇哦！我从来都不是 JavaScript 的粉丝，所以考虑到它(看起来)是 C#-ifies JavaScript，TypeScript 听起来相当不错。更多信息请访问 http://www.typescriptlang.org/。注意——我说我写的第一个函数，因为它确实是——在以前的帖子中显示的一点 typescript 只是接口声明和/或信息，是预构建的 dotnet net angular 模板的一部分。
 
@@ -90,7 +90,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 嘣！现在，当我们查看页面时，我们可以看到:
 
-[![](../Images/8d3c33cedb21be199af2d01ce6b61166.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HYi5fBw0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/430/1%2AWJqxJ9NmqFedsc--r354lw.png)
+[![](img/8d3c33cedb21be199af2d01ce6b61166.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HYi5fBw0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/430/1%2AWJqxJ9NmqFedsc--r354lw.png)
 
 万岁！年份从 1 开始，而不是从 0 开始！
 

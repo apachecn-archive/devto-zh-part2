@@ -4,7 +4,7 @@
 
 在最近几年中，便携式应用程序是新公司和用户在市场方法中占有一席之地的绝对必需品。记住这是最基本的，从应用程序到聊天机器人，观点发生了明显的变化。
 
-[![](../Images/561fa4342131434b5caa28bde32102d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JqWAznmj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/830/1%2Aa0U1y5OwP_bUkQgk3TDR3Q.jpeg)
+[![](img/561fa4342131434b5caa28bde32102d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JqWAznmj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/830/1%2Aa0U1y5OwP_bUkQgk3TDR3Q.jpeg)
 
 **到 2020 年:**
 
@@ -16,7 +16,7 @@
 
 围绕聊天机器人的大量讨论集中在这些机器人化的对话界面如何为品牌提升客户体验。他们可以保证 24x7 响应客户利益，了解客户问题，管理客户转型，提供项目，并根据特殊情况进行管理。
 
-[![](../Images/b446532da26f33e4ade4f4fa64eba291.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L2GIwDE8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1016/1%2ADEGQe5ApZsB1jFf2hlevhA.png)
+[![](img/b446532da26f33e4ade4f4fa64eba291.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L2GIwDE8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1016/1%2ADEGQe5ApZsB1jFf2hlevhA.png)
 
 ### 承接聊天机器人
 
@@ -30,7 +30,7 @@
 
 此外，专注能力不足，官员没有大量时间盯着他们的脸来控制报告仪表板，以获得他们需要的经验。他们在寻找特定询问的答案，并且需要持续的适当回应。
 
-[![](../Images/ff46d7e7be8e83098ca6f3e7675d8c3c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--66fHVQf3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/636/1%2AF0Sq41U8yqhOCwg96Ij-RA.png)
+[![](img/ff46d7e7be8e83098ca6f3e7675d8c3c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--66fHVQf3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/636/1%2AF0Sq41U8yqhOCwg96Ij-RA.png)
 
 使用机器人作为 BI 编程和合作伙伴之间的接口，可以重新安排对数据的访问。你可以问机器人“上个季度纽约的商业数据是多少？”，你就有答案了。没有更多的渠道申请，没有日期到达选择，没有登录到仪表板。这种对信息的访问对于忙碌的管理员来说非常重要，使他们能够专注于他们的中心工作。
 
@@ -64,7 +64,7 @@
 
 与入职培训一样，员工准备和熟练的培训课程也是聊天机器人的绝佳应用。机器人可以使过程更加直观，而不是安排枯燥的课程材料和录音。扩展这些机器人的多方面质量，加入人工智能，将使它们能够以有利于每个工人能力的速度运行小型化规模的学习课程。
 
-[![](../Images/29002bc02b9190050eac2db380bb2d76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kxawsJ4V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/643/1%2AI9HK0QW-fcDyrOdLwr3zEA.png)
+[![](img/29002bc02b9190050eac2db380bb2d76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kxawsJ4V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/643/1%2AI9HK0QW-fcDyrOdLwr3zEA.png)
 
 #### 工人数据采集
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/agisilaosts/changing-up-the-terminal-1f10>
 
-[![Cover of the Image](../Images/6cfcaf4618d4477be1b2338b16b9e306.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YosJtFYQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3mtnq2d1yd4uvsy1njc3.png)
+[![Cover of the Image](img/6cfcaf4618d4477be1b2338b16b9e306.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YosJtFYQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3mtnq2d1yd4uvsy1njc3.png)
 
 作为 iOS 开发者，我们很少使用终端，所以当我们使用它时，我们不会对经典终端(terminal.app)有太多期望
 
@@ -25,7 +25,7 @@
 
 试试看！
 
-[![keys](../Images/fe104b724fa45a64ebcddb56fe2f2c8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bD8sURz---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/697rpwhm9t9ra655z20o.png)
+[![keys](img/fe104b724fa45a64ebcddb56fe2f2c8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bD8sURz---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/697rpwhm9t9ra655z20o.png)
 
 ## 鱼
 
@@ -41,23 +41,23 @@
 
 Fish 有一个“哦，我的”版本，可以很容易地进行主题化。首先，我按照马克西姆的设置，选择了不可知论者主题。因为它帮助我更好地阅读台词，我对定制印象深刻。
 
-[![agnoster](../Images/1dda50cf7a19b5fc30aed4f8ec4b3855.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DvPjegYc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u3v62cp5n7vw0in7q6no.png)
+[![agnoster](img/1dda50cf7a19b5fc30aed4f8ec4b3855.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DvPjegYc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u3v62cp5n7vw0in7q6no.png)
 
 你可以做的另一件事是从[这里](https://github.com/oh-my-fish/oh-my-fish/blob/master/docs/Themes.md#agnoster)下载 iTerm2 概要文件和主题。我决定选择 n0tch2k，因为我喜欢它明亮的柔和色彩。
 
-[![themes](../Images/48cce0202d87458ff6e44c987712c754.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wzgFTVJT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/adqd3heo9gqcp3cshbnp.png)
+[![themes](img/48cce0202d87458ff6e44c987712c754.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wzgFTVJT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/adqd3heo9gqcp3cshbnp.png)
 
 在使用 n0tch2k 主题几个月后，我决定将 Cat Noone 制作的[牙膏](toothpaste%20theme%20sublime)主题提供给 iTerm2。我已经在 Xcode 上使用过了，印象非常深刻。
 
-[![toothpaste](../Images/5f3fb0df86cbae88446a4940004eb5c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iUuT0ll4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/juqwy2myn38ipburfvjw.png)
+[![toothpaste](img/5f3fb0df86cbae88446a4940004eb5c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iUuT0ll4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/juqwy2myn38ipburfvjw.png)
 
 ## Fonts
 
-[![toothpaste-fonts](../Images/5ec3b347b6f3a5730d41ad37cfaad7e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s9tHaXco--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w8sx0qn00e09ft436oau.png)
+[![toothpaste-fonts](img/5ec3b347b6f3a5730d41ad37cfaad7e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s9tHaXco--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w8sx0qn00e09ft436oau.png)
 
 现在你已经完成了终端的主题化，是时候选择一个你喜欢的“电力线”字体了。我听从了马克西姆的建议，选择了黑客字体。你可以从[这里](https://github.com/powerline/fonts)找到并下载所有字体
 
-[![fonts](../Images/2f94ec1249b3e644e9e3425aec5a0360.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nKKoz2OC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pwk0wpnju3qmn5mvlq9f.png)
+[![fonts](img/2f94ec1249b3e644e9e3425aec5a0360.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nKKoz2OC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pwk0wpnju3qmn5mvlq9f.png)
 
 ## 结论
 

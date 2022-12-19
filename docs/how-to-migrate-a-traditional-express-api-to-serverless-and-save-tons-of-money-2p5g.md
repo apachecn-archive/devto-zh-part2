@@ -6,7 +6,7 @@
 
 你可以把无服务器想象成这个水龙头...
 
-[![water faucet](../Images/2220f17a580e465004c0ff5b1572b470.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JRcn0ze5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4e8st62t68ibvwjozv5s.png)
+[![water faucet](img/2220f17a580e465004c0ff5b1572b470.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JRcn0ze5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4e8st62t68ibvwjozv5s.png)
 
 你家里有这样的水龙头。让水龙头工作的一个方法是让水一直流出来。它总是开着的，无论何时你需要喝点什么，你只要走过去把你的杯子倒满就行了。但是我们不这样做。为什么？因为太浪费了。相反，我们在需要的时候打开水，在不需要的时候关闭水。我们只为我们使用的水付费。
 

@@ -11,7 +11,7 @@ pygame 前端。这是除了一个贫瘠的终端之外，SBTCVM 拥有的最古
 随着 SBTCVM 最新版本的许多变化，出现了彩色文本功能。虽然这个特性本身是新的，但它在某种程度上使用了一些在 SBTCVM 之前就已经开始的研究。
 
 **彩色文本**演示。显示 27 色前景色和背景色。
-T3![Screenshot showing colored text.](../Images/447b263095729c6c8a313f4a2b5d4d1f.png)T5】
+T3![Screenshot showing colored text.](img/447b263095729c6c8a313f4a2b5d4d1f.png)T5】
 
 几年前，在 SBTCVM 出现之前，我正在处理平衡的三色调色板，以及可能的图形分辨率等等。即:
 
@@ -27,7 +27,7 @@ T3![Screenshot showing colored text.](../Images/447b263095729c6c8a313f4a2b5d4d1f
 虽然这些绘图仪在 SBTCVM Gen 2-9 中已不复存在，但新的 243x243，19683 色(9-trit RGB)矢量绘图仪以 SBTGA mode 30 的形式出现。
 
 **colorpack** 演示。展示了一个 3-trit RGB 颜色块编码方案。
-T3![screenshot showing 27-color packed art encoding](../Images/1a6ce612bd4f8e59662700d7ccfab1d7.png)T5】
+T3![screenshot showing 27-color packed art encoding](img/1a6ce612bd4f8e59662700d7ccfab1d7.png)T5】
 
 新的 pygame 前端的 TTY 具有 3 色索引和 27 色 RGB 色块编码方案。(主要是为了节省内存，方便编码。)
 

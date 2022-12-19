@@ -4,7 +4,7 @@
 
 > 这篇文章是一个循序渐进的教程，使用 reactjs-popup 为你的网站创建一个简单的汉堡菜单
 
-[![](../Images/82a9c88a5ecbb391fbb5bde4ae64c3b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N2TrZy6C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AttcLA5BrtUAXSBo6YfoQoA.gif)
+[![](img/82a9c88a5ecbb391fbb5bde4ae64c3b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N2TrZy6C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AttcLA5BrtUAXSBo6YfoQoA.gif)
 
 Reactjs-popup 是一个新的简单的 react 弹出组件，使用 react 片段构建，这是 react 16 的新特性之一。它可以处理多种用例。通过使用这个小小的反应弹出组件，你可以创建工具提示，模态和菜单。
 
@@ -31,7 +31,7 @@ export default ({ open, ...props }) => (
 Enter fullscreen mode Exit fullscreen mode
 
 正如你所看到的，我们将“打开”属性传递给组件，这样我们就可以替换图标类名，预览示例解释了
-[![](../Images/71ecc513960de821d7366507fb83b905.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xp07XFKk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e6vzbxy5coywxkukd4y0.png) 
+[![](img/71ecc513960de821d7366507fb83b905.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xp07XFKk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e6vzbxy5coywxkukd4y0.png) 
 
 ```
 .burger-menu,
@@ -139,7 +139,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 添加一些自定义的 css，这是最终的结果。
 
-[![](../Images/82a9c88a5ecbb391fbb5bde4ae64c3b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N2TrZy6C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AttcLA5BrtUAXSBo6YfoQoA.gif)
+[![](img/82a9c88a5ecbb391fbb5bde4ae64c3b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N2TrZy6C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AttcLA5BrtUAXSBo6YfoQoA.gif)
 
 如果你在你的智能手机上阅读这篇文章，你可以在 reactjs-popup 主页上看到启动菜单的汉堡按钮。
 

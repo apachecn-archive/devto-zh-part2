@@ -72,7 +72,7 @@
 
 如果这篇文章有帮助，❤️ it 和[在 Twitter 上关注我](https://twitter.com/intent/follow?screen_name=theoutlander)。
 
-[![theoutlander](../Images/fa3a5404d413070afd491a6351af2493.png)](/theoutlander) [## 如何改善你的开发体验
+[![theoutlander](img/fa3a5404d413070afd491a6351af2493.png)](/theoutlander) [## 如何改善你的开发体验
 
 ### 尼克·卡尔尼克 9 月 22 日 185 分钟阅读
 

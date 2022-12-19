@@ -14,7 +14,7 @@ Sanjin ari
 
 最终，您在本文中构建的部署系统将如下所示:
 
-[![Sample deployment](../Images/2e5df154e9dec2fb2f7b2c45a0e2563e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--61agT5EC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://assets.digitalocean.com/articles/react_deploy_webhooks/react-deploy.gif)
+[![Sample deployment](img/2e5df154e9dec2fb2f7b2c45a0e2563e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--61agT5EC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://assets.digitalocean.com/articles/react_deploy_webhooks/react-deploy.gif)
 
 这个短视频展示了一个对 GitHub 存储库的空提交和推送，它触发了 Slack 中的应用程序构建和通知。
 
@@ -871,5 +871,5 @@ Enter fullscreen mode Exit fullscreen mode
 
 在 DigitalOcean 上构建、测试和部署一些新的东西——一体化云平台开发人员及其团队的最爱。为新用户提供 100 美元的免费帐户信用:[do.co/devto](http://do.co/devto)T3】
 
-[![Creative Commons License](../Images/4662fd03838b335557c183fd57c6b02c.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/) 
+[![Creative Commons License](img/4662fd03838b335557c183fd57c6b02c.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/) 
 本作品受[知识共享署名-非商业性使用-类似共享 4.0 国际许可](http://creativecommons.org/licenses/by-nc-sa/4.0/)的许可。

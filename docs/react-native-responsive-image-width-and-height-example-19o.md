@@ -8,6 +8,6 @@
 
 [React Native Responsive 图像宽度和高度示例](https://www.skptricks.com/2018/09/react-native-responsive-image-example.html)
 
-[![](../Images/9a2db748c3f7c46fa86703052986fce1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mmCtAJ8U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-mYbCtX_N_G8/W7BYoAmeXrI/AAAAAAAAB9M/ywpZQVDLCBk1XRgX77eDPahWf5yLQ24ggCLcBGAs/s640/res.png)
+[![](img/9a2db748c3f7c46fa86703052986fce1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mmCtAJ8U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-mYbCtX_N_G8/W7BYoAmeXrI/AAAAAAAAB9M/ywpZQVDLCBk1XRgX77eDPahWf5yLQ24ggCLcBGAs/s640/res.png)
 
 [阅读更多...](https://www.skptricks.com/2018/09/react-native-responsive-image-example.html)

@@ -214,7 +214,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 此时我们有以下结果:
 
-[![stimulus-flatpickr demo](../Images/b16fcdab74350f9dd37a0f9edf2e0262.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mCFSMUQY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x73wolvxxqxovspv2cdu.gif)
+[![stimulus-flatpickr demo](img/b16fcdab74350f9dd37a0f9edf2e0262.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mCFSMUQY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x73wolvxxqxovspv2cdu.gif)
 
 我们开始有一些互动....酷的是默认安装的 Turbolinks 会自动启动并`Ajaxify`所有链接。所有的刺激控制器都是与 Turbolinks 一起设计的。**所以这里不用做别的，就是管用！**。没有自定义 Ajax 调用或 SRJ 来获得这个 SPA 的外观和感觉。💪 🚀 ❤️
 
@@ -297,7 +297,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 那都是乡亲们！
 
-[![stimulus-flatpickr demo](../Images/bd4d77c7299767ce1d56117e15deb87a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EkAlC1qA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i0xi1gv0keumrynau78r.gif)
+[![stimulus-flatpickr demo](img/bd4d77c7299767ce1d56117e15deb87a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EkAlC1qA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i0xi1gv0keumrynau78r.gif)
 
 你可以在这里找到整个演示项目👉[https://github.com/adrienpoly/rails_stimulus_flatpickr](https://github.com/adrienpoly/rails_stimulus_flatpickr)
 

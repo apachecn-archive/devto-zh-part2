@@ -18,7 +18,7 @@
 
 美国专利商标局发布的一项专利在美国以外几乎不提供保护。普通的软件开发者应该考虑到软件源代码应该受到保护的所有不同的权限。当涉及到地理位置时，您可以根据具体情况进行处理。仔细研究所有当地的版权立法和实践。
 
-[![software patents](../Images/1a58fadc87eea6550dba6775aea33baf.png)T2】](https://apiumhub.com/wp-content/uploads/2018/05/Picture1.png)
+[![software patents](img/1a58fadc87eea6550dba6775aea33baf.png)T2】](https://apiumhub.com/wp-content/uploads/2018/05/Picture1.png)
 
 来源: [Statista](https://www.statista.com/chart/3699/the-companies-sued-the-most-over-patents-in-2015/)
 

@@ -8,7 +8,7 @@
 
 我们共享 web 应用程序的模板，以便在服务器上预先呈现第一个页面加载。这种做法让 Web 应用程序启动更快，对网络故障更有弹性。
 
-[![ES Modules can be shared with your Server code and the code run in the Web Browser.](../Images/3a805038039c6bc73e165030d6b4c9ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Tf3o15wp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A9utC7ugklGeMjQoU_MluQQ.png)
+[![ES Modules can be shared with your Server code and the code run in the Web Browser.](img/3a805038039c6bc73e165030d6b4c9ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Tf3o15wp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A9utC7ugklGeMjQoU_MluQQ.png)
 
 在实时编码会话中，我们使用新的 EcmaScript (ES)模块，因为它允许我们直接共享代码，而无需使用变通办法，例如使用 WebPack 或 Browserify 制作包。
 

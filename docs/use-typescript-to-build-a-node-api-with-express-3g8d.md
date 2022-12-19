@@ -30,7 +30,7 @@ TypeScript 不是一种不同的语言。它是 JavaScript 的一个灵活的超
 
 在本教程中，您将创建一个新的 Node.js 应用程序来跟踪吉他库存。简而言之，本教程使用 [Node.js](https://nodejs.org) 与 [Express](https://expressjs.com/) 、 [EJS](https://github.com/mde/ejs) 和 [PostgreSQL](https://www.postgresql.org/) ，前端使用 [Vue](https://vuejs.org/) 、 [Materialize](https://materializecss.com/) 和 [Axios](https://github.com/axios/axios) ，使用 [Okta](https://developer.okta.com/signup/) 进行帐户注册和授权，使用 [TypeScript](https://www.typescriptlang.org/) 来管理 JavaScripts！
 
-[![Guitar Inventory Demo](../Images/2f88f0bd116af9051af6cfac0d53a171.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lue4O80g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://developer.okta.com/assets-jekyll/blog/node-express-typescript/guitar-inventory-demo-fbf182ae3ad39145b176782b884665be632f944e8715d81c10213fbf5a21f504.gif)
+[![Guitar Inventory Demo](img/2f88f0bd116af9051af6cfac0d53a171.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lue4O80g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://developer.okta.com/assets-jekyll/blog/node-express-typescript/guitar-inventory-demo-fbf182ae3ad39145b176782b884665be632f944e8715d81c10213fbf5a21f504.gif)
 
 ## 创建你的 Node.js 项目
 
@@ -105,7 +105,7 @@ server started at http://localhost:8080
 
 启动浏览器并导航至`http://localhost:8080`。您应该会看到文本“Hello world！”
 
-[![Hello World](../Images/03599263f61b7e9edca808f95680b112.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--waSOVMII--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/node-express-typescript/hello-world-8ce4cc2733dea3c91e80a673ddd971c6fa0364bc42305096f4c5aa5a4b837704.jpg)
+[![Hello World](img/03599263f61b7e9edca808f95680b112.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--waSOVMII--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/node-express-typescript/hello-world-8ce4cc2733dea3c91e80a673ddd971c6fa0364bc42305096f4c5aa5a4b837704.jpg)
 
 > 注意:要停止 web 应用程序，您可以返回到终端或命令提示符并按下`CTRL+C`。
 
@@ -362,7 +362,7 @@ shell.cp( "-R", "src/views", "dist/" );
 npm run dev 
 ```
 
-[![Guitar Inventory home page](../Images/75a4dbead6e26d3eea94c8ddc3dee171.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C297R6Fx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/node-express-typescript/guitar-inventory-home-v2-c1e34ab6f6de0f6a792cbf234675d3d80e14780598cc61b87c9e81b2fecad7a5.jpg)
+[![Guitar Inventory home page](img/75a4dbead6e26d3eea94c8ddc3dee171.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C297R6Fx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/node-express-typescript/guitar-inventory-home-v2-c1e34ab6f6de0f6a792cbf234675d3d80e14780598cc61b87c9e81b2fecad7a5.jpg)
 
 主页开始好看了！当然，**Get start**按钮会导致一个令人失望的错误消息。别担心！这一问题的解决方案即将推出！
 
@@ -428,19 +428,19 @@ app.listen( port, () => {
 
 向任何应用程序添加用户注册和登录(身份验证)都不是一项简单的任务。好消息是 Okta 让这一步变得非常容易。首先，创建一个免费的 Okta 开发者账户。首先，导航到[developer.okta.com](https://developer.okta.com/)并点击**创建免费账户**按钮，或者点击[注册](https://developer.okta.com/signup/)按钮。
 
-[![Sign up for free account](../Images/09a856f8f87138a9db8ac348a82f71b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cHhEseJY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/node-express-typescript/add-application-00-cf26225b56ac2e47fdd0a15a4162ce6e830832f0de4ca64248e1f8d14f00bf6d.jpg)
+[![Sign up for free account](img/09a856f8f87138a9db8ac348a82f71b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cHhEseJY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/node-express-typescript/add-application-00-cf26225b56ac2e47fdd0a15a4162ce6e830832f0de4ca64248e1f8d14f00bf6d.jpg)
 
 创建您的帐户后，点击顶部的**应用**链接，然后点击**添加应用**。
 
-[![Create application](../Images/6350438e5b920e14b1a8c7cb74d5e824.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--14O3CzBK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/node-express-typescript/add-application-01-d86e65de962e300f4388ea334bee1e276bf31716148e4037ca312463adeac85e.jpg)
+[![Create application](img/6350438e5b920e14b1a8c7cb74d5e824.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--14O3CzBK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/node-express-typescript/add-application-01-d86e65de962e300f4388ea334bee1e276bf31716148e4037ca312463adeac85e.jpg)
 
 接下来，选择一个**网络应用**，点击**下一步**。
 
-[![Create a web application](../Images/427fed8fb9216c4f432fcdf898a1851a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4OT17bL4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/node-express-typescript/add-application-02-f33bc1ae0379a216ce1e67e2e8a4b892eac8a8c75bdd6f03ff8e7d7818c8d6e2.jpg)
+[![Create a web application](img/427fed8fb9216c4f432fcdf898a1851a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4OT17bL4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/node-express-typescript/add-application-02-f33bc1ae0379a216ce1e67e2e8a4b892eac8a8c75bdd6f03ff8e7d7818c8d6e2.jpg)
 
 输入应用程序的名称，例如*吉他库存*。验证端口号是否与为本地 web 应用程序配置的端口号相同。然后，点击 **Done** 完成应用程序的创建。
 
-[![Application settings](../Images/41a4c21c2fcb56cc0a826299efab1a87.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c_33Nhxc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/node-express-typescript/add-application-03-0cd2f1f09dbeee868c5b696519837b039287d4cbcfb1d0d0acc29c935fb2499a.jpg)
+[![Application settings](img/41a4c21c2fcb56cc0a826299efab1a87.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c_33Nhxc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/node-express-typescript/add-application-03-0cd2f1f09dbeee868c5b696519837b039287d4cbcfb1d0d0acc29c935fb2499a.jpg)
 
 将以下代码复制并粘贴到您的`.env`文件中。
 
@@ -453,19 +453,19 @@ OKTA_CLIENT_SECRET={yourClientSecret}
 
 在 Okta 应用程序控制台中，点击新应用程序的 **General** 选项卡，在页面底部找到一个标题为“客户端凭证”的部分复制**客户端 ID** 和**客户端秘密**值，并将其粘贴到您的`.env`文件中，以分别替换`{yourClientId}`和`{yourClientSecret}`。
 
-[![Client credentials](../Images/2d964de66aaa58fd1a38efafd6db9afd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tXPOgFH1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/node-express-typescript/add-application-04-6cc2fd7e74940d82189de120cfa19db17b78c1183d242379c05ae8b4e669a154.jpg)
+[![Client credentials](img/2d964de66aaa58fd1a38efafd6db9afd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tXPOgFH1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/node-express-typescript/add-application-04-6cc2fd7e74940d82189de120cfa19db17b78c1183d242379c05ae8b4e669a154.jpg)
 
 ### 启用自助注册
 
 Okta 的一个很棒的特性是允许应用程序的用户注册一个帐户。默认情况下，此功能是禁用的，但您可以轻松地启用它。首先，点击**用户**菜单，选择**注册**。
 
-[![User registration](../Images/a8f48c1720912f1d92b5d8c16962d4e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jVxzMO88--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/node-express-typescript/self-service-registration-01-1bfcea8c56976f4c41a28b2ad410e04194db6104ea408ce111c0ffc4f16946c2.jpg)
+[![User registration](img/a8f48c1720912f1d92b5d8c16962d4e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jVxzMO88--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/node-express-typescript/self-service-registration-01-1bfcea8c56976f4c41a28b2ad410e04194db6104ea408ce111c0ffc4f16946c2.jpg)
 
 1.  点击**编辑**按钮。
 2.  将**自助登记**改为*启用*。
 3.  点击表格底部的**保存**按钮。
 
-[![Enable self-registration](../Images/0d5a8de6bd7604b7fd09c6444283ab3f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xKeLwMAd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/node-express-typescript/self-service-registration-02-1bd0c39bb4fceca5f3148bacea52db99aad24503274fc8f2503efa8ea449b2d8.jpg)
+[![Enable self-registration](img/0d5a8de6bd7604b7fd09c6444283ab3f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xKeLwMAd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/node-express-typescript/self-service-registration-02-1bd0c39bb4fceca5f3148bacea52db99aad24503274fc8f2503efa8ea449b2d8.jpg)
 
 ### 保护您的 Node.js 应用程序
 
@@ -622,7 +622,7 @@ npm run dev
 
 点击**开始**按钮。如果一切顺利，用你的 Okta 账号登录，Okta 应该会自动把你重定向回“吉他列表”页面！
 
-[![Okta login](../Images/e73e0f0f94e960c257e69456519bd37f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9ERq1s7X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/node-express-typescript/okta-login-583aabef4fceba1bcc16fe458adf096e631fbb30ff20810b2a458f66a7abdbe3.jpg)
+[![Okta login](img/e73e0f0f94e960c257e69456519bd37f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9ERq1s7X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/node-express-typescript/okta-login-583aabef4fceba1bcc16fe458adf096e631fbb30ff20810b2a458f66a7abdbe3.jpg)
 
 ## 给你的 Node + Typescript App 添加导航菜单
 
@@ -702,7 +702,7 @@ export const register = ( app: express.Application ) => {
 
 有了这些更改，您的应用程序现在在顶部有了一个导航菜单，它会根据用户的登录状态而变化。
 
-[![Navigation](../Images/97920af59688c187cee9882eb42a3ac8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wo5KRCZ4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/node-express-typescript/navigation-42e6b6e3425a089c4f6d504d85e1c8e17a2ff43e0f6b4a6c00b6a0adcf39b49a.jpg)
+[![Navigation](img/97920af59688c187cee9882eb42a3ac8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wo5KRCZ4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/node-express-typescript/navigation-42e6b6e3425a089c4f6d504d85e1c8e17a2ff43e0f6b4a6c00b6a0adcf39b49a.jpg)
 
 ## 用 Node 和 PostgreSQL 创建 API
 
@@ -1297,7 +1297,7 @@ app.use( express.static( path.join( __dirname, "public" ) ) );
 npm run dev 
 ```
 
-[![Guitar Inventory](../Images/715d96e588acb10ea6ab61e553fc47c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3s6nd99a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/node-express-typescript/guitar-inventory-empty-01f81fa76b17323e5e8cce52bf85cac0fc66a11686d2c13e893e5a22867ea8c0.jpg)
+[![Guitar Inventory](img/715d96e588acb10ea6ab61e553fc47c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3s6nd99a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/node-express-typescript/guitar-inventory-empty-01f81fa76b17323e5e8cce52bf85cac0fc66a11686d2c13e893e5a22867ea8c0.jpg)
 
 ## 了解更多关于节点和类型脚本的信息
 

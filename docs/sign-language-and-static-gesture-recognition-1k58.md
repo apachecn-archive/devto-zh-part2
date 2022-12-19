@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/blackbird/sign-language-and-static-gesture-recognition-1k58>
 
-[![](../Images/7939e5abb59af84312b103f78de711c3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--H7kgNN02--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/876/1%2A0xLa5BD6LJfMnGoXJb7wiQ.png) 
+[![](img/7939e5abb59af84312b103f78de711c3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--H7kgNN02--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/876/1%2A0xLa5BD6LJfMnGoXJb7wiQ.png) 
 
 <figcaption>手语</figcaption>
 
@@ -95,7 +95,7 @@ y_pred = classifier.predict(X_test)
 
 ### 用数据集完成代码
 
-## ![GitHub logo](../Images/375dfcc32199b4dedf2b526645c27ff7.png) [ blackbird71SR ](https://github.com/blackbird71SR) / [神经网络项目](https://github.com/blackbird71SR/Neural-Network-Projects)
+## ![GitHub logo](img/375dfcc32199b4dedf2b526645c27ff7.png) [ blackbird71SR ](https://github.com/blackbird71SR) / [神经网络项目](https://github.com/blackbird71SR/Neural-Network-Projects)
 
 ### 神经网络项目
 

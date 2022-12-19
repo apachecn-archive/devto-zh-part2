@@ -4,7 +4,7 @@
 
 这篇帖子的内容灵感来自于 [Vaidehi Joshi](https://dev.to/vaidehijoshi) 的帖子《排队还是不排队》以及来自于基础 CS 系列视频[堆栈和队列](https://dev.to/vaidehijoshi/stacks-and-queues--basecs-video-series--20oj)
 
-[![vaidehijoshi image](../Images/c1af460640a8ad9ea29e58d942edc772.png)](/vaidehijoshi) [## 排队还是不排队
+[![vaidehijoshi image](img/c1af460640a8ad9ea29e58d942edc772.png)](/vaidehijoshi) [## 排队还是不排队
 
 ### vaide hi Joshi Feb 14 ' 179 分钟阅读
 

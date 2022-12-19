@@ -6,7 +6,7 @@
 
 最终结果:[网站](https://daniel40392.github.io/react-portfolio/) & [代码库](https://github.com/daniel40392/react-portfolio)
 
-[![](../Images/1693bae0dfd45417942abfbb4b0c88b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ofBVFpmh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AOF0xEMkWBv-69zvmNs6RDQ.gif)
+[![](img/1693bae0dfd45417942abfbb4b0c88b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ofBVFpmh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AOF0xEMkWBv-69zvmNs6RDQ.gif)
 
 ## JavaScript 比较复杂...*八九不离十*
 
@@ -44,21 +44,21 @@
 
 我决定在去年遇到的设计库中加入一个致敬，包括 [Ant Design](https://ant.design/) Carousel。我想在不久的将来建立自己的旋转木马，但现在这感觉像一个很好的占位符，最终结果是非常令人满意的。
 
-[![](../Images/319cd1d06f7489cb902d6d50ee8c4a5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5TBl7c59--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uag9rz15rn6064tda001.png)
+[![](img/319cd1d06f7489cb902d6d50ee8c4a5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5TBl7c59--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uag9rz15rn6064tda001.png)
 
 我添加了一个甜甜圈图来表示我对我的顶级技能的信心水平，这样网站的登录页面就会给任何对我的技能集感兴趣的人一个我的优势和劣势的快照。
 
-[![](../Images/c58e4cbd32c67da265d3a8c90fc66821.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3JGVUTkL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1s8wn365qguaoaga3pfk.png)
+[![](img/c58e4cbd32c67da265d3a8c90fc66821.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3JGVUTkL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1s8wn365qguaoaga3pfk.png)
 
 ## 冒险进入未知领域...css 媒体
 
 我没有接触过使用 css 的动画或过渡，想尝试一些新的东西，所以我浏览了一些其他的 dev.to developers portfolio 站点来寻找灵感。特别是阿里·斯皮特尔的网站让我印象深刻。我喜欢她用卡片展示她所做的一些作品样本。我一直很喜欢她页面上带有旋转图像的“关于”部分的有趣性质，并决定在我自己的项目页面上添加旋转技能图标。
 
-[![](../Images/bc05c76013d7ba598a95e22766cf9c71.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ozwYZoej--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m7l2f7nefq78mau9gzrm.png)
+[![](img/bc05c76013d7ba598a95e22766cf9c71.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ozwYZoej--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m7l2f7nefq78mau9gzrm.png)
 
 我决定将这种媒体探索更进一步，最终在我的主页上包括旋转卡片，以显示每个概述技能的翻转，以包含一些占位符文本。这适用于在浏览器中悬停和在移动设备上点击。我最初是在一个演示牌面朝下的扑克牌的教程中看到这种技术的，这些扑克牌会在鼠标悬停时显示出来。这个想法引起了我的兴趣，所以我忍不住添加它！
 
-[![](../Images/a32eae265351bf12f3674b92d56b2701.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RtaZrs6a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8g9cfgcp68cvtk2kuxfo.png)
+[![](img/a32eae265351bf12f3674b92d56b2701.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RtaZrs6a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8g9cfgcp68cvtk2kuxfo.png)
 
 ## 【awwwww yes】功能
 

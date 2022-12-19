@@ -12,7 +12,7 @@ Benhartouz 目前正在使用 JavaScript 教人们如何建立一个搜索工作
 
 下表总结了研究结果:
 
-[![javascript bug study results](../Images/f267f67eb755291183eeed3d19d86dbf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k-etZwfX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/umlwyav1c7960l0dpq48.png)
+[![javascript bug study results](img/f267f67eb755291183eeed3d19d86dbf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k-etZwfX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/umlwyav1c7960l0dpq48.png)
 
 在本文中，我将阐述这项研究的主要发现，以及如何使您的 JavaScript 程序不容易出错和出现性能故障。
 

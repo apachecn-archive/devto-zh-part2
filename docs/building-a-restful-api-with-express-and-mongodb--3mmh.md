@@ -115,7 +115,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果您以前从未使用过 mongoDB，那么很可能您的计算机中没有安装它。我强烈建议您这样做，但这超出了本教程的范围。因此，我们将选择另一家供应商:[mlab.com](https://mlab.com/)。当我们向 mlab 注册时，我们得到了一个免费的 mongo 数据库，有足够的空间来存放我们需要的东西。
 
-[![](../Images/50c8492ce75a6b9e96c38537db274fff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Tm1JPyFY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t6u0mnvoh1x2pkfxmzzc.png)
+[![](img/50c8492ce75a6b9e96c38537db274fff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Tm1JPyFY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t6u0mnvoh1x2pkfxmzzc.png)
 
 它会要求你选择一个提供商(选择三个中的任何一个)，然后选择“沙盒”计划(这是免费的)，然后点击继续。然后要求您选择一个区域。我了解到在一些地区，免费计划并不存在！所以只保留预选区域。
 
@@ -123,7 +123,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 单击数据库名称，然后选择“用户”。这里需要添加一个用户。该用户将有权访问数据库。
 
-[![](../Images/704d50bca70b08fe5b9fc0125b272071.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OcGsqcJI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rw34rjc6c6urbg6av6ea.png)
+[![](img/704d50bca70b08fe5b9fc0125b272071.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OcGsqcJI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rw34rjc6c6urbg6av6ea.png)
 
 ### 连接数据库
 
@@ -424,7 +424,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 以下是发布请求的方式
 
-[![](../Images/9e12768843f5b019b908c53cdc3909d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mtRFyauN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/my0t5vq3jguo0suxofq7.png)
+[![](img/9e12768843f5b019b908c53cdc3909d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mtRFyauN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/my0t5vq3jguo0suxofq7.png)
 
 在顶部，我们选择方法/动词——上面我们选择 POST。然后输入 API 端点。然后简单地选择`Headers`并添加`application/json`作为`Content-Type`，在主体中(选择`raw`选项)，您可以将您想要传递的 JSON 内容传递给 API。在上面的截图中，我们正在传递所需的`title`和`author`。
 

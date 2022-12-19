@@ -4,7 +4,7 @@
 
 “对于我们在做之前必须学习的东西，我们通过做来学习。”――亚里士多德，《尼各马科伦理学》。想象你已经读了 3 本关于骑自行车的书。然后有人给你一个周期，要求骑，你会骑吗？简单的回答是“没有”。这不是关于你读了多少关于骑自行车的书或者看了多少关于骑自行车的视频。这是关于骑自行车，保持平衡，学习脚，手和眼睛的协调。学习一项新的技术技能、一门新的语言或框架也是如此。
 
-[![Cycle by doing not reading](../Images/fe50a55db8045995380742fc785e8bb0.png "Cycle by doing not reading")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--esGNEy4g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://geshan.com.np/images/language-framework-learn/cycle.jpg)
+[![Cycle by doing not reading](img/fe50a55db8045995380742fc785e8bb0.png "Cycle by doing not reading")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--esGNEy4g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://geshan.com.img/language-framework-learn/cycle.jpg)
 
 现在，如果你认为我将如何做这个新项目，我甚至不知道语言“X”或框架“Y”停止抱怨。也许你是科技或编码领域的新手，但你需要知道如何学习新事物。学习新事物的最好方法就是去做。这篇文章将集中讨论一些常见的事情。它将帮助你从“我想学 X”到“我有一个项目在 X 上运行”,所以继续下去。如果你确信做一个项目是为了学习新的东西，那么就开源它。Github 是托管您的开源项目的事实上的服务。然后你可以免费使用很多服务。这篇文章对编码新手和有经验的软件工程师同样有用。
 
@@ -12,7 +12,7 @@
 
 > 写一个项目来学习语言/框架，开源它，然后免费利用服务。不要只是看课程，读文件，然后找到解决方案。边做边学。使用 git 并在项目中实现 docker。代码正确添加代码质量检查服务要了解最佳实践，请部署您的项目以获得它的工作 URL。
 
-[![Learn a new thing by doing not reading](../Images/fe52188828aca74bdff811878938e50f.png "Learn by doing")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y3AQjYUn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://geshan.com.np/images/language-framework-learn/lang-framework-learn.jpg)
+[![Learn a new thing by doing not reading](img/fe52188828aca74bdff811878938e50f.png "Learn by doing")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y3AQjYUn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://geshan.com.img/language-framework-learn/lang-framework-learn.jpg)
 
 ## 不要只是看课程，阅读文档，寻找解决方案
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/how-to-build-a-server-rendered-react-app-with-next--express-fcl>
 
-[![](../Images/218ddfc3e274f4175c0c1affe43f7a83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2CpEoEMF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AiPaRQckAecqGEZA04z7k5A.png)
+[![](img/218ddfc3e274f4175c0c1affe43f7a83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2CpEoEMF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AiPaRQckAecqGEZA04z7k5A.png)
 
 不言而喻，React 是构建高质量 web 应用程序的绝佳选择。然而，随着事情变得越来越复杂，您需要了解客户端路由、页面布局等等。在某些时候，你会希望你的网页加载速度更快。很多时候，这是事情变得困难的地方。
 
@@ -93,7 +93,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 注意到这有多简单了吗？不需要将 React 挂载到 div，不需要导入 React，不需要设置路由。在我们常用的 React 应用程序中，我们需要进行其他配置，以允许代码分割和服务器端呈现。但是，嘿，看看你的页面来源。你会惊讶的。都是开箱即用的。
 
-[![](../Images/19cd777c2f0d6ffa9ede505274668f63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ChrR6qVG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AnSmdVGYLcOciqx8Y.png)
+[![](img/19cd777c2f0d6ffa9ede505274668f63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ChrR6qVG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AnSmdVGYLcOciqx8Y.png)
 
 注意上图中，有具体提到`[/_next/-/page/index.js](http://localhost:3000/_next/-/page/index.js)`？代码分割做得很好。另外，请注意，包含您的文本的 div 是完全呈现的。这是发生在服务器端的渲染。
 
@@ -242,7 +242,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### Plug: LogRocket，一款用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

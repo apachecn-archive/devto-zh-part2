@@ -10,7 +10,7 @@
 
 ## 决定要转行。
 
-[![decide you want to make that kind of change](../Images/ded26ff1bee70068866e65d4fbbc12bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dJQjs7JT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dnxkvw92dtl1uxlki9j0.jpg)
+[![decide you want to make that kind of change](img/ded26ff1bee70068866e65d4fbbc12bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dJQjs7JT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dnxkvw92dtl1uxlki9j0.jpg)
 
 我知道这听起来很蠢，但这是大多数人迈出的最难的一步。当你开始考虑如何转行的时候，那就意味着出了问题。也许你没有赚足够的钱，或者你没有获得曾经拥有的满足感。
 
@@ -20,7 +20,7 @@
 
 ## 学习一项新技能。
 
-[![spend the time and money on a new skill](../Images/df2f2de19e9d77662b9c70990582d637.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2YKLm19G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6t7ut7p5y3h071xvw75u.jpg)
+[![spend the time and money on a new skill](img/df2f2de19e9d77662b9c70990582d637.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2YKLm19G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6t7ut7p5y3h071xvw75u.jpg)
 
 *花些时间测试不同的东西。相信我，你有时间去做。如果你每天只花一个小时尝试新事物，你会很快找到你喜欢或擅长的东西。这是你应该探索那些你藏在心底的事情的时候。
 
@@ -30,7 +30,7 @@
 
 ## 获得一些经验。
 
-[![you don't need a job to practice your new skills](../Images/9c1eb0e1e91b8de085904bce50a66229.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zctnr2Y_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x0usvcf55zwqkmmgnfda.jpg)
+[![you don't need a job to practice your new skills](img/9c1eb0e1e91b8de085904bce50a66229.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zctnr2Y_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x0usvcf55zwqkmmgnfda.jpg)
 
 大多数人认为这意味着你需要找份工作，开始工作。不是这个。如果你有什么可以开始着手做的事情来表明你已经为你的新职业做好了准备，那就去做吧。
 
@@ -40,7 +40,7 @@
 
 ## 记住你已经有了其他的经历。
 
-[![your other experience still matters](../Images/723a439f70a6a96fc04d2feb435ecf55.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bj_PxH-p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fi2k0iof318jmfrk237v.jpg)
+[![your other experience still matters](img/723a439f70a6a96fc04d2feb435ecf55.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bj_PxH-p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fi2k0iof318jmfrk237v.jpg)
 
 *当你在考虑如何转行的时候，很容易陷入自己有多少不了解。你必须确保你强调了你已经知道的一切。除非你一直坐在家里无所事事，否则你已经在某个职业领域有了经验。
 
@@ -50,7 +50,7 @@
 
 ## 把自己放在那里。
 
-[![a closed mouth doesn't get fed](../Images/874dafdbc38ee44a45c0940c887e1037.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--191HlH6R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w5t3ekklbjbv0riify9r.jpg)
+[![a closed mouth doesn't get fed](img/874dafdbc38ee44a45c0940c887e1037.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--191HlH6R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w5t3ekklbjbv0riify9r.jpg)
 
 申请工作的过程很伤脑筋，但是如果你从事网站开发并遵循上面的步骤，你应该不会有太多问题。不过，你必须做好工作的准备。我在看如何转行的时候，每天做 2-5 份求职申请。
 

@@ -4,7 +4,7 @@
 
 阅读时间:16 分钟
 
-[**Post originment e publicado no blog do 威廉奥利维拉**](////woliveiras.com.br/posts/a-diferen%C3%A7a-entre-frontend-backend-e-mobile/) **[![❤](../Images/cefe41e1fbc236cac3928e9ee97d6b1d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--46gwAUrg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.org/images/core/emoji/2.3/72x72/2764.png)** 
+[**Post originment e publicado no blog do 威廉奥利维拉**](////woliveiras.com.br/posts/a-diferen%C3%A7a-entre-frontend-backend-e-mobile/) **[![❤](img/cefe41e1fbc236cac3928e9ee97d6b1d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--46gwAUrg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.oimg/core/emoji/2.3/72x72/2764.png)** 
 
 ### **没有人因为其特长而比对方更有技术能力**
 
@@ -104,7 +104,7 @@ ORM 是一种开发技术，在这种技术中，开发人员无需了解 SQL �
 
 前端人员最终也会处理用户设备上的持久性，在这种情况下，他们使用浏览器处理持久性，并根据需要或数据大小使用 cookies、localStorage、sessionStorage、indexdb 等。
 
-## [![diferença entre profissoes](../Images/46d5e14e17c3c83e4bb04202df4133a4.png)T4】](////app.vulpi.com.br/dev?utm_source=blog&utm_medium=eu_sou_dev)
+## [![diferença entre profissoes](img/46d5e14e17c3c83e4bb04202df4133a4.png)T4】](////app.vulpi.com.br/dev?utm_source=blog&utm_medium=eu_sou_dev)
 
 ## **是否需要担心用户会话？**
 
@@ -180,6 +180,6 @@ mobile 用户不需要将服务器放在空中，因为应用程序是通过本�
 
 每个人都有自己的专长和能力，除了这里引用的要点，这些要点表明几乎所有东西都是一样的，没有人比其他人更有能力。
 
-如果你有这种偏见，我希望他随文章一起被淘汰。 [![❤](../Images/cefe41e1fbc236cac3928e9ee97d6b1d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--46gwAUrg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.org/images/core/emoji/2.3/72x72/2764.png)
+如果你有这种偏见，我希望他随文章一起被淘汰。 [![❤](img/cefe41e1fbc236cac3928e9ee97d6b1d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--46gwAUrg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.oimg/core/emoji/2.3/72x72/2764.png)
 
 帖子[首先出现在](////eusoudev.com.br/diferenca-entre-profissoes/)[欧盟 Sou Dev](////eusoudev.com.br) 上。

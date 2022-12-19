@@ -4,7 +4,7 @@
 
 TLDR:这里是现场直播[这里是](https://first-contrib.surge.sh)，代码是[这里是](https://github.com/GaelS/first-contrib-app)
 
-[![App](../Images/9685405a32c0b23c4745dc218b7b6057.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KdJ0s_x6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7uvn3nxnspq3emfw4sgo.png)
+[![App](img/9685405a32c0b23c4745dc218b7b6057.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KdJ0s_x6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7uvn3nxnspq3emfw4sgo.png)
 
 大家好，
 
@@ -25,4 +25,4 @@ Github 的 API 并不真的期望这种用例，在这种用例中，你想要�
 
 PS:下面一个小预告:)
 
-[![Preview](../Images/d59a76500e6f4fa9c9750ed8abe01104.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3SHEXQK---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m673htjy3wygtjfegd3o.jpg)
+[![Preview](img/d59a76500e6f4fa9c9750ed8abe01104.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3SHEXQK---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m673htjy3wygtjfegd3o.jpg)

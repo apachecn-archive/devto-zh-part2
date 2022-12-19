@@ -6,7 +6,7 @@
 
 对于大型应用程序来说，这变得难以管理。上周，我花了几个小时学习一些基本的东西，并在一个用 vanilla JS 构建的附带项目中采用了它。我想和你们分享我的一些心得，并一起比较代码的不同之处。[项目](https://github.com/pmbanugo/shopping-list)是一个购物清单[渐进式网络应用](https://developer.mozilla.org/en-US/Apps/Progressive)，它使用了[帽衫](http://hood.ie/)。
 
-[![](../Images/38d539d33382c3c2b3a23090688a6ab4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eOOShHfN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_91FF8ED057E446856C9CF50C4D669F5A0F04EACF5A7BF3A9A812074AEC870A7E_1526036344108_shop.png)
+[![](img/38d539d33382c3c2b3a23090688a6ab4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eOOShHfN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_91FF8ED057E446856C9CF50C4D669F5A0F04EACF5A7BF3A9A812074AEC870A7E_1526036344108_shop.png)
 
 如果你想继续，你可以下载 Vanilla JS 中的[源代码](https://github.com/pmbanugo/shopping-list)，同时我向你展示我是如何在 Vue 中添加的(如果你想了解我是如何用 Vanilla JS、Hoodie 和 Service Worker 构建这个应用的，请点击这个[链接](https://www.twilio.com/blog/2018/03/practical-introduction-pwa-node-hoodie-offline-first.html))。
 
@@ -409,7 +409,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 既然物品可以保存为列表，我希望看到一段时间内每个列表的总成本的历史记录。它将在另一页上，看起来像下图所示
 
-[![](../Images/fe89a2c00b8359e3fc63ec0b260eba3f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z3mt8c7Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/03/1SZ-kxjbuM83S4pmMZ0LzgtUE0diKobqJtEFqGW0KQWnTh5Js0CqRNVmLQFh_XAXuFoxzrH04iTOWl9K0coAbygVoCBLjpdIdrh1nyrJhd9bSuoQwj2BviIYoJYMh39K8JYF_FwQ.png)
+[![](img/fe89a2c00b8359e3fc63ec0b260eba3f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z3mt8c7Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/03/1SZ-kxjbuM83S4pmMZ0LzgtUE0diKobqJtEFqGW0KQWnTh5Js0CqRNVmLQFh_XAXuFoxzrH04iTOWl9K0coAbygVoCBLjpdIdrh1nyrJhd9bSuoQwj2BviIYoJYMh39K8JYF_FwQ.png)
 
 这个页面在`public/history.html`中有标记，在`public/js/src/history.js`中有控制页面的代码。这个页面与顶部的导航栏`index.html`有一些相同的代码。导航栏包含不同页面的链接、`Login`和`Register`链接，点击后会弹出登录或注册对话框，以及`Signout`按钮。
 

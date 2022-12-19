@@ -28,7 +28,7 @@
 
 设置本身将是最基本的。但是，它仍然拥有您继续为未来的生产应用程序添加功能所需的一切。这里有一个最终布局的图表，这样你可以得到一个概述。
 
-[![project-setup.png](../Images/26b0916627212a9fd3f3590988e7ebf7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_5KlNjLs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/a-crash-course-on-serverless-apis-with-express-and-mongodb/project-setup.png)
+[![project-setup.png](img/26b0916627212a9fd3f3590988e7ebf7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_5KlNjLs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/a-crash-course-on-serverless-apis-with-express-and-mongodb/project-setup.png)
 
 正如你所看到的，这是一个相当简单的带有 CRUD 逻辑的 API，但是它完成了任务。说得够多了，让我们开始这个项目吧。
 
@@ -50,23 +50,23 @@ Enter fullscreen mode Exit fullscreen mode
 
 打开 AWS 控制台，点击左上角的服务下拉菜单。你会看到大量的服务出现。继续在搜索框中输入 IAM，然后点击它。
 
-[![img](../Images/742f70fddcf5da4b8c7468fad4baecd4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FI96rka7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2A1BKK9Uf_iZg5aQMggHkFAw.png)
+[![img](img/742f70fddcf5da4b8c7468fad4baecd4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FI96rka7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2A1BKK9Uf_iZg5aQMggHkFAw.png)
 
 您将被重定向到您的帐户的 IAM 主页。继续添加新用户。
 
-[![img](../Images/7a06397803992c5abdad20381495b56c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2Tj0yjBP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2A2W0uhicsEKt274A-UFQsNQ.png)
+[![img](img/7a06397803992c5abdad20381495b56c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2Tj0yjBP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2A2W0uhicsEKt274A-UFQsNQ.png)
 
 给你的 IAM 用户起一个名字，并选中**编程访问**复选框。继续下一步。
 
-[![img](../Images/00954ec7453fb75ee4f4720b8622a0ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gqrDCsAr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2AHpGc2GUbMlpxngt_ovSQXA.png)
+[![img](img/00954ec7453fb75ee4f4720b8622a0ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gqrDCsAr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2AHpGc2GUbMlpxngt_ovSQXA.png)
 
 现在，您可以向用户添加一组权限。因为我们将让 Serverless 在我们的 AWS 帐户上创建和删除各种资产，所以继续检查 AdministratorAccess。
 
-[![img](../Images/1865fbf9e00a602349384d83805ea8d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--baSEzJXC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2AiVJjs6_pqyNz-s8KFrZWvg.png)
+[![img](img/1865fbf9e00a602349384d83805ea8d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--baSEzJXC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2AiVJjs6_pqyNz-s8KFrZWvg.png)
 
 继续下一步，您将看到用户已创建。现在，也只有现在，你才能访问用户**访问密钥 ID** 和秘密**访问密钥**。请务必记下它们或下载。csv 文件。保管好它们，不要给任何人看。尽管这只是一个演示，我还是把它们像素化了，以确保你理解保护它们安全的重要性。
 
-[![img](../Images/40eca9521dbb7d568e1a2ba1d4446d06.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hNPJZW_G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2Aq4aHTY0FCsHIlAdZP9qPcA.png)
+[![img](img/40eca9521dbb7d568e1a2ba1d4446d06.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hNPJZW_G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2Aq4aHTY0FCsHIlAdZP9qPcA.png)
 
 完成后，我们最终可以将密钥输入到无服务器配置中。
 
@@ -152,35 +152,35 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是免费的，不需要信用卡。这将是我们玩耍时需要的沙箱。设置好帐户后，打开您的帐户页面并添加一个新组织。
 
-[![create organization](../Images/a20059ecf1615174ea2f37c77009ac4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HFc9jDI1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2AhM21Qo6sum_Bcj98giFYzQ.png)
+[![create organization](img/a20059ecf1615174ea2f37c77009ac4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HFc9jDI1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2AhM21Qo6sum_Bcj98giFYzQ.png)
 
 选一个你喜欢的名字，任何一个都可以。点击“下一步”,继续创建组织。
 
-[![img](../Images/6b831bb43dbae51c0fc65810de4ac86f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mpz6oqNS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2A-JBOmTjNK0iSLb3VZEKwsw.png)
+[![img](img/6b831bb43dbae51c0fc65810de4ac86f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mpz6oqNS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2A-JBOmTjNK0iSLb3VZEKwsw.png)
 
 很好。这将带您进入组织页面。按下新项目按钮。
 
-[![img](../Images/173f0fe289a9df3bf167b455cdefa413.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--32FfSwEb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2AsOxiyVzJjVFF_cV5V7oO6w.png)
+[![img](img/173f0fe289a9df3bf167b455cdefa413.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--32FfSwEb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2AsOxiyVzJjVFF_cV5V7oO6w.png)
 
 这将打开一个页面来命名您的项目。只要输入你喜欢的名字，然后点击下一步。
 
-[![img](../Images/efc9ce03906f433f9d2492fe523b95e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d4dFvcT6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2ASSSzcsD2g9z0JhFtAaWnBQ.png)
+[![img](img/efc9ce03906f433f9d2492fe523b95e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d4dFvcT6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2ASSSzcsD2g9z0JhFtAaWnBQ.png)
 
 MongoDB 关心权限和安全性，所以 Atlas 将向您展示另一个管理权限页面。我们现在可以跳过这一步，创建项目。
 
-[![img](../Images/5e7414f41eebf43994c865b4de505b0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LM2eRDCx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2AyCM_HJiy-Qw42CxxF-LBpg.png)
+[![img](img/5e7414f41eebf43994c865b4de505b0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LM2eRDCx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2AyCM_HJiy-Qw42CxxF-LBpg.png)
 
 唷，我们找到了。最后，我们可以创建实际的集群！按下巨大的绿色**“建立新集群”**按钮。这将打开一个巨大的集群创建窗口。您可以保留所有的默认值，只需确保选择 **M0** 实例大小，并禁用备份。如您所见，该集群的价格将是**免费**。相当不错。就是这样，点击**“创建集群”**。
 
-[![create-db-7](../Images/7114666d12db28da650f6618721b1600.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x_wX1nWl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/a-crash-course-on-serverless-apis-with-express-and-mongodb/create-db-7.png)
+[![create-db-7](img/7114666d12db28da650f6618721b1600.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x_wX1nWl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/a-crash-course-on-serverless-apis-with-express-and-mongodb/create-db-7.png)
 
 之后，为集群添加一个管理员用户，并给他一个非常强的密码。
 
-[![create-db-9](../Images/06370195f36794253ac2c179a8840a07.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1CJMVBd0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/a-crash-course-on-serverless-apis-with-express-and-mongodb/create-db-9.png)
+[![create-db-9](img/06370195f36794253ac2c179a8840a07.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1CJMVBd0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/a-crash-course-on-serverless-apis-with-express-and-mongodb/create-db-9.png)
 
 现在，您只需要允许从任何地方进行访问。转到 IP 白名单。
 
-[![create-db-8](../Images/a021476ab2221f38b8cc8b3573312477.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R3mNnTOn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/a-crash-course-on-serverless-apis-with-express-and-mongodb/create-db-8.png)
+[![create-db-8](img/a021476ab2221f38b8cc8b3573312477.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R3mNnTOn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/a-crash-course-on-serverless-apis-with-express-and-mongodb/create-db-8.png)
 
 部署您的集群需要几分钟时间。在此过程中，让我们开始安装一些依赖项。
 
@@ -390,11 +390,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 为了测试我的端点，我通常使用失眠症或 Postman，但是您可以随意使用您喜欢的任何工具。首先，通过点击 POST 端点来添加注释。
 
-[![insomnia post](../Images/55328248682ae6b689e9247f3e39d4ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z17TMKdY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/a-crash-course-on-serverless-apis-with-express-and-mongodb/insomnia-post.png)
+[![insomnia post](img/55328248682ae6b689e9247f3e39d4ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z17TMKdY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/a-crash-course-on-serverless-apis-with-express-and-mongodb/insomnia-post.png)
 
 厉害！它正如预期的那样工作。继续尝试下一个 GET 请求。
 
-[![insomnia get all](../Images/9fb00ec1d0bff95973e1cdefb31aed7f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qQdi2Njj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/a-crash-course-on-serverless-apis-with-express-and-mongodb/insomnia-get.png)
+[![insomnia get all](img/9fb00ec1d0bff95973e1cdefb31aed7f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qQdi2Njj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/a-crash-course-on-serverless-apis-with-express-and-mongodb/insomnia-get.png)
 
 它像梦一样工作。现在，继续尝试所有其他端点。确保它们都正常工作，然后，让我们准备好将它部署到 AWS。
 
@@ -499,7 +499,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 大约用了 5 秒钟来满足所有这些请求，而且进行得非常完美。您可以放心，无论您最终拥有何种规模的 API，它都会自动扩展到您需要的规模，并毫无问题地为您的用户服务。下面是这个负载测试的日志概述。
 
-[![Dashbird function logs](../Images/4e75b47b84eb6d3c0ee1622dcd3187e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7Zb5iYvM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/a-crash-course-on-serverless-apis-with-express-and-mongodb/dashbird-sls-express-mongo-2.gif)
+[![Dashbird function logs](img/4e75b47b84eb6d3c0ee1622dcd3187e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7Zb5iYvM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/a-crash-course-on-serverless-apis-with-express-and-mongodb/dashbird-sls-express-mongo-2.gif)
 
 这个监控工具叫做 [Dashbird](https://dashbird.io/) 。让我们来设置它，这样您也可以对您的 API 有一个正确的概述。
 
@@ -519,19 +519,19 @@ Enter fullscreen mode Exit fullscreen mode
 
 注册后，您将被重定向到入职页面。
 
-[![onboarding](../Images/ca2dff74a62d51a3b4370862304b5488.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IHwjzH20--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/a-crash-course-on-serverless-apis-with-express-and-mongodb/onboarding.png)
+[![onboarding](img/ca2dff74a62d51a3b4370862304b5488.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IHwjzH20--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/a-crash-course-on-serverless-apis-with-express-and-mongodb/onboarding.png)
 
 点击`create a new CloudFormation stack`链接，按照步骤进行操作。
 
-[![select template](../Images/0ad4e605c4ae8665ad48d47f005ce6f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ibHgN_4e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/a-crash-course-on-serverless-apis-with-express-and-mongodb/select-template.png)
+[![select template](img/0ad4e605c4ae8665ad48d47f005ce6f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ibHgN_4e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/a-crash-course-on-serverless-apis-with-express-and-mongodb/select-template.png)
 
 你需要做的一切只是继续按下 next，直到你到达一个名为**的复选框，我承认 AWS CloudFormation 可能会创建 IAM 资源框**。检查它并创建堆栈。
 
-[![tick the checkbox](../Images/9a59dbaa20f9754637072302c736cb56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EqsV-ty4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/a-crash-course-on-serverless-apis-with-express-and-mongodb/checkbox.png)
+[![tick the checkbox](img/9a59dbaa20f9754637072302c736cb56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EqsV-ty4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/a-crash-course-on-serverless-apis-with-express-and-mongodb/checkbox.png)
 
 一旦创建了 CloudFormation 堆栈，您将在控制台中看到它。在这里，您只需复制**dashbirddintegrationrole**的 ARN。
 
-[![cloudformation](../Images/cf97ed1fb1a1e300d6284bbaee36da45.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O742qcVy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/a-crash-course-on-serverless-apis-with-express-and-mongodb/cloudformation.png)
+[![cloudformation](img/cf97ed1fb1a1e300d6284bbaee36da45.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O742qcVy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/a-crash-course-on-serverless-apis-with-express-and-mongodb/cloudformation.png)
 
 嗯，那很简单。
 
@@ -551,7 +551,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果您错过了上面的任何步骤，[这里是包含所有代码的库](https://github.com/adnanrahic/a-crash-course-on-serverless-apis-with-express-and-mongodb)。
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png)[adnanrahic](https://github.com/adnanrahic)/[a-crash-course-on-servers-APIs-with-express-and-MongoDB](https://github.com/adnanrahic/a-crash-course-on-serverless-apis-with-express-and-mongodb)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png)[adnanrahic](https://github.com/adnanrahic)/[a-crash-course-on-servers-APIs-with-express-and-MongoDB](https://github.com/adnanrahic/a-crash-course-on-serverless-apis-with-express-and-mongodb)
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
@@ -579,7 +579,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 * * *
 
-[![This months sponsor is Zeet.](../Images/a4da9440f5519d3156594813d3a02017.png)T2】](https://bit.ly/adnan-zeet)
+[![This months sponsor is Zeet.](img/a4da9440f5519d3156594813d3a02017.png)T2】](https://bit.ly/adnan-zeet)
 
 免责声明: [Zeet](https://bit.ly/adnan-zeet) 将在下个月赞助这篇博客。前几天我试过了。这就像无服务器，但运行整个后端。你可以自动托管和扩展应用。相当整洁。
 

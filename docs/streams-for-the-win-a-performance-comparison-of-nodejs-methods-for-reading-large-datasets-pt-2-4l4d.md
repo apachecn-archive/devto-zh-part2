@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/paigen11/streams-for-the-win-a-performance-comparison-of-nodejs-methods-for-reading-large-datasets-pt-2-4l4d>
 
-[![Node.js logo](../Images/2c0a5bc91483ab636d3f08cef5769f51.png "Node.js logo")T2】](///static/fbf24df0c3e7745cbb5a4b1bf7445cfc/a2510/node-2.jpg)
+[![Node.js logo](img/2c0a5bc91483ab636d3f08cef5769f51.png "Node.js logo")T2】](///static/fbf24df0c3e7745cbb5a4b1bf7445cfc/a2510/node-2.jpg)
 
 ## 简介
 
@@ -204,7 +204,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我在同一个 400MB 的数据集上运行了我的三个解决方案，该数据集包含了近 200 万条要解析的记录。
 
-[![Solution printouts](../Images/338841a18f9334ba36b3bb0738dc0e98.png "Solution printouts")T2】](///static/1e7b95b57c7d7b1d0570f4b3ec68d6aa/2cefc/stream-ftw.png)
+[![Solution printouts](img/338841a18f9334ba36b3bb0738dc0e98.png "Solution printouts")T2】](///static/1e7b95b57c7d7b1d0570f4b3ec68d6aa/2cefc/stream-ftw.png)
 
 *为胜利而奔流！*
 
@@ -218,19 +218,19 @@ Enter fullscreen mode Exit fullscreen mode
 
 **方案一: [`fs.readFile()`](https://nodejs.org/api/fs.html#fs_fs_readfile_path_options_callback)**
 
-[![Solution 1 print out](../Images/5ba025cdd4e9766301793829eab08cd4.png "Solution 1 print out")T2】](///static/95e87af5abe7bba3ee4534707d4c0e94/ecf19/solution-1.png)
+[![Solution 1 print out](img/5ba025cdd4e9766301793829eab08cd4.png "Solution 1 print out")T2】](///static/95e87af5abe7bba3ee4534707d4c0e94/ecf19/solution-1.png)
 
 *仅使用 fs.readFile()的解决方案*
 
 **方案二: [`fs.createReadStream()`](https://nodejs.org/api/fs.html#fs_fs_createreadstream_path_options) & [`rl.readLine()`](https://nodejs.org/api/readline.html#readline_event_line)**
 
-[![Solution 2 print out](../Images/6209a00725b70a3383d468d50bef1894.png "Solution 2 print out")T2】](///static/158797187d264bbb507d1f59c341af3f/cc488/solution-2.png)
+[![Solution 2 print out](img/6209a00725b70a3383d468d50bef1894.png "Solution 2 print out")T2】](///static/158797187d264bbb507d1f59c341af3f/cc488/solution-2.png)
 
 *使用 fs.createReadStream()和 rl.readLine()的解决方案*
 
 **方案三: [`event-stream`](https://www.npmjs.com/package/event-stream)**
 
-[![Solution 3 print out](../Images/248fad4b96694fa4d9d2717635c56785.png "Solution 3 print out")T2】](///static/4fd982dfa1e0f4f3aef5ef1056de85fa/5bf79/solution-3.png)
+[![Solution 3 print out](img/248fad4b96694fa4d9d2717635c56785.png "Solution 3 print out")T2】](///static/4fd982dfa1e0f4f3aef5ef1056de85fa/5bf79/solution-3.png)
 
 *使用事件流的解决方案*
 
@@ -238,13 +238,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是我的`event-stream`解决方案在 2.55GB 的怪物文件中翻腾的截图。这是 400MB 文件和 2.55GB 文件之间的时差。
 
-[![Bonus solution print out](../Images/ea124937b80562c4574af706d753b852.png "Bonus solution print out")T2】](///static/86820fcd9c4845a3eca3487675044881/7960f/bonus-results.png)
+[![Bonus solution print out](img/ea124937b80562c4574af706d753b852.png "Bonus solution print out")T2】](///static/86820fcd9c4845a3eca3487675044881/7960f/bonus-results.png)
 
 看看这些超快的速度，尽管文件大小增加了近 6 倍。
 
 **解决方案#3: `event-stream`(在 2.55GB 文件上)**
 
-[![Bonus solution print out](../Images/124a50135f4943daf9543bc61c6f85f5.png "Bonus solution print out")T2】](///static/b6ca69d60d84afe359e4da9aa9ea6167/966a0/solution-3.2.png)
+[![Bonus solution print out](img/124a50135f4943daf9543bc61c6f85f5.png "Bonus solution print out")T2】](///static/b6ca69d60d84afe359e4da9aa9ea6167/966a0/solution-3.2.png)
 
 看看这些超快的速度，尽管文件大小增加了近 6 倍。
 

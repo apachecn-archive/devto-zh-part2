@@ -20,7 +20,7 @@
 
 如果你对排版格式完全不熟悉，你可以把它们看作是兴奋剂，但是作为灵活性的交换，你有一个更复杂的语法:
 
-[![groff-compressor](../Images/c81266be5f0a3d078837f0534da83017.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JHTHCIk6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/4419992/37868021-2e74027c-2f7f-11e8-894b-80829ce39435.gif)
+[![groff-compressor](img/c81266be5f0a3d078837f0534da83017.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JHTHCIk6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/4419992/37868021-2e74027c-2f7f-11e8-894b-80829ce39435.gif)
 
 `groff`文件可以手动编写，或者使用许多不同的工具从其他格式(如 Markdown、Latex、HTML 等)生成。
 
@@ -40,7 +40,7 @@
 
 通过标准的`groff`包大写宏名的方式，你可以很容易地区分本机`groff`命令和宏。对于`man`，每个宏的名字都是大写的，比如。PP，。TH，。SH 等。对于`mdoc`，只有第一个字母大写:。Pp，。Dt，. Sh。
 
-[![groff-example](../Images/b02e7e7a819c1115d5ed934e45a57140.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PkxHOKuH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/4419992/37866838-e602ad78-2f6e-11e8-97a9-2a4494c766ae.jpg)
+[![groff-example](img/b02e7e7a819c1115d5ed934e45a57140.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PkxHOKuH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/4419992/37866838-e602ad78-2f6e-11e8-97a9-2a4494c766ae.jpg)
 
 ### 挑战
 

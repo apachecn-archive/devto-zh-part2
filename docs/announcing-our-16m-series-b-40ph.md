@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nylas/announcing-our-16m-series-b-40ph>
 
-[![Announcing our $16M Series B!](../Images/36aa82b14391a3e765751d417b726710.png)T2】](https://www.nylas.com/blog/announcing-our-16m-series-b)
+[![Announcing our $16M Series B!](img/36aa82b14391a3e765751d417b726710.png)T2】](https://www.nylas.com/blog/announcing-our-16m-series-b)
 
 今天，我们很高兴地宣布由 Spark Capital 牵头的 B 轮融资，并热烈欢迎 Spark Capital 的普通合伙人安德鲁·帕克加入我们的董事会。
 

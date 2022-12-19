@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/simonharrer/how-to-learn-java-1n2j>
 
-<figure>[![](../Images/08fed788990cf4f92ec44c0beb1960f4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--a20PUaPx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AFuUGVTsLFZ-eKARHbOb66Q.jpeg) 
+<figure>[![](img/08fed788990cf4f92ec44c0beb1960f4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--a20PUaPx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AFuUGVTsLFZ-eKARHbOb66Q.jpeg) 
 
 <figcaption>照片由[约翰·施诺布里](https://unsplash.com/photos/2FPjlAyMQTA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)上[下](https://unsplash.com/search/photos/learn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 
@@ -12,7 +12,7 @@
 
 #### Top 1:头先 Java
 
-<figure>[![](../Images/0e3b2cf78fedf3c0df018454bdc43316.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DMu3Pk5b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/425/0%2AvhXNsDVLyBe162NB.jpg) 
+<figure>[![](img/0e3b2cf78fedf3c0df018454bdc43316.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DMu3Pk5b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/425/0%2AvhXNsDVLyBe162NB.jpg) 
 
 <figcaption>头头爪哇由卡西塞拉和伯特贝茨</figcaption>
 
@@ -22,7 +22,7 @@
 
 #### Top 2: Java 相比之下
 
-<figure>[![](../Images/e3b7164fb1fce5f476adf1fc0a9e95a6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0jgDIMfk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/404/0%2AfGfIVxfA3GahtdSD.jpg) 
+<figure>[![](img/e3b7164fb1fce5f476adf1fc0a9e95a6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0jgDIMfk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/404/0%2AfGfIVxfA3GahtdSD.jpg) 
 
 <figcaption></figcaption>
 
@@ -32,7 +32,7 @@
 
 #### Top 3:有效 Java
 
-<figure>[![](../Images/f1d6fe1901b02b4dbbb07e9099eddd1c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OZzyhevB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/404/0%2AwK-9hbFPhvUkM9st.jpg) 
+<figure>[![](img/f1d6fe1901b02b4dbbb07e9099eddd1c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OZzyhevB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/404/0%2AwK-9hbFPhvUkM9st.jpg) 
 
 <figcaption>有效 Java:第三版作者约书亚·布洛赫</figcaption>
 
@@ -42,7 +42,7 @@
 
 #### Top 4:头先设计图案
 
-<figure>[![](../Images/4bb33401fb8ba487127aa015b5c502fb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rYIGh3_6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/432/0%2AFn8gAiqTTsjJaUsc.jpg) 
+<figure>[![](img/4bb33401fb8ba487127aa015b5c502fb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rYIGh3_6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/432/0%2AFn8gAiqTTsjJaUsc.jpg) 
 
 <figcaption>头像图案首先由埃里克·弗里曼和伊丽莎白·罗布森设计</figcaption>
 

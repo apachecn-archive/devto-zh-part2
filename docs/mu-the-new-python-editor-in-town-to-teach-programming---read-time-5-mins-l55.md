@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/steelwolf180/mu-the-new-python-editor-in-town-to-teach-programming---read-time-5-mins-l55>
 
-[![Photo by rawpixel on Unsplash](../Images/76bf738f949095a0bd5e34efcf395b4e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1DVrlEvO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tc0exp6uqjfztt1w5uq1.jpg)
+[![Photo by rawpixel on Unsplash](img/76bf738f949095a0bd5e34efcf395b4e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1DVrlEvO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tc0exp6uqjfztt1w5uq1.jpg)
 
 ## 简介
 

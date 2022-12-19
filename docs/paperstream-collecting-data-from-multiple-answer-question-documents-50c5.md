@@ -4,7 +4,7 @@
 
 之前发表在[软件可持续发展研究所的博客](https://www.software.ac.uk/blog/2018-08-02-paperstream-software-collects-data-multiple-answer-questions-documents)
 
-**[![image1_0.png](../Images/ca8dbe74b5264292929baf552bebef68.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--F73rKUUc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5i1jonpic5cubbtt3q6k.png)T4】**
+**[![image1_0.png](img/ca8dbe74b5264292929baf552bebef68.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--F73rKUUc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5i1jonpic5cubbtt3q6k.png)T4】**
 
 **作为我博士学位的一部分，我们正在研究是否可以使用智能手机数据来监测帕金森病的进展，我们发现我们必须使用[“回到模拟”](https://doi.org/10.1145/3173574.3173648)，因为纸质日记是患者自我报告症状的最佳工具。这对这项研究来说是极好的，但它给了我们另一件要担心的事情，我必须手动将参与者的答案从纸上转录到电子文件中。我们的目标是 10 名参与者需要在一年内完成 365 页的日记；如果转录每一页需要 45 秒(非常乐观的话)，那么对所有十本日记进行编码将需要大约 114 个小时，或者大约 19 天的工作！**
 
@@ -16,7 +16,7 @@ PaperStream 是一种软件，研究人员和学者可以用它来创建纸质�
 
 对于日记和调查，你只需要一个单页的 PDF 文档，它将作为每一页的模板。对于日记，PaperStream 将为每一页标注一个唯一的日期，如下图所示，对于调查，PaperStream 将使用一个唯一的 ID 来枚举它们。PaperStream 处理完您的模板后，您将获得一个压缩文件，其中包含 A4 和 A5 大小的日记或调查，可以随时打印和装订。
 
-[![image2_0.png](../Images/60ff0bb5954a5608260b9c96ab9b2213.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5yGEWmNl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.software.ac.uk/sites/default/files/image2_0.png)
+[![image2_0.png](img/60ff0bb5954a5608260b9c96ab9b2213.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5yGEWmNl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.software.ac.uk/sites/default/files/image2_0.png)
 
 在你的参与者用笔回答了这些打印出来的问题后，你需要把它们扫描成多页的 TIF 图像，或者压缩成 ZIP 文件的单个 PNG 图像。一旦准备好了，你需要通过一个标记来告诉 PaperStream 在哪里寻找什么答案。标记标题只不过是一组圆圈，指示参与者可以用笔标记页面的哪些区域，以及这些标记/答案的含义，例如，一天中的某个小时或李克特量表中的某个点。因为你使用单一的模板来创建你的日记或调查，你只需要设计一个标记标题一次，就是这样！当标题准备好了，PaperStream 会给你一个 zip 文件和一个 CSV 文件，包含你想要处理的每篇日记或调查的所有答案。同样有用的是，PaperStream 可以检测重复的、丢失的数据，并且非常宽容，因为当至少 15%的答案区域被填充时，它会检测到答案，并且当笔超出它时没有问题。这意味着您的参与者不必担心如何回答问题，这就像使用纸笔一样简单。
 

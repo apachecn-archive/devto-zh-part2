@@ -6,13 +6,13 @@
 
 维基百科将冒名顶替综合征定义为“一个描述个人的概念，其特征是无法将自己的成就内化，并持续害怕被暴露为‘骗子’。”“我喜欢把它描述成迈克尔·斯科特综合症的反面(电视剧《办公室》中的迈克尔·斯科特)。迈克尔·斯科特是一个伟大的角色，但任何看过这部剧的人都可以证明，他的能力不足以证明他的自信。
 
-[![Michael Scott](../Images/645283f1670781547d05ea327988d3df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LsF--UZd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3w3fpmbqit9k9mtkejar.gif)
+[![Michael Scott](img/645283f1670781547d05ea327988d3df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LsF--UZd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3w3fpmbqit9k9mtkejar.gif)
 
 对我来说，冒名顶替综合症是指你有能力，但你对自己的能力没有信心(试着快速说 5 遍)。
 
 下图在任一轴上显示了自信和能力。理想情况下，随着我们能力的增长，我们的信心也会增长。经历过冒名顶替综合症的人落在虚线的左边。
 
-[![Competence v Confidence](../Images/d733e3808bb56b555f0d242176e9704d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oR11j827--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f8htocyagvxlcebn0k7f.png)
+[![Competence v Confidence](img/d733e3808bb56b555f0d242176e9704d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oR11j827--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f8htocyagvxlcebn0k7f.png)
 
 当你经历冒名顶替综合症时，你会觉得自己像个冒牌货。你觉得自己不够好，无论你多么努力，你都觉得自己做什么都不够好。你害怕有一天你会暴露自己是个骗子(注意:我没说你是骗子)。经历这些想法和情绪是相当令人衰弱的。那么，如果你觉得自己被这种想法征服了，你该怎么办呢？
 

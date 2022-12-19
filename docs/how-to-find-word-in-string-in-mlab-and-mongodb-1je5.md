@@ -24,11 +24,11 @@ console.log(queryResult("shoes"));
 
 然后，我们必须对我们的 mLab/MongoDB 数据库进行管理，需要登录(通过 Heroku 或 mLab)，选择您的集合>索引标签>添加索引:
 
-[![alt text](../Images/cd5d05ec1da514479438c7196d01e3fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hwxi-pya--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mp0sfmmi3hkbj8sjvkh4.PNG)
+[![alt text](img/cd5d05ec1da514479438c7196d01e3fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hwxi-pya--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mp0sfmmi3hkbj8sjvkh4.PNG)
 
 填写需要索引的字段，在我们的例子中，我们在数据库集合中索引“itemName”和“itemDescription”字段；启用$text 符号需要“text”。
 
-[![alt text](../Images/fb2d28e7ecd29bde9b83335450d3ce20.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--py8ffwie--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kcxguolabyfljedl70tx.PNG)
+[![alt text](img/fb2d28e7ecd29bde9b83335450d3ce20.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--py8ffwie--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kcxguolabyfljedl70tx.PNG)
 
 最后，点击后台创建，你会得到一个弹出提示，这可能需要几分钟到几个小时，这取决于你的数据库的大小和索引字段的数量。
 

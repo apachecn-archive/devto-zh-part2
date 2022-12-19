@@ -36,7 +36,7 @@ GraphQL 在所有这些方面都会有所帮助！但首先我们需要了解它
 
 > GraphQL 是一种 API 查询语言，也是一种用现有数据完成这些查询的运行时语言。GraphQL 为 API 中的数据提供了完整且易于理解的描述，使客户能够准确地要求他们需要的东西，使 API 更容易随时间发展，并支持强大的开发工具。
 
-[![](../Images/f8abcd3dae79962b02124a0fcca2ff37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BiqgcoM9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/480/1%2AHHEU3G2ojo6uFtYjwE21Ig.gif)
+[![](img/f8abcd3dae79962b02124a0fcca2ff37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BiqgcoM9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/480/1%2AHHEU3G2ojo6uFtYjwE21Ig.gif)
 
 哇，信息量真大！让我们冷静下来，看看他们在谈论什么🙏
 
@@ -168,7 +168,7 @@ GraphQL 本身不提供任何信息或数据，它将接收来自客户端的查
 
 如果我们将一个本地数据库与两个外部服务结合起来，我们最终会得到下面的架构。
 
-<figure>[![](../Images/db79d78e5bc5c98ce13976a3cd8d6a8b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_7rxPVhE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/742/1%2AMwvNPnnT92MqL2WmY9jUnQ.jpeg) 
+<figure>[![](img/db79d78e5bc5c98ce13976a3cd8d6a8b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_7rxPVhE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/742/1%2AMwvNPnnT92MqL2WmY9jUnQ.jpeg) 
 
 <figcaption>GraphQL 架构</figcaption>
 
@@ -207,7 +207,7 @@ GraphQL 通过提供一个便于执行查询和变异的图形界面，允许其
 
 我喜欢把它看作是邮递员和大摇大摆之间的融合😂
 
-<figure>[![](../Images/0e4882fd89e96d7f8edc1f3ff7b5079c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JGB4aVgi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/600/1%2AIL7DumVFy5hJdvRdL1OdjA.gif) 
+<figure>[![](img/0e4882fd89e96d7f8edc1f3ff7b5079c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JGB4aVgi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/600/1%2AIL7DumVFy5hJdvRdL1OdjA.gif) 
 
 <figcaption>动作中的 GraphiQl</figcaption>
 
@@ -239,7 +239,7 @@ GraphQL 通过提供一个便于执行查询和变异的图形界面，允许其
 
 我将这个项目命名为 [brastlewark-finder](https://github.com/EmaSuriano/brastlewark-finder) 。我将从头开始解释将 GraphQL 添加到项目中的整个过程。
 
-<figure>[![](../Images/010eed296aa67b55d3051f1a357f1091.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0jvs28lr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1020/1%2Aep3nRcvC3JnSNNv1u2e-Xg.gif)
+<figure>[![](img/010eed296aa67b55d3051f1a357f1091.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0jvs28lr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1020/1%2Aep3nRcvC3JnSNNv1u2e-Xg.gif)
 
 <figcaption>brastle wark-finder 示例</figcaption>
 
@@ -329,7 +329,7 @@ export const GET\_GNOME\_BY\_ID = gql`
 
 Enter fullscreen mode Exit fullscreen mode
 
-<figure>[![](../Images/d296402d73b815365bdaa15eee3ba884.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iGRSY1CX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/275/1%2AljTFIMmjzU5_IxkLssllAA.gif)
+<figure>[![](img/d296402d73b815365bdaa15eee3ba884.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iGRSY1CX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/275/1%2AljTFIMmjzU5_IxkLssllAA.gif)
 
 <figcaption>magic CCC</figcaption>
 

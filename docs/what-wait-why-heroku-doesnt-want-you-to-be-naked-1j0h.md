@@ -16,7 +16,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这将导致我的浏览器死机，并显示一个 SSL 错误:
 
-[![ssl error](../Images/9a13defdd4c055922cedeabb43e2a111.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LTdC0bOC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/v9xq6ya.png)
+[![ssl error](img/9a13defdd4c055922cedeabb43e2a111.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LTdC0bOC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/v9xq6ya.png)
 
 我心目中的`www`并不像`old.`或`blog.`那样是一个子域，而是“一开始就是垃圾的一部分”
 
@@ -32,7 +32,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 从用户的角度来看，www 感觉像是某种 Web 1.0 爵士乐，带有 fire gifs 和点击计数器。
 
-[![web1.0](../Images/82066fd75a170c892cfc7460634c5f60.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kb-CWHf_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/7CKgQ2U.png)
+[![web1.0](img/82066fd75a170c892cfc7460634c5f60.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kb-CWHf_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/7CKgQ2U.png)
 
 # 我们需要的不仅仅是“A”记录
 
@@ -85,7 +85,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 所以我们需要突破我们的✨ **子域名。** ✨这个问题最常见的子域是什么？
 
-[![www yaaaa](../Images/4de3d421b1d8b953062c828cfb248894.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ltcSaURM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/qCl7Dpz.png)
+[![www yaaaa](img/4de3d421b1d8b953062c828cfb248894.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ltcSaURM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/qCl7Dpz.png)
 
 # 哇，哇，哇，但是德夫是裸体的
 

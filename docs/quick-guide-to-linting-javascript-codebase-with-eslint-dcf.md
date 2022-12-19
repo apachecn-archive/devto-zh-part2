@@ -4,7 +4,7 @@
 
 最初发布在我的[博客](https://www.giftegwuenu.com/quick-guide-to-linting-javascript-codebase-with-eslint)
 
-[![banner](../Images/e2140b857263672745935d1a73bf1005.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FQxU3AZj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/lauragift/image/upload/v1532898161/032f30a0-f2e1-11e5-8676-4676c2ca102a_canln7.png)
+[![banner](img/e2140b857263672745935d1a73bf1005.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FQxU3AZj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/lauragift/image/upload/v1532898161/032f30a0-f2e1-11e5-8676-4676c2ca102a_canln7.png)
 
 JavaScript 中的林挺非常重要，大多数开发人员在开发软件时往往会跳过这一步，而实际上这应该是开始项目前的重要一步。
 

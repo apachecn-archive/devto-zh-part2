@@ -140,7 +140,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这里，`allowInteropCaptureThis`不仅用于在 JavaScript 中使用 Dart 函数，还用于捕获`this`上下文，并通过函数的第一个参数使其可用。因此，运行该逻辑并单击按钮会将`Vue`实例打印到控制台。
 
-[![The Vue instance. And we see the message property 😉](../Images/df91a177610a48b41b41b2fa5ba51ea7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D0CkTkRD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mkqrko5yt7xwmjs6hxny.png)
+[![The Vue instance. And we see the message property 😉](img/df91a177610a48b41b41b2fa5ba51ea7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D0CkTkRD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mkqrko5yt7xwmjs6hxny.png)
 
 你会马上发现做`gotThis.message`会给你一个错误。这是因为默认情况下`gotThis`被设置为`dynamic`类型，而动态类型没有`message`属性。
 
@@ -182,7 +182,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们开始吧:
 
-[![Working reverse message](../Images/dc46c1a1e615851d692941d326fd32a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O-W8nCBH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/434evxbf4oatdq3rfsrt.gif)
+[![Working reverse message](img/dc46c1a1e615851d692941d326fd32a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O-W8nCBH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/434evxbf4oatdq3rfsrt.gif)
 
 [**观看完整视频**](https://youtu.be/O1E1TAeRlX8) 浏览其他例子。
 

@@ -12,7 +12,7 @@
 
 Python 是成熟的，从书籍到在线课程都有大量的可用资源。它有一套重要的数据科学库可供使用。它是一种现成的编程语言，具有不同的包，用于加载和处理数据、可视化数据、将输入转换为数字矩阵或实际的机器学习和评估。
 
-[![Python For Data Science ](../Images/d570a727f1c40cb153a55d4b68008d3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PnhpVYAb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8cyotg0ndnscplfc8cer.png)
+[![Python For Data Science ](img/d570a727f1c40cb153a55d4b68008d3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PnhpVYAb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8cyotg0ndnscplfc8cer.png)
 
 ### 下面是 Python 中数据科学的 5 个[关键技能的详细列表](https://sinxloud.com/learn-data-science-with-python-track/#critical-skills-in-python-for-data-science)
 

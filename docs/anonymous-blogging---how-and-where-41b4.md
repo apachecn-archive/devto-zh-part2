@@ -4,7 +4,7 @@
 
 谁不喜欢隐私或保持安全呢？假设你有一个改变世界的想法，但害怕告诉全世界，因为你知道接下来会发生什么。。。把它写在你自己的博客上不太好，所以你打算怎么办？💭
 
-[![](../Images/b8f658cd316f7b52d01ab385a5d72281.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5HXCVBtH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cae9hrglyjwvwrpujcsc.jpg)
+[![](img/b8f658cd316f7b52d01ab385a5d72281.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5HXCVBtH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cae9hrglyjwvwrpujcsc.jpg)
 
 别担心，我已经找到了一些不损害你隐私的方法。
 

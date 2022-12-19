@@ -16,7 +16,7 @@
 
 这里是前一篇文章中架构的回顾。
 
-[![architecture](../Images/f32fa042b2c28a8c671578245154d5d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vr2hK1AF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/www.slightedgecoder.com/wp-content/uploads/2018/05/architecture.jpg%3Fresize%3D1024%252C653%26ssl%3D1)
+[![architecture](img/f32fa042b2c28a8c671578245154d5d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vr2hK1AF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/www.slightedgecoder.com/wp-content/uploads/2018/05/architecture.jpg%3Fresize%3D1024%252C653%26ssl%3D1)
 
 Gatsby 用于生成静态页面，然后部署到 Netlify。而 Azure 函数让 Netlify 通过 build webhook 重新构建静态页面。
 

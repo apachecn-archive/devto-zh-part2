@@ -108,7 +108,7 @@
 
 所以我们知道`#BADA55`是一种带有相当多绿色、中高量红色，而不是大量蓝色的颜色。
 
-[![The #BADA55 color](../Images/40549df0e6e62b863c410c4834430df5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ykCaoanS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assertnotmagic.com/img/bada55.jpeg)
+[![The #BADA55 color](img/40549df0e6e62b863c410c4834430df5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ykCaoanS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assertnotmagic.com/img/bada55.jpeg)
 
 **表白！**
 

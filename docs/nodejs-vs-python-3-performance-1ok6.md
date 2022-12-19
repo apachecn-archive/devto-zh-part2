@@ -60,7 +60,7 @@ Enter fullscreen mode Exit fullscreen mode
 
  [<source type="image/webp">
 <source type="image/png">
-![nodejs vs python 3](../Images/e3c1386ecdfc1e1a637ecce64c60dba9.png)](///static/af3c756f3d840c52adcf81530af30691/100d0/nodejs-vs-python-3.png) 
+![nodejs vs python 3](img/e3c1386ecdfc1e1a637ecce64c60dba9.png)](///static/af3c756f3d840c52adcf81530af30691/100d0/nodejs-vs-python-3.png) 
 
 看到这种差异对我来说实际上令人难以置信地令人担忧，因为我会认为性能会相当相似。因为我很好奇，似乎其他更“正式”的基准测试也证实了这一点。
 

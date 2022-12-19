@@ -10,7 +10,7 @@
 
 > “没有云，只是别人的电脑”
 
-[![There is no cloud, it is just someone else's computer](../Images/91e7371e63b02a35132df439b0f0ba05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z2UerQ0u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.freeitdata.com/wp-content/uploads/There-is-no-Cloud-Mug-1.png)
+[![There is no cloud, it is just someone else's computer](img/91e7371e63b02a35132df439b0f0ba05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z2UerQ0u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.freeitdata.com/wp-content/uploads/There-is-no-Cloud-Mug-1.png)
 
 * * *
 
@@ -26,7 +26,7 @@
 
 Cryptomator 是一个非常好的工具，它可以做到这一点，并在你将数据发送到云端之前对其进行加密。
 
-[![Cryptomator](../Images/3a77fb0a338d1440bc36ecaf02570f71.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2GduoAiE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cryptomator.org/img/stage/logo.png)
+[![Cryptomator](img/3a77fb0a338d1440bc36ecaf02570f71.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2GduoAiE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cryptomator.org/img/stage/logo.png)
 
 这是对您使用过的任何云的巨大升级。尤其是在数据泄露的情况下。如果你选择一个足够强的密码，你是好的。
 
@@ -44,7 +44,7 @@ Cryptomator 是一个非常好的工具，它可以做到这一点，并在你�
 
 ### 从收存箱移动
 
-[![logo-horizontal.svg](../Images/4160b736fbfc9cc0f6d1f00960f0472e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WVTViG3v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://syncthing.net/images/logo-horizontal.svg)
+[![logo-horizontal.svg](img/4160b736fbfc9cc0f6d1f00960f0472e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WVTViG3v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://syncthing.nimg/logo-horizontal.svg)
 
 Syncthing 是多平台的，它可以在 Linux，MacOS 和 Windows 上工作。它在 Android 上也有应用程序(抱歉，没有 iOS，但是如果你是一个 iOS 开发者，你会发现这太悲伤了，你应该解决这个问题；-)).
 此外， [Syncthing](https://syncthing.net/) 可以安装在 ARM 设备上。这意味着它对某些 NAS 可用。
@@ -54,7 +54,7 @@ Syncthing 是多平台的，它可以在 Linux，MacOS 和 Windows 上工作。�
 > 但是我足够有钱拥有一把 [RaspberryPi](https://www.raspberrypi.org/) 。:-D
 
 Raspberry Pi 是一种小型且价格合理的计算机，最初是为了学习编程而开发的。
-[![Raspberry Pi](../Images/18b61804d1999cbedb78f60bc134274a.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--aAg318VV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.raspberrypi.org/app/uploads/2018/03/770A5842-462x322.jpg)
+[![Raspberry Pi](img/18b61804d1999cbedb78f60bc134274a.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--aAg318VV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.raspberrypi.org/app/uploads/2018/03/770A5842-462x322.jpg)
 
 但是它是如此强大和多才多艺，以至于 DIY(自己动手)社区接受了它，并以如此多的方式破解它，如果你想以低成本做一些事情，树莓派现在是必不可少的设备。
 
@@ -108,7 +108,7 @@ Enter fullscreen mode Exit fullscreen mode
 Syncthing 正在您的浏览器中运行。
 号刚刚在`8384`港发射`localhost`。
 您还有 syncthing 接口，您可以通过代码机制发现您拥有的新设备(非常简单)。
-！ [![screenshot-720.jpg](../Images/f46273d83c6ab14254fd3b32e3d7972f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--INUVlSb4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://syncthing.net/images/screenshot-720.jpg)
+！ [![screenshot-720.jpg](img/f46273d83c6ab14254fd3b32e3d7972f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--INUVlSb4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://syncthing.nimg/screenshot-720.jpg)
 
 * * *
 
@@ -129,7 +129,7 @@ Syncthing 正在您的浏览器中运行。
 
 这里有一篇关于 iOS 开发者如何使用 snippets 来改进开发的好文章。
 
-[![1*6Af2MvBFeO2csxqS4cz96w.png](../Images/5769cacb8cfe26a453ce5978684ece74.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U7w35dK1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2A6Af2MvBFeO2csxqS4cz96w.png)
+[![1*6Af2MvBFeO2csxqS4cz96w.png](img/5769cacb8cfe26a453ce5978684ece74.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U7w35dK1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2A6Af2MvBFeO2csxqS4cz96w.png)
 
 笔记本(正如 Evernote 中描述的那样)只是你电脑上的一个目录。所以你只需要选择一个与 Syncthing 同步的位置，你就有了自己的 Evernote。
 

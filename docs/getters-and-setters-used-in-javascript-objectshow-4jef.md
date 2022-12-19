@@ -42,7 +42,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![invalid input](../Images/9880670c4ad01ba359741b408bba37c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3axpHrpL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jaa70xaes00w4bih1u0r.PNG)
+[![invalid input](img/9880670c4ad01ba359741b408bba37c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3axpHrpL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jaa70xaes00w4bih1u0r.PNG)
 
 从上面我们可以看到，在运行应用程序时，我们在控制台中记录了“无效值”,并且我们还注意到,`age`属性的值没有改变。但是我们现在用正确的值来修改参数`age`怎么样？让我们看看会发生什么，将前面代码中的字符串改为您选择的任意数字；
 
@@ -54,7 +54,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![valid input](../Images/fb519a8a31add0d8d446ec34b162f937.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ycaEJ9yh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xzqnw45c5m1mscly5tdr.PNG)
+[![valid input](img/fb519a8a31add0d8d446ec34b162f937.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ycaEJ9yh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xzqnw45c5m1mscly5tdr.PNG)
 
 从上面的图像中，我们的值被认为是有效的，age 属性的值也被成功地修改了。`Setters`到此为止。
 
@@ -91,7 +91,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 运行上面的代码；
 
-[![Getter image](../Images/d61525697216d623fed18b1707ddbffe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Iqxp1yl7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hqqnncsuywep04ugp7wu.PNG)
+[![Getter image](img/d61525697216d623fed18b1707ddbffe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Iqxp1yl7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hqqnncsuywep04ugp7wu.PNG)
 
 **总结:**
 `Getter`和`Setter`方法允许您在访问或设置属性值之前处理数据。

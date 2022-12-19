@@ -20,19 +20,19 @@
 
 **账户管理**
 
-[![](../Images/8859e28946a1d5d81cc081fdfd943edb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f9rT7Zxi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_D20CBE0CA4BF0177C662E0391D9783B7C177E3DD0E1BF54F40E0E14D6ED4B7A7_1531800643094_Profile%2BSettings%2B-%2BServer%2BDetails.png)
+[![](img/8859e28946a1d5d81cc081fdfd943edb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f9rT7Zxi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_D20CBE0CA4BF0177C662E0391D9783B7C177E3DD0E1BF54F40E0E14D6ED4B7A7_1531800643094_Profile%2BSettings%2B-%2BServer%2BDetails.png)
 
 顾名思义，这个界面集中在概要文件管理部分的界面上，用户可以在这里修改和更新他们的概要文件。
 
 **令牌管理**
 
-[![](../Images/984eb795782b316b1f46bc3fe76c997a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mUp6fHOw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_D20CBE0CA4BF0177C662E0391D9783B7C177E3DD0E1BF54F40E0E14D6ED4B7A7_1531800657656_Profile%2BSettings%2B-%2BKey%2Bmanagement.png)
+[![](img/984eb795782b316b1f46bc3fe76c997a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mUp6fHOw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_D20CBE0CA4BF0177C662E0391D9783B7C177E3DD0E1BF54F40E0E14D6ED4B7A7_1531800657656_Profile%2BSettings%2B-%2BKey%2Bmanagement.png)
 
 Project spectre 将分别使用来自 GitHub、Gitlab 或 Bitbucket 的令牌来管理基于这些服务的 web 挂钩的项目部署。这个接口关注与这些服务相关的集成和令牌。以便能够访问 web 挂钩请求。
 
 **计费**
 
-[![](../Images/58dbcb68dc214ee4faf8bed3270a136f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UbBGqo3L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_D20CBE0CA4BF0177C662E0391D9783B7C177E3DD0E1BF54F40E0E14D6ED4B7A7_1531800668551_Profile%2BSettings%2B-%2BBilling.png)
+[![](img/58dbcb68dc214ee4faf8bed3270a136f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UbBGqo3L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_D20CBE0CA4BF0177C662E0391D9783B7C177E3DD0E1BF54F40E0E14D6ED4B7A7_1531800668551_Profile%2BSettings%2B-%2BBilling.png)
 
 这个接口处理用户关于项目和服务器的计划的账单和订阅。
 

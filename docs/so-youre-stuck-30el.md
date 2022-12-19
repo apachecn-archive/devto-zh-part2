@@ -12,7 +12,7 @@
 
 大多数程序员(我猜)都熟悉在一个问题上停滞不前几个小时后，不知道如何前进时产生的深深的、炽热的、令人崩溃的挫败感。关于这个话题，这里有一条来自创造堆栈溢出的人的推文:
 
-> ![Jeff Atwood profile image](../Images/e0543a84701c92eceb30ce862e811da9.png)杰夫·阿特伍德@ codinghorr![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)人们认为编程就是这种纯粹的逻辑思维，当它 99%的时候多半是用头撞墙，直到墙给出07:14am-04 2016 年 2 月![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=695143348521140225)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=695143348521140225)
+> ![Jeff Atwood profile image](img/e0543a84701c92eceb30ce862e811da9.png)杰夫·阿特伍德@ codinghorr![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)人们认为编程就是这种纯粹的逻辑思维，当它 99%的时候多半是用头撞墙，直到墙给出07:14am-04 2016 年 2 月![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=695143348521140225)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=695143348521140225)
 
 我头部的这种特殊用法可能缩短了我几年的寿命。如果你是一个新的程序员，你可以通过遵循一个类似于我在这里推荐的过程来避免这些。每一步都建立在前面一步的基础上，并且不断升级，大多数情况下，在到达最后一步之前，你很久就会摆脱困境。
 

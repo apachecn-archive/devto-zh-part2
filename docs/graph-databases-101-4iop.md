@@ -18,10 +18,10 @@
 
 从 30:09 开始亲自聆听[或从头开始:](https://changelog.com/podcast/322#t=30:09)
 
- [# 322:去而复返(拉斐尔的故事)](/changelog/322-there-and-back-again-dgraphs-tale)  [## 变更日志](/changelog) ![play](../Images/da55340508c383dd96223748725e7fff.png) ![pause](../Images/b2e500349dc3cd65ea44585f746d2a0d.png) ![The Changelog](../Images/33d4471b5fdda875ad9b5ed198e40b23.png)
+ [# 322:去而复返(拉斐尔的故事)](/changelog/322-there-and-back-again-dgraphs-tale)  [## 变更日志](/changelog) ![play](img/da55340508c383dd96223748725e7fff.png) ![pause](img/b2e500349dc3cd65ea44585f746d2a0d.png) ![The Changelog](img/33d4471b5fdda875ad9b5ed198e40b23.png)
 
 <audio id="audio" data-episode="322-there-and-back-again-dgraphs-tale" data-podcast="changelog"><source src="https://cdn.changelog.com/uploads/podcast/322/the-changelog-322.mp3" type="audio/mpeg"> Your browser does not support the audio element.</audio>
 
-[![322: There and back again (Dgraph's tale)](../Images/d2125475d49febff157a113ea9ac7d15.png) ![animated volume bars](../Images/b4c6951c950232cdfef32ac750ed6d92.png) ](/changelog/322-there-and-back-again-dgraphs-tale)  ![play](../Images/da55340508c383dd96223748725e7fff.png) ![pause](../Images/b2e500349dc3cd65ea44585f746d2a0d.png)     ![volume](../Images/64c7607b77476eb3d924254262a5bca4.png)   <input type="range" name="points" id="volumeslider" value="50" min="0" max="100" data-show-value="true">    ![mute](../Images/53eef5aa80ab0610ec1ea90b95d54171.png)  1x  initializing... × 
+[![322: There and back again (Dgraph's tale)](img/d2125475d49febff157a113ea9ac7d15.png) ![animated volume bars](img/b4c6951c950232cdfef32ac750ed6d92.png) ](/changelog/322-there-and-back-again-dgraphs-tale)  ![play](img/da55340508c383dd96223748725e7fff.png) ![pause](img/b2e500349dc3cd65ea44585f746d2a0d.png)     ![volume](img/64c7607b77476eb3d924254262a5bca4.png)   <input type="range" name="points" id="volumeslider" value="50" min="0" max="100" data-show-value="true">    ![mute](img/53eef5aa80ab0610ec1ea90b95d54171.png)  1x  initializing... × 
 
 谢谢，曼尼什！💚💚💚

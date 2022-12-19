@@ -24,14 +24,14 @@ SSRed react-redux SPA 上的束分裂一直是前端开发人员的*春梦*。�
 
 通过这张图可以更好地理解这一点:
 
-[![plugins in fusion.js](../Images/c5b7c554081af90788677f5697307c76.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fPtXjcax--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AVst7vvHUUP-Fbzccb9PSxQ.png) 
+[![plugins in fusion.js](img/c5b7c554081af90788677f5697307c76.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fPtXjcax--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AVst7vvHUUP-Fbzccb9PSxQ.png) 
 插件逻辑基于它们的逻辑分组，而不是基于代码需要添加的位置。
 
 ### **键入依赖注入**
 
 插件可以将定义良好的 API 作为服务暴露给其他插件，插件的依赖性在测试中很容易被嘲笑。当依赖关系负责与数据存储基础架构通信时，或者当它们与可观察性(例如，日志记录、分析和指标)相关时，这一点尤其重要。
 
-[![dependency injection in  Fusion.js](../Images/f20f5f7aa988c713babdc9acc66f6067.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wlZW7UzD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A4isGmV2nTYUvKdNN-WM2UQ.png)
+[![dependency injection in  Fusion.js](img/f20f5f7aa988c713babdc9acc66f6067.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wlZW7UzD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A4isGmV2nTYUvKdNN-WM2UQ.png)
 
 ### **不再快递，欢迎 Koa**
 

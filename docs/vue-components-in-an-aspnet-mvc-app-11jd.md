@@ -28,7 +28,7 @@
 
 例如:
 
-[![](../Images/a3fd7889a7a8fe9b1664deac488a9e2e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hgOnRRsD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/834/1%2AyU2YFMe03drlOojWc-iNbg.png)T3】/js/components/vue-component . ts
+[![](img/a3fd7889a7a8fe9b1664deac488a9e2e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hgOnRRsD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/834/1%2AyU2YFMe03drlOojWc-iNbg.png)T3】/js/components/vue-component . ts
 
 我更喜欢将返回值赋给一个变量，原因将在第二步解释。
 
@@ -38,7 +38,7 @@
 
 例如:
 
-[![](../Images/3c875e42d24c01a9dbd3d5c56141dfb9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Xgoy3aLO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/590/1%2Aom-JifInOvzJ8aIjVxUe9g.png)T3】/js/component-loader . ts
+[![](img/3c875e42d24c01a9dbd3d5c56141dfb9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Xgoy3aLO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/590/1%2Aom-JifInOvzJ8aIjVxUe9g.png)T3】/js/component-loader . ts
 
 没有必要使用“components”选项(传递一个包含所有要注册的组件的对象)，因为没有它，您的所有组件在您的 web 项目中都是已知的，而不仅仅是传递的列表。我更喜欢显式命名，因为我有时会为不同类型的组件创建几个实例(如 myFormComponents、myGalleryComponents 等)。).至于选择器' #main '，这将是组件将被加载的语义元素(主要是一个 div)。
 
@@ -46,19 +46,19 @@
 
 您注意到我将实例的值赋给了一个新变量，这是因为以下(方便的)特性…假设您使用如下标签:
 
-[![](../Images/6c10e40ede9a1cea135b3f6f885cc90e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---kq2JaF2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A0LgeFlBfFEJ-dQAFSHWQfQ.png) 
+[![](img/6c10e40ede9a1cea135b3f6f885cc90e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---kq2JaF2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A0LgeFlBfFEJ-dQAFSHWQfQ.png) 
 
 <figcaption>Vue 组件在 HTML 文档中的用法</figcaption>
 
 HTML 标记“vue-component”(创建组件时的给定名称)是用该组件的名称属性(数据属性)和引用名称创建的。有了这个引用，现在就可以使用您为其分配实例值的变量，后面是$refs，后面是“引用名”，再后面是创建组件时配置的属性。例如。
 
-[![](../Images/5354f2468a3af05c2a18932c632dfa86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NitnmCBG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/723/1%2AV7xn0_oELzjnPyyxmMK6uA.png)
+[![](img/5354f2468a3af05c2a18932c632dfa86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NitnmCBG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/723/1%2AV7xn0_oELzjnPyyxmMK6uA.png)
 
 ### 步骤 3 —捆绑
 
 由于捆绑仍然是强制性的，以使您的脚本占用尽可能少，您需要缩小并捆绑生成的 JavaScript 文件(从 TypeScript 转换而来)。在本例中，我将组件和加载器文件添加到包中，并将它们放在 HTML 页面的底部，就在第三方 Vue 库引用的下面。
 
-[![](../Images/9897fc39f00aafd0c8faca52919ab4a3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JGJHLiPg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aus7Pf82Ijkq1ec_FV9wXPw.png) 
+[![](img/9897fc39f00aafd0c8faca52919ab4a3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JGJHLiPg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aus7Pf82Ijkq1ec_FV9wXPw.png) 
 
 <figcaption>Javascript 捆绑组件(。NET 功能)</figcaption>
 
@@ -66,7 +66,7 @@ HTML 标记“vue-component”(创建组件时的给定名称)是用该组件的
 
 为了确保转换后的 JavaScript 文件不会被添加到您的 git-repository 中，请将这些文件添加到. gitignore 文件中。Javascript 文件最好由 CI/CD-build 创建。
 
-[![](../Images/c126225611c17e0319882bccedb82565.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--m3V4m-0o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/310/1%2AdR05mGavMrOs9u_UaZNzzA.png) 
+[![](img/c126225611c17e0319882bccedb82565.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--m3V4m-0o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/310/1%2AdR05mGavMrOs9u_UaZNzzA.png) 
 
 <figcaption>。gitignore 规则排除 JavaScript 文件</figcaption>
 

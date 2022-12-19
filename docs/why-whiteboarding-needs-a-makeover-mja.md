@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/codesmith_staff/why-whiteboarding-needs-a-makeover-mja>
 
-[![image](../Images/2b60d544cf142ff5da50cd7c699c242a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9eNMKkQb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lfnww7zugc8mz6dbndr1.jpg)
+[![image](img/2b60d544cf142ff5da50cd7c699c242a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9eNMKkQb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lfnww7zugc8mz6dbndr1.jpg)
 
 *访问 [Codesmith Staffing](http://codesmithstaffing.com/blog/) 获取更多技术文章*
 

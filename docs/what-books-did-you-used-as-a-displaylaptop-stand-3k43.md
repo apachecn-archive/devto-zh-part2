@@ -6,4 +6,4 @@
 
 你用过什么书？没关系，你现在可以坦白了，这将是我们的小秘密。
 
-[![pic](../Images/d97b1102c90716d021bac8f9fbefb829.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5XEZ_KrW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iria093kp90vvrvxvmtm.jpeg)
+[![pic](img/d97b1102c90716d021bac8f9fbefb829.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5XEZ_KrW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iria093kp90vvrvxvmtm.jpeg)

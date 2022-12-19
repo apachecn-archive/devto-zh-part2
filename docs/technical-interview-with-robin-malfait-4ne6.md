@@ -36,7 +36,7 @@
 
 你会喜欢这个的。所以对你的编辑来说，quokka 是一个很棒的工具。可以把它想象成 devtools 控制台。你可以写代码，它会被执行，但你甚至不需要保存一个文件，它会一直这么做:[https://quokkajs.com/](https://quokkajs.com/)。您可以在其中编写节点代码，它会为您运行它。我一直用它来制作小东西的原型。
 
-[![quokkajs](../Images/ef3d0af47d55e8fe56765efc01467ee4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--snU_Uri0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/knvkcl928af75i9avbbd.png)
+[![quokkajs](img/ef3d0af47d55e8fe56765efc01467ee4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--snU_Uri0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/knvkcl928af75i9avbbd.png)
 
 我喜欢的其他工具是`bat`，它是`cat`的替代工具，具有语法高亮、行号和对终端的 git 支持。https://github.com/sharkdp/bat
 

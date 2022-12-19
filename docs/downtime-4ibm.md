@@ -8,7 +8,7 @@
 
 这就是为什么，提前计划好休息时间是有好处的。计划不仅仅是为了完成任务才有意义。想一想一天中什么时间是快节奏的，什么时间容易出现间歇，这是有好处的。对一些人来说，上午的休息更有可能提高精力和注意力，而对另一些人来说，这可能是下午的间歇。我深信工作中的休息应该是经过深思熟虑的，首先，它们应该对我们和周围的人有好处。我们应该永远记住，通过休息，我们不应该打断别人的思路。
 
-[![downtime](../Images/7c903e1607f3d3762bf4d090034a046b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--246D_49C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s741ylcg7p4qaa187rqh.jpg)
+[![downtime](img/7c903e1607f3d3762bf4d090034a046b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--246D_49C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s741ylcg7p4qaa187rqh.jpg)
 
 休息会浪费时间吗？不，只要它们不是偶然的和打扰的。毕竟，停工期是为了提高我们的生产力，提高推理能力，让我们更快乐而不是更有压力。
 

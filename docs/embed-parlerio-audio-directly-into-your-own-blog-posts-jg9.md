@@ -4,17 +4,17 @@
 
 你可能已经看到我最近在 dev.to 上的一些帖子在顶部包含了一个嵌入式音频播放器。这是我[在开发回购](https://github.com/thepracticaldev/dev.to/pull/828)中贡献的一个新的液体标签。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [ forem ](https://github.com/forem) / [ forem](https://github.com/forem/forem)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [ forem ](https://github.com/forem) / [ forem](https://github.com/forem/forem)
 
 ### 为社区赋权🌱
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-# Forem <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji>
+# Forem <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f331.png">🌱</g-emoji>
 
 **For Empowering Community**
 
-[![ruby version](../Images/aaf756b59de4ea4c46da5dee9a410afa.png)](https://www.ruby-lang.org/en/)[![rails version](../Images/731972711baa670d316b0f4907534c07.png)](http://rubyonrails.org/)[![Travis Status for forem/forem](../Images/0205420a37df99bb306f4d97f7092012.png)](https://travis-ci.com/forem/forem)[![Code Climate maintainability](../Images/5561c43af60e22ffdd92568ec2e089a1.png)](https://codeclimate.com/github/forem/forem/maintainability)[![Code Climate technical debt](../Images/155d31d7d22d7f1bb337536ea5a7b645.png)](https://codeclimate.com/github/forem/forem/trends/technical_debt)[![CodeTriage badge](../Images/9f8f7d8f3aa46c9508230cd4e192ce14.png)](https://www.codetriage.com/forem/forem)[![Dependabot Badge](../Images/ceaafd8fbfca88745417252ad2c74450.png)](https://camo.githubusercontent.com/03860bd4c939150eeab6549d39d93ec07c4f4efd39c731484527b753fc72ab28/68747470733a2f2f62616467656e2e6e65742f646570656e6461626f742f666f72656d2f666f72656d3f69636f6e3d646570656e6461626f74)[![GitPod badge](../Images/e87aed75ceeae18e025435d5084e1209.png)](https://gitpod.io/from-referrer/)[![Netlify badge](../Images/e73223f9d7b5b58f5df7493b0887eda0.png)](https://app.netlify.com/sites/docsdevto/deploys)[![GitHub commit activity](../Images/c636d7221527a9f58a1bcf7eb4f234ec.png)](https://camo.githubusercontent.com/64b9f7c7c5f41ec22113b61235256435cd61779a0554b0595b88b6011f94c60b/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6d6d69742d61637469766974792f772f666f72656d2f666f72656d)[![GitHub issues ready for dev](../Images/a2f086092c44aa16ddbf13a9cf99fea1.png)](https://github.com/forem/forem/issues?q=is%3Aissue+is%3Aopen+label%3A%22ready+for+dev%22)[![Honeybadger badge](../Images/3d57ff0653509b0092ec0e6674a3abfa.png)](https://app.honeybadger.io/project/Pl5JzZB5ax)[![Knapsack Pro Parallel CI builds for dev.to](../Images/78a30552f148d10404f265b48df96a2b.png)](https://knapsackpro.com/dashboard/organizations/1142/projects/1022/test_suites/1434/builds)
+[![ruby version](img/aaf756b59de4ea4c46da5dee9a410afa.png)](https://www.ruby-lang.org/en/)[![rails version](img/731972711baa670d316b0f4907534c07.png)](http://rubyonrails.org/)[![Travis Status for forem/forem](img/0205420a37df99bb306f4d97f7092012.png)](https://travis-ci.com/forem/forem)[![Code Climate maintainability](img/5561c43af60e22ffdd92568ec2e089a1.png)](https://codeclimate.com/github/forem/forem/maintainability)[![Code Climate technical debt](img/155d31d7d22d7f1bb337536ea5a7b645.png)](https://codeclimate.com/github/forem/forem/trends/technical_debt)[![CodeTriage badge](img/9f8f7d8f3aa46c9508230cd4e192ce14.png)](https://www.codetriage.com/forem/forem)[![Dependabot Badge](img/ceaafd8fbfca88745417252ad2c74450.png)](https://camo.githubusercontent.com/03860bd4c939150eeab6549d39d93ec07c4f4efd39c731484527b753fc72ab28/68747470733a2f2f62616467656e2e6e65742f646570656e6461626f742f666f72656d2f666f72656d3f69636f6e3d646570656e6461626f74)[![GitPod badge](img/e87aed75ceeae18e025435d5084e1209.png)](https://gitpod.io/from-referrer/)[![Netlify badge](img/e73223f9d7b5b58f5df7493b0887eda0.png)](https://app.netlify.com/sites/docsdevto/deploys)[![GitHub commit activity](img/c636d7221527a9f58a1bcf7eb4f234ec.png)](https://camo.githubusercontent.com/64b9f7c7c5f41ec22113b61235256435cd61779a0554b0595b88b6011f94c60b/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6d6d69742d61637469766974792f772f666f72656d2f666f72656d)[![GitHub issues ready for dev](img/a2f086092c44aa16ddbf13a9cf99fea1.png)](https://github.com/forem/forem/issues?q=is%3Aissue+is%3Aopen+label%3A%22ready+for+dev%22)[![Honeybadger badge](img/3d57ff0653509b0092ec0e6674a3abfa.png)](https://app.honeybadger.io/project/Pl5JzZB5ax)[![Knapsack Pro Parallel CI builds for dev.to](img/78a30552f148d10404f265b48df96a2b.png)](https://knapsackpro.com/dashboard/organizations/1142/projects/1022/test_suites/1434/builds)
 
 欢迎来到 [Forem](https://forem.com) 代码库，这个平台为[开发到](https://dev.to)提供动力。我们很高兴你能来。在你们的帮助下，我们可以增强 Forem 的可用性、可伸缩性和稳定性，从而更好地为我们的社区服务。
 
@@ -41,7 +41,7 @@ Parler 是我在业余时间积极从事的一个兼职项目。目标是将书�
 3.  在您的博客文章上单击转换。这可能需要几分钟的处理时间。
 4.  一旦你的博客文章被转换成音频，在页面底部找到音频的网址。
 
-[![parler.io audio download link](../Images/bff7fac818d0f24b743662b8b5c6ee3b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yr0_stqY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qcddscjrtrkd7w8o4cb0.png)
+[![parler.io audio download link](img/bff7fac818d0f24b743662b8b5c6ee3b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yr0_stqY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qcddscjrtrkd7w8o4cb0.png)
 
 一旦你的帖子被 Parler 转换，你就可以使用下面的 Liquid 标签将它嵌入到 dev.to。
 
@@ -49,7 +49,7 @@ Parler 是我在业余时间积极从事的一个兼职项目。目标是将书�
 
 保存你的文章，以音频和书面形式分享你的精彩内容。
 
-[![parler audio player](../Images/4a307ac584ec0736f83eb1aa295a1d58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WJ33HWYf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zt57dlk5jhv4e3pmbd94.png)
+[![parler audio player](img/4a307ac584ec0736f83eb1aa295a1d58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WJ33HWYf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zt57dlk5jhv4e3pmbd94.png)
 
 值得注意的是，你也可以将转换后的音频嵌入到其他网站。这可以通过从你的转换屏幕复制`<iframe>`代码并粘贴到你想要的站点来完成。
 

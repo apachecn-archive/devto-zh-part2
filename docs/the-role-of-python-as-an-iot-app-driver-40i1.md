@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/divyeshaegis/the-role-of-python-as-an-iot-app-driver-40i1>
 
-[![](../Images/75aec7b18254efdc12ea3130de1cf49d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jCCcoUUu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8wt36ywfgcgg9yx6lxch.jpg)
+[![](img/75aec7b18254efdc12ea3130de1cf49d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jCCcoUUu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8wt36ywfgcgg9yx6lxch.jpg)
 
 在过去十年左右的时间里，有两个技术现象引起了轰动，那就是 python web 开发和物联网。令人印象深刻的是，IoT 在写作的阴影下崛起，这保证了它进入公共和相对更舒适的开发方法。物联网被认为是帮助物联网蓬勃发展并在最近比以往任何时候都更加成熟的纯粹驱动力。Python 是一种轻量级且易于学习的编程语言，它得到了最重要的贡献社区之一的支持，这有助于该语言向各个方向扩展，并帮助该语言完全有效地覆盖物联网。
 

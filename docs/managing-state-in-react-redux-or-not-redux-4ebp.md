@@ -26,7 +26,7 @@
 
 这个项目是这样的:
 
-[![Edit simple-application-with-redux](../Images/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/m5n2xjl6pj)
+[![Edit simple-application-with-redux](img/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/m5n2xjl6pj)
 
 该应用程序反映了典型的 redux 架构。它从一个`<App />`组件开始，该组件安装了 redux store ( `<Provider store={store}>`)和路由器(`<ConnectedRouter history={history}>` ):
 
@@ -371,7 +371,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我现在准备从应用程序中删除 Redux。
 
-[![Edit simple-application-without-redux](../Images/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/o77qv75rmq)
+[![Edit simple-application-without-redux](img/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/o77qv75rmq)
 
 让我们重新开始分析我们的项目:
 

@@ -14,21 +14,21 @@
 
 仔细思考这三个图像。我在工作中为[鞋匠](https://shoefitters.net)的 20 周年销售做的脸书广告的一些变体。
 
-[![Ad 1](../Images/1b8cf38a3decf6e1e38bc1453a6de1a6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UB-KhDQw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://harnerdesigns.com/wp-content/uploads/2018/10/test3-1024x536.jpg)
+[![Ad 1](img/1b8cf38a3decf6e1e38bc1453a6de1a6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UB-KhDQw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://harnerdesigns.com/wp-content/uploads/2018/10/test3-1024x536.jpg)
 
-[![Ad 2](../Images/f439baf5a5a11b3d6abcc61439189357.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Eka8XC4x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://harnerdesigns.com/wp-content/uploads/2018/10/test2-1024x536.jpg)
+[![Ad 2](img/f439baf5a5a11b3d6abcc61439189357.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Eka8XC4x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://harnerdesigns.com/wp-content/uploads/2018/10/test2-1024x536.jpg)
 
-[![Ad 3](../Images/c71ec35022101cfaeda21011a69b50c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o9L2_Y47--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://harnerdesigns.com/wp-content/uploads/2018/10/first-test-1024x536.jpg)
+[![Ad 3](img/c71ec35022101cfaeda21011a69b50c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o9L2_Y47--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://harnerdesigns.com/wp-content/uploads/2018/10/first-test-1024x536.jpg)
 
 现在来看看这三张图片的文本叠加工具的结果:
 
-[![Text Overlay Tool Results](../Images/8b14fd1f58e0283ad090487b1b3c59ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s1QITlQ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://harnerdesigns.com/wp-content/uploads/2018/10/So_inconsistent.png)
+[![Text Overlay Tool Results](img/8b14fd1f58e0283ad090487b1b3c59ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s1QITlQ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://harnerdesigns.com/wp-content/uploads/2018/10/So_inconsistent.png)
 
 你可能认为第二张图片，文字最少，可以通过，但是对于第一张，我把第二张图片放大了一点点，它完全通过了？！
 
 第一张图片中的文字比一张评分低的图片中的文字多，还可以吗？
 
-[![It's a meme.](../Images/5f8de55c339a140535697e6d0cb5c391.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n7CVzt-z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://harnerdesigns.com/wp-content/uploads/2018/10/meme.jpg)
+[![It's a meme.](img/5f8de55c339a140535697e6d0cb5c391.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n7CVzt-z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://harnerdesigns.com/wp-content/uploads/2018/10/meme.jpg)
 
 # 好运
 

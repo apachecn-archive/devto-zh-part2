@@ -10,9 +10,9 @@
 梯形法则是一种用于求定积分的数值方法。这种方法最常见的应用是在一组给定的区间内找到函数下的
 面积。找到这个区域通常是使用黎曼和，但这种方法被证明是更准确的，因为它使用梯形而不是矩形。
 
-[![Trapezoidal Rule](../Images/30e9f10e1dbf4a424eae98b8bcca6424.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EqGAOOL_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/MarinesM/Trapezoidal-Rule/master/Left.PNG)
+[![Trapezoidal Rule](img/30e9f10e1dbf4a424eae98b8bcca6424.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EqGAOOL_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/MarinesM/Trapezoidal-Rule/master/Left.PNG)
 
-*   莱曼总和![Trapezoidal Rule](../Images/05ba420abf8187952f62b5c47ecc9481.png)
+*   莱曼总和![Trapezoidal Rule](img/05ba420abf8187952f62b5c47ecc9481.png)
 *   梯形法则
 
 在这种情况下，我使用函数式编程语言 F#实现了这种数值方法。第一，我选择了要积分的函数；在这种情况下，sin(x):
@@ -31,12 +31,12 @@ let h = (b - a)/N
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Trapezoidal Rule](../Images/94e83100a313f9d6b8e67a91aaa519ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EE_HbMeI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/7/7e/Trapezium2.gif)
+[![Trapezoidal Rule](img/94e83100a313f9d6b8e67a91aaa519ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EE_HbMeI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/7/7e/Trapezium2.gif)
 
 *   By [Mkwadee](https://en.wikipedia.org/wiki/User:Mkwadee "wikipedia:User:Mkwadee") at [英文维基百科](https://en.wikipedia.org/wiki/ "wikipedia:")， [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0 "Creative Commons Attribution-Share Alike 3.0") ，[链接](https://commons.wikimedia.org/w/index.php?curid=54729903)
 
 此方法的公式如下:
-[![TrapezoidalFormula](../Images/62ebaefae1e1e8e4aa31a303eb894a24.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1UR-MjEU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/MarinesM/Trapezoidal-Rule/master/formula.PNG)
+[![TrapezoidalFormula](img/62ebaefae1e1e8e4aa31a303eb894a24.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1UR-MjEU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/MarinesM/Trapezoidal-Rule/master/formula.PNG)
 
 为了计算上面的公式，我创建了两个函数:
 

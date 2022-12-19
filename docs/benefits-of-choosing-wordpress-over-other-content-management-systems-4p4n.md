@@ -4,7 +4,7 @@
 
 当你开始发布你的内容的时候，你可能已经注册了内容管理系统，比如 Drupal，Joomla 或者其他任何一个。这可能是你想要不同的特性、功能、部件和主题的情况。不管原因是什么，你可能正在寻找一个升级的 CMS，最好考虑 WordPress 进行迁移。当然，有各种各样的合作医疗有不同的好处。Drupal 有自己非常活跃的社区。
 
-[![](../Images/d11774ff94b176b8e55c029b58d41099.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Lf-oHEyP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/cciaQ8/Benefits_of_choosing_Word_Press_over_Other_Content_Management_Systems.jpg)
+[![](img/d11774ff94b176b8e55c029b58d41099.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Lf-oHEyP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/cciaQ8/Benefits_of_choosing_Word_Press_over_Other_Content_Management_Systems.jpg)
 
 Joomla 已经被全世界成千上万的人使用。Alfresco 允许你把不同的文件变成不同的网页。尽管有这些好处，WordPress 仍然是其中的佼佼者。为什么 WordPress 被认为是世界上最好的 CMS，有很多不同的因素。它为 WordPress 开发服务开辟了新的途径。所以，现在让我们来看看这些因素，这些因素使得 WordPress 成为比其他内容管理系统更好的解决方案。
 

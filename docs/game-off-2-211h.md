@@ -7,10 +7,10 @@
 今天我继续为我的游戏做像素艺术！
 
 我创作了一些花...
-[![Flowers](../Images/2564ce678f7d646154edc5c0c749a72c.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--BkL-peOJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2ddv340xfvokzoapx1o1.gif)
+[![Flowers](img/2564ce678f7d646154edc5c0c749a72c.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--BkL-peOJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2ddv340xfvokzoapx1o1.gif)
 
 和一些种子...
-[![Seeds](../Images/dee2148acfda87100710d2861bed633b.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--dtG2WhZy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5w7ipn8opcapw8uqodie.gif)
+[![Seeds](img/dee2148acfda87100710d2861bed633b.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--dtG2WhZy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5w7ipn8opcapw8uqodie.gif)
 
 我不知道哪种花能和其他的杂交，但是现在我有一些艺术！
 

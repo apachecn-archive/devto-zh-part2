@@ -35,7 +35,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这被建模为[控制流图](https://en.wikipedia.org/wiki/Control_flow_graph):
 
-[![](../Images/d4212fec3895b5d212f5f39caf0ba0c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4VLzTs8n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.xojo.com/wp-content/uploads/2018/03/2018-03-15_09-24-11.png)
+[![](img/d4212fec3895b5d212f5f39caf0ba0c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4VLzTs8n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.xojo.com/wp-content/uploads/2018/03/2018-03-15_09-24-11.png)
 
 控制流图是一个[有向图](https://en.wikipedia.org/wiki/Directed_graph)。
 
@@ -43,12 +43,12 @@ Enter fullscreen mode Exit fullscreen mode
 
 但是编译器也可能代表你插入一些东西。例如， [Xojo](http://www.xojo.com) 添加了 Yield 函数调用来支持协作线程，这些函数调用不能被优化过程删除。
 
-[![](../Images/4678e1d690ede9279f7c5a8734b03275.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pp4mLqCD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.xojo.com/wp-content/uploads/2018/03/2018-03-15_09-29-59.png)
+[![](img/4678e1d690ede9279f7c5a8734b03275.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pp4mLqCD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.xojo.com/wp-content/uploads/2018/03/2018-03-15_09-29-59.png)
 
 所以要展开循环，思想是编译器只能确定循环的两次迭代。
 
 展开的结果是这样的:
 
-[![](../Images/2551dd6684071a3fff311f24837454c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LjmvGToq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.xojo.com/wp-content/uploads/2018/03/2018-03-15_09-32-16.png)
+[![](img/2551dd6684071a3fff311f24837454c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LjmvGToq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.xojo.com/wp-content/uploads/2018/03/2018-03-15_09-32-16.png)
 
 在这个简短的例子中，变量“I”的值从来没有被使用过，所以它可以被丢弃，从而节省迭代时间和存储空间。

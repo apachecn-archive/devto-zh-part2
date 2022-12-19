@@ -59,7 +59,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 *   提出拉拽请求
     *   在浏览器中打开存储库，并向远程分支( new-feature )发出抽取请求
-    *   如果是推后不久的话，资源库的首页画面上会出现`Compare & pull request`按钮![Screenshot from 2018-07-22 23-03-34.png (49.9 kB)](../Images/d090d83223a5bdf6b1c45479c721b6ab.png)
+    *   如果是推后不久的话，资源库的首页画面上会出现`Compare & pull request`按钮![Screenshot from 2018-07-22 23-03-34.png (49.9 kB)](img/d090d83223a5bdf6b1c45479c721b6ab.png)
 *   请评论者评论
 
 ## 变更的取入

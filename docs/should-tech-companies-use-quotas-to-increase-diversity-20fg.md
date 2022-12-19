@@ -4,7 +4,7 @@
 
 <figure>
 
-[![Are diversity quotas a good practice?](../Images/f42caaa1bf09562bc03f19bb2eccfe5d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vmsxc0LD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c9mrzb2lsqruk5bo2jis.jpg)
+[![Are diversity quotas a good practice?](img/f42caaa1bf09562bc03f19bb2eccfe5d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vmsxc0LD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c9mrzb2lsqruk5bo2jis.jpg)
 
 <figcaption>Photo by [Patrick Fore](https://unsplash.com/photos/vHn0JnxFMP8) on Unsplash.</figcaption>
 
@@ -16,7 +16,7 @@
 
 老实说，我甚至不知道如何开始回答这些问题，所以我开始学习更多。为了更好地了解情况，我联系了多元化和包容性(D&I)领域的思想领袖和专家。我分享他们对以下问题的想法:
 
-[!["Companies need to use quotas in their hiring process in order to promote diversity and inclusion." Agree or disagree, and why?](../Images/50b586de75a825cccc4c4603e5882dcd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XxVFMrFw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rcxboqwoywgb4mmcjib5.png)
+[!["Companies need to use quotas in their hiring process in order to promote diversity and inclusion." Agree or disagree, and why?](img/50b586de75a825cccc4c4603e5882dcd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XxVFMrFw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rcxboqwoywgb4mmcjib5.png)
 
 ### **黄邦明**
 

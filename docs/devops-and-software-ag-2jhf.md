@@ -6,14 +6,14 @@
 
 **本文简要概述了什么是 DevOps 以及它如何应用于 Software AG 产品。**
 
-| 2018 年第四期 | [![](../Images/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue4/SAG_Devops_and_SoftwareAG_TECHniques_Oct18_WEB.pdf) |
+| 2018 年第四期 | [![](img/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue4/SAG_Devops_and_SoftwareAG_TECHniques_Oct18_WEB.pdf) |
 | --- | --- |
 
 ## devo PS——流行语背后是什么？
 
 DevOps 是最近的流行语。它描述了一种统一软件开发(Dev)和软件运营(Ops)的文化。通过这种方式，它推广了广泛的已知和使用的技术，如自动化测试、自动化发布管理、基础设施管理和监控。所有这些结合起来的目标是缩短开发周期，并将高质量的代码频繁地推向生产系统。
 
-[![](../Images/7a988ed4c283a3b2771b08e8fb376e1a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--seIz7_q---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/Devops_1.jpg/ed1c666c-05bb-45cc-87e2-b49a4a84999d%3Ft%3D1539611152002) 
+[![](img/7a988ed4c283a3b2771b08e8fb376e1a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--seIz7_q---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/Devops_1.jpg/ed1c666c-05bb-45cc-87e2-b49a4a84999d%3Ft%3D1539611152002) 
 
 **图 1:** Dev + Ops = DevOps
 
@@ -27,7 +27,7 @@ DevOps 是最近的流行语。它描述了一种统一软件开发(Dev)和软�
 
 云计算和容器化让我们可以把服务器看成一群牛。每个服务器都是一个类型的实例。如果进行了更改，它可以无缝地应用于整个服务器集合，也可以只应用于其中的一部分。如果一个服务器坏了，可以用另一个实例替换它。如果需要可伸缩性，需要一个新的服务器实例，它会自动加入其他实例。所有这些活动对管理员来说都是自动化的，因此管理员可以专注于对业务来说最重要的事情—拥有一个可扩展的工作解决方案。这非常符合 DevOps 的文化。
 
-[![](../Images/65430027f12e9f3c499d2d3c1effbdcb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i708duiN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/Devops_2.jpg/6f5aebfc-b8ef-493d-bc13-bc5434f20737%3Ft%3D1539611556663)
+[![](img/65430027f12e9f3c499d2d3c1effbdcb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i708duiN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/Devops_2.jpg/6f5aebfc-b8ef-493d-bc13-bc5434f20737%3Ft%3D1539611556663)
 
 图 2: 宠物对牛
 
@@ -37,7 +37,7 @@ DevOps 是最近的流行语。它描述了一种统一软件开发(Dev)和软�
 
 仔细观察，DevOps 可以大致分为两个方面:快速、高质量地交付解决方案的能力，以及轻松管理基础设施的能力。
 
-[![](../Images/caf0552f4cd321303325b05393bf49cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BL3qQDKz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/Devops_3.jpg/6d240244-3df3-4591-a8f3-a43d75d1cd9f%3Ft%3D1539611699271)
+[![](img/caf0552f4cd321303325b05393bf49cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BL3qQDKz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/Devops_3.jpg/6d240244-3df3-4591-a8f3-a43d75d1cd9f%3Ft%3D1539611699271)
 
 **图 3:**devo PS 的两种成分
 
@@ -49,7 +49,7 @@ DevOps 是最近的流行语。它描述了一种统一软件开发(Dev)和软�
 
 使用 Docker 时，交付是围绕基础设施进行的。这些解决方案正在被构建到容器中，然后被一个阶段一个阶段地测试和推广。Docker 映像本质上是不可变的，这确保了无论测试什么，都可以不加修改地提升到生产环境中。环境特定的配置是通过环境变量获得的。这种方法是 Docker 和 Software AG 的标准，不会偏离它。
 
-[![](../Images/4cf0ac6f9f778c158918d0f99758a9c8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--axjaQPF---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/Devops_4.jpg/3492154b-2dbd-4d80-9b95-8d8892d3cf15%3Ft%3D1539612306503) 
+[![](img/4cf0ac6f9f778c158918d0f99758a9c8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--axjaQPF---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/Devops_4.jpg/3492154b-2dbd-4d80-9b95-8d8892d3cf15%3Ft%3D1539612306503) 
 
 **图 4:** 完成 Docker CI/CD 流程
 

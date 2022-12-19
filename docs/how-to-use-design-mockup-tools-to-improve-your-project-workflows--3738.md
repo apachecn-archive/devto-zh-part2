@@ -3,7 +3,7 @@
 > 原文：<https://dev.to/_robynedgar/how-to-use-design-mockup-tools-to-improve-your-project-workflows--3738>
 
 *供稿 [Alex Verdurmen](https://www.linkedin.com/in/alex-verdurmen-11198613/) ，Hifyre*
-[![alt text](../Images/eb42ab00d9d84f79ee5e5450e1768245.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cTD7fU4z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2A5OwqyBnnjpunhAAKHa64Dw.png)
+[![alt text](img/eb42ab00d9d84f79ee5e5450e1768245.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cTD7fU4z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2A5OwqyBnnjpunhAAKHa64Dw.png)
 
 每个开发人员都知道，没有什么比完成一个项目后，当界面设计人员改变一个小细节并对代码库进行重大修改时，不得不重新访问它更令人沮丧的了。Flinto 和其他 UX/UI 设计模型工具使这种挫败感可以忽略不计，同时优化了开发人员和设计人员在项目上的时间。
 
@@ -11,13 +11,13 @@
 
 这是设计师和可用性专家轻松模拟和演示应用程序初步功能的一种方式。使用 Flinto 创建的设计可以是非常基础的基于线框的设计，也可以是完全开发的艺术。无论如何，该工具都可以轻松地让公司在应用程序中演示互动，而不仅仅是初始屏幕。
 
-[![alt text](../Images/a5b6ba41d3ed2f121da29d4f382fa301.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N35SXLv6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AuAeR8dPb3c1oxxnazGNR1Q.png)
+[![alt text](img/a5b6ba41d3ed2f121da29d4f382fa301.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N35SXLv6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AuAeR8dPb3c1oxxnazGNR1Q.png)
 
 从操作上来说，我们在 [Hifyre](https://hifyre.com) 在计划和执行之间的开发阶段早期使用我们的原型软件。这是一个优秀的工具，它赋予了产品开发早期阶段的所有发现、规划和业务目标映射以生命。通过以这种方式处理我们的项目，我们很快给正在构建的应用程序带来活力，并验证我们在整个初始阶段所做的假设。与如何使用它同样重要的是，Flinto 允许我们在不投入大量时间开发实际产品的情况下构建项目原型，并且从长远来看，通过试错过程最终会浪费时间和金钱。由于设计模型工具的效用，我们逐渐将这一步骤引入到我们的每一个即将到来的项目中。
 
 ### 作为一名开发人员，设计模型工具如何让我的工作变得更容易？
 
-[![alt text](../Images/91fe86623389402e537575ff37dd4da9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T6GsmnNt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A9Kpu60QUzUw_FCVVZjYD_g.gif)
+[![alt text](img/91fe86623389402e537575ff37dd4da9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T6GsmnNt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A9Kpu60QUzUw_FCVVZjYD_g.gif)
 
 像 Flinto 这样的工具的最大价值是，它让参与产品开发过程的每个人都变得更容易，从构思到执行。
 

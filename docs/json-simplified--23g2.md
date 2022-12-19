@@ -4,7 +4,7 @@
 
 *本文原载于[programmingliftoff.com](http://programmingliftoff.com/)上，为 [JSON 简体](http://programmingliftoff.com/json-simplified/)。*
 
-[![Website with JSON data](../Images/08333b6b2c8635e862443a6f051e3de1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qfe3vebm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xf8uquh4inpw27s1b0z7.png)
+[![Website with JSON data](img/08333b6b2c8635e862443a6f051e3de1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qfe3vebm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xf8uquh4inpw27s1b0z7.png)
 
 JSON 是当今网络的重要组成部分。这对于任何用 JavaScript 编程的人来说都是不可避免的。JSON 代表 JavaScript 对象符号。JavaScript 中使用 AJAX 请求向服务器请求 JSON 数据。AJAX 代表异步 JavaScript 和 XML。XML 是一种曾经代替 JSON 使用的数据格式，但是今天 JSON 已经成为这个领域的主导。在本教程的最后，我们将有一个简单的本地网页，它发送一个 AJAX 请求，请求我们上传到服务器的 JSON 数据，然后在本地网页上显示这些数据。我们开始吧！
 ***注**:如果你从视频中学得更好，点击这里观看视频演练: [JSON 简化版 YouTube 视频](https://youtu.be/dK90uu-nycA)。*
@@ -55,7 +55,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 然后在浏览器中打开该文件。这通常可以通过在 Finder 或 Windows 资源管理器中双击文件来完成。您也可以尝试在文本编辑器中右键单击该文件，选择“复制完整路径”，然后将该路径粘贴到您的 web 浏览器中(例如 Chrome)。您现在应该会看到以下网页
 
-[![Image of simple webpage displaying JSON data](../Images/c447085e1b277b86aea6a750bc858bbd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MzbHJa9U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://programmingliftoff.com/wp-content/uploads/2018/02/json-simplified-webpage.png)
+[![Image of simple webpage displaying JSON data](img/c447085e1b277b86aea6a750bc858bbd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MzbHJa9U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://programmingliftoff.com/wp-content/uploads/2018/02/json-simplified-webpage.png)
 
 现在让我解释一下这是怎么回事。
 

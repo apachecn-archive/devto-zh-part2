@@ -6,4 +6,4 @@
 
 了解棱角分明的🅰️的最新动态🆕
 
-[![Angular 6 Release: What’s New?](../Images/c6a8477fafe90f28bf023edc195e4969.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zYrFlnaT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pp1e2143rw2vlvjqjqid.png)
+[![Angular 6 Release: What’s New?](img/c6a8477fafe90f28bf023edc195e4969.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zYrFlnaT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pp1e2143rw2vlvjqjqid.png)

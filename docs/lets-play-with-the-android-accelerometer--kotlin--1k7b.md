@@ -12,7 +12,7 @@ Android 设备往往配有一系列传感器，使设备能够与周围的环境
 
 这已经很好了，我们可以在我们的应用中做一系列的可能性，这些传感器允许终端了解你周围的环境，但传感器只不过是从外部捕捉信息的电子部件，应用程序应该将这些信息转换为数据来使用它们。
 
-[![sensors](../Images/f4768cd224fa80314fcddd622e3132f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QLKcY5fp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AHgTref-c5Lh_kX33yQC8-g.jpeg)
+[![sensors](img/f4768cd224fa80314fcddd622e3132f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QLKcY5fp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AHgTref-c5Lh_kX33yQC8-g.jpeg)
 
 使用传感器的活动必须实现接口 SensorEventListener，该接口将强制我们实现方法**onAccuracyChanged()**y**onSensorChanged()**。
 
@@ -22,7 +22,7 @@ Android 设备往往配有一系列传感器，使设备能够与周围的环境
 
 android 中的传感器主题非常大，一篇文章根本无法涵盖，因此在这种情况下，我们将构建一个加速度计应用程序 metallball💥。
 
-[![final app](../Images/0aec8fc505dffbdb58c3ced0dcd0e890.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_V1Lajyq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AXvbMaUpE-EWxZ-2ZTjppgw.gif)
+[![final app](img/0aec8fc505dffbdb58c3ced0dcd0e890.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_V1Lajyq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AXvbMaUpE-EWxZ-2ZTjppgw.gif)
 
 但首先要具体介绍一下这个传感器。
 
@@ -30,7 +30,7 @@ android 中的传感器主题非常大，一篇文章根本无法涵盖，因此
 
 利用这种传感器，有可能确定终端在现实世界中的方位🌎，将设备的中点视为坐标轴。
 
-[![device](../Images/ea0996a597d11542d9db73a36e0eb5eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WXmW8Igw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AoyiKkfu-3zGIIqwk9mLIzw.png)
+[![device](img/ea0996a597d11542d9db73a36e0eb5eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WXmW8Igw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AoyiKkfu-3zGIIqwk9mLIzw.png)
 
 加速度计计算 3 个轴(x，y，z)中每个轴的线性加速度；每个轴都有自己的加速度计，因此可以单独接收数据。
 

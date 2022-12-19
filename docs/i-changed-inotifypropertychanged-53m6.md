@@ -131,7 +131,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 非常感谢您为我测试了这个解决方案！
 
-[![jeuxjeux20 image](../Images/e2edd2633b63e356b93c7b9b7f03cf62.png)](/jeuxjeux20)
+[![jeuxjeux20 image](img/e2edd2633b63e356b93c7b9b7f03cf62.png)](/jeuxjeux20)
 
 ## [第二十届奥运会](/jeuxjeux20)
 

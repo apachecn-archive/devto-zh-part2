@@ -12,7 +12,7 @@
 
 最终的结果会是这样的:
 
-[![api_gw_lambda_aspnetcore](../Images/28773925d5f128de588fbac0f2483294.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0cg0HsCj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1be13u90bvutctdgh7ow.png)
+[![api_gw_lambda_aspnetcore](img/28773925d5f128de588fbac0f2483294.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0cg0HsCj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1be13u90bvutctdgh7ow.png)
 
 ## 先决条件
 
@@ -163,7 +163,7 @@ serverless deploy -v
 
 这应该会产生类似这样的结果:
 
-[![serverless-log](../Images/8d44dc2457ab69f280c30c0ec500e8bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gvb26h1L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xfq6xey3mdxyxntget6v.png)
+[![serverless-log](img/8d44dc2457ab69f280c30c0ec500e8bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gvb26h1L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xfq6xey3mdxyxntget6v.png)
 
 复制突出显示的链接，用 api/values 替换{proxy+}，您应该会得到和以前一样的结果！恭喜你。
 

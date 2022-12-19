@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/canderson93/6-tips-for-making-a-responsive-website-from-scratch-4427>
 
-[![6 Tips for making a responsive website from scratch](../Images/d7ae2af1e12f1192e05bff54287c0305.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QoRFHR-7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1534412027333-5e25ba9074f5%3Fixlib%3Drb-0.3.5%26q%3D80%26fm%3Djpg%26crop%3Dentropy%26cs%3Dtinysrgb%26w%3D1080%26fit%3Dmax%26ixid%3DeyJhcHBfaWQiOjExNzczfQ%26s%3Db01235b6f450c1f8a2ed8413f67b2b97)
+[![6 Tips for making a responsive website from scratch](img/d7ae2af1e12f1192e05bff54287c0305.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QoRFHR-7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1534412027333-5e25ba9074f5%3Fixlib%3Drb-0.3.5%26q%3D80%26fm%3Djpg%26crop%3Dentropy%26cs%3Dtinysrgb%26w%3D1080%26fit%3Dmax%26ixid%3DeyJhcHBfaWQiOjExNzczfQ%26s%3Db01235b6f450c1f8a2ed8413f67b2b97)
 
 当你开始使用 CSS 和 web 时，很容易进入 Bootstrap 或布尔玛这样的框架。它们是快速原型制作和掌握如何建立网站的极好工具。然而，这些框架是固执己见的，随着我们的成长，我们遇到了一个点，这是更多的痛苦而不是好处——如果我每次看到有人说“我只对列使用 bootstrap”时，我都有五分钱的话
 

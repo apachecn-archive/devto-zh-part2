@@ -26,7 +26,7 @@ Angular 7 在这里，一点也不诡异！这篇文章重点介绍了 Angular 7
 
 之后，试着通过简单地输入 ng new + enter 来创建一个新的应用程序。
 
-[![image_1](../Images/9212f5ba496615f84f26cae90c0065eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fy7W4bm6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.telerik.com/sfimages/default-source/blogs/angular-v-7/image_1.gif%3Fsfvrsn%3Dfbe50836_2)
+[![image_1](img/9212f5ba496615f84f26cae90c0065eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fy7W4bm6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.telerik.com/sfimages/default-source/blogs/angular-v-7/image_1.gif%3Fsfvrsn%3Dfbe50836_2)
 
 除了提示符之外，Angular.io 现在[还包含了 CLI 的文档！](https://angular.io/cli)
 
@@ -42,7 +42,7 @@ Angular 7 在这里，一点也不诡异！这篇文章重点介绍了 Angular 7
 
 Angular Material 今年有了许多新的更新，包括 Material 的新主页， [material.io](https://material.io/) 。在这里，您可以获得设计指导、开发组件、工具，并了解最新消息。
 
-[![image_2](../Images/32d58c7204d8bbd5b0a23c703ab0f6f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZfZpy-nk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.telerik.com/sfimages/default-source/blogs/angular-v-7/image_2.png%3Fsfvrsn%3D35fd3885_2)
+[![image_2](img/32d58c7204d8bbd5b0a23c703ab0f6f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZfZpy-nk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.telerik.com/sfimages/default-source/blogs/angular-v-7/image_2.png%3Fsfvrsn%3D35fd3885_2)
 
 如果您是一个角度材质用户，从 v7 开始，您应该会注意到一些微小的视觉差异，因为库会根据材质设计的更新规范进行自我调整。
 
@@ -62,7 +62,7 @@ T2】
 
 这是 Angular Material 的 StackBlitz，他们创建它来玩虚拟滚动。当我们滚动时，您可以看到 DOM 中的元素发生了变化！
 
-[![image_3](../Images/e16080bf678b694b9802179051d7a464.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6QdxxQwC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.telerik.com/sfimages/default-source/blogs/angular-v-7/image_3.gif%3Fsfvrsn%3D2d9a393d_2)
+[![image_3](img/e16080bf678b694b9802179051d7a464.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6QdxxQwC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.telerik.com/sfimages/default-source/blogs/angular-v-7/image_3.gif%3Fsfvrsn%3D2d9a393d_2)
 
 ### 拖动&下降
 
@@ -71,7 +71,7 @@ CDK 现在还支持拖放功能，包括以下漂亮的特性:
 *   当用户移动项目时自动呈现
 *   列表中重新排序/转移项目的帮助器方法:moveItemInArray 和 transferArrayItem
 
-[![image_4](../Images/41db479c4edcdd5953c6f65d8e0703d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yjNn1oID--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.telerik.com/sfimages/default-source/blogs/angular-v-7/image_4.gif%3Fsfvrsn%3Dbe68b803_2)
+[![image_4](img/41db479c4edcdd5953c6f65d8e0703d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yjNn1oID--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.telerik.com/sfimages/default-source/blogs/angular-v-7/image_4.gif%3Fsfvrsn%3Dbe68b803_2)
 
 ## 提升应用性能
 
@@ -97,7 +97,7 @@ CDK 现在还支持拖放功能，包括以下漂亮的特性:
 
 如果您对检查您的包大小感到好奇，您需要做的就是在您的 Angular 应用程序上运行 ng serve:
 
-[![image_5](../Images/f3047af13ba8bec0ab0c04a418f4bc0d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NeI3685d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.telerik.com/sfimages/default-source/blogs/angular-v-7/image_5.png%3Fsfvrsn%3D74c117fe_2)
+[![image_5](img/f3047af13ba8bec0ab0c04a418f4bc0d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NeI3685d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.telerik.com/sfimages/default-source/blogs/angular-v-7/image_5.png%3Fsfvrsn%3D74c117fe_2)
 
 ### 剥离生产中的反射元数据聚合填充
 
@@ -130,6 +130,6 @@ CDK 现在还支持拖放功能，包括以下漂亮的特性:
 *   通知还不能在 v7 上使用。不要害怕，我们在这个案子上
 *   你会发现一些关于对等依赖的警告，需要较低版本的 Angular。这些都很好，它们只是意味着我们还没有用每个包测试 v7，因此还没有更新 npm 上的对等依赖。
 
-[![image_6](../Images/d5b52055f513eb22e833b445c77517fc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Z0UlS4_k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.telerik.com/sfimages/default-source/blogs/angular-v-7/image_6.gif%3Fsfvrsn%3D7d49fa2b_2)
+[![image_6](img/d5b52055f513eb22e833b445c77517fc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Z0UlS4_k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.telerik.com/sfimages/default-source/blogs/angular-v-7/image_6.gif%3Fsfvrsn%3D7d49fa2b_2)
 
 我们剑道 UI Angular 团队对此激动人心的 v7 版本感到无比高兴！我们有几件事情要解决(见上文)，但总的来说，我们对 v7 中有多少组件开箱即可工作感到兴奋。我们感谢 Angular 团队的辛勤工作，并期待这一光明的常春藤未来。看看我们的恒星剑道 UI 组件，这里有角度的[和快乐的编码！](https://www.telerik.com/kendo-angular-ui-develop/components/)

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/elemarjr/implementing-parallel-reduction-in-cuda-3pbg>
 
-[![](../Images/60132a8304fb8b7236706571d11eb125.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cCfzkxNN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/parallel_reduce-280x300.png)
+[![](img/60132a8304fb8b7236706571d11eb125.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cCfzkxNN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/parallel_reduce-280x300.png)
 
 归约操作是将值集合归约为单个值的操作。在本帖中，我将分享如何使用 CUDA 实现并行归约操作。
 
@@ -12,7 +12,7 @@
 
 有趣的问题是:你如何计算它？很可能你的第一个回答会是这样做的((((((((13+27)+15)+14)+33)+2)+24)+6)。我说的对吗？
 
-[![](../Images/bfc8022856076e9750138d4734bbc878.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tWsgGV2o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/sequential_sum.png)
+[![](img/bfc8022856076e9750138d4734bbc878.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tWsgGV2o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/sequential_sum.png)
 
 这种方法的问题是无法并行化。为什么？每一步都取决于前一步的结果。
 
@@ -20,7 +20,7 @@
 
 添加值是一种关联操作。所以，我们可以这样试一下((13+27)+(15+14))+((33+2)+(24+6))
 
-[![](../Images/d911ad3b1ba889ee8850e86c37cfcfcf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K4tSjq1p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/parallel_sum.png)
+[![](img/d911ad3b1ba889ee8850e86c37cfcfcf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K4tSjq1p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/parallel_sum.png)
 
 这种方式要好得多，因为现在我们可以并行执行它！
 
@@ -28,7 +28,7 @@
 
 让我们来看看如何使用 CUDA 来实现它。
 
-[![](../Images/d52ad9240095367a22a16fa41c4e260d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m_8rvXur--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/parallel_reduce.png)
+[![](img/d52ad9240095367a22a16fa41c4e260d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m_8rvXur--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/parallel_reduce.png)
 
 主要观点如下:
 

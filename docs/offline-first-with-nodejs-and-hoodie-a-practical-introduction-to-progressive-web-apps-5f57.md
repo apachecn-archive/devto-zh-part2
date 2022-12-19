@@ -25,9 +25,9 @@ npm install
 
 以下是您将要建立的目标:
 
-[![](../Images/bd573d0dcb960b1604e758ca164fccfa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0kR7rRmz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/03/81wGimLqxB8U3xtzvB3rJnrrGo39fK3BsQFzodw63_B0TuD3gOzpMR7X5NGn-I07XpxJ3sKGwisV9qXnNO9eEWsMgzLvVlIB43w_-ydgmjvZet8dB5MX8BrN26YFWgTw7WLxoriz.png)
+[![](img/bd573d0dcb960b1604e758ca164fccfa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0kR7rRmz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/03/81wGimLqxB8U3xtzvB3rJnrrGo39fK3BsQFzodw63_B0TuD3gOzpMR7X5NGn-I07XpxJ3sKGwisV9qXnNO9eEWsMgzLvVlIB43w_-ydgmjvZet8dB5MX8BrN26YFWgTw7WLxoriz.png)
 
-[![](../Images/fe89a2c00b8359e3fc63ec0b260eba3f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z3mt8c7Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/03/1SZ-kxjbuM83S4pmMZ0LzgtUE0diKobqJtEFqGW0KQWnTh5Js0CqRNVmLQFh_XAXuFoxzrH04iTOWl9K0coAbygVoCBLjpdIdrh1nyrJhd9bSuoQwj2BviIYoJYMh39K8JYF_FwQ.png)
+[![](img/fe89a2c00b8359e3fc63ec0b260eba3f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z3mt8c7Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/03/1SZ-kxjbuM83S4pmMZ0LzgtUE0diKobqJtEFqGW0KQWnTh5Js0CqRNVmLQFh_XAXuFoxzrH04iTOWl9K0coAbygVoCBLjpdIdrh1nyrJhd9bSuoQwj2BviIYoJYMh39K8JYF_FwQ.png)
 
 该应用程序允许将商品及其价格添加到列表中，保存它，并在单独的页面上查看摘要。
 
@@ -178,7 +178,7 @@ function init() {
 
 在命令行中运行命令`npm start`来启动服务器。在浏览器中打开 [http://localhost:8080](http://localhost:8080) ，您应该会看到页面已经加载完毕，可以使用了。通过添加和删除一些项目进行测试:
 
-[![](../Images/bac6e89a30ce50684639cf03cb848335.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X4gJ6GmG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/03/WWkwSfo19pxjXhJNFq2igwF4d6jx7TVzH_4XPnh-QST5VY6wgrJDHC7a5ki4kLyAQY_HdEd5ytL4PIUrtc5wq33jR2sNg_df7HFgJ7RQWZzkDDOmujKPVuQ7L7wq8v5NNsOTP6A1.png)
+[![](img/bac6e89a30ce50684639cf03cb848335.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X4gJ6GmG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/03/WWkwSfo19pxjXhJNFq2igwF4d6jx7TVzH_4XPnh-QST5VY6wgrJDHC7a5ki4kLyAQY_HdEd5ytL4PIUrtc5wq33jR2sNg_df7HFgJ7RQWZzkDDOmujKPVuQ7L7wq8v5NNsOTP6A1.png)
 
 我们可以看到我们的列表工作了，数据被保存了。但是这些数据只存储在本地，并不保存在服务器上。我们如何让它将数据推送到服务器？
 
@@ -356,7 +356,7 @@ npm run build
 
 如有必要，重新启动服务器(`npm start`)，刷新页面，然后尝试注册、登录和注销
 
-[![](../Images/362f67c262c18d67cc6f20a1f0f0ce81.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VYI4Sq8v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/03/MFgw39sCu5LemsduhV9-6kcoTpiJQyfZ2LSahDt2VnmLgZYv3X7mIwEocSbFUXo5G6NhFORSZ4_ZD6JESCnpFrOsXPvnyFjXVk8JZD5u08B6xfhkj_sKfaxHT0zsESv7LtEnI2L4.png)
+[![](img/362f67c262c18d67cc6f20a1f0f0ce81.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VYI4Sq8v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/03/MFgw39sCu5LemsduhV9-6kcoTpiJQyfZ2LSahDt2VnmLgZYv3X7mIwEocSbFUXo5G6NhFORSZ4_ZD6JESCnpFrOsXPvnyFjXVk8JZD5u08B6xfhkj_sKfaxHT0zsESv7LtEnI2L4.png)
 
 # 保存购物清单和查看历史记录
 
@@ -371,7 +371,7 @@ npm run build
 
 如果您将代码从这些源代码复制到您的工作目录中，请再次运行构建脚本(`npm run build`)并刷新页面。如果有效，添加一些项目并保存列表。当您转到历史页面时，您应该在那里看到保存的列表:
 
-[![](../Images/ba30372630ce7e302a86c9f5a239768d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MM0xf_D1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/03/26Dop4gvU_JNU8bnEHaeb-5IFu-fSLzTex6OARsORc5lQm6f95rN307apMDG458d0h3NeFDDnp96CxTqW6Xwk0_vK6Yq8LG_mGp4HbAhIsAmY-1ds8uIQLxpYihQ1cGwK2i4SOPA.png)
+[![](img/ba30372630ce7e302a86c9f5a239768d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MM0xf_D1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/03/26Dop4gvU_JNU8bnEHaeb-5IFu-fSLzTex6OARsORc5lQm6f95rN307apMDG458d0h3NeFDDnp96CxTqW6Xwk0_vK6Yq8LG_mGp4HbAhIsAmY-1ds8uIQLxpYihQ1cGwK2i4SOPA.png)
 
 干得好，真的是走到一起了！现在让我们讨论一下如何让我们的应用程序适应无缝离线使用。
 
@@ -408,7 +408,7 @@ if ("serviceWorker" in navigator) {
 
 如果你还没有，打开你的浏览器 JavaScript 控制台(这里是如何在 [Chrome](https://developers.google.com/web/tools/chrome-devtools/console/?utm_source=dcc&utm_medium=redirect&utm_campaign=2016q3) 、 [Firefox](https://developer.mozilla.org/en-US/docs/Tools/Browser_Console) 和 [Edge](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide/console) 中操作)，你应该会看到一些关于服务人员的内容被打印到控制台。在您的开发工具中导航到应用程序选项卡(或者类似的，如果您不在 Chrome 中),并在侧菜单中单击“服务人员”,您应该会看到类似于此屏幕的内容:
 
-[![](../Images/cfba8b75883f28d0d7f6a25d950309b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rdiEwsz---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/03/dMunIdK88bKlfquLZFr5aE3jOx4mLDQSFFF5nhN5YnhOYaf9_tJUSvlYfmSs7C3wY5UseMQoP4ybbeAiMjwG2Xfk90kOGgxXuadIC6RIYjAUp4GZrzvbzr2NqjcOMGaQTSyWfxQF.png)
+[![](img/cfba8b75883f28d0d7f6a25d950309b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rdiEwsz---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/03/dMunIdK88bKlfquLZFr5aE3jOx4mLDQSFFF5nhN5YnhOYaf9_tJUSvlYfmSs7C3wY5UseMQoP4ybbeAiMjwG2Xfk90kOGgxXuadIC6RIYjAUp4GZrzvbzr2NqjcOMGaQTSyWfxQF.png)
 
 注册服务人员将导致浏览器在后台启动服务人员`install`步骤。在这个安装步骤中，我们希望获取和缓存我们的资产。
 
@@ -460,7 +460,7 @@ self.addEventListener("install", function(event) {
 
 刷新页面，这将触发服务人员的注册。如果您使用 Chrome(或您首选的开发浏览器中的开发工具)，请在 DevTools 中打开“应用程序”选项卡，单击打开“缓存”菜单，您应该会找到一个与我们使用的名称相同的缓存。点击它，你会看到文件列在那里
 
-[![](../Images/54d2097abd2b6c3dc3b8c87edfc97071.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kDPHc-Kn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/03/xIvEH5AVhrOC_FgsvVdIfe7odplyDs818gbjPwwAP88rRVaXw3Vh2aSxHPWy7b1HzULylAvVWAep2uppi-gpKlt2hJHQxFXoRZFDN6cTyrJIOyP3sIPvHNHEW1kg1Rnqe8xHAI14.png)
+[![](img/54d2097abd2b6c3dc3b8c87edfc97071.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kDPHc-Kn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/03/xIvEH5AVhrOC_FgsvVdIfe7odplyDs818gbjPwwAP88rRVaXw3Vh2aSxHPWy7b1HzULylAvVWAep2uppi-gpKlt2hJHQxFXoRZFDN6cTyrJIOyP3sIPvHNHEW1kg1Rnqe8xHAI14.png)
 
 我们已经将我们的资产添加到了缓存中，但是我们需要在浏览器每次发出请求时为其提供缓存的资产。为了做到这一点，我们监听每次浏览器将要发出请求时调用的`fetch`事件。
 
@@ -483,18 +483,18 @@ self.addEventListener("fetch", function(event) {
 
 保存`sw.js`，再次打开并刷新页面，重新安装维修人员。您可能会注意到服务人员停在了激活步骤:
 
-[![](../Images/ed65c13844db96c29ab1e28649fcf4c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JCHYLewR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/03/PLzu84mpBQuT-OnA7tVY-ua4DHlbDpyeAMWYQFuu7kGuF0EPenq3jGEX8_44yK8tyXSAY4ZZ03Z2MB3aTqqAGpo0Z1MH8h39SVa2hTJDHsJL2xJijJWmjFGBa6Cr_LM1g0hJkssJ.png)
+[![](img/ed65c13844db96c29ab1e28649fcf4c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JCHYLewR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/03/PLzu84mpBQuT-OnA7tVY-ua4DHlbDpyeAMWYQFuu7kGuF0EPenq3jGEX8_44yK8tyXSAY4ZZ03Z2MB3aTqqAGpo0Z1MH8h39SVa2hTJDHsJL2xJijJWmjFGBa6Cr_LM1g0hJkssJ.png)
 
 单击跳过等待链接立即激活它。
 
 刷新页面，查看从“网络”选项卡中的服务人员
 加载的资产:
 
-[![](../Images/307a3a1567dca94b01073496ab365593.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8rEJ4xQB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/03/CHlTkcvGpasgSzvFI8DFeQq5EvnM1soO19lB_upAjroU4zaO7_pktIxAFvkIOU_6BZCxcz3ZfrqYX8u40-XKAMCV4RCTCOUNUkeKvSTFx_N08bNJ65QZJPhbiRSLyh5EBDQVsGMs.png)
+[![](img/307a3a1567dca94b01073496ab365593.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8rEJ4xQB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/03/CHlTkcvGpasgSzvFI8DFeQq5EvnM1soO19lB_upAjroU4zaO7_pktIxAFvkIOU_6BZCxcz3ZfrqYX8u40-XKAMCV4RCTCOUNUkeKvSTFx_N08bNJ65QZJPhbiRSLyh5EBDQVsGMs.png)
 
 然后，您可以在开发工具中选择离线网络节流选项，刷新页面并浏览以查看它的工作情况:
 
-[![](../Images/c9c8135020557adabf55cf4dd752cf5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ESgpd__L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/03/WH50vyewOHRfvj9udO-BcfpxqGX1hc_G_ZA6Lb5jeP2HohUXNBcUV7h-OLopeP100FWUR2pImFiVGk_Egjoco_V1EuxvpjTcbQmP6sEIFe2ADWtGtbhQUKhSeaFJWj8-59Kr8vXS.png)
+[![](img/c9c8135020557adabf55cf4dd752cf5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ESgpd__L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.twilio.com/blog/wp-content/uploads/2018/03/WH50vyewOHRfvj9udO-BcfpxqGX1hc_G_ZA6Lb5jeP2HohUXNBcUV7h-OLopeP100FWUR2pImFiVGk_Egjoco_V1EuxvpjTcbQmP6sEIFe2ADWtGtbhQUKhSeaFJWj8-59Kr8vXS.png)
 
 # 就这么定了！
 

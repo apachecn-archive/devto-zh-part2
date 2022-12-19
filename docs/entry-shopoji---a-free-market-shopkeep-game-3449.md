@@ -10,7 +10,7 @@ Shopoji 是一款单人游戏，在这里你可以买卖存货。表情符号市
 
 ## 试玩
 
-[![GIF of gameplay](../Images/f4ad4fed61d1b053553d59b91b83f852.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w3rUGXcf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/ItsASine/shopoji/master/public/assets/img/shopoji.gif)
+[![GIF of gameplay](img/f4ad4fed61d1b053553d59b91b83f852.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w3rUGXcf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/ItsASine/shopoji/master/public/assets/img/shopoji.gif)
 
 [链接到更多信息和现场演示](http://shopoji.xyz)
 
@@ -51,7 +51,7 @@ Shopoji 是一款单人游戏，在这里你可以买卖存货。表情符号市
 
 现在，我最大的问题是:
 
-[![No channel_data apparently, so no auth](../Images/2a0fa265177220010fc50a673e533f4d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K66Y4pfC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/ELRsnyh.png)
+[![No channel_data apparently, so no auth](img/2a0fa265177220010fc50a673e533f4d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K66Y4pfC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/ELRsnyh.png)
 
 我在上一篇文章中提出的“尝试切换到存在通道”的想法完全行不通。目前，我将坚持使用公共频道，并在 2.0 中引入用户意识。
 
@@ -77,7 +77,7 @@ AWS 是有压力的，但是从全局来看并没有花费太多时间。在 JS 
 
 我用一周的时间做了一个 app。这太令人兴奋了。
 
-[![Git Log](../Images/db8ff35abc5b57c11f137ca000ae93ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--veaNJEv---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/2LD5ZLa.png)
+[![Git Log](img/db8ff35abc5b57c11f137ca000ae93ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--veaNJEv---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/2LD5ZLa.png)
 
 我的教育背景(和前景，由于研究生院)是数学，我的工作是软件测试自动化。下一次当我对编码有所察觉时，**我在一周内开发并发布了一个应用程序**。
 
@@ -104,19 +104,19 @@ AWS 是有压力的，但是从全局来看并没有花费太多时间。在 JS 
 
 ## 沿途设卡
 
-[![itsasine](../Images/3849aa01c92d200e0764b4a9ed4cb805.png)](/itsasine) [## 推销商店游戏-最初的想法
+[![itsasine](img/3849aa01c92d200e0764b4a9ed4cb805.png)](/itsasine) [## 推销商店游戏-最初的想法
 
 ### 伊塔辛(凯拉)5 月 5 日 183 分钟阅读
 
-#pushercontest #inprogress](/itsasine/pusher-shopkeep-game---initial-idea-36po)[![itsasine](../Images/3849aa01c92d200e0764b4a9ed4cb805.png)](/itsasine) [## 推动器项目-为什么我永远不会是 Devops
+#pushercontest #inprogress](/itsasine/pusher-shopkeep-game---initial-idea-36po)[![itsasine](img/3849aa01c92d200e0764b4a9ed4cb805.png)](/itsasine) [## 推动器项目-为什么我永远不会是 Devops
 
 ### 伊塔辛(凯拉)5 月 6 日 182 分钟阅读
 
-#pushercontest #inprogress](/itsasine/pusher-project---why-ill-never-be-devops-520d)[![itsasine](../Images/3849aa01c92d200e0764b4a9ed4cb805.png)](/itsasine) [## Shopoji -具有工作效果的初始前端！
+#pushercontest #inprogress](/itsasine/pusher-project---why-ill-never-be-devops-520d)[![itsasine](img/3849aa01c92d200e0764b4a9ed4cb805.png)](/itsasine) [## Shopoji -具有工作效果的初始前端！
 
 ### 伊塔辛(凯拉)5 月 9 日 182 分钟阅读
 
-#pushercontest #inprogress](/itsasine/shopoji---initial-front-end-with-working-effects-i56)[![itsasine](../Images/3849aa01c92d200e0764b4a9ed4cb805.png)](/itsasine) [## Shopoji - Pusher 存在渠道很酷
+#pushercontest #inprogress](/itsasine/shopoji---initial-front-end-with-working-effects-i56)[![itsasine](img/3849aa01c92d200e0764b4a9ed4cb805.png)](/itsasine) [## Shopoji - Pusher 存在渠道很酷
 
 ### 伊塔辛(凯拉)5 月 13 日 182 分钟阅读
 

@@ -30,7 +30,7 @@
 
 主要项目
 
-## ![](../Images/375dfcc32199b4dedf2b526645c27ff7.png) [果冻鳍](https://github.com/jelly-fin) / [果冻鳍](https://github.com/jelly-fin/jelly-fin)
+## ![](img/375dfcc32199b4dedf2b526645c27ff7.png) [果冻鳍](https://github.com/jelly-fin) / [果冻鳍](https://github.com/jelly-fin/jelly-fin)
 
 ### 预测理财的简单方法。我们应该让我们的钱自动化，而不是让它让我们自动化。
 
@@ -38,7 +38,7 @@
 
 # 果冻鳍
 
-[![Discord](../Images/bf8def81f5f6dfa4dd4a20e0d945e47f.png)](https://discord.gg/xveZ3FT)[![Dependabot Status](../Images/94bd21df2579a5584a03abe562a243fc.png)](https://dependabot.com)[![PRs Welcome](../Images/0693df776702fb305cf04c68313485c9.png)](http://makeapullrequest.com)[![contributions welcome](../Images/91facb8c3238bb48c2d06f204f9f4300.png)](https://github.com/jelly-fin/jelly-fin/issues)[![Inline docs](../Images/f2c655e66aea63967dd96ec6735bc68c.png)](http://inch-ci.org/github/jelly-fin/jelly-fin)[![Build Status](../Images/5ce9486d2302f941ff02738196df7436.png)](https://travis-ci.com/jelly-fin/jelly-fin)[![codecov](../Images/d60e2a0922e4863240ff908656054103.png)](https://codecov.io/gh/jelly-fin/jelly-fin)
+[![Discord](img/bf8def81f5f6dfa4dd4a20e0d945e47f.png)](https://discord.gg/xveZ3FT)[![Dependabot Status](img/94bd21df2579a5584a03abe562a243fc.png)](https://dependabot.com)[![PRs Welcome](img/0693df776702fb305cf04c68313485c9.png)](http://makeapullrequest.com)[![contributions welcome](img/91facb8c3238bb48c2d06f204f9f4300.png)](https://github.com/jelly-fin/jelly-fin/issues)[![Inline docs](img/f2c655e66aea63967dd96ec6735bc68c.png)](http://inch-ci.org/github/jelly-fin/jelly-fin)[![Build Status](img/5ce9486d2302f941ff02738196df7436.png)](https://travis-ci.com/jelly-fin/jelly-fin)[![codecov](img/d60e2a0922e4863240ff908656054103.png)](https://codecov.io/gh/jelly-fin/jelly-fin)
 
 * * *
 
@@ -69,7 +69,7 @@
 
 新闪亮宝贝网络项目
 
-## ![](../Images/375dfcc32199b4dedf2b526645c27ff7.png) [果冻鳍](https://github.com/jelly-fin) / [果冻鳍网](https://github.com/jelly-fin/jelly-fin-web)
+## ![](img/375dfcc32199b4dedf2b526645c27ff7.png) [果冻鳍](https://github.com/jelly-fin) / [果冻鳍网](https://github.com/jelly-fin/jelly-fin-web)
 
 <article class="markdown-body entry-content" itemprop="text">
 
@@ -109,4 +109,4 @@ npm run test:unit
 
 [View on GitHub](https://github.com/jelly-fin/jelly-fin-web)
 
-[![Fork Me](../Images/5114c2ce5611917c99314858a8073158.png)T2】](https://github.com/jelly-fin/jelly-fin)
+[![Fork Me](img/5114c2ce5611917c99314858a8073158.png)T2】](https://github.com/jelly-fin/jelly-fin)

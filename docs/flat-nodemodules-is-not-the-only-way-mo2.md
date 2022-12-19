@@ -10,13 +10,13 @@ pnpm 的新用户经常问我关于 pnpm 创建的`node_modules`的奇怪结构�
 
 那么为什么 pnpm 的`node_modules`不寻常呢？让我们创建两个目录，在其中一个运行`npm install express`,在另一个运行`pnpm install express`。下面是你在第一个目录的`node_modules`中得到的顶部内容:
 
-[![](../Images/19098b02e0d9daca3871398543e28b95.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ECmw48Gt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4iw9vko9g7l5mhcwrfj1.png)
+[![](img/19098b02e0d9daca3871398543e28b95.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ECmw48Gt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4iw9vko9g7l5mhcwrfj1.png)
 
 这里可以看到整个目录[。](https://github.com/zkochan/comparing-node-modules/tree/master/npm-example/node_modules)
 
 这是您在 pnpm 创建的`node_modules`中得到的内容:
 
-[![pnpm node_modules](../Images/fd78d0153e327765e0fd51965cf8bef0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wCQIpD-4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3n9yg9ead1tfcfxugrgd.png)
+[![pnpm node_modules](img/fd78d0153e327765e0fd51965cf8bef0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wCQIpD-4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3n9yg9ead1tfcfxugrgd.png)
 
 你可以在这里查看[。](https://github.com/zkochan/comparing-node-modules/tree/master/pnpm-example/node_modules)
 
@@ -26,7 +26,7 @@ pnpm 的新用户经常问我关于 pnpm 创建的`node_modules`的奇怪结构�
 
 让我们看看里面有什么:
 
-[![](../Images/73cd9f2d7af93964258e2d92489e06f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8bKD1bD6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8pf5cwjo8ndr7xzxu0x7.png)
+[![](img/73cd9f2d7af93964258e2d92489e06f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8bKD1bD6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8pf5cwjo8ndr7xzxu0x7.png)
 
 `express`没有`node_modules`？`express`的属地都在哪里？
 
@@ -46,11 +46,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在让我们来看看`express`的真实位置:
 
-[![](../Images/dff27b33ae83ba120f1f85c2a7c20884.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HedDouxV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/53zr83hig44wti1zpwy8.png)
+[![](img/dff27b33ae83ba120f1f85c2a7c20884.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HedDouxV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/53zr83hig44wti1zpwy8.png)
 
 是骗局吗？它还缺`node_modules`！pnpm 的`node_modules`结构的第二个技巧是包的依赖关系与依赖包的实际位置在同一个目录级别上。所以`express`的依赖关系不在`/express/4.16.4/node_modules/express/node_modules/`而是在[/express/4 . 16 . 4/node _ modules/](https://github.com/zkochan/comparing-node-modules/tree/master/pnpm-example/node_modules/.registry.npmjs.org/express/4.16.3/node_modules):
 
-[![](../Images/31795a52eb81e0ee5ca5d21faa3c43e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--683WOr2---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/09a98isedcqvhciwk2z7.png)
+[![](img/31795a52eb81e0ee5ca5d21faa3c43e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--683WOr2---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/09a98isedcqvhciwk2z7.png)
 
 `express`的所有依赖项都是指向`node_modules/.registry.npmjs.org/`中适当目录的符号链接。将`express`的依赖关系提高一级可以避免循环符号链接。
 

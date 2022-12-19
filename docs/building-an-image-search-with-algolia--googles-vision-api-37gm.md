@@ -8,7 +8,7 @@
 
 谢天谢地，现在是 2018 年，技术已经足够进步，有办法缓解这种情况。因此，我开始创建一个简单的图像搜索应用程序，它使用了 [Algolia 的](https://www.algolia.com)强大的索引和搜索体验库，其中有一系列动物照片(只是因为)，这些照片由谷歌云的[视觉 API](%5BVision%20API%20-%20Image%20Content%20Analysis%20%C2%A0%7C%C2%A0%20Google%20Cloud%5D(https://cloud.google.com/vision/)) 自动分类。
 
-[![What the app looks like](../Images/0d60167ad6b29dfaa164200830325e8a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--29Q1E83F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cl.ly/2k1m0i3R2F1L/Screen%2520Recording%25202018-03-26%2520at%252005.24%2520pm.gif)
+[![What the app looks like](img/0d60167ad6b29dfaa164200830325e8a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--29Q1E83F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cl.ly/2k1m0i3R2F1L/Screen%2520Recording%25202018-03-26%2520at%252005.24%2520pm.gif)
 
 这个示例应用程序允许用户上传图像，然后由 Vision API 自动分类(这实际上是一种有趣的“标记”方式)和颜色描述。这些结果被推到一个 Algolia 索引，然后允许他们立即搜索。
 
@@ -28,7 +28,7 @@ const imageClient = new vision.ImageAnnotatorClient();
 const classifyImage = (image, cb) => {
 
   // Use the locally stored image from the upload
-  const imageToClassify = `./public/images/${image}`;
+  const imageToClassify = `./publimg/${image}`;
 
   // Ask Google Vision what it thinks this is an image of
   imageClient
@@ -80,7 +80,7 @@ getImageLabels('./myPicture.jpg');
 
 API 返回的是一个 JSON 对象数组，如下所示(如果你上传一张树上的熊猫图片🐼):
 
-[![Said panda. In a tree. Credit: Getty Images](../Images/79a03957b06e0dec1c3adb47a85db02b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--98ZTPuqs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.telegraph.co.uk/content/dam/news/2016/08/23/106598324PandawaveNEWS_trans_NvBQzQNjv4Bqeo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg%3Fimwidth%3D300)
+[![Said panda. In a tree. Credit: Getty Images](img/79a03957b06e0dec1c3adb47a85db02b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--98ZTPuqs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.telegraph.co.uk/content/dam/news/2016/08/23/106598324PandawaveNEWS_trans_NvBQzQNjv4Bqeo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg%3Fimwidth%3D300)
 
 ```
 [{
@@ -109,7 +109,7 @@ function reduceLabelsToObject(labels) {
   const algoliaData = {
     labels: [],
     upload_date: Date.now(),
-    image_url: '/images/image.jpg'
+    image_url:img/image.jpg'
   };
 
   // Loop through the labels and add each one to the
@@ -250,7 +250,7 @@ Algolia 返回的每个结果被称为*‘命中’*。Hits 小部件允许我�
 
 在我们的示例应用程序中，点击使用[物化 CSS](%5BDocumentation%20-%20Materialize%5D(http://materializecss.com/)) 进行样式化，它们看起来像这样:
 
-[![An example hit](../Images/b72215c1272f6bd5e1e40b39a4f0d273.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VeAvxz21--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/1q2i21081a13/Image%25202018-03-26%2520at%25203.44.03%2520pm.png)
+[![An example hit](img/b72215c1272f6bd5e1e40b39a4f0d273.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VeAvxz21--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/1q2i21081a13/Image%25202018-03-26%2520at%25203.44.03%2520pm.png)
 
 上面的代码中使用了两个模板。第一个是如果没有任何结果应该显示什么。第二个是如果有结果(点击)要显示，每个结果应该是什么样子。
 

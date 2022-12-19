@@ -4,7 +4,7 @@
 
 大数据已经在 IT 行业占据了领先地位，并在业务增长和决策过程中发挥了重要作用，让您获得了超越竞争对手的优势。这同样适用于分析领域的组织和专业人员。**大数据分析，为精于此道的专业人士带来无限机遇。**
 
- **[![](../Images/1ffcecdfb85e4fa87af305ccb48fd76b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1hn91cqf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/0%2AvFt2i_olCSOsP5os.jpg)
+ **[![](img/1ffcecdfb85e4fa87af305ccb48fd76b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1hn91cqf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/0%2AvFt2i_olCSOsP5os.jpg)
 
 对分析专业人员的需求不断增长，尤其是那些身居高级管理职位的人。他强调了分析专业人员的重要性，称“没有分析数据的技能，数据就毫无用处。”与去年相比，大数据管理和分析领域有大量的工作机会，许多 IT 专业人员正准备投入时间和金钱进行培训。
 

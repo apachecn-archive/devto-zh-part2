@@ -6,7 +6,7 @@
 
 *第二部分是第一部分中用例的实现，即创建用户、组和策略来限制对某些 AWS 服务的访问:*
 
-[![david_ojeda](../Images/3982752e278540bbb2ea6a3d4a365f5b.png)](/david_ojeda) [## AWS IAM 角。2 -一个实际例子
+[![david_ojeda](img/3982752e278540bbb2ea6a3d4a365f5b.png)](/david_ojeda) [## AWS IAM 角。2 -一个实际例子
 
 ### 大卫·奥赫达 7 月 31 日 186 分钟阅读
 
@@ -77,7 +77,7 @@ AWS **I** dentity 和**A**access**M**管理，称为 **IAM** ，是 AWS 的一�
 
 这是关于 IAM 如何帮助您管理和控制对 AWS 资源的访问的非常广泛的概述。我知道这篇文章非常笼统，并没有深入探究你如何*实际上*实现这一点。这就是为什么我们现在要在下一篇博文中实现这个解决方案！
 
-[![david_ojeda](../Images/3982752e278540bbb2ea6a3d4a365f5b.png)](/david_ojeda) [## AWS IAM 角。2 -一个实际例子
+[![david_ojeda](img/3982752e278540bbb2ea6a3d4a365f5b.png)](/david_ojeda) [## AWS IAM 角。2 -一个实际例子
 
 ### 大卫·奥赫达 7 月 31 日 186 分钟阅读
 

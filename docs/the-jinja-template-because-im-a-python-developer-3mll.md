@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kaelscion/the-jinja-template-because-im-a-python-developer-3mll>
 
-[![jinja2-web-template](../Images/78a0139bae1f014a9ed6b0afe3cdb957.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--adPE2Ah1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ed30f2dq5cwj4lqttngt.png)
+[![jinja2-web-template](img/78a0139bae1f014a9ed6b0afe3cdb957.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--adPE2Ah1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ed30f2dq5cwj4lqttngt.png)
 
 > ***原载于编码鸭博客:【www.ccstechme.com/coding-duck-blog】T2*T5】**
 
@@ -12,7 +12,7 @@
 
 听到这里，他开始咯咯地笑，摇着头。他的反应主要基于他对我的了解。我是典型的开发人员/工程师/程序员类型。对我来说，编码是我做这件事的唯一原因；因为我喜欢解谜。当然，我需要支付账单，尽管从技术上来说我经营着自己的生意，但我远不是一个商人。对我来说，是机器。我喜欢和他们说话，听他们回应。我遇到过许多机器，我称之为“厚脸皮”，很难操作。这让他们在我眼里有了个性；对他们来说，多年的忽视或不良配置的结果，就像我们过去负面的生活经历:他们被它塑造，被它塑造...
 
-[![Bane](../Images/9c6c31c9e2ef720499904fe856beffb9.png)T2】](https://i.giphy.com/media/AqPRIe2gIxrP2/giphy.gif)
+[![Bane](img/9c6c31c9e2ef720499904fe856beffb9.png)T2】](https://i.giphy.com/media/AqPRIe2gIxrP2/giphy.gif)
 
 另一方面，他在努力生活，尽可能地把食物放在餐桌上。过了一会儿，他回答说:“当然，对像你这样的人来说。但是，即使当我不得不在 WordPress 上谷歌一些东西并插入代码时，我知道页面的顶部进入 wp-header.php，底部进入 wp-footer.php 等等。你做的事情没那么容易。”
 
@@ -49,7 +49,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 所以这个模板展示了一个模块化的 HTML 文档，它导入并使用其他 HTML 文档来填充内容的空间。这三个 HTML 文档中的每一个都包含一个“h1”标签，用于标识它在文档中的位置。在当前状态下，它看起来如下:
 
-[![Jinja Template Example](../Images/c9fbe3fc21f28016f3c3a368631e38f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--orZ2B1U4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/75a8mfr5wu09xxlzvdi3.png)
+[![Jinja Template Example](img/c9fbe3fc21f28016f3c3a368631e38f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--orZ2B1U4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/75a8mfr5wu09xxlzvdi3.png)
 
 现在我们已经有了这个基础模板，让我们修改导入的文件。header.html 现在的样子:
 
@@ -95,7 +95,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 一旦 Jinja 模板通过 Flask 呈现，看起来就像这样:
 
-[![Finished Jinja Template](../Images/da27419fd1ed181cedf70a05f99499a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t-cU8DLB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2k8pmey17zrzzc1exdp7.png)
+[![Finished Jinja Template](img/da27419fd1ed181cedf70a05f99499a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t-cU8DLB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2k8pmey17zrzzc1exdp7.png)
 
 那么我们为什么要关心这个呢？我们可以把所有这些放在一页上，不用担心进口和垃圾。嗯，我们关心的是模块化。使用这种模板引擎允许我们将 web 应用程序组装成彼此独立的部分。假设在你的 web 服务器上发生了一些奇怪的事情,“header.html”文件无法呈现。那真的很烦人。但是，网页仍然会显示，只是少了标题。这可能会惹恼你的用户，但他们不会得到 404，这可能会阻止他们下次回来。
 

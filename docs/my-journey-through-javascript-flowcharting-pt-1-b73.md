@@ -22,7 +22,7 @@
 
 现在让我们用一个实际的流程图来看看这个...
 
-[![](../Images/b6e5ae4fda48dcb9b436ce8f34121615.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MC1HPNpy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zbp9b0cshh63slxypqzk.PNG)
+[![](img/b6e5ae4fda48dcb9b436ce8f34121615.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MC1HPNpy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zbp9b0cshh63slxypqzk.PNG)
 
 在第一步中，我们添加了开始气泡，这样我们就知道程序从哪里开始了。(在第 1 步和第 2 步之间，我继续为我的结果添加了一个空变量，这样我就可以跟踪稍后在流程图中需要的变量。您也可以在步骤 4)中定义该变量。在步骤 2 中，我们添加了两个监听器，这表明我们需要程序向用户询问信息。在步骤 3 中，我们获取用户信息，并将其存储在名为 input1 和 input 2 的变量中。现在我们已经有了用户信息，我们可以转到步骤 4。在第 4 步中，我们使用之前创建的变量 result(如果您想在这一步中创建结果变量，那么内部应该是 number: result = input1 + input2 ),并添加一个算术运算符来将两个用户输入变量相加。在第五步中，我们呈现结果变量。
 

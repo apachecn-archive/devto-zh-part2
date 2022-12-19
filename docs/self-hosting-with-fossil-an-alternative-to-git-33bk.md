@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/schollz/self-hosting-with-fossil-an-alternative-to-git-33bk>
 
-[![Fossil image](../Images/76460a3f1ea068e6da9eea3e4680e302.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3rAD-VdQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jqvg27jnatwn4gc1rrar.png)
+[![Fossil image](img/76460a3f1ea068e6da9eea3e4680e302.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3rAD-VdQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jqvg27jnatwn4gc1rrar.png)
 
 Github，Gitlab，Bitbucket 都是 *git* 的 web 接口。它们都做类似的事情，增加了 *git* 中没有的特性，比如问题和维基等等。
 
@@ -112,11 +112,11 @@ $ fossil sync
 
 “nobody”对公共访问的典型权限是“gjozr”:
 
-[![Permissions for public access for "nobody" (those who log in).](../Images/bd26ef6a536a62bcb9b2a2b381dba847.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pYH6wjfT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f7wqhci9bodxsyxn6n1c.PNG)
+[![Permissions for public access for "nobody" (those who log in).](img/bd26ef6a536a62bcb9b2a2b381dba847.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pYH6wjfT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f7wqhci9bodxsyxn6n1c.PNG)
 
 “匿名”公共访问的典型权限是“chmn”:
 
-[![Permissions for public access for "anonymous" (those who log in).](../Images/de93b8d3da22b2f94cc736decfbdd414.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3XRhmtAV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q4auarfmy0djv40ghwf6.PNG)
+[![Permissions for public access for "anonymous" (those who log in).](img/de93b8d3da22b2f94cc736decfbdd414.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3XRhmtAV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q4auarfmy0djv40ghwf6.PNG)
 
 ## 为`Go`配置
 

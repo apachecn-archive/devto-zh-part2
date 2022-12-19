@@ -3,7 +3,7 @@
 > 原文：<https://dev.to/charumalikcs/angular-architecture-overview-and-concept-n8f>
 
 Angular 是用 TypeScript 编写的，它将核心功能和附加功能实现为一组 TypeScript 库。这些被导入到 Angular 应用程序中。基本上，Angular 是一个框架，也是一个用 HTML 和 TypeScript 构建客户端应用程序的平台。
-[![Angular Architecture](../Images/335915b3d95e2dd2a750081e7b808014.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7Slyklyc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2xzsf2dx9w8dmp41jk9z.png) 
+[![Angular Architecture](img/335915b3d95e2dd2a750081e7b808014.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7Slyklyc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2xzsf2dx9w8dmp41jk9z.png) 
 Angular 是全球 web 开发者首选的领先框架之一。因此，这是增加您的编程能力的一个有利可图的选择。这里有一些 [**最佳角度教程**](https://hackr.io/tutorials/learn-angular) 来启动你的角度之旅，并磨练你现存的角度技巧。棱角分明的建筑并不难理解。特别是，当你熟悉了相同的基础上的各种概念。因此，在总结这一切之前，让我们先详细了解一下底层概念。
 
 **任何角度 App 的 7 个组成要素**

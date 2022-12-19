@@ -6,7 +6,7 @@
 
 关于这一论点已经写了很多文章。T2 提出了许多好建议。以我个人的拙见，XKCD 提出了生成一个长而安全的密码的最佳方法之一:
 
-[![XKCD has always the correct answer to the question you didn't were aware of](../Images/673a3ca303fac1fd12e529edac8a3eee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7ZrLCC6g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgs.xkcd.com/comics/password_strength.png)
+[![XKCD has always the correct answer to the question you didn't were aware of](img/673a3ca303fac1fd12e529edac8a3eee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7ZrLCC6g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgs.xkcd.com/comics/password_strength.png)
 
 但是，这仍然是一个很好的记忆方法...一个？三个？六个？不同的密码。如果你试图为每个服务设置不同的密码，你会很快记住*很多*种可能的排列:*所以，gmail 是正确的马电池主食，github wolf 黄瓜铅笔杯，slack 是企鹅香蕉蜂蜜培根？或者是蜂蜜狼香蕉蜂蜜？*
 

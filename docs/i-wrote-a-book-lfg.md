@@ -40,11 +40,11 @@
 
 如果我们看看按工作日划分的提交，那么在周末编写大部分内容的设置就很清楚了。我在周日做的 157 次提交中的大多数(总共 40 次)。这些是我在准备了一周或更长时间后敲定的大文本块。星期四的提交由两种类型的提交组成，一种是我在周末之前完成章节或章节结构的代码，另一种是我在从我的编辑器获得编辑后进行修改。
 
-[![Commits per weekday](../Images/39505418807840dbcca7ca2f1a6d5be1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--61eIoFvQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sxrfkp1pc2x8w81q3rye.png)
+[![Commits per weekday](img/39505418807840dbcca7ca2f1a6d5be1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--61eIoFvQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sxrfkp1pc2x8w81q3rye.png)
 
 看看承诺时间，很明显我是一个全职工作的顾家男人(我的时区是 UTC+0，所以下图是我的工作时间)。我似乎在晚上工作得最好。我从下午 4 点左右开始工作，一直持续到凌晨 2 点。然后我睡几个小时，开始工作。中午左右的少量提交来自我周末上*早班*的时候。
 
-[![Commits per day hour](../Images/bb891875a746cb276770a43fed276490.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WipuoA4G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c9lmi31syn7q3mlvru4u.png)
+[![Commits per day hour](img/bb891875a746cb276770a43fed276490.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WipuoA4G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c9lmi31syn7q3mlvru4u.png)
 
 # 值得吗？
 

@@ -4,7 +4,7 @@
 
 **TL；DR:**Gatsby 站点的现有 postgres 数据库中的源数据。即时设置。教程/样板文件👉 [gatsby-postgres-graphql](https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/gatsby-postgres-graphql)
 
-[![](../Images/d57ca240083358963e484a1b6a649ab9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HF7PVNfu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/create-gatsby-sites-using-graphql-on-postgres-603b5dd1e516/1-Wvut9R2FrxSCawAb-5tPpw.png)
+[![](img/d57ca240083358963e484a1b6a649ab9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HF7PVNfu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/create-gatsby-sites-using-graphql-on-postgres-603b5dd1e516/1-Wvut9R2FrxSCawAb-5tPpw.png)
 
 * * *
 
@@ -19,7 +19,7 @@ Gatsby 是一个神奇的框架，可以帮助你构建静态渲染的 react 站
 1.  您可以使用惊人的 [gatsby-source-graphql](https://www.gatsbyjs.org/docs/third-party-graphql) 插件将任何 GraphQL API 设置为 gatsby 数据源
 2.  您可以使用 Hasura 通过 GraphQL 立即公开现有的 [Postgres 数据库](https://hasura.io/learn/database/postgresql/introduction/)
 
-> ![David Eads profile image](../Images/259aae3ecef7ce7ca07c026546f385be.png)大卫@ Eads![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)哈利路亚！！我昨晚才开始使用这个源码插件，它就像宣传的那样工作。 [@HasuraHQ](https://twitter.com/HasuraHQ) 整合我来了！！[twitter.com/gatsbyjs/statu…](https://t.co/2kAy4L4fBE)2018 年 9 月 25 日晚 22 点盖茨比 @gatsbyjs📣宣布支持用 Gatsby 本地查询第三方 GraphQL APIs！@freiksenet 关于他最近关于盖茨比 https://t.co/3cSLlB0QNv https://t.co/K04YvnLENZ[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1044708144956538880)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1044708144956538880)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1044708144956538880)的博文
+> ![David Eads profile image](img/259aae3ecef7ce7ca07c026546f385be.png)大卫@ Eads![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)哈利路亚！！我昨晚才开始使用这个源码插件，它就像宣传的那样工作。 [@HasuraHQ](https://twitter.com/HasuraHQ) 整合我来了！！[twitter.com/gatsbyjs/statu…](https://t.co/2kAy4L4fBE)2018 年 9 月 25 日晚 22 点盖茨比 @gatsbyjs📣宣布支持用 Gatsby 本地查询第三方 GraphQL APIs！@freiksenet 关于他最近关于盖茨比 https://t.co/3cSLlB0QNv https://t.co/K04YvnLENZ[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1044708144956538880)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1044708144956538880)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1044708144956538880)的博文
 
 Karthik Venkateswaran 整理了一个简洁的小样板和教程，这样你就可以快速开始了！
 

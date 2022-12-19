@@ -7,7 +7,7 @@
 
 * * *
 
-[![good code vs bad code](../Images/b9b770fa0c42691c563126fb07ea72ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8N47COR1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u8djzx1ow0iuwsq8r3kx.png)
+[![good code vs bad code](img/b9b770fa0c42691c563126fb07ea72ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8N47COR1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u8djzx1ow0iuwsq8r3kx.png)
 
 > 我们为什么要关心代码质量？
 
@@ -90,13 +90,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 ...看看如果我们将 phpcs 与 PSR2 标准一起使用会发生什么:
 
-[![phpcs psr2](../Images/5b601158e444e8993eeb1e120ee99bce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QRqZLUQd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ad5961j64i00uu8n6ooe.png)
+[![phpcs psr2](img/5b601158e444e8993eeb1e120ee99bce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QRqZLUQd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ad5961j64i00uu8n6ooe.png)
 
 该工具检测到 12 个错误，其中 6 个可以自动修复。
 
 让我们看看如果用 Squiz 标准重新运行该工具会发生什么:
 
-[![phpcs squiz](../Images/9f2b8e8865db6a2c758f6ebb93301a5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cV9I6kK5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ievvzmjqb59bs1jjnz7b.png)
+[![phpcs squiz](img/9f2b8e8865db6a2c758f6ebb93301a5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cV9I6kK5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ievvzmjqb59bs1jjnz7b.png)
 
 该工具检测到 28 个错误，其中 18 个可以自动修复。我对 Squiz 标准的看法是有点太啰嗦了。因此，我用所有 PSR2 规则创建了自己的规则集，并添加了一些对我有意义的 Squiz 规则。
 
@@ -106,7 +106,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 嗯，检测违规是不错，但如果能自动纠正就更好了，对吧？幸运的是， **PHP_CodeSniffer** 附带了另一个修复主要 PSR1 和 PSR2 违规的实用程序: **PHP 代码美化器和修复器**(又名 phpcbf)。只需在 PHP 文件或代码库上运行它，它就会扫描所有文件并尝试自动修复违规情况:
 
-[![phpcbf psr2](../Images/182ebbe41abe82050e8a338acb647959.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_a9Ilbqn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5ltf1nn9grveodqbgrk4.png)
+[![phpcbf psr2](img/182ebbe41abe82050e8a338acb647959.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_a9Ilbqn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5ltf1nn9grveodqbgrk4.png)
 
 当使用 PSR2 标准在`MaClasse.php`上使用它时，它修复了 12 个违规中的 6 个:
 
@@ -353,7 +353,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 最后，您必须将工具视为应用程序不可或缺的一部分，也就是说，一方面，它们列在项目的依赖项中，另一方面，它们的配置文件和规则集也是您的代码库的一部分:
 
-[![php_repo](../Images/8027c4cfb80fb9664616c2e38fc99d8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wTT6cqfJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kxwp91bkwtg2mz2rxwf2.png)
+[![php_repo](img/8027c4cfb80fb9664616c2e38fc99d8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wTT6cqfJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kxwp91bkwtg2mz2rxwf2.png)
 
 这对 PHP 来说是正确的，但对任何一种语言来说也是如此。随着时间的推移，这是在你的团队中拥有*同质代码库*的唯一方法。
 

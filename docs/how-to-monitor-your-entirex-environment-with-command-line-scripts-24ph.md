@@ -8,7 +8,7 @@ EntireX 用于分布式和混合环境，用于 COBOL 或自然集成。EntireX 
 
 Adabas & Natural 产品管理总监 Juergen Lind 和 Software AG 高级首席软件工程师 Peter Hofer
 
-| 2018 年第二期 | [![](../Images/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue2/SAG_webMethods_EntireX_TECHniques_Apr18_WEB.pdf) |
+| 2018 年第二期 | [![](img/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue2/SAG_webMethods_EntireX_TECHniques_Apr18_WEB.pdf) |
 | --- | --- |
 
 ## 简介
@@ -19,13 +19,13 @@ Adabas & Natural 产品管理总监 Juergen Lind 和 Software AG 高级首席软
 
 在 Windows 上安装完 EntireX 之后，你可以在 *<下找到监控脚本的快捷方式，你的安装名称> > >管理*如图 1 所示。
 
-[![](../Images/aadc697181562aab0937d6a4e5f0327a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7IefFSC8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/EntireX_1.jpg/9aa522b3-78bf-4c81-9bca-d7ed598ab6be%3Ft%3D1523445358663) 
+[![](img/aadc697181562aab0937d6a4e5f0327a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7IefFSC8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/EntireX_1.jpg/9aa522b3-78bf-4c81-9bca-d7ed598ab6be%3Ft%3D1523445358663) 
 
 *图 Windows 开始菜单中的 EntireX 监控脚本*
 
 使用监视脚本菜单中提供的功能来定义和监视您的环境。截图中显示了函数 7 和 8(参见图 2)。
 
-[![](../Images/ed7180d59660cdc45925339739566229.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--aBlA0yPq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/EntireX_2.jpg/fb92fe0c-7487-4b7c-ba91-f291d6d1a758%3Ft%3D1523445361866) 
+[![](img/ed7180d59660cdc45925339739566229.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--aBlA0yPq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/EntireX_2.jpg/fb92fe0c-7487-4b7c-ba91-f291d6d1a758%3Ft%3D1523445361866) 
 
 *图 EntireX 监控脚本菜单*
 

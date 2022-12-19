@@ -4,7 +4,7 @@
 
 > 在 [yos.io](https://yos.io/) 找到更多有趣的文章
 
-[![Getting Started with Serverless Go](../Images/d21885af73cb5108b26fcabd836f5a98.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xra-gLSz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/LHLrXQZ.jpg)
+[![Getting Started with Serverless Go](img/d21885af73cb5108b26fcabd836f5a98.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xra-gLSz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/LHLrXQZ.jpg)
 
 2018 年 1 月，AWS Lambda 发布了对 Go 语言的[官方支持](https://aws.amazon.com/blogs/compute/announcing-go-support-for-aws-lambda/)。
 
@@ -915,7 +915,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 有兴趣了解更多信息吗？获得免费电子书！
 
- [![Serverless Go book](../Images/3a146d20e2de9351bc49f4f9ccb4fe55.png "Going Serverless: Building Scalable Applications with the Serverless Framework and AWS Lambda")
+ [![Serverless Go book](img/3a146d20e2de9351bc49f4f9ccb4fe55.png "Going Serverless: Building Scalable Applications with the Serverless Framework and AWS Lambda")
 T4】](https://leanpub.com/serverless-go)
 
 **[无服务器 Go:实用指南](https://leanpub.com/serverless-go)** 教你如何用 Go 语言、无服务器框架和 AWS Lambda 构建可伸缩的应用。您将学习如何设计、开发和测试从计划到生产的无服务器 Go 应用程序。

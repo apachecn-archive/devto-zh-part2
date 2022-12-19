@@ -45,7 +45,7 @@
 ### 层次？
 
 我们先来看一个架构图:
-[![](../Images/b385732d5b5d39825ba75a69ab5c787c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VgMaKeRW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.coreycleary.me/wp-content/uploads/2018/11/Express-REST-API-Struc.png)
+[![](img/b385732d5b5d39825ba75a69ab5c787c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VgMaKeRW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.coreycleary.me/wp-content/uploads/2018/11/Express-REST-API-Struc.png)
 
 剥过洋葱吗？剥掉第一层外层后，下面还有几层。
 
@@ -236,7 +236,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 现在，出现的结构
 
-[![](../Images/cc2643d15aac0308ecd9c51ac5dc2ecb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H1J5o_xH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.coreycleary.me/wp-content/uploads/2018/11/role-structure.png)
+[![](img/cc2643d15aac0308ecd9c51ac5dc2ecb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H1J5o_xH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.coreycleary.me/wp-content/uploads/2018/11/role-structure.png)
 
 当你像我在这篇文章中描述的那样分离你的逻辑时，结构看起来像上面那样“自然地”到位。这就是为什么我喜欢在这样的 Express 应用程序中分离我的逻辑，这样很容易找到放东西的地方！
 
@@ -246,7 +246,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 既然我们已经讨论了遵循这种模式将会出现的结构，那么就有必要指出测试的方向。我不认为这是一个严格的规则，但是我倾向于将我的测试放在一个根`tests`文件夹中，并模仿应用程序其余部分的结构。
 
-[![](../Images/fdc19c15171ddc17498836302347469b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6TB43NKE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.coreycleary.me/wp-content/uploads/2018/11/tests-struc.png)
+[![](img/fdc19c15171ddc17498836302347469b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6TB43NKE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.coreycleary.me/wp-content/uploads/2018/11/tests-struc.png)
 
 *如果你注意到了，`routes`不见了！这是因为如果你像我一样把你的逻辑分离出来，你真的不需要测试路线。如果您愿意，您可以使用类似于`supertest`的东西，但是核心逻辑——随着代码的变化更容易中断的东西！-已经在您的控制器、服务等中测试过。*
 

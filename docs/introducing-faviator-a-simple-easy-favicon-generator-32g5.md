@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ycmjason/introducing-faviator-a-simple-easy-favicon-generator-32g5>
 
-[![logo](../Images/200b4933b76acf676bcd731223326c02.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GnN5asJM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.faviator.xyz/assets/logo.png)
+[![logo](img/200b4933b76acf676bcd731223326c02.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GnN5asJM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.faviator.xyz/assets/logo.png)
 
 > 如果你喜欢这个想法，就开始这个项目:[https://github.com/faviator/faviator](https://github.com/faviator/faviator)
 
@@ -64,7 +64,7 @@ faviator --size '300'\
 Enter fullscreen mode Exit fullscreen mode
 
 上述命令将在`./favicon.png`生成如下图标。
-[![logo](../Images/200b4933b76acf676bcd731223326c02.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GnN5asJM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.faviator.xyz/assets/logo.png)
+[![logo](img/200b4933b76acf676bcd731223326c02.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GnN5asJM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.faviator.xyz/assets/logo.png)
 
 字体家族是从谷歌字体中抓取的，你可以输入任何一种字体的名字。
 

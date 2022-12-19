@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/dgreene/silence-of-the-lambdas---5-antipatterns-for-aws-lambda-e60>
 
-[![Silence of the Lambdas](../Images/dddd9f8d26e69047c4cfe512d6658f2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KZ3LkpSD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.3pillarglobal.com/wp-content/uploads/2018/01/silence-of-the-lambdas-fb.png)
+[![Silence of the Lambdas](img/dddd9f8d26e69047c4cfe512d6658f2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KZ3LkpSD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.3pillarglobal.com/wp-content/uploads/2018/01/silence-of-the-lambdas-fb.png)
 
 本文最初出现在:[[https://www . 3 pillar global . com/insights/silence-lambdas-5-anti-patterns-AWS-lambda](https://www.3pillarglobal.com/insights/silence-lambdas-5-anti-patterns-aws-lambda)]
 

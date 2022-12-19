@@ -136,4 +136,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 编码快乐！
 
-[![](../Images/905d0687446a2374a9dcb6e8e4a7ac5f.png)T2】](https://i.giphy.com/media/3orieStB8OH7lanfGg/giphy.gif)
+[![](img/905d0687446a2374a9dcb6e8e4a7ac5f.png)T2】](https://i.giphy.com/media/3orieStB8OH7lanfGg/giphy.gif)

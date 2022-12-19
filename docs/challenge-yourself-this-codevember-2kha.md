@@ -8,7 +8,7 @@
 
 code 11 月是亚瑟·罗布和 T2 邀请开发者在 11 月的每一天发布一段新的有创意的代码。
 
-[![Codevember website](../Images/ea3e668c6ea6d9bad92f272c46d18e04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--63amuRZJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hp16pcso4228zcm5gvfd.png)
+[![Codevember website](img/ea3e668c6ea6d9bad92f272c46d18e04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--63amuRZJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hp16pcso4228zcm5gvfd.png)
 
 [code 11 月网站](http://codevember.xyz)有一个提示列表，例如 *1。无限*， *2。时间*和 *3。胡萝卜*。根据提示，参与者想出一个受单词启发的创造性代码。例如，对于提示*音乐*，您可以用 JavaScript 创建一架可用的钢琴。
 
@@ -24,7 +24,7 @@ code 11 月是亚瑟·罗布和 T2 邀请开发者在 11 月的每一天发布�
 
 Codevember 团队的目标是使挑战尽可能容易，并允许您使用任何您喜欢的平台/工具提交您的创作。
 
-[![Codevember on Codier](../Images/b3fcb4b6d9d89d315ff6a67480f1e3cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mkfL9iuT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ndpdcff7j4jcmmwepwli.png)
+[![Codevember on Codier](img/b3fcb4b6d9d89d315ff6a67480f1e3cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mkfL9iuT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ndpdcff7j4jcmmwepwli.png)
 
 如果你想让你的作品出现在 code 11 月网站上，你可以用几种方法。要尝试在 Codier 上使用[code 11 月，每天发布一个解决方案，标签为# code 11 月和这个月的某一天，例如*# code 11 月- 12 日-我的伟大工作*。CodePen 用户可以让他们的笔具有相同的标题格式。或者，你可以](https://codier.io/challenge/codevember-2018)[将你的作品](http://codevember.xyz/about)直接提交到 code 11 月网站。
 

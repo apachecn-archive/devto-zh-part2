@@ -8,7 +8,7 @@ Bloom Filter 是一种节省空间的概率数据结构，由 Burton Howard Bloo
 
 在 Bloom Filter 中，我们使用 k-散列算法散列一个元素，从这些散列中生成索引，然后在 filter-list 中将这些索引处的值设置为 1。为了检查元素是否在集合中，我们对该元素运行相同的 k-散列算法，并检查散列产生的索引处的所有值是否都是 1。如果所有的值都是 1，那么元素**可能是集合中的**，如果任何一个值是 0，那么元素**肯定是**不在集合中。
 
-[![Bloom Filter](../Images/11bde68427e706e359dd165cf394c878.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2WhDy4RT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/a/ac/Bloom_filter.svg)
+[![Bloom Filter](img/11bde68427e706e359dd165cf394c878.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2WhDy4RT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/a/ac/Bloom_filter.svg)
 
 在上图中，`w`是**肯定**不在集合中，因为过滤器列表中的一个值是 0。
 

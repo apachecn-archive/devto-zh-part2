@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/willvelida/visualizing-data-with-azure-databricks-and-power-bi-desktop-cm2>
 
-[![](../Images/622718df0949d5fc1b069c1bd34ce055.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cg09LGqI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A10EdlwdWHlpDzQ-Z.png)
+[![](img/622718df0949d5fc1b069c1bd34ce055.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cg09LGqI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A10EdlwdWHlpDzQ-Z.png)
 
 [Azure Databricks](https://docs.azuredatabricks.net/index.html) 是一项强大的技术，它通过提供一个两个学科的用户都可以轻松理解和利用的工作流，帮助统一数据工程师和数据科学家之间的分析流程。数据工程师可以使用它来创建有助于向数据科学家提供数据的工作，然后数据科学家可以使用 Databricks 作为工作台来执行高级分析。
 
@@ -35,7 +35,7 @@ diamonds = spark.read.format("csv").option("header", "true").option("inferSchema
 
 如果编译成功，我们应该会看到以下输出:
 
-[![](../Images/bf185e51ee6fd5eb9f58648437984be2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RsCwF13b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/480/1%2AtIlgvDRBsOTS4uJcqUZU1A.png)
+[![](img/bf185e51ee6fd5eb9f58648437984be2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RsCwF13b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/480/1%2AtIlgvDRBsOTS4uJcqUZU1A.png)
 
 让我们摆弄一下我们的数据，这样我们就可以使用不同类型的视觉效果。让我们先看看我们的数据，看看我们在处理什么:
 
@@ -45,7 +45,7 @@ display(diamonds)
 
 我们应该在 Databricks 笔记本中看到下表:
 
-[![](../Images/87ca6af71dd4fab9b574f0a248fd4fad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D9TKPCuI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ASRUywU3VuOVolOFVknjzhw.png)
+[![](img/87ca6af71dd4fab9b574f0a248fd4fad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D9TKPCuI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ASRUywU3VuOVolOFVknjzhw.png)
 
 如您所见，每当我们在 Databricks 中运行 display()函数时，我们将在数据集中获得 1000 行的限制。
 
@@ -63,17 +63,17 @@ display(diamonds\_color)
 
 当我们执行代码时，我们得到了一个表格，但是你看到表格底部的条形图按钮了吗？这个按钮允许我们可视化我们的数据。在本例中，我使用了一个基本的条形图，但我将介绍使用该功能可以做些什么。
 
-[![](../Images/57a738007f64af99f8205301df10169a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--apyZkGSK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/970/1%2AvS4UPZiKfDfeqMb6oviMxw.png)
+[![](img/57a738007f64af99f8205301df10169a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--apyZkGSK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/970/1%2AvS4UPZiKfDfeqMb6oviMxw.png)
 
 在 Azure Databricks 中，我们可以创建不同类型的可视化，如下图所示:
 
-[![](../Images/94bb9509e36736dbc276f96afbae51e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wl3oVS_K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/358/1%2AivPd79Ddfg-DRRcvfXJYTw.png)
+[![](img/94bb9509e36736dbc276f96afbae51e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wl3oVS_K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/358/1%2AivPd79Ddfg-DRRcvfXJYTw.png)
 
 不是所有东西都可以是条形图的，对吗？
 
 我们也可以使用“绘图选项”自定义我们的绘图
 
-[![](../Images/3369f3144516ece37d16fd8327314705.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pfSeVqiR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A9A-Y2OJpcc5oQ_jfOCbyDA.png)
+[![](img/3369f3144516ece37d16fd8327314705.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pfSeVqiR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A9A-Y2OJpcc5oQ_jfOCbyDA.png)
 
 这是一个非常基本的例子，但是使用这个特性，我们可以定制我们想要在图表中使用的字段、键、值、组、聚合类型以及图表的显示方式。
 
@@ -87,7 +87,7 @@ display(depthVcarat)
 
 在这个数据框中，我们希望了解钻石的深度与其克拉值之间是否存在关系。让我们创建一个散点图，看看是否有:
 
-[![](../Images/10fc7be833f05fbba3ebab3ed893d3e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ySBIqT7d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/427/1%2A1qeqnEKb3kTW_W8uF-Rhpg.png)
+[![](img/10fc7be833f05fbba3ebab3ed893d3e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ySBIqT7d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/427/1%2A1qeqnEKb3kTW_W8uF-Rhpg.png)
 
 看起来不像。
 
@@ -95,11 +95,11 @@ display(depthVcarat)
 
 为此，我们可以使用笔记本中的下拉菜单，显示**视图:代码**，然后单击**新仪表板:**
 
-[![](../Images/41822f5b38ff123fb96788562dcfc19e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0Hct9J0Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/193/1%2A1qfkngxXLzuQS96Rfu8G5g.png)
+[![](img/41822f5b38ff123fb96788562dcfc19e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0Hct9J0Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/193/1%2A1qfkngxXLzuQS96Rfu8G5g.png)
 
 在这里，我们可以移动我们的视觉效果来创建一个如下所示的仪表板:
 
-[![](../Images/deebd9da7c2a25544ec639921c34feb7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HO9H4ucb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ARD5ZwqD2tBAk6HOdiFjw8g.png)
+[![](img/deebd9da7c2a25544ec639921c34feb7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HO9H4ucb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ARD5ZwqD2tBAk6HOdiFjw8g.png)
 
 在这里，我们可以移动我们的视觉效果，以适应我们的仪表板。控件非常简单，我们可以选择布局选项(堆叠或浮动)和仪表板宽度。
 
@@ -122,7 +122,7 @@ diamonds.write.saveAsTable("diamonds")
 
 让我们通过检查我们的数据选项卡来确认我们的表已经被创建:
 
-[![](../Images/3981928671bdfa4a0bc632debb541b17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GxBkoWlK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/602/1%2ANEx2MG-ezZr7PMT_K_iFzw.png)
+[![](img/3981928671bdfa4a0bc632debb541b17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GxBkoWlK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/602/1%2ANEx2MG-ezZr7PMT_K_iFzw.png)
 
 太好了，现在我们已经保存了我们的表，让我们将它连接到 Power BI。首先，我们需要获得我们的 JDBC (Java 数据库连接)服务器地址。转到集群 UI，选择要连接的集群。在编辑页面上，向下滚动并选择 **JDBC/ODBC** 选项卡。
 
@@ -138,7 +138,7 @@ https://<server-host>:<port>/sql/protocol/o/<key>/<key>
 
 在获取数据对话框中，我们需要寻找 **Spark (beta)** 连接器:
 
-[![](../Images/678fb28ed53dabb5f634a92c9cdb1362.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KvvUiCmk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/924/1%2AjUgTTEReFbwvR_1it5Fx3Q.png)
+[![](img/678fb28ed53dabb5f634a92c9cdb1362.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KvvUiCmk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/924/1%2AjUgTTEReFbwvR_1it5Fx3Q.png)
 
 点击**连接。**输入我们之前构建的 URL，使用 HTTP 作为协议，选择 **DirectQuery** 作为数据连接方式。这将允许我们将处理任务卸载给 Spark(如前所述)。
 
@@ -146,7 +146,7 @@ https://<server-host>:<port>/sql/protocol/o/<key>/<key>
 
 如果一切正常，您应该能够在 Navigator 对话框中看到所有的表。选择钻石表，您将看到我们的数据预览:
 
-[![](../Images/75ed7287f93c28578537b4a2392a918d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S6qcLQ4L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AtNIv58ocCTKdRzYlnjHL6Q.png)
+[![](img/75ed7287f93c28578537b4a2392a918d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S6qcLQ4L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AtNIv58ocCTKdRzYlnjHL6Q.png)
 
 我们可以像在 Power BI 中编辑任何数据源一样编辑我们的数据导入，或者我们可以将它全部加载进来。还是做后者吧！点击**加载**即可开始。
 
@@ -156,17 +156,17 @@ https://<server-host>:<port>/sql/protocol/o/<key>/<key>
 
 在“字段”选项卡中，我们可以看到导入的表格及其相应的列:
 
-[![](../Images/50a22da3b2d7498943db8745ccaaa083.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ByfR5BUW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/267/1%2AqcRW6L8pCwO203z7uDeuGw.png)
+[![](img/50a22da3b2d7498943db8745ccaaa083.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ByfR5BUW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/267/1%2AqcRW6L8pCwO203z7uDeuGw.png)
 
 让我们尝试创建我们在 Databricks 中制作的每种颜色平均价格的条形图。在字段选项卡中，选中颜色和价格复选框，将这些字段插入到我们的仪表板中。
 
 现在，我们想为我们的可视化选择一个“堆积柱形图”。我们需要改变一些东西来使我们的图表看起来更好。在 visualizations 选项卡中，我们希望将轴设置为 color，为图例选择颜色，并将值设置为 price 列的平均值。应该是这样的:
 
-[![](../Images/feae0c18c8ea305620a71ee7dbbcf497.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_nYY0Mm_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/274/1%2ARacJ6vm2L9gyQfRQB5HAXw.png)
+[![](img/feae0c18c8ea305620a71ee7dbbcf497.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_nYY0Mm_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/274/1%2ARacJ6vm2L9gyQfRQB5HAXw.png)
 
 我们的最终结果应该是这样的:
 
-[![](../Images/f48bcbc7fb3c61d654a57d4ca899408f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ot-R1gzd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AdRmfaJSqbfy026CO-mQ3sQ.png)
+[![](img/f48bcbc7fb3c61d654a57d4ca899408f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ot-R1gzd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AdRmfaJSqbfy026CO-mQ3sQ.png)
 
 这是我们在这里创建的一个非常简单的示例，但是希望您现在已经了解了在 Power BI 中从数据块导入数据的基础知识
 

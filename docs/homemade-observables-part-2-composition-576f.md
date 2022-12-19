@@ -357,4 +357,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 感谢您的阅读。如果你觉得这篇文章有用，并想支持我的努力，请给我买一杯☕咖啡。
 
-[![buy me a coffee](../Images/9e6f0f1293ebfd51e2e5cab78e6e6a08.png)T2】](https://www.buymeacoffee.com/vonheikemen)
+[![buy me a coffee](img/9e6f0f1293ebfd51e2e5cab78e6e6a08.png)T2】](https://www.buymeacoffee.com/vonheikemen)

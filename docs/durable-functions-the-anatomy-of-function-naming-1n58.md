@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/xpirit/durable-functions-the-anatomy-of-function-naming-1n58>
 
-[![How to name your Azure Functions](../Images/3be30a306dbffa6ab79b9a25f2a99016.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ExgbRLMw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.marcduiker.nl/assets/2018/06/21/functionnaming.png)
+[![How to name your Azure Functions](img/3be30a306dbffa6ab79b9a25f2a99016.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ExgbRLMw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.marcduiker.nl/assets/2018/06/21/functionnaming.png)
 
 ## 函数名在野外
 

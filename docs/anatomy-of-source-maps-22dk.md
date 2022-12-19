@@ -44,11 +44,11 @@ Babel 是将不同“味道”的 JS 转换成更兼容形式的最常用工具�
 
 **错误示例:**
 
-[![A stacktrace originating from a minified file](../Images/4cf2bf5340766e50f2788856ad83533e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LxhtxzAH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.bugsnag.com/img/posts/source-map-error-min-location.png)
+[![A stacktrace originating from a minified file](img/4cf2bf5340766e50f2788856ad83533e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LxhtxzAH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.bugsnag.com/img/posts/source-map-error-min-location.png)
 
 **位置指向这个文件内部的某个地方:**
 
-[![A minified file](../Images/34fde979f683edac888c4a494dea5f58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x3qVeHDx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.bugsnag.com/img/posts/source-map-minified-file.png)
+[![A minified file](img/34fde979f683edac888c4a494dea5f58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x3qVeHDx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.bugsnag.com/img/posts/source-map-minified-file.png)
 
 😩
 

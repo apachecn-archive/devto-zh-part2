@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/lauragift21/setup-continuous-integration-with-travis-ci-in-your-nodejs-app-26i2>
 
-[![travis logo](../Images/4f32055aba9d55d0d6ea1c6dd250cafe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o25mzxVZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/lauragift/image/upload/v1529656180/logo-travisci-wide1_lcjhdf.jpg)
+[![travis logo](img/4f32055aba9d55d0d6ea1c6dd250cafe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o25mzxVZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/lauragift/image/upload/v1529656180/logo-travisci-wide1_lcjhdf.jpg)
 
 这篇文章将详细解释如何在 nodejs 项目中设置 Travis CI 部署。
 
@@ -67,7 +67,7 @@ describe('test', () => {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![test](../Images/61f2227a61fc9209cb4a240b17a8bf13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HpeEzWoU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/lauragift/image/upload/v1529662546/Screenshot_from_2018-06-22_11-11-40_nyow0d.png)
+[![test](img/61f2227a61fc9209cb4a240b17a8bf13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HpeEzWoU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/lauragift/image/upload/v1529662546/Screenshot_from_2018-06-22_11-11-40_nyow0d.png)
 
 **NPM 脚本**
 
@@ -107,7 +107,7 @@ Travis 是一项 CI 服务，这意味着它是一个自动化的流程。Travis
 
 ** Travis build 被触发，它检查测试是通过还是失败。*
 
-[![travis ui](../Images/310bcbef20bc7423a8ae799f498c3707.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QSXUO7Ja--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/lauragift/image/upload/v1529664742/Screenshot_from_2018-06-22_11-49-48_abjiek.png)
+[![travis ui](img/310bcbef20bc7423a8ae799f498c3707.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QSXUO7Ja--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/lauragift/image/upload/v1529664742/Screenshot_from_2018-06-22_11-49-48_abjiek.png)
 
 #### 特拉维斯构建设置
 

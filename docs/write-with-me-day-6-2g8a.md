@@ -16,6 +16,6 @@
 
 然后，看看[杰斯的 Instagram](https://www.instagram.com/just_chen/) 。
 
-[![Pciture Of Instagram Photo](../Images/75c0fee9447cb4376cca03f13647bf4d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Pqct3M6n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5xct50z5cem4j6bzb913.png)
+[![Pciture Of Instagram Photo](img/75c0fee9447cb4376cca03f13647bf4d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Pqct3M6n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5xct50z5cem4j6bzb913.png)
 
 杰斯是一名面包师，现在我也想成为一名面包师。*百胜*

@@ -43,15 +43,15 @@ Studio3T 是一个很好的工具，可以用于您的测试或生产 MongoDB。
 
 #### 服务器选项卡:
 
-[![Studio3T server tab](../Images/fbbbd6824b625d61092e599d0c7d293e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P8fyB9QT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y55vqeuhfqi6slnwpbkh.png)
+[![Studio3T server tab](img/fbbbd6824b625d61092e599d0c7d293e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P8fyB9QT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y55vqeuhfqi6slnwpbkh.png)
 
 #### 认证标签页:
 
-[![Studio3T authentication tab](../Images/e57a464755a3f100a8495428273b8f6f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P5A5jVuv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/35t7dazoxlvxlerjbl11.png)
+[![Studio3T authentication tab](img/e57a464755a3f100a8495428273b8f6f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P5A5jVuv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/35t7dazoxlvxlerjbl11.png)
 
 #### SSH 隧道标签:
 
-[![Studio3T SSH tunnel tab](../Images/fb0dacd3dd22b84be79c18e401c6b1d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DgWA22g9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n71flh1zt0tkiyohy6oo.png)
+[![Studio3T SSH tunnel tab](img/fb0dacd3dd22b84be79c18e401c6b1d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DgWA22g9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n71flh1zt0tkiyohy6oo.png)
 
 如果在创建公钥/私钥对时没有密码，请选中“我的私钥不受密码保护”复选框。
 

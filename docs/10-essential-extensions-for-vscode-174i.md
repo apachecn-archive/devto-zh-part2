@@ -10,7 +10,7 @@
 
 VS 代码为 CSS 文件中的颜色提供了一个小小的预览框。“颜色信息”允许您更好地查看鼠标悬停时的颜色，包括 CMYK 或 alpha 值。它甚至可以充当拾色器，真的很方便。
 
-[![Color Info](../Images/296d22344c6c28778c5d4ddcfb22b4f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J2t5Hnox--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hae977g3emyifm5krz67.png)
+[![Color Info](img/296d22344c6c28778c5d4ddcfb22b4f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J2t5Hnox--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hae977g3emyifm5krz67.png)
 
 **[:emojisens:](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense)**
 
@@ -20,7 +20,7 @@ VS 代码为 CSS 文件中的颜色提供了一个小小的预览框。“颜色
 
 顾名思义，这个简单的扩展在状态栏中显示当前选中行的`git blame`。
 
-[![Git Blame](../Images/298dae6cf94e0ebe16997b6780a6a338.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qtdI9qg5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n256ltijk2rc0459ngsg.gif)
+[![Git Blame](img/298dae6cf94e0ebe16997b6780a6a338.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qtdI9qg5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n256ltijk2rc0459ngsg.gif)
 
 **三合一**
 
@@ -34,7 +34,7 @@ VS 代码为 CSS 文件中的颜色提供了一个小小的预览框。“颜色
 
 顾名思义，它突出显示了 TODOs、FIXMEs 和您指定的任何关键字。只要在某个地方写下`TODO:`，它不仅会高亮显示，还会列出你已经在项目中任何地方写过的所有内容。
 
-[![Todo Highlight](../Images/f50e500f155a0301e089d482ab750556.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I3UVHrdq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d06i7koqopg63eq4u41q.png)
+[![Todo Highlight](img/f50e500f155a0301e089d482ab750556.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I3UVHrdq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d06i7koqopg63eq4u41q.png)
 
 **[Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)T3】**
 
@@ -52,7 +52,7 @@ VS 代码为 CSS 文件中的颜色提供了一个小小的预览框。“颜色
 
 现在这个我经常用！书签是一个扩展，可以把蓝色的小书签放到你的文件槽里。当您需要在文件中的位置之间切换时，或者当您需要在项目中的任何位置进行快速提醒时，这非常方便。我用`shift + cmd + =`(切换书签)和`shift + cmd + -`(下一个书签)设置了我的书签，多亏了这个，我不用离开键盘就可以在文件间跳跃。该扩展还在文件浏览器的正下方添加了一个小面板，列出了当前项目中所有活动的书签。必备。
 
-[![Bookmarks](../Images/1aa85de0aff1ae50547b11a19cc71aa8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fxW8Lqki--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uxorg08yz8gywxej0jfa.png)
+[![Bookmarks](img/1aa85de0aff1ae50547b11a19cc71aa8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fxW8Lqki--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uxorg08yz8gywxej0jfa.png)
 
 ## 优秀奖
 
@@ -64,7 +64,7 @@ VS 代码为 CSS 文件中的颜色提供了一个小小的预览框。“颜色
 
 多亏了 Webpack，大多数时候我都在 Javascript 文件中注入依赖项。但是每当我需要快速模拟一些东西时，这个扩展都会支持我。使用命令面板，您将能够插入所有库 cdnjs 句柄的 URL 或脚本/样式标签。相当方便。
 
-[![cdnjs](../Images/11c0550e423a2965adfa5f2646496b7f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pyml9XiH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k3pxsij2se6quz9c2ppm.gif)
+[![cdnjs](img/11c0550e423a2965adfa5f2646496b7f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pyml9XiH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k3pxsij2se6quz9c2ppm.gif)
 
 有一个要分享吗？
 

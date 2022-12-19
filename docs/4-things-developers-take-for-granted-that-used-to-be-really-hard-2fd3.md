@@ -14,13 +14,13 @@
 
 在我们那个时代，如果你想要软件，你必须钻进汽车，开到商店，从货架上买下来。
 
-[![shrink-wrapped software](../Images/dcdc6bc9808fbc336212bebe1aba3d81.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1LDduSy0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/obwec15u0xhqnpk2xf9t.jpg) 
+[![shrink-wrapped software](img/dcdc6bc9808fbc336212bebe1aba3d81.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1LDduSy0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/obwec15u0xhqnpk2xf9t.jpg) 
 *我们曾经兴奋地购买这种东西*
 *来源:*[*cogdogblog*](https://www.flickr.com/photos/cogdog/116957071/)*【CC0】，via Wikimedia Commons*
 
 如果你真的像布莱恩一样老了，你会记得软件出现在软盘上的日子。你必须按正确的顺序装入每个磁盘来安装软件。
 
-[![floppy disk installs](../Images/e9ac468bec12744df4e63d7553ea5efc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ELSKGhyG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mfd5h6ccbax92ak39y6v.jpg) 
+[![floppy disk installs](img/e9ac468bec12744df4e63d7553ea5efc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ELSKGhyG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mfd5h6ccbax92ak39y6v.jpg) 
 *任务进行到一半就把这个东西给装上了*
 *来源:[http://retro thrifter . com/product/kings-quest-6-VI-adventure-retro-game-IBM-5-25-floppy-disk-big-box-1992/#&GID = 1&PID = 1](http://retrothrifter.com/product/kings-quest-6-vi-adventure-retro-game-ibm-5-25-floppy-disk-big-box-1992/#&gid=1&pid=1)*
 
@@ -30,13 +30,13 @@
 
 软件的高成本和共享物理磁盘的便利性意味着反盗版措施往往难以承受。
 
-[![Dreamweaver activiation](../Images/7de736c782098588fe1015b53b468bc3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--c8JrSp11--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y1f4ww7dtvijghlp6vdd.jpg) 
+[![Dreamweaver activiation](img/7de736c782098588fe1015b53b468bc3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--c8JrSp11--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y1f4ww7dtvijghlp6vdd.jpg) 
 *我这里都不知道从何说起*
 *来源:*[https://helpx . adobe . com/x-product kb/policy-pricing/macromedia-legacy-activation-error . html](https://helpx.adobe.com/x-productkb/policy-pricing/macromedia-legacy-activation-error.html)
 
 好像通过电话激活还不够，QuarkXPress 这样的软件实际上需要你在电脑上安装一个物理硬件加密狗才能运行。是的，年轻人，你没看错！
 
-[![anti-piracy dongle](../Images/eee0872f0724648411cea645fd3eb745.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--K2nUvUAW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j7ymab1eg8n7nyfz26rb.jpg) 
+[![anti-piracy dongle](img/eee0872f0724648411cea645fd3eb745.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--K2nUvUAW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j7ymab1eg8n7nyfz26rb.jpg) 
 *加分如果你知道排名前两位的加密狗需要哪个端口*
 *来源:[https://www . planet quark . com/2017/06/14/is-a-subscription-basic-a-dongle/# . w4 bijznkh-U](https://www.planetquark.com/2017/06/14/is-a-subscription-basically-a-dongle/#.W4BiJZNKh-U)*
 
@@ -48,18 +48,18 @@
 
 当年虚拟主机最大的问题是它贵得吓人。仅仅是基本的虚拟主机服务就可能让你每月花费 30-50 美元。想要一个数据库？嗯，一个 SQL Server 或者 MySQL 数据库可能价格会翻倍。想要 SSL？那是另一个月费，另外你需要买一个证书。哦，你想安装那个证书？要做到这一点，你需要一个密码学博士学位。
 
-[![Homer hard at work](../Images/3122bb59d7d2aaa4453660e99ebec38c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Op6nOim2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l8hipusggy5zeemvz0j8.gif)
+[![Homer hard at work](img/3122bb59d7d2aaa4453660e99ebec38c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Op6nOim2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l8hipusggy5zeemvz0j8.gif)
 *Brian 在 2003 年阅读 Apache 关于安装 SSL 证书的文档的实际片段*
 
 像 Geocities 和 Angelfire 这样的网站在当时非常成功，因为它们提供免费的虚拟主机，这在当时是闻所未闻的，并且允许开发者与世界分享他们的<font>标签、布局和令人惊叹的设计。</font> 
 
-[![Geocities](../Images/8a98ae32d50fe8d3355fd074cd56cb7b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--F1ZX1_IU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cwwcj1ycepyadms4k36s.png) 
+[![Geocities](img/8a98ae32d50fe8d3355fd074cd56cb7b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--F1ZX1_IU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cwwcj1ycepyadms4k36s.png) 
 *想象一下在 IE 5 中自动播放厄运音乐的感觉有多好。*
 *来源:互联网档案馆:[https://web . Archive . org/web/*/http://www . geocities . com:80/Hollywood/2979/](https://web.archive.org/web/*/http://www.geocities.com:80/Hollywood/2979/)*
 
 当然，天下没有免费的午餐。Geocities 的自动注入广告、冗长的网址和猖獗的弹出窗口(记住这些)确保了任何开发专业网站的人都需要把钱投入到更昂贵的解决方案中。
 
-[![pop up ads](../Images/55458e23fb66debf29809ba6a83fcadc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uI7b0jDb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gknv3za27uwbj4ngiyu5.jpg) 
+[![pop up ads](img/55458e23fb66debf29809ba6a83fcadc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uI7b0jDb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gknv3za27uwbj4ngiyu5.jpg) 
 *没错小朋友们，以前的网站打开整个窗口都要像动物一样手动关闭*
 *来源:[https://www . engadget . com/2014/08/14/the-creator-of-the-pop-up-ad-says-sorry/](https://www.engadget.com/2014/08/14/the-creator-of-the-pop-up-ad-says-sorry/)*
 
@@ -71,14 +71,14 @@
 
 例如，如果你像 TJ 一样，你记得使用一个外部硬盘作为“版本控制”，并向你选择的神祈祷硬盘永远不会被需要。另一方面，Brian 回忆起以前几个角色的“官方”版本控制，包括用“.”重命名文件。文件名中有旧的或旧的。它可能看起来像是 Gwen Lofman 的演示中的例子:
 
-[![bad version control](../Images/286fb2e5a95b7aa84701d206d44a4d97.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kbNRHvLV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/frwpjk3lpj6u98s1ev5m.png) 
+[![bad version control](img/286fb2e5a95b7aa84701d206d44a4d97.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kbNRHvLV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/frwpjk3lpj6u98s1ev5m.png) 
 *是的，我们都做过。*
 
 不用说，这些方法并不理想。事实是，直到最近，合法的版本控制可能是免费的，但并不容易(如 CVS，SVN)，或者既不是免费的，也不容易(Visual SourceSafe)。
 
 学习使用这些工具通常需要相当大的努力。糟糕的合并冲突处理可能会使您的代码看起来像这样:
 
-[![something is not quite right](../Images/398fb9fb1b9000c5bad7c539dc8b3d29.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3TJhzrkM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_D3D1DC5A5039173F29204A2F8F9F82483E5184C8BE4101CD1ADAB4B5EBD07646_1535398946458_gandolf.jpeg) 
+[![something is not quite right](img/398fb9fb1b9000c5bad7c539dc8b3d29.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3TJhzrkM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_D3D1DC5A5039173F29204A2F8F9F82483E5184C8BE4101CD1ADAB4B5EBD07646_1535398946458_gandolf.jpeg) 
 *这里有些不太对劲*
 *来源:[https://redfin . engineering/visualize-merge-history-with-git-log-graph-first-parent-and-no-merges-c 6 a9 b5 ff 109 c](https://redfin.engineering/visualize-merge-history-with-git-log-graph-first-parent-and-no-merges-c6a9b5ff109c)*
 
@@ -92,7 +92,7 @@ GitHub 的出现(以及其他解决方案，例如 [BitBucket](https://bitbucket
 
 这影响的不仅仅是软件的成本。比如，碰到一个问题？也许有一个地方你可以在线报告这个错误。也许你只是祈祷明年的版本会修复这个 bug。
 
-[![waiting on bug fixes](../Images/1558622aefc44f9f3f84197bdba01dfc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LIlEckdr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xiquu512lwk0yh2jxfyd.jpg) 
+[![waiting on bug fixes](img/1558622aefc44f9f3f84197bdba01dfc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LIlEckdr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xiquu512lwk0yh2jxfyd.jpg) 
 *来源:[https://devrant.com/rants/1314645/bring-the-funny](https://devrant.com/rants/1314645/bring-the-funny)*
 
 另一件今天很难想象的事情是，许多人对开源持彻底的怀疑态度。比如说…

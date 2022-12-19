@@ -84,7 +84,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，请求一个产品页面将在本地缓存响应。对同一页面的任何后续请求都将包含 Etag，以告诉 Rails 我们有一个缓存的响应，然后将该响应与新的 Etag 进行比较。如果匹配，Rails 将跳过呈现页面，并立即返回一个`304 Not Modified`。
 
-[![A view with conditional GET requests](../Images/acc120b71dae8c9cca3ffa9a9442d73f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UcRi1_IF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.appsignal.com/images/blog/2018-05/conditional_get.jpg)
+[![A view with conditional GET requests](img/acc120b71dae8c9cca3ffa9a9442d73f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UcRi1_IF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.appsignal.cimg/blog/2018-05/conditional_get.jpg)
 
 *注意*:刷新页面将总是请求页面的未缓存版本。要测试您的条件是否有效，请使用链接或使用后退按钮导航。
 

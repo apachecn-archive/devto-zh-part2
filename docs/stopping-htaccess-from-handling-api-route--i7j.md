@@ -4,7 +4,7 @@
 
 我将一个网站的所有 http 请求路由到 index.php 文件，然后在那里以 MVC 方式处理它。但是，如果请求是由`/api`路线发出的，那么另一个文件 Api.php 应该处理它。我该怎么做呢？
 
-[![Image](../Images/0bc23212139560d82498c491a44fad63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JG0BRd6A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hmazkrpysg4flhuy66z1.png)
+[![Image](img/0bc23212139560d82498c491a44fad63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JG0BRd6A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hmazkrpysg4flhuy66z1.png)
 
 ^:这是我尝试过的，但它只是给了我一个 500 错误
 

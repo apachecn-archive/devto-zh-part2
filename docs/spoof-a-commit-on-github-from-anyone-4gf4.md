@@ -2,14 +2,14 @@
 
 > 原文：<https://dev.to/agrinman/spoof-a-commit-on-github-from-anyone-4gf4>
 
-[![](../Images/4206aa78c4f0bd2b72d9854c269fee8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1fjH1Apo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/VFQqkEo.png)
+[![](img/4206aa78c4f0bd2b72d9854c269fee8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1fjH1Apo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/VFQqkEo.png)
 
 你知道在 GitHub 上任何人都可以像你一样提交吗？如果你不相信我，就浏览这个库的[伪造提交](https://github.com/git-forge/fraudulent/commits)或[用我们的工具为自己伪造一个提交](https://spoof.krypt.co)。
 
 ## 自己试试:【spoof.krypt.co】T2
 
-[![](../Images/f671cc1554af2be26fed0adf546a1a2f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QCC3tiso--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c2y6no7q9zave83ay12p.png)
-[![](../Images/b2ee4445cb233b6c14921762fc8510cd.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--ClLonBt5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xj1k0213nn9nnujn3q7a.png)
+[![](img/f671cc1554af2be26fed0adf546a1a2f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QCC3tiso--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c2y6no7q9zave83ay12p.png)
+[![](img/b2ee4445cb233b6c14921762fc8510cd.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--ClLonBt5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xj1k0213nn9nnujn3q7a.png)
 
 ## 它是如何工作的？
 
@@ -39,7 +39,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 看看这个签名的提交: [kryptco/kr@0cca333](https://github.com/kryptco/kr/commit/0cca333) 。
 
-[![](../Images/548d7992f6719040fce5e2220ff61ef8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VJfoCdtt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/S7S3HW6.png)
+[![](img/548d7992f6719040fce5e2220ff61ef8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VJfoCdtt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/S7S3HW6.png)
 
 如果提交没有绿色的“已验证”徽章，那么它可能是由任何人创作的！
 

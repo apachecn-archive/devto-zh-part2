@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/pancy/concurrency-in-go-vs-erlang-595a>
 
-[![night view of cars on a bridge](../Images/c2a2a11cea41c536adad5298f6bd258d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yDw3JxY1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1508980557051-0c1fa6f01c1f%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3De19e72e5204395968c4f2d069fc03247%26auto%3Dformat%26fit%3Dcrop%26w%3D1651%26q%3D80)
+[![night view of cars on a bridge](img/c2a2a11cea41c536adad5298f6bd258d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yDw3JxY1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1508980557051-0c1fa6f01c1f%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3De19e72e5204395968c4f2d069fc03247%26auto%3Dformat%26fit%3Dcrop%26w%3D1651%26q%3D80)
 
 我写 Go 已经一年多了，并且已经成功地写了一个相当大的库。
 

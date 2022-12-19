@@ -4,7 +4,7 @@
 
 *这篇文章最初发表在我们的[博客](https://mobilejazz.com/blog/ux-user-onboarding-in-mobile-apps/)上。*
 
-[![](../Images/6e79133e39c9357a6225688585be4a9a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XGk64lW3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/03/ux-onboarding-main.jpg)
+[![](img/6e79133e39c9357a6225688585be4a9a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XGk64lW3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/03/ux-onboarding-main.jpg)
 
 用户体验(UX)设计是让消费者使用数字产品变得容易和愉快的学科。但是在用户对你流畅直观的应用留下深刻印象之前，他们必须充分参与进来。
 
@@ -26,7 +26,7 @@
 
 收件箱就是一个很好的例子(见下文)。收件箱提供了一种方便的方式来管理您的个人电子邮件收件箱，让您体验更简单的电子邮件管理。该应用程序自动捆绑不太重要的电子邮件，并提供每封电子邮件内容的有用预览。通过突出显示应用程序中的图标，Inbox 的入职流程给出了如何使用其各种功能的提示。
 
-[![](../Images/aa864182dc347c2ead7bce291a8a56f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zEhsdKXf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/03/ux-onboarding-inbox.png)
+[![](img/aa864182dc347c2ead7bce291a8a56f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zEhsdKXf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/03/ux-onboarding-inbox.png)
 
 ### 展示你的应用程序的独特优势
 
@@ -36,7 +36,7 @@ Slack 是一款概念介绍做得非常好的应用。他们的入职时间很�
 
 Slack 向用户展示了能够与你的整个团队沟通的关键好处；然后他们强调了 Slack 与其他有用平台无缝集成的事实。最后，他们友好地邀请在应用程序中创建一个团队——预测用户想在应用程序中做的第一个功能。
 
-[![](../Images/3b6136f835ebb75d6ac85f7c0754a3f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vPLMOJRJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/03/ux-onboarding-slack.png)
+[![](img/3b6136f835ebb75d6ac85f7c0754a3f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vPLMOJRJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/03/ux-onboarding-slack.png)
 
 ### 使用渐进式入职培训指导用户
 
@@ -44,7 +44,7 @@ Slack 向用户展示了能够与你的整个团队沟通的关键好处；然�
 
 利用这一时机，还可以强调如何使用该应用程序的提示。这种方法让用户在探索特性的时候就开始使用，而不是在第一次打开一个应用的时候做一个全面的概述。Human 是一款跟踪活动/卡路里摄入的应用，它以一种干净简单的方式进行渐进式入职培训:
 
-[![](../Images/9823ec79efe32fb31971d56e0df46637.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MNzBe43z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/03/ux-onboarding-ux.png)
+[![](img/9823ec79efe32fb31971d56e0df46637.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MNzBe43z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/03/ux-onboarding-ux.png)
 
 这种情况也可以与上面建议的技巧相结合，但是请记住，重复使用这种策略需要精心设计，这样你就不会让新用户认为你的应用程序只是一个大的用户手册，从而让他们不知所措。
 
@@ -92,11 +92,11 @@ Snapchat 推出时，在年轻人中取得了巨大成功。然而，最近，�
 
 最初，这并不是吸引数百万年轻用户注意力的障碍。虽然最近 Snapchat 受到了一些主要的负面报道，他们的最新更新也没有起到任何帮助作用，但值得注意的是，Snapchat 的 UX 往往会让用户感觉更老...
 
-[![](../Images/67a1d8595e6d9d32f0b211dca4818a88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KWognIic--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/03/ux-onboarding-snapchat-2.png)
+[![](img/67a1d8595e6d9d32f0b211dca4818a88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KWognIic--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/03/ux-onboarding-snapchat-2.png)
 
-[![](../Images/7fd50e98e7aa3af917178ca5ffa78c1c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v-YnYnWI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/03/ux-onboarding-sanpchat-1.png)
+[![](img/7fd50e98e7aa3af917178ca5ffa78c1c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v-YnYnWI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/03/ux-onboarding-sanpchat-1.png)
 
-[![](../Images/f45cdef1836ded384eaaa30e082ed960.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uwIl1ZMH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/03/ux-onboarding-snapchat-3.png)
+[![](img/f45cdef1836ded384eaaa30e082ed960.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uwIl1ZMH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/03/ux-onboarding-snapchat-3.png)
 
 ## 让它感觉自然
 

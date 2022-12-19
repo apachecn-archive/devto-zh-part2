@@ -30,7 +30,7 @@
 
 下图演示了这种体系结构。
 
-[![alt text](../Images/70885d26cfe4c43f6c5db5e0e7c4e760.png "architecture diagram")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ApKbMjF8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2Ax3t-q0vFTY8L3Rn4J0pSAQ.png)
+[![alt text](img/70885d26cfe4c43f6c5db5e0e7c4e760.png "architecture diagram")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ApKbMjF8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2Ax3t-q0vFTY8L3Rn4J0pSAQ.png)
 
 履行
 
@@ -353,7 +353,7 @@ public class TenantHeaderOperationFilter : IOperationFilter
 
 这是应用过滤器后 API 的外观。
 
-[![alt text](../Images/3b0c27175d4e626e32d959675c48a97b.png "swagger api demo")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7j4gq4XH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2A2Lw0-R7Zn-_s7rzDcIejkg.png)
+[![alt text](img/3b0c27175d4e626e32d959675c48a97b.png "swagger api demo")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7j4gq4XH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2A2Lw0-R7Zn-_s7rzDcIejkg.png)
 
 服务类(DeviceService.cs)的当前示例包含按 id 检索设备和为特定租户添加新设备的功能。此处提供[服务层的源代码](https://github.com/Boriszn/DeviceManager.Api/blob/master/src/DeviceManager.Api/Services/DeviceService.cs)
 

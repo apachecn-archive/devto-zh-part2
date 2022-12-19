@@ -34,7 +34,7 @@ Git 基本上是一个版本控制系统(又名 VCS)。有许多版本控制系�
 
 你没看微软收购 GitHub 的最新消息吗？是的，GitHub 现在是其中一个大玩家的产品。[了解更多信息](https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/)。
 
-[![Microsoft acquired GitHub](../Images/241f330ab1dcf1ddffa28827335f4c5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IzOHVXul--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o899hg66zx6yhrpz0nfm.jpg)
+[![Microsoft acquired GitHub](img/241f330ab1dcf1ddffa28827335f4c5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IzOHVXul--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o899hg66zx6yhrpz0nfm.jpg)
 
 为什么应该使用版本控制系统？
 
@@ -76,7 +76,7 @@ Linux 项目使用 git，成千上万的人同时使用它，他们每月发布�
 
 现在该使用黑客的工具了，*终端*或*命令提示符*。
 
-[![Picture of Computer hacking](../Images/c99370ef0645918e6eba9d04eac7313e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7JJaL1uP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/093b967de4114d379d5860ff0c335c2a/tenor.gif%3Fitemid%3D7506285)
+[![Picture of Computer hacking](img/c99370ef0645918e6eba9d04eac7313e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7JJaL1uP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.cimg/093b967de4114d379d5860ff0c335c2a/tenor.gif%3Fitemid%3D7506285)
 
 ## 项目设置:
 
@@ -92,7 +92,7 @@ Linux 项目使用 git，成千上万的人同时使用它，他们每月发布�
 
 一旦你在 GitHub 中创建了一个存储库，它的主页将会是这样的，
 
-[![Linux repository in GitHub](../Images/4380c8c630fcb45f71c632e290041c38.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--thr0CGsN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f4n02rv0ozkgm3igmbs0.png)
+[![Linux repository in GitHub](img/4380c8c630fcb45f71c632e290041c38.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--thr0CGsN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f4n02rv0ozkgm3igmbs0.png)
 
 点击**克隆或下载**按钮，可以看到链接。这是 Git 的 URL。复制它。你一会儿会用到它。
 
@@ -136,7 +136,7 @@ Linux 项目使用 git，成千上万的人同时使用它，他们每月发布�
 
 就这样，你的代码现在在云端了。
 
-[![Picture of cloud](../Images/e989b17a572b694cdb4d3f0b8dd48e08.png)T2】](https://i.giphy.com/media/HgycnYQCMeJXO/giphy.gif)
+[![Picture of cloud](img/e989b17a572b694cdb4d3f0b8dd48e08.png)T2】](https://i.giphy.com/media/HgycnYQCMeJXO/giphy.gif)
 
 转到 GitHub 的存储库页面，你可以在那里看到你所有的文件修改。
 

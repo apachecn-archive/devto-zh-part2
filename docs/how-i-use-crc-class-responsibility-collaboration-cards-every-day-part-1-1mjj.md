@@ -48,11 +48,11 @@
 
 例如，在我的一个团队中，我根据我们刚刚完成的一项工作提前做了以下工作:
 
-[![](../Images/1ebf27bcb88f42fa5753e495d08ccd15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2C8srUdh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Amvs3sqQEBapabFkhZC36kw.jpeg)
+[![](img/1ebf27bcb88f42fa5753e495d08ccd15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2C8srUdh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Amvs3sqQEBapabFkhZC36kw.jpeg)
 
 然后要求团队根据我们团队的技术策略进行协作重构。他们这样做了:
 
-[![](../Images/8b67c88c5818a24efcf2c88a0ce5f3d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZiBjNuT2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AVYzYAfa7IWoF-OT-CsqL4Q.jpeg)
+[![](img/8b67c88c5818a24efcf2c88a0ce5f3d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZiBjNuT2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AVYzYAfa7IWoF-OT-CsqL4Q.jpeg)
 
 他们整合了真正的复制逻辑，使我们的一个控制器更像我们应用程序中的其他控制器，并减少了我们对一些对象的依赖。
 

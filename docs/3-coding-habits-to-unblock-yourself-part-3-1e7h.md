@@ -20,13 +20,13 @@
 
 这里有一个例子:
 
-[![Alt text of image](../Images/ec916cc7e710478cc3ea308f5d571251.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0zH6Prrk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wzftrp9hm9c9k6pfh3k0.JPG)
+[![Alt text of image](img/ec916cc7e710478cc3ea308f5d571251.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0zH6Prrk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wzftrp9hm9c9k6pfh3k0.JPG)
 
 在这个“来自过去的爆炸”的例子 FizzBuzz 挑战中，我决定在第 7 行添加一个**调试器**关键字，以便在找到一个能被 3 整除的数之前暂停循环。
 
 因此，它不是在长度为 100 的挑战中循环，而是从数字 1 开始循环....2....然后由于我添加的断点，在打开的浏览器中的 3 处暂停。
 
-[![Alt text of image](../Images/68c8fe9b11aec1b3c84567d71d58046c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g0fPEv8Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kiouhr4medsf1ms209ao.JPG)
+[![Alt text of image](img/68c8fe9b11aec1b3c84567d71d58046c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g0fPEv8Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kiouhr4medsf1ms209ao.JPG)
 
 如果我没有添加一个**调试器**关键字，那么当循环到达数字 3 时，它应该激活第 6 行的 If 语句，然后该语句将 console . log“Fiz”并继续循环其余的数字
 

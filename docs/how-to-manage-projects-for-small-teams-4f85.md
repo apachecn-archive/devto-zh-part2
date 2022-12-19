@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/joshspilker/how-to-manage-projects-for-small-teams-4f85>
 
-[![](../Images/c08578dfec4af948a740aa57faa63023.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pnLboS6z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://clickup.com/blog/wp-content/uploads/2018/09/pm-for-small-teams.png)
+[![](img/c08578dfec4af948a740aa57faa63023.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pnLboS6z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://clickup.com/blog/wp-content/uploads/2018/09/pm-for-small-teams.png)
 
 项目管理仍然没有为小团队提供一个很好的解决方案。你身兼多职，每个人都参与任务、项目和细节。你被期望帮助做任何事情；真的，你不会有任何其他方式。
 
@@ -42,7 +42,7 @@
 
 #### **ClickUp 特性:**自定义通知、集成、任务大视图、收藏夹、报告、多视图、粒度通知
 
-[![](../Images/0fdc07b9681f0d853788904eba417422.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8TyiLJhX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://downloads.intercomcdn.com/i/o/63804174/9dab0ad74aac9068f03b21b4/notifications-granular.gif)
+[![](img/0fdc07b9681f0d853788904eba417422.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8TyiLJhX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://downloads.intercomcdn.com/i/o/63804174/9dab0ad74aac9068f03b21b4/notifications-granular.gif)
 
 小型团队的项目管理需要所有任务和项目的透明性，因为每个团队成员更有可能参与许多不同的任务。为此，团队成员需要个性化的观点和高层的 [团队观点](https://clickup.com/views) 。ClickUp 有专门的“我”视图，可以查看具体分配给你的任务。这些任务可以根据状态、截止日期和优先级进一步筛选，以帮助您按照需要的方式工作。
 
@@ -60,7 +60,7 @@ ClickUp 中的 [高级报告](https://docs.clickup.com/features/reporting) 向�
 
 #### **项目软件需求:**软件集成、评审功能、任务细节、时间跟踪、富文本编辑、电子邮件附件
 
-[![](../Images/882cde1735e98e4acf3eb975033ec239.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wi21oiFS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://downloads.intercomcdn.com/i/o/59144681/47594288989157cfeef3c2e1/Board_View.gif)
+[![](img/882cde1735e98e4acf3eb975033ec239.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wi21oiFS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://downloads.intercomcdn.com/i/o/59144681/47594288989157cfeef3c2e1/Board_View.gif)
 
 通过 ClickUp，设计师可以上传附件和图片，并将图片钉在 [板](https://docs.clickup.com/general/board-view) 中查看。设计师、开发人员和创意经理可以看到任务之间的联系。
 
@@ -90,7 +90,7 @@ ClickUp 还集成了 Gitlab、Github、Bitbucket(即将推出！)这样您的代
 
 产品经理喜欢 ClickUp，因为它让他们的工作更容易。当然，每一个项目管理软件可能都这么说，但是有多少能支持它呢？下面是如何做到的: [任务细节中丰富的编辑](https://clickup.com/rich-text-editor) 帮助产品经理真实地表达一个产品的需求，有充足的空间来书写，添加图片和亮点。在任务中使用全屏模式，以获得更多创作空间。产品经理还可以 [为任务分配优先级](https://docs.clickup.com/features/priorities) ，以帮助其他团队成员了解下一步的工作，然后为不同的项目和列表设置自定义状态 [自定义特定工作流的 ClickUp](https://clickup.com/custom-project-management) 。
 
-[![](../Images/e59a3f6e411ffa019e572e48c7d37ba8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cIZ_VJHP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://downloads.intercomcdn.com/i/o/36039795/96d1ed7cc6b4b1f27aa84157/addtags.gif)
+[![](img/e59a3f6e411ffa019e572e48c7d37ba8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cIZ_VJHP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://downloads.intercomcdn.com/i/o/36039795/96d1ed7cc6b4b1f27aa84157/addtags.gif)
 
 还有什么？人们喜欢 ClickUp 中的 [标签，因为它们提供了一种不同的方式来跨空间和列表链接项目和任务。如果多个团队成员在一个项目的一个片段上工作，但是这些片段需要在不同的列表中，标签是您的快捷方式。或者使用标签来创建更大的桶，比如按客户或主题区域过滤。](https://clickup.com/blog/use-tags-clickup/)
 

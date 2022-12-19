@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jbardon/a-quick-guide-to-learn-react-and-how-its-virtual-dom-works-4bci>
 
-<figure>[![](../Images/d52afb9966c3e4b491fd8ec074a55e7a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sbN-Vr-l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/0%2AvQXljCx6DN_aNLWD.jpg) 
+<figure>[![](img/d52afb9966c3e4b491fd8ec074a55e7a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sbN-Vr-l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/0%2AvQXljCx6DN_aNLWD.jpg) 
 
 <figcaption>图片由 [@simonmigaj](http://twitter.com/simonmigaj) 来自 Unsplash</figcaption>
 

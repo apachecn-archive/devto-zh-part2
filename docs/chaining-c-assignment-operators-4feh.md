@@ -195,7 +195,7 @@ namespace AssignmentOperatorChaining
 Enter fullscreen mode Exit fullscreen mode
 
 以及由此产生的 il...
-[![IL codes Compare](../Images/fc9ad7e36304cbbba81e752f10f21452.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--d2ha_xZs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kxdw4rz19suvto3hqx7f.PNG) 
+[![IL codes Compare](img/fc9ad7e36304cbbba81e752f10f21452.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--d2ha_xZs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kxdw4rz19suvto3hqx7f.PNG) 
 非常有趣的输出。更有意思的是当把 exe 喂给。Net 反汇编程序，比如 JustDecompile，逆向工程`swap5()`的代码`C#`实际上是:
 
 ```
@@ -216,7 +216,7 @@ Enter fullscreen mode Exit fullscreen mode
 (我也用 JetBrains 的 dotPeek 测试过，然而，`swap5()`的反汇编输出在 dotPeek 中触发了一种恐慌模式，导致了不可编译的`C#`代码。)
 
 如果我们仔细看看，`swap2()`和`swap3()`真的没有区别，似乎`swap1()`产生了最短的`IL`代码，这也可以在运行在反汇编 x86 模式时得到证实:
-[![x86 instructions](../Images/d5c91547b906a4f6bd475b55a247977b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IB13HB28--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1voyjqlqi9ihj4apuzv0.PNG)
+[![x86 instructions](img/d5c91547b906a4f6bd475b55a247977b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IB13HB28--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1voyjqlqi9ihj4apuzv0.PNG)
 
 不管我们是否认为`a ^= b ^= a ^= b`赋值操作符链接是一个`C#`编译器错误(测试也是使用。Net Core 2.1 在 Windows 和 Linux 中，同样的结果)，这个故事的寓意是，有时，最简单的事情往往可能是最好的和/或最快的- K.I.S.S .更不用说同时 swap1()也更容易阅读。
 

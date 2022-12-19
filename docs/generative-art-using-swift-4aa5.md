@@ -4,7 +4,7 @@
 
 几周前，阿里·斯皮特尔(Ali Spittel)在我的博客上发了一篇帖子，展示了如何使用 Javascript 创作艺术作品:
 
-[![aspittel image](../Images/45a8d86fe0ff981bf7cdb45b471a3c5c.png)](/aspittel) [## 生成艺术导论
+[![aspittel image](img/45a8d86fe0ff981bf7cdb45b471a3c5c.png)](/aspittel) [## 生成艺术导论
 
 ### 阿里·斯皮特尔 9 月 25 日 186 分钟阅读
 

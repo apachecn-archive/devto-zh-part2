@@ -20,7 +20,7 @@ Panel {Padding=5,2,5,4}
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![title bar screenshot](../Images/d36ab3a9577d929565631ef31ea576ca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xTZPULIA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/03/screen-shot-2018-03-26-at-09-50-30.png)
+[![title bar screenshot](img/d36ab3a9577d929565631ef31ea576ca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xTZPULIA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/03/screen-shot-2018-03-26-at-09-50-30.png)
 
 图标可能有一个固定的大小，但是它们的位置，在左边和右边，并不代表标题栏的总宽度。用矩形绘制的分隔线不知道元素有多高，也不知道它的实际宽度；我们添加了两点填充，让它在底部有空间。不管元素大小如何，文本都是居中的，但是文本的大小会影响元素的整体大小。
 
@@ -32,7 +32,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们可以不展开单个元素，而是将更多的元素放入显示中。在手机上，在纵向布局中，我们可能有几个项目是垂直排列的。平板电脑上的用户有更多的空间，因此我们可以使用多列来显示更多的项目。
 
-[![1-vs-N columns screenshot](../Images/f4f9352d652fb288082e5f7418265748.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4pgInX7E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/03/screen-shot-2018-03-26-at-09-26-522.png)
+[![1-vs-N columns screenshot](img/f4f9352d652fb288082e5f7418265748.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4pgInX7E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/03/screen-shot-2018-03-26-at-09-26-522.png)
 
 一种方法是将一个屏幕逻辑上分成一些列，比如 12 列。放置图元时，需要指定它在逻辑上覆盖多少列。项目流入列:它们从左到右填充列，如果它们到达行的末尾，就换到下一行。较小的设备将适应具有较少的列:缠绕将更快发生。
 
@@ -42,7 +42,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 类似于查看更多项目，我们可以扩展可视化以覆盖更大的范围或区域。例如，条形图可以显示横向模式比纵向模式更长的时间跨度。地图的可视区域将覆盖它所拥有的任何可用空间。注释框可以显示更多的文本。
 
-[![small large mapview screenshot](../Images/dc5a0ce88737316cb2d5139a854b0869.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jq_3llOI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/03/screen-shot-2018-03-26-at-09-44-02.png)
+[![small large mapview screenshot](img/dc5a0ce88737316cb2d5139a854b0869.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jq_3llOI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/03/screen-shot-2018-03-26-at-09-44-02.png)
 
 这些类型的控件展示了内部和外部布局之间的差异。布局引擎关心的是如何放置控件本身，而不是它显示的内容。除了扩展以适应某个区域之外，布局引擎几乎不支持这种类型的控件。每个控件本身都必须处理如何呈现数据和管理其内部布局。
 
@@ -50,7 +50,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 性能的另一个选择和重大挑战是隐藏和显示元素的能力。紧凑的用户简档可能只显示图像和名称，而较大的用户简档可能会介绍位置和标签。不是显示更多的时间，而是一个图表可能会变得更大，显示更多的数字和关键数字。
 
-[![expanding profile card screenshot](../Images/b3143668a5ca4961fa69a51de410e89f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r7g1RHgW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/03/screen-shot-2018-03-26-at-09-40-09.png)
+[![expanding profile card screenshot](img/b3143668a5ca4961fa69a51de410e89f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r7g1RHgW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/03/screen-shot-2018-03-26-at-09-40-09.png)
 
 小块信息不会改变应用程序的整体布局；他们适合它。布局引擎需要一种方法来编码和响应不断变化的约束。当达到某个尺寸时，或者基于方向，可以显示一小块。
 

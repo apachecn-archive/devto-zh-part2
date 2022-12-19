@@ -10,7 +10,7 @@
 
 分享你自己设计的漂亮的复选框。我们都能学到一两件事。
 
-[![](../Images/6fcd3fc42a0b1ee45bf6391f78162ecc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LxkzmulD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6igz788bcvvbvtukyioy.gif)
+[![](img/6fcd3fc42a0b1ee45bf6391f78162ecc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LxkzmulD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6igz788bcvvbvtukyioy.gif)
 
 *Codepen 网址:*【https://codepen.io/worldclassdev/full/xJmrax/ T2】
 

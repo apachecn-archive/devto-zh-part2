@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/mrm8488/5-quick-rules-on-modeling-your-mongodbs-schemas-5f0k>
 
-[![](../Images/48c37bf4348062563e0c6068fd8581c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aO5uzVak--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u7b9mvtin7rmhy4ohbut.JPG)
+[![](img/48c37bf4348062563e0c6068fd8581c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aO5uzVak--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u7b9mvtin7rmhy4ohbut.JPG)
 
 NoSQL 数据库是一项相对较新的技术，因此关于何时以及如何使用它们有很多问题。
 

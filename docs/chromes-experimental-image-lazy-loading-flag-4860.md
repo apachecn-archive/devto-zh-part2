@@ -8,7 +8,7 @@
 
 这些数据清楚地表明，利用 Javascript 延迟加载图片是加快网站加载速度的一个好方法。Dean Hume 写了一篇关于使用交叉点观察器来延迟加载图像的文章。2018 年 8 月，Chrome 在 Canary 宣布了一个实验标志，浏览器将在不使用 Javascript 的情况下懒惰加载图像。这是非常令人兴奋的——这样的实现可以加速今天网络上的每一页。在 Canary 中，浏览到 Chrome://flags，并启用“启用延迟加载”
 
-[![](../Images/94e457748c31ed723c1f0f6c543b362e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OWFebfDC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/719/0%2AE077SlB9MDpUvXH6)
+[![](img/94e457748c31ed723c1f0f6c543b362e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OWFebfDC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/719/0%2AE077SlB9MDpUvXH6)
 
 ### 那么它是如何工作的呢？
 
@@ -16,13 +16,13 @@
 
 让我们来看看 HTTP 网站，看看页面在关闭延迟加载的情况下是如何加载的。以下是完全加载页面的屏幕截图，每个视窗都用红线标记:
 
-[![](../Images/bca12bbf0636fb4fb5a6adca92d57e8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jJfke5KS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/219/0%2APWoDyUez1sZy5VZr)
+[![](img/bca12bbf0636fb4fb5a6adca92d57e8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jJfke5KS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/219/0%2APWoDyUez1sZy5VZr)
 
 ### 无懒加载
 
 那么，这个页面是如何加载的呢？让我们来看看我一路上拍的几张快照:
 
-[![](../Images/ede2f7bcb015a4422fb0f77807bb27fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9J2zwLAW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/677/0%2AQnfY49lu4nCtrFmU)
+[![](img/ede2f7bcb015a4422fb0f77807bb27fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9J2zwLAW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/677/0%2AQnfY49lu4nCtrFmU)
 
 1.  有文字，但是没有图像。
 2.  折叠占位符图像上方有一个绿色，与最终视窗#3 中的一个一样。
@@ -36,7 +36,7 @@
 
 现在，启用延迟加载标志，让我们观察页面加载:
 
-[![](../Images/8c84e7ce80016e443fe25b4950ccc75b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5tvkwPHU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/724/0%2AnrL7a3jKVqkO7q9k)
+[![](img/8c84e7ce80016e443fe25b4950ccc75b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5tvkwPHU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/724/0%2AnrL7a3jKVqkO7q9k)
 
 1.  只有文字。
 2.  前两个占位符图像(都在第一个视窗中)
@@ -47,7 +47,7 @@
 
 差异比比皆是。首先，启用了惰性加载标志后，页面在这个过程的早期就已经完全布局好了。浏览器对每个图像进行 HTTP 206(部分内容)请求。请求每个图像的前 2KB。在图像的前 2 KB 中是元数据，包括图像的尺寸和大小(以 KB 为单位)。有了这些信息，浏览器可以创建占位符图像并最终确定页面的框架。仔细观察每张背景图片，Chrome 还增加了每张图片的大小(KB ):
 
-[![](../Images/f93fcc3eddaf3483de240102ca44cf5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SdZVsvaF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/668/0%2ACAcgIr_wByg5Qslt)
+[![](img/f93fcc3eddaf3483de240102ca44cf5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SdZVsvaF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/668/0%2ACAcgIr_wByg5Qslt)
 
 其次，既然浏览器知道了页面上图像的顺序，就可以按照从上到下的顺序请求图像，将最重要的图像(在顶部)加载到页面上较低的图像上。
 
@@ -61,7 +61,7 @@
 
 此外，我看到我页面顶视图中的前四张图片被下载了两次( [875676](https://bugs.chromium.org/p/chromium/issues/detail?id=875676) )。这肯定会损害页面加载时间和速度指数。
 
-[![](../Images/3a0680f969e0c3f35082fbb69ca9ae11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UOsRGDfS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/745/0%2Aga3q99SUwTo6TEP3)
+[![](img/3a0680f969e0c3f35082fbb69ca9ae11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UOsRGDfS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/745/0%2Aga3q99SUwTo6TEP3)
 
 ### 网页测试行为(金丝雀 71.0.3554.4)
 

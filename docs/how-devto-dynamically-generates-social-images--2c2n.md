@@ -8,7 +8,7 @@
 
 ### 这是一个#讨论帖子的 Twitter 卡片示例
 
-[![](../Images/d4107140c6b6bae6592f90ea82af487c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XhONnVF5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5wug0xrfibr56uhe3o1w.png)
+[![](img/d4107140c6b6bae6592f90ea82af487c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XhONnVF5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5wug0xrfibr56uhe3o1w.png)
 
 ## 我们做什么
 

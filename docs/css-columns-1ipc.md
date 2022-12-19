@@ -43,7 +43,7 @@
     </style> 
 ```
 
-[![CSS columns example with content that contain all columns width](../Images/6cac0c7c7622229fff3cdb6da52b58b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Su7MH9Um--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://kolosek.com/content/images/2018/02/Blog_-_CSS_columns_-_1.png)
+[![CSS columns example with content that contain all columns width](img/6cac0c7c7622229fff3cdb6da52b58b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Su7MH9Um--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://kolosek.com/conteimg/2018/02/Blog_-_CSS_columns_-_1.png)
 
 此示例表示将内容分成定义宽度的列，并在它们之间定义间隙。
 
@@ -60,7 +60,7 @@
     </style> 
 ```
 
-[![CSS columns example with content that contain all columns width](../Images/97c4ca730e3c4ef1e9792f3a9bdad1da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tOwjp7VP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://kolosek.com/content/images/2018/02/Blog---CSS-columns---2.png)
+[![CSS columns example with content that contain all columns width](img/97c4ca730e3c4ef1e9792f3a9bdad1da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tOwjp7VP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://kolosek.com/conteimg/2018/02/Blog---CSS-columns---2.png)
 
 此示例显示了交错排列在 3 列中的内容，并在它们之间定义了规则。
 
@@ -77,7 +77,7 @@
     </style> 
 ```
 
-[![CSS columns example with content that contain all columns width](../Images/7c5c00bba00edc2433ce3ce8b946874b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sMYS2Srg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://kolosek.com/content/images/2018/02/Blog---CSS-columns---3.png)
+[![CSS columns example with content that contain all columns width](img/7c5c00bba00edc2433ce3ce8b946874b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sMYS2Srg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://kolosek.com/conteimg/2018/02/Blog---CSS-columns---3.png)
 
 最后一个示例将内容表示为列和元素，包括所有列宽。
 
@@ -95,7 +95,7 @@
     </style> 
 ```
 
-[![CSS columns example with content that contain all columns width](../Images/4956cd4a0294c1557bb7563f657853dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d3w2a2Dz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://kolosek.com/content/images/2018/02/Blog---CSS-columns---4.png)
+[![CSS columns example with content that contain all columns width](img/4956cd4a0294c1557bb7563f657853dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d3w2a2Dz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://kolosek.com/conteimg/2018/02/Blog---CSS-columns---4.png)
 
 我相信这就是 CSS 中关于列属性的所有内容。希望有帮助！
 

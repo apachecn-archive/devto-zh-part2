@@ -6,4 +6,4 @@
 
 [读读#️⃣](https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/?utm_source=dev&utm_medium=sc&utm_campaign=dasec_salting)
 
-[![Adding Salt to Hashing: A Better Way to Store Passwords](../Images/102374f72136550079a998b7d373860c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1lrGllm0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4vzea80stkvs6q2fawnf.png)
+[![Adding Salt to Hashing: A Better Way to Store Passwords](img/102374f72136550079a998b7d373860c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1lrGllm0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4vzea80stkvs6q2fawnf.png)

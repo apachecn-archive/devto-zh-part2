@@ -149,7 +149,7 @@ class Car(col: String, mk: String) {
 
 运行整个程序时，您应该会看到类似这样的内容:
 
-[![output1](../Images/541a3e8a1f589c3286621db0dda3f5d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--50vw6IJE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/80q8vucj7h4x7nnurzmg.png)
+[![output1](img/541a3e8a1f589c3286621db0dda3f5d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--50vw6IJE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/80q8vucj7h4x7nnurzmg.png)
 
 ### **让它对用户友好——从命令行添加标准输入**
 
@@ -169,7 +169,7 @@ def readCoordinates(carName: String){
 
 现在，如果你想从命令行运行你的程序，只需转到`yourProject/target/scala*/classes/`并键入`scala yourProject`，你应该被要求输入 x 和 y 坐标。请记住，目前网格设置为 5*5 字段，所以您的坐标应该在[0，4]之间。
 
-[![commandline](../Images/48d3cc29c86a5f55e1d5121f4f364386.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nFAiUPAN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ue2raljwotg5cur0fon9.png)
+[![commandline](img/48d3cc29c86a5f55e1d5121f4f364386.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nFAiUPAN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ue2raljwotg5cur0fon9.png)
 
 你可以访问整个项目，包括在 [github](https://github.com/BettyES/carPark) 上的第二辆车的解决方案。
 

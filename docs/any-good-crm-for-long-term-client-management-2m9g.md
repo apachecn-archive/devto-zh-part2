@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/pilskalns/any-good-crm-for-long-term-client-management-2m9g>
 
-[![](../Images/c89db63ec1279b7efeb5072c16a6994d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I4Up51uN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/su25a5ouimildlzorf4c.jpg)
+[![](img/c89db63ec1279b7efeb5072c16a6994d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I4Up51uN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/su25a5ouimildlzorf4c.jpg)
 
 嗨，
 

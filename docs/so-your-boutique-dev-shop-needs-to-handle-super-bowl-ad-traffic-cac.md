@@ -14,7 +14,7 @@
 
 也许他们并不知道它会有多成功，但是当美国人蜂拥到他们的网站时，它几乎立即被拥抱致死。
 
-[![](../Images/bc7a92ee6205a0aa88947bd4f89123d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VqyMjU2L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dn6q145hlsh0pd5wu7js.png)
+[![](img/bc7a92ee6205a0aa88947bd4f89123d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VqyMjU2L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dn6q145hlsh0pd5wu7js.png)
 
 该网站的建立是为了每分钟处理 [150，000 个请求](http://adage.com/article/super-bowl/84-lumber-made-a-statement-website-crashed/307870/)，甚至远远不能满足流量。不用说，对于那些参与者来说，这是一个不太理想的结果。
 
@@ -36,7 +36,7 @@
 
 ## 避免假想的缩放问题
 
-> ![unknown tweet media content](../Images/885a4f42413fffff5e37972178590771.png)![The Practical Dev profile image](../Images/fbf25e6c8920b0aa54c6073846fc627c.png)实用 Dev[@ thepracticaldev](https://dev.to/thepracticaldev)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)第一章:名字很酷的数据库2016 年 11 月 21 日下午 17:27[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=800752571497545729)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=800752571497545729)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=800752571497545729)
+> ![unknown tweet media content](img/885a4f42413fffff5e37972178590771.png)![The Practical Dev profile image](img/fbf25e6c8920b0aa54c6073846fc627c.png)实用 Dev[@ thepracticaldev](https://dev.to/thepracticaldev)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)第一章:名字很酷的数据库2016 年 11 月 21 日下午 17:27[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=800752571497545729)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=800752571497545729)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=800752571497545729)
 
 我想说的是，扩展问题并不像我们有时想象的那样普遍。通常我们的默认方法就足够了。如果你不在问题不存在的时候过度设计问题，那就更容易证明它们是真正的问题。不要成为在扩展问题上喊狼来了的开发人员！
 

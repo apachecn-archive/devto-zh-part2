@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/franken/how-to-generate-prestashop-invoice-by-customer-name-2gbp>
 
-[![](../Images/3def0eb6bfd1466eabc2c257b37de9ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GtxXRVRd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.com/images/stories/generate-prestashop-invoice-by-customer-name.jpg)
+[![](img/3def0eb6bfd1466eabc2c257b37de9ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GtxXRVRd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.cimg/stories/generate-prestashop-invoice-by-customer-name.jpg)
 
 ## 想按客户名称而不是枯燥的数字生成发票？
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/xeroxism/how-to-install-anbox-in-ubuntu-linux-26d3>
 
-[![how_to_install_anbox_banner](../Images/b7c72925a30ad404d9a1857f1154a0ab.png)T2】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/09/how_to_install_anbox_banner.png?ssl=1)
+[![how_to_install_anbox_banner](img/b7c72925a30ad404d9a1857f1154a0ab.png)T2】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/09/how_to_install_anbox_banner.png?ssl=1)
 
 Anbox 是一个用于 Linux 系统的嵌入式 android 仿真平台。简单地说，Anbox 允许你在 Linux 系统上运行原生的 android 应用程序。在这篇文章中，我将向你展示如何在 Ubuntu Linux 系统上安装它。
 
@@ -114,7 +114,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 你走向你的 Ubuntu dash，在“anbox”中输入，然后点击带有 android 标志的“”来启动它。可用的默认应用程序包括:联系人、图库、文件、电子邮件音乐、计算器、时钟、设置和电子邮件。
 
-[![anbox default apps](../Images/a2179bb2ec2997285d8624c6dec532b5.png)T2】](https://i0.wp.com/fossnaija.com/wp-content/uploads/2018/09/anbox-default-apps.png?ssl=1)
+[![anbox default apps](img/a2179bb2ec2997285d8624c6dec532b5.png)T2】](https://i0.wp.com/fossnaija.com/wp-content/uploads/2018/09/anbox-default-apps.png?ssl=1)
 
 快乐的 Linux！
 

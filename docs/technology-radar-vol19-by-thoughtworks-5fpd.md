@@ -6,4 +6,4 @@
 
 我不打算解释这个雷达是如何工作的，因为他们自己做得很好。我只是想提醒你一个新的版本出来了，你应该去看看。它会给你一些你可能不知道的东西。如果有什么困难的话，那就是找出并评估软件开发世界中的所有不同部分。
 
-[![](../Images/5c403f7f588dab0b4b43d025f19e6e5b.png)T2】](https://www.thoughtworks.com/radar)
+[![](img/5c403f7f588dab0b4b43d025f19e6e5b.png)T2】](https://www.thoughtworks.com/radar)

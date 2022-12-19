@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/sheldonnunes/how-board-games-improved-my-explanation-ability-16ab>
 
-[![Settlers of Catan](../Images/a90b20f713471e0d4e95789dc62dfb26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sSSida4M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z8y48k75mr1g7jelpjmo.jpg)
+[![Settlers of Catan](img/a90b20f713471e0d4e95789dc62dfb26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sSSida4M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z8y48k75mr1g7jelpjmo.jpg)
 
 你焦虑地看了一眼手表；从前门往外看。"来吧伙计们"你喃喃自语。你 30 分钟前从烤箱里拿出来的香肠卷不再热了。“对不起，我们来晚了”你的朋友到达后说。“别担心”你微笑着回应，兴奋地赶上每个人。几个小时后，你发现了最新的新闻和八卦，你再次看你的手表。重头戏开始了吗？“你提议。桌子周围形成了混杂的表情。”你肯定我们有足够的时间吗？有人说:“我很累。”会好的，我已经期待了一周了！”你不屑地说。
 
@@ -10,7 +10,7 @@
 
 "我们开始玩怎么样，因为这可能会使这更容易理解"你说，努力恢复晚上。起初一切似乎都很好，但随后问题开始了。“这是什么？，我该如何构建？”。你觉得自己在一遍又一遍地解释同样的概念，而朋友们看起来更困惑。小组决定提前结束游戏，然后回家，留给你冷香肠卷和一个不完整的棋盘游戏。
 
-[![Sad](../Images/73e47200d663db32b623831a8cec55c3.png)T2】](https://i.giphy.com/media/ycdVnD1sAcWkw/giphy.gif)
+[![Sad](img/73e47200d663db32b623831a8cec55c3.png)T2】](https://i.giphy.com/media/ycdVnD1sAcWkw/giphy.gif)
 
 * * *
 
@@ -23,7 +23,7 @@
 游戏允许我们在人工构建的环境中尝试和解决问题。能够推销人们试图解决的问题是与他们接触的关键。我们以游戏《辉煌》为例:
 
 星辉桌游
-[![Splendor board game](../Images/177c96a47aa1d51d1057a3d8acc690d5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wGywPdu2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6vtik5q5gagqi6zf4ff0.jpg) 
+[![Splendor board game](img/177c96a47aa1d51d1057a3d8acc690d5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wGywPdu2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6vtik5q5gagqi6zf4ff0.jpg) 
 对比以下:
 
 > 我们每个人都试图通过收集最有价值的卡片来收集最多的胜利点数
@@ -60,6 +60,6 @@
 
 解释是一种可以提高的技能。我希望我描述的这些技术能够帮助你。我发现桌游是一个非常棒的媒介，强烈推荐你尝试一下！
 
-[![Have Fun!](../Images/85af34e015bf38f1132a91ad09ee0b91.png)T2】](https://i.giphy.com/media/5KX9jiNXkb3xK/giphy.gif)
+[![Have Fun!](img/85af34e015bf38f1132a91ad09ee0b91.png)T2】](https://i.giphy.com/media/5KX9jiNXkb3xK/giphy.gif)
 
 ### 又一如既往的好奇想听听你的想法？你有什么爱好影响了你在 dev 中的交流方式吗？

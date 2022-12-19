@@ -10,7 +10,7 @@
 
 ### [先睹为快](#sneak-peek)
 
-[![alt text](../Images/b810009b084916e5a40fe703457dc59f.png "Small comment section with Vue")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T7xIyGd7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x87l1eqvltc6l40soqr9.gif)
+[![alt text](img/b810009b084916e5a40fe703457dc59f.png "Small comment section with Vue")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T7xIyGd7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x87l1eqvltc6l40soqr9.gif)
 
 当使用组件时，我喜欢为**应用**创建一个单独的文件，并为每个新的**组件**创建一个新文件。这是个人偏好，其他人使用不同的文件结构。
 
@@ -93,7 +93,7 @@ Enter fullscreen mode Exit fullscreen mode
 所以现在我们有了应用程序的框架和一些数据来开始，但我们仍然需要制作*评论*组件。
 
 预览:
-[![alt text](../Images/e88ddb6886cffdcd80fad3fbdab1b506.png "comments component")](https://res.cloudinary.com/practicaldev/image/fetch/s--h3-fN6RO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3vpu2n5yknorxgan70rj.png) 
+[![alt text](img/e88ddb6886cffdcd80fad3fbdab1b506.png "comments component")](https://res.cloudinary.com/practicaldev/image/fetch/s--h3-fN6RO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3vpu2n5yknorxgan70rj.png) 
 
 ```
 Vue.component('comments', {
@@ -153,7 +153,7 @@ Enter fullscreen mode Exit fullscreen mode
 这将被放入一个名为 *comments.js* 的新文件中，我们将在应用程序中包含一个脚本标签。
 如你所见，我们有一个名为*的新组件，我们需要构建单注释*(我保证这是最后一个😅).
 预览:
-[![alt text](../Images/076619a627692deb15262df990dae49c.png "Single comment component")](https://res.cloudinary.com/practicaldev/image/fetch/s--fhH27oLh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xjubaib7c3s7bpq78ulf.png) 
+[![alt text](img/076619a627692deb15262df990dae49c.png "Single comment component")](https://res.cloudinary.com/practicaldev/image/fetch/s--fhH27oLh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xjubaib7c3s7bpq78ulf.png) 
 
 ```
 Vue.component('single-comment', {

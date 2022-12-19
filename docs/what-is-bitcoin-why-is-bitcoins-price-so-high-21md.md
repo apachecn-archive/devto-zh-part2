@@ -6,7 +6,7 @@
 
 在我们进入比特币及其飙升价格的细节之前，让我们先了解一下比特币的意义。
 
-[![](../Images/012a7da8212e164ce0b073600a82b73f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qyiaeIIv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/0%2AI3AUkAFQjKR0S-eN.jpg)
+[![](img/012a7da8212e164ce0b073600a82b73f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qyiaeIIv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/0%2AI3AUkAFQjKR0S-eN.jpg)
 
 比特币只不过是加密货币，意味着虚拟现金，通常存储在网上钱包中。在线钱包，如 Paytm、Ola Money 等，您可以随时使用它们购买任何产品或服务。
 

@@ -16,7 +16,7 @@
 
 好吧，让我们开始吧！第一步是建立一个 MailSlurp 账户。又快又免费:[注册【MailSlurp。接下来，登录到您的仪表板并获取您的 API 密钥。](https://www.mailslurp.com/sign-up)
 
-[![](../Images/010d2541b91ffbd63443cfc12ae5c883.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mVBg44H3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dm7goc8dt9qj1laipbvs.png)
+[![](img/010d2541b91ffbd63443cfc12ae5c883.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mVBg44H3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dm7goc8dt9qj1laipbvs.png)
 
 一旦您有了 API 密钥，我们就可以开始测试设置了。确保你的包中有这些依赖项。using 这是我们的样子，使用 SparkPost 客户端库:
 

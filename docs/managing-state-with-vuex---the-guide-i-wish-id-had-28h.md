@@ -14,7 +14,7 @@ Vuex 的关键概念是:状态、动作、突变和 getters。state 对象包含
 
 <figure>
 
-[![The flow in a single image](../Images/bbbc587e84fb114aa025f0737bb95865.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WjTqEV3---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wu1dtt6firtg4ln5tn61.png)
+[![The flow in a single image](img/bbbc587e84fb114aa025f0737bb95865.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WjTqEV3---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wu1dtt6firtg4ln5tn61.png)
 
 <figcaption>The flow of data inside store: components create actions which commit mutations, mutations alter the state and getters return parts of it.</figcaption>
 

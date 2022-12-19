@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/couellet/tying-a-react-spa-to-wordpress-as-a-backend-w-wp-rest-api-45nd>
 
-[![Strapping React.js on a WordPress Backend: WP REST API Example](../Images/a43acf7c328a06187236e70f2f4da523.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FX425N4w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/204844/wordpress-react.png)
+[![Strapping React.js on a WordPress Backend: WP REST API Example](img/a43acf7c328a06187236e70f2f4da523.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FX425N4w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/204844/wordpress-react.png)
 
 当我们在 2017 年第一次写道使用 WordPress 作为无头 CMS 和 WP REST API 时，这对我们 JAMstack 爱好者来说是一件非常重要的事情。
 
@@ -12,7 +12,7 @@
 
 web 开发的前景是不断变化的，现代前端技术的承诺正在实现。
 
-[![wordpress-rest-api](../Images/6a58a98f6e53a9b2e571f1686b1ab3ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PqYHi2Lt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203587/wp-rest-api.jpg)
+[![wordpress-rest-api](img/6a58a98f6e53a9b2e571f1686b1ab3ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PqYHi2Lt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203587/wp-rest-api.jpg)
 
 每个开发者和他们的狗都有关于 WordPress 的话要说，而且不总是奉承。远非如此。然而，即使是最狂热的批评者也不得不注意到这个特性，因为它已经改变了我们使用流行的 CMS 的方式。
 

@@ -4,7 +4,7 @@
 
 这些挑战帖子非常有趣。另一个灵感来自费马的图书馆。
 
-> ![unknown tweet media content](../Images/24ad6cdefe57ea082e81421149bc07a4.png)![Fermat's Library profile image](../Images/c286c4140a48918d7991d6ca88836f07.png)费马库@ fermatslibrary![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)将一个数的位数的平方相加并重复。如果它导致 1，原来的数字被称为快乐的数字😄。你能推导出快乐数的一些性质吗？2018 年 1 月 08 日下午 14:00[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=950366488245960707)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=950366488245960707)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=950366488245960707)
+> ![unknown tweet media content](img/24ad6cdefe57ea082e81421149bc07a4.png)![Fermat's Library profile image](img/c286c4140a48918d7991d6ca88836f07.png)费马库@ fermatslibrary![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)将一个数的位数的平方相加并重复。如果它导致 1，原来的数字被称为快乐的数字😄。你能推导出快乐数的一些性质吗？2018 年 1 月 08 日下午 14:00[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=950366488245960707)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=950366488245960707)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=950366488245960707)
 
 # 挑战
 

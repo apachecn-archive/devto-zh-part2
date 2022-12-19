@@ -6,7 +6,7 @@
 
 我们已经开始与一些成员合作制作一些视频，例如:
 
-[![video camera](../Images/162cbaf8d6272b73c3862dce71e9fe2e.png) 29:05 ](/vaidehijoshi/stacks-and-queues--basecs-video-series--20oj) [![vaidehijoshi](../Images/c1af460640a8ad9ea29e58d942edc772.png)](/vaidehijoshi) [## 堆栈和队列— BaseCS 视频系列
+[![video camera](img/162cbaf8d6272b73c3862dce71e9fe2e.png) 29:05 ](/vaidehijoshi/stacks-and-queues--basecs-video-series--20oj) [![vaidehijoshi](img/c1af460640a8ad9ea29e58d942edc772.png)](/vaidehijoshi) [## 堆栈和队列— BaseCS 视频系列
 
 ### vaide hi Joshi Mar 6 ' 181 分钟读数
 
@@ -14,13 +14,13 @@
 
 我们已经在网站上放了这些视频有一段时间了，但最初我们的视频体验相当不确定。
 
-[![buntine profile image](../Images/ebea0f3c0b6729060d4099b0d3340213.png) ](/buntine) [ Andrew Buntine ](/buntine) • [<time datetime="2018-02-07T03:38:14Z" class="date-short-year"> Feb 7 '18 </time> • Edited on <time datetime="2018-02-07T03:38:52Z" class="hidden m:inline-block date-no-year">Feb 7</time>](https://dev.to/buntine/comment/28f6) 
+[![buntine profile image](img/ebea0f3c0b6729060d4099b0d3340213.png) ](/buntine) [ Andrew Buntine ](/buntine) • [<time datetime="2018-02-07T03:38:14Z" class="date-short-year"> Feb 7 '18 </time> • Edited on <time datetime="2018-02-07T03:38:52Z" class="hidden m:inline-block date-no-year">Feb 7</time>](https://dev.to/buntine/comment/28f6) 
 
 其他人在播放视频时遇到过问题吗？我在 Firefox 上(尝试了几个不同的网络)。
 
 编辑:哦，视频在 Firefox 上不能用！
 
-[![buntine profile image](../Images/ebea0f3c0b6729060d4099b0d3340213.png) ](/buntine) [ Andrew Buntine ](/buntine) • [<time datetime="2018-02-07T03:42:31Z" class="date-short-year"> Feb 7 '18 </time>](https://dev.to/buntine/comment/28f7) 
+[![buntine profile image](img/ebea0f3c0b6729060d4099b0d3340213.png) ](/buntine) [ Andrew Buntine ](/buntine) • [<time datetime="2018-02-07T03:42:31Z" class="date-short-year"> Feb 7 '18 </time>](https://dev.to/buntine/comment/28f7) 
 
 实际上。编辑编辑:Firefox 似乎会在播放开始前缓冲整个视频。
 

@@ -4,7 +4,7 @@
 
 在…里
 
-[![kaisershahid image](../Images/259e3db1bdd497ed8bac88195a792398.png)](/kaisershahid) [## 假人的概念代码:第 1 部分:概述
+[![kaisershahid image](img/259e3db1bdd497ed8bac88195a792398.png)](/kaisershahid) [## 假人的概念代码:第 1 部分:概述
 
 ### 凯撒沙希德 3 月 21 日 183 分钟阅读
 

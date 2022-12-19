@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/mgattozzi/plumbing-the-deps-of-the-crate-caching-rust-docker-builds-2e48>
 
-[![Plumbing the Deps of the Crate: Caching Rust Docker Builds](../Images/3471fdc956e8c75dc482d7d354f0e3e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uW4xrBMA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mgattozzi.com/content/images/2018/10/514570034-612x612.jpg)
+[![Plumbing the Deps of the Crate: Caching Rust Docker Builds](img/3471fdc956e8c75dc482d7d354f0e3e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uW4xrBMA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mgattozzi.com/conteimg/2018/10/514570034-612x612.jpg)
 
 我最近一直在用 Docker 做 Rust 代码，但是其中一个问题是使用 Docker 文件像下面这样:
 

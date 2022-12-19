@@ -8,7 +8,7 @@
 
 事实上，我在之前的一篇文章中写到了这个问题:
 
-[![klamping image](../Images/32840fcf944cf815a25ee8ab11b1608f.png)](/klamping) [## 为什么你不写 UI 测试
+[![klamping image](img/32840fcf944cf815a25ee8ab11b1608f.png)](/klamping) [## 为什么你不写 UI 测试
 
 ### 凯文夹紧
 
@@ -34,7 +34,7 @@
 
 我终于开始构建功能，并建立了网站 [https://testyourlog.in](https://testyourlog.in)
 
-[![Test Your Login Homepage](../Images/6dd8cf2a82848967be24356d5e27336c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FUkyA2AL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images2.imgbox.com/c2/37/4siUIF7Y_o.png)
+[![Test Your Login Homepage](img/6dd8cf2a82848967be24356d5e27336c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FUkyA2AL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images2.imgbox.com/c2/37/4siUIF7Y_o.png)
 
 去试试吧，如果有帮助就告诉我。我希望得到您的反馈。
 
@@ -57,7 +57,7 @@
 
 我喜欢 WebdriverIO 有很多原因，但我会在另一篇文章中介绍这些原因:
 
-[![klamping image](../Images/32840fcf944cf815a25ee8ab11b1608f.png)](/klamping) [## WebdriverIO 如何让测试变得值得
+[![klamping image](img/32840fcf944cf815a25ee8ab11b1608f.png)](/klamping) [## WebdriverIO 如何让测试变得值得
 
 ### 凯文夹紧
 
@@ -114,7 +114,7 @@ Enter fullscreen mode Exit fullscreen mode
 *   如果命令失败，截图应该保存在哪个目录下？**。/errorShots/**
 *   基本 url 是什么？**http://testyourlog.in/example**
 
-[![Console output when filling out the configurations](../Images/de03c495473c93ac025d6e1ee416e09e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ANhTL0An--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jzu9jel85gc66vgrvwx7.gif)
+[![Console output when filling out the configurations](img/de03c495473c93ac025d6e1ee416e09e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ANhTL0An--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jzu9jel85gc66vgrvwx7.gif)
 
 您可能想要用您想要验证的任何页面替换测试 URL。
 
@@ -124,13 +124,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们告诉 WebdriverIO，我们已经将测试存储在了`test`文件夹中。如果您还没有创建该文件夹，请继续创建。然后，创建一个名为`login.js`的文件，并在您喜欢的文本编辑器中打开它。
 
-[![Folder/File Overview](../Images/fdc0ce11c1a2c3a19bd8e3dfc9224d79.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EfpKUN-l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images2.imgbox.com/59/ce/ymjLbV1L_o.png)
+[![Folder/File Overview](img/fdc0ce11c1a2c3a19bd8e3dfc9224d79.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EfpKUN-l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images2.imgbox.com/59/ce/ymjLbV1L_o.png)
 
 可以设置 WebdriverIO 使用 Mocha，这是我之前在配置回答里做的。这有助于组织我们的测试和处理测试结果。
 
 Mocha 使用两个函数,`describe`和`it`,向测试套件添加层次。如果你对它们不熟悉，[看看官方文件](https://mochajs.org/#getting-started)和我对它们的看法:
 
-[![klamping image](../Images/32840fcf944cf815a25ee8ab11b1608f.png)](/klamping) [## 与 WebdriverIO 和摩卡一起开车兜风
+[![klamping image](img/32840fcf944cf815a25ee8ab11b1608f.png)](/klamping) [## 与 WebdriverIO 和摩卡一起开车兜风
 
 ### 凯文夹紧
 
@@ -156,7 +156,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们正在检查一个基本的“快乐路径”场景:用户输入一个活动帐户的有效凭证。
 
-[![Showing logging in](../Images/eb52c6f60a0b4a8aa3b53c6c1d328f98.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FmLV06A1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://images2.imgbox.com/f2/ed/KPgmxGGw_o.gif)
+[![Showing logging in](img/eb52c6f60a0b4a8aa3b53c6c1d328f98.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FmLV06A1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://images2.imgbox.com/f2/ed/KPgmxGGw_o.gif)
 
 该测试有四个独特的步骤:
 
@@ -362,7 +362,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 希望你的测试完成并通过。
 
-[![Console output of successful test passing](../Images/472f6604a4f99213102989d9bea80ea2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3tSTv0zr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images2.imgbox.com/a1/66/hHtz0hmC_o.png)
+[![Console output of successful test passing](img/472f6604a4f99213102989d9bea80ea2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3tSTv0zr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images2.imgbox.com/a1/66/hHtz0hmC_o.png)
 
 ## 现在就这样
 
@@ -374,7 +374,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果您有兴趣查看运行 testyourlog.in 的代码，可以通过 GitHub 获得:
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)/[测试布局等](https://github.com/klamping/testyourlog.in)中的扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)/[测试布局等](https://github.com/klamping/testyourlog.in)中的扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣带扣
 
 ### 一个自动生成 WebdriverIO 脚本来测试你的登录/注册表单的工具
 

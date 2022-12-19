@@ -4,7 +4,7 @@
 
 每周 [*安德烈斯·西德尔*](https://medium.com/@andres_49956)*7 月 22 日* [*免费加入*](https://www.getrevue.co/profile/Andres-at-Jexia/issues/master-the-world-of-reactjs-issue-14-123955) *或添加* [*时事通讯 rss*](http://fetchrss.com/rss/5b27d6348a93f858388b4567120524982.xml)
 
-<figure>[![](../Images/32ac4a14841a838dc120b05537a0b760.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gTeZwjDb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a6xtg5w2o7q4prjy2ue0.jpg) 
+<figure>[![](img/32ac4a14841a838dc120b05537a0b760.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gTeZwjDb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a6xtg5w2o7q4prjy2ue0.jpg) 
 
 <figcaption>形象由[达尼洛](https://www.linkedin.com/in/danilowoz/)</figcaption>
 

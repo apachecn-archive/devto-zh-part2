@@ -10,7 +10,7 @@ DevSecOps 是关于在软件开发生命周期(SDLC)的早期引入安全性。�
 
 首先，我们来谈谈为什么需要 DevSecOps。几年前，软件产品遵循瀑布方法，这是一种开发产品的线性顺序方法，以“大爆炸”发布结束。
 
-[![](../Images/1b765bd16043d21d9712e8de29720777.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0wg1hznG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sm43hf8lxxk6ahm6mptx.png)
+[![](img/1b765bd16043d21d9712e8de29720777.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0wg1hznG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sm43hf8lxxk6ahm6mptx.png)
 
 随着向云计算和资源动态供应的转变，开发人员在应用程序开发的速度、规模和成本方面获得了许多好处。这些好处非常适合 DevOps 运动的采用。DevOps 强烈主张在 SDLC 的所有步骤中实现自动化和监控。目标是缩短开发周期、增加部署频率和更可靠的版本，所有这些都与业务目标保持一致。就像我之前说的，作为一个开发者，我喜欢这样。但是稳定的基础设施和应用程序并不等于安全的基础设施和应用程序。这让我很担心。在瀑布生命周期中，安全检查被放在产品发布之前的最后。安全性被视为一个路障，是通往产品发布的最后一道关卡。应用程序的开发方式发生了很多变化，但人们对安全性的看法却没有改变。
 
@@ -18,11 +18,11 @@ DevSecOps 是关于在软件开发生命周期(SDLC)的早期引入安全性。�
 
 在 DevSecOps 中，两个看似对立的目标，“交付速度”和“安全代码”被合并成一个流线型的/自动化的过程。DevSecOps 的目的是建立在“每个人都对安全负责”的思想上。它是关于向左推动安全性和自动化核心安全任务。还记得碧昂斯的《不可替代》这首歌吗？我知道这是一种倒退，但碧昂斯唱“向左，向左”时，她的想法是正确的
 
-[![](../Images/b15846f92f4f42a68d0eeb614f9586c3.png)T2】](https://i.giphy.com/media/G0bVqvhbRFd1C/giphy.gif)
+[![](img/b15846f92f4f42a68d0eeb614f9586c3.png)T2】](https://i.giphy.com/media/G0bVqvhbRFd1C/giphy.gif)
 
 我们希望将安全性推到 SDLC 的左侧，以确保应用程序安全性从一个代码开始。通过左移，团队可以快速发现和分析漏洞，然后调整他们的代码来减少这些漏洞。
 
-[![](../Images/823639d4ded9d42f9c5ff710c4eb4893.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8_QWCrkH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/plyu8wytsofl6f263bjv.png)
+[![](img/823639d4ded9d42f9c5ff710c4eb4893.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8_QWCrkH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/plyu8wytsofl6f263bjv.png)
 
 DevSecOps 允许开发人员专注于编写高质量和安全的代码，使团队能够发布 titanium 应用程序。好处很简单:
 

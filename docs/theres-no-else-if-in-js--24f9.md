@@ -88,4 +88,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 <center>Best-practices must be accepted by many people</center>
 
-<center>![think](../Images/5053964938e7d9a368fbf0568e8ad80f.png)</center>
+<center>![think](img/5053964938e7d9a368fbf0568e8ad80f.png)</center>

@@ -20,6 +20,6 @@
 
 这背后真正的痛苦是，与设计丰富的 Mailchimp 模板编辑器相比，Mandrill 电子邮件模板编辑器非常糟糕。
 
-但是现在我没有办法回到 Mailchimp，我被困在山魈 [![🙁](../Images/88488570268374aac0b940e1bc857958.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--N109eHMv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.org/images/core/emoji/11/72x72/1f641.png)
+但是现在我没有办法回到 Mailchimp，我被困在山魈 [![🙁](img/88488570268374aac0b940e1bc857958.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--N109eHMv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.oimg/core/emoji/11/72x72/1f641.png)
 
 Mailchimp:请你将需要更多的集成函数与 Mandrill 看起来像一个应用程序。

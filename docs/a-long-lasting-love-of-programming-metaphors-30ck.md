@@ -30,12 +30,12 @@
 
 今天令人高兴的是，两位作者写了非常不同，但非常可爱的作品——他们都有自己非常个性化的学习隐喻，这是我以前从未见过的。
 
-[![rpalo image](../Images/36441fefd071e9a78e983319aa0f9264.png)](/rpalo) [## 程序员和大海
+[![rpalo image](img/36441fefd071e9a78e983319aa0f9264.png)](/rpalo) [## 程序员和大海
 
 ### 瑞安帕洛 11 月 9 日 189 分钟阅读
 
 #learning #story](/rpalo/the-programmer-and-the-sea-572g)
-[![lvrbrtsn image](../Images/37e2ffbfa454d3e970ac9057e6012c3b.png)](/lvrbrtsn) [## 从坟墓里回来的炊事班。
+[![lvrbrtsn image](img/37e2ffbfa454d3e970ac9057e6012c3b.png)](/lvrbrtsn) [## 从坟墓里回来的炊事班。
 
 ### 李维ᕙ(⇀‸↼‶)ᕗ11 月 9 日 183 分钟阅读
 

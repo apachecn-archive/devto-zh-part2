@@ -4,7 +4,7 @@
 
 最成功的开源项目都有知识性和娱乐性的读物。有徽章、截图、动画演示和入门指南。有些人甚至把它分成单独的文档站点，与自述文件中的章节相匹配。
 
-<figure>[![Prettier's through README on GitHub](../Images/5f9676a85f575f459dacce12db48564f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Yog-kew4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nmd7cy86u1uqrvnfg7ei.png)
+<figure>[![Prettier's through README on GitHub](img/5f9676a85f575f459dacce12db48564f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Yog-kew4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nmd7cy86u1uqrvnfg7ei.png)
 
 <figcaption>GitHub 上更漂亮的穿越自述</figcaption>
 
@@ -37,7 +37,7 @@ OSS 维护者是痴迷的文档狂热分子吗？
 
 许多开发团队认为，因为他们没有试图向世界推销回购，所以根本没有内部自述的受众。
 
-<figure>[![Example of a standard internal README.md](../Images/317e6bb25d3373aec98029521e95ef1c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hTWMqpMP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y2ikzrehha0yvz9u7pkr.jpg) 
+<figure>[![Example of a standard internal README.md](img/317e6bb25d3373aec98029521e95ef1c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hTWMqpMP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y2ikzrehha0yvz9u7pkr.jpg) 
 
 <figcaption>标准内部 README.md</figcaption>
 

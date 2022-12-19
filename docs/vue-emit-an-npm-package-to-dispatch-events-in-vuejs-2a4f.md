@@ -76,7 +76,7 @@ export default {
 
 ### 2。监听器值可以是一个函数
 
-[![Components structure example](../Images/8f837161fc9f268f838f1d123d3e446a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rz7_NWlS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0mimq45c5trvz1ik4byt.jpg)
+[![Components structure example](img/8f837161fc9f268f838f1d123d3e446a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rz7_NWlS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0mimq45c5trvz1ik4byt.jpg)
 
 上图显示了组件和侦听器的示例结构。如果 C 组件中的这个结构`context.listeners.input`是两个函数的数组:`[doSomethingA, doSomethingB]`。对于`this.$listeners`来说也是如此。
 
@@ -116,7 +116,7 @@ export default {
 
 我希望你会发现这个包是有用的，并喜欢阅读这篇文章。请随意提出您的问题、未决问题、拉动请求等。
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) [丹尼斯维德](https://github.com/denisinvader) / [ vue-emit](https://github.com/denisinvader/vue-emit)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) [丹尼斯维德](https://github.com/denisinvader) / [ vue-emit](https://github.com/denisinvader/vue-emit)
 
 ### 用于在 Vue.js(功能性)组件中发出事件的辅助函数
 

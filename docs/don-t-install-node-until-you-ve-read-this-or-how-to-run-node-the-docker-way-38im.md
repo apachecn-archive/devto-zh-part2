@@ -14,7 +14,7 @@
 
 # 先停靠码头
 
-[![Docker Logo](../Images/4b17da87db3b09b0b90692dd6edded31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---Kb3PD8v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://youknowfordevs.com/images/uploads/docker.png)
+[![Docker Logo](img/4b17da87db3b09b0b90692dd6edded31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---Kb3PD8v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://youknowfordevs.cimg/uploads/docker.png)
 
 无论我们采用哪种方式安装特定于操作系统的节点，我们现在都有两个问题；首先，我们在每个平台上安装 Node 的方式是不同的，真讨厌。第二，我们现在已经在我们的笔记本电脑上全球安装了节点*。为什么这么难过？现在，如果我们想在不同的项目中使用不同版本的 Node，我们不得不用类似于`nvm`的东西来打发时间。(如果你计划运行一个 Python 项目，这和`virtualenv`是一样的。)*
 
@@ -24,7 +24,7 @@
 
 # 运行节点
 
-[![Node Logo](../Images/3c07c3f031d547f0ff38093dfc3bf5c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_XFLMPyp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://youknowfordevs.com/images/uploads/node.png)
+[![Node Logo](img/3c07c3f031d547f0ff38093dfc3bf5c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_XFLMPyp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://youknowfordevs.cimg/uploads/node.png)
 
 首先，为您的项目创建一个新目录:
 
@@ -84,7 +84,7 @@ docker run -it --rm node:alpine
 
 ## 基础操作系统
 
-[![Alpine Logo](../Images/e34ed603e78f788d0f33af9b4a61d3bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lE-U5yOz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://youknowfordevs.com/images/uploads/alpine-linux.svg)
+[![Alpine Logo](img/e34ed603e78f788d0f33af9b4a61d3bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lE-U5yOz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://youknowfordevs.cimg/uploads/alpine-linux.svg)
 
 关于节点 Docker 映像选择要注意的第二件事是，我们使用了映像的`alpine`版本，该版本使用 [Alpine Linux](https://alpinelinux.org/about/) 作为基本操作系统。这是最轻的节点映像，并且只提供最低限度的操作系统来让节点运行——毕竟，我们最有可能创建微服务。
 

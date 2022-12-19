@@ -25,7 +25,7 @@
 *   **router.js** (处理 http 请求并将它们分派给控制器)
 *   **index . js**——(一个启动文件)
 
-![](../Images/2697d5d44c4eec8951874bcb6997e8a5.png)![](../Images/9bc7e9edd9b67725f75a90b6c83effa4.png)
+![](img/2697d5d44c4eec8951874bcb6997e8a5.png)![](img/9bc7e9edd9b67725f75a90b6c83effa4.png)
 
 下面是我们的文件包含的代码:
 
@@ -296,7 +296,7 @@ module.exports.set = app => {
 
 让我们通过运行命令 node **index.js** 来启动服务器，并测试登录和注册功能。
 
-![](../Images/897c2f1fe1df1b55cef1595949093fd4.png)![](../Images/8eea271c3d46f75451fded6715506f8b.png)![](../Images/91ba1cb8d5335672d581f7fc65ab378d.png)![](../Images/73829f50e49be8fd05d0250c953ddc3e.png)
+![](img/897c2f1fe1df1b55cef1595949093fd4.png)![](img/8eea271c3d46f75451fded6715506f8b.png)![](img/91ba1cb8d5335672d581f7fc65ab378d.png)![](img/73829f50e49be8fd05d0250c953ddc3e.png)
 
 ### 添加层
 
@@ -378,7 +378,7 @@ const orderController = require('./controllers/order');
 
 下面是一个有效 API 的测试示例:
 
-![](../Images/ddcfa3c9320b252e63f4316537ac1a1a.png)![](../Images/b9ca30a9b52ac71bf1a33357332e30ce.png)![](../Images/d94618f04b0b431e5844e67cf70b918d.png)![](../Images/7432f5fc43127fd9d0fbc2f7b08d47b0.png)![](../Images/17b972e4368474f954a4e1b953bdae74.png)![](../Images/1f2c7b2b1007522300de2fad463949ee.png)
+![](img/ddcfa3c9320b252e63f4316537ac1a1a.png)![](img/b9ca30a9b52ac71bf1a33357332e30ce.png)![](img/d94618f04b0b431e5844e67cf70b918d.png)![](img/7432f5fc43127fd9d0fbc2f7b08d47b0.png)![](img/17b972e4368474f954a4e1b953bdae74.png)![](img/1f2c7b2b1007522300de2fad463949ee.png)
 
 我们需要的下一件事是只允许经过身份验证的用户访问。为此，让我们添加检查用户是否登录的中间件:
 
@@ -430,7 +430,7 @@ app.get('/user_orders', authMiddleware.checkAuth, userController.getUsersWithOrd
 
 如你所见，它是有效的:)
 
-![](../Images/2d337c7ae6aea454df5dd60676c6aab3.png)![](../Images/61603627e630a44a6a21725c4c40c61c.png)
+![](img/2d337c7ae6aea454df5dd60676c6aab3.png)![](img/61603627e630a44a6a21725c4c40c61c.png)
 
 #### 我们需要做的最后一件事是定义 addOrder 函数。
 

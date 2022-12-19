@@ -6,7 +6,7 @@
 
 在这篇文章中，我将向你展示如何在一个静态网站上设置特殊的标题信息，比如 hugo + netlify。Netlify 解释 _headers 文件并将规则应用到您的网站。你只需要制定一个简单的规则，现在你也可以让特里·普拉切特活着！
 
-[![Clacks tower image with title text on top](../Images/f9a990cf7aa40e77b1407d45686dab16.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cKQ7VGHi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.rmhogervorst.nl/post/2018-07-20-how-to-set-up-gnu-terry-pratchett-on-hugo-with-netlify_files/Clacks-Tower.jpg)
+[![Clacks tower image with title text on top](img/f9a990cf7aa40e77b1407d45686dab16.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cKQ7VGHi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.rmhogervorst.nl/post/2018-07-20-how-to-set-up-gnu-terry-pratchett-on-hugo-with-netlify_files/Clacks-Tower.jpg)
 
 # GNU 特里·普拉切特
 

@@ -56,7 +56,7 @@ Var :-
 
 现在，既然我们已经理解了 var，如果我们回到 for 循环，下面是正在发生的事情。for 循环将如我们预期的那样运行三次，每次调用 setTimeout 函数来调用我们编写的回调函数，该函数只是在 1 秒钟的延迟后将 x 的值记录到控制台。setTimeOut 函数在一个单独的线程中异步执行，作为 chrome 浏览器中 web api 的一部分。
 
-[![Just a "it's finally over meme" ](../Images/dcc35bb2f3e600d9bb2a336306befdbc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mpptDHYf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://yt3.ggpht.com/a-/ACSszfGmrB0oTbIlFyyQmcptPL7pOUorV00x-EeOww%3Ds900-mo-c-c0xffffffff-rj-k-no)
+[![Just a "it's finally over meme" ](img/dcc35bb2f3e600d9bb2a336306befdbc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mpptDHYf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://yt3.ggpht.com/a-/ACSszfGmrB0oTbIlFyyQmcptPL7pOUorV00x-EeOww%3Ds900-mo-c-c0xffffffff-rj-k-no)
 
 (等什么？以前人们都说 Javascript 是单线程的！youtube 上有一些精彩的视频解释了为什么 Javascript 不是单线程的，或者至少解释了 Javascript 运行的环境，我现在不打算讨论这些东西，因为这已经超出了本文的范围。回来了....正如你现在看到的，因为变量是 var(函数作用域),当回调函数执行以打印出 x 的值时，x 应该已经增加到 3，循环应该已经结束。既然 x 是 var 范围的，那么即使在循环中打印 x，也会打印出 3，因为在函数中的某个地方 x 已经增加了，还记得我说过对 var 所做的任何改变都会反映在整个函数中吗？这就是为什么 3 会被记录三次而不是 0..一..2.希望这能解释为什么 var 在函数范围内对 for 循环有副作用。
 
@@ -349,7 +349,7 @@ x+= 2；
 
 是的，我们终于完全理解了 javascript for 循环！耶！！！！等待..还有更多
 
-[![Just a "wait what Meme" ](../Images/7ca16dba3e4bced2fbbfee7255dba920.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2AVbBp7W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m9whn5d55zpm8o68iw0y.jpg)
+[![Just a "wait what Meme" ](img/7ca16dba3e4bced2fbbfee7255dba920.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2AVbBp7W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m9whn5d55zpm8o68iw0y.jpg)
 
 这整个难题的最后一个部分是“赋值操作符是第一个词法作用域的一部分吗?”?嗯不....事情是这样的
 
@@ -406,6 +406,6 @@ x++；
 
 现在你可以庆祝你已经完全理解了 javascript 中的 for 循环，这可以帮助你理解 javascript 总体上是如何工作的，以及闭包是如何在其中发挥作用的。
 
-[![Just a "it's finally over meme" ](../Images/6eb81fc67ff04b2db0068e0d9ac9d0f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eNTZwMX6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media.makeameme.org/created/its-over-its-q96aop.jpg)
+[![Just a "it's finally over meme" ](img/6eb81fc67ff04b2db0068e0d9ac9d0f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eNTZwMX6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media.makeameme.org/created/its-over-its-q96aop.jpg)
 
 请再读一遍这篇文章，如果我对某些部分解释得不够好，请发表评论。因为这是我写的第一篇帖子，如果事情没有像应该的那样表达清楚，我道歉。希望你们都学到了一些东西，我没有浪费你们的时间。下次再见！

@@ -49,7 +49,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是因为 PostgreSQL 正在将“person”转换为“person”，但是没有名为“Person”的表。其实叫“人”。
 
-[![](../Images/3249c87cc9125d6e069532a91d8e4dd7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eDPP8Kpx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.xojo.com/wp-content/uploads/2016/09/2016-09-23_09-38-33.png)
+[![](img/3249c87cc9125d6e069532a91d8e4dd7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eDPP8Kpx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.xojo.com/wp-content/uploads/2016/09/2016-09-23_09-38-33.png)
 
 为了避免这种错误，您必须编写带有引号的 SQL，如下所示:
 

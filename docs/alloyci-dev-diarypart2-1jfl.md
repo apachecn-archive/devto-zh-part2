@@ -4,7 +4,7 @@
 
 # 构建新的凤凰计划
 
-[![Photo by valor kopeny on Unsplash](../Images/df7a92558060b396198b2e13611739cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lkQ11QmD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1440613740265-a37aa8a61131%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D78b205db80905893f41d2f694258e376%26auto%3Dformat%26fit%3Dcrop%26w%3D2674%26q%3D80)
+[![Photo by valor kopeny on Unsplash](img/df7a92558060b396198b2e13611739cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lkQ11QmD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1440613740265-a37aa8a61131%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D78b205db80905893f41d2f694258e376%26auto%3Dformat%26fit%3Dcrop%26w%3D2674%26q%3D80)
 
 这篇博客文章是详细介绍 AlloyCI 开发过程的系列文章的一部分。之前的条目有:
 

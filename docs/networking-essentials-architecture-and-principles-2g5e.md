@@ -15,7 +15,7 @@
 
 *   **连接**网络的目标由“[窄腰](https://www.youtube.com/watch?v=uXumm52oBMo)解决。参考[OSI 7 层系统模型](https://en.wikipedia.org/wiki/OSI_model)，我们的**网络层**非常薄——它主要由[互联网协议](https://en.wikipedia.org/wiki/Internet_Protocol)组成！IP 为位于其上的**传输层**提供保障，通常是 [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol) 或 [UDP](https://en.wikipedia.org/wiki/User_Datagram_Protocol) ，而 [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite) 的组合是最常见的端到端数据传输栈。在这个坚实的基础之上，我们可以分层我们想要发送数据的任何协议，例如用于网站的 [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) 或用于邮件的 [SMTP](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol) ！在 IP 层下面，我们还有[链路层](https://en.wikipedia.org/wiki/Data_link_layer)和[物理层](https://en.wikipedia.org/wiki/Physical_layer)，还有更多协议，如[以太网](https://en.wikipedia.org/wiki/Ethernet)和 [SONET](https://en.wikipedia.org/wiki/Synchronous_optical_networking) 。但关键是，中间的网络层是“狭窄的”——它只是由 IP 组成。这意味着在网络上获得任何设备都相当容易，它只需要说 IP！
 
-[![the key parts of OSI model](../Images/3b16f0425b826b9e5e7813fe5d299991.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y7YIZZVj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.slideplayer.com/24/7320353/slides/slide_25.jpg)
+[![the key parts of OSI model](img/3b16f0425b826b9e5e7813fe5d299991.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y7YIZZVj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.slideplayer.com/24/7320353/slides/slide_25.jpg)
 
 ## 次要目标
 
@@ -55,7 +55,7 @@
 
 ## 问题与成长的烦恼
 
-[![ipv4 rundown](../Images/36d6d3bbbfca3e7988e1eded6a9b06e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--swmYtlip--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.theconversation.com/files/83083/original/image-20150527-4812-1iqroxb.png%3Fixlib%3Drb-1.1.0%26q%3D45%26auto%3Dformat%26w%3D1000%26fit%3Dclip)
+[![ipv4 rundown](img/36d6d3bbbfca3e7988e1eded6a9b06e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--swmYtlip--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.theconversation.com/files/83083/original/image-20150527-4812-1iqroxb.png%3Fixlib%3Drb-1.1.0%26q%3D45%26auto%3Dformat%26w%3D1000%26fit%3Dclip)
 
 我们今天在互联网上看到的许多问题都是网络需求超出 70 年代和 80 年代设计考虑的直接结果:
 

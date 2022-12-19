@@ -7,15 +7,15 @@
 DevOps 已经发展了很长时间，因为我们许多人认为它只是一个时髦的词。现在我们知道这是一个神话。DevOps 已经成为一个主要焦点，并在过去几年中塑造了软件世界。专家表示，DevOps 将成为主流，其受欢迎程度将在 2019 年达到顶峰。
 
 以下是谷歌对“DevOps”一词的趋势以及对其 2019 年预计增长的假设。
-[![DevOps trend in 2019](../Images/fce40f927e2e152369c555680d3b6302.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--pJz2qQe0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/egdoh80culda4unxwaf1.png)
+[![DevOps trend in 2019](img/fce40f927e2e152369c555680d3b6302.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--pJz2qQe0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/egdoh80culda4unxwaf1.png)
 
 说到统计数据，从 2015 年到 2016 年，DevOps 的采用率增加了约 8%，预计这一数字在 2019 年将大幅增长，如上图所示。
 
-[![DevOps trend adoption](../Images/07bb5f430619b14d62e22eb39afbe643.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---gWYyGmU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7x1l0y1gmf2bh64e351k.png)
+[![DevOps trend adoption](img/07bb5f430619b14d62e22eb39afbe643.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---gWYyGmU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7x1l0y1gmf2bh64e351k.png)
 
 根据 Statista 的数据，许多商业组织正在采用 DevOps，与 2017 年的 10%相比，2018 年的增长率高达 17%。
 
-[![DevOps trend adoption](../Images/94e3a6172c50ee6ae6aa483b0d67a3b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3_Ak7935--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/902efjd981llq48zaj6j.png)
+[![DevOps trend adoption](img/94e3a6172c50ee6ae6aa483b0d67a3b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3_Ak7935--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/902efjd981llq48zaj6j.png)
 
 通过 [RightScale](https://www.rightscale.com/blog/cloud-industry-insights/new-devops-trends-2016-state-cloud-survey) 可以阅读整个报告。甚至 Forrester 报告也明确提到 2018 年将是 DevOps 年。
 
@@ -31,7 +31,7 @@ DevOps 已经发展了很长时间，因为我们许多人认为它只是一个�
 
 在 DevOps 中，我们经常谈论自动化。如果可能的话，零接触自动化是未来的趋势。这并不意味着你必须自动化一切，但如果你必须这样做，那么你应该能够做到这一点。理解 DevOps 周期的 6 C 并确保在这些阶段之间应用自动化是关键，这将是 2019 年的主要目标。
 
-[![6 C's of DevOps](../Images/8153d12e84d8b099fcaef9fecbe3e5ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IxHR6LeZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/937g8v5rahcl2gbka3fw.png)
+[![6 C's of DevOps](img/8153d12e84d8b099fcaef9fecbe3e5ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IxHR6LeZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/937g8v5rahcl2gbka3fw.png)
 
 ## 3。测试人员应该学习编码
 
@@ -53,7 +53,7 @@ Kubernetes 已经成为增长最快的容器技术，因为它的产品和易用
 
 最近，[在 kube con+CloudNativeCon North America](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/)(2017 年 12 月 6 日至 8 日)之前，云计算原生计算基金会进行了一项调查，并分享了容器编排格局如何发生变化并向 Kubernetes 发展。
 
-[![Container trends](../Images/1574159a0423e99909c939d30832ffc1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gnW03aZG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bpg0wzbft40jl0c1t130.png)
+[![Container trends](img/1574159a0423e99909c939d30832ffc1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gnW03aZG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bpg0wzbft40jl0c1t130.png)
 
 来源:[容器编排格局正在发生变化。](https://www.cncf.io/blog/2017/12/06/cloud-native-technologies-scaling-production-applications/)
 
@@ -63,7 +63,7 @@ Kubernetes 已经成为增长最快的容器技术，因为它的产品和易用
 
 最近，我们看到了一种上升的趋势，即在应用程序开发的生命周期中首先注入安全性，从而减少漏洞，使安全性更接近 IT 和业务目标。这种模式假设每个人都对安全负责，因此减少了关于谁做了什么和什么出了问题的噪音和困境。
 
-[![DevOps Vs. DevSecOps](../Images/34c977baec4fd9ce4c459b04d3f0d960.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gAswJ8oH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v9t8b6yzs6nbdqhim444.jpeg)
+[![DevOps Vs. DevSecOps](img/34c977baec4fd9ce4c459b04d3f0d960.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gAswJ8oH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v9t8b6yzs6nbdqhim444.jpeg)
 
 ## 8。艾& ML 将促进 DevOps 成长
 

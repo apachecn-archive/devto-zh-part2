@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nitzanshapira/serverless-slack-bots---why-and-how-5fkp>
 
-[![Unsplash](../Images/2e866b47857c5e2206850f8693d46214.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CXDT-y9y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0umnzk1keskbkxaa0jgw.jpeg)
+[![Unsplash](img/2e866b47857c5e2206850f8693d46214.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CXDT-y9y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0umnzk1keskbkxaa0jgw.jpeg)
 
 在这篇文章中，我将解释我们如何在 [Epsagon](https://www.epsagon.com) 中利用无服务器 Slack 机器人，展示它们的价值，并提供一个例子——包括相应的开源代码，使用 Python 和无服务器框架来实现您的定制无服务器 Slack 机器人。
 
@@ -14,7 +14,7 @@ Slack 中我最喜欢的功能之一是它的大量应用程序和集成，以�
 
 ### Epsagon 的 Slack 机器人
 
-[![Stack Overflow Slack Bot](../Images/04850a684701079aad7dc680980c2d05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M9NP770O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tglp61b2kbz8srz210vs.png)
+[![Stack Overflow Slack Bot](img/04850a684701079aad7dc680980c2d05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M9NP770O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tglp61b2kbz8srz210vs.png)
 
 这只是我们在 Epsagon 使用的一些机器人。通常，每个 Slack bot 都向一个专用的 Slack 通道报告。
 
@@ -30,7 +30,7 @@ Slack 中我最喜欢的功能之一是它的大量应用程序和集成，以�
 
 如你所见，我们喜欢 Slack 机器人——包括内置的和定制的。开发定制 Slack bot 最简单的方法是什么？
 
-[![AWS RSS feed](../Images/d2df40e4fda2489dec8423fb3f78fba8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0UWxN_Wp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ubp7w7z6lszlp5y4uqb2.png)
+[![AWS RSS feed](img/d2df40e4fda2489dec8423fb3f78fba8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0UWxN_Wp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ubp7w7z6lszlp5y4uqb2.png)
 
 要运行 Slack bot，需要运行代码(很奇怪吧？).这段代码通过 Slack API 发送事件，然后将它们发布到相应的 Slack 通道。机器人运行的触发条件是什么？嗯，它可以由用户操作触发(就像交互式 Slack 机器人一样)，但通常——它是基于时间的。每 1 分钟、每 1 小时等等。
 
@@ -42,7 +42,7 @@ Slack 中我最喜欢的功能之一是它的大量应用程序和集成，以�
 
 我将展示我们在 Epsagon 中实现的 Reddit Slack 机器人。它跟踪我们跟踪的子编辑中的提交。
 
-[![Serverless Reddit Slack bot](../Images/b9fb65d58b4c5b1278bcf8ee3395aa15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UFl6oa4Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xlhpxbcr39sk7tcghdwl.png)
+[![Serverless Reddit Slack bot](img/b9fb65d58b4c5b1278bcf8ee3395aa15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UFl6oa4Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xlhpxbcr39sk7tcghdwl.png)
 
 这是一个开源项目，可以在我们的 GitHub 中找到:[https://github.com/epsagon/reddit-slackbot](https://github.com/epsagon/reddit-slackbot)
 
@@ -52,7 +52,7 @@ Slack 中我最喜欢的功能之一是它的大量应用程序和集成，以�
 
 **配置文件(config.json)** :该配置包含 Slack URL、Reddit 客户端参数以及要遵循的子编辑。子编辑是以 Reddit 的格式编写的。在这种情况下，我们将收到关于在子编辑“编程”和“Python”中包含关键字“lambda”的提交的通知。
 
-[![config.json](../Images/ca1e5d859526df5ca44502bcac90122c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_9rlYCuy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/63mqfpw2c0g9nh533yv0.png)
+[![config.json](img/ca1e5d859526df5ca44502bcac90122c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_9rlYCuy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/63mqfpw2c0g9nh533yv0.png)
 
 **Lambda 代码(main.py)** :代码包含三个函数。
 
@@ -60,13 +60,13 @@ Slack 中我最喜欢的功能之一是它的大量应用程序和集成，以�
 *   *get_submissions* —使用 Reddit API 检索新的提交。
 *   *update_slack* —格式化消息并将其发布到 slack 通道。
 
-[![main.py](../Images/a10f507ca8987ed2c344a3eda01b725a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GxYD2WlX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8bnsebb0io9wet5pt3l2.png)
+[![main.py](img/a10f507ca8987ed2c344a3eda01b725a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GxYD2WlX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8bnsebb0io9wet5pt3l2.png)
 
 请注意，处理程序函数包含函数配置的更新—具体来说，是 LAST_SUBMISSION 环境变量。它用于记住最后一次提交的时间，并且只发布新的到 Slack。* *这是一种在函数中保存状态而无需建立数据库的方法。*我们稍后再谈。
 
 **serverless.yml** :我们是无服务器框架的大 fonds。使用框架部署新的 Lambda 函数非常简单。
 
-[![serverless.yml](../Images/d5082b1f1d07b0bc70b71726803d2105.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p03fsSob--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pl0cijp8nrb5jy4ujb48.png)
+[![serverless.yml](img/d5082b1f1d07b0bc70b71726803d2105.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p03fsSob--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pl0cijp8nrb5jy4ujb48.png)
 
 ### 无服务器状态？
 

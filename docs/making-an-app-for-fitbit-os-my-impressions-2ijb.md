@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/iansavchenko/making-an-app-for-fitbit-os-my-impressions-2ijb>
 
-[![](../Images/87d6b322afca5d03414861236957e348.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5BTMOcWA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rrsnv9isebwyymhcykm8.jpg)
+[![](img/87d6b322afca5d03414861236957e348.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5BTMOcWA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rrsnv9isebwyymhcykm8.jpg)
 
 ### [T1】简介](#intro)
 
@@ -10,13 +10,13 @@
 
 ### 一款 app 的创意
 
-[![parking sign on my street](../Images/e84f0e0f519fc1af10e5c3ead96262b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hA8jZrvF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/57zst89smhoeco5ix5dn.jpg)
+[![parking sign on my street](img/e84f0e0f519fc1af10e5c3ead96262b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hA8jZrvF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/57zst89smhoeco5ix5dn.jpg)
 
 作为一名在瑞典的外籍人士，我经常看到人们如何使用周数作为描述时间的方式(一开始超级混乱)。此外，我住的街道上的停车标志禁止在奇数/偶数周停车，所以知道当前的周数在瑞典是至关重要的事情！我决定为此写一个[小但合适的应用](https://github.com/IanSavchenko/fitbit-week-number)，并完成一个完整的周期，直到发布到 Fitbit 应用库。
 
 ### 一切从哪里开始
 
-[![Fitbit Studio](../Images/6320710dd7e0829e999a158e87c0a59a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jWX7xm-t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/48ixccg2j66v79n740u0.png)
+[![Fitbit Studio](img/6320710dd7e0829e999a158e87c0a59a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jWX7xm-t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/48ixccg2j66v79n740u0.png)
 
 你所有的 Fitbit 应用程序都在 Fitbit Studio 中启动。这是一个在线 IDE，也是目前为 Fitbit 操作系统创建应用程序的唯一选择。你用你的 Fitbit 账户(和你用来登录 Fitbit app 的账户一样)登录，然后创建一个项目:一个 app 或者一个钟面。
 
@@ -50,7 +50,7 @@
 
 #### 👍对应用权限的精细控制
 
-[![App permissions](../Images/1c1da47ac570162ca8f91b7b77389282.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--C39R-vwR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1bsbsawe7cqhp1tnt05x.png) 
+[![App permissions](img/1c1da47ac570162ca8f91b7b77389282.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--C39R-vwR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1bsbsawe7cqhp1tnt05x.png) 
 这是我作为 Fitbit OS 用户喜欢的，知道没有我的直接同意，应用程序不能做太多事情。成熟操作系统的“必备”。
 
 ### 没有什么了不起的
@@ -101,4 +101,4 @@
 
 谢谢你读到这里。如果我做错了什么或者你有相关的经验，请在评论中告诉我！
 
-[![Week Number app](../Images/767e7f1ddc2e9a275759781f67cba896.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ff3rZ5hz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/IanSavchenko/fitbit-week-number/blob/master/screenshots/ionic-animated.gif%3Fraw%3Dtrue)
+[![Week Number app](img/767e7f1ddc2e9a275759781f67cba896.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ff3rZ5hz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/IanSavchenko/fitbit-week-number/blob/master/screenshots/ionic-animated.gif%3Fraw%3Dtrue)

@@ -28,19 +28,19 @@
 
 我过去在大多数印度交易所交易过，BitBns 的交易量没有那么大。然后当 BitBns 突然有了比 WazirX、Koinex、Coindelta 更好的成交量时，我以为是系统 bug。过去，BitBns 被指控伪造卷册，他们解释说系统有缺陷。这甚至在 2018 年 3 月被 [Coincrunch](https://coincrunch.in) 报道。
 
-> ![](../Images/2dcc08c517261771c5938295ee8f75be.png)![](../Images/2b6a6717c88fbe0570e92ff47fd022dd.png)Coin Crunch India@ Coin crunchin![](../Images/4d9c44713c216584b3d48ff3455cbb68.png)我们调查了一位用户举报的关于 BitBns 上 ETN 卷的问题。
+> ![](img/2dcc08c517261771c5938295ee8f75be.png)![](img/2b6a6717c88fbe0570e92ff47fd022dd.png)Coin Crunch India@ Coin crunchin![](img/4d9c44713c216584b3d48ff3455cbb68.png)我们调查了一位用户举报的关于 BitBns 上 ETN 卷的问题。
 > 
 > 我们发现 BitBns 错误地计算了交易量。在大多数情况下，贸易量会翻倍。
 > 
 > [@bitbns](https://twitter.com/bitbns) 请回复
 > 
-> [【加密货币】](https://twitter.com/hashtag/Cryptocurrency) [【交易】](https://twitter.com/hashtag/Trading)[【交易】](https://twitter.com/hashtag/Exchange)[【bit bns】](https://twitter.com/hashtag/Bitbns)[【调查】](https://twitter.com/hashtag/Investigation)下午 12:51-2018 年 3 月 17 日[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=974991522067337221)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=974991522067337221)
+> [【加密货币】](https://twitter.com/hashtag/Cryptocurrency) [【交易】](https://twitter.com/hashtag/Trading)[【交易】](https://twitter.com/hashtag/Exchange)[【bit bns】](https://twitter.com/hashtag/Bitbns)[【调查】](https://twitter.com/hashtag/Investigation)下午 12:51-2018 年 3 月 17 日[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=974991522067337221)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=974991522067337221)
 
 现在到了 2018 年 7 月，当大多数印度交易所的交易量急剧下降时，BitBns 的交易量仍然很好。我对此心存疑虑，想核实一下是否属实。据我所知，实际上显示的体积是错误的。
 
 首先，我看了看**交易历史**是如何在网站上更新的。本质上，交易历史包含了最近十次交易的历史。它显示一个时间戳，数量和 PPU(单价)。
 
-[![trade history](../Images/a25e672794767aef663c522b26e682bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PQNGJRRM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2AgV3B4mDwYTGo-zR86L3Spg.png)
+[![trade history](img/a25e672794767aef663c522b26e682bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PQNGJRRM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2AgV3B4mDwYTGo-zR86L3Spg.png)
 
 后来，我从 XHR 的请求中发现，交易历史数据是使用轮询 API 发送的。
 
@@ -57,14 +57,14 @@
 我整理了所有东西来获取数据，然后必须将所有东西存储在 MySQL 中。我用这样一种方式编程，当程序启动时，它会在第一次运行时将数据放入数据库中。然后，它将数据库中的最新记录与从交易历史中新获取的数据进行比较。如果根据从 API 获取的数据中的时间戳检测到新记录，那么它将被插入到数据库中。我为 XRP 和 BTC 各创建了一个表，其中包含 SNo、时间戳、容量和 PPU 列。
 
 数据在 MySQL 内部是这样存储的:
-[![mysql store](../Images/7144d726ac59c9e2c6860ee0baf266de.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4WN31JsQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AEC5ijlLA23AvExpb7OT33w.png)
+[![mysql store](img/7144d726ac59c9e2c6860ee0baf266de.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4WN31JsQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AEC5ijlLA23AvExpb7OT33w.png)
 
 如果数据的时间戳、卷和 PPU 相同，则该数据被视为重复数据，不会存储在数据库中。这种情况非常罕见，但我只是以防万一。
 
 我使用邮件服务在脚本运行时发送通知，并在 24 小时后直接将总量发送到电子邮件。在那之后，我把所有东西都放在一个 setInterval 中，以保持获取和存储数据。
 
 我使用的不同功能概述:
-[![Fetching new data using setInterval](../Images/76633f93591b95b57d90ef259f15b376.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FQdOjZaz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AyvOxwr21coRrqGfGFvXMjw.png)
+[![Fetching new data using setInterval](img/76633f93591b95b57d90ef259f15b376.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FQdOjZaz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AyvOxwr21coRrqGfGFvXMjw.png)
 
 由于时间间隔很长，你可能会认为我们会错过一些交易。然而，在印度市场，这实际上是一个很大的更新率。这是因为在币安没有很多交易。尽管如此，我没有漏掉任何数据。
 我已经完全准备好了我的代码并部署它。
@@ -78,16 +78,16 @@
 我在程序开始 24 小时后停止了它。尽管我们在电子邮件中获得了汇总结果，但我决定自己在 MySQL 中汇总它们。以下是该计划的结果。
 
 以下是基于我们程序的 XRP 和 BTC 市场 24 小时累计成交量:
-[![volume mysql](../Images/c497182550df497b139623aef3cb888b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hHIipdb0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A6VCNxNHV3qVV5ygMdZ23ng.png)
+[![volume mysql](img/c497182550df497b139623aef3cb888b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hHIipdb0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A6VCNxNHV3qVV5ygMdZ23ng.png)
 
 BitBns 和 CoinMarketCap
 在 **BitBns** 和 **CoinMarketCap** 报告的交易量之间存在巨大差异:
 
 XRP 市场(右)和 BTC 市场(左)的 24 小时成交量:
-[![difference](../Images/149ae3f9a59cf7135c8da0aeb968a486.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mK9grZmL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AW4apr9vb0CYq15XfDROQTw.png)
+[![difference](img/149ae3f9a59cf7135c8da0aeb968a486.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mK9grZmL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AW4apr9vb0CYq15XfDROQTw.png)
 
 24 小时后 CMC 上显示的卷:
-[![difference](../Images/d3c4ead68207077cb62f5d9d14697605.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--He3cqYmw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AdQYum_eNIiM58pPP1LbpWg.png)
+[![difference](img/d3c4ead68207077cb62f5d9d14697605.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--He3cqYmw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AdQYum_eNIiM58pPP1LbpWg.png)
 
 BitBns 和 CoinMarketCap 上显示的交易量称为滚动交易量。意思是当你打开他们的网站，网站上显示的成交量是过去 24 小时的。
 

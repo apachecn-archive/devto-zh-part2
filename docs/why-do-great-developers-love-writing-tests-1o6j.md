@@ -24,7 +24,7 @@
 
 * * *
 
-[!["2001: A Space Odyssey"](../Images/5b31b38f82818686f8aa7b07621a2182.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rQSFxHto--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AM9kUUVov8gltivB5)
+[!["2001: A Space Odyssey"](img/5b31b38f82818686f8aa7b07621a2182.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rQSFxHto--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AM9kUUVov8gltivB5)
 
 ### **第二部:** *我以骨为武器的日子结束了*
 
@@ -48,7 +48,7 @@ TDD 还有一个附加值:**聚焦**。只有能让测试变绿的代码才应�
 
 * * *
 
-[!["Shawshank Redemption"](../Images/e41039d20314d2944015cf130f7b2aa1.png "I hope the tests are as green as they have been in my dreams")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FcmSykO0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AxSnp8hYWmiSc4ocW)
+[!["Shawshank Redemption"](img/e41039d20314d2944015cf130f7b2aa1.png "I hope the tests are as green as they have been in my dreams")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FcmSykO0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AxSnp8hYWmiSc4ocW)
 
 ### **后记:** *我希望测试像我梦中的一样绿色*
 

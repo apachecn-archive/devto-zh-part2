@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/cseeman/the-calm-before-the-conf-43b5>
 
-[![](../Images/47f89395193237712ce684f2834b6700.png)T2】](https://i.giphy.com/media/r0yVLlbnQ5i5a/giphy.gif)
+[![](img/47f89395193237712ce684f2834b6700.png)T2】](https://i.giphy.com/media/r0yVLlbnQ5i5a/giphy.gif)
 
 明天我将在洛杉矶参加我的第一次 RubyConf。这真的是我参加的第一次技术会议。我的员工为我的成长投入了时间和金钱，这太棒了，我真的希望我可以把这作为一次学习经历，同时增长我对 Ruby 社区的了解。我做了 12 年的 Java 工程师，可能参加过一两次会议，对我来说那里没有那么多的社区，我也被鼓励去学习更多的东西，但是我的雇主从来没有派我去参加会议。在我成为 Ruby 工程师的 5 个月里，我受到了更多的鼓励去接触和联系。
 

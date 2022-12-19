@@ -4,7 +4,7 @@
 
 我已经在 Android 应用程序开发领域潜行了一段时间，我必须承认它似乎已经不再使用 Java 编程语言了。去年，谷歌宣布 Kotlin 将永远被支持为 Android 的一级编程语言。今天，它已经成为最受欢迎的编程语言。
 
-[![](../Images/edf108b293289891f956d63b8e90f7a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MxmkodWc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ryzwz1jjn1zkyi3pwi4h.jpg)
+[![](img/edf108b293289891f956d63b8e90f7a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MxmkodWc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ryzwz1jjn1zkyi3pwi4h.jpg)
 
 Java 是面向对象的和精心制作的编程语言，具有有限的实现依赖性。用通俗的语言来说，它允许开发人员编写一次代码，就支持 Java 的平台而言，可以在任何地方运行。而 [Kotlin 是一种运行在 JVM 上的静态类型编程语言](https://en.wikipedia.org/wiki/Kotlin_(programming_language))。Kotlin 可以很好地编译成 JavaScript 源代码和本机可执行文件，它提供了一系列令人惊叹的特性，例如:
 

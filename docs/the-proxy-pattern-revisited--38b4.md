@@ -118,7 +118,7 @@ end
 
 我们所做的就是利用`#prepend`影响 Ruby 对象模型的方式来找出被拦截的对象定义了哪些方法，然后在我们的代理中实现它们，同时添加我们自己的代码。为了调用最初的实现，我们再次利用了被拦截的对象是我们的代理模块的父对象这一事实，所以我们需要做的就是调用`#super`(不再有难看的`#send`调用)
 
-[![prepending_proxy_to_class](../Images/18df74032c54f2e287c944e9b74bc753.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a6GtdOs9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cacoo.com/diagrams/0iRB3WrIhseOvudw-33260.png)
+[![prepending_proxy_to_class](img/18df74032c54f2e287c944e9b74bc753.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a6GtdOs9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cacoo.com/diagrams/0iRB3WrIhseOvudw-33260.png)
 
 让我们编写一些客户端代码来练习我们的帐户:
 
@@ -171,7 +171,7 @@ end
 
 对象模型又一次被操纵为对我们有利:
 
-[![prepending_proxy_to_singleton_class](../Images/0a167b570876a3a6ba7accd6e1973cac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kGrYo9U5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cacoo.com/diagrams/Q1qefWY6I0sa0gOw-33260.png)
+[![prepending_proxy_to_singleton_class](img/0a167b570876a3a6ba7accd6e1973cac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kGrYo9U5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cacoo.com/diagrams/Q1qefWY6I0sa0gOw-33260.png)
 
 现在，通过再次运行我们的客户端代码，我们看到 Account 类的实例和类方法都被代理捕获:
 

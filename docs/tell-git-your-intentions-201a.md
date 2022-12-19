@@ -8,7 +8,7 @@
 
 为了简单起见，让我们假设我的回购协议中有一些未分级的更改，并且所有这些更改都适合我的下一次提交。我总是从 git add -p 开始，一次一小块地检查所有的更改:
 
-[![](../Images/7a49cc35b7136405ca51409067fa6612.png)](https://cdn-images-1.medium.com/max/624/1*-dRYd_wlSFUDEjwAM_QiTA.jpeg) 
+[![](img/7a49cc35b7136405ca51409067fa6612.png)](https://cdn-images-1.medium.com/max/624/1*-dRYd_wlSFUDEjwAM_QiTA.jpeg) 
 
 <figcaption>旧 Git 工作流程——新文件让事情变得‘复杂’</figcaption>
 
@@ -24,7 +24,7 @@
 
 所以，下面是我的新 Git 工作流的样子:
 
-[![](../Images/840695dfc94b76ab8ff1fb7cd92bbf97.png)](https://cdn-images-1.medium.com/max/349/1*ztQz322L8JeStk_mSJFM2Q.jpeg) 
+[![](img/840695dfc94b76ab8ff1fb7cd92bbf97.png)](https://cdn-images-1.medium.com/max/349/1*ztQz322L8JeStk_mSJFM2Q.jpeg) 
 
 <figcaption>一个精简的新 Git 工作流程</figcaption>
 

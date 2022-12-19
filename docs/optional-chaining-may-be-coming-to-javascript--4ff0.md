@@ -23,7 +23,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们做这些检查的原因是因为在 JavaScript 中允许匿名对象不一定有结构或模式。因此，如果我们不在对象树中检查父对象，我们会得到很多类似这样的错误:
 
-[![TypeError error message](../Images/d2095d54404a35b6a0c90d8acbb877cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WlXFg0V---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/xsxmyDK.png)
+[![TypeError error message](img/d2095d54404a35b6a0c90d8acbb877cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WlXFg0V---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/xsxmyDK.png)
 
 因为，至少在错误的情况下，`specimen`确实存在，但是它没有`arms`属性。因此，我们试图从`undefined`中得到`length`。
 

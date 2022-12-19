@@ -14,11 +14,11 @@
 浏览器不在乎。因为我们最后只提供 Html、CSS 和 JavaScript 文件。
 
 你见过网络选项卡
-[![d](../Images/cef8847deb3f2321acf54e62f313881f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Lj422QCN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y8uifv8yvl99y13bpeyp.png) 中的接受报头吗
+[![d](img/cef8847deb3f2321acf54e62f313881f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Lj422QCN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y8uifv8yvl99y13bpeyp.png) 中的接受报头吗
 
 ## 当我们点击标签上的一个 URL 时，会发生什么
 
-[![web performance](../Images/7b31f52036d057d1ea5d7921b16e14ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mS4IuBLu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vnpi2xvyqjv8x5lrm89l.png)
+[![web performance](img/7b31f52036d057d1ea5d7921b16e14ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mS4IuBLu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vnpi2xvyqjv8x5lrm89l.png)
 
 第一个浏览器查找 URL 的 DNS 查找。它将 URL 转换为 IP 地址，在发送请求之前，三次握手需要 56 毫秒才能得到确认。如果我们进行重定向，这将花费更多的浏览器需要找到新的 IP 地址，这将需要额外的时间。
 

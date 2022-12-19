@@ -18,4 +18,4 @@ Android Oreo 增加了[可下载字体](https://developer.android.com/guide/topi
 
 添加一个可下载的字体很简单——进入布局编辑器，选择`fontFamily`->-T1，然后选择你可能需要的任何字体。然后，Android Studio 导入所有必要的文件，并向 Android Manifest 添加条目，生成相关的 XML 文件，声明所使用的字体，以及如何从字体提供程序检索它。
 
-[![Selecting fonts in the Layout Editor](../Images/725ba7115fb419f857f9a48332297a37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---uw_XUbO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AilZTsWot9dskcEjm.)
+[![Selecting fonts in the Layout Editor](img/725ba7115fb419f857f9a48332297a37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---uw_XUbO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AilZTsWot9dskcEjm.)

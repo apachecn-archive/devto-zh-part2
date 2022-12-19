@@ -165,4 +165,4 @@ output //=> [ 4, 8 ]
 [我们来做一个 DEV.to CLI...一起](https://dev.to/joelnet/lets-make-a-devto-cli-together-4eh1)
 [让我们来谈谈 JavaScript 的自动生成文档工具](https://dev.to/joelnet/lets-talk-about-auto-generated-documentation-tools-for-javascript-49ol)
 
-[![Cheers!](../Images/661c03d25961a6e3b1ecbe00d148b35a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PqqJmrxK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6jsy3a866frzp3u5oda0.jpg)
+[![Cheers!](img/661c03d25961a6e3b1ecbe00d148b35a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PqqJmrxK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6jsy3a866frzp3u5oda0.jpg)

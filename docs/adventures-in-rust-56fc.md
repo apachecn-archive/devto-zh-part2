@@ -24,9 +24,9 @@
 
 不久之后，我有了一次前所未有的最好的开源体验。有人开始用`groupby`，看了我可怕的代码，发了这个问题:
 
-# [![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) 小码建议 #1](https://github.com/lostutils/groupby/issues/1) 
+# [![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) 小码建议 #1](https://github.com/lostutils/groupby/issues/1) 
 
-[![vorner avatar](../Images/92727de75e647331bcbae5e54e6907fc.png)](https://github.com/vorner) **[vorner](https://github.com/vorner)** posted on [<time datetime="2018-03-15T16:26:48Z">Mar 15, 2018</time>](https://github.com/lostutils/groupby/issues/1)
+[![vorner avatar](img/92727de75e647331bcbae5e54e6907fc.png)](https://github.com/vorner) **[vorner](https://github.com/vorner)** posted on [<time datetime="2018-03-15T16:26:48Z">Mar 15, 2018</time>](https://github.com/lostutils/groupby/issues/1)
 
 你好
 

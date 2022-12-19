@@ -2,11 +2,11 @@
 
 > 原文：<https://dev.to/ahmadawais/new-gmail-is-pretty-dope-devthoughts-387e>
 
-谷歌似乎刚刚宣布了新的 Gmail。我是一个狂热的用户。所以，我开始尝试新的东西。[![](../Images/93d87e7992ebd91eb1d666fc8eaf501e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yCLjUee_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dha4w82d62smt.cloudfront.net/items/202T150V3G1H1Z29123F/Screen%2520Recording%25202018-04-26%2520at%252010.46%2520AM.gif)
+谷歌似乎刚刚宣布了新的 Gmail。我是一个狂热的用户。所以，我开始尝试新的东西。[![](img/93d87e7992ebd91eb1d666fc8eaf501e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yCLjUee_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dha4w82d62smt.cloudfront.net/items/202T150V3G1H1Z29123F/Screen%2520Recording%25202018-04-26%2520at%252010.46%2520AM.gif)
 
 ## 如何获得新的 Gmail？📧
 
-嗯，这很简单。登录你 Gmail 账户，点击右上角的⚙齿轮图标。然后点击那里的`Try New Gmail`链接: [![try new Gmail](../Images/38f25644a8ede0448fecff206813d9a5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zbXASKv6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://ahmadawais.com/wp-content/uploads/2018/04/Screen-Recording-2018-04-26-at-01.59-PM.gif)
+嗯，这很简单。登录你 Gmail 账户，点击右上角的⚙齿轮图标。然后点击那里的`Try New Gmail`链接: [![try new Gmail](img/38f25644a8ede0448fecff206813d9a5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zbXASKv6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://ahmadawais.com/wp-content/uploads/2018/04/Screen-Recording-2018-04-26-at-01.59-PM.gif)
 
 ## 有什么新功能和新的 Gmail？🔥
 
@@ -14,23 +14,23 @@
 
 > 🆕**全新的用户界面** —现在你不用点击一百次就能做更多的事情。⏲**曾经存在于手机应用程序中的贪睡功能**现在出现在了网络上。
 
-[![New Gmail](../Images/d824bc2298c162bcd1938325f56b3ae8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3lXRS-2g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://ahmadawais.com/wp-content/uploads/2018/04/Gmail_Convergence_Consumer_Image_1.gif)
+[![New Gmail](img/d824bc2298c162bcd1938325f56b3ae8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3lXRS-2g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://ahmadawais.com/wp-content/uploads/2018/04/Gmail_Convergence_Consumer_Image_1.gif)
 
 > 🎫**过期电子邮件**发送在设定日期后过期的电子邮件。*机密！*
 
-[![Gmail Confidential Mode](../Images/e33c1b50a9431dba3c95ff802f0f05b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rHA5NG8f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://ahmadawais.com/wp-content/uploads/2018/04/Gmail_confidentialmode.gif)
+[![Gmail Confidential Mode](img/e33c1b50a9431dba3c95ff802f0f05b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rHA5NG8f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://ahmadawais.com/wp-content/uploads/2018/04/Gmail_confidentialmode.gif)
 
 > 👉**谷歌的“轻推”**现在会“轻推”你跟进并回复。
 
-[![Gmail Nudge to respond and followup](../Images/7817a1d4a78e19b14978933fbf52c758.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TedaAmgp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ahmadawais.com/wp-content/uploads/2018/04/Gmail_Convergence_Consumer_Image_2.max-1000x1000-2.png)
+[![Gmail Nudge to respond and followup](img/7817a1d4a78e19b14978933fbf52c758.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TedaAmgp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ahmadawais.com/wp-content/uploads/2018/04/Gmail_Convergence_Consumer_Image_2.max-1000x1000-2.png)
 
 > 👌**智能回复的**也为我节省了手机上网的时间。
 
-[![Gmail Expiring Confidential Emails](../Images/68988ce0e8976b5e4bd72157a17e31ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---cTZO9l4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://ahmadawais.com/wp-content/uploads/2018/04/Gmail_Convergence_Consumer_Image_3.gif)
+[![Gmail Expiring Confidential Emails](img/68988ce0e8976b5e4bd72157a17e31ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---cTZO9l4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://ahmadawais.com/wp-content/uploads/2018/04/Gmail_Convergence_Consumer_Image_3.gif)
 
 > 📨**只有高优先级通知**才能通过手机联系到您。 *FTW！*
 
-[![Gmail only high-priority notification](../Images/141c7351878ae1d04ba2bc64183bfc4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z-CxUxbU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ahmadawais.com/wp-content/uploads/2018/04/Gmail_Convergence_Consumer_Image_4.max-1000x1000.png)
+[![Gmail only high-priority notification](img/141c7351878ae1d04ba2bc64183bfc4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z-CxUxbU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ahmadawais.com/wp-content/uploads/2018/04/Gmail_Convergence_Consumer_Image_4.max-1000x1000.png)
 
 > 🤖Keep、日历、任务和第三方应用集成非常有趣。
 

@@ -28,6 +28,6 @@ SQL server 连接字符串就是这样一个例子。一些开发人员可能安
 
 > **重要提示:**如果您使用`connectionStrings`元素来存储您的数据源连接字符串，那么，您可以使用 configSource 属性来代替。然而，这两个属性并不等同。你可以在这里阅读更多关于差异[的信息。](https://stackoverflow.com/questions/6940004/asp-net-web-config-configsource-vs-file-attributes#6940086)
 
-希望这个漂亮的小技巧有助于你的发展。[![🙂](../Images/1bb31e891282bfa40812655c9c9ace9e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DvXCaIjD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.org/images/core/emoji/11/72x72/1f642.png)
+希望这个漂亮的小技巧有助于你的发展。[![🙂](img/1bb31e891282bfa40812655c9c9ace9e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DvXCaIjD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.oimg/core/emoji/11/72x72/1f642.png)
 
 帖子[在开发过程中覆盖 appSettings】最早出现在](https://ankitvijay.net/2018/04/21/override-appsettings-during-development/)[嗨，我是 Ankit](https://ankitvijay.net) 。

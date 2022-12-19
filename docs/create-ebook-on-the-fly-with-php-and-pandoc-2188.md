@@ -16,7 +16,7 @@
 
 Pianta glabra (!). Culmi ascendenti, glabri, avvolti fino in alto dalle guaine (le sup. sono decisam. rigonfie). Fg. molli, con lamina larga fino a 9 mm e ligula tronca, breve, di 2(3-5) mm; guaine scabre se strisciate dal basso verso l'alto. Pannocchia spiciforme ovale, densa 1-2 X 2-4 cm; sp.tte inf. spesso sterili; glume 6-7(9) mm, biancastre con linee longi-tud. verdi; lemma fertile 4-6 mm, pubescente; lemmi sterili di 3 mm circa.<br /><br />Macarones.<br />In tutto il terr.: C, però nell'It. Sett. per lo più avvent. incostante.<br /><br /><strong>Usi</strong> - Origin. delle Canarie e Medit. Occid. viene comunem. coltivata come alimento per i canarini; con la pulizia delle gabbie i semi finiscono facilmente tra le immondizie e possono quivi germinare dando luogo a brevi avventiziati. Viene pure usata come pianta ornamentale.
 
-![Diffusione](/home/caiofior/Scaricati/florae.it//images/merged_map/0/c/0c7433833c7e9841626ea999f5f152db.png)
+![Diffusione](/home/caiofior/Scaricati/florae.iimg/merged_map/0/c/0c7433833c7e9841626ea999f5f152db.png)
 
 **Autore**
 :   Linneo
@@ -30,11 +30,11 @@ Pianta glabra (!). Culmi ascendenti, glabri, avvolti fino in alto dalle guaine (
 **Altezza**
 :   3-5(7) dm
 
-![](/home/caiofior/Scaricati/florae.it//images/merged_altitude/2/7/277819b553a78e6b2c28d9c898b60ff8.png)
+![](/home/caiofior/Scaricati/florae.iimg/merged_altitude/2/7/277819b553a78e6b2c28d9c898b60ff8.png)
 **Fioritura**
 :   da Aprile a Giugno
 
-![](/home/caiofior/Scaricati/florae.it//images/merged_flower/b/4/b427ebc8ffe2221831c49fa57369653e.png) 
+![](/home/caiofior/Scaricati/florae.iimg/merged_flower/b/4/b427ebc8ffe2221831c49fa57369653e.png) 
 ```
 
 Enter fullscreen mode Exit fullscreen mode

@@ -6,7 +6,7 @@
 
 源文章:
 
-[![aspittel image](../Images/45a8d86fe0ff981bf7cdb45b471a3c5c.png)](/aspittel) [## 给新开发人员的 25 个建议:来自一个(大部分)自学成才的软件工程师的建议
+[![aspittel image](img/45a8d86fe0ff981bf7cdb45b471a3c5c.png)](/aspittel) [## 给新开发人员的 25 个建议:来自一个(大部分)自学成才的软件工程师的建议
 
 ### 阿里·斯皮特尔 8 月 7 日 189 分钟阅读
 

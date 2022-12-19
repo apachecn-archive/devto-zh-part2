@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/pepesenaris/sending-emails-from-a-create-react-app-2gm6>
 
-<figure>[![](../Images/3b7f7bbfb5badb1725d39587035c84f0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Jn17k5tK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AIiQuFZskyWATRJBMXGVXkQ.jpeg) 
+<figure>[![](img/3b7f7bbfb5badb1725d39587035c84f0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Jn17k5tK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AIiQuFZskyWATRJBMXGVXkQ.jpeg) 
 
 <figcaption>【古巴哈瓦那摩洛三大巫师国王城堡】</figcaption>
 

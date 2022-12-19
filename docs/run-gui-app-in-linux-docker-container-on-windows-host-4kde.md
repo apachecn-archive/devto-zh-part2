@@ -28,10 +28,10 @@ choco install vcxsrv
 Enter fullscreen mode Exit fullscreen mode
 
 然后从开始菜单运行 **Xlaunch** 并遵循初始配置步骤:
-[![Setup1](../Images/a1fee14f8580aa5d668a2dc82a368136.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MCnNoPwj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g3roivsrapgy69mqkhpc.png)
-[![Setup2](../Images/eb8cff06fdb2338857b0c20e43c1067f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9T2fJDCh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5l5fil0nongqswsc5qx5.png)
-[![Setup3](../Images/cf0884fad68252d06a53aaa0b9f4bc9b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1fOShFRZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3eh1lry7125modpdj6a2.png)
-[![Setup4](../Images/a2c22658002f6e50155383a23dbf0916.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GFylK6hC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/48tl3o3pv99vbhk06188.png)
+[![Setup1](img/a1fee14f8580aa5d668a2dc82a368136.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MCnNoPwj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g3roivsrapgy69mqkhpc.png)
+[![Setup2](img/eb8cff06fdb2338857b0c20e43c1067f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9T2fJDCh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5l5fil0nongqswsc5qx5.png)
+[![Setup3](img/cf0884fad68252d06a53aaa0b9f4bc9b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1fOShFRZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3eh1lry7125modpdj6a2.png)
+[![Setup4](img/a2c22658002f6e50155383a23dbf0916.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GFylK6hC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/48tl3o3pv99vbhk06188.png)
 **确保在单击完成之前保存到配置文件！**
 将其保存到以下位置之一:
 
@@ -100,7 +100,7 @@ docker run -ti --rm -e DISPLAY=$DISPLAY firefox
 Enter fullscreen mode Exit fullscreen mode
 
 你现在应该看到一个 firefox 窗口:
-[![firefox docker](../Images/0e43cdc1e601b09b7f12f0aea9a2d47a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--d_jpgRzm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zbbfl8ytpwmd9erj9hxh.png)
+[![firefox docker](img/0e43cdc1e601b09b7f12f0aea9a2d47a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--d_jpgRzm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zbbfl8ytpwmd9erj9hxh.png)
 
 这将适用于大多数其他应用程序。
 

@@ -18,7 +18,7 @@
 
 让我们从谈论**纯函数**开始。
 
-[![let's get started](../Images/d504edf6bf8c432e193bea23c572ead3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZqJx-BlL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.gifer.com/KQ73.gif)
+[![let's get started](img/d504edf6bf8c432e193bea23c572ead3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZqJx-BlL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.gifer.com/KQ73.gif)
 
 ### 什么是纯函数？
 

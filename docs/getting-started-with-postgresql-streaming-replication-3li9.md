@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/scalegrid/getting-started-with-postgresql-streaming-replication-3li9>
 
-[![PostgreSQL Streaming Replication for High Availability - ScaleGrid Blog](../Images/e4cb9dba75f8cafe57d3a27516f7fb29.png)T2】](https://scalegrid.io/blog/getting-started-with-postgresql-streaming-replication/)
+[![PostgreSQL Streaming Replication for High Availability - ScaleGrid Blog](img/e4cb9dba75f8cafe57d3a27516f7fb29.png)T2】](https://scalegrid.io/blog/getting-started-with-postgresql-streaming-replication/)
 
 在这篇博文中，我们将深入探讨在 PostgreSQL 中设置流复制(SR)的具体细节。流复制是在您的 [PostgreSQL 主机](https://scalegrid.io/postgresql.html)中实现高可用性的基础构建块，通过运行主从配置产生。
 
@@ -58,7 +58,7 @@
 
 # 如何设置流式复制？
 
-[![PostgreSQL Streaming Replication](../Images/e19564c306bcc9ad1bd7ab8422276cd0.png)T2】](https://scalegrid.io/blog/wp-content/uploads/2018/09/postgres_streaming.jpg)
+[![PostgreSQL Streaming Replication](img/e19564c306bcc9ad1bd7ab8422276cd0.png)T2】](https://scalegrid.io/blog/wp-content/uploads/2018/09/postgres_streaming.jpg)
 
 在 PostgreSQL 中设置流复制非常简单。假设 PostgreSQL 已经安装在所有服务器上，您可以按照以下步骤开始:
 

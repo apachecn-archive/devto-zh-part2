@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/sivakumar_kailasam/using-react-components-in-your-ember-app-41m9>
 
-[![](../Images/1a9afa84d1f53f0433b024b8b812583b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u_WLIlyP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ABSs196_7DmG5oPDW_RL4Ug.png)
+[![](img/1a9afa84d1f53f0433b024b8b812583b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u_WLIlyP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ABSs196_7DmG5oPDW_RL4Ug.png)
 
 > *免责声明:*我是 ember.js 学习团队的成员。这不是一篇 react vs ember 的文章。他们都很棒。
 

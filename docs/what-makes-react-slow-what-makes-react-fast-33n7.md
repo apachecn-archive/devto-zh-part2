@@ -38,10 +38,10 @@ React 的工程师找到了解决这个问题的方法。他们想出了一个�
 
 每当在 React 组件上调用 setState 时，React 都会将其标记为脏。在结束事件循环时，React 将查看这些脏组件并重新渲染它们。这恰好在 DOM 更新时发生一次。
 
-[![React Diff Algo](../Images/4b1d3918b9bef5a967a8ef6516db8985.png "React Diff Algo")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J9wNdiZT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o3qwv6w8yjfyag866gni.png)
+[![React Diff Algo](img/4b1d3918b9bef5a967a8ef6516db8985.png "React Diff Algo")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J9wNdiZT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o3qwv6w8yjfyag866gni.png)
 
 在调用 SetState 时，React 为所有子组件重建虚拟 DOM。但问题是，如果你重新渲染根元素，你最终会渲染整个应用程序，这很难优化。
 
-[![React Re-rendering of Tree](../Images/9ba6f1f418461ee0682b617d5c067f29.png "React Re-rendering of Tree")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WzaFFTj3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z6d5pw0cwrwp319sv949.png)
+[![React Re-rendering of Tree](img/9ba6f1f418461ee0682b617d5c067f29.png "React Re-rendering of Tree")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WzaFFTj3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z6d5pw0cwrwp319sv949.png)
 
 谢天谢地，有大量的优化技术可以让你的应用反应更快。有一本[关于让 React 应用更快的权威指南](https://www.simform.com/react-performance/)，详细介绍了优化 React 组件的细节。

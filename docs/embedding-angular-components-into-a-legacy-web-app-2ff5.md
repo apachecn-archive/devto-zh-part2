@@ -6,7 +6,7 @@
 
 *注*:本版本代码样本不包含行号。
 
-[![](../Images/a81c586a8fbe6742824706085e44ad7d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7HpNaHbz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://bobonmedicaldevicesoftware.com/blog/wp-content/uploads/2018/07/embedded-angular-150x150.png) 在一个完美的世界里，你可以从头开始创建一个全新的水疗中心。在现实世界中，通常不是这样。这种遗留的 web 应用程序有太多的负担，很难一蹴而就地将其转换为 SPA。如果您目前正在使用 JSP 或 Rails 技术的服务器端渲染，这一点尤其正确。
+[![](img/a81c586a8fbe6742824706085e44ad7d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7HpNaHbz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://bobonmedicaldevicesoftware.com/blog/wp-content/uploads/2018/07/embedded-angular-150x150.png) 在一个完美的世界里，你可以从头开始创建一个全新的水疗中心。在现实世界中，通常不是这样。这种遗留的 web 应用程序有太多的负担，很难一蹴而就地将其转换为 SPA。如果您目前正在使用 JSP 或 Rails 技术的服务器端渲染，这一点尤其正确。
 
 唯一真正的解决方案是**逐渐地**移动/升级 UI 逻辑和数据访问模式(例如，转换到 REST 接口)。如果你计划迁移到 Angular ***** ，一个好的起点是首先将 Angular 实现的逻辑嵌入到你现有的应用程序中。这种方法还允许新的 Angular 组件共享 CSS 样式，以实现无缝的视觉集成。
 
@@ -109,7 +109,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 示例应用程序的屏幕截图:
 
-[![](../Images/53e272f6c75a20a388e26994e2eb2a2e.png)](https://github.com/rnadler/embedded-angular) 
+[![](img/53e272f6c75a20a388e26994e2eb2a2e.png)](https://github.com/rnadler/embedded-angular) 
 本工程采用如下:
 
 *   [Angular CLI](https://github.com/angular/angular-cli)——当然。

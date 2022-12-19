@@ -28,7 +28,7 @@
 
 为了演示，我们将使用下面的[样本输入包含图表数据的 Microsoft Excel 文档](https://github.com/AsposeCells/AsposeCells-Screenshots-and-Sample-Files/blob/master/Create-Microsoft-Excel-Column-Chart/sampleCreateMicrosoftExcelColumnChart.xlsx)。这里，列 A 包含分类轴数据，其他列 B、C 和 D 包含图表系列数据。
 
-[![Sample Input Microsoft Excel Document containing Chart Data.](../Images/56bfd89a6db5014d7247460d8d34aa10.png "Sample Input Microsoft Excel Document containing Chart Data.")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X2VWa5or--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/AsposeCells/AsposeCells-Screenshots-and-Sample-Files/master/Create-Microsoft-Excel-Column-Chart/Input-Microsoft-Excel-Document-containing-Chart-Data.png)
+[![Sample Input Microsoft Excel Document containing Chart Data.](img/56bfd89a6db5014d7247460d8d34aa10.png "Sample Input Microsoft Excel Document containing Chart Data.")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X2VWa5or--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/AsposeCells/AsposeCells-Screenshots-and-Sample-Files/master/Create-Microsoft-Excel-Column-Chart/Input-Microsoft-Excel-Document-containing-Chart-Data.png)
 
 # 样本代码
 

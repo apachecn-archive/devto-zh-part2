@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ozymandias547/how-my-greenfield-projects-fall-into-muddy-messes-18pn>
 
-[![Lost it's head](../Images/6a1d1c390057b2379190e066ae4fc122.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n4PGcwMG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s18.postimg.org/h4pzhvwxl/Screen_Shot_2018-04-04_at_11.44.15_PM.png)
+[![Lost it's head](img/6a1d1c390057b2379190e066ae4fc122.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n4PGcwMG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s18.postimg.org/h4pzhvwxl/Screen_Shot_2018-04-04_at_11.44.15_PM.png)
 
 当我开始作为一名开发人员时，我记得首席架构师感叹他已经有一段时间没有参与“绿地”项目了——因为他在一个文件中滚动了 30，000 行 CSS 代码…
 

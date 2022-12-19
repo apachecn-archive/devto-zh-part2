@@ -14,7 +14,7 @@
 
 在研究引用和切片等高级类型之前，我让它在它所来自的对象上设置数据。它会冒泡一个 OnChange 回调来持久化节点树。所以现在是工作督察。当您修改节点的属性(如 name 和 active)时，它甚至会更新树。
 
-[![inspector demo](../Images/2f61e6eaf261ff5b86af37fabd6cf9d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0E6BC6aY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://g.recordit.co/wzGUZwgUb1.gif)
+[![inspector demo](img/2f61e6eaf261ff5b86af37fabd6cf9d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0E6BC6aY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://g.recordit.co/wzGUZwgUb1.gif)
 
 当我回到这里时，我将开始研究它需要支持的高级类型。引用会很有趣，因为我希望它们可以像 Unity 一样通过拖放来设置。您可以将一个节点从 treeview 拖到 inspector 字段来设置它。
 [https://www.youtube.com/embed/KSrLNXUjGSc](https://www.youtube.com/embed/KSrLNXUjGSc)T2】

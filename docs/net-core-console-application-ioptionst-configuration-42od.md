@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kritner/net-core-console-application-ioptionst-configuration-42od>
 
-[![](../Images/1f3cef8459647f5848655177c290a9e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JE3VsIfH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/863/1%2AZh5hmHx-tlmpZDoB4LFkBQ.png)
+[![](img/1f3cef8459647f5848655177c290a9e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JE3VsIfH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/863/1%2AZh5hmHx-tlmpZDoB4LFkBQ.png)
 
 所以，我对我的谷歌技能失去了信心，似乎没有一个一站式商店，我可以找到关于建立一个带有`IServiceProvider`和利用`IOptions<T>`的. net 核心控制台应用程序的信息。
 

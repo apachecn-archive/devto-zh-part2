@@ -9,4 +9,4 @@
 
 感谢任何反馈😁
 
-[![](../Images/7e2eef68f64c824c7e39640ef6c34285.png)T2】](https://youtu.be/Xo8CzYGKXTs)
+[![](img/7e2eef68f64c824c7e39640ef6c34285.png)T2】](https://youtu.be/Xo8CzYGKXTs)

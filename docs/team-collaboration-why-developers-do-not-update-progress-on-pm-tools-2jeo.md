@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/svikashk/team-collaboration-why-developers-do-not-update-progress-on-pm-tools-2jeo>
 
-[![Team Collaboration: Why Developers Do Not Update Progress On PM Tools](../Images/8f9a4e7e78d2cdddf8c452c14f9deef8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---iy3yst3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1517503733723-8ea1cf616798%3Fixlib%3Drb-0.3.5%26q%3D80%26fm%3Djpg%26crop%3Dentropy%26cs%3Dtinysrgb%26w%3D1080%26fit%3Dmax%26ixid%3DeyJhcHBfaWQiOjExNzczfQ%26s%3Ddb27ce748850386ee7519672b1391b9d)
+[![Team Collaboration: Why Developers Do Not Update Progress On PM Tools](img/8f9a4e7e78d2cdddf8c452c14f9deef8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---iy3yst3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1517503733723-8ea1cf616798%3Fixlib%3Drb-0.3.5%26q%3D80%26fm%3Djpg%26crop%3Dentropy%26cs%3Dtinysrgb%26w%3D1080%26fit%3Dmax%26ixid%3DeyJhcHBfaWQiOjExNzczfQ%26s%3Ddb27ce748850386ee7519672b1391b9d)
 
 经理们注册使用一个项目管理软件来保持他们的团队同步，这并不是一个新概念。自从计算机成为办公室环境中的基本必需品以来，这些工具一直在推销对项目管理软件的需求。
 
@@ -52,7 +52,7 @@
 
 只要看看当苹果移除物理退出按钮并对 MacBook Pro 2016 版键盘上的按键点击方式做出改变时，开发者有多不高兴——这里[这里](https://hackernoon.com/why-developers-should-not-use-macbook-pro-3b6a4aeeee64)，[这里](https://medium.com/@JoaquimLey/macbook-pro-2016-2017-developers-honest-review-6-months-later-47636086c701)，这里[这里](https://bgr.com/2016/10/28/macbook-pro-2016-specs-creative-professionals-developers/)。
 
-[![Team Collaboration: Why Developers Do Not Update Progress On PM Tools](../Images/1349428007e3af69171faa99733dda59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JBdMBRQj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.zepel.io/content/images/2018/08/dev-physical-buttons-2.png)
+[![Team Collaboration: Why Developers Do Not Update Progress On PM Tools](img/1349428007e3af69171faa99733dda59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JBdMBRQj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.zepel.io/conteimg/2018/08/dev-physical-buttons-2.png)
 
 对于一个大部分工作时间都把双手粘在键盘上的人来说，让他们点击十几个按钮、滚动、浏览错综复杂的页面和弹出窗口来更新任务进度，会让他们一想到登录项目管理工具就抱怨和退缩。
 
@@ -72,7 +72,7 @@
 
 当他们被一个会议电话分散注意力时，他们的整个思维模式崩溃了，这就是为什么开发人员需要一段时间才能回到他们的最佳状态。
 
-[![Team Collaboration: Why Developers Do Not Update Progress On PM Tools](../Images/9e583ca3a0beefc91f4ab6955b5f5cd8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SM0j5KjO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.zepel.io/content/images/2018/08/do-not-interrupt-a-programmer-1.jpg) 
+[![Team Collaboration: Why Developers Do Not Update Progress On PM Tools](img/9e583ca3a0beefc91f4ab6955b5f5cd8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SM0j5KjO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.zepel.io/conteimg/2018/08/do-not-interrupt-a-programmer-1.jpg) 
 
 <small>图片来源:[杰森·赫里斯](https://heeris.id.au/2013/this-is-why-you-shouldnt-interrupt-a-programmer/)</small>
 
@@ -88,10 +88,10 @@
 
 在与几个团队交谈并了解他们的需求后，我们有了一个天堂-离别-天使-歌唱的时刻。我们收到的反馈帮助我们构建了一个桌面小部件，使您可以快速查看分配给您的任务，全面了解当前里程碑中发布的内容，并鸟瞰您的里程碑的进展情况。
 
-[![Team Collaboration: Why Developers Do Not Update Progress On PM Tools](../Images/d135baa6988eea3ee9bfa545582289dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dxceszct--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.zepel.io/content/images/2018/08/Zepel-Desktop-Widget.png)
+[![Team Collaboration: Why Developers Do Not Update Progress On PM Tools](img/d135baa6988eea3ee9bfa545582289dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dxceszct--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.zepel.io/conteimg/2018/08/Zepel-Desktop-Widget.png)
 
 如果您是一名开发人员，您不必再打开浏览器、登录并导航到分配给您的任务，只需更新任务的进度。您可以选择使用我们易于记忆的键盘命令，或者只需点击一个按钮，将您的任务标记为已完成，更改状态，并随时向您的经理报告您的进度。
 
 让您的团队保持同步从未如此简单和容易。简直神奇。你自己试试吧。你会明白我在说什么。
 
-[![Team Collaboration: Why Developers Do Not Update Progress On PM Tools](../Images/67377f8607238ba161222784280f2c7d.png)T2】](https://zepel.io/?utm_source=devto&utm_campaign=devupdatetool)
+[![Team Collaboration: Why Developers Do Not Update Progress On PM Tools](img/67377f8607238ba161222784280f2c7d.png)T2】](https://zepel.io/?utm_source=devto&utm_campaign=devupdatetool)

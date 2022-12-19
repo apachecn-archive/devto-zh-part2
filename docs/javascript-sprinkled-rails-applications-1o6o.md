@@ -14,7 +14,7 @@
 
 举个例子，让我们以一个基于 Rails 的博客为例。在这个博客上，每篇文章都可以有很多回复。添加了一个身份验证系统，允许用户使用他们的帐户登录和发布回复。在每篇文章的页面上，我们都会列出回复。为了方便用户，我们用图标和不同的背景色来标记新的回复。
 
-[![An article with unread responses](../Images/b7d220f15a4616a66cc8f46eae4899ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ar1qzwpu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.appsignal.com/images/blog/2018-07/unread.png)
+[![An article with unread responses](img/b7d220f15a4616a66cc8f46eae4899ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ar1qzwpu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.appsignal.cimg/blog/2018-07/unread.png)
 
 如果我们将每篇文章都放在一个`cache`块中，我们就有可能将错误的回复标记为未读。当用户请求索引页时，响应被缓存。当另一个用户稍后请求同一个页面时，他们将收到缓存的片段，以及第一个用户的未读响应。
 

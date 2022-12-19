@@ -44,7 +44,7 @@ python3 cozmo-paparazzi.py seltzer
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![CozmoPaparazzi](../Images/c40ae843a349eb1bf1c3ccf42be3c60b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MciKfK5w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hvn6reuu4pxc8xyx3rzn.gif)
+[![CozmoPaparazzi](img/c40ae843a349eb1bf1c3ccf42be3c60b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MciKfK5w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hvn6reuu4pxc8xyx3rzn.gif)
 
 重复这一步，你想让 Cozmo 学习多少对象(标签)就学习多少！现在，您应该可以在本地目录的`/data`文件夹中看到所有图像标签的子目录。
 
@@ -146,7 +146,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果 Cozmo 至少有 80%的信心它正在看着有问题的物体，那么机器人就会胜利地向它跑去！
 
-[![finder](../Images/8b1d806c4c939f676ac31e6f571fd91d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MmSQIk97--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vuxx3xomgncw95jthdte.gif)
+[![finder](img/8b1d806c4c939f676ac31e6f571fd91d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MmSQIk97--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vuxx3xomgncw95jthdte.gif)
 
 一旦 Cozmo 找到了你所有丢失的对象，不要忘记关闭你在 FloydHub 上的服务工作。
 

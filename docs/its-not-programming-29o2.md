@@ -8,7 +8,7 @@
 
 互联网回来了，但我想继续画画，后端可以等。
 
-[![from_alejob0nilla_studios](../Images/2b61b7340ff5a1c0d14755ba715b43aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gq0XzwxL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jiks0lu95mpizw4vvka4.png)
+[![from_alejob0nilla_studios](img/2b61b7340ff5a1c0d14755ba715b43aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gq0XzwxL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jiks0lu95mpizw4vvka4.png)
 
 是的，是我的，不是开玩笑，一个 26 岁男人的画。
 

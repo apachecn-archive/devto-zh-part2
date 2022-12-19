@@ -8,7 +8,7 @@ JavaScript 发展速度如此之快。难怪我们每年都要等待 JavaScript 
 
 每年，一些著名的图书馆作者都会与一些优秀的网络和数据分析人才聚在一起，在:[StateofJS.com](https://stateofjs.com/)制作一份真正令人惊叹的报告，并且已经这样做了三年。 [2016](http://2016.stateofjs.com/) 、[2017](http://2017.stateofjs.com/)2018。
 
-[![](../Images/a94cb87755fa5ce0988c66b222ab83ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w2Q60vxb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/MgGFAwu.png)
+[![](img/a94cb87755fa5ce0988c66b222ab83ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w2Q60vxb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/MgGFAwu.png)
 
 这个报告可以帮助你做一些事情。这是一个关于 JavaScript 的非常有价值的信息资源，作为一个专业人士，它可以帮助你做决策，或者只是让你对你最喜欢的框架感到高兴或悲伤。
 
@@ -20,7 +20,7 @@ JavaScript 发展速度如此之快。难怪我们每年都要等待 JavaScript 
 
 看起来 20 万美元范围内的开发人员数量实际上增加了将近 0.5%。考虑到样本量的增加，我认为这不足以说它在增长，然而，它似乎并没有缩小。我相信，随着 JavaScript 越来越成为用于 web、移动和桌面应用程序开发的最重要的编程语言之一，这一类别将会增长。
 
-[![](../Images/93b97fa0b55e8d0222bf53f1b660ed80.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gfjh7eMM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/GvBtX7d.png)
+[![](img/93b97fa0b55e8d0222bf53f1b660ed80.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gfjh7eMM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/GvBtX7d.png)
 
 我们看到多年经验的结果逐年发生有趣的变化。过去，我们看到过类似结果的堆栈溢出调查，所以我们知道这个数据相当不错。但是，如果你也看看年复一年的堆栈溢出数据，我们作为一个 JavaScript 社区倾向于有更多的高级开发人员长期逗留。此图表中的列是多年的经验，我们可以看到所有三年调查的数字。
 
@@ -39,7 +39,7 @@ JavaScript 发展速度如此之快。难怪我们每年都要等待 JavaScript 
 
 ### 性别细分
 
-[![](../Images/f4476b43d0e30f78114ced8cbcb90d30.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F-D6b9gr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/IdB9c7u.png)
+[![](img/f4476b43d0e30f78114ced8cbcb90d30.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F-D6b9gr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/IdB9c7u.png)
 
 今年人口统计中的一个新数据点是[性别细分](https://2018.stateofjs.com/demographics/gender-breakdown)。我很高兴我们将有机会在未来几年跟踪这一指标，以衡量我们是否在成为一个更加多元化的团队方面取得了积极的变化。
 
@@ -51,13 +51,13 @@ JavaScript 发展速度如此之快。难怪我们每年都要等待 JavaScript 
 
 让我们不要对此感到害羞，作为开发者，我们对我们在 JavaScript 社区中的地位感到非常高兴。调查中我最喜欢的部分和明显看到 React 着火和不可忽视的力量的地方是[前端框架-概述](https://2018.stateofjs.com/front-end-frameworks/overview/)。
 
-[![](../Images/b4a174902ee7aaf72431ad0497e80ae6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AtoJQFOF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/dkFi1VX.png)
+[![](img/b4a174902ee7aaf72431ad0497e80ae6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AtoJQFOF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/dkFi1VX.png)
 
 ## 前端框架概述
 
-[![](../Images/64b41b8f11aabbabc26b33aac16c545b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--F4Rv8NGc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/HgNS8Un.gif) 
+[![](img/64b41b8f11aabbabc26b33aac16c545b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--F4Rv8NGc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/HgNS8Un.gif) 
 
-[![](../Images/01827250e08089b2f7911c1160838a4c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iWRUq3jQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/mvBwQTZ.png)
+[![](img/01827250e08089b2f7911c1160838a4c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iWRUq3jQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/mvBwQTZ.png)
 
 ## React 开发者领工资了！
 
@@ -67,19 +67,19 @@ JavaScript 发展速度如此之快。难怪我们每年都要等待 JavaScript 
 
 ### 薪资明细概览
 
-[![](../Images/971450a3c0fd244302ea1787efe725eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1eCcGD8S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/5Cuwy2L.png)
+[![](img/971450a3c0fd244302ea1787efe725eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1eCcGD8S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/5Cuwy2L.png)
 
 ## 开发商❤️为什么会有反应
 
 如果你问我为什么喜欢 React，我会告诉你这是因为它的稳定性、优秀的文档以及我认为的简单的学习曲线。我承认，在 15 年的网络经验和几年使用 [Angular](https://bestofjs.org/projects/angular) 和 [Aurelia](https://bestofjs.org/projects/aurelia) 之后，我开始有所反应。在开始 React 之前，我对大多数基本概念都非常熟悉。它的成长和受欢迎程度都很高，我内心深处知道这比我有时表现出来的更重要。查看 [React -前端框架概述](https://2018.stateofjs.com/front-end-frameworks/react/)页面，了解为什么今年开发者们赞扬和批评 React。
 
-[![](../Images/9c0e8c8058a90daad9edf60c5ec6c8c2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5J6Fz90a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/6tsMLpA.gif) 
+[![](img/9c0e8c8058a90daad9edf60c5ec6c8c2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5J6Fz90a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/6tsMLpA.gif) 
 
-[![](../Images/cd38b9721615cac05c4169cb6dba92d1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--akCiacfB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/29mjMF5.png)
+[![](img/cd38b9721615cac05c4169cb6dba92d1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--akCiacfB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/29mjMF5.png)
 
 这些年来，全世界的开发者对 React 越来越满意。
 
-[![](../Images/917d96ee8cd76112dc73e8a813c18954.png)T4】](https://res.cloudinary.com/practicaldev/image/fetch/s--1Fdx7tPD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/LqOsAw2.png)
+[![](img/917d96ee8cd76112dc73e8a813c18954.png)T4】](https://res.cloudinary.com/practicaldev/image/fetch/s--1Fdx7tPD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/LqOsAw2.png)
 
 ## 参与调查
 
@@ -87,7 +87,7 @@ JavaScript 发展速度如此之快。难怪我们每年都要等待 JavaScript 
 
 ### 最喜欢方面的反应
 
-[![](../Images/2415eeb2869646acb6ebf2cd7cadf8d0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5xSMqH9---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/uk0pcoh.png)
+[![](img/2415eeb2869646acb6ebf2cd7cadf8d0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5xSMqH9---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/uk0pcoh.png)
 
 ## 开发商为何反应
 
@@ -99,9 +99,9 @@ JavaScript 发展速度如此之快。难怪我们每年都要等待 JavaScript 
 
 这不是巧合 [Redux](https://2018.stateofjs.com/data-layer/redux) 是开发人员的主要数据层选择，我属于没有太多使用 [GraphQL](https://2018.stateofjs.com/data-layer/graphql) 和 [Apollo](https://2018.stateofjs.com/data-layer/apollo/) 但在我 2019 年尝试的事情列表中的一群人。
 
-[![](../Images/f7525ff0f730c6fe3305a2bf65d37b9d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0HKdabC1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/MfdIs89.gif) 
+[![](img/f7525ff0f730c6fe3305a2bf65d37b9d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0HKdabC1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/MfdIs89.gif) 
 
-[![](../Images/119db74df666ae5f971af7d49660126c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PCCeFP6U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/0SPzsYb.png)
+[![](img/119db74df666ae5f971af7d49660126c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PCCeFP6U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/0SPzsYb.png)
 
 ## 反应出值得注意的提及
 
@@ -109,33 +109,33 @@ JavaScript 发展速度如此之快。难怪我们每年都要等待 JavaScript 
 
 ### 连接被库
 
-[![](../Images/2d89a707b863f58991e45d55effd65b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KgDOu35F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/QvYZHHM.gif)
+[![](img/2d89a707b863f58991e45d55effd65b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KgDOu35F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/QvYZHHM.gif)
 
 ## 你有什么味道？告诉我你的口味是什么！
 
 我认为 React 比你的一般框架更聪明，并且披着库的外衣做所有的事情，这是导致整个 JavaScript 风格背后的结果的部分原因。
 
-[![](../Images/47bfcab474209fc69db333646fb0c7fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OTsZsx0y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/N5t8Quz.png)
+[![](img/47bfcab474209fc69db333646fb0c7fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OTsZsx0y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/N5t8Quz.png)
 
 它的开发者主要依靠 [ES6](https://2018.stateofjs.com/javascript-flavors/es6) 。在今年的成绩和每年的增长中，ES6 和 [TypeScript](https://2018.stateofjs.com/javascript-flavors/typescript) 明显领先。这是个好消息，因为它们也是 React 中使用的最流行的 JS 类型。[流](https://2018.stateofjs.com/javascript-flavors/flow)和[理](https://2018.stateofjs.com/javascript-flavors/reason/)紧随其后。本节的结果清楚地显示了 React devs 的巨大影响。
 
 ### 整体 JavaScript 风格
 
-[![](../Images/033b1b7f739d4e59c99ac5826feeaa09.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--u8Y_mB_p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/Gsrv7AP.gif) 
+[![](img/033b1b7f739d4e59c99ac5826feeaa09.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--u8Y_mB_p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/Gsrv7AP.gif) 
 
-[![](../Images/01827250e08089b2f7911c1160838a4c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iWRUq3jQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/mvBwQTZ.png)
+[![](img/01827250e08089b2f7911c1160838a4c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iWRUq3jQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/mvBwQTZ.png)
 
 从这些数据中可以看出，今年最赚钱的可能是非 React 开发人员。不是说 React 里不能用 [Elm](https://2018.stateofjs.com/javascript-flavors/elm) 或者 [ClosureScript](https://2018.stateofjs.com/javascript-flavors/clojurescript) ，只是没那么典型而已。在最大的玩家拉下本杰明和他们喜欢的 JavaScript 风格的类别中，表明他们已经“使用过，会再次使用”。Elm 和 ClosureScript 是那些高薪人士最喜欢的口味。
 
 ### 工资明细(红色球)
 
-[![](../Images/9a671441b4cf70fd43acc4b23aaa7066.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pzdCPj-D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/QEPol8B.png)
+[![](img/9a671441b4cf70fd43acc4b23aaa7066.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pzdCPj-D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/QEPol8B.png)
 
 不仅那些赚钱最多的人倾向于 Elm 和 ClosureScript，而且将数据翻转到“多年经验”，回答“用过，还会再用”最多的口味也在 5-20 年经验类别中。这表明我们的高级开发人员更喜欢 Elm 和 ClosureScript。
 
 ### 多年的经历细目
 
-[![](../Images/557835641c12b0bd41d0d70c17c08a4c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---ZW9prm3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/xTJ41zt.png)
+[![](img/557835641c12b0bd41d0d70c17c08a4c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---ZW9prm3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/xTJ41zt.png)
 
 ## 用笑话试探
 
@@ -143,9 +143,9 @@ JavaScript 发展速度如此之快。难怪我们每年都要等待 JavaScript 
 
 ### 检测结果
 
-[![](../Images/c09225dc86ea90c6172c8866b0825db1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--eN_Jryad--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/VbN2A0p.gif) 
+[![](img/c09225dc86ea90c6172c8866b0825db1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--eN_Jryad--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/VbN2A0p.gif) 
 
-[![](../Images/3ab10f7eccd9e591c5f2d8fa56c02a26.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vj-bc5CE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/17cpi2T.png)
+[![](img/3ab10f7eccd9e591c5f2d8fa56c02a26.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vj-bc5CE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/17cpi2T.png)
 
 ## 桌面和移动上的 JavaScript
 
@@ -153,9 +153,9 @@ JavaScript 发展速度如此之快。难怪我们每年都要等待 JavaScript 
 
 ### 手机和桌面整体
 
-[![](../Images/5fbbeead2865f8c6a4573030c46a37db.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GNFXAYrn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/ISFAx0Q.gif) 
+[![](img/5fbbeead2865f8c6a4573030c46a37db.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GNFXAYrn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/ISFAx0Q.gif) 
 
-[![](../Images/306e987279bcdcb8ce60c7cd0dc6e189.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JBvwW7s9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/KBRybLR.png)
+[![](img/306e987279bcdcb8ce60c7cd0dc6e189.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JBvwW7s9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/KBRybLR.png)
 
 今年很难看到除了后端之外到处都在使用 React。
 
@@ -163,7 +163,7 @@ JavaScript 发展速度如此之快。难怪我们每年都要等待 JavaScript 
 
 React 是一个前端库，但是很多 React 开发人员都是 [Express](https://2018.stateofjs.com/back-end-frameworks/express) 的用户，这是[后端框架](https://2018.stateofjs.com/back-end-frameworks/overview/)中的第一名，答案是“用过，会再用”
 
-[![](../Images/bd4e3a03eccc2885318fcc700ea2cc4b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nwQuXWVI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/cJtRpzT.gif)
+[![](img/bd4e3a03eccc2885318fcc700ea2cc4b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nwQuXWVI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/cJtRpzT.gif)
 
 ## 在我的雷达上 2019
 
@@ -173,7 +173,7 @@ React 是一个前端库，但是很多 React 开发人员都是 [Express](https
 
 ### 其他口味
 
-[![](../Images/fd047d7a52c3089b64a54bb28b4c5605.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gY7uKc8o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/ZImSwJc.png)
+[![](img/fd047d7a52c3089b64a54bb28b4c5605.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gY7uKc8o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/ZImSwJc.png)
 
 2018 年，我注意到一些新的库在类型化 JavaScript 领域看起来很有前途，如 [PureScript](https://bestofjs.org/projects/purescript) ，我很惊讶 [CoffeeScript](https://bestofjs.org/projects/coffeescript) 在[其他库页面](https://2018.stateofjs.com/javascript-flavors/other-libraries/)上排名第二。我认为，尽管 CoffeeScript 在过去几年中被淘汰，并被 Elm 和 ClosureScript 超越，但它仍然在前 10 名中保持强势的事实证明了它是编写 JavaScript 的一种可靠方式，老实说，它为其他库风格铺平了道路。
 
@@ -185,7 +185,7 @@ React 比以往任何时候都更强大，JavaScript 及其兄弟前端框架都
 
 在一天结束时，React 有一个很好的表现，我认为我们可以说，颁发的奖项中有四个与 React 有关或有密切联系。
 
-[![](../Images/4ca78f34cbe06a3d61a407446aa2f491.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--evAhpcGK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/OJUbEj5.png)
+[![](img/4ca78f34cbe06a3d61a407446aa2f491.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--evAhpcGK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/OJUbEj5.png)
 
 ## 落角或有潜在偏差的数据集
 

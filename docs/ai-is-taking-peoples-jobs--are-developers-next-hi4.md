@@ -20,7 +20,7 @@
 
 纵观历史，技术一直在夺走人们的工作。马拉犁抢走了田地挖掘者的工作，这些马蹄铁匠因为拖拉机而失业，最近生产线工人的工作被机器人工人抢走了。
 
-[![](../Images/c4d76a7a483388781a25427d43b0248c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ba9Gg2fW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AOOLTdbFcU8KDYsFiFy2LCw.jpeg)
+[![](img/c4d76a7a483388781a25427d43b0248c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ba9Gg2fW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AOOLTdbFcU8KDYsFiFy2LCw.jpeg)
 
 人工智能取代人们的工作只是这个持续过程的下一步。
 
@@ -28,7 +28,7 @@
 
 是的，而且已经开始了。
 
-[![](../Images/07f500d0b4f6d3312b04caa4203da2d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4VgMaaVd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/558/1%2A0gB8mU6oZKVD4fOnOZN7xA.png)
+[![](img/07f500d0b4f6d3312b04caa4203da2d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4VgMaaVd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/558/1%2A0gB8mU6oZKVD4fOnOZN7xA.png)
 
 这句话谈到了写 HTML 和 CSS 的工作，我认为他们中的许多人已经消失了。像 SquareSpace 这样的服务可以让你不用任何编码就能设计和建立一个网站。你可以随心所欲地拥有它，而不必雇佣开发人员。这甚至不是人工智能，这只是设计良好的软件。
 
@@ -60,7 +60,7 @@ AI 也在这个领域得到了应用。已经有项目让人工智能用 PhotoSh
 
 你可能开始学习做已经可以被人工智能做的事情，但是很快你将会从事人工智能还不能做的项目。未来十年，对开发人员的需求将会大幅增加，你可以从事的领域也非常多。
 
-[![](../Images/c9339fc9176c518488287257caaae6cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GuqzYACN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AyUn6TSBwXyFo84rI5GJt8g.jpeg)
+[![](img/c9339fc9176c518488287257caaae6cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GuqzYACN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AyUn6TSBwXyFo84rI5GJt8g.jpeg)
 
 你还将身处一个不断进步的行业。你可以不断增长技能，采用人工智能使你的生活更轻松，更有效率，并了解技术的前沿。
 

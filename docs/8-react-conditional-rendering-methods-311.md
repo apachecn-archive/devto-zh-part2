@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/8-react-conditional-rendering-methods-311>
 
-[![](../Images/122a53b4cb1e469b6acbd4e7bc3b5c31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V-_qG637--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AiePG8qczEBX1ICAMR5U-JQ.png)
+[![](img/122a53b4cb1e469b6acbd4e7bc3b5c31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V-_qG637--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AiePG8qczEBX1ICAMR5U-JQ.png)
 
 JSX 是一个强大的 JavaScript 扩展，允许我们定义 UI 组件。但是它不直接支持循环或者条件表达式(虽然之前已经讨论过增加[条件表达式)。](https://github.com/reactjs/react-future/issues/35)
 
@@ -29,7 +29,7 @@ JSX 是一个强大的 JavaScript 扩展，允许我们定义 UI 组件。但是
 
 作为所有这些方法如何工作的示例，将实现一个具有查看/编辑功能的组件:
 
-[![](../Images/651f0f85b16c9319d8258b84e4fc2350.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pWI7Bih6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/358/0%2AvS8AU_xnc4VHcHrK.)
+[![](img/651f0f85b16c9319d8258b84e4fc2350.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pWI7Bih6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/358/0%2AvS8AU_xnc4VHcHrK.)
 
 你可以试着在 [JSFiddle](https://jsfiddle.net/) 中分叉所有的例子。
 
@@ -219,11 +219,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 例如，当尝试用[拨弄](https://jsfiddle.net/eh3rrera/q0w1aamt/)呈现空的 div 元素时，如果打开 Inspector 选项卡，您会看到根下的 div 元素总是在更新:
 
-[![](../Images/af1155477d176c9a14a961bdde22924a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dGGrGJst--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/238/0%2A1f--Ics8DXB3UFp_.)
+[![](img/af1155477d176c9a14a961bdde22924a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dGGrGJst--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/238/0%2A1f--Ics8DXB3UFp_.)
 
 与返回 null 来隐藏组件的情况不同，当单击 Edit 按钮时，div 元素不会更新:
 
-[![](../Images/7e23586e0bffa347bb1e2a344c5ad5be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NPn-iL6g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/258/0%2A7SzdmNMiVje-msFz.)
+[![](img/7e23586e0bffa347bb1e2a344c5ad5be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NPn-iL6g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/258/0%2A7SzdmNMiVje-msFz.)
 
 [在这里](https://reactjs.org/docs/reconciliation.html)，您可以了解更多关于 React 如何更新 DOM 元素以及“diffing”算法如何工作的信息。
 
@@ -855,7 +855,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### Plug: LogRocket，一款用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

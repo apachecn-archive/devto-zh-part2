@@ -6,7 +6,7 @@
 
 以下是您将获得的内容:
 
-[![GIF of a calculator you'll build](../Images/0b42034a275434bd3e3d64ca174d5aa0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XhQBEzcN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.com/images/2018/calculator-1/calculator.gif) 
+[![GIF of a calculator you'll build](img/0b42034a275434bd3e3d64ca174d5aa0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XhQBEzcN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.cimg/2018/calculator-1/calculator.gif) 
 
 <figure>
 
@@ -42,7 +42,7 @@
 
 这个计算器由两部分组成。显示器和按键。
 
-[![Squares that label the calculator's display and keys](../Images/7639c53dfa5f582de6227af05bcdcc5b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--k76cFMtL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/calculator-1/display-and-keys.png) 
+[![Squares that label the calculator's display and keys](img/7639c53dfa5f582de6227af05bcdcc5b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--k76cFMtL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/calculator-1/display-and-keys.png) 
 
 <figure>
 
@@ -175,7 +175,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 此时，您应该从每个计算器键得到一个`console.log`响应。
 
-[![We're now able to detect different types of keys](../Images/7c37a18d6521914c6454312a402bf3e7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hrzFmjFn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.com/images/2018/calculator-1/click-key.gif) 
+[![We're now able to detect different types of keys](img/7c37a18d6521914c6454312a402bf3e7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hrzFmjFn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.cimg/2018/calculator-1/click-key.gif) 
 
 <figure>
 
@@ -203,7 +203,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 此时，如果计算器显示 0(默认数字)，目标数字应代替零。
 
-[![Calculator replaces 0 with 9](../Images/3113cf3e0f2a33d0a73a4601c8b2a6db.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_f5vviz9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.com/images/2018/calculator-1/num-zero.gif) 
+[![Calculator replaces 0 with 9](img/3113cf3e0f2a33d0a73a4601c8b2a6db.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_f5vviz9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.cimg/2018/calculator-1/num-zero.gif) 
 
 <figure>
 
@@ -215,7 +215,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果计算器显示一个非零数字，目标数字应附加到显示的数字上。
 
-[![Calculator appends 5 to 9](../Images/c86888f614af3898328f362afa027095.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Dr4iqiJ---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.com/images/2018/calculator-1/num-non-zero.gif) 
+[![Calculator appends 5 to 9](img/c86888f614af3898328f362afa027095.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Dr4iqiJ---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.cimg/2018/calculator-1/num-non-zero.gif) 
 
 <figure>
 
@@ -283,7 +283,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当玛丽按下十进制键时，显示屏上会出现一个十进制数。如果 Mary 在敲击十进制键后敲击任何数字，该数字也应该附加在显示器上。
 
-[![Calculator adds a decimal, followed by a number, to the display](../Images/28a18aa277fbaa3162d938ac29c9dcdb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--G4Dmekkh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.com/images/2018/calculator-1/decimal-non-zero.gif) 
+[![Calculator adds a decimal, followed by a number, to the display](img/28a18aa277fbaa3162d938ac29c9dcdb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--G4Dmekkh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.cimg/2018/calculator-1/decimal-non-zero.gif) 
 
 <figure>
 
@@ -307,7 +307,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果 Mary 点击了一个操作键，则该操作键应该被突出显示，这样 Mary 就知道该操作键处于活动状态。
 
-[![Operator keys should be depressed when they're clicked on](../Images/7ae0c595f10a63564a61e97e3e7f8c4c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--e-BfsEQW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.com/images/2018/calculator-1/operator.gif) 
+[![Operator keys should be depressed when they're clicked on](img/7ae0c595f10a63564a61e97e3e7f8c4c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--e-BfsEQW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.cimg/2018/calculator-1/operator.gif) 
 
 <figure>
 
@@ -338,7 +338,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当 Mary 再次点击数字键时，先前的显示将被新的数字所取代。操作键也应该释放它的按下状态。
 
-[![Display replaced by a new number](../Images/ba358199baa7e2c9602d8d0baa9de148.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sP_TPQim--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.com/images/2018/calculator-1/num-after-operator.gif) 
+[![Display replaced by a new number](img/ba358199baa7e2c9602d8d0baa9de148.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sP_TPQim--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.cimg/2018/calculator-1/num-after-operator.gif) 
 
 <figure>
 
@@ -422,7 +422,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 计算后，结果应取代显示的值。
 
-[![Calculates the correct value](../Images/b1dbda162e52de4c6ed22415119f177e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FqSXVwrB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.com/images/2018/calculator-1/equal.gif) 
+[![Calculates the correct value](img/b1dbda162e52de4c6ed22415119f177e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FqSXVwrB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.cimg/2018/calculator-1/equal.gif) 
 
 <figure>
 
@@ -545,4 +545,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 我希望你喜欢这篇文章。如果你有，你可能想看看[学习 JavaScript](https://learnjavascript.today)——一门帮助你一劳永逸地学习 JavaScript 的课程。
 
-注:本文原载于[我的博客](https://zellwk.com/images/2018/calculator-1/calculator.gif)。如果你想要源代码，到那边去！:)
+注:本文原载于[我的博客](https://zellwk.cimg/2018/calculator-1/calculator.gif)。如果你想要源代码，到那边去！:)

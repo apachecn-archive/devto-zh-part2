@@ -9,10 +9,10 @@
 然而，我在我的每篇文章中都有一个自定义的**短码**，它从数据库中抓取数据并将其转换为文章中的元素。
 
 本:
-[![shortcode](../Images/c76ad0d640bb1d734c4db653e3447309.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fOt9pfPv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r9nr56ep7e5w1890o06g.png)
+[![shortcode](img/c76ad0d640bb1d734c4db653e3447309.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fOt9pfPv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r9nr56ep7e5w1890o06g.png)
 
 就变成了这个:
-[![rendered posts](../Images/57b20c0bb3de3846519d28adfa4d5159.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lo0b1mX_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sgkkpe6gvcwkghfbl6jy.png)
+[![rendered posts](img/57b20c0bb3de3846519d28adfa4d5159.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lo0b1mX_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sgkkpe6gvcwkghfbl6jy.png)
 
 我试着做了一些关于如何在一个静态站点中实现这种情况的研究，但是我不知道从哪里开始。
 

@@ -16,7 +16,7 @@ iOS 10 除了短文本消息、播放通知声音以及在应用程序图标上�
 
 在[下面的例子](https://medium.com/@prianka.kariat/ios-10-notifications-with-attachments-and-much-more-169a7405ddaf)中，有一个 iOS 10 推送通知，附带图片和“喜欢”动作按钮。
 
-[![gif](../Images/c0487f98f5e169d60aa50bfb76c5ed0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UYiUeeos--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/awxt7tvys2n6bcnsyv3j.jpeg)
+[![gif](img/c0487f98f5e169d60aa50bfb76c5ed0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UYiUeeos--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/awxt7tvys2n6bcnsyv3j.jpeg)
 
 这使得开发人员可以提高推送通知的质量，并从这一多功能特性中获得更多。
 
@@ -63,13 +63,13 @@ FCM 继承了 GCM 的核心基础设施，但是简化了客户端开发。GCM �
 
 5.  启用**推送通知**。
 
-    [![image](../Images/bd27b6eefb6e231136ceb8b6f84cc3ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V7Omhjb8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/alxpmqx4e735gll7ykwz.png)
+    [![image](img/bd27b6eefb6e231136ceb8b6f84cc3ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V7Omhjb8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/alxpmqx4e735gll7ykwz.png)
 
 #### 生成`APNs SSL Certificate`[苹果开发者中心](https://developer.apple.com):
 
 1.  选择**创建证书...**用于开发或/和生产。
 
-    [![image](../Images/0cdab319508c1a594f18902b92b05996.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VOH5GYb_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/55dxf3p73u3bpxh43x3t.png)
+    [![image](img/0cdab319508c1a594f18902b92b05996.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VOH5GYb_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/55dxf3p73u3bpxh43x3t.png)
 
     **注意:**如果你希望推送通知在通过 TestFlight 发布的应用中工作，你需要使用**生产 SSL 证书**。
 
@@ -93,13 +93,13 @@ FCM 继承了 GCM 的核心基础设施，但是简化了客户端开发。GCM �
 
 2.  从左窗格打开您的**项目设置**。
 
-    [![image](../Images/faae4aff61584046a9717b14b6107d43.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OvwnuzOG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1kt8k37q41zwu79pzyc3.png)
+    [![image](img/faae4aff61584046a9717b14b6107d43.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OvwnuzOG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1kt8k37q41zwu79pzyc3.png)
 
 3.  打开**云消息**标签页。
 
 4.  在 **iOS 应用程序配置下**上传您的密钥或证书。
 
-    [![image](../Images/af366ae7a64ae95ba9d4f28c66cedf4b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kvZOLbgM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m9j76g03e1ugi3k9q6s5.png)
+    [![image](img/af366ae7a64ae95ba9d4f28c66cedf4b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kvZOLbgM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m9j76g03e1ugi3k9q6s5.png)
 
     注意不能同时使用`APNs auth key`和`APNs certificate`。
 
@@ -113,7 +113,7 @@ FCM 继承了 GCM 的核心基础设施，但是简化了客户端开发。GCM �
 
 3.  启用**推送通知**。
 
-    [![image](../Images/daa397e32f5d0b8cb48db928541db27a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xdLRncy8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9pexwsp26765rp85wfah.png)
+    [![image](img/daa397e32f5d0b8cb48db928541db27a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xdLRncy8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9pexwsp26765rp85wfah.png)
 
     将自动创建或更新权利文件。如果您在上一章中跳过了将推送通知服务添加到您的应用程序标识符，您将会遇到一个错误。
 
@@ -204,13 +204,13 @@ iOS 7 中引入了后台更新通知，通常称为静默通知，以提供一�
 
 为了支持后台更新通知，请确保有效负载的`aps`字典包含值为`1`的`content-available`键。您还需要在项目设置中启用**远程通知**后台模式(功能- >后台模式):
 
-[![image](../Images/26c6d7f06d9b0cccbe4aba7bd4015c2c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ra_-sthe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ymelfraj4qrsje3d1a2p.png)
+[![image](img/26c6d7f06d9b0cccbe4aba7bd4015c2c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ra_-sthe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ymelfraj4qrsje3d1a2p.png)
 
 #### iOS 11 问题
 
 iOS 11 带来了很多新功能，但也带来了一些问题。其中之一是**静默通知在 iOS 11.0 - 11.0.3** 上不起作用，仅在 iOS 11.1 中得到修复。由于 iOS 11 的高采用率，它已经成为许多应用程序的主要问题。
 
-[![image](../Images/e2b70e91febc5578e4613bd9cfbb6a5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WgyWITmN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ccbi5gkp3veauzvy9ov4.jpg)
+[![image](img/e2b70e91febc5578e4613bd9cfbb6a5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WgyWITmN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ccbi5gkp3veauzvy9ov4.jpg)
 
 ## 天空是极限
 

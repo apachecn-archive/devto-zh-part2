@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/hydroweaver/clean-code-and-why-im-behind--4hk5>
 
-[![image](../Images/3bac6a7911cfd7c7ae8067e2f00e69ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TO4T6u4Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg)
+[![image](img/3bac6a7911cfd7c7ae8067e2f00e69ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TO4T6u4Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg)
 
 大家好，
 

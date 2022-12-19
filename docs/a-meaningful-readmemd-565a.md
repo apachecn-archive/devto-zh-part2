@@ -13,7 +13,7 @@
 ## 屏幕
 
 只是让你们知道，你也可以在你的(readme.md)markdown 文件中添加 gif。
-[![random](../Images/4457b9fdb08506f90ac7ba27ef4f3bf7.png)T3】](https://i.giphy.com/media/Bg4sg1CJ50wwg/giphy.gif)
+[![random](img/4457b9fdb08506f90ac7ba27ef4f3bf7.png)T3】](https://i.giphy.com/media/Bg4sg1CJ50wwg/giphy.gif)
 
 ## 提交前
 

@@ -10,7 +10,7 @@
 
 我们已经讨论了[工作证明和利益证明](https://perfectial.com/blog/ethereum-blockchain-switches-to-proof-of-stake/)，并深入解释了这两种协议之间的区别。我们还提到了以太坊，第二大分散网络，计划在不久的将来转向后者。
 
-[![the-future-of-ethereum-plasma](../Images/2ce143e5a452d79b0901e0243e887713.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6Z4DDauK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://perfectial.com/wp-content/uploads/2018/07/The-Future-of-Ethereum-01.jpg)
+[![the-future-of-ethereum-plasma](img/2ce143e5a452d79b0901e0243e887713.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6Z4DDauK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://perfectial.com/wp-content/uploads/2018/07/The-Future-of-Ethereum-01.jpg)
 
 这种转变尚未发生的原因是，股权证明的概念虽然很有希望，但还没有完全考虑清楚。仍然有算法强加的问题，区块链开发人员还没有想出如何解决，例如引入集中点的风险(超级节点等。)
 

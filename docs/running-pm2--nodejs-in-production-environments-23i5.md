@@ -10,7 +10,7 @@
 
 # 什么是 PM2？
 
-[![](../Images/e4a9979e954c427587e6aaf317e59421.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mbjzRkHc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/08/image3.png%3Fw%3D1024%26h%3D1024)
+[![](img/e4a9979e954c427587e6aaf317e59421.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mbjzRkHc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/08/image3.png%3Fw%3D1024%26h%3D1024)
 
 PM2 是一个久经考验的，生产就绪的运行时和 Node.js 应用程序的进程管理器。它还带有一个内置的[负载平衡器](https://pm2.io/doc/en/runtime/guide/load-balancing/)，这使得扩展应用程序更加容易。最棒的是，它可以在 Linux、Windows 和 macOS 上运行。
 
@@ -77,13 +77,13 @@ PM2 是一个久经考验的，生产就绪的运行时和 Node.js 应用程序�
 
 ### 自动重启
 
-[![](../Images/ed0bc48d1ea8358ed56b11c4b584eb14.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D6G263xH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/08/image1.png%3Fw%3D1024%26h%3D1024)
+[![](img/ed0bc48d1ea8358ed56b11c4b584eb14.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D6G263xH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/08/image1.png%3Fw%3D1024%26h%3D1024)
 
 一旦启动，您的应用程序将永远存在，在崩溃和机器重启后自动重启——所有这一切只需一个简单的命令: **pm2 启动**
 
 ## 流程管理
 
-[![](../Images/d24262613741aeabc94db4ad3cbc6b47.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Tctmj6HE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/08/image2.png%3Fw%3D1024%26h%3D1024)
+[![](img/d24262613741aeabc94db4ad3cbc6b47.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Tctmj6HE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/08/image2.png%3Fw%3D1024%26h%3D1024)
 
 无论你运行多少应用程序，PM2 都有一套命令，允许你管理它们各自的状态。下面是一些我们最喜欢的命令(排名不分先后):
 
@@ -98,13 +98,13 @@ PM2 是一个久经考验的，生产就绪的运行时和 Node.js 应用程序�
 
 ### 流程管理
 
-[![](../Images/1b6a4eb54cfbdd66355c403f0ec959e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q3OTjzMm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/08/image6.png%3Fw%3D1024%26h%3D1024)
+[![](img/1b6a4eb54cfbdd66355c403f0ec959e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q3OTjzMm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/08/image6.png%3Fw%3D1024%26h%3D1024)
 
 运行命令`pm2 monit`将返回一组关于应用健康的丰富数据。例如，您将看到 CPU 利用率、内存使用、每分钟请求数等等！
 
 ## 日志管理
 
-[![](../Images/c0a5a41ca1685eb0db8b8f40e4afd34e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ucl3-m66--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/08/image5.png%3Fw%3D1024%26h%3D1024)
+[![](img/c0a5a41ca1685eb0db8b8f40e4afd34e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ucl3-m66--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/08/image5.png%3Fw%3D1024%26h%3D1024)
 
 PM2 有内置的日志管理。它从您的所有应用程序中聚合日志数据，并将其写入单个源以供查看。您甚至可以实时跟踪日志，查看应用程序的幕后情况。PM2 的日志管理还附带了日志轮换，这很重要，尤其是当您的应用程序频繁输出详细日志时。
 

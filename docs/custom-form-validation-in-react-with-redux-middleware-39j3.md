@@ -427,7 +427,7 @@ submitForm = (e) => {
 
 这个图表说明了我们的中间件在 Redux 生命周期中的位置。
 
-[![custom middleware](../Images/0301433d4435687d01f9d3d8cf1672ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6LBfOqjJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.thegreatcodeadventure.com/content/images/2018/02/custom-middleware--1-.svg)
+[![custom middleware](img/0301433d4435687d01f9d3d8cf1672ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6LBfOqjJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.thegreatcodeadventure.com/conteimg/2018/02/custom-middleware--1-.svg)
 
 #### 定义中间件
 

@@ -4,7 +4,7 @@
 
 今天，10 月 20 日，Arquitecto 软件的第一个测试版发布，这是一个 Saas 平台，旨在帮助所有软件制造商改进他们的产品构建流程。但是它是如何诞生的呢？
 
-[![Arquitecto Software Logo](../Images/ce17774da154171e9b5d7249662e0fa6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q_z7cqmN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/enwej9r409z7t2mlll0g.jpg)
+[![Arquitecto Software Logo](img/ce17774da154171e9b5d7249662e0fa6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q_z7cqmN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/enwej9r409z7t2mlll0g.jpg)
 
 ## 问题是
 

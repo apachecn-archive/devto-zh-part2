@@ -4,7 +4,7 @@
 
 # 用 TDD 和 React 测试库构建 React 应用
 
-[![pineapples](../Images/47efcd030edca034fce2ae7c780e78e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kCFU8ZdR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AT8onsKEr4xcSyyQR.)
+[![pineapples](img/47efcd030edca034fce2ae7c780e78e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kCFU8ZdR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AT8onsKEr4xcSyyQR.)
 
 “沙滩上并排的几个菠萝。”由菠萝供应公司在 Unsplash
 
@@ -214,7 +214,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 看啊，我们的测试又一次通过了。这是它美丽的一张清晰的照片。
 
-[![test-runner-1](../Images/60220aa9c9d0d5cffc93807cff60998b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eGQgK_kW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xzgl6tbhpjwex1bv0ito.png)
+[![test-runner-1](img/60220aa9c9d0d5cffc93807cff60998b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eGQgK_kW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xzgl6tbhpjwex1bv0ito.png)
 
 注意到我从来没有说过我们应该用`yarn start`启动我们的程序吗？我们将暂时保持这种状态。关键是，你必须用意念去感受代码。
 
@@ -398,7 +398,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这就做到了。我们的测试通过了，我们有了一个类似真实应用的东西。我们的报道怎么样？
 
-[![coverage](../Images/4cdce532b94999ce7349731b2f288b31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kgOcaZfX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8sbqtob66ioppm0f8tkc.png)
+[![coverage](img/4cdce532b94999ce7349731b2f288b31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kgOcaZfX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8sbqtob66ioppm0f8tkc.png)
 
 不错，如果我们忽略 index.js 中的所有设置，我们就有了一个关于执行行的完整的 web 应用程序。
 

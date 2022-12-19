@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kiararobbinson/a-glimpse-of-the-future-is-flutter-likely-to-replace-native-app-development-1h63>
 
-[![native vs flutter.jpg](../Images/2b547d21ffeee83f714de4f3e89cb658.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5Efm8jzt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://draftin.com:443/images/61139%3Ftoken%3DLsFQm2LWz4eZZa2fV56Emacpg6CqqjKAZg1R4GfG8k80yJBm-8aDCtNJjT0wQT_kU2cphy_dEHM8wRoUXo3EFBQ)
+[![native vs flutter.jpg](img/2b547d21ffeee83f714de4f3e89cb658.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5Efm8jzt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://draftin.com:4img/61139%3Ftoken%3DLsFQm2LWz4eZZa2fV56Emacpg6CqqjKAZg1R4GfG8k80yJBm-8aDCtNJjT0wQT_kU2cphy_dEHM8wRoUXo3EFBQ)
 
 为 iOS 和 Android 分别开发一个应用程序是先决条件的日子已经一去不复返了——让它在两个平台上都能工作。
 

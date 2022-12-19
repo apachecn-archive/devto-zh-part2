@@ -22,7 +22,7 @@
 
 你能想象如果你带着一只断了的胳膊去看医生，而他们唯一能做的就是给你开抗生素，你会有什么感觉吗？与其说是糟糕的诊断技能，不如说是缺乏照顾你的兴趣。换句话说，他是一只戴着听诊器的猴子。
 
-[![](../Images/9cc7d2d7aac114e455e67583f0a029e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q3vDGBhM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://davidsonsousa.net/image/articles/e1c4e9963f99592965f1205490f9d2e7--evan-sharp-feel-better.jpg)
+[![](img/9cc7d2d7aac114e455e67583f0a029e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q3vDGBhM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://davidsonsousa.net/image/articles/e1c4e9963f99592965f1205490f9d2e7--evan-sharp-feel-better.jpg)
 
 我想你知道我的意思:我们是医生，客户是病人。将医生和病人联系在一起的同理心也应该将开发商和客户联系在一起。只有到那时，我们才能理解客户想要什么，并真正为此做些有用的事情。
 

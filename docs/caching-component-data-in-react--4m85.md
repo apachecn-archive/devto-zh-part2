@@ -62,7 +62,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### [查看 CodeSandbox 上的演示](https://codesandbox.io/s/jvpz0qxr55)
 
-[![Edit Memoize Component Data in state](../Images/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/jvpz0qxr55)
+[![Edit Memoize Component Data in state](img/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/jvpz0qxr55)
 
 看那个讨厌的`getNode`函数！在实际更改节点之前，我们必须等待状态得到解决，否则我们可能会在错误的时间覆盖状态。(`changeNodes`中的状态没有`getNode`中的`keyedNodes`更新，会将`keyedNodes`对象覆盖为空白！一点帮助都没有！).
 
@@ -74,7 +74,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### [查看 CodeSandbox 上的演示](https://codesandbox.io/s/44m6073m0)
 
-[![Edit Memoize Component Data in a class field!](../Images/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/44m6073m0)
+[![Edit Memoize Component Data in a class field!](img/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/44m6073m0)
 
 ## 缺点？
 

@@ -8,7 +8,7 @@
 
 为了理解 React Native 如何在移动设备上工作，首先需要看一下 React 和 React Native 中使用的虚拟 DOM(文档对象模型)。如果你曾经做过 web 开发，你应该知道 DOM 是如何在浏览器中工作的。如果没有，你可能有兴趣在上阅读一下[。简而言之:DOM 将页面表示为节点和对象。在普通的 React 中，](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)[虚拟 DOM](https://reactjs.org/docs/faq-internals.html) 是实际 DOM 之上的 UI 的内存表示。当一个节点或对象改变时，React 将区分虚拟 DOM 和实际 DOM，并且只更新那些已经改变的节点或对象。在 React Native 中，没有浏览器 DOM。相反，虚拟 DOM 呈现在原生 iOS 或 Android 视图中。
 
-<figure>[![Virtual DOM in React and React Native](../Images/8c2eb858cd5e972e1b849adcc04444f4.png "Virtual DOM in React and React Native")](///static/e964a98fe5f036fb3805b0a58b517587/bcbcb/react-native-vdom.png) 
+<figure>[![Virtual DOM in React and React Native](img/8c2eb858cd5e972e1b849adcc04444f4.png "Virtual DOM in React and React Native")](///static/e964a98fe5f036fb3805b0a58b517587/bcbcb/react-native-vdom.png) 
 
 <figcaption>【虚拟 DOM】在 React 和 React Native</figcaption>
 

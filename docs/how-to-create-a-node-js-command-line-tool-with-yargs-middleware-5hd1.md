@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/khaled_garbaya/how-to-create-a-node-js-command-line-tool-with-yargs-middleware-5hd1>
 
-[![macro-1452986 1920](../Images/5b3487b2aa8c426a78f53bdb4540d649.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y_TDaNi3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/3bc97k4uk5q7/1Oden9drYwQ2SkImweSUec/772d43a58924514a1fa1164bbcb57ce3/macro-1452986_1920.jpg)
+[![macro-1452986 1920](img/5b3487b2aa8c426a78f53bdb4540d649.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y_TDaNi3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/3bc97k4uk5q7/1Oden9drYwQ2SkImweSUec/772d43a58924514a1fa1164bbcb57ce3/macro-1452986_1920.jpg)
 
 我经常使用 Express.js ,在处理路线时，我一直是中间件方法的忠实粉丝。
 
@@ -36,7 +36,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 什么是 yargs？
 
-[![yargs-logo](../Images/bb382008670134a403ac5939c8e94c8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2NEl3_sl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/3bc97k4uk5q7/1Hfm8NHHUAMucykccM6e6s/94661dff604c33cdf1437cc27828f8a6/yargs-logo.png)
+[![yargs-logo](img/bb382008670134a403ac5939c8e94c8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2NEl3_sl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/3bc97k4uk5q7/1Hfm8NHHUAMucykccM6e6s/94661dff604c33cdf1437cc27828f8a6/yargs-logo.png)
 
 > Yargs 通过解析参数和生成优雅的用户界面，帮助您构建交互式命令行工具。
 
@@ -50,7 +50,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 一个简单的 Node.js 命令行工具，带 yargs
 
-[![bash-161382 1280](../Images/e796c1aaa686f4e8b7349b40a7ec1a86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Nmbys6Gv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/3bc97k4uk5q7/2RTr7jXAiQIUemKiagQeoW/6ebc3034dcd6cb5881cf333bdc4aa053/bash-161382_1280.png)
+[![bash-161382 1280](img/e796c1aaa686f4e8b7349b40a7ec1a86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Nmbys6Gv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/3bc97k4uk5q7/2RTr7jXAiQIUemKiagQeoW/6ebc3034dcd6cb5881cf333bdc4aa053/bash-161382_1280.png)
 
 让我们创建一个简单的命令行程序，验证用户将状态保存到一个名为`.credentials`的文件中，以便在接下来的命令中使用。
 
@@ -112,7 +112,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 添加 yargs 中间件
 
-[![building-674828 1280](../Images/4748549da3237938ef14da532a253fe7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Ew2BH8cT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/3bc97k4uk5q7/6gOsorEKoowUwKoeeOYQQO/669f8d78ed8f9f113ca02c6c7d1123c7/building-674828_1280.jpg)T3】
+[![building-674828 1280](img/4748549da3237938ef14da532a253fe7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Ew2BH8cT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/3bc97k4uk5q7/6gOsorEKoowUwKoeeOYQQO/669f8d78ed8f9f113ca02c6c7d1123c7/building-674828_1280.jpg)T3】
 
 ```
 const argv = require('yargs')

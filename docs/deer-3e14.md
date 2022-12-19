@@ -2,9 +2,9 @@
 
 > 原文：<https://dev.to/aizahran/deer-3e14>
 
-[![](../Images/2fc286d7c255cb18f8a3e3417541c144.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GS98i58Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wjddnt7ftn4epwqbuyse.png)
+[![](img/2fc286d7c255cb18f8a3e3417541c144.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GS98i58Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wjddnt7ftn4epwqbuyse.png)
 
-[![](../Images/d69652097c967d879bb5e8b35c95bac6.png)T2】](https://gitter.im/abahmed/Deer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![](img/d69652097c967d879bb5e8b35c95bac6.png)T2】](https://gitter.im/abahmed/Deer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 **Deer** 是一款现代、快捷、美观的笔记应用。在 Linux、Mac 和 Windows 上快速方便地写下你的想法和创意。
 

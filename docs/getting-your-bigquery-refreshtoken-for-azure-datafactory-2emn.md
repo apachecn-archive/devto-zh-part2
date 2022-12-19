@@ -10,17 +10,17 @@
 
 如果你还没有在谷歌门户中定义的现有应用程序，点击[这里](https://console.developers.google.com/projectcreate)并创建一个新项目。不管怎样，创建一个新的可能是个好主意，即使你已经有了一个，因为我们希望所有这些独立于我们正在做的其他工作。
 
-[![Call it whatever you want.](../Images/2e13e41e0a598625ea2a1d95ad50c828.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VPePjX-Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpda.dev/img/1__AfjOcuB4y8DAr3Zl3Ca6Vw.png) 随你怎么称呼它。
+[![Call it whatever you want.](img/2e13e41e0a598625ea2a1d95ad50c828.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VPePjX-Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpda.dev/img/1__AfjOcuB4y8DAr3Zl3Ca6Vw.png) 随你怎么称呼它。
 
 ### 我们去拿些凭证吧
 
 单击“Create”后，我们将回到控制面板。确保在标题中“Google APIs”旁边的下拉列表中选择了您的新项目。然后，我们将转到侧栏中的凭据。
 
-[![a](../Images/1333fecfad45d99e57004e28989c0296.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TXpRNvsw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpda.dev/img/1%2520__laBaGvNpsQaVg5A__%25207ZGJng.png)
+[![a](img/1333fecfad45d99e57004e28989c0296.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TXpRNvsw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpda.dev/img/1%2520__laBaGvNpsQaVg5A__%25207ZGJng.png)
 
 首先，前往 OAuth 同意屏幕。在创建凭据之前，我们需要在这里填写一些详细信息。
 
-[![a](../Images/145f02716dc93c2c64866eb9fd8bfaf9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---haIBYhI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpda.dev/img/1__lhafqlaUU0368cMVygW6iA.png)
+[![a](img/145f02716dc93c2c64866eb9fd8bfaf9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---haIBYhI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpda.dev/img/1__lhafqlaUU0368cMVygW6iA.png)
 
 你真正需要的是一个名字。这将显示给用户，以便他们知道他们同意的应用程序的名称-在我们的情况下，因为很可能你实际上没有分发任何会使用它的东西，我会确保它是你和你的组织可以识别的东西。
 
@@ -28,15 +28,15 @@
 
 我们想要创建一个 OAuth 客户端 ID。
 
-[![a](../Images/0d2eca02e5b84ed3bae850f9b9cbf62a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZhGG8N4X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpda.dev/img/1__rMOkqfCjlrIfHiVRKC727w.png)
+[![a](img/0d2eca02e5b84ed3bae850f9b9cbf62a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZhGG8N4X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpda.dev/img/1__rMOkqfCjlrIfHiVRKC727w.png)
 
 选择网络应用程序，给它一个名字，然后在重定向 URI 下降。您可以在这里使用 localhost，但是使用您控制的域可能会更好。实际上不需要在该地址*存在任何东西*,但它确实提供了较小的风险，因为如果您的客户端 ID/秘密被泄露，人们可以请求将令牌发送回 localhost，这可能不是*您的* localhost。
 
-[![a](../Images/61314aa6435103a217e3e28ec84e4dd9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hM7NXHvN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpda.dev/img/1%2520____%2520djscIdWFd2DFMJnomlxEQ.png)
+[![a](img/61314aa6435103a217e3e28ec84e4dd9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hM7NXHvN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpda.dev/img/1%2520____%2520djscIdWFd2DFMJnomlxEQ.png)
 
 一旦你点击创建，你会得到你的客户 ID 和密码。把这些东西藏在你能很快找到的地方，我们在接下来的步骤中会用到它们。
 
-[![Yes, I’ve already revoked this app](../Images/976f3b7c4f639dbb18c98cf41f7bfa24.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xpi52kbO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpda.dev/img/1%2520__pzkmdSlCoVNSX____%2520CFzG8Ew.png) 是的，我已经撤销了这个应用
+[![Yes, I’ve already revoked this app](img/976f3b7c4f639dbb18c98cf41f7bfa24.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xpi52kbO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpda.dev/img/1%2520__pzkmdSlCoVNSX____%2520CFzG8Ew.png) 是的，我已经撤销了这个应用
 
 ### 生成令牌
 
@@ -74,11 +74,11 @@
 
 会要求您登录，这是您应该做的。然后我们会得到这个:
 
-[![a](../Images/fac8e31d07fe94d221a74c43553832f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H3QiJfRV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpda.dev/img/1__kKcIt6zkAK9hGN0fKcgisA.png)
+[![a](img/fac8e31d07fe94d221a74c43553832f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H3QiJfRV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpda.dev/img/1__kKcIt6zkAK9hGN0fKcgisA.png)
 
 这是我们实际的同意屏幕——你会注意到我们被要求允许我们的应用程序(bigquery-azuredf)在 Google BigQuery 中查看和管理你的数据。听起来像是我们想要的。单击“允许”并留意地址栏。
 
-[![a](../Images/a112a5923338ca2fdff7de1e70239f1b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hxGM8xGD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpda.dev/img/1%2520__tKQ__%2520K35__SrKj4Fm5mygoxw.png)
+[![a](img/a112a5923338ca2fdff7de1e70239f1b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hxGM8xGD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpda.dev/img/1%2520__tKQ__%2520K35__SrKj4Fm5mygoxw.png)
 
 因为我使用了`http://localhost`作为我的`redirect_uri`，但是在 localhost 上没有托管任何东西，所以我最终使用了 404，这很好。注意唯一的 querystring 参数，`code` —它包含我们的授权代码，我们将使用它来获取访问和刷新令牌。复制该值(在本例中，从 4/AAC 开始…)并暂时将其保存在安全的地方。
 
@@ -100,7 +100,7 @@
 
 现在我们不能在浏览器中进行 GET，所以打开你选择的 HTTP POST 工具——Postman，curl，等等。
 
-[![In Postman](../Images/8f5874cbb2dce884b3b91b5b8893912c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_JRuYIKg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpda.dev/img/1%2520__s__%2520Y2wFNoSS%2520____OloKHVHZ__%2520g.png) 在邮递员
+[![In Postman](img/8f5874cbb2dce884b3b91b5b8893912c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_JRuYIKg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpda.dev/img/1%2520__s__%2520Y2wFNoSS%2520____OloKHVHZ__%2520g.png) 在邮递员
 
 如果一切顺利，你应该会得到一个访问令牌和一个刷新令牌！如果进展不顺利，请查看错误消息。每个授权码只能使用一次，因此，如果您使用了一个授权码并出现错误，您需要返回浏览器并重新同意获取另一个授权码。
 

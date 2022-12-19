@@ -8,4 +8,4 @@
 
 [读读✊](https://auth0.com/blog/webpack-4-release-what-is-new/?utm_source=dev&utm_medium=sc&utm_campaign=webpack4_new)
 
-[![Webpack 4.0 Release: What's New?](../Images/cfc53eb1147a7a95fa5892d2ef5223f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z9VWpr_4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o2cp6sind950in2itnfa.png)
+[![Webpack 4.0 Release: What's New?](img/cfc53eb1147a7a95fa5892d2ef5223f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z9VWpr_4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o2cp6sind950in2itnfa.png)

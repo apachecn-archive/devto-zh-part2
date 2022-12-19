@@ -28,7 +28,7 @@ Arch Linux 是最流行的 Linux 发行版之一。
 嗯，我建议 Manjaro 用户在使用 AUR 之前在 Manjaro 软件包管理器中搜索。如果在更可靠的地方有一些解决方案，你为什么不先去那里看看呢？
 如果那里没有，那就换个方式想:
 
-[![](../Images/8c115415e4e1ba02b84f700ef3b82dcf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MkjJWWF8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4fwxmsa3xdpx7zgn1txy.jpg)
+[![](img/8c115415e4e1ba02b84f700ef3b82dcf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MkjJWWF8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4fwxmsa3xdpx7zgn1txy.jpg)
 
 <center>✿✿✿</center>
 
@@ -42,19 +42,19 @@ Arch Linux 是最流行的 Linux 发行版之一。
 
 游览 https://aur.archlinux.org/ AUR:并搜索套餐:
 
-[![](../Images/006a5b2f40192e5715866ce0f661717d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YhcjmujB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vo0ehowm804u3jd7ums2.png)
+[![](img/006a5b2f40192e5715866ce0f661717d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YhcjmujB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vo0ehowm804u3jd7ums2.png)
 
 转到软件包页面:
 
-[![](../Images/8e69a67c9b4473b397edaf7924d52fc7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qlIRLIOo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9lwgqg6me6bxcim3a0wn.png)
+[![](img/8e69a67c9b4473b397edaf7924d52fc7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qlIRLIOo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9lwgqg6me6bxcim3a0wn.png)
 
 获取“Git 克隆 URL”:
 
-[![](../Images/b116abc514e6113cee55c735057cc54d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---O8C1SWb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xnec3olcm50ww8yq1sj3.png)
+[![](img/b116abc514e6113cee55c735057cc54d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---O8C1SWb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xnec3olcm50ww8yq1sj3.png)
 
 根据需要确认“许可证”、“受欢迎程度”、“上次更新时间”、“依赖关系”等:
 
-[![](../Images/486fde5ef5acd033191bdb4339b24064.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fTSmyF0R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uzc37qlzzw15izmlupi6.png)
+[![](img/486fde5ef5acd033191bdb4339b24064.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fTSmyF0R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uzc37qlzzw15izmlupi6.png)
 
 ### 第二步:构建软件包并安装
 
@@ -84,7 +84,7 @@ $  makepkg -si
 
 实际上，在安装 qperf 的过程中，并没有遇到任何问题...
 
-[![nabbisen image](../Images/ecd1c4f3cf2c812c88a0591eeac73411.png)](/nabbisen) [## 安装 AUR 软件包的疑难解答
+[![nabbisen image](img/ecd1c4f3cf2c812c88a0591eeac73411.png)](/nabbisen) [## 安装 AUR 软件包的疑难解答
 
 ### hed di nab bisen 11 月 8 日 184 分钟阅读
 

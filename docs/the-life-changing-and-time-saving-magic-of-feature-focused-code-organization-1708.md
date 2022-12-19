@@ -60,19 +60,19 @@
 
 整篇文章的要点是，你应该关注你的系统能做什么，而不是系统如何做。以一个典型的 MVC 结构为例:
 
-[![mvc](../Images/69cf9922ef307cc81865b854fec71984.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3DV9Zmn2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh5.googleusercontent.com/hycHO3ZiFyd2XrkLq24r2KRBecSiOs3SdaeB0yCncg-nI4q9kFeYW4zF901-wRCnyFFyyYv3AiNGMN7rC3jMz0UAaPm0-_dYCR882jWoDDzxDU-8asIdhpuIAguQo_CZXkCHZxcJ2Z0)
+[![mvc](img/69cf9922ef307cc81865b854fec71984.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3DV9Zmn2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh5.googleusercontent.com/hycHO3ZiFyd2XrkLq24r2KRBecSiOs3SdaeB0yCncg-nI4q9kFeYW4zF901-wRCnyFFyyYv3AiNGMN7rC3jMz0UAaPm0-_dYCR882jWoDDzxDU-8asIdhpuIAguQo_CZXkCHZxcJ2Z0)
 
 你能告诉我这个应用程序能做什么吗？它解决了哪些业务问题？你会从哪里开始试着调试某个特性呢？
 
 现在，看看这个:
 
-[![mvc](../Images/cb3389a76f8fe6c495956630ffb77d7a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7gWDSEzg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/QvlMxfwXO62p1O-ASSmnsq5axoIofNfkOdv1rDgEcKv8FSDir5vywNash2q3CG19bPh-vOq33reEBQlCzWUd7EnvJxSRa5gMU4GpUSM7Yc-YYvlHv2hES03C0Vih5UK4Jz52kbjkmR4)
+[![mvc](img/cb3389a76f8fe6c495956630ffb77d7a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7gWDSEzg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/QvlMxfwXO62p1O-ASSmnsq5axoIofNfkOdv1rDgEcKv8FSDir5vywNash2q3CG19bPh-vOq33reEBQlCzWUd7EnvJxSRa5gMU4GpUSM7Yc-YYvlHv2hES03C0Vih5UK4Jz52kbjkmR4)
 
 现在呢？
 
 顺便说一下，如果你正在使用 MVC 框架(举例来说)，那么你可以把这些特性中的每一个都做成它自己的“迷你”应用:
 
-[![mvc](../Images/55a8d61e87c30e5693878289a0d0d1de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6XfXSlBr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh5.googleusercontent.com/v9myPH4PM0HKX5ue47q9od_cloczzI2HBMpKq2QpCr_gT3r0caVhHKJ-UhoPChEaGx7wMXAmdNS6q_u_-9IGREvWl6mRbyLd0fktA7PPngeRqSplROPoi5_xYp0UAVGr2IGUsVzal1Q)
+[![mvc](img/55a8d61e87c30e5693878289a0d0d1de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6XfXSlBr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh5.googleusercontent.com/v9myPH4PM0HKX5ue47q9od_cloczzI2HBMpKq2QpCr_gT3r0caVhHKJ-UhoPChEaGx7wMXAmdNS6q_u_-9IGREvWl6mRbyLd0fktA7PPngeRqSplROPoi5_xYp0UAVGr2IGUsVzal1Q)
 
 现在你的解决方案主要集中在你试图解决的业务领域——而它恰好是一个 MVC 应用程序。
 

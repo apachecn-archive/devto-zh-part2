@@ -46,11 +46,11 @@ that-hot-new-app.com 和脸书的交流通常到此结束。这就是为什么�
 
 在这一步，开发人员将设置一些关于应用程序的信息，如应用程序的名称或网站，以及最重要的重定向 URI。提供商(如谷歌或脸书)将使用这个来联系请求应用程序，并告诉他们用户说是💍
 
-[![I promise you won't have to write it by hand, we pride ourselves on our paperlessness.](../Images/6fa9c3fa2840bf68f06beea80f90b137.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7fSA7mCQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kh9u69ycgjtw6ws12vae.jpg)
+[![I promise you won't have to write it by hand, we pride ourselves on our paperlessness.](img/6fa9c3fa2840bf68f06beea80f90b137.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7fSA7mCQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kh9u69ycgjtw6ws12vae.jpg)
 
 一旦应用程序注册，提供商将给予 that-hot-new-app.com 的*一个`clientId`和一个`clientSecret`用于他们之间的通信。它们的工作有点像注册应用程序的用户名和密码。*
 
-[![You'll get the clientID and clientSecret right after you click on Save application](../Images/fb55b31221bf7962b053a84787786a98.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vaM-SvOZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9035kpogozrtpzz8qkcd.jpg)
+[![You'll get the clientID and clientSecret right after you click on Save application](img/fb55b31221bf7962b053a84787786a98.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vaM-SvOZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9035kpogozrtpzz8qkcd.jpg)
 
 将应用程序信息(重定向 uri、clientId，尤其是 clientSecret)保存在安全的位置，不要与陌生人共享，这一点非常重要。如果有人获得访问权限，他们可以代表你向提供商请求私人用户数据，然后利用这些数据作恶！
 
@@ -68,7 +68,7 @@ that-hot-new-app.com 和脸书的交流通常到此结束。这就是为什么�
 
 这里有一个自制的，有机的，不含胆固醇的图表，可以作为整个事情的地图。这看起来可能有点复杂，但是不要担心，接下来我们将检查每一步。
 
-[![Colorful notes bring joy to my heart](../Images/6d5dc9ccc472eab3ae9bb040ae936772.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E2GjynCH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/evjdy0cctvtupj6gjnwd.png)
+[![Colorful notes bring joy to my heart](img/6d5dc9ccc472eab3ae9bb040ae936772.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E2GjynCH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/evjdy0cctvtupj6gjnwd.png)
 
 ## 授权:OAuth 舞蹈的第一步
 
@@ -88,7 +88,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Typeform 将使用此信息生成一个同意屏幕，您可以在其中查看您授权 THNA 查看和执行的内容。
 
-[![Consent screen generation flow](../Images/d61605a9c4334cab4840a543cdd77bad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8FNcNC6R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g5x0f32xi7ekrlsjycvi.jpeg)
+[![Consent screen generation flow](img/d61605a9c4334cab4840a543cdd77bad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8FNcNC6R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g5x0f32xi7ekrlsjycvi.jpeg)
 
 一旦你已经**通读了你同意**的内容，并愉快地点击“允许”，Typeform 将把你发送到带有临时的重定向 URI，就像这样:
 

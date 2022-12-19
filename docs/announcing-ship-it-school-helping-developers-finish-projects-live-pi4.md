@@ -20,7 +20,7 @@
 
 ## 布拉德利·塞利斯
 
-[![Bradley Serlis headshot](../Images/ef4151538ea0a38b3d6e916b1dd08ed4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Ss9VotoN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/11/bradley.jpg)[Bradley Serlis](https://www.bradleyserlis.com/)是一名刚刚从训练营毕业的学生，开始了他在 web 开发领域的新工作。他通过在 React Native 中构建他的项目，在他的训练营同伴中为自己开辟了一个利基。当他们构建在网络浏览器中运行的项目时，Bradley 构建了移动设备。
+[![Bradley Serlis headshot](img/ef4151538ea0a38b3d6e916b1dd08ed4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Ss9VotoN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/11/bradley.jpg)[Bradley Serlis](https://www.bradleyserlis.com/)是一名刚刚从训练营毕业的学生，开始了他在 web 开发领域的新工作。他通过在 React Native 中构建他的项目，在他的训练营同伴中为自己开辟了一个利基。当他们构建在网络浏览器中运行的项目时，Bradley 构建了移动设备。
 
 他一直在找工作，想听听我对如何着手的建议。我告诉他我对几乎所有处于他这种位置的人都说过的话:去找些自由职业者的工作吧，T3，T2。问题是这样的:布拉德利想做移动开发，但他还没有向任何移动应用商店发布移动应用。
 
@@ -28,7 +28,7 @@
 
 ## JamMate
 
-[![Jammate splash screen](../Images/c729c56ec4769979d951f7eaa6e4deb6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v8yY_dSV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/11/jammate.jpg)
+[![Jammate splash screen](img/c729c56ec4769979d951f7eaa6e4deb6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v8yY_dSV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/11/jammate.jpg)
 
 JamMate 是一个音乐人的社交网络。它可以帮助你根据人们喜欢的类型和他们演奏的乐器来找到他们。当我见到布拉德利时，他已经在这个项目上投入了相当多的工作，但它缺少了拼图中的关键部分:**它还没有发货**。
 

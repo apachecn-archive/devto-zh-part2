@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/rigelnetworks/trends-in-web-development-change-faster-than-implemented-5h05>
 
-[![](../Images/6c0ec115d95226b91d1b073caa3de523.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5j54ePLh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.rigelnetworks.com/wp-content/uploads/2018/07/External-Blog-RNPL.jpg)
+[![](img/6c0ec115d95226b91d1b073caa3de523.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5j54ePLh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.rigelnetworks.com/wp-content/uploads/2018/07/External-Blog-RNPL.jpg)
 
 随着时间的推移，技术已经统治了世界。每年它要么向我们介绍新技术，要么更新它的趋势。对于大多数行业来说，为了更好的商业机会和发展，保持网站的更新是非常重要的。2018 年出现了一些有趣的网络发展趋势。网络技术正在发展，今天流行的东西没有必要明天还保持不变。随着时间的推移，事情会发生变化，所以我们应该意识到我们周围发生的变化。这就是为什么在游戏中领先是很重要的。
 

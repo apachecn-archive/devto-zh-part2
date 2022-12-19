@@ -45,4 +45,4 @@
 总的来说，我很高兴我能提交一些东西。这很有趣，也很好玩，但是生活阻碍了我，我不能投入我想要的那么多时间(我想这是大多数人的情况，:P)。
 
 那都是乡亲们！请，给游戏一个尝试，并欢迎任何评论。
-[![](../Images/cd2c9037ccaea659b814b3f31dfe5c33.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--MxzbNTXf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://encrypted-tbn0.gstatic.com/images%3Fq%3Dtbn:ANd9GcSjiXIvWj_xAtA9q6Lr_VH9TD0gEzXR-1DoY4pacmwImQkbqv9-_Q)
+[![](img/cd2c9037ccaea659b814b3f31dfe5c33.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--MxzbNTXf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://encrypted-tbn0.gstatic.com/images%3Fq%3Dtbn:ANd9GcSjiXIvWj_xAtA9q6Lr_VH9TD0gEzXR-1DoY4pacmwImQkbqv9-_Q)

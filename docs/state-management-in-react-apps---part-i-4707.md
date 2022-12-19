@@ -6,7 +6,7 @@
 
 有很多方法可以处理应用程序状态，但是首先，让我们看一看最简单的一个组件的状态。
 
-[![ReactJS is awesome!](../Images/8a2c9d4fc8db40e7ca085f6d27fca8c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6N0jwtZA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/83cf68197a01758e1e5596641f338587/React-components.png)
+[![ReactJS is awesome!](img/8a2c9d4fc8db40e7ca085f6d27fca8c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6N0jwtZA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/83cf68197a01758e1e5596641f338587/React-components.png)
 
 ## 反应组件的状态
 

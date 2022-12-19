@@ -24,14 +24,14 @@ Hasura 是 PostgreSQL 数据库和 Graphql 服务器之间的代理层，允许�
 从您的 PostgreSQL 数据库中实时更新
 当我意识到这可以如此容易地设置时，我大吃一惊。
 
-[![](../Images/31f7731fefc780edb8073dbe82775629.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aH_IRI_c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://g.recordit.co/RaF4ZrMTLU.gif)
+[![](img/31f7731fefc780edb8073dbe82775629.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aH_IRI_c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://g.recordit.co/RaF4ZrMTLU.gif)
 
 **动态访问控制& auth**
 我们在项目中使用 auth 0；使用 Hasura，我们能够在使用 JWT 时限制对数据的访问。Hasura 还有一个很棒的、简单易用的 UX，用于通过 UI 配置访问规则。请观看此视频，了解它的实际应用。
 
 例如，您可以从客户端使用多个表。您可以对其进行配置，使用户只有在拥有数据的情况下才能访问该数据，并定义用户是否拥有读、写或删除权限。
 
-[![](../Images/f0bad87658981646ab8504c9860ab4ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vlmwRGMA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://g.recordit.co/kwDoRlL8UT.gif)
+[![](img/f0bad87658981646ab8504c9860ab4ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vlmwRGMA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://g.recordit.co/kwDoRlL8UT.gif)
 
 **数据库事件的事件触发器**
 您可以订阅数据库中的每个创建、更新和删除操作，并通过传递数据来调用另一个服务。一个可能的用例是作为微服务之间的通信通道，或者调用无服务器功能。
@@ -40,7 +40,7 @@ Hasura 是 PostgreSQL 数据库和 Graphql 服务器之间的代理层，允许�
 
 真正令人兴奋的是，这是一个高度可靠的解决方案。无论您的 Hasura 或网络连接发生什么情况，一旦您将其恢复，该事件都会被发送。如果由于一些不可预见的问题，通过 API 调用后端将事件更改到 PostgreSQL，但是应用程序的另一部分出现故障，情况也是如此。
 
-[![](../Images/12e7b741372d9c10870a9cd695f9d292.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tYzY1o5h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/2697570/48410537-22f15f80-e73f-11e8-8465-2e644b3f13c9.png)
+[![](img/12e7b741372d9c10870a9cd695f9d292.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tYzY1o5h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/2697570/48410537-22f15f80-e73f-11e8-8465-2e644b3f13c9.png)
 
 **WS to HTTP fallback**
 它与 Hasura 并不完全相关，但是当您在客户端不支持 WebSockets 的情况下使用 Graphql 订阅时，它会自动使用 HTTP 作为替代，而无需您采取任何进一步的操作。

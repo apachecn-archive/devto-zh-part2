@@ -6,7 +6,7 @@
 
 [@donita](https://dev.to/donita) 在**开始做事[找工作或者面试的过程中最让你沮丧的是什么？](https://dev.to/ben/whats-the-most-frustrating-thing-about-the-process-of-looking-for-work-or-interviewing-b30)** 线索，捕捉到许多面试过程中令人沮丧的五个方面:
 
-[![donita profile image](../Images/e71a505d1604e9a1200b5591a0992861.png) ](/donita) [ Donita ](/donita) • [<time datetime="2018-11-05T14:42:36Z" class="date-short-year"> Nov 5 '18 </time> • Edited on <time datetime="2018-11-05T14:42:56Z" class="hidden m:inline-block date-no-year">Nov 5</time>](https://dev.to/donita/comment/6ik9) 
+[![donita profile image](img/e71a505d1604e9a1200b5591a0992861.png) ](/donita) [ Donita ](/donita) • [<time datetime="2018-11-05T14:42:36Z" class="date-short-year"> Nov 5 '18 </time> • Edited on <time datetime="2018-11-05T14:42:56Z" class="hidden m:inline-block date-no-year">Nov 5</time>](https://dev.to/donita/comment/6ik9) 
 
 1.  过多的招聘人员会误导你。
 2.  初级开发角色，需要 5 年的经验
@@ -16,27 +16,27 @@
 
 在 **[中有没有什么不好的“沉没成本谬误”的故事？](https://dev.to/ben/do-you-have-any-bad-sunk-cost-fallacy-stories-3dkm)** 线程， [@cjbrooks12](https://dev.to/cjbrooks12) 证明了万事万物真的有一个 XKCD:
 
-[![cjbrooks12 profile image](../Images/97fbb987cec86db9d610eae97c0dfa7b.png) ](/cjbrooks12) [ Casey Brooks ](/cjbrooks12) • [<time datetime="2018-11-02T17:45:09Z" class="date-short-year"> Nov 2 '18 </time>](https://dev.to/cjbrooks12/comment/6h5f) 
+[![cjbrooks12 profile image](img/97fbb987cec86db9d610eae97c0dfa7b.png) ](/cjbrooks12) [ Casey Brooks ](/cjbrooks12) • [<time datetime="2018-11-02T17:45:09Z" class="date-short-year"> Nov 2 '18 </time>](https://dev.to/cjbrooks12/comment/6h5f) 
 
 XKCD 总有答案
 
-[![XKCD Good Code](../Images/ee3226bfd61a01fae8175f1670f883bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5pZV6eet--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgs.xkcd.com/comics/good_code.png)
+[![XKCD Good Code](img/ee3226bfd61a01fae8175f1670f883bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5pZV6eet--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgs.xkcd.com/comics/good_code.png)
 
 在 **[用 Min 浏览器进行极简浏览](https://dev.to/wangonya/minimalist-browsing-with-min-browser-1p0c)** ， [@nmcain](https://dev.to/nmcain) 讲述了使用电子浏览器的有趣之处:
 
-[![nmcain profile image](../Images/4d1e6009d9f79bce92bf4de01ff4817f.png) ](/nmcain) [ Noah Cain ](/nmcain) • [<time datetime="2018-11-03T19:02:08Z" class="date-short-year"> Nov 3 '18 </time> • Edited on <time datetime="2018-11-03T19:02:22Z" class="hidden m:inline-block date-no-year">Nov 3</time>](https://dev.to/nmcain/comment/6hmm) 
+[![nmcain profile image](img/4d1e6009d9f79bce92bf4de01ff4817f.png) ](/nmcain) [ Noah Cain ](/nmcain) • [<time datetime="2018-11-03T19:02:08Z" class="date-short-year"> Nov 3 '18 </time> • Edited on <time datetime="2018-11-03T19:02:22Z" class="hidden m:inline-block date-no-year">Nov 3</time>](https://dev.to/nmcain/comment/6hmm) 
 
 一个浏览器，在浏览器中制作。欢迎来到 2018 年。
 
 总有东西要学，这是乐趣的一部分，也是不断奋斗的一部分。在 **[你对什么*不*感兴趣的学习？](https://dev.to/aspittel/what-are-you-not-interested-in-learning-57f0)** ， [@dmfay](https://dev.to/dmfay) 提供了一些想法:
 
-[![dmfay profile image](../Images/130564eb95ceaeb2bb4b978edaafd9f3.png) ](/dmfay) [ Dian Fay ](/dmfay) • [<time datetime="2018-11-06T00:08:06Z" class="date-short-year"> Nov 6 '18 </time> • Edited on <time datetime="2018-11-06T03:26:44Z" class="hidden m:inline-block date-no-year">Nov 6</time>](https://dev.to/dmfay/comment/6j3f) 
+[![dmfay profile image](img/130564eb95ceaeb2bb4b978edaafd9f3.png) ](/dmfay) [ Dian Fay ](/dmfay) • [<time datetime="2018-11-06T00:08:06Z" class="date-short-year"> Nov 6 '18 </time> • Edited on <time datetime="2018-11-06T03:26:44Z" class="hidden m:inline-block date-no-year">Nov 6</time>](https://dev.to/dmfay/comment/6j3f) 
 
 现代前端工具链是我挖掘“全栈”思想的地方。我可以用服务器呈现的模板语言做任何我需要做的事情；如果我在做一些需要认真理解 React 或 Vue 或 Webpack 的事情，我会和了解 React 或 Vue 或 Webpack 的人一起工作。我可以很好地解决那里正在发生的事情，足以修复问题并添加次要功能，但我对深入挖掘毫无兴趣。
 
 在一个讨论 **[的令人敬畏的 100+评论帖子中，哪个趋势或进步被大多数开发人员忽略了？](https://dev.to/ben/which-trend-or-advancement-is-being-overlooked-by-most-developers-4dle)** ， [@bennypowers](https://dev.to/bennypowers) 滴一些认真的分析。这是对回答的回答！
 
-[![bennypowers profile image](../Images/55f19a4b509f7ff68f6b63a38a756013.png) ](/bennypowers) [ Benny Powers 🇮🇱🇨🇦 ](/bennypowers) • [<time datetime="2018-11-03T17:51:10Z" class="date-short-year"> Nov 3 '18 </time> • Edited on <time datetime="2018-11-03T18:03:41Z" class="hidden m:inline-block date-no-year">Nov 3</time>](https://dev.to/bennypowers/comment/6hl2) 
+[![bennypowers profile image](img/55f19a4b509f7ff68f6b63a38a756013.png) ](/bennypowers) [ Benny Powers 🇮🇱🇨🇦 ](/bennypowers) • [<time datetime="2018-11-03T17:51:10Z" class="date-short-year"> Nov 3 '18 </time> • Edited on <time datetime="2018-11-03T18:03:41Z" class="hidden m:inline-block date-no-year">Nov 3</time>](https://dev.to/bennypowers/comment/6hl2) 
 
 依我拙见，react 社区对他们的库投资太大了。鉴于他们图书馆的巨大成功，我可以理解，但我确实认为泡沫最终会破裂。明智的开发人员将开始改进他们的定制元素，并应该在他们的下一个项目中考虑它们。
 

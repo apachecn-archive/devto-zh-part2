@@ -6,7 +6,7 @@
 
 这里有台球桌、拱廊机，你可以玩飞镖，还有像这样的精彩赌桌:
 
-[![Gaming table google result](../Images/71967f4cd6ae180e3123ff68ad477ef9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yEjFx1I1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zdnufkf23ym57chjz1gv.jpg)
+[![Gaming table google result](img/71967f4cd6ae180e3123ff68ad477ef9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yEjFx1I1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zdnufkf23ym57chjz1gv.jpg)
 
 我们玩大富翁和其他游戏玩得很开心，但有一个游戏对我来说是新的: **Filler**
 
@@ -17,7 +17,7 @@
 *   你只能拥有与你颜色相同的新宝石，如果它们还没有被拥有的话
 *   你只能拥有新的石头，如果它们和你已经拥有的连接在一起的话
 
-[![Filler android game screenshot](../Images/3f98a265e32bb9105b87766d32b172d2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DsFi5GZM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tz8hygj6ocf9fu3mqlar.png) 
+[![Filler android game screenshot](img/3f98a265e32bb9105b87766d32b172d2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DsFi5GZM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tz8hygj6ocf9fu3mqlar.png) 
 *来源:我发现的[安卓 app](https://play.google.com/store/apps/details?id=org.xbasoft.fillerclassic&hl=en_US) 的 Play store 截图*
 
 ## 项目
@@ -47,7 +47,7 @@
 
 也许我们可以一起提出一个挑战(就像 Robocode ),这样当项目更加成熟时，每个人都可以编写一个求解器策略？
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) [暗黑微笑 92 ](https://github.com/DarkSmile92) / [填充-游戏-反应](https://github.com/DarkSmile92/filler-game-react)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) [暗黑微笑 92 ](https://github.com/DarkSmile92) / [填充-游戏-反应](https://github.com/DarkSmile92/filler-game-react)
 
 ### 作为 react app 实现的经典填充游戏！
 

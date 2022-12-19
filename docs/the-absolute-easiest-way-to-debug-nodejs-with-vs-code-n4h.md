@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/paigen11/the-absolute-easiest-way-to-debug-nodejs-with-vs-code-n4h>
 
-[![The most interesting man in the world meme](../Images/673881836a7e4d801a540b3b0afe4269.png "The most interesting man in the world meme")T2】](///static/2b3d6f647f82975bb41ff9d832f237bd/41099/most-interesting-man.jpg)
+[![The most interesting man in the world meme](img/673881836a7e4d801a540b3b0afe4269.png "The most interesting man in the world meme")T2】](///static/2b3d6f647f82975bb41ff9d832f237bd/41099/most-interesting-man.jpg)
 
 ## 进入 Node.js 中调试的痛苦
 
@@ -42,7 +42,7 @@ VS 代码做了所有其他调试 Node.js 的选项都做不到的事情，让�
 
 ### 在 Node.js 中设置 VS 代码进行调试
 
-[![VS Code debugging - so easy a caveman can do it](../Images/9f8ae0de9823dc927e58e43200c1ad58.png "VS Code debugging - so easy a caveman can do it")T2】](///static/199d8fdb67eb993e64ede4914b3de748/cb69c/caveman-could-do-it.jpg)
+[![VS Code debugging - so easy a caveman can do it](img/9f8ae0de9823dc927e58e43200c1ad58.png "VS Code debugging - so easy a caveman can do it")T2】](///static/199d8fdb67eb993e64ede4914b3de748/cb69c/caveman-could-do-it.jpg)
 
 抱歉，我无法抗拒这个迷因——它实在是太合适了。
 
@@ -50,13 +50,13 @@ VS 代码做了所有其他调试 Node.js 的选项都做不到的事情，让�
 
 在 VS 代码中，打开**首选项>设置**，在搜索框中输入“节点调试”。在**扩展**选项卡下，应该有一个名为“节点调试”的扩展。从这里，点击第一个框:**调试>节点:自动连接**并设置下拉框为“开”。你现在差不多可以走了。是的，真的很简单。
 
-[![Node debug in VS Code settings](../Images/3246d38bb337f54ea9e03574caa3524a.png "Node debug in VS Code settings")T2】](///static/1a398051fda9add9c6716bcc57ec6bac/2cefc/debug-settings.png)
+[![Node debug in VS Code settings](img/3246d38bb337f54ea9e03574caa3524a.png "Node debug in VS Code settings")T2】](///static/1a398051fda9add9c6716bcc57ec6bac/2cefc/debug-settings.png)
 
 *这里是你应该在设置标签下看到的。将第一个下拉“调试>节点:自动连接”设置为“开”。*
 
 现在，转到 Node.js 项目文件，通过单击文件左侧您希望看到代码停止的地方来设置一些断点，并在终端中键入`node --inspect <FILE NAME>`。现在看着奇迹发生…
 
-[![Debug breakpoints example in VS Code](../Images/43e22c0ab2632f91bebe286a6cfe954d.png "Debug breakpoints example in VS Code")T2】](///static/db0ccfb3589f6534cc33d7292976344d/2cefc/debug-breakpoints.png)
+[![Debug breakpoints example in VS Code](img/43e22c0ab2632f91bebe286a6cfe954d.png "Debug breakpoints example in VS Code")T2】](///static/db0ccfb3589f6534cc33d7292976344d/2cefc/debug-breakpoints.png)
 
 看到文件左侧的红色断点了吗？看到终端里的`node — inspect readFileStream.js`了吗？就是这样。
 
@@ -66,7 +66,7 @@ VS 代码做了所有其他调试 Node.js 的选项都做不到的事情，让�
 
 一旦您按下 Enter，您的 VS 代码终端应该在底部变成橙色，表示您处于调试模式，并且您的控制台将打印一些类似于`"Debugger Attached"`的消息。
 
-[![Debugger stopping at breakpoints in VS Code](../Images/f3f12bb0ebcf83dc446b30bee2ea322e.png "Debugger stopping at breakpoints in VS Code")T2】](///static/0bfea42b784b3e3ee4d6b3d8d675c448/2cefc/debugger-attached.png)
+[![Debugger stopping at breakpoints in VS Code](img/f3f12bb0ebcf83dc446b30bee2ea322e.png "Debugger stopping at breakpoints in VS Code")T2】](///static/0bfea42b784b3e3ee4d6b3d8d675c448/2cefc/debugger-attached.png)
 
 橙色工具栏和“附加调试器”消息会告诉你 VS 代码在调试模式下运行正常。
 
@@ -74,13 +74,13 @@ VS 代码做了所有其他调试 Node.js 的选项都做不到的事情，让�
 
 现在，您可以在屏幕的左下角看到您的断点(并且可以通过复选框打开和关闭它们)，并且您可以像在浏览器中一样通过小的 play、step over、step in、restart 等来单步执行代码。IDE 顶部中间的按钮。VS 代码甚至用黄色突出显示了断点和您已经停止的那一行，这样更容易理解。
 
-[![Step through breakpoints in VS Code](../Images/ede87032d10fadf99c39e47df7f6e831.png "Step through breakpoints in VS Code")T2】](///static/7f1c681df553f4b755b52648ac6ae1dd/2cefc/debugger-step-through.png)
+[![Step through breakpoints in VS Code](img/ede87032d10fadf99c39e47df7f6e831.png "Step through breakpoints in VS Code")T2】](///static/7f1c681df553f4b755b52648ac6ae1dd/2cefc/debugger-step-through.png)
 
 点击顶部的播放按钮，从代码中的一个断点跳到下一个断点。
 
 当您从一个断点跳到另一个断点时，您可以看到程序在 VS 代码 IDE 底部的调试控制台中打印出了`console.log`,黄色突出显示也将跟随您。
 
-[![Explore local scope info as debugger breakpoints are stopped at in VS Code](../Images/9221db22577d564597e98dc812414118.png "Explore local scope info as debugger breakpoints are stopped at in VS Code")T2】](///static/50f23904e7f0fbd1e41f2f9b5933bdca/2cefc/debugger-step-through-2.png)
+[![Explore local scope info as debugger breakpoints are stopped at in VS Code](img/9221db22577d564597e98dc812414118.png "Explore local scope info as debugger breakpoints are stopped at in VS Code")T2】](///static/50f23904e7f0fbd1e41f2f9b5933bdca/2cefc/debugger-step-through-2.png)
 
 如你所见，当我们停在断点上时，我们可以在 VS 代码的左上角看到所有我们可以在控制台中浏览的本地范围信息。
 

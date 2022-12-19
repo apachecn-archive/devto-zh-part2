@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/djangotricks/equivalents-in-python-and-javascript-part-3-4icc>
 
-[![](../Images/ac66870db76cdff45befb9c233a65818.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gbwH6Aqg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-QOkE0Sse2NU/WzrCwrbe4qI/AAAAAAAAB54/Y0P1FNJqDc4gnR1JiAjv4MLGllcrZDFvACLcBGAs/s1600/equivalents-in-python-and-javascript-part-3.png)
+[![](img/ac66870db76cdff45befb9c233a65818.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gbwH6Aqg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-QOkE0Sse2NU/WzrCwrbe4qI/AAAAAAAAB54/Y0P1FNJqDc4gnR1JiAjv4MLGllcrZDFvACLcBGAs/s1600/equivalents-in-python-and-javascript-part-3.png)
 
 这是关于在 **Python** 和 **JavaScript** 中的类比的 4 篇文章系列的第 3 部分。在[的前几部分](https://dev.to/djangotricks/equivalents-in-python-and-javascript-part-2-3fej)中，我们讲述了传统的 **Python** 2.7 和 **JavaScript** 基于 ECMAScript 5 标准的大部分内容。这次我们将开始研究基于 ECMAScript 6 标准的 **Python** 3.6 和 **JavaScript** 。ECMAScript 6 标准相当新，只支持最新版本的浏览器。对于老版本的浏览器，你需要 [Babel](https://babeljs.io/) 将你的下一代 **JavaScript** 代码编译成跨浏览器兼容的代码。它为许多有趣的事情打开了探索之门。我们将从字符串插值、解包列表、lambda 函数、无索引迭代、生成器和集合开始！
 
@@ -274,4 +274,4 @@ Equivalents in Python and JavaScript
 
 封面照片由[亚历山大·奈特](https://unsplash.com/photos/Akz00I_GGjU)
 
-[![](../Images/ac4b09a519734fda5474e13d78e14613.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ro6EUNIm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/djangotricks/%257E4/D6BXc0mUq3Q)
+[![](img/ac4b09a519734fda5474e13d78e14613.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ro6EUNIm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/djangotricks/%257E4/D6BXc0mUq3Q)

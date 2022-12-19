@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kauresss/lets-javascript-cliffsnotes-nch>
 
-[![image](../Images/e019a7aa3035250eeaec44feb7b0f212.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k77mSZ4n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dgzitqw69vjprkahl7f8.png)
+[![image](img/e019a7aa3035250eeaec44feb7b0f212.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k77mSZ4n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dgzitqw69vjprkahl7f8.png)
 
 ### 简介
 

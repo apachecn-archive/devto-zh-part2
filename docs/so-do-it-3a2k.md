@@ -4,7 +4,7 @@
 
 前几天红灯的时候，我看了看旁边的车，车牌是:
 
-[![A license plate that says, "sodoit"](../Images/bdc3aa4dbd96d638612dc8ec65a6fecf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GIXqGLbP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fp45lby68c7s56lc3ibh.jpg)
+[![A license plate that says, "sodoit"](img/bdc3aa4dbd96d638612dc8ec65a6fecf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GIXqGLbP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fp45lby68c7s56lc3ibh.jpg)
 
 “那么，做吧”
 

@@ -8,7 +8,7 @@
 
 当我开始在 LaunchDarkly 工作时，我有一天在办公室，我花了最多时间和我们的(天才)设计师 Melissa 讨论贴纸以及我们应该如何处理它们。我们刚刚刷新了切换角色，现在它们看起来像这样:
 
-[![](../Images/4d9a1d370fd4c340822e18dfc11d338a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U5IYa6bt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/08/img_1175-150x150.jpg)
+[![](img/4d9a1d370fd4c340822e18dfc11d338a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U5IYa6bt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/08/img_1175-150x150.jpg)
 
 好可爱！太棒了！
 
@@ -22,7 +22,7 @@
 
 对人们来说，被代表和被了解是非常重要的。每当我有与代词或性取向有关的贴纸时，人们都会做出高兴的表情，把它们捡起来，紧紧抱着。
 
-[![](../Images/6de10210aaf862b679d141b7c5f97d42.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xgrrkkcm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/08/Image-from-iOS-225x300.jpg)
+[![](img/6de10210aaf862b679d141b7c5f97d42.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xgrrkkcm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/08/Image-from-iOS-225x300.jpg)
 
 这不仅仅是个性的问题——一个围棋程序员很乐意找到一只地鼠。做开发工作的人喜欢找一张描述他们工作的贴纸。
 
@@ -30,7 +30,7 @@
 
 然后，当我们可以将它们放在笔记本电脑上，并被我们团队中的其他人看到和找到时，我们会有另一层喜悦。如果我有一张你参加过的会议的贴纸，我们可以谈谈我们的经历。如果你看到一张表明我们分享某些东西的贴纸，开始一段对话就不会那么令人生畏了。
 
-[![](../Images/3c51bf4f24f4f4f30f80dfea19cab7ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f8ZwZAD1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/08/LaunchDarklyHoloSticker-300x295.jpg)
+[![](img/3c51bf4f24f4f4f30f80dfea19cab7ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f8ZwZAD1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/08/LaunchDarklyHoloSticker-300x295.jpg)
 
 例如，如果你看到这个标签，很有可能这个人真的见过我。
 
@@ -42,13 +42,13 @@
 
 Matt (Brender) Broberg [做了一个演讲](http://cls.mediaspace.kaltura.com/media/CLS+2017+-+Matthew+%28Brender%29+Broberg+%E2%80%93+Community+Metrics+are+a+Trojan+Horse+for+Real+Relationships/0_ro0yrlfk)，其中包括对贴纸投资回报的分析。
 
-[![](../Images/833c7eda6552edcf2b6909c495e15f8b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QQVbGyiD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/08/sticker_roi.png)
+[![](img/833c7eda6552edcf2b6909c495e15f8b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QQVbGyiD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/08/sticker_roi.png)
 
 (最后一点模糊不清，但它说“贴纸投资回报率是 5 倍至 76 倍”，我想。
 
 从技术营销的角度来看，人们对贴纸也有感情。可爱的贴纸让人觉得你的产品用起来很有趣或愉快。高质量的贴纸让人觉得你有一个高质量的产品。种族主义或性别歧视的贴纸？你在默默地疏远很多人。
 
-[![](../Images/a9d1d5691d547c66e893196ed3f9e8a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W7Nh4IAr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/08/20180430_163522-300x225.jpg)
+[![](img/a9d1d5691d547c66e893196ed3f9e8a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W7Nh4IAr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/08/20180430_163522-300x225.jpg)
 
 即使不知道 npm 是什么的人也会拿 npm 贴纸，因为它们实在太可爱了。
 
@@ -56,17 +56,17 @@ Matt (Brender) Broberg [做了一个演讲](http://cls.mediaspace.kaltura.com/me
 
 随身携带我的贴纸包的一个有趣的部分是，我可以感觉到什么技术对一个社区是重要的。与你所期望的技术并不总是一对一的关系。有时候是。不管怎样，我都能看出人们对一家公司或一项技术的兴趣程度。
 
-[![](../Images/a89eab35e4f5643bbbd82c46a902dfbf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zs-jaT4b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/08/sticker-bag-interior-225x300.jpg)
+[![](img/a89eab35e4f5643bbbd82c46a902dfbf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zs-jaT4b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/08/sticker-bag-interior-225x300.jpg)
 
 例如，我可以告诉你，Kubernetes 项目很有趣，很受欢迎，有很好的视觉品牌，但在满足市场对他们贴纸的需求方面做得不够。PHP 和 Drupal 交叉，这并不奇怪，但威瑞森和 Elastic 也是如此。一个会议可能会有人不认识厨师标签，另一个会议可能会毁掉我所有与自动化相关的东西。我可以从 Target 开发者拿的贴纸上看出来，他们构建了很多内部工具，而不是购买它们。很有意思！
 
-[![](../Images/726cdcfa0ca8b7283d58bcc65bbf1022.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_CJgZXlf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/08/sticker_piles-300x172.png)
+[![](img/726cdcfa0ca8b7283d58bcc65bbf1022.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_CJgZXlf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/08/sticker_piles-300x172.png)
 
 ## 开发者蜜罐
 
 开发人员普遍害羞和反社会是不正确的。有些是，有些不是。事实是，我们很多人很难与陌生人搭讪。当我摊开我的贴纸并邀请人们浏览和拿走它们时，它给了我们两个人一种以低调、不恐吓、甚至不需要眼神交流的方式谈论技术的方式。我们有时间说话或不说话，随我们的便。
 
-[![](../Images/8c1f99bfcf7c44e61f0a192d2183fa0b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7zaSICac--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/08/26967878038_d7db826084_o-300x200.jpg)
+[![](img/8c1f99bfcf7c44e61f0a192d2183fa0b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7zaSICac--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/08/26967878038_d7db826084_o-300x200.jpg)
 
 # 设计模式和反模式
 
@@ -78,7 +78,7 @@ Matt (Brender) Broberg [做了一个演讲](http://cls.mediaspace.kaltura.com/me
 
 下面是一组巨大的贴纸的样子:
 
-[![](../Images/2ffc8c68b256eaafb76c7c2d59e62099.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jK43n4XG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/08/big_stickers-300x227.png)
+[![](img/2ffc8c68b256eaafb76c7c2d59e62099.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jK43n4XG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/08/big_stickers-300x227.png)
 
 但是等等！你不用想了，因为，朋友们，*是有标准的*！访问[贴纸](https://sticker.how/)阅读。互操作性不再仅仅是软件和硬件的事情了。
 
@@ -86,13 +86,13 @@ Matt (Brender) Broberg [做了一个演讲](http://cls.mediaspace.kaltura.com/me
 
 我喜欢标准的六边形，因为瓷砖看起来真的很棒，但我不反对形状独特的模切贴纸。六边形贴纸最初是一个“开源的东西”，但对每个想一起工作以最大化笔记本电脑空间的人都有用。
 
-[![](../Images/6093a9949527af50fe4885fa2de8568c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TaoWmmgu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://hexb.in/assets/laptop.png)
+[![](img/6093a9949527af50fe4885fa2de8568c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TaoWmmgu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://hexb.in/assets/laptop.png)
 
 我以前质疑过圆形贴纸，因为它们不是一种有效利用空间的方式，但我认为它们只要小一点就没问题。不知何故，大圆似乎比大矩形还要大。
 
 我的笔记本电脑上有各种风格的贴纸，但是如果我不认识这些人或者不使用这个产品，我不会在上面贴任何东西。
 
-[![](../Images/47d1a9f4d4c3353e66db9761557e076a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JXoLcXZz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/07/20180707_222011-300x225.jpg)
+[![](img/47d1a9f4d4c3353e66db9761557e076a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JXoLcXZz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/07/20180707_222011-300x225.jpg)
 
 你可以看到 Fastly 418 的贴纸怎么是圆的，但是和别人贴合还可以，而 Spoonflower 的圆贴纸太大了，贴合不和谐。
 
@@ -102,7 +102,7 @@ Matt (Brender) Broberg [做了一个演讲](http://cls.mediaspace.kaltura.com/me
 
 例如，这个贴纸很可爱，但第一年出来的时候，你看不出它是来自 InfluxDB。
 
-[![](../Images/3f5ebf7decbc2cbadb10d601959d2e6b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n_Ez_d4---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/08/sticker_mystery-293x300.png)
+[![](img/3f5ebf7decbc2cbadb10d601959d2e6b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n_Ez_d4---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/08/sticker_mystery-293x300.png)
 
 谢天谢地，下一批贴纸上有他们的名字！
 
@@ -133,4 +133,4 @@ Matt (Brender) Broberg [做了一个演讲](http://cls.mediaspace.kaltura.com/me
 
 不到一美元的快乐？似乎是一笔大交易。
 
-[![](../Images/1c4891092899bbfec5c0452cb2c85110.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---BfTlSrE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/08/ThumbsUpDark%402x-196x300.png)
+[![](img/1c4891092899bbfec5c0452cb2c85110.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---BfTlSrE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/08/ThumbsUpDark%402x-196x300.png)

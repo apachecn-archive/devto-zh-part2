@@ -9,33 +9,33 @@
 您可以在 Github repo:
 中找到所有这些实现以及更多内容
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) [阿梅加罗萨里奥](https://github.com/amejiarosario)/[DSA . js-数据-结构-算法-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) [阿梅加罗萨里奥](https://github.com/amejiarosario)/[DSA . js-数据-结构-算法-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)
 
 ### 🥞JavaScript + eBook 中解释和实现的数据结构和算法
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-[![image](../Images/56b5d4dbac1233ee93c5155b15079c68.png)T2】](https://user-images.githubusercontent.com/418605/59557258-10742880-8fa3-11e9-84fb-4d66a9d89faa.png)
+[![image](img/56b5d4dbac1233ee93c5155b15079c68.png)T2】](https://user-images.githubusercontent.com/418605/59557258-10742880-8fa3-11e9-84fb-4d66a9d89faa.png)
 
 # JavaScript 中的数据结构和算法
 
-[![CircleCI](../Images/d5922fc0cbf322196a6f5e893fcfcf37.png)](https://app.circleci.com/pipelines/github/amejiarosario/dsa.js-data-structures-algorithms-javascript)[![NPM version](../Images/2c26fb04f41469582f423d88af92342e.png)](https://badge.fury.io/js/dsa.js)[![chat](../Images/e028ff0be0803e8e9dbdd25d5a8c6ca4.png)](https://dsajs-slackin.herokuapp.com)
+[![CircleCI](img/d5922fc0cbf322196a6f5e893fcfcf37.png)](https://app.circleci.com/pipelines/github/amejiarosario/dsa.js-data-structures-algorithms-javascript)[![NPM version](img/2c26fb04f41469582f423d88af92342e.png)](https://badge.fury.io/js/dsa.js)[![chat](img/e028ff0be0803e8e9dbdd25d5a8c6ca4.png)](https://dsajs-slackin.herokuapp.com)
 
 > 这是 DSA.js book 的编码实现和 NPM 包的回购。
 
 > 在这个库中，您可以找到 JavaScript 中算法和数据结构的实现。这些材料可以作为开发人员的参考手册，或者您可以在面试前刷新特定主题。还有，你可以找到更高效解决问题的思路。
 
-[![Interactive Data Structures](../Images/8f63557fae7adb265acdf574fa489c65.png)T2】](https://user-images.githubusercontent.com/418605/46118890-ba721180-c1d6-11e8-82bc-6a671428b422.png)
+[![Interactive Data Structures](img/8f63557fae7adb265acdf574fa489c65.png)T2】](https://user-images.githubusercontent.com/418605/46118890-ba721180-c1d6-11e8-82bc-6a671428b422.png)
 
 ## 目录
 
 *   [安装](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#installation)
 *   [特性](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#features)
 *   [里面有什么](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#whats-inside)
-    *   [<g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>算法分析](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#-algorithms-analysis)
-    *   [<g-emoji class="g-emoji" alias="pancakes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f95e.png">🥞</g-emoji>线性数据结构](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#-linear-data-structures)
-    *   [<g-emoji class="g-emoji" alias="evergreen_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f332.png">🌲</g-emoji>非线性数据结构](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#-non-linear-data-structures)
-    *   [<g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png">⚒</g-emoji> 算法技巧](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#%E2%9A%92-algorithms-techniques)
+    *   [<g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f4c8.png">📈</g-emoji>算法分析](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#-algorithms-analysis)
+    *   [<g-emoji class="g-emoji" alias="pancakes" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f95e.png">🥞</g-emoji>线性数据结构](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#-linear-data-structures)
+    *   [<g-emoji class="g-emoji" alias="evergreen_tree" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f332.png">🌲</g-emoji>非线性数据结构](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#-non-linear-data-structures)
+    *   [<g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/2692.png">⚒</g-emoji> 算法技巧](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#%E2%9A%92-algorithms-techniques)
 *   [预定](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#book)
 *   [常见问题解答](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#faq)
 *   [支持](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#support)
@@ -75,7 +75,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这些数据结构被称为“树”，因为数据结构类似于树🌳。它以一个**根**节点和**分支**及其后代开始，最后是**叶**。
 
-[![Tree data structure parts](../Images/0a62a6c591e782d00404256a23eb8922.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HhqAH6wD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.com/images/tree-parts.jpg)
+[![Tree data structure parts](img/0a62a6c591e782d00404256a23eb8922.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HhqAH6wD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.cimg/tree-parts.jpg)
 
 以下是树的一些属性:
 
@@ -124,7 +124,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 仅此而已；我们有一个树形数据结构！
 
-[![](../Images/14bd3927df02f6144826feba287d828a.png "Simpson tree data structure")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--laKfQbVG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.com/images/simpson2-tree.jpg)
+[![](img/14bd3927df02f6144826feba287d828a.png "Simpson tree data structure")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--laKfQbVG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.cimg/simpson2-tree.jpg)
 
 节点`abe`是树的**根**和`bart`，`lisa`和`maggie`是树的**叶**节点。请注意，树的节点可以有不同数量的后代:0、1、3 或任何其他值。
 
@@ -151,7 +151,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 看看这些例子:
 
-[![](../Images/874ace5a4d7683f1a5a24bd2874fe41f.png "Full vs. Complete vs. Perfect Binary Tree")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1C4dgmyL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.com/images/full-complete-perfect-binary-tree.jpg)
+[![](img/874ace5a4d7683f1a5a24bd2874fe41f.png "Full vs. Complete vs. Perfect Binary Tree")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1C4dgmyL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.cimg/full-complete-perfect-binary-tree.jpg)
 
 这些属性并不总是相互排斥的。您可以有多个:
 
@@ -248,7 +248,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们来举例说明如何插入 30、40、10、15、12、50:
 
-[![](../Images/8c3d9fbeb44bda9c04473d3a7e4117a5.png "Inserting nodes on a Binary Search Tree (BST)")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MyNrfBEk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://adrianmejia.com/images/bst2.gif)
+[![](img/8c3d9fbeb44bda9c04473d3a7e4117a5.png "Inserting nodes on a Binary Search Tree (BST)")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MyNrfBEk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://adrianmejia.cimg/bst2.gif)
 
 我们可以[实现插入](https://github.com/amejiarosario/dsa.js/blob/master/src/data-structures/trees/binary-search-tree.js#L11)如下:
 
@@ -377,7 +377,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是我们讨论的动画。
 
-[![](../Images/1cfbfa10086597d44d030d24e5fb8319.png "Removing a node with 0, 1, 2 children from a binary search tree")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zLaciLZT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://adrianmejia.com/images/bst-remove.gif)
+[![](img/1cfbfa10086597d44d030d24e5fb8319.png "Removing a node with 0, 1, 2 children from a binary search tree")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zLaciLZT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://adrianmejia.cimg/bst-remove.gif)
 
 在动画中，它向上移动左边的子/子树，并保持右边的子/子树不动。
 
@@ -572,7 +572,7 @@ BFS 的顺序是:`10, 5, 30, 4, 15, 40, 3`
 
 假设我们要按升序对数字进行加法运算。
 
-[![](../Images/bdffb599f5ddfddf47112f9e0e83c5c7.png "Inserting values in ascending order in a Binary Search Tree")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bzdkmIdK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://adrianmejia.com/images/bst-asc.gif)
+[![](img/bdffb599f5ddfddf47112f9e0e83c5c7.png "Inserting values in ascending order in a Binary Search Tree")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bzdkmIdK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://adrianmejia.cimg/bst-asc.gif)
 
 我们将结束左侧的所有节点！这个不平衡的树并不比 LinkedList 好多少，所以寻找一个元素需要花费 *O(n)* 。😱
 
@@ -582,7 +582,7 @@ BFS 的顺序是:`10, 5, 30, 4, 15, 40, 3`
 
 如果树是平衡的，那么我们可以在 T2 中找到元素，而不是遍历每个节点。先说平衡树是什么意思。
 
-[![](../Images/818f4a0751a3a1de3ce4ed39bba5e90e.png "Balanced vs unbalanced Tree")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--alv7RLsf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.com/images/balanced-vs-non-balanced-tree.jpg)
+[![](img/818f4a0751a3a1de3ce4ed39bba5e90e.png "Balanced vs unbalanced Tree")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--alv7RLsf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.cimg/balanced-vs-non-balanced-tree.jpg)
 
 如果我们在非平衡树中搜索`7`，我们必须从 1 到 7。但是，在平衡树中，我们访问:`4`、`6`和`7`。大树的情况更糟。如果有一百万个节点，搜索一个不存在的元素可能需要访问全部一百万个节点，而在平衡树上只需要访问 20 次！这是一个巨大的差异！
 

@@ -8,4 +8,4 @@
 
 [React 本地路线配置示例使用 React 导航库](https://www.skptricks.com/2018/10/react-native-route-configuration-using-react-navigation.html)
 
-[![](../Images/0871b2f03897048ab82e4fefb12f30c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uvEJc4tz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-o3xXi78ez0E/W83rdCA2mSI/AAAAAAAACDs/e_-RkPzbGegNrP_8LmidsN_9SXix_-CiwCLcBGAs/s640/rr.png)
+[![](img/0871b2f03897048ab82e4fefb12f30c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uvEJc4tz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-o3xXi78ez0E/W83rdCA2mSI/AAAAAAAACDs/e_-RkPzbGegNrP_8LmidsN_9SXix_-CiwCLcBGAs/s640/rr.png)

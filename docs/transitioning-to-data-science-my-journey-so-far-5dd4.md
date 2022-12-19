@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ugis22/transitioning-to-data-science-my-journey-so-far-5dd4>
 
-[![](../Images/f0e88bc3d7cc739df2eab013533aa2b7.png)T2】](https://cdn-images-1.medium.com/max/1024/1*o_TwhpYzY99wL2mmyOt05w.jpeg)
+[![](img/f0e88bc3d7cc739df2eab013533aa2b7.png)T2】](https://cdn-images-1.medium.com/max/1024/1*o_TwhpYzY99wL2mmyOt05w.jpeg)
 
 因为你很小，你经常被问到这个问题:“你长大后想做什么？”。我记得这些年来我改变了主意，列出了许多不同的职业。但是他们都有一个共同点:他们都参与回答问题。我总是喜欢尝试寻找事物如何运作的答案，或者我看到的两件事是如何联系在一起的。我 16 岁时开始对生物学感兴趣，这要归功于我高中时的一位非常好的老师，不久之后，我决定学习生物科学，最终成为一名全职研究员。
 

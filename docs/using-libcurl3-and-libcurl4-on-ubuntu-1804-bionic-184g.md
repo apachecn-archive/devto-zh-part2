@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jake/using-libcurl3-and-libcurl4-on-ubuntu-1804-bionic-184g>
 
-[![image](../Images/77ea8ba61416705699ec2ddfe6703346.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t8859Dre--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wa3vunhh44isjs2hgtkb.png)
+[![image](img/77ea8ba61416705699ec2ddfe6703346.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t8859Dre--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wa3vunhh44isjs2hgtkb.png)
 
 我相信我们中的许多人在任何时候都因为某种原因需要在 Ubuntu 18 上运行 libcurl3 和 libcurl4。
 

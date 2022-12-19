@@ -18,7 +18,7 @@ JavaScript 被编译。是的，你没看错。不过，与其他语言编译器
 
 ## 语言和代码
 
-[![racers](../Images/198d7a6af742be9d8ad5deb8c700a495.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ci-ah7_n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/06gh7f6gezcdyvw7vkj1.jpg)
+[![racers](img/198d7a6af742be9d8ad5deb8c700a495.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ci-ah7_n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/06gh7f6gezcdyvw7vkj1.jpg)
 
 为了探究编译器是如何读取代码的，考虑一下你正在使用哪种语言来阅读这篇文章是很有帮助的:英语。我们在开发控制台中都遇到过醒目的红色语法错误，但是当我们绞尽脑汁寻找丢失的分号时，我们可能从未停下来想想诺姆·乔姆斯基。乔姆斯基将语法定义为:
 
@@ -97,13 +97,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 编译器
 
-[![compiler](../Images/454bee6936dec7405408bb9ddba7eccf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vkt7m6hT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9dnpzcc6jr12f7h6oxb7.png)
+[![compiler](img/454bee6936dec7405408bb9ddba7eccf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vkt7m6hT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9dnpzcc6jr12f7h6oxb7.png)
 
 把编译器想象成一个肉类加工厂，有几个机制把代码磨成我们的计算机认为可食用或可执行的包。在这个例子中，我们将处理表达式。
 
 ### 令牌
 
-[![tokenizer](../Images/51e49ede7ff5cf86675ce869933b5679.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WvG1B7fc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n4ma6mnv2krffgpl9sqp.jpg)
+[![tokenizer](img/51e49ede7ff5cf86675ce869933b5679.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WvG1B7fc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n4ma6mnv2krffgpl9sqp.jpg)
 
 首先，记号赋予器将代码分解成称为记号的单元。
 
@@ -111,11 +111,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 注意:如果同一个系统能够在一个标记和另一个标记之间建立关联，然后像解析器一样将它们组合在一起，那么它将被认为是一个词法分析器。
 
-[![lexer](../Images/b904f177773bbd7c62dfc877a166308f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i7LHlNa8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/spkdlfndrudbvebkqvcv.jpg)
+[![lexer](img/b904f177773bbd7c62dfc877a166308f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i7LHlNa8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/spkdlfndrudbvebkqvcv.jpg)
 
 ### 解析器
 
-[![parser](../Images/7a5ad60bb3b8d4298430923af009d838.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X7GTiW5n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7q6mrviwtgdw7wtaqp1h.jpg)
+[![parser](img/7a5ad60bb3b8d4298430923af009d838.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X7GTiW5n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7q6mrviwtgdw7wtaqp1h.jpg)
 
 解析器寻找语法错误。如果没有错误，它会将令牌打包到一个称为解析树的数据结构中。在编译过程的这一点上，JavaScript 代码被认为是被解析的，然后进行语义分析。同样，如果遵循 JavaScript 的规则，就会产生一种称为抽象语法树(AST)的新数据结构。
 
@@ -154,7 +154,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 哦，向莱克斯问好。我们内置的交互式 JavaScript 编辑器。
 
-[![lex](../Images/86cc04a38b6615f1887179f801094af0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OsHMJVba--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/os529whhjlfba8kdfw46.png)
+[![lex](img/86cc04a38b6615f1887179f801094af0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OsHMJVba--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/os529whhjlfba8kdfw46.png)
 
 * * *
 

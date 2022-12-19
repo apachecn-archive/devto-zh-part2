@@ -4,7 +4,7 @@
 
 嘿戴夫托！我想让每个人都知道我过去几个月一直在做的一个项目。你可能在 Twitter 或其他地方看到过，但我没有在这个平台上提到过——作为一个学习 React 和 JavaScript 的开发者社区，它看起来非常适合。
 
-[![announcement](../Images/942fabd7f4db710305d789f4718e4f08.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ptkgA32c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9bo5ditmnsh5y5zo8kcu.png)
+[![announcement](img/942fabd7f4db710305d789f4718e4f08.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ptkgA32c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9bo5ditmnsh5y5zo8kcu.png)
 
 Byteconf React 是一个在 Twitch 上举办的为期一天的免费 React 会议，任何人都可以参加。它发生在 2018 年 8 月 31 日。
 

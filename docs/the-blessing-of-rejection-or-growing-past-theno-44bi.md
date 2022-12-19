@@ -6,7 +6,7 @@
 
 我一直在纠结是否以及如何继续记录我的旅程。我的一部分希望我的水晶鞋合适:“你被录用了！”这一刻几乎会立即发生，这样我就可以写一个精彩的故事，讲述我是如何以创纪录的时间和最少的努力，从用电子邮件发送简历，到坐在新的办公桌前。带着尴尬的微笑，我意识到这样的结果会让我感觉多么真实可信。我在手机屏幕、冗长的电子邮件线程、个人开发项目、开源贡献、算法实践和继续教育之间周旋，决心向被任命延长我第一次专业开发机会的招聘经理展示我最好的自己。
 
-[![Image Showing Handshake](../Images/621ddd64a14e74b0eecd00bbbcb1bfc7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ih1pBn5r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AaK-pnTObfVPd084p)
+[![Image Showing Handshake](img/621ddd64a14e74b0eecd00bbbcb1bfc7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ih1pBn5r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AaK-pnTObfVPd084p)
 
 大约两周前，当我进行第一次现场面试时，我以为那一刻已经到来。根据招聘经理的说法，我在第一轮编码练习中比一些资深应聘者做得更好——这一发现让我感到自豪。下一轮是与公司创始人之一长达一小时的谈话，在此期间，我对公司的宗旨和目标表达了真正的兴趣，他们进一步阐述了公司文化和优先事项。当我收到邀请我参加最后一轮 3 小时现场面试的电子邮件时，我的胃因神经错乱而扭曲成结。他们会问我什么？白板会议会有多激烈？我会冻僵吗？我会崩溃吗？
 
@@ -14,7 +14,7 @@
 
 面试结束时比我预期的要愉快得多。领导我们小组讨论的开发人员做了一件不可思议的工作，让我放松下来。我发现自己很喜欢他们的问题，这些问题非常全面，试图从情感、人际关系和职业角度全面了解我。技术练习是无压力和协作的；我没有被扔进皮拉纳斯，也没有被指望毫发无伤地获胜。面试结束后，我感觉非常自信，65-70%的把握我会得到一份工作。因此，当我收到拒绝邮件时(它非常友好、详细且解释清楚)，我大吃一惊。我经历了几种情绪，我想在这篇文章的其余部分提取出来。为什么？嗯，像这样的一篇文章那天会给我很大的鼓励，我想帮助其他有类似故事的开发者说出他们的经历。
 
-[![Image Showing Handshake](../Images/d6565c8838adf9c733b25b81eb7dc15d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IBvcCZsu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A_c3CNehZXw4b-fRClF8fzQ.jpeg)
+[![Image Showing Handshake](img/d6565c8838adf9c733b25b81eb7dc15d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IBvcCZsu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A_c3CNehZXw4b-fRClF8fzQ.jpeg)
 
 **羞愧。**我所有的家人、朋友和导师都知道我的现场面试。当我重复他们问的问题和我的回答时，他们屏住呼吸听着，每个人都预言了我即将到来的就业。所以，是的，很难回答他们的*“你收到回复了吗？”*带来令人不快消息的电话。在他们的*不要担心*和*你得到了这个*短语中，更难听到几乎不加掩饰的对(不在)我的失望。这是我们人类共有的原始需求:被认可的需求。被认证。被需要和被重视。对我来说，把没有得到这个职位解释为对我作为一名软件开发人员的能力的控诉太容易了，这种能力是天生的，也是后天习得的。这导致了…
 

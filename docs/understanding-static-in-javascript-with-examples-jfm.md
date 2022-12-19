@@ -8,4 +8,4 @@
 
 [理解 Javascript 中的静态并举例](https://www.skptricks.com/2018/11/understanding-static-in-javascript-with-examples.html)
 
-[![](../Images/03cbece34578c74dd506efe1522bbe13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oRSiG6qn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-Emv_Ek-RjXk/W-pOuioRyyI/AAAAAAAACIM/xbVXiRbKsR88r6S2p47k8XTWoXg70c2DACLcBGAs/s400/static.png)
+[![](img/03cbece34578c74dd506efe1522bbe13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oRSiG6qn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-Emv_Ek-RjXk/W-pOuioRyyI/AAAAAAAACIM/xbVXiRbKsR88r6S2p47k8XTWoXg70c2DACLcBGAs/s400/static.png)

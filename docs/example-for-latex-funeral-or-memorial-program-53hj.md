@@ -20,10 +20,10 @@
 
 第一页
 
-[![First page of the final PDF output](../Images/fd105ecdc8d9d44ebe68ff5395a9e896.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YhqrdWeY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sean.lane.sh/images/2018/06/latex_funeral_program_pg1.png)
+[![First page of the final PDF output](img/fd105ecdc8d9d44ebe68ff5395a9e896.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YhqrdWeY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sean.lane.img/2018/06/latex_funeral_program_pg1.png)
 
 * * *
 
 第二页
 
-[![Second page of the final PDF output](../Images/20d824f3f741b68c331d99d2bbe1da70.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3b2aEksx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sean.lane.sh/images/2018/06/latex_funeral_program_pg2.png)
+[![Second page of the final PDF output](img/20d824f3f741b68c331d99d2bbe1da70.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3b2aEksx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sean.lane.img/2018/06/latex_funeral_program_pg2.png)

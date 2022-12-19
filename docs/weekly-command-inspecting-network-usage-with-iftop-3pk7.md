@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/roperzh/weekly-command-inspecting-network-usage-with-iftop-3pk7>
 
-[![iftop-overview](../Images/59f3b3e4705904a1603286a292ecc14a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fx2g-Ycf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/4419992/40357344-412b927c-5d92-11e8-9ca6-8588bcdf009b.jpg)
+[![iftop-overview](img/59f3b3e4705904a1603286a292ecc14a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fx2g-Ycf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/4419992/40357344-412b927c-5d92-11e8-9ca6-8588bcdf009b.jpg)
 
 如果您需要一个工具来检查您的网络使用情况，而不必连接代理或安装更复杂的工具，如 Wireshark，`iftop`可能是您正在寻找的。
 

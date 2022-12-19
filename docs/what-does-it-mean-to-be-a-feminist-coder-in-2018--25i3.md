@@ -138,7 +138,7 @@ Jenn Schiffer 在高中时就开始编写粉丝网站:
 
 今天，我们邀请你在 dev.to 或 Twitter 标签 [#SheCoded](https://twitter.com/hashtag/shecoded) -或两者上分享你的故事。
 
-[![jess image](../Images/15e6599da1ea8b6f92e1b678e9347b2c.png)](/jess) [## 各位请加入我们#SheCoded 2018！
+[![jess image](img/15e6599da1ea8b6f92e1b678e9347b2c.png)](/jess) [## 各位请加入我们#SheCoded 2018！
 
 ### 李佳薇(她/她)3 月 1 日 182 分钟阅读
 

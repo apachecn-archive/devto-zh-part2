@@ -10,4 +10,4 @@
 
 [在 React Native 中的 Press 事件上设置按钮](https://www.skptricks.com/2018/07/set-button-onpress-event-in-react-native.html)
 
-[![](../Images/4be06018acd2b2423c637086b45a22ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FanNf5jv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-FVeOc3q_HmU/W0nqaIULesI/AAAAAAAABsU/zLxHmsgNTrQQVah205FYX3HJc0_nq33PgCLcBGAs/s400/button.jpg)
+[![](img/4be06018acd2b2423c637086b45a22ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FanNf5jv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-FVeOc3q_HmU/W0nqaIULesI/AAAAAAAABsU/zLxHmsgNTrQQVah205FYX3HJc0_nq33PgCLcBGAs/s400/button.jpg)

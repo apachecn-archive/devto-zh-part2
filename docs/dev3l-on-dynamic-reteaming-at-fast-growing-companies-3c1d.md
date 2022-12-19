@@ -4,7 +4,7 @@
 
 > “这是关于掌握改变的能力。”
 
-[![Why Dynamic Reteaming](../Images/f95f4520861efc277826dc083aeb4daf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tfNfGYfd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2cz3129q84dlqlh9e1bv.png)
+[![Why Dynamic Reteaming](img/f95f4520861efc277826dc083aeb4daf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tfNfGYfd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2cz3129q84dlqlh9e1bv.png)
 
 *@heidihelfand*
 

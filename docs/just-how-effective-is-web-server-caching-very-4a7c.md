@@ -34,13 +34,13 @@
 
 首先，让我们看一个根本没有缓存的基本 LEMP 安装。
 
-<figure>[![](../Images/a005f75193d7b0d4651da7422273fd5c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KOFNdnZ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/11/no_cache_requests.png)
+<figure>[![](img/a005f75193d7b0d4651da7422273fd5c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KOFNdnZ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/11/no_cache_requests.png)
 
 <figcaption>Wordpress CMS，无缓存。</figcaption>
 
 </figure>
 
-<figure>[![](../Images/b04a719208e5364cea0ef783653af67a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7XAhaEww--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/11/no_cache.png) 
+<figure>[![](img/b04a719208e5364cea0ef783653af67a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7XAhaEww--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/11/no_cache.png) 
 
 <figcaption>大约 200 个并发用户后看起来很丑。</figcaption>
 
@@ -50,13 +50,13 @@
 
 用下面的设置安装和配置 Wordpress 缓存，我们测试一种应用程序级别的缓存。
 
-<figure>[![](../Images/66fede53073dba61b6b1ecfe93f7a591.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--doURzvP5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/11/wordpress_cache_settings.png)
+<figure>[![](img/66fede53073dba61b6b1ecfe93f7a591.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--doURzvP5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/11/wordpress_cache_settings.png)
 
 <figcaption>Wordpress 缓存插件最高评级，这里是设置。</figcaption>
 
 </figure>
 
-<figure>[![](../Images/bd5c7468ae68c3a2750b1bed33a804a6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0TPTCKi---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/11/wordpress_cache.png) 
+<figure>[![](img/bd5c7468ae68c3a2750b1bed33a804a6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0TPTCKi---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/11/wordpress_cache.png) 
 
 <figcaption>好一点，但真的是希望更好，</figcaption>
 
@@ -66,13 +66,13 @@
 
 最后，我拆除了设置，并建立了一个新的设置。这一次 Nginx 微缓存只有一分钟的寿命。
 
-<figure>[![](../Images/7adefbbd5498f942f53eb8531ff6258a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--A8W_fsRr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/11/nginx_cache_requests.png) 
+<figure>[![](img/7adefbbd5498f942f53eb8531ff6258a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--A8W_fsRr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/11/nginx_cache_requests.png) 
 
 <figcaption>现在这还差不多。</figcaption>
 
 </figure>
 
-<figure>[![](../Images/9db9a206fa3139f05e76fbe36ab87153.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--s6ZMpnZg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/11/nginx_cache.png) 
+<figure>[![](img/9db9a206fa3139f05e76fbe36ab87153.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--s6ZMpnZg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/11/nginx_cache.png) 
 
 <figcaption>请求进来，响应出去；很快。</figcaption>
 

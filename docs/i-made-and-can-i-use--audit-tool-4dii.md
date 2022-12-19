@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/robertjgabriel/i-made-and-can-i-use--audit-tool-4dii>
 
-[![alt text](../Images/ca4fb0b3239fffe3905510f23d2190cb.png "Logo Title Text 1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NmRAoMIe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y8mgd5knfdnq5fdh3zte.jpg)
+[![alt text](img/ca4fb0b3239fffe3905510f23d2190cb.png "Logo Title Text 1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NmRAoMIe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y8mgd5knfdnq5fdh3zte.jpg)
 
 任何在 Twitter 或 T2 Github 上关注我的人都知道我在做自己的创业想法和一些自己喜欢的项目。其中一个包括这个。一个 chrome 扩展，我可以使用它在当前站点上运行审计。它是由 Vue，Bem 和 Mocha 建造的。
 

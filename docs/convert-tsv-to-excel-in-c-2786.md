@@ -8,7 +8,7 @@ TSV 文件是制表符分隔值的缩写。它是一种由**分隔的文本文�
 
 在本文档中，我们将解释如何将您的 TSV 文件转换成各种 Excel 格式，如 XLS、XLSX、XLSM、XLSB 等。请[下载如图所示的代码中使用的示例 TSV 文件](https://github.com/AsposeCells/AsposeCells-Screenshots-and-Sample-Files/blob/master/TSV-to-Excel-Formats/sampleConvertTSVToExcelFormats.tsv)以供参考。
 
-[![Sample TSV file to be converted to Excel formats using Aspose.Cells API](../Images/7b4db6dc71b4303c49d44c90197ee90e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Lpg3fLlV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/AsposeCells/AsposeCells-Screenshots-and-Sample-Files/master/TSV-to-Excel-Formats/Sample-TSV-file-to-be-converted-to-Excel-formats-using-Aspose.Cells-API.png)
+[![Sample TSV file to be converted to Excel formats using Aspose.Cells API](img/7b4db6dc71b4303c49d44c90197ee90e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Lpg3fLlV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/AsposeCells/AsposeCells-Screenshots-and-Sample-Files/master/TSV-to-Excel-Formats/Sample-TSV-file-to-be-converted-to-Excel-formats-using-Aspose.Cells-API.png)
 
 <center>
 

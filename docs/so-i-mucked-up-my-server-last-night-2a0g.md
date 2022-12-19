@@ -6,7 +6,7 @@
 
 <figcaption>啊，怀旧</figcaption>
 
-[![MS-DOS prompt](../Images/af0d2ab2f69a8b15ff52d61100ae5612.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TG2tIEHp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/server-upgrade-fail/ms-dos.png)
+[![MS-DOS prompt](img/af0d2ab2f69a8b15ff52d61100ae5612.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TG2tIEHp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/server-upgrade-fail/ms-dos.png)
 
 附注:不要用`deltree`武装孩子，让他们无人监管。
 
@@ -81,4 +81,4 @@ TL:DR，不要在半睡半醒的时候做系统管理员的事情。不好的事
 
 <figcaption>尽管遇到种种麻烦，服务器世界又一切顺利</figcaption>
 
-[![Server running Ubuntu 18.04.1 LTS](../Images/446c018ce303b3a51651f7e4d91f5617.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--R-TWtB5w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/server-upgrade-fail/ubuntu-640.png)
+[![Server running Ubuntu 18.04.1 LTS](img/446c018ce303b3a51651f7e4d91f5617.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--R-TWtB5w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/server-upgrade-fail/ubuntu-640.png)

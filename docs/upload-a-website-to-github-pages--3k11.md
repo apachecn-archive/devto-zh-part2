@@ -4,7 +4,7 @@
 
 *本文最初发表于[programmingliftoff.com](http://programmingliftoff.com/)作为[上传网站到 GitHub 页面](http://programmingliftoff.com/upload-website-github-pages/)。*
 
-[![Finished Website](../Images/fc4dee2f0916e90b5ad3e3dd091b4647.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nCyvGomA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kx8jtwu695e1sj0eivf3.png)
+[![Finished Website](img/fc4dee2f0916e90b5ad3e3dd091b4647.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nCyvGomA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kx8jtwu695e1sj0eivf3.png)
 
 注意:在执行这些步骤之前，您应该已经在本地机器上创建了一个网站。如果你还没有网站，完成教程[用 CSS 和 JavaScript 创建一个基本的网页](http://programmingliftoff.com/create-basic-webpage-css-javascript/)来创建一个网站，然后回到这个教程。
 

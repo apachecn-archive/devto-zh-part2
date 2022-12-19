@@ -21,7 +21,7 @@ RSpecZ 正试图解决这个问题。
 
 我用图像向你展示 RSpecZ 的有效性。
 
-[![001](../Images/e741ece9197e33c5faeab69e8ce11218.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nEbBDYK0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0omvjmh853t9rf7b11pp.png)
+[![001](img/e741ece9197e33c5faeab69e8ce11218.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nEbBDYK0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0omvjmh853t9rf7b11pp.png)
 
 这个图像是通过将 RSpecZ 应用到我参与的一个项目的 rspec 代码中而创建的。
 

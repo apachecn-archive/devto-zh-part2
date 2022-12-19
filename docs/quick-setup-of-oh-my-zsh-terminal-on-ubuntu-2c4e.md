@@ -4,7 +4,7 @@
 
 厌倦了好看又无聊的终端？你想尝试一些不同的和时髦的东西吗？那么你一定要试试哦，我的天啊！作为开发者，我们不能否认命令行终端是我们存在的一部分。
 
-[![banner](../Images/6091f1fa3a15e045bf6a8f4f3bacfe3a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0ZVbgHEZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/lauragift/image/upload/v1524834046/Screenshot_from_2018-04-27_13-58-51_ffofu9.png)
+[![banner](img/6091f1fa3a15e045bf6a8f4f3bacfe3a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0ZVbgHEZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/lauragift/image/upload/v1524834046/Screenshot_from_2018-04-27_13-58-51_ffofu9.png)
 
 Oh-My-Zsh 是一个开源的、社区驱动的框架，用于管理您的 Zsh 配置。它捆绑了大量有用的功能、助手、插件、主题和一些会让你大叫的东西。
 
@@ -50,7 +50,7 @@ ZSH_THEME="agnoster"
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![agnoster](../Images/b97e968f55225e9c75acd6bdca36224a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XKuKiUPx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/lauragift/image/upload/v1524845811/Screenshot_from_2018-04-27_17-12-52_nlj66n.png)
+[![agnoster](img/b97e968f55225e9c75acd6bdca36224a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XKuKiUPx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/lauragift/image/upload/v1524845811/Screenshot_from_2018-04-27_17-12-52_nlj66n.png)
 
 **插件**
 

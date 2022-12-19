@@ -4,7 +4,7 @@
 
 2018 年是巨大趋势的一年。从人工智能到虚拟现实，大量新技术正在进入我们的日常生活。为了满足不断增长的需求，今天的任何企业都需要一个网站——最简单，但最强大的技术。一个连接你和客户的门户网站，你拥有的网站必须是一流的。网页设计被认为是每个网站最重要的部分。没有好的设计，吸引顾客的注意力是不可能的！如果你的网站没有好的设计，现在是你得到一个的时候了。然而，做得过了头仍然是个问题。那么如何知道自己的网站是否需要呢？
 
-[![Website Redesign Company Singapore](../Images/a2c5b7627c1beb10838536dca8b8e6bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QwIDxQD2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rymr3aqtv0qpwp6ulg6r.jpg)
+[![Website Redesign Company Singapore](img/a2c5b7627c1beb10838536dca8b8e6bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QwIDxQD2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rymr3aqtv0qpwp6ulg6r.jpg)
 
 **1)群集外观:**
 

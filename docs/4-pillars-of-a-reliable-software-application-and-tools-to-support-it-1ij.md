@@ -6,7 +6,7 @@
 
 我见过一些软件开发团队很慢，因为他们有很多技术债务。有些团队很天真，成员不想探索新事物。他们还停留在 10 年前的技术上，如 FTP、旧的遗留框架等。在这篇文章中，我将阐述一个可靠的软件应用程序的四个基本要素。这篇文章的内容是语言和框架不可知的。它适用于任何软件项目。
 
-[![4 pillars of a reliable software application and tools to support it](../Images/401a114ac43aea554fb6b7d04e4de06b.png "4 pillars of a reliable software application and tools to support it")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BYZh2dm9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://geshan.com.np/images/4-pillars-software-application/4-pillars-software-application.png)
+[![4 pillars of a reliable software application and tools to support it](img/401a114ac43aea554fb6b7d04e4de06b.png "4 pillars of a reliable software application and tools to support it")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BYZh2dm9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://geshan.com.img/4-pillars-software-application/4-pillars-software-application.png)
 
 **假设**
 

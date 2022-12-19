@@ -16,7 +16,7 @@
 *   搜索`Arduino SAMD Boards`
 *   安装板的核心库
 
-[![alt text](../Images/858a8ef4397c69c88bc1c426c506469d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hmgrFQpX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/e44b5b3-boards_manager_fox.png) 
+[![alt text](img/858a8ef4397c69c88bc1c426c506469d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hmgrFQpX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/e44b5b3-boards_manager_fox.png) 
 *Arduino 董事会经理*
 
 ### **将板卡连接到电脑上**
@@ -31,7 +31,7 @@
 为库重复安装:
 
 *   Arduino 低功耗
-*   RTCzero![alt text](../Images/3e0ac2d9526978fd898d60ab201e76e8.png)T1】SIG fox 库
+*   RTCzero![alt text](img/3e0ac2d9526978fd898d60ab201e76e8.png)T1】SIG fox 库
 
 ### **选择板卡和端口**
 
@@ -105,16 +105,16 @@ Enter fullscreen mode Exit fullscreen mode
 ### **查看串口监视器**
 
 *   点击右侧的`Screen Monitor`图标
-*   在监视器中，应该显示设备的 ID 和 PAC![alt text](../Images/88d8108c61b29172bb5f8f07ba707b0b.png)*板卡 ID 和 PAC 号*
+*   在监视器中，应该显示设备的 ID 和 PAC![alt text](img/88d8108c61b29172bb5f8f07ba707b0b.png)*板卡 ID 和 PAC 号*
 
 ### **用 Sigfox 注册设备**
 
 *   单击此处向 Sigfox 注册设备
-*   从列表中选择 Arduino 提供商，然后选择合适的国家![alt text](../Images/3910ad35dddeea3f2b1f4a0d8c5631f4.png) * Sigfox 提供商*
+*   从列表中选择 Arduino 提供商，然后选择合适的国家![alt text](img/3910ad35dddeea3f2b1f4a0d8c5631f4.png) * Sigfox 提供商*
 
 ### **输入设备信息**
 
-*   将您设备的 ID 和 PAC 输入 Sigfox ![alt text](../Images/61704588457a2a216827b4f8178b7371.png) * Sigfox 设备 ID 和 PAC*
+*   将您设备的 ID 和 PAC 输入 Sigfox ![alt text](img/61704588457a2a216827b4f8178b7371.png) * Sigfox 设备 ID 和 PAC*
 
 进入后，您必须登录或注册 Sigfox 帐户，才能在 Sigfox 仪表板上查看您的设备。
 
@@ -164,7 +164,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 *   去 Sigfox 仪表盘，链接是[这里](https://backend.sigfox.com/auth/login)
 *   在你的 Sigfox 账户上，点击`Device`标签，点击你的`Device ID`，点击`Messages`
-    [![alt text](../Images/512859ce9b1bd59cc6e9c80a91e709d7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--I4N8972R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/84051d0-Selection_022.png)
+    [![alt text](img/512859ce9b1bd59cc6e9c80a91e709d7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--I4N8972R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/84051d0-Selection_022.png)
     *SIG fox 消息*
 
 *   有效负载将以十六进制显示
@@ -180,12 +180,12 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果已经在 Sigfox 和 Wia 之间正确设置了回调，那么消息也应该显示在 Wia 中
 
-[![alt text](../Images/512859ce9b1bd59cc6e9c80a91e709d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I4N8972R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/84051d0-Selection_022.png)
+[![alt text](img/512859ce9b1bd59cc6e9c80a91e709d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I4N8972R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/84051d0-Selection_022.png)
 
 *   转到您的共享空间，那里有您的 Sigfox 集成
 *   在 Sigfox 网站上点击与 Sigfox 设备匹配的设备
 *   单击 events 选项卡，应该会显示 Sigfox 消息
 
-[![alt text](../Images/98454109309d3c11db9c74c85240a056.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cPWDRVI6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/2eccda2-wia_payload.png)
+[![alt text](img/98454109309d3c11db9c74c85240a056.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cPWDRVI6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/2eccda2-wia_payload.png)
 
 如果您在设置方面需要任何帮助，或者您不理解本教程，[发推特给我们](https://twitter.com/wiaio)，发电子邮件给 [support@wia.io](mailto:support@wia.io) 或者通过对讲机聊天。**

@@ -15,7 +15,7 @@
 
 我不知道怎么嵌入。 我已经困了，无所谓。
 
-[![tic-tac-toe](../Images/f2c9f32be45ffabc6b5dd83c7973899b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kMOKUfdV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mfljyqci2nvt0lgjqqf1.jpg)
+[![tic-tac-toe](img/f2c9f32be45ffabc6b5dd83c7973899b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kMOKUfdV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mfljyqci2nvt0lgjqqf1.jpg)
 
 内容是将 React 的[在这一页](https://reactjs.org/tutorial/tutorial.html)中写的多点游戏( tic-tac-toe )转换为 stateless functional components + redux ( react-redux，redux-) 我有代码比较脏的自信。
 

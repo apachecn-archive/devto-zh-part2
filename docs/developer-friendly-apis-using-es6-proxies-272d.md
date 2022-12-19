@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/khaled_garbaya/developer-friendly-apis-using-es6-proxies-272d>
 
-[![book-1659717 1920](../Images/5e613b51922a1056fb3307e921d58999.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h-6xxrDy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/3bc97k4uk5q7/SDyuqsnJkIiYU86AmIkuw/a571a5c56eb71558bec1baf91d46febc/book-1659717_1920.jpg)
+[![book-1659717 1920](img/5e613b51922a1056fb3307e921d58999.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h-6xxrDy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/3bc97k4uk5q7/SDyuqsnJkIiYU86AmIkuw/a571a5c56eb71558bec1baf91d46febc/book-1659717_1920.jpg)
 
 我尝试了很多 javascript 的新特性，并且总是试图为它们找到一个真正的用例。最近我是代理的忠实粉丝，让我感兴趣的是拦截对对象属性的访问并改变其行为的能力。
 
@@ -185,7 +185,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-我们将在控制台中得到这个输出。[![console-wwarning](../Images/583d8e3e4ad49276addffc93a8fcc717.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h8JLjI53--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/3bc97k4uk5q7/5nlgO5eOKkMKKy0QC266oi/c66c5ac3e1028952f2db18d2e943e14e/console-wwarning.png)
+我们将在控制台中得到这个输出。[![console-wwarning](img/583d8e3e4ad49276addffc93a8fcc717.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h8JLjI53--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/3bc97k4uk5q7/5nlgO5eOKkMKKy0QC266oi/c66c5ac3e1028952f2db18d2e943e14e/console-wwarning.png)
 
 > 就这样，服务消费者日复一日地活着，因为他急切地期待着前一天晚上故事的结束。一千零一夜和一千个故事结束时，山鲁佐德告诉国王，她没有更多的故事要告诉他了。在这一千零一夜中，国王爱上了山鲁佐德。他饶了她一命，立她为王后。
 
@@ -193,11 +193,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 是的，因为大多数主流浏览器已经支持它了。
 
-[![Proxy object browser support](../Images/3acc628a8d33597b863699fbcff3b9dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jw6Nkgdj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/3bc97k4uk5q7/65RsHTojIseQYaiAmi6oa8/cdf5858c7c03395aa0d158c729fc997d/Proxy_object_browser_support.png)
+[![Proxy object browser support](img/3acc628a8d33597b863699fbcff3b9dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jw6Nkgdj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/3bc97k4uk5q7/65RsHTojIseQYaiAmi6oa8/cdf5858c7c03395aa0d158c729fc997d/Proxy_object_browser_support.png)
 
 Nodejs 也一样，因为完全支持 6.9 版代理对象
 
-[![Proxy object nodejs support](../Images/3e455dc43cf440d938edc1545065158f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v_F9O-Qq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/3bc97k4uk5q7/4lbxNUYrDOASkACAKkoQAe/5be0f42ca7b57f3dbdec0cebe761f361/Proxy_object_nodejs_support.png)
+[![Proxy object nodejs support](img/3e455dc43cf440d938edc1545065158f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v_F9O-Qq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/3bc97k4uk5q7/4lbxNUYrDOASkACAKkoQAe/5be0f42ca7b57f3dbdec0cebe761f361/Proxy_object_nodejs_support.png)
 
 ## 还能做什么？
 

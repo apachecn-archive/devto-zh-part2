@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ryanmiller/can-use-of-mobile-applications-aid-in-increasing-productivity-of-oil-and-gas-industries-4pck>
 
-[![Mobile Applications Aid in Increasing Productivity of Oil and Gas Industries](../Images/9e8006bcd859045634d1b48d003382a9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yObgjhn1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/yBasyc6.png) 
+[![Mobile Applications Aid in Increasing Productivity of Oil and Gas Industries](img/9e8006bcd859045634d1b48d003382a9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yObgjhn1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/yBasyc6.png) 
 员工经常在偏远的现场工作，因此非常依赖耐用智能手机的使用。提取数据需要时间，对时间敏感，并对公司的销售和收入产生重大影响。移动和虚拟员工的多样化和分布将这一挑战带到了一个新的高度，这是过去的技术无法解决的。
 
 随着新的工作方式以及高度竞争和快速变化的业务环境的出现，实时共享敏捷信息变得越来越重要。[顶级移动应用程序开发公司](https://www.itfirms.co/top-mobile-app-development-companies/)在他们开发的每个应用程序中采用一些通用的协作驱动因素:

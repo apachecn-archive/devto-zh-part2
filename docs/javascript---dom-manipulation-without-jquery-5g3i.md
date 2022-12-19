@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/wiaio/javascript---dom-manipulation-without-jquery-5g3i>
 
-[![alt text](../Images/a908fd92a49d415e92684baec14de6d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DRq6p1Cp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-06-29/1530273375-100728-blog-04.png)
+[![alt text](img/a908fd92a49d415e92684baec14de6d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DRq6p1Cp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-06-29/1530273375-100728-blog-04.png)
 
 通常，开发人员倾向于依赖像 jQuery 这样的库来进行基本的 DOM 操作，比如查询元素、添加/删除类、添加事件监听器等。许多资源都指出 jQuery 是解决这些问题的解决方案，但是实际上，仅仅使用它作为基础可能对您的网站来说是大材小用。普通的 Javascript DOM API 比基本的 DOM 操作更有能力，而放弃 jQuery 将意味着页面加载速度的降低！下面是普通 Javascript 的基本内容。
 

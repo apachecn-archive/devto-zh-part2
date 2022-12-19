@@ -10,7 +10,7 @@
 
 ## “科技”控制的不仅仅是科技
 
-[![tech controls the world](../Images/38e7e8f9d92fd311cb0238f916da89ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9Hf2Qacx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k1ipejmce8n3k7lck1dr.jpg)
+[![tech controls the world](img/38e7e8f9d92fd311cb0238f916da89ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9Hf2Qacx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k1ipejmce8n3k7lck1dr.jpg)
 
 科技产业包括制药、机器人、生物工程和食品生产等各个领域。很难找到考虑到女性的产品，因为女性不是产品的制造者。
 
@@ -18,7 +18,7 @@
 
 ## 只有女人知道女人处理的问题
 
-[![women know women's problems the best](../Images/ea70ff7f9e4b15c5ce408f5664269939.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QOEDMGZW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/acikxqnn5993fnc5vfu5.jpg)
+[![women know women's problems the best](img/ea70ff7f9e4b15c5ce408f5664269939.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QOEDMGZW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/acikxqnn5993fnc5vfu5.jpg)
 
 有很多伟大的男人试图帮助女性创造东西，但他们不明白我们问题的根源。一个男人永远不需要制造完美的卫生棉条，因为他不需要卫生棉条。
 
@@ -28,7 +28,7 @@
 
 ## 女人擅长数学和科学
 
-[![women are great at math and science](../Images/77426d47ad512f07fd527662b74b7ec8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZDEt2igg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iohpbkg2gt87qc0eysx6.jpg)
+[![women are great at math and science](img/77426d47ad512f07fd527662b74b7ec8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZDEt2igg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iohpbkg2gt87qc0eysx6.jpg)
 
 是一个女人发现辐射来自原子(玛丽·居里)。编写第一台计算机程序的是一群女性(凯·麦纽提、贝蒂·詹宁斯、贝蒂·斯奈德、玛琳·韦斯科夫、弗兰·比拉斯和露丝·利奇特曼)。
 
@@ -38,7 +38,7 @@
 
 ## 大多数女性已经是科技的一部分，却没有意识到这一点
 
-[![women have always been a part of tech](../Images/a2bcceb764749f0911be26eff2f010d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IhnrDvoY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/exhhsj46bgww13t92rur.jpg)
+[![women have always been a part of tech](img/a2bcceb764749f0911be26eff2f010d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IhnrDvoY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/exhhsj46bgww13t92rur.jpg)
 
 女人在不同种类的产品上花了很多钱，所以她们可以把她们买的所有东西拼凑起来，做出自己的解决方案。这是科技的一大部分:利用你的资源制造你需要的东西。
 
@@ -46,7 +46,7 @@
 
 ## 如果妇女没有平等的技能或代表权，她们就不可能平等
 
-[![equality means equal in skill](../Images/4bde233c91506c6c80a4aabc81d51ae9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z9S_mK2H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mn4wk59jexz5kl8x3xd0.jpg)
+[![equality means equal in skill](img/4bde233c91506c6c80a4aabc81d51ae9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z9S_mK2H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mn4wk59jexz5kl8x3xd0.jpg)
 
 你有没有注意到大多数护士是女性，大多数程序员是男性？没有办法比较这两者，也不应该比较它们，因为护理和编程是完全不同的领域。
 

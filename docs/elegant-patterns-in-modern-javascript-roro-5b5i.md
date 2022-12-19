@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/billsourour/elegant-patterns-in-modern-javascript-roro-5b5i>
 
-[![](../Images/b48b8091bed35b7f8efaa552d4eaf713.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mde8R_69--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5ui7h5hll0p7z57474vd.jpg)
+[![](img/b48b8091bed35b7f8efaa552d4eaf713.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mde8R_69--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5ui7h5hll0p7z57474vd.jpg)
 
 JavaScript 语言发明后不久，我就写了我的前几行代码。如果你当时告诉我，有一天我会写一系列关于 JavaScript 中的**优雅**模式的文章[的话，我会笑得把你赶出房间。我认为 JavaScript 是一种奇怪的小语言，几乎称不上“真正的编程”](https://medium.com/search?q=Elegant%20patterns%20in%20JavaScript)
 

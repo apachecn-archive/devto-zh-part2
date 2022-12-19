@@ -16,7 +16,7 @@
 
 综上所述，如果你想下载游戏项目文件。我会在这里给你留下项目回购的链接。
 
-## ![](../Images/375dfcc32199b4dedf2b526645c27ff7.png)[gwartney 21](https://github.com/gwartney21)/[theescapezzle](https://github.com/gwartney21/TheEscapePuzzle)
+## ![](img/375dfcc32199b4dedf2b526645c27ff7.png)[gwartney 21](https://github.com/gwartney21)/[theescapezzle](https://github.com/gwartney21/TheEscapePuzzle)
 
 ### 如果可以的话，逃离房子。找到所有的谜题，打开门，逃离房子。
 
@@ -34,6 +34,6 @@
 
 [View on GitHub](https://github.com/gwartney21/TheEscapePuzzle)
 
-[![firstfloor](../Images/8f5c89de23ab99862a9e784d7b69b59e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vW64yuh9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tpz3flg13uoh8iz8a4qm.png)
+[![firstfloor](img/8f5c89de23ab99862a9e784d7b69b59e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vW64yuh9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tpz3flg13uoh8iz8a4qm.png)
 
-[![seconedfloor](../Images/ea2fe1c0f1dd9ff1f6915dd4a93388b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lz17mozd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/53598sjo0lnk448xq204.png)
+[![seconedfloor](img/ea2fe1c0f1dd9ff1f6915dd4a93388b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lz17mozd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/53598sjo0lnk448xq204.png)

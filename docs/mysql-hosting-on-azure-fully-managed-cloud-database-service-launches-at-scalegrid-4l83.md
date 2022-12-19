@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/scalegrid/mysql-hosting-on-azure-fully-managed-cloud-database-service-launches-at-scalegrid-4l83>
 
-[![Shared MongoDB Hosting: Slow Query Analysis - ScaleGrid](../Images/fdd8e907586d8f37d71905fff005e518.png)T2】](https://scalegrid.io/blog/press-release-mysql-hosting-on-azure-fully-managed-cloud-database-service-launches-at-scalegrid/)
+[![Shared MongoDB Hosting: Slow Query Analysis - ScaleGrid](img/fdd8e907586d8f37d71905fff005e518.png)T2】](https://scalegrid.io/blog/press-release-mysql-hosting-on-azure-fully-managed-cloud-database-service-launches-at-scalegrid/)
 
 在 [MongoDB 托管](https://scalegrid.io/mongodb.html)和 [Redis 托管](https://scalegrid.io/redis.html)中崛起的领导者 ScaleGrid ，刚刚宣布支持他们的第一个 SQL 数据库，完全托管 [MySQL 托管](https://scalegrid.io/mysql.html)。先进的数据库即服务(DBaaS)解决方案允许各种规模的企业优化其 MySQL 部署，支持多种云，无供应商锁定，并在领先的云提供商 [Microsoft Azure](https://scalegrid.io/mysql/azure.html) 上提供专用服务器，并支持 [MySQL on AWS](https://scalegrid.io/mysql/aws.html) 快速跟进。
 

@@ -26,61 +26,61 @@
 
 ## 孩子的姿势
 
-[![](../Images/a3ecf9d032f1b217652a2e1375f0afe2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--m0CaYTD2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://xn--s28hk2c.ws/images/yoga/ChildsPose.png)
+[![](img/a3ecf9d032f1b217652a2e1375f0afe2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--m0CaYTD2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://xn--s28hk2c.img/yoga/ChildsPose.png)
 
 ## 高山姿势
 
-[![](../Images/2d0c477ad678accb62d94a9cb3ac877a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SBrcVN3A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://xn--s28hk2c.ws/images/yoga/HighMountainPose.png) 
+[![](img/2d0c477ad678accb62d94a9cb3ac877a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SBrcVN3A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://xn--s28hk2c.img/yoga/HighMountainPose.png) 
 笔直挺拔，双手向上伸展
 
 ## 向前折叠
 
-[![](../Images/00d6dfed14f9d3dbf2d7b2d5feb9e320.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pIBXryZ---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://xn--s28hk2c.ws/images/yoga/ForwardFold.png) 
+[![](img/00d6dfed14f9d3dbf2d7b2d5feb9e320.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pIBXryZ---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://xn--s28hk2c.img/yoga/ForwardFold.png) 
 从臀部完全向前弯曲
 
 ## 中途解除
 
-[![](../Images/1cca05ffa61265bc5b4a8e72df6367c2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YxVOVAWE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://xn--s28hk2c.ws/images/yoga/HalfwayLift.png) 
+[![](img/1cca05ffa61265bc5b4a8e72df6367c2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YxVOVAWE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://xn--s28hk2c.img/yoga/HalfwayLift.png) 
 从臀部半途向前弯曲，挺直背部
 
 ## Chaturanga
 
-[![](../Images/c47f1b1d395ce1bccbeaf7dd62487c68.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2VlxGQCm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://xn--s28hk2c.ws/images/yoga/Chaturanga.png) 
+[![](img/c47f1b1d395ce1bccbeaf7dd62487c68.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2VlxGQCm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://xn--s28hk2c.img/yoga/Chaturanga.png) 
 俯卧撑姿势，双肘呈 90 度
 
 ## 面朝上犬
 
-[![](../Images/587de58371fc4b5ddc8e081a263c7306.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UseLpgLc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://xn--s28hk2c.ws/images/yoga/UpwardFacingDog.png) 
+[![](img/587de58371fc4b5ddc8e081a263c7306.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UseLpgLc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://xn--s28hk2c.img/yoga/UpwardFacingDog.png) 
 向上抬起，打开胸腔
 
 ## 下犬
 
-[![](../Images/cd34bded4b6fd3b4b4d8d7e94bccf6de.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CWiyVlfV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://xn--s28hk2c.ws/images/yoga/DownwardFacingDog.png) 
+[![](img/cd34bded4b6fd3b4b4d8d7e94bccf6de.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CWiyVlfV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://xn--s28hk2c.img/yoga/DownwardFacingDog.png) 
 腰部弯曲，直线贯穿手臂和背部
 
 ## 战士 2 姿势
 
-[![](../Images/c234eeddfd27a2601e1d80b740c86934.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--U8sWYfmU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://xn--s28hk2c.ws/images/yoga/Warrior2.png) 
+[![](img/c234eeddfd27a2601e1d80b740c86934.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--U8sWYfmU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://xn--s28hk2c.img/yoga/Warrior2.png) 
 前脚伸直，膝盖弯曲，后脚呈 90 度
 
 ## 延伸侧角
 
-[![](../Images/5b98d83215f7259c7f97eb1fe8baee38.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--isPK3mtE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://xn--s28hk2c.ws/images/yoga/ExtendedSideAngle.png) 
+[![](img/5b98d83215f7259c7f97eb1fe8baee38.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--isPK3mtE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://xn--s28hk2c.img/yoga/ExtendedSideAngle.png) 
 来自战士 2，前腿前倾
 
 ## 逆转战士
 
-[![](../Images/d86777b60537244c2c0e1d5317cc2bd5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--D4J5vfn8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://xn--s28hk2c.ws/images/yoga/ReverseWarrior.png) 
+[![](img/d86777b60537244c2c0e1d5317cc2bd5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--D4J5vfn8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://xn--s28hk2c.img/yoga/ReverseWarrior.png) 
 从战士 2 开始，向后拱起，保持前腿弯曲
 
 ## 乌地卡塔纳椅子姿势
 
-[![](../Images/ea4b09eff1b9ed5690fe0e28c65d4cbc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZuyCGmXz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://xn--s28hk2c.ws/images/yoga/UtkatasanaChairPose.png) 
+[![](img/ea4b09eff1b9ed5690fe0e28c65d4cbc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZuyCGmXz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://xn--s28hk2c.img/yoga/UtkatasanaChairPose.png) 
 脚尖并拢，屈膝，背部挺直
 
 ## [战](#savasana)
 
-[![](../Images/bfd0e97753473d7d4ea341ef1b43b814.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yU-fTEQ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://xn--s28hk2c.ws/images/yoga/Savasana.png) 
+[![](img/bfd0e97753473d7d4ea341ef1b43b814.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yU-fTEQ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://xn--s28hk2c.img/yoga/Savasana.png) 
 休息姿势，仰卧，摊开为舒服
 
 # 算法

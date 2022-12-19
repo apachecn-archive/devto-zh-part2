@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ns23/a-python-script-that-shows-the-distribution-of-it-companies-in-goa-india-2jjj>
 
-[![IT companies in Goa](../Images/117038661036c32eefa2297cc2b4fcbb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KnkAjOC4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gpumppfwyv8fuwp05btv.png)
+[![IT companies in Goa](img/117038661036c32eefa2297cc2b4fcbb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KnkAjOC4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gpumppfwyv8fuwp05btv.png)
 
 最近我在用 python 的 *BeautifulSoup* 库学习网络抓取。在学习了网络抓取的基本概念后，我想用它来写一些真实世界的程序。
 

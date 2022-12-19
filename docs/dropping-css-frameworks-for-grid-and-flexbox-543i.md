@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/alakra/dropping-css-frameworks-for-grid-and-flexbox-543i>
 
-[![Dropping CSS frameworks for Grid and Flexbox](../Images/b1fb972d55a65085142a1c8053d9aed3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GX_aqQHQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1504454449875-92cfa39e1315%3Fixlib%3Drb-0.3.5%26q%3D80%26fm%3Djpg%26crop%3Dentropy%26cs%3Dtinysrgb%26w%3D1080%26fit%3Dmax%26ixid%3DeyJhcHBfaWQiOjExNzczfQ%26s%3D6561d4b681332e316e7f21a6228ad9c8)
+[![Dropping CSS frameworks for Grid and Flexbox](img/b1fb972d55a65085142a1c8053d9aed3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GX_aqQHQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1504454449875-92cfa39e1315%3Fixlib%3Drb-0.3.5%26q%3D80%26fm%3Djpg%26crop%3Dentropy%26cs%3Dtinysrgb%26w%3D1080%26fit%3Dmax%26ixid%3DeyJhcHBfaWQiOjExNzczfQ%26s%3D6561d4b681332e316e7f21a6228ad9c8)
 
 从 2000 年到 2010 年，我一直在一个充斥着 CSS 黑客的世界里进行开发。我习惯了浮动、内嵌阻塞和清除补丁来管理布局。几年前我曾试图学习使用 flexbox，但那是在它刚推出的时候，大多数属性都是浏览器前缀，并不总是一致地工作。所以我放弃了，暂时放下前端开发，等待事情成熟。
 

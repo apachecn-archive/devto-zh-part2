@@ -179,25 +179,25 @@ Enter fullscreen mode Exit fullscreen mode
 
 您应该会看到安装页面提示，如下所示:
 
-[![Gogs install page](../Images/c4f4af754dc9186770d571d420abd151.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WILdYrHd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://bojanab.tech/img/gogs-install-firsttimerum1.png)
+[![Gogs install page](img/c4f4af754dc9186770d571d420abd151.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WILdYrHd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://bojanab.tech/img/gogs-install-firsttimerum1.png)
 
 填写表单以匹配您的用户和数据库设置，以及涉及应用程序端口、url 和日志路径的其余配置，如下所示
 
-[![Gogs install page](../Images/ed2422bd92e3fb96fc5de02351f51e45.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--58AF452Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://bojanab.tech/img/install-gogs.png)
+[![Gogs install page](img/ed2422bd92e3fb96fc5de02351f51e45.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--58AF452Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://bojanab.tech/img/install-gogs.png)
 
 然后点击“安装 Gogs”。如果一切顺利，您可能会被重定向到用户登录页面。但是，“locahost”将被用作主机名，所以用您的 pi 的 IP 地址替换它，这样您就可以在新安装的 gogs 上创建帐户。
 
-[![Replace localhost with ip](../Images/2792227b61cf3b3e6de64d0f374419d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L5sbD_te--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://bojanab.tech/img/localhostshouldbeipaddress.png)
+[![Replace localhost with ip](img/2792227b61cf3b3e6de64d0f374419d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L5sbD_te--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://bojanab.tech/img/localhostshouldbeipaddress.png)
 
-[![Gogs sign in page](../Images/1bb874d0f6a80d9d403fa197ff644818.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6eNcF73Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://bojanab.tech/img/signinggogs.png)
+[![Gogs sign in page](img/1bb874d0f6a80d9d403fa197ff644818.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6eNcF73Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://bojanab.tech/img/signinggogs.png)
 
 现在，您可以点击“立即注册”来创建您的新帐户。
 
-[![Gogs sign up page](../Images/00208a17048c43259137909b8d42bd6a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hptUqYvG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://bojanab.tech/img/gogssignup.png)
+[![Gogs sign up page](img/00208a17048c43259137909b8d42bd6a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hptUqYvG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://bojanab.tech/img/gogssignup.png)
 
 现在，您可以使用新创建的帐户登录，并开始创建回购！
 
-[![Gogs dashboard](../Images/a8faaeae40984131e5ffdb82e5c063b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9kaN2ha5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://bojanab.tech/img/gogsdashboard.png)
+[![Gogs dashboard](img/a8faaeae40984131e5ffdb82e5c063b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9kaN2ha5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://bojanab.tech/img/gogsdashboard.png)
 
 现在我们不想用。/gogs web 每当我们失去与 pi 的 ssh 连接时，最好将 gogs 作为守护进程来运行，这样它就可以在后台运行，并且始终处于开启状态。
 

@@ -4,7 +4,7 @@
 
 ### 改变网络，一次一张小狗图片
 
-[![Riley](../Images/8e3655a5c2f493463a43de365a9aab49.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5ikRuKtv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c8q64tgpqsalyen1tpv2.jpg)
+[![Riley](img/8e3655a5c2f493463a43de365a9aab49.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5ikRuKtv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c8q64tgpqsalyen1tpv2.jpg)
 
 让我们来谈谈浏览器扩展，或者更具体地说，如何构建你的第一个 Chrome 扩展。几周前我去了一个班级，在那里我们用几行代码创建了这个非常愚蠢的扩展，玩得很开心。我想我会分享它，所以你们都可以尝试一下，甚至可以扩展一下。
 
@@ -22,7 +22,7 @@
 
 在本地克隆以下 repo 以获取启动文件:[https://github.com/himashi99/chrome-extension](https://github.com/himashi99/chrome-extension)
 
-[![File Structure](../Images/ed82a6b89d259afe7d42f5372a622999.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gTIEEWQB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yybn2q6i6wcnm0ahtx0c.png)
+[![File Structure](img/ed82a6b89d259afe7d42f5372a622999.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gTIEEWQB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yybn2q6i6wcnm0ahtx0c.png)
 
 1.  你的文件夹结构应该类似上面。
 
@@ -82,23 +82,23 @@ Enter fullscreen mode Exit fullscreen mode
 
 打开 Chrome，进入扩展管理器
 
-[![Extension Manaer](../Images/d71f6446dbfbbdebda5ea85130dd8b8b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--13x1MLc---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gbqghutrod2kpsnrlpwr.png)T3】
+[![Extension Manaer](img/d71f6446dbfbbdebda5ea85130dd8b8b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--13x1MLc---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gbqghutrod2kpsnrlpwr.png)T3】
 
 我们需要让 Chrome 知道我们是厉害的开发者，所以让我们打开右上角的“开发者模式”。这将允许我们加载自己的扩展。
 
-[![Developer Mode](../Images/656da49369c45e5af28973f7e3db1a5d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_6QoCve6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/75kouk073kpdou8r6ia9.png)T3】
+[![Developer Mode](img/656da49369c45e5af28973f7e3db1a5d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_6QoCve6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/75kouk073kpdou8r6ia9.png)T3】
 
 点击“加载解压”并选择你的“铬-扩展”文件夹。
 
-[![Load Extension](../Images/4e95d4edcc0cd356473a01d160bf591d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Is8TaApp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xo881688wmpo5e0wblvq.png)T3】
+[![Load Extension](img/4e95d4edcc0cd356473a01d160bf591d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Is8TaApp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xo881688wmpo5e0wblvq.png)T3】
 
 好吧！我们现在已经加载了我们的扩展。你应该在扩展管理器中看到扩展，在谷歌浏览器工具栏中看到图标。图标将变灰且不活动。
 
-[![Extension Icon](../Images/2bbbabfb76a3f80d0bf3722466e98713.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0K_EZD-i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n2oywd6iukv8q24cxf3i.png)T3】
+[![Extension Icon](img/2bbbabfb76a3f80d0bf3722466e98713.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0K_EZD-i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n2oywd6iukv8q24cxf3i.png)T3】
 
 如果此时对 JSON 文件做了任何更改，可以点击扩展上的刷新按钮。
 
-[![Refresh](../Images/4e31004228e311d21f51f1daca552a58.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2juIY80a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hwm0z41wcw77r9jsds3i.png)T3】
+[![Refresh](img/4e31004228e311d21f51f1daca552a58.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2juIY80a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hwm0z41wcw77r9jsds3i.png)T3】
 
 ### scripts.js 文件
 
@@ -155,7 +155,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 2.  打开一个新标签，你应该看到你的图标现在是活跃的，不再是灰色的。
 
-[![Active Icon](../Images/cc16cef5f979c28accc86338919bc3c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q8F6V_RV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xn8et6kqev43hnpdj2g4.png)
+[![Active Icon](img/cc16cef5f979c28accc86338919bc3c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q8F6V_RV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xn8et6kqev43hnpdj2g4.png)
 
 我们终于完成了所有的设置工作，可以开始有趣的部分了！
 

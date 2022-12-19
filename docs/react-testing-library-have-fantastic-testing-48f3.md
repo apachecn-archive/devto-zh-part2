@@ -6,7 +6,7 @@
 
 *查看我的另一篇关于测试的文章，以及我所知道的关于测试的更多信息* [*“让 JavaScript 测试为你工作”*](https://medium.com/yazanaabed/what-i-know-about-testing-in-javascript-6657d2188c3a) *。*
 
-<figure>[![](../Images/809fccbec329a0c1d63a0d8f95ff2883.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BL1Mg4X_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ANZHHyLwNW_0dS3HE) 
+<figure>[![](img/809fccbec329a0c1d63a0d8f95ff2883.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BL1Mg4X_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ANZHHyLwNW_0dS3HE) 
 
 <figcaption>照片由[辛尼斯](https://unsplash.com/@siniz?utm_source=medium&utm_medium=referral)上[下](https://unsplash.com?utm_source=medium&utm_medium=referral)</figcaption>
 
@@ -30,15 +30,15 @@ React-testing-library 是一个很小的库，它改变了你处理 DOM 元素�
 
 检查这个例子，当你改变测试元素的选择器时，事情是如何发生的。
 
-[![](../Images/bfe81bde0c6b8acaa74109d5c95c90fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QAkHs1wI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AuV-Ndde361wFQNQEI8813g.png)
+[![](img/bfe81bde0c6b8acaa74109d5c95c90fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QAkHs1wI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AuV-Ndde361wFQNQEI8813g.png)
 
-[![](../Images/a6dcf182fc330250b62f44b344cd399e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HSLLOm-A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A6Ozt07wyOekoI2_hjvosXQ.png)
+[![](img/a6dcf182fc330250b62f44b344cd399e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HSLLOm-A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A6Ozt07wyOekoI2_hjvosXQ.png)
 
 如果由于错误或者由于你的团队成员之一的要求，把类选择器从“登录按钮”改成了别的什么，这将会中断你的测试，并且每次选择器改变时都需要改变测试。
 
 为了解决这个问题，我们可以使用 react-testing-library 通过在组件内部搜索登录文本来解决选择器问题。
 
-[![](../Images/fe3e5779b516ee7b1c3a2a6b4d12a41e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--35eIOxC4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aizrhxvkl5CdidapdOuV7Hw.png)
+[![](img/fe3e5779b516ee7b1c3a2a6b4d12a41e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--35eIOxC4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aizrhxvkl5CdidapdOuV7Hw.png)
 
 对我来说，第二个例子更容易理解为你正在搜索一个登录按钮，你想点击它。在这个例子中，您将模拟用户行为。
 
@@ -60,9 +60,9 @@ React-testing-library 是一个很小的库，它改变了你处理 DOM 元素�
 
 此外，不要忘记在每次测试之前清除测试，您可以开玩笑地使用 abeforeEach 方法，也可以使用 react-testing-library util，称为每次测试后清除。你只需要这样从库中导入:导入“react-testing-library/clean up-after-each”；
 
-[![](../Images/af1be9bde5046b6ff05fc8944970c668.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4Vvmr_YJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ac26CycmIpP8vIAZMMZfyzA.png)
+[![](img/af1be9bde5046b6ff05fc8944970c668.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4Vvmr_YJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ac26CycmIpP8vIAZMMZfyzA.png)
 
-[![](../Images/40b8826778ffec4c033021473cc5e2db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--65LHFViP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AeWcRFeoK0ZocwdUliKkrPQ.png)
+[![](img/40b8826778ffec4c033021473cc5e2db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--65LHFViP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AeWcRFeoK0ZocwdUliKkrPQ.png)
 
 测试是必不可少的，不要让它成为应用程序开发阶段的次要项目。这将使您确信您的应用程序在每个版本中都可以正常工作。
 

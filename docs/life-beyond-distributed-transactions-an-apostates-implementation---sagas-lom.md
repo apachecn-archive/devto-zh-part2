@@ -54,7 +54,7 @@
 
 如果我们的订单被拒绝，我们需要释放库存。如果我们没有足够的库存，我们需要取消批准(拒绝)我们的订单。和我们的例子一样，我们需要一些东西来协调这个活动——我们的故事。但与其称之为一般的“传奇”，不如给它起个有意义的名字——`OrderFulfillmentSaga`:
 
-[![](../Images/281e6bb132ae296efcc382862a2cf2a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z283MXAr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jimmybogardsblog.blob.core.windows.net/jimmybogardsblog/8/2018/Picture0055.png)
+[![](img/281e6bb132ae296efcc382862a2cf2a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z283MXAr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jimmybogardsblog.blob.core.windows.net/jimmybogardsblog/8/2018/Picture0055.png)
 
 这个 saga 将协调订单请求和库存的活动。因为我们需要这个 saga 具有与其他两个文档相同的通信属性，所以我们可以简单地将这个 saga 建模为带有收件箱/发件箱的另一个文档！
 
@@ -385,7 +385,7 @@ public void Handle(OrderFulfillmentSuccessful message)
 
 整个消息流如下所示:
 
-[![](../Images/0172b3a4227e168d186e5e1377bb68e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HM_xG7L9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jimmybogardsblog.blob.core.windows.net/jimmybogardsblog/8/2018/Picture0056.png)
+[![](img/0172b3a4227e168d186e5e1377bb68e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HM_xG7L9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jimmybogardsblog.blob.core.windows.net/jimmybogardsblog/8/2018/Picture0056.png)
 
 对于这一过程中的每一步，收件箱/发件箱结构都为我们处理了幂等性。然而，我们仍然需要处理无序的消息，这就是为什么每次我们收到通知时，您都会看到成功/失败检查。
 
@@ -510,7 +510,7 @@ public void Handle(CancelOrderRequest message)
 
 有了我们的失败流，消息流看起来像这样:
 
-[![](../Images/f8d1a56f0c92081a58be990c5b4a1f5f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eAs2oL71--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jimmybogardsblog.blob.core.windows.net/jimmybogardsblog/8/2018/Picture0057.png)
+[![](img/f8d1a56f0c92081a58be990c5b4a1f5f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eAs2oL71--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jimmybogardsblog.blob.core.windows.net/jimmybogardsblog/8/2018/Picture0057.png)
 
 我们的订单执行传奇现在可以处理管理库存和订单批准的复杂流程，跟踪过程中的每个步骤，并在收到通知时处理成功/失败。它处理等幂、重试和交换/无序消息。
 

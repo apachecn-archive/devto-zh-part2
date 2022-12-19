@@ -4,7 +4,7 @@
 
 # 如何吸引顾客到你的电子商务市场
 
-[![Alt text of image](../Images/dd654245460b00683f87c7d28bd65941.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--f_4kbze2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ugzmweta8esgitk96zbz.png) 
+[![Alt text of image](img/dd654245460b00683f87c7d28bd65941.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--f_4kbze2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ugzmweta8esgitk96zbz.png) 
 对于一个电子商务创业者来说，最重要的工作就在他们的电子商务网站 推出后的 **[开始。如果没有一个清晰的策略来吸引你的潜在客户，找出目标受众并吸引他们可能是一项艰巨的任务。](https://www.webnexs.com/ecommerce-solutions.php?utm_source=devto&utm_medium=article&utm_term=Ecommerce&utm_campaign=praveen)**
 
 凝聚力和营销策略的准确结合将帮助你吸引更多的访问者到你的电子商务市场。据说更多的创业公司和创业者不管一个理想的营销组合都失败了。

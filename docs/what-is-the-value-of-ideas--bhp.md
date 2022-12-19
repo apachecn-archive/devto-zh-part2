@@ -42,7 +42,7 @@
 
 Jakob Storjohann 是 Ideanote 的首席执行官，这是一家 SaaS 公司，开发了一个简单的结果驱动平台来处理想法。与 Ideanote 团队的其他成员一起，Jakob 重新定义了日常创新，并帮助企业将创意转化为实际价值。
 
-[![](../Images/a83937d1f8dfe3adccad2335756ab2f0.png)T2】](https://apiumhub.com/wp-content/uploads/2018/04/jakobsbo_360-1.jpg)
+[![](img/a83937d1f8dfe3adccad2335756ab2f0.png)T2】](https://apiumhub.com/wp-content/uploads/2018/04/jakobsbo_360-1.jpg)
 
 如果你有兴趣了解更多关于创意价值的信息，点击这里订阅我们的每月简讯[。](http://eepurl.com/cC96MY)
 

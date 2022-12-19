@@ -40,7 +40,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 示例应用程序设计最初的灵感来自于 *Twitter* mobile，但它可以用作不同类型项目的基础。
 
-[![Web App 4-1](../Images/83ee9d4a785d454e1eea01f45aab3d27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ijJ-kqsY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f3mib65guw55oj39n83k.gif)
+[![Web App 4-1](img/83ee9d4a785d454e1eea01f45aab3d27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ijJ-kqsY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f3mib65guw55oj39n83k.gif)
 
 设计总结:
 
@@ -116,7 +116,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 阅读下一篇:
 
-[![genejams](../Images/ab410dc05437d55e52306d6bb995095d.png)](/genejams) [## 使用 zuix.js 在浏览器中捆绑 Web 应用程序
+[![genejams](img/ab410dc05437d55e52306d6bb995095d.png)](/genejams) [## 使用 zuix.js 在浏览器中捆绑 Web 应用程序
 
 ### { Gene } Aug 1 ' 184 分钟读取
 

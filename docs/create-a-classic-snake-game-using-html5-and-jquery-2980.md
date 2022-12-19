@@ -8,6 +8,6 @@
 
 使用 HTML5 和 JQuery 创建一个经典的贪吃蛇游戏
 
-[![](../Images/9a9a9d518ac98b4e56bea02eabcd906c.png "Create A Classic Snake Game Using HTML5 and JQuery")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ylb5YRA1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://4.bp.blogspot.com/-Z-NQIpBxjkI/WiQj2jcyRuI/AAAAAAAABDs/so6g68L4ou4y9ck-4wBEePNi4lnuPO1QwCPcBGAYYCw/s320/Capture12.PNG)
+[![](img/9a9a9d518ac98b4e56bea02eabcd906c.png "Create A Classic Snake Game Using HTML5 and JQuery")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ylb5YRA1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://4.bp.blogspot.com/-Z-NQIpBxjkI/WiQj2jcyRuI/AAAAAAAABDs/so6g68L4ou4y9ck-4wBEePNi4lnuPO1QwCPcBGAYYCw/s320/Capture12.PNG)
 
 [https://www.youtube.com/embed/9C5RANXVaTY](https://www.youtube.com/embed/9C5RANXVaTY)

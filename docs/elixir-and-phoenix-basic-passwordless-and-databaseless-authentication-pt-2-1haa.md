@@ -10,7 +10,7 @@
 
 在本系列的[前一部分](https://dev.to/bigardone/elixir-and-phoenix-basic-passwordless-and-databaseless-authentication-pt-1-3clj)中，我们为我们的新项目设置了保护伞应用程序，并为存储和生成认证令牌创建了必要的模块。完成这一步后，下一步是向有效用户发送电子邮件，其中包含登录链接，一旦点击，该链接将验证他们进入系统。
 
-[![Final result](../Images/f66b2ec735530ead75baea010b91dc8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Uq4Hr2yM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://monosnap.com/image/5VUT424b4Hu9ITi8r1SGae7HQleCPT.png)
+[![Final result](img/f66b2ec735530ead75baea010b91dc8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Uq4Hr2yM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://monosnap.com/image/5VUT424b4Hu9ITi8r1SGae7HQleCPT.png)
 
 ### 发送邮件
 
@@ -97,7 +97,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果我们此时启动 Phoenix 服务器并访问[http://localhost:4000/sent _ emails](http://localhost:4000/sent_emails)，我们应该会看到以下消息:
 
-[![Empty inbox](../Images/426595a8703de3fb04af9bc357f4990d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HqOGI9Di--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://monosnap.com/image/gB604OQdzH4yWfhptA9PyaxD16M3AD.png)
+[![Empty inbox](img/426595a8703de3fb04af9bc357f4990d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HqOGI9Di--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://monosnap.com/image/gB604OQdzH4yWfhptA9PyaxD16M3AD.png)
 
 这完全没问题，因为我们还没有发送任何电子邮件，所以让我们继续创建必要的功能，使用电子邮件地址和令牌来构建包含认证链接的电子邮件:
 
@@ -169,7 +169,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果我们重新访问[http://localhost:4000/sent _ emails](http://localhost:4000/sent_emails)，我们可以看到我们刚刚发送的电子邮件:
 
-[![Bamboo inbox](../Images/3518d7b2b2de65fca32d7ae9569e1018.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gIG2IGXI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://monosnap.com/image/PLsLxEljpZnc3KHuJLc7oR3Tl0CLPK.png)
+[![Bamboo inbox](img/3518d7b2b2de65fca32d7ae9569e1018.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gIG2IGXI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://monosnap.com/image/PLsLxEljpZnc3KHuJLc7oR3Tl0CLPK.png)
 
 但是，用户将如何请求认证电子邮件呢？
 
@@ -393,4 +393,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 编码快乐！
 
-[![](../Images/9bf2fe70792d6de7618ba520c05490bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4NFVcqVM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/CodeLoveAndBoards/%257E4/OhBolx8u7Ys)
+[![](img/9bf2fe70792d6de7618ba520c05490bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4NFVcqVM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/CodeLoveAndBoards/%257E4/OhBolx8u7Ys)

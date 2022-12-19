@@ -81,6 +81,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 你可以擅长某样东西，成为其中的参考，但总会有更多东西需要学习。
 
-[![](../Images/5098fd6dbf2ea156ce752cc8f48bdad5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BfjVLtfs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pmtw0yce1znjsksxkwmc.jpeg)
+[![](img/5098fd6dbf2ea156ce752cc8f48bdad5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BfjVLtfs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pmtw0yce1znjsksxkwmc.jpeg)
 
 愿原力与你同在！留下你的评论，分享还有什么可以帮助你学习一门新的编程语言。

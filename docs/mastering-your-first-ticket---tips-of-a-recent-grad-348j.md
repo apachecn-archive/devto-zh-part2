@@ -79,7 +79,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 > 您的集成开发环境和浏览器提供了几个工具。找到它们，理解它们，它们会将您的编码时间提高 9000 多倍！
 
-[![wicked witch of the west over 9000](../Images/2a5820870640d9c0b994e62cd51b5f42.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZC8G56GF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://offerzen.ghost.io/content/images/2018/09/giphy--14-.gif)
+[![wicked witch of the west over 9000](img/2a5820870640d9c0b994e62cd51b5f42.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZC8G56GF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://offerzen.ghost.io/conteimg/2018/09/giphy--14-.gif)
 
 > 技巧二:寻求帮助。很多。
 
@@ -141,7 +141,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我坐在 Rameez 旁边，我们开始把 Hazelcast 放到我们的 Kubernetes 集群上。一天之内，我们就在测试环境中完成了所有工作，并设置了我们的 Hazelcast 集群，以便在测试后轻松部署到我们的生产环境中。
 
-[![EmeraldCity](../Images/8f20c9db839d7b5f9ef87fe2f9e39103.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tsbvYRT1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://offerzen.ghost.io/content/images/2018/09/EmeraldCity.gif)
+[![EmeraldCity](img/8f20c9db839d7b5f9ef87fe2f9e39103.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tsbvYRT1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://offerzen.ghost.io/conteimg/2018/09/EmeraldCity.gif)
 
 ## 你好，翡翠城——
 

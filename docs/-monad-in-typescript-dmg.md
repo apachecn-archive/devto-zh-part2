@@ -24,7 +24,7 @@ Haskell 很厉害。 拥有两个非常强大的力量。 是生硬的静态定�
 这样方便的类型类还有很多，似乎是除了 Haskell 之外，Scala 等也存在的概念。 那个名字叫莫纳德。 想详细了解以莫纳德为首的“表达语境的类型类别”及其处理方法的人可以通过[Monad](https://qiita.com/lagenorhynque/items/e68ada9ee2d63539eb45) 、[MTL style](https://qiita.com/ruicc/items/7512c990a1835bba444a) 等进行调查，但追求严密性的话会变成高级数学话题
 
 > 图中的函子、应用、单子-[http://adit . io/posts/2013-04-17-函子、_ 应用、_ And _ Monads _ In _ Pictures . html](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
-> [![http://adit.io/imgs/functors/recap.png](../Images/7dab7de3b4e86de60dde3a6bc64825b1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---QGXi-th--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://adit.io/imgs/functors/recap.png)
+> [![http://adit.io/imgs/functors/recap.png](img/7dab7de3b4e86de60dde3a6bc64825b1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---QGXi-th--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://adit.io/imgs/functors/recap.png)
 
 图像中的箱子表示上下文。 该图像表示在 Haskell 中按箱子的种类使用什么样的运算符(图像中的`<$>, <*>, >>=`)才能在不失去上下文( =箱子)的情况下加工数值。 因为在这篇文章中没有出现这些符号本身，所以希望你不要在意，只有以下几点希望你能记住在脑子的某个地方。
 

@@ -32,7 +32,7 @@
 
 预处理器使用这些指令以某种方式操作程序的文本。比如有一个 **#include** 指令。当预处理器看到它时，它获取由它指定的文件内容，并将其替换到第一次看到该指令的那一行。我们这样做是为了重用代码，而不是将代码复制粘贴到不同的文件中。
 
-[![](../Images/5e5e5d9049b8e3a3cab15ca48ef03e5f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WgNx6UhL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://pmihaylov.com/wp-content/uploads/2017/11/preprocessing-no-title-1024x430.png)
+[![](img/5e5e5d9049b8e3a3cab15ca48ef03e5f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WgNx6UhL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://pmihaylov.com/wp-content/uploads/2017/11/preprocessing-no-title-1024x430.png)
 
 还有其他指令，但我们不会在本文中探究它们。通常，预处理器将初始源代码转换为预处理代码，并应用所有文本转换。当然，结果存储在一个临时文件中，不会覆盖原始文件。该文件将在编译步骤中进一步使用。
 
@@ -46,7 +46,7 @@
 
 产生的机器码被打包到一个名为**目标文件**的中间文件中。这些文件包含单个源文件中的所有数据。但是正如你所知道的，在一个程序中可能有多个源文件。这意味着一个目标文件本身不足以完成一个完整的程序。这是最后一步，叫做链接。
 
-[![](../Images/ddbae2afe5a248c369d9daadca7935d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EQMMicKu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://pmihaylov.com/wp-content/uploads/2017/11/compilation-linking-no-title-1024x488.png)
+[![](img/ddbae2afe5a248c369d9daadca7935d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EQMMicKu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://pmihaylov.com/wp-content/uploads/2017/11/compilation-linking-no-title-1024x488.png)
 
 ### 连接
 
@@ -54,7 +54,7 @@
 
 例如，如果文件 A 调用文件 B 中的一个函数，那么文件 A 的目标文件中会有调用该函数的指令。但是函数的指令不在同一个目标文件中。链接器负责检查该函数是否确实存在于程序的任何其他目标文件中。在这种情况下，文件 b。
 
-[![](../Images/87ab995399468abbdea0920a911ade79.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zakJ0zOM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://pmihaylov.com/wp-content/uploads/2017/11/linking-no-title-1024x382.png)
+[![](img/87ab995399468abbdea0920a911ade79.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zakJ0zOM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://pmihaylov.com/wp-content/uploads/2017/11/linking-no-title-1024x382.png)
 
 ## 基于虚拟机的语言
 
@@ -70,7 +70,7 @@
 
 但是在这些语言中，整个构建过程仅限于将源文件编译成中间语言文件。将这些文件转换为计算机本机代码的过程是虚拟机的工作。
 
-[![](../Images/91a4b2f196c17247671c7b25ddef6bb9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yUq3YkXZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://pmihaylov.com/wp-content/uploads/2017/11/virtual-machine-1024x492.png)
+[![](img/91a4b2f196c17247671c7b25ddef6bb9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yUq3YkXZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://pmihaylov.com/wp-content/uploads/2017/11/virtual-machine-1024x492.png)
 
 ## 解释语言
 
@@ -80,7 +80,7 @@
 
 这意味着你可以在得到一个错误之前执行程序的一半，而在其他语言中，一个错误就足以阻止整个程序的执行(当然是考虑到这是一个编译错误)。
 
-[![](../Images/31a7cb3f0f46107b1300760aff0f19c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UGKjKYIF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://pmihaylov.com/wp-content/uploads/2017/11/interpreted-languages-1024x483.png)
+[![](img/31a7cb3f0f46107b1300760aff0f19c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UGKjKYIF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://pmihaylov.com/wp-content/uploads/2017/11/interpreted-languages-1024x483.png)
 
 ## 每种语言都可以编译/解释吗？
 

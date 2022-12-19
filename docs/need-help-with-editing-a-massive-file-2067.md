@@ -20,7 +20,7 @@
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
-        <image:loc>https://www.mywebsite.com/images/image-on-this-page.jpg</image:loc>
+        <image:loc>https://www.mywebsite.cimg/image-on-this-page.jpg</image:loc>
         <image:title>image title</image:title>
       </image:image>
   </url> 

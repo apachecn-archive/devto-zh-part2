@@ -6,4 +6,4 @@
 
 [继续阅读](https://auth0.com/blog/an-overview-of-open-standards/?utm_source=dev&utm_medium=sc&utm_campaign=openstandards_overview)
 
-[![An Overview of Open Standards](../Images/47738307a5c675b292287dffcf3504b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0YJv68xb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1t62swdm8vulbfogb026.png)
+[![An Overview of Open Standards](img/47738307a5c675b292287dffcf3504b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0YJv68xb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1t62swdm8vulbfogb026.png)

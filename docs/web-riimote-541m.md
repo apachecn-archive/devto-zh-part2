@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/konaraddi/web-riimote-541m>
 
-[![Screenshot](../Images/6058acef208054853f868cd2077d9c24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DuH7fyQ6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mpn7w3ul82r3jr8g4pmk.png)
+[![Screenshot](img/6058acef208054853f868cd2077d9c24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DuH7fyQ6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mpn7w3ul82r3jr8g4pmk.png)
 
 [`web-riimote`](https://github.com/konaraddio/web-riimote) 把你的智能手机变成 3D 控制器(想想 Wii 遥控器)。无需安装移动或桌面应用程序。
 

@@ -4,7 +4,7 @@
 
 Plek 是像 [ZEIT Now](https://zeit.co/now) 和 GitHub 这样的无服务器服务之间的粘合剂，改善你的持续部署工作流程。[无服务器](https://martinfowler.com/articles/serverless.html)和持续部署就像面包和黄油一样密不可分，Plek 通过定义的流程和对 GitHub 的反馈强调了这一点。每个部署状态都报告给 GitHub，并根据分支分配一个域。在主分支上，部署直接转到您的域，对于拉请求，子域用于预览更改。从而形成一个快速的反馈循环，项目中的每个人都可以很容易地查看变更。
 
-[![GitHub PR checks](../Images/08e21aa875cb061e16b7f38a41c86ed2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7uIedbEN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/smst1psrnmx8bdcz2tdz.png)
+[![GitHub PR checks](img/08e21aa875cb061e16b7f38a41c86ed2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7uIedbEN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/smst1psrnmx8bdcz2tdz.png)
 
 ## 流量
 
@@ -26,5 +26,5 @@ Plek 与 CI 和服务无关，目标是支持多种无服务器服务和 git 平
 
 无服务器是部署应用程序、部署代码并让服务来处理的一种经济高效且简单的方式。有了这种能力，持续部署成为一种自然的生活方式。ZEIT Now 和 Fly integration from your CI 只需一个命令就可以使用`plek now`和`plek fly`。
 
- [![Let's get started](../Images/726f10c311d14e0bd926d03d28107d71.png)
+ [![Let's get started](img/726f10c311d14e0bd926d03d28107d71.png)
 T4】](https://plek.now.sh/guide/getting-started.html)

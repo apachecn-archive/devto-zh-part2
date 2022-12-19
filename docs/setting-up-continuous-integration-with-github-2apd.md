@@ -191,7 +191,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们当前的代码结构如下所示:
 
-[![2018-09-11-Stanley01.png](../Images/5bb3662524f687819e8d0c92db27b375.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mql13FWZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oicdlnc7jv92m3u3rocv.png)
+[![2018-09-11-Stanley01.png](img/5bb3662524f687819e8d0c92db27b375.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mql13FWZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oicdlnc7jv92m3u3rocv.png)
 
 打开你的编辑器，在工作目录中创建一个`.gitignore`文件来声明哪些文件和文件夹是我们*不想*提交给 Git 的。将以下几行复制到该文件中:
 
@@ -222,13 +222,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 去[https://github.com](https://github.com)创建一个 GitHub 账户，如果你还没有的话。然后，创建一个存储库。
 
-[![2018-09-11-Stanley02.png](../Images/2176aea967c80810d2c97550e5a2065e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CW9q8qNd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cokim8dy78eet3ejzp0g.png)
+[![2018-09-11-Stanley02.png](img/2176aea967c80810d2c97550e5a2065e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CW9q8qNd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cokim8dy78eet3ejzp0g.png)
 
-[![2018-09-11-Stanley03.png](../Images/d83caaa5d36e25c3723f582052514d80.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BuVmRFeq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rw9mlh7qgc8fbggkn8r9.png)
+[![2018-09-11-Stanley03.png](img/d83caaa5d36e25c3723f582052514d80.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BuVmRFeq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rw9mlh7qgc8fbggkn8r9.png)
 
 创建新存储库后，您将看到如下页面:
 
-[![2018-09-11-Stanley04.png](../Images/f0562cbe242b62cb50950a1fe20faba6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5ED2IDaS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i36fkx81mia51u3w2bx8.png)
+[![2018-09-11-Stanley04.png](img/f0562cbe242b62cb50950a1fe20faba6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5ED2IDaS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i36fkx81mia51u3w2bx8.png)
 
 我们将采用第二个选项，**…推送一个现有的存储库**。跑:
 
@@ -245,31 +245,31 @@ Enter fullscreen mode Exit fullscreen mode
 
 前往[https://circleci.com/](https://circleci.com/)。然后点击右上方的**报名**。
 
-[![2018-09-11-Stanley05.png](../Images/395553500e7e05fe6ef5588710392d18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1dDxEtQn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/djn0jkk1dt7gghfwcjwx.png)
+[![2018-09-11-Stanley05.png](img/395553500e7e05fe6ef5588710392d18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1dDxEtQn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/djn0jkk1dt7gghfwcjwx.png)
 
 用你的 GitHub 账号注册 CircleCI。
 
-[![2018-09-11-Stanley06.png](../Images/cb9817c4e1c94da7ec4625658a29d8f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2P8IvOkI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kx77jzo1rkyxronku8bo.png)
+[![2018-09-11-Stanley06.png](img/cb9817c4e1c94da7ec4625658a29d8f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2P8IvOkI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kx77jzo1rkyxronku8bo.png)
 
 登录后，确保您的个人 GitHub 帐户处于活动状态。如果你在几个 GitHub 组织中，其中一个可能是活跃的。只需点击下拉菜单(左上角)并选择您的 GitHub 用户名。然后，点击**添加项目**。最新的项目“python_app”出现在那里。
 
-[![2018-09-11-Stanley07.png](../Images/c94cb0c08759bdf514acc59d72c21248.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KqrY2sBV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uuief10r77yulxmslqa7.png)
+[![2018-09-11-Stanley07.png](img/c94cb0c08759bdf514acc59d72c21248.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KqrY2sBV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uuief10r77yulxmslqa7.png)
 
 点击包含我们项目的行右侧的**设置项目**。在重定向的页面上，您会注意到**后续步骤**部分。如果我们没有自己的`.circleci/config.yml`文件，我们会从第 1 号**开始。我们只需要滚动到**5 号**，点击**开始构建**。**
 
-[![2018-09-11-Stanley08.png](../Images/1cf65ac05ac0410c7448b2e061e8f15a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---u43UY4H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ygu0aifdhfybsgxukele.png)
+[![2018-09-11-Stanley08.png](img/1cf65ac05ac0410c7448b2e061e8f15a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---u43UY4H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ygu0aifdhfybsgxukele.png)
 
 构建很快就通过了。成功了！
 
-[![2018-09-11-Stanley09.png](../Images/45ad623e003d9c987af872c03586a0c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UI-uxTET--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uajmhch8kz9iek5g0l10.png)
+[![2018-09-11-Stanley09.png](img/45ad623e003d9c987af872c03586a0c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UI-uxTET--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uajmhch8kz9iek5g0l10.png)
 
 在右上角，点击**设置**齿轮。然后点击左边的**项目**，最后点击 **python_app** 。
 
-[![2018-09-11-Stanley10.png](../Images/5c2309dc64ae28316380521d92fbb7ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PPJaAWjM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9nm8siqv4s1zezca5q7n.png)
+[![2018-09-11-Stanley10.png](img/5c2309dc64ae28316380521d92fbb7ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PPJaAWjM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9nm8siqv4s1zezca5q7n.png)
 
 你会走上这样一条路:`circleci.com/gh/<username>/python_app`。我的是`https://circleci.com/gh/NdagiStanley/python_app`。点击回购名称: **python_app** 旁边的**设置** cog。
 
-[![2018-09-11-Stanley11.png](../Images/53d667e50e8d85b0aa573dd2c0e99567.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tre3KU2n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cmskp3k9ugp10rt75rjv.png)
+[![2018-09-11-Stanley11.png](img/53d667e50e8d85b0aa573dd2c0e99567.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tre3KU2n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cmskp3k9ugp10rt75rjv.png)
 
 熟悉可以为此项目更改的设置是很重要的。我现在将谈一谈与我们相关的问题。
 
@@ -315,41 +315,41 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果你去[https://github.com/](https://github.com/)/python _ app 你会注意到我们有了一个新的分支:`add_readme`。我们可以点击**比较并提取请求**。
 
-[![2018-09-11-Stanley12.png](../Images/dc06001766ec33896d3706f2ef0a9509.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C1W8oUYB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wd4ab4pavrn86s1bms45.png)
+[![2018-09-11-Stanley12.png](img/dc06001766ec33896d3706f2ef0a9509.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C1W8oUYB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wd4ab4pavrn86s1bms45.png)
 
 ## 打开拉式请求
 
 我是这样建立我的公关的:
 
-[![2018-09-11-Stanley13.png](../Images/fd2616ec35ef8163582b9466de496a73.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P8_R-2Fv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vgozvrujkiaro78dohf6.png)
+[![2018-09-11-Stanley13.png](img/fd2616ec35ef8163582b9466de496a73.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P8_R-2Fv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vgozvrujkiaro78dohf6.png)
 
 点击**创建拉式请求**，很快我们就会看到:
 
-[![2018-09-11-Stanley14.png](../Images/8ee5e00a3bc8c0f2bc9eda1ee280d976.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Asu7CnFH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j3ybpqysy55kja7vc7so.png)
+[![2018-09-11-Stanley14.png](img/8ee5e00a3bc8c0f2bc9eda1ee280d976.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Asu7CnFH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j3ybpqysy55kja7vc7so.png)
 
 一个成功的构建！现在，点击**显示所有检查**。你会看到支票来自切尔莱西。
 
-[![2018-09-11-Stanley15.png](../Images/9e2f7a40adc76eda2ce047f4e1e14737.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hHISsnrq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7jbfdi45kd2oe9wm9w9v.png)
+[![2018-09-11-Stanley15.png](img/9e2f7a40adc76eda2ce047f4e1e14737.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hHISsnrq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7jbfdi45kd2oe9wm9w9v.png)
 
 甚至浏览器的标签页图标也会显示一个成功运行的勾号:
 
-[![2018-09-11-Stanley16.png](../Images/994ac8ce3330e96452c979b8b3ca861a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iv2AN-7j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qaa44wp3hqpe0p2bnii7.png)
+[![2018-09-11-Stanley16.png](img/994ac8ce3330e96452c979b8b3ca861a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iv2AN-7j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qaa44wp3hqpe0p2bnii7.png)
 
 如果您点击**详细信息**，这将把您重定向到 CircleCI 上的构建:
 
-[![2018-09-11-Stanley17.png](../Images/e6226896b32fef61680025395521e344.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KWTonCby--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5l8z4xacmt6pfivn8sr6.png)
+[![2018-09-11-Stanley17.png](img/e6226896b32fef61680025395521e344.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KWTonCby--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5l8z4xacmt6pfivn8sr6.png)
 
 请注意，此处的 favicon 也显示构建成功:
 
-[![2018-09-11-Stanley18.png](../Images/5db314ef672eeb476a6ec0c8aacc859a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qpE84G09--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4759lygr9oto3q3yns7p.png)
+[![2018-09-11-Stanley18.png](img/5db314ef672eeb476a6ec0c8aacc859a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qpE84G09--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4759lygr9oto3q3yns7p.png)
 
 在顶部，点击 **python_app**
 
-[![2018-09-11-Stanley19.png](../Images/c765cf523fbe4d053142d8de128d1f99.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uc1LKXTU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f27khgbq24zjvkesa4qb.png)
+[![2018-09-11-Stanley19.png](img/c765cf523fbe4d053142d8de128d1f99.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uc1LKXTU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f27khgbq24zjvkesa4qb.png)
 
 您将被重定向到该项目的版本:
 
-[![2018-09-11-Stanley20.png](../Images/630c802d9ae75e602e6c2872f4c4e5f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iMxh5olQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rz51hdmxetkpbbxp34fz.png)
+[![2018-09-11-Stanley20.png](img/630c802d9ae75e602e6c2872f4c4e5f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iMxh5olQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rz51hdmxetkpbbxp34fz.png)
 
 ## 结论
 

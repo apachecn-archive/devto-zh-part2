@@ -31,7 +31,7 @@ now run npm start    to power up the server
 Enter fullscreen mode Exit fullscreen mode
 
 在您喜欢的代码编辑器中打开项目
-[![image](../Images/675f3ac534426623c61d4fb032888279.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rexY3m6j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AgZwWEh8pJbwXlaaFgSZZCQ.png)
+[![image](img/675f3ac534426623c61d4fb032888279.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rexY3m6j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AgZwWEh8pJbwXlaaFgSZZCQ.png)
 
 文件夹-结构-模板
 
@@ -46,6 +46,6 @@ Enter fullscreen mode Exit fullscreen mode
 在我的邮件头文件夹中
 
 创建两个文件如下图所示
-[![](../Images/1584e8ed80a652dc3233f9aabcf1dcbd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AVFiSfIk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/1%2A7HwYaSunbmRxBSjDNwUHSw.png)
+[![](img/1584e8ed80a652dc3233f9aabcf1dcbd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AVFiSfIk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/1%2A7HwYaSunbmRxBSjDNwUHSw.png)
 
 现在打开 my-header.tsx 文件，添加以下代码

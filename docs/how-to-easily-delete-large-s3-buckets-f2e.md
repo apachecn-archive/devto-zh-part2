@@ -21,12 +21,12 @@ AWS 生命周期策略有助于定义对象生命周期内亚马逊 S3 上的操
 # 以下是如何设置 S3 时段的生命周期
 
 *   登录 AWS 管理控制台，在 https://console.aws.amazon.com/s3/[打开亚马逊 S3 控制台](https://console.aws.amazon.com/s3/)。
-*   要为存储桶创建生命周期策略，请从存储桶名称列表中选择存储桶的名称。![Select bucket](../Images/67e3dfd9d3d9b32bb36395d954713fe4.png)
-*   选择“管理”选项卡，然后选择“添加生命周期规则”。![Add lifecycle rule](../Images/f6694cfee8b1ab56364768b5bd0a6e1b.png)
-*   如果要删除整个存储桶，请为规则命名并单击 Next。此外，您可以为具有指定名称前缀的对象(即，名称以公共字符串开头的对象)设置生命周期规则，将生命周期规则范围限制为一个或多个对象标签，并将一个前缀和多个标签组合起来。![Name lifecycle rule](../Images/91abc4fcdd4ba8a8c21986d20d1a211f.png)
+*   要为存储桶创建生命周期策略，请从存储桶名称列表中选择存储桶的名称。![Select bucket](img/67e3dfd9d3d9b32bb36395d954713fe4.png)
+*   选择“管理”选项卡，然后选择“添加生命周期规则”。![Add lifecycle rule](img/f6694cfee8b1ab56364768b5bd0a6e1b.png)
+*   如果要删除整个存储桶，请为规则命名并单击 Next。此外，您可以为具有指定名称前缀的对象(即，名称以公共字符串开头的对象)设置生命周期规则，将生命周期规则范围限制为一个或多个对象标签，并将一个前缀和多个标签组合起来。![Name lifecycle rule](img/91abc4fcdd4ba8a8c21986d20d1a211f.png)
 *   单击“转换”选项卡上的“下一步”,不做任何更改。
-*   如下图所示选择选项。![Set expiration](../Images/9e46801b9b9505e6e2d0182b8d1ec02b.png)
-*   验证正在审查的规则的设置。![Verify rule](../Images/5d82c946fa6f547e8515d65567d29497.png)
+*   如下图所示选择选项。![Set expiration](img/9e46801b9b9505e6e2d0182b8d1ec02b.png)
+*   验证正在审查的规则的设置。![Verify rule](img/5d82c946fa6f547e8515d65567d29497.png)
 *   如果需要进行更改，请选择“上一步”。否则，单击保存。
 
 从现在开始，AWS 为你做脏活。S3 会自己做家务，一天后，你桶里的所有东西都会被删除。

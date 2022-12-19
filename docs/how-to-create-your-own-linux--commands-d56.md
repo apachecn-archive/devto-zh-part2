@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/xeroxism/how-to-create-your-own-linux--commands-d56>
 
-[![linux_alias_command_banner](../Images/cde95c459c12fd4cc859f82e916cce24.png)T2】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/10/linux_alias_command_banner.png?ssl=1)
+[![linux_alias_command_banner](img/cde95c459c12fd4cc859f82e916cce24.png)T2】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/10/linux_alias_command_banner.png?ssl=1)
 
 谁不喜欢拥有创造事物的力量呢？在众多能力中，Linux 给了你创建命令的能力；或者在您选择的任何新命令中包含默认的 Linux 命令。
 

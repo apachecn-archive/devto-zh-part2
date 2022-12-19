@@ -145,7 +145,7 @@ git commit -m "demo.txt file is modified"
 
 需要多个分支来支持多个并行开发。参考下图，看看分支是如何工作的。
 
-[![Git Branches](../Images/ae0fec14ca884bf58f9f3fc450a1355b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6p4uwjeu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8zw6e9r5oq1oxynvc33z.jpg)
+[![Git Branches](img/ae0fec14ca884bf58f9f3fc450a1355b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6p4uwjeu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8zw6e9r5oq1oxynvc33z.jpg)
 
 最初，提交 1 和提交 2 在主分支中完成。在提交 2 之后，创建了一个名为“Test”的新分支，提交 3 和提交 4 被添加到测试分支中。
 
@@ -229,7 +229,7 @@ git merge test
 
 到目前为止，我们一直只在本地存储库中工作。每个开发人员将在他们的本地存储库中工作，但是最终，他们将把代码推到远程存储库中。一旦代码在远程存储库中，其他开发人员就可以看到并修改代码。
 
-[![Remote Repository](../Images/b49d111c7d72f72a86924ef0368bcfc0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OJQdGGUB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1zd12s44vp04kng38iji.jpg)
+[![Remote Repository](img/b49d111c7d72f72a86924ef0368bcfc0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OJQdGGUB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1zd12s44vp04kng38iji.jpg)
 
 <figcaption>Showing Remote and Local Repositories</figcaption>
 
@@ -245,7 +245,7 @@ git merge test
 
 这将在 GitHub 中创建一个远程存储库，当您打开该存储库时，将会打开如下图所示的页面:
 
-[![Github](../Images/e5bfb2008312942ae9503ebe87b4c7b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vTYJ-_CL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/suy6p0qet62t26g9neax.jpg)
+[![Github](img/e5bfb2008312942ae9503ebe87b4c7b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vTYJ-_CL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/suy6p0qet62t26g9neax.jpg)
 
 存储库 URL 是突出显示的部分`https://github.com/aditya-sridhar/git-blog-demo.git`
 

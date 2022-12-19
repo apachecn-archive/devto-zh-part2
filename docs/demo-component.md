@@ -50,7 +50,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 插件的代码:
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)/[加-安-安-安-安-安-安-安-安-安-安-安-安-安-安-安-安-安-安](https://github.com/titonobre/storybook-addon-angularjs)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)/[加-安-安-安-安-安-安-安-安-安-安-安-安-安-安-安-安-安-安](https://github.com/titonobre/storybook-addon-angularjs)
 
 ### 一个用 AngularJS 组件创建故事书故事的简单插件。
 
@@ -58,13 +58,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 # AngularJS 故事书插件(1.x)
 
-[![npm](../Images/ef94dc772a3225049240f455eedb986c.png)](https://www.npmjs.com/package/storybook-addon-angularjs)[![npm](../Images/8ca05c533637732a432737b5bcfc928a.png)](https://www.npmjs.com/package/storybook-addon-angularjs)[![GitHub issues](../Images/5d46dea77850a995f324364d45e4dec0.png)](https://github.com/titonobre/storybook-addon-angularjs/issues)[![GitHub](../Images/becb7c14a6ddbcfd65e66398bb9b1295.png)](https://github.com/titonobre/storybook-addon-angularjs/blob/master/LICENSE)[![Storybook](../Images/349ebe74e916d1467065053e94a0815f.png)](https://storybook.js.org/)
+[![npm](img/ef94dc772a3225049240f455eedb986c.png)](https://www.npmjs.com/package/storybook-addon-angularjs)[![npm](img/8ca05c533637732a432737b5bcfc928a.png)](https://www.npmjs.com/package/storybook-addon-angularjs)[![GitHub issues](img/5d46dea77850a995f324364d45e4dec0.png)](https://github.com/titonobre/storybook-addon-angularjs/issues)[![GitHub](img/becb7c14a6ddbcfd65e66398bb9b1295.png)](https://github.com/titonobre/storybook-addon-angularjs/blob/master/LICENSE)[![Storybook](img/349ebe74e916d1467065053e94a0815f.png)](https://storybook.js.org/)
 
 > **注意**这个插件打算和`@storybook/html`一起使用，从故事书 4 开始就有了。
 
 ## 装置
 
-用你最喜欢的<g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji>包管理器在你的项目中安装插件的`devDependencies`:
+用你最喜欢的<g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f4e6.png">📦</g-emoji>包管理器在你的项目中安装插件的`devDependencies`:
 
 **npm:**
 
@@ -119,7 +119,7 @@ class MockedAppService {
 
 一个工作实例:
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)[titon obre](https://github.com/titonobre)/[story book-addon-angularjs-example](https://github.com/titonobre/storybook-addon-angularjs-example)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)[titon obre](https://github.com/titonobre)/[story book-addon-angularjs-example](https://github.com/titonobre/storybook-addon-angularjs-example)
 
 ### storybook-addon-angularjs 的工作示例。搬到:https://github.com/titonobre/storybook-addon-angularjs
 

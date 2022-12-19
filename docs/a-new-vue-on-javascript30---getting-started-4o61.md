@@ -6,7 +6,7 @@
 
 别担心，我已经和这个作者本人说清楚了。
 
-[![Thanks Wes!](../Images/4aaae0ed07fe819433c2aceef07a1b3b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tVj2ppdD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davefollett.io/2018/08/01/a-new-vue-on-javascript30-getting-started/wes-bos-ok.jpg)
+[![Thanks Wes!](img/4aaae0ed07fe819433c2aceef07a1b3b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tVj2ppdD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davefollett.io/2018/08/01/a-new-vue-on-javascript30-getting-started/wes-bos-ok.jpg)
 
 好了，让我们开始一些设置，我们可以使用所有项目的基础。我非常喜欢 Wes 的项目的一点是，每个项目都只是一个 HTML 文件。由于 Vue 是一个进步的框架，我们可以用几行代码来匹配这个概念。
 
@@ -122,7 +122,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在[中，JavaScript30](https://dev.to/t/anewvueonjs30) 系列的下一个新 Vue 是:
 
-[![davefollett image](../Images/b32752a825067f737b786f8ac82aa66e.png)](/davefollett) [## JavaScript30 - 01 上的新 Vue JavaScript 鼓套件
+[![davefollett image](img/b32752a825067f737b786f8ac82aa66e.png)](/davefollett) [## JavaScript30 - 01 上的新 Vue JavaScript 鼓套件
 
 ### 戴夫·福莱特 8 月 3 日 186 分钟阅读
 

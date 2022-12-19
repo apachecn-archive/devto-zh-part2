@@ -4,7 +4,7 @@
 
 这是[devo PS 入门，第 1 部分](https://medium.com/@sublimegeek/getting-started-with-devops-f10a71e26620)的延续。
 
-[![](../Images/919457e497fb6b6536303f74a7ade706.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GAKbS2Jo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Af71hX15gxi3I1oiFZjMDBg.jpeg) 
+[![](img/919457e497fb6b6536303f74a7ade706.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GAKbS2Jo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Af71hX15gxi3I1oiFZjMDBg.jpeg) 
 
 <figcaption>有时候，就是这么简单。由[杰西卡·路易斯](https://unsplash.com/photos/cdwpR1AUn8o?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)在 [Unsplash](https://unsplash.com/search/photos/motivational?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 上拍摄。</figcaption>
 

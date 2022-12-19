@@ -8,6 +8,6 @@
 
 [React Native 中的图像大小调整](https://www.skptricks.com/2018/09/image-resizing-in-react-native.html)
 
-[![](../Images/aa5c9b3e938fa31a308b0de1e7710537.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8l8Kcoib--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://4.bp.blogspot.com/-YCjMPEbpYng/W7CJRGQ6s3I/AAAAAAAAB9Y/s1LEY2b7zY8GSKxb5ImGa6VwMoXVbJDQgCLcBGAs/s640/imager.png)
+[![](img/aa5c9b3e938fa31a308b0de1e7710537.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8l8Kcoib--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://4.bp.blogspot.com/-YCjMPEbpYng/W7CJRGQ6s3I/AAAAAAAAB9Y/s1LEY2b7zY8GSKxb5ImGa6VwMoXVbJDQgCLcBGAs/s640/imager.png)
 
 [阅读更多...](https://www.skptricks.com/2018/09/image-resizing-in-react-native.html)

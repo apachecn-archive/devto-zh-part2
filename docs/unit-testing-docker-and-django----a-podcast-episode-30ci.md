@@ -4,7 +4,7 @@
 
 这是我的产品开发播客平台下一集的一个偷窥。它最初的存在是为了记录我的产品的发展，后来演变成了关于播客的讨论。现在，我重新启动它，专门专注于构建网络产品所涉及的技术，没有风险投资基金或孵化器的帮助。
 
-[![Waveform image](../Images/f785a8f2c70906b6e53d7c2f6c769e0e.png)T2】](https://platform.podiant.co/e/36bd174da61e2c/)
+[![Waveform image](img/f785a8f2c70906b6e53d7c2f6c769e0e.png)T2】](https://platform.podiant.co/e/36bd174da61e2c/)
 
 如果你对这个节目感兴趣，你可以在[http://feeds.podiant.co/platform/rss.xml](http://feeds.podiant.co/platform/rss.xml)获得 RSS 源，或者在你最喜欢的播客应用中找到它。
 

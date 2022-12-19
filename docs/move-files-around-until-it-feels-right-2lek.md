@@ -26,7 +26,7 @@
 
 这叫做 ***探索/利用权衡*** 。
 
-[![](../Images/df46e5454b4ad9892191e8f247c63a08.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IfQylm2C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/www.slightedgecoder.com/wp-content/uploads/2018/11/atomic-habits-page-223.png%3Ffit%3D652%252C1024%26ssl%3D1)
+[![](img/df46e5454b4ad9892191e8f247c63a08.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IfQylm2C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/www.slightedgecoder.com/wp-content/uploads/2018/11/atomic-habits-page-223.png%3Ffit%3D652%252C1024%26ssl%3D1)
 
 最初移动文件，获得经验后，坚持你所知道的，并且尝试了 80~90%的时间。
 

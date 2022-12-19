@@ -24,7 +24,7 @@
 
 ### 停止这么多工作。
 
-[![](../Images/8eddb5a910adf56d718602c65853a102.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ul-rZysb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.incimages.com/uploaded_files/image/970x450/burnt-out-candle-1940x900_34988.jpg)
+[![](img/8eddb5a910adf56d718602c65853a102.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ul-rZysb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.incimages.com/uploaded_files/image/970x450/burnt-out-candle-1940x900_34988.jpg)
 
 是啊是啊，我明白了。停止这么多的工作，你会很好的。虽然这似乎是显而易见的，但让我们从字里行间去体会。假设你是一家公司的开发人员，每周工作 5 天，上午 9 点到下午 5 点。你一天要工作 8 个小时。这意味着你有两天时间去做你想做的事情。
 
@@ -34,7 +34,7 @@
 
 ### 优先考虑你的健康。
 
-[![](../Images/6ab0be1ca494d77e0e7c6e92365ff316.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zZlm5wMd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.ytimg.com/vi/j7FioTdZaEk/maxresdefault.jpg)
+[![](img/6ab0be1ca494d77e0e7c6e92365ff316.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zZlm5wMd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.ytimg.com/vi/j7FioTdZaEk/maxresdefault.jpg)
 
 程序员一般都是不健康的人。你怎么能责怪我们呢？我们的工作是打几个小时，然后用不同的组合打几个小时。一片混乱。幸运的是，我们有仓鼠滚轮桌，可以边走边在桌子上编程。
 
@@ -42,7 +42,7 @@
 
 ### 尝试新事物。
 
-[![](../Images/8c3eb6b6c174cef455c115e283947a2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d4pkUm-n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://i0.kym-cdn.com/photos/images/original/001/234/765/971.gif)
+[![](img/8c3eb6b6c174cef455c115e283947a2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d4pkUm-n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://i0.kym-cdn.com/photimg/original/001/234/765/971.gif)
 
 我的生活相当常规。工作，读书，睡觉，重复。我开始在这个时候去健身房，晚上去跑步，让事情变得不同，我觉得有动力回到我的生活中，继续我的激情，我慢慢从疲惫中恢复过来。
 
@@ -54,7 +54,7 @@
 
 ### 耐心是关键。和你爱的人说话。
 
-[![](../Images/0118ce9e1cfa5a60c58e5596c3e497f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3qFexwbZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A0PR3hfwrthAcL1V8nIu4Jw.jpeg)
+[![](img/0118ce9e1cfa5a60c58e5596c3e497f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3qFexwbZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A0PR3hfwrthAcL1V8nIu4Jw.jpeg)
 
 感到沮丧是一种可怕的感觉。你什么都做不了，因为你觉得自己太累了，什么都做不了。在这种感觉之后，你会进入一种消极和自我怀疑的状态。我从来没有在这么短的时间内考虑过这么多人生决定。很悲哀。
 

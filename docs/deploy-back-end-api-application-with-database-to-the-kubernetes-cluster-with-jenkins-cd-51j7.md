@@ -113,11 +113,11 @@ server.start(() => console.log('Server is running on http://localhost:4000'))
 
 创建用户。
 
-[![](../Images/49388388ffd6f32b28864aa564646590.png "Running graphql server")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vtgtKM1M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f5ooc7mf9sjsjk80zng3.png)
+[![](img/49388388ffd6f32b28864aa564646590.png "Running graphql server")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vtgtKM1M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f5ooc7mf9sjsjk80zng3.png)
 
 查询用户。
 
-[![](../Images/6a58895393676e968b2ccfa0e828b6eb.png "User list")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w5FWoqiE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a7ku76k7rf9bm3hlekfv.png)
+[![](img/6a58895393676e968b2ccfa0e828b6eb.png "User list")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w5FWoqiE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a7ku76k7rf9bm3hlekfv.png)
 
 # 将詹金斯管道添加到项目中
 
@@ -351,7 +351,7 @@ pipeline {
 
 此时，您的项目文件夹应该如下所示。
 
-[![](../Images/ab6dea2316763be7c1bb39473100703c.png "Folders")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c7STW7l4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/32chi85vb33g66fjr71a.png)
+[![](img/ab6dea2316763be7c1bb39473100703c.png "Folders")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c7STW7l4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/32chi85vb33g66fjr71a.png)
 
 ### 5。将项目发布到 git 存储库
 
@@ -380,19 +380,19 @@ kubectl patch serviceaccount default -p '{"imagePullSecrets": [{"name": "dockerc
 
 现在，我们将在 Jenkins 创建名为“simpleapi”的新管道项目。
 
-[![](../Images/3a9c7c0403cee632d04d40cc611ff057.png "Pipeline")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0EOtGEbK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e6bcn552z36tsvhh9nlo.png)
+[![](img/3a9c7c0403cee632d04d40cc611ff057.png "Pipeline")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0EOtGEbK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e6bcn552z36tsvhh9nlo.png)
 
 设置 git 存储库和凭据。
 
-[![](../Images/9730e1cc0e7bddb6dd6f8375964665be.png "Git repo and credential")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9exopFf1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cnh2c1qzayuknhz126yu.png)
+[![](img/9730e1cc0e7bddb6dd6f8375964665be.png "Git repo and credential")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9exopFf1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cnh2c1qzayuknhz126yu.png)
 
 运行 build 并等待直到成功。
 
-[![](../Images/6fc8913f6010f910976206a89598bfad.png "build success")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hCfoF-yz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fcabu5re3q0nalq7lm4y.png)
+[![](img/6fc8913f6010f910976206a89598bfad.png "build success")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hCfoF-yz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fcabu5re3q0nalq7lm4y.png)
 
 运行`kubectl get secret`。如果你看到“simpleapi-tls”，意味着我们可以通过“[https://simpleapi.yourdomain.com](https://simpleapi.yourdomain.com)访问我们的应用程序。
 
-[![](../Images/823024f37be56cf11e5a0b37e786a1b0.png "api result")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3M20Yy6n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0ki3zdgvokc3ohpg6i1i.png)
+[![](img/823024f37be56cf11e5a0b37e786a1b0.png "api result")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3M20Yy6n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0ki3zdgvokc3ohpg6i1i.png)
 
 # 总结
 

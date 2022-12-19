@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kiararobbinson/benefits-of-mobile-apps-in-businesses-549j>
 
-[![Benefits Of Web App Development As A Career Option.png](../Images/793b23d75e2f0bc516683a7b3dcd46c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D-YtSVFy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://draftin.com:443/images/61040%3Ftoken%3DXjcsvhYQbe4b6Hak9OjGriYZEGWJ4MyQOBpIFxPK56dh_3ikqhMAius0E0kTtrZXAHEPVA1VBmdb-aeOODG7nkI)
+[![Benefits Of Web App Development As A Career Option.png](img/793b23d75e2f0bc516683a7b3dcd46c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D-YtSVFy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://draftin.com:4img/61040%3Ftoken%3DXjcsvhYQbe4b6Hak9OjGriYZEGWJ4MyQOBpIFxPK56dh_3ikqhMAius0E0kTtrZXAHEPVA1VBmdb-aeOODG7nkI)
 
 每个企业都只在纸上运营的日子已经一去不复返了。我们所有微不足道的工作都必须手工完成的日子一去不复返了。无论是通过邮件发送还是简单地打开手电筒；从前一切都是手动的。如今，一切都是关于移动应用程序，它们正在慢慢接管移动技术的世界。你有一个移动应用程序，可以处理几乎所有的事情。从凸轮扫描仪应用程序到股票交易应用程序，选项是无穷无尽的。在本文中，我们将讨论移动应用对我们现代人的显著用途。请继续阅读，了解更多信息！
 

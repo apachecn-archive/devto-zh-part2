@@ -8,7 +8,7 @@
 
 从技术上讲，您可以使用 Twilio REST API 直接从 JavaScript 客户端应用程序发送短信。但是(这是一个很大的“但是”)如果你这样做，你将会把你的 Twilio 证书暴露给任何使用你的站点的人。然后，恶意用户可能会获取这些凭据并滥用它们，从而在您的帐户中累积巨额账单。
 
-[![An animation showing a fake hacker, with a balaclava and extra hands.](../Images/ebec63a6388cd5d5614586a066e6063d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VHFNtzkU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/WU8JMLBGyKsTCY1u_Qa7mPji5mpT1SqxmgsO3eCJSN77kn.width-800.gif)
+[![An animation showing a fake hacker, with a balaclava and extra hands.](img/ebec63a6388cd5d5614586a066e6063d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VHFNtzkU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://s3.amazonaws.com/com.twilio.prod.twilio-doimg/WU8JMLBGyKsTCY1u_Qa7mPji5mpT1SqxmgsO3eCJSN77kn.width-800.gif)
 
 *使用您的帐户凭证实时查看黑客*
 
@@ -255,7 +255,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 用`npm run dev`启动您的应用程序，您将在页面上看到这个表单。
 
-[![](../Images/af57d970ab849cd8008603255df74de0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6QXncK8x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/lQ_7J7OP9Wc8uM5lAWxNkavJ2bGd8F_i0ONhZvdHXFysVt.width-500.png)
+[![](img/af57d970ab849cd8008603255df74de0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6QXncK8x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/com.twilio.prod.twilio-doimg/lQ_7J7OP9Wc8uM5lAWxNkavJ2bGd8F_i0ONhZvdHXFysVt.width-500.png)
 
 表单还没有做任何事情，所以让我们来解决这个问题。
 
@@ -359,7 +359,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 重新加载应用程序，您将能够更新表单字段。如果你的浏览器有 [React 开发工具](https://github.com/facebook/react-devtools)，你也能看到状态更新。
 
-[![](../Images/7cdd517a9a0ddf1227cb290a0fc44b4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QJWi8lxO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/_dzcSo7MrETpFCBo-yhmOkD376ckMEWm3HHhEY8YF4CLbY.width-500.png)
+[![](img/7cdd517a9a0ddf1227cb290a0fc44b4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QJWi8lxO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/com.twilio.prod.twilio-doimg/_dzcSo7MrETpFCBo-yhmOkD376ckMEWm3HHhEY8YF4CLbY.width-500.png)
 
 现在我们需要处理表单提交。构建另一个函数`onSubmit`，首先将`submitting`状态属性更新为 true。然后使用 [`fetch` API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) 向服务器发出请求。如果响应成功，则清除表格并将`submitting`设置为假。如果响应不成功，则将`submitting`设置为假，但将`error`设置为真。
 
@@ -457,7 +457,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这就是我们需要的全部内容，因此请再次刷新应用，并输入您的手机号码和要发送的消息。提交表单，如果细节正确，您的消息将被发送，如果不正确，表单将显示状态错误。
 
-[![Now when entering incorrect values the form shows an error and when you enter the correct values the message is sent.](../Images/c17c2c04b4ce69d36b4d8e51a69c2d04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hYCU4EGH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/success.width-500.gif)
+[![Now when entering incorrect values the form shows an error and when you enter the correct values the message is sent.](img/c17c2c04b4ce69d36b4d8e51a69c2d04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hYCU4EGH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://s3.amazonaws.com/com.twilio.prod.twilio-doimg/success.width-500.gif)
 
 ### 发送消息并保护您的凭证安全
 

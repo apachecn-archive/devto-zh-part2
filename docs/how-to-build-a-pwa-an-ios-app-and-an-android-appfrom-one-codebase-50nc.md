@@ -8,7 +8,7 @@
 
 好消息是 JavaScript 开发人员不再需要做出这个艰难的选择。通过使用最近发布的 [NativeScript 和 Angular integration](https://blog.angular.io/apps-that-work-natively-on-the-web-and-mobile-9b26852495e7) ，现在很容易从一个代码库构建一个 PWA(渐进式 Web 应用程序)、一个原生 iOS 应用程序和一个原生 Android 应用程序。
 
-[![](../Images/cdf8a5ef5e9b9ff09da2e97f9b6f9631.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ad3Rd1LM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/amvmhghgeolyelx7nf35.png)
+[![](img/cdf8a5ef5e9b9ff09da2e97f9b6f9631.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ad3Rd1LM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/amvmhghgeolyelx7nf35.png)
 
 在本文中，我将向您展示它是如何工作的。您将了解构建所有三个平台所需的步骤，以及我自己在这个过程中学到的一些技巧和诀窍。
 
@@ -16,11 +16,11 @@
 
 上个月，我开发了一个基于神奇宝贝的清单应用，并将其部署到 Google Play、iOS 应用商店和网络上。该应用程序是一个特意设计的简单应用程序，旨在帮助教授 NativeScript 和 Angular 技术堆栈如何工作。
 
-[![](../Images/d430c206380b5313205ef0e9c80dbd57.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--csO_JxNT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ppb7xmjowx52f5i5n6ny.png)
+[![](img/d430c206380b5313205ef0e9c80dbd57.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--csO_JxNT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ppb7xmjowx52f5i5n6ny.png)
 
 在本文中，我将带您构建一个类似清单风格的应用程序，如下所示。
 
-[![](../Images/b9e8385e241a0069eff27951a3376c7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EUgzDam2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z3vcxqluc3h34shb7920.gif)
+[![](img/b9e8385e241a0069eff27951a3376c7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EUgzDam2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z3vcxqluc3h34shb7920.gif)
 
 请随意跟随，作为启动您自己的代码共享应用程序的一种方式，或者只是浏览代码，以获得整个过程如何工作的高级概念。
 
@@ -90,11 +90,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 命令完成后，您将看到一条关于 Angular Live Development 服务器监听的消息。
 
-[![](../Images/b84eabc405b26107f365126e04094599.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_hO2xW5C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1aqqxd1tw77hrsmp2eiz.png)
+[![](img/b84eabc405b26107f365126e04094599.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_hO2xW5C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1aqqxd1tw77hrsmp2eiz.png)
 
 如果你按照说明并在浏览器中访问`localhost:4200`，你会看到默认的 web 应用程序正在运行，这是一个简单的显示足球运动员的主从式应用程序。
 
-[![](../Images/c43a012b09c9ee41176e8eacf5722101.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GwNTCZTJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tw9k93r4x7w92uybw85m.png)
+[![](img/c43a012b09c9ee41176e8eacf5722101.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GwNTCZTJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tw9k93r4x7w92uybw85m.png)
 
 如果你以前做过 Angular 开发，你会感觉非常熟悉，因为这和你用来构建 Angular web 应用程序的工作流程是一样的——这很酷！
 
@@ -106,11 +106,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 设置完成后，返回到您的终端或命令提示符，使用`Ctrl` + `C`停止您的`ng serve`命令，然后执行`npm run android`。该命令需要一分钟的时间来运行，因为 NativeScript 正在构建一个完全原生的 Android 应用程序。完成后，您将看到以下屏幕。
 
-[![](../Images/ce5ba23517e57afa4fffa53d3b56e553.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_C5r4Unk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mh3iqf1o2sgstq65mzzi.png)
+[![](img/ce5ba23517e57afa4fffa53d3b56e553.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_C5r4Unk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mh3iqf1o2sgstq65mzzi.png)
 
 如果你是在 macOS 上开发，你也可以试着运行`npm run ios`，它通过一个类似的过程运行，但是在 iOS 上构建并启动你的应用。完成后，你会看到这个屏幕。
 
-[![](../Images/364d3a60aa339d2f18ef82be135399d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DzAFkWqR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fwqznmj6p6zpbpv63s2h.png)
+[![](img/364d3a60aa339d2f18ef82be135399d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DzAFkWqR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fwqznmj6p6zpbpv63s2h.png)
 
 有了一个代码库和一组简单明了的命令，你现在可以在三个地方运行同一个应用。
 
@@ -442,7 +442,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 准备就绪后，返回到您的终端或命令提示符并运行`ng serve`。命令运行后，打开浏览器并访问`localhost:4200`，您应该会看到一个简单的清单，如下所示。
 
-[![](../Images/4b9e59dcbd072a6efe9d84f46a031da2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oj_yvZBc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s4pcazk4jvafwyvr6whp.gif)
+[![](img/4b9e59dcbd072a6efe9d84f46a031da2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oj_yvZBc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s4pcazk4jvafwyvr6whp.gif)
 
 你现在拥有的应用程序是一个非常简单的应用程序，允许用户选择项目。如果你看一下`list.service.ts`中的代码，你可以看到应用程序还会使用`localStorage`记住用户的选择——这意味着当用户返回应用程序时，所有选择都会保留。
 
@@ -760,7 +760,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您应该会看到一个类似这样的应用程序。
 
-[![](../Images/b9e8385e241a0069eff27951a3376c7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EUgzDam2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z3vcxqluc3h34shb7920.gif)
+[![](img/b9e8385e241a0069eff27951a3376c7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EUgzDam2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z3vcxqluc3h34shb7920.gif)
 
 虽然这个应用程序很简单，但记住你在这里看到的是很重要的。这些是*原生* iOS 和 Android 应用，使用原生 iOS 和 Android 用户界面控件。你不仅用 Angular 和 TypeScript 构建了这些应用程序，你甚至与你的 web 应用程序共享了这个应用程序背后的一大块代码。
 

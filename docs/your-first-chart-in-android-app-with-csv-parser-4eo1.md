@@ -4,7 +4,7 @@
 
 如果你曾经需要给你的安卓应用添加图表，你肯定听说过由[菲尔杰](https://github.com/PhilJay)创作的 [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) 。如果没有，可以考虑使用这个强大的库。让我告诉你开始有多容易！
 
-[![header img](../Images/67bfca112d50abdc36d1658dd7488c49.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VT0tdqdB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wgjlhkvutbetbc1oxjnk.jpg)
+[![header img](img/67bfca112d50abdc36d1658dd7488c49.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VT0tdqdB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wgjlhkvutbetbc1oxjnk.jpg)
 
 ### 目标
 
@@ -176,7 +176,7 @@ lineChart.data = LineData(
 Enter fullscreen mode Exit fullscreen mode
 
 就是这样，图表是用数据建立起来的！
-[![chart one](../Images/ba6afd8200dabb9807fd8b544eed6fbd.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--JievjCsK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/30c1i599qf8ccoac0usw.png)
+[![chart one](img/ba6afd8200dabb9807fd8b544eed6fbd.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--JievjCsK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/30c1i599qf8ccoac0usw.png)
 
 ### 让我美丽-折线图属性
 
@@ -268,7 +268,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 嘣！就是这样！看起来不错，并且清楚地呈现数据。捏缩放，左右滑动来浏览所有这些年，并最终在谷歌搜索中检查冷冻酸奶何时击败香蕉面包！
 
-[![chart two](../Images/b008e7cc0298ea7b2b56371c976840d1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--y0smC1Q---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/61s0l8dkmxq9l83svlip.png) 
+[![chart two](img/b008e7cc0298ea7b2b56371c976840d1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--y0smC1Q---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/61s0l8dkmxq9l83svlip.png) 
 
 哦，好像每年夏天前后！谁会知道。
 

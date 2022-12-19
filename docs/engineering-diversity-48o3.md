@@ -22,7 +22,7 @@
 
 让我们用一个例子来热身。以侏儒狨猴为例。
 
-[![76477510 - pygmy marmoset baby - callithrix or cebuella pygmaea](../Images/8d31449d856c627f6686a0bdf81ffb5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6vZ5jv7S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/evilplantosavethe.world/wp-content/uploads/2018/07/PygmyMarmoset.jpg%3Fresize%3D225%252C300%26ssl%3D1)
+[![76477510 - pygmy marmoset baby - callithrix or cebuella pygmaea](img/8d31449d856c627f6686a0bdf81ffb5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6vZ5jv7S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/evilplantosavethe.world/wp-content/uploads/2018/07/PygmyMarmoset.jpg%3Fresize%3D225%252C300%26ssl%3D1)
 
 我喜欢婴儿，但好吧，这些动物不会碰巧那么上镜。事实上，他们实际上是伍基人。所以，在这幅图中你看到一个丑陋的小婴儿，它很丑……现在停下来，想想你是如何在脑海中完成那句话的。
 

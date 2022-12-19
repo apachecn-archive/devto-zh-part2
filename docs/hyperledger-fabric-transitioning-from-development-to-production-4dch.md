@@ -6,7 +6,7 @@
 
 所有这些，你还是不满意。你想做得更多。你想扩大网络规模。模拟生产级环境。也许您甚至想部署到生产环境中。你试一试。添加多个订购者。添加更多拥有自己的同行和 ca 的组织。你试着用多台机器测试它。
 
-[![](../Images/b4218be182ceede936bf479bbd58de24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j04sqTEs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/51oEcOu.jpg)
+[![](img/b4218be182ceede936bf479bbd58de24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j04sqTEs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/51oEcOu.jpg)
 
 这就是你所做的一切失败的地方，不管你做了什么。你以某种方式调试了所有的东西，并想出了一些你并不完全引以为豪的巧妙方法。有些部分可以，有些不行。你结束了一天，仍然不满意。
 
@@ -53,7 +53,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在我们已经解决了订购者的依赖性，让我们深入一些网络级别的技巧。
 
-[![](../Images/0eea69626a76190431dde927a215fd2d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X5sgxgVL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://edenmal.moe/post/2016/Docker-for-Admins-Workshop-v2/network-stuff-brace-yourself-meme.png)
+[![](img/0eea69626a76190431dde927a215fd2d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X5sgxgVL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://edenmal.moe/post/2016/Docker-for-Admins-Workshop-v2/network-stuff-brace-yourself-meme.png)
 
 ## 一窝蜂的服务
 
@@ -104,7 +104,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 限制和约束
 
-[![](../Images/bdfb4be74dc3562e5d819a13278d2392.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E0FtN5Jr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images-na.ssl-images-amazon.com/images/I/516JMJ94%252BqL._SX425_.jpg)
+[![](img/bdfb4be74dc3562e5d819a13278d2392.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E0FtN5Jr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images-na.ssl-images-amazon.cimg/I/516JMJ94%252BqL._SX425_.jpg)
 
 通常，在一个群中，服务被默认分配给任何节点。Docker Swarm 将始终努力提高管理器节点上的性能。因此，它会尝试将服务分发到工作节点。当一个工作节点关闭时，管理器可以在集群内部重新分配服务。
 
@@ -137,7 +137,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 保护证书和密文
 
-[![](../Images/f847bb01cf4e4ed6c525a57a66bf083c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IvxUbflb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://info.hummingbirdnetworks.com/hs-fs/hubfs/images/Darth.Vader_.I.Find_.Your_.Lack_.Of_.Cyber_.Security.Disturbing.MEME_1.jpg%3Ft%3D1527893520042%26width%3D600%26name%3DDarth.Vader_.I.Find_.Your_.Lack_.Of_.Cyber_.Security.Disturbing.MEME_1.jpg)
+[![](img/f847bb01cf4e4ed6c525a57a66bf083c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IvxUbflb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://info.hummingbirdnetworks.com/hs-fs/hubimg/Darth.Vader_.I.Find_.Your_.Lack_.Of_.Cyber_.Security.Disturbing.MEME_1.jpg%3Ft%3D1527893520042%26width%3D600%26name%3DDarth.Vader_.I.Find_.Your_.Lack_.Of_.Cyber_.Security.Disturbing.MEME_1.jpg)
 
 证书不应该向网络中的其他实体公开。理想情况下，最简单的做法是将特定组织的证书提供给托管它的节点，并安装到 docker 容器和简单 linux 机器共有的位置，如`/var/<network-name>/certs`。这样，您可以只装载所需的卷。
 说到卷，挂载的时候一定要有绝对路径。您只能从管理节点将服务部署到 Docker Swarm，因此它需要在托管它的节点中拥有证书，否则服务将关闭。
@@ -168,7 +168,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 抓取人名
 
-[![](../Images/8ff61820a550efecdbcd11b2acaee414.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a5FHwPM5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://78.media.tumblr.com/824637154a6cb88c100bf37c6caa086d/tumblr_no1fm1DSou1qjnl39o1_500.gif)
+[![](img/8ff61820a550efecdbcd11b2acaee414.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a5FHwPM5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://78.media.tumblr.com/824637154a6cb88c100bf37c6caa086d/tumblr_no1fm1DSou1qjnl39o1_500.gif)
 
 Docker Swarm 通常在服务的栈名前面加上前缀，后缀是 SHA256 哈希。因此，为了执行任何命令，我们需要服务的名称，由 Swarm 提供给它们。
 举例来说，如果你将你的服务命名为`peer0_org1`，并且你将它部署到的堆栈是`deadpool`，那么 swarm 将会给它起一个类似于`deadpool_peer0_org1.1.sa213adsdaa….`的名字。
@@ -218,6 +218,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 将您的客户与上述服务联系起来，享受您的生产级结构网络设置。尝试将您的网络部署到 IBM cloud 或 AWS。
 
-[![](../Images/7064af7a22011f76dbb81abbe5919701.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bjVd0BW1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://m.memegen.com/hx9szq.jpg)
+[![](img/7064af7a22011f76dbb81abbe5919701.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bjVd0BW1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://m.memegen.com/hx9szq.jpg)
 
 如果您有任何疑问或建议，请在下面评论。

@@ -99,10 +99,10 @@ Enter fullscreen mode Exit fullscreen mode
 
 为了添加子域，我们将创建 3 个记录(A 记录、AAAA 记录、CNAME 记录)
 A 和 AAAA 记录将重定向到我们的数字海洋服务器，如下所示。
-[![A & AAAA records](../Images/d7db494267a05b5dfd7d9abd77a0b2ae.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xmI64WWu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://preview.ibb.co/iavxYo/Screen_Shot_2018_07_28_at_21_02_25.png)
+[![A & AAAA records](img/d7db494267a05b5dfd7d9abd77a0b2ae.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xmI64WWu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://preview.ibb.co/iavxYo/Screen_Shot_2018_07_28_at_21_02_25.png)
 
 CNAME 只是我们 A/AAAA 记录的别名。三者都会出现如下图
-[![All three](../Images/dbaeee1bcc9e0568ba278ef8f23aeda0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8OSPA732--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://preview.ibb.co/ey6hzT/Screen_Shot_2018_07_28_at_21_03_03.png)
+[![All three](img/dbaeee1bcc9e0568ba278ef8f23aeda0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8OSPA732--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://preview.ibb.co/ey6hzT/Screen_Shot_2018_07_28_at_21_03_03.png)
 
 这就是全部内容，您应该能够通过互联网访问您的子域，向您显示`502 Bad Gateway`页面，这是意料之中的，因为没有任何内容被转发到端口`4242`。
 
@@ -114,12 +114,12 @@ CNAME 只是我们 A/AAAA 记录的别名。三者都会出现如下图
 `sudo certbot --nginx`运行魔术命令
 
 你会看到类似下面的
-[![certbot-run](../Images/daf69cb0c9889ec3e9c05cc60c15eeb4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--daglTDk7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://preview.ibb.co/jgKVm8/Screen_Shot_2018_07_28_at_22_17_52.png)
+[![certbot-run](img/daf69cb0c9889ec3e9c05cc60c15eeb4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--daglTDk7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://preview.ibb.co/jgKVm8/Screen_Shot_2018_07_28_at_22_17_52.png)
 
 运行两次，一次用于子域，一次用于 CNAME(别名)。
 
 现在，当您转到您的子域[www.42.igauravsehrawat.com](http://www.42.igauravsehrawat.com)
-[![expected-bad-gateway](../Images/bf23874fe1949b6429d6377ecd4d4b1d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vHMpaAOJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://preview.ibb.co/jxi9Do/Screen_Shot_2018_07_28_at_22_29_50.png)
+[![expected-bad-gateway](img/bf23874fe1949b6429d6377ecd4d4b1d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vHMpaAOJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://preview.ibb.co/jxi9Do/Screen_Shot_2018_07_28_at_22_29_50.png)
 时，您应该会看到这种情况，因为在服务器的 localhost 的端口`4242`上没有运行任何东西。
 
 汪汪，我们离快乐的舞蹈只有一步之遥。
@@ -139,7 +139,7 @@ CNAME 只是我们 A/AAAA 记录的别名。三者都会出现如下图
 
 快乐的舞蹈如约而至。
 
-[![happy-dance](../Images/3cb914791c9a4229b286520ca3d4743a.png)T2】](https://i.giphy.com/media/10UtqJNULHPfxe/giphy.gif)
+[![happy-dance](img/3cb914791c9a4229b286520ca3d4743a.png)T2】](https://i.giphy.com/media/10UtqJNULHPfxe/giphy.gif)
 
 > 等等，我们还没测试呢。
 
@@ -151,7 +151,7 @@ CNAME 只是我们 A/AAAA 记录的别名。三者都会出现如下图
 
 看看它的实际效果
 
-[![localhost-on-internet](../Images/145ab02aca8a555b9dc35be11599e8f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jzzbhPAQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/tMX81nZ.gif)
+[![localhost-on-internet](img/145ab02aca8a555b9dc35be11599e8f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jzzbhPAQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/tMX81nZ.gif)
 
 ## 结论
 

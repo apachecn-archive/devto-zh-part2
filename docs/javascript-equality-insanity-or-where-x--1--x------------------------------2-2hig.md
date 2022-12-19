@@ -180,7 +180,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当操作员的 MDN 页面以这个大警告开始时，您不喜欢吗？
 
-[![MDN Warning](../Images/9662abe3e403b5228fc389f1d516dcb3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7uL5Bfog--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l3xlxgygbortedtxvoow.png)
+[![MDN Warning](img/9662abe3e403b5228fc389f1d516dcb3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7uL5Bfog--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l3xlxgygbortedtxvoow.png)
 
 MDN [文档](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/with)描述如下:
 

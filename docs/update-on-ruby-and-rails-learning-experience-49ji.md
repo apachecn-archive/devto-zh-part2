@@ -8,6 +8,6 @@
 
 另一个有趣的消息是，有人访问我的网站！嗯，谢谢，我真的不知道有人会读这篇文章，通过我在 Flyweel 上的便捷仪表盘，我可以看到我有访客。谁知道 _(ツ)_/有多少垃圾邮件机器人
 
-[![](../Images/c97c25b8fe7f99bf7c508ce6d6d4a8af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q6Ej4gRR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://christine-seeman.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-28-at-11.44.58-AM-1024x911.png)
+[![](img/c97c25b8fe7f99bf7c508ce6d6d4a8af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q6Ej4gRR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://christine-seeman.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-28-at-11.44.58-AM-1024x911.png)
 
 旁注:如果有人知道为什么当我运行我的 rails 服务器时，我每隔一段时间就会得到“MiniProfiler 存储故障:连接丢失(ECONNRESET)”的消息，他们可以分享一下吗，那太棒了。一切都启动并运行，但我只是经常看到弹出。

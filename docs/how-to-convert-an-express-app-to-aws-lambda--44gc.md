@@ -4,7 +4,7 @@
 
 在本帖中，我们将看到如何将现有的 [express](https://expressjs.com/) 应用程序转换为 AWS Lambda。这有助于减少 AWS 账单，甚至减少一个数量级。我们也将使用[云形](https://github.com/bright/cloudform)来描述[云形](https://aws.amazon.com/cloudformation/)堆栈。
 
-[![express.js](../Images/8ec8799e2dfbabbdcc803ee25818fbcc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8v1OhUUv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cixfubqtggza96d88v2r.png)
+[![express.js](img/8ec8799e2dfbabbdcc803ee25818fbcc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8v1OhUUv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cixfubqtggza96d88v2r.png)
 
 ## 某快递 app
 

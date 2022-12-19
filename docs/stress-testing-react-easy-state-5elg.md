@@ -61,7 +61,7 @@ users[0].email = 'bOb1.gmail.com'
 
 简单状态知道`UsersApp`在其渲染期间迭代`users`数组，并且知道`user.email`是为每个用户渲染的。由此推断出`UsersApp`应该在上述状态变化后重新渲染。
 
-[![Adding a new user](../Images/35654003133da2e84c4570db445d827b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z66jqZ66--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9qo3k3l2ruwojrc90xjd.gif)
+[![Adding a new user](img/35654003133da2e84c4570db445d827b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z66jqZ66--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9qo3k3l2ruwojrc90xjd.gif)
 
 #### [试试现场试玩吧！](https://easy-state-stress-test.now.sh/)
 
@@ -77,7 +77,7 @@ users[1].email = 'ann@windowslive.com'
 delete users[1].email 
 ```
 
-[![Dynamic properties](../Images/2854566fe2206f77c0826e0f533c4f37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HrOTDNqN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gl81qi2f235orwjao6f4.gif)
+[![Dynamic properties](img/2854566fe2206f77c0826e0f533c4f37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HrOTDNqN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gl81qi2f235orwjao6f4.gif)
 
 这一次，安是由`users[1] = newUser`而不是`push`添加的，最初，她没有电子邮件。动态添加新属性(如电子邮件)只能由 ES6 代理跟踪。在这些情况下，旧的透明状态管理库不会重新呈现应用程序。
 
@@ -109,7 +109,7 @@ users[2].emails.secondary = 'dave@risingstack.com'
 delete users[2].emails.primary 
 ```
 
-[![Property accesors](../Images/f95d9971d2a292d99e181cd2d006d559.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eSANQWLv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x1e78sxizfnz4stzfvu5.gif)
+[![Property accesors](img/f95d9971d2a292d99e181cd2d006d559.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eSANQWLv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x1e78sxizfnz4stzfvu5.gif)
 
 Easy State 知道 Dave 的电子邮件是从他的`emails`集合中的所有属性生成的。如果一封新邮件被添加到集合中，它会重新渲染`UsersApp`来反映它。当电子邮件被删除或修改时，也会发生同样的情况。
 
@@ -135,7 +135,7 @@ users[1].name = 'Ben'
 users[3].name = 'John Jr.' 
 ```
 
-[![Inheritance](../Images/1002d299facdc03a9b36d7697cdd83e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CPF8migm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h4127h6h69jlgeoaux0g.gif)
+[![Inheritance](img/1002d299facdc03a9b36d7697cdd83e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CPF8migm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h4127h6h69jlgeoaux0g.gif)
 
 *   如果我们把约翰的名字删掉，由于继承的关系，它又会变成‘安’。
 *   然后编辑安和约翰的名字。

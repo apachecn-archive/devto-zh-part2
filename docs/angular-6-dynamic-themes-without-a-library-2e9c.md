@@ -4,7 +4,7 @@
 
 从我记事起，主题化的概念就已经存在了。让用户能够选择产品的外观和感觉具有难以置信的价值——它创造了更加本地化的体验，并减少了开发人员的维护时间。
 
-[![tumblr](../Images/28eb0b9bc47c9f331ac653b22055595f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Atdz1shv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AEb0kS7HGmxFyZR2HokgNhQ.png)
+[![tumblr](img/28eb0b9bc47c9f331ac653b22055595f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Atdz1shv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AEb0kS7HGmxFyZR2HokgNhQ.png)
 
 我们如何在我们的 Angular 应用程序中创建这样的东西？
 
@@ -28,7 +28,7 @@
 
 ## 来看看吧！
 
-[![implementation](../Images/f7e0d0d9009c7a94969ec5618629aef6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CnfeuRre--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AXAFHjvjzDS1ZIaroeHKIpQ.gif)
+[![implementation](img/f7e0d0d9009c7a94969ec5618629aef6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CnfeuRre--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AXAFHjvjzDS1ZIaroeHKIpQ.gif)
 
 **本次实施:**
 

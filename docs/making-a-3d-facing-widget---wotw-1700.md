@@ -7,7 +7,7 @@
 这一次，我们将创建一个 3D 小部件，当我们在屏幕上移动光标时，它会“看”着光标。
 灵感来自于[史蒂文·汉利](https://dribbble.com/stevenhanley)创造的[运球](https://dribbble.com/shots/4709414-Portfolio-Redesign-Exploration)，看起来是这样的:
 
-[![wotw-8](../Images/cf6f5a9398eb8b32a542d260e3967dd2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7n70-ueg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u85gd7ihkjizp0b240ac.gif)
+[![wotw-8](img/cf6f5a9398eb8b32a542d260e3967dd2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7n70-ueg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u85gd7ihkjizp0b240ac.gif)
 
 ### 制剂
 
@@ -102,13 +102,13 @@ Enter fullscreen mode Exit fullscreen mode
 Enter fullscreen mode Exit fullscreen mode
 
 在那之后我们应该有这样的东西:
-[![styled](../Images/2cb0f37094c44911d11caa1d8f617f42.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KjAlfak0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fejc2xukgb1bmo7gx4rm.png)
+[![styled](img/2cb0f37094c44911d11caa1d8f617f42.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KjAlfak0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fejc2xukgb1bmo7gx4rm.png)
 
 ### 行为举止
 
 在我们开始编写 Vue 应用程序之前，让我们分析一下实现所需动画需要什么，让我们再看一下参考资料:
 
-[![wotw-8](../Images/cf6f5a9398eb8b32a542d260e3967dd2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7n70-ueg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u85gd7ihkjizp0b240ac.gif)
+[![wotw-8](img/cf6f5a9398eb8b32a542d260e3967dd2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7n70-ueg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u85gd7ihkjizp0b240ac.gif)
 
 在这种情况下，我们的输入将是鼠标位置，根据它我们应该改变容器的旋转。这种旋转应该被控制，因为我们不希望对象旋转 360 度，它实际上只旋转了足够多的角度来获得它面对鼠标的感觉，我说每个方向大约 20 度。
 
@@ -174,7 +174,7 @@ Enter fullscreen mode Exit fullscreen mode
 发生的情况是，当在 3D 空间中旋转对象时，`Y`轴中的旋转使对象水平地改变其朝向，而`X`轴中的旋转使其垂直地改变朝向。
 
 在下图中可以看得更清楚，橙色箭头对应的是`rotateY`属性，绿色箭头对应的是`rotateX`属性:
-[![rotation](../Images/35c551db693693e03708615432b40fb5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bjo76gqc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zhkp8gsproxjco5vpw8t.png)
+[![rotation](img/35c551db693693e03708615432b40fb5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bjo76gqc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zhkp8gsproxjco5vpw8t.png)
 
 有了这样的解释，我们现在可以在内联样式属性中将这些转换添加到我们的小部件中，就像这样:
 
@@ -186,7 +186,7 @@ Enter fullscreen mode Exit fullscreen mode
 Enter fullscreen mode Exit fullscreen mode
 
 如果我们测试，我们应该看到小部件移动...但有些不对劲，物体完全是平的:
-[![flat](../Images/704531c6da21e9a335ba7b6b3cc7caf9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--36utvQIR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x7go3g0mhbv71v40f5of.png)
+[![flat](img/704531c6da21e9a335ba7b6b3cc7caf9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--36utvQIR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x7go3g0mhbv71v40f5of.png)
 
 即使我们在计算的`rotation`中添加了一个透视属性，我们仍然需要改变内部零件的`z`位置。它应该看起来像图像在后面，标题在中间，卡片在前面，所以让我们稍微改变一下他们的 CSS:
 

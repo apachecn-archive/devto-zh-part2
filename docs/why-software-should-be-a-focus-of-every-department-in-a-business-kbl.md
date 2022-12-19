@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/brettclawson75/why-software-should-be-a-focus-of-every-department-in-a-business-kbl>
 
-[![Business software to help you succeed](../Images/054baa1c656196e35e7d6f06d5d460d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0QP00fds--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9d0tx35dw3c6c8dfllp6.jpeg)
+[![Business software to help you succeed](img/054baa1c656196e35e7d6f06d5d460d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0QP00fds--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9d0tx35dw3c6c8dfllp6.jpeg)
 
 当你在经营一家企业时，通常会有许多不同的部门需要很好地合作。虽然所有这些组织部门都有不同的个人目标，但它们也应该有相似的高级目标和关注点。所有业务部门应该关注的一个焦点是使用软件来改进他们的业务。当你公司的所有部门都专注于整合新软件时，会有很多好处。
 

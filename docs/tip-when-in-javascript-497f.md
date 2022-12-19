@@ -132,7 +132,7 @@
    const nameAndEmails = users.map(({ name, email, ...otherPayload }) => console.log({ name, email, ...otherPayload }) || ({ name, email })) 
 ```
 
-[![output](../Images/946981aa02060cb1f021a20172cef89f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cwqudhyh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a31o4cr8f3eobl2rknhd.png)
+[![output](img/946981aa02060cb1f021a20172cef89f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cwqudhyh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a31o4cr8f3eobl2rknhd.png)
 
 **为什么？**，是因为`console.log`返回`undefined`，浏览器还会运行`||`后的代码。
 

@@ -16,7 +16,7 @@ sudo pip install numpy # or "sudo !!" for the power users ;)
 
 相关 XKCD (thx u/truh):
 
-[![xkcd](../Images/dd59350283b0158786d2a729b391b12b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xcb2Ca7X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgs.xkcd.com/comics/python_environment.png)
+[![xkcd](img/dd59350283b0158786d2a729b391b12b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xcb2Ca7X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgs.xkcd.com/comics/python_environment.png)
 
 一个更好更安全的方法是:
 

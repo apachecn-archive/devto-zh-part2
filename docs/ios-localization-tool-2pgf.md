@@ -35,7 +35,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 解决复制粘贴之苦，节省时间。
 
-可以使用 Github 上提供的名为[**CSV-localizer**](https://github.com/rogermolas/csv-localizer)[![GitHub stars](../Images/ce14b1de67b6955a2476deae32fae656.png)](https://github.com/rogermolas/csv-localizer)的工具。
+可以使用 Github 上提供的名为[**CSV-localizer**](https://github.com/rogermolas/csv-localizer)[![GitHub stars](img/ce14b1de67b6955a2476deae32fae656.png)](https://github.com/rogermolas/csv-localizer)的工具。
 
 只需指示你的翻译或翻译工作的人把所有翻译成 CSV 文件的基础上提供的格式字符串。
 
@@ -90,4 +90,4 @@ $ csv-localizer -p android -i path/csv_files/ -o path/output
 
 Enter fullscreen mode Exit fullscreen mode
 
-别忘了给个 [![GitHub stars](../Images/ce14b1de67b6955a2476deae32fae656.png)](https://github.com/rogermolas/csv-localizer)
+别忘了给个 [![GitHub stars](img/ce14b1de67b6955a2476deae32fae656.png)](https://github.com/rogermolas/csv-localizer)

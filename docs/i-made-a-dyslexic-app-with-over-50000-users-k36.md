@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/robertjgabriel/i-made-a-dyslexic-app-with-over-50000-users-k36>
 
-[![alt text](../Images/b007de815e84a924c766de4f36b285e9.png "Logo Title Text 1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sD6-KI6Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fz1xvexhur04iq2htc9d.jpg)
+[![alt text](img/b007de815e84a924c766de4f36b285e9.png "Logo Title Text 1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sD6-KI6Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fz1xvexhur04iq2htc9d.jpg)
 
 # 我做了一个有超过 5 万用户的阅读障碍应用
 

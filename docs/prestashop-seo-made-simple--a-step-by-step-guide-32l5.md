@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/franken/prestashop-seo-made-simple--a-step-by-step-guide-32l5>
 
-[![](../Images/86f848db9da87555641d62c29669d5da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5mFknqdZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.com/images/stories/seo-prestashop-step-by-step.jpg)
+[![](img/86f848db9da87555641d62c29669d5da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5mFknqdZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.cimg/stories/seo-prestashop-step-by-step.jpg)
 
 你是 **SEO Prestashop** 的新手吗？遵循这些步骤，你的电子商务网站可以有更高的谷歌排名！先进的技术我们就不说了。这里有 3 个简单的步骤，非常容易使用，这将在下周提高你的搜索引擎排名。
 

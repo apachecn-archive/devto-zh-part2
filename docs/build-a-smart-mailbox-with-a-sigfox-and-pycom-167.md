@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/wiaio/build-a-smart-mailbox-with-a-sigfox-and-pycom-167>
 
-[![alt text](../Images/31dc5f48cf79431e4ae8ae052cb18960.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GbOofzvj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-07-13/1531496045-733399-smart-mailbox-sigfox-pycom.png)
+[![alt text](img/31dc5f48cf79431e4ae8ae052cb18960.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GbOofzvj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-07-13/1531496045-733399-smart-mailbox-sigfox-pycom.png)
 
 嗨，伙计们，
 
@@ -200,7 +200,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 走到你的 Wia 仪表盘和你的 Sigfox 设备所在的地方。从那里点击左边菜单中的流程图标，进入您的流程。
 
-[![alt text](../Images/faed0dc3550db250545b4eb8b9087be1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3KDo0l7T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-05-14/1526284386-778692-flow.png)
+[![alt text](img/faed0dc3550db250545b4eb8b9087be1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3KDo0l7T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-05-14/1526284386-778692-flow.png)
 
 现在来创建你的心流，你可以给它起任何你喜欢的名字。一旦你创建了一个流，你应该被带到流工作室。
 
@@ -214,7 +214,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，我们将为 Sigfox 事件添加一个通知，这样我们就可以收到关于入站邮件的通知。为此，您将需要 Wia 移动应用程序。你可以在 iOS [这里](https://itunes.apple.com/us/app/wia-talk-to-your-things/id1320616870?ls=1&mt=8)和安卓[这里](https://play.google.com/store/apps/details?id=io.wia.wia)下载。
 
-[![alt text](../Images/5d5c5bdc789f8c37173da6ce593f3db0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v9ZXesjI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-07-13/1531485931-970630-mail-notifier.png)
+[![alt text](img/5d5c5bdc789f8c37173da6ce593f3db0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v9ZXesjI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-07-13/1531485931-970630-mail-notifier.png)
 
 在 Flow Studio 编辑器中:
 
@@ -228,4 +228,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，您应该可以在移动设备上接收 Sigfox 数据了。
 
-[![alt text](../Images/dce72db5f781ef1ceef36d173726b714.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XzGOEEnh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-07-13/1531490491-960647-screenshot-20180713-150002-2.jpeg)
+[![alt text](img/dce72db5f781ef1ceef36d173726b714.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XzGOEEnh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-07-13/1531490491-960647-screenshot-20180713-150002-2.jpeg)

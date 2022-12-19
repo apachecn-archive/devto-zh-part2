@@ -85,7 +85,7 @@ D: 3591384 bytes used
 
 当用 qCachegrind 打开配置文件时，您会看到类似下图的内容。
 
-[![qCachgegrind screenshot](../Images/1204a703c9e08c3a2bf7e44429948e23.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2jY2-T3S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vkj9aj9xdw3zegfwzoq1.PNG)
+[![qCachgegrind screenshot](img/1204a703c9e08c3a2bf7e44429948e23.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2jY2-T3S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vkj9aj9xdw3zegfwzoq1.PNG)
 
 确保在窗口顶部的下拉菜单中选择“内存”，而不是“时间”(如果性能有问题，此选项会很有用)。
 当查看函数列表中`{main}`条目的“被调用者映射”时，可以从块的大小看出被调用的函数是如何分配内存的。较大的块是最有趣的:这些是分配最多内存的函数。在被调用者映射中，每个被调用的函数都位于调用者内部。

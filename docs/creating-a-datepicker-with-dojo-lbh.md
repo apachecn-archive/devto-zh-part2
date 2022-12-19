@@ -4,7 +4,7 @@
 
 我最近谈到了关于@dojo/cli 的[入门。这一次，我想更深入一点，谈谈如何使用 Dojo 提供的一些](https://dev.to/odoenet/up-and-running-with-dojocli-242e)[小部件](https://github.com/dojo/widgets)来构建一个有用的[日期选择器小部件](https://github.com/odoe/dojo-datepicker-sample)。
 
-[![](../Images/b7e5a80eec12c3c5fe88b25cb347adf7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DTGSeZJO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n08c1c5lnjj4ibj0uvlo.gif)
+[![](img/b7e5a80eec12c3c5fe88b25cb347adf7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DTGSeZJO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n08c1c5lnjj4ibj0uvlo.gif)
 
 这个示例涵盖了 Dojo 的一些非常有趣的概念，包括小部件组合、样式、国际化的日期格式等等。
 

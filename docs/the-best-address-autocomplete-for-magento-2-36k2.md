@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/tigren5/the-best-address-autocomplete-for-magento-2-36k2>
 
-[![address autocomplete for magento 2](../Images/61f5106b43f9668a382717f81de8031a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GgueGxs4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9jtlwn4mn48iwa5az6v3.jpg)
+[![address autocomplete for magento 2](img/61f5106b43f9668a382717f81de8031a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GgueGxs4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9jtlwn4mn48iwa5az6v3.jpg)
 
 2018 年 7 月 20 日，Tigren 发布了新的扩展:**[Magento 2](https://www.tigren.com/magento-2-extensions/magento-2-address-autocomplete/)T3 的地址自动完成。这个扩展是为了增强当前 Magento 2 的检验过程而开发的。更具体地说，它允许客户使用自动完成功能快速完成所需的送货字段。现在，用户只需选择其中一个字段，其余的字段将立即自动填充，而不是依次输入所有的地址字段(街道、城市、省/州、分区、邮政编码)。**
 

@@ -12,13 +12,13 @@ A11y 技术跨越了相当多的领域和学科，从 HTML 属性和 CSS 状态�
 
 我的设计/特性从第 5 天开始就没有改变，所以对于第 6 天的**，我的第一张图片是我的组件启用 a11y.css 后的样子:**
 
-[![ecommerce listing showing orange knitted winter hat, the name of item "Thinsulate Winter Cap", and the $20.99 sale price with a crossed out $34.99 price, and an "add to cart" button in blue, on the bottom, with outlines around components showing accessibility ratings](../Images/43fdd934788adbcae4f264e15866e10c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cvtx0haM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui-assets/master/ecommerce-listing/day6/w1d6-a11ycss.png)
+[![ecommerce listing showing orange knitted winter hat, the name of item "Thinsulate Winter Cap", and the $20.99 sale price with a crossed out $34.99 price, and an "add to cart" button in blue, on the bottom, with outlines around components showing accessibility ratings](img/43fdd934788adbcae4f264e15866e10c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cvtx0haM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui-assets/master/ecommerce-listing/day6/w1d6-a11ycss.png)
 
 上面的截屏显示了使用 a11y.css bookmarklet 时错误网页的样子。a11y.css 是一个很棒的工具，它使用 css 定位来查找代码中的 a11y 错误、警告和建议提示，并以内联方式向您显示消息。您甚至可以配置该工具只针对某些级别的警告。当我开始致力于提高可访问性时，这个工具是我使用的第一个工具。
 
 我使用的另一个工具是[Google light house accessibility audit](https://developers.google.com/web/tools/lighthouse/)，这是在成功调整工具建议的任何更改后的样子:
 
-[![Screenshot of ecommerce listings and a developer tools panel showing a 100% accessiblity audit score (you'll just have to take my word for it)](../Images/35810ecf14c1b6bb8f0a6997102ca2ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hCcSIRw0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui-assets/master/ecommerce-listing/day6/w1d6-a11y-audit.png)
+[![Screenshot of ecommerce listings and a developer tools panel showing a 100% accessiblity audit score (you'll just have to take my word for it)](img/35810ecf14c1b6bb8f0a6997102ca2ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hCcSIRw0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui-assets/master/ecommerce-listing/day6/w1d6-a11y-audit.png)
 
 这个工具将检查 a11y.css 做的所有类型的事情，然后是一些。它允许对调试进行更多的控制，因为它会列出有问题的元素，而对该列表的斥责会突出显示 DOM 中的那些元素，就像普通的 devtools 所做的那样。我还发现 Lighthouse 更容易解决问题，因为它还会链接到每个错误的解释页面。
 

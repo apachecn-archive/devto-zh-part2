@@ -17,7 +17,7 @@
 我发现这有助于将正在发生的事情形象化(嗯，谁不喜欢好的图表呢？！)
 
 <center>
-![](../Images/a84f3f22715f334fc59908ec1cf64ccc.png)
+![](img/a84f3f22715f334fc59908ec1cf64ccc.png)
 </center>
 
 顶部是最简单的部分。这是浏览器获取 HTML、CSS 和 Javascript 并在浏览器中显示网页的地方。

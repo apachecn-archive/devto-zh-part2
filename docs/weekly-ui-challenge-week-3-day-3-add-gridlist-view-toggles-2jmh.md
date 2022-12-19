@@ -12,9 +12,9 @@
 
 根据我创作的原始设计，这是我为第三天准备的:
 
-[![A results page component in list view, with one result entry highlighted to indicate it is sponsored](../Images/ae8c71a88ffb43c00fded54b4f48c728.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b4pNW4ba--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cmm27su78o4j8defusbt.png)
+[![A results page component in list view, with one result entry highlighted to indicate it is sponsored](img/ae8c71a88ffb43c00fded54b4f48c728.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b4pNW4ba--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cmm27su78o4j8defusbt.png)
 
-[![A results page component in grid view, with one result entry highlighted to indicate it is sponsored](../Images/4d1759648ae5afc91dadc739f80ce3fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2hAse2WX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/egr6t09jvbs2qo07ej2w.png)
+[![A results page component in grid view, with one result entry highlighted to indicate it is sponsored](img/4d1759648ae5afc91dadc739f80ce3fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2hAse2WX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/egr6t09jvbs2qo07ej2w.png)
 
 就像我们在这个挑战中创建的一些功能一样，当使用 cookies 或其他保存用户状态的机制保存首选项时，这个视图切换可能会工作得最好。但是，到目前为止我已经跳过了这一步。这个特性是一个简单的切换，它通过[样式的组件](https://styled-components.com)利用 React 的内部组件状态和动态样式。
 
@@ -22,7 +22,7 @@
 
 下面是该功能的动画效果:
 
-[![A results page component switching between list and grid views](../Images/6c8ac9cfb72390aca73051d0a50f2111.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sYXdnJdY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f1kxwc5o0mjktd0fsb73.gif)
+[![A results page component switching between list and grid views](img/6c8ac9cfb72390aca73051d0a50f2111.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sYXdnJdY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f1kxwc5o0mjktd0fsb73.gif)
 
 您可以在我的 Github pages 站点上查看我为这个项目编写的代码实现[。](https://geoffdavis92.github.io/weekly-ui/)
 

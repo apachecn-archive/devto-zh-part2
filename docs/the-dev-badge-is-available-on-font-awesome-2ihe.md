@@ -10,7 +10,7 @@
 
 ## 黑客示例:
 
-[![themindfuldev](../Images/e03a18bc9bc949ad7d2bce010e6f2b9a.png)](/themindfuldev) [## 我如何使用字体牛逼重做开发徽章[更新]
+[![themindfuldev](img/e03a18bc9bc949ad7d2bce010e6f2b9a.png)](/themindfuldev) [## 我如何使用字体牛逼重做开发徽章[更新]
 
 ### 蒂亚戈·罗梅罗·加西亚 9 月 4 日 183 分钟阅读
 

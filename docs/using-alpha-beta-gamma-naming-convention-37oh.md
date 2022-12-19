@@ -3,7 +3,7 @@
 > 原文：<https://dev.to/starbist/using-alpha-beta-gamma-naming-convention-37oh>
 
 [![My First Year of Freelancing<br>
-](../Images/623b0d55f4a4015a0caae04d1d8a9dd9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6FdfhPQS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5plmc87n99i6x7zk995o.jpg)
+](img/623b0d55f4a4015a0caae04d1d8a9dd9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6FdfhPQS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5plmc87n99i6x7zk995o.jpg)
 
 *这篇文章最初发表于 [silvestar.codes](https://www.silvestar.codes/articles/alpha-beta-gamma-naming-convention/) 。*
 

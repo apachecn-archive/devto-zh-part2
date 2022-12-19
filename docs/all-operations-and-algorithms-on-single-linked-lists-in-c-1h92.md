@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/mkhy19/all-operations-and-algorithms-on-single-linked-lists-in-c-1h92>
 
-[![alt Linked list](../Images/6b2e75640138b7f11c7b5cd078edb83e.png "Single Linked list")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TU2MSnFv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/mohamedkhaledyousef/Crash-courses/blob/master/img/linked-list.png%3Fraw%3Dtrue)
+[![alt Linked list](img/6b2e75640138b7f11c7b5cd078edb83e.png "Single Linked list")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TU2MSnFv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/mohamedkhaledyousef/Crash-courses/blob/master/img/linked-list.png%3Fraw%3Dtrue)
 
 # 链表是一种数据结构，它有一个元素列表，每个元素都有一个指向列表中下一个元素的引用。
 

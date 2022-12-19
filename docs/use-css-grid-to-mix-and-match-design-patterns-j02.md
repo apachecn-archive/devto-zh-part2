@@ -19,7 +19,7 @@
 
 ## 设计
 
-[![Design on multiple screens](../Images/296c4215c96cfc507a3dc5cac4c13add.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aVNgsjo4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bryanlrobinson.com/images/responsive-grid-break-design.jpg)
+[![Design on multiple screens](img/296c4215c96cfc507a3dc5cac4c13add.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aVNgsjo4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bryanlrobinson.cimg/responsive-grid-break-design.jpg)
 
 我们将为我们的推广空间设置三种不同的设计。
 
@@ -132,7 +132,7 @@ Align-self 将允许图像填充整个网格单元。通过允许图像拉伸，
 
 ## 添加混合混合模式叠加
 
-[![The mobile design](../Images/4f6b2fca89ac296bb58b840fdbc90b72.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FAMacjiK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bryanlrobinson.com/images/mobile-responsive-grid.jpg)
+[![The mobile design](img/4f6b2fca89ac296bb58b840fdbc90b72.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FAMacjiK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bryanlrobinson.cimg/mobile-responsive-grid.jpg)
 
 通常，[我会在 CSS 中提倡一个::after 元素来处理变暗的覆盖图](https://bryanlrobinson.com/blog/2018/04/30/how-to-css-after-elements-for-background-overlays/)。在这种情况下，因为我们的主要背景是一个`<img>`标签，所以一个`::after`元素将不起作用。
 
@@ -158,7 +158,7 @@ Align-self 将允许图像填充整个网格单元。通过允许图像拉伸，
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/45ca6d67b5185c7c7c1b2048eee95489.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LDbw094N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bryanlrobinson.com/images/responsive-just-desktop.jpg)
+[![](img/45ca6d67b5185c7c7c1b2048eee95489.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LDbw094N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bryanlrobinson.cimg/responsive-just-desktop.jpg)
 
 ## 现在为了娱乐:桌面重新配置
 

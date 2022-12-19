@@ -99,7 +99,7 @@ $ craft queue:work
 
 一旦成功运行，您应该会看到如下内容:
 
-[![](../Images/eebf6ba71b8fa3f69917a345d1a60217.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ns832qyO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9qk5gxvqadyxk3a7pntr.png)
+[![](img/eebf6ba71b8fa3f69917a345d1a60217.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ns832qyO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9qk5gxvqadyxk3a7pntr.png)
 
 请注意，我们正在收听`default`频道。我们可以指定收听哪个频道:
 
@@ -178,7 +178,7 @@ def show(self, Queue):
 
 `args`将传递我们传递给`handle`方法的任何 iterable。我们应该在终端内部看到:
 
-[![](../Images/0455948a462261b5b88e84fb582e0759.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eK1qxT3W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mamr5qb37co7e4k6ozu8.png)
+[![](img/0455948a462261b5b88e84fb582e0759.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eK1qxT3W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mamr5qb37co7e4k6ozu8.png)
 
 恭喜你！您刚刚在 RabbitMQ 中处理了您的第一个 Masonite 作业！
 

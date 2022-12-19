@@ -7,7 +7,7 @@
 一个简单的评论系统，用 ReactJS 构建，与 Firebase 集成，使用认证和实时数据库，基于 DevReactJS [Devpleno](https://www.devpleno.com) 课程。
 
 **地点:** [反应过来-评论-app](https://reactjs-9528e.firebaseapp.com)
-[![comments](../Images/03df81303e9157d3f9108c0e1b075c33.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FTfvTTQ4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iikl7rpc6olre4o8rf7b.gif)
+[![comments](img/03df81303e9157d3f9108c0e1b075c33.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FTfvTTQ4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iikl7rpc6olre4o8rf7b.gif)
 
 ### 先决条件
 

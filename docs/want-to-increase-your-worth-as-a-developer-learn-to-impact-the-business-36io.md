@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/want-to-increase-your-worth-as-a-developer-learn-to-impact-the-business-36io>
 
-[![](../Images/28a4ad6cfe94f65c6aa7ae3e09686b7f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tlr03EHL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A8BuXB52Nz6f9oOqFGLdQ8w.jpeg)
+[![](img/28a4ad6cfe94f65c6aa7ae3e09686b7f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tlr03EHL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A8BuXB52Nz6f9oOqFGLdQ8w.jpeg)
 
 作为开发人员，争取更好的职位和更高的薪水意味着增加你对雇主的价值。提高你使用的技术是理所当然的——我们都应该这样做。但过了这一步，就有点模糊了。我们如何切实增加我们对公司的价值？
 
@@ -28,7 +28,7 @@
 
 对于许多开发人员来说，这可能感觉像是陌生的领域，但实际上非常简单。心态的改变和一些基本原则可以让你开始走上这条路，而不会让你付出太多代价。具体来说，学习如何说商业语言，如何销售，以及如何提高效率，可以让你成为一名更有价值的开发人员。让我们来看看。
 
-[![LogRocket Free Trial Banner](../Images/4aa67f42a82d61c79b61acb13eae9479.png)T2】](https://logrocket.com/signup/)
+[![LogRocket Free Trial Banner](img/4aa67f42a82d61c79b61acb13eae9479.png)T2】](https://logrocket.com/signup/)
 
 ### 讲语言
 
@@ -160,7 +160,7 @@
 
 ### Plug: LogRocket，一款用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jermdavis/a-fast-query-edge-case-that-might-bite-you-oh2>
 
-最近有一些关于[没有在你的网站代码](https://intothecloud.blog/2018/10/21/It-s-time-to-put-fast-query-to-rest/)中使用“快速查询”的讨论(我甚至可以说是咆哮 [![😉](../Images/b26450942c7c42752fe0b02f126abb48.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fumfYCPq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f609.png) )。我是这个想法的支持者——但我最近遇到了一个问题，它指出了为什么不总是很容易确信你没有间接利用它…
+最近有一些关于[没有在你的网站代码](https://intothecloud.blog/2018/10/21/It-s-time-to-put-fast-query-to-rest/)中使用“快速查询”的讨论(我甚至可以说是咆哮 [![😉](img/b26450942c7c42752fe0b02f126abb48.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fumfYCPq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f609.png) )。我是这个想法的支持者——但我最近遇到了一个问题，它指出了为什么不总是很容易确信你没有间接利用它…
 
 所以，为了谷歌的利益:
 

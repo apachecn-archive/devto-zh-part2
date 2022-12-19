@@ -13,7 +13,7 @@ nodeJS 服务器在本地网络上寻找请求，并生成一个 python 脚本�
 只需前往 [Dialogflow](https://dialogflow.com/) ，将您的 Google Actions 和 Fulfillment URL 设置为您的服务器地址(使用 ngrok 将 localhost 公开)
 
 回购的名称是 pyTunes，少数代码是在 python 中🙃
-[![REALLY FUNNY IMAGE](../Images/b188fa6155e93e30cae53056db4081d3.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--9y8qziVP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cg21rsziyaf6ab1fetcl.PNG)
+[![REALLY FUNNY IMAGE](img/b188fa6155e93e30cae53056db4081d3.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--9y8qziVP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cg21rsziyaf6ab1fetcl.PNG)
 
 感谢阅读！
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/sytiankenneth/5-website-design-tips-that-will-boost-your-conversion-rate-4cb2>
 
-[![web dev image](../Images/994da3acc65cf08be2a5a65e8e8f0d95.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JpelxvWP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d7ba1dvd4hud8oml7lmr.jpg)
+[![web dev image](img/994da3acc65cf08be2a5a65e8e8f0d95.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JpelxvWP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d7ba1dvd4hud8oml7lmr.jpg)
 
 如果你的网站的目的是产生销售，那么除了简单的增加流量，转化你产生的流量对你来说是非常重要的。
 

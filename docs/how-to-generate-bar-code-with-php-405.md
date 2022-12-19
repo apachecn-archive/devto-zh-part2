@@ -10,6 +10,6 @@
 
 现在，各种电子商务应用程序都在使用 days 条形码，这简化了产品库存管理。像 flipkart、亚马逊、snapdeal 等电子商务网站都在使用这些条形码功能，这些条形码可以在他们的发票账单中找到。
 
-[![](../Images/64cf82383cc42fc532119eded56cab20.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DZku11em--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://4.bp.blogspot.com/-Bv03PTpKplw/WbTDjZBQoZI/AAAAAAAAA5M/wrFoP8Q5t7oWt0SqCHI6aOz2eje0uMfxQCLcBGAs/s320/barcode.PNG)
+[![](img/64cf82383cc42fc532119eded56cab20.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DZku11em--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://4.bp.blogspot.com/-Bv03PTpKplw/WbTDjZBQoZI/AAAAAAAAA5M/wrFoP8Q5t7oWt0SqCHI6aOz2eje0uMfxQCLcBGAs/s320/barcode.PNG)
 
 [查看源代码](https://www.skptricks.com/2017/09/how-to-generate-bar-code-with-php.html)

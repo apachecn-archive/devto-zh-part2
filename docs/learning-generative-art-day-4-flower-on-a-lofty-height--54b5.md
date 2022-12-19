@@ -6,8 +6,8 @@
 
 ## “花在高处”
 
-[![blue](../Images/ac7efa7ee71b599234e4f3d964958b95.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YJr84RUH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j3tjpk231kdsk0icf1yk.png)
-[![yellow](../Images/1cfc7edeb389bbb8d50092961864b272.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--NmHv5X34--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4twrtrj47b3jtyl33i0b.png)
+[![blue](img/ac7efa7ee71b599234e4f3d964958b95.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YJr84RUH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j3tjpk231kdsk0icf1yk.png)
+[![yellow](img/1cfc7edeb389bbb8d50092961864b272.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--NmHv5X34--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4twrtrj47b3jtyl33i0b.png)
 
 我画了一幅画，表现一朵高高在上的花；我想知道是否有一种花在一天之内会变色。
 

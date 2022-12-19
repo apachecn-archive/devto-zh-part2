@@ -8,7 +8,7 @@
 
 在较新版本的 VirtualBox 中从**文件菜单中选择** > **主机网络管理器**。
 
-[![](../Images/2c912ef84781c985f8157df128296243.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ObLmwBFd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bi888sd6dfkdoiy0n2yb.png)
+[![](img/2c912ef84781c985f8157df128296243.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ObLmwBFd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bi888sd6dfkdoiy0n2yb.png)
 
 创建新的适配器，并设置以下选项:
 手动配置适配器。
@@ -22,9 +22,9 @@ DHCP 服务器检查
 
 您可以随意设置 IP 地址，但要确保其他选项也设置为适当的地址(DHCP 服务器地址、地址下限/上限、conf。虚拟机上的网络接口)
 
-[![](../Images/10d9185225369686d4d5bd9e4c5ba7d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t7o8PvJs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pqtn8ehvhfpkiion8sii.png)
+[![](img/10d9185225369686d4d5bd9e4c5ba7d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t7o8PvJs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pqtn8ehvhfpkiion8sii.png)
 
-[![](../Images/6441cb2fb8901dcf50b3fa7903736ff5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mX87mKhU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/abrset9ehd1buawonkj1.png)
+[![](img/6441cb2fb8901dcf50b3fa7903736ff5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mX87mKhU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/abrset9ehd1buawonkj1.png)
 
 ### 2)在虚拟机的网络设置中设置适配器
 
@@ -33,12 +33,12 @@ DHCP 服务器检查
 仅适配器 1
 主机，vboxnet0
 
-[![](../Images/9e12511f3752dc9209cad9aa3972f5ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n0SZsGS3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8k2s3c71jzrmnvd4hr5s.png)
+[![](img/9e12511f3752dc9209cad9aa3972f5ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n0SZsGS3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8k2s3c71jzrmnvd4hr5s.png)
 
 适配器 2
 NAT
 
-[![](../Images/195778574b225b208176b778ca9b843a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rJidtzK_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q20bnuk69g56m1xi0in5.png)
+[![](img/195778574b225b208176b778ca9b843a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rJidtzK_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q20bnuk69g56m1xi0in5.png)
 
 **也不要忘记点击刷新两个适配器的 mac 地址**
 
@@ -91,6 +91,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 同样，你可以在你的主机的文件中设置主机名(win = > C:\ Windows \ System32 \ drivers \ etc \ hosts，linux => /etc/hosts)这样你就不用每次都通过 ip 地址访问 VM 了。
 
-[![](../Images/1c4ed7757fa27146f208b36c4565bec6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QbUM-Poz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lfhjq3jpwtmisbzoqtxk.png)
+[![](img/1c4ed7757fa27146f208b36c4565bec6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QbUM-Poz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lfhjq3jpwtmisbzoqtxk.png)
 
 我的 hole 开发环境(和操场)在 VM 上，我在那里安装了 tomcat、apache、db、node.js 等。因为我不想污染我的主机，而且我认为这是模拟生产/测试环境的最佳解决方案。

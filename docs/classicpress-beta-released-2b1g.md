@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/scottybo/classicpress-beta-released-2b1g>
 
-[![Rocket](../Images/0fd1df0af883d03d4cb225e3e20caf79.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eOEiEwyU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qb8shuj0rwhqddp18c77.jpg)
+[![Rocket](img/0fd1df0af883d03d4cb225e3e20caf79.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eOEiEwyU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qb8shuj0rwhqddp18c77.jpg)
 
 我非常高兴地宣布 ClassicPress 和迁移插件的 BETA 版本。
 

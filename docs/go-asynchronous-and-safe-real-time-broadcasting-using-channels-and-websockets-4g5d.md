@@ -187,7 +187,7 @@ Enter fullscreen mode Exit fullscreen mode
 [https://jsfiddle.net/L31wy1gL/13/](https://jsfiddle.net/L31wy1gL/13/)
 (BTW:这就是为什么我们在代码中禁用了 code 为了能够从 js fiddle/code pen/你的虚拟 index.html 等访问 WebSocket 服务器。)
 
-[![Minimalistic JavaScript client](../Images/1c6b597d73bad9a8dc349966b9b2502e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h1gV2X4X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0f5jn0c23tmljadtqjwh.gif)
+[![Minimalistic JavaScript client](img/1c6b597d73bad9a8dc349966b9b2502e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h1gV2X4X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0f5jn0c23tmljadtqjwh.gif)
 
 这就是我这篇博文的结尾。你已经看到了很多:
 

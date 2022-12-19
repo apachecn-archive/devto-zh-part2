@@ -32,7 +32,7 @@
 
 这是我们完成后的屏幕录像:
 
-[![App Demo](../Images/e4600d09ab8ad2ad18f3c00e04b8bded.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r1-WOMqh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://images.ctfassets.net/1es3ne0caaid/1Q91alwNLe882usg0SaYSq/ed7b24e5e0caa5a17ab60e666fa69115/Build-a-Simple-Ride-Sharing-Application-with-Push-Notifications.gif)
+[![App Demo](img/e4600d09ab8ad2ad18f3c00e04b8bded.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r1-WOMqh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://images.ctfassets.net/1es3ne0caaid/1Q91alwNLe882usg0SaYSq/ed7b24e5e0caa5a17ab60e666fa69115/Build-a-Simple-Ride-Sharing-Application-with-Push-Notifications.gif)
 
 > 💡我们不会过多关注拼车功能，但我们将主要关注如何将推送通知集成到应用程序中。
 
@@ -206,7 +206,7 @@ $ pod install
 
 当 Xcode 重新启动后，打开`Main.storyboard`文件，在那里我们将为我们的客户端应用程序创建故事板。下面是我们如何设计故事板的截图:
 
-[![Storyboard One](../Images/b1ebe614d5f836ab976622e0cc75f9d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EUeoQEi7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/1es3ne0caaid/3YMvZSyqreCmOQeeQocScQ/2ae9ab81d78772f05f89ec42afb37dd8/Build-a-Simple-Ride-Sharing-Application-with-Push-Notifications-2_preview.png)
+[![Storyboard One](img/b1ebe614d5f836ab976622e0cc75f9d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EUeoQEi7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/1es3ne0caaid/3YMvZSyqreCmOQeeQocScQ/2ae9ab81d78772f05f89ec42afb37dd8/Build-a-Simple-Ride-Sharing-Application-with-Push-Notifications-2_preview.png)
 
 在主视图控制器中，我们定义了显示游乐设备状态、驾驶员详细信息和 CTA 按钮的视图。
 
@@ -433,7 +433,7 @@ enum RideStatus: String {
 
 我们需要做的最后一件事是修改`info.plist`文件。我们需要向`plist`文件添加一个条目，以允许连接到我们的本地服务器:
 
-[![plist screenshot](../Images/26bba23cfdfb339aeb94adc5830584dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n9_HEiMz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/1es3ne0caaid/wb2tHFdIKycyGAOiEAc0K/dd8a54692065db2afd55f7a6d26ef653/Build-a-Simple-Ride-Sharing-Application-with-Push-Notifications-3_preview.png)
+[![plist screenshot](img/26bba23cfdfb339aeb94adc5830584dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n9_HEiMz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/1es3ne0caaid/wb2tHFdIKycyGAOiEAc0K/dd8a54692065db2afd55f7a6d26ef653/Build-a-Simple-Ride-Sharing-Application-with-Push-Notifications-3_preview.png)
 
 让我们转到 rider 应用程序。
 
@@ -465,7 +465,7 @@ $ pod install
 
 当 Xcode 重新启动后，打开`Main.storyboard`文件，在那里我们将为我们的客户端应用程序创建故事板。下面是我们如何设计故事板的截图:
 
-[![Storyboard Two](../Images/8c22b3beebb2603fdd086841f5cd6c48.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A7t93jOR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/1es3ne0caaid/3o8cM2HnJS4EsOWkykgI42/30173b779b955b176e2941cef451d044/Build-a-Simple-Ride-Sharing-Application-with-Push-Notifications-4_preview.png)
+[![Storyboard Two](img/8c22b3beebb2603fdd086841f5cd6c48.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A7t93jOR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/1es3ne0caaid/3o8cM2HnJS4EsOWkykgI42/30173b779b955b176e2941cef451d044/Build-a-Simple-Ride-Sharing-Application-with-Push-Notifications-4_preview.png)
 
 在主视图控制器中，我们定义了显示骑手信息的视图，以及改变游乐设备状态所需的按钮。我们还有一个隐藏的视图，当没有未决请求时将会显示。
 
@@ -753,9 +753,9 @@ Pusher 依靠苹果推送通知服务(APNs)代表你向 iOS 应用用户发送�
 
 点击[这里](https://developer.apple.com/account)进入苹果开发者仪表板，然后创建一个新的密钥，如下所示:
 
-[![](../Images/92d8aaefccc284b3e1696bb3c5827a66.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L4lGH2Hm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.dropbox.com/s/luevydsymzerqsv/Food-Delivery-App-with-Push-Notifications8.gif%3Fraw%3D1)
+[![](img/92d8aaefccc284b3e1696bb3c5827a66.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L4lGH2Hm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.dropbox.com/s/luevydsymzerqsv/Food-Delivery-App-with-Push-Notifications8.gif%3Fraw%3D1)
 
-[![Create a new key gif](../Images/2240ca0da63267c3010200713e31b685.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DvSqYpLW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://images.ctfassets.net/1es3ne0caaid/54PJcejV722CkowU8MmMoY/27306a55ee5a7746a9862c276d230753/Food-Delivery-App-with-Push-Notifications8.gif)
+[![Create a new key gif](img/2240ca0da63267c3010200713e31b685.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DvSqYpLW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://images.ctfassets.net/1es3ne0caaid/54PJcejV722CkowU8MmMoY/27306a55ee5a7746a9862c276d230753/Food-Delivery-App-with-Push-Notifications8.gif)
 
 创建密钥后，下载它。请妥善保管，因为我们将在下一节用到它。
 
@@ -765,13 +765,13 @@ Pusher 依靠苹果推送通知服务(APNs)代表你向 iOS 应用用户发送�
 
 接下来你需要做的是从 [Pusher 仪表板](https://dash.pusher.com/)创建一个新的 Pusher Push 通知应用程序。
 
-[![Create a Pusher notifications instance](../Images/c632a69f781e9671072395759170b8b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Fq1zHc95--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/1es3ne0caaid/4M0aXmBsbYCEYIuo0QGEWS/9c73ea7bf9c5c2b095bd1f41160a3f64/Food-Delivery-App-with-Push-Notifications9_preview.png)
+[![Create a Pusher notifications instance](img/c632a69f781e9671072395759170b8b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Fq1zHc95--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/1es3ne0caaid/4M0aXmBsbYCEYIuo0QGEWS/9c73ea7bf9c5c2b095bd1f41160a3f64/Food-Delivery-App-with-Push-Notifications9_preview.png)
 
 创建应用程序后，您应该会看到一个快速启动向导，它将帮助您设置应用程序。
 
 为了配置推送通知，您需要从 Apple 获得一个 APNs 密钥。这与我们在上一节中下载的密钥相同。获得密钥后，将其上传到快速入门向导。
 
-[![Add APN key](../Images/75797fb499832bf862b9fbe1d5827454.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fkwO37fY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/1es3ne0caaid/1z7vYTT8tKkIsCGWSsWesq/2de8638ee5264090cbd4735349b5ce0c/Food-Delivery-App-with-Push-Notifications10_preview.png)
+[![Add APN key](img/75797fb499832bf862b9fbe1d5827454.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fkwO37fY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/1es3ne0caaid/1z7vYTT8tKkIsCGWSsWesq/2de8638ee5264090cbd4735349b5ce0c/Food-Delivery-App-with-Push-Notifications10_preview.png)
 
 输入您的 Apple 团队 ID。你可以从[这里](https://developer.apple.com/account/#/membership)获取团队 ID。点击继续进行下一步。
 
@@ -824,7 +824,7 @@ func application(_ application: UIApplication, didRegisterForRemoteNotifications
 
 接下来，我们需要为应用程序启用推送通知。在项目导航器中，选择您的项目，并点击 *Capabilities* 选项卡。[打开开关，启用推送通知](http://help.apple.com/xcode/mac/current/#/devdfd3d04a1)。
 
-[![Push Notifications - Slide On](../Images/9853ab67891f2a9519456ac5a5aa7d97.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b91bKlcA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/1es3ne0caaid/5bZgQj4Z6EUEW4iQQeK6cQ/ccb3270fe0be2d36ff8475f33f727151/Food-Delivery-App-with-Push-Notifications11.png)
+[![Push Notifications - Slide On](img/9853ab67891f2a9519456ac5a5aa7d97.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b91bKlcA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/1es3ne0caaid/5bZgQj4Z6EUEW4iQQeK6cQ/ccb3270fe0be2d36ff8475f33f727151/Food-Delivery-App-with-Push-Notifications11.png)
 
 ### 更新您的驱动程序应用程序以支持推送通知
 
@@ -834,7 +834,7 @@ func application(_ application: UIApplication, didRegisterForRemoteNotifications
 
 按照目前的情况，我们的应用程序将能够接收推送通知，但让我们更进一步，向应用程序添加丰富的操作。这将增加通知的参与度。
 
-[![Rich actions](../Images/6f90bbba354b2a510784228f0c0fc338.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_0e9KIgt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://images.ctfassets.net/1es3ne0caaid/3OD8NB9HnqWuUEmC2GqMqE/d069aeac573aec2201d1e25a09dcf01d/Build-a-Simple-Ride-Sharing-Application-with-Push-Notifications-12.gif)
+[![Rich actions](img/6f90bbba354b2a510784228f0c0fc338.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_0e9KIgt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://images.ctfassets.net/1es3ne0caaid/3OD8NB9HnqWuUEmC2GqMqE/d069aeac573aec2201d1e25a09dcf01d/Build-a-Simple-Ride-Sharing-Application-with-Push-Notifications-12.gif)
 
 首先，打开`AppDelegate`类并导入下面的类:
 
@@ -944,7 +944,7 @@ NotificationCenter.default.addObserver(
 
 在 Xcode 中，进入**文件>新建>目标……**，选择**通知服务扩展**，然后给目标命名，点击**完成**。
 
-[![xcode new notification](../Images/8e1438f584265c6647fb00d7715e35c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AKhfDbRy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/1es3ne0caaid/32GsnikME8MASUKcoYc64m/96b21f357f1d25baad3a1dc564e5b5df/Build-a-Simple-Ride-Sharing-Application-with-Push-Notifications-13_preview.png)
+[![xcode new notification](img/8e1438f584265c6647fb00d7715e35c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AKhfDbRy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/1es3ne0caaid/32GsnikME8MASUKcoYc64m/96b21f357f1d25baad3a1dc564e5b5df/Build-a-Simple-Ride-Sharing-Application-with-Push-Notifications-13_preview.png)
 
 如果您在 Xcode 的文件浏览器中查看，您应该看到添加了两个新文件的新目标:`NotificationService.swift`和`info.plist`。我们将修改这些文件，以确保它为我们的推送通知获取并提供正确的信息。
 
@@ -1006,7 +1006,7 @@ extension UNNotificationAttachment {
 
 我们想要做的最后一个更改是在`info.plist`文件中。在这里，我们想要注册推送通知的所有动作标识符。打开`info.plist`文件，添加下图中突出显示的内容；
 
-[![plist again](../Images/380ea6cbaf1efaba7e8a109b6508d7fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KBLtlU0K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/1es3ne0caaid/2gJuUviJCweaoGAGWOcgKS/3f9a7d54bc36c3a43ad993f0c10e76e2/Build-a-Simple-Ride-Sharing-Application-with-Push-Notifications-14_preview.png)
+[![plist again](img/380ea6cbaf1efaba7e8a109b6508d7fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KBLtlU0K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/1es3ne0caaid/2gJuUviJCweaoGAGWOcgKS/3f9a7d54bc36c3a43ad993f0c10e76e2/Build-a-Simple-Ride-Sharing-Application-with-Push-Notifications-14_preview.png)
 
 这就是我们在应用程序端需要做的全部工作。现在我们需要确保 API 发送推送通知。
 
@@ -1101,7 +1101,7 @@ function sendDriverPushNotification() {
 
 这就是使用 Pusher 添加推送通知的全部内容。下面是我们应用程序运行的屏幕记录:
 
-[![Side by side apps demo](../Images/54d2b15952c16dabf444828595eebdfd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sRzrgbNj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://images.ctfassets.net/1es3ne0caaid/3oyOhCLwmsO4QeMyy2cwiC/f4663506f734992dea008287bd619418/Food-Delivery-App-with-Push-Notifications15.gif)
+[![Side by side apps demo](img/54d2b15952c16dabf444828595eebdfd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sRzrgbNj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://images.ctfassets.net/1es3ne0caaid/3oyOhCLwmsO4QeMyy2cwiC/f4663506f734992dea008287bd619418/Food-Delivery-App-with-Push-Notifications15.gif)
 
 ## 结论
 

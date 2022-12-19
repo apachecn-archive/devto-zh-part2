@@ -17,7 +17,7 @@
 
 大声喊到
 
-[![jhotterbeekx image](../Images/5fa2ddc3a9ae9c638e254a04c3b36356.png)](/jhotterbeekx)
+[![jhotterbeekx image](img/5fa2ddc3a9ae9c638e254a04c3b36356.png)](/jhotterbeekx)
 
 ## [约翰·霍特比克](/jhotterbeekx)
 

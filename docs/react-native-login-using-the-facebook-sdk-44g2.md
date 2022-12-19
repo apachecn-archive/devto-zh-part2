@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/onmyway133/react-native-login-using-the-facebook-sdk-44g2>
 
-[![](../Images/0e322e2fe412f075f772609de2e5c0a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MaJGrG0a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2Aa2OpEbjt26rR2bIK)
+[![](img/0e322e2fe412f075f772609de2e5c0a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MaJGrG0a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2Aa2OpEbjt26rR2bIK)
 
 Native 有许多依赖项，每个依赖项都依赖于大量其他依赖项，而且它们移动得相当快(并破坏事物)。有时两个框架合并在一起，有时一个框架分裂成两个，这可能会导致你的应用程序发生重大变化。虽然其中大部分都是众所周知的问题，可以通过谷歌搜索解决。对我来说，React Native 节省了一些(起初)为 iOS 和 Android 开发的时间，同时让我有更多的时间去钻研[问题](https://github.com/facebook/react-native/issues)和[问题](https://stackoverflow.com/questions/tagged/react-native)。
 
@@ -12,7 +12,7 @@ Native 有许多依赖项，每个依赖项都依赖于大量其他依赖项，�
 
 我用 Visual Studio 代码做编辑器，你最需要记住的热键是 Shift + Option + F，用来格式化代码。
 
-[![](../Images/750b86a0c506a3937538174be3d48a3b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N6T3nvYG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2408/1%2An4QWEW0p9jLRlM72zBoIUw.png)
+[![](img/750b86a0c506a3937538174be3d48a3b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N6T3nvYG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2408/1%2An4QWEW0p9jLRlM72zBoIUw.png)
 
 ## 创建 React 原生 app
 
@@ -92,7 +92,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果您想更改 Android 项目的包名，您可以在 Visual Studio 代码中这样做，并记住更新相关的包名。或者推荐的方式是在 [Android Studio](https://stackoverflow.com/questions/16804093/android-studio-rename-package) 中进行
 
-[![](../Images/77dca071972d0079c12db6ee3f10c8bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6jpUkTqq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AAg65Wtg_fXrX4Rd5.png)
+[![](img/77dca071972d0079c12db6ee3f10c8bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6jpUkTqq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AAg65Wtg_fXrX4Rd5.png)
 
 我[遇到了](https://stackoverflow.com/questions/48769719/runtimeexception-the-facebook-sdk-must-be-initialized-before-calling-activateap?rq=1) [和](https://stackoverflow.com/questions/44544866/deprecated-facebooksdk-method-throws-runtimeexception) [的 sdkInitialize 问题](https://stackoverflow.com/questions/41884349/facebooksdk-sdkinitialize-context-is-deprecated)，解决方案是删除它们。这是 onCreate 在 MainApplication.java 的样子
 
@@ -112,7 +112,7 @@ React Native 有很多导航框架，但目前最流行的是 [React Navigation]
 
 我们将创建 LoginNavigator 来管理登录流，创建 MainNavigator 来管理登录后的流。我们根据脸书的登录状态在两者之间切换。我喜欢将代码分成组件，这是文件夹结构
 
-[![](../Images/b87bee99e06db8188c7fb18e24aa3413.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_avFjouw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AYRP0-3uHB3BEUxrf1MZ8Fg.png)
+[![](img/b87bee99e06db8188c7fb18e24aa3413.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_avFjouw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AYRP0-3uHB3BEUxrf1MZ8Fg.png)
 
 ## 切换导航器
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jacobgoh101/simple--customizable-web-scraper-using-rxjs-and-node-1on7>
 
-[![spider](../Images/a0ab58192ed97b0acffa5a8118c2e937.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z7oOhJtP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/7ULqwvX.jpg)
+[![spider](img/a0ab58192ed97b0acffa5a8118c2e937.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z7oOhJtP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/7ULqwvX.jpg)
 
 # 简介
 
@@ -12,7 +12,7 @@
 
 代码可在以下网址找到
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) [ jacobgoh101 ](https://github.com/jacobgoh101) / [用 rxjs 刮网](https://github.com/jacobgoh101/web-scraping-with-rxjs)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) [ jacobgoh101 ](https://github.com/jacobgoh101) / [用 rxjs 刮网](https://github.com/jacobgoh101/web-scraping-with-rxjs)
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 

@@ -12,7 +12,7 @@
 
 允许两个程序与同一个串行端口交互的更好的方法是使用 COM 端口分离器应用程序，如[虚拟 COM 端口驱动程序 PRO](https://www.eltima.com/products/vspdxp/#vspd-versions) 。
 
-[![Using VSPD PRO with Ham radio apps](../Images/d2dbc845dc273609cbe19b3938430640.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V_ae1Wh5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-AkmVhqTbGp0/W3NRaE8kUyI/AAAAAAAArZU/oUvVYMiLV0Md0v9LTjTPtG_CpU9BANPSgCEwYBhgL/s640/Using%252BEtima%252BSoftware%252BTo%252Bshare%252Ba%252BSerial%252BPort.png)
+[![Using VSPD PRO with Ham radio apps](img/d2dbc845dc273609cbe19b3938430640.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V_ae1Wh5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-AkmVhqTbGp0/W3NRaE8kUyI/AAAAAAAArZU/oUvVYMiLV0Md0v9LTjTPtG_CpU9BANPSgCEwYBhgL/s640/Using%252BEtima%252BSoftware%252BTo%252Bshare%252Ba%252BSerial%252BPort.png)
 
 使用该软件解决方案，您可以将单个物理串行端口拆分成多个虚拟副本。这允许所有的串行程序同时连接到同一个真实端口。虚拟副本显示为不同的 COM 端口，而实际上它们都使用相同的物理接口。使用串行端口分离软件可以让你连接尽可能多的程序到你的业余无线电收发机。
 
@@ -28,7 +28,7 @@
 
 同样，我们需要将单个数据流分割成多个数据流的能力，否则将面临一次只使用一个应用程序的前景。虚拟 COM 端口驱动程序 PRO 是解决这个问题的一个优秀而简单的解决方案，它允许您从一个物理接口创建任意多的虚拟串行端口。这使您可以与任意多的应用程序共享来自 GPS 单元的信息。所有程序将同时访问相同的数据。
 
-[![Split GPS data](../Images/2a924f16ff2d65a35ecb36fc42583e45.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--01fmoMEN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.virtual-serial-port.org/imgnew/products/sps/splash/image.png)
+[![Split GPS data](img/2a924f16ff2d65a35ecb36fc42583e45.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--01fmoMEN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.virtual-serial-port.org/imgnew/products/sps/splash/image.png)
 
 如上所示，你可以看到虚拟串行端口驱动程序 PRO 是最好的 Com 端口分离器之一。它的高级功能对于使用 PC 与设备交互的业余无线电爱好者来说非常有用。使用虚拟串行端口驱动程序专业版，您可以:
 

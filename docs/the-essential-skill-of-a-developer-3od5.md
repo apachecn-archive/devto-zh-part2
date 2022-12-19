@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/starbist/the-essential-skill-of-a-developer-3od5>
 
-[![The Essential Skill of a Developer](../Images/9d202360803b0b2a59ef4610dd4a6353.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KeQApZt8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kqozucftn4mij31z6eu5.jpg)
+[![The Essential Skill of a Developer](img/9d202360803b0b2a59ef4610dd4a6353.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KeQApZt8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kqozucftn4mij31z6eu5.jpg)
 
 *这篇文章最初发表于 [silvestar.codes](https://www.silvestar.codes/articles/modern-frontend-developer-skills-and-tools/) 。*
 
@@ -14,7 +14,7 @@
 
 我已经为我在职业生涯中获得的技能和工具创建了一张[思维导图](https://coggle.it/diagram/Wy9XDVsxfi3TaCnK/t/silvestar-bistrovi%C4%87-web-developer%2C-coder-toptal-freelancer)。它的灵感来自于 [Kamran Ahmed](https://twitter.com/kamranahmedse) 的[网络开发者路线图](https://github.com/kamranahmedse/developer-roadmap)。Kamran 的路线图让我思考我学到了什么，我有多少技能，这些技能是否仍然有效和必需。我使用我的[总档案](https://www.toptal.com/resume/silvestar-bistrovic#trust-nothing-but-brilliant-freelancers)作为技能和工具的参考，因为我试图在那里保持我的档案最新。
 
-[![Mindmap](../Images/6e768dcc8b53d05ad01accdad20f158e.png)T2】](https://coggle.it/diagram/Wy9XDVsxfi3TaCnK/t/silvestar-bistrovi%C4%87-web-developer%2C-coder-toptal-freelancer)
+[![Mindmap](img/6e768dcc8b53d05ad01accdad20f158e.png)T2】](https://coggle.it/diagram/Wy9XDVsxfi3TaCnK/t/silvestar-bistrovi%C4%87-web-developer%2C-coder-toptal-freelancer)
 
 一旦我回顾了所有技能，我决定根据我的就业状况将我的职业生涯分为三个部分。
 

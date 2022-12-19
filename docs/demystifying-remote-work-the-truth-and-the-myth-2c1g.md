@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/raulmonteroc/demystifying-remote-work-the-truth-and-the-myth-2c1g>
 
-[![](../Images/a67a3f25c90e0ac61911f7ec65e75c09.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--btJuMo9M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raulmonteroc.com/wp-content/uploads/2018/04/Remote-Working-1-e1524101448590.jpeg)
+[![](img/a67a3f25c90e0ac61911f7ec65e75c09.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--btJuMo9M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raulmonteroc.com/wp-content/uploads/2018/04/Remote-Working-1-e1524101448590.jpeg)
 
 啊，在海滩(或山上)工作，有自己的时间，没有老板在你的脖子后面呼吸，换句话说，自由的同时仍然是一个负责任的成年人。听起来不错，对吧？远程工作的想法确实很吸引人。当地点变得可选时，许多想法浮现在脑海中。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/suprnova32/on-rsums-and-applying-tojobs--4oha>
 
-[![](../Images/f415b0de2d6eacfb64ce71fac56dd0f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SOtYzlDi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1454165804606-c3d57bc86b40)
+[![](img/f415b0de2d6eacfb64ce71fac56dd0f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SOtYzlDi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1454165804606-c3d57bc86b40)
 
 我想写这篇文章已经有一段时间了，特别是在我短暂担任 GitLab 服务工程师职位的招聘经理之后。最终让我吃惊的是斯蒂芬妮·赫尔伯特的这条推特，她问她的粉丝们是否希望他们的简历被审查。我意识到围绕这个话题写一些建议是有意义的，不仅仅是为了简历，而是为了申请一份工作。那么，让我们开始吧…
 

@@ -12,7 +12,7 @@
 
 该版本还包括许多较小的错误修复，改进和补充。一切都经过测试并记录在案。然而，我称之为“测试”版本，以鼓励你在你的项目中测试它，并给我你的反馈。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)[GPUOpen-LibrariesAndSDKs](https://github.com/GPUOpen-LibrariesAndSDKs)/[VulkanMemoryAllocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)[GPUOpen-LibrariesAndSDKs](https://github.com/GPUOpen-LibrariesAndSDKs)/[VulkanMemoryAllocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator)
 
 ### 易于集成的 Vulkan 内存分配库
 
@@ -32,8 +32,8 @@
 
 **构建状态:**
 
-*   Windows: [![Build status](../Images/3bff058f5d04afc8eb8fa579017cdef9.png)](https://ci.appveyor.com/project/adam-sawicki-amd/vulkanmemoryallocator/branch/master)
-*   Linux:[![Build Status](../Images/a242593e2ad8b9ccd1eee00a717772ea.png)T2】](https://travis-ci.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator)
+*   Windows: [![Build status](img/3bff058f5d04afc8eb8fa579017cdef9.png)](https://ci.appveyor.com/project/adam-sawicki-amd/vulkanmemoryallocator/branch/master)
+*   Linux:[![Build Status](img/a242593e2ad8b9ccd1eee00a717772ea.png)T2】](https://travis-ci.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator)
 
 # 问题
 

@@ -8,7 +8,7 @@
 
 由 [CodeCarrot](https://www.codecarrot.net/) 开发的 LogChimp 是为你的产品创建 changelog 的现代方式，不需要学习任何语言或工具来使用它，就像发布一个博客一样。
 
-[![LogChimp website screenshot](../Images/1e1f7db1211507fc0b6300f6619b520a.png)T2】](https://logchimp.now.sh/)
+[![LogChimp website screenshot](img/1e1f7db1211507fc0b6300f6619b520a.png)T2】](https://logchimp.now.sh/)
 
 它的核心是动力🌟由[杰基尔](https://jekyllrb.com)和 [LogChimp 默认的主题](https://rubygems.org/gems/logchimp)和牛逼👓部分原因是，它是免费和开源的。
 
@@ -31,11 +31,11 @@
 
 您一定在您的存储库中创建了一个看起来很无聊的`changelog.md`文件💤或者 GitHub 发布的...
 
-[![Old way of changelog](../Images/aae3d60c46d89265a0b76a2908bc2711.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iO1ZnDa7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0g02j46nhy3u7h6zrmco.gif)
+[![Old way of changelog](img/aae3d60c46d89265a0b76a2908bc2711.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iO1ZnDa7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0g02j46nhy3u7h6zrmco.gif)
 
 现在让我们看看😲LogChimp 看起来怎么样
 
-[![Jasper Logchimp changelog](../Images/64c2e0c8f639b0827f35c9331862f309.png)T2】](https://mittalyashu.gitlab.io/jasper-changelog/)
+[![Jasper Logchimp changelog](img/64c2e0c8f639b0827f35c9331862f309.png)T2】](https://mittalyashu.gitlab.io/jasper-changelog/)
 
 # 如何入门？
 

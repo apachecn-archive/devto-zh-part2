@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/melezhik/super-flexible-infrastructure-audit-with-outthentic-2a3>
 
-[![https://raw.githubusercontent.com/melezhik/outthentic-dev.to/master/images/outthentic-example.png](../Images/9d37a2d5d3cf708349d1d63a747cb70b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v_IqekDc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/melezhik/outthentic-dev.to/master/images/outthentic-example.png)
+[![https://raw.githubusercontent.com/melezhik/outthentic-dev.to/mastimg/outthentic-example.png](img/9d37a2d5d3cf708349d1d63a747cb70b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v_IqekDc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/melezhik/outthentic-dev.to/mastimg/outthentic-example.png)
 
 将 devops 带入我们的日常生活使得创建新的服务器变得非常简单。云提供商使得只需点击一下鼠标就可以创建新的虚拟机。因此服务器基础设施审计工具的重要性变得越来越重要。像戈斯和 T2 这样的工具可以完成这项工作。
 

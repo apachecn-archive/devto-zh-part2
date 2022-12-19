@@ -13,6 +13,6 @@
 
 随着我继续前进，我改变了风格和布局等，但现在(和后代)这里是第一天的主页:
 
-[![Day 1](../Images/ae0f4cf192e402258c5f41b103573fcb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hF26NnUd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://garfbradaz.github.io/assets/img/posts/day_1.PNG)
+[![Day 1](img/ae0f4cf192e402258c5f41b103573fcb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hF26NnUd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://garfbradaz.github.io/assets/img/posts/day_1.PNG)
 
 [源帖](https://garfbradaz.github.io/blog/2018/07/07/Arise-New-Blog.html)

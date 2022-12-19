@@ -28,7 +28,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 `Office`仅**接受**特定类型的集装箱:`Container[Paper]`和`Container[Glass]`。但那不实际！实际上，相同类型的容器有不同的颜色:
 
-[![Waste containers](../Images/3ddf8c355b381bd92862530f52987116.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VHl7Sq6l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kbgqpvdt51a17433hmj7.jpg)
+[![Waste containers](img/3ddf8c355b381bd92862530f52987116.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VHl7Sq6l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kbgqpvdt51a17433hmj7.jpg)
 
 它们并不像例子中所暗示的那样专门化。
 

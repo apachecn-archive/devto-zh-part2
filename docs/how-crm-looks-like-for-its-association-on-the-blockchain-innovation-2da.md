@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/xtreemsolution/how-crm-looks-like-for-its-association-on-the-blockchain-innovation-2da>
 
-[![](../Images/78056a551213248b2dc8856ef68508f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--986G-ny6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nn9gsjevx1ez2hcc9ibp.jpg)
+[![](img/78056a551213248b2dc8856ef68508f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--986G-ny6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nn9gsjevx1ez2hcc9ibp.jpg)
 
 在中部，区块链给适应性强，此外，信息管理的强烈设置。CRM 围绕着信息旋转，信息包含各种交换记录的容量和恢复，以及客户和商家之间的合作。CRM 以及其他相关创新基本上推动了业务前端及其后台框架的发展，这些框架变得更加错综复杂，导致组织寻找客户的 360 度图。区块链可以帮助传递信息，并增强 CRM 应用开发。
 
@@ -22,7 +22,7 @@
 
 区块链为企业提供了与客户合作的各种方法。令牌在应用中会受到阻碍，例如，比特币。目前，这种新的代币可以很容易地制造出来。任何一种利益都可以毫不费力地被符号化，客户可以有各种各样的动机。此后，标记化提供了适应客户端通信的最新方法。区块链同样可以用来记录各种权威情况、推广印象和经销商安装。
 
-[![](../Images/86b78bb7a51502301ac39451a43a3185.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Tq9JFNH7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eg6ch894omemj3lj82qu.jpg)
+[![](img/86b78bb7a51502301ac39451a43a3185.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Tq9JFNH7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eg6ch894omemj3lj82qu.jpg)
 
 每一项信息都可以保存在各种记录的共同安排中，这种安排是非常不变的，也是完全可审计的。区块链可以帮助在计算机化推广的组织中重建确定性，并有助于宣传美元，通过更值得注意的直白的方法来鼓励，这给生产网络中的每一个人提供了一个孤独的和一种真理的源泉。
 

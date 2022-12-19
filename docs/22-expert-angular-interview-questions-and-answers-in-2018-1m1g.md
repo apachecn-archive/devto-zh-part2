@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/aershov24/22-expert-angular-interview-questions-and-answers-in-2018-1m1g>
 
-[![22 Expert Angular Interview Questions and Answers in 2018](../Images/26a6b674aeee0acfc61efe7b190e8cd4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--U5VqodS1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/70402/pexels-photo-70402.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D350) 
+[![22 Expert Angular Interview Questions and Answers in 2018](img/26a6b674aeee0acfc61efe7b190e8cd4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--U5VqodS1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/70402/pexels-photo-70402.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D350) 
 高级和专家级棱角面试问题终极清单。用它来雇用一个新的团队成员，测试自己，嘲笑你的领导开发或完全忽略。问题来源于[Khan 4019/angular-interview-questions](https://github.com/khan4019/angular-interview-questions)并在 [FullStack 上回答。咖啡馆](https://www.fullstack.cafe)。
 
 > 最初发表于 [FullStack。永远不要再错过你的技术面试](https://www.fullstack.cafe)
@@ -125,7 +125,7 @@ Angular 中的一个组件有一个生命周期，它经历了从出生到死亡
 *   在 Angular 将任何内容投影到组件视图后调用 ngAfterContentInit (更多信息请参见前面关于内容投影的讲座)。
 *   **ngAfterContentChecked** 每当 Angular 的变化检测机制检查到给定组件的内容时调用。
 *   **ngafterview it**当组件的视图已经完全初始化时调用。
-*   **ngAfterViewChecked** 每次给定组件的视图被角度变化检测机制检查时调用。![](../Images/8365a5c9f6dc17059ee40dbe1ea21bfd.png)
+*   **ngAfterViewChecked** 每次给定组件的视图被角度变化检测机制检查时调用。![](img/8365a5c9f6dc17059ee40dbe1ea21bfd.png)
 
 🔗**来源:** [codecraft.tv](https://codecraft.tv/courses/angular/components/lifecycle-hooks/)
 

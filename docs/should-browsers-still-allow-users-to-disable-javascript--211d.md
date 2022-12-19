@@ -6,6 +6,6 @@
 
 我们可爱的社区成员中有近 40%投票认为浏览器不应该再允许用户禁用 JavaScript。
 
-[![](../Images/6cccac41a3b1a1336999a9fcc2221f99.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dd6LHa5c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/5f5188dc1be0/Image%25202018-08-30%2520at%25206.02.38%2520PM.png)
+[![](img/6cccac41a3b1a1336999a9fcc2221f99.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dd6LHa5c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/5f5188dc1be0/Image%25202018-08-30%2520at%25206.02.38%2520PM.png)
 
 这里所涉及的感情不能仅仅用一个二元来完全表达。你对这个问题有什么想法？

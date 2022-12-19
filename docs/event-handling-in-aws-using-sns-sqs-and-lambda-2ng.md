@@ -21,7 +21,7 @@
 
 我们的目标是开发一个事件管道，每当有人上传图片到 S3 桶时，它就向 Slack 通道发送一条消息。出于演示目的，我们还将把事件存储在一个队列中进行异步处理。该架构涉及 S3 事件通知、SNS 主题、SQS 队列和向 Slack 通道发送消息的 Lambda 函数。这是最终结果的动画。
 
-[![notification](../Images/d9d4bd4aa28cd498250cbd3bf2c5e17a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w33xX2Ey--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/3427394/41991790-023da6e6-7a47-11e8-957b-9990c3683eed.gif)
+[![notification](img/d9d4bd4aa28cd498250cbd3bf2c5e17a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w33xX2Ey--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/3427394/41991790-023da6e6-7a47-11e8-957b-9990c3683eed.gif)
 
 该职位的其余部分结构如下。首先将有一个架构概述。然后，像往常一样，我们将一步一步地详细介绍如何使用 Terraform 进行设置。我们通过讨论主要发现来结束这篇文章。
 
@@ -31,7 +31,7 @@
 
 SQS 队列存储用于异步处理的事件，例如缩略图生成或图像分类。Lambda 函数解析事件，并向松弛通道发送通知消息。在这篇博文的范围内，我们不打算讨论异步处理部分。由于发布和订阅与 SNS 的分离，我们可以自由地为以后的活动添加更多的消费者。
 
-[![architecture overview](../Images/372e3e13f875acd9f7cebe1928335bcb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7vQx7ZYZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7aspcgbyc4wgp2iykwmp.png)
+[![architecture overview](img/372e3e13f875acd9f7cebe1928335bcb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7vQx7ZYZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7aspcgbyc4wgp2iykwmp.png)
 
 让我们详细看看各个组件。S3 用桶来组织物品。在一个存储桶中，您可以通过键引用单个对象。向 S3 上传文件可以通过 [AWS 控制台](https://s3.console.aws.amazon.com/s3/)、 [AWS CLI](https://docs.aws.amazon.com/cli/latest/reference/s3/) 完成，也可以直接通过 [S3 API](https://docs.aws.amazon.com/AmazonS3/latest/API/Welcome.html) 完成。
 
@@ -62,7 +62,7 @@ SNS 是一个简单的发布/订阅服务，围绕*主题*进行组织。主题�
 
 ## S3 斗
 
-[![s3 bucket architecture](../Images/3241f8a5be7bc63897902090c7015181.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--am4U_6C8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mbt8wqcja0cjrzs2oj7n.png)
+[![s3 bucket architecture](img/3241f8a5be7bc63897902090c7015181.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--am4U_6C8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mbt8wqcja0cjrzs2oj7n.png)
 
 首先，我们将创建 S3 桶，我们可以上传图片。我们需要提供一个 bucket 名称和一个 ACL。这次 ACL 将会是`public-read`,因为我们希望人们能够公开他们的图片，但上传时需要认证。`force-destroy`选项允许 Terraform 销毁桶，即使它不是空的。
 
@@ -82,7 +82,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## SNS 话题
 
-[![SNS topic architecture](../Images/aad80d87644a8287d67fabbc2f835b83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KijSeKTz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wpa8wom8vit6rmnoqp4o.png)
+[![SNS topic architecture](img/aad80d87644a8287d67fabbc2f835b83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KijSeKTz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wpa8wom8vit6rmnoqp4o.png)
 
 接下来，让我们创建 SNS 主题。要创建 SNS 主题，我们只需提供一个名称。
 
@@ -135,7 +135,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## S3 事件通知
 
-[![S3 event notification architecture](../Images/01b922266c01a9aae44c76af398c0143.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d0JElOTk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/muj2bboalqwlr7p7tmny.png)
+[![S3 event notification architecture](img/01b922266c01a9aae44c76af398c0143.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d0JElOTk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/muj2bboalqwlr7p7tmny.png)
 
 定义了 SNS 主题和 S3 时段资源后，我们可以通过创建将发布到主题的 S3 时段通知来组合它们。我们可以控制我们想要得到通知的[事件](https://docs.aws.amazon.com/AmazonS3/latest/dev/NotificationHowTo.html#notification-how-to-event-types-and-destinations)。在我们的例子中，我们对所有的对象创建事件感兴趣。我们还可以指定可选的过滤器，例如，在这种情况下，只通知`*.jpeg`文件。
 
@@ -155,7 +155,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## SQS 队列
 
-[![SQS queue architecture](../Images/d6907e283669dcd87711278addc3c066.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wZnYu1d4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lr04pqwsaqmtgkcql05p.png)
+[![SQS queue architecture](img/d6907e283669dcd87711278addc3c066.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wZnYu1d4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lr04pqwsaqmtgkcql05p.png)
 
 SQS 队列的创建方式类似。我们必须提供队列的名称和允许 SNS 向队列发送消息的策略。
 
@@ -205,7 +205,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## SQS 订阅
 
-[![SQS subscription architecture](../Images/5358e92ce1ec999cfedc9f39d4f66baf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--otazN0CU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ggqipqjgq460w7j0klsx.png)
+[![SQS subscription architecture](img/5358e92ce1ec999cfedc9f39d4f66baf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--otazN0CU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ggqipqjgq460w7j0klsx.png)
 
 接下来，我们需要为队列订阅主题。SNS 话题订阅支持[多协议](https://docs.aws.amazon.com/sns/latest/api/API_Subscribe.html) : `http`、`https`、`email`、`email-json`、`sms`、`sqs`、`application`、`lambda`。在这种情况下，我们将使用`sqs`协议，并提供主题和队列端点。
 
@@ -221,7 +221,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 松紧网钩
 
-[![slack webhook architecture](../Images/b27b95f6d3d3edc35adbf19b760de05d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bSJ71Aqf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xpxn3s06q1frpcyxaiww.png)
+[![slack webhook architecture](img/b27b95f6d3d3edc35adbf19b760de05d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bSJ71Aqf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xpxn3s06q1frpcyxaiww.png)
 
 在我们编写 Lambda 函数并订阅 SNS 主题之前，我们将创建 Slack webhook。在松弛状态下使用引入的网钩分四步完成:
 
@@ -232,13 +232,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 完成这些步骤后，您将在 [Slack 应用概述页面](https://api.slack.com/apps)中看到您的应用和配置的 webhook。它可能看起来像这样。
 
-[![slack app](../Images/c6c728ff45ce4889d88dca53c0805585.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P-zCUeDh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/758gv2dii97hq6l2761n.png)
+[![slack app](img/c6c728ff45ce4889d88dca53c0805585.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P-zCUeDh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/758gv2dii97hq6l2761n.png)
 
-[![slack webhook](../Images/9f319ec477a071c79b2dfaf6f01bbe93.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yBXbJk3A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9ke3j9qdmabujyz65igx.png)
+[![slack webhook](img/9f319ec477a071c79b2dfaf6f01bbe93.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yBXbJk3A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9ke3j9qdmabujyz65igx.png)
 
 ## λ函数
 
-[![lambda architecture](../Images/45e4b2189a991dee471f1cd0d435b9b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZMzYJjRL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m5fmm2vfx2l5aameupy6.png)
+[![lambda architecture](img/45e4b2189a991dee471f1cd0d435b9b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZMzYJjRL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m5fmm2vfx2l5aameupy6.png)
 
 ### 报文格式
 
@@ -401,7 +401,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## λ订阅
 
-[![lambda sns subscription architecture](../Images/e3bf95703e76bf74479e73344ebe5181.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x-5vppEy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h4p2qrbppnn2232y10t5.png)
+[![lambda sns subscription architecture](img/e3bf95703e76bf74479e73344ebe5181.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x-5vppEy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h4p2qrbppnn2232y10t5.png)
 
 要完成我们的管道，唯一缺少的环节是订阅 SNS 主题的 Lambda 函数。这与 SQS 订阅基本相同，但这次使用了`lambda`协议。
 
@@ -419,7 +419,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在我们可以运行`terraform apply`。确保您之前执行了`sbt assembly`，以便 Terraform 可以上传工件。
 
-[![terraform deployment](../Images/7d843a4fd47053736d8e452dc8aa688e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BxnvvYbh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/liuf26qdnav048itbmzj.gif)
+[![terraform deployment](img/7d843a4fd47053736d8e452dc8aa688e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BxnvvYbh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/liuf26qdnav048itbmzj.gif)
 
 # 结论
 

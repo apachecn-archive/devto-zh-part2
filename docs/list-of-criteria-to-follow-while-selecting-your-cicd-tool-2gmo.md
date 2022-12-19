@@ -8,4 +8,4 @@ CI 是采用#DevOps 的第一步，因此选择正确的 CI 平台将使您有�
 
 以下是您在选择 CI/CD 平台时应该评估的十大事项[https://dzone . com/articles/10-选择 CI 平台时要考虑的事项](https://dzone.com/articles/10-things-to-consider-while-choosing-a-ci-platform)
 
-[![list of cicd tools](../Images/761bc7ee31a3b24409ce6bdfde59aec1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aCyt30r4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vww4kkpyz31mzw4xyjbo.png)
+[![list of cicd tools](img/761bc7ee31a3b24409ce6bdfde59aec1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aCyt30r4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vww4kkpyz31mzw4xyjbo.png)

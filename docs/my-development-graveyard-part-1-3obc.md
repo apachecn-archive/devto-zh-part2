@@ -6,7 +6,7 @@ Github 墓地的概念是由 Isaac Lyman 在 [this dev.to post](https://dev.to/i
 
 背景:这是一个简单的单页面网站，主要是测试 Github 页面是如何工作的。我在 2018 年新年的时候有了这个想法，创建一个明年的倒计时，看起来像《塞尔达传说:马约拉的面具》中的“剩余 x 天”卡片。
 
-[![The Legend of Zelda: Majora's Mask - Dawn of the First Day](../Images/80ed9d7c330848bb24967a6c85aa11e2.png)T2】](///static/zelda-dc906193c8804853019bc397fc94300f-5979c.jpg)
+[![The Legend of Zelda: Majora's Mask - Dawn of the First Day](img/80ed9d7c330848bb24967a6c85aa11e2.png)T2】](///static/zelda-dc906193c8804853019bc397fc94300f-5979c.jpg)
 
 **我学到了什么**
 

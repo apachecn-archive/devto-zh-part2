@@ -6,7 +6,7 @@
 
 你好-和我一起工作。Net 在 windows 之外。任何想做同样事情的人的快速指南。
 
-[![chrisvasqm](../Images/e4a5dffbeebdbe975aabe7903c567401.png)](/chrisvasqm) [## 我的。MacOS/Linux 的 NET Core 设置
+[![chrisvasqm](img/e4a5dffbeebdbe975aabe7903c567401.png)](/chrisvasqm) [## 我的。MacOS/Linux 的 NET Core 设置
 
 ### 克里斯蒂安·瓦斯奎兹 10 月 13 ' 18 ' 4 分钟阅读
 
@@ -16,7 +16,7 @@
 
 从基础到围绕 JavaScript 原型的其他“重要知识”主题。
 
-[![tylermcginnis](../Images/ca6cdb17096e29ad8115f996fd49771e.png)](/tylermcginnis) [## JavaScript 原型初学者指南
+[![tylermcginnis](img/ca6cdb17096e29ad8115f996fd49771e.png)](/tylermcginnis) [## JavaScript 原型初学者指南
 
 ### 泰勒·麦金尼斯 10 月 9 日 1819 分钟阅读
 
@@ -26,7 +26,7 @@
 
 Addy 分享了如何根据用户的网络连接质量来提供内容。
 
-[![addyosmani](../Images/bd1ae7d1fc5d62b9ad260d95b03c5c3b.png)](/addyosmani) [## 使用 JavaScript 和网络信息 API 的自适应服务
+[![addyosmani](img/bd1ae7d1fc5d62b9ad260d95b03c5c3b.png)](/addyosmani) [## 使用 JavaScript 和网络信息 API 的自适应服务
 
 ### addy Osmani 10 月 8 日 183 分钟读取
 
@@ -36,7 +36,7 @@ Addy 分享了如何根据用户的网络连接质量来提供内容。
 
 Jenn 分享了职业发展的内容和原因，以及如何让它发生。想想:防御性日历！
 
-[![geekgalgroks](../Images/e39bd5511955024580ad945870b41c00.png)](/geekgalgroks) [## 内向者职业发展指南
+[![geekgalgroks](img/e39bd5511955024580ad945870b41c00.png)](/geekgalgroks) [## 内向者职业发展指南
 
 ### 10 月 10 日 183 分钟读取
 
@@ -52,7 +52,7 @@ Jenn 分享了职业发展的内容和原因，以及如何让它发生。想想
 
 "为了消除不必要的东西，我们必须用 JavaScript 重写所有的东西."Lewis 分享了我们如何到达 JAMstack 的快速历史。
 
-[![lewismenelaws](../Images/654b262827a320f8aa641fd7160ae9e7.png)](/lewismenelaws) [## 詹姆斯塔克。网站如何在膨胀的网络中变得更快。
+[![lewismenelaws](img/654b262827a320f8aa641fd7160ae9e7.png)](/lewismenelaws) [## 詹姆斯塔克。网站如何在膨胀的网络中变得更快。
 
 ### 刘易斯·梅内利奥斯
 
@@ -62,7 +62,7 @@ Jenn 分享了职业发展的内容和原因，以及如何让它发生。想想
 
 如果你对远程工作犹豫不决，这篇文章是为你准备的。林赛分享了他们是如何“掌握”这一切的。
 
-[![lkopacz](../Images/cd7d14f0da8b5733c447c96ff9f5a2f6.png)](/lkopacz) [## 我从远程工作中学到的 10 件事
+[![lkopacz](img/cd7d14f0da8b5733c447c96ff9f5a2f6.png)](/lkopacz) [## 我从远程工作中学到的 10 件事
 
 ### 林赛·科帕奇 10 月 13 日 185 分钟阅读
 

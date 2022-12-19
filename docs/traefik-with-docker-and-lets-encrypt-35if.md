@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/joenas/traefik-with-docker-and-lets-encrypt-35if>
 
-[![Traefik with Docker and Let's Encrypt](../Images/e5b7541d4a6b17f1a05de9ffc8b726e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xygsb0WV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonnev.se/content/images/2018/03/Screen-Shot-2018-03-13-at-22.19.45-1.png)
+[![Traefik with Docker and Let's Encrypt](img/e5b7541d4a6b17f1a05de9ffc8b726e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xygsb0WV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonnev.se/conteimg/2018/03/Screen-Shot-2018-03-13-at-22.19.45-1.png)
 
 我在 Docker 中运行我的大部分服务，以前我使用`nginx`作为反向和 TLS 终止代理以及 Let's Encrypt。这非常有效，但每次我想尝试新的东西时，我都必须复制粘贴另一个配置并更改一些值。我可能可以在某种程度上实现自动化，也有其他人这样做了，但随着我最近迁移到 VPSes，我想我应该给 [Traefik](https://traefik.io) 一个尝试，如果没有其他东西是为了他们**令人敬畏的**标志的话！
 
@@ -144,7 +144,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 检查日志(`docker-compose logs`)并前往您配置的域，您应该会看到类似这样的内容(截图是几个版本之前拍摄的，已经重新设计)。
 
-[![Screen-Shot-2018-03-13-at-22.19.45](../Images/2b8daf7330e4307be5d2c2e4c3bedf48.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6uR448PK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonnev.se/content/images/2018/03/Screen-Shot-2018-03-13-at-22.19.45.png)
+[![Screen-Shot-2018-03-13-at-22.19.45](img/2b8daf7330e4307be5d2c2e4c3bedf48.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6uR448PK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonnev.se/conteimg/2018/03/Screen-Shot-2018-03-13-at-22.19.45.png)
 
 ### 基本认证
 
@@ -191,7 +191,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ...而且你要有基本的 auth！
 
-[![Screen-Shot-2018-03-13-at-22.30.58](../Images/28c7a65b28a803050e23fc94ff5b287f.png)T2】](/content/images/2018/03/Screen-Shot-2018-03-13-at-22.30.58.png)
+[![Screen-Shot-2018-03-13-at-22.30.58](img/28c7a65b28a803050e23fc94ff5b287f.png)T2】](/conteimg/2018/03/Screen-Shot-2018-03-13-at-22.30.58.png)
 
 ## 添加一个容器
 

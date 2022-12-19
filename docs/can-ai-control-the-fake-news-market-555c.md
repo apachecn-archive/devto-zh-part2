@@ -30,7 +30,7 @@
 
 ## 假新闻信息图:数字
 
-### [![](../Images/4af405249ad844170f445613c805325f.png)T4】](https://apiumhub.com/wp-content/uploads/2018/06/Fake_News_Numbers_Infographic-700x3124-1-1.jpg)
+### [![](img/4af405249ad844170f445613c805325f.png)T4】](https://apiumhub.com/wp-content/uploads/2018/06/Fake_News_Numbers_Infographic-700x3124-1-1.jpg)
 
 ### 结论
 
@@ -40,6 +40,6 @@
 
 保罗·马修斯(Paul Matthews)是曼彻斯特的一名自由职业商业作家，他使用了各种资源，尤其是 Reddit 和福布斯。他的目标是让企业主和专业人士更好地了解互联网的潜力。你经常可以在山地自行车或当地图书馆找到他。
 
-[![](../Images/388aaf02b8a82b8aa44b8e0cccecf941.png)T2】](https://apiumhub.com/wp-content/uploads/2018/06/author-prof-pic.jpg)
+[![](img/388aaf02b8a82b8aa44b8e0cccecf941.png)T2】](https://apiumhub.com/wp-content/uploads/2018/06/author-prof-pic.jpg)
 
 人工智能能控制“假新闻”市场吗？最早出现在 [Apiumhub](https://apiumhub.com) 上。

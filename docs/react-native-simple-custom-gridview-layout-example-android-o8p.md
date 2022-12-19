@@ -8,6 +8,6 @@
 
 [React 原生简单自定义 GridView 布局示例 Android](https://www.skptricks.com/2018/09/react-native-simple-custom-gridview-layout-example.html)
 
-[![](../Images/2f7e74d15a66d6a2376e1366ad7d35af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5VPB9T0Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-U6DxHFlg770/W7ECe9uy4rI/AAAAAAAAB-0/Mumx0xM2APQkq4ynVni17BEo1wK1tU-NgCLcBGAs/s640/grid.png)
+[![](img/2f7e74d15a66d6a2376e1366ad7d35af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5VPB9T0Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-U6DxHFlg770/W7ECe9uy4rI/AAAAAAAAB-0/Mumx0xM2APQkq4ynVni17BEo1wK1tU-NgCLcBGAs/s640/grid.png)
 
 [阅读更多..](https://www.skptricks.com/2018/09/react-native-simple-custom-gridview-layout-example.html)

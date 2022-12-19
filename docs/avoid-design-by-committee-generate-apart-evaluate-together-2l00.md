@@ -4,7 +4,7 @@
 
 这篇文章最初在 [CoderHood](https://coderhood.com) 上全文发表为[避免委员会设计:分开生成，一起评估](https://www.coderhood.com/avoid-design-by-committee-generate-apart-evaluate-together/)。CoderHood 是一个致力于软件工程人类层面的博客。
 
-[![](../Images/9224940d78ded51af1ef9295ee714e30.png)T2】](https://www.coderhood.com/avoid-design-by-committee-generate-apart-evaluate-together/)
+[![](img/9224940d78ded51af1ef9295ee714e30.png)T2】](https://www.coderhood.com/avoid-design-by-committee-generate-apart-evaluate-together/)
 
 科技行业因创新而繁荣。构建创新的软件产品需要不断的设计和创造性解决方案的架构。在这种情况下，我不是委员会设计的粉丝；事实上，我认为这与其说是一种策略，不如说是一种疾病。它折磨着没有领导或领导不明确的团队；过程是痛苦的，结果是糟糕的。
 
@@ -36,7 +36,7 @@
 
 我用这张简单的序列图综合了这个过程:
 
-[![](../Images/f47dc2601356bbb57b65378723a9a1f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xdqErXoV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d3c3diriz1pecynk6knx.png)
+[![](img/f47dc2601356bbb57b65378723a9a1f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xdqErXoV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d3c3diriz1pecynk6knx.png)
 
 ## 评估
 
@@ -80,7 +80,7 @@
 
 为了将来参考，你可以用思维导图记住这个方法的主要思想:
 
-[![](../Images/c872edaa6b64bf19cefcb8eb60900ed0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uEhzkk9V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/optm39g6la3h98fz0vdv.png)
+[![](img/c872edaa6b64bf19cefcb8eb60900ed0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uEhzkk9V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/optm39g6la3h98fz0vdv.png)
 
 ## 最后的想法
 

@@ -13,7 +13,7 @@
 任何生产就绪的云数据库部署都有两个常见组件:
 
 *   一个现代化的、坚如磐石的数据库(比如 MongoDB)。
-*   支持遥测、访问和授权以及备份的工具(更不用说与您选择的问题跟踪系统集成的主动警报、用于自动化的完整的基于 REST 的 API，以及到托管服务的无缝过渡)。)对于 MongoDB，这是 [MongoDB 运营经理](https://www.mongodb.com/download-center?jmp=partners_OpenShift#ops-manager)。【T2![](../Images/c5c6cfb82d636d8e013a2579b866b7d6.png)
+*   支持遥测、访问和授权以及备份的工具(更不用说与您选择的问题跟踪系统集成的主动警报、用于自动化的完整的基于 REST 的 API，以及到托管服务的无缝过渡)。)对于 MongoDB，这是 [MongoDB 运营经理](https://www.mongodb.com/download-center?jmp=partners_OpenShift#ops-manager)。【T2![](img/c5c6cfb82d636d8e013a2579b866b7d6.png)
 
 MongoDB Ops Manager 的深度集成是我们将 MongoDB 与流行的 PaaS 产品集成的核心。一般的设计方法是使用“关注点分离”的设计原则。所选择的 PaaS 处理物理或虚拟机、CPU 和 RAM 分配、持久存储需求和机器级访问控制，而 MongoDB Ops Manager 控制运行时数据库部署的所有方面
 
@@ -31,7 +31,7 @@ MongoDB Ops Manager 的深度集成是我们将 MongoDB 与流行的 PaaS 产品
 
 一旦您准备好了开发环境(参见开发者预览版 Github 资源库中的注释)并配置了一个 [MongoDB Ops Manager](https://www.mongodb.com/download-center?jmp=partners_OpenShift#ops-manager) 实例，您就可以开始部署 MongoDB Enterprise Server 了。
 
-<center>![](../Images/d284938a325dc181d44f909d8e0c5ba8.png)</center>
+<center>![](img/d284938a325dc181d44f909d8e0c5ba8.png)</center>
 
 可以通过 OpenShift web 控制台或命令行来提供集群。web 控制台提供了一个直观的“类似向导”的界面，用户可以在其中指定各种参数的值，例如 MongoDB 版本、存储大小分配和 MongoDB Ops Manager 组织/项目等等。
 

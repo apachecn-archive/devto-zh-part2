@@ -80,7 +80,7 @@ Enter fullscreen mode Exit fullscreen mode
 实际上，在下载 zip 数据之前都可以正常工作。
 但是，如果尝试用 Mac 的归档实用程序展开，会显示以下错误。
 
-[![展開エラー](../Images/2d375c6131c4bd716cf3e75f982e0be3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T9uLttrl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kdc8atqb4m25v8v3h99g.png)
+[![展開エラー](img/2d375c6131c4bd716cf3e75f982e0be3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T9uLttrl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kdc8atqb4m25v8v3h99g.png)
 
 `unzip`命令可以正常工作，但在 Mac 的归档实用程序中无法正常工作。
 调查后发现，Mac 似乎不支持 zip 的数据描述符。

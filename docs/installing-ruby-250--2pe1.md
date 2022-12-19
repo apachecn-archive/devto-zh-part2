@@ -4,7 +4,7 @@
 
 我刚刚安装了刚刚过去的圣诞节(2017 年 12 月 25 日)发布的 [Ruby 2.5.0](https://www.ruby-lang.org/en/news/2017/12/25/ruby-2-5-0-released/) 。总而言之，路上没有颠簸，花了大约 13 分钟。相当棒！
 
-[![computer kid thumbs up meme](../Images/cbb3c1dd31e45e122f7c7464d6c9a9bd.png)T2】](https://i.giphy.com/media/111ebonMs90YLu/giphy.gif)
+[![computer kid thumbs up meme](img/cbb3c1dd31e45e122f7c7464d6c9a9bd.png)T2】](https://i.giphy.com/media/111ebonMs90YLu/giphy.gif)
 
 我只在工作回购时需要它，但我也很高兴拥有它。我也不太确定该怎么做，就说，“好吧，就这样。”
 

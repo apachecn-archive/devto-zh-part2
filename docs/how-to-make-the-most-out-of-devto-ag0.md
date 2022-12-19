@@ -54,7 +54,7 @@
 
 最后，请随意对
 
-[![thepracticaldev image](../Images/9beda539d204a28e09d7b574a6cb63a3.png)](/thepracticaldev)
+[![thepracticaldev image](img/9beda539d204a28e09d7b574a6cb63a3.png)](/thepracticaldev)
 
 ## [开发人员](/thepracticaldev) <button name="button" type="button" data-info="{&quot;className&quot;:&quot;User&quot;,&quot;style&quot;:&quot;full&quot;,&quot;id&quot;:3,&quot;name&quot;:&quot;dev.to staff&quot;}" class="crayons-btn follow-action-button whitespace-nowrap c-btn--secondary fs-base " aria-label="Follow user: dev.to staff" aria-pressed="false">跟随</button>
 

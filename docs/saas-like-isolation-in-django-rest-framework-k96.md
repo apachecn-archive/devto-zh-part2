@@ -415,7 +415,7 @@ Quit the server with CONTROL-C.
 
 我们的服务器启动了！现在转到您最喜欢的浏览器并导航到`http://127.0.0.1:8000/api/v1/accounts/`。您应该会看到类似这样的内容:
 
-[![Account creation page in Django rest framework](../Images/0e263fecc2c934d309c34321688a1736.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nzib_6ka--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/10/rest_framework_create_accounts.png) 注意，`GET`实际上失败了，因为 **405 方法不允许**。这是意料之中的，因为该视图只应用于帐户创建。请注意，表单清楚地划分了公司和用户，因为我们使用的是`AccountSerializer`。
+[![Account creation page in Django rest framework](img/0e263fecc2c934d309c34321688a1736.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nzib_6ka--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/10/rest_framework_create_accounts.png) 注意，`GET`实际上失败了，因为 **405 方法不允许**。这是意料之中的，因为该视图只应用于帐户创建。请注意，表单清楚地划分了公司和用户，因为我们使用的是`AccountSerializer`。
 
 让我们创建两个帐户。
 
@@ -431,11 +431,11 @@ Quit the server with CONTROL-C.
 
 在字段中输入该信息(选择一个密码)并点击`POST`按钮。如果一切顺利，您应该会看到类似这样的内容:
 
-[![Company 2 creation is successful](../Images/13e163061d85b36351e005bbd4884686.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ApO32Wax--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/10/company_2_creation.png) 注意，由于我们在`UserSerializer`中将密码设置为只写，所以它不会出现在返回的 JSON 中。
+[![Company 2 creation is successful](img/13e163061d85b36351e005bbd4884686.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ApO32Wax--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/10/company_2_creation.png) 注意，由于我们在`UserSerializer`中将密码设置为只写，所以它不会出现在返回的 JSON 中。
 
 让我们以`user1`的身份登录。导航到`http://127.0.0.1:8000/api/v1/auth/login`，使用凭证以`user1`的身份登录。您应该会看到类似这样的内容:
 
-[![User list after logging in for the first time. Only one user is displayed](../Images/50873cdebf3be1b31e7f6c992fd58316.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kCgN3Y1E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/10/user_list_right_after_logging_in_for_the_first_time.png) 我们只看到一个用户(`user1`)，尽管我们创建了两个。这显示了我们在行动视图中定义的`get_queryset`。让我们添加另一个用户，并确保我们可以看到那个用户。我们称这个为`user3`。创建用户后，点击`GET`按钮，你应该会看到`user1`和`user3`。
+[![User list after logging in for the first time. Only one user is displayed](img/50873cdebf3be1b31e7f6c992fd58316.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kCgN3Y1E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/10/user_list_right_after_logging_in_for_the_first_time.png) 我们只看到一个用户(`user1`)，尽管我们创建了两个。这显示了我们在行动视图中定义的`get_queryset`。让我们添加另一个用户，并确保我们可以看到那个用户。我们称这个为`user3`。创建用户后，点击`GET`按钮，你应该会看到`user1`和`user3`。
 
 ```
 HTTP 200 OK
@@ -459,11 +459,11 @@ Vary: Accept
 
 记下下一个实验的 URL。让我们以`user2`的身份登录，并尝试访问一个属于`Company 1`的用户的 URL。您应该会看到类似这样的内容:
 
-[![404 response code returned since user1 is not related to Company 2](../Images/37945da0e235afa1735f997295dcf231.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xjclAOU1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/10/404_for_user_not_in_account.png) 这再次显示了我们的`get_queryset`方法在起作用。尽管具有那个`uuid`的用户存在，但它与`user2`所属的公司无关，所以我们的查询集将其过滤掉。
+[![404 response code returned since user1 is not related to Company 2](img/37945da0e235afa1735f997295dcf231.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xjclAOU1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/10/404_for_user_not_in_account.png) 这再次显示了我们的`get_queryset`方法在起作用。尽管具有那个`uuid`的用户存在，但它与`user2`所属的公司无关，所以我们的查询集将其过滤掉。
 
 让我们再做一次实验。以`user2`身份登录，将浏览器指向`http://127.0.0.1:8000/api/v1/accounts/company`。您应该会看到类似这样的内容:
 
-![The company returned is Company 2 (the company that user2 belongs to)](../Images/76b8d26811feaff7a0f25b84806670a0.png) `Company 2`返回，因为那是`user2`所属的公司。这在`CompanyDetail`视图中显示了我们的`get_object`方法。
+![The company returned is Company 2 (the company that user2 belongs to)](img/76b8d26811feaff7a0f25b84806670a0.png) `Company 2`返回，因为那是`user2`所属的公司。这在`CompanyDetail`视图中显示了我们的`get_object`方法。
 
 当我们以`user2`的身份登录时，让我们创建`user4`和`user6`(对于该公司，让我们坚持使用偶数)。然后，以`user1`或`user3`的身份登录，创建`user5`。
 
@@ -664,7 +664,7 @@ urlpatterns = [
 
 启动服务器后，导航至`http://127.0.0.1:8000/api/v1/user-messages/`。您应该会看到类似这样的内容:
 
-[![Empty message list since no messages have been created](../Images/4f3182633b9136f1b9966e13ce866175.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uUvMsaM_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/10/empty_message_list.png)
+[![Empty message list since no messages have been created](img/4f3182633b9136f1b9966e13ce866175.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uUvMsaM_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/10/empty_message_list.png)
 
 太好了！我们成功了！
 
@@ -672,7 +672,7 @@ urlpatterns = [
 
 现在，关于坏消息，展开来自用户选择字段的*。您应该会看到类似这样的内容:*
 
-[![Multiple users from different companies showing up](../Images/3d6534af60d618e4fae99d8298402718.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FmXRbr9g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/10/users_from_multiple_companies.png)
+[![Multiple users from different companies showing up](img/3d6534af60d618e4fae99d8298402718.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FmXRbr9g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/10/users_from_multiple_companies.png)
 
 请注意，我们看到两家公司的用户。为了修复它，让我们在`core`中创建一个`serializers.py`，并添加以下代码:
 
@@ -726,7 +726,7 @@ from .models import UserMessage
 
 让我们回到浏览器，刷新一下。您的用户列表应该只显示来自同一公司的用户:
 
-[![Only users from the same company showing up](../Images/14b78ad87518c634247e7321f9bb3f48.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7Yw-4APg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/10/users_only_from_same_company.png)
+[![Only users from the same company showing up](img/14b78ad87518c634247e7321f9bb3f48.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7Yw-4APg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/10/users_only_from_same_company.png)
 
 我们已经把其他公司的用户隔离了！
 
@@ -916,17 +916,17 @@ class UserMessageDetail(generics.RetrieveAPIView):
 
 让我们以`user3`的身份登录并导航到`http://127.0.0.1:8000/api/v1/user-messages/`。我们给`user1`发个消息吧:
 
-[![Sending a message to user1](../Images/860a3214d74090bbe8017a3380847d21.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--n8gd2GtZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/10/sending_message_to_user1.png) 注意，用户不再选择设置*。让我们按下 *POST* 按钮，并验证消息是用`from_user`作为`user3`创建的:*
+[![Sending a message to user1](img/860a3214d74090bbe8017a3380847d21.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--n8gd2GtZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/10/sending_message_to_user1.png) 注意，用户不再选择设置*。让我们按下 *POST* 按钮，并验证消息是用`from_user`作为`user3`创建的:*
 
-[![Message has from_user from user3](../Images/7219797dd0bba151a3de9b0b6be5f714.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--219sJEcJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/10/message_sent_from_user3.png) 注意，`from_user`字段是一个 URL。让我们单击该 URL 以确保它是`user3`。
+[![Message has from_user from user3](img/7219797dd0bba151a3de9b0b6be5f714.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--219sJEcJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/10/message_sent_from_user3.png) 注意，`from_user`字段是一个 URL。让我们单击该 URL 以确保它是`user3`。
 
-[![User3 view](../Images/53b0126a13bbc75918416cac604e43e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fVzITwgB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/10/user3_view.png)
+[![User3 view](img/53b0126a13bbc75918416cac604e43e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fVzITwgB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/10/user3_view.png)
 
 让我们在不同的浏览器中以`user1`的身份登录，并回复`user3`。这些消息对于`user1`和`user3`都应该是可见的。
 
-[![Messages view from user1](../Images/d9188bfeea7dfd17ce9f2de7cdbffebf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--u8t1d896--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/10/messages_view_from_user1.png) 不出所料，`user1`和`user3`都能看到消息。让我们以`user5`的身份登录，然后导航到`http://127.0.0.1/api/v1/user-messages/`。我们应该看不到我们创建的任何消息。
+[![Messages view from user1](img/d9188bfeea7dfd17ce9f2de7cdbffebf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--u8t1d896--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/10/messages_view_from_user1.png) 不出所料，`user1`和`user3`都能看到消息。让我们以`user5`的身份登录，然后导航到`http://127.0.0.1/api/v1/user-messages/`。我们应该看不到我们创建的任何消息。
 
-[![User5 can't see other people's messages](../Images/901b8ff1d6526c4f040ec6801e1c6e73.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qoqaUq5M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/10/user5_cannot_see_other_messages.png) 不出所料，`user5`看到一个空列表，因为该用户没有发送任何消息。
+[![User5 can't see other people's messages](img/901b8ff1d6526c4f040ec6801e1c6e73.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qoqaUq5M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/10/user5_cannot_see_other_messages.png) 不出所料，`user5`看到一个空列表，因为该用户没有发送任何消息。
 
 ## 进一步改进
 

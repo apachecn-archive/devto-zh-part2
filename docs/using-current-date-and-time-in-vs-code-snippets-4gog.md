@@ -33,4 +33,4 @@ date: "2018-07-24"
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/b3b4b08016408e3920149c463bba4bfd.png "Markdown snippet with current date and time automatically inserted")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ELQH7PRb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.chaseadams.io/img/vscode-current-date-time-in-snippets.gif)
+[![](img/b3b4b08016408e3920149c463bba4bfd.png "Markdown snippet with current date and time automatically inserted")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ELQH7PRb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.chaseadams.io/img/vscode-current-date-time-in-snippets.gif)

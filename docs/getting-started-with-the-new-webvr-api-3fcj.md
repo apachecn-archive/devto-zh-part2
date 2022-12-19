@@ -8,4 +8,4 @@
 
 [读下去🎮](https://auth0.com/blog/getting-started-with-the-new-webvr-api/?utm_source=dev&utm_medium=sc&utm_campaign=webvr_api)
 
-[![Getting Started with the New WebVR API](../Images/0e4a57a6412a13b22d157b537b9ff618.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r2uiZnvg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qpbnzkco2qa58yjlgbei.png)
+[![Getting Started with the New WebVR API](img/0e4a57a6412a13b22d157b537b9ff618.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r2uiZnvg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qpbnzkco2qa58yjlgbei.png)

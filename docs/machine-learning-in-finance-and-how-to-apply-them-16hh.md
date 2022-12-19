@@ -10,7 +10,7 @@
 
 ## [什么是机器学习？](https://perfectial.com/blog/machine-learning-in-finance-types/)
 
-**[![What is machine learning in finance](../Images/298e4bb221b4ab31130bee291cfceadc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nRUNe1wC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://perfectial.com/wp-content/uploads/2018/05/machine-learning-finance.jpg) 【机器学习(ML)** 是让计算机“自己进化”的科学，无需明确编程。它围绕两个原则构建——通过向计算机输入数据来训练它们，并让算法根据它们在数据集中发现的模式来找到回答问题的方法。
+**[![What is machine learning in finance](img/298e4bb221b4ab31130bee291cfceadc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nRUNe1wC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://perfectial.com/wp-content/uploads/2018/05/machine-learning-finance.jpg) 【机器学习(ML)** 是让计算机“自己进化”的科学，无需明确编程。它围绕两个原则构建——通过向计算机输入数据来训练它们，并让算法根据它们在数据集中发现的模式来找到回答问题的方法。
 
 在传统的软件工程中，如果真的有这样的东西，我们用代码写程序，用明确的指令起草，输入到我们的计算机。然后，这些程序获取某种数据，并为我们产生适当的输出。
 

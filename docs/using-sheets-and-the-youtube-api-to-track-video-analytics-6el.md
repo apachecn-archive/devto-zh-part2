@@ -4,7 +4,7 @@
 
 我在 YouTube 上主持了一个名为 [The State of the Web](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBGvYSYO-VxOsaYQDw5rifJ) 的双周视频系列，作为一个数据狂，我希望有一种方法来监控每个视频的公共统计数据，看看它们的表现如何:观看次数、喜欢、不喜欢、评论等。在这篇文章中，我将带你了解如何设置自己的仪表盘来监控你感兴趣的视频。
 
-[![the finished spreadsheet](../Images/0d4741cce19fb41154ac83d265625c61.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vFwLcG_c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ecpej5zma3t40codbw9k.png)
+[![the finished spreadsheet](img/0d4741cce19fb41154ac83d265625c61.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vFwLcG_c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ecpej5zma3t40codbw9k.png)
 
 你可以在这张纸上看到我的成品。如果你愿意，你可以复制一份表格，然后插入你自己的视频，但是请记住，你可能仍然需要遵循这些步骤中的一些来启用像[YouTube API](https://developers.google.com/apps-script/advanced/youtube)这样的东西。
 
@@ -125,18 +125,18 @@ function writeStats(stats) {
 1.  启用 API
 2.  设置触发器，以便统计数据自动更新
 
-[![enable the YT API](../Images/013e2de5d1cfa359f34b77dfa23b24f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xFcVz9n---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y0ogwyu0wfk6xnrvzyeb.png)
+[![enable the YT API](img/013e2de5d1cfa359f34b77dfa23b24f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xFcVz9n---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y0ogwyu0wfk6xnrvzyeb.png)
 
 要启用 API，请转到资源>高级谷歌服务...向下滚动并启用 YouTube 数据 API。您还必须单击“Google Cloud Platform API Dashboard”链接并搜索“YouTube Data API v3 ”,以便为您的项目启用它。
 
-[![setting up triggers](../Images/709e3c2f6d6c18a1f332afbe7d83141f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EKSx_EVP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8oof5ehnrrvp6mz15jao.png)
+[![setting up triggers](img/709e3c2f6d6c18a1f332afbe7d83141f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EKSx_EVP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8oof5ehnrrvp6mz15jao.png)
 
 要设置触发器，进入编辑>当前项目的触发器，并按照上面的截图进行配置。它做两件事:
 
 *   每 15 分钟更新一次统计数据，这样您就可以打开工作表并获得最新数据
 *   一打开工作表就更新统计数据
 
-[![YT menu](../Images/2a43928a7554169fa758342cfa1f4c6f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f3aa0FoS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wolikomkpitdoo49cwz7.png)
+[![YT menu](img/2a43928a7554169fa758342cfa1f4c6f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f3aa0FoS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wolikomkpitdoo49cwz7.png)
 
 如果您想手动触发更新，还可以在表单中添加一个“YouTube”菜单。
 

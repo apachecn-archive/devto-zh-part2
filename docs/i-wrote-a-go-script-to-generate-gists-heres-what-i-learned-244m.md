@@ -16,7 +16,7 @@
 
 这是粘贴的 3 个要点的截图:
 
-[![copypastemedium](../Images/43f382abf871d6f1432657a3bb13078c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WSGLKIKp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qydthikqfmlt7tv1zn84.png)
+[![copypastemedium](img/43f382abf871d6f1432657a3bb13078c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WSGLKIKp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qydthikqfmlt7tv1zn84.png)
 
 可以说我懒，但是写完一篇 2500+字的帖子，我必须:
 

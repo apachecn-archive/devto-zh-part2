@@ -120,7 +120,7 @@
 
 我发现快速启动和响应用户反馈是最好的方法。用完美的像素设计和漂亮的代码创建一个功能丰富的应用程序是很棒的，但是我永远不会有任何东西可以部署。相反，我倾向于在核心功能运行时启动，之后我会对设计和代码进行改进。然而，一个教训是，设计很重要，有时甚至比内容更重要。举个例子，这是我第一次推出 972VC 时的样子。
 
-[![972VC - MVP](../Images/965fd70b74e13da58a6fbfbce517b8ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DXwWZuBC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7fuqao2ia4zhp1b73t0m.png)
+[![972VC - MVP](img/965fd70b74e13da58a6fbfbce517b8ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DXwWZuBC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7fuqao2ia4zhp1b73t0m.png)
 
 也许这为时过早，因为该网站被忽视了，即使内容和功能与当前版本相似。自发布以来，我已经将该应用程序转换为一个由 Hugo 支持的静态网站，但用户并没有注意到这一点。然而，新的设计受到了赞赏。换句话说，最初你可以侥幸逃脱糟糕的代码，但不能逃脱糟糕的设计。
 

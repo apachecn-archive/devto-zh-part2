@@ -8,13 +8,13 @@ Redux 应用程序通常很容易进行性能优化。Redux 在某种程度上�
 
 下面是提交搜索后来自真实世界 Redux 示例的火焰图。
 
-[![A flame chart of a running React/Redux application](../Images/1dc7891d67c74e3be3a59b9d237bbc0d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iRE-MZt2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AYEHoKo5Vg3LVf4zcFcZaGQ.png)
+[![A flame chart of a running React/Redux application](img/1dc7891d67c74e3be3a59b9d237bbc0d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iRE-MZt2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AYEHoKo5Vg3LVf4zcFcZaGQ.png)
 
 那里的大多数函数名都来自 React。像 dispatch、recomputeStates、onStateChange 和 performUnitOfWork 这样的函数并不能很好地帮助您确定如何加快速度。
 
 React 的开发模式通过连接到标准的“用户计时 API”来告诉你哪些组件与火焰图的哪些部分相关联，从而帮助你。这对于确定哪些组件花费了最多的时间来渲染非常有帮助，并为您的优化提供了一个清晰的起点。
 
-[![The same flame chart with React’s user timing details](../Images/ddd9739def38aa837690a4e96762426c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lFR9xMxn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2ADavRFpufXUedEnpIbQXorA.png)
+[![The same flame chart with React’s user timing details](img/ddd9739def38aa837690a4e96762426c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lFR9xMxn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2ADavRFpufXUedEnpIbQXorA.png)
 
 我们没有得到的一个细节是:我们调度了什么 Redux 动作来触发所有这些组件的安装？我在列表的顶部看到了 Connect(DockMonitor ),所以我可以通过查看该组件的 mapStateToProps 函数来缩小状态中必须更改的部分，但是我必须进行更多的调试来准确识别正在发生的更改。
 
@@ -47,7 +47,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 再次运行性能分析器后，我现在可以看到用户计时 API 中记录的操作名称了！
 
-[![The same flame chart but with Redux action type](../Images/375ba511eb410f10ccf391c3ea1d0b0f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lSkFAfpO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1800/1%2Az1RyZXBpWib54uWOANZlrw.png)
+[![The same flame chart but with Redux action type](img/375ba511eb410f10ccf391c3ea1d0b0f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lSkFAfpO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1800/1%2Az1RyZXBpWib54uWOANZlrw.png)
 
 厉害！现在，在任何给定的动作之后，React 组件被重新呈现是显而易见的，这给了我一个明显的位置来寻找特别昂贵或频繁运行的动作。一个原本要花几分钟才能回答的问题现在变得非常明显。向前去做侧写！
 

@@ -4,7 +4,7 @@
 
 #### 代码拆分和惰性加载 React 组件用 Suspense 和 React.lazy()
 
-[![](../Images/d9c3dadd6ade5931630bddd0abbc3d29.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1rTPJ5xc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AwZpPfI7nCNckZR2MZkfT2A.jpeg)
+[![](img/d9c3dadd6ade5931630bddd0abbc3d29.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1rTPJ5xc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AwZpPfI7nCNckZR2MZkfT2A.jpeg)
 
 新发布的 **React 16.6** 推出了一些新功能，可以用来增加更多的力量，以轻松应对组件。
 
@@ -30,7 +30,7 @@
 
 以下是为与 Webpack 捆绑在一起的应用程序动态导入模块的样子:
 
-[![](../Images/671d3b871e626505d5b34e696fded176.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fywdmGiw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ApPlzZBu5mfrpwRYEfNH3pw.png)
+[![](img/671d3b871e626505d5b34e696fded176.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fywdmGiw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ApPlzZBu5mfrpwRYEfNH3pw.png)
 
 当 Webpack 看到这个语法时，它知道为 moment 库动态创建一个单独的包文件。
 
@@ -46,13 +46,13 @@
 
 考虑以下名为 MyComponent 的 React 组件:
 
-[![](../Images/b2cce3fc5ce593994e26f6ea9527cfe4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--__GePJ5---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AfqiB8MnSLC65lS8VW61ulg.png)
+[![](img/b2cce3fc5ce593994e26f6ea9527cfe4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--__GePJ5---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AfqiB8MnSLC65lS8VW61ulg.png)
 
 这里，在 MyComponent 被呈现之前，不需要 OtherComponent。但是，因为我们是静态导入 OtherComponent，所以它与 MyComponent 捆绑在一起。
 
 我们可以使用 **react-loadable** 来延迟加载其他组件，直到我们呈现 MyComponent 时，从而将代码分割成单独的包。这是使用**延迟加载的另一个组件 react-loadable** 。
 
-[![](../Images/26786b038553cc129abee64cb230adfb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qWyYmHxF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AGTH1erosjH6zpmFk54bkqQ.png)
+[![](img/26786b038553cc129abee64cb230adfb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qWyYmHxF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AGTH1erosjH6zpmFk54bkqQ.png)
 
 在这里，您可以看到组件是使用 dynamic import()语法导入的，并被分配给 options 对象中的 loader 属性。
 
@@ -74,7 +74,7 @@ React.lazy()将一个函数作为其参数，该函数必须通过调用 import(
 
 下面是使用 React.lazy()的情况:
 
-[![](../Images/59a3d75f83c853311542abc1a0704166.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cdde5_hQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AX-GxPa-CDjPGzeJwcMKqpg.png)
+[![](img/59a3d75f83c853311542abc1a0704166.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cdde5_hQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AX-GxPa-CDjPGzeJwcMKqpg.png)
 
 ### 悬念
 
@@ -86,7 +86,7 @@ React.lazy()将一个函数作为其参数，该函数必须通过调用 import(
 
 悬念组件接受一个后备道具，该道具接受您希望呈现为占位符内容的 React 元素，同时加载所有惰性组件。
 
-[![](../Images/c98a9869c60c3e9414a7fc243e38b165.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c2CEbp8R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AmgL3noFcWjUZRoA5ZfynFw.png)
+[![](img/c98a9869c60c3e9414a7fc243e38b165.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c2CEbp8R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AmgL3noFcWjUZRoA5ZfynFw.png)
 
 > 如果惰性组件加载失败，可以在惰性组件上方的任何地方放置一个错误边界，以显示良好的用户体验。
 
@@ -128,11 +128,11 @@ export default function CalendarComponent() {
 
 我已经用另一个承诺包装了惰性日历导入，以模拟 5 秒的延迟。为了增加 Calendar 组件加载失败的机会，我还使用了一个条件来导入 Calendar 组件，或者返回一个拒绝的承诺。
 
-[![](../Images/1ee24104b265b1bf4f4e1192e73f6762.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Nqe-mz54--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A4-3rME82xnmjuK-5Q2K2aQ.png)
+[![](img/1ee24104b265b1bf4f4e1192e73f6762.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Nqe-mz54--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A4-3rME82xnmjuK-5Q2K2aQ.png)
 
 下面的屏幕截图展示了组件呈现后的样子。
 
-[![](../Images/83e61da6570483f3401544034af32845.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KsfPoz7J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A6mhWJ3Ke1lKjiXrL_SUbhw.gif) 
+[![](img/83e61da6570483f3401544034af32845.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KsfPoz7J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A6mhWJ3Ke1lKjiXrL_SUbhw.gif) 
 
 <figcaption>使用 React.lazy()和悬念演示延迟加载组件</figcaption>
 
@@ -146,11 +146,11 @@ export default function CalendarComponent() {
 
 **Components.js**
 
-[![](../Images/6029f53137a537739c95e597cc105a47.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A27W-s-n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AYdSieVyQLY7lPyFDK3s0Ng.png)
+[![](img/6029f53137a537739c95e597cc105a47.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A27W-s-n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AYdSieVyQLY7lPyFDK3s0Ng.png)
 
 **OtherComponent.js**
 
-[![](../Images/07128f2b3d09b0f64e021c3fdd3148ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RwOzKPag--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AyUcJeg4t8SEkG-Ot-bmc7w.png)
+[![](img/07128f2b3d09b0f64e021c3fdd3148ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RwOzKPag--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AyUcJeg4t8SEkG-Ot-bmc7w.png)
 
 然后，现在可以使用 React.lazy()从中间模块加载 OtherComponent。
 
@@ -207,7 +207,7 @@ function App() {
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

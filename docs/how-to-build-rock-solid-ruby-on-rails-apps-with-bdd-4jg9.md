@@ -123,7 +123,7 @@ Rails 中的 BDD 循环包括以下步骤:
 
 <figure>
 
-[![The BDD cycle with Ruby on Rails](../Images/7cfc0d1a5084793ecacb349309af08b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wd5JqF3l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qnkgbcu3hdhl3pjxxro8.png)
+[![The BDD cycle with Ruby on Rails](img/7cfc0d1a5084793ecacb349309af08b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wd5JqF3l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qnkgbcu3hdhl3pjxxro8.png)
 
 <figcaption>The BDD cycle in Ruby on Rails web development</figcaption>
 

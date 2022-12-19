@@ -10,19 +10,19 @@
 
 你去[https://dev.to/settings/misc](https://dev.to/settings/misc)选择导出，但我也准备了一些截图，所以请见谅:
 
-[![](../Images/cbebd17bd25a2d5049df5100d9baa8e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2e7Kd726--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ig9atdckpkif6muw5wo4.png)
+[![](img/cbebd17bd25a2d5049df5100d9baa8e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2e7Kd726--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ig9atdckpkif6muw5wo4.png)
 
 提交表单后，会出现以下情况:
 
-[![](../Images/a057c7ba1e984761c7bfca996e7776d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uBsEoYpW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/adzmzqzbgjig955ynzvb.png)
+[![](img/a057c7ba1e984761c7bfca996e7776d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uBsEoYpW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/adzmzqzbgjig955ynzvb.png)
 
 过了一会儿，你的收件箱里会收到这样一封邮件:
 
-[![](../Images/18e21d395909501f328601b0a2ee93da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X-JYtE_f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a1307ztb21mxiju7zp1x.png)
+[![](img/18e21d395909501f328601b0a2ee93da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X-JYtE_f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a1307ztb21mxiju7zp1x.png)
 
 这是文件内容的一个示例:
 
-[![](../Images/debda96dd85c80495991af1258d445df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VWgXNEfJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3069er1zt7uptoe6xgc0.png)
+[![](img/debda96dd85c80495991af1258d445df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VWgXNEfJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3069er1zt7uptoe6xgc0.png)
 
 ## 我是一名开发人员，你是如何做到的？
 

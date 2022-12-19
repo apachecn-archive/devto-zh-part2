@@ -4,7 +4,7 @@
 
 *本帖最初发表于[CodeBushi.com](https://codebushi.com/form-handling-gatsby-netlify/)T3】*
 
-[![](../Images/fc535bfd8fd3eb67dbbb6b1995b28a94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rMlF4jf8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4krle8lzsrmenr44scxc.jpg)
+[![](img/fc535bfd8fd3eb67dbbb6b1995b28a94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rMlF4jf8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4krle8lzsrmenr44scxc.jpg)
 
 拥有一个有效的联系方式是许多网站的基本要求，但是建立一个静态网站可能会很棘手。如果你用 [Netlify](https://www.netlify.com/) 托管你的网站(你应该这样)，你可以免费使用他们令人敬畏的[表单处理功能](https://www.netlify.com/docs/form-handling/)。设置起来超级快速和简单，你永远不会想再跳圈或嵌入一个丑陋的形式。
 

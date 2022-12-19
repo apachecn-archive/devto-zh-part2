@@ -18,23 +18,23 @@
 
 在主页中，我们可以添加一个新的存储库。我的主页已经有一个项目的参考，因为我已经添加了它。
 
-[![Coveralls Home](../Images/4ee698febd65e753f0c4666fa9c1f84b.png)T2】](https://thepracticaldev.s3.amazonaws.com/i/e8liazjgz1ye5iv4whdj.jpg)
+[![Coveralls Home](img/4ee698febd65e753f0c4666fa9c1f84b.png)T2】](https://thepracticaldev.s3.amazonaws.com/i/e8liazjgz1ye5iv4whdj.jpg)
 
 添加一个库真的就像打开/关闭开关一样简单，假设我已经注册了我的 GitHub 帐户，我所有的项目都已经可以添加了。
 
-[![Coveralls New Project](../Images/a36bc2b566664adea99bbb19e89b7115.png)T2】](https://thepracticaldev.s3.amazonaws.com/i/76vjycxqts41h8oe2a6a.jpg)
+[![Coveralls New Project](img/a36bc2b566664adea99bbb19e89b7115.png)T2】](https://thepracticaldev.s3.amazonaws.com/i/76vjycxqts41h8oe2a6a.jpg)
 
 当我们发布结果时，它们会显示在特定项目的页面上。
 
-[![Coveralls Project Page](../Images/c276bedd2c08b667acdcbd8c0b1d3eca.png)T2】](https://thepracticaldev.s3.amazonaws.com/i/pdnghkbd3tm6hmyvo3c0.jpg)
+[![Coveralls Project Page](img/c276bedd2c08b667acdcbd8c0b1d3eca.png)T2】](https://thepracticaldev.s3.amazonaws.com/i/pdnghkbd3tm6hmyvo3c0.jpg)
 
 然后我们可以深入到项目的文件中来查看覆盖率。
 
-[![Coveralls Project Files Drill Down](../Images/10a77894c38e8b0c17ff5a4bdedbc72f.png)T2】](https://thepracticaldev.s3.amazonaws.com/i/mk6a8dr57dg8bz56vojk.jpg)
+[![Coveralls Project Files Drill Down](img/10a77894c38e8b0c17ff5a4bdedbc72f.png)T2】](https://thepracticaldev.s3.amazonaws.com/i/mk6a8dr57dg8bz56vojk.jpg)
 
 然后单击一个特定的文件并查看它的覆盖范围细节。
 
-[![Coveralls File Details](../Images/854fc4f46d8c0b54b536ff7477919d2e.png)T2】](https://thepracticaldev.s3.amazonaws.com/i/7c5w4wee5gzi6qylr281.jpg)
+[![Coveralls File Details](img/854fc4f46d8c0b54b536ff7477919d2e.png)T2】](https://thepracticaldev.s3.amazonaws.com/i/7c5w4wee5gzi6qylr281.jpg)
 
 由于我未能彻底测试异常，我们有工作服工作😀
 
@@ -42,19 +42,19 @@
 
 现在一切都正常了，我们不妨通过显示 CI 状态徽章，让它在 GitHub 项目页面中可见。
 
-[![GitHub Badges](../Images/e576f0c5148d929fd760b38c1da23a37.png)T2】](https://thepracticaldev.s3.amazonaws.com/i/5dtrico5cdlq8sgv20kf.jpg)
+[![GitHub Badges](img/e576f0c5148d929fd760b38c1da23a37.png)T2】](https://thepracticaldev.s3.amazonaws.com/i/5dtrico5cdlq8sgv20kf.jpg)
 
 对于 AppVeyor 的徽章，在项目设置中有一个“徽章”部分，其中有您可能需要的详细信息，以及主分支的示例。
 
-[![AppVeyor Badges](../Images/26a5035cc5dc96bb6fd1fd40a6d8f254.png)T2】](https://thepracticaldev.s3.amazonaws.com/i/2uib94ns8soaoqljhu1t.jpg)
+[![AppVeyor Badges](img/26a5035cc5dc96bb6fd1fd40a6d8f254.png)T2】](https://thepracticaldev.s3.amazonaws.com/i/2uib94ns8soaoqljhu1t.jpg)
 
 对于 Travis CI，我们可以复制显示在项目页面顶部的状态图像的图像地址(在他们的文档中没有找到这方面的具体部分，如果有，请评论)。
 
-[![Travis CI Badges](../Images/efa059a87ee35b9ed5beb7e2949d44ec.png)T2】](https://thepracticaldev.s3.amazonaws.com/i/4gxuo95qycg85uwriyqs.jpg)
+[![Travis CI Badges](img/efa059a87ee35b9ed5beb7e2949d44ec.png)T2】](https://thepracticaldev.s3.amazonaws.com/i/4gxuo95qycg85uwriyqs.jpg)
 
 对于工作服，在项目页面上也有一个有用的嵌入选项的徽章。
 
-[![Coveralls Badges](../Images/ce216c366818f908b00843827c392fe2.png)T2】](https://thepracticaldev.s3.amazonaws.com/i/6049f7yjspsnvbxby4jd.jpg)
+[![Coveralls Badges](img/ce216c366818f908b00843827c392fe2.png)T2】](https://thepracticaldev.s3.amazonaws.com/i/6049f7yjspsnvbxby4jd.jpg)
 
 现在，我们只需要在 markdown 中放上几张桌子，上面有所有服务的徽章，我们就可以开始了。
 

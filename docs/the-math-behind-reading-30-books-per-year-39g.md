@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nikola/the-math-behind-reading-30-books-per-year-39g>
 
-[![](../Images/ce3e4287666d908926506f3fdfaf2100.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GU0qV_Pe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bxfgq0x0egsuiujw6h0u.jpeg)
+[![](img/ce3e4287666d908926506f3fdfaf2100.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GU0qV_Pe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bxfgq0x0egsuiujw6h0u.jpeg)
 
 *原载于[我的博客](http://www.nikola-breznjak.com/blog/books/math-behind-reading-30-books-per-year/)T3。*
 

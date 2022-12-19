@@ -10,9 +10,9 @@ WOCinTech chat [已经写了关于这个问题的文章](https://www.wocintechch
 
 当我需要程序员或其他从事技术工作的人的照片时，我会使用他们的库存照片，这里只是他们可用的各种图片的一个示例:
 
-[![woman with child and laptop](../Images/fadc27edbdafad0a34047ded92274f25.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qoCpnRnr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://farm2.staticflickr.com/1685/25900776992_a49895ad15_k.jpg)
-[![woman using computer](../Images/9c6800aca6c8a8b2a63ae60930a5a07f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FfiKT9Ei--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://farm2.staticflickr.com/1632/25720834170_4d1e328ff6_k.jpg)
-[![hacker](../Images/b8acbbcbbbb32defab8cacbec345bb6a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fntlB-Br--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://farm2.staticflickr.com/1694/25392619753_413cca2910_k.jpg)
-[![laptop in lap](../Images/5b5e045743e1d4c2a989a41dc97d83d6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jr9IO5zQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://farm2.staticflickr.com/1594/25772154926_e4459bcea6_k.jpg)
+[![woman with child and laptop](img/fadc27edbdafad0a34047ded92274f25.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qoCpnRnr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://farm2.staticflickr.com/1685/25900776992_a49895ad15_k.jpg)
+[![woman using computer](img/9c6800aca6c8a8b2a63ae60930a5a07f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FfiKT9Ei--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://farm2.staticflickr.com/1632/25720834170_4d1e328ff6_k.jpg)
+[![hacker](img/b8acbbcbbbb32defab8cacbec345bb6a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fntlB-Br--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://farm2.staticflickr.com/1694/25392619753_413cca2910_k.jpg)
+[![laptop in lap](img/5b5e045743e1d4c2a989a41dc97d83d6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jr9IO5zQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://farm2.staticflickr.com/1594/25772154926_e4459bcea6_k.jpg)
 
 因此，如果你需要一张做技术工作的人的照片(例如，dev.to 上的标题图片！)可以考虑看看#WOCinTech chat 的股票图片库！

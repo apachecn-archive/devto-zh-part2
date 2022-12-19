@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/code_wonders/vuejs-2-quickstart-tutorial-by-codewonders-2972>
 
-[![Vue JS Logo](../Images/4ae56adfcc928d87d8e948f010983d33.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BIsD_kQy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://scotch.io/wp-content/uploads/2015/08/vuejs-cover.png) 
+[![Vue JS Logo](img/4ae56adfcc928d87d8e948f010983d33.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BIsD_kQy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://scotch.io/wp-content/uploads/2015/08/vuejs-cover.png) 
 **Vue.js 快速入门教程 by @code_wonders**
 
 什么是 Vue.js
@@ -59,7 +59,7 @@ Vue.js 网站位于:[https://vuejs.org/](https://vuejs.org/)
 
 这将在端口 8080 上启动服务器，应用程序输出将自动显示在浏览器中:
 
-[![Vue JS Logo](../Images/e9a5f9c445fdeef010d9d26de73734ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eKU0H8dl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AGuIRPERP01oedu0iIAtqyA.png)
+[![Vue JS Logo](img/e9a5f9c445fdeef010d9d26de73734ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eKU0H8dl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AGuIRPERP01oedu0iIAtqyA.png)
 
 稍后，如果您想为生产构建，您可以使用下面的命令。在这种情况下，将创建一个 dist 文件夹，其中包含生产部署所需的文件。
 
@@ -69,7 +69,7 @@ Vue.js 网站位于:[https://vuejs.org/](https://vuejs.org/)
 让我们来看看文件夹 *learningVue* 中的初始项目结构:
 
 在项目根文件夹中，您可以找到文件和文件夹。让我们检查最重要的几个。`package.json`文件包含项目的所有依赖项。通过使用命令 npm install，我们已经确保在`package.json`中列出的依赖项被安装到项目的 node_modules 文件夹中。
-T3![Vue JS Logo](../Images/d790f5ed434868b55552e0c1043a18f4.png)T5】
+T3![Vue JS Logo](img/d790f5ed434868b55552e0c1043a18f4.png)T5】
 
 文件`index.html`包含以下 HTML 代码:
 
@@ -282,6 +282,6 @@ color: #42b983;
 }
 </style>`
 结果可以在下面的截图中看到:
-[![Vue JS Logo](../Images/76c41b35f9c4f45fc2e99eb5b52d589d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4NM8CpXD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AxdoMDrZ5XUIFRz8Bg1AFMA.png)
+[![Vue JS Logo](img/76c41b35f9c4f45fc2e99eb5b52d589d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4NM8CpXD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AxdoMDrZ5XUIFRz8Bg1AFMA.png)
 
 文章功劳归于**CodingTheSmartWay.com**

@@ -4,7 +4,7 @@
 
 正如一个老笑话所说，“有 10 种类型的人，一种理解二进制数如何工作，另一种不理解。”让我们把你放进“理解”组。
 
-[![](../Images/41e1f410e86323ec93713443511e5446.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wvcLRnDo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgs.xkcd.com/comics/1_to_10.png)
+[![](img/41e1f410e86323ec93713443511e5446.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wvcLRnDo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgs.xkcd.com/comics/1_to_10.png)
 
 二进制是计算机固有的一种编号系统。它的基数是 2。正常人使用的数字被称为十进制或十进制。
 

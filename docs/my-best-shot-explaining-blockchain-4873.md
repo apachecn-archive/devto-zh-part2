@@ -12,7 +12,7 @@
 
 每个块包含一个头和一个体。
 
-[![Block](../Images/359507215a3c4fcb0046b61b11b29488.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RNhkqjst--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ps5ay7rlfco877p7eua7.png)
+[![Block](img/359507215a3c4fcb0046b61b11b29488.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RNhkqjst--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ps5ay7rlfco877p7eua7.png)
 
 这些是每个区块拥有的数据。除此之外，每个块都有一个由开发者定义的最大字节数。当达到此最大值时，该块将被添加到区块链，并开始创建新的块。我将在下面解释每一项。
 
@@ -51,7 +51,7 @@ merkleRoot 是块内所有事务的散列结果。如果块内有任何更改，
 
 这里是我们将块通过 prevBlockHash 链接在一起的地方，如下所示。
 
-[![Blockchain](../Images/038552144ad331aef22417de5385e25a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C4LeSuVE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a521yws9wrjbjz9tn482.png)
+[![Blockchain](img/038552144ad331aef22417de5385e25a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C4LeSuVE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a521yws9wrjbjz9tn482.png)
 
 merkleRoot 值是从数据信息中生成的，如果其中有任何变化，merkleRoot 也将发生变化，并且在发生变化的块之后链接 prevBlockHash 的其余块将不再有效。这就是为什么区块链是不变的。
 

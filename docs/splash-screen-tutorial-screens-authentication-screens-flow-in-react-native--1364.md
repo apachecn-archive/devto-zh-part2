@@ -12,7 +12,7 @@
 
 在 react 中，可以本地添加闪屏，也可以使用 react-native-splash-screen 包，但我只是以一种非常简单的方式在 react-native 端创建一个闪屏组件。我不得不使用 set timeout 来显示几秒钟的闪屏，然后重定向回另一个屏幕。闪屏组件如下所示:
 
-[![](../Images/080780fbc1d19eee74c5e5ff5808e88b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YJymIzxa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1nkt6iw0saft24ofzrtc.png)
+[![](img/080780fbc1d19eee74c5e5ff5808e88b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YJymIzxa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1nkt6iw0saft24ofzrtc.png)
 
 注意，在重定向时，我不得不使用 resetActions 再次清空堆栈，这样用户就不能使用硬件 back 按钮再次返回闪屏。
 
@@ -20,7 +20,7 @@
 
 在这个屏幕上，我不渲染任何东西，只是把我的逻辑重定向到正确的位置。组件如下所示:
 
-[![](../Images/a5c499fd53b4d8a32d86b7c9b8b240d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--267dpuob--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uqztztg3mxzo9ur9ma4d.png)
+[![](img/a5c499fd53b4d8a32d86b7c9b8b240d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--267dpuob--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uqztztg3mxzo9ur9ma4d.png)
 
 我使用异步存储来存储应用程序是否已经启动的值。在 componentDidMount 函数中，我首先检查来自异步存储的 alreadyDidLaunch 值是否为空，如果为空，那么我将在呈现中显示一个加载程序，同时也更改 alreadyDidLaunch 的值。因此，更改值后，我将用户重定向到教程屏幕。
 

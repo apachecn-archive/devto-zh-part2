@@ -4,7 +4,7 @@
 
 帖子链接:[https://www . skp tricks . com/2018/03/selenium-web driver-and-web element-commads-action . html](https://www.skptricks.com/2018/03/selenium-webdriver-and-webelement-commads-action.html)
 
-[![](../Images/bc3176ba11b42453e92a8d8f6eb4a6ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VpQjxudp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://2.bp.blogspot.com/-Fr7W08oKcI0/WpqbEg3t3cI/AAAAAAAABXQ/81XMj_ugOxsu4SJEO-Q4hAvJ-kavf4CXACLcBGAs/s400/seleniumpost.jpg)
+[![](img/bc3176ba11b42453e92a8d8f6eb4a6ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VpQjxudp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://2.bp.blogspot.com/-Fr7W08oKcI0/WpqbEg3t3cI/AAAAAAAABXQ/81XMj_ugOxsu4SJEO-Q4hAvJ-kavf4CXACLcBGAs/s400/seleniumpost.jpg)
 
 WebDriver 是一个 web 自动化框架，它允许您使用相应的驱动函数在不同的浏览器上执行测试。它还允许我们使用编程语言来创建测试脚本。
 web driver 支持的编程语言如下:

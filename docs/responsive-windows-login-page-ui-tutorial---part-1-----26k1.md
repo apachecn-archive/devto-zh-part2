@@ -2,14 +2,14 @@
 
 > 原文：<https://dev.to/munamohamed94/responsive-windows-login-page-ui-tutorial---part-1-----26k1>
 
-[![](../Images/1555e9186ee2bdb03e0c15f8e07460d4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wWoYaim7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/33rfv1fqpmpg0kx0ipp8.png)
+[![](img/1555e9186ee2bdb03e0c15f8e07460d4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wWoYaim7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/33rfv1fqpmpg0kx0ipp8.png)
 *原本贴在介质上。
 
 在本教程的第 1 部分，我们将使用 HTML 和 SCSS 构建一个 Windows 登录页面的克隆。在本简单教程结束时，您将能够理解如何使用 mixins 编写可重用的代码，以及如何将多个动画应用到本项目的某些组件中。一如既往，本教程是初学者友好的。尽情享受吧！:)
 
 ## **草图**
 
-[![](../Images/024ce938eb2ceee3b4c6094be4e807a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uMZ7Xdp5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/34i14hd3nnn5mmp8fbyb.png)
+[![](img/024ce938eb2ceee3b4c6094be4e807a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uMZ7Xdp5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/34i14hd3nnn5mmp8fbyb.png)
 
 首先，我们需要了解登录页面的布局。我们已经知道了 Windows 登录页面的样子。然而，通过勾勒出组成登录页面的主要组件的基本轮廓，它将帮助我们了解 HTML 代码的结构。这个 Windows 登录页面的草图将作为我们的蓝图。一张地图。
 
@@ -318,7 +318,7 @@ tag in our HTML. Here, I’ve opted to use @import method — luckily, we ca
 
 然后，我们将使字体系列的值成为 Roboto。为了使用 Roboto 作为字体系列，我们需要使用@import 添加这个字体，或者通过在 HTML 的 head 标签之间嵌入字体来添加字体。在这里，我选择了使用@import 方法——幸运的是，我们可以使用 Codepen 上已经存在的资产库轻松地做到这一点。请看下面的 GIF，看看这是怎么做到的。
 
-[![](../Images/00dc6ae78c1718427041c98d257cc32e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yBCTgg2E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i9zjin3gtutit297nemf.gif)
+[![](img/00dc6ae78c1718427041c98d257cc32e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yBCTgg2E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i9zjin3gtutit297nemf.gif)
 
 我们将使我们的字体大小等于 105%,这意味着字体大小将是我们之前在主父容器#login-page-container 中设置的默认字体大小(即 16px)的 105%。
 
@@ -405,7 +405,7 @@ tag in our HTML. Here, I’ve opted to use @import method — luckily, we ca
 
 转到密码输入框(#password)，我们首先将它在输入框中水平居中，边距为 0 auto。我们将赋予它 25 像素的高度和 300 像素的宽度。#password 中的占位符值离#password 的左边界太远，所以我们将应用 5 像素的左填充。
 
-[![](../Images/931e94763d2fa3e5bf61249a6cbcb239.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dkpjzGWd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dxiy47i1a3iv927xh59k.gif)
+[![](img/931e94763d2fa3e5bf61249a6cbcb239.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dkpjzGWd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dxiy47i1a3iv927xh59k.gif)
 
 #### **输入容器→提交按钮**
 
@@ -421,7 +421,7 @@ tag in our HTML. Here, I’ve opted to use @import method — luckily, we ca
 
 确保移除我们在样式表开头应用的红色轮廓，我们的 Windows 登录页面就快完成了。
 
-[![](../Images/6eb494db9cb055d7ce976edb015ab3bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n_qeIs4Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jswv6kbi4w7aede700f3.gif)
+[![](img/6eb494db9cb055d7ce976edb015ab3bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n_qeIs4Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jswv6kbi4w7aede700f3.gif)
 
 我们已经到了教程第一部分的末尾。在第二部分中，我们将介绍如何使用媒体查询和 mixins 使 Windows 登录页面具有响应性。
 

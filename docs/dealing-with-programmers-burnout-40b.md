@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/pancy/dealing-with-programmers-burnout-40b>
 
-[![desert](../Images/79435c48b69968ad6398e7d282ac6824.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BA2uO0xi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.trello.com/hs-fs/hubfs/how_did_i_get_here.png%3Ft%3D1530306069024%26width%3D1294%26name%3Dhow_did_i_get_here.png) 
+[![desert](img/79435c48b69968ad6398e7d282ac6824.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BA2uO0xi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.trello.com/hs-fs/hubfs/how_did_i_get_here.png%3Ft%3D1530306069024%26width%3D1294%26name%3Dhow_did_i_get_here.png) 
 形象功劳:[特雷罗](https://blog.trello.com/job-burnout-how-to-fix-the-aftermath-of-an-overachiever-attitude)
 
 我最近看到了一个由资源中心的校友写的帖子，关于他在过去两年中因为他的新生儿而不得不辞职的事情。我认为这是一个有趣的话题，但没有被广泛讨论。作为程序员如何应对自己的职业倦怠？
@@ -59,4 +59,4 @@
 
 如果你喜欢我的作品，请订阅我的免费简讯[BETA School——忘掉学校，重新学习生活](https://joechasinga.substack.com),让我的作品直接进入你的收件箱。
 
-[![lazy afternoon](../Images/44cfb353624a94f9f014b13495dc5243.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kmG80O6B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://apartmentwindow.files.wordpress.com/2011/06/lazy-afternoon1.jpg%3Fw%3D300%26h%3D228)
+[![lazy afternoon](img/44cfb353624a94f9f014b13495dc5243.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kmG80O6B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://apartmentwindow.files.wordpress.com/2011/06/lazy-afternoon1.jpg%3Fw%3D300%26h%3D228)

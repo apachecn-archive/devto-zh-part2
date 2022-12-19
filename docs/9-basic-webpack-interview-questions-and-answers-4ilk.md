@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/aershov24/9-basic-webpack-interview-questions-and-answers-4ilk>
 
-[![9 Basic webpack Interview Questions And Answers in 2019](../Images/55c30820b8e0a602f483f3fc93e3c358.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Lk9-o0TT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/190407/pexels-photo-190407.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D350) 
+[![9 Basic webpack Interview Questions And Answers in 2019](img/55c30820b8e0a602f483f3fc93e3c358.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Lk9-o0TT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/190407/pexels-photo-190407.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D350) 
 Webpack 是一个开源的 JavaScript 模块捆绑器。它获取依赖项并生成依赖图，从而允许 web 开发人员使用模块化方法来开发 web 应用程序。它还接受各种资产，如 JavaScript、CSS、字体、图像和 HTML，然后将这些资产转换成便于通过浏览器使用的格式。Webpack 的真正力量是其各个部分的总和。
 
 > 最初发表于 [FullStack。永远不要再错过你的技术面试](https://www.fullstack.cafe)
@@ -105,7 +105,7 @@ Webpack 并不完美，存在一些缺陷。
 *   **加载器**在生成包期间或之前在单个文件级别工作。
 *   **插件**在包或块级别工作，通常在包生成过程的最后工作。插件还可以修改包本身的创建方式。插件比加载器有更强大的控制能力。
 
-[![](../Images/a87db62f60d4a231afc74913de733b2b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GYOvzWPZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.stack.imgur.com/P7hTM.png)
+[![](img/a87db62f60d4a231afc74913de733b2b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GYOvzWPZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.stack.imgur.com/P7hTM.png)
 
 🔗**来源:**【stackoverflow.com】T2
 

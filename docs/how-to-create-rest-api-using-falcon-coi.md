@@ -8,7 +8,7 @@
 
 `“When it comes to building HTTP APIs, other frameworks weigh you down with tons of dependencies and unnecessary abstractions. Falcon cuts to the chase with a clean design that embraces HTTP and the REST architectural style.”`
 
-[![Alt text of image](../Images/0480adc1cafad42684adb8da58cbd79c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aPN6VfcH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.com/images/rest_api_falcon.png)
+[![Alt text of image](img/0480adc1cafad42684adb8da58cbd79c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aPN6VfcH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.cimg/rest_api_falcon.png)
 
 在本文中，我们将使用 falcon 为我们的应用程序创建一个 rest API。该应用程序将执行以下任务:
 

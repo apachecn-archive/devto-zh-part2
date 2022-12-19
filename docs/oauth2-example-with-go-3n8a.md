@@ -22,7 +22,7 @@ OAuth 是一种规范，允许用户授权访问他们的数据，而无需与�
 
 应用程序应该存储刷新令牌以备将来使用，并使用访问令牌来访问 Google API。一旦访问令牌过期，应用程序就使用刷新令牌来获取新的令牌。
 
-[![Oauth2Google](../Images/3a096044bcc9d074a1d245a444b744e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ji3v9Mn7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developers.google.com/accounts/images/webflow.png)
+[![Oauth2Google](img/3a096044bcc9d074a1d245a444b744e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ji3v9Mn7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developers.google.com/accounimg/webflow.png)
 
 ## 我们去码吧
 

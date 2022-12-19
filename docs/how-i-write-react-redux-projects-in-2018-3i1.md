@@ -36,7 +36,7 @@
 
 我推荐使用其他一些库。如果你使用 React，你需要为 web 项目准备`react-dom`。 [`react-redux`](https://github.com/reduxjs/react-redux) 是一个很小的库，提供了更多关于如何将 React 和 Redux 集成在一起的指导。对于有多条路线的项目， [`react-router`](https://reacttraining.com/react-router/) 加`react-router-dom`是最受欢迎的选项。它们并不完美，而且在短时间内发生了很大的变化。也就是说，他们已经形成了一个很好的路由模式。
 
-[![The React/Redux flow, from youtu.be/hiaqhI62zZs](../Images/044067ba774d7c59b35843f542ef3aec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t4tUl_HP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://heiskr.com/images/react-2.jpeg)
+[![The React/Redux flow, from youtu.be/hiaqhI62zZs](img/044067ba774d7c59b35843f542ef3aec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t4tUl_HP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://heiskr.cimg/react-2.jpeg)
 
 ## 支配一切的原则
 
@@ -52,7 +52,7 @@
 
  ****基数→其他一切→指数。** Index 通常用作目录的“根”文件名。我见过目录中的其他文件依赖于 index 的情况。而在其他情况下，index 消耗其他文件。后者问题较少。对于共享的值和函数，我将把它们存储在一个“基本”文件中。我的其他文件消耗基本文件。那么索引文件会消耗所有其他文件。
 
-[![](../Images/bb9079816ad84dfc5cba5d770b8e60c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wDK10YdI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://heiskr.com/images/react-3.png)
+[![](img/bb9079816ad84dfc5cba5d770b8e60c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wDK10YdI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://heiskr.cimg/react-3.png)
 
 **名实相符。** JavaScript 默认为骆驼大小写名称。除非你有一个很好的理由，尽可能坚持使用骆驼箱。你希望事物的名称尽可能一致。组件，它的样式，它的文件名，它的 CSS 类名，它的相关选择器…都应该使用相同的名字。他们不排队的时候很混乱。
 
@@ -514,7 +514,7 @@ dispatch((dispatch, getState) => {
 
 ## 选择器
 
-[![](../Images/e55e09cd6311c0e123a85fd2567abb7b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_CxdqR17--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://heiskr.com/images/react-4.png)
+[![](img/e55e09cd6311c0e123a85fd2567abb7b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_CxdqR17--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://heiskr.cimg/react-4.png)
 
 您现在有了一个没有重复或派生数据的漂亮的状态。在某些时候，您需要获取状态中的数据并呈现出视图。也就是说，您的状态的格式可能不是您在视图中想要的格式。
 

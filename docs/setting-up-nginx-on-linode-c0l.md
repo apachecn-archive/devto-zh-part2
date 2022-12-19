@@ -97,11 +97,11 @@
 
 和`Sign Up`
 
-[![](../Images/0bda3f9d1e824d44f9e2a212a1c0155d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nm7P0qWp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/sign_up_lindode.png)
+[![](img/0bda3f9d1e824d44f9e2a212a1c0155d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nm7P0qWp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/sign_up_lindode.png)
 
 登录，然后转到`Add Linode`。在这里选择尽可能小的尺寸。我刚开始的时候，小型服务器每月 5 美元，但现在看起来价格上涨了。我的猜测是，你可以偶尔在打折时找到它们。
 
-[![](../Images/6d6ea2cb1a1828bb77d66eea478fce8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k9gAqPCk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/smallest_linode_server.png)
+[![](img/6d6ea2cb1a1828bb77d66eea478fce8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k9gAqPCk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/smallest_linode_server.png)
 
 你不必选择最小的——但我认为这对一个 Jekyll 博客来说已经足够了。
 
@@ -109,13 +109,13 @@
 
 然后选择`Add this Linode!`
 
-[![](../Images/db052841c0cf1ecba642336aef82bd0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R0F5-J1g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/set_location_add_linode.png)
+[![](img/db052841c0cf1ecba642336aef82bd0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R0F5-J1g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/set_location_add_linode.png)
 
 一旦您添加了您的 Linode，您将被重定向到您的 Li node 仪表盘
 
 注意，`IP Address`是您的第一台服务器的 IP 地址！哇哦！
 
-[![](../Images/43d2ba55cd93fa2f56a9b4af2e9dc7e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vRAKvxt3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/linode_dashboard.png)
+[![](img/43d2ba55cd93fa2f56a9b4af2e9dc7e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vRAKvxt3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/linode_dashboard.png)
 
 这需要一点时间，但是你的 linode 的状态应该从`Being created`变为`Brand new`，当它发生时，你就可以开始玩了！
 
@@ -123,17 +123,17 @@
 
 让我们在您的机器上安装 Linux。点击你的名字。
 
-[![](../Images/39590e0a3663af363083a2e23254a476.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s3nnLiP4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/your_linode_name.png)
+[![](img/39590e0a3663af363083a2e23254a476.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s3nnLiP4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/your_linode_name.png)
 
 这将为您的服务器*加载服务器仪表板。看起来像这样。*
 
-[![](../Images/28158ebc4a4b1faffad06938ccc4ac73.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rsa2tvyP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/your_server_dashboard.png)
+[![](img/28158ebc4a4b1faffad06938ccc4ac73.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rsa2tvyP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/your_server_dashboard.png)
 
 不要惊慌。这里发生了很多事情，但是我们会一步一步来。别担心，我抓住你了。
 
 首先，让我们告诉管理您的服务器的计算机在其上安装 Linux。您可以通过前往`Deploy an Image`来完成此操作
 
-[![](../Images/7f0bf058597dd3aa03d340c3b461e237.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1vwYAnZ1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/deploy_image.png)
+[![](img/7f0bf058597dd3aa03d340c3b461e237.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1vwYAnZ1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/deploy_image.png)
 
 #### **当心叶的死记硬背！**
 
@@ -141,7 +141,7 @@
 
 好了，继续工作。让我们填写我们的设置请求
 
-[![](../Images/799efb92e9a1ae3f6b5194cf15cef540.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lBHyeoGR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/install_linux.png)
+[![](img/799efb92e9a1ae3f6b5194cf15cef540.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lBHyeoGR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/install_linux.png)
 
 请务必将您的密码保存在某个地方！没有很多方法可以恢复。一旦一切都被选中，点击`Deploy`
 
@@ -155,7 +155,7 @@ SSH 代表安全外壳访问。Shell 是 Linux 所基于的命令提示符环境
 
 好，让我们启动你的机器。打开 Linode 仪表盘，点击你的 linode 的名字。在右上方有一个名为`Server Status`的框，它可能是`Powered Off`。让我们按下`Boot`按钮打开它。
 
-[![](../Images/fd5afd7f59be48fd0451698a8dc29b0f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0vd2hCI9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/boot_up_server.png)
+[![](img/fd5afd7f59be48fd0451698a8dc29b0f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0vd2hCI9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/boot_up_server.png)
 
 等到下面的状态显示你的 linode 已经完全启动。
 
@@ -252,7 +252,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 此外，打开浏览器，再次输入服务器的 IP 地址。按回车键。这一次你应该看到:
 
-[![](../Images/4dc6c2c4ee67c5d7e57598ea6004acfb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kDS85i9g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/welcome_nginx.png)
+[![](img/4dc6c2c4ee67c5d7e57598ea6004acfb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kDS85i9g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/welcome_nginx.png)
 
 哇，你现在是在为世界服务，为任何访问你网站的人服务。很酷，是吧？我也这么认为
 
@@ -316,7 +316,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，切换回你的浏览器，回到你的网站的 IP 地址，点击刷新。你应该看看。
 
-[![](../Images/b9b647485ee42c96c680eaa80e761ac3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8_HF0KcY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/welcome_t0_nginx_jungle.png)
+[![](img/b9b647485ee42c96c680eaa80e761ac3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8_HF0KcY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/welcome_t0_nginx_jungle.png)
 
 没看到吗？你没把`<h1>`换成``吧？问我怎么知道的...
 
@@ -444,11 +444,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 在您的文件浏览器中，导航到您的网站目录并进入`_site`目录。这个目录包含编译后的整个网站。
 
-[![jekyll_site_folder](../Images/a58a586dcfb6341772a699eccc240e43.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MGX4036t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/the_site_folder.png)
+[![jekyll_site_folder](img/a58a586dcfb6341772a699eccc240e43.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MGX4036t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/the_site_folder.png)
 
 打开这个文件夹，然后双击文件`index.html`。这将在浏览器中打开您的网站。
 
-[![jekyll_site_locally](../Images/8326ba637e65a158b4d2464f608873a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lT-QYvtg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/local_jekyll.png)
+[![jekyll_site_locally](img/8326ba637e65a158b4d2464f608873a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lT-QYvtg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/local_jekyll.png)
 
 但这不是我们想要的。让我们把它放到我们设置的网络服务器上。
 

@@ -4,7 +4,7 @@
 
 ## 因“无效字符”而不允许电子邮件地址。
 
-[![Drupal's email effort](../Images/0242fb1397b86f4544dbe1828ecc8157.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A121wNDg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8rjb5093aqltzvvla015.png)
+[![Drupal's email effort](img/0242fb1397b86f4544dbe1828ecc8157.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A121wNDg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8rjb5093aqltzvvla015.png)
 
 对你不好，因为:
 

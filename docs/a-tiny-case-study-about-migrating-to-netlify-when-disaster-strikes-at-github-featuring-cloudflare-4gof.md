@@ -75,7 +75,7 @@ codewithhugo.com. 299 IN A 104.27.141.8
 
 ## 前进的道路
 
-[![✅ Don't switch back to GitHub Pages #codewithhugo](../Images/80e478503f57943775bb9facbf716ba8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jila0s_G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_5691CB595260242ACD57C6976EE88A660D47EA1777643C78B1E18DEE1EB217B5_1540484787181_image.png)
+[![✅ Don't switch back to GitHub Pages #codewithhugo](img/80e478503f57943775bb9facbf716ba8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jila0s_G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_5691CB595260242ACD57C6976EE88A660D47EA1777643C78B1E18DEE1EB217B5_1540484787181_image.png)
 
 由于我在 Netlify now 上托管我的静态网站([见“部署选项:Netlify+Dokku on digital ocean vs now . sh，GitHub Pages，Heroku 和 AWS”](http://Deployment%20options:%20Netlify%20+%20Dokku%20on%20DigitalOcean%20vs%20now.sh,%20GitHub%20Pages,%20Heroku%20and%20AWS))，我已经决定也许把 codewithhugo.com[永久地放在那里是个好主意。抱歉 GitHub 页面。](https://codewithhugo.com)
 
@@ -85,7 +85,7 @@ codewithhugo.com. 299 IN A 104.27.141.8
 
 下面是一个将 GitHub 上托管的站点(可以作为 GitHub Pages 站点)部署到 Netlify 的配置示例:
 
-[![Example config to deploy a GitHub Pages site from GitHub to Netlify](../Images/f98181179411797a9142a3e73f246811.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zBS7lhMa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_5691CB595260242ACD57C6976EE88A660D47EA1777643C78B1E18DEE1EB217B5_1540486742344_DqL5IruWkAAlwyF.jpg)
+[![Example config to deploy a GitHub Pages site from GitHub to Netlify](img/f98181179411797a9142a3e73f246811.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zBS7lhMa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_5691CB595260242ACD57C6976EE88A660D47EA1777643C78B1E18DEE1EB217B5_1540486742344_DqL5IruWkAAlwyF.jpg)
 
 很简单，使用`Publish Directory: .`发布根目录，不要设置构建命令。
 

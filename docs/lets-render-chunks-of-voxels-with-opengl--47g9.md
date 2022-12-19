@@ -35,7 +35,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 而且很管用！
 
-[![Displaying a cube using my engine](../Images/6426273c282d2e669d7ab07b5dea275b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UAkgmv-H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6q9n3gw0lh5ndscurr5x.png)
+[![Displaying a cube using my engine](img/6426273c282d2e669d7ab07b5dea275b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UAkgmv-H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6q9n3gw0lh5ndscurr5x.png)
 
 但是过了一会儿，我意识到我这样做毫无用处:必须一个接一个地移动立方体会花费很长时间，所以我尝试了 4096 个立方体(它代表一个 16×16×16 的块，充满了块) :我得到了 **16.45** ms，大约 60 FPS。
 
@@ -68,7 +68,7 @@ std::vector<float> temp_vertices;
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Display a chunk full of blocks](../Images/fcff9e8d515d08cb03cb3bdb977b6b5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X_AS8hVY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4x738kysx31io278jj3g.png)
+[![Display a chunk full of blocks](img/fcff9e8d515d08cb03cb3bdb977b6b5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X_AS8hVY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4x738kysx31io278jj3g.png)
 
 每次更新新时间: **5.7** 牛逼女士！我们远低于 16.67ms 的极限！但我们仍然可以提高性能，因为我们显示隐藏的面，即每个块之间的面，它们是不相关的。
 
@@ -115,7 +115,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 每次更新时间: **2.7** 毫秒！我们做到了！正如你在封面上看到的，我隐藏了太多的面孔...希望上面的代码可以解决这个问题。
 
-[![Rendering a weird chunk](../Images/bc52cf2625093efb054cfdd5b816c03d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FTi5x-gl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t279audzyp65twqltq32.png)
+[![Rendering a weird chunk](img/bc52cf2625093efb054cfdd5b816c03d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FTi5x-gl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t279audzyp65twqltq32.png)
 
 (不要担心某些地方的怪异纹理，这是由于我在纹理坐标方面的管理不善，我搞砸了一点，但它可以很容易地修复)。
 

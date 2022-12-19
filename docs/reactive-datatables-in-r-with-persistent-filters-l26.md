@@ -14,7 +14,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 下面是用 R 语言呈现的代码(本文中的所有图片都链接到托管在 [shinyapps.io](https://www.shinyapps.io/) 上的闪亮应用程序):
 
-[![Basic data table in R Shiny](../Images/a27cca593bc0c6de1e6be041829f4cdd.png)T2】](https://awwsmm.shinyapps.io/rpdtv0)
+[![Basic data table in R Shiny](img/a27cca593bc0c6de1e6be041829f4cdd.png)T2】](https://awwsmm.shinyapps.io/rpdtv0)
 
 *( [这里](https://www.utilitylog.com/full-page-screenshot-chrome/)你可以学习如何在不添加任何浏览器扩展的情况下，在 Chrome 中截屏一个网页。)*
 
@@ -30,7 +30,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 特别要注意的是，`reactiveFileReader`和`renderDT()`中的数据现在必须跟一对括号`()`，因为它现在是一个反应对象。我们现在有一个水平滚动条，我们的应用程序将对数据文件中的任何变化做出反应:
 
-[![](../Images/b0bb0efed663fe1c553264d54c6655c3.png)T2】](https://awwsmm.shinyapps.io/rpdtv1/)
+[![](img/b0bb0efed663fe1c553264d54c6655c3.png)T2】](https://awwsmm.shinyapps.io/rpdtv1/)
 
 太棒了。我们还能做什么？嗯，我们可以添加一些默认的搜索词:
 
@@ -42,7 +42,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 问题是，当表刷新时，这些术语不是持久的 T2。每当`MOCK_DATA.csv`被更新时，它们被替换为默认值:
 
-[![](../Images/357a7f71104d8c3e03dac82d75454bd0.png)T2】](https://awwsmm.shinyapps.io/rpdtv2/)
+[![](img/357a7f71104d8c3e03dac82d75454bd0.png)T2】](https://awwsmm.shinyapps.io/rpdtv2/)
 
 对此规定的解决方案是在`renderDT()`的选项列表中设置`stateSave = TRUE`，并用[访问数据表信息，这些变量在 Shiny 的 DT 指南](https://rstudio.github.io/DT/shiny.html)的第 2.2 节中定义。这是可行的，但前提是你要花几个小时试图弄清楚什么时候被刷新。我已经为你做了那些艰苦的、令人烦恼的工作，所以我不打算把它作为一个教学练习，我打算做我希望别人在我之前已经做过的事情，并给你答案。下面是当数据文件刷新时如何维护这些过滤器:
 
@@ -54,7 +54,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这里它运行在 shinyapps.io 上:
 
-[![](../Images/13d92b3f5f8930fdcecc2b538becb2ba.png)T2】](https://awwsmm.shinyapps.io/rpdtv3/)
+[![](img/13d92b3f5f8930fdcecc2b538becb2ba.png)T2】](https://awwsmm.shinyapps.io/rpdtv3/)
 
 请注意，如果您将上面的代码复制并粘贴到 RStudio 中，并从 Mockaroo 下载一个模拟数据文件并在本地完成，可能会更容易。要“更新”文件，不需要添加或删除行，只需打开并保存即可。这将更新磁盘上的“最后修改时间”，并且`reactiveFileReader`将重新加载文件。
 

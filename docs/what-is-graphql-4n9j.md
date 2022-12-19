@@ -6,7 +6,7 @@
 
 GraphQL 是构建和查询 API 的最现代的方式之一。
 
-[![](../Images/210182867b9afc021d7ed1b01c0e9a5f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M5dHch5L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AR6WHuWI0M9I4t-og2yNq-w.png)
+[![](img/210182867b9afc021d7ed1b01c0e9a5f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M5dHch5L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AR6WHuWI0M9I4t-og2yNq-w.png)
 
 GraphQL 是描述如何请求数据的语法，通常用于从服务器向客户端加载数据的 T2。GraphQL 有三个主要的
 特征:
@@ -31,7 +31,7 @@ GraphQL 是描述如何请求数据的语法，通常用于从服务器向客户
 GraphQL 查询是一个字符串，它被发送到服务器进行解释并完成
 ,然后服务器将 JSON 返回给客户机。
 
-[![](../Images/922258e506a99f4e576c4924908e9fa1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qaD4KroP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AdryZIFuTTY-9WiGlxSVEag.png)
+[![](img/922258e506a99f4e576c4924908e9fa1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qaD4KroP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AdryZIFuTTY-9WiGlxSVEag.png)
 
 **定义数据形状:**您首先会注意到 GraphQL 查询
 反映了它们的响应。这使得预测从查询返回的数据
@@ -47,7 +47,7 @@ GraphQL 的另一个重要方面是它的层次化
 图形结构的数据存储很好地匹配，最终与使用它的层次用户界面
 很好地匹配。
 
-[![](../Images/12e790a958205b963e6d75e49bb18f72.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_3cAsKLa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dht94x4ujlzk504ytsqa.png)
+[![](img/12e790a958205b963e6d75e49bb18f72.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_3cAsKLa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dht94x4ujlzk504ytsqa.png)
 
 **强类型:**graph QL 查询的每一层对应一个特定的
 类型，每种类型描述一组可用字段。与 SQL 类似，这个
@@ -63,7 +63,7 @@ GraphQL 的另一个重要方面是它的层次化
 构建静态类型语言的代码生成、中继或
 IDEs，如* *GraphiQL ** (如下图)。GraphiQL 帮助开发人员快速学习和探索 API，而不需要修改代码库或与 cURL 争论。
 
-[![](../Images/5ccdd41ac4adbdd3be699f22677181b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--naHON7UN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AfOvtr8ooBvqfF5LrEgn_2A.jpeg)
+[![](img/5ccdd41ac4adbdd3be699f22677181b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--naHON7UN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AfOvtr8ooBvqfF5LrEgn_2A.jpeg)
 
 **版本自由:**返回数据的形状完全由
 客户端的查询决定，所以服务器变得更简单，更容易通用化。当你

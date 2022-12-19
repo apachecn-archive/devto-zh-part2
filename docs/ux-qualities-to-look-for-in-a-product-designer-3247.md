@@ -42,7 +42,7 @@
 
 事实上，亚马逊在 UX 最明智的举措之一就是引入了一键式购买系统，使在线购物成为当时最简单快捷的方式。
 
-[![fitbit-amazon](../Images/2053c0ba52f1430ca92b319ea15b20bb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PqM9hSJL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/56ytg4axcvgut5plab6u.png) 
+[![fitbit-amazon](img/2053c0ba52f1430ca92b319ea15b20bb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PqM9hSJL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/56ytg4axcvgut5plab6u.png) 
 *<small>亚马逊的一键功能让网上购物格外轻松</small>* 
 
 多才多艺
@@ -54,7 +54,7 @@
 
 对于初创公司的产品设计师来说，从定义公司的品牌形象到设计商标或图标等品牌标识，不得不执行每一项与设计相关的任务并不罕见。
 
-[![cuberto](../Images/a339cb9fb3e54db4fe53269d4a325d66.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rtwJ6_TR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n0qsug7tdxxj1mwgphoe.png)
+[![cuberto](img/a339cb9fb3e54db4fe53269d4a325d66.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rtwJ6_TR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n0qsug7tdxxj1mwgphoe.png)
 *<small>[cuberto](http://cuberto.com)拥有一个我们见过的最漂亮、最简单、最实用的网站</small>*
 
 找到一个拥有多种技能，能够进行战略和艺术思考的人可能很难，但这绝对不是不可能的，花时间寻找合适的人是值得的。
@@ -63,7 +63,7 @@
 
 有了数码产品，就不会有完美的用户体验这种东西了。这是因为数字化的本质和人们越来越多地接触不同类型的应用程序和平台意味着用户的偏好会随着时间的推移而不断变化。因此，人们普遍感到永远没有足够的时间来实施最终的 UX。
 
-[![devto](../Images/c643c6752d05c4b2b16dfe724bc11bdb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--F7h0OVKR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3uv4lzwvd21ujojkk8qe.png) 
+[![devto](img/c643c6752d05c4b2b16dfe724bc11bdb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--F7h0OVKR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3uv4lzwvd21ujojkk8qe.png) 
 *<small>dev.to 有一个最好的 UX，它充分利用了空间，内容丰富，有吸引力，界面简单，便于新用户导航</small>*
 
 一个熟悉产品是如何构建的，以及它如何对用户有价值的人，将能够设计出运行速度很快的东西，而不会牺牲交易的便利性。在这些限制下，他们仍然能够做出惊人的事情。

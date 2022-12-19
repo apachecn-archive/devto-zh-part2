@@ -4,7 +4,7 @@
 
 ### **全栈可观测性:LogRocket、DataDog、蜂巢**
 
-[![](../Images/3a18d12b2ea23af498afba3fa041555d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u4zOJBEI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AmZVtZ7CfC3ekcDhDIxTO-Q.jpeg)
+[![](img/3a18d12b2ea23af498afba3fa041555d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u4zOJBEI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AmZVtZ7CfC3ekcDhDIxTO-Q.jpeg)
 
 **TL；博士**
 
@@ -56,7 +56,7 @@ LogRocket 为 Redux、MobX 和 Vuex 等流行的状态管理库提供了内置�
 
 一旦设置好集成，LogRocket 将开始接收事件，您可以在仪表板上重放它们。
 
-[![](../Images/f11ef5b429f7880f047c7d0951910ece.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--q69Fz5PR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2APYHWF3eSWN3-hII6XWMR2w.png) 
+[![](img/f11ef5b429f7880f047c7d0951910ece.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--q69Fz5PR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2APYHWF3eSWN3-hII6XWMR2w.png) 
 
 <figcaption>LogRocket Redux 重播</figcaption>
 
@@ -76,7 +76,7 @@ LogRocket 为 Redux、MobX 和 Vuex 等流行的状态管理库提供了内置�
 
 [https://medium . com/media/1722 fb7a 527 c7a 3558 b5 b44b 30437 c3b/href](https://medium.com/media/1722fb7a527c7a3558b5b44b30437c3b/href)
 
-[![](../Images/5a75f91e675be02109f7da6c72910150.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--b0qamv3w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AqCKVuIX68cc-rUa1OMv_2w.png) 
+[![](img/5a75f91e675be02109f7da6c72910150.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--b0qamv3w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AqCKVuIX68cc-rUa1OMv_2w.png) 
 
 <figcaption>日志捕获未捕获的异常</figcaption>
 
@@ -106,7 +106,7 @@ LogRocket 为 Redux、MobX 和 Vuex 等流行的状态管理库提供了内置�
 
 现在，我们可以设置一个仪表板来观察运行应用程序 docker 容器的底层云集群的不同指标。
 
-[![](../Images/42fd4f4c60b3d34c2724530245ddb0d3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--riCnqMfw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWqzzlpu4zz57AAgtscmDdA.png) 
+[![](img/42fd4f4c60b3d34c2724530245ddb0d3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--riCnqMfw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWqzzlpu4zz57AAgtscmDdA.png) 
 
 <figcaption>DataDog 指标仪表板</figcaption>
 
@@ -121,7 +121,7 @@ LogRocket 为 Redux、MobX 和 Vuex 等流行的状态管理库提供了内置�
 
 还有很多其他指标可以收集。但是以上可以让我们对正在发生的事情有一个很好的认识。
 
-[![](../Images/b727df02ebaf38c0b8b1081e646a96ac.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--H_ejZzVx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AlopjPoSBIfEKjNceB5M6KA.png) 
+[![](img/b727df02ebaf38c0b8b1081e646a96ac.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--H_ejZzVx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AlopjPoSBIfEKjNceB5M6KA.png) 
 
 <figcaption>DataDog CPU RAM 使用指标</figcaption>
 
@@ -133,7 +133,7 @@ DataDog 使您能够创建主动检查指标、集成可用性、网络端点等
 
 这些监视器的实际使用情况是，例如，当您正在进行一个未优化的数据库查询时。这需要大量的 CPU 来处理，并成为同一个集群中其他微服务的瓶颈。
 
-[![](../Images/dddd5ab2e3bb75ba4c77cc5fab50ae88.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--o-07kztE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A3vxbqU1ACz0neIjc8LrZrw.png) 
+[![](img/dddd5ab2e3bb75ba4c77cc5fab50ae88.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--o-07kztE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A3vxbqU1ACz0neIjc8LrZrw.png) 
 
 <figcaption>DataDog 监控警报</figcaption>
 
@@ -153,7 +153,7 @@ DataDog 使您能够创建主动检查指标、集成可用性、网络端点等
 
 有了这个设置，您现在可以在后端服务器上跟踪请求/响应。
 
-[![](../Images/9c0725771be0dc48cc40fd711c9b6b8b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OyQIT6pQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AYEc-8dlaknaGvtyXYMuwcw.png) 
+[![](img/9c0725771be0dc48cc40fd711c9b6b8b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OyQIT6pQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AYEc-8dlaknaGvtyXYMuwcw.png) 
 
 <figcaption>DataDog APM 追踪</figcaption>
 
@@ -163,7 +163,7 @@ DataDog 使您能够创建主动检查指标、集成可用性、网络端点等
 
 如果在一个端点上有多个分支请求，您可以唯一地标识每个请求。跟踪数据可以指导您优化部分代码库的开发。当您扩展应用程序时，在这几毫秒内进行优化时，对流程的可见性会产生相当大的影响。
 
-[![](../Images/65293e7951114812d93772fbc50be505.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jqpVR7Y6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ahl-fanZyiw-XuxCmdgifiQ.png) 
+[![](img/65293e7951114812d93772fbc50be505.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jqpVR7Y6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ahl-fanZyiw-XuxCmdgifiQ.png) 
 
 <figcaption>DataDog 跟踪度量</figcaption>
 
@@ -187,7 +187,7 @@ Node 应用有几个端点。Honeycomb 自动将这些请求元数据解析成�
 
 例如，如果我们希望根据发送到特定 URL 的请求数量进行分组，我们可以对该参数进行细分并运行查询。
 
-[![](../Images/6f925e88360cd43c8eced4f6fed3acf3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OW8Sn3oX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A91keUsd0ZH5-vQtBhWiq_w.png) 
+[![](img/6f925e88360cd43c8eced4f6fed3acf3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OW8Sn3oX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A91keUsd0ZH5-vQtBhWiq_w.png) 
 
 <figcaption>蜂窝状仪表盘</figcaption>
 
@@ -207,7 +207,7 @@ Node 应用有几个端点。Honeycomb 自动将这些请求元数据解析成�
 
 最近，Honeycomb 还引入了[跟踪](https://www.honeycomb.io/blog/2018/06/get-deeper-insights-with-honeycomb-tracing/)以获得更深入的见解，如哪些方法速度较慢的概述、API 请求结构以及并行化某些请求的同步与异步决策。这里有一个来自 Honeycomb 的请求跟踪示例。
 
-[![](../Images/462764f4649b0cf67b71f8bc0fac5399.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XNmP9NHq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/627/1%2AiqyEqB4O8pfG6koRCDplJQ.png) 
+[![](img/462764f4649b0cf67b71f8bc0fac5399.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XNmP9NHq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/627/1%2AiqyEqB4O8pfG6koRCDplJQ.png) 
 
 <figcaption>蜂巢请求追踪</figcaption>
 
@@ -225,7 +225,7 @@ Node 应用有几个端点。Honeycomb 自动将这些请求元数据解析成�
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

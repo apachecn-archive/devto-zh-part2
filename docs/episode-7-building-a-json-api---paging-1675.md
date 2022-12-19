@@ -8,7 +8,7 @@
 
 来源:
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [纳森布兰德](https://github.com/NathanBland) / [核心](https://github.com/NathanBland/core)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [纳森布兰德](https://github.com/NathanBland) / [核心](https://github.com/NathanBland/core)
 
 ### “核心”视频系列的存储库
 

@@ -457,7 +457,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 导航到 [http://127.0.0.1:8080](http://127.0.0.1:8080) ，您应该会看到类似这样的内容:
 
-[![ReDoc documentation landing page](../Images/ca4948cafa336f3f9d021bbd8b690876.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UyUYHlf7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/blbf2l8jbrvwte7udjj9.png)
+[![ReDoc documentation landing page](img/ca4948cafa336f3f9d021bbd8b690876.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UyUYHlf7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/blbf2l8jbrvwte7udjj9.png)
 
 容易的
 
@@ -623,7 +623,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们正在返回正确的状态代码和内容类型，但是实际的响应被 Dredd 标记为无效。让我们看看文档，看看 Dredd 期望什么:
 
-[![Articles endpoint documentation in ReDoc](../Images/9ba2da21251734a38b29500241924640.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CwpDOlZT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/38bgwp9awnvu0s04gd83.png)
+[![Articles endpoint documentation in ReDoc](img/9ba2da21251734a38b29500241924640.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CwpDOlZT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/38bgwp9awnvu0s04gd83.png)
 
 我们可以看到，我们的响应应该是一个具有元和数据属性的对象。Meta 应该包含我们在模式中定义的分页对象，data 属性应该是包含 Article 对象的数组。Dredd 验证了我们的 API 正在返回正确的数据结构，所以让我们模拟一下它的样子:
 

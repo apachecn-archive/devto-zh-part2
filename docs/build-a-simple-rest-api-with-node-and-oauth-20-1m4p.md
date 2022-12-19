@@ -394,13 +394,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 `ISSUER`的值应该是设置页面的`Issuer URI`字段中的值。
 
-[![Higlighting the issuer URL.](../Images/96986a589f79275de402078866430545.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZrHthPXB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/rest-api-node/issuer-afa0da4b4f632196092a4da8f243f3bec37615602dc5b62e8e34546fd1018333.png)
+[![Higlighting the issuer URL.](img/96986a589f79275de402078866430545.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZrHthPXB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/rest-api-node/issuer-afa0da4b4f632196092a4da8f243f3bec37615602dc5b62e8e34546fd1018333.png)
 
 **注意**:一般来说，你不应该将这个`.env`文件存储在源代码控制中。这允许多个项目使用相同的源代码，而不需要单独的分支。它还确保您的安全信息不是公开的(特别是如果您将代码作为开放源代码发布)。
 
 接下来，导航到**范围**选项卡。点击**添加范围**按钮，为您的 REST API 创建一个范围。你需要给它一个名字(例如`parts_manager`)，如果你愿意，你可以给它一个描述。
 
-[![Add scope screenshot.](../Images/e0b0a53b9306af9d00c070432e9aaae7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GFmK8HSs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/rest-api-node/adding-scope-f3ecb3b4eec06d616a130400245843c0de2dd52a54b2fdcff7449a10a2ce75ed.png)
+[![Add scope screenshot.](img/e0b0a53b9306af9d00c070432e9aaae7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GFmK8HSs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/rest-api-node/adding-scope-f3ecb3b4eec06d616a130400245843c0de2dd52a54b2fdcff7449a10a2ce75ed.png)
 
 您还应该将作用域名添加到您的`.env`文件中，以便您的代码可以访问它。
 

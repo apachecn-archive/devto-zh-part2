@@ -94,7 +94,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 对于这篇博文，您不需要入站或状态 webhook，所以您可以在这些字段中使用`http://example.com`。
 
-[![Create an application](../Images/a22c71cf84648c3c4dde3f7af6d245b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pf3yoetl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.nexmo.com/wp-content/uploads/2018/10/create-messages-application.png)
+[![Create an application](img/a22c71cf84648c3c4dde3f7af6d245b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pf3yoetl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.nexmo.com/wp-content/uploads/2018/10/create-messages-application.png)
 
 记住还要点击*生成公钥/私钥对*链接。这将下载一个名为`private.key`的文件。
 
@@ -165,7 +165,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 使用 Ngrok 向外界开放这个端口，并记下它为您生成的 URL。
 
-[![Ngrok output](../Images/532462255a34b95f4771f260349a4ed0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O3lzWGrr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.nexmo.com/wp-content/uploads/2018/07/start-ngrok.png%23no-border)
+[![Ngrok output](img/532462255a34b95f4771f260349a4ed0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O3lzWGrr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.nexmo.com/wp-content/uploads/2018/07/start-ngrok.png%23no-border)
 
 如果你以前没有使用过 Ngrok ，这里有一个方便的指南。
 
@@ -183,7 +183,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 只要你点击`Test Webhook`查看它的工作情况，你就会收到一条包含详细信息的短信。
 
-[![typeform webhook](../Images/76b81279bd0468896f54f6c27b93dd5d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ud9-5DWY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.nexmo.com/wp-content/uploads/2018/10/webhook-typeform.png)
+[![typeform webhook](img/76b81279bd0468896f54f6c27b93dd5d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ud9-5DWY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.nexmo.com/wp-content/uploads/2018/10/webhook-typeform.png)
 
 ## 结论
 

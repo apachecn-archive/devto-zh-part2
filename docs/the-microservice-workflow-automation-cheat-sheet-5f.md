@@ -27,7 +27,7 @@
 
 让我们假设您想要通过解耦的服务来实现一些业务功能(例如，当按下一个类似于 [Amazon 的破折号按钮](https://en.wikipedia.org/wiki/Amazon_Dash)时的订单履行):
 
-[![](../Images/465d49489f39c2d54285102422e87a96.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_-JDxydt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/846/1%2AsUSskBeL09CQM1MRWRwl1A.png)
+[![](img/465d49489f39c2d54285102422e87a96.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_-JDxydt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/846/1%2AsUSskBeL09CQM1MRWRwl1A.png)
 
 ### 跟踪还是管理？编舞还是配器？
 
@@ -37,13 +37,13 @@
 
 你可以在这里找到一个纯编排的工作示例:[https://github . com/berndruecker/flow-retail/tree/master/Kafka/Java/choreography-alternative](https://github.com/berndruecker/flowing-retail/tree/master/kafka/java/choreography-alternative)
 
-[![](../Images/e8e02049057bcd65bf74dab318079b4c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--grcS11MH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/503/1%2A36HoNe4sJUyBY3IpDLS5bg.png)
+[![](img/e8e02049057bcd65bf74dab318079b4c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--grcS11MH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/503/1%2A36HoNe4sJUyBY3IpDLS5bg.png)
 
 #### 追踪
 
 一个简单的解决方法是至少跟踪事件的流程。根据具体的技术架构(见下文)，您可能只需添加一个工作流引擎来读取所有事件，并检查它们是否可以与跟踪流相关联。我在与 Kafka 和 Zeebe ( [录制自 Kafka Summit San Francisco](https://www.confluent.io/kafka-summit-sf18/the_big_picture) )的谈话[中讨论了这一点。](https://www.slideshare.net/BerndRuecker/kafka-summit-2018-monitoring-and-orchestration-of-your-microservices-landscape-with-zeebe)
 
-[![](../Images/898f2e4813cc2353d7db0d2e2d60b579.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PpTCIzET--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/818/1%2Ag9oPOv8FamNm9-nnQTbYOw.png)
+[![](img/898f2e4813cc2353d7db0d2e2d60b579.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PpTCIzET--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/818/1%2Ag9oPOv8FamNm9-nnQTbYOw.png)
 
 flow-retail 展示了一个使用 Kafka 和 Kafka-Connect 的实现示例:[https://github . com/berndruecker/flow-retail/tree/master/Kafka/Java/choreography-alternative/zee be-track](https://github.com/berndruecker/flowing-retail/tree/master/kafka/java/choreography-alternative/zeebe-track)和【https://github.com/berndruecker/kafka-connect-zeebe】。
 
@@ -51,21 +51,21 @@ flow-retail 展示了一个使用 Kafka 和 Kafka-Connect 的实现示例:[https
 
 这是非侵入性的，因为你不需要改变你的架构。但它能让你开始做事，例如在订单延迟的情况下:
 
-[![](../Images/826b4d4defd67d1962adc732f8671ceb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4sTFn3FQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/593/1%2AbEACTSoRLqJNIyLYeLY_pQ.png)
+[![](img/826b4d4defd67d1962adc732f8671ceb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4sTFn3FQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/593/1%2AbEACTSoRLqJNIyLYeLY_pQ.png)
 
 通常，这将导致从简单的跟踪流程**到真正的****管理** it 的**旅程:**
 
-[![](../Images/c97301842604f41d574889120b80255a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oWxHYdga--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/753/1%2Ap0fn0HCSWkKBC9aozTX9yA.png)
+[![](img/c97301842604f41d574889120b80255a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oWxHYdga--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/753/1%2Ap0fn0HCSWkKBC9aozTX9yA.png)
 
 #### 混合编排和编排
 
 一个好的架构通常是编排和编排的混合。平心而论，如果没有一些经验，平衡这两种力量并不容易。但是我们看到很多证据表明这是正确的方向，所以投入时间绝对是值得的。否则，你的编舞，在白板上是独立专业人士的优雅舞蹈，通常以更像混乱的 pogo 结束:
 
-[![](../Images/9ffac9d8e4ddc4a8c00a1cfd33070a1d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8T7eB-Rg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/966/1%2AjWVswQO5pT6q1qQCTLnn3A.png)
+[![](img/9ffac9d8e4ddc4a8c00a1cfd33070a1d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8T7eB-Rg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/966/1%2AjWVswQO5pT6q1qQCTLnn3A.png)
 
 在流动零售的例子中，这也意味着您应该为最重要的业务能力:客户订单拥有一个单独的微服务！
 
-[![](../Images/6dfb1ef2f8fa95edf7bd973dab956e3e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7uv-bkDP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/503/1%2A21hvhiGD0P0DoguP8fCCWw.png)
+[![](img/6dfb1ef2f8fa95edf7bd973dab956e3e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7uv-bkDP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/503/1%2A21hvhiGD0P0DoguP8fCCWw.png)
 
 ### 工作流引擎的作用——三种架构选择
 
@@ -75,7 +75,7 @@ flow-retail 展示了一个使用 Kafka 和 Kafka-Connect 的实现示例:[https
 *   通过请求/响应进行点对点通信(通常是 REST)
 *   工作流引擎的工作分配
 
-[![](../Images/213081b736cea3db697eb0b25fa6fec4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OGFoo9Yd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/882/1%2AF_JateXoPZ6Qo9YjD0mUqQ.png)
+[![](img/213081b736cea3db697eb0b25fa6fec4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OGFoo9Yd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/882/1%2AF_JateXoPZ6Qo9YjD0mUqQ.png)
 
 我们还没有考虑是集中运行还是分散运行工作流引擎，这是一个单独的问题，以后再解决。
 
@@ -83,7 +83,7 @@ flow-retail 展示了一个使用 Kafka 和 Kafka-Connect 的实现示例:[https
 
 这种架构依靠中央总线进行异步通信。不同的微服务连接到这个总线。编排逻辑和相应的编排流归微服务所有。工作流可以向总线发送新的命令(“嘿付款，请为我取回一些钱”)或等待事件发生(“无论谁感兴趣，我取回了 O42 的付款”)。
 
-[![](../Images/beffc3e40e4ade0d60e0446d19546958.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aBhf7mcZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/822/1%2ACrVNp7NanVltYv7TBqRI4g.png)
+[![](img/beffc3e40e4ade0d60e0446d19546958.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aBhf7mcZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/822/1%2ACrVNp7NanVltYv7TBqRI4g.png)
 
 *   *典型工具*:卡夫卡、RabbitMQ (AMQP)、JMS。
 *   *工作流引擎做什么*:超时处理，管理活动链/流，支持有状态的[企业集成模式](https://www.enterpriseintegrationpatterns.com/)，如[聚合器](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Aggregator.html)或[重排序器](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Resequencer.html)，一致性和补偿处理又名[传奇模式](https://blog.bernd-ruecker.com/saga-how-to-implement-complex-business-transactions-without-two-phase-commit-e00aa41a1b1b)，如我的演讲中所讨论的[事务丢失](https://www.slideshare.net/BerndRuecker/2018-lost-in-transaction/)(例如在 JavaZone Oslo 中记录的[)。](https://2018.javazone.no/program/45df84d4-e819-4fc9-9e3b-931972891441)
@@ -95,7 +95,7 @@ flow-retail 展示了一个使用 Kafka 和 Kafka-Connect 的实现示例:[https
 
 在这种架构中，您只需主动调用其他微服务，通常是以同步、阻塞的方式。最突出的方法就是休息。端点通常从注册表中检索。工作流引擎可以协调 REST 调用，还可以帮助应对远程通信的挑战——这是我在我的 [3 微服务集成的陷阱文章](https://www.infoworld.com/article/3254777/application-development/3-common-pitfalls-of-microservices-integrationand-how-to-avoid-them.html)中详细讨论的主题(也可以作为演讲、[在 QCon London](https://youtu.be/O2-NHptllKQ) 等场合录制的[)。](https://www.slideshare.net/BerndRuecker/3-common-pitfalls-in-microservice-integration)
 
-[![](../Images/75ded1888fdfc45e37a2d8e444cc9ed4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vt51tDeK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/744/1%2AcJWRsT-c_0-PxcyrmF9ECw.png)
+[![](img/75ded1888fdfc45e37a2d8e444cc9ed4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vt51tDeK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/744/1%2AcJWRsT-c_0-PxcyrmF9ECw.png)
 
 *   *典型工具* : REST、SOAP、gRPC 也可以通过使用[请求/回复队列(例如在 RabbitMQ](https://www.rabbitmq.com/tutorials/tutorial-six-java.html) 中)的阻塞消息来实现。
 *   *工作流引擎做什么* : [有状态弹性模式(如有状态重试)](https://blog.bernd-ruecker.com/fail-fast-is-not-enough-84645d6864d3)、超时处理、管理活动链/流、一致性和补偿处理又名[传奇模式](https://blog.bernd-ruecker.com/saga-how-to-implement-complex-business-transactions-without-two-phase-commit-e00aa41a1b1b)如我的演讲中所讨论的[在事务中丢失](https://www.slideshare.net/BerndRuecker/2018-lost-in-transaction/)(例如在 JavaZone Oslo 中记录的[)。](https://2018.javazone.no/program/45df84d4-e819-4fc9-9e3b-931972891441)
@@ -107,7 +107,7 @@ flow-retail 展示了一个使用 Kafka 和 Kafka-Connect 的实现示例:[https
 
 在这种架构中，工作流在微服务之间分配工作，这意味着它本身成为某种总线。微服务可以订阅工作流的某些工作，并通过某种队列获得任务。
 
-[![](../Images/de1d6f6e569c89a788bec9cb991979dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d0ZwtTU_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/583/1%2A_3tmyFDu5MFEWb5_tIfLAg.png)
+[![](img/de1d6f6e569c89a788bec9cb991979dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d0ZwtTU_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/583/1%2A_3tmyFDu5MFEWb5_tIfLAg.png)
 
 *   *典型工具* : [外部任务](https://docs.camunda.org/manual/latest/user-guide/process-engine/external-tasks/)(卡蒙达 BPM)或[工人](https://docs.zeebe.io/basics/job-workers.html)(齐贝)。
 *   *工作流引擎做什么*:通信通道、超时处理、管理活动链/流、一致性和补偿处理又名[传奇模式](https://blog.bernd-ruecker.com/saga-how-to-implement-complex-business-transactions-without-two-phase-commit-e00aa41a1b1b)如我的演讲中所讨论的[事务中的丢失](https://www.slideshare.net/BerndRuecker/2018-lost-in-transaction/)(例如在 JavaZone Oslo 中记录的[)。](https://2018.javazone.no/program/45df84d4-e819-4fc9-9e3b-931972891441)
@@ -133,7 +133,7 @@ flow-retail 展示了一个使用 Kafka 和 Kafka-Connect 的实现示例:[https
 
 一个很好的背景阅读可能是 [*架构选项运行一个工作流引擎*](https://blog.bernd-ruecker.com/architecture-options-to-run-a-workflow-engine-6c2419902d91) 。
 
-[![](../Images/137c485458668e9699c5e3f132eeba74.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bgkTfA1U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/868/1%2AuGOJ-PtvpuTJKZD2m3_VTA.png)
+[![](img/137c485458668e9699c5e3f132eeba74.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bgkTfA1U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/868/1%2AuGOJ-PtvpuTJKZD2m3_VTA.png)
 
 #### 分散引擎
 
@@ -151,7 +151,7 @@ flow-retail 展示了一个使用 Kafka 和 Kafka-Connect 的实现示例:[https
 
 但是通常您仍然希望有一个总体的概述，至少是跨越微服务边界的端到端流。目前，客户通常构建自己的集中式监控，最常见的是基于例如 Elastic。现在，您可以将分散引擎中最重要的事件(例如，工作流实例开始、达到里程碑、工作流实例失败或结束)发送给 it 部门。中央监控仅显示更高层次的概览，并链接回分散操作工具以获取详细信息。换句话说，分散的工作流引擎处理所有的重试和失败处理逻辑，而中央监控只是提供对整个流程的可见性。
 
-[![](../Images/380dd3814f28814e5b7e0c15799e290d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cuj3qxBi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/910/1%2AMvPNnzzduN0xOYjqfHqfkw.png)
+[![](img/380dd3814f28814e5b7e0c15799e290d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cuj3qxBi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/910/1%2AMvPNnzzduN0xOYjqfHqfkw.png)
 
 在我们自己的堆栈中，我们开始允许某些工具从分散的引擎中收集数据，例如 [Camunda Optimize](https://camunda.com/products/optimize/) 或 Zeebe Operate。
 
@@ -161,7 +161,7 @@ flow-retail 展示了一个使用 Kafka 和 Kafka-Connect 的实现示例:[https
 
 为了简化操作，您还可以运行中心引擎。这是微服务可以连接的远程资源，以便部署和执行工作流。从技术上讲，这可能是通过 REST (Camunda BPM)或 gRPC (Zeebe)实现的。
 
-[![](../Images/f2651abca26db51a57a7cc1712ce51e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L6krVqV2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/258/1%2AgQ5LYar6E4jjV-HDM65QAg.png)
+[![](img/f2651abca26db51a57a7cc1712ce51e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L6krVqV2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/258/1%2AgQ5LYar6E4jjV-HDM65QAg.png)
 
 *   *实现示例*:[https://github . com/berndruecker/flow-retail/tree/master/Kafka/Java/order-zee be](https://github.com/berndruecker/flowing-retail/tree/master/kafka/java/order-zeebe)
 *   *Pro* :操作简便；开箱即用的中央监控
@@ -173,7 +173,7 @@ flow-retail 展示了一个使用 Kafka 和 Kafka-Connect 的实现示例:[https
 
 这种方法通常需要一些解释。在 Camunda 中，您可以在不同的微服务中以分散的方式运行工作流引擎作为库(例如，使用[Spring Boot 启动器](https://docs.camunda.org/manual/latest/user-guide/spring-boot-integration/))。但是，然后你把所有这些引擎连接到一个中央数据库，它们在那里会合。这让你有免费的中央监控。
 
-[![](../Images/8d364732a13496667f78886a6f7d3a28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--msEKw1kl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/260/1%2AIKko3bIeAct-ZCi9vTOmFQ.png)
+[![](img/8d364732a13496667f78886a6f7d3a28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--msEKw1kl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/260/1%2AIKko3bIeAct-ZCi9vTOmFQ.png)
 
 *   *Pro* :开箱即用的中央监控。
 *   *缺点*:在运行时数据和产品版本方面，微服务之间的隔离更少，但实际上是通过像[滚动升级](https://docs.camunda.org/manual/latest/update/rolling-update/)和[部署感知流程引擎](https://docs.camunda.org/manual/latest/user-guide/process-engine/the-job-executor/#job-execution-in-heterogeneous-clusters)这样的特性来调节的。
@@ -196,7 +196,7 @@ flow-retail 展示了一个使用 Kafka 和 Kafka-Connect 的实现示例:[https
 
 在微服务架构**中，工作流模型的所有权必须属于拥有各自领域**的团队。
 
-[![](../Images/1c70b7a26e0be3aa21c896f3becc52e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7v_arnDX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/896/1%2AL7Zd0tElgCB0NDO-qdvnSQ.png)
+[![](img/1c70b7a26e0be3aa21c896f3becc52e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7v_arnDX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/896/1%2AL7Zd0tElgCB0NDO-qdvnSQ.png)
 
 在流动零售示例中，有两种工作流模型:
 
@@ -217,11 +217,11 @@ flow-retail 展示了一个使用 Kafka 和 Kafka-Connect 的实现示例:[https
 
 所描述的主题是复杂的，没有容易在所有场景中采用的答案。我希望这篇文章能给你一些启发。让我们快速回顾一下:
 
-[![](../Images/a59cb97477f05fe443ddcc44f6a95222.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6uC9TLPM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/779/1%2AF6JQ8-tas-I96sAJGgUdpg.png)
+[![](img/a59cb97477f05fe443ddcc44f6a95222.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6uC9TLPM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/779/1%2AF6JQ8-tas-I96sAJGgUdpg.png)
 
 您需要选择您的**通信方式**:异步、RPC-ish 或使用工作流引擎的工作分配。根据您的选择，工作流引擎可以为您提供不同的帮助:
 
-[![](../Images/c11ac6f342edd27adfbd21dd4c232fd1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ahaxweh5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/507/1%2AkWOk1eKl0rwu11mW2_lHKw.png)
+[![](img/c11ac6f342edd27adfbd21dd4c232fd1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ahaxweh5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/507/1%2AkWOk1eKl0rwu11mW2_lHKw.png)
 
 **工作流模型的所有权**必须在各自微服务的领域内。工作流应该明确地集中在那个领域。
 

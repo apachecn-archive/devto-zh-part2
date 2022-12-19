@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ebreton/ghost-in-a-shell---part-iii--to-production-with-performance-10g5>
 
-[![Ghost in A shell - part III : to Production, with performance](../Images/16d7342c4dee2b0bb1c3121bcd25fae6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BrPhpqqH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://manu.breton.ch/blog/content/images/2018/06/Ghost-in-A-shell.png)
+[![Ghost in A shell - part III : to Production, with performance](img/16d7342c4dee2b0bb1c3121bcd25fae6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BrPhpqqH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://manu.breton.ch/blog/conteimg/2018/06/Ghost-in-A-shell.png)
 
 实际上，我对*我的*作品的[前一篇博客](https://dev.to/ebreton/ghost-in-a-shell---part-ii---https-is-the-norm-1jj4)的结果非常满意:它有一个代理，它服务于 HTTPs，sqlite3 毕竟还不错...而对于我的 7.5 用户来说，就是*太棒了*。
 
@@ -164,12 +164,12 @@ Enter fullscreen mode Exit fullscreen mode
 2.  用 sqlite3: `make qa`生成实例(为了简单起见，我们将使用默认内容)
 3.  衡量绩效(并生成我们的第一份报告):`make gatling`
 
-[![Ghost in A shell - part III : to Production, with performance](../Images/d1c259c8408ffc4cba76e526121a70a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--we1UbCMm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://manu.breton.ch/blog/content/images/2018/06/with.sqlite3.png)
+[![Ghost in A shell - part III : to Production, with performance](img/d1c259c8408ffc4cba76e526121a70a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--we1UbCMm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://manu.breton.ch/blog/conteimg/2018/06/with.sqlite3.png)
 
 1.  使用 MariaDB: `make stop prod`重新开始同一个博客(您也可以使用`make stop prod logs` target 跟踪日志并查看实例何时准备好)
 2.  再次测量性能:`make gatling`
 
-[![Ghost in A shell - part III : to Production, with performance](../Images/d565711f30656fc947c60c6f8dc345ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QXRrCeaK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://manu.breton.ch/blog/content/images/2018/06/with-mariadb.png)
+[![Ghost in A shell - part III : to Production, with performance](img/d565711f30656fc947c60c6f8dc345ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QXRrCeaK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://manu.breton.ch/blog/conteimg/2018/06/with-mariadb.png)
 
 1.  比较写在文件夹*中的两份报告。/加特林-结果*
 
@@ -307,7 +307,7 @@ Enter fullscreen mode Exit fullscreen mode
 2.  一旦启动，再次运行加特林:`NAME=with-cache-blog GATLING_BASE_URL=http://192.168.178.93/with-cache make-blog gatling`
 3.  查看结果(左边没有缓存，右边有缓存)
 
-[![Ghost in A shell - part III : to Production, with performance](../Images/004fa1417937e6e40ca884625cdebd0c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e6pwu2TA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://manu.breton.ch/blog/content/images/2018/06/with-or-without.png)
+[![Ghost in A shell - part III : to Production, with performance](img/004fa1417937e6e40ca884625cdebd0c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e6pwu2TA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://manu.breton.ch/blog/conteimg/2018/06/with-or-without.png)
 
 缓存的性能更好(正如预期的那样)，但内容现在可能会“滞后”，这可能会对用户体验产生负面影响...另一方面，它也可以对维护的容易程度产生积极的影响，允许我们对博客本身进行小的停机(如果缓存得好的话)。
 

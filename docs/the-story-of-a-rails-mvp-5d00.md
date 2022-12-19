@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/stevetwitte/the-story-of-a-rails-mvp-5d00>
 
-[![alt text](../Images/9eaf5f51d7b570a2864f126977c93305.png "The Story of a Rails MVP")](https://res.cloudinary.com/practicaldev/image/fetch/s--exBw3D8D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i4vj5bjpdp4iuopwkift.jpg) 
+[![alt text](img/9eaf5f51d7b570a2864f126977c93305.png "The Story of a Rails MVP")](https://res.cloudinary.com/practicaldev/image/fetch/s--exBw3D8D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i4vj5bjpdp4iuopwkift.jpg) 
 我最近有一次很棒的经历，我抛弃了 API/客户端应用程序的麻烦，转而使用标准的 Rails web 应用程序。这是一个与 MyInvestmentTime.com 一起寻找阻力最小的道路的故事。
 
 不久前的一个周五，我坐在办公桌前，完成了冲刺，看着一整天的投资时间，但不知道该做什么。我突然想到，可能有一个网站或论坛可以让我获得一些灵感。我以为已经有一个网站让人们谈论投资时间了。事实证明，这个网站并不存在，至少据我所知，所以我决定创建 MyInvestmentTime.com。

@@ -28,7 +28,7 @@
 
 我将从描述数据从农场到最终目标的完整流程的图表开始(无论是仪表盘还是数据科学的东西)。接下来，我将描述每个阶段以及如何在 google cloud 上实现:
 
-[![](../Images/5b3340584884e2b99afe7bf590591439.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9jhVa5yR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/517/1%2AEqCQM-_GgAEQ5cBrsrWJ7g.png) 
+[![](img/5b3340584884e2b99afe7bf590591439.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9jhVa5yR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/517/1%2AEqCQM-_GgAEQ5cBrsrWJ7g.png) 
 
 <figcaption>数据管道架构图</figcaption>
 

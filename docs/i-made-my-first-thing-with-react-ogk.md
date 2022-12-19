@@ -4,7 +4,7 @@
 
 我知道这不多，但我做了一个反应钟。来看看:[在 CodePen](https://codepen.io/jackharner/project/full/ZemJRj/) 上反应时钟。React 一直是我的清单上的事情之一，“也许应该弄清楚，但还没有”一段时间了。我想我应该一头扎进去，看看我能做些什么。
 
-[![React Clock](../Images/050987410c507138724196858c3dfa5c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OYCpTu2o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bnph8db0942u2lvg7uwg.gif)
+[![React Clock](img/050987410c507138724196858c3dfa5c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OYCpTu2o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bnph8db0942u2lvg7uwg.gif)
 
 我一直搞砸的最大的事情是使用`className`而不是`class`
 

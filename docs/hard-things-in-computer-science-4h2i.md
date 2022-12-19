@@ -20,7 +20,7 @@ DataDigger 是一款面向 OpenEdge 开发者的开源数据库浏览器。它�
 
 收集文件定义需要相当长的时间。对于一个小型数据库来说，这一点没有被注意到，但是如果您有——就像我的一些用户一样——一组 8 个数据库，有几千个(是的，几千个)表，那么分析它们需要相当多的时间。启动时，DataDigger 首先检查数据库最后一次修改的日期和时间。该文件(如果存在)应该位于缓存文件夹中。让我们看看我的缓存文件夹的内容:
 
-[![leyndii](../Images/2c042440c7c79f1e49f55dd9db52afa9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pId-JRDe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datadigger.files.wordpress.com/2018/05/leyndii.png%3Fw%3D840)
+[![leyndii](img/2c042440c7c79f1e49f55dd9db52afa9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pId-JRDe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datadigger.files.wordpress.com/2018/05/leyndii.png%3Fw%3D840)
 
 前两个文件是数据库缓存文件。我们可以通过以“db”开头的名称来识别它们，后面是名称以及最后修改的日期和时间。最后修改的日期可以这样找到:
 
@@ -35,7 +35,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 数据库缓存文件包含数据库中所有表及其 crc 编号的列表。当我们想要读取单个表的缓存时，这个值很重要。
 
-[![dv2xpzo](../Images/feda5b9e5dc4479fe3815bd69fad1223.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X8Go9Zry--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datadigger.files.wordpress.com/2018/05/dv2xpzo.png%3Fw%3D840)
+[![dv2xpzo](img/feda5b9e5dc4479fe3815bd69fad1223.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X8Go9Zry--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datadigger.files.wordpress.com/2018/05/dv2xpzo.png%3Fw%3D840)
 
 如您所见，我的客户表的当前 crc 是 6269。如果你在上面的文件列表中查找，你会发现一个名为“运动”的文件。' Customer.6269.xml '。这是包含此版本客户表设置的文件。还有另一个编号为 48132 的客户文件。显然，这是我改变之前的 CRC。
 
@@ -43,7 +43,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 由于缓存为 DataDigger 的启动提供了如此大的推动力，所以拥有它们是很方便的。但是如果 DataDigger 应该等到您选择了表，您仍然需要等待。为了避免这种情况，DataDigger 在启动时会在后台进行一些预缓存。它使用最近使用的表的列表，并检查每个表的缓存文件是否存在。在设置中，您可以在“行为”选项卡中找到它:
 
-[![cakvqic](../Images/542061dc4bcff987e6cd549f2d70f136.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bomJtlON--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datadigger.files.wordpress.com/2018/05/cakvqic.png%3Fw%3D840)
+[![cakvqic](img/542061dc4bcff987e6cd549f2d70f136.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bomJtlON--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datadigger.files.wordpress.com/2018/05/cakvqic.png%3Fw%3D840)
 
 您可以取消选中缓存设置，但通常不需要这样做。构建缓存是在后台完成的，通过使用调度机制，正如我在上一篇文章[中所描述的那样，将计时器变成调度器](https://wordpress.com/post/datadigger.wordpress.com/1000)。为了确保数据挖掘器保持响应，它每 2 秒钟只检查一个表。
 

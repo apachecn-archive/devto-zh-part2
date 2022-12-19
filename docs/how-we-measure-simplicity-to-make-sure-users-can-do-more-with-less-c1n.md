@@ -69,7 +69,7 @@
 
 老实说，当我第一次看到这些数字的时候，我简直不敢相信这个简单的流程需要 65 次点击和 18 个屏幕。🤯。这是查看数据的另一种方式:每一步循环都与点击或屏幕数量成正比。
 
-[![old-friction](../Images/53ef497e85581133dd9604b0d627d5df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PyBMAE9V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zorythc6ovugcnux7sc6.png)
+[![old-friction](img/53ef497e85581133dd9604b0d627d5df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PyBMAE9V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zorythc6ovugcnux7sc6.png)
 
 这真的让我感觉很糟糕，但我们有一些工作。我们的 FI 是 119，我们需要减少这个数字。
 
@@ -117,17 +117,17 @@
 
 我们新的摩擦指数是 84，比之前的体验提高了约 30%。如果你问我，我觉得还是太多了，而且很多都与电子邮件确认步骤有关。但是我非常高兴地看到，我们将创建目标和项目的成本削减了一半，因为这是人们经常用产品做的事情。
 
-[![new-friction](../Images/43484e89a26061a87755fb61179463a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--abBGqQyF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2oxpyj0qy34qmuq4wl99.png)
+[![new-friction](img/43484e89a26061a87755fb61179463a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--abBGqQyF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2oxpyj0qy34qmuq4wl99.png)
 
 从视觉上，我们可以看到切换上下文的步骤更少了，而且我们减少了许多地方的点击次数。
 
-[![old-vs-new](../Images/cc719c261879d2a2653ae0186f093fe3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3xKCBSfm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ck8et4hqrbt0mgbnq61l.png)
+[![old-vs-new](img/cc719c261879d2a2653ae0186f093fe3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3xKCBSfm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ck8et4hqrbt0mgbnq61l.png)
 
 ## 数据不能说明一切
 
 重要的是，不要盲目地看数字，在不了解背景的情况下设定崇高的目标。如果你看绝对数字，它去除了用户体验的所有复杂性，并且它没有帮助理解保持事物简单所需的投资。
 
-[![old-vs-new-comparison](../Images/1bf3bb9ddb54a9b7f7f7abcc894725f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IUSzyHwe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fqb5rpjnm68feu3e1n45.png)
+[![old-vs-new-comparison](img/1bf3bb9ddb54a9b7f7f7abcc894725f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IUSzyHwe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fqb5rpjnm68feu3e1n45.png)
 
 重要的是挖掘细节，看看每一步都发生了什么。在我们的例子中，我们突出显示了电子邮件确认步骤。这是因为这意味着我们在那一点上失去了对体验的控制，事情可能比我们想象的要糟糕得多。
 

@@ -14,7 +14,7 @@
 #### 黄金比例:
 
 黄金分割率是一个大约等于 1.618 的特殊数字，它多次出现在几何、艺术、建筑，甚至自然中，它也出现在其他领域。
-[![Golden ratio in nature](../Images/8414a4fd8aed872d1f0f95476a0dbfa2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4EtixNdV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pxvsits0nh491c1zqybm.png) 
+[![Golden ratio in nature](img/8414a4fd8aed872d1f0f95476a0dbfa2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4EtixNdV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pxvsits0nh491c1zqybm.png) 
 也就是说，黄金搜索算法是一种用于为[单峰函数](https://en.wikipedia.org/wiki/Unimodality)寻找极值(最小值或最大值，在这种情况下为最小值)的算法，通过连续缩小已知存在极值的值的范围。
 因此，我们的目标是在 F#中为单峰函数“F”编写方法，其范围是[a，b]，x1 < x2。
 

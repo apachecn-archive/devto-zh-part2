@@ -4,9 +4,9 @@
 
 我刚刚在 dev.to repo 中发表了一个关于考虑标准化代码库 CSS 部分的度量单位的问题。简而言之，我正在推广`rem`(必要时还有`em`)的用法，就像我在日常工作中使用的一样，因为我在`rem`上很受欢迎。
 
-# [![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) 考虑使用雷姆单位 #987](https://github.com/thepracticaldev/dev.to/issues/987) 
+# [![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) 考虑使用雷姆单位 #987](https://github.com/thepracticaldev/dev.to/issues/987) 
 
-[![nickytonline avatar](../Images/849ad90a82f294a93718c2c4da688f82.png)](https://github.com/nickytonline) **[nickytonline](https://github.com/nickytonline)** posted on [<time datetime="2018-10-23T14:18:37Z">Oct 23, 2018</time>](https://github.com/thepracticaldev/dev.to/issues/987)
+[![nickytonline avatar](img/849ad90a82f294a93718c2c4da688f82.png)](https://github.com/nickytonline) **[nickytonline](https://github.com/nickytonline)** posted on [<time datetime="2018-10-23T14:18:37Z">Oct 23, 2018</time>](https://github.com/thepracticaldev/dev.to/issues/987)
 
 **您的功能请求是否与某个问题相关？请描述一下。**这与#966 有关
 
@@ -26,14 +26,14 @@
 
 **附加上下文**
 
-[![image](../Images/f0dcc34f5b1b4fb95062e5093b1fff40.png)T2】](https://user-images.githubusercontent.com/833231/47332360-09338f80-d64d-11e8-8b4a-2a8bbce8d05e.png)
+[![image](img/f0dcc34f5b1b4fb95062e5093b1fff40.png)T2】](https://user-images.githubusercontent.com/833231/47332360-09338f80-d64d-11e8-8b4a-2a8bbce8d05e.png)
 
-[![image](../Images/facfa344764b304c4fe14af983d748ac.png)T2】](https://user-images.githubusercontent.com/833231/47335514-7f3df380-d659-11e8-82ce-306d64e17d74.png)
+[![image](img/facfa344764b304c4fe14af983d748ac.png)T2】](https://user-images.githubusercontent.com/833231/47335514-7f3df380-d659-11e8-82ce-306d64e17d74.png)
 
 [View on GitHub](https://github.com/thepracticaldev/dev.to/issues/987)
 
 有很多文章对此进行了详细的讨论。一个简单的谷歌“雷姆对”将为你提供大量的文章。
 
-[![screenshot of a Google search on "rem vs."](../Images/079789667f0a27525724f3a15feb5b93.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u9zNDK-z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cr6f97fremx336vzba08.png)
+[![screenshot of a Google search on "rem vs."](img/079789667f0a27525724f3a15feb5b93.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u9zNDK-z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cr6f97fremx336vzba08.png)
 
 很好奇大家对此的想法。欢迎在这里和 GitHub 上发表评论。

@@ -168,7 +168,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <figcaption>Chrome 可以判断你是否连接了安卓设备</figcaption>
 
-[![Chrome webview debugging tool](../Images/e6d2f6d8c887cd66f6534ceefe886793.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lK4ebemp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/cordova/webview-debug-640.jpg)
+[![Chrome webview debugging tool](img/e6d2f6d8c887cd66f6534ceefe886793.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lK4ebemp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/cordova/webview-debug-640.jpg)
 
 要在 Android 设备上测试和调试你的 Cordova 应用程序，你需要使用这个命令，这里的`-debug`标志很重要:
 
@@ -180,7 +180,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <figcaption>像检查网站一样检查你的应用</figcaption>
 
-[![Developer tools for your app](../Images/da4f0e4197f08784e91bb5aed07dc22c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--S-0Sas80--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/cordova/debug-cordova-640.jpg)
+[![Developer tools for your app](img/da4f0e4197f08784e91bb5aed07dc22c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--S-0Sas80--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/cordova/debug-cordova-640.jpg)
 
 唯一的小问题是，每次对代码进行更改时，都必须重新部署到设备上进行测试。但是对于我正在构建的这个应用程序，我唯一一次必须快速连续地这样做是在我使用设备 API 的时候。其余的时间我只是在电脑上工作，因为 Browysersync 是按照普通网站提供文件的。
 

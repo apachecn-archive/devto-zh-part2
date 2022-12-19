@@ -44,7 +44,7 @@ Java 访问修饰符指定了成员属性、方法、构造函数和类的范围
 
 通过使用特殊的 AccessLevel，您总是可以手动禁用任何字段的 getter/setter 生成。无访问级别。
 
-[![Student_Code](../Images/0ab07935c9ea60065002e34b162f8a31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EH2zpT2Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yc2a2j2wr7e3je7dse80.png)
+[![Student_Code](img/0ab07935c9ea60065002e34b162f8a31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EH2zpT2Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yc2a2j2wr7e3je7dse80.png)
 
 下表说明了 Lombok AccessLevel 将如何映射到用于 Access 和 mutator 方法的 Java 访问修饰符。
 
@@ -67,7 +67,7 @@ $ javap Student.class
 
 javap 命令打印出传递给它的类的 package、protected 和 public 字段和方法。javap 命令将其输出显示到 stdout。因此，没有打印出 Student 类的私有成员属性，但是现在可以看到如何为该类的每个非静态私有成员创建 getter 和 setter 方法，这取决于作为注释的一部分设置的 AccessLevel。
 
-[![Student_Decompile](../Images/898cbcc4cb673c3716b186232fac48f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V9g6oA2E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/13pr9n64tdkrv4un3vta.png)
+[![Student_Decompile](img/898cbcc4cb673c3716b186232fac48f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V9g6oA2E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/13pr9n64tdkrv4un3vta.png)
 
 基于这个例子，下面是 lombok 用不同的 java 访问修饰符生成方法的原因:
 

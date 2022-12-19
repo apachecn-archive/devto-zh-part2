@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/hullsean/6-devops-interview-questions--3e7c>
 
-[![Code Gif](../Images/fe7277e8ef82daff94518478d567e8ce.png "Code Gif")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m-n523CH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/srn1rae6d9e67y2b3tvi.gif)
+[![Code Gif](img/fe7277e8ef82daff94518478d567e8ce.png "Code Gif")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m-n523CH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/srn1rae6d9e67y2b3tvi.gif)
 
 如今 Devops 的需求量很大。在我参加的每一次 meetup 或科技活动中，我都会听到招聘人员或初创公司创始人谈论这个话题。似乎每个人都希望看到天才运营为他们的业务带来的好处。
 

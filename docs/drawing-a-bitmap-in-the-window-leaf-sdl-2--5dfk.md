@@ -92,7 +92,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我现在可以看到神秘的错误。我在 Gimp 中重新保存了这个文件，它就消失了，留给我们的结果如下所示。
 
-[![Screenshot](../Images/66baf49111305a9261ddbaa0d2cc86c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7CtEQ299--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/03/screenshot_20180309_105012.png)
+[![Screenshot](img/66baf49111305a9261ddbaa0d2cc86c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7CtEQ299--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/03/screenshot_20180309_105012.png)
 
 希望下一次我能画更多的矩形。
 

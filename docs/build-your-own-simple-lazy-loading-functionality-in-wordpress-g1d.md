@@ -23,7 +23,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 最起码，你现在有了一个可以在 WordPress admin 中激活的插件。去那里把它打开。
 
-[![Activate Simple Lazy Loading Plugin](../Images/2a8ee9a84678c5f8b1de503f03cf2905.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e94ghUR5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://macarthur.me/static/bbde81e9993542c110f7c5ac7d95f362/a296c/simple-lazy-loading.jpg)
+[![Activate Simple Lazy Loading Plugin](img/2a8ee9a84678c5f8b1de503f03cf2905.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e94ghUR5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://macarthur.me/static/bbde81e9993542c110f7c5ac7d95f362/a296c/simple-lazy-loading.jpg)
 
 完成后，打开刚刚创建的文件，我们就可以开始了！
 

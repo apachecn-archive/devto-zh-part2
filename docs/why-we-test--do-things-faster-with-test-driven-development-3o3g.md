@@ -20,7 +20,7 @@
 
 所以我们已经有 20 秒的时间进行人工检查。这假设您的客户端和服务器端构建工具，如 Webpack 和 Maven，已经过优化。
 
-[![Manual Checks require more time than you might think](../Images/58d8cc30d887a25170ed664176a0b1a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3xsHTk1j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kwr30rtj98roo790mxw3.png)
+[![Manual Checks require more time than you might think](img/58d8cc30d887a25170ed664176a0b1a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3xsHTk1j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kwr30rtj98roo790mxw3.png)
 
 ## 但是检查花费的时间比你想象的要长
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/gate3/how-to-setup-couchdb-on-azure-a-step-by-step-guide-4o3p>
 
-[![Main Image](../Images/e6745ff39075a139dbab8406c109ae68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wCaKqHnx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7oizyztedtjmsav7a0wf.jpg)
+[![Main Image](img/e6745ff39075a139dbab8406c109ae68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wCaKqHnx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7oizyztedtjmsav7a0wf.jpg)
 
 在过去的一个月里，我参与了一个需要离线优先能力的项目。我过去从事自动同步的工作，做起来真的很痛苦，因为一切都是手动的，很烦人。我基本上必须编写使所有移动部分工作的代码，从本地保存数据，监听网络存在，然后移动数据。
 
@@ -28,11 +28,11 @@
 ### 第一步(去市场)
 
 转到新的 [azure 门户](https://manage.windowsazure.com)并登录(如果尚未登录的话)。在仪表板上找到市场。如果您在仪表板上找不到它，请单击旁边的所有服务，然后查找市场并单击它。
-T3![Screen Shot 2018-09-24 at 8.48.42 AM.png](../Images/2a169e3fb1bc437f49be5032e4a55e40.png)T5】
+T3![Screen Shot 2018-09-24 at 8.48.42 AM.png](img/2a169e3fb1bc437f49be5032e4a55e40.png)T5】
 
 ### 第二步(搜索 Couchdb)
 
-[![Screen Shot 2018-09-24 at 8.49.49 AM.png](../Images/789acefc099c4e92a856b2fd37d5aad1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NnzeyB4Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/oLWF1lflTm6bW6uyIHUv)
+[![Screen Shot 2018-09-24 at 8.49.49 AM.png](img/789acefc099c4e92a856b2fd37d5aad1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NnzeyB4Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/oLWF1lflTm6bW6uyIHUv)
 
 只需输入“Couchdb”或更直接的“CouchDB Certified by Bitnami”你应该得到如图所示的市场应用程序，并在下一个屏幕上选择它。你应该会看到一些关于什么是 couchbase 的解释，滚动到底部，然后单击下面的创建按钮。
 
@@ -40,7 +40,7 @@ T3![Screen Shot 2018-09-24 at 8.48.42 AM.png](../Images/2a169e3fb1bc437f49be5032
 
 下一个屏幕显示了虚拟机的一些配置选项。如果你已经熟悉 Azure，那么大多数选项应该是显而易见的。资源组、区域和可用性集等选项。它们旁边都有信息图标，您可以悬停该图标以获取有关该领域的信息，但我将解释任务关键型领域(wink :-)，现在想说一会儿)。
 
-[![Screen Shot 2018-09-24 at 8.57.10 AM.png](../Images/78a457aa71ff62ba6869e3c66a25fb20.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rN7PFJsr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/P7vLQVQPRXCNljJXp2K7)
+[![Screen Shot 2018-09-24 at 8.57.10 AM.png](img/78a457aa71ff62ba6869e3c66a25fb20.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rN7PFJsr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/P7vLQVQPRXCNljJXp2K7)
 
 **虚拟机名称**
 这是用来识别您的虚拟机的名称，也是主机名。在这里使用一个好的解释性的名字，不要太长，但要有解释性。
@@ -113,7 +113,7 @@ ssh -N -L 5984:127.0.0.1:5984 用户名@服务器 IP
 
 要解锁端口，您需要允许端口 5984 通过您的防火墙。为此，您需要添加一个入站规则，幸运的是这很容易做到。只需在侧面菜单中搜索网络，并在刀片启动时单击入站规则按钮。默认情况下，新入站规则的设置将被设置为高级，将其更改为基本，您应该会看到下面的屏幕
 
-[![Screen Shot 2018-09-25 at 9.08.32 AM.png](../Images/5810c836f1b5215376ac942a0d453f80.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CxhNT0WH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/J5tB1RnJSmHzS7skAYi8)
+[![Screen Shot 2018-09-25 at 9.08.32 AM.png](img/5810c836f1b5215376ac942a0d453f80.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CxhNT0WH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/J5tB1RnJSmHzS7skAYi8)
 
 单击服务下拉菜单并从选项中选择 couchdb。如果你愿意，你可以把名字改成更容易记住的名字。然后保存，需要一点时间。
 

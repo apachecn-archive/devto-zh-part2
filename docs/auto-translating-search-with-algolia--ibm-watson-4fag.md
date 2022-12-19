@@ -32,7 +32,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 一旦准备好了，您就需要拿起凭证并把它们放在手边。不幸的是，IBM 控制台中的用户体验并没有想象中那么简单，所以为了帮助您，下面是您正在寻找的内容:
 
-[![IBM Credentials](../Images/75adbdeaa96abc97490bf61e02732152.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--67hdu6E9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/2t1v332S2l1n/Image%25202018-05-02%2520at%25205.23.42%2520pm.png)
+[![IBM Credentials](img/75adbdeaa96abc97490bf61e02732152.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--67hdu6E9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/2t1v332S2l1n/Image%25202018-05-02%2520at%25205.23.42%2520pm.png)
 
 我们开始吃吧，好吗？
 

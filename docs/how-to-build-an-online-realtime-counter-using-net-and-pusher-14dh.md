@@ -168,7 +168,7 @@
 
 现在我们的页面看起来像这样:
 
-[![](../Images/54f44ca4370ea83eff79eab079af1b92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--17dkRWWw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/09/build-online-real-time-counter-net-pusher-debug.png)
+[![](img/54f44ca4370ea83eff79eab079af1b92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--17dkRWWw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/09/build-online-real-time-counter-net-pusher-debug.png)
 
 ## **用推送器给我们的视图计数器添加实时更新**
 
@@ -278,7 +278,7 @@
 
 现在，我们通过单击 IDE 左上角的 play 按钮来运行我们的应用程序，这是我们生成的网页的一瞥。
 
-[![](../Images/d83fba47a9f52c5f51838187b5f84383.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JkCcOzJv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/09/build-online-realtime-counter-net-pusher-example.gif)
+[![](img/d83fba47a9f52c5f51838187b5f84383.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JkCcOzJv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/09/build-online-realtime-counter-net-pusher-example.gif)
 
 ## 结论
 

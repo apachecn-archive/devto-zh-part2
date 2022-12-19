@@ -10,11 +10,11 @@
 
 这是 JumpSTART 在单色 640×480 屏幕上的样子:
 
-[![](../Images/bd08db3117f2d25ab50cd9174473adfd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jBLdGI_E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.xojo.com/wp-content/uploads/2018/08/2018-08-09_14-06-09.png)
+[![](img/bd08db3117f2d25ab50cd9174473adfd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jBLdGI_E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.xojo.com/wp-content/uploads/2018/08/2018-08-09_14-06-09.png)
 
 Xojo 中的 JumpStart 得到了极大的简化，如下所示:
 
-[![](../Images/f48072894853d56042ec524be354e0ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RFpYuwgG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.xojo.com/wp-content/uploads/2018/08/2018-08-09_14-10-06.png)
+[![](img/f48072894853d56042ec524be354e0ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RFpYuwgG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.xojo.com/wp-content/uploads/2018/08/2018-08-09_14-10-06.png)
 
 Xojo 版本自动保存和加载你添加的应用程序，所以不需要单独的加载/保存，重新读取按钮。从技术上讲，它们不一定是应用程序，因为即使是文档文件也可以启动。
 

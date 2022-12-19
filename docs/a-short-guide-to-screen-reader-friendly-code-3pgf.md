@@ -50,7 +50,7 @@ title 标签是屏幕阅读器用户到达一个页面时听到的第一句话�
 
 也许最简洁的导航选项之一是地标菜单。屏幕阅读器会将`<header>`、`<footer>`、`<main>`、`<aside>`、`<nav>`等元素解释为地标元素，让用户直接导航到这些元素。您可以在下面的 macOS VoiceOver 中看到这些地标是如何显示和朗读给用户的。
 
-[![An example of the landmarks menu in macOS Voiceover](../Images/efeea97eed16965e578e94bb9f5c1342.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qJdv9j-e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://benrobertson.io/assets/img/landmarks.png)
+[![An example of the landmarks menu in macOS Voiceover](img/efeea97eed16965e578e94bb9f5c1342.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qJdv9j-e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://benrobertson.io/assets/img/landmarks.png)
 
 有意识地使用地标可以给网站带来额外的组织，帮助人们更容易地找到信息。除了使网站更容易访问，决定在网站上使用地标还可以明确网站上不同元素的真正目的。
 
@@ -66,7 +66,7 @@ title 标签是屏幕阅读器用户到达一个页面时听到的第一句话�
 
 如前所述，屏幕阅读器允许人们通过地标导航。这是一个地标菜单的例子，它结合了[地标元素、角色属性](https://benrobertson.io/accessibility/understanding-layout-for-screen-readers#aria-roles-and-landmarks)和 [aria-labels](https://benrobertson.io/accessibility/principles-getting-started-website-accessibility#aria-attributes) 来创建一个干净、易于理解的地标菜单。
 
-[![An example of the landmarks menu in macOS Voiceover](../Images/efeea97eed16965e578e94bb9f5c1342.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qJdv9j-e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://benrobertson.io/assets/img/landmarks.png)
+[![An example of the landmarks menu in macOS Voiceover](img/efeea97eed16965e578e94bb9f5c1342.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qJdv9j-e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://benrobertson.io/assets/img/landmarks.png)
 
 以一个`<nav>`元素为例，它将用于定义导航元素。默认情况下，屏幕阅读器会提示用户这是一个导航元素。这可以更进一步，提供一个 aria 标签(`<nav aria-label=”Primary Menu”>`)，告诉用户这是主菜单导航。
 

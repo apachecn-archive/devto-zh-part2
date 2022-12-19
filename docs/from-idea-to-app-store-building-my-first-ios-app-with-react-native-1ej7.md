@@ -18,7 +18,7 @@
 
 因为食肉者的饮食是最近才出现的现象，所以没有任何迎合这种饮食的应用程序，所以我认为这可能是一个很好的空白。我想到了创建一个食物日志应用程序的主意，这个应用程序只允许添加肉作为食物条目。
 
-[![](../Images/84662c456eb59ffcce5b191bac8d7d4c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LgGJGlIm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AlIPi2H6AMr_mivY0AeR9Ww.jpeg) 
+[![](img/84662c456eb59ffcce5b191bac8d7d4c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LgGJGlIm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AlIPi2H6AMr_mivY0AeR9Ww.jpeg) 
 
 <figcaption>我决定继续前进，为食肉动物的饮食创建一个肉类日志应用程序(照片由 [Jez Timms](https://unsplash.com/photos/DVRXFIH42d0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 在 [Unsplash](https://unsplash.com/search/photos/meat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) )</figcaption>
 
@@ -32,7 +32,7 @@
 
 一旦我对我想要构建的东西有了更好的想法，我就开始列出我想在应用程序中拥有的功能。我把东西归类在 V1 和 V2 下，其中 V1 是应该成为应用程序第一版的一部分的功能，V2 是在未来版本中很酷的功能。
 
-[![](../Images/ed4b4a445fc85b4493078fc031f119f9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mxgyPUDY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ae7ifGX_eSVUw1873OPBpzg.png) 
+[![](img/ed4b4a445fc85b4493078fc031f119f9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mxgyPUDY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ae7ifGX_eSVUw1873OPBpzg.png) 
 
 <figcaption>我计划在第一和第二版本的应用程序中拥有的功能列表。</figcaption>
 
@@ -40,19 +40,19 @@
 
 我非常关心应用程序的用户界面，因为我相信当应用程序看起来很好的时候，它会使应用程序使用起来更愉快。对于我的应用程序，我确保**查看其他移动应用程序的设计，以获得我希望我的应用程序看起来如何的灵感**。我收集了我手机上一些应用程序的截图以及我在 [dribbble](https://dribbble.com/) 上找到的设计，并将它们合并成一个文档。在文档中，我记下了我喜欢的 UI 元素，以及类似的设计如何适合我的应用程序。
 
-[![](../Images/2035545f47c0cbd766d176503231fd42.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Crhc29pS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ADCexBJyyI0Bex7kmei8dvQ.png) 
+[![](img/2035545f47c0cbd766d176503231fd42.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Crhc29pS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ADCexBJyyI0Bex7kmei8dvQ.png) 
 
 <figcaption>注释设计图片我整理的与其他手机 app 用户界面相关。</figcaption>
 
 在我收集了一些用户界面的灵感后，我为我在应用中需要的屏幕绘制了线框草图。我用手完成了这个，然后把草图上传到我使用的设计应用程序 [Figma](https://www.figma.com) 。
 
-[![](../Images/e3e2abf0d565949d83deb9b9e3f66feb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kShZnPxQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AgYFe5ku0QjZ2sgv_HSQJBA.png)
+[![](img/e3e2abf0d565949d83deb9b9e3f66feb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kShZnPxQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AgYFe5ku0QjZ2sgv_HSQJBA.png)
 
 <figcaption>app 中屏幕的手绘线框。</figcaption>
 
 接下来，我开始为应用程序构建高保真设计。这些都是我在 Figma 中完成的，你可以亲自查看这些设计。我从 [FlatIcon](https://www.flaticon.com/) 上拿走了所有图标，并确保支付了使用权的费用。
 
-[![](../Images/0c2b65eafd0dc30b7dc837aebf8bc9e9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wh8suUUs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AiiE6oRAhc32bQvBNOXb17g.png)
+[![](img/0c2b65eafd0dc30b7dc837aebf8bc9e9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wh8suUUs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AiiE6oRAhc32bQvBNOXb17g.png)
 
 <figcaption>app 每个屏幕的设计。</figcaption>
 
@@ -78,13 +78,13 @@
 
 此外，我确保**在我提交的应用**的截图中投入了精力，因为这些截图是那些在应用商店中查看该应用的人对该应用的最初印象。我遵循了一个典型的截屏设计趋势，你可以在 iPhone 的框架内包含一个应用程序的截屏，并附有简短的描述。
 
-[![](../Images/e926511e5c0034fc7bf58979d6af2c16.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lHhdlKPq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A1sKcXVPeC1TOi6CVG01-jA.png) 
+[![](img/e926511e5c0034fc7bf58979d6af2c16.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lHhdlKPq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A1sKcXVPeC1TOi6CVG01-jA.png) 
 
 <figcaption>App 截图我随 App 一起提交的。</figcaption>
 
 在我提交我的应用程序以获得批准后，不到 24 小时后我就收到了一封电子邮件，说我的应用程序获得了批准，几个小时后我的应用程序就可以在应用程序商店中找到了！
 
-[![](../Images/92cd3742ebc2fd934aa2e4c5dd3e5914.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gwflTa_y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A0clpoo3TLGidQU4MOrpkDA.png)
+[![](img/92cd3742ebc2fd934aa2e4c5dd3e5914.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gwflTa_y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A0clpoo3TLGidQU4MOrpkDA.png)
 
 <figcaption>App Store 中的 meat journal App。</figcaption>
 

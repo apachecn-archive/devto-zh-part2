@@ -8,7 +8,7 @@
 
 安德鲁·韦尔奇
 
-[![Unique Project Linkedin Talent Insights](../Images/20ee8dd1a5b043e66f2cd381c5391d22.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yzMpXNNo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/unique-project-linkedin-talent-insights.jpg)
+[![Unique Project Linkedin Talent Insights](img/20ee8dd1a5b043e66f2cd381c5391d22.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yzMpXNNo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/unique-project-linkedin-talent-insights.jpg)
 
 作为 LinkedIn 智能体验的一部分，我最近被指派做一个不寻常的项目。在纽约市，然后是 T2，然后是 T4【Syd ney】T5，现场活动突出了 LinkedIn 的新[智能英特尔](http://business.linkedin.com/talent-solutions/blog/product-updates/2017/what-is-talent-intelligence)平台，tar 通过这个平台获得了企业客户。
 
@@ -24,7 +24,7 @@
 
 客户希望获得一种体验，在这种体验中，人们可以与安装在大型投影墙前基座上的多个平板电脑上的应用进行互动。接近平板电脑的人得到一家希望搬迁到另一个城市的公司的信息，他们有责任选择搬迁地点。
 
-[![Linkedin Ti Unit9 Nyc 201806 00229](../Images/622872fc39af4ad446db0ca5252fd7f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9lhJzouF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/LinkedIn-TI-Unit9-NYC-201806-00229.jpg)
+[![Linkedin Ti Unit9 Nyc 201806 00229](img/622872fc39af4ad446db0ca5252fd7f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9lhJzouF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/LinkedIn-TI-Unit9-NYC-201806-00229.jpg)
 
 他们会收到许多关于各城市空房情况的问题。然后，他们会被鼓励去探索现有的多项选择答案，并从他们面前的一面大投影墙上看到他们的选择所展示的见解。
 
@@ -48,13 +48,13 @@
 
 在我们深入研究如何着手这个项目之前，让我们先看看最终的结果。然后我们就能解开我们是如何从这里到那里的。
 
-[![Linkedin Ti Unit9 Nyc 201806 00435](../Images/8b3c51e250384d7a1a2178bd149b4cee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dnYzkNpL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/LinkedIn-TI-Unit9-NYC-201806-00435.jpg)
+[![Linkedin Ti Unit9 Nyc 201806 00435](img/8b3c51e250384d7a1a2178bd149b4cee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dnYzkNpL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/LinkedIn-TI-Unit9-NYC-201806-00435.jpg)
 
-[![Linkedin Ti Unit9 Nyc 201806 00003](../Images/fcda65d8a42ed1b20cce422e6ffc2a24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zi0UbtYT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/LinkedIn-TI-Unit9-NYC-201806-00003.jpg)
+[![Linkedin Ti Unit9 Nyc 201806 00003](img/fcda65d8a42ed1b20cce422e6ffc2a24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zi0UbtYT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/LinkedIn-TI-Unit9-NYC-201806-00003.jpg)
 
-[![Linkedin Ti Unit9 Nyc 201806 00351](../Images/d036e4f6f8c7f125f17bbfb5e4be24a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Le1fcx3Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/LinkedIn-TI_Unit9-NYC-201806-00351.jpg)
+[![Linkedin Ti Unit9 Nyc 201806 00351](img/d036e4f6f8c7f125f17bbfb5e4be24a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Le1fcx3Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/LinkedIn-TI_Unit9-NYC-201806-00351.jpg)
 
-[![Linkedin Ti Unit9 Nyc 201806 00280](../Images/a00fbe5ae59fd627d5d14143793d8001.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TrKpGElt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/LinkedIn-TI-Unit9-NYC-201806-00280.jpg)
+[![Linkedin Ti Unit9 Nyc 201806 00280](img/a00fbe5ae59fd627d5d14143793d8001.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TrKpGElt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/LinkedIn-TI-Unit9-NYC-201806-00280.jpg)
 
 这一切都以一种与品牌和活动主题相融合的方式融合在一起。如果你想看它的动态，这里有一个 YouTube 视频。
 
@@ -75,7 +75,7 @@
 
 为了使这一切顺利进行，我们需要硬件来运行它。这是大概的直径图:
 
-[![Linkedin Hardware](../Images/734245a1f4a029fcaf6730b426a90aad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nTT14kZ0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x811_crop_center-center_100_line/LinkedIn-hardware.png)
+[![Linkedin Hardware](img/734245a1f4a029fcaf6730b426a90aad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nTT14kZ0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x811_crop_center-center_100_line/LinkedIn-hardware.png)
 
 我们选择了通过 [Forge](http://forge.laravel.com/) 提供的云服务器来托管 Craft CMS，这样整个团队就可以从不同的位置进行协作。
 
@@ -91,7 +91,7 @@ Sur face Pro 平板电脑被配置为在 [Chrome Kiosk Mode](http://dandelion-bu
 
 在软件方面，uni verse 的中心是 Craft CMS 3。这就是要显示的数据的来源，也是存储来自用户的任何结果答案的地方:
 
-[![Linkedin Software](../Images/f7f7b7dd0319f07af82b995ab7a943bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N44x8pHx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x941_crop_center-center_100_line/LinkedIn-software.png)
+[![Linkedin Software](img/f7f7b7dd0319f07af82b995ab7a943bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N44x8pHx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x941_crop_center-center_100_line/LinkedIn-software.png)
 
 我们为`tablet`和`display`(投影墙)准备了两个单独的模板，每个模板都有 HTML/ VueJS 代码。这样，我们可以固定平板电脑来加载`/tablet`并使用[触摸设计 er](http://www.derivative.ca/) ，让它加载`/display`的网络视图，以将其发布在直播视频的顶部。
 
@@ -101,7 +101,7 @@ Sur face Pro 平板电脑被配置为在 [Chrome Kiosk Mode](http://dandelion-bu
 
 在 Craft CMS 的后端，条目看起来像这样:
 
-[![Linkedin Station Craft Cms Entry](../Images/7ff73b3c4eb62b2fa7fbaa522b32481a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OdxItXWP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x1352_crop_center-center_100_line/LinkedIn-station-craft-cms-entry.png)
+[![Linkedin Station Craft Cms Entry](img/7ff73b3c4eb62b2fa7fbaa522b32481a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OdxItXWP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x1352_crop_center-center_100_line/LinkedIn-station-craft-cms-entry.png)
 
 在这里，内容作者可以选择要问的第一个问题，设置背景图像，选择要播放的声音作为线索(通过 [howler.js](http://howlerjs.com/) )等等。
 
@@ -109,7 +109,7 @@ Sur face Pro 平板电脑被配置为在 [Chrome Kiosk Mode](http://dandelion-bu
 
 数据库模式非常简单，大致如下所示:
 
-[![Linkedin Db Schema](../Images/3de0ec866234c98578af362384fa2129.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6XcIcp1F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x747_crop_center-center_100_line/LinkedIn-db-schema.png)
+[![Linkedin Db Schema](img/3de0ec866234c98578af362384fa2129.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6XcIcp1F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x747_crop_center-center_100_line/LinkedIn-db-schema.png)
 
 …每个答案都可以链接到下一个问题(如果有的话)。
 
@@ -123,7 +123,7 @@ Sur face Pro 平板电脑被配置为在 [Chrome Kiosk Mode](http://dandelion-bu
 
 这允许很大的灵活性(可能比最终需要的灵活性多一点)。问题在一个单独的比率通道中，在中的[超级表格 plu g 用于为添加任意数量的答案提供一个漂亮的 UX:](http://github.com/verbb/super-table)
 
-[![Linkedin Questions And Answers](../Images/200cceaccc9a554cf85f7901ea86b2fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VktRaaTH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x1386_crop_center-center_100_line/LinkedIn-questions-and-answers.png)
+[![Linkedin Questions And Answers](img/200cceaccc9a554cf85f7901ea86b2fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VktRaaTH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x1386_crop_center-center_100_line/LinkedIn-questions-and-answers.png)
 
 对于数据导出，我们使用了 Fred Carlsen 的[Beam plug g in](http://superbig.co/plugins/beam)和一个定制模板，以便在每个城市的基础上轻松导出到 CSV 文件。这使他们能够访问每个独特的用户会话，包括他们选择的所有答案，以及所有的销售线索信息。全部包裹在一个整洁的小 CSV 弓里。
 
@@ -131,7 +131,7 @@ Sur face Pro 平板电脑被配置为在 [Chrome Kiosk Mode](http://dandelion-bu
 
 cus tom Vue JS 应用程序本身主要负责跟踪状态，并对用户的各种查询和输入做出响应。下面是一个示例，展示了如何使用`stationsQuery` GraphQL 查询来检索给定工作站的当前状态:
 
-[![Linkedin Stations Query](../Images/215c985bd2cce66a7fd1c3db214b79f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xSTJFlDS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x745_crop_center-center_100_line/LinkedIn-stations-query.png)
+[![Linkedin Stations Query](img/215c985bd2cce66a7fd1c3db214b79f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xSTJFlDS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x745_crop_center-center_100_line/LinkedIn-stations-query.png)
 
 Craft QL plu in 让你在 Craft CMS 3 中读取(查询)和写入(修改)数据是多么容易，这真是令人惊叹。我们最终使用了 [GraphQL-Request](http://github.com/prismagraphql/graphql-request) 来简化 GraphQL 请求。我们所要做的就是设置一个带有 JSON Web 令牌的客户端(JWT):
 

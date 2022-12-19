@@ -4,7 +4,7 @@
 
 曾几何时，动画是一种仅用于娱乐领域的元素。虽然在屏幕上看到动画角色和沉迷于 3D 电影令人愉快，但有人决定在网站上实现同样的技术！动画你的网站听起来像一个荒谬的想法，但结果是巨大的。人们已经从喜欢静态网站转向了互动网站。此外，自然法则是，移动的物体比静止的物体更好、更快地吸引人的注意力。随着动画融入到你的网站中，访问者会感觉到更多的参与，从而转换率会上升！
 
-[![Website Design Company in Singapore](../Images/dcf84e122b4a44659e7e17f126badea9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ROwLnTsE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xsoub4lqyzj40ljh3kym.jpg)
+[![Website Design Company in Singapore](img/dcf84e122b4a44659e7e17f126badea9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ROwLnTsE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xsoub4lqyzj40ljh3kym.jpg)
 
 这里有 4 种神奇的方法让你的网站充满活力:
 

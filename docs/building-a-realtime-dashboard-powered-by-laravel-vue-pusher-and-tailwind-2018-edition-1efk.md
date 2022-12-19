@@ -4,7 +4,7 @@
 
 在 [Spatie](https://spatie.be) 我们有一个靠墙的电视屏幕，显示一个仪表盘。这个仪表板显示了我们团队应该完成的任务、近期的重要事件、我们每个团队成员应该完成的任务、他们正在听的音乐等等。它看起来是这样的:
 
-[![Our dashboard](../Images/cf88ef495ec992aa59c080a8fb28c3e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0A-HLO6h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/dashboard-2018/dashboard.png)
+[![Our dashboard](img/cf88ef495ec992aa59c080a8fb28c3e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0A-HLO6h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/dashboard-2018/dashboard.png)
 
 我们已经开源了我们的仪表板，所以你可以在 GitHub 上查看完整的源代码[。内置](https://github.com/spatie/dashboard.spatie.be) [Laravel 5.7](https://laravel.com) 、 [Vue](https://vuejs.com) 和[顺风 CSS](https://tailwindcss.com/) 。
 
@@ -33,15 +33,15 @@
 
 为了帮助每个人保持“状态”，我们为整个团队购买了 [Bose QuietComfort 耳机](https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html)。仪表板在其团队成员板块上显示每个团队成员的当前轨迹。头像会被专辑的美术图代替。我们利用 [last.fm](https://www.last.fm) 的 API 来获取这些信息。
 
-[![A team member playing a track](../Images/bbf42722996add0c52a5d83a4ee2494a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w4AZrmto--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/dashboard-2018/music.png)
+[![A team member playing a track](img/bbf42722996add0c52a5d83a4ee2494a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w4AZrmto--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/dashboard-2018/music.png)
 
 团队成员 tile 也会在某人生日时展示一个小皇冠？
 
-[![Happy birthday](../Images/7fc672a0f8dc83123c81b36b69b288ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W9Bo7M46--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/dashboard-2018/birthday.png)
+[![Happy birthday](img/7fc672a0f8dc83123c81b36b69b288ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W9Bo7M46--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/dashboard-2018/birthday.png)
 
 团队成员经常在家工作。当一天不在办公室工作时，我们习惯于将我们的状态设置为“在家工作”。当团队成员在 Slack 中设置该状态时，我们将显示一个漂亮的小帐篷表情符号。
 
-[![Working from home](../Images/31f682b07642507779d0fd5098bb5a15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NCKuDk86--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/dashboard-2018/remote.png)
+[![Working from home](img/31f682b07642507779d0fd5098bb5a15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NCKuDk86--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/dashboard-2018/remote.png)
 
 ## 高层概述
 
@@ -90,7 +90,7 @@
 
 默认情况下，它不会显示。当没有互联网连接时，右上角会显示一个小通知。这是它的样子:
 
-[![Image of the dashboard displaying the internet connection down status](../Images/4c7d5b417fbaa16cec9c2ed4d1b363ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---p4MtZ75--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/dashboard-2018/no-connection.png)
+[![Image of the dashboard displaying the internet connection down status](img/4c7d5b417fbaa16cec9c2ed4d1b363ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---p4MtZ75--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/dashboard-2018/no-connection.png)
 
 它通过监听服务器每分钟发出的一个名为`Heartbeat`的事件来工作。当它在几分钟内没有得到一个事件时，它将确定我们的互联网连接中断了(尽管这也可能意味着运行仪表板的服务器有问题)。
 
@@ -428,7 +428,7 @@ export default {
 
 今年我们在仪表盘上增加了一个新功能，那就是黑暗模式。当太阳下山时，黑暗模式将被激活。这是外面黑暗时仪表板的样子。
 
-[![Dashboard in darkmode](../Images/afb95ba1e0b874644588dbd08d89d0fa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nNLAMNCh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/dashboard-2018/dark.png) 。
+[![Dashboard in darkmode](img/afb95ba1e0b874644588dbd08d89d0fa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nNLAMNCh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/dashboard-2018/dark.png) 。
 
 要确定太阳何时升起或落下，不需要调用外部 web 服务。PHP 有一些晦涩的内置函数来确定日出和日落。
 
@@ -555,11 +555,11 @@ export default {
 
 这是当我们的一个或多个客户端站点关闭时，仪表板的外观。
 
-[![Dashboard showing some sites that are down](../Images/8d11eb8f540a57c2ab8c44fccc227d25.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Nfjgds9X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/dashboard-2018/downtime.png)
+[![Dashboard showing some sites that are down](img/8d11eb8f540a57c2ab8c44fccc227d25.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Nfjgds9X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/dashboard-2018/downtime.png)
 
 让我们来看看这是如何在幕后工作的。登录时[哎呀！](https://ohdear.app)转到通知屏幕设置网络挂钩。我已经输入了我们仪表板的 URL(截图中的 webhook 秘密不是真正的秘密)。
 
-[![webhooks](../Images/68cac839168a7ea8f8aa976d8c22289e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fDV-GK9N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/ohdear-webhooks/webhooks.png)
+[![webhooks](img/68cac839168a7ea8f8aa976d8c22289e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fDV-GK9N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/ohdear-webhooks/webhooks.png)
 
 要轻松处理哦亲爱的！webhook 调用我们的仪表板使用[在](https://github.com/ohdearapp/laravel-ohdear-webhooks) [routes](https://github.com/spatie/dashboard.spatie.be/blob/e7a1668841663870aeca8b5ea92f2c8d2eb92948/routes/web.php#L15) 文件中的 ohdearapp/laravel-ohdear-web hooks 包有一条路线，在那里哦，天哪！将接收事件。
 
@@ -701,11 +701,11 @@ URL 本身由路由上的一个基本认证过滤器保护。依赖基本身份�
 
 在我们的电视后面有一个显示仪表盘的[树莓 Pi 2](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) 。它由电视上的 USB 端口供电，它有一个[小型 Wifi](https://thepihut.com/products/usb-wifi-adapter-for-the-raspberry-pi) 转换器来连接互联网，所以根本不需要电缆。
 
-[![Photo](../Images/af4643da553a3b687d8e5cc9d5d9185c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---zomes0Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/2016/06/IMG_0938-1.jpg)
+[![Photo](img/af4643da553a3b687d8e5cc9d5d9185c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---zomes0Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/2016/06/IMG_0938-1.jpg)
 
 Pi 使用默认的 [Raspian 操作系统](https://www.raspberrypi.org/downloads/raspbian/)。开机后会自动启动 [Chromium 56](https://www.raspberrypi.org/forums/viewtopic.php?t=121195) 并显示[https://dashboard . spatie . be](https://dashboard.spatie.be)的内容。
 
-[![Raspberry Pi that runs our dashboard](../Images/6f1d010004506001a43a454d9ae192a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AvqZjqTR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/2016/06/IMG_0939-1.jpg)
+[![Raspberry Pi that runs our dashboard](img/6f1d010004506001a43a454d9ae192a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AvqZjqTR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/2016/06/IMG_0939-1.jpg)
 
 ## 重装仪表板
 
@@ -733,15 +733,15 @@ mixin 监视它所应用的组件的`data`。每当`data`改变时，它将序�
 
 几年前，我们创建了我们的仪表板。每年我们都迭代它。这里有一些从最初版本到最新版本的截图。
 
-[![Picture of the dashboard in 2016](../Images/e20585da1daa089c235a13a3953c8fde.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ohMShjmw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/dashboard-2018/history/screenshot20160531.png)
+[![Picture of the dashboard in 2016](img/e20585da1daa089c235a13a3953c8fde.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ohMShjmw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/dashboard-2018/history/screenshot20160531.png)
 
-[![Picture of the dashboard in 2016](../Images/f267e234e00bb4c9d70f41b030d5da1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3VmRN2Nr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/dashboard-2018/history/screenshot20169714.jpg)
+[![Picture of the dashboard in 2016](img/f267e234e00bb4c9d70f41b030d5da1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3VmRN2Nr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/dashboard-2018/history/screenshot20169714.jpg)
 
-[![Picture of the dashboard in 2017](../Images/a1335408ad96e4b148dc100c4b4b0ab6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EtnaLD6H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/dashboard-2018/history/screenshot20170127.jpg)
+[![Picture of the dashboard in 2017](img/a1335408ad96e4b148dc100c4b4b0ab6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EtnaLD6H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/dashboard-2018/history/screenshot20170127.jpg)
 
-[![Picture of the dashboard in 2017](../Images/d47dc0126edbab488c15824b6dfa342e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E95B4Fe6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/dashboard-2018/history/screenshot20170620.jpg)
+[![Picture of the dashboard in 2017](img/d47dc0126edbab488c15824b6dfa342e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E95B4Fe6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/dashboard-2018/history/screenshot20170620.jpg)
 
-[![Picture of the dashboard in 2018](../Images/ffd218abba654df4763b49cd77d9232a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7a9l29EO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/dashboard-2018/history/screenshot20181118.png)
+[![Picture of the dashboard in 2018](img/ffd218abba654df4763b49cd77d9232a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7a9l29EO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/dashboard-2018/history/screenshot20181118.png)
 
 ## 期末备注
 
@@ -749,4 +749,4 @@ mixin 监视它所应用的组件的`data`。每当`data`改变时，它将序�
 
 GitHub 上的[提供了完整的源代码。如果你对仪表盘有任何疑问，欢迎在下面的评论中提问。](https://github.com/spatie/dashboard.spatie.be)
 
-[![Picture of the dashboard](../Images/02889ebc6acf888e249962bbcc87ece6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iTjFkpHr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/dashboard-2018/office.jpeg)
+[![Picture of the dashboard](img/02889ebc6acf888e249962bbcc87ece6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iTjFkpHr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/dashboard-2018/office.jpeg)

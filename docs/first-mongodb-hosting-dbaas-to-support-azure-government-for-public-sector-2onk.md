@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/scalegrid/first-mongodb-hosting-dbaas-to-support-azure-government-for-public-sector-2onk>
 
-[![](../Images/32492a09b5eb5fdc4ee2af3ba184e28c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--c2CCFCaD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fsazldnm5213i5f153pe.jpg) 
+[![](img/32492a09b5eb5fdc4ee2af3ba184e28c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--c2CCFCaD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fsazldnm5213i5f153pe.jpg) 
 加利福尼亚州 PALO 阿尔托，2018 年 7 月 19 日——数据库托管和管理领域的新兴领导者 ScaleGrid 刚刚宣布在 [Azure 政府云](https://mongodb.scalegrid.io/mongodb-hosting-on-azure-government)上提供完全托管的 [MongoDB 托管](https://scalegrid.io/mongodb.html)。他们的高级数据库即服务(DBaaS)解决方案允许美国政府机构、承包商、教育机构和非营利组织为其政府工作负载采用高级数据库管理平台，以满足其广泛的法规和合规性要求。
 
 Azure 政府云计算已经建立了具有世界级安全框架的专属数据中心，以保护我们国家最敏感的信息免受网络安全威胁。

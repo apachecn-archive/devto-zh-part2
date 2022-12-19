@@ -4,7 +4,7 @@
 
 ## 出现了觉醒……
 
-[![](../Images/351c65be1b00ab790524d66e556e75b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yn3zY0xb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/hrules6872/Writings/master/7-dark-side/art/1.jpeg)
+[![](img/351c65be1b00ab790524d66e556e75b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yn3zY0xb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/hrules6872/Writings/master/7-dark-side/art/1.jpeg)
 
 ## 简介
 

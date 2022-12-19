@@ -32,7 +32,7 @@ hasTeams 2016 年 2 月 23 日
 
 正如您所猜测的，随着字段的增加，模式会在一段时间内更新，以满足不断发展的产品的新需求。这意味着，根据存储库添加到该文档的时间，它可能有也可能没有 isPrivate 和 hasTeams 字段。我们的后端和前端服务需要优雅地处理这两种情况，这导致了如下代码:
 
-[![alt text](../Images/824e4185ae0f18561bd04cd95b4fd1b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fXxG729N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ounu2371vuuwpcc0cssd.png)
+[![alt text](img/824e4185ae0f18561bd04cd95b4fd1b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fXxG729N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ounu2371vuuwpcc0cssd.png)
 
 每个使用 repo.hasTeams 的地方，我们都需要添加这段代码。随着许多微服务、许多模式和 40 多名开发人员到处添加这些模块，我们的代码库开始变得难看。此外，每次我们看到系统出现故障时，都是一个壮观的崩溃，没有简单的方法来恢复。我敢打赌，90%的崩溃都是由于某段代码需要一个不存在于该文档中的字段。内部头脑风暴提出了构建模式验证器和各种黑客的想法，但这难道不是数据库应该提供的现成功能吗？一个针对 Mongo(或任何等效的 NoSQL 数据库)的大黑点！
 

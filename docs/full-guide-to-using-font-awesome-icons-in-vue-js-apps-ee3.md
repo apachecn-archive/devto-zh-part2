@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/full-guide-to-using-font-awesome-icons-in-vue-js-apps-ee3>
 
-[![](../Images/1d47749c231869784df14d5de871d1ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UCINWzgQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A-Ul_sjmRFqz-WZiuZVFCZw.jpeg)
+[![](img/1d47749c231869784df14d5de871d1ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UCINWzgQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A-Ul_sjmRFqz-WZiuZVFCZw.jpeg)
 
 字体真棒图标收集，嗯，真棒。近 4，000 个难以置信的易用图标，其中约 1300 个是开源的，可以在任何应用程序中免费使用。作为一个初露头角的 Vue.js 程序员，这个库看起来是一个改进我正在开发的应用程序的好方法。
 
@@ -12,7 +12,7 @@
 
 字体牛逼网站:[https://fontawesome.com/](https://fontawesome.com/)
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### 入门
 
@@ -109,7 +109,7 @@ export default {
 
 现在，当我们运行 *npm run dev* 时，网络浏览器将自动加载此页面:
 
-[![](../Images/b0ad62594f34dbcb80463a437d2ab88e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w9IaM7qv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/797/0%2AV3T9EIn32xZNnLLz)
+[![](img/b0ad62594f34dbcb80463a437d2ab88e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w9IaM7qv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/797/0%2AV3T9EIn32xZNnLLz)
 
 这很酷，我们有这个漂亮的自定义 HTML 标签，可以很容易地用来加载图标。太好了。如果你浏览一下字体 Awesome 文档，你会发现它可以将图标分层，并添加各种效果，如旋转。它保证会很有趣。
 
@@ -247,7 +247,7 @@ export default {
 
 相比之下，前一个示例中使用的打包脚本确保只打包所需的代码，仅此而已。使用前面的方法对浏览器的影响很小，代价是多写一点代码。
 
-[![](../Images/8d847927e8f6757454f656b51db16484.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0mEHI_b4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/771/0%2AWv3vGwcwXXx7S173)
+[![](img/8d847927e8f6757454f656b51db16484.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0mEHI_b4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/771/0%2AWv3vGwcwXXx7S173)
 
 但是，嘿，这很有效。有时工作代码胜过架构的纯粹性。
 
@@ -320,7 +320,7 @@ export default {
 
 另一个选择是使用包中的 SVG 精灵。在这个模板中添加了另一个部分来引用原始 SVG 文件。
 
-[![](../Images/28c05551c6fbacaf6233b7b37a8e8c81.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J27Fqfyq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/772/0%2ATAC8Ya6TodKaYSKe)
+[![](img/28c05551c6fbacaf6233b7b37a8e8c81.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J27Fqfyq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/772/0%2ATAC8Ya6TodKaYSKe)
 
 这是可行的，并且显然需要更多的工作来获得正确的大小。
 
@@ -362,7 +362,7 @@ npm 包([https://www.npmjs.com/package/@fortawesome/vue-fontawesome](https://www
 
 图标会立即弹出:
 
-[![](../Images/a702bdbc9c979ad05e8e3fbe1c853aec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vkw8ST8x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/784/0%2Aep1uQcbyrfv1IST5)
+[![](img/a702bdbc9c979ad05e8e3fbe1c853aec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vkw8ST8x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/784/0%2Aep1uQcbyrfv1IST5)
 
 除了解决这个特定的问题，我们还有一些特殊的效果要探索。这些特效不仅可以用组件实现，也可以用`<i>`方法实现。
 
@@ -601,7 +601,7 @@ h1 {
 
 该组件封装了一组其他图标，将它们层叠在一起。它用于从现有图标合成新图标，以及可用的特效转换。
 
-[![](../Images/409af78536a8fd2e124345c3df88de24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZjH51LQW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/484/0%2Ax6qg7X3BTmZhxVpE)
+[![](img/409af78536a8fd2e124345c3df88de24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZjH51LQW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/484/0%2Ax6qg7X3BTmZhxVpE)
 
 这是它看起来的样子。
 
@@ -741,7 +741,7 @@ export default {
 
 运行应用程序后，我们可以点击按钮，相应的选择就会显示出来。用户界面可能如下所示:
 
-[![](../Images/19c7d7808cc760de18b0feabbd450723.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SgUciM-x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/617/0%2A85ke2m6xX6UXcgNw)
+[![](img/19c7d7808cc760de18b0feabbd450723.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SgUciM-x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/617/0%2A85ke2m6xX6UXcgNw)
 
 ### 结论
 
@@ -755,7 +755,7 @@ export default {
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

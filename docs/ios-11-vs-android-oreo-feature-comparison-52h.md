@@ -4,7 +4,7 @@
 
 Android 和 iOS 都已经向市场推出了新版本。最新的 iOS11 和 Android Oreo 在今年年底迎合了用户的需求，两个操作系统都增加了许多新功能，尽管有趣的是，其中许多功能都是从彼此已经运行的版本中获得的灵感。内存管理、速度升级、电池寿命等功能改变了智能手机的早期使用前景。
 
-[![](../Images/670283d0b21463fda3547917adc0c71c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fpQQrrXe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/586wt30otl9lwtz2vk1j.jpg)
+[![](img/670283d0b21463fda3547917adc0c71c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fpQQrrXe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/586wt30otl9lwtz2vk1j.jpg)
 
 在这场永无止境的战斗中，到目前为止还很难决定哪一个会赢，但我们肯定可以比较最新的功能，看看哪一个最符合我们对智能手机的要求。
 剧透警报！两者的最新版本会有很多相同之处。许多功能都是受启发的，虽然会有一些不那么令人惊叹的因素，但它们肯定会改变你使用手机的方式。

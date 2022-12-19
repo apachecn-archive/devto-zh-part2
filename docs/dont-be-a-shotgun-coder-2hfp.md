@@ -34,7 +34,7 @@
 
 那么，我们如何避免成为散弹枪程序员呢？好吧，回想一下这篇文章开始时关于视频游戏的争论。有两种不同类型的人...我们想要模仿那些圆滑、精确、耐心和有策略的人。他们通常是最终赢得比赛的人。我们应该缓慢、小心、清晰地瞄准我们的目标，以确保我们击中靶心，而不是鲁莽行事。
 
-[![Bullseye](../Images/7ef9b3246386f6a8b1b1ea2db38fc981.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oPhk74ZC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://encrypted-tbn0.gstatic.com/images%3Fq%3Dtbn:ANd9GcT3i7fyvhBkO0INnKgAjkfq02K-UDLx6a2qY8JkRcMjMMiC9LSSoA)
+[![Bullseye](img/7ef9b3246386f6a8b1b1ea2db38fc981.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oPhk74ZC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://encrypted-tbn0.gstatic.com/images%3Fq%3Dtbn:ANd9GcT3i7fyvhBkO0INnKgAjkfq02K-UDLx6a2qY8JkRcMjMMiC9LSSoA)
 
 那么这对编码和设计意味着什么呢？
 

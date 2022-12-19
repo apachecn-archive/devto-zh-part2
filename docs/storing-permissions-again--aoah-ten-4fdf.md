@@ -8,7 +8,7 @@
 
 上周，我看了使用 SQLite 作为数据库，众所周知，我真的不知道我在做什么，这里有一个链接到我以前的帖子。我从 [@buinauskas](https://dev.to/buinauskas) 和 [@tiguchi](https://dev.to/tiguchi) ，还有 [@avalander](https://dev.to/avalander) 那里得到了一些关于安全的有用评论，理所当然地质疑我对一个类的使用，所以我也看了一下。
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) [ ignis-pwa ](https://github.com/ignis-pwa) / [权限 _ 帮助者](https://github.com/ignis-pwa/permissions_helper)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) [ ignis-pwa ](https://github.com/ignis-pwa) / [权限 _ 帮助者](https://github.com/ignis-pwa/permissions_helper)
 
 ### 创建和修改用于管理权限的 SQLite 文件
 

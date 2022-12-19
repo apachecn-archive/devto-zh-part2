@@ -70,7 +70,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果之前的提交消息需要更改，我将`git commit --amend --no-edit`别名为`gcae`。它做的和`gca`一样，但是它打开 git 编辑器来编辑之前提交的消息。在我的例子中，我将`VS Code`设置为默认的 git 编辑器，因为我对 VIM 并不精通。
 
-[![Previous commit message displayed in VS Code with instructions on how to change the commit message.](../Images/2ad8386c30bb276ebbf8b8b0aeed31f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zjESAkpS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5960x0vasabf2h9vhj7j.png)
+[![Previous commit message displayed in VS Code with instructions on how to change the commit message.](img/2ad8386c30bb276ebbf8b8b0aeed31f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zjESAkpS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5960x0vasabf2h9vhj7j.png)
 
 ### **`gcaa`T4】**
 
@@ -206,7 +206,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 示例:
 
-[![Example usage of the grn shell command](../Images/36eae0014320345ef5e31147535b89c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q05CeKAV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pln0bo4jp1w2a8ih0mrl.gif)
+[![Example usage of the grn shell command](img/36eae0014320345ef5e31147535b89c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q05CeKAV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pln0bo4jp1w2a8ih0mrl.gif)
 
 ### **`grbic`** *(外壳命令)*
 
@@ -220,7 +220,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 示例:
 
-[![Example usage of grbic shell command](../Images/1a8af1c14f76405dae79cd45dcfcc11a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cBNsN1t4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/75u5akmrjj2bbrfwht1q.gif)
+[![Example usage of grbic shell command](img/1a8af1c14f76405dae79cd45dcfcc11a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cBNsN1t4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/75u5akmrjj2bbrfwht1q.gif)
 
 ### **`grba`T4】**
 

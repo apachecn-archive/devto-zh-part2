@@ -4,7 +4,7 @@
 
 自动化测试是一件美妙的事情。想想吧。为什么要花几个小时，甚至几分钟，去做一件用计算机不到一秒钟就能完成的事情。我从来没有后悔过写测试，尤其是在看到调试和修复子系统中的错误的时间从几个小时变成了几分钟之后。当自动化测试出现时，错误报告->调查->代码修复->测试->发布都可以在 15 分钟内完成。
 
-[![](../Images/b6a23ccd352784dc5d8609df34ea15bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d8Y_sow---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.professorbeekums.com/img/2018/automation.jpeg)
+[![](img/b6a23ccd352784dc5d8609df34ea15bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d8Y_sow---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.professorbeekums.com/img/2018/automation.jpeg)
 
 自动化测试的问题是将最初的努力投入到编写测试中。我从未后悔事后写测试，但我也说服自己不要提前写，因为我完全知道它们有多有用。我和许多像我一样的开发者这样做有各种各样的原因。不管这些原因是什么，伤害已经造成了。一个软件系统缺乏测试。可以做些什么来解决这个问题？我们如何开始测试一个几乎没有测试的系统？
 

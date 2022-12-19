@@ -215,7 +215,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当然，我没有涵盖与值对象相关的所有主题，尤其是 DDD，但是我希望这篇文章能够激励您在项目中更多地使用它。
 
-[![Keep calm and use Value Objects](../Images/09afddaa3d40bf8d8d997f833286a8ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j5DGy04m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rafalpienkowski/resources/master/hidden-value-of-the-value-object/keep-calm.png)
+[![Keep calm and use Value Objects](img/09afddaa3d40bf8d8d997f833286a8ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j5DGy04m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rafalpienkowski/resources/master/hidden-value-of-the-value-object/keep-calm.png)
 
 **附言**
 

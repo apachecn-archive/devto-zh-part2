@@ -14,7 +14,7 @@ RESTPie3 依赖于一些可靠的组件，如 Flask、uWSGI、PostgreSQL 和 Red
 
 Github README 上的完整文档。去叉吧。
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) [托米米克](https://github.com/tomimick) / [安息 3](https://github.com/tomimick/restpie3)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) [托米米克](https://github.com/tomimick) / [安息 3](https://github.com/tomimick/restpie3)
 
 ### Python3 REST API 服务器初学者工具包
 

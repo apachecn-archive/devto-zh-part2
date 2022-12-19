@@ -13,7 +13,7 @@
 > “对某些人来说，你不可能是一个重要的、改变生活的存在，而对其他人来说，你却不是一个笑话和尴尬。
 > ——马克·曼森
 
-[![](../Images/f5d75956fc16dc6c40758208e0d21757.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jmAmN7XN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.pixabay.com/photo/2018/05/31/15/06/not-hear-3444212_960_720.jpg)
+[![](img/f5d75956fc16dc6c40758208e0d21757.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jmAmN7XN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.pixabay.com/photo/2018/05/31/15/06/not-hear-3444212_960_720.jpg)
 
 不要多考虑别人怎么说。如果你不能控制你正在做的事情，除了你之外的人可以控制你的大脑，因为你总是害怕做新的事情或尝试新的事情。
 

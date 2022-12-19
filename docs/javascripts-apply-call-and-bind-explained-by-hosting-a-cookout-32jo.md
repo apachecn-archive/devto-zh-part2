@@ -51,7 +51,7 @@ let dessert = {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![DiagramCookingContext](../Images/e97fd12cc8c876e4fe7951c95dffa842.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f1_q3Nvy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/diagramcookingcontext.png)
+[![DiagramCookingContext](img/e97fd12cc8c876e4fe7951c95dffa842.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f1_q3Nvy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/diagramcookingcontext.png)
 
 在上面的代码中，烧水是一个通用的技能，可能适用于任何环境。
 
@@ -91,7 +91,7 @@ let cookout={
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![grillMethod1.png](../Images/1d8b67f35ec0d408910c9cd54faccd4e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gzsUnrq3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/grillmethod1.png)
+[![grillMethod1.png](img/1d8b67f35ec0d408910c9cd54faccd4e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gzsUnrq3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/grillmethod1.png)
 
 在这种情况下，我们的 grill 方法只是记录一个句子，告诉我们这个人的食物什么时候准备好。我们将使用 bind()存储一个**执行上下文**。明确地说，执行上下文将有两个重要的细节。
 
@@ -129,7 +129,7 @@ cookChicken("David")
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![bindExamplecook1.png](../Images/2d012c382fb64aaffa7d4438a616b5b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x8wYMsnj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/bindexamplecook1.png)
+[![bindExamplecook1.png](img/2d012c382fb64aaffa7d4438a616b5b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x8wYMsnj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/bindexamplecook1.png)
 
 想象一下，如果您不能在这里使用 bind 方法！这有点像聚会开始时你第一次做汉堡、鸡肉和牛排。您将向一个通用的 grill()方法输入三个参数，而没有预先计划。
 
@@ -141,7 +141,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 但是，有一天晚上，你决定改做牛排。显然，你需要用烤架来做牛排。
 
-[![steakWine](../Images/6709b6ad54fe4e4b558e534d67be44ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sQhMnqLn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/steakwine.png)
+[![steakWine](img/6709b6ad54fe4e4b558e534d67be44ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sQhMnqLn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/steakwine.png)
 
 问题就在这里:你的 grill() **方法**在 cooking out**对象**的上下文中！但是现在，您想在 fancyDinner 对象中使用这些烹饪技巧。记住，**你不想重写 grill 方法**——那会让你的代码更难维护。
 
@@ -163,7 +163,7 @@ let fancyDinner = {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![firstVcallmethod](../Images/faf4d232915803bf8e61af7855536a54.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7Nul2rpu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/firstvcallmethod.png)
+[![firstVcallmethod](img/faf4d232915803bf8e61af7855536a54.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7Nul2rpu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/firstvcallmethod.png)
 
 所以，我们户外野餐的默认饮料是苏打水，高级晚餐的默认饮料是葡萄酒。现在，我们只需要在 call()方法中添加不寻常的部分作为**参数**—“steak”下面是正常使用方法和使用 call()之间的区别。
 
@@ -177,7 +177,7 @@ cookout.grill.call(fancyDinner, "steak");
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![callmethodsummary2.png](../Images/491807eed68956f0e75b829e5ce38394.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nYqIayIK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/callmethodsummary2.png)
+[![callmethodsummary2.png](img/491807eed68956f0e75b829e5ce38394.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nYqIayIK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/callmethodsummary2.png)
 
 第一个例子应该非常简单:这都是在 cookout 对象的上下文中。但是在第二个例子中，第一个参数将*这个*的上下文更改为 *fancyDinner* 对象！
 
@@ -224,7 +224,7 @@ cookout.grill.apply(cookout, this.mealOrders);
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![applymethod1.png](../Images/e658861b2bb74263db2a98e3fe8fdc7b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NFtWGLhu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/applymethod1.png)
+[![applymethod1.png](img/e658861b2bb74263db2a98e3fe8fdc7b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NFtWGLhu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codeanalogies.files.wordpress.com/2018/03/applymethod1.png)
 
 我们仍然必须使用 *cookout* 作为第一个参数，因为就像 call()一样，我们必须声明执行上下文。然后，我们可以从 mealOrders 属性获取数组。
 

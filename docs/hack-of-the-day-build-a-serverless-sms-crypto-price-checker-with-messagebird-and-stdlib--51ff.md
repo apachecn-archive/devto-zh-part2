@@ -8,4 +8,4 @@
 
 {[https://medium . com/@ jacoblee 93/build-a-server less-SMS-crypto-price-checker-in-6-minutes-messagebird-and-stdlib-a96e 826 e 29 aa](https://medium.com/@jacoblee93/build-a-serverless-sms-crypto-price-checker-in-6-minutes-with-messagebird-and-stdlib-a96e826e29aa)}
 
-[![Alt text of image](../Images/cee75a84c16ee57b4eef09059113766b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j_l84puF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/DcGLTVAVwAAFZJx.jpg)
+[![Alt text of image](img/cee75a84c16ee57b4eef09059113766b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j_l84puF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/DcGLTVAVwAAFZJx.jpg)

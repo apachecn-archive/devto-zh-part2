@@ -10,7 +10,7 @@ Java 是实现各种应用程序的首选技术和全球标准之一，包括基
 
 Sun 是引入 Java 的公司。可以理解的是，当谈到 Java 开发服务时，它想要控制设计和发展。然而，微软也想分一杯羹，特别是想以某种方式改变 Java 以适应它的需求。这成了一场法律噩梦，最终微软决定不再试图影响 Java，而是简单地设计自己的语言，即 C#。它在某些方面比 Java 更好，但在大多数方面也非常相似，一旦开发人员学会了如何用 C#编程，将知识转移到 Java 将是微不足道的。
 
-[![Java and C# Comparison](../Images/c44d6ab1f8f57a6ff7eefda173fab7db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aASXL3Ny--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3evy8u2x14wzwe4a6cwk.jpg)
+[![Java and C# Comparison](img/c44d6ab1f8f57a6ff7eefda173fab7db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aASXL3Ny--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3evy8u2x14wzwe4a6cwk.jpg)
 
 ### C#与 JAVA，主要区别
 

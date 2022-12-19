@@ -34,7 +34,7 @@
 
 直接向我的 Paypal 捐款
 
-[![](../Images/bff5aba3a854605e70212d6256e50b9d.png)T2】](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=4W3EWHHBSYMM8&lc=IE&item_name=Code%20Settings%20Sync&item_number=visual%20studio%20code%20settings%20sync&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted)
+[![](img/bff5aba3a854605e70212d6256e50b9d.png)T2】](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=4W3EWHHBSYMM8&lc=IE&item_name=Code%20Settings%20Sync&item_number=visual%20studio%20code%20settings%20sync&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted)
 
 ##### 开放的集体
 
@@ -46,26 +46,26 @@
 
 我们需要像你这样的人！开发者，改善开发者的体验。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [沙纳利汗](https://github.com/shanalikhan) / [代码-设置-同步](https://github.com/shanalikhan/code-settings-sync)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [沙纳利汗](https://github.com/shanalikhan) / [代码-设置-同步](https://github.com/shanalikhan/code-settings-sync)
 
 ### 🌴💪使用 GitHub GIST 在多台机器上同步 Visual Studio 代码设置💪🌴
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-# 设置同步 [![Tweet](../Images/3aedcf72e57e3736cd6ea05d11dfd7db.png)](https://twitter.com/intent/tweet?text=Synchronize%20your%20%40VisualStudio%20%40code%20Settings%20Across%20Multiple%20Machines%20using%20%40github%20GIST%20by%20%40itsShanKhan&url=https://github.com/shanalikhan/code-settings-sync&via=code&hashtags=code,vscode,SettingsSync,developers) [ ![Follow](../Images/d9cb490092b48648860bc83268a91cb9.png)](https://twitter.com/intent/follow?screen_name=itsShanKhan)
+# 设置同步 [![Tweet](img/3aedcf72e57e3736cd6ea05d11dfd7db.png)](https://twitter.com/intent/tweet?text=Synchronize%20your%20%40VisualStudio%20%40code%20Settings%20Across%20Multiple%20Machines%20using%20%40github%20GIST%20by%20%40itsShanKhan&url=https://github.com/shanalikhan/code-settings-sync&via=code&hashtags=code,vscode,SettingsSync,developers) [ ![Follow](img/d9cb490092b48648860bc83268a91cb9.png)](https://twitter.com/intent/follow?screen_name=itsShanKhan)
 
 **以前称为 Visual Studio 代码设置同步**
 
-[![Version](../Images/bd923980803ea6709422a911758290ab.png)](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)[![Travis](../Images/c53efc8127fad3f8a439d9278e00751b.png)](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)[![Greenkeeper badge](../Images/8565f1cafd184d5c93bd97fb69412d0a.png)](https://greenkeeper.io/)[![Master course](../Images/e22b55554d68075ab25f1a3173f3ac73.png)T11】](https://t.co/8BEMyhpKU5?amp=1)
+[![Version](img/bd923980803ea6709422a911758290ab.png)](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)[![Travis](img/c53efc8127fad3f8a439d9278e00751b.png)](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)[![Greenkeeper badge](img/8565f1cafd184d5c93bd97fb69412d0a.png)](https://greenkeeper.io/)[![Master course](img/e22b55554d68075ab25f1a3173f3ac73.png)T11】](https://t.co/8BEMyhpKU5?amp=1)
 
 ## 支持
 
 虽然是免费和开源的，但如果你觉得它有用，请考虑通过 PayPal 或 Open Collective 捐赠来支持它。如果您在办公室团队中使用它，请要求您的公司通过 Open Collective 从每月 2 美元起支持我们！
 
-| [![](../Images/aff386119a93f187976e29437587ba22.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=4W3EWHHBSYMM8&lc=IE&item_name=Code%20Settings%20Sync&item_number=visual%20studio%20code%20settings%20sync&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted)T3】 | [![](../Images/abf123c8c326baafd9a37663463c4d99.png)](https://opencollective.com/code-settings-sync/order/3848) 
+| [![](img/aff386119a93f187976e29437587ba22.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=4W3EWHHBSYMM8&lc=IE&item_name=Code%20Settings%20Sync&item_number=visual%20studio%20code%20settings%20sync&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted)T3】 | [![](img/abf123c8c326baafd9a37663463c4d99.png)](https://opencollective.com/code-settings-sync/order/3848) 
 *每月 2 美元 |
 
-[![Drawing](../Images/9fd4f611fb2799902c171fe2483ba6db.png)](https://join.slack.com/t/codesettingssync/shared_invite/enQtNzQyODMzMzI5MDQ3LWNmZjVkZjE2YTg0MzY1Y2EyYzVmYThmNzg2YjZkNjhhZWY3ZTEzN2I3ZTAxMjkwNWU0ZjMyZGFhMjdiZDI3ODU) 
+[![Drawing](img/9fd4f611fb2799902c171fe2483ba6db.png)](https://join.slack.com/t/codesettingssync/shared_invite/enQtNzQyODMzMzI5MDQ3LWNmZjVkZjE2YTg0MzY1Y2EyYzVmYThmNzg2YjZkNjhhZWY3ZTEzN2I3ZTAxMjkwNWU0ZjMyZGFhMjdiZDI3ODU) 
 
 为了查看所有命令，在命令面板中键入 Sync。
 

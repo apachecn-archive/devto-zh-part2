@@ -26,7 +26,7 @@ Kirpal Sagar 慈善医院是印度旁遮普省的一所小医院，大约有 30 
 
 这个应用程序的理想情况是，方法和类是用[可靠的设计原则](https://medium.com/@trekhleb/solid-principles-around-you-6db2f0e12139)构造的。然后，这些类按照特性模式用[包进行分组，以保持对业务领域的关注。为了分离不同的上下文，应用了基于梯度的选项。这提供了比 JPMS 和 OSGi 更好的 Spring 集成，同时仍然可以通过](http://www.javapractices.com/topic/TopicAction.do?Id=205) [Java 库插件](https://docs.gradle.org/current/userguide/java_library_plugin.html)隐藏模块的实现细节。
 
-[![module structure](../Images/746597455207ff5ff3e7382b92b0c62f.png "Module structure")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z1xEhf-m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n48jes2pll2gd76kuitp.png)
+[![module structure](img/746597455207ff5ff3e7382b92b0c62f.png "Module structure")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z1xEhf-m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n48jes2pll2gd76kuitp.png)
 
 该应用程序的核心是领域模块，它们代表医院临床服务和管理功能的不同领域。每个模块都有两个嵌套的子模块。一个是模块的接口(API ),所有其他模块都可以访问它。另一个是实现细节(Impl)。在这里，像数据库访问和业务逻辑计算这样的事情正在发生，而其他模块对此一无所知。因此，实现细节可以改变，而不会对模块 API 的客户端产生任何影响。例如，数据存储可能会从 PostgreSQL 更改为 MongoDB 数据库。
 
@@ -38,7 +38,7 @@ Kirpal Sagar 慈善医院是印度旁遮普省的一所小医院，大约有 30 
 
 Wicket 通过命名约定连接 Java 类和 HTML 文件。对于每个网页类，它试图找到一个同名的 HTML 文件。如果不存在，它会尝试查找一个带有父类名称的 HTML 文件，等等。使用面向对象的编程技术，可以通过组合和继承来安排页面。当最终呈现一个页面或组件时，带有 Wicket ID 属性的 HTML 元素从 Java 类中相应的指令中获取信息。在 Spring 框架的帮助下，域服务是可用的。
 
-[![class diagram for fronted](../Images/6aa24b4b025bd82a906fe246e05b3e8b.png "Frontend structure")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CiyDerBf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5ckebub3cuvq2rxqxpr2.png)
+[![class diagram for fronted](img/6aa24b4b025bd82a906fe246e05b3e8b.png "Frontend structure")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CiyDerBf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5ckebub3cuvq2rxqxpr2.png)
 
 为了在任何地方都应用相同的外观和感觉，所有网页都有一个公共基类([ApplicationFrame.java](https://github.com/ksch-workflows/ksch-workflows/blob/9362b0c019835db063b921015977bf8a004ce7ff/user-interface/src/main/java/ksch/ApplicationFrame.java)/【ApplicationFrame.html】T2)。由此衍生出每个工作站的基础页面，为“主页”图标中的链接提供了[模板方法](https://sourcemaking.com/design_patterns/template_method)(例如[RegistrationPage.java](https://github.com/ksch-workflows/ksch-workflows/blob/9362b0c019835db063b921015977bf8a004ce7ff/user-interface/src/main/java/ksch/registration/RegistrationPage.java))。一个工作站的所有页面都是从那里导出的(例如[RegisterPatientPage.java](https://github.com/ksch-workflows/ksch-workflows/blob/9362b0c019835db063b921015977bf8a004ce7ff/user-interface/src/main/java/ksch/registration/RegisterPatientPage.java))。叶页面本身并不指定 HTML，而是实例化组件，然后通过另一个模板方法将它们作为页面内容提供。然后，父类的 HTML 将填充这些组件，即仪表板([Dashboard.java](https://github.com/ksch-workflows/ksch-workflows/blob/9362b0c019835db063b921015977bf8a004ce7ff/user-interface/src/main/java/ksch/Dashboard.java)/[Dashboard.html](https://github.com/ksch-workflows/ksch-workflows/blob/9362b0c019835db063b921015977bf8a004ce7ff/user-interface/src/main/resources/static/ksch/Dashboard.html))或活动([Activity.java](https://github.com/ksch-workflows/ksch-workflows/blob/9362b0c019835db063b921015977bf8a004ce7ff/user-interface/src/main/java/ksch/Activity.java)/[Activity.html](https://github.com/ksch-workflows/ksch-workflows/blob/9362b0c019835db063b921015977bf8a004ce7ff/user-interface/src/main/resources/static/ksch/Activity.html))。
 

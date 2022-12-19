@@ -33,7 +33,7 @@ Enter fullscreen mode Exit fullscreen mode
 我们还为联系人扩展了 API 端点和底层功能。借助 Contacts v2.0，客户能够从自己的应用程序中创建和删除联系人。
 
 以下是我们在联系人 2.0 版中新增的端点:
-[![contacts v2 functionality](../Images/97528ee5ef28931dc7894c82d175feb1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zljaad47--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.nylas.com/hs-fs/hubfs/blog%2520images/Contacts%2520v2.0%2520-%2520Technical/contactsv2-functionality.png%3Ft%3D1518652965690%26width%3D558%26name%3Dcontactsv2-functionality.png)
+[![contacts v2 functionality](img/97528ee5ef28931dc7894c82d175feb1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zljaad47--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.nylas.com/hs-fs/hubfs/blog%2520images/Contacts%2520v2.0%2520-%2520Technical/contactsv2-functionality.png%3Ft%3D1518652965690%26width%3D558%26name%3Dcontactsv2-functionality.png)
 
 这项新功能可以以多种不同的方式使用，每种方式都可以简化我们的客户日常面临的问题。例如，在 Contacts API 中自动创建新的联系人记录减少了销售、营销和招聘团队在 CRM 中手动创建新联系人的需要，因为这些数据会在后台从收件箱无缝同步到 CRM。
 

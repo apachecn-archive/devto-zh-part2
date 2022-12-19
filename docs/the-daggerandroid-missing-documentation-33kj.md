@@ -10,7 +10,7 @@
 
 所以你想使用 [dagger.android](https://google.github.io/dagger/android) ，Dagger2 的(相对)新包专门针对你，android 开发者，但对官方文档中缺少[热虹吸管和咖啡机](https://i.imgur.com/iP52Th1.png)感到困惑。dev 能做什么？
 
-[![Finding thermosiphons](../Images/35795345666330f6389d71ff2955c32e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DQnZ-mjG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/z3i2qQ4.png)
+[![Finding thermosiphons](img/35795345666330f6389d71ff2955c32e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DQnZ-mjG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/z3i2qQ4.png)
 
 我掩护你。这是我关于[重写 Chess.com 的 Android 应用](https://dev.to/autonomousapps/rewriting-chesscoms-android-app-4aij)系列的延续。我尽量做到彻底，但如果结果是我略读了一些东西，请在评论中告诉我。
 
@@ -100,7 +100,7 @@ open class MainApplication : Application(), HasActivityInjector {
 
 ## 什么是`DispatchingAndroidInjector`？
 
-[![magic](../Images/a6da6df0626b830ea7ed4346614680ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zp6bNlaM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media2.giphy.com/media/12NUbkX6p4xOO4/giphy.gif)
+[![magic](img/a6da6df0626b830ea7ed4346614680ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zp6bNlaM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media2.giphy.com/media/12NUbkX6p4xOO4/giphy.gif)
 
 它最终注入你的框架类(活动、片段、服务等)。稍后，在您的活动中，您将调用`AndroidInjection.inject(this)`，这利用了您的`MainApplication`通过`HasActivityInjector`提供的`DispatchingAndroidInjector`实例。
 
@@ -248,7 +248,7 @@ class MainActivityTest {
 } 
 ```
 
-[![passing test](../Images/db36128ee41fe420603ea617d2d6e9ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V7yFO5xt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/f8pIVu9.png)
+[![passing test](img/db36128ee41fe420603ea617d2d6e9ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V7yFO5xt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/f8pIVu9.png)
 
 酷豆。顺便说一句，如果你对我们有大约一百多行测试设置代码而实际上只有一行感到困惑，嘿，欢迎来到 Android 测试的奇妙世界！加入我们，这很有趣。此外，一个真正的测试类会有不止一个测试，样板文件:测试代码的比率最终会变得合理。
 
@@ -268,4 +268,4 @@ class MainActivityTest {
 2.  [保持匕首锋利](https://medium.com/square-corner-blog/keeping-the-daggers-sharp-%EF%B8%8F-230b3191c3f)，这教会了我一些关于瞄准镜的知识
 3.  Android 与 Pierre-Yves Ricau 在 [Youtube](https://www.youtube.com/watch?v=2ICxQv9Ur60) 上的 5 集对话，解释了`@BindsInstance`、静态供应方法、范围等等。
 
-[![coffee](../Images/3191ef1b2f2917ef57738efc1be89fb2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LT-s4gEF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/j09P3hO.jpg)
+[![coffee](img/3191ef1b2f2917ef57738efc1be89fb2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LT-s4gEF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/j09P3hO.jpg)

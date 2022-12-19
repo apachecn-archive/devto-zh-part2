@@ -6,7 +6,7 @@
 
 这门课讲过的核心概念之一是 ES6 析构，特别是 spread 和 rest 操作，但我在第一遍没有真正领会。凭借对概念的粗略理解和 Udacity 分配给我的导师的大量帮助，我勉强完成了课程的 Redux 部分。从那以后，我对这个概念有了很好的理解，作为一名前海军陆战队员，我决定用真正的锅盖头风格来分解它。
 
-[![tasty, tasty snacks for Marines - from United Status Marin Crops blog](../Images/afe833de4bab6c768f76d9af51f24dba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZF-v5eiQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hxlmn92ggh9vwwmd8fa1.jpg)
+[![tasty, tasty snacks for Marines - from United Status Marin Crops blog](img/afe833de4bab6c768f76d9af51f24dba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZF-v5eiQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hxlmn92ggh9vwwmd8fa1.jpg)
 
 如果你不明白这个笑话，或者不明白这个引用足以说明当海军互相取笑或者其他分支取笑的时候，我们基本上被认为足够愚蠢，认为吃蜡笔和胶水是我们做的事情。现在，我已经离开海军陆战队近 20 年了，但我仍然认为自己是一名海军陆战队队员，当我真的想确保我理解了一些事情时，我会尝试为自己和他人以“蜡笔”的方式分解它。因此，为了与一个概念的真正的蜡笔分解保持一致，下面是我如何理解其余和传播操作的概念的。
 

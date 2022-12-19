@@ -8,4 +8,4 @@ PS:我离开后我是因为一个游戏开发者。不管怎样，这是我的�
 
 像往常一样，下面这首歌是给你的:
 
-[![No image available](../Images/436b3d06d3c0ca9871b19690dcd1c657.png)T2】](https://www.youtube.com/watch?v=fJ9rUzIMcZQ)
+[![No image available](img/436b3d06d3c0ca9871b19690dcd1c657.png)T2】](https://www.youtube.com/watch?v=fJ9rUzIMcZQ)

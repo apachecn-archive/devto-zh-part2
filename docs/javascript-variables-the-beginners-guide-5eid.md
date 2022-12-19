@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/howtocodejs/javascript-variables-the-beginners-guide-5eid>
 
-[![image](../Images/bd61494f770e847b7d694249b39295e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x_r7QkT1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hr6yrx7279yunlvkunk1.png)
+[![image](img/bd61494f770e847b7d694249b39295e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x_r7QkT1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hr6yrx7279yunlvkunk1.png)
 
 你可以在 howtocodejs.com 上这节课
 

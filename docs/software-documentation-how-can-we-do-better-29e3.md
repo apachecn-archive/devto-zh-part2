@@ -12,7 +12,7 @@
 
 当谈到工具时，我在 BabelJS 中遇到了一个很好的例子。我目前正在写一篇关于编译的文章，所以我发现把事情做好很重要。当你浏览巴别塔网站时，它会告诉你安装`babel-preset-env`。当你进入`babel-preset-env` Github 页面时，它告诉你它已被弃用，你应该使用`@babel/preset-env`。困惑了吗？
 
-> ![Henry Zhu profile image](../Images/e41e3d39e729a71d633b97dba4b5c9d3.png)亨利朱@ left _ pad![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)[@ Arden nl](https://twitter.com/ardennl)[【svensauleau](https://twitter.com/svensauleau)只是提到我们正在转换到一个新的网站，并将向文档添加版本控制，因为我们明确意识到存在问题，而且它*令人*困惑，所以沮丧是可以理解的，但我们正在努力使之变得更容易00
+> ![Henry Zhu profile image](img/e41e3d39e729a71d633b97dba4b5c9d3.png)亨利朱@ left _ pad![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)[@ Arden nl](https://twitter.com/ardennl)[【svensauleau](https://twitter.com/svensauleau)只是提到我们正在转换到一个新的网站，并将向文档添加版本控制，因为我们明确意识到存在问题，而且它*令人*困惑，所以沮丧是可以理解的，但我们正在努力使之变得更容易00
 
 完全可以理解。
 

@@ -24,13 +24,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 问题是，默认情况下，你会得到这个可爱的错误。
 
-[![Not safe error](../Images/4ccba917527b50777cba1a9299bde2e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d7VFlI4_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7ukly0l39ep47uwh3szo.png)
+[![Not safe error](img/4ccba917527b50777cba1a9299bde2e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d7VFlI4_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7ukly0l39ep47uwh3szo.png)
 
 当然，你可以进入 localhost，但你不会在 Chrome 中看到“安全”图标，这可能会掩盖其他安全问题(如安全页面上的不安全资源)。如果你想要安全的勾号，他们会给你提供如何在 Mac OS 上做到这一点的详细说明。
 
 这些说明通常对我运行 MacOS Sierra 有效(是的，我仍然避免高 Sierra，直到有人说服我有一个令人信服的理由来改变)。我会注意到，我无法轻松地从“钥匙串访问”中导航到包含他们内置证书的安装文件夹(在我的情况下，这是`/usr/local/lib/node_modules/local-web-server/node_modules/lws`)。相反，我通过 Finder 找到它，然后简单地将证书拖到我的“登录”钥匙链中。一旦你这样做，点击它打开它。
 
-[![trusting the lws cert](../Images/8b679dc33e8f2bbedf07522b71d0c3f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZEZQWIAp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k7mkeav556ab0lva5y8f.png)
+[![trusting the lws cert](img/8b679dc33e8f2bbedf07522b71d0c3f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZEZQWIAp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k7mkeav556ab0lva5y8f.png)
 
 展开“信任”部分，并将“安全套接字层(SSL)”设置为“始终信任”
 
@@ -51,7 +51,7 @@ openssl req -x509 -out localhost.crt -keyout localhost.key \
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![generating a certificate](../Images/b2561daba1b560c72b987e6c81f8ff23.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d2utgo6T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jaq4kmk55feo0ci3ye2n.png)
+[![generating a certificate](img/b2561daba1b560c72b987e6c81f8ff23.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d2utgo6T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jaq4kmk55feo0ci3ye2n.png)
 
 我将生成的证书和密钥文件放在我的文档根目录下名为 ssl 的文件夹中。然而，正如本期所指出的，Jekyll 的 SSL 支持希望证书和密钥在网站的文件中。这是有道理的，如果你愿意，你可以很容易地把它们放在那里。因为我有很多项目可能会使用相同的证书，所以我没有这样做，而是在项目根目录下的文档中创建了一个到 ssl 文件夹的[符号链接](http://osxdaily.com/2015/08/06/make-symbolic-links-command-line-mac-os-x/)。
 
@@ -73,11 +73,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 当然，你需要经历我之前讨论的过程来避免 Chrome 中的安全警告。将证书拖到“钥匙串访问”中，点按它，然后将“安全套接字层(SSL)”设置为“总是信任”
 
-[![trusting the localhost certificate](../Images/113b74ff734486dbd6c30189657515b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HjL8Z5WZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a427ttedloav6f23mbfz.png)
+[![trusting the localhost certificate](img/113b74ff734486dbd6c30189657515b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HjL8Z5WZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a427ttedloav6f23mbfz.png)
 
 现在，您将看到“安全”图标。
 
-[![secure localhost](../Images/03cfdb313011f8a184ff638173599a32.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WoVDBERe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/em7f9f3xtoukc6s921xk.png)
+[![secure localhost](img/03cfdb313011f8a184ff638173599a32.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WoVDBERe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/em7f9f3xtoukc6s921xk.png)
 
 ## SSL 与本地主机使用 ngrok
 
@@ -97,6 +97,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，我可以通过提供的 URL 使用 SSL 访问本地运行的站点。
 
-[![ngrok](../Images/fa56fa8ba1aacd547218183f12213e35.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DA9bJKDq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kcwwpr7m6iu09miq3cxo.png)
+[![ngrok](img/fa56fa8ba1aacd547218183f12213e35.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DA9bJKDq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kcwwpr7m6iu09miq3cxo.png)
 
 如果您正在寻找一种快速简单的方法在本地测试 SSL，并且同意注册一个 ngrok 帐户，那么这无疑是最简单的选择。

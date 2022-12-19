@@ -22,11 +22,11 @@
 
 打开[数字海洋控制台，](https://cloud.digitalocean.com/)点击“创建”按钮，从菜单中选择“水滴”:
 
-[![](../Images/d1981eeac9fc42c1175d663172b5aef2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M8CmsQpZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/using-timescaledb-with-hasura-graphql-d05f030c4b10/1-g80WOqOvbxe8jIrc9tWk-A.png)
+[![](img/d1981eeac9fc42c1175d663172b5aef2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M8CmsQpZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/using-timescaledb-with-hasura-graphql-d05f030c4b10/1-g80WOqOvbxe8jIrc9tWk-A.png)
 
 在下一个屏幕中，选择图像为“Ubuntu 16.04”:
 
-[![](../Images/b9f42b3227724e696725022eab8ea815.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Lsbf7Fer--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/using-timescaledb-with-hasura-graphql-d05f030c4b10/1-tqoxP1KNXzXTIJhpJQzcWw.png)
+[![](img/b9f42b3227724e696725022eab8ea815.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Lsbf7Fer--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/using-timescaledb-with-hasura-graphql-d05f030c4b10/1-tqoxP1KNXzXTIJhpJQzcWw.png)
 
 然后选择机器尺寸和您喜欢的地区。
 

@@ -8,15 +8,15 @@
 
 下面我们给出一个例子，其中给定的数组包含 1-10 范围内的元素。
 
-[![problem](../Images/7d92c62f13d15a7b81ce36f9349b7fa4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s3Zpv_fT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sz769vzu3mhnu58q2xqp.jpeg)
+[![problem](img/7d92c62f13d15a7b81ce36f9349b7fa4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s3Zpv_fT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sz769vzu3mhnu58q2xqp.jpeg)
 
-[![hint](../Images/749061307313671a49ca5842d1463ef8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1hlGxk63--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ov23mr6kllun9x2dxlzu.jpeg)
+[![hint](img/749061307313671a49ca5842d1463ef8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1hlGxk63--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ov23mr6kllun9x2dxlzu.jpeg)
 
 当我们给定一个范围内的输入时，**计数排序**之类的算法是我们能实现的最好的算法。更多关于计数排序的是[这里](https://www.geeksforgeeks.org/counting-sort/)
 
 受计数排序算法的启发，为了解决这个算法，我们将创建另一个计数数组，在该数组中存储索引处每个项目的计数，即在索引 2 处，我们将在计数数组中存储项目 2。
 
-[![Algo](../Images/7a4871a487111d9a32d0d9532c54ca89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o-TIf1XE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gpq0js3dt96en4ytqqcx.jpeg)
+[![Algo](img/7a4871a487111d9a32d0d9532c54ca89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o-TIf1XE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gpq0js3dt96en4ytqqcx.jpeg)
 
 这里是 Java 的 repl。
 

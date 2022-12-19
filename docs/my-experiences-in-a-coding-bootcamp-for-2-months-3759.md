@@ -4,7 +4,7 @@
 
 * * *
 
-[![](../Images/35f427cdaf62884255115ba22a555ded.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--E2W77TmA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AtKlhbEEg0fqVJ4tH8IAZRg.jpeg) 图片来自我的 Instagram 账号[@ Julian Anderson](https://dev.to/juliancanderson)
+[![](img/35f427cdaf62884255115ba22a555ded.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--E2W77TmA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AtKlhbEEg0fqVJ4tH8IAZRg.jpeg) 图片来自我的 Instagram 账号[@ Julian Anderson](https://dev.to/juliancanderson)
 
 ### **我的背景**
 
@@ -18,7 +18,7 @@
 
 我试着在我的城市附近找一些工作间。我发现的第一件事是一个位于我所在城市的移动开发者训练营，但我对此毫无兴趣。幸运的是，我在印度尼西亚的雅加达遇到了一个完整的 Javascript Bootcamp。我读了他们的推荐，研究了他们的课程，然后我被他们吸引住了。他们将在七月开始训练营，而我的期末项目的截止日期是六月。我和我的父母谈过这件事，我很感激他们同意了。他们给了我全力支持，然后我试图尽快完成我的最终项目，这样我就可以参加训练营了。
 
-[![](../Images/799d3721c11e52bd9987bb168f9e59d1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EhrqVD8P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AgNbLdJLMKZG8yURmOCceJQ.jpeg)insta gram[@ Julian 安德森](https://dev.to/juliancanderson)
+[![](img/799d3721c11e52bd9987bb168f9e59d1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EhrqVD8P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AgNbLdJLMKZG8yURmOCceJQ.jpeg)insta gram[@ Julian 安德森](https://dev.to/juliancanderson)
 
 ### 什么是编码训练营？
 

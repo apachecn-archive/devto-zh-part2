@@ -6,7 +6,7 @@
 
 它是 TDD 周期的一个小变化，在这个变化中，您观察失败测试的错误消息，并问自己它给你的信息是否会使诊断问题的根源变得更容易，以防这个错误在将来以回归的形式出现。如果答案是否定的，那么在通过测试之前，您需要改进错误消息。
 
-[![alt text](../Images/954294e6feb8a971b39486bde9e6a955.png "Variation to TDD cycle: feedback on diagnostics (from Growing Object-Oriented Software by Nat Pryce and Steve Freeman)")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yOK5bhap--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pauiz0b08pbfn0p9tcr7.png)
+[![alt text](img/954294e6feb8a971b39486bde9e6a955.png "Variation to TDD cycle: feedback on diagnostics (from Growing Object-Oriented Software by Nat Pryce and Steve Freeman)")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yOK5bhap--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pauiz0b08pbfn0p9tcr7.png)
 
 投资时间来提高你的 red 将证明对你的同事和你自己非常有用，因为错误信息越清晰，就越有利于有效地修正回归错误。大多数时候，将这个小的变化应用到 TDD 周期只需要很小的努力。
 

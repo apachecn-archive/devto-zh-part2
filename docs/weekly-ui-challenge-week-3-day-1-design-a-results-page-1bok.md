@@ -12,11 +12,11 @@
 
 以下是我的结果组件的外观，包括组件的许多状态:
 
-[![A result page component, with a list view and ancillary buttons present](../Images/eec037dff57fadc9023185600b083bdd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w2s_2e_7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3d8rfrn8i29o8lomq7kv.jpg)
+[![A result page component, with a list view and ancillary buttons present](img/eec037dff57fadc9023185600b083bdd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w2s_2e_7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3d8rfrn8i29o8lomq7kv.jpg)
 
 组件的网格视图如下所示:
 
-[![A result page component, with a grid view and ancillary buttons present](../Images/5a50fe1139453e9586c457b56a330adf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kTFOO-N7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jkzu0miy8adkolreczzn.jpg)
+[![A result page component, with a grid view and ancillary buttons present](img/5a50fe1139453e9586c457b56a330adf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kTFOO-N7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jkzu0miy8adkolreczzn.jpg)
 
 ## 现在轮到你了
 

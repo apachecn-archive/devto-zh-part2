@@ -31,7 +31,7 @@ func (exter *Exter) Run() error {
 
 例如，上面有一段代码，doc 显示如下。
 
-[![doc](../Images/6669336466882159e3d1b0c3c9db11c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TVhKPt5i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/djglmcrs1gb9lzznjll7.png)
+[![doc](img/6669336466882159e3d1b0c3c9db11c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TVhKPt5i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/djglmcrs1gb9lzznjll7.png)
 
 但是如果你把`(who)`从注释中移除，注释不会显示在 GoDoc 中。
 

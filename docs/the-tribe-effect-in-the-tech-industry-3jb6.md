@@ -12,7 +12,7 @@
 
 在我们的工作中，这种团队划分可以在生产团队和支持团队之间，设计师和开发人员之间，或者最近在后端开发人员和前端开发人员之间看到。
 
-[![Squirtles high five](../Images/99267dac5963597c1e1cf641d88bcdc6.png "Team spirit ... right ?")T2】](https://i.giphy.com/media/7L9FYvnh467YI/giphy.gif)
+[![Squirtles high five](img/99267dac5963597c1e1cf641d88bcdc6.png "Team spirit ... right ?")T2】](https://i.giphy.com/media/7L9FYvnh467YI/giphy.gif)
 
 幸运的是，在大多数公司中，这些部落之间的伪对立不是一个主要问题，它通常“只是”一个小幽默。
 
@@ -22,7 +22,7 @@
 
 尽管看起来不合理，但我们就是这样。如果能证明我们的团队比另一个团队更有价值，我们很可能会搬起石头砸自己的脚。
 
-[![Ursula's thought on choices](../Images/9697571da4d2367d2a9a9819a5c46e42.png)T2】](https://i.giphy.com/media/ht4S98cYt36YE/giphy.gif)
+[![Ursula's thought on choices](img/9697571da4d2367d2a9a9819a5c46e42.png)T2】](https://i.giphy.com/media/ht4S98cYt36YE/giphy.gif)
 
 限制这种偏见在我们工作环境中的影响的第一个方法是意识到它，并试图在我们的行为和他人的行为中识别它。这看起来简单明了，但事实并非如此。我们很容易以分裂群体方式行事，有时只是为了好玩，并没有任何伤害的意图。
 

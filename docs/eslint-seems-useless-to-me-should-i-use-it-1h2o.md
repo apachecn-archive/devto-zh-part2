@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nsebhastian/eslint-seems-useless-to-me-should-i-use-it-1h2o>
 
-[![How it this stuff useful again?](../Images/281d841b9782ac477ae9f06fc4558482.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AMz6SUme--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jv8mmasb5mf0ilw5q1lz.png)
+[![How it this stuff useful again?](img/281d841b9782ac477ae9f06fc4558482.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AMz6SUme--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jv8mmasb5mf0ilw5q1lz.png)
 
 兄弟，无意冒犯，但对我来说，ESLint 似乎没什么大不了的。我的产品代码已经在没有林挺的情况下运行了两年。为什么我现在要用一个？
 

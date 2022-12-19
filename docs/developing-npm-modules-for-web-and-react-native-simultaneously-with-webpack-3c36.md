@@ -8,7 +8,7 @@
 
 这篇文章讲述了我是如何构建我的库的，我可以同时对两个模块进行常规更新，同时更新它们各自的示例应用程序，以包含最新的包。它还提供了一个真实示例的链接供您查看。
 
-[![](../Images/5c4217dabef9be2967523f167f97d29a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jjHZA8Vp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/webpack/media/master/logo/logo-on-white-bg.png)
+[![](img/5c4217dabef9be2967523f167f97d29a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jjHZA8Vp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/webpack/media/master/logo/logo-on-white-bg.png)
 
 ## 什么是 Webpack？
 
@@ -20,7 +20,7 @@
 
 在我的例子中，客户端 SDK 充当了子弹头列车 REST API 的用户友好代理，它帮助检索基于环境关键字的特性标志/远程配置列表。它还在幕后做了一些事情，比如用 AsyncStorage 缓存结果，并添加了一些功能来告诉我某个特性是否被启用以及它们配置了什么值。
 
-[![](../Images/512f36e256880cb027ee181141daf1e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i7hKM26V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/SolidStateGroup/bullet-train-frontend/master/hero.png)
+[![](img/512f36e256880cb027ee181141daf1e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i7hKM26V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/SolidStateGroup/bullet-train-frontend/master/hero.png)
 
 ## 第一步:识别共享代码
 
@@ -44,7 +44,7 @@
 
 该文件夹包含我们捆绑的 React 本机模块和一个简单的 React 本机应用程序示例。
 
-[![](../Images/25e3a874d207ee6930af9d20dbc74137.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TxMXml1k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/cGPy5J/g_El_OUv_Z4_QDy8vs_OXb7cr1_A.png)
+[![](img/25e3a874d207ee6930af9d20dbc74137.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TxMXml1k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/cGPy5J/g_El_OUv_Z4_QDy8vs_OXb7cr1_A.png)
 
 ## 第三步:创建开发流程
 
@@ -130,6 +130,6 @@ path: path.join(__dirname, '/react-native-bullet-train/example'),
 
 我的过程是在每个`package.json`中增加 NPM 版本，然后运行`npm run deploy`将更新的模块/示例项目发布到 NPM。
 
-[![](../Images/53edbee9568d2061fdb6d25b00621ddc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7iz83LYa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/eeercy/KAAq1_BA5_R9_CKNv_Nhm_O90n_A.png)
+[![](img/53edbee9568d2061fdb6d25b00621ddc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7iz83LYa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/eeercy/KAAq1_BA5_R9_CKNv_Nhm_O90n_A.png)
 
 如果你更喜欢通过查看代码来学习，那么所有这些都是在 GitHub 上开源的[。欢迎在这里提出你的任何问题！](https://github.com/SolidStateGroup/bullet-train-js-client)

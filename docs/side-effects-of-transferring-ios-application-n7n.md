@@ -12,7 +12,7 @@
 
 ## 准备好自己
 
-[![image](../Images/caa087c91a9175d9382d78c2abdda28a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I5aoylsU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2olaoznffjiqxo6pyl66.jpg)
+[![image](img/caa087c91a9175d9382d78c2abdda28a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I5aoylsU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2olaoznffjiqxo6pyl66.jpg)
 
 如果您的应用程序使用这些特性中的任何一个，您需要采取一些额外的操作:
 
@@ -28,7 +28,7 @@
 
 ## 这需要时间
 
-[![image](../Images/9347ff27d98290e0ed5d3571a48dec89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wtZFIvLz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vl4ihh0uyjkmfrjo4lji.jpg)
+[![image](img/9347ff27d98290e0ed5d3571a48dec89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wtZFIvLz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vl4ihh0uyjkmfrjo4lji.jpg)
 
 处理应用程序转移可能需要两个工作日。在此期间，你将无法编辑应用元数据、权限、定价和应用内购买，因此你应该确保在此期间不需要任何紧急更改。
 

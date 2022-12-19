@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/legobox/how-to-setup-an-ethereum-node-41a7>
 
-[![ethereum homestead](../Images/3e415a3f5cc2506f05693ba6236cc57f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IyqKQK_6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/29kd8x7xuk6vavmvqd4r.jpg)
+[![ethereum homestead](img/3e415a3f5cc2506f05693ba6236cc57f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IyqKQK_6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/29kd8x7xuk6vavmvqd4r.jpg)
 
 > 这篇文章最初发表在我的博客上，地址是 [legobox](https://medium.com/legobox/setting-up-an-ethereum-node-5193a98446e8)
 

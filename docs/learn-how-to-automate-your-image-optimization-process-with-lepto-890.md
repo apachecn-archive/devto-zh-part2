@@ -58,7 +58,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 默认情况下，Lepto 是零配置的，所以你需要**写一个`filters`** 列表，其中每个都与一个`glob`和一个`use`插件列表相关联。在这个配置文件示例中，我们要求 Lepto 以 75 的质量压缩所有 jpg 和 png 文件。
 
-[![lepto command running](../Images/4da95d958c9427729131491302b4278c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6waeHUlk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xbnrqit1ip2feyxdfsxv.png)
+[![lepto command running](img/4da95d958c9427729131491302b4278c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6waeHUlk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xbnrqit1ip2feyxdfsxv.png)
 
 ## 让我们添加一些插件
 
@@ -108,11 +108,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 默认情况下，GUI 可以在端口 4490 上访问，所以让我们运行`npm run build`并继续运行 [localhost:4490](http://localhost:4490/) 。我们将得到这个由三部分组成的漂亮界面:输入文件列表、过滤器列表和等待文件选择的优化器。
 
-[![Lepto Graphical User Interface](../Images/6d696b2ab288a31fe97df8932182d99d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nGC7ENX1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hgu9mntesny4r2foncst.png)
+[![Lepto Graphical User Interface](img/6d696b2ab288a31fe97df8932182d99d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nGC7ENX1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hgu9mntesny4r2foncst.png)
 
 让我们在列表中选择一个文件:它现在显示在优化器中，让我们可以使用质量滑块并实时查看输出。当您对质量百分比感到满意时，**单击按钮“添加优化插件”**和**通过单击“保存配置”**(或按⌘S / Ctrl+S)保存这个新配置。
 
-[![Lepto GUI optimizer usage](../Images/2f25aed03248d8d8844f3c83dea3c563.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eA1ZUaLV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3re5scayjzucsic181e5.png)
+[![Lepto GUI optimizer usage](img/2f25aed03248d8d8844f3c83dea3c563.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eA1ZUaLV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3re5scayjzucsic181e5.png)
 
 通过添加一个“优化插件”, GUI 简单地创建了一个新的过滤器，其 glob 等于文件名，插件对应于文件扩展名:
 
@@ -128,7 +128,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这个工具的用例是无穷无尽的。你甚至可以用 [`lepto-vibrant-color`](https://github.com/leptojs/lepto-vibrant-color) 插件**自动收集你的图像**的鲜艳颜色，并把它们放入一个 JSON 文件中。
 
-[![lepto-vibrant-color extraction example](../Images/378553498724bac8dd9f5f248ae6dcdc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yB_LKBNI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6fys66bblrizrfgo1pyj.png)
+[![lepto-vibrant-color extraction example](img/378553498724bac8dd9f5f248ae6dcdc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yB_LKBNI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6fys66bblrizrfgo1pyj.png)
 
 要了解关于 Lepto 的更多信息，请查看`lepto`和`lepto-cli`文档:
 
@@ -146,15 +146,15 @@ Enter fullscreen mode Exit fullscreen mode
 
 感谢阅读！😄
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [季米特里尼科拉斯](https://github.com/dimitrinicolas) / [轻子](https://github.com/dimitrinicolas/lepto)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [季米特里尼科拉斯](https://github.com/dimitrinicolas) / [轻子](https://github.com/dimitrinicolas/lepto)
 
 ### 通过 CLI 和 web 界面自动进行图像编辑、优化和分析。你给 lepto 你的输入和输出目录，你想要使用的插件和它们的选项。然后 lepto 做他的工作，你保留你的原始文件和输入目录的结构。一些插件甚至可以从你的图像中收集数据(比如原色),并将它们保存在一个 JSON 文件中。
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-[![Lepto: The best image optimizations practices made simple](../Images/a3fd07f64871c4421b8f00adf69e164b.png)T2】](https://raw.githubusercontent.com/dimitrinicolas/lepto/master/#get-started-with-cli--npm-scripts)
+[![Lepto: The best image optimizations practices made simple](img/a3fd07f64871c4421b8f00adf69e164b.png)T2】](https://raw.githubusercontent.com/dimitrinicolas/lepto/master/#get-started-with-cli--npm-scripts)
 
-[![Build Status](../Images/ff7f847008c050a159f3a7e0cb557b45.png)T2】](https://travis-ci.org/leptojs/lepto)
+[![Build Status](img/ff7f847008c050a159f3a7e0cb557b45.png)T2】](https://travis-ci.org/leptojs/lepto)
 
 这个工具的主要目的是自动化图像优化和分析这个项目是最近的，所以要小心使用它，我正在听取所有的反馈(我们可以通过 [twitter](https://twitter.com/dimitrincls) 交谈，不要跟着我，我从不发微博)。
 

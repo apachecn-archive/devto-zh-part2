@@ -27,7 +27,7 @@ API 基本上是一种软件，就像运行在手机或网站上的应用程序�
 
 这是一个直观的演示，分步骤进行了详细说明:
 
-[![App Hosting Servers](../Images/39a1c1a53eea83ad85197b1d871a4eda.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2iKg4mLK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/810ntmwroay4d5wfxl2h.png) 
+[![App Hosting Servers](img/39a1c1a53eea83ad85197b1d871a4eda.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2iKg4mLK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/810ntmwroay4d5wfxl2h.png) 
 
 <figure>
 
@@ -47,7 +47,7 @@ API 基本上是一种软件，就像运行在手机或网站上的应用程序�
 
 是的，你可以建一个！够简单的回答！在这篇文章的后续文章中，我将教你如何使用 ExpressJS 在节点上用 MongoDB 或 PostgreSQL 构建一个 API，你将把它推到一个服务器上，让其他人使用它。请关注这篇文章。像大型科技巨头一样，其他人也可以使用你的 API。这里的好处是，他们可以在桌面或移动设备上使用(消费)它。
 
-[![App Hosting Servers](../Images/c702ea0819bb708811e92d4e4a42af2d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--o-JlBYkf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1506399558188-acca6f8cbf41%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D44506d02c01a236c6ac088d527a56568%26auto%3Dformat%26fit%3Dcrop%26w%3D1439%26q%3D80) 
+[![App Hosting Servers](img/c702ea0819bb708811e92d4e4a42af2d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--o-JlBYkf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1506399558188-acca6f8cbf41%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D44506d02c01a236c6ac088d527a56568%26auto%3Dformat%26fit%3Dcrop%26w%3D1439%26q%3D80) 
 
 <figure>
 

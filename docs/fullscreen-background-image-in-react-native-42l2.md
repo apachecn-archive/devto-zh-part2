@@ -8,6 +8,6 @@
 
 [React Native 中的全屏背景图像](https://www.skptricks.com/2018/09/fullscreen-background-image-in-react-native-application-android.html)
 
-[![](../Images/8b275708ed130fb6fc98a42090c91456.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uhRn2TD_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-XmzeDjkp8MQ/W6iVAHYBS7I/AAAAAAAAB60/HZoE9qBOi3ouuXn8x7RJhAjfAwXr5YonQCLcBGAs/s640/bck1.png)
+[![](img/8b275708ed130fb6fc98a42090c91456.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uhRn2TD_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-XmzeDjkp8MQ/W6iVAHYBS7I/AAAAAAAAB60/HZoE9qBOi3ouuXn8x7RJhAjfAwXr5YonQCLcBGAs/s640/bck1.png)
 
 [阅读更多...](https://www.skptricks.com/2018/09/fullscreen-background-image-in-react-native-application-android.html)

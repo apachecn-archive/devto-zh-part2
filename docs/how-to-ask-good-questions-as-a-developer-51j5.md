@@ -22,11 +22,11 @@
 
 尤其是对那些英国人来说:
 
-[![Image of code editor highlighting the incorrect spelling of color in CSS](../Images/55b78b12b066aa295e9e9c05afc716c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6VYweB0r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/7nPKFnI.png)
+[![Image of code editor highlighting the incorrect spelling of color in CSS](img/55b78b12b066aa295e9e9c05afc716c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6VYweB0r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/7nPKFnI.png)
 
 在早期，你的大部分错误是打字错误和语法错误。在您信任的代码编辑器的帮助下，这应该是一个快速的解决方案。
 
-[![Image of a syntax error in CSS where the developer has missed out a semi-colon](../Images/34f29efd82231795387bc4cf8a244a47.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9vBaUKMI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/04QU9o8.png)
+[![Image of a syntax error in CSS where the developer has missed out a semi-colon](img/34f29efd82231795387bc4cf8a244a47.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9vBaUKMI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/04QU9o8.png)
 
 ### 检查书写错误
 
@@ -58,9 +58,9 @@
 
 这里有几个例子:
 
-[![Screenshot of a Google query saying "JavaScript how to filter array"](../Images/099eea98bef51b140f60e188ac6be955.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--liI9FrtU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/LwN6Ujg.png)
+[![Screenshot of a Google query saying "JavaScript how to filter array"](img/099eea98bef51b140f60e188ac6be955.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--liI9FrtU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/LwN6Ujg.png)
 
-[![Screenshot of a Google query asking "React how to pass props"](../Images/248332fc0b4aa49e77bea4b58911a953.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4LmrlU8_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/esyf0AS.png)
+[![Screenshot of a Google query asking "React how to pass props"](img/248332fc0b4aa49e77bea4b58911a953.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4LmrlU8_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/esyf0AS.png)
 
 确保你做一些不同的搜索。通读任何似乎适合您的问题的结果。如果运气好的话，在你之前会有人遇到同样的问题并解决了他们的问题。
 

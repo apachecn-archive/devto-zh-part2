@@ -53,6 +53,6 @@ for rents in rent_combinations:
 
 下面显示了输出中总共 192 个元素的部分屏幕截图。
 
-[![Output](../Images/60f2469c7af6d2f21f3f51a15950fc83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LjAm1Qlz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/myram.xyz/wp-content/uploads/2018/10/output-1.jpg%3Fw%3D760%26ssl%3D1)
+[![Output](img/60f2469c7af6d2f21f3f51a15950fc83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LjAm1Qlz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/myram.xyz/wp-content/uploads/2018/10/output-1.jpg%3Fw%3D760%26ssl%3D1)
 
 [迈拉姆的原始帖子](https://myram.xyz/unequally-distributed-divide-quantity-python/)

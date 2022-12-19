@@ -101,7 +101,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是结果:
 
-[![screenshot](../Images/50a7c50442476036ba1f8651529ff32c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M0n_imO3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pxfetg8lcuy3fr36i8n7.png)
+[![screenshot](img/50a7c50442476036ba1f8651529ff32c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M0n_imO3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pxfetg8lcuy3fr36i8n7.png)
 
 ### 投稿
 

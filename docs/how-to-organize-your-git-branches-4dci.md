@@ -19,7 +19,7 @@
 
 由于没有公开的文件讨论这个问题，我看到一些工作副本使用这些文件夹的复数形式，其他的使用单数形式。
 
-[![](../Images/311e885075976b9d17bec648a7bfc220.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zSTlxO3C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/git-branches/gitflow.png)
+[![](img/311e885075976b9d17bec648a7bfc220.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zSTlxO3C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/git-branches/gitflow.png)
 
 # 类固醇 Gitflow
 
@@ -32,13 +32,13 @@
 
 我在很多项目中都见过这种情况。分支-推送-合并-修剪是反文件夹方法。我不是说混乱是组织分支的一种方式。使用这种方法的人喜欢清理他们的工作副本。他们只是分支、推送、创建拉取请求，然后在 PR 合并后立即删除分支(手动或通过 git fetch prune)。
 
-[![](../Images/a9b7d26a60b71a34db069a6b6de74504.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WsdIoi0e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/git-branches/bpmp.png)
+[![](img/a9b7d26a60b71a34db069a6b6de74504.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WsdIoi0e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/git-branches/bpmp.png)
 
 # 基于模块
 
 我发现自己在一个大项目中使用我称之为“基于模块”的分支模型，在这个项目中，我迷失在功能和修复的海洋中。所以我开始根据它的模块创建分支。
 
-[![](../Images/42f501bbab763b34e9bfee1814a26d33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GvozHRtc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/git-branches/module-based.png)
+[![](img/42f501bbab763b34e9bfee1814a26d33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GvozHRtc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/git-branches/module-based.png)
 
 您可以将 Gitflow 与这种基于模块的方法混合使用，类似于“后勤/计费/修复/计费值”，但这可能太多了。
 
@@ -49,7 +49,7 @@
 
 `git branch | grep -e "vX.X/" | xargs git branch -D`
 
-[![](../Images/ec4e32200d1fe0a7861a93b2f4c0f296.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1EvoAWh1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/git-branches/version-based.png)
+[![](img/ec4e32200d1fe0a7861a93b2f4c0f296.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1EvoAWh1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/git-branches/version-based.png)
 
 同样，这可以与 Gitflow 文件夹混合使用，但是...
 
@@ -57,13 +57,13 @@
 
 如果门票号码(门票，问题或任何你称之为他们)是你的团队的语言的一部分，使用基于门票的系统可能是一个完美的适合。你可以使用一个文件夹，比如“tickets/242”或“issues/242”，或者就叫它“242”。
 
-[![](../Images/efa0e4d053ddf14932599acb099d934d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iephL5do--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/git-branches/tickets-based.png)
+[![](img/efa0e4d053ddf14932599acb099d934d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iephL5do--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/git-branches/tickets-based.png)
 
 # 基于表情符号
 
 如果这些系统都不适合你，你可以按照尼克的想法实现一个基于表情符号的系统:)
 
-[![](../Images/f803e7f57ff92fecd75f69ffd416bcb4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cZ58uzEJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/git-branches/emoji-based.jpg)
+[![](img/f803e7f57ff92fecd75f69ffd416bcb4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cZ58uzEJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kblok/kblok.github.io/master/img/git-branches/emoji-based.jpg)
 
 # 最后的话
 

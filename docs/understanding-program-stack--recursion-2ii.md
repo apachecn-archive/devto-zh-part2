@@ -14,7 +14,7 @@
 
 当你想从栈中读取一个元素时，你可以“弹出”栈顶的元素。这就是为什么推入堆栈的最后一个元素是从堆栈中取出的第一个元素。
 
-[![alt text](../Images/94f090b866f528080bbe0d36e143f4d4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--c_TlRzE7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/b/b4/Lifo_stack.png) 
+[![alt text](img/94f090b866f528080bbe0d36e143f4d4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--c_TlRzE7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/b/b4/Lifo_stack.png) 
 [图片来源](https://upload.wikimedia.org/wikipedia/commons/b/b4/Lifo_stack.png)
 
 ## 堆栈与递归的关系
@@ -29,7 +29,7 @@
 
 当你使用递归时，每次你的函数调用它自己时，你都在推一个堆栈帧。调用堆栈(或前面提到的“程序堆栈”)在每次程序运行时都有一个有限的大小(大小是在程序执行之前计算的)，这可能会导致一种危险的情况，因为您实际上可能会超过堆栈所能容纳的信息量:这就是著名的“堆栈溢出”。
 
-[![alt text](../Images/40f1e97ee628c2aa633a9a75525957f7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UJmGbf2i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Call_stack_layout.svg/342px-Call_stack_layout.svg.png) 
+[![alt text](img/40f1e97ee628c2aa633a9a75525957f7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UJmGbf2i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Call_stack_layout.svg/342px-Call_stack_layout.svg.png) 
 [图片来源](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Call_stack_layout.svg/342px-Call_stack_layout.svg.png)
 
 但是不要控制自己，运行时不会一直将堆栈帧推送到堆栈。当你使用“Return”参数或者当函数终止执行时，程序将返回到“返回地址”,堆栈帧将弹出堆栈。

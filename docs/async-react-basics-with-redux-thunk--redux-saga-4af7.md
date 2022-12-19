@@ -9,7 +9,7 @@
 我喜欢猫，所以应用程序的功能是基于[猫 API](https://thecatapi.com/) 的。你可以在这里克隆/分叉[的 GitHub 回购。](https://github.com/bnorbertJS/react_catapi)
 
 应用程序看起来是这样的:
-[![catapi app](../Images/e6d9be6fdd48bf70e25829636abb6ec0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_Y_eUrNW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/64ocl0lsfupq43eqdsod.JPG)
+[![catapi app](img/e6d9be6fdd48bf70e25829636abb6ec0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_Y_eUrNW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/64ocl0lsfupq43eqdsod.JPG)
 
 如果你点击“获取猫”按钮，它发送一个 HTTP GET 请求，返回一个随机的猫图像。如果你点击“获取更多的猫”,它会返回一个 5 只随机猫的数组。我知道这很难看，但我真的不想在 css 上浪费时间。如果您对完整的“项目”和 css 文件感兴趣，请查看我上面提到的 github repo。
 
@@ -132,7 +132,7 @@ const fetchCatsSuccess = (cat) => {
 const fetchCats = () => dispatch => {
     dispatch(fetchCatsStarted())
 
-    fetch("https://api.thecatapi.com/v1/images/search",{
+    fetch("https://api.thecatapi.com/img/search",{
         headers: {
             "Content-Type": "application/json",
             "x-api-key": "YOUR_API_KEY"
@@ -153,7 +153,7 @@ const fetchCats = () => dispatch => {
 const fetchCats =  () => async dispatch => {
     dispatch(fetchCatsStarted())
     try{
-        const catResponse = await fetch("https://api.thecatapi.com/v1/images/search",{
+        const catResponse = await fetch("https://api.thecatapi.com/img/search",{
             headers: {
                 "Content-Type": "application/json",
                 "x-api-key": "YOUR_API_KEY"
@@ -241,7 +241,7 @@ export default function* watchFetchMoreCatsSaga(){
 function* fetchMoreCatsSaga(){
     yield put({type: "FETCH_MORE_CATS_SAGA_START"})
 
-   const catResponse = yield fetch("https://api.thecatapi.com/v1/images/search?limit=5",{
+   const catResponse = yield fetch("https://api.thecatapi.com/img/search?limit=5",{
         headers: {
             "Content-Type": "application/json",
             "x-api-key": "YOUR_API_KEY"

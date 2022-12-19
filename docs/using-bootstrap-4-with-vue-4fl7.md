@@ -16,7 +16,7 @@ Bootstrap 4 需要 jQuery 和 popper . js。jQuery 是一个 DOM 库，它可以
 
 ## [自举视图](https://bootstrap-vue.js.org/)
 
-[![](../Images/5108f1fd9a8fc4348ed3a56cbdc2709a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Co9qOmZP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.com/images/030f06e4-c4cc-4e09-aa12-e8843bc4192a.png)
+[![](img/5108f1fd9a8fc4348ed3a56cbdc2709a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Co9qOmZP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.cimg/030f06e4-c4cc-4e09-aa12-e8843bc4192a.png)
 
 前往您的终端，在您的 Vue 项目中导航，然后运行以下命令来安装`bootstrap-vue`
 

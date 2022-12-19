@@ -12,7 +12,7 @@ WebAssembly 是一种可以在现代浏览器中运行的新型代码。它是�
 
 汇编通常是指类似于机器代码的人类可读语言。机器码是你的处理器理解的，一串数字。
 
-<figure>[![](../Images/20de7cc4285671ef814588893f7f4e74.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mN4-L7gC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AY0nZhsD-0ac5gKHc_OG3TQ.png) 
+<figure>[![](img/20de7cc4285671ef814588893f7f4e74.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mN4-L7gC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AY0nZhsD-0ac5gKHc_OG3TQ.png) 
 
 <figcaption>汇编语言和机器码</figcaption>
 
@@ -20,7 +20,7 @@ WebAssembly 是一种可以在现代浏览器中运行的新型代码。它是�
 
 每一种高级编程语言都被翻译成机器代码，以便在处理器上运行。不同种类的处理器架构需要不同的机器码和不同种类的汇编。
 
-<figure>[![](../Images/93d3fd3361a044984d751fa4984fa536.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UnQiGqhf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AfY3Nj1rqpy1sveLt_Np9jg.png) 
+<figure>[![](img/93d3fd3361a044984d751fa4984fa536.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UnQiGqhf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AfY3Nj1rqpy1sveLt_Np9jg.png) 
 
 <figcaption>为不同处理器架构编译源代码</figcaption>
 
@@ -28,7 +28,7 @@ WebAssembly 是一种可以在现代浏览器中运行的新型代码。它是�
 
 尽管名为 WebAssembly，但它并不完全是一种汇编语言，因为它并不针对任何特定的机器。它是为浏览器准备的，当你交付要在浏览器中执行的代码时，你不知道你的代码会在什么样的机器上运行。
 
-<figure>[![](../Images/7c660229d02e96ed1a18c89391083e4d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--65JGsu_d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ApdkebdFYtLbrvjL88dQ-BA.png) 
+<figure>[![](img/7c660229d02e96ed1a18c89391083e4d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--65JGsu_d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ApdkebdFYtLbrvjL88dQ-BA.png) 
 
 <figcaption>WebAssembly 作为中间编译目标</figcaption>
 
@@ -38,7 +38,7 @@ WebAssembly 是一种用于概念机器的语言，它是流行的现实世界�
 
 这就是 WebAssembly 的样子——它有一个易于阅读的文本格式。wat) ，但是二进制表示是你实际交付给浏览器的*(。wasm)* 。
 
-<figure>[![](../Images/c5a8460e71b6845217629485d0e9f91a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--V2mrndAO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AcuLEJje56uGtxt37cUGIWw.png) 
+<figure>[![](img/c5a8460e71b6845217629485d0e9f91a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--V2mrndAO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AcuLEJje56uGtxt37cUGIWw.png) 
 
 <figcaption>WebAssembly 文本和二进制格式</figcaption>
 
@@ -48,7 +48,7 @@ WebAssembly 能让你做的是将类似于 **C、C++或 Rust** 代码的东西�
 
 它不是 JavaScript 的替代品，它与 JavaScript 并行工作。
 
-<figure>[![](../Images/47bd85d5b2a32ff86d48d1e603522cf6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WUyJl-LQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AzaeiNOe-kSznuKi1ndPbpw.png) 
+<figure>[![](img/47bd85d5b2a32ff86d48d1e603522cf6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WUyJl-LQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AzaeiNOe-kSznuKi1ndPbpw.png) 
 
 <figcaption>应用程序中的 WebAssembly 模块</figcaption>
 
@@ -64,7 +64,7 @@ JavaScript 最初是一种简单的脚本语言，旨在为充斥着轻量级超
 
 视频游戏尤其具有挑战性，因为它们不仅要协调音频和视频，而且往往还要协调物理和人工智能。能够达到在网络上高效运行游戏的性能将为[带来许多其他网络应用](https://webassembly.org/docs/use-cases/)打开大门，这就是 WebAssembly 要做的事情。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### 为什么网络如此有吸引力
 
@@ -88,7 +88,7 @@ WebAssembly 是为**速度**设计的。它的二进制文件比文本 JavaScrip
 
 解析 JavaScript 包括将纯文本转换成一种叫做[抽象语法树](https://en.wikipedia.org/wiki/Abstract_syntax_tree) (AST)的数据结构，并将其转换成二进制格式。WebAssembly 以二进制形式交付，解码速度更快。它是静态类型的，所以与 JavaScript 不同，引擎不需要在编译期间推测将使用什么类型。大多数优化发生在源代码编译期间，甚至在它进入浏览器之前。内存是手动管理的，就像 C 和 C++这样的语言一样，所以也没有垃圾收集。所有这些都提供了更好、更可靠的性能。**WASM 二进制代码的执行时间只比相同的本地代码慢 20%。**
 
-<figure>[![](../Images/ed891bfaccb8ebaf4a5b2331004ec94d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xxtILaoB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AxU7akQpF9KctXbQA.png) 
+<figure>[![](img/ed891bfaccb8ebaf4a5b2331004ec94d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xxtILaoB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AxU7akQpF9KctXbQA.png) 
 
 <figcaption>在 JavaScript 引擎中处理 WebAssembly 花费的相对时间</figcaption>
 
@@ -96,7 +96,7 @@ WebAssembly 是为**速度**设计的。它的二进制文件比文本 JavaScrip
 
 设计 WebAssembly 的主要目标之一是**可移植性**。要在设备上运行应用程序，它必须与设备的处理器架构和操作系统兼容。这意味着为您想要支持的操作系统和 CPU 架构的每种组合编译源代码。有了 WebAssembly，只需一个编译步骤，你的应用就可以在所有现代浏览器中运行。
 
-<figure>[![](../Images/580ac3dad88bd4ed4a02fdb95bb376b3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4h8HxP5D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ANT8Fw1gCXa0eYBuCU-MiJA.png) 
+<figure>[![](img/580ac3dad88bd4ed4a02fdb95bb376b3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4h8HxP5D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ANT8Fw1gCXa0eYBuCU-MiJA.png) 
 
 <figcaption>编译本机代码在不同平台上运行与编译到 WebAssembly</figcaption>
 
@@ -118,7 +118,7 @@ WebAssembly 最令人兴奋的地方是它为 web 编写带来了更多的灵活
 emcc hello.c -s WASM=1 -o hello.html 
 ```
 
-<figure>[![](../Images/cdcbfeb7dcbe4ce93f2c61779d46ae21.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--s9d2TJFX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AxNUJSNFWssBQcekQ.png) 
+<figure>[![](img/cdcbfeb7dcbe4ce93f2c61779d46ae21.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--s9d2TJFX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AxNUJSNFWssBQcekQ.png) 
 
 <figcaption>用 Emscripten</figcaption>
 
@@ -142,7 +142,7 @@ emcc hello.c -s WASM=1 -o hello.html
 
 它在这里，它是真实的。WebAssembly 支持去年在所有主流浏览器中推出。目前全球用户的 **74.93%** ，甚至桌面用户的 **82.92%** 都支持。作为旧浏览器的后备，你可以使用 Emscripten 编译成[ASM . js](http://asmjs.org/faq.html)——只使用数字(没有字符串、对象等)的 JavaScript 子集。).这是一种直接导致创建 WebAssembly 的格式，它在网络上被广泛使用，例如在上传照片到脸书时用于图像压缩，以及在 Adobe 的 [Lightroom](https://lightroom.adobe.com/) 中用于图像编辑。
 
-<figure>[![](../Images/16b2d6982a41b811299876a9469ae578.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4s-Q6rJ3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2APliXmTDmymYjfm2G.png) 
+<figure>[![](img/16b2d6982a41b811299876a9469ae578.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4s-Q6rJ3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2APliXmTDmymYjfm2G.png) 
 
 <figcaption>支持 web 汇编的浏览器</figcaption>
 
@@ -174,7 +174,7 @@ JavaScript 仍将在 web 开发中占有一席之地。这是一种很棒的语�
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/7521dd34c3bdf07adebf14236ec9e4ca.png)](https://logrocket.com/signup/)
+[![](img/7521dd34c3bdf07adebf14236ec9e4ca.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

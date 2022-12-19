@@ -4,7 +4,7 @@
 
 ### 什么都不是？
 
-[![](../Images/b03cc12648b50a0f0d522951d47d8d78.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bUU-AYtN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AXZkZE7VkNnfQ5q18LpMBow.jpeg)
+[![](img/b03cc12648b50a0f0d522951d47d8d78.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bUU-AYtN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AXZkZE7VkNnfQ5q18LpMBow.jpeg)
 
 “一无所有”安卓应用程序的最初版本由奇兰戈实验室开发，在谷歌 Play 商店有超过 100 万的下载量和 4.2 星的评分🎉。
 
@@ -12,7 +12,7 @@
 
 然而，一无所有的 Android 应用程序的 APK 大小为 14MB，安装后使用了 19.24MB 的手机存储空间。所以这让我想，有没有什么方法可以让它变小？
 
-[![](../Images/7df395dedaa99abd44f66941c5c37619.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wHnKBZlR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/q5w89SW.png) 
+[![](img/7df395dedaa99abd44f66941c5c37619.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wHnKBZlR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/q5w89SW.png) 
 *(左)没事安卓 App: 19.24MB —(右)没事递进 Web App: 205KB*
 
 解决办法很简单。我可以使用 HTML、CSS 和 JavaScript 重新构建整个系统。为了让它更上一层楼，我可以将它升级到一个[渐进式网络应用(PWA)](https://developers.google.com/web/progressive-web-apps/) ，这样用户就可以在没有互联网连接的情况下运行它，还可以将 PWA 添加到他们的主屏幕上。
@@ -21,7 +21,7 @@
 
 在我开始谈论代码之前，让我们为一无所有的 PWA 设计一个图标！我用来生成应用图标的工具叫做[启动器图标生成器](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html)。这是一个非常惊人的[开源](https://github.com/romannurik/AndroidAssetStudio)工具，由[罗曼·努里克](https://twitter.com/romannurik)开发。
 
-[![](../Images/94d4bba0a20e215e3070a7d76a78ca09.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0lG5pqfo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AIlOsAMmxr7AUcq2K5maV9Q.png)
+[![](img/94d4bba0a20e215e3070a7d76a78ca09.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0lG5pqfo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AIlOsAMmxr7AUcq2K5maV9Q.png)
 
 使用启动器图标生成器，我能够设计和生成应用程序图标(使用材料设计？)马上就没什么 PWA 了。生成器将自动生成不同大小的图标:48px、72px、96px、144px、192px 和 512px。
 
@@ -42,7 +42,7 @@ PWACompat 是一个库，它将 Web 应用清单提供给不兼容的浏览器�
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/32f3db7e4a868ea9e411679b31cd5405.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EcJdvd69--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AP4zvXn8iAjhAE9PYEEU9qQ.gif)
+[![](img/32f3db7e4a868ea9e411679b31cd5405.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EcJdvd69--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AP4zvXn8iAjhAE9PYEEU9qQ.gif)
 *Safari(iOS)上的闪屏*
 
 塔达！就这样，我设法将闪屏带到了老版本的浏览器上。但是，PWACompat 能做的就这些吗？不要！它实际上可以做得更多！
@@ -53,13 +53,13 @@ PWACompat 还为清单中的所有图标(包括 favicon)创建 meta icon 标记�
 
 我从渐进式网络应用程序中得到的最喜欢的功能之一是添加到主屏幕(A2HS)。然而，从 Android 上的 Chrome 68 开始， [Chrome 将显示 A2HS 迷你信息栏，而不是大的 A2HS 横幅](https://developers.google.com/web/updates/2018/06/a2hs-updates):
 
-[![](../Images/146bf47a2a59323399b84f839bbeb038.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ruMjH-d2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A3GwP3kbKBFSedyTaI4NWZQ.png)
+[![](img/146bf47a2a59323399b84f839bbeb038.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ruMjH-d2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A3GwP3kbKBFSedyTaI4NWZQ.png)
 T4】😵撕旧 A2HS 横幅(Chrome 67 及之前)
 
 尽管如此，A2HS 迷你信息栏是一个临时的解决方案，它将在未来的某一天从 Chrome 中移除。因此，我应该为一无所有的 PWA 提供一个更好的 A2HS UX。
 
 [![(Left) Install Button — (Middle) Install Button + A2HS Mini-Infobar — (Right)<br>
-A2HS Dialog](../Images/c15c7df3cf08ba8ccf1f25066df857cd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AZrzh-jo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/6GwUIXc.png) 
+A2HS Dialog](img/c15c7df3cf08ba8ccf1f25066df857cd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AZrzh-jo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/6GwUIXc.png) 
 *(左)安装按钮—(中)安装按钮+ A2HS 迷你信息栏—(右)
 A2HS 对话框*
 
@@ -95,12 +95,12 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 🥚复活节彩色蛋
 
-[![Spoiler Alert !!!](../Images/85e4976e94aab787e43c7c6c6d737281.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Davn8YwE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AePTthP8JcXDteH9p7G8gqQ.jpeg) 
+[![Spoiler Alert !!!](img/85e4976e94aab787e43c7c6c6d737281.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Davn8YwE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AePTthP8JcXDteH9p7G8gqQ.jpeg) 
 *剧透预警！！！*
 
 下面是虚无 PWA 的复活节彩蛋:Konami Code + [10 小时 YouTube 视频](https://twitter.com/Nick_Craver/status/720062942960623616)。
 
-[![⬆️⬆️⬇️️⬇️⬅️➡️⬅️➡️👆🏻👆🏻](../Images/d84ddda73cbe4bc05960e98243c9a3a7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Q0TS7wvZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/600/1%2A9f-Coe9dfwz_UmlsTUmHjA.gif) 
+[![⬆️⬆️⬇️️⬇️⬅️➡️⬅️➡️👆🏻👆🏻](img/d84ddda73cbe4bc05960e98243c9a3a7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Q0TS7wvZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/600/1%2A9f-Coe9dfwz_UmlsTUmHjA.gif) 
 *👆🏻👆🏻*
 
 一旦用户成功完成 Konami 代码，Nothing PWA 会将用户重定向到一个 [YouTube 视频](https://stackoverflow.com/admin.php)。
@@ -111,7 +111,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 然而，有一个小问题。当用户试图在手机上向下滑动页面时，它会触发“拉至刷新”动作。
 
-[![](../Images/cb1596f29b721104e6490ce979eda4ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fRJyjpZo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AcDXJ33JdnhzIUfzy8R_14g.gif)
+[![](img/cb1596f29b721104e6490ce979eda4ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fRJyjpZo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AcDXJ33JdnhzIUfzy8R_14g.gif)
 
 好消息是，我们可以用一行 CSS : `overscroll-behavior-y: contain`来禁用拉刷新动作[。](https://developers.google.com/web/updates/2017/11/overscroll-behavior)
 
@@ -121,7 +121,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我选择在 Netlify 上主持无 PWA 的原因是，它很容易设置。更不用说，Netlify 免费使用！
 
-[![Netlify Dashboard](../Images/e4b05942fad3f00926b172ee7426559f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fxaPEa_I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AxLFM3ifLVb5X63Nj7XZHUw.png) 
+[![Netlify Dashboard](img/e4b05942fad3f00926b172ee7426559f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fxaPEa_I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AxLFM3ifLVb5X63Nj7XZHUw.png) 
 *Netlify 仪表盘*
 
 对于站点部署，有三种方法可供选择:通过命令行工具、手动部署或连续部署。
@@ -144,7 +144,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这种方法基本上是任何想要部署他们站点的人最容易的方法:拖放。
 
-[![](../Images/d3ec292cd4d11701ca7d2c7280a00b13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rOqr55pA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2A8eB2dwalDXgHBHR4Pm83Iw.png)
+[![](img/d3ec292cd4d11701ca7d2c7280a00b13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rOqr55pA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2A8eB2dwalDXgHBHR4Pm83Iw.png)
 
 这个功能太酷了，我希望 Firebase 可以实现这个功能。只需拖放您的项目文件夹，您就可以开始了！
 
@@ -156,7 +156,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 由于渐进式网络应用程序必须从一个安全的来源，我需要确保该网站已启用 HTTPS。好消息是，Netlify 为每个人提供免费 HTTPS，包括自定义域名。
 
-[![](../Images/434a0da2349e11c33298dfdf366fa8dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MTLZNWWq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2Acu1Zs1B4ziZFkJVXj7lwTA.png)
+[![](img/434a0da2349e11c33298dfdf366fa8dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MTLZNWWq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2Acu1Zs1B4ziZFkJVXj7lwTA.png)
 
 此外，您还可以从 Netlify 仪表板启用强制 HTTPS ( [HTTP 严格传输安全](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security)，HSTS)。这将确保该网站始终受到 HTTPS 的保护。
 
@@ -164,7 +164,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Lighthouse 是一款开源的自动化工具，用于提高网页质量。你可以在任何网页上运行它，无论是公开的还是需要认证的。它对性能、可访问性、渐进式网络应用等进行审计。
 
-[![](../Images/b41b9256ab299c2614b6e838a1cbb103.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VLTXx99r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2A85AX9Hs1Tty316wkADoifQ.png)
+[![](img/b41b9256ab299c2614b6e838a1cbb103.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VLTXx99r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2A85AX9Hs1Tty316wkADoifQ.png)
 
 不错吧？我在性能上得了 97 分，在 PWA、可访问性、最佳实践和 SEO 上得了 100 分。🔥
 
@@ -175,6 +175,6 @@ Lighthouse 是一款开源的自动化工具，用于提高网页质量。你可
 
 ### 🎉现在试试吧
 
-[![](../Images/0776d3b3f2132fc96c23f18cad92a8d8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PN0KoqL1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AhA7rq9gWv2ea6UEIwMIDOw.gif)T3】🚀可以试试这里的 Nothing PWA:[Nothing . lim Henry . XYZ](https://nothing.limhenry.xyz/)
+[![](img/0776d3b3f2132fc96c23f18cad92a8d8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PN0KoqL1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AhA7rq9gWv2ea6UEIwMIDOw.gif)T3】🚀可以试试这里的 Nothing PWA:[Nothing . lim Henry . XYZ](https://nothing.limhenry.xyz/)
 
 GitHub 上也有源代码: [nothing.limhenry.xyz](https://github.com/limhenry/nothing)

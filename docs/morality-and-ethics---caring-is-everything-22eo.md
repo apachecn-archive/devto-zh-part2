@@ -10,7 +10,7 @@
 
 当我做不到这一点的时候，就很可怕。当这些伦理问题被提出时，在我找到答案之前，我不能瞎搞的事实令人难以置信地担忧——尤其是当我们考虑到这些未解决的问题是多么普遍的时候。
 
-[![Demotivated](../Images/a4639e3bd85dec02945bb4123cd40deb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CzV2s9AZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/on46t8dsnufpact33300.jpeg) 
+[![Demotivated](img/a4639e3bd85dec02945bb4123cd40deb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CzV2s9AZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/on46t8dsnufpact33300.jpeg) 
 *一大堆没有明确答案的问题会让人失去动力。*
 
 在我们深入探讨之前，让我们快速定义一下我所说的“道德和伦理”是什么意思，因为虽然这些词很有力量，但它们有时可能太大而难以理解:
@@ -19,7 +19,7 @@
 道德判断——根据某种善的标准，对某种作为或不作为、意图、动机、性格特征或一个人作为一个整体是(或多或少)好还是坏的评价或意见。
 就我个人而言，我认为这些术语‘好’和‘坏’是相当主观的，甚至可以归咎于技术伦理中普遍存在的灰色海洋。今年伦敦 QCon 大会上，程延庆的精彩演讲[‘负责任地打碎潘多拉的盒子’](https://qconlondon.com/london2018/presentation/responsibly-smashing-pandora%E2%80%99s-box)展示了当我们做出这些更人性化的决策时，衡量标准的重要性。通过评估成本与收益，我们可以将技术的影响最大化。虽然我们通常认为成本效益分析有点功利主义，因此与更多的道德观点不相容，例如那些专注于道义概念(如伦理)的观点，将“价值”与新工具潜在的改变生活的途径或效果相提并论最初可能看起来有点不近人情，但我肯定能看到它的用途。
 
-[![What Are You Worth](../Images/f38172e8e8fd1caf1e6791ec94b3c038.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ikACggxD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o4i5xr11hp9tz1x10xcp.jpeg) 
+[![What Are You Worth](img/f38172e8e8fd1caf1e6791ec94b3c038.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ikACggxD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o4i5xr11hp9tz1x10xcp.jpeg) 
 *我们值多少钱？现在有一个思想家...*
 
 软件工程是一个不成熟的领域。这是不可否认的。我们太频繁地看到围绕新技术的非理性行为，跳上最闪亮的潮流，随之而来的是具有令人抓狂的复杂程度的过度设计的解决方案。我们经常看到缺乏彻底定义的规范(通常不是因为缺乏尝试)。我们经常看到人们对自己工作的意义视而不见。
@@ -32,10 +32,10 @@
 
 正如我前面提到的，这些问题不仅影响深远，而且数量众多。虽然总的来说，我们作为开发人员似乎对“对”和“错”有合理的理解，但上面链接的 StackOverflow insights 调查显示，我们看到了许多道德“灰色”——在现实世界的上下文中，我们很少看到黑与白。
 
-[![Ethics1](../Images/c0b892701b81926f2b0ed3e9c769827a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_9QZNd-x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mqkg5hv0wp9nkvwxm1ck.png)
-[![Ethics2](../Images/2f44ef179e3cd4e6fa7cdebb12829679.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--519aTTAm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n7if3iw0p5hfhzewlu7y.png)
-[![Ethics3](../Images/24562665a3a48fb1cefb66ef6fee9839.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Wu-N1dA---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qt499ak2ew7l17h0qzr6.png)
-[![Ethics4](../Images/4ed26e9de09f7dd8532ca281b0f88e72.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nKl0NfbX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/14qyt578i4m9318pawur.png)
+[![Ethics1](img/c0b892701b81926f2b0ed3e9c769827a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_9QZNd-x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mqkg5hv0wp9nkvwxm1ck.png)
+[![Ethics2](img/2f44ef179e3cd4e6fa7cdebb12829679.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--519aTTAm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n7if3iw0p5hfhzewlu7y.png)
+[![Ethics3](img/24562665a3a48fb1cefb66ef6fee9839.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Wu-N1dA---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qt499ak2ew7l17h0qzr6.png)
+[![Ethics4](img/4ed26e9de09f7dd8532ca281b0f88e72.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nKl0NfbX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/14qyt578i4m9318pawur.png)
 stack overflow 的见解调查用了整整一节来讨论软件开发中的道德规范。我认为这表明了我们正在看到的转变，即从确保在学校和其他国家教授编程和计算机科学，并使其更广泛地普及(近年来的巨大发展已经奠定了非常坚实的基础，包括在英国课堂上分发 [BBC micro:bits](http://microbit.org/) )到通过教育一些更好但仍然重要的编程方面，包括在这种环境下道德背后的思想，来成熟这种新的教学渠道。
 
 当然，在我们就这样一个重要的主题进行教育之前(尤其是在世界各地的课堂上)，明智的做法是回顾一下上面的答案，并对当前的问题以及开始解决这些问题的方法有一个清晰的认识。

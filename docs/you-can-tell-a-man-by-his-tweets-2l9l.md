@@ -4,7 +4,7 @@
 
 前一段时间，我读了 Kenneth Reitz 的一篇推文，他是我在 Twitter 上关注的一位非常著名的 Python 开发人员，他问道:
 
-> ![Kenneth Reitz 🐍 profile image](../Images/a0f59b812abbebdaa722db773f611639.png)肯尼斯·雷兹🐍[@ kennethreitz](https://dev.to/kennethreitz)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)制作一份 Python 开发者 twitter 账号列表，以供效仿。你推荐谁？2018 年 1 月 14 日下午 14:49[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=952553176925958145)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=952553176925958145)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=952553176925958145)
+> ![Kenneth Reitz 🐍 profile image](img/a0f59b812abbebdaa722db773f611639.png)肯尼斯·雷兹🐍[@ kennethreitz](https://dev.to/kennethreitz)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)制作一份 Python 开发者 twitter 账号列表，以供效仿。你推荐谁？2018 年 1 月 14 日下午 14:49[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=952553176925958145)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=952553176925958145)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=952553176925958145)
 
 Starting from this, I decided to analyze some tweets from pretty popular Python devs in order to understand a priori how they use Twitter, what they tweet about and what I can gather using data from Twitter APIs only.
 Obviously you can apply the same analysis on a different list of Twitter accounts.
@@ -125,17 +125,17 @@ Obviously you can apply the same analysis on a different list of Twitter account
 用户数据框架本身已经显示了一些洞察力:
 
 *   只有两个账号有验证标志:@mitsuhiko 和@wesmckinn
-*   @wesmckinn、 [@kennethreitz](https://dev.to/kennethreitz) 、@teoliphant 和@mitsuhiko 是榜单中最受欢迎的账号(根据我的“人气”指标):![popindicator](../Images/f69c5c1f8359a72e59a81e702e7b99c9.png)
-*   [@kennethreitz](https://dev.to/kennethreitz) 自从他的账户创建以来，每天发的微博数量至少是名单中其他开发者的两倍:![tweetsperday](../Images/5a94b60549de8470226c2c027f271594.png)
-*   名单中的大多数账户都居住在美国；我用[叶子](https://github.com/python-visualization/folium)创建了一个显示地点的地图:![map](../Images/d0115ecb8ead749cb8a6f505e2bbc125.png)
+*   @wesmckinn、 [@kennethreitz](https://dev.to/kennethreitz) 、@teoliphant 和@mitsuhiko 是榜单中最受欢迎的账号(根据我的“人气”指标):![popindicator](img/f69c5c1f8359a72e59a81e702e7b99c9.png)
+*   [@kennethreitz](https://dev.to/kennethreitz) 自从他的账户创建以来，每天发的微博数量至少是名单中其他开发者的两倍:![tweetsperday](img/5a94b60549de8470226c2c027f271594.png)
+*   名单中的大多数账户都居住在美国；我用[叶子](https://github.com/python-visualization/folium)创建了一个显示地点的地图:![map](img/d0115ecb8ead749cb8a6f505e2bbc125.png)
 
 相反，在我们收集到一些好的见解之前，tweets 数据框架需要一些操作。
 
-首先，让我们检查每个账户的推文“风格”。例如，从下面的图表中我们可以看到@cournape 转发了很多，而@mitsuhiko 回复了很多: [![tweettype](../Images/ddb85a9ba4d5a561b2420460152c6c39.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9Ms20e6z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nv1czyjrk6q9ipoxdxfj.png)
+首先，让我们检查每个账户的推文“风格”。例如，从下面的图表中我们可以看到@cournape 转发了很多，而@mitsuhiko 回复了很多: [![tweettype](img/ddb85a9ba4d5a561b2420460152c6c39.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9Ms20e6z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nv1czyjrk6q9ipoxdxfj.png)
 
-我们也可以按用户名和推文类型分组，并显示平均推文长度的图表。例如，@kennethreitz 写的回复比标准推文短，而@teoliphant 写的推文比其他人长(超过 140 个字符的限制): [![tweetlen](../Images/cc23ae8c3c2f0edc9fb3ca64b033b42c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NrwJ_JuO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4jm1m8gt31f8eg1o93mn.png)
+我们也可以按用户名和推文类型分组，并显示平均推文长度的图表。例如，@kennethreitz 写的回复比标准推文短，而@teoliphant 写的推文比其他人长(超过 140 个字符的限制): [![tweetlen](img/cc23ae8c3c2f0edc9fb3ca64b033b42c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NrwJ_JuO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4jm1m8gt31f8eg1o93mn.png)
 
-好了，现在让我们过滤掉转发，让我们专注于标准推文和回复中使用的机器检测语言。五种最常见的语言是:英语、德语、法语、未定义语言和一种相当奇怪的“他加禄语”(ISO 639-1 代码“tl”)，也许是自动检测中的错误？).大多数推文是英文的；@mitsuhiko 用德语发了很多推文，而@benoitrc 用法语: [![lang](../Images/87f46b11984eb4cb212db72afb619e56.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MlkwLa-V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x15a61kev9e9r9p1zn2q.png)
+好了，现在让我们过滤掉转发，让我们专注于标准推文和回复中使用的机器检测语言。五种最常见的语言是:英语、德语、法语、未定义语言和一种相当奇怪的“他加禄语”(ISO 639-1 代码“tl”)，也许是自动检测中的错误？).大多数推文是英文的；@mitsuhiko 用德语发了很多推文，而@benoitrc 用法语: [![lang](img/87f46b11984eb4cb212db72afb619e56.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MlkwLa-V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x15a61kev9e9r9p1zn2q.png)
 
 所以，让我们只选择英语或未定义的推文:所有接下来的图表只是考虑英语推文和回复(但显然你可以调整不同的分析)。
 让我们按用户名分组，统计每个用户收藏/转发的次数:
@@ -155,11 +155,11 @@ Obviously you can apply the same analysis on a different list of Twitter account
 
 *   [@kennethreitz](https://dev.to/kennethreitz) 在数据框中拥有最多转发和最受欢迎的推文。下面是推文:
 
-    > ![unknown tweet media content](../Images/012272ceadc61b5b3f60a36dd886b492.png)![Kenneth Reitz 🐍 profile image](../Images/a0f59b812abbebdaa722db773f611639.png)肯尼斯 雷兹🐍[@ kennethreitz](https://dev.to/kennethreitz)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)选择一个 OS下午 2018 年 04-04 15:[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=981547972239417345)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=981547972239417345)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=981547972239417345)
+    > ![unknown tweet media content](img/012272ceadc61b5b3f60a36dd886b492.png)![Kenneth Reitz 🐍 profile image](img/a0f59b812abbebdaa722db773f611639.png)肯尼斯 雷兹🐍[@ kennethreitz](https://dev.to/kennethreitz)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)选择一个 OS下午 2018 年 04-04 15:[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=981547972239417345)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=981547972239417345)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=981547972239417345)
 
 *   @ wesMcKinnhas the second most retweeted and favorite tweet in the data frame. Here's the tweet:
 
-    > ![Wes McKinney profile image](../Images/8318060c95786c97904c5dd16da8c5c1.png)Wes McKinney@ Wes McKinney![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)Big news today! I set up Ursa Lab, which is an open source data science development lab supported by [@ apacherrow](https://twitter.com/ApacheArrow) . I work with [@ Hadley Wickham](https://twitter.com/hadleywickham) and [@ rstudio](https://twitter.com/rstudio) , Make all this possible [wesmckinney.com/blog/announcin …](https://t.co/X93v53lEbG)April 19, 2018 at 16: 00 pm[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png) ](https://twitter.com/intent/tweet?in_reply_to=986998077767716865) [ ![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png) ](https://twitter.com/intent/retweet?tweet_id=986998077767716865) [ ![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=986998077767716865)
+    > ![Wes McKinney profile image](img/8318060c95786c97904c5dd16da8c5c1.png)Wes McKinney@ Wes McKinney![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)Big news today! I set up Ursa Lab, which is an open source data science development lab supported by [@ apacherrow](https://twitter.com/ApacheArrow) . I work with [@ Hadley Wickham](https://twitter.com/hadleywickham) and [@ rstudio](https://twitter.com/rstudio) , Make all this possible [wesmckinney.com/blog/announcin …](https://t.co/X93v53lEbG)April 19, 2018 at 16: 00 pm[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png) ](https://twitter.com/intent/tweet?in_reply_to=986998077767716865) [ ![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png) ](https://twitter.com/intent/retweet?tweet_id=986998077767716865) [ ![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=986998077767716865)
 
 *   @wesmckinn 的转发次数和收藏次数的平均值最高
 
@@ -178,12 +178,12 @@ Obviously you can apply the same analysis on a different list of Twitter account
 
 标准化后，我们可以看到@cournape 和@teoliphant 在转发和收藏方面的平均值越来越高。
 
-我们还可以看到每个用户每月的推文数量是如何随时间变化的。从下图我们可以看到例如 [@kennethreitz](https://dev.to/kennethreitz) 在 2017 年 9 月发了很多条推文(800 多条): [![monthly](../Images/b38ecc15f75470933af8d5f98f6d2700.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oyxlgG3P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bk9lx56uecyupdpwjcnr.png)
+我们还可以看到每个用户每月的推文数量是如何随时间变化的。从下图我们可以看到例如 [@kennethreitz](https://dev.to/kennethreitz) 在 2017 年 9 月发了很多条推文(800 多条): [![monthly](img/b38ecc15f75470933af8d5f98f6d2700.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oyxlgG3P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bk9lx56uecyupdpwjcnr.png)
 
-或者我们甚至可以看到哪些工具是每个用户最常使用的推文: [![sources](../Images/cf333554cbf8d3d64accf748f18e4967.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nyVDKwTw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fj4jd4618hbsithnj6j4.png) 
+或者我们甚至可以看到哪些工具是每个用户最常使用的推文: [![sources](img/cf333554cbf8d3d64accf748f18e4967.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nyVDKwTw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fj4jd4618hbsithnj6j4.png) 
 我把很多不太常用的工具归到了“其他”下面(Twitter bot for IοS，Twitter for iPad，OS X，Instagram，Foursquare，脸书，LinkedIn，Squarespace，Medium，Buffer)。
 
-最后，我们可以为每个用户构建一个 punchcard 图表，按照一周中的某一天和一天中的某几个小时来显示 tweets 日期的集合: [![punch](../Images/1d1b0c5d027191a2b1de122a7e309b82.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8vdJbmI5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tki4ig3kewzvtz21mev5.png)
+最后，我们可以为每个用户构建一个 punchcard 图表，按照一周中的某一天和一天中的某几个小时来显示 tweets 日期的集合: [![punch](img/1d1b0c5d027191a2b1de122a7e309b82.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8vdJbmI5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tki4ig3kewzvtz21mev5.png)
 
 # 主题
 
@@ -203,13 +203,13 @@ Obviously you can apply the same analysis on a different list of Twitter account
 | @zzzeek | One hundred and seventy | [('like '，14)，(' years '，11)，(' python '，10)，(' time '，10)，(' use '，9)] |
 
 然后我使用 [word_cloud](https://github.com/amueller/word_cloud) 为每个用户名创建了一个单词云。所有的人都在谈论 Python 或者他们的库(比如 pipenv，pandas，sqlalchemy 等等)；我们还可以发现其他一些编程语言，比如 erlang 和 rust。
-T3![cloud](../Images/b7ecc97743b6fbdd9e8d9a712a1c0a7d.png)T5】
+T3![cloud](img/b7ecc97743b6fbdd9e8d9a712a1c0a7d.png)T5】
 
 下一步是使用 Gensim 的 LDAmodel 确定真正的主题。我仍然使用了来自两个微博数量较多的账户的标准微博( [@kennethreitz](https://dev.to/kennethreitz) 和@mitsuhiko)，并且我执行了与 wordclouds 生成相同的预处理。
 我使用两个动态值运行模型:
 
 *   主题的数量(范围在 2 到 14 之间)
-*   alpha 值(可能值为 0.2、0.3、0.4)。然后，我使用 Gensim 内置的一致性模型选择了最佳解决方案，使用 c_v 作为度量:最佳模型是具有 9 个主题且 alpha=0.2 的模型![coherence](../Images/c656c79d4791efa142c18978c47d2ab1.png)
+*   alpha 值(可能值为 0.2、0.3、0.4)。然后，我使用 Gensim 内置的一致性模型选择了最佳解决方案，使用 c_v 作为度量:最佳模型是具有 9 个主题且 alpha=0.2 的模型![coherence](img/c656c79d4791efa142c18978c47d2ab1.png)
 
 以下是主题:
 
@@ -225,7 +225,7 @@ T3![cloud](../Images/b7ecc97743b6fbdd9e8d9a712a1c0a7d.png)T5】
 | seven | (7，' 0.161* "好"+ 0.097* "去了"+ 0.092* "得了"+ 0.067* "开心"+ 0.058* "当前"') |
 | eight | (8，' 0.114* "很棒"+ 0.091*"ipad" + 0.076* "终于"+ 0.066*"heroku" + 0.057* "正在工作"') |
 
-我们可以使用 [pyLDAvis](https://github.com/bmabey/pyLDAvis) 查看主题间距离图和每个主题最相关的术语:您可以在我的 github 帐户中探索 jupyter 笔记本中的交互数据。【T2![ldavis](../Images/cea249436a6cb9dc3421e2e2852bb5be.png)
+我们可以使用 [pyLDAvis](https://github.com/bmabey/pyLDAvis) 查看主题间距离图和每个主题最相关的术语:您可以在我的 github 帐户中探索 jupyter 笔记本中的交互数据。【T2![ldavis](img/cea249436a6cb9dc3421e2e2852bb5be.png)
 
 # 结论和未来步骤
 

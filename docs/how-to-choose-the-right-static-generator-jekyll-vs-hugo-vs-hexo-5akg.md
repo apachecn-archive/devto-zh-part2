@@ -8,9 +8,9 @@
 
 静态网站生成是指静态生成网站的过程，例如，在本地机器中生成 HTML 文件，然后将网站文件上传到服务器，在用户请求时向用户提供这些文件。服务器不做任何服务器端处理或数据库通信，它只在请求时发送普通的 HTML 文件。
 
-[![](../Images/3fdb07b875a9729630e10ae60141d761.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--yELo8t25--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Scheme_static_page_en.svg/1015px-Scheme_static_page_en.svg.png) [维基百科:一个静态的网页完全按照存储的样子交付给用户。](https://en.wikipedia.org/wiki/Static_web_page)
+[![](img/3fdb07b875a9729630e10ae60141d761.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--yELo8t25--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Scheme_static_page_en.svg/1015px-Scheme_static_page_en.svg.png) [维基百科:一个静态的网页完全按照存储的样子交付给用户。](https://en.wikipedia.org/wiki/Static_web_page)
 
-事实上，万维网上的第一个网站是静态的(第一个网页由蒂姆·伯纳斯·李于 1991 年 8 月 6 日上线)，因为当时的服务器非常原始，没有 PHP 之类的脚本语言或 MySQL 之类的数据库。[![](../Images/78cb9deb6ac6bd7103ff4cd5b4adee7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mej3tsKj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.com/images/589177ab-c934-40fd-b3b6-d295395a9efe.png)
+事实上，万维网上的第一个网站是静态的(第一个网页由蒂姆·伯纳斯·李于 1991 年 8 月 6 日上线)，因为当时的服务器非常原始，没有 PHP 之类的脚本语言或 MySQL 之类的数据库。[![](img/78cb9deb6ac6bd7103ff4cd5b4adee7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mej3tsKj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.cimg/589177ab-c934-40fd-b3b6-d295395a9efe.png)
 
 ## 选择静态方式的原因？
 
@@ -78,7 +78,7 @@ Jekyll 拥有其他静态生成器中最大的社区，提供了大量优秀的�
 
 在《StackOverflow》中，哲基尔的相关问题比雨果和赫克索都多
 
-[![](../Images/9a9a72e729d849f356ec1680da46c3d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8cYDPNO---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.com/images/45ba2c16-e792-4c5f-b67a-ea4c66a324dd.png)
+[![](img/9a9a72e729d849f356ec1680da46c3d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8cYDPNO---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.cimg/45ba2c16-e792-4c5f-b67a-ea4c66a324dd.png)
 
 ### 工作流程和易用性
 
@@ -103,7 +103,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 生成的网站使用了一个名为 [Minima](https://github.com/jekyll/minima) 的极简主题，这对作者来说是一个非常好的主题。
 
-[![](../Images/2990a98288d8565ed2829487e2f10837.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bAOC_sj---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/jekyll/minima/blob/master/screenshot.png)
+[![](img/2990a98288d8565ed2829487e2f10837.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bAOC_sj---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/jekyll/minima/blob/master/screenshot.png)
 
 然后，您可以在您的网站文件夹
 中导航
@@ -420,7 +420,7 @@ Gatsby 是一个基于 React 和 GraphQL(用于从不同来源提取数据，如
 
 Gatsby 也是一个渐进式 Web 应用程序生成器，因此您的静态网站是一个开箱即用的 PWA。你会有许多现代 web 开发的最佳实践，使你的应用程序成为可能，比如代码分割、关键的 CSS 和 JavaScript 以及资源预取等。
 
-[![](../Images/228df8e6d0adb36024980b1e713ea1b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EVmiQb1N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.com/images/8f1bc0a9-b908-4bed-83bc-50bcdbbb9af8.png)
+[![](img/228df8e6d0adb36024980b1e713ea1b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EVmiQb1N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.cimg/8f1bc0a9-b908-4bed-83bc-50bcdbbb9af8.png)
 
 要开始使用 Gatsby，您需要有一台安装了 Node 和 npm 的开发机器，然后运行以下命令:
 

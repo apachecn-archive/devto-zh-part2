@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kaelscion/py-in-5-lambda-functions-16ao>
 
-[![py in 5 lambdas](../Images/bf2263fb93207df5ea8675a91679ad4c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fcHNCGM5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/knqzt9r827nbrk7465er.jpg)
+[![py in 5 lambdas](img/bf2263fb93207df5ea8675a91679ad4c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fcHNCGM5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/knqzt9r827nbrk7465er.jpg)
 
 > ***原载于编码鸭博客:【www.ccstechme.com/coding-duck-blog】T2*T5】**
 

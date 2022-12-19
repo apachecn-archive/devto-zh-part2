@@ -52,21 +52,21 @@ Enter fullscreen mode Exit fullscreen mode
 
 注册完成后，点击顶部菜单中的**应用程序**。然后点击**添加应用**。
 
-[![Application Listing Screen](../Images/b67fc9bd291adf5f6802e41daee3192c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zJiptY23--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/add-auth-to-stencil/ApplicationListingScreen-008adbfcd6aba9acfd19054bca9bbd360a1e1d6f58b20ae85aa7532141c65c3f.png)
+[![Application Listing Screen](img/b67fc9bd291adf5f6802e41daee3192c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zJiptY23--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/add-auth-to-stencil/ApplicationListingScreen-008adbfcd6aba9acfd19054bca9bbd360a1e1d6f58b20ae85aa7532141c65c3f.png)
 
 然后，您将被带到应用程序创建向导。选择**单页 App** ，点击底部的**下一个**。
 
-[![Create Application Screen SPA](../Images/e66b78af3667c5bbe08731eb03421612.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PrO6e5kt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/add-auth-to-stencil/CreateApplicationScreenSPA-64f2eb2b85fdf060d61b602f1e77fca29f3a07c09a9be1224694b91106581647.png)
+[![Create Application Screen SPA](img/e66b78af3667c5bbe08731eb03421612.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PrO6e5kt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/add-auth-to-stencil/CreateApplicationScreenSPA-64f2eb2b85fdf060d61b602f1e77fca29f3a07c09a9be1224694b91106581647.png)
 
 在下一个屏幕上，您将看到单页应用程序模板提供的默认设置。将应用程序的名称改为更具描述性的名称，如“Stencil SPA”。此外，将基本 URIs 和登录重定向 URIs 设置更改为使用端口 3333，因为应用程序将在那里运行。其余的默认设置都没问题。
 
-[![Application Settings Screen](../Images/b973dd84db626083e90c3ea7e1f0ec4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UWnYKGDR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/add-auth-to-stencil/ApplicationSettingStencil-a5ef20862100e81001e35f69cf0c9b7c30155d8f54380e633d33cc1c59ac906b.png)
+[![Application Settings Screen](img/b973dd84db626083e90c3ea7e1f0ec4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UWnYKGDR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/add-auth-to-stencil/ApplicationSettingStencil-a5ef20862100e81001e35f69cf0c9b7c30155d8f54380e633d33cc1c59ac906b.png)
 
 点击底部的**完成**。
 
 从列表中选择您新创建的应用程序，点击 **General** 选项卡查看常规设置。
 
-[![General Settings Client Id](../Images/a8048081615ec8d4576fabaca08e12a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n_EhVsnP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/add-auth-to-stencil/GeneralSettingsClientId-f23a50d696788bf92c681465762a32e578ef6e52f733809722d47c32f9518dc9.png)
+[![General Settings Client Id](img/a8048081615ec8d4576fabaca08e12a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n_EhVsnP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/add-auth-to-stencil/GeneralSettingsClientId-f23a50d696788bf92c681465762a32e578ef6e52f733809722d47c32f9518dc9.png)
 
 在底部，您会看到一个**客户端 ID** 设置(显然，您的设置不会模糊)。复制这个在你的模板应用中使用。您还需要 Okta 组织的 URL，可以在仪表板页面的右上角找到。它可能看起来像“[https://dev-XXXXXX . oktapreview . com”](https://dev-XXXXXX.oktapreview.com%E2%80%9D)。
 
@@ -214,11 +214,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 您可以从 Okta 应用程序常规设置页面获得您的客户端 ID。
 
-[![General Settings Client Id](../Images/a8048081615ec8d4576fabaca08e12a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n_EhVsnP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/add-auth-to-stencil/GeneralSettingsClientId-f23a50d696788bf92c681465762a32e578ef6e52f733809722d47c32f9518dc9.png)
+[![General Settings Client Id](img/a8048081615ec8d4576fabaca08e12a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n_EhVsnP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/add-auth-to-stencil/GeneralSettingsClientId-f23a50d696788bf92c681465762a32e578ef6e52f733809722d47c32f9518dc9.png)
 
 您还需要您的 Okta org URL，位于 Okta 仪表板页面的右上角。
 
-[![Okta Dashboard Org Url](../Images/8b4ba52c1abe0b6d4f08600c17ec89eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yRNTGhWB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/add-auth-to-stencil/OktaOrgUrlDashboard-b9283a021008d94d056e5a4ac6d2b130ff00a71e8c4d6a44f7029af95392a8f1.png)
+[![Okta Dashboard Org Url](img/8b4ba52c1abe0b6d4f08600c17ec89eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yRNTGhWB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/add-auth-to-stencil/OktaOrgUrlDashboard-b9283a021008d94d056e5a4ac6d2b130ff00a71e8c4d6a44f7029af95392a8f1.png)
 
 现在已经为`login()`函数做好了一切准备，所以接下来您将创建它。在`render()`方法的正上方，添加一个`login()`函数。
 
@@ -497,7 +497,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，当你运行应用程序，你会看到一个很好的风格的应用程序，准备上网！
 
-[![Stencil App Login Page](../Images/bdf20d401c508c3a4d027a2541f03ccf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cmeaS_0O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/add-auth-to-stencil/StencilAppLoginPage-2790ae37ee773e9a4478da7f266be8908753c6f685a81c3de2618ae76b47d30c.png)
+[![Stencil App Login Page](img/bdf20d401c508c3a4d027a2541f03ccf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cmeaS_0O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/add-auth-to-stencil/StencilAppLoginPage-2790ae37ee773e9a4478da7f266be8908753c6f685a81c3de2618ae76b47d30c.png)
 
 ## 了解更多
 

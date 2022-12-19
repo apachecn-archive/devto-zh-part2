@@ -18,7 +18,7 @@
 
 利用神经深度学习网络的力量，这些智能工具可以很容易地猜测用户想要什么(如果有的话)，并根据他的个人资料定制建议。
 
-[![alt text](../Images/0f0f36eb93f3273f0bd92aff9b6a2a14.png "Machine learning improve targeting and increase revenue")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HfrwMmxy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AqBedrhjZDUi6Wxp9)
+[![alt text](img/0f0f36eb93f3273f0bd92aff9b6a2a14.png "Machine learning improve targeting and increase revenue")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HfrwMmxy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AqBedrhjZDUi6Wxp9)
 
 例如，如果你感到无聊，无法决定如何度过夜晚，外面正在下雨，你完全没有心情出门，movix.ai 可以帮你摆脱困境。该引擎类似于一个智能影院，帮助用户实时选择。
 
@@ -48,7 +48,7 @@
 
 对繁文缛节说“不”,是不是很神奇？机器学习可以走得更远，帮助处理更少的文件，并能够将注意力从花费太多时间处理的日常任务上转移开来。
 
-[![alt text](../Images/5afa2ff7db66b0dfa20514678f6c10eb.png "Machine learning killing bureaucracy")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GQi5RQtd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2ASUSgzIhY9iH9D7Xx)
+[![alt text](img/5afa2ff7db66b0dfa20514678f6c10eb.png "Machine learning killing bureaucracy")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GQi5RQtd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2ASUSgzIhY9iH9D7Xx)
 
 通过提供自动化的专利搜索，该公司节省了大量的文档筛选和审查时间。在对历史无效案例进行实验后，Amplified 创建了一个快速易用的系统，该系统由机器学习提供支持，可以优化搜索，从数百份文件中挑选出三到五个最相关的结果。有了这样的智能发展，专业人类搜索者的必要性和它的意见在几秒钟内变得模糊不清。
 

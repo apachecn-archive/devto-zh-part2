@@ -8,7 +8,7 @@
 
 黑客新闻线程这里:[https://news.ycombinator.com/item?id=17935408](https://news.ycombinator.com/item?id=17935408)
 
-[![We need you](../Images/28330c383f6e6f0d4ef0b308ac9ea979.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9-ZVYBFL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ply3u868az2m470aio51.jpg)
+[![We need you](img/28330c383f6e6f0d4ef0b308ac9ea979.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9-ZVYBFL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ply3u868az2m470aio51.jpg)
 
 * * *
 

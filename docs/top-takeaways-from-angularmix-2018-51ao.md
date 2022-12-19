@@ -8,4 +8,4 @@
 
 [读读🅰️🎡](https://auth0.com/blog/top-takeaways-from-angularmix-2018/?utm_source=dev&utm_medium=sc&utm_campaign=angularmix18_recap)
 
-[![Top Takeaways from AngularMix 2018](../Images/15c46a8255e0558559273f3c89db5fbd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ROTAACrE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n9k6ig7czlvz0tplqsh4.png)
+[![Top Takeaways from AngularMix 2018](img/15c46a8255e0558559273f3c89db5fbd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ROTAACrE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n9k6ig7czlvz0tplqsh4.png)

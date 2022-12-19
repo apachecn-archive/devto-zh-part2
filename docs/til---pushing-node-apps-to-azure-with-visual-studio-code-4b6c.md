@@ -12,7 +12,7 @@
 
 首先，当您开始身份验证过程时，它会要求您打开一个 URL 并输入一个代码:
 
-[![Azure prompt](../Images/99f7fadcd17d9221120f702107195715.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UODolRgo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/04/azurepin2.jpg)
+[![Azure prompt](img/99f7fadcd17d9221120f702107195715.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UODolRgo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/04/azurepin2.jpg)
 
 不要点击！如果你这样做了，那里的小面板就会消失，如果你的记忆和我一样，你就不会记得密码了。我不得不退出 VSC，并重新启动它再次得到提示。你可以在对话框中选择文本，并把它放在你的剪贴板上，或者只是草草记下。
 
@@ -22,10 +22,10 @@
 
 最后，该扩展支持从应用程序查看日志。这很酷，但它并不总是对我有效。也就是说，昨晚当我测试的时候，我遇到了一点麻烦，今天早上它似乎工作得非常好。
 
-[![Logs](../Images/902d4642580dbece33643c54c698dbb6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ylm2ajg6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/04/azure2.jpg)
+[![Logs](img/902d4642580dbece33643c54c698dbb6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ylm2ajg6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/04/azure2.jpg)
 
 最后，有点跑题，但是如果您开发 Visual Studio 代码扩展，请查看指南中的这个按钮:
 
-[![Install button](../Images/270ca8ed762449261e3a28b2d18960a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ATFKgNlI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/04/azure3.jpg)
+[![Install button](img/270ca8ed762449261e3a28b2d18960a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ATFKgNlI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/04/azure3.jpg)
 
 点击这个将打开 Visual Studio 代码到市场和扩展。这只是一个格式正确的网址，但我很惊讶地看到它工作得如此之好。(显然你需要安装 VSC 才能正常工作。)像任何优秀的 webdev 一样，我做了一个快速检查元素来查看 URL:vs code:extension/ms-azure tools . vs code-azureappservice。我很惊讶我没看到这个用得更多。

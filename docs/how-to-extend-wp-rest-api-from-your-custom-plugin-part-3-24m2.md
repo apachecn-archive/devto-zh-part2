@@ -33,7 +33,7 @@ WordPress REST API 有默认的路由和端点。它还允许开发人员添加�
 
 我们做得很棒。现在，如果我们向`wp-json/rest-tutorial/v1/restaurants`发送“GET”请求，我们将得到简单 JSON 格式的餐馆，如下图所示。
 
-[![](../Images/0b7e7c9486fc2a81f3778e2531a7318e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RznA1JvK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/upnrunn.com/wp-content/uploads/2018/04/restaurants_data.png%3Fresize%3D1130%252C602%26ssl%3D1)
+[![](img/0b7e7c9486fc2a81f3778e2531a7318e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RznA1JvK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/upnrunn.com/wp-content/uploads/2018/04/restaurants_data.png%3Fresize%3D1130%252C602%26ssl%3D1)
 
 类似地，我们可以注册另一条路线来获得单个餐馆项目。我们将让路线匹配任何带有`/restaurants/{id}`的内容，其中{id}是一个整数。检查以下代码。
 

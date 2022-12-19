@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nandod1707/we-launched-a-new-version-of-hackmetrix-still-free-just-better-5a7l>
 
-[![](../Images/6dd2eb6178871f177c74efa921f4bd95.png)T2】](https://hackmetrix.com)
+[![](img/6dd2eb6178871f177c74efa921f4bd95.png)T2】](https://hackmetrix.com)
 
 嘿大家好！Nando，在此为 Hackmetrix 团队撰写文章。
 

@@ -4,7 +4,7 @@
 
 我为一家中国软件公司制作了这款游戏，该公司的最终客户是一家连锁珠宝店，他们想要一款微信游戏来宣传自己，在一周内给玩家一些奖品和优惠券(以庆祝 11 月 11 日的[中国光棍节](https://en.wikipedia.org/wiki/Singles%27_Day))。[微信(微信)](https://es.wikipedia.org/wiki/WeChat)是中国使用最多的移动设备即时通讯客户端，由[腾讯](https://en.wikipedia.org/wiki/Tencent)(也是拥有 [QQ](https://es.wikipedia.org/wiki/QQ) 的同一家公司)制造。
 
-[![Screenshot](../Images/64044bbb9bb4268ead9c0bac015cb3bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2BhbNpVk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://joanalbamaldonado.com/portfolio/img/content/super_queue.jpg)
+[![Screenshot](img/64044bbb9bb4268ead9c0bac015cb3bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2BhbNpVk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://joanalbamaldonado.com/portfolio/img/content/super_queue.jpg)
 
 这些图形是由乔安(乔安)而中文翻译是由董双丽(董·)。开发了将近一个月。
 

@@ -2,11 +2,11 @@
 
 > 原文：<https://dev.to/santhoshchinnasamy/best-chrome-extensions-for-web-developers-and-designers-4kcj>
 
-[![Story 288203648](../Images/3c65bd66457f52981b7783afc882032f.png "Story 288203648")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y1d2LSvW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.specificfeeds.com/rssubscribers/rss_show_story_count/288203648/661696)
+[![Story 288203648](img/3c65bd66457f52981b7783afc882032f.png "Story 288203648")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y1d2LSvW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.specificfeeds.com/rssubscribers/rss_show_story_count/288203648/661696)
 
 Chrome 扩展对开发者和设计者都非常有用，有些扩展增强了开发者工具的功能，有些复制了开发者工具的特性。chrome 市场上的每个扩展在某些情况下都是有价值的，但是安装所有的扩展并不是一件明智的事情。在众多扩展中，有一些扩展可供 web 开发人员和 web 设计人员使用。本文列出了几个有价值的扩展来帮助新的开发人员和设计人员。
 
-<figure>[![web develpment image](../Images/9237f5b867076957a90810dcb2f3ba42.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--22pEZQJd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/bleedbytes.in/wp-content/uploads/2018/11/web-1935737_1920.png%3Fw%3D696%26ssl%3D1) 
+<figure>[![web develpment image](img/9237f5b867076957a90810dcb2f3ba42.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--22pEZQJd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/bleedbytes.in/wp-content/uploads/2018/11/web-1935737_1920.png%3Fw%3D696%26ssl%3D1) 
 
 <figcaption>*来源 Pixabay*</figcaption>
 
@@ -26,7 +26,7 @@ chrome extension 有助于发现站点中实现的技术栈。只需单击一下
 
 ## ColorZilla
 
-<figure>[![color palette image](../Images/0ff411b6ea626e5f723e1e8e28b1dd4c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--up63QKon--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/bleedbytes.in/wp-content/uploads/2018/11/color-1065389_1280.png%3Fw%3D696%26ssl%3D1) 
+<figure>[![color palette image](img/0ff411b6ea626e5f723e1e8e28b1dd4c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--up63QKon--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/bleedbytes.in/wp-content/uploads/2018/11/color-1065389_1280.png%3Fw%3D696%26ssl%3D1) 
 
 <figcaption>*来源 Pixabay*</figcaption>
 
@@ -40,7 +40,7 @@ Colorzilla 能够从 flash 对象中选择颜色，从缩放级别中选择颜�
 
 ## 用户快照
 
-<figure>[![feedback image](../Images/de596fe1c204570f1ec4d5b5fddcfa61.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3tIRi6gP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/images.pexels.com/photos/263532/pexels-photo-263532.jpeg%3Fresize%3D696%252C418%26ssl%3D1) 
+<figure>[![feedback image](img/de596fe1c204570f1ec4d5b5fddcfa61.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3tIRi6gP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/images.pexels.com/photos/263532/pexels-photo-263532.jpeg%3Fresize%3D696%252C418%26ssl%3D1) 
 
 <figcaption>*源像素*</figcaption>
 
@@ -50,7 +50,7 @@ Colorzilla 能够从 flash 对象中选择颜色，从缩放级别中选择颜�
 
 Usersnap 会自动在拍摄的图像上添加浏览器版本、操作系统和屏幕分辨率。
 
-<figure>[![ruler image](../Images/e03a891b047f9b8aaf0fda295c271d3a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tL5aQ_Pk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1529651795107-e5a141e34843%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3Deaae5772ad6214fd794de568f7bd1f82%26auto%3Dformat%26fit%3Dcrop%26w%3D750%26q%3D80) 
+<figure>[![ruler image](img/e03a891b047f9b8aaf0fda295c271d3a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tL5aQ_Pk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1529651795107-e5a141e34843%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3Deaae5772ad6214fd794de568f7bd1f82%26auto%3Dformat%26fit%3Dcrop%26w%3D750%26q%3D80) 
 
 <figcaption>*源不溅*</figcaption>
 

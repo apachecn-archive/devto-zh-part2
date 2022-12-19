@@ -8,10 +8,10 @@
 
 我的人生达到了一个新的(迄今为止最大的)里程碑...可以说是出版生涯...dev.to 上有 1000 多名粉丝
 
-> ![unknown tweet media content](../Images/68ecec328b89a5ceb5d49d50430a78b4.png)![Play butt](../Images/980e9fb12d58fa9423fc94c33003fc4f.png)<video loop="" controls=""><source src="https://video.twimg.com/tweet_video/DpuA7KEXUAET_XX.mp4" type="video/mp4"></video>![BG Adrian ⚛ profile image](../Images/c9ed80d75c5fb5a4e0a257ad9db9bc79.png)BG 阿德里安·⚛@ b3at![twitter logo](../Images/65e26e35707d96169ec8af6b3cbf2003.png)这些年我都是“找错了对象”
+> ![unknown tweet media content](img/68ecec328b89a5ceb5d49d50430a78b4.png)![Play butt](img/980e9fb12d58fa9423fc94c33003fc4f.png)<video loop="" controls=""><source src="https://video.twimg.com/tweet_video/DpuA7KEXUAET_XX.mp4" type="video/mp4"></video>![BG Adrian ⚛ profile image](img/c9ed80d75c5fb5a4e0a257ad9db9bc79.png)BG 阿德里安·⚛@ b3at![twitter logo](img/65e26e35707d96169ec8af6b3cbf2003.png)这些年我都是“找错了对象”
 > 推特——10 年——226 个追随者
 > 中——1 年——234 个追随者
-> [@ThePracticalDev【上....我来了！](https://twitter.com/ThePracticalDev)2018 年 10 月 17 日下午 15:07[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1052576779813171200)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1052576779813171200)0[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1052576779813171200)2
+> [@ThePracticalDev【上....我来了！](https://twitter.com/ThePracticalDev)2018 年 10 月 17 日下午 15:07[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1052576779813171200)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1052576779813171200)0[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1052576779813171200)2
 
 就像我在 twitter 上说的，我一直在错误的平台上“写作”。
 

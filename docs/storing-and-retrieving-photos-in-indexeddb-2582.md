@@ -128,11 +128,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 请注意，您必须将二进制数据返回到 base64 进行渲染，这是底部的`btoa`部分。这是我从未用过的函数之一，直到我发现它是一个随机的 StackOverflow 问题。我也完全读懂了毛伊岛的声音:
 
-[![](../Images/396da17320fe076fe0a00719316ab6ad.png "Closeup of Maui")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9pCRm-ET--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/10/maui.jpg)
+[![](img/396da17320fe076fe0a00719316ab6ad.png "Closeup of Maui")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9pCRm-ET--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/10/maui.jpg)
 
 这很有效。我在我的 Android 设备上的桌面和移动 Chrome 上进行了测试。
 
-[![](../Images/cf5fac2938d23208602140d280ce0c6b.png "Chrome Devtools")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m2ClQ4_l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/10/maui2.jpg)
+[![](img/cf5fac2938d23208602140d280ce0c6b.png "Chrome Devtools")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m2ClQ4_l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/10/maui2.jpg)
 
 这可能有点难以理解，但如果你不知道，Chrome 可以“远程调试”通过 USB 连接的 Android 设备。你可以通过桌面打开 URL，打开开发工具，甚至获得浏览器的屏幕截图。它非常方便，虽然不是新的，但却是一个很好的工具。
 

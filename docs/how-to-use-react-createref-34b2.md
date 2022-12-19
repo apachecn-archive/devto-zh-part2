@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/how-to-use-react-createref-34b2>
 
-[![Alt Text](../Images/0024a2460c101d00dc7f140fd40faabc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hB3IBARz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7ggrkrilkhnxm1elihsc.jpeg)
+[![Alt Text](img/0024a2460c101d00dc7f140fd40faabc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hB3IBARz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7ggrkrilkhnxm1elihsc.jpeg)
 
 如果你已经开发 web 应用足够长的时间，那么很可能在某个时候你已经使用过 JavaScript [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) 库，比如 [jQuery](http://jquery.com/) 、 [Mootools](https://mootools.net/) 、 [Prototype.js](http://prototypejs.org/learn/) 等。这些库的出现带来了交互式 web 应用程序构建方式的重大转变。有了 DOM 抽象 API，操纵 web 应用程序的内容变得容易多了。
 
@@ -26,7 +26,7 @@ $('#button').on('click', function(evt) {
 
 在本教程中，我们将考虑如何在 React 应用程序中与 DOM 交互。我们还将看到如何使用 React 16.3 中引入的 React.createRef()特性。
 
-[![](../Images/184dfcc3649f17c50808cfdfb9409f6a.png)T2】](https://logrocket.com/?cid=banner_b)
+[![](img/184dfcc3649f17c50808cfdfb9409f6a.png)T2】](https://logrocket.com/?cid=banner_b)
 
 ### 参与 DOM
 
@@ -103,7 +103,7 @@ class MyComponent extends React.Component {
 
 这是一个交互的示例演示:
 
-[![](../Images/cc04a638fcec696a6ad0cff8302b640d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vB5RFEyv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/960/1%2AgQcZppwPPsdZnNQFcydk0g.gif) 
+[![](img/cc04a638fcec696a6ad0cff8302b640d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vB5RFEyv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/960/1%2AgQcZppwPPsdZnNQFcydk0g.gif) 
 
 <figcaption>样本演示截图</figcaption>
 
@@ -326,7 +326,7 @@ const MyComponent = (props) => {
 
 这是一个交互的示例演示:
 
-[![](../Images/b0ebe81c3c690fb1b29a1bfd96081429.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MQt-Uz8T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/960/1%2A4ShHAxNZEK5Ehzz4gUTg-w.gif) 
+[![](img/b0ebe81c3c690fb1b29a1bfd96081429.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MQt-Uz8T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/960/1%2A4ShHAxNZEK5Ehzz4gUTg-w.gif) 
 
 <figcaption>样本演示截图</figcaption>
 
@@ -367,7 +367,7 @@ class ControlledFormInput extends React.Component {
 
 这是一个交互的示例演示:
 
-[![](../Images/f079be548b503cb2801eca54afffc200.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8JviwcJn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/960/1%2A2x_IokLKX8ode_9jfI3avg.gif) 
+[![](img/f079be548b503cb2801eca54afffc200.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8JviwcJn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/960/1%2A2x_IokLKX8ode_9jfI3avg.gif) 
 
 <figcaption>受控组件演示</figcaption>
 
@@ -418,7 +418,7 @@ this.setState({ value: evt.target.value });
 
 演示与受控版本相同。这是一个交互的示例演示:
 
-[![](../Images/9b503baecb25360c11ad5cc0edeb5c59.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fTVUCYcX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/960/1%2AcxY0_-IhqfcsIe3ATYzCfg.gif) 
+[![](img/9b503baecb25360c11ad5cc0edeb5c59.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fTVUCYcX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/960/1%2AcxY0_-IhqfcsIe3ATYzCfg.gif) 
 
 <figcaption>非受控组件演示</figcaption>
 
@@ -432,7 +432,7 @@ this.setState({ value: evt.target.value });
 
 ### Plug: [LogRocket](http://logrocket.com) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

@@ -48,7 +48,7 @@ Namespaces are one honking great idea -- let's do more of those!
 
 想象一下，如果你进入一家公司，没有关于代码的文档，没有部署说明，没有开发设置，只有代码。你能捡起它并在别人留下的地方继续工作吗？可能不会，我们都需要更好的代码维护和新系统开发人员的最佳实践！维护一个没有良好实践的大型代码库就像这个迷因:
 
-[![Image result for everything is fine dog meme](../Images/559ebd052d864b4fa690ee8d1374ab91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TxYrYi9a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.geek.com/wp-content/uploads/2016/08/this-is-fine-meme-625x350.jpg)
+[![Image result for everything is fine dog meme](img/559ebd052d864b4fa690ee8d1374ab91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TxYrYi9a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.geek.com/wp-content/uploads/2016/08/this-is-fine-meme-625x350.jpg)
 
 最佳编码实践是团队中所有开发人员都知道并应用的实践，也可以传递给新开发人员。以下是一些可能有用的最佳实践的使用案例:
 

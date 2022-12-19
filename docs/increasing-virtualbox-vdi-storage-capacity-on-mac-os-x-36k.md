@@ -5,7 +5,7 @@
 *原载于[媒体](https://medium.com/@akshay.g174_68301/increasing-virtualbox-vdi-capacity-on-mac-os-x-ac4d52b63f0c)T3】*
 
 [![Resizing you Virtual Box storage is as simple as resizing this image, not really<br>
-](../Images/c9f8641345fb2e0d7a19dcd5ffd1036f.png "Resizing you Virtual Box storage is as simple as resizing this image, not really")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A1pSgsSW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Abn4isgq4L6kLoIBEn0kqkg.png)
+](img/c9f8641345fb2e0d7a19dcd5ffd1036f.png "Resizing you Virtual Box storage is as simple as resizing this image, not really")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A1pSgsSW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Abn4isgq4L6kLoIBEn0kqkg.png)
 
 我在 Mac 上使用 VirtualBox 安装程序运行 Ubuntu 作为访客操作系统。这个设置帮助我在本地开发机器上模拟生产环境。VirtualBox 对于任何试图运行访客操作系统的人来说都是一个非常方便的软件。虽然有一个初始的学习曲线，但它的乐趣。我已经使用这个系统一年多了，它很适合我。嗯，嗯，直到今天…
 
@@ -21,7 +21,7 @@
     右键单击虚拟机- >单击设置- >存储- >在左侧的存储树上选择您的 VDI->位置会有您的路径。植物草图索引（vegetation draught index 的缩写）
 
 [![Path to the VDI is highlighted<br>
-](../Images/090d50d310b049df18b5b410f03e4f5b.png "Path to the VDI is highlighted")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UXBSrWBK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Aigq15rMNn2aI61R5B903CA.png)
+](img/090d50d310b049df18b5b410f03e4f5b.png "Path to the VDI is highlighted")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UXBSrWBK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Aigq15rMNn2aI61R5B903CA.png)
 
 *   关闭虚拟机并退出 VirtualBox
 *   导航到 VBoxManage 应用工具文件夹，打开终端应用程序，然后键入以下命令
@@ -40,7 +40,7 @@ VBoxManage modifyhd — resize [new size in MB] [/path/to/vdi]
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Is it over yet?](../Images/d1d08158a6dd676e622573fa4c7935c4.png "Is it over yet?")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DTe81iGc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AOfT1MxmR0MwJE9oYKufVZQ.png)
+[![Is it over yet?](img/d1d08158a6dd676e622573fa4c7935c4.png "Is it over yet?")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DTe81iGc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AOfT1MxmR0MwJE9oYKufVZQ.png)
 
 提示:注意空格前的“\”。这用于转义路径中的空格字符。
 
@@ -52,7 +52,7 @@ VBoxManage showhdinfo [/path/to/vdi]
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Yay!!](../Images/0acd7c85104ece5a81f5c79556515810.png "Yay!!")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gF7bVOaz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A9hcwL4UFmM4FensdSyG7gw.png)
+[![Yay!!](img/0acd7c85104ece5a81f5c79556515810.png "Yay!!")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gF7bVOaz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A9hcwL4UFmM4FensdSyG7gw.png)
 
 *   启动 VirtualBox 和虚拟机
 

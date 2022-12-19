@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/scalegrid/how-to-use-mongodb-connection-pooling-on-aws-lambda-43h6>
 
-[![How to Use MongoDB Connection Pooling on AWS Lambda - ScaleGrid Blog](../Images/e770b97fe9efcb4e246756992b7c9dd4.png)T2】](https://scalegrid.io/blog/how-to-use-mongodb-connection-pooling-on-aws-lambda/?utm_campaign=Blog%20-%20How%20to%20Use%20MongoDB%20Connection%20Pooling%20on%20AWS%20Lambda&utm_source=Dev.to%20-%20MongoDB%20Connection%20Pooling%20Blog&utm_medium=Dev.to%20-%20MongoDB%20Connection%20Pooling%20Blog&utm_term=Dev.to%20-%20MongoDB%20Connection%20Pooling%20Blog&utm_content=Dev.to%20-%20MongoDB%20Connection%20Pooling%20Blog)
+[![How to Use MongoDB Connection Pooling on AWS Lambda - ScaleGrid Blog](img/e770b97fe9efcb4e246756992b7c9dd4.png)T2】](https://scalegrid.io/blog/how-to-use-mongodb-connection-pooling-on-aws-lambda/?utm_campaign=Blog%20-%20How%20to%20Use%20MongoDB%20Connection%20Pooling%20on%20AWS%20Lambda&utm_source=Dev.to%20-%20MongoDB%20Connection%20Pooling%20Blog&utm_medium=Dev.to%20-%20MongoDB%20Connection%20Pooling%20Blog&utm_term=Dev.to%20-%20MongoDB%20Connection%20Pooling%20Blog&utm_content=Dev.to%20-%20MongoDB%20Connection%20Pooling%20Blog)
 
 在本文中，我们将向您展示如何使用 Node.js 和 Java 驱动程序在 AWS Lambda 上使用 MongoDB 连接池。
 
@@ -195,9 +195,9 @@ function prepareResponse(result, err) {
 
 为了验证使用连接池的性能和优化，我们对 Java 和 Node.js Lambda 函数进行了一些测试。使用 AWS API 网关作为触发器，我们以每次迭代 50 个请求的突发调用函数，并确定每次迭代中请求的平均响应时间。对 Lambda 函数重复了这个测试，最初不使用连接池，后来使用连接池。
 
-[![Java Driver Response Times: MongoDB Connection Pool on AWS Lambda](../Images/c8a358c0a43640dd173390bf651a14ae.png)T2】](https://scalegrid.io/blog/how-to-use-mongodb-connection-pooling-on-aws-lambda/?utm_campaign=Blog%20-%20How%20to%20Use%20MongoDB%20Connection%20Pooling%20on%20AWS%20Lambda&utm_source=Dev.to%20-%20MongoDB%20Connection%20Pooling%20Blog&utm_medium=Dev.to%20-%20MongoDB%20Connection%20Pooling%20Blog&utm_term=Dev.to%20-%20MongoDB%20Connection%20Pooling%20Blog&utm_content=Dev.to%20-%20MongoDB%20Connection%20Pooling%20Blog)
+[![Java Driver Response Times: MongoDB Connection Pool on AWS Lambda](img/c8a358c0a43640dd173390bf651a14ae.png)T2】](https://scalegrid.io/blog/how-to-use-mongodb-connection-pooling-on-aws-lambda/?utm_campaign=Blog%20-%20How%20to%20Use%20MongoDB%20Connection%20Pooling%20on%20AWS%20Lambda&utm_source=Dev.to%20-%20MongoDB%20Connection%20Pooling%20Blog&utm_medium=Dev.to%20-%20MongoDB%20Connection%20Pooling%20Blog&utm_term=Dev.to%20-%20MongoDB%20Connection%20Pooling%20Blog&utm_content=Dev.to%20-%20MongoDB%20Connection%20Pooling%20Blog)
 
-[![Node.js Driver Response Times: MongoDB Connection Pool on AWS Lambda](../Images/572a2418ca06578b67c5bbfaa6b54fc5.png)T2】](https://scalegrid.io/blog/how-to-use-mongodb-connection-pooling-on-aws-lambda/?utm_campaign=Blog%20-%20How%20to%20Use%20MongoDB%20Connection%20Pooling%20on%20AWS%20Lambda&utm_source=Dev.to%20-%20MongoDB%20Connection%20Pooling%20Blog&utm_medium=Dev.to%20-%20MongoDB%20Connection%20Pooling%20Blog&utm_term=Dev.to%20-%20MongoDB%20Connection%20Pooling%20Blog&utm_content=Dev.to%20-%20MongoDB%20Connection%20Pooling%20Blog)
+[![Node.js Driver Response Times: MongoDB Connection Pool on AWS Lambda](img/572a2418ca06578b67c5bbfaa6b54fc5.png)T2】](https://scalegrid.io/blog/how-to-use-mongodb-connection-pooling-on-aws-lambda/?utm_campaign=Blog%20-%20How%20to%20Use%20MongoDB%20Connection%20Pooling%20on%20AWS%20Lambda&utm_source=Dev.to%20-%20MongoDB%20Connection%20Pooling%20Blog&utm_medium=Dev.to%20-%20MongoDB%20Connection%20Pooling%20Blog&utm_term=Dev.to%20-%20MongoDB%20Connection%20Pooling%20Blog&utm_content=Dev.to%20-%20MongoDB%20Connection%20Pooling%20Blog)
 
 上面的图表显示了每次迭代中请求的平均响应时间。您可以在这里看到使用连接池执行数据库操作时响应时间的差异。使用连接池的响应时间要低得多，因为连接池只初始化一次并重用连接，而不是为每个数据库操作打开和关闭连接。
 
@@ -229,4 +229,4 @@ Lambda 函数是无状态和异步的，通过使用数据库连接池，您将�
 
 T5】！【若 LTE IE 8】>
 
-[![Check out MongoDB Hosting plans](../Images/047bb2b99563ebbd73faae4c91a9492f.png)T3】//&lt；！[CDATA[<br>hbspt . CTA . load(3848622，&# 39；EEC 15 eab-7aa 3-4664-9347-cebd 196 D8 ed 4&# 39；, {});<br>//]]&gt；<！-结束 HubSpot 行动号召代码- >](https://cta-redirect.hubspot.com/cta/redirect/3848622/eec15eab-7aa3-4664-9347-cebd196d8ed4)
+[![Check out MongoDB Hosting plans](img/047bb2b99563ebbd73faae4c91a9492f.png)T3】//&lt；！[CDATA[<br>hbspt . CTA . load(3848622，&# 39；EEC 15 eab-7aa 3-4664-9347-cebd 196 D8 ed 4&# 39；, {});<br>//]]&gt；<！-结束 HubSpot 行动号召代码- >](https://cta-redirect.hubspot.com/cta/redirect/3848622/eec15eab-7aa3-4664-9347-cebd196d8ed4)

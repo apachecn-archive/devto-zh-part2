@@ -54,7 +54,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在到了有趣的部分。当你只有一个窗口时，你如何运行多个窗口？虚拟窗口管理器。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [托马斯·西佩斯福克斯](https://github.com/ThomasTheSpaceFox) / [唑酮开窗框架](https://github.com/ThomasTheSpaceFox/Strazoloid-windowing-framework)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [托马斯·西佩斯福克斯](https://github.com/ThomasTheSpaceFox) / [唑酮开窗框架](https://github.com/ThomasTheSpaceFox/Strazoloid-windowing-framework)
 
 ### Strazoloid 是 pygame 应用程序和游戏的虚拟窗口管理器。对于创建自定义多窗口环境非常有用。例如许多 2D 模拟游戏。
 
@@ -138,7 +138,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 # 僵尸
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [托马斯·塞斯佩克斯](https://github.com/ThomasTheSpaceFox) / [佐森弗](https://github.com/ThomasTheSpaceFox/Zoxenpher)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [托马斯·塞斯佩克斯](https://github.com/ThomasTheSpaceFox) / [佐森弗](https://github.com/ThomasTheSpaceFox/Zoxenpher)
 
 ### 一个 python/pygame gopherspace 客户端，复古的桌面 GUI 风格。
 
@@ -154,7 +154,7 @@ v3.0.0.indev
 *   libgop gopher 库 v0.2
 *   strazoloid 虚拟窗口管理器框架 1.4.0 版
 
-[![Screenshot of Zoxenpher](../Images/4ae101ad699365fd8bb0457ef867c663.png)T2】](https://raw.githubusercontent.com/ThomasTheSpaceFox/Zoxenpher/master//vgop/screenshots/zoxenpher1.jpg)
+[![Screenshot of Zoxenpher](img/4ae101ad699365fd8bb0457ef867c663.png)T2】](https://raw.githubusercontent.com/ThomasTheSpaceFox/Zoxenpher/master//vgop/screenshots/zoxenpher1.jpg)
 
 版权所有(c) 2018-2020 托马斯皮革和贡献者
 
@@ -175,7 +175,7 @@ GNU 通用公共许可证。
 
 [View on GitHub](https://github.com/ThomasTheSpaceFox/Zoxenpher)
 
-[![Screenshot of zoxenpher](../Images/e43d60f716122b5c960592902fc7fc29.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hRvSqe_A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5if5xunhqi8ua0o4wq7v.jpg) 
+[![Screenshot of zoxenpher](img/e43d60f716122b5c960592902fc7fc29.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hRvSqe_A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5if5xunhqi8ua0o4wq7v.jpg) 
 
 结合定制的 gopher 解析器/访问库，一些特定于实现的代码，以及 strazoloidwm 的强大功能，zoxenpher 是一个整洁的 gopher 客户端肯定，我能够很快获得基本的功能，因为许多繁重的工作已经由 strazoloidwm 处理。
 

@@ -4,7 +4,7 @@
 
 Docker 在过去 5 年中在技术领域的流行是一个保守的说法。在过去的五年里，它的使用和受欢迎程度都出现了爆炸式的增长。集装箱给我们带来了风暴。没有容器化的新应用程序感觉缺少了什么。Docker 已经脱颖而出，成为集装箱领域的王者。这篇文章详细介绍了在你的开发环境中使用 Docker 的原因。
 
-[![Reasons to use Docker in dev](../Images/6edd79da753625b6b3a793a56c423224.png "Reasons to use Docker in dev")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QMazWI-L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://geshan.com.np/images/why-docker/whale.jpg)
+[![Reasons to use Docker in dev](img/6edd79da753625b6b3a793a56c423224.png "Reasons to use Docker in dev")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QMazWI-L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://geshan.com.img/why-docker/whale.jpg)
 
 ## TLDR；
 
@@ -16,7 +16,7 @@ Docker 在过去 5 年中在技术领域的流行是一个保守的说法。在�
 
 Docker 有很多优点，但最重要的是容器类比。你不仅要交付你的代码，还要以标准的方式交付整个操作系统和所有相关层。它是一个完整的包，包含正确的操作系统版本、所需的语言版本、应用程序的任何外部依赖项以及应用程序代码。这也是一种轻量级的、孤立的和资源可控的方式。这是 docker 吹走虚拟机的地方。
 
-[![Reasons to use Docker in dev](../Images/10f1ffd63c5bc3693d30cb8dd5a42cbd.png "Reasons to use Docker in dev")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JpimxEZY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://geshan.com.np/images/why-docker/ship.jpg)
+[![Reasons to use Docker in dev](img/10f1ffd63c5bc3693d30cb8dd5a42cbd.png "Reasons to use Docker in dev")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JpimxEZY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://geshan.com.img/why-docker/ship.jpg)
 
 ## 开发环境使用 Docker 的理由
 

@@ -25,15 +25,15 @@
 想在你的网站或/和社交媒体上分享这张照片吗？只需复制并粘贴下面的代码。
 
 ```
-<textarea onclick='this.focus();this.select()' style='width:700;height:400'><p><strong>Please include attribution to kolosek.com with this graphic.</strong><br /><br /><a href='https://kolosek.com/10-ways-to-improve-your-website-design/'><img src='https://kolosek.com/content/images/2018/02/Infographic-main.png' alt='Infographic-website design' width='720' border='0' /></a></p></textarea> 
+<textarea onclick='this.focus();this.select()' style='width:700;height:400'><p><strong>Please include attribution to kolosek.com with this graphic.</strong><br /><br /><a href='https://kolosek.com/10-ways-to-improve-your-website-design/'><img src='https://kolosek.com/conteimg/2018/02/Infographic-main.png' alt='Infographic-website design' width='720' border='0' /></a></p></textarea> 
 ```
 
 还是横版:
 
 ```
-<textarea onclick='this.focus();this.select()' style='width:700;height:400'><p><strong>Please include attribution to kolosek.com with this graphic.</strong><br /><br /><a href='https://kolosek.com/10-ways-to-improve-your-website-design/'><img src='https://kolosek.com/content/images/2018/02/Infographic-horizontal.png' alt='Infographic-website design' width='1101' border='0' /></a></p></textarea> 
+<textarea onclick='this.focus();this.select()' style='width:700;height:400'><p><strong>Please include attribution to kolosek.com with this graphic.</strong><br /><br /><a href='https://kolosek.com/10-ways-to-improve-your-website-design/'><img src='https://kolosek.com/conteimg/2018/02/Infographic-horizontal.png' alt='Infographic-website design' width='1101' border='0' /></a></p></textarea> 
 ```
 
-[![Infographic-website design](../Images/e9749903dda863b9e2e877668227ebd1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7LTb-QT1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://kolosek.com/content/images/2018/02/Infographic-main.png)
+[![Infographic-website design](img/e9749903dda863b9e2e877668227ebd1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7LTb-QT1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://kolosek.com/conteimg/2018/02/Infographic-main.png)
 
 这篇文章最初发表在 [Kolosek 博客](https://kolosek.com/10-ways-to-improve-your-website-design/)上。

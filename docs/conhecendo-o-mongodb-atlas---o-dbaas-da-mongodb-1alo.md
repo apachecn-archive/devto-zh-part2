@@ -26,7 +26,7 @@ mongodb atlas 支持在以下三个主要云提供商中部署环境:AWS、googl
 
 仅在美国东部的 AWS 中允许使用 M0 层。现在，它仍然只在 AWS，但有另一个区域:我-中心-1 在德国法兰克福。
 
-[![Provedor de Nuvem e Região](../Images/9efe3d2fb9077f2467ad760cce4bdf53.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D_gqJmGQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xupljboad3ztrbgvfcd0.png)
+[![Provedor de Nuvem e Região](img/9efe3d2fb9077f2467ad760cce4bdf53.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D_gqJmGQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xupljboad3ztrbgvfcd0.png)
 
 ## Tipos de Clusters
 
@@ -44,13 +44,13 @@ mongodb atlas 提供了三种群集类型，分为以下几类:
 
 具有更强大机器的群集，并且可以自订 M40 或更高版本的磁碟(大小和速度)。
 
-[![Tipos de Cluster MongoDB Atlas](../Images/26b3eb313757e443d01798f44e5c4a36.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Aocmnw9E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wyse5ukjftsen0dgbcey.png)
+[![Tipos de Cluster MongoDB Atlas](img/26b3eb313757e443d01798f44e5c4a36.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Aocmnw9E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wyse5ukjftsen0dgbcey.png)
 
 我隐藏了价格列，因为它们可能会随着时间的推移而变化，但您可以在站点上了解群集在配置时的成本。
 
 从 M10 开始，您可以配置 10GB 到 4TB 的磁盘大小。从 M30 开始，除了大小之外，我们还可以通过选择三个级别来配置磁盘速度，这三个级别会改变 IOPS 的数量。
 
-[![Customização de discos](../Images/fc8ae559c0f0c235cd1d51f3f1373477.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--suGJ7dV8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ip9ds07ow4k2l8zz8rh6.png)
+[![Customização de discos](img/fc8ae559c0f0c235cd1d51f3f1373477.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--suGJ7dV8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ip9ds07ow4k2l8zz8rh6.png)
 
 ## 其他设置
 
@@ -58,7 +58,7 @@ mongodb atlas 提供了三种群集类型，分为以下几类:
 
 从 M30 开始，我们提供了 Sharding 选项，其中提供了更多的复制集，您可以根据需要配置更多的复制集。
 
-[![Configurações adicionais](../Images/d7c8fc55aa3da005d9482679f458a3e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8mt5ENd---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/poq2or4a9uey5htbktz5.png)
+[![Configurações adicionais](img/d7c8fc55aa3da005d9482679f458a3e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8mt5ENd---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/poq2or4a9uey5htbktz5.png)
 
 ## 集群名称
 
@@ -68,8 +68,8 @@ mongodb atlas 提供了三种群集类型，分为以下几类:
 
 现在您已经部署了群集，只需连接到群集并向数据发送子弹。单击 *CONNECT* 按钮，您将看到各种连接选项，例如 mongoshell、各种编程语言(甚至 Java rssss)的连接字符串示例，以及如何通过[mongob compass](https://www.mongodb.com/products/compass)连接到群集。此外，我们还可以在此屏幕上指定 IPs 可以访问群集的内容。
 
-[![](../Images/abf5b11fb3baf0d4dd44c94894c49250.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0VwpwRvG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7xuw2gyh6s3q3g06lxf1.png)
-[![](../Images/a0d2bac2dbe723078a7a264779fe13e5.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--_mtCULuY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/72gv5c52csem5lnpos3t.png)
+[![](img/abf5b11fb3baf0d4dd44c94894c49250.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0VwpwRvG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7xuw2gyh6s3q3g06lxf1.png)
+[![](img/a0d2bac2dbe723078a7a264779fe13e5.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--_mtCULuY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/72gv5c52csem5lnpos3t.png)
 
 好了，伙计们，暂时如此！希望你们喜欢，任何疑问都可以留在评论里或者在社交网站上！
 

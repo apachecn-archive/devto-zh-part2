@@ -4,7 +4,7 @@
 
 这是我的 JVM 内存管理和调试系列的第 2 部分。点击此处阅读第 1 部分:
 
-[![rrampage](../Images/bec6c5c5b1a1ae239588667c16549de7.png)](/rrampage) [## JVM 内存管理和故障排除入门- 1
+[![rrampage](img/bec6c5c5b1a1ae239588667c16549de7.png)](/rrampage) [## JVM 内存管理和故障排除入门- 1
 
 ### 偈纳克罗摩克里希南 5 月 15 日 184 分钟阅读
 

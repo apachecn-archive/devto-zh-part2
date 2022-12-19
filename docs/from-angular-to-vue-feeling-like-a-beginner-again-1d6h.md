@@ -67,7 +67,7 @@
 
 <figure>
 
-[![](../Images/fade43ba6a16a6700239433a8a14e9d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PCTt7s0N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://florimondmanca-personal-website.s3.amazonaws.com/media/markdownx/7af66c43-a947-4a81-aad8-5d5b6bb55cbc.png)
+[![](img/fade43ba6a16a6700239433a8a14e9d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PCTt7s0N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://florimondmanca-personal-website.s3.amazonaws.com/media/markdownx/7af66c43-a947-4a81-aad8-5d5b6bb55cbc.png)
 
 <figcaption>Me generating a project using Vue CLI: "TypeScript! There you are!"</figcaption>
 
@@ -104,7 +104,7 @@ Vue 没有这样的服务概念，那还剩下什么？一个流行的选项似�
 
 <figure>
 
-[![](../Images/922d99b8678c05bd91d1d35d7dd75c9c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hOHCc77n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vuex.vuejs.org/vuex.png)
+[![](img/922d99b8678c05bd91d1d35d7dd75c9c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hOHCc77n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vuex.vuejs.org/vuex.png)
 
 <figcaption>The Vuex state management pattern. Looks sensible, but I hope it won't be too heavy. (Source: Vuex docs.)</figcaption>
 

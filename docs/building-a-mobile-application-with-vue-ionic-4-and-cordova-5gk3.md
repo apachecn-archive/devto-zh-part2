@@ -42,7 +42,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这将在端口 *8080* 上启动 Webpack 开发服务器。您可以使用 web 浏览器导航到 [http://localhost:8080](http://localhost:8080) 来查看您的 Vue 应用程序的启动和运行
 
-[![Vue application](../Images/b827027e3a407e572ed66d7e31463567.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vbdDF97D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.com/images/74239f95-bc6a-4084-8180-cc9a1ccd72c9.png)
+[![Vue application](img/b827027e3a407e572ed66d7e31463567.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vbdDF97D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.cimg/74239f95-bc6a-4084-8180-cc9a1ccd72c9.png)
 
 ## 添加离子 4
 
@@ -107,7 +107,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这利用了`<ion-list>`来显示一组项目
 
-[![](../Images/5e0c28b53d5e95e7165f4fbacddf7e7d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8Z2rjGkh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.com/images/8fa32336-2315-49e4-a55f-cce0037f5bb9.png)
+[![](img/5e0c28b53d5e95e7165f4fbacddf7e7d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8Z2rjGkh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.cimg/8fa32336-2315-49e4-a55f-cce0037f5bb9.png)
 
 您还可以使用任何其他 Ionic 4 组件，因此可以随意试验您的演示应用程序，以了解如何在 Vue 中使用 Ionic 组件。
 
@@ -213,7 +213,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们导入之前创建的 *Page2* 组件，然后添加一条新路线来设置导航。
 
-[![](../Images/3d887844442e9b9abe02d2ab2436bfd2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ghXL5Hvx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.com/images/7b4073ec-f658-4397-b154-3b874728c257.png)
+[![](img/3d887844442e9b9abe02d2ab2436bfd2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ghXL5Hvx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.cimg/7b4073ec-f658-4397-b154-3b874728c257.png)
 
 同样返回到`Page2.vue`并添加一个 Ionic 4 按钮导航回 *HelloWorld* 页面
 
@@ -236,7 +236,7 @@ methods: {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/7ed4e061b64235904518febda2849cac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T1YcezLf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.com/images/a4a36777-e1bd-4c81-8e5f-d909c7922278.png)
+[![](img/7ed4e061b64235904518febda2849cac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T1YcezLf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.cimg/a4a36777-e1bd-4c81-8e5f-d909c7922278.png)
 
 将 Ionic 与 Angular 配合使用时，您可以使用 *NavController* 来为您的应用程序明确定义路线，但将 Ionic 与 Vue 配合使用时，您没有任何 Vue 助手类来实现相同的功能，因此您需要手动定义路线。
 

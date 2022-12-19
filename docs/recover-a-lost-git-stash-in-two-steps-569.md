@@ -21,7 +21,7 @@ git fsck --unreachable | grep commit | cut -d ' ' -f3 | xargs git log --merges -
 Enter fullscreen mode Exit fullscreen mode
 
 它返回一个按日期排序的遗失物品列表。
-[![Ho, 3 lost stashes!](../Images/ced0cf64b567a562f1f5dc493d00d02d.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--4JIMymbF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e696wbixz6qvz2r3bc4w.png)
+[![Ho, 3 lost stashes!](img/ced0cf64b567a562f1f5dc493d00d02d.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--4JIMymbF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e696wbixz6qvz2r3bc4w.png)
 
 *   *要退出隐藏列表，按下 [Q 键](https://unsplash.com/search/photos/cookies)。*
 *   *使用`up`和`down`箭头在一个长长的隐藏列表中导航。*
@@ -64,7 +64,7 @@ Enter fullscreen mode Exit fullscreen mode
 提交消息还有助于 Git 客户端:
 
 *   我使用的 Git 客户端 GitUp 在显示未命名的隐藏时完全失败。这可能就是为什么你不能在 GitUp 中创建一个没有名字的存储库，这很好！
-*   众所周知的 [SourceTree](https://www.sourcetreeapp.com/) 成功地显示了未命名的藏身地，但是你可以猜到，这个列表浏览起来并不友好:![Unnamed stashes in SourceTree](../Images/71aa1f177e5245b6707f01c4f1350eb8.png)
+*   众所周知的 [SourceTree](https://www.sourcetreeapp.com/) 成功地显示了未命名的藏身地，但是你可以猜到，这个列表浏览起来并不友好:![Unnamed stashes in SourceTree](img/71aa1f177e5245b6707f01c4f1350eb8.png)
 
 ### 是的，`git stash apply` > `git stash pop`
 

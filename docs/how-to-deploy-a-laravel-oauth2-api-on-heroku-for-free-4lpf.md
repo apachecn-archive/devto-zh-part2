@@ -292,7 +292,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 2.  用户要么看到一个登录屏幕——或者如果他们已经登录了——他们会看到一个授权表单，允许你的前端应用程序访问他们的数据(类似于当你使用社交登录时 Twitter 的授权)。然后，API 将用户重定向回您提供的回调 URL，并发送一个秘密令牌。
 
-[![Laravel's default API permission authorization screen](../Images/d7b3fce44ff514720588d0b5b51e5185.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SJwBkAjy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://stayregular.net/content/2-blog/20180423-deploy-laravel-on-heroku-to-create-oauth2-0-api/laravel-passport-default-authorization-request.png)
+[![Laravel's default API permission authorization screen](img/d7b3fce44ff514720588d0b5b51e5185.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SJwBkAjy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://stayregular.net/content/2-blog/20180423-deploy-laravel-on-heroku-to-create-oauth2-0-api/laravel-passport-default-authorization-request.png)
 
 1.  您获取这个秘密令牌，并将其与您的客户机 ID、秘密和回调 URL 一起发送回 API。API 用另一个秘密令牌进行响应，这一次是通过登录授权的特定用户的个人访问令牌。这个个人访问令牌是[a**JWT**T3】或者 **JSON Web Token** ，这是一种在 API 之间进行授权的行业标准方法。](https://jwt.io/)
 

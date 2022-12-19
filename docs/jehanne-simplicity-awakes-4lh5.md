@@ -109,7 +109,7 @@ Unix 特别适合应用程序开发人员的这种竞争。
 
 *p(n)=(0.99)*
 
-[![Probability of whole system correctness.](../Images/f51e92a273616a7751257605abee3153.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VgSqKuXn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://jehanne.io/graphic/probability_of_correctness.png)
+[![Probability of whole system correctness.](img/f51e92a273616a7751257605abee3153.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VgSqKuXn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://jehanne.io/graphic/probability_of_correctness.png)
 
 你现在运行多少程序？:-D
 

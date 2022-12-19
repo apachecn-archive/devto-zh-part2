@@ -70,7 +70,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 写了很多[冗余代码](https://gitlab.com/SuperFola/Zavtrak/blob/master/include/Zavtrak/common/events.hpp)之后，我可以开始用它写一个小游戏了(你可以在这里找到我的实验[)。我刚开始写游戏时最大的纠结就是顶点属性(你可以在封面图片上看到，我把顶点属性搞砸了，OpenGL 处理得好像一切正常)。](https://gitlab.com/SuperFola/Zavtrak/tree/master/examples)
 
-[![GIF: everything is fine](../Images/2d3b632c5ed3fc3ad181644c1a60d32f.png)T2】](https://i.giphy.com/media/z9AUvhAEiXOqA/giphy.gif)
+[![GIF: everything is fine](img/2d3b632c5ed3fc3ad181644c1a60d32f.png)T2】](https://i.giphy.com/media/z9AUvhAEiXOqA/giphy.gif)
 
 这是本系列的第一篇文章，与其说是“编写渲染引擎的问题”，不如说是一篇“解释情节”的文章，但是如果你想知道我自己制作渲染引擎的利弊，这里有:
 

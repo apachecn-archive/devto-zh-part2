@@ -4,7 +4,7 @@
 
 ## 背景
 
-[![Rust and Wasm Side-by-Side](../Images/eaf3bd2fdb54c3f52e627c031e33a1ca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XrP8DB-O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.jwir3.com/content/images/2018/10/crab-298346_1280.jpg)
+[![Rust and Wasm Side-by-Side](img/eaf3bd2fdb54c3f52e627c031e33a1ca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XrP8DB-O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.jwir3.com/conteimg/2018/10/crab-298346_1280.jpg)
 
 在我的工作中，我们正在考虑使用 [WebAssembly](https://webassembly.org/) (以下缩写为 WASM)，因为它允许我们交叉编译几乎任何在网络上使用的语言。WebAssembly 是“基于堆栈的虚拟机的二进制指令格式”。基本上，这意味着它是一种设计成可以在任何地方运行的二进制语言，但一般来说，它现在被用在 web 浏览器中作为 Javascript 模块的替代品。我们考虑用作源语言的语言之一是 [Rust](https://doc.rust-lang.org/book/2018-edition/index.html) ，一种新的(ish)语言，为类型安全、性能和并发性而设计。
 

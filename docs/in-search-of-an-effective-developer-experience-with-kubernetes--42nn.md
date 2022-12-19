@@ -6,7 +6,7 @@
 
 我们所有人都在开发软件来支持[向我们的客户和业务交付价值](https://itrevolution.com/book/the-art-of-business-value/)，因此[“开发者体验”(DevEx)](https://www.infoq.com/news/2017/07/remove-friction-dev-ex)——从想法产生到生产中的运行(和观察)——必须快速、可靠并提供良好的反馈。当我们帮助我们的客户为 Kubernetes 创建有效的连续交付管道(以及相关的工作流)时，我们看到了几种模式的出现。我们热衷于分享我们对这些模式的观察，并解释我们如何在用于将应用部署到 Kubernetes 的开源工具的[集合中捕获一些最佳模式。](https://www.datawire.io/reference-architecture/)
 
-[![reference-architecture-diagram](../Images/e767911541f957f257edbefedffbe605.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aJqmh_n9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.datawire.io/wp-content/uploads/2018/02/reference-architecture-diagram.png)
+[![reference-architecture-diagram](img/e767911541f957f257edbefedffbe605.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aJqmh_n9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.datawire.io/wp-content/uploads/2018/02/reference-architecture-diagram.png)
 
 ## 从观念到(可观察到的)价值
 

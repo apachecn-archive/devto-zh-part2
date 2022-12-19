@@ -4,7 +4,7 @@
 
 ## 目的
 
-[![Concept: High Performance web server w/ Promises](../Images/593ef0f969249eec6596ad3e73ccaaaf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9FwUSFjJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://theopensourceu.org/content/images/2018/02/webserver-promise.png)
+[![Concept: High Performance web server w/ Promises](img/593ef0f969249eec6596ad3e73ccaaaf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9FwUSFjJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://theopensourceu.org/conteimg/2018/02/webserver-promise.png)
 
 我的目的是提供更高水平的吞吐量——通过一个*异步 API* 每秒处理更多的请求。预计为每个请求提供服务的时间会增加，但如果我们每秒处理更多的请求，这没有问题。*或*如果没有别的，至少在问题开始出现之前处理更多的请求。
 

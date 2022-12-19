@@ -4,7 +4,7 @@
 
 我从来都不是一个 OS/平台纯粹主义者。从我记事起，由于各种原因，我就经常在基于 Unix/Windows 的系统之间切换。也就是说，我主要在 Windows 机器上进行开发，我的大多数项目最终都运行在 Linux 服务器(节点模块)或某种 Linux 内核(Android)上，所以从长远来看，熟悉*nix 学派是非常有帮助的。
 
-[![Coding_Image.png](../Images/516e9febc4370283ace78caa560922be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w_0P89A8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D6726719ee78dabe78033950d9f3f7145%26auto%3Dformat%26fit%3Dcrop%26w%3D1950%26q%3D80)
+[![Coding_Image.png](img/516e9febc4370283ace78caa560922be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w_0P89A8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D6726719ee78dabe78033950d9f3f7145%26auto%3Dformat%26fit%3Dcrop%26w%3D1950%26q%3D80)
 
 我不想过多地列举生活在不同平台之间的个人例子，而是想分享一些我写的东西或我用来让我的生活变得更轻松的工具。
 

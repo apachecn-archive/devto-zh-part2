@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/djangotricks/equivalents-in-python-and-javascript-part-4-3mda>
 
-[![](../Images/738abaded11fa60aeeccf98e353a5f89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uyYlqR0j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-IUXEO64Y6q8/WzrC947Je8I/AAAAAAAAB58/KyzGfiel_6AxNOHLu4lHsZhTPyznTvmfQCLcBGAs/s1600/equivalents-in-python-and-javascript-part-4.png)
+[![](img/738abaded11fa60aeeccf98e353a5f89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uyYlqR0j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-IUXEO64Y6q8/WzrC947Je8I/AAAAAAAAB58/KyzGfiel_6AxNOHLu4lHsZhTPyznTvmfQCLcBGAs/s1600/equivalents-in-python-and-javascript-part-4.png)
 
 在关于用 **Python** 和 **JavaScript** 进行类比的系列文章的[最后](https://dev.to/djangotricks/equivalents-in-python-and-javascript-part-3-4icc)的三个部分中，我们探索了许多有趣的概念，比如序列化为 JSON、错误处理、使用正则表达式、字符串插值、生成器、lambdas 等等。这次我们将深入研究函数参数，创建类，使用类继承，以及定义类属性的 getters 和 setters。
 

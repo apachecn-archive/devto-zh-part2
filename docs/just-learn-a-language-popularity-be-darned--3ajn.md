@@ -10,7 +10,7 @@
 
 我认为这个评论是最完美的回应:
 
-[![codemouse92 profile image](../Images/a072df6f7dff30b6b5a4ad8b83c98750.png) ](/codemouse92) [ Jason C. McDonald ](/codemouse92) • [<time datetime="2018-02-17T17:58:44Z" class="date-short-year"> Feb 17 '18 </time>](https://dev.to/codemouse92/comment/2ak2) 
+[![codemouse92 profile image](img/a072df6f7dff30b6b5a4ad8b83c98750.png) ](/codemouse92) [ Jason C. McDonald ](/codemouse92) • [<time datetime="2018-02-17T17:58:44Z" class="date-short-year"> Feb 17 '18 </time>](https://dev.to/codemouse92/comment/2ak2) 
 
 解决办法很简单。
 
@@ -32,13 +32,13 @@
 
 这里有一些来自[的精彩评论，这是我不久前在主题](https://dev.to/ben/whats-the-state-of-ruby-is-it-trending-down-for-good-or-just-settling-in-to-a-mature-niche-role)上发起的一个帖子:
 
-[![vaidehijoshi profile image](../Images/f419f33acc00cb1ea72caa13405bd6f9.png) ](/vaidehijoshi) [ Vaidehi Joshi ](/vaidehijoshi) • [<time datetime="2017-05-23T18:58:47Z" class="date-short-year"> May 23 '17 </time>](https://dev.to/vaidehijoshi/comment/84l) 
+[![vaidehijoshi profile image](img/f419f33acc00cb1ea72caa13405bd6f9.png) ](/vaidehijoshi) [ Vaidehi Joshi ](/vaidehijoshi) • [<time datetime="2017-05-23T18:58:47Z" class="date-short-year"> May 23 '17 </time>](https://dev.to/vaidehijoshi/comment/84l) 
 
 我认为让 Ruby 一直存在的一点是，当你第一次学习编码时，它是多么容易。它的可读性，它的优雅，Ruby 社区——这些都降低了学习一门语言的门槛，它的相关框架，以及它最终成为合适工具的不同环境。它让你很容易就进入状态并开始工作，特别是如果你对这个领域还相当陌生的话。
 
 不过，最终，我看到 Ruby + Rails 越来越多地被用作 API 层。虽然 JavaScript 之战意味着前端框架一直在不断变化，但对于构建人们能够轻松开发和贡献的 API 来说，Ruby 似乎是一个更稳定的选择。我很有兴趣看看 Ruby 如何适应和改变成高性能(读起来:快得多)的语言，比如 Rust。就我个人而言，我一直在关注像 [Helix](https://usehelix.com) 这样的东西，这让 Ruby 的未来看起来超级光明。
 
-[![tra profile image](../Images/187ea6ebabd6cc1aa0dbc0a183296a52.png) ](/tra) [ Tariq Ali ](/tra) • [<time datetime="2017-05-23T19:21:08Z" class="date-short-year"> May 23 '17 </time> • Edited on <time datetime="2017-05-23T19:27:28Z" class="hidden m:inline-block date-no-year">May 23</time>](https://dev.to/tra/comment/84o) 
+[![tra profile image](img/187ea6ebabd6cc1aa0dbc0a183296a52.png) ](/tra) [ Tariq Ali ](/tra) • [<time datetime="2017-05-23T19:21:08Z" class="date-short-year"> May 23 '17 </time> • Edited on <time datetime="2017-05-23T19:27:28Z" class="hidden m:inline-block date-no-year">May 23</time>](https://dev.to/tra/comment/84o) 
 
 2006 年，David Megginson(Python 程序员)在一篇关于“编程语言周期”的博客文章中预言了 Ruby 的衰落。在那篇博文中，David 概述了一个理论，即编程语言是由精英程序员发明的，他们试图将自己与“痞子”区分开来。大卫在博客的最后写道:
 
@@ -52,6 +52,6 @@
 
 这并不容易，在描述一段漫长而艰辛的旅程时，或许应该避免使用*这个词。基本上这就是我所说的:*
 
-[![marcuscreo](../Images/3746e208e529a3b028bc491fcff398d2.png)](/marcuscreo) [## 让我热血沸腾的 4 个字母的单词
+[![marcuscreo](img/3746e208e529a3b028bc491fcff398d2.png)](/marcuscreo) [## 让我热血沸腾的 4 个字母的单词
 
 ### Marcus Blankenship 2 月 9 日 173 分钟阅读](/marcuscreo/the-4-letter-word-word-that-makes-my-blood-boil)*

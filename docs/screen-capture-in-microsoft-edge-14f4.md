@@ -6,7 +6,7 @@
 
 让我们看看如何用 Edge 捕捉屏幕。
 
-[![The result of the code in this post. When you visit the project in Edge, you can capture the screen and show it in a video on the page.](../Images/bbb543abe00e6287fbc68378128293b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mwgxEY1_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://twilioinc.wpengine.com/wp-content/uploads/2018/05/Xy9veXGKIqjoU6gqk0XoBElSSzuT68ZwxKa2e0TOCMa7X4kjuJEiVHox63uYSyWc7WbWWaoOsJaox_wcmQ1Vs0Zq6ZGCQmAwC10ZHe4_9pIv_P8PzqCstXq4cp3jo_lTfgamdyg.png)
+[![The result of the code in this post. When you visit the project in Edge, you can capture the screen and show it in a video on the page.](img/bbb543abe00e6287fbc68378128293b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mwgxEY1_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://twilioinc.wpengine.com/wp-content/uploads/2018/05/Xy9veXGKIqjoU6gqk0XoBElSSzuT68ZwxKa2e0TOCMa7X4kjuJEiVHox63uYSyWc7WbWWaoOsJaox_wcmQ1Vs0Zq6ZGCQmAwC10ZHe4_9pIv_P8PzqCstXq4cp3jo_lTfgamdyg.png)
 
 ## 你需要什么
 
@@ -161,11 +161,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 获取 HTTPS 的网址，并在 Edge 中输入。
 
-[![The screen when ngrok is running. Select the URL that begins with HTTPS](../Images/497ee1b3859807f889f19616c33cc869.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nZvdUHba--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://twilioinc.wpengine.com/wp-content/uploads/2018/05/F6pXOvjX5kA1q1YrZa-9gxSvqGbJXp31bTUb3IWeO6m_ZSROVaZJMQEQWvZFYf23qkge_XD-7Wfx7sDlD5EvlXIif0DyuBON8ELbNAgwf1SFKLKK1yx858Z-HnINXBZH4rO94T4.png)
+[![The screen when ngrok is running. Select the URL that begins with HTTPS](img/497ee1b3859807f889f19616c33cc869.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nZvdUHba--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://twilioinc.wpengine.com/wp-content/uploads/2018/05/F6pXOvjX5kA1q1YrZa-9gxSvqGbJXp31bTUb3IWeO6m_ZSROVaZJMQEQWvZFYf23qkge_XD-7Wfx7sDlD5EvlXIif0DyuBON8ELbNAgwf1SFKLKK1yx858Z-HnINXBZH4rO94T4.png)
 
 按下“获取屏幕”按钮，您将能够获得用户选择的应用程序或桌面的流。
 
-[![Success! Now, when you click 'Get the screen' the permissions pop up shows and when you allow it, you can choose the application or screen to show.](../Images/9a34f534a583640410cde7d0872f8e67.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jxjKAMDV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://twilioinc.wpengine.com/wp-content/uploads/2018/05/v1jyWBvESpG8jDtkNu4Uul33FFikEL4fewltXOyHGY8yt-Zy0S0mDyLbvkC6h0ANLFv23DElo3FgyLV-j9xNGZs-vDmBPVQ-OuWhByDkkLAoqojzmEDfO4kOwoHuvubjJQCpVAU.png)
+[![Success! Now, when you click 'Get the screen' the permissions pop up shows and when you allow it, you can choose the application or screen to show.](img/9a34f534a583640410cde7d0872f8e67.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jxjKAMDV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://twilioinc.wpengine.com/wp-content/uploads/2018/05/v1jyWBvESpG8jDtkNu4Uul33FFikEL4fewltXOyHGY8yt-Zy0S0mDyLbvkC6h0ANLFv23DElo3FgyLV-j9xNGZs-vDmBPVQ-OuWhByDkkLAoqojzmEDfO4kOwoHuvubjJQCpVAU.png)
 
 ## 下一步
 

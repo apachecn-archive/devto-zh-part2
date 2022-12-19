@@ -4,7 +4,7 @@
 
 嗨读者！这相当于我以前的帖子:
 
-[![guidovizoso image](../Images/61e6e710fbc216daf1de483d92af7cf4.png)](/guidovizoso) [## 为忙碌的人做好准备
+[![guidovizoso image](img/61e6e710fbc216daf1de483d92af7cf4.png)](/guidovizoso) [## 为忙碌的人做好准备
 
 ### Guido Vizoso 5 月 26 日 181 分钟阅读
 
@@ -41,7 +41,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 搞定了。
 
-[![Webpack dev server running](../Images/beb576b1ed01b8691b187a484337b5f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vy1ErL-P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jhvhqsg273598aivpxrc.png)
+[![Webpack dev server running](img/beb576b1ed01b8691b187a484337b5f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vy1ErL-P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jhvhqsg273598aivpxrc.png)
 
 ## 文件夹结构
 

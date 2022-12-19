@@ -12,7 +12,7 @@
 
 我的意思是，只要能帮助你实现目标，所有的想法都是有价值的。这个很棒的列表是一个我可以随时查看的列表，在任何时候都可以找到很酷的资源。我甚至有一个名为“病态选择”的类别，在那里我记录了我在网上发现的很棒的东西。网络上充满了令人兴奋的东西，我不可能一目了然地全部消化，所以我创建这个列表的原因之一是作为所有这些伟大资源的避风港。
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [ lauragift21 ](https://github.com/lauragift21) / [牛逼-学习资源](https://github.com/lauragift21/awesome-learning-resources)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [ lauragift21 ](https://github.com/lauragift21) / [牛逼-学习资源](https://github.com/lauragift21/awesome-learning-resources)
 
 ### 🔥关于 Web 开发的令人敬畏的资源列表。
 
@@ -20,7 +20,7 @@
 
 # 令人惊叹的学习资源
 
-[![Awesome](../Images/36feee485a7ffdf30a592e3eb79d4221.png) ](https://github.com/lauragift21/awesome-learning-resources) [ ![license](../Images/42adfb156c5905762fd5806e73107fc5.png)](https://camo.githubusercontent.com/2ff6a06f2f6e08b17783133ca7ebc23ce1f8ac4415eee8e835647b57048a8f0d/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6d6173686170652f6170697374617475732e737667)
+[![Awesome](img/36feee485a7ffdf30a592e3eb79d4221.png) ](https://github.com/lauragift21/awesome-learning-resources) [ ![license](img/42adfb156c5905762fd5806e73107fc5.png)](https://camo.githubusercontent.com/2ff6a06f2f6e08b17783133ca7ebc23ce1f8ac4415eee8e835647b57048a8f0d/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6d6173686170652f6170697374617475732e737667)
 
 [网上预览](https://nicedoc.io/lauragift21/awesome-learning-resources)
 

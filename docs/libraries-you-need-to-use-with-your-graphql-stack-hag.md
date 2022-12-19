@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/pedrammarandi/libraries-you-need-to-use-with-your-graphql-stack-hag>
 
-[![enter image description here](../Images/627ccbec1b92297ad6ecca9057577876.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qvxLRGvH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/be1cy1wdqw2ait8hapg2.png)
+[![enter image description here](img/627ccbec1b92297ad6ecca9057577876.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qvxLRGvH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/be1cy1wdqw2ait8hapg2.png)
 
 Hi DEV 社区👩‍💻👨‍💻,
 

@@ -19,7 +19,7 @@
 
 我们描述了一个通用的解决方案，使用队列和消息传递将调度工作放在一边，有效地说“是的，调度失败了，所以让我们把它放在一边，以后再看”。这将允许整个主请求完成:
 
-[![](../Images/b5e0c2da853a879de29ebecf19ba28b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F3oQbtfw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jimmybogardsblog.blob.core.windows.net/jimmybogardsblog/7/2018/Picture0051.png)
+[![](img/b5e0c2da853a879de29ebecf19ba28b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F3oQbtfw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jimmybogardsblog.blob.core.windows.net/jimmybogardsblog/7/2018/Picture0051.png)
 
 我们最初的例子还假设我们将在相同请求的上下文中立即分发我们的消息*,这不是一个坏的缺省，但可能并不总是理想的。让我们首先看看立即调度的场景，以及失败可能意味着什么。*
 
@@ -207,7 +207,7 @@ public class ProcessDocumentMessages : ICommand
 
 我们可以使用这些信息从存储库中加载我们的文档。有了这个消息，我们现在需要将*接收*我们的消息的组件。对于这一点，它将真正取决于我们的部署，但现在我将只制作一个. NET 核心控制台应用程序，它包括我们的 NServiceBus 宿主部分和该消息的处理程序:
 
-[![](../Images/2904a71644b2896f23374152e80769e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AfYcNIh1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jimmybogardsblog.blob.core.windows.net/jimmybogardsblog/7/2018/Picture0052.png)
+[![](img/2904a71644b2896f23374152e80769e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AfYcNIh1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jimmybogardsblog.blob.core.windows.net/jimmybogardsblog/7/2018/Picture0052.png)
 
 我不会深入研究 NServiceBus 配置，因为它真的没有那么密切的关系，但是让我们来看一下该消息的处理程序:
 
@@ -227,7 +227,7 @@ public class ProcessDocumentMessagesHandler
 
 也不是很刺激！NServiceBus 将持久消息发送到这个类。对于我们这个简单的例子，我使用的是 RabbitMQ，所以如果出现问题，我们的消息会进入一个队列:
 
-[![](../Images/6992cafc44922ba2765ec9bb13013b9b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EzyQsrYJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jimmybogardsblog.blob.core.windows.net/jimmybogardsblog/7/2018/Picture0053.png)
+[![](img/6992cafc44922ba2765ec9bb13013b9b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EzyQsrYJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jimmybogardsblog.blob.core.windows.net/jimmybogardsblog/7/2018/Picture0053.png)
 
 我们的处理程序接收这个消息并进行处理。dispatcher 略有不同，因为它需要处理消息而不是实际的文档，所以它需要首先加载它:
 

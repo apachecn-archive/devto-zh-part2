@@ -4,7 +4,7 @@
 
 看看另一个帖子的 [@kayis](https://dev.to/kayis) 的评论，我想知道你是否同意这种说法？
 
-[![kayis profile image](../Images/e662378fc6ec45f59882254ec51a89b0.png) ](/kayis) [ K (he/him) ](/kayis) • [<time datetime="2018-09-27T12:02:17Z" class="date-short-year"> Sep 27 '18 </time>](https://dev.to/kayis/comment/5ngc) 
+[![kayis profile image](img/e662378fc6ec45f59882254ec51a89b0.png) ](/kayis) [ K (he/him) ](/kayis) • [<time datetime="2018-09-27T12:02:17Z" class="date-short-year"> Sep 27 '18 </time>](https://dev.to/kayis/comment/5ngc) 
 
 人们对*库*和*框架*有不同的定义
 

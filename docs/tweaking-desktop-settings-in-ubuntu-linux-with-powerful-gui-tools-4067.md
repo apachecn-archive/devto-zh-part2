@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/xeroxism/tweaking-desktop-settings-in-ubuntu-linux-with-powerful-gui-tools-4067>
 
-[![ubuntu settings fossnaija](../Images/0ce77e10b5ff6e31786e4d3ebc5f1826.png)T2】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/07/ubuntu-settings.png?ssl=1)
+[![ubuntu settings fossnaija](img/0ce77e10b5ff6e31786e4d3ebc5f1826.png)T2】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/07/ubuntu-settings.png?ssl=1)
 
 图片:化石人. COM
 
@@ -28,7 +28,7 @@ Tweak Tools 是 Linux 桌面的设置管理器。它为用户提供了一个快�
 
 您可以使用 ubuntu 软件中心安装它，只需在搜索栏中键入(" **unity tweak tool** ")，然后点击安装:
 
-[![unity tweak tool](../Images/05f347fbadd39219e6db7282a1f2c9ba.png)T2】](https://i0.wp.com/fossnaija.com/wp-content/uploads/2018/07/unity-tweak-tool.png?ssl=1)
+[![unity tweak tool](img/05f347fbadd39219e6db7282a1f2c9ba.png)T2】](https://i0.wp.com/fossnaija.com/wp-content/uploads/2018/07/unity-tweak-tool.png?ssl=1)
 
 图片:化石人. COM
 
@@ -62,7 +62,7 @@ sudo apt-get update
 sudo apt-get install gnome-tweak-tool 
 ```
 
-[![gnome tweak tool](../Images/1375768c51f9f3398d756bdba38972ae.png)T2】](https://i0.wp.com/fossnaija.com/wp-content/uploads/2018/07/gnome-tweak-tool.png?ssl=1)
+[![gnome tweak tool](img/1375768c51f9f3398d756bdba38972ae.png)T2】](https://i0.wp.com/fossnaija.com/wp-content/uploads/2018/07/gnome-tweak-tool.png?ssl=1)
 
 图片:化石人. COM
 
@@ -70,7 +70,7 @@ sudo apt-get install gnome-tweak-tool
 
 并使用 Ubuntu 软件中心进行安装；
 
-[![gnome tweak tool installation](../Images/f4e142f57406e23c2fe29ba432f3d5e5.png)T2】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/07/gnome-tweak-tool-installation.png?ssl=1)
+[![gnome tweak tool installation](img/f4e142f57406e23c2fe29ba432f3d5e5.png)T2】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/07/gnome-tweak-tool-installation.png?ssl=1)
 
 图片:化石人. COM
 

@@ -40,7 +40,7 @@ Enter fullscreen mode Exit fullscreen mode
 Mandadin 是一个 PWA，它使用 Aurelia、Pouchdb、Workbox(用于服务人员)和你的标准网络材料，托管在 firebase 中，并与本地设备隔离，所以你在手机上做的任何事情都留在你的手机上，因为它使用 IndexedDB 来存储你想存储在那里的任何东西
 你可以在这里找到代码
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [安吉尔·穆诺兹](https://github.com/AngelMunoz) / [店员](https://github.com/AngelMunoz/shoppinator)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [安吉尔·穆诺兹](https://github.com/AngelMunoz) / [店员](https://github.com/AngelMunoz/shoppinator)
 
 ### 这是我和妻子去杂货店时用的一款玩具应用:)
 
@@ -65,7 +65,7 @@ Mandadin 是一个 PWA，它使用 Aurelia、Pouchdb、Workbox(用于服务人�
 
 你能用它做什么？这里有更多关于它的信息
 
-[![tunaxor](../Images/dd42ae2af93474df85932b5a5fee0bcd.png)](/tunaxor) [## JavaScript Windows 通用应用程序第 2 部分
+[![tunaxor](img/dd42ae2af93474df85932b5a5fee0bcd.png)](/tunaxor) [## JavaScript Windows 通用应用程序第 2 部分
 
 ### 安吉尔丹尼尔穆尼奥斯冈萨雷斯 6 月 19 日 186 分钟阅读
 

@@ -6,7 +6,7 @@
 
 > ### I know I can't use the internet these days, so I can't upload any articles.
 
-[![](../Images/26b41ad1677b4a60854349d3943ca33c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qiYZjw4F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qbcamo1qu44pt4l9wjvq.jpg)
+[![](img/26b41ad1677b4a60854349d3943ca33c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qiYZjw4F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qbcamo1qu44pt4l9wjvq.jpg)
 
 实际上，我是通过手机上的 USB 连接在电脑上上网的，所以没有机会上传新的内容。
 

@@ -99,7 +99,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 嗯，要启动服务器，我们可以使用`nodemon index.js`。
 
-[![Frustation](../Images/afc58c5b27317685ef03b553c17119e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YK3QbdUh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A8el_nMWQac1GXywI0kapow.gif)
+[![Frustation](img/afc58c5b27317685ef03b553c17119e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YK3QbdUh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A8el_nMWQac1GXywI0kapow.gif)
 
 显而易见，每次对代码进行任何更改(由 nodemon 记录)时，应用程序都会连接到外部服务(卫星)，这需要 10 秒以上重启服务器所需的额外时间。
 
@@ -281,7 +281,7 @@ boot()
 Enter fullscreen mode Exit fullscreen mode
 
 结果，
-[![Better](../Images/95a572dca3cc614709b81b912c58d04d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--APLl5Re_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AmzFub3kTFhEcLOHR9z6Bjg.gif)
+[![Better](img/95a572dca3cc614709b81b912c58d04d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--APLl5Re_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AmzFub3kTFhEcLOHR9z6Bjg.gif)
 
 > 这没有错误处理，所以如果你的应用崩溃了，它就崩溃了。nodemon 确实处理崩溃。您可以通过让 nodemon 忽略我们手动监控的文件来轻松地组合 node mon。
 > 如果你使用猫鼬，你可能会遇到类似`error recompiling model`的错误。猫鼬也有一个模型缓存。你也可以使它无效，只需初始化对象为空对象`mongoose.connection.models = {}; mongoose.models = {};`。

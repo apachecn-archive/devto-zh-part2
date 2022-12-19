@@ -151,11 +151,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 没有。不要这样做。
 
-[![Do you want bugs?  Because that's how you get bugs.](../Images/e73be82adcde24da14cd9bdceecbcee5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wz3qUE3---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assertnotmagic.com/img/closure-bugs.jpg)
+[![Do you want bugs?  Because that's how you get bugs.](img/e73be82adcde24da14cd9bdceecbcee5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wz3qUE3---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assertnotmagic.com/img/closure-bugs.jpg)
 
 全局变量将在非常简单的情况下工作，但当事情变得更加复杂时，这是一种非常快速和简单的搬起石头砸自己的脚的方法。你会有 17 个不同的不相关的函数，它们都会影响这个变量。而且，如果这个变量命名得不好，它很快就会变得混乱和无意义。如果你做了一个，你可能做了二十个，现在除了你没有人知道你的代码做了什么。
 
-[![Well, at least it doesn't need obfuscating.](../Images/da5bdb600be8eaa99114e321c4e4f0fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6nOeGolK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assertnotmagic.com/img/closure-obfuscating.jpg)
+[![Well, at least it doesn't need obfuscating.](img/da5bdb600be8eaa99114e321c4e4f0fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6nOeGolK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assertnotmagic.com/img/closure-obfuscating.jpg)
 
 ## 为什么闭包很酷
 

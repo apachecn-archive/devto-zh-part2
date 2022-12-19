@@ -4,7 +4,7 @@
 
 VisitLog 是一个简单的 Laravel 5 包，可以用来记录访问者信息并保存到数据库中。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)[sarfraznawaz 2005](https://github.com/sarfraznawaz2005)/[访问日志](https://github.com/sarfraznawaz2005/visitlog)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)[sarfraznawaz 2005](https://github.com/sarfraznawaz2005)/[访问日志](https://github.com/sarfraznawaz2005/visitlog)
 
 ### ⏰Laravel 软件包将访问者信息记录到数据库中。
 
@@ -12,7 +12,7 @@ VisitLog 是一个简单的 Laravel 5 包，可以用来记录访问者信息并
 
 # Laravel VisitLog
 
-[![Total Downloads](../Images/a7d679774368065607adeec11a553b73.png)T2】](https://packagist.org/packages/sarfraznawaz2005/visitlog)
+[![Total Downloads](img/a7d679774368065607adeec11a553b73.png)T2】](https://packagist.org/packages/sarfraznawaz2005/visitlog)
 
 ## 介绍
 
@@ -32,7 +32,7 @@ VisitLog 是一个简单的 Laravel 5 包，可以用来记录访问者信息并
 
 ## 屏幕上显示程序运行的图片
 
-[![Main Window](../Images/824de96ef8d8e09c342154abff97eb50.png)T2】](https://camo.githubusercontent.com/dda1747e8bf219341ce63ffdfaaf73841117294f0f3790d4fbe82290992ba757/68747470733a2f2f7261772e6769746875622e636f6d2f7361726672617a6e6177617a323030352f76697369746c6f672f6d61737465722f73637265656e2e706e67)
+[![Main Window](img/824de96ef8d8e09c342154abff97eb50.png)T2】](https://camo.githubusercontent.com/dda1747e8bf219341ce63ffdfaaf73841117294f0f3790d4fbe82290992ba757/68747470733a2f2f7261772e6769746875622e636f6d2f7361726672617a6e6177617a323030352f76697369746c6f672f6d61737465722f73637265656e2e706e67)
 
 *注意:上面截图中的信息是假的。*
 

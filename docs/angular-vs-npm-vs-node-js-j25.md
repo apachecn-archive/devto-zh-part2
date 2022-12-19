@@ -6,7 +6,7 @@
 
 大家说清楚！
 
-[![Typical structure of an Angular Application](../Images/af07f555eccb3119ba64fcee82c97814.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lFRnWtUs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dius.imgix.net/2015/01/Screen-Shot-2015-02-17-at-12.04.46-pm.png)
+[![Typical structure of an Angular Application](img/af07f555eccb3119ba64fcee82c97814.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lFRnWtUs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dius.imgix.net/2015/01/Screen-Shot-2015-02-17-at-12.04.46-pm.png)
 
 ## Node.js
 

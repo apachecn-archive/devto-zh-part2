@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/acoh3n/that-programming-book-you-never-finished-3oeb>
 
-[![Books](../Images/5856909987e9860895b79804cec99878.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--maQiehMl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/svw6mcr9wgrmjqp3u8iu.jpg)
+[![Books](img/5856909987e9860895b79804cec99878.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--maQiehMl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/svw6mcr9wgrmjqp3u8iu.jpg)
 
 告诉我这听起来是否熟悉:
 
@@ -20,7 +20,7 @@
 
 让我们看一个例子。你可能会遇到看起来很吓人的适马符号:
 
-[![Sigma](../Images/cfe844e8b07a080d14da3bc265e5fba8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3BLE2olE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7gkpblc3d74w4w4ih5yo.png)
+[![Sigma](img/cfe844e8b07a080d14da3bc265e5fba8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3BLE2olE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7gkpblc3d74w4w4ih5yo.png)
 
 我不知道是因为它很大，还是因为它看起来像埃及象形文字，但当我第一次看到它时，这个符号的某些东西让我吓坏了。但事实证明，这几乎是愚蠢的简单。
 

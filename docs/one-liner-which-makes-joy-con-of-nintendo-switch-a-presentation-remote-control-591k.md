@@ -4,7 +4,7 @@
 
 如果你在浏览器上显示一个演示文稿，你可以用一行程序把 Joy-Con 变成一个演示遥控器！
 
-[![](../Images/71f206df8ef18f19e1aad601629da345.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w5bUXRXn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/arjv8zikbai5am9dferz.gif)
+[![](img/71f206df8ef18f19e1aad601629da345.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w5bUXRXn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/arjv8zikbai5am9dferz.gif)
 
 # 环境
 
@@ -16,11 +16,11 @@
 
 将 Joy-Con (L)与 macOS 的标准功能连接。
 
-[![](../Images/af22d08c74eb39e2dde1609eca788ff5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EZHDMrw8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c3nxsuvifh247ryudr4j.png)
+[![](img/af22d08c74eb39e2dde1609eca788ff5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EZHDMrw8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c3nxsuvifh247ryudr4j.png)
 
 按住箭头部分的按钮进入配对模式。
 
-[![](../Images/d7ca3d0023c10bdfbfaf39adf8798356.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y9HU2Xvr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lhz9p96nbiw2souz4o08.png)
+[![](img/d7ca3d0023c10bdfbfaf39adf8798356.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y9HU2Xvr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lhz9p96nbiw2souz4o08.png)
 
 # 一句俏皮话让任天堂 Switch 的动漫大会变得遥不可及
 
@@ -34,7 +34,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您可以使用图中所示的按钮来更改幻灯片。
 
-[![](../Images/8eb81395fa561785b10c07332ea5fab0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SIjnWJ-h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xyhe84uk6qz0o7lpyydj.png)
+[![](img/8eb81395fa561785b10c07332ea5fab0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SIjnWJ-h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xyhe84uk6qz0o7lpyydj.png)
 
 按下截图捕捉键时控制器会有一点震动(用于测试通信确认，仅在 Chrome 等支持的浏览器上)。
 

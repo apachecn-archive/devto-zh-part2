@@ -39,7 +39,7 @@
 
 嗯，在等你的另一半的时候挤出几页纸，但是他们又迟到了，怎么样？:)
 
-[![](../Images/785d5857261bd20f6b39d13565faa618.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Fyyak30x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/497/1%2AdbO0z2EiFdhM_Eh7HaYBEQ.jpeg) 
+[![](img/785d5857261bd20f6b39d13565faa618.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Fyyak30x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/497/1%2AdbO0z2EiFdhM_Eh7HaYBEQ.jpeg) 
 
 <figcaption>嘿，亲爱的，我只是在看书:)</figcaption>
 
@@ -59,7 +59,7 @@
 
 你还记得当你不得不发送几封电子邮件时，每封邮件花了你 5 分钟的时间，这还不包括打字的时间吗？您是否一直在等待生产构建，并且需要很长时间，因为您的 CI/CD 解决方案运行在我们心爱的 [ENIAC](https://en.wikipedia.org/wiki/ENIAC) 上，并且您不能就此收工，直到它成功？
 
-[![](../Images/083ff6951c1f2f5aeb2e11547c132736.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4mR6_0-z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/259/1%2AEFVqAnjQResvuEWWY4Sx0Q.jpeg)
+[![](img/083ff6951c1f2f5aeb2e11547c132736.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4mR6_0-z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/259/1%2AEFVqAnjQResvuEWWY4Sx0Q.jpeg)
 
 <figcaption>Hello family guy</figcaption>
 

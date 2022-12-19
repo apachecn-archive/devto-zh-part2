@@ -6,4 +6,4 @@
 
 [读读✊](https://auth0.com/blog/symfony-tutorial-building-a-blog-part-3/?utm_source=dev&utm_medium=sc&utm_campaign=symfony_blog)
 
-[![Symfony Tutorial: Building a Blog (Part 3)](../Images/15535af901ff6dca4b4c502858305ae4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--waWQ5aOE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ruvy0x0dpshzd1lai3ea.png)
+[![Symfony Tutorial: Building a Blog (Part 3)](img/15535af901ff6dca4b4c502858305ae4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--waWQ5aOE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ruvy0x0dpshzd1lai3ea.png)

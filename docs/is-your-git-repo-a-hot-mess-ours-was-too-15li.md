@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/soluto/is-your-git-repo-a-hot-mess-ours-was-too-15li>
 
-<figure>[![](../Images/084fe179aba8fbed913fd7e76c947d0b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xb_MhTgy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AjArs7qA1LiBmF0MQYf-FVw.jpeg) 
+<figure>[![](img/084fe179aba8fbed913fd7e76c947d0b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xb_MhTgy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AjArs7qA1LiBmF0MQYf-FVw.jpeg) 
 
 <figcaption>到处转贴</figcaption>
 
@@ -28,13 +28,13 @@ Github [去年引入了一个叫做 code owners 的新功能。代码所有者�
 
 代码所有者改变了我们的工作方式，我们喜欢这样。但是，我们经常注意到，在大型 PR 中——有许多更改的文件——有多个所有者被要求审查 PR。对于所有者来说，跟踪他们必须查看的文件很快变得乏味。
 
-[![](../Images/d56b33aba089fbdcc329e329d94a2c8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TyTp5Fgo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/310/0%2ARfwjKC4TtgPpYxEq.gif)
+[![](img/d56b33aba089fbdcc329e329d94a2c8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TyTp5Fgo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/310/0%2ARfwjKC4TtgPpYxEq.gif)
 
 #### 介绍代码所有者 Chrome 扩展
 
 我们开发了一个简单而有用的 Chrome 扩展，允许代码所有者点击一个按钮，立即只看到他拥有的文件。你可能会问，幕后发生了什么？首先，它定位 *CODEOWNERS* 文件，然后识别出你是其所有者并且需要审查的文件，过滤掉剩余的更改文件。多酷啊。
 
-[![Code owners chrome extension](../Images/63a3413a433e6a4ffc1527331a136580.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ti3zD1XA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/997/0%2AAOCvvR06zK5dtOWN.jpg)
+[![Code owners chrome extension](img/63a3413a433e6a4ffc1527331a136580.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ti3zD1XA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/997/0%2AAOCvvR06zK5dtOWN.jpg)
 
 因此，由于 PRs 的存在，现在代码更加有组织和清晰。由于代码所有者特性，开发人员对代码有了更好的了解。审查者很乐意用我们令人敬畏的扩展以更有效的方式审查代码。😉
 

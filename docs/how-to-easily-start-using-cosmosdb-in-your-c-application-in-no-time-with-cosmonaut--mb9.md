@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/elfocrash/how-to-easily-start-using-cosmosdb-in-your-c-application-in-no-time-with-cosmonaut--mb9>
 
-[![](../Images/1ac550b94a70f924581d866a96ec865b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ff1FA-pQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/4ZZdJuT.png)
+[![](img/1ac550b94a70f924581d866a96ec865b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ff1FA-pQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/4ZZdJuT.png)
 
 我用过很多基于 NoSQL 数据库的文档。CosmosDB 是我最喜欢的，主要是因为它远不止这些。像它的可扩展性，不同的 API 选项，变化反馈，甚至微软提供的模拟器都是令人惊叹的。
 

@@ -4,7 +4,7 @@
 
 我从我在 Chef 的朋友那里借用了这个形象，因为假装有可能只是撒上“devops”，这是关于每个层面的文化变化的东西，这真的很有趣。
 
-[![](../Images/51cee5d413aed01dbe24aab33f4cf240.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f9tARc-U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/05/20180522_172310.jpg)
+[![](img/51cee5d413aed01dbe24aab33f4cf240.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f9tARc-U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2018/05/20180522_172310.jpg)
 
 在我去的每一个开发日(相当多)，我都会提议/争论/经营两个开放空间。一个是关于特性标志/金丝雀发布/假设驱动的开发，另一个是这个，我通常称之为“DevOps 的文档”。
 

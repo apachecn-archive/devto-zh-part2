@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/apoclyps/muxer-an-open-source-events-aggregator-looking-for-contributors-3494>
 
-[![Muxer Site](../Images/10686ce09b8909af5a8c0823615d4ede.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ulYYK8AK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0x3zthjsuaca5g2b2jzi.png)
+[![Muxer Site](img/10686ce09b8909af5a8c0823615d4ede.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ulYYK8AK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0x3zthjsuaca5g2b2jzi.png)
 
 使用 React 和 Python 构建的开源事件聚合器。欢迎每个人都为#hacktoberfest 贡献自己的力量。
 

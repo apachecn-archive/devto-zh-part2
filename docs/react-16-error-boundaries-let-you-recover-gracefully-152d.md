@@ -6,7 +6,7 @@ React 最近宣布发布版本 16，其中包含长期存在的功能请求，�
 
 你可以在我们的 **[代码笔示例](https://codepen.io/rollbar_example/pen/JrMGQq?editors=1011)** 中自己尝试使用错误边界。我们从脸书的初始版本中分出来展示如何添加滚动条的 **[JavaScript 错误日志](https://rollbar.com/error-tracking/javascript/)** 。当您打开此页面时，您可以通过在计数器上单击至少五次来激活错误边界。然后，您会看到错误消息“出错了”让我们更深入地研究这个例子，了解错误边界是如何工作的。
 
-[![Error boundaries Codepen example](../Images/654710fa44787539cefa064a8c8b714f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gz0J1v47--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rollbar.com/assets/blog/images/2017-10-11-react-error-boundaries/image3.png)
+[![Error boundaries Codepen example](img/654710fa44787539cefa064a8c8b714f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gz0J1v47--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rollbar.com/assets/blimg/2017-10-11-react-error-boundaries/image3.png)
 
 ## 什么是误差边界？
 
@@ -97,11 +97,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 1.  加载页面，点击 5 次触发错误。然后，在我们的公共模拟账户的 **[物品页](https://rollbar.com/demo/demo/items/)** 里看看这些错误是什么样子的。你不需要注册，因为这个账户对所有人开放。
 
-[![Items screenshot](../Images/52975d7e1bf087fb71ecc2c7a5832677.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gBzi-Bov--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rollbar.com/assets/blog/images/2017-10-11-react-error-boundaries/image1.png)
+[![Items screenshot](img/52975d7e1bf087fb71ecc2c7a5832677.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gBzi-Bov--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rollbar.com/assets/blimg/2017-10-11-react-error-boundaries/image1.png)
 
 1.  通过点击列表顶部附近的项目“未捕获的错误:我崩溃了！”获得更多详细信息你现在可以看到回溯和 **[遥测](https://rollbar.com/blog/introducing-javascript-telemetry/)** 记录错误发生前发生的事情。这提供了更多的上下文来帮助您找到错误的根本原因。
 
-[![Item detail screenshot](../Images/ad3516ff144836893d33f316a710a922.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5gsBTnVG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rollbar.com/assets/blog/images/2017-10-11-react-error-boundaries/image2.png)
+[![Item detail screenshot](img/ad3516ff144836893d33f316a710a922.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5gsBTnVG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rollbar.com/assets/blimg/2017-10-11-react-error-boundaries/image2.png)
 
 我们强烈建议您在 React 应用程序中添加错误边界。它们非常易于使用，不仅可以帮助您提供良好的恢复，还可以向 Rollbar 报告这些错误，以便您可以在错误影响更多用户之前快速修复错误。
 

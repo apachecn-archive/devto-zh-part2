@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/aligoren/building-basic-restful-api-with-flask-restful-57oh>
 
-[![Python Logo](../Images/f2ea49e69af305fb6bcbcccce8b2a2aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oWHuIjOQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/308nhtj1smmx0sn1ebui.png)
+[![Python Logo](img/f2ea49e69af305fb6bcbcccce8b2a2aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oWHuIjOQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/308nhtj1smmx0sn1ebui.png)
 
 [这篇文章最初发表在我的博客上](https://aligoren.com/building-basic-restful-api-with-flask/)
 
@@ -90,7 +90,7 @@ if __name__ == '__main__':
 
 在上面的代码中，我们为 HTTP get 请求创建了一个名为 Get 的方法。我们试着联系了邮递员
 
-[![Postman Get Request](../Images/2d9ab18eb3844dbe15b68fc65f49f994.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KRJbYFr5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9uttstif5hzgmqcfo75q.png)
+[![Postman Get Request](img/2d9ab18eb3844dbe15b68fc65f49f994.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KRJbYFr5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9uttstif5hzgmqcfo75q.png)
 
 当您尝试未实现的 HTTP 请求时，您会看到如下警告消息:
 
@@ -127,7 +127,7 @@ def post(self):
 
 让我们用邮递员尝试一个简单的 HTTP Post 请求:
 
-[![Postman POST Request](../Images/82590df9d6105bdbf7658fb86a158033.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PkrXOY3D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wrhocz6jvjdpwknavbqg.png)
+[![Postman POST Request](img/82590df9d6105bdbf7658fb86a158033.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PkrXOY3D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wrhocz6jvjdpwknavbqg.png)
 
 ## 放法
 
@@ -153,7 +153,7 @@ api.add_resource(Quotes, '/', '/update/<int:id>')
 
 感谢邮递员，我们创建了一个 HTTP Put 请求。
 
-[![Postman PUT Request](../Images/a7e4ec5f5f2bbe25be118612810d13db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rwe6lzzK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0ohbzpqvqgkc50j6itmo.png)
+[![Postman PUT Request](img/a7e4ec5f5f2bbe25be118612810d13db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rwe6lzzK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0ohbzpqvqgkc50j6itmo.png)
 
 如果你想问 PUT vs POST，你可以查看这个[链接](https://restfulapi.net/rest-put-vs-post/)。我们可以创建一个删除方法。在这篇文章中，我不会创建 HTTP Delete 方法。感谢这个[链接](https://flask-restful.readthedocs.io/en/latest/)，你可以访问关于 Flask-RESTful 的更多细节。
 

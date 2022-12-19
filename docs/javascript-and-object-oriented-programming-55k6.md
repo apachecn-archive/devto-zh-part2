@@ -74,7 +74,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 类作为模板
 
-[![Class as Template](../Images/479b88d115674b224fb7144d59e0899f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0G_9bW75--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lalivz6ql5wgwqwlzktq.png) 
+[![Class as Template](img/479b88d115674b224fb7144d59e0899f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0G_9bW75--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lalivz6ql5wgwqwlzktq.png) 
 我们在 OOP 中使用类作为创建对象的模板。对象是“类的实例”，“实例化”是基于类创建对象。代码是在类中定义的，但除非在活动对象中，否则无法执行。
 
 你可以把类看成是汽车的蓝图。它们定义了汽车的属性，如扭矩和马力，内部功能，如空气燃料比，以及公众可以使用的方法，如点火。然而，只有当工厂实例化汽车时，您才能转动钥匙并驾驶汽车。
@@ -128,7 +128,7 @@ Class Basket 不需要任何参数来创建一个新对象。实例化一个新�
 
 ## 封装
 
-[![Encapsulation](../Images/116ca93539339c4ebd731ff31939476c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--p-Ug7Hm1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kv44aru8g9azu34zkjbu.png) 
+[![Encapsulation](img/116ca93539339c4ebd731ff31939476c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--p-Ug7Hm1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kv44aru8g9azu34zkjbu.png) 
 你可能会遇到另一个版本的如何声明类:
 
 ```
@@ -165,7 +165,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 继承
 
-[![Inheritancs](../Images/d098f8d635870ce2ec591d4be631c25c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cd-Bt39s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u32on9i6pbkgb9h09hyz.png) 
+[![Inheritancs](img/d098f8d635870ce2ec591d4be631c25c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cd-Bt39s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u32on9i6pbkgb9h09hyz.png) 
 继承允许您通过用附加属性和功能扩展现有类来创建新类。新类“继承”了其父类的所有特性，避免了从头开始创建新代码。此外，对父类所做的任何更改都将自动对子类可用，这使得更新更加容易。
 
 假设我们有一个名为 Book 的新类，它有名称、价格和作者。有了继承，你可以说一本书和一个产品是一样的，只是多了一个作者属性。我们说 Product 是 Book 的超类，Book 是 Product 的子类:

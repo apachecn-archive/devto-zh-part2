@@ -12,7 +12,7 @@
 确保插入输入标签并将“文本”设置为“类型”属性。
 初始化 datedropper 脚本的最后一步。
 
-[![](../Images/1280ab1111d29f7bdda12290925f7ebf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sPJGhxnH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://4.bp.blogspot.com/-1Q5mUfzuYFU/WmnGkK55ICI/AAAAAAAABNw/NvioD8Gq2Zg9RlD9vwo-82pRvgZ-gd_KQCLcBGAs/s400/date.gif)
+[![](img/1280ab1111d29f7bdda12290925f7ebf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sPJGhxnH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://4.bp.blogspot.com/-1Q5mUfzuYFU/WmnGkK55ICI/AAAAAAAABNw/NvioD8Gq2Zg9RlD9vwo-82pRvgZ-gd_KQCLcBGAs/s400/date.gif)
 
 [https://www.youtube.com/embed/5UCiUiLw05Y](https://www.youtube.com/embed/5UCiUiLw05Y)
 

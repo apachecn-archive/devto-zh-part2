@@ -29,7 +29,7 @@
 
 本文的最终产品如下所示:
 
-[![using the site](../Images/2b7935f9e67526f2f417689d5654fc28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zvs952J7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://developer.okta.com/assets/blog/build-understand-auth-node/using-the-site-ad78534a9856b7ad496c7e2c42b4bd8fad0daedee34a410da9a872d5c49b90d1.gif)
+[![using the site](img/2b7935f9e67526f2f417689d5654fc28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zvs952J7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://developer.okta.com/assets/blog/build-understand-auth-node/using-the-site-ad78534a9856b7ad496c7e2c42b4bd8fad0daedee34a410da9a872d5c49b90d1.gif)
 
 如果你想看这个项目的现场预览，你可以在这里做:[https://okta-express-login-portal.herokuapp.com/](https://okta-express-login-portal.herokuapp.com/)。
 
@@ -66,7 +66,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您现在有了一个简单的 Express.js 网站，可以运行并测试它。通过运行`npm start`启动新的网络服务器，然后在浏览器中访问`http://localhost:3000`,确保一切正常。如果一切正常，您应该会看到如下所示的页面。
 
-[![express starter page](../Images/b543a51022c0f36848b912f78fc9c9b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uqRoyubv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-understand-auth-node/express-starter-page-74a7d3ac4c7b71de0bf430dd737a2a298a8b65c7a9bc569212fde39a3a59bb92.png)
+[![express starter page](img/b543a51022c0f36848b912f78fc9c9b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uqRoyubv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-understand-auth-node/express-starter-page-74a7d3ac4c7b71de0bf430dd737a2a298a8b65c7a9bc569212fde39a3a59bb92.png)
 
 接下来，安装一些额外的包。我们将在余下的教程中使用这些包。预先将它们安装好，以后会更简单。
 
@@ -94,13 +94,13 @@ Okta 可以免费使用，并允许您创建和管理用户、授权服务器和
 
 要开始设置授权服务器，你首先需要创建一个免费的 Okta 开发者账户:[https://developer.okta.com/signup/](https://developer.okta.com/signup/)。一旦你创建了你的帐户并登录，按照下面的步骤配置 Okta，然后你就可以准备写一些代码了！
 
-[![Okta signup](../Images/ab3b9d40e353a7d927d26dfc2801a874.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HDaXSp4r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-understand-auth-node/okta-signup-ee14e7516bdc7df3e6e950a2c385706754c5300d842a1374785fd9e43cab2a6b.png)
+[![Okta signup](img/ab3b9d40e353a7d927d26dfc2801a874.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HDaXSp4r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-understand-auth-node/okta-signup-ee14e7516bdc7df3e6e950a2c385706754c5300d842a1374785fd9e43cab2a6b.png)
 
 ### 第一步:存储您的组织网址
 
 您需要做的第一件事是从 Okta 仪表板页面的右上方复制下 **Org URL** 。此 URL 将用于路由到您的授权服务器，与之通信，等等。稍后您将需要这个值，所以不要忘记它。
 
-[![Okta org url](../Images/6531c607f9ffb3a49d71843a7c469ddf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FQ3yy0qc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-understand-auth-node/okta-org-url-b26a98af3fa71a8f88519b5154d16d10fae846ff3df95d09995fcd61fa2c6175.png)
+[![Okta org url](img/6531c607f9ffb3a49d71843a7c469ddf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FQ3yy0qc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-understand-auth-node/okta-org-url-b26a98af3fa71a8f88519b5154d16d10fae846ff3df95d09995fcd61fa2c6175.png)
 
 ### 步骤 2:创建一个 OpenID Connect 应用程序
 
@@ -110,11 +110,11 @@ OpenID Connect 中的应用程序有一个用户名和密码(称为客户端 ID 
 
 要创建新的应用程序，请浏览到**应用程序**选项卡，并点击**添加应用程序**。
 
-[![Okta add application](../Images/d82d75f268fba8adab004978694223fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---0eQzZnw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-understand-auth-node/okta-app-dashboard-5d3d0ee99d0d6888f30bffc5fa3d58ddaafe907dfd2ec315589435b2fc7bb23b.png)
+[![Okta add application](img/d82d75f268fba8adab004978694223fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---0eQzZnw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-understand-auth-node/okta-app-dashboard-5d3d0ee99d0d6888f30bffc5fa3d58ddaafe907dfd2ec315589435b2fc7bb23b.png)
 
 接下来，点击 **Web** 平台选项(因为这个项目是一个 web app)。
 
-[![Okta create app web](../Images/301e5fa676ee1f9878c6e12d7b1c3281.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--axjWuIt4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-understand-auth-node/okta-create-app-platform-681dcd71ac7de879a92e80d243020f9c9be6edc17e6ae0b0adb40a70936eac24.png)
+[![Okta create app web](img/301e5fa676ee1f9878c6e12d7b1c3281.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--axjWuIt4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-understand-auth-node/okta-create-app-platform-681dcd71ac7de879a92e80d243020f9c9be6edc17e6ae0b0adb40a70936eac24.png)
 
 在“设置”页面上，输入以下值:
 
@@ -124,11 +124,11 @@ OpenID Connect 中的应用程序有一个用户名和密码(称为客户端 ID 
 
 您可以保持所有其他值不变。
 
-[![Okta create app settings](../Images/9ad29b440bfaf3e0fe8eb9b9f7ed0b1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LMSqH9bK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-understand-auth-node/okta-create-app-settings-e232b231bc66f56f47e4ed7e784cde968a64d982f3a065c82d0ba62d929b2ac0.png)
+[![Okta create app settings](img/9ad29b440bfaf3e0fe8eb9b9f7ed0b1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LMSqH9bK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-understand-auth-node/okta-create-app-settings-e232b231bc66f56f47e4ed7e784cde968a64d982f3a065c82d0ba62d929b2ac0.png)
 
 现在您的应用程序已经创建好了，请记下下页的**客户端 ID** 和**客户端秘密**值，稍后我们开始编写代码时会用到它们。
 
-[![Okta signup](../Images/f26f1c19ecaca3a3ca20bcd708456b77.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ORQiawxl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-understand-auth-node/okta-app-credentials-2f5b916ff40dc7425e731c801f9b087342846ed828a7979ab79127059d67d6b3.png)
+[![Okta signup](img/f26f1c19ecaca3a3ca20bcd708456b77.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ORQiawxl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-understand-auth-node/okta-app-credentials-2f5b916ff40dc7425e731c801f9b087342846ed828a7979ab79127059d67d6b3.png)
 
 ### 步骤 3:创建认证令牌
 
@@ -141,7 +141,7 @@ OpenID Connect 中的应用程序有一个用户名和密码(称为客户端 ID 
 
 要创建认证令牌，单击页面顶部的 **API** 选项卡，然后单击**创建令牌**按钮。给你的令牌起一个名字，最好和你的应用程序同名，然后点击**创建令牌**。创建令牌后，请将令牌值复制下来，因为您稍后会需要它。
 
-[![Okta create token](../Images/5bd47800edb4fad1d19679f7df5bf0f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F0P_U4Yg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-understand-auth-node/okta-create-token-008a4364f7541ac93b9baf5d3b381ba889bd7188fd6101b19901f0cdf9821a6c.png)
+[![Okta create token](img/5bd47800edb4fad1d19679f7df5bf0f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F0P_U4Yg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-understand-auth-node/okta-create-token-008a4364f7541ac93b9baf5d3b381ba889bd7188fd6101b19901f0cdf9821a6c.png)
 
 ### 第四步:启用用户注册
 
@@ -149,11 +149,11 @@ OpenID Connect 中的应用程序有一个用户名和密码(称为客户端 ID 
 
 在您的 Okta 仪表板中，您会注意到页面左上角有一个标有 **< >开发者控制台**的小按钮。将鼠标悬停在该按钮上，选择出现的**经典用户界面**菜单选项。
 
-[![Okta switch to classic ui](../Images/e493cca8703d404517aef5ce8b988f69.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IlWKyYti--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-understand-auth-node/okta-switch-to-classic-ui-249d1b924c3db38af5d62bf17be65a32579117d9d23c8c28cb7e365eba7d8f85.png)
+[![Okta switch to classic ui](img/e493cca8703d404517aef5ce8b988f69.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IlWKyYti--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-understand-auth-node/okta-switch-to-classic-ui-249d1b924c3db38af5d62bf17be65a32579117d9d23c8c28cb7e365eba7d8f85.png)
 
 接下来，将鼠标悬停在页面顶部的**目录**选项卡上，然后选择**自助注册**菜单项。在此页面上点击**启用注册**按钮。
 
-[![Okta enable registration](../Images/ea52f88437f1ea08e9ba8756d2066aea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Fq3x_MY2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-understand-auth-node/okta-enable-registration-2cfef05884c196fa53bc7c55728c77437713fffa5d549e1874e18c2593825b1f.png)
+[![Okta enable registration](img/ea52f88437f1ea08e9ba8756d2066aea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Fq3x_MY2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-understand-auth-node/okta-enable-registration-2cfef05884c196fa53bc7c55728c77437713fffa5d549e1874e18c2593825b1f.png)
 
 在配置页面上，将所有设置保留为默认值，除了**默认重定向**选项。对于该选项，点击**自定义 URL** 单选框，输入`http://localhost:3000/dashboard`作为值。
 
@@ -161,7 +161,7 @@ OpenID Connect 中的应用程序有一个用户名和密码(称为客户端 ID 
 
 一旦你点击了**保存**，你需要做的最后一件事就是切换回开发者控制台。
 
-[![Okta registration settings](../Images/7a44b747a24ea12ba39670f330f8d943.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yXcKiFYI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-understand-auth-node/okta-registration-settings-1c56ddf046d5ddf4c58559a76adf32dd03624a076c2ba13a5d92639b9fe1280e.png)
+[![Okta registration settings](img/7a44b747a24ea12ba39670f330f8d943.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yXcKiFYI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-understand-auth-node/okta-registration-settings-1c56ddf046d5ddf4c58559a76adf32dd03624a076c2ba13a5d92639b9fe1280e.png)
 
 将鼠标悬停在页面右上角的**经典 UI** 按钮上，从下拉菜单中选择 **< >开发者控制台**菜单项。
 
@@ -217,7 +217,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 确保用您键入的实际随机字符串替换`LONG_RANDOM_STRING_HERE`。这个字符串将保护你的用户的 cookies 不被泄露。我个人喜欢用手在键盘上敲击几秒钟来产生一些随机的东西。
 
-[![programming](../Images/7d5a2f673fb5ad709b793884892b0b1b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HgGwJqVv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://developer.okta.com/assets/blog/build-understand-auth-node/programming-103ce847f2a5747490d5037401aa3c12f5623f61862c34be0affa9a183498ff1.gif)
+[![programming](img/7d5a2f673fb5ad709b793884892b0b1b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HgGwJqVv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://developer.okta.com/assets/blog/build-understand-auth-node/programming-103ce847f2a5747490d5037401aa3c12f5623f61862c34be0affa9a183498ff1.gif)
 
 该会话库在后台处理大量工作:
 
@@ -491,7 +491,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 然后在浏览器中访问`http://localhost:3000`。您应该会看到下面呈现的页面。
 
-[![app unstyled](../Images/9692cbc97644d87b4ce0c7628cf00b5f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HMiS_kPR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-understand-auth-node/app-unstyled-6a691ad9bdb0c2ea4bacaf4cf9c11398cd1a4e79e985a0b94f32bb06de4ef8b0.png)
+[![app unstyled](img/9692cbc97644d87b4ce0c7628cf00b5f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HMiS_kPR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-understand-auth-node/app-unstyled-6a691ad9bdb0c2ea4bacaf4cf9c11398cd1a4e79e985a0b94f32bb06de4ef8b0.png)
 
 **注意**:这个页面看起来还不太好，因为我们还没有创建任何 CSS。我们最后再做。
 
@@ -759,7 +759,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 既然你的 Express.js 网站建好了，为什么不拿去试驾一下呢？通过运行`npm start`命令启动您的 web 服务器，访问`http://localhost:3000`，并进行测试！
 
-[![using the site locally](../Images/7dcfeff365be2af1a4ec3f5a09db48a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MFK8Oqqy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://developer.okta.com/assets/blog/build-understand-auth-node/using-the-site-local-37f57f615a88df903b03ecf76b3987f4eda2e346025ac5ef371398705e61d62c.gif)
+[![using the site locally](img/7dcfeff365be2af1a4ec3f5a09db48a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MFK8Oqqy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://developer.okta.com/assets/blog/build-understand-auth-node/using-the-site-local-37f57f615a88df903b03ecf76b3987f4eda2e346025ac5ef371398705e61d62c.gif)
 
 您会注意到一些事情:
 

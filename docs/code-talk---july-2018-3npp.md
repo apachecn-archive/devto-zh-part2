@@ -48,7 +48,7 @@ CSS 总是在进化，每天都会发现巧妙有趣的问题解决方案。自�
 
 我总是喜欢在我的每月清单上添加一个视频，有些人更喜欢听别人说话，乔希·埃文斯在这里谈论网飞混乱而充满活力的微服务世界非常棒。对于任何考虑这种转变的人来说，这是一个必须关注的问题。它有点旧了，但网飞仍然是同类中最好的，所以我仍然非常推荐它。
 
-[![Mastering Chaos](../Images/463b8cec5893ca6c4fb26f8daaae1e7e.png)T2】](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
+[![Mastering Chaos](img/463b8cec5893ca6c4fb26f8daaae1e7e.png)T2】](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
 
 * * *
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/samuyi/using-ssh-agent-to-simplify-your-ssh-experience--1in8>
 
-[![Picture showing how ssh-agent works](../Images/8367a130cca9c8a8ad32d78c44ad4c5d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QLruX-gP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gnjx8wzk5di0i2wkdsdi.gif)
+[![Picture showing how ssh-agent works](img/8367a130cca9c8a8ad32d78c44ad4c5d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QLruX-gP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gnjx8wzk5di0i2wkdsdi.gif)
 
 SSH 密钥用于 SSH 服务器和客户端之间的身份管理。基本上 SSH 中的键有两种用法；以识别服务器和识别用户。SSH 主机密钥用于识别服务器，这确保了客户端知道它正在与正确的服务器对话。通常，主机密钥存储在由系统管理员维护的安全存储库中。当服务器被提供时，管理员在服务器地址上运行 ssh-keyscan 来获取服务器的密钥指纹。如果存在 SSH 服务器，服务器的主机密钥将在服务器启动时生成。
 SSH 密钥的第二个用途是向 SSH 服务器标识用户。(如果您在 SSH 服务器上使用密码，最好改为公钥，以保护您的服务器免受即将到来的字典攻击。)每次你尝试访问 SSH 服务器时，你都需要解密你的私钥，因此如果你运行:

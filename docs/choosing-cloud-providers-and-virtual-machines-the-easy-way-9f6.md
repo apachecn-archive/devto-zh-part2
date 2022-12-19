@@ -13,7 +13,7 @@
 该工具的关键特性是，堆叠条形图中描绘的每个虚拟机的 CPU 利用率代表了应用于每个虚拟机的“相同”工作负载。例如，如果 VM_1 的 CPU 利用率(粉色条)为 50%,而另一个 VM_2 的 CPU 利用率为 25%,那么结论是，当将*相同的工作负载*应用于 VM_1 和 VM_2 时，相应的 CPU 利用率将分别为 50%和 25%。这一底层属性让我们可以比较不同虚拟机的 CPU 特征。
 
 **图 BigBitBus 云提供商和虚拟机优化工具用户界面**
-[![](../Images/dbc22d94023f7b4c8ba71a9d0a206653.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yxLfCAOH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z1mzps5ak6o902wvd01f.png)
+[![](img/dbc22d94023f7b4c8ba71a9d0a206653.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yxLfCAOH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z1mzps5ak6o902wvd01f.png)
 
 ### 用户界面上的输入控件
 

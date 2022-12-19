@@ -5,11 +5,11 @@
 离圆周率日(3 月 14 日)只有一周了。圆周率是一个有趣的数字，这里有一个有趣的事情可以尝试:用线段画一个圆。其工作方式是，你首先只用三条线段画一个圆，这实际上是画一个三角形。四条线段画一个正方形。五段开始呈现“圆形”形状。随着分段数量的增加(达到约 150)，形状变得越来越圆。
 
 这里我的意思是:
-[![Pi Animation](../Images/23f1526afa16b0faa387655bb1367036.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UbhqJvLX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.xojo.com/wp-content/uploads/2015/03/circle.gift1466486449161ampwidth480ampheight360)
+[![Pi Animation](img/23f1526afa16b0faa387655bb1367036.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UbhqJvLX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.xojo.com/wp-content/uploads/2015/03/circle.gift1466486449161ampwidth480ampheight360)
 
 为了制作一个这样的应用程序，你需要知道一点点三角学，这样你就可以使用正弦和余弦。下面的图表可能有助于更好地解释这个问题:
 
-[![Pi calc](../Images/7aab19f59b39d9f044525f0d6357828c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xvW0BCVS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.xojo.com/wp-content/uploads/2015/03/2015-03-06_17-26-38-thumb-400x309-593.pngt1466486449161ampwidth400ampheight309)
+[![Pi calc](img/7aab19f59b39d9f044525f0d6357828c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xvW0BCVS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.xojo.com/wp-content/uploads/2015/03/2015-03-06_17-26-38-thumb-400x309-593.pngt1466486449161ampwidth400ampheight309)
 
 本质上，代码计算从开始位置到结束位置的直线。通过使用余弦得到图上的 X 值来计算终点位置。正弦用于获取图表上的 Y 值。
 

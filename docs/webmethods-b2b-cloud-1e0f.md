@@ -4,12 +4,12 @@
 
 # webMethods B2B 集成迁移到云
 
-| 2018 年第四期 | [![](../Images/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue4/SAG_webMethods_B2B_Integration_TECHniques_Oct18_WEB.pdf) |
+| 2018 年第四期 | [![](img/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue4/SAG_webMethods_B2B_Integration_TECHniques_Oct18_WEB.pdf) |
 | --- | --- |
 
 总部位于 SaaS 的合作伙伴集成服务 webMethods B2B Cloud 于 2018 年 10 月推出。B2B 云将包括 webMethods Trading Networks 的快速合作伙伴加入和合作伙伴管理功能、EDI 用例支持以及交易监控的端到端可见性。
 
-[![](../Images/468dee61bfe7daada436619cf1259fba.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AK22IfC4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/B2B_1.jpg/5ef0bad0-7393-432d-adb3-5d871e62a0fa%3Ft%3D1540281378441) 
+[![](img/468dee61bfe7daada436619cf1259fba.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AK22IfC4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/B2B_1.jpg/5ef0bad0-7393-432d-adb3-5d871e62a0fa%3Ft%3D1540281378441) 
 
 **图 1:** webMethods B2B 云的首页
 
@@ -23,7 +23,7 @@
 
 Software AG 的 B2B 云建立在 Software AG 行业领先的贸易网络平台(包括通过 webMethods Integration Cloud 提供的后端集成支持)之上，可随时提供合作伙伴集成即服务，支持客户、供应商、分销商和其他贸易合作伙伴所需的现成文档格式和处理规则，包括通过 HTTP 和 AS2 进行实时 EDI (ANSI X12)电子文档交换。
 
-[![](../Images/83f8e57637bd875dbeddae2d158640dc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kyrZi9zw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/B2B_2.jpg/e2666236-b27b-4ac0-89a8-696a107fb181%3Ft%3D1540281625809) 
+[![](img/83f8e57637bd875dbeddae2d158640dc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kyrZi9zw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/B2B_2.jpg/e2666236-b27b-4ac0-89a8-696a107fb181%3Ft%3D1540281625809) 
 
 **图 2:** B2B 云集成架构
 
@@ -33,7 +33,7 @@ Software AG 的 B2B 云建立在 Software AG 行业领先的贸易网络平台(�
 
 此外，该系统使用户能够维护合作伙伴对渠道(EDI 传输格式)和标准的偏好。
 
-[![](../Images/9d27cf6dada0201d0a172297480d153e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oCLtkbO0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/B2B_3.jpg/936234ac-8e32-451b-9f97-30a8b7d474e5%3Ft%3D1540281743169)
+[![](img/9d27cf6dada0201d0a172297480d153e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oCLtkbO0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/B2B_3.jpg/936234ac-8e32-451b-9f97-30a8b7d474e5%3Ft%3D1540281743169)
 
 **图 3:** B2B 云的合作伙伴档案管理
 

@@ -6,7 +6,7 @@
 
 *更新了代码样本以支持[工作流@ 2 . x](https://github.com/havardh/workflow/commit/ca77860)T3。*
 
-[![code-sample](../Images/4a8c1c65961908e2a573cee0a1af1620.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2qyiMios--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f8v95okq5cqmio7pooit.png)
+[![code-sample](img/4a8c1c65961908e2a573cee0a1af1620.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2qyiMios--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f8v95okq5cqmio7pooit.png)
 
 流文件是布局声明，您可以在其中声明要打开哪些应用程序以及它们应该出现在屏幕上的什么位置。这篇文章将向你展示如何使用 [`workflow-react`](https://github.com/havardh/workflow/tree/master/packages/workflow-react) 包编写一个流文件作为一个小的 React 应用程序。
 

@@ -4,7 +4,7 @@
 
 我以前也想过这个问题，但最近我被触发写下了这个，感谢这张图片:
 
-[![](../Images/e4e79ec7bc910773c7c73b0906679a92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1UKExOf_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.shalvah.me/store/media/3o3knp6z45jbsx675d9j.png)
+[![](img/e4e79ec7bc910773c7c73b0906679a92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1UKExOf_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.shalvah.me/store/media/3o3knp6z45jbsx675d9j.png)
 
 (来自[本帖](https://dev.to/gmartigny/awesome-projects-under-1000-stars-3---lyo-2k93))
 

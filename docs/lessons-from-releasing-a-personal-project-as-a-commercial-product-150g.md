@@ -10,7 +10,7 @@
 
 杜山会对我说:‘把你每天做的事情自动化。这会很难，你必须学习很多东西，但它会教你如何写代码。我照做了。
 
-[![](../Images/37414566df57efbc73f70dbe646424ba.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8sC8upAP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wlsj50jy8gbfg0gacyy8.jpg) 
+[![](img/37414566df57efbc73f70dbe646424ba.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8sC8upAP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wlsj50jy8gbfg0gacyy8.jpg) 
 *我拿着独山(多半)这个烂摊子负责*
 
 在毕马威，我花了很多时间与微软 Excel 进行较量。Excel 没有什么根本性的问题。问题是它是一个非常通用的工具，而我们所做的工作并不通用。手动拷贝和粘贴数据、清理数据、移动数据花费了太多时间。
@@ -21,7 +21,7 @@
 
 权力越大，责任越大。很快我就在我们的游戏中写代码了。我以为我很聪明。我写的一些东西非常酷，其中一个功能甚至让我受邀在游戏开发者大会上发言。但是该死的，大部分都是垃圾。
 
-[![](../Images/392a07198a1ea00b07f05214b84622ba.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OYnqru-O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ze5denvui8uxj2mltr8r.jpg) 
+[![](img/392a07198a1ea00b07f05214b84622ba.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OYnqru-O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ze5denvui8uxj2mltr8r.jpg) 
 *从事 [Subnautica](https://twitter.com/subnautica) 的工作告诉我，平庸的程序员对大型项目的健康是危险的。同样危险的还有:死神利维坦*
 
 在大型软件项目中，没有什么比平庸的程序员更危险的了。我们就像一只发情的放射性草原土拨鼠:带着 bug、难以理解的意图、零文档、无测试和糟糕的安全性跑来跑去污染代码库。
@@ -30,14 +30,14 @@
 
 再次通灵独山，我决定开始一个会计软件项目。会计软件让我跑了。随着我对代码了解的越来越多，我意识到大多数会计软件都是垃圾。将大型会计软件包集成到其他软件中几乎是不可能的。
 
-[![](../Images/a724a46cfc92613753b638886ee802f2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JnKg1LuE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3ys8vfqrkmmcq78yvhdm.jpg) 
+[![](img/a724a46cfc92613753b638886ee802f2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JnKg1LuE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3ys8vfqrkmmcq78yvhdm.jpg) 
 *一帧能装多少家软件创业公司？*
 
 几个小时后，周末，以及任何更健康的人休假的时候，我一点一点地组装了一个我称之为[阿马蒂诺](https://amatino.io)的怪兽。它总是被认为是小事情。一个我自己会用到的副业。哈哈的笑...哈。哦亲爱的。
 
 今天，任何人都可以使用阿马蒂诺。这是一个全球分布、高性能、功能丰富的会计梦遗。你可以订阅 Amatino，真的钱会到我的银行账户。太过分了！
 
-[![](../Images/9a9cad6ba50908614fae51ec51f9d67a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--H41PiLCX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hy4ebqygfp3fibv1lzvn.jpg) 
+[![](img/9a9cad6ba50908614fae51ec51f9d67a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--H41PiLCX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hy4ebqygfp3fibv1lzvn.jpg) 
 *还是不敢相信这是真实截图*
 
 更好的是，我已经实现了我最初的目标。我觉得在未知世界游戏的代码中挖掘很舒服，不再是我们代码质量的危险负担。我终于可以做一些我多年前看到马克斯、查理、杜尚、史蒂夫、乔纳斯和布莱恩在做的事情了。
@@ -52,7 +52,7 @@
 
 好吧，如果这不能让你开心，那就辞职吧。但是如果你快乐，就坚持下去。在过去的几年里，我给了未知世界 100%甚至更多。未知世界让我超级开心。为了同时建立 Amatino，我必须发展纪律:每天晚上，每个周末，每个假期，拼命编码。
 
-[![](../Images/b5543ddcc75654e09eab616fdc2598ba.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--l_InUbEX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mri7xkb28ddxcyar184f.jpg) 
+[![](img/b5543ddcc75654e09eab616fdc2598ba.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--l_InUbEX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mri7xkb28ddxcyar184f.jpg) 
 *花足够多的时间在《未知世界》的创始人 [Max](https://twitter.com/max_mcguire) (左)和 [Charlie](https://twitter.com/flayra) (右)身边，你会受到启发去做很酷的事情*
 
 好处很多。首先，你不会和你的同事失去联系。查理、马克斯、斯科特、勃兰特和许多其他人不断地激励着我。第二，你不用担心资金问题，因为你有工作。第三，你被禁足了。
@@ -71,7 +71,7 @@
 
 不要不停地谈论你的项目，让你的伴侣厌烦得要死。最重要的是，不要因为你认为在你的项目发布后时机就成熟了，就推迟重大的人生决策。
 
-[![](../Images/5d17335be435ff677c63f72cb9043f1b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bXtWEPRf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2mfhsuzb852kpbkg3s14.jpg) 
+[![](img/5d17335be435ff677c63f72cb9043f1b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bXtWEPRf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2mfhsuzb852kpbkg3s14.jpg) 
 *不要推迟重大决策！*
 
 ### 第四课:吃好，运动，别喝醉
@@ -86,7 +86,7 @@
 
 明智地寻求第三方依赖，并且只在绝对必要的情况下。通过涉猎那些需要自己分配内存的语言来学习，同时利用那些不需要的语言带来的速度提升。制造计算机。修补它们。
 
-[![](../Images/f24f55e8e981985d12d0466b7fc73d66.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YThyOD67--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pqzetd6qldqhqgjas4p1.jpg) 
+[![](img/f24f55e8e981985d12d0466b7fc73d66.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YThyOD67--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pqzetd6qldqhqgjas4p1.jpg) 
 *你会从建造、破坏和升级自己的电脑中学到很多东西。这一次可能是我做得有点过了*
 
 热门提示:如果你的电梯推销包含第三方依赖的品牌名称，你就违反了第 5 课。

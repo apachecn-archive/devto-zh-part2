@@ -6,7 +6,7 @@
 
 AMP 页面是那些带有小闪电的移动谷歌搜索结果。闪电意味着快。
 
-[![](../Images/366fe6ba12977e8eee52a06348f4d853.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oji5VPgZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.smartinsights.com/wp-content/uploads/2017/10/AMP-Symbol.png)
+[![](img/366fe6ba12977e8eee52a06348f4d853.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oji5VPgZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.smartinsights.com/wp-content/uploads/2017/10/AMP-Symbol.png)
 
 速度很快，但是我不能绕到 AMP 方法。当用户访问 AMP 结果时，他们不会去那个网页，而是去`google.com/amp/...`。
 
@@ -22,7 +22,7 @@ AMP 页面是那些带有小闪电的移动谷歌搜索结果。闪电意味着�
 
 <figure>
 
-[![](../Images/54f1be36e50f825381bacd4d5bf9a5b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AXV8HMs4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.buzzfeed.com/buzzfeed-static/static/2017-09/8/16/campaign_images/buzzfeed-prod-web-13/9-oh-no-moments-by-alex-norris-gauranteed-to-make-2-8570-1504902780-4_dblbig.jpg)
+[![](img/54f1be36e50f825381bacd4d5bf9a5b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AXV8HMs4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.buzzfeed.com/buzzfeed-static/static/2017-09/8/16/campaign_images/buzzfeed-prod-web-13/9-oh-no-moments-by-alex-norris-gauranteed-to-make-2-8570-1504902780-4_dblbig.jpg)
 
 <figcaption>Credit Alex Norris (https://twitter.com/dorrismccomics)</figcaption>
 

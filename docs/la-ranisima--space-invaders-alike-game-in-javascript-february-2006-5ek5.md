@@ -4,7 +4,7 @@
 
 “La Ranisima”是一款完全用 DHTML (HTML、CSS 和 JavaScript)编写的开源游戏，其灵感来自经典的《太空入侵者》,尽管使用了会受到最小孩子喜爱的幼稚图形。
 
-[![Screenshot](../Images/c5fd972384dad5f262e836391ab4e79d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Kpd7ZOm6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://dhtmlgames.com/ranisima/ranisima.gif)
+[![Screenshot](img/c5fd972384dad5f262e836391ab4e79d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Kpd7ZOm6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://dhtmlgames.com/ranisima/ranisima.gif)
 
 这是我的第一个 DHTML 游戏，它是在 2006 年初基于 DOM 操纵制作的，当时几乎没有人知道 JavaScript 在游戏开发中的强大功能，大多数喜欢使用 Flash 甚至 Java 开发游戏的开发人员也不知道与之相关的所有技术。
 

@@ -42,8 +42,8 @@
 
 以下是我在素描几轮后得出的结论:
 
-[![Ryosuke page mockup in Sketch](../Images/657cad8c43ea3384925b9435e6a0f63b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QMKDYgAD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://whoisryosuke.com/static/ryosuke-blog-page-ca5145bfbcbec15697acf28e70b9d2e6-e2462.png)
-[![Ryosuke blog mockup in Sketch](../Images/f3f45b3b3bba0a9eab98e97a4775eed3.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--n-NKKg58--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://whoisryosuke.com/static/ryosuke-blog-posts-a45ebde64edf44705893ca61f9537904-e2462.png)
+[![Ryosuke page mockup in Sketch](img/657cad8c43ea3384925b9435e6a0f63b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QMKDYgAD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://whoisryosuke.com/static/ryosuke-blog-page-ca5145bfbcbec15697acf28e70b9d2e6-e2462.png)
+[![Ryosuke blog mockup in Sketch](img/f3f45b3b3bba0a9eab98e97a4775eed3.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--n-NKKg58--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://whoisryosuke.com/static/ryosuke-blog-posts-a45ebde64edf44705893ca61f9537904-e2462.png)
 
 ## 发展
 

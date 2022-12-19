@@ -105,7 +105,7 @@ class PostController(BaseController):
 
 ## 我们来搞定这个吧！
 
-[![](../Images/92998624e8802038ce1697908f6b3ec3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xoQTPnvn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://frederikcreemers.be/posts/code-layout/refactor.png)
+[![](img/92998624e8802038ce1697908f6b3ec3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xoQTPnvn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://frederikcreemers.be/posts/code-layout/refactor.png)
 
 让我们将所有与帖子相关的功能组合在一起，将所有与用户相关的功能组合在一起，等等...
 

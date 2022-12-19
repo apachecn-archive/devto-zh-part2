@@ -10,7 +10,7 @@
 
 `defaults write -g CGFontRenderingFontSmoothingDisabled -bool NO`
 
-[![5 Macos Mojave Font Rendering Issue Fix](../Images/3fdc49397fa55ec822f556957a594a47.png)T2】](https://ahmadawais.com/fix-macos-mojave-font-rendering-issue/)
+[![5 Macos Mojave Font Rendering Issue Fix](img/3fdc49397fa55ec822f556957a594a47.png)T2】](https://ahmadawais.com/fix-macos-mojave-font-rendering-issue/)
 
 这将导致启用字体平滑，特别是对于非 retina 外部显示器。你以后会感谢我的。**运行此命令**后，您需要注销并重新登录或重启 Mac 才能看到您的更改。差不多就这些了。
 
@@ -28,7 +28,7 @@
 
 🙃啊哈！我在那里发现了一个新的设置，它叫做`CGFontRenderingFontSmoothingDisabled`——很明显这个设置是做什么的。禁用平滑字体的呈现。它被设置为`1`，这意味着它被设置为`TRUE`或`YES`。
 
-[![Macos Mojave Cgfontrenderingfontsmoothingdisabled 1](../Images/0a3a7d21f85f021bb799b6780ef9bd22.png)T2】](https://AhmadAwais.com/)
+[![Macos Mojave Cgfontrenderingfontsmoothingdisabled 1](img/0a3a7d21f85f021bb799b6780ef9bd22.png)T2】](https://AhmadAwais.com/)
 
 所以，我所要做的就是试试我的运气，禁用这个字体平滑禁用器，即在非苹果/非视网膜 led 上启用字体平滑。为此，我编写了以下命令:
 
@@ -41,15 +41,15 @@
 
 我运行这个命令，通过登录和退出来检查它是否有效，结果它成功了。超级开心。我希望苹果在不久的将来的更新中解决这个问题，而不是完全禁用这个选项。
 
-[![Macos Font Fix Cgfontrenderingfontsmoothingdisabled](../Images/ebcc28121fcfaa12c63f56def9414e43.png)T2】](https://AhmadAwais.com/)
+[![Macos Font Fix Cgfontrenderingfontsmoothingdisabled](img/ebcc28121fcfaa12c63f56def9414e43.png)T2】](https://AhmadAwais.com/)
 
 🎉因为我是 [VSCode](https://VSCode.pro/) 的忠实粉丝，所以我做了一个默认设置的前/后`--diff`，看起来设置现在被设置为`0`了，它工作得太好了！
 
-[![Macos Mojave Defaults Changed Font Fixed](../Images/bc312f2b1271db34ccb456204f29840d.png)](https://AhmadAwais.com/)[/corner _ full page _ image]
+[![Macos Mojave Defaults Changed Font Fixed](img/bc312f2b1271db34ccb456204f29840d.png)](https://AhmadAwais.com/)[/corner _ full page _ image]
 
 ⚠️有些人还建议在`General`字体设置中启用字体平滑选项，但这对我不起作用。它已经启用，但对改善局势没有任何作用。
 
-[![Font Blur Issue Macos Mojave](../Images/ed405ed32c5a4a4d5101402bdad30192.png)T2】](https://ahmadawais.com/fix-macos-mojave-font-rendering-issue/)
+[![Font Blur Issue Macos Mojave](img/ed405ed32c5a4a4d5101402bdad30192.png)T2】](https://ahmadawais.com/fix-macos-mojave-font-rendering-issue/)
 
 和平！✌️
 

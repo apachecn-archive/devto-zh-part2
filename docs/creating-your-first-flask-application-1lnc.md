@@ -2,13 +2,13 @@
 
 > 原文：<https://dev.to/hackersandslackers/creating-your-first-flask-application-1lnc>
 
-[![Creating Your First Flask Application](../Images/533f50ba5d8033a0ab7d585876b2260d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VFkH6-j0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackersandslackers-cdn.storage.googleapis.com/2020/02/flask-intro.jpg)
+[![Creating Your First Flask Application](img/533f50ba5d8033a0ab7d585876b2260d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VFkH6-j0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackersandslackers-cdn.storage.googleapis.com/2020/02/flask-intro.jpg)
 
 几年来，弗拉斯克掌权的证据一直在我们身边。任何密切关注初创公司选择的技术堆栈的人无疑都注意到了一个转变:在某个时候，行业标准完全背离了 Django。
 
 整个行业都在烧瓶上下了巨大的赌注。Plotly 的著名的 **Dash** 产品是已经取得巨大成功的 Flask 的延伸。甚至主要的云提供商，即**谷歌云**，都选择默认使用 Flask 来实现无服务器应用的 Python 实现。谷歌云功能和谷歌应用引擎都在其核心运行 Flask。JetBrains 终于用他们的 [2018 Python 调查](https://www.jetbrains.com/research/python-developers-survey-2018/):47%**的 devs 使用 Flask 的报告给这一趋势加上了官方数字，Django 的 **45%** 。游戏:女式衬衫。**
 
-<figure>[![Creating Your First Flask Application](../Images/c93be71a337db7a29307ae2187057081.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8wCE4d0J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.googleapis.com/hackersandslackers-cdn/2019/09/0_t_K8nhHmTTmYpZ-b.png) 
+<figure>[![Creating Your First Flask Application](img/c93be71a337db7a29307ae2187057081.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8wCE4d0J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.googleapis.com/hackersandslackers-cdn/2019/09/0_t_K8nhHmTTmYpZ-b.png) 
 
 <figcaption>烧瓶赢得 2018 年市场主导权。</figcaption>
 

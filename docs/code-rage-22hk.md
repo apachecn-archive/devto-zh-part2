@@ -14,7 +14,7 @@
 
 但是，当他们试图让 StackOverflow 成为一个更受欢迎的地方时，那些对创造有毒环境负有责任的愤怒群众(像往常一样)在评论区表达了他们对脚下变化的不满。
 
-[![Bowie Disapproves](../Images/f26e1cafcb4958509c76639b5535b1a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_BIeqEls--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5dwux36a7nqhxc1see4a.gif)
+[![Bowie Disapproves](img/f26e1cafcb4958509c76639b5535b1a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_BIeqEls--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5dwux36a7nqhxc1see4a.gif)
 
 如果你曾经在 StackOverflow 上，或者实际上在许多编码器社区上提出过问题，你无疑会有过这样的经历:提出问题或提出建议，然后因为你的“大胆”而被剥夺了生命的精华。关于这个话题，我已经写了很多次，也说过很多次，甚至创造了一些幽默的伪拉丁名字来描述这些交流方式，比如*Programmaticus new bieframerous*和*Programmaticus Militaricus*。
 
@@ -24,7 +24,7 @@
 
 ...等等，垃圾用户？
 
-[![Garbage?](../Images/fc9ccddadb468a79ad7f564fd951339f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DNcou3YB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c9sds9dodo7sc6nz127y.gif)
+[![Garbage?](img/fc9ccddadb468a79ad7f564fd951339f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DNcou3YB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c9sds9dodo7sc6nz127y.gif)
 
 对我来说，这个评论非常有效地展示了弥漫在我们今天的编码文化中的有害气氛背后的驱动力:**我们习惯于通过一个人的行为来评估他的价值。**
 
@@ -44,7 +44,7 @@
 
 我们该怎么做？
 
-[![It's called a blinker!](../Images/4ec282db33780fbbae5e813deebeb2a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IR7SvZXq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6jhvefp6xlyn3rzxrb88.jpg)
+[![It's called a blinker!](img/4ec282db33780fbbae5e813deebeb2a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IR7SvZXq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6jhvefp6xlyn3rzxrb88.jpg)
 
 他的驾驶技术很糟糕吗？哦，当然。他可能会接受一些重要的驾驶再教育。他可能是一个真正的混蛋！...也可能不是。也许他今天不在状态。也许他因为连续工作 14 个小时而累了。也许他的妻子在医院，他分心了。也许他真的，认真的，只是没有意识到自己在做什么！
 
@@ -64,7 +64,7 @@
 *   挫折(未满足的真实或感知的期望)
 *   不安全感(对个人价值的真实或感知的攻击)
 
-[![Anger exploding](../Images/967387582570456a006081fe759808ca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XPycfzzJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0vd74frcfg64vbxnr4gq.gif)
+[![Anger exploding](img/967387582570456a006081fe759808ca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XPycfzzJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0vd74frcfg64vbxnr4gq.gif)
 
 有鉴于此，我认为有两个主要原因导致了路怒症的发生:
 
@@ -94,7 +94,7 @@
 
 *   如果你对这个问题感兴趣，转向你的社交媒体，喋喋不休地谈论一些愚蠢的人提出的愚蠢的问题。(标记有问题的白痴的加分。)
 
-[![Ya Burnt!](../Images/27d4fc64703d161155d54058e41dc740.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KB3ItG1R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ouyv7v7ld3sz8gm3hn58.gif)
+[![Ya Burnt!](img/27d4fc64703d161155d54058e41dc740.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KB3ItG1R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ouyv7v7ld3sz8gm3hn58.gif)
 
 完成了告知白痴们他们的愚蠢的任务后，当你遇到其他事情时，你又回到了浏览社区。
 
@@ -118,7 +118,7 @@
 
 反对票意味着什么？“我们不喜欢这个内容。”问题是，对于一个还不了解这个社区所有动态的人来说，这通常是令人困惑的，仅仅是因为**人们无法读懂你的想法**。
 
-[![Two Thumbs Down](../Images/9874615dd7b804fc0cf4c4810354b433.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ASyU9irP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nszs7gip7ri5skl0sl6k.gif)
+[![Two Thumbs Down](img/9874615dd7b804fc0cf4c4810354b433.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ASyU9irP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nszs7gip7ri5skl0sl6k.gif)
 
 问题是否显示不努力？答案是否技术上不正确？措辞难懂吗？这是重复的吗(老实说，大多数平台都有其他工具来处理这个问题！)仅仅是链接吗？是不是觉得问题太明显了？如果你是诚实的，你会不会干脆不喜欢这个人？
 
@@ -136,7 +136,7 @@
 
 我们可以用语言来教育、告知和激励他人，也可以用语言来斥责、贬低和打击他人。当我们选择词语时，我们必须考虑到其他人，选择对他们有帮助的词语。
 
-[![Breathing Fire](../Images/9e555edf380b3750e9806aef05762492.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MmODhPH9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m1jzmv8i5eu2g1hrryd6.gif)
+[![Breathing Fire](img/9e555edf380b3750e9806aef05762492.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MmODhPH9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m1jzmv8i5eu2g1hrryd6.gif)
 
 不要误解我，这不是某种“滴血的心”的情绪，主张踮着脚绕过别人过度敏感的情绪。告诫有时需要直言不讳。新信息可能不会让人“感觉”良好。纠正可能需要力量。但是我们的目的不同:我们可能会暂时伤害某人的感情，以便给他们带来更大的好处，但是我们不会伤害他人的感情。
 
@@ -152,7 +152,7 @@
 
 最糟糕的情况是，3 号武器升级到煽动*版主*伤害个人。有很多*很多*合适的情况下，我们应该标记帖子，报告内容，并让审核人员参与进来。然而，除了骚扰、欺凌和/或违反社区规则之外，这样做对*任何事情*都可能造成最深的伤害。这是因为版主代表了整个社区。
 
-[![Thor's Hammer](../Images/095dcbdcfd0ca4ee20893cd5d6102aae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mT0Fu9RC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/br32649vmicylpk4ei82.gif)
+[![Thor's Hammer](img/095dcbdcfd0ca4ee20893cd5d6102aae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mT0Fu9RC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/br32649vmicylpk4ei82.gif)
 
 换句话说，如果有人因为一个错误而受到攻击和骚扰，版主进来删除受害者的帖子或对他们采取其他行动，这就使虐待合法化。它对受害者说，“我们作为一个社区同意你的攻击者的评估，你是垃圾。”
 
@@ -180,7 +180,7 @@
 
 简而言之，我们已经变得如此短视，无法想象坐在别人的方向盘后面，或者别人的电脑键盘后面是什么样子。
 
-[![Looking in the mirror](../Images/f41b52724ad172438efa02d1206fdb8b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I69adUiS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6nrpdu2tijvp8fne9mf5.gif)
+[![Looking in the mirror](img/f41b52724ad172438efa02d1206fdb8b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I69adUiS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6nrpdu2tijvp8fne9mf5.gif)
 
 [韦氏词典](https://www.merriam-webster.com/dictionary/empathy)这样定义`empathy`...
 

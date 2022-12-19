@@ -6,13 +6,13 @@
 
 这篇博文将纯粹基于使用 Hasura GraphQL 引擎的批量更新和删除变异的例子。
 
-[![](../Images/557c05828b479099500cb82d32d35ed2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3s6wP1Kf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/bulk-update-and-delete-mutations-in-graphql-6568f47ad0b9/1-_645eS4ZpTH97cOiUuxvnQ.png)
+[![](img/557c05828b479099500cb82d32d35ed2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3s6wP1Kf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/bulk-update-and-delete-mutations-in-graphql-6568f47ad0b9/1-_645eS4ZpTH97cOiUuxvnQ.png)
 
 ### 简介
 
 如果批量编辑应用程序的状态，并且服务器实现不确保事务，则很有可能会弄乱状态。什么是交易？粗略地说，事务是一个独立的任务，必须独立处理，并且在失败的情况下不会丢失数据。
 
-[![](../Images/8d5900319a9e69c12f2edd8add8d9744.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DkeFj4t7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/bulk-update-and-delete-mutations-in-graphql-6568f47ad0b9/1-DmtLJgjaonE21WLsPJjqHg.png)
+[![](img/8d5900319a9e69c12f2edd8add8d9744.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DkeFj4t7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/bulk-update-and-delete-mutations-in-graphql-6568f47ad0b9/1-DmtLJgjaonE21WLsPJjqHg.png)
 
 ### Hasura 图形 QL 引擎
 

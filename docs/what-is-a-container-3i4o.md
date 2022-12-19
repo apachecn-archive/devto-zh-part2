@@ -8,7 +8,7 @@
 
 集装箱是按照精确的标准建造的，因此它们可以堆叠、装在火车、卡车上，并且可以在空中提升。制造商并不重要，容器的规格将适用于所有这些系统。
 
-[![A picture of a port full of shipping containers](../Images/85e86fc46b4a8f9c55dd367094dead45.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wr4F24WS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonfriesen.ca/_next/static/media/shipping-containers.a95d2ced.jpeg)
+[![A picture of a port full of shipping containers](img/85e86fc46b4a8f9c55dd367094dead45.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wr4F24WS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonfriesen.ca/_next/static/media/shipping-containers.a95d2ced.jpeg)
 
 Linux 容器就像一个运输容器。它有一个标准化的外部，可以嵌入许多系统，如 Docker 和 Kubernetes，但仍然可以容纳创建者想要的任何东西(如 NodeJS 或 Tomcat)。
 
@@ -98,7 +98,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 例如，web 应用程序容器由三层图像组成。第一层是 [alpine linux](https://www.alpinelinux.org/) ，一个微小的 linux 发行版。基础设施团队将由性能增强的 web 服务器组成的第二层加载到他们的基础 alpine 层上。第三层由应用程序团队所有，他们将二进制文件和依赖项复制到映像中。
 
-[![Diagram of container image layers stacked](../Images/9953493ad4551e9e06d5028564f4af34.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ujxh7qRs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonfriesen.ca/_next/static/media/container-stack.a1079ecf.png)
+[![Diagram of container image layers stacked](img/9953493ad4551e9e06d5028564f4af34.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ujxh7qRs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonfriesen.ca/_next/static/media/container-stack.a1079ecf.png)
 
 分层系统的重要性体现在两个方面。首先，它们是可重用的，所以上面例子中的 webserver 层可以被该公司的许多团队使用。第二，构建映像时，您只需从最新的变更开始。如果第一层或第二层没有改变，你不需要去获取最新的版本，这有利于应用程序的发布。基础映像可以包含所有不经常更改的依赖项，下一层可以包含用于快速构建和发布的版本。
 

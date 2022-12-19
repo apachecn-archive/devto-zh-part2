@@ -9,7 +9,7 @@
 # 什么是舒适区？
 
 简而言之，舒适区是一种对事物感到熟悉的心理状态。当你能控制你的环境时。这导致了稳定的表现和低的个人发展速度。
-[![](../Images/b07442b030d36c5ac37e84ee40b37faf.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--vJ8RRjd---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ziejj5lgqgzw43qdzbu5.jpeg)
+[![](img/b07442b030d36c5ac37e84ee40b37faf.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--vJ8RRjd---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ziejj5lgqgzw43qdzbu5.jpeg)
 
 在职业背景下，当你处于舒适区时，你会很舒服地做日常工作中的所有事情。没有挑战，没有压力。如果你在自己的舒适区，你什么也学不到。不学习，不进化。
 

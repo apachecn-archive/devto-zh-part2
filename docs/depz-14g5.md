@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ibalajisankar/depz-14g5>
 
-<figure>[![Depz](../Images/6406fb3d99ce28f37676b78f4af39de2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--N-iTztzj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s1q8ubrpn2t11gu2ilm1.png) 
+<figure>[![Depz](img/6406fb3d99ce28f37676b78f4af39de2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--N-iTztzj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s1q8ubrpn2t11gu2ilm1.png) 
 
 <figcaption>Depz</figcaption>
 
@@ -46,7 +46,7 @@ DepZ 将 Bitbucket 与亚马逊的 S3 整合在一起。
 
 1.  登录 Bitbucket 账号
 
-    <figure>[![Depz](../Images/6406fb3d99ce28f37676b78f4af39de2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--N-iTztzj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s1q8ubrpn2t11gu2ilm1.png)
+    <figure>[![Depz](img/6406fb3d99ce28f37676b78f4af39de2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--N-iTztzj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s1q8ubrpn2t11gu2ilm1.png)
 
     <figcaption>Bitbucket 登录</figcaption>
 
@@ -54,7 +54,7 @@ DepZ 将 Bitbucket 与亚马逊的 S3 整合在一起。
 
 2.  一旦你登录，它将显示该 bitbucket 帐户中的所有回购。
 
-    <figure>[![Depz](../Images/3ea7736309dfca44878943dc880ffea1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ma2aamz7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yzyb3jl6rj6wje321ygq.png)
+    <figure>[![Depz](img/3ea7736309dfca44878943dc880ffea1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ma2aamz7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yzyb3jl6rj6wje321ygq.png)
 
     <figcaption>bit bucket 回购清单</figcaption>
 
@@ -62,7 +62,7 @@ DepZ 将 Bitbucket 与亚马逊的 S3 整合在一起。
 
 3.  选择要部署的回购
 
-    <figure>[![Depz](../Images/f142f803f3b03d542917773a9001200d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OnMAwYoc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0j9gv708c8l7jo4rxms0.png) 
+    <figure>[![Depz](img/f142f803f3b03d542917773a9001200d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OnMAwYoc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0j9gv708c8l7jo4rxms0.png) 
 
     <figcaption>部署设置</figcaption>
 
@@ -70,7 +70,7 @@ DepZ 将 Bitbucket 与亚马逊的 S3 整合在一起。
 
 4.  部署完成后，将会生成一个 URL。
 
-    <figure>[![Depz](../Images/de5ae35217fdc4dd4255b9ac64d381d5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gUXhylgb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u1lqe1e1zkhi99n5h0zb.png) 
+    <figure>[![Depz](img/de5ae35217fdc4dd4255b9ac64d381d5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gUXhylgb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u1lqe1e1zkhi99n5h0zb.png) 
 
     <figcaption>直播网址</figcaption>
 

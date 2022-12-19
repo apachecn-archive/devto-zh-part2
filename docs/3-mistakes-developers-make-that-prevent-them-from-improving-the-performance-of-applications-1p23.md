@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/elemarjr/3-mistakes-developers-make-that-prevent-them-from-improving-the-performance-of-applications-1p23>
 
-[![](../Images/dc5280f8e070ba071a979e4fba91bb7a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PjUkR_eh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/slip-up-danger-careless-slippery-300x200.jpg)
+[![](img/dc5280f8e070ba071a979e4fba91bb7a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PjUkR_eh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/slip-up-danger-careless-slippery-300x200.jpg)
 
 这年头，[性能是特色](https://blog.codinghorror.com/performance-is-a-feature/)！所以，你应该现在就开始重构你的代码以获得更好的性能。对吗？不，你不应该！
 

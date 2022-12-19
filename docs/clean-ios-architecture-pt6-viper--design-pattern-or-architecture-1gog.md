@@ -26,7 +26,7 @@ VIPER 可以解决海量的视图控制器问题，让你的代码更具可测�
 
 例如，让我们看看[待办事项示例项目](https://github.com/mutualmobile/VIPER-SWIFT)的依赖关系图。
 
-[![Todo List sample project class and module dependencies diagram.](../Images/95efb0bce4aa78df8032439902735d56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TyyWnYhv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5b8d029d21c67c87037fea62/1535970073504/diagram-1.png%3Fformat%3D1000w)
+[![Todo List sample project class and module dependencies diagram.](img/95efb0bce4aa78df8032439902735d56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TyyWnYhv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5b8d029d21c67c87037fea62/1535970073504/diagram-1.png%3Fformat%3D1000w)
 
 [待办事项示例项目](https://github.com/mutualmobile/VIPER-SWIFT)类和模块依赖关系图。
 
@@ -34,7 +34,7 @@ VIPER 可以解决海量的视图控制器问题，让你的代码更具可测�
 
 VIPER 是作为鲍勃大叔的干净架构的 iOS 实现而推出的。如果我们比较两者，他们有相似之处，特别是在他们的层名称。然而，仔细观察就会发现，至少通过分析 VIPER Todo List 示例，它们并不共享相同的结构和目标。在 Bob 叔叔的干净架构中，框架和驱动程序(例如 UIKit 和 CoreData)只是业务逻辑层的“细节”或“插件”。相反，在常见的 VIPER 实现中，框架最终位于应用程序的中心。(还有一些关键的数据流差异， [Paul Stringer 在本文](https://medium.com/stringer-s-theory/the-clean-er-architecture-for-ios-apps-96379577d9dd)中解释。)
 
-[![VIPER Todo sample project “Onion Layers” diagram separate by features and dependencies with the frameworks at the center](../Images/ce68b68aa3b4802cf4b19f2224855e34.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1yZ_lGsx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5b8d02ff40ec9a2651e86d8c/1535968086482/diagram-3.png%3Fformat%3D1000w)
+[![VIPER Todo sample project “Onion Layers” diagram separate by features and dependencies with the frameworks at the center](img/ce68b68aa3b4802cf4b19f2224855e34.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1yZ_lGsx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5b8d02ff40ec9a2651e86d8c/1535968086482/diagram-3.png%3Fformat%3D1000w)
 
 VIPER Todo 示例项目“洋葱层”图以框架为中心，通过特性和依赖关系进行分隔。
 

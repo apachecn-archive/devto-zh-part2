@@ -10,7 +10,7 @@
 
 旁注:有很多现实世界的工具(和技能！)这对开发体验很有帮助。这里有一篇很棒的文章和讨论:
 
-[![theoutlander](../Images/fa3a5404d413070afd491a6351af2493.png)](/theoutlander) [## 如何改善你的开发体验
+[![theoutlander](img/fa3a5404d413070afd491a6351af2493.png)](/theoutlander) [## 如何改善你的开发体验
 
 ### 尼克·卡尔尼克 9 月 22 日 185 分钟阅读
 

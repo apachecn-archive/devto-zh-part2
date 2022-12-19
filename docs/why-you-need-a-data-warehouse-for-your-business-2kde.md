@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/brettclawson75/why-you-need-a-data-warehouse-for-your-business-2kde>
 
-[![Data Photo](../Images/f9a511bcf8365eefc727e2417d4779ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SSBTmPi7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1531668383211-64743e924c66%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D570ec3d45161b04b41b6cd0d36c7446e%26auto%3Dformat%26fit%3Dcrop%26w%3D1552%26q%3D80)
+[![Data Photo](img/f9a511bcf8365eefc727e2417d4779ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SSBTmPi7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1531668383211-64743e924c66%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D570ec3d45161b04b41b6cd0d36c7446e%26auto%3Dformat%26fit%3Dcrop%26w%3D1552%26q%3D80)
 
 您的公司每天都会产生大量数据吗？做重要决策时，需要访问数据源吗？如果是，那么您需要为您的公司建立一个数据仓库。那么，什么是数据仓库呢？嗯，它是公司分支机构或部门产生的数据的集中存储地。在进行数据分析和数据生成时，它可能会有所帮助。
 

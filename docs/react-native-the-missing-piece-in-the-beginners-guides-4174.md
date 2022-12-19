@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/elaziziyoussouf/react-native-the-missing-piece-in-the-beginners-guides-4174>
 
-[![](../Images/a9fd7ddb17bb9ccd8645a85a8fb8dc83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wMpVBXaG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AqBehtv1VULcptHDDlUr4dg.png)
+[![](img/a9fd7ddb17bb9ccd8645a85a8fb8dc83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wMpVBXaG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AqBehtv1VULcptHDDlUr4dg.png)
 
 > **本文原载于** [**Obytes 博客**](https://www.obytes.com/blog/) **。**
 
@@ -20,7 +20,7 @@
 
 这并不意味着 Reactjs 的移动部分还没有准备好，但我认为这是因为 web 平台上每天都在发生令人惊讶的事情。然而，我向你保证，这种体验将比在本地语言(Android 和 swift)上开发有趣得多。
 
-[![](../Images/e8036cdfbe68d0bdf4d744366d36f765.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xGGSBalV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AT48w-NkE2rLKV4m5)
+[![](img/e8036cdfbe68d0bdf4d744366d36f765.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xGGSBalV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AT48w-NkE2rLKV4m5)
 
 React Native 官方文档中提到，React Native 使用热重装来更快地构建应用。不用重新编译，你可以立即重新加载你的应用。如果您来自 React web 开发领域，我相信您已经对它很熟悉了，并且它与您合作得很好。但是在手机 app 搭建中，如果不够小心，很可能会丢失热重装功能！尤其是当你的移动应用因为 HMR 不支持 React Native 上的功能组件而有所增长的时候。
 
@@ -36,7 +36,7 @@ React Native 官方文档中提到，React Native 使用热重装来更快地构
 
 下图准确地解释了我的 React Native 体验。当我用一些基本的东西开始一个新项目时，它看起来就像“等等，什么这么简单”。然后，在使用了一些第三方库之后，项目进展缓慢，我面临许多与这些库升级相关的问题。这很正常，因为维护一个 React 原生开源项目不是一件简单的事情。你需要有很强的 JS、Java 和 Swift 背景。这些第三方库是由伟大的人开发的，他们可能将此作为一种爱好。他们没有得到报酬，所以质量并不总是处于最佳状态。(说起来，我要为 React 原生社区的伟大工作鸣谢！)
 
-[![](../Images/4a5a2e51789fbe29080d094cdf78f73b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8SnlIxd9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AW7U6g5wrfqlNIp2i0jlHeA.png)
+[![](img/4a5a2e51789fbe29080d094cdf78f73b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8SnlIxd9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AW7U6g5wrfqlNIp2i0jlHeA.png)
 
 ### 反应本机初始化 vs expo
 

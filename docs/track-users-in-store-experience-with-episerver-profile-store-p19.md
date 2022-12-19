@@ -68,7 +68,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 最后，该方法最重要的部分是我们调用 Track API 将产品视图保存到配置文件存储中。我们创建了一个新的实例 **TrackingData** ，它的有效负载类型为 **ProductTrackingData** 。我们指定 EventType 为“store ”,让我们知道它是在实体店而不是在网站上被查看的。Payload 是 ProductTrackingData 的一个实例，我们在其中提供产品代码、语言代码、当前 HttpContext 和当前用户。然后，我们从注入控制器的 **ITrackingService** 实例中调用 Track。您可以在下面的 Insight 中看到存储的结果。
 
-[![Insight View-min](../Images/3d9643864250b6fd9453a170c42c6793.png)T2】](//images.ctfassets.net/9usgdrjsks5w/xWeWRJDD5QyKqmWoUIEoi/8ff4d27f37da6306c04b4f4661512d78/Insight_View-min.png)
+[![Insight View-min](img/3d9643864250b6fd9453a170c42c6793.png)T2】](//images.ctfassets.net/9usgdrjsks5w/xWeWRJDD5QyKqmWoUIEoi/8ff4d27f37da6306c04b4f4661512d78/Insight_View-min.png)
 
 ## 结果
 

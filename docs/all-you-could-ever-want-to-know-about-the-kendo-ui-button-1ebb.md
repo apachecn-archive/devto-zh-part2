@@ -23,7 +23,7 @@
   </div> 
 ```
 
-[![screenshot showing all the different buttons with their different appearance options](../Images/79975511f94ed23828c4a74485c86297.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V_ZU9zye--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.telerik.com/sfimages/default-source/blogs/2018/2018-11/angular-kendo-unite-post-1/post-1/image_4.png%3Fsfvrsn%3D6b00f1d_2)
+[![screenshot showing all the different buttons with their different appearance options](img/79975511f94ed23828c4a74485c86297.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V_ZU9zye--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.telerik.com/sfimages/default-source/blogs/2018/2018-11/angular-kendo-unite-post-1/post-1/image_4.png%3Fsfvrsn%3D6b00f1d_2)
 
 接下来我想展示你可以在你的剑道 UI 按钮上添加一些其他的东西。现在我们用这个`[look]`属性绑定来控制外观，但是你实际上可以做很多事情，比如禁用，设置一个按钮为主按钮，使一个按钮可切换或者给它一个图标。所以让我们开始吧，我会给你看那些东西！尽管知道它们都在使用属性绑定是件好事，属性绑定在方括号中。如果你需要有角度的装订复习，看看我写的这个帖子！
 
@@ -36,7 +36,7 @@
 
 正如您可能预料的那样，要禁用一个按钮，我们将把 disabled 设置为 true: `[disabled]="true"`。
 
-[![gif showing what the disabled button looks like and behaves like when clicked](../Images/5092189ed3af7e5453b6eedd624b7010.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--39_B4iyR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.telerik.com/sfimages/default-source/blogs/2018/2018-11/angular-kendo-unite-post-1/post-2/image-1.gif%3Fsfvrsn%3Ddcc5bff3_2)
+[![gif showing what the disabled button looks like and behaves like when clicked](img/5092189ed3af7e5453b6eedd624b7010.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--39_B4iyR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.telerik.com/sfimages/default-source/blogs/2018/2018-11/angular-kendo-unite-post-1/post-2/image-1.gif%3Fsfvrsn%3Ddcc5bff3_2)
 
 现在，列表中的最后一个按钮被禁用。很简单。让我们继续创建另一个按钮，但这将是一个主要按钮。我给它的是文本`Primary Action`，但这实际上类似于表单底部的提交按钮或购物车上的结账按钮。主要动作按钮应该是页面的主要目标。
 
@@ -44,7 +44,7 @@
 <button kendoButton [primary]="true">Primary Action</button> 
 ```
 
-[![gif showing what the primary kendo ui button looks like](../Images/60e751d1fab311ed0dc9f6f516399c42.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2bIkHP-c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.telerik.com/sfimages/default-source/blogs/2018/2018-11/angular-kendo-unite-post-1/post-2/image-2.gif%3Fsfvrsn%3Dcf0372ca_2)
+[![gif showing what the primary kendo ui button looks like](img/60e751d1fab311ed0dc9f6f516399c42.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2bIkHP-c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.telerik.com/sfimages/default-source/blogs/2018/2018-11/angular-kendo-unite-post-1/post-2/image-2.gif%3Fsfvrsn%3Dcf0372ca_2)
 
 下一个，可折叠的。我们将简单地通过设置`[toggleable]="true"`来切换我们创建的下一个按钮。
 
@@ -52,7 +52,7 @@
 <button kendoButton [toggleable]="true">Toggleable</button> 
 ```
 
-[![gif showing what the toggleable kendo ui button looks like](../Images/b5b4bd1261c3cf98de932449dd8cf1b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yHG4DDwx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.telerik.com/sfimages/default-source/blogs/2018/2018-11/angular-kendo-unite-post-1/post-2/toggleable.gif%3Fsfvrsn%3D4e45cbd1_2)
+[![gif showing what the toggleable kendo ui button looks like](img/b5b4bd1261c3cf98de932449dd8cf1b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yHG4DDwx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.telerik.com/sfimages/default-source/blogs/2018/2018-11/angular-kendo-unite-post-1/post-2/toggleable.gif%3Fsfvrsn%3D4e45cbd1_2)
 
 警告:如果你使用的剑道 UI 按钮版本早于 4.1.3，你将需要拼写可切换属性`togglable`。
 
@@ -62,11 +62,11 @@
 <button kendoButton [icon]="'calendar'" [toggleable]="true">Icon Button</button> 
 ```
 
-[![kendo ui icon button with calendar icon on the left and text on the right](../Images/03cc6198258e5729623e8f644e19133b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fCXnFOA4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.telerik.com/sfimages/default-source/blogs/2018/2018-11/angular-kendo-unite-post-1/post-2/image-3.png%3Fsfvrsn%3Dda0092ac_2)
+[![kendo ui icon button with calendar icon on the left and text on the right](img/03cc6198258e5729623e8f644e19133b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fCXnFOA4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.telerik.com/sfimages/default-source/blogs/2018/2018-11/angular-kendo-unite-post-1/post-2/image-3.png%3Fsfvrsn%3Dda0092ac_2)
 
 你可以看到我们有图标按钮，超级性感，有日历图标。你可能会想，我怎么知道我还有什么其他的图标可以用呢？好吧，让我们一起浏览文档，找到更多关于图标的信息。从我们的[按钮图标文档](https://www.telerik.com/kendo-angular-ui/components/buttons/button/icons/)你可以[导航到这里](https://www.telerik.com/kendo-angular-ui-develop/components/styling/icons/#toc-list-of-font-icons)我们提供的内置图标的完整列表！
 
-[![screenshot of kendo ui docs showing a list of icons available](../Images/c5e3dec3a678bdb7e4ccd71c7c95a072.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ihbts-6C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.telerik.com/sfimages/default-source/blogs/2018/2018-11/angular-kendo-unite-post-1/post-2/image-4.png%3Fsfvrsn%3Dc4aad7d0_2)
+[![screenshot of kendo ui docs showing a list of icons available](img/c5e3dec3a678bdb7e4ccd71c7c95a072.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ihbts-6C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.telerik.com/sfimages/default-source/blogs/2018/2018-11/angular-kendo-unite-post-1/post-2/image-4.png%3Fsfvrsn%3Dc4aad7d0_2)
 
 这就是我们如何知道哪些图标是可用的。
 
@@ -84,7 +84,7 @@
 </kendo-buttongroup> 
 ```
 
-[![image showing what a kendo ui button group looks like with 3 toggleable icon buttons in a row inside](../Images/a5a58e4c05d9f553474024b5a073a36d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rYSQzOVt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.telerik.com/sfimages/default-source/blogs/2018/2018-11/angular-kendo-unite-post-1/post-2/image-5.png%3Fsfvrsn%3D4f575c2e_2)
+[![image showing what a kendo ui button group looks like with 3 toggleable icon buttons in a row inside](img/a5a58e4c05d9f553474024b5a073a36d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rYSQzOVt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.telerik.com/sfimages/default-source/blogs/2018/2018-11/angular-kendo-unite-post-1/post-2/image-5.png%3Fsfvrsn%3D4f575c2e_2)
 
 ## 给出按钮组的全宽
 
@@ -98,7 +98,7 @@
 </kendo-buttongroup> 
 ```
 
-[![gif showing how the full width kendo ui button group grows and shrinks with window size](../Images/bb23c5ed43b2813fdeb728673ead12e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WTveyu0c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.telerik.com/sfimages/default-source/blogs/2018/2018-11/angular-kendo-unite-post-1/post-2/image-6.gif%3Fsfvrsn%3D39e3fb19_2)
+[![gif showing how the full width kendo ui button group grows and shrinks with window size](img/bb23c5ed43b2813fdeb728673ead12e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WTveyu0c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.telerik.com/sfimages/default-source/blogs/2018/2018-11/angular-kendo-unite-post-1/post-2/image-6.gif%3Fsfvrsn%3D39e3fb19_2)
 
 ## 给按钮组一个禁用或裸露的外观
 
@@ -112,7 +112,7 @@
 </kendo-buttongroup> 
 ```
 
-[![image showing the cool styles of the outline look on a kendo ui button group of icon buttons](../Images/28fab6898279201484ccc96161e1742b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pUVn90RY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.telerik.com/sfimages/default-source/blogs/2018/2018-11/angular-kendo-unite-post-1/post-2/image-7.png%3Fsfvrsn%3Dd6ff5ca6_2)
+[![image showing the cool styles of the outline look on a kendo ui button group of icon buttons](img/28fab6898279201484ccc96161e1742b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pUVn90RY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.telerik.com/sfimages/default-source/blogs/2018/2018-11/angular-kendo-unite-post-1/post-2/image-7.png%3Fsfvrsn%3Dd6ff5ca6_2)
 
 与单个按钮一样，通过在按钮组本身上将禁用属性或外观设置为 true，可以将它们更改为轮廓、平面或裸露。
 

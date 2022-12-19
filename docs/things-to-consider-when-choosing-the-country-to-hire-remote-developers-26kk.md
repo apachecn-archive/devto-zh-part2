@@ -32,6 +32,6 @@
 
 公共假日的数量也各不相同。检查欧洲:
 
-[![](../Images/2cbd975969a6e0625fe3a4a89b82d8eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3w3vHMG0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.daxx.com/uploads/public%2520holidays%2520europe.png)
+[![](img/2cbd975969a6e0625fe3a4a89b82d8eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3w3vHMG0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.daxx.com/uploads/public%2520holidays%2520europe.png)
 
 通过在上述标准的帮助下评估每个国家，你将有机会找到一个完美的地方为你的项目雇佣远程软件开发人员。

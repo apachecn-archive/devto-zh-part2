@@ -12,7 +12,7 @@
 
 今天早上，我收到了这个警告。嗯嗯...我以为。这是什么？
 
-[![The Low Disk Space Alert](../Images/cd468d11e3c936eb1a114118bbb93b14.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jciO8Y0n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/635r8fzvxxni7yjqxmo0.png)
+[![The Low Disk Space Alert](img/cd468d11e3c936eb1a114118bbb93b14.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jciO8Y0n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/635r8fzvxxni7yjqxmo0.png)
 
 我的文档文件夹有几千兆字节的数据，但这并没有填满我的整个磁盘。那是我开始探索自制软件包的时候。我意识到我一直无缘无故地保存着很多很多旧的自制软件包。
 
@@ -20,7 +20,7 @@
 
 那是我运行命令`brew cleanup`的时候。哦，天啊，我会大吃一惊的。我的终端开始一行接一行地输出这个:
 
-[![brew cleanup log](../Images/b88d8591e5544b8297df0da1d1c66351.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--69XUTQv1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y2s2rxw2a99pfhqc657g.png)
+[![brew cleanup log](img/b88d8591e5544b8297df0da1d1c66351.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--69XUTQv1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y2s2rxw2a99pfhqc657g.png)
 
 那是很大的磁盘空间！
 

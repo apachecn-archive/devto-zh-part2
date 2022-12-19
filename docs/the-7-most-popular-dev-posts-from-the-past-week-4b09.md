@@ -6,7 +6,7 @@
 
 Docker 会像 Git 成为版本控制的默认选择一样成为容器的默认选择吗？
 
-[![thejoezack](../Images/fe6ce7f767c65cae3e9a14c9268b0500.png)](/thejoezack) [## Docker 是新的饭桶吗？
+[![thejoezack](img/fe6ce7f767c65cae3e9a14c9268b0500.png)](/thejoezack) [## Docker 是新的饭桶吗？
 
 ### 乔扎克 4 月 9 日 182 分钟阅读
 
@@ -16,7 +16,7 @@ Docker 会像 Git 成为版本控制的默认选择一样成为容器的默认�
 
 谁能抗拒一些好的生产力技巧呢？Christian 分享了他们从特殊按键到电子邮件工作流程的技巧。
 
-[![fabrik42](../Images/f065a139c0ee7751269d916f23ee5ce8.png)](/fabrik42) [## 我的生产力助推器——技巧和工具的随机集合——你的是什么？
+[![fabrik42](img/f065a139c0ee7751269d916f23ee5ce8.png)](/fabrik42) [## 我的生产力助推器——技巧和工具的随机集合——你的是什么？
 
 ### 克里斯汀
 
@@ -26,7 +26,7 @@ Docker 会像 Git 成为版本控制的默认选择一样成为容器的默认�
 
 亨利·朱分享他成为巴别塔全职维护者的经历。在这篇文章中，他谈到了建立自信和练习自我遗忘。
 
-[![hzoo](../Images/649eb1ee0cc18d20dc28eaaee930ac11.png)](/hzoo) [## 我还没准备好成为巴别塔的维护者
+[![hzoo](img/649eb1ee0cc18d20dc28eaaee930ac11.png)](/hzoo) [## 我还没准备好成为巴别塔的维护者
 
 ### 亨利 Apr 10 ' 18 分钟阅读
 
@@ -36,7 +36,7 @@ Docker 会像 Git 成为版本控制的默认选择一样成为容器的默认�
 
 顾名思义，这是对 Postgres 和 MySQL 的一次非常彻底的比较——从模式布局到类型差异再到查询数据。
 
-[![dmfay](../Images/f28422448075068c9600498f2ea2f435.png)](/dmfay) [## 终极 Postgres vs MySQL 博客文章
+[![dmfay](img/f28422448075068c9600498f2ea2f435.png)](/dmfay) [## 终极 Postgres vs MySQL 博客文章
 
 ### Dian Fay Apr 11 ' 1812 分钟阅读
 
@@ -52,7 +52,7 @@ Docker 会像 Git 成为版本控制的默认选择一样成为容器的默认�
 
 Lynne 最近开始与 Vue.js 合作，并分享了一系列你应该尝试一下的理由。
 
-[![lynnewritescode](../Images/cc944ec8ba246e024078c951343f6206.png)](/lynnewritescode) [## 使用 Vue.js 的 6 个理由
+[![lynnewritescode](img/cc944ec8ba246e024078c951343f6206.png)](/lynnewritescode) [## 使用 Vue.js 的 6 个理由
 
 ### 琳恩·芬尼根
 

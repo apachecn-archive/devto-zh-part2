@@ -12,7 +12,7 @@
 
 这就是:23 个项目，大约 156 千钟。还不错。那个 macOS 应用还是挺有气势的，但是现在只占了总数的一半。有趣的是，将关键组件分解成专用的和更小的项目确实更容易开发这些特定的项目，从而使它们更加强大。但是，它仍然增加了整体的复杂性，不是吗？
 
-[![@onekiloparsec LOCUM](../Images/715abf58662458a8a2c062b467bc8ec8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OLdMvLXA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://onekilopars.ec/wp-content/uploads/2018/11/locum.jpeg)
+[![@onekiloparsec LOCUM](img/715abf58662458a8a2c062b467bc8ec8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OLdMvLXA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://onekilopars.ec/wp-content/uploads/2018/11/locum.jpeg)
 
 对我来说，从事这些项目就像拥有一座属于自己的大城市，漫步在我建造的街道上。有一个商业区，我在那里花了很多时间，有时花几个小时让建筑整齐划一。有时候我需要去郊区，去检查一些东西，或者带回一些东西。也有一些舒适的地方，我很高兴再次偶然发现，也有一些不那么受欢迎的地方，因为我知道我不能忽视这样一个事实，即它必须重建，或刷新，或更新。
 

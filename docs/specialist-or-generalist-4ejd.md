@@ -16,7 +16,7 @@
 
 成为“多面手”的一个普遍恐惧是，你在很多事情上都可以，但什么都不擅长。一个常见的解决方案是专攻某个领域，成为一名 T 型开发人员，这样你就能非常好地掌握一门语言/栈/技术，以及其他一些东西。这表明你可以学习其他东西，也可以深入某个领域。
 
-[![11fig06.png](../Images/ed661a3b2c519b400246d444a5ded995.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NqLSiWgW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5a99f3f2c830255b2409a4ff/1520038904026/11fig06.png%3Fformat%3D1000w)
+[![11fig06.png](img/ed661a3b2c519b400246d444a5ded995.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NqLSiWgW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5a99f3f2c830255b2409a4ff/1520038904026/11fig06.png%3Fformat%3D1000w)
 
 然而，这个图没有真正表示的是**时间**。T 形更多的是一个人的现在，而不是过去或未来。
 
@@ -24,7 +24,7 @@
 
 我的最后一个类比是我在软技能工程播客上听到的，我是这个播客的超级粉丝，也是它的*帕特里翁*。我喜欢这个类比，因为它考虑到了时间，以及随着时间的推移，你的职业生涯将如何迫使你适应和改变。
 
-[![As time goes on, you explore different areas in varying depth. Free Vector Design by Vecteezy](../Images/facd75d7528826fd92fbcd5d7c5b3111.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X8qeBehW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5a99f417e2c48369e0e801f9/1520038943302/FreeVector-Colorful-Drips.jpg%3Fformat%3D1000w)
+[![As time goes on, you explore different areas in varying depth. Free Vector Design by Vecteezy](img/facd75d7528826fd92fbcd5d7c5b3111.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X8qeBehW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5a99f417e2c48369e0e801f9/1520038943302/FreeVector-Colorful-Drips.jpg%3Fformat%3D1000w)
 
 随着时间的推移，你会以不同的深度探索不同的领域。自由矢量设计由 [Vecteezy](https://www.vecteezy.com)
 

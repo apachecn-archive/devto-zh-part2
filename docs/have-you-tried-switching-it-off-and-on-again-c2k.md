@@ -4,7 +4,7 @@
 
 我只是想在 Reddit 上分享这个*有见地的* [评论](https://www.reddit.com/r/reactjs/comments/95e9cc/how_can_i_use_js_instead_of_jsx/e3s41xo)。
 
-[![reddit comment](../Images/cfe4f225502133c68ef6072aa953c707.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l9PD0dQa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/179aqbvbkpa3rtcs5hcq.png)
+[![reddit comment](img/cfe4f225502133c68ef6072aa953c707.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l9PD0dQa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/179aqbvbkpa3rtcs5hcq.png)
 
 我见过服务台技术人员在工作时问，
 

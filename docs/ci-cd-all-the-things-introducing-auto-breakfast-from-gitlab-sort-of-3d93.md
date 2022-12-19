@@ -10,7 +10,7 @@ GitLab 文化的一大部分是[互相感谢](https://about.gitlab.com/handbook/
 
 我从来不会让无聊的谈话被忽视，我用我最喜欢的一句话来回答:
 
-[![](../Images/7c4e8203ef302c7ddfb7972683213498.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KTVY3KB4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/466/0%2AGRSEFacBCMhZ_19G.png)
+[![](img/7c4e8203ef302c7ddfb7972683213498.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KTVY3KB4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/466/0%2AGRSEFacBCMhZ_19G.png)
 
 我不得不承认，我的状态是[:咖啡 _ 鹦鹉:](https://github.com/jmhobbs/cultofthepartyparrot.com/issues/55)可能与我热情的回复有关…
 
@@ -33,7 +33,7 @@ GitLab 文化的一大部分是[互相感谢](https://about.gitlab.com/handbook/
 
 一旦我有了诀窍，我所需要的就是逆向工程 BLE 连接，弄清楚如何从命令行工作，建立一个项目，并让它与 GitLab CI/CD 集成…没什么大不了的。幸运的是，我发现了一个名为 PyCirculate 的奇妙项目，它已经用 Anova 解决了许多 BLE 连接问题。这让我想知道以前是否有人做过自动早餐…但是我还没有找到他们！
 
-[![](../Images/14b311ec998aa6f17c462d4f618162d0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vKapu-mz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AftCztjcrF_GunE8n.png)
+[![](img/14b311ec998aa6f17c462d4f618162d0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vKapu-mz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AftCztjcrF_GunE8n.png)
 
 现在我有了食谱和所有的配料，是时候开始了……(我无法告诉你当我想到那个笑话时有多开心。我说过我是爸爸了吗？)
 
@@ -41,11 +41,11 @@ GitLab 文化的一大部分是[互相感谢](https://about.gitlab.com/handbook/
 
 一旦我在我的笔记本电脑上安装并运行了这个项目，我就将代码上传到 GitLab 的公共存储库中的自动早餐组中。接下来，我将 [GitLab Runner](https://docs.gitlab.com/runner/) 安装在 [RaspberryPi](https://www.raspberrypi.org/) 上。我将 Pi 注册为我的项目的特定运行者。我使用了一个 [runner 标签](https://docs.gitlab.com/ee/ci/runners/README.html#using-tags)，这样我可以确保烹饪工作只在一个有蓝牙连接的设备上运行。
 
-[![](../Images/d44b739efcd3689c8c6c9ce7c7b0d107.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PuJBoEfM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/431/0%2AIh8rZdaElnwaPbBb.png)
+[![](img/d44b739efcd3689c8c6c9ce7c7b0d107.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PuJBoEfM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/431/0%2AIh8rZdaElnwaPbBb.png)
 
 当我在 auto-breakfast/eggs 上运行管道时，它使用 RaspberryPi 来执行，因此可以创建到 Anova 的 BLE 连接。只需点击 GitLab 中的一个按钮，我的早餐管道就开始运行了。我所要做的就是高枕无忧，让 GitLab CI/CD 完成所有工作。
 
-[![](../Images/32d7b2389c65933db133f05bc5ff9bd1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1J7qjoKo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AFQGAGuZqLYOQ_yOR.JPG)
+[![](img/32d7b2389c65933db133f05bc5ff9bd1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1J7qjoKo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AFQGAGuZqLYOQ_yOR.JPG)
 
 ### 结果
 

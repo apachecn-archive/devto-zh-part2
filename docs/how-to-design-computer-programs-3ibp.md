@@ -9,9 +9,9 @@
 
 ## 为什么要用井字游戏作为我们的案例研究？
 
-[![Tic Tac Toe](../Images/ebef9b90654d1645132b565d0e925b12.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4FeSfIH7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vladimirfomene.github.io/assets/img/tic_tac_toe.png) 成功在水平、垂直或对角线上放置三个标记的玩家赢得游戏。下面的示例游戏是第一个玩家 X 赢了(En.wikipedia.org，2018):
+[![Tic Tac Toe](img/ebef9b90654d1645132b565d0e925b12.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4FeSfIH7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vladimirfomene.github.io/assets/img/tic_tac_toe.png) 成功在水平、垂直或对角线上放置三个标记的玩家赢得游戏。下面的示例游戏是第一个玩家 X 赢了(En.wikipedia.org，2018):
 
-[![Game Play](../Images/aaadf9424fa407d4d07b63ebf9d946db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bd0vFnQv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vladimirfomene.github.io/assets/img/479px-Tic-tac-toe-game-1.svg.png)
+[![Game Play](img/aaadf9424fa407d4d07b63ebf9d946db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bd0vFnQv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vladimirfomene.github.io/assets/img/479px-Tic-tac-toe-game-1.svg.png)
 
 玩家很快发现，双方的最佳打法会导致平局。因此，井字游戏是幼儿最常玩的游戏(En.wikipedia.org，2018)。
 我选择井字游戏作为我们的案例研究，因为它相对容易编程，而且编程将使我有机会

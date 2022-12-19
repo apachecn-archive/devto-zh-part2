@@ -80,7 +80,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/bd9fb0f640aed8a36d139475d4a82a07.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NZ2LsSuo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.com/images/47b24686-6c0b-44ef-88a6-96d6a7f0e87d.png)
+[![](img/bd9fb0f640aed8a36d139475d4a82a07.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NZ2LsSuo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.cimg/47b24686-6c0b-44ef-88a6-96d6a7f0e87d.png)
 
 请注意，您可以在您的卡上添加一个或多个卡体，也可以将卡体内的内容包装在其他标签中，如`<p>`
 
@@ -94,7 +94,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/275aba1f227d88201c5c19cb5a164d78.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y5pDqGg8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.com/images/10bf9b6b-f8df-45f6-ba88-75aae9db95d6.png)
+[![](img/275aba1f227d88201c5c19cb5a164d78.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y5pDqGg8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.cimg/10bf9b6b-f8df-45f6-ba88-75aae9db95d6.png)
 
 当您想要在卡片中创建填充部分时，请使用卡片正文。
 
@@ -110,7 +110,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/1409b22b007a42a7da49c811ac7414c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hAqinb9F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.com/images/c179ddec-8d9c-4098-88cd-4eae8c2788b3.png)
+[![](img/1409b22b007a42a7da49c811ac7414c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hAqinb9F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.cimg/c179ddec-8d9c-4098-88cd-4eae8c2788b3.png)
 
 您可以看到卡组件占据了其容器部分的整个宽度，但是您可以用不同的方法来控制宽度:
 
@@ -122,7 +122,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/f5d8a624eda8eb57556621b9270ac122.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vw_7VUb8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.com/images/8cf1a990-222c-4b8c-bc62-4c3f59f153a6.png)
+[![](img/f5d8a624eda8eb57556621b9270ac122.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vw_7VUb8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.cimg/8cf1a990-222c-4b8c-bc62-4c3f59f153a6.png)
 
 *   使用自举 4 网格
 
@@ -159,7 +159,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/39c1fa65829244b7da51fb90cc82c33a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GTkTfzK9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.com/images/262d90e9-3b7f-45db-a916-5e4dc8e38ceb.png)
+[![](img/39c1fa65829244b7da51fb90cc82c33a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GTkTfzK9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.cimg/262d90e9-3b7f-45db-a916-5e4dc8e38ceb.png)
 
 您可以使用带有`<ul>`标签
 的`nav`、`nav-tabs` | `nav-pills`、`card-header-tabs` | `card-header-pill`类将导航标签和药丸添加到卡片的标题中
@@ -179,7 +179,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/c1bb6a47fa4813308368464ef8a5ee7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DAAnVgIN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.com/images/6ca40c82-33b3-4b18-82a4-48eef828d104.png)
+[![](img/c1bb6a47fa4813308368464ef8a5ee7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DAAnVgIN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.cimg/6ca40c82-33b3-4b18-82a4-48eef828d104.png)
 
 您可以使用带有`<a>`元素
 的`.card-link`类来添加到卡片内容的链接
@@ -200,7 +200,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/40c3759d03d98c98d18ce925df1653b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KzsSh5cR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.com/images/abc174b5-652a-48ff-8a6a-74fa46e8c37e.png)
+[![](img/40c3759d03d98c98d18ce925df1653b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KzsSh5cR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.cimg/abc174b5-652a-48ff-8a6a-74fa46e8c37e.png)
 
 您可以使用列表作为正文内容。例如，这就是你如何创建两个时尚的列表，而不需要任何额外的自定义 CSS
 
@@ -227,7 +227,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/99868ed25c33c9946654803e92646546.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M_09pPOZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.com/images/912616cd-4aec-4573-8b51-b124744c7319.png)
+[![](img/99868ed25c33c9946654803e92646546.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M_09pPOZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.cimg/912616cd-4aec-4573-8b51-b124744c7319.png)
 
 ## 如何创建复杂的基于卡片的布局？
 
@@ -237,7 +237,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您可以使用卡片创建一个由多张卡组成的单元。单元的列将采用相同的宽度和高度(这是通过使用 Flexbox 实现的)。
 
-这是一组 3 张牌 [![](../Images/483fa8fbeececd3f5223337f84e7cb0b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1g8f81p2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.com/images/aa6e0296-4af2-44f2-8e8d-b4e85a8337d8.png) 的例子
+这是一组 3 张牌 [![](img/483fa8fbeececd3f5223337f84e7cb0b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1g8f81p2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.cimg/aa6e0296-4af2-44f2-8e8d-b4e85a8337d8.png) 的例子
 
 在 [CodePen](https://codepen.io) 上看 tech iediaries([@ tech iediaries](https://codepen.io/techiediaries))的笔 [RQjNKr](https://codepen.io/techiediaries/pen/RQjNKr/) 。
 
@@ -245,7 +245,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 卡片组与卡片组相似，只是一副卡片中的每张卡片不相连
 
-[![](../Images/56bcd5e6b5c4dc7854ee1a1afc318f13.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HNd-4okk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.com/images/846528f7-6afe-4f60-9dbb-a913b3de9910.png) 见 [CodePen](https://codepen.io) 上 tech iediaries([@ tech iediaries](https://codepen.io/techiediaries))的笔[rjnkr](https://codepen.io/techiediaries/pen/RQjNKr/)。
+[![](img/56bcd5e6b5c4dc7854ee1a1afc318f13.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HNd-4okk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.cimg/846528f7-6afe-4f60-9dbb-a913b3de9910.png) 见 [CodePen](https://codepen.io) 上 tech iediaries([@ tech iediaries](https://codepen.io/techiediaries))的笔[rjnkr](https://codepen.io/techiediaries/pen/RQjNKr/)。
 
 ### 卡列
 
@@ -255,7 +255,7 @@ Cards Columns 提供了一种分组方式，可以将卡片组织成类似砖石
 
 请看 [CodePen](https://codepen.io) 上的 tech iediaries([@ tech iediaries](https://codepen.io/techiediaries))的笔 [Bootstrap 4 砌体布局](https://codepen.io/techiediaries/pen/EQbYpZ/)。
 
-[![](../Images/f9163973755f337415d9ec4db3bd84a5.png)T2】](https://camo.githubusercontent.com/2a7292f550e0f83b8847c697c9d82596fafcbc0e/68747470733a2f2f73637265656e73686f747363646e2e66697265666f7875736572636f6e74656e742e636f6d2f696d616765732f65343364306134312d323839372d343632322d393661392d3938366430366134313762372e706e67)
+[![](img/f9163973755f337415d9ec4db3bd84a5.png)T2】](https://camo.githubusercontent.com/2a7292f550e0f83b8847c697c9d82596fafcbc0e/68747470733a2f2f73637265656e73686f747363646e2e66697265666f7875736572636f6e74656e742e636f6d2f696d616765732f65343364306134312d323839372d343632322d393661392d3938366430366134313762372e706e67)
 
 ## 结论
 

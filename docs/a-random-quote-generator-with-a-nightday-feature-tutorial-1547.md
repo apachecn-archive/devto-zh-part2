@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/munamohamed94/a-random-quote-generator-with-a-nightday-feature-tutorial-1547>
 
-[![](../Images/736edfe28d3a786350b3ac07d1d9434d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_OFszF0l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/egzu3fkdhh6i9uehtu5l.png)
+[![](img/736edfe28d3a786350b3ac07d1d9434d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_OFszF0l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/egzu3fkdhh6i9uehtu5l.png)
 
 因此，您刚刚完成了另一个随机报价生成器的构建，但您不知道接下来该怎么做。或者这是你的第一次。这就是本教程的用武之地！有了一个简单的功能，你的随机报价生成器不再是“又一个随机报价生成器”——它是一个扭曲。
 
@@ -119,7 +119,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们还会给按钮一个白色的背景色，以及一个 1 像素的黑色边框。为了表明这是一个可以单击的按钮，我们将更改 cursor 属性，赋予它一个指针值。在应用了所有的样式后，我们的按钮看起来会像这样:
 
-[![](../Images/7b728b6b724597a9b4660739fcc60ac3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tl-IqCr0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6owa00ktfyt91k0iwoy4.png)
+[![](img/7b728b6b724597a9b4660739fcc60ac3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tl-IqCr0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6owa00ktfyt91k0iwoy4.png)
 
 #### **报价-容器**
 

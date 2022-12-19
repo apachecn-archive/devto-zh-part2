@@ -4,7 +4,7 @@
 
 你可能以前见过这个:
 
-[![tunaxor](../Images/dd42ae2af93474df85932b5a5fee0bcd.png)](/tunaxor) [## JavaScript 通用 Windows 应用程序
+[![tunaxor](img/dd42ae2af93474df85932b5a5fee0bcd.png)](/tunaxor) [## JavaScript 通用 Windows 应用程序
 
 ### 安吉尔丹尼尔穆尼奥斯冈萨雷斯 6 月 16 日 187 分钟阅读
 
@@ -14,7 +14,7 @@
 
  *这一次我会试着更集中在主题上，并向你展示，所有的代码样本图片都在这个报告中
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png)[【angelmunoz】](https://github.com/AngelMunoz)/[视图-UWP](https://github.com/AngelMunoz/Vue-UWP)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png)[【angelmunoz】](https://github.com/AngelMunoz)/[视图-UWP](https://github.com/AngelMunoz/Vue-UWP)
 
 ### 所以你认为没有 Javascript 桌面原生解决方案？我对此不太确定
 
@@ -26,7 +26,7 @@
 
 ## 结构
 
-[![Structure](../Images/ba4b9738b4343261b240fb6aff70a87b.png)T2】](https://camo.githubusercontent.com/15fe7079c38bb60dcec57a24ff28eb90f7fd32f8c103c872f9992b599471ad93/68747470733a2f2f692e696d6775722e636f6d2f32574a55576b392e706e67)
+[![Structure](img/ba4b9738b4343261b240fb6aff70a87b.png)T2】](https://camo.githubusercontent.com/15fe7079c38bb60dcec57a24ff28eb90f7fd32f8c103c872f9992b599471ad93/68747470733a2f2f692e696d6775722e636f6d2f32574a55576b392e706e67)
 
 这个结构模板有点类似于 vue-cli 模板，所以你应该熟悉它。默认情况下，它包括 vuex 和 vue-router，以及 [Vuetify](https://vuetifyjs.com) ，如果我对某人表示失望，我很抱歉，但这些甜蜜的黑暗主题太适合 windows 的黑暗模式了！抱歉，我一点也不抱歉，
 

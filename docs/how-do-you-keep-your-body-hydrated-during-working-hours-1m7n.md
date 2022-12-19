@@ -12,7 +12,7 @@
 
 “绿色生活”中的“城市瓶”让我激动不已:
 
-[![Urban Bottle](../Images/46676c07510a70c0a788d4d772cc52da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5_N-yFKS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.green-your-life.de/item/images/3316/middle/Trinkflasche--Urban-Bottle--aus-Edelstahl-1-Liter-_6.jpg)
+[![Urban Bottle](img/46676c07510a70c0a788d4d772cc52da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5_N-yFKS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.green-your-life.de/itimg/3316/middle/Trinkflasche--Urban-Bottle--aus-Edelstahl-1-Liter-_6.jpg)
 
 所以大家来分享和收藏:
 **你都有哪些套路，用了哪些提醒，如何保证自己在工作中保持水分？**

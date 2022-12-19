@@ -4,7 +4,7 @@
 
 ### *全世界的开发者，所有的管理人员、编码人员、设计人员以及拥有* ***大脑*** *的人，请告诉我你的经历，我对它如饥似渴！*
 
-[![Logo](../Images/0bbd9cc0ea946718489a08132ad8c97e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sgC8TrZT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.triplefff.com/beer-names/smells-like-team-spirit-name.png)
+[![Logo](img/0bbd9cc0ea946718489a08132ad8c97e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sgC8TrZT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.triplefff.com/beer-names/smells-like-team-spirit-name.png)
 
 # 为什么我这一代是这样的？
 
@@ -16,7 +16,7 @@
 
 对我来说太多奇迹了。我喜欢人，我指的是好人，好的人。
 
-[![Logo](../Images/c5174f38551d6b485aad3ceb043fc84a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VIQ5BVxM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1512577107354-cc925a586320%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3De08130e8cddc1460ae560709f25ef069%26w%3D1000%26q%3D80)
+[![Logo](img/c5174f38551d6b485aad3ceb043fc84a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VIQ5BVxM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1512577107354-cc925a586320%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3De08130e8cddc1460ae560709f25ef069%26w%3D1000%26q%3D80)
 
 # 如何建立或维持你的团队？
 

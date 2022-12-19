@@ -122,7 +122,7 @@ TDD 是一个我们可以快速获得关于我们设计的反馈的过程(我会
 
 当我们发现一种情况(这种情况很少),在这种情况下[我们认为我们完全了解]实现，这是微不足道的，我们盲目信任，我们会花一些时间编写测试来涵盖规范。但是没有借口说它花费你额外的时间，因为或者你有 TDD 的经验或者你没有。如果您有经验，您将直接编写测试，如果您没有经验，实践是理解 TDD 的唯一方法。你可以大量阅读，找到 TDD 的例子和案例研究，对 TDD 有积极的看法，但是经验是唯一能让你与众不同的东西。
 
-*[![](../Images/f5c0c8043d6826432f7425ff31496445.png)](https://apiumhub.com/wp-content/uploads/2018/08/image-2.png)T4】*
+*[![](img/f5c0c8043d6826432f7425ff31496445.png)](https://apiumhub.com/wp-content/uploads/2018/08/image-2.png)T4】*
 
 *图片来源: [XP 解释](https://www.amazon.es/dp/0321278658/ref=cm_sw_r_cp_ep_dp_evRABb12CAH6G)T3】*
 

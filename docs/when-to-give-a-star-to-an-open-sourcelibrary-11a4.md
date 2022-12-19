@@ -4,7 +4,7 @@
 
 给开源库一颗星对库的开发者和消费者来说意义重大。因为这将给开发者带来积极的影响，使库变得更好。这绝对是一种委婉地告诉开发者，有人在使用这个库的方式。
 
-[![rails/rails repos current star count at 2018-07-15](../Images/fdc3e4258502a1a4c80213cdf2e8822a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J96MHABT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vwuzps7nrctrztyqgylz.png)
+[![rails/rails repos current star count at 2018-07-15](img/fdc3e4258502a1a4c80213cdf2e8822a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J96MHABT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vwuzps7nrctrztyqgylz.png)
 
 ### 作为图书馆的消费者
 

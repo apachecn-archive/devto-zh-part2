@@ -220,7 +220,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这意味着我们现在有了一个不会泄露任何样式或者覆盖任何样式的 DOM 树。考虑下面的例子:
 
-[![encapsulation](../Images/44d95da467811c5dabab7cce6c8076dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--96ixDcGK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/llF84Na.png)
+[![encapsulation](img/44d95da467811c5dabab7cce6c8076dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--96ixDcGK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/llF84Na.png)
 
 我们有一个全局的`h1`样式，使得光线 DOM 中的任何 h1 为红色。但是因为我们在影子根中有 h1，所以它不会被全局样式覆盖。
 
@@ -292,7 +292,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们现在已经成功地在组件上设置了一些*属性*，现在看起来应该是这样的:
 
-[![todolist](../Images/8c36db10cc3bf09a71a8e421f160b45d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4-gWFRVn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/I0IkxNp.png)
+[![todolist](img/8c36db10cc3bf09a71a8e421f160b45d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4-gWFRVn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/I0IkxNp.png)
 
 太好了！除了它仍然是无用的，因为我们不能不使用控制台与任何东西互动。让我们快速实现一些功能，将新的待办事项添加到我们的列表中。
 
@@ -328,7 +328,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这应该很容易做到，我们在我们的`constructor`中设置了一些`querySelectors`和`addEventListeners`，在一个点击事件中，我们希望将输入推送到我们的待办事项列表中，呈现它，并再次清除输入。湿疹（eczema 的简写）👏。
 
-[![add](../Images/10ae35ec4f8731eec3bd52c131c94aa9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xAbqCyK7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/v7Qzi8b.png)
+[![add](img/10ae35ec4f8731eec3bd52c131c94aa9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xAbqCyK7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/v7Qzi8b.png)
 
 ## 💅设置属性
 
@@ -493,7 +493,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 此时此刻，我们的应用程序应该是这样的:
 
-[![todos](../Images/d0415d7cd7b2e8547a26e32e60c78a95.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T8z07q1B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/j9k2CQk.png)
+[![todos](img/d0415d7cd7b2e8547a26e32e60c78a95.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T8z07q1B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/j9k2CQk.png)
 
 ### 布尔属性
 
@@ -578,7 +578,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 不错！我们的应用程序应该如下所示:
 
-[![checked](../Images/a58c1f735fcbd77cf6f45bba418bde0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QuElsVhd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/SO3rCJU.png)
+[![checked](img/a58c1f735fcbd77cf6f45bba418bde0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QuElsVhd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/SO3rCJU.png)
 
 ## ♺把属性反映到属性上
 
@@ -733,7 +733,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 太棒了。我们可以删除待办事项:
 
-[![remove](../Images/cdd0cf92bb23616b9e7dda516d7d50b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lo7KYh8y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/uudJaJH.png)
+[![remove](img/cdd0cf92bb23616b9e7dda516d7d50b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lo7KYh8y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/uudJaJH.png)
 
 最后，让我们也创建一个切换功能。
 
@@ -810,7 +810,7 @@ class TodoItem extends HTMLElement {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![toggle](../Images/8cff753a6852ebecdaf876b8b530f197.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PtyPbL39--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/mE9dcX8.png)
+[![toggle](img/8cff753a6852ebecdaf876b8b530f197.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PtyPbL39--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/mE9dcX8.png)
 
 成功！我们可以创建、删除和切换待办事项！
 

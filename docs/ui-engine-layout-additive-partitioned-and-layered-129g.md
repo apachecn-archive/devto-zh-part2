@@ -27,7 +27,7 @@ StackPanel{Alignment="Bottom"}
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/8d0d95ea26ecfd58de422a1f32ae2f71.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7Ik-szc4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/03/screen-shot-2018-03-22-at-10-58-19.png%3Fw%3D249%26h%3D300)
+[![](img/8d0d95ea26ecfd58de422a1f32ae2f71.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7Ik-szc4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/03/screen-shot-2018-03-22-at-10-58-19.png%3Fw%3D249%26h%3D300)
 
 假设这是一个垂直面板，`StackPanel`的高度是所有三个子的高度之和。随着孩子越来越多，身高也越来越高；当我们移除儿童时，高度会降低。
 
@@ -49,7 +49,7 @@ Grid {RowCount="2" ColumnCount="2"}
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/63ee86a204629b3d85367757c295ac3c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_qdaZ3Ye--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/03/screen-shot-2018-03-22-at-10-59-22.png%3Fw%3D300%26h%3D273)
+[![](img/63ee86a204629b3d85367757c295ac3c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_qdaZ3Ye--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/03/screen-shot-2018-03-22-at-10-59-22.png%3Fw%3D300%26h%3D273)
 
 此示例网格将创建四个大小相等的单元格。这些孩子中的每一个然后可以在分配的区域内执行布局。
 
@@ -68,7 +68,7 @@ Grid {RowCount="2" Columns="auto,1*,2*"}
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/4b2dc47cd0569714a3d431ac8227d7c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wsBkQvoQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/03/screen-shot-2018-03-22-at-11-03-30.png%3Fw%3D300%26h%3D108)
+[![](img/4b2dc47cd0569714a3d431ac8227d7c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wsBkQvoQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/03/screen-shot-2018-03-22-at-11-03-30.png%3Fw%3D300%26h%3D108)
 
 假设行主排序，第一列包含文本`Short`和`Longer Text`。网格将确定这些元素的大小，取两者中较宽的一个作为列宽。显示器中的剩余空间将在另外两列之间划分，第三列的宽度是第二列的两倍。
 
@@ -99,7 +99,7 @@ Panel
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/b28a54cc9ce8ada2201d88e5929f83d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AP5QHygm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/03/screen-shot-2018-03-22-at-11-10-22.png%3Fw%3D300%26h%3D171)
+[![](img/b28a54cc9ce8ada2201d88e5929f83d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AP5QHygm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/03/screen-shot-2018-03-22-at-11-10-22.png%3Fw%3D300%26h%3D171)
 
 对于子层，您需要定义默认的 Z 顺序。这里我们假设第一个孩子在顶部，最后一个孩子在底部。这种布局将一些控件、标题文本和后退按钮放置在用户肖像的顶部。纯色矩形在它们的后面。
 
@@ -124,7 +124,7 @@ StackPanel
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/fa7e9dcaf5ea94773591fc758485a866.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ROO8NleC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/03/screen-shot-2018-03-22-at-11-14-16.png%3Fw%3D300%26h%3D180)
+[![](img/fa7e9dcaf5ea94773591fc758485a866.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ROO8NleC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/03/screen-shot-2018-03-22-at-11-14-16.png%3Fw%3D300%26h%3D180)
 
 网格随着孩子的数量而增长。它在“堆栈”面板中被视为普通大小的元素，放置在文本标题和提交按钮之间。
 
@@ -140,7 +140,7 @@ StackPanel
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/1c5859998f1411e345acbf8384d906bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dNwBGg7w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/03/screen-shot-2018-03-22-at-11-21-35.png%3Fw%3D300%26h%3D125)
+[![](img/1c5859998f1411e345acbf8384d906bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dNwBGg7w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/03/screen-shot-2018-03-22-at-11-21-35.png%3Fw%3D300%26h%3D125)
 
 DockPanel 的三个元素各有一个自然大小，加在一起就创建了一个复合卡片。其中许多可以添加到堆栈面板，或用作屏幕上自然大小的弹出窗口。
 

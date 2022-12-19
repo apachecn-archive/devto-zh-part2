@@ -8,4 +8,4 @@
 
 [读下去🔥](https://auth0.com/blog/developing-real-time-apps-with-firebase-and-firestore/?utm_source=dev&utm_medium=sc&utm_campaign=rt_fire)
 
-[![Developing Real-Time Apps with Firebase and Firestore](../Images/948402537e6db96bba78c72929bc832c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fwulK4LA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ami8l84yxmmq2vdjpwh5.png)
+[![Developing Real-Time Apps with Firebase and Firestore](img/948402537e6db96bba78c72929bc832c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fwulK4LA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ami8l84yxmmq2vdjpwh5.png)

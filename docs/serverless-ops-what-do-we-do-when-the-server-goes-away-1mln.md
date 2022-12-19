@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/tmclaughbos/serverless-ops-what-do-we-do-when-the-server-goes-away-1mln>
 
-[![twitter-server-trash.png](../Images/c0bb6e8501ce09e8db9ee195a2d0d9fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k2cgph1F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.serverlessops.io/hs-fs/hubfs/blog/twitter-server-trash.png%3Fnoresize%26t%3D1519097594657%26width%3D640%26name%3Dtwitter-server-trash.png)
+[![twitter-server-trash.png](img/c0bb6e8501ce09e8db9ee195a2d0d9fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k2cgph1F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.serverlessops.io/hs-fs/hubfs/blog/twitter-server-trash.png%3Fnoresize%26t%3D1519097594657%26width%3D640%26name%3Dtwitter-server-trash.png)
 
 我最初是为我的公司博客写这篇文章的。它更多的是面向操作，而不是面向开发者。然而，代码的维护和维护与代码的编写一样重要。如果你要去无服务器，这些是要考虑的操作方面。如果你是一个开发者，那么这是一个无服务器操作复杂性的概述。如果你在运营部门，我知道有些人在这里，那么这是一个定义未来工作角色的尝试。
 
@@ -211,4 +211,4 @@ Lambda 可以增加它们的内存量，这也增加了 Lambda 可用的 CPU 量
 
  ***这最初出现在 [ServerlessOps 博客](https://www.serverlessops.io/blog)上。请访问以阅读更多我们的作品！*
 
-[![](../Images/b62e18a737030f426f83954aecdddd10.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uz8tgiS8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://track.hubspot.com/__ptq.gif%3Fa%3D277116%26k%3D14%26r%3Dhttps%253A%252F%252Fwww.serverlessops.io%252Fblog%252Fserverless-ops-what-do-we-do-when-the-server-goes-away%26bu%3Dhttps%25253A%25252F%25252Fwww.serverlessops.io%25252Fblog%26bvt%3Drss)**
+[![](img/b62e18a737030f426f83954aecdddd10.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uz8tgiS8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://track.hubspot.com/__ptq.gif%3Fa%3D277116%26k%3D14%26r%3Dhttps%253A%252F%252Fwww.serverlessops.io%252Fblog%252Fserverless-ops-what-do-we-do-when-the-server-goes-away%26bu%3Dhttps%25253A%25252F%25252Fwww.serverlessops.io%25252Fblog%26bvt%3Drss)**

@@ -8,7 +8,7 @@ In particular, this time I want to build a development environment based on Git,
 
 Of course, the starting method is to install the fat Visual Studio 2019 first, install all three workloads: Python Development, Node.js Development and Desktop Development with C++, and then make a cup of tea and wait for it.
 
-[![Viiual Studio](../Images/56a121f8ce760aa35f9f6b86914b4dd4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zynh7nn7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t4e8kswdug3958s0m36l.png)
+[![Viiual Studio](img/56a121f8ce760aa35f9f6b86914b4dd4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zynh7nn7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t4e8kswdug3958s0m36l.png)
 
 ## 去吧
 

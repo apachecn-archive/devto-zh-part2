@@ -3,7 +3,7 @@
 > 原文：<https://dev.to/starbist/my-first-year-of-freelancing-3n2j>
 
 [![My First Year of Freelancing<br>
-](../Images/f6ecae0b41446c75e5f1c9fa2d8bf5d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hOQ0qnUy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g99i58ojn2p3dmmhap1g.jpg)
+](img/f6ecae0b41446c75e5f1c9fa2d8bf5d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hOQ0qnUy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g99i58ojn2p3dmmhap1g.jpg)
 
 *这篇文章最初发表于 [silvestar.codes](https://www.silvestar.codes/articles/my-first-year-of-freelancing/) 。*
 

@@ -12,14 +12,14 @@
 
 # 告诉别人你在找工作。
 
-[![tell people you are looking](../Images/ec85cbcb98138b29806a0b6d6b15bb21.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zn9Z12vC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pujt9zsw5kqqu5d46j7a.jpg)
+[![tell people you are looking](img/ec85cbcb98138b29806a0b6d6b15bb21.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zn9Z12vC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pujt9zsw5kqqu5d46j7a.jpg)
 
 *   我知道这可能很难，有很多原因，比如尴尬或骄傲，因为找工作有一种奇怪的耻辱。问题是，如果人们不知道你在看，他们就帮不了你。告诉你的朋友、家人和任何你认为能帮助你的人。LinkedIn([https://linkedin.com](https://linkedin.com))是一个你应该去和人们交谈的好地方，因为那里有招聘人员和招聘经理在积极寻找像你这样的人。
 *   记住，闭着的嘴不会被喂饱。如果你不谈论你想要什么或需要什么，你就不会得到帮助。你会惊讶有多少人关心你，为你说好话，或者愿意让你和他们认识的人联系。
 
 # 开始走向行业特定事件。
 
-[![go where the people are](../Images/4ecd1da457ff5cfaae98e71f7b428f84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wg93gtS4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h2a6fy8h213j1qz5gnop.jpg)
+[![go where the people are](img/4ecd1da457ff5cfaae98e71f7b428f84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wg93gtS4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h2a6fy8h213j1qz5gnop.jpg)
 
 *   如果你想找一份特定行业的工作，找出该行业的人在你所在城市的会面地点([https://www.meetup.com](https://www.meetup.com))。这是一个很好的建立联系的方式，可以让你更多地了解公司在寻找什么。在办公室和招聘经理交谈可能会有点吓人，所以这些活动给你一个更随意的环境去了解他们。
 
@@ -27,7 +27,7 @@
 
 # 鸟枪式应用，如果可能的话，联系发布它们的人。
 
-[![apply for as many jobs as you can](../Images/4c0b9b4c03408cba23d73b70e907392d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6cRdPdW3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l37su7o80kyfsonntdgm.jpg)
+[![apply for as many jobs as you can](img/4c0b9b4c03408cba23d73b70e907392d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6cRdPdW3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l37su7o80kyfsonntdgm.jpg)
 
 *   为了尽快找到一份新工作，你必须愿意递交大量的申请。当我在找工作的时候，我试着根据申请时间的长短每天申请 3-5 份工作。但这并不是造成差异的原因。有所不同的是当我开始联系发帖的人时。
 
@@ -35,7 +35,7 @@
 
 # 发展和培养你的人际网络。
 
-[![help yourself by helping others](../Images/f7c7af8a4958e4b9d39feb4a99ce76fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x7OSB7m0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/okk0rw2k1yc5en4ssk96.jpg)
+[![help yourself by helping others](img/f7c7af8a4958e4b9d39feb4a99ce76fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x7OSB7m0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/okk0rw2k1yc5en4ssk96.jpg)
 
 *   找工作最重要的一部分就是让自己脱颖而出。你可以通过在 LinkedIn 上接触不同的人，参加你所在城市的活动，或者在你的社区做志愿者。你的人际网络中的每个人都不必围着你转，因为这是双向的。当人们需要帮助时，你会帮助他们吗？
 
@@ -43,7 +43,7 @@
 
 # 对不同的角色持开放态度。
 
-[![try something new](../Images/3e5d464c62df92c7bd6d9a75d77c2d11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qiLeQSAM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1jylgkve3vxbsd0fekoh.jpg)
+[![try something new](img/3e5d464c62df92c7bd6d9a75d77c2d11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qiLeQSAM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1jylgkve3vxbsd0fekoh.jpg)
 
 *   这是一个让人们陷入困境的问题。你知道你希望你的新工作拥有的一切:更高的工资，更灵活的工作时间，更好的福利和其他津贴。问题是许多人不愿意做任何与他们已经做的不同的事情。50%的员工正在寻找另一份工作，他们中的大多数人对任何新事物都不感兴趣。
 

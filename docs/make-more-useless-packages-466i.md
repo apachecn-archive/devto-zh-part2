@@ -8,11 +8,11 @@
 
 我是 Simone Giertz 的超级粉丝(见本帖所有 gif)。西蒙妮被称为“低劣机器人女王”，她在 youtube 上有一个频道，在那里她制造机器人，嗯，不太擅长它们被设计的事情。除了展示一些典型结果的 gif，我无法解释他们失败得有多严重:
 
-[![A beer robot smashes the glass](../Images/0e4c3155d2bba0b0e655af1f2fdb54e5.png)T2】](https://i.giphy.com/media/czGJukzhQ2nK0Vr5za/giphy.gif)
+[![A beer robot smashes the glass](img/0e4c3155d2bba0b0e655af1f2fdb54e5.png)T2】](https://i.giphy.com/media/czGJukzhQ2nK0Vr5za/giphy.gif)
 
-[![applying lipstick with a robot doesn't really work either](../Images/66761dd3a918e979848f4c6e86730ca1.png)T2】](https://i.giphy.com/media/jdQ9XgfPTuuYw/giphy.gif)
+[![applying lipstick with a robot doesn't really work either](img/66761dd3a918e979848f4c6e86730ca1.png)T2】](https://i.giphy.com/media/jdQ9XgfPTuuYw/giphy.gif)
 
-[![Brushing teeth with a robot helmet, this made her famous](../Images/b4fd749e9846e5c836ebf4ccd7738ae7.png)T2】](https://i.giphy.com/media/jfPNVRzaSgms0/giphy.gif)
+[![Brushing teeth with a robot helmet, this made her famous](img/b4fd749e9846e5c836ebf4ccd7738ae7.png)T2】](https://i.giphy.com/media/jfPNVRzaSgms0/giphy.gif)
 
 并且链接到她的频道。
 

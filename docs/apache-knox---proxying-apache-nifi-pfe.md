@@ -147,7 +147,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您应该看到这个:
 
-[![](../Images/042356d29a4efdd8a5e0655d7a579a0c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xZ7YYUzp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-03-18/nifi_ui.png)
+[![](img/042356d29a4efdd8a5e0655d7a579a0c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xZ7YYUzp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-03-18/nifi_ui.png)
 
 #### 为 Apache Knox 配置 Apache NiFi
 
@@ -157,34 +157,34 @@ Enter fullscreen mode Exit fullscreen mode
 
 **将 Apache Knox 用户添加到 Apache NiFi**
 
-|打开 Apache NiFi 汉堡菜单| [![](../Images/bb27c60b7d78b821dc6c81e072cffd4a.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--AQl4dZPy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-03-18/nifi_ui_hamburger.png) |
-|点击“用户”| [![](../Images/ae7ed481d5674ba95ef1f7750ec50273.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--QtkRNZKa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-03-18/nifi_ui_users.png) |
-|点击“添加用户”图标|[![](../Images/6ba99af427ded9cd207ec46286f06b90.png)|](https://res.cloudinary.com/practicaldev/image/fetch/s--LJIUb7xp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-03-18/nifi_ui_users_add.png)|
-|在“身份”框中输入`CN=KNOX_FQDN_HOSTNAME, OU=NIFI`，点击“确定”|[|![](../Images/bb242cf5e013b4fdbf454e3bde91aee2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--O9jQAX78--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-03-18/nifi_ui_user_add_KNOX_FQDN_HOSTNAME.png)|
+|打开 Apache NiFi 汉堡菜单| [![](img/bb27c60b7d78b821dc6c81e072cffd4a.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--AQl4dZPy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-03-18/nifi_ui_hamburger.png) |
+|点击“用户”| [![](img/ae7ed481d5674ba95ef1f7750ec50273.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--QtkRNZKa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-03-18/nifi_ui_users.png) |
+|点击“添加用户”图标|[![](img/6ba99af427ded9cd207ec46286f06b90.png)|](https://res.cloudinary.com/practicaldev/image/fetch/s--LJIUb7xp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-03-18/nifi_ui_users_add.png)|
+|在“身份”框中输入`CN=KNOX_FQDN_HOSTNAME, OU=NIFI`，点击“确定”|[|![](img/bb242cf5e013b4fdbf454e3bde91aee2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--O9jQAX78--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-03-18/nifi_ui_user_add_KNOX_FQDN_HOSTNAME.png)|
 |用“X”按钮关闭“NiFi 用户”对话框。|
 
 **添加 Apache NiFi 策略，允许 Apache Knox 用户代理请求**
 
-|打开 Apache NiFi 汉堡菜单| [![](../Images/bb27c60b7d78b821dc6c81e072cffd4a.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--AQl4dZPy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-03-18/nifi_ui_hamburger.png) |
-|单击“策略”| [![](../Images/d2c933dbc143521a9cd9d473ef99b61a.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--ocfcIjIr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-03-18/nifi_ui_policies.png) |
-|从策略下拉列表中选择“代理用户请求”，客户端“创建”一个新策略|[![](../Images/c6d54f551b9401cd2706a9150c092ba2.png)|](https://res.cloudinary.com/practicaldev/image/fetch/s--2XslhPaw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-03-18/nifi_ui_policy_proxy_user_create.png)|
-|确保“代理用户请求”被选中，然后单击“添加用户”图标|[|![](../Images/b798d39768da75af140a6cf1ffc7f305.png)|](https://res.cloudinary.com/practicaldev/image/fetch/s--eB-7CZ5O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-03-18/nifi_ui_policy_proxy_user_add.png)|
-|添加用户`CN=KNOX_FQDN_HOSTNAME, OU=NIFI`，然后单击“添加”| [|](https://res.cloudinary.com/practicaldev/image/fetch/s--5fFSU-zK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-03-18/nifi_ui_policy_proxy_user_add_KNOX_FQDN_HOSTNAME.png)
+|打开 Apache NiFi 汉堡菜单| [![](img/bb27c60b7d78b821dc6c81e072cffd4a.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--AQl4dZPy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-03-18/nifi_ui_hamburger.png) |
+|单击“策略”| [![](img/d2c933dbc143521a9cd9d473ef99b61a.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--ocfcIjIr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-03-18/nifi_ui_policies.png) |
+|从策略下拉列表中选择“代理用户请求”，客户端“创建”一个新策略|[![](img/c6d54f551b9401cd2706a9150c092ba2.png)|](https://res.cloudinary.com/practicaldev/image/fetch/s--2XslhPaw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-03-18/nifi_ui_policy_proxy_user_create.png)|
+|确保“代理用户请求”被选中，然后单击“添加用户”图标|[|![](img/b798d39768da75af140a6cf1ffc7f305.png)|](https://res.cloudinary.com/practicaldev/image/fetch/s--eB-7CZ5O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-03-18/nifi_ui_policy_proxy_user_add.png)|
+|添加用户`CN=KNOX_FQDN_HOSTNAME, OU=NIFI`，然后单击“添加”| [|](https://res.cloudinary.com/practicaldev/image/fetch/s--5fFSU-zK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-03-18/nifi_ui_policy_proxy_user_add_KNOX_FQDN_HOSTNAME.png)
 
 **将`admin`用户添加到 Apache NiFi，以便与 Apache Knox 一起使用**
 
-|打开 Apache NiFi 汉堡菜单| [![](../Images/bb27c60b7d78b821dc6c81e072cffd4a.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--AQl4dZPy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-03-18/nifi_ui_hamburger.png) |
-|点击“用户”| [![](../Images/ae7ed481d5674ba95ef1f7750ec50273.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--QtkRNZKa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-03-18/nifi_ui_users.png) |
-|点击“添加用户”图标|[![](../Images/6ba99af427ded9cd207ec46286f06b90.png)|](https://res.cloudinary.com/practicaldev/image/fetch/s--LJIUb7xp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-03-18/nifi_ui_users_add.png)|
-|在“身份”框中输入`admin`，点击“确定”|[|![](../Images/6646c1e238fcfdf0c7013c43e45961db.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--auVmdoua--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-03-18/nifi_ui_user_add_admin.png)|
+|打开 Apache NiFi 汉堡菜单| [![](img/bb27c60b7d78b821dc6c81e072cffd4a.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--AQl4dZPy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-03-18/nifi_ui_hamburger.png) |
+|点击“用户”| [![](img/ae7ed481d5674ba95ef1f7750ec50273.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--QtkRNZKa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-03-18/nifi_ui_users.png) |
+|点击“添加用户”图标|[![](img/6ba99af427ded9cd207ec46286f06b90.png)|](https://res.cloudinary.com/practicaldev/image/fetch/s--LJIUb7xp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-03-18/nifi_ui_users_add.png)|
+|在“身份”框中输入`admin`，点击“确定”|[|![](img/6646c1e238fcfdf0c7013c43e45961db.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--auVmdoua--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-03-18/nifi_ui_user_add_admin.png)|
 |用“X”按钮关闭“NiFi 用户”对话框。|
 
 **添加 Apache NiFi 策略，允许`admin`用户查看用户界面**
 
-|打开 Apache NiFi 汉堡菜单| [![](../Images/bb27c60b7d78b821dc6c81e072cffd4a.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--AQl4dZPy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-03-18/nifi_ui_hamburger.png) |
-|点击“策略”| [![](../Images/d2c933dbc143521a9cd9d473ef99b61a.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--ocfcIjIr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-03-18/nifi_ui_policies.png) |
-|确保“查看用户界面”被选中，点击“添加用户”图标| [![](../Images/63067ff27bf8137e3662ade9a4e004b4.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--VyAkv3XW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-03-18/nifi_ui_policy_view_interface_add.png) |
-|添加用户`admin`，点击“添加”|[|![](../Images/217fa895fb5c18558d54709b333552dc.png)|](https://res.cloudinary.com/practicaldev/image/fetch/s--KiDvOQTv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-03-18/nifi_ui_policy_view_interface_add_admin.png)|
+|打开 Apache NiFi 汉堡菜单| [![](img/bb27c60b7d78b821dc6c81e072cffd4a.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--AQl4dZPy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-03-18/nifi_ui_hamburger.png) |
+|点击“策略”| [![](img/d2c933dbc143521a9cd9d473ef99b61a.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--ocfcIjIr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-03-18/nifi_ui_policies.png) |
+|确保“查看用户界面”被选中，点击“添加用户”图标| [![](img/63067ff27bf8137e3662ade9a4e004b4.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--VyAkv3XW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-03-18/nifi_ui_policy_view_interface_add.png) |
+|添加用户`admin`，点击“添加”|[|![](img/217fa895fb5c18558d54709b333552dc.png)|](https://res.cloudinary.com/practicaldev/image/fetch/s--KiDvOQTv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-03-18/nifi_ui_policy_view_interface_add_admin.png)|
 |用“X”按钮关闭“访问策略”对话框。|
 
 ### 设置 Apache Knox
@@ -230,7 +230,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您应该看到这个:
 
-[![](../Images/1fcffa3359cb974d219e796b43456c8a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RkwNhzRt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-03-18/knox_manager_example.png)
+[![](img/1fcffa3359cb974d219e796b43456c8a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RkwNhzRt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-03-18/knox_manager_example.png)
 
 #### 为 Apache NiFi 设置 Apache Knox
 
@@ -275,7 +275,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您应该看到这个:
 
-[![](../Images/be1fa68de22b4fae1deb56c74b204fb6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W8acLMGR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-03-18/knox_nifi_ui.png)
+[![](img/be1fa68de22b4fae1deb56c74b204fb6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W8acLMGR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-03-18/knox_nifi_ui.png)
 
 ## 结论
 

@@ -4,7 +4,7 @@
 
 # 在 Gitlab 上持续集成/部署 Rails
 
-[![Gitlab piplines](../Images/a3f6bb023d415605e2c4261c4b2edcb4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wK2vft7t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.heyzimo.com/assets/images/pipline_green.png)
+[![Gitlab piplines](img/a3f6bb023d415605e2c4261c4b2edcb4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wK2vft7t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.heyzimo.com/asseimg/pipline_green.png)
 
 在这篇博文中，我们将通过必要的步骤来设置 Gitlab，以便
 运行 Rails build，测试&部署，如果一切正常的话。
@@ -303,7 +303,7 @@ Enter fullscreen mode Exit fullscreen mode
 要运行测试，我们应该启动一个浏览器(在一个容器中)并从 rails 服务器(从另一个容器)获取页面
 。
 
-[![System tests & containers](../Images/81519166e68077cbe10ff2277f22fdda.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WAIm9-LI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.heyzimo.com/assets/images/system_tests.png)T3】
+[![System tests & containers](img/81519166e68077cbe10ff2277f22fdda.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WAIm9-LI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.heyzimo.com/asseimg/system_tests.png)T3】
 
 ```
 system_test:
@@ -377,7 +377,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 `rails system test`将截图并保存到`tmp/screenshots`
 
-[![System tests & scrennshots](../Images/b2af60abee3f88c2228d7db0e7beab08.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EOMHKdcW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.heyzimo.com/assets/images/screenshots.png){:class = " img-responsive " }
+[![System tests & scrennshots](img/b2af60abee3f88c2228d7db0e7beab08.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EOMHKdcW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.heyzimo.com/asseimg/screenshots.png){:class = " img-responsive " }
 
 正如你所看到的，截图被保存并附在 job 上，整洁！
 
@@ -404,7 +404,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 `HEROKU_API_KEY`存储在项目设置中的安全位置
 
-[![Gitlab CI variables](../Images/9f4b6316f4c6554bf878cfa5b5c885dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zla4N2Rb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.heyzimo.com/assets/images/gitlab_variables.png)
+[![Gitlab CI variables](img/9f4b6316f4c6554bf878cfa5b5c885dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zla4N2Rb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.heyzimo.com/asseimg/gitlab_variables.png)
 
 有关这方面的更多信息，请访问 [Gitlab 变量文档](https://docs.gitlab.com/ee/ci/variables/)
 

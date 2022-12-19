@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/adroitcoder/what-you-need-to-know-as-a-junior-developer-3an4>
 
-[![code](../Images/6d24a68240908a35305b67f617899a61.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lS2XzWjs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mq4swcb69cc06movivu0.png)
+[![code](img/6d24a68240908a35305b67f617899a61.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lS2XzWjs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mq4swcb69cc06movivu0.png)
 
 *也贴在[导师](https://www.codementor.io/adroitcoder/what-you-need-to-know-as-a-junior-developer-ivwj9sghm)T3】*
 

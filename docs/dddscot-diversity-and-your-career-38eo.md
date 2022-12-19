@@ -14,7 +14,7 @@
 
 > 没问题，很高兴听到人们热衷于了解它！下一次 WiTS 活动的链接在这里。如果能在那里看到更多的你，那就太好了！[https://t.co/BJvYmdNmbO](https://t.co/BJvYmdNmbO)T2【DDDScotland】T3】
 > 
-> —贝卡·利德尔[![🏴󠁧󠁢󠁳󠁣󠁴󠁿](../Images/79bd8cc015946eee423cf2de2393c14d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pdzzby4d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f3f4-e0067-e0062-e0073-e0063-e0074-e007f.png)(@ The _ Liddler)[2018 年 2 月 10 日](https://twitter.com/The_Liddler/status/962348982507843584?ref_src=twsrc%5Etfw)
+> —贝卡·利德尔[![🏴󠁧󠁢󠁳󠁣󠁴󠁿](img/79bd8cc015946eee423cf2de2393c14d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pdzzby4d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f3f4-e0067-e0062-e0073-e0063-e0074-e007f.png)(@ The _ Liddler)[2018 年 2 月 10 日](https://twitter.com/The_Liddler/status/962348982507843584?ref_src=twsrc%5Etfw)
 
 ## 求职和继续你的职业生涯
 

@@ -6,7 +6,7 @@
 
 山姆解释了为什么公司不应该根据员工的位置来调整薪水和工资。
 
-[![sam_ferree](../Images/f8b84d9926b30df9a401e7a2602201e7.png)](/sam_ferree) [## 为什么(我认为)远程工作者的“生活成本”报酬是 BS。
+[![sam_ferree](img/f8b84d9926b30df9a401e7a2602201e7.png)](/sam_ferree) [## 为什么(我认为)远程工作者的“生活成本”报酬是 BS。
 
 ### 山姆费里 1818 年 5 月 9 日 14 分钟阅读
 
@@ -16,7 +16,7 @@
 
 Dave 与 git 子模块共享他们的工作流，以管理依赖关系。
 
-[![dwd](../Images/9f1059dadba655888e61d1301429055c.png)](/dwd) [## Git 子模块再探
+[![dwd](img/9f1059dadba655888e61d1301429055c.png)](/dwd) [## Git 子模块再探
 
 ### 戴夫·克里兰 5 月 12 日 183 分钟阅读
 
@@ -44,7 +44,7 @@ Dave 与 git 子模块共享他们的工作流，以管理依赖关系。
 
 默认情况下，最新版本的 Webpack 处理了大量优化。Jesal 探讨了哪些剩余项目可以调整，以确保您充分利用 Webpack。
 
-[![jesalg](../Images/c9b26f7bce336a43e4b86769acd815e8.png)](/jesalg) [## 使用 Webpack 4 优化前端交付
+[![jesalg](img/c9b26f7bce336a43e4b86769acd815e8.png)](/jesalg) [## 使用 Webpack 4 优化前端交付
 
 ### jesal gad hia 5 月 7 日 187 分钟阅读
 
@@ -54,7 +54,7 @@ Dave 与 git 子模块共享他们的工作流，以管理依赖关系。
 
 云中有大量的语言和技术。我们应该知道多少？
 
-[![rhymes](../Images/91ed8188209dceb0374b6a8c88308333.png)](/rhymes) [## 软件开发人员疲劳是一件事吗？
+[![rhymes](img/91ed8188209dceb0374b6a8c88308333.png)](/rhymes) [## 软件开发人员疲劳是一件事吗？
 
 ### 押韵 5 月 11 日 181 分钟读
 

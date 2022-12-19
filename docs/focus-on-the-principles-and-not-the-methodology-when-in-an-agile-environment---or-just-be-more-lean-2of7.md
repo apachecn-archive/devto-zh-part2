@@ -40,7 +40,7 @@
 
 如 lean.org([https://www.lean.org/WhatsLean/Principles.cfm](https://www.lean.org/WhatsLean/Principles.cfm))所示，这 5 个原则形成了精益持续学习循环:
 
-[![lean continuous improvement loop](../Images/e37a5580b76e8c6b30ba4aa88b86a398.png "lean continuous improvement loop")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ClOUyBPL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.lean.org/images/5stepslean.gif)
+[![lean continuous improvement loop](img/e37a5580b76e8c6b30ba4aa88b86a398.png "lean continuous improvement loop")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ClOUyBPL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.lean.oimg/5stepslean.gif)
 
 我发现这 5 个原则或循环阶段与 7 个精益套件原则一起使用时，有助于巩固“精益工作”所需的精益思想。确定对客户的价值不断提醒我们，在规划实现客户需求的方式之前，要记住你是在为谁提供服务。一旦理解了，就要清除服务流程中的所有障碍，确保服务以高质量、少浪费的方式及时到达客户手中。在系统中建立拉动式生产会促使你确认对产品的需求，确保不做不需要的工作，然后在不产生库存的情况下尽可能及时地满足需求。看板方法鼓励这种通过系统的流动的拉动而不是流动的推动，这种工作流建立了到过程中的下一阶段的负责任的/尊重的工作交付，而不是仅仅“把它扔出围栏”。
 

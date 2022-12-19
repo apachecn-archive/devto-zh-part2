@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/gustydev/top-3-web-application-development-trends-59k4>
 
-[![](../Images/dc86ec961f09de77238b0fd3d09910cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HinWcmb7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://s3.amazonaws.com/snaps-bucket/2018/08/c9JrISY/web-development.gif)
+[![](img/dc86ec961f09de77238b0fd3d09910cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HinWcmb7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://s3.amazonaws.com/snaps-bucket/2018/08/c9JrISY/web-development.gif)
 
 值得你关注的三大网络发展趋势
 

@@ -30,15 +30,15 @@ VirtEngine 还集成了公共云提供商，如 AWS、Azure、DigitalOcean 和�
 
 虚拟私有云管理:
 
-[![VirtEngine Virtual Private Clouds](../Images/c95b40131a175fd8dcbcdd51b8e2e556.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YJ52dBvH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/MtVKBxX.png)
+[![VirtEngine Virtual Private Clouds](img/c95b40131a175fd8dcbcdd51b8e2e556.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YJ52dBvH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/MtVKBxX.png)
 
 应用程序编排:
 
-[![VirtEngine Application Orchestration](../Images/f6122411d333fc5d306e2f0da598551b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RqBHEfUb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/yI4iEl0.png)
+[![VirtEngine Application Orchestration](img/f6122411d333fc5d306e2f0da598551b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RqBHEfUb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/yI4iEl0.png)
 
 管理员用户界面:
 
-[![VirtEngine Admin](../Images/05f800244e8f004c2f691bb1aba988c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ErbKtyUJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/RIBNCoK.png)
+[![VirtEngine Admin](img/05f800244e8f004c2f691bb1aba988c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ErbKtyUJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/RIBNCoK.png)
 
 如果您对部署 VirtEngine-Waldur 感兴趣，请查看以下文档:
 

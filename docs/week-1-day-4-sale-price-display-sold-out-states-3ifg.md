@@ -12,7 +12,7 @@
 
 根据我创作的原始设计，这是我为第四天准备的:
 
-[![ecommerce listing showing orange knitted winter hat, the name of item "Thinsulate Winter Cap", and the $20.99 sale price with a crossed out $34.99 price, and an "add to cart" button in blue, on the bottom](../Images/be39cf0226df00724a27b26bea87cd1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LQYQNV7n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui-assets/master/ecommerce-listing/day4/w1d4-final-group.png)
+[![ecommerce listing showing orange knitted winter hat, the name of item "Thinsulate Winter Cap", and the $20.99 sale price with a crossed out $34.99 price, and an "add to cart" button in blue, on the bottom](img/be39cf0226df00724a27b26bea87cd1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LQYQNV7n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui-assets/master/ecommerce-listing/day4/w1d4-final-group.png)
 
 对于销售价格显示，我添加了一个绿色标注，或“徽章”，有时也称为。然后，我很自然地在它旁边显示销售价格；为了结束销售更新，我删除了原价，这样用户就可以*看到*他们的节省了！(我们在这里谈论的是*字面上的*大幅降价)
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/codetheweb/all-about-if-statements-and-booleans-in-javascript-5com>
 
-[![All about IF statements and booleans in JavaScript!](../Images/0d4b4bddb1ae05f148d0650e54292495.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UJhgMqk7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codetheweb.blog/assets/img/posts/if-statements-boolean-operators/cover.jpg)
+[![All about IF statements and booleans in JavaScript!](img/0d4b4bddb1ae05f148d0650e54292495.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UJhgMqk7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codetheweb.blog/assets/img/posts/if-statements-boolean-operators/cover.jpg)
 
 If 语句是 JavaScript 的另一个核心部分:基于值和/或变量的比较，它们允许您控制实际执行什么代码。我还会教你所有可以用布尔值做的很酷的事情！请往下读...
 

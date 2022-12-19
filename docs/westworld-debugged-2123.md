@@ -8,7 +8,7 @@
 
 “幻想”的概念在《西部世界》第一季的早期就被引入了。梅芙最终来到了一个野外实验室，在那里她显然要疯了。伯纳德检查了他手边的平板电脑，发现她正在经历“严重的分裂”福特点击并放下一个顶部写着“音乐”的文件，子文件名为“幻想-德彪西”这似乎修复了梅芙的精神崩溃，他平静地解释“一个老朋友的老把戏”，然后抹去她的记忆。
 
-[![Reverie - Debussy](../Images/aed0d36c489d2661cd0eed37c1400f7b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NhZu_0yV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xfs147sb3j43mywkhiu6.png) 
+[![Reverie - Debussy](img/aed0d36c489d2661cd0eed37c1400f7b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NhZu_0yV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xfs147sb3j43mywkhiu6.png) 
 遐想——德彪西
 
 《遐想密码》写于《西部世界》第一季前 30 年，那时阿诺德还活着。“幻想”是对先前经历的模糊记忆，给了主人更多的深度。例如，梅芙记得她和她孩子以前的生活。最初是作为一种无害的措施，让主持人看起来更现实，幻想更新似乎失去了控制，并成为“怪癖”的主要理由，这些怪癖很快开始看起来越来越像意识。
@@ -17,7 +17,7 @@
 
 虽然阿诺德写了令人困惑的遐想代码，但在阿诺德消失很久之后，在名为“原始”的一集更新后，问题开始出现。突然间，阿伯纳西、多洛雷斯和梅芙无法摆脱对他们前世的重复记忆。为什么这种情况会在梦境产生 30 年后发生？这暗示了更新是由福特对 Maeve 代码的更改初始化的。没有直接解释，只能猜测。在这个帖子中，暗示了更新是由 Dolores 在第一季第二集结尾说“这些暴力的快乐有暴力的结局”引发的。
 
-[!["These violent delights have violent ends."](../Images/b1da9de37db8ea3da2ae9828535ceaf3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SziwNUzV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2pmrd8zsedomfp01znl2.png) 
+[!["These violent delights have violent ends."](img/b1da9de37db8ea3da2ae9828535ceaf3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SziwNUzV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2pmrd8zsedomfp01znl2.png) 
 “这些暴力的快乐有暴力的结局。”
 
 那么这个概念有多疯狂呢？当然，拥有模糊的无法解释的记忆会让大多数人发疯，所以梅芙和多洛雷斯的沮丧是完全自然的。但是这里少了一个更大更复杂的部分。如果客人只是盲目地遵循代码指令，他们为什么要关心他们能“记住”这些东西呢？与我们今天拥有的任何人工智能技术相比，西部世界的主机都在另一个层面上，但作为解开西部世界外表的关键的幻想解释令人不满意。让我们靠近一点。
@@ -32,7 +32,7 @@
 
 迷宫是一个部分是物理的，部分是超自然的通往宿主意识的旅程。从《幽灵国度》开始。许多幽灵国家的成员已经在某种程度上意识到他们的意识很多年了。他们的一些孩子带着洋娃娃，看起来像基地里修复宿主的外科医生。
 
-[![Toys 'R' Us Westworld Edition](../Images/e768ed3a31bbebde7260ae48a84aba0b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wILiI3i7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9rqc7jutygcbuurgewz6.png) 
+[![Toys 'R' Us Westworld Edition](img/e768ed3a31bbebde7260ae48a84aba0b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wILiI3i7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9rqc7jutygcbuurgewz6.png) 
 玩具反斗城西部世界版
 
 梅芙看到了其中的一个娃娃，当时一个小女孩掉了它，并被一名士兵告知这是鬼国“所谓的宗教”的一部分。赫克托解释说，娃娃是一个阴影，一部分鬼国家的知识。他说这个娃娃代表了“行走于两个世界之间的人”。他们是从地狱派来监督我们的世界的。梦游者说有人能看见他们。这是上帝的祝福，看到那些幕后操纵你的大师们。”似乎幽灵国度已经想通了一切。
@@ -49,7 +49,7 @@
 
 虽然人工智能专家一致认为，我们距离能够在《西部世界》上发挥主机功能的机器还有很长的路要走，但该系列提出了人类如何与人工智能对手联系起来的伦理问题。佐治亚理工学院计算机科学副教授马克·里德尔说:“我们天生就把生物当人看待，所以当[机器]被设计成自主行动时，它就会触发情感。”他提供了 Roombas 的例子，一些所有者亲切地命名它，甚至在它们去世后哀悼它。
 
-[![Westworld Season 3: Attack of the Roombas](../Images/454db476de33d0f1a4b6ff6e04c13126.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Dh-sN3I4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yhyhj5wxlwz5brg1azq1.png) 
+[![Westworld Season 3: Attack of the Roombas](img/454db476de33d0f1a4b6ff6e04c13126.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Dh-sN3I4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yhyhj5wxlwz5brg1azq1.png) 
 《西部世界》第三季:Roombas 的进攻
 
 尽管许多《西部世界》的参与者毫不犹豫地残忍杀害和虐待《西部世界》的主持人，但很明显，许多人很难将他们分开。事实上，在第一季的大部分时间里，威廉都在与多洛雷斯的这种观念作斗争，直到多洛雷斯被洛根刺伤后，他经历了某种精神崩溃。更奇怪的是，像洛根这样的角色似乎觉得奇怪的是，他们的人类同伴与机器人产生共鸣。随意射杀小女孩不会让你有点害怕吗？威廉自己不是一束玫瑰，但洛根显然有一些问题要解开。
@@ -60,7 +60,7 @@
 
 与此相关的是，多洛雷斯提到，为了塑造伯纳德，他花了 11000 次尝试来完善阿诺德。她提到这是因为原始版本“太完美了”对于一个“简单”的任务来说，这可能看起来像是很多工作，但对于一个典型的机器学习问题来说，这实际上并不太糟糕。当然，训练一个模型所需的数据量很大程度上取决于问题的复杂程度。对于一个极其复杂的问题，你需要数百万个例子。对于中等规模的问题，您通常需要几十万个。但是如果我们要相信人类实际上非常简单，也许这 11000 个数字支持了这个观点。
 
-[![Just some light reading](../Images/5e4351864a0fc2fcdde1f14c0e891ed7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8XQ-47qt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0a8hry4rkbtwbkof26zv.png) 
+[![Just some light reading](img/5e4351864a0fc2fcdde1f14c0e891ed7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8XQ-47qt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0a8hry4rkbtwbkof26zv.png) 
 只是一些闲书
 
 那么代码行呢？布莱恩·库兹韦尔在《连线》杂志上估计，一个人的大脑相当于 100 万行代码。谷歌 chrome 运行在 670 万行代码上，Photoshop 运行在 1000 万行代码上。但是这些指标可能不合适。正如在这个帖子中指出的，西部世界的工程师可能正在使用一种未来语言，这种语言允许他们在更高的水平上进行开发。代码行度量被引用来强调人类的简单性，但是这个度量在我们当前的术语中可能是无用的，因为未来一代使用的语言可能比当前的编程实用程序更高级。
@@ -77,7 +77,7 @@
 
 《西部世界》中的枪支似乎使用了某种技术，允许它们感知目标的身份，并相应地开火或吹出某种令人讨厌的灰尘。《西部世界》的制片人乔纳森·诺兰说过，感觉的能力在于子弹本身。
 
-[![Come on, make my day](../Images/b0580a5872c87d97b5120c4cf8d20110.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--g6H7dEei--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hcn9qznjx2jhth2q8wm1.png) 
+[![Come on, make my day](img/b0580a5872c87d97b5120c4cf8d20110.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--g6H7dEei--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hcn9qznjx2jhth2q8wm1.png) 
 来吧，让我的天
 
 据《娱乐周刊》采访第二季首播的导演理查德·刘易斯说:“当它在人身上时，它会锁定一种安全机制，为子弹创造不同的[速度]。”理查德告诉《娱乐周刊》。"他们确实减速了，并且制造了更多的瘀伤效果."
@@ -110,4 +110,4 @@
 
 谢谢你和我一起探索这部剧的秘密。你对西部世界有什么疑问？
 
-[![The End](../Images/89d723196f21e348b0f83e4faa9acdc3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---CeZF-Aa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/428tcstphoas8lg5oybx.png)
+[![The End](img/89d723196f21e348b0f83e4faa9acdc3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---CeZF-Aa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/428tcstphoas8lg5oybx.png)

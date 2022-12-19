@@ -8,7 +8,7 @@
 
 现在看这些啊哈时刻，都觉得真的很明显。但是我记得当我理解一个概念并意识到我可以使用 git 的方式时，我真的想到了“啊哈”。
 
-[![](../Images/26b07c6195336b83a8eae85b10a86220.png)T2】](https://henrikwarne1.files.wordpress.com/2018/06/dscf6999.jpg)
+[![](img/26b07c6195336b83a8eae85b10a86220.png)T2】](https://henrikwarne1.files.wordpress.com/2018/06/dscf6999.jpg)
 
 **1。本地和远程更改是独立的。**我经常使用“svn status -u”来查看如果我运行 svn update 会得到什么变化。一开始，我对 git 中的等价操作感到困惑。您可以运行 git status，它将显示与上次获取的内容相比的本地更改。但是要看到服务器上的变化，我首先需要做一个 git 获取。有两组独立的变更——本地变更和服务器上的变更(由其他人推送到那里)—这个概念花了我一段时间才真正理解。
 

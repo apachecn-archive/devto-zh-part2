@@ -6,4 +6,4 @@
 
 [了解他们如何在⚛️工作](https://auth0.com/blog/time-slice-suspense-react16/?utm_source=dev&utm_medium=sc&utm_campaign=react16_new_features)
 
-[![Beyond React 16: Time Slicing and Suspense API](../Images/4317d3d35960b4e43459667eefd713f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lC2famUX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f050tx3afoizuq7jg1sx.png)
+[![Beyond React 16: Time Slicing and Suspense API](img/4317d3d35960b4e43459667eefd713f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lC2famUX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f050tx3afoizuq7jg1sx.png)

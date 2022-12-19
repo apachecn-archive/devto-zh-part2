@@ -10,7 +10,7 @@
 
 ## Magento 2 迁移前需要了解的重要事项
 
-[![](../Images/bddd58762b9d61318822cd287fca4886.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3RF6HKT8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.tigren.com/wp-content/uploads/2018/05/magento-2-migration.png) 
+[![](img/bddd58762b9d61318822cd287fca4886.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3RF6HKT8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.tigren.com/wp-content/uploads/2018/05/magento-2-migration.png) 
 很多人认为 Magento 1 迁移到 Magento 2 的过程*类似于*更新到 Magento 1 的最新版本。
 
 但是，绝对*错*！
@@ -39,7 +39,7 @@
 
 ### 1.准备
 
-[![prepare for magento 2 migration](../Images/ab8f0549f0ce4ca6c144ea0856cfffea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZYe53jai--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.tigren.com/wp-content/uploads/2018/05/prepare-for-magento-2-migration.png)
+[![prepare for magento 2 migration](img/ab8f0549f0ce4ca6c144ea0856cfffea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZYe53jai--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.tigren.com/wp-content/uploads/2018/05/prepare-for-magento-2-migration.png)
 
 在开始 Magento 迁移过程之前，请查看现有的 Magento 1 商店，并确定哪些是您“真正需要的”,哪些需要迁移到新站点。例如，尽管您的网站可能包含巨大的数据库资产，但是您需要迁移的内容包括产品、类别、客户和订单。此外，在扩展方面，只保留您认为必要的内容，删除多余的内容。
 
@@ -49,7 +49,7 @@
 
 ### 2.主题迁移
 
-[![magento 2 theme migration](../Images/bbcf0e0f1508bd1fc2d0befc1c98b31f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g8hO0W3S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.tigren.com/wp-content/uploads/2018/05/magento-2-theme-migration.png)
+[![magento 2 theme migration](img/bbcf0e0f1508bd1fc2d0befc1c98b31f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g8hO0W3S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.tigren.com/wp-content/uploads/2018/05/magento-2-theme-migration.png)
 
 正如我们之前提到的，不可能将主题和模板从 Magento 1 移动到 Magento 2 的新站点。对此有几种解决方案:
 
@@ -91,7 +91,7 @@
 
 ### 3.数据迁移
 
-[![magento data migration](../Images/530ab7b8e18829f5030d583979e4f7fc.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--_EqXURyH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.tigren.com/wp-content/uploads/2018/05/magento-data-migration.png) Magento 数据迁移是将您的所有数据(包括产品、类别、客户、订单、评价、评论等)转移到新 Magento 2 站点的过程。诚然，这是 Magento 2 升级过程中最关键的阶段，要求您拥有丰富的知识和经验来进行迁移。否则，一个小小的错误就可能导致严重的数据丢失而无法恢复。
+[![magento data migration](img/530ab7b8e18829f5030d583979e4f7fc.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--_EqXURyH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.tigren.com/wp-content/uploads/2018/05/magento-data-migration.png) Magento 数据迁移是将您的所有数据(包括产品、类别、客户、订单、评价、评论等)转移到新 Magento 2 站点的过程。诚然，这是 Magento 2 升级过程中最关键的阶段，要求您拥有丰富的知识和经验来进行迁移。否则，一个小小的错误就可能导致严重的数据丢失而无法恢复。
 
 ...
 **[【阅读全文】](https://www.tigren.com/migrate-magento-1-to-magento-2/)**

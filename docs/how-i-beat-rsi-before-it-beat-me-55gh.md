@@ -30,7 +30,7 @@ RSI 的糟糕之处在于，它开始时很轻微，然后慢慢恶化，直到�
 
 <figure>
 
-[![Not cool, dudes](../Images/d1d3495c7dfe784ab8dfe54f710ead6b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RxTIcOCT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6cgogrswtyxe2hz9oh8f.jpg)
+[![Not cool, dudes](img/d1d3495c7dfe784ab8dfe54f710ead6b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RxTIcOCT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6cgogrswtyxe2hz9oh8f.jpg)
 
 <figcaption>Not cool, dudes</figcaption>
 
@@ -44,7 +44,7 @@ RSI 的糟糕之处在于，它开始时很轻微，然后慢慢恶化，直到�
 
 <figure>
 
-[![Shiny!](../Images/95d63f5610e7e5c9168149acfc65affd.png)T2】](http://www.amazon.com/exec/obidos/ASIN/B000P8Q03I/ref=nosim&tag=jerodsanto-20)
+[![Shiny!](img/95d63f5610e7e5c9168149acfc65affd.png)T2】](http://www.amazon.com/exec/obidos/ASIN/B000P8Q03I/ref=nosim&tag=jerodsanto-20)
 
 <figcaption>Shiny!</figcaption>
 
@@ -56,7 +56,7 @@ RSI 的糟糕之处在于，它开始时很轻微，然后慢慢恶化，直到�
 
 <figure>
 
-[![The mouse is heavy, but it grew on me](../Images/a380d126f6b9340043755dfd103349d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sJj9xe_L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ufed5hggvhj3fb4phbpz.jpg)
+[![The mouse is heavy, but it grew on me](img/a380d126f6b9340043755dfd103349d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sJj9xe_L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ufed5hggvhj3fb4phbpz.jpg)
 
 <figcaption>The mouse is heavy, but it grew on me</figcaption>
 
@@ -88,7 +88,7 @@ RSI 的糟糕之处在于，它开始时很轻微，然后慢慢恶化，直到�
 
 <figure>
 
-[![It’s called “ulnar deviation” which is a fancy way of saying “OUCH”](../Images/858e56500e0429cc3ba3897fb3196222.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ncipvNt8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v4e1j8wmi0sci1h03e0t.png)
+[![It’s called “ulnar deviation” which is a fancy way of saying “OUCH”](img/858e56500e0429cc3ba3897fb3196222.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ncipvNt8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v4e1j8wmi0sci1h03e0t.png)
 
 <figcaption>It’s called “ulnar deviation” which is a fancy way of saying “OUCH”</figcaption>
 
@@ -106,15 +106,15 @@ RSI 的糟糕之处在于，它开始时很轻微，然后慢慢恶化，直到�
 
 在 OS X 上，进入**“系统偏好设置”——>“键盘”——>“修改键”**。您将看到这个对话框，您可以随意设置它们:
 
-[![&nbsp;](../Images/d79a05a79ebe80a6956fc62602ad8774.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ugMJ8vPH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/672xe3wbiu68stah2k22.png)
+[![&nbsp;](img/d79a05a79ebe80a6956fc62602ad8774.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ugMJ8vPH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/672xe3wbiu68stah2k22.png)
 
 为什么这个小小的调整对我来说如此重要？因为这个动作，导致了手扭小指的压力:
 
-[![Before](../Images/8847903632d488e436fd13d882ca6d8a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EIUdTSKu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5zqaofu6pd9q7g4bisk2.gif)
+[![Before](img/8847903632d488e436fd13d882ca6d8a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EIUdTSKu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5zqaofu6pd9q7g4bisk2.gif)
 
 变成了这个一点压力都没有的运动:
 
-[![After](../Images/d67999cda80526970726d39f5f2f403f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6V9Dy81V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sb0j9zlwzoy25q8vo10s.gif)
+[![After](img/d67999cda80526970726d39f5f2f403f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6V9Dy81V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sb0j9zlwzoy25q8vo10s.gif)
 
 这一次改变后，疼痛慢慢消退。它花了好几个月才完全消失，但最终它只是消失了。
 

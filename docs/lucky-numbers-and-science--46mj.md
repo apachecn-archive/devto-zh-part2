@@ -139,7 +139,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在来收集一些数据！为了清楚起见，我将每个函数包装在一个模块中，以区分它们。
 
-[![Data, data, data!  I cannot make bricks without clay.](../Images/648a1a93a2fcdcc7a639960cb976b560.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--W1H73Ary--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://assertnotmagic.com/img/data-data-data.gif)T3】
+[![Data, data, data!  I cannot make bricks without clay.](img/648a1a93a2fcdcc7a639960cb976b560.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--W1H73Ary--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://assertnotmagic.com/img/data-data-data.gif)T3】
 
 ```
 require "benchmark"
@@ -214,7 +214,7 @@ plt.show()
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Lucky 3 results](../Images/b6b885436275d4020969b5cdb1efe874.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gdijtfju--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assertnotmagic.com/img/lucky3-results.png)
+[![Lucky 3 results](img/b6b885436275d4020969b5cdb1efe874.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gdijtfju--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assertnotmagic.com/img/lucky3-results.png)
 
 这是让我困惑的部分。我已经多次运行这个实验，我总是在 1000 点左右结束。我们一会儿会谈到这一点。下面是直接比较的每个解决方案的基准。
 

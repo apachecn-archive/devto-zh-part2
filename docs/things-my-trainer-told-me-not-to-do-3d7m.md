@@ -36,7 +36,7 @@
 
 好吧听着。我不知道你做了什么，也不知道它是如何破坏一切的，但即使我们再次打开和关闭它，卸载所有的东西，擦除你的笔记本电脑两次，重新安装一些东西...最后我们不得不烧掉它。所有的东西都被打破了。
 
-[![Burning...](../Images/0fca0ad2eb5871cb84579927588c8c95.png)T2】](https://i.giphy.com/media/kHU8W94VS329y/giphy.gif)
+[![Burning...](img/0fca0ad2eb5871cb84579927588c8c95.png)T2】](https://i.giphy.com/media/kHU8W94VS329y/giphy.gif)
 
 # 改变历史
 
@@ -62,7 +62,7 @@
 
 你的按钮在点击时没有任何反应？好吧。控制台里有什么？你没检查过吗？！
 
-[![Why do I bother...](../Images/e97fcec6c4e4cfb0d6018417222ceba9.png)T2】](https://i.giphy.com/media/nlIZ0vL7AjaMIXHZjj/giphy.gif)
+[![Why do I bother...](img/e97fcec6c4e4cfb0d6018417222ceba9.png)T2】](https://i.giphy.com/media/nlIZ0vL7AjaMIXHZjj/giphy.gif)
 
 做我做过的事；快速打开检查器，假装它一直都在那里。
 

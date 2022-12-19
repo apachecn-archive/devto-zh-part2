@@ -28,7 +28,7 @@
 
 我的妻子收到了[篇新博文](https://listed.standardnotes.org/@mo)的通知，读了这篇博文，她说这篇博文激励了她。然而，她说，如果你在帖子中包含一些资源，可能会有所帮助。我说，这就是关键所在:你不需要任何资源。你只需要找到一个开源项目，然后运行它。她说，*跑哪去了*？我笑了。很明显，这里有不同层次的专业知识。但是，关键是，你应该努力一点。不知道也没关系。只要你有一个最终目标，并且下定决心，你就会找到解决办法。你可以从运行我从事的名为[标准 notes](https://standardnotes.com) 的加密 Notes 项目开始。它是用 JavaScript 编写的，在本地设置也不算太差:
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [标准注释](https://github.com/standardnotes) / [网页](https://github.com/standardnotes/web)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [标准注释](https://github.com/standardnotes) / [网页](https://github.com/standardnotes/web)
 
 ### 一个免费、开源、完全加密的 notes 应用程序。https://standardnotes.com
 
@@ -40,9 +40,9 @@
 
 Standard Notes 是一个简单的私有 Notes 应用程序，可以在大多数平台上使用，包括 Web、Mac、Windows、Linux、iOS 和 Android。它注重简单性，并在数据接触云之前对其进行本地加密。这意味着除了你之外，没有人可以阅读你的笔记(甚至我们也不行)。
 
-[![](../Images/5da1048d97781e80e460a49c1d333543.png)T2】](https://camo.githubusercontent.com/e0600d358e7be90c76511bb1d4a2eb94fc6b44cee2467f2b8f9d06ee6e270bd9/68747470733a2f2f7374616e646172646e6f7465732e636f6d2f6173736574732f686f6d65706167652d6865726f2e706e67)
+[![](img/5da1048d97781e80e460a49c1d333543.png)T2】](https://camo.githubusercontent.com/e0600d358e7be90c76511bb1d4a2eb94fc6b44cee2467f2b8f9d06ee6e270bd9/68747470733a2f2f7374616e646172646e6f7465732e636f6d2f6173736574732f686f6d65706167652d6865726f2e706e67)
 
-[![latest release version](../Images/e2c0c2ea4fb1181fd726cdd272c42af7.png)](https://github.com/standardnotes/desktop/releases)[![License](../Images/c69db308138e6f0bde2f8df08854dc2d.png)](https://github.com/standardnotes/web/blob/main/LICENSE)[![Slack](../Images/8ea97c2140b108549b12e37f9e1f1fa0.png)](https://standardnotes.com/slack)[![Twitter Follow](../Images/c323e0f5d2c556234d546fbab313a535.png)T11】](https://twitter.com/standardnotes)
+[![latest release version](img/e2c0c2ea4fb1181fd726cdd272c42af7.png)](https://github.com/standardnotes/desktop/releases)[![License](img/c69db308138e6f0bde2f8df08854dc2d.png)](https://github.com/standardnotes/web/blob/main/LICENSE)[![Slack](img/8ea97c2140b108549b12e37f9e1f1fa0.png)](https://standardnotes.com/slack)[![Twitter Follow](img/c323e0f5d2c556234d546fbab313a535.png)T11】](https://twitter.com/standardnotes)
 
 ### 为什么是标准笔记？
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/elemarjr/about-difficult-conversations-book-recommended-by-phil-haack--1ahc>
 
-[![](../Images/4a76e1eb5216ad059190dc622a68e41a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oSLr5XFs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/DifficultConversationsBook-225x300.jpeg)
+[![](img/4a76e1eb5216ad059190dc622a68e41a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oSLr5XFs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/DifficultConversationsBook-225x300.jpeg)
 
 几天前，我在 IT 职业劲量播客上听到了菲尔·哈克的精彩采访。以下是剧集描述:
 
@@ -12,7 +12,7 @@
 
 在这次采访中，菲尔推荐了一本优秀的书: [**《艰难的对话:如何讨论最重要的事情》。**](https://www.amazon.com.br/Difficult-Conversations-Discuss-What-Matters/dp/0143118447?tag=goog0ef-20&smid=A1ZZFT5FULY4LN&ascsubtag=7b1b405b-689b-4446-bb71-cca294c7c7df) 我听了这本书的音频版，印象深刻。我强烈推荐。
 
-[![](../Images/69ed2efcd16eb0254571fc487699d1b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zALg06ay--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/51HuEI-hISL._SX325_BO1204203200_.jpg)
+[![](img/69ed2efcd16eb0254571fc487699d1b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zALg06ay--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/51HuEI-hISL._SX325_BO1204203200_.jpg)
 
 这本书就如何在富有挑战性的对话中取得成功给出了很多好的建议。这里有一个简短的描述(来自亚马逊):
 

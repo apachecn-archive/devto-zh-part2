@@ -8,7 +8,7 @@
 
 现在我们可以开始模拟逻辑了。我们将从定义洞穴开始。传统游戏在一个洞穴中进行，每个房间都是正十二面体的一个顶点:
 
-[![dodecahedron](../Images/d06c6fe627cf2636ca22a9d038808a5a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oO7WuT9f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/3/33/Dodecahedron.png)
+[![dodecahedron](img/d06c6fe627cf2636ca22a9d038808a5a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oO7WuT9f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/3/33/Dodecahedron.png)
 
 从每个房间，我们正好连接到另外三个房间。
 

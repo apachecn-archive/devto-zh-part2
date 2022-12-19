@@ -4,7 +4,7 @@
 
 这是我将要撰写的关于 Javascript 编码挑战以及如何解决它们(在某些方面)的系列文章的开始。
 
-[![Alt text of image](../Images/303f837d110f8e60a9558d126fd542e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qv_TZdgv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2ApZWMN0lPVfh3XmddXwPWoQ.jpeg)
+[![Alt text of image](img/303f837d110f8e60a9558d126fd542e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qv_TZdgv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2ApZWMN0lPVfh3XmddXwPWoQ.jpeg)
 
 # **为什么还要费心去读这个？**
 
@@ -142,7 +142,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 恭喜你。您现在知道了在 Javascript 中反转字符串的两种方法！
 
-[![Alt text of image](../Images/2f6b43271673d1d5a62477b6a4fc835e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XQlRFibA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AIQhAOkIruj1N39jF8H13CQ.jpeg)
+[![Alt text of image](img/2f6b43271673d1d5a62477b6a4fc835e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XQlRFibA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AIQhAOkIruj1N39jF8H13CQ.jpeg)
 
 # **挑战 2—回文**
 
@@ -217,7 +217,7 @@ isPalidrom('Are we not pure? “No sir!” Panama’s moody Noriega brags. “It
 
 再次恭喜！您现在也知道如何用 Javascript 检查回文了！
 
-[![Alt text of image](../Images/709df7d96a7e42f736bc64d7c20dc175.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iQ8zaFrh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A5izCoteagROfYODvbD39KQ.jpeg)
+[![Alt text of image](img/709df7d96a7e42f736bc64d7c20dc175.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iQ8zaFrh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A5izCoteagROfYODvbD39KQ.jpeg)
 
 # **最后一句话**
 

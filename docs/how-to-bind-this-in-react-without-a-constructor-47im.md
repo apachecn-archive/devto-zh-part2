@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/tiffany/how-to-bind-this-in-react-without-a-constructor-47im>
 
-[![](../Images/abfbafbd3ed410127eb8375d6a94167f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nrngb8XJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a8j2ie73e5ux4fspnog0.jpg)
+[![](img/abfbafbd3ed410127eb8375d6a94167f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nrngb8XJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a8j2ie73e5ux4fspnog0.jpg)
 
 *这篇文章最初发表在[我的博客](https://tiffanywhite.tech/bind-this-without-constructor/)T3 上。*
 

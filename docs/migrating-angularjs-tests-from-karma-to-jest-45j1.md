@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/abdoulayektr/migrating-angularjs-tests-from-karma-to-jest-45j1>
 
-[![](../Images/7fdd945aa845d1cfef8a5c66050eb71d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G1i_O7As--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1495312365922-8a2e01490131%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3Dab7d6c2691cb1fbd878cb449c07bb8a1%26auto%3Dformat%26fit%3Dcrop%26w%3D1350%26q%3D80)
+[![](img/7fdd945aa845d1cfef8a5c66050eb71d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G1i_O7As--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1495312365922-8a2e01490131%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3Dab7d6c2691cb1fbd878cb449c07bb8a1%26auto%3Dformat%26fit%3Dcrop%26w%3D1350%26q%3D80)
 
 # 免责声明
 

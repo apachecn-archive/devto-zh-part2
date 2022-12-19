@@ -12,7 +12,7 @@
 
 我在 Xcode 中创建了一个新的命令行项目，并重用它来处理每个样本挑战集。命令行项目需要一个 main.swift 文件，所以我创建了单独的文件夹来包含问题解决方案和样本输入文件。我的文件夹结构看起来像这样:
 
-[![](../Images/2a640f9b0b73cfc96ad1b49b20678d95.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CAtNH21f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/526/1%2A-Kiynu8xLKZ7MtZwZw1R7Q.png)
+[![](img/2a640f9b0b73cfc96ad1b49b20678d95.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CAtNH21f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/526/1%2A-Kiynu8xLKZ7MtZwZw1R7Q.png)
 
 注意，每个练习都有自己的 main.swift 和 ParseInput.swift 文件。我在实际的 Xcode 项目中只包含了一个 main.swift 文件，以解决我正在处理的问题，这样 Xcode 就不会混淆。对于每个挑战，解析输入文件的内容可能非常相似，因此所有可重用的读取方法都可以在 ParseInput.swift 文件中找到。作为提交过程的一部分，我选择通过标准输入来阅读示例文件的内容。因此，我创建了一个小的 shell 脚本来尽可能频繁和快速地编译/重新运行我的解决方案。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/raulmonteroc/find-yourself-a-mentor-3fod>
 
-[![Mentor acronym](../Images/4e749ea3ea0d6a65aabbc07d31c0b2cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--25iTjQRI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dfzo7wjg89l78lirlnm3.jpg)
+[![Mentor acronym](img/4e749ea3ea0d6a65aabbc07d31c0b2cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--25iTjQRI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dfzo7wjg89l78lirlnm3.jpg)
 
 *最初发布于[https://raulmonteroc.com](https://raulmonteroc.com/career-development/find-yourself-a-mentor/)T3】*
 

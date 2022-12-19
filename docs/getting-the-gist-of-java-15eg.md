@@ -169,7 +169,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 试图找出如何在 Maven 项目的代码中读取“资源”文件可能会令人沮丧。网上有不同和矛盾的答案。为了子孙后代，我建立了一个 MWE Maven 项目，展示如何读取位于`src/main/resources`的文件，并在 Java 代码中使用这些文件。
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [ awwsmm ](https://github.com/awwsmm) / [带资源的 Maven](https://github.com/awwsmm/Maven-With-Resources)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [ awwsmm ](https://github.com/awwsmm) / [带资源的 Maven](https://github.com/awwsmm/Maven-With-Resources)
 
 ### 从 Maven 项目的 src/main/resources 中轻松读取文件
 

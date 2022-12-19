@@ -24,7 +24,7 @@
 
 锁定的主要缺点是，根据系统中争用的数量，进程可能不得不暂停执行，等待锁被释放。您需要考虑和处理死锁，以防两个进程正在等待另一个进程持有的锁。如果数据库中的争用率很高，事务吞吐量可能会受到影响。如果一个 Microsoft Excel 文档的争用率很高，人们可能会开始争吵:
 
-[![word locking](../Images/960d6d95da1bc1d6af751216499e0a38.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jbDZoYjk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ew2xzx3tyzdt71ay3c64.png)
+[![word locking](img/960d6d95da1bc1d6af751216499e0a38.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jbDZoYjk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ew2xzx3tyzdt71ay3c64.png)
 
 然而在某些情况下，我们可以不需要任何同步。例如:像 Google Docs 或 Etherpad 这样的协作编辑器，像 Git 这样的分布式版本控制系统，或者像 DynamoDB 或 Cassandra 这样的分布式数据库，在没有任何同步的情况下处理(一些)冲突。
 
@@ -69,7 +69,7 @@ OT 背后的主要思想是通过共享客户端执行的操作并让每个客�
 
 考虑下图所示的例子:客户 *A* 和 *B* 都在同时修改文档“abc”。 *A* 想在位置 0 插入字符“x”(*O1 = Ins(0，“x”)*)。同时， *B* 正在删除位置 2 的字符“c”(*O2 = Del(2，“c”)*)。
 
-[![operational transformation](../Images/58205bff4aa84c663a2dbd89366f2603.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--caLLopmx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2uq4596z6y7vd0ljxthq.png)
+[![operational transformation](img/58205bff4aa84c663a2dbd89366f2603.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--caLLopmx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2uq4596z6y7vd0ljxthq.png)
 
 现在两者都交换了它们的操作，以使另一个客户机能够跟上修改。然而，当 *A* 接收到删除操作时，该字符不再位于位置 2。这就是为什么所有的远程操作都要通过一个转换函数 *T* 来传递。在我们的特定示例中， *O2'* 是通过转换 *O2* 给定 *O1* 来计算的，在这种情况下，它将要删除的字符的位置校正为 *3* ，因为前面的操作 *O1* 在更早的位置插入了一个字符。
 
@@ -85,7 +85,7 @@ CRDTs 的主要思想与 OT 的思想相似。不同之处在于，客户端不�
 
 下图说明了我们的两个客户端是如何同时修改文档“abc”的。然而，这一次我们不是将文档表示为简单的字符串，而是为每个位置添加一个惟一的标识符。该标识符，如 *A1* ，由一个全球唯一的客户标识符( *A* 和一个客户唯一的数字标识符( *1* )组成。
 
-[![crdt](../Images/1d36e73e96b273686b39c0ebc18fcf40.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FgyFnB_8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j8sr3zxnasqaiprcd65t.png)
+[![crdt](img/1d36e73e96b273686b39c0ebc18fcf40.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FgyFnB_8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j8sr3zxnasqaiprcd65t.png)
 
 每当客户端应用操作时，它可以通过标识符而不是位置来引用字符。因为标识符是唯一的，所以当被另一个客户机接收时，操作仍然有效，即使同时发生了并发的修改。如果客户端 *A* 告诉 *B* 它在 *A0* 之后插入了*【x】*， *B* 知道在哪个位置插入。删除以类似的方式发生，但是我们实际上并没有从数据结构中删除字符，而只是用一个所谓的 tombstone 将它标记为已删除。
 

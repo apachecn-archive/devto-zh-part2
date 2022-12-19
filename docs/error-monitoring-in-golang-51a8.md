@@ -83,7 +83,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 滚动条帮助您监控现实应用程序中的错误。它为您提供了实时的错误反馈、堆栈跟踪和上下文数据，以便快速调试错误。您还可以通过跟踪每个错误影响的对象来了解用户体验。了解更多关于我们[产品特性](https://rollbar.com/features/)的信息。
 
-[![Video of Go errors in Rollbar](../Images/acea9075d0c58ec206dbc8f1bd142606.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mhPjgW1r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4ty1qucn2iu6r8mis28r.gif)
+[![Video of Go errors in Rollbar](img/acea9075d0c58ec206dbc8f1bd142606.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mhPjgW1r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4ty1qucn2iu6r8mis28r.gif)
 
 下面是一些简单的步骤，描述了如何将 Go SDK 添加到您的代码中。你可以在 [Rollbar 的 Go 文档](https://docs.rollbar.com/docs/go)或者 [godocs](https://godoc.org/github.com/rollbar/rollbar-go) 中找到更多细节。
 
@@ -190,7 +190,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 打开滚动条，查看这些错误在您帐户的项目页面中的样子。我们刚刚生成的错误应该叫做“运行时错误:无效内存或 nil”。通过单击项目获取更多详细信息。现在您可以看到一个回溯，显示了产生错误的确切的源代码文件、方法和行号。
 
-[![Screenshot of Rollbar item view](../Images/558437e56df190f1bf5e0175eba29958.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IpjaYzFD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wvr6r75dse09rcfxcw3a.png)
+[![Screenshot of Rollbar item view](img/558437e56df190f1bf5e0175eba29958.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IpjaYzFD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wvr6r75dse09rcfxcw3a.png)
 
 滚动条还提供了许多其他上下文信息，可以帮助您更快地解决和调试问题。沿着上面的子选项卡行，您可以获得每个单独事件的额外深入信息，客户端应用程序中受影响的人，等等。滚动条的仪表板显示错误的摘要:每个错误发生了多少次，有多少人受到影响。您可以使用它来监视错误率，并深入排查影响较大的错误。
 

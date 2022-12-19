@@ -9,7 +9,7 @@
 它本应该只是一系列示例和教程的一部分，但结果却是作为一个新的开源产品来分享的好东西。
 所以，如果你读过我以前的帖子，你就会明白是什么样的模式让我创建了这个*渐进式网络应用*模板:
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png)t1/[zuix-html pwa](https://github.com/zuixjs/zuix-html-pwa)的缩写形式
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png)t1/[zuix-html pwa](https://github.com/zuixjs/zuix-html-pwa)的缩写形式
 
 ### 渐进式 Web 应用程序模板，具有反应灵敏、触摸优先的布局。
 
@@ -32,7 +32,7 @@
 *   浏览器内捆绑器:可以将所有资源打包在一个文件中，提高加载速度
 *   PWA 灯塔得分 98/100
 
-[![LightHouse Report](../Images/7afe5e07124f42b2063e42f6ca93c21a.png)T2】](https://camo.githubusercontent.com/c65de26d27f9b35f03f3ddf66714971a33e8f0a2d60104e7093aac7c7228b356/68747470733a2f2f7a7569786a732e6769746875622e696f2f7a7569782d68746d6c2d7077612f696d616765732f6c69676874686f7573652d7265706f72742e706e67)
+[![LightHouse Report](img/7afe5e07124f42b2063e42f6ca93c21a.png)T2】](https://camo.githubusercontent.com/c65de26d27f9b35f03f3ddf66714971a33e8f0a2d60104e7093aac7c7228b356/68747470733a2f2f7a7569786a732e6769746875622e696f2f7a7569782d68746d6c2d7077612f696d616765732f6c69676874686f7573652d7265706f72742e706e67)
 
 ### 演示网站
 
@@ -68,7 +68,7 @@
 
 此外，这个模板不需要任何构建工具。只有 HTML、CSS、JavaScript 和你最喜欢的编辑器，但尽管如此，它仍是一款进步的网络应用，得分相当高:
 
-[![LightHouse report](../Images/5b53aa3b7c2812a08ef7b172fff7b213.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aRZjomHX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zuixjs.github.io/zuix-html-pwa/images/lighthouse-report.png)
+[![LightHouse report](img/5b53aa3b7c2812a08ef7b172fff7b213.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aRZjomHX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zuixjs.github.io/zuix-html-pimg/lighthouse-report.png)
 
 可以在这里现场看: [HTML-PWA](https://zuixjs.github.io/zuix-html-pwa/) 。
 
@@ -76,7 +76,7 @@
 
 在设置这个模板的时候，我也有机会编写一个新的组件，并把它添加到 [zKit](https://zuixjs.github.io/zkit/) 集合，也就是*上下文菜单*。
 
-[![Context Menu](../Images/56870130296e3f4797794836863ceebf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XTPZn9QW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vlnoa89vnnf62fcdjccx.png)
+[![Context Menu](img/56870130296e3f4797794836863ceebf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XTPZn9QW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vlnoa89vnnf62fcdjccx.png)
 
 像所有其他 zKit 集合中的伙伴一样，上下文菜单是一个*框架无关的*组件，可以很容易地集成到任何项目中。
 
@@ -145,9 +145,9 @@ Enter fullscreen mode Exit fullscreen mode
 
 好了，现在是休息的时候了，以后可能会去游泳。回头再聊。
 
-[![Sea Time](../Images/279d017a40125634e2c50f3b0b310bf6.png)T2】](https://i.giphy.com/media/T1wXTcV8KhVHq/giphy.gif)
+[![Sea Time](img/279d017a40125634e2c50f3b0b310bf6.png)T2】](https://i.giphy.com/media/T1wXTcV8KhVHq/giphy.gif)
 
-[![genejams](../Images/ab410dc05437d55e52306d6bb995095d.png)](/genejams) [## 网飞克隆 web 应用程序模板(PWA)
+[![genejams](img/ab410dc05437d55e52306d6bb995095d.png)](/genejams) [## 网飞克隆 web 应用程序模板(PWA)
 
 ### { Gene } Aug 19 ' 181 分钟读取
 

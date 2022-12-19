@@ -43,14 +43,14 @@ Enter fullscreen mode Exit fullscreen mode
 
 这使得用户群增长稍快。但是在某一天，用户群爆炸了！💥下图显示了用户、评论和差评的大幅增长:
 
-[![PageLiner statistics](../Images/44cccac3dca26a0ca966bc0b5413827e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vDCehWmR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ajar8kepemhgdfyoewam.png)
+[![PageLiner statistics](img/44cccac3dca26a0ca966bc0b5413827e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vDCehWmR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ajar8kepemhgdfyoewam.png)
 
 该扩展得到了许多俄罗斯人的评论。类似“删除此病毒”“我无法卸载此扩展”的评论。我不知道发生了什么，于是联系了谷歌。他们对此无能为力。谷歌刚刚删除了那些带有脏话的评论。
 我试图通过 Google+或 Hangouts 联系评论者，有技术背景的人回复了我。我们分析了一下，发现有人拿走了我的扩展，修改了它，用恶意软件扩展了它，并作为 OEM 扩展安装在其他客户端上，这样它就不能在谷歌浏览器中删除了。几个月后，用户群回来了，一切都很好，除了差评。
 
 一年后，同样的事情发生了，但更加严重:
 
-[![PageLiner statistics](../Images/c7876153bf9a22f0b7283cbe5052a778.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DkPl6200--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s1ami1ltj1kfer3b4k2t.png)
+[![PageLiner statistics](img/c7876153bf9a22f0b7283cbe5052a778.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DkPl6200--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s1ami1ltj1kfer3b4k2t.png)
 
 在俄罗斯反病毒论坛上有很多帖子询问如何卸载这个扩展。几个月后，用户群又回到了 6000 人的稳定水平。我猜反病毒供应商已经实现了对恶意软件扩展的检查，并可以删除它。
 
@@ -62,17 +62,17 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果你想看看这个扩展背后的代码，你可以在这里找到:
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [ Crease29 ](https://github.com/Crease29) / [页面线](https://github.com/Crease29/pageliner)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [ Crease29 ](https://github.com/Crease29) / [页面线](https://github.com/Crease29/pageliner)
 
 ### 📐Google Chrome 扩展在网站上创建引导线。
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-# [![](../Images/f2c9a677a240a68cf97c0309d4f99f82.png)](https://github.com/Crease29/pageliner/blob/master/icons/icon_pl_48x48.png)[![Join the chat at https://gitter.im/WebChimp-DE/pageliner](../Images/80064cbae208bbac11d2f49a393a38ef.png)](https://gitter.im/WebChimp-DE/pageliner)[![](../Images/0929a1e1b4c705d8e21d06428e25eb3c.png)](https://github.com/Crease29/pageliner/workflows/.github/workflows/main.yml/badge.svg)
+# [![](img/f2c9a677a240a68cf97c0309d4f99f82.png)](https://github.com/Crease29/pageliner/blob/master/icons/icon_pl_48x48.png)[![Join the chat at https://gitter.im/WebChimp-DE/pageliner](img/80064cbae208bbac11d2f49a393a38ef.png)](https://gitter.im/WebChimp-DE/pageliner)[![](img/0929a1e1b4c705d8e21d06428e25eb3c.png)](https://github.com/Crease29/pageliner/workflows/.github/workflows/main.yml/badge.svg)
 
-[![Chrome extension version](../Images/10ec1ba393ba1e909d0623e084b6f228.png)](https://camo.githubusercontent.com/0e7aca2957f2f685631b511ed473481d7501eb819afc72cfbbfa3400f5622027/68747470733a2f2f62616467656e2e6e65742f6368726f6d652d7765622d73746f72652f762f6e6570616b6d6c6a6f646f62686c62626b706f62626c6e69666d68636c656d68)[![Chrome extension user count](../Images/e2467fba2de545a00bc92c51e47ed9be.png)](https://camo.githubusercontent.com/e266622213971ac1db870ecb39e4d3b11e3f38fc0b6c7db0794538c09580e026/68747470733a2f2f62616467656e2e6e65742f6368726f6d652d7765622d73746f72652f75736572732f6e6570616b6d6c6a6f646f62686c62626b706f62626c6e69666d68636c656d68)[![Chrome extension price](../Images/674926f1299491a84371e577b1a35bc2.png)](https://camo.githubusercontent.com/195cb47c6045b88500f1f6049391d8970bdbde1a137bd6f25859319b567007c0/68747470733a2f2f62616467656e2e6e65742f6368726f6d652d7765622d73746f72652f70726963652f6e6570616b6d6c6a6f646f62686c62626b706f62626c6e69666d68636c656d68)[![Chrome extension rating count](../Images/0a107d51b91e3e6581e170f2cab23878.png)T11】](https://camo.githubusercontent.com/387d2b44545c0292e8dcab761100c3b6b3558f766a314a071dbf545ba0b86962/68747470733a2f2f62616467656e2e6e65742f6368726f6d652d7765622d73746f72652f726174696e672d636f756e742f6e6570616b6d6c6a6f646f62686c62626b706f62626c6e69666d68636c656d68)
+[![Chrome extension version](img/10ec1ba393ba1e909d0623e084b6f228.png)](https://camo.githubusercontent.com/0e7aca2957f2f685631b511ed473481d7501eb819afc72cfbbfa3400f5622027/68747470733a2f2f62616467656e2e6e65742f6368726f6d652d7765622d73746f72652f762f6e6570616b6d6c6a6f646f62686c62626b706f62626c6e69666d68636c656d68)[![Chrome extension user count](img/e2467fba2de545a00bc92c51e47ed9be.png)](https://camo.githubusercontent.com/e266622213971ac1db870ecb39e4d3b11e3f38fc0b6c7db0794538c09580e026/68747470733a2f2f62616467656e2e6e65742f6368726f6d652d7765622d73746f72652f75736572732f6e6570616b6d6c6a6f646f62686c62626b706f62626c6e69666d68636c656d68)[![Chrome extension price](img/674926f1299491a84371e577b1a35bc2.png)](https://camo.githubusercontent.com/195cb47c6045b88500f1f6049391d8970bdbde1a137bd6f25859319b567007c0/68747470733a2f2f62616467656e2e6e65742f6368726f6d652d7765622d73746f72652f70726963652f6e6570616b6d6c6a6f646f62686c62626b706f62626c6e69666d68636c656d68)[![Chrome extension rating count](img/0a107d51b91e3e6581e170f2cab23878.png)T11】](https://camo.githubusercontent.com/387d2b44545c0292e8dcab761100c3b6b3558f766a314a071dbf545ba0b86962/68747470733a2f2f62616467656e2e6e65742f6368726f6d652d7765622d73746f72652f726174696e672d636f756e742f6e6570616b6d6c6a6f646f62686c62626b706f62626c6e69666d68636c656d68)
 
-如果你喜欢这次延期，我会很高兴你请我喝啤酒🍺 <g-emoji class="g-emoji" alias="grin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f601.png">😁</g-emoji>[![Flattr this git repo](../Images/04f92fe62149c34fde504f8520e6f14d.png)](https://flattr.com/submit/auto?user_id=Crease29&url=https%3A%2F%2Fgithub.com%2FCrease29%2Fpageliner%2F&title=PageLiner&language=en_GB&tags=github&category=software)[![Donate via PayPal](../Images/b4aa262c001053d347c26fecc867717b.png)T9】](https://www.paypal.me/koi)
+如果你喜欢这次延期，我会很高兴你请我喝啤酒🍺 <g-emoji class="g-emoji" alias="grin" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f601.png">😁</g-emoji>[![Flattr this git repo](img/04f92fe62149c34fde504f8520e6f14d.png)](https://flattr.com/submit/auto?user_id=Crease29&url=https%3A%2F%2Fgithub.com%2FCrease29%2Fpageliner%2F&title=PageLiner&language=en_GB&tags=github&category=software)[![Donate via PayPal](img/b4aa262c001053d347c26fecc867717b.png)T9】](https://www.paypal.me/koi)
 
 Google Chrome 扩展在网站上创建引导线。
 

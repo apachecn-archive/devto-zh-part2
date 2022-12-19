@@ -8,4 +8,4 @@
 
 [理解 JavaScript 中的奉承](https://www.skptricks.com/2018/11/understanding-currying-in-javascript.html)
 
-[![](../Images/14991e25179df5287bef117d3e2bb2e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G8UAtB6s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-vv_-2k6aI4k/W-rgmiD5uSI/AAAAAAAACIk/evkYq_xbxaoDwBS1HLZJ3kHVTPpLFd3_ACLcBGAs/s400/curring.png)
+[![](img/14991e25179df5287bef117d3e2bb2e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G8UAtB6s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-vv_-2k6aI4k/W-rgmiD5uSI/AAAAAAAACIk/evkYq_xbxaoDwBS1HLZJ3kHVTPpLFd3_ACLcBGAs/s400/curring.png)

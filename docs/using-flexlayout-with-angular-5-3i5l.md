@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/geeksamu/using-flexlayout-with-angular-5-3i5l>
 
-[![](../Images/ac455c4703fc1a05ca8661b3a088532f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RbO0rbxC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ADNGtiMt4J3LVnejn5gJ2Fw.jpeg) 
+[![](img/ac455c4703fc1a05ca8661b3a088532f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RbO0rbxC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ADNGtiMt4J3LVnejn5gJ2Fw.jpeg) 
 
 <figcaption>Angular5，flexlayout(图片来源 topal)</figcaption>
 

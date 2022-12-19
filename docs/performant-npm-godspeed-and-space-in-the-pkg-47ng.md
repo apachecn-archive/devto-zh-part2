@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/vblaha/performant-npm-godspeed-and-space-in-the-pkg-47ng>
 
-[![img](../Images/6c2213eb4feafc9c399a034f04f40138.png)](https://camo.githubusercontent.com/6b77769ede95c3dd4b6b331b707ef7afb82a4de0/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f706e706d2f636f6e7472696275746f72732e7376673f77696474683d38393026627574746f6e3d66616c7365) pnpm 构建在 Node.js 平台上，其真正的强大之处在于它能够挤压磁盘空间，并利用 npm 的配置能力作为命令的路径。虽然我还没有机会使用 pnpm 迁移文件，但我越来越好奇如何使用经典的 Unix 符号链接和硬链接结构来修改特殊项目的节点模块。Pnpm 利用这些链接结构来防止节点模块中的默认行为产生的错误。举例说明 pnpm 的严格性，[请阅读](https://medium.com/pnpm/pnpms-strictness-helps-to-avoid-silly-bugs-9a15fb306308)。
+[![img](img/6c2213eb4feafc9c399a034f04f40138.png)](https://camo.githubusercontent.com/6b77769ede95c3dd4b6b331b707ef7afb82a4de0/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f706e706d2f636f6e7472696275746f72732e7376673f77696474683d38393026627574746f6e3d66616c7365) pnpm 构建在 Node.js 平台上，其真正的强大之处在于它能够挤压磁盘空间，并利用 npm 的配置能力作为命令的路径。虽然我还没有机会使用 pnpm 迁移文件，但我越来越好奇如何使用经典的 Unix 符号链接和硬链接结构来修改特殊项目的节点模块。Pnpm 利用这些链接结构来防止节点模块中的默认行为产生的错误。举例说明 pnpm 的严格性，[请阅读](https://medium.com/pnpm/pnpms-strictness-helps-to-avoid-silly-bugs-9a15fb306308)。
 
 # 符号链接
 
@@ -28,7 +28,7 @@ pnpm 还通过一系列递归样式命令在多个依赖包中利用过滤。
 pnpm 允许您通过称为钩子的特殊函数直接进入安装过程。钩子可以在名为 pnpmfile.js 的文件中声明，pnpmfile.js 应该位于项目的根目录中。
 
 pnpmfile.js 更改依赖项的依赖项字段的例子:
-[![screenshot](../Images/3db50dd7a9f5845e685d9729facbefc2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MzPELiDz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/es24k1fciv2d2yyq3uxa.png)
+[![screenshot](img/3db50dd7a9f5845e685d9729facbefc2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MzPELiDz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/es24k1fciv2d2yyq3uxa.png)
 
 这个钩子将在从注册表下载 foo@1 的清单后覆盖它
 
@@ -36,7 +36,7 @@ pnpmfile.js 更改依赖项的依赖项字段的例子:
 
 别名允许您安装和发布具有特殊名称的包，允许您在项目中使用不同版本的包。当与钩子结合使用时，您可以编写一个函数，在所有 node_modules 中将一个版本的包替换为另一个版本。
 我们可以创建一个名为`veros-magical-lodash`的新包并安装它:`pnpm install lodash@npm:veros-magical-lodash`这里有一个 pnpmfile.js 来做这个:
-[![screenshot](../Images/ca7eeacfe2f8306095d212a5fa6ec239.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5xc5vk_h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/283q6hizhyq9nodegte6.png)
+[![screenshot](img/ca7eeacfe2f8306095d212a5fa6ec239.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5xc5vk_h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/283q6hizhyq9nodegte6.png)
 
 # 弊端
 

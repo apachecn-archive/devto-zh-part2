@@ -20,7 +20,7 @@
 
 对于 Mac/Linux，打开一个终端并在终端中运行`pip install wia`。
 
-[![alt text](../Images/33dfe733408215ac1ed2291aeb4c7c8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QrpoHoL7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-12/1523536061-16186-pip-install.png)
+[![alt text](img/33dfe733408215ac1ed2291aeb4c7c8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QrpoHoL7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-12/1523536061-16186-pip-install.png)
 
 ### **添加代码**
 
@@ -43,7 +43,7 @@ result = wia.Event.publish(name='file', file=open(dir_path + '/’ + file_name, 
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![alt text](../Images/e18679007fe15d25978d1647d35cd4ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gReEfLTp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-12/1523537030-717816-selection-057.png)
+[![alt text](img/e18679007fe15d25978d1647d35cd4ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gReEfLTp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-12/1523537030-717816-selection-057.png)
 
 *   用 Wia 的设备密钥替换你的设备密钥，如果你还没有，关于如何设置 Wia 的细节可以在这里找到。
 *   用您想要上传的文件的名称替换`name_of_your_file`
@@ -65,10 +65,10 @@ Enter fullscreen mode Exit fullscreen mode
 *   cd 放入您的代码所在的文件夹
 *   在终端中运行`python file_upload_to_wia.py`
 
-[![alt text](../Images/46b0a184a4938475ae8f643240f83283.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AFRT9IEd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-12/1523537728-927221-python-run.png)
+[![alt text](img/46b0a184a4938475ae8f643240f83283.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AFRT9IEd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-12/1523537728-927221-python-run.png)
 
 前往您的 [Wia 仪表板](https://dashboard.wia.io/spaces)，在您的`Device`部分，点击`Events`选项卡，并点击`file`上的`View File`以查看文件。
 
-[![alt text](../Images/679450f796f50d1b127bb72f11b02d93.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3QzfPdv7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-12/1523538165-225663-photo-upload.png)
+[![alt text](img/679450f796f50d1b127bb72f11b02d93.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3QzfPdv7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-12/1523538165-225663-photo-upload.png)
 
 本教程到此为止！检查我们的其他[教程](https://community.wia.io/)，新的一直在增加。

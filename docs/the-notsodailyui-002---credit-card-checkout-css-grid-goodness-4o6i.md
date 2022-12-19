@@ -41,7 +41,7 @@
 
             <div class="checkout">
                 <div class="product">
-                    <img src="https://raw.githubusercontent.com/fleepgeek/dailyui/master/002-checkout/images/beats.png" alt="product">
+                    <img src="https://raw.githubusercontent.com/fleepgeek/dailyui/master/002-checkoimg/beats.png" alt="product">
                     <div class="info">
                         <p class="name">Beats by Dr.Dre</p>
                         <p class="type">Studio Wireless</p>

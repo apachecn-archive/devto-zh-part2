@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/alexribeirodev/git-um-grande-aliado-41if>
 
-<figure>[![](../Images/b592e19615538b9aced31d0d5f904d6f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6MeNy89_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AaugkC9jV1gsn_kFQ) 
+<figure>[![](img/b592e19615538b9aced31d0d5f904d6f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6MeNy89_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AaugkC9jV1gsn_kFQ) 
 
 <figcaption>【笔记本电脑 USB 端口中的 pendrive】作者[Brina Blum](https://unsplash.com/@brina_blum?utm_source=medium&utm_medium=referral)on[Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)</figcaption>
 
@@ -27,7 +27,7 @@
 *   可用性:根据文件的存储位置，可以通过 internet 或本地网络访问任何计算机上的项目。
 *   机密性:根据文件的存储方式和位置，您可以控制对文件的访问权限。
 
-[![](../Images/e97382c5ee0ef1c2ad1b4d8a0f578de5.png)T2】](https://i.giphy.com/media/oYtVHSxngR3lC/giphy.gif)
+[![](img/e97382c5ee0ef1c2ad1b4d8a0f578de5.png)T2】](https://i.giphy.com/media/oYtVHSxngR3lC/giphy.gif)
 
 > 真不敢相信这个工具能做这么多，是吧？！
 
@@ -369,7 +369,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 > 我知道，太多了。
 
-[![](../Images/b68e1378851845d325607148de206dda.png)T2】](https://i.giphy.com/media/ijGS9TME6iN7W/source.gif)
+[![](img/b68e1378851845d325607148de206dda.png)T2】](https://i.giphy.com/media/ijGS9TME6iN7W/source.gif)
 
 ### 工作流程
 

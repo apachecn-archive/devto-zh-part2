@@ -42,7 +42,7 @@ $ git blame -L 11,21 new_file
 
 如果您不知道什么正在中断，并且自从您知道代码工作的最后一个状态以来已经有一堆提交，您可能会求助于`git bisect`。
 
-[![git-bisect](../Images/5222ef9d1e5e52fd89d4b18175ba0417.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v79jZfH3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/05/git-bisect.png)
+[![git-bisect](img/5222ef9d1e5e52fd89d4b18175ba0417.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v79jZfH3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/05/git-bisect.png)
 
 `git bisect`所做的是，它将 **[git 提交树](https://kolosek.com/git-branches/)** 分成“好的”、无 bug 提交和“坏的”提交，通过用**二分搜索法**测试它们。基于测试的结果，Git 浏览最近的提交，识别它们，直到找到问题的根源。这就是所谓的**二分搜索法算法**。
 

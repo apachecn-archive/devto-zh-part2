@@ -10,19 +10,19 @@
 
 我开始变得沮丧，只是喊道:
 
-[![Root element is missing](../Images/b86398f5c725f4e38595e46f8d3235c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hfnMZoYz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yv2g23es3zbdstd2m4qi.png)
+[![Root element is missing](img/b86398f5c725f4e38595e46f8d3235c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hfnMZoYz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yv2g23es3zbdstd2m4qi.png)
 
 顺便说一句，这不是我第一次被 Xamarin 烧伤。这只是我第一次决定记录。
 
 我又搜索了一些。似乎有人遇到了同样的问题，并在 StackOverflow 上发布了[同样的问题。不幸的是没有答案。](https://stackoverflow.com/questions/44871798/failed-to-load-android-project-in-xamarin-forms-application-using-vs-2017?rq=1)
 
-[![Same question on StackOverflow](../Images/37842d90c0b89d67e94ff7d0843b2739.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kKQKtFnQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k4aympvqkqvytckwd45x.png)
+[![Same question on StackOverflow](img/37842d90c0b89d67e94ff7d0843b2739.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kKQKtFnQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k4aympvqkqvytckwd45x.png)
 
 谷歌了一下。试过了。还是没有成功。重复一遍。我拒绝做的一件事是卸载并重新安装 VS2017。谁知道那要花多少时间。
 
 直到我发现了这篇 [BizTalk 提示和技巧文章](http://msbiztalk.blogspot.com/2010/10/visual-studio-error-imported-project.html)。
 
-[![BizTalk tips and tricks](../Images/4bb82e8adfa1a4469b1c9a8573ceba04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WGEzZe-e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x08xpf2bn4g6begvtol7.png)
+[![BizTalk tips and tricks](img/4bb82e8adfa1a4469b1c9a8573ceba04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WGEzZe-e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x08xpf2bn4g6begvtol7.png)
 
 长话短说，我重命名了`.Droid.csproj.user`，有效地愚弄了 VS2017，使我删除了它，并重新加载了 Android 项目。作品。
 

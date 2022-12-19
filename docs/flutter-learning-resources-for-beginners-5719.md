@@ -77,7 +77,7 @@
 
 无耻插头#2。我负责纽约市的谷歌开发团队，并且是 Flutter 的忠实粉丝。我在 [IWD NYC 2018](https://iwd2018.splashthat.com/) 举办了一场颤振研讨会，并在 6 月初的 [I/O 扩展活动](https://www.meetup.com/gdgnyc/events/244123474/)上举办了一场颤振研究会议。我将于 7 月在 OSCON[做一次关于 Flutter 的深度探讨。](https://conferences.oreilly.com/oscon/oscon-or/public/schedule/detail/67210)
 
-[![Image Credit: GoogleIO](../Images/8cb01c8dfad56496b555c14185863e8a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---7WHpPNe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fhid938pzt0a2uw0k0n8.png)
+[![Image Credit: GoogleIO](img/8cb01c8dfad56496b555c14185863e8a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---7WHpPNe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fhid938pzt0a2uw0k0n8.png)
 
 我们目前正在计划第一个 [**颤振营**](https://fluttercamp2018.splashthat.com/) ，这是一个针对初学者的全天沉浸式学习研讨会。如果你住在大纽约地区，请加入 [GDG 纽约](https://meetup.com/gdgnyc)并在[上注册此表格](http://bit.ly/2018-fluttercamp-cfp)以便在活动开放注册时得到通知。*建议你提 Dev。在上下文*的注释部分。
 

@@ -32,7 +32,7 @@
 
 闪电网络(和其他支付通道规范)使用二对二的 multisig 地址，顾名思义，需要两个私钥来授权解锁资金。
 
-[![How do payment channels work?](../Images/aca6d3b5f8092315a10b863e21e5300f.png "payment channels")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JzqJAzQj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://perfectial.com/wp-content/uploads/2018/02/img4.jpg)
+[![How do payment channels work?](img/aca6d3b5f8092315a10b863e21e5300f.png "payment channels")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JzqJAzQj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://perfectial.com/wp-content/uploads/2018/02/img4.jpg)
 
 它是这样工作的:假设约翰和简必须定期交易，而不是以传统方式进行交易，这将产生大量费用，他们创建了一个多签名地址，双方同意向该地址发送一定数量的比特币。为了清楚起见，让我们假设每个人贡献 4 个比特币，使得通道总共价值 8 个比特币。
 
@@ -42,7 +42,7 @@
 
 然后，John 为开始的事务构建了一个后续事务；在闪电网，这叫承诺交易。当他试图给简一个比特币时，他给自己发送了 3 个比特币，其余 5 个发送到一个多签名地址，该地址中有一个 [CSV 锁](https://en.bitcoin.it/wiki/Timelock)。如果 Jane 试图从中获得资金，她将不得不等待一段时间(例如，直到 100 个新区块被开采并被写入区块链)才能解锁硬币。
 
-[![How do payment channels work?](../Images/7fa854b0629996e8c2191d7fefae0e8d.png "payment channels")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lt1kANKI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://perfectial.com/wp-content/uploads/2018/02/img3-4.jpg)
+[![How do payment channels work?](img/7fa854b0629996e8c2191d7fefae0e8d.png "payment channels")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lt1kANKI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://perfectial.com/wp-content/uploads/2018/02/img3-4.jpg)
 
 同时，John 也可以清空地址，但是他需要一个秘密值，Jane 已经给了他这样做的散列值。
 
@@ -64,7 +64,7 @@
 
 一旦支付通道被打开并被记录到不变的区块链中，约翰和简就可以无限期地通过它进行交易，而不会产生任何费用。只有当他们决定关闭频道时，他们才能再次获得报酬。
 
-[![How do payment channels work?](../Images/411bb2f24cbc8acf9b5023a949ec28df.png "payment channels")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B6Vv9N3A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://perfectial.com/wp-content/uploads/2018/02/img2-4.jpg)
+[![How do payment channels work?](img/411bb2f24cbc8acf9b5023a949ec28df.png "payment channels")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B6Vv9N3A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://perfectial.com/wp-content/uploads/2018/02/img2-4.jpg)
 
 如果您想了解更多关于支付渠道和区块链理工大学的信息，请联系我们的专家。他会很乐意为你提供免费咨询。
 

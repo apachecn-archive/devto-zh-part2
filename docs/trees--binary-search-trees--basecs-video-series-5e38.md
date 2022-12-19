@@ -8,11 +8,11 @@
 
 这些主题基于之前帖子中介绍的概念:
 
-[![vaidehijoshi image](../Images/c1af460640a8ad9ea29e58d942edc772.png)](/vaidehijoshi) [## 如何不被树难倒
+[![vaidehijoshi image](img/c1af460640a8ad9ea29e58d942edc772.png)](/vaidehijoshi) [## 如何不被树难倒
 
 ### vaide hi Joshi Feb 15 ' 179 分钟阅读
 
-#computerscience #datastructures](/vaidehijoshi/how-to-not-be-stumped-by-trees)[![vaidehijoshi image](../Images/c1af460640a8ad9ea29e58d942edc772.png)](/vaidehijoshi) [## 把它分成二叉树
+#computerscience #datastructures](/vaidehijoshi/how-to-not-be-stumped-by-trees)[![vaidehijoshi image](img/c1af460640a8ad9ea29e58d942edc772.png)](/vaidehijoshi) [## 把它分成二叉树
 
 ### vaidehi Joshi 2 月 21 日 1710 分钟阅读
 
@@ -20,6 +20,6 @@
 
 我希望你喜欢！欢迎在评论中继续讨论。
 
-[![SparkPost Logo](../Images/18d784e3463d7e6f082d8230df42eeae.png)T2】](https://sparkpost.com/)
+[![SparkPost Logo](img/18d784e3463d7e6f082d8230df42eeae.png)T2】](https://sparkpost.com/)
 
 ### *本系列视频由 [SparkPost](https://www.sparkpost.com/) 赞助。对于开发人员来说，这是发送电子邮件的最佳方式。*

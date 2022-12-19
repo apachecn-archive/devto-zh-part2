@@ -23,7 +23,7 @@
 所以整个概念很简单。所有的作业服务器都获得一个要执行的任务列表，然后它们遍历任务列表，在任务
 上获得一个`lock`，这样所有其他的作业服务器都跳过这个任务，继续下一个任务。这样，我们可以让多个节点同时处理不同的任务。
 
-[![Architecture](../Images/78db0099ea1b4d3023be53558cf97b3c.png "architecture")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xrPjfyQv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/mario-mazo/mutual-exclusion-consul/master/assets/mutual-exclusion.jpg)
+[![Architecture](img/78db0099ea1b4d3023be53558cf97b3c.png "architecture")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xrPjfyQv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/mario-mazo/mutual-exclusion-consul/master/assets/mutual-exclusion.jpg)
 
 在图像中，我们看到`serverA`锁定`task1`并且*执行*任务，用实线箭头将它发送到管道中。`ServerB`和`ServerC`有虚线箭头，我的意思是`task1`不能被那两个服务器执行。稍后`serverB`会锁定另一个任务，依此类推。
 

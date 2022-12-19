@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/getstream_io/stream--go-news-feeds-for-over-300-million-end-users-3mci>
 
-[![GetStream.io](../Images/66e5c35ba2568be405dabdfe03103b94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H6doBrL_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0uj4kjzso534kurzmxn8.png)
+[![GetStream.io](img/66e5c35ba2568be405dabdfe03103b94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H6doBrL_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0uj4kjzso534kurzmxn8.png)
 
 [Stream](https://getstream.io/) 是一个 API，使开发者能够构建新闻提要和活动流([试试 API](https://getstream.io/try-the-api) )。超过 500 家公司使用我们的产品，为超过 3 亿最终用户提供信息。像 Product Hunt、安德玛、Powerschool、Bandsintown、Dubsmash、Compass 和 Fabric(谷歌)这样的公司都依赖于 Stream 来支持他们的新闻订阅。除了 API，Stream 的创始人还编写了最广泛使用的用于构建可伸缩提要的开源解决方案。
 
@@ -41,7 +41,7 @@
 
 Stream 结合使用写扇出和读扇出。这使我们能够有效地支持具有高度关联图形的客户，以及具有更稀疏数据集的客户。这很重要，因为我们的客户使用 Stream 的方式非常不同。看看这些来自 Bandsintown、Unsplash 和 Product Hunt 的截图:
 
-[![Product Hunt](../Images/4c5f4b3a5674b6b564f1558f0da1c6b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kWFUB1Dd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q36lzs68cfjqq9lk1igo.png)
+[![Product Hunt](img/4c5f4b3a5674b6b564f1558f0da1c6b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kWFUB1Dd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q36lzs68cfjqq9lk1igo.png)
 
 # 从 Python 切换到围棋
 
@@ -53,13 +53,13 @@ Stream 结合使用写扇出和读扇出。这使我们能够有效地支持具�
 
 最初，我们在 Go 的包管理方面有些困难。然而，使用 [Dep](https://github.com/golang/dep) 和 [VG 包](https://github.com/getstream/vg)有助于创建一个伟大的工作流。
 
-[![VG](../Images/5b1e8a525a77957e38bded603c6bace1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TvRi9qVL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6fhsczu1mvjshc14xzmm.png)
+[![VG](img/5b1e8a525a77957e38bded603c6bace1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TvRi9qVL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6fhsczu1mvjshc14xzmm.png)
 
 如果你从未尝试过围棋，你会想试试这个在线旅游:[https://tour.golang.org/welcome/1](https://tour.golang.org/welcome/1)
 
 作为一门语言，围棋非常注重性能。内置的 PPROF 工具对于发现性能问题非常有用。优步的 Go-Torch 库非常适合可视化 PPROF 中的数据，并将在 Go 1.10 中捆绑到 PPROF 中。
 
-[![Flame Graph](../Images/55e7c5b91d7811c05ed4833a5128ebe4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qVetQN9G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/npipzmly6upg9gifoigq.png)
+[![Flame Graph](img/55e7c5b91d7811c05ed4833a5128ebe4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qVetQN9G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/npipzmly6upg9gifoigq.png)
 
 # 从卡珊德拉切换到洛克 sDB &筏
 
@@ -73,7 +73,7 @@ RocksDB 是一个高性能的嵌入式数据库库，由脸书的数据工程团
 
 为了做到这一点，Keevo 使用 Hashicorp 的 Go 实现来实现 Raft 共识算法。这确保了 Keevo 中存储的每一位都存储在 3 个不同的服务器上，并且操作始终一致。这个网站很好地展示了 Raft 是如何工作的:[https://raft.github.io/](https://raft.github.io/)
 
-[![Consensus](../Images/023f2e4b9a8836c1be77d19f1c84422f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nbF-axqP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i2yyomms1acdelsb3ubl.png)
+[![Consensus](img/023f2e4b9a8836c1be77d19f1c84422f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nbF-axqP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i2yyomms1acdelsb3ubl.png)
 
 # 不太微服
 
@@ -93,7 +93,7 @@ RocksDB 是一个高性能的嵌入式数据库库，由脸书的数据工程团
 
 几乎所有带有提要的大型应用都使用机器学习和个性化。例如，LinkedIn 会对你订阅源中的条目进行优先排序。Instagram 的 explore feed 显示你关注的人之外你可能感兴趣的照片。Etsy 使用类似的方法来优化电子商务转换。Stream 支持以下 5 种个性化用例:
 
-[![Social](../Images/ff45f6459f9d9478788ee8bf2557e220.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cvPpL0yc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v38nu2y06fs7cq9gvdzs.png)
+[![Social](img/ff45f6459f9d9478788ee8bf2557e220.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cvPpL0yc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v38nu2y06fs7cq9gvdzs.png)
 
 [构建个性化订阅源的文档](https://getstream.io/docs/)。
 
@@ -146,7 +146,7 @@ Travis 负责发布我们服务的新版本。特拉维斯首先运行我们的�
 
 > 特拉维斯在过去的几年里取得了长足的进步。在某些情况下，我更喜欢 Jenkins，因为它更容易调试不完整的构建。随着名副其实的“debug build”按钮的加入，Travis 现在是明显的赢家。它易于使用并且是免费的开源软件，不需要维护任何东西。
 
-[![Travis](../Images/aa92a27a5f2aff6c3e89a0ff3d14cfad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LXsUoyEx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ixvc5ccrhxteuxp83ku1.png)
+[![Travis](img/aa92a27a5f2aff6c3e89a0ff3d14cfad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LXsUoyEx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ixvc5ccrhxteuxp83ku1.png)
 
 接下来，我们使用 Fabric 对我们的 AWS 实例进行滚动部署。如果在部署过程中出现任何问题，它将暂停部署。我们非常重视稳定性:
 
@@ -169,7 +169,7 @@ VictorOps 是我们支持团队的新成员。这使得在当前问题上的合�
 
 > 关于 VictorOps 最好的部分是他们如何使用时间表在团队成员之间进行协作。VictorOps 是让我们的团队了解停机情况的一种很好的方式。它还可以很好地与 Slack 集成。这种设置使我们能够对生产中出现的任何问题做出快速反应，协同工作并更快地解决问题。
 
-[![VictorOps](../Images/4741af9cfe021769b95b618c8c8724fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CuhcchIx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/19u5udut103ecmdj04rt.png)
+[![VictorOps](img/4741af9cfe021769b95b618c8c8724fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CuhcchIx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/19u5udut103ecmdj04rt.png)
 
 我们的大部分基础设施都运行在 AWS 上:
 
@@ -186,7 +186,7 @@ DevOps 的职责由我们的团队共同承担。虽然我们有一个专门的 
 
 Stream 使用 OpenTracing 进行跟踪，使用 Grafana 进行漂亮的仪表盘。Grafana 的跟踪是使用 StatsD 完成的。最终的结果是这样的美:
 
-[![Dashboard](../Images/ff48f3ed7912ba208b52bb64b967a8ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X-8qQRUM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f6o2vf1mh35zhxzmpnuw.png)
+[![Dashboard](img/ff48f3ed7912ba208b52bb64b967a8ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X-8qQRUM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f6o2vf1mh35zhxzmpnuw.png)
 
 我们在 Sentry 中跟踪我们的错误，并使用 ELK 堆栈来集中我们的日志。
 
@@ -194,7 +194,7 @@ Stream 使用 OpenTracing 进行跟踪，使用 Grafana 进行漂亮的仪表盘
 
 > 栈中的一个新成员是 OpenTracing。过去，我们使用 New Relic，它对 Python 来说很有吸引力，但不能自动测量 Go 的跟踪信息。Jaeger 的 OpenTracing 是一个很好的解决方案，非常适合 Stream。它也可能是追踪解决方案的最佳标志:
 
-[![Gopher](../Images/1855264a8a4b0164816c5228e66ab929.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z1C1F05B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p6smhl03dfhhgrlrkpns.png)
+[![Gopher](img/1855264a8a4b0164816c5228e66ab929.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z1C1F05B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p6smhl03dfhhgrlrkpns.png)
 
 # 关闭思绪
 

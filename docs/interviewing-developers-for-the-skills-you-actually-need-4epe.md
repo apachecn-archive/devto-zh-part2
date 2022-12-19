@@ -4,7 +4,7 @@
 
 雇佣软件开发人员是一项艰难的工作。优秀的开发人员很难找到，也很难面试。我对前者没有任何建议，但对后者有丰富的经验。
 
-[![](../Images/a9a7307bff2c458a9acc2635ea8146ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z_axjEvk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.professorbeekums.com/img/2018/focus.jpg)
+[![](img/a9a7307bff2c458a9acc2635ea8146ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z_axjEvk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.professorbeekums.com/img/2018/focus.jpg)
 
 当我第一次开始面试开发人员时，我不知道从哪里开始。我得到的唯一建议是“试着确定你是否愿意和这个人一起工作。”我如何在一两个小时后发现我是否愿意和某人一起工作？最简单的方法就是复制我面试时的做法:让应聘者在白板上实现一些复杂的算法。
 

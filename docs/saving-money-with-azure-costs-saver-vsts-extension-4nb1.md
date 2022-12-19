@@ -27,15 +27,15 @@
 
 我的版本是在一个资源组中放大或缩小资源，对应于两个环境:T(测试)和 A(验收)。该版本计划在周一至周五每天 13:00 自动创建:
 
-[![Setting up at Azure DevOps](../Images/5dbfc7f561cb2323585e2e2df7609bd7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c15HVo-X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dobryak.org/wp-content/uploads/2018/11/Azure-Costs-Saver1-600x235.png)
+[![Setting up at Azure DevOps](img/5dbfc7f561cb2323585e2e2df7609bd7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c15HVo-X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dobryak.org/wp-content/uploads/2018/11/Azure-Costs-Saver1-600x235.png)
 
 该版本由两个环境组成:一个是缩小版，称为缩小版，从周一到周五的 22:00 在版本创建后执行一次；另一个称为恢复，在周一到周五的 06:00 发布创建后执行一次。这种设置确保了在晚上和周末我们的资源处于最小规模，而在白天它们以最大功率执行。
 
-[![Setting up at Azure DevOps](../Images/3feaf467d7bc60e13d03c21844bd153e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HILV2RPJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dobryak.org/wp-content/uploads/2018/11/Azure-Costs-Saver2-600x275.png)
+[![Setting up at Azure DevOps](img/3feaf467d7bc60e13d03c21844bd153e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HILV2RPJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dobryak.org/wp-content/uploads/2018/11/Azure-Costs-Saver2-600x275.png)
 
 每个 VSTS 环境由 1 个阶段和 2 个任务组成，以扩大或缩小 T 和 A 资源组的资源；每个任务都是 Azure 成本节约任务。
 
-[![Setting up at Azure DevOps](../Images/5258292c71a688ea07aad614b973c07c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T4wWiY9P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dobryak.org/wp-content/uploads/2018/11/Azure-Costs-Saver3-600x187.png)
+[![Setting up at Azure DevOps](img/5258292c71a688ea07aad614b973c07c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T4wWiY9P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dobryak.org/wp-content/uploads/2018/11/Azure-Costs-Saver3-600x187.png)
 
 任务中的字段及其含义:
 

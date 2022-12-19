@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/iwilsonq/shiny-object-syndrome-or-how-not-to-focus-1350>
 
-[![oscar keys](../Images/f5adfa62ecc2af684c6970ca3010163b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rq4iktI5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1462157948078-cbc0cd80e4d7%3Fixlib%3Drb-0.3.5%26s%3D7de76b1760b335f56a45bebc7c1efcf8%26dpr%3D1%26auto%3Dformat%26fit%3Dcrop%26w%3D1000%26q%3D80%26cs%3Dtinysrgb)
+[![oscar keys](img/f5adfa62ecc2af684c6970ca3010163b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rq4iktI5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1462157948078-cbc0cd80e4d7%3Fixlib%3Drb-0.3.5%26s%3D7de76b1760b335f56a45bebc7c1efcf8%26dpr%3D1%26auto%3Dformat%26fit%3Dcrop%26w%3D1000%26q%3D80%26cs%3Dtinysrgb)
 
 当我考虑我作为一个开发者的身份时，我喜欢首先把自己看作一个业余爱好者，然后才是专业人士。
 

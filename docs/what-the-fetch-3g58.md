@@ -73,7 +73,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 结果输出将是
 
-[![PUT Request](../Images/e794e2cc7f80d10e8378e925e13bb83d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3rBBJLGp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/db34n7rs571jeay0k58x.png)
+[![PUT Request](img/e794e2cc7f80d10e8378e925e13bb83d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3rBBJLGp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/db34n7rs571jeay0k58x.png)
 
 还有其他选项可以传递给 Fetch 方法中的第二个可选参数，如访问控制(cors，同源)、缓存等。这些选项在 [MDN 页面](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)上有详细记录。当它们适用于您的特定用例时，请随意研究其中的每一个。
 

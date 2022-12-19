@@ -4,7 +4,7 @@
 
 *本文最初发表在[programmingliftoff.com](http://programmingliftoff.com/)上，名为[用 CSS 和 JavaScript 创建一个基本的网页](http://programmingliftoff.com/create-basic-webpage-css-javascript/)。*
 
-[![Screenshot of finished webpage](../Images/d0ade52f22a24e1aa08bd35e57d3732c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YxX7s4kI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7lmon5ilpfg8l8c7coyl.png)
+[![Screenshot of finished webpage](img/d0ade52f22a24e1aa08bd35e57d3732c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YxX7s4kI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7lmon5ilpfg8l8c7coyl.png)
 
 *注意:如果你已经有了自己的网站，只需要上传到 GitHub 并启用 GitHub Pages，请阅读[上传网站到 GitHub Pages](http://programmingliftoff.com/upload-website-github-pages/)T3】*
 
@@ -153,7 +153,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在刷新你的网页。不错！我们有一个可爱的网页，上面有来自 unsplash.com 的图片！每次刷新页面，你都会看到一个新的随机图像。很酷，对吧？！
 
-[![Image of basic webpage with four pictures from unsplash](../Images/3e2e83f6550aaffd9721d493ca09b582.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UZiZrozk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://programmingliftoff.com/wp-content/uploads/2018/02/create-website-css-and-js.png)
+[![Image of basic webpage with four pictures from unsplash](img/3e2e83f6550aaffd9721d493ca09b582.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UZiZrozk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://programmingliftoff.com/wp-content/uploads/2018/02/create-website-css-and-js.png)
 
 如果你有任何问题，请在 YouTube 上观看视频教程。
 

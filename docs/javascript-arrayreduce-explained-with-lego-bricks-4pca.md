@@ -4,7 +4,7 @@
 
 #### 我们都必须认同 JavaScript 很棒！但是你知道吗？乐高更伟大！为什么？因为你可以用这个神奇的玩具来解释和模拟如此多的想法、行为和算法🚀。
 
-<figure>[![](../Images/794eef1b4234dd54712d1c6cbae55b14.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WILcjCJb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AHtqyqbVrAooagfsg) 
+<figure>[![](img/794eef1b4234dd54712d1c6cbae55b14.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WILcjCJb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AHtqyqbVrAooagfsg) 
 
 <figcaption>【混彩塑料玩具拍品】作者[里克·梅森](https://unsplash.com/@egnaro?utm_source=medium&utm_medium=referral)于[上](https://unsplash.com?utm_source=medium&utm_medium=referral)</figcaption>
 
@@ -68,9 +68,9 @@ Enter fullscreen mode Exit fullscreen mode
 
  **所以，换句话说(或者视觉上)，我会把左边的堆转化成右边的有组织的结构:
 
-[![](../Images/3ffdc01fabbe3a090254e2afa1347199.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j8iux6G2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AJ8eiMZyfTUfdk8qwSpjP9g.jpeg)
+[![](img/3ffdc01fabbe3a090254e2afa1347199.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j8iux6G2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AJ8eiMZyfTUfdk8qwSpjP9g.jpeg)
 
-<figure>[![](../Images/9442ebae150abcedee86810d2279f76e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--D1pX_UyT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A0Y0bp0ZOAubWwKtXSSN9og.jpeg) 
+<figure>[![](img/9442ebae150abcedee86810d2279f76e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--D1pX_UyT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A0Y0bp0ZOAubWwKtXSSN9og.jpeg) 
 
 <figcaption>变换结果</figcaption>
 
@@ -120,6 +120,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 当然，还有:
 
-[![](../Images/bcde111ada062e2a1595b60dda6537a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wMvzrAtJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/400/1%2ACR5yvINgplYJStM-YrWWkw.jpeg)
+[![](img/bcde111ada062e2a1595b60dda6537a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wMvzrAtJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/400/1%2ACR5yvINgplYJStM-YrWWkw.jpeg)
 
 * * ***

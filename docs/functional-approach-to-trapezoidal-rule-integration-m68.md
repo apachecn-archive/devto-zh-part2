@@ -9,12 +9,12 @@
 ## 利用梯形法则进行积分:
 
 维基百科将积分描述为“以一种可以描述位移、面积、体积和其他通过组合无穷小的数据而产生的概念的方式将数字分配给函数。”
-[![Integral](../Images/7a1b4bc9ed6cbc7e12fe6446867db60d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TO4y5QBJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://wikimedia.org/api/rest_v1/media/math/render/svg/ac02adeed584466d53dee65f3228ad66939eb58b) 
+[![Integral](img/7a1b4bc9ed6cbc7e12fe6446867db60d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TO4y5QBJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://wikimedia.org/api/rest_v1/media/math/render/svg/ac02adeed584466d53dee65f3228ad66939eb58b) 
 它们是微积分中引入的基本概念之一，在整个工程和科学世界中普遍使用。
 
 梯形法则是一种通过函数创建梯形分区来逼近定积分的方法。取分区的累积面积，得到近似的积分。
 
-[![Trapezoidal rule](../Images/725a6474c070a9eafeba52d90bb5fc79.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q0XQHw5M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.stack.imgur.com/daZ4D.png)
+[![Trapezoidal rule](img/725a6474c070a9eafeba52d90bb5fc79.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q0XQHw5M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.stack.imgur.com/daZ4D.png)
 
 ## 函数逼近数值方法:
 
@@ -81,7 +81,7 @@ integrate x n lim0 newlim0 lim1
 
 ### 我们在哪里使用积分？
 
-[![Integral visual](../Images/78ba2ed9c4c70837f96a5c49262eac35.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8qagCxau--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/9/9f/Integral_example.svg)
+[![Integral visual](img/78ba2ed9c4c70837f96a5c49262eac35.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8qagCxau--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/9/9f/Integral_example.svg)
 
 积分随处可见！特别是处理物理的时候！
 

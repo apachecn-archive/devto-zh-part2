@@ -4,7 +4,7 @@
 
 Coder 是一个基于 web 的 IDE，它的突出特点是为您提供了一个可伸缩的容器，具有完全的根访问权限来运行您的代码。cloud IDE 已经进入了公开测试阶段，我很好奇它的表现如何，以及它有什么缺点。这篇文章绝不是一个全面的回顾，只是概述了我在 Coder public alpha 工作的时间。
 
-[![](../Images/e3c908426513b0ee8986b866bc2aa518.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Eaf_gPpP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7xl7mkzl7hjwra9p8vz8.png)
+[![](img/e3c908426513b0ee8986b866bc2aa518.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Eaf_gPpP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7xl7mkzl7hjwra9p8vz8.png)
 
 ## 从首页突出显示
 
@@ -20,7 +20,7 @@ Coder 是一个基于 web 的 IDE，它的突出特点是为您提供了一个�
 
 您将看到一个 IDE，它具有项目范围的搜索、自动完成和具有 root 访问权限的完整终端。我主要使用 Ruby on Rails 和 React 进行开发，它们都有非常完备的安装程序/设置，所以我想看看是否能开发一个新的 Rails 应用程序，以及是否能成功运行 create-react-app。
 
-[![](../Images/cb1346e8c7915940b30d6e7ba6dc9a0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1-5U24HB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9a5eltko81vbyjvajbf0.png)
+[![](img/cb1346e8c7915940b30d6e7ba6dc9a0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1-5U24HB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9a5eltko81vbyjvajbf0.png)
 
 ## 铁轨开了吗？
 
@@ -36,7 +36,7 @@ Coder 是一个基于 web 的 IDE，它的突出特点是为您提供了一个�
 
 启动开发服务器是通常的“npm 启动”，但是为了看到结果，您使用他们的方法从另一个浏览器窗口连接到您的服务器。该窗口支持实时重载，甚至包括 https，体验很像付费的 NGROK 帐户。令我惊讶的是，这里的一切都像预期的那样工作，与我在本地启动一个新的 React 项目的方式没有明显的区别。
 
-[![](../Images/e1d176df9ac7c610a0e30e4a9e1b4b8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vDvRxJnq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/52jqdjotfe87fcrsedbp.png)
+[![](img/e1d176df9ac7c610a0e30e4a9e1b4b8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vDvRxJnq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/52jqdjotfe87fcrsedbp.png)
 
 ## 感觉如何？
 

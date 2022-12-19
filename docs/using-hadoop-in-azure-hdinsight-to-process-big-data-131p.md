@@ -19,7 +19,7 @@ Apache Hadoop 是一个用于存储和分析大量非结构化数据的开源解
 
 在您的门户中，单击新建>数据+分析> HDInsight。然后创建一个新的 HDInsight 集群，以创建一个新的集群:
 
-[![](../Images/2bd394e4d2cd94b4137752be93733e7c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YR441RAD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/881/0%2Aav2lbKyQRNP_4Gp1.png)
+[![](img/2bd394e4d2cd94b4137752be93733e7c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YR441RAD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/881/0%2Aav2lbKyQRNP_4Gp1.png)
 
 使用以下属性创建您的新集群:
 
@@ -52,7 +52,7 @@ Apache Hadoop 是一个用于存储和分析大量非结构化数据的开源解
 
 [caption id = " attachment _ 511 " align = " align center " width = " 560 "]
 
-[![](../Images/c8e4fbddd56c7efaba82e2e42a325bc7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gh07B7DL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/560/0%2AW_8z57TRXDo0jyTl.png)
+[![](img/c8e4fbddd56c7efaba82e2e42a325bc7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gh07B7DL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/560/0%2AW_8z57TRXDo0jyTl.png)
 
 很快…[/caption]
 
@@ -66,7 +66,7 @@ Apache Hadoop 是一个用于存储和分析大量非结构化数据的开源解
 
 打开 PuTTY，在会话刀片中，在主机名文本框中输入主机名。然后在连接类型下，选择 SSH 并单击打开。(如果弹出安全警告，指出无法验证主机证书，请单击“是”继续)。
 
-[![](../Images/88fff15885fb4c67d1149075644ae096.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B1ZUbVhG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/673/0%2AM3yft65wM4GJsx93.png)
+[![](img/88fff15885fb4c67d1149075644ae096.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B1ZUbVhG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/673/0%2AM3yft65wM4GJsx93.png)
 
 出现提示时，输入您之前指定的 SSH 用户名和密码(不是集群用户名！！).
 
@@ -76,7 +76,7 @@ Hadoop 使用一个名为 HDFS 的文件系统，它在 Azure HDInsight 集群�
 
 在 SSH 控制台中，输入您的用户名和密码。如果成功，您应该会看到以下输出。
 
-[![](../Images/e5bdd3161b9389fcdca3ac0a44273ae9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ysWAlAa3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/905/0%2ArtYAeMka5idHXVCg.png)
+[![](img/e5bdd3161b9389fcdca3ac0a44273ae9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ysWAlAa3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/905/0%2ArtYAeMka5idHXVCg.png)
 
 让我们从输入以下命令开始，查看我们的 HDFS 文件系统中根文件夹的内容:
 
@@ -84,7 +84,7 @@ hdfs dfs -ls /
 
 我们应该看到以下项目:
 
-[![](../Images/65fe7b3c23173c648d6079961c4967fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WGHGbYn---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/960/0%2AEtf44IsDEgzNo1U_.png)
+[![](img/65fe7b3c23173c648d6079961c4967fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WGHGbYn---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/960/0%2AEtf44IsDEgzNo1U_.png)
 
 让我们仔细看看我们的示例文件夹。其中包含示例应用程序、数据和 JAR 组件的子文件夹:
 
@@ -92,13 +92,13 @@ HDFS DFS-ls/示例
 
 哦，看起来里面有几样东西！
 
-[![](../Images/10da2e0877ebe41ef96fe56bf4706d33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kyLJH_vT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/887/0%2Ajfa7LgWYPGqyBoVs.png)
+[![](img/10da2e0877ebe41ef96fe56bf4706d33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kyLJH_vT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/887/0%2Ajfa7LgWYPGqyBoVs.png)
 
 好了，让我们通过输入以下命令来查看数据文件夹:
 
 HDFS DFS-ls/example/data/Gutenberg
 
-[![](../Images/18aa506738caa561c5f65670341d23a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UbgXzFqt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/986/0%2AOaGjmrwXXOSM_AZ3.png)
+[![](img/18aa506738caa561c5f65670341d23a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UbgXzFqt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/986/0%2AOaGjmrwXXOSM_AZ3.png)
 
 我们这里好像已经有几个 txt 文件了。让我们看看这些文件能做些什么。
 
@@ -126,7 +126,7 @@ Hadoop jar/usr/HDP/current/Hadoop-MapReduce-client/Hadoop-MapReduce-examples . j
 
 HDFS DFS-ls/示例/结果
 
-[![](../Images/757687890a84856ab259d9c65a93f842.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ShyPomCV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/971/0%2A3I8OT3aNDo5H5SIu.png)
+[![](img/757687890a84856ab259d9c65a93f842.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ShyPomCV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/971/0%2A3I8OT3aNDo5H5SIu.png)
 
 看到作业已经创建了一个名为 part-r-00000 的文件。让我们通过输入最后一个命令来查看它的输出:
 
@@ -144,7 +144,7 @@ HDFS DFS-文本/示例/结果/零件-r-00000
 
 在“上传”下拉列表中，单击“文件夹”,然后将您作为 block blob 下载的文件夹上传到容器根目录中的新文件夹名称“项目”
 
-[![](../Images/b7812b5e90bb99bafe0cc5d5c8cd3506.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tsg6xZaC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/766/0%2An7I4UuCb-RFj61Fu.png)
+[![](img/b7812b5e90bb99bafe0cc5d5c8cd3506.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tsg6xZaC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/766/0%2An7I4UuCb-RFj61Fu.png)
 
 处理上传的数据
 

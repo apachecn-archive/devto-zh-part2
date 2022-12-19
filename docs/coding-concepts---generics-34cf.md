@@ -64,7 +64,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 一般的方式
 
-[![Image result for cup type t](../Images/69650c5c0d350ebb33b33f6fa3d3a505.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iIya1Hpn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/cdn.josephwoodward.co.uk/blog/cup_of_type_t_programming_mug.jpg)T3】
+[![Image result for cup type t](img/69650c5c0d350ebb33b33f6fa3d3a505.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iIya1Hpn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/cdn.josephwoodward.co.uk/blog/cup_of_type_t_programming_mug.jpg)T3】
 
 ```
 class GenericStack<T>;

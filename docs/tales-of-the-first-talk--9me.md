@@ -8,7 +8,7 @@
 
 # 第一步
 
-[![Baby learning to walk](../Images/775aa5510d31dfae3d22b35864b785cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--irYT-Emq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://cdn.newsapi.com.au/image/v1/d7b7f2a7c3cf426ba75f5a22c711556c)
+[![Baby learning to walk](img/775aa5510d31dfae3d22b35864b785cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--irYT-Emq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://cdn.newsapi.com.au/image/v1/d7b7f2a7c3cf426ba75f5a22c711556c)
 
 他的最终目标是成为一名教师...但我们都得从某个地方开始，对吧？
 
@@ -18,7 +18,7 @@
 
 # 做好准备
 
-[![Sharpening sword](../Images/f6eb008878b23c32900806564f0da1ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v5ZWH2yj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.haikudeck.com/mi/6D49DF7A-D13C-402F-9D8B-D680904CC7E6.jpg)
+[![Sharpening sword](img/f6eb008878b23c32900806564f0da1ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v5ZWH2yj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.haikudeck.com/mi/6D49DF7A-D13C-402F-9D8B-D680904CC7E6.jpg)
 
 他仔细选择了题目，考虑到每一个都能被尽可能多的人理解。这里一点玩笑，那里一点动画，瞧！
 
@@ -28,11 +28,11 @@
 
 幸运的是，他已经了解了[主题演讲](https://www.apple.com/lae/keynote/)和它的*魔法动作*动画的甜蜜爱情，可以让任何人去:
 
-[![dancing](../Images/83fb2f34773274893f26bc9079e58a5b.png)T2】](https://i.giphy.com/media/Gyb5RmMctJ9ZK/giphy.gif)
+[![dancing](img/83fb2f34773274893f26bc9079e58a5b.png)T2】](https://i.giphy.com/media/Gyb5RmMctJ9ZK/giphy.gif)
 
 # 暴风雨前的平静
 
-[![calm water](../Images/ad73e35f0a012e5fd11d2602c31f9519.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UFecFypn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.ytimg.com/vi/K86RNk8PfxM/maxresdefault.jpg)
+[![calm water](img/ad73e35f0a012e5fd11d2602c31f9519.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UFecFypn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.ytimg.com/vi/K86RNk8PfxM/maxresdefault.jpg)
 
 那天他确保尽可能早地到达。你永远不知道潜伏在暗处的是什么样的怪物...
 
@@ -40,7 +40,7 @@
 
 # 偶遇
 
-[![encountering a beard](../Images/0d12c14340fd36e85e7834ee8f3a17ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kh4JnCFt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://voiceofscouting.org/wp-content/uploads/2017/05/bearencounter.jpg)
+[![encountering a beard](img/0d12c14340fd36e85e7834ee8f3a17ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kh4JnCFt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://voiceofscouting.org/wp-content/uploads/2017/05/bearencounter.jpg)
 
 时间永远不会停止，无论你多么努力，它都会继续前进。所以在公众到来之前一切都要准备好。
 
@@ -48,7 +48,7 @@
 
 # 战斗
 
-[![The battle of bastards](../Images/c2b586007a19880c40a2d02a29da7475.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rYi1XOAW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://timedotcom.files.wordpress.com/2017/07/battleofthebastards.jpg)
+[![The battle of bastards](img/c2b586007a19880c40a2d02a29da7475.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rYi1XOAW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://timedotcom.files.wordpress.com/2017/07/battleofthebastards.jpg)
 
 当这位 IT 主管决定将他介绍给公众时，他的喉咙开始很快变干，但他准备了一个水瓶，可以治愈他的伤口。
 
@@ -58,7 +58,7 @@
 
 # 最后一圈
 
-[![final lap](../Images/e543f7d5c6688d538c868c04496638cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K4KoLl9K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.ytimg.com/vi/PXV8bHnv4jQ/maxresdefault.jpg)
+[![final lap](img/e543f7d5c6688d538c868c04496638cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K4KoLl9K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.ytimg.com/vi/PXV8bHnv4jQ/maxresdefault.jpg)
 
 在球场上呆了太久之后，他仍然有一些任务要完成，但是时间从他的指缝间溜走了。无法攫取，他向当局要求更多，而这些都没有受到干扰。于是他继续说。
 
@@ -66,13 +66,13 @@
 
 # 记分牌
 
-[![scoreboard on the wall](../Images/a4af18e1f20508b8742345477939c337.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yt8WqBYX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/bataviasbest.org/wp-content/uploads/2016/09/scoreboard-1024x683.jpg%3Ffit%3D1024%252C683%26ssl%3D1)
+[![scoreboard on the wall](img/a4af18e1f20508b8742345477939c337.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yt8WqBYX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/bataviasbest.org/wp-content/uploads/2016/09/scoreboard-1024x683.jpg%3Ffit%3D1024%252C683%26ssl%3D1)
 
 他所有的努力都白费了...直到他听到掌声。但这不是普通的掌声。这对他来说似乎是永恒的，他无法相信。他不知道该怎么办:笑？微笑？f#&* it，他还鼓掌回人群这么牛逼！
 
 # 结束
 
-[![that's all folks](../Images/222a987ae3fbc0f91955f0fbe55a7479.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z4Dec78o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.ytimg.com/vi/P4LhWSN3YSw/maxresdefault.jpg)
+[![that's all folks](img/222a987ae3fbc0f91955f0fbe55a7479.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z4Dec78o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.ytimg.com/vi/P4LhWSN3YSw/maxresdefault.jpg)
 
 IT 主管和大学的一位知名教师决定联系他，祝贺他的努力。他们甚至让他在一个月的时间里为其他学生开设一门他感兴趣的小课程。
 
@@ -84,18 +84,18 @@ IT 主管和大学的一位知名教师决定联系他，祝贺他的努力。�
 
 ## 房间
 
-[![the room](../Images/dc8f8e5dcef10586a9715aa4810e08b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0a_3EM6u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sr81v7aqbdcskujws6xp.jpg)
+[![the room](img/dc8f8e5dcef10586a9715aa4810e08b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0a_3EM6u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sr81v7aqbdcskujws6xp.jpg)
 
 ## 设置
 
-[![the pedestal](../Images/baebb58fee68c89d3f002db0ff19e463.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dkdVXgI2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e0uph8sv32egg7bod4r6.jpg)
+[![the pedestal](img/baebb58fee68c89d3f002db0ff19e463.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dkdVXgI2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e0uph8sv32egg7bod4r6.jpg)
 
 ## 查看
 
-[![the view](../Images/cba31d3ca33c8dbbcc4b3876b521882a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mwxiW_rH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/at2wzh8ir6vp4s0mjkz3.jpg)
+[![the view](img/cba31d3ca33c8dbbcc4b3876b521882a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mwxiW_rH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/at2wzh8ir6vp4s0mjkz3.jpg)
 
 ## 强制自拍:)
 
-[![the selfie](../Images/2a301f509f231e5c65c43b2fe16b9f03.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0cB_mhCw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/blmjxwu3y0mjmjq0e4pe.jpg)
+[![the selfie](img/2a301f509f231e5c65c43b2fe16b9f03.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0cB_mhCw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/blmjxwu3y0mjmjq0e4pe.jpg)
 
 (如果你在这张照片中发现了 [@jjsantos](https://dev.to/jjsantos) 和 [@mmarinez](https://dev.to/mmarinez) ，就会加分)

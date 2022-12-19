@@ -12,7 +12,7 @@
 
 这是一张看起来像什么的图表:
 
-[![graphical representation of polymorphism](../Images/c327051ecf03e7925b9f6a5a2db74889.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PihcaK8t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4ut8wqsjbls1e72x3efo.JPG)
+[![graphical representation of polymorphism](img/c327051ecf03e7925b9f6a5a2db74889.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PihcaK8t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4ut8wqsjbls1e72x3efo.JPG)
 
 在这种情况下，晚餐是超类，泰国菜、意大利菜和秘鲁菜是派生类。如您所见，派生类中的每个方法都是不同的。例如，当您使用 Dinner 类声明一个对象并创建一个秘鲁对象的新实例时，您可以使用 Recipe()方法，而不必担心将执行什么代码。它将自动遵从秘鲁类中定义的 Recipe()方法的代码。
 

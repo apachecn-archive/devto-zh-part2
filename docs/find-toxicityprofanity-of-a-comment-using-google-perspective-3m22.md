@@ -27,7 +27,7 @@ Perspective 是一个 API，它使主持更好的对话变得更加容易。API 
 > 多田…&这是您的 Google perspective 开源 nodejs 客户端:
 > I，我开源了一个 Google Perspective 的 nodejs 客户端，带有清晰的文档，可以快速入门。点击下面的链接，使用它&如果您发现任何问题，请随时提出。
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) [ sandeshbsuvarna ](https://github.com/sandeshbsuvarna) / [评论-毒性-亵渎-分析仪](https://github.com/sandeshbsuvarna/Comment-Toxicity-Profanity-Analyzer)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) [ sandeshbsuvarna ](https://github.com/sandeshbsuvarna) / [评论-毒性-亵渎-分析仪](https://github.com/sandeshbsuvarna/Comment-Toxicity-Profanity-Analyzer)
 
 ### 评论毒性/亵渎分析器，将有助于使用谷歌的视角 api 在大规模在线对话中提高同理心、参与度和质量
 
@@ -35,7 +35,7 @@ Perspective 是一个 API，它使主持更好的对话变得更加容易。API 
 
 # 评论毒性/亵渎分析器| Nodejs，谷歌视角 API
 
-[![npm version](../Images/e2528d4168af11624a115beda11cf67b.png) ](https://opensource.org/licenses/MIT) [ ![node version](../Images/e04c69bad3e60104ce642b5335ea0c31.png)](https://opensource.org/licenses/MIT)
+[![npm version](img/e2528d4168af11624a115beda11cf67b.png) ](https://opensource.org/licenses/MIT) [ ![node version](img/e04c69bad3e60104ce642b5335ea0c31.png)](https://opensource.org/licenses/MIT)
 
 **评论毒性/亵渎分析器**，将有助于在大规模在线对话中提高同理心、参与度和质量。# ConversationAI # Google perspective API
 

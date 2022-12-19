@@ -14,7 +14,7 @@
 
 让我们开始吧！
 
-[![](../Images/0e7b77afb3e672983ab7fa25e5588076.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XUSiuE1---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/05/filterOverviewDiagram.png)
+[![](img/0e7b77afb3e672983ab7fa25e5588076.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XUSiuE1---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/05/filterOverviewDiagram.png)
 
 ### 使用 For 循环代替过滤功能
 
@@ -123,13 +123,13 @@ Enter fullscreen mode Exit fullscreen mode
 2.  我们实际上在 return 语句中使用了一个条件！这意味着我们只返回通过特定条件的元素。
 3.  我们现在可以对数组中的每个元素使用 *student* ，而不是像在循环的*中那样使用 students[i]。*
 
-[![filterDiagramV1.jpg](../Images/01df13c5facfbc103a0138d4203afdd2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x8ep4Mol--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/IDqqk2Y7RvC5mkYGwom6)
+[![filterDiagramV1.jpg](img/01df13c5facfbc103a0138d4203afdd2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x8ep4Mol--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/IDqqk2Y7RvC5mkYGwom6)
 
-[![filterDiagramV2.jpg](../Images/1029db9f0d7453b8e4da761290f8afd8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GAVSts20--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/Bb3Z8tQiRpal46iYJJqT)
+[![filterDiagramV2.jpg](img/1029db9f0d7453b8e4da761290f8afd8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GAVSts20--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/Bb3Z8tQiRpal46iYJJqT)
 
 你可能会注意到有一点是违反直觉的——考上大学是最后一步，但是在我们的代码中，变量*录取*是语句的第一部分！您可能通常期望找到最后一个数组作为函数中的最后一条语句。相反，我们使用 return 来表示哪些元素将在*中被承认*结束。
 
-[![filterCodeBlock1.jpg](../Images/e15352ce73852692ec1b49420b256da3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u6ch9m2B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/CJFC1S8VShCCAjcNCLqK)
+[![filterCodeBlock1.jpg](img/e15352ce73852692ec1b49420b256da3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u6ch9m2B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/CJFC1S8VShCCAjcNCLqK)
 
 ### 例 2-在过滤器内使用两个条件
 
@@ -196,9 +196,9 @@ Enter fullscreen mode Exit fullscreen mode
 
 所以， *true* 或 false 真的只是决定了原始数组的每个成员是否会被包含在结果数组中，*承认了*。
 
-[![twopartfilter1.jpg](../Images/6ab99929d4ddc817cf25c68428cbc23e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TBoz5YY---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/ly7otC19QNasdN29wBQF)
+[![twopartfilter1.jpg](img/6ab99929d4ddc817cf25c68428cbc23e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TBoz5YY---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/ly7otC19QNasdN29wBQF)
 
-[![twopartfilter2.jpg](../Images/84b92e80cf0e50d7f55f1a858488f9df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rvZJIxEy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/zYB4yi8ZSmKSu1loFM92)
+[![twopartfilter2.jpg](img/84b92e80cf0e50d7f55f1a858488f9df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rvZJIxEy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/zYB4yi8ZSmKSu1loFM92)
 
 ### 获取更多可视化教程
 

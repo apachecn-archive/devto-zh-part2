@@ -6,7 +6,7 @@
 
 发送电子邮件并不是你的申请中最复杂的部分。然而，很多人犯了很多错误。一旦你想使用漂亮的 HTML 电子邮件而不是`text/plain`电子邮件，错误通常就开始发生了。
 
-[![](../Images/4fcc8b4505884bb2672ff31447239b70.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jeXOJ-KR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tasb55i28qp5yaii0yf3.png)
+[![](img/4fcc8b4505884bb2672ff31447239b70.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jeXOJ-KR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tasb55i28qp5yaii0yf3.png)
 
 # HTML 喜欢它是 1999 年
 
@@ -64,7 +64,7 @@
 *   [MJML](https://mjml.io/)
 *   [松木](https://thememountain.github.io/pine/)
 
-[![](../Images/3a4054fd671a289ef51e2321c8440942.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SzRHZhCa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i01fnjk1qwuw5egyvz9o.jpg)
+[![](img/3a4054fd671a289ef51e2321c8440942.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SzRHZhCa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i01fnjk1qwuw5egyvz9o.jpg)
 
 # 故障
 
@@ -85,7 +85,7 @@
 
 从外部资源加载图像会暴露阅读器。它可以用来验证用户是否真的阅读了电子邮件。这是相当不可靠的，因为许多基于网络的电子邮件客户端在需要时通过代理检索图像。
 
-[![](../Images/40c0389a3913199643b4c83db608b4a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vgIjuhuq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qb2s27h1akn96yf2j587.png)
+[![](img/40c0389a3913199643b4c83db608b4a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vgIjuhuq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qb2s27h1akn96yf2j587.png)
 
 ## 缺失图像
 
@@ -198,7 +198,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 或者坚持使用不太漂亮但简单的基于文本的电子邮件。
 
-[![](../Images/4e4291775dee10a9201687ded121957f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RLze3oEH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uvdsjayrgj0rpi4q6lxr.jpg)
+[![](img/4e4291775dee10a9201687ded121957f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RLze3oEH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uvdsjayrgj0rpi4q6lxr.jpg)
 
 # HTML 转文本
 

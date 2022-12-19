@@ -8,6 +8,6 @@
 
 [https://github.com/hacktm2017BoZo/Tankr](https://github.com/hacktm2017BoZo/Tankr)
 
-[![Tankr online game](../Images/0b854deef344b8692607f3dd8f1bb2a8.png)T2】](https://i2.wp.com/bogdancornianu.com/wp-content/uploads/2018/04/Tankr.png?ssl=1)
+[![Tankr online game](img/0b854deef344b8692607f3dd8f1bb2a8.png)T2】](https://i2.wp.com/bogdancornianu.com/wp-content/uploads/2018/04/Tankr.png?ssl=1)
 
 Tankr 网游的帖子[最早出现在](https://bogdancornianu.com/tankr-online-game/)[波格丹一世·科尼安努](https://bogdancornianu.com)上。

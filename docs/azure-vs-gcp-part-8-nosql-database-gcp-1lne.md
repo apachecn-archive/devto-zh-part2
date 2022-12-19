@@ -64,7 +64,7 @@ SDK 可用于 C#、GO、Java、Node.js、PHP、Python 和 Ruby。
 
 1.打开解决方案并管理 NuGet。删除“微软。Azure.DocumentDB”，并安装“Google。Cloud.Datastore.V1 "。
 
-[![app](../Images/e53a6c881076dddf733da89b87cd9d44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tEtr-Q4F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5oglound8rdv4ryrzjkm.PNG)
+[![app](img/e53a6c881076dddf733da89b87cd9d44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tEtr-Q4F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5oglound8rdv4ryrzjkm.PNG)
 
 2.将 DocumentDBRepository.cs 中的代码替换为以下内容。将 projectId 更新为您自己的。
 
@@ -201,7 +201,7 @@ gcloud auth application-default login
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![portal](../Images/43ef66ada5cf2309993303686625a1ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qg40nozA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l5apccjuzek0bae25rzq.PNG)
+[![portal](img/43ef66ada5cf2309993303686625a1ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qg40nozA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l5apccjuzek0bae25rzq.PNG)
 
 就是这样。够简单吗？嗯，事实上并不尽然...
 
@@ -336,11 +336,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 2.添加新项目。
 
-[![test](../Images/9a480b73845f1c0b987dd5ebe9568139.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C9ba232V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tf72q7n68vdqvmbh68d9.PNG)
+[![test](img/9a480b73845f1c0b987dd5ebe9568139.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C9ba232V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tf72q7n68vdqvmbh68d9.PNG)
 
 3.转到[谷歌云控制台](https://console.cloud.google.com)并导航到数据存储。您可以看到创建了一个记录。
 
-[![portal](../Images/203dbfb4511b1dbd329700ca936e9645.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FoIB5Ki1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m1haybpb5ojx0p3a2y8z.PNG)
+[![portal](img/203dbfb4511b1dbd329700ca936e9645.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FoIB5Ki1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m1haybpb5ojx0p3a2y8z.PNG)
 
 4.尝试更新和删除。
 
@@ -409,7 +409,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 理论上，这应该行得通，但事实并非如此。也许作为 GCP 的一部分加载的 NuGet 包可能会导致该问题。
 
-[![error](../Images/163616c53a66afa256a9d448d94c515d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gcf1L6N6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xzlpf2qxt7g9iccsk50b.PNG)
+[![error](img/163616c53a66afa256a9d448d94c515d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gcf1L6N6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xzlpf2qxt7g9iccsk50b.PNG)
 
 # 资源管理器工具
 
@@ -418,13 +418,13 @@ Enter fullscreen mode Exit fullscreen mode
 ## 按种类查询
 
 我可以添加过滤器来快速查询实体列表中的数据。
-[![portal](../Images/e06f8fa7c07fafaaf1fcae0925e46ee2.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--dA5JqQ9i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kxcjiqztx6al1gp8r0hv.PNG)
+[![portal](img/e06f8fa7c07fafaaf1fcae0925e46ee2.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--dA5JqQ9i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kxcjiqztx6al1gp8r0hv.PNG)
 
 ## 按 GQL 查询
 
 我也可以编写类似查询的 SQL。
 
-[![portal](../Images/aee5250f0b50885c9235f7243cea407a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y-KMEmmM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4msb64axe03uc4kb71fl.PNG)
+[![portal](img/aee5250f0b50885c9235f7243cea407a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y-KMEmmM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4msb64axe03uc4kb71fl.PNG)
 
 # 总结
 

@@ -4,7 +4,7 @@
 
 敏捷来自实践，而不是纸上谈兵。使用吉拉不会让你的软件开发过程变得敏捷。说我们做“scrum”不是敏捷。敏捷就是拥有敏捷的思维方式，并每天付诸实践。它是关于思考你向客户提供的价值以及如何做得更好。这篇文章也将揭示这 5 个标志以及如何解决这些问题。迹象和解决方案将涉及多个角色，如产品经理、软件工程师等。
 
-[![5 Signs That Reveal Your Software Development Process Is Agile Only on Paper and Solutions for Them](../Images/22dedb3d10ec39f049af04f9ec34a74d.png "5 Signs That Reveal Your Software Development Process Is Agile Only on Paper and Solutions for Them")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LabD7hUu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://geshan.com.np/images/5-signs-agile-on-paper/board.jpg)
+[![5 Signs That Reveal Your Software Development Process Is Agile Only on Paper and Solutions for Them](img/22dedb3d10ec39f049af04f9ec34a74d.png "5 Signs That Reveal Your Software Development Process Is Agile Only on Paper and Solutions for Them")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LabD7hUu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://geshan.com.img/5-signs-agile-on-paper/board.jpg)
 
 ## TLDR；
 

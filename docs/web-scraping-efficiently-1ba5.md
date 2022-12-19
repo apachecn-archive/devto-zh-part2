@@ -4,7 +4,7 @@
 
 Web 抓取是访问应用程序可能需要的数据的一种有用(而且非常酷)的方式。有时，您可能需要一些 API 或数据库中没有提供的非常具体的东西。今天，我们将对此进行调整，通过使用 python 中的一些异步库来使它更快，从而使它变得更酷！
 
-[![img](../Images/5b06fe257f43bfbf48f3d37058d69c5d.png)T2】](https://i.giphy.com/media/13WpPwlMpUJiOA/giphy.gif)
+[![img](img/5b06fe257f43bfbf48f3d37058d69c5d.png)T2】](https://i.giphy.com/media/13WpPwlMpUJiOA/giphy.gif)
 
 我们将使用以下内容:
 
@@ -33,7 +33,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 所以标签、文章名称、用户和日期。我认识这个人，所以他同意我这样宣传他的文章；)
 
-[![davidisrawi](../Images/8747ff47997e395903d7435b35f12aa4.png)](/davidisrawi) [## 用 Python 和 NLTK 构建一个快速摘要器
+[![davidisrawi](img/8747ff47997e395903d7435b35f12aa4.png)](/davidisrawi) [## 用 Python 和 NLTK 构建一个快速摘要器
 
 ### 大卫伊斯拉维 8 月 17 日 174 分钟阅读
 
@@ -51,7 +51,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 异步过程的一个很好的类比是，想象你上班迟到了，所以你把华夫饼放入烤面包机(开始请求 1)，在你按下开始后，你继续刷牙(开始请求 2)，同时等待你的华夫饼完成。嘣，异步华夫饼。
 
-[![img](../Images/7c3666d1513bf43b6e900a05ea37297d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pRailTua--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/7770092fe0af9ce56e8f0dd9e0142f1c/tenor.gif)
+[![img](img/7c3666d1513bf43b6e900a05ea37297d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pRailTua--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.cimg/7770092fe0af9ce56e8f0dd9e0142f1c/tenor.gif)
 
 <center>Let's get started!</center>
 
@@ -127,7 +127,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 lstrip()和 rstrip()删除了开头和结尾的空格。
 
-[![img](../Images/100750537a9f129d5651bfa08bd77d65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--01ft1lG6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://s15.postimg.cc/3uh5bnz2j/giphy.gif)
+[![img](img/100750537a9f129d5651bfa08bd77d65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--01ft1lG6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://s15.postimg.cc/3uh5bnz2j/giphy.gif)
 
 对于名称、日期和标签，过程是相同的。
 

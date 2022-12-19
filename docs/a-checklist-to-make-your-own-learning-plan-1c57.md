@@ -21,7 +21,7 @@
 *   ☐给你的时间表安排了充足的时间用于**练习**和间隔**重复**。你应该计划至少两到三次重温每一个单元，在你学习的时候间隔一段时间。[6.1/6.4]
 *   ☐想办法在你学习的时候获得专家或同行的反馈。这可能意味着找一个你已经认识的人每周给你反馈。或者找个网上论坛。这个人或者社区也可以帮助你**坚持**你的计划。[8.1/8.3]
 
-[![](../Images/c3913afa0acdbb34f1bf8256947f16ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cf4BTt-V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://heiskr.com/images/chk-2.jpeg)
+[![](img/c3913afa0acdbb34f1bf8256947f16ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cf4BTt-V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://heiskr.cimg/chk-2.jpeg)
 
 ## 开始学习之前
 
@@ -34,7 +34,7 @@
 *   ☐在学习前对内容或形式做出选择。[5]
 *   ☐将你的会话限制在大约 30 分钟到 1 小时之间。经常休息！
 
-[![](../Images/4e19b2927c608899680dfb5e708e2deb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qI8vHhr_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://heiskr.com/images/chk-3.jpeg)
+[![](img/4e19b2927c608899680dfb5e708e2deb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qI8vHhr_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://heiskr.cimg/chk-3.jpeg)
 
 ## 趁着学习
 
@@ -42,7 +42,7 @@
 *   ☐随着你的学习，**将你正在学习的**和你已经知道的*联系起来。[3.3]*
 **   ☐留在了挑战的中间。如果太*难*，复习你已经知道的，分解你正在学习的。如果太*容易*，跳过前面。[1.2/3.2]*   ☐ **脚手架**。在尝试更难的问题之前，先解决更简单的问题。在尝试创建一个完整的项目之前，先做单独的练习。[3.2]*   ☐找到**个例子**。你可以找到一个演示这个想法的视频。[7.3]*   ☐测试你的组织知识。**画出**概念之间的关系。[4.3]*   ☐得到**反馈**。利用你的专家或同事来帮助确保你的学习是有任务的。消除任何误解，用这个人来测试你学到了什么。[8.1]*   ☐当你觉得你已经学会了内容，更新你的**进度**可视化。[2.3]*
 
- *[![](../Images/25d975bcf7e7fc36dbe1916710d18f99.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ytq_BAeU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://heiskr.com/images/chk-4.jpeg)
+ *[![](img/25d975bcf7e7fc36dbe1916710d18f99.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ytq_BAeU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://heiskr.cimg/chk-4.jpeg)
 
 ## 每周进行回顾
 

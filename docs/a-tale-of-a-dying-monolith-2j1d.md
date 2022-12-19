@@ -4,7 +4,7 @@
 
 ### 一个垂死巨石的故事:替换简单事物的复杂性
 
-[![](../Images/4cd4508a2d6e8e90c77e97e4bf30cbe6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pNyTcfXc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AD6ltU71DfGMyGkYGPaeBYA.jpeg) 
+[![](img/4cd4508a2d6e8e90c77e97e4bf30cbe6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pNyTcfXc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AD6ltU71DfGMyGkYGPaeBYA.jpeg) 
 
 <figcaption>照片由[托尔·阿尔维斯](https://unsplash.com/photos/wgjG86EuubE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)于 [Unsplash](https://unsplash.com/@terminath0r?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 
@@ -18,7 +18,7 @@
 
 CakePHP 应用程序与来自外部系统的数据进行交互。这是应用程序中大多数实体的真实来源。两个系统紧密耦合，通过数据库表共享数据。
 
-[![](../Images/8d10e4d2f003126ede54db159b7b49b8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QoAOWD-k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ad-yytiQAYljF5Y8zoa9h6g.png) 
+[![](img/8d10e4d2f003126ede54db159b7b49b8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QoAOWD-k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ad-yytiQAYljF5Y8zoa9h6g.png) 
 
 <figcaption>CakePHP Monolith 通过数据库与外部系统紧密耦合。</figcaption>
 
@@ -30,7 +30,7 @@ CakePHP 应用程序与来自外部系统的数据进行交互。这是应用程
 
 我说服我的朋友让我开始围绕这个项目进行实验。我开始 [*扼死*](https://www.martinfowler.com/bliki/StranglerApplication.html) 这块巨石。经过几次迭代后，最终的架构如下:
 
-[![](../Images/cbf870704f04dea5b6f1c33f7e67a3da.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CqDq3gF3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A3Rw5Hd7AFof_Uq7fOA3ACw.png) 
+[![](img/cbf870704f04dea5b6f1c33f7e67a3da.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CqDq3gF3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A3Rw5Hd7AFof_Uq7fOA3ACw.png) 
 
 <figcaption>新的堆栈——一个高度解耦的架构，带有一个无头 CMS、一个外部搜索引擎和实时 API。</figcaption>
 
@@ -61,7 +61,7 @@ CakePHP 应用程序与来自外部系统的数据进行交互。这是应用程
 
 我把蛋糕的前端保持原样。保持它作为渲染引擎意味着在前端不需要额外的工作。将来，他们希望将迁移到 VueJS 或 React。
 
-[![](../Images/63a7231818d2b73c8add01e5970be230.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EQHbfP72--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AEQuvgF_2UDjHO-HeVULang.png)
+[![](img/63a7231818d2b73c8add01e5970be230.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EQHbfP72--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AEQuvgF_2UDjHO-HeVULang.png)
 
 <figcaption>pris mic 中的建模内容(样本数据模型)</figcaption>
 
@@ -69,7 +69,7 @@ CakePHP 应用程序与来自外部系统的数据进行交互。这是应用程
 
 根据以前的经验，数据迁移总是需要大量的工作。在这种情况下，不需要进行数据迁移。
 
-[![](../Images/48e9d53db8c1e1944b40e10243afba83.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7S8BK7SC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AiQzHdPP6blK8mjp8PSLCpg.png) 
+[![](img/48e9d53db8c1e1944b40e10243afba83.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7S8BK7SC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AiQzHdPP6blK8mjp8PSLCpg.png) 
 
 <figcaption>来自 Prismic 的 API 的 JSON 响应(来自上面的同一个模型)。</figcaption>
 
@@ -77,13 +77,13 @@ CakePHP 应用程序与来自外部系统的数据进行交互。这是应用程
 
 与 Algolia 合作轻而易举。它运行速度极快，而且易于使用。拥有一个事件驱动的架构被证明是非常有益的。API 上的事件使用 [NodeJS 的客户端](https://www.algolia.com/doc/api-client/javascript/getting-started/)异步索引数据。
 
-[![](../Images/ae83eff786f7ba1b6b7529ebed8d2a91.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oHWjFzQU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AX4KslL8YmYKF3SawbqT17Q.png) 
+[![](img/ae83eff786f7ba1b6b7529ebed8d2a91.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oHWjFzQU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AX4KslL8YmYKF3SawbqT17Q.png) 
 
 <figcaption>搜索响应时间——极快，不到 10ms。</figcaption>
 
 几毫秒后，所有应用程序上的搜索功能将反映这些变化，并显示(或隐藏)相同的结果。PHP、Swift 和 Java 的 SDK 使集成变得容易。
 
-[![](../Images/d642d3b1f7ac40f0080037cc235a2b42.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pt8E4GSf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A2yPg3LOAVmbuDrkwsHQ-AA.png) 
+[![](img/d642d3b1f7ac40f0080037cc235a2b42.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pt8E4GSf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A2yPg3LOAVmbuDrkwsHQ-AA.png) 
 
 <figcaption>搜索操作—平均每月 88k 次操作。</figcaption>
 
@@ -95,11 +95,11 @@ CakePHP 应用程序与来自外部系统的数据进行交互。这是应用程
 
 CakePHP 应用已经被部署到 AWS 上的 EC2 实例中。我只需要自动化这个过程(并添加[原子部署](https://buddy.works/blog/introducing-atomic-deployments))。
 
-[![](../Images/62b963a8d67b4fdd1c44546515d411a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IDWk_0Pd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ApR3dB9EC9KU3wPsyfJGKTw.png)
+[![](img/62b963a8d67b4fdd1c44546515d411a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IDWk_0Pd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ApR3dB9EC9KU3wPsyfJGKTw.png)
 
 FeathersJS 应用部署到云上，Zeit 的[现在是](https://zeit.co/now)。一种面向不可变基础设施的服务，使快速部署功能变得简单而没有麻烦(或恐惧)。
 
-[![](../Images/4c8e278e9a71b7e0a3df75b215a004ac.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QjlaQwhr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AJ1bKV4gUxhpNxCa8mdFo8w.png) 
+[![](img/4c8e278e9a71b7e0a3df75b215a004ac.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QjlaQwhr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AJ1bKV4gUxhpNxCa8mdFo8w.png) 
 
 <figcaption>NodeJS 部署管道同现在</figcaption>
 
@@ -107,7 +107,7 @@ FeathersJS 应用部署到云上，Zeit 的[现在是](https://zeit.co/now)。�
 
 如果一切正常，最后一步将把当前部署命名为后端的公共 DNS 名称，它将自动开始接收实时流量。它还会自动缩放应用程序，并确保它在所有可用的[区域](https://zeit.co/cdn)运行。
 
-[![](../Images/4997914333c379a724b72170eba645bb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AsaBIAj---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AytMmI0AOgDf36g9zmuXNxQ.png) 
+[![](img/4997914333c379a724b72170eba645bb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AsaBIAj---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AytMmI0AOgDf36g9zmuXNxQ.png) 
 
 <figcaption>现在规模</figcaption>
 
@@ -123,13 +123,13 @@ MySQL 数据库生活在亚马逊的 RDS 上。RethinkDB 数据库托管在 [*co
 
 我安装了后端和管道。
 
-[![](../Images/835ab70cb0b95a102ee43eafd2a13070.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DzB7sUJk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AR902TgSBNMZ_ipuhWT69PA.png) 
+[![](img/835ab70cb0b95a102ee43eafd2a13070.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DzB7sUJk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AR902TgSBNMZ_ipuhWT69PA.png) 
 
 <figcaption>每秒请求(紫色)和从 GitHub 释放(蓝色)。</figcaption>
 
 Feathers 在幕后使用 ExpressJS，所以我只需为 NodeJS 添加它们的 [beeline，HTTP 请求就可以开箱即用了。](https://www.honeycomb.io/blog/2018/05/the-fastest-most-direct-route-to-instrumented-code-a-honeycomb-beeline/)
 
-[![](../Images/cf9ea461bb822e802fa0cefd1eb5e166.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9OrHqlWt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/868/1%2AxAwhcEaIseApND9I0t4uig.png) 
+[![](img/cf9ea461bb822e802fa0cefd1eb5e166.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9OrHqlWt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/868/1%2AxAwhcEaIseApND9I0t4uig.png) 
 
 <figcaption>NodeJS 蜂巢直线</figcaption>
 

@@ -4,7 +4,7 @@
 
 *原文发表[此处](https://www.bennettdungan.com/2018/06/23/building-my-first-app-the-process/)T3】*
 
-[![](../Images/fdbf69e0bb3cae709f59299439aa3b19.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mHYIW3Ok--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hbwiwjji3huy3669bon4.jpg)
+[![](img/fdbf69e0bb3cae709f59299439aa3b19.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mHYIW3Ok--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hbwiwjji3huy3669bon4.jpg)
 
 ###### 【weeblytutorials.com】图片来源-图片来源
 
@@ -31,7 +31,7 @@
 
 所以我突然想到，如果我只是做一个 Chrome 扩展来满足这些需求会怎么样？这个应用程序本质上所做的就是获取一个字符串，修改它，然后在输出框中返回修改后的字符串。简单对吗？嗯，算是吧...
 
-[![](../Images/f8e6a25c0e838380f6b7970d162878c5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qMNSi_ep--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4rs1b14cpq6k055c2a8k.jpg) 我研究了创建一个 Chrome 扩展需要什么，发现我应该主要使用 Javascript。让我选择 Chrome 扩展的一个原因是:A)我可以在 Adwords 的同一个窗口中使用这个扩展，B)不需要后端/服务器端编码。我很少看到有人向新手建议创建一个 Chrome 扩展，但这是向世界推出我的简单应用程序的最简单、最直接的平台。
+[![](img/f8e6a25c0e838380f6b7970d162878c5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qMNSi_ep--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4rs1b14cpq6k055c2a8k.jpg) 我研究了创建一个 Chrome 扩展需要什么，发现我应该主要使用 Javascript。让我选择 Chrome 扩展的一个原因是:A)我可以在 Adwords 的同一个窗口中使用这个扩展，B)不需要后端/服务器端编码。我很少看到有人向新手建议创建一个 Chrome 扩展，但这是向世界推出我的简单应用程序的最简单、最直接的平台。
 
 好了，我事先掌握了少量的 JS 知识，但我知道我真的需要温习一下基础知识。因此，我参加了一个被强烈推荐的关于 watchandcode.com 的课程，这个课程教会了我这些基本概念:
 
@@ -46,7 +46,7 @@
 
 过了好几个月，我的第一个小应用，关键词修改器，在 Chrome 网上商店诞生了！
 
-[![](../Images/15f0b1d79713c5bd85dd756a3a941770.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--52RnXlQj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zlgq2evuox6ek0lqq13e.jpg) 
+[![](img/15f0b1d79713c5bd85dd756a3a941770.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--52RnXlQj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zlgq2evuox6ek0lqq13e.jpg) 
 这里是我最初推出的第一个版本的链接。https://github.com/Beznet/keyword-mod:[。
 经过一些重构和增加功能后，它现在变得更整洁了，所以如果你今天下载它](https://github.com/Beznet/keyword-mod)，你会看到它的一些小变化[。](https://chrome.google.com/webstore/detail/keyword-modifier/dhpaponoajbgfahgmcbchndpjbooapog?hl=en)
 

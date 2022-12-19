@@ -20,11 +20,11 @@
 
 所以所有的理论都到位了，剩下要做的就是创建不同分辨率的应用图标。我该怎么做？我不是平面设计师。我不想使用在线工具，然后手动将生成的文件下载到我的项目中。我不想使用现成的解决方案，它有十几个依赖项，输出大量文件，你需要手动检查和挑选。见鬼，我是一名 web 开发人员，一定有更好的方法来改变这一点:
 
-[![PWA icon](../Images/e2fa7882cba3ede43619033d7319ba68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--979NA3eM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/29elzout5l42wr7tr214.png)
+[![PWA icon](img/e2fa7882cba3ede43619033d7319ba68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--979NA3eM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/29elzout5l42wr7tr214.png)
 
 ...变成这样:
 
-[![PWA splash image](../Images/7a4f56e5ac09239377ba517a2e1f1ffd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BGpK_Z5V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j6lrv3tue1egy3aoo160.png)
+[![PWA splash image](img/7a4f56e5ac09239377ba517a2e1f1ffd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BGpK_Z5V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j6lrv3tue1egy3aoo160.png)
 
 然后我就想到了！这些具有各种长宽比和分辨率的**图形只不过是非常简单的响应网页**和一个图像(分别为 SVG)。幸运的是，我在开始的时候创建了一个矢量图形的标志。
 
@@ -87,6 +87,6 @@ sizes.map(item => {
 
 一个 SVG，一个 HTML，一个节点脚本和一个本地安装的 NPM 包。这就是生成大量 PWA 图形所需的全部内容:
 
-[![PWA graphics](../Images/b64d6ee40ebff4756ee5de6b10af909d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--29XVOsyS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h180kbeceu28sgn1xs8o.png)
+[![PWA graphics](img/b64d6ee40ebff4756ee5de6b10af909d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--29XVOsyS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h180kbeceu28sgn1xs8o.png)
 
 感谢阅读！由于这是我在这个可爱的社区的第一篇帖子，我将感谢任何反馈。祝大家黑得开心！

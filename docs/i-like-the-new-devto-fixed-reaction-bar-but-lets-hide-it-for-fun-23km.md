@@ -4,7 +4,7 @@
 
 我觉得这很酷:
 
-[![ben image](../Images/fe64a787b888dfb20fc13ad1e466da3d.png)](/ben) [## Changelog:帖子操作 UI 更改
+[![ben image](img/fe64a787b888dfb20fc13ad1e466da3d.png)](/ben) [## Changelog:帖子操作 UI 更改
 
 ### 本哈尔彭 9 月 13 日 181 分钟阅读
 
@@ -16,7 +16,7 @@
 
 现在让我们利用这一点来实现这一点:
 
-[![](../Images/111bb60176f0110690ca96db42dedfdc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CI1CpmcJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yfwyss8z96a9im79s69g.gif)
+[![](img/111bb60176f0110690ca96db42dedfdc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CI1CpmcJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yfwyss8z96a9im79s69g.gif)
 
 *与[https://getkap.co/](https://getkap.co/)T3】成为可能*
 

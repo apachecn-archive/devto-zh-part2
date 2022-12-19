@@ -6,7 +6,7 @@
 
 有时任务描述是一行程序，你可以根据自己的喜好进行解释。所以，这篇文章将帮助你解决这个问题，在给定一个任务的情况下，你如何计划将它分成**个独立发布就绪的**部分。不考虑语言和框架，软件设计和架构在你的软件生命中扮演着重要的角色，需要一个强大的基础来构建一个更持久的软件系统。
 
-[![How to split a new feature into independent (release ready) parts before coding it](../Images/cdcc590a08fb33b2a11ef7e5fad964c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--phW1PDNF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2Ar3wid07Aub-BaBUA.jpg)
+[![How to split a new feature into independent (release ready) parts before coding it](img/cdcc590a08fb33b2a11ef7e5fad964c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--phW1PDNF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2Ar3wid07Aub-BaBUA.jpg)
 
 ## 一些假设
 
@@ -34,7 +34,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 那你是怎么做的呢？
 
-[![How to split a new feature into independent (release ready) parts before coding it](../Images/0985b9d57f3a81d45e632aebb11b1b21.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LXUJ26KJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3026/0%2Awl5sY2BxUMcz4tey.jpg)
+[![How to split a new feature into independent (release ready) parts before coding it](img/0985b9d57f3a81d45e632aebb11b1b21.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LXUJ26KJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3026/0%2Awl5sY2BxUMcz4tey.jpg)
 
 ## 认为积垢
 

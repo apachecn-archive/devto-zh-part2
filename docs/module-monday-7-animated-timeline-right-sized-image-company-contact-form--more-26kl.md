@@ -14,30 +14,30 @@
 
 添加和编辑事件来讲述您的故事。
 [查看 mod](https://anymod.com/mod/nmnko?v=30)
- [![](../Images/3848f16dddce93552bd643a4390ce83e.png)](https://anymod.com/mod/nmnko?v=30) 
+ [![](img/3848f16dddce93552bd643a4390ce83e.png)](https://anymod.com/mod/nmnko?v=30) 
 
 ### 大小合适的图像
 
 由屏幕尺寸决定的图像分辨率:用于高质量和快速的移动下载。
 [查看 mod](https://anymod.com/mod/kbadr?v=20)
- [![](../Images/11baac3309ee1ca6244d9e53202c0e60.png)](https://anymod.com/mod/kbadr?v=20) 
+ [![](img/11baac3309ee1ca6244d9e53202c0e60.png)](https://anymod.com/mod/kbadr?v=20) 
 
 ### 公司联系方式
 
 自动工作:公司联系你的简单方法。
 [查看 mod](https://anymod.com/mod/lraln?v=30)
- [![](../Images/7b9d2abdbe795287b3946efcfcbfac2e.png)](https://anymod.com/mod/lraln?v=30) 
+ [![](img/7b9d2abdbe795287b3946efcfcbfac2e.png)](https://anymod.com/mod/lraln?v=30) 
 
 ### 推特跟随按钮
 
 添加您的用户名，然后就完成了。
 [查看 mod](https://anymod.com/mod/mlbao?h1=1&h2=1)
- [![](../Images/0db50ec29793258ae6cb3d65b1c08320.png)](https://anymod.com/mod/mlbao?h1=1&h2=1) 
+ [![](img/0db50ec29793258ae6cb3d65b1c08320.png)](https://anymod.com/mod/mlbao?h1=1&h2=1) 
 
 ### 带链接的基本卡片
 
 一个简单的文本卡片，有可编辑的内容和链接。
- [![](../Images/ba5d32b5551ed7dfa023906c88bb9503.png)
+ [![](img/ba5d32b5551ed7dfa023906c88bb9503.png)
 T8】](https://anymod.com/mod/enbmb?h1=50&h2=100&v=20)
 
 * * *

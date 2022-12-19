@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kristiandupont/mutable-state-is-to-software-as-moving-parts-are-to-hardware-562g>
 
-<figure>[![](../Images/585a793c6cf00bb507f3a38ac1d9d035.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--baIc0jBN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AaXBsF84bXpk_xOifUVrE8w.jpeg) 
+<figure>[![](img/585a793c6cf00bb507f3a38ac1d9d035.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--baIc0jBN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AaXBsF84bXpk_xOifUVrE8w.jpeg) 
 
 <figcaption>照片由[比尔牛津](https://unsplash.com/@bill_oxford?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)上 [Unsplash](https://unsplash.com/s/photos/gears?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 

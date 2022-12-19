@@ -4,7 +4,7 @@
 
 你好。欢迎来到 dev.to！
 
-[![Loop of fist bumps](../Images/63e18527abaf42aeb0024024b4940141.png)T2】](https://i.giphy.com/media/SVOJLoumYI7Is/giphy-downsized.gif)
+[![Loop of fist bumps](img/63e18527abaf42aeb0024024b4940141.png)T2】](https://i.giphy.com/media/SVOJLoumYI7Is/giphy-downsized.gif)
 
 # 欢迎光临！
 

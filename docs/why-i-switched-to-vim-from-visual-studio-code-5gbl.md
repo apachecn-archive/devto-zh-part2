@@ -14,7 +14,7 @@
 
 ### 崇高的文字
 
-[![Sublime Text Editor on a Macbook](../Images/c52b58c650fe6c8cfbf8419593723a08.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AyqGMwBk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freshman.tech/assets/images/vim/sublime.jpg)
+[![Sublime Text Editor on a Macbook](img/c52b58c650fe6c8cfbf8419593723a08.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AyqGMwBk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freshman.tech/asseimg/vim/sublime.jpg)
 
 我用的第一个编辑器是[崇高文字 3](https://www.sublimetext.com/) 。我之所以选择它，是因为当时它在 web 开发人员中非常流行，大多数教程都推荐它作为初学者友好的选择。
 
@@ -34,7 +34,7 @@ Vim 肯定更难开始，虽然我能够学习基础知识，但我不明白为�
 
 ### Atom
 
-[![Atom Text Editor on a Macbook](../Images/b0f0a38ad4f1724040c19d4d33a468cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OA7PZRjH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freshman.tech/assets/images/vim/atom.jpg)
+[![Atom Text Editor on a Macbook](img/b0f0a38ad4f1724040c19d4d33a468cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OA7PZRjH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freshman.tech/asseimg/vim/atom.jpg)
 
 从 Sublime 切换到 Atom 并不困难，因为 Atom 很大程度上受到 Sublime 的启发，所以它们有很多共同点，这让我很容易开始使用它。
 
@@ -58,7 +58,7 @@ Vim 肯定更难开始，虽然我能够学习基础知识，但我不明白为�
 
 从 Atom 切换到 VS 代码并不像从 Sublime 切换到 Atom 那样无缝。这部分是因为界面有点不同，我花了一些时间来适应。
 
-[![A package.json file open in Visual Studio Code](../Images/efb8a8fb934b497d04e81fafed7b8b8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U1Dfe1xC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freshman.tech/assets/images/vim/vscode.jpg)
+[![A package.json file open in Visual Studio Code](img/efb8a8fb934b497d04e81fafed7b8b8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U1Dfe1xC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freshman.tech/asseimg/vim/vscode.jpg)
 
 默认的键绑定也与我习惯的 Atom 有很大不同。这个问题可以通过安装一个扩展来轻松解决，这个扩展将键绑定重新映射到 Atom 的键绑定，从而稍微减轻了我的过渡。
 

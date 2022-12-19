@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/brandonweiss/discharge-a-simple-easy-way-to-deploy-static-websites-to-amazon-s3-2b19>
 
-[![](../Images/8c092da029f64286941478ad4444d16b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W7M3w81_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nma5ir3der6n1ujqw16s.png)
+[![](img/8c092da029f64286941478ad4444d16b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W7M3w81_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nma5ir3der6n1ujqw16s.png)
 
 据我所知，将静态网站部署到亚马逊 S3 是最简单的方法。我花了几个小时仔细阅读 AWS 糟糕的文档，这样别人就不用看了。
 

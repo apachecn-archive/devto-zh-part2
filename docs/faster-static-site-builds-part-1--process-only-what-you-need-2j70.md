@@ -18,7 +18,7 @@
 
 为什么构建时间一开始就增加了这么多？几个月前，我遇到了 SQIP。SQIP 是由 [Tobias Baldauf](https://twitter.com/tbaldauf) 开发的一个新工具，可以使用原语生成漂亮的 SVG 占位符图像。这些占位符可以提高延迟加载图像的感知性能。Primitive 检查图像并生成 SVG，这些 SVG 用原始形状来表示图像，当您应用模糊效果时，这些原始形状看起来非常好。
 
-[![Sqip image preview in 3 stages - shapes, blurred and loaded](../Images/f7e6577ac0d0ee3167dfe6ac3603e325.png "Sqip image preview in 3 stages - shapes, blurred and loaded")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oXRpJOSa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/2nzwoS95GsCkCaay624Ske/f0a81353f0d00e0b6c12fea9bf5e0204/Screen_Shot_2018-05-03_at_17.23.10____.png)
+[![Sqip image preview in 3 stages - shapes, blurred and loaded](img/f7e6577ac0d0ee3167dfe6ac3603e325.png "Sqip image preview in 3 stages - shapes, blurred and loaded")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oXRpJOSa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/2nzwoS95GsCkCaay624Ske/f0a81353f0d00e0b6c12fea9bf5e0204/Screen_Shot_2018-05-03_at_17.23.10____.png)
 
 使用这些漂亮的预览图像，用户知道当图像加载开始时会发生什么，这比微调器或随机加载图形会带来更好的用户体验。
 
@@ -211,7 +211,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 但是，当它在 Netlify 上运行时，脚本执行可能需要 5 到 7 分钟，因此构建时间大约为上述的 10 分钟。
 
-[![Netlify build overview showing builds with 10 minutes build time](../Images/dbffe51df9d4b626fa3a780e328b889c.png "Netlify build overview showing builds with 10 minutes build time")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--57MY61Ep--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/3Hl0AfIIreIYEQka20wQm8/c2bdb8d64b291d6106190ebd59f58a60/Screen_Shot_2018-05-03_at_17.46.43____.png)
+[![Netlify build overview showing builds with 10 minutes build time](img/dbffe51df9d4b626fa3a780e328b889c.png "Netlify build overview showing builds with 10 minutes build time")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--57MY61Ep--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/3Hl0AfIIreIYEQka20wQm8/c2bdb8d64b291d6106190ebd59f58a60/Screen_Shot_2018-05-03_at_17.46.43____.png)
 
 重复再生不是最佳方法。有了这个脚本，每一次构建都要做同样的繁重工作——一遍又一遍。每当您重复操作时，可能是图像优化或其他需要几分钟的大量计算，是时候改进了。
 
@@ -295,7 +295,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 有了改进的脚本,我可以避免重复计算，并且在我的本地机器和 Netlify 上，用满缓存重复构建的时间甚至减少到不到一秒钟！
 
-[![QUIP image preview with shapes next to the real image](../Images/8dcf4eb9c2344ea8c084d0fc5383a40f.png "QUIP image preview with shapes next to the real image")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1guSsbC0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/3XZ502E8rm6KsKsI4OMsAU/952c2161d63abe9732f6d06d79488f61/gallery-preview.jpg)
+[![QUIP image preview with shapes next to the real image](img/8dcf4eb9c2344ea8c084d0fc5383a40f.png "QUIP image preview with shapes next to the real image")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1guSsbC0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/3XZ502E8rm6KsKsI4OMsAU/952c2161d63abe9732f6d06d79488f61/gallery-preview.jpg)
 
 如果你想玩玩它，[提供的要点](https://gist.github.com/stefanjudis/3402288b9970d161b5da5f62caf0db66)包括你需要生成和缓存漂亮的图像预览和一个内容丰富的例子空间。
 

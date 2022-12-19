@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/pbnj/kubernetes-security-best-practices-hlk>
 
-[![cargo ship](../Images/7e50b9cbf04b9a2e31cbfed6da6daf29.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1wHwhagU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.logisticsmgmt.com/images/LM1710_SUP_Ocean_wideImage2.jpg)
+[![cargo ship](img/7e50b9cbf04b9a2e31cbfed6da6daf29.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1wHwhagU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.logisticsmgmt.cimg/LM1710_SUP_Ocean_wideImage2.jpg)
 
 ## 目录
 

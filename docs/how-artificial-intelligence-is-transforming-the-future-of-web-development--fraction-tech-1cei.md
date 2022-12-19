@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/fractiontech/how-artificial-intelligence-is-transforming-the-future-of-web-development--fraction-tech-1cei>
 
-[![](../Images/9470b0efd3540ff3a5a7c1f66e49ced3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0humGHys--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2As8u0P6e757rW8OvGQ748Pw.jpeg)
+[![](img/9470b0efd3540ff3a5a7c1f66e49ced3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0humGHys--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2As8u0P6e757rW8OvGQ748Pw.jpeg)
 
 [**Web 开发**](http://www.fraction.tech/services/web-development) 是一个有规律进化的领域。客户可靠地搜索丰富的接触和定制的内容。最后，他们所需要的是一个敏锐的网络应用程序，它能传达高度变化的客户接触。尽管如此，这给*的 web 开发人员*带来了一个测试工作，因为 *web 开发*中的传统方法并不能解决这个问题。随后，利用人工智能和相关设备可以更好的事情。
 
@@ -12,7 +12,7 @@
 
 机器学习是人工智能的一个分支，它为面对面的机器合作提供了另一个有利的位置。如果没有学习能力，应用程序将在许多情况下类似地处理一个问题，并且在没有根据相关知识改变或改进安排的情况下犯类似的错误。
 
-[![](../Images/da3e2bd3abbdfdb9343cc6a4c24a6f27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--scFdbQTW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/650/1%2Awm9tW97xLP2GfJqQefoFpA.jpeg)
+[![](img/da3e2bd3abbdfdb9343cc6a4c24a6f27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--scFdbQTW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/650/1%2Awm9tW97xLP2GfJqQefoFpA.jpeg)
 
 机器学习是一项赋权的创新，它允许 web 应用程序在一段时间后通过观察并从客户的倾向、特征和倾向中获得信息来进行调整。因为应用程序变得更加敏捷，所以客户体验增强了。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/arasheedu/philomath-is-making-progress-2hc4>
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)[【arasheedu】](https://github.com/arasheedu)/[【Philo th】](https://github.com/arasheedu/philomath)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)[【arasheedu】](https://github.com/arasheedu)/[【Philo th】](https://github.com/arasheedu/philomath)
 
 ### Philomath 帮助您索引您的机器上的书签所指向的网站，然后搜索和定位包含指定关键字的书签。
 
@@ -10,7 +10,7 @@
 
 # 菲洛马
 
-[![](../Images/2e0ff7b845963ebbceafebe0c5d93d7b.png)T2】](https://github.com/arasheedu/philomath/blob/master/docs/utopia.gif)
+[![](img/2e0ff7b845963ebbceafebe0c5d93d7b.png)T2】](https://github.com/arasheedu/philomath/blob/master/docs/utopia.gif)
 
 Philomath 帮助你在你的机器上索引你的书签，这样它们可以很容易地用关键字搜索，以便以后参考和回忆。在网络上快速变化的搜索结果中，你有多少次再次寻找相同的网页而没有运气。有了 philomath，索引和引用你最关心的网络文章变得更加容易。
 

@@ -55,25 +55,25 @@ Increasing adapt_delta above 0.8 may help.
 
 这到底意味着什么？哈密顿量是后验密度和辅助动量参数的函数。辅助参数通过构造表现良好，所以问题几乎总是在后验密度。请记住，由于数值原因，斯坦使用后验密度的对数(也称为:`log_prob`、`__lp`和`target`)。NUTS 采样器每次迭代执行几个离散步骤，并由密度梯度引导。经过一些简化，采样器假设当前点的对数密度近似为线性，即参数的微小变化将导致对数密度的微小变化。如果步长足够小，这个假设大致正确。让我们在一维示例中查看两种不同的步长:
 
-[![](../Images/d2c1b7d18f8a6b81cdcc41964823910a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--P5HkP7eR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.martinmodrak.cz/post/2018-03-01-strategies-for-diverging-stan-models_files/figure-html/unnamed-chunk-1-1.png) 采样器从红点开始，黑线是对数密度，洋红色线是梯度。当向右移动 0.1 时，采样器预计对数密度线性下降(绿色三角形)，尽管实际对数密度下降更多(绿色正方形)，但差异很小。但是当向右移动 0.4 时，预期值(蓝色十字)和实际值(粉色十字方块)之间的差异会变得更大。这是一种类似的巨大差异，被视为背离。在预热过程中，Stan 会尝试将步长调整得足够小，以避免出现发散，但又要调整得足够大，以提高采样效率。但是如果参数空间表现不好，这可能是不可能的。为什么？无畏的读者，继续读下去。
+[![](img/d2c1b7d18f8a6b81cdcc41964823910a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--P5HkP7eR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.martinmodrak.cz/post/2018-03-01-strategies-for-diverging-stan-models_files/figure-html/unnamed-chunk-1-1.png) 采样器从红点开始，黑线是对数密度，洋红色线是梯度。当向右移动 0.1 时，采样器预计对数密度线性下降(绿色三角形)，尽管实际对数密度下降更多(绿色正方形)，但差异很小。但是当向右移动 0.4 时，预期值(蓝色十字)和实际值(粉色十字方块)之间的差异会变得更大。这是一种类似的巨大差异，被视为背离。在预热过程中，Stan 会尝试将步长调整得足够小，以避免出现发散，但又要调整得足够大，以提高采样效率。但是如果参数空间表现不好，这可能是不可能的。为什么？无畏的读者，继续读下去。
 
 ## 2D 的例子
 
 让我们试着在 2D 参数空间中建立一些几何直觉。请记住，采样是与相关后验密度成比例地探索参数空间，或者换句话说，是在零平面和密度(概率质量)定义的表面之间的体积上均匀地探索。为了简单起见，我们将忽略斯坦实际做的对数变换，在本文的其余部分直接讨论密度。想象后验密度是一个平滑宽阔的山丘:
 
-[![](../Images/fabe94b32fe9af28a6e189918044d8ff.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--_sezOPLk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.martinmodrak.cz/post/2018-03-01-strategies-for-diverging-stan-models_files/figure-html/unnamed-chunk-2-1.png) Stan 通过在随机方向上移动穿过后部来开始每次迭代，然后让密度梯度优先引导移动到密度高的区域。为了有效地探索这座山，我们需要在这个过程中采取相当大的步骤——如果样本链能够以少量的步骤(实际上最多`2^max_treedepth`步)穿过整个后部，那么它将代表后部井。因此，平均步长大约为 0.1 可能是合理的，因为后验概率在这个尺度上近似为线性。我们需要在中心周围多花一点时间，但不是那么多，因为有很多体积也靠近边缘-它的密度较低，但它是一个更大的区域。
+[![](img/fabe94b32fe9af28a6e189918044d8ff.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--_sezOPLk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.martinmodrak.cz/post/2018-03-01-strategies-for-diverging-stan-models_files/figure-html/unnamed-chunk-2-1.png) Stan 通过在随机方向上移动穿过后部来开始每次迭代，然后让密度梯度优先引导移动到密度高的区域。为了有效地探索这座山，我们需要在这个过程中采取相当大的步骤——如果样本链能够以少量的步骤(实际上最多`2^max_treedepth`步)穿过整个后部，那么它将代表后部井。因此，平均步长大约为 0.1 可能是合理的，因为后验概率在这个尺度上近似为线性。我们需要在中心周围多花一点时间，但不是那么多，因为有很多体积也靠近边缘-它的密度较低，但它是一个更大的区域。
 
 现在想象一下，后半部分要清晰得多:
 
-[![](../Images/dbe425ef5e9687e8c1ea65395635e52d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Gq4gyoEA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.martinmodrak.cz/post/2018-03-01-strategies-for-diverging-stan-models_files/figure-html/unnamed-chunk-3-1.png) 现在我们需要小得多的步子才能安全地探索。步长为 0.1 是行不通的，因为后验概率在这个尺度上是非线性的，这会导致发散。然而，采样器能够适应并相应地选择较小的步长。Stan 要做的另一件事是重新调整后验概率较窄的维度。在上面的例子中，后验概率在`y`中更窄，因此该维度将被膨胀以大致匹配`x`中的扩散。请记住，Stan 单独重新调整每个维度(后验矩阵由对角矩阵转换)。
+[![](img/dbe425ef5e9687e8c1ea65395635e52d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Gq4gyoEA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.martinmodrak.cz/post/2018-03-01-strategies-for-diverging-stan-models_files/figure-html/unnamed-chunk-3-1.png) 现在我们需要小得多的步子才能安全地探索。步长为 0.1 是行不通的，因为后验概率在这个尺度上是非线性的，这会导致发散。然而，采样器能够适应并相应地选择较小的步长。Stan 要做的另一件事是重新调整后验概率较窄的维度。在上面的例子中，后验概率在`y`中更窄，因此该维度将被膨胀以大致匹配`x`中的扩散。请记住，Stan 单独重新调整每个维度(后验矩阵由对角矩阵转换)。
 
 现在，如果后面是一个“平滑的山”和一个“尖锐的山”的组合呢？
 
-[![](../Images/39cdaf2b8a07aa88a75db73b660fed45.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Gy_pkyHg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.martinmodrak.cz/post/2018-03-01-strategies-for-diverging-stan-models_files/figure-html/unnamed-chunk-4-1.png) 采样器大约一半的时间要花在“尖山”，另一半的时间要花在“平山”，但是那些区域需要不同的步长，采样器只取一个步长。也没有办法重新调整尺寸来补偿。适应“平滑山”区域的链将在“尖锐山”区域中经历分叉，适应“尖锐山”的链将不能有效地在“平滑山”区域中移动(这将作为超过最大树深度的转变而被发出信号)。然而，后一种情况不太可能，因为“光滑的山”更大，链更可能从那里开始。我*认为*这就是为什么这类问题大多表现为分歧，而不太可能表现为超过最大树深。
+[![](img/39cdaf2b8a07aa88a75db73b660fed45.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Gy_pkyHg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.martinmodrak.cz/post/2018-03-01-strategies-for-diverging-stan-models_files/figure-html/unnamed-chunk-4-1.png) 采样器大约一半的时间要花在“尖山”，另一半的时间要花在“平山”，但是那些区域需要不同的步长，采样器只取一个步长。也没有办法重新调整尺寸来补偿。适应“平滑山”区域的链将在“尖锐山”区域中经历分叉，适应“尖锐山”的链将不能有效地在“平滑山”区域中移动(这将作为超过最大树深度的转变而被发出信号)。然而，后一种情况不太可能，因为“光滑的山”更大，链更可能从那里开始。我*认为*这就是为什么这类问题大多表现为分歧，而不太可能表现为超过最大树深。
 
 这只是多模态后验概率损害抽样的众多原因之一。即使所有模式都相似，多模态也是有问题的，另一个问题是在模式之间遍历可能需要比在每个模式内探索大得多的步长，如下例所示:
 
-[![](../Images/51b0d9252ab9de2c5835ccca1fe7900a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hSFb0CaF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.martinmodrak.cz/post/2018-03-01-strategies-for-diverging-stan-models_files/figure-html/unnamed-chunk-5-1.png)
+[![](img/51b0d9252ab9de2c5835ccca1fe7900a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hSFb0CaF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.martinmodrak.cz/post/2018-03-01-strategies-for-diverging-stan-models_files/figure-html/unnamed-chunk-5-1.png)
 
 我敢打赌 Stan devs 会添加大量的其他原因来解释为什么多模态对你不好(确实如此)，但是我会在这里停下来，转到其他可能的分歧来源。
 
@@ -83,11 +83,11 @@ Increasing adapt_delta above 0.8 may help.
 
 最后但同样重要的是，让我们看看变量之间的紧密相关性，这是一个不同但常见的问题:
 
-[![](../Images/5c9dcede7f8ba3855b1b9bd4b7cf2405.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iHMJWUgp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.martinmodrak.cz/post/2018-03-01-strategies-for-diverging-stan-models_files/figure-html/unnamed-chunk-7-1.png) 问题是，如果我们在脊的方向上移动，我们需要大的步长，但是当我们在那个方向的切线方向上移动时，我们需要小的步长。同样，Stan 无法重新缩放后部来进行补偿，因为缩放`x`或`y`本身会增加脊的宽度和长度。
+[![](img/5c9dcede7f8ba3855b1b9bd4b7cf2405.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iHMJWUgp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.martinmodrak.cz/post/2018-03-01-strategies-for-diverging-stan-models_files/figure-html/unnamed-chunk-7-1.png) 问题是，如果我们在脊的方向上移动，我们需要大的步长，但是当我们在那个方向的切线方向上移动时，我们需要小的步长。同样，Stan 无法重新缩放后部来进行补偿，因为缩放`x`或`y`本身会增加脊的宽度和长度。
 
 当两个变量之间的关系不是线性的时，事情变得更加阴险:
 
-[![](../Images/d8543bac31027326082cfd886161b419.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1ZkzLjgK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.martinmodrak.cz/post/2018-03-01-strategies-for-diverging-stan-models_files/figure-html/unnamed-chunk-8-1.png)
+[![](img/d8543bac31027326082cfd886161b419.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1ZkzLjgK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.martinmodrak.cz/post/2018-03-01-strategies-for-diverging-stan-models_files/figure-html/unnamed-chunk-8-1.png)
 
 这里，一个好的步长是位置(峰值附近较小)和方向(沿螺旋方向时较大)的函数，使得这种后验很难采样。
 

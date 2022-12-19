@@ -9,7 +9,7 @@
 `c = sqrt(pow(a, 2) + pow(b, 2))`
 
 只是不像
-[![pythagoras](../Images/9f3a1b0b998a2978fb83bcbc9866b5ce.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--C0pa2lGv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://wikimedia.org/api/rest_v1/media/math/render/svg/5fd521cee81d583ce94bf6710984cc2a9eb7c3da) 那样清晰可辨
+[![pythagoras](img/9f3a1b0b998a2978fb83bcbc9866b5ce.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--C0pa2lGv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://wikimedia.org/api/rest_v1/media/math/render/svg/5fd521cee81d583ce94bf6710984cc2a9eb7c3da) 那样清晰可辨
 
 对于非原语，如语言中通过引用传递结构的向量，情况会变得更糟。如果你想避免昂贵的内存分配，你只能使用:
 

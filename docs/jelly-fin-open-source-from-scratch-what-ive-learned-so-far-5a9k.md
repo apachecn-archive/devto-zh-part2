@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/sublimegeek/jelly-fin-open-source-from-scratch-what-ive-learned-so-far-5a9k>
 
-[![It's a bit much](../Images/ba16ecf48cee041432dfa2821a3e7042.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GCLpjQJl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6ncw0ghuzjicpq2ekj91.png)
+[![It's a bit much](img/ba16ecf48cee041432dfa2821a3e7042.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GCLpjQJl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6ncw0ghuzjicpq2ekj91.png)
 
 虽然我可以说我在 GitHub 上创建了一些公开的回购，但我不会真的称它们为“开源”,即使它们在技术上是“开源”。
 

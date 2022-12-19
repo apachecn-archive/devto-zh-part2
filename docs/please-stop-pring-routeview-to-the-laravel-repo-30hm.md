@@ -6,7 +6,7 @@
 
 这个改变被拒绝了(并且一直被拒绝),因为基于闭包的方法更适合于原型开发，正如 [Taylor 在第一个实现这个改变的 PR](https://github.com/laravel/laravel/pull/4310#issuecomment-312509833) 中所说的。
 
-<figure>[![Please stop PRing Route::view to the Laravel repo](../Images/a158c42c41c3d26732fd7955cf93a70b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--q_l91jkl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://miguelpiedrafita.com/content/images/2018/10/Image-2018-10-15-at-7.45.48-PM.png) 
+<figure>[![Please stop PRing Route::view to the Laravel repo](img/a158c42c41c3d26732fd7955cf93a70b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--q_l91jkl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://miguelpiedrafita.com/conteimg/2018/10/Image-2018-10-15-at-7.45.48-PM.png) 
 
 <figcaption>就这样了伙计们，BDFL 已经发话了，让我们继续前进吧...伙计们。你在听吗？</figcaption>
 

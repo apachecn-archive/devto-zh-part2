@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ghost/running-exporeact-native-in-docker-4hme>
 
-[![](../Images/062de94383a7aa9c367dfdaf41c28c51.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--X-aiw6-I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/500/1%2AlnXvsEAIgA1cLp20M20Q4Q.gif) 
+[![](img/062de94383a7aa9c367dfdaf41c28c51.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--X-aiw6-I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/500/1%2AlnXvsEAIgA1cLp20M20Q4Q.gif) 
 
 <figcaption>原图:[https://maraaverick . rbind . io/2017/11/docker-izing-your-work-in-r/](https://maraaverick.rbind.io/2017/11/docker-izing-your-work-in-r/)和[https://tutuappapkdownload.com/expo-apk/](https://tutuappapkdownload.com/expo-apk/)</figcaption>
 
@@ -16,7 +16,7 @@
 
 ### package.json
 
-[![](../Images/d9a207455c637d477e11a28b0b539b5f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LEKO3CLL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AGYvaZ5hVpe4lQ3Rf2mq97A.png)
+[![](img/d9a207455c637d477e11a28b0b539b5f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LEKO3CLL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AGYvaZ5hVpe4lQ3Rf2mq97A.png)
 
 <figcaption>
 
@@ -24,7 +24,7 @@
 
 ### Dockerfile
 
-[![](../Images/d3a4252d4fd9d5e89fe620b871619fcc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iNom9Onw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AHLrfzHNuXn6BHpgmoAzHoA.png)
+[![](img/d3a4252d4fd9d5e89fe620b871619fcc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iNom9Onw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AHLrfzHNuXn6BHpgmoAzHoA.png)
 
 <figcaption>
 
@@ -77,7 +77,7 @@ CMD adb connect $ADB\_IP && \
  # runs expo-cli start --android 
 ```
 
-[![](../Images/077b215726580497f486f3c74e7e341c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jRMynIa---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/819/1%2AZYbIrUe9j6TmwssuPBJIXw.png) 
+[![](img/077b215726580497f486f3c74e7e341c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jRMynIa---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/819/1%2AZYbIrUe9j6TmwssuPBJIXw.png) 
 
 <figcaption>图 1:无法连接错误😢</figcaption>
 
@@ -85,7 +85,7 @@ CMD adb connect $ADB\_IP && \
 
 该命令在 Docker 映像第一次运行时运行，其他命令用于构建映像本身。这使用了传入 Docker 容器的环境变量，并通过$ADB_IP 连接到 Android 设备。然后运行 *package.json* 中的 *android* 命令。然后，您可以简单地运行以下命令来构建和启动 Docker 容器。
 
-[![](../Images/0833bf6844953e4b179c42d90699d398.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4IEeEVKW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AIcXbBc7wMexVQhGkC51J9g.png) 
+[![](img/0833bf6844953e4b179c42d90699d398.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4IEeEVKW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AIcXbBc7wMexVQhGkC51J9g.png) 
 
 <figcaption>Docker 构建/运行命令</figcaption>
 
@@ -96,7 +96,7 @@ CMD adb connect $ADB\_IP && \
 
 ### 码头工-化合物. yml
 
-[![](../Images/b9c5599c5b77b85037e60cd7b5a0dbdf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FA8OOA1R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/790/1%2AprYM2gdRWurpCgYiI58vUA.png) 
+[![](img/b9c5599c5b77b85037e60cd7b5a0dbdf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FA8OOA1R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/790/1%2AprYM2gdRWurpCgYiI58vUA.png) 
 
 <figcaption>码头工-化合物. yml</figcaption>
 
@@ -104,13 +104,13 @@ CMD adb connect $ADB\_IP && \
 
 我还将主机上的当前目录挂载到 docker 容器上的/app/目录中，这样，主机上的任何文件更改也会在 Docker 容器中更改，而不必再次构建 Docker 容器。
 
-[![](../Images/0904f95f7939a6dfc388867591a920fa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OpBc1yQn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/706/1%2A6MCPmNosDhRT9oSEKfSXyQ.png)
+[![](img/0904f95f7939a6dfc388867591a920fa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OpBc1yQn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/706/1%2A6MCPmNosDhRT9oSEKfSXyQ.png)
 
 <figcaption>docker-撰写构建/运行命令。</figcaption>
 
 ### [T1。包封/包围（动词 envelop 的简写）](#env)
 
-[![](../Images/d6e7c5ecd1e003c5af604496890f4858.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yCW0NdJB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AK2zO9L8rWsCtULuY3D9wrw.png) 
+[![](img/d6e7c5ecd1e003c5af604496890f4858.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yCW0NdJB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AK2zO9L8rWsCtULuY3D9wrw.png) 
 
 <figcaption>。环境</figcaption>
 

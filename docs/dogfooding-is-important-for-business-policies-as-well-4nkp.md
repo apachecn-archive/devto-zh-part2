@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/briannipper/dogfooding-is-important-for-business-policies-as-well-4nkp>
 
-[![](../Images/99365f902e5a5cba41187c1ccab8e156.png)](https://1.bp.blogspot.com/-9myCI3xPtGM/W2NCdg1tMMI/AAAAAAAAHJY/E4kSQxoBd1sDpR9VZYH7XTZLB6rVsZrzQCLcBGAs/s1600/DogDish.jpeg) 
+[![](img/99365f902e5a5cba41187c1ccab8e156.png)](https://1.bp.blogspot.com/-9myCI3xPtGM/W2NCdg1tMMI/AAAAAAAAHJY/E4kSQxoBd1sDpR9VZYH7XTZLB6rVsZrzQCLcBGAs/s1600/DogDish.jpeg) 
 也许你对“狗食化”这个术语并不熟悉，简而言之，它是一个公司或组织除了向其他人提供产品或服务之外，还使用自己的产品或服务的想法。更完整的定义可以在维基百科的[下找到，吃你自己的狗粮](https://en.wikipedia.org/wiki/Eating_your_own_dog_food)。
 
 一个群体选择狗粮的原因可能是多种多样的，但一个重要的原因是确保他们熟悉使用商品或服务的挑战，或者用商业术语来说...他们想找机会把他们的产品做得更好。

@@ -20,7 +20,7 @@
 
 提示:你可以使用分隔卡来分隔一列中的内容。这只是一张空白卡片，上面有一个图案作为封面图像。
 
-[![A divider card](../Images/9b25abe344c9e2982cfd4327744b8607.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pej9tTO7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ilonl7y5ajbf30dh9cot.png)
+[![A divider card](img/9b25abe344c9e2982cfd4327744b8607.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pej9tTO7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ilonl7y5ajbf30dh9cot.png)
 
 拥有 4 个象限的目的是鼓励你以不同的方式应对不同类型的任务:
 
@@ -41,7 +41,7 @@
 
 我最近为自己创建的另一个 trello 板是学习 Java 的计划。之前做过一些 Java，但是没有太多的专业经验，知识差距巨大。我目前在一个使用 Java 的团队中工作，所以这是我想解决的问题。为了做到这一点，我留出了一些时间来学习，我创建了这个板来帮助我最好地利用这些时间。
 
-[![Learning Java board](../Images/3990e2e34ff6cdee14f9871d3bd35f8b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--40FMBBoO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3mnlo29a0byq4ala3t9z.png)
+[![Learning Java board](img/3990e2e34ff6cdee14f9871d3bd35f8b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--40FMBBoO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3mnlo29a0byq4ala3t9z.png)
 
 我从识别一堆我能接触到的资源开始，并准确地确定我在努力做什么。这帮助我将所有这些事情简化为我实际上有时间做的少量任务。
 

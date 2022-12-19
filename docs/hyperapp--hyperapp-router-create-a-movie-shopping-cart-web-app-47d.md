@@ -6,7 +6,7 @@
 
 我们将构建一个[电影购物车单页应用](https://thobyv.github.io/Hyperapp-shopping-cart-demo/)来学习如何使用 hyperapp 的一些基本功能，包括虚拟 dom 渲染、路由和应用状态管理。
 
-[![screenshot-hyperapp-router-tutorial](../Images/2e99c41c505bfad70bb14a6779173087.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1uOyeFZA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hux80q9k5reymj11aibz.JPG) 
+[![screenshot-hyperapp-router-tutorial](img/2e99c41c505bfad70bb14a6779173087.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1uOyeFZA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hux80q9k5reymj11aibz.JPG) 
 *截图*
 
 这里是 github repo 的[，以防你想直接进入代码，这里是 github 页面上的](https://github.com/ThobyV/Hyperapp-shopping-cart-demo)[现场演示](https://thobyv.github.io/Hyperapp-shopping-cart-demo/)。继续玩按钮。

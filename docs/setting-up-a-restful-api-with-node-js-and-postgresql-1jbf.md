@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/setting-up-a-restful-api-with-node-js-and-postgresql-1jbf>
 
-[![](../Images/385510c1b0b858dfe1aad850397112f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OQaSAXpt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AdAw1_W3q-TaHrQZVmb9jPA.jpeg)
+[![](img/385510c1b0b858dfe1aad850397112f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OQaSAXpt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AdAw1_W3q-TaHrQZVmb9jPA.jpeg)
 
 作为现代 web 开发人员的一个极其重要的方面是知道如何使用 API 来促进不同软件系统之间的通信。
 
@@ -20,7 +20,7 @@
 
 当您完成本文时，您应该已经拥有了一个运行在 Node.js 中的 Express 框架上的功能齐全的 API 服务器。API 应该能够处理与 API 从中获取数据的 PostgreSQL 数据库相对应的 HTTP 请求方法。您将学习如何安装 PostgreSQL 并通过命令行界面使用它。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### 什么是 RESTful API？
 
@@ -595,7 +595,7 @@ curl -X "DELETE" http://localhost:3000/users/1
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

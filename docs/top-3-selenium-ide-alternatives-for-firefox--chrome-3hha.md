@@ -8,13 +8,13 @@
 
 Selenium IDE 替代方案，或 Selenium IDE 替代方案，指的是被认为是可行的替代方案的自动化测试工具，自动化测试工具必须在功能、安装和设置的简易性、学习曲线和成本方面与 Selenium IDE 相当。
 
-[![Selenium IDE alternative](../Images/9d264812f3a279a3ee78ca3c19ff8bf4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MBYQWM2i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/09/28151904/1_JidOCWgcbQtICstuEJ3wAw.png)
+[![Selenium IDE alternative](img/9d264812f3a279a3ee78ca3c19ff8bf4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MBYQWM2i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/09/28151904/1_JidOCWgcbQtICstuEJ3wAw.png)
 
 下面是 Selenium IDE 的一些潜在继任者。但首先，让我们回到这个优秀解决方案的旧时代。
 
 ## **1。硒 IDE 历史**
 
-[![Jason-Huggins](../Images/f00ff40403f610bc014c8748924ecd16.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--C1SRfeyu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/09/28152226/Jason-Huggins.jpeg) 
+[![Jason-Huggins](img/f00ff40403f610bc014c8748924ecd16.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--C1SRfeyu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/09/28152226/Jason-Huggins.jpeg) 
 Selenium 最初是 Jason Huggins 在 2004 年作为 ThoughtWorks 的内部工具开发的。后来，Huggins 和 ThoughtWorks 的其他程序员和测试人员一起加入了该团队，之后 Paul Hammant 加入了该团队，并指导了后来成为“Selenium Remote Control”(RC)的第二种操作模式的开发。该工具是当年开源的。
 
 2005 年，Dan Fabulich 和 Nelson Sproul(在 Pat Lightbody 的帮助下)提出接受一系列补丁，将 Selenium-RC 改造成它最著名的产品。在同一次会议上，Selenium 项目的指导将继续作为一个委员会，Huggins 和 Hammant 是 ThoughtWorks 的代表。
@@ -23,7 +23,7 @@ Selenium 最初是 Jason Huggins 在 2004 年作为 ThoughtWorks 的内部工具
 
 2007 年，哈金斯加入谷歌。他和詹妮弗·比万等人一起，继续开发和稳定 Selenium RC。与此同时，ThoughtWorks 的西蒙·斯图尔特(Simon Stewart)开发了一款名为 WebDriver 的高级浏览器自动化工具。2009 年，在谷歌测试自动化大会上，开发人员开会后决定合并这两个项目，并将新项目称为 Selenium WebDriver，或 Selenium 2.0。
 
-[![philippe-hanrigou](../Images/0cc849f7338bfb5ef515d013775d68e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DxOS0Aih--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/09/28153501/philippe-hanrigou.jpg)
+[![philippe-hanrigou](img/0cc849f7338bfb5ef515d013775d68e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DxOS0Aih--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/09/28153501/philippe-hanrigou.jpg)
 
 2008 年，Philippe Hanrigou(当时在 ThoughtWorks)开发了“Selenium Grid”，它提供了一个中枢，允许在任意数量的本地或远程系统上同时运行多个 Selenium 测试，从而最大限度地减少测试执行时间。作为开源，Grid 为 Selenium RC 提供了类似于内部/私有 Google cloud 的功能。Pat Lightbody 已经为“HostedQA”开发了一个私有云，并将其出售给了 Gomez，Inc .
 
@@ -35,7 +35,7 @@ Selenium IDE 是一个用于 web 应用程序的便携式软件测试工具。�
 
 Selenium IDE 不仅支持记录和回放功能，还提供了其他特性:脚本、调试、报告等。Selenium IDE 拥有最常用的全套功能，是测试人员节省测试项目时间的完整工具。
 
-[![Selenium-IDE’s-plugin-page](../Images/f57fcfff3fe6b5352b2dd0a989d1e321.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OEwQOUeG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/09/28155141/Selenium-IDE%25E2%2580%2599s-plugin-page.png)
+[![Selenium-IDE’s-plugin-page](img/f57fcfff3fe6b5352b2dd0a989d1e321.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OEwQOUeG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/09/28155141/Selenium-IDE%25E2%2580%2599s-plugin-page.png)
 
 Selenium 团队表示，Selenium 开发人员鼓励测试自动化中的最佳实践，这需要使用一种受支持的编程语言进行一定量的编程。然而，这也有缺点:大多数构建在 Selenium 之上的测试框架都是以开发人员为中心的。因此，他们需要额外的努力来安装和配置编程语言运行时和组件，然后测试人员才能进行项目。
 
@@ -47,7 +47,7 @@ Selenium 团队表示，Selenium 开发人员鼓励测试自动化中的最佳�
 
 当 Mozilla 在今年年底决定[关闭旧的附加平台](https://developer.mozilla.org/en-US/Add-ons/Overlay_Extensions/Firefox_addons_developer_guide)时，人们普遍认为 Selenium IDE 在不久的将来将不复存在。测试工程师必须寻找其他的东西。
 
-[![Mozilla’s-announcement-of-its-platform-changes](../Images/2c6836cd4ace49d24b767d486bece6ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sybQ0Mqh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/09/28155504/Mozilla%25E2%2580%2599s-announcement-of-its-platform-changes.png)
+[![Mozilla’s-announcement-of-its-platform-changes](img/2c6836cd4ace49d24b767d486bece6ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sybQ0Mqh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/09/28155504/Mozilla%25E2%2580%2599s-announcement-of-its-platform-changes.png)
 
 由于 Selenium IDE 的出色体验，Selenium 不再局限于不负责测试的开发人员社区。相反，它成为软件测试人员的神奇解决方案。
 

@@ -8,7 +8,7 @@
 
 AppRun 是一个 3K 库，用于使用 Elm 启发的架构、事件发布订阅和组件来构建应用程序。
 
-[![CLI in the console](../Images/29a58318d08fd9a0d459585e1764e42b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5p8ESaes--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/khumq8np94i5uwo9bwn1.png)
+[![CLI in the console](img/29a58318d08fd9a0d459585e1764e42b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5p8ESaes--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/khumq8np94i5uwo9bwn1.png)
 
 # 它是如何工作的？
 
@@ -26,7 +26,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 控制台中的 CLI 便于查看运行时数据。在应用程序开发过程中，我们经常需要调试和检查应用程序的内部数据。使用 *console.log* 函数是显示数据最简单也是最强大的方法，因为控制台允许我们深入到嵌套的数组和对象结构中。
 
-[![Drilldown](../Images/68e868988f7362bd694bf13abb4e4f43.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WJro7zaV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fq37a5rjfoz4pqsi0f05.png)
+[![Drilldown](img/68e868988f7362bd694bf13abb4e4f43.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WJro7zaV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fq37a5rjfoz4pqsi0f05.png)
 
 有了控制台中的 CLI，应用程序代码库就不会受到 *console.log* 的影响。CLI 提供了一种查看运行时数据的非破坏性方法。我们可以将 CLI 脚本包含在开发环境中，并将其从生产环境中移除。
 

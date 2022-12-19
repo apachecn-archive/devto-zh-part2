@@ -28,7 +28,7 @@
 
 ## 好奇！
 
-[![curiosity](../Images/f1bda20d008a56973989bc9dbd48574e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q8Gm5sVI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://boygeniusreport.files.wordpress.com/2018/06/screen-shot-2018-06-18-at-7-55-25-am.png%3Fw%3D782)
+[![curiosity](img/f1bda20d008a56973989bc9dbd48574e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q8Gm5sVI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://boygeniusreport.files.wordpress.com/2018/06/screen-shot-2018-06-18-at-7-55-25-am.png%3Fw%3D782)
 
 另一个很好的学习资源是**源代码**。是啊！源代码，通过阅读来自**开源**项目的源代码，我学到了很多。阅读有才华的开发人员如何解决他们的问题，并试图找出他们为什么这样做，这是一个总能教会你一些东西的过程。但是不要只是读它，想想，**你怎么能改进它？**
 
@@ -44,7 +44,7 @@
 
 我可以说我对每件事都有一个脚本，每当我发现一些乏味或重复的任务时，我就写一个脚本。每当我需要一些我找不到的特定工具(或者只是一个函数)时，我就写一个脚本。给你一个例子，几分钟前我有这个需求:我想要一个桌面**谷歌翻译**应用程序，并显示在顶部，这样我就可以在我用 [Typora](https://typora.io/) 写这篇文章时检查我的英语。[20 行代码](https://gist.github.com/b1tdust/95b094e4890e7fa49553425a54d87eab)(有一些神经网络是 14 行写的，我应该做的更好🤔)我解决了这个特殊需求。昨天，我还不知道如何在 python 中使用 **[WebKitGTK](https://webkitgtk.org/)** 但是现在我有了一个基本的想法。下面是我运行的脚本:
 
-[![script](../Images/7effdeb055945d690b641e758a2b3f6b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GjOB_F4H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lji5l6pqh50tuf7wtp1v.png)
+[![script](img/7effdeb055945d690b641e758a2b3f6b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GjOB_F4H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lji5l6pqh50tuf7wtp1v.png)
 
 ​
 
@@ -77,7 +77,7 @@
 
 ## 第一份工作
 
-[![first_job](../Images/e07905b4b56da22aec67343b1dfa1af2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QkXcKAXF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rebuildcreditscores.com/wp-content/uploads/2015/06/spot-fake-debt-collectors.jpg)
+[![first_job](img/e07905b4b56da22aec67343b1dfa1af2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QkXcKAXF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rebuildcreditscores.com/wp-content/uploads/2015/06/spot-fake-debt-collectors.jpg)
 
 你职业生涯的第一步非常重要！如果你有机会申请初级开发人员的工作，请记住:
 
@@ -115,7 +115,7 @@
 
 还有，**不要低估自己**。接受大挑战，接受你认为自己无法解决的问题，并战胜它们！**挑战自我！**这里有一句激励的话挂在你的墙上:
 
-[![meme](../Images/62deea73d24ee839f23b39c00177f816.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---Y3zhfaB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://scontent.faep8-1.fna.fbcdn.net/v/t1.0-9/40244728_2141117689239784_3496875317711077376_n.jpg%3F_nc_cat%3D100%26oh%3Dc73a329e1979c65c5963cf80fb065eea%26oe%3D5C611195)
+[![meme](img/62deea73d24ee839f23b39c00177f816.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---Y3zhfaB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://scontent.faep8-1.fna.fbcdn.net/v/t1.0-9/40244728_2141117689239784_3496875317711077376_n.jpg%3F_nc_cat%3D100%26oh%3Dc73a329e1979c65c5963cf80fb065eea%26oe%3D5C611195)
 
 你可以做任何事情，你这个神奇的骷髅！
 
@@ -151,11 +151,11 @@
 
 是的，我们开发人员**也是人**！不要忘记这一点。有一件事不是每个开发人员都谈论的:**编程是会上瘾的。**有时候，我感觉到大脑中的化学脉冲触发了某种**时间追踪**阻断蛋白，我忘记了时间，我花了几个小时阅读、编码、调试、编码。不要那样做！(我也是)。去散散步，不要天天吃快餐。**喝水！** **好好睡吧！我是认真的。如果你把健康放在一边，你会感到恶心、疲倦、有压力，那时编程就不再有趣了。这是 Linus Torvalds 行走和工作的 GIF 照片:**
 
-[![linus](../Images/0b76fa09751d70c5bc835709ca647e41.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WWYLaN0c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://static.businessinsider.com/image/54e3e52a6da811e73585a479/image.gif)
+[![linus](img/0b76fa09751d70c5bc835709ca647e41.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WWYLaN0c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://static.businessinsider.com/image/54e3e52a6da811e73585a479/image.gif)
 
 小心你的脖子和后背。拿一把符合人体工程学的椅子。将显示器调整到一个合适的视角。学习如何正确坐姿，这听起来很傻，但知道如何正确坐姿将帮助你度过一天，避免颈部疼痛。相信我，一边写代码一边脖子疼是我做过最糟糕的事情。如果你已经有脖子&背痛，做一些**理疗**并摆脱它。
 
-[![no](../Images/a523060fff48c8de711db2dc7a9c049a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hoREUylj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.ytimg.com/vi/TKrTaJAulFQ/hqdefault.jpg)
+[![no](img/a523060fff48c8de711db2dc7a9c049a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hoREUylj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.ytimg.com/vi/TKrTaJAulFQ/hqdefault.jpg)
 
 众所周知，在我们热爱的二元世界里有很多压力。死线，bug，压力，更多 bug，服务器故障，更多压力。我有焦虑问题，但是现在我越来越老，越来越聪明(我希望如此)，我可以比几年前更好地处理它。但有时避免压力几乎是不可能的。所以，如果你做得不太好，如果编程不有趣，如果你不想再工作了，试着找个人聊聊。朋友、家人甚至心理治疗师。还是那句话，寻求帮助真的没问题，别忘了。你的心理健康和身体健康一样重要。
 

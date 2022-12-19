@@ -36,7 +36,7 @@
 
 **例**，这里有 3 张空白卡片:
 
-[![](../Images/416c03a36be8841b0d2df7f3ec669aaf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tGipgrzd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AS3z9fe2rO9hjH-OwGIkYRw.jpeg) 
+[![](img/416c03a36be8841b0d2df7f3ec669aaf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tGipgrzd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AS3z9fe2rO9hjH-OwGIkYRw.jpeg) 
 
 <figcaption>3 张空白 CRC 卡</figcaption>
 

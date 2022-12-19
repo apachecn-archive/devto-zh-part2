@@ -8,7 +8,7 @@
 
 ## 我当前的进程
 
-[![Blogging Process](../Images/0ffbfdc8ab3727c45ebf6116de097141.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q4msq454--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://gonsie.com/blorg/images/blorg-process.png)
+[![Blogging Process](img/0ffbfdc8ab3727c45ebf6116de097141.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q4msq454--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://gonsie.com/bloimg/blorg-process.png)
 
 我目前的流程包括几个我想消除的非最佳“修复”步骤。理想情况下，Emacs publish 转换会完全按照我想要的那样产生 markdown。额外的好处是可以利用 Org 发布工作流(而不仅仅是导出文档)。然后，我将能够直接在 Org draft 上进行任何复制编辑，并且发布/部署过程可以在一个按钮的推动下发生。
 

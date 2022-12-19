@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/franken/disable-prestashop-add-to-cart-popup---step-by-step-1839>
 
-[![](../Images/b7f8bd1a02450090cd3e0253be5549b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tmUGOK-v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.com/images/stories/disable-prestashop-add-to-cart-popup.jpg)
+[![](img/b7f8bd1a02450090cd3e0253be5549b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tmUGOK-v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.cimg/stories/disable-prestashop-add-to-cart-popup.jpg)
 
 许多人希望禁用用 ajax 向购物车添加产品时显示的弹出窗口，而是重定向到购物车摘要页面。我见过很多帖子指示在购物车模块中[禁用**添加到购物车弹出**](https://www.prestasoo.com/blog/disable-prestashop-add-to-cart-popup-step-by-step.html) ，但是只对 Prestashop 1.6 有效。
 

@@ -38,7 +38,7 @@
 
 但这也是电脑的工作方式。
 
-[![full adder circuit](../Images/923ab2b1d998a5e3bc1a3fca812dee56.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gE_0v-yF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8v6bdt0jecbz5f8oi73i.gif) 
+[![full adder circuit](img/923ab2b1d998a5e3bc1a3fca812dee56.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gE_0v-yF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8v6bdt0jecbz5f8oi73i.gif) 
 *[全加器电路](https://en.wikipedia.org/wiki/Adder_(electronics))*
 
 这是一个加法电路。它是计算机中央处理器内部的一种部件。
@@ -74,7 +74,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 许多面向 FP 的语言看起来更像电路。具体来说， [Unix](https://en.wikipedia.org/wiki/Pipeline_(Unix)) 、[elixin](https://en.wikipedia.org/wiki/Elixir_(programming_language))、 [F#](https://blogs.msdn.microsoft.com/chrsmith/2008/05/09/f-in-20-minutes-part-ii/) 、 [JavaScript(也许有一天)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Pipeline_operator)等中的“管道操作符”让代码看起来像一个电路图:输入进入左边，流经许多“门”(管道)，直到它们被转换成右边的最终输出。某些语言使用的管道运算符(`|>`)看起来像逻辑门，这可能不是巧合。
 
-[![NOT logic gate](../Images/cbd12e5c63b1a341d3a6e2cb2e8846cd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5BuyOqMY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nqvfb8s3e94ktq0crldc.png)
+[![NOT logic gate](img/cbd12e5c63b1a341d3a6e2cb2e8846cd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5BuyOqMY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nqvfb8s3e94ktq0crldc.png)
 *[`NOT`门](https://en.wikipedia.org/wiki/Inverter_(logic_gate))*
 
 戴上我的编码教师帽子，介绍 FP 的一个好的“大图”方式是从谈论电路如何工作、它们如何被“编程”以及我们如何用代码模拟电路图开始。
@@ -205,7 +205,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 举个不那么抽象的例子，你坐的椅子是真实存在的还是仅仅有[力压着你的身体](https://futurism.com/why-you-can-never-actually-touch-anything)？“椅子”可能是现实世界中存在的椅子对象，也可能是椅子的功能:一种(希望是舒适的)推着你的力量，没有潜在的客观基础。
 
-[![red delicious apple](../Images/7359a3aa594cbfb0899fbfe89992a05f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CZ0K2Rr6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1c5ljsjk363aiztnooxh.jpg) 
+[![red delicious apple](img/7359a3aa594cbfb0899fbfe89992a05f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CZ0K2Rr6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1c5ljsjk363aiztnooxh.jpg) 
 *[一个红色可口的苹果](https://en.wikipedia.org/wiki/Red_Delicious)*
 
 考虑颜色。一个红色的美味苹果是真的红色(形容词描述名词)还是表现为红色(动词)？颜色是真实的底层苹果物体的固有属性，还是仅仅是苹果函数被编程为当光线照射到它时所做的一个动作？苹果是真的还是仿真的？

@@ -40,7 +40,7 @@ Gin 是一个快速、简单但功能齐全且非常高效的 Go web 框架。�
 
 这将允许我们说明如何使用 **Gin** 来开发 web 应用程序和/或 API。
 
-[![golang-gin-demo-shot](../Images/ff6e2720412faa7fad1fffc4dedfa260.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--78Nii8DR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/9336187/38371873-6ccabb50-38e5-11e8-9b67-b97cc2ce98c6.png)
+[![golang-gin-demo-shot](img/ff6e2720412faa7fad1fffc4dedfa260.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--78Nii8DR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/9336187/38371873-6ccabb50-38e5-11e8-9b67-b97cc2ce98c6.png)
 
 我们将利用 Gin 提供的以下功能:
 
@@ -128,11 +128,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 为了查看什么在工作，我们需要通过运行`go run main.go`来启动我们的服务器。
 
-[![go-gin-gorun-1](../Images/bedd3241bea36712ad0116a0a873ab0f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xw7zq4UA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/9336187/38358547-700bc822-38bd-11e8-88a6-246559fbe57f.png)
+[![go-gin-gorun-1](img/bedd3241bea36712ad0116a0a873ab0f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xw7zq4UA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/9336187/38358547-700bc822-38bd-11e8-88a6-246559fbe57f.png)
 
 应用程序运行后，在浏览器中导航至`http://localhost:3000`。如果一切顺利，你应该看到 1 级标题文本**欢迎使用 Jokeish 应用程序**显示。
 
-[![golang-welcome-de](../Images/65802f3c0daede3ba517ada8077d6284.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KMuSBeR3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/9336187/38385072-cdaa2168-3908-11e8-9889-e9c1e713ce0a.png)
+[![golang-welcome-de](img/65802f3c0daede3ba517ada8077d6284.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KMuSBeR3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/9336187/38385072-cdaa2168-3908-11e8-9889-e9c1e713ce0a.png)
 
 ### 定义 API
 
@@ -466,7 +466,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们重启我们的 Go 服务器`go run main.go`，并前往我们的应用程序的 URL `http://localhost:3000/`。你会看到`Home`组件正在被渲染。
 
-[![golang-gin-home-component](../Images/19babd12685f451040b3e9ebd7307af1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gg5eyF08--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/9336187/38368612-a452879a-38dd-11e8-8a63-5cc7530fc9bd.png)
+[![golang-gin-home-component](img/19babd12685f451040b3e9ebd7307af1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gg5eyF08--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/9336187/38368612-a452879a-38dd-11e8-8a63-5cc7530fc9bd.png)
 
 ## 使用 Auth0 保护我们的笑话应用
 
@@ -482,17 +482,17 @@ Enter fullscreen mode Exit fullscreen mode
 
 要创建一个新的 API，导航到仪表板中的[API 部分](https://manage.auth0.com/#/apis)，并点击**创建 API** 按钮。
 
-[![golang-gin-apis-section](../Images/7ec31b4cb22a37d5a0fc36d4c22aecee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OZVSD0aK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/9336187/38367092-a7bbfffa-38d9-11e8-949e-04542283606c.png)
+[![golang-gin-apis-section](img/7ec31b4cb22a37d5a0fc36d4c22aecee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OZVSD0aK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/9336187/38367092-a7bbfffa-38d9-11e8-949e-04542283606c.png)
 
 选择一个 API **名称**，和一个**标识符**。标识符将是中间件的**受众**。**签名算法**应该是 **RS256** 。
 
 要创建一个新的客户端，导航到您的仪表板中的，点击**创建客户端**按钮，并选择类型`Regular Web Applications`。
 
-[![golang-gin-create-client](../Images/bdafe67da3be6f4de6198ccde29b4c66.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Er2HhN7S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/9336187/38453889-025202bc-3a55-11e8-9ff6-1d5265ebecd9.png)
+[![golang-gin-create-client](img/bdafe67da3be6f4de6198ccde29b4c66.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Er2HhN7S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/9336187/38453889-025202bc-3a55-11e8-9ff6-1d5265ebecd9.png)
 
 一旦创建了客户端，记下`client_id`和`client_secret`，因为我们稍后会用到它。
 
-[![golang-gin-client-page](../Images/95d708598891f7c9e21c671c41082175.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LEWX6ZEG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/9336187/38453892-09268fea-3a55-11e8-9c3d-68de4b26295d.png)
+[![golang-gin-client-page](img/95d708598891f7c9e21c671c41082175.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LEWX6ZEG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/9336187/38453892-09268fea-3a55-11e8-9c3d-68de4b26295d.png)
 
 我们需要将 API 所需的凭证添加到环境变量中。在根目录中，创建一个新文件`.env`，并向其中添加以下内容，以及来自 Auth0 仪表板的详细信息:
 
@@ -848,7 +848,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们需要设置一个 Auth0 重定向到的`callback`。导航到您的仪表板中的 Clients 部分，在设置中，让我们将回调设置为`http://localhost:3000`:
 
-[![auth0-golang-gin-allowed-callbacks](../Images/57e4f8e404c75228ade5f07078737beb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3AR-3egX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/9336187/38453893-0cf84032-3a55-11e8-9b03-d26ba1d3e56a.png)
+[![auth0-golang-gin-allowed-callbacks](img/57e4f8e404c75228ade5f07078737beb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3AR-3egX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/9336187/38453893-0cf84032-3a55-11e8-9b03-d26ba1d3e56a.png)
 
 准备好凭证后，让我们更新 React 组件。
 
@@ -1095,13 +1095,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 UI 和 API 完成后，我们就可以测试我们的应用程序了。我们将从启动我们的服务器`source .env && go run main.go`开始，从任何浏览器导航到`http://localhost:3000`，您应该会看到带有登录按钮的`Home`组件。点击登录按钮将重定向到托管锁页面，创建一个帐户或登录，以继续使用该应用程序。
 
-[![golang-gin-home-component](../Images/19babd12685f451040b3e9ebd7307af1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Gg5eyF08--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/9336187/38368612-a452879a-38dd-11e8-8a63-5cc7530fc9bd.png) 
+[![golang-gin-home-component](img/19babd12685f451040b3e9ebd7307af1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Gg5eyF08--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/9336187/38368612-a452879a-38dd-11e8-8a63-5cc7530fc9bd.png) 
 *首页*
 
-[![golang-gin-login-screen](../Images/54f3ded00749dc31906cfcc2ae32ce84.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KsLZVMSH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/9336187/38369278-4685f35c-38df-11e8-97ac-98b2b9d07bab.png) 
+[![golang-gin-login-screen](img/54f3ded00749dc31906cfcc2ae32ce84.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KsLZVMSH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/9336187/38369278-4685f35c-38df-11e8-97ac-98b2b9d07bab.png) 
 *Auth0 主持锁屏*
 
-[![golang-gin-demo-shot](../Images/ff6e2720412faa7fad1fffc4dedfa260.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--78Nii8DR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/9336187/38371873-6ccabb50-38e5-11e8-9b67-b97cc2ce98c6.png) 
+[![golang-gin-demo-shot](img/ff6e2720412faa7fad1fffc4dedfa260.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--78Nii8DR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/9336187/38371873-6ccabb50-38e5-11e8-9b67-b97cc2ce98c6.png) 
 *登录 App 查看*
 
 ### 结论

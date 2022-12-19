@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/onmyway133/open-source-stories-from-cachable-to-generic-storage-in-cache-59od>
 
-[![](../Images/af0276158bba9a6ec0e27be6ae0cf1cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5m4IsQgM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AX6nuMWx4FffMbdY1.jpg)
+[![](img/af0276158bba9a6ec0e27be6ae0cf1cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5m4IsQgM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AX6nuMWx4FffMbdY1.jpg)
 
 我们做[开源](https://cocoapods.org/owners/6020)已经有一段时间了，你可能已经见过我们在 [GitHub](https://github.com/hyperoslo/) 上的一些作品或者看过一些[我们的](https://medium.com/hyperoslo/getting-paid-to-do-open-source-26a97a852738) [故事](https://medium.com/hyperoslo/hitting-the-sweet-spot-of-inspiration-637d387bc629)。我们不想重新发明轮子，但我们的工作流程需要很多组件，或者需要为我们正在构建的应用程序定制的东西。所以我们建立了很多框架和应用。当我们在生产应用中使用它们时，我们认为与世界分享它们可能是个好主意。这是一个双赢的局面，因为我们回馈了社区，同时得到了很多反馈和建议。作为一个小型的 iOS 团队，全职做客户端项目，同时试图获得一点空闲时间来开发开源是非常具有挑战性的。
 
@@ -10,7 +10,7 @@
 
 首先，我们来谈谈 [Cache](https://github.com/hyperoslo/Cache) ，一个持久化对象的框架。在这里，我们学习如何发展 API 以支持 Swift 语言和 iOS、tvOS 平台的新功能，同时确保它们足够灵活和可维护。
 
-[![](../Images/40f043fad1b71f3fe44a00f764b25891.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aMdIlJuf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AGqpjqi4MQmidyfVw.png)
+[![](img/40f043fad1b71f3fe44a00f764b25891.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aMdIlJuf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AGqpjqi4MQmidyfVw.png)
 
 ## 缓存
 

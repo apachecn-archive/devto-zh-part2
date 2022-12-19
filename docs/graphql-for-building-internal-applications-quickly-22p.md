@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/hasurahq/graphql-for-building-internal-applications-quickly-22p>
 
-[![](../Images/8234decf9fd55c72737c9672fc3d022a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r320ps8H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/graphql-for-building-internal-applications-quickly-29cf37c1de8/1-7x1D_cbtR472y6OPZtmY5Q.jpeg)
+[![](img/8234decf9fd55c72737c9672fc3d022a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r320ps8H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/graphql-for-building-internal-applications-quickly-29cf37c1de8/1-7x1D_cbtR472y6OPZtmY5Q.jpeg)
 
 *原载于 2018 年 8 月 8 日* [*App 开发者杂志*](https://appdevelopermagazine.com/using-graphql-for-building-internal-apps-quickly/) *。*
 
@@ -24,7 +24,7 @@
 
 应用程序可以根据应用于数据的分析或业务逻辑的复杂性以及它们与底层数据库交互的性质进行分类。以下是根据这一分类做出构建还是购买决策的有用指南:
 
-[![](../Images/e8f3225b617f16eb1b50de4409dab800.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QAiKp3oT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/graphql-for-building-internal-applications-quickly-29cf37c1de8/1-i-wGlsd-b5aKlmf6uB0Yzg.jpeg)
+[![](img/e8f3225b617f16eb1b50de4409dab800.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QAiKp3oT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/graphql-for-building-internal-applications-quickly-29cf37c1de8/1-i-wGlsd-b5aKlmf6uB0Yzg.jpeg)
 
 既然我们已经知道要构建什么样的应用程序，那么让我们看看如何将它们构建得更好。但是首先，简单介绍一下 GraphQL。
 
@@ -61,7 +61,7 @@ GraphQL 对应用开发的影响在 API 生命周期管理上相当明显。下�
 
 **自动 API 文档:**通过发布的模式，GraphQL 将 API 发现或文档隐含地构建到服务器中，并带有利用这一点的工具。
 
-[![](../Images/ac23dfed2ea0c9923479da7c97615492.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0vGIbhle--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/graphql-for-building-internal-applications-quickly-29cf37c1de8/1-F3SLus-geWYNa6W0EMGTvA.jpeg)
+[![](img/ac23dfed2ea0c9923479da7c97615492.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0vGIbhle--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/graphql-for-building-internal-applications-quickly-29cf37c1de8/1-F3SLus-geWYNa6W0EMGTvA.jpeg)
 
 **测试&部署:**graph QL API 只需要在模式发生变化或者新模式出现时进行测试(*客户端仍然需要测试*)。这也适用于部署。与每一次迭代都是测试和部署的候选的[REST API](https://appdevelopermagazine.com/postman-update-gives-developers-more-freebies/)相比，问答和开发运维的成本要低得多。
 
@@ -69,7 +69,7 @@ GraphQL 对应用开发的影响在 API 生命周期管理上相当明显。下�
 
 这就是我的图片“IDE 中的查询验证在正式测试之前防止错误”应该放在它下面的标题的地方
 
-[![](../Images/62d20d10840c1082139324196da8cac6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dQ0Ghv1R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/graphql-for-building-internal-applications-quickly-29cf37c1de8/1-cxwZ_dLjze-YzCCDjore_Q.jpeg)
+[![](img/62d20d10840c1082139324196da8cac6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dQ0Ghv1R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/graphql-for-building-internal-applications-quickly-29cf37c1de8/1-cxwZ_dLjze-YzCCDjore_Q.jpeg)
 
 **标准化代码和工作流程:**使用 GraphQL 这样的规范，在代码库和流程中实施一定程度的标准化。考虑到 IT 人员的流失率，这是 GraphQL 的一个实实在在的好处。
 

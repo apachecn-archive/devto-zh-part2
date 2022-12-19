@@ -12,7 +12,7 @@
 
 当我开始这个项目时，我想在地图上显示 10，000 个标记。我是说那有什么意义？当我终于能够让它渲染，这是它看起来像什么。我笑了，因为这一切都点击到位。
 
-[![Google Map of North America with 10,000 Markers](../Images/3c02c3825172370046eedcecd42f40cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HiixWaXu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/naxwpvlih5gk0v7roj50.PNG)
+[![Google Map of North America with 10,000 Markers](img/3c02c3825172370046eedcecd42f40cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HiixWaXu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/naxwpvlih5gk0v7roj50.PNG)
 
 因此，我必须创建自定义 SalesForce 对象，使用 Apex 脚本在 SalesForce 中生成坐标，将 Html 和 Javacript 传输到 VisualForce 页面，然后从创建的对象中获取数据。请记住，在开始这个项目之前，我从未使用过 SalesForce。
 

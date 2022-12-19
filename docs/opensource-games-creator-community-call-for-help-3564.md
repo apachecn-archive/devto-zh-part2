@@ -10,7 +10,7 @@
 游戏的主要问题是，有时候它们不是我想要的样子。
 所以我开始思考这样的事情:`What if I make my own version of it?`
 
-[![iambender](../Images/1020a004bd95929a41698f96a5f8004a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_nV6gA_q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6vbhekvw52n8aag2f1i8.jpg)
+[![iambender](img/1020a004bd95929a41698f96a5f8004a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_nV6gA_q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6vbhekvw52n8aag2f1i8.jpg)
 
 很像这个↑人。
 **反应**位并不总是在那里，但是，因为最近我一直在工作中使用它，我发现它更容易使用，因为如果我不使用它们，我很快就会生疏。
@@ -20,7 +20,7 @@
 关于游戏的主要事情是:*它们需要漂亮*
 尽管我是一个全栈开发人员，但我真的不擅长把东西做得漂亮或用户友好，因为对我来说用户友好的东西并不适合世界上 90%的人(我认为这是开发人员的普遍现象)。
 这需要一套特定的技能:
-[![a](../Images/232193ce99cdb5b66a6f6cde6f67058d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fz_Ql_6y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z4g8v87j4fvxmy7cbrvr.jpg) 
+[![a](img/232193ce99cdb5b66a6f6cde6f67058d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fz_Ql_6y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z4g8v87j4fvxmy7cbrvr.jpg) 
 不仅要使用 flexbox 移动东西，还要让东西看起来和行为起来都像它们应该的样子。
 
 关于游戏的另一件事是:*它们应该是有趣的，并且没有漏洞/僵局*

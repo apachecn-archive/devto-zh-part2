@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/edrpls/migrating-a-large-flux-app-toredux-without-everything-falling-apart-133g>
 
-[![react to redux image](../Images/17a154545e599b7cac185147d1b90657.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BoEvJZC---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lczfyy0mt4w983nhgu1h.jpg)
+[![react to redux image](img/17a154545e599b7cac185147d1b90657.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BoEvJZC---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lczfyy0mt4w983nhgu1h.jpg)
 
 这篇文章最初发表在 GumGum 的科技博客上。
 

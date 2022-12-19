@@ -8,7 +8,7 @@
 
 这是我几个月前写的一个帖子，在我们真正开源之前，它思考了这个总的想法:
 
-[![ben](../Images/fe64a787b888dfb20fc13ad1e466da3d.png)](/ben) [## 戴夫·托如何推翻脸书
+[![ben](img/fe64a787b888dfb20fc13ad1e466da3d.png)](/ben) [## 戴夫·托如何推翻脸书
 
 ### Ben Hal pern 3 月 22 日 18 时 5 分阅读
 

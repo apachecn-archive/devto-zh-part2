@@ -4,7 +4,7 @@
 
 我们将使用样式化组件对基本的 create react 应用程序进行样式化，如下所示:
 
-[![](../Images/c32b105592b7c03a9bfab5568b1dcf5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x22yK9nL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5dwv10zpqa13wb4pr47l.gif)
+[![](img/c32b105592b7c03a9bfab5568b1dcf5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x22yK9nL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5dwv10zpqa13wb4pr47l.gif)
 
 但是首先，preamble✨:，我一直在为设计网站而努力，这似乎是开始网站开发的一个方面，要么是事后想起的，要么是被掩盖的。直到去年 12 月，我都不喜欢用 CSS 来设计任何东西，这是一件苦差事，而不是我喜欢做的事情。
 
@@ -12,7 +12,7 @@
 
 ###### 我跟 css 以前
 
-[![](../Images/71f8842528391e0ac505a0ce203d917c.png)T2】](https://i.giphy.com/media/2rj8VysAig8QE/giphy.gif)
+[![](img/71f8842528391e0ac505a0ce203d917c.png)T2】](https://i.giphy.com/media/2rj8VysAig8QE/giphy.gif)
 
 我想分享我到目前为止通过设计一个基本的 react 应用程序所学到的东西。
 

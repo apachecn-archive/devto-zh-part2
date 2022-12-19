@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/freekmurze/how-php-conferences-can-be-improved-3mhj>
 
-[![The audience at DotJS 2017](../Images/ba016b22b28576b18c4b13647e1697d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yLQAI0KS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/conferences/dotjs.png)
+[![The audience at DotJS 2017](img/ba016b22b28576b18c4b13647e1697d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yLQAI0KS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/conferences/dotjs.png)
 
 在过去的几年里，我参加了许多 PHP 会议，并在会上发言。 [PHP 比荷卢](https://conference.phpbenelux.eu)、 [Laracon EU](https://laracon.eu) 和 [US](http://laracon.us) 、 [PHP UK Conference](https://www.phpconference.co.uk) 、 [PHP World](https://world.phparch.com/) 仅仅是我非常喜欢的几个会议。任何对 PHP 感兴趣的人都可以参加这些会议。不管你处于哪个层次，你都会学到一些东西，也会遇到有趣的人。
 
@@ -14,7 +14,7 @@
 
 先说 PHP 会议上最让我恼火的事。一般来说，发言时间大约为 50 分钟。对于违约来说这时间太长了。在 DotJS，默认时间段长度约为 20 分钟。对我来说，20 - 30 之间的默认值似乎比 50 好得多。我不是说每个演讲都应该压缩到 20 分钟，但是我在 PHP 大会上看到的大部分演讲如果更短会更好。
 
-[![Prepere batter](../Images/4930422bddbaf7aaecf6a1210ce4403a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OZEYulbn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/conferences/batman.jpg)
+[![Prepere batter](img/4930422bddbaf7aaecf6a1210ce4403a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OZEYulbn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/conferences/batman.jpg)
 
 当然，缩短默认插槽长度会带来一些挑战。组织者需要找到更多的演讲者(并可能支付他们的费用)。对于扬声器来说，这也很难。他们需要做更好的准备。在 DotJS 上，每个演讲者都非常节省时间。个人介绍保持在最低限度。幻灯片非常精美。说的大部分事情都很中肯。
 
@@ -44,7 +44,7 @@ DotJS 在闪电谈话中做的一件很酷的事情是在主要阶段的常规�
 
 在大多数会议上，演讲者只是走上讲台，开始他们的演讲。这很好，但还可以更好。今年在 DotJS 和 Laracon US，有一位非常优秀的仪式主持人介绍了演讲者，并向观众传达了所有的实用性(并讲了一些笑话)。在 Laracon US，主持人是贾斯廷·杰克逊，在 DotJS，主持人是 T2。两人都有过会议主持的经验，而且都做得很出色。
 
-[![Justin at Laracon US 2018](../Images/64de37c556c67d83cad09b024aef3b1a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XExHtkB0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/conferences/justin.jpg)
+[![Justin at Laracon US 2018](img/64de37c556c67d83cad09b024aef3b1a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XExHtkB0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/conferences/justin.jpg)
 
 有主持人的好处还在于演讲者不需要自我介绍——主持人会介绍——所以他们有更多宝贵的时间来介绍实际内容。
 
@@ -83,7 +83,7 @@ DotJS 是一个单声道会议。他们成功地组建了一个优秀的演讲�
 
 虽然传统的设置没什么不好，但做一些原创或有创意的事情会非常惬意。
 
-[![The audience at DotJS 2018](../Images/cb330fcbc84b15fe39c6bc036b6c9277.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MPk5onXd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/conferences/dotjs2.jpg)
+[![The audience at DotJS 2018](img/cb330fcbc84b15fe39c6bc036b6c9277.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MPk5onXd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/conferences/dotjs2.jpg)
 
 ## 在关闭
 

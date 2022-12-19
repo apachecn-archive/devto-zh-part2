@@ -49,7 +49,7 @@
 
 这是一个大小为 4 的简单数组的图像，包含元素(1、2、3 和 4):
 
-[![Array](../Images/02e1f2ccc2f715693ee6258b62c9e610.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BoZFOixU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d6r1v3nie2chznvyckfa.png)
+[![Array](img/02e1f2ccc2f715693ee6258b62c9e610.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BoZFOixU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d6r1v3nie2chznvyckfa.png)
 
 每个数据元素都被赋予一个称为索引的正数值，它对应于该项在数组中的位置。大多数语言将数组的起始索引定义为 0。
 
@@ -78,7 +78,7 @@
 
 现实生活中的堆栈示例可以是一堆按垂直顺序放置的书籍。为了拿到中间的那本书，你需要把放在它上面的所有书都拿走。这就是后进先出法的工作原理。
 这是包含三个数据元素(1、2 和 3)的堆栈图像，其中 3 位于顶部，将首先被删除:
-[![Stack](../Images/f71e3b5baf68fb5779606781d557388a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---1ciAACB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xnfomtvmz0284rlasyha.png)
+[![Stack](img/f71e3b5baf68fb5779606781d557388a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---1ciAACB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xnfomtvmz0284rlasyha.png)
 
 *栈的基本操作:*
 
@@ -101,7 +101,7 @@
 
 这是一个包含四个数据元素(1、2、3 和 4)的队列图像，其中 1 位于顶部，将首先被删除:
 
-[![Queue](../Images/1b1d7f7712f8edd9b0e8a54c5e768ccb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ua5MnwE9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ltt8xj4sgrb21sux1bg3.png)
+[![Queue](img/1b1d7f7712f8edd9b0e8a54c5e768ccb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ua5MnwE9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ltt8xj4sgrb21sux1bg3.png)
 
 ## 队列基本操作
 
@@ -124,7 +124,7 @@
 
 链表用于实现文件系统、哈希表和邻接表。下面是一个链表内部结构的可视化表示:
 
-[![Linked List](../Images/2c7f57da5620bae0eb21dc8e9bb83790.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y7tQytQ7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xxrsac9g2afohilzw14p.png)
+[![Linked List](img/2c7f57da5620bae0eb21dc8e9bb83790.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y7tQytQ7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xxrsac9g2afohilzw14p.png)
 
 *以下是链表的类型:*
 
@@ -151,7 +151,7 @@
 
 图是以网络形式相互连接的一组节点。节点也称为顶点。一对(x，y)称为边，表示顶点 x 连接到顶点 y。边可能包含权重/成本，显示从顶点 x 遍历到 y 需要多少成本。
 
-[![Graph](../Images/534ec710c8994df148f23c459b7786ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cAsADbGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0swh6g6r5ugvptlzqeu3.png)
+[![Graph](img/534ec710c8994df148f23c459b7786ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cAsADbGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0swh6g6r5ugvptlzqeu3.png)
 
 *图形类型:*
 
@@ -183,7 +183,7 @@
 
 下面是一个简单树的图像，以及树数据结构中使用的基本术语:
 
-[![Tree](../Images/636cbcfef08234051ca89d85bd06da87.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y-AMvRwX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h2ohetg2bqhiyiedrr78.png)
+[![Tree](img/636cbcfef08234051ca89d85bd06da87.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y-AMvRwX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h2ohetg2bqhiyiedrr78.png)
 
 *以下是树的类型:*
 
@@ -210,7 +210,7 @@ Trie 也称为“前缀树”，是一种类似树的数据结构，被证明对
 
 下面是三个单词“top”、“thus”和“their”如何存储在 Trie 中的示例:
 
-[![Trie](../Images/92b951e5b53bfcbcdef0e16ef4c2858b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XHQo-v78--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nj3ymtbis2f9zfz9xmzm.png)
+[![Trie](img/92b951e5b53bfcbcdef0e16ef4c2858b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XHQo-v78--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nj3ymtbis2f9zfz9xmzm.png)
 
 单词以从上到下的方式存储，其中绿色的节点“p”、“s”和“r”分别表示“top”、“those”和“their”的结尾。
 
@@ -236,7 +236,7 @@ Trie 也称为“前缀树”，是一种类似树的数据结构，被证明对
 
 下面的例子说明了散列是如何映射到数组中的。这个数组的索引是通过哈希函数计算的。
 
-[![Hash Table](../Images/ab8be63198ae5213dce3befab757e3e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wHLNazUq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j62lo4fi45nl17oi20te.png)
+[![Hash Table](img/ab8be63198ae5213dce3befab757e3e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wHLNazUq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j62lo4fi45nl17oi20te.png)
 
 ## 常见的问散列面试问题
 

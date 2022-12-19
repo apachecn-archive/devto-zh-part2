@@ -308,7 +308,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在我们已经准备好启动 Phoenix 的服务器，访问 [http://localhost:4000](http://localhost:4000) 并观看我们的基本 **Elm** 应用程序正确渲染，耶！
 
-[![Basic application](../Images/056175cff8f48947b27a7c393fec3b80.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FGxciL7O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://monosnap.com/image/hOk7G1IDEdtHhSdEBwTu5ZK3rhLvHz)
+[![Basic application](img/056175cff8f48947b27a7c393fec3b80.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FGxciL7O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://monosnap.com/image/hOk7G1IDEdtHhSdEBwTu5ZK3rhLvHz)
 
 不过还有一件事要做。我们将使用 [elm-phoenix](https://github.com/saschatimme/elm-phoenix) 库来处理 **Phoenix** sockets 通信，因此我们需要下载[这个文件夹](https://github.com/bigardone/passwordless-auth/tree/master/apps/passwordless_auth_web/assets/elm/vendor)的内容并将其放在`apps/passwordless_auth_web/assets/elm/vendor`文件夹中。
 
@@ -396,7 +396,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在继续下一步之前，让我们用下面的模拟图来思考一下我们正在构建什么:
 
-[![Routes](../Images/f05be39c47b525782ec78c876224f6b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N13VNPVB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://monosnap.com/image/Isrs18qTVpNMYfWcXNuq9RbvG7Z4nS.png)
+[![Routes](img/f05be39c47b525782ec78c876224f6b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N13VNPVB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://monosnap.com/image/Isrs18qTVpNMYfWcXNuq9RbvG7Z4nS.png)
 
 为了测试我们的无密码认证实验，我们只需要几个屏幕和路径:
 
@@ -732,7 +732,7 @@ formView email =
     Html.div
         []
         [ Html.img
-            [ Html.src "/images/icons8-mailbox-128.png"
+            [ Html.srcimg/icons8-mailbox-128.png"
             , Html.class "mb-4 slide-in-blurred-top"
             ]
             []
@@ -765,7 +765,7 @@ successMessageView message =
     Html.div
         []
         [ Html.img
-            [ Html.src "/images/icons8-postal-128.png"
+            [ Html.srcimg/icons8-postal-128.png"
             , Html.class "mb-4 jello-horizontal"
             ]
             []
@@ -814,7 +814,7 @@ view { email } model =
     Html.div
         []
         [ Html.img
-            [ Html.src "/images/icons8-confetti-128.png"
+            [ Html.srcimg/icons8-confetti-128.png"
             , Html.class "mb-4 jello-horizontal"
             ]
             []
@@ -1298,4 +1298,4 @@ Enter fullscreen mode Exit fullscreen mode
 编码快乐！
 
 [源代码](https://github.com/bigardone/passwordless-auth)
-[![](../Images/1c0813281f9983b25823b768bdf2c1cb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wtshTk4E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/CodeLoveAndBoards/%257E4/lXn38etaNYA)
+[![](img/1c0813281f9983b25823b768bdf2c1cb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wtshTk4E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/CodeLoveAndBoards/%257E4/lXn38etaNYA)

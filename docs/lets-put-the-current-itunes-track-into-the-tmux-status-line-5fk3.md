@@ -4,7 +4,7 @@
 
 当你到达终点时，当音乐真的很糟糕/摇滚时，知道音乐是为了什么会很好。在你的 Tmux 状态栏中加入这样的内容不是很好吗:
 
-[![tmux status](../Images/3728281d5af49cd2251d7156e0c6d2af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oG5S86pW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zqsv4bhmtbo115rsojx3.png)
+[![tmux status](img/3728281d5af49cd2251d7156e0c6d2af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oG5S86pW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zqsv4bhmtbo115rsojx3.png)
 
 (答案是*是*)
 

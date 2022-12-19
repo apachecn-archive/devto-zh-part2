@@ -45,7 +45,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 要在您自己的类中重载一个方法，请向该类中添加一个新方法，并赋予它与现有方法相同的名称，但使用不同的参数。该方法出现在导航器中，重载参数显示在方法下方，以便您可以区分它们。
 
-[![](../Images/47522560a9cf900d4a169f0f83f902cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6TDs-kVG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dzf8vqv24eqhg.cloudfront.net/userfiles/1539/2321/ckfinder/images/ClassMethodOverloading.png%3Fdc%3D201509211950-10)
+[![](img/47522560a9cf900d4a169f0f83f902cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6TDs-kVG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dzf8vqv24eqhg.cloudfront.net/userfiles/1539/2321/ckfindimg/ClassMethodOverloading.png%3Fdc%3D201509211950-10)
 
 要在内置框架类中重载方法，首先需要使用继承创建一个子类。
 
@@ -73,7 +73,7 @@ Enter fullscreen mode Exit fullscreen mode
 2.  您可以在导航器中选择一个类别，并使用上下文菜单选项“新建子类”来创建基于所选类别的新子类别。
 3.  您可以向项目中添加一个类(使用工具栏上的“插入”按钮或“插入”菜单)，然后手动将其 Super 属性更改为它所基于的类的名称。您可以在“超”字段中键入超类的名称，或者您可以单击字段旁边的小“铅笔”按钮图标来显示“选择超类”窗口，您可以在其中选择一个类。
 
-[![](../Images/9bdc2303ca665044919c934903eead6b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--abeo6eDx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dzf8vqv24eqhg.cloudfront.net/userfiles/1539/2321/ckfinder/images/SelectSuperclass.png%3Fdc%3D201509211954-33)
+[![](img/9bdc2303ca665044919c934903eead6b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--abeo6eDx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dzf8vqv24eqhg.cloudfront.net/userfiles/1539/2321/ckfindimg/SelectSuperclass.png%3Fdc%3D201509211954-33)
 
 ## 从现有类创建超类
 

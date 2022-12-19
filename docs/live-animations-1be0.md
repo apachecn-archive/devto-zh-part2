@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/pekosog/live-animations-1be0>
 
-[![some screenshot](../Images/dd7d4b89def84dbb807917bd74ccc57c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wf1LiOjW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pb7d91kshy8tlcfwkvb6.png)
+[![some screenshot](img/dd7d4b89def84dbb807917bd74ccc57c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wf1LiOjW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pb7d91kshy8tlcfwkvb6.png)
 
 你好。嗯，我在做一些在看了[这个视频](https://www.youtube.com/watch?v=6ucTdeRcr0k)后想到的随意的东西。
 
@@ -18,7 +18,7 @@
 *   利润！
 
 我的架构计划大概是这样的:
-[![Architecture Diagram](../Images/edb477382554c8837e820afcc64e49f7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QGP6DljN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m65v89sh12a79841yncy.png)
+[![Architecture Diagram](img/edb477382554c8837e820afcc64e49f7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QGP6DljN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m65v89sh12a79841yncy.png)
 
 目前我只有 JS Animation + Animation change 事件的一个简单例子和 POC(基于一个输入事件监听器)。
 

@@ -18,7 +18,7 @@
 
 <figure>
 
-[![We're good. This framework is DRY](../Images/bd413999a5ab9997e34bc0be4b1e5942.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xO5dcIJS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://larribas.me/posts/colmena-an-architecture-for-highly-scalable-web-services/images/dry.jpg)
+[![We're good. This framework is DRY](img/bd413999a5ab9997e34bc0be4b1e5942.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xO5dcIJS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://larribas.me/posts/colmena-an-architecture-for-highly-scalable-web-servicimg/dry.jpg)
 
 <figcaption>We tried to be DRY, but working on our codebase felt like drowning.</figcaption>
 
@@ -47,7 +47,7 @@
 3.  依赖一系列接口从外部服务和技术接收输入(并将输出发送到外部服务和技术)。
 4.  公开一个公共 API(一个声明它能做什么的契约)。
 
-[![A basic authentication cell exposes operations to create new credentials, check them and update them. It also needs to communicate with an Oauth service and a database.](../Images/6f787b4ceb2e3c60be4d612465891867.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--loXP2pvX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://larribas.me/posts/colmena-an-architecture-for-highly-scalable-web-services/images/basic_cell.png)
+[![A basic authentication cell exposes operations to create new credentials, check them and update them. It also needs to communicate with an Oauth service and a database.](img/6f787b4ceb2e3c60be4d612465891867.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--loXP2pvX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://larribas.me/posts/colmena-an-architecture-for-highly-scalable-web-servicimg/basic_cell.png)
 
 你可以把细胞想象成**非常小的微服务**。事实上，我们鼓励你尽量让你的细胞变得更小。根据我们的经验，从长远来看，围绕实体和关系细化您的领域有助于您理解、测试和维护代码库。这些是[现实世界后端](https://github.com/schoolhouse-io/colmena-realworld-example-app)的细胞:
 
@@ -80,7 +80,7 @@
 
 > 我们可以用一种既简单又强大的方式[验证和描述我们的应用程序的行为](https://github.com/schoolhouse-io/colmena-realworld-example-app/blob/master/lib/real_world/follow/domain.rb)，忘记噪音。
 
-[![A functional, evented domain takes a current state (pure data), some arguments (pure data) and produces a deterministic output (pure data).](../Images/92c148f4b7f383652638ca7e3f83c128.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BN9EyTIM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://larribas.me/posts/colmena-an-architecture-for-highly-scalable-web-services/images/evented_domain.png)
+[![A functional, evented domain takes a current state (pure data), some arguments (pure data) and produces a deterministic output (pure data).](img/92c148f4b7f383652638ca7e3f83c128.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BN9EyTIM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://larribas.me/posts/colmena-an-architecture-for-highly-scalable-web-servicimg/evented_domain.png)
 
 ### 公共契约
 
@@ -97,7 +97,7 @@
 
 在 *Colmena* 中，我们称前者为*命令*，后者为*查询*，我们处理它们的方式略有不同。这种模式被称为 [CQRS(命令-查询责任分离)](https://martinfowler.com/bliki/CQRS.html)。链接的文章很好地解释了这种方法的优缺点，所以我们将把重点放在这个真实世界代码库的具体实现上:
 
-[![A query reads from a database (which could be optimized for a particular kind of read operation), whereas a command might need to read from a database, find out what to do and store the changes, all of this within a transaction.](../Images/469171b718ce150346c21600d9c228b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jS3-mTiu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://larribas.me/posts/colmena-an-architecture-for-highly-scalable-web-services/images/cqrs_sequence_diagram.png)
+[![A query reads from a database (which could be optimized for a particular kind of read operation), whereas a command might need to read from a database, find out what to do and store the changes, all of this within a transaction.](img/469171b718ce150346c21600d9c228b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jS3-mTiu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://larribas.me/posts/colmena-an-architecture-for-highly-scalable-web-servicimg/cqrs_sequence_diagram.png)
 
 对于一个项目来说，确保所有这些面向公众的组件的合同都被恰当地记录和语义版本化是非常有价值的。开发人员需要能够随时学习和信任:
 
@@ -112,7 +112,7 @@
 
 例如，上图中的事务可能会调用这些具体化器:
 
-[![A transaction makes sure the events are materialized in different ways.](../Images/ec86ae71e49f1236ed329174593bd56a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QU8MMmjT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://larribas.me/posts/colmena-an-architecture-for-highly-scalable-web-services/images/materialization_diagram.png)
+[![A transaction makes sure the events are materialized in different ways.](img/ec86ae71e49f1236ed329174593bd56a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QU8MMmjT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://larribas.me/posts/colmena-an-architecture-for-highly-scalable-web-servicimg/materialization_diagram.png)
 
 让我们再试试第二个例子。我们现在正在处理*篇文章*。物化者可能得到以下事件序列:
 
@@ -165,7 +165,7 @@ article_tagged(...)
 
 <figure>
 
-[![In the hexagonal architecture, a cell has several layers. The outmost layer is the framework layer, where we interface with specific tools, services or libraries. Beneath it is the aplication layer, where we expose all public-facing features (commands, queries and listeners in our case). Beneath the application is the domain.](../Images/19fc32f076ceeffaec47c3853d68a250.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2RYKjq3F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://larribas.me/posts/colmena-an-architecture-for-highly-scalable-web-services/images/cell_layers.png)
+[![In the hexagonal architecture, a cell has several layers. The outmost layer is the framework layer, where we interface with specific tools, services or libraries. Beneath it is the aplication layer, where we expose all public-facing features (commands, queries and listeners in our case). Beneath the application is the domain.](img/19fc32f076ceeffaec47c3853d68a250.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2RYKjq3F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://larribas.me/posts/colmena-an-architecture-for-highly-scalable-web-servicimg/cell_layers.png)
 
 <figcaption>The layers in the hexagonal architecture, as applied to the concepts in Colmena.</figcaption>
 
@@ -179,7 +179,7 @@ Colmena 在西班牙语中是蜂巢的意思。就像我们的建筑一样，�
 
 因此得名。
 
-[![A beehive is made up of many hexagonal cells that work together](../Images/99685d10251a94ec6dde67097d3fa33c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JbOh05Ak--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://larribas.me/posts/colmena-an-architecture-for-highly-scalable-web-services/images/beehive.jpg)
+[![A beehive is made up of many hexagonal cells that work together](img/99685d10251a94ec6dde67097d3fa33c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JbOh05Ak--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://larribas.me/posts/colmena-an-architecture-for-highly-scalable-web-servicimg/beehive.jpg)
 
 * * *
 

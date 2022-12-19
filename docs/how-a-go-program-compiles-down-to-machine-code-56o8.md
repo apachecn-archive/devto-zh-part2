@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/getstream_io/how-a-go-program-compiles-down-to-machine-code-56o8>
 
-[![](../Images/72e90f3daf4aa329aa832b60890a5b0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GyZvNM8B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/09/digesting_3_pounds_of_steak_.png%3Fw%3D1024%26h%3D1024)
+[![](img/72e90f3daf4aa329aa832b60890a5b0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GyZvNM8B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/09/digesting_3_pounds_of_steak_.png%3Fw%3D1024%26h%3D1024)
 
 在 Stream，我们广泛使用围棋，它极大地提高了我们的工作效率。我们还发现，通过使用 Go，速度非常快，而且自从我们开始使用它以来，我们已经实现了堆栈中的关键任务部分，例如由 gRPC、Raft 和 RocksDB 支持的内部存储引擎。
 
@@ -48,7 +48,7 @@ Go 再次为我们提供了解析程序和查看 AST 的包: **go/parser** 和 *
 
 为了进一步理解它，我们可以看一下这个图表，它是上述数据的一个表示，但只包括类型和对应于节点的红色代码:
 
-[![](../Images/b005386437d8760742db205192591d3b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mFbvkXde--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/09/image1-5.png%3Fw%3D1024%26h%3D1024)
+[![](img/b005386437d8760742db205192591d3b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mFbvkXde--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/09/image1-5.png%3Fw%3D1024%26h%3D1024)
 
 主函数由三部分组成:名称、声明和主体。该名称用值为 main 的标识符表示。由 Type 字段指定的声明将包含一个参数和返回类型的列表，如果我们指定了任何类型的话。主体由一个包含程序所有行的语句列表组成，在本例中只有一行。
 
@@ -96,7 +96,7 @@ Args 包含作为函数参数的表达式列表。在本例中，我们向函数
 
 它将打印所有 SSA，但也会生成一个交互式的 ssa.html 文件，因此我们将使用它。
 
-[![](../Images/a616f4236e2b3b9b16f66042f11c8b87.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uP63I01s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/09/image3-4.png%3Fw%3D1024%26h%3D1024)
+[![](img/a616f4236e2b3b9b16f66042f11c8b87.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uP63I01s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/09/image3-4.png%3Fw%3D1024%26h%3D1024)
 
 当你打开 ssa.html 的时候，会显示一些关卡，大部分都是折叠的。开始阶段是从 AST 生成的 SSA 下层将非机器专用 SSA 转换为机器专用 SSA，genssa 是最终生成的机器代码。
 

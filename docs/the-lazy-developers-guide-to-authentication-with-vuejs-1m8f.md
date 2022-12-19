@@ -19,7 +19,7 @@ cd okta-vue-auth-example
 npm i 
 ```
 
-[![Vue Init](../Images/a2fc072cf44985499a400a0de75a5716.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LZdBSqry--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-auth-sdk/vue-init-b68441585a73522592020e6fdb58e0e527a5c82d541a3c0852fcdb60f111fce5.png)
+[![Vue Init](img/a2fc072cf44985499a400a0de75a5716.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LZdBSqry--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-auth-sdk/vue-init-b68441585a73522592020e6fdb58e0e527a5c82d541a3c0852fcdb60f111fce5.png)
 
 我在 [IntelliJ IDEA](https://www.jetbrains.com/idea/) (免责声明:我最喜欢的 IDE)中打开这个项目，惊讶地发现 ESLint 规则更喜欢以*结尾，而不用*分号。JavaScript 中的分号之争愈演愈烈！
 
@@ -273,15 +273,15 @@ function requireAuth (to, from, next) {
 
 如果你打开浏览器到`http://localhost:8080`，你应该会看到一个类似下面的屏幕。
 
-[![Auth Flow Home](../Images/01c9b80c1caf67fc211dc3efa03c2566.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LqyXkA6L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-auth-sdk/auth-flow-home-2b30ac35dc8e3a69e401f2195c02a9152c3dbcfe92edfd90c4f29dcd349399d2.png)
+[![Auth Flow Home](img/01c9b80c1caf67fc211dc3efa03c2566.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LqyXkA6L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-auth-sdk/auth-flow-home-2b30ac35dc8e3a69e401f2195c02a9152c3dbcfe92edfd90c4f29dcd349399d2.png)
 
 点击**仪表板**链接，系统会提示您登录。
 
-[![Auth Flow Dashboard](../Images/0ad6f6782b6f5f5d9409691cb17eeb83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nsAZbjOp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-auth-sdk/auth-flow-login-caca6caf64d088b7251f66afc02ba89553311f2cc8e236922cb59574138c0b69.png)
+[![Auth Flow Dashboard](img/0ad6f6782b6f5f5d9409691cb17eeb83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nsAZbjOp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-auth-sdk/auth-flow-login-caca6caf64d088b7251f66afc02ba89553311f2cc8e236922cb59574138c0b69.png)
 
 输入`joe@example/password1`将进入下一步。
 
-[![Auth Flow Dashboard](../Images/3bbd63c267b7a0df549d0e0b41981e7f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--962MTWQK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-auth-sdk/auth-flow-dashboard-4fabdf55f45050327c748464c9631146c7ea7a2f7dd6ac6380b6a1c46a14a30b.png)
+[![Auth Flow Dashboard](img/3bbd63c267b7a0df549d0e0b41981e7f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--962MTWQK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-auth-sdk/auth-flow-dashboard-4fabdf55f45050327c748464c9631146c7ea7a2f7dd6ac6380b6a1c46a14a30b.png)
 
 如果你打开 Chrome 开发者工具，你会看到一条消息，建议安装 [Vue Devtools 扩展](https://github.com/vuejs/vue-devtools)以获得更好的开发体验。
 
@@ -346,7 +346,7 @@ export default {
 
 为了能够从 [http://localhost:8080](http://localhost:8080) 与 Okta 对话，你需要将其添加为可信来源。你可以登录你的 Okta 仪表盘，导航到 **API** > **可信来源**来完成。添加`http://localhost:8080`并选择 CORS 和重定向复选框。
 
-[![Add Origin](../Images/96f48aaab8cdfb4f02117be2a4377cac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LaU3v7qc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-auth-sdk/add-origin-8580085d33e7d7efd626c61b44adcfc195986ae46a1dab49a4f4775e48e86c21.png)
+[![Add Origin](img/96f48aaab8cdfb4f02117be2a4377cac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LaU3v7qc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-auth-sdk/add-origin-8580085d33e7d7efd626c61b44adcfc195986ae46a1dab49a4f4775e48e86c21.png)
 
 做了这个更改后，一切都应该和以前一样工作，但是您必须使用 Okta 凭证登录。
 
@@ -444,7 +444,7 @@ return authClient.signIn({
 
 你需要在俄克拉荷马州创建一个 OIDC 应用程序来获得`{clientId}`。为此，请登录您的 Okta 开发者账户，导航至**应用** > **添加应用**。点击 **SPA** 并点击**下一个**按钮。给这个应用取一个你会记住的名字，并指定`http://localhost:8080`为基本 URI，登录重定向 URI。
 
-[![OIDC Settings](../Images/0094fffa65b7fd421cbfda07fbe457de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wGUmGcyA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-auth-sdk/oidc-settings-d4d35063103b8a2f5dff3290a8b7bc6190854f07c78b192019b9ca1143c25e98.png)
+[![OIDC Settings](img/0094fffa65b7fd421cbfda07fbe457de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wGUmGcyA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-auth-sdk/oidc-settings-d4d35063103b8a2f5dff3290a8b7bc6190854f07c78b192019b9ca1143c25e98.png)
 
 点击**完成**，你会看到一个屏幕，屏幕下方显示这些信息和一个客户 ID。将客户端 ID 复制到`src/auth.js`中。
 
@@ -493,7 +493,7 @@ parseJwt (token) {
 
 如果您的项目没有运行，用`npm start`启动它并导航到`http://localhost:8080`。如果有效，那就欢呼吧！
 
-[![Welcome Okta](../Images/7d8d1e62747e35a183f0aec89efbf0c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tuA3CVsX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-auth-sdk/welcome-okta-0508b4cb13edb8ae7ea2b9bc5cc722057e2473b531cb609e344d5627a931c3bd.png)
+[![Welcome Okta](img/7d8d1e62747e35a183f0aec89efbf0c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tuA3CVsX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-auth-sdk/welcome-okta-0508b4cb13edb8ae7ea2b9bc5cc722057e2473b531cb609e344d5627a931c3bd.png)
 
 ## 审核您的渐进式 Web 应用程序
 
@@ -507,7 +507,7 @@ python -m SimpleHTTPServer 8080
 
 如果你在`http://localhost:8080`在你的应用上运行 Lighthouse，你应该会看到和下面截图类似的结果。
 
-[![Lighthouse audits on localhost](../Images/5dc67d09a9c12dbf39b7b7457ef92e85.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gsky4y5q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-auth-sdk/lighthouse-localhost-5539e490b8fc79145e7105b8dac01acdf8119755e5d982c3ab3a4b4b81128af5.png)
+[![Lighthouse audits on localhost](img/5dc67d09a9c12dbf39b7b7457ef92e85.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gsky4y5q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-auth-sdk/lighthouse-localhost-5539e490b8fc79145e7105b8dac01acdf8119755e5d982c3ab3a4b4b81128af5.png)
 
 因为我喜欢看最大可能得分是多少，所以我将这个应用程序部署到 Pivotal 的 Cloud Foundry。我创建了一个`deploy.sh`脚本来代替`redirectUri`(你也可以删除它来达到同样的效果)，并使用`cf push`进行部署。
 
@@ -525,7 +525,7 @@ cf set-env vue-auth-pwa FORCE_HTTPS true cf start vue-auth-pwa
 
 在[https://vue-auth-pwa . cf apps . io](https://vue-auth-pwa.cfapps.io)上运行 Lighthouse 会产生一些非常好的数字！
 
-[![Lighthouse audits on Cloud Foundry](../Images/5b0970d5c3b06a82c9e2a3e9dfc11326.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NfIrhEYR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-auth-sdk/lighthouse-cloudfoundry-738140e5bbe989753ca16f7fad5b19eedab28bce60b92b1c0bd2ba23c920ed9b.png)
+[![Lighthouse audits on Cloud Foundry](img/5b0970d5c3b06a82c9e2a3e9dfc11326.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NfIrhEYR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-auth-sdk/lighthouse-cloudfoundry-738140e5bbe989753ca16f7fad5b19eedab28bce60b92b1c0bd2ba23c920ed9b.png)
 
 ## 在关闭
 

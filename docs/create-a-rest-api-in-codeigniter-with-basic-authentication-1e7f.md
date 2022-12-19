@@ -10,7 +10,7 @@ REST 代表代表性状态转移。REST API 是一个 web 服务，它使用 HTT
 
 在本教程中，我将演示如何在 Codeigniter 中创建 REST API。为了创建 API，我将使用由 Phil Sturgeon 编写的、目前由 Chris Kacerguis 支持的 codeigniter-restserver。我还将使用 codeigniter-restclient 库。
 
-[![Alt text](../Images/477734d782235e600cfac98f0b9a1c4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FkyXorEz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ueg7okh8thprev2cay9s.jpg)
+[![Alt text](img/477734d782235e600cfac98f0b9a1c4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FkyXorEz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ueg7okh8thprev2cay9s.jpg)
 
 在 Codeigniter 中创建 REST API 的过程包括以下步骤:
 
@@ -29,15 +29,15 @@ REST 代表代表性状态转移。REST API 是一个 web 服务，它使用 HTT
 
 选择您的提供商(Google、Amazon、Vultr、DigitalOcean、Kyup)，根据您的需求选择服务器大小，然后单击启动按钮。更多细节请看下面的 GIF:
 
-[![Alt text](../Images/6c802a099d573a67d270765e7afaf6a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X3MGeGdX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7keo603sxo7f3p0fucjb.gif)
+[![Alt text](img/6c802a099d573a67d270765e7afaf6a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X3MGeGdX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7keo603sxo7f3p0fucjb.gif)
 
 现在您的服务器和应用程序已经准备好了，通过单击服务器名称打开您的服务器。
 
-[![Alt text](../Images/4151d4b53cfdbc281a4504cfb0365de6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a9ELXpfS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wru2oimg53a46vnva785.png)
+[![Alt text](img/4151d4b53cfdbc281a4504cfb0365de6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a9ELXpfS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wru2oimg53a46vnva785.png)
 
 使用主凭据区域中提供的用户名和密码登录。
 
-[![Alt text](../Images/275cbafc4e8744d1374218cada85ea22.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nktwVmKb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jr8zv6r0h3hrc57866eh.png)
+[![Alt text](img/275cbafc4e8744d1374218cada85ea22.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nktwVmKb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jr8zv6r0h3hrc57866eh.png)
 
 现在您已经连接到了您的服务器，转到 SSH 终端并键入以下命令来安装 Codeigniter。
 
@@ -51,7 +51,7 @@ wget https://github.com/bcit-ci/CodeIgniter/archive/develop.zip
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Alt text](../Images/936c007e92a9f0071295f65f014d0a91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yVnz3dMO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aboc65oj1uqksllfswtt.png)
+[![Alt text](img/936c007e92a9f0071295f65f014d0a91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yVnz3dMO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aboc65oj1uqksllfswtt.png)
 
 zip 文件下载完成后，使用以下命令解压缩该文件。
 
@@ -68,13 +68,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 转到 Cloudways 面板上的 Application 选项卡，选择您的应用程序。单击突出显示的按钮(见下图)访问该应用程序。记得将/codeigniter 添加到 URL 中，然后按回车键。
 
-[![Alt text](../Images/bbfcf938c3739ff74376cd1f051556cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--maJoboyS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rq5p7bvxlrv3xpm9sfei.png)
+[![Alt text](img/bbfcf938c3739ff74376cd1f051556cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--maJoboyS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rq5p7bvxlrv3xpm9sfei.png)
 
 ## 创建数据库和表格
 
 我现在将创建一个简单的数据库，其中包含一个名为 User 的表。为了创建数据库，请转到应用程序管理选项卡并启动数据库管理器。
 
-[![Alt text](../Images/7bda2c1c82dcaff234307601564e90ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zmsm332M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ob18w3vdqltxoj3rfswj.png)
+[![Alt text](img/7bda2c1c82dcaff234307601564e90ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zmsm332M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ob18w3vdqltxoj3rfswj.png)
 
 在 SQL 命令字段中键入以下命令:
 
@@ -89,7 +89,7 @@ CREATE TABLE `tbl_user` (
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Alt text](../Images/8ca4ba92efd9c7fd30dbf433625af99e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rANAbnhB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3qusu3qmslufj10wzm1q.png)
+[![Alt text](img/8ca4ba92efd9c7fd30dbf433625af99e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rANAbnhB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3qusu3qmslufj10wzm1q.png)
 
 ## 设置库和权限
 
@@ -167,9 +167,9 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在打开应用程序/database.php，输入您的主机名、数据库名和密码(可在应用程序访问详情中找到)。
 
-[![Alt text](../Images/8c3b5d5e0f454f30b0280c8d77a644fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yYQoHQLp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bpqoqmv4jq7nral1w1ar.png)
+[![Alt text](img/8c3b5d5e0f454f30b0280c8d77a644fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yYQoHQLp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bpqoqmv4jq7nral1w1ar.png)
 
-[![Alt text](../Images/f06c086e0e9ba6e85ee97ecd49df04f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xnmExvlb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ww4t68tlp2kvts66pxp5.png)
+[![Alt text](img/f06c086e0e9ba6e85ee97ecd49df04f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xnmExvlb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ww4t68tlp2kvts66pxp5.png)
 
 下一步是设置身份验证。为此，打开应用程序/autoload.php，更改这行代码
 
@@ -362,21 +362,21 @@ Enter fullscreen mode Exit fullscreen mode
 
 为了测试 API 的 HTTP 调用，我将使用 Postman。转到 Postman，设置方法为 GET，然后设置认证和 API 密钥，如下所示:
 
-[![Alt text](../Images/fbe00f197bf3e560379b317dcf8f69fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T96ek2Qu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jvpq2jrahiuvcquagdk9.png)
+[![Alt text](img/fbe00f197bf3e560379b317dcf8f69fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T96ek2Qu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jvpq2jrahiuvcquagdk9.png)
 
-[![Alt text](../Images/29dc39cf873afacacc115614fd1b69c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a9Hyf-4U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3pidxgsb6plhnyxzas5x.png)
+[![Alt text](img/29dc39cf873afacacc115614fd1b69c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a9Hyf-4U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3pidxgsb6plhnyxzas5x.png)
 
 现在测试 POST 请求，将请求设置为 POST 并添加身份验证和 API 密钥。如下所示填写变量:
 
-[![Alt text](../Images/3a8167b0e95d802ec4b73d0efe18f987.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gJQA1mjs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/42bbctvf05lw6ock2mvn.png)
+[![Alt text](img/3a8167b0e95d802ec4b73d0efe18f987.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gJQA1mjs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/42bbctvf05lw6ock2mvn.png)
 
 接下来，我将测试 PUT 请求。在 URL 的第三段传递 id，将请求设置为 PUT，设置身份验证和 API 密钥，并填写参数，如下所示:
 
-[![Alt text](../Images/6df58c5f6d19a6b3d1d923f6a81b5af3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qoLk1fP4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gtmm2bppe3dytc0euu0n.png)
+[![Alt text](img/6df58c5f6d19a6b3d1d923f6a81b5af3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qoLk1fP4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gtmm2bppe3dytc0euu0n.png)
 
 要测试删除请求，请在 URL 的第三段中传递 id，设置要删除的请求，设置身份验证和 API 密钥，并填写如下所示的参数:
 
-[![Alt text](../Images/8cb5a91ffab79e3e6c614fa3899a3758.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--00jVVGh_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/an85wb90aodczgul0nh2.png)
+[![Alt text](img/8cb5a91ffab79e3e6c614fa3899a3758.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--00jVVGh_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/an85wb90aodczgul0nh2.png)
 
 结论
 

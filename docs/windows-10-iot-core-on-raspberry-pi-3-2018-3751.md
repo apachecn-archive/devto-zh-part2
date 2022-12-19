@@ -60,10 +60,10 @@ ffu2img 库也包含 python 3 的 py3 脚本，但我没有尝试。
 
 在左侧面板中，选择**连接- >网络**，可以配置 wifi AP:
 
-[![](../Images/423f0b1959971b0594f326cd16de2a51.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EPA_vpjk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/iot_dashboard_network.png)
+[![](img/423f0b1959971b0594f326cd16de2a51.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EPA_vpjk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/iot_dashboard_network.png)
 
 最初，显示屏是上下颠倒的(假设 HDMI 端口是“向上”的，就像使用[触摸屏外壳](https://www.amazon.com/Raspberry-Pi-7-Inch-Touch-Screen/dp/B01GQFUWIC)时一样)。要解决这个问题，在左侧面板中选择**设备设置**，在**显示方向**中选择`Landscape (Flipped)` :
 
-[![](../Images/a89ca57e26451d2c2cf76bff9836ca1c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pJS0XWWe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/iot_dashboard_orientation.png)
+[![](img/a89ca57e26451d2c2cf76bff9836ca1c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pJS0XWWe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/iot_dashboard_orientation.png)
 
 现在终于要开始那个长期逾期的项目了。

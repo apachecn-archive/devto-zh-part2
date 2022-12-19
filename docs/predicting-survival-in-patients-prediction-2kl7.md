@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ugis22/predicting-survival-in-patients-prediction-2kl7>
 
-[![](../Images/87d008be45af321f49768cabbf267a22.png)T2】](https://cdn-images-1.medium.com/max/1024/1*vpaLyTILKqRSQXqIu6BT7w.jpeg)
+[![](img/87d008be45af321f49768cabbf267a22.png)T2】](https://cdn-images-1.medium.com/max/1024/1*vpaLyTILKqRSQXqIu6BT7w.jpeg)
 
 #### 构建我的第一个数据科学项目
 

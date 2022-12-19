@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/picsoung/prevent-duplicate-entries-on-your-forms-using-serverless--1cea>
 
-<figure>[![](../Images/19e17f07a17bf074aa3d6de3352d1375.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8IcxpJsH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AtQgn3k8gqNFRNmvk) 
+<figure>[![](img/19e17f07a17bf074aa3d6de3352d1375.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8IcxpJsH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AtQgn3k8gqNFRNmvk) 
 
 <figcaption>【猴子看镜子】作者[安德烈·木桐](https://unsplash.com/@andremouton?utm_source=medium&utm_medium=referral)上[下](https://unsplash.com?utm_source=medium&utm_medium=referral)</figcaption>
 
@@ -28,7 +28,7 @@
 
 这里有一个关于它如何工作的图表:
 
-<figure>[![](../Images/b22b7b4266ed37d0c8f759a658bfe7d6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--D3JEPfDT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/909/1%2AK3jKvYQk7xxxa2k8JxIEWw.gif) 
+<figure>[![](img/b22b7b4266ed37d0c8f759a658bfe7d6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--D3JEPfDT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/909/1%2AK3jKvYQk7xxxa2k8JxIEWw.gif) 
 
 <figcaption>一张 gif 胜过千言万语</figcaption>
 
@@ -38,7 +38,7 @@
 
 本教程的第一步是准备您的类型表单，使其与我们的集成一起工作。如果您还没有电子邮件阻止，现在就像这样在您的表单中添加一个:
 
-<figure>[![](../Images/84f60986efcf874c090764c09c6fa4d5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--15N-IHvn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A3_WPEzlwgEKitPgff-LUjw.gif) 
+<figure>[![](img/84f60986efcf874c090764c09c6fa4d5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--15N-IHvn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A3_WPEzlwgEKitPgff-LUjw.gif) 
 
 <figcaption>拖拽一个邮件块到你的表单中</figcaption>
 
@@ -52,7 +52,7 @@
 
 在语句块中，添加一个总是重定向到电子邮件块的逻辑。它应该是这样的:
 
-<figure>[![](../Images/8d465b7aecdd83424877cc77d2d2387d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bBCxUxvT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/472/1%2ApZwGCuF3C6t2MjuE9JZdsA.png) 
+<figure>[![](img/8d465b7aecdd83424877cc77d2d2387d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bBCxUxvT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/472/1%2ApZwGCuF3C6t2MjuE9JZdsA.png) 
 
 <figcaption>逻辑图为我们的形式</figcaption>
 
@@ -177,6 +177,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 黑客快乐\m/
 
-<figure>[![🎵 Sweet dreams are made by geeks, who are we to ditch a PR? We travel to events and assorted meetups. Everybody is looking for swag.](../Images/ef35dcb0312ee4a91414f6b9d8c2ff79.png)](https://developer.typeform.com/?utm_source=dev.to&utm_medium=engineering-blog-article&utm_campaign=engineering-blog-links)T4】🎵甜蜜的梦是由极客创造的，我们是谁呢？我们去参加活动和各种聚会。每个人都在寻找赃物。</figure>
+<figure>[![🎵 Sweet dreams are made by geeks, who are we to ditch a PR? We travel to events and assorted meetups. Everybody is looking for swag.](img/ef35dcb0312ee4a91414f6b9d8c2ff79.png)](https://developer.typeform.com/?utm_source=dev.to&utm_medium=engineering-blog-article&utm_campaign=engineering-blog-links)T4】🎵甜蜜的梦是由极客创造的，我们是谁呢？我们去参加活动和各种聚会。每个人都在寻找赃物。</figure>
 
 * * *

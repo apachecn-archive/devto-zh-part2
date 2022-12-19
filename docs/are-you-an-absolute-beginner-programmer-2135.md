@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/gsdev/are-you-an-absolute-beginner-programmer-2135>
 
-[!["stock header"](../Images/b6f2adbef4fa991226a4ec93a490717d.png "Simple Free Stock Header")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--okSgztkf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9lpaod5dgz0qx4d463z2.png)
+[!["stock header"](img/b6f2adbef4fa991226a4ec93a490717d.png "Simple Free Stock Header")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--okSgztkf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9lpaod5dgz0qx4d463z2.png)
 
 有几个非常简单的原因可以解释为什么新手可能处于现代编码领域的最佳位置。鉴于现在学习编程可能比历史上任何时候都要容易。
 

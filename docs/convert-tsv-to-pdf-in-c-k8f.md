@@ -21,7 +21,7 @@
 
 > ***标题:**使用 Aspose 将样本 TSV 文件转换为 PDF 格式。细胞 API*
 
-[![Sample TSV file to be converted to PDF formats using Aspose.Cells API](../Images/448a23058da28c7e03005bc1b059316e.png "Sample TSV file to be converted to PDF formats using Aspose.Cells API")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--grlX-LKD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/AsposeCells/AsposeCells-Screenshots-and-Sample-Files/master/Convert-TSV-to-PDF/Sample-TSV-file-to-be-converted-to-PDF-formats-using-Aspose.Cells-API.png)
+[![Sample TSV file to be converted to PDF formats using Aspose.Cells API](img/448a23058da28c7e03005bc1b059316e.png "Sample TSV file to be converted to PDF formats using Aspose.Cells API")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--grlX-LKD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/AsposeCells/AsposeCells-Screenshots-and-Sample-Files/master/Convert-TSV-to-PDF/Sample-TSV-file-to-be-converted-to-PDF-formats-using-Aspose.Cells-API.png)
 
 # 直接将 TSV 转换成 PDF
 

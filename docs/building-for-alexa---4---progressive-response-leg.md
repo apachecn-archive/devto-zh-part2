@@ -6,7 +6,7 @@
 
 这些允许你向用户展示技能正在进行中，可能需要一些时间。例如，如果您正在查找一个订单的交货状态，但是您需要与多个物流提供商核对以获得最终状态。整个操作可能需要 30 秒，然后你需要将这些信息打包成有用的语音响应。因此，当你在第三方检查进行到一半时，让用户知道你正在处理请求可能是有意义的，这可能会花费你更多的时间来获取信息。
 
-[![See the source image](../Images/1ef169f17b6f8e847ce64fd7454a91f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9vxHK75q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://i.stack.imgur.com/D2alZ.gif)
+[![See the source image](img/1ef169f17b6f8e847ce64fd7454a91f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9vxHK75q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://i.stack.imgur.com/D2alZ.gif)
 
 想象一下这是 windows 应用程序中沙漏的声音，或者是 web 应用程序中的动画圆圈(就像你在这里看到的)。
 

@@ -52,7 +52,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您可以在`http://localhost:4040`使用内置的 ngrok 仪表板查看所有请求的详细信息
 
-[![Dashboard](../Images/611d55e50c6059aa21985740ceff2527.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x5JXJNiz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iesb6jqsmab4q5z1sor4.png)
+[![Dashboard](img/611d55e50c6059aa21985740ceff2527.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x5JXJNiz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iesb6jqsmab4q5z1sor4.png)
 
 仅此而已。对于一些人来说，这可能看起来像一个微不足道的任务，但对于初学者来说，这是一个起点。
 

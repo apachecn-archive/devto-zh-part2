@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/mrfrontend/5-ways-to-loop-over-dom-elements-from-queryselectorall-in-javascript-7d>
 
-[![](../Images/0f0ca8f2f4cacc010f6c1584b903fbfc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ccYJFWQH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AS6dmsmlRJyMKeV_LvPBP1A.png)
+[![](img/0f0ca8f2f4cacc010f6c1584b903fbfc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ccYJFWQH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AS6dmsmlRJyMKeV_LvPBP1A.png)
 
 有很多方法可以循环一个由 querySelectorAll 方法返回的 NodeList 对象(DOM 元素列表)!在这篇文章中，我想分享 5 种方法。
 

@@ -13,5 +13,5 @@
 铆钉游戏的 UI/UX 首席设计师 Shawn Borsky 提醒我们，UX 不仅仅是 UI 的结果。根据他的说法，UX 是“品牌的核心”，品牌本身是“一个人与一家公司或组织的经历的总和”这使得积极的 UX 不仅是用户界面的目标，也是所有与组织互动的目标。
 
 网站提供的每一个细节都有助于用户的体验，以及他们在使用网站时形成的记忆和印象，但网站设计者无法直接控制这种体验。正如你在下图中看到的，我们很容易狭隘地只关注 UI，因为它是有形的，而不是像享受餐桌上的食物一样精心制作整个体验。
-[![Image from Pexel](../Images/bb77c6f4d679cdf8a1d96a7d9e1fae10.png "*Image from pexel*")](https://res.cloudinary.com/practicaldev/image/fetch/s--__GSjCVd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jnd4u7806b27xgdk7kwt.jpeg) 
+[![Image from Pexel](img/bb77c6f4d679cdf8a1d96a7d9e1fae10.png "*Image from pexel*")](https://res.cloudinary.com/practicaldev/image/fetch/s--__GSjCVd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jnd4u7806b27xgdk7kwt.jpeg) 
 同样，如果你在做饭，你要投入很多心思，对吧？你亲手挑选所有最好的配料，选择最好的食谱，并仔细遵循它们，你甚至可以摆出一个漂亮的中心装饰品来创造合适的气氛。嗯，网站也不例外。你想把每件事都计划得尽善尽美，让你的访客玩得开心。这就是为什么只有当你牢记 UX 时，才值得关注 UI 的细节。如果一个用户界面是精心打造的，那么它会在 UX 中展现出来。如果用户界面是随意构建的，很少花费精力，那么 UX 将很可能遭受损失。我认为这篇文章澄清了你对 UI 和 UX 的疑问。更多细节请查看:Chris Bank 的 Web UI 设计最佳实践

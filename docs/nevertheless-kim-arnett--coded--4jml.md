@@ -38,4 +38,4 @@ Allie Weber - Allie 是一个 12 岁的发明家！她总是在做一些有趣�
 
 最后，当你在职业生涯中处于有利地位时，转过身去帮助下一位女士。导师，老师，说话...这一切都很重要。
 
-[![You are a beautiful, talented, brilliant, powerful musk ox - gif](../Images/6233a80bbf658d91d5997e009aca8c0f.png)T2】](https://i.giphy.com/media/kLLDVeWnNwRXO/giphy.gif)
+[![You are a beautiful, talented, brilliant, powerful musk ox - gif](img/6233a80bbf658d91d5997e009aca8c0f.png)T2】](https://i.giphy.com/media/kLLDVeWnNwRXO/giphy.gif)

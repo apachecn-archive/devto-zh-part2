@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/harniloza/9-content-marketing-tips-that-can-be-used-in-mobile-app-development-4p4p>
 
-[![mobile app development](../Images/bc22447246263c8ab6ef4e43aad1faa7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qVGhkz7q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://marketingland.com/wp-content/ml-loads/2015/11/content-marketing-writing-pencils-ss-1920.jpg)
+[![mobile app development](img/bc22447246263c8ab6ef4e43aad1faa7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qVGhkz7q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://marketingland.com/wp-content/ml-loads/2015/11/content-marketing-writing-pencils-ss-1920.jpg)
 
 利用内容吸引顾客并获得追随者的想法并不新鲜，它几乎和互联网本身一样古老。然而，独特的是这个想法的重塑及其形式化，因此被冠以“内容营销”的名称。内容营销不仅仅是写几篇高质量的文章，偶尔发布。一个有效的内容营销活动需要仔细的规划，研究和顽强才能成功。
 

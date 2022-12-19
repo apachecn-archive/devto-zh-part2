@@ -33,11 +33,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们停止对 startup 的调用，检查一下寄存器。
 
-[![Imgur](../Images/b297c45b854e28ad01bcecdae624eeca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_TlRsJ9R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/mvzcSRj.png)
+[![Imgur](img/b297c45b854e28ad01bcecdae624eeca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_TlRsJ9R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/mvzcSRj.png)
 
 EBX(但它叫 RBX...稍后提示)是 0x3087b0，我们也可以在栈顶看到它。现在让我们进入启动阶段...
 
-[![Imgur](../Images/c045e9e043502934493ff20c63cc6ce3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7f14Am44--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/5kEHfUB.png)
+[![Imgur](img/c045e9e043502934493ff20c63cc6ce3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7f14Am44--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/5kEHfUB.png)
 
 呵...是的，嗯[我不得不继续下去，在这一点上我有点不同意你的观点](https://www.youtube.com/watch?v=J34UzHo4G5w)。
 
@@ -53,11 +53,11 @@ EBX(但它叫 RBX...稍后提示)是 0x3087b0，我们也可以在栈顶看到�
 
 这正是我所期待的。既然来了，我们就来问问 GDB 把 **foo** 打印到屏幕上取乐后是怎么想的吧:
 
-[![Imgur](../Images/f7790787620b2b9d2e7937b0b1ccd028.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eNEXIP1w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/u2RO8te.png)
+[![Imgur](img/f7790787620b2b9d2e7937b0b1ccd028.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eNEXIP1w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/u2RO8te.png)
 
 GDB，我该怎么说好呢...
 
-[![Imgur](../Images/bb71e9192718810a46a4c2b07813c6ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xz5_8yNn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/3GmuJru.jpg)
+[![Imgur](img/bb71e9192718810a46a4c2b07813c6ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xz5_8yNn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/3GmuJru.jpg)
 
 # 揭露阴谋
 
@@ -67,7 +67,7 @@ GDB，我该怎么说好呢...
 
 我们可以为此做个测试。在 boot.s 内部，就在 call 指令之前，我们可以将 EDI 设置为某个值，比如 0xcafebabe。猜猜 GDB 现在说 **foo** 是什么值？
 
-[![Imgur](../Images/340157478ee8a3ba8da10544d8265ab9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ygn7B-75--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/grvVwCl.png)
+[![Imgur](img/340157478ee8a3ba8da10544d8265ab9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ygn7B-75--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/grvVwCl.png)
 
 *值*为 0，*地址*为 Cafebac6。我无法解释为什么要抵消 8，如果你能，请告诉我。棺材上的最后一颗钉子是尝试使用 qemu-system-i386 而不是 system-x86_64，而不做任何代码更改。毫不奇怪，GDB 打印出了 **foo** 的正确值。
 

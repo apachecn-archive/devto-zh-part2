@@ -10,4 +10,4 @@
 
 移动表单正在市场上独辟蹊径。相比之下，在任何业务中，它的表现都比纸质表格好得多。这些移动表单为您的业务提供了更多的访问和杠杆，以便更好地了解您的见解和分析。此外，每个企业都有不同的表单需求。那么，将业务转移到移动表单真的很重要吗？这与移动表单的重要性无关，对于希望让自己与众不同、提高客户满意度并允许自己进一步纠正或清除错误以帮助创建更好的业务渠道的企业来说，这是必要的。查看我们的信息图，找出您的企业使用移动表单的一些最佳方式……[https://goo.gl/aV9cJp](https://goo.gl/aV9cJp)
 
-[![Top 11 Ways to Use Mobile Forms](../Images/9b9c45e940d45ff1ef2c9a6c9dba745d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zaftcTsU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6jl0svc2heyeqr4vpted.png)
+[![Top 11 Ways to Use Mobile Forms](img/9b9c45e940d45ff1ef2c9a6c9dba745d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zaftcTsU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6jl0svc2heyeqr4vpted.png)

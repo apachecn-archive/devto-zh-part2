@@ -4,7 +4,7 @@
 
 有一些投资组合管理应用程序具有良好的功能，如 Delta 或 BitUniverse，但在现实中，我不认为它们涵盖了一些重要的功能，这些功能对于在所有交易所跟踪您的投资组合至关重要。每个密码爱好者都知道，当你真正进入密码世界时，很难只停留在一个交易所。市场上的硬币种类繁多，一个交易所拥有所有硬币几乎是不可能的，所以每个人在多个交易所都有账户，从某种程度上来说，跟踪你所有的资产几乎是不可能的。随之而来的是投资组合管理应用的想法。作为一名软件开发学生，我决定自己创造一个更好的解决方案来追踪我的加密帝国。因此，开始开发加密帝国应用程序。
 
-<center>![crypto_imperium_logo.png](../Images/a6e6534c58d38c91946135ad9d0277a4.png)</center>
+<center>![crypto_imperium_logo.png](img/a6e6534c58d38c91946135ad9d0277a4.png)</center>
 
 Crypto Imperium 允许您在一个应用程序中跟踪多个交易。
 功能:
@@ -23,7 +23,7 @@ Crypto Imperium 允许您在一个应用程序中跟踪多个交易。
 
 这里有一些应用程序的截图:
 
-<center>![screenshots_montage.png](../Images/2d506ed8ea4fd64ca88f3462e284cbd3.png)</center>
+<center>![screenshots_montage.png](img/2d506ed8ea4fd64ca88f3462e284cbd3.png)</center>
 
 **注:图中所有数值均为示例值。**
 

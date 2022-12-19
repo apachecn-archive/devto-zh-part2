@@ -18,7 +18,7 @@
 
 试图反转一个字符串？在黑板上写“你好”。“手动”反转它——从每个字符的当前位置向它想要的位置画箭头。
 
-[![An array containing the string "hello." Arrows are drawn to show the swapping of the first letter with the last letter, the second letter with the second to last letter, and the middle letter with itself.](../Images/727b3b786d09b6f2f039f644bb53af3c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_Z0eaapb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.interviewcake.com/images/svgs/unstuck__hello_string.svg%3Fbust%3D170)
+[![An array containing the string "hello." Arrows are drawn to show the swapping of the first letter with the last letter, the second letter with the second to last letter, and the middle letter with itself.](img/727b3b786d09b6f2f039f644bb53af3c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_Z0eaapb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.interviewcake.cimg/svgs/unstuck__hello_string.svg%3Fbust%3D170)
 
 注意这种模式:看起来我们正在*交换*对角色，从外部开始，向内部移动。现在我们已经完成了算法的一半。
 

@@ -14,7 +14,7 @@
 
 下面是我们将要构建的内容的屏幕记录。正如你所看到的，当一条信息被发送时，它被标记为已发送，当它到达收件人的手机时，它被标记为已发送。
 
-[![](../Images/3d1fa5b7f38768f59f094c1c2bcef5e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LXRWfcPM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/09/build-message-delivery-status-ios-using-pusher-2.gif)
+[![](img/3d1fa5b7f38768f59f094c1c2bcef5e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LXRWfcPM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/09/build-message-delivery-status-ios-using-pusher-2.gif)
 
 ## iOS 应用入门
 
@@ -43,7 +43,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们将创建几个视图，以便聊天应用程序正常运行。这些视图将类似于下面的截图:
 
-[![](../Images/ce215d9b94bde062f350bcc80490321f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ENc6Zpuz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/09/build-message-delivery-status-ios-using-pusher-3.png)
+[![](img/ce215d9b94bde062f350bcc80490321f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ENc6Zpuz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/09/build-message-delivery-status-ios-using-pusher-3.png)
 
 我们上面所做的是创建第一个 ViewController，它将作为我们的 welcome ViewController，我们还添加了一个按钮，它触发导航到下一个控制器`Navigation Controller`。这个导航控制器又将一个视图控制器设置为根控制器。
 
@@ -454,13 +454,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 用您的推杆应用中的实际值替代。现在在目录上运行`npm install`，然后在 npm 安装完成后运行`node index.js`。你应该看到一个*应用程序在 4000 端口监听！*消息。
 
-[![](../Images/069e8721d24afd901a271c9d1cfcfdb9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kdRvaRZH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/09/build-message-delivery-status-ios-using-pusher-5.png) 屏幕显示当前运行的节点应用程序。
+[![](img/069e8721d24afd901a271c9d1cfcfdb9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kdRvaRZH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/09/build-message-delivery-status-ios-using-pusher-5.png) 屏幕显示当前运行的节点应用程序。
 
 ## 测试应用程序
 
 一旦您的本地节点 web 服务器开始运行，您将需要进行一些更改，以便您的应用程序可以与本地 web 服务器通信。在`info.plist`文件中，进行以下更改:
 
-[![](../Images/81e5bb651bcfa2999c323237dfcb3917.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EtIPKiNO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/09/build-message-delivery-status-ios-using-pusher-4.png) 更改 info.plist 文件以允许 iOS 连接到本地主机
+[![](img/81e5bb651bcfa2999c323237dfcb3917.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EtIPKiNO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/09/build-message-delivery-status-ios-using-pusher-4.png) 更改 info.plist 文件以允许 iOS 连接到本地主机
 
 通过这一更改，您可以构建并运行您的应用程序，它将直接与您的本地 web 应用程序对话。
 

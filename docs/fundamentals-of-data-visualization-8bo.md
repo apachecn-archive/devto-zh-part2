@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/pitermarx/fundamentals-of-data-visualization-8bo>
 
-<figure>[![Cover image](../Images/b955d7d0b172ff723b0dd1718e783abf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KRmB7qy9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://serialmentor.com/dataviz/cover.png) 
+<figure>[![Cover image](img/b955d7d0b172ff723b0dd1718e783abf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KRmB7qy9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://serialmentor.com/dataviz/cover.png) 
 
 <figcaption>[数据可视化基础](http://serialmentor.com/dataviz)</figcaption>
 

@@ -52,36 +52,36 @@
 
 在意识到我的第二个案例也没有成功后，我做了大量的研究，最终决定用分形设计来定义白色的 R6。我看了无数个带有水冷功能的 YouTube 版本*,以确保它确实合适。我不得不再等一个星期，等待这个箱子的到来，但当它到来时，我终于可以再做一次试衣了。下面是一个干配合的照片(我已经删除了泵和水库，但你得到的想法)。*
 
-[![case with hardware temporarily installed except the pump/reservoir](../Images/1cffd2105ba6fc014a3263aa07dc138d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dwSheRYZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y3g8qz8pbdvomeeomp17.jpg)
+[![case with hardware temporarily installed except the pump/reservoir](img/1cffd2105ba6fc014a3263aa07dc138d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dwSheRYZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y3g8qz8pbdvomeeomp17.jpg)
 
 ## 组装
 
 我通过安装电源和将电缆穿过机箱来开始这个构建，以使它们完全符合我的需要。这是很好的第一步，尤其是如果你想要干净的电缆管理。下面是机箱背面的电缆管理照片。
 
-[![case with the back panel removed to show cable routing and cable management](../Images/855317055462982e34aa11f242c6d789.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1juIOs52--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/loasvv06h4p3qxjn3yve.jpg)
+[![case with the back panel removed to show cable routing and cable management](img/855317055462982e34aa11f242c6d789.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1juIOs52--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/loasvv06h4p3qxjn3yve.jpg)
 
 接下来，将 CPU 水块安装到主板上，注意不要拧得过紧。
 
 无论你购买什么样的 GPU water block，都应该附带从显卡上卸下空气冷却器和安装 water block 的说明。下面是一些过程的照片，以形象化这一步。
 
-[![GPU with shroud partly removed and old thermal pads still on](../Images/e999f02e76f43f8be3b0b99dcff923bc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0nvP_0v_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7dv4qhclxr30zh6sb7fk.jpg)
-[![GPU completely bare with thermal pads removed](../Images/25ef58fb5c608a1e7c377f59d76afbf2.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--plzYkhrn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yvchol59gdtokow7n5g6.jpg)
+[![GPU with shroud partly removed and old thermal pads still on](img/e999f02e76f43f8be3b0b99dcff923bc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0nvP_0v_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7dv4qhclxr30zh6sb7fk.jpg)
+[![GPU completely bare with thermal pads removed](img/25ef58fb5c608a1e7c377f59d76afbf2.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--plzYkhrn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yvchol59gdtokow7n5g6.jpg)
 
 一旦你拆下了空气冷却器和原来的隔热垫，说明书会告诉你新隔热垫的位置以及如何安装阻水板。下面是我的 GPU 完全安装了挡水板的照片。
 
-[![GPU with water block installed](../Images/95edeeb90f950d255cbaf03450fe9727.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w9zlC9P5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5xosm9rwsagvcu679mx7.jpg)
+[![GPU with water block installed](img/95edeeb90f950d255cbaf03450fe9727.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w9zlC9P5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5xosm9rwsagvcu679mx7.jpg)
 
 下一步是将散热器、风扇和水箱安装在机箱内。下面是安装了这些组件的照片。
 
-[![case with the previously listed components mounted inside it](../Images/029bbcc3d9072aaaa4af23acc6417b57.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BAm1AInn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gnzourg23q8kox7ie4mz.jpg)
+[![case with the previously listed components mounted inside it](img/029bbcc3d9072aaaa4af23acc6417b57.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BAm1AInn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gnzourg23q8kox7ie4mz.jpg)
 
 接下来，在任何没有管道和盖子的端口上安装管件。之后，将 GPU 装入机箱。我在这一步使用了垂直电缆，因为我想要一个垂直安装的 GPU。
 
 安装好一切后，我开始在套管内下油管，做好标记，并在每次下油管时进行切割。如果你是单独做这件事，你可能已经测量了这些长度并切割它们，所以这一步是不必要的，你可以直接跳到附加管。下面是我测量、切割和连接油管时的照片。
 
-[![case with two tubing runs completed](../Images/54ad60ab2cf812c012b204f981c6ca1f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QKocQb8U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0b47fw5lxdtjlzl9q08d.jpg)
-[![front view with all four runs completed](../Images/bbd4f6cb8a7c33ff856f94463b006da5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WjiX7rL_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0mc4pdxz4f2e80a09xv7.jpg)
-[![top view with all four runs completed](../Images/6827562cd954b74c8e78f4ecab70e32c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2B7daOEf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kg8mxii22qstqxtg01sf.jpg)
+[![case with two tubing runs completed](img/54ad60ab2cf812c012b204f981c6ca1f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QKocQb8U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0b47fw5lxdtjlzl9q08d.jpg)
+[![front view with all four runs completed](img/bbd4f6cb8a7c33ff856f94463b006da5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WjiX7rL_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0mc4pdxz4f2e80a09xv7.jpg)
+[![top view with all four runs completed](img/6827562cd954b74c8e78f4ecab70e32c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2B7daOEf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kg8mxii22qstqxtg01sf.jpg)
 
 ## 泄漏测试
 
@@ -91,7 +91,7 @@
 
 **注意:不要在水箱中没有水的情况下运行泵。这会很快烧坏你的泵**
 
-[![case with paper towels under each set of fittings and a jumper cable on the 24-pin mid leak test](../Images/a9422fdacad3bfe3b561ef03ba9dcd72.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M7tBo6FT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xlgfaoto3emey747y5vx.jpg)
+[![case with paper towels under each set of fittings and a jumper cable on the 24-pin mid leak test](img/a9422fdacad3bfe3b561ef03ba9dcd72.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M7tBo6FT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xlgfaoto3emey747y5vx.jpg)
 
 泄漏测试后，我移除跳线并重新连接我的组件。我正常使用系统三天，让系统准备运行，同时继续密切关注任何泄漏。
 
@@ -103,10 +103,10 @@
 
 一旦系统完全排空，我就使用我的最终液体(PrimoChill Vue)按照泄漏测试部分所述的相同过程重新加注。我让它正常运行了几天，以消除任何气泡，然后在水库顶部，直到它尽可能满，我可以舒服地使它。下面是一些完成后的照片。
 
-[![side view, glass front panel removed](../Images/422d5120db48b6aec24a14e890a9c731.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xyouikzj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7xmgljj0ufqmlfcvz3a4.jpg)
-[![front view, glass front panel removed](../Images/d0e266b049b9f49fd4d42f1520a51774.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_ld8aN7C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bkiqr9uf7g73lfv94a75.jpg)
-[![side view, glass front panel on](../Images/8e1882185d867727906137ed74658c04.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--61WTwozs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0bbdfzq84verpdneij17.jpg)
-[![my entire desk, with the completed build, my ultra wide monitor, keyboard, mouse, and work laptop](../Images/ea21c544b3ca61e63e47b4030494ad5b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MCvOwcCT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/937l7o1kbfkbdj9r6ooc.jpg)
+[![side view, glass front panel removed](img/422d5120db48b6aec24a14e890a9c731.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xyouikzj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7xmgljj0ufqmlfcvz3a4.jpg)
+[![front view, glass front panel removed](img/d0e266b049b9f49fd4d42f1520a51774.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_ld8aN7C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bkiqr9uf7g73lfv94a75.jpg)
+[![side view, glass front panel on](img/8e1882185d867727906137ed74658c04.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--61WTwozs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0bbdfzq84verpdneij17.jpg)
+[![my entire desk, with the completed build, my ultra wide monitor, keyboard, mouse, and work laptop](img/ea21c544b3ca61e63e47b4030494ad5b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MCvOwcCT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/937l7o1kbfkbdj9r6ooc.jpg)
 
 ## 外卖
 

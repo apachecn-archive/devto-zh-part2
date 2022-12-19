@@ -4,7 +4,7 @@
 
 任何住在纽约有车的人都知道交替靠边停车规则的痛苦。你需要时刻意识到你的车停在街道的哪一边，在最不合适的时候跑出去把车停在街道的另一边，偶尔还有被并排停车的人挡住去路的机会。所有这些，以及更多，都是纽约司机每周必须忍受的一部分。
 
-<figure>[![cat napping on a car](../Images/19aeab932cdf8ab47df715996ff8c50c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QOQlURjN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AeiWfOVn6AlFhW_J1.png) 
+<figure>[![cat napping on a car](img/19aeab932cdf8ab47df715996ff8c50c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QOQlURjN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AeiWfOVn6AlFhW_J1.png) 
 
 <figcaption>你的意思是我得把这车搬走？</figcaption>
 
@@ -138,7 +138,7 @@ end
 
 我们现在可以对此进行测试。在您的终端中运行`rails server`。打开浏览器，进入[http://localhost:3000/cat _ facts](http://localhost:3000/cat_facts)，您应该会看到一个新的 cat facts 表单。如果你输入一个事实并点击提交，你应该会看到它出现在表单下面。
 
-[![sceenshot](../Images/c6b2aba3139650659e3b03da35bda0da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AVR3fiSI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/882/0%2AfmSCHcnB9l4tDmvH.png)
+[![sceenshot](img/c6b2aba3139650659e3b03da35bda0da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AVR3fiSI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/882/0%2AfmSCHcnB9l4tDmvH.png)
 
 ### 添加短信通知
 
@@ -150,7 +150,7 @@ end
 
 接下来，我们必须向我们的应用程序提供您的 Twilio 凭据。登录你的 Twilio 账户，进入[控制台](https://www.twilio.com/console)。在左上方，您将看到您的帐户 SID 和 Auth Token，记下它们用于下一步。
 
-[![screenshot](../Images/d8a5fa85191be44feb9c5b042d567750.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2UbE6hDw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/775/0%2AEkdcU7QBj4YLQHis.png)
+[![screenshot](img/d8a5fa85191be44feb9c5b042d567750.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2UbE6hDw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/775/0%2AEkdcU7QBj4YLQHis.png)
 
 在你的应用程序中，在`config/initializers`中创建一个名为`twilio.rb`的文件，并粘贴以下代码:
 
@@ -178,7 +178,7 @@ end
 
 一旦你安装了 ngrok，打开另一个终端，输入`ngrok http 3000`。您应该在您的终端中看到类似这样的内容:
 
-[![screenshot](../Images/e4717a735ba5143a34c8ac63a2f20938.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZzlIFJk---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/644/0%2ALcg6uqsGS5liCQJj.png)
+[![screenshot](img/e4717a735ba5143a34c8ac63a2f20938.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZzlIFJk---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/644/0%2ALcg6uqsGS5liCQJj.png)
 
 这意味着 ngrok 在您的本地主机上打开了一个端口 3000 的窗口，并通过“转发”将其显示的 URL 暴露给互联网(这将与上面截图中的不同)。
 
@@ -186,7 +186,7 @@ end
 
 在“消息”部分，在“有消息进来”旁边，选择“Webhook”。在 Webhook 旁边的字段中，输入 ngrok 给你的 url，后跟`/twilio/sms`(这样看起来就像`https://ngrokurl.ngrok.io/twilio/sms`用你终端中的 URL 替换 ngrokurl)，选择“HTTP POST ”,然后点击“Save”。
 
-[![screenshot](../Images/4c6e03e361d5b15258357bbdd2d0aadb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Yd31dFQV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AhvqDqYZZrXbtWDsC.png)
+[![screenshot](img/4c6e03e361d5b15258357bbdd2d0aadb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Yd31dFQV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AhvqDqYZZrXbtWDsC.png)
 
 现在，Twilio 会将任何传入的消息转发到我们指定的 ngrok 路由，该路由又会将其转发到我们位于端口 3000 的本地主机。让我们配置我们的应用程序来响应。
 
@@ -230,7 +230,7 @@ end
 </Response> 
 ```
 
-<figure>[![screenshot](../Images/f1528ad05fc1a67149fa54b0db80791c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iaEUhLRg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2Ax9uEQxUZkbSIv7zs.png) 
+<figure>[![screenshot](img/f1528ad05fc1a67149fa54b0db80791c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iaEUhLRg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2Ax9uEQxUZkbSIv7zs.png) 
 
 <figcaption>很确定，那里……</figcaption>
 

@@ -81,11 +81,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 您所要做的就是在 App Center 上注册与 Nuget.config 对应的环境变量。
 
-[![](../Images/b0f6b5d9ca861cda44091532d546df70.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--01XcvlRT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f4rhurduadk70rl81lh4.png)
+[![](img/b0f6b5d9ca861cda44091532d546df70.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--01XcvlRT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f4rhurduadk70rl81lh4.png)
 
 如果构建成功，下面的日志将很快开始输出。
 
-[![](../Images/b32fa37690da643635065bd76a28aae0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p5wnbTPS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qld3qdt1jywz9e4d55ou.png)
+[![](img/b32fa37690da643635065bd76a28aae0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p5wnbTPS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qld3qdt1jywz9e4d55ou.png)
 
 但是，如果任何设置是错误的，将显示以下错误消息，这将需要很长时间来建立。
 

@@ -4,7 +4,7 @@
 
 * * *
 
-[![Programming](../Images/ea9c5b9736e3950ae87e684c7461a1e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7RNlDTlA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c6758lhjd6q249bffkko.png)
+[![Programming](img/ea9c5b9736e3950ae87e684c7461a1e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7RNlDTlA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c6758lhjd6q249bffkko.png)
 
 我 16 年前就开始学习编程，现在我每天都在学习。顺便说一下，我改进了我的学习方法。在这里，我将教你如何是我的过程后，多年的编程和学习了许多东西。
 

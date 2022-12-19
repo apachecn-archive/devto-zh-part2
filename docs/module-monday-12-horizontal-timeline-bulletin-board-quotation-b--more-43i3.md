@@ -12,31 +12,31 @@
 
 创建事件的交互式时间线。
 [查看 mod](https://anymod.com/mod/nmmmr?v=20)
- [![](../Images/227f835c7e670e67330de3fe3172c238.png)](https://anymod.com/mod/nmmmr?v=20) 
+ [![](img/227f835c7e670e67330de3fe3172c238.png)](https://anymod.com/mod/nmmmr?v=20) 
 
 ### 公告栏
 
 向这个可自定义的公告板添加和编辑注释。
 [查看 mod](https://anymod.com/mod/lrmda)
- [![](../Images/2e62bbf6a5158243a5fb335cc0c99283.png)](https://anymod.com/mod/lrmda) 
+ [![](img/2e62bbf6a5158243a5fb335cc0c99283.png)](https://anymod.com/mod/lrmda) 
 
 ### 报价 B
 
 时尚的报价块与可编辑的报价和作者。
 [查看 mod](https://anymod.com/mod/bkbmk?v=20)
- [![](../Images/7876c8cebf7c3766aa7f2aa8b2258c90.png)](https://anymod.com/mod/bkbmk?v=20) 
+ [![](img/7876c8cebf7c3766aa7f2aa8b2258c90.png)](https://anymod.com/mod/bkbmk?v=20) 
 
 ### 图像叠加卡
 
 带有自定义图像、文本和链接的简单卡片。
 [查看 mod](https://anymod.com/mod/kbolm?v=20)
- [![](../Images/7c0585b94d2c64740fbde3ffe843d3d8.png)](https://anymod.com/mod/kbolm?v=20) 
+ [![](img/7c0585b94d2c64740fbde3ffe843d3d8.png)](https://anymod.com/mod/kbolm?v=20) 
 
 ### 嵌入推文
 
 轻松地将推文嵌入网站的任何地方。
 [查看 mod](https://anymod.com/mod/rdbmb?v=20)
- [![](../Images/cc3858e9fc880de7ab9e35b662327ea3.png)](https://anymod.com/mod/rdbmb?v=20) 
+ [![](img/cc3858e9fc880de7ab9e35b662327ea3.png)](https://anymod.com/mod/rdbmb?v=20) 
 
 * * *
 

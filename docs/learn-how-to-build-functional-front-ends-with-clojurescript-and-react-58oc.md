@@ -14,7 +14,7 @@ ClojureScript，就像 Elm，ReasonML 和 EcmaScript 编译/trans file 到 JavaS
 
 试剂和反应中最简单的成分就是一个函数。
 
-[![alt stateless component](../Images/50379ead3bb21f0c49faf69c5b6d30d0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MkVE_VFn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tcmokg12qhoh1kbmhhaa.png)
+[![alt stateless component](img/50379ead3bb21f0c49faf69c5b6d30d0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MkVE_VFn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tcmokg12qhoh1kbmhhaa.png)
 
 在 JavaScript 中，你经常会看到它们是`const`一行:
 
@@ -28,7 +28,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 由于 Reagent 构建在 CLJS (ClojureScript)不可变数据结构之上，因此不需要额外的库(Redux、MobX)或语法(`this.setState`)来处理您的状态。在 CLJS 中，你可以使用`atoms`(CLJS 中的引用类型)来处理你的状态。
 
-[![alt statefull component](../Images/ec868ef53b0ce82efd338ab6cc3e820d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QLl71Gla--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pbawqtekf05177d2sq0e.png)
+[![alt statefull component](img/ec868ef53b0ce82efd338ab6cc3e820d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QLl71Gla--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pbawqtekf05177d2sq0e.png)
 
 在这个例子中，我们为函数`defn`内部的`atom`创建了一个`let`绑定。`let`绑定仅在函数范围内可用，然后我们通过使用`inc`(增量)函数将值与`on-click`进行`swap!`。
 
@@ -36,7 +36,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 此示例显示了具有生命周期方法的类组件。
 
-[![alt class component](../Images/0df009bb35313ce9fde039451622b11a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S62BpnZu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r5pfooe1bluljnqgogge.png)
+[![alt class component](img/0df009bb35313ce9fde039451622b11a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S62BpnZu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r5pfooe1bluljnqgogge.png)
 
 在试剂中，我们将使用少于 1%的量。原因是——原子——它们会跟踪它们应该更新的时间。在试剂中，我们可以写出这个成分，而不需要`componentDidMount` :
 

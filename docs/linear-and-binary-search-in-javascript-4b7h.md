@@ -39,7 +39,7 @@ Buttttttt，(它的大小取决于数据集的大小)这里有一个性能折衷
 
 一个[二分搜索法](https://en.wikipedia.org/wiki/Binary_search_algorithm)接受一个排序后的数组并寻找一个特定的元素。如果元素出现在数组中，搜索返回元素的索引；否则返回 null。因为数组已经排序，所以搜索可以将目标搜索元素与数组中间的元素进行比较，一次消除一半的搜索范围。把它想象成一个更热更冷的游戏。
 
-[![alt text](../Images/85557cbe5b8036c9d5be73b2f4433c55.png "binary search image from Wikipedia")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TSNjmS8t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Binary_Search_Depiction.svg/470px-Binary_Search_Depiction.svg.png)
+[![alt text](img/85557cbe5b8036c9d5be73b2f4433c55.png "binary search image from Wikipedia")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TSNjmS8t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Binary_Search_Depiction.svg/470px-Binary_Search_Depiction.svg.png)
 
 #### 与二分搜索法再举彩虹的例子
 

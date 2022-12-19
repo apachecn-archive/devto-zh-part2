@@ -55,7 +55,7 @@ Azure 拥有最大的云架构和全球业务。50 个 Azure 地区，比任何�
 
 如果你想知道我用的是哪种主题和字体，那就是🦄[紫色的阴影](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)——还有我的 [VSCode.pro 课程](https://VSCode.pro/)。更多信息请参见我使用的软件和硬件。
 
-[![VSCode 🦄 Shades of Purple theme](../Images/cb5e32b781d033b36f0c3db3669eaab0.png)T2】](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
+[![VSCode 🦄 Shades of Purple theme](img/cb5e32b781d033b36f0c3db3669eaab0.png)T2】](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
 
 ### 第二步:新建一个函数 App 项目
 
@@ -63,7 +63,7 @@ Azure 拥有最大的云架构和全球业务。50 个 Azure 地区，比任何�
 
 这将创建一个演示项目，包含入门所需的基本文件，并将为您初始化一个 Git repo。我将继续提供基于 gif 的小演示，以使您的工作更轻松。
 
-[![GIF for MongoDB Atlas, Microsoft Azure, & Serverless Functions](../Images/48ee156da23570ce3f177c6ff15aaa30.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XoMupCzt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://ddwva799xzrph.cloudfront.net/items/1l0g2p0Z3q1F0T120d0F/Screen%2520Recording%25202018-05-21%2520at%252011.41%2520PM.gif)
+[![GIF for MongoDB Atlas, Microsoft Azure, & Serverless Functions](img/48ee156da23570ce3f177c6ff15aaa30.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XoMupCzt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://ddwva799xzrph.cloudfront.net/items/1l0g2p0Z3q1F0T120d0F/Screen%2520Recording%25202018-05-21%2520at%252011.41%2520PM.gif)
 
 ### 第三步:创建一个 HTTP 触发的 Azure 函数
 

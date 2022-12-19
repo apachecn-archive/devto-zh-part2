@@ -12,16 +12,16 @@
 
 *   你会看到三扇门。只有一个后面是奖品。
 
-[![3 doors](../Images/aa5cf3f0697277430f3ee0c7853f5531.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ss5ZHH5E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/txe872kzoah3ynxycj3k.png)
+[![3 doors](img/aa5cf3f0697277430f3ee0c7853f5531.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ss5ZHH5E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/txe872kzoah3ynxycj3k.png)
 
 *   你选一个你认为奖品可能在后面的门。
 
-[![initial choice](../Images/5d7404c9555936979349fc7e36f93ed8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kD6Ixjk3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z84dm0puooe6pvyv9oyr.png)
+[![initial choice](img/5d7404c9555936979349fc7e36f93ed8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kD6Ixjk3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z84dm0puooe6pvyv9oyr.png)
 
 *   当你打开门后，第三方(即游戏主持人)打开了一扇没有奖品的门。
 *   然后，您可以选择继续使用您最初的猜测，或者将您的猜测切换到游戏节目主持人没有打开的那扇门。
 
-[![final choice](../Images/a374601706ed8caaaa647bb4f5b9b17f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--obUJnZBu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ruv6l2o6tzz9e5hrijta.png)
+[![final choice](img/a374601706ed8caaaa647bb4f5b9b17f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--obUJnZBu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ruv6l2o6tzz9e5hrijta.png)
 
 *   你应该做哪一个？换还是留？有关系吗？
 

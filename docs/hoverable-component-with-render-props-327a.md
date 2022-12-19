@@ -10,7 +10,7 @@
 
 所以我用一个渲染道具(children)实现了`Hoverable`。然后，我可以将我的现有组件传递给它，它接受一个属性`hovered`，我可以轻松地将它重新用于其他组件。
 
-[![Demo of usage in CodeSandbox](../Images/d48040c57b3c55196d0fb4b9219819e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q_hW4wkT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/duco99rsp98pm2931t5i.gif)
+[![Demo of usage in CodeSandbox](img/d48040c57b3c55196d0fb4b9219819e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q_hW4wkT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/duco99rsp98pm2931t5i.gif)
 
 下面是我如何实现的一个例子。您也可以在这个[代码沙箱](https://codesandbox.io/s/428k7zr2m9)中找到它
 

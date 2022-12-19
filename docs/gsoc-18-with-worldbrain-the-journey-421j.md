@@ -22,7 +22,7 @@
 
 这个项目的想法是将 Memex 的搜索结果和 Google 的搜索结果放在一起。基本上，我必须让内容脚本在所有页面中运行；如果页面的 url 与 Google 的搜索 URL 匹配，则获取 Memex 结果并将其呈现在页面上。所有的讨论，实施。而这个特性的代码可以在[这个 PR](https://github.com/WorldBrain/Memex/pull/320) 中找到。
 
-<figure>[![](../Images/c731b4140ed0db5ce00a3270c2bc7875.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Q-Zacn2H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A3N2StiScvmk7FGAnM8XL0Q.png) 
+<figure>[![](img/c731b4140ed0db5ce00a3270c2bc7875.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Q-Zacn2H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A3N2StiScvmk7FGAnM8XL0Q.png) 
 
 <figcaption>Memex 结果与谷歌搜索结果一起注入</figcaption>
 
@@ -40,7 +40,7 @@
 
 快进到编码阶段: [Vincent](https://github.com/ShishKabab) ，WorldBrain 的一位出色的开发人员，已经为一个名为 Memex Link(以前称为 DirectLink)的新 Memex 功能建立了后端，该功能允许用户高亮显示一段文本，并获得一个分享它的 URL。这真是太酷了。所以我今年夏天的第一个任务是编写代码，在每个页面上显示 Memex 链接工具提示( [PR #398](https://github.com/WorldBrain/Memex/pull/398) )，并使演示 UI 更漂亮([链接到我所有与此任务相关的 PR](https://github.com/WorldBrain/direct-linking-backend/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Adigi0ps))。很快 [Memex。Link](http://memex.link) 投入生产，结果证明这是一个非常酷的功能。
 
-<figure>[![](../Images/6e2e7cfb362daa2cbd00dd09ec3f3fd6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vRNNqgY1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aeqjg3orqa_QPxCcJaZCDiA.png) 
+<figure>[![](img/6e2e7cfb362daa2cbd00dd09ec3f3fd6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vRNNqgY1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aeqjg3orqa_QPxCcJaZCDiA.png) 
 
 <figcaption>带有注释和分享按钮的 Memex 工具提示。</figcaption>
 
@@ -48,11 +48,11 @@
 
 到这个时候，我已经开始添加一个侧边栏来显示每个网站上所有用户的注释。这个侧边栏有两个版本:一个在 Memex 的概览页面上，另一个作为每个网站的覆盖图。与后者相比，前者的启动和运行相对容易。在简短的讨论之后，我决定采用 iFrame 的方法。通过 content_script，我将注入一个按钮(称为 Ribbon)和一个 iframe(加载作为单独 html 存储的侧边栏),当用户单击 Ribbon 时，它会显示侧边栏。经过一番努力，我完成了最初的设计，并在 overview 和 iFrame 上运行。
 
-[![](../Images/4c0c5cc9a1af7f6676134cbe6c1f2d52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8d6EgzAd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AaUp15LrE3uNIX74L.png)
+[![](img/4c0c5cc9a1af7f6676134cbe6c1f2d52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8d6EgzAd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AaUp15LrE3uNIX74L.png)
 
 我计划下一步处理注释的存储，但是最初的设计并不令人满意，我被给予了一个 UI 大修来工作。接下来的几个星期，我致力于 UI 和所有出现的与样式相关的错误。奥利弗希望它像素完美。尽管完成所有的细节是一场斗争，但它产生了一个更加直观和美观的用户界面。
 
-<figure>[![](../Images/bbedbbf4c9bc9be3966796565ade49b5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DMWfX0Tj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2APcKoT8JdN6FNZ-I-ZlUeRQ.png) 
+<figure>[![](img/bbedbbf4c9bc9be3966796565ade49b5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DMWfX0Tj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2APcKoT8JdN6FNZ-I-ZlUeRQ.png) 
 
 <figcaption>Memex 侧边栏，新用户界面位于包含少量注释的网页顶部</figcaption>
 

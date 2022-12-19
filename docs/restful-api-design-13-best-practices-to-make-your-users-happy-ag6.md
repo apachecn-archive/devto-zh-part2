@@ -53,7 +53,7 @@
 
 <figure>
 
-[![](../Images/5140b49488611fa27d1ab7363627d1e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EKt9dIJI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://florimondmanca-personal-website.s3.amazonaws.com/media/markdownx/0c738101-95ff-444d-b894-a866d3d9f63b.png)
+[![](img/5140b49488611fa27d1ab7363627d1e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EKt9dIJI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://florimondmanca-personal-website.s3.amazonaws.com/media/markdownx/0c738101-95ff-444d-b894-a866d3d9f63b.png)
 
 <figcaption>In Firefox, "Content-Type: text/plain" looks… plain.</figcaption>
 
@@ -61,7 +61,7 @@
 
 <figure>
 
-[![](../Images/e8a43dc1bb9ce0288ad3731d8fbe0293.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M_bAKekG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://florimondmanca-personal-website.s3.amazonaws.com/media/markdownx/bf8c0ed7-d1f5-42dc-ba77-e4b260ef536a.png)
+[![](img/e8a43dc1bb9ce0288ad3731d8fbe0293.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M_bAKekG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://florimondmanca-personal-website.s3.amazonaws.com/media/markdownx/bf8c0ed7-d1f5-42dc-ba77-e4b260ef536a.png)
 
 <figcaption>"Content-Type: application/json" detected! Look how pretty and functional this is. 🕺</figcaption>
 
@@ -356,7 +356,7 @@ Python 开发人员会使用 Flask，JS 开发人员会使用 Express，他们�
 
 <figure>
 
-[![](../Images/ed342cbfd552019bb3b56167760ae980.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HhPeysNy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://edm00se.io/assets/images/post_images/right-tool-for-job-jekyll/scottySays.jpg)
+[![](img/ed342cbfd552019bb3b56167760ae980.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HhPeysNy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://edm00se.io/asseimg/post_images/right-tool-for-job-jekyll/scottySays.jpg)
 
 <figcaption>Holy sayings from good lad Scotty.</figcaption>
 
@@ -368,7 +368,7 @@ Python 开发人员会使用 Flask，JS 开发人员会使用 Express，他们�
 
 <figure>
 
-[![](../Images/d43d4f170a3d1ca6c2fb3988af2c7172.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1gzAPXFV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://encrypted-tbn0.gstatic.com/images%3Fq%3Dtbn:ANd9GcRZl9VueEJaJP9Wea2r53lnQmp_DCJL4S3HNR-oi7lXG63QQMAw)
+[![](img/d43d4f170a3d1ca6c2fb3988af2c7172.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1gzAPXFV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://encrypted-tbn0.gstatic.com/images%3Fq%3Dtbn:ANd9GcRZl9VueEJaJP9Wea2r53lnQmp_DCJL4S3HNR-oi7lXG63QQMAw)
 
 <figcaption>Falcon: Unburdening APIs for over 0.0564 centuries.</figcaption>
 

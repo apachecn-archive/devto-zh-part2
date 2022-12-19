@@ -2,11 +2,11 @@
 
 > 原文：<https://dev.to/wxyyxc1992/awesome-links-of-books-courses-examples-for-ai-machinelearning-deeplearning-and-tensorflow-in-2018-1gi0>
 
-[![返回目录](../Images/6781ebee909f292165292a3f514a345d.png)T2】](https://github.com/wxyyxc1992/Awesome-Links)
+[![返回目录](img/6781ebee909f292165292a3f514a345d.png)T2】](https://github.com/wxyyxc1992/Awesome-Links)
 
 # DataScienceAI Book Links | List of recommended books in machine learning, deep learning and natural language processing
 
-[![PRs Welcome](../Images/d9e6de6a32f222f0ab85641af7d5ba5f.png)T2】](https://github.com/wxyyxc1992/Awesome-Links)
+[![PRs Welcome](img/d9e6de6a32f222f0ab85641af7d5ba5f.png)T2】](https://github.com/wxyyxc1992/Awesome-Links)
 
 人工智能(AI)课程和书籍的精选列表，由来自[的](https://github.com/wxyyxc1992/Awesome-Links)[数据科学-书籍链接](https://github.com/wxyyxc1992/Awesome-Links/blob/master/DataScienceAI/DataScienceAI-Book-Links.md)和[数据科学-课程链接](https://github.com/wxyyxc1992/Awesome-Links/blob/master/DataScienceAI/DataScienceAI-Course-Links.md)组成。
 

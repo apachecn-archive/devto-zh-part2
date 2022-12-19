@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/albinotonnina/introducing-mmarkdown-1dn6>
 
-[![](../Images/d82d1087cca0f343a7451a0985871932.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yd83D-Ky--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cj9imhfqpbj965ceysk0.png)
+[![](img/d82d1087cca0f343a7451a0985871932.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yd83D-Ky--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cj9imhfqpbj965ceysk0.png)
 
 # 降低咖啡因的摄入量。
 
@@ -16,7 +16,7 @@ Mmarkdown 获取一个普通的 markdown 文件并生成它的副本。
 
 例如:
 
-[![](../Images/78486baf843c000a4e8261692b8f7d13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6HXCevYf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/52pfcbjdc35e8zdhftsb.png)
+[![](img/78486baf843c000a4e8261692b8f7d13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6HXCevYf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/52pfcbjdc35e8zdhftsb.png)
 
 将输出:
 
@@ -84,7 +84,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 你能想象这有什么用吗？
 
-[![](../Images/0abb75b6cff8f532bf3bef3ba5a75a57.png)T2】](https://i.giphy.com/media/6heBQSjt2IoA8/giphy.gif)
+[![](img/0abb75b6cff8f532bf3bef3ba5a75a57.png)T2】](https://i.giphy.com/media/6heBQSjt2IoA8/giphy.gif)
 
 分享到评论里吧！
 

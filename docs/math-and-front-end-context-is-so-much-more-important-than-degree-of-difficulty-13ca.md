@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/math-and-front-end-context-is-so-much-more-important-than-degree-of-difficulty-13ca>
 
-[![](../Images/32ec568370eaad93a22d2d7b4f7ee382.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KR60OPry--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AfeaTY00zi_mYNSUDFj1EoA.jpeg)
+[![](img/32ec568370eaad93a22d2d7b4f7ee382.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KR60OPry--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AfeaTY00zi_mYNSUDFj1EoA.jpeg)
 
 如果你是那些想知道为什么你必须参加所有那些数学课并学习角度和代数的孩子之一，那么，我也是。我承认，我太不安分了，很容易厌倦，在课堂环境中成为一个好学生。但随着年龄的增长，我意识到某些数学原理实际上在我的日常工作中有实际应用(虽然不是微积分，我的意思是，我不是火箭科学家)。
 
@@ -30,7 +30,7 @@
 
 更有意义的做法是让浏览器根据视窗大小来计算页面上元素的大小，使用百分比、字体相关单位(如 _em_s 或 _ch_s)以及最近的视窗单位。calc 函数处理不同单元的 CSS 值的组合，为我们处理棘手的计算，这样我们就可以专注于设计和构建我们想要的布局和组件。
 
-[![](../Images/184dfcc3649f17c50808cfdfb9409f6a.png)T2】](https://logrocket.com/?cid=banner_b)
+[![](img/184dfcc3649f17c50808cfdfb9409f6a.png)T2】](https://logrocket.com/?cid=banner_b)
 
 #### 浮动页脚问题
 
@@ -62,7 +62,7 @@ main {
 
 如果没有额外的样式，页眉和页脚的高度应该都是 1m，因为其中包含文本。使用最小高度而不是高度可以确保如果内容多于视口的高度，它将正常流动。
 
-[![](../Images/f5bcc065fb7a45882c7a5bfebd51dff3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--c8aNA54---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/600/1%2A80p6xK_-ZQZJvt7EcqjaHQ.gif) 
+[![](img/f5bcc065fb7a45882c7a5bfebd51dff3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--c8aNA54---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/600/1%2A80p6xK_-ZQZJvt7EcqjaHQ.gif) 
 
 <figcaption>页脚始终在视口底部</figcaption>
 
@@ -80,11 +80,11 @@ body { font-size: calc(1em + 1vw) }
 
 Mike Riethmuller 的方程式大概是这样的:
 
-[![](../Images/215b1b853cf454c783b397142d33e53f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--59UxvqA3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/740/1%2A0gayPcIYfiUF--teoV_wiA.png)
+[![](img/215b1b853cf454c783b397142d33e53f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--59UxvqA3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/740/1%2A0gayPcIYfiUF--teoV_wiA.png)
 
 Florens Verschelde 在他的文章[CSS 锁的数学](https://fvsch.com/code/css-locks/)中深入研究了 CSS 锁背后的数学，将字体大小/行高的计算表示为一个线性函数。线性函数可以绘制在图表上，这使得可视化字体大小/行高与视口大小之间的关系更加容易。
 
-[![](../Images/6a7f95731b1e6456f01f673838e7ea24.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2RDy3PZx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/560/1%2AlBryctokX4m5cLSeIDBUBg%402x.png) 
+[![](img/6a7f95731b1e6456f01f673838e7ea24.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2RDy3PZx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/560/1%2AlBryctokX4m5cLSeIDBUBg%402x.png) 
 
 <figcaption>*图从*[*CSS 锁的数学*](https://fvsch.com/code/css-locks/) *由* [*弗洛伦斯*](https://fvsch.com/)</figcaption>
 
@@ -100,17 +100,17 @@ Florens Verschelde 在他的文章[CSS 锁的数学](https://fvsch.com/code/css-
 
 border-radius 实际上是所有 4 个 border-*-radius 属性的简写，其中*指的是`top-left`、`top-right`、`bottom-left`或`bottom-right`。它最多可以接受两个值，用/分隔，其中第一个值是水平半径，第二个值是垂直半径。这里有一个用于可视化的图表:
 
-[![](../Images/55679e1ca87a525c4d191a89f0df538f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7wmlH3BC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/394/1%2AXR7uVG9vv0ImvRiCkJ9Byw.png)
+[![](img/55679e1ca87a525c4d191a89f0df538f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7wmlH3BC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/394/1%2AXR7uVG9vv0ImvRiCkJ9Byw.png)
 
 当我们使用百分比作为值时，水平半径将是边框的宽度的百分比，而垂直半径将是边框的高度的百分比。这就是为什么设置一个边界半径:50%给我们一个完美的圆形或椭圆形。
 
 转到更有趣的东西，但也需要边界，我们有三角形。纯 CSS 三角形是通过“侵入”元素的边界而成为可能的。当我们在一个元素周围创建边框时，这些边框的边缘对角相交，如果我们对元素应用足够厚的边框宽度，我们可以看到这一点。它们是梯形。
 
-[![](../Images/aae2e84459f72c1efdcdf7cfb88c43af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dq30-s3K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/550/1%2Ae2b5liLGZuRVX1t13AGVzA.png)
+[![](img/aae2e84459f72c1efdcdf7cfb88c43af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dq30-s3K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/550/1%2Ae2b5liLGZuRVX1t13AGVzA.png)
 
 如果我们将元素的宽度和高度设置为 0，梯形就变成了三角形，瞧，我们得到了纯 CSS 三角形。
 
-[![](../Images/0a0c5bcfdb024bfa873ad106e240da0d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bvt8MYeR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/81/1%2A4A_aHwWurFSU1F_CxOpywg.png)
+[![](img/0a0c5bcfdb024bfa873ad106e240da0d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bvt8MYeR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/81/1%2A4A_aHwWurFSU1F_CxOpywg.png)
 
 假设我们不想要四个一组的三角形，这可能是通常的情况，其他三个边界应该是不可见的，通过将相邻边界的颜色设置为透明并完全省略对面的边界。
 
@@ -124,11 +124,11 @@ border-radius 实际上是所有 4 个 border-*-radius 属性的简写，其中*
 } 
 ```
 
-[![](../Images/18c0a9f9371eaef452d258737f75a5e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oWg0m1hQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A0FysJJ0fewezLRHoPYCL5Q.png)
+[![](img/18c0a9f9371eaef452d258737f75a5e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oWg0m1hQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A0FysJJ0fewezLRHoPYCL5Q.png)
 
 也许我们并不总是想要等腰三角形(这是通过将所有边框宽度设置为相同值得到的)，所以一些几何图形开始发挥作用。方便的[勾股定理](https://en.wikipedia.org/wiki/Pythagorean_theorem)可以用来计算三角形的高度应该是这样的:
 
-[![](../Images/09bb6f8bc2d4b9fcb9b6d2f4485efc70.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WLtm-BnL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/748/1%2AwsYBOzmPm6dUjHsjgEsKgQ.png)T3】
+[![](img/09bb6f8bc2d4b9fcb9b6d2f4485efc70.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WLtm-BnL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/748/1%2AwsYBOzmPm6dUjHsjgEsKgQ.png)T3】
 
 ```
 .triangle-up {
@@ -146,7 +146,7 @@ border-radius 实际上是所有 4 个 border-*-radius 属性的简写，其中*
 
 ### Plug: [LogRocket](http://logrocket.com) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

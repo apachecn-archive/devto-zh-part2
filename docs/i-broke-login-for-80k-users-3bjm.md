@@ -42,7 +42,7 @@ Rails 服务器也已经成功地跨所有 4.x 版本迁移到 5.2 版本，我�
 
 我回到看门人的 GitHub。我开始重读[变更日志](https://github.com/doorkeeper-gem/doorkeeper/blob/master/NEWS.md)、[升级指南](https://github.com/doorkeeper-gem/doorkeeper/wiki/Migration-from-old-versions)(尽管我同时恢复了版本)，问题和一些事情开始变得奇怪:
 
-[![doorkeeper 4.4.0](../Images/db60999ac4ff7735654e1df6218b3c13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VH4zUxaX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zbb65c9i4o0fdsl83c9u.png)
+[![doorkeeper 4.4.0](img/db60999ac4ff7735654e1df6218b3c13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VH4zUxaX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zbb65c9i4o0fdsl83c9u.png)
 
 这指向[问题 1120](https://github.com/doorkeeper-gem/doorkeeper/pull/1120) 关于撤销令牌的能力的安全问题的返回。
 
@@ -50,7 +50,7 @@ Rails 服务器也已经成功地跨所有 4.x 版本迁移到 5.2 版本，我�
 
 在升级中，我注意到另一个线索:
 
-[![doorkeeper 4x to 5.0](../Images/46896202799da6fa12cb2db4f7f8c919.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EG23vo44--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e0zufmlu4th64a0uttgp.png)
+[![doorkeeper 4x to 5.0](img/46896202799da6fa12cb2db4f7f8c919.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EG23vo44--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e0zufmlu4th64a0uttgp.png)
 
 > gate keeper::Application 现在有一个名为 confidential 的新布尔列，默认为 true，并且没有 NULL 约束。此列是允许创建公共和私有客户端所必需的，如 OAuth 2 RFC 的 draft-IETF-OAuth-native-apps-12 的第 8.5 节所述。如果您正在从 Doorkeeper <= 5.0 进行迁移，那么您可以通过使用以下命令生成一个适当的迁移文件来轻松添加该列:rails g door keeper:confidential _ applications。
 

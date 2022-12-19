@@ -36,9 +36,9 @@
 
 这个属性最近最流行的作用是旋转导航，社交和其他信息，大多在左侧，并使它们垂直。下面的两个例子都使用了`transform: rotate(-90deg)`属性。
 
-[![Screen-Shot-on-Mar-1st-at-08_39-AM](../Images/e72fb20fdc93ac077b55e8f083168352.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ffLWJv12--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/03/Screen-Shot-on-Mar-1st-at-08_39-AM.png)
+[![Screen-Shot-on-Mar-1st-at-08_39-AM](img/e72fb20fdc93ac077b55e8f083168352.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ffLWJv12--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/03/Screen-Shot-on-Mar-1st-at-08_39-AM.png)
 
-[![Screen-Shot-on-Mar-1st-at-08_53-AM](../Images/d1795e75968863d271a6d384d417c236.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oAKu8P3F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/03/Screen-Shot-on-Mar-1st-at-08_53-AM.png)
+[![Screen-Shot-on-Mar-1st-at-08_53-AM](img/d1795e75968863d271a6d384d417c236.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oAKu8P3F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/03/Screen-Shot-on-Mar-1st-at-08_53-AM.png)
 
 ## 3D 变换
 

@@ -109,19 +109,19 @@ fileDataUri = URL.createObjectURL(file)
 
 ### 运行简单的表情符号搜索
 
-[![](../Images/2be445291a5fe77f67aa9b393a8401bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TBPYwxR6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_3006710316AC061FF0A027D62F4C495878AF5093095B2AF2C7634CDBA1D340A0_1538598277834_image.png)
+[![](img/2be445291a5fe77f67aa9b393a8401bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TBPYwxR6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_3006710316AC061FF0A027D62F4C495878AF5093095B2AF2C7634CDBA1D340A0_1538598277834_image.png)
 
 [https://beta . observablehq . com/@ Hugo df/search-and-download-e moji-from-github](https://beta.observablehq.com/@hugodf/search-and-download-emoji-from-github)
 
 ### 写直 SVG 可视化
 
-[![](../Images/3dfbe96d4d2328228d9129d24b056642.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2T6Ckwoa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_3006710316AC061FF0A027D62F4C495878AF5093095B2AF2C7634CDBA1D340A0_1538598311941_image.png)
+[![](img/3dfbe96d4d2328228d9129d24b056642.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2T6Ckwoa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_3006710316AC061FF0A027D62F4C495878AF5093095B2AF2C7634CDBA1D340A0_1538598311941_image.png)
 
 [https://beta . observablehq . com/@ Hugo df/Reddit-contributions-per-week-graph](https://beta.observablehq.com/@hugodf/reddit-contributions-per-week-graph)
 
 ### 用 web APIs 做有趣的事情
 
-[![](../Images/08124a39163eb3a1b25a4da9f57efefd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UkZdytJ6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_3006710316AC061FF0A027D62F4C495878AF5093095B2AF2C7634CDBA1D340A0_1538598350347_image.png)
+[![](img/08124a39163eb3a1b25a4da9f57efefd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UkZdytJ6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_3006710316AC061FF0A027D62F4C495878AF5093095B2AF2C7634CDBA1D340A0_1538598350347_image.png)
 
 [https://beta.observablehq.com/@hugodf/audio-waveforms](https://beta.observablehq.com/@hugodf/audio-waveforms)
 

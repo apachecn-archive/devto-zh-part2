@@ -123,7 +123,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果成功，控制台将显示以下内容:
 
-[![](../Images/abef8aa7d03d25b5f5e788213eb8e686.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2Oa9Q7Pk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rvhcj47zt58qrq76eivw.png)
+[![](img/abef8aa7d03d25b5f5e788213eb8e686.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2Oa9Q7Pk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rvhcj47zt58qrq76eivw.png)
 
 # `WebContents.send`
 

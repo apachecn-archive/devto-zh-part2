@@ -4,7 +4,7 @@
 
 > 最初发布于[我的媒体简介](https://hackernoon.com/i-didnt-accept-job-offer-at-facebook-here-s-why-fd6fce49a26b)。
 
-[![](../Images/8ef384f1edc3f8124ec19e1d2b7d5bba.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RIWCH5sh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AZhB9rz-g5HPxOmBe)
+[![](img/8ef384f1edc3f8124ec19e1d2b7d5bba.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RIWCH5sh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AZhB9rz-g5HPxOmBe)
 
 我早上 5:30 左右醒来。我晚上睡得很晚，感到很困。但是现在不是偷懒的时候，因为我必须为旅行做好准备。我沏了茶，吃了些面包作为早餐，冲了个澡，锁上门，给优步打了个电话。优步把我带到一个公共汽车站，我在那里订了一个座位。公共汽车晚点了大约 20 分钟，但我在早上 7 点 20 分离开了卡拉奇——灯光之城。根据交通状况、道路状况和巴士速度，需要 4-5 个小时的路程。
 
@@ -14,7 +14,7 @@
 
 我不确定自己的想法和感受。也许我有点内疚，也许我不能相信敲我门的机会，也许这只是一个梦，也许这不是什么大不了的事，我正在做。但是有一件事我很确定，那就是我已经做出了决定，现在我必须接受它。在那辆巴士上，我在想如何让自己舒服一点，并消除心中的罪恶感。
 
-[![](../Images/242387d3ff829139008b7c914abb7c41.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--nYJkkn7W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.brainyquote.com/photos_tr/en/r/royedisney/170949/royedisney1-2x.jpg) 形象功劳:【https://www.brainyquote.com/quotes/roy_e_disney_170949】
+[![](img/242387d3ff829139008b7c914abb7c41.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--nYJkkn7W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.brainyquote.com/photos_tr/en/r/royedisney/170949/royedisney1-2x.jpg) 形象功劳:【https://www.brainyquote.com/quotes/roy_e_disney_170949】
 
 * * *
 
@@ -26,7 +26,7 @@
 
 ### 决定了吗？什么决定？
 
-[![](../Images/a99c4e62749513f0b2217d6c7d1d49a7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IiAgfUAc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1446769357257-5aa1b1bfcd65%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D7eccf2039ac2149d244f56539ac33528%26auto%3Dformat%26fit%3Dcrop%26w%3D1050%26q%3D80)[Justin Luebke](https://unsplash.com/@jluebke?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral) 上的《站在山顶的黄衣人》
+[![](img/a99c4e62749513f0b2217d6c7d1d49a7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IiAgfUAc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1446769357257-5aa1b1bfcd65%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D7eccf2039ac2149d244f56539ac33528%26auto%3Dformat%26fit%3Dcrop%26w%3D1050%26q%3D80)[Justin Luebke](https://unsplash.com/@jluebke?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral) 上的《站在山顶的黄衣人》
 
 但是我在这个故事中反复提到的那个决定是什么呢？
 

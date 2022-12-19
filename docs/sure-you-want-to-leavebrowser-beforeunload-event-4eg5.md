@@ -115,7 +115,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当添加新的`Promise`时，我们显示微调器(通过将其`.hidden`属性设置为`false`)。当任何一个承诺完成时，我们会检测是否不再有工作——如果`pendingOps`为空，则隐藏微调器。
 
-[![Simple checkboxes and busy spinner](../Images/de0bc59e7f8eba8b54d35f9e79c8ed24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kU4I3huo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lk82obf0jlovbxee6zfc.gif)
+[![Simple checkboxes and busy spinner](img/de0bc59e7f8eba8b54d35f9e79c8ed24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kU4I3huo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lk82obf0jlovbxee6zfc.gif)
 
 我不是 UX 设计师，所以构建一个视觉上吸引人的忙碌的旋转器是留给读者的 UX 练习！👩‍🎨
 

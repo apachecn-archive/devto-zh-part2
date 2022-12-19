@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/scalegrid/top-5-benefits-of-shared-mongodb-hosting-37fi>
 
-[![Shared MongoDB Hosting: Slow Query Analysis - ScaleGrid](../Images/44461ffbf05b4a00dfa59ecfcd265f19.png)T2】](https://scalegrid.io/blog/top-5-benefits-of-shared-mongodb-hosting/)
+[![Shared MongoDB Hosting: Slow Query Analysis - ScaleGrid](img/44461ffbf05b4a00dfa59ecfcd265f19.png)T2】](https://scalegrid.io/blog/top-5-benefits-of-shared-mongodb-hosting/)
 
 共享托管是在云中部署 MongoDB 的最具成本效益且易于设置的选项之一，世界上成千上万的公司使用它来托管他们的数据库。在本帖中，我们概述了使用共享 [MongoDB 主机](https://scalegrid.io/mongodb.html "Shared MongoDB Hosting Service")的[五大好处](https://scalegrid.io/blog/top-5-benefits-of-shared-mongodb-hosting/)，以帮助您决定它是否适合您的业务。
 
@@ -22,7 +22,7 @@
 3.  ### 动态、自动缩放
 
     作为一家成长中的公司，您不想被持续监控 MongoDB 集群的大小所困扰，以确保不会耗尽存储空间。共享主机的另一个好处是你的 MongoDB 集群会随着你的成长而自动扩展，所以你永远不用担心空间耗尽或者过早地为未使用的空间付费。分配给容器的 CPU 和 RAM 会随着集群中数据的扩展而动态扩展。例如，如果您的数据从 2GB 增加到 4GB，分配的 RAM 容量会自动从 200MB 增加到 400MB，而不会导致任何停机。
-4.  ### 数据库监控和警报【MongoDB 的完全托管共享主机最受欢迎和最受欢迎的好处之一是为您的数据库提供自动监控和警报。这对于没有内部资源或时间来密切监控其集群的年轻公司来说极其重要，他们需要一个完全托管的解决方案来通知他们托管的集群是否有任何变化或问题。这包括运行慢速查询分析的能力，因此您可以快速识别任何可能降低应用程序速度的问题查询。您可以访问的其他令人惊叹的监控报告包括索引使用、执行的作业、系统内存、缓存活动等等。您还可以在全局和集群级别上配置任何 MongoDB 指标的警报，并定制何时发送通知的阈值和触发器。监控加警报相当于主动的 MongoDB 用户和健康、愉快的数据库。【T2![Shared MongoDB Hosting: Slow Query Analysis - ScaleGrid](../Images/c31f331458654473de1b7a986dc41546.png)
+4.  ### 数据库监控和警报【MongoDB 的完全托管共享主机最受欢迎和最受欢迎的好处之一是为您的数据库提供自动监控和警报。这对于没有内部资源或时间来密切监控其集群的年轻公司来说极其重要，他们需要一个完全托管的解决方案来通知他们托管的集群是否有任何变化或问题。这包括运行慢速查询分析的能力，因此您可以快速识别任何可能降低应用程序速度的问题查询。您可以访问的其他令人惊叹的监控报告包括索引使用、执行的作业、系统内存、缓存活动等等。您还可以在全局和集群级别上配置任何 MongoDB 指标的警报，并定制何时发送通知的阈值和触发器。监控加警报相当于主动的 MongoDB 用户和健康、愉快的数据库。【T2![Shared MongoDB Hosting: Slow Query Analysis - ScaleGrid](img/c31f331458654473de1b7a986dc41546.png)
 
 5.  ### MongoDB 版本自动升级
 

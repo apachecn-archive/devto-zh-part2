@@ -36,7 +36,7 @@ This is Alpha! Go [home](./).
 
 下一步-创建一个新的网站。您可以通过 CLI 实现这一点，但从 UI 也非常容易:
 
-[![Netlify new site](../Images/670771cae41705d9d0fef9bd621a73e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yW-z44MB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/05/vpn1.jpg)
+[![Netlify new site](img/670771cae41705d9d0fef9bd621a73e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yW-z44MB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/05/vpn1.jpg)
 
 选择您的存储库，在下一页中，您需要提供构建设置。请注意，这是*而不是*将立即工作，但我们会解决这个问题。
 
@@ -44,7 +44,7 @@ This is Alpha! Go [home](./).
 
 对于发布目录，`.vuepress/dist`。VuePress 文档假设有一个`docs`子目录，但是我们的应用程序的根是根文件夹本身。
 
-[![Build settings](../Images/f60d74245bb163a2d2d284d7824be178.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---NjojJ6x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/05/vpn2.jpg)
+[![Build settings](img/f60d74245bb163a2d2d284d7824be178.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---NjojJ6x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/05/vpn2.jpg)
 
 继续点击`Deploy Site`，但是如我所说，预计它会失败。
 
@@ -79,7 +79,7 @@ npm init --force
 
 老实说，我仍然是使用 npm 脚本的新手。我真的很喜欢他们，但是正如我所说的，我对他们来说是陌生的。将此文件添加到您的 repo 中，提交，就这样。说真的。这是我第一次测试的构建历史。在我找出 package.json 位之前，您可以看到它失败了。
 
-[![Build log](../Images/83a7c4df40f0112b8300339cf8ea523d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pmwxJRT1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/05/vpn3.jpg)
+[![Build log](img/83a7c4df40f0112b8300339cf8ea523d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pmwxJRT1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/05/vpn3.jpg)
 
 你可以看到这个现场直播的网站，我的意思是，如果你真的想，这里:[https://tender-stonebraker-c8e749.netlify.com/](https://tender-stonebraker-c8e749.netlify.com/)。酷的部分是-我编辑我的 VuePress 网站，并确认它在本地很酷，然后我可以简单地提交我的更改。然后，Netlify 将获取更改，运行构建，并部署静态站点。
 

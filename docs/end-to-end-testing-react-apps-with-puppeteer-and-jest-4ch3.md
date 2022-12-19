@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/end-to-end-testing-react-apps-with-puppeteer-and-jest-4ch3>
 
-[![](../Images/dc81364685d07b4a349ef299a456c9f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IBzV0fOs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/1%2ArV3Wuv-DfvLwvO9u81OOYA.jpeg)
+[![](img/dc81364685d07b4a349ef299a456c9f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IBzV0fOs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/1%2ArV3Wuv-DfvLwvO9u81OOYA.jpeg)
 
 在本教程中，我们将看到如何使用 [Jest](https://facebook.github.io/jest/) 和[木偶师](https://github.com/GoogleChrome/puppeteer)为 React 应用编写测试。测试是现代 web 应用程序开发的一个重要部分，它有助于检查您编写的代码是否可接受，是否按接受的方式工作。这是一种在“上线”之前捕捉代码中 bug 的方法。
 
@@ -52,7 +52,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 安装完所有必需的包后，您可以使用 npm start 命令运行 React 应用程序，并让它在后台运行。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/?cid=banner_a)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/?cid=banner_a)
 
 ### **写测试**
 
@@ -90,11 +90,11 @@ npm run test
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/bca97166d3397d8ac90d690f535c0877.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cC-JjxYF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AiLyFSvvF9uvwc_8UtdFbUg.png)
+[![](img/bca97166d3397d8ac90d690f535c0877.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cC-JjxYF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AiLyFSvvF9uvwc_8UtdFbUg.png)
 
 测试将会通过，因此您的命令输出应该与上面的一样。您实际上可以更改。应用程序标题选择器，看看失败的测试会发生什么。
 
-[![](../Images/6ca73eb3132edb127ca3da1d14eb5a91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HMeEQq9O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AMA5n_y_pCddn1uz5x3LS9A.png)
+[![](img/6ca73eb3132edb127ca3da1d14eb5a91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HMeEQq9O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AMA5n_y_pCddn1uz5x3LS9A.png)
 
 这里，输出实际上表明了测试失败以及失败的原因。在这种情况下，收到的值与预期值不同。
 
@@ -146,7 +146,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 不要忘记创建一个 [Firebase](https://console.firebase.google.com) 帐户，并将您的凭证添加到 src/firebase/firebase.js 文件中。
 
-<figure>[![](../Images/d3ffb88adb1eabbc79c42b87ee8d6a13.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--53D7sSTP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2APokATdZ25TV90MiVw1TCrw.png)
+<figure>[![](img/d3ffb88adb1eabbc79c42b87ee8d6a13.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--53D7sSTP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2APokATdZ25TV90MiVw1TCrw.png)
 
 <figcaption>React Firebase 认证样板 App</figcaption>
 
@@ -205,13 +205,13 @@ routes 对象包含我们将要测试的视图的各种 URL。public 对象包�
 
 我已经用代码块中的用户详细信息创建了一个帐户，因此这个测试应该通过。
 
-[![](../Images/67dc6726b62a586d335ccc8d3dd33f5f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pZ7KyEnC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AyteBNSwCeDrUT-j3kOkkAg.png)
+[![](img/67dc6726b62a586d335ccc8d3dd33f5f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pZ7KyEnC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AyteBNSwCeDrUT-j3kOkkAg.png)
 
 [afterAll](https://facebook.github.io/jest/docs/en/api.html#afterallfn-timeout) 函数在测试结束后发生，并关闭浏览器。
 
 ### **用户可以注销**
 
-<figure>[![](../Images/906e8d5ec571b6a7957a43915344e6cf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rAVCB19m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWoS9teZ7-90ccOkJVV6SCA.png)T4】🤮这不是 CSS 教程</figure>
+<figure>[![](img/906e8d5ec571b6a7957a43915344e6cf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rAVCB19m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWoS9teZ7-90ccOkJVV6SCA.png)T4】🤮这不是 CSS 教程</figure>
 
 这是成功登录后显示的视图。现在我们想测试当用户点击*退出*按钮时会发生什么。预期的结果是本地存储被清除、注销，用户被重定向回登录页面。
 
@@ -223,7 +223,7 @@ routes 对象包含我们将要测试的视图的各种 URL。public 对象包�
 
 恭喜你，又一个测试通过了。
 
-[![](../Images/3cac8436339c6e3aa73783f23f0ef4a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n_EAc4Zb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ApykecL8ifFGIIquDVztBVg.png)
+[![](img/3cac8436339c6e3aa73783f23f0ef4a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n_EAc4Zb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ApykecL8ifFGIIquDVztBVg.png)
 
 ### **用户被重定向到未授权查看的登录页面**
 
@@ -237,7 +237,7 @@ routes 对象包含我们将要测试的视图的各种 URL。public 对象包�
 
 这意味着在用户导航到私人路线后，他们会被自动重定向到登录表单。
 
-[![](../Images/71c0f0b3bf1a273f2ec734703a36cf5a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dLZPpP2I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A82yuhpmSjZZTH54ffnIaaA.png)
+[![](img/71c0f0b3bf1a273f2ec734703a36cf5a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dLZPpP2I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A82yuhpmSjZZTH54ffnIaaA.png)
 
 ### **不存在的观点/路线返回 404 页**
 
@@ -249,7 +249,7 @@ routes 对象包含我们将要测试的视图的各种 URL。public 对象包�
 
 我们之前创建的 routes.public.noMatch 链接指向一个不存在的路由。因此，当木偶师转到那个链接时，它希望自动重定向到 404 页面。的。不匹配选择器位于 [404 页面](https://github.com/yomete/react-firebase-authentication/blob/master/src/components/NoMatch/index.js#L4)上。
 
-[![](../Images/1f6d0cca58271496e2c7021fe059e2a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ijE73EMQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ADualM5SwLrF-TWOEFrAkXA.png)
+[![](img/1f6d0cca58271496e2c7021fe059e2a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ijE73EMQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ADualM5SwLrF-TWOEFrAkXA.png)
 
 ### **结论**
 
@@ -267,7 +267,7 @@ Jest 和 Puppeteer 是一个组合，在测试 React 应用程序时肯定不会
 
 ### Plug: [LogRocket](http://logrocket.com) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/acoh3n/algorithms-in-the-real-world-j96>
 
-[![Banner](../Images/63d8453adf1aa5ad521d9fb67d105388.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fCeQI32u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/irkvx4fysrfl9ti7xdfp.jpg)
+[![Banner](img/63d8453adf1aa5ad521d9fb67d105388.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fCeQI32u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/irkvx4fysrfl9ti7xdfp.jpg)
 
 需要以写代码为生的计算机科学家，不断地在美丽整洁的理论小世界和有点混乱的实用软件工程的“macgyverish”世界之间游走。
 

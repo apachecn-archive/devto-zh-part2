@@ -8,7 +8,7 @@
 
 ## 常见的箱式模型
 
-[![box-model diagram](../Images/9f4ee9fa7984f58aee49533681c38f2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AUgX_77y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/03/box-model.png)
+[![box-model diagram](img/9f4ee9fa7984f58aee49533681c38f2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AUgX_77y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/03/box-model.png)
 
 一个普通的盒子模型由几个盒子组成，每个盒子里有一个更小的盒子。与 CSS 模型一样，从内到外依次是:
 
@@ -63,7 +63,7 @@ StackPanel
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![collapsed margin example](../Images/2a45125eb4021861c23067e8a52ab734.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wUEdV8CC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/03/collapsed-margin.png)
+[![collapsed margin example](img/2a45125eb4021861c23067e8a52ab734.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wUEdV8CC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mortoray.files.wordpress.com/2018/03/collapsed-margin.png)
 
 随着边距的缩小，项目“一”和“二”之间将有 10 个点。由于严格的边距，这两项之间将有 20 个点。
 

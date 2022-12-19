@@ -6,14 +6,14 @@
 
 托管文件传输(MFT)不仅仅是对 FTP 或 SFTP 解决方案的升级。作为一个健壮的企业，B2B 集成工具，它已经成熟了。
 
-| 2018 年第三期 | [![](../Images/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://bit.ly/2Ly7abg) |
+| 2018 年第三期 | [![](img/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://bit.ly/2Ly7abg) |
 | --- | --- |
 
 在大中型数字企业中，成功管理公司、客户和贸易伙伴之间的文件交换的挑战继续呈指数级增长。
 
 然而，就在不久前，MFT 还主要被视为 FTP 或 SFTP 解决方案的替代升级。在这种情况下，一个功能丰富的 MFT 解决方案很容易提供一个有竞争力的价值主张:
 
-[![](../Images/2f2cc7116bc445b535ad9c95cad5677c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Rvk1AHj4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/MFT1.jpg/25141e84-f5b9-42ef-8855-eb7292188b39%3Ft%3D1531386046662) 
+[![](img/2f2cc7116bc445b535ad9c95cad5677c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Rvk1AHj4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/MFT1.jpg/25141e84-f5b9-42ef-8855-eb7292188b39%3Ft%3D1531386046662) 
 
 **图 1:**MFT vs FTP/SFTP
 
@@ -46,7 +46,7 @@ ActiveTransfer 服务器采用反向调用或由内向外的服务调用。这�
 
 最近，Software AG 引入了 webMethods API Gateway 作为公司 B2B 集成架构的一部分，它不仅为 ActiveTransfer 提供了安全性和策略实施，还为包括 webMethods 交易网络和 EDI 在内的其他 webMethods B2B 解决方案提供了安全性和策略实施。API 网关提供了一个健壮的 API 运行时安全性，它只欢迎授权用户。
 
-[![](../Images/802ce00b8ba4376d9139e1ca8a3fae9c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Mzrgd40x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/MFT2.jpg/4ae72aad-4b36-46c1-89d6-05352c9edb3f%3Ft%3D1531386051049) 
+[![](img/802ce00b8ba4376d9139e1ca8a3fae9c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Mzrgd40x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/MFT2.jpg/4ae72aad-4b36-46c1-89d6-05352c9edb3f%3Ft%3D1531386051049) 
 
 **图 2:** 通过 API 网关进行 B2B 集成
 
@@ -60,7 +60,7 @@ ActiveTransfer Agents 是轻量级应用程序，允许管理员在集中式服�
 
 对于零售，这可能意味着在各个商店同步传播定价和促销信息。对于一家主要银行及其个别分行，代理将自动发送日终对账报告；或者，分销商可以使用代理来同步文件传输，以便在任意数量的仓库之间共享产品目录更改。
 
-[![](../Images/b465e8ea3077247d37355d7859ea946a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rI00-Pqi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/MFT3.jpg/c21af3c6-074f-4792-8fac-d267871f54fc%3Ft%3D1531386055803) 
+[![](img/b465e8ea3077247d37355d7859ea946a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rI00-Pqi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/MFT3.jpg/c21af3c6-074f-4792-8fac-d267871f54fc%3Ft%3D1531386055803) 
 
 **图 3:** MFT 特工在行动
 

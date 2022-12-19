@@ -18,7 +18,7 @@
 
 我们只需要从依赖项中选择“配置服务器”和“Web”。
 
-[![Generate project](../Images/8195b67b1e31098dafde518ec8cf4ff1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xe4KKSJM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m1p4aejb2jt57ggpvf6k.png)
+[![Generate project](img/8195b67b1e31098dafde518ec8cf4ff1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xe4KKSJM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m1p4aejb2jt57ggpvf6k.png)
 
 这将在 pom.xml:
 中生成带有 maven 依赖项的 app
@@ -42,7 +42,7 @@
 
 它将向应用程序添加一些新的 REST 映射，当应用程序启动时，我们可以在日志中看到这些映射。
 
-[![console log](../Images/ba851ebc3434e59e5bf957146c2e4310.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4YCEvOBW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yd17shqa50pv02mfmcpv.png)
+[![console log](img/ba851ebc3434e59e5bf957146c2e4310.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4YCEvOBW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yd17shqa50pv02mfmcpv.png)
 
 然后在`application.properties`中添加这些属性
 

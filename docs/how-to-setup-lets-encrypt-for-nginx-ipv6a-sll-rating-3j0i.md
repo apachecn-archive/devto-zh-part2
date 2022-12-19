@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/grigorkh/how-to-setup-lets-encrypt-for-nginx-ipv6a-sll-rating-3j0i>
 
-[![](../Images/05518321230f0893e91c130f9c84fce0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hFUEG1Ae--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bmd3ypme13ktdv4d8aid.jpg)
+[![](img/05518321230f0893e91c130f9c84fce0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hFUEG1Ae--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bmd3ypme13ktdv4d8aid.jpg)
 
 ### 如何在 Ubuntu 18.04 上设置 Let's Encrypt for Nginx(包括 IPv6、HTTP/2 和 A+ SLL 评级)
 

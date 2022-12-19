@@ -8,7 +8,7 @@
 
 这是一种高级编程语言，可以认为是任何开发者使用最多的编程语言。这是由堆栈溢出开发者对 173 个国家的 64，000 名开发者进行的调查，他们了解到大约 62.5%的程序员使用这种编程语言来开发他们的项目。JavaScript 使一个程序员能够建立交互式网站，这是继 HTML 和 CSS 之后，程序员用来开发网站的最受欢迎的语言，因为大多数 web 浏览器都以某种方式实现了这种语言。
 
-[![](../Images/e8a0e9e894f51bc70b397a7a7e910729.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RTV2z2qu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/248515/pexels-photo-248515.png%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D450%26w%3D550)T3】图片来源:Pexels
+[![](img/e8a0e9e894f51bc70b397a7a7e910729.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RTV2z2qu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/248515/pexels-photo-248515.png%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D450%26w%3D550)T3】图片来源:Pexels
 
 ## Java 语言(一种计算机语言，尤用于创建网站)
 

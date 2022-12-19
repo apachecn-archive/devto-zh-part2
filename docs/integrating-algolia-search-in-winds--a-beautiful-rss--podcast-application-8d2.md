@@ -2,11 +2,11 @@
 
 > 原文：<https://dev.to/nickparsons/integrating-algolia-search-in-winds--a-beautiful-rss--podcast-application-8d2>
 
-[![Winds](../Images/f6e5a25f7e168fa12d526db2969dab4b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--izylzlIN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q6m6jqhqfstlsa6jo2hy.png)
+[![Winds](img/f6e5a25f7e168fa12d526db2969dab4b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--izylzlIN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q6m6jqhqfstlsa6jo2hy.png)
 
 今年早些时候， [Stream](https://getstream.io) 推出了 [Winds 2.0](https://getstream.io/winds) ，这是我们广受欢迎的面向 macOS、Windows 和 Linux 的开源原生应用程序的第二次迭代，它提供了一种全新的消费 RSS 订阅和播客的方式。如果你没有用过 Winds，你可以在 https://getstream.io/winds 的[报名。或者，如果你只是想要一个视觉效果，下面是 Winds 的截图:](https://getstream.io/winds)
 
-[![Winds](../Images/435c43176f470b8b21ceb8d8121f7e96.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--54CUn2PM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tqpyvnudwbuwdx7jdd8e.png)
+[![Winds](img/435c43176f470b8b21ceb8d8121f7e96.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--54CUn2PM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tqpyvnudwbuwdx7jdd8e.png)
 
 对于我们正在编译和查询的所有内容，我们需要一种直观的方式来呈现内容供用户搜索。这就是 Algolia 出现的原因。Algolia 是一个易于使用的插件，允许像我们这样的开发人员为我们的用户创建独特的搜索和发现体验。最棒的是，Algolia 的速度非常快，可以从后端仪表板或前端代码进行配置，返回给用户的结果也非常相关。
 
@@ -16,7 +16,7 @@
 
 Algolia 通过了解传统开发人员希望在对付费计划做出长期承诺之前试用产品，完善了他们的开发人员入职流程。考虑到这一点，他们通过提供开源选项的免费层来支持社区；唯一的要求是你在搜索栏中显示 Algolia 标志(如下图所示)。
 
-[![Winds](../Images/c3c6180a5a5506524c0b538930455374.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_c8BHwLQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qnppzjbaemr661u0cwl9.png)
+[![Winds](img/c3c6180a5a5506524c0b538930455374.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_c8BHwLQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qnppzjbaemr661u0cwl9.png)
 
 如果你对使用 Algolia 感兴趣，开始使用他们的免费开源计划，该计划提供 10，000 条记录和 100，000 次操作。只需填写此处的表格，Algolia 团队将会回复您——他们会很快回复您！
 
@@ -71,7 +71,7 @@ if 语句的第一部分用于生产或开发环境，因为它检查有效的 A
 
 添加完所有内容后，它们会显示在我们的索引中(见下文)！
 
-[![Winds](../Images/b8d8502ff37cd7e70aec8f7f63229598.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fi8dovrN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dx7dno62ld70fmsz6k7n.png)
+[![Winds](img/b8d8502ff37cd7e70aec8f7f63229598.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fi8dovrN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dx7dno62ld70fmsz6k7n.png)
 
 ## 从 Algolia 获取搜索结果🔎
 
@@ -99,7 +99,7 @@ index.search({ query: text, }, (err, results) => {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Winds](../Images/e29b5f7b77aae854727fd1cfd72f7e01.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t57LcCbZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cv2cpk3uzj025y3f1q4h.png)
+[![Winds](img/e29b5f7b77aae854727fd1cfd72f7e01.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t57LcCbZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cv2cpk3uzj025y3f1q4h.png)
 
 与 Algolia 集成的美妙之处在于，您可以构建一个界面，以多种方式搜索和浏览您的数据。因为显示搜索结果所需的所有数据都已经存在于我们的 Algolia 记录中，所以呈现时的复杂性很小，所以我们可以避免可能会显著降低其他工具的速度或效率的方法。
 
@@ -109,7 +109,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 下面是一个截图，展示了 Algolia 的搜索功能在包含 70，000 多条记录的数据集上有多快(以毫秒计):
 
-[![Winds](../Images/074fc2f59c9116aed7c51d61c6048d92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vbae1yta--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vxcex1990bb6magn7sq5.png)
+[![Winds](img/074fc2f59c9116aed7c51d61c6048d92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vbae1yta--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vxcex1990bb6magn7sq5.png)
 
 ## 最后的想法🤔
 

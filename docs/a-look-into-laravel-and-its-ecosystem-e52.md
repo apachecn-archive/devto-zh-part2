@@ -8,7 +8,7 @@
 
 #### 查看过去 5 年的谷歌趋势图
 
-[![Laravel Google Trends](../Images/d9b0c19089ab4539e89cc958bcafca57.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qsNoLdlj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4n4a6gmkuhryax3wqtn5.png)
+[![Laravel Google Trends](img/d9b0c19089ab4539e89cc958bcafca57.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qsNoLdlj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4n4a6gmkuhryax3wqtn5.png)
 
 我想说 Laravel 获得了它的发展势头，不仅因为它是一个开发人员友好的框架或者一个健壮的框架；而是因为它周围的产品和服务生态系统有助于更快地制作应用程序。很像苹果的产品和生态系统。
 

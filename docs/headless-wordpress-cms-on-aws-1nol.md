@@ -43,7 +43,7 @@
 
 首先，我们有 [VPC](https://aws.amazon.com/vpc/) ，然后是 [ECS](https://aws.amazon.com/ecs/) 集群，然后是 EC2 实例，最后是带有任务的 ECS 服务。我们的 Wordpress 服务通过一个[弹性负载平衡器](https://aws.amazon.com/elasticloadbalancing/)向世界公开。我们使用 RDS 作为我们的 MySQL 数据库。
 
-[![](../Images/8c43f6d4ca67de584f669ae58046c805.png)T2】](https://github.com/rgfindl/headless-wordpress/raw/master/diagram1.png)
+[![](img/8c43f6d4ca67de584f669ae58046c805.png)T2】](https://github.com/rgfindl/headless-wordpress/raw/master/diagram1.png)
 
 我们的 Wordpress 服务是无状态的，这意味着我们不能像 Wordpress 媒体或插件那样依赖文件系统来存储内容。每次我们的 Wordpress 服务的一个实例被产生时，它将只有被烘焙到我们的 Docker 映像中的文件。
 
@@ -51,7 +51,7 @@
 
 我们使用一个叫做 [WP 卸载媒体](https://wordpress.org/plugins/amazon-s3-and-cloudfront/)的插件。这个插件允许我们将媒体存储在 [S3](https://aws.amazon.com/s3/) 并使用[云锋](https://aws.amazon.com/cloudfront/)作为 CDN。看看下面的图表。我们也使用相同的 CDN 来缓存 Wordpress API…
 
-[![](../Images/8b2d96b1fd3b31f922f35f175bff7e3e.png)T2】](https://github.com/rgfindl/headless-wordpress/raw/master/diagram2.png)
+[![](img/8b2d96b1fd3b31f922f35f175bff7e3e.png)T2】](https://github.com/rgfindl/headless-wordpress/raw/master/diagram2.png)
 
 现在我们如何处理插件？(我们可以忽略模板，因为这是无头的😃)
 

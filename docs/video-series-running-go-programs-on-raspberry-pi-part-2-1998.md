@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/plutov/video-series-running-go-programs-on-raspberry-pi-part-2-1998>
 
-[![gophers-with-raspberry-pi](../Images/b3353450c3e1473d02f01d342242fd39.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gA5ghHDO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9dl10l50p210au0fpkcc.jpg)
+[![gophers-with-raspberry-pi](img/b3353450c3e1473d02f01d342242fd39.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gA5ghHDO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9dl10l50p210au0fpkcc.jpg)
 
 我开始了一个关于在 Raspberry Pi 上编写和运行围棋程序的新视频系列。在这些视频中，我将介绍:
 

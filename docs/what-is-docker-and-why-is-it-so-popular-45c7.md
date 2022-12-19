@@ -65,7 +65,7 @@ Docker 通过“包装”复杂的底层操作系统系统调用来简化容器�
 
 这是过去五年谷歌搜索“docker”的趋势图:
 
-[![Google Trend Docker](../Images/0704474406763114015295312208c579.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1oqxtT_Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blog/images/what-is-docker/dockergoogletrend.png)
+[![Google Trend Docker](img/0704474406763114015295312208c579.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1oqxtT_Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raygun.com/blimg/what-is-docker/dockergoogletrend.png)
 
 你可以看到，自 2013 年推出以来，Docker 的谷歌搜索量一直在稳步、可持续地增长。码头工人已经成为集装箱化事实上的标准。有一些竞争产品，如 [CoreOS/rkt](https://coreos.com/rkt/docs/latest/) ，但它们在受欢迎程度和市场认知度上远远落后于 Docker。
 

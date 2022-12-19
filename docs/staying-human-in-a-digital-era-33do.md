@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/acoh3n/staying-human-in-a-digital-era-33do>
 
-[![banner](../Images/315fb515d9d329e20a192797d382846d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2BVsT6zC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1ufzfkkp4vf8eo0vh299.jpg)
+[![banner](img/315fb515d9d329e20a192797d382846d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2BVsT6zC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1ufzfkkp4vf8eo0vh299.jpg)
 
 这不是一个技术岗位。但是鉴于最近发生的悲剧，我决定花点时间反思一下我们的关系。人类。
 

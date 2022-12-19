@@ -4,7 +4,7 @@
 
 万圣节快到了，女巫和男巫就在我们中间...制作他自己的魔药。我也是...muajajajajaja！
 
-[![Alt Magic Spell](../Images/f706d9c893fc2402a65232d852eea54c.png)T2】](https://i.giphy.com/media/mrntmDtLQdILS/giphy.gif)
+[![Alt Magic Spell](img/f706d9c893fc2402a65232d852eea54c.png)T2】](https://i.giphy.com/media/mrntmDtLQdILS/giphy.gif)
 
 *   版本 1 中存在七个未解决的问题
 *   三十个待办事项注释行
@@ -28,7 +28,7 @@
 
 Booom！！！几乎我们每个人都创建了这样一个帖子:
 
-<figure>[![equiman](../Images/ebe835e1ec966206e00a01bb329a3e86.png)](/equiman) [## VSCode -基础知识
+<figure>[![equiman](img/ebe835e1ec966206e00a01bb329a3e86.png)](/equiman) [## VSCode -基础知识
 
 ### 卡米洛马丁内斯 9 月 27 日 1815 分钟阅读
 
@@ -42,7 +42,7 @@ Booom！！！几乎我们每个人都创建了这样一个帖子:
 
 这就是为什么我认为这种帖子是别人看不到的无用的东西。这是一个专为你制作的帖子。
 
-[![Alt Creepy Ghost](../Images/96f2225a56e07bc9c79955206bce16d0.png)T2】](https://i.giphy.com/media/26uTqWF2wNac8sumk/giphy.gif)
+[![Alt Creepy Ghost](img/96f2225a56e07bc9c79955206bce16d0.png)T2】](https://i.giphy.com/media/26uTqWF2wNac8sumk/giphy.gif)
 
 但是现在想象一下这个令人毛骨悚然的故事:
 
@@ -58,11 +58,11 @@ Booom！！！几乎我们每个人都创建了这样一个帖子:
 *   是的，对不起
 *   废话！
 
-[![Alt Only One](../Images/a996cb23cf71adb3449d535ebf21c83d.png)T2】](https://i.giphy.com/media/9Jmb2idg10qJSygvTQ/giphy.gif)
+[![Alt Only One](img/a996cb23cf71adb3449d535ebf21c83d.png)T2】](https://i.giphy.com/media/9Jmb2idg10qJSygvTQ/giphy.gif)
 
 *   会是什么呢...为什么呢？
 
 ——
 **那都是乡亲们！**T3**万圣节快乐**🎃💀
 
-[![beer](../Images/192892baef71a32ea4a5e98a4927b05e.png)T2】](https://github.com/sponsors/deinsoftware)
+[![beer](img/192892baef71a32ea4a5e98a4927b05e.png)T2】](https://github.com/sponsors/deinsoftware)

@@ -4,7 +4,7 @@
 
 我的新书**学习 TypeScript 2.x** 刚刚发布！
 
-[![](../Images/137a72ef2b8465705b547c439206f7d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8QBlSXd---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tb1e0z9bbsmzx3pidp0s.jpg)
+[![](img/137a72ef2b8465705b547c439206f7d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8QBlSXd---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tb1e0z9bbsmzx3pidp0s.jpg)
 
 我不打算在这个帖子里谈论这本书的内容，因为你可以在[www.learningtypescript.com](http://www.learningtypescript.com/)了解它的一切。但是，我想谈谈这本书如何成为现实的幕后过程。
 
@@ -72,7 +72,7 @@ Packt Publishing 找到了我，因为我强调打字稿是我在 Linkedin.com �
 
 随着时间的推移，web 开发社区开始意识到 ES6 的新特性，普通 JavaScript 应用程序的规模呈指数级增长，微软开始拥抱开源。然而，只有当谷歌的 Angular 团队宣布他们将采用 TypeScript 时，它才成为主流。
 
-[![Google trends chart for TypeScript](../Images/640baa13efc8dc72b0c86c0eb728763f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x6_wkYY4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fm1s8gw5fw8pg9xrq3pc.png)
+[![Google trends chart for TypeScript](img/640baa13efc8dc72b0c86c0eb728763f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x6_wkYY4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fm1s8gw5fw8pg9xrq3pc.png)
 
 我认为 Google 采用它的事实有助于社区信任 TypeScript，并开始看到它的真实面目:一种遵循开放标准的真正的开源技术。
 
@@ -98,7 +98,7 @@ Packt Publishing 找到了我，因为我强调打字稿是我在 Linkedin.com �
 
 你会感到疲倦，而且你不会像你希望的那样花太多时间与家人和朋友在一起。
 
-[![A cartoon that tries to represent expectations (easy path) and  reality (difficult path) ](../Images/183a7b6eff4ba965a4a34c0a3f4b6415.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5x9WTT0l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o4gtttdpeje0tx19t7ma.jpg)
+[![A cartoon that tries to represent expectations (easy path) and  reality (difficult path) ](img/183a7b6eff4ba965a4a34c0a3f4b6415.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5x9WTT0l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o4gtttdpeje0tx19t7ma.jpg)
 
 你可以想象这是很难的，这就是为什么我认为你不能独自做到这一点。就我而言，这一切都是因为我得到了家人和朋友的支持。
 
@@ -220,7 +220,7 @@ Packt Publishing 找到了我，因为我强调打字稿是我在 Linkedin.com �
 
 相信我；你的机会比你想象的多得多。出版公司很难找到作者:
 
-[![A recruitment advert for technical authors in one of the Packt Publishing books](../Images/b738d4b67d2f49ecca28b7850926736d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HPy9p_VX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1mg9do6lbrk5j3oo25eu.jpeg)
+[![A recruitment advert for technical authors in one of the Packt Publishing books](img/b738d4b67d2f49ecca28b7850926736d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HPy9p_VX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1mg9do6lbrk5j3oo25eu.jpeg)
 
 你可以通过联系出版公司成为一名作者。以下是一些例子:
 

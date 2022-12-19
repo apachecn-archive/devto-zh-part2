@@ -14,13 +14,13 @@
 
 最近 Immo Landwerth [在一条推特](https://twitter.com/terrajobst/status/1031999730320986112)上说。NET 标准 2.0 工作。NET Framework 4.6.1 是一个错误，文档将被更新以反映新的指导。他[澄清](https://twitter.com/terrajobst/status/1032000874552250368)这与缺失的 API 无关(1.5 & 1.6 中一些大量未使用的 API 就是这种情况)，而是与工具等其他问题有关。你可以在[本期 GitHub](https://github.com/dotnet/standard/issues/481)中看到其中的一些问题。
 
-> ![Immo Landwerth profile image](../Images/80d3cd2d47abba0b48d634cbe99ba4f5.png)Immo Landwerth@ terra jobst![twitter logo](../Images/65e26e35707d96169ec8af6b3cbf2003.png)不好意思我们搞砸了。我们试着。NET 框架 4.6.1 追溯实施。NET 标准 2.0。这是一个错误，因为我们没有时间机器，而且还有一大堆错误。
+> ![Immo Landwerth profile image](img/80d3cd2d47abba0b48d634cbe99ba4f5.png)Immo Landwerth@ terra jobst![twitter logo](img/65e26e35707d96169ec8af6b3cbf2003.png)不好意思我们搞砸了。我们试着。NET 框架 4.6.1 追溯实施。NET 标准 2.0。这是一个错误，因为我们没有时间机器，而且还有一大堆错误。
 > 
-> 如果要消费。网标 1.5+起。NET 框架，我推荐 4.7.2 上。[twitter.com/marcgravell/st…](https://t.co/E7H2Ps9cLk)2018 年 8 月 21 日晚 20 点 21 分Marc Gravell@ Marc Gravell叹息；系统问题的另一个报告。在 net461 上运行的. net standard 2.0 lib 中的 Numerics.Vectors 导致绑定问题。耶。[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1031999730320986112)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1031999730320986112)157[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1031999730320986112)313
+> 如果要消费。网标 1.5+起。NET 框架，我推荐 4.7.2 上。[twitter.com/marcgravell/st…](https://t.co/E7H2Ps9cLk)2018 年 8 月 21 日晚 20 点 21 分Marc Gravell@ Marc Gravell叹息；系统问题的另一个报告。在 net461 上运行的. net standard 2.0 lib 中的 Numerics.Vectors 导致绑定问题。耶。[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1031999730320986112)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1031999730320986112)157[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1031999730320986112)313
 
 由于[大卫福勒最近的这条推文](https://twitter.com/davidfowl/status/1008453902058917888)，最近有一股转向`netstandard2.0`的动力，以获得它给开发时间带来的好处，这是一个很好的建议，但许多人选择借此机会删除`net461`或更低版本，这意味着更新的消费者现在面临一些问题。
 
-> ![David Fowler profile image](../Images/dd21ffe8038eaaeea3a586440422a4a9.png)大卫·福勒@大卫·福勒![twitter logo](../Images/65e26e35707d96169ec8af6b3cbf2003.png)我知道我们说过目标是最低的网络标准，但我们真的希望每个人都重新以网络标准 2.0 为基准。至少添加一个 netstandard 2.0 目标。 [#dotnet](https://twitter.com/hashtag/dotnet) 核心[# dot net](https://twitter.com/hashtag/dotnet)2018 年 6 月 17 日 20 点 58 分[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1008453902058917888)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1008453902058917888)69[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1008453902058917888)148
+> ![David Fowler profile image](img/dd21ffe8038eaaeea3a586440422a4a9.png)大卫·福勒@大卫·福勒![twitter logo](img/65e26e35707d96169ec8af6b3cbf2003.png)我知道我们说过目标是最低的网络标准，但我们真的希望每个人都重新以网络标准 2.0 为基准。至少添加一个 netstandard 2.0 目标。 [#dotnet](https://twitter.com/hashtag/dotnet) 核心[# dot net](https://twitter.com/hashtag/dotnet)2018 年 6 月 17 日 20 点 58 分[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1008453902058917888)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1008453902058917888)69[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1008453902058917888)148
 
 ## 推荐
 
@@ -42,4 +42,4 @@
 
 ## TL；速度三角形定位法(dead reckoning)
 
-[![](../Images/4833191d219e43219ccb7f812b194255.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g2Q0siTx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://stu.dev/content/images/2018/08/netstandard-tldr-1.jpg)
+[![](img/4833191d219e43219ccb7f812b194255.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g2Q0siTx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://stu.dev/conteimg/2018/08/netstandard-tldr-1.jpg)

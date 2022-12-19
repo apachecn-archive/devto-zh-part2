@@ -17,7 +17,7 @@
 
 我正在阅读由[xor](https://medium.com/@xoor/coding-a-graphql-api-with-node-js-c02d617f49f4)撰写的这个很棒的教程，当文章结束时，我在 ApolloServer 中遇到了一个错误:
 
-[![graphqlExpress is not a function](../Images/1c5f0066ef555e1242baef114aed9530.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hR-l-N0D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4h5yzl9928agur1s890a.png)
+[![graphqlExpress is not a function](img/1c5f0066ef555e1242baef114aed9530.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hR-l-N0D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4h5yzl9928agur1s890a.png)
 
 ### `graphqlExpress`不是函数
 
@@ -33,11 +33,11 @@
 
 #### 不带`gql`标记
 
-[![Without gql tag](../Images/5fa8f797c0daf8fca94b4191b4a7256e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qEAF1rOw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0rann01a249gq6ecvu51.png)
+[![Without gql tag](img/5fa8f797c0daf8fca94b4191b4a7256e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qEAF1rOw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0rann01a249gq6ecvu51.png)
 
 #### 带`gql`标记
 
-[![Without gql tag](../Images/73e9d580c4f4b764aee9d6605ce42cbb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sC46AWOQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2vv4exnh41orpqha6e18.png)
+[![Without gql tag](img/73e9d580c4f4b764aee9d6605ce42cbb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sC46AWOQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2vv4exnh41orpqha6e18.png)
 
 如您所见，代码被自动套用格式后可读性更好。对了，我用的是 Atom 编辑器。
 
@@ -47,11 +47,11 @@
 
 #### 之前
 
-[![With bodyParser, graphiQlExpress, graphqlExpress](../Images/d534555829e0c8cb5455cb1b9162e903.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LJE3c841--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dv1m9djfnziaqhsl9aua.png)
+[![With bodyParser, graphiQlExpress, graphqlExpress](img/d534555829e0c8cb5455cb1b9162e903.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LJE3c841--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dv1m9djfnziaqhsl9aua.png)
 
 #### [后](#after)
 
-[![Without bodyParser, graphqlExpress, graphiQlExpress](../Images/ba369970acb79abbb5e2f237755f34d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aCESwEXe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w8azsx6ez2y8n9u4j7e9.png)
+[![Without bodyParser, graphqlExpress, graphiQlExpress](img/ba369970acb79abbb5e2f237755f34d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aCESwEXe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w8azsx6ez2y8n9u4j7e9.png)
 
 ## 3 整合`ApolloServer`
 
@@ -61,18 +61,18 @@
 
 #### 之前
 
-[![With makeExecutableSchema](../Images/a8fbd9d7a6a6e684975e26f925149e4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3D_D5xNL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/my9pzc94z1n8ulgcs6pn.png)
+[![With makeExecutableSchema](img/a8fbd9d7a6a6e684975e26f925149e4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3D_D5xNL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/my9pzc94z1n8ulgcs6pn.png)
 
 #### [后](#after)
 
-[![Without makeExecutableSchema](../Images/483a5d8a6bae33058adbf2eba5c8c7ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k4L8EONI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/styece248oa7crgv4dz8.png)
+[![Without makeExecutableSchema](img/483a5d8a6bae33058adbf2eba5c8c7ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k4L8EONI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/styece248oa7crgv4dz8.png)
 
 注意`schema`变量，因为它是在`graphql/index.js`中导入的。
 
-[![Without bodyParser, graphqlExpress, graphiQlExpress](../Images/70a37dcc7a37848f23ed3840b4008859.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7btYm55G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yk6xn55d07uq6tyhdxqa.png)
+[![Without bodyParser, graphqlExpress, graphiQlExpress](img/70a37dcc7a37848f23ed3840b4008859.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7btYm55G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yk6xn55d07uq6tyhdxqa.png)
 
 就是这样！如果您按照说明正确操作，GraphQL Playground 应该出现在您指定的端点上。
 
-[![Success](../Images/3873c908a79e57c897924ce4b3a73c95.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qBqpoy_8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qzrp0hqcw7sas5xbizh7.png)
+[![Success](img/3873c908a79e57c897924ce4b3a73c95.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qBqpoy_8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qzrp0hqcw7sas5xbizh7.png)
 
 编码快乐！

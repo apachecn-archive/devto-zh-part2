@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ebreton/ghost-in-a-shell---part-ii---https-is-the-norm-1jj4>
 
-[![Ghost in A shell - part II : HTTPs is the norm](../Images/e19d1f23f5b0580c29d5a21fdca40d9e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xOR_M476--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://manu.breton.ch/blog/content/images/2018/05/image-blog-2-3.png)
+[![Ghost in A shell - part II : HTTPs is the norm](img/e19d1f23f5b0580c29d5a21fdca40d9e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xOR_M476--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://manu.breton.ch/blog/conteimg/2018/05/image-blog-2-3.png)
 
 概述上下文分三点:
 

@@ -14,7 +14,7 @@
 
 *他遇到了糟糕的代码……*
 
-[![Washing bunch of dirty dishes](../Images/43166d9349b093f52e27294acea1b2fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U37JzymJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.fefas.net/assets/images/2018-04-08-clean-code-bullshit-or-common-sense-washing-bunch-of-dirty-dishes.jpg%3Fversion%3Dcc840fd)
+[![Washing bunch of dirty dishes](img/43166d9349b093f52e27294acea1b2fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U37JzymJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.fefas.net/asseimg/2018-04-08-clean-code-bullshit-or-common-sense-washing-bunch-of-dirty-dishes.jpg%3Fversion%3Dcc840fd)
 
 ## 为什么一般会这样？
 
@@ -58,7 +58,7 @@
 
 我确实有一个真实的案例，我们在开始时花了更多的时间来实现良好的奇偶校验开发-生产环境，为项目的每个运行实例完全隔离数据库，为整个应用程序进行端到端测试，为每个代码库进行功能和单元测试，自动化部署，六边形架构…嗯…许多主题对许多人来说是不可及的和富有哲理的…对他们来说只是胡扯…
 
-[![TDD chaos-vs-time graph](../Images/569eb9030f01a12b74d6abc145312171.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8yGmBjDz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.fefas.net/assets/images/2018-04-08-clean-code-bullshit-or-common-sense-tdd-chaos-vs-time-graph.jpg%3Fversion%3Dcc840fd)
+[![TDD chaos-vs-time graph](img/569eb9030f01a12b74d6abc145312171.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8yGmBjDz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.fefas.net/asseimg/2018-04-08-clean-code-bullshit-or-common-sense-tdd-chaos-vs-time-graph.jpg%3Fversion%3Dcc840fd)
 
 这并不容易…这很有挑战性。然而，我们工作的结果变成了一个几乎零错误率的产品。当发现一个新的 bug 时，就要编写一个新的测试场景。部署快速、安全，并且可以随时执行。新的特性很容易添加，旧的特性很容易改变……这就是 TDD 的好处……这就是敏捷团队！
 

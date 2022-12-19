@@ -4,7 +4,7 @@
 
 承诺是很好的合作伙伴！你的同事也是这么说的。
 
-[![prom](../Images/0833d026f88c7e53627bc1140ce41ab6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zlauxVhZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/6966254/36483828-3e361d88-16e5-11e8-9f11-cbe99d719066.png)
+[![prom](img/0833d026f88c7e53627bc1140ce41ab6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zlauxVhZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/6966254/36483828-3e361d88-16e5-11e8-9f11-cbe99d719066.png)
 
 这篇文章会告诉你如何改善你和承诺的关系。
 
@@ -49,7 +49,7 @@ var promC = statusProm.then(r => fetchThisAnotherThing());
 Enter fullscreen mode Exit fullscreen mode
 
 上述承诺的关系可以用一个流程图来描述:
-[![image](../Images/b06f71da18487f89f983e8e81cbcc508.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gf5-9vXv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/6966254/36400725-dac92186-15a0-11e8-8b4f-6a344e6a5229.png)
+[![image](img/b06f71da18487f89f983e8e81cbcc508.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gf5-9vXv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/6966254/36400725-dac92186-15a0-11e8-8b4f-6a344e6a5229.png)
 
 这里需要注意的重要一点是，`promA`、`promB`和`promC`都是不同的承诺，但却是相关的。
 

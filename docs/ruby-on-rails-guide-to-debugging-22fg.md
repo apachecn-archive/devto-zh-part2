@@ -10,7 +10,7 @@
 
 使用 byebug，你可以看到在断点之前定义的变量内部的值，只需输入它们的名字。相同的逻辑适用于给定代码块中所有可访问的方法。
 
-[![byebug](../Images/69d9c35ae9c99a5bd8fc17319ad3dd9a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5wjdORvq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/ff3fb15714e3dfd81f497a25b86c2d30/byebug.png)
+[![byebug](img/69d9c35ae9c99a5bd8fc17319ad3dd9a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5wjdORvq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/ff3fb15714e3dfd81f497a25b86c2d30/byebug.png)
 
 这个宝石提供了大量的**命令**，你可以在这里找到完整的列表[。我们将只提到最有用的:](https://github.com/deivid-rodriguez/byebug#byebugs-commands)
 
@@ -29,7 +29,7 @@
 
 一种方法是实现一个[滚动条](https://rollbar.com/)。**滚动条**提供了错误跟踪软件，它也可以集成到 ruby 中，你只需要[安装它](https://kolosek.com/rails-bundle-install-and-gemfile/)。滚动条的全部目的是为您提供生产中发生的错误的有用**日志。**
 
-[![rollbar](../Images/714d8c252d1eb648eb43708e9c2925ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gd5Jz8kB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/ee89a254dc51999c69950074d18eae25/rollbar.png)
+[![rollbar](img/714d8c252d1eb648eb43708e9c2925ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gd5Jz8kB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/ee89a254dc51999c69950074d18eae25/rollbar.png)
 
 您希望在应用程序中使用它有多种原因:
 

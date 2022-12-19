@@ -17,7 +17,7 @@
 
 ### Skyscanner ✈️
 
-[![The Skyscanner Android app and a screen I pour a lot of love into ❤️](../Images/d993bd739429cee4bdda5ef8902635f7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pf_ULNcW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l3gobvry4cduage8vdv1.png)
+[![The Skyscanner Android app and a screen I pour a lot of love into ❤️](img/d993bd739429cee4bdda5ef8902635f7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pf_ULNcW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l3gobvry4cduage8vdv1.png)
 *skyscanner 安卓应用和一个屏幕我对❤️倾注了很多爱*
 
 作为一名移动软件工程师，有三份非常诱人的工作可供选择(Skycanner、一家挑战者银行和一家交通电子票务公司)，我需要做一些思考。最后，选择是相当容易的。
@@ -38,7 +38,7 @@
 
 没过多久，我就到了第一个拉请求的时候了。在杰出的工程师们的簇拥下，我的老朋友[冒名顶替综合症](https://en.wikipedia.org/wiki/Impostor_syndrome)闯入了我的心灵，并在我等待我的第一篇投稿的反馈时占据了我的位置。很容易，尤其是在学习全新的东西时，感觉自己像个骗子，觉得自己不配和真正的工程师在一起——这种感觉很难摆脱。
 
-[![It's actually worst in people who study the Dunning–Kruger effect. We tried to organize a conference on it, but the only people who would agree to give the keynote were random undergrads](../Images/21872998fccb02b37342e0bdb131d57b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GcW15ZVi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgs.xkcd.com/comics/impostor_syndrome.png) 
+[![It's actually worst in people who study the Dunning–Kruger effect. We tried to organize a conference on it, but the only people who would agree to give the keynote were random undergrads](img/21872998fccb02b37342e0bdb131d57b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GcW15ZVi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgs.xkcd.com/comics/impostor_syndrome.png) 
 *冒名顶替综合症随着我的到来而袭来，首先是拉请求。来源: [xkcd](https://xkcd.com/1954/)*
 
 令人欣慰的是，同行评审进行得很顺利 <sup id="fnref2">[2](#fn2)</sup> 当我转向其他事情时，我的信心增加了，我发现自己在从事更复杂的任务，当我从事的一些生产实验呈现在我们的用户面前时，我感到自豪。
@@ -53,7 +53,7 @@
 *   **6 个月学习 iOS，2 门编程语言，一个实验和分析平台。**虽然说我在这段时间里已经掌握了 iOS、Objective-C 和 Swift 是错误的，但我确实有一段时间对自己在大约 6 个月的时间里所取得的成就进行了评估。我已经掌握了 Objective-C，用 Swift 编写了我的第一个功能，熟悉了 iOS 开发，在一个庞大的 iOS 代码库中为自己定位，并了解我们如何在 Skyscanner 进行实验和分析。融入球队的感觉很好，同时也意识到还有很大的成长空间。
 *   创造一个可爱的星球大战复活节彩蛋。去年 12 月，我们自己制作了一个有趣的复活节彩蛋功能，让我们的个性在应用程序中闪耀，并为《星球大战》粉丝提供一点笑声。从事如此有趣的工作真是太棒了，我们都很高兴看到用户这样的反馈。
 
-    > ![](../Images/5e6718af9c9da5cd54c445c0688738d2.png)![](../Images/ae6da806af7dacdbc8601af921a2722a.png)T9】基拉马代拉🤔@ kiramadeira![](../Images/4d9c44713c216584b3d48ff3455cbb68.png)这是太可爱了来自@ skyscanner [#最后的绝地](https://twitter.com/hashtag/thelastjedi) [#星球大战](https://twitter.com/hashtag/starwars)2017 年 12 月 21 日下午 16:39[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=943883688416284673)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=943883688416284673)0[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=943883688416284673)1
+    > ![](img/5e6718af9c9da5cd54c445c0688738d2.png)![](img/ae6da806af7dacdbc8601af921a2722a.png)T9】基拉马代拉🤔@ kiramadeira![](img/4d9c44713c216584b3d48ff3455cbb68.png)这是太可爱了来自@ skyscanner [#最后的绝地](https://twitter.com/hashtag/thelastjedi) [#星球大战](https://twitter.com/hashtag/starwars)2017 年 12 月 21 日下午 16:39[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=943883688416284673)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=943883688416284673)0[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=943883688416284673)1
 
 ### 给新工程师的提示
 

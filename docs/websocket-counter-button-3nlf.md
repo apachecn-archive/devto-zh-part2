@@ -18,7 +18,7 @@
 
 我认为我的实现还有改进的空间，所以如果你有时间，请在我的 github 上查看，并给我反馈改进的方法。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)[linkin medo](https://github.com/linkinmedo)/[ws-counter](https://github.com/linkinmedo/ws-counter)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)[linkin medo](https://github.com/linkinmedo)/[ws-counter](https://github.com/linkinmedo/ws-counter)
 
 ### Websocket 计数器按钮⚡️
 

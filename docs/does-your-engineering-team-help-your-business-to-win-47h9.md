@@ -4,7 +4,7 @@
 
 *最初发表于我的博客:* [你所需要的只是后端](http://allyouneedisbackend.com/blog/2018/03/25/your-engineering-team-helps-your-business-to-win/)。
 
-[![Does Your Engineering Team Help Your Business To Win?](../Images/90bdc8f95cd4a17cf8f9f4c9b37bda48.png "Does Your Engineering Team Help Your Business To Win?")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r1EW6Jty--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yoq0oqxcsy9y8noszse9.png)
+[![Does Your Engineering Team Help Your Business To Win?](img/90bdc8f95cd4a17cf8f9f4c9b37bda48.png "Does Your Engineering Team Help Your Business To Win?")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r1EW6Jty--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yoq0oqxcsy9y8noszse9.png)
 
 Yey， *DevOps Book* 俱乐部在办公室成立。我加入是因为我喜欢 DevOps，提高了我团队的生产力，当然还有看书。我甚至没有想到，作为一名技术主管，它对我的团队和我的教练解决日常组织挑战有多大用处。
 

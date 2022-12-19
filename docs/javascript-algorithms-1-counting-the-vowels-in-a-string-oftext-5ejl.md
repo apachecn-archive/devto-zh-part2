@@ -4,7 +4,7 @@
 
 * * *
 
-[![](../Images/6271876fe952149652094bbebe5432c5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6ayFjApj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5ne3lavoy7gyxyvm984t.png) 
+[![](img/6271876fe952149652094bbebe5432c5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6ayFjApj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5ne3lavoy7gyxyvm984t.png) 
 这些年来，随着 Javascript 越来越强大的功能不断扩展，它已经获得了很多关注。它已经从仅仅是一种用于制作酷的交互式 web 界面的客户端脚本语言发展到广泛用于服务器端，用于移动应用程序、桌面应用程序、嵌入式系统、IOT 等等。
 
 然而，越来越明显的是，尽管有各种各样的框架可以增强 Javascript 开发人员的能力，但最终都归结于对基础知识的理解。操纵普通 Javascript 以最有效的方式做事的能力是区别所在。如今有如此多的 Javascript 开发人员，这让我想知道我们中有多少人真正了解自己的东西。
@@ -19,7 +19,7 @@
 
 # 算法思维
 
-[![](../Images/605a73fed9184da2ba06763bfb5da4e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VzWJ0T2w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.scotch.io/57596/SBgHo3lCTfubIHmEo7Or_0_w9ZqNj9KDG3zkYus.jpeg)
+[![](img/605a73fed9184da2ba06763bfb5da4e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VzWJ0T2w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.scotch.io/57596/SBgHo3lCTfubIHmEo7Or_0_w9ZqNj9KDG3zkYus.jpeg)
 
 “诸位！这没有我想象的那么简单”阅读上面的挑战陈述，您会注意到陈述**“接收一串文本”**。如果你习惯于编程，这应该会让你想起函数的概念。我们可以写一个函数，它有一个叫做“文本”的参数。文本可以是任意长度的字符串，当函数被调用时，它将作为参数传递给函数。
 
@@ -138,10 +138,10 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们现在已经成功地实现了一个算法，它可以计算 Javascript 文本字符串中元音的数量。
 
-[![](../Images/ebcbd6d8e8d7280653cf92e052c8c0bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RUUmsq9S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.scotch.io/57596/Dd99tsKRaKtALNXDvjQn_0_OikT1OG_q9MPkOQ3.jpeg)
+[![](img/ebcbd6d8e8d7280653cf92e052c8c0bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RUUmsq9S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.scotch.io/57596/Dd99tsKRaKtALNXDvjQn_0_OikT1OG_q9MPkOQ3.jpeg)
 
 让我们评价一下这两种方法。迭代方法虽然不如另一种方法简洁，但它更容易，也更符合逻辑，尤其是对初学者而言。然而，正如下面的结果所示，Regex 方法得到了更好的优化。
-[![](../Images/55342c948b7aef5473da82011b9b7b10.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--9MS4UzTA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.scotch.io/57596/IpJeMXs1TIaK9KGUZOqH_1_RWbGd1aYfPpjTlM6SdRckQ.png)
+[![](img/55342c948b7aef5473da82011b9b7b10.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--9MS4UzTA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.scotch.io/57596/IpJeMXs1TIaK9KGUZOqH_1_RWbGd1aYfPpjTlM6SdRckQ.png)
 
 点击[此处](https://jsperf.com/vowel-counter)自行运行这些测试。
 

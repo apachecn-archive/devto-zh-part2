@@ -6,7 +6,7 @@
 
 所以，抽水。在我作为一名计算机科学家的一生中，我从来没有听到任何人在计算机的背景下谈论“泵送”。我只在体育比赛中听过这个词。人们称之为*身体泵*:一种重量轻、重复次数多的全身锻炼。如果我必须描述这样的锻炼，我会称之为“全身负重锻炼”，因为...我不知道。“人体泵”听起来很可怕，不是吗？我肯定不会这么做。不，我没有。我是说，看看这个:
 
-[![Body pumping at its finest](../Images/268e3698ba2eb559d689f02c0b2737d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g1lLtTZ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6r3y4acsityw9eree6ut.jpg)
+[![Body pumping at its finest](img/268e3698ba2eb559d689f02c0b2737d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g1lLtTZ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6r3y4acsityw9eree6ut.jpg)
 
 上帝啊。恐怖！
 
@@ -24,7 +24,7 @@
 
 所以每个时钟信号都有“事情”发生。但是泵送的定义告诉我们一些不同的东西。它告诉我们，这是关于每个时钟信号不止一次地传输数据信号*。因此，时钟信号可能会因多条数据而过载。对于泵浦，我们用术语 SDR、DDR 和 QDR 来定义每个时钟信号的数据速率。下图总结了这些术语:*
 
- *[![SDR, DDR, and QDR, together defining what pumping is](../Images/6c34578ea9b2688dbeff071f67ef1c97.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d76oVKMq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0j8ozue0x9ha3fegj4vo.png)
+ *[![SDR, DDR, and QDR, together defining what pumping is](img/6c34578ea9b2688dbeff071f67ef1c97.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d76oVKMq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0j8ozue0x9ha3fegj4vo.png)
 
 术语中的“DR”部分代表“数据速率”。每项的第一个字母定义了在每个时钟信号期间传输数据的次数。一次(单次)、两次(双次)或四次(四次)。如图所示，SDR 只是在时钟信号的上升阶段传输数据。DDR 在上行和下行阶段传输数据。QDR 在上行和下行阶段传输数据，*和*也在波峰和波谷(或谷)的中间。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/code2bits/user-story-guidelines-l2e>
 
-[![User Stories](../Images/0bfd9fca42e9f7062b8842f7d89a1c86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GOcktbsF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ba5glck34m5p17vcxj9s.png)
+[![User Stories](img/0bfd9fca42e9f7062b8842f7d89a1c86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GOcktbsF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ba5glck34m5p17vcxj9s.png)
 
 用户故事的目标不仅仅是记录需求，而是交付客户在生产中使用的工作软件。用户故事提供了一种机制来记录客户和开发人员之间关于软件功能的讨论。
 
@@ -97,7 +97,7 @@ Mike Cohn 在他的书《应用的用户故事》中指出了好的用户故事�
 
 下面是一个用户故事的例子。
 
-[![](../Images/c942a9048db9b40f9ec71cc806c51a62.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iK4iwOCK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/Code2Bits/Software-Engineering-Guidelines/master/images/user_story_example.png)
+[![](img/c942a9048db9b40f9ec71cc806c51a62.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iK4iwOCK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/Code2Bits/Software-Engineering-Guidelines/mastimg/user_story_example.png)
 
 ### 参考
 

@@ -95,7 +95,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 注意这里我们调用了一些方法，比如`driver`、`panel`、`line`等等。如果我们发送此消息，它看起来会像:
 
-[![](../Images/c1a4e3711861dc93d823454b5d1b8ce1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nBJFiXJ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/94ldezlnbtap06p0o97y.png)
+[![](img/c1a4e3711861dc93d823454b5d1b8ce1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nBJFiXJ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/94ldezlnbtap06p0o97y.png)
 
 还不错。我们可以使用这个逻辑简单地将电子邮件建立成一个好的格式。
 
@@ -198,7 +198,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这将返回如下结果:
 
-[![](../Images/9f6b7c4d5ec83b33c3e6ef8ba5ba8e16.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--239WQ39q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7vt0gcyz9hn4attsauuw.png)
+[![](img/9f6b7c4d5ec83b33c3e6ef8ba5ba8e16.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--239WQ39q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7vt0gcyz9hn4attsauuw.png)
 
 ## 时差选项
 

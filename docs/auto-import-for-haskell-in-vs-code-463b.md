@@ -6,4 +6,4 @@
 
 发现导出相同变量名的其他包和模块是很酷的，例如`concurrently`出现在`async`中(这是我所期望的)，但也出现在其他推广`async`类型的库中:
 
-[![screenshot](../Images/74f09035f298cd90d285fd5eaed84bae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I6lHb1U3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/koiteptkrbzq1b44foai.png)
+[![screenshot](img/74f09035f298cd90d285fd5eaed84bae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I6lHb1U3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/koiteptkrbzq1b44foai.png)

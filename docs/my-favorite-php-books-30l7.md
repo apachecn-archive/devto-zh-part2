@@ -6,7 +6,7 @@
 
 ## [PHP 正确的方式](https://leanpub.com/phptherightway)
 
-[![Imgur](../Images/2cd0604666bb9d72fc22d70e394db4b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SXO1ohQx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/ErA6wYc.png)
+[![Imgur](img/2cd0604666bb9d72fc22d70e394db4b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SXO1ohQx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/ErA6wYc.png)
 
 网络上有很多过时的信息，将 PHP 新用户引入歧途，传播不良实践和不安全的代码。这本书是 PHP 流行编码标准的简单易懂的快速参考，提供了网上权威教程的链接，以及贡献者认为目前的最佳实践。
 
@@ -16,7 +16,7 @@
 
 ## [PHP 中的干净架构](https://leanpub.com/cleanphp)
 
-[![Imgur](../Images/5ab5f2390630f4af08d3a2b1135c31ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w0P5eeOX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/znksK8n.png)
+[![Imgur](img/5ab5f2390630f4af08d3a2b1135c31ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w0P5eeOX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/znksK8n.png)
 
 在这本书里，Kristopher Wilson 介绍了 Bob 叔叔创造的 Clean Architecture，以及如何在 PHP 中实现它，还有 SOLID design 的概念，各种设计模式，以及各种架构的介绍。
 
@@ -26,7 +26,7 @@
 
 ## [PHP 中的领域驱动设计](https://leanpub.com/ddd-in-php)
 
-[![Imgur](../Images/1e75a03f88e49b37ad0933f21fc691ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pkHHywlu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/2VIIM00.png)
+[![Imgur](img/1e75a03f88e49b37ad0933f21fc691ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pkHHywlu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/2VIIM00.png)
 
 我上周读完了这本书，它真的很好。
 
@@ -40,7 +40,7 @@
 
 ## [缩放 PHP 应用](https://www.scalingphpbook.com/)
 
-[![Imgur](../Images/d6f998027861e6415b0abd7e0e7e7489.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--neHRDBWO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/tKCMH2t.png)
+[![Imgur](img/d6f998027861e6415b0abd7e0e7e7489.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--neHRDBWO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/tKCMH2t.png)
 
 遵循“干净代码”或“DDD”方法，你可以开发出最好的应用程序，但是如果你不能实时部署和扩展它，它将毫无用处。
 
@@ -48,7 +48,7 @@
 
 ## [打造你不会讨厌的 APIs】](https://leanpub.com/build-apis-you-wont-hate)
 
-[![Imgur](../Images/1c3867c16e23914e4e94f3f7bdb7e9d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HCvIVI48--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/EzhLquD.png)
+[![Imgur](img/1c3867c16e23914e4e94f3f7bdb7e9d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HCvIVI48--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/EzhLquD.png)
 
 虽然这本书不是专门针对 PHP 的，但对于任何 Web 开发工作来说，它都是一个非常重要的主题。Phil Sturgeon 讲述了构建 REST API 的最佳实践，从如何构建端点等更基础的东西到 HATEOAS 等高级概念。
 

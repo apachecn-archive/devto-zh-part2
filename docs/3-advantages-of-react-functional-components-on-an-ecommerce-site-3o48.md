@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/3-advantages-of-react-functional-components-on-an-ecommerce-site-3o48>
 
-[![](../Images/a8cb05e1eb3aa5a82b12a267d4e37803.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mQ5dE_G7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ah8d-4wYLN9wwiEsLAA_5yg.jpeg)
+[![](img/a8cb05e1eb3aa5a82b12a267d4e37803.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mQ5dE_G7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ah8d-4wYLN9wwiEsLAA_5yg.jpeg)
 
 如果您以前使用过 React，那么您可能需要某种形式的方法来管理事物。
 
@@ -138,7 +138,7 @@ import React from ‘react’;
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

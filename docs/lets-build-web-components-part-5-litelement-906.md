@@ -6,7 +6,7 @@
 
 在我们的[上一篇文章](https://dev.to/bennypowers/lets-build-web-components-part-4-polymer-library-4dk2)中，我们了解了聚合物库及其数据绑定和应用组合的独特方法。
 
-[![bennypowers](../Images/57370d6f6dab8d6651a3f138a1aaaa40.png)](/bennypowers) [## 让我们构建 Web 组件！第 4 部分:聚合物库
+[![bennypowers](img/57370d6f6dab8d6651a3f138a1aaaa40.png)](/bennypowers) [## 让我们构建 Web 组件！第 4 部分:聚合物库
 
 ### 本尼·鲍尔斯🇮🇱🇨🇦10 月 14 日 1816 分钟阅读
 
@@ -40,7 +40,7 @@
 
 ### 功能界面
 
-[![the equation "UI = f(data)" with a subtle translucent Greek capital lambda in the background](../Images/3643e065eed0840c57ab50e8de9dc26b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DVF5KsWB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q9ov8dv9v0ibfddg8a66.png)
+[![the equation "UI = f(data)" with a subtle translucent Greek capital lambda in the background](img/3643e065eed0840c57ab50e8de9dc26b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DVF5KsWB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q9ov8dv9v0ibfddg8a66.png)
 
 有了模板，我们进入了 JavaScript 的函数式编程世界。我们将在本文中大量使用“纯”和“不纯”函数这样的术语，因此，为了介绍或复习函数概念，请查阅布莱恩·朗斯多夫的《函数编程基本指南》，但出于我们的目的，我们将对几个基本概念感兴趣:
 
@@ -111,7 +111,7 @@ Enter fullscreen mode Exit fullscreen mode
 ```
 const lazyThumbnail = ({ id, alt, thumbnail }) => html`
   <lazy-image
-      src="${`https://product-cdn.awesomeshop.com/images/${thumbnail}`}"
+      src="${`https://product-cdn.awesomeshop.cimg/${thumbnail}`}"
       alt="${alt}"
       @loaded-changed="${event => analytics('thumbnail-viewed', { event, id })}"
   ></lazy-image>`; 
@@ -847,19 +847,19 @@ Enter fullscreen mode Exit fullscreen mode
 
 与具有双向绑定模板的聚合元素不同，lit 元素特别适合 React/Redux 模式和其他模式流行的单向数据流类型。您可以创建或导入将您的元素连接到您的中央商店并更新其属性的混合类。事实上，我已经发布了一组基类，它们从`LitElement`扩展而来，将您的组件连接到 Apollo GraphQL 客户端缓存。看看这个:
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [阿波罗——元素](https://github.com/apollo-elements) / [阿波罗——元素](https://github.com/apollo-elements/apollo-elements)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [阿波罗——元素](https://github.com/apollo-elements) / [阿波罗——元素](https://github.com/apollo-elements/apollo-elements)
 
 ### 🚀🌛使用发射平台👩‍🚀👨‍🚀
 
-<article class="markdown-body entry-content container-lg" itemprop="text">[![Apollo Elements](../Images/98296aef6032a60e4484a5f0338a18fb.png)](https://github.com/apollo-elements/apollo-elements./docs/logo.svg)
+<article class="markdown-body entry-content container-lg" itemprop="text">[![Apollo Elements](img/98296aef6032a60e4484a5f0338a18fb.png)](https://github.com/apollo-elements/apollo-elements./docs/logo.svg)
 
-# <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>阿波罗元素<g-emoji class="g-emoji" alias="woman_astronaut" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f680.png">👩‍🚀</g-emoji>
+# <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f680.png">🚀</g-emoji>阿波罗元素<g-emoji class="g-emoji" alias="woman_astronaut" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f469-1f680.png">👩‍🚀</g-emoji>
 
-**<g-emoji class="g-emoji" alias="new_moon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f311.png">🌑</g-emoji>自定义元素符合阿波罗 GraphQL <g-emoji class="g-emoji" alias="last_quarter_moon_with_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31c.png">🌜</g-emoji>**
+**<g-emoji class="g-emoji" alias="new_moon" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f311.png">🌑</g-emoji>自定义元素符合阿波罗 GraphQL <g-emoji class="g-emoji" alias="last_quarter_moon_with_face" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f31c.png">🌜</g-emoji>**
 
-**<g-emoji class="g-emoji" alias="woman_astronaut" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f680.png">👩‍🚀</g-emoji>这是开发者的一小步，网络平台的一大步！<g-emoji class="g-emoji" alias="man_astronaut" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f680.png">👨‍🚀</g-emoji>**
+**<g-emoji class="g-emoji" alias="woman_astronaut" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f469-1f680.png">👩‍🚀</g-emoji>这是开发者的一小步，网络平台的一大步！<g-emoji class="g-emoji" alias="man_astronaut" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f468-1f680.png">👨‍🚀</g-emoji>**
 
-[![Made with open-wc](../Images/8ae42a4de893e8be8bccd50ad2c96df3.png)](https://open-wc.org)[![Contributions Welcome](../Images/415935da8031f15a94578a276d0ed929.png)](https://github.com/apollo-elements/apollo-elements/issues)[![ISC License](../Images/036d10059c9e5981815ab31bf27af9aa.png)](https://github.com/apollo-elements/apollo-elements/blob/master/LICENCE.md)[![Maintainability](../Images/65f38bb47f99e815a89683b34f4999e6.png)](https://codeclimate.com/github/apollo-elements/apollo-elements/maintainability)[![Test Coverage](../Images/1f92b15ccee14df8b5ac8c5555113c77.png)](https://codeclimate.com/github/apollo-elements/apollo-elements/test_coverage)[![Release](../Images/2228b9959298c5ccde79bcd2ff839416.png)](https://github.com/apollo-elements/apollo-elements/actions)
+[![Made with open-wc](img/8ae42a4de893e8be8bccd50ad2c96df3.png)](https://open-wc.org)[![Contributions Welcome](img/415935da8031f15a94578a276d0ed929.png)](https://github.com/apollo-elements/apollo-elements/issues)[![ISC License](img/036d10059c9e5981815ab31bf27af9aa.png)](https://github.com/apollo-elements/apollo-elements/blob/master/LICENCE.md)[![Maintainability](img/65f38bb47f99e815a89683b34f4999e6.png)](https://codeclimate.com/github/apollo-elements/apollo-elements/maintainability)[![Test Coverage](img/1f92b15ccee14df8b5ac8c5555113c77.png)](https://codeclimate.com/github/apollo-elements/apollo-elements/test_coverage)[![Release](img/2228b9959298c5ccde79bcd2ff839416.png)](https://github.com/apollo-elements/apollo-elements/actions)
 
 Apollo Elements 提供了基于各种底层 web 组件创作库的包。你可以选择一个适合你的项目，以保持你的应用程序小。
 
@@ -869,25 +869,25 @@ npm init @apollo-elements
 
 Enter fullscreen mode Exit fullscreen mode
 
-## <g-emoji class="g-emoji" alias="robot" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f916.png">🤖</g-emoji>演示
+## <g-emoji class="g-emoji" alias="robot" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f916.png">🤖</g-emoji>演示
 
 *   [`#leeway`](https://leeway.apolloelements.dev) 是一个聊天 PWA 的例子，它使用`lit-apollo`使你更容易避免做实际工作。[源库](https://github.com/apollo-elements/leeway)
 *   [`LaunchCTL`](https://launchctl.apolloelements.dev) 是一个简单的 PWA，显示关于 [SpaceX](https://spacex.com) 发射的信息。它使用非官方的 [spacex.land](https://spacex.land) GraphQL API。[源代码库](https://github.com/apollo-elements/launchctl)
 
-## <g-emoji class="g-emoji" alias="world_map" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5fa.png">🗺</g-emoji>指南和文档
+## <g-emoji class="g-emoji" alias="world_map" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f5fa.png">🗺</g-emoji>指南和文档
 
 如果你只是想看 API 文档，可以在 [apolloelements.dev](https://apolloelements.dev) 查看我们所有的包
 
-*   [<g-emoji class="g-emoji" alias="avocado" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f951.png">🥑</g-emoji>核心](https://apolloelements.dev/api/core/)
-*   [<g-emoji class="g-emoji" alias="bricks" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f1.png">🧱</g-emoji> 组件](https://apolloelements.dev/api/components/)
-*   [<g-emoji class="g-emoji" alias="cocktail" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f378.png">🍸</g-emoji>混血儿](https://apolloelements.dev/api/libraries/mixins/)
-*   [<g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji>点燃](https://apolloelements.dev/api/libraries/lit-apollo/)
-*   [<g-emoji class="g-emoji" alias="checkered_flag" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c1.png">🏁</g-emoji>快](https://apolloelements.dev/api/libraries/fast/)
-*   [<g-emoji class="g-emoji" alias="ghost" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47b.png">👻</g-emoji>闹鬼](https://apolloelements.dev/api/libraries/haunted/)
-*   [<g-emoji class="g-emoji" alias="atom_symbol" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/269b.png">原子</g-emoji>](https://apolloelements.dev/api/libraries/atomico/)
-*   [<g-emoji class="g-emoji" alias="unicorn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f984.png">🦄</g-emoji>混血儿](https://apolloelements.dev/api/libraries/hybrids/)
-*   [<g-emoji class="g-emoji" alias="microscope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52c.png">🔬</g-emoji>胶子](https://apolloelements.dev/api/libraries/gluon/)
-*   [<g-emoji class="g-emoji" alias="dna" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ec.png">🧬</g-emoji> 聚合物](https://apolloelements.dev/api/libraries/polymer/)
+*   [<g-emoji class="g-emoji" alias="avocado" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f951.png">🥑</g-emoji>核心](https://apolloelements.dev/api/core/)
+*   [<g-emoji class="g-emoji" alias="bricks" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f9f1.png">🧱</g-emoji> 组件](https://apolloelements.dev/api/components/)
+*   [<g-emoji class="g-emoji" alias="cocktail" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f378.png">🍸</g-emoji>混血儿](https://apolloelements.dev/api/libraries/mixins/)
+*   [<g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f525.png">🔥</g-emoji>点燃](https://apolloelements.dev/api/libraries/lit-apollo/)
+*   [<g-emoji class="g-emoji" alias="checkered_flag" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f3c1.png">🏁</g-emoji>快](https://apolloelements.dev/api/libraries/fast/)
+*   [<g-emoji class="g-emoji" alias="ghost" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f47b.png">👻</g-emoji>闹鬼](https://apolloelements.dev/api/libraries/haunted/)
+*   [<g-emoji class="g-emoji" alias="atom_symbol" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/269b.png">原子</g-emoji>](https://apolloelements.dev/api/libraries/atomico/)
+*   [<g-emoji class="g-emoji" alias="unicorn" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f984.png">🦄</g-emoji>混血儿](https://apolloelements.dev/api/libraries/hybrids/)
+*   [<g-emoji class="g-emoji" alias="microscope" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f52c.png">🔬</g-emoji>胶子](https://apolloelements.dev/api/libraries/gluon/)
+*   [<g-emoji class="g-emoji" alias="dna" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f9ec.png">🧬</g-emoji> 聚合物](https://apolloelements.dev/api/libraries/polymer/)
 
 ## 用于任何
 
@@ -897,13 +897,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 PWA 初学者工具包是一个完全实现的带有`LitElement`和`Redux`的应用程序的例子。
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [聚合物](https://github.com/Polymer) / [ pwa-starter-kit](https://github.com/Polymer/pwa-starter-kit)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [聚合物](https://github.com/Polymer) / [ pwa-starter-kit](https://github.com/Polymer/pwa-starter-kit)
 
 ### 用于从 web 组件构建全功能渐进式 Web 应用程序的入门模板。
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-[![Built with pwa–starter–kit](../Images/483fa415b3293295bc3ca23f5937b002.png) ](https://github.com/Polymer/pwa-starter-kit "Built with pwa–starter–kit") [ ![Build status](../Images/974ee2568305c20b19030dc107f5d9f6.png)](https://travis-ci.org/Polymer/pwa-starter-kit)
+[![Built with pwa–starter–kit](img/483fa415b3293295bc3ca23f5937b002.png) ](https://github.com/Polymer/pwa-starter-kit "Built with pwa–starter–kit") [ ![Build status](img/974ee2568305c20b19030dc107f5d9f6.png)](https://travis-ci.org/Polymer/pwa-starter-kit)
 
 > ## 状态:不再开发
 > 
@@ -928,9 +928,9 @@ PWA 初学者工具包是一个完全实现的带有`LitElement`和`Redux`的应
 *   单元和集成测试起点
 *   关于其他高级模式的文档。
 
-### <g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📖</g-emoji>前往[文档网站](https://pwa-starter-kit.polymer-project.org/)了解更多详情或查看[如何开始](https://pwa-starter-kit.polymer-project.org/setup)！
+### <g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f4d6.png">📖</g-emoji>前往[文档网站](https://pwa-starter-kit.polymer-project.org/)了解更多详情或查看[如何开始](https://pwa-starter-kit.polymer-project.org/setup)！
 
-[![pwa-starter-kit screenshot](../Images/af90d0f0b7727721d3c58fc00a1fb008.png)T2】](https://user-images.githubusercontent.com/1369170/39715580-a1be5126-51e2-11e8-8440-96b07be03a3c.png)
+[![pwa-starter-kit screenshot](img/af90d0f0b7727721d3c58fc00a1fb008.png)T2】](https://user-images.githubusercontent.com/1369170/39715580-a1be5126-51e2-11e8-8440-96b07be03a3c.png)
 
 ## 托德斯
 
@@ -956,7 +956,7 @@ PWA 初学者工具包是一个完全实现的带有`LitElement`和`Redux`的应
 
 再见😊
 
-您想就此处涉及的任何主题进行一对一的辅导吗？[![Contact me on Codementor](../Images/97f0e0737ce864c47f2412396b01e737.png)T2】](https://www.codementor.io/bennyp?utm_source=github&utm_medium=button&utm_term=bennyp&utm_campaign=github)
+您想就此处涉及的任何主题进行一对一的辅导吗？[![Contact me on Codementor](img/97f0e0737ce864c47f2412396b01e737.png)T2】](https://www.codementor.io/bennyp?utm_source=github&utm_medium=button&utm_term=bennyp&utm_campaign=github)
 
 ## 鸣谢
 
@@ -968,7 +968,7 @@ PWA 初学者工具包是一个完全实现的带有`LitElement`和`Redux`的应
 
 查看本系列的下一篇文章
 
-[![bennypowers](../Images/57370d6f6dab8d6651a3f138a1aaaa40.png)](/bennypowers) [## 让我们来构建 Web 组件！第六部分:胶子
+[![bennypowers](img/57370d6f6dab8d6651a3f138a1aaaa40.png)](/bennypowers) [## 让我们来构建 Web 组件！第六部分:胶子
 
 ### 本尼·鲍尔斯🇮🇱🇨🇦10 月 28 日 186 分钟阅读
 

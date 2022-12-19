@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/pedromsantos/learning-a-new-language-2k97>
 
-[![Music score](../Images/abec3beed39e9c1b7ee7529ced14fa7d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dQ_TG08P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9pi4pl0jkms1oh1j1a9k.jpg)
+[![Music score](img/abec3beed39e9c1b7ee7529ced14fa7d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dQ_TG08P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9pi4pl0jkms1oh1j1a9k.jpg)
 
 我尝试每 2/3 年学习或重新学习一门编程语言。2015 年，我决定学习一门函数式语言，因为我对这种编程范式知之甚少。我尝试了一些语言，如 OCaml、Haskell、Clojure 和 F#，最后，我决定学习 F#。
 

@@ -49,7 +49,7 @@ rocketchat-notification -c general -u user -p ${ROCKET_PASSWORD} -s https://myse
 在我的 gitlab-ci(。gitlab-ci.yml)我会这样做:
 首先，让我们把我们想要作为环境变量使用的用户的密码放在 gitlab 上，这样它就不会持久保存在我们的文件上，从而提高我们的安全性:
 这是在 CI/CD
-[![gitlab_CI](../Images/fc17f58f86cc07177b94349cb23f0feb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vHKp8kQ5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kb6mg5y3i3sgzmhilyoc.png) 
+[![gitlab_CI](img/fc17f58f86cc07177b94349cb23f0feb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vHKp8kQ5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kb6mg5y3i3sgzmhilyoc.png) 
 下的项目设置中完成的，让我们在`.gitlab-ci.yml`中写入类似这样的内容:
 
 ```
@@ -67,7 +67,7 @@ test_nitofication:
 ```
 
 提交并推送您的更改，然后等待通知:)
-[![notification](../Images/1444cd49258b7d3a3f7b70240085704f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zFwP1gTe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5puovnncfjl7k44wnfhy.png) 
+[![notification](img/1444cd49258b7d3a3f7b70240085704f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zFwP1gTe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5puovnncfjl7k44wnfhy.png) 
 您想将命令的输出发送到您的聊天吗？没问题。您总是可以运行 rocketchat-notification 来读取标准输入，如下所示:
 
 ```

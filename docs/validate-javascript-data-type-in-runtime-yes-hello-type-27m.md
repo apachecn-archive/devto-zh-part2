@@ -14,7 +14,7 @@
 
 在使用来自 API 的数据之前，通过 HelloType 验证其结构。首先，用 HelloType 的 api 方法包装一个结构，然后使用实例断言:
 
-[![](../Images/4e40a1590a9c1395082c023ebb5cf94b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fOhrHKAO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8fdhm2dcclxnutl4hi6j.png)
+[![](img/4e40a1590a9c1395082c023ebb5cf94b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fOhrHKAO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8fdhm2dcclxnutl4hi6j.png)
 
 如果`put`的参数与 BooksType 不匹配，将会抛出错误。在函数中，在`assert`之后，你不需要担心任何数据类型和结构，只要按照你想要的使用数据。
 
@@ -22,7 +22,7 @@
 
 如果只想收集错误信息，不想中断程序进程，使用`trace`方法:
 
-[![](../Images/c8644bc7b1fae30fa7e8f5280124b106.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IwvLfZ2V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hoq1yn5n76xoqw4hoc7w.png)
+[![](img/c8644bc7b1fae30fa7e8f5280124b106.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IwvLfZ2V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hoq1yn5n76xoqw4hoc7w.png)
 
 它不会对渲染性能产生任何影响，因为它是异步运行的。
 
@@ -30,7 +30,7 @@
 
 由于发送到服务器的数据应该必须且应该仅具有某些属性，因此使用严格模式检查数据结构是否正确:
 
-[![](../Images/a5ab858a7bd9ce9456b43ec185b60cc4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x4iUwUP1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jptizgx0ya7x9m5ctxsn.png)
+[![](img/a5ab858a7bd9ce9456b43ec185b60cc4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x4iUwUP1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jptizgx0ya7x9m5ctxsn.png)
 
 由于`books`的第一项有一个附加属性`size`，并且使用了严格模式，断言会中断程序。
 

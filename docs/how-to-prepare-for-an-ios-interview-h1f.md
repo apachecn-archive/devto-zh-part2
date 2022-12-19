@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/essentialdeveloper/how-to-prepare-for-an-ios-interview-h1f>
 
-[![Essential_Developer_thumbnail_v01.png](../Images/a6bdaa891befaa2f4e36009d8727036e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gIcB5k8---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5bba2aba1905f431b731c82e/1538927476719/Essential_Developer_thumbnail_v01.png%3Fformat%3D1000w)
+[![Essential_Developer_thumbnail_v01.png](img/a6bdaa891befaa2f4e36009d8727036e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gIcB5k8---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5bba2aba1905f431b731c82e/1538927476719/Essential_Developer_thumbnail_v01.png%3Fformat%3D1000w)
 
 我们经常被问到的一个问题是，如何准备 iOS 面试，这通常是由经验较少的 iOS 开发人员提出的。大多数候选人寻求我们的建议来准备技术细节，比如投入时间在什么框架或库上，他们应该使用什么架构模式，以及其他技术细节。我们认为，获取知识并正确理解这些工具和概念以及有效使用它们的能力至关重要。此外，当考虑换工作或甚至开始软件开发职业生涯时，我们喜欢向开发人员介绍不同的思维方式，强调对您、员工和您未来雇主的关系和互利。
 

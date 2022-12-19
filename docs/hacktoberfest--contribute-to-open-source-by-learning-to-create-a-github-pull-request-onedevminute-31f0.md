@@ -31,21 +31,21 @@ Enter fullscreen mode Exit fullscreen mode
 
 学习使用 emoji-log 项目编写好的和有用的 git 提交消息。
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [艾哈迈德派](https://github.com/ahmadawais) / [表情符号日志](https://github.com/ahmadawais/Emoji-Log)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [艾哈迈德派](https://github.com/ahmadawais) / [表情符号日志](https://github.com/ahmadawais/Emoji-Log)
 
 ### e moji-Log——一个 Emoji Git 提交日志消息规范标准。[📦👌🐛📖🚀🤖 ‼️]
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-# [![](../Images/70221c4df373c7ad638a959eebcd3df0.png)T2】](https://github.com/ahmadawais/Emoji-Log)
+# [![](img/70221c4df373c7ad638a959eebcd3df0.png)T2】](https://github.com/ahmadawais/Emoji-Log)
 
 `EMOJI-LOG`
 
 在构建了数百个开源软件之后，我最终发明了一个名为`EMOJI-LOG`的 git 提交日志标准，它可以帮助我通过查看 git 日志来理解一个项目的历史，减少认知负担。
 
-[![emoji-log](../Images/498cf67bd360ecbb912262b86ddbf292.png)T2】](https://github.com/ahmadawais/Emoji-Log./../../)
+[![emoji-log](img/498cf67bd360ecbb912262b86ddbf292.png)T2】](https://github.com/ahmadawais/Emoji-Log./../../)
 
-[![Philosophy](../Images/940c9e9df4e82a7e28d5bb57a795e892.png)T2】](https://user-images.githubusercontent.com/960133/120058283-3ea18480-c063-11eb-8a62-8146227093fa.png)
+[![Philosophy](img/940c9e9df4e82a7e28d5bb57a795e892.png)T2】](https://user-images.githubusercontent.com/960133/120058283-3ea18480-c063-11eb-8a62-8146227093fa.png)
 
 ### 哲学
 
@@ -54,8 +54,8 @@ Enter fullscreen mode Exit fullscreen mode
 1.  **祈使句** ↓
     *   让您的 Git 提交消息具有命令性。
     *   写一条提交信息，就像你在下命令一样。
-    *   如用<g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>t0】代替<g-emoji class="g-emoji" alias="x" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/274c.png">❌</g-emoji>t1】。
-    *   如用<g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>t0】代替<g-emoji class="g-emoji" alias="x" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/274c.png">❌</g-emoji>t1】。
+    *   如用<g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/2705.png">✅</g-emoji>t0】代替<g-emoji class="g-emoji" alias="x" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/274c.png">❌</g-emoji>t1】。
+    *   如用<g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/2705.png">✅</g-emoji>t0】代替<g-emoji class="g-emoji" alias="x" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/274c.png">❌</g-emoji>t1】。
 2.  **规则** ↓
     *   …
 

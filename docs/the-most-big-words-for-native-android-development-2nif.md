@@ -17,4 +17,4 @@
 *   [过渡演员](https://github.com/dev-labs-bg/transitioner)、[牛油果](https://github.com/alexjlockwood/avocado)、[洛蒂](http://airbnb.io/lottie/android/android.html#getting-started)、[书法](https://github.com/chrisjenx/Calligraphy)
 *   [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) 、 [MVP](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter) 、 [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) 、 [MVI](https://cycle.js.org/model-view-intent.html) 、Viper、MVM、MvRx
 
-获得它们以便于开发。[![🌚](../Images/6a81ca1fb94df16e2d5f168d4c04d7f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fLKHYAkG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f31a.png)
+获得它们以便于开发。[![🌚](img/6a81ca1fb94df16e2d5f168d4c04d7f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fLKHYAkG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f31a.png)

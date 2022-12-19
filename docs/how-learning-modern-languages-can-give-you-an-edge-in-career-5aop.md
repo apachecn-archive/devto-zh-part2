@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/aviaryan/how-learning-modern-languages-can-give-you-an-edge-in-career-5aop>
 
-[![](../Images/fc5a4b5c253312a25a4ada38b4cc1be1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3mhAc-wz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.us-east-2.amazonaws.com/devletters/covers/alexa.jpeg)
+[![](img/fc5a4b5c253312a25a4ada38b4cc1be1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3mhAc-wz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.us-east-2.amazonaws.com/devletters/covers/alexa.jpeg)
 
 > 首次发布于 [Dev Letters](https://devletters.com/letters/modern-languages-career/)
 

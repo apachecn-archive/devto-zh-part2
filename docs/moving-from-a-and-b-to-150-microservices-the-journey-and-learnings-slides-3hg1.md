@@ -4,7 +4,7 @@
 
 我于 2018 年 10 月 24 日在#devopsdaysNewy 发表了演讲。这是一次伟大的会议，有许多了不起的人。我要感谢组织者组织了如此精彩的活动。我要感谢让这一切成为可能的赞助商:)。这几天结识新朋友、建立关系网的感觉非常好。我认为我关于微服务的演讲也很不错。这是我的第二个 devops 天，我很喜欢它。
 
-[![](../Images/0edaf259610ccf31a9a06b86848f9440.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MRHdeOzI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AaIcg6TD7hLZZgMSY.jpg)
+[![](img/0edaf259610ccf31a9a06b86848f9440.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MRHdeOzI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AaIcg6TD7hLZZgMSY.jpg)
 
 ## 摘要
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/assaultoustudios/is-front-end-development-having-an-identitycrisis-2224>
 
-[![](../Images/f81cdc4e941408181a019440a93acfa1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p8EHHEsh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2ABKr0LteKA6q7yKVkmQlYsQ.jpeg)
+[![](img/f81cdc4e941408181a019440a93acfa1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p8EHHEsh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2ABKr0LteKA6q7yKVkmQlYsQ.jpeg)
 
 *由 Adobe Stock 提供*
 
@@ -28,7 +28,7 @@
 
 比较 LinkedIn 上的以下职位，标题都是“前端开发人员”。角色是非常不同的:一方面，开发人员被期望了解 Flux 架构和单元测试，而另一方面，他们被期望了解 Java 和 MongoDB。
 
-[![](../Images/30e3df4b8f39917bc8fe8a477e489b41.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OlaZcCTF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2A_QImNkZ3wmzkHo3H962U_g.jpeg)
+[![](img/30e3df4b8f39917bc8fe8a477e489b41.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OlaZcCTF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2A_QImNkZ3wmzkHo3H962U_g.jpeg)
 
 比较 LinkedIn 上的两个角色，都被标为“前端开发人员”
 
@@ -63,7 +63,7 @@
 
 下面的例子要求将 PHP 作为一项必备技能，而另一方希望开发人员了解 TypeScript。
 
-[![](../Images/7e8f09003834761be08e5113050f8007.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FZemh2ev--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2AL8a9WPnl0P-4IpSxY-Ay2Q.jpeg)
+[![](img/7e8f09003834761be08e5113050f8007.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FZemh2ev--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2AL8a9WPnl0P-4IpSxY-Ay2Q.jpeg)
 
 比较 LinkedIn 上两个职位所需的技能，这两个职位都标有“前端开发人员”
 

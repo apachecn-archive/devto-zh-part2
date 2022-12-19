@@ -185,7 +185,7 @@ Enter fullscreen mode Exit fullscreen mode
 你可以在 Vue 组件定义中看到`template`属性，它指定了组件挂载时输出的 HTML 标签。注意，一个 Vue 组件只能有一个根元素。
 这就是在 Vue 中创建基本组件的全部内容。
 
-[![Our Component](../Images/ccebd88dd2470669c5cfd93551ed9188.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YjsWYvll--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/ddbm6rq61/image/upload/v1528310225/1.png)
+[![Our Component](img/ccebd88dd2470669c5cfd93551ed9188.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YjsWYvll--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/ddbm6rq61/image/upload/v1528310225/1.png)
 
 尽管这样做是可行的，但并不是很有用，因为它没有展示组件的强大功能和可重用性。让我们通过定义道具来进一步扩展这个组件。
 
@@ -233,7 +233,7 @@ Props 为我们提供了一种将数据从父组件(外部)传递到子组件的
 Enter fullscreen mode Exit fullscreen mode
 
 如果一切正常，输出应该是这样的:
-[![Displaying data passed as Prop](../Images/ab374114ead5d1fe2f44b9b4e72d58ff.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--e36HnyZJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/ddbm6rq61/image/upload/v1528310222/2.png)
+[![Displaying data passed as Prop](img/ab374114ead5d1fe2f44b9b4e72d58ff.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--e36HnyZJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/ddbm6rq61/image/upload/v1528310222/2.png)
 
 正如我们所看到的，我们的组件变得更加智能，现在可以使用`users`属性将数据从父组件传递给它。
 
@@ -347,7 +347,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们上面所做的是定义一个基本的`ul`元素，然后使用`v-for`列表呈现指令遍历并动态创建元素中的所有`<li>`标签。如果您运行我们当前拥有的代码，这应该是您的输出:
 
-[![Looping through the user object](../Images/eb81f31785e7e584ce60c4a087643813.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dkiA5VmE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/ddbm6rq61/image/upload/v1528310219/3.png)
+[![Looping through the user object](img/eb81f31785e7e584ce60c4a087643813.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dkiA5VmE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/ddbm6rq61/image/upload/v1528310219/3.png)
 
 ## 处理点击事件
 
@@ -484,7 +484,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Our Final Application](../Images/1b3ad3849ca50d035728553742e44b0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EEO27B1o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/ddbm6rq61/image/upload/v1528310221/4.png)
+[![Our Final Application](img/1b3ad3849ca50d035728553742e44b0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EEO27B1o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/ddbm6rq61/image/upload/v1528310221/4.png)
 
 该组件的可重用性在于,`v-on:item-clicked`可以接受不同的方法，并产生不同的输出，因此,`user-list`组件可以在整个应用程序中分别重用。
 

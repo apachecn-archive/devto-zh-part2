@@ -145,7 +145,7 @@ Prelude> foldl _ (1 :: Integer) $ cycle [(*2), (+1)]
 ```
 
 正如您现在看到的，我们需要一个函数，它接受一个值和一个函数，并返回应用于该值的函数的结果。这里我们可以使用另一个伟大的工具:Hoogle。如果我们前往[haskell.org/hoogle](https://www.haskell.org/hoogle/?hoogle=Integer+-%3E+%28Integer+-%3E+Integer%29+-%3E+Integer)并输入我们从 REPL 收到的类型签名，我们会得到一堆结果。如果我们忽略更复杂的前几个条目，我们很快就会看到列表中一个我们已经知道的条目:
-[![$](../Images/99ae24e3856cf054a8558c3f166a09b0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vyDENtzg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/mAr2c2z.png)
+[![$](img/99ae24e3856cf054a8558c3f166a09b0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vyDENtzg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/mAr2c2z.png)
 
 `$`操作员。唯一的问题是论点的顺序不对。但是这不是问题，因为有一个`flip`函数交换参数。所以现在我们可以完成我们的求解函数:
 

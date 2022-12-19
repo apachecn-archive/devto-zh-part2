@@ -14,17 +14,17 @@
 
 #### 仙女牙线
 
-[![Fairy Floss](../Images/0aa2ad0fc0bfbbe7b827cf1b6151bc57.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---wkQHx2k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/erlp85m0h5tnsk3n74fd.png)
+[![Fairy Floss](img/0aa2ad0fc0bfbbe7b827cf1b6151bc57.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---wkQHx2k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/erlp85m0h5tnsk3n74fd.png)
 
 #### 德拉库拉
 
-[![Dracula](../Images/025756652cee01f86f03e4efa83f4bb2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mov3n2aA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1mbrka2lqn6j26rxtlcc.png)
+[![Dracula](img/025756652cee01f86f03e4efa83f4bb2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mov3n2aA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1mbrka2lqn6j26rxtlcc.png)
 
 ## 字体
 
 我是 FiraCode 的长期忠实拥护者(约会前 VS 代码！);我喜欢让我的代码一目了然的连字。设置起来也很容易，这真是太好了！
 
-[![The Fira Code Font](../Images/1d27c7c939da2f79e28930dd52d1e6ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zXxo3LMu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/27ra6e92kvyqy3emies7.png)
+[![The Fira Code Font](img/1d27c7c939da2f79e28930dd52d1e6ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zXxo3LMu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/27ra6e92kvyqy3emies7.png)
 
 ## 保存配置
 

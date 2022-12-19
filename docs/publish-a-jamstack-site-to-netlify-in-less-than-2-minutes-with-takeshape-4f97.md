@@ -26,7 +26,7 @@ Netlify 是一个强大且易于使用的平台，用于部署、维护和升级
 
 TakeShape 已经提供了一些全面的指令来在你的项目上配置 Netlify，所以我们将保持简短。
 
-[![TakeShape integration with Netlify](../Images/90ff20c9e1e49c81cfdf32844cea6990.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8zgyi50h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7adna9ry865w69ok3ue7.gif)
+[![TakeShape integration with Netlify](img/90ff20c9e1e49c81cfdf32844cea6990.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8zgyi50h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7adna9ry865w69ok3ue7.gif)
 
 首先，转到项目设置>集成，将您的 Netlify 帐户与您的 TakeShape 项目关联起来。然后，转到静态站点并创建一个新的静态站点。给它起一个合适的名字，并选择 Netlify 作为提供者。然后，对于目的地，选择+创建新的静态站点。“名称”和“密码”字段都是可选的。如果您不选择名称，Netlify 会自动为您生成一个。您可以稍后在网络管理员中编辑该名称和密码。最后，单击保存。
 

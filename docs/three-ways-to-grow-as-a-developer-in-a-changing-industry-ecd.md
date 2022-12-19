@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/vintchdesigns/three-ways-to-grow-as-a-developer-in-a-changing-industry-ecd>
 
-[![Coding for Beginners](../Images/a3e6124bc54cef3d60b647db6cab559c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tIvvMHFU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d5h5kubw4las7wszadmb.jpg)
+[![Coding for Beginners](img/a3e6124bc54cef3d60b647db6cab559c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tIvvMHFU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d5h5kubw4las7wszadmb.jpg)
 
 无论你是刚刚开始学习编程还是已经从事编程多年，这个职业都会伴随着一定程度的不确定性和犹豫。这可能是因为这个行业有这么大的学习曲线。
 

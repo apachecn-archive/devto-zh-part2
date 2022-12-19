@@ -257,23 +257,23 @@ ng serve
 
 如果你曾经从零开始开发过 web 应用程序，你会知道仅仅允许用户注册、验证、登录和退出你的应用程序就需要做多少工作。使用 Okta 可以大大简化这个过程。首先，你需要一个 Okta 的开发者账户。
 
-[![developer.okta.com](../Images/4bc9c01419f4cf6fbc6a07675f0278af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7jyaOkb9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/angular-node/developer.okta.com-bd04e258d4735d02eec724bd1f79178cf140cfc8708c521473b6b4a8b5d8696f.png)
+[![developer.okta.com](img/4bc9c01419f4cf6fbc6a07675f0278af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7jyaOkb9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/angular-node/developer.okta.com-bd04e258d4735d02eec724bd1f79178cf140cfc8708c521473b6b4a8b5d8696f.png)
 
 在浏览器中，导航至[developer.okta.com](https://developer.okta.com/)，点击**创建免费账户**，输入您的详细信息。
 
-[![Start building on Okta](../Images/f3e5015ef5d505b4e40789cf102528a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Nr5IvRUU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/angular-node/start-building-6f4d161cb1219552c1c41257326f8fbeb89fbcf6ae116e9b29801ea6a20ae762.png)
+[![Start building on Okta](img/f3e5015ef5d505b4e40789cf102528a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Nr5IvRUU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/angular-node/start-building-6f4d161cb1219552c1c41257326f8fbeb89fbcf6ae116e9b29801ea6a20ae762.png)
 
 完成后，您将进入您的开发人员控制面板。点击**添加应用**按钮创建一个新的应用。
 
-[![Add Application](../Images/544336f6e58aff41d272d53db5b2e0d0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7zdExOum--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/angular-node/add-application-ed60bfbd375116e64fc23ba3c85d4b86ae8478a62303194d3a5067adab135109.png)
+[![Add Application](img/544336f6e58aff41d272d53db5b2e0d0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7zdExOum--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/angular-node/add-application-ed60bfbd375116e64fc23ba3c85d4b86ae8478a62303194d3a5067adab135109.png)
 
 首先创建一个新的单页应用程序。选择**单页 App** ，点击**下一步**。
 
-[![Create new Single Page App](../Images/6f1769e76267c76cd613631dd2ea9e89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c9jLlS7f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/angular-node/single-page-app-54193ed48ed3e03b9b12a3f8d425c390940cb6b7dfed337d28424045b470915a.png)
+[![Create new Single Page App](img/6f1769e76267c76cd613631dd2ea9e89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c9jLlS7f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/angular-node/single-page-app-54193ed48ed3e03b9b12a3f8d425c390940cb6b7dfed337d28424045b470915a.png)
 
 在下一页，您需要编辑默认设置。确保端口号为 4200。这是角度应用的默认端口。
 
-[![My Angular App](../Images/bcd56f95104312c45a332d2182d90ed3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nTy7ZM1W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/angular-node/my-angular-app-1290784d87169fbcd6e9e9b124efdcc4e5e76efa58f2ccc48f634b7dfca92652.png)
+[![My Angular App](img/bcd56f95104312c45a332d2182d90ed3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nTy7ZM1W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/angular-node/my-angular-app-1290784d87169fbcd6e9e9b124efdcc4e5e76efa58f2ccc48f634b7dfca92652.png)
 
 就是这样。现在您应该看到一个**客户端 ID** ，您需要将它粘贴到您的 TypeScript 代码中。
 
@@ -845,7 +845,7 @@ ng serve
 
 您的应用程序看起来应该如下所示
 
-[![Product Inventory](../Images/3b741dad50053a1c19a2e31e5d427593.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f-ihx87O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/angular-node/product-inventory-7d59ff869e57a8f2ccff80171940dc00812918d6dfc526c331110f2a1ebedadc.png)
+[![Product Inventory](img/3b741dad50053a1c19a2e31e5d427593.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f-ihx87O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/angular-node/product-inventory-7d59ff869e57a8f2ccff80171940dc00812918d6dfc526c331110f2a1ebedadc.png)
 
 ## 了解更多关于角形、节点和 Express
 

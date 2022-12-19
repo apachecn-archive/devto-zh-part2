@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/briannipper/talk-to-the-rubber-duck-2gmf>
 
-[![](../Images/bc012a36fc3e08dc9ace5d41f3638d4a.png)](https://3.bp.blogspot.com/-CkfYFe6C0w8/W5prSLrQo1I/AAAAAAAAHKk/fO3bcD_9Q1wzhIidxCxVk7bj9K6SIxaawCLcBGAs/s1600/640px-Rubber_duckies_So_many_ducks.jpg)
+[![](img/bc012a36fc3e08dc9ace5d41f3638d4a.png)](https://3.bp.blogspot.com/-CkfYFe6C0w8/W5prSLrQo1I/AAAAAAAAHKk/fO3bcD_9Q1wzhIidxCxVk7bj9K6SIxaawCLcBGAs/s1600/640px-Rubber_duckies_So_many_ducks.jpg)
 | *见图片底部的归属。|
 
 我有幸参与的最伟大的技巧之一是，仅仅通过倾听来帮助别人解决问题。我相信对这种现象有更准确的描述，但在编程的世界里它被称为[橡皮鸭调试](https://en.wikipedia.org/wiki/Rubber_duck_debugging)。我第一次接触到这个想法是在听[杰夫·阿特伍德](https://en.wikipedia.org/wiki/Jeff_Atwood)的播客/采访以及阅读他在[CodingHorror.com](https://blog.codinghorror.com/)下的博客时，他写的标题为[鲁伯鸭问题解决](https://blog.codinghorror.com/rubber-duck-problem-solving/)的文章。

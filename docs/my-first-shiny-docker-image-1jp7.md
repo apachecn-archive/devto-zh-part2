@@ -16,7 +16,7 @@ Docker software 旨在促进项目实施，将您的应用程序放入 Linux-con
 
 每个虚拟机都拥有其应用程序正在使用的完整操作系统的副本。因此，虚拟机将占用大量空间和内存，因此计算成本高且速度慢。另一方面，Docker 是建立在主机操作系统之上的，因此不需要额外的操作系统，并且在性能和存储需求方面表现出色。
 
-[![image](../Images/344f7ee129b470fc403508ea0a44cb86.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--g-cmwMzg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t5k021w9fk316mtd7s38.png) 
+[![image](img/344f7ee129b470fc403508ea0a44cb86.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--g-cmwMzg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t5k021w9fk316mtd7s38.png) 
 图 1:左边是使用虚拟机部署的应用程序(A-C)。使用 docker 容器部署的正确应用程序。Docker 使用主机操作系统，并淘汰额外的客户操作系统。
 
 ## 为什么要使用 Docker
@@ -48,7 +48,7 @@ docker run hello-world #runs hello-world container example from docker
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![image](../Images/37f37139fd9d04ef437567ed6132cd44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EpaGoRO5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3dy9o9z897dp6o1mpws9.png)
+[![image](img/37f37139fd9d04ef437567ed6132cd44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EpaGoRO5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3dy9o9z897dp6o1mpws9.png)
 
 因为上面的 hello-world 图像在本地找不到，所以将从 Docker Hub 中提取。如果你看到上面的文字，它的工作。
 
@@ -60,7 +60,7 @@ docker images #displays the images on your machine
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![image](../Images/568d790ed59e48eb15b1c246a1727958.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gE48y-GP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mylaexxpry3cizij98si.png)
+[![image](img/568d790ed59e48eb15b1c246a1727958.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gE48y-GP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mylaexxpry3cizij98si.png)
 
 #### 为你的应用创建一个本地 docker 容器
 
@@ -120,11 +120,11 @@ docker run --name DOCKERapp -p 8080:8080 mydockerapp
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![image](../Images/4d0187edaabe0c7f8bd157cac2f8f194.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_9MhD-yJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hvusprqf4xy5rtzdgrkt.png)
+[![image](img/4d0187edaabe0c7f8bd157cac2f8f194.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_9MhD-yJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hvusprqf4xy5rtzdgrkt.png)
 
 在你的网络浏览器中调用 https:/localhost:8080，你现在可以使用你的容器化闪亮应用了。此外，你可以将你的容器运送到一个服务器，另一台机器等。你的容器中的环境将保持不变，你的应用将流畅运行，即使你碰巧更新了你的 R 版本。
 
-[![image](../Images/6fe967003917dae636a975087f8be793.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0ntghsXR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cnd1dk37dd3wbjfa94eb.png)
+[![image](img/6fe967003917dae636a975087f8be793.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0ntghsXR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cnd1dk37dd3wbjfa94eb.png)
 
 ### 几个进一步的注解:
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/masonite/masonite-framework-tutorial-series-part-2---routing-1ak3>
 
-[![](../Images/f04e157e46e02aa875991a0c38a3633b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gl2kjney--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/90b7vhkjoxgu022q7vwd.png)
+[![](img/f04e157e46e02aa875991a0c38a3633b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gl2kjney--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/90b7vhkjoxgu022q7vwd.png)
 
 # 简介
 

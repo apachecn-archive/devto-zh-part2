@@ -51,7 +51,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 前面的代码片段中，四个正方形相互叠放，每个正方形都从前一个正方形的位置稍微向左移动，这样您就可以很容易地分辨出哪个在哪个的上面。
 
-[![aligned squares](../Images/6b3fea538f776407d71382a26de21837.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RKWlrkhw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hk1gagb60wgmpn4jq1pb.png)
+[![aligned squares](img/6b3fea538f776407d71382a26de21837.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RKWlrkhw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hk1gagb60wgmpn4jq1pb.png)
 
 <center><small>squares positioned on top of each other</small></center>
 

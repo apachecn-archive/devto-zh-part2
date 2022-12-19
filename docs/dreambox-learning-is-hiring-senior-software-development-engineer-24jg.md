@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/lpasqualis/dreambox-learning-is-hiring-senior-software-development-engineer-24jg>
 
-[![](../Images/3fe4d03555533157e229ba00a719c5d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zwol1ZsZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uziyw2ciuaq08b3vp5q1.jpg)
+[![](img/3fe4d03555533157e229ba00a719c5d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zwol1ZsZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uziyw2ciuaq08b3vp5q1.jpg)
 
 ## 关于我们
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/rmorschel/is-your-code-safe-365n>
 
-[![Hacker](../Images/356bc49f13646560850bc7632c2d738d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GRT_LKJm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.pixabay.com/photo/2017/05/10/12/41/hacker-2300772_1280.jpg)
+[![Hacker](img/356bc49f13646560850bc7632c2d738d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GRT_LKJm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.pixabay.com/photo/2017/05/10/12/41/hacker-2300772_1280.jpg)
 
 网站[信息是美丽的](http://www.informationisbeautiful.net/)为[世界上最大的数据泄露](http://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/)提供了一个有启发性的图表。这不仅表明近年来黑客入侵变得越来越普遍，而且许多黑客入侵是由**内部人员**所为。黑客已经成为一个独立的行业，如果你是一名软件开发人员，安全应该是你关注的问题。在分布式软件的世界中尤其如此，在那里你的环境通常不完全在你的控制之下，不应该盲目信任。你需要问自己:我的代码是 S.A.F.E 吗？
 

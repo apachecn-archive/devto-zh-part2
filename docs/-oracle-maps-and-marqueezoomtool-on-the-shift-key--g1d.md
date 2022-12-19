@@ -53,7 +53,7 @@ map.$oracleMapDiv.on("mousedown", function (e) {
 
 通常我会提供 codepen/jsfiddle/jsbin 中的例子。但我没有找到任何有效的 OM.js 公共地图查看器或链接，所以我提供了截图。:/
 
-[![example of MarqueeZoomTool on OM](../Images/55d752a870dcd4f878678334e53a28de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JcLBcNiJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kru5gcirw2cyb4zc7udt.png)
+[![example of MarqueeZoomTool on OM](img/55d752a870dcd4f878678334e53a28de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JcLBcNiJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kru5gcirw2cyb4zc7udt.png)
 
 #### 一些有用的 OM 链接
 

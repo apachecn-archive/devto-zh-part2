@@ -6,7 +6,7 @@
 
 许多人感到生活和呼吸代码的压力，但是 Ben 解释了为什么他不认为应该是这样。
 
-[![ben image](../Images/fe64a787b888dfb20fc13ad1e466da3d.png)](/ben) [## 在工作中只写代码是非常好的，不要让任何人告诉你其他的事情。
+[![ben image](img/fe64a787b888dfb20fc13ad1e466da3d.png)](/ben) [## 在工作中只写代码是非常好的，不要让任何人告诉你其他的事情。
 
 ### 本哈尔彭 2 月 17 日 181 分钟阅读
 
@@ -22,7 +22,7 @@
 
 覆盆子 Pi 3s 的社区来源的想法列表。
 
-[![michael image](../Images/09f234b674116c14fcaff7f5a364677a.png)](/michael) [## 我刚买了一个树莓派 3。我能用它做什么？
+[![michael image](img/09f234b674116c14fcaff7f5a364677a.png)](/michael) [## 我刚买了一个树莓派 3。我能用它做什么？
 
 ### 李名炀🍕2 月 12 日 181 分钟读取
 
@@ -32,7 +32,7 @@
 
 Yos 分享了《干净的程序员》中的一些亮点，这是职业程序员的行为准则。
 
-[![yos image](../Images/b933086046a8cadbd81051e342c84b3d.png)](/yos) [## 摘自《干净的编码者》
+[![yos image](img/b933086046a8cadbd81051e342c84b3d.png)](/yos) [## 摘自《干净的编码者》
 
 ### yos Riady 2 月 17 日 184 分钟阅读
 
@@ -42,7 +42,7 @@ Yos 分享了《干净的程序员》中的一些亮点，这是职业程序员�
 
 对 Docker 及其相关技术背景的简单而详细的概述。
 
-[![drminnaar image](../Images/443b8ec8e195b17aa107996c32d4032b.png)](/drminnaar) [## 码头工人指南-第 1 部分
+[![drminnaar image](img/443b8ec8e195b17aa107996c32d4032b.png)](/drminnaar) [## 码头工人指南-第 1 部分
 
 ### 道格拉斯米纳尔 2 月 12 日 1815 分钟阅读
 
@@ -52,7 +52,7 @@ Yos 分享了《干净的程序员》中的一些亮点，这是职业程序员�
 
 CSS 定位通常会遇到几个小时的反复试验，经常导致对概念没有真正的理解。在这篇文章中，凯文结束了我们的困惑，让我们同时流口水🍦😛
 
-[![kbk0125 image](../Images/adf31106495387012f2bda8711ca7d7b.png)](/kbk0125) [## 通过构建一个冰淇淋圣代来解释 CSS 定位
+[![kbk0125 image](img/adf31106495387012f2bda8711ca7d7b.png)](/kbk0125) [## 通过构建一个冰淇淋圣代来解释 CSS 定位
 
 ### 凯文·科诺年科 2 月 16 日 185 分钟阅读
 
@@ -62,7 +62,7 @@ CSS 定位通常会遇到几个小时的反复试验，经常导致对概念没�
 
 k 为我们这些一直梦想构建游戏的人分享四款基于 JavaScript 的游戏引擎。
 
-[![kayis image](../Images/05a36aeca8e6b46eede8f252bf1031c5.png)](/kayis) [## 游戏 JavaScript
+[![kayis image](img/05a36aeca8e6b46eede8f252bf1031c5.png)](/kayis) [## 游戏 JavaScript
 
 ### k Feb 18 ' 182 分钟读取
 

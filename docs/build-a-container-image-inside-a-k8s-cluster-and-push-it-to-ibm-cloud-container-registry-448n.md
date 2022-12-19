@@ -10,7 +10,7 @@
 
 > Kaniko 是一个在容器或 Kubernetes 集群中从 docker 文件构建容器映像的工具。
 
-<figure>[![](../Images/7973915b68f3414e8a5b93c21786cad4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--j2RLrC_M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AVKL-Byx-GSAOl82ytNe8RQ.png) 
+<figure>[![](img/7973915b68f3414e8a5b93c21786cad4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--j2RLrC_M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AVKL-Byx-GSAOl82ytNe8RQ.png) 
 
 <figcaption>Kaniko 标志</figcaption>
 

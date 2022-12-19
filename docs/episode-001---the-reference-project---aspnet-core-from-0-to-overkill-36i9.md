@@ -53,7 +53,7 @@
 
 下面是一个非常高层次的架构。它肯定会随着时间的推移而改变(希望是最好的)，但我认为可以总结最初的想法。
 
-[![High level architecture](../Images/088186c323769468c76014219942e429.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FBJYPRgd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2xnss8l9ed19dr11agga.jpg)
+[![High level architecture](img/088186c323769468c76014219942e429.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FBJYPRgd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2xnss8l9ed19dr11agga.jpg)
 
 我们可以看到各种组件的基本组织，即使我们过度设计了解决方案，我们也不希望组件像 CRUD 服务一样，而是尽可能成为能够实现特定功能集的自包含服务。
 

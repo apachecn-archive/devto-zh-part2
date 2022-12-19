@@ -43,7 +43,7 @@ if (Environment.GetEnvironmentVariable("TERM_PROGRAM") == "iTerm.app")
 
 结果如下:
 
-[![](../Images/799d31b4084763696e015b7daa91a1c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g2ikg3MF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://stu.dev/content/images/2018/09/giphy-animated-gif-1.gif)
+[![](img/799d31b4084763696e015b7daa91a1c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g2ikg3MF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://stu.dev/conteimg/2018/09/giphy-animated-gif-1.gif)
 
 你可以[看到这个 PR 的完整工作示例](https://github.com/DavidDeSloovere/giphy-cli/pull/2/files)。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/thadevelyouknow/an-actress-learns-to-code--oci>
 
-[![](../Images/64979230530f53dd0f9fbdc3f5852aab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0_9-lMTq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3ogrx6js8j4fuavpcqyg.png)
+[![](img/64979230530f53dd0f9fbdc3f5852aab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0_9-lMTq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3ogrx6js8j4fuavpcqyg.png)
 
 *“你绝对应该考虑一下你可能适合的混合职位”*一天，一个技术小组的“社区构建者”对我说，因为我举手问了一个关于开发人员职位的问题，这个职位是为我这样的非技术背景的人准备的。就在刚才，坐在我旁边的那个人，一个经常向我寻求调试建议的同学，也问到了*的*工作前景。他说，他的背景是金融。他没有任何专业的编码经验。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/alshakero/the-true-delight-of-reacts-error-and-warning-messages-168j>
 
-[![Photo by [Štefan Štefančík](https://unsplash.com/@cikstefan) on [Unsplash](https://unsplash.com/photos/pzA7QWNCIYg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](../Images/16f0a85e7a963b5e77fa0e14392a2806.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--cUxhBjcT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qlhwsei92auehdgki3sg.jpg) *Photo by [ Štefan Štefančík ](https://unsplash.com/photos/pzA7QWNCIYg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/pzA7QWNCIYg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)* 
+[![Photo by [Štefan Štefančík](https://unsplash.com/@cikstefan) on [Unsplash](https://unsplash.com/photos/pzA7QWNCIYg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](img/16f0a85e7a963b5e77fa0e14392a2806.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--cUxhBjcT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qlhwsei92auehdgki3sg.jpg) *Photo by [ Štefan Štefančík ](https://unsplash.com/photos/pzA7QWNCIYg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/pzA7QWNCIYg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)* 
 
 ## 简介
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/scalegrid/former-capgemini-executive-sunitha-ray-joins-scalegrid-dbaas-to-expand-enterprise-sales-1p3n>
 
-[![](../Images/bde6067f9aae615908709ecddf316ad9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ALD4_Fkn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://scalegrid.io/blog/wp-content/uploads/2018/07/ScaleGrid-Welcomes-Sunitha-Ray-to-Lead-Enterprise-DBaaS-Sales.jpg)
+[![](img/bde6067f9aae615908709ecddf316ad9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ALD4_Fkn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://scalegrid.io/blog/wp-content/uploads/2018/07/ScaleGrid-Welcomes-Sunitha-Ray-to-Lead-Enterprise-DBaaS-Sales.jpg)
 
 PALO 阿尔托，2018 年 7 月 31 日—[scale grid](https://scalegrid.io/)，一家正在崛起的 [MongoDB 托管](https://scalegrid.io/mongodb.html)和 [Redis 托管](https://scalegrid.io/redis.html)的领导者，刚刚宣布热烈欢迎首席客户宣传员 Sunitha Ray 领导公司的企业业务发展和以客户为中心的解决方案。Sunitha 将负责 ScaleGrid 的顶线销售计划、客户成功战略和合作伙伴战略，以加快收入增长和盈利能力。
 

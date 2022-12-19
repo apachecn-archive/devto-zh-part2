@@ -12,7 +12,7 @@
 
 通常，部署 Lambda 函数涉及到所有的函数调用都将执行新代码，要么是因为我们正在更新$Latest，要么是因为我们正在将一个别名指向一个新版本。这意味着，如果出现任何问题，100%的调用都会出错，我们应该快速回滚到以前的版本，或者更糟的是，我们可能没有注意到错误，并使我们的系统处于不一致的状态。然而，随着别名流量转移的引入，我们现在可以在一个别名上指定**版本权重**，以便不是所有的调用都命中新版本，而是只有一定量的流量被路由到最新版本。这意味着 Lambda 将自动在两个最新版本之间**负载平衡**请求，允许我们在完全替换前一个版本之前检查新版本的行为，最大限度地减少可能的 bug 的影响。
 
-[![AWS Lambda weighted alias](../Images/746f0e23fe9c171d2901e1463948ead0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rc6a-ZN2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Am6LCP4U5uvQYYJHuM4-MYQ.png)
+[![AWS Lambda weighted alias](img/746f0e23fe9c171d2901e1463948ead0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rc6a-ZN2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Am6LCP4U5uvQYYJHuM4-MYQ.png)
 
 当我们看到新版本行为正确时，我们可以逐渐更新它的权重，增加它接收的负载。我们可以在 AWS 控制台中，通过 [CLI](https://aws.amazon.com/cli/) 或使用一些自动处理权重更新的[开源工具](https://github.com/aws-samples/aws-lambda-deploy)来做到这一点，但有一种更好的方法来处理 Lambda 函数部署。
 
@@ -30,7 +30,7 @@ CodeDeploy 允许我们配置一个 **pre** 和一个 **post** 流量转移 **ho
 
 钩子并不是我们检查我们的函数是否按预期运行的唯一方法，因为我们可以为 CodeDeploy 提供一个 **CloudWatch 警报**列表来监控部署过程。当流量转移开始时，CodeDeploy 将跟踪这些警报，取消部署，如果其中任何一个**触发**，则**将**回滚到之前的功能版本。
 
-[![Deployment process with AWS CodeDeploy and Lambda weighted alias](../Images/e6645834ccf6d3d6e047d06dbbd593c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0uUl4Mpb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AMcMmpykg-8d2cSiaUDvPiw.gif)
+[![Deployment process with AWS CodeDeploy and Lambda weighted alias](img/e6645834ccf6d3d6e047d06dbbd593c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0uUl4Mpb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AMcMmpykg-8d2cSiaUDvPiw.gif)
 
 挂钩和警报允许我们监控整个部署过程。我们可以在将任何流量路由到新功能版本之前执行一些测试，在流量转移过程中跟踪警报，并在所有流量到达新版本后立即运行更多测试。如果 CodeDeploy 注意到这些步骤中有任何错误，它将自动回滚到旧的、稳定的功能版本。
 

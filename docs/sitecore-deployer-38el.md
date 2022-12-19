@@ -8,7 +8,7 @@
 
 您可以在 [my repository](https://github.com/akuryan/vsts.extensions/tree/master/SitecoreDeployer) 查看 PowerShell 脚本。
 
-[![Sitecore Deployer setup](../Images/b50d1c20f47f70357da83840b5ae7221.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XM9C9s2z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dobryak.org/wp-content/uploads/2018/11/colours-deployer-600x335.png)
+[![Sitecore Deployer setup](img/b50d1c20f47f70357da83840b5ae7221.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XM9C9s2z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dobryak.org/wp-content/uploads/2018/11/colours-deployer-600x335.png)
 
 该扩展使用 VSTS 连接端点针对 Azure 进行授权，并将接受以下输入:
 

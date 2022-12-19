@@ -4,7 +4,7 @@
 
 ## 本周我完成了来自 Udacity 和 Google 的前端 Nanodegree
 
-[![Alt text of image](../Images/5151ce5f39e277e3d20526a41250e767.png)](https://i.giphy.com/media/XIqCQx02E1U9W/giphy.gif) 
+[![Alt text of image](img/5151ce5f39e277e3d20526a41250e767.png)](https://i.giphy.com/media/XIqCQx02E1U9W/giphy.gif) 
 **在这里你可以读到两件事，一是我如何开始学习 web 开发背后的故事，二是我从 Udacity Nanodegree 得到了什么？**
 
 ### 耶！我终于毕业了！经过 9 个月的紧张学习和专注工作，我做到了。我记得我面对的每一堂课，每一个问题，每一个项目。事实上，我记得 6 个多月前发生的一切。
@@ -13,9 +13,9 @@
 
 自从奖学金宣布后，我就开始申请，然后当我被录取开始攻读纳米学位。真的，我非常荣幸能在 10，000 名学生中被选中参加由 Udacity 和 Google 提供的为期 3 个月的挑战，然后成为获得 6 个月 Google 开发者纳米学位的 10%全额奖学金的学生之一。我记得当我检查我的电子邮件时，哇:)
 在纳米学位开始之前，Udacity 要求我们写一篇励志故事。我试着写一个简单的:
-[![Alt Stack](../Images/1808802554c90efb929c1e38b8cceb1d.png "part1")](https://res.cloudinary.com/practicaldev/image/fetch/s--C6vwtdZc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/XR2zZY1.png)
-[![Alt Stack](../Images/90c3ba35099f2fd5a739acc639f724fb.png "part2")](https://res.cloudinary.com/practicaldev/image/fetch/s--GymY9rmJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/E3gN44w.png)
-[![Alt Stack](../Images/ccec764ba599abc011ba2ac7a330f9c8.png "part3")](https://res.cloudinary.com/practicaldev/image/fetch/s--eJJHbiP8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/maOh4BO.png)
+[![Alt Stack](img/1808802554c90efb929c1e38b8cceb1d.png "part1")](https://res.cloudinary.com/practicaldev/image/fetch/s--C6vwtdZc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/XR2zZY1.png)
+[![Alt Stack](img/90c3ba35099f2fd5a739acc639f724fb.png "part2")](https://res.cloudinary.com/practicaldev/image/fetch/s--GymY9rmJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/E3gN44w.png)
+[![Alt Stack](img/ccec764ba599abc011ba2ac7a330f9c8.png "part3")](https://res.cloudinary.com/practicaldev/image/fetch/s--eJJHbiP8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/maOh4BO.png)
 
 ## 这里我了解到的亮点
 
@@ -40,4 +40,4 @@
 
 ## 最后，从这里，真的感谢所有社区，导师和评论家，特别感谢谷歌和 Udacity 在这个神奇的旅程中获得这个证书
 
-[![Alt Stack](../Images/f623dec681da9240e72d9662ba74ba25.png "certificate")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8uwnj-Qt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/PLFiifS.png)
+[![Alt Stack](img/f623dec681da9240e72d9662ba74ba25.png "certificate")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8uwnj-Qt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/PLFiifS.png)

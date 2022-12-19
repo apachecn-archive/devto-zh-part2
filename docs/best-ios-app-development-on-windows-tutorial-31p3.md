@@ -6,13 +6,13 @@
 
 ## 两个没有任何其他既定想法的人通常会毫无准备地开始开发他们的 iPhone 应用程序想法。
 
-[![iOS App Development](../Images/2cb26570b79082a7d10b1679bb4735d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3ppe1ETG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/NUeKTPA.png)
+[![iOS App Development](img/2cb26570b79082a7d10b1679bb4735d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3ppe1ETG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/NUeKTPA.png)
 
 令人难过的事实是，即使你完成的 iPhone 应用程序概念通过了苹果公司的严格测试，应用程序销售失败也是司空见惯的。下一个场景通常会把你看作是试图把你的应用送人的[应用开发者](http://offingapp.com/)。当你到达这个阶段的时候，你的 iPhone 应用程序概念已经变成了一个没有结果的冒险，让你感到沮丧，并且赔钱。
 
 Windows 中的 iOS 应用程序开发流程。第一阶段你的应用创意
 
-[![App Development Process](../Images/1ec85df91150b06890432608c73f2695.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CMbQ7xGp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/hZY316o.png)
+[![App Development Process](img/1ec85df91150b06890432608c73f2695.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CMbQ7xGp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/hZY316o.png)
 
 所以你有一个很酷的 iPhone 应用程序的想法。你认为这是一个赢家，你想开始发展这个想法，并使它成为一个巨大的受欢迎的成功。你不会编程，也没有昂贵的苹果电脑。您的预算很低，负担不起昂贵的硬件或软件。
 

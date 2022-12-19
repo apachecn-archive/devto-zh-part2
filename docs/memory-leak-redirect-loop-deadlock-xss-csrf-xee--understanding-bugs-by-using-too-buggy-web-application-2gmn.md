@@ -82,7 +82,7 @@
 这个演示显示:
 启动- >无限循环- > LDAP 注入->UnsatisfiedLinkError->BufferOverflowException->死锁- >内存泄漏- > JVM 崩溃(关闭)
 
-[![demo](../Images/4492df4efc69f36c6cc9a1d6f7ceb7a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vB6h9W6h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/htbk1s3lniudreb26dje.gif)
+[![demo](img/4492df4efc69f36c6cc9a1d6f7ceb7a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vB6h9W6h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/htbk1s3lniudreb26dje.gif)
 
 ## 警告
 

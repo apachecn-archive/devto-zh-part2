@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/tschaka1904/bootcamp-36ik>
 
-[![bootcamp](../Images/45a6da8a5158947584cdb4d8896c4d88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8h9BdBMp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9kgldf18n95ob2hiaglj.png)
+[![bootcamp](img/45a6da8a5158947584cdb4d8896c4d88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8h9BdBMp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9kgldf18n95ob2hiaglj.png)
 
 我本人没有计算机科学学位，但是参加了一个德国学徒项目，教授了 3 年多的软件开发技能。
 

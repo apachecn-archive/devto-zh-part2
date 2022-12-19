@@ -162,7 +162,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 打开 [http://localhost:1234](http://localhost:1234) 。
 
-[![Sample GraphQL query result displayed in the browser](../Images/a29005cca2062f5a5ef60679b3198a93.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wDdhNjX7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_436CC3FB0186E19AFA848D5D9BBDDD002D6719E8B00591E0944C85836193A66D_1533923400947_image.png)
+[![Sample GraphQL query result displayed in the browser](img/a29005cca2062f5a5ef60679b3198a93.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wDdhNjX7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_436CC3FB0186E19AFA848D5D9BBDDD002D6719E8B00591E0944C85836193A66D_1533923400947_image.png)
 
 为了进行测试，我们可以将 textarea 的内容改为:
 
@@ -189,13 +189,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 并点击`Try it`。这产生了以下结果:
 
-[![new GraphQL query output in browser](../Images/73609e402ebf2ed9c3a634f4a13ef1aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1LI5EYs9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_436CC3FB0186E19AFA848D5D9BBDDD002D6719E8B00591E0944C85836193A66D_1534187747016_image.png)
+[![new GraphQL query output in browser](img/73609e402ebf2ed9c3a634f4a13ef1aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1LI5EYs9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_436CC3FB0186E19AFA848D5D9BBDDD002D6719E8B00591E0944C85836193A66D_1534187747016_image.png)
 
 ## GraphQL 文档工具
 
 对于 pokemon GraphQL API 的托管 GraphQL 文档，请参见 https://graphql-pokemon.now.sh/的[，它打开 GraphQL，您可以在其中探索 API，使用`CTRL + space`显示字段建议，默认情况下使用`CMD + enter`扩展所有嵌套字段。您也可以右键单击某个字段来查看其类型等。](https://graphql-pokemon.now.sh/)
 
-[![GraphiQL for pokemon GraphQL API](../Images/c3e14019e0629d3624f246fb9e4a9d0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---CpsZ5yo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_436CC3FB0186E19AFA848D5D9BBDDD002D6719E8B00591E0944C85836193A66D_1533923625458_image.png)
+[![GraphiQL for pokemon GraphQL API](img/c3e14019e0629d3624f246fb9e4a9d0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---CpsZ5yo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_436CC3FB0186E19AFA848D5D9BBDDD002D6719E8B00591E0944C85836193A66D_1533923625458_image.png)
 
 关于 GraphQL 的更多信息将于下周在 Hugo 时事通讯的[代码中发布，所以](https://buttondown.email/hugo)[如果你还没有订阅](https://buttondown.email/hugo)。
 

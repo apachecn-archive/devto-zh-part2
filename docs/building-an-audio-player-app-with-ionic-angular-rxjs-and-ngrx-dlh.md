@@ -6,4 +6,4 @@
 
 [读下去📱🔊💃](https://auth0.com/blog/building-an-audio-player-app-with-ionic-angular-rxjs-and-ngrx/?utm_source=dev&utm_medium=sc&utm_campaign=ionic_angular)
 
-[![Building An Audio Player App with Ionic, Angular, RxJS, and NgRx](../Images/8baa8c30021d8f670bcbefcd833cb7d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nhSuiiTn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jmw3xmdnvwpb51a62osb.png)
+[![Building An Audio Player App with Ionic, Angular, RxJS, and NgRx](img/8baa8c30021d8f670bcbefcd833cb7d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nhSuiiTn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jmw3xmdnvwpb51a62osb.png)

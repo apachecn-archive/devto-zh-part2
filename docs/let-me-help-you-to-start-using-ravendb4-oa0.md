@@ -44,7 +44,7 @@ Docker 现在将获得最新的 RavenDB 版本，并构建一个新的容器来�
 
 ## 你的第一个数据库
 
-RavenDB 管理工作室完全重新设计。它看起来很漂亮，我们做了很多工作，使它比以往任何时候都更简单、更容易。[![](../Images/9130a54b2f96fca981ccf48ca409eb22.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m9kvkDLE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/v1/media/d1ff71a639f63e04488b56706a91f423.png)
+RavenDB 管理工作室完全重新设计。它看起来很漂亮，我们做了很多工作，使它比以往任何时候都更简单、更容易。[![](img/9130a54b2f96fca981ccf48ca409eb22.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m9kvkDLE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/v1/media/d1ff71a639f63e04488b56706a91f423.png)
 
 ### 创建数据库
 
@@ -57,7 +57,7 @@ RavenDB 管理工作室完全重新设计。它看起来很漂亮，我们做了
 
 恭喜你！您刚刚创建了您的第一个 RavenDB 数据库…但是，它是空的。
 
-[![](../Images/17781f87bee2f9a0bfb3d49737b4ecde.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BnTvbxHX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/02/3f7ec9fbf9d626ebbe905e7a589e81ed.png)
+[![](img/17781f87bee2f9a0bfb3d49737b4ecde.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BnTvbxHX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/02/3f7ec9fbf9d626ebbe905e7a589e81ed.png)
 
 ### 加载样本数据
 
@@ -68,19 +68,19 @@ RavenDB 管理工作室完全重新设计。它看起来很漂亮，我们做了
 3.  在左侧面板中，点击`settings`，然后点击`Create Sample Data`
 4.  点击大`Create`按钮
 
-[![](../Images/5b1f74d8f80df227eceb2b559cf1ead4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wJb_q3fj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/02/26de5d4d9b2cf6a0f8867677aa776b45.png)
+[![](img/5b1f74d8f80df227eceb2b559cf1ead4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wJb_q3fj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/02/26de5d4d9b2cf6a0f8867677aa776b45.png)
 
 > Northwind 数据库是 SQL Server 附带的示例数据库；几十年来，它一直被用作 Microsoft 社区中的示例数据库。我们选择这个数据库作为样本数据，因为您可能已经熟悉了它的关系格式。
 
 进入`Documents`会话(左图)，你会看到 RavenDB 为你创建了很多文档。
 
-[![](../Images/b8a2e8bf1cc46ce9859d353c943229c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nlBuBJ3M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/02/3f24692d124b788b08cb11e49d8fb66f.png)
+[![](img/b8a2e8bf1cc46ce9859d353c943229c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nlBuBJ3M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/02/3f24692d124b788b08cb11e49d8fb66f.png)
 
 ## 探索数据库
 
 太好了。我们刚刚以交互模式启动了 RavenDB，创建了我们的第一个数据库并加载了一些样本数据。但是，等等！它看起来与您在关系数据库中看到的非常相似。对吗？数据以网格格式显示，表格在左侧。如果你点击任何“记录”，你将开始看到 NoSQL 魔术！
 
-[![](../Images/8c6f73ff6693cd63d2d86e72bee1b307.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H-8IYZj---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/02/4bcc55018cd05b354a0d98c3ce7bcfb7.png)
+[![](img/8c6f73ff6693cd63d2d86e72bee1b307.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H-8IYZj---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/02/4bcc55018cd05b354a0d98c3ce7bcfb7.png)
 
 是啊！所有 RavenDB 数据都存储为 JSON。
 

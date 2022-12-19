@@ -20,7 +20,7 @@ SPA 的基本思想是你可以拥有一个完整的可操作的应用程序，�
 
 这个`Magical Component who decided which component needs to be rendered`就是我们在 React 中可以命名的`Router`。
 
-[![React Router](../Images/fbe6ea5c5184bcba530ad66bd7d9d0e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--06jNwgUd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/fmratU/Routing_React.png)
+[![React Router](img/fbe6ea5c5184bcba530ad66bd7d9d0e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--06jNwgUd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/fmratU/Routing_React.png)
 
 拥有一个水疗中心的想法是，你可以在开始时获得你需要的一切，资源，图像，组件等。如果您在页面`books`中，您不应该为`books/id`呈现一个新的整页，只需更改组件，并且如果我们需要信息来呈现页面，可能会在新页面中使用一些您可能需要的信息，而不需要重新加载整个页面。路由器应该提供一些有用的解决方案来帮助我们实施，这些是我们对路由器的最低要求:
 

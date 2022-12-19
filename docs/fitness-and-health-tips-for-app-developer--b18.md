@@ -10,7 +10,7 @@
 
 所有这些因素加在一起，就形成了一种非常不健康的生活方式。如果所有这些都适用于你，即使只有少数几个适用于你，继续读下去，因为尽管你的日常工作如此繁重，你还是可以做一些事情来保持健康。
 
-[![fitness tips for App Developer](../Images/1ff27066616114dad3fccdeddcd67e63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--npDU4LqM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5affnmlx7knlyn9s90ji.jpg)
+[![fitness tips for App Developer](img/1ff27066616114dad3fccdeddcd67e63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--npDU4LqM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5affnmlx7knlyn9s90ji.jpg)
 
 ## 1。消费健康的饮食
 

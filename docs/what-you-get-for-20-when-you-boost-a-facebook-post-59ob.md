@@ -14,13 +14,13 @@
 
 在创建了我的脸书页面后，我的第一个帖子是一个简单的“这是我的服务，开放测试，请注册”的帖子。
 
-[![GrowRecruit Original Advert](../Images/782b9fe24316122de75741b2e046575a.png)T2】](///static/84c515c1225f52f8ab2dc1681648d85f/e5715/GrowRecruit-Original-Ad.png)
+[![GrowRecruit Original Advert](img/782b9fe24316122de75741b2e046575a.png)T2】](///static/84c515c1225f52f8ab2dc1681648d85f/e5715/GrowRecruit-Original-Ad.png)
 
 这个帖子有一个直接链接到我的注册页面的链接，希望它能带来一些流量。因此，我确定了目标受众，输入了我的名片信息，并试探性地等待我的广告得到审核。
 
 大约一小时后，我收到了可怕的消息:
 
-[![Ad Not Approved](../Images/0e5c1aacf2a112158ea1475a429d7834.png)T2】](///static/a6479236269d8836f79345081375f613/cab8c/Ad-not-approved.png)
+[![Ad Not Approved](img/0e5c1aacf2a112158ea1475a429d7834.png)T2】](///static/a6479236269d8836f79345081375f613/cab8c/Ad-not-approved.png)
 
 > 广告未被批准
 > 
@@ -40,11 +40,11 @@
 
 在尝试了大约 10 分钟不同的事情后，我想出了“ **5 个不成功的招聘者一直会犯的错误**”。这让我得到了 73 分！
 
-[![CoSchedule Headline Analyzer](../Images/6ae897d84001d196b95979bdacc0491f.png)T2】](///static/2d7ca32f826a2b91b01beacac3f9115e/2bef9/CoSchedule-Headline-Analyzer.png)
+[![CoSchedule Headline Analyzer](img/6ae897d84001d196b95979bdacc0491f.png)T2】](///static/2d7ca32f826a2b91b01beacac3f9115e/2bef9/CoSchedule-Headline-Analyzer.png)
 
 文章写好并发表后，下一步是在我的脸书页面上发布一个链接，并写下最终将成为我的提升文章的内容。
 
-[![Boosted Post](../Images/74d385a5b27844086eed674b2154e665.png)T2】](///static/7cf2491ee4e0bf927cf1a910da1c2f34/7ae9c/GrowRecruit-boosted-post.png)
+[![Boosted Post](img/74d385a5b27844086eed674b2154e665.png)T2】](///static/7cf2491ee4e0bf927cf1a910da1c2f34/7ae9c/GrowRecruit-boosted-post.png)
 
 ## 目标受众
 
@@ -63,13 +63,13 @@
 
 只花了 20 英镑，我的帖子就被展示给了 3858 人，导致了 T2 150 人点击进入我的网站。导致 3.9%的点击率(CTR)，这对于脸书的广告来说即使不算低，也是平均水平。
 
-细目如下:[![Facebook Actions](../Images/fb8a9c8cddf10b3b6455e13bcc5270a7.png)](///static/6880d840233ca331df408395b14b5e9f/f8915/Facebook-Actions.png)[![Facebook Location](../Images/0dc22e6e006181849fc1b7f7233663ee.png)](///static/ba3ff517ae089bc58dd848a7f22801e9/e5715/Facebook-Location.png)[![Facebook People](../Images/fea6d1e8be92c78767c10486db1e4b1d.png)](///static/c8956bda49f4ca1512d7a80c83b49df1/e5715/Facebook-People.png)
+细目如下:[![Facebook Actions](img/fb8a9c8cddf10b3b6455e13bcc5270a7.png)](///static/6880d840233ca331df408395b14b5e9f/f8915/Facebook-Actions.png)[![Facebook Location](img/0dc22e6e006181849fc1b7f7233663ee.png)](///static/ba3ff517ae089bc58dd848a7f22801e9/e5715/Facebook-Location.png)[![Facebook People](img/fea6d1e8be92c78767c10486db1e4b1d.png)](///static/c8956bda49f4ca1512d7a80c83b49df1/e5715/Facebook-People.png)
 
 你会从上面的统计中注意到，我也设法得到了 2 条评论。然而，脸书的算法似乎并不完美，因为根据评论，它显然没有向招聘人员展示。我也无法在他们的脸书简介上看到我选定的兴趣。
 
 为了完整起见，这些是我在帖子上得到的评论。不过，我想订婚是好事，对吧？
 
-[![Facebook comments](../Images/b562db7ebb302878900d1c6b82634243.png)T2】](///static/0dbbcfac2160d2fbe7aeed58fe922da1/966a0/Facebook-comments.png)
+[![Facebook comments](img/b562db7ebb302878900d1c6b82634243.png)T2】](///static/0dbbcfac2160d2fbe7aeed58fe922da1/966a0/Facebook-comments.png)
 
 ## 网站流量
 
@@ -77,7 +77,7 @@
 
 如果你感兴趣，这是这 6 天里谷歌分析中 150 次点击的样子:
 
-[![Page Views Graph](../Images/62fe4704a1400978a1e617aa24e38b68.png) ](///static/e8feb34eff3226d79c6142182f8bc234/2bef9/Page-Views-Graph.png) [ ![Page Views Country](../Images/c52ed8fc44b10a7eca1ce19e68cc681f.png)](///static/28bfc7e034dc78b24949890a612134ff/51800/Page-Views-Country.png)
+[![Page Views Graph](img/62fe4704a1400978a1e617aa24e38b68.png) ](///static/e8feb34eff3226d79c6142182f8bc234/2bef9/Page-Views-Graph.png) [ ![Page Views Country](img/c52ed8fc44b10a7eca1ce19e68cc681f.png)](///static/28bfc7e034dc78b24949890a612134ff/51800/Page-Views-Country.png)
 
 我好像少了 25 次点击。我猜点击链接的人没有等待足够长的时间来加载页面。有趣的是，我选择的国家不止 3 个。
 

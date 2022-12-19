@@ -17,5 +17,5 @@
 
 **前端截图:**
 
-[![magento 2 blog extension](../Images/dd465337d7a930edda79f1e59f90391a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7qZMY2vX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.fmeextensions.com/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/2/_/2_advance_articles_extension_1.png)
-[![blog extension for magento 2](../Images/59fecc4479805af691775e71e26090de.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--KzVSR0Rx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.fmeextensions.com/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/3/_/3_advance_articles_extension.png)
+[![magento 2 blog extension](img/dd465337d7a930edda79f1e59f90391a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7qZMY2vX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.fmeextensions.com/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/2/_/2_advance_articles_extension_1.png)
+[![blog extension for magento 2](img/59fecc4479805af691775e71e26090de.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--KzVSR0Rx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.fmeextensions.com/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/3/_/3_advance_articles_extension.png)

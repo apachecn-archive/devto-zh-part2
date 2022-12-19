@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/arleneandrews/100-days-of-code-part-1-2dak>
 
-[![](../Images/c1df6ce1d3dcdb5d6fa3cc20dfe5eace.png)](https://www.businessinsider.in/thumb/msid-21061818,width-640,resizemode-4/Besides-showcasing-coding-talent-the-Flatiron-School-laid-out-delicious-snacks-at-the-job-fair-.jpg?356728) 
+[![](img/c1df6ce1d3dcdb5d6fa3cc20dfe5eace.png)](https://www.businessinsider.in/thumb/msid-21061818,width-640,resizemode-4/Besides-showcasing-coding-talent-the-Flatiron-School-laid-out-delicious-snacks-at-the-job-fair-.jpg?356728) 
 *图片来自商业内幕——平铁学校印度*
 
 设定短期目标是三明治的生活方式:我们可以将它融入我们日常生活的无数干扰中。其中一些是任务——清空洗碗机的一个架子，检查问题，然后继续。其他的更重要。

@@ -20,11 +20,11 @@
 
 ## 示例应用程序 UI
 
-[![](../Images/30301c8b6a4f9a6520b3ca68891753ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O5CEfoKs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/273389/47611112-c152a500-da5e-11e8-85dd-73dbd1cd1e7c.png)
+[![](img/30301c8b6a4f9a6520b3ca68891753ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O5CEfoKs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/273389/47611112-c152a500-da5e-11e8-85dd-73dbd1cd1e7c.png)
 
-[![](../Images/97b06663d17849ed820156455d91751e.png)T2】](https://i.giphy.com/media/xWfplzYLnWSF3zivrm/giphy.gif)
+[![](img/97b06663d17849ed820156455d91751e.png)T2】](https://i.giphy.com/media/xWfplzYLnWSF3zivrm/giphy.gif)
 
-[![](../Images/67e3e312563c4c0a92cf97dbc99c3ef4.png)T3】](https://i.giphy.com/media/1ynT3NyWY0daNA8XEk/giphy.gif)
+[![](img/67e3e312563c4c0a92cf97dbc99c3ef4.png)T3】](https://i.giphy.com/media/1ynT3NyWY0daNA8XEk/giphy.gif)
 
 ### 履行
 

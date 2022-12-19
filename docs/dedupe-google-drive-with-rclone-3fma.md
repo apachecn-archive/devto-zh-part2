@@ -12,7 +12,7 @@
 
 更糟糕的是，我发现 MultCloud 的编程访问似乎在驱动器中创建了副本。显然，Google Drive 将允许你拥有相同名称的并排文件，因为它不像 Windows 那样以这种方式操作，而是每个文件都被认为是唯一的。文件夹也是如此。
 
-[![Duplicate Images](../Images/31df58a6643d7ce873f07d6144bc3ab6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EZe143WC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/v1/images/2018-08-20_00-09-09.png)
+[![Duplicate Images](img/31df58a6643d7ce873f07d6144bc3ab6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EZe143WC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/img/2018-08-20_00-09-09.png)
 
 ## rcon
 
@@ -20,15 +20,15 @@
 
 ## 成功运行
 
-我建议你一定要找到[开发者 api 部分](https://console.developers.google.com/apis/api/drive.googleapis.com/)并创建一个 api 访问密钥。如果你不这样做，而只是使用 Oauth2，你将会得到可怕的消息:`Error 403: Rate Limit Exceeded`并且很可能最终花费 30 多分钟试图找出对此该做些什么。 [![403 Rate Limit Messages](../Images/d0a86eb6a0a0e4a0ca971c34b7700f83.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IMdoLX_Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/v1/images/TailBlazer_2018-08-19_18-06-22.png)
+我建议你一定要找到[开发者 api 部分](https://console.developers.google.com/apis/api/drive.googleapis.com/)并创建一个 api 访问密钥。如果你不这样做，而只是使用 Oauth2，你将会得到可怕的消息:`Error 403: Rate Limit Exceeded`并且很可能最终花费 30 多分钟试图找出对此该做些什么。 [![403 Rate Limit Messages](img/d0a86eb6a0a0e4a0ca971c34b7700f83.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IMdoLX_Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/img/TailBlazer_2018-08-19_18-06-22.png)
 
-你会看到活动开始出现在开发人员控制台，并看到你是如何做你的速度限制。[![Developer Console](../Images/cbc8f08397ea5c777515c906019fa292.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V_DpecWj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/v1/images/chrome_2018-08-19_23-45-28.png)
+你会看到活动开始出现在开发人员控制台，并看到你是如何做你的速度限制。[![Developer Console](img/cbc8f08397ea5c777515c906019fa292.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V_DpecWj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/img/chrome_2018-08-19_23-45-28.png)
 
 ## 从简单开始，然后一步一步来
 
 为了避免大的错误，并确认行为如你所愿，从小处着手。在我的脚本底部，我走了一遍我做了什么。
 
-[![Magic As It Works](../Images/9759eb6e62f449883b9a8d0c3e38d92a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tqshueL6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/v1/images/TailBlazer_2018-08-19_21-14-28.png)
+[![Magic As It Works](img/9759eb6e62f449883b9a8d0c3e38d92a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tqshueL6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/img/TailBlazer_2018-08-19_21-14-28.png)
 
 ## r clone 的其他炫酷用途
 

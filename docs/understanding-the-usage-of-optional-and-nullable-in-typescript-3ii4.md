@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/apdharshi/understanding-the-usage-of-optional-and-nullable-in-typescript-3ii4>
 
-<figure>[![](../Images/9e12a4bf1f1ada4f7fefa2ec20a5de51.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--g8Pol-OE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A3jpAbmyZn6TozMQpw-XSxw.jpeg) 
+<figure>[![](img/9e12a4bf1f1ada4f7fefa2ec20a5de51.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--g8Pol-OE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A3jpAbmyZn6TozMQpw-XSxw.jpeg) 
 
 <figcaption>由樊建华/ Freepik 设计</figcaption>
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/wiaio/setup-a-pycom-fipy-and-publish-an-event-to-wia-using-python-23nn>
 
-[![Pycom FiPy](../Images/324336d43fd032aa3d46d1710e2a4f80.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Nm9IgCO_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/e8473b6-fipyTop_copy.png)
+[![Pycom FiPy](img/324336d43fd032aa3d46d1710e2a4f80.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Nm9IgCO_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/e8473b6-fipyTop_copy.png)
 
 ### **设置您的开发环境**
 
@@ -28,7 +28,7 @@ TX0<->RX
 RX0<->TX
 3.3V<->VCC
 
-[![Pycom WiPy Pinout Diagram](../Images/8eb16d48f26d717a94b7e8b4cc3d6591.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lfOuGU8y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/e157bd7-wipy_v01_0_pinout_rc1.png)
+[![Pycom WiPy Pinout Diagram](img/8eb16d48f26d717a94b7e8b4cc3d6591.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lfOuGU8y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/e157bd7-wipy_v01_0_pinout_rc1.png)
 
 ### **获取设备名称**
 
@@ -61,7 +61,7 @@ Pytrack 和 Pysense 开箱即可用于 Windows 8/10/+、Mac OS 以及 Linux。�
 *   在 Atom 中，转到`File > New Window`打开一个新窗口。
 *   点击`File > Add Project Folder`并导航至之前创建的文件夹，添加新创建的文件夹。
 
-[![alt text](../Images/dc71f63943ebd292c49c2338337fc7a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5ecNF9yF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/451f586-Screen_Shot_2018-03-27_at_16.48.09.png)
+[![alt text](img/dc71f63943ebd292c49c2338337fc7a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5ecNF9yF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/451f586-Screen_Shot_2018-03-27_at_16.48.09.png)
 
 #### 看不到 Atom 中的树形视图窗格？
 
@@ -178,7 +178,7 @@ Enter fullscreen mode Exit fullscreen mode
 *   `WIFI_KEY`用你的 WiFi 网络密码。
 *   `DEVICE_SECRET_KEY`使用您的设备密钥。您可以在您的设备配置页面中找到它(见下面的截图)。
 
-[![Wia dashboard device configuration page](../Images/6075fbc97e628ccff6f5defba5f6e8f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4tXxk5JJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/4e21733-Screen_Shot_2018-03-27_at_16.56.11.png)
+[![Wia dashboard device configuration page](img/6075fbc97e628ccff6f5defba5f6e8f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4tXxk5JJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/4e21733-Screen_Shot_2018-03-27_at_16.56.11.png)
 
 您的文件夹结构现在应该如下所示:
 
@@ -187,11 +187,11 @@ Enter fullscreen mode Exit fullscreen mode
 *   `boot.py`
 *   `main.py`
 
-[![Project folder structure](../Images/55c6b1f9309b23c9f6f20aec0f501219.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JNBa19IK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/fdcc56d-Screen_Shot_2018-03-27_at_16.53.15.png)
+[![Project folder structure](img/55c6b1f9309b23c9f6f20aec0f501219.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JNBa19IK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/fdcc56d-Screen_Shot_2018-03-27_at_16.53.15.png)
 
 在 Atom 窗口底部的 Pymakr 插件中点击`Upload`,将代码发送到您的 Pycom 板。
 
-[![Publish an event code running on Pycom board](../Images/b429f6e84ca4b04d99507751fcd7e5e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LBdTCZi_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/4c15ed2-Screenshot_from_2018-03-26_15-37-01.png)
+[![Publish an event code running on Pycom board](img/b429f6e84ca4b04d99507751fcd7e5e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LBdTCZi_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/4c15ed2-Screenshot_from_2018-03-26_15-37-01.png)
 
 **注意:如果你得到“上传项目(主文件夹)...错误**
 
@@ -200,4 +200,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在转到 Wia 仪表板中的设备，您应该看到数据出现在调试器中。
 
-[![Wia Device Debugger](../Images/0a8597b6b9981c3c552442fcdba46325.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fJNmUoYu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/4fed030-Debugger_Wia.png)
+[![Wia Device Debugger](img/0a8597b6b9981c3c552442fcdba46325.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fJNmUoYu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/4fed030-Debugger_Wia.png)

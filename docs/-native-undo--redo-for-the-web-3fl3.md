@@ -25,7 +25,7 @@
 
 在引擎盖下，上面的迷宫实际上是在修改一个文本字段——就像用户会做的那样——并观察它的值是否会变回以前记录的状态。那是什么意思？
 
-[![Undo/Redo stack](../Images/23e0c9b1b8ac695ddd7ff38a00ac10c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z2VNRWJQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b6chmm73xqvtd5mdj8id.png)
+[![Undo/Redo stack](img/23e0c9b1b8ac695ddd7ff38a00ac10c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z2VNRWJQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b6chmm73xqvtd5mdj8id.png)
 
 *   当我们做出改变时(上面的蓝框)，我们秘密地用一个新的数字更新一个“隐藏的”文本字段，这是一个记录玩家位置的数组的索引。
 
@@ -39,7 +39,7 @@
 
 让我们计划一下流程。当用户使用他们的键盘时，我们处理事件——更新迷宫和推一个新的状态。当用户执行撤销或重做时，我们会检测到变化，并将迷宫恢复到我们期望的任何先前状态。
 
-[![Interaction flow](../Images/80cd13c89ae782cf536807479218f483.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OZMAiLBV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/el9uhd5793sdibujyy4s.png)
+[![Interaction flow](img/80cd13c89ae782cf536807479218f483.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OZMAiLBV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/el9uhd5793sdibujyy4s.png)
 
 好吧！让我们建造它。
 

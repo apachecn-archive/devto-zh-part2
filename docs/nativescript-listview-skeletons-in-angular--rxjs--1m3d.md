@@ -8,7 +8,7 @@
 
 如果你在过去几年里使用过任何一个主要的网站，你可能会看到骷髅屏幕。我特别喜欢它们，因为它们让您在数据加载之前知道会发生什么。对于移动设备，它们对我来说更有意义，因为有时用户的数据连接可能特别慢。
 
-<figure>[![Skeletons being used on Slack](../Images/2d8fb77170fa7825d2b7fbf05ee84532.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yih_GP3P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t82y10c5vl7w5l2vk16j.jpg) 
+<figure>[![Skeletons being used on Slack](img/2d8fb77170fa7825d2b7fbf05ee84532.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yih_GP3P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t82y10c5vl7w5l2vk16j.jpg) 
 
 <figcaption>枯骨被用在懈怠上。</figcaption>
 
@@ -38,7 +38,7 @@
 
 <figure>
 
-[![Screenshot of my ListView](../Images/7e50787ecdc5c77792713eb80f2df9c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--18LBHUTB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hr8882a826pfgu3zbtvo.png)
+[![Screenshot of my ListView](img/7e50787ecdc5c77792713eb80f2df9c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--18LBHUTB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hr8882a826pfgu3zbtvo.png)
 
 <figcaption>Screenshot of my ListView</figcaption>
 
@@ -125,7 +125,7 @@ templateSelector(item) {
 
 ### 成品
 
-[![All tied together](../Images/fe1f9539179d4894aec2de34291139e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LM24PD_0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/79291ev5eya6zt8o8egj.gif)
+[![All tied together](img/fe1f9539179d4894aec2de34291139e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LM24PD_0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/79291ev5eya6zt8o8egj.gif)
 
 正如你在上面的 gif 中看到的，当用户第一次进入这个视图时，他们会立即看到一个骨骼列表。然后，一旦 HTTP 请求完成，视图就会切换到音乐流派列表。我们已经准备好了骨架的布局。
 

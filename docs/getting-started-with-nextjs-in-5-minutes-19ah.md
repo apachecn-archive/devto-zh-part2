@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/benhayehudi/getting-started-with-nextjs-in-5-minutes-19ah>
 
-[![](../Images/0602fab51eddd17ef1324736e917dcff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sItCGY2B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.auth0.com/blog/next.jslogo.png)
+[![](img/0602fab51eddd17ef1324736e917dcff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sItCGY2B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.auth0.com/blog/next.jslogo.png)
 
 [Next.js](https://nextjs.org/) 是一个轻量级的开源 Javascript 框架，构建在 React 库之上，支持快速的服务器端渲染，并且是服务器不可知的(即使用其内置的 HTTP 服务器或使用任何 Node.js 服务器)。它是由[时代](https://zeit.co/about)的人们放出来的。路由只需通过页面完成，使网站的建立和运行变得简单快捷。事实上，我们将在 5 分钟内完成。
 

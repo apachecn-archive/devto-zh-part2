@@ -71,7 +71,7 @@ API 不仅可以帮助开发人员编写更好的程序，它还可以帮助围�
 *   标准 JavaScript APIs。这些是您可以在标准 web 应用程序中使用的相同的核心 JavaScript 和 DOM APIs。
 *   HTML 特性和其他浏览器特有的新兴 API。
 
-[![Mozilla keeps a nice list of all the cool Web APIs](../Images/736c2be5763885dae15efcdf5c42f6c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n9mnQOar--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A9fecMqxHY30miR9hSt2XZw.png)
+[![Mozilla keeps a nice list of all the cool Web APIs](img/736c2be5763885dae15efcdf5c42f6c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n9mnQOar--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A9fecMqxHY30miR9hSt2XZw.png)
 
 * * *
 

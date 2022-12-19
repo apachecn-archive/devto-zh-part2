@@ -71,7 +71,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 **开始调试**并且马上失败了很棒:
 
-[![](../Images/55442b10df8f2a5bb6b74be5216ddf29.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Z1Dvb9Ky--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/vscode_debug.png)
+[![](img/55442b10df8f2a5bb6b74be5216ddf29.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Z1Dvb9Ky--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/vscode_debug.png)
 
 从 1.26 开始(现在是 1.27.1)，在用它作为我的主要 C# IDE 几周后，我的抱怨是:
 
@@ -303,7 +303,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 没有天赋的 github 项目是不完整的。
 
-[![NuGet](../Images/f7115f0ffee8a104ad840dd8adb05c95.png)](https://www.nuget.org/packages/Subor.nng.NETCore) 途经:
+[![NuGet](img/f7115f0ffee8a104ad840dd8adb05c95.png)](https://www.nuget.org/packages/Subor.nng.NETCore) 途经:
 
 ```
 [![NuGet](https://img.shields.io/nuget/v/PACKAGE.svg?colorB=COLOR)](https://www.nuget.org/packages/PACKAGE) 
@@ -311,7 +311,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Build status](../Images/d68bb9ac749c52b9ebc5b14f0c2c79cf.png)](https://ci.appveyor.com/project/jake-ruyi/nng-netcore/branch/master) 出自 [shields.io 例句](https://shields.io/#/examples/build) :
+[![Build status](img/d68bb9ac749c52b9ebc5b14f0c2c79cf.png)](https://ci.appveyor.com/project/jake-ruyi/nng-netcore/branch/master) 出自 [shields.io 例句](https://shields.io/#/examples/build) :
 
 ```
 [![Build status](https://img.shields.io/appveyor/tests/USERNAME/PROJECT/BRANCH.svg)](https://ci.appveyor.com/project/USERNAME/PROJECT/branch/BRANCH) 
@@ -319,7 +319,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![codecov](../Images/43e420d897b263b85eba8ac5a5978566.png) ](https://codecov.io/gh/subor/nng.NETCore) from Codecov.io 回购**设置>徽章** :
+[![codecov](img/43e420d897b263b85eba8ac5a5978566.png) ](https://codecov.io/gh/subor/nng.NETCore) from Codecov.io 回购**设置>徽章** :
 
 ```
 [![codecov](https://codecov.io/gh/GITHUB_OWNER/PROJECT/branch/BRANCH/graph/badge.svg)](https://codecov.io/gh/GITHUB_OWNER/PROJECT) 

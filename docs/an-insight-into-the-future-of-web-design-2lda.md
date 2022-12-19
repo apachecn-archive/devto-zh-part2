@@ -4,7 +4,7 @@
 
 随着新技术的出现，网页设计技术已经发展了很多年。在这里，我们正在讨论网页设计行业的未来，展望未来 20 年的网页设计前景。网页设计包含了创造力和技术知识。如今，网站设计在数字化商业平台中起着至关重要的作用。商业公司在网站设计上很有创意，这使他们能够建立自己的数字身份。在本文中，我们向您展示了 web 开发的未来，这是通过新技术的出现来感知的。
 
-[![Future of web design](../Images/c2c848089857cbba9ef8dd3a3f2206e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WiRLf0-t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ep0p3lwgomic251bb1rv.jpg)
+[![Future of web design](img/c2c848089857cbba9ef8dd3a3f2206e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WiRLf0-t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ep0p3lwgomic251bb1rv.jpg)
 
 # 开发者工具
 

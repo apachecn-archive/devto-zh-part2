@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/paigen11/javascript-array-methods-to-make-you-a-better-developer-2n1e>
 
-[![close up shot of code text editor on computer screen](../Images/c21c93a6a7cf5ed59f1c3174e7dee351.png "close up shot of code text editor on computer screen")T2】](///static/e1dbd44cb6d69d235f454f9ce3ac642f/0f98f/code.jpg)
+[![close up shot of code text editor on computer screen](img/c21c93a6a7cf5ed59f1c3174e7dee351.png "close up shot of code text editor on computer screen")T2】](///static/e1dbd44cb6d69d235f454f9ce3ac642f/0f98f/code.jpg)
 
 ## 数组是 JavaScript 中非常有用的数据结构
 

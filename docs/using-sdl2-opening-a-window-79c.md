@@ -53,7 +53,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 编译并运行它。您将看到一个没有响应的黑色窗口弹出，并将在 5000 毫秒或 5 秒后关闭。
 
-[![](../Images/4c75e87996311b59f4ed1236e42dc19d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--om-6O_5d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/06oc79wbr8hhopf6072t.png)
+[![](img/4c75e87996311b59f4ed1236e42dc19d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--om-6O_5d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/06oc79wbr8hhopf6072t.png)
 
 现在让我们浏览一下代码，看看发生了什么。
 
@@ -283,7 +283,7 @@ while(keep_window_open)
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/91923a7e64d97c138b2982f31f486341.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HSuvDu-l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/amkaenduil98xs6abdir.png)
+[![](img/91923a7e64d97c138b2982f31f486341.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HSuvDu-l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/amkaenduil98xs6abdir.png)
 
 我们使用`SDL_LoadBMP()`加载一个位图图像，检查它是否失败，如果成功，使用`SDL_BlitSurface()`将它传送到屏幕上。该函数有四个参数:
 

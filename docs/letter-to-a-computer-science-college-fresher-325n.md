@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/aviaryan/letter-to-a-computer-science-college-fresher-325n>
 
-[![cover](../Images/72d3362d24384859de8d3a07235e1137.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tF-m0QkP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.us-east-2.amazonaws.com/devletters/covers/fresher.jpeg)
+[![cover](img/72d3362d24384859de8d3a07235e1137.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tF-m0QkP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.us-east-2.amazonaws.com/devletters/covers/fresher.jpeg)
 
 > 首次发布于 [Dev Letters](https://devletters.com/letters/letter-to-a-fresher/)
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/topsinfosol/progressive-web-apps---blurring-the-lines-between-web-and-mobile-apps-53i>
 
-[![Progressive Web Apps](../Images/eef7ea363bc0d916739fb00321876646.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q7rDf_4J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u3yc5tqxb43ijno5ia2r.jpg)
+[![Progressive Web Apps](img/eef7ea363bc0d916739fb00321876646.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q7rDf_4J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u3yc5tqxb43ijno5ia2r.jpg)
 
 史蒂夫·乔布斯推出了 iPhone，开启了智能手机革命，iPhone 上有一种移动浏览器，但上网体验很差。一年后，苹果推出了应用程序商店，你已经有了原生应用程序，这是一种与在线内容互动的非常好的方式，我相信在过去的 10 年里，你们都使用过大量的应用程序。
 
@@ -18,13 +18,13 @@
 
 可以把服务人员想象成在后台工作的小 web 组件。他们接收通知。他们缓存应用程序数据。他们就是这样离线工作的。当您启动渐进式 web 应用程序时，它看起来不像是在浏览器中。它看起来像一个应用程序。
 
-[![instagram-native-and-pwas](../Images/8bbc7c47411655aef5680d892fcb60b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--07gFv17V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.topsinfosolutions.com/wp-content/uploads/2018/07/instagram-native-and-pwas.png)
+[![instagram-native-and-pwas](img/8bbc7c47411655aef5680d892fcb60b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--07gFv17V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.topsinfosolutions.com/wp-content/uploads/2018/07/instagram-native-and-pwas.png)
 
 例如，Instagram 有一个 PWA。如果你在你的 Android 手机上进入 Instagram，假设这是一个现代的手机，你登录后，你会被问及是否要将它钉在你的开始屏幕或应用程序屏幕上，以及你是否希望接收通知。一旦你这样做了，然后你打开那个应用程序，它看起来就像普通的 Instagram 应用程序一样。事实上，滚动比 Android 的一个原生应用更好，这告诉了你很多东西。
 
 **渐进式网络应用 vs 本地应用**
 
-[![PWA Features comparison with Native apps](../Images/32ccb6821917332dcf59448bf2bbcf94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MmmU1Smh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.topsinfosolutions.com/wp-content/uploads/2018/07/PWA-Features-comparison-with-Native-apps.png)
+[![PWA Features comparison with Native apps](img/32ccb6821917332dcf59448bf2bbcf94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MmmU1Smh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.topsinfosolutions.com/wp-content/uploads/2018/07/PWA-Features-comparison-with-Native-apps.png)
 
 原生应用在很多领域都有巨大的优势:它们反应迅速。你有一个非常好的图标，你可以点击它。只要你点击它，你就会看到一个非常漂亮的“脚手架”应用程序屏幕。假设你去了脸书。这是一种不错的蓝色外观，你有一个脸书图标。
 
@@ -34,7 +34,7 @@
 
 应用程序也有一个平滑一致的独立用户界面，在你的智能手机上看起来非常好。最好的一点是，本地应用在离线状态下也能正常工作。
 
-[![PWA vs. Native Apps](../Images/c492fca678f8b19b613f3cddcfdf6831.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pduXtLTz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.topsinfosolutions.com/wp-content/uploads/2018/07/PWA-vs.-Native-Apps.png)
+[![PWA vs. Native Apps](img/c492fca678f8b19b613f3cddcfdf6831.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pduXtLTz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.topsinfosolutions.com/wp-content/uploads/2018/07/PWA-vs.-Native-Apps.png)
 
 如果你在没有盲区的情况下查看邮件，那没关系。你可以在地下室、地铁站和其他应用程序白天无法覆盖的地方查看邮件。你甚至可以回复那些邮件。当你进入覆盖区域时，它就会运行，一切都会很好。
 
@@ -82,6 +82,6 @@
 
 但是，什么是始终保持的呢？一个银行网站。事实上，它甚至比任何 iOS 和 Android 应用程序都更早更新。因此，如果一家银行能够维护 PWA 网站，那么这对所有人都是双赢的，包括他们和他们的消费者。
 
-[![CTA2 - PWA](../Images/b100fea78d92c5ed3e8c003ffa05ea18.png)T2】](http://www.topsinfosolutions.com/inquiry/)
+[![CTA2 - PWA](img/b100fea78d92c5ed3e8c003ffa05ea18.png)T2】](http://www.topsinfosolutions.com/inquiry/)
 
 帖子[进步网络应用-模糊网络和移动应用之间的界限](http://www.topsinfosolutions.com/blog/progressive-web-apps-web-mobile-apps/)最初发表在 [TOPS Infosolutions](http://www.topsinfosolutions.com) 上

@@ -127,6 +127,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 使用`--log-opt`允许日志旋转。如果您正在创建的容器过于冗长，并且由于持续的部署过程而创建得过于频繁，那么这将很有帮助。更多详细信息，参见[日志驱动选项](https://docs.docker.com/engine/admin/logging/overview/#/json-file-options)。
 
-[![How to host a coder dinner-party](../Images/d882fc2f242ea184bf29482c6e2003da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NQhs2tiX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.commitstrip.com/wp-content/uploads/2016/06/Strip-Discussion-Docker-english650final-1.jpg)
+[![How to host a coder dinner-party](img/d882fc2f242ea184bf29482c6e2003da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NQhs2tiX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.commitstrip.com/wp-content/uploads/2016/06/Strip-Discussion-Docker-english650final-1.jpg)
 
 *原文发布于此:[https://medium . com/dev gorilla/docker-best-practices-images-98e 9464 cc 173](https://medium.com/devgorilla/docker-best-practices-images-98e9464cc173)T3】*

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/collinbarrett/clean-code-2fdn>
 
-[![Clean Code](../Images/f66b534bf50165a5ca0074d2e88dfc6d.png)T2】](https://collinmbarrett.com/clean-code-1/)
+[![Clean Code](img/f66b534bf50165a5ca0074d2e88dfc6d.png)T2】](https://collinmbarrett.com/clean-code-1/)
 
 我正在打开“大叔”鲍伯·马丁的“T2”的“干净代码”进行我的第三次阅读。这一编程经典作为一个基本的封面到封面阅读，以及一个伟大的专题案头参考。在过去的几年中，我曾多次希望我能重新分配我的大学学费，用于记忆和应用马丁在本书中概述的每一种实践，而不是我的课程作业。在我的职业生涯中，我经历过并继续经历这么多糟糕的代码，能够感知和“清理”是我能提供的最有价值的技能之一。
 
@@ -12,7 +12,7 @@ Martin 以一个例子开始了这本书，这个例子展示了一个被坏代�
 
 > 他们匆忙地将产品推向市场，在代码上弄得一团糟。
 
-<figure>[![xkcd: Good Code](../Images/f473936316f70bb3e6ea9aa7aa971efe.png)](https://collinmbarrett.com/media/goodCodeXkcd_collinmbarrett.png) 
+<figure>[![xkcd: Good Code](img/f473936316f70bb3e6ea9aa7aa971efe.png)](https://collinmbarrett.com/media/goodCodeXkcd_collinmbarrett.png) 
 
 <figcaption id="caption-attachment-7062">[xkcd:好码](https://xkcd.com/844/)</figcaption>
 
@@ -44,7 +44,7 @@ Martin 向一些软件传奇人物寻求“干净代码”的定义拿起这本�
 
 > 让露营地比你发现时更干净。
 
-[![Campsite Photo by Zach Betten, https://unsplash.com/photos/K9olx8OF36A](../Images/ab12def62fd3fdba9dba9396183043e6.png)T2】](https://collinmbarrett.com/media/campsite_collinmbarrett.jpg)
+[![Campsite Photo by Zach Betten, https://unsplash.com/photos/K9olx8OF36A](img/ab12def62fd3fdba9dba9396183043e6.png)T2】](https://collinmbarrett.com/media/campsite_collinmbarrett.jpg)
 
 无论您是否选择[包括“男孩”](https://dev.to/ben/the-boy-scout-rule-is-now-the-scout-rule-420g)当提到它向前发展时，这个经典的规则可以为遵循它的开发团队提供巨大的价值。代码自然希望在内部腐烂，所以需要不断努力来保持它的干净。
 

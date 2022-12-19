@@ -553,7 +553,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果您检查您的浏览器，您应该会看到类似这样的内容:
 
-[![Toltec Home page](../Images/bcc8a61b41692885249d8fdd9d5979f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dvcP5hWM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3ic50eacmqrqd4gcpsel.png)
+[![Toltec Home page](img/bcc8a61b41692885249d8fdd9d5979f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dvcP5hWM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3ic50eacmqrqd4gcpsel.png)
 
 如果你点击导航栏中的链接，你会看到它们根据浏览器中对应于 url 的页面正确地切换视图。
 

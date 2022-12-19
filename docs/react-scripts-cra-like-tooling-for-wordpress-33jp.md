@@ -14,18 +14,18 @@
 
 这是回购协议。
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png)[【swashata】](https://github.com/swashata)/[WP 网页包脚本](https://github.com/swashata/wp-webpack-script)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png)[【swashata】](https://github.com/swashata)/[WP 网页包脚本](https://github.com/swashata/wp-webpack-script)
 
 ### 💥🔥📦👩‍💻一个易于使用、预先配置、可黑客攻击的 webpack 设置和开发服务器，用于 WordPress 主题和插件。
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-[![](../Images/df5c2a64724e2c0552421c5be61777bb.png)](https://wpack.io) 
+[![](img/df5c2a64724e2c0552421c5be61777bb.png)](https://wpack.io) 
 访问我们的网站 [wpack.io](https://wpack.io) 获取文档和用法
 
 # wpack . io——WordPress 的现代 JavaScript 工具
 
-[![Backers on Open Collective](../Images/109dc1b8c26bcf83e11fe1eee11d1d00.png)](https://raw.githubusercontent.com/swashata/wp-webpack-script/master/#backers)[![Sponsors on Open Collective](../Images/13467d5e6d90196abb4af5e8a62e36e9.png)](https://raw.githubusercontent.com/swashata/wp-webpack-script/master/#sponsors)[![Build Status](../Images/92c5604e8d16d3ce2188fd1e177122a0.png)](https://travis-ci.com/swashata/wp-webpack-script)[![codecov](../Images/96a97a0b15ee433ed908102d0da5ea56.png)](https://codecov.io/gh/swashata/wp-webpack-script)[![npm version](../Images/43d3558555fe6f2c5cebefe814150873.png)](https://badge.fury.io/js/%40wpackio%2Fscripts)[![npm download](../Images/7dd6628686d958bffd89041a67b5efb1.png)](https://www.npmjs.com/package/@wpackio/scripts)[![cypress dashboard](../Images/6b1690b0b7a1cc9ecd2a03c6d0266c4f.png)](https://dashboard.cypress.io/#/projects/r3p1vm/runs)
+[![Backers on Open Collective](img/109dc1b8c26bcf83e11fe1eee11d1d00.png)](https://raw.githubusercontent.com/swashata/wp-webpack-script/master/#backers)[![Sponsors on Open Collective](img/13467d5e6d90196abb4af5e8a62e36e9.png)](https://raw.githubusercontent.com/swashata/wp-webpack-script/master/#sponsors)[![Build Status](img/92c5604e8d16d3ce2188fd1e177122a0.png)](https://travis-ci.com/swashata/wp-webpack-script)[![codecov](img/96a97a0b15ee433ed908102d0da5ea56.png)](https://codecov.io/gh/swashata/wp-webpack-script)[![npm version](img/43d3558555fe6f2c5cebefe814150873.png)](https://badge.fury.io/js/%40wpackio%2Fscripts)[![npm download](img/7dd6628686d958bffd89041a67b5efb1.png)](https://www.npmjs.com/package/@wpackio/scripts)[![cypress dashboard](img/6b1690b0b7a1cc9ecd2a03c6d0266c4f.png)](https://dashboard.cypress.io/#/projects/r3p1vm/runs)
 
 ## 什么是 wpack.io？
 
@@ -35,8 +35,8 @@
 
 随着 Gutenberg editor 的兴起，现代 JavaScript 和 react 等库的使用迫在眉睫。该工具的目标是:
 
-*   <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> 提供所有前端资产的现成编译和捆绑。
-*   <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> 提供一流的开发人员体验(DX)
+*   <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/2705.png">✅</g-emoji> 提供所有前端资产的现成编译和捆绑。
+*   <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/2705.png">✅</g-emoji> 提供一流的开发人员体验(DX)
     *   热模块更换和实时重装。
     *   保存时编译文件。
     *   在任何本地开发服务器上工作。

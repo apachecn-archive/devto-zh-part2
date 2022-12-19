@@ -200,7 +200,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当 Express 收到一个请求时，每个与请求匹配的中间件都按照初始化的顺序运行，直到出现一个终止动作(比如发送一个响应)。
 
-[![Middleware Flow](../Images/7a982a999431573d7b7e5b8a1168649a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yuzjeMN6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/express-middleware-examples/middleware-30b3b30ad54e21d8281719042860f3edd9fb1f40f93150233a08165d908f4631.png)
+[![Middleware Flow](img/7a982a999431573d7b7e5b8a1168649a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yuzjeMN6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/express-middleware-examples/middleware-30b3b30ad54e21d8281719042860f3edd9fb1f40f93150233a08165d908f4631.png)
 
 因此，如果发生错误，所有打算处理错误的中间件将被按顺序调用，直到其中一个调用终止事件，如`res.send()`或`res.end()`。
 

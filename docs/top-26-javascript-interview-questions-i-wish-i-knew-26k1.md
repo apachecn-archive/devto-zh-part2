@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/fullstackcafe/top-26-javascript-interview-questions-i-wish-i-knew-26k1>
 
-[![Top 26 JavaScript Interview Questions I Wish I Knew](../Images/de30a41d115ce50bc4c74b39809d76c4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lB2L_uWQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/697662/pexels-photo-697662.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D650%26w%3D940) 
+[![Top 26 JavaScript Interview Questions I Wish I Knew](img/de30a41d115ce50bc4c74b39809d76c4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lB2L_uWQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/697662/pexels-photo-697662.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D650%26w%3D940) 
 根据 Stack Overflow 的 2018 年度调查，JavaScript 成为最常用的编程语言，连续六年。让我们面对现实吧，JavaScript 是你所有开发人员技能的基石，在任何开发人员的面试中都是不可避免的。坚持读完[全栈。Cafe](https://www.fullstack.cafe) 汇编了最常见和最棘手的 JavaScript 面试问题和答案，帮助你找到下一份理想的工作。
 
 > 🔴最初发表于 [FullStack。咖啡馆-杀死你的技术&编码面试](https://www.fullstack.cafe/?utm_source=dev&utm_medium=blog)

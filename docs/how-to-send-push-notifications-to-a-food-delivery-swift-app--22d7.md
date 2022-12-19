@@ -41,7 +41,7 @@ w 到
 
 这将是客户将使用的应用程序。这是用户可以点餐的地方。为了简单起见，我们将没有任何种类的认证，一切将直截了当。客户应该能够看到库存，并从库存中订购一个或多个。他们还应该能够看到他们的订单列表和每个订单的状态。
 
-[![](../Images/cdfca33b9064cb0c63e742482168bfac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yZEsyRqV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://images.contentful.com/1es3ne0caaid/7nVr0Y2RlSwyIemmC6A4kY/b0374c809869f779116e31342c275637/food-delivery-notifications-swift-demo-admin.gif)
+[![](img/cdfca33b9064cb0c63e742482168bfac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yZEsyRqV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://images.contentful.com/1es3ne0caaid/7nVr0Y2RlSwyIemmC6A4kY/b0374c809869f779116e31342c275637/food-delivery-notifications-swift-demo-admin.gif)
 
 ## 构建后端应用程序(API)
 
@@ -210,7 +210,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当 Xcode 重新启动后，打开 Main.storyboard 文件，我们将在其中为我们的客户端应用程序创建故事板。下面是我们如何设计故事板的截图:
 
-[![](../Images/2dbf90a20f7e77dc2f2de390a630a403.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---oyHN6UJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/1es3ne0caaid/5PwFNFslcAioiWMYQgyUCe/55d510f557f21ee1babfa6896b3e3db2/food-delivery-notifications-swift-storyboard.png)
+[![](img/2dbf90a20f7e77dc2f2de390a630a403.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---oyHN6UJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/1es3ne0caaid/5PwFNFslcAioiWMYQgyUCe/55d510f557f21ee1babfa6896b3e3db2/food-delivery-notifications-swift-storyboard.png)
 
 第一个场景是导航视图控制器，它有一个表格视图控制器作为根控制器。导航控制器是应用程序启动时加载的初始控制器。
 
@@ -218,7 +218,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 第二个场景是视图控制器，它列出了我们可用的库存。
 
-[![](../Images/b7c1ae6f78553666f428b936929d7b18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--__Z0IJl6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/1es3ne0caaid/2I1uUClu1qgQg8o4eKwYU2/880c43c08c7b45a5d51e0152c131af55/food-delivery-notifications-swift-root-view-controller.png)
+[![](img/b7c1ae6f78553666f428b936929d7b18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--__Z0IJl6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/1es3ne0caaid/2I1uUClu1qgQg8o4eKwYU2/880c43c08c7b45a5d51e0152c131af55/food-delivery-notifications-swift-root-view-controller.png)
 
 在 Xcode 中创建一个名为`PizzaTableListViewController.swift`的新文件，使其成为第二个场景的自定义类，并粘贴以下代码:
 
@@ -413,7 +413,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 下一个场景是订单列表场景。在这个场景中，列出了所有订单，以便用户可以看到它们及其状态:
 
-[![](../Images/ee0f39ebbe8d0d060f2d2ad8f315bda6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RfJZQJq3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/1es3ne0caaid/5XWMD6PTvGCY0iqgUQ8mIE/ee92605ef1c099be6f9be6365055730e/food-delivery-notifications-swift-navigation-controller.png)
+[![](img/ee0f39ebbe8d0d060f2d2ad8f315bda6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RfJZQJq3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/1es3ne0caaid/5XWMD6PTvGCY0iqgUQ8mIE/ee92605ef1c099be6f9be6365055730e/food-delivery-notifications-swift-navigation-controller.png)
 
 创建一个`OrderTableViewController.swift`文件，使其成为上面场景的自定义类，并粘贴以下代码:
 
@@ -506,7 +506,7 @@ Enter fullscreen mode Exit fullscreen mode
 ### 创建订单状态场景
 
 下一个场景是订单场景。在这个场景中，我们可以看到订单的状态:
-[![](../Images/11741d0dc9f93b37d41174fc39055a08.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rC-ieENk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/1es3ne0caaid/2X6nPInSrKKCQSaSSucqo4/72a999533dc69e4053b3deb523a9ea59/food-delivery-notifications-swift-status.png)
+[![](img/11741d0dc9f93b37d41174fc39055a08.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rC-ieENk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/1es3ne0caaid/2X6nPInSrKKCQSaSSucqo4/72a999533dc69e4053b3deb523a9ea59/food-delivery-notifications-swift-status.png)
 
 > ⚠️上面的场景在状态标签的正上方有一个不可见的视图。您需要使用这个视图为控制器创建一个@IBOutlet。
 
@@ -599,7 +599,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这就是客户端应用程序的全部内容。我们需要做的最后一件事是修改`info.plist`文件。我们需要向`plist`文件添加一个条目，以允许连接到我们的本地服务器:
 
-[![](../Images/aac25b2063cf68cadd0f8d1f718eb142.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cfKpczhh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/1es3ne0caaid/j8Vt5c32mskcguceeAs0E/f793b048a46325ce1ca09c20e641e0da/food-delivery-notifications-swift-allow-arbitrary-loads.png)
+[![](img/aac25b2063cf68cadd0f8d1f718eb142.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cfKpczhh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/1es3ne0caaid/j8Vt5c32mskcguceeAs0E/f793b048a46325ce1ca09c20e641e0da/food-delivery-notifications-swift-allow-arbitrary-loads.png)
 
 让我们继续讨论管理应用程序。
 
@@ -635,7 +635,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 食品-配送-通知-swift-应用程序-流程
 
-[![](../Images/72f103cbc52d6a8685f5ac97ba97374c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b-e7L4Ek--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/1es3ne0caaid/2jObj403hq68Q22cUYQuKO/930e30909508a05cdabb4552043ad35d/food-delivery-notifications-swift-app-flow.png)
+[![](img/72f103cbc52d6a8685f5ac97ba97374c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b-e7L4Ek--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/1es3ne0caaid/2jObj403hq68Q22cUYQuKO/930e30909508a05cdabb4552043ad35d/food-delivery-notifications-swift-app-flow.png)
 
 上面我们有一个导航视图控制器，它是初始视图控制器。
 
@@ -835,7 +835,7 @@ Pusher 依靠苹果推送通知服务(APNs)代表你向 iOS 应用用户发送�
 
 点击[这里](https://developer.apple.com/account)进入苹果开发者仪表板，然后创建一个新的密钥，如下所示:
 
-[![](../Images/1e6806006bd327cbb941222fb304426a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qprYMqTL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://images.contentful.com/1es3ne0caaid/FRmSzjstAymmY42Yae2Sg/e9bd6cf292c5a671b0cb5b8c43bda1fa/food-delivery-notifications-swift-create-new-key.gif)
+[![](img/1e6806006bd327cbb941222fb304426a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qprYMqTL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://images.contentful.com/1es3ne0caaid/FRmSzjstAymmY42Yae2Sg/e9bd6cf292c5a671b0cb5b8c43bda1fa/food-delivery-notifications-swift-create-new-key.gif)
 
 创建密钥后，下载它。请妥善保管，因为我们将在下一节用到它。
 
@@ -845,13 +845,13 @@ Pusher 依靠苹果推送通知服务(APNs)代表你向 iOS 应用用户发送�
 
 接下来，您需要从 Pusher 仪表盘创建一个新的 Pusher Push 通知应用程序。
 
-[![](../Images/163be08a182234d011567c1f5bccd030.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WFnGJrpA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/1es3ne0caaid/6It7s8zzpYWWOKSCwIe8eQ/85d5e21f2d2ed7118965b2518c1e7f89/food-delivery-notifications-swift-create-instance.png)
+[![](img/163be08a182234d011567c1f5bccd030.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WFnGJrpA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/1es3ne0caaid/6It7s8zzpYWWOKSCwIe8eQ/85d5e21f2d2ed7118965b2518c1e7f89/food-delivery-notifications-swift-create-instance.png)
 
 创建应用程序后，您应该会看到一个快速启动向导，它将帮助您设置应用程序。
 
 为了配置推送通知，您需要从 Apple 获得一个 APNs 密钥。这与我们在上一节中下载的密钥相同。获得密钥后，将其上传到快速入门向导。
 
-[![](../Images/5ed8a7ae79a7b6e790ec6d528a898bee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vRzafwFh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/1es3ne0caaid/4F5z1zKnWMSUCoq6oUOOQw/d5fbfc2c052a0911a4c1708aa9bccffb/food-delivery-notifications-swift-apns-keys.png)
+[![](img/5ed8a7ae79a7b6e790ec6d528a898bee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vRzafwFh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/1es3ne0caaid/4F5z1zKnWMSUCoq6oUOOQw/d5fbfc2c052a0911a4c1708aa9bccffb/food-delivery-notifications-swift-apns-keys.png)
 
 输入您的 Apple 团队 ID。你可以从[这里](https://developer.apple.com/account/#/membership)获取团队 ID。点击继续进行下一步。
 
@@ -911,7 +911,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 接下来，我们需要为应用程序启用推送通知。在 project navigator 中，选择您的项目，并单击 Capabilities 选项卡。[打开开关，启用推送通知](http://http://help.apple.com/xcode/mac/current/#/devdfd3d04a1)。
 
-[![](../Images/2f1b43c9385a00e795bd23e2ae59dbde.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jgEuNPNH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/1es3ne0caaid/1mMVY0HdKIqkeM28yuua06/0bdaaf36c998992135cb58e6a8660430/food-delivery-notifications-swift-on-slide.png)
+[![](img/2f1b43c9385a00e795bd23e2ae59dbde.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jgEuNPNH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/1es3ne0caaid/1mMVY0HdKIqkeM28yuua06/0bdaaf36c998992135cb58e6a8660430/food-delivery-notifications-swift-on-slide.png)
 
 ### 更新您的管理应用程序以支持推送通知
 
@@ -1012,7 +1012,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这就是使用 Pusher 添加推送通知的全部内容。以下是我们实际应用的屏幕记录:
 
-[![](../Images/068ac6ae8e0d1d27b0fe57fbcc9783b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FyJ9indo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://images.contentful.com/1es3ne0caaid/1IvWzEqIgkCQAWWo4S6EME/386bf16c07db53a02c44e25513d2e27f/food-delivery-notifications-swift-final-demo.gif)
+[![](img/068ac6ae8e0d1d27b0fe57fbcc9783b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FyJ9indo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://images.contentful.com/1es3ne0caaid/1IvWzEqIgkCQAWWo4S6EME/386bf16c07db53a02c44e25513d2e27f/food-delivery-notifications-swift-final-demo.gif)
 
 ## 结论
 

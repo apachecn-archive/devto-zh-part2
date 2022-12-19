@@ -4,15 +4,15 @@
 
 我在巴拿马的一家公司度过了最后一周(那里很漂亮，尽管我大部分时间都呆在酒店里)。那段时间，我参加了一个使用多种物联网设备的黑客马拉松。其中一个是这个漂亮的小液晶面板:
 
-[![LCD Panel](../Images/99eda7129c689a4491d5b83ccc7489c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9pKcJeHk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/05/lcd1.jpg)
+[![LCD Panel](img/99eda7129c689a4491d5b83ccc7489c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9pKcJeHk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/05/lcd1.jpg)
 
 我不知道这个硬件实际上叫什么(我的意思是什么品牌)，我在设置它方面完全没有用，但在我的合作伙伴安装并运行它并在其上启动一个节点服务器后，我编写了将数据发送到它的代码。就我而言，我决定使用微软的[文本分析 API](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/) 和[网络任务](https://webtask.io/)。这个想法是建立一个关于关键词(在这个例子中是 Auth0)的 tweets 的“情感分析”,并提供一个平均报告。你可以想象这个显示器给出了事情进展的实时状态。在上面的截图中，你可以看到事情进展顺利。厉害！我们还构建了对更中性的响应的支持:
 
-[![Neutral](../Images/7323ccebdc29c1dfa8819971a97afceb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ll_0shur--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/05/lcd2a2.jpg)
+[![Neutral](img/7323ccebdc29c1dfa8819971a97afceb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ll_0shur--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/05/lcd2a2.jpg)
 
 和一个“哦，糟糕，我们一定做了什么很糟糕的事情”的结果:
 
-[![Oh crap](../Images/aba2e0dd3fcda7ecf8c93d7178aa4174.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y8tT3VDR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/05/lcd3a2.jpg)
+[![Oh crap](img/aba2e0dd3fcda7ecf8c93d7178aa4174.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y8tT3VDR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/05/lcd3a2.jpg)
 
 再说一次，我没有做任何酷的硬件部分，我只是建立了“获取数据并发送它的部分”，但我认为分享这些代码可能会很酷。大约两周前，我写了一篇关于用 Slack 做类似事情的文章:[给 Slack](https://goextend.io/blog/adding-serverless-cognitive-analysis-to-slack) 添加无服务器认知分析。这意味着我的大部分工作已经完成了。让我们看看 webtask。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/aaahmedaa/my-git-hot-commands--49gn>
 
-[![](../Images/82e902180473a96183ff931140c19d21.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gIfQzFsV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oea99akwtqg6bgzfj4pv.png)
+[![](img/82e902180473a96183ff931140c19d21.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gIfQzFsV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oea99akwtqg6bgzfj4pv.png)
 
 1 - `git log --pretty=format: --name-only --author="aa-ahmed-aa" --since="2 days ago" | sort | uniq`
 显示特定作者用户在自时间段内修改的文件

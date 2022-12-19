@@ -26,7 +26,7 @@
 
 我浏览了所有时间的热门 dev.to 帖子，在那里我找到了这篇关于在本地存储中存储 jwt 的风险的文章。
 
-[![rdegges image](../Images/751d3a70466613d2e14ba00f2738fd4e.png)](/rdegges) [## 请停止使用本地存储
+[![rdegges image](img/751d3a70466613d2e14ba00f2738fd4e.png)](/rdegges) [## 请停止使用本地存储
 
 ### Randall de gges 1 月 30 日 1811 分钟阅读
 

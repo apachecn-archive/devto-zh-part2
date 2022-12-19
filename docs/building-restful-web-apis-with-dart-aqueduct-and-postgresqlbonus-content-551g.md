@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/graphicbeacon/building-restful-web-apis-with-dart-aqueduct-and-postgresqlbonus-content-551g>
 
-[![Featured image goes here](../Images/91d5958f1a27eca1e9f70c5e0a4ada74.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r4h69LMD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bckufxk26wr197vhvrvd.jpg)
+[![Featured image goes here](img/91d5958f1a27eca1e9f70c5e0a4ada74.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r4h69LMD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bckufxk26wr197vhvrvd.jpg)
 
 * * *
 
@@ -40,7 +40,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这将在`migrations/00000001_Initial.migration.dart`创建一个迁移文件。
 
-[![Initial migration file](../Images/48efa99abfb7ee4251f6b89a9a442dc8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1g5epiiy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8ut7mmydcl2fmu44y7fy.png)
+[![Initial migration file](img/48efa99abfb7ee4251f6b89a9a442dc8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1g5epiiy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8ut7mmydcl2fmu44y7fy.png)
 
 打开该文件详细描述了基于`lib/model`中的模型定义构建数据库表的步骤，在本例中是`book.dart`。
 
@@ -113,7 +113,7 @@ aqueduct db upgrade --connect postgres://<user>:<password>@localhost:5432/<datab
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Updated database schema](../Images/37f303329cd1441c5ba5b1a1738c0764.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b9H9JHOK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qzvuicjzg40yywd4nhwu.png)
+[![Updated database schema](img/37f303329cd1441c5ba5b1a1738c0764.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b9H9JHOK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qzvuicjzg40yywd4nhwu.png)
 
 *这假设您要迁移到的数据库中没有任何预先存在的表，即 **_book** 和 **_author** 表不存在，否则将会抛出异常。*
 

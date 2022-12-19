@@ -97,19 +97,19 @@ Locust 实例在本地运行于 [http://127.0.0.1:8089](http://127.0.0.1:8089)
 
 我们首先尝试以每秒 1 个用户的孵化率模拟 5 个用户，观察结果。
 
-[![Alt text of image](../Images/c10d4e1a1501ca4a082a3370c511c64e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4-KX3kVJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.com/images/locust_users.png)
+[![Alt text of image](img/c10d4e1a1501ca4a082a3370c511c64e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4-KX3kVJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.cimg/locust_users.png)
 
 一旦测试开始，locustIO 将执行所有任务，并记录请求成功/失败的结果。这些结果以如下所示的格式显示:
 
-[![Alt text of image](../Images/fb9eeb2e588bd73631e7789ceeff67dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yMM4vHGp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.com/images/locust_exe2.png)
+[![Alt text of image](img/fb9eeb2e588bd73631e7789ceeff67dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yMM4vHGp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.cimg/locust_exe2.png)
 
 从上面的例子可以看出，有一个登录请求和多个获取页面和提交表单的请求。因为用户数量较少，所以没有故障转移。
 
 现在让我们将请求数量增加到 1000 个用户，孵化率为 500，看看结果。
 
-[![Alt text of image](../Images/e2e3eba9e05a9ef9a7d3dd3fac27c718.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wNXAKaJ1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.com/images/locust_user2.png)
+[![Alt text of image](img/e2e3eba9e05a9ef9a7d3dd3fac27c718.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wNXAKaJ1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.cimg/locust_user2.png)
 
-[![Alt text of image](../Images/8eaa06e6b6449ef59c1ce112ea207b8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x46lfqSj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.com/images/locust_exe4.png)
+[![Alt text of image](img/8eaa06e6b6449ef59c1ce112ea207b8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x46lfqSj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.cimg/locust_exe4.png)
 
 正如我们所知，随着用户和请求数量的增加，在这种情况下，一些获取主页和发布表单的请求会失败。对于当前的一组模拟用户，我们得到 7%的失败率。
 
@@ -141,7 +141,7 @@ Locust 实例在本地运行于 [http://127.0.0.1:8089](http://127.0.0.1:8089)
 
 我们可以在 Failures 选项卡中看到失败请求的详细信息，该选项卡可用于确定重复失败的根本原因。
 
-[![Alt text of image](../Images/96cc50152e7a19ce79a1060a1515af40.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3cxU2CDl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.com/images/locust_failures.png)
+[![Alt text of image](img/96cc50152e7a19ce79a1060a1515af40.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3cxU2CDl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.cimg/locust_failures.png)
 
 LocustIO 提供了以表格形式下载结果的选项，但是没有图形或图表形式的现成结果可视化功能。
 

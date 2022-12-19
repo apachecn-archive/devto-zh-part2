@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/arleneandrews/thanks-giving-2018-2kik>
 
-[![](../Images/eadd9c6fe0482b7062ea4150c9aa8a84.png)](http://thriveology.com/wp-content/uploads/2017/11/ThankfulGrateful.jpg)
+[![](img/eadd9c6fe0482b7062ea4150c9aa8a84.png)](http://thriveology.com/wp-content/uploads/2017/11/ThankfulGrateful.jpg)
 [http://prosper ology . com/WP-content/uploads/2017/11/thankful grateful . jpg](http://thriveology.com/wp-content/uploads/2017/11/ThankfulGrateful.jpg)
 
 对我们美国人来说，这是一个回顾过去一年，细数幸福的时刻。

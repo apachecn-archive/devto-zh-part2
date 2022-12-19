@@ -8,7 +8,7 @@
 
 **“我不想维护他们的代码。”**
 
-[![](../Images/b426dc0e610f6b6c653cdf871276da12.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k2GlTG86--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.professorbeekums.com/img/2018/2/screaming.jpg)
+[![](img/b426dc0e610f6b6c653cdf871276da12.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k2GlTG86--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.professorbeekums.com/img/2018/2/screaming.jpg)
 
 我理解这种心态。最差的代码永远是别人的代码。对于大多数开发者来说，这是简单的事实。
 

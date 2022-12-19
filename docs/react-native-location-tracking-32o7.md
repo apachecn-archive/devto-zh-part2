@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/vikrantnegi/react-native-location-tracking-32o7>
 
-[![](../Images/a270ac1f9e52c455bc54dbaf967c8b88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p8I29wXY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z8404b4p03988nb64m6q.gif)
+[![](img/a270ac1f9e52c455bc54dbaf967c8b88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p8I29wXY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z8404b4p03988nb64m6q.gif)
 
 如果你一直在使用 React Native，你一定用过或者听说过 react-native-maps。React native maps 是一个 React native 包，它为 react native 提供了 Google Maps API。使用静态谷歌地图是非常常见的，但今天我们将使用谷歌地图的一个广泛使用的功能，使用 React native 进行位置跟踪。
 
@@ -190,7 +190,7 @@ getMapRegion = () => ({
 
 为了在 iOS 模拟器上测试该应用程序，我们将使用 iOS 模拟器中可用的定位模式。运行应用程序后，进入模拟器中的`Debug` > `Location` > `Freeway Drive`设置以打开此功能。这样做应该会产生类似下面的结果。
 
-[![](../Images/a270ac1f9e52c455bc54dbaf967c8b88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p8I29wXY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z8404b4p03988nb64m6q.gif)
+[![](img/a270ac1f9e52c455bc54dbaf967c8b88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p8I29wXY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z8404b4p03988nb64m6q.gif)
 
 对于 Android，这并不简单，因为 Android 模拟器没有任何内置功能来测试动态位置变化。为了测试它，你可以通过步行一段距离来手动改变你的位置，或者你可以使用第三方模拟定位应用程序。我能够在 Android 上使用 [GPS 操纵杆](https://play.google.com/store/apps/details?id=com.theappninjas.gpsjoystick&hl=en_IN)应用程序来测试这一点。
 

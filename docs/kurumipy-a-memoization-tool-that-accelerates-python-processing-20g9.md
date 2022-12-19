@@ -29,7 +29,7 @@
 例如，如下图所示，有一个系统以大量传感器数据作为输入，处理大量数据。
 
 [![KurumiPy Description<br>
-](../Images/0e693f7fe16ff912b4dc4b1244886066.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zwtcpoKf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fdehqf9f6fekm0duj5mt.png)
+](img/0e693f7fe16ff912b4dc4b1244886066.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zwtcpoKf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fdehqf9f6fekm0duj5mt.png)
 
 在这种情况下，如果您稍微更改程序，尝试通过执行程序来查看输出结果，将再次执行未重写程序的具有数据转换处理的功能。
 

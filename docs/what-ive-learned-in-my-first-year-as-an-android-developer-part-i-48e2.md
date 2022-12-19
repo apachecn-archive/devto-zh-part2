@@ -51,7 +51,7 @@ YouTube 视频和教程也是学习具体特性和实现的很好资源。几乎
 
 在 Android Studio 中，你可以选择几个不同的设备来了解你的 UI 在这些设备上会是什么样子。
 
-[![screen_sizes](../Images/d44c5ecdb6dd4a50eade327b0323b6aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_QIxJ6vj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qyeves3bwodbjrwkpyxv.PNG)
+[![screen_sizes](img/d44c5ecdb6dd4a50eade327b0323b6aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_QIxJ6vj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qyeves3bwodbjrwkpyxv.PNG)
 
 ### 为不同的屏幕密度创建 layout.xml 文件
 
@@ -62,7 +62,7 @@ YouTube 视频和教程也是学习具体特性和实现的很好资源。几乎
 
 以下是布局文件在 res/layout 文件夹中的外观示例:
 
-[![This is how your layout files would look like](../Images/4a1bf64735315030a644ffbc76629f73.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6DO83KJB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/taizym8mz1mntj627g9g.PNG)
+[![This is how your layout files would look like](img/4a1bf64735315030a644ffbc76629f73.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6DO83KJB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/taizym8mz1mntj627g9g.PNG)
 
 # Java 还是 Kotlin？
 
@@ -94,13 +94,13 @@ Kotlin 已经被证明是一种强大的语言，可以使 Android 应用程序�
 
 我个人喜欢[这种](https://blog.smartlogic.io/2013-07-09-organizing-your-android-development-code-structure/)组织，在这种组织中，活动、片段、适配器、用于 http 请求的 API 方法和一些用于 helper 方法的 Util 类都有单独的包。这对我保持一个更有组织的项目，以及知道在项目的不同部分可以重用哪些类帮助很大。
 
-[![Class organization](../Images/8d706db1cad9e1e0bf45bf5a8e3b8216.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2NG6c5Hv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j44gghc2twgw5rkoq2xq.PNG)
+[![Class organization](img/8d706db1cad9e1e0bf45bf5a8e3b8216.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2NG6c5Hv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j44gghc2twgw5rkoq2xq.PNG)
 
 ### 为布局资源:
 
 上面的链接也包含了我发现的保持布局文件有条理的好方法。由于您不能像 clases 一样将布局文件分隔在包或文件夹中，因此，如果您有许多布局文件，遵循简单的命名约定 activity _ your _ activity _ name . XML 可以帮助您轻松找到它们。
 
-[![Layout Organization](../Images/698da7c4ab8702a0c783219ec30c38f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--elChXeD2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/isi0xm8kpqf7x85t7ntw.PNG)
+[![Layout Organization](img/698da7c4ab8702a0c783219ec30c38f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--elChXeD2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/isi0xm8kpqf7x85t7ntw.PNG)
 
 # 结论
 

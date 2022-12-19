@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/using-trampolines-to-manage-large-recursive-loops-in-javascript-55jo>
 
-[![](../Images/bd0d14db0292fb2c9cc3b7c46f4ec61f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0m6v_ZIe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AZ07QdV0HK7xEsSkVueo3yQ.jpeg)
+[![](img/bd0d14db0292fb2c9cc3b7c46f4ec61f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0m6v_ZIe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AZ07QdV0HK7xEsSkVueo3yQ.jpeg)
 
 我清楚地记得我进入函数式编程世界的情形。讽刺的是，我正在 ES5 中学习基于类的 JavaScript。我被布置了一些家庭作业来强化所教授的 OOP 概念。然而，一个成熟的基于类的 OOP 实现对于作为家庭作业的问题类型来说是大材小用了，所以我决定在纯函数中完成整个事情。
 
@@ -50,7 +50,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 免责声明:这不是一篇关于递归和迭代风格的文章。两者都有其优点，有时递归解决方案不如迭代解决方案清晰。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/?cid=banner_a)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/?cid=banner_a)
 
 ### 递归问题
 
@@ -82,7 +82,7 @@ PTC 最酷的一点是，如果你已经用适当的尾部调用编写了递归�
 
 问题是，适当的尾音最多只能获得不稳定的支持。从 [kangax.github.io](http://kangax.github.io/compat-table/es6/#test-proper_tail_calls_(tail_call_optimisation)) 看支持图。
 
-<figure>[![](../Images/39152ace1bc07e6fc25522b561474de3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HNn8yKbt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A89uULybtVBbGQdQU7w8nTQ.png) 
+<figure>[![](img/39152ace1bc07e6fc25522b561474de3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HNn8yKbt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A89uULybtVBbGQdQU7w8nTQ.png) 
 
 <figcaption>这是对 PTC 的支持，很多红框。</figcaption>
 
@@ -148,7 +148,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### Plug: [LogRocket](http://logrocket.com) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

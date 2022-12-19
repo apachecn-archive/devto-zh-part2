@@ -6,7 +6,7 @@
 
 在我们的[上一篇文章](https://dev.to/bennypowers/lets-build-web-components-part-2-the-polyfills-dkh)中，我们了解了 JavaScript polyfills，它允许我们将组件发送到不支持该规范的浏览器。
 
-[![bennypowers](../Images/57370d6f6dab8d6651a3f138a1aaaa40.png)](/bennypowers) [## 让我们构建 Web 组件！第 2 部分:聚合填料
+[![bennypowers](img/57370d6f6dab8d6651a3f138a1aaaa40.png)](/bennypowers) [## 让我们构建 Web 组件！第 2 部分:聚合填料
 
 ### 本尼·鲍尔斯🇮🇱🇨🇦9 月 29 日 1812 分钟阅读
 
@@ -82,7 +82,7 @@ Enter fullscreen mode Exit fullscreen mode[https://glitch.com/embed/#!/embed/sun
 
 很刺激，对吧？好吧，这是一个卑微的开始，但至少它的工作。如果我们用开发工具检查我们的元素，我们可以看到它包含我们的影子 DOM，并且与我们的自定义元素类相关联。
 
-[![Dev Tools DOM inspector showing our custom element with a 'custom' badge next to it, and the shadow root containing the img element](../Images/c99ae63dc2e36f0444552d47b484100a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7OcQJBYY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/831jg8zg9zs8jy4cl3hd.png)
+[![Dev Tools DOM inspector showing our custom element with a 'custom' badge next to it, and the shadow root containing the img element](img/c99ae63dc2e36f0444552d47b484100a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7OcQJBYY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/831jg8zg9zs8jy4cl3hd.png)
 
 这个小徽章是 Firefox 告诉我们这是一个自定义元素的方式。如果您单击徽章，调试器将弹出打开您的元素的定义。做得好，火狐开发工具团队！
 
@@ -302,7 +302,7 @@ Enter fullscreen mode Exit fullscreen mode[https://glitch.com/embed/#!/embed/gut
 
 按下按钮会更新定制元素及其阴影子元素上的`src`和`alt`属性。
 
-[![inspector showing synchronized attributes](../Images/1b09e703f4d78d3edab764993173d5f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l7AZurJu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zvwg1ew0c9x96wvw4lds.png)
+[![inspector showing synchronized attributes](img/1b09e703f4d78d3edab764993173d5f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l7AZurJu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zvwg1ew0c9x96wvw4lds.png)
 
 我们的元素现在透明地公开了本机`<img>`元素的主要功能。下一步是添加我们的延迟加载特性。但在此之前，让我们简要讨论一下规范中的最后两个生命周期回调。
 
@@ -324,7 +324,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 定制元素也有一个`adoptedCallback`，每当您对另一个文档或文档片段中的定制元素调用`adoptNode`时，它就会运行。在这种情况下，当元素与原始文档断开连接时，首先会运行元素的`disconnectedCallback`，然后是`adoptedCallback`，最后是连接到文档时的`connectedCallback`。
 
-[![giant 🤷‍♂️ emoji](../Images/23590f990dc5cf9180d3db89770c23f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JaHzMcYi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/facebook/138/man-shrugging_1f937-200d-2642-fe0f.png)
+[![giant 🤷‍♂️ emoji](img/23590f990dc5cf9180d3db89770c23f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JaHzMcYi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/facebook/138/man-shrugging_1f937-200d-2642-fe0f.png)
 
 我认为这主要是针对已经失效的 HTML 导入规范的。如果[或者](https://github.com/w3c/webcomponents/blob/gh-pages/proposals/html-modules-proposal.md)[HTML 模块](https://github.com/w3c/webcomponents/issues/645)的提议被采纳，它很可能变得更加相关。如果你对用例有任何想法，我们会在评论区看到你。
 
@@ -633,7 +633,7 @@ Enter fullscreen mode Exit fullscreen mode[https://glitch.com/embed/#!/embed/aba
 
 | 多填充 | 当地的 |
 | --- | --- |
-| ![the shady tree on a polyfilled browser, containing no style element and generated classes for shadow content](../Images/f276109995d8c752ef81a72a0bdac771.png) | ![the shadow tree on a supporting browser, containing a style tag and no generated class names](../Images/f78729ef4fbb78db7e302368b5b3f481.png) |
+| ![the shady tree on a polyfilled browser, containing no style element and generated classes for shadow content](img/f276109995d8c752ef81a72a0bdac771.png) | ![the shadow tree on a supporting browser, containing a style tag and no generated class names](img/f78729ef4fbb78db7e302368b5b3f481.png) |
 
 ### CSS 自定义属性
 
@@ -756,7 +756,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在我们的 a11y 树非常漂亮整洁，我们的屏幕阅读器用户不会被无关的 DOM 所困扰。
 
-[![accessibility tree screenshot showing one button and two graphics](../Images/da7b953eb68a9aed7e3395c8aab8d0c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qDEJDcuJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xom3p4i5xruc4w49xp1c.png)
+[![accessibility tree screenshot showing one button and two graphics](img/da7b953eb68a9aed7e3395c8aab8d0c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qDEJDcuJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xom3p4i5xruc4w49xp1c.png)
 
 [https://glitch.com/embed/#!/embed/cream-art?previewSize=100&path=index.html](https://glitch.com/embed/#!/embed/cream-art?previewSize=100&path=index.html)
 
@@ -988,7 +988,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 见你便了
 
-您想就此处涉及的任何主题进行一对一的辅导吗？[![Contact me on Codementor](../Images/97f0e0737ce864c47f2412396b01e737.png)T2】](https://www.codementor.io/bennyp?utm_source=github&utm_medium=button&utm_term=bennyp&utm_campaign=github)
+您想就此处涉及的任何主题进行一对一的辅导吗？[![Contact me on Codementor](img/97f0e0737ce864c47f2412396b01e737.png)T2】](https://www.codementor.io/bennyp?utm_source=github&utm_medium=button&utm_term=bennyp&utm_campaign=github)
 
 ## 鸣谢
 
@@ -1001,7 +1001,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 查看本系列的下一篇文章
 
-[![bennypowers](../Images/57370d6f6dab8d6651a3f138a1aaaa40.png)](/bennypowers) [## 让我们构建 Web 组件！第 4 部分:聚合物库
+[![bennypowers](img/57370d6f6dab8d6651a3f138a1aaaa40.png)](/bennypowers) [## 让我们构建 Web 组件！第 4 部分:聚合物库
 
 ### 本尼·鲍尔斯🇮🇱🇨🇦10 月 14 日 1816 分钟阅读
 

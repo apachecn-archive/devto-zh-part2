@@ -67,7 +67,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 样板文件清除
 
-[![literal boiler plat](../Images/6f6d94d5962a0051f65a8486f0abb5b6.png "literal boiler plate")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ghzjy8jx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/z5pXylbl.jpg)
+[![literal boiler plat](img/6f6d94d5962a0051f65a8486f0abb5b6.png "literal boiler plate")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ghzjy8jx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/z5pXylbl.jpg)
 
 另一个问题是`checkWidgetTransfer`返回一个字符串。这将确定错误是否发生的责任推给了调用方法。所有的`checkWidgetTransfer`调用者都需要一个如下所示的部分:
 
@@ -99,7 +99,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 现在有了验证器
 
-[![rocket blasting off](../Images/55a559d34fb98116d2be1da716602d84.png "Blastoff!")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hLPDn-EK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/LxHru8gl.jpg)
+[![rocket blasting off](img/55a559d34fb98116d2be1da716602d84.png "Blastoff!")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hLPDn-EK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/LxHru8gl.jpg)
 
 如果您不必编写任何 if/then/else 语句，会怎么样？如果你只需要写逻辑，而其他东西会处理逻辑串在一起。验证器可以让这成为可能。
 
@@ -132,7 +132,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 只需轻轻一推，我们就能帮助大象进入轨道。我们已经从 发展到包含可组合业务逻辑的纯功能。谢谢你来兜风。我欢迎在 gunnar@gunnargissel.com 的[或 Twitter](mailto:gunnar@gunnargissel.com) 的 [@monknomo 发表评论或反馈](https://twitter.com/monknomo)
 
-[![elephant in space, happy they have cleaned up code](../Images/c557a87890bba81181f615c8278d8ff6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--54GnDS3G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/5Xg3VrRl.jpg)
+[![elephant in space, happy they have cleaned up code](img/c557a87890bba81181f615c8278d8ff6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--54GnDS3G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/5Xg3VrRl.jpg)
 
 **[注册我的电子邮件列表，获取后续系列的更新通知，以及每月有趣的编程和技术领导文章摘要](http://www.gunnargissel.com/pages/email-signup-1.html)**
 

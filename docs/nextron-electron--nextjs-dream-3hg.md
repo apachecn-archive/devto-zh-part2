@@ -82,11 +82,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 **纱线开发**
 
-[![yarn-dev-image](../Images/5e1d84aa4e0bb955d3a91181c4477473.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--awzX519f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dstcbld2xakdq89n0u9n.png)
+[![yarn-dev-image](img/5e1d84aa4e0bb955d3a91181c4477473.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--awzX519f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dstcbld2xakdq89n0u9n.png)
 
 **纱线构建**
 
-[![yarn-build-image](../Images/a4ab4217e8e4ac7322047def6299e0e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uLCsEuzo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3lul0sgeuvd6anq1zysg.png)
+[![yarn-build-image](img/a4ab4217e8e4ac7322047def6299e0e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uLCsEuzo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3lul0sgeuvd6anq1zysg.png)
 
 ## 结论
 

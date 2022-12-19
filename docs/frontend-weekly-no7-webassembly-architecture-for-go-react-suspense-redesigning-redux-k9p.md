@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/wxyyxc1992/frontend-weekly-no7-webassembly-architecture-for-go-react-suspense-redesigning-redux-k9p>
 
-[![周报封面 53.jpg](../Images/8b6c595b5a71643ddb5ed5c0962eca9b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a2xdK6iC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://upload-images.jianshu.io/upload_images/1647496-98fded5608f613d5.jpg%3FimageMogr2/auto-orient/strip%257CimageView2/2/w/1240)
+[![周报封面 53.jpg](img/8b6c595b5a71643ddb5ed5c0962eca9b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a2xdK6iC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://upload-images.jianshu.io/upload_images/1647496-98fded5608f613d5.jpg%3FimageMogr2/auto-orient/strip%257CimageView2/2/w/1240)
 
 与前端开发相关的最佳文章、链接和新闻等，每周发布一次。本期所有参考资料均来自[媒体](https://medium.com/@384924552)、[黑客新闻](https://news.ycombinator.com/news)、 [Reddit](//reddit.com) 、 [Twitter](//twitter.com) 、 [MyBridge](//mybridge.co) 等。
 

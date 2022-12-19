@@ -164,6 +164,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 考虑到这一点，我们现在可以*捕捉*异常**，如果那些是 noDog** 的**实例，我们可以将*这种*错误从*标准错误*中分离出来。**
 
-<center>![wow](../Images/5f8ac49a46ceba96c5ee74f4e4c6de85.png)</center>
+<center>![wow](img/5f8ac49a46ceba96c5ee74f4e4c6de85.png)</center>
 
 <center>COOL</center>

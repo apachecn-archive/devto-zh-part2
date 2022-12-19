@@ -5,11 +5,11 @@
 ## 如何修复
 
 *   用 XCode 打开头文件。
-*   右栏`Target Membership`的`Project`变为`Public`。![](../Images/77bcabc0e2edc786395736bf49b315e7.png)
+*   右栏`Target Membership`的`Project`变为`Public`。![](img/77bcabc0e2edc786395736bf49b315e7.png)
 
 👇
 
-[![](../Images/96309c681942aabb04706bfff210cccc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kIHWJVbR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/123122/0103e1bc-d7c3-618b-d298-42809be82929.png)
+[![](img/96309c681942aabb04706bfff210cccc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kIHWJVbR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/123122/0103e1bc-d7c3-618b-d298-42809be82929.png)
 
 如果有多个头文件，您需要对所有文件都这样做。
 
@@ -32,7 +32,7 @@ Enter fullscreen mode Exit fullscreen mode
 ## 备忘录
 
 如果你添加 Firebase 插件，你需要按照[将 Firebase 添加到你的 iOS 项目| Firebase](https://firebase.google.com/docs/ios/setup) 中所写的那样通过 XCode 添加`GoogleService-Info.plist`。
-[![](../Images/4b0c70eb33601362cbe655823d2bbed2.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--U_i8zni7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/123122/02c5c5ee-90c2-495b-cd3a-24ea4400ecc3.png)
+[![](img/4b0c70eb33601362cbe655823d2bbed2.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--U_i8zni7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/123122/02c5c5ee-90c2-495b-cd3a-24ea4400ecc3.png)
 
 ## 链接
 

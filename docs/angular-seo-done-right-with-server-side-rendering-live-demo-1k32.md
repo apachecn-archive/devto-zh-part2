@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/couellet/angular-seo-done-right-with-server-side-rendering-live-demo-1k32>
 
-[![SEO-Friendly Angular SPA: Universal Server-Side Rendering Tutorial](../Images/50433b0856258a5af8eeee70cd8199f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cPoSzXyb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203638/devdensm-2x.png)
+[![SEO-Friendly Angular SPA: Universal Server-Side Rendering Tutorial](img/50433b0856258a5af8eeee70cd8199f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cPoSzXyb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203638/devdensm-2x.png)
 
 谷歌的 JavaScript 爬行和渲染仍然是一个有点模糊的问题。
 
@@ -31,7 +31,7 @@
 
 ## 何必纠结棱角分明的 SEO？Angular 不是谷歌支持的吗？
 
-[![angular-seo](../Images/40362e1c8b2124ad59fded3232eb5eaa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EYIBzYGN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203693/angular-logo.png)
+[![angular-seo](img/40362e1c8b2124ad59fded3232eb5eaa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EYIBzYGN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203693/angular-logo.png)
 
 [Angular](https://angular.io/) 是 Google 工程师在 2010 年开发的开源 JS 框架。
 

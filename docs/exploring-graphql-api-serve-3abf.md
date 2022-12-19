@@ -68,7 +68,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，当导航到`/graphql`时，我们得到一个不同的错误，但至少我们看到了 GraphiQL 接口
 
-[![](../Images/6b716dee5c6b61f260bc327ed252530d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tYbGB_WR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pn1msbj91l1okhmd7hio.png)
+[![](img/6b716dee5c6b61f260bc327ed252530d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tYbGB_WR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pn1msbj91l1okhmd7hio.png)
 
 ## 使用模式
 
@@ -182,7 +182,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在让我们转到浏览器`http://localhost:4000/graphql`并测试查询。
 
-[![](../Images/2596a64e6a7e8d40de6e7de6676f0475.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--91KLw4X7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3podva0z8zd2h5ndshpf.png)
+[![](img/2596a64e6a7e8d40de6e7de6676f0475.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--91KLw4X7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3podva0z8zd2h5ndshpf.png)
 
 我们需要做的就是打开一个空对象(访问根查询的内容)，然后“进入”`artists`，然后“获取”`ArtistType`
 提供的属性

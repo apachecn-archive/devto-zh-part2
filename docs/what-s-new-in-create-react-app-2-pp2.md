@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/what-s-new-in-create-react-app-2-pp2>
 
-[![](../Images/0b45eb6f0ad4b21474b716eab924e83a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nNCEDFhC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AMmSekcpfVq3Ckath3wlJ_Q.jpeg)
+[![](img/0b45eb6f0ad4b21474b716eab924e83a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nNCEDFhC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AMmSekcpfVq3Ckath3wlJ_Q.jpeg)
 
 [Create React App 2.1](https://github.com/facebook/create-react-app/releases/tag/v2.1.0) ，2018 年 10 月底发布，增加了对 TypeScript 的官方支持。这一点，加上 Create React App 第二版带来的所有改进和特性，大大降低了创建和配置 React App 的复杂性。
 
@@ -18,7 +18,7 @@
 
 关于所有特性的完整列表(和一些突破性的变化)，你可以查看关于这个版本的官方帖子和这个项目的[变更日志](https://github.com/facebook/create-react-app/blob/master/CHANGELOG.md#203-october-1-2018)。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 #### 支持打字稿
 
@@ -62,7 +62,7 @@ class App extends Component {
 
 将引发关于 props 参数类型的错误:
 
-[![](../Images/80b64cc1c8d50585078b6cb47ca850c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KYynpeWt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AD1eYgpP1HejmRs7U)
+[![](img/80b64cc1c8d50585078b6cb47ca850c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KYynpeWt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AD1eYgpP1HejmRs7U)
 
 因为现在，你必须使用 [React 声明一个类型定义。证监会](https://www.sohamkamani.com/blog/react/2018-08-22-using-react-with-typescript/) :
 
@@ -79,7 +79,7 @@ const Content: React.SFC<ContentProps> = (props) => {
 
 如果您的 IDE 支持它(下图中的 Visual Studio 代码)，它会向您显示组件属性的类型，还会捕捉类型错误:
 
-[![](../Images/76ec6afb9c5af9368e24d1dc54a2817b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AVdlpOrk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/556/0%2AbMmEwUtCY8FhwCR3)
+[![](img/76ec6afb9c5af9368e24d1dc54a2817b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AVdlpOrk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/556/0%2AbMmEwUtCY8FhwCR3)
 
 另一方面，要将 TypeScript 添加到现有的 Create React App 应用程序中，首先，手动安装与 TypeScript 相关的包:
 
@@ -97,7 +97,7 @@ Create React App 创建的项目结构保持不变。
 
 首先，文件 src/registerServiceWorker.js 被重命名为 src/serviceWorker.js，现在，在该文件内部，一个 config 对象被传递给函数 registerValidSW 以启用回调 onUpdate 和 onSuccess:
 
-[![](../Images/1c0a1b3f70ac05c1cd01d74bab968a75.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hWghq3x---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A0LAwUAe3CT2yNC64)
+[![](img/1c0a1b3f70ac05c1cd01d74bab968a75.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hWghq3x---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A0LAwUAe3CT2yNC64)
 
 第二个变化是在 src/index.js 中，默认取消注册服务工作者:
 

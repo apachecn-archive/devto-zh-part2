@@ -10,7 +10,7 @@
 
 显然存在自动化工具无法识别的情况，因此我们应该在代码评审中寻找这些情况，但是拥有统一且一致的代码风格绝对不是我们从代码评审中获益的唯一方式。我们绝对应该深入调查。
 
-[![What are Code Reviews for?](../Images/ccb08f83a2a0b5e8f48b4de21303d069.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g7Q_Pyt7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k8pd2qz07xcs0hmllims.jpg)
+[![What are Code Reviews for?](img/ccb08f83a2a0b5e8f48b4de21303d069.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g7Q_Pyt7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k8pd2qz07xcs0hmllims.jpg)
 
 代码审查是一个理想的机会:
 

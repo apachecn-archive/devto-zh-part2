@@ -27,7 +27,7 @@
 
 因此，表格看起来像这样:
 
-[![schedule HTML table](../Images/8ad4485817b83d90e21a02ad61a0a024.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W0Jkpr7i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thatfrankdevcaneast.blob.core.windows.net/public/dev.to/20180409/schedule-screenshot.png)
+[![schedule HTML table](img/8ad4485817b83d90e21a02ad61a0a024.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W0Jkpr7i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thatfrankdevcaneast.blob.core.windows.net/public/dev.to/20180409/schedule-screenshot.png)
 
 现在，我就不赘述 Apify 的工作原理了。只需知道，一旦我知道如何设置爬虫登录和 cookies 保留，我就能够设置开始/伪 URL 和可点击的元素。之后我需要做的是编写他们称之为“页面函数”的代码，即在每次页面抓取时提取数据的函数。看起来是这样的:
 
@@ -155,7 +155,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这段代码将为所有球队的所有比赛生成一个全局 ICS 文件，也为每个球队生成一个。所有这些文件都将存储在 Azure Blob 存储容器中，可以通过它们的 URL 公开访问。以下是我得到的一个片段:
 
-[![ICS files listing](../Images/ae0bfe5044eb3e65c7213d12cb7682b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9WI_Cezw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thatfrankdevcaneast.blob.core.windows.net/public/dev.to/20180409/storage-explorer.png)
+[![ICS files listing](img/ae0bfe5044eb3e65c7213d12cb7682b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9WI_Cezw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thatfrankdevcaneast.blob.core.windows.net/public/dev.to/20180409/storage-explorer.png)
 
 ## 最后，订阅
 
@@ -163,7 +163,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我都准备好了！我现在可以在我的日历应用程序中访问所有即将到来的游戏。我可以设置自定义提醒，过上更快乐、更懒散的生活！
 
-[![Mobile calendar screenshot](../Images/bb9cc494daf7790a2ef1c73e98ae286d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W1bIL55y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thatfrankdevcaneast.blob.core.windows.net/public/dev.to/20180409/mobile-calendar-app-screenshot.png)
+[![Mobile calendar screenshot](img/bb9cc494daf7790a2ef1c73e98ae286d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W1bIL55y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thatfrankdevcaneast.blob.core.windows.net/public/dev.to/20180409/mobile-calendar-app-screenshot.png)
 
 * * *
 

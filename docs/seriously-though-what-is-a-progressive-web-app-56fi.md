@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/amberleyjohanna/seriously-though-what-is-a-progressive-web-app-56fi>
 
-[![](../Images/f25ed4308231c3847ccc2d1009ac3580.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3eOSUXfo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AM8OiLAXoENK7Yi1-2yeQig.png) 
+[![](img/f25ed4308231c3847ccc2d1009ac3580.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3eOSUXfo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AM8OiLAXoENK7Yi1-2yeQig.png) 
 
 <figcaption>[【非官方】社区标识为 PWA](https://medium.com/samsung-internet-dev/we-now-have-a-community-approved-progressive-web-apps-logo-823f212f57c9)</figcaption>
 

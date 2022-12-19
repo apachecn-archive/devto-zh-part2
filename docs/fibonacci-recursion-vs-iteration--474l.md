@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/khalilsaboor/fibonacci-recursion-vs-iteration--474l>
 
-[![Alt:](../Images/58fdee6a47a4d10be109d5472b8678dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OcnjYiFT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5ph41rti8egm6w8ne0lh.jpg)
+[![Alt:](img/58fdee6a47a4d10be109d5472b8678dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OcnjYiFT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5ph41rti8egm6w8ne0lh.jpg)
 
 一个常见的白板问题，我已经被要求解决好几次了，就是**“写一个函数来生成从 0，1 开始的第 n 个斐波那契数”**。然而，在这篇文章中，我想解决这个问题的一个常见的后续问题，那就是什么方法更有效地解决这个问题递归或迭代。
 

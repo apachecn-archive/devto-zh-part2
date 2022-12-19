@@ -4,7 +4,7 @@
 
 ### 用 VirtualBox 和 Genymotion 反应 Native/Expo
 
-[![](../Images/4af20ea69d5ceddaf913bbf14b3182e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nsLV_s8E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A3ik69-pLPMW1iSr76u37sw.png)
+[![](img/4af20ea69d5ceddaf913bbf14b3182e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nsLV_s8E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A3ik69-pLPMW1iSr76u37sw.png)
 
 我的家用电脑运行 Windows 操作系统是为了各种便利，比如玩游戏。然而，对于开发，我运行 Ubuntu 虚拟机(VM)和 Genymotion(在 Windows 上)来测试我的应用程序。Genymotion 也使用 VirtualBox 运行其 Android 模拟器。所以我们解决了如何让运行在同一台主机上的两个虚拟机互相通信(Ubuntu 和 Android Emulator)。
 
@@ -20,7 +20,7 @@
 
 因此，基本上，我们让多个虚拟机相互通信的唯一方法是打开仅用于主机的网络(在所有虚拟机上)。这允许它们与主机通信，主机将充当“桥梁”(没有双关语)。
 
-[![](../Images/5cefe6428c662f08545570f0ec24aa07.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RCetERr1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/511/1%2AUrriO7XXBGn_a-9wwAbyvQ.png)T3】图二:网络图
+[![](img/5cefe6428c662f08545570f0ec24aa07.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RCetERr1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/511/1%2AUrriO7XXBGn_a-9wwAbyvQ.png)T3】图二:网络图
 
 ### 先决条件
 
@@ -38,9 +38,9 @@
 
 NAT 允许 Ubuntu VM 使用主机访问互联网，它允许它与外界通信。仅主机适配器允许 Ubuntu VM 与其他 VM 通信，例如 Genymotion Android 模拟器。
 
-[![](../Images/cd010ba15d7e781194611d3b92a35793.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O-PATqAR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/647/1%2AW1JbTIejKC1rYigUIfZySg.png)
+[![](img/cd010ba15d7e781194611d3b92a35793.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O-PATqAR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/647/1%2AW1JbTIejKC1rYigUIfZySg.png)
 
-[![](../Images/6fa6aea0e8ed5e6b2c29ba44426b0048.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--V7qHlGW4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/647/1%2AbFj3SryuLlej1xe0qSZOJg.png) 
+[![](img/6fa6aea0e8ed5e6b2c29ba44426b0048.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--V7qHlGW4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/647/1%2AbFj3SryuLlej1xe0qSZOJg.png) 
 
 <figcaption>图 1: Ubuntu VM 网络设置</figcaption>
 
@@ -48,9 +48,9 @@ NAT 允许 Ubuntu VM 使用主机访问互联网，它允许它与外界通信�
 
 Genymotion 网络设置与 Ubuntu VM 非常相似，如图 2 所示。请注意，仅主机适配器可以是相同的(即#7)。
 
-[![](../Images/98a01336d5b3921a9fa9e86da53736a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dPGRRqCV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/647/1%2A-kCdd8uvdThdKsUju89m5g.png)
+[![](img/98a01336d5b3921a9fa9e86da53736a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dPGRRqCV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/647/1%2A-kCdd8uvdThdKsUju89m5g.png)
 
-[![](../Images/f7044c2379cb284a340edb156d51cab0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yvQO3j3z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/647/1%2A-F9iQFWcClEcUPpi7h_RaQ.png) 
+[![](img/f7044c2379cb284a340edb156d51cab0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yvQO3j3z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/647/1%2A-F9iQFWcClEcUPpi7h_RaQ.png) 
 
 <figcaption>图 2: Android 模拟器 VM 网络设置</figcaption>
 
@@ -66,13 +66,13 @@ exp start
 exp android 
 ```
 
-[![](../Images/a58c6bdc07cb1c75ad8c0d8936daf340.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--y1TahoGL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/817/1%2AheO6Tlq7Rt3XkaXQWZp4jg.png) 
+[![](img/a58c6bdc07cb1c75ad8c0d8936daf340.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--y1TahoGL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/817/1%2AheO6Tlq7Rt3XkaXQWZp4jg.png) 
 
 <figcaption>图 3: Genymotion Android 模拟器的 IP 地址</figcaption>
 
 好了，现在你应该可以看到你的应用在 Genymotion Android 模拟器上运行了。您可以在下面的图 4 中看到如何启动应用程序。
 
-[![](../Images/1f4c2839307e461159ed7bf63ff6e33b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Dk1yi4G0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AU5PKAS0Kju68SDh9Ph7vxg.gif) 
+[![](img/1f4c2839307e461159ed7bf63ff6e33b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Dk1yi4G0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AU5PKAS0Kju68SDh9Ph7vxg.gif) 
 
 <figcaption>图 4:在安卓模拟器上启动 Expo 应用</figcaption>
 

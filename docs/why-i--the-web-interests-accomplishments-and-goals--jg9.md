@@ -65,9 +65,9 @@ UX 就是根据用户的需求和反馈来做决定。过去几个月，我一�
 
 其次，Aaron gustaf son[@ aarongustaf son](https://dev.to/aarongustafson)正在接受导师申请。
 
-> ![Aaron Gustafson profile image](../Images/6e33436d8f65f01c95d44e420ec3d2ab.png)亚伦·古斯塔夫森[@ aarongustafson](https://dev.to/aarongustafson)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)我能为你的事业效劳吗？我在 9 月 30 日之前接受 2018-2019 年导师的申请。
+> ![Aaron Gustafson profile image](img/6e33436d8f65f01c95d44e420ec3d2ab.png)亚伦·古斯塔夫森[@ aarongustafson](https://dev.to/aarongustafson)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)我能为你的事业效劳吗？我在 9 月 30 日之前接受 2018-2019 年导师的申请。
 > 
-> 2018 年 8 月 15 日下午 18:47[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1029801875284131840)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1029801875284131840)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1029801875284131840)
+> 2018 年 8 月 15 日下午 18:47[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1029801875284131840)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1029801875284131840)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1029801875284131840)
 
 I plan on submitting my application along with this article. If you are looking for a mentor in tech and qualify (please read his article to find out if you do), I encourage you to apply also!
 

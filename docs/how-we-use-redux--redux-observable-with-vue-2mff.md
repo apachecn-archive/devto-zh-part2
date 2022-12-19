@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/couellet/how-we-use-redux--redux-observable-with-vue-2mff>
 
-[![How We Use Redux & Redux-Observable with Vue (v3.0 journal)](../Images/1e704924984810ba7ae78a43d2543675.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AzdlS1fd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203945/redux-vuejs-example-1.jpg)
+[![How We Use Redux & Redux-Observable with Vue (v3.0 journal)](img/1e704924984810ba7ae78a43d2543675.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AzdlS1fd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203945/redux-vuejs-example-1.jpg)
 
 当涉及到重构一个技术栈时，我们经常声称要谨慎。
 

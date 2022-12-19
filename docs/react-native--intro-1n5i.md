@@ -6,9 +6,9 @@
 
 嗯……我们被指示打开 **App.js** 并进行修改。那么，让我们来看看项目文件夹。
 
-[![](../Images/206c75b7281a994bbe128c992f97ee93.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qOpB0Th0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/538/1%2A5taeffaDQ4KwCq98Tf1g2g.png)
+[![](img/206c75b7281a994bbe128c992f97ee93.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qOpB0Th0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/538/1%2A5taeffaDQ4KwCq98Tf1g2g.png)
 
-[![](../Images/17a48450fec93a470f7a04b31b4c4862.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--E06znvF6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/304/1%2AaC-F0fHpOv5qTmZ5L0L-8Q.png) 
+[![](img/17a48450fec93a470f7a04b31b4c4862.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--E06znvF6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/304/1%2AaC-F0fHpOv5qTmZ5L0L-8Q.png) 
 
 <figcaption>项目文件夹结构和初始屏幕—使用 create-react-native-app</figcaption>
 

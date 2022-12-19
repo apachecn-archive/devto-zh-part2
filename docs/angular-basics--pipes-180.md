@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kritner/angular-basics--pipes-180>
 
-[![](../Images/167376f98eeda2bf06590901f05908e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aIaj3CFg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/250/0%2AlJSPbTA4XhBThbML.png)
+[![](img/167376f98eeda2bf06590901f05908e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aIaj3CFg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/250/0%2AlJSPbTA4XhBThbML.png)
 
 最近，我开始为我的太阳能投影页面[http://www.kritner.com/solar-projection/](http://www.kritner.com/solar-projection/)摆弄 Angular，并认为我应该记录一些我摆弄“新”技术的经历——至少相对而言。
 
@@ -120,6 +120,6 @@
 
 看起来像这样:
 
-[![](../Images/2472c58bf2e05b385089b1b50284e3c3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9GI5RAx0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/702/1%2AkWFCTJX0jRB3nX753Nb8rw.png) 
+[![](img/2472c58bf2e05b385089b1b50284e3c3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9GI5RAx0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/702/1%2AkWFCTJX0jRB3nX753Nb8rw.png) 
 
 <figcaption>管道应用数据</figcaption>

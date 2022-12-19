@@ -6,7 +6,7 @@
 
 成千上万的开发者现在使用 Anymod 的在线编辑器来构建模块化功能，并将其添加到任何网站上。
 
-[![](../Images/c9d2f5fbc7d8b6dc06e22c8c0cea4d25.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DBhk2HZK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/component/image/upload/b_rgb:1f2223%2Cc_pad%2Ch_250%2Cw_600/v1540832245/landing_uq0qgl.gif)
+[![](img/c9d2f5fbc7d8b6dc06e22c8c0cea4d25.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DBhk2HZK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/component/image/upload/b_rgb:1f2223%2Cc_pad%2Ch_250%2Cw_600/v1540832245/landing_uq0qgl.gif)
 
 那么 **v2** 有什么新内容？
 

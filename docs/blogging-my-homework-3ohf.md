@@ -24,17 +24,17 @@
 
 我喜欢你的反馈和建议，希望你也能从我这里学到一些东西！
 
-[![booyaa image](../Images/61a3616839cf1e924b5e2d7b8ba7d625.png)](/booyaa) [## 做一只刺猬-第一部分
+[![booyaa image](img/61a3616839cf1e924b5e2d7b8ba7d625.png)](/booyaa) [## 做一只刺猬-第一部分
 
 ### 标记 Sta Ana Sep 18 ' 18 15 分钟读取
 
 #learning #study #react #webappdev](/booyaa/web-app-development-core-skill-hedgehog---part-one-2144)
-[![booyaa image](../Images/61a3616839cf1e924b5e2d7b8ba7d625.png)](/booyaa) [## 做一只刺猬-第二部分
+[![booyaa image](img/61a3616839cf1e924b5e2d7b8ba7d625.png)](/booyaa) [## 做一只刺猬-第二部分
 
 ### 标记 Sta Ana Sep 21 ' 186min read
 
 #learning #study #react #webappdev](/booyaa/web-app-development-core-skill-hedgehog---part-two-3p1i)
-[![booyaa image](../Images/61a3616839cf1e924b5e2d7b8ba7d625.png)](/booyaa) [## 像狐狸一样狡猾
+[![booyaa image](img/61a3616839cf1e924b5e2d7b8ba7d625.png)](/booyaa) [## 像狐狸一样狡猾
 
 ### 标记 Sta Ana Sep 28 ' 184min read
 

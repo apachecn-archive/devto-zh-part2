@@ -19,7 +19,7 @@
 
 横切关注点是在程序的许多部分重复的代码，但是这些代码与程序的主要功能无关。典型的例子是日志和加密。
 
-[![Cross-cutting Concern](../Images/95d46f1fa5a945797c49a352668a2599.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xtJxf22b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iidolqblzf7tei7j0pa5.png)
+[![Cross-cutting Concern](img/95d46f1fa5a945797c49a352668a2599.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xtJxf22b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iidolqblzf7tei7j0pa5.png)
 
 隔离横切关注点是*不要重复自己*(干)的一个例子。它加速了开发，保持了非功能需求(nfr)在大型团队中的一致性，并简化了审计和测试。
 
@@ -29,7 +29,7 @@
 
 `HttpInterceptor`是 Angular 4.3 中引入的中间件概念，是`@angular/common/http`的一部分。框架类`HttpClient`可以在模块初始化时配置一个或多个`HttpInterceptors`。`HttpClient`根据注册的顺序将`HttpInterceptors`链在一起。每个拦截器都有机会在离开时修改`HttpRequest`,在返回时修改`HttpResponse`。该链通过调用框架类`HttpService`结束，该框架类发送`HttpRequest`并监听`HttpResponse`。
 
-[![HTTPInterceptor](../Images/6ce5b3a51853d0516c3ba1b80329fc4d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BKnCZ-Pu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9opapaapr40b0k16vix6.jpeg)
+[![HTTPInterceptor](img/6ce5b3a51853d0516c3ba1b80329fc4d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BKnCZ-Pu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9opapaapr40b0k16vix6.jpeg)
 
 `HttpInterceptor`提供了一个干净的、支持良好的机制来将定制逻辑插入 HTTP 管道。
 
@@ -72,7 +72,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 拦截器将消息`api/quotes/1 has been intercepted!`记录到控制台。
 
-[![Console Intercepted 1](../Images/18e9cbac525266064a81f2c83d46af4a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m5dFDXzU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qjtum3jff6snw2172wdn.png)
+[![Console Intercepted 1](img/18e9cbac525266064a81f2c83d46af4a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m5dFDXzU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qjtum3jff6snw2172wdn.png)
 
 ## 添加客户端加密
 
@@ -110,7 +110,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 `IronHttpInterceptor`将记录一些消息，表明请求和响应不应该被加密。
 
-[![Console Pre Decrypt 2](../Images/8931a37ebeea53f423cdb0929a6f5457.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O1R5PwRi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eaw3h2lsu74lnsb8yix7.png)
+[![Console Pre Decrypt 2](img/8931a37ebeea53f423cdb0929a6f5457.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O1R5PwRi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eaw3h2lsu74lnsb8yix7.png)
 
 ## 隐私政策
 
@@ -138,7 +138,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 拦截器会在 HTTP POST 和 PUT 上加密`Order`，在 HTTP GET 上解密。其他数据类型的请求和响应将通过拦截器而不被修改。
 
-[![IronHTTPInterceptor](../Images/afd434b615dcce75d1929c691ecca148.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DEKPq4Br--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uz1tg6pj8degs2oj5afb.jpg)
+[![IronHTTPInterceptor](img/afd434b615dcce75d1929c691ecca148.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DEKPq4Br--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uz1tg6pj8degs2oj5afb.jpg)
 
 启动[角铁往返栈](https://stackblitz.com/edit/angular-ironcore-round-trip)提交指令加密。
 
@@ -146,7 +146,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 StackBlitz 将展示如何自动加密`POST`请求和自动解密`GET`请求。
 
-[![Console Post Encrypt 3](../Images/3bc70879e1f1e213100e3106f89127c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VkMe8Tl5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2rad6sror5umrycdm97b.png)
+[![Console Post Encrypt 3](img/3bc70879e1f1e213100e3106f89127c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VkMe8Tl5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2rad6sror5umrycdm97b.png)
 
 ## 数据分类
 
@@ -229,19 +229,19 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们看一些信息图来解释这个概念。在这里，我们在数据的来源点将数据加密到一个数据分类*(例如，个人健康信息)*。
 
-[![Data Classification 1](../Images/22e6c14c497b97aedec9ceeb276dc5b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GHoDgh00--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dgwokqerm2bxza8cce45.png)
+[![Data Classification 1](img/22e6c14c497b97aedec9ceeb276dc5b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GHoDgh00--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dgwokqerm2bxza8cce45.png)
 
 稍后，我们通过加密操作将用户添加到该数据分类或组，来决定谁有权访问该数据分类或组。
 
-[![Data Classification 2](../Images/c5c02aefb6df6210facf310f44c4bbf9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cYQznYGw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vg2oyeiemdn814gtyedk.jpeg)
+[![Data Classification 2](img/c5c02aefb6df6210facf310f44c4bbf9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cYQznYGw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vg2oyeiemdn814gtyedk.jpeg)
 
 还有一个通过从数据分类或组中删除用户来撤销用户访问的加密操作。
 
-[![Data Classification 3](../Images/197175942bdbcd1d33ceb8d826e6e0b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--flgvCEXL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tw8u7o0mzichbbqyadcy.jpeg)
+[![Data Classification 3](img/197175942bdbcd1d33ceb8d826e6e0b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--flgvCEXL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tw8u7o0mzichbbqyadcy.jpeg)
 
 还有一个加密操作来授予组访问权限和委托管理。
 
-[![Data Classification 4](../Images/4e9214900de1a9a7a14fca5a8e007d63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kc2ZW9pa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9s1jpt0aq6ss9320lvg8.jpeg)
+[![Data Classification 4](img/4e9214900de1a9a7a14fca5a8e007d63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kc2ZW9pa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9s1jpt0aq6ss9320lvg8.jpeg)
 
 虽然为了有效地使用它，没有必要理解密码支持的正交访问控制是如何工作的，但是许多开发人员想知道。下面我们来探讨一下。
 
@@ -269,7 +269,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果数据对多个用户加密，则必须用每个用户的公钥分别加密。要撤销用户访问，我们必须拥有并更改底层数据(及其所有副本)。
 
-[![Asymmetric Public Key Crypto](../Images/2ac113373db69c4f17d018b9f0e508ca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mbB7yOUh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m9k22cs5tk4mxnktgbaw.jpeg)
+[![Asymmetric Public Key Crypto](img/2ac113373db69c4f17d018b9f0e508ca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mbB7yOUh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m9k22cs5tk4mxnktgbaw.jpeg)
 
 ### 变换加密
 
@@ -277,7 +277,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 明文使用*组公钥*加密，这是标准的公钥加密。
 
-[![Encrypt to Group](../Images/e226e09796e724e53f1568213b9fd9a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GFlOm1Rd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ws7kjdjdap2gj5cnwuxv.jpeg)
+[![Encrypt to Group](img/e226e09796e724e53f1568213b9fd9a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GFlOm1Rd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ws7kjdjdap2gj5cnwuxv.jpeg)
 
 使用一个*转换密钥*将密文从组密文转换成成员密文。在转换过程中，密文永远不会被解密，从而允许由盲服务来执行转换。
 
@@ -285,11 +285,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 该服务为审计访问提供了一个天然的场所，因为解密数据需要转换。该服务还提供了一个自然的撤销点，因为成员访问需要一个转换密钥。
 
-[![Group to User Transform](../Images/e53434615a2dd974313558824f40b834.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l3PQxjTm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/20ajbrtoi0gjkir7vp28.jpeg)
+[![Group to User Transform](img/e53434615a2dd974313558824f40b834.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l3PQxjTm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/20ajbrtoi0gjkir7vp28.jpeg)
 
 只有组管理员可以生成转换密钥，该密钥是从组私钥和成员公钥派生的。通过生成和删除变换关键帧，组管理员能够添加和删除组成员。这些操作可以在不需要改变甚至不需要拥有底层数据的情况下执行。
 
-[![Transform Key Generation](../Images/d9b8552e6b752079d98b82aee404cb01.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nCpjsDGP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/230wkaxmr4iijec6vp0y.jpeg)
+[![Transform Key Generation](img/d9b8552e6b752079d98b82aee404cb01.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nCpjsDGP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/230wkaxmr4iijec6vp0y.jpeg)
 
 组管理员无法解密加密到组的数据。这种能够管理组但不能解密底层数据的特性是用密钥扩充算法加密实现的。参见 ACM 论文[密码强制正交访问控制了解详情](https://docs.ironcorelabs.com/cryptography/index.html#acm-paper)。
 
@@ -309,23 +309,23 @@ Enter fullscreen mode Exit fullscreen mode
 
 在加密过程中，会生成一个随机 AES 密钥作为文档加密密钥(DEK)。数据用这个密钥加密。
 
-[![Encrypt Document](../Images/7087e5224f0ea4aefa5adec5711eea13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bk3t4V72--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yh3tz789uu3v4v7x7aom.jpeg)
+[![Encrypt Document](img/7087e5224f0ea4aefa5adec5711eea13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bk3t4V72--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yh3tz789uu3v4v7x7aom.jpeg)
 
 然后用公钥对 DEK 进行加密。加密的 DEK 可以与数据一起存储或存储在其他地方。
 
-[![Encrypt Document Key](../Images/14e09a0c95c55327980cd7d331ac4b8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XA02RrRP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a19nmujhuvrf2ucyu1wn.jpeg)
+[![Encrypt Document Key](img/14e09a0c95c55327980cd7d331ac4b8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XA02RrRP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a19nmujhuvrf2ucyu1wn.jpeg)
 
 在转换加密中，该服务将加密的 DEK 从组转换为用户。转换密钥用于执行“DEK 加密到组”到“DEK 加密到用户”的映射，DEK 从不解密。
 
-[![Transform Encrypted DEK](../Images/629dc3cb2b607abd1725fbd16fb51399.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oWnvHJZJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dyopdznz0ikkvt90dqpb.jpeg)
+[![Transform Encrypted DEK](img/629dc3cb2b607abd1725fbd16fb51399.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oWnvHJZJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dyopdznz0ikkvt90dqpb.jpeg)
 
 在我们转换了加密的 DEK 之后，用户的私钥被用来恢复 DEK 对称密钥。
 
-[![Decrypt Encrypted DEK](../Images/d3b2866f34b09edc4fa07c0929a7f642.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t7U_Sq35--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zcdt3zahc161ldl467bs.jpeg)
+[![Decrypt Encrypted DEK](img/d3b2866f34b09edc4fa07c0929a7f642.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t7U_Sq35--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zcdt3zahc161ldl467bs.jpeg)
 
 然后，未加密的 DEK 用于解密底层数据。
 
-[![Decrypt Encrypted Document](../Images/e508c230b0b677b76d5c8b3c7d2d2929.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YhWK1uV8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2dpqkpg6kjagzwya13ks.jpeg)
+[![Decrypt Encrypted Document](img/e508c230b0b677b76d5c8b3c7d2d2929.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YhWK1uV8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2dpqkpg6kjagzwya13ks.jpeg)
 
 加密的 DEK 很小，最大限度地减少了网络流量，使转换成为轻量级操作。由于 DEK 是对称密钥，解密速度更快。
 

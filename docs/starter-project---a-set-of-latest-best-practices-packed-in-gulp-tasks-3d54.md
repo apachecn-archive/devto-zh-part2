@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/starbist/starter-project---a-set-of-latest-best-practices-packed-in-gulp-tasks-3d54>
 
-[![Starter Package cover](../Images/4cf694a9652cf191efda4dbf3ddeb3b6.png)T2】](//res.cloudinary.com/starbist/image/upload/v1521878764/starter-project_vr5fq4.png)
+[![Starter Package cover](img/4cf694a9652cf191efda4dbf3ddeb3b6.png)T2】](//res.cloudinary.com/starbist/image/upload/v1521878764/starter-project_vr5fq4.png)
 
 *这篇文章最初发表于 [silvestar.codes](https://www.silvestar.codes/articles/starter-project-a-set-of-latest-best-practices-packed-in-gulp-tasks/) 。*
 
@@ -34,7 +34,7 @@ Starter Package 也是一个静态页面生成器，非常简单。最初的网�
 
 该包应该作为开发依赖项使用。这将允许您更新包并更有效地维护您的项目。
 
-[![package.json file](../Images/246ff3f0fa60ae39af1e0bbe321c0edc.png)T2】](//res.cloudinary.com/starbist/image/upload/v1497509218/code_g0esoz.png)
+[![package.json file](img/246ff3f0fa60ae39af1e0bbe321c0edc.png)T2】](//res.cloudinary.com/starbist/image/upload/v1497509218/code_g0esoz.png)
 
 ## 用法
 
@@ -62,7 +62,7 @@ Starter project 针对不同的环境提供了三种不同的 Gulp 命令:
 
 Starter Project 是可配置的，应该能够在每个项目中运行，不管是什么架构。主配置文件可以在项目的根目录`config.json`中找到。对于每个任务，都有一个选项`run`。如果设置为 true，任务将运行。例如，你可以关闭 [`penthouse`](https://www.npmjs.com/package/gulp-penthouse) ，一个用于生成关键 CSS 的库。
 
-[![penthouse config](../Images/d6312e86277d83432eda1e0e71559201.png)T2】](//res.cloudinary.com/starbist/image/upload/v1497509218/code2_mxkqcq.png)
+[![penthouse config](img/d6312e86277d83432eda1e0e71559201.png)T2】](//res.cloudinary.com/starbist/image/upload/v1497509218/code2_mxkqcq.png)
 
 点击阅读更多关于配置[的信息。](https://starter.silvestarbistrovic.from.hr/configuration/)
 

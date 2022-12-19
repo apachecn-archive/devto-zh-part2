@@ -66,11 +66,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 有用！
 
-[![Screenshot_2016-10-07_01-26-59.png](../Images/887a6045c4d8b194279ef98fb8cfaa6d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5BDF0-Jm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/103885/078982d6-5daa-263a-2542-50e0c1c6f2f4.png)
+[![Screenshot_2016-10-07_01-26-59.png](img/887a6045c4d8b194279ef98fb8cfaa6d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5BDF0-Jm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/103885/078982d6-5daa-263a-2542-50e0c1c6f2f4.png)
 
 为了检查主机和客户机的交互，让我们运行`dired` emacs 文件浏览器。
 
-[![Screenshot_2016-10-07_01-30-31.png](../Images/166cd6843a05b571818f2dc0c3c8f3f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eYEtC7K_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/103885/fdc59c7a-6144-975f-4ee4-04f17240baa9.png)
+[![Screenshot_2016-10-07_01-30-31.png](img/166cd6843a05b571818f2dc0c3c8f3f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eYEtC7K_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/103885/fdc59c7a-6144-975f-4ee4-04f17240baa9.png)
 
 是，主机的`$HOME`已安装到容器中。
 在容器中这些文件的所有者被识别为 Docker 执行用户(emacs)。因为 UID `1000`匹配。

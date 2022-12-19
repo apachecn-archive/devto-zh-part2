@@ -29,19 +29,19 @@ PoC 利用 MANO 进行自动化网络服务生命周期管理以及端到端服�
 
 作为此 PoC 的示例案例，考虑包含三个不同切片的网络切片场景，这三个切片具有不同类型的特征、客户输出和 KPI，以满足服务提供商提供的服务的要求。在本例中，涉及的部分包括:移动宽带有一个重要的 KPI，即吞吐量，大规模物联网的目标 KPI 是数据包丢失，工业自动化的目标 KPI 是延迟。
 
-[![PoC Example](../Images/e22560b3f43e69964fe11b72a388777b.png "PoC Example")](https://res.cloudinary.com/practicaldev/image/fetch/s--AOgFGCkD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.calsoftinc.com/wp-content/uploads/2018/10/PoC-Example.png)T3】
+[![PoC Example](img/e22560b3f43e69964fe11b72a388777b.png "PoC Example")](https://res.cloudinary.com/practicaldev/image/fetch/s--AOgFGCkD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.calsoftinc.com/wp-content/uploads/2018/10/PoC-Example.png)T3】
 
 <center>Fig – PoC Example</center>
 
 ETSI 开源 MANO 与 RIFT 结合使用。IO 的 RIFT.ware 解决方案用于 NFV 流程编排，而 OpenStack 用作虚拟基础架构管理器(VIM)。
 
-[![PoC demo architecture](../Images/08f636c7905408e6ae6bff2c3a5e4ea8.png "PoC demo architecture")](https://res.cloudinary.com/practicaldev/image/fetch/s--e7S-Kh83--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.calsoftinc.com/wp-content/uploads/2018/10/PoC-Architecture.png)T3】
+[![PoC demo architecture](img/08f636c7905408e6ae6bff2c3a5e4ea8.png "PoC demo architecture")](https://res.cloudinary.com/practicaldev/image/fetch/s--e7S-Kh83--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.calsoftinc.com/wp-content/uploads/2018/10/PoC-Architecture.png)T3】
 
 <center>Fig – PoC demo architecture</center>
 
 为了测试和确保网络服务的预期服务质量水平，并能够测量网络片的 KPI，Netround 的 VTA(虚拟测试代理)被部署为服务的一部分。这些测试代理用于主动生成流量、分析细节以及跨服务应用和接口进行实时测量。VTA 通过 Netrounds 的统一控制中心进行远程控制和更新，该中心由 Netrounds 端或内部托管。以下是示例网络服务的外观
 
-[![Network service with virtual test agents](../Images/b85e768465d4ea78be4765353f4739ea.png "PoC demo architecture")](https://res.cloudinary.com/practicaldev/image/fetch/s--RjNWe0ZO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.calsoftinc.com/wp-content/uploads/2018/10/Network-service-with-virtual-test-agents.png)T3】
+[![Network service with virtual test agents](img/b85e768465d4ea78be4765353f4739ea.png "PoC demo architecture")](https://res.cloudinary.com/practicaldev/image/fetch/s--RjNWe0ZO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.calsoftinc.com/wp-content/uploads/2018/10/Network-service-with-virtual-test-agents.png)T3】
 
 <center>Fig – Network service with virtual test agents</center>
 
@@ -49,4 +49,4 @@ ETSI 开源 MANO 与 RIFT 结合使用。IO 的 RIFT.ware 解决方案用于 NFV
 
 对于由不同但有针对性的服务链组成的 5G 网络切片的大规模实施，可以通过支持自动化操作的 DevOps 进行实时监控和测试来实现主动的端到端服务保证。此 PoC 的关键部分是部署虚拟测试代理，作为网络服务链的一部分，以在服务的生命周期中保持关注。它可以向控制中心发送有关服务运行状况的实时信息。
 
-您可以从发布在 [ETSI OSM 网站](https://osm.etsi.org/wikipub/index.php/OSM_PoC_1_-_DevOps_in_Service_Chains_and_5G_Network_Slices)上的这份[白皮书](https://osm.etsi.org/wikipub/images/3/3c/PoC_1_White_Paper.pdf)中获得关于此概念验证的更多细节，并在此观看现场演示[。](https://www.youtube.com/watch?v=_7dPGIQOD7s)
+您可以从发布在 [ETSI OSM 网站](https://osm.etsi.org/wikipub/index.php/OSM_PoC_1_-_DevOps_in_Service_Chains_and_5G_Network_Slices)上的这份[白皮书](https://osm.etsi.org/wikipimg/3/3c/PoC_1_White_Paper.pdf)中获得关于此概念验证的更多细节，并在此观看现场演示[。](https://www.youtube.com/watch?v=_7dPGIQOD7s)

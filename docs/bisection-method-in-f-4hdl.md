@@ -21,7 +21,7 @@
 
 从图形上看，二分法是这样的:
 
-[![bisection_graphical](../Images/f33dd5577ed54ae9acef38b042701232.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HnQAj4hG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x9hvxcxn5kzzhehsdiqg.gif) 
+[![bisection_graphical](img/f33dd5577ed54ae9acef38b042701232.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HnQAj4hG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x9hvxcxn5kzzhehsdiqg.gif) 
 *(Imagen 摘自内布拉斯加大学林肯分校的计算机科学与工程网站。)*
 
 一些读者可能已经注意到，这个算法类似于 ***二分搜索法算法*** 。

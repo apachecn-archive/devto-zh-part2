@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/joshzaldana/3-tools-to-enhance-your-email-workflow-55l6>
 
-[![Alt text of image](../Images/5e2c78cd08e61bcc77d3c71d9fe8fc43.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aTyKLhIS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/fN8tMK/programmer.jpg)
+[![Alt text of image](img/5e2c78cd08e61bcc77d3c71d9fe8fc43.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aTyKLhIS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/fN8tMK/programmer.jpg)
 
 ### **#1 使用任务运行器**
 

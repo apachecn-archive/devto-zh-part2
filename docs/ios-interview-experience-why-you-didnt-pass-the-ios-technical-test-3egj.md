@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/essentialdeveloper/ios-interview-experience-why-you-didnt-pass-the-ios-technical-test-3egj>
 
-[![thumbnail.png](../Images/945bac3ef245750e64ad4018bda1fcca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C-ysc0g2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5bcdb144e4966bca9c928048/1540206947336/thumbnail.png%3Fformat%3D1000w)
+[![thumbnail.png](img/945bac3ef245750e64ad4018bda1fcca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C-ysc0g2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5bcdb144e4966bca9c928048/1540206947336/thumbnail.png%3Fformat%3D1000w)
 
 在 Essential Developer，我们帮助许多开发人员经历 iOS 面试体验。最近，我们从我们社区的一名成员那里收到了这条消息:
 

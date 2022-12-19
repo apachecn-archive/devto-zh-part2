@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/samjarman/its-time-lets-rename-soft-skills-76j>
 
-[![Not soft skills, core skills](../Images/58334bb6431cf9a48b85f7c4efc8154e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lgdiWCih--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/32944y90imo67rivrqix.png)
+[![Not soft skills, core skills](img/58334bb6431cf9a48b85f7c4efc8154e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lgdiWCih--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/32944y90imo67rivrqix.png)
 
 你好，
 

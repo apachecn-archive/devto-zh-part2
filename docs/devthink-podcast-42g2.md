@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nikola/devthink-podcast-42g2>
 
-[![](../Images/b424703a49a8592457fb06ecb98c93ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W2d5nxJR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5n0wglqfocyd76ilpnw7.png)
+[![](img/b424703a49a8592457fb06ecb98c93ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W2d5nxJR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5n0wglqfocyd76ilpnw7.png)
 
 我非常高兴地宣布，我的朋友(兼同事)肖恩·米洛契克和我开始了我们自己的播客，名为 [DevThink](https://dev.to/devthink) 。
 

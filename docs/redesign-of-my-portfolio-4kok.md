@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/dhavalwd/redesign-of-my-portfolio-4kok>
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)/[达瓦尔维亚斯](https://github.com/dhavalwd/dhavalvyas)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)/[达瓦尔维亚斯](https://github.com/dhavalwd/dhavalvyas)
 
 ### Dhaval Vyas 个人作品集和博客
 
@@ -10,7 +10,7 @@
 
 # 个人投资组合
 
-[![Greenkeeper badge](../Images/65d1865f98416b37c4a14b2442026b93.png)](https://greenkeeper.io/)[![Build Status](../Images/32b33e23b65130b1b834070402ac5a81.png)](https://travis-ci.com/dhavalwd/dhavalvyas)[![Codacy Badge](../Images/e86de7845ef1a247700d1b757d2652c7.png)](https://www.codacy.com/project/dhavalwd/dhavalvyas/dashboard?utm_source=github.com&utm_medium=referral&utm_content=dhavalwd/dhavalvyas&utm_campaign=Badge_Grade_Dashboard)
+[![Greenkeeper badge](img/65d1865f98416b37c4a14b2442026b93.png)](https://greenkeeper.io/)[![Build Status](img/32b33e23b65130b1b834070402ac5a81.png)](https://travis-ci.com/dhavalwd/dhavalvyas)[![Codacy Badge](img/e86de7845ef1a247700d1b757d2652c7.png)](https://www.codacy.com/project/dhavalwd/dhavalvyas/dashboard?utm_source=github.com&utm_medium=referral&utm_content=dhavalwd/dhavalvyas&utm_campaign=Badge_Grade_Dashboard)
 
 由[达瓦尔·维亚斯](https://dhavalvyas.me)创作
 

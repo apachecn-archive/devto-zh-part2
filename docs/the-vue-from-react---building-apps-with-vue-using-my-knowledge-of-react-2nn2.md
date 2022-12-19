@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/iwilsonq/the-vue-from-react---building-apps-with-vue-using-my-knowledge-of-react-2nn2>
 
-[![view](../Images/6ccf701581f395e94c0ccd100fcda951.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jf-h1vZ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1507058868659-0a799c039186%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D94c4e53bf90ee9e6783e7e950c29166b%26auto%3Dformat%26fit%3Dcrop%26w%3D750%26q%3D80)
+[![view](img/6ccf701581f395e94c0ccd100fcda951.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jf-h1vZ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1507058868659-0a799c039186%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D94c4e53bf90ee9e6783e7e950c29166b%26auto%3Dformat%26fit%3Dcrop%26w%3D750%26q%3D80)
 
 几周前，我有了一个疯狂的想法，想尝试一个新的前端框架，它不是 React。鉴于最近 Vue 背后的大肆宣传，我认为这将是一个很好的机会来弄脏它。
 

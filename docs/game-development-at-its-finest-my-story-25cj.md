@@ -2,13 +2,13 @@
 
 > 原文：<https://dev.to/k1pash/game-development-at-its-finest-my-story-25cj>
 
-[![One of  my projects](../Images/2a5ec99b28d22340b372b471bf560162.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WulZsnGO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/DHL_Fs0XgAERFWs.jpg)
+[![One of  my projects](img/2a5ec99b28d22340b372b471bf560162.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WulZsnGO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/DHL_Fs0XgAERFWs.jpg)
 
 ## 故事
 
 一切都是从我第一个游戏的创作开始的。我大约 14 岁。我已经知道这一定是一款 2D 游戏，大约在那个时候，我开始关注老派游戏。GTA 1 引起了我的注意，所以我选择了它。美好的时光。我真的认为开发这个游戏是我最享受的...从我创作的所有游戏中。巨大的快乐和奉献。再也没有这种感觉了...很有意思。新项目一个接一个地开始了。
 
-[![One of  my projects](../Images/4de52836e4fa0e87492e380366f93dd9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--acwMSK-s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://krystof-toman.webnode.cz/_files/200000037-257ac26790/GTA.b%2520Photo01.png)
+[![One of  my projects](img/4de52836e4fa0e87492e380366f93dd9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--acwMSK-s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://krystof-toman.webnode.cz/_files/200000037-257ac26790/GTA.b%2520Photo01.png)
 
 直到我进入了一个黑暗的地方。我 16 岁，父母强迫我去找工作。但是在快餐店工作的想法不适合我。我做了一个决定，我唯一的收入将来自游戏开发。我们争论过，但幸运的是，时间流逝...
 

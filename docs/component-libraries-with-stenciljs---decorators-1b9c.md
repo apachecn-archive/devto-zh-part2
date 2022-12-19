@@ -80,7 +80,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![ugly tabs](../Images/b9c5e7fbaac5d82ff2574afb602bb18a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DdRIshr5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/letmyd1b9om047ggsik3.png)
+[![ugly tabs](img/b9c5e7fbaac5d82ff2574afb602bb18a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DdRIshr5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/letmyd1b9om047ggsik3.png)
 
 这显然看起来很丑，一点也不像选项卡，但这是一个开始，我们只需要将它们设计得更好一点。我们再加几个简单的款式，让它们看起来很美。
 
@@ -114,7 +114,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们在这里做了一些你可以解决的事情，但是基本上我们移除了按钮的样式，调整了字体，然后在标签激活时在底部添加了一个漂亮的边框。我们还做了一个有趣的小悬停边框，当悬停在一个既没有禁用也没有激活的标签上时，它会变成浅灰色。我们当然也定义了一个被禁用的标签看起来像什么。
 
-[![](../Images/36e7648641c83985fa6a5018a7597b48.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v5rNc0rw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ffj2pxio671oda9zd78c.png)
+[![](img/36e7648641c83985fa6a5018a7597b48.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v5rNc0rw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ffj2pxio671oda9zd78c.png)
 
 现在我们的标签看起来像真正的标签，但它们也是硬编码的。我们希望能够指定我们想要多少选项卡，以及定制他们的标签。这里是我们进入其他装饰者的地方。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/inaramoza/zombs-io-game-29jc>
 
-[![zombs io wallpaper](../Images/d7fd95a313a10ac5ccac7f7ca00093f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IKhLJ3f7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/XQgaEoJ.jpg)
+[![zombs io wallpaper](img/d7fd95a313a10ac5ccac7f7ca00093f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IKhLJ3f7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/XQgaEoJ.jpg)
 
 僵尸木卫一是关于僵尸的多人游戏，你周围的世界处于危险之中。你的任务是建立一个僵尸无法进入的基地。
 

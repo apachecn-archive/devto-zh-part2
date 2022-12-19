@@ -6,7 +6,7 @@
 
 一个移动应用程序，允许用户使用谷歌地图小工具共享他们的位置。单击“共享位置”按钮，包含用户当前位置的地图小部件将在中央聊天框中实时呈现给所有连接的用户。为了识别每个用户的位置，我将提供的用户名放在地图标记上，指向他们的位置。
 
-[![alt google images](../Images/db6b77326cf5ba6ec83526a080f01eca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V5wx5fOt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zhbrqoqw6x0j5z7b9zu0.jpg)
+[![alt google images](img/db6b77326cf5ba6ec83526a080f01eca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V5wx5fOt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zhbrqoqw6x0j5z7b9zu0.jpg)
 
 ## 有用性
 

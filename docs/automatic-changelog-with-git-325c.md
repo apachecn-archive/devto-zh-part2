@@ -10,7 +10,7 @@
 
 对于从来不敢接触。git 文件夹中，驻留着*钩子*文件夹。在这个文件夹中，你会发现一系列可以被激活的脚本，它们将在 git 操作上运行，让我们来看看。
 
-<figure>[![](../Images/97f5a2f23bfa6aae8250d8fc4e3d50ba.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EtNw65Zf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AZjDNxMxwK6K515ack60QYg.png) 
+<figure>[![](img/97f5a2f23bfa6aae8250d8fc4e3d50ba.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EtNw65Zf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AZjDNxMxwK6K515ack60QYg.png) 
 
 <figcaption>的内容。git/hooks 子文件夹</figcaption>
 

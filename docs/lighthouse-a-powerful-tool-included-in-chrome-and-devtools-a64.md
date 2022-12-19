@@ -11,12 +11,12 @@ Lighthouse 于 2016 年作为 Chrome 扩展发布，现在也可以通过“审�
 ## 灯塔，快速概览
 
 如果你熟悉 Chrome DevTools，用 Lighthouse 审计一个网页是非常简单的。浏览到 Chrome 页面，打开 DevTools (Ctrl+Shift+i 或⌥+⌘+i，取决于你的系统)，然后进入“审计”部分。
-[![lighthouse dev tools audits](../Images/13af6684b7fab6d00c95ec6ca54a9972.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6QKQ13ih--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.dareboost.com/wp-content/uploads/2018/06/lighthouse-dev-tools-audits-1.png) 
+[![lighthouse dev tools audits](img/13af6684b7fab6d00c95ec6ca54a9972.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6QKQ13ih--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.dareboost.com/wp-content/uploads/2018/06/lighthouse-dev-tools-audits-1.png) 
 点击“执行审计”将允许您根据自己的兴趣(性能、搜索引擎优化、可访问性等)配置审计级别。).
-[![lighthouse dev tools audit settings](../Images/b4ea678d1912903320c0bc86e8fbedfd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--E3I-NTE1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.dareboost.com/wp-content/uploads/2018/06/lighthouse-dev-tools-audit-settings-1.png) 
+[![lighthouse dev tools audit settings](img/b4ea678d1912903320c0bc86e8fbedfd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--E3I-NTE1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.dareboost.com/wp-content/uploads/2018/06/lighthouse-dev-tools-audit-settings-1.png) 
 您将能够看到页面正在加载和重新加载，过一会儿，一个新窗口将显示您的审计报告。
 
-如果您的 Chrome 版本低于 69(撰写本文时的当前版本是 67)，这个操作将触发 Lighthouse 2。你可以使用 Chrome 商店上的 Lighthouse 扩展来测试 Lighthouse 3。在这个测试中，我们使用了扩展。因此，下文提到了灯塔 3。[![lighthouse audit report](../Images/b2fb6b64b260788f42f1bf2ac933fc2c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YjMrzSUn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.dareboost.com/wp-content/uploads/2018/06/lighthouse-audit-report-1.png)
+如果您的 Chrome 版本低于 69(撰写本文时的当前版本是 67)，这个操作将触发 Lighthouse 2。你可以使用 Chrome 商店上的 Lighthouse 扩展来测试 Lighthouse 3。在这个测试中，我们使用了扩展。因此，下文提到了灯塔 3。[![lighthouse audit report](img/b2fb6b64b260788f42f1bf2ac933fc2c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YjMrzSUn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.dareboost.com/wp-content/uploads/2018/06/lighthouse-audit-report-1.png)
 
 *注意:在我们使用 **Lighthouse** 3.0.0-beta.0 的测试中，截图并不符合预期的视图，可能会影响速度指数的计算。*
 
@@ -40,11 +40,11 @@ Lighthouse 于 2016 年作为 Chrome 扩展发布，现在也可以通过“审�
 请注意，其中一些指标仍处于非常早期的阶段。例如，如其[初始规范](https://docs.google.com/document/d/1BR94tJdZLsin5poeet0XoTW60M0SjvOJQttKT-JK8HI/view#)中所述:第一个有意义的油漆[..]在 198 页的 77%中匹配用户感知的第一幅有意义的绘画。收集的指标在灯塔 V2 和 V3 之间发生了显著变化。我们将在下一篇文章中详细介绍这一点。不过，如果你渴望知道，你可以[查看更新公告](https://developers.google.com/web/updates/2018/05/lighthouse3#scoring)。
 
 在报告中，你接下来会发现一个幻灯片:页面加载的一步一步的图像。这对于确保页面按预期加载特别有用。例如，在我们的基准测试中，我们得到了一个有差异的报告。多亏了电影胶片，我们已经能够确认出了问题:
-[![lighthouse audit report error](../Images/20789b485ceb8b0a0f65822e4de8945d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xz48pqx_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.dareboost.com/wp-content/uploads/2018/06/lighthouse-audit-report-error-1.png) 
+[![lighthouse audit report error](img/20789b485ceb8b0a0f65822e4de8945d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xz48pqx_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.dareboost.com/wp-content/uploads/2018/06/lighthouse-audit-report-error-1.png) 
 不幸的是，我们无法了解出了什么问题。当使用 Lighthouse 进行复杂的工作时，人们可能会对缺乏细节感到遗憾。如果不能访问页面负载瀑布，您就无法更深入地了解这里发生了什么。
 
 完成性能概述后，您将获得每个类别的最佳实践。大多数提示都非常专业，在报告中没有详细介绍，但是您可以在“了解更多”链接中找到非常有价值的资源。
-[![lighthouse audit report tip](../Images/9b587d7dc5b6a5624b70b744ef5bfdc1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--T-qBZBf9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.dareboost.com/wp-content/uploads/2018/06/lighthouse-audit-report-tip-1.png) 
+[![lighthouse audit report tip](img/9b587d7dc5b6a5624b70b744ef5bfdc1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--T-qBZBf9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.dareboost.com/wp-content/uploads/2018/06/lighthouse-audit-report-tip-1.png) 
 让 Lighthouse 成为一个伟大的审计工具的还有自动化控件的数量:大约一百个。Lighthouse 还强调了一些“需要手动检查的附加项目”，这将是宝贵的提醒(例如，在可访问性类别“页面有一个逻辑 tab 键顺序”)。
 
 请注意，一些最佳实践在几个类别中重复出现，例如，与[混合内容](https://blog.dareboost.com/en/2015/04/chrome-firefox-and-google-search-https-forcing-its-way#mixed-content)相关的控件出现在“渐进式 Web 应用”类别以及“最佳实践”类别中。

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/threedeeprinter/an-old-dog-learning-new-tricks-5b7h>
 
-[![Dog using a laptop](../Images/94654b245ee9549869715ee14894bd4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BulK2ClS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7yuyeznk5b1lgk1pbckx.jpg)
+[![Dog using a laptop](img/94654b245ee9549869715ee14894bd4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BulK2ClS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7yuyeznk5b1lgk1pbckx.jpg)
 
 在经历了最近一轮裁员后，我决定将我目前的技能与 LinkedIn 上的求职者进行比较。我对四年间发生的巨大变化感到震惊。我也对自己没有及时更新技能感到有点失望。我对 Node.js、Angular 或任何反应式框架知之甚少。我不时地使用把手，但那是我最接近模板的时候了。除了工作之外，我也没有真正参与过“对话”。
 

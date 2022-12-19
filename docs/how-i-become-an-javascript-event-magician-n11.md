@@ -31,7 +31,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 所以如果你想试试，回购在这里！尽情享受吧。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [埃坎斯](https://github.com/ekanSSS) / [魔法事件](https://github.com/ekanSSS/MagicEvent)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [埃坎斯](https://github.com/ekanSSS) / [魔法事件](https://github.com/ekanSSS/MagicEvent)
 
 ### 像魔术师一样使用 javascript 事件
 

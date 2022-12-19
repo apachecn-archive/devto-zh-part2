@@ -8,7 +8,7 @@
 
 ## 什么是精益软件开发？
 
-[![What is Lean Software Development?](../Images/c406474a84d2b4202b916e7d331c079e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--acDHJM7g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://perfectial.com/production/wp-content/uploads/2017/03/What-is-Lean-Software-Development.svg)
+[![What is Lean Software Development?](img/c406474a84d2b4202b916e7d331c079e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--acDHJM7g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://perfectial.com/production/wp-content/uploads/2017/03/What-is-Lean-Software-Development.svg)
 
 总的来说，精益的概念是由日本汽车巨头丰田公司首创的，作为减少制造过程中浪费的一种手段；但很快变得非常受欢迎，并适应了 IT 行业的各种能力。
 

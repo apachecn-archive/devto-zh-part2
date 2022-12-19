@@ -20,7 +20,7 @@
 
 如上所述，这是**我的**反馈回路，与你的或其他反馈回路的任何相似之处纯属巧合，使用相同的反馈回路所造成的任何伤害、代码丢失或睡眠时间由你自担风险。反馈回路就是反馈回路——简单的事件，最糟糕的事情是你忽视它们并承担后果。
 
-[![my Perl development feedback loop](../Images/c92c8fb03443692eafd4023f7ea7c039.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bIqYwy1k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tytekzgazua52i0zeh8q.png)
+[![my Perl development feedback loop](img/c92c8fb03443692eafd4023f7ea7c039.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bIqYwy1k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tytekzgazua52i0zeh8q.png)
 
 这个过程从左上角的 start 开始，也是我们结束的地方。因为这是一个不断重复的过程。
 

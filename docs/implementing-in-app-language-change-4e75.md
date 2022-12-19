@@ -12,7 +12,7 @@ Android 根据系统区域设置解析特定于语言和文化的资源。这是
 
 下图说明了通过活动获取本地化字符串的流程:
 
-[![Getting a string](../Images/306b5c58dfe1247f04702db7a5e4fb6d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XJgjJKtj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9g1hmdzgrofl9q2tikya.png)
+[![Getting a string](img/306b5c58dfe1247f04702db7a5e4fb6d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XJgjJKtj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9g1hmdzgrofl9q2tikya.png)
 
 该流程涉及到`StringLocalization`对象，它有一个包含所有可用的`Resources`的映射，并使用`AppSettings`来获取用户设置的当前语言。
 

@@ -13,12 +13,12 @@
 ### 编辑方案
 
 选择“产品”>“方案”>“编辑方案”>“测试”窗格>“信息”选项卡，然后选中和取消选中测试用例名称。通过这样做，您可以指定使用“运行测试”来执行哪些测试用例。当您实现更多的测试用例时，这种方法会更加麻烦...
-[![Screenshot of Edit Scheme](../Images/47907ad33776f7396b21ff697cfa1d6a.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--rJfZ3Q8R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/42kno5agq1o13m7j3poc.png)
+[![Screenshot of Edit Scheme](img/47907ad33776f7396b21ff697cfa1d6a.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--rJfZ3Q8R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/42kno5agq1o13m7j3poc.png)
 
 ### 测试导航器
 
 在 Xcode 窗口的左侧面板显示“Test Navigator ”,并按下显示在测试用例名称右侧的“PLAY”图标。
-[![Screenshot of Test Navigator](../Images/cae00bc22f3ef8570e4bca734dc0e18a.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--1ckrTa-K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j7xyajf6c957zlzh71ol.png)
+[![Screenshot of Test Navigator](img/cae00bc22f3ef8570e4bca734dc0e18a.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--1ckrTa-K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j7xyajf6c957zlzh71ol.png)
 
 ### 运行电流测试
 

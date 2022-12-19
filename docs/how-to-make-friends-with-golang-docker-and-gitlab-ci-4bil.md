@@ -165,7 +165,7 @@ build:
 
 最后，我们检查我们的管道:
 
-[![pipeline](../Images/b8f1c77e2a911c38b7721cf427298064.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vU8kr-xC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/waox28fc4zv11x5fpazn.png)
+[![pipeline](img/b8f1c77e2a911c38b7721cf427298064.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vU8kr-xC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/waox28fc4zv11x5fpazn.png)
 
 我们完了！接下来的步骤，比如将构建的图像推送到 docker 注册表，留给读者做练习。🙂
 

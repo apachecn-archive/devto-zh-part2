@@ -8,7 +8,7 @@
 
 ## 错误:
 
-[![WHy?!?!?](../Images/f41063da5dfdb0cd9401dde70e1fc7b8.png "BugginOut")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3CVxv-RI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zirznpyl3dvc9dqxp22i.png)
+[![WHy?!?!?](img/f41063da5dfdb0cd9401dde70e1fc7b8.png "BugginOut")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3CVxv-RI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zirznpyl3dvc9dqxp22i.png)
 
 ### 我们的本地存储对象:
 

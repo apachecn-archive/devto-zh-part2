@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/engberrg/find-your-circle-of-competence--how-to-do-well-as-a-software-architect-oej>
 
-[![](../Images/21545a98dc4cea27f467df27e8a6d6ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3tgWm_8y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2AMf6uDnbuhhEwFtCaGc9edQ.jpeg)
+[![](img/21545a98dc4cea27f467df27e8a6d6ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3tgWm_8y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2AMf6uDnbuhhEwFtCaGc9edQ.jpeg)
 
 作为一名软件架构师，你是需求和实现之间的纽带。做出具有坚实基础的决策是一个持续的挑战，这些决策使未来的功能能够适应现有的生态系统，并与良好的软件原则保持一致，例如 solid、DRY、YAGNI 等等。
 
@@ -33,11 +33,11 @@
 
 好的，这是一张圆圈的图片:
 
-[![](../Images/8ed8615914420e061526092307496e2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZZmn6xiS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/899/1%2AKzho2XoBWDbXjjyxK1p4nw.png)
+[![](img/8ed8615914420e061526092307496e2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZZmn6xiS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/899/1%2AKzho2XoBWDbXjjyxK1p4nw.png)
 
 但我认为这样更准确:
 
-[![](../Images/7a4960c9a0b149d41ce8edd89a864a3a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p28jsdsl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/899/1%2A_5PcRbI9m3Ze3yaZc3Uq1Q.png)
+[![](img/7a4960c9a0b149d41ce8edd89a864a3a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p28jsdsl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/899/1%2A_5PcRbI9m3Ze3yaZc3Uq1Q.png)
 
 把你知道的分成你的舒适区和你不知道的舒适区。
 

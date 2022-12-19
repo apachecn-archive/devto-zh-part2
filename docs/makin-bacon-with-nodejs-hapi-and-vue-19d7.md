@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/reverentgeek/makin-bacon-with-nodejs-hapi-and-vue-19d7>
 
-[![Makin' Bacon](../Images/818eb63ae3bb46db880b74940832152a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lR3siD6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8aa599e033a83lddv685.png)
+[![Makin' Bacon](img/818eb63ae3bb46db880b74940832152a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lR3siD6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8aa599e033a83lddv685.png)
 
 我最近为我在几次会议上发表的 Node.js 速成讲座制作了一个新的演示。这个应用程序是一个使用 [Node.js](https://nodejs.org/) 、[哈比神](https://hapijs.com/)和 [Vue](https://vuejs.org/) 的“bacon ipsum”生成器。我知道我不是第一个想到“bacon ipsum”生成器的人，但是我认为在 Node.js 中创建一个这样的生成器会是一个有趣的项目。
 
@@ -71,7 +71,7 @@ Enter fullscreen mode Exit fullscreen mode
 *   [惰性](https://www.npmjs.com/package/inert) -哈比神的静态资源插件
 *   [实验室](https://www.npmjs.com/package/lab)和[代码](https://www.npmjs.com/package/code) -哈比神的测试和断言实用程序
 
-[![](../Images/4a882d0a02e417c200b5a4eb2e1aaffa.png)T2】](https://github.com/reverentgeek/node-bacon-generator)
+[![](img/4a882d0a02e417c200b5a4eb2e1aaffa.png)T2】](https://github.com/reverentgeek/node-bacon-generator)
 
 [github.com/reverentgeek/node-bacon-generator](https://github.com/reverentgeek/node-bacon-generator)
 

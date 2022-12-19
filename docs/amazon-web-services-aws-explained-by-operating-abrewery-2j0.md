@@ -18,7 +18,7 @@
 
 这里有一个快速预览:
 
-[![](../Images/f2874ea004d21ffa171518f7b3bc8fe2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wqsub2r5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AvdBGfOwhkhaQ2lTd)
+[![](img/f2874ea004d21ffa171518f7b3bc8fe2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wqsub2r5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AvdBGfOwhkhaQ2lTd)
 
 所以，这里是 5 个流行的 AWS 工具如何在 web 应用程序的幕后工作。我还将解释一下 Heroku，这是一个流行的部署 web 应用程序的工具，它提供了较少的灵活性，但是更容易上手。
 
@@ -32,13 +32,13 @@
 
 让我们想象一下，你热衷于酿造啤酒。你从厨房开始，为自己和朋友酿造。很快，关于你的美味工作的消息就传开了。为了满足日益增长的需求，你决定在一个仓库里租用一些设备和空间，看看你是否能创建一个成熟的公司。你将接受分销商、餐馆和独立企业的订单。
 
-[![](../Images/9bfb643ad02f63174d20d10fde56362a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--732h2eey--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2A2zJ-RgXq4mX3eN-t)
+[![](img/9bfb643ad02f63174d20d10fde56362a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--732h2eey--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2A2zJ-RgXq4mX3eN-t)
 
 在上面的例子中，一个订单来自一个客户**—**一家餐馆或经销商。那叫做**请求**。您的啤酒厂将提供订单，并通过发票收取款项。这就是所谓的**反应**。****
 
  ****类似地，web 浏览器基于用户采取的动作向服务器发送请求。服务器通过响应返回所需的信息。
 
-[![](../Images/59d668d3bd1ac75d9360877a5815d827.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6QnLjgfx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AMsF4PEVc5qVit5Xc)
+[![](img/59d668d3bd1ac75d9360877a5815d827.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6QnLjgfx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AMsF4PEVc5qVit5Xc)
 
 当然，这只是一个高层次的观点。在我们对 AWS 的探索中，我们将深入研究发生在**服务器端**的所有不同过程。在我们的啤酒厂类比中，我们假设订单已经从左边和右边进来。现在我们的工作是组织整个酿酒厂，这样我们就能可靠地交付订单。
 
@@ -50,9 +50,9 @@ Heroku 允许你使用 *git push heroku master* 直接从命令行部署新版�
 
 Heroku 有点像雇佣第三方承包商来管理你的酿酒厂。你所需要做的就是提供配方，这个承包商将利用他们在酿酒厂运营方面的专业知识来生产啤酒。他们提供团队、设备和与供应商的关系。
 
-[![](../Images/1a64c91627783184378a5a7652533586.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CXDHEAR5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AHo0-aZixv74gV3-v0RbTyA.jpeg)
+[![](img/1a64c91627783184378a5a7652533586.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CXDHEAR5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AHo0-aZixv74gV3-v0RbTyA.jpeg)
 
-[![](../Images/358aaad177dc34f3ac4a0055f1fb2615.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9dEjGfFS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AdosvXrcjnrJ9UetnJVZTyw.jpeg)
+[![](img/358aaad177dc34f3ac4a0055f1fb2615.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9dEjGfFS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AdosvXrcjnrJ9UetnJVZTyw.jpeg)
 
 这可能感觉不可思议。现在你可以跳过那些你需要花费在学习如何经营酿酒厂的痛苦的时间和精力！但有两个理由需要谨慎。
 
@@ -69,9 +69,9 @@ Heroku 也有同样的利弊。它稍微贵一点，但是允许你立即开始�
 
 这有点像亚马逊 S3。S3 是一种云服务，允许你存储静态资产，比如图像。它代表简单存储服务。
 
-[![](../Images/a879936535d38abf76f18625ed15da11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sMlYBXMo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Ae9abmVhUIIGeLSkYlbHb6Q.jpeg)
+[![](img/a879936535d38abf76f18625ed15da11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sMlYBXMo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Ae9abmVhUIIGeLSkYlbHb6Q.jpeg)
 
-[![](../Images/1bad9b58b333d495d9b5d987f02126d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3NJRYffC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2An053ea_uJrzL4Wb0kBmp8A.jpeg)
+[![](img/1bad9b58b333d495d9b5d987f02126d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3NJRYffC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2An053ea_uJrzL4Wb0kBmp8A.jpeg)
 
 在这种情况下，“静态资产存储”的概念与您在现实生活中可能会想到的略有不同。在现实生活中，储存静态物品可能意味着把东西放在阁楼上，然后忘记它。但对于云服务来说，这意味着在几毫秒内准备好要使用的对象或图像。
 
@@ -85,9 +85,9 @@ Amazon 关系数据库服务(RDS)允许您在 AWS 中设置和操作关系数据
 
 您可能想知道为什么在上一节之后我们又要讨论存储。这是因为所有这些元素都更加动态——它们被不断地组合或修改，以处理来自用户/客户的请求。
 
-[![](../Images/034666c7a2a08293df7ef23705dd6b16.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IXQ7f6Yw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Aci_kNJOcrUCpn0mcW6VHqg.jpeg)
+[![](img/034666c7a2a08293df7ef23705dd6b16.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IXQ7f6Yw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Aci_kNJOcrUCpn0mcW6VHqg.jpeg)
 
-[![](../Images/99b1bd85fb32848a3abbcdd91404ed82.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eryY4yhk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AwWmbObMp__nfxL14zzW3cQ.jpeg)
+[![](img/99b1bd85fb32848a3abbcdd91404ed82.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eryY4yhk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AwWmbObMp__nfxL14zzW3cQ.jpeg)
 
 这是您将**查询**的数据类型，而不是像前面的例子那样请求。例如，如果您正在管理脸书的数据库，这将是用户数据和帖子，这些数据和帖子随后将包含在新闻提要中。
 
@@ -107,9 +107,9 @@ Amazon 关系数据库服务(RDS)允许您在 AWS 中设置和操作关系数据
 
 您需要一种方法来将物理数据转换为机器可读的数据，您的运营团队可以使用这些数据来提高啤酒厂的效率。把它想象成设施周围的传感器系统。传感器将原材料的物理运动转换成机器可读的数据，这些数据可以在以后进行分析。
 
-[![](../Images/2de08abd86cece538a1ec547885b86dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xP4TQvhm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AEySamZAufAFciP0g2y3U8g.jpeg)
+[![](img/2de08abd86cece538a1ec547885b86dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xP4TQvhm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AEySamZAufAFciP0g2y3U8g.jpeg)
 
-[![](../Images/46865f80b20a9837f6a58aaa40f20c40.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JvC_Q3Mn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AAtoYuA5nKYjrwlOEBNL0gQ.jpeg)
+[![](img/46865f80b20a9837f6a58aaa40f20c40.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JvC_Q3Mn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AAtoYuA5nKYjrwlOEBNL0gQ.jpeg)
 
 现在，随着我们工厂的运营，数据会自动收集并与工厂运营团队共享，以便他们可以分析效率。
 
@@ -127,9 +127,9 @@ Amazon 关系数据库服务(RDS)允许您在 AWS 中设置和操作关系数据
 
 这有点像通过复制你现有的酿酒厂，就可以在世界上任何地方随时启动或关闭一个新的酿酒厂。这在现实生活中可能是不可能的，但在 AWS 生态系统中是可能的。EC2 为啤酒厂的物理空间和工人提供了类似的功能。
 
-[![](../Images/7026b16322375b0036d7fdc11684eea8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c5FsK95e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ATbPj10B8QH10Dx_tiIC-Iw.jpeg)
+[![](img/7026b16322375b0036d7fdc11684eea8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c5FsK95e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ATbPj10B8QH10Dx_tiIC-Iw.jpeg)
 
-[![](../Images/db457d6597ce6916836ece72be12d652.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iP5xZPaz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Al0y3g0gR4MUX7O8t5HhVvA.jpeg)
+[![](img/db457d6597ce6916836ece72be12d652.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iP5xZPaz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Al0y3g0gR4MUX7O8t5HhVvA.jpeg)
 
 该图可能会稍有误导，因为虚拟服务器不会占用整个服务器。它存在于服务器网络中。但这太复杂了，无法在一个小图表中显示出来。所以我留着它。
 
@@ -140,16 +140,16 @@ Amazon 关系数据库服务(RDS)允许您在 AWS 中设置和操作关系数据
 1.  监控上面列出的其他工具
 2.  设置流程以帮助多个类别的工具协同工作
 
-[![](../Images/7b66dd14733acc90ff1aa449a6f73c43.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Ac5uytKC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AV5AvyPtgGhHLXZF2) 
+[![](img/7b66dd14733acc90ff1aa449a6f73c43.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Ac5uytKC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AV5AvyPtgGhHLXZF2) 
 **形象信用:FreeCodeCamp**
 
 在上图中，您可以看到有多少工具可以帮助部署和维护您的应用程序。这就是为什么这些工具类似于公司的管理团队。他们不是亲自为你的公司生产啤酒，而是帮助所有部门一起工作。
 
 管理类别中有各种各样的工具，所以我不打算深入讨论任何一个。它们位于所讨论的其他工具之上。
 
-[![](../Images/929890f1097fe0f31c071c052a5fd015.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YWvd10NY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A8hrWANJasTDpQaERaaF-aQ.jpeg)
+[![](img/929890f1097fe0f31c071c052a5fd015.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YWvd10NY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A8hrWANJasTDpQaERaaF-aQ.jpeg)
 
-[![](../Images/d2809228c2c54679d5de20098301c041.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9tnto2n0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Ad_Kx52WUCIS0tYPVGHm18Q.jpeg)
+[![](img/d2809228c2c54679d5de20098301c041.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9tnto2n0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Ad_Kx52WUCIS0tYPVGHm18Q.jpeg)
 
 ### 获取最新的可视化教程
 

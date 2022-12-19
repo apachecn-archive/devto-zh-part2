@@ -96,7 +96,7 @@ dotnet new classlib -n Kritner.OrleansGettingStarted.Grains
 
 *   添加奥尔良项目之间的项目相关性。Grains、客户机和服务器都应该依赖于 GrainsInterfaces 项目。SiloHost 项目还应依赖于 Grains 项目。看起来应该是这样的:
 
-[![](../Images/dadb6d6be12cb36b83c4e1b701e6d893.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--akcAW-an--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/705/1%2AolhVjOfpfKiPzFKuHx7TPA.png)
+[![](img/dadb6d6be12cb36b83c4e1b701e6d893.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--akcAW-an--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/705/1%2AolhVjOfpfKiPzFKuHx7TPA.png)
 
 以上就是《新奥尔良入门》需要的全部内容！此时的回购虽然很少，但可以在以下位置找到:[https://github . com/krit ner-Blogs/OrleansGettingStarted/tree/8944333 AE 23 f 21 e 7873 a 356 a 191 cece B3 cc 91 c 97](https://github.com/Kritner-Blogs/OrleansGettingStarted/tree/8944333ae23f21e7873a356a191ceceb3cc91c97)
 

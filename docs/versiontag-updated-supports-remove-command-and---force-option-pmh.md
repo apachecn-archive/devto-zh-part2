@@ -4,7 +4,7 @@
 
 几天前，我发布了一个简单的工具来管理 git 项目中的语义版本。
 
-[![franiglesias image](../Images/a31bca5821248859e051bcc546af70a1.png)](/franiglesias) [## git 中的自动化语义版本控制
+[![franiglesias image](img/a31bca5821248859e051bcc546af70a1.png)](/franiglesias) [## git 中的自动化语义版本控制
 
 ### 弗兰·伊格莱西亚斯 7 月 22 日 181 分钟阅读
 
@@ -16,7 +16,7 @@
 
 项目在这里
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)/[version tag](https://github.com/franiglesias/versiontag)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)/[version tag](https://github.com/franiglesias/versiontag)
 
 ### Bash 命令来自动化标记语义版本控制
 

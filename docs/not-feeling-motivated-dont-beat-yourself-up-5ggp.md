@@ -44,7 +44,7 @@
 
 如果你不能在不同的地方工作，即使改变一些小事也能奏效。
 
-> ![Salun Marvin profile image](../Images/13c2a77c1eebd3fb95ed014cecd8826b.png)萨伦马文[@萨伦马文](https://dev.to/salunmarvin)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)[@ derekhopper](https://twitter.com/derekjhopper)[@ ThePracticalDev](https://twitter.com/ThePracticalDev)男人，抱歉回复晚了。我总是移动我的家具，更换我的桌面和手机壁纸，诸如此类的事情。我在 craigslist 上寻找便宜的装饰材料。你呢？2018 年 8 月 28 日上午 01:42[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1034254963629850624)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1034254963629850624)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1034254963629850624)
+> ![Salun Marvin profile image](img/13c2a77c1eebd3fb95ed014cecd8826b.png)萨伦马文[@萨伦马文](https://dev.to/salunmarvin)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)[@ derekhopper](https://twitter.com/derekjhopper)[@ ThePracticalDev](https://twitter.com/ThePracticalDev)男人，抱歉回复晚了。我总是移动我的家具，更换我的桌面和手机壁纸，诸如此类的事情。我在 craigslist 上寻找便宜的装饰材料。你呢？2018 年 8 月 28 日上午 01:42[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1034254963629850624)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1034254963629850624)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1034254963629850624)
 
 ## 4。偷懒一晚上
 

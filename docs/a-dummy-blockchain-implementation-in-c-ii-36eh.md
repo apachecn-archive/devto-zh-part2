@@ -71,7 +71,7 @@ NODE *head;
 
 你可以在这里看到最终的[代码](https://github.com/jmarchanloro/1-blockchain)。核心是帖子里展示的片段，但是增加了更多的辅助代码，主要是打印链表。
 
-[![Ten votes stored in a blockchain](../Images/6a4959f9f16012491f91d7d272b3879e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PgEIVNth--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/myram.xyz/wp-content/uploads/2018/09/output.jpg%3Fw%3D454%26ssl%3D1)
+[![Ten votes stored in a blockchain](img/6a4959f9f16012491f91d7d272b3879e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PgEIVNth--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/myram.xyz/wp-content/uploads/2018/09/output.jpg%3Fw%3D454%26ssl%3D1)
 
 [迈拉姆的原始帖子](https://myram.xyz/c-blockchain-implementation-2/)
 

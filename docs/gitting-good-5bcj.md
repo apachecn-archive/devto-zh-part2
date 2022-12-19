@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/stuki/gitting-good-5bcj>
 
-[![Not like I actually know how to git](../Images/bbcc66f13989d41abe1b4235061fcbdd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TaeJl9uf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/03vh1xen1pugi8zbklr7.png)
+[![Not like I actually know how to git](img/bbcc66f13989d41abe1b4235061fcbdd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TaeJl9uf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/03vh1xen1pugi8zbklr7.png)
 
 以下是我在过去一个月左右的工作中需要使用的命令列表。其中大部分是针对更具体的场景，但也有一些只是我不知道的非常方便的选项。
 

@@ -177,7 +177,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 以上称为*合同设计*。遵守这个原则可以避免基类的*外在公共行为*的重新定义，这是类的客户所依赖的行为。
 
-[![Ducks and the Liskov Substitution Principle](../Images/0771771a25a65bd8dc359b39ef9fa4d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t0nRipbA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/cyshi7/lsp.jpg)
+[![Ducks and the Liskov Substitution Principle](img/0771771a25a65bd8dc359b39ef9fa4d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t0nRipbA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/cyshi7/lsp.jpg)
 
 回到我们之前的例子，以类`AlgorithmThatReadFromCsvAndWriteOnMongo`及其子类`AlgorithmThatReadFromKafkaAndWriteOnMongo`为例。LSP 告诉我们，每当我们需要对第一个的引用时，我们可以使用对第二个的引用。然而，在我们的例子中，我们不能。第一次从 CSV 读取；第二个来自卡夫卡。
 

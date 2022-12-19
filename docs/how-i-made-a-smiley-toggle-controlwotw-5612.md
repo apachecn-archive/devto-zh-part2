@@ -10,7 +10,7 @@
 
 事不宜迟，本周小部件是这个**切换控件**:
 
-[![toggle control](../Images/bf078fdc040dd7087685a4940efaced5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--usaYkwpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bli196srpvgqhdtw5qvs.gif)
+[![toggle control](img/bf078fdc040dd7087685a4940efaced5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--usaYkwpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bli196srpvgqhdtw5qvs.gif)
 
 ### 准备元素
 
@@ -18,7 +18,7 @@
 
 几乎所有的事情都可以用 HTML + CSS 完成。面部可以用一些 CSS 魔法来完成，但我认为启动一个应用程序并为它们创建 SVG 节点会更容易。我只是截屏重画了一下:
 
-[![drawing svg](../Images/d4080dd7ee74fa35923a6292eb81d66d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JgA8HIfU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1440/0%2AGFYGKnXfdUYaIQKz.png)
+[![drawing svg](img/d4080dd7ee74fa35923a6292eb81d66d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JgA8HIfU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1440/0%2AGFYGKnXfdUYaIQKz.png)
 
 我们现在有一切可以开始编码。
 
@@ -176,7 +176,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 对于脸，我也设置了左边属性的动画，然后在球中设置溢出:隐藏；来掩盖内容。这是它不带遮罩时的样子:
 
-[![how animation looks](../Images/39a95456fcca9404a59b43432b8767ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JzTgl8Hk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1440/0%2AL9tXAE9yjPojhgkI.gif)
+[![how animation looks](img/39a95456fcca9404a59b43432b8767ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JzTgl8Hk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1440/0%2AL9tXAE9yjPojhgkI.gif)
 
 ## 可达性
 

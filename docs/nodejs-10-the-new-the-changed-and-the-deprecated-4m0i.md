@@ -6,4 +6,4 @@
 
 [读下去💚](https://auth0.com/blog/nodejs-10-new-changes-deprecations/?utm_source=dev&utm_medium=sc&utm_campaign=new_nodejs10)
 
-[![NodeJS 10: The New, The Changed, and the Deprecated](../Images/cb22191e9a1163c53f52719f4dcf64b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lmmQP3LD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ryqeih4kgap2zchsca9e.png)
+[![NodeJS 10: The New, The Changed, and the Deprecated](img/cb22191e9a1163c53f52719f4dcf64b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lmmQP3LD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ryqeih4kgap2zchsca9e.png)

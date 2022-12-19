@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/contentful_blog/develop-edit--deploy-websites-entirely-in-the-cloud-with-the-codesandbox-contentful-and-netlify-trio-4mpa>
 
-[![The power of different web services as building blocks for your site](../Images/995ad85f40ebffc88e794da7cb3783bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w7vekApL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/3toAvaEx2goY6KWwKqSQ6a/365366a812eb6b45da35b55aa8162e36/20180806_CodeSandbox_Netlify_Contentful.png)
+[![The power of different web services as building blocks for your site](img/995ad85f40ebffc88e794da7cb3783bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w7vekApL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/3toAvaEx2goY6KWwKqSQ6a/365366a812eb6b45da35b55aa8162e36/20180806_CodeSandbox_Netlify_Contentful.png)
 
 设置开发机器可能是一个乏味的过程。我曾经在一家公司工作过，在那里，我们在不到两天的时间内就完成了定制商店系统的开发环境的设置，这是一项成就(公平地说，这是在 vagger 和 Docker 成为事物之前)。这是为什么呢？
 
@@ -14,7 +14,7 @@
 
 不久前，我注意到 CodeSandbox 越来越多地用于 React 原型开发，当时人们开始在 Twitter 上分享带有特定 React 模式或最佳实践的沙盒。“我们需要另一个在线编辑吗？”这是我的第一反应。
 
-[![CodeSandbox for React prototyping](../Images/a8f30e245d2491a3bd381b3e59001f0f.png)T2】](//images.ctfassets.net/fo9twyrwpveg/3EByGDVT6os0C4OmAK0eSy/ab15b1a7ed05816b11abbbf3956e3e35/image_0.png)
+[![CodeSandbox for React prototyping](img/a8f30e245d2491a3bd381b3e59001f0f.png)T2】](//images.ctfassets.net/fo9twyrwpveg/3EByGDVT6os0C4OmAK0eSy/ab15b1a7ed05816b11abbbf3956e3e35/image_0.png)
 
 今年早些时候，我写了一篇关于如何在 React 中使用渲染道具的文章[，并决定尝试一下](https://www.contentful.com/blog/2018/01/23/how-to-write-reusable-sane-api-based-components/?utm_campaign=deploy-cloud-codesandbox&utm_medium=referral&utm_source=devto&utm_content=deploy-cloud-codesandbox&utm_term=) [CodeSandbox](https://codesandbox.io/) 。感觉不像我的本地编辑器(我用的是 vs code)——但也很接近了。
 
@@ -28,7 +28,7 @@
 
 当您决定走 React 路线并初始化一个新项目时，您将获得一个可以投入 React 开发的代码库。
 
-[![Codebase to enter React development](../Images/013094ffc506e368412c90beca0ad384.png)T2】](//images.ctfassets.net/fo9twyrwpveg/G9oa8BNZKuig40o6SMEQk/a7a5af8c5585d5b9092b824750ea5028/image_1.png)
+[![Codebase to enter React development](img/013094ffc506e368412c90beca0ad384.png)T2】](//images.ctfassets.net/fo9twyrwpveg/G9oa8BNZKuig40o6SMEQk/a7a5af8c5585d5b9092b824750ea5028/image_1.png)
 
 ### 至关重要的编辑器特性，让你忘记你“只是”在一个在线编辑器中
 
@@ -52,13 +52,13 @@
 
 当我发现 VSCode 采用 npm 包中包含的类型定义时，我最终决定使用 TypeScript。作为一名 JavaScript 开发人员，我非常习惯在没有强大的自动完成功能的情况下工作，但是看到我的编辑器使用 TypeScript 定义是非常好的。看到 CodeSandbox 做同样的事情真好！
 
-[![Autocompletion with TypeScript type definitions](../Images/a9d74c539f244b12a89b865e23da57e1.png)T2】](//images.ctfassets.net/fo9twyrwpveg/6Dir45X3HOQk6uEAcMyOgA/bf763232d391c5399088a6222ee975bd/image_2.png)
+[![Autocompletion with TypeScript type definitions](img/a9d74c539f244b12a89b865e23da57e1.png)T2】](//images.ctfassets.net/fo9twyrwpveg/6Dir45X3HOQk6uEAcMyOgA/bf763232d391c5399088a6222ee975bd/image_2.png)
 
 *GitHub 集成使 CodeSandbox 成为一个真正的工具*
 
 让我着迷的最后一个功能是 GitHub 集成，它让你可以在 CodeSandbox 中创建一个项目，将其推送到 GitHub，然后从 CodeSandbox 直接提交到 GitHub。非常酷的东西！
 
-[![GitHub integration in CodeSandbox](../Images/48b02edaf80c44b3665e9c29005a29f9.png)T2】](//images.ctfassets.net/fo9twyrwpveg/2mavX9IAZq00MyMmMsqMc2/5135686f271462e9a8ba86dad55a444c/image_3.png)
+[![GitHub integration in CodeSandbox](img/48b02edaf80c44b3665e9c29005a29f9.png)T2】](//images.ctfassets.net/fo9twyrwpveg/2mavX9IAZq00MyMmMsqMc2/5135686f271462e9a8ba86dad55a444c/image_3.png)
 
 *唯一缺失的功能*
 
@@ -70,13 +70,13 @@
 
 以一个朋友的快速单页作品集网站为例。你将如何实现这个项目，既节省了用拉请求更新内容的工作量，又不用自己建立一个完整的内容管理系统？您可以使用 Contentful 的内容基础设施来实现这一点。
 
-[![Example one-pager site](../Images/71096d151fff8c892568e17a5fcedd2e.png)T2】](//images.ctfassets.net/fo9twyrwpveg/2o0jJUroucKkqCue2CscKq/7d5d07f07fec3cb59799bf08164418cd/image_4.png)
+[![Example one-pager site](img/71096d151fff8c892568e17a5fcedd2e.png)T2】](//images.ctfassets.net/fo9twyrwpveg/2o0jJUroucKkqCue2CscKq/7d5d07f07fec3cb59799bf08164418cd/image_4.png)
 
 使用 Contentful，您可以在几分钟内定义所需的数据模型，并使用 JSON APIs 取回数据。在上面的例子中，您需要一个实体，它有单独的字段，分别用于图像、标题和段落。这种灵活性正是 Contentful 的亮点——创建一个内容类型`portfolio`并定义三个所需的字段，而不需要设置服务器或类似的东西。
 
 您的非技术朋友现在可以对您正在构建的 JavaScript 应用程序进行内容更改，而无需编辑 JSON 文件或 React 代码。
 
-[![Make content changes to the JavaScript app you’re building without editing JSON files or React code](../Images/633758e002bd32c53cc72c6a988a91d5.png)T2】](//images.ctfassets.net/fo9twyrwpveg/5foa9d0dI4wIoSGaQY6aWc/f125ca32ef30fbb76dbf0426b933ceb2/image_5.png)
+[![Make content changes to the JavaScript app you’re building without editing JSON files or React code](img/633758e002bd32c53cc72c6a988a91d5.png)T2】](//images.ctfassets.net/fo9twyrwpveg/5foa9d0dI4wIoSGaQY6aWc/f125ca32ef30fbb76dbf0426b933ceb2/image_5.png)
 
 稍后，您可以使用提供的 [JavaScript SDK](https://github.com/contentful/contentful.js/) 来获取朋友编辑的内容丰富的数据。
 
@@ -133,13 +133,13 @@ Netlify 是一项相对较新的服务，专门从事静态部署。Netlify 很�
 
 要将站点部署到 Netlify，可以从导入特定的 GitHub 存储库开始:
 
-[![Deploy a site by importing a specific GitHub repository](../Images/17b7fde618bbaf1b0863ec969cc5c3a2.png)T2】](//images.ctfassets.net/fo9twyrwpveg/5k48xcI4xO8KcYmwEwqMYc/5008a772edae369b530bc6b30965929b/image_6.png)
+[![Deploy a site by importing a specific GitHub repository](img/17b7fde618bbaf1b0863ec969cc5c3a2.png)T2】](//images.ctfassets.net/fo9twyrwpveg/5k48xcI4xO8KcYmwEwqMYc/5008a772edae369b530bc6b30965929b/image_6.png)
 
 接下来的步骤是定义一个构建命令和公共目录，静态文件将出现在其中。在 *create-react-app* 的情况下，构建命令为`npm run build`，发布的目录将为`build`。提交这两个配置后，您的第一个部署将启动并运行，您将在 netlify.com 上获得一个唯一的子域。
 
 在 Netlify 中导入 GitHub 存储库后，一个不太明显的事情是，这个过程还在 GitHub 上定义了 webhooks。现在每次你推新代码到 GitHub，Netlify 都会自动重新部署你的站点。魔法？神奇！
 
-[![Webhooks to automatically redeploy your site](../Images/b01e1722f1df045b26142bc79d942d53.png)T2】](//images.ctfassets.net/fo9twyrwpveg/JrUjqEneesI2S8YgomK6O/d5cd2a5d6f77ec80b542a66782c2096b/image_7.png)
+[![Webhooks to automatically redeploy your site](img/b01e1722f1df045b26142bc79d942d53.png)T2】](//images.ctfassets.net/fo9twyrwpveg/JrUjqEneesI2S8YgomK6O/d5cd2a5d6f77ec80b542a66782c2096b/image_7.png)
 
 ### 使用 webhooks 连接所有部件
 
@@ -147,7 +147,7 @@ Netlify 是一项相对较新的服务，专门从事静态部署。Netlify 很�
 
 静态预渲染方法意味着，每当您的朋友在 Contentful 中更新她的作品集数据时，您都必须重新渲染生成的 HTML 文件并部署它们。在这种情况下，必须在 Contentful 中配置一个通知 Netlify 的附加 webhook。
 
-[![image 8](../Images/ca8f05cc66f6d62abb9ae41298af7f24.png)T2】](//images.ctfassets.net/fo9twyrwpveg/jPkoNvQOEoW4Ae286OG20/1c285c2794cc523aea5edcef70eefb6b/image_8.jpg)
+[![image 8](img/ca8f05cc66f6d62abb9ae41298af7f24.png)T2】](//images.ctfassets.net/fo9twyrwpveg/jPkoNvQOEoW4Ae286OG20/1c285c2794cc523aea5edcef70eefb6b/image_8.jpg)
 
 再多一点 webhook 配置，您就可以设置一个完整的部署管道，不需要任何本地安装和配置，不需要加载 spinners 就可以发布静态站点。
 
@@ -155,6 +155,6 @@ Netlify 是一项相对较新的服务，专门从事静态部署。Netlify 很�
 
 总之，我对 web 开发领域的变化感到惊讶。[无服务器技术改变了我们的工作方式](https://www.contentful.com/blog/2018/04/05/graphql-and-serverless-where-cloud-computing-is-heading/?utm_campaign=deploy-cloud-codesandbox&utm_medium=referral&utm_source=devto&utm_content=deploy-cloud-codesandbox&utm_term=)我们不再需要担心项目中可能需要的所有细节。对于运行 Node.js 项目，我们可以使用 [Zeit](https://zeit.co/) ，认证 [Auth0](https://auth0.com/) ，以及高性能搜索体验 [Algolia](https://www.algolia.com/) 。
 
-[![The power of different web services as building blocks for your site](../Images/ad8440e6797f236f769c40f22efbcab5.png)T2】](//images.ctfassets.net/fo9twyrwpveg/qWbrjftQbuSsq64Q6wq62/354b97dfc1c04876db1907283427c896/image_9.png)
+[![The power of different web services as building blocks for your site](img/ad8440e6797f236f769c40f22efbcab5.png)T2】](//images.ctfassets.net/fo9twyrwpveg/qWbrjftQbuSsq64Q6wq62/354b97dfc1c04876db1907283427c896/image_9.png)
 
 Webhooks 和无服务器功能让我有可能连接所有这些服务，并以简单快捷的方式在云中编写快速连接器。这非常令人兴奋，因为我现在可以专注于构建东西，而不是设置东西...我甚至可以坐在朋友的阳台上，在他的电脑上创建和部署网站。

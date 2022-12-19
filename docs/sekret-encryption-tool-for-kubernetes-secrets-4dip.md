@@ -20,7 +20,7 @@ Sekret 是一个加密和编辑 Kubernetes 秘密的 CLI 工具。Sekret 使 Sec
 
 # 演示
 
-[![asciicast](../Images/c376e383bcba35fee474cc851d0177ab.png)T2】](https://asciinema.org/a/MyvxqcN0oMbmGc8xAaJh4U2Fz)
+[![asciicast](img/c376e383bcba35fee474cc851d0177ab.png)T2】](https://asciinema.org/a/MyvxqcN0oMbmGc8xAaJh4U2Fz)
 
 # 安装
 

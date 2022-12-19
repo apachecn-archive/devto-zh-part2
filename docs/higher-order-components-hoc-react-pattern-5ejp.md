@@ -122,7 +122,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在下面的例子中，我们将开发一个高阶组件，它接受`BaseComponent`和 API URL 来获取它需要的数据。当数据被加载时，它将显示一个加载状态，一旦数据被加载，我们将显示任何基于数据的`BaseComponent`渲染。最终结果将如下所示。
 
-[![HOC example](../Images/d992330e38790beb3550302055b919e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5CAapSJ2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.karolisram.com/content/images/2018/07/loading_gif.gif)
+[![HOC example](img/d992330e38790beb3550302055b919e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5CAapSJ2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.karolisram.com/conteimg/2018/07/loading_gif.gif)
 
 首先，我们将创建一个高阶组件函数。我们称它为`withLoader`,并且最初将组件状态的`data`属性设置为`null`。一旦组件已经安装，我们将开始获取数据，当完成后，将`data`属性设置为返回的响应。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/seanballais/i-made-a-dev-related-comic-strip---when-you-add-a-new-feature-without-enough-tests-4cbj>
 
-[![When You Add a New Feature Without Enough Tests](../Images/3e3530cb6731c3c1b8755a43cba09a09.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bArv-FrJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://seanballais.github.io/static/img/posts/comic-strip-3-when-you-add-a-new-feature-without-enough-tests/comic-strip.jpeg)
+[![When You Add a New Feature Without Enough Tests](img/3e3530cb6731c3c1b8755a43cba09a09.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bArv-FrJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://seanballais.github.io/static/img/posts/comic-strip-3-when-you-add-a-new-feature-without-enough-tests/comic-strip.jpeg)
 
 你做过哪些没有测试的软件项目？体验如何？请在下面的评论中告诉我。
 

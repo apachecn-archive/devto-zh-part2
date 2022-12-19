@@ -8,7 +8,7 @@
 
 我们将构建一个应用程序，该应用程序将基于我们注入其中的初始坐标从服务器接收坐标。收到这些坐标后，我们会在应用程序上更新地图。
 
-[![](../Images/64ef772a53aff3ca13ab2570d169a5d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IlHlph0g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0b6ca0rhcl9jwhobc41g.gif)
+[![](img/64ef772a53aff3ca13ab2570d169a5d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IlHlph0g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0b6ca0rhcl9jwhobc41g.gif)
 
 ## 要求
 
@@ -120,7 +120,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 打开 Android studio 并创建一个新项目。输入您的应用程序详细信息，包括 Kotlin 支持，选择一个最低的 SDK(这不应该低于 API 14)，选择一个空活动，并完成该过程。下面是这个过程的快速 GIF:
 
-[![](../Images/4a346a41b1a47670e299ab34e01ec2da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rAcF6qL5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0xkm2eamptyuv9yvvd5p.gif)
+[![](img/4a346a41b1a47670e299ab34e01ec2da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rAcF6qL5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0xkm2eamptyuv9yvvd5p.gif)
 
 ### 添加应用依赖关系
 

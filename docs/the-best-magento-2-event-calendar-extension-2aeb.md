@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/tigren5/the-best-magento-2-event-calendar-extension-2aeb>
 
-[![magento 2 event calendar extension](../Images/8996b00a12218764f9370bfd7b5b170b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mTUFTQBG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.tigren.com/wp-content/uploads/2018/07/magento-2-event-calendar-extension.png)
+[![magento 2 event calendar extension](img/8996b00a12218764f9370bfd7b5b170b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mTUFTQBG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.tigren.com/wp-content/uploads/2018/07/magento-2-event-calendar-extension.png)
 
 **[Magento 2 活动日历扩展](https://www.tigren.com/magento-2-extensions/magento-2-event-calendar/)** 为商家提供了一个在他们的电子商务商店中轻松创建和管理活动的工具。这是一个完美的工具，不仅可以通知商店访客即将举行的活动，还可以为他们提供最方便的注册或购买活动门票的方式。
 

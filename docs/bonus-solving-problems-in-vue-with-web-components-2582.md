@@ -98,4 +98,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 几天后，我们将在聚合物库的第 4 部分再见。
 
-您想就此处涉及的任何主题进行一对一的辅导吗？[![Contact me on Codementor](../Images/97f0e0737ce864c47f2412396b01e737.png)T2】](https://www.codementor.io/bennyp?utm_source=github&utm_medium=button&utm_term=bennyp&utm_campaign=github)
+您想就此处涉及的任何主题进行一对一的辅导吗？[![Contact me on Codementor](img/97f0e0737ce864c47f2412396b01e737.png)T2】](https://www.codementor.io/bennyp?utm_source=github&utm_medium=button&utm_term=bennyp&utm_campaign=github)

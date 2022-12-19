@@ -64,7 +64,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 给容器添加有趣的“边框”
 
-[![Full Gradient border](../Images/7565020de573e368c4d06a9d28ecccb5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0qAAmMgN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bryanlrobinson.com/images/pseudo-element-full-border.png)
+[![Full Gradient border](img/7565020de573e368c4d06a9d28ecccb5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0qAAmMgN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bryanlrobinson.cimg/pseudo-element-full-border.png)
 
 [https://www.youtube.com/embed/_Vtvc0JIgQ8](https://www.youtube.com/embed/_Vtvc0JIgQ8)
 
@@ -149,7 +149,7 @@ A `<blockquote>`是一个很好的语义元素。让我们不要用额外的标�
 
 在这三个用例之外的另一个帖子上，有一个很好的讨论！去看看！
 
-[![brob](../Images/5b5e9de500cf76ddabb094a375b16a68.png)](/brob) [## 是否使用 CSS ::before 和::after 伪元素？
+[![brob](img/5b5e9de500cf76ddabb094a375b16a68.png)](/brob) [## 是否使用 CSS ::before 和::after 伪元素？
 
 ### 布莱恩·罗宾逊 6 月 17 日 191 分钟阅读
 
@@ -157,7 +157,7 @@ A `<blockquote>`是一个很好的语义元素。让我们不要用额外的标�
 
 ## 报名参加我的伪元素课程:伪动力
 
-[![Pseudo Power Cover Image](../Images/8095fc79943448ba448ef9ede4aa48ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lw2zS3kS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d31ezp3r8jwmks.cloudfront.net/variants/aftsVnPtM1cNc1m5M3bBrEm9/d2e337a4f6900f8d0798c596eb0607a8e0c2fbddb6a7ab7afcd60009c119d4c7)
+[![Pseudo Power Cover Image](img/8095fc79943448ba448ef9ede4aa48ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lw2zS3kS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d31ezp3r8jwmks.cloudfront.net/variants/aftsVnPtM1cNc1m5M3bBrEm9/d2e337a4f6900f8d0798c596eb0607a8e0c2fbddb6a7ab7afcd60009c119d4c7)
 
 我正在完成一门关于伪元素的课程。如果您在下面的链接注册，当它启动时您会收到通知！
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/writing-for-readability-with-declarative-arrays-4igf>
 
-[![](../Images/d51d679ddae0433a2dfecabc66a1c622.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vU6AQc9Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/1%2APFDFHEJZiETncPczyBVJOQ.jpeg)
+[![](img/d51d679ddae0433a2dfecabc66a1c622.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vU6AQc9Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/1%2APFDFHEJZiETncPczyBVJOQ.jpeg)
 
 在过去的几年里，JavaScript 经历了一些重大的变化。ES6 的广泛采用和现代框架的兴起已经将前端行业的焦点转移到更具声明性的方法上。
 
@@ -12,7 +12,7 @@
 
 这里有几种方法可以做到这一点。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### 声明式数组方法
 
@@ -117,7 +117,7 @@ map 方法返回一个与原始数组长度相等的数组，而不是跟踪累�
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

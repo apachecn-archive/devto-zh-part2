@@ -4,9 +4,9 @@
 
 公告:
 
-> ![unknown tweet media content](../Images/25545c6742a7895e086b3e8f8f83a803.png)![Henry Zhu profile image](../Images/e41e3d39e729a71d633b97dba4b5c9d3.png)亨利朱@ left _ pad![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)搞定。巴别塔 7 上映了🎤
+> ![unknown tweet media content](img/25545c6742a7895e086b3e8f8f83a803.png)![Henry Zhu profile image](img/e41e3d39e729a71d633b97dba4b5c9d3.png)亨利朱@ left _ pad![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)搞定。巴别塔 7 上映了🎤
 > 
-> 2018 年 8 月 27 日 22 点 21 分[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1034204330352500736)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1034204330352500736)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1034204330352500736)
+> 2018 年 8 月 27 日 22 点 21 分[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1034204330352500736)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1034204330352500736)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1034204330352500736)
 
 帖子:[https://babeljs.io/blog/2018/08/27/7.0.0](https://babeljs.io/blog/2018/08/27/7.0.0)
 

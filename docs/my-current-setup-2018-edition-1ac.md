@@ -8,7 +8,7 @@
 
 我主要是编程 PHP。大部分时间我都是用[PHP form](https://www.jetbrains.com/phpstorm)开发的。下面是它的截图:
 
-[![IDE](../Images/beb126a860647db3d3b3c7d8c0e9a842.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iJg7Ctkm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/setup-2018/ide.png)
+[![IDE](img/beb126a860647db3d3b3c7d8c0e9a842.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iJg7Ctkm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/setup-2018/ide.png)
 
 你可以在这个报告中找到我使用的配色方案[。使用的字体是 IBM Plex Mono:这是一种很棒的字体，你可以在 T2 的 IBM 官方回购处免费下载。](https://github.com/freekmurze/phpstorm-color-schemes)
 
@@ -20,7 +20,7 @@
 
 这是我的终端截图。
 
-[![Terminal](../Images/b24b70e45a6663071d5d4769e7278d3c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b9_PJWm4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/setup-2018/terminal.png)
+[![Terminal](img/b24b70e45a6663071d5d4769e7278d3c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b9_PJWm4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/setup-2018/terminal.png)
 
 我所有的终端设置都保存在[我的点文件库](https://github.com/freekmurze/dotfiles)中。如果您想要相同的环境，请遵循 repo 的安装说明。
 
@@ -34,7 +34,7 @@
 
 默认情况下，我隐藏菜单栏和 dock。我喜欢保持我的桌面超级干净，即使是硬盘也不允许放在那里。在我的码头上没有任何粘性程序。只有正在运行的应用程序在那里。我只有一叠下载和桌面永久在那里。这里有一个截图，我故意把我的指针向下移动，这样 dock 就显示出来了。
 
-[![Dock](../Images/da71aab363888de512c5f2a7b9115895.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MfzxJn2n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/setup-2018/dock.png)
+[![Dock](img/da71aab363888de512c5f2a7b9115895.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MfzxJn2n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/setup-2018/dock.png)
 
 我还隐藏了正在运行的应用程序的指示器(每个应用程序下面的点)，因为如果它在我的 dock 上，它就在运行。
 
@@ -70,7 +70,7 @@
 
 这是我当前主屏幕的截图。
 
-[![Homescreen](../Images/0ec3cadc20ccfd0a35d771e4c3e56bf4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bw6S3Tuh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/setup-2018/phone2.jpeg)
+[![Homescreen](img/0ec3cadc20ccfd0a35d771e4c3e56bf4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bw6S3Tuh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/setup-2018/phone2.jpeg)
 
 我不使用文件夹，并试图将安装的应用程序数量保持在最低水平。我大部分时间是在 Safari，Pocket，Reeder，Tweetbot 中度过的。除了“信息”之外，所有应用程序的通知和通知徽章都已关闭。
 
@@ -92,7 +92,7 @@
 
 ## 硬件
 
-[![Mac info window](../Images/a7a4555bb1e825dd48006d933b39ae82.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PEzB8lQx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/setup-2018/macos.png)
+[![Mac info window](img/a7a4555bb1e825dd48006d933b39ae82.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PEzB8lQx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/setup-2018/macos.png)
 
 我用的是 13 寸的 Macbook Pro，内存 16GB，硬盘 1TB。我选择了那个大硬盘来存储我所有的音乐和照片。现在，iTunes 音乐和照片服务已经出现，如果我今天要买一台新机器，我可能会选择一个更小的 HD。
 

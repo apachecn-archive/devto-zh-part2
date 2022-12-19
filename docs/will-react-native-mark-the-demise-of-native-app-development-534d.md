@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/topsinfosol/will-react-native-mark-the-demise-of-native-app-development-534d>
 
-[![Progressive Web Apps](../Images/445595b845753209c5f4abd465ed5c76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3zyDZRcx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.topsinfosolutions.com/wp-content/uploads/2018/08/React-Native-Main-Image.jpg)
+[![Progressive Web Apps](img/445595b845753209c5f4abd465ed5c76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3zyDZRcx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.topsinfosolutions.com/wp-content/uploads/2018/08/React-Native-Main-Image.jpg)
 
 你可以使用你现有的网络开发技能，并利用这些技能开发出原生的 iOS 和 Android 应用。完全有可能利用你的 HTML、CSS 和 JavaScript 技能来开发原生 Android 和 iOS 应用。
 
@@ -10,7 +10,7 @@
 
 如果你仍然不相信我，这些应用程序真的很棒。拿出你的手机，看看这些应用中的一个:脸书、信使、Instagram、Skype 和 Airbnb。它们是在 React Native 中开发的。
 
-[![Companies using react native](../Images/258744249056724d18e66d1f6c5814f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B-HQItZN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.topsinfosolutions.com/wp-content/uploads/2018/08/1-Companies-using-react-native.jpg)
+[![Companies using react native](img/258744249056724d18e66d1f6c5814f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B-HQItZN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.topsinfosolutions.com/wp-content/uploads/2018/08/1-Companies-using-react-native.jpg)
 
 **什么是 React Native？**
 
@@ -36,15 +36,15 @@ React 原生应用的性能或多或少类似于用原生 iOS 代码编写的应
 
 在 CPU 使用方面，性能是相似的，尽管地图在 Swift 中表现更好。
 
-[![CPU Usage](../Images/4b1ecc0363bf4a6292096d9c3159f21b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Kjddyw8u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.topsinfosolutions.com/wp-content/uploads/2018/08/2-CPU-Usage.jpg)
+[![CPU Usage](img/4b1ecc0363bf4a6292096d9c3159f21b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Kjddyw8u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.topsinfosolutions.com/wp-content/uploads/2018/08/2-CPU-Usage.jpg)
 
 为了计算 GPU 性能，Native 与 React Native，作者计算了 GPU 负载下应用程序的每秒帧数(FPS)。令人惊讶的是，尽管差距很小，React Native 每秒钟比 Swift code 多 6.25 帧。
 
-[![GPU Usage](../Images/15ff434516f451b8b545fc0f6279f8d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yDvFkxXa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.topsinfosolutions.com/wp-content/uploads/2018/08/3-GPU-Usage.jpg)
+[![GPU Usage](img/15ff434516f451b8b545fc0f6279f8d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yDvFkxXa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.topsinfosolutions.com/wp-content/uploads/2018/08/3-GPU-Usage.jpg)
 
 对于内存测试，作者专注于地图，因为其他功能的内存足迹可以忽略不计，以找出一个对比。显然，在最高性能时，React Native 使用的内存比 Swift 少 61.11 MiB。在执行任务和记录测量结果时，他发现内存使用量出现了峰值，此时他按下了“地图”选项卡，这促使 MapView 找到我的当前位置，并用蓝色脉动点突出显示。
 
-[![Memory Usage](../Images/d9f6783ee874e32115046c524fb772b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QzpuVxaw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.topsinfosolutions.com/wp-content/uploads/2018/08/4-Memory-Usage.jpg)
+[![Memory Usage](img/d9f6783ee874e32115046c524fb772b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QzpuVxaw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.topsinfosolutions.com/wp-content/uploads/2018/08/4-Memory-Usage.jpg)
 
 **React Native 是开发移动应用最聪明的方式**
 
@@ -62,11 +62,11 @@ React Native 最大的好处是现在有了比以往更多的选择。开发者�
 
 然而，React Native 正在以惊人的速度增长，如果这种增长持续下去，我们很快就会发现 React Native 的开发者比 Swift 或 Kotlin 的开发者更多。移动生态系统的这种发展将标志着传统移动开发形式的巨大转变。该领域将不断发展，将 React 本地开发或任何类似的新兴或即将到来的技术纳入移动应用开发。
 
-[![React Native Trends](../Images/63ce3b7b45c66759d5dc1dfafb1b9cb9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x0Pq1nzY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.topsinfosolutions.com/wp-content/uploads/2018/08/5-React-Native-Trends.jpg)
+[![React Native Trends](img/63ce3b7b45c66759d5dc1dfafb1b9cb9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x0Pq1nzY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.topsinfosolutions.com/wp-content/uploads/2018/08/5-React-Native-Trends.jpg)
 
 谷歌趋势是一个流行的工具，用来了解人们对一个搜索词的兴趣。当用于预测人们对技术或移动开发技术的兴趣时，它可以告诉他们哪些在增长，哪些在下降。
 
-[![React native Google trends](../Images/00909ce90caf31d4c22ae3863f016b28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8VT9baI_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.topsinfosolutions.com/wp-content/uploads/2018/08/6-React-native-Google-trends.jpg)
+[![React native Google trends](img/00909ce90caf31d4c22ae3863f016b28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8VT9baI_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.topsinfosolutions.com/wp-content/uploads/2018/08/6-React-native-Google-trends.jpg)
 
 *来源:* [*谷歌趋势*](https://trends.google.com/trends/explore?geo=US&q=android%20development,iOS%20development,React%20Native)
 
@@ -74,7 +74,7 @@ React Native 最大的好处是现在有了比以往更多的选择。开发者�
 
 Android 开发者有一个一致的抱怨。他们挣得没有 iOS 同行多，投资回报率也很难获得。在一些人口统计中，收入差距几乎是两倍。
 
-[![World wide app store revenue](../Images/00312ae3922a99056174a45330763649.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Kuoi5pNn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.topsinfosolutions.com/wp-content/uploads/2018/08/7-World-wide-app-store-revenue.jpg)
+[![World wide app store revenue](img/00312ae3922a99056174a45330763649.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Kuoi5pNn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.topsinfosolutions.com/wp-content/uploads/2018/08/7-World-wide-app-store-revenue.jpg)
 
 *来源:App Annie*
 
@@ -86,6 +86,6 @@ React Native 和类似的 JavaScript 框架的流行正在模糊 web 和移动�
 
 对于寻求开发移动应用的企业来说，React Native 带来了大量的机会。他们可以以很低的成本瞄准这两个移动平台。由于我提到的原因，企业更喜欢 iOS 而不是 Android，React Native 将为 Android 开发带来新的生机。
 
-[![CTA02](../Images/ee3428fe1c85aea65047072999e6d4c8.png)T2】](http://www.topsinfosolutions.com/inquiry/)
+[![CTA02](img/ee3428fe1c85aea65047072999e6d4c8.png)T2】](http://www.topsinfosolutions.com/inquiry/)
 
 帖子[会不会反应原生标志着原生应用开发的消亡？](https://www.topsinfosolutions.com/blog/react-native-vs-native-app-development/)最初发表于 [TOPS Infosolutions](http://www.topsinfosolutions.com)

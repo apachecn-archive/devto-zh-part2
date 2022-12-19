@@ -36,7 +36,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 # 你确定我们不需要地图？
 
-[![Lost in the desert](../Images/73d408f0fd769063c4c2eac8a94fea21.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JuarEI_S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/29q3nrdrzw2xlmz5aj9v.jpg) 照片来自 [Julian Peters 摄影](https://julianpetersphotography.de/blog/getting-lost-in-the-desert-my-trip-to-the-sahara/)
+[![Lost in the desert](img/73d408f0fd769063c4c2eac8a94fea21.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JuarEI_S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/29q3nrdrzw2xlmz5aj9v.jpg) 照片来自 [Julian Peters 摄影](https://julianpetersphotography.de/blog/getting-lost-in-the-desert-my-trip-to-the-sahara/)
 
 `Array.prototype.map()`取一个函数应用于数组的每个元素，并返回结果数组。`map` ping 的经典例子是加倍整数:
 
@@ -86,7 +86,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 # 来筛选一下我们的$#！+
 
-![Filtering stream water](../Images/cda993fe37eeab6620241bab39fcf529.png)
+![Filtering stream water](img/cda993fe37eeab6620241bab39fcf529.png)
 Image from [Outside Magazine](https://www.outsideonline.com/2316951/know-when-its-time-new-water-filter)
 
 `Array.prototype.filter()`接受一个谓词函数，并返回一个值数组，当谓词被应用时，该数组返回一个真值。例如，如果我们只想从数组中获取奇数，我们可以使用:
@@ -127,7 +127,7 @@ isOdd(5) ? [1,3].pushAndReturn(5) : [1,3] = [1,3,5]
 
 # 如此...为什么？
 
-[![Ryan Reynolds' existential question](../Images/938fa768b344f7fcaf2aefad6c8f9f8d.png)T2】](https://i.giphy.com/media/1M9fmo1WAFVK0/giphy.gif)
+[![Ryan Reynolds' existential question](img/938fa768b344f7fcaf2aefad6c8f9f8d.png)T2】](https://i.giphy.com/media/1M9fmo1WAFVK0/giphy.gif)
 
 虽然这主要是一个思考练习(我不一定在产品代码中使用`reduce()`来代替`map()`)，但重要的是要记住`reduce()`可以返回任何类型的值。当然，你可以用 reduce 做加法、乘法和串联运算...但是您也可以进行映射、过滤、在元素匹配谓词时获取元素、构建树结构、从列表/数组创建字典/映射...全部通过使用 reduce。
 

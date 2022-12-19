@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/arquitectosoft1/non-functional-requirements-the-pillars-of-a-solid-software-architecture-2mbg>
 
-[![Non Functional Requirements](../Images/ce0f93e9c30b01884745c6e002822880.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oLghcdBU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rl099ybsi3zorkvpgyo0.jpg)
+[![Non Functional Requirements](img/ce0f93e9c30b01884745c6e002822880.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oLghcdBU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rl099ybsi3zorkvpgyo0.jpg)
 
 ## 软件架构中的非功能需求是什么
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/changoman/vuejs-and-chartjs-weather-api-example-1e7>
 
-[![](../Images/9f443bf3d5857a6efbae450f4a422348.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jY65Ej4n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/am3zlaek3rv73oyjf2pf.jpg)
+[![](img/9f443bf3d5857a6efbae450f4a422348.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jY65Ej4n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/am3zlaek3rv73oyjf2pf.jpg)
 
 *本帖最初发表于[codebushi.com](https://codebushi.com/vuejs-with-chartjs-api-example/)T3】*
 

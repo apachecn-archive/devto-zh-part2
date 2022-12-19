@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/masonite/masonite-python-framework-knowledge-series-part-1---understanding-auto-resolving-dependency-injection-14ma>
 
-[![](../Images/2327baeec801531a88719bd1ad6d08d0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZRKPnaDu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78uauinv9ddawwfxevos.png)
+[![](img/2327baeec801531a88719bd1ad6d08d0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZRKPnaDu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78uauinv9ddawwfxevos.png)
 
 # 简介
 

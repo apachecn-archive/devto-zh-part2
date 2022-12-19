@@ -8,7 +8,7 @@
 
 我每天都使用这两个选项，但强烈希望这两个选项不一致，无论是一般用途还是编码讨论。这里我要解释为什么不和谐更好。
 
-[![Discord  -  free voice and text chat for gamers](../Images/a62b02913246569dabb66f56dfed6848.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J7PaAwHm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/0%2AIjkUzF5pJhFbNySx.png)
+[![Discord  -  free voice and text chat for gamers](img/a62b02913246569dabb66f56dfed6848.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J7PaAwHm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/0%2AIjkUzF5pJhFbNySx.png)
 
 ## 多台服务器无缝协作
 
@@ -26,7 +26,7 @@ Slack 有这样的选项——使用标准的 markdown，你可以编写内联�
 
 不和谐感觉自然多了。没有弹出窗口来插入代码——你可以从聊天栏完成所有的工作。你可以写 GitHub 风格的 Markdown 来告诉你它用的是什么语言，从而突出语法。也有一些小事情可以防止你弄乱，比如当你写一个多行代码块时，点击“返回”键会插入一个新行，而不是提交消息。
 
-[![Writing a multi-line code block in Discord's chat](../Images/76677eff89a7124975837bfba9426f8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pFZFYT-b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2A3rN8CnVRB2C4RpLFw_91gA.gif)
+[![Writing a multi-line code block in Discord's chat](img/76677eff89a7124975837bfba9426f8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pFZFYT-b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2A3rN8CnVRB2C4RpLFw_91gA.gif)
 
 *(在不和谐的聊天中写多行代码块)*
 
@@ -58,17 +58,17 @@ Slack 有这样的选项——使用标准的 markdown，你可以编写内联�
 
 **懈怠**有个性。它在某些地方很有趣，也很友好，比如当你给一条信息添加太多反应时的措辞。虽然它非常有限，但应用程序本身仍然给人一种公司化和非个人化的感觉——这对它的目标受众来说是完美的，但不是对每个人都是。
 
-[![Slack popup upon adding too many reactions](../Images/1d531907c4e17d762cc9c52c623f2eb4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fAFjLPjX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AiTNLjGIFQsConBd4zKK8ZQ.png)
+[![Slack popup upon adding too many reactions](img/1d531907c4e17d762cc9c52c623f2eb4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fAFjLPjX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AiTNLjGIFQsConBd4zKK8ZQ.png)
 
 *(加入太多反应时松弛弹出)*
 
 另一方面，不和谐有很多个性。它的目标市场是游戏玩家，这一点它玩得很好。该应用程序充满了个性，从随机社区提交的加载消息，有趣的自定义表情符号，和丰富多彩的成员列表。到处都是迷因和笑话，一种可靠而有趣的艺术风格，changelogs 是一种阅读的绝对乐趣，应用程序中有很多你不会想到的小东西，但当你遇到一个时很好——就像表情选择器在你鼠标经过它时会变成一个随机的表情。
 
-[![Discord emoji picker](../Images/b7a7c751f95fc9488c0cc1fcbf29d128.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PPu0OWSC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AuWgv_mSfPuDJmg-ZQVtM4Q.gif)
+[![Discord emoji picker](img/b7a7c751f95fc9488c0cc1fcbf29d128.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PPu0OWSC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AuWgv_mSfPuDJmg-ZQVtM4Q.gif)
 
 *(不和谐表情符号选择器)*
 
-[![Discord changelog excerpt from August 8 2018](../Images/4c293bb65673b663e38d7597f96a2a8a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RuY7xpTi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2ANWoaOhMktYtVqAlq-ker7g.png)
+[![Discord changelog excerpt from August 8 2018](img/4c293bb65673b663e38d7597f96a2a8a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RuY7xpTi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2ANWoaOhMktYtVqAlq-ker7g.png)
 
 *(Discord changelog 节选自 2018 . 8 . 8)*
 

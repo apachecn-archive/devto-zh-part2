@@ -42,7 +42,7 @@
 
 > **会话发起协议** ( **SIP** )是[通信协议](https://en.wikipedia.org/wiki/Communications_protocol)，用于[网络电话](https://en.wikipedia.org/wiki/Internet_telephony)的语音和视频呼叫应用中的[信令](https://en.wikipedia.org/wiki/Signaling_(telecommunications))和控制多媒体[通信会话](https://en.wikipedia.org/wiki/Communication_session)，以及在[互联网协议](https://en.wikipedia.org/wiki/Internet_Protocol) (IP)网络上的[即时消息](https://en.wikipedia.org/wiki/Instant_messaging)。
 
-[![](../Images/3260a6a7cefb3d31384f507957c00395.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CCgTPZ2z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AQBmsgWtKc5q30xgb.jpeg)
+[![](img/3260a6a7cefb3d31384f507957c00395.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CCgTPZ2z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AQBmsgWtKc5q30xgb.jpeg)
 
 *   [会话发起协议](https://en.wikipedia.org/wiki/Session_Initiation_Protocol)
 
@@ -78,7 +78,7 @@
 
 *   Kamailio :这是我用过的服务器，它可以很好地与许多标准 SIP 客户端兼容，包括 pjsip。在这台服务器上调试也是一个有趣的故事
 
-[![](../Images/0911e23fe7bd6765c4757dc44538a0f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iNzoAuwB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2A2bnrKUxdiJMuqO1D.png)
+[![](img/0911e23fe7bd6765c4757dc44538a0f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iNzoAuwB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2A2bnrKUxdiJMuqO1D.png)
 
 *   [使用 Kamailio 3.1 和 Rtpproxy 服务器配置 NAT 穿越](http://nil.uniza.sk/sip/nat-fw/configuring-nat-traversal-using-kamailio-31-and-rtpproxy-server):我不知道我已经读了这个帖子多少次了
 
@@ -106,7 +106,7 @@ RTP、SIP 客户端和服务器需要符合一些预定义协议，以满足标�
 
 NAT 解决了缺少 IP 的问题，但是它给 SIP 应用程序带来了很多问题，对我也是如此😂
 
-[![](../Images/041db9e5d3f2988c0ab79fa8625f8320.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DaHH5X16--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2ACyseeMdKG6RWTsoM.gif)
+[![](img/041db9e5d3f2988c0ab79fa8625f8320.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DaHH5X16--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2ACyseeMdKG6RWTsoM.gif)
 
 *   [网络地址转换](https://en.wikipedia.org/wiki/Network_address_translation):网络地址转换(NAT)是一种将一个 IP 地址空间重新映射到另一个 IP 地址空间的方法，方法是在数据包通过流量路由设备传输时修改数据包 IP 报头中的网络地址信息
 
@@ -132,7 +132,7 @@ NAT 解决了缺少 IP 的问题，但是它给 SIP 应用程序带来了很多�
 
 了解 TCP 如何帮助 SIP 启动会话，并打开 TCP 模式发送数据包
 
-[![](../Images/d63b3e47ac8ba0599867bdcc496781e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z6XZ_eVw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2826/0%2AOKLXqTzL1z4-OhZO.png)
+[![](img/d63b3e47ac8ba0599867bdcc496781e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z6XZ_eVw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2826/0%2AOKLXqTzL1z4-OhZO.png)
 
 *   [传输控制协议](https://en.wikipedia.org/wiki/Transmission_Control_Protocol):传输控制协议(TCP)是互联网协议族的主要协议之一。它起源于最初的网络实施，其中它补充了互联网协议(IP)
 
@@ -210,7 +210,7 @@ NAT 解决了缺少 IP 的问题，但是它给 SIP 应用程序带来了很多�
 
 了解音频中的语音质量、带宽和固定延迟
 
-[![](../Images/43e99b2baf8600998de65c05405214f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZMB8aIVM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AGst1j53g8PaqkBuP6RbZZg.png)
+[![](img/43e99b2baf8600998de65c05405214f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZMB8aIVM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AGst1j53g8PaqkBuP6RbZZg.png)
 
 *   [VoIP —固定语音质量](https://www.voipmechanic.com/phoneandvoicequality_2.htm)
 
@@ -236,7 +236,7 @@ NAT 解决了缺少 IP 的问题，但是它给 SIP 应用程序带来了很多�
 
 这是 VoIP 中一个很常见的问题，有时我们会听到对方和自己的声音。了解回声是如何产生的，以及如何有效地消除回声
 
-[![](../Images/7133aea86d4518b2eabd22d85a88f199.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BqlCVp_8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AGyZHcz0TKL_UHdYJ.png)
+[![](img/7133aea86d4518b2eabd22d85a88f199.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BqlCVp_8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AGyZHcz0TKL_UHdYJ.png)
 
 *   [IP 语音的回声分析](https://www.cisco.com/c/en/us/td/docs/ios/solutions_docs/voip_solutions/EA_ISD.html)
 
@@ -266,7 +266,7 @@ NAT 解决了缺少 IP 的问题，但是它给 SIP 应用程序带来了很多�
 
 > PJSIP 是一个免费的开源多媒体通信库，用 C 语言编写，实现了基于标准的协议，如 SIP、SDP、RTP、STUN、TURN 和 ICE。它将信令协议(SIP)与丰富的多媒体框架和 NAT 穿越功能结合到高级 API 中，该 API 是可移植的，适用于从桌面、嵌入式系统到移动手机的几乎任何类型的系统。
 
-[![](../Images/58fe93a69d26d384324e146e0ed19208.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---yWn882r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AE82pcZW_6lhy8l1H.jpg)
+[![](img/58fe93a69d26d384324e146e0ed19208.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---yWn882r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AE82pcZW_6lhy8l1H.jpg)
 
 *   [PJSUA API —高级软电话 API](http://www.pjsip.org/pjsip/docs/html/group__PJSUA__LIB.htm):pj sip 的高级使用
 
@@ -274,7 +274,7 @@ NAT 解决了缺少 IP 的问题，但是它给 SIP 应用程序带来了很多�
 
 *   [pjsip 文件](https://trac.pjsip.org/repos/)
 
-[![](../Images/849f17def8d1a09ac338e6c6d83fb9f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bXhTO5ZE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2Ae4Lr7TxJlSdQhA-b.png)
+[![](img/849f17def8d1a09ac338e6c6d83fb9f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bXhTO5ZE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2Ae4Lr7TxJlSdQhA-b.png)
 
 *   [有状态操作](http://www.pjsip.org/pjsip/docs/html/group__PJSIP__TRANSACT__UTIL.htm):有状态发送请求的常用函数
 
@@ -282,7 +282,7 @@ NAT 解决了缺少 IP 的问题，但是它给 SIP 应用程序带来了很多�
 
 *   [了解媒体流](https://trac.pjsip.org/repos/wiki/media-flow#IncomingRTPRTCPPackets):这是必读。媒体层非常重要，它控制声音、编解码器和会议桥。
 
-[![](../Images/071227f7047cfd8d4b0dbd7215853545.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0YGj9nya--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AoEs7lMDuaSG-En-R7ig-og.png)
+[![](img/071227f7047cfd8d4b0dbd7215853545.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0YGj9nya--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AoEs7lMDuaSG-En-R7ig-og.png)
 
 *   [入门:构建和使用 PJSIP 和 PJMEDIA](http://www.pjsip.org/using.htm) :本文描述了如何下载、定制、构建和使用开源的 PJSIP 和 PJMEDIA SIP 和媒体堆栈
 
@@ -308,7 +308,7 @@ NAT 解决了缺少 IP 的问题，但是它给 SIP 应用程序带来了很多�
 
 *   [DNS 异步/缓存解析引擎](http://www.pjsip.org/pjlib-util/docs/html/group__PJ__DNS__RESOLVER.htm):pjsip 如何自行处理 DNS 解析
 
-[![](../Images/ab53b39b590a951121375e898bef693f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nteNahaT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AVBotMl-b9232q1JL.png)
+[![](img/ab53b39b590a951121375e898bef693f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nteNahaT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AVBotMl-b9232q1JL.png)
 
 *   安全套接字 I/O:如果你想学习如何在幕后使用 SSL，这里的代码很重要
 
@@ -324,7 +324,7 @@ NAT 解决了缺少 IP 的问题，但是它给 SIP 应用程序带来了很多�
 
 pjsip 使用[本地线程存储](https://en.wikipedia.org/wiki/Thread-local_storage)，这引入了非常酷的行为
 
-[![](../Images/412e486f726aa4d5f18e68ed51d04aa7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kdbsLJpm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2ArD0iy3joZsBXsMYo.png)
+[![](img/412e486f726aa4d5f18e68ed51d04aa7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kdbsLJpm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2ArD0iy3joZsBXsMYo.png)
 
 *   [线程——依赖于操作系统的功能](http://www.pjsip.org/pjlib/docs/html/group__PJ__THREAD.htm)
 
@@ -342,7 +342,7 @@ pjsip 使用[本地线程存储](https://en.wikipedia.org/wiki/Thread-local_stor
 
 如何处理媒体流的采样速率
 
-[![](../Images/b535d910f5281faa8125623337454350.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xbll0liW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2ADkP_SZQGZaSdvZAF.jpg)
+[![](img/b535d910f5281faa8125623337454350.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xbll0liW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2ADkP_SZQGZaSdvZAF.jpg)
 
 *   [重采样端口](http://www.pjsip.org/pjmedia/docs/html/group__PJMEDIA__RESAMPLE__PORT.htm):如何在 pjmedia 中进行重采样
 

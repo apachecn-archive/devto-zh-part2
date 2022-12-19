@@ -29,7 +29,7 @@
 
 端点是一个 [AWS API Gateway](https://aws.amazon.com/api-gateway/) 事件，它将触发一个 AWS Lambda 函数。该功能将告诉 AWS SES 向您的电子邮件地址发送一封包含相关内容的电子邮件。从那里，你可以继续与填写表格的人交换电子邮件。简单吧？
 
-[![overview](../Images/ee9c0443812358667a24d86c29f12f2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gKuuon3W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/lambda-mailer/lambda-mailer.png)
+[![overview](img/ee9c0443812358667a24d86c29f12f2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gKuuon3W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/lambda-mailer/lambda-mailer.png)
 
 开始黑吧！
 
@@ -37,11 +37,11 @@
 
 为了使用 AWS 提供的简单电子邮件服务发送电子邮件，您需要验证将用于发送电子邮件的电子邮件地址。就像导航到 AWS 控制台并搜索**简单电子邮件服务**一样简单。
 
-[![ses-1](../Images/3b3305c4f5ebcc6602c6b113685df8a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zohP5aXm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/building-a-serverless-contact-form/ses-2.png)
+[![ses-1](img/3b3305c4f5ebcc6602c6b113685df8a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zohP5aXm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/building-a-serverless-contact-form/ses-2.png)
 
 点击左侧导航栏上的**电子邮件地址**链接。你会看到一个名为**的蓝色大按钮，用于验证新的电子邮件地址**。按下它并添加您的电子邮件地址。
 
-[![ses-2](../Images/08cb089d026f72720f78ddb9b596498f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bnKRIC3q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/building-a-serverless-contact-form/ses-1.png)
+[![ses-2](img/08cb089d026f72720f78ddb9b596498f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bnKRIC3q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/building-a-serverless-contact-form/ses-1.png)
 
 AWS 现在将向您发送一封验证电子邮件到该地址。去验证一下吧。差不多就是这样。准备好写一些代码了吗？
 
@@ -237,7 +237,7 @@ $ serverless deploy
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![deploy](../Images/79071764555a5fa81510903521642b5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ApCvDzmq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/building-a-serverless-contact-form/deploy.png)
+[![deploy](img/79071764555a5fa81510903521642b5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ApCvDzmq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/building-a-serverless-contact-form/deploy.png)
 
 您可以看到端点被记录到控制台。这是您发送请求的地方。
 
@@ -256,7 +256,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果一切正常，你会很快收到一封电子邮件。如果不是，那么你就不走运了。在这种情况下，我默认使用 [Dashbird](https://dashbird.io/register/) 来调试正在发生的事情。
 
-[![dashbird-lambda-mailer-2](../Images/67a13a1188639abd66b5bb7bbcd1128c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--218ktGCL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/building-a-serverless-contact-form/dashbird.lambda-mailer-2.gif)
+[![dashbird-lambda-mailer-2](img/67a13a1188639abd66b5bb7bbcd1128c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--218ktGCL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/building-a-serverless-contact-form/dashbird.lambda-mailer-2.gif)
 
 我这边的日志显示都是绿色的，所以它工作得很好！这就是完成的 API 部分。让我们继续联系表单本身。
 
@@ -344,15 +344,15 @@ Enter fullscreen mode Exit fullscreen mode
 
 总之，我花了时间从上面的代码中创建了一个 [npm 模块](https://www.npmjs.com/package/lambda-mailer)，所以在未来，没有人需要写两次。只需安装软件包，不到一分钟，您的 contact form endpoint 就会启动并运行。如果你想看的话，可以在 [GitHub repo](https://github.com/adnanrahic/lambda-mailer) 中找到说明。如果你想让更多的人在 GitHub 上看到它，给它一颗星吧。
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [阿德纳尼奇](https://github.com/adnanrahic) / [拉姆达-梅勒](https://github.com/adnanrahic/lambda-mailer)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [阿德纳尼奇](https://github.com/adnanrahic) / [拉姆达-梅勒](https://github.com/adnanrahic/lambda-mailer)
 
 ### 一个简单的模块，用于从您网站上的联系人表单接收电子邮件。
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-[![dependencies](../Images/b7c022726835b739c01c3896b4e6bfdf.png)](https://camo.githubusercontent.com/617833e613d2a20bec6f337f4a56041850d81547161c74d7e8d1f0f08b4cf045/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646570656e64656e636965732d302d627269676874677265656e2e737667)[![contributors](../Images/a325f8e3f1e4abad52683d0aaf0ac1fc.png)](https://camo.githubusercontent.com/a5bcf36669e36d98e99fbe2188c2969664b0c05443dc5aa94b2c4893b9fdf242/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f6e7472696275746f72732d312d626c75652e737667)[![License: MIT](../Images/1ebeb1b87ced0f5afda04a6122ee23ad.png)](https://opensource.org/licenses/MIT)[![license](../Images/955f3528819eda8770cca65909bdd341.png)T11】](https://camo.githubusercontent.com/d156644f8995e4482e77bef1d9461f742fbe53edbcd49f2b7cea3492db5ed771/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f65736c696e742d7374616e646172642d79656c6c6f77677265656e2e737667)
+[![dependencies](img/b7c022726835b739c01c3896b4e6bfdf.png)](https://camo.githubusercontent.com/617833e613d2a20bec6f337f4a56041850d81547161c74d7e8d1f0f08b4cf045/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646570656e64656e636965732d302d627269676874677265656e2e737667)[![contributors](img/a325f8e3f1e4abad52683d0aaf0ac1fc.png)](https://camo.githubusercontent.com/a5bcf36669e36d98e99fbe2188c2969664b0c05443dc5aa94b2c4893b9fdf242/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f6e7472696275746f72732d312d626c75652e737667)[![License: MIT](img/1ebeb1b87ced0f5afda04a6122ee23ad.png)](https://opensource.org/licenses/MIT)[![license](img/955f3528819eda8770cca65909bdd341.png)T11】](https://camo.githubusercontent.com/d156644f8995e4482e77bef1d9461f742fbe53edbcd49f2b7cea3492db5ed771/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f65736c696e742d7374616e646172642d79656c6c6f77677265656e2e737667)
 
-[![cover](../Images/ee9c0443812358667a24d86c29f12f2f.png)T2】](https://raw.githubusercontent.com/adnanrahic/cdn/master/lambda-mailer/lambda-mailer.png)
+[![cover](img/ee9c0443812358667a24d86c29f12f2f.png)T2】](https://raw.githubusercontent.com/adnanrahic/cdn/master/lambda-mailer/lambda-mailer.png)
 
 # 拉姆达·梅勒
 
@@ -412,7 +412,7 @@ const { sendJSON, sendFormEncoded } = require('lambda-mailer')(options)
 
 * * *
 
-[![This months sponsor is Zeet.](../Images/a4da9440f5519d3156594813d3a02017.png)T2】](https://bit.ly/adnan-zeet)
+[![This months sponsor is Zeet.](img/a4da9440f5519d3156594813d3a02017.png)T2】](https://bit.ly/adnan-zeet)
 
 免责声明: [Zeet](https://bit.ly/adnan-zeet) 将在下个月赞助这篇博客。前几天我试过了。这就像无服务器，但运行整个后端。你可以自动托管和扩展应用。相当整洁。
 

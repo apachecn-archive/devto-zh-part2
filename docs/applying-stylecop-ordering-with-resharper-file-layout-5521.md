@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/collinbarrett/applying-stylecop-ordering-with-resharper-file-layout-5521>
 
-[![StyleCop with ReSharper](../Images/636e8608701c9f4ba5db2abdc2147614.png)T2】](https://collinmbarrett.com/stylecop-ordering-resharper/)
+[![StyleCop with ReSharper](img/636e8608701c9f4ba5db2abdc2147614.png)T2】](https://collinmbarrett.com/stylecop-ordering-resharper/)
 
 在我的 C#类中，我一直在纠结成员的理想排序。对成员进行排序显然是一个清洁/可维护的因素，而不是一个功能因素，但是我确实想在我的类中创建一致性。
 
@@ -120,7 +120,7 @@ Enter fullscreen mode Exit fullscreen mode
 5.  点击右上角的`Designer`确认新的类型模式显示正确
 6.  保存您的更改
 
-<figure>[![StyleCop ReSharper File Layout TypePattern](../Images/54e1600c043fd3341c21a0ea8c96a291.png)](https://collinmbarrett.com/media/styleCopResharperFileLayout_collinmbarrett.jpg)
+<figure>[![StyleCop ReSharper File Layout TypePattern](img/54e1600c043fd3341c21a0ea8c96a291.png)](https://collinmbarrett.com/media/styleCopResharperFileLayout_collinmbarrett.jpg)
 
 <figcaption id="caption-attachment-6763">StyleCop ReSharper 文件布局类型模式</figcaption>
 

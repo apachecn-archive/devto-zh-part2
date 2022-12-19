@@ -25,7 +25,7 @@
 我认为 React 组件和状态的使用将对管理游戏的各个方面有极大的帮助。我有在我的个人项目中构建游戏的经验，并且发现在状态中管理游戏元素非常有帮助。
 
 我的初始线框将游戏分为三个区域，一个玩家面板显示游戏中的所有玩家，一个聊天面板显示游戏中的对话，一个动作面板执行游戏中的各种动作。
-[![Mafia wireframe](../Images/bd934bb89faf2510b74dd335c33c67e9.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--heNJjTBi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yvxwhvutyz44expy12m7.png)
+[![Mafia wireframe](img/bd934bb89faf2510b74dd335c33c67e9.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--heNJjTBi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yvxwhvutyz44expy12m7.png)
 
 在我的下一篇文章中，我希望分享我的进步，包括打嗝和抓到的问题。
 

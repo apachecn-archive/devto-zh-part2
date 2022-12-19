@@ -268,4 +268,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 就是这样。你所需要做的就是从 timber.io 中获取你的 API 密匙，然后你就可以看到你的日志了。我们从日志模块中自动捕获它们(并无缝地添加上下文)，因此您可以继续正常地进行日志记录。
 
-[![](../Images/aa5c715399ff218855ddd92755157269.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---Pfx3BIg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/h6vh38q7qvzk/5BUP5dDcrKae4yyaoy8ocE/ba33ae45edec6325109f05a44407a2e2/footer.png)
+[![](img/aa5c715399ff218855ddd92755157269.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---Pfx3BIg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/h6vh38q7qvzk/5BUP5dDcrKae4yyaoy8ocE/ba33ae45edec6325109f05a44407a2e2/footer.png)

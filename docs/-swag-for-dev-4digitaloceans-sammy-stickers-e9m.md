@@ -6,7 +6,7 @@
 
 洋流回来了！参加 DigitalOcean 在开源上的调查，获得免费的 Sammy 贴纸！[do.co/currents-survey](http://do.co/currents-survey)
 
-[![](../Images/b7515fa218da37ee483b0480ab2d36ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UyKcZjST--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/ClLKoRDWEAAvgqK.jpg)
+[![](img/b7515fa218da37ee483b0480ab2d36ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UyKcZjST--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/ClLKoRDWEAAvgqK.jpg)
 
 要在您的收件箱中获得这些更新，请订阅我们的时事通讯:[https://upscri.be/67d2fa](https://upscri.be/67d2fa)
 

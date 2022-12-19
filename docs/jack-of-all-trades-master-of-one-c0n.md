@@ -76,7 +76,7 @@
 
  *作为这种信念的一部分，我在寻找能帮助我解决问题的信息时产生了一种直觉。下图试图使这种直觉更加具体:
 
-[![debugging](../Images/2a9b40de956928acc9960d77e328cca8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BCeFdott--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://makis.dev/assets/searching.png)
+[![debugging](img/2a9b40de956928acc9960d77e328cca8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BCeFdott--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://makis.dev/assets/searching.png)
 
 如果你内化了以上几点，那么任何问题都是可以解决的。当你相信这一点并遵循类似的方法时，那么真正的问题是你试图解决的事情是否值得你花费时间。
 
@@ -92,7 +92,7 @@
 
 我们举个例子。您面临以下问题:您的代码返回一个错误，您没有测试，并且您不确定从哪里开始。第一步是确定执行的是哪条代码路径，即*“啊，是 A 类，method-B 从 D 类调用 method-C 和它自己的私有方法-e”*。然后继续缩小范围:
 
-[![debugging](../Images/db733576271374b59312948d25a381e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OMidhWiq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://makis.dev/assets/debugging.png)
+[![debugging](img/db733576271374b59312948d25a381e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OMidhWiq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://makis.dev/assets/debugging.png)
 
 ## 复位
 

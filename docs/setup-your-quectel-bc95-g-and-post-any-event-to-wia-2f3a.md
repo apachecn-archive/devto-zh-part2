@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/wiaio/setup-your-quectel-bc95-g-and-post-any-event-to-wia-2f3a>
 
-[![alt text](../Images/7e4e15668955fd53de9e430e8d33bb79.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NqGHqeYG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/54ccce7-Quectel-BC95-G.png) 
+[![alt text](img/7e4e15668955fd53de9e430e8d33bb79.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NqGHqeYG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/54ccce7-Quectel-BC95-G.png) 
 在本教程中，我们将通过初始步骤来设置 NB-IoT 和 Quectel BC95-G，并将事件发布到 Wia。
 
 ### **组件**
@@ -78,7 +78,7 @@ T1】
 **Wia CoAP API 端点详细信息**
 `52.17.209.228`是 Wia CoAP API 的 IP 地址，`5683`是端口。
 
-[![alt text](../Images/a9cc48f5be8595722146eb0febf02728.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8lCFrTo---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/bed4da1-serial_accesstoken.png)
+[![alt text](img/a9cc48f5be8595722146eb0febf02728.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8lCFrTo---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/bed4da1-serial_accesstoken.png)
 
 对于`BC95-G`，有许多[支持的频段](https://www.quectel.com/UploadFile/Product/Quectel_BC95-G_NB-IoT_Specification_V1.0.pdf)，因此为了减少搜索 PLMN 所有频段的时间，限制由地区和您的网络运营商指定的频段非常有用。
 
@@ -106,7 +106,7 @@ T1】
 *   检查代码是否可以与设备接口
 *   重置设备
 *   将设备连接到网络
-*   打开一个套接字，通过 UDP 向 Wia 发送一条消息，输出应该如下图所示:![alt text](../Images/8cf37f7daf4ea02bcffcc4b1214748c9.png)
+*   打开一个套接字，通过 UDP 向 Wia 发送一条消息，输出应该如下图所示:![alt text](img/8cf37f7daf4ea02bcffcc4b1214748c9.png)
 
 ### **常见错误**
 

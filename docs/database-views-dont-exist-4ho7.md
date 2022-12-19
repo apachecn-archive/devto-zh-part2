@@ -14,11 +14,11 @@
 
 # 请举例！
 
-[![Money, Please! from Parks and Recreation](../Images/107d5e53203f1dddba042342cf3c1761.png)T2】](https://i.giphy.com/media/A7WK7FddTxKfu/giphy.gif)
+[![Money, Please! from Parks and Recreation](img/107d5e53203f1dddba042342cf3c1761.png)T2】](https://i.giphy.com/media/A7WK7FddTxKfu/giphy.gif)
 
 假设您有两个闪亮的表，汽车和司机，它们有多对多的关系:
 
-[![Cars and Drivers have a many-to-many relationship](../Images/06714f87f93f3ae5a3f8a5935e2daf79.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KTsOlaTe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/debr0zf279ql47d03jbq.png)
+[![Cars and Drivers have a many-to-many relationship](img/06714f87f93f3ae5a3f8a5935e2daf79.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KTsOlaTe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/debr0zf279ql47d03jbq.png)
 
 人可以开很多车，一辆车可以被很多人开。
 
@@ -63,11 +63,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 但是到底发生了什么？
 
-[![Don't Look](../Images/d2b73ecf118e9abe553ce5d43fdc2193.png)T2】](https://i.giphy.com/media/OhmsK4DDdWsE/giphy.gif)
+[![Don't Look](img/d2b73ecf118e9abe553ce5d43fdc2193.png)T2】](https://i.giphy.com/media/OhmsK4DDdWsE/giphy.gif)
 
 当我们在 Oracle 数据库中设置所有这些并要求 Oracle 显示我们的简单查询的执行计划时，会发生以下情况:
 
-[![Oracle execution plan - I'm truly sorry I can't write a good alt-text for this](../Images/d8743e520c383de03ca5524df21a42e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KMJFeoQI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v6kovvu95sru4vrrvfgo.png)
+[![Oracle execution plan - I'm truly sorry I can't write a good alt-text for this](img/d8743e520c383de03ca5524df21a42e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KMJFeoQI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v6kovvu95sru4vrrvfgo.png)
 
 如果你不知道你在看什么，不要害怕！这就是我来这里的原因！
 
@@ -97,7 +97,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 # 别跟我说观点比较快！
 
-[![Barney Stinson - Stop It!](../Images/b372b9744dc6430aa51dcba94cf24746.png)T2】](https://i.giphy.com/media/3BL45MJDZABqg/giphy.gif)
+[![Barney Stinson - Stop It!](img/b372b9744dc6430aa51dcba94cf24746.png)T2】](https://i.giphy.com/media/3BL45MJDZABqg/giphy.gif)
 
 现在我们来看看让我写这篇文章的原因。视图不会提高性能！在我团队的一个更复杂的应用程序中，我们有一些非常大的表，它们有复杂的关系，甚至需要对它们执行更复杂的查询。每当我们遇到一个缓慢的查询时，有人建议我们可以用视图来解决这个缓慢的问题。通过创建一个视图来完成我们所有的连接，我们可以神奇地使我们的查询更快！然而，如果你意识到视图只是一个花哨的查询重写器，而不是一个持久的数据结构，你就知道这不是真的。使用视图不会比原始查询更快；事实上，这很容易让事情变得更糟。性能问题的答案不是视图；这通常是一个反复试验的过程:找到产生相同结果的不同查询，分析查询执行计划，并找到好的索引来帮助数据库更有效地查询。
 
@@ -121,7 +121,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 # 物化视图呢？
 
-[![Star Trek Beaming In](../Images/7be6823edc544d37eb026085b47294b4.png)T2】](https://i.giphy.com/media/13dOKCrLjkEb3W/giphy.gif)
+[![Star Trek Beaming In](img/7be6823edc544d37eb026085b47294b4.png)T2】](https://i.giphy.com/media/13dOKCrLjkEb3W/giphy.gif)
 
 你一定要提起这些，不是吗？
 

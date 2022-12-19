@@ -22,7 +22,7 @@
     *   Flex 系统:Bootstrap 使用 flex 系统来快速管理网格列、导航和组件的布局、对齐和大小调整。
 3.  **响应断点** : Bootstrap 包括五组预定义的类，用于构建复杂的响应布局。这些类别涵盖超小型、小型、中型、大型或超大屏幕宽度。
     这里有一个包含所有响应断点和各自类的表格。
-    [![alt text](../Images/699445d933415220d586e16a961da3c4.png "Logo Title Text 1")T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--0e5Mompm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/nedy123/image/upload/v1528017615/Screenshot_from_2018-06-03_10-16-04_qal5hn.png)
+    [![alt text](img/699445d933415220d586e16a961da3c4.png "Logo Title Text 1")T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--0e5Mompm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/nedy123/image/upload/v1528017615/Screenshot_from_2018-06-03_10-16-04_qal5hn.png)
 
 4.  **组件** : Bootstrap 有很多方便的组件，你可以从中选择并轻松集成或修改，以满足你的需求。这些组件中的大多数都带有默认断点，以适应所有的屏幕宽度。这对于快速原型开发大有帮助；一个导航条在这里，一个大屏幕在那里，一些表格和容器在这里和那里，你可以走了。
     最棒的是，一些组件已经整合了它们的 javascript 行为，所以你不需要担心为它编写功能。

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/vandhanamahajan/automated-iphone-app-testing-tools-every-app-developer-needs-to-know--1j8b>
 
-[![alt text](../Images/c01e667d9ccaa26c9653baf3b987b3d9.png "6_testing_tools_that_come_handy_for_mobile_app_developers")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CX1w3Mk8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rubhtm71kdhgh7me21z0.jpg)
+[![alt text](img/c01e667d9ccaa26c9653baf3b987b3d9.png "6_testing_tools_that_come_handy_for_mobile_app_developers")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CX1w3Mk8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rubhtm71kdhgh7me21z0.jpg)
 
 由于开发了如此多的应用程序，移动应用程序开发公司需要在将应用程序提交到应用程序商店进行发布之前对其进行测试，以减少人为错误的几率。然而，测试过程可能会耗费大量时间。以有组织的方式自动化这个测试过程可以大大减少测试过程所需的宝贵时间。由于测试是应用程序开发生命周期中最关键和最重要的阶段，自动化测试工具对于提高应用程序的质量以及节省测试过程中花费的宝贵时间是必不可少的。
 

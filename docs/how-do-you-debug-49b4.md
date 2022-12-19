@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/stefanisg/how-do-you-debug-49b4>
 
-[![Debugging](../Images/bed0cd7ec04855eff6d0753ae152737d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BjzzQmYA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgs.xkcd.com/comics/debugging.png)
+[![Debugging](img/bed0cd7ec04855eff6d0753ae152737d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BjzzQmYA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgs.xkcd.com/comics/debugging.png)
 
 我在代码库中观察到两大类调试问题。
 

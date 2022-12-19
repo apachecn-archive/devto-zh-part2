@@ -4,7 +4,7 @@
 
 你好。欢迎来到 dev.to！
 
-[![A penguin waves and says, "Hello!"](../Images/9dd353435a02aa93f1b99b471cbe53d1.png)T2】](https://i.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif)
+[![A penguin waves and says, "Hello!"](img/9dd353435a02aa93f1b99b471cbe53d1.png)T2】](https://i.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif)
 
 # 欢迎光临！
 

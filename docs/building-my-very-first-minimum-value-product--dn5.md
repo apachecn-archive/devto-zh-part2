@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/rounakpolley/building-my-very-first-minimum-value-product--dn5>
 
-[![Dashboard Screenshot](../Images/34a10bdc5a415a04032adf237600cbce.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kMzMrqZU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mc8cngg13xqgvcnv53al.png) 
+[![Dashboard Screenshot](img/34a10bdc5a415a04032adf237600cbce.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kMzMrqZU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mc8cngg13xqgvcnv53al.png) 
 关于该项目的更多技术细节: [Hasura Hub 提交](https://hasura.io/hub/project/rounak_polley/Splitwise(MVP))
 
 最小可行产品是新产品的版本，它允许团队以最少的努力收集关于客户的最大量的经验证的知识。而分配给我们的任务是 Splitwise 的 **App 克隆。这个应用程序可以很容易地与朋友和家人分摊账单。它可以让你在一个地方整理你所有的分摊费用和欠条，这样每个人都可以看到他们欠谁的钱。
@@ -29,7 +29,7 @@
 
 这也是我第一次不得不为我在 github 上的项目写一份详细的描述(自述文件)。而且，这也是我第一次认真地使用*API*。所以，这是很多第一次，我很高兴我能度过难关。
 
-[![Challenge accepted](../Images/d71814933b4e71c29a70848aaa42dd17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L6QPeSFZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5ydnrwyrqm7oq844z9i4.png)
+[![Challenge accepted](img/d71814933b4e71c29a70848aaa42dd17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L6QPeSFZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5ydnrwyrqm7oq844z9i4.png)
 
 ## 我们面临的挑战
 

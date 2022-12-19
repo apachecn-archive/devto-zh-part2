@@ -2,8 +2,8 @@
 
 > 原文：<https://dev.to/terceranexus6/theremind-glove--1f9>
 
-[![](../Images/8891d27e1c0d7782354aea70978fb371.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yjtqnZoK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7m650firwnjb09o5oky5.jpg)
-[![](../Images/c320bb54e21672eae7a92b0e849481ee.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--GtD5Gym---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i7kynvcahlenecy1j7qq.jpg)
+[![](img/8891d27e1c0d7782354aea70978fb371.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yjtqnZoK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7m650firwnjb09o5oky5.jpg)
+[![](img/c320bb54e21672eae7a92b0e849481ee.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--GtD5Gym---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i7kynvcahlenecy1j7qq.jpg)
 
 不久前，我在 gearbest 看到了一台 Arduino Nano。我已经用了 arduino uno，我喜欢开放的硬件和小工具，所以我买了一个来玩玩。昨天它到家了，我决定做一只 [**手特雷门琴**](https://vimeo.com/255092272) 我可以和它一起跳舞和玩耍。如果我想在街上舒服地使用它，我需要焊接一些部件，而不是像在我的大多数项目中那样使用试验板。首先，我用了:
 
@@ -54,6 +54,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是接线和其他相关说明:
 
-[![](../Images/86fb9bd9d1fde98cf7d657b13a669b6e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KGlwg6Tw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uot7a88hk31cepi409dg.jpg)
+[![](img/86fb9bd9d1fde98cf7d657b13a669b6e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KGlwg6Tw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uot7a88hk31cepi409dg.jpg)
 
 对于电源，我建议使用连接到手臂的电源组。现在去好好玩吧！

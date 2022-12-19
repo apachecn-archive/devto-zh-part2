@@ -103,7 +103,7 @@ const observer = new IntersectionObserver(handleObserverUpdate, options);
 
 你可以在这里找到钩子
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) [ AvraamMavridis ](https://github.com/AvraamMavridis) / [反应-交集-可见-钩子](https://github.com/AvraamMavridis/react-intersection-visible-hook)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) [ AvraamMavridis ](https://github.com/AvraamMavridis) / [反应-交集-可见-钩子](https://github.com/AvraamMavridis/react-intersection-visible-hook)
 
 ### React Hook 跟踪功能组件的可见性
 
@@ -115,7 +115,7 @@ React hook 根据 IntersectionVisible Observer 跟踪功能组件的可见性。
 
 在下面的例子中，我们根据蓝框的可见性改变了主体的背景颜色。
 
-[![](../Images/a225fe756d8b79a1f23f4d56d6867087.png)T2】](https://github.com/AvraamMavridis/react-intersection-visible-hook/blob/master/demo_gif.gif?raw=true)
+[![](img/a225fe756d8b79a1f23f4d56d6867087.png)T2】](https://github.com/AvraamMavridis/react-intersection-visible-hook/blob/master/demo_gif.gif?raw=true)
 
 *演示和测试即将开始*
 

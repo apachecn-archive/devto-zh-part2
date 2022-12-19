@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/aravindballa/preacting-on-the-server-side-304l>
 
-<figure>[![](../Images/425575f7d06183588216d0e3b2ea015a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VO7eKPMS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ADGBcDGC6h1AEkd2VCNO4-g.jpeg) 
+<figure>[![](img/425575f7d06183588216d0e3b2ea015a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VO7eKPMS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ADGBcDGC6h1AEkd2VCNO4-g.jpeg) 
 
 <figcaption>照片由[马可·拉斯特拉](https://unsplash.com/photos/4hKumOZth9A?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)上[下](https://unsplash.com/search/photos/quick?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 

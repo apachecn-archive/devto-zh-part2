@@ -156,7 +156,7 @@ function getMin(n) {
 
 在下一篇文章的[中，我们将通过一两个代码示例来探究所有这些时间复杂性！](https://dev.to/amejiarosario/8-time-complexities-that-every-programmer-should-know-494m)
 
-[![amejiarosario image](../Images/148b5b0f12544a435c05462c0aaf06c0.png)](/amejiarosario) [## 每个程序员都应该知道的 8 个时间复杂度
+[![amejiarosario image](img/148b5b0f12544a435c05462c0aaf06c0.png)](/amejiarosario) [## 每个程序员都应该知道的 8 个时间复杂度
 
 ### 阿德里安梅希亚 13 分钟阅读
 
@@ -166,7 +166,7 @@ function getMin(n) {
 
 查看 Github repo 获取更多示例:
 
-## ![GitHub logo](../Images/375dfcc32199b4dedf2b526645c27ff7.png) [阿梅加罗萨里奥](https://github.com/amejiarosario) / [ dsa.js](https://github.com/amejiarosario/dsa.js)
+## ![GitHub logo](img/375dfcc32199b4dedf2b526645c27ff7.png) [阿梅加罗萨里奥](https://github.com/amejiarosario) / [ dsa.js](https://github.com/amejiarosario/dsa.js)
 
 ### 用 JavaScript 解释和实现的数据结构和算法
 
@@ -174,7 +174,7 @@ function getMin(n) {
 
 # JavaScript 中的数据结构和算法
 
-[![CircleCI](../Images/8ade1ed9dd9ba042dff310cf117c9500.png)](https://circleci.com/gh/amejiarosario/dsa.js)[![NPM version](../Images/1a5a7567b5f6ec3afe2b561737c66199.png)](https://badge.fury.io/js/dsa.js)[![PRs Welcome](../Images/6f43bb6ec23adbd1102c103e63a75b84.png)](http://makeapullrequest.com)[![Code Style Airbnb](../Images/e6b92d48bdb8115fd70b6ab5723f0252.png)](https://github.com/airbnb/javascript)[![ProductHunt](../Images/aadecedb7ac707aa82b64f5905c5600c.png)](https://www.producthunt.com/posts/dsa-js)
+[![CircleCI](img/8ade1ed9dd9ba042dff310cf117c9500.png)](https://circleci.com/gh/amejiarosario/dsa.js)[![NPM version](img/1a5a7567b5f6ec3afe2b561737c66199.png)](https://badge.fury.io/js/dsa.js)[![PRs Welcome](img/6f43bb6ec23adbd1102c103e63a75b84.png)](http://makeapullrequest.com)[![Code Style Airbnb](img/e6b92d48bdb8115fd70b6ab5723f0252.png)](https://github.com/airbnb/javascript)[![ProductHunt](img/aadecedb7ac707aa82b64f5905c5600c.png)](https://www.producthunt.com/posts/dsa-js)
 
 这个库涵盖了 JavaScript 中经典算法和数据结构的实现。
 
@@ -203,13 +203,13 @@ const { LinkedList, Queue, Stack } = require('dsa.js');
 *   算法分析基础(大 O 符号，时间/空间复杂度)和例子。
 *   时间/空间复杂性备忘单。
 
-[![dsajs algorithms javascript book](../Images/def3a6edf0192ea3044232a0511ca633.png)T2】](https://books.adrianmejia.com)
+[![dsajs algorithms javascript book](img/def3a6edf0192ea3044232a0511ca633.png)T2】](https://books.adrianmejia.com)
 
 ## 数据结构
 
 我们涵盖了以下数据结构。
 
-[![Interactive Data Structures](../Images/8f63557fae7adb265acdf574fa489c65.png)T2】](https://embed.kumu.io/85f1a4de5fb8430a10a1bf9c5118e015)
+[![Interactive Data Structures](img/8f63557fae7adb265acdf574fa489c65.png)T2】](https://embed.kumu.io/85f1a4de5fb8430a10a1bf9c5118e015)
 
 ### 线性数据结构
 

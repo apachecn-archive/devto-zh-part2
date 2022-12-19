@@ -8,7 +8,7 @@
 
 这个小工具的灵感来自于 [this](https://uimovement.com/ui/5332/ticket-booking/) ，看起来像这样:
 
-[![slider](../Images/cd7414eaf7eeb64d92bbf7fe12a456cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---TvCKdIT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mrv7rrg33h7hl0h6ltgp.gif)
+[![slider](img/cd7414eaf7eeb64d92bbf7fe12a456cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---TvCKdIT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mrv7rrg33h7hl0h6ltgp.gif)
 
 ### 制剂
 
@@ -77,7 +77,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![halfway](../Images/acebf096ed89c278f43bb0f31773cb38.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YcuaI1p3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eb91zo2auxjb47ct89cn.png) 我们越来越近了
+[![halfway](img/acebf096ed89c278f43bb0f31773cb38.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YcuaI1p3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eb91zo2auxjb47ct89cn.png) 我们越来越近了
 
 现在轮到`slider-info`改头换面了。我们将添加一个背景颜色，尺寸和空白的信息。
 
@@ -122,7 +122,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![style done](../Images/623d021a25d74be6142093f9bb262825.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gwBTVyM0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lp48mdalohqksk75j6et.png) 
+[![style done](img/623d021a25d74be6142093f9bb262825.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gwBTVyM0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lp48mdalohqksk75j6et.png) 
 好多了。
 
 ### 用数据填充
@@ -195,7 +195,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![almost finished](../Images/5d2bc90ffa35c1bc7cb8875aa2d1414b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PKQ09st_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1t6aga9fq6qop3i4b32t.png) 
+[![almost finished](img/5d2bc90ffa35c1bc7cb8875aa2d1414b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PKQ09st_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1t6aga9fq6qop3i4b32t.png) 
 这个看起来差不多完成了，至少在美学上是这样，但我们仍然需要...
 
 ### 相互作用
@@ -354,7 +354,7 @@ stopDrag () {
 Enter fullscreen mode Exit fullscreen mode
 
 为了更好地理解这个公式，这张 gif 展示了`cardsX`值如何与`nearestSlide`相关联。
-T3![nearestSlide](../Images/ec9926132e35b05d14ba5edb1a2dc4b6.png)T5】
+T3![nearestSlide](img/ec9926132e35b05d14ba5edb1a2dc4b6.png)T5】
 
 而现在最后的结果！
 

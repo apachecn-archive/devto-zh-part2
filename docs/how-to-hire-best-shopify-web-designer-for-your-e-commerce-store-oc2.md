@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/designomate/how-to-hire-best-shopify-web-designer-for-your-e-commerce-store-oc2>
 
-[![](../Images/562942816ba6d1ad578cf78d26412b99.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jIoNK0D6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8angcozyi8qedjm1g06i.png) 
+[![](img/562942816ba6d1ad578cf78d26412b99.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jIoNK0D6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8angcozyi8qedjm1g06i.png) 
 要想设计成功的 Shopify 电子商务网站，雇佣一个能为你的企业设计高质量电子商务商店的设计师是很重要的。由于 Shopify 的流行，有成千上万的 Shopify 设计师准备接手你的项目，但很难判断他们并为你的项目挑选最好的一个。我们整理了一份每个合格的 [Shopify 网站设计师](http://www.designomate.com/shopify-web-designer/)所具备的素质清单。
 
 每个网站都是卖家的身份，也是他完美的推销员。在成为网页设计师之前，让我们先决定:

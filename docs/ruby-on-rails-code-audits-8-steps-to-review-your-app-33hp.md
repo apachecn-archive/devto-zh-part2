@@ -251,4 +251,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 你不同意我的任何建议吗？你有什么要补充的吗？在下面留下评论，让我知道。
 
-[![](../Images/573a999745e03be77ffaf3174f84051a.png)T2】](http://planetargon.com/services/ruby-on-rails-code-audit?utm_campaign=PPC%20Code%20Audit&utm_source=dev.to&utm_medium=code%20audit%20post)
+[![](img/573a999745e03be77ffaf3174f84051a.png)T2】](http://planetargon.com/services/ruby-on-rails-code-audit?utm_campaign=PPC%20Code%20Audit&utm_source=dev.to&utm_medium=code%20audit%20post)

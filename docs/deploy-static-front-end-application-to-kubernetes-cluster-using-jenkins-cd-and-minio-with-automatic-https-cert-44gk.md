@@ -50,7 +50,7 @@ wget https://dl.minio.io/client/mc/release/linux-amd64/mc && chmod +x mc && sudo
 
 运行`kubectl get service -n minio`找到节点端口。
 
-[![](../Images/829acc0a8b82a7b063a24c7317fa53b0.png "NodePort")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Iu7W0V_I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4bap9h7cq3epurxujqwh.png)
+[![](img/829acc0a8b82a7b063a24c7317fa53b0.png "NodePort")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Iu7W0V_I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4bap9h7cq3epurxujqwh.png)
 
 运行命令以添加 minio 配置文件夹。
 
@@ -66,7 +66,7 @@ mc config host add myminio http://<Master Node IP>:<NodePort> myaccesskey mysecr
 
 结果应该是这样的。
 
-[![](../Images/7b753f44f85227ade709be0b3b8a27ae.png "Add success")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9G7RZJbc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yq1znp7iiyekx5e7ebm5.png)
+[![](img/7b753f44f85227ade709be0b3b8a27ae.png "Add success")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9G7RZJbc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yq1znp7iiyekx5e7ebm5.png)
 
 ### 4。创建 minio 文件夹来存放静态文件
 
@@ -79,7 +79,7 @@ mc policy download myminio/public
 
 运行`mc ls myminio`，你应该会看到一个空桶。
 
-[![](../Images/f97d8125c01231001db180b7b87d091d.png "Empty bucket")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--To4dUotC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xwvg7gvps8dah6vwrodh.png)
+[![](img/f97d8125c01231001db180b7b87d091d.png "Empty bucket")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--To4dUotC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xwvg7gvps8dah6vwrodh.png)
 
 # 设置 DNS 记录
 
@@ -101,13 +101,13 @@ npm start
 
 打开“ [http://localhost:3000](http://localhost:3000) ”应该会看到。
 
-[![](../Images/3f3c59fb56e8beb9c4388affe4d1300c.png "React local")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--puKkstgX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9ri3pp9z2kk5wyd41ywp.png)
+[![](img/3f3c59fb56e8beb9c4388affe4d1300c.png "React local")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--puKkstgX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9ri3pp9z2kk5wyd41ywp.png)
 
 ### 2。添加 kubernetes 入口配置
 
 在根文件夹的“k8s”文件夹下添加“ingress.yml”。
 
-[![](../Images/6cb81aafadf9b57aeb5b6fbc209d6ad5.png "ingress.yml")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I4AiODpm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yjwrfn0ladvwtlz83vfy.png)
+[![](img/6cb81aafadf9b57aeb5b6fbc209d6ad5.png "ingress.yml")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I4AiODpm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yjwrfn0ladvwtlz83vfy.png)
 
 内容:
 
@@ -158,7 +158,7 @@ spec:
 
 在根文件夹中创建文件名“Jenkinsfile”。
 
-[![](../Images/be6243ed1274407f86bd6c9d1658f6b1.png "Jenkinsfile")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pKKyaR6L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bzgr920qqiw7b88oetnu.png)
+[![](img/be6243ed1274407f86bd6c9d1658f6b1.png "Jenkinsfile")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pKKyaR6L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bzgr920qqiw7b88oetnu.png)
 
 内容:
 
@@ -230,7 +230,7 @@ pipeline {
 
 如果所有配置都正常，您应该能够在 Jenkins 代理中运行下面的命令。
 
-[![](../Images/6aaac3f43699eb28bf67ab585da4090b.png "CLI inside Jenkins")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n6fTea8Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qpbx9zegw7nvwhn3a6zz.png)
+[![](img/6aaac3f43699eb28bf67ab585da4090b.png "CLI inside Jenkins")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n6fTea8Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qpbx9zegw7nvwhn3a6zz.png)
 
 # 建立詹金斯管道
 
@@ -240,11 +240,11 @@ pipeline {
 
 创建“simpleapp”项目。
 
-[![](../Images/a6b7ea045b0e25dc7342223316d4412a.png "Create pipeline")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aa3Hts7O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fhj5l8f5yqc2z89wgq5m.png)
+[![](img/a6b7ea045b0e25dc7342223316d4412a.png "Create pipeline")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aa3Hts7O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fhj5l8f5yqc2z89wgq5m.png)
 
 输入您的 git repo url 和凭据。
 
-[![](../Images/9730e1cc0e7bddb6dd6f8375964665be.png "Git repo and credential")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9exopFf1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cnh2c1qzayuknhz126yu.png)
+[![](img/9730e1cc0e7bddb6dd6f8375964665be.png "Git repo and credential")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9exopFf1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cnh2c1qzayuknhz126yu.png)
 
 ### 2。构建管道
 
@@ -252,17 +252,17 @@ pipeline {
 
 构建结果。
 
-[![](../Images/ef0384925ce2ccf996efffbc027ab0cc.png "Jenkins build")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Sq9oMp5S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0hzksadfi1pvceagfdwz.png)
+[![](img/ef0384925ce2ccf996efffbc027ab0cc.png "Jenkins build")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Sq9oMp5S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0hzksadfi1pvceagfdwz.png)
 
 # 测试您的应用程序
 
 等到`kubectl get secret -n minio`返回秘密名“simpleapp-tls”。
 
-[![](../Images/60096713ed776f38970e7234dc6f0ca5.png "Secret result")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A7bWuOBv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qrqxmg0ca9d0wkn5ts71.png)
+[![](img/60096713ed776f38970e7234dc6f0ca5.png "Secret result")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A7bWuOBv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qrqxmg0ca9d0wkn5ts71.png)
 
 如果一切正常，你应该可以打开网址"[https://simpleapp.yourdomain.com](https://simpleapp.yourdomain.com)"并看到如下结果。
 
-[![](../Images/399fa148f423ec13fbe6f75a5d3ac25b.png "https result")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RF4n58MZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1635katlu1g8nmizhdii.png)
+[![](img/399fa148f423ec13fbe6f75a5d3ac25b.png "https result")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RF4n58MZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1635katlu1g8nmizhdii.png)
 
 # 总结
 

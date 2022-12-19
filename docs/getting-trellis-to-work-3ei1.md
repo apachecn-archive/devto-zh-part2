@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jj/getting-trellis-to-work-3ei1>
 
-[![Trellis in Granada. We have that too](../Images/3f3028369017389d4806e7ee8d630ade.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U37IvgnQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3cy0u89pq3zivpmn79hl.jpg)
+[![Trellis in Granada. We have that too](img/3f3028369017389d4806e7ee8d630ade.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U37IvgnQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3cy0u89pq3zivpmn79hl.jpg)
 
 Trellis 是一套基于流浪者和 Ansible 的脚本和工具，允许你轻松地建立一个**[Wordpress](https://wordpress.com)站点。**
 

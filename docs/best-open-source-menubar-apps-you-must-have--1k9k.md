@@ -6,7 +6,7 @@
 
 ## 1。Itsycal📆
 
-[![](../Images/bcee478b5992c41624e599dccdae8679.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yKl3X_xi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/EXlYDfB.png)
+[![](img/bcee478b5992c41624e599dccdae8679.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yKl3X_xi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/EXlYDfB.png)
 
 🔗 ***Github 链接*** : [Itsycal](https://github.com/sfsam/itsycal)
 
@@ -14,7 +14,7 @@
 
 ## 2。武士刀✂️
 
-[![](../Images/41e862c3e1c69d57ca671d5ef61e5bf2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kwH1a1gQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/i7C7Wmt.png)
+[![](img/41e862c3e1c69d57ca671d5ef61e5bf2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kwH1a1gQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/i7C7Wmt.png)
 
 🔗 ***Github 链接*** : [武士刀](https://github.com/bluegill/katana)
 
@@ -22,7 +22,7 @@
 
 ## 3。Youtube 下载器📹
 
-[![](../Images/9cdf9edf2424e30cc87ef21089a9948d.png)T2】](https://camo.githubusercontent.com/6f368ce2895f7b4a7753400c85b608500b80e801/68747470733a2f2f64656e62656b652e62652f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031372f31312f596f75747562652d646f776e6c6f616465722d6d61634f532d53776966742e676966)
+[![](img/9cdf9edf2424e30cc87ef21089a9948d.png)T2】](https://camo.githubusercontent.com/6f368ce2895f7b4a7753400c85b608500b80e801/68747470733a2f2f64656e62656b652e62652f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031372f31312f596f75747562652d646f776e6c6f616465722d6d61634f532d53776966742e676966)
 
 🔗 ***Github 链接*T3】:[Youtube 下载器](https://github.com/DenBeke/YouTube-Downloader-for-macOS)**
 
@@ -30,7 +30,7 @@
 
 ## 4。裸跑者🐙
 
-[![](../Images/ad75ca8c5a4b0b184fd9f2f8123c2e71.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vfIJGmp_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/JEIyNfG.png)
+[![](img/ad75ca8c5a4b0b184fd9f2f8123c2e71.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vfIJGmp_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/JEIyNfG.png)
 
 🔗 ***Github 链接*** : [裸奔](https://github.com/jamieweavis/streaker)
 
@@ -38,7 +38,7 @@
 
 ## 5。天气预报🌦
 
-[![](../Images/965fa8dc5307d3488c0b1801342d5657.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IG7WSUrl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/1JMFZTy.png)
+[![](img/965fa8dc5307d3488c0b1801342d5657.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IG7WSUrl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/1JMFZTy.png)
 
 🔗 ***Github 链接*** : [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe)
 
@@ -46,7 +46,7 @@
 
 ## 6。菜单计
 
-[![](../Images/dbe3b33fee513b8e80e72ccd37aba79c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0OPMwXlF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vj8h24kvut5kzczkuhw2.png)
+[![](img/dbe3b33fee513b8e80e72ccd37aba79c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0OPMwXlF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vj8h24kvut5kzczkuhw2.png)
 
 🔗 ***Github 链接*** : [菜单](https://github.com/yujitach/MenuMeters)
 

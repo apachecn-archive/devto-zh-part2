@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jesalg/getting-started-with-express-vuejs--postgresql--24db>
 
-[![PEVN](../Images/fc7623d5b41a0d10e975b0fd03952ee8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5WS1BmJL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jes.al/public/wp-content/uploads/pevn.png)
+[![PEVN](img/fc7623d5b41a0d10e975b0fd03952ee8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5WS1BmJL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jes.al/public/wp-content/uploads/pevn.png)
 
 我们都听说过 MEAN(**M**ongoDB**E**xpress**A**ngular**N**odeJS)堆栈，或者最近听说过 MERN(**M**ongoDB**E**xpress**R**eact 和 **N** odeJS)堆栈。
 

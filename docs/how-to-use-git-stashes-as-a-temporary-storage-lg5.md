@@ -25,17 +25,17 @@
 
 要保存这段代码，你可以点击保存按钮。
 
-[![The stash button](../Images/0f7aff5e11a2d4f246e237da93cfc830.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hFMhX7fP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-stash/stash-button.png)
+[![The stash button](img/0f7aff5e11a2d4f246e237da93cfc830.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hFMhX7fP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-stash/stash-button.png)
 
 一旦你点击了 stash 按钮，Fork 就会要求你留言。这条信息表明了隐藏的是什么。
 
 因为 stashes 是临时的，你可以使用任何你想要的名字。我们称之为“临时存储”。
 
-[![Naming the stash](../Images/cb610db4debd524e80cf6e1982c02259.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c0DAVD6K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-stash/stash-name.png)
+[![Naming the stash](img/cb610db4debd524e80cf6e1982c02259.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c0DAVD6K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-stash/stash-name.png)
 
 一旦你创建了一个新的贮藏，你会在侧边栏的贮藏部分找到它。
 
-[![The stash can be found in the sidebar](../Images/f64af3634bb38c59108b3d31f19040b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GaKvXIl6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-stash/stash-sidebar.png)
+[![The stash can be found in the sidebar](img/f64af3634bb38c59108b3d31f19040b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GaKvXIl6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-stash/stash-sidebar.png)
 
 注意:您将无法看到这个存储中的变化，但这不是问题，因为您不必看到。你要做的是切换你的分支，完成你需要做的，然后切换回来。
 
@@ -45,11 +45,11 @@
 
 您可以返回到您所在的分支，然后右键单击您的存储并选择 Apply stash。
 
-[![Applying a stash](../Images/74aab2b8f1e5b2cc7248e52c0e542678.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P90aWdwO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-stash/apply-stash.png)
+[![Applying a stash](img/74aab2b8f1e5b2cc7248e52c0e542678.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P90aWdwO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-stash/apply-stash.png)
 
 当你这样做的时候，Fork 会问你是否要删除隐藏的东西。我通常会删除存储，因为我不想一次保存多个存储。
 
-[![Deleting the applied stash](../Images/8cd856e50d8add376c95926da8e9e372.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MhNnBHMY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-stash/apply-stash-2.png)
+[![Deleting the applied stash](img/8cd856e50d8add376c95926da8e9e372.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MhNnBHMY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-stash/apply-stash-2.png)
 
 一旦你应用了存储，你将能够看到你所做的改变。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/geraldcroes/ddd-101--the-5-minute-tour-1e9>
 
-[![](../Images/3ed4feda9d640b012d0f4489cb926056.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mfeNa3wV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ABxvjih9juv7TydiJ54laEw.jpeg)
+[![](img/3ed4feda9d640b012d0f4489cb926056.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mfeNa3wV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ABxvjih9juv7TydiJ54laEw.jpeg)
 
 我喜欢疯狂的挑战。
 
@@ -48,7 +48,7 @@ DDD 只不过是 OOP 在商业模型中的应用。(当你深入研究 DDD 时�
 
 在我购买“蓝皮书”(领域驱动设计:在软件的核心解决复杂性)之前，我浏览了页面，看到了工厂、存储库、价值对象、实体，以及这个非常吸引人的模式，它会吸引任何极客的注意力。
 
-[![](../Images/4c1c29042d1e841cb2eb7f6de07b5cf1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w0hT7Uol--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ABlLLGEuH7Wtj2AIyFYzdUw.png)
+[![](img/4c1c29042d1e841cb2eb7f6de07b5cf1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w0hT7Uol--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ABlLLGEuH7Wtj2AIyFYzdUw.png)
 
 光是他们就说服了我在这本书上投入时间(和金钱)。尽管我渴望了解新的花式图案，但我还是设法抑制住了不耐烦，读了介绍。
 
@@ -58,7 +58,7 @@ DDD 只不过是 OOP 在商业模型中的应用。(当你深入研究 DDD 时�
 
 尽管名称令人费解，但想法很简单——直言不讳。潜在的规则是，“知道什么是铁锹；如何使用；它是做什么的……问问知道的人。”
 
-[![](../Images/adf59d680d75fdadc2457cf28daa8751.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xhGYJ2ba--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/697/1%2ANCyCLN72TiuF1NJyPkNr7Q.png)
+[![](img/adf59d680d75fdadc2457cf28daa8751.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xhGYJ2ba--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/697/1%2ANCyCLN72TiuF1NJyPkNr7Q.png)
 
 > 哦，天啊！你喜欢这本书仅仅是因为这个吗？
 

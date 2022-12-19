@@ -4,7 +4,7 @@
 
 7 月 7 日第 12 期[加入每周简讯](https://www.getrevue.co/profile/Andres-at-Jexia/issues/master-the-world-of-reactjs-issue-12-121452?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Master+the+World+of+ReactJS)
 
-<figure>[![](../Images/085484071771a66e9a9bf2f929d36ef7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tlFICDeY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gx99mdnarj5i6n2728uh.jpg) 
+<figure>[![](img/085484071771a66e9a9bf2f929d36ef7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tlFICDeY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gx99mdnarj5i6n2728uh.jpg) 
 
 <figcaption>形象由[达尼洛](https://www.linkedin.com/in/danilowoz/)</figcaption>
 

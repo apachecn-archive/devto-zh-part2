@@ -4,7 +4,7 @@
 
 #### 利用强大的 ES6 特性编写更好、更优雅、更可预测的 JavaScript。
 
-[![](../Images/cd9503272d57134053d9be85a68ee93b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RrShs-i---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AJioH6ER4FMK_jUbZpIwf7w.jpeg)
+[![](img/cd9503272d57134053d9be85a68ee93b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RrShs-i---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AJioH6ER4FMK_jUbZpIwf7w.jpeg)
 
 JavaScript ES6，也称为 ECMAScript 2015，有许多非常酷的新功能，可以提高代码的质量。昨天， [Glad 介绍了 ES6 中的五个新特性](https://dev.to/bnevilleoneill/javascript-es6-5-new-abstractions-to-improve-your-code-492i-temp-slug-1721386),这些特性可能会改进你编写的代码。
 
@@ -134,7 +134,7 @@ ES6 有这么多很酷很神奇的功能，有些你可能会用到，有些你�
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

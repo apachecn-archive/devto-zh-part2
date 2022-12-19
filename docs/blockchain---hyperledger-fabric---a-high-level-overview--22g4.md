@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/sr_balaji/blockchain---hyperledger-fabric---a-high-level-overview--22g4>
 
-[![alt text](../Images/237bef4eac44d0270031e02d3106a3cb.png "Hyperledger fabric")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZF2-iJx5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zbgmg51cjdc0ka21k8is.png)
+[![alt text](img/237bef4eac44d0270031e02d3106a3cb.png "Hyperledger fabric")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZF2-iJx5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zbgmg51cjdc0ka21k8is.png)
 
 ### 简介:
 
@@ -16,7 +16,7 @@
 
 它是网络参与者之间共享、复制和同步的一组记录。它记录了所有的交易，如网络参与者之间的数据或资产交换。
 
-[![alt text](../Images/cb9a4e7585bb6961933ccbe53f5f1832.png "current state of transaction")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3qxJYiRO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gqujhnb98uv3mhp6s8y5.png)
+[![alt text](img/cb9a4e7585bb6961933ccbe53f5f1832.png "current state of transaction")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3qxJYiRO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gqujhnb98uv3mhp6s8y5.png)
 
 ### 问题陈述:
 
@@ -42,7 +42,7 @@
 
 在分布式对等网络中，交易存储在链接在一起形成链的块中，这被称为块链。每个块包含当前块的散列、最近有效事务的时间戳和前一个块的散列。以前的块散列用于链接块，并防止改变块或在块之间插入。
 
-[![alt text](../Images/3f9ba7cd5b6cc737335059480c3dee43.png "Blockchain state of transaction")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1oC8GWBM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8gp3cx8mhaww98ylpv6m.png)
+[![alt text](img/3f9ba7cd5b6cc737335059480c3dee43.png "Blockchain state of transaction")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1oC8GWBM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8gp3cx8mhaww98ylpv6m.png)
 
 ### Hyperledger–Linux 基础项目
 
@@ -99,13 +99,13 @@ Hyperledger 是一个由 Linux 基金会托管的开源软件，由合作者公�
 
 #### 超帐架构 v1
 
-[![alt here](../Images/a053d5e3bbb747eb6ae9e1d5a41d34fb.png "Hypeledger fabric architecture")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o9BHGJjf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1m5f3tpu0dkpuluvirh6.png)
+[![alt here](img/a053d5e3bbb747eb6ae9e1d5a41d34fb.png "Hypeledger fabric architecture")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o9BHGJjf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1m5f3tpu0dkpuluvirh6.png)
 
 #### 它是如何工作的？
 
 客户端应用程序/ SDK 通过定位所需的对等点来提交链码的交易建议。所有背书者将执行交易。这些交易不会在分类帐中更新，因为分类帐仅用于背书。背书完成后，由背书人签字并返还给客户。然后，客户将交易提交给订购者。然后，订购服务收集块中的事务，并将其分发给提交的对等方。这些承诺的对等点然后使用流言蜚语传递给其他对等点。有不同的排序算法可用，如索罗(单节点，发展)，卡夫卡，SBFT。
 
-[![alt here](../Images/282c4a99e464aaf66d940d8c81636829.png "Hyperledger fabric - transaction processing")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5e9rJ3go--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5c6c1fm5zkevo9vpnc9s.png)
+[![alt here](img/282c4a99e464aaf66d940d8c81636829.png "Hyperledger fabric - transaction processing")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5e9rJ3go--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5c6c1fm5zkevo9vpnc9s.png)
 
 提交对等方根据认可策略验证事务，并检查事务对于当前状态是否有效。在所有这些过程之后，交易被记入分类账。当交易成功或失败时，客户端应用程序会得到通知，当块被添加到分类帐中时(如果它们为通知进行了注册)。客户端应用程序还将被它们所连接到的每个对等体通知。
 

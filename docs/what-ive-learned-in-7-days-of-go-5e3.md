@@ -172,7 +172,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 *   伐木是疯狂的。事实上是的。标准库不支持级别。围绕日志的第三方生态系统让我想起了 NPM 仓库。这是来自 [awesome-go#logging](https://github.com/avelino/awesome-go#logging) 的截图:
 
-[![golang likes logging](../Images/721beaa7ffa2cb4d53999237244debed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YM5QRqAR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ogkyrq8jp615lqr095ej.png)
+[![golang likes logging](img/721beaa7ffa2cb4d53999237244debed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YM5QRqAR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ogkyrq8jp615lqr095ej.png)
 
 看到了吗？你在开玩笑吗？我最后也是一个都没有。我使用的是 [go-kit 的日志](https://github.com/go-kit/kit/tree/master/log)，只有日志模块，因为 go 很棒也很奇怪，你可以直接导入而不用导入包的其他部分。魔法。
 

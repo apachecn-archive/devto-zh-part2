@@ -67,7 +67,7 @@ server {
 
 给你一个非常好的仪表板，你可以看到你的服务之间的实际联系。以下是截图:
 
-[![Traefik's Dashboard](../Images/42a69c2f65fefdcad7b1f2a9ccb65c78.png "Traefik's Dashboard")T2】](///static/14e6f619c5778085e8d2df0dfc66073a/2adcb/traefik.png)
+[![Traefik's Dashboard](img/42a69c2f65fefdcad7b1f2a9ccb65c78.png "Traefik's Dashboard")T2】](///static/14e6f619c5778085e8d2df0dfc66073a/2adcb/traefik.png)
 
 这是一个小细节，但我真的喜欢对我的路线状态有一个直观的概述。当您还在设置服务时，这在开始时非常有用。当我遇到问题时，我总是发现 *nginx* 特别难以调试。
 

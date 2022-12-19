@@ -6,7 +6,7 @@
 
 在开始 CRUD 操作之前，建议了解:
 
-[![equiman](../Images/ebe835e1ec966206e00a01bb329a3e86.png)](/equiman) [## 如何在 JSON 中从变量创建属性
+[![equiman](img/ebe835e1ec966206e00a01bb329a3e86.png)](/equiman) [## 如何在 JSON 中从变量创建属性
 
 ### 卡米洛马丁内斯 9 月 21 日 182 分钟阅读
 
@@ -59,4 +59,4 @@ Enter fullscreen mode Exit fullscreen mode
 **都是乡亲们！**
 **快乐编码** 🖖
 
-[![beer](../Images/192892baef71a32ea4a5e98a4927b05e.png)T2】](https://github.com/sponsors/deinsoftware)
+[![beer](img/192892baef71a32ea4a5e98a4927b05e.png)T2】](https://github.com/sponsors/deinsoftware)

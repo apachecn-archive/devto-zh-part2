@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/voskvv/how-to-launch-containerum-platform-in-5minutes-5442>
 
-[![containerum](../Images/dfd00530eb98f40e7abaa34407351b2d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VL0l-m4K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qgaxqpaf65j0m290tns8.png)
+[![containerum](img/dfd00530eb98f40e7abaa34407351b2d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VL0l-m4K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qgaxqpaf65j0m290tns8.png)
 
 Kubernetes 是 docker 容器的一个强大的编排者，拥有数量可观的用户和遍布全球的大型社区。然而，当涉及到配置和维护时，它的复杂性是出了名的。难怪社区正忙于开发新的扩展和插件来促进集群管理。
 
@@ -90,7 +90,7 @@ helm install containerum/containerum --version 1.0.17-rc.2
 kubectl get pods 
 ```
 
-[![pods](../Images/08ecda8770d7cd4ded74d7155cf880d2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UmnKlvnQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/azsv0etkuo56ko0bi00s.png) 
+[![pods](img/08ecda8770d7cd4ded74d7155cf880d2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UmnKlvnQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/azsv0etkuo56ko0bi00s.png) 
 我们可以看到，Containerum 正在运行。现在让我们访问 Web 用户界面。
 
 ### 访问网络用户界面
@@ -111,7 +111,7 @@ sudo nano /etc/hosts
 
 现在转到`local.containerum.io`
 
-[![containerum](../Images/dfd00530eb98f40e7abaa34407351b2d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VL0l-m4K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qgaxqpaf65j0m290tns8.png)
+[![containerum](img/dfd00530eb98f40e7abaa34407351b2d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VL0l-m4K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qgaxqpaf65j0m290tns8.png)
 
 恭喜你！您刚刚在集群中安装了 Containerum 平台！可以使用默认的登录/密码:
 登录:[admin @ local . container um . io](mailto:admin@local.containerum.io)T3】密码:verystrongpassword

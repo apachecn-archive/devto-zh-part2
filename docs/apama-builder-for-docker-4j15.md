@@ -6,14 +6,14 @@
 
 阿帕玛 10.3 引入了对使用多阶段 Docker 构建和新的构建器映像来构建和部署 Software AG Designer 项目的支持。本文解释了它的工作原理和使用方法。
 
-| 2018 年第四期 | [![](../Images/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue4/SAG_Apama_Docker_TECHniques_Oct18_WEB.pdf) |
+| 2018 年第四期 | [![](img/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue4/SAG_Apama_Docker_TECHniques_Oct18_WEB.pdf) |
 | --- | --- |
 
 ## 向设计器项目添加 Docker 支持
 
 在 10.3 版本中，Designer 中的所有阿帕玛项目都添加了一个新的上下文菜单项:
 
-[![](../Images/098ee47adc12798b3ea10b72a9af8533.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jSQaOhDc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/afd1.jpg/5aad3a24-7ce3-4ebc-a0ab-40b96da7f232%3Ft%3D1539764627938)
+[![](img/098ee47adc12798b3ea10b72a9af8533.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jSQaOhDc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/afd1.jpg/5aad3a24-7ce3-4ebc-a0ab-40b96da7f232%3Ft%3D1539764627938)
 
 这将在项目的顶层添加一个 Dockerfile。对于大多数仅适用于 EPL 的阿帕玛项目，默认 docker 文件无需进一步更改即可运行。这将部署查询文件并与数字事件服务集成，以及在启动时正确排序任何进样和事件文件。它还包括您的整个配置，包括项目中的定制和连接包。
 

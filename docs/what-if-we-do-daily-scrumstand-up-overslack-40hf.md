@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/sumitgpt/what-if-we-do-daily-scrumstand-up-overslack-40hf>
 
-[![Slack](../Images/cb16d386486fca63ca95386e831794bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9aeCYJHt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.plightofbyte.com/assets/images/standup-over-slack/heroImage.jpg)
+[![Slack](img/cb16d386486fca63ca95386e831794bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9aeCYJHt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.plightofbyte.com/asseimg/standup-over-slack/heroImage.jpg)
 
 我实践敏捷方法已经有一段时间了。我见过的敏捷团队最常见的仪式是站立会议，也称为每日 scrum 会议。
 
@@ -54,7 +54,7 @@
 
 也有 Slack 机器人来简化这个过程。你也可以探索它们。或者您可以将更新作为消息发布。
 
-[![Thread in Slack](../Images/3950aa293e59c829c3301fb350de7a0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--800-p0-C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.plightofbyte.com/assets/images/standup-over-slack/slack-thread.jpg)
+[![Thread in Slack](img/3950aa293e59c829c3301fb350de7a0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--800-p0-C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.plightofbyte.com/asseimg/standup-over-slack/slack-thread.jpg)
 
 这是松弛状态下的线程的样子。人们可以回复，讨论也可以进行。
 

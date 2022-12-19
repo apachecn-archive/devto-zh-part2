@@ -15,17 +15,17 @@
 
 图标太小，我搞不清这是什么应用程序:
 
-[![](../Images/104559c9ee04cde3ddb554b8df1e9c7b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uq1K-ol_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v0f4p7udi5soh1l13orr.png)
+[![](img/104559c9ee04cde3ddb554b8df1e9c7b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uq1K-ol_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v0f4p7udi5soh1l13orr.png)
 
 ### 配置
 
 在系统设置窗口中，转到[首选项]-[窗口]:
 
-[![](../Images/89f4427fd3cd27f482b131a65416f3a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hYLy5fX---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gc9dg3qqezbjmk4wlubt.png)
+[![](img/89f4427fd3cd27f482b131a65416f3a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hYLy5fX---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gc9dg3qqezbjmk4wlubt.png)
 
 选择[Alt-Tab] tab 并设置[Alt-Tab 切换器样式]:
 
-[![](../Images/ff71a9ccdab13327bf3ded3501f92951.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zDbNRDmy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/un8sosz7fd0vqfofbmvf.png)
+[![](img/ff71a9ccdab13327bf3ded3501f92951.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zDbNRDmy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/un8sosz7fd0vqfofbmvf.png)
 
 这些选项包括:
 
@@ -41,6 +41,6 @@
 
 带有更大的图标和缩略图:
 
-[![](../Images/1d8f045d35e729af099d2e634344f693.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2qakj09E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sa0yz393wt2xpqrqww4l.png)
+[![](img/1d8f045d35e729af099d2e634344f693.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2qakj09E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sa0yz393wt2xpqrqww4l.png)
 
 对我更好: )

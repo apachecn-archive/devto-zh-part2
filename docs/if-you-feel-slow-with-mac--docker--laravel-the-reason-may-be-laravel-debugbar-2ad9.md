@@ -6,7 +6,7 @@
 
 我的结论是禁用`Laravel Debugbar`。它将应用速度提高了大约 3 倍**。**
 
-[![image.png](../Images/9aedb7a8d7b1fc9d110a1cd92511c9c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vf91ed0e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/103885/ac4d4abf-e6d7-b2a2-568a-27740cc76298.png)
+[![image.png](img/9aedb7a8d7b1fc9d110a1cd92511c9c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vf91ed0e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/103885/ac4d4abf-e6d7-b2a2-568a-27740cc76298.png)
 
 响应时间以前是 2.6 秒，现在是 0.85 秒，大约快了 3 倍。
 

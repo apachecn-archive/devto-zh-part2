@@ -12,7 +12,7 @@
 
 这里，有一些证据。
 
-[![Evidence](../Images/db6b380aa832d0fbad998c2d21be6f07.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--67WW_tGG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/ravernkoh/infinite/master/assets/how-it-works.png)
+[![Evidence](img/db6b380aa832d0fbad998c2d21be6f07.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--67WW_tGG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/ravernkoh/infinite/master/assets/how-it-works.png)
 
 ## 喜欢！
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nancy07/swift-vs-objective-c-which-is-the-best-for-iphone-app-development-chn>
 
-[![Swift vs Objective-C](../Images/142b3f00f44e8c0a869a129535f0e7a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GEri6m5o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oodj999eglnc2o0dfeg3.png)
+[![Swift vs Objective-C](img/142b3f00f44e8c0a869a129535f0e7a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GEri6m5o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oodj999eglnc2o0dfeg3.png)
 
 苹果在 2014 年 6 月宣布的 Swift 是 iPhone 应用开发的最新编程语言。在 Swift 推出之前，Objective-C 用于开发 iOS 平台上的应用程序。
 

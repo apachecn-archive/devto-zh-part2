@@ -22,11 +22,11 @@
 
 这是实例的内存图:
 
-[![Memory usage graph of the instance](../Images/1aaf201c98f2ef137944d1d25a887743.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vfyNkJDB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dizzy.zone/2018/08/15/How-I-host-this-blog-CI-and-tooling/memory.png)
+[![Memory usage graph of the instance](img/1aaf201c98f2ef137944d1d25a887743.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vfyNkJDB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dizzy.zone/2018/08/15/How-I-host-this-blog-CI-and-tooling/memory.png)
 
 CPU 也是如此:
 
-[![CPU usage graph of the instance](../Images/c00567636bb28ef6feb5f9c73918f10c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lGplaWSy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dizzy.zone/2018/08/15/How-I-host-this-blog-CI-and-tooling/cpu.png)
+[![CPU usage graph of the instance](img/c00567636bb28ef6feb5f9c73918f10c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lGplaWSy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dizzy.zone/2018/08/15/How-I-host-this-blog-CI-and-tooling/cpu.png)
 
 这两个满嘴实例有点不同——满嘴演示页面一运行满嘴，没有审核，使用 sqlite 作为数据存储(如果我们丢失了这里的注释，这并不重要),另一个使用 DynamoDB。
 
@@ -62,7 +62,7 @@ DynamoDB 是天赐之物。它的免费层(在 12 个月结束时不会过期)�
 
 这是我设置的仪表板的快照:
 
-[![Grafana dashboard of the blog](../Images/df3f8d2c155857f8dbc3f84e403c0fbc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fy1FjiLq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dizzy.zone/2018/08/15/How-I-host-this-blog-CI-and-tooling/grafana.png)
+[![Grafana dashboard of the blog](img/df3f8d2c155857f8dbc3f84e403c0fbc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fy1FjiLq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dizzy.zone/2018/08/15/How-I-host-this-blog-CI-and-tooling/grafana.png)
 
 ## 费用
 

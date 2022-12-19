@@ -14,7 +14,7 @@
 
 ## 艾作为同事
 
-[![Banking Technology Trends: AI as a Co-Worker](../Images/d38ef762629ace2070c51648b1f0bccd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JUw4bxEj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://perfectial.com/wp-content/uploads/2018/07/Artificial-intelligence.jpg)
+[![Banking Technology Trends: AI as a Co-Worker](img/d38ef762629ace2070c51648b1f0bccd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JUw4bxEj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://perfectial.com/wp-content/uploads/2018/07/Artificial-intelligence.jpg)
 
 人工智能可能是银行业和其他金融领域最受欢迎的科技趋势。它已经成为头条新闻，并引发了关于其裁员潜力的辩论。事实上，无数公司都对人工智能将取代的员工数量做出了令人震惊的预测。德意志银行首席执行官甚至预测，该行 98，000 名员工中的一半将被机器人取代。
 
@@ -22,7 +22,7 @@
 
 ## 设计思维了解顾客需要什么
 
-[![Banking Technology Trends: Design Thinking to Understand What Customers Need](../Images/74ac98c463978d6400ff92ef62ac6251.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3HAcGDVf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://perfectial.com/wp-content/uploads/2018/07/Design-Thinking.jpg)
+[![Banking Technology Trends: Design Thinking to Understand What Customers Need](img/74ac98c463978d6400ff92ef62ac6251.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3HAcGDVf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://perfectial.com/wp-content/uploads/2018/07/Design-Thinking.jpg)
 
 银行技术的最新趋势之一是设计思维。随着每年涌现出大量金融科技创业公司，银行业几乎没有选择，只能适应新的创业文化，并开始像创业公司一样思考。这就是设计思维可以发挥作用的地方。
 
@@ -36,7 +36,7 @@
 
 ## 区块链改变传统银行业务
 
-[![Banking Technology Trends: Blockchain to Change Legacy Banking](../Images/8f6563640b55ef35621f30d10231f693.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aNvnR6YH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://perfectial.com/wp-content/uploads/2018/07/Blockchain.jpg)
+[![Banking Technology Trends: Blockchain to Change Legacy Banking](img/8f6563640b55ef35621f30d10231f693.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aNvnR6YH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://perfectial.com/wp-content/uploads/2018/07/Blockchain.jpg)
 
 如果没有包括银行业在内的人们谈论最多的技术，这就不是真正的[商业技术趋势](https://perfectial.com/services/blockchain-for-business/)概述。
 

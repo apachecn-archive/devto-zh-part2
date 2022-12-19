@@ -219,7 +219,7 @@ Enter fullscreen mode Exit fullscreen mode
 *   高并发用户性能并不好
 
 推荐:
-[![thumbs](../Images/c23b068e19a71ba124171c399fb9ff2e.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--GDAfqgaQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-11/256/thumbs-up.png)
+[![thumbs](img/c23b068e19a71ba124171c399fb9ff2e.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--GDAfqgaQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/pix.iemoji.cimg/emoji/apple/ios-11/256/thumbs-up.png)
 
 我想说 Symfony 对于大多数对框架感兴趣的人来说是值得一看的。它提供了良好的灵活性和相当好的低负载性能，这使它成为一个内部公司应用程序的理想选择。
 

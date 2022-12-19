@@ -8,4 +8,4 @@ Storybook 让我们可以交互式地开发和测试用户界面组件，而不�
 
 [读下去📕✨](https://auth0.com/blog/using-storybook-with-vuejs/?utm_source=dev&utm_medium=sc&utm_campaign=storybook_vuejs)
 
-[![Using Storybook with VueJS](../Images/c8b40fc134ec3464b783cccadcf356ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mo0NvWJH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q8yaazl9oiv0a1hm53m2.png)
+[![Using Storybook with VueJS](img/c8b40fc134ec3464b783cccadcf356ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mo0NvWJH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q8yaazl9oiv0a1hm53m2.png)

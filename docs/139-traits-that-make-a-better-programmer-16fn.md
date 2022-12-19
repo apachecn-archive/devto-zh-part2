@@ -235,6 +235,6 @@ return expresion;
 
 _ 快乐编码！_💪
 
-[![](../Images/1ba4f9ac3328ddad4a8ced2ef5b24b5b.png)T2】](https://goo.gl/w4Pbea)
+[![](img/1ba4f9ac3328ddad4a8ced2ef5b24b5b.png)T2】](https://goo.gl/w4Pbea)
 
 * * *

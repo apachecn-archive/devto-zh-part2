@@ -16,11 +16,11 @@ Thanks a lot, fam! ❤️
 
 *   **我是**
 
-[![david_ojeda](../Images/3982752e278540bbb2ea6a3d4a365f5b.png)](/david_ojeda) [## AWS IAM 角。1 -基础知识
+[![david_ojeda](img/3982752e278540bbb2ea6a3d4a365f5b.png)](/david_ojeda) [## AWS IAM 角。1 -基础知识
 
 ### 大卫奥赫达 7 月 30 日 183 分钟阅读
 
-#aws #iam](/david_ojeda/aws-iam-pt-1---the-basics-139h)[![david_ojeda](../Images/3982752e278540bbb2ea6a3d4a365f5b.png)](/david_ojeda) [## AWS IAM 角。2 -一个实际例子
+#aws #iam](/david_ojeda/aws-iam-pt-1---the-basics-139h)[![david_ojeda](img/3982752e278540bbb2ea6a3d4a365f5b.png)](/david_ojeda) [## AWS IAM 角。2 -一个实际例子
 
 ### 大卫·奥赫达 7 月 31 日 186 分钟阅读
 
@@ -28,7 +28,7 @@ Thanks a lot, fam! ❤️
 
 *   **S3**
 
-[![david_ojeda](../Images/3982752e278540bbb2ea6a3d4a365f5b.png)](/david_ojeda) [## 奥斯 S3 角。1 -基础知识
+[![david_ojeda](img/3982752e278540bbb2ea6a3d4a365f5b.png)](/david_ojeda) [## 奥斯 S3 角。1 -基础知识
 
 ### 大卫奥赫达 17 年 8 月 18 日 3 分钟阅读
 

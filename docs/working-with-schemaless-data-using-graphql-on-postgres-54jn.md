@@ -53,7 +53,7 @@ PostgreSQL 提供两种数据类型来存储 JSON 元素:`JSON`和`JSONB`。它�
 
 我们将使用 Hasura GraphQL 引擎通过 Postgres 即时获取 GraphQL APIs。点击下面的按钮，将 GraphQL 引擎部署到 Heroku 的自由层。
 
-<figure>[![Hasura on Heroku](../Images/c5f2ec62efbee76fd41eb9eff7b5c1c0.png)](https://heroku.com/deploy?template=https://github.com/hasura/graphql-engine-heroku) 
+<figure>[![Hasura on Heroku](img/c5f2ec62efbee76fd41eb9eff7b5c1c0.png)](https://heroku.com/deploy?template=https://github.com/hasura/graphql-engine-heroku) 
 
 <figcaption>点击此按钮将 GraphQL 引擎部署到 Heroku</figcaption>
 
@@ -67,7 +67,7 @@ Graphql 引擎附带了一个名为`Console`的管理 UI。您可以使用`Conso
 
 它运行在您的`graphql-engine` URL 的`/console`端点，在本例中是`https://your-app.herokuapp.com/console`。`console`的登陆页面看起来是这样的:
 
-[![](../Images/62274f80491c999fc62d3bb84f7864b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P1CgRPHa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/working-with-schemaless-data-with-graphql-on-postgres-574a1ee2e87f/1-CuBaxCvX-UlNLsSCBRx0uA.png)
+[![](img/62274f80491c999fc62d3bb84f7864b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P1CgRPHa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/working-with-schemaless-data-with-graphql-on-postgres-574a1ee2e87f/1-CuBaxCvX-UlNLsSCBRx0uA.png)
 
 ## 创建表存储 JSON 数据
 
@@ -79,7 +79,7 @@ Graphql 引擎附带了一个名为`Console`的管理 UI。您可以使用`Conso
 *   `name` **正文**
 *   `address` **JSONB**
 
-[![](../Images/b9c3e303feb71e411b0c525bac3204a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4NzMdyy1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/working-with-schemaless-data-with-graphql-on-postgres-574a1ee2e87f/1-aIDqZHRYSk1Wb5RCXIsjjQ.png)
+[![](img/b9c3e303feb71e411b0c525bac3204a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4NzMdyy1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/working-with-schemaless-data-with-graphql-on-postgres-574a1ee2e87f/1-aIDqZHRYSk1Wb5RCXIsjjQ.png)
 
 点击`create`按钮创建表格。
 
@@ -138,7 +138,7 @@ _ **注意**:确保在运行查询之前选中 **`Track Table`** 复选框，这
 
 这将创建一个名为 **`user_address`** 的视图，以 **`user_id`** 和 **`pincode`** 为列。
 
-[![](../Images/5185f76dac06715e0cb3e67b8e0f8d10.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--luKHIROM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/working-with-schemaless-data-with-graphql-on-postgres-574a1ee2e87f/1-lDUS_YsqwjlXemkswp1b3Q.png)
+[![](img/5185f76dac06715e0cb3e67b8e0f8d10.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--luKHIROM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/working-with-schemaless-data-with-graphql-on-postgres-574a1ee2e87f/1-lDUS_YsqwjlXemkswp1b3Q.png)
 
 我们现在可以[从这个视图中获取数据](https://docs.hasura.io/0.15/manual/data/select.html),就像您从表中获取数据一样。
 
@@ -163,7 +163,7 @@ Enter fullscreen mode Exit fullscreen mode
 *   关系名称可以是“地址信息”
 *   配置:**`id :: user_address -> user_id`T2】**
 
-[![](../Images/dd4bddb35ab7a7fdcda88a81255933e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V5TJK7rM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/working-with-schemaless-data-with-graphql-on-postgres-574a1ee2e87f/1-Kdf4Bpc7PdpRSnKxGbiotg.png)
+[![](img/dd4bddb35ab7a7fdcda88a81255933e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V5TJK7rM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/working-with-schemaless-data-with-graphql-on-postgres-574a1ee2e87f/1-Kdf4Bpc7PdpRSnKxGbiotg.png)
 
 您现在可以通过密码过滤 **`user`** 表格。
 

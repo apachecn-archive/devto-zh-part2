@@ -6,4 +6,4 @@
 
 [读下去🚀](https://auth0.com/blog/developing-golang-and-angular-apps-part-2-angular-front-end/?utm_source=dev&utm_medium=sc&utm_campaign=stack_golang_angular)
 
-[![Golang & Angular Series - Part 2: Developing and Securing Angular Apps](../Images/8f02fca5dcc669f3938892b6141205f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uDJ3wcCi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n6a7hcksgcla1yh8d55j.png)
+[![Golang & Angular Series - Part 2: Developing and Securing Angular Apps](img/8f02fca5dcc669f3938892b6141205f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uDJ3wcCi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n6a7hcksgcla1yh8d55j.png)

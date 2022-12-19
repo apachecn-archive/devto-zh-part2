@@ -6,4 +6,4 @@
 
 [读下去🌟](https://auth0.com/blog/develop-modern-apps-with-react-graphql-apollo-and-add-authentication/?utm_source=dev&utm_medium=sc&utm_campaign=react_graphql_apollo)
 
-[![Developing and Securing Modern Apps with GraphQL, React, and Apollo](../Images/9884bae207120ec08625f3c3d8cef4b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---6rr8lLu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xot3ug8mlbhqll9f1un2.png)
+[![Developing and Securing Modern Apps with GraphQL, React, and Apollo](img/9884bae207120ec08625f3c3d8cef4b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---6rr8lLu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xot3ug8mlbhqll9f1un2.png)

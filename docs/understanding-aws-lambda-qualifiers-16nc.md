@@ -10,7 +10,7 @@
 
 限定符是命名代码不同版本的一种方式；例如生产、登台等..AWS lambda 限定符有利于划分环境，也有利于在升级生产之前升级阶段中的代码版本。限定符允许唯一的触发器。由此，我们附加了 staging 限定符来观察一组流。例如:
 
-[![lambda example](../Images/f1bbca33606288c7e679e2bca835a1d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B6PyypEg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/toon039i7z0p4w4kbbg9.png)
+[![lambda example](img/f1bbca33606288c7e679e2bca835a1d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B6PyypEg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/toon039i7z0p4w4kbbg9.png)
 
 从上面的图片中，你可以看到我已经为我的代码版本 1 设置了限定符，基于不同的文本模式有 2 个 cloudwatch 日志触发器。每个流都可以通过点击一个按钮来打开和关闭，而无需重新部署。我觉得这个超级酷。
 

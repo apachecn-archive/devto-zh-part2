@@ -9,7 +9,7 @@
 如果您正在构建一个 Rails 5.2 应用程序，或者只是一般地关注 Rails，那么您很有可能熟悉 ActiveStorage。如果你通读了 [Rails 文档](https://edgeguides.rubyonrails.org/active_storage_overview.html)，你会发现设置起来真的很容易。甚至[直接上传](https://edgeguides.rubyonrails.org/active_storage_overview.html#direct-uploads)都是疯狂的容易。不太容易，也不太清楚的是，如果我们的提交被控制器踢回，如何处理直接上传。
 
 假设我们有这样的事情发生:
-[![ActiveStorage direct upload example](../Images/43a54ea0175acb325e1fc663a1959058.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--a6rCp-RV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/soutxoz2nm7zqg9jl0ep.png)
+[![ActiveStorage direct upload example](img/43a54ea0175acb325e1fc663a1959058.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--a6rCp-RV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/soutxoz2nm7zqg9jl0ep.png)
 
 相当标准的铁路材料。除了 ActiveStorage 和 validation 之外的所有东西都是您期望从典型的 scaffold 中得到的。
 
@@ -56,7 +56,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在一切看起来像这样:
 
-[![fixed it!](../Images/b76036ea89b3f1d47969c2736f6572bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A2fqa9ZE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1qjnivqhizmodi30wb0u.png)
+[![fixed it!](img/b76036ea89b3f1d47969c2736f6572bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A2fqa9ZE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1qjnivqhizmodi30wb0u.png)
 
 就像魔术一样，事情会比预期的多一点。下次我们尝试在帖子中附加图像时，提交没有标题或正文的表单，然后重新提交我们上传的图像，将会附加图像。
 

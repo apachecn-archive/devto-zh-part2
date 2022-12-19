@@ -37,7 +37,7 @@
 2.  在墙上空出一块地方放置便利贴。可见，因此它在一周中充当无声的提醒。前面要有足够的空位，这样队伍才能聚集起来。
 3.  每个团队成员依次来到团队面前，一个接一个地说出自己的目标，并把它们贴在墙上。我喜欢爆米花风格:只要每个人都发言，谁想发言就发言。如果可能，不要指定。
 
-[![The Challenges of the Week, in action.](../Images/6e36e803a7d826995f7e9c6cb9141887.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WzmJiSS8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/23f27a8o2ljce1u6tto6.jpg)
+[![The Challenges of the Week, in action.](img/6e36e803a7d826995f7e9c6cb9141887.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WzmJiSS8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/23f27a8o2ljce1u6tto6.jpg)
 
 > 本周挑战，创业公司 Lovelace 的行动。
 
@@ -49,7 +49,7 @@
 
 本周的**挑战**已经成为一个基石仪式，在周末之后让思想进入运动状态，并让每个团队成员与其个人目标保持一致。它间接地建立了动力，让每个人都知道彼此的立场，从而提高团队凝聚力。
 
-[![Here is the nicely pimped-up board of the Swartz startup](../Images/73395c15e8edbbe39ff3ac2207436f25.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jr7zslM4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7ci74vhhqs35xqb31r2q.jpg)
+[![Here is the nicely pimped-up board of the Swartz startup](img/73395c15e8edbbe39ff3ac2207436f25.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jr7zslM4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7ci74vhhqs35xqb31r2q.jpg)
 
 > 这是 ssmartp 创业公司的董事会。
 

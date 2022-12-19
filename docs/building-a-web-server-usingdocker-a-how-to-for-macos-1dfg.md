@@ -3,13 +3,13 @@
 > 原文：<https://dev.to/_robynedgar/building-a-web-server-usingdocker-a-how-to-for-macos-1dfg>
 
 *供稿[迪伦阿斯普登](https://www.linkedin.com/in/dhaspden/)*
-[![alt text](../Images/c27e3bcab11c2bead9d8e65a562b234d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iJ5ThOta--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2ASpug1WjvET_0D9iyLQ2uew.png)
+[![alt text](img/c27e3bcab11c2bead9d8e65a562b234d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iJ5ThOta--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2ASpug1WjvET_0D9iyLQ2uew.png)
 
 ### 等等，Docker 是什么？
 
 对于那些不熟悉的人来说， [Docker](//www.docker.com) 是一种在容器中创建、部署和运行一个或一组应用程序的软件技术。你问容器是什么？容器是包含运行应用程序所需的一切的包。这包括操作系统和该操作系统上运行应用程序所需的任何程序。
 
-[![alt text](../Images/46c25729151598108e28ad623b2dddcb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J3t-cWbB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AiTtfM-VA1zDIDONFqHniKg.png)
+[![alt text](img/46c25729151598108e28ad623b2dddcb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J3t-cWbB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AiTtfM-VA1zDIDONFqHniKg.png)
 
 在我们的例子中，我们的大多数容器都安装了 Linux (Ubuntu、Alpine 等)。)并安装了 Node.js。通过将内容保存到一个叫做图像的东西中，容器可以被重复使用无数次。
 

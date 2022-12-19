@@ -6,7 +6,7 @@
 > 
 > 本指南向您介绍了模式优先的 API 设计领域，以及如何开始使用 OpenAPI 生态系统。
 
-[![](../Images/0b64c338918447237c0b9ff39912c57e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hQIy1_MY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/XrBO4V4.jpg)
+[![](img/0b64c338918447237c0b9ff39912c57e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hQIy1_MY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/XrBO4V4.jpg)
 
 你在构建一个 API。
 
@@ -38,7 +38,7 @@
 
 API 规范代表了一个 API 的契约。
 
-[![](../Images/163a42f38b806db931e3a3c657f69cdf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Sc-pEocB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/F6pvy24.png)
+[![](img/163a42f38b806db931e3a3c657f69cdf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Sc-pEocB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/F6pvy24.png)
 
 有了 API 规范和 Swagger UI 之类的工具，您可以可视化您的 API，以便其他开发人员和利益相关者可以学习并尽早给出设计反馈。您甚至可以运行一个基于 API 规范的模拟服务，其他团队可以立即与之交互。
 
@@ -56,7 +56,7 @@ API 规范代表了一个 API 的契约。
 
 ## 生成代码和文档
 
-[![](../Images/0b413fa99a7ebaf02a016512cc88e8fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_Sit2TAe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Ug7AkZ6.png)
+[![](img/0b413fa99a7ebaf02a016512cc88e8fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_Sit2TAe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Ug7AkZ6.png)
 
 模式优先的方法创建了可用于生成各种开发工件的单一事实来源。定义良好的 API 规范可用于自动构建 API、生成 API 引用以及与 API 通信的客户端 SDK。
 
@@ -72,7 +72,7 @@ API 规范语言定义了 REST APIs 的语言无关的标准表示。API 规范�
 
 # open API 规范语言
 
-[![](../Images/cfcc47848ef74833d7e7746325140e58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QwaVhdpS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.openapis.org/wp-content/uploads/sites/3/2016/10/OpenAPI_Pantone.png)
+[![](img/cfcc47848ef74833d7e7746325140e58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QwaVhdpS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.openapis.org/wp-content/uploads/sites/3/2016/10/OpenAPI_Pantone.png)
 
 ## 概述
 
@@ -147,7 +147,7 @@ Enter fullscreen mode Exit fullscreen mode
 *   `externalDocs`:附加外部文件。
 *   `paths` : **必选。**API 的可用路径和操作。
 
-> [![](../Images/24d834d9c32462e4788d17b3bc158f7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ITLW3YUL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://techsparx.com/software-development/openapi/img/swagger-editor-online.jpg)
+> [![](img/24d834d9c32462e4788d17b3bc158f7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ITLW3YUL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://techsparx.com/software-development/openapi/img/swagger-editor-online.jpg)
 > 
 > 你可以使用在线的 [Swagger 编辑器](https://editor.swagger.io//#/)跟随！
 
@@ -194,7 +194,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在 Swagger UI 上，用户可以从这个预定义的列表中选择发送请求的服务器:
 
-[![](../Images/d30d7f05a9e7138c6f24f7b1ea7ca2bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ajdYN9-5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/P49dxc8.png)
+[![](img/d30d7f05a9e7138c6f24f7b1ea7ca2bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ajdYN9-5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/P49dxc8.png)
 
 ### `components`节
 
@@ -391,7 +391,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这将在 Swagger UI 中对具有相同标签的操作进行分组:
 
-[![](../Images/a49a57f2621f34a8cd3672aa6a56c039.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cx5htxtN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://idratherbewriting.com/learnapidoc/images/openapitutorial_tags.png)
+[![](img/a49a57f2621f34a8cd3672aa6a56c039.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cx5htxtN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://idratherbewriting.com/learnapidimg/openapitutorial_tags.png)
 
 下面是一个`externalDocs`对象的例子:
 

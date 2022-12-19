@@ -10,7 +10,7 @@
 当存在 git 冲突时，将分支合并到主分支成为一件痛苦的事情。
 在这篇文章中，我将揭示 3 个简单的规则来避免 git 冲突。
 
-[![3 simple rules for less or no git conflicts](../Images/a51a49f4d81a4d4d09ef332179b3152a.png "3 simple rules for less or no git conflicts")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---j3K6DDN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://geshan.com.np/images/3-rules-git-conflict/git-conflict.png)
+[![3 simple rules for less or no git conflicts](img/a51a49f4d81a4d4d09ef332179b3152a.png "3 simple rules for less or no git conflicts")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---j3K6DDN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://geshan.com.img/3-rules-git-conflict/git-conflict.png)
 
 ## 假设
 

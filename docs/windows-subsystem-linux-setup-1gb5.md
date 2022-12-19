@@ -25,7 +25,7 @@ sudo apt -y upgrade
 
 如果您在升级声明中的`-y`之前没有使用过任何 Linux 发行版，那么对于终端中显示的任何提示，默认回答是 yes。你可能不想这样做，因为可能有一些程序你不想更新，但我想。
 
-[![upgrade image](../Images/17ad1b053ae768af84101287b66f94b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z3m55rvb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hieqb0gy17oziysie1s4.png)
+[![upgrade image](img/17ad1b053ae768af84101287b66f94b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z3m55rvb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hieqb0gy17oziysie1s4.png)
 
 你不会收到这些信息👆
 
@@ -88,7 +88,7 @@ omf install clearance
 ```
 
 看看鱼壳在行动:
-[![fish shell inaction](../Images/60bb3dcf7a537f9e9976daf789ca33b1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cYxREij4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b0mgenxzri1cwomfikxv.gif)
+[![fish shell inaction](img/60bb3dcf7a537f9e9976daf789ca33b1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cYxREij4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b0mgenxzri1cwomfikxv.gif)
 
 ### 开始的开始
 
@@ -113,7 +113,7 @@ rsync -avzh /mnt/c/Users/dotfiles/ ~/
 ls -la ~/ 
 ```
 
-[![bash files wrong permissions](../Images/7f6171f1f7d09fc0cec35700309f98ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GAp3B8vd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0p094du96f3tz5bsxviv.png)
+[![bash files wrong permissions](img/7f6171f1f7d09fc0cec35700309f98ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GAp3B8vd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0p094du96f3tz5bsxviv.png)
 
 我复制了我的`.gitconfig`、`.gitignore`和`.npmrc`点文件，你可以看到权限与`.bashrc`文件不一致。
 
@@ -150,7 +150,7 @@ chmod 644 .gitconfig .gitignore .npmrc
 
 现在我的文件是这样的。👍
 
-[![bash files permissions](../Images/03aaf64a0c104a4b844aa152d5f2c760.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qzhaGTiF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lbn5bpj4fvne5zaa7sxz.png)
+[![bash files permissions](img/03aaf64a0c104a4b844aa152d5f2c760.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qzhaGTiF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lbn5bpj4fvne5zaa7sxz.png)
 
 好了，现在我们已经安装并运行了最新的 Ubuntu，节点和 fish 终端。当然，现在仍然有安装所有你想要开发的全局 npm 包的情况。
 

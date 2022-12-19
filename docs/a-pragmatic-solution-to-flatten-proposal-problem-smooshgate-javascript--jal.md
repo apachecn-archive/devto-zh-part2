@@ -10,7 +10,7 @@
 
 这显然不是 mootools 第一次与 TC39 提案不兼容。
 
-> ![Michael Ficarra profile image](../Images/b73bd764c3086befa8d8e8720221ff33.png)迈克尔·菲卡拉@ js pedant![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)MooTools 再次对不允许我们实现新的原生 Array.prototype 方法负责。这一次展平受到影响。谁想玩 Array.prototype.smoosh？[github.com/tc39/proposal-…](https://t.co/TOogRicwjd)2018 年 03 月 07 日上午 01:19![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=971193585822396416)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=971193585822396416)
+> ![Michael Ficarra profile image](img/b73bd764c3086befa8d8e8720221ff33.png)迈克尔·菲卡拉@ js pedant![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)MooTools 再次对不允许我们实现新的原生 Array.prototype 方法负责。这一次展平受到影响。谁想玩 Array.prototype.smoosh？[github.com/tc39/proposal-…](https://t.co/TOogRicwjd)2018 年 03 月 07 日上午 01:19![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=971193585822396416)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=971193585822396416)
 
 TC39 的任务很艰巨，不仅要批准新的语言提案，还要确保这些提案是向后兼容的，不会破坏网络。
 
@@ -18,7 +18,7 @@ TC39 的任务很艰巨，不仅要批准新的语言提案，还要确保这些
 
 [另一提案](https://github.com/tc39/proposal-flatMap/pull/56)建议将`flatten`更名为`smoosh`。我不确定这是不是一个开玩笑的建议，但它已经引发了一场大辩论，现在被称为#smooshgate。
 
-[![Break the web?](../Images/7701293a847a4b820a58d8efa5f7d445.png)T2】](https://twitter.com/bterlson/status/971210573818904576)
+[![Break the web?](img/7701293a847a4b820a58d8efa5f7d445.png)T2】](https://twitter.com/bterlson/status/971210573818904576)
 
 这将是一个*解决方案*，因为`flatten`比`smoosh`更好。为一个 8 年多的老库重新命名这个方法看起来很疯狂。
 

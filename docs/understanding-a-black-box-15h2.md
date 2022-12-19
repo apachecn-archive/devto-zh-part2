@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/alexburlacu/understanding-a-black-box-15h2>
 
-[![](../Images/ec8b3d0b6137821ca973877e353009df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4ixG57Ef--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bakqd3d3w3l7dhfz2zh8.jpeg)
+[![](img/ec8b3d0b6137821ca973877e353009df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4ixG57Ef--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bakqd3d3w3l7dhfz2zh8.jpeg)
 
 模型可解释性方法的概述…以及为什么它很重要。原发表[此处](https://towardsdatascience.com/understanding-a-black-box-896df6b82c6e)。
 
@@ -42,7 +42,7 @@
 
 也许你听说过这个。如果没有，首先看看这个简短的介绍。
 
-[![IMAGE ALT TEXT](../Images/0d9bb00d6888c42d10b526b637776754.png)T2】](http://www.youtube.com/watch?v=hUnRCxnydCc)
+[![IMAGE ALT TEXT](img/0d9bb00d6888c42d10b526b637776754.png)T2】](http://www.youtube.com/watch?v=hUnRCxnydCc)
 
 2016 年发表《我为什么要相信你？:解释任何分类器的预测”的论文，该论文介绍了 **LIME —局部可解释的模型不可知解释**。让我们从名字中推导出它的功能！
 

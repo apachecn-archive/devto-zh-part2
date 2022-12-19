@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/how-css-works-creating-layers-with-z-index-38e4>
 
-[![](../Images/fd9a92dfec2b3dd04da497c196b2972f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yZH2HTIv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AtGY4JI6xd_e3irIrrrmqiw.jpeg)
+[![](img/fd9a92dfec2b3dd04da497c196b2972f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yZH2HTIv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AtGY4JI6xd_e3irIrrrmqiw.jpeg)
 
 ### 简介
 
@@ -19,7 +19,7 @@
 
 我们会发现它并不像我们想象的那么可怕。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/?cid=banner_a)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/?cid=banner_a)
 
 ### Z-Index 到底是什么？
 
@@ -33,7 +33,7 @@ z-index 属性指的是元素在三维浏览器中的绘制顺序。默认情况
 
 在深入研究 [CSS 位置&布局规范的时候，](https://www.w3.org/TR/css-position-3/#layered-presentation)我发现了这个有用的图表，可以直观地向用户展示 z 索引层的外观。
 
-[![](../Images/9a68b44a9ffcceb6be8cbff3b753b0f9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oNuXW2bu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/265/1%2AaUbku-PjO32LMzy5cXd7fQ.png) 
+[![](img/9a68b44a9ffcceb6be8cbff3b753b0f9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oNuXW2bu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/265/1%2AaUbku-PjO32LMzy5cXd7fQ.png) 
 
 <figcaption>具有较高 z 索引的元素看起来“更靠近”用户</figcaption>
 
@@ -60,7 +60,7 @@ z-index 属性指的是元素在三维浏览器中的绘制顺序。默认情况
 
 作为一个例子，让我们想象三棵树的 HTML 节点，可视化为三个堆栈。在下图中，每个堆栈的底部是父 HTML 节点，子元素堆叠在顶部(有点像 HTML 树的“颠倒”表示)。让我们假设这些元素都是 body 标签的直接子元素。
 
-[![](../Images/d23e43fa2fd77891cabcbe5961778e82.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ktP5TOCd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A1w1e98DrXWdF4fEDFJwLQQ.png) 
+[![](img/d23e43fa2fd77891cabcbe5961778e82.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ktP5TOCd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A1w1e98DrXWdF4fEDFJwLQQ.png) 
 
 <figcaption>三叠元素，父元素都在最下面</figcaption>
 
@@ -99,7 +99,7 @@ z-index 属性指的是元素在三维浏览器中的绘制顺序。默认情况
 
 ### Plug: [LogRocket](http://logrocket.com) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

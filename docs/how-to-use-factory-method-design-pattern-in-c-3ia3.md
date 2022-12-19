@@ -38,7 +38,7 @@
 
 我们将开发一种工厂方法，根据所需的车轮数量来创建车辆
 
-[![factory pattern](../Images/6dc2bf877ea5f4bf8d2059e4f7d1670e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XbgSmVJJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://garywoodfine.com/wp-content/uploads/2018/10/factory-pattern.jpg)
+[![factory pattern](img/6dc2bf877ea5f4bf8d2059e4f7d1670e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XbgSmVJJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://garywoodfine.com/wp-content/uploads/2018/10/factory-pattern.jpg)
 
 一辆车可以由任意数量的轮子组成，例如，在游戏中，当一个角色需要建造一辆车时，他们有固定数量的轮子。
 

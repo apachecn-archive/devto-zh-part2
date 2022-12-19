@@ -34,7 +34,7 @@ Heroku 有一个 Procfile 的概念，它只是一个解释 Heroku 应该如何�
 
 我们将只在目录结构的根目录下创建一个简单的 Procfile，这个目录结构就是`wsgi.py`所在的位置:
 
-[![](../Images/d509002db759f520e423a061bbc9a748.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7Ets94_e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v4h6bu23xtfl37n2ph0r.png)
+[![](img/d509002db759f520e423a061bbc9a748.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7Ets94_e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v4h6bu23xtfl37n2ph0r.png)
 
 我们将使用 Gunicorn 来部署我们的 WSGI 应用程序，因此在这个 Procfile 中应该有一行简单的文本:
 
@@ -128,7 +128,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们可以将它作为一个键添加到配置变量中，如下所示:
 
-[![](../Images/9ade90501dd65028e286dd3567aec19f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--baDybxRV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78q8yv53why6z3ans1wl.png)
+[![](img/9ade90501dd65028e286dd3567aec19f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--baDybxRV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78q8yv53why6z3ans1wl.png)
 
 ## 数据库配置
 
@@ -180,7 +180,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您的最终配置变量将如下所示:
 
-[![](../Images/af29e3acdb34ba870715e417e11def05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LeYD03mx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/21aa1hfrxnttyamcdxtm.png)
+[![](img/af29e3acdb34ba870715e417e11def05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LeYD03mx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/21aa1hfrxnttyamcdxtm.png)
 
 * * *
 

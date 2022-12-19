@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/egimba/command-line-interface-photographs-conversion-4fk>
 
-[![Do I choose between the Graphical User Interface Swiss Army Knife, or go for the Command Line Interface Corkscrew?](../Images/a1df578fdcda52f8cbdade1c097b2659.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yrPMJTtQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://egmgem.com/blog/wp-content/uploads/2018/06/Swiss-Or-Corkscrew-768x512.jpg)
+[![Do I choose between the Graphical User Interface Swiss Army Knife, or go for the Command Line Interface Corkscrew?](img/a1df578fdcda52f8cbdade1c097b2659.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yrPMJTtQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://egmgem.com/blog/wp-content/uploads/2018/06/Swiss-Or-Corkscrew-768x512.jpg)
 
 在命令行上工作有一种神奇的感觉。当然，许多人觉得它超级深奥和神秘，但我喜欢它。Windows 世界真的把我宠坏了，让我习惯了图形用户界面。当然，还有命令提示符，对于那些想要更多功能的人来说，这是名副其实的 PowerShell，但这仍然没有打动我。切换到 Linux 后，我正在重新熟悉命令行界面(CLI)，我发现我对它的热爱越来越多。
 
@@ -42,11 +42,11 @@ chmod 777 gmthumbs
 
 我运行了命令 ***。/gmthumbs*** 在一个测试目录中，我已经用一些图片建立了这个目录。
 
-[![Listing showing the files I used to test the conversion script](../Images/1ce26b6c82149b88c7618c00369c8047.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g_XiYo5w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://egmgem.com/blog/wp-content/uploads/2018/06/Listing-1.png)
+[![Listing showing the files I used to test the conversion script](img/1ce26b6c82149b88c7618c00369c8047.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g_XiYo5w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://egmgem.com/blog/wp-content/uploads/2018/06/Listing-1.png)
 
 我没有得到预期的结果，因为只有第一个文件被转换并被赋予了新的名称(***【0filename.jpg】***)，如下图所示:
 
-[![Listing of files showing just the first image converted](../Images/a805bbc190527441128b73bf98cf03bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wdQhmzFy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://egmgem.com/blog/wp-content/uploads/2018/06/Listing-2.png)
+[![Listing of files showing just the first image converted](img/a805bbc190527441128b73bf98cf03bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wdQhmzFy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://egmgem.com/blog/wp-content/uploads/2018/06/Listing-2.png)
 
 我在输出变量名上做了一些尝试，在输出文件名中只有英镑符号，添加了美元符号，然后，最终，删除了英镑符号，保留了美元符号。下面列出的最后一个选项给了我需要的结果。
 
@@ -71,11 +71,11 @@ done
 
 在运行该命令并询问文件列表时，我发现原来的文件仍然完好无损，并且已经创建了一个新目录 ***output*** 。
 
-[![Listing showing original files intact, and new folder output in place.](../Images/e6d70bd687c81bef01c06b5840ef738d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9cObaPy5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://egmgem.com/blog/wp-content/uploads/2018/06/Listing-3.png)
+[![Listing showing original files intact, and new folder output in place.](img/e6d70bd687c81bef01c06b5840ef738d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9cObaPy5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://egmgem.com/blog/wp-content/uploads/2018/06/Listing-3.png)
 
 进入该目录，我发现转换后的文件在适当的位置。
 
-[![Listing showing output folder with properly converted files.](../Images/1b45747bf54a443f990c3b45eee951f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GV2H9AhA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://egmgem.com/blog/wp-content/uploads/2018/06/Listing-4.png)
+[![Listing showing output folder with properly converted files.](img/1b45747bf54a443f990c3b45eee951f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GV2H9AhA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://egmgem.com/blog/wp-content/uploads/2018/06/Listing-4.png)
 
 成功！现在，我可以使用这个漂亮的脚本快速轻松地在任何文件夹中创建图像的缩略图。
 

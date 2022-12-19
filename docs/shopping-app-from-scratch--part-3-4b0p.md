@@ -10,7 +10,7 @@
 
 我按照自己的方式完成了教程，但是当我使用 Claudia 将它部署到 AWS 时，我遇到了一个问题。它不承认我的 AWS 证书。我搜索了 stackoverflow、AWS 和无数论坛，但无法排序。我花了几乎整个上午试图让它工作。如果你有 AWS 或克劳迪娅评论的经验，让我知道我应该做什么！
 
-[![](../Images/87dfb79d1703d50507a0e9cbc0d03025.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xNl6itMA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/479/1%2AU0ScankV5e__HqUEDn5-Hw.png)
+[![](img/87dfb79d1703d50507a0e9cbc0d03025.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xNl6itMA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/479/1%2AU0ScankV5e__HqUEDn5-Hw.png)
 
 下一个教程我发现没有使用 Claudia 或 AWS，所以我试了一下，它成功了。我必须从使用 ngrok 将 webhook 请求通过隧道传输到本地端口开始。
 
@@ -26,7 +26,7 @@
 
 一旦我注册了，我就创建了一个代理。代理就像机器人的逻辑，它包含所有的“请求→响应”路径。首先，我添加了一个“闲聊”插件，这意味着机器人可以与用户聊天。
 
-<figure>[![](../Images/0809fbbc7656b4c7e6304c7b93b751c4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lgrQ-fhW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/404/1%2A8bLaIWbuAHFkki6OlqRjCw.gif) 
+<figure>[![](img/0809fbbc7656b4c7e6304c7b93b751c4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lgrQ-fhW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/404/1%2A8bLaIWbuAHFkki6OlqRjCw.gif) 
 
 <figcaption>闲聊</figcaption>
 
@@ -50,7 +50,7 @@
 
 简单的文本响应意图很有趣，但它们无法处理更复杂和相关的问题，如“我的订单在哪里”或“我可以退货吗”。对于这些，我们需要使用 webhooks。
 
-<figure>[![](../Images/2db020837755598e1c74247b9d9bd212.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--z5RmvtJD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/431/1%2ApzrzPwqUipw8u8NAkocQMw.png) 
+<figure>[![](img/2db020837755598e1c74247b9d9bd212.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--z5RmvtJD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/431/1%2ApzrzPwqUipw8u8NAkocQMw.png) 
 
 <figcaption>履行选项</figcaption>
 
@@ -64,7 +64,7 @@
 
 DialogFlow 允许您将后续意图添加到您已经制定的任何意图中。以下是我对*退货单*意向的跟进意向。
 
-[![](../Images/b7735945e5eb33132da87c4db98e0ccf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oCBhbrDB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/474/1%2AQ7RfxxZkpe6pFSNjDIoq-A.png)
+[![](img/b7735945e5eb33132da87c4db98e0ccf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oCBhbrDB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/474/1%2AQ7RfxxZkpe6pFSNjDIoq-A.png)
 
 客户—我可以退回我的订单吗
 
@@ -84,6 +84,6 @@ Bot —这是您想要退回的订单吗？
 
 webhook API 非常简单:接收一个请求，如果它有一个动作 *return order* ，然后向主 API 发出 get 请求，并以可读的方式格式化订单。
 
-[![](../Images/ec01ff5d78883fc9588a392244993b2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oF-2nZR8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/406/1%2AsaBmKdLmw00pTGPTTgvmAA.gif)
+[![](img/ec01ff5d78883fc9588a392244993b2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oF-2nZR8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/406/1%2AsaBmKdLmw00pTGPTTgvmAA.gif)
 
 * * *

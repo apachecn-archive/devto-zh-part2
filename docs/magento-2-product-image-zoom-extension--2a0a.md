@@ -28,6 +28,6 @@ Magento 2 产品缩放添加缩放放大镜到产品图像。客户可以在鼠�
 
 **前端截图**:
 
-[![Magento 2 product image zoom](../Images/e7476fd92cc95d8078beabe1ec1a0ac3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EPo6pcxf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.fmeextensions.com/skin/frontend/default/fme_new/images/product_zoom_m2/Add-Zoom-Magnifier-to-Product-Images%2520.gif)
+[![Magento 2 product image zoom](img/e7476fd92cc95d8078beabe1ec1a0ac3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EPo6pcxf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.fmeextensions.com/skin/frontend/default/fme_nimg/product_zoom_m2/Add-Zoom-Magnifier-to-Product-Images%2520.gif)
 
-[![Magento 2 product image zoom](../Images/52cfdeb8875100ffe20e552a409d8b96.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dMGqmrL2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.fmeextensions.com/skin/frontend/default/fme_new/images/product_zoom_m2/Display-Product-Images-in-Lightbox.gif)
+[![Magento 2 product image zoom](img/52cfdeb8875100ffe20e552a409d8b96.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dMGqmrL2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.fmeextensions.com/skin/frontend/default/fme_nimg/product_zoom_m2/Display-Product-Images-in-Lightbox.gif)

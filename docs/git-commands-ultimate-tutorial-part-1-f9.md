@@ -16,7 +16,7 @@
 
 通过在终端中运行`$git help`命令，您可以了解很多关于单个 Git 命令的信息。这应该会出现:
 
-[![git-help-command](../Images/5c5381730514bf9aefd07c2578e16361.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hmgmuE01--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/705193677f876525ff33c6a7eaca4901/git-help-command.png)
+[![git-help-command](img/5c5381730514bf9aefd07c2578e16361.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hmgmuE01--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/705193677f876525ff33c6a7eaca4901/git-help-command.png)
 
 任何东西都可以添加到你的 git 库，甚至你的控制器测试！
 

@@ -14,7 +14,7 @@
 
 古老的投票箱投票箱系统在这方面做得非常好。所有的选票在盒子里混在一起，开始前没有秘密投票，最后，他们要做的就是当众清点所有的纸。人们可以补充说，多亏了 VVPAT(印度投票机将每张选票打印在一张纸条上，然后放进一个密封的盒子里)，人们只需跟着他们的投票直到计票室，以确保他们的选票确实被投下。糟糕的是他们实际上没有计算打印的纸张，错误始于手动上传每台投票机的投票，一次 3840 票。整批都可能被误传或放错地方。
 
-[![The VVPAT machine printing out receipts.](../Images/aaa518e4e0e730c651e18f809768328e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ATdFkLUJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qr3zhyuouqtslra98eeu.jpg) 
+[![The VVPAT machine printing out receipts.](img/aaa518e4e0e730c651e18f809768328e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ATdFkLUJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qr3zhyuouqtslra98eeu.jpg) 
 *一台 VVPAT 机器打印出一张选票*
 
 基于区块链的投票程序可能看起来有点像这样:
@@ -27,7 +27,7 @@
 
 ## B .选民认证
 
-[![Voter authentication on the blockchain.](../Images/fbe503d2b9830318b08702eb2d83d70a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sVKfEYOD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e8inq9uy4e8o07pppoa0.png)
+[![Voter authentication on the blockchain.](img/fbe503d2b9830318b08702eb2d83d70a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sVKfEYOD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e8inq9uy4e8o07pppoa0.png)
 
 当一个投票人用一个投票人 ID 来标识自己时，它会对照本地投票人列表进行验证。如果 ID 存在，则为投票人生成一个**密钥对**，其中“开始”私钥与他们的姓名相对应存储，公钥用于加密或“密封”他们的投票选择。这个密封的选择然后被存储在本地分类账上，准备发送到中央投票节点。
 
@@ -45,7 +45,7 @@
 
 当投票期宣布结束时，投票服务器会向 EVMs 发送一个信号，请求为所有“密封”投票“打开”私钥。因为来自每个选区的投票被分组为块，所以更容易找到来自特定 EVM 的块，并且用匹配的私钥解封所有相应的投票。未经授权的 EVM 所投的任何票都不会被打开，因为它们无法向投票服务器发送打开值。
 
-[![The whole process of placing a single vote.](../Images/2be38a3b1bdc748f0a7817072023e436.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ManETZX---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r1zxjvkjzg4xb41fsp4k.png)
+[![The whole process of placing a single vote.](img/2be38a3b1bdc748f0a7817072023e436.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ManETZX---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r1zxjvkjzg4xb41fsp4k.png)
 
 这种方法的主要优势之一是对每张选票有更多的责任，因为选票只有在第二轮确认时才能被计算在内。由于选举人 ID 没有从 EVMs 发回，从计票服务器的角度来看，不可能将所做的选择与选举人 ID 相关联。
 

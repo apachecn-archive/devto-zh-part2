@@ -4,7 +4,7 @@
 
 在我之前的文章中；
 
-[![ogwurujohnson](../Images/5a9b1758658be88756f92622cacdc96a.png)](/ogwurujohnson) [## JavaScript 对象中使用的 Getters 和 Setters....怎么会？
+[![ogwurujohnson](img/5a9b1758658be88756f92622cacdc96a.png)](/ogwurujohnson) [## JavaScript 对象中使用的 Getters 和 Setters....怎么会？
 
 ### 约翰逊·奥格武鲁 5 月 13 日 182 分钟阅读
 
@@ -171,7 +171,7 @@ Enter fullscreen mode Exit fullscreen mode
 当多个类共享属性或方法时，它们成为`inheritance`的候选者。开发人员用来减少他们需要编写的代码量的工具。
 通过继承，你可以创建一个`parent class`(也称为`Super Class`)，它具有多个`child classes`(也称为`sub classes`)共享的属性和方法。`child classes`从它们的父类继承属性和方法。
 
-[![class subclass illustration](../Images/443f585e58849f21064ac3a4e478eec4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S0nyf5w3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/igcd8mui03du7azfsoyc.jpg)
+[![class subclass illustration](img/443f585e58849f21064ac3a4e478eec4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S0nyf5w3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/igcd8mui03du7azfsoyc.jpg)
 
 在我们的例子中，我们需要创建一个父类`Animal`，其他类如`cat`和`dog`将继承它。
 

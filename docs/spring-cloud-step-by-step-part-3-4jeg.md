@@ -21,7 +21,7 @@
 
 我们只需要从依赖项中选择“Eureka Server”和“Web”。
 
-[![Generate project](../Images/66b1c2f00117db8678f886488fb80a1c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aCxae3mV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/50iw2gzd2hj36jqxd9yh.png)
+[![Generate project](img/66b1c2f00117db8678f886488fb80a1c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aCxae3mV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/50iw2gzd2hj36jqxd9yh.png)
 
 这将在 pom.xml:
 中生成带有 maven 依赖项的 app
@@ -88,7 +88,7 @@ eureka:
 
 您会在注册表中看到一个未知的服务。
 
-[![Eureka dashboard](../Images/986597a05f57aa1ff5bab9769efe26ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O6dfQEuv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nwp3uhxyptwmebqj3rxq.png)
+[![Eureka dashboard](img/986597a05f57aa1ff5bab9769efe26ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O6dfQEuv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nwp3uhxyptwmebqj3rxq.png)
 
 这是因为我们没有指定配置服务名称。
 

@@ -4,7 +4,7 @@
 
 每周[马尔滕·贝泽默](https://medium.com/@veger)7 月 22 日[免费加入](https://www.getrevue.co/profile/golang/issues/master-the-world-of-golang-issue-9-120281?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Master+the+World+of+Golang)或添加[时事通讯 rss](http://fetchrss.com/rss/5b27d6348a93f858388b4567878277344.xml)
 
-[![](../Images/8d074d9e68f59ef805ce7087574ae795.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oNBWwDlc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8iykftgune5q747g07p5.jpg)
+[![](img/8d074d9e68f59ef805ce7087574ae795.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oNBWwDlc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8iykftgune5q747g07p5.jpg)
 
 掌握围棋世界。每周 Maarten Bezemer 都会提供关于理论、趋势、工具和主题的最佳文章。
 
@@ -22,7 +22,7 @@
 
 本来想在备用机上玩 Ubuntu 18.04。这给了我一个借口来尝试最近合并到 Go 1.11 开发分支中的模块特性。
 
-[![](../Images/0f2720cdd2aae6ecc7fdfe57ece857f4.png)T2】](https://twitter.com/_rsc/status/1019743820299341824)
+[![](img/0f2720cdd2aae6ecc7fdfe57ece857f4.png)T2】](https://twitter.com/_rsc/status/1019743820299341824)
 
 ## 基本原则
 
@@ -52,7 +52,7 @@
 
 Redis 很棒。根据最近的堆栈溢出调查，它连续第二年成为最受欢迎的数据库。
 
-[![](../Images/ddac93a3f01612b550a15aaea6755d89.png)T2】](https://twitter.com/chimeracoder/status/1019331017302298632)
+[![](img/ddac93a3f01612b550a15aaea6755d89.png)T2】](https://twitter.com/chimeracoder/status/1019331017302298632)
 
 **[为 AWS 写围棋中间件](https://www.zachjohnsondev.com/posts/lambda-go-middleware/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Master%20the%20World%20of%20Golang)**
 
@@ -70,7 +70,7 @@ Redis 很棒。根据最近的堆栈溢出调查，它连续第二年成为最�
 
 在本文中，重点是如何编写可测试的代码，以及如何屏蔽掉一些不相关的操作。
 
-[![](../Images/a50b64b0a47dc7f4e901927c004e1b04.png)T2】](https://twitter.com/rakyll/status/1019455441300963328)
+[![](img/a50b64b0a47dc7f4e901927c004e1b04.png)T2】](https://twitter.com/rakyll/status/1019455441300963328)
 
 **[GoLang 地图入门:教程](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Get-started-with-GoLang-maps-A-tutorial?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Master%20the%20World%20of%20Golang)** GoLang 是一种越来越流行的编程语言，具有独特的数据操作方法。这里我们来看看 GoLang 地图是如何编程的。
 
@@ -86,7 +86,7 @@ Redis 很棒。根据最近的堆栈溢出调查，它连续第二年成为最�
 
 你从雅典得到 thegithub.com/arschles/assert 包裹，而不是直接从 Github。雅典从 Github 得到它，但是它把包存储在自己的地方。
 
-[![](../Images/7634c679372600d681fbf22b864c41dc.png)T2】](https://twitter.com/fatih/status/1019643295490871296)
+[![](img/7634c679372600d681fbf22b864c41dc.png)T2】](https://twitter.com/fatih/status/1019643295490871296)
 
 **[纯 Go 小型家用互联网路由器](https://github.com/rtr7/router7?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Master%20the%20World%20of%20Golang)**
 
@@ -96,7 +96,7 @@ Router7 是一个小型家用互联网路由器的纯 Go 实现。它配备了�
 
 我们很高兴地宣布 prose 的 v2.0.0 版本，这是一个面向 Go 的自然语言处理(NLP)库。
 
-[![](../Images/15a79fcc6ee723797a64037365cbd9d8.png)T2】](https://twitter.com/neo4j/status/1019943617744515082)
+[![](img/15a79fcc6ee723797a64037365cbd9d8.png)T2】](https://twitter.com/neo4j/status/1019943617744515082)
 
 ## 谈戈朗
 
@@ -104,7 +104,7 @@ Router7 是一个小型家用互联网路由器的纯 Go 实现。它配备了�
 
 Go 特性目标和用例迫使我们重新思考整个垃圾收集栈，并把我们带到了一个令人惊讶的地方。这篇演讲描述了我们的旅程。
 
-[![Episode 124\. nil and AST · ](../Images/48eb3db187d74a96497e2c532c684657.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--W2aE-_CH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/revue/items/images/003/240/196/thumb/cover.png%3F1532117990) ** [第 124 集。零和 AST](http://golangshow.com/episode/2018/06-17-124-en/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Master%20the%20World%20of%20Golang)—[golangshow.com](http://golangshow.com/episode/2018/06-17-124-en/)**
+[![Episode 124\. nil and AST · ](img/48eb3db187d74a96497e2c532c684657.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--W2aE-_CH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/revue/iteimg/003/240/196/thumb/cover.png%3F1532117990) ** [第 124 集。零和 AST](http://golangshow.com/episode/2018/06-17-124-en/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Master%20the%20World%20of%20Golang)—[golangshow.com](http://golangshow.com/episode/2018/06-17-124-en/)**
 
 第 124 集[恩]。零和 AST。额外收获:在@GopherConRu 采访@bradfitz 和 [@bketelsen](https://dev.to/bketelsen) 。
 

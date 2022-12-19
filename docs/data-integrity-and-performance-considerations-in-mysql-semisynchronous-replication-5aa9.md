@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/scalegrid/data-integrity-and-performance-considerations-in-mysql-semisynchronous-replication-5aa9>
 
-[![Data Integrity and Performance Considerations in MySQL Semisynchronous Replication - ScaleGrid Blog](../Images/bf1214029ed6462c353783c67ae74130.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D3bqI-hf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t1m090hi0g1bswpqvwmg.png)
+[![Data Integrity and Performance Considerations in MySQL Semisynchronous Replication - ScaleGrid Blog](img/bf1214029ed6462c353783c67ae74130.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D3bqI-hf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t1m090hi0g1bswpqvwmg.png)
 
 [MySQL 半同步复制](https://dev.mysql.com/doc/refman/5.5/en/replication-semisync.html)提供了改进的数据完整性，因为当提交成功返回时，已知数据至少存在于两个地方——主服务器和从服务器。在这篇博文中，我们回顾了一些影响半同步复制的数据完整性和性能方面的 MySQL 配置。我们将在一个 3 节点副本集中使用 [InnoDB 存储引擎](https://scalegrid.io/blog/calculating-innodb-buffer-pool-size-for-your-mysql-server/ "MySQL Server - Calculating InnoDB Buffer Pool Size")和基于 GTID 的复制(主副本和 2 个从副本)，这将确保从副本中有冗余。这意味着如果一个从服务器出现问题，我们可以依靠另一个。
 

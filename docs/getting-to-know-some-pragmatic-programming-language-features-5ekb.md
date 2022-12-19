@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/onmyway133/getting-to-know-some-pragmatic-programming-language-features-5ekb>
 
-[![](../Images/5f4356e30707523129a0502f20b5ca61.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q-45nmkt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AOTe0Y7EkIclz1sIT.jpg)
+[![](img/5f4356e30707523129a0502f20b5ca61.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q-45nmkt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AOTe0Y7EkIclz1sIT.jpg)
 
 如你所知，在[实用程序员](http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X)，你的知识组合部分，据说
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/chandrasekarg/how-i-published-my-first-npm-module-foc>
 
-[![](../Images/8d5f9ffc97c8f773f6ed6ea9a5c695df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NHwe2KBA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ABdlffvrMtr-f-3Z4NGhMhw.png)
+[![](img/8d5f9ffc97c8f773f6ed6ea9a5c695df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NHwe2KBA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ABdlffvrMtr-f-3Z4NGhMhw.png)
 
 发布一个 **npm 模块**将会是大多数初露头角的 javascript 开发者的清单。毕竟，我们自己会使用大量的 npm 模块，为我们节省数百个开发时间，让我们的生活变得更加轻松。显而易见，我们应该考虑回报我们所欠下的社区。
 
@@ -18,7 +18,7 @@
 
 然后，我们将不得不担心我们的模块版本，以便我们可以发布错误修复，功能更新..轻松地。标准是遵循**语义版本化。**
 
-[![](../Images/65f00325f31042cc7b94d75b4344fcbc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PS4EJX48--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A64X80QhKOUWDCpm-lRVaqg.png)
+[![](img/65f00325f31042cc7b94d75b4344fcbc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PS4EJX48--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A64X80QhKOUWDCpm-lRVaqg.png)
 
 做 **bug 修复**时**补丁**版本必须递增。**次要**版本，我们在不破坏 API 的情况下做了一些次要的功能**增强**。**主要**版本变更发生在我们对模块进行**重大变更**的时候。
 
@@ -34,7 +34,7 @@
 
 我还进一步创建了一个 react-native 应用程序来演示这个模块的功能。这个应用程序对我的文档工作也有很大帮助。
 
-## ![GitHub logo](../Images/375dfcc32199b4dedf2b526645c27ff7.png) [钱德拉塞卡-G](https://github.com/Chandrasekar-G)/[rnsearcablelistdemo](https://github.com/Chandrasekar-G/RNSearchableListDemo)
+## ![GitHub logo](img/375dfcc32199b4dedf2b526645c27ff7.png) [钱德拉塞卡-G](https://github.com/Chandrasekar-G)/[rnsearcablelistdemo](https://github.com/Chandrasekar-G/RNSearchableListDemo)
 
 <article class="markdown-body entry-content p-5" itemprop="text">
 
@@ -52,17 +52,17 @@ cd RNSearchableListDemo
 react-native run-ios 
 ```
 
-[![Flat List](../Images/8bf1c3c11445dc97bd2c7b6da44aed85.png)T2】](https://github.com/Chandrasekar-G/RNSearchableListDemo/blob/master/Assets/FlatList-1.gif)
+[![Flat List](img/8bf1c3c11445dc97bd2c7b6da44aed85.png)T2】](https://github.com/Chandrasekar-G/RNSearchableListDemo/blob/master/Assets/FlatList-1.gif)
 
-[![Flat List](../Images/23cc086d4892405f9e1022cc585d27b1.png)T2】](https://github.com/Chandrasekar-G/RNSearchableListDemo/blob/master/Assets/FlatList-2.gif)
+[![Flat List](img/23cc086d4892405f9e1022cc585d27b1.png)T2】](https://github.com/Chandrasekar-G/RNSearchableListDemo/blob/master/Assets/FlatList-2.gif)
 
-[![Flat List](../Images/996b08067f0f843a7f5471994d64e391.png)T2】](https://github.com/Chandrasekar-G/RNSearchableListDemo/blob/master/Assets/FlatList-3.gif)
+[![Flat List](img/996b08067f0f843a7f5471994d64e391.png)T2】](https://github.com/Chandrasekar-G/RNSearchableListDemo/blob/master/Assets/FlatList-3.gif)
 
-[![Flat List](../Images/239da308b6ea78ecb6817fc2d3b28ba7.png)T2】](https://github.com/Chandrasekar-G/RNSearchableListDemo/blob/master/Assets/SectionList-1.gif)
+[![Flat List](img/239da308b6ea78ecb6817fc2d3b28ba7.png)T2】](https://github.com/Chandrasekar-G/RNSearchableListDemo/blob/master/Assets/SectionList-1.gif)
 
-[![Flat List](../Images/3c5d1574a02001983c3ee6020cba8841.png)T2】](https://github.com/Chandrasekar-G/RNSearchableListDemo/blob/master/Assets/SectionList-2.gif)
+[![Flat List](img/3c5d1574a02001983c3ee6020cba8841.png)T2】](https://github.com/Chandrasekar-G/RNSearchableListDemo/blob/master/Assets/SectionList-2.gif)
 
-[![Flat List](../Images/e5d8e0a57a15c680455cf3879e389e83.png)T2】](https://github.com/Chandrasekar-G/RNSearchableListDemo/blob/master/Assets/SectionList-3.gif)
+[![Flat List](img/e5d8e0a57a15c680455cf3879e389e83.png)T2】](https://github.com/Chandrasekar-G/RNSearchableListDemo/blob/master/Assets/SectionList-3.gif)
 
 </article>
 
@@ -76,7 +76,7 @@ react-native run-ios
 
 请随意试用本模块。欢迎任何建设性的反馈/拉动请求:)
 
-## ![GitHub logo](../Images/375dfcc32199b4dedf2b526645c27ff7.png) [钱德拉塞卡-G](https://github.com/Chandrasekar-G)/[react-native-searchable-list](https://github.com/Chandrasekar-G/react-native-searchable-list)
+## ![GitHub logo](img/375dfcc32199b4dedf2b526645c27ff7.png) [钱德拉塞卡-G](https://github.com/Chandrasekar-G)/[react-native-searchable-list](https://github.com/Chandrasekar-G/react-native-searchable-list)
 
 ### 具有搜索功能的 FlatList 和 SectionList 的包装器。
 
@@ -98,10 +98,10 @@ npm i react-native-searchable-list --save
 
 | 小道具 | 描述 | 数据类型 | 是必需的 |
 | --- | --- | --- | --- |
-| `data` | 平面列表的数据 | `Array` | <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> |
-| `searchTerm` | 用户输入的搜索项。通常这是一个绑定到文本输入的状态变量 | `String` | <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> |
-| `searchAttribute` | 在对象数组的情况下要搜索的属性。在简单数组数据的情况下，这将是空的 | `String` | <g-emoji class="g-emoji" alias="x" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/274c.png">❌</g-emoji> |
-| `ignoreCase` | 区分大小写/不区分大小写的搜索。默认情况下，这将被设置为 true | `Boolean` | <g-emoji class="g-emoji" alias="x" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/274c.png">❌</g-emoji> |
+| `data` | 平面列表的数据 | `Array` | <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/2705.png">✅</g-emoji> |
+| `searchTerm` | 用户输入的搜索项。通常这是一个绑定到文本输入的状态变量 | `String` | <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/2705.png">✅</g-emoji> |
+| `searchAttribute` | 在对象数组的情况下要搜索的属性。在简单数组数据的情况下，这将是空的 | `String` | <g-emoji class="g-emoji" alias="x" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/274c.png">❌</g-emoji> |
+| `ignoreCase` | 区分大小写/不区分大小写的搜索。默认情况下，这将被设置为 true | `Boolean` | <g-emoji class="g-emoji" alias="x" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/274c.png">❌</g-emoji> |
 
 默认情况下，`SearchableFlatList`也继承了 React Native `FlatList`的所有属性。事实上，你可以使用任何你想在平面列表中使用的道具。
 

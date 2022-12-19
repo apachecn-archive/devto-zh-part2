@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/awwsmm/a-mild-complaint-3jl5>
 
-[![](../Images/9a1e2ed4ba028408217228bdae1fbc1b.png)T2】](https://i.giphy.com/media/aabB05cd48fVm/giphy.gif)
+[![](img/9a1e2ed4ba028408217228bdae1fbc1b.png)T2】](https://i.giphy.com/media/aabB05cd48fVm/giphy.gif)
 
 ...其实就两个问题。
 
@@ -10,7 +10,7 @@
 
     用`{% user jess %}`嵌入用户:
 
-    [![jess image](../Images/15e6599da1ea8b6f92e1b678e9347b2c.png)](/jess)
+    [![jess image](img/15e6599da1ea8b6f92e1b678e9347b2c.png)](/jess)
 
     ## [李佳薇](/jess)T2【跟随】T3】
 
@@ -18,7 +18,7 @@
 
     还是带`{% link awwsmm/getting-the-gist-of-java-15eg %}`的帖子
 
-    [![awwsmm](../Images/72bc6d6e7487e3ab0e52e804cfd16909.png)](/awwsmm) [## 掌握 Java 的要点
+    [![awwsmm](img/72bc6d6e7487e3ab0e52e804cfd16909.png)](/awwsmm) [## 掌握 Java 的要点
 
     ### 安德鲁(他/他)11 月 12 日 185 分钟阅读
 
@@ -26,7 +26,7 @@
 
     甚至是带有`{% devcomment 6hpe %}`的具体评论
 
-    [![awwsmm profile image](../Images/db6dae06e86ae6f78793b649b6380576.png) ](/awwsmm) [ Andrew (he/him) ](/awwsmm) • [<time datetime="2018-11-03T22:55:26Z"> Nov 3 '18 </time>](https://dev.to/awwsmm/comment/6hpe) 
+    [![awwsmm profile image](img/db6dae06e86ae6f78793b649b6380576.png) ](/awwsmm) [ Andrew (he/him) ](/awwsmm) • [<time datetime="2018-11-03T22:55:26Z"> Nov 3 '18 </time>](https://dev.to/awwsmm/comment/6hpe) 
 
     哟伙计，我听说你喜欢浏览器。
 
@@ -34,7 +34,7 @@
 
 2.  我该怎么做？
 
-    [![](../Images/8fa49388395083f143db28673e4e7a24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O8He8NzL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zkocxxt1g8wdt1wrqwjw.PNG)
+    [![](img/8fa49388395083f143db28673e4e7a24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O8He8NzL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zkocxxt1g8wdt1wrqwjw.PNG)
 
     别人好像知道怎么把一个系列的文章做成 ***一个系列的文章*** ，但是编辑指南里没有。救命啊！
 

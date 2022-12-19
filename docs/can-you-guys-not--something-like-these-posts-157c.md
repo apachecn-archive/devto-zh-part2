@@ -8,4 +8,4 @@
 开始。#Hello
 然后去发垃圾邮件
 
-[![](../Images/832133341b290de6348344b06dcea6bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L4c7sRdI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jq72hgejl9sw3yix6p6o.png)
+[![](img/832133341b290de6348344b06dcea6bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L4c7sRdI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jq72hgejl9sw3yix6p6o.png)

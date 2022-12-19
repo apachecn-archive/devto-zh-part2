@@ -4,4 +4,4 @@
 
 [https://github.com/yausername/todo](https://github.com/yausername/todo)
 
-[![asciicast](../Images/aee1ffebb8735ca0fde0de9347a16e8a.png)T2】](https://asciinema.org/a/176600)
+[![asciicast](img/aee1ffebb8735ca0fde0de9347a16e8a.png)T2】](https://asciinema.org/a/176600)

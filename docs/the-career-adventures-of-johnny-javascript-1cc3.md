@@ -136,7 +136,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们的生命是有限的。我们应该利用我们的时间做出积极的改变。在我们身后留下美好的印记。但是人们经常回避这个沉重的问题，直到他们长大了。到那时可能就太晚了。即使你不喜欢这个答案。
 
-[![People leaving imprints, aka footprints, behind on a beach.](../Images/12d3418ee6c5decb1c58b374959d38a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mZjeLlYC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6fto6h1g1nstoz3exqec.jpg)
+[![People leaving imprints, aka footprints, behind on a beach.](img/12d3418ee6c5decb1c58b374959d38a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mZjeLlYC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6fto6h1g1nstoz3exqec.jpg)
 
 考虑到我们的程序如何日益影响他人的生活，这对我们来说是一个特别重要的问题。Ethan Marcotte 写了一篇关于设计从来都不是中立的文章，我相信这也适用于编码。我们编写的代码有许多深远的目的和影响:
 
@@ -156,7 +156,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 《约翰尼·邦科历险记》让我对自己的职业生涯有了一些了解，并将其具体化为实际的建议。尽管是十年前写的，它仍然有现实意义。有人甚至会说，随着编码行业的发展，它只会变得更加重要。
 
-[![A brief list of the book's six lessons.](../Images/39886ee0a3037a4d337b24f02cf11d0b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zJSEE0Po--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7jhaxpu6soeja1s9bo82.jpg)
+[![A brief list of the book's six lessons.](img/39886ee0a3037a4d337b24f02cf11d0b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zJSEE0Po--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7jhaxpu6soeja1s9bo82.jpg)
 
 像我这样的博客帖子永远无法取代这本书本身，所以我强烈建议买一本，既是为了建议，也是为了古怪的展示。至少，从我作为一个程序员的角度来看，我希望这些技巧能够展示这本书有多么有用。
 

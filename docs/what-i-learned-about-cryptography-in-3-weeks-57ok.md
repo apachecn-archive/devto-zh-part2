@@ -17,7 +17,7 @@
 
 对称密钥加密算法只使用一个密钥来加密和解密一个值，这与公钥加密算法不同，公钥加密算法使用“公钥”来加密，使用“私钥”来解密。
 
-[![Encryption types (from https://ssl2buy.com)](../Images/cd6c5bfb1195ded151edd739353d5e04.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YzlxO6M6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0kw4lrsuusznwbb9rxy0.png) 
+[![Encryption types (from https://ssl2buy.com)](img/cd6c5bfb1195ded151edd739353d5e04.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YzlxO6M6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0kw4lrsuusznwbb9rxy0.png) 
 <sup><sup>图片来源: [SSL2Buy](https://www.ssl2buy.com/wiki/symmetric-vs-asymmetric-encryption-what-are-differences)</sup></sup>
 
 这些密钥必须与加密算法要求的长度完全相同。例如，像 AES-256-GCM 这样的算法需要一个 128 位的密钥(32 个字符)，GCM 是定义算法如何工作以提供像真实性这样的附加信息的“操作模式”。
@@ -44,7 +44,7 @@
 
 最常用的完整性算法是 SHA1 和 MD5。对于认证算法，它是 HMAC，校验和和 CMAC。还有很多其他算法，但这里是主要的算法。
 
-[![MAC](../Images/8041ff51ed3b2f9fea22f8278b5953d4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tcQP_Yuj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bopsnnslp48slw7ncujz.png) 
+[![MAC](img/8041ff51ed3b2f9fea22f8278b5953d4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tcQP_Yuj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bopsnnslp48slw7ncujz.png) 
 <sup><sup>图片来源:[维基](https://en.wikipedia.org/wiki/Message_authentication_code)</sup></sup>
 
 * * *

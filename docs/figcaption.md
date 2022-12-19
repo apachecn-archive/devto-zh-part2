@@ -12,11 +12,11 @@
 
 这里的证据是性别影响了这部分人口进入劳动力市场。
 
-[![](../Images/b9bce449fff42494431775cf30899610.png)T2】](https://i.giphy.com/media/TRUJ0BJOxOmru/giphy.gif)
+[![](img/b9bce449fff42494431775cf30899610.png)T2】](https://i.giphy.com/media/TRUJ0BJOxOmru/giphy.gif)
 
 回顾历史背景，可以强调妇女对人类技术发展的全部贡献。负责将人类 Ada Byron，著名的[【love lace 女士】](////pt.wikipedia.org/wiki/Ada_Lovelace)带入节目的是**，她被认为是历史上第一位开发者。**
 
-<figure>[![](../Images/21dca56ca4aec5bc6d3ef7d3f8d99d36.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FUgMVUBe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://eusoudev.com.br/wp-content/uploads/2018/11/Ada-Lovelace.jpeg)
+<figure>[![](img/21dca56ca4aec5bc6d3ef7d3f8d99d36.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FUgMVUBe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://eusoudev.com.br/wp-content/uploads/2018/11/Ada-Lovelace.jpeg)
 
 <figcaption>【ada love lace(1815-1852)是历史上第一位程序员。</figcaption>
 
@@ -32,7 +32,7 @@
 
 如果对[女性开发者](////www.eusoudev.com.br/mulher-no-mercado-de-tecnologia/)群体进行调查，我们发现了[女性](////rladies.org/)、[桥台](////brasil.pyladies.com/)、[铁路女孩](////railsgirls.com/)、[女性代码](////www.womenwhocode.com/)，所以，让我们来谈谈这些团体。
 
-<figure>[![](../Images/96ce73c8cbbbff08811a6cbbebf31530.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--c6z-c9Qx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://eusoudev.com.br/wp-content/uploads/2018/11/women-who-code.png) 
+<figure>[![](img/96ce73c8cbbbff08811a6cbbebf31530.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--c6z-c9Qx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://eusoudev.com.br/wp-content/uploads/2018/11/women-who-code.png) 
 
 <figcaption>女性开发者。资料来源:mobomo.com</figcaption>
 
@@ -56,7 +56,7 @@
 
 共同体在世界各地，包括圣保罗市和阿雷格里港市促进讲习班。为参加者安排 12 小时，让他们尽可能学习编程语言 ruby on rails。
 
-[![mulheres desenvolvedoras](../Images/46d5e14e17c3c83e4bb04202df4133a4.png)T2】](////app.vulpi.com.br/jobs)
+[![mulheres desenvolvedoras](img/46d5e14e17c3c83e4bb04202df4133a4.png)T2】](////app.vulpi.com.br/jobs)
 
 ### 女人们的代号
 
@@ -72,7 +72,7 @@
 
 考虑到这一点，a[**【vupi】**](////vulpi.com.br/)作为其原则之一，将[盲人简历](////www.contratedesenvolvedor.com.br/curriculo-cego-vulpi/)应用于向企业递交候选人。
 
-[![Mulheres desenvolvedoras conversando](../Images/8b84d0df5a66ea131971bdbb49ca9c0e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--82_8jZMh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://eusoudev.com.br/wp-content/uploads/2018/11/adult-business-chair-1181708.jpg)
+[![Mulheres desenvolvedoras conversando](img/8b84d0df5a66ea131971bdbb49ca9c0e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--82_8jZMh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://eusoudev.com.br/wp-content/uploads/2018/11/adult-business-chair-1181708.jpg)
 
 例如，盲简历是一个不同于常规的招聘过程。
 

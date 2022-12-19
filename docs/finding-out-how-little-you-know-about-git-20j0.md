@@ -8,8 +8,8 @@
 
 我知道什么是 [Git 别名](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases)吗？没有。[换基](https://git-scm.com/book/en/v2/Git-Branching-Rebasing)、[推带选项](https://developer.atlassian.com/blog/2015/04/force-with-lease/)或者 f [做回购](https://guides.github.com/activities/forking/)呢？不，不，不。
 
-[![](../Images/187128c179d4f919b852eaf8d51c4f43.png)T2】](https://i.giphy.com/media/aH8oOOUfyrC8g/giphy.gif)
+[![](img/187128c179d4f919b852eaf8d51c4f43.png)T2】](https://i.giphy.com/media/aH8oOOUfyrC8g/giphy.gif)
 
 所以我现在有了一个 git 别名(我必须在记事本中调出这个别名，这样我才能记住所有的命令),并且我的提交消息必须更加具体(它们对于开发来说是可以的，但是当你准备好了你的拉请求时，压扁那些小东西),不要再直接拉和推我了！我需要记住再改基，再改基，再改基，为了所有好的东西，不要添加无关的提交消息，确保[修改](https://www.atlassian.com/git/tutorials/rewriting-history)。随着历史的变迁，我感觉自己就像一个时间旅行者。
 
-[![](../Images/566231b267e8e50899d3ce1a093200c0.png)T2】](https://i.giphy.com/media/Vqvr9BGv1vhDi/giphy.gif)
+[![](img/566231b267e8e50899d3ce1a093200c0.png)T2】](https://i.giphy.com/media/Vqvr9BGv1vhDi/giphy.gif)

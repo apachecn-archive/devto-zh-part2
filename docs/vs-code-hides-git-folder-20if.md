@@ -6,7 +6,7 @@
 
 现在，这可能没有多大用处，但无论如何，这是解决方案。
 
-[![](../Images/cfc5a49ff18a4c34f20d6e1b1e9205c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cp0eYcmZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/238lu1qffvmv3ulqsiyl.png)
+[![](img/cfc5a49ff18a4c34f20d6e1b1e9205c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cp0eYcmZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/238lu1qffvmv3ulqsiyl.png)
 
 1.  转到设置
 2.  键入 **files.exclude**

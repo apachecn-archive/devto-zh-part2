@@ -38,7 +38,7 @@ mvn -v
 
 输入信息后，屏幕应该是这样的
 
-[![Springboot Starter](../Images/7ab2ccf5d155b1d95d6a9b0cd10fffca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GGI9wtNl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/281p6of56ys4f9kp6kvm.jpg)
+[![Springboot Starter](img/7ab2ccf5d155b1d95d6a9b0cd10fffca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GGI9wtNl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/281p6of56ys4f9kp6kvm.jpg)
 
 点击生成项目，这将下载一个压缩文件到您的计算机上。解压缩这个 zip 文件。提取的文件夹是您的 springboot 项目。
 
@@ -195,7 +195,7 @@ mvn spring-boot:run
 转到 postman，输入以下网址
 **localhost:8080/sample？然后点击发送。**
 
-[![Postman Get](../Images/617ab87542b79d447c2c984e37d0e2eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ETElNkU9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8z0nkblriat03h4ci0x5.jpg)
+[![Postman Get](img/617ab87542b79d447c2c984e37d0e2eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ETElNkU9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8z0nkblriat03h4ci0x5.jpg)
 
 这将返回以下响应
 
@@ -372,7 +372,7 @@ mvn spring-boot:run
 
 打开 Postman 并设置如下图所示的值
 
-[![Postman Post](../Images/5236a167b9f426d2e582719b7cbb986f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--32OHAbvg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sfbx189pa4v1ekle5xqz.jpg)
+[![Postman Post](img/5236a167b9f426d2e582719b7cbb986f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--32OHAbvg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sfbx189pa4v1ekle5xqz.jpg)
 
 基本上，请求类型被设置为 **POST**
 

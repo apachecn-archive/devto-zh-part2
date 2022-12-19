@@ -16,15 +16,15 @@ Manjaro Linux 是基于 Arch Linux 的 Linux 发行版之一。
 
 尝试运行虚拟机时出错:
 
-[![](../Images/9147ab0ba34c33f6db5ae4b50f9df298.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ges3zJ-5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iqd5ju7ajpiju5an5awl.png)
+[![](img/9147ab0ba34c33f6db5ae4b50f9df298.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ges3zJ-5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iqd5ju7ajpiju5an5awl.png)
 
 错误消息#1:
 
-[![](../Images/e62ef6869ed1d627fee1c0ef4674c0fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LhM-XaN6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/98ae1dqrmuxww87gacqg.png)
+[![](img/e62ef6869ed1d627fee1c0ef4674c0fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LhM-XaN6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/98ae1dqrmuxww87gacqg.png)
 
 错误消息#2:
 
-[![](../Images/6eb1e7645b63c052bae2430fe404ec0b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6yVNg6Ks--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mcg4skjzismh545okjxn.png)
+[![](img/6eb1e7645b63c052bae2430fe404ec0b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6yVNg6Ks--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mcg4skjzismh545okjxn.png)
 
 上面写着:
 
@@ -58,18 +58,18 @@ Enter fullscreen mode Exit fullscreen mode
 
 3.  选择“Oracle VM VirtualBox (virtualbox)”并安装。
 
-    [![](../Images/654737bee794cfe7743ea4b1bb2f4d67.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q5BmHEzU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x0vkfru7krmf36fzodjo.jpg)
+    [![](img/654737bee794cfe7743ea4b1bb2f4d67.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q5BmHEzU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x0vkfru7krmf36fzodjo.jpg)
 
 4.  当下面的模式打开时，选择**不是**“virtualbox-host-modules”**而是**“Linux[内核版本]-virtualbox-host-modules”:
 
     **不是**:
 
-    [![](../Images/b5833332ddd7c462855825e469c7efc1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b4h3ilnG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c3gglsllh87n9vvwpws2.png)
+    [![](img/b5833332ddd7c462855825e469c7efc1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b4h3ilnG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c3gglsllh87n9vvwpws2.png)
 
     **但是** :
     (版本由主机决定。)
 
-    [![](../Images/35541fff21f68aeb3801b13e5e8c1d65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--57cdvrND--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/20acumnvmewrm16t363b.png)
+    [![](img/35541fff21f68aeb3801b13e5e8c1d65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--57cdvrND--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/20acumnvmewrm16t363b.png)
 
 5.  如果仍有错误，运行`vboxreload`命令。
 

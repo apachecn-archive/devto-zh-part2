@@ -6,7 +6,7 @@
 
 *   #番茄工作法[https://pomodoro-tracker.com/](https://pomodoro-tracker.com/)
 
-[![pomodoro](../Images/4e9f4043520c0481b799c7f264e71382.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TnOqrcVZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xwlkv05tfkfj9bnz1z2l.jpg)
+[![pomodoro](img/4e9f4043520c0481b799c7f264e71382.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TnOqrcVZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xwlkv05tfkfj9bnz1z2l.jpg)
 
 我遵循番茄工作法，购买了一个安卓应用程序，并使用在线**番茄追踪器**。番茄工作法是一种有效而简单的方法，它能让你意识到你度过的美好时光。
 
@@ -16,7 +16,7 @@
 
 *   #编码
 
-[![codota](../Images/0b156f1a66fe8bf636527e171b386693.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0H8VNQAl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.codota.com/img/codota-logo-dark.svg)
+[![codota](img/0b156f1a66fe8bf636527e171b386693.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0H8VNQAl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.codota.com/img/codota-logo-dark.svg)
 
 这个工具帮助我从许多 GitHub 组织和开源库中搜索代码。这让我意识到人们编写代码的方式。大多数时候，我得到了我需要的正确建议，并且有很多例子。那里的团队把这个工具叫做* *AI 结对程序员* *。
 
@@ -36,13 +36,13 @@ FreeMind 是一款用 Java 编写的顶级免费思维导图软件。你想优�
 
 *   # [Google Keep](https://keep.google.com/)
 
-[![keep](../Images/99798d64f55079162d9524d288d59eb4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0iZ-KhKL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r1903po4h1sx0dkxssa6.png)
+[![keep](img/99798d64f55079162d9524d288d59eb4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0iZ-KhKL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r1903po4h1sx0dkxssa6.png)
 
 Google Keep 是由 Google 开发的笔记服务。我已经使用 google keep 很多年了，很喜欢这个小小的笔记应用。我几乎每天都用它，不停地在手机上写东西，在 PC 或 MacBook 上追踪它们。
 
 *   # [待办事项列表](https://flask.io/mylists)
 
-[![flaskio](../Images/81e356fb35fe0b5c77b03640e47540c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zGqoiWKr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ayh6mec19ke9vfrkgh6w.png)
+[![flaskio](img/81e356fb35fe0b5c77b03640e47540c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zGqoiWKr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ayh6mec19ke9vfrkgh6w.png)
 
 大多数时候，我们会忘记当天有什么任务，于是一张 T2 待办事项清单就出现了。
 
@@ -54,7 +54,7 @@ Google Keep 是由 Google 开发的笔记服务。我已经使用 google keep �
 
 *   # [小册子](http://bookletguy.com/)
 
-[![booklet](../Images/029f7c1d0ec7bd229de5e555dc607f9e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5C-WHkaZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uz84gsrqd4htwps8szh8.png)
+[![booklet](img/029f7c1d0ec7bd229de5e555dc607f9e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5C-WHkaZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uz84gsrqd4htwps8szh8.png)
 
 这本小册子是一个免费的应用程序，适用于那些希望阅读书籍但没有足够时间的人。这款应用的座右铭是*培养年轻人阅读的习惯。*
 
@@ -62,13 +62,13 @@ Google Keep 是由 Google 开发的笔记服务。我已经使用 google keep �
 
 *   # [算法](https://play.google.com/store/apps/details?id=wiki.algorithm.algorithms&hl=en)
 
-[![algorithms](../Images/5fd5fe7e19ae6e279513b0a5ac084c40.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QDptoHWc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://algorithm.wiki/toppage/assets/img/logo.png)
+[![algorithms](img/5fd5fe7e19ae6e279513b0a5ac084c40.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QDptoHWc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://algorithm.wiki/toppage/assets/img/logo.png)
 
 我花钱买的最好的应用之一。美丽的动画与双重模式的学习算法。这个应用证明了视觉教学模式是一种很好的学习方式。几乎所有的算法和数据结构都被创作者精美的动画化呈现。
 
 *   # [Safari 在线图书](https://www.safaribooksonline.com/home/)
 
-[![safari](../Images/f92e427d2cfd061f7c9936e9d69184e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VWTzE7X8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cadat9zg5zvgi98w398n.png)
+[![safari](img/f92e427d2cfd061f7c9936e9d69184e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VWTzE7X8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cadat9zg5zvgi98w398n.png)
 
 Safari 有 30000 多本书，你可以用你最擅长的方式学习。我喜欢我的订阅，可以无限制地访问视频、在线直播培训、学习路径、书籍、教程等等。我已经创建了播放列表，每天都会观看大部分视频。
 
@@ -82,7 +82,7 @@ Safari 有 30000 多本书，你可以用你最擅长的方式学习。我喜欢
 
 *   # [耳机](https://play.google.com/store/apps/details?id=com.headfone.www.headfone&hl=en_IN)
 
-[![headfone](../Images/3ce10809b03d7cd7d6245fbf9dfc133f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qGNQQE89--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8rphrs8od6zmlznsbntu.png)
+[![headfone](img/3ce10809b03d7cd7d6245fbf9dfc133f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qGNQQE89--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8rphrs8od6zmlznsbntu.png)
 
 我最喜欢的应用之一。耳机是免费的，精彩的故事、喜剧和播客可供娱乐。
 

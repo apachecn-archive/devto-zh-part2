@@ -56,7 +56,7 @@ mov eax, 10
 
 因为这在物理上是不可能的。CPU 不直接连接到内存。它通过一系列缓存连接，所有内存访问都必须通过内存管理单元(MMU)。MMU 不能处理任何运算，这发生在算术逻辑单元，或者 ALU <sup id="fnref2">[2](#fn2)</sup> ，ALU 也是直接连接到 CPU 的。它只能获取寄存器中的数据。
 
-[![The MMU and friends](../Images/37f43fafd7716307b5a98a79867a634f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hX3VIo_r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://samwho.co.uk/images/mmu-and-friends.svg)
+[![The MMU and friends](img/37f43fafd7716307b5a98a79867a634f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hX3VIo_r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://samwho.co.img/mmu-and-friends.svg)
 
 这不是按比例的。实际上，大约有一千字节的寄存器，几百千字节的 L1 高速缓存，一两兆字节的 L2 高速缓存，几十兆字节的三级高速缓存，然后内存通常是几十千兆字节。
 
@@ -144,7 +144,7 @@ esp 0xffffd468  0xffffd468
 
 当您的程序被加载到 32 位系统的内存中时，它会被分配一个 4GB 的地址空间:0x00000000 到 0xffffffff。无论您的机器安装了多少物理内存，都会发生这种情况。映射这个“虚拟”地址空间是 MMU 执行的另一项工作，它的细节超出了本文的范围。
 
-[![Memory layout visualised](../Images/7aa5ac7af692fbce3d38a27df387e138.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rHc5z7Gd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://samwho.co.uk/images/memory-layout.svg)
+[![Memory layout visualised](img/7aa5ac7af692fbce3d38a27df387e138.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rHc5z7Gd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://samwho.co.img/memory-layout.svg)
 
 这个简化的内存视图显示，我们的程序被加载到地址空间中相当低的位置，我们的堆栈在顶部附近，然后向下增长，然后我们有一个神秘的地方，称为“堆”，就在我们程序的上面。这对于语言互操作性并不重要，但是堆存储的是长期数据，例如在 C 中使用`malloc()`或在 C++中使用`new`分配的数据。
 
@@ -320,7 +320,7 @@ mov     eax, dword [ebp + 12]
 
 还记得我们将参数推送到堆栈上，然后`call`将地址推回。这意味着堆栈的前 4 个字节是一个返回地址，之后的 8 个字节是我们的参数。为了得到第一个参数，您需要从堆栈指针上移 8 个字节(因为它是向下增长的)，为了得到第二个参数，您需要上移 12 个字节。
 
-[![Stack frame](../Images/06eaa374730728894e2cbfd9820add9b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WXGzda1k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://samwho.co.uk/images/stack-frame.svg)
+[![Stack frame](img/06eaa374730728894e2cbfd9820add9b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WXGzda1k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://samwho.co.img/stack-frame.svg)
 
 这有一个额外的好处，即不需要我们用每一条`push`和`pop`指令来修改`esp`。这是一个很小的节省，但是当你考虑到对每个函数调用的每个参数都必须这样做时，这就增加了。
 
@@ -450,7 +450,7 @@ $ nm main
 
 这会产生很多输出，因为编译器必须链接很多管理性的东西，比如 libc 构造函数和析构函数处理程序，分别是`__libc_csu_init`和`__ libc_csu_fini`。不要担心它们，重要的是`main`和`add`都被定义了，程序运行时没有抱怨。
 
-[![Assemble and link diagram](../Images/4051735d3291d9ebcb0b29bef0686fa4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yU07TZH0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://samwho.co.uk/images/assemble-link.svg)
+[![Assemble and link diagram](img/4051735d3291d9ebcb0b29bef0686fa4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yU07TZH0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://samwho.co.img/assemble-link.svg)
 
 # 从 C++调用 C 函数
 

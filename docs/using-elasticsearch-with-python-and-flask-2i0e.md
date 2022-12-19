@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/itachiuchiha/using-elasticsearch-with-python-and-flask-2i0e>
 
-[![https://thepracticaldev.s3.amazonaws.com/i/de6c7211jvv32ipbvfvm.png](../Images/7ec5fad9d12c2a234c15c7e01f786d07.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gWCNv_HR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/de6c7211jvv32ipbvfvm.png)
+[![https://thepracticaldev.s3.amazonaws.com/i/de6c7211jvv32ipbvfvm.png](img/7ec5fad9d12c2a234c15c7e01f786d07.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gWCNv_HR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/de6c7211jvv32ipbvfvm.png)
 
 [这篇文章最初是在我的土耳其博客上发表的](https://aligoren.com/building-basic-restful-api-with-flask/)
 

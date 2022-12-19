@@ -6,7 +6,7 @@
 
 程序员不喜欢被打扰，但我们不都是这样吗？关于如何提高你对干扰的适应力的建议。
 
-[![_bigblind](../Images/01a36b1ae9a12a73cfb48ceb38f1be22.png)](/_bigblind) [## 对于程序员来说，干扰真的比其他知识工作者更糟糕吗？
+[![_bigblind](img/01a36b1ae9a12a73cfb48ceb38f1be22.png)](/_bigblind) [## 对于程序员来说，干扰真的比其他知识工作者更糟糕吗？
 
 ### 弗雷德里克·克里默斯 4 ' 18 " 2 分钟
 
@@ -16,7 +16,7 @@
 
 即使是表现最好的人也必然会有 22%的时间搞砸。阿曼达报道了技术面试过程中根深蒂固的问题。她分析了传统面试的成本，也研究了替代方法。
 
-[![amandasopkin](../Images/59966bb94b02f8ec51331baaeac073c5.png)](/amandasopkin) [## 技术面试是衡量软件工程能力的好方法吗？
+[![amandasopkin](img/59966bb94b02f8ec51331baaeac073c5.png)](/amandasopkin) [## 技术面试是衡量软件工程能力的好方法吗？
 
 ### 阿曼达·索普金 1818 年 5 月 1 日 8 分钟阅读
 
@@ -26,7 +26,7 @@
 
 从选择在创业公司或公司工作到了解开发人员如何“排名”，Ivan 回答了他刚开始编程生涯时遇到的问题。
 
-[![ivancrneto](../Images/f1e43cccb6cd07a568574f481e459edb.png)](/ivancrneto) [## 当我是一个初学者时，我希望从一个有经验的开发人员那里听到什么
+[![ivancrneto](img/f1e43cccb6cd07a568574f481e459edb.png)](/ivancrneto) [## 当我是一个初学者时，我希望从一个有经验的开发人员那里听到什么
 
 ### 伊万内托 5 月 4 日 185 分钟阅读
 
@@ -36,7 +36,7 @@
 
 指南`git merge` -从如何准备合并到理解三方、快进和处理冲突。
 
-[![neshaz](../Images/12d52d09759dafd5571f20d344bd4cfc.png)](/neshaz) [## 如何使用 Git 合并【正确的方法】
+[![neshaz](img/12d52d09759dafd5571f20d344bd4cfc.png)](/neshaz) [## 如何使用 Git 合并【正确的方法】
 
 ### nesha Zoric 4 月 30 日 183 分钟阅读
 
@@ -46,7 +46,7 @@
 
 Samuel 帮助我们理解了*docker 是什么，然后提供了一个用 docker-compose 编写多容器应用程序的分步演练。本教程针对一个 laravel 应用程序，该应用程序使用 MySQL 数据库和 Redis 进行缓存。*
 
-[![abiodunjames](../Images/90ba909b9891383c2f2db69dbb3b0fa9.png)](/abiodunjames) [## 为什么是 Docker？用 docker 创建多容器应用程序
+[![abiodunjames](img/90ba909b9891383c2f2db69dbb3b0fa9.png)](/abiodunjames) [## 为什么是 Docker？用 docker 创建多容器应用程序
 
 ### 塞缪尔·詹姆斯 5 月 5 日 187 分钟阅读
 
@@ -56,7 +56,7 @@ Samuel 帮助我们理解了*docker 是什么，然后提供了一个用 docker-
 
 在这篇文章中，我们学习了极简主义和不同的 UX 定律(菲特定律、希克定律、米勒定律、杰克布斯定律)。
 
-[![oninross](../Images/c4e8a21880d8fff1fe88f4ff8403aecc.png)](/oninross) [## UX 的极简艺术
+[![oninross](img/c4e8a21880d8fff1fe88f4ff8403aecc.png)](/oninross) [## UX 的极简艺术
 
 ### 尼诺·罗斯·罗德里格斯 4 月 30 日 187 分钟阅读
 

@@ -4,7 +4,7 @@
 
 > 在 [yos.io](https://yos.io/) 找到更多有趣的文章
 
-[![](../Images/48ef9100182ad1958c14cd2e73f51aad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vi3526j1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/sggEtUC.jpg)
+[![](img/48ef9100182ad1958c14cd2e73f51aad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vi3526j1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/sggEtUC.jpg)
 
 网络应用传统上部署在运行在物理机器上的 [**网络服务器**](https://en.wikipedia.org/wiki/Web_server) 上。
 
@@ -12,7 +12,7 @@
 
 管理服务器是一项耗时的任务，通常需要经验丰富的专职系统操作人员。
 
-[![What server maintenance can feel like -- Metropolis (1927 film)](../Images/afa188b5f5d18792eafd9a2c7f8258d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--elpuFFOY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/tyDSU2V.jpg)
+[![What server maintenance can feel like -- Metropolis (1927 film)](img/afa188b5f5d18792eafd9a2c7f8258d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--elpuFFOY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/tyDSU2V.jpg)
 
 > 软件工程的意义是什么？
 
@@ -30,7 +30,7 @@
 
 DevOps 在此期间不断发展和成熟，导致了 [**基础设施即服务**](https://en.wikipedia.org/wiki/Infrastructure_as_a_service) (IaaS)和 [**平台即服务**](https://en.wikipedia.org/wiki/Platform_as_a_service) (PaaS)提供商的激增。这些第三方平台允许您将维护其代码执行环境的任务委派给有能力的人，从而将软件开发人员从服务器和部署问题中解放出来。
 
-[![Platform-as-a-Service (PaaS) providers allows developers to develop, run, and manage applications without the complexity of building and maintaining their own infrastructure](../Images/8d1a91b74cfa9974896dcb079fb33659.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YoPwIwpO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/NBIGc62.png)
+[![Platform-as-a-Service (PaaS) providers allows developers to develop, run, and manage applications without the complexity of building and maintaining their own infrastructure](img/8d1a91b74cfa9974896dcb079fb33659.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YoPwIwpO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/NBIGc62.png)
 
 今天，开发人员已经不再将软件部署在客厅里的物理计算机上。您无需在每个服务器实例上手动下载和构建大量平台级技术(以后在扩展时必须重复这一过程)，而是可以在您选择的 PaaS 提供商上访问一个简单的 web 用户界面，单击几个选项，让您的应用程序自动部署到一个完全配置的集群。
 
@@ -46,7 +46,7 @@ DevOps 在此期间不断发展和成熟，导致了 [**基础设施即服务**]
 > 
 > 计算资源被用作服务，而不必围绕物理容量或限制进行管理。
 
-[![Cloud Computing Evolution](../Images/c87ff17d0f54ef9d9dd174abd2fd73c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X3jeTpxU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/slhgi6y.png)
+[![Cloud Computing Evolution](img/c87ff17d0f54ef9d9dd174abd2fd73c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X3jeTpxU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/slhgi6y.png)
 
 无服务器是一种**软件开发方法**，旨在通过以下方式消除基础设施管理需求:
 
@@ -55,7 +55,7 @@ DevOps 在此期间不断发展和成熟，导致了 [**基础设施即服务**]
 
 现在有大量的第三方服务:处理在线支付、交易电子邮件、用户分析、代码质量测量、内容管理、持续集成和其他次要问题的 API。在我们的日常工作中，我们还利用外部工具进行项目管理、文件共享、办公室管理等等。
 
-[![Third-party services developers rely on for software development.](../Images/119cd97119f57c01dd0529cabfd9b5e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cTgxoEU8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Uw5uDmB.png)
+[![Third-party services developers rely on for software development.](img/119cd97119f57c01dd0529cabfd9b5e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cTgxoEU8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Uw5uDmB.png)
 
 开发人员可以*专注于他们的核心价值主张*，而不是花费宝贵的资源来构建诸如基础设施和服务器维护之类的次要功能。开发人员可以将预制的部分连接在一起，并从应用程序中删除次要的复杂性，而不是从头开始构建。
 通过利用第三方服务，您可以快速构建松散耦合、可伸缩且高效的架构。

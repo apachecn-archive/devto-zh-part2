@@ -6,7 +6,7 @@
 
 对我来说，这就是后端的样子。定义了一些 API 端点并返回 JSON 对象的应用程序。但问题是，这就是 10 年前的世界。
 
-[![How I imagine a backend](../Images/3f0410ef00b01332e3e554afaa4a993e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JcdIbp0z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9cqlag4sm1ucw818l4y4.png)
+[![How I imagine a backend](img/3f0410ef00b01332e3e554afaa4a993e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JcdIbp0z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9cqlag4sm1ucw818l4y4.png)
 
 我不得不仔细观察，找出我脑海中的旧形象如何转化为今天的黄金标准。微服务。我把它分成 4 部分。
 

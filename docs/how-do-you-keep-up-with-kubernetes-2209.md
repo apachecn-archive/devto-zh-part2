@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/pbnj/how-do-you-keep-up-with-kubernetes-2209>
 
-[![photo](../Images/83434f96f197a98d9e87642cf3667315.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--J5IFxPR0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media.defense.gov/2015/Nov/18/2001319050/780/780/0/151112-F-SN009-129.JPG) 
+[![photo](img/83434f96f197a98d9e87642cf3667315.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--J5IFxPR0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media.defense.gov/2015/Nov/18/2001319050/780/780/0/151112-F-SN009-129.JPG) 
 *供图:[资深飞行员梅根·舒特](https://www.hurlburt.af.mil/News/Article-Display/Article/630294/maritime-craft-aerial-delivery-systems/)*
 
 ## 目录

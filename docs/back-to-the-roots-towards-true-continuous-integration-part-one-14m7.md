@@ -143,7 +143,7 @@ $password)
 
 好了，开发人员已经添加了缺少的字段，并将其添加到请求中。分支 1 的开发人员认为这种差异是与主分支合并的结果:
 
-[![true continuous integration](../Images/f86b00faa604368f3cec11ca1ecfd4d1.png)T2】](https://apiumhub.com/wp-content/uploads/2018/04/Screen-Shot-2018-04-06-at-11.07.36-1.png)
+[![true continuous integration](img/f86b00faa604368f3cec11ca1ecfd4d1.png)T2】](https://apiumhub.com/wp-content/uploads/2018/04/Screen-Shot-2018-04-06-at-11.07.36-1.png)
 
 但问题是 developer1 并不知道 developer 2 为了减少代码重复做了一次重构，因为 CarAPI 和 UserAPI、ProductAPI 太像了，所以他分支里的代码会是这样的:
 
@@ -227,7 +227,7 @@ $password)
 
 所以真正的合并将是:
 
-[![true continuous integration](../Images/04c928104a0fe8712f1118d1dd647c39.png)](https://apiumhub.com/wp-content/uploads/2018/04/Screen-Shot-2018-04-06-at-11.10.57.png) 所以基本上我们会在开发周期结束时将 branch1 和 branch2 合并到主线中，这会有一个很大的冲突。我们将不得不做大量的代码审查，这将涉及一个考古过程，审查开发阶段所有过去的决定，看看如何合并代码。在这种具体情况下，电话号码也将涉及某种重写。
+[![true continuous integration](img/04c928104a0fe8712f1118d1dd647c39.png)](https://apiumhub.com/wp-content/uploads/2018/04/Screen-Shot-2018-04-06-at-11.10.57.png) 所以基本上我们会在开发周期结束时将 branch1 和 branch2 合并到主线中，这会有一个很大的冲突。我们将不得不做大量的代码审查，这将涉及一个考古过程，审查开发阶段所有过去的决定，看看如何合并代码。在这种具体情况下，电话号码也将涉及某种重写。
 
 有些人会认为 developer2 不应该进行 refactor，因为 planning 声明他只需要开发 CarApi，并且 planning 明确声明不应该与 UserAPI 冲突。是的…但是为了使这种极端的计划工作，应该有一个所有资源的良好计划，我们应该有很多包括 developer1 和 developer2 的架构会议。
 

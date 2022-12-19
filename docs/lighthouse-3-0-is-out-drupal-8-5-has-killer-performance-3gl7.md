@@ -12,6 +12,6 @@
 
 如果你是这里的常客，你可能已经注意到了，我刚刚把这个网站的主题更新为基于 Bartik 的自定义主题。由于 Chrome 刚刚更新，我进行了最新的性能审计。
 
-[![Screenshot of a 100% score on Lighthouse 3.0 by Drupal 8.5](../Images/4cc08a58c4643897bf7f849ed3c39c54.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UpqlX-_5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.riff.org/sites/default/files/2018-08/Drupal8-Lighthouse3-100.png)
+[![Screenshot of a 100% score on Lighthouse 3.0 by Drupal 8.5](img/4cc08a58c4643897bf7f849ed3c39c54.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UpqlX-_5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.riff.org/sites/default/files/2018-08/Drupal8-Lighthouse3-100.png)
 
 还有什么好说的？

@@ -10,7 +10,7 @@
 
 我还为我的 vlog 设计了一个图案，我认为展示我的个性很重要，我还没有给它起名字，所以如果你有这个小东西的名字，请告诉我！
 
-[![Husky](../Images/5a1fa54bd8f91babf16d7f59eb7f3a49.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--unl-Kjw3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fx0dwz8rit7lwiugdpsf.png)
+[![Husky](img/5a1fa54bd8f91babf16d7f59eb7f3a49.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--unl-Kjw3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fx0dwz8rit7lwiugdpsf.png)
 
 感谢所有支持我的人，我的 vlog 是西班牙语的，但是 cc 是英语的，没有太多西班牙语的内容，所以我想利用这一点。
 

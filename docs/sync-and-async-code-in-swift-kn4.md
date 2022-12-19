@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/onmyway133/sync-and-async-code-in-swift-kn4>
 
-[![](../Images/afa67faa34edfd8e25992ddbd67f4a86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K6LAkRcr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AHevKOVykUzRprufo)
+[![](img/afa67faa34edfd8e25992ddbd67f4a86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K6LAkRcr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AHevKOVykUzRprufo)
 
 我们应该使用 DispatchQueue 来构建线程安全代码。这样做是为了防止两个不同的线程同时发生两个读和写操作，这会导致数据损坏和意外行为。请注意，您应该尽量避免死锁[stack overflow . com/questions/15381209/how-do-I-create-a-deadlock-in-grand-central-dispatch](https://stackoverflow.com/questions/15381209/how-do-i-create-a-deadlock-in-grand-central-dispatch)
 

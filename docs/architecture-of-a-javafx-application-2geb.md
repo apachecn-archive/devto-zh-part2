@@ -28,7 +28,7 @@ JavaFX 文档中很好地描述了如何应用 MVC 模式，mvvmFX 框架的文�
 
 #### 具有少量视图属性绑定的简单 ui 组件
 
-[![](../Images/e06248e5388399ebc1f694bb950f9386.png)T2】](https://i0.wp.com/maimart.de/wp-content/uploads/2018/03/Some-Component__Simple-Component_0.png)
+[![](img/e06248e5388399ebc1f694bb950f9386.png)T2】](https://i0.wp.com/maimart.de/wp-content/uploads/2018/03/Some-Component__Simple-Component_0.png)
 
 ##### 组件模块
 
@@ -70,7 +70,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 #### 具有多个视图属性绑定的更复杂的 ui 组件
 
-[![](../Images/98a1d62fb1fd23c8a59281a0173305a1.png)T2】](https://i0.wp.com/maimart.de/wp-content/uploads/2018/03/Some-Component__Complex-Component_1.png)
+[![](img/98a1d62fb1fd23c8a59281a0173305a1.png)T2】](https://i0.wp.com/maimart.de/wp-content/uploads/2018/03/Some-Component__Complex-Component_1.png)
 
 为了保持演示者的整洁，我们将视图属性外包给一种视图模型。
 
@@ -86,7 +86,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果需要的话它的呈现者可以直接注入到父的呈现者中。
 
-[![](../Images/a0e10851c296be6bee00bc762a15a082.png)T2】](https://i2.wp.com/maimart.de/wp-content/uploads/2018/03/ui-component-nest-another-ui-component__ui-component-nest-another-ui-component_2.png)
+[![](img/a0e10851c296be6bee00bc762a15a082.png)T2】](https://i2.wp.com/maimart.de/wp-content/uploads/2018/03/ui-component-nest-another-ui-component__ui-component-nest-another-ui-component_2.png)
 
 #### 嵌套一个组件作为一种控件(1:n 嵌套)
 
@@ -116,7 +116,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 从演示者到工作流控制器的回调可以通过向演示者注入回调函数、将列表器附加到其属性或者让演示者触发由工作流控制器捕获的事件来实现。
 
-[![](../Images/07a0318fdb7b66d71391859b5c8e8bc2.png)T2】](https://i1.wp.com/maimart.de/wp-content/uploads/2018/03/Workflow-controls-ui-components__Workflow-controls-ui-components_3.png)
+[![](img/07a0318fdb7b66d71391859b5c8e8bc2.png)T2】](https://i1.wp.com/maimart.de/wp-content/uploads/2018/03/Workflow-controls-ui-components__Workflow-controls-ui-components_3.png)
 
 另一个想法是通过包含属性和回调函数的特定于任务的模型来处理工作流控制器和表示器之间的通信。
 
@@ -136,7 +136,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 出于可测试性的原因，我更喜欢使用内部委托给 fx 服务并向其客户返回 CompletableFuture 的服务类。
 
-[![](../Images/1c3bd4b4920f161a094e1d3d3422accb.png)T2】](https://i0.wp.com/maimart.de/wp-content/uploads/2018/03/Connecting-the-backend.png)
+[![](img/1c3bd4b4920f161a094e1d3d3422accb.png)T2】](https://i0.wp.com/maimart.de/wp-content/uploads/2018/03/Connecting-the-backend.png)
 
 如果你对 Angular 和 AWS 感兴趣，请阅读我的文章[如何将 angular spa 推向云](http://maimart.de/pushing-an-angular-project-to-the-aws-cloud)
 

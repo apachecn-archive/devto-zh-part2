@@ -85,7 +85,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们首先考虑布局，所有两个项目。我有一个按钮和一个图像元素，最初是空白的。简单明了。代码，特别是`takePicture()`是至关重要的部分。您可以首先看到我对`requestPermissions()`的调用，然后在结果中我尝试拍照。这里传递的所有选项都是可选的，我强烈建议测试时不要用`saveToGallery:true`而用*T4，否则你的照片卷会被一大堆测试图片填满。考虑这个美丽的例子。*
 
-[![Boring picture of my desk](../Images/03d28600ee5e32eb6181963b954f1fdc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ft0mHNZD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/11/nsc1.jpg)
+[![Boring picture of my desk](img/03d28600ee5e32eb6181963b954f1fdc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ft0mHNZD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/11/nsc1.jpg)
 
 那还不错。再一次，由于 doc 问题，它是*痛苦的*,但是一旦我过去了，它是所有的彩虹、独角兽和小猫。让我们更上一层楼吧！
 
@@ -171,7 +171,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是一个快速截屏——图像可能太小，甚至无法辨认它们是什么——但我拍了两张照片，并从我的图库中选了两张。
 
-[![Screenshot of the app running and selected pictures](../Images/7d13e34812823e1dd0e8d0fb5b7c6cce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bzyp4lFn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/11/nsc2b.jpg)
+[![Screenshot of the app running and selected pictures](img/7d13e34812823e1dd0e8d0fb5b7c6cce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bzyp4lFn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/11/nsc2b.jpg)
 
 呜！其他一切都会很完美！
 

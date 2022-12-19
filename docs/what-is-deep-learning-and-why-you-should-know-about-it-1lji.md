@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/adityarohilla94/what-is-deep-learning-and-why-you-should-know-about-it-1lji>
 
-[![](../Images/7003d78083ff1a76388266089e1f9a33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9PH4bNtf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A86dDGzwyawUu_MpEO2im1g.png)
+[![](img/7003d78083ff1a76388266089e1f9a33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9PH4bNtf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A86dDGzwyawUu_MpEO2im1g.png)
 
 深度学习是不断改变我们周围世界的[机器学习(ML)](http://www.expertsystem.com/machine-learning-definition/) 的一个子领域。
 
@@ -46,7 +46,7 @@
 
 深度学习对于自动驾驶系统的重要性可以通过以下事实来说明:英伟达与汽车制造商保持着长期关系，致力于专为这些目的设计的嵌入式和实时操作系统。
 
-[![](../Images/d5989354de2b3c5a86f007fd92d76b7b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--f9Irz7w3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A1CACaG4LFH_XqprMBdc9PA.jpeg) 
+[![](img/d5989354de2b3c5a86f007fd92d76b7b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--f9Irz7w3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A1CACaG4LFH_XqprMBdc9PA.jpeg) 
 
 <figcaption>谷歌自动驾驶汽车</figcaption>
 
@@ -58,7 +58,7 @@
 
 看看机器人技术和深度学习的增长速度，自主机器人并不遥远。一个很好的例子是索菲亚，一个由汉森机器人公司制造的类人机器人。
 
-[![](../Images/1bb8f1ce3427f767269ecf3a8c7b7337.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lqLVxpRc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ak3FtGQ--FGgyFFZx89KJ7A.jpeg) 
+[![](img/1bb8f1ce3427f767269ecf3a8c7b7337.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lqLVxpRc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ak3FtGQ--FGgyFFZx89KJ7A.jpeg) 
 
 <figcaption>汉森实验室的索菲亚</figcaption>
 
@@ -92,7 +92,7 @@
 
 该操作由所谓的激活功能(非线性)来执行。它将输入转换为输出，然后输出可以用作其他节点的输入。
 
-[![](../Images/50e3d103985d93c1cf204b7af6003621.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--piIEh_b2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/1%2ABQ0SxdqC9Pl_3ZQtd3e45A.png) 
+[![](img/50e3d103985d93c1cf204b7af6003621.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--piIEh_b2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/1%2ABQ0SxdqC9Pl_3ZQtd3e45A.png) 
 
 <figcaption>人工神经网络</figcaption>
 
@@ -106,7 +106,7 @@
 
 将阈值(称为偏差)添加到加权和中，以避免传递零(零)输出。
 
-[![](../Images/7a90628e3ff2cd45c04f3293156ca271.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4oyztpkR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Ag1MLj3pjVEkCa8rOrv--4w.png) 
+[![](img/7a90628e3ff2cd45c04f3293156ca271.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4oyztpkR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Ag1MLj3pjVEkCa8rOrv--4w.png) 
 
 <figcaption>人工神经元</figcaption>
 
@@ -122,7 +122,7 @@
 
 这种类型的组织被称为自下而上或自上而下。
 
-[![](../Images/32b80002bab5e6f791db5a6cd81599ac.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hK5rKW_m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/904/0%2Az-JrlafoPM51BEsW.png) 
+[![](img/32b80002bab5e6f791db5a6cd81599ac.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hK5rKW_m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/904/0%2Az-JrlafoPM51BEsW.png) 
 
 <figcaption>前馈安</figcaption>
 

@@ -28,13 +28,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 Yo 代码显示了几个选项
 
-[![yo code](../Images/fdbcf8ab4ddd10d1a413326ba6679c8b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LC5FTIGp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://code.visualstudio.com/assets/docs/extensions/yocode/yocode.png)
+[![yo code](img/fdbcf8ab4ddd10d1a413326ba6679c8b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LC5FTIGp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://code.visualstudio.com/assets/docs/extensions/yocode/yocode.png)
 
 *   使用箭头键选择新的颜色主题
 
 *   选择新的颜色主题后，你会看到更多的选项
 
-[![ss](../Images/e60f021cf8b47a04608dc4aba5f5837f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NG_9lh-x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cusebkgan64oxvdjz4mf.png)
+[![ss](img/e60f021cf8b47a04608dc4aba5f5837f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NG_9lh-x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cusebkgan64oxvdjz4mf.png)
 
 *   选择从新鲜开始
 
@@ -79,7 +79,7 @@ Enter fullscreen mode Exit fullscreen mode
 打开此 [Url](https://monacotools.visualstudio.com) 并创建您的帐户
 
 一旦你的账户被创建
-[![vscode](../Images/b47efdfdb9263b3c1303f313a1a49db3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uKwqLXyI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/22x5v0km9aar9o189abd.png)
+[![vscode](img/b47efdfdb9263b3c1303f313a1a49db3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uKwqLXyI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/22x5v0km9aar9o189abd.png)
 
 *   选择安全选项，如上图所示。
 *   检查完这些[后，张贴](https://code.visualstudio.com/docs/extensions/publish-extension)。

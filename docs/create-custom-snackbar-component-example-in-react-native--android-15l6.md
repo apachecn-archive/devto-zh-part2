@@ -8,6 +8,6 @@
 
 [在 React Native- Android 中创建自定义 Snackbar 组件示例](https://www.skptricks.com/2018/10/create-custom-snackbar-component-in-react-native.html)
 
-[![](../Images/0f6164af3828388c825b5bd62cbd8df4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B7gMs2Lt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://2.bp.blogspot.com/-93jY0dxBGR4/W8NnVz92VSI/AAAAAAAACBc/q77WAtv-Xb0LGsSOBxGRrU1d1QXyYVT6ACLcBGAs/s640/snack.png)
+[![](img/0f6164af3828388c825b5bd62cbd8df4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B7gMs2Lt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://2.bp.blogspot.com/-93jY0dxBGR4/W8NnVz92VSI/AAAAAAAACBc/q77WAtv-Xb0LGsSOBxGRrU1d1QXyYVT6ACLcBGAs/s640/snack.png)
 
 [阅读更多...](https://www.skptricks.com/2018/10/create-custom-snackbar-component-in-react-native.html)

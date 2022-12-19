@@ -10,7 +10,7 @@
 
 ## 对称
 
-[![symmetric](../Images/fa0e3adef887d014d9ba314f1455dd0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jJ64xDUy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://domenicoluciani.com/assets/images/posts/symmetric_encryption_diagram2.png)
+[![symmetric](img/fa0e3adef887d014d9ba314f1455dd0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jJ64xDUy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://domenicoluciani.com/asseimg/posts/symmetric_encryption_diagram2.png)
 
 Alice (A)想给 Bob (B)发送一条超密消息，她如何使用对称加密技术来实现？
 
@@ -40,7 +40,7 @@ Alice (A)想给 Bob (B)发送一条超密消息，她如何使用对称加密技
 
 ## 不对称
 
-[![asymmetric](../Images/1e3b0adce6fc10fa72579f4638926eee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hwpxJEVG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://domenicoluciani.com/assets/images/posts/asymmetric_encryption_diagram.png)
+[![asymmetric](img/1e3b0adce6fc10fa72579f4638926eee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hwpxJEVG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://domenicoluciani.com/asseimg/posts/asymmetric_encryption_diagram.png)
 
 Alice (A)想给 Bob (B)发送一条超密消息，她如何使用非对称加密技术来实现？
 
@@ -72,7 +72,7 @@ Alice (A)想给 Bob (B)发送一条超密消息，她如何使用非对称加密
 
 目前，这些世界被结合以实现一个聪明的结果，事实上，非对称加密被用来包装使用对称加密加密的消息，它允许共享安全的消息保存速度。
 
-[![pgp](../Images/b8289a93603840749c64fce713d4b415.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zCulgtnY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://domenicoluciani.com/assets/images/posts/pgp.png)
+[![pgp](img/b8289a93603840749c64fce713d4b415.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zCulgtnY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://domenicoluciani.com/asseimg/posts/pgp.png)
 
 ### CONS:
 
@@ -91,7 +91,7 @@ PGP 的一个问题是你不能保证你想要使用的公钥的安全。如果�
 
 Keybase 很好地解决了这个问题
 
-[![my_account](../Images/a2da92fa90f69d726e932c36b1bdfc27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zExjhnR6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://domenicoluciani.com/assets/images/posts/keybaseAccount.png)
+[![my_account](img/a2da92fa90f69d726e932c36b1bdfc27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zExjhnR6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://domenicoluciani.com/asseimg/posts/keybaseAccount.png)
 
 Keybase 允许你做很多事情，其中之一就是通过 Twitter、脸书、Github、Reddit 等社交网络验证你的身份。
 
@@ -130,7 +130,7 @@ Me ->使用通过 keybase 检索的公钥加密->输出中的加密消息
 
 keybase 的一个有趣特性是**加密聊天**
 
-[![chat](../Images/263920d3f9fb5a1dffa820ed79d58c2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G083tECQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://domenicoluciani.com/assets/images/posts/keybase_chat.png)
+[![chat](img/263920d3f9fb5a1dffa820ed79d58c2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G083tECQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://domenicoluciani.com/asseimg/posts/keybase_chat.png)
 
 你可以创建[团队](https://keybase.io/blog/introducing-keybase-teams)、频道、子团队等等。当然，你的智能手机也有一个应用程序！这是一个端到端的加密聊天内置在 Keybase，所以你可以使用你的*安全*黑客新闻的昵称作为安全地址进行沟通；不需要电话号码或电子邮件。为了更好地理解，请阅读[官方公告](https://keybase.io/blog/keybase-chat)。
 
@@ -144,7 +144,7 @@ Keybase 的另一个有趣的特性是可以在 Keybase 中内置一个加密的
 
 最后但同样重要的是，Keybase 会为你将这些文件托管到一个公共主机中，例如:`https://keybase.pub/dlion/`。
 
-[![public](../Images/c20a67b12eeae2c1fed659ae30461256.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wsgaHlsx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://domenicoluciani.com/assets/images/posts/public_dir.png)
+[![public](img/c20a67b12eeae2c1fed659ae30461256.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wsgaHlsx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://domenicoluciani.com/asseimg/posts/public_dir.png)
 
 ### 私人
 
@@ -154,7 +154,7 @@ Keybase 的另一个有趣的特性是可以在 Keybase 中内置一个加密的
 
 你可以和你的团队(如前所述，使用 keybase chat 创建)或者只是和你的朋友创建一个共享文件夹，如何创建？只需将您想要共享的文件放在正确的目录中，并使用正确的昵称`keybase/private/dlion,nick_of_my_friend`。
 
-[![twitter](../Images/371a6457bf64bee807cf44bcd3ad2421.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WyBLvzPJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://keybase.io/images/getting-started/dropbox_sharing.png)
+[![twitter](img/371a6457bf64bee807cf44bcd3ad2421.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WyBLvzPJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://keybase.img/getting-started/dropbox_sharing.png)
 
 如果你想知道它是如何工作的，你可以找到一个很好的解释。
 
@@ -162,7 +162,7 @@ Keybase 的另一个有趣的特性是可以在 Keybase 中内置一个加密的
 
 作为最后一个特性，Keybase 允许每个开发人员在 Keybase 中内置一个加密的 git 存储库。
 
-[![git](../Images/96cf20348dc1a415f6dd62cac0f808a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--toeHnTYp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://keybase.io/images/blog/encrypted_git/encrypted_git_ui3.png)
+[![git](img/96cf20348dc1a415f6dd62cac0f808a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--toeHnTYp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://keybase.img/blog/encrypted_git/encrypted_git_ui3.png)
 
 如果你想为你自己的项目使用一个**私有**，而不是一个开源的，或者只是为了你的需要，比如存储你的小说，商业文件等等。你几乎可以用它做任何事情！怎么会？只需打开 Keybase，进入`Git`标签，输入回购协议的名称，然后嘭，你就可以开始了。
 
@@ -180,4 +180,4 @@ Keybase 的另一个有趣的特性是可以在 Keybase 中内置一个加密的
 
 ## 所以跟着我吧！
 
-[![follow me](../Images/a2da92fa90f69d726e932c36b1bdfc27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zExjhnR6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://domenicoluciani.com/assets/images/posts/keybaseAccount.png)
+[![follow me](img/a2da92fa90f69d726e932c36b1bdfc27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zExjhnR6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://domenicoluciani.com/asseimg/posts/keybaseAccount.png)

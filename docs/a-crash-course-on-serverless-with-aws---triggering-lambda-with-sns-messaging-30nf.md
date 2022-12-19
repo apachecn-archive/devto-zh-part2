@@ -18,7 +18,7 @@
 
 我们将只关注创建我们的应用程序所需的基础设施组件的步骤。代码本身将只是模拟随机复杂计算的行为。我选择了一个递归函数来计算传递给它的数字的阶乘。这里有一个很好的图表，因为图表当然很棒！
 
-[![](../Images/9415186785382f37087d3dae9dbde4ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ciMqVBs6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/trigger-lambda-sns/sls-aws-lambda-sns3.png)
+[![](img/9415186785382f37087d3dae9dbde4ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ciMqVBs6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/trigger-lambda-sns/sls-aws-lambda-sns3.png)
 
 `init`函数是唯一公开的函数，它被挂接到 [API 网关](https://aws.amazon.com/api-gateway/)。它接受一个单独的`number`参数进行验证，成功后，它发布一个 SNS 主题并发送`number`值。
 
@@ -252,7 +252,7 @@ $ serverless deploy
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/d1464b3df056b8d0e8675d4f59bd7baa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5JpGB53U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/trigger-lambda-sns/deploy.png)
+[![](img/d1464b3df056b8d0e8675d4f59bd7baa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5JpGB53U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/trigger-lambda-sns/deploy.png)
 
 您可以看到端点被记录到控制台。这是您发送请求的地方。
 
@@ -272,19 +272,19 @@ Enter fullscreen mode Exit fullscreen mode
 
 在用几个不同的值到达端点几次后，结果如下。`init`功能按预期工作。
 
-[![](../Images/231c05f6220493ed1c55c7422aa44ea3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7_Lqv82U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/trigger-lambda-sns/init8.gif)
+[![](img/231c05f6220493ed1c55c7422aa44ea3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7_Lqv82U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/trigger-lambda-sns/init8.gif)
 
 但是，真正让我们感兴趣的是`calculate`函数。这是它成功时的样子。
 
-[![](../Images/a1d0a5fb23987949a932c51777be13bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--96mw6h4v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/trigger-lambda-sns/calculate4.gif)
+[![](img/a1d0a5fb23987949a932c51777be13bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--96mw6h4v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/trigger-lambda-sns/calculate4.gif)
 
 当失败时，它会指定一个崩溃，并显示错误日志。
 
-[![](../Images/2a6c5f8061b513a6fd9e2b6ca3917810.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JCLdncAt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/trigger-lambda-sns/calculate-error2.gif)
+[![](img/2a6c5f8061b513a6fd9e2b6ca3917810.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JCLdncAt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/trigger-lambda-sns/calculate-error2.gif)
 
 经过两次重试后，它将向死信队列发送一条消息，并触发`error`函数。
 
-[![](../Images/32f9ec976780a7bb49a76f347b8862ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sVWqBLMu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/trigger-lambda-sns/error4.gif)
+[![](img/32f9ec976780a7bb49a76f347b8862ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sVWqBLMu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/trigger-lambda-sns/error4.gif)
 
 太棒了。我们已经测试了所有不同的场景。希望这能澄清一些事情。
 
@@ -294,17 +294,17 @@ Enter fullscreen mode Exit fullscreen mode
 
 没有你需要担心的服务器，你只为它运行的时间付费。只需部署代码，并保证它会工作。如果有什么东西坏了，你会有 Dashbird 在背后看着你，如果有什么不对劲，它会通过 Slack 或电子邮件提醒你。你只需要热爱 Slack 集成！
 
-[![](../Images/82d6f9c2303ac09dfe7e1ef2729bafb0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IP_98Ov0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/trigger-lambda-sns/slack-alert.png)
+[![](img/82d6f9c2303ac09dfe7e1ef2729bafb0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IP_98Ov0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/trigger-lambda-sns/slack-alert.png)
 
 同样，如果你想看一下代码，这里有 [GitHub 回购](https://github.com/adnanrahic/lambda-sns-dlq-error-handling)。在您需要 SNS 消息触发 lambda 功能的情况下，它可以作为您自己用例的开端。如果你喜欢它，并希望更多人在 GitHub 上看到它，请给它一颗星。
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png)[adnanrahic](https://github.com/adnanrahic)/[lambda-SNS-dlq-错误处理](https://github.com/adnanrahic/lambda-sns-dlq-error-handling)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png)[adnanrahic](https://github.com/adnanrahic)/[lambda-SNS-dlq-错误处理](https://github.com/adnanrahic/lambda-sns-dlq-error-handling)
 
 ### 展示发布 SNS 主题和从主题触发功能的能力的示例项目。代码被结构化为创建超时/崩溃，以便死信队列 SNS 主题被发布，进而触发错误处理函数。
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-[![](../Images/9415186785382f37087d3dae9dbde4ce.png)T2】](https://raw.githubusercontent.com/adnanrahic/cdn/master/trigger-lambda-sns/sls-aws-lambda-sns3.png)
+[![](img/9415186785382f37087d3dae9dbde4ce.png)T2】](https://raw.githubusercontent.com/adnanrahic/cdn/master/trigger-lambda-sns/sls-aws-lambda-sns3.png)
 
 # 使用带有 DLQ 错误处理的 SNS 触发 AWS Lambda
 
@@ -339,7 +339,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 * * *
 
-[![This months sponsor is Zeet.](../Images/a4da9440f5519d3156594813d3a02017.png)T2】](https://bit.ly/adnan-zeet)
+[![This months sponsor is Zeet.](img/a4da9440f5519d3156594813d3a02017.png)T2】](https://bit.ly/adnan-zeet)
 
 免责声明: [Zeet](https://bit.ly/adnan-zeet) 将在下个月赞助这篇博客。前几天我试过了。这就像无服务器，但运行整个后端。你可以自动托管和扩展应用。相当整洁。
 

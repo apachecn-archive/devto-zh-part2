@@ -18,7 +18,7 @@
 
 “我的程序没有按照我想要的方式运行”这个概念是以 1947 年哈佛大学马克 2 号计算机上的一只飞蛾命名的。
 
-[![The First Computer Bug](../Images/d2d1558d0b31103f36ced31e22abeca2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YfjcaF5z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xlwursosjd4wgei5cvd2.jpg)
+[![The First Computer Bug](img/d2d1558d0b31103f36ced31e22abeca2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YfjcaF5z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xlwursosjd4wgei5cvd2.jpg)
 
 > 第一个 bug，或者说你代码中的错误不被称为“类型屁”的原因(由史密森尼美国国家历史博物馆提供)
 

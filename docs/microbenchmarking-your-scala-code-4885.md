@@ -4,7 +4,7 @@
 
 # 动机
 
-[![spinner](../Images/95508b1f4bb5d7f8664bdeae511326a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GzJwaxCt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://inlviv.in.ua/wp-content/themes/inlviv/images/loading_spinner.gif)
+[![spinner](img/95508b1f4bb5d7f8664bdeae511326a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GzJwaxCt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://inlviv.in.ua/wp-content/themes/inlvimg/loading_spinner.gif)
 
 我相信你认识这个装载旋转图标。我不知道有谁喜欢等电脑。然而，在编写软件时，比起速度，我更喜欢可读性、可维护性和可扩展性。我同意 Donald Knuth 的观点，过早的优化通常会导致比它解决的问题更多的问题。
 
@@ -120,8 +120,8 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 结果
 
-[![runtime comparison](../Images/c82585dccc522defee20a09b6c186d83.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ynILEMvP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ynsjgkpj3tr9ct7bvy41.png)
-[![legend](../Images/28e0f44d30f30ff37a24e50d17403bd9.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--ONwKV1Ot--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xoyhrcu7267n0jkph5zh.png)
+[![runtime comparison](img/c82585dccc522defee20a09b6c186d83.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ynILEMvP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ynsjgkpj3tr9ct7bvy41.png)
+[![legend](img/28e0f44d30f30ff37a24e50d17403bd9.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--ONwKV1Ot--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xoyhrcu7267n0jkph5zh.png)
 
 看着这些结果，我发现三个值得注意的观察结果:
 
@@ -162,13 +162,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 结果
 
-[![lines](../Images/9810fa7b55434a9dce866acc73f27b68.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MlEdpVRX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d6hc7yoyz49yhqcbbfzy.png)
-[![legend](../Images/f8ae4f7774b4c401e9f974110b9bce9b.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--LVe66fZE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p9268kmqmc6qk200p71w.png)
+[![lines](img/9810fa7b55434a9dce866acc73f27b68.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MlEdpVRX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d6hc7yoyz49yhqcbbfzy.png)
+[![legend](img/f8ae4f7774b4c401e9f974110b9bce9b.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--LVe66fZE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p9268kmqmc6qk200p71w.png)
 
 看看不同集合大小的性能，没有什么好惊讶的(据我所知，日志规模会更好...).当看到 Scala 和 Java 数组排序之间的区别时，我有点惊讶。
 
-[![bars](../Images/831d6b0f46170da6041e2a5b0f622070.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vX4TlTLq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zfpgs701lml7ighacldi.png)
-[![legend](../Images/f8ae4f7774b4c401e9f974110b9bce9b.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--LVe66fZE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p9268kmqmc6qk200p71w.png)
+[![bars](img/831d6b0f46170da6041e2a5b0f622070.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vX4TlTLq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zfpgs701lml7ighacldi.png)
+[![legend](img/f8ae4f7774b4c401e9f974110b9bce9b.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--LVe66fZE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p9268kmqmc6qk200p71w.png)
 
 Scala 排序要慢得多。看一下`sorted`的实现，我们可以发现两个细节，它们可以解释运行时的差异。
 
@@ -275,18 +275,18 @@ Enter fullscreen mode Exit fullscreen mode
 
 这三种数据结构都是不可变的。但是使用串联对性能有什么影响呢？我们先来看弦乐。
 
-[![string_bars](../Images/7ba5ca2c3e4c15852ba62c628811ed7d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--f9nxo4cJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/njb71w7h8kfg8x37pjuj.png)
-[![string_legend](../Images/9a306d87d169a11b11ca9ad59ce4d9d4.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--XcJ_RKeS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nlcveah6fjphg0irpox4.png)
+[![string_bars](img/7ba5ca2c3e4c15852ba62c628811ed7d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--f9nxo4cJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/njb71w7h8kfg8x37pjuj.png)
+[![string_legend](img/9a306d87d169a11b11ca9ad59ce4d9d4.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--XcJ_RKeS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nlcveah6fjphg0irpox4.png)
 
 该图显示，为每次迭代创建额外的字符串对象的开销是巨大的。它对集合的表现如何？
 
-[![set_bars](../Images/305265ec1432d0f0ff6ff5c4ae0b882b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_lkWAiub--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/si3pdlsjc5vlkkvhu9ww.png)
-[![set_legend](../Images/57df8f54bffa2c61199afa52000b526f.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--mjgh5ryd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/etx8zrtgbqxv6bakuoap.png)
+[![set_bars](img/305265ec1432d0f0ff6ff5c4ae0b882b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_lkWAiub--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/si3pdlsjc5vlkkvhu9ww.png)
+[![set_legend](img/57df8f54bffa2c61199afa52000b526f.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--mjgh5ryd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/etx8zrtgbqxv6bakuoap.png)
 
 对于电视节目来说，情况甚至更糟。这可能是因为每次迭代都要重新初始化整个集合。构建散列集不是一个简单的操作，它对性能的影响甚至比字符串更大。这同样适用于列表吗？
 
-[![list_bars](../Images/d2eec17f8d1e1561cfc71e4d8c7c7f9c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zyWrfFnW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4yw1tid3e8z1os96feqz.png)
-[![list_legend](../Images/77c5ba87efe73165ba1984894ca594c6.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--SDFBOq8j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yrh4skaowtrn7ypdjivq.png)
+[![list_bars](img/d2eec17f8d1e1561cfc71e4d8c7c7f9c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zyWrfFnW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4yw1tid3e8z1os96feqz.png)
+[![list_legend](img/77c5ba87efe73165ba1984894ca594c6.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--SDFBOq8j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yrh4skaowtrn7ypdjivq.png)
 
 有了列表，情况就不同了。原因是它只需要恒定的时间来将一个项目附加到列表的前面。如果我们连接到末尾，运行时间可能会更长，这取决于实现是否也存储指向列表末尾的指针。
 

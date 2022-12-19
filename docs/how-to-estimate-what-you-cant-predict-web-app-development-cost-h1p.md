@@ -38,7 +38,7 @@
 当我说**估算应用成本的障碍**时，我指的是我们可能不知道的关于应用的事情。是的，开发者并不是无所不知的黑客。技术发展太快了，所以技术世界充满了不确定性。尤其是那些新奇的想法，以前没有人尝试过。
 
 如何应对不确定性？有一个简单的方法，也能帮你获得一些确定性。我们是这样做的:我们将一个 web 应用程序的所有信息(也可以是任何其他变量)分成三类:
-[![Alt text of image](../Images/13089b422e7847437a5f27408224c756.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QdgyQuhI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AroaMhSkyKWDl0ns4)
+[![Alt text of image](img/13089b422e7847437a5f27408224c756.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QdgyQuhI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AroaMhSkyKWDl0ns4)
 
 试图模仿另一款应用来构建你的应用？别说了。
 评估 web 应用最常见的方法是可视化最终结果，并追溯到项目的当前状态。要问的问题是:*为了实现这一目标，必须做些什么？*
@@ -61,7 +61,7 @@
 **第二步。澄清范围**
 
 首先做出假设不足以开始工作。每个团队成员都需要知道他们的任务和你对应用的看法。基于所需 web 应用程序的复杂性，web 应用程序开发中不同角色的工作范围有很大不同。
-[![Alt text of image](../Images/565acbebe7f074ea0e63b7570a8b1cb7.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--uScndNVB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2ASuM-YGpImFo7p71d)
+[![Alt text of image](img/565acbebe7f074ea0e63b7570a8b1cb7.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--uScndNVB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2ASuM-YGpImFo7p71d)
 
 此表显示了创建 web 应用程序所需的一些专家。大多数情况下，你可能需要更多——平面设计师、质量保证工程师、项目经理、文案等。
 
@@ -72,10 +72,10 @@
 假设你想建立一个网站，允许看到模拟的交通路线，以优化城市的交通负荷。这样的服务将需要高水平的地图精度和人工交通模拟。让我们假设我们知道使它正常工作的组件。我们肯定需要的特征之一是人工交通管理系统。除此之外，让我们为不同类型的天气条件包括一个过滤器。
 
 要实现每一个特性，我们将需要那许多天:
-[![Alt text of image](../Images/1885601a8ce24971e4835287294d97d1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jxM-aNde--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2ABxGG0AORUJCdE7pt)
+[![Alt text of image](img/1885601a8ce24971e4835287294d97d1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jxM-aNde--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2ABxGG0AORUJCdE7pt)
 
 还有标准差这种东西。我们 Django Stars 采用 95%的置信区间。所以，最后的公式会是这样的:
-[![Alt text of image](../Images/1aea34f0291520fd475cd8b9816c4e36.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UnDGs17M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AieWQpUzuSRoH8xuc)
+[![Alt text of image](img/1aea34f0291520fd475cd8b9816c4e36.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UnDGs17M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AieWQpUzuSRoH8xuc)
 
 因此，要实施*交通管理*，我们将需要 33 个 SD 日。现在，试着计算一下开发*天气过滤器*需要多少钱。
 

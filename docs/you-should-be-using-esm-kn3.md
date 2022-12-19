@@ -83,13 +83,13 @@ Babel 为 web 开发人员带来了巨大的好处。它使得新的或提议的
 
 开发者杰米·k 说得好:
 
-> ![unknown tweet media content](../Images/9eab89aae49d8af655acffa3fb3d6982.png)![Jamie K 🏳️‍🌈 profile image](../Images/5a1e084ac37788fbfef751283e242bb2.png)杰米 K 🏳️‍🌈[@ Jamie builds](https://dev.to/jamiebuilds)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)对 JavaScript 回拖最多的三款浏览器是:
+> ![unknown tweet media content](img/9eab89aae49d8af655acffa3fb3d6982.png)![Jamie K 🏳️‍🌈 profile image](img/5a1e084ac37788fbfef751283e242bb2.png)杰米 K 🏳️‍🌈[@ Jamie builds](https://dev.to/jamiebuilds)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)对 JavaScript 回拖最多的三款浏览器是:
 > 
 > 1) IE 11 (2.7%的网页)
 > 2) Android 4.4-4.4.3 (0.94%的网页)
 > 3) Chrome 49 (0.71%的网页)
 > 
-> 如果我们停止支持这些浏览器...(续)2018 年 7 月 26 日下午 19:46[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1022568918949408768)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1022568918949408768)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1022568918949408768)
+> 如果我们停止支持这些浏览器...(续)2018 年 7 月 26 日下午 19:46[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1022568918949408768)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1022568918949408768)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1022568918949408768)
 
 向现代浏览器和 ie8 等提供一个大的、一刀切的捆绑包的商业案例正在迅速消失。像[差分服务](https://github.com/Polymer/prpl-server-node)这样的现代技术让我们为有能力的浏览器提供优化、精简的 ES2018，同时为那些不太好的浏览器保留臃肿、传输的包。除此之外，对于 IE11 支持不是绝对业务需求的应用程序，当用户可以并且应该使用最新最好的浏览器时，支持旧的、不安全的浏览器实际上是不负责任的。
 

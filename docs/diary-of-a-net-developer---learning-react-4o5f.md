@@ -18,7 +18,7 @@ Webpack，Typescript，React，Angular(现在是什么版本？6?)，巴别塔�
 
 如果你是 C#/ASP。NET 开发人员希望涉足这些波涛汹涌的水域，那么你将面临一个不可逾越的选择山和一个看起来像砖墙的学习曲线。
 
-[![](../Images/5c791ea02369c21c6d57ca6e3ae0335c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lCWvvvQ_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-1/2018-05-16-22-35-25.png)
+[![](img/5c791ea02369c21c6d57ca6e3ae0335c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lCWvvvQ_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-1/2018-05-16-22-35-25.png)
 
 # 建造一些真实的东西
 
@@ -69,15 +69,15 @@ yarn start
 
 如果一切顺利，你会看到这样的东西...
 
-[![](../Images/d320e8912fe29dc9057760cfd8e6a473.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l8RupZZR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-1/2018-05-16-20-51-39.png)
+[![](img/d320e8912fe29dc9057760cfd8e6a473.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l8RupZZR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-1/2018-05-16-20-51-39.png)
 
 这应该会出现在您的浏览器中。
 
-[![](../Images/960e68e0fa0ad5a4720d3c700d534255.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UEA9zjSf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-1/2018-05-16-20-52-07.png)
+[![](img/960e68e0fa0ad5a4720d3c700d534255.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UEA9zjSf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-1/2018-05-16-20-52-07.png)
 
 如果你最近尝试过创建任何前端应用程序(Angular，Aurelia 等。)那么你可能已经习惯了从一开始就看到启动项目看起来非常臃肿。
 
-[![](../Images/5b498a150feb419e951a8c3237851112.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1dYWuDYE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-1/2018-05-16-21-23-49.png)
+[![](img/5b498a150feb419e951a8c3237851112.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1dYWuDYE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-1/2018-05-16-21-23-49.png)
 
 按照这些标准，这是相对精简的...
 
@@ -89,7 +89,7 @@ yarn start
 
 对于我们的项目，我们需要构建一个简单的列表组件，就像这样。
 
-[![](../Images/154beba0865c3c60f3bb99c8333fb1aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A5A_ooem--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-1/2018-05-16-21-17-05.png)
+[![](img/154beba0865c3c60f3bb99c8333fb1aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A5A_ooem--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-1/2018-05-16-21-17-05.png)
 
 我已经改变了我们实际建造的细节，以保护我们的客户，但这符合我们的目标结构。
 
@@ -189,11 +189,11 @@ App 的引用消失了，取而代之的是我们的 MyUsers 组件。
 
 选择其中一个选项以自动添加引用。
 
-[![](../Images/2e7fd76f34a3ffe861cd39ffdcd84f7a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9xDmQsE---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-1/2018-05-16-22-03-28.png)
+[![](img/2e7fd76f34a3ffe861cd39ffdcd84f7a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9xDmQsE---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-1/2018-05-16-22-03-28.png)
 
 因为我们之前运行了`yarn start`，对应用程序的更改会自动反映在浏览器中，这意味着我们现在可以查看我们的工作了。
 
-[![](../Images/f185387c9cbedbeae4dc423d2ebebea6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hw9ZeOWb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-1/2018-05-16-22-06-28.png)
+[![](img/f185387c9cbedbeae4dc423d2ebebea6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hw9ZeOWb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-1/2018-05-16-22-06-28.png)
 
 诚然，我们不会因此赢得任何设计奖项，但这是一个坚实的开端。
 

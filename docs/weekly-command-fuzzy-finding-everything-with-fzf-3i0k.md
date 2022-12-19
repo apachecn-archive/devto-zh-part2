@@ -22,13 +22,13 @@ fzf [--options]
 
 ### 光溜溜的
 
-[![fzf-bare](../Images/bc1fac46c2d3313e0e039556c886f0c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--urbQBO0T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/4419992/39314537-d868a596-494a-11e8-9adf-aa6043912510.jpg)
+[![fzf-bare](img/bc1fac46c2d3313e0e039556c886f0c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--urbQBO0T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/4419992/39314537-d868a596-494a-11e8-9adf-aa6043912510.jpg)
 
 如前所述，`fzf`可以单独调用，它将为当前目录和子目录中的项目提供模糊补全。
 
 ### 预览
 
-[![fzf-preview](../Images/904b60eb7469fce0aa89e32d72039d7c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EOhByBK9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/4419992/39314540-d8d3e73e-494a-11e8-937e-85e8396b95f8.jpg)
+[![fzf-preview](img/904b60eb7469fce0aa89e32d72039d7c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EOhByBK9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/4419992/39314540-d8d3e73e-494a-11e8-937e-85e8396b95f8.jpg)
 
 ```
 $ fzf --preview="head -$LINES {}" 
@@ -42,7 +42,7 @@ $ fzf --preview="head -$LINES {}"
 
 ### 模糊补全为命令
 
-[![fzf-asterisk](../Images/efc85ed829c9ba52a2324ccc030d4c84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wOw-9zok--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/4419992/39314536-d83dd348-494a-11e8-8b7c-0e4af0186114.jpg)
+[![fzf-asterisk](img/efc85ed829c9ba52a2324ccc030d4c84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wOw-9zok--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/4419992/39314536-d83dd348-494a-11e8-8b7c-0e4af0186114.jpg)
 
 ```
 # Files under current directory
@@ -65,7 +65,7 @@ complete -F _fzf_path_completion -o default -o bashdefault <COMMAND_NAME>
 
 ### 搜索历史
 
-[![fzf-history](../Images/e71618e7d35b6ac5a87d87234af45406.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W1m00ZaN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/4419992/39314538-d898951c-494a-11e8-8032-22a84a449106.jpg)
+[![fzf-history](img/e71618e7d35b6ac5a87d87234af45406.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W1m00ZaN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/4419992/39314538-d898951c-494a-11e8-8032-22a84a449106.jpg)
 
 默认情况下，bash 和 zsh 还内置了对反向增量历史搜索的支持。
 

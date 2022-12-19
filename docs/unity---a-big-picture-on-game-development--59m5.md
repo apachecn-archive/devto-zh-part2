@@ -4,7 +4,7 @@
 
 # [T3】](//#Unity---A-big-picture-on-game-development.---Getting-started)
 
-[![Unity Logo](../Images/2bcd378c32c8f4e6aca197fddf356289.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9e6MqkJN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://unity3d.com/profiles/unity3d/themes/unity/images/company/brand/logos/primary/unity-master-black.svg)
+[![Unity Logo](img/2bcd378c32c8f4e6aca197fddf356289.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9e6MqkJN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://unity3d.com/profiles/unity3d/themes/uniimg/company/brand/logos/primary/unity-master-black.svg)
 
 ## 简介:[T3】](#Intro:)
 
@@ -25,7 +25,7 @@
 
 ### 项目文件的层次结构？[T3】](#Project-files'-hierarchy?)
 
-[![](../Images/f25faf64a6750ef4fc4d37385f1253a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P2li4yEv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://unity3d.com/sites/default/files/styles/original/public/learn/VZfolderstructure0img1.png%3Fitok%3DVfFkx2IQ)
+[![](img/f25faf64a6750ef4fc4d37385f1253a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P2li4yEv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://unity3d.com/sites/default/files/styles/original/public/learn/VZfolderstructure0img1.png%3Fitok%3DVfFkx2IQ)
 
 为了在 Unity 中设置我们的文件夹结构，从我们的项目窗口(所有资源的位置和我们添加对象到场景视图的位置)中，我们右键单击鼠标并点击 Create >> Folder，然后给它一个名称。现在，我们为资产正式创建的这个文件夹是在我们为项目选择的路径下创建的。确切位置:{项目路径}/资产/{创建的文件夹}
 
@@ -37,8 +37,8 @@ Unity asset store 和已经完成的 Unity 项目提供了 Unity 包，这是你
 
 1.  选择*窗口* > > *资产商店*。
 2.  在搜索栏中键入您需要的资产类型，您可以使用过滤功能来查找最适合您需求的资产。
-3.  选择所需的软件包后，点击按钮*下载*并同意服务条款。![](../Images/04338e4e4d6f72b829270ff144c0e891.png)
-4.  一旦下载的包准备好了，您就可以使用 *import* 按钮导入它。![](../Images/06548f4f1d359e7353653ecc6a84c4ed.png)
+3.  选择所需的软件包后，点击按钮*下载*并同意服务条款。![](img/04338e4e4d6f72b829270ff144c0e891.png)
+4.  一旦下载的包准备好了，您就可以使用 *import* 按钮导入它。![](img/06548f4f1d359e7353653ecc6a84c4ed.png)
 5.  完成上一步后，您会注意到项目窗口中的资产。要浏览它们，您可以双击添加的文件夹。
 
 **要导入一个特定的安装包，需要在项目管理器区右键点击> > *【导入包】*>>{想要的资产文件夹名称}，之后同样的步骤也适用**
@@ -48,8 +48,8 @@ Unity asset store 和已经完成的 Unity 项目提供了 Unity 包，这是你
 创建游戏时，你实际上需要添加一些资产和环境，比如占位符对象。这可以通过以下方式实现:
 
 1.  从*层级*面板中选择*创建*。
-2.  选择【3D 对象】> > {一个对象} ![](../Images/ff9439233f29155083d6f24bf0331556.png)
-3.  选择好想要的形状后，可以使用*缩放工具*拖动彩色立方体来修改尺寸。![](../Images/5ab45361df3f0e8c4363e962da89e3cb.png)
+2.  选择【3D 对象】> > {一个对象} ![](img/ff9439233f29155083d6f24bf0331556.png)
+3.  选择好想要的形状后，可以使用*缩放工具*拖动彩色立方体来修改尺寸。![](img/5ab45361df3f0e8c4363e962da89e3cb.png)
 
 一旦有了边界(地板)，就可以添加角色。制作游戏原型时的一个标准是插入胶囊(3D 图元)来代替/代表临时玩家，而不是 3D 建模角色的形状并将其 UVing，并使用 PhotoShop 之类的东西来创建最终的外观，并将一切作为资产(动画剪辑)导入。
 

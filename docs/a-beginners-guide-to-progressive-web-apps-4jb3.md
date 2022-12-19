@@ -20,7 +20,7 @@
 *   发送的推文增加了 75%
 *   跳出率下降 20%
 
-[![twitter-lite-pwa-example](../Images/6d374a4d5dfc183553309f1c59f9781e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gd_pXJVS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.googleapis.com/sales.appinst.io/2017/09/twitter-lite-pwa-example.png)
+[![twitter-lite-pwa-example](img/6d374a4d5dfc183553309f1c59f9781e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gd_pXJVS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.googleapis.com/sales.appinst.io/2017/09/twitter-lite-pwa-example.png)
 
 虽然用户受益于这样的体验:与 Android 原生应用 相比， **使用的设备存储空间不到 3%，更令人印象深刻的是** **帮助减少了高达 70%的数据消耗** 。当你使用移动数据而不是 WiFi 浏览时，这一点很重要。数据消耗的减少也向那些网速较慢的用户开放了 Twitter 体验，当 45%的连接仍然使用 2G 时，这真的很重要。
 
@@ -30,7 +30,7 @@
 
 **两个品牌都通过创建 PWA 解决了这个问题，[全球速卖通看到了](https://developers.google.com/web/showcase/2016/aliexpress) :**
 
-[![aliexpress1](../Images/ee5d42f6ccca5331b7f88d5f8e396c7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rlDHpblt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.googleapis.com/sales.appinst.io/2017/09/aliexpress1.png)
+[![aliexpress1](img/ee5d42f6ccca5331b7f88d5f8e396c7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rlDHpblt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.googleapis.com/sales.appinst.io/2017/09/aliexpress1.png)
 
 *   所有浏览器的新用户转化率增长 104 %, iOS 转化率增长 82%
 *   在所有浏览器中，每个用户每次会话访问的页面增加了 2 倍
@@ -71,7 +71,7 @@ Ajax 的早期采用者包括谷歌(在 Gmail 和地图的第一版中)和 [Kaya
 
 但是智能手机操作系统(iOS、Android 和简单的 Windows Phone)的出现让事情变得复杂了。上面列出的每一个网络应用程序，以及这里没有提到的许多其他应用程序，现在也有了相应的移动应用程序。虽然谷歌和脸书等较大的品牌有资源来管理除 iOS 和 Android 应用程序之外的网络应用程序的持续开发，但新创公司、中小企业和独立开发者就不一样了。
 
-[![StatCounter-os_combined-ww-monthly-201608-201708](../Images/e023c2b5bc2b0c9fb9418d92b4666ce9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rym_fO6M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.googleapis.com/sales.appinst.io/2017/09/StatCounter-os_combined-ww-monthly-201608-201708.png)
+[![StatCounter-os_combined-ww-monthly-201608-201708](img/e023c2b5bc2b0c9fb9418d92b4666ce9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rym_fO6M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.googleapis.com/sales.appinst.io/2017/09/StatCounter-os_combined-ww-monthly-201608-201708.png)
 
 厚此薄彼曾经是可行的，但是现在，即使 [Android 的全球市场份额远远超过了](https://gs.statcounter.com/os-market-share/mobile/worldwide)iOS， [iOS 仍然在某些关键地区领先](https://gs.statcounter.com/os-market-share/mobile/united-states-of-america) 。这意味着，如果你正在开发一个应用程序，并希望在几乎所有市场取得成功，那么你别无选择，只能同时为 Android 和 iOS 开发。这最终将我们带到了渐进式网络应用。
 
@@ -97,7 +97,7 @@ CSS3 和 JavaScript 的持续发展，HTML5 的最终完成，以及更强大的
     *   简称
     *   开始 _ 网址
     *   显示独立或全屏值
-    *   png 格式的至少 144×144 大的图标。例如:" icons ":[{ " src ":"/images/icon-144 . png "，" size ":" 144 x144 "，" type": "image/png" } ]
+    *   png 格式的至少 144×144 大的图标。例如:" icons ":[{ " src "img/icon-144 . png "，" size ":" 144 x144 "，" type": "image/png" } ]
 
 谷歌现在大量参与渐进式网络应用，帮助制定标准，同时也在 Chrome 中建立对这些标准的支持。他们发布了一份 [渐进式网络应用清单](https://developers.google.com/web/progressive-web-apps/checklist) ，列出了他们认为渐进式网络应用应该具备的所有条件，既作为基线，也作为理想。他们的基线在原来的基础上扩展，包括了以下内容:
 
@@ -164,7 +164,7 @@ Chrome 也使用 web 应用清单来决定是否显示 Web 应用安装横幅，
 
 PWAs 最大的缺点是目前并不是所有的移动浏览器都支持它们。谷歌的基线标准确实规定“****网站必须跨浏览器工作** ”(重点是后加的)，而且因为大部分 PWA 是使用标准 HTML5 等开发的。他们会的。Safari 和微软 Edge 目前缺乏的是对服务人员的支持。网站正常运行不需要服务人员，只需要类似应用的功能。**
 
- **[![StatCounter-browser-ww-monthly-201608-201708](../Images/d40815e0391a2e76635d2275267a4423.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7gNg_8yC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.googleapis.com/sales.appinst.io/2017/09/StatCounter-browser-ww-monthly-201608-201708.png)
+ **[![StatCounter-browser-ww-monthly-201608-201708](img/d40815e0391a2e76635d2275267a4423.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7gNg_8yC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.googleapis.com/sales.appinst.io/2017/09/StatCounter-browser-ww-monthly-201608-201708.png)
 
 但是由于 Chrome 在几乎所有市场都占据主导地位，这不应该成为现在投资 PWA 的障碍。对服务人员的支持是为微软 Edge 开发的 [，现在](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/serviceworker/) [也出现在 WebKit](https://m.phillydevshop.com/apples-refusal-to-support-progressive-web-apps-is-a-serious-detriment-to-future-of-the-web-e81b2be29676) 中，虽然这并不能保证 Safari Mobile 很快就会支持它。
 

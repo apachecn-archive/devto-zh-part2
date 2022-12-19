@@ -4,7 +4,7 @@
 
 在本教程中，我们将使用 React 创建一个 ToDo 应用程序。它对初学者很友好，所以如果你所做的所有反应都是“你好，世界”，那也没关系。你可以[在这里](https://react-todo-rj.herokuapp.com)自己体验 app。它也嵌入在这篇文章的结尾。
 
-[![](../Images/e4677f4dd9dfdd053248d8bec71b7f28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qoBGnZOk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i1.wp.com/i.gyazo.com/8b411b3e0e0a1ca7ac28858f194b06dc.gif%3Fssl%3D1)
+[![](img/e4677f4dd9dfdd053248d8bec71b7f28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qoBGnZOk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i1.wp.com/i.gyazo.com/8b411b3e0e0a1ca7ac28858f194b06dc.gif%3Fssl%3D1)
 
 ### 跟随前进的工具
 
@@ -37,7 +37,7 @@
 
 **你会看到一个欢迎页面……**
 
-[![](../Images/6dc57b0317d9664f4dc59dc6738c8a98.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2u2gK0kX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/reactninja.io/wp-content/uploads/2018/06/react-welcome-screen.png%3Fresize%3D552%252C248%26ssl%3D1)
+[![](img/6dc57b0317d9664f4dc59dc6738c8a98.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2u2gK0kX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/reactninja.io/wp-content/uploads/2018/06/react-welcome-screen.png%3Fresize%3D552%252C248%26ssl%3D1)
 
 如说明所说，修改 App.js 进行修改。`App.js`从`index.js`文件渲染而来。将`App.js`视为所有其他组件的容器。
 
@@ -57,11 +57,11 @@
 
 我们导入这是 App.js，这样我们就可以把它放在我们所说的 div 中。
 
-[![](../Images/e70734ba6b7d9a709af17d5fc82165cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Nc5iwst1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/reactninja.io/wp-content/uploads/2018/06/import-todolist.png%3Fresize%3D964%252C216%26ssl%3D1)
+[![](img/e70734ba6b7d9a709af17d5fc82165cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Nc5iwst1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/reactninja.io/wp-content/uploads/2018/06/import-todolist.png%3Fresize%3D964%252C216%26ssl%3D1)
 
 此外，将 TodoList 放在 return 语句的 div 中。
 
-[![](../Images/5f468eb8fbd677c5f22e89949380f680.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fhPYT7wL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/reactninja.io/wp-content/uploads/2018/06/todolist-app.png%3Fresize%3D964%252C408%26ssl%3D1)
+[![](img/5f468eb8fbd677c5f22e89949380f680.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fhPYT7wL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/reactninja.io/wp-content/uploads/2018/06/todolist-app.png%3Fresize%3D964%252C408%26ssl%3D1)
 
 TodoList 里有什么？
 
@@ -73,7 +73,7 @@ TodoList 里有什么？
 
 看起来是这样的…
 
-[![](../Images/fadbdf1d5395b6a0f3e84d90ea8a5e93.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VSWg4kZz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/reactninja.io/wp-content/uploads/2018/06/todo-starter-output.png%3Fresize%3D416%252C642%26ssl%3D1)
+[![](img/fadbdf1d5395b6a0f3e84d90ea8a5e93.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VSWg4kZz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/reactninja.io/wp-content/uploads/2018/06/todo-starter-output.png%3Fresize%3D416%252C642%26ssl%3D1)
 
 因为 CSS，你的输出不会和我的一样。我偷偷把 CSS 加到了`index.css`文件里。这是基本的东西，我们不会在这之后讨论样式表。如果你想让你的应用程序的风格像例子中一样，[从这里获取 index . CSS](https://github.com/therj/react-todo/blob/master/src/index.css)…
 
@@ -93,11 +93,11 @@ TodoList 里有什么？
 
 当提交表单时，输入项被提交。要处理此操作，请在 TodoList 中添加 onSubmit to form 标记。
 
-[![](../Images/881114aa86e50b4894e93f95d6db7121.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NvGKJwMb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/reactninja.io/wp-content/uploads/2018/06/form-submit-add-item.png%3Fresize%3D964%252C216%26ssl%3D1)
+[![](img/881114aa86e50b4894e93f95d6db7121.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NvGKJwMb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/reactninja.io/wp-content/uploads/2018/06/form-submit-add-item.png%3Fresize%3D964%252C216%26ssl%3D1)
 
 这个`addItem`应该在 App 组件上处理。它作为道具传递给其他组件。
 
-[![](../Images/d5bd777dc019e4bc80eb6461c41b3772.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ofJR9PPx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/reactninja.io/wp-content/uploads/2018/06/add-item-prop.png%3Fresize%3D1130%252C312%26ssl%3D1)
+[![](img/d5bd777dc019e4bc80eb6461c41b3772.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ofJR9PPx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/reactninja.io/wp-content/uploads/2018/06/add-item-prop.png%3Fresize%3D1130%252C312%26ssl%3D1)
 
 这必须存在于应用程序中才能通过。在`App`中创建一个`addItem`属性。
 
@@ -123,7 +123,7 @@ addItem 管理列表的添加，handleInput 管理输入字段的更改。
 
 将其作为`TodoList`中的`ref = {this.props.inputElement}`。
 
-[![](../Images/528367f3bd01acbbc48039691a5419a6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4d5WhZ-l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i1.wp.com/i.gyazo.com/9908c98a865c6557a5436774adec78ef.gif%3Fssl%3D1)
+[![](img/528367f3bd01acbbc48039691a5419a6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4d5WhZ-l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i1.wp.com/i.gyazo.com/9908c98a865c6557a5436774adec78ef.gif%3Fssl%3D1)
 
 如果你现在尝试这个应用程序，你可以看到它记录了来自 addItem 的消息，然后重新加载。重新加载是表单提交的默认行为。
 
@@ -181,7 +181,7 @@ handleInput 获取事件，它从输入框中获取值，并将状态设置为�
 
 我们已经有了所有的 todos 状态，我们需要的是另一个组件，可以在屏幕上呈现这些。
 
-我们将调用这个组件`TodoItems`并将所有项目作为道具传递。 [![](../Images/8bb70bde2721dc0abc2e581e6bc5c0c3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PSsGdsgj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/reactninja.io/wp-content/uploads/2018/06/todo-items-prop.png%3Fresize%3D1234%252C216%26ssl%3D1)
+我们将调用这个组件`TodoItems`并将所有项目作为道具传递。 [![](img/8bb70bde2721dc0abc2e581e6bc5c0c3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PSsGdsgj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/reactninja.io/wp-content/uploads/2018/06/todo-items-prop.png%3Fresize%3D1234%252C216%26ssl%3D1)
 
 下面是`TodoItems`的样子…
 

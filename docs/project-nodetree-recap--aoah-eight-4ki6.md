@@ -8,7 +8,7 @@
 
 Nodetree 是我用“nodeJS”编写的第一个项目，在作为我的业余爱好者系列[冒险的一部分学习了几个星期的基础知识后，我决定跳进去实际做点什么，那就是一个名为 Nodetree 的 MySQL 编辑器。你可以试试](https://dev.to/link2twenty/adventures-of-a-hobbyist--index-4oj7)[演示](http://nodetree-mysql.herokuapp.com/)密码是`demopassword`。
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png)[ignis-pwa](https://github.com/ignis-pwa)/[node tree](https://github.com/ignis-pwa/nodetree)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png)[ignis-pwa](https://github.com/ignis-pwa)/[node tree](https://github.com/ignis-pwa/nodetree)
 
 ### 一个用 NodeJS 写的 MySQL 浏览器
 

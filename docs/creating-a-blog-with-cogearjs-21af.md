@@ -45,7 +45,7 @@ $ cogear new blog
 
 但是我已经为你准备了一个预置，包括插件和主题。
 
-## ![](../Images/375dfcc32199b4dedf2b526645c27ff7.png)[codemotion](https://github.com/codemotion)/[cogear-preset-blog](https://github.com/codemotion/cogear-preset-blog)
+## ![](img/375dfcc32199b4dedf2b526645c27ff7.png)[codemotion](https://github.com/codemotion)/[cogear-preset-blog](https://github.com/codemotion/cogear-preset-blog)
 
 ### Cogear 的博客预设。射流研究…
 
@@ -55,7 +55,7 @@ $ cogear new blog
 
 准备使用站点预设。只需从命令行克隆存储库、安装依赖项并在项目目录中运行`cogear`。
 
-[![screenshot](../Images/80adef1662f578f7e88136a298257d65.png)T2】](https://github.com/codemotion/cogear-theme-blog/raw/master/screenshot.jpg)
+[![screenshot](img/80adef1662f578f7e88136a298257d65.png)T2】](https://github.com/codemotion/cogear-theme-blog/raw/master/screenshot.jpg)
 
 # 装置
 
@@ -119,7 +119,7 @@ $ cogear
 ```
 
 你的博客准备好了:
-[![Cogear.JS blog](../Images/80adef1662f578f7e88136a298257d65.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OHfVvSnX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/codemotion/cogear-theme-blog/raw/master/screenshot.jpg)
+[![Cogear.JS blog](img/80adef1662f578f7e88136a298257d65.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OHfVvSnX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/codemotion/cogear-theme-blog/raw/master/screenshot.jpg)
 
 我已经把结果上传到:
 [https://cogear-blog . now . sh](https://cogear-blog.now.sh)
@@ -141,7 +141,7 @@ tags:
 
 干得好。保存它，浏览器页面将自动重新加载。
 
-[![Cogear.JS blog with post](../Images/218ef06c6147302ef6ee8e352f8b341c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qlHXoyJy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cg6z5a9fzdqqerakxowh.png)
+[![Cogear.JS blog with post](img/218ef06c6147302ef6ee8e352f8b341c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qlHXoyJy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cg6z5a9fzdqqerakxowh.png)
 
 结果也可以通过链接得到:
 [https://cogear-blog-with-post . now . sh](https://cogear-blog-with-post.now.sh)

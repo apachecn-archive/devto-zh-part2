@@ -61,11 +61,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 你得到这个:
 
-[![](../Images/af13dda67cbc582e65a0e2e87db824f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ScXv20v1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/jvanbruegge/articles/master/2018/cyclejs/dom-driver/no_isolation.gif)
+[![](img/af13dda67cbc582e65a0e2e87db824f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ScXv20v1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/jvanbruegge/articles/master/2018/cyclejs/dom-driver/no_isolation.gif)
 
 为什么？因为如果你看一下 DOM，你会看到有两个元素带有`.increment`类，所以任何一个都会触发事件的发射:
 
-[![](../Images/64bcff89b880f2a4b9a4cf7f729d6ad9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0irPE5s_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/jvanbruegge/articles/master/2018/cyclejs/dom-driver/dom_no_isolation.svg)
+[![](img/64bcff89b880f2a4b9a4cf7f729d6ad9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0irPE5s_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/jvanbruegge/articles/master/2018/cyclejs/dom-driver/dom_no_isolation.svg)
 
 您可以通过使用`isolate()`来解决这个问题，它将事件限定到它们的组件:
 
@@ -84,7 +84,7 @@ function main(sources) { -    const sink1 = Counter(sources);
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/335cf6a9969013be6220bc0c7f4d51c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Msja3CR0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/jvanbruegge/articles/master/2018/cyclejs/dom-driver/dom_total_isolation.svg)
+[![](img/335cf6a9969013be6220bc0c7f4d51c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Msja3CR0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/jvanbruegge/articles/master/2018/cyclejs/dom-driver/dom_total_isolation.svg)
 
 ## 搭建 API 之间的桥梁
 
@@ -98,7 +98,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们希望冒泡阶段看起来像这样:
 
-[![](../Images/a956932e9e8db90c1c5a776ca1f11daa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JU_F1Vlr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/jvanbruegge/articles/master/2018/cyclejs/dom-driver/bubbling_total_isolation.svg)
+[![](img/a956932e9e8db90c1c5a776ca1f11daa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JU_F1Vlr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/jvanbruegge/articles/master/2018/cyclejs/dom-driver/bubbling_total_isolation.svg)
 
 ## 实现自定义事件传播算法
 
@@ -309,7 +309,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如您所见，`Node`是一个元素(或`undefined`)和一个对象，包含作为键的范围和作为值的节点。如你所见，这是一个递归定义。为了更容易理解，这里有一个这样的树的示例图:
 
-[![](../Images/7da3facec1e5c4a62dfa8940b3c90177.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5uzDDPmJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/jvanbruegge/articles/master/2018/cyclejs/dom-driver/event_handling_3.svg)
+[![](img/7da3facec1e5c4a62dfa8940b3c90177.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5uzDDPmJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/jvanbruegge/articles/master/2018/cyclejs/dom-driver/event_handling_3.svg)
 
 这个树的实现细节并不重要，但是如果你感兴趣，你可以在 [GitHub](https://github.com/cyclejs/cyclejs/blob/b1197f2252b7065fd40e720f1aef2196d9ee2225/dom/src/SymbolTree.ts) 上看到。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jacoby/fighting-the-bus-factor-with-loglog4perl-3cda>
 
-[![A Bus](../Images/f23f28f5f6f07cddb337a92d992bc01a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---eMPktF0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jacoby.github.io/images/bus.jpg)【By little tung-Own work，CC BY-SA 3.0，】[https://en . Wikipedia . org/wiki/Big \ _ Blue \ _ Bus)https://commons . wikimedia . org/w/index . PHP？curid=26397084](https://en.wikipedia.org/wiki/Big%5C_Blue%5C_Bus)https://commons.wikimedia.org/w/index.php?curid=26397084)
+[![A Bus](img/f23f28f5f6f07cddb337a92d992bc01a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---eMPktF0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jacoby.github.img/bus.jpg)【By little tung-Own work，CC BY-SA 3.0，】[https://en . Wikipedia . org/wiki/Big \ _ Blue \ _ Bus)https://commons . wikimedia . org/w/index . PHP？curid=26397084](https://en.wikipedia.org/wiki/Big%5C_Blue%5C_Bus)https://commons.wikimedia.org/w/index.php?curid=26397084)
 
 听过短语[“公交因素”吗？](https://en.wikipedia.org/wiki/Bus_factor)简而言之，它关系到如果你的组织中有人“被公交车撞了”会发生什么。不一定是字面意思；换个工作就够了。
 

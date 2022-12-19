@@ -12,8 +12,8 @@
 
 当您分析一个函数的渐近特征时，您希望忽略添加的常数，以及下降系数和低阶项。例如，f(n) = 100 * n * lg(n) + n + 10000 被描述为 O( n * lg(n))，因为随着 n 趋于无穷大，常数和系数变得无关紧要。查看这些图表:
 
-[![Runtime small](../Images/8d55dec0cde96cfd588d2409c2c3445a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Xy-cnaq4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/JTjq1EC.png)
-[![Runtime large](../Images/994349bff3e90231ee86e22cf9cb3fa1.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s---4PCocuC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/ygPiblV.png)
+[![Runtime small](img/8d55dec0cde96cfd588d2409c2c3445a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Xy-cnaq4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/JTjq1EC.png)
+[![Runtime large](img/994349bff3e90231ee86e22cf9cb3fa1.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s---4PCocuC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/ygPiblV.png)
 
 如你所见，在小数据集中，大 O 符号可能不能说明全部情况，但即使从上图中的 50 到 500 个数据点，函数的渐近性质也会起作用。
 
@@ -27,11 +27,11 @@
     *   **澄清:**假设你有一个由复方程 f(n)定义的算法。你可以用一个非常简单的方程 g(n)来描述 f(n)的 big-theta 符号，这个方程去掉了所有的常数、系数和低阶项，如果你可以在 g(n)上再加两个任意常数，就可以把原始方程 f(n)夹在中间，超过一定的输入数据大小 n_o。
     *   例子:假设你的 f(n) = `100*n^2 + 4*n*lg(n)`。我们可以用下面的等式和图表证明 n^2 符合这个定义
 
-    [![Bounded](../Images/966f1552153ca05863c476ecfb1cfdc9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V9sY4Dcu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/0NIB2lH.png)
+    [![Bounded](img/966f1552153ca05863c476ecfb1cfdc9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V9sY4Dcu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/0NIB2lH.png)
 
     *   现在，如果我们试图将 f(n)与 nlgn 夹在中间，我们会看到，随着 n 的增长，f(n)不可避免地会超过上界，而不管我们设置的常数是多少:
 
-    [![Not bounded](../Images/dfdad1eadbbbed617067ad229f3019b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--axPUlXgp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/4wEwjhM.png)
+    [![Not bounded](img/dfdad1eadbbbed617067ad229f3019b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--axPUlXgp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/4wEwjhM.png)
 
     *   所以，技术上我每次调用上面的函数 big-O，我应该说的是 big-theta，即θ(n)而不是 O(n)。
 *   大 O:

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/franken/why-you-should-use-prestashop-for-your-ecommerce-site-2k31>
 
-[![](../Images/c21810e9e8935005b249889aea36739a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BrzaJDcT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.com/images/stories/why-you-should-use-prestashop-for-your-ecommerce-site.jpg)
+[![](img/c21810e9e8935005b249889aea36739a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BrzaJDcT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.cimg/stories/why-you-should-use-prestashop-for-your-ecommerce-site.jpg)
 
 Prestashop 是企业的解决方案，这些企业正在寻找一个保证高质量功能的编程平台，您可以使用它来使您的电子商务网站具有吸引力并易于操作。它是开源的，这意味着你不需要支付一分钱！
 

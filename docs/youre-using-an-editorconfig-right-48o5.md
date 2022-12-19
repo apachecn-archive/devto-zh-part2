@@ -16,7 +16,7 @@
 
 微软的 Intellicode 插件会自动从你的代码中创建一个。它试图决定你的风格。从那里你可以调整什么地方出错了，或者你想改变什么。
 
-[![Adding EditorConfig from Intellicode ](../Images/e2b1fe015d54b4b3926ca7c68a12ebf8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f7-w4LyC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/XhuPZ8k.png)
+[![Adding EditorConfig from Intellicode ](img/e2b1fe015d54b4b3926ca7c68a12ebf8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f7-w4LyC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/XhuPZ8k.png)
 
 然而，如果你的代码到处都是，那就不是最好的选择。
 

@@ -22,7 +22,7 @@
 
 开发人员不断寻求一种方法来保持长期的面向服务的策略，同时仍然保持紧张的时间表。
 
-[![](../Images/9a5a13529d0543911d7a150f68450609.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xuOMRqAf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Asn1L_Ns5eehJaVoPfAFS1A.jpeg) 
+[![](img/9a5a13529d0543911d7a150f68450609.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xuOMRqAf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Asn1L_Ns5eehJaVoPfAFS1A.jpeg) 
 
 <figcaption>有朝一日该是什么样子</figcaption>
 

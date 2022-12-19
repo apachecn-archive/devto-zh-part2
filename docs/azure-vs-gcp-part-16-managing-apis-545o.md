@@ -44,7 +44,7 @@ API 管理服务是来自微软 Azure 的答案，它提供了以下特性。
 
 Google 还提供 API 管理服务，云端点。它提供了与 Azure API 管理非常相似的功能，可以轻松地与 GCP 服务集成。
 
-[![arch](../Images/a8b1645293b647fd70932926bac8bd56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--23Wgvpm_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cloud.google.com/endpoints/docs/images/endpoints_arch.png)
+[![arch](img/a8b1645293b647fd70932926bac8bd56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--23Wgvpm_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cloud.google.com/endpoints/doimg/endpoints_arch.png)
 
 # 总结
 

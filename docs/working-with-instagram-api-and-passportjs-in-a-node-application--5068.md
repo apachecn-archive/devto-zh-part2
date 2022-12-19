@@ -10,7 +10,7 @@
 
 最终结果看起来会像这样
 
-[![](../Images/98447dfb79e75d14a5c75770bdb44c68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1DPOGyZZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hmjg8cdv2qinqwtxjs4r.png)
+[![](img/98447dfb79e75d14a5c75770bdb44c68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1DPOGyZZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hmjg8cdv2qinqwtxjs4r.png)
 
 主屏幕将只包括一个登录按钮，一旦用户使用他们的 Instagram 凭据登录，他们将看到上面的页面填充了他们的信息。
 
@@ -136,7 +136,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 作为开发人员，确保您已登录 Instagram，然后导航至[开发人员](https://www.instagram.com/developer/clients/manage/)区域，点击“注册新客户”并填写表格。
 
-[![](../Images/4a0127a84c8738cab52a829cfc1dc68c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o0m8fM9M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0pzf6a0hac96vhj0loqw.png)
+[![](img/4a0127a84c8738cab52a829cfc1dc68c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o0m8fM9M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0pzf6a0hac96vhj0loqw.png)
 
 **绝对确保**网站 URL 与你的本地主机匹配，并且“重定向 URI”与我们在上面指定的`callbackURL`匹配。
 

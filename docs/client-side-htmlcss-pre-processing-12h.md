@@ -233,7 +233,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 阅读下一篇:
 
-[![genejams](../Images/ab410dc05437d55e52306d6bb995095d.png)](/genejams) [## 准备使用渐进式 Web 应用程序模板
+[![genejams](img/ab410dc05437d55e52306d6bb995095d.png)](/genejams) [## 准备使用渐进式 Web 应用程序模板
 
 ### { Gene } Aug 13 ' 183 分钟读取
 

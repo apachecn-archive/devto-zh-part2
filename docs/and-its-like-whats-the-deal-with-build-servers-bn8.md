@@ -4,7 +4,7 @@
 
 我在我的博客上将我的 RSS 订阅改成了 medium，但是这些还是会弹出来...所以转贴(虽然我可能改了一些内容)
 
-<figure>[![](../Images/5afa29c2413aecfae27dc127c5709b7a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GkqSsNj5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AfYFYwcgI01MK_OXW)
+<figure>[![](img/5afa29c2413aecfae27dc127c5709b7a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GkqSsNj5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AfYFYwcgI01MK_OXW)
 
 <figcaption>【img IX 采矿钻机内部白色和灰色房间】由 [imgix](https://unsplash.com/@imgix?utm_source=medium&utm_medium=referral) 上 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)</figcaption>
 
@@ -24,7 +24,7 @@
 
 那么为什么你还没有一个构建服务器呢？
 
-<figure>[![](../Images/f7a205bd14444c9ef81451213396a4e7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ELd-YhCA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A4wgXFNU3ENsEoktf) 
+<figure>[![](img/f7a205bd14444c9ef81451213396a4e7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ELd-YhCA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A4wgXFNU3ENsEoktf) 
 
 <figcaption>【矩阵电影剧照】由[马库斯·斯皮斯克](https://unsplash.com/@markusspiske?utm_source=medium&utm_medium=referral)上[下](https://unsplash.com?utm_source=medium&utm_medium=referral)</figcaption>
 

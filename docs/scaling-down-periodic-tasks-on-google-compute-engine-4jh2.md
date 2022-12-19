@@ -48,7 +48,7 @@
 
 Google 的 quickstart 现在建议 SSH-ing 进入虚拟机。然而，在你这么做之前，有一个警告你应该知道，在这个 [stackoverflow 问题](https://stackoverflow.com/questions/26775492/gcloud-compute-copy-files-instance-destination)中有详细说明。本质上，通过 GCP 控制台连接将创建一个使用您的 GCP 帐户名称的用户，而通过您机器的终端连接(例如使用`gcloud compute ssh`)将使用您机器的用户名。这是有意义的，因为每个进程都使用它可以获得的任何信息，但是没有意识到这是如何工作的会导致以后令人困惑的错误。
 
-[![ssh button](../Images/6571e7c3cfd1e230a197621fcd9a384b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RaaLg7k_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cloud.google.com/docs/images/establish-ssh-connection-1.png)
+[![ssh button](img/6571e7c3cfd1e230a197621fcd9a384b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RaaLg7k_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cloud.google.com/doimg/establish-ssh-connection-1.png)
 
 也就是说，在本教程中，我们还是要在 GCP 控制台上点击漂亮闪亮的 SSH 按钮。在弹出的窗口中，您可以像在终端上一样发出命令，右上角的图标允许您将文件/目录上传到您的主目录。要了解更多选项，请参见关于文件传输到虚拟机的页面和文档[`gcloud compute ssh`](https://cloud.google.com/sdk/gcloud/reference/compute/ssh)。
 

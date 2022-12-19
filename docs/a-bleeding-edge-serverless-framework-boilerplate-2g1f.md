@@ -4,7 +4,7 @@
 
 在 [orangejellyfish](https://www.orangejellyfish.com/) 我们是[无服务器](https://serverless.com/framework/)框架的忠实粉丝，并在许多项目中使用它。随着时间的推移，我们意识到需要一个样板无服务器应用程序来节省开始时的时间，这就是我们所建立的。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)/[无服务器启动](https://github.com/orangejellyfish/serverless-starter)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)/[无服务器启动](https://github.com/orangejellyfish/serverless-starter)
 
 ### AWS Lambda 的无服务器框架初学者工具包
 

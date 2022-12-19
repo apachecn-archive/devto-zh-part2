@@ -4,7 +4,7 @@
 
 > 想要更多这样的精彩内容？注册订阅我的时事通讯，请访问:[Alec . coffee/注册](//alec.coffee/newsletter)
 
-| ![book-cover](../Images/df89eaa7a2a0cc56d71cad22222ca581.png) |
+| ![book-cover](img/df89eaa7a2a0cc56d71cad22222ca581.png) |
 
 自从 1999 年发布以来,《实用程序员》仍然具有相关性，尽管软件领域正以类似 Nascar 的速度发展。作为多年来软件开发人员的权威指南，我很兴奋也很高兴能与你分享这一点。
 

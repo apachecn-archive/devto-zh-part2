@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/blackcat_dev/online-npm-downloads-calculator-a87>
 
-[![Npm package manager](../Images/62e137ab353f268d6e0bb05d4068904d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--anU0guav--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q4a6n5pq8a2fz4xhoco5.jpeg)
+[![Npm package manager](img/62e137ab353f268d6e0bb05d4068904d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--anU0guav--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q4a6n5pq8a2fz4xhoco5.jpeg)
 
 嘿伙计们，好久不见了！
 

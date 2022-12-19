@@ -22,13 +22,13 @@
 
 ### 这谈不上什么
 
-[![What this talk is not](../Images/5a08f6b815d91a6bf26f784366067c6c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fI3Rij1P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7875ap0mdda07h53m1yd.jpg)
+[![What this talk is not](img/5a08f6b815d91a6bf26f784366067c6c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fI3Rij1P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7875ap0mdda07h53m1yd.jpg)
 
 这个演讲的设计并不太专业。对于完全不懂技术的人来说，有一些简单的方法(有些是技术不可知的，有些是 WordPress 特有的)。我们将从简单的胜利开始。
 
 ### 安全=追赶(有时)
 
-[![Security is catchup sometimes](../Images/abdc151f350589671c9790c8a5790df6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--su9Qql31--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dpp24busk8h3h5m0efge.jpg)
+[![Security is catchup sometimes](img/abdc151f350589671c9790c8a5790df6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--su9Qql31--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dpp24busk8h3h5m0efge.jpg)
 
 有时安全是一场猫捉老鼠的游戏，因为更多的黑客攻击和漏洞被发现、报告和修补。站在网络安全的最前沿是一份全职工作。正如特洛伊·亨特(T1)或 T2·斯科特·赫尔姆(T3)一样
 
@@ -40,7 +40,7 @@
 
 这个网站上还有我的另一篇文章的评论:
 
-[![dotnetcoreblog profile image](../Images/8756136f44a0bc1562d9bd8568defb6b.png) ](/dotnetcoreblog) [ Jamie ](/dotnetcoreblog) [ ![twitter](../Images/82aa32a73d0a2eadd783a8a531ea2cc3.png) ](https://twitter.com/dotNetCoreShow) [![github](../Images/029e4450541d5c4819d89a83d5315060.png)](https://github.com/GaProgMan) [<time datetime="2018-09-13T13:43:00Z">Sep 13 '18</time>](/dotnetcoreblog/comment/5eop)
+[![dotnetcoreblog profile image](img/8756136f44a0bc1562d9bd8568defb6b.png) ](/dotnetcoreblog) [ Jamie ](/dotnetcoreblog) [ ![twitter](img/82aa32a73d0a2eadd783a8a531ea2cc3.png) ](https://twitter.com/dotNetCoreShow) [![github](img/029e4450541d5c4819d89a83d5315060.png)](https://github.com/GaProgMan) [<time datetime="2018-09-13T13:43:00Z">Sep 13 '18</time>](/dotnetcoreblog/comment/5eop)
 
 想象你想偷一辆车。你一条街一辆车的检查。你寻找任何可见的入口，但是你也寻找方向盘上的任何物理锁，等等。你还需要知道哪些型号更容易热连线。
 
@@ -52,7 +52,7 @@
 
 ### 插件
 
-[![plugins](../Images/d98dbd08e5dbdfb200dfdd702a1606c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2HCi2IOa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fta4pbreiwl5h7mzpmo5.jpg)
+[![plugins](img/d98dbd08e5dbdfb200dfdd702a1606c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2HCi2IOa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fta4pbreiwl5h7mzpmo5.jpg)
 
 我们开发人员知道，总会有一个这样的库。无论是 npm 包、NuGet 包，还是只是堆栈溢出的一些代码
 
@@ -66,7 +66,7 @@
 
 ### 单一责任原则
 
-[![Single Responsibility is the best ibility](../Images/7f643119b97a0736268f72c93ee9c4f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cjbK1svn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/602xq3fskke0t6ymnpgg.jpg)
+[![Single Responsibility is the best ibility](img/7f643119b97a0736268f72c93ee9c4f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cjbK1svn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/602xq3fskke0t6ymnpgg.jpg)
 
 这与最小特权原则密切相关。基本上，如果您需要让某人或某物访问您的应用程序
 
@@ -82,7 +82,7 @@
 
 ### 多因素验证
 
-[![](../Images/84616382229cffac75bad2e8b3c1a8d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zRSm2cxd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k7ad9ak5gu5604j77yz7.jpg)
+[![](img/84616382229cffac75bad2e8b3c1a8d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zRSm2cxd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k7ad9ak5gu5604j77yz7.jpg)
 
 多因素身份验证是指您需要多种东西才能登录。传统的单因素身份验证是用户名和密码的组合——这是你知道的一件事。
 
@@ -96,7 +96,7 @@
 
 ### HTTP 如何工作
 
-[![How HTTP Works](../Images/3ee127f3fc3c91c27dfc3e90b76cfd6c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aACBlQUO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yhdlpotg9xjeezi33md6.jpg)
+[![How HTTP Works](img/3ee127f3fc3c91c27dfc3e90b76cfd6c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aACBlQUO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yhdlpotg9xjeezi33md6.jpg)
 
 作为一个非常简单的例子，假设我想加载 BBC 的主页。
 
@@ -119,7 +119,7 @@
 
 参见 Russ 的评论:
 
-[![kritner profile image](../Images/4bfae62782dfaf9a060cd303dd8a5e42.png) ](/kritner) [ Russ Hammett ](/kritner) [ ![twitter](../Images/82aa32a73d0a2eadd783a8a531ea2cc3.png) ](https://twitter.com/RLHammett) [![github](../Images/029e4450541d5c4819d89a83d5315060.png)](https://github.com/Kritner) [<time datetime="2018-10-22T23:01:16Z">Oct 22 '18</time>](/kritner/comment/6aco)
+[![kritner profile image](img/4bfae62782dfaf9a060cd303dd8a5e42.png) ](/kritner) [ Russ Hammett ](/kritner) [ ![twitter](img/82aa32a73d0a2eadd783a8a531ea2cc3.png) ](https://twitter.com/RLHammett) [![github](img/029e4450541d5c4819d89a83d5315060.png)](https://github.com/Kritner) [<time datetime="2018-10-22T23:01:16Z">Oct 22 '18</time>](/kritner/comment/6aco)
 
 > 加密消息并不容易，因为我和 BBC 服务器之间的人可以获得用于加密消息的密钥。但是他们必须从一开始就关注这些请求，这并不容易做到。
 
@@ -129,7 +129,7 @@
 
 ### 让我们加密
 
-[![Let's Encrypt](../Images/8481481878608e06135885bbfd4f8e15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---iCseMYF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qhdxqhv4au65tt8v8yi8.png)
+[![Let's Encrypt](img/8481481878608e06135885bbfd4f8e15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---iCseMYF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qhdxqhv4au65tt8v8yi8.png)
 
 不管你对大牌认证机构的感觉如何，他们最近犯了一些大错误。Symantech 制造了许多严重的犯规，这意味着他们已经退出了 CS 行业。
 
@@ -145,7 +145,7 @@ Let's Encrypt 是一项提供 TLS 的免费服务
 
 ### 子资源完整性
 
-[![SRI in action](../Images/41676829884299196845e27e440e393b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nh67uWXV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yrbo3q37gv67inubk9sk.jpg)
+[![SRI in action](img/41676829884299196845e27e440e393b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nh67uWXV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yrbo3q37gv67inubk9sk.jpg)
 
 每当你访问一个网页，就会有大量的 HTML 文件被发送到你的浏览器。那个 HTML
 
@@ -163,7 +163,7 @@ SRI 本质上是文件内容的散列。当您在 HTML 页面中包含一个脚�
 
 ### 内容安全策略
 
-[![Content Security Policy](../Images/0543498733498d08fec543402fae98d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FHd4Tlci--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mk7jpjkovuu8l58iuy4q.jpg)
+[![Content Security Policy](img/0543498733498d08fec543402fae98d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FHd4Tlci--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mk7jpjkovuu8l58iuy4q.jpg)
 
 有一个老程序员的笑话是这样的:
 
@@ -223,7 +223,7 @@ content-security-policy:
 
 ### 安全报头
 
-[![Secure Headers](../Images/b609df32f71e6764ef901675994fc0c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J-78pbkN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wkxyo1gxav0zqfxpfabc.jpg)
+[![Secure Headers](img/b609df32f71e6764ef901675994fc0c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J-78pbkN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wkxyo1gxav0zqfxpfabc.jpg)
 
 这些是在网络服务器或反向代理级别(如 CSP)添加的东西，旨在使您的网站和网络应用程序对最终用户更加安全。
 

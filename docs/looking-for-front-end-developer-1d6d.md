@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/adultchain/looking-for-front-end-developer-1d6d>
 
-[![Looking For Front End PHP Dev](../Images/f8befef1ef580109014206d296559932.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LkeaqwYW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x4vu9l087mitfoe5fuho.png)
+[![Looking For Front End PHP Dev](img/f8befef1ef580109014206d296559932.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LkeaqwYW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x4vu9l087mitfoe5fuho.png)
 
 ### 为直播流媒体成人娱乐平台
 

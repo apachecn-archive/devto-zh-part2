@@ -22,7 +22,7 @@ JSON 和 JavaScript 彼此相爱……它们之间的交互是完全自然的，
 
 是时候了解一下:
 
-[![equiman](../Images/ebe835e1ec966206e00a01bb329a3e86.png)](/equiman) [## 如何在 JSON 中进行 CRUD 操作
+[![equiman](img/ebe835e1ec966206e00a01bb329a3e86.png)](/equiman) [## 如何在 JSON 中进行 CRUD 操作
 
 ### 卡米洛马丁内斯 9 月 23 日 182 分钟阅读
 
@@ -33,4 +33,4 @@ JSON 和 JavaScript 彼此相爱……它们之间的交互是完全自然的，
 **都是乡亲们！**
 **快乐编码** 🖖
 
-[![beer](../Images/192892baef71a32ea4a5e98a4927b05e.png)T2】](https://github.com/sponsors/deinsoftware)
+[![beer](img/192892baef71a32ea4a5e98a4927b05e.png)T2】](https://github.com/sponsors/deinsoftware)

@@ -198,7 +198,7 @@ async onSubmit(event: Event) {
 
 别忘了检查第二部分！
 
-[![tunaxor image](../Images/9fc0ccc03f174352a3818a350d5c15fc.png)](/tunaxor) [## 模板化 web 组件编译器...第二部分！
+[![tunaxor image](img/9fc0ccc03f174352a3818a350d5c15fc.png)](/tunaxor) [## 模板化 web 组件编译器...第二部分！
 
 ### 安吉尔·穆尼奥斯 8 月 31 日 181 分钟阅读
 

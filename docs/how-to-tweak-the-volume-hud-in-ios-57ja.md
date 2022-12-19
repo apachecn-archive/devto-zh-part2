@@ -22,9 +22,9 @@ iOS 音量变化 HUD 是一个巨大的不可交互的圆角矩形弹出窗口�
 
 在这里或 youtube 视频下方分享您的反馈。
 
-快乐编码 [![😉](../Images/b26450942c7c42752fe0b02f126abb48.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fumfYCPq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f609.png)
+快乐编码 [![😉](img/b26450942c7c42752fe0b02f126abb48.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fumfYCPq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f609.png)
 
- [![Damodar Shenoy's DEV Profile](../Images/864c8cf24c0550953b8fad29c1ebfb59.png)
+ [![Damodar Shenoy's DEV Profile](img/864c8cf24c0550953b8fad29c1ebfb59.png)
 
 T6】](https://dev.to/itscoderslife)
 

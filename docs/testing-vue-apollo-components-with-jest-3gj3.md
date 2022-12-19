@@ -42,9 +42,9 @@ Enter fullscreen mode Exit fullscreen mode
 
 起初，当我搜索任何关于如何测试 vue-apollo 查询和变异的提示时，我发现了 vue-apollo 作者 Guillaume Chau 的评论
 
-# [![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) 评论为 #244](https://github.com/vuejs/vue-apollo/issues/244#issuecomment-375646919) 
+# [![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) 评论为 #244](https://github.com/vuejs/vue-apollo/issues/244#issuecomment-375646919) 
 
-[![Akryum avatar](../Images/dee04295310bdab7e5dc4315009f66f4.png)](https://github.com/Akryum) **[Akryum](https://github.com/Akryum)** commented on [<time datetime="2018-03-23T12:14:49Z">Mar 23, 2018</time>](https://github.com/vuejs/vue-apollo/issues/244#issuecomment-375646919)
+[![Akryum avatar](img/dee04295310bdab7e5dc4315009f66f4.png)](https://github.com/Akryum) **[Akryum](https://github.com/Akryum)** commented on [<time datetime="2018-03-23T12:14:49Z">Mar 23, 2018</time>](https://github.com/vuejs/vue-apollo/issues/244#issuecomment-375646919)
 
 如果你还没有的话，我推荐你使用 [vue 测试工具](https://vue-test-utils.vuejs.org/)。然后你要嘲讽一切和阿波罗有关的东西。如果您有疑问，只需使用`wrapper.setData`。如果你有突变，像这样嘲笑他们:
 

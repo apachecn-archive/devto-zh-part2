@@ -22,7 +22,7 @@
 
 “你赢得了 WWDC18 奖学金。”
 
-[![The Email](../Images/1108902265ff891d7ccfe07d25f9533d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1AYguNuE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ejthuob46jt7cay736iy.png)
+[![The Email](img/1108902265ff891d7ccfe07d25f9533d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1AYguNuE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ejthuob46jt7cay736iy.png)
 
 我在这件事上拼命工作，我得到的每一个空闲时间都致力于建立我的提交。
 

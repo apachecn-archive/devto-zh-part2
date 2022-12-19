@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/moklavie/django-api---list-of-states-from-different-countries-3cad>
 
-[![Django API - States of All Countries](../Images/61c213a4794beda09577ff0698fc656e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DrbfdikC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/lSuahZG.png)
+[![Django API - States of All Countries](img/61c213a4794beda09577ff0698fc656e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DrbfdikC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/lSuahZG.png)
 **【TL:DR】**
 我在搜索每个国家的州列表。有一些 API 项目有助于揭示不同国家的货币、纬度/经度、语言和时区。然而，很少有免费简单的 API 可以简单地生成状态列表。所以我做了一个！
 

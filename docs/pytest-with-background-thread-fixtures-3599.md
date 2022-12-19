@@ -12,7 +12,7 @@
 
 ### tcp_server.py
 
-<figure>[![](../Images/486c760b60abf1721ec23a576a2a2f32.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0gyJsRYr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A2H1Kvh6RfkFtMUh-fXJuEg.png)
+<figure>[![](img/486c760b60abf1721ec23a576a2a2f32.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0gyJsRYr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A2H1Kvh6RfkFtMUh-fXJuEg.png)
 
 <figcaption>TCP _ server . py</figcaption>
 
@@ -24,7 +24,7 @@
 
 ### [T1】test _ example . py](#testexamplepy)
 
-<figure>[![](../Images/28d44c0bec51580078de8ca0e678358a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4H7UXVTy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2APfeX25OzVkHyYoa4Ffv00A.png)
+<figure>[![](img/28d44c0bec51580078de8ca0e678358a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4H7UXVTy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2APfeX25OzVkHyYoa4Ffv00A.png)
 
 <figcaption>test _ example . py</figcaption>
 

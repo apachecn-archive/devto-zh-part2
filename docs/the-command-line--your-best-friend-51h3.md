@@ -16,7 +16,7 @@
 
 首先，让我告诉你我是如何得知我将要与你分享的内容的。一切都是从我在一家创业公司做暑期实习开始的。我是一名寻求某种真实世界体验的学生，所以我并不真正熟悉命令行。首席技术官(CTO)向我展示了如何在我运行 Linux 的笔记本电脑上安装一个类似雷神之锤的控制台(在雷神之锤视频游戏中，当你按下“\”键时，控制台就会自动关闭)。然后，他让我安装 *oh-my-zsh* ，这个我会在这篇文章后面讲到。
 
-[![](../Images/6cfbaa437b42c3bf1daabe9f90b04584.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lb9jOjJf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/637/1%2A8_M_UVHiOx6CfY8tgl-mnA.png) 
+[![](img/6cfbaa437b42c3bf1daabe9f90b04584.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lb9jOjJf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/637/1%2A8_M_UVHiOx6CfY8tgl-mnA.png) 
 
 <figcaption>雷神之锤游戏中的主机</figcaption>
 
@@ -42,19 +42,19 @@
 
 *   **Mac** : [iTerm](https://www.iterm2.com/)
 
-[![](../Images/0732b69961795ff3eb9c72db609e41ff.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NeQN1rhR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AyRnyT30la5AukGoDkzG2_Q.png) 
+[![](img/0732b69961795ff3eb9c72db609e41ff.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NeQN1rhR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AyRnyT30la5AukGoDkzG2_Q.png) 
 
 <figcaption>运行在自己 Macbook Pro 上的 Iterm2】</figcaption>
 
 *   **Linux** : [瓜科](http://guake-project.org/)
 
-[![](../Images/75221632449493f2007788a677fc421a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--smRCvPeI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AdirfG6Rb4J3hbxc0aRjAHQ.jpeg) 
+[![](img/75221632449493f2007788a677fc421a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--smRCvPeI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AdirfG6Rb4J3hbxc0aRjAHQ.jpeg) 
 
 <figcaption>运行在 Ubuntu 上的 Guake。来源:【https://www.flickr.com/photos/xmodulo/14285529772】</figcaption>
 
 *   **窗户** : [科内姆](https://conemu.github.io/)
 
-[![](../Images/3c8240a73add54714dd8646c2b196344.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PuCBM3oU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/672/1%2ASCiK5lLCZjdlEAOY7CkBrg.png) 
+[![](img/3c8240a73add54714dd8646c2b196344.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PuCBM3oU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/672/1%2ASCiK5lLCZjdlEAOY7CkBrg.png) 
 
 <figcaption>运行在 Windows 上的 ConEmu。来源:[https://commons . wikimedia . org/wiki/File:ConEmu _ snapshot . png](https://commons.wikimedia.org/wiki/File:ConEmu_screenshot.png)</figcaption>
 
@@ -104,7 +104,7 @@
 
 看看这是怎么回事…
 
-[![](../Images/340d23e664af6b0eef255bf87b218a6c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pRf_KzQ5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Au2PYNP6CFuwhMdG4sbLW8g.gif) 
+[![](img/340d23e664af6b0eef255bf87b218a6c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pRf_KzQ5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Au2PYNP6CFuwhMdG4sbLW8g.gif) 
 
 <figcaption>用 git 搭配 oh-my-zsh</figcaption>
 
@@ -112,13 +112,13 @@
 
 也许你已经知道，当你正在键入一个命令时，如果你按下 *TAB* 键，终端将试图完成你的命令。这已经是很酷的事情了。但是……*Z Shell*和 *oh-my-zsh* 将这种自动完成功能带到了另一个新的高度。没错，它可以帮助你，例如，完成一个文件夹名称，即使你在中间开始键入一个单词。如果有多个选项可用，您可以使用*选项卡*键浏览可用选项。
 
-[![](../Images/7d3e45c862136f604370c9b6728562a7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--feiyvTFp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AschkIWY2CsGb7VSt_bS5DA.gif) 
+[![](img/7d3e45c862136f604370c9b6728562a7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--feiyvTFp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AschkIWY2CsGb7VSt_bS5DA.gif) 
 
 <figcaption>文件夹和文件的自动完成功能</figcaption>
 
 另一个令人敬畏的自动完成级别，与一些软件开发工具有关。你有几个插件来帮助你自动完成一些特定的工具命令。例如，如果你使用 *nodejs* ，你将会使用很多 *npm* 命令，比如 *npm install* 。
 
-[![](../Images/cc5613697e3c9a68ad594f2e78877e07.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FSsqPheB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AGwySiHrVJzHoISnYlJ3Dqg.gif)
+[![](img/cc5613697e3c9a68ad594f2e78877e07.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FSsqPheB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AGwySiHrVJzHoISnYlJ3Dqg.gif)
 
 > 因为你知道，开发者很懒，所以他们会尽量避免去写。
 
@@ -132,7 +132,7 @@
 
 > 命令行和其他开发工具一样重要
 
-[![](../Images/0c11b4d0f6134e0519c72613a305e8ba.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_-rho6_A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ACioB717snwMtfEBeomP01A.gif) 
+[![](img/0c11b4d0f6134e0519c72613a305e8ba.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_-rho6_A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ACioB717snwMtfEBeomP01A.gif) 
 
 <figcaption>拿命令行开心:)</figcaption>
 

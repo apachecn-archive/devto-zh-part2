@@ -4,7 +4,7 @@
 
 检查[这个](https://pranayrauthu.github.io/fetcher/) webapp，为 http 请求生成代码。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [普拉纳劳图](https://github.com/pranayrauthu) / [费彻](https://github.com/pranayrauthu/fetcher)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [普拉纳劳图](https://github.com/pranayrauthu) / [费彻](https://github.com/pranayrauthu/fetcher)
 
 ### http 请求代码生成器
 

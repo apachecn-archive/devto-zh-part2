@@ -10,7 +10,7 @@
 
 我做的第一件事是创建一些瓷砖和一个基本的地图！
 
-[![The world](../Images/def00cbea29be8e211e2fd81172c4d88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YC2a0lB3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5goev048sn8jrlwl0cpg.png)
+[![The world](img/def00cbea29be8e211e2fd81172c4d88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YC2a0lB3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5goev048sn8jrlwl0cpg.png)
 
 我想我要用这个地方来分享我的进步！
 

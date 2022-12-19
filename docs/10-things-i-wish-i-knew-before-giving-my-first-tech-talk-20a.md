@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/joshghent/10-things-i-wish-i-knew-before-giving-my-first-tech-talk-20a>
 
-<figure>[![](../Images/f79520beeb40e8641887470b8101390c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ua4asm_Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AdaEnluv-aaSXHmkD) 
+<figure>[![](img/f79520beeb40e8641887470b8101390c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ua4asm_Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AdaEnluv-aaSXHmkD) 
 
 <figcaption>给予说话—信用</figcaption>
 
@@ -22,7 +22,7 @@
 
 准备花了很长时间的部分原因是我想确保我说的每一个字都是 100%具体的——以防有人抓住我，把整个演讲撕成碎片。例如，我演讲的一部分谈到了 [NodeJS 事件循环](https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c)。虽然我大致知道事件循环是如何工作的，但仍有一些问题我不知道。我想也许有人会问我关于节点事件循环的问题，因此，我开始深入兔子洞进行探索。这种模式至少出现了 6-7 次，占据了我大部分时间。
 
-<figure>[![](../Images/7db38c7b65a1ae23dbb9e88f46c7d7a8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uzatcuHr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/400/1%2AqO8ucAj7rpUXP_tD3W1A9Q.png) 
+<figure>[![](img/7db38c7b65a1ae23dbb9e88f46c7d7a8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uzatcuHr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/400/1%2AqO8ucAj7rpUXP_tD3W1A9Q.png) 
 
 <figcaption>我为节点 js 集群创建的图像</figcaption>
 
@@ -38,7 +38,7 @@
 
 这是我在演讲后学到的一课。不是每一点都值得同样多的时间。在难以理解的话题上多花些时间，轻松地解决小问题。这里经常有一个沉没成本的谬论，你花了很多时间准备所有的幻灯片，所以它们应该有自己的仪式。我们应该努力摆脱这种想法，取而代之的是对所涉及的要点进行优先排序。仔细排列你的要点可以帮助你做到这一点。没有人想一口气被一大堆沉重的话题轰炸，所以把它们分散开来，用更小、更轻松的话题来穿插。
 
-<figure>[![](../Images/84393c5ed18397f8c93b42c7accb611f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MudcGCtc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/320/0%2A8H9OLV-pu8qsvO4e) 
+<figure>[![](img/84393c5ed18397f8c93b42c7accb611f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MudcGCtc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/320/0%2A8H9OLV-pu8qsvO4e) 
 
 <figcaption>你的交货可有点木讷！</figcaption>
 
@@ -48,7 +48,7 @@
 
 练习你的演讲当然是必要的，但是你可以练习太多。在某一点上，你的表达会变得过于照本宣科或呆板。不要试图去记忆一个脚本，记住你所涉及的要点。那就说吧。如果你有这方面的知识，这将会产生结果。此外，从内心而不是从笔记中说话会以不同的方式改变你的谈话。我发现在练习我的演讲时，我每次都会用不同的方式，增加趣闻轶事和谈话要点，删减他人。这是在无意识的水平上完成的，如果我逐字逐句地背诵就不会实现。
 
-<figure>[![](../Images/e428966f892636fc2ebeb49cd46b3489.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qrzQCcru--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2Ap-iyI1WhYQGJUMQ2) 
+<figure>[![](img/e428966f892636fc2ebeb49cd46b3489.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qrzQCcru--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2Ap-iyI1WhYQGJUMQ2) 
 
 <figcaption>有一个 NPM 模块就是为了那个——[https://twitter.com/iamdevloper/status/487606612757315584](https://twitter.com/iamdevloper/status/487606612757315584)</figcaption>
 

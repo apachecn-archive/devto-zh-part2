@@ -80,13 +80,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 只需等到所有东西都安装好:
 
-[![](../Images/7758744c437bf831f2006d78a9f5ca84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pSnEoJ0U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p98quqngb9bv8ru52bkm.png)
+[![](img/7758744c437bf831f2006d78a9f5ca84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pSnEoJ0U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p98quqngb9bv8ru52bkm.png)
 
 ## 8。掌握 vim: NerdTree 是你的朋友
 
 我在 step 7 中告诉你的一个插件是 [NerdTree](https://github.com/scrooloose/nerdtree) ，它可以让你打开当前目录，浏览文件，添加/重命名/删除/移动/复制文件等等。是不是很酷？。
 
-[![](../Images/dcff006a50e334bc15d802f215ee73ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PMc-BEUh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9tag38pxlfyfvqulmk5k.png)
+[![](img/dcff006a50e334bc15d802f215ee73ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PMc-BEUh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9tag38pxlfyfvqulmk5k.png)
 
 要使用它，打开 *vim* 并输入:
 
@@ -110,7 +110,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 最后，要对目录或文件进行操作(移动、复制、删除等)，打开 *NerdTree* ，将光标移动到你想要的目录或文件，然后按`m`:
 
-[![](../Images/c44823610f302c5a631626c751c6ea5d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XN4Bo1WQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/071l7d3kosglh8gakn2v.png)
+[![](img/c44823610f302c5a631626c751c6ea5d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XN4Bo1WQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/071l7d3kosglh8gakn2v.png)
 
 选择您想要的选项。
 
@@ -129,17 +129,17 @@ Enter fullscreen mode Exit fullscreen mode
 
 重启 *vim* ，现在按`Ctrl-w + -`水平分割当前窗口:
 
-[![](../Images/d7dde0bfcad10ab53889416c550ec860.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oXS8rzB6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jwyew58k9ojt9m16e1pn.png)
+[![](img/d7dde0bfcad10ab53889416c550ec860.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oXS8rzB6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jwyew58k9ojt9m16e1pn.png)
 
 和`Ctrl-w + |`(竖线字符)垂直分割当前窗口:
 
-[![](../Images/1e1a9dea8c4ed6b01b4ab190969b9e34.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hNa9FH1G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sk2y62efchsj15quad0g.png)
+[![](img/1e1a9dea8c4ed6b01b4ab190969b9e34.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hNa9FH1G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sk2y62efchsj15quad0g.png)
 
 要在面板之间切换，只需按两次`Ctrl+ w`。要关闭面板，只需按下`Ctrl-w + c`。
 
 现在，混合使用 *NerdTree* 和窗口分割来打开你想要的文件！
 
-[![](../Images/c1dbb4b29d65c387ade56a46a5408dcb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MzanJDm1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oigfmnpr4keskv91a143.png)
+[![](img/c1dbb4b29d65c387ade56a46a5408dcb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MzanJDm1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oigfmnpr4keskv91a143.png)
 
 ## 10。掌握 vim:删除文件缓冲区
 
@@ -234,11 +234,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 重启 *vim* ，打开任意文件:
 
-[![](../Images/634a3b76db54f7f1ef776d7b4e059deb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7Qzsu3iC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5j2yv9r8vj5be1nboc4z.png)
+[![](img/634a3b76db54f7f1ef776d7b4e059deb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7Qzsu3iC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5j2yv9r8vj5be1nboc4z.png)
 
 按下`Ctrl-w + b`和**就这样**！
 
-[![](../Images/46a460bc7b8b34ad54b94c3ba9020762.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YLGx0ZvX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/69fspgbha3ch0myp0p1y.png)
+[![](img/46a460bc7b8b34ad54b94c3ba9020762.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YLGx0ZvX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/69fspgbha3ch0myp0p1y.png)
 
 伙计们，就这样吧。
 

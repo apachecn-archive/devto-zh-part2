@@ -6,4 +6,4 @@
 
 [PostgreSQL:Vacuum/auto Vacuum](https://www.smoothterminal.com/articles/vacuum-autovacuum)
 
-[![PostgreSQL](../Images/a03b8a2051df94a91c2ea95df876a40a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PisG-_xc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hostonnet.com/wp-content/uploads/2013/06/postgresql.png)
+[![PostgreSQL](img/a03b8a2051df94a91c2ea95df876a40a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PisG-_xc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hostonnet.com/wp-content/uploads/2013/06/postgresql.png)

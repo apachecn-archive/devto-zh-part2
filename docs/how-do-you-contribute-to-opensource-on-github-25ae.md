@@ -16,4 +16,4 @@
 
 为了做出贡献，我必须先派生和克隆 PR，在此之前，我必须玩一会儿代码，那么，你如何为 GitHub 上的开源做出贡献呢？
 
-[![PhaserJS commits in Gitkraken by direct cloning](../Images/43d51dad743ad78d20eaa9a0bf4eb448.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2E4z0U7G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/prgmf35ydmy7lupmgd2r.gif)
+[![PhaserJS commits in Gitkraken by direct cloning](img/43d51dad743ad78d20eaa9a0bf4eb448.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2E4z0U7G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/prgmf35ydmy7lupmgd2r.gif)

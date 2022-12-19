@@ -21,4 +21,4 @@
 另一方面，我也开始了社交之旅。我与世界分享的旅程。我相信错误已经在形成，但我准备与你们分享它们。我还希望，如果你们中的一些人有经营传统服务公司的经验，你们会给我一些提示，告诉我应该做什么，更重要的是，不应该做什么。
 
 PS:我们已经有了几个客户(正在秘密运行这个)，我对我在周末整理的登陆页面的第一个高峰感到非常兴奋:
-[![landing page](../Images/3bf22f6631deac8840b9ce0c0f422cc9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--spyka4Z7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4420ytcc4akheiln5s7k.png)
+[![landing page](img/3bf22f6631deac8840b9ce0c0f422cc9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--spyka4Z7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4420ytcc4akheiln5s7k.png)

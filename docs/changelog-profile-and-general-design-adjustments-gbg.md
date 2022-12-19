@@ -6,11 +6,11 @@
 
 我们受到了开发组合网站/页面上的一些帖子的启发
 
-[![amandasopkin](../Images/59966bb94b02f8ec51331baaeac073c5.png)](/amandasopkin) [## 奇妙的个人网站以及如何制作它们
+[![amandasopkin](img/59966bb94b02f8ec51331baaeac073c5.png)](/amandasopkin) [## 奇妙的个人网站以及如何制作它们
 
 ### 阿曼达·索普金 2 月 7 日 186 分钟阅读
 
-#career #beginners](/amandasopkin/fantastic-personal-websites-and-how-to-make-them--22om)[![flexdinesh](../Images/ecb6dc2da1bf85c037ac132f5ed867ea.png)](/flexdinesh) [## 用 GitHub 页面创建你的开发者登陆页面🎉
+#career #beginners](/amandasopkin/fantastic-personal-websites-and-how-to-make-them--22om)[![flexdinesh](img/ecb6dc2da1bf85c037ac132f5ed867ea.png)](/flexdinesh) [## 用 GitHub 页面创建你的开发者登陆页面🎉
 
 ### dinesh pandi Yan 3 月 9 日 182 分钟读取
 

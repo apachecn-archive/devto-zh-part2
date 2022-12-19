@@ -4,7 +4,7 @@
 
 > 这篇文章最初发表在我的个人博客 [Smakosh](https://smakosh.com/blog) 上。
 
-[![](../Images/9b158c2c773a82f73b18ca339365e43b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--38_4h55s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a00biu17x6ev2bplwj27.jpg)
+[![](img/9b158c2c773a82f73b18ca339365e43b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--38_4h55s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a00biu17x6ev2bplwj27.jpg)
 
 还记得上次我和你分享我的故事吗[当我拒绝了前端开发人员的工作邀请](https://smakosh.com/getting-my-first-job-offer)然后[在一次黑客马拉松](https://smakosh.com/first-time-first-prize)中赢得了第一名，这很好笑，因为我在 36 个小时而不是 30 天&每天工作 8 小时后得到了他们给我的同样多的钱？
 

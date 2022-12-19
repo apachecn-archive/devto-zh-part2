@@ -8,7 +8,7 @@
 
 [PHP XML 阅读器示例](https://www.skptricks.com/2018/04/php-xml-reader-example.html)
 
-[![](../Images/f55b72ecaf807f448f9d13f7d6830610.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aaT0ATeN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://2.bp.blogspot.com/-1309kYe_Mpg/Wt1eMN6HNXI/AAAAAAAABhM/Hq0TAhsYfXIHCO86i1Lt_ih5HFjfA-bagCLcBGAs/s320/xml.jpg)
+[![](img/f55b72ecaf807f448f9d13f7d6830610.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aaT0ATeN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://2.bp.blogspot.com/-1309kYe_Mpg/Wt1eMN6HNXI/AAAAAAAABhM/Hq0TAhsYfXIHCO86i1Lt_ih5HFjfA-bagCLcBGAs/s320/xml.jpg)
 
 XMLReader 扩展最初是 PHP 5 的 PECL 扩展。从 PHP 5.1.0 开始，它被转移到 PHP 源代码包中，从 PHP 5.1.2 开始，它被默认启用
 

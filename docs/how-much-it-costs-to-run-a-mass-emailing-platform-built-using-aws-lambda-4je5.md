@@ -18,7 +18,7 @@
 
 **$0.023 * 24 小时* 30 天* 12 个月= $198.72**
 
-[![IMAGE](../Images/45e1aff1635e74fde2309113a6282710.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---JaSmVgQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.simform.com/wp-content/uploads/2018/08/Serverless-Email-Example-using-SES.png)
+[![IMAGE](img/45e1aff1635e74fde2309113a6282710.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---JaSmVgQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.simform.com/wp-content/uploads/2018/08/Serverless-Email-Example-using-SES.png)
 
 借助 AWS Lambda 和简单的电子邮件服务 SES，我们构建了一个内部且经济高效的解决方案。它是这样工作的，
 

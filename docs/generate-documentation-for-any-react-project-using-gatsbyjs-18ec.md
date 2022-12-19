@@ -6,7 +6,7 @@
 
 以 [docblocks](http://usejsdoc.org/) 的形式编写与组件内联的文档，并使用 [MDX](https://github.com/mdx-js/mdx) 添加更深入的描述+实例。查看这里的[演示。](https://gatsby-documentation-starter.netlify.com)
 
-[![Screenshot of the demo website](../Images/aa24b667f4b84fc4d5dd3ad2c70880c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--slXmZmnV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.hashnode.com/res/hashnode/image/upload/v1537566954609/HJQeFkmtX.png)
+[![Screenshot of the demo website](img/aa24b667f4b84fc4d5dd3ad2c70880c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--slXmZmnV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.hashnode.com/res/hashnode/image/upload/v1537566954609/HJQeFkmtX.png)
 
 如果你的代码已经被*记录在案，并且你的组件位于`src/components`——那么**你就可以开始了！**将这个项目克隆到你的代码库中，然后*让它裂开吧！*🚀*
 
@@ -16,7 +16,7 @@
 
 **用 Netlify 安装**
 
-1.  [![Deploy to Netlify](../Images/cf684e295a7d6d8caa5d339b5a4a6fa6.png)T2】](https://app.netlify.com/start/deploy?repository=https://github.com/whoisryosuke/gatsby-documentation-starter/tree/example)
+1.  [![Deploy to Netlify](img/cf684e295a7d6d8caa5d339b5a4a6fa6.png)T2】](https://app.netlify.com/start/deploy?repository=https://github.com/whoisryosuke/gatsby-documentation-starter/tree/example)
 
 **用 Gatsby CLI 安装**
 

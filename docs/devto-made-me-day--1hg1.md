@@ -6,7 +6,7 @@
 
 当我在网站上寻找灵感时，我失去了连接，我不得不说，离线页面真的很酷。
 
-[![offline-page](../Images/cf8c602daadec26df2d2b0b7ae6a3386.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OI8pMmIG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ez266x2sh37654m1k68s.png)
+[![offline-page](img/cf8c602daadec26df2d2b0b7ae6a3386.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OI8pMmIG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ez266x2sh37654m1k68s.png)
 
 最近刚刚了解了服务人员，我真的很感激它是多么有用。突然下线并没有让我感到沮丧，(请注意，我的 WiFi 已经满了——或者，我应该说，LieFi)，这个意想不到的机智信息让我感觉比继续搜索更好😅。
 

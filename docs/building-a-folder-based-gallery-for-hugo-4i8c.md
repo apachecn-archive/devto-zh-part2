@@ -72,6 +72,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 样品
 
-[![](../Images/bf3544c212a99a08658cc7df40122952.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XBGBaI04--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9ctf6sxaksoxvb94e8vr.jpg)
+[![](img/bf3544c212a99a08658cc7df40122952.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XBGBaI04--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9ctf6sxaksoxvb94e8vr.jpg)
 
 最初发布于[希腊开发商](https://greekdeveloper.com/post/2018/2018-08-29-hugo-gallery-shortcode)

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/prelias/a-arte-de-levantar-e-definir-requisitos-de-software-4676>
 
-[![](../Images/eac68c3c6fce1b1d925407c0920721f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gVmH95Ud--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://2.bp.blogspot.com/_jppV2Yd1MPk/Sw8J4BZYfmI/AAAAAAAABcw/N-oK0uihIFY/s1600/project_sw.jpg)
+[![](img/eac68c3c6fce1b1d925407c0920721f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gVmH95Ud--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://2.bp.blogspot.com/_jppV2Yd1MPk/Sw8J4BZYfmI/AAAAAAAABcw/N-oK0uihIFY/s1600/project_sw.jpg)
 
 我是职能分析师、需求分析师或*产品拥有者*已经很久了。尽管有这么多名字，但即使是在多年前我还是产品分析师时，我的大部分角色已经是:提出和分析要求，最重要的是提出解决方案。
 

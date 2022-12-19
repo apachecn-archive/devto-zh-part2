@@ -63,7 +63,7 @@ Dev 带来**出色的用户体验**在搜索/浏览时，今天我在搜索无�
 
 举例:你觉得左边和右边哪个更好？
 
-[![ui](../Images/9eaa4c8091c035d20da55d0abbb08cca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QcG3r4tr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bethi92q0su6g02oylbh.png)
+[![ui](img/9eaa4c8091c035d20da55d0abbb08cca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QcG3r4tr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bethi92q0su6g02oylbh.png)
 
 ## 我希望没有看到的东西
 

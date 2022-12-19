@@ -31,7 +31,7 @@ io.sockets.on() ; //initial connection from a client.
 
 用户输入从简单的 HTML 输入表单开始。
 
-[![image](../Images/764750fb24f2a5c5c71c8cf89a6e4fca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GYhxeNPY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rlhtbv4j7to9ojrml7x2.png)
+[![image](img/764750fb24f2a5c5c71c8cf89a6e4fca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GYhxeNPY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rlhtbv4j7to9ojrml7x2.png)
 
 你可以从三个地方入手。
 

@@ -6,8 +6,8 @@
 
 本教程将带您完成使用 React 和 Cloudinary 构建离线渐进式 Web 应用程序(PWA)相机应用程序的过程，该应用程序可以用您的相机拍照，然后将其上传到您的 Cloudinary 媒体库。该应用程序的一个了不起的功能是，当你离线时，应用程序会将你的图像存储在浏览器的本地存储中(`localStorage`)。一旦互联网连接可用，该应用程序会自动将所有保存的图片上传到 Cloudinary 上的媒体库。
 
-[![CloudyCam in Online Mode](../Images/6f692ecaf769c083d5bdbec0e70f1d5b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jez0w_66--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536456626058_ezgif.com-video-to-gif.gif)
-[![CloudyCam in Offline Mode](../Images/8f770d94e4ffdb65a076a77777ac50b3.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--ap9_mIhh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536456664229_ezgif.com-video-to-gif%2B1.gif)
+[![CloudyCam in Online Mode](img/6f692ecaf769c083d5bdbec0e70f1d5b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jez0w_66--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536456626058_ezgif.com-video-to-gif.gif)
+[![CloudyCam in Offline Mode](img/8f770d94e4ffdb65a076a77777ac50b3.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--ap9_mIhh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536456664229_ezgif.com-video-to-gif%2B1.gif)
 
 ## 安装先决条件
 
@@ -49,7 +49,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 上面的命令在`http://localhost:3000`上启动一个开发服务器。在浏览器上导航到该 URL 会显示 React 应用程序:
 
-[![Simple React Application](../Images/8acd0fab28b42f61167212d49b6d43b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jVxw6Mg7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536456849174_Screen%2BShot%2B2018-09-09%2Bat%2B1.33.44%2BAM.png)
+[![Simple React Application](img/8acd0fab28b42f61167212d49b6d43b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jVxw6Mg7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536456849174_Screen%2BShot%2B2018-09-09%2Bat%2B1.33.44%2BAM.png)
 
 ## 创建一个`Webcam`类
 
@@ -330,8 +330,8 @@ Enter fullscreen mode Exit fullscreen mode
 
 之后，在浏览器上转到`http://localhost:3000`显示应用程序。切换您的互联网连接，您将看到两个版本中的一个，这取决于您是在线还是离线(见下文)。
 
-[![Application View in Online Mode](../Images/e4c7aff115b54ca901e16d4ee18c4834.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pZtluTbv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536299240543_Screen%2BShot%2B2018-09-07%2Bat%2B5.47.13%2BAM.png)
-[![Application View in Offline Mode](../Images/25ab2f7e0b21686571aca90d1cd0d7c8.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--PR5SnzBM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536299240565_Screen%2BShot%2B2018-09-07%2Bat%2B5.46.50%2BAM.png)
+[![Application View in Online Mode](img/e4c7aff115b54ca901e16d4ee18c4834.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pZtluTbv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536299240543_Screen%2BShot%2B2018-09-07%2Bat%2B5.47.13%2BAM.png)
+[![Application View in Offline Mode](img/25ab2f7e0b21686571aca90d1cd0d7c8.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--PR5SnzBM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536299240565_Screen%2BShot%2B2018-09-07%2Bat%2B5.46.50%2BAM.png)
 
 ## 创建一个`ClCamera`组件
 
@@ -619,31 +619,31 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 设置云端账户
 
-[![](../Images/81ba33a4a4559dcab59f5731002df424.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FHYoq-gp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536349995882_Screen%2BShot%2B2018-09-06%2Bat%2B7.09.31%2BAM.png)
+[![](img/81ba33a4a4559dcab59f5731002df424.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FHYoq-gp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536349995882_Screen%2BShot%2B2018-09-06%2Bat%2B7.09.31%2BAM.png)
 
 要在这个应用程序中处理图像上传，请利用 [Cloudinary](https://cloudinary.com) 。首先，[在那里创建一个账户](https://cloudinary.com/signup)。
 
-[![The Cloudinary Signup Page](../Images/cf54d667d18affe4691375e8e9a3edff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--osEl7sF3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536350242110_Screen%2BShot%2B2018-09-07%2Bat%2B7.56.54%2BPM.png)
+[![The Cloudinary Signup Page](img/cf54d667d18affe4691375e8e9a3edff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--osEl7sF3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536350242110_Screen%2BShot%2B2018-09-07%2Bat%2B7.56.54%2BPM.png)
 
 **找出你的云名**
 Cloudinary 然后带你去你的**仪表盘**(媒体控制台)，在这里你的云名在**账户详情**下指定(见下文)。用该名称替换前面代码段中的`ClCamera`组件中的`CLOUDINARY_CLOUD_NAME`变量。
 
-[![Finding Out Your Cloud Name](../Images/59b0f6629bf18d191605bdcf4f424e32.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dZ-JpdOI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536350595670_Screen%2BShot%2B2018-09-06%2Bat%2B7.10.15%2BAM.png)
+[![Finding Out Your Cloud Name](img/59b0f6629bf18d191605bdcf4f424e32.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dZ-JpdOI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536350595670_Screen%2BShot%2B2018-09-06%2Bat%2B7.10.15%2BAM.png)
 
 **创建云上传预设**
 云上传预设使您能够设置图像上传的默认行为。这意味着，您可以从 Cloudinary 控制台定义标签、转换和其他分析预设，而不是每次上传图像时都必须添加参数来应用于您的图像。只需在代码中指定预设名称，就可以开始了！
 
 要创建预设，进入[上传设置](https://cloudinary.com/console/settings/upload)屏幕，点击**添加上传预设**链接:
 
-[![Adding an Upload Preset](../Images/e2b36e2d0b59bc6aadd7e48f6b80c932.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W7J_bnRa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536352009847_Screen%2BShot%2B2018-09-06%2Bat%2B7.11.06%2BAM.png)
+[![Adding an Upload Preset](img/e2b36e2d0b59bc6aadd7e48f6b80c932.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W7J_bnRa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536352009847_Screen%2BShot%2B2018-09-06%2Bat%2B7.11.06%2BAM.png)
 
 然后显示**添加上传预设**屏幕。
 
-[![Adding an Upload Preset](../Images/95bb988cce662040757264b584ec4f62.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bPC6VY0l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536352218873_Screen%2BShot%2B2018-09-06%2Bat%2B7.11.34%2BAM.png)
+[![Adding an Upload Preset](img/95bb988cce662040757264b584ec4f62.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bPC6VY0l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536352218873_Screen%2BShot%2B2018-09-06%2Bat%2B7.11.34%2BAM.png)
 
 在**预设名称**下输入一个名称，将**模式**设置为**无符号**，然后根据需要指定其他细节。
 
-[![Adding an Upload Preset](../Images/8efa5b3db0c2db4aae7286824bf9cb4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ubr4XmBM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536352218890_Screen%2BShot%2B2018-09-06%2Bat%2B7.11.54%2BAM.png)
+[![Adding an Upload Preset](img/8efa5b3db0c2db4aae7286824bf9cb4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ubr4XmBM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536352218890_Screen%2BShot%2B2018-09-06%2Bat%2B7.11.54%2BAM.png)
 
 当`ClCamera`组件从您的应用上传一张图片时，Cloudinary 返回一个数据元素，其中包含与图片相关的信息。这样，如果您设置了一个上传预设来执行面部检测、图像颜色分析和对象检测等任务，Cloudinary 会将结果返回给您，供您在认为合适的时候使用。默认情况下，Cloudinary 会返回你上传的图片的 URL。
 
@@ -683,17 +683,17 @@ Enter fullscreen mode Exit fullscreen mode
 
 接下来，确保您的开发服务器正在`http://localhost:3000`上运行。在浏览器上导航到该 URL，并验证是否显示了应用程序的各种版本:
 
-[![](../Images/52a58be4d6a6c29297abd6e7a928138a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Puf2xWU6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536451882895_Screen%2BShot%2B2018-09-09%2Bat%2B12.02.40%2BAM.png)
-[![](../Images/3d8a1ec58112433c322ec730defb2633.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--V3gWAA9j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536451882901_Screen%2BShot%2B2018-09-09%2Bat%2B12.05.35%2BAM.png)
-[![](../Images/052721ba1b303feab9923a131cb3695d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uBZ6Vk95--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536451883113_Screen%2BShot%2B2018-09-09%2Bat%2B12.07.34%2BAM.png)
+[![](img/52a58be4d6a6c29297abd6e7a928138a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Puf2xWU6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536451882895_Screen%2BShot%2B2018-09-09%2Bat%2B12.02.40%2BAM.png)
+[![](img/3d8a1ec58112433c322ec730defb2633.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--V3gWAA9j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536451882901_Screen%2BShot%2B2018-09-09%2Bat%2B12.05.35%2BAM.png)
+[![](img/052721ba1b303feab9923a131cb3695d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uBZ6Vk95--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536451883113_Screen%2BShot%2B2018-09-09%2Bat%2B12.07.34%2BAM.png)
 
-[![](../Images/8439c7c153e97a48aa8c1eea5be406d1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bMy0CQ5b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536451883117_Screen%2BShot%2B2018-09-09%2Bat%2B12.07.38%2BAM.png)
-[![](../Images/44b5f258c1cd843ca3d0cc3b580fcf78.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--qCGXYXmg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536451883121_Screen%2BShot%2B2018-09-09%2Bat%2B12.07.48%2BAM.png)
+[![](img/8439c7c153e97a48aa8c1eea5be406d1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bMy0CQ5b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536451883117_Screen%2BShot%2B2018-09-09%2Bat%2B12.07.38%2BAM.png)
+[![](img/44b5f258c1cd843ca3d0cc3b580fcf78.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--qCGXYXmg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536451883121_Screen%2BShot%2B2018-09-09%2Bat%2B12.07.48%2BAM.png)
 
 **访问上传的图像**
 要访问所有上传的图像，请前往您的 [Cloudinary 媒体库](https://cloudinary.com/console/media_library):
 
-[![](../Images/07869ef66dfcb5dae8aeb4a4acda8bce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gw4p4Jtl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536453623753_Screen%2BShot%2B2018-09-09%2Bat%2B12.39.08%2BAM.png)
+[![](img/07869ef66dfcb5dae8aeb4a4acda8bce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gw4p4Jtl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536453623753_Screen%2BShot%2B2018-09-09%2Bat%2B12.39.08%2BAM.png)
 
 你可以随心所欲地在你的应用中使用这些图片。关于 Cloudinary 现有用法的 [Cloudinary 文档](https://cloudinary.com/documentation)是一个方便的参考。
 
@@ -740,9 +740,9 @@ Enter fullscreen mode Exit fullscreen mode
 
 请注意，谷歌 Chrome 的开发者控制台上有一个由 [Lighthouse](https://developers.google.com/web/tools/lighthouse/) 驱动的面板，可以让你验证网页的质量。单击开发人员控制台的**审计**选项卡，对生产构建运行审计。然后显示结果:
 
-[![Auditing CloudyCam (1)](../Images/9011ce835e603904eaacd4de29ef8207.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4IYr0zkU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536453175757_Screen%2BShot%2B2018-09-09%2Bat%2B12.30.31%2BAM.png)
+[![Auditing CloudyCam (1)](img/9011ce835e603904eaacd4de29ef8207.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4IYr0zkU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536453175757_Screen%2BShot%2B2018-09-09%2Bat%2B12.30.31%2BAM.png)
 
-[![Auditing CloudyCam (2)](../Images/824c84a9717c5f322ed5bf620a928215.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vGj-ORKq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536453175770_Screen%2BShot%2B2018-09-09%2Bat%2B12.30.41%2BAM.png)
+[![Auditing CloudyCam (2)](img/824c84a9717c5f322ed5bf620a928215.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vGj-ORKq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_CB1529C18383F5548EDF13217A823CEEA09EC3BDFA57AD577E213213DCE5B3F4_1536453175770_Screen%2BShot%2B2018-09-09%2Bat%2B12.30.41%2BAM.png)
 
 在这里，CloudyCam 显示为 100% PWA 应用程序，尽管分数为 92。剩下的 8%将在您的生产服务器为所有应用流量运行 HTTPS 时实现。
 

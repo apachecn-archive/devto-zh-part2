@@ -6,7 +6,7 @@
 
 我们在几乎所有应用中看到的一个惯例是允许用户制作他们自己的编辑器。这就是我们在这一部分要做的事情。我们将让用户设置应用程序的主题。最后，我们将推出一个新窗口，如下所示:
 
-[![](../Images/9370d1267b895a520ef708e31187cccd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6gb3EdRQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mg6mi0d0wig6mbuf5s25.png)
+[![](img/9370d1267b895a520ef708e31187cccd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6gb3EdRQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mg6mi0d0wig6mbuf5s25.png)
 
 ## 自定义表头
 
@@ -40,7 +40,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 CSS 现在可以是你喜欢的任何东西，但是`-webkit-app-region: drag`应该被应用到`#customtitle`上，这样它就成为一个可以在屏幕上拖动窗口的句柄。阅读[无框窗口](https://github.com/electron/electron/blob/master/docs/api/frameless-window.md)的文档，查看所有选项。
 
-[![](../Images/d5a930cb7537c01eafb0221da3fff156.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LMpZJmaY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qwxgkm99sm6zmwffc59f.png)
+[![](img/d5a930cb7537c01eafb0221da3fff156.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LMpZJmaY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qwxgkm99sm6zmwffc59f.png)
 
 我从谷歌字体中抓取了一个字体；然而，在真正的应用程序中，我们至少会下载字体，这样用户就不需要连接到互联网。
 
@@ -108,7 +108,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 应用一些 CSS，我们得到这个:
 
-[![](../Images/072ba098b5b9a66f07b30ed7a0f58b7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uK1mvMeF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qowqq4vmxy5w9oiw25v4.png)
+[![](img/072ba098b5b9a66f07b30ed7a0f58b7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uK1mvMeF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qowqq4vmxy5w9oiw25v4.png)
 
 正如上面的 HTML 中所指定的，默认颜色在表单中是硬编码的。对于 Javascript，我们希望将这些颜色值作为标签的背景色，当用户输入新的颜色值时，它们会在标签中得到反映。我们可以用颜色选择器来找乐子，但是我们将保持它的基本性，假设用户想要输入他们喜欢的颜色。在这种情况下，我们需要倾听输入的变化。
 
@@ -142,7 +142,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 代码遍历每个输入元素，将它们的值作为标签背景颜色，然后在输入改变时重新应用颜色。
 
-[![](../Images/2900c49e08b3624bae0b7c2b8ca360e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--igB-0O-3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5nf5rn33neezads3ace2.gif)
+[![](img/2900c49e08b3624bae0b7c2b8ca360e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--igB-0O-3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5nf5rn33neezads3ace2.gif)
 
 ### 保存颜色首选项
 
@@ -320,7 +320,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 最终的结果是这样的
 
-[![](../Images/02560c61613964047cc85227138daca7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w4zo7DaR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rrd1k2589ruszh5t7vxf.gif)
+[![](img/02560c61613964047cc85227138daca7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w4zo7DaR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rrd1k2589ruszh5t7vxf.gif)
 
 **你可以在 GitHub 的**克隆[库](https://github.com/aurelkurtula/Texty/tree/part3)
 
@@ -332,11 +332,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 希望你也受到同样的启发💡
 
-[![aurelkurtula image](../Images/e1a1b48b6a401b86d5a91c8729e26a35.png)](/aurelkurtula) [## 在 electronic 中创建文本编辑器:第 1 部分-读取文件
+[![aurelkurtula image](img/e1a1b48b6a401b86d5a91c8729e26a35.png)](/aurelkurtula) [## 在 electronic 中创建文本编辑器:第 1 部分-读取文件
 
 ### aurel Kurt ula 9 月 5 日 182 分钟阅读
 
-#electron #javascript #node](/aurelkurtula/creating-a-text-editor-in-electron-reading-files-13b8)[![aurelkurtula image](../Images/e1a1b48b6a401b86d5a91c8729e26a35.png)](/aurelkurtula) [## 在 electronic 中创建文本编辑器:第 2 部分-编写文件
+#electron #javascript #node](/aurelkurtula/creating-a-text-editor-in-electron-reading-files-13b8)[![aurelkurtula image](img/e1a1b48b6a401b86d5a91c8729e26a35.png)](/aurelkurtula) [## 在 electronic 中创建文本编辑器:第 2 部分-编写文件
 
 ### aurel Kurt ula 9 月 9 日 187 分钟阅读
 

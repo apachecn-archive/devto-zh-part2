@@ -4,7 +4,7 @@
 
 *本帖最初发表于[codebushi.com](https://codebushi.com/pwa-with-react-and-preact/)T3】*
 
-[![](../Images/bcc4bc8616eca7efd4c3562d2f6acb04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jo5HOGLw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uu0964rxp8y27sebldml.jpg)
+[![](img/bcc4bc8616eca7efd4c3562d2f6acb04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jo5HOGLw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uu0964rxp8y27sebldml.jpg)
 
 渐进式 web 应用程序(PWA)已经大规模出现，随着越来越多的移动浏览器支持它们，它们很可能成为 Web 应用程序的未来。PWA 实际上非常简单，几乎任何网站或应用程序都可以转换成基本的渐进式 Web 应用程序。这里有一份来自谷歌的清单，列出了一个网站被认为是 PWA 所需要的所有东西。基本上，如果你有一个网站或网络应用程序，加载速度快，在 HTTPS 上提供服务，并且对移动设备和平板设备有响应，那么你已经成功了。您只需要一个`manifest.json`文件和一个[服务人员](https://developers.google.com/web/fundamentals/primers/service-workers/) JavaScript 文件。
 
@@ -16,13 +16,13 @@
 
 如果你使用 React.js 和 [Create React App](https://github.com/facebook/create-react-app) (CRA)来启动你的项目，好消息是，默认情况下，生成的应用将是一个渐进式 Web 应用。Create React App 已经拥有了所需的一切，包括`manifest.json`(在`/public`目录中)和一个名为`service-worker.js`的服务工作者文件(由`registerServiceWorker.js`处理)。你必须运行`yarn build`或`npm run build`，然后服务`/build`文件夹，才能看到它们的运行。
 
-[![](../Images/efadcba96631356724f4b3a4716ee217.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J-qD9YE8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://content.screencast.com/users/hunter1291/folders/Jing/media/c87e38d5-6b92-4219-9816-48cd92fc4ad0/00000491.png)
+[![](img/efadcba96631356724f4b3a4716ee217.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J-qD9YE8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://content.screencast.com/users/hunter1291/folders/Jing/media/c87e38d5-6b92-4219-9816-48cd92fc4ad0/00000491.png)
 
 使用`manifest.json`，你需要为各种各样的设备生成并添加合适的图标。生成合适的`manifest.json`文件的一个很好的资源是 app-manifest.firebaseapp.com 的。
 
 CRA 提供的服务人员将为离线模式提供支持。这意味着它将缓存 CRA 在构建过程中生成的所有文件，并将它们存储在浏览器的缓存中。如果你关掉网络连接。应用程序仍将加载！
 
-[![](../Images/d8391ca4b0dad924b4fd1cdde97e7181.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lYmUXSI_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://content.screencast.com/users/hunter1291/folders/Jing/media/d887941e-54d8-4a5e-9a6a-71be1d429445/00000492.png)
+[![](img/d8391ca4b0dad924b4fd1cdde97e7181.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lYmUXSI_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://content.screencast.com/users/hunter1291/folders/Jing/media/d887941e-54d8-4a5e-9a6a-71be1d429445/00000492.png)
 
 然而，这是 PWA 的最低要求。默认的`service-worker.js`不会缓存任何外部数据或资源，也没有推送通知等简洁的功能。如果你想充分利用你的 PWA，你可能需要[注册一个客服人员](https://medium.freecodecamp.org/how-to-build-a-pwa-with-create-react-app-and-custom-service-workers-376bd1fdc6d3)。
 
@@ -260,13 +260,13 @@ npm run serve
 
 当你用 Preact`serve`时，它会提示你接受一些权限，这样它就可以加载超过`https`。如果你导航到 [https://localhost:8080](https://localhost:8080) ，打开你的 Chrome 浏览器，前往应用程序标签。确保`service-worker.js`处于活动状态，并且工具箱正在工作。您可能需要多次重新加载页面，以使缓存生效。
 
-[![](../Images/f18ec4c12577ca1c750e852f1d5d158c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0IwD--7D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://content.screencast.com/users/hunter1291/folders/Jing/media/428e7df0-c6d6-4613-b7cb-92b70a41c6f0/00000494.png)
+[![](img/f18ec4c12577ca1c750e852f1d5d158c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0IwD--7D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://content.screencast.com/users/hunter1291/folders/Jing/media/428e7df0-c6d6-4613-b7cb-92b70a41c6f0/00000494.png)
 
 如果事情看起来不对劲，尝试在`Clear storage > Clear site data`下清除应用程序的缓存并重新加载页面。您可以通过选中服务人员下的`Offline`框来模拟离线。即使离线，该应用程序仍应加载 Tech Crunch 的文章。如果您在离线前浏览其他资源，这些资源也应该被缓存和提供。如果您在脱机状态下尝试选择您没有访问过的资源，将会导致错误。
 
 要审计你的 PWA，使用谷歌 Chrome 开发工具中的 [Lighthouse](https://developers.google.com/web/tools/lighthouse/) 。它将模拟一个移动设备，将互联网速度调节到 3G，最终给你一些分数和改进建议。
 
-[![](../Images/376ca13f1bdb02af0df8afef3ff7116c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qoia4lg8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://content.screencast.com/users/hunter1291/folders/Jing/media/f130f210-a6ca-4d57-99b0-463464eb8bbd/00000495.png)
+[![](img/376ca13f1bdb02af0df8afef3ff7116c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qoia4lg8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://content.screencast.com/users/hunter1291/folders/Jing/media/f130f210-a6ca-4d57-99b0-463464eb8bbd/00000495.png)
 
 你也可以用多种方式托管应用程序，因为在构建过程之后，它本质上是一个静态网站。使用装有 Chrome 的 Android 设备访问你的托管应用程序或[示例应用程序](https://preactnews.netlify.com/)，你会看到将应用程序添加到主屏幕的提示。苹果 iOS 11.3 及以上版本也将支持渐进式网络应用，但我不确定移动端的 Safari 会像 Chrome 一样弹出提示。
 

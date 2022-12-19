@@ -21,7 +21,7 @@
 
 这个地方叫做**集结地**。您可以在这里决定要将哪些文件保存到 Git 中。
 
-[![The staging area](../Images/97e6d1af40973ff7ad3a5797b0c82ab6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--H0FgUDbi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/your-first-commit/staging-area.png) 
+[![The staging area](img/97e6d1af40973ff7ad3a5797b0c82ab6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--H0FgUDbi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/your-first-commit/staging-area.png) 
 
 <figure>
 
@@ -37,7 +37,7 @@
 
 保存该文件后，您将在临时区域看到该文件。它应该出现在转移区域的未转移文件部分。
 
-[![Files that have been changed will appear in the unstaged area](../Images/1e0fb823107dfbb66b458a59b74986b8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Z0ngZlvM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/your-first-commit/unstaged-file.png) 
+[![Files that have been changed will appear in the unstaged area](img/1e0fb823107dfbb66b458a59b74986b8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Z0ngZlvM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/your-first-commit/unstaged-file.png) 
 
 <figure>
 
@@ -49,7 +49,7 @@
 
 如果您想要提交一个文件(在本例中为`index.html`文件)，您可以单击该文件并单击 stage。此文件将从“未转移文件”部分移到“转移文件”部分。
 
-已经暂存的 [![Files that have been staged will appear in the staged area](../Images/76482703581e6916ac2dd514dc50a327.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3InTjyfR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/your-first-commit/staged-file.png) 
+已经暂存的 [![Files that have been staged will appear in the staged area](img/76482703581e6916ac2dd514dc50a327.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3InTjyfR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/your-first-commit/staged-file.png) 
 
 <figure>
 
@@ -65,7 +65,7 @@
 
 要创建提交，您可以在右下角写下提交消息，然后单击“创建提交”按钮。
 
-[![Creating a commit](../Images/1f62fa86bd8dac34fb2a929b576f09e8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uoMDjjyS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/your-first-commit/creating-a-commit.png) 
+[![Creating a commit](img/1f62fa86bd8dac34fb2a929b576f09e8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uoMDjjyS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/your-first-commit/creating-a-commit.png) 
 
 <figure>
 
@@ -83,7 +83,7 @@
 
 如果您现在回到 Fork，您应该会看到被更改的文件夹和文件。
 
-[![Files and folders that are changed in the staging area. This shows a CSS folder, a styles.css file, a JS folder, a main.js file and an index.html file. ](../Images/54cb855d82afc8bec63cf28cf48acd5b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---SpMaI9o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/your-first-commit/staging-area-multiple.png) 
+[![Files and folders that are changed in the staging area. This shows a CSS folder, a styles.css file, a JS folder, a main.js file and an index.html file. ](img/54cb855d82afc8bec63cf28cf48acd5b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---SpMaI9o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/your-first-commit/staging-area-multiple.png) 
 
 <figure>
 
@@ -95,7 +95,7 @@
 
 要一次提交所有三个文件，请选择这些文件并单击 stage 按钮。然后，编写提交消息并提交文件。
 
-[![Committing multiple files at once](../Images/385a0f2656140828767a55e5275869a3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--c_ftiM1y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/your-first-commit/commit-multi.png) 
+[![Committing multiple files at once](img/385a0f2656140828767a55e5275869a3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--c_ftiM1y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/your-first-commit/commit-multi.png) 
 
 <figure>
 

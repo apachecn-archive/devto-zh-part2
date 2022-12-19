@@ -6,7 +6,7 @@
 
 下面是 Anna 对使用 React & Jest 进行测试的介绍。如果你放大，你会看到她在用一个狗狗兼容性应用程序做演示😊 🐶
 
-[![livestream-screenshot](../Images/a657582c7303037450b7370bd0f74239.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cpQXNoJY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u2sjkipn8cp8iw69bifs.png) 
+[![livestream-screenshot](img/a657582c7303037450b7370bd0f74239.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cpQXNoJY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u2sjkipn8cp8iw69bifs.png) 
 反正！让我来说一下这篇文章的要点。你们中的许多人都想成为一名演说家，所以下面是一些要点:
 
 *   谈话时间从 30 - 90 分钟不等，由你决定。

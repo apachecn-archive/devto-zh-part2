@@ -8,7 +8,7 @@
 
 通过 USB 转 TTL 电缆/适配器将您的主板连接到笔记本电脑/台式机。这是显示不同连接的引脚排列。
 
-[![alt text](../Images/b561af6abd7a657fb8c165a142450a4f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oilgUtzF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/675b4ca-Wia_Blog_Illustration_1600x1052_03B_1.png) 
+[![alt text](img/b561af6abd7a657fb8c165a142450a4f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oilgUtzF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/675b4ca-Wia_Blog_Illustration_1600x1052_03B_1.png) 
 *ESP8266 引脚排列*
 
 ESP 和 USB TTL 之间的连接如下:
@@ -36,13 +36,13 @@ If you are completely unfamiliar with the Arduino IDE, watch this video [here](h
 *   启动 Arduino 应用程序并打开`Preferences`
 *   在附加的董事会经理 URL 中输入`http://arduino.esp8266.com/stable/package_esp8266com_index.json`。如果需要多个，可以用逗号分隔
 
-[![alt text](../Images/75df8a965e2826b9d4f099dc43864e28.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IGLxiIF---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/90719ce-Screen_Shot_2018-01-04_at_12.03.11.png) 
+[![alt text](img/75df8a965e2826b9d4f099dc43864e28.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IGLxiIF---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/90719ce-Screen_Shot_2018-01-04_at_12.03.11.png) 
 *安装 ESP8266 Arduino 包*
 
 *   转到`Tools > Board > Boards Manager`
 *   搜索`esp8266`。找到后，点击`Install`
 
-[![alt text](../Images/fcf47b00db7c7e96758f10d5802eed0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CYkR5B9U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/5293598-Screen_Shot_2018-01-04_at_12.04.59.png)
+[![alt text](img/fcf47b00db7c7e96758f10d5802eed0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CYkR5B9U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/5293598-Screen_Shot_2018-01-04_at_12.04.59.png)
 
 *   前往`Tools > Board`选择您的 ESP8266 板类型，然后选择您的类型。对于这个例子，你可以使用`NodeMCU 1.0 (ESP-12E Module)`
 *   检查`Upload Speed`是否设置为`115200`
@@ -55,7 +55,7 @@ If you are completely unfamiliar with the Arduino IDE, watch this video [here](h
 :Linux 上的`Com4`或`Com3`
 `/dev/ttyUSB0`或/ `dev/ttyACM0`
 
-[![alt text](../Images/7275e88a561b89672fcab0ee494c6b3a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JzqNFJKx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/e0d9624-Screen_Shot_2018-01-04_at_12.06.55.png)
+[![alt text](img/7275e88a561b89672fcab0ee494c6b3a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JzqNFJKx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/e0d9624-Screen_Shot_2018-01-04_at_12.06.55.png)
 
 #### **USB 转 UART 所需驱动**
 
@@ -164,12 +164,12 @@ Enter fullscreen mode Exit fullscreen mode
 *   `device_secret_key`使用 Wia 仪表板(以 d_sk 开头的仪表板)中的设备密钥。
 *   转到`Sketch > Upload`将其发送到您的 ESP8266。现在转到 Wia 仪表板中的设备，您应该看到数据出现在调试器中。
 
-[![alt text](../Images/0a8597b6b9981c3c552442fcdba46325.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fJNmUoYu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/4fed030-Debugger_Wia.png) 
+[![alt text](img/0a8597b6b9981c3c552442fcdba46325.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fJNmUoYu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/4fed030-Debugger_Wia.png) 
 *Wia 设备调试器*
 
 ### **常见错误**
 
 如果您遇到类似下图所示的错误，请检查您的板卡和端口是否在`Tools`菜单中正确设置。
 
-[![alt text](../Images/e91827b3b81d29fed3eabd151cd53267.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xc8i314r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/9d72425-image_16.png) 
+[![alt text](img/e91827b3b81d29fed3eabd151cd53267.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xc8i314r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/9d72425-image_16.png) 
 *板卡或端口故障*

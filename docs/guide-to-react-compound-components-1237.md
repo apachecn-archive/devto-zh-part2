@@ -4,13 +4,13 @@
 
 ### 快速引导化合物成分发生反应
 
-[![](../Images/cd7ef13636286dd570de5a5c4edf822c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HWMd-sT2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/391/1%2A3SVfBkNZI2f-sspiq59xcw.png)
+[![](img/cd7ef13636286dd570de5a5c4edf822c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HWMd-sT2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/391/1%2A3SVfBkNZI2f-sspiq59xcw.png)
 
 复合组件是一种高级模式，所以它可能难以使用。本指南旨在帮助您理解该模式，以便您能够自信而清晰地有效使用它。
 
 注意——在本文中，我们将使用 React v16.3 中引入的新的[上下文 API](https://reactjs.org/docs/context.html) 。其他[文章](https://dev.to/shaunoff/using-advanced-design-patterns-to-create-flexible-and-reusable-react-components-part-1-2040-temp-slug-5672359)使用 React.cloneElement 实现该模式，但这涉及到克隆每个组件，这会增加内存占用。它还将组件限制为父组件的直接子组件。所以使用上下文 API 要好得多。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### 什么是复合成分？
 
@@ -59,9 +59,9 @@
 ### 我有渲染道具为什么还需要？
 
 渲染道具是一个很好的模式。它非常通用，也很容易理解。然而，这并不意味着我们必须在任何地方都使用它。如果不小心使用，它会导致混乱的代码。
-[![](../Images/74a8ef8c3335be13cb8c3192b25f8cb5.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--i7Q5uLRD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1rtpaz3pkwde1rpznl67.png)
+[![](img/74a8ef8c3335be13cb8c3192b25f8cb5.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--i7Q5uLRD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1rtpaz3pkwde1rpznl67.png)
 
-[![](../Images/1ca9635298918e913f681e7c64836c8b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O87Re1FS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7iyq3bj253tc9bz9ceg4.png)
+[![](img/1ca9635298918e913f681e7c64836c8b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O87Re1FS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7iyq3bj253tc9bz9ceg4.png)
 
 在标记中有太多的嵌套函数会导致阅读困难。记住**没有什么是银弹**，连渲染道具都没有。
 
@@ -314,7 +314,7 @@ ReactDOM.render(<App />, rootElement);
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

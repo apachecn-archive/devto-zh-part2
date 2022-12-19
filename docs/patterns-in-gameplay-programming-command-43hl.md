@@ -12,7 +12,7 @@
 
 带有显示所需结果的解释图像:
 
-[![AltText](../Images/c87f72684f1d590d0d12c2e6840b2f6a.png)T2】](https://i.giphy.com/media/Rd6sv6StGGedfnPy2b/giphy.gif)
+[![AltText](img/c87f72684f1d590d0d12c2e6840b2f6a.png)T2】](https://i.giphy.com/media/Rd6sv6StGGedfnPy2b/giphy.gif)
 
 我们的开发者挠了挠头，所有的游戏机制，比如动作和攻击，都被深深地硬编码在与玩家相关的组件中，要将它们分离是非常困难的。嗯，没有那么多，进入命令模式，引用维基百科:
 

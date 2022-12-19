@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/azure/using-aspnet-core-with-mongodb-in-containers-for-local-dev-cosmosdb-for-production-5aj8>
 
-[![Using ASP.NET Core with MongoDB in containers for local dev, CosmosDB for production](../Images/668814c45cf39dc9ea05ab8a818af4a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QqYyHmfI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/content/images/2018/10/Screen-Shot-2018-10-18-at-3.07.47-PM.png)
+[![Using ASP.NET Core with MongoDB in containers for local dev, CosmosDB for production](img/668814c45cf39dc9ea05ab8a818af4a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QqYyHmfI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/conteimg/2018/10/Screen-Shot-2018-10-18-at-3.07.47-PM.png)
 
 如果没有别的事情是真的，容器使得平台上的本地开发变得更加容易。如果您想使用 SQL Server 作为您的后端，只需`docker pull microsoft/mssql-server-linux`就可以用几个参数启动一个实例。
 
@@ -24,11 +24,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 Visual Studio 代码有一个 CosmosDB 扩展，作为 Azure 扩展包的一部分，它允许您与 Mongo 数据库以及 CosmosDB 实例进行交互。
 
-[![Using ASP.NET Core with MongoDB in containers for local dev, CosmosDB for production](../Images/1d3f1e76d8361d6a627ec016aac337c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HtywiY-1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/content/images/2018/10/Screen-Shot-2018-10-18-at-2.38.22-PM.png)
+[![Using ASP.NET Core with MongoDB in containers for local dev, CosmosDB for production](img/1d3f1e76d8361d6a627ec016aac337c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HtywiY-1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/conteimg/2018/10/Screen-Shot-2018-10-18-at-2.38.22-PM.png)
 
 这个扩展还允许你直接从 VS 代码中创建你的 CosmosDB 实例，或者你可以在 Azure 门户或者甚至使用 [Azure CLI](https://docs.microsoft.com/en-us/azure/cosmos-db/cli-samples?WT.mc_id=none-blog-shboyer) 来创建它。
 
-[![Using ASP.NET Core with MongoDB in containers for local dev, CosmosDB for production](../Images/c4a6917af18783180d9a2d3c91c9da11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hIql3SWX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/content/images/2018/10/Screen-Shot-2018-10-18-at-2.41.22-PM.png)
+[![Using ASP.NET Core with MongoDB in containers for local dev, CosmosDB for production](img/c4a6917af18783180d9a2d3c91c9da11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hIql3SWX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/conteimg/2018/10/Screen-Shot-2018-10-18-at-2.41.22-PM.png)
 
 无论您喜欢如何创建实例，都可以在同一个工具中完成，这对我来说太棒了。
 
@@ -36,7 +36,7 @@ Visual Studio 代码有一个 CosmosDB 扩展，作为 Azure 扩展包的一部�
 
 该应用程序是一个基本的[ASP.NET 核心剃刀页](https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-2.1&tabs=visual-studio-code&WT.mc_id=none-blog-shboyer)应用程序，其中列出了已经审查的“跑步比赛”。
 
-[![Using ASP.NET Core with MongoDB in containers for local dev, CosmosDB for production](../Images/46f02a888ba744b775787ec1c3b78378.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mecmLjU2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/content/images/2018/10/Screen-Shot-2018-10-18-at-1.58.52-PM.png)
+[![Using ASP.NET Core with MongoDB in containers for local dev, CosmosDB for production](img/46f02a888ba744b775787ec1c3b78378.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mecmLjU2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/conteimg/2018/10/Screen-Shot-2018-10-18-at-1.58.52-PM.png)
 
 应用程序和数据库都被设置为使用容器和 docker-compose 来编排它们。
 
@@ -145,4 +145,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 这个应用程序的代码可以在 GitHub 上找到:[https://github.com/spboyer/runracereview](https://github.com/spboyer/runracereview)
 
-[![](../Images/6195199eb1eba7c5ae42e3969e16b7db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--psxIZWak--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/Tattoocoder/%257E4/zaxK7wIyvIc)
+[![](img/6195199eb1eba7c5ae42e3969e16b7db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--psxIZWak--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/Tattoocoder/%257E4/zaxK7wIyvIc)

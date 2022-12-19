@@ -16,7 +16,7 @@
 
 ## 链接到代码
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [【喜马拉雅山 3】](https://github.com/himanshuc3)/[活表](https://github.com/himanshuc3/LiveTable)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [【喜马拉雅山 3】](https://github.com/himanshuc3)/[活表](https://github.com/himanshuc3/LiveTable)
 
 ### 实时时间表安排。自由职业者也可以使用:)
 

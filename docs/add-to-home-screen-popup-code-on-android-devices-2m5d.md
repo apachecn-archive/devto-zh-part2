@@ -6,7 +6,7 @@
 
 [阅读更多](https://ahmetcadirci.com.tr/2018/android-cihazlarda-ana-ekrana-ekle-popup-kodu/?utm_source=devto&utm_medium=Android%20Cihazlarda%20'Ana%20Ekrana%20Ekle'%20Popup%20Kodu&utm_campaign=link)
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)/[主画面插入](https://github.com/ahmetcadirci25/ana-ekrana-ekle)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)/[主画面插入](https://github.com/ahmetcadirci25/ana-ekrana-ekle)
 
 ### 将弹出代码添加到 Android 设备
 

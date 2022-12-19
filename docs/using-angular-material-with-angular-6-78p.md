@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/geeksamu/using-angular-material-with-angular-6-78p>
 
-[![](../Images/965e8cc2cb31cdec3a54a29184fe202f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xlfbTJ3i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AByAhY7BtpARVPzkgM6yV1Q.png)
+[![](img/965e8cc2cb31cdec3a54a29184fe202f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xlfbTJ3i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AByAhY7BtpARVPzkgM6yV1Q.png)
 
 这是关于 JavaScript 框架 Angular 6 的 n 部分[系列](https://blog.wb.gy/angular-6-article-series/)的第三部分。
 
@@ -118,7 +118,7 @@ ng generate @angular/material:material-dashboard --name=dash
 \<router-outlet\>\</router-outlet\> 
 ```
 
-[![](../Images/8c251678ebdce6b253ac207d96d7edfa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n-mQMT26--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ALTWyNQpTYWCEsaWy.png)
+[![](img/8c251678ebdce6b253ac207d96d7edfa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n-mQMT26--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ALTWyNQpTYWCEsaWy.png)
 
 您可以生成一个 starter 数据表组件，该组件预先配置了用于排序和分页的数据源。
 

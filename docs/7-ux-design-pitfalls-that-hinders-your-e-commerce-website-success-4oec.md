@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/violetdsmith/7-ux-design-pitfalls-that-hinders-your-e-commerce-website-success-4oec>
 
-[![](../Images/7fc77ad72cbc1af8002fe203d638d276.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0K0ofSb2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qcr9g7ubl880fwfjyixd.png)
+[![](img/7fc77ad72cbc1af8002fe203d638d276.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0K0ofSb2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qcr9g7ubl880fwfjyixd.png)
 
 网站设计已经从仅仅是网站的一个表面元素，发展成为更具功能性的东西，在用户体验中发挥着巨大的作用。这就是为什么网站所有者现在为 UX 设计。然而，并不是所有的网站所有者和他们各自的设计师都能够成功。如果不能设计出一个能够提供良好用户体验的网站，通常会导致网站无法实现其目标。
 因此，了解这些错误是什么，以及如何应对它们非常重要。关于这一点，这里有 7 个你应该避免的 UX 设计陷阱，以便[提高你网站的转化率](https://redstagfulfillment.com/ecommerce-conversion-rate/)并帮助你成功:

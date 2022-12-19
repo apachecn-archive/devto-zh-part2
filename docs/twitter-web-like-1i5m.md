@@ -11,7 +11,7 @@
 > 
 > 欢迎技术交流，如果本项目有错误的代码或编程概念，请告诉我，谢谢👍
 
-[![Demo](../Images/0d8703f2c968a2d208e07696e5952d0c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ehm1KQp6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/JayZang/Twitter-Web-Like/blob/master/Demo.gif%3Fraw%3Dtrue)
+[![Demo](img/0d8703f2c968a2d208e07696e5952d0c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ehm1KQp6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/JayZang/Twitter-Web-Like/blob/master/Demo.gif%3Fraw%3Dtrue)
 
 ## 主用包
 
@@ -262,7 +262,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我认为最重要的是了解每个事件什么时候会被调用。
 
-[![Vue component's life cycle](../Images/0b9a239f0f1503e9f977327c89e2c6f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6M-lBymO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cn.vuejs.org/images/lifecycle.png)
+[![Vue component's life cycle](img/0b9a239f0f1503e9f977327c89e2c6f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6M-lBymO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cn.vuejs.oimg/lifecycle.png)
 
 如果我们有组件需要' userID '的属性来异步获取用户的信息。
 

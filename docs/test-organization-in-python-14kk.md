@@ -18,7 +18,7 @@
 
 首先，我的没有测试的项目看起来像这样:
 
-[![Output of tree command on the root of the project directory containing my code without tests](../Images/fbea47cbcf3970c0c1d408d8a4a54dc8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vv-AoOe4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5yz2ssskc60j0jypivbv.png)
+[![Output of tree command on the root of the project directory containing my code without tests](img/fbea47cbcf3970c0c1d408d8a4a54dc8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vv-AoOe4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5yz2ssskc60j0jypivbv.png)
 
 正如你所看到的，这是一个非常简单的设置，有两个模块*后端*和*服务*以及一个入口点`server.py`。
 
@@ -52,7 +52,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在为模块编写测试用例之后，我的项目看起来像这样:
 
-[![Output of tree command on the root of the project directory containing my code with module tests](../Images/914b5a41b07b4a2725f8beee4eeddb6d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hah-hd7K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0my71fyjosuelhaczunp.png)
+[![Output of tree command on the root of the project directory containing my code with module tests](img/914b5a41b07b4a2725f8beee4eeddb6d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hah-hd7K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0my71fyjosuelhaczunp.png)
 
 从项目根运行一个测试用例，如下所示:`python -m unittest backend.test.calibration_test.TestCalibrationChecks`
 
@@ -88,7 +88,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在为每个模块编写了这样一个文件之后，我的项目看起来是这样的:
 
-[![Output of tree command on the root of the project directory containing my code with module tests and tests.py in each module root](../Images/c069c74f22df5a97fc450b31b658e073.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZRkvTGNb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/osew3cqa1vu5x4h86fru.png)
+[![Output of tree command on the root of the project directory containing my code with module tests and tests.py in each module root](img/c069c74f22df5a97fc450b31b658e073.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZRkvTGNb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/osew3cqa1vu5x4h86fru.png)
 
 我现在能够从项目根用这样的命令运行每个模块的测试了:`python -m unittest backend.tests`。
 
@@ -148,7 +148,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 完成的项目现在看起来像这样:
 
-[![Output of tree command on the root of the project directory containing my code with module tests, tests.py in each module root, and a global tests.py in the project root](../Images/d4c7be327def03c518e93c0cebd8bb1c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eFYpEK95--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r4kfpcrc0gfiskfhgwm7.png)
+[![Output of tree command on the root of the project directory containing my code with module tests, tests.py in each module root, and a global tests.py in the project root](img/d4c7be327def03c518e93c0cebd8bb1c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eFYpEK95--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r4kfpcrc0gfiskfhgwm7.png)
 
 从项目根目录，我可以运行
 

@@ -4,7 +4,7 @@
 
 Javascript 是最流行的网络编程语言之一。它广泛用于创建交互式客户端 web 应用程序和游戏。Javascript 也可以作为服务器端编程语言。它是动态的、弱类型的、基于原型的、多范例的高级编程语言。
 
-[![Common Javascript Interview Questions](../Images/cc66047b62cd14e088dafc36d2fa92fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--INV4HFyZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sae8qu6pp3zj05mgqkfy.png)
+[![Common Javascript Interview Questions](img/cc66047b62cd14e088dafc36d2fa92fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--INV4HFyZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sae8qu6pp3zj05mgqkfy.png)
 
 这里我们列出了 10 个常见的 Javascript 面试问题及其答案
 

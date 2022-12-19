@@ -14,13 +14,13 @@ T2】
 
 作为一名测试人员，他跳过了许多评论应用程序，因此设置了一个搜索引擎，这样他就可以键入 Github PR 号。
 
-[![Heroku Review App Shortcut](../Images/2d0f68e4202577e355dd6f1d64d475b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_mqxrjSx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/68067bjzgajxyhdqqj8w.png)
+[![Heroku Review App Shortcut](img/2d0f68e4202577e355dd6f1d64d475b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_mqxrjSx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/68067bjzgajxyhdqqj8w.png)
 
 你只需在地址栏中输入`pr`，然后按 tab，输入你的 PR 号，然后按 enter。如对话框中所述，URL 被展开。
 
 作为一名开发人员，我倾向于访问 Heroku Dashboard 查看应用程序。为此，我设置了另一个搜索引擎:
 
-[![Heroku Dashboard Shortcut](../Images/40a3f1a81f62c9a78e0ab21ecdc83344.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m6vo8ylo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7dl9l0hac74bn4smpxtx.png)
+[![Heroku Dashboard Shortcut](img/40a3f1a81f62c9a78e0ab21ecdc83344.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m6vo8ylo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7dl9l0hac74bn4smpxtx.png)
 
 这让我可以键入`hdash`、tab、PR 号、enter，然后我就进入了那个评审应用程序的 Heroku 仪表板。
 

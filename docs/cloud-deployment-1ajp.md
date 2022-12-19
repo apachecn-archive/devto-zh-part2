@@ -6,7 +6,7 @@
 
 使用基于网络的可视化拖放工具，在云中开发新的集成非常容易。但是这些并不总是提供专业开发人员所需的完整的集成、调试和测试能力。webMethods Integration Cloud 提供了使用 Designer(Software AG 的全功能专业开发环境)来开发和部署集成到 Software AG 的 webMethods Integration Cloud 中的能力。这种模式通常被称为“提升&转移”,因为它使用户能够轻松地提升现有的集成，并将它们转移到云中。从预定义的云解决方案环境中进行选择。让 Software AG 处理环境配置、部署集成、管理修复、补丁和升级，并在云中提供 CI/CD 支持。然后探索现成的监控仪表板，以跟踪解决方案运行状况和流服务行为以及警报。专业开发人员现在有了一条通向多功能、多云平台 iPaaS 的直接途径。
 
-| 2018 年第四期 | [![](../Images/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue4/SAG_Cloud_Deployment_TECHniques_Oct18_WEB.pdf) |
+| 2018 年第四期 | [![](img/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue4/SAG_Cloud_Deployment_TECHniques_Oct18_WEB.pdf) |
 | --- | --- |
 
 ## 拔河:有云还是无云？
@@ -47,13 +47,13 @@ webMethods Integration Cloud 使专业集成和 API 开发人员能够轻松地�
 
 **3。服务和目的地:**从 Package Navigator 中，上下文菜单现在会有一个部署到云的选项。这带来了一个向导，用于将资产发布(例如，提升&转移)到云中。选择资产后，您可以为目标选择预配置的集成云租户连接。
 
-[![](../Images/ce401c8310b2e9c225439b0523ff6577.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xJxrkOfA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/CloudDepl_1.jpg/c0763cd0-e1bd-4416-beef-2efee6dd2cad%3Ft%3D1539856149067) 
+[![](img/ce401c8310b2e9c225439b0523ff6577.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xJxrkOfA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/CloudDepl_1.jpg/c0763cd0-e1bd-4416-beef-2efee6dd2cad%3Ft%3D1539856149067) 
 
 **图 1:** 正在部署服务
 
 **4。Landscape:** 接下来，您从一组 Landscape 部署模式中进行选择。这些模式从简单部署的最小配置到生产就绪配置，包括集群集成服务器、通用消息传递和 Terracotta 内存数据管理。
 
-[![](../Images/d45e16379588ec45a9030ecb2d82e15e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tZxFu8k6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/CloudDepl_2.jpg/593d3501-2ba9-414c-bcaa-9cff9f34bef7%3Ft%3D1539856382632) 
+[![](img/d45e16379588ec45a9030ecb2d82e15e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tZxFu8k6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/CloudDepl_2.jpg/593d3501-2ba9-414c-bcaa-9cff9f34bef7%3Ft%3D1539856382632) 
 
 **图二:**选择风景
 
@@ -67,7 +67,7 @@ webMethods Integration Cloud 使专业集成和 API 开发人员能够轻松地�
 
 预定义监控仪表板。在最高级别，有一个仪表板显示该集成云上托管的所有解决方案的整体 KPI 状态和警报。
 
-[![](../Images/90cb0f6031d35238465377b787befb43.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WBJ6J3mM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/CloudDepl_3.jpg/701d6f80-5c97-452b-a458-d2e2b2260c12%3Ft%3D1539856717121) 
+[![](img/90cb0f6031d35238465377b787befb43.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WBJ6J3mM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/CloudDepl_3.jpg/701d6f80-5c97-452b-a458-d2e2b2260c12%3Ft%3D1539856717121) 
 
 **图 3:** 监控仪表盘
 

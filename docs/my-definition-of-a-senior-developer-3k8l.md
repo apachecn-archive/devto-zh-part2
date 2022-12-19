@@ -24,7 +24,7 @@
 
 # 对自己正在做的事情充满激情
 
-[![Passion Meme](../Images/3b17ab576e4ab040f4865a6738b589c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7VM12jWH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://josefhavelka.files.wordpress.com/2016/09/img_8744.png)
+[![Passion Meme](img/3b17ab576e4ab040f4865a6738b589c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7VM12jWH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://josefhavelka.files.wordpress.com/2016/09/img_8744.png)
 
 如果你对你正在做的事情有热情，其他大部分分数都会自动达到。在我看来，只有当你热爱你所做的事情时，你才能成为一名优秀的软件开发人员。这也意味着你应该选择一个你非常擅长的技术或者专业。
 
@@ -34,13 +34,13 @@
 
 # 做一个“问题解决者”
 
-[![Problem Solving Meme](../Images/4e8a73afeceb6ecfdf7da467ef4cf550.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S5Sq9LPb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://memegenerator.net/img/instances/31583560/you-have-99-problems-you-must-solve-each-one.jpg)
+[![Problem Solving Meme](img/4e8a73afeceb6ecfdf7da467ef4cf550.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S5Sq9LPb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://memegenerator.net/img/instances/31583560/you-have-99-problems-you-must-solve-each-one.jpg)
 
 你应该喜欢在无尽的时间里解决挑战性的问题。你应该有能力、雄心、技能和激情来解决职业生涯中可能出现的任何问题。
 
 # 学习编程语言和框架的基础知识
 
-[![Never Stop Learning](../Images/4d93602104cfd2da0c4457cc1ad8376f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pSo96K_f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.mathelme.com/assets/Never-Stop-Learning_07.png)
+[![Never Stop Learning](img/4d93602104cfd2da0c4457cc1ad8376f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pSo96K_f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.mathelme.com/assets/Never-Stop-Learning_07.png)
 
 这对于软件开发人员来说非常重要。学习编程语言或框架的基础知识通常并不复杂。大多数情况下，您可以在短时间内快速实现功能，甚至更小的项目。但是如果你需要调试，修改框架或者修复错误，这就变得棘手了。
 
@@ -72,7 +72,7 @@
 
 # 做导师，有导师
 
-[![Mentor Meme](../Images/671a18aee9bad1c480b9d450799def40.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FAFVL3K---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://m.memegen.com/p907yj.jpg)
+[![Mentor Meme](img/671a18aee9bad1c480b9d450799def40.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FAFVL3K---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://m.memegen.com/p907yj.jpg)
 
 在我看来，只有当你指导他人并且自己也有导师的时候，你才能称自己为“高级”开发人员。
 
@@ -103,7 +103,7 @@
 
 # 离开你的舒适区
 
-[![Comfort Zone](../Images/e03eb9488c928d249f678ab8eacde2fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--thbU4jqq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.paladinstaff.com/blog/wp-content/uploads/2016/03/_d_improd_/where-magic-happens_f_improf_700x504.jpg)
+[![Comfort Zone](img/e03eb9488c928d249f678ab8eacde2fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--thbU4jqq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.paladinstaff.com/blog/wp-content/uploads/2016/03/_d_improd_/where-magic-happens_f_improf_700x504.jpg)
 
 许多开发人员试图避免离开他们的舒适区，一个“资深”开发人员不应该害怕离开他的舒适区。以下是一些例子:
 

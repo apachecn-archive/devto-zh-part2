@@ -162,7 +162,7 @@ Enter fullscreen mode Exit fullscreen mode
 2.  在文本字段中输入您首选的应用程序名称，然后单击创建按钮。这将创建应用程序，并将其显示在应用程序列表部分。
 3.  展开**账户 ID** 卡获取您的账户 ID
 
-[![Hamoni dashboard](../Images/4e41967431b35548bc44f1dd5b14ddc5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yUCiqUkM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://docs.hamoni.tech/assets/dashboard.png)
+[![Hamoni dashboard](img/4e41967431b35548bc44f1dd5b14ddc5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yUCiqUkM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://docs.hamoni.tech/assets/dashboard.png)
 
 将以下代码添加到`App.js`以初始化并连接到 Hamoni 同步服务器。
 
@@ -354,7 +354,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，我们可以启动 React 应用程序，并查看我们的应用程序的运行情况！在命令行中运行命令`npm start`，它会在你的默认浏览器中打开应用程序。
 
-[![React app running](../Images/5c9893c43bf7f1a2a11a025bf51eb0aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S5mkAUy9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/O6PAXFmSCeYHhTn8BfRA)
+[![React app running](img/5c9893c43bf7f1a2a11a025bf51eb0aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S5mkAUy9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/O6PAXFmSCeYHhTn8BfRA)
 
 万岁！我们有一个带分页的实时可编辑数据网格！
 

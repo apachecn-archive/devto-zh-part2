@@ -39,7 +39,7 @@ InOrderTraversal(tree.right)
 *   然后遍历右边的子树。
 
 让我们来看一个例子。
-[![Alt Stack](../Images/aa0b0f82a8a1a860279f941646ffc853.png "in order")T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--XqTwzzrk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/OKQy6vI.png)
+[![Alt Stack](img/aa0b0f82a8a1a860279f941646ffc853.png "in order")T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--XqTwzzrk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/OKQy6vI.png)
 
 我们得到了我们的二叉查找树。如果我们进行有序遍历，我们会看到这些节点是如何打印出来的。那么首先:
 
@@ -97,7 +97,7 @@ PreOrderTraversal(tree.right)
 ```
 
 让我们来看一个例子。
-[![Alt Stack](../Images/1dd3c12260e7bfb57e04ae411bf824bc.png "pre order")T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--TS3gLm-u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/sMI7qai.png)
+[![Alt Stack](img/1dd3c12260e7bfb57e04ae411bf824bc.png "pre order")T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--TS3gLm-u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/sMI7qai.png)
 
 所以这里的前序遍历说，如果我们返回的是零，我们就先走一步。我们首先打印密钥，也就是说，我们访问节点本身，然后访问其子节点。
 
@@ -148,7 +148,7 @@ Print(tree.key)
 ```
 
 让我们来看一个例子。
-[![Alt Stack](../Images/e846cf94c78b9da0e856bb756b729ddc.png "post order")T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--FIHFcC_g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/eVU2m7q.png)
+[![Alt Stack](img/e846cf94c78b9da0e856bb756b729ddc.png "post order")T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--FIHFcC_g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/eVU2m7q.png)
 
 那么，这里，**这些纸币的最后一张是什么？？**实际上将会是 **Les** ，因为我们在完成之前无法打印 Les
 

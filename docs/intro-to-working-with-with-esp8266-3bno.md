@@ -80,7 +80,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 挂接传感器
 
-[![ESP8266 Pinout](../Images/9567ee8387c5dde935c1e9906854930a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oUSU24bF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/v1/highnoiseratio.org/images/esp8266-pinout.jpg)
+[![ESP8266 Pinout](img/9567ee8387c5dde935c1e9906854930a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oUSU24bF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/v1/highnoiseratio.oimg/esp8266-pinout.jpg)
 
 我的大多数传感器平台将是一个土壤湿度传感器，运行一个 LM393 比较器芯片和一个 DHT 11 或 DHT 22 传感器。
 

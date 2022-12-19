@@ -6,7 +6,7 @@
 
 尽管我们的用户组件从 ASP.NET API 中检索和显示数据，但它也会在真正的数据显示出来之前闪现一些硬编码的数据。
 
-[![](../Images/e400252e356d888af8c4aabc4b401d75.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6OwDPzGN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-3/ReactFlicker.gif)
+[![](img/e400252e356d888af8c4aabc4b401d75.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6OwDPzGN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-3/ReactFlicker.gif)
 
 看起来我们可以删除硬编码的数据，让我们试试...
 
@@ -22,7 +22,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 是的，没错，javascript 现在被编译了！在这种情况下，我们会遇到一个错误。
 
-[![](../Images/6d4ab20208ef3cfbf143f977311c48e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0mWuQVsU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-4/2018-07-12-16-12-50.png)
+[![](img/6d4ab20208ef3cfbf143f977311c48e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0mWuQVsU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-4/2018-07-12-16-12-50.png)
 
 起初这看起来很奇怪，但它以前是有效的。
 
@@ -186,7 +186,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 [Javascript 逻辑运算符](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_Operators)
 
-[![](../Images/93b8b16f1bc0f5ceff50e3084748d392.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T6DQM93X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-4/2018-07-12-17-03-51.png)
+[![](img/93b8b16f1bc0f5ceff50e3084748d392.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T6DQM93X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-4/2018-07-12-17-03-51.png)
 
 所以最后，这只是“如果`this.state.loading`为真，则显示加载指示器”的一种简洁的说法。
 

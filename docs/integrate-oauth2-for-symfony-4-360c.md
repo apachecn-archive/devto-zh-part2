@@ -545,10 +545,10 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，我将在接口中有一个转发器。我用 Bootstrap 4 创建了一个像这样的小文件。我的 href 属性值是 **/connect/google** 。
 
-[![alt text](../Images/a46603379797533767d5100f4fc02295.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SRRFO_mY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n8qozkh6tqicgb0jrgv3.png)
+[![alt text](img/a46603379797533767d5100f4fc02295.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SRRFO_mY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n8qozkh6tqicgb0jrgv3.png)
 
-[![alt text](../Images/6d76869475c8c67f0b4e7352b1d955be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qnksyXVd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bazo365rn7hhnf2d2aed.png)
+[![alt text](img/6d76869475c8c67f0b4e7352b1d955be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qnksyXVd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bazo365rn7hhnf2d2aed.png)
 
 当我点击谷歌按钮时，它会询问我的许可。我允许，我可以成功进入。
 
-[![alt text](../Images/0a41b2d6ed9c0dd56c872945de678003.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sdECov4w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vzsruod22ivffhn1ewmr.png)
+[![alt text](img/0a41b2d6ed9c0dd56c872945de678003.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sdECov4w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vzsruod22ivffhn1ewmr.png)

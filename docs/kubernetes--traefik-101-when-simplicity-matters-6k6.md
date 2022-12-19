@@ -4,7 +4,7 @@
 
 #### 本可以让我省去几个小时摆弄键盘的教程
 
-[![](../Images/d48bbf7ec5794540258abaa1a5a27ccd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cjw7yyhE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A8jEVYbc3AEcLcr4pQjmkJg.jpeg)
+[![](img/d48bbf7ec5794540258abaa1a5a27ccd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cjw7yyhE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A8jEVYbc3AEcLcr4pQjmkJg.jpeg)
 
 你有没有遇到过这样的情况，开始于…
 
@@ -38,7 +38,7 @@
 
 Kubernetes 是一种集群技术。这意味着您将把一群计算机视为一个实体。您将不会在特定的计算机上部署应用程序，而是在集群中的某个地方部署应用程序，Kubernetes 的工作是确定最符合您的应用程序需求的计算机。
 
-<figure>[![](../Images/05c51e03d7040c1e2a94328fad9f06b2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--geoV4lXK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AqQ-j7P3WoogJgyZlDzxDSQ.png) 
+<figure>[![](img/05c51e03d7040c1e2a94328fad9f06b2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--geoV4lXK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AqQ-j7P3WoogJgyZlDzxDSQ.png) 
 
 <figcaption>集群中的机器可以有不同的特性</figcaption>
 
@@ -48,7 +48,7 @@ Kubernetes 是一种集群技术。这意味着您将把一群计算机视为一
 
 群集中的每台计算机称为一个节点。最终，这些节点将托管您的应用程序。这些节点可以分布在世界各地不同的数据中心，Kubernetes 的工作就是让它们像邻居一样交流。
 
-<figure>[![](../Images/60f9683468b9fc19d2b40ac7514f4d06.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sgTUJOL4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A2j_S_hK2c9Xc2Sgd6fPQCA.png) 
+<figure>[![](img/60f9683468b9fc19d2b40ac7514f4d06.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sgTUJOL4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A2j_S_hK2c9Xc2Sgd6fPQCA.png) 
 
 <figcaption>节点是集群中的机器</figcaption>
 
@@ -60,7 +60,7 @@ Kubernetes 是一种集群技术。这意味着您将把一群计算机视为一
 
 从技术上讲，集装箱不属于 Kubernetes 它们只是交易的工具之一。
 
-<figure>[![](../Images/168136ccd0129e361dea0e693d904e06.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--u5gV1vOF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A9ODdq3k6CY-xKX5ryRgLtw.png) 
+<figure>[![](img/168136ccd0129e361dea0e693d904e06.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--u5gV1vOF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A9ODdq3k6CY-xKX5ryRgLtw.png) 
 
 <figcaption>容器嵌入所需技术</figcaption>
 
@@ -68,7 +68,7 @@ Kubernetes 是一种集群技术。这意味着您将把一群计算机视为一
 
 基本上，Kubernetes 看到的容器如下图所示:
 
-<figure>[![](../Images/003da49a96b255c7ae87a5b7857827b8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Eg88P8zW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AoHF7k5YxREmWZ3HrWF9E3g.png) 
+<figure>[![](img/003da49a96b255c7ae87a5b7857827b8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Eg88P8zW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AoHF7k5YxREmWZ3HrWF9E3g.png) 
 
 <figcaption>容器引擎负责处理你的容器中需要的底层技术</figcaption>
 
@@ -80,7 +80,7 @@ Kubernetes 是一种集群技术。这意味着您将把一群计算机视为一
 
 因此，在 Kubernetes 的世界中，Pod 是应用程序实例、服务实例的新名称。Pod 将被托管在节点上，Kubernetes 的工作是确定哪个节点将托管哪个 Pod。
 
-<figure>[![](../Images/36da3227565a4020b0525564bf8c6956.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BEnhH2sf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AJEN9ir7oKMz7EfBtzN5nIQ.png) 
+<figure>[![](img/36da3227565a4020b0525564bf8c6956.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BEnhH2sf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AJEN9ir7oKMz7EfBtzN5nIQ.png) 
 
 <figcaption>如果一个 Pod 由多个容器组成，它们将共享相同的资源/网络</figcaption>
 
@@ -94,7 +94,7 @@ Kubernetes 是一种集群技术。这意味着您将把一群计算机视为一
 
 Kubernetes 的工作是确保您的集群将在任何给定时间托管您的 pod 的 5 个副本。
 
-<figure>[![](../Images/416665568d97a683755bb1aa2766c444.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kMiehTvn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AnXocwqHpCScrQZjgMapeqQ.png) 
+<figure>[![](img/416665568d97a683755bb1aa2766c444.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kMiehTvn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AnXocwqHpCScrQZjgMapeqQ.png) 
 
 <figcaption>Kubernetes 负责将吊舱部署到合适的地方</figcaption>
 
@@ -116,7 +116,7 @@ Kubernetes 的工作是确保您的集群将在任何给定时间托管您的 po
 
 服务定义您的*部署的*Pod 的集合，因此您可以向“您的应用程序类型的任何可用 Pod”发送请求
 
-<figure>[![](../Images/a6c095e90d0c634c2296f603ad209b86.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PQMcfofo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A7ylCISKaMMfnqK8lOJ41PA.png) 
+<figure>[![](img/a6c095e90d0c634c2296f603ad209b86.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PQMcfofo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A7ylCISKaMMfnqK8lOJ41PA.png) 
 
 <figcaption>当请求您的应用程序时，您不关心它的位置或哪个 pod 响应请求</figcaption>
 
@@ -132,7 +132,7 @@ Kubernetes 的工作是确保您的集群将在任何给定时间托管您的 po
 
 入口对象是定义应该存在的路由的规则。
 
-<figure>[![](../Images/3df3438eefe9795701cc572b9448b4b0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---NEfMwoI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AZBjq0otb_77wzQc8Tz6BEw.png) 
+<figure>[![](img/3df3438eefe9795701cc572b9448b4b0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---NEfMwoI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AZBjq0otb_77wzQc8Tz6BEw.png) 
 
 <figcaption>入口对象是定义到我们服务的路由的规则</figcaption>
 
@@ -144,7 +144,7 @@ Kubernetes 的工作是确保您的集群将在任何给定时间托管您的 po
 
 由于这是本文的主题，Traefik 是 Kubernetes 的一个很好的入口控制器。
 
-[![](../Images/d9fdd42a269b4c3bba819110873c812b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qgpxyQ3M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AevU3Y7fXZtrIYPmCuoKpmQ.png)
+[![](img/d9fdd42a269b4c3bba819110873c812b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qgpxyQ3M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AevU3Y7fXZtrIYPmCuoKpmQ.png)
 
 ### 关于 Traefik 你需要知道的事情
 
@@ -178,13 +178,13 @@ Kubernetes 的工作是确保您的集群将在任何给定时间托管您的 po
 
 因为我们喜欢图表，这是图片:
 
-[![](../Images/13f4a17b4853e236d842e3d77cbf8c69.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yywdXJVS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A1KSzpNWahErAqMi4p93JUw.png)
+[![](img/13f4a17b4853e236d842e3d77cbf8c69.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yywdXJVS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A1KSzpNWahErAqMi4p93JUw.png)
 
 #### 使用舵设置 Traefik
 
 Helm 是 Kube 的一个包管理器，对我来说，它是配置 Traefik 最方便的方式，而且不会把它搞乱。(如果你还没有安装 Helm，[这样做很容易](https://docs.helm.sh/using_helm/)，适合两个命令行，例如 *brew install kubernetes-helm，*和 *helm init* 。)
 
-[![](../Images/4aa96ff90bbde332aeda69dce9441496.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_HtuSioG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/200/1%2A9LF-XeJP9m7K9VU-bYs6fQ.png)
+[![](img/4aa96ff90bbde332aeda69dce9441496.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_HtuSioG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/200/1%2A9LF-XeJP9m7K9VU-bYs6fQ.png)
 
 要设置 Traefik，请复制/粘贴以下命令行:
 
@@ -198,7 +198,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 helm install 命令行的输出如下所示:
 
-[![](../Images/f1cb1df45a767e69342e54a23e2bd08a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H0CdRhqS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AeoA_R3WTiHnqgK2dO5olyg.png)
+[![](img/f1cb1df45a767e69342e54a23e2bd08a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H0CdRhqS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AeoA_R3WTiHnqgK2dO5olyg.png)
 
 在我的例子中，*外部 IP* 已经可用，并且是*本地主机*。
 
@@ -206,7 +206,7 @@ helm install 命令行的输出如下所示:
 
 正如我们之前所说，我们应该能够立即访问仪表板！
 
-<figure>[![](../Images/1f511c52646c2ba077109c97b267aea1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LdPyY1nY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ARlzppvn7upe9u4z3A3DWbQ.png) 
+<figure>[![](img/1f511c52646c2ba077109c97b267aea1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LdPyY1nY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ARlzppvn7upe9u4z3A3DWbQ.png) 
 
 <figcaption>仪表板显示 Traefik 检测到了一个服务(右侧称为 dashboard.localhost)并创建了一个到它的路由(左侧为 host:dashboard . localhost)</figcaption>
 
@@ -218,7 +218,7 @@ helm install 命令行的输出如下所示:
 
 提醒一下，我们希望一个 Pod 有一个容器( *containous/whoami* )。
 
-<figure>[![](../Images/ac815ace8bf9cbc31addc07a89a0e8b5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dSg3ji0r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/352/1%2ASooVurEI3Qc3gGftJDmvLg.png) 
+<figure>[![](img/ac815ace8bf9cbc31addc07a89a0e8b5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dSg3ji0r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/352/1%2ASooVurEI3Qc3gGftJDmvLg.png) 
 
 <figcaption>相当直白的荚</figcaption>
 

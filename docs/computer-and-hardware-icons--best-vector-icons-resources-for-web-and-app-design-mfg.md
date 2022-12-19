@@ -3,7 +3,7 @@
 > 原文：<https://dev.to/brananbrian/computer-and-hardware-icons--best-vector-icons-resources-for-web-and-app-design-mfg>
 
 Inventicons 以合理的价格推出了一系列高质量的计算机硬件高级图标，让用户只需点击一下鼠标就能享受到创意设计，而无需搜索图标。它们可用于不同类型的类别，如计算机显示器、硬件、鼠标、CD 和许多其他用于您的网站和应用程序的类别。
-[![Computer and Hardware Icons](../Images/5466421cda067e3cc90b08937b26d34d.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--UBGqtp_B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dzjcmn9o7jdw63a976op.png)
+[![Computer and Hardware Icons](img/5466421cda067e3cc90b08937b26d34d.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--UBGqtp_B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dzjcmn9o7jdw63a976op.png)
 
 ## 颜色和设计:
 
@@ -16,7 +16,7 @@ Inventicons 以合理的价格推出了一系列高质量的计算机硬件高�
 ## 每月套餐:
 
 还有包月套餐可供用户以可观的价格享受这些高级计算机硬件图标，并轻松使用它们。数百个高质量的图标，每一个都在一个单一的主题，在一个点击的距离。
-[![Computer and Hardware Icons](../Images/0ec193a546232ee4413c6c24f7e5bf88.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--u5iun6Ht--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kxh1x6bc7n0qxo74l1fs.png)
+[![Computer and Hardware Icons](img/0ec193a546232ee4413c6c24f7e5bf88.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--u5iun6Ht--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kxh1x6bc7n0qxo74l1fs.png)
 
 ## 对于 WINDOWS 可用性:
 
@@ -45,7 +45,7 @@ Inventicons 以合理的价格推出了一系列高质量的计算机硬件高�
 ### 各种图标:
 
 有数百个[矢量图标](https://www.inventicons.com)有不同的颜色、风格和形状，因此用户可以享受美妙的创意。数百个计算机硬件的图标可以通过搜索找到。从复杂到简单，所有计算机硬件图标都以不同的形状和样式提供。
-T3![Computer and Hardware Icons](../Images/38c88390d6016f1097f24e7b1ab10fa3.png)T5】
+T3![Computer and Hardware Icons](img/38c88390d6016f1097f24e7b1ab10fa3.png)T5】
 
 ### 特点:
 

@@ -4,7 +4,7 @@
 
 > 这篇文章最初发表在我的个人博客 [Smakosh](https://smakosh.com/blog) 上。
 
-[![Cleanify](../Images/dcedf14965a50c7c92c0f320fb36ef69.png "Follow me on Instagram to see more : https://www.instagram.com/smakosh19")T2】](///static/launch-b5f6fc813829531f7a356c0931983a15-c84dc.jpg)
+[![Cleanify](img/dcedf14965a50c7c92c0f320fb36ef69.png "Follow me on Instagram to see more : https://www.instagram.com/smakosh19")T2】](///static/launch-b5f6fc813829531f7a356c0931983a15-c84dc.jpg)
 
 在前往拉巴特访问摩洛哥办事处 [Obytes](https://obytes.com) (我工作的公司)时，我受邀参加了麦加朝圣马拉松，该活动旨在寻找愿意解决与[麦加朝圣](https://en.wikipedia.org/wiki/Hajj)相关的一些主要问题的人，特别是以下九个主题:
 

@@ -18,7 +18,7 @@
 
 4.你听说过魔鬼代言人吗？为了避免集体思维的危险，我们应该在会议中至少有一个魔鬼代言人。这不是对每个人和每件事提出质疑，而是通过提出适当的问题，对成员的观点进行批判性评估和挑战。那么领导者的角色是什么？领导要听。他们不应该一开始就陈述偏好或期望。他们应该确保有足够的时间来分析和讨论替代方案。
 
-[![Group think](../Images/15e41f4439b3df22392c6efc1713b23a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OB0iQ5FJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bb3mud4xzo4cx32snyrp.jpeg)
+[![Group think](img/15e41f4439b3df22392c6efc1713b23a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OB0iQ5FJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bb3mud4xzo4cx32snyrp.jpeg)
 
 我们需要观点的多样性，而不仅仅是文化的多样性，我们应该为我们的组织感到骄傲。拥有总是有相同观点并且不断达成一致的人可能是一个错误的警告信号。对我来说，创建一个公司结构，让我们有一些反馈和表达个人意见的空间，是创建一个成功的工作场所的必备条件。我们永远不应该阻止团队中的辩论和创新思维。我们应该缓和它们，但绝不关闭它们。有了共识，并不意味着也有了成功。
 

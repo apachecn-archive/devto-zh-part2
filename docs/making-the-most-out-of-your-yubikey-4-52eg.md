@@ -55,11 +55,11 @@ Google Chrome 是唯一完全支持它的浏览器，但您可以通过在 about
 
 查看下面一些 GitHub 上 U2F 的截图。
 
-[![](../Images/353eec8b660467537855c5b3ded5cd4b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--34NJ3dOG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hadenes.io/uploads/1_a9offp3y8ocz6uexoghm2w.png)
+[![](img/353eec8b660467537855c5b3ded5cd4b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--34NJ3dOG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hadenes.io/uploads/1_a9offp3y8ocz6uexoghm2w.png)
 
 *注意“2 个安全密钥”*
 
-[![](../Images/7349ca16680d8be63e29a7194c517823.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MmludC0e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hadenes.io/uploads/1_sp7fy9hysjzpkwmishugcw.png)
+[![](img/7349ca16680d8be63e29a7194c517823.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MmludC0e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hadenes.io/uploads/1_sp7fy9hysjzpkwmishugcw.png)
 
 第一个是我的 YubiKey 4C，第二个是我的 NEO。
 
@@ -161,7 +161,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 就这样，你准备好了。下次你执行*git 提交*时，它会要求你输入 GPG PIN 码(6 位数)并签署你的提交，在 GitHub 上留下一个漂亮的验证徽章。
 
-[![](../Images/f5fb16c6bad7ed03686c0b2ca249139b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5JFkopMD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hadenes.io/uploads/1_rzayylq8sj9g9mw_4v62ua.png)
+[![](img/f5fb16c6bad7ed03686c0b2ca249139b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5JFkopMD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hadenes.io/uploads/1_rzayylq8sj9g9mw_4v62ua.png)
 
 GitHub 还提供了一个关于提交签名的指南，你可能想看看。
 

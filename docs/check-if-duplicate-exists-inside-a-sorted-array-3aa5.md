@@ -4,7 +4,7 @@
 
 这是我们在早期文章中讨论的问题的延伸。
 
-[![s_awdesh image](../Images/ce77232f9591c12a4685017bbd2494f4.png)](/s_awdesh) [## 一个未排序的数组作为输入。
+[![s_awdesh image](img/ce77232f9591c12a4685017bbd2494f4.png)](/s_awdesh) [## 一个未排序的数组作为输入。
 
 ### 阿德什
 
@@ -20,9 +20,9 @@
 
 让我们用一个例子来看一下上面的代码:
 
-[![Example](../Images/2e16b12347f97f94a304c46bd3c275b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3FSt3AH7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/52lin09gyxh2buezt879.jpeg)
+[![Example](img/2e16b12347f97f94a304c46bd3c275b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3FSt3AH7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/52lin09gyxh2buezt879.jpeg)
 
-[![Code](../Images/e22371191389b35c914127fb24840dd3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1Llky8Tn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8thjqbmgdbolcbhvbhdb.png)
+[![Code](img/e22371191389b35c914127fb24840dd3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1Llky8Tn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8thjqbmgdbolcbhvbhdb.png)
 
 **结论**
 

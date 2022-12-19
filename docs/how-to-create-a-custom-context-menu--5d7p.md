@@ -4,7 +4,7 @@
 
 在我们开始之前，这里有一个我们将要创建的预览。
 
-[![Context menu preview](../Images/856b56689279d84f278cac9c2070d9fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3E-EBwbM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://res.cloudinary.com/hackafro/image/upload/v1518521490/ezgif.com-video-to-gif_gxie8f.gif)
+[![Context menu preview](img/856b56689279d84f278cac9c2070d9fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3E-EBwbM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://res.cloudinary.com/hackafro/image/upload/v1518521490/ezgif.com-video-to-gif_gxie8f.gif)
 
 ##### 我们来讨论几个自定义上下文菜单的用例。
 
@@ -76,7 +76,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在我们已经弄清楚了，我们将在事件回调中设置自定义上下文菜单的显示。我们将利用事件对象上的两个属性来决定在哪里显示我们的菜单。这将是用户点击的源头。
 
-[![Event screenshoot](../Images/772d5d234701b330549dc90409219eac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ysk5hkXV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/hackafro/image/upload/v1518517893/Capture_hhi0vg.png)
+[![Event screenshoot](img/772d5d234701b330549dc90409219eac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ysk5hkXV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/hackafro/image/upload/v1518517893/Capture_hhi0vg.png)
 
 事件回调的`pageX`和`pageY`属性描述了当上下文菜单请求被触发时鼠标的位置。您需要将上下文菜单放在那个位置。让我们更新我们的 js 代码来反映这些变化。
 

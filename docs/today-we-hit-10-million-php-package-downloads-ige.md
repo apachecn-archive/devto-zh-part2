@@ -6,7 +6,7 @@
 
 今天我们到达了一个显著的里程碑。据 Packagist 称，我们的软件包的总下载量已经突破了 1000 万大关。我们要庆祝这一成就，并感谢我们的贡献者。我们已经推出了一个网站，每个贡献者可以查找他或她做出了哪些贡献。你可以在这里找到它:[https://10million.spatie.be/](https://10million.spatie.be/)
 
-[![](../Images/d9b82f18216ace11fb0b548899d53b30.png)T2】](https://10million.spatie.be)
+[![](img/d9b82f18216ace11fb0b548899d53b30.png)T2】](https://10million.spatie.be)
 
 更神奇的是下载速度。两周前 Packagist 报告说我们的软件包每个月被下载一百万次。这个数字正在迅速上升。按照这个速度，我们将在今年年底或明年年初达到 2000 万次下载。
 

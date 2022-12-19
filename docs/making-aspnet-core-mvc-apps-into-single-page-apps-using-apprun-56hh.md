@@ -17,26 +17,26 @@ AppRun 可以让服务器端渲染的应用瞬间变成单页应用，就像撒�
 
 当用户第一次访问应用程序的页面时，应用程序会返回服务器端呈现的 HTML。
 
-[![App returns HTML](../Images/90d517466a0bf6a851a87592a49e57ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JmeSwKC8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AkRnYJayBjJOyrA-ewjcLeQ.png)
+[![App returns HTML](img/90d517466a0bf6a851a87592a49e57ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JmeSwKC8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AkRnYJayBjJOyrA-ewjcLeQ.png)
 
 一旦应用程序被加载，客户端 AppRun 应用程序将应用程序切换到单页应用程序模式。当用户点击页面链接时，应用程序从服务器返回虚拟 DOM。客户端 AppRun 将虚拟 DOM 渲染为真实 DOM。
 
-[![App returns Virtual DOM](../Images/61b659a2168b0d2e9f39d1bdcf9dc8b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--43S1YcZT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A1ZtgK-R4YDb8P4ahLq60Hg.png)
+[![App returns Virtual DOM](img/61b659a2168b0d2e9f39d1bdcf9dc8b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--43S1YcZT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A1ZtgK-R4YDb8P4ahLq60Hg.png)
 
 # 如何制作？
 
 首先，我们在项目中包含了虚拟 DOM 过滤器属性。然后，我们将过滤器属性应用于服务器端路由。
 
-[![Apply the Virtual DOM Filter](../Images/67941aa2db6b7584fa5a16720ee708e8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2tNoIpaX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Av2eU26XAcxChFXmYNaK5cw.png) 
+[![Apply the Virtual DOM Filter](img/67941aa2db6b7584fa5a16720ee708e8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2tNoIpaX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Av2eU26XAcxChFXmYNaK5cw.png) 
 然后，我们给 _Layout.cshtml 添加一个客户端 AppRun app
 
-[![The Client-Side AppRun App](../Images/9dfbd836637093785b4d43ad16295462.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nOi_wAnl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A_jpY9GrOqqs3zo3mnEYeyw.png)
+[![The Client-Side AppRun App](img/9dfbd836637093785b4d43ad16295462.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nOi_wAnl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A_jpY9GrOqqs3zo3mnEYeyw.png)
 
 最后，我们用 div 元素
 
 包装页面容器，供客户端应用程序呈现页面。
 
-[![Element for the AppRun App](../Images/332d543dbf2e1c427cae5c4b602a52d5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0RFM0TA_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AWsqRxJPbSSisP_QDNDnNxg.png) 
+[![Element for the AppRun App](img/332d543dbf2e1c427cae5c4b602a52d5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0RFM0TA_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AWsqRxJPbSSisP_QDNDnNxg.png) 
 这就是你需要的所有魔法！
 
 总而言之，服务器端虚拟 DOM 属性进行内容协商。当请求是 JSON 请求时，它将页面转换成虚拟 DOM。否则，它返回页面的 HTML。客户端应用程序通过将导航菜单的行为从超链接更改为 JSON 请求，将应用程序切换到 SPA 模式。当服务器返回虚拟 DOM 时，客户端应用程序会将虚拟 DOM 转换为真实 DOM。

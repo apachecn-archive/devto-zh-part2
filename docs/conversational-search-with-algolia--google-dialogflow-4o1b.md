@@ -27,7 +27,7 @@
 
 下面是我们必须处理的数据的一个例子:
 
-[![An Algolia index object](../Images/23ab46afc01e7fb401ccb9d54b552d51.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PJy0h_Dq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/132t1y0A1z3u/Image%25202018-06-11%2520at%25204.19.23%2520pm.png)
+[![An Algolia index object](img/23ab46afc01e7fb401ccb9d54b552d51.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PJy0h_Dq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/132t1y0A1z3u/Image%25202018-06-11%2520at%25204.19.23%2520pm.png)
 
 这是一个非常丰富的数据集，有很多字段，适合对话式的 UX 风格。仅仅看一下这个，你就已经可以看到我们可能要考虑处理的一些问题:
 
@@ -47,7 +47,7 @@
 
 在这个例子中，我们将从 Algolia 索引中返回数据，所以我们需要使用一个 webhook。
 
-[![Webhook fulfilment settings](../Images/014f8e2acc8be6cc185d76cd8e75445a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pEkvhgk0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/1S0c0I39300C/Image%25202018-06-20%2520at%25202.09.17%2520pm.png)
+[![Webhook fulfilment settings](img/014f8e2acc8be6cc185d76cd8e75445a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pEkvhgk0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/1S0c0I39300C/Image%25202018-06-20%2520at%25202.09.17%2520pm.png)
 
 您的 webhook 可以是任何接受 POST 请求并返回一些数据的服务的 URL。你可以使用 Node、Ruby、Go 或者任何你喜欢的语言来编写一个小型的 HTTP 服务器。只要确保您使用的端点是公开可用的。
 
@@ -63,7 +63,7 @@
 
 在设计对话界面时，背景是非常重要的，培训是帮助你的应用理解用户真正在问什么的重要部分。
 
-[![The bot in action](../Images/1f90b404f0aa181a46339874c3e58688.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uxYy0WFp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cl.ly/2g1l0I1x0H40/Screen%2520Recording%25202018-06-14%2520at%252004.45%2520pm.gif)
+[![The bot in action](img/1f90b404f0aa181a46339874c3e58688.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uxYy0WFp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cl.ly/2g1l0I1x0H40/Screen%2520Recording%25202018-06-14%2520at%252004.45%2520pm.gif)
 
 上面你可以看到用户问了几个关于世界杯小组赛的问题。我们需要我们的机器人来理解什么样的问题会与这个上下文相关，或者用对话流的话说，这个*‘意图’*。
 
@@ -71,11 +71,11 @@
 
 这是我给系统的两页训练短语中的一页，这样它就可以了解“组”了:
 
-[![Training phrases for groups](../Images/3c469f03c977eae5eef92aa578d28195.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NGp3KwIV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/1P181p0Q2f1G/Image%25202018-06-20%2520at%25202.21.01%2520pm.png)
+[![Training phrases for groups](img/3c469f03c977eae5eef92aa578d28195.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NGp3KwIV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/1P181p0Q2f1G/Image%25202018-06-20%2520at%25202.21.01%2520pm.png)
 
 Dialogflow 将尝试将某些数据点与您键入的内容进行匹配。在上面的图片中，你可以看到不同的颜色突出了某些单词。当该词与您设置的任何一个操作和/或参数匹配时，就会发生这种情况
 
-[![Actions and Parameters](../Images/0d736c950f9eebcb74a9f91215fb5d4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qo7YpZDI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/3j0Q3P242I06/Image%25202018-06-20%2520at%25202.26.10%2520pm.png)
+[![Actions and Parameters](img/0d736c950f9eebcb74a9f91215fb5d4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qo7YpZDI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/3j0Q3P242I06/Image%25202018-06-20%2520at%25202.26.10%2520pm.png)
 
 对于这个特定的数据集，并且为了与组一起工作，我们需要能够识别三件事情:
 
@@ -91,11 +91,11 @@ Dialogflow 将尝试将某些数据点与您键入的内容进行匹配。在上
 
 一旦你加载了训练短语，你就可以使用 Dialogflow 模拟器(在每一页上都有)来测试你是否得到了你所需要的匹配参数:
 
-[![Dialogflow Emulator](../Images/531c75e1a5d864cd4f70bee8f24f7f92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WJkz0y4B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cl.ly/0Y3t2q230u3M/Screen%2520Recording%25202018-06-20%2520at%252002.39%2520pm.gif)
+[![Dialogflow Emulator](img/531c75e1a5d864cd4f70bee8f24f7f92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WJkz0y4B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cl.ly/0Y3t2q230u3M/Screen%2520Recording%25202018-06-20%2520at%252002.39%2520pm.gif)
 
 您不会得到任何响应，因为您还没有编写任何代码，但是您将能够看到您是否得到了匹配。
 
-[![Getting matches!](../Images/95df84b9ed6bf908bc968a592d4ec71c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dBQfxDOs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/0H2l0X2l3h2N/%255B72dfc9b5cedaeeb1a37f4c7f9a724a52%255D_Image%25202018-06-20%2520at%25202.44.00%2520pm.png)
+[![Getting matches!](img/95df84b9ed6bf908bc968a592d4ec71c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dBQfxDOs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/0H2l0X2l3h2N/%255B72dfc9b5cedaeeb1a37f4c7f9a724a52%255D_Image%25202018-06-20%2520at%25202.44.00%2520pm.png)
 
 ## 处理发布请求
 
@@ -246,7 +246,7 @@ Dialogflow 需要一个至少具有关键字`fulfillmentText`的对象。这个�
 
 你可以在这里看到它的作用:
 
-[![Group responses](../Images/79d7b41935352d88296101b586d641e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lZJ1VocK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cl.ly/392i1P3e0z0o/Screen%2520Recording%25202018-06-20%2520at%252003.22%2520pm.gif)
+[![Group responses](img/79d7b41935352d88296101b586d641e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lZJ1VocK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cl.ly/392i1P3e0z0o/Screen%2520Recording%25202018-06-20%2520at%252003.22%2520pm.gif)
 
 我们还需要处理一个用户询问一个国家属于哪个组。 **Dialogflow 自动检测文本中是否存在国家，并将它们作为名为`geo-country`** 的参数传递。在函数开始时，我们检查它是否存在，如果存在，我们在 Algolia 中执行一个稍微不同的搜索:
 
@@ -264,7 +264,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 同样，Algolia 的文本搜索能力的好处意味着我们可以在如何构建查询方面相当宽松。在这种情况下，我们只需传递国家名称，其工作方式如下:
 
-[![Text search in Agolia](../Images/106c2283cbc2aa36f0ca34b26de6f3de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n9yI4cKu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cl.ly/2s151h2q1W1y/Screen%2520Recording%25202018-06-20%2520at%252003.33%2520pm.gif)
+[![Text search in Agolia](img/106c2283cbc2aa36f0ca34b26de6f3de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n9yI4cKu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cl.ly/2s151h2q1W1y/Screen%2520Recording%25202018-06-20%2520at%252003.33%2520pm.gif)
 
 ## 测试
 
@@ -290,7 +290,7 @@ Dialogflow 输出:*“伊朗伊斯兰共和国”*
 
 为了解决这个问题，我使用了 Algolia 为每个索引提供的查询扩展特性，该特性允许您指定一组同义词，索引应该将这些同义词视为同一事物。基本上允许我说*‘如果你看到伊朗伊斯兰共和国，那么我真正指的是伊朗’*。
 
-[![Synonyms in Algolia](../Images/1313039555828c16a5843072b9c00f18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qUn35DUd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/3K0K0C3A1812/Image%25202018-06-20%2520at%25203.44.16%2520pm.png)
+[![Synonyms in Algolia](img/1313039555828c16a5843072b9c00f18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qUn35DUd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/3K0K0C3A1812/Image%25202018-06-20%2520at%25203.44.16%2520pm.png)
 
 在训练你的机器人时使用这个特性将允许你以更低的代码开销非常快速地得到非常准确的结果。
 

@@ -14,4 +14,4 @@
 
 保存您的**用户设置**配置和您的，以便更有效地使用 Markdown(和其他语言)的代码片段！
 
-[![](../Images/6c500170bab0c5898cdbf6c85557c561.png "Markdown Snippet Tab Completion")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_jQ8u2oy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.chaseadams.io/img/markdown-expand.gif)
+[![](img/6c500170bab0c5898cdbf6c85557c561.png "Markdown Snippet Tab Completion")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_jQ8u2oy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.chaseadams.io/img/markdown-expand.gif)

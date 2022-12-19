@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/itachiuchiha/bulma-based-ui-components-for-vuejs-41i4>
 
-[![Buefy Logo](../Images/cfae096b911897146651e9ee42d19398.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0oCvqbOd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jvp07conmiixrbgr758c.png)
+[![Buefy Logo](img/cfae096b911897146651e9ee42d19398.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0oCvqbOd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jvp07conmiixrbgr758c.png)
 
 [这篇文章最初发表在我的博客上](https://aligoren.com/bulma-based-ui-components-for-vue-js/)
 
@@ -176,7 +176,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当您运行您的项目时，它将看起来像这样:
 
-[![Buefy Navbar](../Images/604dbf8ae598ca59fad6c630044e3c8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t8JnbVPv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/trw55y6041rlhss7e1zk.png)
+[![Buefy Navbar](img/604dbf8ae598ca59fad6c630044e3c8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t8JnbVPv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/trw55y6041rlhss7e1zk.png)
 
 现在，我们将更改默认组件的模板及其脚本部分。例如，我们有一个名为 **Home.vue** 的组件。它的模板应该是这样的:
 
@@ -271,7 +271,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在这个例子中，我们使用 google books api。现在，我们的主页应该是这样的:
 
-[![Buefy Home](../Images/b5e28b6a9a2d8578fb4ba71bb40f6c19.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j09K9Bwq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7l0vxcazchx6xfyyzzuu.png)
+[![Buefy Home](img/b5e28b6a9a2d8578fb4ba71bb40f6c19.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j09K9Bwq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7l0vxcazchx6xfyyzzuu.png)
 
 ## 让我们创建登录模式
 
@@ -354,7 +354,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们的模态将是这样的:
 
-[![Buefy Modal](../Images/0f31fb8bdabf8f6fcf24393c4cc7331c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Slln9aBY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fk7v1mpwz4xq8yf7ypa1.png)
+[![Buefy Modal](img/0f31fb8bdabf8f6fcf24393c4cc7331c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Slln9aBY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fk7v1mpwz4xq8yf7ypa1.png)
 
 很好。我们创建了基本的 bookreads 门户网站来替代 goodreads。但是布埃菲有更多的成分。例如 jQuery DataTable 的替代表组件。
 

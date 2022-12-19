@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/blackode/the-secret-behind-elixir-operator-re-definitions--to---30om>
 
-[![Photo by [rawpixel.com](https://unsplash.com/photos/lRssALOk1fU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](../Images/a99c95f42f8026d79f5f0a642db54149.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--ecBl1OkT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/13378/1%2AyZWunekTH1rb4DgIGwoPXw.jpeg) *照片由[rawpixel.com](https://unsplash.com/photos/lRssALOk1fU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)上 [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)* 
+[![Photo by [rawpixel.com](https://unsplash.com/photos/lRssALOk1fU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](img/a99c95f42f8026d79f5f0a642db54149.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--ecBl1OkT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/13378/1%2AyZWunekTH1rb4DgIGwoPXw.jpeg) *照片由[rawpixel.com](https://unsplash.com/photos/lRssALOk1fU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)上 [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)* 
 
 大家好。今天，我们要做一些疯狂的事情。这篇文章只是为了好玩。唯一的目的是向你展示这在仙丹中的可能性。
 
@@ -50,7 +50,7 @@ iex> 1 + 2
 ** ** (CompileError) iex:4: function +/2 imported from both MyWrongOperators and Kernel, call is ambiguous 
 ```
 
-[![Compile Error When Using the Module Directly](../Images/f348e9fff86a6d921e2f80b2df666bf6.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--9AXVli86--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3822/1%2AZ6xJha0Y-bHkXSyxgJzDhw.png) *直接使用模块时编译错误*
+[![Compile Error When Using the Module Directly](img/f348e9fff86a6d921e2f80b2df666bf6.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--9AXVli86--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3822/1%2AZ6xJha0Y-bHkXSyxgJzDhw.png) *直接使用模块时编译错误*
 
 好吧，是什么力量让你犯了这个错误？你能想一会儿猜一猜吗？
 
@@ -78,7 +78,7 @@ iex> 1 + 2
 -1            # 1 - 2 operation performed here as we defined. 
 ```
 
-[![The perfect Usage](../Images/68051c6b6d7a40cac7f83493115d67b8.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--Oy_8wnlj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3826/1%2AH00Zk9PqI0DYw1M9XghYew.png) *完美用法*
+[![The perfect Usage](img/68051c6b6d7a40cac7f83493115d67b8.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--Oy_8wnlj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3826/1%2AH00Zk9PqI0DYw1M9XghYew.png) *完美用法*
 
 在上面的屏幕截图中，在 iex(3)行，我们加载了内核模块，但没有让它加载+/2 定义。所以，它工作得很完美。
 
@@ -114,7 +114,7 @@ iex> 1 + 2
 
 ## 现场演示
 
-[![[https://asciinema.org/a/151933](https://asciinema.org/a/151933)](../Images/3b3003a77c2a429c94094124f0f27296.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yrMFJKed--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2152/1%2AdLyXfERe8jP4YkkC7k3c6A.png)
+[![[https://asciinema.org/a/151933](https://asciinema.org/a/151933)](img/3b3003a77c2a429c94094124f0f27296.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yrMFJKed--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2152/1%2AdLyXfERe8jP4YkkC7k3c6A.png)
 
 ***警告***
 高度不建议做…

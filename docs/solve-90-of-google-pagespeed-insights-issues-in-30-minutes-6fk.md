@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/joshghent/solve-90-of-google-pagespeed-insights-issues-in-30-minutes-6fk>
 
-<figure>[![](../Images/60d11183c6bcb18b9aad35bb8fa65ccb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QvjBXXyN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ASooLbBGN7oheUAWcNCevjg.jpeg) 
+<figure>[![](img/60d11183c6bcb18b9aad35bb8fa65ccb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QvjBXXyN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ASooLbBGN7oheUAWcNCevjg.jpeg) 
 
 <figcaption>来源:[https://unsplash.com/photos/fxAo3DiMICI](https://unsplash.com/photos/fxAo3DiMICI)</figcaption>
 
@@ -30,7 +30,7 @@
 
 你可以用几种方法缓存你的资产，最简单的是在你的请求上设置一个缓存控制头。在 Apache 服务器上，您可以如下进行操作。
 
-<figure>[![](../Images/4dea95d1833deb0e5226aec9d3ec8c86.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Z6f8MYlQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ASsZKehPZW3P9knAC.) 
+<figure>[![](img/4dea95d1833deb0e5226aec9d3ec8c86.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Z6f8MYlQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ASsZKehPZW3P9knAC.) 
 
 <figcaption>此处代码:[https://gist . github . com/joshghent/fcca 761d 006 AE 34 a1 a2 AAA 0406 a9 E0 f1](https://gist.github.com/joshghent/fcca761d006ae34a1a2aaa0406a9e0f1)</figcaption>
 

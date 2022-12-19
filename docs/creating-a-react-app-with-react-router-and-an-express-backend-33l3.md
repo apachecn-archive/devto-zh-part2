@@ -98,7 +98,7 @@ npm start
 
 打开[http://localhost:5000/API/getList](http://localhost:5000/api/getList)，您应该看到以下内容:
 
-[![alt text](../Images/f0965adad25edf605e4376b910ba96e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AY6go63O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9k700wuogatvegrzlq2j.png)
+[![alt text](img/f0965adad25edf605e4376b910ba96e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AY6go63O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9k700wuogatvegrzlq2j.png)
 
 # 创建 React App
 
@@ -204,7 +204,7 @@ export default App;
 
 在读了 Alexis Mangin 的一篇文章后，我开始构建我的 React 项目，类似于 how descriptions。在这一点上，我建议重新组织项目，以匹配下图。
 
-[![alt text](../Images/7c8a56c59173f627fa89d985ed7a10f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--88_P7zbw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/22ijhttfi14dcfdgc2tl.png)
+[![alt text](img/7c8a56c59173f627fa89d985ed7a10f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--88_P7zbw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/22ijhttfi14dcfdgc2tl.png)
 
 在 src/App/pages 中创建文件 *Home.js* ，并包含以下代码:
 
@@ -296,7 +296,7 @@ export default List;
 
 此时，项目应该已经启动并运行了。为了测试项目，从项目的主目录和客户机目录中运行 *npm start* 。在主页上选择了我的列表后，我们应该可以从我们的 Express 服务器上看到这三个项目。
 
-[![alt text](../Images/01ad50e5e9f9f16bc6acd919bfcaea1c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ldqaiX8T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/avbeqcm9p8m9tsgl0y43.png)
+[![alt text](img/01ad50e5e9f9f16bc6acd919bfcaea1c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ldqaiX8T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/avbeqcm9p8m9tsgl0y43.png)
 
 # 部署到 Heroku
 

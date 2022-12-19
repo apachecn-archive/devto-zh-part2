@@ -18,7 +18,7 @@
 
 非常
 
-[![Screenshot demo](../Images/5d61b706fe2f52deddab53408c451419.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ir5MxXBH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://shopoji.xyz/public/assets/img/demo.png)
+[![Screenshot demo](img/5d61b706fe2f52deddab53408c451419.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ir5MxXBH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://shopoji.xyz/public/assets/img/demo.png)
 
 可以多买库存。你可以卖掉你的存货。可以赚钱。UI 现在是引导的，所以不太可怕。
 

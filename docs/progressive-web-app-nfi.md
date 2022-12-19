@@ -71,7 +71,7 @@ markentier.tech 现在也是一个进步的网络应用。这是什么意思，�
 
 一般来说,[缓存控制头](https://developer.mozilla.org/de/docs/Web/HTTP/Headers/Cache-Control)是一个很好的起点，它帮助浏览器决定应该把什么样的文件保存在手边以及保存多长时间，而不是从互联网上获取。
 
-[![Google Lighthouse: Report](../Images/a8ae55b5a19eb0d5b0de88605149f85c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kQko4qbz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://markentier.tech/posts/2018/04/progressive-web-app/google-lighthouse-report.png)
+[![Google Lighthouse: Report](img/a8ae55b5a19eb0d5b0de88605149f85c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kQko4qbz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://markentier.tech/posts/2018/04/progressive-web-app/google-lighthouse-report.png)
 
 ### 下一级:渐进式网络
 
@@ -97,7 +97,7 @@ markentier.tech 现在也是一个进步的网络应用。这是什么意思，�
 
 酷的是，它不仅使你的网站运行更快，缓存项目，而且还提供离线功能。
 
-[![markentier.tech PWA screenshots](../Images/24e7454fc3726f35a5c82b2ef18aa051.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j9Y-M0wi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://markentier.tech/posts/2018/04/progressive-web-app/app-screens.png)
+[![markentier.tech PWA screenshots](img/24e7454fc3726f35a5c82b2ef18aa051.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j9Y-M0wi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://markentier.tech/posts/2018/04/progressive-web-app/app-screens.png)
 
 上面的截图是一个例子，展示了如果你决定将 *markentier.tech* 添加到你的主屏幕上会是什么样子。给地址栏着色也是一个不错的花招。
 

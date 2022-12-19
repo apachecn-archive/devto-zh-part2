@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/cindyachieng/pipenv-the-new-python-packaging-tool-179n>
 
-[![](../Images/e66916fc10bca6725ecc781bfe9fb6a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4z_Y4sCE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xu3vw4t3rwhvlvp4h12l.jpg)
+[![](img/e66916fc10bca6725ecc781bfe9fb6a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4z_Y4sCE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xu3vw4t3rwhvlvp4h12l.jpg)
 
 很明显，我一直生活在岩石下，但现在不是了！我分享了一篇文章[关于使用 pip 和 virtualenv](https://achiengcindy.com/how-set-django-environment-linux-beginners/1) 和 [M. Floering](https://dev.to/hangtwenty/comment/2m3e) 设置 django 环境，建议我查看一下`pipenv`。你猜对了，是的，我做了，我喜欢它！
 `Pipenv`是根据[pipenv.org](https://docs.pipenv.org/)官方推荐的 python 打包工具。这是一个伟大的工具，用于管理你的项目的依赖关系，以及安装和卸载软件包。

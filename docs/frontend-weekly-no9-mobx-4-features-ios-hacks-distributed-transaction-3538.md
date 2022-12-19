@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/wxyyxc1992/frontend-weekly-no9-mobx-4-features-ios-hacks-distributed-transaction-3538>
 
-[![周报封面 55.jpg](../Images/bcdb3b53815460d797b2b0cc765fb969.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--StI-v5zD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://upload-images.jianshu.io/upload_images/1647496-e1d5b6bb971ea4df.jpg%3FimageMogr2/auto-orient/strip%257CimageView2/2/w/1240)
+[![周报封面 55.jpg](img/bcdb3b53815460d797b2b0cc765fb969.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--StI-v5zD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://upload-images.jianshu.io/upload_images/1647496-e1d5b6bb971ea4df.jpg%3FimageMogr2/auto-orient/strip%257CimageView2/2/w/1240)
 
 与前端开发相关的最佳文章、链接和新闻等，每周发布一次。本期所有参考资料均来自[媒体](https://medium.com/@384924552)、[黑客新闻](https://news.ycombinator.com/news)、 [Reddit](//reddit.com) 、 [Twitter](//twitter.com) 、 [MyBridge](//mybridge.co) 等。
 

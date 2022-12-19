@@ -57,13 +57,13 @@ parity --chain=dev --jsonrpc-apis web3,rpc,personal,parity_accounts,eth,net,pari
 Enter fullscreen mode Exit fullscreen mode
 
 现在我们确实需要一个有一定金额的账户来进行交易。平价发展链允许你创建一个几乎无限量的帐户，但只能在一个发展链上。你不会发现创建这样一个帐户作为一个常规的用户界面选项，它可以作为一个黑客。请先打开平价 UI ( `http://0.0.0.0:8180/`)的链接，打开账号然后恢复，你应该看到:
-[![Restore super account 1](../Images/bfe67d685f2937d76dae7677505ce7fc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mO0nU4ul--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cpfp05sfjm3x7o6rd5tn.jpg)
+[![Restore super account 1](img/bfe67d685f2937d76dae7677505ce7fc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mO0nU4ul--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cpfp05sfjm3x7o6rd5tn.jpg)
 
 诀窍是用空的恢复短语来恢复帐户。请填写账户名称、密码提示、密码，点击右下角
-[![Restore super account 2](../Images/249afa58a0ed9bb1b34bd166dea8240a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1jAyLEQN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o4mz8qef4603wreeycxo.jpg) 导入
+[![Restore super account 2](img/249afa58a0ed9bb1b34bd166dea8240a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1jAyLEQN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o4mz8qef4603wreeycxo.jpg) 导入
 
 创建帐户后，您应该会看到:
-[![Restore super account 3](../Images/69f3ae9514db4a09b75671c067f8693c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bL0P0YS9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hlpqp7crsis41cenkztd.jpg)
+[![Restore super account 3](img/69f3ae9514db4a09b75671c067f8693c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bL0P0YS9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hlpqp7crsis41cenkztd.jpg)
 
 下一步是使用未锁定的帐户运行奇偶校验节点，我们将在该节点上执行所有测试交易，因此您不需要通过奇偶校验 UI 上可用的签名者来签署每个测试交易。为此，请首先终止已经开始的奇偶校验过程，并使用两个附加参数运行该过程:
 
@@ -77,7 +77,7 @@ parity --chain=dev --jsonrpc-apis web3,rpc,personal,parity_accounts,eth,net,pari
 Enter fullscreen mode Exit fullscreen mode
 
 其中应该会产生这样的结果:
-[![Parity in terminal](../Images/85d329918ecf5055a80fd29af0d35e29.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LIxqSkmI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4d9t2i73g93ti7eimewn.jpg)
+[![Parity in terminal](img/85d329918ecf5055a80fd29af0d35e29.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LIxqSkmI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4d9t2i73g93ti7eimewn.jpg)
 
 奇偶校验节点准备就绪！:)
 

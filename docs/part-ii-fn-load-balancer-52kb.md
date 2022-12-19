@@ -19,7 +19,7 @@
 Fn 负载平衡器的目的是智能地将流量路由到 Fn 服务器集群。这不是一个简单的循环路由，因为它有一些逻辑来根据传入的请求确定将流量路由到哪些节点。例如，如果您的函数在 node2 上是“热”的，负载平衡器将确保它被路由到该节点，而不是没有加载该函数的另一个节点。这样你可以获得更好的性能。
 查看下面的简单图表，了解负载平衡器如何与 Fn 服务器和 Fn 数据库相适应。
 
-[![LB diagram](../Images/9aa047ec52ae46a7b8d88bc7b03aff96.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MHjbBiS9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Ae0P5kgq0kGHsghzGjsngVw.png)
+[![LB diagram](img/9aa047ec52ae46a7b8d88bc7b03aff96.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MHjbBiS9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Ae0P5kgq0kGHsghzGjsngVw.png)
 
 负载平衡器还收集有关整个集群的信息，并显示节点列表及其状态，因此您可以使用这些信息通过添加更多 Fn 服务器来扩展您的集群，或者扩大-减少集群中的服务器数量。
 

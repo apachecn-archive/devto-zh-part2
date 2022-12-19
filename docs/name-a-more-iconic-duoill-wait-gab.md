@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/pabiforbes/name-a-more-iconic-duoill-wait-gab>
 
-[![Post Header Image](../Images/68a7e0a8f5a61c7514b70d4e0814cb3e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qQ6R1HxM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/skeixfxtem013qqlemvs.jpg)
+[![Post Header Image](img/68a7e0a8f5a61c7514b70d4e0814cb3e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qQ6R1HxM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/skeixfxtem013qqlemvs.jpg)
 
 在本帖中，我们将探讨如何设置我们应用程序的图标，以及我们可以免费使用图标的精彩资源。
 

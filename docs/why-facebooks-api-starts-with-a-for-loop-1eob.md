@@ -4,9 +4,9 @@
 
 如果您曾经在浏览器中检查过对大公司 API 的请求，您可能会注意到在 JSON 本身之前有一些奇怪的 javascript:
 
-> 脸书 [![Facebook](../Images/3364083e01ace6a0640dcb4ce9183f00.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kc1Sjl6H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0ilzmxjo89zo3xcchd09.png)
+> 脸书 [![Facebook](img/3364083e01ace6a0640dcb4ce9183f00.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kc1Sjl6H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0ilzmxjo89zo3xcchd09.png)
 > 
-> Gmail[T2![Facebook](../Images/1f6076d594738412fa15ab1394dd926a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--l1L9q7ME--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x0kj3nle3typ7ctp4hdv.png)
+> Gmail[T2![Facebook](img/1f6076d594738412fa15ab1394dd926a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--l1L9q7ME--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x0kj3nle3typ7ctp4hdv.png)
 
 为什么他们要浪费几个字节来使这个 JSON 无效呢？
 
@@ -213,17 +213,17 @@ Chrome 和其他的不一样，它认为这些情况是一个对象创建，因�
 
 感谢 [Matt (r0x33d)](https://twitter.com/r0x33d) 帮忙解开这个谜团！
 
-> ![Matt profile image](../Images/c67e788ba8f689c02c3ffc9beacfa177.png)马特@ r0x 33d![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)[@ Jon _ bottarini](https://twitter.com/jon_bottarini)[@ AntoGarand](https://twitter.com/AntoGarand)[@ marcs 0h](https://twitter.com/MarcS0h)至于{key:'value'} -这是作为带标签的块语句处理的。您可以通过将{key:'value '，keytwo:'value2'}写入控制台来确认，这将不起作用。2018 年 11 月 13 日上午 06:15[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1062227343350083584)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1062227343350083584)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1062227343350083584)
+> ![Matt profile image](img/c67e788ba8f689c02c3ffc9beacfa177.png)马特@ r0x 33d![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)[@ Jon _ bottarini](https://twitter.com/jon_bottarini)[@ AntoGarand](https://twitter.com/AntoGarand)[@ marcs 0h](https://twitter.com/MarcS0h)至于{key:'value'} -这是作为带标签的块语句处理的。您可以通过将{key:'value '，keytwo:'value2'}写入控制台来确认，这将不起作用。2018 年 11 月 13 日上午 06:15[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1062227343350083584)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1062227343350083584)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1062227343350083584)
 
 更新:[V8 车队的 Mathias Bynens](https://twitter.com/mathias/) 指出了这一点:
 
 > 但是 DevTools 隐式地包装了您的输入代码来实现这一点。
 
-> ![Mathias Bynens profile image](../Images/dedf260f16ec3783dd7e70f43cf5ca29.png)马蒂亚斯·拜恩斯[@马蒂亚斯](https://dev.to/mathias)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)[@安托加兰](https://twitter.com/AntoGarand) [@v8js](https://twitter.com/v8js) 你大概是直接把
+> ![Mathias Bynens profile image](img/dedf260f16ec3783dd7e70f43cf5ca29.png)马蒂亚斯·拜恩斯[@马蒂亚斯](https://dev.to/mathias)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)[@安托加兰](https://twitter.com/AntoGarand) [@v8js](https://twitter.com/v8js) 你大概是直接把
 > 
 > { " key ":" value " }
 > 
-> 粘贴到 DevTools 控制台后得出的结论。但是 DevTools 隐式地包装了您的输入代码来实现这一点。2018 年 11 月 15 日上午 07:22[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1062969191106412544)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1062969191106412544)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1062969191106412544)
+> 粘贴到 DevTools 控制台后得出的结论。但是 DevTools 隐式地包装了您的输入代码来实现这一点。2018 年 11 月 15 日上午 07:22[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1062969191106412544)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1062969191106412544)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1062969191106412544)
 
 这可以通过`eval`评估代码来测试，而不是简单地运行它:
 
@@ -250,4 +250,4 @@ Enter fullscreen mode Exit fullscreen mode
 [stack overflow——为什么谷歌要在他们的 JSON 响应前加上【一个循环】](https://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses)
 
 [Portswigger - JSON 劫持现代网络](https://portswigger.net/blog/json-hijacking-for-the-modern-web)
-[和加雷思·海耶斯的幻灯片](https://www.owasp.org/images/6/6a/OWASPLondon20161124_JSON_Hijacking_Gareth_Heyes.pdf)
+[和加雷思·海耶斯的幻灯片](https://www.owasp.oimg/6/6a/OWASPLondon20161124_JSON_Hijacking_Gareth_Heyes.pdf)

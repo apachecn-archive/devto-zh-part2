@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/what-every-developer-needs-to-know-about-html-email-318i>
 
-[![](../Images/ab0ba6d888e18481eb4ceb493d690bb4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zk-936k1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A_aQDJV7CZJ6gEW9KLd9VLQ.jpeg)
+[![](img/ab0ba6d888e18481eb4ceb493d690bb4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zk-936k1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A_aQDJV7CZJ6gEW9KLd9VLQ.jpeg)
 
 HTML 电子邮件:你可能喜欢它，也可能讨厌它——但你听说过它。我打赌你对此也有自己的看法。但是您知道吗，HTML 电子邮件在历史上是公司最有价值和最重要的沟通渠道之一。
 
@@ -26,7 +26,7 @@ HTML 电子邮件:你可能喜欢它，也可能讨厌它——但你听说过�
 
 有时这两者之间有一点灰色地带，但重要的是要尝试将任何电子邮件归入这两个类别中的一个，尤其是当你开始考虑订户权限时。随着 GDPR 于 5 月 25 日生效，任何发送电子邮件的人都必须获得用户的明确许可，并保留许可记录，否则将面临巨额罚款。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/?cid=banner_a)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/?cid=banner_a)
 
 ### 认证
 
@@ -36,23 +36,23 @@ HTML 电子邮件:你可能喜欢它，也可能讨厌它——但你听说过�
 
 **发件人策略框架(SPF)** 是存储在您的域中的记录，可提供额外的身份验证检查。基本上，您可以在发送电子邮件的域的 DNS 设置中添加 SPF 和 TXT 记录，其中包括邮件服务器的 IP 地址。然后，ISP 可以验证您的 IP 地址是合法的，这使得您的电子邮件更有可能被发送。SPF 记录看起来像这样:
 
-[![](../Images/8c8ca03179f242b6eebcd9b93b703b7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pkESidpV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ACgPuTtNUkTGS87uy)
+[![](img/8c8ca03179f242b6eebcd9b93b703b7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pkESidpV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ACgPuTtNUkTGS87uy)
 
 发件人政策框架项目在其网站上有更多关于 SPF 记录和语法[的信息。](http://www.openspf.org/Project_Overview)
 
 **域名密钥识别邮件(DKIM)** 是另一种验证邮件的机制。有了 DKIM，你实际上是在设置负责电子邮件的密钥。DKIM 用私钥签署电子邮件，然后在公钥的帮助下解码。公钥是您的发送域的另一个 DNS 条目，看起来与此类似(取自 [DKIM 网站](http://dkim.org/info/dkim-faq.html)):
 
-[![](../Images/f5d753f178d5f0087d91ab04af722a13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h7WMXLen--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A-JMte4Beayuv-wmD)
+[![](img/f5d753f178d5f0087d91ab04af722a13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h7WMXLen--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A-JMte4Beayuv-wmD)
 
 最后，还有**基于域的消息认证、报告和一致性(DMARC)** 。虽然 DMARC 本身在技术上不是一种身份验证机制，但它通知收件人邮件受到 SPF 和 DKIM 等其他机制的保护。如果这两种机制中的任何一种失败了，DMARC 会告诉接收方如何处理消息:通过、隔离或失败。然后，它提供了一种机制来通知发送者消息发生了什么。这是一种监控您的发送信誉并查看谁(如果有人)正在滥用您的邮件基础设施的强大方法。
 
 就像上面的两种机制一样，dmarc 作为 DNS 条目存在，但这一次是在像 _dmarc.example.com 这样的子域上。您可以使用 pct 标记在 DMARC 中设置阈值，然后使用 p 或 policy 标记告诉收件人如何处理这些电子邮件，该标记的值为 none、quarantine 和 reject。
 
-[![](../Images/5bde2571bd9bbf8fa9b84ff164d7e3dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mi4QMPnT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AocpyMqXK3i7TMKse)
+[![](img/5bde2571bd9bbf8fa9b84ff164d7e3dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mi4QMPnT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AocpyMqXK3i7TMKse)
 
 值得注意的是，DMARC 与其他认证协议协同工作。正确配置后，所有这些都是有助于防止垃圾邮件的传递链的一部分。
 
-[![](../Images/08e22fa21bd710a4d4c55f641d79fe5a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HFu3FL0A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/864/1%2AUKOs_XKjBIhpQtPVlwnPgg.png) 
+[![](img/08e22fa21bd710a4d4c55f641d79fe5a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HFu3FL0A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/864/1%2AUKOs_XKjBIhpQtPVlwnPgg.png) 
 
 <figcaption>邮件传递链的基本概述。</figcaption>
 
@@ -90,7 +90,7 @@ HTML 电子邮件:你可能喜欢它，也可能讨厌它——但你听说过�
 
 例如，如果您有一封简单的电子邮件，带有徽标、标题、图像、段落和按钮，其结构将如下所示:
 
-[![](../Images/32aa06ced1ffb00e96575bf7106b5e52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j1h4btFO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/937/1%2AemhMm_w0J01AUMiXlwtzLA.png)
+[![](img/32aa06ced1ffb00e96575bf7106b5e52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j1h4btFO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/937/1%2AemhMm_w0J01AUMiXlwtzLA.png)
 
 这些单独的元素中的每一个都可以是它自己的模块，在它自己的表格行和表格单元格中。保持电子邮件的模块化可以让您更轻松地解决电子邮件中的问题，并快速组合不同类型的模块来构建各种类型的电子邮件布局。
 
@@ -128,7 +128,7 @@ HTML 电子邮件:你可能喜欢它，也可能讨厌它——但你听说过�
 
 两者都提供了简单的标记、内置组件和构建工具，允许您快速开发跨客户端运行良好的电子邮件代码。快速的 GitHub 搜索也会找到大量用于创建 HTML 邮件的模板、框架和工具。
 
-[![](../Images/a09b2c6a8474564d1274c91455b4842c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dg4igtiw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/962/1%2Ak1yOzhkuINMr7szgVeZqCg.gif) 
+[![](img/a09b2c6a8474564d1274c91455b4842c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dg4igtiw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/962/1%2Ak1yOzhkuINMr7szgVeZqCg.gif) 
 
 <figcaption>一封来自[石蕊](https://litmus.com)的互动邮件。</figcaption>
 
@@ -148,7 +148,7 @@ HTML 电子邮件可能不是你项目的第一选择，但它对每个公司来
 
 ### Plug: [LogRocket](http://logrocket.com) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

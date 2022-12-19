@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/wiredferret/my-first-year-a-professional-review-25do>
 
-[![](../Images/6eef5818952686ac35912873f7d93f04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ONGXg-UV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2017/10/Toggle_launching-297x300.jpg)
+[![](img/6eef5818952686ac35912873f7d93f04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ONGXg-UV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.heidiwaterhouse.com/wp-content/uploads/2017/10/Toggle_launching-297x300.jpg)
 
 一年多前，我申请了一家初创公司。我以前从来没有做过开发者倡导者，我也不确定这份工作到底需要什么，但是推荐我的人(谢谢，Rach！)招聘经理说，或许我在谈论技术写作方面的经验足以让我成为一名看似可信的候选人。
 

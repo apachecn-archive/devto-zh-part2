@@ -117,7 +117,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 一旦打开代码编辑器，您会看到三个文件。忽略`.gitignore`文件，让我先解释一下`handler.js`是什么，然后我将继续讨论`serverless.yml`。处理程序将保存你所有的应用程序逻辑，所有的代码。而`servereless.yml`是您将在 AWS 上创建的资源的配置文件。
 
-[![vs code sidebar shows the file structure](../Images/b989685d17a15a4fff23288730d6d75b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vccoo9Jj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/how-to-deploy-a-nodejs-application-to-aws-lambda-using-serverless/starter-code.png)
+[![vs code sidebar shows the file structure](img/b989685d17a15a4fff23288730d6d75b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vccoo9Jj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/how-to-deploy-a-nodejs-application-to-aws-lambda-using-serverless/starter-code.png)
 
 继续将`handler.js`重命名为`app.js`，只是为了更简单地让我们弄清楚什么去哪里。
 
@@ -182,7 +182,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 无服务器框架现在将把所有东西打包成一个漂亮的包，从`serverless.yml`创建一个 CloudFormation 文件，并把它发送到 AWS S3。一旦创建了资源并部署了代码，您将在终端中看到一个端点返回给您。
 
-[![terminal show sls deploy output](../Images/b6100fb69be90a2f9f9ccc57df30091e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7Lyu_80W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/how-to-deploy-a-nodejs-application-to-aws-lambda-using-serverless/sls-deploy.png)
+[![terminal show sls deploy output](img/b6100fb69be90a2f9f9ccc57df30091e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7Lyu_80W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/how-to-deploy-a-nodejs-application-to-aws-lambda-using-serverless/sls-deploy.png)
 
 在浏览器中打开提供的 URL，你会看到`Hello World!`被发送回给你。
 
@@ -253,7 +253,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这就是我们的结局。
 
-[![vs code final file structure](../Images/c66d12547a7940a33ad55138fa45fde0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RArgZPcz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/how-to-deploy-a-nodejs-application-to-aws-lambda-using-serverless/final-code.png)
+[![vs code final file structure](img/c66d12547a7940a33ad55138fa45fde0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RArgZPcz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/how-to-deploy-a-nodejs-application-to-aws-lambda-using-serverless/final-code.png)
 
 我想我们结束了？不完全是。仅仅因为你用`--production`安装了 npm 模块，就让一个应用程序在生产中运行，这并不能真正解决问题。为了晚上能睡个好觉，我需要多一点。这就是适当的系统洞察力和监控工具发挥作用的地方。让我展示给你看。
 
@@ -267,7 +267,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 一旦你完成了，所有的请求将开始一个接一个的堆积，你应该会看到这样的东西。
 
-[![Dashbird](../Images/93c69b43529f8742f1474844b0ffe5d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kaC92KuQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/how-to-deploy-a-nodejs-application-to-aws-lambda-using-serverless/dashbird-dashboard-lambda-3.gif)
+[![Dashbird](img/93c69b43529f8742f1474844b0ffe5d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kaC92KuQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/how-to-deploy-a-nodejs-application-to-aws-lambda-using-serverless/dashbird-dashboard-lambda-3.gif)
 
 ## 包装完毕
 
@@ -291,7 +291,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 希望你们喜欢读这篇文章，就像我喜欢写这篇文章一样。下次见，保持好奇，玩得开心。
 
-[![This months sponsor is Zeet.](../Images/a4da9440f5519d3156594813d3a02017.png)T2】](https://bit.ly/adnan-zeet)
+[![This months sponsor is Zeet.](img/a4da9440f5519d3156594813d3a02017.png)T2】](https://bit.ly/adnan-zeet)
 
 免责声明: [Zeet](https://bit.ly/adnan-zeet) 将在下个月赞助这篇博客。前几天我试过了。这就像无服务器，但运行整个后端。你可以自动托管和扩展应用。相当整洁。
 

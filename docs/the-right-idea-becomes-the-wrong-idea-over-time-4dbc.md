@@ -26,7 +26,7 @@
 
 JavaScript 是这里的例子，但这适用于一般情况。新的软件概念保留旧的名字。旧的最佳实践腐烂了，却没有得到适当的抛弃。真正让我想提出这一点的是我们刚刚结束的网络调查的[状态的一个特殊结果。](https://dev.to/devteam/state-of-the-web-data---call-for-analysis-2o75)
 
-[![](../Images/4e748e7f26d5c344ad436a62ad10d36e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Sd_MuNFB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/92d8209fb944/Image%25202018-08-29%2520at%25208.28.04%2520PM.png)
+[![](img/4e748e7f26d5c344ad436a62ad10d36e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Sd_MuNFB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/92d8209fb944/Image%25202018-08-29%2520at%25208.28.04%2520PM.png)
 
 25%的团队仍然支持 IE 10 及以下版本！！我完全支持浏览器支持，但这只是 25%的团队支持的 0.5%的浏览器活动！这对我来说简直是疯了。有很多用例可以强制支持这些旧的浏览器，但我肯定不是 25%的情况。
 
@@ -34,6 +34,6 @@ JavaScript 是这里的例子，但这适用于一般情况。新的软件概念
 
 你不用爱 JavaScript，我自己也不是 JS 大咖，但是老笑话已经死了。
 
-[![](../Images/472550110a83f95744b1eb0b1cfc71c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sj24y6Ot--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.redd.it/h7nt4keyd7oy.jpg)
+[![](img/472550110a83f95744b1eb0b1cfc71c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sj24y6Ot--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.redd.it/h7nt4keyd7oy.jpg)
 
 我认为这是我们行业中最有趣的笑话之一。如果有什么不同的话，我为我们不能像以前那样抱怨 JavaScript 而感到悲哀。

@@ -155,6 +155,6 @@ class Policy extends BasePolicy
 
 要测试你网站的标题在安全方面有多可靠，请查看 https://securityheaders.io/，在那里你可以运行一个 a 测试。这个博客得了 A+的分数，我很自豪。
 
-[![a plus score](../Images/049735b3a55ca30417e98171d500bd6e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KPIFNpXQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/csp/aplus.png)
+[![a plus score](img/049735b3a55ca30417e98171d500bd6e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KPIFNpXQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/csp/aplus.png)
 
 Laravel-csp 并不是我的团队做的第一个[包。在我们公司的网站上，你会发现我们以前制作的每个](https://spatie.be) [Laravel](https://spatie.be/en/opensource/laravel) 、 [PHP](https://spatie.be/en/opensource/php) 和 [JavaScript](https://spatie.be/en/opensource/javascript) 包的列表。我很确定你会找到对你下一个项目有用的东西。

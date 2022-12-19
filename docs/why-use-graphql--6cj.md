@@ -4,7 +4,7 @@
 
 说实话，我第一次听说 GraphQL 的时候不知道该怎么看待它。我看着网飞的工程师谈论用 Node.js 扩展他们的微服务，其中一个人提到他在 GraphQL 早期在脸书工作过。
 
-[![graphql.org](../Images/bc82a4a542c81787cfc1860ccbb00de9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rUcm4zBz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f7068p55l27poiinzhsa.png)
+[![graphql.org](img/bc82a4a542c81787cfc1860ccbb00de9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rUcm4zBz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f7068p55l27poiinzhsa.png)
 
 被它的名字和整洁的连点标志迷住了，我查看了它的[登陆页面](http://graphql.org)，并被他们在英雄部分简洁的自我描述迷住了。从类型定义和一个类似 json 的声明性查询中，我们得到了我们想要的结果——没有传递多余的数据，也没有任何往返。
 
@@ -14,7 +14,7 @@
 
 GraphQL 解决了一些客户端问题，其中一些问题由于 Redux 的普遍过度使用而暴露无遗，尤其是在 React 应用程序中。也许你听说过人们(包括我自己)几乎在任何事情上都使用 Redux，即使他们的应用程序状态是微不足道的。这个问题基本上是人们用空袭来杀死一只蚊子。甚至 Redux 的作者丹·阿布拉莫夫也对它的广泛过度使用感到恼火。
 
-> ![Dan Abramov profile image](../Images/8410abe414a98a3109390b1a1f7377ee.png)丹阿布拉莫夫[@丹 _ 阿布拉莫夫](https://dev.to/dan_abramov)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)从不创造任何东西2018 年 2 月 12 日上午 02:40[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=962879085008572416)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=962879085008572416)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=962879085008572416)
+> ![Dan Abramov profile image](img/8410abe414a98a3109390b1a1f7377ee.png)丹阿布拉莫夫[@丹 _ 阿布拉莫夫](https://dev.to/dan_abramov)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)从不创造任何东西2018 年 2 月 12 日上午 02:40[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=962879085008572416)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=962879085008572416)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=962879085008572416)
 
 嗯，好主意，丹！幸运的是，你在脸书的同事们创造了一些东西，通过准确获取客户需要的东西，不多也不少，来帮助缓解国家难题。
 

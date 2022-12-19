@@ -11,7 +11,7 @@
 
  **支持客人结账拥有电子商务网站的公司通常需要用户创建一个账户来进行购物。这使得后续的沟通，鼓励未来的销售，以及跟踪客户的人口统计信息，分析销售。** 
 
- **<center>![](../Images/b7ec7fcce9eed66ff9a6e9878f5b1f4b.png)</center>
+ **<center>![](img/b7ec7fcce9eed66ff9a6e9878f5b1f4b.png)</center>
 
 **• Site search is important**
 Statistics show that 30% of the visitors to e-commerce sites use search to find the products that they are looking for. Therefore, it is essential to make sure that the search functionality is available and easy to use.
@@ -31,7 +31,7 @@ Statistics show that 30% of the visitors to e-commerce sites use search to find 
  ****【C2C】**
 这种类型的电子商务涉及消费者在第三方的帮助下通过电子方式进行交易。这些网站只是中介，只是为了匹配消费者。他们没有义务检查他们网站上出售的产品的质量。
 
-<center>![](../Images/79bdc6fa8cf571c44ae99a9edade728b.png)</center>
+<center>![](img/79bdc6fa8cf571c44ae99a9edade728b.png)</center>
 
 **·点对点(P2P)**
 这是一种通信模型，其中每一方都具有相同的能力，并且任何一方都可以发起通信会话。这是一种技术帮助他们的客户向他们需要的任何人共享计算机资源和计算机文件的类型。

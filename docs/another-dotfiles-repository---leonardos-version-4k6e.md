@@ -4,7 +4,7 @@
 
 几天几个星期我得到了一台 MacBook Air 作为备用机。由于它的 SSD 比我的主 Mac 小，我无法使用 Time Machine。这绝对是最终创建我的[点文件](https://github.com/leonardofaria/dotfiles)库的好时机。我的知识库是基于[的 webpro/dotfiles](https://github.com/webpro/dotfiles/) (如果你感到困惑，你可能想看看他的回购协议来理解这个)。
 
-[![](../Images/d5af30cf6141d3488fe0a928c6c76bae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LvSbnRfo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/leonardofaria/dotfiles/master/screenshot.jpg)
+[![](img/d5af30cf6141d3488fe0a928c6c76bae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LvSbnRfo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/leonardofaria/dotfiles/master/screenshot.jpg)
 
 ## 怎么用？
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/howtocodejs/javascript-data-types--operators-3i0i>
 
-[![image](../Images/4d9e2771c0ce4f5aefa6fba8ce4c27cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VwtxwTGO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g9b0ju4n5r2gtt7tppta.png)
+[![image](img/4d9e2771c0ce4f5aefa6fba8ce4c27cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VwtxwTGO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g9b0ju4n5r2gtt7tppta.png)
 
 你也可以在 howtocodejs.com 身上找到这一课。您可以使用我们的实时 JavaScript 代码编辑器 Lex 进行编码。
 

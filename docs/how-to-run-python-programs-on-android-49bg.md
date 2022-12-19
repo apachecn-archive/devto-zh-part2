@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bauripalash/how-to-run-python-programs-on-android-49bg>
 
-[![.](../Images/3c5104173906049b067b1e0dc5dd0728.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UVwbTPuC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://palash.tk/assets/images/py-in-an.jpg)
+[![.](img/3c5104173906049b067b1e0dc5dd0728.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UVwbTPuC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://palash.tk/asseimg/py-in-an.jpg)
 
 如果你正在阅读这篇文章，你可能对学习 Python 感兴趣，或者已经是一个热爱实验的 Python 程序员，如果是的话，**欢迎我的朋友来到好奇的世界**。如果你有一个 Android 设备，并且你想在你的设备上运行 python 程序，这篇文章就是为你准备的。
 
@@ -14,7 +14,7 @@
 
 说到在 Android 上运行 Python 程序、脚本，我首先想到的名字是由 **QPythonLab** 开发的 **QPython**
 
-[![QPython Screenshot - Python For Android](../Images/75400ef82ed141c2ea1620cb4c49e8fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rVtDCf9W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://fsgh.palash.tk/imgs/qpy.jpg)
+[![QPython Screenshot - Python For Android](img/75400ef82ed141c2ea1620cb4c49e8fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rVtDCf9W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://fsgh.palash.tk/imgs/qpy.jpg)
 
 它有如此多的特点，你会喜欢它的。它拥有**终端模拟器**、Python REPL、**强大编辑器**、众多 Python 库、**通过二维码运行脚本**、 **PIP** 、课程等等。
 
@@ -28,7 +28,7 @@
 
 PyDroid 是不太出名的 Android python IDE，也是我最喜欢的*。我喜欢它是因为它的简单，是 QPython 无法提供的额外特性。使用 PyDroid，你甚至可以创建图形用户界面、游戏等等。PyDroid 是 IIEC 开发的*
 
-[![PyDroid 3 - Screenshot](../Images/e1074d6d0e9538eab07c3e0d65e07337.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UOFeOr9e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://fsgh.palash.tk/imgs/pyd.jpg)
+[![PyDroid 3 - Screenshot](img/e1074d6d0e9538eab07c3e0d65e07337.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UOFeOr9e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://fsgh.palash.tk/imgs/pyd.jpg)
 
 这是专门为教育目的设计的。大多数流行的机器学习和数据科学 python 库都是可用的，这使得它非常适合在旅途中测试和实验
 
@@ -42,7 +42,7 @@ PyDroid 是不太出名的 Android python IDE，也是我最喜欢的*。我喜�
 
 顾名思义，这是一个用于 Android 的[终端](https://en.m.wikipedia.org/wiki/Computer_terminal)模拟器，所以像往常一样，你可以使用它的包管理器`pkg`或`apt`来安装 python。
 
-[![Vim Running On Termux](../Images/5d0509baeb832df23d3b1a644b36c40f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bSgEM5b9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://termux.com/files/vim-main_framed.png)
+[![Vim Running On Termux](img/5d0509baeb832df23d3b1a644b36c40f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bSgEM5b9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://termux.com/files/vim-main_framed.png)
 
 > 除非你是一个实验爱好者，喜欢尝试新事物或技术极客
 

@@ -10,7 +10,7 @@
 
 我认为 Dev.to 社区是我迄今为止能够实现博客目标的重要原因。每次我发布一些东西，都会有足够多的人喜欢它或者以有意义的方式对它进行评论，给我一种内啡肽的刺激，让我开始下一个工作。即使是那些表现不太好的帖子，比如这个:
 
-[![rpalo](../Images/36441fefd071e9a78e983319aa0f9264.png)](/rpalo) [## 微观决策
+[![rpalo](img/36441fefd071e9a78e983319aa0f9264.png)](/rpalo) [## 微观决策
 
 ### 瑞安帕洛 5 月 29 日 173 分钟阅读
 
@@ -24,7 +24,7 @@
 
 如果你错过了，我最受欢迎的帖子可能是这个:
 
-[![rpalo](../Images/36441fefd071e9a78e983319aa0f9264.png)](/rpalo) [## 一厢情愿编码
+[![rpalo](img/36441fefd071e9a78e983319aa0f9264.png)](/rpalo) [## 一厢情愿编码
 
 ### Ryan Palo 12 月 16 日 173 分钟阅读
 
@@ -34,9 +34,9 @@
 
 我还必须提一下我评价最高的评论，我发现这确实说明了我在这里的聪明和深思熟虑的互动:
 
-[![rpalo profile image](../Images/d2df79a7640554be24029a559e2d464e.png) ](/rpalo) [ Ryan Palo ](/rpalo) • [<time datetime="2018-03-09T16:51:42Z"> Mar 9 '18 </time> • Edited on <time datetime="2018-03-09T16:51:55Z">Mar 9</time>](https://dev.to/rpalo/comment/2h32) 
+[![rpalo profile image](img/d2df79a7640554be24029a559e2d464e.png) ](/rpalo) [ Ryan Palo ](/rpalo) • [<time datetime="2018-03-09T16:51:42Z"> Mar 9 '18 </time> • Edited on <time datetime="2018-03-09T16:51:55Z">Mar 9</time>](https://dev.to/rpalo/comment/2h32) 
 
-[![Robot slipping on banana peel](../Images/da28d33c3698a89e3d8b2ec16fde916d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HYjm85dZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h0n5rqi9dluh6ujggogp.gif)
+[![Robot slipping on banana peel](img/da28d33c3698a89e3d8b2ec16fde916d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HYjm85dZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h0n5rqi9dluh6ujggogp.gif)
 
 ## 现在我需要你的帮助
 

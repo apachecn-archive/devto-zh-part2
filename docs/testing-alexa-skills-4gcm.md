@@ -6,7 +6,7 @@
 
 我已经想出了一套让测试变得非常简单的工具。他们可能不是“最好的”，但这比我一直在做的要好得多。
 
-<figure>[![Alexa testing…](../Images/98dd8763ad0dd6acb6c0b1c4c5a8c8fa.png "Alexa testing…")](///static/30f6091ebdf7743469e1c1d84f184adb/d4502/alexa-testing-comic.png) 
+<figure>[![Alexa testing…](img/98dd8763ad0dd6acb6c0b1c4c5a8c8fa.png "Alexa testing…")](///static/30f6091ebdf7743469e1c1d84f184adb/d4502/alexa-testing-comic.png) 
 
 <figcaption>Alexa 测试…</figcaption>
 
@@ -39,7 +39,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 jest 和 virtual alexa 安装后，初始化 jest，这样它就知道你正在运行`jest --init`进行 nodejs 项目。
 
-<figure>[![Initializing Jest](../Images/76322e3a0c97e4c366ed5d6e08962f99.png "Initializing Jest")](///static/48dbd7e83b2ef88b30b6cf4783f5ad91/149ee/init-jest.jpg) 
+<figure>[![Initializing Jest](img/76322e3a0c97e4c366ed5d6e08962f99.png "Initializing Jest")](///static/48dbd7e83b2ef88b30b6cf4783f5ad91/149ee/init-jest.jpg) 
 
 <figcaption>初始化笑话</figcaption>
 
@@ -69,7 +69,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在从根目录执行 jest，您应该会看到以下内容:
 
-<figure>[![Console Output](../Images/a1bf052cda4d3955c385d86c61d33284.png "Console Output")](///static/92146166ccaf8d88c99346ad227dd95d/da001/console.jpg) 
+<figure>[![Console Output](img/a1bf052cda4d3955c385d86c61d33284.png "Console Output")](///static/92146166ccaf8d88c99346ad227dd95d/da001/console.jpg) 
 
 <figcaption>控制台输出</figcaption>
 

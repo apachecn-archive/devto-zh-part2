@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/vatsalyagoel/rewriting-git-history-being-opinionated-about-git-2bn1>
 
-[![Rewriting Git history : Being opinionated about Git](../Images/0603280e1024a6fadd1ad60174c45718.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uB-ygUGs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vatsalyagoel.com/content/images/2018/07/banner.PNG)
+[![Rewriting Git history : Being opinionated about Git](img/0603280e1024a6fadd1ad60174c45718.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uB-ygUGs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vatsalyagoel.com/conteimg/2018/07/banner.PNG)
 
 在我短暂的开发生涯中，我听到过许多关于如何正确使用 Git 的不同观点。很多时候，答案是“视情况而定”,对于一个刚开始使用 Git 的用户来说，这可能会令人望而生畏。我挑选了一些让我的源码控制习惯更好的技巧，我将在下面提到。每个人的工作流程都是不同的，但是这里是我关于维护源代码控制的建议，这样当一个新的开发人员加入你的团队时，他们就不会对从哪里开始感到困惑。
 
@@ -43,7 +43,7 @@
 
 证明？
 
-[![Rewriting Git history : Being opinionated about Git](../Images/600d94cf3cd8d2753b90ff9a2213ffc0.png)T4】](https://res.cloudinary.com/practicaldev/image/fetch/s--qzOZA6n8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vatsalyagoel.com/content/images/2018/07/merge-vs-rebase.png)
+[![Rewriting Git history : Being opinionated about Git](img/600d94cf3cd8d2753b90ff9a2213ffc0.png)T4】](https://res.cloudinary.com/practicaldev/image/fetch/s--qzOZA6n8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vatsalyagoel.com/conteimg/2018/07/merge-vs-rebase.png)
 
 总是重定基础而不是合并。这让你的历史看起来更美好。让 pull 请求创建一个合并提交到 master。这是您唯一一次希望在代码中进行合并。
 
@@ -87,7 +87,7 @@
 
 这会创建一个带有合并冲突解决方案的提交`Merge branch 'master' into feature/merge-conflict`，如果分支随后被合并回主分支，它看起来会非常难看
 
-[![Rewriting Git history : Being opinionated about Git](../Images/4b0c5043fe9552cbab7bde650e83a7e8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Anzz43dl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vatsalyagoel.com/content/images/2018/07/merge-back.png)
+[![Rewriting Git history : Being opinionated about Git](img/4b0c5043fe9552cbab7bde650e83a7e8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Anzz43dl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vatsalyagoel.com/conteimg/2018/07/merge-back.png)
 
 ## 重整旗鼓化解矛盾
 
@@ -103,13 +103,13 @@
 
 这会将分支的父分支更改为最新的主分支，并为您提供一条到达拉请求的直接路径。
 
-[![Rewriting Git history : Being opinionated about Git](../Images/d7359b17fffb2841141d5685de34d541.png)T4】](https://res.cloudinary.com/practicaldev/image/fetch/s--JoZxObR9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vatsalyagoel.com/content/images/2018/07/rebase-then-merge.png)
+[![Rewriting Git history : Being opinionated about Git](img/d7359b17fffb2841141d5685de34d541.png)T4】](https://res.cloudinary.com/practicaldev/image/fetch/s--JoZxObR9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vatsalyagoel.com/conteimg/2018/07/rebase-then-merge.png)
 
 ## 交互式 Rebase
 
 有时仅仅解决合并冲突是不够的。我是经常提交的强烈支持者，然而这可能导致我的特性分支有许多提交，这些提交对于评审者来说没有逻辑意义。
 
-[![Rewriting Git history : Being opinionated about Git](../Images/7be90419bc54f7e69da799192826236c.png)T4】](https://res.cloudinary.com/practicaldev/image/fetch/s--mK7PyX----/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vatsalyagoel.com/content/images/2018/07/multiple-small-commits.png)
+[![Rewriting Git history : Being opinionated about Git](img/7be90419bc54f7e69da799192826236c.png)T4】](https://res.cloudinary.com/practicaldev/image/fetch/s--mK7PyX----/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vatsalyagoel.com/conteimg/2018/07/multiple-small-commits.png)
 
 在这个例子中，我们将使用交互式 rebase，看看我们如何重写分支历史并将多个提交分组到一个逻辑提交中，以便审阅者可以更轻松地审阅您的 pull 请求。
 
@@ -120,19 +120,19 @@
 
 这会给你一个这样的输出:
 
-[![Rewriting Git history : Being opinionated about Git](../Images/31166959d07c3b79c78cde3396f0990f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lXDHWe74--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vatsalyagoel.com/content/images/2018/07/rebase-interactive-sample.png)
+[![Rewriting Git history : Being opinionated about Git](img/31166959d07c3b79c78cde3396f0990f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lXDHWe74--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vatsalyagoel.com/conteimg/2018/07/rebase-interactive-sample.png)
 
 上图中的每一次选择都是一次提交，正如你所看到的，我可能想将许多小的提交组合成一次提交
 
 我们可以编辑上面的输出，将`pick`更改为`fixup`，这将删除提交消息并将更改修改为上面的提交。保存文件并退出将应用更改
 
-[![Rewriting Git history : Being opinionated about Git](../Images/c34ddafd3a551df41c71853473afea81.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hxbWbdro--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vatsalyagoel.com/content/images/2018/07/rebase-interactive-fixup.png)
+[![Rewriting Git history : Being opinionated about Git](img/c34ddafd3a551df41c71853473afea81.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hxbWbdro--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vatsalyagoel.com/conteimg/2018/07/rebase-interactive-fixup.png)
 
 1.  `git push -f origin feature/rebase-interactive`
 
 这就产生了这样一段历史
 
-[![Rewriting Git history : Being opinionated about Git](../Images/ee665a3042befbdcdc2bcceccf138e67.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pJDnVtcH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vatsalyagoel.com/content/images/2018/07/grouped-commits.png)
+[![Rewriting Git history : Being opinionated about Git](img/ee665a3042befbdcdc2bcceccf138e67.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pJDnVtcH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vatsalyagoel.com/conteimg/2018/07/grouped-commits.png)
 
 您会注意到，即使合并了更改，提交消息仍然是 add，那么我们如何修复提交消息呢？再次使用 Rebase
 
@@ -141,20 +141,20 @@
 
 这次我们不用`fixup`而是用`reword`
 
-[![Rewriting Git history : Being opinionated about Git](../Images/1edda223b6600d2cd20d7abee37b4217.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0wrzh_4B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vatsalyagoel.com/content/images/2018/07/rebase-interactive-reword.png)
+[![Rewriting Git history : Being opinionated about Git](img/1edda223b6600d2cd20d7abee37b4217.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0wrzh_4B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vatsalyagoel.com/conteimg/2018/07/rebase-interactive-reword.png)
 
 保存并退出文件给我们提供了另一个终端输出，带有提交
 
-[![Rewriting Git history : Being opinionated about Git](../Images/25a0f630e82d548716c645a4eb4a6429.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--muCZyphv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vatsalyagoel.com/content/images/2018/07/rebase-change-two.png)
+[![Rewriting Git history : Being opinionated about Git](img/25a0f630e82d548716c645a4eb4a6429.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--muCZyphv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vatsalyagoel.com/conteimg/2018/07/rebase-change-two.png)
 
 让我们将`add two`改为`add two, three and four`
 
-[![Rewriting Git history : Being opinionated about Git](../Images/8efe3fc02a27a41b1d6109c3085f08c9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ShnACHbS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vatsalyagoel.com/content/images/2018/07/rebase-add-twothreefour.png)
+[![Rewriting Git history : Being opinionated about Git](img/8efe3fc02a27a41b1d6109c3085f08c9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ShnACHbS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vatsalyagoel.com/conteimg/2018/07/rebase-add-twothreefour.png)
 
 1.  `git push -f origin feature/rebase-interactive`
 
 最后你的历史将看起来像:
 
-[![Rewriting Git history : Being opinionated about Git](../Images/1db5352a219724650c8b8967d9afe56a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--U9RS2Hdl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vatsalyagoel.com/content/images/2018/07/grouped-reworded-commits.png)
+[![Rewriting Git history : Being opinionated about Git](img/1db5352a219724650c8b8967d9afe56a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--U9RS2Hdl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vatsalyagoel.com/conteimg/2018/07/grouped-reworded-commits.png)
 
 总之，git 是一个非常固执己见的话题，每个人都习惯以某种方式使用 Git。我希望我能够看到使用某些 git 工作流的好处，以使您的开发生活更容易，并保持在您之后接管源代码库的人的理智。

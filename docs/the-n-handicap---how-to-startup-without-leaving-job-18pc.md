@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/aviaryan/the-n-handicap---how-to-startup-without-leaving-job-18pc>
 
-[![cover image](../Images/1277c462ad4a87f0ce726d5b5a0765ca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1dHpg_Oq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.us-east-2.amazonaws.com/devletters/covers/hustle.jpeg)
+[![cover image](img/1277c462ad4a87f0ce726d5b5a0765ca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1dHpg_Oq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.us-east-2.amazonaws.com/devletters/covers/hustle.jpeg)
 
 > 首次发布于 [Dev Letters](https://devletters.com/letters/startup-with-job/)
 

@@ -4,7 +4,7 @@
 
 上周我写了这个帖子:
 
-[![ben](../Images/fe64a787b888dfb20fc13ad1e466da3d.png)](/ben) [## 每个开发人员都应该了解哪些安全基础知识？
+[![ben](img/fe64a787b888dfb20fc13ad1e466da3d.png)](/ben) [## 每个开发人员都应该了解哪些安全基础知识？
 
 ### 本哈尔彭 3 月 24 日 181 分钟阅读
 
@@ -12,7 +12,7 @@
 
 我想和你分享一些很棒的答案。这里有大量的智慧，所以继续读下去。
 
-[![dmfay profile image](../Images/130564eb95ceaeb2bb4b978edaafd9f3.png) ](/dmfay) [ Dian Fay ](/dmfay) • [<time datetime="2018-03-24T17:32:59Z" class="date-short-year"> Mar 24 '18 </time>](https://dev.to/dmfay/comment/2knh) 
+[![dmfay profile image](img/130564eb95ceaeb2bb4b978edaafd9f3.png) ](/dmfay) [ Dian Fay ](/dmfay) • [<time datetime="2018-03-24T17:32:59Z" class="date-short-year"> Mar 24 '18 </time>](https://dev.to/dmfay/comment/2knh) 
 
 1.  不要相信任何人。*尤其是*自己。
 2.  唯一绝对安全的系统是一个已经断开连接、关闭电源、装在混凝土里、蒙着眼睛从直升机上丢进海里的系统。
@@ -24,13 +24,13 @@
 8.  如果你有一个公开可见的 API 来支持你的站点，[记住你的站点并不是唯一能击中它的东西](https://github.com/pillarjs/understanding-csrf)。
 9.  思考并测试边缘案例。
 
-[![adnanrahic profile image](../Images/9962f58ae35c1c4cf7a83b99dde848e3.png) ](/adnanrahic) [ Adnan Rahić ](/adnanrahic) • [<time datetime="2018-03-24T15:17:40Z" class="date-short-year"> Mar 24 '18 </time>](https://dev.to/adnanrahic/comment/2kml) 
+[![adnanrahic profile image](img/9962f58ae35c1c4cf7a83b99dde848e3.png) ](/adnanrahic) [ Adnan Rahić ](/adnanrahic) • [<time datetime="2018-03-24T15:17:40Z" class="date-short-year"> Mar 24 '18 </time>](https://dev.to/adnanrahic/comment/2kml) 
 
 1.  验证输入数据！
 2.  说真的，验证输入数据。
 3.  我提到验证输入数据了吗？
 
-[![dmerand profile image](../Images/c65701e291f1b68bda273ed3e9ef820b.png) ](/dmerand) [ Donald Merand ](/dmerand) • [<time datetime="2018-03-24T16:01:07Z" class="date-short-year"> Mar 24 '18 </time>](https://dev.to/dmerand/comment/2kn2) 
+[![dmerand profile image](img/c65701e291f1b68bda273ed3e9ef820b.png) ](/dmerand) [ Donald Merand ](/dmerand) • [<time datetime="2018-03-24T16:01:07Z" class="date-short-year"> Mar 24 '18 </time>](https://dev.to/dmerand/comment/2kn2) 
 
 您存储的数据越少，您面临的安全风险就越少，您的参与者就越安全。不要囤积理论上有用的数据——只保存你需要的东西，每次当你认为你需要它的时候，问问你自己。
 
@@ -38,7 +38,7 @@
 
 总是给你的参与者删除他们的数据的选项，当他们要求你删除时，你就真的删除。
 
-[![mortoray profile image](../Images/3f601f0d3e93536df22a4b2d92f1094d.png) ](/mortoray) [ edA‑qa mort‑ora‑y ](/mortoray) • [<time datetime="2018-03-24T19:40:45Z" class="date-short-year"> Mar 24 '18 </time>](https://dev.to/mortoray/comment/2ko4) 
+[![mortoray profile image](img/3f601f0d3e93536df22a4b2d92f1094d.png) ](/mortoray) [ edA‑qa mort‑ora‑y ](/mortoray) • [<time datetime="2018-03-24T19:40:45Z" class="date-short-year"> Mar 24 '18 </time>](https://dev.to/mortoray/comment/2ko4) 
 
 *   安保很难。有必要阅读各种攻击，以了解攻击方式的重要性。
 *   你的系统会被攻破。缓解策略和“墙”一样重要。
@@ -59,7 +59,7 @@
 *   防御性编码
 *   意识到风险
 
-[![pixeline profile image](../Images/c40e20321e12c3b8807bdd86465f86c3.png) ](/pixeline) [ Alexandre Plennevaux ](/pixeline) • [<time datetime="2018-03-26T07:47:58Z" class="date-short-year"> Mar 26 '18 </time>](https://dev.to/pixeline/comment/2l5h) 
+[![pixeline profile image](img/c40e20321e12c3b8807bdd86465f86c3.png) ](/pixeline) [ Alexandre Plennevaux ](/pixeline) • [<time datetime="2018-03-26T07:47:58Z" class="date-short-year"> Mar 26 '18 </time>](https://dev.to/pixeline/comment/2l5h) 
 
 无论何时从外部处理数据，都要按以下顺序处理:
 
@@ -98,7 +98,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 说到基本面...
 
-[![robdwaller](../Images/0db3dce1c6a8a971e76c79fd5f5482f3.png)](/robdwaller) [## 软件开发人员应遵循的四条安全原则
+[![robdwaller](img/0db3dce1c6a8a971e76c79fd5f5482f3.png)](/robdwaller) [## 软件开发人员应遵循的四条安全原则
 
 ### rob Waller 2 月 22 日 188 分钟阅读
 

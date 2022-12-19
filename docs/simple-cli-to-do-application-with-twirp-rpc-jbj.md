@@ -99,7 +99,7 @@ package <user/organisation>.<repository_name>.<service_name>;
 
 现在你应该看到，在你的`rpc/todo`服务目录中，有两个新文件`service.pb.go`和`service.twirp.go`。这些是生成的文件。不要编辑它们！Twirp 和 Protoc 编译器已经生成了用于与 RPC 服务交互的客户机和服务器存根。
 
-[![image](../Images/681c82fb535becb791ddc539ae262baf.png)T2】](https://i.giphy.com/media/l41lNp8dHpfaJE25O/giphy.gif)
+[![image](img/681c82fb535becb791ddc539ae262baf.png)T2】](https://i.giphy.com/media/l41lNp8dHpfaJE25O/giphy.gif)
 
 我们将要使用生成的文件，所以花一点时间通读它们并检查生成的 Go 代码。下一步是实现我们的 Todo 服务接口。在项目目录的根目录下，执行以下命令:
 

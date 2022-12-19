@@ -22,7 +22,7 @@
 
 顺便说一下，美国有超过 100，000 家科技公司，我从未听说过*有一位*首席执行官说“我们的错误没什么大不了”或者“我们需要一种方式来花掉我们闲散的现金”所以，所有你的“高级开发人员专用”装备，无论你认为你在走什么捷径，无论你认为你在欺骗什么系统，事实是你已经对整个事情产生了幻觉。将低年级学生拒之门外没有竞争优势。你暴露了自己是一家管理不善的公司。
 
-> ![April Wensel profile image](../Images/0930ad3090174be08f13659698957d8d.png)April Wensel[@ April Wensel](https://dev.to/aprilwensel)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)对初级开发人员的敌意是发现有毒公司文化的一个简单方法。2017 年 8 月 01 日下午 14:57[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=892398893203202048)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=892398893203202048)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=892398893203202048)
+> ![April Wensel profile image](img/0930ad3090174be08f13659698957d8d.png)April Wensel[@ April Wensel](https://dev.to/aprilwensel)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)对初级开发人员的敌意是发现有毒公司文化的一个简单方法。2017 年 8 月 01 日下午 14:57[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=892398893203202048)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=892398893203202048)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=892398893203202048)
 
 您雇用和对待初级开发人员的方式是对您的组织、您的产品线和您的内部文化的健康的一个有价值的代理措施。资深开发者都知道这一点。如果这还不够吸引人的话，雇佣相当数量的初级开发人员也是一个明智的财务决策。
 
@@ -56,7 +56,7 @@
 
 如果你不雇佣初级开发人员，你发出的另一个信息是你不知道职业发展是如何进行的。
 
-> ![Kate Heddleston profile image](../Images/9c3a8c60d16f69ac8c2062232d9a651d.png)！2018 年 02:17AM-13 Sep[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1040061861817868288)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1040061861817868288)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1040061861817868288)
+> ![Kate Heddleston profile image](img/9c3a8c60d16f69ac8c2062232d9a651d.png)！2018 年 02:17AM-13 Sep[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1040061861817868288)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1040061861817868288)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1040061861817868288)
 
 再说一次，这不是关于企业公民或在技术社区“尽你的一份力”。这是为了让你的公司成为一个体面的工作场所，这样开发人员就会加入你的公司，并留在公司足够长的时间来产生影响。
 
@@ -64,7 +64,7 @@
 
 但是不要被那些人困住。他们是少数。大多数技术人员并不打算连续 40 年成为高级开发人员。我们梦想成为软件架构师、团队领导、首席技术官和创始人。一家标榜自己对职业发展不感兴趣的公司将会在我们的潜在雇主名单中排名最后。
 
-> ![Reginald Braithwaite profile image](../Images/7502a9add3011653e5403d4a64a70b31.png)雷金纳德·布莱斯维特@拉甘瓦尔德![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)我只招高级 dev。诀窍在于，我在他们职业生涯的早期就招募了他们中的一些人。2018 年 9 月 17 日下午 15:46[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1041714965781073920)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1041714965781073920)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1041714965781073920)
+> ![Reginald Braithwaite profile image](img/7502a9add3011653e5403d4a64a70b31.png)雷金纳德·布莱斯维特@拉甘瓦尔德![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)我只招高级 dev。诀窍在于，我在他们职业生涯的早期就招募了他们中的一些人。2018 年 9 月 17 日下午 15:46[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1041714965781073920)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1041714965781073920)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1041714965781073920)
 
 当一个开发人员走进工作面试时，他们能听到的最令人印象深刻的事情之一是，“嗨，我是团队领导，我在这里工作了八年，我是作为实习生加入公司的。”印象深刻，非常难得。这个人对公司来说非常有价值——他们知道产品线的里里外外，他们看过 100 码范围内每个项目的代码，他们和组织中的每个人一起工作过。他们可以在公司内部以很少人能做到的方式创新。公司从这个人的工作中获得了不可估量的红利，因为他们知道如何让他们保持八年的兴趣——大约是他们预期寿命的十分之一。这是公司文化成功的标志。它标志着一个士气高昂、好的工作得到认可、有趣的项目在每个角落等待着的工作场所。
 
@@ -76,7 +76,7 @@
 
 初级开发人员有几个独特的品质，而他们更有经验的同事通常会失去。其中之一是盲目乐观。另一个是愿意跟随。但或许大三学生带来的最有价值的特质是他们没有包袱。高级开发人员目睹了技术来来去去，项目失败，团队陷入内讧，以及技术领域的所有其他标志。他们建立了强烈的观点，并经常过度概括，假设对一个团队或一个项目有效(或无效)的东西对另一个团队或项目也同样有效。这可以表现为不愿意学习新问题空间的细微差别。
 
-> ![DHH profile image](../Images/6a8b92a001ba3bd0d023062c0c039b9e.png)@ dhh![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)公司如此渴望只雇佣高级人才，却常常忘记，忘记不适用的东西可能比学习适用的东西需要更长的时间。2017 年 7 月 31 日下午 14:12[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=892025080355708930)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=892025080355708930)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=892025080355708930)
+> ![DHH profile image](img/6a8b92a001ba3bd0d023062c0c039b9e.png)@ dhh![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)公司如此渴望只雇佣高级人才，却常常忘记，忘记不适用的东西可能比学习适用的东西需要更长的时间。2017 年 7 月 31 日下午 14:12[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=892025080355708930)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=892025080355708930)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=892025080355708930)
 
 有时候，项目经理的工作就是说“我知道那在那里不起作用，但也许在这里会起作用。”初级开发人员通常是测试该理论的最佳人选——他们可以构建概念验证或原型，而不会带来高级开发人员多年来积累的任何偏见。作为一名初级开发人员，我经常从事这种工作，尝试新的工具和技术，以不同的方式重建东西，证明其他人都判断得太快的想法。我经常发现更好的构建方法，公司的软件也因此变得更好。有些情况下，页面加载时间提高了一个数量级；多个页面被压缩成一个页面，节省了未来数周的维护时间；或者该公司能够排除可能导致大量时间浪费的技术不足。全新的背景和全新的视角所带来的好处不容忽视。
 
@@ -84,7 +84,7 @@
 
 当涉及到软件质量时，初级开发人员也做一种通常不受重视的重要工作:他们限制他们的高级同事可能想写的令人兴奋的、过度工程化的代码。
 
-> ![Jamon Holmgren profile image](../Images/48703ccba81b030ada82c4745e0bee36.png)Jamon holm gren[@ Jamon holm gren](https://dev.to/jamonholmgren)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)一个被低估的程序员属性是能够写出普通或平庸的工程师可以轻松阅读、修改和扩展的代码。2018 年 9 月 17 日上午 00:25[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1041483156656807936)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1041483156656807936)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1041483156656807936)
+> ![Jamon Holmgren profile image](img/48703ccba81b030ada82c4745e0bee36.png)Jamon holm gren[@ Jamon holm gren](https://dev.to/jamonholmgren)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)一个被低估的程序员属性是能够写出普通或平庸的工程师可以轻松阅读、修改和扩展的代码。2018 年 9 月 17 日上午 00:25[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1041483156656807936)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1041483156656807936)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1041483156656807936)
 
 如果你把上面推文中的“一般或平庸”换成“初级”，你就能看出这是怎么回事了。代码库是其贡献者批判性思维方式的抽象记录。初级和高级贡献者的健康组合创造了简化的机会，随着时间的推移，这使得特性更容易构建。
 

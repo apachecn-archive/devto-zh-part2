@@ -18,7 +18,7 @@
 
 幸运的是，当你陷入困境时，Flatiron 的平台 Learn.co 可以让你与技术教练实时聊天——我可能应该在斗争中利用大约 30-40 分钟，而不是让自己完全疯掉。我接通了技术教练詹姆斯(大声喊詹姆斯！)然后我们开始工作。他似乎有点困惑，因为对他来说一切都没问题，所以我们一次尝试一些小的调整，看看我们是否能让代码通过。最后，我们发现我在程序的错误部分返回了`false`。如果在迭代中返回`false`,该方法只接受数组中的第一个对象，并在迭代其余对象之前结束。换句话说，不好。
 
-[![Screen shot of side-by-side code](../Images/06a762bb3a0483f5135af34124be9ec1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t8I5mIGo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f45v0xw6jf3n51vqqb6k.jpg)
+[![Screen shot of side-by-side code](img/06a762bb3a0483f5135af34124be9ec1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t8I5mIGo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f45v0xw6jf3n51vqqb6k.jpg)
 
 啊！！在经历了所有的困惑、努力和挫折之后，最终的结果是仅仅切换了两行代码就让程序通过了测试。两行！就是这样！我自嘲了一下，非常感谢詹姆斯，并且能够自己编写出程序的其余部分，完成井字游戏状态实验室。(喝着受之无愧的啤酒)我又一次对自己说:“要有耐心。你很快就会明白的。
 

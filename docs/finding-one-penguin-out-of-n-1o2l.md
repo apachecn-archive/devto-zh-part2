@@ -8,7 +8,7 @@
 
 今年早些时候，我开始重写我 13 岁时创建的游戏服务器。有了像 Composer 这样的新工具和 PHP 7 中的新语言特性，我想看看我在企鹅俱乐部的日子里已经走了多远。上周六，当我从 Bitbucket 中克隆我的存储库，并重新测试我已经完成的内容时，我想起了几个月前的一个独特问题。
 
-[![Penguins](../Images/af5db24aafa9ea764e2e43ef6ac1097b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--22tf4M3_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vftodoxi2x36v77i7e5z.jpg)
+[![Penguins](img/af5db24aafa9ea764e2e43ef6ac1097b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--22tf4M3_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vftodoxi2x36v77i7e5z.jpg)
 
 ## 问题:通过套接字找到客户
 

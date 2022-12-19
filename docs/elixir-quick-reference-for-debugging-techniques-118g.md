@@ -97,7 +97,7 @@ end
 
 与 IEx.pry 非常相似，它在断点处停止执行，并允许您检查当前代码，但是[:调试器](http://erlang.org/doc/apps/debugger/debugger_chapter.html)为您提供了一个漂亮的可视化界面，就像 ide 中的界面一样:
 
-[![gif from http://blog.plataformatec.com.br/2016/04/debugging-techniques-in-elixir-lang/)](../Images/bd1d5375a9849796cbe0ac1272b3c741.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B3pmplW5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://blog.plataformatec.com.br/wp-content/uploads/2016/04/debugger-elixir.gif)
+[![gif from http://blog.plataformatec.com.br/2016/04/debugging-techniques-in-elixir-lang/)](img/bd1d5375a9849796cbe0ac1272b3c741.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B3pmplW5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://blog.plataformatec.com.br/wp-content/uploads/2016/04/debugger-elixir.gif)
 
 gif 来自[http://blog . platafomatec . com . br/2016/04/debugging-techniques-in-elixir-lang](http://blog.plataformatec.com.br/2016/04/debugging-techniques-in-elixir-lang)
 

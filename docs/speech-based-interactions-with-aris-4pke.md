@@ -4,7 +4,7 @@
 
 # ARIS 的 Alexa 演示现已在亚马逊技能商店上架
 
-| 2018 年第三期 | [![](../Images/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://bit.ly/2LuNntc) |
+| 2018 年第三期 | [![](img/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://bit.ly/2LuNntc) |
 | --- | --- |
 
 长期以来，人工智能(AI)给人的感觉就像是一个愿景或明天的故事——承诺未来的梦想，但总是遥不可及。但人工智能今天已经出现，并在应用和对商业和社会的影响方面迅速增长。日复一日，越来越多的基于语音的应用在我们的日常业务中使用，不仅更快地提供见解，而且超越了迄今为止的可能，从而改善了我们与技术和设备的交互方式。
@@ -13,7 +13,7 @@
 
 这是拓宽 Alexa 思维的灵感——不仅让它对私人生活有价值，对商业世界也有价值。我们希望为 Alexa 创造一种新的体验，并决定建立一个演示，以便 Alexa 可以直接与 ARIS 互动，为您提供所需的信息，即使您当时无法访问您的 ARIS 门户网站。
 
-[![](../Images/cab2715552242069c3deab7a4e7b5d8b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DFIPIFrk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/SA1.jpg/248ef8dd-3a64-490d-80bc-3a7a452435b3%3Ft%3D1531400725527)
+[![](img/cab2715552242069c3deab7a4e7b5d8b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DFIPIFrk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/SA1.jpg/248ef8dd-3a64-490d-80bc-3a7a452435b3%3Ft%3D1531400725527)
 
 现在是“Alexa，问 ARIS”的时候了:在 CEBIT 上，我们推出了我们的 **ARIS 用于 Alexa 演示**，它现在正式在亚马逊 Alexa 技能商店(英语和德语)上提供，允许你不用手，只需用你的声音就可以从 ARIS 获得信息。
 
@@ -38,6 +38,6 @@
 
 以“Alexa，问 ARIS……”开始提问，享受。我们期待您的反馈，告诉我们您对它的喜爱程度，以及您认为它在哪些方面可以带来最大的商业利益！](https://www.amazon.com/dp/B07DL9WJG4/ref%3Dsr_1_1?s=digital-skills&ie=UTF8&qid=1528440677&sr=1-1&keywords=aris)
 
-[![](../Images/e6bb5da6bc0254d93011bd21084d223b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--03QbCfx0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/SA2.jpg/2c988a16-ce34-47b7-905c-0c384325a29e%3Ft%3D1531400729445) 
+[![](img/e6bb5da6bc0254d93011bd21084d223b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--03QbCfx0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/SA2.jpg/2c988a16-ce34-47b7-905c-0c384325a29e%3Ft%3D1531400729445) 
 
 *在亚马逊技能商店为 Alexa 找 ARIS*

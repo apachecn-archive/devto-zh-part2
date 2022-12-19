@@ -6,7 +6,7 @@
 
 在这篇文章中，我将尝试总结这些讨论，希望能够帮助更多的人在正确的方向上开始。
 
-[![](../Images/b83629eafc497eca4daf549d78591488.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LGL-xQ2n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Acb7AYoikk-4FUhm98LV-Og.jpeg) 
+[![](img/b83629eafc497eca4daf549d78591488.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LGL-xQ2n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Acb7AYoikk-4FUhm98LV-Og.jpeg) 
 
 <figcaption>哦好极了。法国航空公司又罢工了。最好快点！</figcaption>
 

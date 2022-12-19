@@ -24,7 +24,7 @@
 
 这是实际流程图中的样子...
 
-[![](../Images/0786c38c0a88b25a07c3c755129f0bee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--txIMTEAS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d9mnz5rqbqw2ymz23wpt.PNG)
+[![](img/0786c38c0a88b25a07c3c755129f0bee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--txIMTEAS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d9mnz5rqbqw2ymz23wpt.PNG)
 
 现在让我们看一个例子，我们有一个预先制作的学生姓名和他们的 GPA 数组。我们希望运行一个函数，在该函数中，我们查看对象数组，找到所有 GPA 为 3.0 或更高的学生，然后呈现学生姓名。
 
@@ -37,7 +37,7 @@
 
 这是实际流程图中的样子...
 
-[![](../Images/c210478a0ddc449169abdac7a200285f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JXBYdiRi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dlxv7ul6pcqsc65jc57i.PNG)
+[![](img/c210478a0ddc449169abdac7a200285f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JXBYdiRi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dlxv7ul6pcqsc65jc57i.PNG)
 
 你可以看到这是一个比前一个更技术性的程序，但是流程图更容易绘制。
 

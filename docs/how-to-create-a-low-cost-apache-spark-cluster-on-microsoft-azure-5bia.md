@@ -101,7 +101,7 @@ chmod 755 account_setup.sh &&
 
 回答几个问题后，该命令返回所需的设置，您可以在**中添加/更新这些设置。aztk/secrets.yaml** 文件。
 
-<figure>[![secrets.yaml Settings](../Images/5092d5e14598f8f8816f2cf652c8caa4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--a4kSTvCT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datainsights.cloud/images/posts/AztkGettingStarted01.png) 
+<figure>[![secrets.yaml Settings](img/5092d5e14598f8f8816f2cf652c8caa4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--a4kSTvCT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datainsights.cloimg/posts/AztkGettingStarted01.png) 
 
 <figcaption>将 Azure 凭证添加到 secrets.yaml 文件</figcaption>
 
@@ -120,7 +120,7 @@ aztk spark cluster create --id mycluster --size 0 --size-low-priority 5 --vm-siz
 *   **size-low-priority** 参数指定低优先级虚拟机的数量(按正常价格的 20%收费)。这当然有一个缺点。如果 Azure 需要其他客户的虚拟机，它们将被删除。
 *   **vm-size** 参数指定要使用的虚拟机的[类型。](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/sizes)
 
-<figure>[![Provision Apache Spark Cluster](../Images/87050c6f32becd2d09247bebf27e6fc3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--53oDrz_Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datainsights.cloud/images/posts/AztkGettingStarted02.png) 
+<figure>[![Provision Apache Spark Cluster](img/87050c6f32becd2d09247bebf27e6fc3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--53oDrz_Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datainsights.cloimg/posts/AztkGettingStarted02.png) 
 
 <figcaption>置备你的第一个阿帕奇星火集群</figcaption>
 
@@ -136,7 +136,7 @@ aztk spark cluster create --id mycluster --size 0 --size-low-priority 5 --vm-siz
 aztk spark cluster list 
 ```
 
-<figure>[![List Apache Spark Clusters](../Images/15c204a1eab239ae7a195754cf61d4e4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--w2ibdecv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datainsights.cloud/images/posts/AztkGettingStarted03.png) 
+<figure>[![List Apache Spark Clusters](img/15c204a1eab239ae7a195754cf61d4e4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--w2ibdecv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datainsights.cloimg/posts/AztkGettingStarted03.png) 
 
 <figcaption>列出所有阿帕奇星火星团</figcaption>
 
@@ -146,7 +146,7 @@ aztk spark cluster list
 aztk spark cluster get --id mycluster 
 ```
 
-<figure>[![Get Cluster Details](../Images/d8bc600bf087e845ba44936bc7637636.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Jvw1Jfgg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datainsights.cloud/images/posts/AztkGettingStarted04.png) 
+<figure>[![Get Cluster Details](img/d8bc600bf087e845ba44936bc7637636.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Jvw1Jfgg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datainsights.cloimg/posts/AztkGettingStarted04.png) 
 
 <figcaption>获取单个星团的详细信息</figcaption>
 
@@ -160,7 +160,7 @@ aztk spark cluster get --id mycluster
 aztk spark cluster ssh --id mycluster 
 ```
 
-<figure>[![Get Cluster Details](../Images/ce5a7b9a7ff696aef68413abae13fb50.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jkxIwOhR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datainsights.cloud/images/posts/AztkGettingStarted05.png) 
+<figure>[![Get Cluster Details](img/ce5a7b9a7ff696aef68413abae13fb50.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jkxIwOhR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datainsights.cloimg/posts/AztkGettingStarted05.png) 
 
 <figcaption>获取单个星团的详细信息</figcaption>
 
@@ -168,7 +168,7 @@ aztk spark cluster ssh --id mycluster
 
 建立连接后，您可以使用端口转发来访问 Spark Web UI 等服务。
 
-<figure>[![Apache Spark Web UI](../Images/0cf91a7bb08f50d828cd3c523217733f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wK3e46SX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datainsights.cloud/images/posts/AztkGettingStarted06.png) 
+<figure>[![Apache Spark Web UI](img/0cf91a7bb08f50d828cd3c523217733f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wK3e46SX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datainsights.cloimg/posts/AztkGettingStarted06.png) 
 
 <figcaption>通过端口转发访问 Spark Web UI</figcaption>
 

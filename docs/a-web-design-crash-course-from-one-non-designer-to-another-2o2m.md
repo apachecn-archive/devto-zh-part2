@@ -12,7 +12,7 @@
 
 下面是我对编程的禅宗的配色方案:
 
-[![](../Images/b2ffe7a2ff06378a7e62b9f45d5e52c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rnEExeU---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9ilzz2bi90odgmd31kaa.png)
+[![](img/b2ffe7a2ff06378a7e62b9f45d5e52c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rnEExeU---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9ilzz2bi90odgmd31kaa.png)
 
 我使用相同的十六进制代码为绿色，粉红色和灰色为我的背景，标题，文字和按钮。
 
@@ -38,7 +38,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当我使用彩虹配色方案时，我将彩虹视为一种颜色，然后对其他颜色使用两种中性色。例如，在 alispit.tel 上，我用深灰色的文字，白色的背景，然后用彩虹色的字母和随机的形状。
 
-[![](../Images/0687b3eef54fa3009b56f22cfafd5262.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8TtQOHn5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fqzx4w8xiutfc8k8vths.png)
+[![](img/0687b3eef54fa3009b56f22cfafd5262.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8TtQOHn5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fqzx4w8xiutfc8k8vths.png)
 
 ### 色彩冲突
 
@@ -50,7 +50,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 确保你网站上的颜色之间有一个合理的对比度。如果没有，阅读你的内容会困难很多。这里有一个很棒的网站，可以帮你检查你的对比度。灯塔测试也会帮你检查这个！一般来说，浅色放在深色上面，深色放在浅色上面！
 
-[![](../Images/b8836282bd1cf164cbcd91f6c3cd8195.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S25hY6s2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dghbsk1rdvfg7x64adhl.png)
+[![](img/b8836282bd1cf164cbcd91f6c3cd8195.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S25hY6s2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dghbsk1rdvfg7x64adhl.png)
 
 ### 颜色含义
 
@@ -68,7 +68,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是一个很难读懂的文本的例子:
 
-[![Example of hard to read website content text](../Images/7bb385beea8a98b3364f23cadf303113.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0l8fg6ME--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lnfaittf0ieri65c9ssw.png)
+[![Example of hard to read website content text](img/7bb385beea8a98b3364f23cadf303113.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0l8fg6ME--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lnfaittf0ieri65c9ssw.png)
 
 让我们努力使它更具可读性！
 
@@ -117,7 +117,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这将把下图中左边的文字转换成右边的文字。
 
-[![Line height demo](../Images/cfd3d33da57d64f9fbeed4a5c647adbb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4CzTwBve--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cbisc63b25u5zeqineqv.png)
+[![Line height demo](img/cfd3d33da57d64f9fbeed4a5c647adbb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4CzTwBve--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cbisc63b25u5zeqineqv.png)
 
 #### 段落填充
 
@@ -131,7 +131,7 @@ p {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Paragraph padding demo](../Images/9d6409316ed88227da6dea1f7da8caab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HGGWeOtY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hdmjzfvp8amrybxuom3n.png)
+[![Paragraph padding demo](img/9d6409316ed88227da6dea1f7da8caab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HGGWeOtY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hdmjzfvp8amrybxuom3n.png)
 
 #### 字间距
 
@@ -139,11 +139,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是我博客的标题，增加了单词间距:
 
-[![](../Images/d13db09dc5adeb84ade60609dd08de85.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GAih_wzd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nmomzzh6cjgux3hla3wz.png)
+[![](img/d13db09dc5adeb84ade60609dd08de85.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GAih_wzd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nmomzzh6cjgux3hla3wz.png)
 
 这里没有:
 
-[![](../Images/662e537b853b1dddb5d65498e02d1073.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uqMCE-1O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bxwy39ckyepsy9x67bos.png)T3】
+[![](img/662e537b853b1dddb5d65498e02d1073.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uqMCE-1O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bxwy39ckyepsy9x67bos.png)T3】
 
 ```
 h1 {
@@ -163,7 +163,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 有些字体比其他字体更容易阅读。对于 web 上的内容，阅读无衬线字体通常更容易。衬线是一些字体中字母末端的小点——你可以在下图的绿色圆圈中看到衬线！
 
-[![Sans-serif vs serif font](../Images/bd982a8e23361ea9944c406fd1a5d9ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FgTqM-GM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t3tcr6ctnasr68j398dt.png)
+[![Sans-serif vs serif font](img/bd982a8e23361ea9944c406fd1a5d9ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FgTqM-GM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t3tcr6ctnasr68j398dt.png)
 
 我的经验是，每个网站的标题使用一种装饰字体(想想草书或者非传统字体)或者衬线字体，内容使用无衬线字体。
 
@@ -203,13 +203,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 不同类型的标题应该比你的内容大。此外，使用不同的字体粗细来区分文本。
 
-[![](../Images/a965d04f8c3ea054eed71a6031fd8e85.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fz29zYIa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rrph5ceq4a65eay8ius4.png)
+[![](img/a965d04f8c3ea054eed71a6031fd8e85.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fz29zYIa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rrph5ceq4a65eay8ius4.png)
 
 ## 一旦我们改变了这些东西...
 
 我们的内容变得更容易阅读！
 
-[![](../Images/147a5e21a4b3ffb4e4b2565103e84e40.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EHI05k9l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/avf7izy6wupe3b2avwbw.png)
+[![](img/147a5e21a4b3ffb4e4b2565103e84e40.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EHI05k9l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/avf7izy6wupe3b2avwbw.png)
 
 ## 背景
 
@@ -217,13 +217,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 在下图中，文字很难阅读。
 
-[![](../Images/05dffa278d43917b32227bb91570db5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FtGA3I7T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/37e48lmj1kntlvvrdjfl.png)
+[![](img/05dffa278d43917b32227bb91570db5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FtGA3I7T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/37e48lmj1kntlvvrdjfl.png)
 
 ### 分割页面
 
 如果您想保留图像，可以拆分页面，使图片显示在一半，文本显示在另一半。
 
-[![](../Images/66e46e6ecce093527ef392c41b23c900.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Sxyt7QrA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zd2b9sinuafl0jcyjmr4.png)T3】
+[![](img/66e46e6ecce093527ef392c41b23c900.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Sxyt7QrA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zd2b9sinuafl0jcyjmr4.png)T3】
 
 ```
 <style>
@@ -261,7 +261,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 随着上面的改变和字体大小的增加，背景图片上的字体变得更容易阅读！
 
-[![](../Images/4099761d536e3678959fcfe1850a6f99.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YvmBFGIv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4v847v222h2alswqb6jm.png)
+[![](img/4099761d536e3678959fcfe1850a6f99.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YvmBFGIv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4v847v222h2alswqb6jm.png)
 
 ### 背景颜色
 

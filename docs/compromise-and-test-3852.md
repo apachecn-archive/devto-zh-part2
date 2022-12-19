@@ -4,7 +4,7 @@
 
 <figure>
 
-[![Person gesturing at laptop](../Images/2cb394dddd0fb3e410f880321f1d65aa.png "Let's argue about computer things")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uu0xP8T2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kellen.piffner.com/img/compromise-and-test/rawpixel-669602-unsplash.jpg)
+[![Person gesturing at laptop](img/2cb394dddd0fb3e410f880321f1d65aa.png "Let's argue about computer things")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uu0xP8T2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kellen.piffner.com/img/compromise-and-test/rawpixel-669602-unsplash.jpg)
 
 <figcaption><cite>[Photo by rawpixel on Unsplash](https://unsplash.com/@rawpixel?utm_medium=referral&utm_campaign=photographer-credit&utm_content=creditBadge)</cite></figcaption>
 

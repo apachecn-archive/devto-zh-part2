@@ -88,4 +88,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 我将缩短这篇文章，并鼓励读者观看汤姆的演讲“[被动侦察技术](https://www.youtube.com/watch?v=DvS_ew77GXA)”。本次演讲中描述的所有技术都可以通过 meg 实现自动化，正如 Tom 所展示的，这些技术非常有用。
 
-[![](../Images/733e9048b7c9554034e18074e96635f9.png)T2】](https://www.youtube.com/watch?v=DvS_ew77GXA)
+[![](img/733e9048b7c9554034e18074e96635f9.png)T2】](https://www.youtube.com/watch?v=DvS_ew77GXA)

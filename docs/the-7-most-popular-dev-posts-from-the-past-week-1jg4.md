@@ -6,7 +6,7 @@
 
 TL；Mint 是一种类型化编程语言，它编译成 JavaScript 来构建单页面应用程序。在这篇文章中，Szikszsai 解释了为什么他们构建了另一种编译成 JavaScript 的编程语言。
 
-[![gdotdesign](../Images/0339dbf02ea5cfa41b20d1bef8127058.png)](/gdotdesign) [## mint——一种令人耳目一新的前端 web 编程语言
+[![gdotdesign](img/0339dbf02ea5cfa41b20d1bef8127058.png)](/gdotdesign) [## mint——一种令人耳目一新的前端 web 编程语言
 
 ### (七月十一日，晚上八点三分)
 
@@ -16,7 +16,7 @@ TL；Mint 是一种类型化编程语言，它编译成 JavaScript 来构建单�
 
 你可能一直在谷歌搜索的 git 问题列表。
 
-[![citizen428](../Images/37cd479129e1fb4a1d6e3c7121287843.png)](/citizen428) [## 10 个常见的 Git 问题及其解决方法
+[![citizen428](img/37cd479129e1fb4a1d6e3c7121287843.png)](/citizen428) [## 10 个常见的 Git 问题及其解决方法
 
 ### 迈克尔科尔 7 月 9 日 187 分钟阅读
 
@@ -26,7 +26,7 @@ TL；Mint 是一种类型化编程语言，它编译成 JavaScript 来构建单�
 
 常见的数据结构和与之相关的问题。对于那些在面试过程中的人，或者任何想要复习的人来说，这些文章超级有用。
 
-[![fahimulhaq](../Images/43ff9ec8e023703769067bac88e1adb3.png)](/fahimulhaq) [## 编码面试和练习面试问题的 8 大数据结构
+[![fahimulhaq](img/43ff9ec8e023703769067bac88e1adb3.png)](/fahimulhaq) [## 编码面试和练习面试问题的 8 大数据结构
 
 ### 法希姆哈克 7 月 12 日 188 分钟阅读
 
@@ -54,7 +54,7 @@ TL；Mint 是一种类型化编程语言，它编译成 JavaScript 来构建单�
 
 这是一个关于决心的故事，也是一个目标如何为不可预见的机遇打开大门的故事。
 
-[![hugh_jeremy](../Images/825abe0575788f3bdc7627ed57b903eb.png)](/hugh_jeremy) [## 将个人项目作为商业产品发布的经验
+[![hugh_jeremy](img/825abe0575788f3bdc7627ed57b903eb.png)](/hugh_jeremy) [## 将个人项目作为商业产品发布的经验
 
 ### 休杰里米 7 月 14 日 186 分钟阅读
 

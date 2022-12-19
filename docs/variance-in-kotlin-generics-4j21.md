@@ -152,7 +152,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 回到“一个类至少有一种类型”，好吧，它可以有更多。请看图 1。
 
-[![](../Images/92b523bab1fdd95c523e8e37999b4a5c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2BnvqNlg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rlbykhvskais66q84mox.png) 
+[![](img/92b523bab1fdd95c523e8e37999b4a5c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2BnvqNlg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rlbykhvskais66q84mox.png) 
 *图 1*
 
 从图 1 中，我们可以说
@@ -167,7 +167,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 可空类型就是一个子类不同于子类型的例子。参见图 2。
 
-[![](../Images/b0ee5521f6dbc933ae90c08ba56c0edc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--psKPeXXh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c8zhcozasn5h26y1wu53.png) 
+[![](img/b0ee5521f6dbc933ae90c08ba56c0edc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--psKPeXXh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c8zhcozasn5h26y1wu53.png) 
 *图二*
 
 当你在一个类型的名字后面加上一个问号时，它就变成了该类型的可空版本。在 Kotlin 中，我们可以从同一个类中创建两种类型——可空版本和不可空版本。我们真的不能说*程序员*是*程序员的子类？*因为*程序员*只有一个类定义，而*程序员*(不可空版本)是程序员的子类型？(可空的那个)。同样， *Any* 是 *Any 的子类型？*但是*有吗？*不是 *Any* 的子类型——反方向不成立。
@@ -193,7 +193,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在我们来看泛型。图 3 应该有助于我们阐明我们需要理解的下一组概念。
 
-[![](../Images/1c338452651f2c6d98411be675ed4139.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--u-9wKQia--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kn8ueiizfce6h14ubqji.png) 
+[![](img/1c338452651f2c6d98411be675ed4139.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--u-9wKQia--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kn8ueiizfce6h14ubqji.png) 
 *图 3*
 
 我们知道第一种关系，雇员是程序员的超类型。我们还知道`List<Employee>`将接受`List<Programmer>`，我们在清单 2 中测试了这一点——您可能不太清楚为什么它会工作，所以，在我们处理完第三组盒子后，我将回到这一点。
@@ -211,7 +211,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是因为，虽然`Group`是一个类，但是`Group<Employee>`不是，并且推而广之，`Group<Programmer>`不是`Group<Employee>`的子类——如果你现在正在考虑`List<Employee>`和`List<Programmer>`，请停止。我说过我会回到那个话题。先用`Group<Employee>`和`Group<Programmer>`坚持。表 1 应该有助于我们总结其中的一些内容。
 
-[![](../Images/ed49f4244180a7ad63a71277da388c1a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L89g1Vn7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xt5aopj9yb80zlh6vqyx.png)
+[![](img/ed49f4244180a7ad63a71277da388c1a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L89g1Vn7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xt5aopj9yb80zlh6vqyx.png)
 
 现在我们可以确定`Group<Employee>`与`Group<Programmer>`没有类型关系，即使类 Employee 与程序员有类型关系。默认情况下，`Group<T>`中的类型参数是不变的(没有类型关系)。为了改变的方差，你需要使用 out(使其协变)或 In(使其逆变)关键字。
 
@@ -265,4 +265,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 (不要脸塞)本文摘自[用 Kotlin](https://www.amazon.com/Learn-Android-Studio-Kotlin-Development/dp/1484239067/ref=sr_1_1?ie=UTF8&qid=1543408646&sr=8-1&keywords=learn+android+studio+3+kotlin) 学习 Android Studio 3 第七章。
 
-[![Learn Android Studio 3 with Kotlin](../Images/1a195b41e2ec7647df16abd5eab7b684.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JX6fE5Rz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c9fg6pmd1uj71y498ixl.jpg)
+[![Learn Android Studio 3 with Kotlin](img/1a195b41e2ec7647df16abd5eab7b684.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JX6fE5Rz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c9fg6pmd1uj71y498ixl.jpg)

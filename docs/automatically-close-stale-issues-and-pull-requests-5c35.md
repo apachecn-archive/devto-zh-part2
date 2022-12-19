@@ -8,7 +8,7 @@
 
 这就是为什么我们创造了一个机器人，可以自动关闭陈旧的问题和公关。这里有一张[机器人在行动](https://github.com/spatie/laravel-tags/issues/79)的截图。
 
-[![bot closing an issue](../Images/618ae087f40b673234f5f1ef42c1e6b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gSCDd-xN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/github-bot/bot-comment.png)
+[![bot closing an issue](img/618ae087f40b673234f5f1ef42c1e6b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gSCDd-xN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/github-bot/bot-comment.png)
 
 在这篇文章中，我想分享这个机器人的代码。
 

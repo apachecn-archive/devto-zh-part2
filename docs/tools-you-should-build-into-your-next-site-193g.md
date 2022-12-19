@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/brettclawson75/tools-you-should-build-into-your-next-site-193g>
 
-[![build tools into your website](../Images/713b5066a4f6fc53beb64fff92dfd147.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JnbDlSYL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/69i5zq293vwekxshpvec.jpeg)
+[![build tools into your website](img/713b5066a4f6fc53beb64fff92dfd147.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JnbDlSYL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/69i5zq293vwekxshpvec.jpeg)
 
 如果你正计划为你的作品集、个人博客、创业公司或任何其他东西推出一个新网站，那么把事情做好可能是一个富有挑战性且昂贵的过程。要为自己或客户开发一个新网站，你应该从使用一些久经考验的网站开发工具开始，帮助你构建一个完美的网站。在这篇文章中，我将讨论一些最好的工具，它们将帮助你以一种比以前更简单的方式开发和启动你的下一个网站。
 

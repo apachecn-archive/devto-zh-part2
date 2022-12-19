@@ -26,13 +26,13 @@
 
 *“流工作队列负责流的执行顺序，并将随着流的添加和完成而填充和清空。这个队列对于协调节点中流的执行至关重要。当涉及到多线程流时，这也是痛苦的来源。”*
 
-[![Corda Flow Queue](../Images/491cf9816538532e05e639fd37601ec2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z1Fe19sC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lankydanblog.files.wordpress.com/2018/09/corda-flow-queue.png)
+[![Corda Flow Queue](img/491cf9816538532e05e639fd37601ec2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z1Fe19sC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lankydanblog.files.wordpress.com/2018/09/corda-flow-queue.png)
 
 *“我为什么要说这个队列？嗯，我们需要格外小心，不要让无法完成的流填满队列。*
 
 那怎么可能发生？通过启动正在执行的流中的一个流，然后等待其结束。在队列的线程池中的所有线程都遇到这种情况之前，这不会造成问题。一旦发生这种情况，队列就会陷入死锁。没有流可以完成，因为它们都依赖于许多排队的流来完成。"
 
-[![Corda Flow Queue deadlock](../Images/c8b27138c864a14dd935e47b8e638c13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ccVcAKVm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lankydanblog.files.wordpress.com/2018/09/corda-flow-queue-deadlock.png)
+[![Corda Flow Queue deadlock](img/c8b27138c864a14dd935e47b8e638c13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ccVcAKVm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lankydanblog.files.wordpress.com/2018/09/corda-flow-queue-deadlock.png)
 
 这标志着我的复制意大利面的结束。不过我还是要说，真的，我建议你通读一下[使用 Corda 服务的异步流调用](https://lankydanblog.com/2018/09/22/asynchronous-flow-invocations-with-corda-services/)以获得对这个主题的全面解释。
 

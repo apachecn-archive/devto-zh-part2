@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/petarov/store-encrypted-files-in-google-drive-3d62>
 
-> [![XKCD Opinions on Privacy](../Images/0b281f9d830d32bc0d314c95e112063b.png)T2】](https://www.xkcd.com/1269/)
+> [![XKCD Opinions on Privacy](img/0b281f9d830d32bc0d314c95e112063b.png)T2】](https://www.xkcd.com/1269/)
 
 # 目录
 
@@ -46,7 +46,7 @@
 
 哦，这里有一个我之前画的工作流程图，让这篇文章看起来不那么无聊。看哪！
 
-[![Action Diagram](../Images/c64dc72559c795cc6566414d5ba6cb7f.png)T2】](http://i.imgur.com/UUweMo1.png)
+[![Action Diagram](img/c64dc72559c795cc6566414d5ba6cb7f.png)T2】](http://i.imgur.com/UUweMo1.png)
 
 # 要求
 
@@ -127,7 +127,7 @@ sub   rsa2048 2017-05-25 [E] [expires: 2019-05-25]
 
 第一个要求是一个 Google Drive 文件夹，你要把加密文件上传到这个文件夹。请注意，浏览器 url 中给出了文件夹的唯一 id。
 
-[![Sync Folder](../Images/786e0595511480d54e4a7ad380d275f1.png)T2】](http://i.imgur.com/kDTA2an.png)
+[![Sync Folder](img/786e0595511480d54e4a7ad380d275f1.png)T2】](http://i.imgur.com/kDTA2an.png)
 
 接下来，您需要初始化 gdrive 并在硬盘上配置一个 sync 文件夹。
 
@@ -266,7 +266,7 @@ Removing encrypted files from /var/local/mysyncfolder ...
 
 如果你现在看一下 Google Drive，你会发现所有的加密文件都放在目标文件夹中。
 
-[![Synchronized files](../Images/cc08a3fe4a4842e523546f37ed66dac0.png)](http://i.imgur.com/cvgiMsv.png)
+[![Synchronized files](img/cc08a3fe4a4842e523546f37ed66dac0.png)](http://i.imgur.com/cvgiMsv.png)
 
 那么，如果你需要定期这样做呢？我是不是听到你说了一份工作？这里有一个每天 00:30 调用`sync.sh`脚本的:
 

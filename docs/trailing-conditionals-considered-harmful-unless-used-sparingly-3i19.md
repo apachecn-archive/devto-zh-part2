@@ -37,7 +37,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我不看好尾随条件句的原因可能最好用我最近在 80 号州际公路上看到的路标来表达:
 
-[![Not the actual sign I saw, but close enough](../Images/d6e877b056bffcf3f088540031dec94b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8iO0rGcA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u4f20fyiebwd14vyuxq5.jpg)
+[![Not the actual sign I saw, but close enough](img/d6e877b056bffcf3f088540031dec94b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8iO0rGcA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u4f20fyiebwd14vyuxq5.jpg)
 
 注意到后面的条件句了吗？如果司机没有看到文字的最后一行，像这样的标志会出很多问题。为什么会这样？
 

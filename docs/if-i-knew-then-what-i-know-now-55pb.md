@@ -8,7 +8,7 @@
 
 我半开玩笑地列出了 15 个项目。显然，有些人喜欢它。所以，现在它以帖子的形式出现，可以分享。
 
-[![tedhagos profile image](../Images/5a21bd1e876d68930275b77fe5ec4046.png) ](/tedhagos) [ Ted Hagos ](/tedhagos) • [<time datetime="2018-10-04T06:07:49Z"> Oct 4 '18 </time> • Edited  on <time datetime="2018-10-05T11:15:01Z"> Oct 5</time>](https://dev.to/tedhagos/comment/612i) 
+[![tedhagos profile image](img/5a21bd1e876d68930275b77fe5ec4046.png) ](/tedhagos) [ Ted Hagos ](/tedhagos) • [<time datetime="2018-10-04T06:07:49Z"> Oct 4 '18 </time> • Edited  on <time datetime="2018-10-05T11:15:01Z"> Oct 5</time>](https://dev.to/tedhagos/comment/612i) 
 
 如果我有布朗医生的德罗宁，这就是我对年轻时的自己的建议
 

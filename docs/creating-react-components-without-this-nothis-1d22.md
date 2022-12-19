@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/joelnet/creating-react-components-without-this-nothis-1d22>
 
-[![Change](../Images/932bedeaa6bcd2240cb2214b4a8db951.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HIZ2ktkZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ad7hzi7gam16no4c19ez.jpg)
+[![Change](img/932bedeaa6bcd2240cb2214b4a8db951.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HIZ2ktkZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ad7hzi7gam16no4c19ez.jpg)
 
 轻松创建完全没有`this`的 React 组件。
 
@@ -30,7 +30,7 @@
 
 嗯，`this`是 JavaScript 的`GOTO`,我知道它不会在一夜之间消失。但是我希望它不会像`GOTO`那样花费我们 20 年的时间。
 
-[![Doctor is hurts when i .this](../Images/f78b02c08da400aedd8c61a9c674e814.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FjKloYub--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/joelnet/nothis/blob/master/assets/meme-doctor.jpg%3Fraw%3Dtrue)
+[![Doctor is hurts when i .this](img/f78b02c08da400aedd8c61a9c674e814.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FjKloYub--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/joelnet/nothis/blob/master/assets/meme-doctor.jpg%3Fraw%3Dtrue)
 
 # 这一切对 React 组件意味着什么？
 
@@ -124,4 +124,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 `#nothis`
 
-[![Cheers!](../Images/0e0809a227b4e8d55ae5bc09d2845629.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T_va1NDK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/np3h0zqssbzq02869c9u.jpg)
+[![Cheers!](img/0e0809a227b4e8d55ae5bc09d2845629.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T_va1NDK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/np3h0zqssbzq02869c9u.jpg)

@@ -14,7 +14,7 @@
 
 总之，我加入了军队。和其他十几个新成员一起。我们宣布了组织会议的开始，以概述这样的社区的短期和长期目标。前 N 次会议，我们会从简单的自我介绍开始，以及为什么我们最终会坐在那张桌子旁，关心里面的女性。因此，我在 IT 的不同专业领域遇到了如此多的杰出女性。我听的每一个故事都像是“你这辈子到底去了哪里？”
 
-<center>![One of the first organisational meetings](../Images/99f1cabc200b82029305b0ff996e6e9c.png)
+<center>![One of the first organisational meetings](img/99f1cabc200b82029305b0ff996e6e9c.png)
 *One of the first organisational meetings*</center>
 
 与此同时，我发现许多女性被迫放弃梦想，听从父母、丈夫或其他威胁她们做出更多“女性”选择的人的话。我发现我并不孤单。当我 14 岁的时候，我告诉我妈妈我将学习计算机工程，她不支持我的选择，并试图用我必须结婚生子而不是学习一辈子的论点来让我改变主意，但对我来说，这听起来很虚伪，因为我妈妈有应用数学硕士学位，她一生的大部分时间都在用穿孔卡片工作，后来用 Fortran 编程，在我清醒的几年里，她在大学教数学。她是我唯一的女性榜样，然而她却不鼓励我追随自己的内心(或者在那种情况下是大脑:-D)。现在我知道她可能不想让我经历性别歧视，但当时这似乎很奇怪。尽管如此，我没有改变我的想法，我赢得了这场战斗，但许多女性在这种情况下确实放弃了。
@@ -25,37 +25,37 @@
 2.  行为准则。违规者将首次受到警告，如果继续不当行为，将被逐出社区。在我们 19 个月的工作中，只有两个人被排除在外。结果，我们帮助了这么多的女性成为第一次发言的人并获得了自信，问问题并获得了自信，或者仅仅是获得了自信，因为我们保证了一个友好的环境，在那里没有人会被评判，或者更糟的是，没有人会被骚扰。
 3.  对男人开放。诸如此类，女人应该团结在一起，但事实是，在男性盟友的帮助下，反对性别偏见的斗争将会取得更大的进展:如果没有男性倡导者，女性很容易在商界被击败。因此，对于每一项活动，组织者都表示，我们不会将活动局限于任何性别。我们限制的是演讲者的配额:到目前为止，我们只有一名男性演讲者(他也很乐意在积极的环境中练习他的演讲技巧)和几十名女性演讲者，但是我们准备让 25%的男性演讲者。
 
-<center>![Deep Learning meetup](../Images/469ad34cc53b1e9d7858c13936ddb53a.png)
+<center>![Deep Learning meetup](img/469ad34cc53b1e9d7858c13936ddb53a.png)
 *Deep Learning meetup. Yup, sometimes there are more men than women sitting and enjoying talks of our fellow female engineers.*</center>
 
 好了，我们设定了一个课程来进行[第一次技术会议](https://www.meetup.com/Women-Who-Code-Kyiv/events/237823597/)(还记得吗，我答应过“代码”部分？).我在多元化倡议中的观点不是让边缘化群体听“你很强大，你可以做到”的咒语，而是提供一个安全的教育空间，在这里每个人都可以安全地评估自己的技术技能。我们找到了扬声器，我发现了自己的设计技能，并编制了一个令人难忘的徽标印在贴纸和杯子上，我们与一家伟大的公司 [DataArt](http://dataart.com.ua/) 成为了朋友，他们立即同意为我们提供空间和小吃，最终我们准备好启动我们的技术计划了！
 
-<center>![Hotfixing stickers](../Images/e0096c1b8db57037b44cacfe96d84879.png)
+<center>![Hotfixing stickers](img/e0096c1b8db57037b44cacfe96d84879.png)
 *The printing house messed up with stickers, so we had to cut them manually on the last evening before the first event*</center>
 
 我们有一个很棒的活动，我们有很多很棒的问题，人们整个晚上都在微笑。我从没见过这么多人在科技盛会上如此开心！不值钱的说，那么多幸福的女工程师！
 
-<center>![After the first tech meetup](../Images/f528a1f35f53d355a759960eb8d4abd8.png)
+<center>![After the first tech meetup](img/f528a1f35f53d355a759960eb8d4abd8.png)
 *Hey, ladies, what do you think of our first technical event? Lady Ada approves too.*</center>
 
 根据我们在每次活动后收集的反馈，这是一次成功。征求反馈是许多集体想法中的一个。我们作为一个团队工作顺利，甚至没有试图支配任何决定，也没有用权威来证明它们。
 
-<center>![Family photo](../Images/16dcb6a905b3a2993f7096dcac98587e.png)
+<center>![Family photo](img/16dcb6a905b3a2993f7096dcac98587e.png)
 *Every single event we do a family photo*</center>
 
 在第一次活动中，我们宣布了一个基于麻省理工学院 6.0001“计算机科学和使用 Python 编程导论”的介绍性课程。这个课程和我们的其他活动一样，是免费的，申请人必须解决几个难题并写一封激励信才能申请。这些激励信既温暖人心，又令人心碎。我最喜欢的一个学生是物理专业的，她想在欧洲粒子物理研究所工作，她觉得扎实的编程技能会帮助她成为一名更好的科学家。
 
-<center>![Going through the applications for the course](../Images/2e698e9d4f8d72dcf6891df13d33dc45.png)
+<center>![Going through the applications for the course](img/2e698e9d4f8d72dcf6891df13d33dc45.png)
 *Going through the applications for the course*</center>
 
 我们挑选了 28 名女性和 2 名男性和我们一起开始研究。我们有 4 个导师(其中 3 个是第一次导师)，学生们会阅读课程材料，解决一周的作业，在线提问，然后我们会在每个周日在另一家公司提供的空间见面，该公司立即同意帮助我们， [Beetroot](https://beetroot.se/) ，花 3 个小时离线学习，然后筋疲力尽但高兴地回家。
 
-<center>![Our CS course group](../Images/f5711aa80c89bf1f67332bfe7c5e6451.png)
+<center>![Our CS course group](img/f5711aa80c89bf1f67332bfe7c5e6451.png)
 *What women do on Sundays at 10am? Study Computer Science, what else would you think?*</center>
 
 28 个人到达了终点线。我可以说，其中 12 人很好地理解了课程，但我们无论如何没有一个目标来教每个人如何成为一名程序员:有人想尝试一下，看看它是否有效，有人在他们目前的职位上需要基本的编程技能，有人确实改变了他们的职业生涯，并在 it 领域找到了一份新工作。
 
-<center>![A celebratory cake](../Images/be041bb51255c580556f9937ddab30ac.png)
+<center>![A celebratory cake](img/be041bb51255c580556f9937ddab30ac.png)
 *A celebratory cake*</center>
 
 对我们这些导师来说，最重要的成果之一就是我们所有人都成为了更好的教练。一个好的领导者必须是一个教练，所以这对我们现有的 IT 职业生涯很有帮助。

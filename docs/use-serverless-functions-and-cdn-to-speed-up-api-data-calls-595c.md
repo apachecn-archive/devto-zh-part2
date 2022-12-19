@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/azure/use-serverless-functions-and-cdn-to-speed-up-api-data-calls-595c>
 
-[![Use serverless functions and CDN to speed up API data calls](../Images/120f86ae30f2702330006e31edaeeb37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LMVNC0a4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/content/images/2018/07/pablo--3-.png)
+[![Use serverless functions and CDN to speed up API data calls](img/120f86ae30f2702330006e31edaeeb37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LMVNC0a4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/conteimg/2018/07/pablo--3-.png)
 
 ASP.NET 核心 2.1 增加了一些伟大的功能，使外部 API 调用更容易管理时，有网络故障，或服务本身可能会关闭。Scott Hanselman [有一系列很棒的帖子](https://www.hanselman.com/blog/HttpClientFactoryForTypedHttpClientInstancesInASPNETCore21.aspx)，他更新了这些帖子来利用这些特性。
 
@@ -45,7 +45,7 @@ HttpClientFactory 和 Polly 结合起来可以解决大部分或所有这些情�
 
 几个设置，以确保缓存是唯一的应用程序正在拉的数据。对于我的应用程序，我将 CDN 设置为缓存每个唯一的 URL。
 
-[![Use serverless functions and CDN to speed up API data calls](../Images/e88e507089b88266a9b06372ff75e170.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r5JGLCoa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/content/images/2018/07/Screen-Shot-2018-07-05-at-5.16.45-PM.png)
+[![Use serverless functions and CDN to speed up API data calls](img/e88e507089b88266a9b06372ff75e170.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r5JGLCoa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/conteimg/2018/07/Screen-Shot-2018-07-05-at-5.16.45-PM.png)
 
 查看更多关于缓存及其工作原理的。另一个优势是 [Azure CDN 默认情况下也支持 HTTP/2](https://docs.microsoft.com/azure/cdn/cdn-http2?WT.mc_id=none-devto-shboyer) ，无需配置，这是免费的另一个优势。
 
@@ -108,11 +108,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 每 2 分钟触发一次事件，并在存储容器中创建一个文件。使用 [Azure Storage Explorer](https://azure.microsoft.com/features/storage-explorer/?WT.mc_id=none-devto-shboyer) ，我可以看到文件的细节。
 
-[![Use serverless functions and CDN to speed up API data calls](../Images/a419c5ff1f3abe5f207b5857b7163380.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AvmDvamq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/content/images/2018/07/Screen-Shot-2018-07-05-at-5.44.07-PM.png)
+[![Use serverless functions and CDN to speed up API data calls](img/a419c5ff1f3abe5f207b5857b7163380.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AvmDvamq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/conteimg/2018/07/Screen-Shot-2018-07-05-at-5.44.07-PM.png)
 
 使用浏览器中的 CDN 端点获取数据。第一次 GET 是 **50ms** ，每增加一次 **GET** 是 **~7ms** 。
 
-[![Use serverless functions and CDN to speed up API data calls](../Images/1dc9b6c0c6c81f3cd8538d4aa0dbe3e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_TlY795p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/content/images/2018/07/Screen-Shot-2018-07-05-at-5.47.25-PM.png)
+[![Use serverless functions and CDN to speed up API data calls](img/1dc9b6c0c6c81f3cd8538d4aa0dbe3e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_TlY795p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://tattoocoder.com/conteimg/2018/07/Screen-Shot-2018-07-05-at-5.47.25-PM.png)
 
 *   [下载存储浏览器](https://azure.microsoft.com/features/storage-explorer/?WT.mc_id=none-devto-shboyer)浏览您的资产。
 

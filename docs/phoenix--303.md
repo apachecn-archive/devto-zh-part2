@@ -14,7 +14,7 @@
 
 看看这些响应时间。亚毫秒！？！？！
 
-[![](../Images/18c275061369e7b94b26d243ed39e388.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rfGx1VTI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tilde.zone/photos/phx.png)
+[![](img/18c275061369e7b94b26d243ed39e388.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rfGx1VTI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tilde.zone/photos/phx.png)
 
 看一看，如果你想出去玩，就加入 tilde.team ！
 

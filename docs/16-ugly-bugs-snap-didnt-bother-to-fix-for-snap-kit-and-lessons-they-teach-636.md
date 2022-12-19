@@ -3,8 +3,8 @@
 > 原文：<https://dev.to/bbookman/16-ugly-bugs-snap-didnt-bother-to-fix-for-snap-kit-and-lessons-they-teach-636>
 
 [原件出现在介质上](https://medium.com/adventures-in-ios-mobile-app-development/16-ugly-bugs-snap-didnt-bother-to-fix-for-snap-kit-and-lessons-they-teach-4dd6c1aa567)
-[![](../Images/21f644160ef374de4b4ad6c41c9aad01.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dLcqGtPC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/0%2A-xvbtrI9d5aRFYR4.png)
-[![](../Images/fd86b7f5cbe3365fe8ca7860caf6b473.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Yott-GMi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/0%2AI33vVGAVcpNuyCVF.jpg)
+[![](img/21f644160ef374de4b4ad6c41c9aad01.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dLcqGtPC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/0%2A-xvbtrI9d5aRFYR4.png)
+[![](img/fd86b7f5cbe3365fe8ca7860caf6b473.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Yott-GMi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/0%2AI33vVGAVcpNuyCVF.jpg)
 
 ## Snap 有许多业务问题，包括 Snap Kit SDK 的糟糕推出
 
@@ -25,7 +25,7 @@ Snap Kit SDK 是 Snap 变粘的尝试。
 ## 商业课程
 
 对于每一个 bug，我都添加了关于改进软件发布的商业方法的建议
-[![](../Images/45fd8b575b40c70a8bb4c102fb68bfef.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ooBro9ie--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/0%2A6i1aTGVmYQm7Mcgs.jpg)
+[![](img/45fd8b575b40c70a8bb4c102fb68bfef.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ooBro9ie--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/0%2A6i1aTGVmYQm7Mcgs.jpg)
 
 # 疯狂的
 
@@ -56,7 +56,7 @@ Snap Kit SDK 是 Snap 变粘的尝试。
 
 当介绍当前产品之外的产品时，回顾所有客户参与向量。适当配备人员。从一开始就包括质量保证和技术支持(包括所有利益相关者)
 
-[![](../Images/003da10788fb248d62bcd1d9a77668b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RFNyD5wl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/0%2A4cskYBastNPTg8De.jpg)
+[![](img/003da10788fb248d62bcd1d9a77668b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RFNyD5wl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/0%2A4cskYBastNPTg8De.jpg)
 
 ## 2 —将 Snap Kit SDK 支持选项添加到“我需要帮助”中
 
@@ -91,7 +91,7 @@ Snap Kit SDK 是 Snap 变粘的尝试。
 
 与错误#1 相同。任何产品的发布都不仅仅是产品。这不仅仅是一个声明。产品发布团队必须是全方位的，并且代表公司中有客户接触点的每一个部分，或者是利益相关者
 
-[![](../Images/4821417ab992b505165f9d0f3d687f90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9q6UwoqR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/0%2A35rDznurqWcluDNq.png)
+[![](img/4821417ab992b505165f9d0f3d687f90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9q6UwoqR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/0%2A35rDznurqWcluDNq.png)
 
 ## Twitter 上的 Snapchat 支持不提供 SDK 支持
 
@@ -132,7 +132,7 @@ Snap Kit SDK 是 Snap 变粘的尝试。
 在
 发布之前，利益相关方应对每个客户接触点拥有签准权
 
-[![](../Images/88147bcb29d7b24b3cfc99617c2b3879.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G_PPt-xh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/0%2AI_OIaePwnPZ2k41X.jpg)
+[![](img/88147bcb29d7b24b3cfc99617c2b3879.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G_PPt-xh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/0%2AI_OIaePwnPZ2k41X.jpg)
 
 ## Creative Kit 文档中的代码示例错误
 
@@ -162,7 +162,7 @@ SDK 本身存在一个更大的问题。命名不一致——参见
 
 还有，吃你自己的狗粮！
 
-[![](../Images/44ecd768d0cf7fb4a678cef7aa2bbfd3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uRPVgXxu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/0%2A9zjf-1Su1udkgWJa.jpg)
+[![](img/44ecd768d0cf7fb4a678cef7aa2bbfd3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uRPVgXxu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/0%2A9zjf-1Su1udkgWJa.jpg)
 
 ## 5-命名与创意套件不一致
 
@@ -196,7 +196,7 @@ Creative Kit 中的这些方法对重复了相同的问题:
 
 进行多次代码评审，让组织中的人以全新的视角参与进来
 
-[![](../Images/7beb7d790106199b241aa38b254b42c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8oFjnN7G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/0%2A0P_WzVsrzHwHjYKG.jpg)
+[![](img/7beb7d790106199b241aa38b254b42c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8oFjnN7G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/0%2A0P_WzVsrzHwHjYKG.jpg)
 
 ## 6-登录范围信息放错了位置
 
@@ -222,7 +222,7 @@ Creative Kit 中的这些方法对重复了相同的问题:
 
 测试文档。运行“吃你自己的狗粮”测试会话。
 
-[![](../Images/1c1bf362f2ad5d4a59ce29bca4d0fa89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5NuXknB3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/0%2AAVKd7RXnfSCUKcyK.jpg)
+[![](img/1c1bf362f2ad5d4a59ce29bca4d0fa89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5NuXknB3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/0%2AAVKd7RXnfSCUKcyK.jpg)
 
 ## 7-嵌入式二进制文件可以被替换或扩充，以包括
 
@@ -251,7 +251,7 @@ Creative Kit 中的这些方法对重复了相同的问题:
 (例如发布一个 cocoapod)其他有客户接触的人可以行动起来并审查
 面向客户的资产。
 
-[![](../Images/10ee2d74ddaa4f543902d00b6db96f7c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KFr1onWE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/0%2A_OSPtTa9JlCDDYAi.jpg)
+[![](img/10ee2d74ddaa4f543902d00b6db96f7c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KFr1onWE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/0%2A_OSPtTa9JlCDDYAi.jpg)
 
 ## 8-Snap Kit SDK 命名
 
@@ -275,13 +275,13 @@ Creative Kit 中的这些方法对重复了相同的问题:
 
 运行命名搜索
 
-[![](../Images/6813bb231ef03c99cbb3d1d63e0e6dbd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--80rzTb4r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/0%2ATdEUjfYdsF1JEb2t.jpg)
+[![](img/6813bb231ef03c99cbb3d1d63e0e6dbd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--80rzTb4r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/0%2ATdEUjfYdsF1JEb2t.jpg)
 
 ## 9-开发人员门户的用户界面令人困惑
 
 1.  用用户 id 和密码在[http://kit.snapchat.com](http://kit.snapchat.com/)登录
 
-[![](../Images/3029ddb9e686ebb211b3544df25dafea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--98iLPJZ5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/0%2AEk7Kh-GhwZuWxVXg.png)
+[![](img/3029ddb9e686ebb211b3544df25dafea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--98iLPJZ5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/0%2AEk7Kh-GhwZuWxVXg.png)
 
 这个用户界面并不能清楚地理解有两个不同的区域。上图最能说明问题。不太清楚
 这里有两段。它们之间没有界限，右侧的标题
@@ -302,7 +302,7 @@ Creative Kit 中的这些方法对重复了相同的问题:
 是的，考虑任何面向客户的东西——比如开发门户——都是产品的**部分
 ！**
 
-[![](../Images/989ed0968c3aa15ee8018adabd546afd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oUFyJ9G2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/0%2AGvPd0vyVc79b7vLQ.jpg)
+[![](img/989ed0968c3aa15ee8018adabd546afd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oUFyJ9G2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/0%2AGvPd0vyVc79b7vLQ.jpg)
 
 ## 10-取消会话链接方法不包括抛出的错误
 
@@ -325,7 +325,7 @@ Creative Kit 中的这些方法对重复了相同的问题:
 仔细考虑产品的用例。想通可能失败的
 点。
 
-[![](../Images/f9e7e995a7a790fcb38eea63c88cdf63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sQ3_jVYV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2AGMVgcavj4mdFRxMwF4kqWw.jpeg)
+[![](img/f9e7e995a7a790fcb38eea63c88cdf63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sQ3_jVYV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2AGMVgcavj4mdFRxMwF4kqWw.jpeg)
 
 ## 11-Snap Kit Twitter 帐户不活跃，也不为开发者提供信息
 
@@ -351,7 +351,7 @@ Creative Kit 中的这些方法对重复了相同的问题:
 
 与 bug #7 和其他问题一样，必须有一个内聚的发布策略，该策略包括产品的所有方面及其向市场的交付。应咨询可能拥有面向客户资产的所有部门
 
-[![](../Images/a6667e68a460f6674b14b1a49f9161d0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K68yfm3o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2AXrfkf3IP0RDMI3wVlYaSCQ.jpeg)
+[![](img/a6667e68a460f6674b14b1a49f9161d0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K68yfm3o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2AXrfkf3IP0RDMI3wVlYaSCQ.jpeg)
 
 ## 12—iOS 第一段的 API 参考似乎已过时
 
@@ -374,7 +374,7 @@ Creative Kit 中的这些方法对重复了相同的问题:
 
 测试文档。
 
-[![](../Images/c30e7ad13c1443a2996a34c8172d1af1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sAqKihkQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2ApDrmvNLp72HkYT9KhumJ1g.jpeg)
+[![](img/c30e7ad13c1443a2996a34c8172d1af1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sAqKihkQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2ApDrmvNLp72HkYT9KhumJ1g.jpeg)
 
 ## 13-快照套件支持样板文件没有帮助
 
@@ -417,7 +417,7 @@ Creative Kit 中的这些方法对重复了相同的问题:
 在发布前浏览模拟客户体验。测试客户
 工作流程。
 
-[![](../Images/04b03a82467da8bad4e0980a59b810d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OXQ8XihA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2ALXboWKmfr0857092m2rEWg.png)
+[![](img/04b03a82467da8bad4e0980a59b810d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OXQ8XihA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2ALXboWKmfr0857092m2rEWg.png)
 
 ## 14-缺少示例代码
 
@@ -439,7 +439,7 @@ Creative Kit 中的这些方法对重复了相同的问题:
 过度支持你的目标客户，而不是支持不足。当产品是新产品并且是公司战略的重要组成部分时，这一点就更加重要了。显然，Snap Kit 是 Snap 在
 市场行动的关键部分
 
-[![](../Images/3ddf748705ef43b96b6dbe55ba7250f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hc-AyoHn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2A4xzADAmZ6Xuam0ir2l1uHQ.jpeg)
+[![](img/3ddf748705ef43b96b6dbe55ba7250f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hc-AyoHn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2A4xzADAmZ6Xuam0ir2l1uHQ.jpeg)
 
 ## 15 —快照套件支持(更多)样板文件没有帮助
 

@@ -10,7 +10,7 @@
 
 ## 约翰·亚历山大
 
-[![John Alexander, Sr. Content Developer at Microsoft](../Images/bc3bcfe8e2caf613f0b8dfb81bf07d42.png "ja")](https://res.cloudinary.com/practicaldev/image/fetch/s--S7ZqnneD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/ja.jpg%3Fsfvrsn%3Dbc7a097c_1) 
+[![John Alexander, Sr. Content Developer at Microsoft](img/bc3bcfe8e2caf613f0b8dfb81bf07d42.png "ja")](https://res.cloudinary.com/practicaldev/image/fetch/s--S7ZqnneD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/ja.jpg%3Fsfvrsn%3Dbc7a097c_1) 
 
 [【约翰·亚历山大】](https://twitter.com/JohnAlexander)是一位以客户为中心、专注于 UX 的软件架构和开发思想领袖，著名的微软地区总监、顾问、培训师、出版作者和演讲者。
 

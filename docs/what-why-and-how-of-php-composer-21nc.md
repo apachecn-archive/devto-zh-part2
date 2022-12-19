@@ -28,7 +28,7 @@
 
 ### 依赖关系管理
 
-[![Dependency Management](../Images/a88e79b9d4e8bbab44e34f8cd44e73f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dbAgbEnt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/hji5jgwp0cexdgv5p1e7.png)
+[![Dependency Management](img/a88e79b9d4e8bbab44e34f8cd44e73f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dbAgbEnt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/hji5jgwp0cexdgv5p1e7.png)
 
 当您使用框架处理一个新项目时，您依赖于它的更新。当他们发布包含错误修复和新特性的新版本时，出于安全、性能和其他原因，您应该保持框架更新。
 
@@ -36,7 +36,7 @@
 
 ### 项目目录大小
 
-[![Project directory size](../Images/f6e39effd4a8ddb0b712aa38b89ab84e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OFQl09nd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/9q0pj4ofo41xtfqw31v8.png)
+[![Project directory size](img/f6e39effd4a8ddb0b712aa38b89ab84e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OFQl09nd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/9q0pj4ofo41xtfqw31v8.png)
 
 在 composer 出现之前，项目目录的大小曾经非常大。我们将携带我们的项目所依赖的所有库，并通过 u 盘或污染 VCS (git)历史来传递项目。
 
@@ -58,7 +58,7 @@
 
 ### 冗长的安装程序
 
-[![Lengthy Installation procedures](../Images/29462a3943b029f0a64cbd4f825dbc53.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Re2rrVeh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/f0nph5equt1mjrcf4pu4.png)
+[![Lengthy Installation procedures](img/29462a3943b029f0a64cbd4f825dbc53.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Re2rrVeh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/f0nph5equt1mjrcf4pu4.png)
 
 通常，在下载库进行设置和安装后，需要遵循一个或多个步骤。软件包维护人员必须在文档中编写详细的安装过程，并且在用户不遵循这些过程并抱怨错误时仍然要回答支持查询。作曲家的剧本对他们来说是一个福音。
 
@@ -83,7 +83,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 维护一个库/包
 
-[![Maintaining a library package](../Images/f3bfb1f6e2d2326d8215d32bb1189375.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZOzt6ftQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/8dhurgoixvmwntcte225.png)
+[![Maintaining a library package](img/f3bfb1f6e2d2326d8215d32bb1189375.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZOzt6ftQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/8dhurgoixvmwntcte225.png)
 
 每当有重要的更新时，包的维护者要么为包的每个版本维护不同的目录，要么通过 GitHub 发布新的版本。由于 Composer 与 VCS 标记和分支的完美集成，我们只需要在提交和推送中添加一个标记。剩下的都搞定了。
 
@@ -128,7 +128,7 @@ Laravel 本身使用了很多有用的开源包，如 PHPUnit、Monolog、 [Carb
 
 ### 作曲家的缓慢
 
-[![Slowness of Composer](../Images/47c186c1a034472f4396b7f724f94d14.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MBwrOw8I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/3m5tzwvuq1vd2rahdn3h.png)
+[![Slowness of Composer](img/47c186c1a034472f4396b7f724f94d14.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MBwrOw8I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/3m5tzwvuq1vd2rahdn3h.png)
 
 我经历过 composer 缓慢的安装和更新。不知道后台发生了什么，我只是一直盯着屏幕，等待它完成，然后才能采取下一步行动。
 

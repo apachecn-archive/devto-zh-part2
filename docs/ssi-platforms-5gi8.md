@@ -8,7 +8,7 @@
 
 许多人认为，自我主权认同可以解决这些问题。SSI 系统背后的核心原则是让最终用户完全控制他们的身份数据，并允许普通人在没有第三方参与的情况下进行数字签名和验证索赔/交易。
 
-[![Principles of self-sovereign identity systems](../Images/b2c1b16995ce9b3d22183b3f14ff9ef3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jYO9c_QT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://perfectial.com/wp-content/uploads/2018/10/Principles-of-self-sovereign-identity-systems.jpg)
+[![Principles of self-sovereign identity systems](img/b2c1b16995ce9b3d22183b3f14ff9ef3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jYO9c_QT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://perfectial.com/wp-content/uploads/2018/10/Principles-of-self-sovereign-identity-systems.jpg)
 
 ## 自我主权身份系统的原则
 

@@ -65,7 +65,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这一层只是接收数据并返回一个数组。
 
-[![](../Images/8c2f0b1cb738a92d447b4de1d3ca7363.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bqWHRIwh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/au60qh8hc2afux49sx62.jpg)
+[![](img/8c2f0b1cb738a92d447b4de1d3ca7363.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bqWHRIwh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/au60qh8hc2afux49sx62.jpg)
 
 它的优点是:
 

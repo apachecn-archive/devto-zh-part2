@@ -44,7 +44,7 @@ mvn clean compile com.google.cloud.tools:jib-maven-plugin:0.9.7:dockerBuild
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/4ad0a1f0c847e0f80457d086a5d26d28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OI59gbDw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kq63q7k5u29euwsyi0tq.gif)
+[![](img/4ad0a1f0c847e0f80457d086a5d26d28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OI59gbDw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kq63q7k5u29euwsyi0tq.gif)
 
 你可以用
 来旋转它
@@ -63,7 +63,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在您的 Maven 的`settings.xml`(通常在`<HOME>/.m2/settings.xml`中找到)中，为 Docker Hub 注册表定义一个服务器块，其中包括您的 Docker 用户名和密码:
 
-[![](../Images/06103ec5426859c215fdb5465f7b6592.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--absj0wv5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sbvbmx2yypsdxr93yqh9.png)
+[![](img/06103ec5426859c215fdb5465f7b6592.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--absj0wv5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sbvbmx2yypsdxr93yqh9.png)
 
 用明文设置密码从来都不是一个好主意，当然也不是我们希望在代码库中出现的东西。在下面的“启用 CircleCI 部署”一节中，我们将设置 Maven 加密。
 
@@ -77,11 +77,11 @@ mvn clean compile com.google.cloud.tools:jib-maven-plugin:0.9.7:build -Dimage=ed
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/5957f8ce565b9e2c10b68694f5475d81.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IQT32aIm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sai5pp7s86jdwbe8sweh.gif)
+[![](img/5957f8ce565b9e2c10b68694f5475d81.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IQT32aIm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sai5pp7s86jdwbe8sweh.gif)
 
 一旦构建完成，你会发现一个全新的形象坐在你的注册表中。
 
-[![](../Images/69d0d516fa0fbb082e960877b915c853.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QKTwUsGT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e7qdnormw0inkgv7rlw6.png)
+[![](img/69d0d516fa0fbb082e960877b915c853.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QKTwUsGT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e7qdnormw0inkgv7rlw6.png)
 
 ## 配置吊臂
 
@@ -89,15 +89,15 @@ Enter fullscreen mode Exit fullscreen mode
 
 为了让我们的版本控制保持一定的纪律性，我们不能发布每个带有默认“最新”标签的图像。使用配置中的`<to>`元素，我们可以完全指定位置和标记。
 
-[![](../Images/553c1ed55ac611c17bd93963596b0f6d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eMsGIGyT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q0v457emjw7grhodbzyl.png)
+[![](img/553c1ed55ac611c17bd93963596b0f6d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eMsGIGyT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q0v457emjw7grhodbzyl.png)
 
 属性`build.number`是我们将传入的与 CircleCI 构建标识符相关的内容。添加一个默认值以保持本地开发的简单性，即`000`。
 
-[![](../Images/ee1043ff8eb65bc52245ff9ec7485531.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4vL_tNnu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/btt23ziaeczfqoethyxi.png)
+[![](img/ee1043ff8eb65bc52245ff9ec7485531.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4vL_tNnu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/btt23ziaeczfqoethyxi.png)
 
 您将注意到其他几个属性，包括提交散列和工作流 ID。这些只是每个 CircleCI 作业可用的几个[环境变量。我们将把它们作为附加属性，传递到应用程序中，以显示正在运行的应用程序的重要构建信息。为了在 JVM 中设置这些值，我们将使用另一个配置块`<jvmFlags>`。](https://circleci.com/docs/2.0/env-vars/#built-in-environment-variables)
 
-[![](../Images/b406a712bd967c6a8614fcd2bf7551e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DVk5YYmx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sn2d4y9frqo89onihpzj.png)
+[![](img/b406a712bd967c6a8614fcd2bf7551e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DVk5YYmx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sn2d4y9frqo89onihpzj.png)
 
 您可以在项目页面上找到其他配置参数。
 
@@ -105,7 +105,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，访问[http://localhost:8080/build-info](http://localhost:8080/build-info)，您将看到演示应用程序如何公开我们传入的附加 JVM 标志。
 
-[![](../Images/6584cbfa606ecb8c633031b83d53cf42.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EJ0XMFH5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nfxnubrqisowvjgmfc7d.png)
+[![](img/6584cbfa606ecb8c633031b83d53cf42.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EJ0XMFH5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nfxnubrqisowvjgmfc7d.png)
 
 让我们使用 CircleCI 来为可重复和确定性的构建自动化这个过程，实现端到端的可追溯性。
 
@@ -125,7 +125,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 将结果保存在 Maven 主目录下名为 settings-security.xml 的文件中，即`~/.m2/settings-security.xml`。
 
-[![](../Images/4d8262f7e3e0e953d730464608b99e14.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aV_kkm2g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4dbbhonlzuo9bb25qzyv.png)
+[![](img/4d8262f7e3e0e953d730464608b99e14.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aV_kkm2g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4dbbhonlzuo9bb25qzyv.png)
 
 加密您的 Docker 注册表密码:
 
@@ -139,7 +139,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 用生成的密码更新 settings.xml:
 
-[![](../Images/5e22abcee2a0f551077726ecb946a495.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EKzew0tV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y8qe7ga39xxchicqw3wr.png)
+[![](img/5e22abcee2a0f551077726ecb946a495.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EKzew0tV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y8qe7ga39xxchicqw3wr.png)
 
 此时你可以运行
 
@@ -161,11 +161,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 准备好`settings.xml`文件后，提交您的最新变更并将其推送到您的存储库中。CircleCI 应该开始建立并成功发布您的 Docker 图像。
 
-[![](../Images/c5fd71ba662b437197343565ea822f43.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j-rFRuKH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f93qdkblhrbk4ec5smp9.png)
+[![](img/c5fd71ba662b437197343565ea822f43.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j-rFRuKH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f93qdkblhrbk4ec5smp9.png)
 
 一旦发布，如果您运行我们新生成的图像，您将看到我们从 CircleCI 的构建环境中传递的所有值，这些值显示在`/build-info` url 上，为您的应用提供了端到端的可追溯性！
 
-[![](../Images/e03b2ee44f7e9339e915205335fa42e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NKUzYXMF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8yr3wda1x8i26nprcbku.png)
+[![](img/e03b2ee44f7e9339e915205335fa42e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NKUzYXMF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8yr3wda1x8i26nprcbku.png)
 
 如果您想将 CircleCI 工作流提升到一个新的水平，并开始将您的容器化应用程序部署到 ECS 或 Kubernetes，请务必查看我们系列的下一篇博客文章，并观看我们之前录制的与我们的解决方案工程师 Chris Black-[Docker Deployments 102](https://www.youtube.com/watch?v=eZxKs1mrxTM)的网络研讨会。
 

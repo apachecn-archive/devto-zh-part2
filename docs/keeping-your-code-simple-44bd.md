@@ -10,7 +10,7 @@
 
 几周前，我在推特上发布了这个算法:
 
-> ![unknown tweet media content](../Images/a5ec8964dac461ba2a99fd09c4e8b943.png)![Tiffany White 🤨⚛️ profile image](../Images/ba8473ec4b7f70675217ae7326387495.png)蒂芙尼白🤨⚛️@ tiffanyw _ 412![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)这里需要一点帮助吗？通常我在的空闲频道现在都已经睡着了。😏2018 年 6 月 25 日上午 02:36[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1011075530022621184)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1011075530022621184)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1011075530022621184)
+> ![unknown tweet media content](img/a5ec8964dac461ba2a99fd09c4e8b943.png)![Tiffany White 🤨⚛️ profile image](img/ba8473ec4b7f70675217ae7326387495.png)蒂芙尼白🤨⚛️@ tiffanyw _ 412![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)这里需要一点帮助吗？通常我在的空闲频道现在都已经睡着了。😏2018 年 6 月 25 日上午 02:36[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1011075530022621184)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1011075530022621184)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1011075530022621184)
 
 清洁双衬里。不错吧。
 

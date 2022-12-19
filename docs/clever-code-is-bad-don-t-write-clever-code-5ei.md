@@ -12,7 +12,7 @@
 
 聪明的代码是这样的代码，当你读它的时候，你的表情是这样的:
 
-<figure>[![Obama looking confused](../Images/9b04a85b8bcb9f06a5596f5ebbcf32cc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8o-09x3w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/guifroes.com/wp-content/uploads/2018/09/confused-obama.jpg%3Ffit%3D300%252C225%26ssl%3D1) 
+<figure>[![Obama looking confused](img/9b04a85b8bcb9f06a5596f5ebbcf32cc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8o-09x3w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/guifroes.com/wp-content/uploads/2018/09/confused-obama.jpg%3Ffit%3D300%252C225%26ssl%3D1) 
 
 <figcaption>*“有意思..”*</figcaption>
 
@@ -20,7 +20,7 @@
 
 或者像这样:
 
-<figure>[![Will Smith looking confused](../Images/62da1aedeb2c090eb882372a0b9bb0fb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tguJTjHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/guifroes.com/wp-content/uploads/2018/09/will-smith-is-confused.jpg%3Ffit%3D640%252C387%26ssl%3D1) 
+<figure>[![Will Smith looking confused](img/62da1aedeb2c090eb882372a0b9bb0fb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tguJTjHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/guifroes.com/wp-content/uploads/2018/09/will-smith-is-confused.jpg%3Ffit%3D640%252C387%26ssl%3D1) 
 
 <figcaption>*“哦！我明白了..”*</figcaption>
 
@@ -28,7 +28,7 @@
 
 或者像这样:
 
-<figure>[![Mark Ruffalo is confused](../Images/07ae5ef80687639ca38633ee9d3e4c96.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZUw819rQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/guifroes.com/wp-content/uploads/2018/09/mark-ruffalo_1646329c.jpg%3Ffit%3D460%252C288%26ssl%3D1) 
+<figure>[![Mark Ruffalo is confused](img/07ae5ef80687639ca38633ee9d3e4c96.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZUw819rQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/guifroes.com/wp-content/uploads/2018/09/mark-ruffalo_1646329c.jpg%3Ffit%3D460%252C288%26ssl%3D1) 
 
 <figcaption>*【日轻】。”*</figcaption>
 
@@ -46,7 +46,7 @@ return i > 0 ? i << 2 : ~(i << 2) + 1;
 
 也可能是超设计的一组抽象的类，以至于你花了一个小时浏览继承层次结构，仍然不知道发生了什么。
 
-<figure>[![](../Images/944d9c91214677f1c3a807cba6d46d84.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--w-EAvnMv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/guifroes.com/wp-content/uploads/2018/09/tumblr_o16n2kBlpX1ta3qyvo1_1280.jpg%3Fresize%3D1024%252C768%26ssl%3D1) 
+<figure>[![](img/944d9c91214677f1c3a807cba6d46d84.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--w-EAvnMv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/guifroes.com/wp-content/uploads/2018/09/tumblr_o16n2kBlpX1ta3qyvo1_1280.jpg%3Fresize%3D1024%252C768%26ssl%3D1) 
 
 <figcaption>*“看到了吗？就这么简单！”*</figcaption>
 
@@ -58,7 +58,7 @@ return i > 0 ? i << 2 : ~(i << 2) + 1;
 
 我们不为自己写代码，我们为他人写代码(而他人可能是未来的你)！
 
-> ![Programming Wisdom profile image](../Images/c0e04370043baff7812aa9d1c701cd8f.png)编程智慧[@ code Wisdom](https://dev.to/codewisdom)![twitter logo](../Images/65e26e35707d96169ec8af6b3cbf2003.png)“任何傻瓜都能写出计算机能理解的代码。优秀的程序员会写出人类能理解的代码。”——马丁·福勒2018 年 06 月 12:37 分[![Twitter reply action](../Images/e5d6036ea29f7fc2ceecadd7806ec22d.png)](https://twitter.com/intent/tweet?in_reply_to=1004341385808539649)[![Twitter retweet action](../Images/045a8cb35300a0b869b6787434707687.png)](https://twitter.com/intent/retweet?tweet_id=1004341385808539649)521[![Twitter like action](../Images/1bf915c7b46baf6310d9eb9b48e72a89.png)](https://twitter.com/intent/like?tweet_id=1004341385808539649)1468
+> ![Programming Wisdom profile image](img/c0e04370043baff7812aa9d1c701cd8f.png)编程智慧[@ code Wisdom](https://dev.to/codewisdom)![twitter logo](img/65e26e35707d96169ec8af6b3cbf2003.png)“任何傻瓜都能写出计算机能理解的代码。优秀的程序员会写出人类能理解的代码。”——马丁·福勒2018 年 06 月 12:37 分[![Twitter reply action](img/e5d6036ea29f7fc2ceecadd7806ec22d.png)](https://twitter.com/intent/tweet?in_reply_to=1004341385808539649)[![Twitter retweet action](img/045a8cb35300a0b869b6787434707687.png)](https://twitter.com/intent/retweet?tweet_id=1004341385808539649)521[![Twitter like action](img/1bf915c7b46baf6310d9eb9b48e72a89.png)](https://twitter.com/intent/like?tweet_id=1004341385808539649)1468
 
 聪明的代码是不好的，因为如果它不可理解，它就不可维护。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/llinaresvicent/from-linux-to-mac-os-x--2me7>
 
-[![alt text](../Images/b032b013fa68a8f691a361750762a29a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1GLLAlje--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jpz7znb4lp1eew4ly39j.jpg)
+[![alt text](img/b032b013fa68a8f691a361750762a29a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1GLLAlje--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jpz7znb4lp1eew4ly39j.jpg)
 
 大家好！
 

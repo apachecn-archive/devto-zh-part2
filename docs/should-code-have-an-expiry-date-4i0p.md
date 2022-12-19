@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/pedromsantos/should-code-have-an-expiry-date-4i0p>
 
-[![Expired](../Images/31c69e2225981c2c33c0637194a13017.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1KCKVK83--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rj9m6w4w3auilfuj2vc3.jpg)
+[![Expired](img/31c69e2225981c2c33c0637194a13017.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1KCKVK83--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rj9m6w4w3auilfuj2vc3.jpg)
 
 在与一位软件开发人员的交谈中，他说所有的代码都应该有一个截止日期。我必须说，我喜欢为我写的代码设置一个截止日期的想法。
 

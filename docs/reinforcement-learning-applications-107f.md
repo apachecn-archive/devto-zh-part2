@@ -12,7 +12,7 @@
 
 ## 监督学习、非监督学习和强化学习
 
-[![reinforcement-learning-applications](../Images/45c40b407b0f832f16ecc7e4d9ffe00e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bLXrKdiU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://perfectial.com/wp-content/uploads/2018/06/img1-7.jpg)
+[![reinforcement-learning-applications](img/45c40b407b0f832f16ecc7e4d9ffe00e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bLXrKdiU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://perfectial.com/wp-content/uploads/2018/06/img1-7.jpg)
 
 因此，在传统的**监督学习**、[中，根据我们最近的帖子](https://dev.to/galyna_chekan/machine-learning-in-finance-and-how-to-apply-them-16hh)，我们有输入/输出(x/y)对(例如标记的数据)，我们用它们来训练机器。知道了每个输入的结果，我们让算法确定一个映射 Xs- > Ys 的函数，并且每当模型出现预测/分类错误时，我们就不断地校正该模型(通过反向传播和抖动该函数)。)我们继续这种训练，直到算法产生的结果令人满意。
 

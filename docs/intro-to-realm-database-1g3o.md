@@ -11,15 +11,15 @@
 Realm 简化了您的应用程序架构，同时为您提供了非常强大的功能。Realm 平台实际上由两个主要组件组成。领域数据库和领域对象服务器。根据官方文档，这两个组件协同工作，自动同步数据，支持从离线应用到复杂后端集成的许多用例。我不打算在本文中讨论领域对象服务器，因此，你可以在这里阅读更多关于领域对象服务器的内容。
 
 Realm 如此特别的一个关键因素是，它是为我们的现代移动开发需求而构建的，我们使用的许多解决方案实际上并不是为手机、平板电脑或可穿戴设备设计的:
-[![Mountain View](../Images/03ca515bc979a00c6d06e58b73b0b9d9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qUt2QV4X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/3c9g5h7ou6jg/79erDXfQZ2qgCiKggQUcwm/2e4925499ac2c34155423681b630ec17/introducing-realm-timeline.png)
+[![Mountain View](img/03ca515bc979a00c6d06e58b73b0b9d9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qUt2QV4X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/3c9g5h7ou6jg/79erDXfQZ2qgCiKggQUcwm/2e4925499ac2c34155423681b630ec17/introducing-realm-timeline.png)
 
 很长一段时间以来，SQLite 一直是我们在移动设备上持久化的主要选择，即使它没有被直接使用，它也被许多提供方便包装的库使用，如 Couchbase Lite、Core Data、ORMLite 等。
 
 Realm 也以速度著称，根据文档，Realm 在普通操作上甚至比原始 SQLite 更快，同时保持了极其丰富的特性集。
 
-[![](../Images/d13bc86093921aadf60ff0fbe2e7216d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fSYs-dxA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hjq0d7c9pgtfko8m1gxq.png)
-[![](../Images/ed90990081e2afb10cdc6774d9772a71.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--T-Gkp1jw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jh5q87w8pfhdwulqc4s2.png)
-[![](../Images/a3be0403f464c61e6458f4d1d1a0fa73.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3-rP6z2q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pr1jrip58drv4z80yu4s.png)
+[![](img/d13bc86093921aadf60ff0fbe2e7216d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fSYs-dxA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hjq0d7c9pgtfko8m1gxq.png)
+[![](img/ed90990081e2afb10cdc6774d9772a71.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--T-Gkp1jw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jh5q87w8pfhdwulqc4s2.png)
+[![](img/a3be0403f464c61e6458f4d1d1a0fa73.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3-rP6z2q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pr1jrip58drv4z80yu4s.png)
 
 Realm 也很容易使用，下面是一些基本 Realm 事务的示例代码:
 
@@ -124,7 +124,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们有一个 Edittext 视图，用于将用户的姓名和年龄插入到数据库中。下面是一个添加按钮，将用户名和年龄插入数据库。还有一个*过滤器*按钮，用于查询特定用户的数据库。
 
-[![Mountain View](../Images/6815f29b760c7fbe77944dde476be3df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Buyj_dmb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4f4628hzq4hoi2p7v99m.png)
+[![Mountain View](img/6815f29b760c7fbe77944dde476be3df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Buyj_dmb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4f4628hzq4hoi2p7v99m.png)
 
 ### 第一步🔥
 
@@ -282,7 +282,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 你可以在这里找到上面示例应用的完整源代码:
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [李慕碧](https://github.com/LEMUBIT) / [ RealmExample](https://github.com/LEMUBIT/RealmExample)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [李慕碧](https://github.com/LEMUBIT) / [ RealmExample](https://github.com/LEMUBIT/RealmExample)
 
 ### 这是一个简单的项目，演示了如何使用 Realm 数据库进行 Android 开发。
 

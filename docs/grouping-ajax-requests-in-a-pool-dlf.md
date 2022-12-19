@@ -14,7 +14,7 @@
 
 为了实现第一种方法，我们可以让每个交互式小部件(React 容器)调用 componentDidMount 方法上的 POST /whatever。
 
-[![Problem.png](../Images/ff4f5eb57ca1569a7e9cd53839e1d2d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hV2aLYaQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://aralroca.files.wordpress.com/2018/09/problem.png)
+[![Problem.png](img/ff4f5eb57ca1569a7e9cd53839e1d2d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hV2aLYaQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://aralroca.files.wordpress.com/2018/09/problem.png)
 
 ***形象 1*** *。本例中是发布/评估*
 
@@ -28,7 +28,7 @@
 
 在本文中，我们的任务是通过将所有这些请求组合成一个，并删除重复的请求来缩短请求时间。
 
-[![clock.png](../Images/83b1a4c3e8e0b558887c7091e4387a31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yZpv2SYi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://aralroca.files.wordpress.com/2018/09/clock.png)
+[![clock.png](img/83b1a4c3e8e0b558887c7091e4387a31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yZpv2SYi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://aralroca.files.wordpress.com/2018/09/clock.png)
 
 ## 对组的请求类型
 
@@ -47,7 +47,7 @@
 
 componentDidMount 方法中的父容器执行这个 AJAX 调用(或者使用 Redux 操作来完成)。然后，这个父容器将结果分发给其子容器(或者，使用 Redux，每个子容器从存储中获取结果)。
 
-[![Container-Solution.png](../Images/4e5139bce9094cd8979a5aa84d15b53a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XlGB9esA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://aralroca.files.wordpress.com/2018/09/container-solution.png)
+[![Container-Solution.png](img/4e5139bce9094cd8979a5aa84d15b53a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XlGB9esA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://aralroca.files.wordpress.com/2018/09/container-solution.png)
 
 这样，我们将所有这些请求组合成一个，而不是同时发出 20 或 30 个请求。此外，在解析请求的承诺后，React 将同时为所有交互式小部件呈现新的 DOM。
 
@@ -55,23 +55,23 @@ componentDidMount 方法中的父容器执行这个 AJAX 调用(或者使用 Red
 
 在上面的例子中，我们只关心 componentDidMount 方法。然而，实际上，每个交互式小部件在配置中都可以有一个“interval”属性。这个小部件能够在每个“时间间隔”发送不同的请求。
 
-[![interval.gif](../Images/a2c84aa284d6427176d5daeb4b9ab6c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hg9k7RXV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://aralroca.files.wordpress.com/2018/09/interval1.gif)
+[![interval.gif](img/a2c84aa284d6427176d5daeb4b9ab6c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hg9k7RXV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://aralroca.files.wordpress.com/2018/09/interval1.gif)
 
 在这种情况下，我们很难将父容器中每个时钟周期发出的所有请求进行分组。然而，这是可能的。为了解决这个问题，我们可以用所有子区间的最大公约数在父容器中创建一个公共区间。这个全局时间间隔检查每个请求需要发出的节拍，以便对它们进行分组。另外，另一种方法是在父容器上创建不同的时间间隔，而不重复时间。
 
 顺便说一下，让我告诉你一些别的事情:一些交互式小部件可以被连接，并且“间隔”属性可以根据另一个小部件的输出而改变。
 
-[![interval2.gif](../Images/b85bf07fdb0c386d8b76d01dfb9b0759.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P5Qbbgm8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://aralroca.files.wordpress.com/2018/09/interval2.gif)
+[![interval2.gif](img/b85bf07fdb0c386d8b76d01dfb9b0759.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P5Qbbgm8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://aralroca.files.wordpress.com/2018/09/interval2.gif)
 
 更多麻烦...通过使用一个父容器，根据每个滴答来分组请求仍然不是不可能的，但是也许我们需要**重新考虑一个无痛的和更灵活的方法来实现这个**。
 
-[![kevin-ku-392517-unsplash.jpg](../Images/48f3c00feb980c1a5f80f68b9871789d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VgkpbyuI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://aralroca.files.wordpress.com/2018/09/kevin-ku-392517-unsplash.jpg)
+[![kevin-ku-392517-unsplash.jpg](img/48f3c00feb980c1a5f80f68b9871789d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VgkpbyuI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://aralroca.files.wordpress.com/2018/09/kevin-ku-392517-unsplash.jpg)
 
 ## 将 AJAX 请求分组到一个池中
 
 另一种不同的方法是，不在父容器中实现所有案例的所有逻辑，而是使用 AJAX 池直接将同一时间发出的所有请求组合成一个请求。
 
-[![AJAX-POOL.png](../Images/e2952cfbbb3e095a12be28dc35073bed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FlxQixzr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://aralroca.files.wordpress.com/2018/09/ajax-pool.png)
+[![AJAX-POOL.png](img/e2952cfbbb3e095a12be28dc35073bed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FlxQixzr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://aralroca.files.wordpress.com/2018/09/ajax-pool.png)
 
 该池在队列中添加所有要评估的在同一滴答中发出的事物。在下一个时钟周期，它将通过以 param 的形式发送所有队列来执行请求。
 
@@ -230,7 +230,7 @@ export default class AjaxPool {
 const pool = new AjaxPool(100);
 ```
 
-## ![ajax-pool.gif](../Images/909cfbcfd6f07e9c196566b1cf661ec9.png)
+## ![ajax-pool.gif](img/909cfbcfd6f07e9c196566b1cf661ec9.png)
 
 📕**代号**:T3】https://stackblitz.com/edit/ajax-pool
 
@@ -246,4 +246,4 @@ const pool = new AjaxPool(100);
 
 *   它并不总是最好的解决方案，只适用于特定类型的请求。
 
-[![matt-lamers-769327-unsplash.jpg](../Images/62ba01fe520b80869a05765eede438c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MoFer2rP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://aralroca.files.wordpress.com/2018/09/matt-lamers-769327-unsplash.jpg)
+[![matt-lamers-769327-unsplash.jpg](img/62ba01fe520b80869a05765eede438c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MoFer2rP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://aralroca.files.wordpress.com/2018/09/matt-lamers-769327-unsplash.jpg)

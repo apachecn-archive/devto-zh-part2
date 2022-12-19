@@ -4,7 +4,7 @@
 
 从[媒介](https://medium.com/spaceapetech/a-journey-to-better-deployments-a255eb69bbf2)交叉发帖，这是我为我的雇主博客[太空猿科技](https://medium.com/spaceapetech/)写的帖子
 
-[![](../Images/75ec1d0599d30aa49197ec155669c3d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b11LWaIf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AOuFo5e3J3oy_PATxAnWTHw.jpeg)
+[![](img/75ec1d0599d30aa49197ec155669c3d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b11LWaIf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AOuFo5e3J3oy_PATxAnWTHw.jpeg)
 
 在过去的一年里，我们一直在努力改进我们的部署流程。在那段时间里，我们构建了定制工具，并开始使用新的(和旧的)工具和实践。这篇文章将尝试概述我们为什么想要一个新的部署过程，我们如何着手实施它，以及我们现在有什么。
 
@@ -140,7 +140,7 @@ Chef 管理的服务器是可变的——它们会随着时间而变化。我们
 
 ### 应用程序接口
 
-[![](../Images/bbdfe6276fc7d310ae7a04bf1b8060f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4OHTYZ8K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/797/1%2AsGXFPkLnJnQ7eWCO4zRDAA.png)
+[![](img/bbdfe6276fc7d310ae7a04bf1b8060f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4OHTYZ8K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/797/1%2AsGXFPkLnJnQ7eWCO4zRDAA.png)
 
 API 现在已经成为将我们的部署结合在一起的粘合剂。它是所有部署相关活动的真实来源。
 

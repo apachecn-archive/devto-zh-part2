@@ -4,7 +4,7 @@
 
 web 上最简单的表单包含一个电子邮件字段和一个提交按钮。有时，电子邮件字段和提交按钮位于同一行，如下所示:
 
-[![Email and submit button on the same row](../Images/305d8069569c0707169ddb3be74b2b04.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wm1bMFZX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/simple-form-flexbox/form.png) 
+[![Email and submit button on the same row](img/305d8069569c0707169ddb3be74b2b04.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wm1bMFZX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/simple-form-flexbox/form.png) 
 
 <figure>
 
@@ -34,7 +34,7 @@ web 上最简单的表单包含一个电子邮件字段和一个提交按钮。�
 
 这是你写 HTML 时所拥有的东西(在为外观设计样式之后)。
 
-[![Input and Button elements are both inline-block elements](../Images/3d4cee454d455118e0529486d5cd8fe0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xuv69CFs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/simple-form-flexbox/before.png) 
+[![Input and Button elements are both inline-block elements](img/3d4cee454d455118e0529486d5cd8fe0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xuv69CFs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/simple-form-flexbox/before.png) 
 
 <figure>
 
@@ -56,7 +56,7 @@ form {
 
 将显示器设置为 flex 后，您会得到以下结果:
 
-[![Whitespace between elements disappeared we used Flexbox](../Images/0251a940c092f57167940a70338573ad.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hc0q9ply--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/simple-form-flexbox/flexboxed.png) 
+[![Whitespace between elements disappeared we used Flexbox](img/0251a940c092f57167940a70338573ad.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hc0q9ply--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/simple-form-flexbox/flexboxed.png) 
 
 <figure>
 
@@ -76,7 +76,7 @@ input {
 } 
 ```
 
-[![Email field grew to take up any available spaces](../Images/305d8069569c0707169ddb3be74b2b04.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wm1bMFZX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/simple-form-flexbox/form.png) 
+[![Email field grew to take up any available spaces](img/305d8069569c0707169ddb3be74b2b04.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wm1bMFZX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/simple-form-flexbox/form.png) 
 
 <figure>
 
@@ -99,7 +99,7 @@ input {
 </form> 
 ```
 
-[![Adding a smiley icon as the to the submit button](../Images/932d0d9e4d9057fe2801ba948d9e47e2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DwerTIlw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/simple-form-flexbox/smiley.png) 
+[![Adding a smiley icon as the to the submit button](img/932d0d9e4d9057fe2801ba948d9e47e2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DwerTIlw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/simple-form-flexbox/smiley.png) 
 
 <figure>
 
@@ -111,7 +111,7 @@ input {
 
 如果您想改变这种行为，您可以将`align-items`属性改为`flex-start`、`flex-end`或`center`。
 
-[![Items can be aligned differently if you set `align-itemns` to a different value](../Images/3c83d94939259316f9732b9f14f145bf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_hdvYN6N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/simple-form-flexbox/align-items.png) 
+[![Items can be aligned differently if you set `align-itemns` to a different value](img/3c83d94939259316f9732b9f14f145bf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_hdvYN6N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/simple-form-flexbox/align-items.png) 
 
 <figure>
 

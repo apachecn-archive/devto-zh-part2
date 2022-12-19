@@ -49,7 +49,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在我们已经设置好了，让我们看一下图像。
 
-[![Character sprite sheet](../Images/ee21d1b5dd26cb98d3d4bad0c77e9a8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gNVrp7Tw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://opengameart.org/sites/default/files/Green-Cap-Character-16x18.png)
+[![Character sprite sheet](img/ee21d1b5dd26cb98d3d4bad0c77e9a8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gNVrp7Tw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://opengameart.org/sites/default/files/Green-Cap-Character-16x18.png)
 
 每行代表一个动画周期。第一(顶)行是向下行走的角色，第二行是向上行走，第三行是向左行走，第四(底)行是向右行走。从技术上来说，左栏是一个站立的(没有动画)，而中间和右边的栏是动画帧。不过，我认为我们可以用这三个来制作更流畅的行走动画。😊
 

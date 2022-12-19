@@ -8,7 +8,7 @@
 
 今天，我要和大家分享这个项目的第一个模块。这是一个基于浏览器的控制台，用于运行和保存 SQL 查询。
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [顺天](https://github.com/sunchayn) / [小吃——控制台](https://github.com/sunchayn/snacks-console)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [顺天](https://github.com/sunchayn) / [小吃——控制台](https://github.com/sunchayn/snacks-console)
 
 ### 基于浏览器的直观 SQL 控制台，用于运行和保存 SQL 查询。
 
@@ -16,11 +16,11 @@
 
 ## mazentouati/小吃-控制台
 
-[![GitHub (pre-)release](../Images/c666e70a54b9e77c4399628fb1f21bc5.png)](https://github.com/mazentouati/snacks-console/releases/tag/0.1.0)[![Scrutinizer Code Quality](../Images/5fcd9e1b04d5400c6fbc47b610cbc5fa.png)](https://scrutinizer-ci.com/g/mazentouati/snacks-console/?branch=master)[![StyleCI](../Images/c22720b9a07bbc10db897055b3605df2.png)](https://styleci.io/repos/157928738)[![Software License](../Images/bef0dd78b2319f6aa43444906a81e982.png)T11】](https://github.com/sunchayn/snacks-console./LICENSE)
+[![GitHub (pre-)release](img/c666e70a54b9e77c4399628fb1f21bc5.png)](https://github.com/mazentouati/snacks-console/releases/tag/0.1.0)[![Scrutinizer Code Quality](img/5fcd9e1b04d5400c6fbc47b610cbc5fa.png)](https://scrutinizer-ci.com/g/mazentouati/snacks-console/?branch=master)[![StyleCI](img/c22720b9a07bbc10db897055b3605df2.png)](https://styleci.io/repos/157928738)[![Software License](img/bef0dd78b2319f6aa43444906a81e982.png)T11】](https://github.com/sunchayn/snacks-console./LICENSE)
 
 基于浏览器的直观 SQL 控制台，用于运行和保存 SQL 查询。
 
-[![demo](../Images/82206dfd5592a4452ea6d2bd9fbefb2a.png)T2】](https://camo.githubusercontent.com/b6fb795c3a0789c42befd7e23b7c23e43cef74da03ca989f196e8fb9d236a61e/68747470733a2f2f6d617a656e746f756174692e6769746875622e696f2f736e61636b73636f6e736f6c652f7075626c69632f7374617469632f73637265656e73686f74732f736e61636b73636f6e736f6c652e676966)
+[![demo](img/82206dfd5592a4452ea6d2bd9fbefb2a.png)T2】](https://camo.githubusercontent.com/b6fb795c3a0789c42befd7e23b7c23e43cef74da03ca989f196e8fb9d236a61e/68747470733a2f2f6d617a656e746f756174692e6769746875622e696f2f736e61636b73636f6e736f6c652f7075626c69632f7374617469632f73637265656e73686f74732f736e61636b73636f6e736f6c652e676966)
 
 ## 使用指南
 

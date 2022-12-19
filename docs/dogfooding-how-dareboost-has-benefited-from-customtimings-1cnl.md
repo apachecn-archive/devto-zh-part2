@@ -6,7 +6,7 @@
 
 <figure>
 
-[![The Dareboost web application](../Images/da34b13b8f1343aa1b5a5f41f2ad4404.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rk1C4C84--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x9ismb2g4utuprih6kq8.png)
+[![The Dareboost web application](img/da34b13b8f1343aa1b5a5f41f2ad4404.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rk1C4C84--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x9ismb2g4utuprih6kq8.png)
 
 <figcaption>The Dareboost web application</figcaption>
 
@@ -46,7 +46,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <figure>
 
-[![Erratic timings for the userinfo_xhr_stop mark](../Images/cb218a59314200ca48c9a30e24f5b616.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zO43crZG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/70oz5wyumm5uuikxtqry.png)
+[![Erratic timings for the userinfo_xhr_stop mark](img/cb218a59314200ca48c9a30e24f5b616.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zO43crZG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/70oz5wyumm5uuikxtqry.png)
 
 <figcaption>Erratic timings for the `userinfo_xhr_stop` mark</figcaption>
 
@@ -64,7 +64,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <figure>
 
-[![Immediate action by the development team solved the problem](../Images/add9c6d818ac15a0132fb487175e1cce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YvOfpI8O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9x71q7qhk2wsnq0j2tbh.png)
+[![Immediate action by the development team solved the problem](img/add9c6d818ac15a0132fb487175e1cce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YvOfpI8O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9x71q7qhk2wsnq0j2tbh.png)
 
 <figcaption>Immediate action by the development team solved the problem</figcaption>
 
@@ -74,7 +74,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <figure>
 
-[![This is how Dareboost performs now](../Images/49ea5fe2e4d5b9a42ae0f529f84fc20c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ea3ckfxk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wls8aay4ziwwsgrbzv1r.png)
+[![This is how Dareboost performs now](img/49ea5fe2e4d5b9a42ae0f529f84fc20c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ea3ckfxk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wls8aay4ziwwsgrbzv1r.png)
 
 <figcaption>This is how Dareboost performs now</figcaption>
 

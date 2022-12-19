@@ -12,15 +12,15 @@
 
 错误的示例用户界面:
 
-[![Bad example Google Play Console](../Images/6d747a1251bc0abee0b73236701361e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RLhvUnKW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pp.userapi.com/c824201/v824201091/11676b/rLD4V13pInI.jpg)
+[![Bad example Google Play Console](img/6d747a1251bc0abee0b73236701361e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RLhvUnKW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pp.userapi.com/c824201/v824201091/11676b/rLD4V13pInI.jpg)
 
-[![Bad example Google Play Console](../Images/753232760bda8adaf6d15e2140bfee57.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UC2tyjz5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pp.userapi.com/c824201/v824201091/116773/ASiTJFDl6Nw.jpg)
+[![Bad example Google Play Console](img/753232760bda8adaf6d15e2140bfee57.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UC2tyjz5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pp.userapi.com/c824201/v824201091/116773/ASiTJFDl6Nw.jpg)
 
 但更多的人会认为我不是最好的榜样，但我在评论中等待你的榜样！
 
 不错的用户界面示例:
 
-[![Nice example Reddit](../Images/bc647bd62377c895137983f136a7deb2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VwHNim_e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pp.userapi.com/c824201/v824201091/116763/uLRUplDgVXA.jpg)
+[![Nice example Reddit](img/bc647bd62377c895137983f136a7deb2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VwHNim_e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pp.userapi.com/c824201/v824201091/116763/uLRUplDgVXA.jpg)
 
 Reddit 可能不是最好的用户界面，但他的工作和工作比 Google Play 更好。
 

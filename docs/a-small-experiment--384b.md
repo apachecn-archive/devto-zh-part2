@@ -28,25 +28,25 @@ b)一个值的符号。例如，美元是美元的符号
 
 ## 指标列表
 
-[![drawing](../Images/73d63bc22b4018c75fbad69f4e176a48.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--By2UhkI8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0wvjkh17a1gz4nkmz9we.png)
+[![drawing](img/73d63bc22b4018c75fbad69f4e176a48.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--By2UhkI8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0wvjkh17a1gz4nkmz9we.png)
 
 ## 某个指标的值
 
-[![drawing](../Images/82aea69e185f083e80b9b1290c97788c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AjYPaZv3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/437kri5pe2q63wmvxcod.png)
+[![drawing](img/82aea69e185f083e80b9b1290c97788c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AjYPaZv3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/437kri5pe2q63wmvxcod.png)
 
 ## 给指标添加新值
 
-[![drawing](../Images/bf9de0ae3ebf8dc39b44284c9aa8e797.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FoK14KS---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9o6nrg2pxojxw7j8fa2q.png)
+[![drawing](img/bf9de0ae3ebf8dc39b44284c9aa8e797.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FoK14KS---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9o6nrg2pxojxw7j8fa2q.png)
 
 # Javascript native script app
 
 ## 指标列表
 
-[![drawing](../Images/61e08961f8159253d06154f711e53c70.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7zauFKt_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g36vkcw91isks1g7mi1f.png)
+[![drawing](img/61e08961f8159253d06154f711e53c70.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7zauFKt_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g36vkcw91isks1g7mi1f.png)
 
 ## 一个指标的值(并包括相加)
 
-[![drawing](../Images/155a9aea37de99fe1bb35a2e31592011.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WukTOapZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mye269qg9effhqo130n3.png)
+[![drawing](img/155a9aea37de99fe1bb35a2e31592011.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WukTOapZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mye269qg9effhqo130n3.png)
 
 # 结论
 

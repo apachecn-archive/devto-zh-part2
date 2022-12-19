@@ -4,7 +4,7 @@
 
 可伸缩性是能够处理更多请求，垂直和水平伸缩以不同的方式处理这些请求。水平扩展有多个接收请求的服务器，但是垂直扩展只有一个大型服务器来处理它们。在本文中，我将与您分享这些扩展的优缺点。
 
-[![Alt text of image](../Images/b0240f10a276f4768495f9b4652edd6f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m79uDzn7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5hdx2b9l0b4kgzju54e5.png)
+[![Alt text of image](img/b0240f10a276f4768495f9b4652edd6f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m79uDzn7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5hdx2b9l0b4kgzju54e5.png)
 
 水平扩展具有所谓的负载平衡，因此如果其中一台服务器出现故障，负载平衡器会将请求重定向到其他服务器，如果添加了新服务器，负载平衡器会开始向其发送请求。这通过向工作的服务器发送请求来确保客户端请求是可靠的，它有效地与多个服务器一起工作，并且它通过增加或减少服务器的数量来提供灵活性。由于垂直扩展只是一个巨大的服务器，这是不可能的。
 

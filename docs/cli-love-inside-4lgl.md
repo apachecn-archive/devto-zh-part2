@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/biros/cli-love-inside-4lgl>
 
-[![fish logo](../Images/69375c65f284a9829fc47b78c14c8d6d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--opYGyfHN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9oidjshiaqgz6rkp4dac.png)
+[![fish logo](img/69375c65f284a9829fc47b78c14c8d6d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--opYGyfHN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9oidjshiaqgz6rkp4dac.png)
 
 > 命令行是一个强大的工具，但不幸的是，我们大多数人都放弃了它。
 > 
@@ -32,7 +32,7 @@ Zsh 是这种用例的另一个可靠的替代方案。
 
 下面是一个用 **git** 自动完成的例子:
 
-[![autocompletion](../Images/8e7e09480e973469f5a33c1e784d3619.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rJW_ZUmG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://www.imgurupload.com/images/2018/08/15/fish_autocompletione460c49118e7ac47.gif)
+[![autocompletion](img/8e7e09480e973469f5a33c1e784d3619.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rJW_ZUmG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://www.imgurupload.cimg/2018/08/15/fish_autocompletione460c49118e7ac47.gif)
 
 通过输入`git`，然后`<tab>`， **fish** 提出 **git** 命令列表(`checkout`，`commit`，`log`，...).通过按几次`<tab>`，我们可以浏览命令，直到我们找到想要的命令，然后我们只需点击`<enter>`进行验证(例如`git checkout`，这里 **fish** 展示了它的所有魔力:它能够自动完成你的 repo 的 git 分支列表！当然，除了 git 之外，它还可以与许多其他工具一起工作。
 
@@ -62,23 +62,23 @@ Zsh 是这种用例的另一个可靠的替代方案。
 
 第一个是高度可视化的，基于[电力线](https://github.com/powerline/powerline)，这是 **Vim** 的状态线，包括许多图案和符号，使其更加*用户友好*:
 
-[![bobthefish](../Images/a460a22bde87d9d75e9c3ff5c97f2d29.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--13CgTaIl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hbszkvtuiywwt2ofu1e1.png)
+[![bobthefish](img/a460a22bde87d9d75e9c3ff5c97f2d29.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--13CgTaIl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hbszkvtuiywwt2ofu1e1.png)
 
 第二个更时尚，功能更少，但是很有趣。
 
-[![neolambda](../Images/8507dcf1b698c56110dda031ca429c22.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GuY8CLiQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e7lg5uvjqpt11jqbkke9.png)
+[![neolambda](img/8507dcf1b698c56110dda031ca429c22.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GuY8CLiQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e7lg5uvjqpt11jqbkke9.png)
 
 除了提示之外，许多插件可以增强用户体验，特别是:
 
 *   **colorman** 为手册页(`omf install colorman`)添加了语法高亮显示
 
-    [![colorman](../Images/8684224f81e62a703bfaf03ec295cc50.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jD0LHkVd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n2mmy1y4saihsqr63uo9.png)
+    [![colorman](img/8684224f81e62a703bfaf03ec295cc50.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jD0LHkVd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n2mmy1y4saihsqr63uo9.png)
 
 *   [grc](https://github.com/oh-my-fish/plugin-grc) ，为很多 Unix 命令增加了语法高亮: **tail** ， **ping** ， **cat** ， **ps** ， **df** ，...(安装它:`fisher grc`)
 
     *   使用 **ping** 的示例:
 
-    [![grc_ping](../Images/fc892587f07bd3f785328dd8e610f965.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XvqEXRSy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/61s797gefnhew4aljs4p.png)
+    [![grc_ping](img/fc892587f07bd3f785328dd8e610f965.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XvqEXRSy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/61s797gefnhew4aljs4p.png)
 
 *   pj 是一个插件，可以快速地从一个项目切换到另一个项目，无论是在你的终端还是在你的编辑器(`omf install pj`)
 
@@ -88,7 +88,7 @@ Zsh 是这种用例的另一个可靠的替代方案。
 
 *   [色彩](https://github.com/athityakumar/colorls)(`gem install colorls`)——这个`ls`包装真的是*必备的*。它给 **stdout** 上色；它使用颜色强度来强调当前目录的文件的修改日期；它使得文件大小*可读*；此外，它还显示当前文件/文件夹的 **git** 状态！
 
-    [![colorls](../Images/a89dcb8be7e3b1ea5b8a77f00aa68371.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Iyy9usGx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r4vltr66ur6uvt61a6oo.png)
+    [![colorls](img/a89dcb8be7e3b1ea5b8a77f00aa68371.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Iyy9usGx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r4vltr66ur6uvt61a6oo.png)
 
 ### 🌈给我的原木上色！
 
@@ -102,11 +102,11 @@ Zsh 是这种用例的另一个可靠的替代方案。
 
 *   **ccze** 为传统日志( **Apache** ， **syslog** ， **php** ，...)
 
-    [![ccze](../Images/bca8f20cab07ccbb6d3e91a080c9fd1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0fgWNSHI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s0sm668b1y0cjvwki27m.png)
+    [![ccze](img/bca8f20cab07ccbb6d3e91a080c9fd1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0fgWNSHI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s0sm668b1y0cjvwki27m.png)
 
 *   JSON 日志的 jq
 
-    [![jq](../Images/a682d673a9d1e33b7bf1c4e5e8236103.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_r0o0X4w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8xusizqcb3y2ozqicsx9.png)
+    [![jq](img/a682d673a9d1e33b7bf1c4e5e8236103.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_r0o0X4w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8xusizqcb3y2ozqicsx9.png)
 
 jq 的好处在于，在 JSON 语法突出显示的基础上，它自动格式化你的日志以方便阅读。因此，如果您有 ELK 的一行压缩 JSON 日志或任何其他数据分析堆栈，它将允许您*解包*您的日志，并使它们*人类可读*。
 

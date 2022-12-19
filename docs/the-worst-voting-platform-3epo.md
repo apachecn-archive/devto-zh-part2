@@ -10,7 +10,7 @@
 
 您可以前往[theworstvotingplatform.com](http://theworstvotingplatform.com/)观看演示
 
-[![The Worst Voting Platform](../Images/e06ebe001a9fceaea23e158abb3aa78d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2YjiThZX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hc8i3vp7gafkiqttju6f.JPG)
+[![The Worst Voting Platform](img/e06ebe001a9fceaea23e158abb3aa78d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2YjiThZX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hc8i3vp7gafkiqttju6f.JPG)
 
 ### 代码库
 

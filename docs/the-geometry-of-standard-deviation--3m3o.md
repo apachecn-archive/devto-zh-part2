@@ -4,17 +4,17 @@
 
 我最近需要查找标准偏差的公式。我觉得这个公式看起来有点神秘，有平方和平方根。以下是数据样本标准差的基本公式:
 
-[![standard deviation formula](../Images/62d89336832997e83f88647a24e94791.png "standard deviation formula")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z-4dOelu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ggzs44981kodjlgn5lml.png)
+[![standard deviation formula](img/62d89336832997e83f88647a24e94791.png "standard deviation formula")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z-4dOelu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ggzs44981kodjlgn5lml.png)
 
 我们从平均值中减去每个测量值(通常称为“平均值”)，然后取平方。我们把所有这些方块加起来，然后除以 n-1。最后我们求平方根。这是怎么回事？
 
 一段时间以来第一次看这个公式，我突然想到分子看起来很像[勾股定理](https://en.wikipedia.org/wiki/Pythagorean_theorem)中的距离。下图显示了两个点`p1`和`p2`之间的距离`d`:
 
-[![pythagorean theorem diagram](../Images/5a96ea97e2b504ecc82d375afd2ba7c9.png "pythagorean theorem diagram")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kaBO4uvG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/33kt694ge9m8zhnsp5uc.png)
+[![pythagorean theorem diagram](img/5a96ea97e2b504ecc82d375afd2ba7c9.png "pythagorean theorem diagram")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kaBO4uvG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/33kt694ge9m8zhnsp5uc.png)
 
 根据勾股定理，这个距离是:
 
-[![pythagorean theorem formula](../Images/274d77ea84d07c391f637429a11bfec4.png "pythagorean theorem formula")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OgfPZ7XE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t6metdzumfk1k6x3lpml.png)
+[![pythagorean theorem formula](img/274d77ea84d07c391f637429a11bfec4.png "pythagorean theorem formula")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OgfPZ7XE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t6metdzumfk1k6x3lpml.png)
 
 差不多吧？我们有一个平方根。在平方根里面，我们总结了一些值。总和中的每一项都是差值的平方。这和我们标准差的分子中的基本操作是一样的。
 
@@ -26,37 +26,37 @@
 
 第二个点，我们称 m 为平均值，由两个轴上的平均值 x̄组成。M = (x̄，x̄) = (2，2)。
 
-[![diagram distance from V to M](../Images/492207e3aeb62be5530743c03ba963d9.png "diagram distance from V to M")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rz2lQg9a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s23tosdmaq1gapjjqhut.png)
+[![diagram distance from V to M](img/492207e3aeb62be5530743c03ba963d9.png "diagram distance from V to M")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rz2lQg9a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s23tosdmaq1gapjjqhut.png)
 
 我们可以看到 V 和 M 之间的距离是:
 
-[![distance from V to M](../Images/08c981ef5fd88b987a9127d9bbbc4930.png "distance from V to M")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xb035Hqx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/41i67fce1yguy171exdo.png)
+[![distance from V to M](img/08c981ef5fd88b987a9127d9bbbc4930.png "distance from V to M")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xb035Hqx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/41i67fce1yguy171exdo.png)
 
 现在让我们看看，我们是否能把两点之间的距离和标准差的公式联系起来。
 
 样本标准差的平方称为[方差](https://en.wikipedia.org/wiki/Variance)，记为`s²`:
 
-[![variance formula](../Images/91d4bbe865427c8e28d653cd586a0fff.png "variance formula")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AE-or-4B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hpws5pfkw7qfxo4nk56j.png)
+[![variance formula](img/91d4bbe865427c8e28d653cd586a0fff.png "variance formula")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AE-or-4B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hpws5pfkw7qfxo4nk56j.png)
 
 让我们将方差乘以`n-1`:
 
-[![variance times n-1](../Images/2e8adb9a5b73d44769c122862804bb3e.png "variance times n-1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vFRU5jAZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/obmnxnsvuaf4saa3k8pk.png)
+[![variance times n-1](img/2e8adb9a5b73d44769c122862804bb3e.png "variance times n-1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vFRU5jAZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/obmnxnsvuaf4saa3k8pk.png)
 
 现在我们来求平方根:
 
-[![sqrt of variance times n-1](../Images/91a71115dc09db445b3593b5d4a54ea2.png "sqrt of variance times n-1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N1YRYmFd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9mamcy7yh49184en84zj.png)
+[![sqrt of variance times n-1](img/91a71115dc09db445b3593b5d4a54ea2.png "sqrt of variance times n-1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N1YRYmFd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9mamcy7yh49184en84zj.png)
 
 让我们将刚刚导出的这个值定义为`d`:
 
-[![define d](../Images/96e761c1a32b0df8099da9c6ee7a1730.png "define d")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yCKk7llk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mtw1adnp4k4utjy2owjf.png)
+[![define d](img/96e761c1a32b0df8099da9c6ee7a1730.png "define d")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yCKk7llk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mtw1adnp4k4utjy2owjf.png)
 
 我们现在可以看到，我们之前计算的距离 0.71 实际上就是这个值`d`！
 
 只需一些小代数，我们就可以证明标准偏差与这个距离密切相关:
 
-[![sqrt of variance times n-1 = d](../Images/982f196690eb1b86eb5b7f17ff12fa63.png "sqrt of variance times n-1 = d")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--04zRRrGY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lrowkyw1ydoysitnxkjw.png)
+[![sqrt of variance times n-1 = d](img/982f196690eb1b86eb5b7f17ff12fa63.png "sqrt of variance times n-1 = d")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--04zRRrGY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lrowkyw1ydoysitnxkjw.png)
 
-[![relationship between standard deviation and distance](../Images/84d4d83693dfe783055b731443b90026.png "relationship between standard deviation and distance")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tsmWZjP_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5t00f4b05jzkaqjv3ay6.png)
+[![relationship between standard deviation and distance](img/84d4d83693dfe783055b731443b90026.png "relationship between standard deviation and distance")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tsmWZjP_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5t00f4b05jzkaqjv3ay6.png)
 
 我们可以看到，我们可以通过将`d`除以`√(n-1)`得到标准差。在这个特例中，`√(n-1)`仅仅是 1。因此我们可以说标准差是 0.71！
 
@@ -68,11 +68,11 @@
 
 勾股定理适用于任何维数。事实上，`n`维度中两点`a`和`b`之间的距离公式应该看起来很熟悉:
 
-[![pythagorean theorem in n dimensions](../Images/92578be3ca2871b27a47a0136305a9f2.png "pythagorean theorem in n dimensions")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hoVZ4Hmq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wvztxulijo4udaecvxrj.png)
+[![pythagorean theorem in n dimensions](img/92578be3ca2871b27a47a0136305a9f2.png "pythagorean theorem in n dimensions")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hoVZ4Hmq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wvztxulijo4udaecvxrj.png)
 
 让我们与之前定义的`d`进行比较:
 
-[![d as distance](../Images/4da28aae43bbd5443d3d50e0a8834d87.png "d as distance")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HiDsp40H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2mk56u9y06fj6d4k95bl.png)
+[![d as distance](img/4da28aae43bbd5443d3d50e0a8834d87.png "d as distance")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HiDsp40H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2mk56u9y06fj6d4k95bl.png)
 
 对于大于 3 个数据点(即 3 个维度)的样本，使用这种距离概念可能对可视化标准偏差没有帮助，但我认为它有助于从概念上更好地理解标准偏差所代表的内容。
 

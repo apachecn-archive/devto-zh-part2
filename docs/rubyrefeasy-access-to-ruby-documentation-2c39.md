@@ -48,7 +48,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 但是，为了减少输入和加快自动完成，重定向应该采用 h `ttps://<CNAME>.rubyref.net`的形式，并使用以下 Cloudflare 页面规则:
 
-[![Cloudflare page rule](../Images/86e4cf87059e6daa7e974196426fa6da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NBB3_Cnr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zlaedfonnqtb579s09cg.png)
+[![Cloudflare page rule](img/86e4cf87059e6daa7e974196426fa6da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NBB3_Cnr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zlaedfonnqtb579s09cg.png)
 
 到目前为止，还存在最后一个问题:Cloudflare 在其免费层中不提供通配符 cname 的代理，所以我使用 [Cloudflare gem](https://github.com/ioquatix/cloudflare) 编写了一个小的 Rake 任务，通过 [Cloudflare API](https://api.cloudflare.com/) :
 自动添加指向“rubyref.net”的“虚拟”cname

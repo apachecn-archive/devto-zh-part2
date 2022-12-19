@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/melezhik/sparky---powerful-pocket-size-task-runner-server-in-crontab-style-2ed5>
 
-[![Nice web UI](../Images/b7f16ec828841339f5e97da8b345a990.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2xvyz3qA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/melezhik/sparky/master/images/sparky-web-ui3.png)
+[![Nice web UI](img/b7f16ec828841339f5e97da8b345a990.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2xvyz3qA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/melezhik/sparky/mastimg/sparky-web-ui3.png)
 
 有时候我需要运行一些周期性的*任务*并得到*报告*。我机器上的海峡。一些简单和可配置的东西。是的，有时我想远程运行任务**，不仅仅是在本地主机上，通过 **ssh** 或 **docker** 实例。**
 

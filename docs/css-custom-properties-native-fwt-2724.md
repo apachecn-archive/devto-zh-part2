@@ -70,6 +70,6 @@ footer {
 
 ## 浏览器兼容性
 
-[![css variables](../Images/0d9ce70cd06d691c7530507546f8fff9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QsUFipGp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2anpkgfy6ysjjmp7ox3t.png)
+[![css variables](img/0d9ce70cd06d691c7530507546f8fff9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QsUFipGp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2anpkgfy6ysjjmp7ox3t.png)
 
 更多详情可在[这里找到(can use)](https://caniuse.com/#search=CSS%20Variables)

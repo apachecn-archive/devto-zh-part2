@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/graphicbeacon/building-restful-web-apis-with-dart-aqueduct-and-postgresqlpart-3-postgres-9c7>
 
-[![Featured image for Building RESTful Web APIs with Dart, Aqueduct, and PostgreSQL](../Images/cbdf930372b6e08ad5ad2b8c1296074d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PZk7TA-r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dv19znif0x9wpvdcdt13.jpg)
+[![Featured image for Building RESTful Web APIs with Dart, Aqueduct, and PostgreSQL](img/cbdf930372b6e08ad5ad2b8c1296074d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PZk7TA-r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dv19znif0x9wpvdcdt13.jpg)
 
 * * *
 
@@ -282,7 +282,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 * * *
 
-[![graphicbeacon image](../Images/ebd69e31cdafde0c3cc551828feae27a.png)](/graphicbeacon) [## 用 Dart、Aqueduct 和 PostgreSQL 构建 RESTful Web APIs 第 4 部分:测试
+[![graphicbeacon image](img/ebd69e31cdafde0c3cc551828feae27a.png)](/graphicbeacon) [## 用 Dart、Aqueduct 和 PostgreSQL 构建 RESTful Web APIs 第 4 部分:测试
 
 ### 杰梅因·奥蓬 5 月 31 日 187 分钟阅读
 

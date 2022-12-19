@@ -26,7 +26,7 @@
 
 如下图所示，Qualaroo 根据您的业务需求提供了[三种不同的套餐](https://qualaroo.com/pricing/)。
 
-[![software programs qualaroo](../Images/cf83c658ef7758cb5f9536f302b85a62.png)T2】](https://apiumhub.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-29-at-07.34.15.png)
+[![software programs qualaroo](img/cf83c658ef7758cb5f9536f302b85a62.png)T2】](https://apiumhub.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-29-at-07.34.15.png)
 
 价格:每月 99 美元起，但有 14 天的免费试用期。
 
@@ -38,7 +38,7 @@
 
 有了跟踪竞赛收入来源、资金和数字财产的能力，您再也不必依靠猜测了。您甚至可以根据行业、地区或收入创建竞争对手列表，并随着情况的变化接收实时更新。这只是这个程序成为最佳启动工具的众多原因之一。正如你在下面看到的，MixRank 得到了已经在使用该软件的公司的好评。又一个值得投资的迹象！
 
-[![mixrank software programs](../Images/ea0990b8053717c6fa72eb9b6b76e08d.png)T2】](https://apiumhub.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-29-at-07.39.33.png)
+[![mixrank software programs](img/ea0990b8053717c6fa72eb9b6b76e08d.png)T2】](https://apiumhub.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-29-at-07.39.33.png)
 
 价格:这当然是每月 500 美元的投资。但是免费试用是可行的，所以你可以确定它是否对你的业务有足够的价值来证明它的价格。
 
@@ -58,7 +58,7 @@ Wave 是管理[一切财务](https://www.waveapps.com/about-us/)的首发创业�
 
 最后，Wave 为新企业主提供了大量有价值的信息，不管他们是否使用他们的产品。许多企业家定期浏览他们的网站，学习可以在他们的公司实施的技巧和诀窍。正如你在下面看到的，有很多东西需要学习！
 
-[![wave software programs](../Images/943d3b1cabab74d49563d0df501dcc87.png)T2】](https://apiumhub.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-29-at-07.43.37.png)
+[![wave software programs](img/943d3b1cabab74d49563d0df501dcc87.png)T2】](https://apiumhub.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-29-at-07.43.37.png)
 
 **价格**:免费！
 
@@ -76,7 +76,7 @@ Wave 是管理[一切财务](https://www.waveapps.com/about-us/)的首发创业�
 
 这是他的简历——克莱尔·奥布莱恩是设计向导公司的营销经理。Claire 在内容创作方面有超过 10 年的经验，包括视觉内容、数字营销、电子邮件营销、社交媒体和广告。她对所有与数字和软件相关的事物都有强烈的兴趣。
 
-[![Claire O'Brien software programs](../Images/c4da695a8617fec9021acf68ca53a7c4.png)T2】](https://apiumhub.com/wp-content/uploads/2018/03/Claire-OBrien-headshot.jpg)
+[![Claire O'Brien software programs](img/c4da695a8617fec9021acf68ca53a7c4.png)T2】](https://apiumhub.com/wp-content/uploads/2018/03/Claire-OBrien-headshot.jpg)
 
 ## 如果你觉得这篇文章很有趣，你可能会喜欢…
 

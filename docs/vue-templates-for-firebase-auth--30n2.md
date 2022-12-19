@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/aofdev/vue-templates-for-firebase-auth--30n2>
 
-[![alt tag](../Images/e6e007ad74425789d2db018e1cc804a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XkBI-_5s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/5AnRW5j.png)
+[![alt tag](img/e6e007ad74425789d2db018e1cc804a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XkBI-_5s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/5AnRW5j.png)
 
 简化 vue 项目的 Firebase 身份验证，支持脸书&谷歌登录& Github & Twitter，并支持渐进式网络应用
 

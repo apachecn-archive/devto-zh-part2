@@ -49,7 +49,7 @@ Webpack 对我来说似乎就是那个项目:)
 
 另一个重要/方便的步骤是启用`Auto Attach`。您可以在 VSCode 的底部设置栏上切换此设置:
 
-[![alt text](../Images/bdcbab51e81747af56a396c554d37bda.png "Auto attach VS Code")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yTGB6eZT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b1gpk7iujs9ob5lvlueb.png)
+[![alt text](img/bdcbab51e81747af56a396c554d37bda.png "Auto attach VS Code")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yTGB6eZT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b1gpk7iujs9ob5lvlueb.png)
 
 一旦我们执行了`node --inspect-brk`命令，这将允许您自动切换调试器屏幕。
 
@@ -73,7 +73,7 @@ Webpack 对我来说似乎就是那个项目:)
 
 这将触发调试器窗口，并将在第一行中断。然后，您可以在 VSCode 上设置一个断点，并逐句通过 Webpack 源代码！
 
-[![alt text](../Images/7b7505b94d1d0cea7f57787906d08442.png "Debug VS Code")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0L0yb0fl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rw6916e9k0cq732k8rxf.png)
+[![alt text](img/7b7505b94d1d0cea7f57787906d08442.png "Debug VS Code")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0L0yb0fl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rw6916e9k0cq732k8rxf.png)
 
 ### 就是这样！✅
 

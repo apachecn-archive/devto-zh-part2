@@ -16,7 +16,7 @@
 
 ## 不再有奇闻
 
-[![Spiderman_Reading](../Images/e99c87721ff64d0b3d9032cc23938b93.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qfgkJ4OT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/uQbNvu9.png) 
+[![Spiderman_Reading](img/e99c87721ff64d0b3d9032cc23938b93.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qfgkJ4OT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/uQbNvu9.png) 
 *图片由 [Raj Eiamworakul](https://unsplash.com/photos/o4c2zoVhjSw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 上传 [Unsplash](https://unsplash.com/search/photos/story)*
 
 现在我们开始这篇文章的有趣部分！🤤如果你不熟悉 [Fizz Buzz](http://codingbat.com/doc/practice/fizzbuzz-code.html) 面试问题，这是一个相对简单的问题，擅长测试你的知识和对给定编程语言的基本理解，以及向面试官展示你是哪种类型的开发人员。
@@ -78,7 +78,7 @@ for  ($x  =  1;  $x  -le  100;  $x++)  {  $Output  =  ""  if  ($x  %  3  -eq  0)
 
 至此，我们已经有了用 PowerShell 编写的 Fizz Buzz 问题的工作解决方案。如果您将它复制并粘贴到一个终端中，您将得到如下所示的内容:
 
-[![FizzBuzz.ps1_Output](../Images/cf4fef295e7a3f4d4a0db0cf4c47ecde.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MQBvyNKK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/tC2pfXg.png)
+[![FizzBuzz.ps1_Output](img/cf4fef295e7a3f4d4a0db0cf4c47ecde.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MQBvyNKK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/tC2pfXg.png)
 
 ## 终于，一个剧本！
 

@@ -25,9 +25,9 @@
 
 最后，这是目前唯一可以工作的部分，^ ^
 
-[![signup form without errors](../Images/7a8667811de00e26380a55a487ababdc.png "signup form without errors")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i-h4IvFy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wsg2wcs75u98udaz62ss.png)
+[![signup form without errors](img/7a8667811de00e26380a55a487ababdc.png "signup form without errors")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i-h4IvFy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wsg2wcs75u98udaz62ss.png)
 
-[![signup form with errors](../Images/9e2d37737daae397aa2be7528a71f795.png "signup form with errors")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wzur6ZxS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5n81bkhdxhbp0e91ggig.jpg)
+[![signup form with errors](img/9e2d37737daae397aa2be7528a71f795.png "signup form with errors")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wzur6ZxS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5n81bkhdxhbp0e91ggig.jpg)
 
 这只是一个开始，我希望我能最终得到一些有用的东西(可能是几个月后)，两个月左右，直到我完成项目的骨干，清理它，你的帮助会得到高度赞赏。
 

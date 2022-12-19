@@ -44,7 +44,7 @@ Youtube 有很多令人惊叹的内容，但也有数量惊人的垃圾。不幸
 
 我认为强迫进步是没有用的，我应该休息一段时间。我仍然在早上 6 点醒来，但是我做了我想做的事情。看几集布鲁克林九九？为什么不呢！在火箭联盟、天际或者任何我喜欢的游戏上进行会话？听起来很有趣！把闹钟调到早上 8 点？有时候。
 
-[![](../Images/64dac27e64d6b54cc223f2429a5fdc95.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lkZcMVTb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ARoC_-1xB03_kQR66OMBPVQ.jpeg)
+[![](img/64dac27e64d6b54cc223f2429a5fdc95.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lkZcMVTb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ARoC_-1xB03_kQR66OMBPVQ.jpeg)
 
 #### 设定新的目标
 
@@ -58,7 +58,7 @@ Youtube 有很多令人惊叹的内容，但也有数量惊人的垃圾。不幸
 
 #### 重启日志-凌
 
-[![](../Images/a5a1bd47da1124f8f6d0b9e8a71f4a02.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wMisqRPN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AgW9vN2wLyXoWMfqQhKLrlA.jpeg)
+[![](img/a5a1bd47da1124f8f6d0b9e8a71f4a02.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wMisqRPN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AgW9vN2wLyXoWMfqQhKLrlA.jpeg)
 
 这与设定一个新的目标是一致的。我的日记曾经很神奇，它能确保我知道那一周和那一天我在做什么。它帮助我跟踪进度，了解我是如何利用时间的。
 
@@ -76,4 +76,4 @@ Youtube 有很多令人惊叹的内容，但也有数量惊人的垃圾。不幸
 
 如果你喜欢这篇文章，请点击这个按钮，关注我，获取更多关于技术和生产力的文章。
 
-[![](../Images/df737a6e05bad5156ff6729a1a53eb18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6aRVXTdp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AhNyHl_6GQIr7cmcSYSwF3w.gif)
+[![](img/df737a6e05bad5156ff6729a1a53eb18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6aRVXTdp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AhNyHl_6GQIr7cmcSYSwF3w.gif)

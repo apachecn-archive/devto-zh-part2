@@ -7,7 +7,7 @@
 我写了一个游戏引擎来实现一些基本的游戏逻辑。不过我就不说了(对有兴趣的人: [https://korok.io](https://korok.io) )今天我就说说我们在使用‘gomobile build’命令时遇到的问题。
 
 下面是我制作的 2048 游戏:
-[![2048](../Images/511aa00c9673b32a11fcc952bf30476b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fK8NRpqd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c4v1s8kz6fs5l879wbyf.png)
+[![2048](img/511aa00c9673b32a11fcc952bf30476b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fK8NRpqd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c4v1s8kz6fs5l879wbyf.png)
 
 可以在 itch . io:[2048 游戏](https://ntop.itch.io/the-2048-game)上获得
 
@@ -214,7 +214,7 @@ func Quit() {
 Enter fullscreen mode Exit fullscreen mode
 
 我还做了一个‘双击退出’:
-[![Click Back Again to Quit!](../Images/659575ccbe2a6b5f6118e7f1bac0547a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UTQPjvQP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/clrptnqaj2avl0nv82i5.png)
+[![Click Back Again to Quit!](img/659575ccbe2a6b5f6118e7f1bac0547a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UTQPjvQP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/clrptnqaj2avl0nv82i5.png)
 
 ## 保存 eglContext！！
 

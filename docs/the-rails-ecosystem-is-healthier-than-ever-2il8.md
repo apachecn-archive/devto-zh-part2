@@ -18,7 +18,7 @@
 
 液体错误:内部
 
-> ![Eileen M. Uchitelle profile image](../Images/714f0e8978dd9ce0d85d6a13b1da7176.png)Eileen m . Uchitelle@ eileencodes![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)我迫不及待地想让你们看看我们的上游，现在我们有能力回馈和改善 Rails。我在 RailsConf 上的主题演讲只是我们 Rails 计划的一小部分。2018 年 8 月 17 日下午 14:30[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1030461847256875008)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1030461847256875008)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1030461847256875008)
+> ![Eileen M. Uchitelle profile image](img/714f0e8978dd9ce0d85d6a13b1da7176.png)Eileen m . Uchitelle@ eileencodes![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)我迫不及待地想让你们看看我们的上游，现在我们有能力回馈和改善 Rails。我在 RailsConf 上的主题演讲只是我们 Rails 计划的一小部分。2018 年 8 月 17 日下午 14:30[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1030461847256875008)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1030461847256875008)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1030461847256875008)
 
 GitHub 处于 Rails 的风口浪尖是件大事。Shopify 最近一直处于领先地位，我觉得这种新的参与将进一步推动事情的发展。Rails 在保持概念一致和避免特性蔓延和复杂性蔓延方面做得很好。
 

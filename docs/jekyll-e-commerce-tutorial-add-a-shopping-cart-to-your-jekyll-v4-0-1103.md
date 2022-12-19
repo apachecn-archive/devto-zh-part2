@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/couellet/jekyll-e-commerce-tutorial-add-a-shopping-cart-to-your-jekyll-v4-0-1103>
 
-[![Static Site E-Commerce: Integrating Snipcart with Jekyll](../Images/3041c420e8b1accb63adfdbdda244750.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g0nw7Zhq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/204664/jekyll-ecommerce.png)
+[![Static Site E-Commerce: Integrating Snipcart with Jekyll](img/3041c420e8b1accb63adfdbdda244750.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g0nw7Zhq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/204664/jekyll-ecommerce.png)
 
 像许多开发人员一样，我们第一次接触静态站点生成器是通过 Jekyll 的发现。
 

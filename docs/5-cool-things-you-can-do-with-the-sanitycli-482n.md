@@ -22,7 +22,7 @@ sanity dataset export
 
 结构化内容管理系统的全部意义在于，它应该能够很容易地将您的内容从中提取出来。通常这是通过查询 API 来获得您想要的内容，但是有时，您希望所有的内容一次打包好。该命令将您的所有文档导出到一个`.ndjson`-文件中，并将您的资产导出到一个专用文件夹中。它下载一个 gzip 文件，您也可以使用`sanity dataset import`将该文件导入到一个新的数据集。例如，您还可以解包文件，对所有数据运行查找并替换全部操作，然后再次将`dataset.ndjson`文件导入数据集。
 
-[![https://thepracticaldev.s3.amazonaws.com/i/o8748k0okievigyn6v8b.png](../Images/aa72d94bac216c301ec1bb27a27a9ceb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XFg88Wmw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.io/images/3do82whm/production/c9f832ca36ac9b41681f47fadc0f1c8d3e4b48fa-1980x1202.png%3Fw%3D1000) 获取所有数据
+[![https://thepracticaldev.s3.amazonaws.com/i/o8748k0okievigyn6v8b.png](img/aa72d94bac216c301ec1bb27a27a9ceb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XFg88Wmw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.img/3do82whm/production/c9f832ca36ac9b41681f47fadc0f1c8d3e4b48fa-1980x1202.png%3Fw%3D1000) 获取所有数据
 
 ## 3。管理 CORS 设置
 

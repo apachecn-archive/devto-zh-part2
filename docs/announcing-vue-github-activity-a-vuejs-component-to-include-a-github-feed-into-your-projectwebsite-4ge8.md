@@ -16,7 +16,7 @@
 
 正如我所说的，这个项目发布在 NPM，当然是完全开源的，在麻省理工学院的许可下发布，它在 T2 的仓库对任何类型的贡献、问题、评论、请求等都是开放的。目前我在我的[网站](http://lexmartinez.com)上使用这个组件，你可以在那里查看，但这里有一个小截图。
 
-[![](../Images/b1f72786694b4f89b41c5842152f3bb0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j9HzixIt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/lexmartinez/vue-github-activity/raw/master/screenshot.png)
+[![](img/b1f72786694b4f89b41c5842152f3bb0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j9HzixIt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/lexmartinez/vue-github-activity/raw/master/screenshot.png)
 
 在结束之前，特别感谢@ caseyscarborough 的这个[库](https://github.com/caseyscarborough/github-activity)，它极大地激发了这个组件的草图绘制过程。
 

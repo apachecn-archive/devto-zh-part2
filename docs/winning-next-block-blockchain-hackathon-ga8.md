@@ -8,7 +8,7 @@
 
 今天是**周日**，距离**黑客马拉松**开始还有几天。在我们的团队聊天中，我提出了加入**黑客马拉松**的想法。像往常一样，每个人都对此持怀疑态度，但我仍然设法召集并说服了四个人加入我，并为这个挑战创建了一个名为链上骑士的团队，他们的想法是制作一个密码训练机器人。是的，没错——我们的第一个想法是编写一个加密交易机器人。我又一次成功说服了他们，感谢上帝！我们开了个会，有一堆想法扔在**白板上**但是**多数人**决定做**汽车追踪系统**。老实说，我不同意，但是...这是一个团队决定，大多数人赢了。
 
-[![](../Images/e5b96a0e395320b49edeb427c0079a38.png)T2】](http://nikolaytech.com/wp-content/uploads/2018/09/photo_2018-09-10_19-27-12.jpg)
+[![](img/e5b96a0e395320b49edeb427c0079a38.png)T2】](http://nikolaytech.com/wp-content/uploads/2018/09/photo_2018-09-10_19-27-12.jpg)
 
 ## **问题**
 
@@ -26,7 +26,7 @@
 
 我希望这是**故事**的**快乐的**结局，但遗憾的是…
 
-[![](../Images/d813a41d2ffd74e01d0aaed22205d24a.png)T2】](//../wp-content/uploads/2018/09/ks0159_2_.jpg)
+[![](img/d813a41d2ffd74e01d0aaed22205d24a.png)T2】](//../wp-content/uploads/2018/09/ks0159_2_.jpg)
 
 ## **硬件问题遍地**
 
@@ -137,7 +137,7 @@
 
 **的其他**黑客马拉松**上面对面。当然，我要感谢我的整个团队，感谢他们让这一切发生，感谢他们的工作**。谢谢各位。**
 
- **[![](../Images/09af3cbffd016f8562ddb894559636e8.png)T2】](//../wp-content/uploads/2018/09/photo_2018-09-18_11-41-44.jpg)
+ **[![](img/09af3cbffd016f8562ddb894559636e8.png)T2】](//../wp-content/uploads/2018/09/photo_2018-09-18_11-41-44.jpg)
 
 我的网站原文:[http://nikolay tech . com/winning-the-next-block-区块链黑客马拉松](http://nikolaytech.com/winning-the-next-block-blockchain-hackathon)
 

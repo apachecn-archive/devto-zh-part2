@@ -40,7 +40,7 @@
 
 [Serverless](https://serverless.com/) 使用 Cloudformation 在幕后调出配置文件中定义的资源( [serverless.yml](https://github.com/belongco/nextjs-serverless-setup/blob/master/serverless.sample.yml) )。尽管它主要支持 Lambda 函数及其触发器的定义，但也可以使用原生 Cloudformation 模板来调用其他资源，如 DynamoDB 表等。下图突出显示了我们的部署过程，
 
-[![Deployment Process](../Images/ee8acb760d4b18f241e02c5fa781f532.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--5ofybj0G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3752/1%2AX7CvR-tzo0ohT9LR7o_2xQ.png) *部署流程*
+[![Deployment Process](img/ee8acb760d4b18f241e02c5fa781f532.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--5ofybj0G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3752/1%2AX7CvR-tzo0ohT9LR7o_2xQ.png) *部署流程*
 
 当一个新的分支/现有的分支被推送时， [Strider](https://github.com/Strider-CD/strider) ，我们的 CI 系统会拾取它并
 

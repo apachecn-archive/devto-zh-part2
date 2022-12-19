@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/joelnet/getting-started-with-mojiscript-async-infinity-testing-part-2-h1e>
 
-[![Infinity Loop](../Images/4c3bcbb02d213d94fd3b1d3bdcabc74b.png)T2】](https://dribbble.com/shots/2245706-Infinity-Loop)
+[![Infinity Loop](img/4c3bcbb02d213d94fd3b1d3bdcabc74b.png)T2】](https://dribbble.com/shots/2245706-Infinity-Loop)
 
 这是 MojiScript: FizzBuzz(第 1 部分)的第 2 部分。在第 1 部分中，我们使用 MojiScript 创建了一个基本的 FizzBuzz 应用程序。
 
@@ -294,7 +294,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 测试`main`复合体。我们在那里有一个`sleep`命令。所以如果我们测试数字 1-15，那么需要 15 秒。
 
-[![Ain't nobody got time for that](../Images/0f4a5f517bfc33c79b81446fe94cd54d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1cCscE9G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mqsmfcbhkf7wlrottdl4.jpg)
+[![Ain't nobody got time for that](img/0f4a5f517bfc33c79b81446fe94cd54d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1cCscE9G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mqsmfcbhkf7wlrottdl4.jpg)
 
 幸运的是，嘲笑`setTimeout`很容易。
 
@@ -350,4 +350,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 [在把 90%的 JavaScript 扔进垃圾桶后，我是如何重新发现自己对它的热爱的](https://hackernoon.com/how-i-rediscovered-my-love-for-javascript-after-throwing-90-of-it-in-the-trash-f1baed075d1b)
 
-[![Cheers!](../Images/661c03d25961a6e3b1ecbe00d148b35a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PqqJmrxK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6jsy3a866frzp3u5oda0.jpg)
+[![Cheers!](img/661c03d25961a6e3b1ecbe00d148b35a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PqqJmrxK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6jsy3a866frzp3u5oda0.jpg)

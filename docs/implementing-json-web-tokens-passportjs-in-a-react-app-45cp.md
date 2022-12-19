@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/paigen11/implementing-json-web-tokens-passportjs-in-a-react-app-45cp>
 
-[![Passport, JWT, Express, and React logos](../Images/e2cefab1e2f0018c71eaa38508bc5091.png "Passport, JWT, Express, and React logos")T2】](///static/ee5d14c2643892ad0a4beb4a46375dab/2cefc/passport-hero.png)
+[![Passport, JWT, Express, and React logos](img/e2cefab1e2f0018c71eaa38508bc5091.png "Passport, JWT, Express, and React logos")T2】](///static/ee5d14c2643892ad0a4beb4a46375dab/2cefc/passport-hero.png)
 
 ## 简介
 
@@ -22,7 +22,7 @@
 
 ## 什么是 JSON Web Token？
 
-[![JWT logo](../Images/a3133a6de31c435bebbdb2f5c00d6a09.png "JWT logo")T2】](///static/5e49a7b09e89a1ae840c5546530d2d7c/ea7fb/jwt.png)
+[![JWT logo](img/a3133a6de31c435bebbdb2f5c00d6a09.png "JWT logo")T2】](///static/5e49a7b09e89a1ae840c5546530d2d7c/ea7fb/jwt.png)
 
 一个 **[JSON Web 令牌](https://jwt.io/)** ，显示的站点是:
 
@@ -36,7 +36,7 @@
 
 ## 什么是 Passport.js &为什么要用？
 
-[![Passport logo](../Images/fb5a21b4688686fbb1a2688300cdc80f.png "Passport logo")T2】](///static/278b555d574a51fcd97b9201fd9366cf/772e8/passport.png)
+[![Passport logo](img/fb5a21b4688686fbb1a2688300cdc80f.png "Passport logo")T2】](///static/278b555d574a51fcd97b9201fd9366cf/772e8/passport.png)
 
 **[Passport.js](https://www.passportjs.org/)** 是:
 

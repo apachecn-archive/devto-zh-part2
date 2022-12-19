@@ -19,6 +19,6 @@
 
 [*感谢每日*](https://www.dailynow.co/) *开发者可以专注于代码而不是搜索新闻。只需打开一个新标签，即可立即访问所有这些帖子以及更多内容。*
 
-[![](../Images/742e0ffd579ea3d14bb946c2894281a1.png)T2】](https://app.dailynow.co/download)
+[![](img/742e0ffd579ea3d14bb946c2894281a1.png)T2】](https://app.dailynow.co/download)
 
 * * *

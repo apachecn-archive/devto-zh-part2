@@ -8,7 +8,7 @@
 
 我会在一张小纸片或记事本上潦草地写下这 20 行，并填入预先确定的数字
 
-[![sudokuscrap](../Images/9785344bdea73f67f1943ec166abc5a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MgcRmBd0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bxhyjvci4z2269a4ygtg.jpg)
+[![sudokuscrap](img/9785344bdea73f67f1943ec166abc5a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MgcRmBd0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bxhyjvci4z2269a4ygtg.jpg)
 
 然后，只需查看每行、每列和每个方块中缺少哪些数字，直到工作完成。
 
@@ -16,13 +16,13 @@
 
 所以，手头有一台激光打印机，我能做到的第一个，也是最明显的效率就是提前打印出网格。我可以在一张 A4 纸上画出六条，使用一些 DTP 软件，我可以画出不同粗细的优质线条，就像真的一样:
 
-[![pro grid](../Images/ec7ea17953ecde7b2379ef61b92dde39.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FBPy4CYl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9c9rfw32psegpe638xsd.jpg)
+[![pro grid](img/ec7ea17953ecde7b2379ef61b92dde39.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FBPy4CYl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9c9rfw32psegpe638xsd.jpg)
 
 我所需要做的就是从报纸上(或者更可能是从网站上)复制这些数字，然后我就开始了另一场“我是不是很聪明？”
 
 我不确定这些阶段持续了多长时间，这是很久以前的事了，但此后不久，我在我的预打印网格中做了进一步的效率。在每个方块的顶部，我添加了数字 1 到 9:
 
-[![efficiency++](../Images/b40aa06d2397afea782d9be574cb0f88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qPQPMTz7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/658e758offmkstl6m1sr.jpg)
+[![efficiency++](img/b40aa06d2397afea782d9be574cb0f88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qPQPMTz7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/658e758offmkstl6m1sr.jpg)
 
 这些数字代表了装着它的盒子里所有可能正确的数字。所有的*我*必须做的是划掉那些被网格中现有数字明确排除的数字，如果我划掉了 9 个数字中的 8 个，那么我知道答案是剩下的一个，这将意味着有可能从同一行、列或方块中划掉多达 19 个其他数字，从而导致潜在的数字填充级联。很多时候，我会在同一行中找到几对相同的数字。这意味着我可以将这些数字从同一行(或正方形或列)的任何其他框中划掉，你明白了吗
 

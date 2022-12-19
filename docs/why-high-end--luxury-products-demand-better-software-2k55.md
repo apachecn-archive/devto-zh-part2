@@ -34,7 +34,7 @@
 
 奢侈品牌传统上对技术发展的适应较慢，认为消费者更喜欢在店内购买高端产品。随着成功品牌的崛起，如[法国倾城](https://www.frenchallure.com/)(在交易所市场上市出售的时尚零售商)，突然冒出来并成功垄断在线市场，奢侈品牌需要跟上。他们需要在网上体现店内体验，并准备好在数字原生代到来之前快速进入新的数字市场。
 
-[![better software ecommerce luxury products](../Images/b35ff89200d501a8695a2d9d1d4bed58.png)T2】](https://apiumhub.com/wp-content/uploads/2018/05/ecommerce-better-software.png)
+[![better software ecommerce luxury products](img/b35ff89200d501a8695a2d9d1d4bed58.png)T2】](https://apiumhub.com/wp-content/uploads/2018/05/ecommerce-better-software.png)
 
 *来源:[法国倾城](https://www.frenchallure.com/)T3】*
 
@@ -60,7 +60,7 @@
 
 维多利亚·格林是电子商务品牌顾问和自由撰稿人。关于电子商务、营销和设计的所有最新发展，问问维多利亚她在忙些什么吧！维多利亚热衷于帮助店主从他们的电子商务业务中获得最大回报。
 
-[![](../Images/0a84a64da4d7a382ae34f86efc979289.png)T2】](https://apiumhub.com/wp-content/uploads/2018/05/victoria.png)
+[![](img/0a84a64da4d7a382ae34f86efc979289.png)T2】](https://apiumhub.com/wp-content/uploads/2018/05/victoria.png)
 
 如果您对电子商务和更好的软件解决方案感兴趣，请在此订阅我们的[月刊](http://eepurl.com/cC96MY)。
 

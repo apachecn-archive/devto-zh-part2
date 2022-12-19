@@ -4,7 +4,7 @@
 
 ## 第一章。云中的第一份工作
 
-[![yzvyagelskaya image](../Images/ea80fd4e9cc0f45ad4861b2dfc4912b7.png)](/yzvyagelskaya) [## 你在云中的第一份工作
+[![yzvyagelskaya image](img/ea80fd4e9cc0f45ad4861b2dfc4912b7.png)](/yzvyagelskaya) [## 你在云中的第一份工作
 
 ### Yulia Zvyagelskaya Aug 18 ' 185min read
 
@@ -12,7 +12,7 @@
 
 ## 第二章。完成工作
 
-[![yzvyagelskaya image](../Images/ea80fd4e9cc0f45ad4861b2dfc4912b7.png)](/yzvyagelskaya) [## 您在云计算领域的第一份工作/2
+[![yzvyagelskaya image](img/ea80fd4e9cc0f45ad4861b2dfc4912b7.png)](/yzvyagelskaya) [## 您在云计算领域的第一份工作/2
 
 ### Yulia Zvyagelskaya 8 月 19 日 1815 分钟阅读
 

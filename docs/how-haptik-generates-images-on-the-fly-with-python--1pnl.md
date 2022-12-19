@@ -26,7 +26,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们取下面的背景图片，并用下面的代码初始化它:
 
-[![Background](../Images/1b3b0ba8fbc93ca0a950013d8bfc326d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--S7-3QoJs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/haptik.ai/tech/wp-content/uploads/2018/01/background.png)T3】
+[![Background](img/1b3b0ba8fbc93ca0a950013d8bfc326d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--S7-3QoJs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/haptik.ai/tech/wp-content/uploads/2018/01/background.png)T3】
 
 ```
 # import required classes 
@@ -67,7 +67,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 下面是执行上述代码后得到的结果:
 
-[![Greeting](../Images/7333beb95a60c7646ca352e35cedc2f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--97FK3h0t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/haptik.ai/tech/wp-content/uploads/2018/01/greeting_card.png)
+[![Greeting](img/7333beb95a60c7646ca352e35cedc2f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--97FK3h0t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/haptik.ai/tech/wp-content/uploads/2018/01/greeting_card.png)
 
 对于某些字体，您可能需要传递一个可选参数 **encoding** ，它告诉 ImageFont 模块在打开字体文件时使用哪种编码。
 
@@ -87,11 +87,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 在工作期间，我最近开发了一个功能，要求即时创建一个排行榜图像**和用户特定的测验分数数据。仅仅用几行代码，我就能创造出这样的图像:**
 
-[![Haptik Weekly Quiz Leaderboard](../Images/3145f98c2e97d7bd1abaa7d787e42e60.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L7LjTT9t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/haptik.ai/tech/wp-content/uploads/2018/01/image_1.png)
+[![Haptik Weekly Quiz Leaderboard](img/3145f98c2e97d7bd1abaa7d787e42e60.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L7LjTT9t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/haptik.ai/tech/wp-content/uploads/2018/01/image_1.png)
 
 瞧啊。它看起来很棒，我们决定将在旅途中创建图像的想法用于其他用例。我们目前使用 Pillow 来生成笑话、励志名言、星座运势、每日一词等图像。实时地使用来自不同 API 响应的数据。
 
-[![Haptik Motivational Quote & Word of the Day](../Images/792ff11c8d5ee3576b6dc7d92143f7c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Th_m1xu1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/haptik.ai/tech/wp-content/uploads/2018/01/image_2.png)
+[![Haptik Motivational Quote & Word of the Day](img/792ff11c8d5ee3576b6dc7d92143f7c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Th_m1xu1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/haptik.ai/tech/wp-content/uploads/2018/01/image_2.png)
 
 我们在这篇文章中使用的代码不足以绘制如上图所示的文本框。我将写**另一篇文章**,重点是文本对齐，将长文本分成多行，控制两行之间的间距等等。
 

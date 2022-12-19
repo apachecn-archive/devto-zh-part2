@@ -8,13 +8,13 @@
 
 集装箱无处不在，它们已经成为“可运输”的简写，实际上，你能想到的几乎所有东西都变成了一个长方形的集装箱，每个角落都有紧固件。
 
-[![Containers](../Images/fa2cf675fe5d378fb98b8cdadb4468d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MQLY1QNz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iuuzfl95wddlz36bph3n.jpg)
+[![Containers](img/fa2cf675fe5d378fb98b8cdadb4468d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MQLY1QNz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iuuzfl95wddlz36bph3n.jpg)
 
 是的，我真的是在谈论物理运输容器，而不是 Docker、Kubernates 或任何这些。这里没有软件，这些是大的金属盒子，最常用来放其他东西的大盒子。但它们不仅仅被用作一个哑盒子——事实上，这种格式已经成为你能想到的几乎所有东西的普遍形状。
 
 使用范围从军用无人机到运输坦克(如大型流体容器、*或*配有大炮的履带式车辆)。有冷藏集装箱。有包含机械车间的容器。有几组包含大型工程车间的容器。有可展开的披萨小屋(真的！)，用集装箱装运。有可运输的厕所和狗窝。甚至还有我最喜欢的，名字很有趣的战术侦察部署图像系统，或 TARDIS -这是一种皇家空军战术图像的移动办公室。这就是“集装箱化”一词的由来。
 
-[![Pizza Hut](../Images/b55faee11feeb4896587aa2761d64c31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--47bwXUql--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vgs1jo41zijaephnijmt.jpg)
+[![Pizza Hut](img/b55faee11feeb4896587aa2761d64c31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--47bwXUql--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vgs1jo41zijaephnijmt.jpg)
 
 所有这些都非常有效，因为一旦某样东西变成了一个集装箱，运输和部署就变得很容易了——因为每个人都在为这个不起眼的集装箱而努力，因为在 ISO 668 和 ISO 1496-1，一群人花了无数个小时才弄清楚集装箱到底应该是什么。
 
@@ -28,7 +28,7 @@
 
 如果你想知道的话，是的，有人把医院塞进了集装箱。然后把它放进一架飞机里。
 
-[![Hospital unloading from Anatov](../Images/0505272eff83ae1ea337cbdb7ad212c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--762XH4B---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ilsxcbteffa5aojobhf2.jpg)
+[![Hospital unloading from Anatov](img/0505272eff83ae1ea337cbdb7ad212c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--762XH4B---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ilsxcbteffa5aojobhf2.jpg)
 
 所发生的是，国际标准组织，ISO，已经把集装箱变成了一种商品。容器本身一点也不有趣。创新已经全部完成，然后被标准工厂磨掉。通过设计，你不能得到好的或坏的容器。他们就是这样。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/davidjcreative/the-ebb-and-flow-of-making-1p2n>
 
-[![A planet with a set of code brackets, a hammer, a comment bubble, and a set of eigth notes orbiting around them.](../Images/4632f656d5d9273e1c549f02bca41464.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oM9e_aWx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u9ni8csv00garexxteb2.jpg)
+[![A planet with a set of code brackets, a hammer, a comment bubble, and a set of eigth notes orbiting around them.](img/4632f656d5d9273e1c549f02bca41464.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oM9e_aWx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u9ni8csv00garexxteb2.jpg)
 
 如果你了解我，你会知道我喜欢做东西。不管是用代码、铅笔、颜料、墨水，还是乐器，我已经做了一辈子了。我想我会分享一些关于过程、反馈和整个心态的情感暗流的想法。
 

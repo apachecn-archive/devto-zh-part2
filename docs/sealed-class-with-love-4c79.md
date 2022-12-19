@@ -8,7 +8,7 @@
 
 ### 什么是密封类？
 
-[![](../Images/8b878ba49fc7a6438be6fb548027ec61.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kKnBZ2Ny--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/hrules6872/Writings/master/5-sealed-class/art/1.png)“密封类用于表示受限类的等级结构……-[心灵爆炸/心灵爆炸](https://www.youtube.com/watch?v=9CS7j5I6aOc)
+[![](img/8b878ba49fc7a6438be6fb548027ec61.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kKnBZ2Ny--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/hrules6872/Writings/master/5-sealed-class/art/1.png)“密封类用于表示受限类的等级结构……-[心灵爆炸/心灵爆炸](https://www.youtube.com/watch?v=9CS7j5I6aOc)
 
 **密封类被称为“类固醇上的枚举类型”** : [它们都是](https://en.wikipedia.org/wiki/Algebraic_data_type)受限层次结构，它们都代表一个集合，它们都是类型，它们都可以包含关联数据，但是…第一个:
 

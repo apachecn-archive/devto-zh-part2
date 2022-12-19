@@ -34,7 +34,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ```
  <p style="height: 100vh">Prints out this usage information.</p>
-  <img class="fadein" src="https://www.google.co.jp/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"> 
+  <img class="fadein" src="https://www.google.co.img/branding/googlelogo/1x/googlelogo_color_272x92dp.png"> 
 ```
 
 Enter fullscreen mode Exit fullscreen mode

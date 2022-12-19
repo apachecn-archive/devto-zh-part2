@@ -12,7 +12,7 @@
 
 **Xamarin。安卓输出**
 
-| [![Xamarin](../Images/a2f74e00172038c0d032c09e5d01dda0.png "Xamarin.Forms") ](https://2.bp.blogspot.com/-WEtVS6tgZas/W3xL9tJi7XI/AAAAAAAAKuc/DZZvGDobWRwV3Dve6bl7qES-edPx1p2FQCLcBGAs/s1600/Outout.gif) |
+| [![Xamarin](img/a2f74e00172038c0d032c09e5d01dda0.png "Xamarin.Forms") ](https://2.bp.blogspot.com/-WEtVS6tgZas/W3xL9tJi7XI/AAAAAAAAKuc/DZZvGDobWRwV3Dve6bl7qES-edPx1p2FQCLcBGAs/s1600/Outout.gif) |
 | Xamarin。机器人|
 
 **先决条件**
@@ -28,7 +28,7 @@
 
 (例如-项目名称- SnackBarDemo)
 
-| [![Xamarin](../Images/36923bf32dfdb331ce18b912b4245d9d.png "Xamarin.Forms") ](https://2.bp.blogspot.com/-0AfRG6fpR_Y/W3xL9SeUWNI/AAAAAAAAKug/v0TYjhZHmuw4wnhOQoPeEPalmDhpks5KgCEwYBhgL/s1600/New%2Bapp.png) |
+| [![Xamarin](img/36923bf32dfdb331ce18b912b4245d9d.png "Xamarin.Forms") ](https://2.bp.blogspot.com/-0AfRG6fpR_Y/W3xL9SeUWNI/AAAAAAAAKug/v0TYjhZHmuw4wnhOQoPeEPalmDhpks5KgCEwYBhgL/s1600/New%2Bapp.png) |
 |图 1 新增项目
 
 **第二步**
@@ -55,7 +55,7 @@
 
 *   插件。电流活动性
 
-| [![Xamarin](../Images/0448fef84625a19e542a13149f11aeec.png "Xamarin.Forms") ](https://3.bp.blogspot.com/-uZMHeUEr9KA/W3xL9BEoaKI/AAAAAAAAKuk/gYDfB_KU06o1iTA5Fzp0gzHavd9JOAnTwCEwYBhgL/s1600/Nuget%2Bpackage%2BAndroid.png) |
+| [![Xamarin](img/0448fef84625a19e542a13149f11aeec.png "Xamarin.Forms") ](https://3.bp.blogspot.com/-uZMHeUEr9KA/W3xL9BEoaKI/AAAAAAAAKuk/gYDfB_KU06o1iTA5Fzp0gzHavd9JOAnTwCEwYBhgL/s1600/Nuget%2Bpackage%2BAndroid.png) |
 |图 2 Nuget 包|
 
 为此，请打开解决方案资源管理器并选择您的 Xamarin。Andriod 项目解决方案。右键单击并选择“管理 nuget 包”。在弹出窗口中，导航“浏览”选项卡并浏览“插件”。CurrentActivity”并选择下面的 nuget 包，然后安装它。
@@ -78,7 +78,7 @@
 
 几秒钟后，应用程序将开始在 Android 模拟器或仿真器上运行，我们将看到应用程序成功工作。
 
-| [![Xamarin](../Images/2e555f0bc6f8179d829295a7c2c48029.png "Xamarin.Forms") ](https://3.bp.blogspot.com/-WEtVS6tgZas/W3xL9tJi7XI/AAAAAAAAKuk/PtkDCV5YW9Us41ecdvsPkKqPffGWGFU-gCEwYBhgL/s1600/Outout.gif) |
+| [![Xamarin](img/2e555f0bc6f8179d829295a7c2c48029.png "Xamarin.Forms") ](https://3.bp.blogspot.com/-WEtVS6tgZas/W3xL9tJi7XI/AAAAAAAAKuk/PtkDCV5YW9Us41ecdvsPkKqPffGWGFU-gCEwYBhgL/s1600/Outout.gif) |
 |【输出】
 
 最终结果将如下所示。

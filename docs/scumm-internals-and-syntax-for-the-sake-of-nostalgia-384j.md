@@ -26,7 +26,7 @@ SCUMM 代表“Maniac Mansion 的脚本创建工具”，顾名思义，它是�
 
 SCUMM 脚本的语法是非常高级的，并且与用它构建的冒险游戏的特征图形界面密切相关:
 
-<figure>[![Screenshot of a scene of Maniac Mansion gameplay.](../Images/b1c4d2d549e3fb37113025062a708a4b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gFOHMa94--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/4419992/38932439-8d028ea0-42ec-11e8-9512-b8736cafa401.jpg) 
+<figure>[![Screenshot of a scene of Maniac Mansion gameplay.](img/b1c4d2d549e3fb37113025062a708a4b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gFOHMa94--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/4419992/38932439-8d028ea0-42ec-11e8-9512-b8736cafa401.jpg) 
 
 <figcaption>
  *狂魔府游戏的一个场景截图，描绘了一个典型的 SCUMM 界面:一个角色，与之交互的对象和动作。* 
@@ -95,7 +95,7 @@ SCUMM 的另一个突出之处是，开发人员可以轻松地将协作式多�
 
 例如，在下一个图像中，我们可以认为每个幽灵海盗和在背景中移动的影子都是独立运行的单独脚本:
 
-[![5ad7c8f06a421525259541](../Images/5b76318d6049a35cec0e6ca98fa476df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9Pk2ft8o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/4419992/38961725-39f60436-4340-11e8-856f-0c0f0f0e91bc.gif)
+[![5ad7c8f06a421525259541](img/5b76318d6049a35cec0e6ca98fa476df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9Pk2ft8o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/4419992/38961725-39f60436-4340-11e8-856f-0c0f0f0e91bc.gif)
 
 这里有一个从 [Gilbert 的演讲](https://www.youtube.com/watch?v=wNpjGvJwyL8)中摘录的脚本，它详细描述了如何让一个时钟滴答作响:
 

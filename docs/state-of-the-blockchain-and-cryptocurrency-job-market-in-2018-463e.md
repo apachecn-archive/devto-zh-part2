@@ -30,7 +30,7 @@
 
 社区经理的崛起很有意思。应聘者有时会误解这个职位的性质，认为它是一份入门级的社交媒体类型的工作。同样，一些公司似乎让社区经理成为一个囊括多种责任的头衔，这一角色失去了价值。
 
-> ![Spencer Noon 🕛 profile image](../Images/21107a9a63f79006c064e3f73707194e.png)斯潘塞中午🕛@ Spencer noon![twitter logo](../Images/65e26e35707d96169ec8af6b3cbf2003.png)“我认为社区是任何加密货币最重要的特征，大多数项目都低估了社区的重要性。”👏🏼👏🏼[link.medium.com/TOyWc4DXuR](https://t.co/89BFe2gxZ4)2018 年 11 月 01 日 20:13 点![Twitter reply action](../Images/5d5a32424597af8488f7190c7d7d496b.png)[![Twitter retweet action](../Images/3d12d4a909b79beaf8d81b6491fd052d.png)](https://twitter.com/intent/retweet?tweet_id=1058089597840830465)[![Twitter like action](../Images/3f89df2f36e8e5624d2a25952b3ac8b8.png)](https://twitter.com/intent/like?tweet_id=1058089597840830465)
+> ![Spencer Noon 🕛 profile image](img/21107a9a63f79006c064e3f73707194e.png)斯潘塞中午🕛@ Spencer noon![twitter logo](img/65e26e35707d96169ec8af6b3cbf2003.png)“我认为社区是任何加密货币最重要的特征，大多数项目都低估了社区的重要性。”👏🏼👏🏼[link.medium.com/TOyWc4DXuR](https://t.co/89BFe2gxZ4)2018 年 11 月 01 日 20:13 点![Twitter reply action](img/5d5a32424597af8488f7190c7d7d496b.png)[![Twitter retweet action](img/3d12d4a909b79beaf8d81b6491fd052d.png)](https://twitter.com/intent/retweet?tweet_id=1058089597840830465)[![Twitter like action](img/3f89df2f36e8e5624d2a25952b3ac8b8.png)](https://twitter.com/intent/like?tweet_id=1058089597840830465)
 
 6/区块链和加密货币工作的首选城市:
 
@@ -85,7 +85,7 @@
 
 **4。网络**
 
-> ![Alex Felix profile image](../Images/e5be91694b37788f160de255707c13a0.png)Alex Felix@ flex thought![twitter logo](../Images/65e26e35707d96169ec8af6b3cbf2003.png)crypto 中不需要冷邮件音高。有很多方法可以虚拟地(slack、twitter、reddit、telegram 等)或在活动和聚会中面对面地交流。2018 年 10 月 29 日上午 00:30[![Twitter reply action](../Images/5d5a32424597af8488f7190c7d7d496b.png)](https://twitter.com/intent/tweet?in_reply_to=1056704847133728768)[![Twitter retweet action](../Images/3d12d4a909b79beaf8d81b6491fd052d.png)](https://twitter.com/intent/retweet?tweet_id=1056704847133728768)[![Twitter like action](../Images/3f89df2f36e8e5624d2a25952b3ac8b8.png)](https://twitter.com/intent/like?tweet_id=1056704847133728768)
+> ![Alex Felix profile image](img/e5be91694b37788f160de255707c13a0.png)Alex Felix@ flex thought![twitter logo](img/65e26e35707d96169ec8af6b3cbf2003.png)crypto 中不需要冷邮件音高。有很多方法可以虚拟地(slack、twitter、reddit、telegram 等)或在活动和聚会中面对面地交流。2018 年 10 月 29 日上午 00:30[![Twitter reply action](img/5d5a32424597af8488f7190c7d7d496b.png)](https://twitter.com/intent/tweet?in_reply_to=1056704847133728768)[![Twitter retweet action](img/3d12d4a909b79beaf8d81b6491fd052d.png)](https://twitter.com/intent/retweet?tweet_id=1056704847133728768)[![Twitter like action](img/3f89df2f36e8e5624d2a25952b3ac8b8.png)](https://twitter.com/intent/like?tweet_id=1056704847133728768)
 
 **5。写**
 

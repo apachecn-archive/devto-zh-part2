@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nancy07/hokuapps-leading-app-development-company-4co>
 
-[![Swift vs Objective-C](../Images/b1e233202cfbd4a5814bc6b9da9c29fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0VkoAiNy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tvygz2k4jsatd8asvnvz.jpg)
+[![Swift vs Objective-C](img/b1e233202cfbd4a5814bc6b9da9c29fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0VkoAiNy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tvygz2k4jsatd8asvnvz.jpg)
 
 HokuApps 是一家技术解决方案合作伙伴，为任何企业开发移动应用，无论业务流程或行业有多复杂。我们的 USP 是，与传统的应用程序开发方法相比，我们创建应用程序的速度要快 10 倍。
 

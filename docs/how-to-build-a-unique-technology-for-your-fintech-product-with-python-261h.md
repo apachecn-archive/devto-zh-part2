@@ -22,7 +22,7 @@
 
 ### 新兴技术的使用:G7 与世界其他地区(ROW)
 
-[![Usage-of-emerging-technologies](../Images/81573ab72d84e6062b741bbf33c6f678.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fg2UO1HP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/08/Img-1--2-.png)
+[![Usage-of-emerging-technologies](img/81573ab72d84e6062b741bbf33c6f678.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fg2UO1HP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/08/Img-1--2-.png)
 
 无论 G7 对金融科技有多么怀疑，科技仍在改变着金融。原因之一是技术更加灵活，能够适应新用户的需求，比如千禧一代的需求和诉求。这一代人有着新的习惯、高度的数字敏感度和数字存在，他们觉得有必要在醒着的每时每刻都保持高效，浪费不起时间，经常旅行，无论身在何处都重视财务自由。
 
@@ -30,7 +30,7 @@
 
 《华尔街日报》在文章中使用的统计数据基本上表明，**移动支付用户在金融方面更活跃，**使用各种金融产品，比非用户赚得更多。与此同时，他们对自己的开销更加粗心，负债累累，甚至从自己的退休账户中取钱。这就是为什么专家预计金融科技将出现一个全新的领域——帮助千禧一代更好地管理他们的资金的简单工具。据报道，使用移动支付的千禧一代面临更大的财务困境和管理不善的风险，尽管他们的收入和教育水平更高。
 
-[![millenial-mobile-payment-users](../Images/bbad9b56fe23d097f1b3e736bdf0182c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ikLUvRTJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/08/Img-2--1-.png)
+[![millenial-mobile-payment-users](img/bbad9b56fe23d097f1b3e736bdf0182c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ikLUvRTJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/08/Img-2--1-.png)
 
 在数字颠覆的时代，金融业必须对新的客户需求特别敏感。当你的服务变得更加普遍和必要时，他们会使用你的服务吗？你现在能创造一个产品，当千禧一代长大并开始赚大钱时，它能成长和发展以服务他们吗？与当前金融体系所针对的一代人一样。当涉及到像**抵押贷款、投资和财富管理这样的分支机构时，这一点尤其重要。**
 
@@ -80,7 +80,7 @@ MVP 完成后，这个技术栈允许修改部分代码。这意味着在您验�
 
 **5。Python 炒作是真的。** Python 将继续发展，让越来越多的专家参与进来，这很好，因为我们保证将来有足够的人来开发和维护我们的产品。根据 [HackerRank 2018 开发者技能报告](https://research.hackerrank.com/developer-skills/2018/)，Python 是程序员接下来要学习的第二种语言，也是金融服务和其他进步行业的前三种语言之一。
 
-[![programming-lenguages-usage-chart](../Images/2b4025caa204d68dae00de9082392256.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4ocEorX4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://djangostars.com/blog/content/images/2018/08/statistic.gif)
+[![programming-lenguages-usage-chart](img/2b4025caa204d68dae00de9082392256.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4ocEorX4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://djangostars.com/blog/conteimg/2018/08/statistic.gif)
 
 > “根据我们的爱恨指数，Python 赢得了所有年龄段开发人员的喜爱。Python 也是开发人员总体上最想学习的语言，相当一部分人已经知道了。”
 > HackerRank

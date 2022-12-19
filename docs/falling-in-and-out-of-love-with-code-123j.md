@@ -8,7 +8,7 @@
 
 当我十岁的时候，我对父亲插在我们家电视机上的 ZX 光谱印象深刻，也感到困惑(想象一下！)在我生日那天早上。这是最早的大众市场计算尝试之一，同时具备基本和强大的功能。我还记得那些印有“砰”和“砰”指令的橡胶按键，它们代表着一种密码，如果我足够好奇的话，有一天我可能会破解这种密码。当我把手伸过机器时，它们会粘在我的手指上；黄色的哔哔声来自一盒磁带，它被一些巫毒魔法变成了屏幕上的游戏。
 
-[![](../Images/ea7094c7337697d1602860ce7036d010.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mgBLyIcU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://d15mu8qrd5jnh5.cloudfront.net/wp-content/uploads/2018/10/ZXSpectrum48k-300x220.jpg)
+[![](img/ea7094c7337697d1602860ce7036d010.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mgBLyIcU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://d15mu8qrd5jnh5.cloudfront.net/wp-content/uploads/2018/10/ZXSpectrum48k-300x220.jpg)
 
 我还未成形的头脑开始认识到这个小盒子作为变形媒介的力量，将一盒磁带(外置)旋转成黄色的嘟嘟声，然后在屏幕上变成游戏。我自己的新生力量将一个精神意图转化为一个命令，进而转化为屏幕上的一个动作。
 
@@ -18,7 +18,7 @@
 
 去离我最近的城市买一本关于如何编程的书，让我在汇编语言的海洋中游泳，毫无准备，困惑，还没有准备好真正的代码。我和我的一群朋友发现了一个基本的解释器，它变成了我们最近精心制作的自选冒险游戏的展示和讲述，基于文本的冒险进入了我们 15 岁自我的思想城堡。互联网甚至不是一个梦想，我们玩得死去活来的理智足球的拷贝仍然存在于 3.5 英寸的软盘上。
 
-[![](../Images/47eeed807e6f48d87c796428214d0881.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--psGdsdxF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://d15mu8qrd5jnh5.cloudfront.net/wp-content/uploads/2018/10/sensible_soccer_renegade_d7_3.jpg)
+[![](img/47eeed807e6f48d87c796428214d0881.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--psGdsdxF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://d15mu8qrd5jnh5.cloudfront.net/wp-content/uploads/2018/10/sensible_soccer_renegade_d7_3.jpg)
 
 ## 加深
 
@@ -28,7 +28,7 @@
 
 寻找一个指针可以指向一个函数，澄清了我后来认为的冯·诺依曼和图灵对一台机器的综合，这台机器以相同的机制保存其数据和指令——这是一条不归路。光是这一点就值回票价了。然而，我仍然相信我的未来将在某个实验室度过，我没有意识到我目前职业的根基正在越来越深。
 
-[![](../Images/6df5658b5cfb9973a0e80354f30a5192.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZA6Q6kC7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://d15mu8qrd5jnh5.cloudfront.net/wp-content/uploads/2018/10/pointer-memory-representation.png)
+[![](img/6df5658b5cfb9973a0e80354f30a5192.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZA6Q6kC7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://d15mu8qrd5jnh5.cloudfront.net/wp-content/uploads/2018/10/pointer-memory-representation.png)
 
 去了几个实验室后，我才明白物理学博士并不适合我。所以我更加慎重地转向了代码，取得了高性能计算的硕士学位。此后的第一份工作是在一家管理糟糕的小型咨询公司，我重建了一个主要爱尔兰政府部门的网站——也第一次体验到了编程的倦怠。
 
@@ -50,7 +50,7 @@
 
 在我职业生涯的最后十年里，技术领域发生了翻天覆地的变化。无处不在的移动计算。云上的廉价服务器。无限的存储和处理能力。几个按键就能安装的免费库，可以做你需要的任何事情。面对这一切，全球带宽问题似乎是一个彻底的失败。
 
-[![](../Images/2709ffeb0038b1b2af5fdad419bb6704.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FyjBBRaj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://d15mu8qrd5jnh5.cloudfront.net/wp-content/uploads/2018/10/how-to-quickly-learn-a-new-programming-language-or-framework-872a01a168e5fd43647a146e95a6f7db60f58cd9c58627dbc9602d6fa1da0d1c-300x169.jpg)
+[![](img/2709ffeb0038b1b2af5fdad419bb6704.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FyjBBRaj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://d15mu8qrd5jnh5.cloudfront.net/wp-content/uploads/2018/10/how-to-quickly-learn-a-new-programming-language-or-framework-872a01a168e5fd43647a146e95a6f7db60f58cd9c58627dbc9602d6fa1da0d1c-300x169.jpg)
 
 在那段时间里，我被 C#(一种为 Java 难民设计的漂亮语言)迷住了，被 Wordpress 迷惑了，被 PHP 扭曲了。更不用说看 Javascript 了——Javascript！-统治世界。他们都有可爱的怪癖。它们都有粗糙的边缘。我对他们又爱又恨。
 

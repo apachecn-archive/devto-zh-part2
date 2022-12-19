@@ -6,7 +6,7 @@
 
 *   [第二部分](https://dev.to/plutov/packagemain-13-microservices-with-go-kit-part-2-4lgh)
 
-[![Microservices with go-kit. Part 1](../Images/b31510e7d42e407db11ef712767087fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ChqY0k13--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cg9nkmnnb38x5iubcs78.jpg)
+[![Microservices with go-kit. Part 1](img/b31510e7d42e407db11ef712767087fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ChqY0k13--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cg9nkmnnb38x5iubcs78.jpg)
 
 如今，微服务是软件架构领域最流行的术语之一。
 

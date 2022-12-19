@@ -54,7 +54,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 #### 制作了 001■模块的字节码
 
-[![elixir_08_001.png](../Images/04628f3a841d16ba1da4dbfd243f4a65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0Hkq4fuq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/781rg4ji2o5jnseq2irt.png)
+[![elixir_08_001.png](img/04628f3a841d16ba1da4dbfd243f4a65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0Hkq4fuq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/781rg4ji2o5jnseq2irt.png)
 
 之后启动`iex`，则读取该目录中的字节码文件(`.beam`)，模块也可以使用。
 

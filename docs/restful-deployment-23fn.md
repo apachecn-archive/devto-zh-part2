@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/maikmichel/restful-deployment-23fn>
 
-[![](../Images/0fae7aa61313d042d1690da2a4305161.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dg3ucgPL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://micodify.de/media/posts/10/ords_logo.png)
+[![](img/0fae7aa61313d042d1690da2a4305161.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dg3ucgPL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://micodify.de/media/posts/10/ords_logo.png)
 
 多年来，我一直是 APEX 的狂热粉丝。和每个 APEX 粉丝一样，我在 APEX[apex.oracle.com](https://apex.oracle.com)也有一个工作空间。在这里，Oracle 提供了了解 APEX 和主持小型演示项目的可能性。您可以随心所欲地在工作区内进行切换和管理。然而，Oracle 在这里没有提供通过 IDE 或 SQLPlus 对数据库/模式的外部访问。当然，否则 Oracle 将不得不发布 DB 侦听器的端口。
 
@@ -14,15 +14,15 @@
 
 首先，我们创建一个 RESTful 服务。在 SQL-Workshop 中，我们转到 RESTful Services 并单击 Create。现在我们定义一个 RESTful 服务模块。
 
-[![](../Images/041d4d453efec341ccb717ae16ad0568.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0L2npmXO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://micodify.de/media/posts/10/2018-02-12-20_34_30-RESTful-Service-Module.png)
+[![](img/041d4d453efec341ccb717ae16ad0568.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0L2npmXO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://micodify.de/media/posts/10/2018-02-12-20_34_30-RESTful-Service-Module.png)
 
 然后我们定义一个资源模板。
 
-[![](../Images/95f82d80c1e32e2a195764101866c851.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AziPgOpt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://micodify.de/media/posts/10/2018-02-12-20_34_49-Resource-Template.png)
+[![](img/95f82d80c1e32e2a195764101866c851.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AziPgOpt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://micodify.de/media/posts/10/2018-02-12-20_34_49-Resource-Template.png)
 
 最后，我们定义一个资源处理器。
 
-[![](../Images/8525954731c6d629da312c990d298f37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xFZvzqom--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://micodify.de/media/posts/10/2018-02-12-20_35_51-Resource-Handler.png)
+[![](img/8525954731c6d629da312c990d298f37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xFZvzqom--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://micodify.de/media/posts/10/2018-02-12-20_35_51-Resource-Handler.png)
 
 这个资源处理程序由下面几行代码作为源代码填充。
 
@@ -126,7 +126,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果我现在编辑我的代码并选择了合适的构建系统，一个简单的 Ctrl+B 就足以将我的包或任何东西放到云中。例如，如果你想为 ALEXA 编写一个技能，但只能通过 web 界面访问数据库，这是非常有用的。
 
-[![](../Images/f328b819b8f3dfb8f8d14eb658f73d9c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EVft4pEV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://micodify.de/media/posts/10/sublime_build.gif)
+[![](img/f328b819b8f3dfb8f8d14eb658f73d9c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EVft4pEV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://micodify.de/media/posts/10/sublime_build.gif)
 
 解决方案并不完美，您永远不应该在生产环境中这样做。谁知道这个网址是在最坏的情况下掌握你的数据库！
 

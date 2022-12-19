@@ -177,7 +177,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果没有自动触发，输入`p10k configure`。
 
-[![Wizard](../Images/aff660c49f067c15d034af8206420d2e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YG9Af61B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/mtrv39dhe0f0b5pe2shs.gif)
+[![Wizard](img/aff660c49f067c15d034af8206420d2e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YG9Af61B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/mtrv39dhe0f0b5pe2shs.gif)
 
 配置向导根据您的偏好创建~/.p10k.zsh。通过编辑该文件，可以进行额外的提示定制。它有大量的注释来帮助您浏览配置选项。
 
@@ -214,7 +214,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 强烈推荐参加由 [@WesBoss](https://twitter.com/wesbos) 制作的**免费**课程:
 
-> ![Wes Bos profile image](../Images/8706e6fb8ba89ac39a1d26bc37d8d75c.png)韦斯博斯[@韦斯博斯](https://dev.to/wesbos)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)发布命令行超级用户:一个免费的命令行工作流程视频系列→[CommandLinePowerUser.com](http://t.co/bukPp3Lkvq)2015 年 04 月 13:56 分[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=583629194837372929)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=583629194837372929)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=583629194837372929)
+> ![Wes Bos profile image](img/8706e6fb8ba89ac39a1d26bc37d8d75c.png)韦斯博斯[@韦斯博斯](https://dev.to/wesbos)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)发布命令行超级用户:一个免费的命令行工作流程视频系列→[CommandLinePowerUser.com](http://t.co/bukPp3Lkvq)2015 年 04 月 13:56 分[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=583629194837372929)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=583629194837372929)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=583629194837372929)
 
 ### 备忘单(快捷键)
 
@@ -289,7 +289,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 奖金追踪
 
-[![equiman](../Images/ebe835e1ec966206e00a01bb329a3e86.png)](/equiman) [## 为开发设置 macOS
+[![equiman](img/ebe835e1ec966206e00a01bb329a3e86.png)](/equiman) [## 为开发设置 macOS
 
 ### 卡米洛马丁内斯 9 月 26 日 188 分钟阅读
 
@@ -300,4 +300,4 @@ Enter fullscreen mode Exit fullscreen mode
 **都是乡亲们！**
 **快乐编码** 🖖
 
-[![beer](../Images/192892baef71a32ea4a5e98a4927b05e.png)T2】](https://github.com/sponsors/deinsoftware)
+[![beer](img/192892baef71a32ea4a5e98a4927b05e.png)T2】](https://github.com/sponsors/deinsoftware)

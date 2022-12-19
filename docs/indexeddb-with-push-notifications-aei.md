@@ -17,7 +17,7 @@ self.addEventListener('push', function(event) {
         const pushTitle = "A simple push notification";
         const pushOptions = {
             body: "push content body",
-            icon: "./images/logo-192x192.png",
+            icon: img/logo-192x192.png",
             vibrate: [100,50,100],
         };
 
@@ -101,7 +101,7 @@ Enter fullscreen mode Exit fullscreen mode
 我们创建一个函数来查询地理位置，并使用我们之前创建的助手 idb Promise 将其作为对象存储在我们的 **deviceGeolocation** 数据库中。现在我们可以在应用程序中任何我们认为合适的地方使用`calculateGeoLocation`。我们甚至可以每隔一段时间运行一次，或者作为对用户操作的响应。在我的情况下，我通常会要求地理定位，作为与用户驱动的操作相关的应用程序启动过程的一部分。
 
 这是它在 Chrome **应用标签**
-[![IndexDB table geolocations database, not creepy at all](../Images/911423e4745892d30d88bacd26f7e8c6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yi4mZopt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tvdwjm3l4f40huf0az8u.png) 中的样子
+[![IndexDB table geolocations database, not creepy at all](img/911423e4745892d30d88bacd26f7e8c6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yi4mZopt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tvdwjm3l4f40huf0az8u.png) 中的样子
 
 ### 地理定位 API 注释
 

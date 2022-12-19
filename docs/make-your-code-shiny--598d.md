@@ -192,7 +192,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 随意添加更多的小工具(请看这里的[这里的](https://shiny.rstudio.com/gallery/widget-gallery.html)有大量的选择)然后你就可以开始使用你的第一个基本的 ***闪亮的应用***
 
-[![Alt final shiny app](../Images/f771812cbea3369a62256a2b8914e24b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qga6Rs_n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0kjv1xovo602nu1onx35.png)
+[![Alt final shiny app](img/f771812cbea3369a62256a2b8914e24b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qga6Rs_n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0kjv1xovo602nu1onx35.png)
 
 下面的代码...
 

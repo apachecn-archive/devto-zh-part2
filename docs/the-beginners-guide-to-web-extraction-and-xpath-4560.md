@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/brettclawson75/the-beginners-guide-to-web-extraction-and-xpath-4560>
 
-[![computer data](../Images/886840cd28ddf0550fedc2f3545fbc1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lapttwN7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ik0uktoen6pckg8r4dyu.jpeg)
+[![computer data](img/886840cd28ddf0550fedc2f3545fbc1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lapttwN7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ik0uktoen6pckg8r4dyu.jpeg)
 
 **Web 提取和 XPATH 初学者指南**
 

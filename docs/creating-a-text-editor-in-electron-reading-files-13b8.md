@@ -85,7 +85,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在第三行中，我只需要我的模块`readTitles`,它只是读取标题并将它们作为数组对象返回。我浏览它们，创建一个列表元素，然后添加一个事件监听器，将文件内容注入到`#content`中
 
-[![](../Images/75715ca96cc0c1e9528dd0c4b7c7a351.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PrXpZTU4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7cu9ru56acuath88r4m0.gif)
+[![](img/75715ca96cc0c1e9528dd0c4b7c7a351.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PrXpZTU4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7cu9ru56acuath88r4m0.gif)
 
 我认为这是结束本入门教程的一个好点。
 
@@ -103,7 +103,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在 [github 查看代码。分支:第一部分](https://github.com/aurelkurtula/Texty/tree/part1)
 
-[![aurelkurtula image](../Images/e1a1b48b6a401b86d5a91c8729e26a35.png)](/aurelkurtula) [## 在 electronic 中创建文本编辑器:第 2 部分-编写文件
+[![aurelkurtula image](img/e1a1b48b6a401b86d5a91c8729e26a35.png)](/aurelkurtula) [## 在 electronic 中创建文本编辑器:第 2 部分-编写文件
 
 ### aurel Kurt ula 9 月 9 日 187 分钟阅读
 

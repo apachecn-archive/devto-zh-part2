@@ -28,7 +28,7 @@
 
 不久前，‏的吉列尔莫·劳赫发了一条推文，这条推文对我很有启发:
 
-[![](../Images/19e4b2b3c068b5a75da2e77f4ee97f27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--67Xp14g_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2Af28JWk8cGmCHavh-.png)
+[![](img/19e4b2b3c068b5a75da2e77f4ee97f27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--67Xp14g_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2Af28JWk8cGmCHavh-.png)
 
 只用了几句话，他就能够总结出我自己关于如何对待测试的哲学。尤其是在不支持测试作为开发过程核心部分的团队中。
 
@@ -40,7 +40,7 @@
 
 一个经常共享的模型展示了不同形式的测试，这就是所谓的**测试金字塔**:
 
-[![](../Images/c7af0256e1e8d528fa3a6ed7cc0a2e44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HiVET7q8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/381/0%2AO7xfeXrY9Y-Rlswn.png)
+[![](img/c7af0256e1e8d528fa3a6ed7cc0a2e44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HiVET7q8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/381/0%2AO7xfeXrY9Y-Rlswn.png)
 
 该图通常用于强调拥有覆盖整个代码库的小型快速单元测试的重要性，其中一些集成测试用于“填补空白”，一些 E2E 测试用于将所有内容联系在一起。或者，如果我们按照*客户价值*(根据产品完整功能的确定性)和*成本*(花费的精力)来分解图表，我们会得到以下结果:
 
@@ -52,7 +52,7 @@
 
 如果我们以一种更好地代表这种新的心理模型的方式重新绘制这张图，我们可能会得到如下结果(如 [Kent C. Dodds](https://twitter.com/kentcdodds) 所分享的):
 
-[![](../Images/ed74a8b0048426a2b0f659a96a697f56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3gqBEvqE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/679/0%2An1x0fMUFBvNqUgpu.jpg)
+[![](img/ed74a8b0048426a2b0f659a96a697f56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3gqBEvqE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/679/0%2An1x0fMUFBvNqUgpu.jpg)
 
 下面是这个新图表的解释:
 

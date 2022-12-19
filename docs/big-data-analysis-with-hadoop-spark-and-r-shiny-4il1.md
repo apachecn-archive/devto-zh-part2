@@ -135,11 +135,11 @@ Enter fullscreen mode Exit fullscreen mode
 1.  [下载 Sqoop 的最新版本](http://www.apache.org/dyn/closer.lua/sqoop/1.4.7)。(我下载了二进制`*.tar.gz`文件。)解压文件并将其移动到`C:\Sqoop`中。
 2.  更新你的系统环境变量，添加`SQOOP_HOME`作为你刚刚解压到`C:\Sqoop`的目录(应该是类似`C:\Sqoop\sqoop-1.4.7.bin__hadoop-2.6.0`):
 
-    [![](../Images/e26b525f6994c0213e84cd6bfa9d6a6f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aQdUleJs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cnmqszpz5z8ubosjqh21.PNG)
+    [![](img/e26b525f6994c0213e84cd6bfa9d6a6f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aQdUleJs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cnmqszpz5z8ubosjqh21.PNG)
 
     并通过追加`%SQOOP_HOME%\bin`将 Sqoop 添加到您的`%PATH%`:
 
-    [![](../Images/139c2e79ca9516a324b90866a912e475.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mnD-HuqN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kz1b1angvafizzb3w8e3.PNG)
+    [![](img/139c2e79ca9516a324b90866a912e475.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mnD-HuqN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kz1b1angvafizzb3w8e3.PNG)
 
 3.  通过打开一个新的`cmd`窗口并键入
     来验证安装
@@ -215,7 +215,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 使用`http://`获取文件。请注意，这里您的端口不同于上面用于`hdfs://`的端口，实际上是可以在浏览器中用于管理 HDFS 集群的相同端口:
 
-[![](../Images/bdeff966cd89da0a7828c57e1e04d7c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0t3aRfMl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eix577e6txsa0rqousyk.PNG)
+[![](img/bdeff966cd89da0a7828c57e1e04d7c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0t3aRfMl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eix577e6txsa0rqousyk.PNG)
 
 通过`http://`在 HDFS 上访问的任何文件都必须附加有`/webhdfs/v1`。所以，举例来说，`/example_data/example_xlsx.xlsx`会变成`/webhdfs/v1/example_data/example_xlsx.xlsx`。最后，我们需要将`?op=OPEN`添加到 URI 的末尾，这样`curl`就知道我们想要打开并读取这个文件:
 
@@ -280,7 +280,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在 RStudio 中运行该应用程序，您将获得...
 
-[![](../Images/49ce5d4be1b8ce006f1a78f390a1b466.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QQqmurq2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wv2teaobae8iu4lb9fd5.PNG)
+[![](img/49ce5d4be1b8ce006f1a78f390a1b466.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QQqmurq2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wv2teaobae8iu4lb9fd5.PNG)
 
 哒哒！它只是工作。我们所要做的就是在`server.R`中设置`sparkR.session`,我们可以访问之前在普通 R shell 中运行的相同命令。**注意，使用`collect()`将`SparkDataFrame`转换为`data.frame`意味着[已经从 HDFS](https://markobigdata.com/2016/03/26/sparkr-and-r-dataframe-and-data-frame/) 收集了数据，并保存在内存中供 R 使用！**有时，这可能是您想要的(但通常不是，如果您正在处理巨大的数据集)。在转换为 R `data.frame`之前，最好尽可能多地使用[操作`SparkDataFrame`。](https://spark.apache.org/docs/latest/sparkr.html#sparkdataframe-operations)
 
@@ -303,4 +303,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 ...这将在您的浏览器中弹出如下窗口:
 
-[![](../Images/16eefac53a518283b3f0a82c31735565.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I7CLd9WC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yaxodu6m5jew8yno2m7e.PNG)
+[![](img/16eefac53a518283b3f0a82c31735565.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I7CLd9WC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yaxodu6m5jew8yno2m7e.PNG)

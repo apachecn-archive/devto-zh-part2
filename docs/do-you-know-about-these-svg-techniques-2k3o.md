@@ -85,16 +85,16 @@ Enter fullscreen mode Exit fullscreen mode
 
 你可以看到它们是多么的不同:
 **原 SVG**
-[![](../Images/7d79e3f7f43d1a0e3a898db09098b53d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OvuwoGxh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://svgshare.com/i/7Sp.svg)
+[![](img/7d79e3f7f43d1a0e3a898db09098b53d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OvuwoGxh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://svgshare.com/i/7Sp.svg)
 [https://svgshare.com/i/7Sp.svg](https://svgshare.com/i/7Sp.svg)
 
 (显示的图像不是 SVG...图像主机将其转换为 png...)
 
 **无 HiDPI 技术**
-[![](../Images/257475d30b2612b431ae343b4a366505.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tSQ2DCoB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/vzps1C7.png)
+[![](img/257475d30b2612b431ae343b4a366505.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tSQ2DCoB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/vzps1C7.png)
 
 **用 HiDPI 手法**
-[![](../Images/49a554870468f0c8e7fe953380df3420.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UeAQWVLY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/UsQSmgN.png)
+[![](img/49a554870468f0c8e7fe953380df3420.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UeAQWVLY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/UsQSmgN.png)
 
 你能看出区别吗？如果您关注“F”的提示，您会注意到最后一个与原始 SVG 更加匹配。
 
@@ -114,11 +114,11 @@ CSS 可以嵌入到 SVG 中来控制样式。随着 css3 [@import](https://devel
 
 > 因为您可能在本地安装了字体系列，所以我明确地删除了`@import`来演示。
 
-[![](../Images/8bc90326e0e2b6b463a3f123d0b49028.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PW6qLdhV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://svgshare.com/i/7RH.svg)
+[![](img/8bc90326e0e2b6b463a3f123d0b49028.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PW6qLdhV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://svgshare.com/i/7RH.svg)
 
 **带预取**
 
-[![](../Images/510318a6342a706ce2a2b45fdf1de11f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wJuvEFsN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://svgur.com/i/7Sp.svg)
+[![](img/510318a6342a706ce2a2b45fdf1de11f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wJuvEFsN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://svgur.com/i/7Sp.svg)
 
 ## 就是这样
 

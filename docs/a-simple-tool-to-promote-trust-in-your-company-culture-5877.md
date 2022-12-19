@@ -8,7 +8,7 @@
 
 在过去的几年里，技术有了显著的发展，给了我们更多的灵活性。协作工具支持异步工作，Slack 帮助我们保持联系，会议呼叫比以往任何时候都更容易。在同一时间同一地点工作的需求正在消失，人们理所当然地寻找更好的工作安排。
 
-[![Employees want flexibility, not ping-pong tables](../Images/a72aa279e4a4acbfe2b32d7fdabd2c73.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QbNtWDpv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wsaxt2k2wphfq9vnzuf2.png)
+[![Employees want flexibility, not ping-pong tables](img/a72aa279e4a4acbfe2b32d7fdabd2c73.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QbNtWDpv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wsaxt2k2wphfq9vnzuf2.png)
 
 远程工作和弹性工作时间正成为公司吸引和留住人才的终极福利。最重要的是，这也是一个很好的方式来支持那些不能朝九晚五工作的人，并创造公平的竞争环境。具有复杂管理层次的传统组织正在消失，取而代之的是更小的自治团队，他们可以更好更快地执行。但这意味着我们需要新的工具来促进公司的愿景，并确保我们都朝着相同的目标努力。
 
@@ -18,7 +18,7 @@
 
 防止这种情况的最简单的方法是尽早地、经常地重复策略、重复目标。我知道这听起来很无聊，但是很有效。每个人都很忙，许多不可预见的问题会出现在我们的路线图上。这就是为什么我们需要定期提醒“为什么”,因为既要解决问题又要思考为什么会有问题真的很难。
 
-[![This is why you should not interrupt a programmer](../Images/639ed0a0645b08e39eb48886bd4b77d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fZwJdafQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w5s0oy6k0oi2a1h3sccj.jpg)
+[![This is why you should not interrupt a programmer](img/639ed0a0645b08e39eb48886bd4b77d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fZwJdafQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w5s0oy6k0oi2a1h3sccj.jpg)
 
 ## 我们为此打造了什么
 
@@ -34,7 +34,7 @@
 
 因此，简而言之，Squadlytics 是一个目标跟踪平台，它发送提醒以确保(a)你知道你的目标,( b)你知道你取得了多少进展,( c)你知道你的团队/公司的优先事项。
 
-[![Squadlytics dashboard](../Images/25a5aaa09a24c473dbbf189aa125a27c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eWc9_01O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d51ezm0dghnaw203jt2h.png)
+[![Squadlytics dashboard](img/25a5aaa09a24c473dbbf189aa125a27c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eWc9_01O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d51ezm0dghnaw203jt2h.png)
 
 要使用 Squadlytics，您只需执行以下操作:
 
@@ -44,7 +44,7 @@
 
 我们保持更新超级简单，使用交通灯的颜色来表明你是否在轨道上，处于危险中或偏离轨道。
 
-[![Squadlytics update](../Images/84b38e93bec818525dc2562d29bdff4d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iDl7si_N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ix5t3kn0yxk54atjmai5.png)
+[![Squadlytics update](img/84b38e93bec818525dc2562d29bdff4d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iDl7si_N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ix5t3kn0yxk54atjmai5.png)
 
 最后但并非最不重要的是，我们有一个机器人会自动提醒你，如果你忘记更新目标，它会降低你的目标状态😬。我们仍在试验这一点，但我们正试图添加内置机制，以帮助保持团队的责任感。
 

@@ -174,8 +174,8 @@ Enter fullscreen mode Exit fullscreen mode
 运行这个代码的多个版本(使用不同的 IP)应该会给你一个界面(在 consul 中)
 如下所示:
 
-[![All services](../Images/b3c3ce6d03c6cf3f43d71aef31b4ba54.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4txib7_g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lanre.wtf/img/log/allservices.png)
-[![Deeper view of all services](../Images/0b6bdd3ceb68598be456d576b2520f60.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s---0xdsEnO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lanre.wtf/img/log/running_services.png)
+[![All services](img/b3c3ce6d03c6cf3f43d71aef31b4ba54.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4txib7_g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lanre.wtf/img/log/allservices.png)
+[![Deeper view of all services](img/0b6bdd3ceb68598be456d576b2520f60.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s---0xdsEnO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lanre.wtf/img/log/running_services.png)
 
 ### 那么负载平衡器在这一切中扮演什么角色呢？
 
@@ -200,7 +200,7 @@ Fabio 有一个 web ui，在`:9998`上公开，负载平衡器在`:9999`上公�
 
 运行上面的服务的 3 个实例，fabio 产生下面的 UI
 
-[![Fabio](../Images/b1c273de881ce4d2f64c9605561118be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O1xHC2Vh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lanre.wtf/img/log/fabio.png)
+[![Fabio](img/b1c273de881ce4d2f64c9605561118be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O1xHC2Vh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lanre.wtf/img/log/fabio.png)
 
 > 你显然不想让`:9998`暴露在外面工作..一个可以用来查看它的技巧是 ssh 隧道。
 > `ssh -N -f -L 9998:localhost:9998 lanre@IPadress`...立即在您的电脑上访问`localhost:9998`

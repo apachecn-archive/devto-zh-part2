@@ -14,7 +14,7 @@ Apispec 的设计使得为特定用例扩展核心功能变得容易。我扩展
 
 我们认为事情比看起来更困难。对于我们以前没有见过的问题，更是如此。后退一步。深呼吸。把问题分解成更小的部分。你能行的。
 
-[![Motivational You Got This poster with dog](../Images/1bed31e2248b025a508181017a0a4baf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CR7jO60Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://alysivji.github.io/images/30-39/35_you_got_this.jpg)
+[![Motivational You Got This poster with dog](img/1bed31e2248b025a508181017a0a4baf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CR7jO60Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://alysivji.github.img/30-39/35_you_got_this.jpg)
 
 在这个[快速点击](https://alysivji.github.io/category/quick-hits.html)中，我们将通过一个简单的插件系统实现。
 
@@ -34,13 +34,13 @@ Apispec 的设计使得为特定用例扩展核心功能变得容易。我扩展
 
 我们有一个程序，它启动，做一些事情，然后退出。
 
-[![Program Flow](../Images/3538d41c92276f3636c4fc9a88941221.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uYZaVcuO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://alysivji.github.io/images/30-39/35_program-workflow.png)
+[![Program Flow](img/3538d41c92276f3636c4fc9a88941221.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uYZaVcuO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://alysivji.github.img/30-39/35_program-workflow.png)
 
 ### 插件架构工作流程
 
 我们将业务逻辑重构为一个插件框架，可以运行注册的插件。插件需要满足我们的框架定义的规范才能运行。
 
-[![Program flow with Plugin](../Images/8c68f1ba3ae85025344ab657404822d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g2ELz94k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://alysivji.github.io/images/30-39/35_program-workflow-plugin-system.png)
+[![Program flow with Plugin](img/8c68f1ba3ae85025344ab657404822d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g2ELz94k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://alysivji.github.img/30-39/35_program-workflow-plugin-system.png)
 
 * * *
 

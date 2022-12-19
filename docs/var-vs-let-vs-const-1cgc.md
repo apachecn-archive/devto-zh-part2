@@ -43,4 +43,4 @@ As you can see above, there are a few exceptions. If you have declared a string 
 Message's properties can be modified, or added but message cannot be redeclared into a integer with a value of 100.
 
 下面是我做的一个小小的图表:
-[![Js object dec chart](../Images/538010782c20293a6b894d639fd5f139.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iXtlVIc9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/808rhhq4f2ebwc9bp719.jpeg)
+[![Js object dec chart](img/538010782c20293a6b894d639fd5f139.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iXtlVIc9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/808rhhq4f2ebwc9bp719.jpeg)

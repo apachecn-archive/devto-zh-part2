@@ -20,14 +20,14 @@
 
 故事是这样的。下周我将乘坐国泰航空公司的飞机去旧金山。)。不幸的是，我的机票票价类型是 S 类(经济舱)，不符合提前预订座位的要求:(
 
-[![](../Images/26774b6ed36fa9d5a49855d7da873c0c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SceyF1QD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/F4uzE0l.png%255D)
-[![](../Images/569070484f64e2e19379f06dc7608a85.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--TeiDGwv6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/svZLJhM.png)
+[![](img/26774b6ed36fa9d5a49855d7da873c0c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SceyF1QD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/F4uzE0l.png%255D)
+[![](img/569070484f64e2e19379f06dc7608a85.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--TeiDGwv6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/svZLJhM.png)
 
 ### 我要靠窗的座位！！！
 
 也许我可以查一下还有靠窗的座位吗？所以我去了国泰航空的网站，输入了我的订票信息。然后我点击了“选择座位”按钮，这是我看到的:
 
-[![](../Images/355030bbfe72ad005c2a6633eb06a312.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FANyfHb9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Cp9chS2.png) 
+[![](img/355030bbfe72ad005c2a6633eb06a312.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FANyfHb9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Cp9chS2.png) 
 *不不不不不*
 
 ### 所有的座位都没有了？
@@ -40,9 +40,9 @@
 
 所以我点击“网络”标签，搜索座位图的 HTTP 请求。瞧啊。这是我的发现:
 
-[![](../Images/c1011a85b5a5a8e74784b5625779c73a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hs5rWN0C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/YvpiDjo.png) 
+[![](img/c1011a85b5a5a8e74784b5625779c73a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hs5rWN0C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/YvpiDjo.png) 
 *座位图的 JSON 结果*
-[![](../Images/795c75643a410ac304224e7b8f8eb707.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--u45SziJQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/uq0K5xm.png) 
+[![](img/795c75643a410ac304224e7b8f8eb707.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--u45SziJQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/uq0K5xm.png) 
 *座位图的 API URL(部分个人数据被隐藏)*
 
 这是让一切变得有趣的部分。如果我将`bookingClass`从`S`(经济舱，不符合座位请求条件)更改为`L`(经济舱，符合座位请求条件)，会怎么样？
@@ -51,7 +51,7 @@
 
 ### 号错误。消息。
 
-[![](../Images/55c83c313cb801501bb6ddeb926015fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AzAMpz_S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Al8-zA0uI4PmrkGQ8FC9UUA.png)
+[![](img/55c83c313cb801501bb6ddeb926015fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AzAMpz_S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Al8-zA0uI4PmrkGQ8FC9UUA.png)
 
 它返回完整的座位图。但是这一次，JSON 结果略有不同。
 
@@ -61,13 +61,13 @@
 
 在 CSS 和 JavaScript 的帮助下，我终于看到了这个:
 
-[![](../Images/4a4912d538d2c85ba5b2c1e42dc9e433.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r1p18R5U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/VwjpDZ2.png)
+[![](img/4a4912d538d2c85ba5b2c1e42dc9e433.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r1p18R5U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/VwjpDZ2.png)
 
 任务完成！可以在这里查看一下演示:[https://button-dew . glitch . me](https://button-dew.glitch.me)，([来源](https://glitch.com/edit/#!/button-dew))。
 
 ### 额外:API 的安全性如何？
 
-[![](../Images/2fba58960c6869f24cd3c71748809b44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kTBR389Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/J3ej3b4.png)
+[![](img/2fba58960c6869f24cd3c71748809b44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kTBR389Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/J3ej3b4.png)
 
 由于某种原因，`currency`、`familyName`、`givenName`、`passengerId`、`passengerType`都不需要。
 
@@ -83,7 +83,7 @@
 
 ### 【更新:2018 年 11 月 2 日】好吧，我错了。这不安全。
 
-[![](../Images/e4f33272bb38c93817a3f0c167340612.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3SY8FlH2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AGGDZ3DjkigxYEi3QeLZctg.png)
+[![](img/e4f33272bb38c93817a3f0c167340612.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3SY8FlH2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AGGDZ3DjkigxYEi3QeLZctg.png)
 
 没有。这一点都不好。
 
@@ -97,7 +97,7 @@
 
 * * *
 
-[![](../Images/c7ed2a5387244df913361c235153124d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1vXKJkMC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AQFhn3NEZJcPvaxqISNUoMg.png) 
+[![](img/c7ed2a5387244df913361c235153124d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1vXKJkMC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AQFhn3NEZJcPvaxqISNUoMg.png) 
 *这是他们告诉我的…*
 
 * * *
@@ -108,5 +108,5 @@
 
 * * *
 
-[![](../Images/9d71a5621548f9b0f71df0081bde8b79.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--urv1uhoC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/uPNmpFy.jpg) 
+[![](img/9d71a5621548f9b0f71df0081bde8b79.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--urv1uhoC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/uPNmpFy.jpg) 
 *但是不，我不想见到你，卡尔。(那是躲在浓雾后面的金门大桥)。—2017 年 5 月*

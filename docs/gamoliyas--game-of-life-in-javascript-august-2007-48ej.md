@@ -4,7 +4,7 @@
 
 “Gamoliyas”是一个完全用 DHTML (HTML，CSS 和 JavaScript)编写的开源康威生活游戏版本(高度可配置)。
 
-[![Screenshot](../Images/4af0b78906e2275ab5c0e14340673953.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W7_ChwA6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://dhtmlgames.com/gamoliyas/gamoliyas.gif)
+[![Screenshot](img/4af0b78906e2275ab5c0e14340673953.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W7_ChwA6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://dhtmlgames.com/gamoliyas/gamoliyas.gif)
 
 这是我的第九个 DHTML 游戏，制作于 2007 年中期。
 

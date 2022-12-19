@@ -6,7 +6,7 @@
 
 这个帖子让我认真思考了一下:
 
-[![alshakero](../Images/46f1b411080b15a242630efa352c5e1c.png)](/alshakero) [## React 的错误和警告信息的真正乐趣
+[![alshakero](img/46f1b411080b15a242630efa352c5e1c.png)](/alshakero) [## React 的错误和警告信息的真正乐趣
 
 ### 奥马尔·阿尔沙克尔 7 月 7 日 186 分钟阅读
 

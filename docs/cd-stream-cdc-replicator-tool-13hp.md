@@ -12,7 +12,7 @@
 
 > **会不会是您向生产支持部门提出的要解决的长时间运行缓慢的查询？或者是基于非索引列运行的查询之一？**
 
-[![](../Images/6b219d338301ef82630dde42e8aaf39f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BCZFJnIB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/500/0%2A5b7aE4SKkbTm-jb8.gif)
+[![](img/6b219d338301ef82630dde42e8aaf39f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BCZFJnIB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/500/0%2A5b7aE4SKkbTm-jb8.gif)
 
 ***第 6 分钟 15 分钟后:***
 
@@ -32,7 +32,7 @@
 
 *   长期运行和被遗忘的僵尸 Crontabs
 
-[![](../Images/153a6c6a8b4d3623939f1b276165a592.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dH1CZBKE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/311/0%2ANWQ-pURqbOWtGPdr.jpg)
+[![](img/153a6c6a8b4d3623939f1b276165a592.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dH1CZBKE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/311/0%2ANWQ-pURqbOWtGPdr.jpg)
 
 让我们这么说吧...数据库大小< 500 GB; it’s OK to do selects but if it exceeds > 500GB，除非您削减预算，否则永远不要进行批量选择，并以管道的形式通过网络将其传输到目标数据库。
 
@@ -44,7 +44,7 @@
 
 你并不孤单。出于许多原因，数据争论者通常不喜欢与 OLTP 类似的数据库引擎。主要原因包括查询性能、对触发器的需求以及重新运行转换作业的便利性。但是，这样做需要设置气流集群并设置连接器来转换和加载。
 
-[![](../Images/5a6907dcb65368e57e7b84d9e0d38791.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nvyGd-au--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/0%2AS7iFWzeO5Ts9cYJ2.jpg)
+[![](img/5a6907dcb65368e57e7b84d9e0d38791.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nvyGd-au--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/0%2AS7iFWzeO5Ts9cYJ2.jpg)
 
 如果您可以在不从生产数据库中进行批量选择的情况下完成所有这些工作，那不是很好吗？当然，你可以...
 
@@ -52,7 +52,7 @@
 
 该工具运行队列来处理源数据库的二进制日志中出现的信息，并将其复制到完全不同引擎的目标数据库中。
 
-[![](../Images/531417efd35d2916bd2a7aea76887ba9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ctdh6Uir--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/0%2AzO-ZxOZB5LpJtGsY.png)
+[![](img/531417efd35d2916bd2a7aea76887ba9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ctdh6Uir--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/0%2AzO-ZxOZB5LpJtGsY.png)
 
 发布设置，如项目页面所给:[CD-Stream](https://github.com/datawrangl3r/cd-stream)；项目中有一个名为“sample”的目录，其中包含一些密集的 DDL 和数据插入脚本，供您评估和练习。
 

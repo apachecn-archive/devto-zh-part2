@@ -11,7 +11,7 @@
 
 在这两篇文章中，似乎在“预览”编辑内容时，我看到了以下错误:
 
-[![](../Images/e30b07d474438ca5db3d85761b48d199.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6zgSW4Az--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4hqvo5yng6tv7iuwkop8.png)
+[![](img/e30b07d474438ca5db3d85761b48d199.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6zgSW4Az--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4hqvo5yng6tv7iuwkop8.png)
 
 这两个帖子的错误似乎是在做预览时(例如编辑前)立即出现的，但我不确定这是否是因为我之前已经保存了我没有考虑的编辑。
 

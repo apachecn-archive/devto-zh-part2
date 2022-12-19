@@ -12,7 +12,7 @@
 
 # 代码编辑器:崇高文本 3
 
-[![Sublime Text](../Images/fc1f80bf4e5fbd55a6adbb4e0c051faf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ACBunTlY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x9m6m6h9d0b8q5r9sawy.png)
+[![Sublime Text](img/fc1f80bf4e5fbd55a6adbb4e0c051faf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ACBunTlY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x9m6m6h9d0b8q5r9sawy.png)
 
 我最初几年的开发工作用的是 Notepad++。与当时较大的工具相比，我很喜欢它，并且觉得我学习代码的速度比使用自动完成功能要快。结果很好，但只是因为我主要是在做 PHP，而不是像 Java 或. NET 那样急需 IDE 的东西。由于 Notepad++不可用，我开始寻找类似的东西。我发现了崇高的文本 2(当时)，并立即爱上了林。
 
@@ -56,7 +56,7 @@
 
 另外，我的 Konsole 在启动时是这样的:
 
-[![screenshot of Konsole](../Images/9fadfc1c1c70d717a053c026af2d192f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JWGWFI4v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yi9p5e68nwvaidvgitim.png)
+[![screenshot of Konsole](img/9fadfc1c1c70d717a053c026af2d192f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JWGWFI4v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yi9p5e68nwvaidvgitim.png)
 
 看起来像矩阵的数字来自命令`cmatrix`,我把它用作屏保。一旦我开始打字，它们就消失了。我使用 OhMyZsh 作为我的 shell，它只是使 shell 的使用更容易，整体更好。
 

@@ -12,7 +12,7 @@
 
 我们的学习曲线通常是这样的:
 
-[![The plateau.](../Images/091d4d5244fb30cd486cba510b3fa771.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0YF82gR0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5ba22d008a922da48d810837/1537355023367/graph-1-plateau.png%3Fformat%3D1000w)
+[![The plateau.](img/091d4d5244fb30cd486cba510b3fa771.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0YF82gR0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5ba22d008a922da48d810837/1537355023367/graph-1-plateau.png%3Fformat%3D1000w)
 
 我们想要学习新的东西，我们甚至可能认为我们知道我们需要什么(或者我们知道我们不知道什么)。我们所有人都会经历这一跌宕起伏的初始阶段，直到遇到障碍或停滞不前。感觉我们停止了前进。
 
@@ -20,11 +20,11 @@
 
 问题是我们可能甚至不知道我们真正需要什么。我们称这种差距为“我们不知道的我们不知道。”
 
-[![The gap from “what we think we need” to “what we really need.”](../Images/976e5228c86c243081442d0dc18dc458.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sgA-ltKJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5ba22d384d7a9c88ca62383d/1537355069841/%3Fformat%3D1000w)
+[![The gap from “what we think we need” to “what we really need.”](img/976e5228c86c243081442d0dc18dc458.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sgA-ltKJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5ba22d384d7a9c88ca62383d/1537355069841/%3Fformat%3D1000w)
 
 更糟糕的是，我们通常期望持续增长。一直向上。在大多数情况下，持续增长是一种“不切实际的期望”。
 
-[![Unrealistic expectations.](../Images/d49e4778b0744150bac3eb367659a56c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wJpusx-z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5ba22d58aa4a99ebfd0b27c1/1537355103352/graph-3-unrealistic-expectation.png%3Fformat%3D1000w)
+[![Unrealistic expectations.](img/d49e4778b0744150bac3eb367659a56c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wJpusx-z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5ba22d58aa4a99ebfd0b27c1/1537355103352/graph-3-unrealistic-expectation.png%3Fformat%3D1000w)
 
 我们经常听到人们说:“开发人员不遵循好的实践，因为他们不知道它们或者不理解它们的价值。”我们认为这是一个谬论。
 
@@ -36,7 +36,7 @@
 
 舒适区阻止我们实现我们真正想要的，甚至更糟的是，它可能会产生限制性的信念。我们经常听到开发者说“我真的试过 X/Y/Z，但是我就是做不到。”这是限制性的，不真实的。每个人都能做到。
 
-[![The comfort zone prevents us from achieving our best potential.](../Images/34ac726932f07d4890e8b7e7daef829d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VisXZ94_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5ba22d8b4d7a9c88ca623adf/1537355160108/graph-4-comfort-zone.png%3Fformat%3D1000w)
+[![The comfort zone prevents us from achieving our best potential.](img/34ac726932f07d4890e8b7e7daef829d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VisXZ94_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5ba22d8b4d7a9c88ca623adf/1537355160108/graph-4-comfort-zone.png%3Fformat%3D1000w)
 
 正如你在图表中看到的，红线显示了 99%的人选择的共同道路。舒适区。而且往往离我们真正需要的还很远。增长似乎下降的时候，可能是我们尝试新事物的时候——试图改善。当我们尝试一些事情时，表现下降是很自然的。问题是，我们大多寻求“持续增长的不切实际的期望”，并且我们回到我们所知道的(舒适的)。我们放弃得太快了。
 
@@ -48,7 +48,7 @@
 
 一个更现实的高绩效个人的方法类似于下图中的绿线。
 
-[![The uncomfortable zone high-performance individuals go through.](../Images/34c3284e47eabe22a1c85ef0d7971758.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pbXnR5kS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5ba22dc370a6adc92989d9b1/1537355211081/graph-5-uncomfortable-zone.png%3Fformat%3D1000w)
+[![The uncomfortable zone high-performance individuals go through.](img/34c3284e47eabe22a1c85ef0d7971758.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pbXnR5kS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5ba22dc370a6adc92989d9b1/1537355211081/graph-5-uncomfortable-zone.png%3Fformat%3D1000w)
 
 开始与其他人相似，但随着这些人明白要正确骑自行车，他们需要卸下支撑轮，摔倒几次，然后练习直到学会为止，增长速度会下降。起初，他们不得不慢下来，但是，随着他们学会骑自行车，他们将来会跑得更快。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/fullstackcafe/nodejs-error-handling-demystified-2nbo>
 
-[![Node.js Error Handling Demystified](../Images/8c2fa2c3ed9ad65fd4b881bc73c5981f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TePiqW55--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/620335/pexels-photo-620335.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26h%3D350)
+[![Node.js Error Handling Demystified](img/8c2fa2c3ed9ad65fd4b881bc73c5981f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TePiqW55--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/620335/pexels-photo-620335.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26h%3D350)
 
 异步语言中的错误处理以一种独特的方式工作，并带来许多挑战，有些是意想不到的。Node.js 中有七种主要的错误处理模式，让我们简单地检查一下。
 

@@ -72,7 +72,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 可以在一个`netlify.toml`文件中定义这样的东西，但是由于这些敏感性问题，我们将在 Netlify 的 admin 中的“Build & deploy”部分下设置这些值。这将使我们不必将它们提交给版本控制。你可以从你的条纹仪表板得到这些钥匙。
 
-[![Define Our Environment Variables](../Images/4dde601879cfa469e849b724659f46fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8GY6GI-z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://macarthur.me/static/a57f5f6a08b30a89a6516c3cafe5e910/a296c/environment-variables.jpg)
+[![Define Our Environment Variables](img/4dde601879cfa469e849b724659f46fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8GY6GI-z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://macarthur.me/static/a57f5f6a08b30a89a6516c3cafe5e910/a296c/environment-variables.jpg)
 
 你会注意到我也把我们的`LAMBDA_ENDPOINT`扔在那里了。一会儿会有更多的内容。
 

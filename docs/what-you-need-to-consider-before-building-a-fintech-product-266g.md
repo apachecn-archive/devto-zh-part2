@@ -12,7 +12,7 @@ Fintech 旨在通过提供更有效的参与金融活动的方法来取代(或�
 
 在开始一项金融科技业务之前，研究一下你的目标国家的法规。你无法预测一路上的所有挑战，但你可以通过遵守现有规则来最小化损失。否则，你可能会遭到政府的抵制，政府可能会征收罚款或禁止你从事金融科技业务。例如，世界上有八个国家在其金融市场推出了监管沙盒。这意味着他们创建了一个由金融中心监管机构设立的特殊框架，在监管机构的监督下提供创新技术的测试。
 
-[![countries-with-official-regulatory-sandbox](../Images/d840fd3c80884d648c03d85ea34f595d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JOgObl83--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/07/Img-1-1.png)
+[![countries-with-official-regulatory-sandbox](img/d840fd3c80884d648c03d85ea34f595d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JOgObl83--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/07/Img-1-1.png)
 
 不仅金融科技必须遵守严格的政府监管政策。如果你在美国从事医疗保健业务，你必须遵守健康保险流通和责任法案(HIPAA)。基本上，这是每个医疗保健相关企业都必须遵守的一套规则，因为它们处理(或可能访问)受保护的患者健康信息。这对于许多医疗保健初创企业来说是一个障碍，除非它们能够承受每年 5 万至 100 万美元的多重罚款。
 
@@ -24,7 +24,7 @@ Fintech 旨在通过提供更有效的参与金融活动的方法来取代(或�
 
 此外，开发一个在线金融服务变得更容易的经验，因此将有更少的机会出现错误。雇佣一个有经验的金融科技开发公司可以(1)为你节省很多钱，因为团队知道他们在做什么；(2)加快这个过程，因为你将花更少的时间告诉团队，比如说，英国的银行利率。这并不意味着每个工程师都必须有金融学位，但技术主管或高级工程师应该熟悉该主题。
 
-[![MoneyPark](../Images/755ad18f9adf4a86283d9c00e95dc4fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dQ_JzA9z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/07/Img-2-1.png)
+[![MoneyPark](img/755ad18f9adf4a86283d9c00e95dc4fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dQ_JzA9z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/07/Img-2-1.png)
 
 如果你认识一个经验丰富的团队，他们对金融知之甚少或一无所知，你可以教他们:比如，通过建立定期的研讨会或讨论会。如果团队确实知道一些关于金融的事情，你应该描述你对该领域的愿景，以及你的初创企业将试图解决的问题。就像我们开发瑞士在线抵押贷款服务 MoneyPark 时一样:我们的客户过去常常为我们的团队组织一个研讨会，以便他们理解术语，并对金融产品充满信心。但是我将在本文的后面回到 MoneyPark。
 
@@ -34,7 +34,7 @@ Fintech 旨在通过提供更有效的参与金融活动的方法来取代(或�
 
 如果你在为一家金融科技初创公司寻找技术合作伙伴，我认为你并不熟悉实际构建该公司所需的技术。这里的要点是选择技术时要相信专家。选择取决于多种因素，其中之一是你想用你的产品实现的商业目标。另一个原因是:他们知道使用特定技术的限制。正确选择的一个结果是最小化风险，如果新的法律出台，您需要改变系统中的某些东西以符合新的法规或客户需求，您的整个项目将被关闭。
 
-[![finance-fintech-tech-stack](../Images/b6e93930db09f53c4a057a1681b6b83a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oiYhfHjf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/07/Img-3.png)
+[![finance-fintech-tech-stack](img/b6e93930db09f53c4a057a1681b6b83a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oiYhfHjf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/07/Img-3.png)
 
 传闻有些编程语言更好更快；其他的已经被证明最适合特定类型的项目。许多人认为 Python 是金融科技产品的一个很好的选择，这在 [HackerRank research](https://blog.hackerrank.com/emerging-languages-still-overshadowed-by-incumbents-java-python-in-coding-interviews/) 中得到证实。使用 Django 框架，一个 MVP 可以在几个月内设计出来，这样你就可以尽快投入使用。Python 是灵活的——它可以让你根据需要调整和改变成品。
 
@@ -44,7 +44,7 @@ Fintech 旨在通过提供更有效的参与金融活动的方法来取代(或�
 
 当使用 Molo(我们一直在合作的另一个在线抵押贷款系统)时，用户可以选择他们喜欢的房子并获得抵押贷款。当他们想要获得抵押贷款时，系统会向能够识别用户数据的组织(如英国的 Experian)发送一个请求，并请求验证财产和身份。所有这些集成使得 Molo 成为一家完全数字化的抵押贷款提供商，并使客户能够在线完成整个抵押贷款流程。
 
-[![finance-fintech-tech-stack](../Images/7c1a14b44a1bd8066f1a3e8532892810.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nkiaAcBn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/07/Img-4.png)
+[![finance-fintech-tech-stack](img/7c1a14b44a1bd8066f1a3e8532892810.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nkiaAcBn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/07/Img-4.png)
 
 你需要预测尽可能多的需求，因为每一个都需要时间来实现。请记住，传统的金融服务以大量的官僚主义为前提，因此会造成延误。例如，在银行员工的工作时间之外，你无法联系到他们。很可能，你的用户也不会。你的任务是思考如何让系统独立工作，或者至少看起来是这样。
 
@@ -64,7 +64,7 @@ Fintech 旨在通过提供更有效的参与金融活动的方法来取代(或�
 
 ## 底线
 
-[![finance-fintech-tech-stack](../Images/2f6b75201af621fbffebca951749d789.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6uKqMf4R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/07/Img-5.png)
+[![finance-fintech-tech-stack](img/2f6b75201af621fbffebca951749d789.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6uKqMf4R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/07/Img-5.png)
 
 我描述的技巧不会确保你的初创企业取得成功，但它们是在产品开发的早期阶段避免金融科技行业陷阱的好方法。首先，找一个能帮助你了解这个行业细微差别的人。完成后，分析你将要进入的领域，以更好地了解你需要什么样的技术合作伙伴。
 

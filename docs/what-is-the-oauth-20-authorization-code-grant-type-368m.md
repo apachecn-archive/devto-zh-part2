@@ -46,7 +46,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当用户访问这个 URL 时，授权服务器将提示他们是否愿意授权这个应用程序的请求。
 
-[![OAuth Prompt](../Images/0d57eab9032a6f6aa1a3c72d66f99d3f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1Rgoy89J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/oauth-authorization-code-grant-type/oauth-prompt-6489c6516fda5e0deea637d96f8398683fea6ade6054ee779e306e0b8ac5dcb8.png)
+[![OAuth Prompt](img/0d57eab9032a6f6aa1a3c72d66f99d3f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1Rgoy89J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/oauth-authorization-code-grant-type/oauth-prompt-6489c6516fda5e0deea637d96f8398683fea6ade6054ee779e306e0b8ac5dcb8.png)
 
 ### 重定向回应用程序
 

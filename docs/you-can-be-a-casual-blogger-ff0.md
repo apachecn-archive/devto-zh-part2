@@ -42,7 +42,7 @@
 
 很长时间以来，我都认为自己不够专业。但是我意识到这对我来说是最好的，并且帮助我把写作融入到我新的成人日程表中。我在这里写的东西比许多伟大的博主都少，但我不会在我喜欢的其他事情上浪费时间——阅读、学习、拳击、在三部曲合奏后把 ess 埋在垃圾 Puyos 里，看着她在痛苦的失败中哭泣。
 
-[![Image courtesy of All The Tropes Wiki and sweet vengeance.](../Images/77dbd0b002b346d5ae0804a3fd44442f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UXcK95cz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vignette.wikia.nocookie.net/allthetropes/images/f/fa/Puyo_Puyo_Tetris_Ess_Crying.png/revision/latest%3Fcb%3D20180220194221)
+[![Image courtesy of All The Tropes Wiki and sweet vengeance.](img/77dbd0b002b346d5ae0804a3fd44442f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UXcK95cz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://vignette.wikia.nocookie.net/allthetropimg/f/fa/Puyo_Puyo_Tetris_Ess_Crying.png/revision/latest%3Fcb%3D20180220194221)
 
 是的，你听到了！
 

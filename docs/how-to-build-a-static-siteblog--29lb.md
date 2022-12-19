@@ -26,7 +26,7 @@
 
 如今，GitHub 库似乎是最受欢迎的选择。您可以使用替代服务，甚至是完全不同的版本控制系统。Git 非常受欢迎，当你遇到困难时，你会在那里找到很多帮助。
 
-[![How to create a new repository on GitHub](../Images/ac81161511cfa2715b7e0f2b2d1a57b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6pR906HM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://markentier.tech/posts/2018/03/how-to_new-github-repo.png)
+[![How to create a new repository on GitHub](img/ac81161511cfa2715b7e0f2b2d1a57b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6pR906HM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://markentier.tech/posts/2018/03/how-to_new-github-repo.png)
 
 因为我们想要建立一个静态站点，我们需要一个工具来帮助我们。当然，你可以手工编写和维护所有的东西，但是你会被它弄得筋疲力尽。
 
@@ -36,7 +36,7 @@
 
 我选择了[钴](https://cobalt-org.github.io/)，因为我想更多地学习和使用 Rust。如果你不太喜欢这种冒险，那么下面的工具也可以做到: *Jekyll、Hugo、OctoPress、Gatsby、Middleman……*(查看[https://www.staticgen.com/](https://www.staticgen.com/)获得更完整的可用静态站点生成器列表)。Jekyll 很特别，因为它也受 GitHub Pages 的支持，这是部署静态站点的另一种选择。
 
-[![Homepage of cobalt.rs, a static site generator written in Rust](../Images/3073ecf428f19942d777bcf057baa9b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rlYKQlQS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://markentier.tech/posts/2018/03/how-to_cobalt-org.png)
+[![Homepage of cobalt.rs, a static site generator written in Rust](img/3073ecf428f19942d777bcf057baa9b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rlYKQlQS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://markentier.tech/posts/2018/03/how-to_cobalt-org.png)
 
 在你新克隆的、可能仍然非常空的存储库中，你运行类似于`cobalt init`(或者你的工具需要的任何东西)并开始从零碎的部分创建一个网站的繁重工作。你可能已经花了几个小时甚至几天来建设网站，因为布局和设计是一个永无止境的故事。但是还需要写页面和帖子，这也需要一些时间。
 
@@ -61,7 +61,7 @@
 
 最初我真的认为 GitHub 页面已经可以了，但 netlify 附带了一些我不想错过的电池，最大的一个是基于 SSL/TLS 证书的[让我们加密](https://letsencrypt.org/)，这样我就可以一直获得`https`，而不必考虑将来的更新。如果你不仅有自己的域名，而且还可以这样配置，让 netlify 管理你的 DNS 设置，这样做效果最好(我认为这是为了更好地管理子域和加强它们之间的 https 也许可以在你的 DNS 提供商那里完成，但是，嘿，让我们试一试，看看 netlify 如何处理它。
 
-[![Manage DNS for your domain with netlify](../Images/cb19df6baedb1afc1933e3d0948d4983.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ogcXNthZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://markentier.tech/posts/2018/03/how-to_netlify-dns.png)
+[![Manage DNS for your domain with netlify](img/cb19df6baedb1afc1933e3d0948d4983.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ogcXNthZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://markentier.tech/posts/2018/03/how-to_netlify-dns.png)
 
 另一个很酷的特性是，您可以使用 GitHub 的 pull 请求(以及一般的分支)来获得预览部署。因此，您不仅可以在本地机器上检查您的更改，还可以让其他人看到事情将会是什么样子(这对团队和协作来说非常好)。事实上，我在这篇博文中使用了这个，所以我可以测试这个机会。另一个小小的好处是，你可以使用在线验证器(像 HTML 的[https://validator.w3.org/nu/](https://validator.w3.org/nu/))并在问题进入你的生产网站之前解决它们。听起来很酷，他？
 
@@ -87,7 +87,7 @@ Netlify 提供了更多的东西，我还没有使用。你应该自己去发现
 
 我喜欢 updown 的一点是，他们提供了一个简单的状态页面，你可以通过你控制的子域来展示。对于这篇博客，你可以在[https://status.markentier.tech/](https://status.markentier.tech/)下查看:
 
-[![updown.io uptime monitoring page for markentier.tech](../Images/d651856f3b3c3b5cb9e9083e8342a777.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MRsTNAP---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://markentier.tech/posts/2018/03/how-to_updown-monitoring.png)
+[![updown.io uptime monitoring page for markentier.tech](img/d651856f3b3c3b5cb9e9083e8342a777.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MRsTNAP---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://markentier.tech/posts/2018/03/how-to_updown-monitoring.png)
 
 这就是我今天的全部内容。
 

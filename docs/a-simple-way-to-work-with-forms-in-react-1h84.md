@@ -31,7 +31,7 @@ import { FormContainer, Form, Field, Button } from 'ez-react-form';
 
 结果:(完整的表单、验证(带 yes)和错误消息)
 
-[![Example](../Images/bf8be91c30c40e665aa00045b94513aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---1YWqTJ4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/ngduc/ez-react-form/raw/master/screenshot-types.png)
+[![Example](img/bf8be91c30c40e665aa00045b94513aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---1YWqTJ4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/ngduc/ez-react-form/raw/master/screenshot-types.png)
 
 [Demo](https://codesandbox.io/s/l5vxk5o7vq)
 [Github](https://github.com/ngduc/ez-react-form)

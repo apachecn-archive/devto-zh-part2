@@ -8,7 +8,7 @@ Javascript 环境中最受赞赏的特性之一无疑是 [NPM](https://www.npmjs
 
 另一方面，即使是资深开发人员也最讨厌 node.js 和 javascript 浏览器引擎之间奇怪的二分法。这种语言提供了在后端和前端运行相同代码的可能性，但是我们从来没有完全实现它的无缝运行。
 
-[![Lyo](../Images/3d729a4ace6b6545fed4558ea1820f19.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WWGmL3eJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/17952318/44954822-2055cc80-aea9-11e8-9ebd-b10619f80171.png)
+[![Lyo](img/3d729a4ace6b6545fed4558ea1820f19.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WWGmL3eJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/17952318/44954822-2055cc80-aea9-11e8-9ebd-b10619f80171.png)
 
 Lyo 旨在填补这一空白。这个工具可以将任何 node.js 包转换成一个文件浏览器库。让我们通过一个例子来看看它是如何运行的。
 
@@ -22,7 +22,7 @@ npx lyo get sha1
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Lyo result](../Images/af6b86a8b3202040a2f27dff14674510.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZuPn5QBO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3o3knp6z45jbsx675d9j.png)
+[![Lyo result](img/af6b86a8b3202040a2f27dff14674510.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZuPn5QBO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3o3knp6z45jbsx675d9j.png)
 
 从上到下，我们可以看到:
 
@@ -49,7 +49,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 还不够简单吗？你甚至不想打开你的终端？Lyo 会保护你的。在自己喜欢的浏览器上打开 [lyo.now.sh](https://lyo.now.sh/) ，输入想要编译的包名。Lyo 将负责一切，并输出如何通过 CDN 或 node.js 使用这个包。
 
-[![Lyo service](../Images/8eca7bd4ba577ae5e21a59e68861d690.png)T2】](https://lyo.now.sh/sha1)
+[![Lyo service](img/8eca7bd4ba577ae5e21a59e68861d690.png)T2】](https://lyo.now.sh/sha1)
 
 另一方面，为什么不给用户提供 node.js 包的浏览器版本呢？当然，你可能已经使用了 Browserify 或 Webpack，但你现在可以将所有工作委托给 Lyo。
 

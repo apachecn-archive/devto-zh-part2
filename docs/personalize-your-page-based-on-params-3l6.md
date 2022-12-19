@@ -23,7 +23,7 @@
 
 ## 观察它的行动:
 
-[![Personalization Demo](../Images/eb7b6f90889fce20ac369619b7c0410c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kCzcBg7f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://d3vv6lp55qjaqc.cloudfront.net/items/2k0w3K3O1j3G3j0L1N31/Screen%2520Recording%25202018-09-08%2520at%252011.59%2520AM.gif)
+[![Personalization Demo](img/eb7b6f90889fce20ac369619b7c0410c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kCzcBg7f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://d3vv6lp55qjaqc.cloudfront.net/items/2k0w3K3O1j3G3j0L1N31/Screen%2520Recording%25202018-09-08%2520at%252011.59%2520AM.gif)
 
 ## 现在了解它的工作原理:
 

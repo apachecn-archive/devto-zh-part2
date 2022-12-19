@@ -4,7 +4,7 @@
 
 2017 年 11 月的某一天，我们的团队偶然发现了 José M. Pérez 的这篇文章，其中包含了大量关于图像占位和 lazyloading 的新内容。看着文章中提到的例子与我们那天处理它的方式相比，令人印象深刻。印象如此深刻，以至于我们决定试一试，在我们名为蓝色世界的[blue-tomato.com 内容部分](https://www.blue-tomato.com/blue-world/)上使用内联 SVG 实现图像延迟加载技术。
 
-[![SVG-based image lazyloading](../Images/d7cfe0df2b9d969901a729d89cfc2191.png "SVG-based image lazyloading")](https://res.cloudinary.com/practicaldev/image/fetch/s--cXKoiPDM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/dwiuG5V.jpg) 
+[![SVG-based image lazyloading](img/d7cfe0df2b9d969901a729d89cfc2191.png "SVG-based image lazyloading")](https://res.cloudinary.com/practicaldev/image/fetch/s--cXKoiPDM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/dwiuG5V.jpg) 
 *差不多就是我们努力争取的转变*
 
 除了 SVG 解析为高分辨率图像时令人印象深刻的“神奇时刻”之外，我们还遇到了更多可以改善用户体验的优势:
@@ -37,7 +37,7 @@
 *挑战*
 我们的**第一个**方法是在上传过程中在 cms 的管理面板中生成 SVG。我们面临的第一个问题是，由于我们使用优秀的[原语](https://github.com/fogleman/primitive)库触发的转换过程，图像的上传过程会花费更长的时间。但这是两个问题中较小的一个。第二个问题是我们的图像资产管理系统(Adobe Scene7)即时创建了所有需要的图像格式。所以最初我们只使用上传图像的格式创建了一个 SVG，而没有考虑图像资产管理系统处理的其他格式。
 
-[![different image formats as a challenge for creating svg-based lazyload images](../Images/a1974b18e978fb6fc76eac1af278a3de.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Gq60Xc0x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/hIhRuJo.jpg) 
+[![different image formats as a challenge for creating svg-based lazyload images](img/a1974b18e978fb6fc76eac1af278a3de.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Gq60Xc0x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/hIhRuJo.jpg) 
 *不同的图像格式需要不同的 SVG 格式*
 
 ***示例***

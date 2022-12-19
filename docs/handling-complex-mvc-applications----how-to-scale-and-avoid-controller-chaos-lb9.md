@@ -23,7 +23,7 @@ Stan ，一位经验丰富的开发人员，他犯了许多架构错误(但谢�
 **【Stan】**MVC 代表[模型-视图-控制器](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)。它本质上定义了健壮代码设计的策略。它将应用程序分解成不同的部分，以便在应用程序的模块之间实现更高的关注点分离。当试图增加更多的功能或维护它时，模块化的代码非常有用。
 我们来看下图:
 
-[![MVC framework layout](../Images/fd347d34ced9c9cfaa8a8ec83e8ccc3f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YaJNR2sH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/a/a0/MVC-Process.svg)
+[![MVC framework layout](img/fd347d34ced9c9cfaa8a8ec83e8ccc3f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YaJNR2sH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/a/a0/MVC-Process.svg)
 
 ###### *图片取自[维基百科](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)*
 
@@ -275,6 +275,6 @@ class BookRepository {
 
 那太酷了！我觉得现在可以扩展了！
 
-[![Scale Projects Meme](../Images/749b686396f48f180b76675846191a06.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c3q-K-ma--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgflip.com/2ku5ql.jpg)
+[![Scale Projects Meme](img/749b686396f48f180b76675846191a06.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c3q-K-ma--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgflip.com/2ku5ql.jpg)
 
-[![enter image description here](../Images/ebb95a4b64f547033a59a09d0ccc83ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MMqvuXkF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgflip.com/2ku5ur.jpg)**
+[![enter image description here](img/ebb95a4b64f547033a59a09d0ccc83ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MMqvuXkF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgflip.com/2ku5ur.jpg)**

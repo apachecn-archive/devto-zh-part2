@@ -10,7 +10,7 @@
 
 在我们开始实现任何组件之前，让我们设计一个架构或框图，我们将尝试在本系列中一个接一个地构建它。由于我们的目的是使用一个用例来学习更多的技术，这正合适。
 
-[![](../Images/32563a4e6f99bf94f3fd61bfdd36d5c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ji89i_Jd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AzTHQFs9KDNV24Phd98u60w.png)
+[![](img/32563a4e6f99bf94f3fd61bfdd36d5c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ji89i_Jd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AzTHQFs9KDNV24Phd98u60w.png)
 
 这张图表涵盖了我在[计划](https://medium.com/dhoomil-sheta/processing-streaming-twitter-data-using-kafka-and-spark-the-plan-58b893e42403)中列出的所有要点。我们已经在第 1 部分中完成了 Kafka 集群的设置。
 
@@ -135,4 +135,4 @@ Tweet{id=1059434263232348160, text='RT @InclineZA: #AI &amp; #MachineLearning: B
 
 在那之前 …
 
-[![Peace out](../Images/c7665418a87d7023316f805655643e45.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K_nZKCnH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AOwkfEOCQTC0YGxZLWx2juQ.gif)
+[![Peace out](img/c7665418a87d7023316f805655643e45.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K_nZKCnH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AOwkfEOCQTC0YGxZLWx2juQ.gif)

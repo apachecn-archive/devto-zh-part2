@@ -75,7 +75,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在在第 7 行，我将“object1”的 name 属性改为“charan”。令人惊讶的是，当我记录“object2”的值时,“object2”的 name 属性也变成了“charan”。这里到底发生了什么？对象通常由引用传递**。因为 object2 等同于 object1，所以它是通过引用**传递的**，这意味着它们拥有相同的内存位置。因此，当我们改变 object1 的值时，object2 通常也会改变。**
 
-[![Both object1 and object2 point to the same memory location](../Images/0155c6ae77e036c52cf42500143aa6c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fnrccOOJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/er5yt4yflb170f9k55xc.png)
+[![Both object1 and object2 point to the same memory location](img/0155c6ae77e036c52cf42500143aa6c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fnrccOOJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/er5yt4yflb170f9k55xc.png)
 
 对象 1 和对象 2 都指向同一个内存位置。
 

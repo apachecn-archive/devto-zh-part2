@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/brettclawson75/5-simple-steps-to-work-your-way-up-to-be-a-cto-2f18>
 
-[![How to become a CTO](../Images/f25a88dc03762153d49d6d72064e7d3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eUyc-bse--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vljety8fh3k5844i74gg.jpg)
+[![How to become a CTO](img/f25a88dc03762153d49d6d72064e7d3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eUyc-bse--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vljety8fh3k5844i74gg.jpg)
 
 成为首席技术官是当代技术职业生涯的巅峰。每年都必须快速适应新技术发展的组织依靠熟练的首席技术官来规划他们的路线。当不规划技术升级策略时，CTO 保持最大的系统可用性并实施软件改进，同时抵御数据泄露和网络攻击。难怪首席技术官的平均底薪和最高法院法官差不多，也难怪企业会争夺最好的首席技术官。
 

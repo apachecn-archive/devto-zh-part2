@@ -44,7 +44,7 @@ CSR 是包含申请人信息的文本块，如域名、组织名称、城市、�
 
 我们已经看到了 HTTPS 沟通的所有必要元素，现在我们必须将它们结合起来。我们要做的是在使用非对称加密(安全)的客户机/服务器之间交换一个使用对称加密(性能)的密钥。
 
-[![https for dummies](../Images/f08b0a984ade470c9359b9c62ff93109.png)T2】](https://apiumhub.com/wp-content/uploads/2018/02/Screen-Shot-2018-02-22-at-08.31.00.png)
+[![https for dummies](img/f08b0a984ade470c9359b9c62ff93109.png)T2】](https://apiumhub.com/wp-content/uploads/2018/02/Screen-Shot-2018-02-22-at-08.31.00.png)
 
 概括地说，这个过程很简单，第一次通信是服务器(发送方)将证书和公钥一起发送给客户端(接收方)。客户端生成将用于对称加密通信的“秘密”,用公钥对其进行加密，并将其发送给服务器，并且它确保只有客户端/服务器拥有该密钥。
 

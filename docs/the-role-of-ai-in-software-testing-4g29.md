@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/pradeeparthiban/the-role-of-ai-in-software-testing-4g29>
 
-[![AI in Software Testing](../Images/d9bf3a384e46dd3899b7287b2673f54b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_5gsqJ1y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i1iaii11v8y3x427b0r8.png)
+[![AI in Software Testing](img/d9bf3a384e46dd3899b7287b2673f54b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_5gsqJ1y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i1iaii11v8y3x427b0r8.png)
 
 我们都知道，在最近几年，人工智能已经被证明在各种各样的领域对人类有很大的帮助，如统计学、图形研究、天文学等等。但是现在关心的问题是这个理论是否能够给软件测试领域带来必要的和预期的变化。来自世界各地的软件测试人员和开发人员正在尝试各种方法来整合这个想法，以创建一个新版本的技术先进的世界。
 

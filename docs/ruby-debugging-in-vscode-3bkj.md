@@ -40,11 +40,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 在 vscode 中，打开调试选项卡并单击下拉菜单，然后选择`Add configuration...`选项。
 
-[![selecting 'Add Configuration in the debug view'](../Images/967c6a4acc3ba4af2996de817defbbe2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wPPUk-oK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fqz1kmiwvw3bavoy4sb8.png)
+[![selecting 'Add Configuration in the debug view'](img/967c6a4acc3ba4af2996de817defbbe2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wPPUk-oK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fqz1kmiwvw3bavoy4sb8.png)
 
 从新的下拉菜单中选择`Ruby`。这将在你的当前目录下创建一个带有`launch.json`文件的`.vscode`文件夹。
 
-[![Selecting Ruby as the configuration](../Images/fa3c7674b28831bacdc1bbb8d29db4f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fJq_3Ibs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rxljn5dyck0rbeb1kpq6.png)
+[![Selecting Ruby as the configuration](img/fa3c7674b28831bacdc1bbb8d29db4f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fJq_3Ibs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rxljn5dyck0rbeb1kpq6.png)
 
 ## 启动调试会话
 
@@ -57,12 +57,12 @@ Enter fullscreen mode Exit fullscreen mode
 
 接口在终端中运行后，您可以启动调试会话。在调试选项卡中，从下拉菜单中选择`Listen for rdebug-ide`。单击开始按钮。
 
-[![selecting rdebug](../Images/b403e9e9fd0a5cbfa3486d2358d86069.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qeCbIL5O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q825wie7mvmldthbofy1.png)
+[![selecting rdebug](img/b403e9e9fd0a5cbfa3486d2358d86069.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qeCbIL5O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q825wie7mvmldthbofy1.png)
 
 您的调试会话应该正在运行。现在，您可以点击设置的断点，并使用调试控制台来帮助分析您的 Ruby 代码。
 
 这里有一个例子:
 
-[![debugging preview](../Images/154fee0355b9d3edce7497c162909869.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ebyPjrDg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9gj338y3o8wsy3xcy268.png)
+[![debugging preview](img/154fee0355b9d3edce7497c162909869.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ebyPjrDg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9gj338y3o8wsy3xcy268.png)
 
 调试愉快！

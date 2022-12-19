@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/takeshape/launching-takeshape-a-graphql-cms-and-ssg-on-product-hunt-gjb>
 
-[![TakeShape Code Preview](../Images/d67147866de6bf207d22b537ceab57f4.png "TakeShape is launching on Product Hunt")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0ca8IkrB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rkt307nabdebjoppf6iw.png)
+[![TakeShape Code Preview](img/d67147866de6bf207d22b537ceab57f4.png "TakeShape is launching on Product Hunt")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0ca8IkrB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rkt307nabdebjoppf6iw.png)
 
 今天，我们非常兴奋终于能够与您分享 [TakeShape](https://www.producthunt.com/posts/takeshape) 。
 

@@ -4,7 +4,7 @@
 
 常见的是以标签云格式显示数据，也就是说，一大块关键词或术语内嵌显示，每个术语的大小显示其在所有现有术语中的相对重要性或频率。
 
-[![tag cloud of New York Stock Exchange symbols](../Images/fbd43fba8c991c3165fe22b9614242d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OdCyLYsG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/7/79/Top_500_by_volume_on_the_NYSE.png)
+[![tag cloud of New York Stock Exchange symbols](img/fbd43fba8c991c3165fe22b9614242d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OdCyLYsG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/7/79/Top_500_by_volume_on_the_NYSE.png)
 
 很多时候，我们看到这些标签云内置于内容管理系统中或通过插件生成，但如果我们想从头开始，我们该如何制作这样的东西呢？在本教程中，我将介绍我是如何为自己的网站构建这个功能的，以显示我使用不同技术的相对时间。
 

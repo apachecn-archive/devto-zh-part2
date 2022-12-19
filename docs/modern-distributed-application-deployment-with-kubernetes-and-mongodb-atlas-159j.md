@@ -30,7 +30,7 @@ Kubernetes 是一个用于自动化部署、扩展和管理容器化应用的开
 
 Google Kubernetes 引擎内置在 Google 云平台中，可以帮助你快速部署你的容器化应用。
 
-出于本教程的目的，我将把我们的[映像](https://docs.docker.com/engine/reference/commandline/images/)上传到 GCP，然后部署到一个 Kubernetes 集群，这样我就可以根据需要快速扩展或缩小我们的应用程序。当我创建我们的应用程序的新版本或进行增量更改时，我可以简单地创建一个新的映像并使用 Kubernetes 再次部署。
+出于本教程的目的，我将把我们的[映像](https://docs.docker.com/engine/reference/commandliimg/)上传到 GCP，然后部署到一个 Kubernetes 集群，这样我就可以根据需要快速扩展或缩小我们的应用程序。当我创建我们的应用程序的新版本或进行增量更改时，我可以简单地创建一个新的映像并使用 Kubernetes 再次部署。
 
 #### 为什么 Atlas 用 Kubernetes？
 
@@ -40,7 +40,7 @@ Google Kubernetes 引擎内置在 Google 云平台中，可以帮助你快速部
 
 MongoDB Atlas 在 GCP 的大部分地区都可以使用，因此无论您的应用程序位于何处，您都可以将数据保存在云中。
 
-[![Figure 1: MongoDB Atlas runs in most GCP regions](../Images/f4f2de614c7ef4fadd3350fa1a10cf4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xH0aESuC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image11-9eaw6kd3bq.png)
+[![Figure 1: MongoDB Atlas runs in most GCP regions](img/f4f2de614c7ef4fadd3350fa1a10cf4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xH0aESuC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image11-9eaw6kd3bq.png)
 
 #### 要求
 
@@ -83,7 +83,7 @@ Atlas [Add New Cluster](https://docs.atlas.mongodb.com/create-new-cluster/) 表�
 
 在下面提供的图片中，你可以看到我选择了云提供商“谷歌云平台”接下来，我选择了一个实例大小，在本例中是 M10。使用 M10 实例的部署非常适合开发。如果我要立即将这个应用程序投入生产，我可能会考虑使用 M30 部署。由于这是一个演示，M10 对于我们的应用来说已经足够了。有关所有集群规模的完整视图，请查看 [Atlas 定价页面](https://www.mongodb.com/cloud/atlas/pricing?utm_medium=dev-synd&utm_source=dev&utm_content=kubernetes&jmp=dev-ref)。一旦我完成了这些步骤，我可以点击“确认&部署”按钮。Atlas 将在几分钟内自动启动我的部署。
 
-[![](../Images/4e8915dc367b697cef66bc9309a0272b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zgiWrlnl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image5-ajs6tzndo6.png)
+[![](img/4e8915dc367b697cef66bc9309a0272b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zgiWrlnl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image5-ajs6tzndo6.png)
 
 让我们为我们的数据库创建一个用户名和密码，我们的 Kubernetes 部署的应用程序将使用它来访问 MongoDB。
 
@@ -93,11 +93,11 @@ Atlas [Add New Cluster](https://docs.atlas.mongodb.com/create-new-cluster/) 表�
 *   单击“显示高级选项”
 *   然后，我们将为我们的`mern-crud`应用程序添加一个用户“`mernuser`”，该用户只能访问名为“`mern-crud`”的数据库，并给它一个复杂的密码。我们将为该用户指定读写权限:
 
-[![](../Images/8c34da5a80fb676c4f044a61cdd3c2de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HaqQefLy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image4-7zj12s4cqg.png)
+[![](img/8c34da5a80fb676c4f044a61cdd3c2de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HaqQefLy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image4-7zj12s4cqg.png)
 
 点击“添加用户”
 
-[![](../Images/3f50ef07e11e4c9fd17e2df4d2ac8c66.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PkHNA7D3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image3-cjbte3zdg0.png)
+[![](img/3f50ef07e11e4c9fd17e2df4d2ac8c66.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PkHNA7D3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image3-cjbte3zdg0.png)
 
 现在，您的数据库已经创建，您的用户也已添加。你仍然需要我们的连接字符串和通过网络访问白名单。
 
@@ -105,19 +105,19 @@ Atlas [Add New Cluster](https://docs.atlas.mongodb.com/create-new-cluster/) 表�
 
 点击“集群”，然后点击 Atlas 管理面板中集群详情旁边的“连接”,获取连接字符串。选择 connect 后，您可以使用几个选项来连接到您的集群。单击“连接您的应用程序”
 
-[![](../Images/975985f3b05c8a8c0aa06a6ac016dc40.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--98xZqkIl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image7-eamyhl5j2h.png)
+[![](img/975985f3b05c8a8c0aa06a6ac016dc40.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--98xZqkIl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image7-eamyhl5j2h.png)
 
 给出了 MongoDB 驱动程序 3.6 或 3.4 版本的选项。我使用 3.4 驱动程序构建了我的，所以我将只选择这个版本的连接字符串。
 
-[![](../Images/f958ead982680406b33947ecb3f87856.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LdemPvD8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image2-9j8etbr92r.png)
+[![](img/f958ead982680406b33947ecb3f87856.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LdemPvD8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image2-9j8etbr92r.png)
 
 我通常将它粘贴到一个编辑器中，然后修改信息以匹配我的应用程序凭证和我的数据库名称:
 
-[![](../Images/b5235dea26636f605f2a60c37198c730.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NsnJhQMA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image6-2isshwlpf9.png)
+[![](img/b5235dea26636f605f2a60c37198c730.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NsnJhQMA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image6-2isshwlpf9.png)
 
 我现在将它添加到应用程序的数据库配置文件，并保存它。
 
-[![](../Images/70b896dd0e88bc746ab9b73bfa8d54a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k6KgpugQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image10-55bh5gtvch.gif)
+[![](img/70b896dd0e88bc746ab9b73bfa8d54a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k6KgpugQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image10-55bh5gtvch.gif)
 
 接下来，我将用 Docker 将它打包成一个图像，并将其发送到 Google Kubernetes 引擎！
 
@@ -127,7 +127,7 @@ Atlas [Add New Cluster](https://docs.atlas.mongodb.com/create-new-cluster/) 表�
 
 项目创建完成后，您可以在 Google 云平台控制面板中找到它:
 
-[![](../Images/b88d6c3533d0146b26d946cb299d891f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F4tmQus6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image12-3i4jewybqk.png)
+[![](img/b88d6c3533d0146b26d946cb299d891f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F4tmQus6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image12-3i4jewybqk.png)
 
 是时候在本地工作站上创建一个容器了:
 
@@ -171,7 +171,7 @@ docker run --rm -p 3000:3000 gcr.io/${PROJECT\_ID}/mern-crud:v1 \> mern-crud@0.1
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/dc6023d0c8555bf1563a012b701c12dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1SHFpVuh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image13-en0z97dmj5.png)
+[![](img/dc6023d0c8555bf1563a012b701c12dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1SHFpVuh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image13-en0z97dmj5.png)
 
 太好了——将我的浏览器指向 http://localhost:3000 会把我带到这个网站。现在是时候创建一个 kubernetes 集群并在其上部署我们的应用程序了。
 
@@ -205,7 +205,7 @@ Creating cluster mern-crud...done. Created [https://container.googleapis.com/v1/
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/d78900cf43d69f310e6a55896068ee25.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MN_Lcroy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image9-8ick04i0id.png)
+[![](img/d78900cf43d69f310e6a55896068ee25.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MN_Lcroy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image9-8ick04i0id.png)
 
 只剩几步了。现在，我们将使用 [kubectl](https://kubernetes.io/docs/reference/kubectl/overview/) 将我们的应用从谷歌云外壳
 部署到我们的集群
@@ -258,7 +258,7 @@ bash-3.2$ curl -v 35.226.15.67 \* Rebuilt URL to: 35.226.15.67/ \* Trying 35.226
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/1b03d9d5b14d72665fe0161d02adf482.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_PY0cTqz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image8-n0exkoowr4.png)
+[![](img/1b03d9d5b14d72665fe0161d02adf482.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_PY0cTqz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image8-n0exkoowr4.png)
 
 我添加了一些测试数据，正如我们所看到的，这是我通过 Kubernetes 部署到 GCP 的应用程序的一部分，并将我的持久数据存储在 MongoDB Atlas 中。
 

@@ -4,7 +4,7 @@
 
 “GüebZine”是我在 1998 年创办的网络杂志(第三期也是最后一期正式发行于 1999 年)，用 HTML 和一点 JavaScript 创建。它由 EmuM @ nia(emumania.com)主办，在 2002 年消失之前，它是最著名的西班牙语模拟网站之一。它有不同的贡献者(DaTaR，Erterks，ARROW，[Lolo]，CHIP，Scumnok，[[[ALX]]]……)，他们写了一些章节和/或以某种方式提供了帮助。
 
-[![Screenshot of them](../Images/772d0e3f80acb711861d515e34bce71d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vj4b1_j4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.joanalbamaldonado.com/portfolio/img/content/guebzine.jpg)
+[![Screenshot of them](img/772d0e3f80acb711861d515e34bce71d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vj4b1_j4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.joanalbamaldonado.com/portfolio/img/content/guebzine.jpg)
 
 仅发行了三期(均以西班牙语为主要语言)。第四个版本，我一直在做，直到 2000 年或 2001 年(我记不清了)，既没有完成也没有发布，但我能找到的最后一个版本包含在这个库中。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/gaserd/rules-in-your-open-space-for-work-4fdc>
 
-[![Open Space in the Facebook](../Images/56e1e253140b5d0b77e61015e79f7a91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aklgtZqc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dyc9x87lyip2cedl7hia.jpg)
+[![Open Space in the Facebook](img/56e1e253140b5d0b77e61015e79f7a91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aklgtZqc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dyc9x87lyip2cedl7hia.jpg)
 
 嗨，伙计们！
 

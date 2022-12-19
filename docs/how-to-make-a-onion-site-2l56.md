@@ -6,7 +6,7 @@ Tor 浏览器是一个强大的免费匿名浏览互联网的工具，它还能�
 
 ## 我如何创建一个. onion 域名？
 
-[![How do I create a .onion domain name?](../Images/f9bef643871852bc528cc18939b375e7.png "How do I create a .ONION domain name?")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9puuR2Al--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ahmetcadirci.com.tr/images/galeri/onion-hosting-bilgileri.png)
+[![How do I create a .onion domain name?](img/f9bef643871852bc528cc18939b375e7.png "How do I create a .ONION domain name?")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9puuR2Al--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ahmetcadirci.com.img/galeri/onion-hosting-bilgileri.png)
 
 **第一步**。Tor 浏览器开启后将地址[http://dhosting 4 okcs 22v . onion](http://dhosting4okcs22v.onion/register.php)复制到 url 行。
 **第二步**。在打开的页面上接受用户名、密码、确认密码、副本和使用协议。
@@ -16,7 +16,7 @@ Tor 浏览器是一个强大的免费匿名浏览互联网的工具，它还能�
 
 ### HTML(演示)网站设置和配置
 
-[![HTML (Demo) Site Setup and Configuration](../Images/f9bef643871852bc528cc18939b375e7.png "HTML (Demo) Site Setup and Configuration")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9puuR2Al--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ahmetcadirci.com.tr/images/galeri/onion-hosting-bilgileri.png)
+[![HTML (Demo) Site Setup and Configuration](img/f9bef643871852bc528cc18939b375e7.png "HTML (Demo) Site Setup and Configuration")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9puuR2Al--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ahmetcadirci.com.img/galeri/onion-hosting-bilgileri.png)
 
 **第一步**。单击控制面板中的文件管理器链接。新标签将会打开。
 **第二步**。在弹出页面上输入您的密码。
@@ -26,7 +26,7 @@ Tor 浏览器是一个强大的免费匿名浏览互联网的工具，它还能�
 **第六步**。选择 [tor.zip](https://github.com/ahmetcadirci25/tor/archive/tor.zip) 并通过按 Unzip 导出我们制作的 html 文件。
 **第七步**。 [fzrcdjvzulfpczfd.onion](http://fzrcdjvzulfpczfd.onion) 查看我们上传的 html 文件。
 
-## ![](../Images/375dfcc32199b4dedf2b526645c27ff7.png) [阿赫默德卡特 25 ](https://github.com/ahmetcadirci25) / [托](https://github.com/ahmetcadirci25/tor)
+## ![](img/375dfcc32199b4dedf2b526645c27ff7.png) [阿赫默德卡特 25 ](https://github.com/ahmetcadirci25) / [托](https://github.com/ahmetcadirci25/tor)
 
 ### 如何安装洋葱路由网站？
 

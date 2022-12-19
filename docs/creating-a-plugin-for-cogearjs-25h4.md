@@ -6,17 +6,17 @@
 
 如果你错过了 **Cogear 的介绍。JS** 文章系列，不客气:
 
-[![codemotion image](../Images/0c21e6138639dc3e48daa6719734be56.png)](/codemotion) [## 齿轮。JS —现代静态网站生成器
+[![codemotion image](img/0c21e6138639dc3e48daa6719734be56.png)](/codemotion) [## 齿轮。JS —现代静态网站生成器
 
 ### 德米特里·别利亚耶夫
 
 #opensource#node#webpack#cogearjs](/codemotion/cogearjs--modern-static-websites-generator-450a)
-[![codemotion image](../Images/0c21e6138639dc3e48daa6719734be56.png)](/codemotion) [## 用 Cogear 建立一个博客。射流研究…
+[![codemotion image](img/0c21e6138639dc3e48daa6719734be56.png)](/codemotion) [## 用 Cogear 建立一个博客。射流研究…
 
 ### 德米特里·别利亚耶夫
 
 #node#cogearjs#webpack#javascript](/cogear/creating-a-blog-with-cogearjs-21af)
-[![codemotion image](../Images/0c21e6138639dc3e48daa6719734be56.png)](/codemotion) [## 部署 Cogear。JS 生成的站点添加到 Now.sh
+[![codemotion image](img/0c21e6138639dc3e48daa6719734be56.png)](/codemotion) [## 部署 Cogear。JS 生成的站点添加到 Now.sh
 
 ### 德米特里·别利亚耶夫
 
@@ -34,7 +34,7 @@
 
 ### 来源`./lib/cogear.js`
 
-[![Source of ./lib/cogear.js](../Images/6bc2da4edea38701d4563b7992fabb00.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---wSD9zTl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3az9aq4mxh88vwmrzrmv.png)
+[![Source of ./lib/cogear.js](img/6bc2da4edea38701d4563b7992fabb00.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---wSD9zTl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3az9aq4mxh88vwmrzrmv.png)
 
 此外。JS main object 类是全局可用的，并且扩展了 Emittery，因此可以在整个代码中调用事件。
 
@@ -44,7 +44,7 @@
 
 可以很容易地从全局可用的`cogear`实例的上下文中获取参数。或者您可以手动传递它们。
 
-[![Cogear on ane emit methods](../Images/d80bcd43f2f5bfe51c31334544015240.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--db7ASp-j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yvvbjdysc24wlfz03i3g.png)
+[![Cogear on ane emit methods](img/d80bcd43f2f5bfe51c31334544015240.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--db7ASp-j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yvvbjdysc24wlfz03i3g.png)
 
 要查看所有事件，请在 GitHub 存储库上使用[搜索](https://github.com/codemotion/cogear.js/search?utf8=%E2%9C%93&q=cogear.emit&type=)。它将显示所有您可以挂接的事件。
 
@@ -60,7 +60,7 @@
 
 并在 awesome-cogear 资源库中发现插件:
 
-## ![](../Images/375dfcc32199b4dedf2b526645c27ff7.png)[code motion](https://github.com/codemotion)/[awesome-cogear](https://github.com/codemotion/awesome-cogear)
+## ![](img/375dfcc32199b4dedf2b526645c27ff7.png)[code motion](https://github.com/codemotion)/[awesome-cogear](https://github.com/codemotion/awesome-cogear)
 
 ### 最佳插件、主题等列表。
 
@@ -108,7 +108,7 @@
 
 如果你喜欢这个视频，请订阅 [Cogear。JS YouTube-channel](https://www.youtube.com/channel/UCYVvgPLMfRwA2K_ledHCZcw) 和 giva a star to the projects repository:
 
-## ![](../Images/375dfcc32199b4dedf2b526645c27ff7.png)[codemotion](https://github.com/codemotion)/[cogear . js](https://github.com/codemotion/cogear.js)
+## ![](img/375dfcc32199b4dedf2b526645c27ff7.png)[codemotion](https://github.com/codemotion)/[cogear . js](https://github.com/codemotion/cogear.js)
 
 ### 现代静态网站生成器(Node.JS/Webpack)
 
@@ -128,13 +128,13 @@
 
 # 介绍视频
 
-[![Introduction to Cogear.JS](../Images/acee6f42d9ce86c915917cff17931f2e.png)T2】](https://youtu.be/nDga67P6lag?list=PLBuIATAeU0NWhrpWnI--TRG76DwAgem1I "Introduction to Cogear.JS")
+[![Introduction to Cogear.JS](img/acee6f42d9ce86c915917cff17931f2e.png)T2】](https://youtu.be/nDga67P6lag?list=PLBuIATAeU0NWhrpWnI--TRG76DwAgem1I "Introduction to Cogear.JS")
 
 ## 特征
 
-*   <g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥</g-emoji> **现代堆栈技术**用捆绑的脚本和样式构建现代静态网站。快速制作原型并立即部署到服务器上。使用**任何现代前端栈** ( **webpack** 捆绑)–[Vue。JS](https://vuejs.org) 、[反应](https://reactjs.org)、[角度](https://angular.io)、[余光](https://emberjs.org)等。
-*   <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> **超快可靠**每秒执行近 1.000 页(取决于页面内容和原始计算机处理器能力)。在线。服务器每秒钟可以处理数千个请求来服务静态文件(甚至在微型 VPS 上)。
-*   <g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> **对于任何主机**都不需要**任何数据库**(数据存储在平面…
+*   <g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f5a5.png">🖥</g-emoji> **现代堆栈技术**用捆绑的脚本和样式构建现代静态网站。快速制作原型并立即部署到服务器上。使用**任何现代前端栈** ( **webpack** 捆绑)–[Vue。JS](https://vuejs.org) 、[反应](https://reactjs.org)、[角度](https://angular.io)、[余光](https://emberjs.org)等。
+*   <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f680.png">🚀</g-emoji> **超快可靠**每秒执行近 1.000 页(取决于页面内容和原始计算机处理器能力)。在线。服务器每秒钟可以处理数千个请求来服务静态文件(甚至在微型 VPS 上)。
+*   <g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f4e6.png">📦</g-emoji> **对于任何主机**都不需要**任何数据库**(数据存储在平面…
 
 </article>
 
@@ -142,7 +142,7 @@
 
 # 加入社会影响力 Hacktoberfest 挑战赛
 
-[![Join the Social Impact Hacktoberfest Challenge](../Images/12d24b2f1ca6434c86e208aa1cd08868.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0yMnaXLc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/121322/46319645-ab50e200-c58f-11e8-8dd0-cf7a4b1a610e.png)
+[![Join the Social Impact Hacktoberfest Challenge](img/12d24b2f1ca6434c86e208aa1cd08868.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0yMnaXLc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/121322/46319645-ab50e200-c58f-11e8-8dd0-cf7a4b1a610e.png)
 
 通过向 [Cogear 投稿，了解如何赢取参加](https://cogearjs.org) [Hacktoberfest](https://hacktoberfest.digitalocean.com) 的超酷 t 恤。JS 。
 

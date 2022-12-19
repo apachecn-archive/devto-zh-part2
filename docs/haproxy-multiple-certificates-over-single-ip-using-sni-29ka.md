@@ -72,7 +72,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果您想查看正在发送的服务器名称，您可以使用 [Wireshark](https://www.wireshark.org/)
 
-[![Wireshark image](../Images/92f189e0484c430fe609baf36ac31ad6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rElaOz-t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5trtj8h3xmtntr31b4pj.png)
+[![Wireshark image](img/92f189e0484c430fe609baf36ac31ad6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rElaOz-t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5trtj8h3xmtntr31b4pj.png)
 
 使用此配置，如果您在 bk_app1 和 bk_app2 中提供相同的证书，您将基于当前握手被重定向。因此，您访问 app1.domain.com，然后访问 app2.domain.com，然后 app2.domain.com 将路由到 bk_app1。
 

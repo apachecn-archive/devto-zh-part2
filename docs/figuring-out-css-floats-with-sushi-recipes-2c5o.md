@@ -92,7 +92,7 @@
 
 现在，您应该在一行中看到所有的元素。但是有些事情不太对劲。它们都堆积在左边，你的棋盘右边可能有很多空位。
 
-[![Unevenly spaced sushis](../Images/9176e0ee1e1c2acc69e5bd7a484d0e79.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ny9N__ze--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2APTeK-2AbKxznolPfgWC6JQ.jpeg)
+[![Unevenly spaced sushis](img/9176e0ee1e1c2acc69e5bd7a484d0e79.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ny9N__ze--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2APTeK-2AbKxznolPfgWC6JQ.jpeg)
 
 我们需要让它们均匀分布。
 
@@ -108,7 +108,7 @@
 
 我知道这可能会让人困惑。这里有一个手工单按插图，我希望可以...嗯，说明清楚。
 
-[![Detailed view of all that's going on with these % signs](../Images/ded1c84fe4c7feb737ca591a10e2ed2c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CkwZ6ik8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AvEajpTwwxymHQr89D8ez1Q.jpeg)
+[![Detailed view of all that's going on with these % signs](img/ded1c84fe4c7feb737ca591a10e2ed2c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CkwZ6ik8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AvEajpTwwxymHQr89D8ez1Q.jpeg)
 
 每个网布为木板全宽的 33.33%；
 

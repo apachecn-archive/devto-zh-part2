@@ -4,7 +4,7 @@
 
 *这次采访是为我们的[创业微服务](https://buttercms.com/books/microservices-for-startups/)电子书而做的。一定要去看看关于微服务的实用建议。感谢 Chris 的时间和投入！*
 
-[![Chris McFadden](../Images/a88d989873b9797ded58c3bbaaf0220a.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--hfZLOrQ5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/UzyzypuWQ2itInBuKrRL) * [克里斯·麦克法登](https://twitter.com/cristoirmac?lang=en)是 [SparkPost](https://www.sparkpost.com/) 的工程副总裁。SparkPost 是一家领先的电子邮件基础设施提供商，也是目前性能最好的电子邮件递送服务提供商。*
+[![Chris McFadden](img/a88d989873b9797ded58c3bbaaf0220a.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--hfZLOrQ5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/UzyzypuWQ2itInBuKrRL) * [克里斯·麦克法登](https://twitter.com/cristoirmac?lang=en)是 [SparkPost](https://www.sparkpost.com/) 的工程副总裁。SparkPost 是一家领先的电子邮件基础设施提供商，也是目前性能最好的电子邮件递送服务提供商。*
 
 就背景而言，你的工程团队有多大？您是否正在使用微服务，能否概述一下您是如何使用它们的？
 

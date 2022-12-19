@@ -81,13 +81,13 @@ buildTypes {
 
 #### 配置应用中心
 
-[![](../Images/99c52e6791ae98640355f61c8b4e7dbb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--28pbZKBK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AZ7uXMRe4vh4pq2FCV1P7Nw.png) 
+[![](img/99c52e6791ae98640355f61c8b4e7dbb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--28pbZKBK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AZ7uXMRe4vh4pq2FCV1P7Nw.png) 
 
 <figcaption>上传您的密钥库并存储凭证</figcaption>
 
 #### 就是这样！
 
-[![](../Images/e1446f8b71e75bc9ba008dd2f10157d2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Z9k39fKP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/842/1%2A4q8GT3lWSbJnTnWUuj57zA.png) 
+[![](img/e1446f8b71e75bc9ba008dd2f10157d2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Z9k39fKP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/842/1%2A4q8GT3lWSbJnTnWUuj57zA.png) 
 
 <figcaption>终于打造成功了！</figcaption>
 

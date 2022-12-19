@@ -2,10 +2,10 @@
 
 > 原文：<https://dev.to/sepandhaghighi/pycm--full-analysis-of-confusion-matrix-3jja>
 
-[![PyCM Logo](../Images/21c99033983ad3608f9073809992aa00.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mcmkEkjW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/sepandhaghighi/pycm/raw/master/Otherfiles/logo.png) 
+[![PyCM Logo](img/21c99033983ad3608f9073809992aa00.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mcmkEkjW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/sepandhaghighi/pycm/raw/master/Otherfiles/logo.png) 
 PyCM 是用 Python 编写的多类混淆矩阵库，既支持输入数据向量，也支持直接矩阵，是支持大多数类和整体统计参数的后分类模型评估的合适工具。PyCM 是混淆矩阵的瑞士军刀，主要面向需要大量预测模型指标和大量分类器精确评估的数据科学家。
 
-[![PyCM Block Diagram](../Images/5853bc1fff8baf21abaceb9d7d0f951f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gsgdxaaP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/sepandhaghighi/pycm/raw/master/Otherfiles/block_diagram.jpg)
+[![PyCM Block Diagram](img/5853bc1fff8baf21abaceb9d7d0f951f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gsgdxaaP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/sepandhaghighi/pycm/raw/master/Otherfiles/block_diagram.jpg)
 
 ### 从矢量
 

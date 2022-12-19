@@ -97,7 +97,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 编译并运行。
 
-[![](../Images/e69f760657ac4f10dfd28ce21542d9fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ra_9ARjd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uqoj79aa677lyx8pev2q.png)
+[![](img/e69f760657ac4f10dfd28ce21542d9fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ra_9ARjd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uqoj79aa677lyx8pev2q.png)
 
 哦，我做的另一个改变是用白色填充窗口，因为我用的简笔画是黑色的。
 
@@ -167,7 +167,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 编译并运行。
 
-[![](../Images/ea83d2ad53693c4bef1a50df1b24ebdb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3jnJYBjV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zu7250bfimv6fpvszmuo.png)
+[![](img/ea83d2ad53693c4bef1a50df1b24ebdb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3jnJYBjV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zu7250bfimv6fpvszmuo.png)
 
 如果你有任何问题，我很乐意回答。
 

@@ -8,7 +8,7 @@
 
 我需要呈现的 JSON 是一个丑陋的嵌套 JSON，有多个层次。你永远不知道这些层是否会被填充，它们是一个空数组还是 null，等等。天真的方法是为每个层次级别创建一个组件，经过几分钟的“哦，不要再来了”的思考，我有了一个递归渲染这些级别的想法，令人兴奋！作为一名计算机程序员，我非常喜欢递归和解决这类问题的有趣方法。
 
-[![The General Problem](../Images/8810b2bc2e863a43e7a0c622622f97b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XQdkRfjv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgs.xkcd.com/comics/the_general_problem.png)
+[![The General Problem](img/8810b2bc2e863a43e7a0c622622f97b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XQdkRfjv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgs.xkcd.com/comics/the_general_problem.png)
 
 ## 创建**组件**
 
@@ -113,7 +113,7 @@ export default RecursiveProperty;
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![File Structure](../Images/f877695882c7ac73c62a8f4c9242510b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ycf5Z_7I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k4rckll2z8zlczsw2u90.png)
+[![File Structure](img/f877695882c7ac73c62a8f4c9242510b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ycf5Z_7I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k4rckll2z8zlczsw2u90.png)
 
 我们现在可以在 App.tsx.
 中呈现这个组件
@@ -334,7 +334,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 终于可以看到它在行动了！
 
-[![Finalized list](../Images/3a5cf7274cab189c6e879a91818935af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fmNdp5Ck--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8776b9zxi28gi10g0bb8.gif)
+[![Finalized list](img/3a5cf7274cab189c6e879a91818935af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fmNdp5Ck--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8776b9zxi28gi10g0bb8.gif)
 
 瞧，我们刚刚做了一些有用的东西！递归与 React 配合得很好，它是一个很棒的工具，我将来肯定会更多地使用它。我希望我鼓励你也使用它，它不会咬人！
 

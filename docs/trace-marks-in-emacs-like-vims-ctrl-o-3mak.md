@@ -26,7 +26,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果你使用头盔，你会喜欢`helm-ring`。
 
-[![helm](../Images/95edb467e173e86596ccb735f172fd63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YTIp05fx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g98u6jkkbtis1b094oda.gif)
+[![helm](img/95edb467e173e86596ccb735f172fd63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YTIp05fx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g98u6jkkbtis1b094oda.gif)
 
 [https://github.com/emacs-helm/helm/blob/master/helm-ring.el](https://github.com/emacs-helm/helm/blob/master/helm-ring.el)
 

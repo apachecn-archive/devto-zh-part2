@@ -8,7 +8,7 @@
 
 深度学习中的“深”其实只是对这些存在于你的输入层和输出层之间的隐藏层的引用。正如你可能已经从名字中推断出的那样，这种架构非常松散地受到了大脑的启发。松散地强调。
 
-[![sample neural network](../Images/a513805de7d253cb63b5b828cb45cc4c.png "Credits: Stanford CS229")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5p3_EcTZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i2su6hiu9ri1r7g9lz7n.jpeg)
+[![sample neural network](img/a513805de7d253cb63b5b828cb45cc4c.png "Credits: Stanford CS229")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5p3_EcTZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i2su6hiu9ri1r7g9lz7n.jpeg)
 
 为了训练这些网络，我们向它们展示了大量带有标签的样本数据示例。(想象一下给它看一张标签为“狗”的德国牧羊犬的照片)我们通过一种称为反向传播的算法，采用一种称为梯度下降的过程来修改节点之间的连接。这使我们能够修剪我们的网络并加强输入-输出映射。当我们训练它们时，基于 DL 的网络经常形成对应于输入的一些子成分的数据的有趣表示。想象一下代表桌子边缘的线条。
 

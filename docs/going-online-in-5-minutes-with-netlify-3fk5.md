@@ -12,10 +12,10 @@
 
 ## 我找到了 [Netlify](https://netlify.com)
 
-环顾四周，[我偶然发现了这个 reddit 帖子](https://www.reddit.com/r/webdev/comments/5m8tr4/how_do_i_host_the_website_i_just_built/)，它把我指向了 Netlify。[![Indeed](../Images/7a4a7aabb05e84261ee2129cbba4273e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--J9HROp5F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b6fp0vkfr4sxuy5dl6z5.png)
+环顾四周，[我偶然发现了这个 reddit 帖子](https://www.reddit.com/r/webdev/comments/5m8tr4/how_do_i_host_the_website_i_just_built/)，它把我指向了 Netlify。[![Indeed](img/7a4a7aabb05e84261ee2129cbba4273e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--J9HROp5F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b6fp0vkfr4sxuy5dl6z5.png)
 *在几秒钟内部署你的网站*部分登陆卖给我。注册帐户后，您需要连接到 GitHub 并为 CI 部署选择一个存储库。之后，Netlify 让你使用你想要的构建命令。
 
-[![Yes](../Images/a59836f2c94a365933d7b054df5bdfbe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5W8zEwOe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qeiy2zir2aocd6gwsoer.png)
+[![Yes](img/a59836f2c94a365933d7b054df5bdfbe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5W8zEwOe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qeiy2zir2aocd6gwsoer.png)
 
 您可以允许 netlify 访问您的帐户或特定的存储库。我选择了我的个人网站知识库，是基于一个免费的 Vue.js / Material 设计模板的[。](https://www.creative-tim.com/product/vue-material-kit)。
 

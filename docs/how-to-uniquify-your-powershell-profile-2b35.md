@@ -25,11 +25,11 @@
 
 也就是说，这将是一个很长的阅读，让我们开始吧。这是我当前的控制台启动时的图像(我们的最终目标):
 
-[![Custom_PowerShell_Console](../Images/ca019040e28725fbab873e97a1edddaa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Yi2WvlKp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/ljEMzRv.png)
+[![Custom_PowerShell_Console](img/ca019040e28725fbab873e97a1edddaa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Yi2WvlKp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/ljEMzRv.png)
 
 我喜欢它显示当前的天气报告，我定制了提示行来显示当前的目录名和时间，而不是标准的外观:
 
-[![Default_PowerShell_Console](../Images/21cb0e68fc1f119b71c9ad434efa2948.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DmOyYE0Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/oiReAl8.png)
+[![Default_PowerShell_Console](img/21cb0e68fc1f119b71c9ad434efa2948.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DmOyYE0Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/oiReAl8.png)
 
 ### 待办事项
 
@@ -55,11 +55,11 @@ $Host.UI.RawUI.WindowTitle  =  (Get-Date).ToString()
 
 虽然它很简洁，但我不太喜欢它的格式:
 
-[![Customized_WindowTitle-1](../Images/e6cd1e5077415a742449cc8c949fe2d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_CP5vgAN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/wmQGfxg.png)
+[![Customized_WindowTitle-1](img/e6cd1e5077415a742449cc8c949fe2d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_CP5vgAN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/wmQGfxg.png)
 
 经过[的一些修补](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-date?view=powershell-6#examples)，我登陆了`'%y/%m/%d %R'`格式。你可以像使用`Get-Date -UFormat '%y/%m/%d %R'`一样使用它，你的结果应该是这样的:
 
-[![Customized_WindowTitle-2](../Images/ca08122b80d97886423cdede7b271382.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QxXIdIX---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/a9fQMeH.png)
+[![Customized_WindowTitle-2](img/ca08122b80d97886423cdede7b271382.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QxXIdIX---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/a9fQMeH.png)
 
 现在我已经得到了我想要的头衔，接下来。接下来，Sean 提到了默认的提示函数，这是每次显示提示时执行的函数:
 
@@ -84,7 +84,7 @@ function  Prompt  {  $Host.UI.RawUI.WindowTitle  =  (Get-Date  -UFormat  '%y/%m/
 
 我们需要`-NoNewLine`参数来将所有文本放在同一行。这也允许我们把它分成 5 个单独的行，把当前时间涂成绿色，而其余的保持默认的白色。最后，我移动了这一行来定制标题，因为现在每当提示符更新时，标题也会更新，它会显示“当前”时间。现在，我们的控制台在启动时应该是这样的:
 
-[![Customized_Prompt-1](../Images/b7f88460b87c306e916df607177dd320.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1xx8DB-p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/irOTbHA.png)
+[![Customized_Prompt-1](img/b7f88460b87c306e916df607177dd320.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1xx8DB-p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/irOTbHA.png)
 
 至此，我们已经完成了待办事项列表中的两个项目，现在我们可以进入最简单的部分，即添加一个天气 API 来显示我们所在地区的当前状况。
 
@@ -94,19 +94,19 @@ function  Prompt  {  $Host.UI.RawUI.WindowTitle  =  (Get-Date  -UFormat  '%y/%m/
 
 当你在 OpenWeatherMap 上创建一个帐户时，进入你的帐户的 API 密钥部分，如果你找不到，可以在这里找到。创建一个键，随你怎么命名，我只是把我的设为“默认”:
 
-[![Open_Weather_Map_API_Key](../Images/7f995919a60821f2d2dcff5e793b2baf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x6DRP1hg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/RReC8Y9.png)
+[![Open_Weather_Map_API_Key](img/7f995919a60821f2d2dcff5e793b2baf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x6DRP1hg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/RReC8Y9.png)
 
 现在我们有了一个密钥，我们需要将`Get-Weather`脚本添加到我们的概要文件中。我的做法是在我的个人资料目录(`C:\Users\Alcha\Documents\WindowsPowerShell\`)中创建了一个名为 **Get-Weather.ps1** 的新脚本，然后从 GitHub 复制/粘贴该脚本的内容。我对变量命名约定和大小写有点执着，所以经过一些重构后，我最终得到了一个类似如下的脚本:
 
-[![Get-Weather_Script-1](../Images/f1aa7c873c43e0fa669afcf7e2e17012.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nZcPQjKH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/heE3AmH.png)
+[![Get-Weather_Script-1](img/f1aa7c873c43e0fa669afcf7e2e17012.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nZcPQjKH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/heE3AmH.png)
 
 我不会涉及脚本的细节，因为这已经是一篇相当长的文章了😅但是 obs0lete 的“我的”版本的脚本的全文是作为要点可用的[，你只需要插入你的 API 密匙就可以让它正常工作。现在*使用*这一点，我们只需要在我们的配置文件中点源文件，然后调用`Get-Weather`函数来启动它:](https://gist.github.com/Alcha/f08a83486f7d064be9d4f73300a33872)
 
-[![Weather_Added_To_Profile](../Images/c789eb5f69ef61db1dece4b2b2ceb386.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oIO7tWqD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/CpEy6aU.png)
+[![Weather_Added_To_Profile](img/c789eb5f69ef61db1dece4b2b2ceb386.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oIO7tWqD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/CpEy6aU.png)
 
 当然，您必须将 **API 键**、**城市**和**国家**更改为适合您的值，但这相当简单。需要注意的是，我发现我所居住的*实际上是*城市，因为美国有许多其他城市有相同的名字。这意味着我从 API 得到了非常奇怪的天气结果，想象一下当天气晴朗的时候，它说外面在下雨。我通过找到邻近的大城市并使用它们的名字来解决这个问题:
 
-[![Custom_PowerShell_Console-2](../Images/319f68a34cea81ed05704972f5cde9d0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YiUpz7gC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/i3qpiCi.png)
+[![Custom_PowerShell_Console-2](img/319f68a34cea81ed05704972f5cde9d0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YiUpz7gC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/i3qpiCi.png)
 
 ## 结论
 

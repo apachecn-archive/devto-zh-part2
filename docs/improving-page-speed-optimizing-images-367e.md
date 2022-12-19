@@ -6,7 +6,7 @@
 
 ## 调整图像大小
 
-首先，我们必须考虑图像的大小，也就是它们的宽度和高度。如果你懒，就像我 [![Resize pictures](../Images/b593e36229710c31c3db1bc85b1a0e3c.png)](http://codingfix.com/wp-content/uploads/2018/07/respic.png) 一样；)，您可能会让 css 为您完成这项工作:您只需上传您的图像，然后编写一系列 css 规则来调整它的大小(或者您甚至可以将宽度和高度设置为< img >标记的属性！！！).这是一个巨大的错误:数百千字节可以节省服务缩放图像。像 [GTMetrix](https://gtmetrix.com) 这样的工具会将此作为提高页面速度的高优先级任务来签署。
+首先，我们必须考虑图像的大小，也就是它们的宽度和高度。如果你懒，就像我 [![Resize pictures](img/b593e36229710c31c3db1bc85b1a0e3c.png)](http://codingfix.com/wp-content/uploads/2018/07/respic.png) 一样；)，您可能会让 css 为您完成这项工作:您只需上传您的图像，然后编写一系列 css 规则来调整它的大小(或者您甚至可以将宽度和高度设置为< img >标记的属性！！！).这是一个巨大的错误:数百千字节可以节省服务缩放图像。像 [GTMetrix](https://gtmetrix.com) 这样的工具会将此作为提高页面速度的高优先级任务来签署。
 
 因此，如果网页中真正显示的图像的宽度为 300 px，高度为 120 px，则不要使用 1200 px x 480 px 的原始图像:而是调整其大小，并使用请求大小的图像。如果同一个图像必须以不同的尺寸显示，上传到你的服务器上，每种尺寸一个图像，可以在图像名称后面附加一个指定宽度和高度的后缀。并且确保将正确的图像链接到您的标签的“src”属性。
 
@@ -20,7 +20,7 @@
 
 假设有 3 个像这样的旗帜图像:
 
-| [![Union Jack](../Images/24f9b91a8bbb2799b223f29bd50a88e7.png)T2】](http://codingfix.com/wp-content/uploads/2018/07/flag_en.png) | [![Rojigualda](../Images/2bd20a6776948ba6dc39dbbe608f0203.png)T2】](http://codingfix.com/wp-content/uploads/2018/07/flag_es.png) | [![Tricolore](../Images/a4f6161f236e79758e1f1b7f918bd171.png)T2】](http://codingfix.com/wp-content/uploads/2018/07/flag_it.png) |
+| [![Union Jack](img/24f9b91a8bbb2799b223f29bd50a88e7.png)T2】](http://codingfix.com/wp-content/uploads/2018/07/flag_en.png) | [![Rojigualda](img/2bd20a6776948ba6dc39dbbe608f0203.png)T2】](http://codingfix.com/wp-content/uploads/2018/07/flag_es.png) | [![Tricolore](img/a4f6161f236e79758e1f1b7f918bd171.png)T2】](http://codingfix.com/wp-content/uploads/2018/07/flag_it.png) |
 
 ### 错误的方式
 
@@ -52,7 +52,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 代替使用分别嵌套在三个<anchor>标签中的三个图像，这可能会触发语言变化事件，我们将使用我们选择的图像编辑器将三个标志组合在一个图像文件中。每个旗帜是 32 像素 x 32 像素，所以我们可以建立一个宽度为 32 像素，高度为 96 像素的图像。我们会得到这样的结果:</anchor>
 
-[![Flags sprite](../Images/9e19b0bbbfc1c331aef9c65ed08e0b3c.png)T2】](http://codingfix.com/wp-content/uploads/2018/07/flags.png)
+[![Flags sprite](img/9e19b0bbbfc1c331aef9c65ed08e0b3c.png)T2】](http://codingfix.com/wp-content/uploads/2018/07/flags.png)
 
 现在我们可以为我们的语言菜单使用下面的 html 结构:
 
@@ -90,13 +90,13 @@ ul#flags li a{
     text-align: center !important;
 }
 ul#flags li a#es{
-    background: url(../images/flags/flags.png) 0 0 no-repeat;
+    background: url(img/flags/flags.png) 0 0 no-repeat;
 }
 ul#flags li a#en{
-    background: url(../images/flags/flags.png) 0 32px no-repeat;
+    background: url(img/flags/flags.png) 0 32px no-repeat;
 }
 ul#flags li a#it{
-    background: url(../images/flags/flags.png) 0 64px no-repeat;
+    background: url(img/flags/flags.png) 0 64px no-repeat;
 } 
 ```
 
@@ -104,7 +104,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 你注意到最后三条规则了吗？在这里，我们设置了背景图片的顶部属性:0 代表西班牙国旗，32 代表英国国旗，64 代表意大利国旗。结果将如下所示:
 
-[![Language Flags](../Images/f2c9662003dc7f9132bd30e72eb97821.png)T2】](http://codingfix.com/wp-content/uploads/2018/07/flags-1.png)
+[![Language Flags](img/f2c9662003dc7f9132bd30e72eb97821.png)T2】](http://codingfix.com/wp-content/uploads/2018/07/flags-1.png)
 
 在本例中，我用橙色圆圈突出显示了活动语言(使用 javascript 来更改 click 事件中的活动项，但我将在另一篇关于如何使用几个精彩的 jQuery 插件创建多语言网页的文章中介绍这一点)。
 

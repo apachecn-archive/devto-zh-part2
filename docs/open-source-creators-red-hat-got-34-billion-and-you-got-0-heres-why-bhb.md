@@ -8,7 +8,7 @@
 
 这到底是怎么回事？
 
-[![Picard facepalm](../Images/aceaa268ef00842a3e5c6a4b4a935651.png)T2】](https://i.giphy.com/media/o14YPU6vooy0o/giphy.gif)
+[![Picard facepalm](img/aceaa268ef00842a3e5c6a4b4a935651.png)T2】](https://i.giphy.com/media/o14YPU6vooy0o/giphy.gif)
 
 在联合创办 Tidelift 之前，我在 Red Hat Enterprise Linux 的创建和早期发展阶段担任产品经理。我非常熟悉为什么它对红帽有效，为什么对你无效。
 

@@ -12,7 +12,7 @@
 
 出于演示目的，我们将使用 Aspose 将下面的[示例 Microsoft Visio 文档](https://github.com/shakeel-faiz/Screenshots-and-Sample-Files/blob/master/Convert%20Microsoft%20Visio%20Document%20to%20HTML/sampleConvertMicrosoftVisioDocumentToHTML.vsd)转换为 C#中的 HTML。图表 API。但是，您可以在示例代码中使用您选择的任何 Microsoft Visio 文档，它也将被转换为 HTML fine。
 
-[![Sample Microsoft Visio Document to be converted to HTML using Aspose.Diagram API.](../Images/50fa9097b767dfefb66e23a4f33276ea.png "Sample Microsoft Visio Document to be converted to HTML using Aspose.Diagram API.")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sO0bIoxp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/shakeel-faiz/Screenshots-and-Sample-Files/master/Convert%2520Microsoft%2520Visio%2520Document%2520to%2520HTML/Microsoft-Visio-Document-converted-HTML-Aspose.Diagram.png)
+[![Sample Microsoft Visio Document to be converted to HTML using Aspose.Diagram API.](img/50fa9097b767dfefb66e23a4f33276ea.png "Sample Microsoft Visio Document to be converted to HTML using Aspose.Diagram API.")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sO0bIoxp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/shakeel-faiz/Screenshots-and-Sample-Files/master/Convert%2520Microsoft%2520Visio%2520Document%2520to%2520HTML/Microsoft-Visio-Document-converted-HTML-Aspose.Diagram.png)
 
 # 发牌
 

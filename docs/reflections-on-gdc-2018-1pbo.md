@@ -10,19 +10,19 @@ GDC 2018 是我第一次参加 GDC，在为期五天的会议中，我学到了�
 
 这是为期五天的会议中 GDC 的一个快速的高层次视图。
 
-[![](../Images/fccbb3e67796592a7045e4eb3e10eb89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--isJ3lMiN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/du0yn38n5/image/upload/v1522127896/Capture_jr6e28.png)
+[![](img/fccbb3e67796592a7045e4eb3e10eb89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--isJ3lMiN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/du0yn38n5/image/upload/v1522127896/Capture_jr6e28.png)
 
 您可以购买不同级别的赛事门票，价格从 250 美元到 2300 美元不等。每种类型的通行证提供了越来越多的活动访问权限，例如，250 美元的世博会通行证仅允许您参观世博会和颁奖仪式，而 2300 美元的全通道通行证则允许您参观 VRDC 赛道、所有 GDC 会议、访问在线视频等。
 
 # VRDC
 
-[![](../Images/ad93b3fa66b432817db4418bfee4240b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c38WjUHQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/du0yn38n5/image/upload/v1522129161/IMG_0176_yp4rob.jpg)
+[![](img/ad93b3fa66b432817db4418bfee4240b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c38WjUHQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/du0yn38n5/image/upload/v1522129161/IMG_0176_yp4rob.jpg)
 
 我很幸运地拿到了通行证，头两天我参加了虚拟现实开发者大会，简称 VRDC。在 VRDC，我能够很好地了解 VR、AR、MR 和 XR 的最新发展。在“XR 创作工具中的探索”中，我了解了谷歌如何在 Tilt brush 中构建他们的新灯光面板，UnityLabs 如何在 VR 环境中探索 VR 创作，以及 Oculus 如何设计他们的家庭体验。在一次题为“虚拟现实游戏测试:棕色盒子、间谍相机和毛绒地毯”的会议上，有一些关于用纸箱制作原型的好建议。我还在“1 个游戏，6 个耳机，10 个控制器:带‘平面图’的多平台 VR”中学习了一些构建多个 VR 耳机的良好实践，并在“每个人的房间:社区 VR 的‘娱乐室’方法”和“Pac-Man HoloLens:为棋盘观众开发混合现实游戏”中学习了多用户协作体验的重要性。在题为“探索虚拟现实游戏未解决的挑战”的会议中，演讲者表明，虚拟现实仍在努力传递重量，如何处理阅读文本和移动。但是尽管有这些挑战，还是有一些关于最佳实践的很好的演示，比如在“移动虚拟现实中的精神控制:SingSpace 中激活的凝视”中如何进行凝视控制。
 
 # GDC
 
-[![](../Images/ac3eec7e93509199c63e468a5c8af768.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MoIxnzUV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/du0yn38n5/image/upload/v1522129161/IMG_0038_dx23h2.jpg)
+[![](img/ac3eec7e93509199c63e468a5c8af768.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MoIxnzUV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/du0yn38n5/image/upload/v1522129161/IMG_0038_dx23h2.jpg)
 
 GDC 会议提供了各种各样的主题，包括工程、艺术、设计和商业。许多讲座都围绕着过去一年中每个学科的最新学习成果。
 
@@ -30,13 +30,13 @@ GDC 会议提供了各种各样的主题，包括工程、艺术、设计和商�
 
 # 世博会
 
-[![](../Images/00bbb8e5fa4296f2fa24be88de507b99.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3RH_sHr6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/du0yn38n5/image/upload/v1522129161/IMG_0247_k02g7i.jpg)
+[![](img/00bbb8e5fa4296f2fa24be88de507b99.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3RH_sHr6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/du0yn38n5/image/upload/v1522129161/IMG_0247_k02g7i.jpg)
 
 GDC 博览会是来自世界各地的公司展示其最新商业产品和最新技术的地方。你可以找到大公司，像微软，亚马逊，谷歌，脸书，虚幻，统一，索尼等。为他们的最新产品制造刺激。微软展台整整三天都挤满了人，在这里你可以尝试混合现实耳机、Xbox 演示以及他们新的 PlayFab 后端基础设施，用于多人游戏和遥测服务。亚马逊也凭借其新的 GameOn 服务和伐木场游戏引擎占据了巨大的市场份额。脸书正在疯狂演示新的 Oculus Go 和 Santa Cruz(移动 6 自由度 HMD)。谷歌有一些白日梦的东西。Unity 在 GDC 上的表现是巨大的，几乎每个中小型开发人员都在使用 Unity，他们有许多性能增强，例如，新的实体组件系统架构，将 C#编译成本机代码，以及新的作业调度系统。虚幻和英伟达展示了他们新的实时光线跟踪技术。一些值得注意的演示包括，实时 CGI 人类木偶，超声波触觉反馈和全身虚拟现实设备。
 
 # 充分利用 GDC
 
-[![](../Images/9cc5a76e2432aaefed9ad92e8145045b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fkWwbSUW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/du0yn38n5/image/upload/v1522129161/IMG_0241_yiopfl.jpg)
+[![](img/9cc5a76e2432aaefed9ad92e8145045b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fkWwbSUW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/du0yn38n5/image/upload/v1522129161/IMG_0241_yiopfl.jpg)
 
 GDC 在旧金山市中心的莫斯康中心举行。旧金山是一个美丽的城市，但旧金山市中心可能有点简陋。注意你自己，跟着人群走。
 

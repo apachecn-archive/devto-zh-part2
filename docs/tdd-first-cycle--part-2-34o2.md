@@ -143,7 +143,7 @@ describe("with empty lastname", () => {
 } 
 ```
 
-我们有绿色的测试，我们有新的功能！酷，现在有趣的事情来了，重构！这次在生产代码 [![🙂](../Images/cfea5b58aa48fab10278694e22eb01ee.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UFibHl0O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.org/images/core/emoji/2.2.1/72x72/1f642.png) 中，为了避免重复，这里有许多抽象技术(我们将使用 ValueObjects)。但是我们将在我的 TDD 系列的第三篇文章中讨论它。即将推出，保持更新，不要错过！
+我们有绿色的测试，我们有新的功能！酷，现在有趣的事情来了，重构！这次在生产代码 [![🙂](img/cfea5b58aa48fab10278694e22eb01ee.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UFibHl0O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.oimg/core/emoji/2.2.1/72x72/1f642.png) 中，为了避免重复，这里有许多抽象技术(我们将使用 ValueObjects)。但是我们将在我的 TDD 系列的第三篇文章中讨论它。即将推出，保持更新，不要错过！
 
 如果你想了解更多关于 *TDD 第一周期*的信息，我强烈推荐你点击[这里](http://eepurl.com/cC96MY)订阅我们的每月简讯。
 

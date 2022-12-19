@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nickparsons/containerizing-a-nodejs-api--using-docker-with-kubernetes-and-minikube-16o9>
 
-[![](../Images/4ce65fcc668b1c441894f4e87e362693.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gnz8E4de--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3qlr9tepvzqg3550p6w6.jpeg)
+[![](img/4ce65fcc668b1c441894f4e87e362693.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gnz8E4de--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3qlr9tepvzqg3550p6w6.jpeg)
 
 作为 [Stream](https://getstream.io) 的开发者传道者，我有机会了解我们的工程团队和客户每天都在使用的大量令人敬畏的新技术。可以吸收的知识量绝对惊人，我喜欢抓住每一个机会学习所有的新兴工具和玩具。
 
@@ -20,13 +20,13 @@
 
 如果你的电脑上没有安装家酿软件，你可以使用 https://brew.sh/网站上的安装命令来安装。
 
-[![](../Images/c6c74f275071bd01a3397d853782eeb8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uxSbJWR3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1l2xwgk9tqfpwdlthvug.png)
+[![](img/c6c74f275071bd01a3397d853782eeb8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uxSbJWR3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1l2xwgk9tqfpwdlthvug.png)
 
 ## 第二步:Docker
 
 要安装 Docker，请进入入门页面，点击“Mac 版下载”。您将被重定向到另一个页面，您可能需要先创建一个帐户。
 
-[![](../Images/00c227669f10fcf7f2370a8059774949.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wYHzoJFn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2l3bife2spvgprdxxngn.png)
+[![](img/00c227669f10fcf7f2370a8059774949.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wYHzoJFn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2l3bife2spvgprdxxngn.png)
 
 ## 第三步:Minikube
 
@@ -77,7 +77,7 @@ cd api && yarn build && yarn start
 
 ## API 会自动打开一个窗口，您会看到与此类似的内容:
 
-[![](../Images/50f31d9c8364cef3112afa8dadba5e36.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LZRMTjYd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vm51r7a7dg0duqmi0zyv.png)
+[![](img/50f31d9c8364cef3112afa8dadba5e36.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LZRMTjYd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vm51r7a7dg0duqmi0zyv.png)
 
 # 用 Docker 容器化 API📦
 
@@ -163,7 +163,7 @@ curl --proxy "" https://cloud.google.com/container-registry/
 
 cURL 命令应该会退回一堆类似如下的 HTML:
 
-[![](../Images/552911b9716279348603820cf55b86c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tfhpZ7bo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6e3vzebpehnilo2sccm0.png)
+[![](img/552911b9716279348603820cf55b86c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tfhpZ7bo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6e3vzebpehnilo2sccm0.png)
 
 > 注意:如果您无法访问 Google 容器注册表，则您的连接有问题。在继续下一步之前，您需要对此进行调试。
 
@@ -187,7 +187,7 @@ minikube start --vm-driver=hyperkit
 
 如果成功，您的终端看起来将完全像这样:
 
-[![](../Images/7faa59fed2e42df2ff28fd7a8a28f831.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--us7KUVCV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ywmjkt274rh37dczdiim.png)
+[![](img/7faa59fed2e42df2ff28fd7a8a28f831.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--us7KUVCV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ywmjkt274rh37dczdiim.png)
 
 现在设置 Minikube 上下文。上下文决定了与哪个集群`kubectl`进行交互。我们将使用下面的命令来做到这一点:
 
@@ -215,7 +215,7 @@ kubectl cluster-info
 minikube dashboard 
 ```
 
-[![](../Images/7fa7b3aa405332e42c80782ff57e0434.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7w10P-KY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vpjvsuxplhwyhkso7dr7.png)
+[![](img/7fa7b3aa405332e42c80782ff57e0434.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7w10P-KY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vpjvsuxplhwyhkso7dr7.png)
 
 好吧，你已经走到这一步了。我们继续吧！
 
@@ -241,7 +241,7 @@ docker build -t api:v1 .
 
 该命令的输出应该如下所示:
 
-[![](../Images/9a22b10fc6b1655161199efff23c757a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fGjhLLMn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fds37ewg68j66ijzky8q.png)
+[![](img/9a22b10fc6b1655161199efff23c757a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fGjhLLMn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fds37ewg68j66ijzky8q.png)
 
 # 创建一个 Kubernetes 部署💻
 
@@ -265,7 +265,7 @@ kubectl get deployments
 
 而且，如果您访问您的仪表板(在您的终端中运行 minikube dashboard 命令)，您会看到绿色！
 
-[![](../Images/49980a032ff2137ccd34f8614ac2ee63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DeC2LaUZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tr4vdurfsbeccqcdb9sy.png)
+[![](img/49980a032ff2137ccd34f8614ac2ee63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DeC2LaUZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tr4vdurfsbeccqcdb9sy.png)
 
 你甚至可以在 [http://localhost:8080](http://localhost:8080) 访问 API！
 

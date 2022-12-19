@@ -44,7 +44,7 @@ error: target not found: rdma-core ==>  ERROR: 'pacman' failed to install missin
 日志的最后一行提到“错误:‘pacman’未能安装缺失的依赖项。”
 这是因为缺乏“依赖性”:
 
-[![](../Images/27f6a3aba28a2595721f7d98e69b3f54.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d_29Th2e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b32w5ottqrmoofmhy2r9.png)
+[![](img/27f6a3aba28a2595721f7d98e69b3f54.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d_29Th2e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b32w5ottqrmoofmhy2r9.png)
 
 在我的例子中，名为 rdma-core 的包没有安装，也没有自动解析。因此，我必须事先手动安装 rdma-core。
 
@@ -140,7 +140,7 @@ ninja: build stopped: subcommand failed. ==>  ERROR: A failure occurred in build
 
 上述错误的原因是一些软件包的版本太旧了。(在这种情况下，它是“haskell-zip-archive”库，因为日志中提到了“libHSzip-archive-...。所以:...:没有这样的文件或目录。)
 
-[![](../Images/b447ca0353f6575ca1709d7a56bd92b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oRIqRyF9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/azlk8kirdrzsgompe1ms.jpg)
+[![](img/b447ca0353f6575ca1709d7a56bd92b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oRIqRyF9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/azlk8kirdrzsgompe1ms.jpg)
 
 我按照 Manjaro 软件包经理的指导更新了所有可用的软件包。
 

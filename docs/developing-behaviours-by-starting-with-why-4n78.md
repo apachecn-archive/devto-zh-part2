@@ -22,7 +22,7 @@
 
 在[黄金圈](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)上观看这个精彩的视频:
 
-[![IMAGE ALT TEXT](../Images/7f0d90266f88e9d57bd4eff4ab3a2dc7.png)T2】](https://www.youtube.com/watch?v=qp0HIF3SfI4)
+[![IMAGE ALT TEXT](img/7f0d90266f88e9d57bd4eff4ab3a2dc7.png)T2】](https://www.youtube.com/watch?v=qp0HIF3SfI4)
 
 在视频中，Simon Sinek 告诉我们从“为什么”开始他说，这是一个令人信服的论点，不是由心理学驱动，而是由生物学驱动。从“为什么”开始挖掘大脑的边缘部分，据说可以克服我们现代的新皮层。
 

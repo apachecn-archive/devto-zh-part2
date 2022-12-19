@@ -19,6 +19,6 @@
 *   基于 XSD 的代码完成
 *   代码操作
 
-[![Features gif](../Images/9151c1e093e90bdfb4968abc6eccbb51.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KTuPLGAY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/148698/45977901-df208a80-c018-11e8-85ec-71c70ba8a5ca.gif)
+[![Features gif](img/9151c1e093e90bdfb4968abc6eccbb51.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KTuPLGAY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/148698/45977901-df208a80-c018-11e8-85ec-71c70ba8a5ca.gif)
 
 它仍在积极开发中，如果你想查看，这里有一个链接:[https://github.com/angelozerr/lsp4xml](https://github.com/angelozerr/lsp4xml)

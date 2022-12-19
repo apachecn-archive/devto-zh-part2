@@ -6,7 +6,7 @@
 > 
 > 这就是我们在网络抓取上的失败，以及我们如何克服它——建立链接状态
 
-[![Project Preview](../Images/19ac37e54caf092371028dc9c593d786.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3JsX1oLA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1400/1%2AEMFD4vzba3vKkSDNGhtrjg%402x.jpeg)
+[![Project Preview](img/19ac37e54caf092371028dc9c593d786.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3JsX1oLA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1400/1%2AEMFD4vzba3vKkSDNGhtrjg%402x.jpeg)
 
 ## 想法
 
@@ -40,7 +40,7 @@
 
 ## 建筑
 
-[![Go ahead and laugh 😂 Will replace this later. Maybe.](../Images/ec1c60418302389243d81eb1e8d55e66.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vsRfSgzG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AHjDW7nC0pN_LJBsQEO0hRQ%402x.jpeg)
+[![Go ahead and laugh 😂 Will replace this later. Maybe.](img/ec1c60418302389243d81eb1e8d55e66.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vsRfSgzG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AHjDW7nC0pN_LJBsQEO0hRQ%402x.jpeg)
 
 ## 改进
 

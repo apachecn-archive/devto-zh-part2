@@ -6,7 +6,7 @@
 
 本质上，问题归结为:我想使用`bufio`的扫描器干净地分割数据记录，但是我也需要精确地控制读取了多少字节。简单地计算输入记录中的字节数是不够的，因为数据记录可能会使用可变宽度分隔符 <sup id="fnref:1">[1](#fn:1)</sup> 拆分。(即`\n`对`\r\n`)。
 
-<figure>[![Problem: Read & Split Records until Chunk Boundary Is Reached](../Images/d160d9deab795bbffebd8849940515eb.png)](///img/2018-04-10-Counting-Scanned-Bytes-in-Go/chunk_setup.svg) 
+<figure>[![Problem: Read & Split Records until Chunk Boundary Is Reached](img/d160d9deab795bbffebd8849940515eb.png)](///img/2018-04-10-Counting-Scanned-Bytes-in-Go/chunk_setup.svg) 
 
 <figcaption>问题:读取&拆分记录，直到到达块边界</figcaption>
 
@@ -53,7 +53,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我的下一个想法是通过包装或重新实现`buffio.Scanner`来实现一个`CountingScanner`来计算处理的字节数。这两种选择都没有吸引力。`io`模块还有 [LimitReader](https://golang.org/pkg/io/#LimitedReader) ，它强制执行读取的最大字节数。对于我的问题，这是行不通的；我的阅读器需要完整地读取文件块中的最后一条记录，即使它跨越了截止点。
 
-<figure>[![io.LimitReader would not allow Logical Splitting](../Images/185ff40df4cf09180f97517b6e08a423.png)](///img/2018-04-10-Counting-Scanned-Bytes-in-Go/split_diagram.svg) 
+<figure>[![io.LimitReader would not allow Logical Splitting](img/185ff40df4cf09180f97517b6e08a423.png)](///img/2018-04-10-Counting-Scanned-Bytes-in-Go/split_diagram.svg) 
 
 <figcaption>木卫一。LimitReader 不允许逻辑拆分</figcaption>
 

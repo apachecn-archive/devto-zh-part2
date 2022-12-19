@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/aravindballa/html-sass-starter-kit-with-parcel-14k8>
 
-[![](../Images/1b13c4e337dd7aea4f456a4b8204583e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fyPFw4wP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/19409/31321658-f6aed0f2-ac3d-11e7-8100-1587e676e0ec.png)
+[![](img/1b13c4e337dd7aea4f456a4b8204583e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fyPFw4wP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/19409/31321658-f6aed0f2-ac3d-11e7-8100-1587e676e0ec.png)
 
 [package](https://github.com/parcel-bundler/parcel)是一款令人惊叹的零配置捆扎机。(你认识 bundlers 吧？比如 webpack？)它对我们通常做的许多事情都有现成的支持。与这个领域的其他产品相比，它的速度非常快。
 

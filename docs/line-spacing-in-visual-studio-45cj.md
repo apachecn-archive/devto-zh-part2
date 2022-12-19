@@ -12,7 +12,7 @@ Visual Studio 不像它的兄弟 VSCode 那样花哨。我没意见，没问题�
 
 A.
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)[alexhajdu](https://github.com/alexhajdu)/[visual-studio-font](https://github.com/alexhajdu/visual-studio-fonts)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)[alexhajdu](https://github.com/alexhajdu)/[visual-studio-font](https://github.com/alexhajdu/visual-studio-fonts)
 
 ### Visual Studio 中缺少行距功能的解决方法。
 
@@ -22,7 +22,7 @@ A.
 
 Visual Studio 中缺少行距功能的解决方法。
 
-[![Alt text](../Images/07b3d9d4eb4c3f933e9add21c8d4a989.png "Bp")T2】](https://raw.githubusercontent.com/alexhajdu/visual-studio-fonts/master/Preview.png?raw=true)
+[![Alt text](img/07b3d9d4eb4c3f933e9add21c8d4a989.png "Bp")T2】](https://raw.githubusercontent.com/alexhajdu/visual-studio-fonts/master/Preview.png?raw=true)
 
 </article>
 

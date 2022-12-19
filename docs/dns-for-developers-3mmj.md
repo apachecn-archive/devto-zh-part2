@@ -16,7 +16,7 @@ DNS 或域名系统将域名转换成 IP 地址，反之亦然。
 
 ### 工作原理
 
-[![](../Images/4edda2cbe620d7cc4291fea31f439562.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cc_POs83--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i0.wp.com/www.funkysi1701.com/wp-content/uploads/2018/04/dns-rev-1.gif%3Fresize%3D360%252C320%26ssl%3D1) 当您的浏览器向 google.com 发出请求时，它会向您的 ISPs DNS 服务器发出请求。这决定了 google.com 归属于 216.58.204.14
+[![](img/4edda2cbe620d7cc4291fea31f439562.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cc_POs83--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i0.wp.com/www.funkysi1701.com/wp-content/uploads/2018/04/dns-rev-1.gif%3Fresize%3D360%252C320%26ssl%3D1) 当您的浏览器向 google.com 发出请求时，它会向您的 ISPs DNS 服务器发出请求。这决定了 google.com 归属于 216.58.204.14
 
 更详细地说，您的 ISPs DNS 服务器会将 DNS 查询转发到另一个 DNS 服务器，并将结果缓存一段时间。这是 TTL 或生存时间。下一次，ISP DNS 服务器将能够直接回复，而不需要转发请求。
 

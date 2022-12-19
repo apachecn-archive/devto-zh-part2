@@ -12,7 +12,7 @@
 
 这是不可能的，KubePark 是一个巨大的成功。人们涌向大门，渴望享受 KubePark 的体验，但人太多了:队伍开始增长，脾气暴躁的游客在热门网站上留下难看的评论。
 
-[![big queues](../Images/e649fee7dcbf51185c2b1f0fd67aca99.png "Big queues ahead")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ERw6wsKD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://danlebrero.com/images/blog/kubernetes-explained/queues-to-the-parks-main-roller-coaster-big.jpg)
+[![big queues](img/e649fee7dcbf51185c2b1f0fd67aca99.png "Big queues ahead")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ERw6wsKD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://danlebrero.cimg/blog/kubernetes-explained/queues-to-the-parks-main-roller-coaster-big.jpg)
 
 <small>图像归属:【http://www.thethemeparkguy.com/】T2。</small>
 
@@ -46,7 +46,7 @@
 
 下面这张照片在网上疯传，但请注意，你会发现它非常令人不安:
 
-[![kubernetes affinities](../Images/3009ea6a6f27b05f5eeaf78e2b2dca61.png "Kubernetes node affinities")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BNPDTGV8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://danlebrero.com/images/blog/kubernetes-explained/kubernetes-explained-pod-affinity.jpg)
+[![kubernetes affinities](img/3009ea6a6f27b05f5eeaf78e2b2dca61.png "Kubernetes node affinities")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BNPDTGV8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://danlebrero.cimg/blog/kubernetes-explained/kubernetes-explained-pod-affinity.jpg)
 
 <small>图像归属:[舔](http://26anibestiario.kukuxumusu.com/resultados-animals/#) by [Kukuxumusu](http://www.kukuxumusu.com/) 。</small>
 

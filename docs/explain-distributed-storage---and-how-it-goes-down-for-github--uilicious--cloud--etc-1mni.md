@@ -6,7 +6,7 @@
 
 对系统管理员来说，这是糟糕的一个月(2018 年 10 月)，先是 youtube，然后是 github
 
-> ![GitHub Status profile image](../Images/000d2e4ec92adcc5f9427afefe685544.png)GitHub 状态@ GitHub 状态![twitter logo](../Images/65e26e35707d96169ec8af6b3cbf2003.png)我们正在继续为[GitHub.com](https://t.co/IEoI8IWMw9)修复一个数据存储系统。在此过程中，您可能会看到不一致的结果。2018 年 10 月 22 日上午 04:12[![Twitter reply action](../Images/5d5a32424597af8488f7190c7d7d496b.png)](https://twitter.com/intent/tweet?in_reply_to=1054224055673462786)[![Twitter retweet action](../Images/3d12d4a909b79beaf8d81b6491fd052d.png)](https://twitter.com/intent/retweet?tweet_id=1054224055673462786)[![Twitter like action](../Images/3f89df2f36e8e5624d2a25952b3ac8b8.png)](https://twitter.com/intent/like?tweet_id=1054224055673462786)
+> ![GitHub Status profile image](img/000d2e4ec92adcc5f9427afefe685544.png)GitHub 状态@ GitHub 状态![twitter logo](img/65e26e35707d96169ec8af6b3cbf2003.png)我们正在继续为[GitHub.com](https://t.co/IEoI8IWMw9)修复一个数据存储系统。在此过程中，您可能会看到不一致的结果。2018 年 10 月 22 日上午 04:12[![Twitter reply action](img/5d5a32424597af8488f7190c7d7d496b.png)](https://twitter.com/intent/tweet?in_reply_to=1054224055673462786)[![Twitter retweet action](img/3d12d4a909b79beaf8d81b6491fd052d.png)](https://twitter.com/intent/retweet?tweet_id=1054224055673462786)[![Twitter like action](img/3f89df2f36e8e5624d2a25952b3ac8b8.png)](https://twitter.com/intent/like?tweet_id=1054224055673462786)
 
 首先:#感谢 github 的人们修复了他们的系统。保持大规模系统正常运行并不容易[(我自己也经历过)](https://blog.uilicious.com/uilicious-com-fileserver-downtime-incident-may-2018-part-1-9af14b72ec0c)
 
@@ -28,7 +28,7 @@
 
 <figure>
 
-[![glusterfs replicated volume](../Images/f320a5ec6a8512552f782add02971a37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3aCBsgDZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w897wff1d3z2gfn5vtzw.png)
+[![glusterfs replicated volume](img/f320a5ec6a8512552f782add02971a37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3aCBsgDZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w897wff1d3z2gfn5vtzw.png)
 
 <figcaption>GlusterFS replicated volume</figcaption>
 
@@ -52,7 +52,7 @@
 
 或者如 xkcd 所说...
 
-[![xkcd datacenter scale](../Images/3e867e89a0ab9784ba1dc626572ab985.png)T2】](https://www.explainxkcd.com/wiki/index.php/1737:_Datacenter_Scale)
+[![xkcd datacenter scale](img/3e867e89a0ab9784ba1dc626572ab985.png)T2】](https://www.explainxkcd.com/wiki/index.php/1737:_Datacenter_Scale)
 
 # 核证数据库？这样的系统岂不是速度极慢？
 
@@ -66,7 +66,7 @@
 
 <figure>
 
-[![Cern giant laser beam](../Images/2581888e3bcdd1fc1596ec024bdc4866.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2Jdmj6B4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ulkx1b4hwkwxnvnj9nz1.jpeg)
+[![Cern giant laser beam](img/2581888e3bcdd1fc1596ec024bdc4866.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2Jdmj6B4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ulkx1b4hwkwxnvnj9nz1.jpeg)
 
 <figcaption>One giant death laser?</figcaption>
 
@@ -127,7 +127,7 @@
 
 > 这也是为什么你会看到关于数据在集群中同步需要多长时间的推文
 > 
-> > ![GitHub Status profile image](../Images/000d2e4ec92adcc5f9427afefe685544.png)GitHub 状态@ GitHub 状态![twitter logo](../Images/65e26e35707d96169ec8af6b3cbf2003.png)我们目前处于恢复操作的后期阶段，目标是在接下来的 2 小时内提供完全一致的数据。2018 年 10 月 22 日上午 06:51[![Twitter reply action](../Images/5d5a32424597af8488f7190c7d7d496b.png)](https://twitter.com/intent/tweet?in_reply_to=1054264047250608130)[![Twitter retweet action](../Images/3d12d4a909b79beaf8d81b6491fd052d.png)](https://twitter.com/intent/retweet?tweet_id=1054264047250608130)[![Twitter like action](../Images/3f89df2f36e8e5624d2a25952b3ac8b8.png)](https://twitter.com/intent/like?tweet_id=1054264047250608130)
+> > ![GitHub Status profile image](img/000d2e4ec92adcc5f9427afefe685544.png)GitHub 状态@ GitHub 状态![twitter logo](img/65e26e35707d96169ec8af6b3cbf2003.png)我们目前处于恢复操作的后期阶段，目标是在接下来的 2 小时内提供完全一致的数据。2018 年 10 月 22 日上午 06:51[![Twitter reply action](img/5d5a32424597af8488f7190c7d7d496b.png)](https://twitter.com/intent/tweet?in_reply_to=1054264047250608130)[![Twitter retweet action](img/3d12d4a909b79beaf8d81b6491fd052d.png)](https://twitter.com/intent/retweet?tweet_id=1054264047250608130)[![Twitter like action](img/3f89df2f36e8e5624d2a25952b3ac8b8.png)](https://twitter.com/intent/like?tweet_id=1054264047250608130)
 > 
 > 根据记录，考虑到他们可能正在运行一个多 Peta 字节的集群，在一天内同步数据是“很快的”
 
@@ -153,7 +153,7 @@
 
 <figure>
 
-[![Seeing double](../Images/bec73d89b80c2d84c1b36a43804bcd07.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fRFwlmRb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u18ygco5oy42j4ah2ed9.gif)
+[![Seeing double](img/bec73d89b80c2d84c1b36a43804bcd07.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fRFwlmRb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u18ygco5oy42j4ah2ed9.gif)
 
 <figcaption>Both: I'm the real one!</figcaption>
 
@@ -173,7 +173,7 @@
 
 后者是大多数分布式系统中最常见的，在最近的 github 宕机中也可以看到
 
-> ![GitHub Status profile image](../Images/000d2e4ec92adcc5f9427afefe685544.png)GitHub 状态@ GitHub 状态![twitter logo](../Images/65e26e35707d96169ec8af6b3cbf2003.png)我们继续为[GitHub.com](https://t.co/IEoI8IWMw9)修复数据存储系统的工作。在此过程中，您可能会看到不一致的结果。2018 年 10 月 22 日上午 02:01[![Twitter reply action](../Images/5d5a32424597af8488f7190c7d7d496b.png)](https://twitter.com/intent/tweet?in_reply_to=1054191038267564032)[![Twitter retweet action](../Images/3d12d4a909b79beaf8d81b6491fd052d.png)](https://twitter.com/intent/retweet?tweet_id=1054191038267564032)[![Twitter like action](../Images/3f89df2f36e8e5624d2a25952b3ac8b8.png)](https://twitter.com/intent/like?tweet_id=1054191038267564032)
+> ![GitHub Status profile image](img/000d2e4ec92adcc5f9427afefe685544.png)GitHub 状态@ GitHub 状态![twitter logo](img/65e26e35707d96169ec8af6b3cbf2003.png)我们继续为[GitHub.com](https://t.co/IEoI8IWMw9)修复数据存储系统的工作。在此过程中，您可能会看到不一致的结果。2018 年 10 月 22 日上午 02:01[![Twitter reply action](img/5d5a32424597af8488f7190c7d7d496b.png)](https://twitter.com/intent/tweet?in_reply_to=1054191038267564032)[![Twitter retweet action](img/3d12d4a909b79beaf8d81b6491fd052d.png)](https://twitter.com/intent/retweet?tweet_id=1054191038267564032)[![Twitter like action](img/3f89df2f36e8e5624d2a25952b3ac8b8.png)](https://twitter.com/intent/like?tweet_id=1054191038267564032)
 
 > 一个值得注意的例外是分布式缓存系统，如 [hazelcast](https://hazelcast.com/) :它将采用具有“最新”时间戳的数据方法来解决裂脑问题。
 > 
@@ -195,7 +195,7 @@
 
 <figure>
 
-[![Cloud is not magic](../Images/c318c3f27801ed82af0e4a9f7afd4a10.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KNSnQ0RP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jx1k9a8nd5ax8euizvbc.jpg)
+[![Cloud is not magic](img/c318c3f27801ed82af0e4a9f7afd4a10.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KNSnQ0RP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jx1k9a8nd5ax8euizvbc.jpg)
 
 <figcaption>Cloud is not magic, someone actually needs to keep it working</figcaption>
 

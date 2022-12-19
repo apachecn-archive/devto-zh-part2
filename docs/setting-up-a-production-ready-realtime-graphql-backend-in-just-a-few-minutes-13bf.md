@@ -6,7 +6,7 @@
 
 <figure>
 
-[![npm trends for GraphQL](../Images/d842400e71a39f296170fa545f2f6e10.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fWjYDtPN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/343gpa387kdplx7nwtdk.png)
+[![npm trends for GraphQL](img/d842400e71a39f296170fa545f2f6e10.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fWjYDtPN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/343gpa387kdplx7nwtdk.png)
 
 <figcaption>npm trends for GraphQL</figcaption>
 
@@ -24,7 +24,7 @@
 
 <figure>
 
-[![Deploy Hasura GraphQL on DigitalOcean](../Images/8a52f4cb7fd408ee49f947e6496eef6a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TqBOw1vt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hasura.io/rstatic/dist/aff7bcdcffab8cf6be860b30f687ab2e.png)
+[![Deploy Hasura GraphQL on DigitalOcean](img/8a52f4cb7fd408ee49f947e6496eef6a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TqBOw1vt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hasura.io/rstatic/dist/aff7bcdcffab8cf6be860b30f687ab2e.png)
 
 <figcaption>Deploy Hasura GraphQL on DigitalOcean</figcaption>
 
@@ -34,7 +34,7 @@
 
 <figure>
 
-[![Create schema Hasura](../Images/2c9939c9d0382071c8142a486d6bc6ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V9IHTu3F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hasura.io/rstatic/dist/a3334540075c7ca1266194670ddb56a3.png)
+[![Create schema Hasura](img/2c9939c9d0382071c8142a486d6bc6ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V9IHTu3F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hasura.io/rstatic/dist/a3334540075c7ca1266194670ddb56a3.png)
 
 <figcaption>Create schema</figcaption>
 
@@ -44,7 +44,7 @@
 
 <figure>
 
-[![Auth0 setup](../Images/7a156a587f9b66b6c47f280e762607d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pD0FUztQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hasura.io/rstatic/dist/d01922a476e7cbee087e6884bb406ff2.png)
+[![Auth0 setup](img/7a156a587f9b66b6c47f280e762607d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pD0FUztQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hasura.io/rstatic/dist/d01922a476e7cbee087e6884bb406ff2.png)
 
 <figcaption>Configure access control rules</figcaption>
 

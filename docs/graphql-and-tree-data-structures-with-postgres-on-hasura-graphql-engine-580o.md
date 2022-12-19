@@ -4,7 +4,7 @@
 
 在 postgres 上建模一个树数据结构，并使用 GraphQL 从树中添加和获取数据。
 
-[![](../Images/df9ab21d1b82db20885ddbccbbb8e995.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pQrMAa5J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/graphql-and-tree-data-structures-with-postgres-on-hasura-dfa13c0d9b5f/1-hMpPgGrfcSTl8Y5IhbQPgQ.png)
+[![](img/df9ab21d1b82db20885ddbccbbb8e995.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pQrMAa5J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/graphql-and-tree-data-structures-with-postgres-on-hasura-dfa13c0d9b5f/1-hMpPgGrfcSTl8Y5IhbQPgQ.png)
 
 ## 什么时候使用树形数据结构？
 
@@ -30,7 +30,7 @@
 
 我们将使用 Hasura GraphQL 引擎通过 Postgres 即时获取 GraphQL APIs。点击下面的按钮，将 GraphQL 引擎部署到 Heroku 的自由层。
 
-<figure>[![Hasura on Heroku](../Images/c5f2ec62efbee76fd41eb9eff7b5c1c0.png)](https://heroku.com/deploy?template=https://github.com/hasura/graphql-engine-heroku) 
+<figure>[![Hasura on Heroku](img/c5f2ec62efbee76fd41eb9eff7b5c1c0.png)](https://heroku.com/deploy?template=https://github.com/hasura/graphql-engine-heroku) 
 
 <figcaption>点击此按钮将 GraphQL 引擎部署到 Heroku</figcaption>
 
@@ -44,7 +44,7 @@
 
 API 控制台位于 [`https://your-app.herokuapp.com`](https://your-app.herokuapp.com) `/console`
 
-[![](../Images/9ec395eb3a5910ae5517767613b11a01.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VPod5MCu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/graphql-and-tree-data-structures-with-postgres-on-hasura-dfa13c0d9b5f/1-0QX6Ejk4A3swZD6u9OZNZg.png)
+[![](img/9ec395eb3a5910ae5517767613b11a01.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VPod5MCu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/graphql-and-tree-data-structures-with-postgres-on-hasura-dfa13c0d9b5f/1-0QX6Ejk4A3swZD6u9OZNZg.png)
 
 ## 创建表格
 
@@ -59,7 +59,7 @@ API 控制台位于 [`https://your-app.herokuapp.com`](https://your-app.herokuap
 *   **`post_id`** 整数
 *   **`user_id`** 整数
 
-[![](../Images/52509222054a998d5a2ccfd4d3aff8df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7JKHZRkz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/graphql-and-tree-data-structures-with-postgres-on-hasura-dfa13c0d9b5f/1-_JaBTlZ35nWZyeaE3nHcCA.png)
+[![](img/52509222054a998d5a2ccfd4d3aff8df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7JKHZRkz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/graphql-and-tree-data-structures-with-postgres-on-hasura-dfa13c0d9b5f/1-_JaBTlZ35nWZyeaE3nHcCA.png)
 
 点击`create`按钮创建表格。
 
@@ -71,13 +71,13 @@ API 控制台位于 [`https://your-app.herokuapp.com`](https://your-app.herokuap
 
 为此，转到`Modify`选项卡，点击`parent_id`旁边的`Edit`按钮。勾选`Foreign Key`复选框，选择`post_comments`作为参考表，选择`id`作为参考列。
 
-[![](../Images/3b20fef385b35907551f1174f4779fd9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2IP2GdeJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/graphql-and-tree-data-structures-with-postgres-on-hasura-dfa13c0d9b5f/1-K_FWIG1pSefcVQ0tkuAiJg.png)
+[![](img/3b20fef385b35907551f1174f4779fd9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2IP2GdeJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/graphql-and-tree-data-structures-with-postgres-on-hasura-dfa13c0d9b5f/1-K_FWIG1pSefcVQ0tkuAiJg.png)
 
 ### 添加一个[关系](https://docs.hasura.io/0.15/manual/data/relationships/index.html)来获取子注释
 
 接下来，点击`Relationship`选项卡，并点击`Suggested Array Relationship`栏下的`Add`按钮。命名关系`children_comments`
 
-[![](../Images/005204fe6d4ab102e2943a8a7dfd2247.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iLKNzJ1m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/graphql-and-tree-data-structures-with-postgres-on-hasura-dfa13c0d9b5f/1-INIXEHedYj2jo7wxgoy4bQ.png)
+[![](img/005204fe6d4ab102e2943a8a7dfd2247.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iLKNzJ1m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/graphql-and-tree-data-structures-with-postgres-on-hasura-dfa13c0d9b5f/1-INIXEHedYj2jo7wxgoy4bQ.png)
 
 点击`Save`添加此关系。
 

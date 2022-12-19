@@ -14,11 +14,11 @@
 
 去年 11 月下旬，我不得不登录检查一个设置，有一些时间消磨，所以决定检查成本浏览器。我一直知道我们的 S3 成本很高，但从来没有陷入其中，因为它从来就不是一个问题。所以我决定看看发生了什么，并在 S3 日志中挖掘，注意到奇怪的查询字符串(如`?v=1&v=2&v=3...&v=5409`)，它被视为一个独立的对象，无法缓存(在 CDN 上)，因为它一直在变化，可以说是“[缓存破坏](https://dev.to/search?q=Cache%20Busting)”。我登录 MaxCDN 控制面板，*禁用*“作为单独的可缓存项处理”。
 
-[![](../Images/1aaa63b7602dd99c63c857aea4ab37ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Uh_-FYuA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wplqb2ami7lw4ci55578.png)
+[![](img/1aaa63b7602dd99c63c857aea4ab37ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Uh_-FYuA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wplqb2ami7lw4ci55578.png)
 
 这是一个简单的改变所做的:
 
-[![](../Images/766118522e4592c4805a5c49ca3f3f3e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L2H-w1eT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ihovac3jr1cwi4pejiss.png)
+[![](img/766118522e4592c4805a5c49ca3f3f3e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L2H-w1eT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ihovac3jr1cwi4pejiss.png)
 
 ### 我学到的东西
 
@@ -28,11 +28,11 @@
 
 **变更前(2017 年 10 月)**:
 
-[![](../Images/c23fad6bf1f4987f29cf88a0746a5157.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M2y5m4ee--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/clq81na7ltbsqv8ns5eu.png)
+[![](img/c23fad6bf1f4987f29cf88a0746a5157.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M2y5m4ee--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/clq81na7ltbsqv8ns5eu.png)
 
 **变更后(2018 年 1 月):**
 
-[![](../Images/bc038393f93d89e2579e52cd84890ccb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Je2KdTjG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/byjvlyq62fhyknmrbecq.png)
+[![](img/bc038393f93d89e2579e52cd84890ccb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Je2KdTjG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/byjvlyq62fhyknmrbecq.png)
 
 ### 在关闭
 

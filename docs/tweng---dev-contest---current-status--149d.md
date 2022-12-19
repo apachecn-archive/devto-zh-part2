@@ -32,7 +32,7 @@ Tweng 不应该是 100%的克隆，但基本的游戏应该是一样的:两个�
 
 所以，在这里。当前桌面版本的第一印象:
 
-[![Tweng screenshot](../Images/2e41ba363899a454dfde117ca4e33cb5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uf4sG600--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ap3l4p049xetclerv0le.png)
+[![Tweng screenshot](img/2e41ba363899a454dfde117ca4e33cb5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uf4sG600--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ap3l4p049xetclerv0le.png)
 
 可以猜到，UI 设计很难！所以，现在，我只提供了一个基本的布局和一些非常酷的免费图标。
 

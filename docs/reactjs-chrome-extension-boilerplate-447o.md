@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/satendra02/reactjs-chrome-extension-boilerplate-447o>
 
-[![ReactJs Chrome](../Images/b9fca3da99bd4e02cbbe5fb0b60e91c3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--D7O_Z14B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/71if5vcvg1my4rbehyw7.png) 
+[![ReactJs Chrome](img/b9fca3da99bd4e02cbbe5fb0b60e91c3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--D7O_Z14B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/71if5vcvg1my4rbehyw7.png) 
 我们已经用 ReactJs 使用注入页面策略开源了 chrome 扩展的样板文件。阅读[详细博客](https://medium.com/@satendra02/create-chrome-extension-with-reactjs-using-inject-page-strategy-137650de1f39)
 
 样板文件是使用 ReactJs 快速创建一个 chrome 扩展
@@ -17,7 +17,7 @@
 
 源代码:
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) [桑德拉 02](https://github.com/satendra02)/[react-chrome-extension](https://github.com/satendra02/react-chrome-extension)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) [桑德拉 02](https://github.com/satendra02)/[react-chrome-extension](https://github.com/satendra02/react-chrome-extension)
 
 ### 使用注入页面策略的带有 ReactJs 的 chrome 扩展样板
 

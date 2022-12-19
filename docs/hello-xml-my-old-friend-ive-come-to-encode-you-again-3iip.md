@@ -6,7 +6,7 @@
 
 根据您从事开发的时间长短，XML 可能是一个听起来完全陌生的术语。对另一些人来说，这可能会勾起他们压抑已久的对黑暗日子的回忆。
 
-[![](../Images/8113d8a4ad168a23a88c3a4ca23b0fbb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QmHyRfN2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://rion.io/content/images/2017/12/xml-conversion.PNG)
+[![](img/8113d8a4ad168a23a88c3a4ca23b0fbb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QmHyRfN2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://rion.io/conteimg/2017/12/xml-conversion.PNG)
 
 在我与各种经验的开发人员的许多接触中，我看到了从铁杆 JSON 爱好者到相信 XML 是一种真正编码的人的光谱。不管怎样，如果您在过去十年中编写过任何 web 服务或 Web APIs，那么您很可能曾经使用过其中的一个。
 

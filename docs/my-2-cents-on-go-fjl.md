@@ -4,7 +4,7 @@
 
 跟帖之后，我决定采取一个行动，学习围棋。
 
-[![idoshamun image](../Images/a252ba36af372342be548b27806e13a6.png)](/idoshamun) [## 该不该学围棋？
+[![idoshamun image](img/a252ba36af372342be548b27806e13a6.png)](/idoshamun) [## 该不该学围棋？
 
 ### I do sham un 9 月 4 日 181 分钟阅读
 

@@ -4,7 +4,7 @@
 
 据 GitHub 报道，我从 2016 年 9 月 1 日起就有了一个作品集网站。根据谷歌分析，从 2016 年 9 月到 2017 年 10 月，我的投资组合的两次迭代只有不到 300 次浏览。2017 年 10 月，我对[我的网站](https://www.alispit.tel)做了一次彻底的重写，结果相当戏剧化。第一个月我就获得了 1861 次浏览，从那以后，我平均每个月都有大约 1000 次点击。当然，相关性不是因果关系，但我认为重新设计肯定有积极的影响。这不完全是脸书，但对于一个除了我的信息之外什么都不向浏览者提供的投资组合网站来说，我认为这些数字相当不错！
 
-[![](../Images/7b591cfd303779bf213d69473476cef0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sU93sXvy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i08xlos0r72yfoq0ss6k.png)
+[![](img/7b591cfd303779bf213d69473476cef0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sU93sXvy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i08xlos0r72yfoq0ss6k.png)
 
 在这篇文章中，我将深入探讨什么对我有用，什么没用，我建立一个令人敬畏的投资组合的技巧，以及我喜欢的其他人的投资组合。
 
@@ -16,17 +16,17 @@
 
 第一个是 Jekyll 网站，使用了 SASS 和 Pug。出于怀旧的原因，我在这里部署了它——看看这些项目——它们都来自大学，而且大多数都是 C++！
 
-[![](../Images/2a108d0b933af79a9be4cabd7a30beb3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9dsUPkZ2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1s3a76idhc82y92qv4vh.png)
+[![](img/2a108d0b933af79a9be4cabd7a30beb3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9dsUPkZ2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1s3a76idhc82y92qv4vh.png)
 
 对于网站的实际内容来说，这种设置是不必要的复杂。对于这样一个简单的页面，我使用了 Jekyll、MaterializeCSS、SASS 和 Pug 我认为 Gulp 设置比实际需要的 CSS 要长！我刚刚过渡到以任何身份编写前端代码，所以这对我来说是一个使用 SASS 和 Gulp 的学习机会。我也不需要 Jekyll 我只列出了几个项目，而且只有一页。
 
 此外，控制台中显示了一堆 404，用于查找未找到的资源。如果我是一个正在浏览网站的开发者，我肯定会对此提出批评。
 
-[![](../Images/abd71a81be857bd7df29abd106fbe421.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2UjfZYz0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tkpgohcpmifnhf4rru08.png)
+[![](img/abd71a81be857bd7df29abd106fbe421.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2UjfZYz0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tkpgohcpmifnhf4rru08.png)
 
 我的项目截图不是很好。它们要么是编码的，要么是以非最佳方式裁剪的。
 
-[![](../Images/eb349e2e854c5788acda5881ebd4b596.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lDstvHCQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gvorql3zoufxscjqogck.png)
+[![](img/eb349e2e854c5788acda5881ebd4b596.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lDstvHCQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gvorql3zoufxscjqogck.png)
 
 字体也太小，很难阅读文本。我的社交偶像并不是最突出的，这意味着他们可能没有太高的参与率。
 
@@ -34,7 +34,7 @@
 
 ### 我的第二个作品集
 
-[![](../Images/f599fdcef7808f40428a7f438e7a2a48.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ikL4VzB2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nm540c6dvldzneow431w.png)
+[![](img/f599fdcef7808f40428a7f438e7a2a48.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ikL4VzB2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nm540c6dvldzneow431w.png)
 
 第二次迭代是一个 HTML 和 CSS 网站，背景是移动的圆点。你可以点击查看[。我承认，我仍然对这个投资组合情有独钟。](http://third-match.surge.sh/)
 
@@ -46,13 +46,13 @@
 
 ## 什么奏效了
 
-[![](../Images/c8e35f3a02f7880b56fd53de9bf51ce7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RoUTASsY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1z743q9sb89tp3nzjd1a.png)
+[![](img/c8e35f3a02f7880b56fd53de9bf51ce7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RoUTASsY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1z743q9sb89tp3nzjd1a.png)
 
 去年 10 月，我从零开始，建立了一个有点与众不同的[投资组合](https://www.alispit.tel)。**你的作品集是你将建立的唯一一个完全创造性表达自己的网站，没有任何限制。**所以，我全力以赴，交互性、动画，凡是你能想到的，它都有。
 
 如果你点击主页上的任何地方，就会出现一个随机的形状。如果你将鼠标悬停在字母上，它们会显示动画。如果你把鼠标悬停在我的照片上，它就会旋转。
 
-[![](../Images/35cdd7277651ae7c7c8e1a532a6b13b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6dSUNHcx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bgdyl2qu9flsn5f8pt3a.png)
+[![](img/35cdd7277651ae7c7c8e1a532a6b13b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6dSUNHcx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bgdyl2qu9flsn5f8pt3a.png)
 
 我在这个作品集里使用了 Vue，所以它可以无缝地从一页过渡到另一页。我还增加了字体大小，这样读者可以更快更容易地收集信息。我的联系人页面提供了大按钮，可以在互联网上的任何地方关注我。
 
@@ -86,7 +86,7 @@
 *   朱莉娅·库塞诺娃(Julia Khusainova)——这个网站非常简约，但传达了重点。
 *   Nik Papic——又一个简单却漂亮的。
 *   罗比·莱昂纳迪 -一份游戏简历！
-*   [Dinesh Pandiyan](https://flexdinesh.github.io/) -颜色变化是一个非常酷的功能，我喜欢极简主义的设计。[![flexdinesh image](../Images/ecb6dc2da1bf85c037ac132f5ed867ea.png)](/flexdinesh)
+*   [Dinesh Pandiyan](https://flexdinesh.github.io/) -颜色变化是一个非常酷的功能，我喜欢极简主义的设计。[![flexdinesh image](img/ecb6dc2da1bf85c037ac132f5ed867ea.png)](/flexdinesh)
 
     ## [迪内什 潘迪言](/flexdinesh)
 

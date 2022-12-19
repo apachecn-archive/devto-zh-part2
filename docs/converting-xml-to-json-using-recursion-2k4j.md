@@ -6,7 +6,7 @@
 
 服务器在中发回了响应..喘气..像任何正常的 rest api 那样使用 XML 而不是 JSON。
 
-[![](../Images/d220d5d976165e2843cfc855a5fcc996.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--efGGmIaG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AXuRqFNT2fMExddcrERq-6g.jpeg)
+[![](img/d220d5d976165e2843cfc855a5fcc996.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--efGGmIaG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AXuRqFNT2fMExddcrERq-6g.jpeg)
 
 因此，我想出了一种简单地将 XML 转换成 JavaScript 对象的方法。这是我试图读取的数据的一个例子。
 

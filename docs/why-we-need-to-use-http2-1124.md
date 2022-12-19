@@ -17,7 +17,7 @@ HTTP/2 在 2G 网络上仅快 2 倍的原因是由于边缘带宽限制，因为
 
 HTTP/2 的主要目标是通过启用完整的请求和响应多路复用来减少延迟，通过有效压缩 HTTP 头字段来最小化协议开销，以及添加对请求优先级和服务器推送的支持。为了实现这些要求，有大量其他协议增强的支持，如新的流量控制、错误处理和升级机制，但这些是每个 web 开发人员都应该了解并在他们的应用程序中利用的最重要的功能。
 
-[![](../Images/111a708de4a4787c4c3b5d717ef0b2f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UPmrOKax--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Aq7z5lRT1ByNJWxXRXayUVQ.jpeg)
+[![](img/111a708de4a4787c4c3b5d717ef0b2f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UPmrOKax--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Aq7z5lRT1ByNJWxXRXayUVQ.jpeg)
 
 HTTP/2 不会以任何方式修改 HTTP 的应用程序语义。所有的核心概念，比如 HTTP 方法、状态代码、URIs 和头字段，都保持不变。相反，HTTP/2 修改了数据格式化(成帧)和在客户机和服务器之间传输的方式，客户机和服务器都管理整个过程，并在新的成帧层中对我们的应用程序隐藏了所有的复杂性。因此，所有现有的应用程序无需修改即可交付。
 
@@ -45,7 +45,7 @@ HTTP/2 定义了请求优先级并支持取消，因此如果应用程序需要�
 
 一个典型的(也是简化的)HTTP 请求/响应流程是这样的(下面的截图是用来连接黑客新闻的):
 
-[![](../Images/9763acbce40332247319f1a7eed07275.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q2aMy-1v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AYvOWVbP5yd5nmJ55nKuKRA.png)
+[![](img/9763acbce40332247319f1a7eed07275.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q2aMy-1v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AYvOWVbP5yd5nmJ55nKuKRA.png)
 
 1.  浏览器请求一个 HTML 文档。
 2.  服务器处理请求并生成/发送 HTML 文档。

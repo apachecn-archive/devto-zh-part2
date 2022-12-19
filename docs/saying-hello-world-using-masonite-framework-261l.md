@@ -54,7 +54,7 @@ http://localhost:8000/
 Enter fullscreen mode Exit fullscreen mode
 
 给你！
-[![Masonite Framework](../Images/61baf6370e9c785325a571a2fab1744b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NEZ6M1cq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/905962zllph6suneyehr.png)
+[![Masonite Framework](img/61baf6370e9c785325a571a2fab1744b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NEZ6M1cq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/905962zllph6suneyehr.png)
 
 Masonite 是一个真正的 MVC 框架。定义哪个控制器的哪个动作的所有路线都位于`routes/web.py`中。
 
@@ -116,4 +116,4 @@ Enter fullscreen mode Exit fullscreen mode
 Enter fullscreen mode Exit fullscreen mode
 
 在`http://localhost:8000/home`点打开浏览器，就看到:
-[![Hello world](../Images/c8b67efb08a6e212e150a62673ee4e45.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JTfYW8lB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4lrpc8wzrop48nsuyw5w.png)
+[![Hello world](img/c8b67efb08a6e212e150a62673ee4e45.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JTfYW8lB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4lrpc8wzrop48nsuyw5w.png)

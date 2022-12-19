@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/data-visualization-in-react-using-react-d3-1ki0>
 
-[![](../Images/49c98edbd1c294d646471e7444789b7c.png)T2】](http://www.reactd3.org/)
+[![](img/49c98edbd1c294d646471e7444789b7c.png)T2】](http://www.reactd3.org/)
 
 数据可视化是指使用图表、图形等可视化对象以更清晰、更高效的方式交流数据的技术。
 
@@ -12,7 +12,7 @@ React 是一个被许多开发者使用的库。在本文中，我们将看到�
 
 首先，让我们简单地检查一下这些库。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 #### 做出反应
 
@@ -228,7 +228,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 *条形图放大但仍然倒置*
 
-<figure>[![](../Images/d265a0bb6af03bc085796e07caf7a15d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GfDvgqTK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A4isoGrZofpkZwasOpvONIw.png) 
+<figure>[![](img/d265a0bb6af03bc085796e07caf7a15d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GfDvgqTK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A4isoGrZofpkZwasOpvONIw.png) 
 
 <figcaption>条形图放大后仍然倒置</figcaption>
 
@@ -286,7 +286,7 @@ export default BarChart;
 
 Enter fullscreen mode Exit fullscreen mode
 
-<figure>[![](../Images/7f6e6e727e132e3c44ac73f52a0b508c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--w-5OsgJt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AW0xzQ56HggkcHRvGd-Cy-Q.png) 
+<figure>[![](img/7f6e6e727e132e3c44ac73f52a0b508c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--w-5OsgJt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AW0xzQ56HggkcHRvGd-Cy-Q.png) 
 
 <figcaption>条形图中的</figcaption>
 
@@ -314,7 +314,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 条形图现在应该是这样的:
 
-<figure>[![](../Images/b1db4fe8d51843731705137bee074eaf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XqoOM7pq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ATuAQYhi9Bx1AKmG4WLG1-w.png) 
+<figure>[![](img/b1db4fe8d51843731705137bee074eaf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XqoOM7pq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ATuAQYhi9Bx1AKmG4WLG1-w.png) 
 
 <figcaption>带标签的条形图</figcaption>
 
@@ -392,7 +392,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-<figure>[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+<figure>[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption></figcaption>
 

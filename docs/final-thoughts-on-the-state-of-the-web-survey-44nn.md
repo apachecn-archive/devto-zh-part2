@@ -8,21 +8,21 @@
 
 我们对 2000 名开发人员的调查帮助我们发现，CSS flex-box 确实已经在开发人员中得到重要使用，在 web 上禁用 JavaScript 仍然是一个激烈的争论，并且爱狗的人比爱猫的人更有纪律。最后一个在推论数据中似乎很清楚，试着证明它是错的！
 
-[![](../Images/05f1c40c716d449f5957ce9fca33ff53.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iVb6tu8T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://discourse-cdn-sjc2.com/standard17/uploads/httparchive/original/2X/c/c23c72c5732c8c650690fe77d9fe6f3685fa0ffd.png)
+[![](img/05f1c40c716d449f5957ce9fca33ff53.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iVb6tu8T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://discourse-cdn-sjc2.com/standard17/uploads/httparchive/original/2X/c/c23c72c5732c8c650690fe77d9fe6f3685fa0ffd.png)
 
 这里有一些与调查相关的帖子，你可能想看看。虽然有很多分析和讨论，但是如果你知道一个我没有列出的好的，请在评论中留下它。
 
-[![The DEV Team](../Images/6b3a9c79aeecf790d5144f3fe1881f50.png)![](../Images/15e6599da1ea8b6f92e1b678e9347b2c.png)](/devteam) [## 网络数据的现状——呼吁分析！
+[![The DEV Team](img/6b3a9c79aeecf790d5144f3fe1881f50.png)![](img/15e6599da1ea8b6f92e1b678e9347b2c.png)](/devteam) [## 网络数据的现状——呼吁分析！
 
 ### 开发团队的李佳薇 8 月 27 日 184 分钟阅读
 
 #webdev #sotwsurvey #datascience](/devteam/state-of-the-web-data---call-for-analysis-2o75)  
-[![rpalo](../Images/36441fefd071e9a78e983319aa0f9264.png)](/rpalo) [## 网络现状:数据探索
+[![rpalo](img/36441fefd071e9a78e983319aa0f9264.png)](/rpalo) [## 网络现状:数据探索
 
 ### Ryan Palo Aug 29 ' 188min read
 
 #sotwsurvey #python #datascience #pandas](/rpalo/state-of-the-web-data-exploration-1b68)
-[![ben](../Images/fe64a787b888dfb20fc13ad1e466da3d.png)](/ben) [## 浏览器还应该允许用户禁用 JavaScript 吗？
+[![ben](img/fe64a787b888dfb20fc13ad1e466da3d.png)](/ben) [## 浏览器还应该允许用户禁用 JavaScript 吗？
 
 ### Ben Hal pern Aug 30 ' 181min read
 
@@ -32,7 +32,7 @@
 
 ### [从开发到](https://developbit.github.io/)的 Web 数据状态
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png)/[DEV-state-of-the-web-2018](https://github.com/MartyHimmel/DEV-state-of-the-web-2018)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png)/[DEV-state-of-the-web-2018](https://github.com/MartyHimmel/DEV-state-of-the-web-2018)
 
 ### “网络现状”调查结果
 

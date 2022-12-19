@@ -2,10 +2,10 @@
 
 > 原文：<https://dev.to/cseeman/the-danger-of-slack-48pg>
 
-[![](../Images/28fb0bb878afef2f31d0ae114047c85e.png)T2】](https://i.giphy.com/media/5xtDarzqYMWFigufLws/giphy.gif)
+[![](img/28fb0bb878afef2f31d0ae114047c85e.png)T2】](https://i.giphy.com/media/5xtDarzqYMWFigufLws/giphy.gif)
 
 Slack 是一个很棒的沟通工具，我喜欢它可以很容易地与我的同事联系，但它也是一个巨大的时间吸，我已经有点上瘾了。很容易开始浏览一个频道，开始检查被钉上的项目(# living-vicarious，我正在看着你)，然后抬起头来，意识到你已经失去了一个小时的黄金工作时间。刚开始现在这个岗位的时候，兴奋到有懈怠。在我以前的工作场所，它绝对是 verboden，我的一次经历是在一次黑客马拉松上使用它，仅仅用了大约 24 小时。它是如此闪亮，充满了表情符号、gif 和欢乐时光。分享你的屏幕！留言！分享！有一段时间，我甚至打开了我的笔记本电脑屏幕，让它松弛下来。你只有这么多的注意力和集中力去传播，而我的脑力被吸进了松弛的渠道。我甚至做了几个奇怪的与懈怠有关的梦，当你知道你在这上面花了太多时间的时候。有时我甚至觉得有点绕圈，我和那本书的很多部分都有关联。
 
-[![](../Images/c823b2355b230986e66d12135fdd9da5.png)T2】](https://i.giphy.com/media/4mmZNPKXuT6cU/giphy.gif)
+[![](img/c823b2355b230986e66d12135fdd9da5.png)T2】](https://i.giphy.com/media/4mmZNPKXuT6cU/giphy.gif)
 
 现在，我的日常工作包括完全关闭 slack，静音其他通知，关闭所有不需要的 chrome taps，然后戴上耳机。你如何集中注意力？对其他人来说，懈怠是一种痛苦吗？还是只有我是这样。可能只是我害怕错过(FOMO)在这里也发挥 _(ツ)_/

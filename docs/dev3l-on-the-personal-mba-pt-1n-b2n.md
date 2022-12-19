@@ -15,7 +15,7 @@
 
 *TL；约什·考夫曼所著的《个人 MBA:世界一流的商业教育》单卷本是一本非常广泛的有声读物，讲述了对创业充满好奇的人如何经营一家企业。主题从商业金融到行为科学。可听时长 13 小时 25 分钟。*
 
-[![personal mba image](../Images/51efcf5fab6000159207c2aff4b0dacb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6I7NxgVJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oh1a9uixko9x41ng058y.png)
+[![personal mba image](img/51efcf5fab6000159207c2aff4b0dacb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6I7NxgVJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oh1a9uixko9x41ng058y.png)
 
 * * *
 

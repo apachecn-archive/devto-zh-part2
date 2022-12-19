@@ -4,7 +4,7 @@
 
 无论你是开发者还是网站所有者，你都知道通过电子邮件接收用户的查询并回答它们是多么的乏味和耗时。这就是 FAQ 页面发挥作用的地方。它掩盖了大约 60%的回答常见问题的努力。
 
-[![](../Images/b5bea1fa2765f2bd86dd7b5b85f81286.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LJDL44lR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2hgard6as9rsn5jzwc1o.jpg)
+[![](img/b5bea1fa2765f2bd86dd7b5b85f81286.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LJDL44lR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2hgard6as9rsn5jzwc1o.jpg)
 
 上帝保佑为 WordPress 网站设计 FAQ 插件的开发者的灵魂。一个随时可用的插件节省了开发人员大量的编码工作，因为随着业务时间的增加，问题和答案的数量将会增加，所以需要制作一个长度不受限制的新页面。
 

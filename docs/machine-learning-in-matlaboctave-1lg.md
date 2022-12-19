@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/trekhleb/machine-learning-in-matlaboctave-1lg>
 
-[![](../Images/014f5f35438b3e37582792db95ca5a9d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t0L04SCl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ytf8dvmvevqrmj057pmc.jpeg)
+[![](img/014f5f35438b3e37582792db95ca5a9d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t0L04SCl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ytf8dvmvevqrmj057pmc.jpeg)
 
 读者你好！
 
@@ -12,7 +12,7 @@
 
 这是我为自己学习一些机器学习主题(在下面的“思维导图”中有描述)的尝试。由于这个主题可能会引起其他人的兴趣，我决定对其进行一点组织，并将其公之于众。
 
-[![](../Images/a07c7580e19606c744c1944da044e79f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tX09KGPv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wqg36do0ks3kcp871yud.png)
+[![](img/a07c7580e19606c744c1944da044e79f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tX09KGPv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wqg36do0ks3kcp871yud.png)
 
 以下机器学习话题图的来源是[这篇精彩的博文](https://vas3k.ru/blog/machine_learning/)。
 
@@ -70,6 +70,6 @@
 
 上面描述的每个机器学习算法文件夹都包含 demo.m 文件，用户可以从 Octave 控制台或 MatLab 启动该文件。演示脚本将向控制台输出一些有用的信息，并可视化相关算法的工作结果。
 
-[![](../Images/c11c2ae05f1c926e599c85c22298cf95.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rPRHvLU7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gtjqutpt3bq68dc73vmq.png)
+[![](img/c11c2ae05f1c926e599c85c22298cf95.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rPRHvLU7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gtjqutpt3bq68dc73vmq.png)
 
 我希望这个库对你有用，并帮助你在机器学习的道路上多走一步。编码快乐！

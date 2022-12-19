@@ -4,7 +4,7 @@
 
 ### Microsoft Orleans —报告仪表板
 
-[![](../Images/c1e9ed946068075e8a42a10aad037f36.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--P7Ds-N9F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/512/0%2AJnJHfNGV4tkv8UPw.png) 
+[![](img/c1e9ed946068075e8a42a10aad037f36.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--P7Ds-N9F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/512/0%2AJnJHfNGV4tkv8UPw.png) 
 
 <figcaption>奥尔良标志</figcaption>
 
@@ -27,7 +27,7 @@ Orleans 是一个易于使用的 actor 框架，但是如何监控您的部署�
 
 在克里特纳。OrleansGettingStarted.SiloHost 项目，添加以下行(突出显示)
 
-[![](../Images/98243b6c4173f4827bb2861d01cd6c98.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5dYHXyqX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AdIg2bYGH-keppGEpeydE6A.png) 
+[![](img/98243b6c4173f4827bb2861d01cd6c98.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5dYHXyqX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AdIg2bYGH-keppGEpeydE6A.png) 
 
 <figcaption>新 NuGet 包 OrleansDashboard</figcaption>
 
@@ -41,7 +41,7 @@ Orleans 是一个易于使用的 actor 框架，但是如何监控您的部署�
 
 应该看起来像:
 
-[![](../Images/574f68a0013096e8673c6d686b9394df.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--m9hnm2il--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AvDt9140Xpfonsf93ZrxP7g.png) 
+[![](img/574f68a0013096e8673c6d686b9394df.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--m9hnm2il--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AvDt9140Xpfonsf93ZrxP7g.png) 
 
 <figcaption>在生成器内配置仪表板</figcaption>
 
@@ -51,7 +51,7 @@ Orleans 是一个易于使用的 actor 框架，但是如何监控您的部署�
 
 我们现在唯一需要做的就是启动 SiloHost，并导航到 localhost 的默认 URL:8080。我们将正常启动 SiloHost，方法是在命令提示符下导航到 SiloHost 文件夹，然后运行 dotnet run。接下来导航到 [http://localhost:8080。](http://localhost:8080.)我们现在应该会听到这样的问候:
 
-[![](../Images/b8df13c4ad54f80dbb0678edc9fbb251.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rzkwsz7I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AYKJq8TmRwJ6L8sn37vtwUw.png) 
+[![](img/b8df13c4ad54f80dbb0678edc9fbb251.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rzkwsz7I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AYKJq8TmRwJ6L8sn37vtwUw.png) 
 
 <figcaption>奥尔良仪表板</figcaption>
 

@@ -4,7 +4,7 @@
 
 原帖: [Ubuntu 18.04 升级问题解决方案](https://bobonmedicaldevicesoftware.com/blog/2018/08/04/ubuntu-18-04-upgrade-problem-resolutions/)
 
-[![](../Images/1b131695ba992dad506900c9f5bbb15d.png)](https://www.ubuntu.com) 我最近把我用了 3 年的联想 X1 Carbon 从 Ubuntu 16.04 TLS 升级到了 18.04 LTS。我想我遇到了两个最常见的升级问题，由于这两个问题都很突出，我认为值得分享一下对我有效的解决方案。
+[![](img/1b131695ba992dad506900c9f5bbb15d.png)](https://www.ubuntu.com) 我最近把我用了 3 年的联想 X1 Carbon 从 Ubuntu 16.04 TLS 升级到了 18.04 LTS。我想我遇到了两个最常见的升级问题，由于这两个问题都很突出，我认为值得分享一下对我有效的解决方案。
 
 这里有两个问题:
 
@@ -15,11 +15,11 @@
 
 简单:从*软件&更新*的更新选项卡上，选择“对于任何新版本”:
 
-[![](../Images/c63acbc75a2e6f6273cf1295cc9306ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WUtRB3sp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bobonmedicaldevicesoftware.com/blog/wp-content/uploads/2018/08/anynewversion.png)
+[![](img/c63acbc75a2e6f6273cf1295cc9306ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WUtRB3sp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bobonmedicaldevicesoftware.com/blog/wp-content/uploads/2018/08/anynewversion.png)
 
 下次更新后，*软件更新程序*将提供 18.04 升级选项。
 
-[![](../Images/7cbb6b71ad32dc5b604366fe2403f7b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Kjr8Vaqb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bobonmedicaldevicesoftware.com/blog/wp-content/uploads/2018/08/upgradeto1804.png)
+[![](img/7cbb6b71ad32dc5b604366fe2403f7b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Kjr8Vaqb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bobonmedicaldevicesoftware.com/blog/wp-content/uploads/2018/08/upgradeto1804.png)
 
 只需点击`Upgrade...`按钮，然后按照指示进行操作。
 
@@ -119,7 +119,7 @@ $ sudo ./stop_systemd_udevd.sh
 
 最后一步是在系统启动时添加这个脚本的执行。使用*启动应用程序首选项*并添加以下选项(当然是 change /home/bob)。
 
-[![](../Images/15c1e815bfa173cb79b862ab342d8737.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KJY0zYfW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bobonmedicaldevicesoftware.com/blog/wp-content/uploads/2018/08/startup-application.png)
+[![](img/15c1e815bfa173cb79b862ab342d8737.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KJY0zYfW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bobonmedicaldevicesoftware.com/blog/wp-content/uploads/2018/08/startup-application.png)
 
 应该可以了！重新启动系统，systemd-udevd 服务应该不会运行。
 

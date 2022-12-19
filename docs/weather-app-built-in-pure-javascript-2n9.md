@@ -14,7 +14,7 @@
 *   厚颜无耻
 *   [openweather](https://openweathermap.org)
 
-[![Example running](../Images/a01f03c2305ac3f5056928078dda9afd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3OfZ-KZ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9hl1l257g76399wi56u5.gif)
+[![Example running](img/a01f03c2305ac3f5056928078dda9afd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3OfZ-KZ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9hl1l257g76399wi56u5.gif)
 
 ### 先决条件
 

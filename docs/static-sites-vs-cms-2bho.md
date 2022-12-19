@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/oktadev/static-sites-vs-cms-2bho>
 
-[![Nerd fight!](../Images/bae797045d93a4923571e889bcf35b0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZA_xLDaj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://developer.okta.com/assets/blog/static-sites/nerd-fight-96c2a9c3b0743a460b0a6e1e329a910defb2ab4421f5ed529c28acfac31b30be.gif)
+[![Nerd fight!](img/bae797045d93a4923571e889bcf35b0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZA_xLDaj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://developer.okta.com/assets/blog/static-sites/nerd-fight-96c2a9c3b0743a460b0a6e1e329a910defb2ab4421f5ed529c28acfac31b30be.gif)
 
 世界各地公司的开发和营销团队经常争论他们的博客或网站是否应该通过像 Wordpress、Drupal、Squarespace 等内容管理系统(CMS)来管理。或者通过像 Jekyll 或 Hugo 这样的静态站点生成器。我从 2006 年开始写博客，从 2002 年开始写网站，我已经建立了几乎所有可能的网站类型。今天我想解释为什么静态站点在几乎所有可能的情况下都是更好的选择。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jj/we-need-your-help-with-the-perl-6-documentation-1e82>
 
-[![Helping with a mural](../Images/38dd7d85eaa5e14f2a4b369cffa020c4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jCA2nxac--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bkngnnlzkdlmd5upe2pl.JPG) 
+[![Helping with a mural](img/38dd7d85eaa5e14f2a4b369cffa020c4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jCA2nxac--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bkngnnlzkdlmd5upe2pl.JPG) 
 我一直想成为一名涂鸦艺术家。因此，上周我参加了一个由[伟大作家森德拉](https://www.instagram.com/rpsendra/)举办的城市艺术研讨会
 
 > 顺便说一下，宝拉也在那里，但她的艺术已经很棒了。这就引出了我的主要观点。

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/rafnixg/deploy-usando-git-ftp-of>
 
-[![Deploy usando GIT-FTP](../Images/91adec3ec4d5d905c0a7bf0b9e3211f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NU-dZism--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1554098415-788601c80aef%3Fixlib%3Drb-1.2.1%26q%3D80%26fm%3Djpg%26crop%3Dentropy%26cs%3Dtinysrgb%26w%3D2000%26fit%3Dmax%26ixid%3DeyJhcHBfaWQiOjExNzczfQ)
+[![Deploy usando GIT-FTP](img/91adec3ec4d5d905c0a7bf0b9e3211f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NU-dZism--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1554098415-788601c80aef%3Fixlib%3Drb-1.2.1%26q%3D80%26fm%3Djpg%26crop%3Dentropy%26cs%3Dtinysrgb%26w%3D2000%26fit%3Dmax%26ixid%3DeyJhcHBfaWQiOjExNzczfQ)
 
 很常见的是，当我们进入 web 开发领域，而又没有钱购买优质服务时，我们选择在一个地方购买空间，或者使用功能基本相同的免费托管服务。
 

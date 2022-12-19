@@ -4,7 +4,7 @@
 
 *这篇文章最初发表在我们的[博客](https://bugfender.com/blog/bugfender-2-0-behind-the-scenes/)上。*
 
-[![](../Images/af050a792489514148d4008580f0bd30.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---aHNsr8u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/04/featured-image.jpg)
+[![](img/af050a792489514148d4008580f0bd30.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---aHNsr8u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/04/featured-image.jpg)
 
 作为 [Mobile Jazz](https://mobilejazz.com/) 的开发人员，我们知道在移动应用程序中寻找、复制和修复漏洞是多么令人头疼的事情。几年前，我们厌倦了远程调试移动应用程序，于是开始为自己构建一个解决方案。我们通过创建一种方法来远程访问用户设备的日志记录设施来做到这一点。我们为应用程序日志搭建了一个临时服务器，允许我们跨设备和大洲修复错误。
 
@@ -18,7 +18,7 @@ Bugfender 一开始是内部实验，所以我们做的时候没怎么考虑 UI�
 
 是重新设计的时候了。
 
-[![](../Images/71f25ed9c9b096265b2e4d1bbb145f63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FrIqMH0S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/04/problem-solving.jpg)
+[![](img/71f25ed9c9b096265b2e4d1bbb145f63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FrIqMH0S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/04/problem-solving.jpg)
 
 *挡泥板新设计。*
 
@@ -30,9 +30,9 @@ Bugfender 一开始是内部实验，所以我们做的时候没怎么考虑 UI�
 
 但随着我们增加用户，并几乎达到这款产品的盈亏平衡，我们认识到有必要重新设计 Bugfender 的架构，以维持我们对这款产品的期望。对我们来说，完全基于真实的客户需求进行重新设计是至关重要的——而且用户已经发表了意见。
 
-[![](../Images/f0a94da3816ffb2317ffa7f099df1c73.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q8B1MW7P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/04/1a-new-design-before.jpg)
+[![](img/f0a94da3816ffb2317ffa7f099df1c73.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q8B1MW7P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/04/1a-new-design-before.jpg)
 
-[![](../Images/34b18ee5214356b5fc0435077639a83b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L4yCeUYN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/04/1b-new-design-after.jpg)
+[![](img/34b18ee5214356b5fc0435077639a83b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L4yCeUYN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/04/1b-new-design-after.jpg)
 
 *Bugfender 的新旧 UI。*
 
@@ -53,7 +53,7 @@ Angular 非常适合 Bugfender 这样的数据驱动型应用程序，允许我�
 
 我们的目标是添加使用我们产品的开发人员所要求的顶级功能，所以我们开始构建一个现代化的应用程序，更好地概述应用程序、团队和日志查看器。我们改进了搜索功能。我们还[带来了更符合新网站](https://bugfender.com/blog/how-we-injected-the-new-bugfender-website-with-personality-and-boosted-growth/)的审美。
 
-[![](../Images/14ba49975584e082b034b34b8d143e04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FQLYEAdU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/04/web-app-style.jpg)
+[![](img/14ba49975584e082b034b34b8d143e04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FQLYEAdU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/04/web-app-style.jpg)
 
 *将应用程序嵌入我们的新网站。*
 
@@ -61,7 +61,7 @@ Angular 非常适合 Bugfender 这样的数据驱动型应用程序，允许我�
 
 为了改进一般的 UX，我们开始添加更快的**和改进的搜索**。我们增加了**将设备与特定用户**(名字或 id)关联的可能性。这使得在遇到问题时搜索特定用户的设备变得更加容易。虽然这在以前的 UI 中是部分可用的，但我们已经通过使用户名在设备列表中可见而使其更易于使用，例如。
 
-[![](../Images/c9b16622908b8d63c2e6cda1d3cee59f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TYM7vVF0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/04/crash-issues.jpg)
+[![](img/c9b16622908b8d63c2e6cda1d3cee59f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TYM7vVF0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/04/crash-issues.jpg)
 
 我们在 Bugfender 中引入了碰撞报告。
 
@@ -69,9 +69,9 @@ Angular 非常适合 Bugfender 这样的数据驱动型应用程序，允许我�
 
 我们添加了**崩溃报告**(反向传输到 BF1)，这是以前我们只关注收集日志时所没有的。我们在日志查看器中集成了崩溃，通过**突出显示不同风格的问题和崩溃**，这样就可以很容易地看到它们。
 
-[![](../Images/d6f78f245764236143e25c2f4fb70b45.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G8sDxAdp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/04/2a-new-viewer-before.jpg)
+[![](img/d6f78f245764236143e25c2f4fb70b45.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G8sDxAdp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/04/2a-new-viewer-before.jpg)
 
-[![](../Images/f59c371944bcc9cd789e9b14f31ba1f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vlb0ZONQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/04/2b-new-viewer-after.jpg)
+[![](img/f59c371944bcc9cd789e9b14f31ba1f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vlb0ZONQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/04/2b-new-viewer-after.jpg)
 
 旧的和新的日志浏览器。
 
@@ -83,7 +83,7 @@ Angular 非常适合 Bugfender 这样的数据驱动型应用程序，允许我�
 
 以前日志被分解成会话，但是我们发现会话对于一些人来说是一个难以理解的概念。会话信息可能对一些开发人员有用，所以我们让**会话不那么突出，但仍然可以访问**。我们还可以让**一次性查看单个设备的所有会话**。
 
-[![](../Images/eaf8746f652d43f16561c4ae9ca235e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JXXIUkGG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/04/team-page.jpg)
+[![](img/eaf8746f652d43f16561c4ae9ca235e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JXXIUkGG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/04/team-page.jpg)
 
 *新设计的团队画面。*
 
@@ -107,7 +107,7 @@ Angular 非常适合 Bugfender 这样的数据驱动型应用程序，允许我�
 
 我们还重建了 API 的一些部分，使它变得更轻更快。这将允许我们在未来几天或几个月的某个时候公开使用它。
 
-[![](../Images/f92edcd026fa9584886ddce73760fe0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mqKgMHmu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/04/learn.jpg)
+[![](img/f92edcd026fa9584886ddce73760fe0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mqKgMHmu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/04/learn.jpg)
 
 ## 我们学到了什么
 
@@ -125,7 +125,7 @@ Angular 非常适合 Bugfender 这样的数据驱动型应用程序，允许我�
 
 更慢、更增量的部署会给我们时间，随着时间的推移，以可管理的块从用户那里收集更多的反馈，而现在我们正在经历如此多领域的反馈——这非常有价值——但我们现在必须评估我们的优先级。
 
-[![](../Images/6f99efd6e807666c8bff3c8fb5e10a8b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zGyus_45--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/04/team_1024.jpg)
+[![](img/6f99efd6e807666c8bff3c8fb5e10a8b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zGyus_45--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/04/team_1024.jpg)
 
 ## 关于我们团队的说明
 

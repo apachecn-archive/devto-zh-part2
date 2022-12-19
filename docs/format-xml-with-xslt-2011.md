@@ -40,4 +40,4 @@ TextArea2.Text = xml.Format
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/9afb3a9af53c881509b2f37d2898d125.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--waj1FsV4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.xojo.com/wp-content/uploads/2018/08/2018-08-17_15-45-28.png)
+[![](img/9afb3a9af53c881509b2f37d2898d125.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--waj1FsV4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.xojo.com/wp-content/uploads/2018/08/2018-08-17_15-45-28.png)

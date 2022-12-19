@@ -8,7 +8,7 @@
 
 看看这个:我们目前授予的计算机科学学位数量创下了历史新高。厉害！
 
-[![](../Images/09929d8827873340af68dfe42d91d936.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_M6Yn34_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/evilplantosavethe.world/wp-content/uploads/2018/07/CSDegrees.1971-2016.png%3Fssl%3D1%26w%3D450)
+[![](img/09929d8827873340af68dfe42d91d936.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_M6Yn34_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/evilplantosavethe.world/wp-content/uploads/2018/07/CSDegrees.1971-2016.png%3Fssl%3D1%26w%3D450)
 
 随着时间的推移，我们经历了一些高峰和低谷。2000 年代初有所下降——可能与互联网泡沫破裂有关。不奇怪。但是 1986 年的峰值是多少？回答这个问题让我陷入了一个意想不到的兔子洞，这个答案相当吸引人！
 
@@ -22,7 +22,7 @@
 
 当然，我对多样性在这段时间的表现很感兴趣。NCES 的数据按性别而不是种族/民族进行了细分。所以我绘制了同样的数据集，按性别划分，这让我大吃一惊！
 
-[![](../Images/c60fcfb5e8e3d2db141ebec6f6234424.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--23vSlhfo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/evilplantosavethe.world/wp-content/uploads/2018/07/CSDegreesByGender.1971-2016.png%3Fssl%3D1%26w%3D450)
+[![](img/c60fcfb5e8e3d2db141ebec6f6234424.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--23vSlhfo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/evilplantosavethe.world/wp-content/uploads/2018/07/CSDegreesByGender.1971-2016.png%3Fssl%3D1%26w%3D450)
 
 那些高峰和低谷对我们的女性人口做了坏事。最初，CS 中女性的比例稳定增长了 13 年，直到 1984 年，达到了历史最高水平，达到了惊人的 37%！我从来不知道我们在过去有如此程度的女性参与！当第一次 CS 下降发生在产能崩溃时，女性的比例从 37%下降到 27%左右，持续了十年。然后，当互联网泡沫破裂后，CS 出现第二次下降时，这一比例再次下降到 18%左右的稳定状态，持续了十年。(这也是我开始变得特别愤怒的地方，因为我在 1999 年进入职场，不禁觉得有些事情是在我的任期内发生的！)即使你忽略百分比，只看授予女性的学位数量，尽管今天授予的 CS 学位数量创下纪录，但我们还没有达到 1986 年和 2003 年授予女性的数量。我们仍然比女性学位的最高产量低 30%。
 

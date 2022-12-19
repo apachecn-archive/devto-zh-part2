@@ -498,7 +498,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 `cargo publish`将装帧打包成一个板条箱，并上传到[板条箱。io](https://crates.io/crates/runng-sys) :
 
-[![](../Images/07615f822ba86f2f92e5a433eff9e9fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uff1HNrF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/crates-runng-sys.png)
+[![](img/07615f822ba86f2f92e5a433eff9e9fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uff1HNrF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/crates-runng-sys.png)
 
 ## 鳍
 

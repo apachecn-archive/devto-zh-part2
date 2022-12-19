@@ -8,17 +8,17 @@
 
 **所以我们把这个:**
 
-[![](../Images/03b902c4419a63cf88645399c401b4f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jjqi_4fe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://community.atlassian.com/t5/image/serverpage/image-id/29745i8702575071B26735/image-size/large%3Fv%3D1.0%26px%3D-1)
+[![](img/03b902c4419a63cf88645399c401b4f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jjqi_4fe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://community.atlassian.com/t5/image/serverpage/image-id/29745i8702575071B26735/image-size/large%3Fv%3D1.0%26px%3D-1)
 
 **进本:**
 
-[![](../Images/54498cd55f05d28fb2bbd6e43655a626.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e-bPeRDM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AytjynhYSV65Kjy9fz3F6SA.png)
+[![](img/54498cd55f05d28fb2bbd6e43655a626.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e-bPeRDM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AytjynhYSV65Kjy9fz3F6SA.png)
 
 Atlassian Marketplace 上销售的 Confluence 问题的衡量标准
 
 我将向大家介绍我如何为 Levente 创建一个 Slack 应用程序，它使用 Slack slash 命令获取应用程序的指标。你可以很容易地复制这些步骤！如果你需要帮助设置你的应用程序，我会在标准库开发者的 Slack workspace 上回答你的问题。:)
 
-[![](../Images/79833c682f0a235a1b58948c8c78c5cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AsveOCfK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Ar5ZJD528yFTXqGKBffTpYg.png)
+[![](img/79833c682f0a235a1b58948c8c78c5cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AsveOCfK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Ar5ZJD528yFTXqGKBffTpYg.png)
 
 如果您不熟悉标准库，您将会大开眼界！Standard Library 通过 Code.xyz 将您组织中的每个人都变成了开发人员，code . XYZ 是一个用于轻松构建 API、webhooks 和工作流自动化任务的嵌入式开发环境。
 
@@ -30,24 +30,24 @@ Atlassian Marketplace 上销售的 Confluence 问题的衡量标准
 **第一步:准备你的 Slack 应用**
 确保你已经登录 Slack 并访问你在[https://api.slack.com/apps](https://api.slack.com/apps)的 Slack 应用页面。您将看到如下所示的屏幕:
 
-[![](../Images/01abfe345b20d2336fb9932fde839219.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lNMoOoqi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AuCcRB20AOnwQzUONRrBOCA.png)
+[![](img/01abfe345b20d2336fb9932fde839219.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lNMoOoqi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AuCcRB20AOnwQzUONRrBOCA.png)
 
 点击**创建新应用**。您将看到一个输入您的应用程序名称和您想要添加它的开发 Slack 工作空间的模式(我将我的命名为“美岛莉”)。
 
-[![](../Images/88b6f3edf908edddffdd21547937dc6a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lIDtAbpT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2AzkClbjOJruCBdANSzZ4ivA.png)
+[![](img/88b6f3edf908edddffdd21547937dc6a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lIDtAbpT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2AzkClbjOJruCBdANSzZ4ivA.png)
 
 从这里，点击**创建应用**，你会发现自己在一个**的基本信息页面**。
 
 向下滚动到**显示信息。**你可以在这里为你的 Slack 应用程序命名、描述和图片。
 
-[![](../Images/58e6edcc100021dd56b355b3672abbbb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ypgfxo_d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2Atb3J7lWP2qEL2Vb6lkR3UA.png)
+[![](img/58e6edcc100021dd56b355b3672abbbb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ypgfxo_d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2Atb3J7lWP2qEL2Vb6lkR3UA.png)
 
 在浏览器中保持**基本信息**页面打开；我们将立即使用它来检索您的 Slack 应用凭据。
 
 **第二步:使用 Code.xyz**
 创建一个免费的标准图书馆账户接下来，我们需要创建一个标准图书馆服务来托管你的 Slack 应用。前往[https://code.xyz/and](https://code.xyz/and)创建一个免费账户。Code.xyz 是由 Standard Library 的团队构建的在线 API 编辑器，这是一个可嵌入的开发环境，用于轻松构建 API、web 挂钩和工作流自动化任务。
 
-[![](../Images/95b65b5e42ad17713f1b7702b4116978.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LBe6whez--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1440/1%2Aql_HL0-jHwQINyab-NaJVw.png)
+[![](img/95b65b5e42ad17713f1b7702b4116978.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LBe6whez--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1440/1%2Aql_HL0-jHwQINyab-NaJVw.png)
 
 在 Code.xyz 的左下角点击**(签到)**。如果您有一个标准图书馆帐户，点击**已经注册**并使用您的标准图书馆凭证登录。将弹出一个模块，提示您声明一个名称空间(这是您的用户名)。输入您的电子邮件并选择密码。
 
@@ -55,7 +55,7 @@ Atlassian Marketplace 上销售的 Confluence 问题的衡量标准
 
 **第三步:选择@ Janet HL/atlassianpssmetrics 源代码**
 
-[![](../Images/74ba9549b4f2ba3f52452663cf88d17a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EGuLkCcX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2AmLuj-oXTJZu9sMOMZRjeRA.png)
+[![](img/74ba9549b4f2ba3f52452663cf88d17a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EGuLkCcX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2AmLuj-oXTJZu9sMOMZRjeRA.png)
 
 我已经在标准库上发布了我的 Slack 应用程序的代码，这样任何人都可以很容易地复制和修改它。
 
@@ -65,13 +65,13 @@ Atlassian Marketplace 上销售的 Confluence 问题的衡量标准
 
 确保为您的 API 输入一个唯一的名称，并点击**ok**(或按 enter)。
 
-[![](../Images/56fbf27bd08f92343a5ea6cd8acb324c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x7RIuuxC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AJfKREidBjiGvrwGfyWLomw.png)
+[![](img/56fbf27bd08f92343a5ea6cd8acb324c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x7RIuuxC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AJfKREidBjiGvrwGfyWLomw.png)
 
 一旦您点击 enter，您将在左侧栏(一个文件夹树视图)看到一个已经自动生成的 API 项目框架。
 
 **源代码的简要说明:**
 
-[![](../Images/eb8c2018b7378859143ded046d7361ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C6dqyXqu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2AZlnnT-0u1GYEOEsYsg8E7g.png)
+[![](img/eb8c2018b7378859143ded046d7361ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C6dqyXqu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2AZlnnT-0u1GYEOEsYsg8E7g.png)
 
 Slack 应用程序的源代码包含四个目录(文件夹)。对于本教程，我们将只在带有`actions/commands/ events/__main__.js.`的函数目录中工作
 
@@ -83,13 +83,13 @@ Slack 应用程序的源代码包含四个目录(文件夹)。对于本教程，
 
 **步骤 4:添加你的标准库和 Slack 应用凭证**
 
-[![](../Images/1941bee17ffc438a8a5e27a5f67f3e50.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CiDJ93eA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2AIaCgUo3h5izDvpzg7z2wiw.png)
+[![](img/1941bee17ffc438a8a5e27a5f67f3e50.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CiDJ93eA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2AIaCgUo3h5izDvpzg7z2wiw.png)
 
 我们快到了！是时候打开你的 env.json(环境变量)了。我们将对“dev”环境变量进行修改— **确保您正在修改正确的设置！**请注意,“dev”值是针对您的开发环境的,“release”值只应在您准备发布应用程序时填充。从 code.xyz 部署时,“本地”变量可以留空，从本地 CLI 测试服务时应填充这些变量。
 
 将光标放在引号之间(见屏幕)，右键单击并选择**插入库令牌**或使用快捷键 **⌘ + K.**
 
-[![](../Images/509a29515f2e9fdecae1ef1fff2bebd2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tQrc_hwt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A_ag63zSwWkqTyaIFz0IL7A.png)
+[![](img/509a29515f2e9fdecae1ef1fff2bebd2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tQrc_hwt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A_ag63zSwWkqTyaIFz0IL7A.png)
 
 **选择您的库令牌**
 
@@ -97,7 +97,7 @@ Slack 应用程序的源代码包含四个目录(文件夹)。对于本教程，
 
 现在回到你的 Slack 应用的**基本信息**页面，向下滚动到**应用证书**:
 
-[![](../Images/c5768fbdc4c208baadc60c93ceb7413a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yrnaed0S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2AZtXxjaf3NMbj31-hZeYRQQ.png)
+[![](img/c5768fbdc4c208baadc60c93ceb7413a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yrnaed0S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2AZtXxjaf3NMbj31-hZeYRQQ.png)
 
 复制您的**客户端 ID、客户端密码和验证令牌**。将它们粘贴到 env . JSON 文件的“dev”部分中各自的字段中。
 
@@ -112,24 +112,24 @@ Slack 应用程序的源代码包含四个目录(文件夹)。对于本教程，
 
 `bot,commands,chat:write:bot,chat:write:user,files:write:user,channels:history`
 
-[![](../Images/e9ee72bf135d8a16bfe8ff295fbcb0cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zfEErX5I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AMytr70U6NXrm6QvY4kJyaA.png)
+[![](img/e9ee72bf135d8a16bfe8ff295fbcb0cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zfEErX5I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AMytr70U6NXrm6QvY4kJyaA.png)
 
 确保用'⌘ + s 保存更改(或点击右下角的保存)。
 
 在侧边栏上，浏览函数/命令以打开 atlassianmetrics.js 文件，并通过单击“运行”部署函数
 
-[![](../Images/1aaa52ffa3c69ced06de2571a0709fa0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O5GGWI6D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AAfKoo5fvvKEMES01NCFXtg.png)
+[![](img/1aaa52ffa3c69ced06de2571a0709fa0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O5GGWI6D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AAfKoo5fvvKEMES01NCFXtg.png)
 
 *当您部署服务时，看到“无效的应用程序名称”错误消息是正常的，因为端点旨在通过 Slack slash 命令调用。
 
 **第五步:创建一个新的 Slash 命令**
 接下来，我们需要创建我们的/atlassianmetrics Slack 命令。在侧边栏菜单上查找并单击斜杠命令。
 
-[![](../Images/457999b4cdf2c5455140fdcba212bc44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9N7LVoTQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ACqcOIZ1tZsrIeVed07Yy6Q.png)
+[![](img/457999b4cdf2c5455140fdcba212bc44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9N7LVoTQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ACqcOIZ1tZsrIeVed07Yy6Q.png)
 
 单击“创建新命令”后，系统会要求您输入一些命令详细信息，例如:
 
-[![](../Images/a32eeb689dda58f8eef97f6badcfd64f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g9spb5Q3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2A18peJFLMF4El8fgmS6Pevw.png)
+[![](img/a32eeb689dda58f8eef97f6badcfd64f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g9spb5Q3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2A18peJFLMF4El8fgmS6Pevw.png)
 
 命令:`/atlassianmetrics`
 
@@ -145,7 +145,7 @@ RequestURL: `https://username.lib.id/servicename@dev/commands/:bg`
 
 **第六步:启用 OAuth &权限**
 
-[![](../Images/01c3629723aa18a402f16424958991a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TCkUZO2f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2AFC0tUIChrajb5GPWaADj5g.png)
+[![](img/01c3629723aa18a402f16424958991a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TCkUZO2f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1200/1%2AFC0tUIChrajb5GPWaADj5g.png)
 
 回到你的 Slack App 我们需要启用 OAuth。在侧边栏菜单上，点击 **OAuth &权限**。
 
@@ -161,28 +161,28 @@ RequestURL: `https://username.lib.id/servicename@dev/commands/:bg`
 
 回到你的 Slack 应用页面，点击左侧边栏的 Bot 用户。单击添加 Bot 用户。保留默认设置。
 
-[![](../Images/1fbf9a86adc4ef60a6a126979ce3e2ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1OsRDeLc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AlxOvJ_tsPIShlmHLXqIUjg.png)
+[![](img/1fbf9a86adc4ef60a6a126979ce3e2ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1OsRDeLc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AlxOvJ_tsPIShlmHLXqIUjg.png)
 
 **最后一步**是授权 app。在你的浏览器中，输入:【https://username.lib.id/servicename@dev/】T2
 
-[![](../Images/471eae44f34d5addc666611c84f6838a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aA8lC2cO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Ayp6iweYbcOSA9CiJjZ6_Qw.png)
+[![](img/471eae44f34d5addc666611c84f6838a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aA8lC2cO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Ayp6iweYbcOSA9CiJjZ6_Qw.png)
 
 单击“添加到时差”按钮。您将被带到另一个授权屏幕。
 [https://cdn-images-1 . medium . com/max/1200/1 * MBM 2 juh 7s _ 3g mwr-tk 12 za . png](https://cdn-images-1.medium.com/max/1200/1*mBM2juH7s_3gmwr-Tk12ZA.png)
 
 单击授权。您应该会看到一条成功消息！
 
-[![](../Images/69727cf5722a942b4e92f5bdc40f2139.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nN5P7y25--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AhNNkRmEsXWsTfsNKnGJzSQ.png)
+[![](img/69727cf5722a942b4e92f5bdc40f2139.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nN5P7y25--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AhNNkRmEsXWsTfsNKnGJzSQ.png)
 
 **步骤 8:测试您的应用度量跟踪器**
-[![](../Images/2c2c19bb4d4f1abe1c0dd240fbdc6fff.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--d9Bwgdul--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AXJyWRE8akagHEznvysvMsg.png)
+[![](img/2c2c19bb4d4f1abe1c0dd240fbdc6fff.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--d9Bwgdul--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AXJyWRE8akagHEznvysvMsg.png)
 
 你们都完了。试试吧！您的 Slack 应用程序现在可以在您授权的 Slack 工作区中使用。你的 Slack 应用程序应该响应 a /atlassianmetrics 的问题，如我在上面的截图中所示。
 
 **步骤 9:返回并添加应用程序的唯一标识符**
 返回到 Code.xyz 上的 API，在侧栏上浏览函数/命令，打开 atlassianmetrics.js。文件中的代码应该如下所示:
 
-[![](../Images/c3dc7354206c142c66646fab73d58132.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lodsDd07--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AmpKFGtFh46W7kLkKmotskA.png)
+[![](img/c3dc7354206c142c66646fab73d58132.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lodsDd07--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AmpKFGtFh46W7kLkKmotskA.png)
 
 我发布了源代码和一个示例`APP_DETAILS`，包括`addonKey,` `imageUrl,`和`appLink`，用于回答当前在 Atlassian 市场上销售的 Confluence 应用程序的问题。当您在可宽延时间消息域中键入/atlassianmetrics 问题时，将触发此功能。
 
@@ -190,7 +190,7 @@ RequestURL: `https://username.lib.id/servicename@dev/commands/:bg`
 
 下面是我为美岛莉创建的 Slack 应用服务的截图。我配置了服务，这样一个 Slack slash 命令可以返回四个不同应用的指标。
 
-[![](../Images/b254eff1ebe825a173a8c2cbaffa2189.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wDoMXDch--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A6TspoX57Hyt83oqesxjtVg.png)
+[![](img/b254eff1ebe825a173a8c2cbaffa2189.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wDoMXDch--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A6TspoX57Hyt83oqesxjtVg.png)
 
 你可以在你的标准图书馆服务中添加任意多的应用程序。
 

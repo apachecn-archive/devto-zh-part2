@@ -59,7 +59,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在我们进一步深入之前，我们需要配置我们的 Okta 开发人员帐户，以获得一个客户端 ID 和密码，用于与 API 对话。在 Okta 开发者账户的应用部分，点击**添加应用**，选择**Web** 。我们需要对默认应用程序设置进行的唯一更改是将回调 URL 更改为`http://localhost:8080/`，因为我们正在这个 PHP 文件中编写整个流程。
 
-[![Create an application on Okta](../Images/3b805f6151a49cd4815c2f042cb2e248.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T9edQdin--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/five-minute-php-app-auth/application-settings-55cfffa7f970d17c5ef13b7a0587e1e4de9997489fb3ce8dd29eb2d4b819e9ae.png)
+[![Create an application on Okta](img/3b805f6151a49cd4815c2f042cb2e248.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T9edQdin--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/five-minute-php-app-auth/application-settings-55cfffa7f970d17c5ef13b7a0587e1e4de9997489fb3ce8dd29eb2d4b819e9ae.png)
 
 点击**完成**，你将进入下一个屏幕，在那里你可以获得你的新客户 ID 和密码。将这两个值复制到下面的变量中，并将这个块添加到 PHP 文件的顶部，就在`session_start()` :
 之后
@@ -116,7 +116,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在你可以在浏览器 [http://127.0.0.1:8080/](http://127.0.0.1:8080/) 中访问这个页面，你会看到你的登录提示。
 
-[![Login Prompt](../Images/d71a7e772b6b539a9636330958d3821c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DU_Nm1Wx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/five-minute-php-app-auth/login-prompt-7ab0c5f8e73efe1fb1e9353b2b11f221022bf8448336495a3bfdb2d5601924ab.png)
+[![Login Prompt](img/d71a7e772b6b539a9636330958d3821c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DU_Nm1Wx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/five-minute-php-app-auth/login-prompt-7ab0c5f8e73efe1fb1e9353b2b11f221022bf8448336495a3bfdb2d5601924ab.png)
 
 暂时不要单击链接，因为我们仍然需要设置处理回调和获取访问令牌。
 
@@ -198,7 +198,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这段代码获取访问令牌，并将其与客户端凭证一起发送到令牌自省端点。自省端点告诉我们登录者的用户名。如果令牌是活动的，我们在会话中设置用户名，然后重定向回主页。现在用户名已经在会话中了，我们的“应用程序”认为用户已经登录，我们看到了带有用户电子邮件地址的登录页面！
 
-[![Logged in!](../Images/cb125ec99e2fdb7b66faba3b18467178.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QLHGyREN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/five-minute-php-app-auth/logged-in-288782c2ba408ead03839baa510e70c0561309d8c5481e94db97102978c1614c.png)
+[![Logged in!](img/cb125ec99e2fdb7b66faba3b18467178.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QLHGyREN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/five-minute-php-app-auth/logged-in-288782c2ba408ead03839baa510e70c0561309d8c5481e94db97102978c1614c.png)
 
 希望这是一个有用的例子，说明在一个简单的 PHP 应用程序中添加身份验证是多么容易！显然，这是一个极简的例子，实际上你的应用程序更有特色，可能更好地组织到多个文件中。但是您应该能够将您在这里学到的东西应用到您正在使用的其他框架或用例中！
 

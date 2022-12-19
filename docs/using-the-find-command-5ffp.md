@@ -404,11 +404,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 ```
 $ find . -name '*eclipse*' -or -name '*clean*'
-./source/images/2011/10/eclipse-example.png
-./source/images/2011/10/eclipse-example-150x127.png
+./sourimg/2011/10/eclipse-example.png
+./sourimg/2011/10/eclipse-example-150x127.png
 ...
-./source/images/2011/08/clean-coders1.png
-./source/images/2011/08/clean-coders-150x117.png
+./sourimg/2011/08/clean-coders1.png
+./sourimg/2011/08/clean-coders-150x117.png
 ... 
 ```
 
@@ -418,14 +418,14 @@ Enter fullscreen mode Exit fullscreen mode
 
 ```
 $ find . -name '*eclipse*'
-./source/images/2011/10/eclipse-example.png
-./source/images/2011/10/eclipse-example-150x127.png
-./source/images/2011/10/eclipse-example-2-300x97.png
-./source/images/2011/10/eclipse-example-2.png
+./sourimg/2011/10/eclipse-example.png
+./sourimg/2011/10/eclipse-example-150x127.png
+./sourimg/2011/10/eclipse-example-2-300x97.png
+./sourimg/2011/10/eclipse-example-2.png
 
 $ find -E . -name '*eclipse*' ! -regex '.*[0-9]+x[0-9]+.*'
-./source/images/2011/10/eclipse-example.png
-./source/images/2011/10/eclipse-example-2.png 
+./sourimg/2011/10/eclipse-example.png
+./sourimg/2011/10/eclipse-example-2.png 
 ```
 
 Enter fullscreen mode Exit fullscreen mode

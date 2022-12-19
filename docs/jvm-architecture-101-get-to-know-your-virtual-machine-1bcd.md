@@ -10,7 +10,7 @@ Java 应用程序无处不在，它们在我们的手机、平板电脑和电脑
 
 这听起来可能令人惊讶，但是 JVM 本身对 Java 编程语言一无所知。相反，它知道如何执行自己的指令集，称为 **Java 字节码**，它被组织在二进制**类文件**中。Java 代码由 ***javac*** 命令编译成 Java 字节码，然后在运行时由 JVM 翻译成机器指令。
 
-[![](../Images/485448ee413fa053685ffcdb7cebd5e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iIoGszS3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qw4sirdsc3yjee1cz6lo.png)
+[![](img/485448ee413fa053685ffcdb7cebd5e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iIoGszS3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qw4sirdsc3yjee1cz6lo.png)
 
 #### 螺纹
 
@@ -20,14 +20,14 @@ Java 被设计成并发的，这意味着通过在同一个进程中运行几个
 
 每个 Java 线程都与一个框架堆栈一起创建，该框架堆栈用于保存方法框架并控制方法调用和返回。方法框架用于存储其所属方法的数据和部分计算。当方法返回时，它的帧被丢弃。然后，它的返回值被传递回调用程序框架，调用程序框架现在可以使用它来完成自己的计算。
 
-[![alt text](../Images/4bf3d26f8239f7c6f1eb283e31d475b1.png "JVM Process Structure")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XK2uuvir--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/111wh4590t4fmcshxw3o.png)
+[![alt text](img/4bf3d26f8239f7c6f1eb283e31d475b1.png "JVM Process Structure")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XK2uuvir--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/111wh4590t4fmcshxw3o.png)
 
 用于执行方法的 JVM 游乐场是方法框架。框架由两个主要部分组成:
 
 1.  **局部变量数组**–存储方法参数和局部变量的地方
 2.  **操作数堆栈**–执行方法计算的地方
 
-[![alt text](../Images/73eb4e4cafbd06da60ba9ded740efaa1.png "Frame structure")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jx_zbI74--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/089sf8hd7kussvk2m51u.png)
+[![alt text](img/73eb4e4cafbd06da60ba9ded740efaa1.png "Frame structure")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jx_zbI74--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/089sf8hd7kussvk2m51u.png)
 
 ## 工作原理
 
@@ -85,7 +85,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 那么在运行时 JVM 内部会发生什么呢？ *java SimpleExample* 启动一个新的 JVM 进程，主线程被创建。为 main 方法创建一个新的框架，并将其推入线程堆栈。
 
-[![](../Images/85a809be18f75f74999b05d9be597b96.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uWwSyp5w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/37gign0o3qajy1hrh6t7.png)T3】
+[![](img/85a809be18f75f74999b05d9be597b96.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uWwSyp5w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/37gign0o3qajy1hrh6t7.png)T3】
 
 ```
 public static void main(java.lang.String[]);
@@ -104,7 +104,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 主方法有两个变量: *args* 和 *result* 。两者都位于局部变量表中。main 的前两个字节码命令 *iconst_2* 和 *iconst_3* ，将常量值 2 和 3(分别)加载到操作数堆栈中。下一个命令 *invokestatic* 调用静态方法 add。由于该方法期望两个整数作为参数， *invokestatic* 从操作数堆栈中弹出两个元素，并将它们传递给 JVM 为 *add* 创建的新框架。 *main 的*操作数堆栈此时为空。
 
-[![](../Images/49b60cefee9892e0dd486d5f9ead8b10.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wzHfbLWE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5ftifjj2j954410024q2.png)T3】
+[![](img/49b60cefee9892e0dd486d5f9ead8b10.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wzHfbLWE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5ftifjj2j954410024q2.png)T3】
 
 ```
 public static int add(int, int);

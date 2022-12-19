@@ -58,4 +58,4 @@ Python 的弱动态输入让初学者很困惑。这很难，因为代码无法�
 
 [@geeky_bhavani](https://twitter.com/geeky_bhavani)
 
-[![](../Images/6474dd5b62dc0b36fa78b7181ff26ae4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NpfzyXcQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/940/0%2AqWCsk-A_m9a9n_85)
+[![](img/6474dd5b62dc0b36fa78b7181ff26ae4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NpfzyXcQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/940/0%2AqWCsk-A_m9a9n_85)

@@ -4,7 +4,7 @@
 
 > 阿特伍德定律:任何可以用 JavaScript 编写的应用程序，最终都会用 JavaScript 编写。杰夫·阿特伍德
 
-[![](../Images/6132822472adced3a0ed04c691c1c61a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EOGb6wJ5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AXyeRix8Z-yOcpRlpubtyuA.png) 
+[![](img/6132822472adced3a0ed04c691c1c61a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EOGb6wJ5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AXyeRix8Z-yOcpRlpubtyuA.png) 
 
 <figcaption>质子原生项目- index.js</figcaption>
 
@@ -44,7 +44,7 @@
 
 `index.js`应该是这样的:
 
-[![](../Images/a53c5333e3ebae523cae09fcc5627d63.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HE6kCKeA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ABUgjpvWtCCZNPJ__qrQxig.png) 
+[![](img/a53c5333e3ebae523cae09fcc5627d63.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HE6kCKeA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ABUgjpvWtCCZNPJ__qrQxig.png) 
 
 <figcaption>*正如你所看到的样子 React/React 原生文件*</figcaption>
 
@@ -127,11 +127,11 @@ this.setState({ md5 });
 
 这个窗口应该会弹出
 
-[![](../Images/8b8f05cc554b5328b349427b1049fa64.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--23PJYY2O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/375/1%2AD_fBTxyGSpUbIVPcyt3Kzw.png)
+[![](img/8b8f05cc554b5328b349427b1049fa64.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--23PJYY2O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/375/1%2AD_fBTxyGSpUbIVPcyt3Kzw.png)
 
 如果我们输入一些文本，它会被哈希到 md5
 
-[![](../Images/1564c148fed1b8c58a9d8cee5ac85198.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w2HfMEdm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/375/1%2AazNLC0SBkJs85SK-fj15fw.png)
+[![](img/1564c148fed1b8c58a9d8cee5ac85198.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w2HfMEdm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/375/1%2AazNLC0SBkJs85SK-fj15fw.png)
 
 你可能会说“它看起来很丑，让我们给它添加一些样式”好吧…在写这篇文章的时候，Proton Native 仍处于起步阶段，有很多错误，它还不支持样式，但它是一个有趣的项目。
 

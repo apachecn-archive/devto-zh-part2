@@ -6,7 +6,7 @@
 
 今天，我们很高兴地宣布，MongoDB 连续第二年成为 [Stack Overflow 开发者调查 2018](https://insights.stackoverflow.com/survey/2018/) 中**最受欢迎的数据库**，这是世界上最大的开发者调查，有超过 100，000 名受访者。
 
-[![](../Images/477ca2ac76d41ea792673ffeee67e745.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--et2SS78j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/Screen%2520Shot%25202018-03-13%2520at%25203.38.03%2520PM-qxj2aahz6b.png)
+[![](img/477ca2ac76d41ea792673ffeee67e745.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--et2SS78j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/Screen%2520Shot%25202018-03-13%2520at%25203.38.03%2520PM-qxj2aahz6b.png)
 
 ### 人气稳步上升
 
@@ -22,11 +22,11 @@ MongoDB 的文档模型通过允许开发人员以与他们思考和创建应用
 
 寻找有才华的开发人员的招聘经理可能会很好地回顾一下今天发布的一些额外统计数据。在题为“开发人员如何评估潜在工作”的图表中可以找到一个有趣的统计数据。如果你是一名招聘经理，你正在寻找吸引顶级人才，考虑最想要的数据库平台可能是一种提高机会吸引力的方法。
 
-[![](../Images/10ae23d2aaaadf4d21268f3c4789d590.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aQm6-zZa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/Screen%2520Shot%25202018-03-13%2520at%25203.48.22%2520PM-9jlp7s8ju5.png)
+[![](img/10ae23d2aaaadf4d21268f3c4789d590.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aQm6-zZa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/Screen%2520Shot%25202018-03-13%2520at%25203.48.22%2520PM-9jlp7s8ju5.png)
 
 随着这些开发环境越来越受欢迎，审查堆栈溢出报告的 Javascript 和 Python 开发人员将受到鼓舞。像 MEAN 或 MERN 这样的 web 应用程序栈的流行为 Javascript 开发人员提供了快速构建应用程序的框架。
 
-[![](../Images/8f9d893de6a09226e75686a5beac3050.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lj031zL4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/Screen%2520Shot%25202018-03-13%2520at%25203.43.55%2520PM-tnah73u9sx.png)
+[![](img/8f9d893de6a09226e75686a5beac3050.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lj031zL4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/Screen%2520Shot%25202018-03-13%2520at%25203.43.55%2520PM-tnah73u9sx.png)
 
 不用 Javascript 或者 Python？MongoDB 完全支持这些和所有流行的开发语言。想配合 MongoDB 使用 Golang？一个完全支持的 MongoDB [Golang 驱动程序已经开发到了 Alpha 阶段](https://github.com/mongodb/mongo-go-driver)，给开发者更多的选择来使用最新和最流行的语言进行构建。
 

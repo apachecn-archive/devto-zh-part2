@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/practical-tips-for-better-tech-talk-slides-cki>
 
-[![](../Images/849e4faab17735809a88ff26dd5fda1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xlGa43kl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AaYOf0nuQ6e60gZPM4T5XKA.jpeg)
+[![](img/849e4faab17735809a88ff26dd5fda1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xlGa43kl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AaYOf0nuQ6e60gZPM4T5XKA.jpeg)
 
 在会议和聚会上发言可能是你能为你的职业生涯做的最好的事情之一。但是对于许多开发人员来说，公开演讲超出了他们的舒适区。除了站起来在一群陌生人(甚至是朋友)面前讲话，技术会谈还充满了潜在的灾难。从坏掉的幻灯片和劣质的投影仪到掉线的互联网和漏洞百出的代码示例，有很多地方可能会出错。
 
@@ -26,7 +26,7 @@
 
 说到幻灯片设计，我最好的建议是**尽可能保持简单和最小化**。如有疑问，使用白底黑字。事实上，Apple Keynote 中默认的“白色”模板是一个很好的基础。
 
-[![](../Images/f017f55dbfea4746cfd3c501063efbba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tuwbfeFP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AB9EwAxAiWSP0qK2n)
+[![](img/f017f55dbfea4746cfd3c501063efbba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tuwbfeFP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AB9EwAxAiWSP0qK2n)
 
 这可能不是现存的最奇特的主题，但它做得很好。
 
@@ -42,13 +42,13 @@
 
 我的建议是将两者都放在靠近幻灯片底部的地方，远离主要内容。降低这两种元素的对比度也会有所帮助。
 
-[![](../Images/3450eef6c25846fb479f7e07ff5bacdd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pFsHFiYc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AMdRNQ5FzSJddPLmK)
+[![](img/3450eef6c25846fb479f7e07ff5bacdd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pFsHFiYc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AMdRNQ5FzSJddPLmK)
 
 就内容而言，确保每张幻灯片都有喘息的空间。不要试图把太多的信息塞进任何一张幻灯片。一个好的经验法则是**每张幻灯片一个想法**，使用尽可能多的幻灯片来概括所有这些想法。
 
 人们指出的大多数糟糕的幻灯片和幻灯片都试图把大量的内容塞进一张幻灯片。见过这样的幻灯片吗？
 
-[![](../Images/f2223eece07be7a91e93d578e53a0cde.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i59MhroM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/0%2AmTyuujI3bhHDHjn9)
+[![](img/f2223eece07be7a91e93d578e53a0cde.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i59MhroM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/0%2AmTyuujI3bhHDHjn9)
 
 这是一个经典的例子，试图让幻灯片工作得太辛苦。将这些想法精简成单张幻灯片，并谈论这些想法之间的进展，而不是试图直观地展示出来。
 
@@ -108,7 +108,7 @@
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

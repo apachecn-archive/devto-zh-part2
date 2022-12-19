@@ -10,7 +10,7 @@
 
 <small>(更准确地说，程序是加载在 CPU 中的一组指令，CPU 执行这些指令以达到一个结果)。</small>
 
-[![](../Images/04450938db1c0ce0f0777a852d27eb10.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z5YCFTsZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vr95ldiwraw9h36ae1ma.png)
+[![](img/04450938db1c0ce0f0777a852d27eb10.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z5YCFTsZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vr95ldiwraw9h36ae1ma.png)
 
 # 现在开始编程，但首先..
 
@@ -92,7 +92,7 @@ var z
 
 为了更好地理解，这里有一个概念图:
 
-[![](../Images/1283b6b0a7891b03c902bb8afdacc4a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tfL9inZ---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4w2ejuxzzlngv2xli5lg.png)
+[![](img/1283b6b0a7891b03c902bb8afdacc4a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tfL9inZ---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4w2ejuxzzlngv2xli5lg.png)
 
 x 和 Y 就像建筑物中的房间(也就是我们的 RAM ),它们有能力保存我们赋予它们的值。我们可以说房间号 X 的值为 100，房间号 Y 的值为 200，因为我们已经通过赋值运算符“=”将这些值赋给了它们。
 
@@ -106,7 +106,7 @@ Z = X + Y 时
 
 我们告诉计算机从 RAM 中取出 X 和 Y 的值，在 CPU 中将它们相加，然后将结果存储在另一个叫做 z 的空间中。
 
-[![](../Images/10883c58a61cd377dd6bd753faf1ae94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FiZ7M2Qz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yecpi29n5x6ckkmsqmlc.png)
+[![](img/10883c58a61cd377dd6bd753faf1ae94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FiZ7M2Qz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yecpi29n5x6ckkmsqmlc.png)
 
 上图中的“CPU 指令”不过是我们编写的程序，如下所示:
 
@@ -129,7 +129,7 @@ Y = X + Y，现在应该有一些意义了。
 我希望现在你已经明白计算机编程语言最好从右向左读，有点像阿拉伯语，不是吗:)？不，只是吓吓你！这非常直观。我们只需要记住赋值操作符(' = ')右边的所有东西都是先被处理，然后赋值发生。
 
 再来一个形象的说明:
-[![](../Images/0ced1f51ad04763bb566ca1959b99fce.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3jBq-EAx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2lzb42odthffmf3abx75.png)
+[![](img/0ced1f51ad04763bb566ca1959b99fce.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3jBq-EAx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2lzb42odthffmf3abx75.png)
 
 为了使它圆满，
 

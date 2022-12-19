@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jessicagarson/how-giving-lightning-talks-helped-me-gain-technical-confidence--2omm>
 
-[![presenting](../Images/28ad911bc6aa5d34185070c2f099cd04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LC8WN4-D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7e61vpjw9de8tx188oau.jpg)
+[![presenting](img/28ad911bc6aa5d34185070c2f099cd04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LC8WN4-D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7e61vpjw9de8tx188oau.jpg)
 
 当我刚开始学习如何编程时，一个朋友建议我参加一个名为 [Hack & & Tell](https://www.meetup.com/DC-Hack-and-Tell/) 的聚会。Hack & & Tell 是一个完全致力于基于人们正在建造的酷东西的闪电谈话的聚会。在我第一次尝试讲述的时候，我从未见过任何人做闪电般的演讲，也从未参加过技术会议。我甚至不确定我能不能称自己为开发者。我仍然在努力弄清楚我能建造什么。虽然我被我所看到的一切所鼓舞，但我被建造东西并在一屋子人面前谈论它的概念所淹没。
 

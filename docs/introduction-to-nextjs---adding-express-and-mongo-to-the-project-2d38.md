@@ -185,7 +185,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 第一部分:
 
-[![aurelkurtula image](../Images/e1a1b48b6a401b86d5a91c8729e26a35.png)](/aurelkurtula) [## Next.js 基础介绍
+[![aurelkurtula image](img/e1a1b48b6a401b86d5a91c8729e26a35.png)](/aurelkurtula) [## Next.js 基础介绍
 
 ### aurel Kurt ula Aug 22 ' 187min read
 
@@ -193,7 +193,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 第二部分:
 
-[![aurelkurtula image](../Images/e1a1b48b6a401b86d5a91c8729e26a35.png)](/aurelkurtula) [## Next.js 简介——从 API 获取数据
+[![aurelkurtula image](img/e1a1b48b6a401b86d5a91c8729e26a35.png)](/aurelkurtula) [## Next.js 简介——从 API 获取数据
 
 ### aurel Kurt ula Aug 24 ' 185 分钟阅读
 

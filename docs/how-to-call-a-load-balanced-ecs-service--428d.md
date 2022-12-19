@@ -4,7 +4,7 @@
 
 运行 [ECS](https://aws.amazon.com/ecs/) 的服务可以调用过多的 AWS APIs。它可以从队列中读取消息，向 [SNS](https://aws.amazon.com/sns/) 主题发布消息，查询数据库。这些都是与服务通信的有效方式。然而，通常最合适的方式是通过 HTTP API 调用服务。在这篇文章中，我将描述如何配置在 VPC 内部运行的 ECS 服务，以便其他服务可以调用它的 API。
 
-[![containers](../Images/1c0d232024a621ea100aa4db49c57bc1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0voUqGXD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/318v5l57vo401x02ko0n.jpeg)
+[![containers](img/1c0d232024a621ea100aa4db49c57bc1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0voUqGXD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/318v5l57vo401x02ko0n.jpeg)
 
 # 将一个 ECS 服务部署到多台主机
 

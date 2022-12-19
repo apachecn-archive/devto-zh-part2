@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kevpo/what-to-do-when-you-dont-know-what-to-do-16h8>
 
-[![frustrated programmer](../Images/c5270a79e5015ba0a37e1c52e23e7847.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DU-wPgrb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mstvg0czmltnmkgvh3wa.jpg)
+[![frustrated programmer](img/c5270a79e5015ba0a37e1c52e23e7847.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DU-wPgrb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mstvg0czmltnmkgvh3wa.jpg)
 
 作为开发人员，进入一个良好的流程是最棒的感觉之一。你戴上耳机，迷失在代码中。时间一分一秒地流逝，你只是享受让电脑为你工作的快感。功能和错误修复被一笔带过，到了最后，你会惊讶于自己无中生有的能力。你太棒了。
 

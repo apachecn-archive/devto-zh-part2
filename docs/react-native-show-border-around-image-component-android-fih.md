@@ -13,6 +13,6 @@ borderColor:这将设置边框颜色。
 
 [React 原生显示图像组件 Android 周围的边框](https://www.skptricks.com/2018/10/react-native-show-border-around-image-component-android.html)
 
-[![](../Images/e62afbd6b79d0f6c1b96bbc197501272.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--thac2CBh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-o5ysfJQJgqE/W8lky1Q8RfI/AAAAAAAACCY/9vv1QMBmlAML-6Llavna2hujgYNZqyVqgCLcBGAs/s640/bor.png)
+[![](img/e62afbd6b79d0f6c1b96bbc197501272.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--thac2CBh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-o5ysfJQJgqE/W8lky1Q8RfI/AAAAAAAACCY/9vv1QMBmlAML-6Llavna2hujgYNZqyVqgCLcBGAs/s640/bor.png)
 
 [继续阅读...](https://www.skptricks.com/2018/10/react-native-show-border-around-image-component-android.html)

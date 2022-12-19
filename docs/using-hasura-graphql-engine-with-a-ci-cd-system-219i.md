@@ -4,7 +4,7 @@
 
 使用 Postgres 和 Hasura GraphQL 引擎(HGE)的应用程序可能需要在 CI/CD 环境中运行它们来进行测试。让我们看一下在已经有一些测试数据的情况下运行 Postgres 和 HGE 的一般工作流程。
 
-<figure>[![](../Images/7027fb7e5eacbfc20abbf0564d74f9b9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--imz6rnh_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/using-hasura-graphql-engine-with-a-ci-cd-system-9f7e87b3a0df/1-_Tu7vK-SPpAvgp1figE8YQ.png) 
+<figure>[![](img/7027fb7e5eacbfc20abbf0564d74f9b9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--imz6rnh_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/using-hasura-graphql-engine-with-a-ci-cd-system-9f7e87b3a0df/1-_Tu7vK-SPpAvgp1figE8YQ.png) 
 
 <figcaption>使用 Hasura 搭配 GitLab、Jenkins、Circle CI、Travis CI、Drone CI</figcaption>
 

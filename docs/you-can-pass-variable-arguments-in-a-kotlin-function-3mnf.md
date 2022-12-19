@@ -36,4 +36,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 **(6)**split()成员函数将返回一个*数组列表*，你可以将它转换成一个*数组*，然后使用 spread 运算符，这样你就可以将它传递给一个 *vararg* 函数
 
-[![](../Images/dca45c19ad326004794581c75650d371.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ne0046Pw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/WorkingDev/%257E4/Nw_buFAs-sM)
+[![](img/dca45c19ad326004794581c75650d371.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ne0046Pw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/WorkingDev/%257E4/Nw_buFAs-sM)

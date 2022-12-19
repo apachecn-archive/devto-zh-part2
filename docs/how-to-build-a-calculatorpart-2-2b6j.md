@@ -22,7 +22,7 @@
 
 如果 Tim 在显示器已经显示小数点的时候按了一个十进制键，那么什么都不会发生。
 
-[![Nothing happens when a user hits the decimal key when the display already shows a decimal point](../Images/4000caec3b86c9c4f3d4adf2322d789a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5VH_sLV5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.com/images/2018/calculator-2/decimal-multiple.gif) 
+[![Nothing happens when a user hits the decimal key when the display already shows a decimal point](img/4000caec3b86c9c4f3d4adf2322d789a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5VH_sLV5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.cimg/2018/calculator-2/decimal-multiple.gif) 
 
 <figure>
 
@@ -32,7 +32,7 @@
 
 时，当用户点击十进制键时没有任何反应
 
-[![Nothing should happen even if the previous key isn't the decimal key](../Images/1ad128231e8bc1f0b40c96c1e01d0fc7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--a__k9tE---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.com/images/2018/calculator-2/decimal-multiple-2.gif) 
+[![Nothing should happen even if the previous key isn't the decimal key](img/1ad128231e8bc1f0b40c96c1e01d0fc7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--a__k9tE---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.cimg/2018/calculator-2/decimal-multiple-2.gif) 
 
 <figure>
 
@@ -67,7 +67,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 接下来，如果 Tim 在按下操作键后按下十进制键，显示屏将显示`0.`。
 
-[![Display should show '0.' if a user hits a decimal key after an operator key](../Images/09597c6e8f31c7cb2829f03f9ab5c1ec.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vHK69CJP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.com/images/2018/calculator-2/decimal-after-operator.gif) 
+[![Display should show '0.' if a user hits a decimal key after an operator key](img/09597c6e8f31c7cb2829f03f9ab5c1ec.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vHK69CJP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.cimg/2018/calculator-2/decimal-after-operator.gif) 
 
 <figure>
 
@@ -125,7 +125,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 首先，如果 Tim 先按下操作键，操作键应该会亮起。(我们已经讨论了这种边缘情况，但是如何讨论呢？看看你能不能认出我们做了什么)。
 
-[![Operator key should light up if it's the first key.](../Images/31abc0e37d53c9ca0413a0167b605286.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DAvfvCM6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.com/images/2018/calculator-2/operator-first.gif) 
+[![Operator key should light up if it's the first key.](img/31abc0e37d53c9ca0413a0167b605286.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DAvfvCM6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.cimg/2018/calculator-2/operator-first.gif) 
 
 <figure>
 
@@ -137,7 +137,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 注意:如果你想提供更好的 UX，你可以通过一些 CSS 改变来显示操作符被一次又一次的点击。我们没有在这里做，因为在我修复之前，我把所有的 gif 都录下来了。
 
-[![Operator key remains depressed if clicked on multiple times](../Images/df4502a1abad18b99bead376cf1cefdd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8_H5rVWk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.com/images/2018/calculator-2/operator-multiple.gif) 
+[![Operator key remains depressed if clicked on multiple times](img/df4502a1abad18b99bead376cf1cefdd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8_H5rVWk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.cimg/2018/calculator-2/operator-multiple.gif) 
 
 <figure>
 
@@ -149,7 +149,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 第三，如果 Tim 在按下第一个操作键之后又按下了另一个操作键，则应该释放第一个操作键；应该按下第二个操作键。(我们也涵盖了这种边缘情况；但是怎么做呢？).
 
-[![The new operator key should be depressed](../Images/cd5d302e4e88b4d5a4b621c7dd0bc601.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--myS9sBsD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.com/images/2018/calculator-2/operator-switch.gif) 
+[![The new operator key should be depressed](img/cd5d302e4e88b4d5a4b621c7dd0bc601.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--myS9sBsD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.cimg/2018/calculator-2/operator-switch.gif) 
 
 <figure>
 
@@ -159,7 +159,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 第四，如果 Tim 按顺序点击一个数字、一个操作符、一个数字和另一个操作符，则显示应该更新为计算值。
 
-[![Clicking on the operator when numbers are stored in the calculator results in a calculation](../Images/ee7795a07bd4758dd74e61ae5925659a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Cg5MD5LD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.com/images/2018/calculator-2/operator-calc.gif) 
+[![Clicking on the operator when numbers are stored in the calculator results in a calculation](img/ee7795a07bd4758dd74e61ae5925659a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Cg5MD5LD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.cimg/2018/calculator-2/operator-calc.gif) 
 
 <figure>
 
@@ -196,7 +196,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 虽然我们可以在第二次单击操作键时计算一个值，但我们也在这一点上引入了一个错误——在操作键上的额外单击会在不应该的时候计算一个值。
 
-[![Bug: subsequent clicks on the operator performs a calculation when it shouldn't](../Images/149e0babb861cc7dfd3bf54aef0caa88.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1DwNU5u3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.com/images/2018/calculator-2/bug-operator-immed-calc.gif) 
+[![Bug: subsequent clicks on the operator performs a calculation when it shouldn't](img/149e0babb861cc7dfd3bf54aef0caa88.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1DwNU5u3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.cimg/2018/calculator-2/bug-operator-immed-calc.gif) 
 
 <figure>
 
@@ -220,7 +220,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 第五，在操作员键计算一个数字后，如果蒂姆命中一个数字，接着是另一个操作员，操作员应该继续计算，就像这样:`8 - 1 = 7`、`7 - 2 = 5`、`5 - 3 = 2`。
 
-[![Calculator should be able to continue calculation when a user clicks on numbers, followed by operators, followed by numbers, followed by operators, and so on.](../Images/2c2b99c24e0164a7b1a7045154826902.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mUKDL3ej--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.com/images/2018/calculator-2/operator-consec-calc.gif) 
+[![Calculator should be able to continue calculation when a user clicks on numbers, followed by operators, followed by numbers, followed by operators, and so on.](img/2c2b99c24e0164a7b1a7045154826902.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mUKDL3ej--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.cimg/2018/calculator-2/operator-consec-calc.gif) 
 
 <figure>
 
@@ -230,7 +230,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，我们的计算器不能进行连续计算。第二个计算值是错误的。这里是我们有的:`99 - 1 = 98`，`98 - 1 = 0`。
 
-[![Calculated values are wrong. Second calculated value should be 97 instead of 0](../Images/a36d02e26faca4e7a5f73c7b9912140a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8DUoSB9r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.com/images/2018/calculator-2/operator-consec-calc-bug.gif) 
+[![Calculated values are wrong. Second calculated value should be 97 instead of 0](img/a36d02e26faca4e7a5f73c7b9912140a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8DUoSB9r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.cimg/2018/calculator-2/operator-consec-calc-bug.gif) 
 
 <figure>
 
@@ -244,7 +244,7 @@ T7】</figure>
 
 首先，假设用户点击了一个数字，99。此时，计算器中尚未注册任何内容。
 
-[![When a user hits numbers, the calculator doesn't register `firstValue` or `operator`](../Images/175b0e2360a217c1a2aeaf684319ebcc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PaxFUzOk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/calculator-2/op-consec-calc-1.png) 
+[![When a user hits numbers, the calculator doesn't register `firstValue` or `operator`](img/175b0e2360a217c1a2aeaf684319ebcc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PaxFUzOk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/calculator-2/op-consec-calc-1.png) 
 
 <figure>
 
@@ -254,7 +254,7 @@ T7】</figure>
 
 第二，假设用户点击了减法运算符。在他们点击减法运算符后，我们将`firstValue`设置为 99。我们还设置了`operator`来减去。
 
-点击 操作员按钮后，设置[![`firstValue` and `operator` are set after the operator button is clicked](../Images/d53fdbcc5b3cf8d23164441e42eb6ffc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NaR56BTT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/calculator-2/op-consec-calc-2.png)
+点击 操作员按钮后，设置[![`firstValue` and `operator` are set after the operator button is clicked](img/d53fdbcc5b3cf8d23164441e42eb6ffc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NaR56BTT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/calculator-2/op-consec-calc-2.png)
 
 <figure>
 
@@ -264,7 +264,7 @@ T7】</figure>
 
 第三，假设用户点击了第二个值；这次是 1。此时，显示的数字更新为 1，但我们的`firstValue`、`operator`和`secondValue`保持不变。
 
-[![Display updates to 1, but `firstValue` and `operator` remains at `99` and `subtract`](../Images/adcf19459a5870ef391c279d41106e16.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--o5aV6GQX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/calculator-2/op-consec-calc-3.png) 
+[![Display updates to 1, but `firstValue` and `operator` remains at `99` and `subtract`](img/adcf19459a5870ef391c279d41106e16.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--o5aV6GQX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/calculator-2/op-consec-calc-3.png) 
 
 <figure>
 
@@ -274,7 +274,7 @@ T7】</figure>
 
 第四，用户再次点击减法。就在他们点击减法之后，在我们计算结果之前，我们将`secondValue`设置为显示的数字。
 
-[![We set `secondValue` to 1](../Images/d7aba582948c8d88a25f17b01eb61410.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hK7Kxh02--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/calculator-2/op-consec-calc-4.png) 
+[![We set `secondValue` to 1](img/d7aba582948c8d88a25f17b01eb61410.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hK7Kxh02--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/calculator-2/op-consec-calc-4.png) 
 
 <figure>
 
@@ -286,7 +286,7 @@ T7】</figure>
 
 计算出结果后，我们将显示结果。然后，我们将`operator`设置为减法，将`firstValue`设置为之前显示的数字。
 
-[![After calculation, firstValue is set to `displayedNum`](../Images/1ff514c90b4992f149c09fb9674ed454.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hC0vEcfj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/calculator-2/op-consec-calc-5.png) 
+[![After calculation, firstValue is set to `displayedNum`](img/1ff514c90b4992f149c09fb9674ed454.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hC0vEcfj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/calculator-2/op-consec-calc-5.png) 
 
 <figure>
 
@@ -296,7 +296,7 @@ T7】</figure>
 
 嗯，这是非常错误的！如果我们想继续计算，我们需要用计算出的值更新`firstValue`。
 
-[![updates calculated value as `firstValue`](../Images/432e3e9be1e864135e456ffcb534c39c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vyeKtmGO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/calculator-2/op-consec-calc-6.png) 
+[![updates calculated value as `firstValue`](img/432e3e9be1e864135e456ffcb534c39c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vyeKtmGO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/calculator-2/op-consec-calc-6.png) 
 
 <figure>
 
@@ -333,7 +333,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 通过此修复，由操作键完成的连续计算现在应该是正确的。
 
-[![Consecutive calculations done with the operator key is now correct](../Images/531f84b7126e6b5a54bbc2737838a125.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QG8z8w8P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.com/images/2018/calculator-2/op-consec-calc-fixed.gif) 
+[![Consecutive calculations done with the operator key is now correct](img/531f84b7126e6b5a54bbc2737838a125.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QG8z8w8P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.cimg/2018/calculator-2/op-consec-calc-fixed.gif) 
 
 <figure>
 
@@ -345,7 +345,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 首先，如果 Tim 在按任何操作键之前先按等号键，则不会发生任何事情，
 
-[![Calculator should show zero if equal key is hit first](../Images/42e0ac49d3a0cf83cb55cde6ee7e12a9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--D6XhaAUK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.com/images/2018/calculator-2/equal-first.gif) 
+[![Calculator should show zero if equal key is hit first](img/42e0ac49d3a0cf83cb55cde6ee7e12a9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--D6XhaAUK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.cimg/2018/calculator-2/equal-first.gif) 
 
 <figure>
 
@@ -355,7 +355,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ，计算器应显示零
 
-[![When no calculation is required, display remains the same](../Images/0f1824a7daf3618b96377ee00205360d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--eu6OyZ5a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.com/images/2018/calculator-2/equal-after-num.gif) 
+[![When no calculation is required, display remains the same](img/0f1824a7daf3618b96377ee00205360d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--eu6OyZ5a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.cimg/2018/calculator-2/equal-after-num.gif) 
 
 <figure>
 
@@ -388,7 +388,7 @@ Enter fullscreen mode Exit fullscreen mode
 3.  `2 × =` — > `2 × 2 = 4`
 4.  `2 ÷ =` — > `2 ÷ 2 = 1`
 
-[![The calculator should treat first and second values as the same numbers if it's missing a value](../Images/00b44470fa41e3284e89f8ae6106a5dd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hLgtF5D3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.com/images/2018/calculator-2/num-op-equal.gif) 
+[![The calculator should treat first and second values as the same numbers if it's missing a value](img/00b44470fa41e3284e89f8ae6106a5dd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hLgtF5D3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.cimg/2018/calculator-2/num-op-equal.gif) 
 
 <figure>
 
@@ -409,7 +409,7 @@ Enter fullscreen mode Exit fullscreen mode
 5.  蒂姆打了个平手。计算值为`2 - 1 = 1`
 6.  蒂姆打了个平手。计算值为`1 - 1 = 0`
 
-[![When a user hits the equal key multiple times, the calculator should continue to calculate](../Images/2cc95c30be205028b10eeca2e8b955b5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--N1pmjGca--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.com/images/2018/calculator-2/eq-consec-click-fixed.gif) 
+[![When a user hits the equal key multiple times, the calculator should continue to calculate](img/2cc95c30be205028b10eeca2e8b955b5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--N1pmjGca--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.cimg/2018/calculator-2/eq-consec-click-fixed.gif) 
 
 <figure>
 
@@ -423,7 +423,7 @@ Enter fullscreen mode Exit fullscreen mode
 2.  蒂姆打了个平手。计算值为`4`
 3.  蒂姆打了个平手。计算值为`1`
 
-[![Equal key consecutive calculation gives a wrong result](../Images/49efaa55a02cabbddb3f32392804d63d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DM_EHmo_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.com/images/2018/calculator-2/eq-consec-calc-wrong.gif) 
+[![Equal key consecutive calculation gives a wrong result](img/49efaa55a02cabbddb3f32392804d63d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DM_EHmo_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.cimg/2018/calculator-2/eq-consec-calc-wrong.gif) 
 
 <figure>
 
@@ -435,7 +435,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 首先，假设我们的用户点击了 5 次。此时，计算器中尚未注册任何内容。
 
-[![When a user clicked on the first number the calculator doesn't register `firstValue` or `operator`](../Images/3cf368bbaf93173170f597d4e7e75d8f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oEVsVHZN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/calculator-2/eq-consec-calc-1.png) 
+[![When a user clicked on the first number the calculator doesn't register `firstValue` or `operator`](img/3cf368bbaf93173170f597d4e7e75d8f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oEVsVHZN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/calculator-2/eq-consec-calc-1.png) 
 
 <figure>
 
@@ -445,7 +445,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 第二，假设用户点击了减法运算符。在他们点击减法运算符后，我们将`firstValue`设置为 5。我们还设置了`operator`来减去。
 
-点击 操作员按钮后，设置[![`firstValue` and `operator` are set after the operator button is clicked](../Images/a3c651e0bbf9511d7e796abff5909136.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IT3lLzIL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/calculator-2/eq-consec-calc-2.png)
+点击 操作员按钮后，设置[![`firstValue` and `operator` are set after the operator button is clicked](img/a3c651e0bbf9511d7e796abff5909136.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IT3lLzIL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/calculator-2/eq-consec-calc-2.png)
 
 <figure>
 
@@ -455,7 +455,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 第三，用户点击第二个值。假设是 1。此时，显示的数字更新为 1，但我们的`firstValue`、`operator`和`secondValue`保持不变。
 
-[![Display updates to 1, but `firstValue` and `operator` remains at `5` and `subtract`](../Images/a13f01a5c37a5cb16b5d333ab45e32de.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1RzC5RUE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/calculator-2/eq-consec-calc-3.png) 
+[![Display updates to 1, but `firstValue` and `operator` remains at `5` and `subtract`](img/a13f01a5c37a5cb16b5d333ab45e32de.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1RzC5RUE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/calculator-2/eq-consec-calc-3.png) 
 
 <figure>
 
@@ -465,7 +465,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 第四，用户点击等号键。就在他们点击等于之后，但是在计算之前，我们将`secondValue`设置为`displayedNum`
 
-[![`displayedNum` is set as `secondValue`](../Images/2c3f35f7f924d875e8b4d7861d000669.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4zo_z3tX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/calculator-2/eq-consec-calc-4.png) 
+[![`displayedNum` is set as `secondValue`](img/2c3f35f7f924d875e8b4d7861d000669.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4zo_z3tX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/calculator-2/eq-consec-calc-4.png) 
 
 <figure>
 
@@ -475,7 +475,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 第五，计算器计算出`5 - 1`的结果，给出`4`。结果会更新到显示屏上。`firstValue`和`operator`会被结转到下一次计算，因为我们没有更新它们。
 
-[![`firstValue` and `operator` are used for the next operation](../Images/c59f2b5d45a91c4b9f77315191c77793.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XoMseZ_o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/calculator-2/eq-consec-calc-5.png) 
+[![`firstValue` and `operator` are used for the next operation](img/c59f2b5d45a91c4b9f77315191c77793.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XoMseZ_o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/calculator-2/eq-consec-calc-5.png) 
 
 <figure>
 
@@ -485,7 +485,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 第六，当用户再次命中等号时，我们在计算前将`secondValue`设置为`displayedNum`。
 
-[![Once again, displayed num is set as the `secondValue` before the calculation](../Images/d0c1bc555bff562e571c5448041a449a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZBZsuGno--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/calculator-2/eq-consec-calc-6.png) 
+[![Once again, displayed num is set as the `secondValue` before the calculation](img/d0c1bc555bff562e571c5448041a449a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZBZsuGno--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/calculator-2/eq-consec-calc-6.png) 
 
 <figure>
 
@@ -558,7 +558,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这样，当连续单击等号键时，我们就有了正确的计算结果。
 
-[![Consecutive calculations made by the equal key is now fixed](../Images/2cc95c30be205028b10eeca2e8b955b5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--N1pmjGca--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.com/images/2018/calculator-2/eq-consec-click-fixed.gif) 
+[![Consecutive calculations made by the equal key is now fixed](img/2cc95c30be205028b10eeca2e8b955b5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--N1pmjGca--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.cimg/2018/calculator-2/eq-consec-click-fixed.gif) 
 
 <figure>
 
@@ -604,7 +604,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 第五，如果 Tim 在等号键后按了一个操作键，计算器将不会计算。
 
-[![Operator keys should not perform calculations if they're clicked after the equal key](../Images/b5e9a2193d3fb58ae5faf1812b2e62c2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--H1mAoJEk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.com/images/2018/calculator-2/op-after-eq.gif) 
+[![Operator keys should not perform calculations if they're clicked after the equal key](img/b5e9a2193d3fb58ae5faf1812b2e62c2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--H1mAoJEk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.cimg/2018/calculator-2/op-after-eq.gif) 
 
 <figure>
 
@@ -653,7 +653,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当计算器处于默认状态时，应显示`AC`。
 
-[![AC should be shown in the initial state](../Images/e4f7b63156c5731fcf8ddfbeb2ee43fb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qhqnzEfl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/calculator-2/default.png) 
+[![AC should be shown in the initial state](img/e4f7b63156c5731fcf8ddfbeb2ee43fb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qhqnzEfl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/calculator-2/default.png) 
 
 <figure>
 
@@ -663,7 +663,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 第一，如果 Tim 打了一个键(除了 clear 以外的任何键)，`AC`要改成`CE`。
 
-[![AC changes to CE when a key (except clear) gets hit](../Images/7a77261fa324185d75c0049bc6d9ee6b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UtnPP5nP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.com/images/2018/calculator-2/decimal-first.gif) 
+[![AC changes to CE when a key (except clear) gets hit](img/7a77261fa324185d75c0049bc6d9ee6b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UtnPP5nP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.cimg/2018/calculator-2/decimal-first.gif) 
 
 <figure>
 
@@ -686,7 +686,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 第二，如果 Tim 点击`CE`，显示屏应该显示 0。同时，`CE`应该恢复到`AC`，这样蒂姆就可以将计算器复位到初始状态。**
 
-[![If CE is clicked, AC should show](../Images/6137c8fa787ef30e7617a3dd0f36ea15.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_91sXM3Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.com/images/2018/calculator-2/clear.gif) 
+[![If CE is clicked, AC should show](img/6137c8fa787ef30e7617a3dd0f36ea15.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_91sXM3Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://zellwk.cimg/2018/calculator-2/clear.gif) 
 
 <figure>
 

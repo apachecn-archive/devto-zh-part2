@@ -10,13 +10,13 @@
 
 关于自述文件(也在下面)和代码，请查看:
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [ logdyn ](https://github.com/logdyn) / [再代理](https://github.com/logdyn/re-agent)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [ logdyn ](https://github.com/logdyn) / [再代理](https://github.com/logdyn/re-agent)
 
 ### 一个 Java 命令委托库，提供撤销/重做功能
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-# Logdyn 重新代理 [![Build Status](../Images/6872bf2ea26415f4bf5e59698b895e99.png)](https://travis-ci.org/logdyn/re-agent)
+# Logdyn 重新代理 [![Build Status](img/6872bf2ea26415f4bf5e59698b895e99.png)](https://travis-ci.org/logdyn/re-agent)
 
 一个 Java 命令委托&撤销-重做库。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/hasanaliqureshi/camera-lights--animations--a-frame-vr-development-part-2-4m3n>
 
-[![a-frame-vr-development-part-2](../Images/b11567ba1908b36863359f6351c54949.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VUaBKNM1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hasanali.me/wp-content/uploads/2018/10/a-frame-vr-development-part2.png)
+[![a-frame-vr-development-part-2](img/b11567ba1908b36863359f6351c54949.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VUaBKNM1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hasanali.me/wp-content/uploads/2018/10/a-frame-vr-development-part2.png)
 
 欢迎来到 A-Frame 网络虚拟现实框架教程系列的第二部分。在第一部分中，我们学习了基本的 A 帧语法，创建了一个场景，在其中添加了一个盒子，并在其中设置了环境/天空盒。
 
@@ -36,7 +36,7 @@
 
 现在你会在屏幕中央看到一个圆圈。
 
-[![a-frame-vr-development-part-2](../Images/5720a00786a01e3128990998b51345bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CPPCIF14--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hasanali.me/wp-content/uploads/2018/10/01-1-1024x586.png)
+[![a-frame-vr-development-part-2](img/5720a00786a01e3128990998b51345bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CPPCIF14--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hasanali.me/wp-content/uploads/2018/10/01-1-1024x586.png)
 
 在未来的教程中，当我们创建完全交互式的虚拟现实环境时，我将向你展示如何制作光标凝视效果以及如何与物体互动。
 
@@ -57,7 +57,7 @@
 
 你会看到盒子的颜色是如何变化的。
 
-[![a-frame-vr-developmet-part-2](../Images/1010d2382c676c7786d7bd18aa394f94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--stYc165j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hasanali.me/wp-content/uploads/2018/10/02-1024x586.png)
+[![a-frame-vr-developmet-part-2](img/1010d2382c676c7786d7bd18aa394f94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--stYc165j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hasanali.me/wp-content/uploads/2018/10/02-1024x586.png)
 
 ## 制作对象动画
 
@@ -77,7 +77,7 @@
 > 
 > </a-box></a-box>
 
-[![a-frame-vr-development-part-3](../Images/8351024f7481b46311937a05478687a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4UFOOd1g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://hasanali.me/wp-content/uploads/2018/10/03.gif)
+[![a-frame-vr-development-part-3](img/8351024f7481b46311937a05478687a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4UFOOd1g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://hasanali.me/wp-content/uploads/2018/10/03.gif)
 
 不仅仅是旋转，你还可以动画显示物体的位置和大小/比例。检查动画属性并使用它进行试验[https://aframe . io/docs/0 . 8 . 0/core/animations . html # attributes](https://aframe.io/docs/0.8.0/core/animations.html#attributes)
 

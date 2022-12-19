@@ -42,7 +42,7 @@ navigator.serviceWorker.register('/service-worker.js')
 
 之后，您可以在 Chrome DevTools 中看到以下内容:
 
-[![](../Images/822b0c56c2e122c6cccfd8c309d76857.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cufkOEZp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z8nv2e8vohm4ieosd36l.png)
+[![](img/822b0c56c2e122c6cccfd8c309d76857.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cufkOEZp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z8nv2e8vohm4ieosd36l.png)
 
 注册可能由于以下原因而失败:
 
@@ -209,7 +209,7 @@ self.addEventListener('fetch', (e) => {
 **中间件基本上是任何一段代码，它封装了 HTTP 请求和从服务器**接收的响应。这与《快递中的[概念非常相似。当一个请求通过整个中间件堆栈时，它会到达应用程序，然后作为完整的 HTTP 响应返回堆栈。
 就我们而言，这是一些由我们的 Rails 应用程序生成的响应在返回到浏览器之前必须经过的代码。Rails 是一个基于](https://expressjs.com/en/guide/using-middleware.html)[机架的](https://rack.github.io/)框架，这就是允许我们使用这种结构的原因。不过，在这里进入 Rack 的细节可能有点矫枉过正。
 
-[![](../Images/48592fba4ef5289a9de57023f97529c2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Gdjxpwnr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ds47ctkp8hj8pw89pm2q.png) 
+[![](img/48592fba4ef5289a9de57023f97529c2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Gdjxpwnr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ds47ctkp8hj8pw89pm2q.png) 
 *来源:[https://philsturgeon . uk](https://philsturgeon.uk)*
 
 Rails 中间件规范非常简单:它只需要实现一个`call`方法。让我们创建一个新目录`app/middleware`并放入一个新类:
@@ -252,7 +252,7 @@ config.middleware.insert_before ActionDispatch::Static, ServiceWorkerManager, ['
 ```
 
 如果你运行`rake middleware`，你会得到你的应用正在使用的所有中间件的列表:
-[![](../Images/5f7e85869696836d5910f5e7f14bbacf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--eV7TahyL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lzt32p9ual9kn865xkw2.png)
+[![](img/5f7e85869696836d5910f5e7f14bbacf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--eV7TahyL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lzt32p9ual9kn865xkw2.png)
 
 正如我们所指定的，`ServiceWorkerManager`被添加到了`ActionDispatch::Static`之前。我们在这个特殊位置添加它的原因是因为`ActionDispatch::Static`是[用来服务来自`public`目录](http://api.rubyonrails.org/classes/ActionDispatch/Static.html)的静态文件，并且自动设置`Cache-Control`头。事实上，[静态文件请求甚至不经过中间件堆栈或应用程序的其余部分，而是立即返回](https://github.com/rails/rails/blob/efb935a5daf04cf3309453351f87faea4a3a2e6e/actionpack/lib/action_dispatch/middleware/static.rb#L121)。因此，通过将我们的中间件*放在*之前，传出的*响应将必须通过我们的中间件。*
 

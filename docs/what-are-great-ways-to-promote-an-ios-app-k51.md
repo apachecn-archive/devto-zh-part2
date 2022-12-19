@@ -6,7 +6,7 @@
 
 为企业创建一个完美的应用程序是一项艰巨的任务，但以正确的方式推广应用程序也很重要。由于市场竞争激烈，将你的应用程序介绍给用户对于你的应用程序的成功非常重要。为了获得更好的结果和市场表现，这里有一些方法可以帮助你向更多的受众推广你的应用。
 
-[![](../Images/a48c4832439412ce4e094c6edd4aea7c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BWdG8Smo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/810/1%2AeM0Brkw38HZEOCKigOcLCw.jpeg)
+[![](img/a48c4832439412ce4e094c6edd4aea7c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BWdG8Smo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/810/1%2AeM0Brkw38HZEOCKigOcLCw.jpeg)
 
 **1)审核提交:**
 

@@ -26,7 +26,7 @@
 
 为此，您可以单击自述文件旁边的铅笔图标。这将把您带到一个编辑器，您可以在其中更改文本。
 
-[![A text editor shows up after you click the pencil icon](../Images/bc313763103fdbe8fcc3afcb80c4955e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---cNAgTd2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-pull/edit-readme.png) 
+[![A text editor shows up after you click the pencil icon](img/bc313763103fdbe8fcc3afcb80c4955e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---cNAgTd2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-pull/edit-readme.png) 
 
 <figure>
 
@@ -36,7 +36,7 @@
 
 一旦你完成了。向下滚动到底部，并编写一条提交消息。你可以点击绿色按钮直接在 Github 上提交修改。
 
-[![Committing the changes](../Images/6d7202cce1d51ec8b85fa2149449e8a2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MxKfL5fv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-pull/edit-readme-commit.png) 
+[![Committing the changes](img/6d7202cce1d51ec8b85fa2149449e8a2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MxKfL5fv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-pull/edit-readme-commit.png) 
 
 <figure>
 
@@ -52,7 +52,7 @@ Fork 和其他 Git 客户端可以向您展示对远程存储库的更改。他�
 
 你可以通过点击向下的空箭头来自己取数据。它是左上角最左边的箭头按钮
 
-[![the fetch button](../Images/e0c03c65460c52be089be0ce076dfef1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8-W9HUhc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-pull/fetch.png) 
+[![the fetch button](img/e0c03c65460c52be089be0ce076dfef1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8-W9HUhc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-pull/fetch.png) 
 
 <figure>
 
@@ -64,7 +64,7 @@ Fetch 检查远程存储库是否有任何更改。就像一个邮件客户端�
 
 一旦获取完成，您可以在 Git 历史中看到,`origin/master`在`update README.md`提交上，并且`update README.md`提交比我们的本地主分支早一个提交。
 
-[![`origin/master` tag is one commit ahead of the `master` tag. ](../Images/a8aa94cd72a5b83dc222ab6d1ee20c3b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zStQgWTC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-pull/history-1.png) 
+[![`origin/master` tag is one commit ahead of the `master` tag. ](img/a8aa94cd72a5b83dc222ab6d1ee20c3b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zStQgWTC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-pull/history-1.png) 
 
 <figure>
 
@@ -74,7 +74,7 @@ T9】</figure>
 
 在侧边栏上，你可以看到我们的主分支旁边的数字 1，以及一个向下的箭头。这告诉我们，我们的分支比远程操作晚一次提交。
 
-[![Sidebar shows a number 1 and a downwards arrow](../Images/81ce5f77a49160262a402fbe759492ff.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--g8Xi7fX0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-pull/branch) 
+[![Sidebar shows a number 1 and a downwards arrow](img/81ce5f77a49160262a402fbe759492ff.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--g8Xi7fX0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-pull/branch) 
 
 <figure>
 
@@ -86,7 +86,7 @@ T9】</figure>
 
 要更新您的本地分支机构，您可以单击“拉”按钮。下拉按钮是左上角的实心向下箭头。是取和推之间的那个。
 
-[![The pull button](../Images/c7f93535a3374e8c08c25034f2cefec7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sXuzfuas--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-pull/pull.png) 
+[![The pull button](img/c7f93535a3374e8c08c25034f2cefec7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sXuzfuas--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-pull/pull.png) 
 
 <figure>
 
@@ -96,7 +96,7 @@ T9】</figure>
 
 当您单击“拉”时，您将能够选择您想要拉的分支。因为我们之前已经跟踪过它，所以您可以通过再次单击 pull 来直接拉动主分支。
 
-[![Menu that opens up after clicking pull.](../Images/c4e3ab000065addb8245a4673ffcbba9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mTEoJEUB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-pull/pull-menu.png) 
+[![Menu that opens up after clicking pull.](img/c4e3ab000065addb8245a4673ffcbba9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mTEoJEUB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-pull/pull-menu.png) 
 
 <figure>
 
@@ -106,7 +106,7 @@ T9】</figure>
 
 当您将分支从远程拉到本地存储库时，您会看到`master`与`origin/master`移动到相同的提交。
 
-[![`master` and `origin/master` are on the same commit again](../Images/5a1ea1f2502ab8b59011e01165bf2c84.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--A1o-Yp1z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/git-pull/history-2.png) 
+[![`master` and `origin/master` are on the same commit again](img/5a1ea1f2502ab8b59011e01165bf2c84.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--A1o-Yp1z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/git-pull/history-2.png) 
 
 <figure>
 

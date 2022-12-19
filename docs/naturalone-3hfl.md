@@ -6,7 +6,7 @@
 
 **让您的自然应用开发环境为 2050 年及以后做好准备！从现在开始，NaturalONE 是 Natural 9.0 版本的默认开发环境。**
 
-| 2018 年第四期 | [![](../Images/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue4/SAG_NaturalONE_TECHniques_Oct18_WEB.pdf) |
+| 2018 年第四期 | [![](img/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue4/SAG_NaturalONE_TECHniques_Oct18_WEB.pdf) |
 | --- | --- |
 
 ## 2050 年及以后
@@ -23,7 +23,7 @@ Natural 9 是一个重要的版本，对我们所有的客户都有非常重要�
 
 安装后，您可以使用“Tech”命令来检查自然编辑器设置的状态，如图 1 所示。Tech 命令中的编辑器设置应该显示“禁用”如果您随后调用编辑器，您将收到自然系统消息 NAT7743“编辑器在自然模式下被禁用。请改用 NaturalONE。”当您调用编辑器(如 List 命令)时，此消息也会出现在其他情况下。
 
-[![](../Images/53a4a5b9dfb3df30652a770b469ddf72.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--h8tONro0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/natural1.jpg/697f78de-1ac1-4a25-8426-75f8e610aa16%3Ft%3D1540196728427) 
+[![](img/53a4a5b9dfb3df30652a770b469ddf72.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--h8tONro0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/natural1.jpg/697f78de-1ac1-4a25-8426-75f8e610aa16%3Ft%3D1540196728427) 
 
 **图 1:** 使用 Tech 命令验证自然编辑器被禁用。
 
@@ -47,7 +47,7 @@ Natural 9 是一个重要的版本，对我们所有的客户都有非常重要�
 
 基于存储库的团队开发比传统的开发方法有很多优势，如图 2 所示。
 
-[![](../Images/cfdf94837c89b65acf82937b007e70b2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fa4B0FtT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/natural2.jpg/86ac01a4-34f1-4910-aaef-3b6a7be9ac95%3Ft%3D1540196732023) 
+[![](img/cfdf94837c89b65acf82937b007e70b2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fa4B0FtT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/natural2.jpg/86ac01a4-34f1-4910-aaef-3b6a7be9ac95%3Ft%3D1540196732023) 
 
 **图 2:** 使用 NaturalONE，您将收获基于库的团队开发的好处。
 

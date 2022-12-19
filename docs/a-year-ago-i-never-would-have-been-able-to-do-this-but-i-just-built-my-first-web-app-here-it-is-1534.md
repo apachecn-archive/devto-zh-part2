@@ -8,7 +8,7 @@
 
 当我试图弄清楚要建造什么的时候，我牢记了
 
-![[deleted user] image](../Images/56fbc1337a9836e0802365a3a3022a53.png)
+![[deleted user] image](img/56fbc1337a9836e0802365a3a3022a53.png)
 
 ## [已删除的用户]
 
@@ -44,7 +44,7 @@ who told me once to keep it simple, especially when building something for the f
 
 为了学习如何做到这一点，我跟随了一个关于 w3schools.com 的教程，它带我完成了添加 BootstrapCDN 脚本和为一个社交媒体风格的网站构建一个基本网格的过程。我改变了网格来适应我的需要，并开始设计。我觉得让它看起来像脸书会很有趣，所以我写了 CSS 来实现它，每当我遇到问题时就在谷歌上搜索。
 
-[![Peter Griffin frustrated](../Images/a8913340946bad0fbac4cd6d68fc8047.png)T2】](https://i.giphy.com/media/5pxnxdzdZfXFK/giphy.gif)
+[![Peter Griffin frustrated](img/a8913340946bad0fbac4cd6d68fc8047.png)T2】](https://i.giphy.com/media/5pxnxdzdZfXFK/giphy.gif)
 
 这听起来可能很容易，但我的第一次尝试是一个悲惨的失败。当我试图为每个葡萄酒条目创建卡片时，错误像疯了一样出现，每当我修复一个错误，另一个就会在其他地方出现。这是我玩过的最糟糕的打地鼠游戏。我的改变让我陷入困境，我知道我需要重新开始。所以我运行`git checkout`，开始一个新的分支，并开始重建 HTML。经过一两天的工作，我有了一个我喜欢的布局，并且运行正常。
 

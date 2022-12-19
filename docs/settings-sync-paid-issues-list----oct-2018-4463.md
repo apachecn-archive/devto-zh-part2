@@ -6,7 +6,7 @@
 
 之前我为那些愿意为开源做贡献的人写了一篇文章，那就是任何人如何才能在 [Visual Studio 代码设置同步](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)中做出贡献，唯一需要的技能是 Node JS / TypeScript。
 
-[![shanalikhan image](../Images/69f695ddc0e23384f377812b3a757d98.png)](/shanalikhan) [## 帮助更好地构建代码设置同步
+[![shanalikhan image](img/69f695ddc0e23384f377812b3a757d98.png)](/shanalikhan) [## 帮助更好地构建代码设置同步
 
 ### shan Khan 9 月 15 日 182 分钟阅读
 

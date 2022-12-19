@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/wiaio/driving-a-dc-motor-with-an-arduino-and-the-l293d-motor-driver--541e>
 
-[![alt text](../Images/fbf3a13402ee574e63174b5dae6938b1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--p6lfQ8Y2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-06-07/1528381887-132077-dc-motor-arduino-2.png) 
+[![alt text](img/fbf3a13402ee574e63174b5dae6938b1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--p6lfQ8Y2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-06-07/1528381887-132077-dc-motor-arduino-2.png) 
 在本教程中，我们将了解如何使用 L293D 和 Arduino 为 DC 电机供电和驱动(我们在这里使用 Arduino MKR 1000，但您可以使用任何为您的电机提供足够电压并具有 2 个数字输出引脚的 Arduino)。
 L293D 是一款 16 针电机驱动器 IC，可以同时控制多达两个 DC 电机，在任何方向。
 
@@ -20,7 +20,7 @@ L293D 是一款 16 针电机驱动器 IC，可以同时控制多达两个 DC 电
 
 首先，让我们连接试验板上的元件。下面您将看到 L293D 的引脚图-注意每个引脚相对于顶部槽口的位置。
 
-[![alt text](../Images/d77d116b6b58308a755bf2f5b01734df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vKtnGjdj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/850b98a-L293D-pinout.png)
+[![alt text](img/d77d116b6b58308a755bf2f5b01734df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vKtnGjdj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/850b98a-L293D-pinout.png)
 
 由于在本教程中我们只驱动一个电机，所以我们不会使用所有电机驱动器的引脚。
 
@@ -35,7 +35,7 @@ L293D 是一款 16 针电机驱动器 IC，可以同时控制多达两个 DC 电
 *注意:电机驱动器上的`Vs`引脚给电机供电。如果您的马达需要的电压超过 Arduino 所能提供的电压，您可以连接外部电池或电池组。只需将负极引线连接到试验板上的`GND`，将正极引线连接到 L293D 的`Vs`引脚。*
 
 一旦这一切都连接起来，它应该看起来有点像这样:
-[![alt text](../Images/a4d0500c80316d3936ff5ef00b27cf57.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5ejGuteN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/d45570e-IMG_20180601_132215-2.jpg)
+[![alt text](img/a4d0500c80316d3936ff5ef00b27cf57.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5ejGuteN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/d45570e-IMG_20180601_132215-2.jpg)
 
 ### **代码**
 

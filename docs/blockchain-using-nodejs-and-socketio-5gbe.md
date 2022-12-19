@@ -348,21 +348,21 @@ module.exports = socketListeners;
 
 我使用 PM2 来生成在不同端口上运行的应用程序实例。因此，一旦这两个实例启动并运行，我就从其中一个节点触发`/nodes`端点连接到另一个节点，输出是:
 
-[![Initial state](../Images/e0ccd5a2e2ac8f7eaca2ddab33634974.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8TXwQgAh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5x51v450kdalehd5s2hk.png)
+[![Initial state](img/e0ccd5a2e2ac8f7eaca2ddab33634974.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8TXwQgAh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5x51v450kdalehd5s2hk.png)
 
 输出显示，这两个节点之间已经成功建立了 websocket 连接。
 
 然后我从其中一个节点触发`/transaction`端点。然后，它向另一个节点发出关于传入事务的信号，两个节点都将其添加到自己的事务池中。
 
-[![First transaction](../Images/3b882d4cf86203ca03fc7d3896592b5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5Y4Ddqbz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4d67glv4ti8am572t4z1.png)
+[![First transaction](img/3b882d4cf86203ca03fc7d3896592b5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5Y4Ddqbz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4d67glv4ti8am572t4z1.png)
 
 然后我再次触发`/transaction`，因为我们的块大小是 2，所以挖掘过程在两个节点上开始。当其中一个节点成功挖掘该块时，它发出挖掘结束的信号，并开始验证过程，一旦验证过程完成，新的链将在整个网络中被替换。
 
-[![Mining block](../Images/0ad1540f0afd17851e664e27d9d959b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uEl7i1nq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h79rqnrb6d5zfragzk78.png)
+[![Mining block](img/0ad1540f0afd17851e664e27d9d959b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uEl7i1nq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h79rqnrb6d5zfragzk78.png)
 
 然后，当我点击`/chain`端点时，我收到了链中的块列表。
 
-[![chain](../Images/78e2562c969fc5b735b030edf0e6c68d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zxeYGg3---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/owlqpq3lboxl4et7fzak.png)
+[![chain](img/78e2562c969fc5b735b030edf0e6c68d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zxeYGg3---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/owlqpq3lboxl4et7fzak.png)
 
 就这样，我们使用 NodeJS 和 Socket.io 创建了自己的区块链
 

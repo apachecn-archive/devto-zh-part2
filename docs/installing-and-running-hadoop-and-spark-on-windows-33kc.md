@@ -24,7 +24,7 @@
 
 接下来，[下载 7-Zip](https://www.7-zip.org/) 解压`*gz`档案。请注意，您可能需要提取两次(一次从`*gz`移动到`*.tar`文件，然后第二次到“untar”)。一旦它们被提取出来(Hadoop 需要一些时间)，你就可以删除所有的`*.tar`和`*gz`文件。您现在应该有两个目录，并且在您的下载目录中有 JDK 安装程序:
 
-[![](../Images/04d8564ac9ac01c8a35e9367ca13d60b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ilp1ubt0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sn274lipt5r1dq60q4y2.PNG)
+[![](img/04d8564ac9ac01c8a35e9367ca13d60b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ilp1ubt0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sn274lipt5r1dq60q4y2.PNG)
 
 注意——如上所示——“Hadoop”目录和“Spark”目录各包含一个`LICENSE`、`NOTICE`和`README`文件。对于特定版本的 Hadoop，您可能会提取并获得类似于
 的目录结构
@@ -49,11 +49,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 将 Spark 和 Hadoop 目录移动到`C:\`目录中(您可能需要在您的机器上拥有管理员权限来完成此操作)。然后，运行 Java 安装程序，但是将目标文件夹从默认的`C:\Program Files\AdoptOpenJDK\jdk-<version>\`改为`C:\Java`。(H/S 可能无法处理名称中包含空格的目录。)
 
-[![](../Images/b92af98901f44e3db1ccb2d490de6a86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_5qz4Fgl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9gcxr91eej5cuc5kay8f.PNG)
+[![](img/b92af98901f44e3db1ccb2d490de6a86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_5qz4Fgl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9gcxr91eej5cuc5kay8f.PNG)
 
 安装完成后，您可以删除 Java `*.msi`安装程序。创建两个名为`C:\Hadoop`和`C:\Spark`的新目录，并将`hadoop-<version>`和`spark-<version>`目录分别复制到这两个目录中:
 
-[![](../Images/31f3e6fad06c1fb35b0ef0f76ed0cc8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BrQ_u30Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3jarnzcyy5nczmfzwx7o.PNG)
+[![](img/31f3e6fad06c1fb35b0ef0f76ed0cc8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BrQ_u30Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3jarnzcyy5nczmfzwx7o.PNG)
 
 如果您收到“名称太长”类型的警告，请跳过这些文件。这些只是`*.html`文件，对运行 H/S 并不重要。
 
@@ -61,7 +61,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 接下来，我们需要设置一些环境变量。转到`Control Panel > System and Security > System > Advanced System Settings > Environment Variables...`:
 
-[![](../Images/4798b12f113e882044d705f954b8a44a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MLhmwD6O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gydxky0nm5t3pyyn6ls6.PNG)
+[![](img/4798b12f113e882044d705f954b8a44a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MLhmwD6O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gydxky0nm5t3pyyn6ls6.PNG)
 
 ...并添加新的系统变量(底部方框),名为:
 
@@ -73,11 +73,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 然后，编辑`Path`(还是在底部的系统变量框中)，添加那些附加了`\bin`的变量(对于 Hadoop 也是`\sbin`):
 
-[![](../Images/01aab732af0d80868b238db8a8c4fce9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8ioyUzOX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p5gj8qs2sf8qq99beq57.PNG)
+[![](img/01aab732af0d80868b238db8a8c4fce9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8ioyUzOX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p5gj8qs2sf8qq99beq57.PNG)
 
 如果你在`cmd`中`echo %PATH%`，你现在应该在路径中间的某个地方看到这三个目录，因为用户路径被附加到了`%PATH`变量的系统路径上。现在您应该检查一下`java -version`、`hdfs -version`和`spark-shell --version`是否返回了版本号，如下所示。这意味着它们已被正确安装并添加到您的`%PATH%`:
 
-[![](../Images/15a568323fc9fb9f22318b5ecb582cdd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WZbXb3u5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ohe2pkcd4o85odi4jk0l.PNG)
+[![](img/15a568323fc9fb9f22318b5ecb582cdd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WZbXb3u5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ohe2pkcd4o85odi4jk0l.PNG)
 
 **请注意**如果您试图从路径中有空格的位置*运行上述命令，这些命令可能会失败。例如，如果您的用户名是“名字姓氏”，并且您试图检查 Hadoop 版本，您可能会看到类似于
 的错误消息*
@@ -190,7 +190,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们需要做的最后一件事是创建我们在`hdfs-site.xml`中引用的目录:
 
-[![](../Images/cbe091bc0abe31860ebcf7732548b587.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SuXnc43j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4zv6rhjo808tomijw4s4.PNG)
+[![](img/cbe091bc0abe31860ebcf7732548b587.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SuXnc43j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4zv6rhjo808tomijw4s4.PNG)
 
 # 补丁 Hadoop
 
@@ -200,7 +200,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，如果您在`cmd`中运行`hdfs namenode -format`，您应该会看到:
 
-[![](../Images/c4f142b1c2b12c79be2e5f1fa4606e1b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KdgUgIf4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o1r4vh0ky329o5jg6dp1.PNG)
+[![](img/c4f142b1c2b12c79be2e5f1fa4606e1b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KdgUgIf4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o1r4vh0ky329o5jg6dp1.PNG)
 
 还有一件事要做:将`C:\Hadoop\hadoop-<version>\share\hadoop\yarn\timelineservice`中的`hadoop-yarn-server-timelineservice-<version>`复制到`C:\Hadoop\hadoop-<version>\share\hadoop\yarn`(父目录)。(这些是短版本号，像`3.1.3`，`JAR`文件名和目录名可能不匹配。)
 
@@ -208,25 +208,25 @@ Enter fullscreen mode Exit fullscreen mode
 
 最后，你可以通过运行`cmd`中的`start-dfs.cmd`和`start-yarn.cmd`来启动 HDFS:
 
-[![](../Images/de1dda4b554224a51bcdb1c6bce98124.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p-uKiWJw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hxs3insfi8dozupt41z3.PNG)
+[![](img/de1dda4b554224a51bcdb1c6bce98124.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p-uKiWJw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hxs3insfi8dozupt41z3.PNG)
 
 您应该使用`jps`命令验证`namenode`、`datanode`、`resourcemanager`和`nodemanager`都在运行:
 
-[![](../Images/c0aff97e442009ab5c9e380e6f41f9ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jKUXqTOT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ar9irvm9sikggucetzov.PNG)
+[![](img/c0aff97e442009ab5c9e380e6f41f9ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jKUXqTOT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ar9irvm9sikggucetzov.PNG)
 
 您还可以在浏览器中打开`localhost:8088`和`localhost:9870`来监控您闪亮的新 Hadoop 分布式文件系统:
 
-[![](../Images/840772160f8946b5f32e573163391c25.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N6ru4Dv2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b3d4dz32ynzeciu8sn71.PNG)
+[![](img/840772160f8946b5f32e573163391c25.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N6ru4Dv2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b3d4dz32ynzeciu8sn71.PNG)
 
 最后，通过运行`hadoop fs -mkdir /test`测试您是否可以编辑文件系统，这将在根目录中创建一个名为`test`的目录:
 
-[![](../Images/fa54e8da84b2757d221ba6709261f504.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZHq2ldcE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mh4cw1ga0ev5lgyk8re7.PNG)
+[![](img/fa54e8da84b2757d221ba6709261f504.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZHq2ldcE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mh4cw1ga0ev5lgyk8re7.PNG)
 
 # 测试 Hadoop 和 Spark
 
 我们现在知道了如何在 HDFS 中创建目录(`fs -mkdir`)并列出它们的内容(`fs -ls`)，那么创建和编辑文件呢？嗯，可以用`fs -put`把文件从本地文件系统复制到 HDFS。然后我们可以用`sc.textFile(...)`读取`spark-shell`中的文件:
 
-[![](../Images/f3b345c88022d9fc35b48ba10d5c3836.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hK1bi8xk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nhowj0hgwqdw6edi8965.PNG)
+[![](img/f3b345c88022d9fc35b48ba10d5c3836.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hK1bi8xk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nhowj0hgwqdw6edi8965.PNG)
 
 请注意，您在`hdfs://localhost:9000/`而不仅仅是`hdfs://`从 HDFS 读取了一个文件。这是因为这是我们在`core-site.xml`中定义的`defaultFS`。
 

@@ -16,7 +16,7 @@
 
 ## bitbucket-pipelines.yml
 
-[![Bitbucket Pipelines](../Images/dc4fae3c94a14e419272eeccc7f47ddb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6oG1HDul--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o0r8khyzsvi41aob13qv.png)
+[![Bitbucket Pipelines](img/dc4fae3c94a14e419272eeccc7f47ddb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6oG1HDul--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o0r8khyzsvi41aob13qv.png)
 
 就是这样。只需将这个 bitbucket-pipelines.yml 文件包含在根目录中，并将一些更改推送到主或开发分支。然后，它将开始构建和部署。如果你认为这是令人困惑的，这里有一个小故障。
 

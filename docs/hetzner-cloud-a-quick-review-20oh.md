@@ -27,7 +27,7 @@ Enter fullscreen mode Exit fullscreen mode
 *   以同样的价格获得更多的动力。新的云服务器拥有最新的硬件和 NVM 驱动器。
 *   图像、快照、自动备份等。
 
-[![](../Images/d3179fcb0402f28c1ccb3f4ed7ff2eca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9zy93Irk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.mskog.com/images/hetzner_interface%402x.png)
+[![](img/d3179fcb0402f28c1ccb3f4ed7ff2eca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9zy93Irk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.mskog.cimg/hetzner_interface%402x.png)
 
 我不得不试一试，因为它的价格只有同样规格的 DigitalOcean 的 25%。
 
@@ -37,7 +37,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 新机器的性能从一开始就给我留下了深刻的印象。他们已经运行了一个月左右，表现非常稳定。这当然可能是因为整个服务是新的，没有吵闹的邻居。到目前为止，这看起来很有希望，这在下面的图片中也很明显:
 
-[![](../Images/5ce15fd8f989401a41ca2e5dd855e1c2.png)T2】](https://browser.geekbench.com/v4/cpu/7077328)
+[![](img/5ce15fd8f989401a41ca2e5dd855e1c2.png)T2】](https://browser.geekbench.com/v4/cpu/7077328)
 
 将上述内容与具有可比规格的[数字海洋液滴](https://browser.geekbench.com/geekbench3/8497913)进行比较。
 
@@ -61,11 +61,11 @@ OVH 是法国供应商。一台有 1 个 cpu 内核、4gb 内存和 20gb 存储�
 
 Scaleway 既有他们所谓的“裸机 SSD 云服务器”，也有普通的 VPS。他们是独一无二的，因为他们销售裸机专用机器，就好像他们是云机器一样。一台配备 4 个 CPU 内核、4GB ram 和 100GB SSD 的非专用机器价格约为 7.50 美元。这非常便宜，但有一个大问题:Scaleway 对这些机器使用 Atom CPUs。这些 CPU 价格实惠，耗电少，但单核性能差。
 
-[![](../Images/b3e86e9054fdf325771b4f769e72ff6e.png)T2】](https://browser.geekbench.com/geekbench3/5631950)
+[![](img/b3e86e9054fdf325771b4f769e72ff6e.png)T2】](https://browser.geekbench.com/geekbench3/5631950)
 
 Scaleway 还以更低的价格销售基于 ARM 的服务器。更好的是，你可以每月花大约 15 美元拥有一台 4 核、8GB ram 和 50GB SSD 的专用机器。请注意，这是一台专用机器，而不是共享的 VPS。他们也有 50GB 的 SSD 块存储，价格约为 1 美元。同样，如果您不需要出色的单核性能，那么可以好好看看 Scaleway 提供的产品。
 
-[![](../Images/a1b1ce6ec16af1e3d70e615d81effc1c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1nzaUVDL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.mskog.com/images/scaleway_pricing%402x.png)
+[![](img/a1b1ce6ec16af1e3d70e615d81effc1c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1nzaUVDL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.mskog.cimg/scaleway_pricing%402x.png)
 
 ### [AWS EC2](https://aws.amazon.com/ec2/)
 

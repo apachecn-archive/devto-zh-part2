@@ -10,7 +10,7 @@
 
 # 什么是`import-js-from-history`
 
-[![image](../Images/fe0b4b06ea5dd2c83d4cde332a771840.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3ETYWQrv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8xk0fj59psegudks5mq1.gif)
+[![image](img/fe0b4b06ea5dd2c83d4cde332a771840.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3ETYWQrv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8xk0fj59psegudks5mq1.gif)
 
 `import-js-from-history`帮助编写 JS & TS `import`语句。
 读取所有 git 文件中的`import`语句，并建议`import`语句。

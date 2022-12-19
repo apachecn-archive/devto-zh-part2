@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/onmyway133/best-resources-for-software-engineering-59ig>
 
-[![](../Images/5edc3cd53f4eda5ba0b2367360a57548.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YCY4B5WO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2ANoatSklXCHFUlZWf.png)
+[![](img/5edc3cd53f4eda5ba0b2367360a57548.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YCY4B5WO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2ANoatSklXCHFUlZWf.png)
 
 人们常说软件工程师的工作就是解决问题。但是仅仅在技术上强是不够的，你不能整天坐在屏幕前按按钮，在这个职业中有更多的东西需要了解。像活动，面试准备，获得灵感，避免倦怠，了解薪水和职业步骤，博客都在某种程度上影响你的生活。
 

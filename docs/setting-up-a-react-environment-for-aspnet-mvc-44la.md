@@ -29,7 +29,7 @@
 
 创建一个新的 ASP.NET MVC 项目(选择你的选择。NET 框架)。
 
-<figure>[![](../Images/848d37046d0b074731fd639a72e8902e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CzZnhoOx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/www.slightedgecoder.com/wp-content/uploads/2018/10/1.1-create-a-new-project.jpg%3Fw%3D1170%26ssl%3D1) 
+<figure>[![](img/848d37046d0b074731fd639a72e8902e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CzZnhoOx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/www.slightedgecoder.com/wp-content/uploads/2018/10/1.1-create-a-new-project.jpg%3Fw%3D1170%26ssl%3D1) 
 
 <figcaption>创建新的 ASP.NET MVC 项目</figcaption>
 
@@ -37,7 +37,7 @@
 
 并选择一个模板。
 
-<figure>[![](../Images/ba3a92873f94ed39e6faf4a56e6129dd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LptlhHWD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/www.slightedgecoder.com/wp-content/uploads/2018/10/1.2-select-template.jpg%3Fw%3D1170%26ssl%3D1) 
+<figure>[![](img/ba3a92873f94ed39e6faf4a56e6129dd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LptlhHWD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/www.slightedgecoder.com/wp-content/uploads/2018/10/1.2-select-template.jpg%3Fw%3D1170%26ssl%3D1) 
 
 <figcaption>MVC 模板</figcaption>
 
@@ -47,7 +47,7 @@
 
 在项目根中添加一个新项。
 
-<figure>[![](../Images/b99b1ca630867f722d6a8c13c49523ee.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--eQiQzp_X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/www.slightedgecoder.com/wp-content/uploads/2018/10/2.1-create-a-new-item.jpg%3Fw%3D1170%26ssl%3D1) 
+<figure>[![](img/b99b1ca630867f722d6a8c13c49523ee.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--eQiQzp_X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/www.slightedgecoder.com/wp-content/uploads/2018/10/2.1-create-a-new-item.jpg%3Fw%3D1170%26ssl%3D1) 
 
 <figcaption>添加新物品…</figcaption>
 
@@ -55,7 +55,7 @@
 
 创建 NPM 配置文件，`package.json`。
 
-<figure>[![](../Images/cb44117d96e499c1273c0e829feaa1ca.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tgwbyHyo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/www.slightedgecoder.com/wp-content/uploads/2018/10/2.2-add-package.json_.jpg%3Fw%3D1170%26ssl%3D1) 
+<figure>[![](img/cb44117d96e499c1273c0e829feaa1ca.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tgwbyHyo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/www.slightedgecoder.com/wp-content/uploads/2018/10/2.2-add-package.json_.jpg%3Fw%3D1170%26ssl%3D1) 
 
 <figcaption>npm 配置文件</figcaption>
 

@@ -6,7 +6,7 @@
 
 **2018 年 2 月 17 日更新:**虽然不是本文的一部分，但值得注意的是，脸书昨天改变了麻省理工学院对 React Native 的许可。这对许多人来说应该是一种解脱，并且肯定会进一步增加图书馆的商业应用:
 
-> ![React profile image](../Images/ca875e811a6b5016b2686ab0e3da57e4.png)React@ React js![twitter logo](../Images/ad0c7b03deabfe1a161345efb2d537eb.png)我们在 MIT 许可下重新许可 React Native(包括 Fresco、Metro、Yoga)来匹配 React。[github.com/facebook/react…](https://t.co/Ypg7ozX958)2018 年 2 月 17 日上午 02:32![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=964689022747475968)1512[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=964689022747475968)3590
+> ![React profile image](img/ca875e811a6b5016b2686ab0e3da57e4.png)React@ React js![twitter logo](img/ad0c7b03deabfe1a161345efb2d537eb.png)我们在 MIT 许可下重新许可 React Native(包括 Fresco、Metro、Yoga)来匹配 React。[github.com/facebook/react…](https://t.co/Ypg7ozX958)2018 年 2 月 17 日上午 02:32![Twitter reply action](img/269095962147c28351274afdd5486a48.png)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=964689022747475968)1512[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=964689022747475968)3590
 
 * * *
 
@@ -46,4 +46,4 @@
 
 一如既往，读者的意见非常重要。不要犹豫给我发送反馈，并询问这些问题。我会在后续的文章中进一步阐明这一点。直到下一个帖子！
 
-> ![Spencer Carli profile image](../Images/349b0742711cc20fd0ac71a96a584aa2.png)斯潘塞卡利@ Spencer _ Carli![twitter logo](../Images/ad0c7b03deabfe1a161345efb2d537eb.png)好玩的事实:官方奥运手机 app 100%采用 React 原生打造！2018 年 2 月 10 日上午 02:12[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=962147322745491457)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=962147322745491457)285[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=962147322745491457)953
+> ![Spencer Carli profile image](img/349b0742711cc20fd0ac71a96a584aa2.png)斯潘塞卡利@ Spencer _ Carli![twitter logo](img/ad0c7b03deabfe1a161345efb2d537eb.png)好玩的事实:官方奥运手机 app 100%采用 React 原生打造！2018 年 2 月 10 日上午 02:12[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=962147322745491457)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=962147322745491457)285[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=962147322745491457)953

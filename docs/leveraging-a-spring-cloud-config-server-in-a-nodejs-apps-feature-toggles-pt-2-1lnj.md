@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/paigen11/leveraging-a-spring-cloud-config-server-in-a-nodejs-apps-feature-toggles-pt-2-1lnj>
 
-[![Laptop screen filled with minified source code](../Images/718db8c3e806f6b2c184596103c611d5.png "Laptop screen filled with minified source code")T2】](///static/1bc85da9de192091881a510c69f4a2e3/eea4a/more-code.jpg)
+[![Laptop screen filled with minified source code](img/718db8c3e806f6b2c184596103c611d5.png "Laptop screen filled with minified source code")T2】](///static/1bc85da9de192091881a510c69f4a2e3/eea4a/more-code.jpg)
 
 ## 简介
 
@@ -34,13 +34,13 @@
 
 对于我的具体情况，我们的功能切换需要隐藏一个按钮，因为支持它的后端服务还没有完成，还没有完整的功能，并对用户隐藏单选按钮。在按钮和服务完成之前，它们是不需要的。
 
-[![The UI a typical user sees (feature toggle hides buttons and checkboxes)](../Images/2b8b0c660683a2d10b96d7d77b063fa3.png "The UI a typical user sees (feature toggle hides buttons and checkboxes)")T2】](///static/097dd5b077051b3987a8884e99515af7/2cefc/feature-toggle-users.png)
+[![The UI a typical user sees (feature toggle hides buttons and checkboxes)](img/2b8b0c660683a2d10b96d7d77b063fa3.png "The UI a typical user sees (feature toggle hides buttons and checkboxes)")T2】](///static/097dd5b077051b3987a8884e99515af7/2cefc/feature-toggle-users.png)
 
 用户的功能切换视图:没有按钮和复选框。
 
 上面是用户在产品中看到的 UI 视图:没有按钮，没有复选框。下面是开发人员需要看到的 UI 视图:按钮和复选框。
 
-[![The UI a developer sees (feature toggle shows buttons and checkboxes)](../Images/1ed647385a0ae3b6361146b2e412ed04.png "The UI a developer sees (feature toggle shows buttons and checkboxes)")T2】](///static/cd8585f87c6ca9fa4882efabf18b3f41/2cefc/feature-toggle-devs.png)
+[![The UI a developer sees (feature toggle shows buttons and checkboxes)](img/1ed647385a0ae3b6361146b2e412ed04.png "The UI a developer sees (feature toggle shows buttons and checkboxes)")T2】](///static/cd8585f87c6ca9fa4882efabf18b3f41/2cefc/feature-toggle-devs.png)
 
 功能切换视图为开发者:按钮和复选框。
 
@@ -77,13 +77,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 因此，言归正传，在将 npm 包保存到我们的 UI 的`package.json`依赖项之后，将其添加到`server.js`文件中(或者您的节点服务器配置所在的任何位置)。
 
-[![Code set up in app.js file showing the cloud-config-client requirement](../Images/9c69fd421d6920af9fd0f1d55717e39a.png "Code set up in app.js file showing the cloud-config-client requirement")T2】](///static/3e4d6fedebe868cce1a95acbd2414d9e/1e043/node-cloud-config.png)
+[![Code set up in app.js file showing the cloud-config-client requirement](img/9c69fd421d6920af9fd0f1d55717e39a.png "Code set up in app.js file showing the cloud-config-client requirement")T2】](///static/3e4d6fedebe868cce1a95acbd2414d9e/1e043/node-cloud-config.png)
 
 *查看底部的`client`变量——这就是配置客户端发挥作用的地方。*
 
 如果你像我的团队一样在多种环境中开发(本地、QA、Q1、生产等)。)，添加一个变量来访问开发过程所有阶段的 Spring Cloud config server(这些[环境变量服务](https://docs.cloudfoundry.org/devguide/deploy-apps/environment-variable.html#VCAP-SERVICES)是我们在 Pivotal Cloud Foundry 中连接到它的方式)。如果你想了解更多信息，我在我的 **[前一篇](https://www.paigeniedringhaus.com/blog/why-a-spring-cloud-config-server-is-crucial-to-a-good-ci-cd-pipeline-pt-1)** 中提到了这些。
 
-[![Logic in Node server determining how to fetch feature toggles from the Spring Cloud Config server](../Images/b8643e29576d95428286dc1345e0db2f.png "Logic in Node server determining how to fetch feature toggles from the Spring Cloud Config server")T2】](///static/8b2f4460d32b995fd95fc968a5a96c72/610c0/config-logic.png)
+[![Logic in Node server determining how to fetch feature toggles from the Spring Cloud Config server](img/b8643e29576d95428286dc1345e0db2f.png "Logic in Node server determining how to fetch feature toggles from the Spring Cloud Config server")T2】](///static/8b2f4460d32b995fd95fc968a5a96c72/610c0/config-logic.png)
 
 *`configServerUrl`对环境变量进行一系列检查，如果没有发现任何环境变量(比如在本地开发期间)，它默认使用硬编码的 URL。我对`configServicesProfile`和`featureToggle`使用了相同的环境变量和逻辑。*
 
@@ -99,7 +99,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 然后，该对象被发送到 UI 的其余部分，端点`app.get`被简单地称为`"/featureToggles"`。
 
-[![Node code connecting to config server and checking for feature toggles](../Images/7eda21ee0b71227ce587d59349fe1811.png "Node code connecting to config server and checking for feature toggles")T2】](///static/ec2063dabcc7ff699489c64a0bf017ca/62a6a/node-feature-toggle.png)
+[![Node code connecting to config server and checking for feature toggles](img/7eda21ee0b71227ce587d59349fe1811.png "Node code connecting to config server and checking for feature toggles")T2】](///static/ec2063dabcc7ff699489c64a0bf017ca/62a6a/node-feature-toggle.png)
 
 *特性标志变量，调用客户端访问配置服务器的正确环境(在我的例子中是 QA)，检查`featureToggle`是否为`‘on’`，映射可用的属性。下面是调用特性的端点。*
 
@@ -109,17 +109,17 @@ Enter fullscreen mode Exit fullscreen mode
 
 您在前端需要做的第一件事是对节点服务器进行 AJAX 调用，以检查任何现有的特性切换。实现这一点的应用程序框架是 JavaScript MVC(一个多年前流行的旧框架，我在使用它之前也从未听说过它)，下面是一个调用的例子。
 
-[![JavaScript client-side code calling for any feature toggles from Node server](../Images/bf8b126ca0c7620f84a02fc6b972e946.png "JavaScript client-side code calling for any feature toggles from Node server")T2】](///static/08fa392466f831d1e687036a78b88e80/000c7/javascript-mvc.png)
+[![JavaScript client-side code calling for any feature toggles from Node server](img/bf8b126ca0c7620f84a02fc6b972e946.png "JavaScript client-side code calling for any feature toggles from Node server")T2】](///static/08fa392466f831d1e687036a78b88e80/000c7/javascript-mvc.png)
 
 在与特性标志相关的 JavaScript 文件中(对我来说，它是一个`dates.js`文件)，我导入了特性切换 AJAX 调用，并创建了一个函数来检查与该功能相关的特定特性标志:`modifyDatesToggle`。
 
-[![Feature toggle code for showing / hiding particular date / time feature](../Images/f544e20ebb9e103928d95aea9b8981c6.png "Feature toggle code for showing / hiding particular date / time feature")T2】](///static/c9c250b288bb39d8f8c12f1643ce353f/5f6dd/js-feature-toggle-code.png)
+[![Feature toggle code for showing / hiding particular date / time feature](img/f544e20ebb9e103928d95aea9b8981c6.png "Feature toggle code for showing / hiding particular date / time feature")T2】](///static/c9c250b288bb39d8f8c12f1643ce353f/5f6dd/js-feature-toggle-code.png)
 
 特性标志被导入到文件的顶部，然后我调用特性标志端点来查看文件是否需要注意什么。如果特性标志与我命名为“modifyDatesToggle”的变量相匹配，它将被提取并应用到文件中。
 
 最后，在使用特性切换的 JavaScript 文件中，根据特性切换是否启用，尽可能对代码进行分组，如下所示。
 
-[![Code modifications that happen when feature toggle is enabled](../Images/79b4f7a20de6580b2f8ee1275d4acfa2.png "Code modifications that happen when feature toggle is enabled")T2】](///static/f74ee8cfe78d761e09949ec07632fb67/3c492/feature-toggle-grouped-code.png)
+[![Code modifications that happen when feature toggle is enabled](img/79b4f7a20de6580b2f8ee1275d4acfa2.png "Code modifications that happen when feature toggle is enabled")T2】](///static/f74ee8cfe78d761e09949ec07632fb67/3c492/feature-toggle-grouped-code.png)
 
 *例 1:如果`modifyDatesToggle`为`“on.”`* ，此检查显示复选框
 
@@ -133,7 +133,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果你正在使用量角器的配置文件，我不知道为什么没有人会这样做，有一个很酷的功能，可以让你制作自己的[自定义参数](https://moduscreate.com/blog/protractor_parameters_adding_flexibility_automation_tests/)。我从自己的书中抽出一页，在`server.js`文件中设置了特性切换，并在量角器配置文件中做了类似的设置:如果为特性切换传入了环境变量，则与该特性相关的测试将会运行，如果没有传入，则它们将被忽略——我稍后将向您展示测试语法，因为这有点不合常规。
 
-[![Feature toggle setup in e2e testing configuration](../Images/b8a18c40dcf2d8d72d28c7c83c93e430.png "Feature toggle setup in e2e testing configuration")T2】](///static/16ebbe609d61f226bf2d751080c234ba/63ec5/feature-toggle-e2e-config.png)
+[![Feature toggle setup in e2e testing configuration](img/b8a18c40dcf2d8d72d28c7c83c93e430.png "Feature toggle setup in e2e testing configuration")T2】](///static/16ebbe609d61f226bf2d751080c234ba/63ec5/feature-toggle-e2e-config.png)
 
 这里是所有量角器测试使用的配置。Params 接受 modifyDatesToggle 对象，如果它存在，就设置 params，如果不存在，就设置为 null。
 
@@ -144,7 +144,7 @@ $ protractor e2e/conf.js browser.params.modifyDatesToggle=‘true’`
 
 为了在实际的端到端测试中实现特性切换，在每个需要特性切换检查的测试中，在`‘it’`声明之后添加一个 if 语句，检查特性切换是否为空。正如我所说的，这看起来有点奇怪，但它确实有效。
 
-[![Automated test utilizing feature toggled code](../Images/b2c3b23ca45af454fbe53f006925c3ca.png "Automated test utilizing feature toggled code")T2】](///static/5b10677f0d6acfc3724bddbf96a836d1/a3767/feature-toggle-test.png)
+[![Automated test utilizing feature toggled code](img/b2c3b23ca45af454fbe53f006925c3ca.png "Automated test utilizing feature toggled code")T2】](///static/5b10677f0d6acfc3724bddbf96a836d1/a3767/feature-toggle-test.png)
 
 *一个量角器端到端测试的例子，带有一个功能切换检查。并不是所有的测试都需要这种检查——只是那些需要将特性切换为开或关的测试。*
 
@@ -158,7 +158,7 @@ Segue:对我的团队个人来说，我们使用 [Jenkins](https://jenkins.io/) 
 
 回到这个问题:由于 Jenkins 是我们的作业运行者，我们可以通过一个`Jenkinsfile`将特性切换测试的环境变量传递给 Jenkins。
 
-[![Enabling feature toggle in Jenkinsfile](../Images/241ea130a56c496625dadb5395c7f1cc.png "Enabling feature toggle in Jenkinsfile")T2】](///static/2aa4b21d04f265f1c5152f0faf43d15f/8cdda/feature-toggles-jenkinsfile.png)
+[![Enabling feature toggle in Jenkinsfile](img/241ea130a56c496625dadb5395c7f1cc.png "Enabling feature toggle in Jenkinsfile")T2】](///static/2aa4b21d04f265f1c5152f0faf43d15f/8cdda/feature-toggles-jenkinsfile.png)
 
 *所需要的只是底部简单的一行:`env.MODIFY_DATES_TOGGLE=true`*
 
@@ -170,13 +170,13 @@ Segue:对我的团队个人来说，我们使用 [Jenkins](https://jenkins.io/) 
 
 对 feature toggle 环境变量的检查使得以自动化方式部署应用程序变得更加容易。通过在每个不同的开发阶段部署的清单中包含一个简单的环境变量(或者不包含),可以很容易地告诉应用程序是否检查配置服务器中的设置(如果需要的话使用它们)。
 
-[![QA manifest that includes feature toggles](../Images/52b5e58686b3796817c866e92a37b0b6.png "QA manifest that includes feature toggles")T2】](///static/1353543796a724400b25393482e96286/3ddad/qa-manifest.png)
+[![QA manifest that includes feature toggles](img/52b5e58686b3796817c866e92a37b0b6.png "QA manifest that includes feature toggles")T2】](///static/1353543796a724400b25393482e96286/3ddad/qa-manifest.png)
 
 *QA 清单截图。*
 
 QA 清单:注意`SPRING_PROFILES_ACTIVE`指向`QA`，`FEATURE_TOGGLE`带有`‘on’`的环境变量。
 
-[![Production manifest that does not include feature toggles](../Images/80162c3fa2c99637be80fe1272d0a951.png "Production manifest that does not include feature toggles")T2】](///static/e043e464058470192b22f20b6cbdea92/e9131/prod-manifest.png)
+[![Production manifest that does not include feature toggles](img/80162c3fa2c99637be80fe1272d0a951.png "Production manifest that does not include feature toggles")T2】](///static/e043e464058470192b22f20b6cbdea92/e9131/prod-manifest.png)
 
 *生产清单截图。*
 

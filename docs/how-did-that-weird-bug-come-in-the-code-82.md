@@ -30,7 +30,7 @@
 
 # 排除故障
 
-[![Debugging](../Images/3a22a9da5fbfb2f875f8537ba126d199.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FUO4hU1w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ao3bb4v6d5svcoc6zmw1.jpg)
+[![Debugging](img/3a22a9da5fbfb2f875f8537ba126d199.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FUO4hU1w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ao3bb4v6d5svcoc6zmw1.jpg)
 
 <figcaption>“selective focus photography of woman holding clear glass ball” by [Anika Huizinga](https://unsplash.com/@iam_anih) on [Unsplash](https://unsplash.com/)</figcaption>
 
@@ -70,7 +70,7 @@
 
 # 使代码模块化
 
-[![Modular](../Images/58bed8e0e9dcc2454a453815735a6650.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HuvACRbL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/djksjl8o37tm278a2omu.jpg)
+[![Modular](img/58bed8e0e9dcc2454a453815735a6650.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HuvACRbL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/djksjl8o37tm278a2omu.jpg)
 
 <figcaption>“four person holding assorted-color jigsaw puzzles inside room” by [rawpixel](https://unsplash.com/@rawpixel) on [Unsplash](https://unsplash.com/)</figcaption>
 
@@ -103,7 +103,7 @@
 
 # 正确的命名约定
 
-[![Naming Conventions](../Images/fa565bb4128cdfb4de30ed269b35a37f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZXoAFd_I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tgu8l6ugvad818jpsfik.jpg)
+[![Naming Conventions](img/fa565bb4128cdfb4de30ed269b35a37f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZXoAFd_I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tgu8l6ugvad818jpsfik.jpg)
 
 <figcaption>“signage on post during daytime” by [Adi Goldstein](https://unsplash.com/@adigold1) on [Unsplash](https://unsplash.com/)</figcaption>
 
@@ -132,7 +132,7 @@ function validateUsername(username){
 
 # 证明文件
 
-[![Documentation](../Images/0b6699b3edacf55e4ea5435a7308e436.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fEebVsHN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1ikxfng6icjj2e88m2j8.jpg)
+[![Documentation](img/0b6699b3edacf55e4ea5435a7308e436.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fEebVsHN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1ikxfng6icjj2e88m2j8.jpg)
 
 <figcaption>“person typing on brown typewriter” by [rawpixel](https://unsplash.com/@rawpixel) on [Unsplash](https://unsplash.com/)</figcaption>
 
@@ -186,7 +186,7 @@ function cleanData(data){
 
 # 单元测试
 
-[![Unit Tests](../Images/e17e73a18d653e4ad55d44808e02f9d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lBayxc5z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c749gveawe9gi2qji2yb.jpg)
+[![Unit Tests](img/e17e73a18d653e4ad55d44808e02f9d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lBayxc5z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c749gveawe9gi2qji2yb.jpg)
 
 <figcaption>“electronic circuit boards near tester” by [Nicolas Thomas](https://unsplash.com/@nicolasthomas) on [Unsplash](https://unsplash.com/)</figcaption>
 

@@ -34,7 +34,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我决定开始使用美人鱼的[介绍学习页面。按照说明，我更新了我的`src/App.js`文件，如下所示:](https://mermaidjs.github.io/usage.html)
 
-<figure>[![Updated CRA App.js file](../Images/d067880b86d03da23325829f2c309a32.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SMsi_OdB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AEm4VE_j26ZA-ibM2HCNU6g.png) 
+<figure>[![Updated CRA App.js file](img/d067880b86d03da23325829f2c309a32.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SMsi_OdB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AEm4VE_j26ZA-ibM2HCNU6g.png) 
 
 <figcaption>更新 CRA App.js 文件</figcaption>
 
@@ -42,7 +42,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是怎么回事？首先，我正在导入所需的包。
 
-<figure>[![1\. Import downloaded packages](../Images/4bf74dc08754acfba625d0a4098d4b34.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--v7yLd2br--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AKjxm4QymKl9H_iYEFkBsBg.png) 
+<figure>[![1\. Import downloaded packages](img/4bf74dc08754acfba625d0a4098d4b34.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--v7yLd2br--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AKjxm4QymKl9H_iYEFkBsBg.png) 
 
 <figcaption>1。导入下载的包</figcaption>
 
@@ -50,7 +50,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 其次，我已经更新了渲染代码，给了我一个`div`来定位输出的图形和一个我可以添加 markdown 的文本区域:
 
-<figure>[![2\. Updated render() method](../Images/a07a287f210cca30fea8a824f1423675.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--c5P2CACJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AeTBQKE05wFfpypfCl1hbtA.png) 
+<figure>[![2\. Updated render() method](img/a07a287f210cca30fea8a824f1423675.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--c5P2CACJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AeTBQKE05wFfpypfCl1hbtA.png) 
 
 <figcaption>2。更新了 render()方法</figcaption>
 
@@ -58,7 +58,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 第三，我想在 mount 上用一个基本图表初始化图形:
 
-<figure>[![3\. Add in the componentDidMount lifecycle method](../Images/d1fe3ec2f20ffcba0c4c7a26bafff9b7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EmgXgZO8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AXvRvdLdVsngEO_y8Yhap1g.png) 
+<figure>[![3\. Add in the componentDidMount lifecycle method](img/d1fe3ec2f20ffcba0c4c7a26bafff9b7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EmgXgZO8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AXvRvdLdVsngEO_y8Yhap1g.png) 
 
 <figcaption>3。添加 componentDidMount 生命周期方法</figcaption>
 
@@ -66,7 +66,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 最后，我添加了`handleChange`函数来尝试更新图表。
 
-<figure>[![4\. Handle any changes to the text box](../Images/b76c5b32cd1b97d473fa5c44b57ef555.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qC0yvNzr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ak_FpEER8kB7aWIZPOf3L7Q.png) 
+<figure>[![4\. Handle any changes to the text box](img/b76c5b32cd1b97d473fa5c44b57ef555.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qC0yvNzr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ak_FpEER8kB7aWIZPOf3L7Q.png) 
 
 <figcaption>4。处理对文本框</figcaption>
 
@@ -76,7 +76,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，当我们在终端上运行`yarn start`并且网页打开时，我们得到以下站点:
 
-<figure>[![Aftermath of our updated App.js file](../Images/4374849997823a3961f5de34c0945d0f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ISftXO46--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1018/1%2Aay1WRUuOalNzLIfZpjSQsQ.png) 
+<figure>[![Aftermath of our updated App.js file](img/4374849997823a3961f5de34c0945d0f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ISftXO46--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1018/1%2Aay1WRUuOalNzLIfZpjSQsQ.png) 
 
 <figcaption>余波我们更新 App.js 文件</figcaption>
 
@@ -92,7 +92,7 @@ graph  LR  A[Hard  edge]  -->|Link  text|  B(Round  edge)  B  -->  C{Decision}  
 
 Enter fullscreen mode Exit fullscreen mode
 
-<figure>[![Graph LR after updating the textarea](../Images/6eca45122b5cad6b34507ba92edabf41.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fFHfKY5v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AihAdCedCAPFhvq43vUUMmA.png) 
+<figure>[![Graph LR after updating the textarea](img/6eca45122b5cad6b34507ba92edabf41.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fFHfKY5v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AihAdCedCAPFhvq43vUUMmA.png) 
 
 <figcaption>图 LR 后更新 textarea</figcaption>
 
@@ -104,7 +104,7 @@ sequenceDiagram  Alice->>+John:  Hello  John,  how  are  you?  Alice->>+John:  J
 
 Enter fullscreen mode Exit fullscreen mode
 
-<figure>[![Sequence diagram](../Images/50f60ae666a2b4a23dbf103465dc7494.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--b5jVodOJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A0tXKjrWvtv2utVc0wKwWDQ.png) 
+<figure>[![Sequence diagram](img/50f60ae666a2b4a23dbf103465dc7494.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--b5jVodOJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A0tXKjrWvtv2utVc0wKwWDQ.png) 
 
 <figcaption>序列图</figcaption>
 
@@ -118,7 +118,7 @@ gantt  dateFormat  :YYYY-MM-DD  title  :Adding  GANTT  diagram  functionality  t
 
 Enter fullscreen mode Exit fullscreen mode
 
-<figure>[![Gantt chart example](../Images/308db8c895d464be317d35ad810a5e66.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZZUUvSMU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AQxOJoPnZewbNyKsniVAI_w.png) 
+<figure>[![Gantt chart example](img/308db8c895d464be317d35ad810a5e66.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZZUUvSMU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AQxOJoPnZewbNyKsniVAI_w.png) 
 
 <figcaption>甘特图示例</figcaption>
 

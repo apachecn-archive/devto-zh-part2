@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/willamesoares/how-to-integrate-spotify-and-genius-api-to-easily-crawl-song-lyrics-with-python-4o62>
 
-[![](../Images/ddd3e3038c3b7bebc338b2cf41b3dd7b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5s4b_9VI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pej1ds486gbxsvesspdt.png)
+[![](img/ddd3e3038c3b7bebc338b2cf41b3dd7b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5s4b_9VI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pej1ds486gbxsvesspdt.png)
 
 ###### 本帖最初发表于我的个人[博客](http://willamesoares.com)。
 
@@ -16,7 +16,7 @@
 
 对于 Spotify 的长期用户来说，你可能还记得 Spotify 在桌面应用程序中显示歌词的功能，对吗？美好的旧时光。我仍然不明白为什么它被移除了，但我们现在得到的只是`Behind the Lyrics`功能，它显示了一些~~无用的~~信息和我们正在听的歌曲的歌词片段(似乎它只在移动设备上可用)。
 
-[![](../Images/c3e0fd3b4c0a6903e37905ace78d04b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xYILuFo---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/diel5yqu5d7ywmh3lw7l.png)
+[![](img/c3e0fd3b4c0a6903e37905ace78d04b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xYILuFo---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/diel5yqu5d7ywmh3lw7l.png)
 
 从这里开始，我将按照脚本实现的顺序开始分解它。如果你想在继续之前检查完整的脚本，你可以去 Github 上的 [this repository](https://github.com/willamesoares/lyrics-crawler) 。在那里，你也会得到如何运行它的指导，但是请记住，我也会在这篇文章中指导你:)
 
@@ -133,7 +133,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们终于可以将歌词打印到控制台上了。酷的是，在爬行过程中，歌词中的每一行都自动接收一个新的行转义序列(`\n`)。这样，我们就可以在终端中获得一个好看的结构。
 
-[![](../Images/c62145f2800c8a5716304635a314a4bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cLWUG_xo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s5r54yyk1ccl5g0uxz86.png)
+[![](img/c62145f2800c8a5716304635a314a4bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cLWUG_xo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s5r54yyk1ccl5g0uxz86.png)
 
 ### 如何使用 Github 资源库
 

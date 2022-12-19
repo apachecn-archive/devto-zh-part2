@@ -14,7 +14,7 @@
 
 这不是生活的方式！事实上，现代 web 开发中的 MVC 模式可以通过向酒保点一杯酒来解释。是的，这意味着如果你去过酒吧，你就能理解所有网络应用共有的主要结构模式。
 
-[![](../Images/e7e2984e8fadba43396069b5fade02b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_bU2Njso--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Af0mX-pFfwmoQKGdIUQoXEQ.jpeg)
+[![](img/e7e2984e8fadba43396069b5fade02b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_bU2Njso--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Af0mX-pFfwmoQKGdIUQoXEQ.jpeg)
 
 *勇敢地冲破障碍，直到现实来临*
 
@@ -26,7 +26,7 @@
 
 或者，以图表形式:
 
-[![](../Images/cb8efeb26d5d1fe93be3fd2e556ca801.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TkDCx_CU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A4SxbmCrI5YVp1Uyj1Jstsg.png) 
+[![](img/cb8efeb26d5d1fe93be3fd2e556ca801.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TkDCx_CU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A4SxbmCrI5YVp1Uyj1Jstsg.png) 
 *图像 Cred:真实 Python*
 
 太无聊了。到吧台上。
@@ -47,7 +47,7 @@
 6.  加入樱桃
 7.  索要信用卡并收费。
 
-[![](../Images/0294873820e952ba0164dfa5c3e0be58.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IYKfDQ9b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AAMWKKh4SxqNrcM5dNnSsfQ.jpeg) 
+[![](img/0294873820e952ba0164dfa5c3e0be58.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IYKfDQ9b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AAMWKKh4SxqNrcM5dNnSsfQ.jpeg) 
 *图片来源:维基百科*
 
 调酒师的大脑就是**控制器**。只要你用他们能理解的语言说出“曼哈顿”这个词，工作就开始了。这项工作在本质上类似于制作玛格丽塔酒或草莓代基里酒，但使用不同的成分，永远不会混淆。酒保只能使用吧台后面的工具和资源。这套有限的工具是**型号****，包括以下内容:**
@@ -69,7 +69,7 @@
 *   从调酒师听到要求到开始制作饮料之间的时间应该是绝对最短的。这有时被称为“瘦控制器”——换句话说，控制器应该包含最少量的逻辑，并尽可能多地委托给模型。一个优秀的调酒师不仅会记住菜谱，还会每晚以可靠的方式准备食材和工具，这样一旦顾客开始点餐，只需要最少的搜索和安排。
 *   调酒师能把所有的配料直接倒在顾客的嘴里，然后期望顾客嗖嗖地转动并混合饮料吗？是的，我想有可能。您希望将尽可能多的逻辑保留在模型中，而不是视图中。换句话说，在吧台后面制作饮料比在顾客口中混合要好。
 
-[![](../Images/62e7dfc99674c6b13d9fa7abbf829130.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EldvCSUQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AfpP-3F2rQUApiAx5Hm3H7w.png) 
+[![](img/62e7dfc99674c6b13d9fa7abbf829130.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EldvCSUQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AfpP-3F2rQUApiAx5Hm3H7w.png) 
 *图片来源:Xperience*
 
 *   如果你点一杯啤酒，酒保几乎不需要做任何事情。也许他们会简单地拿掉瓶盖，把饮料递给你。话虽如此，你仍然必须要求酒保。啤酒不会神奇地出现在你面前。

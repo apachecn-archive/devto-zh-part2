@@ -8,7 +8,7 @@
 
 软件公司 ARIS 产品营销经理 josèphe blond aut&软件公司 ARIS 产品经理 Tom Thaler
 
-| 2018 年第四期 | [![](../Images/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue4/SAG_BPMN_2.0_TECHniques_Oct18_WEB.pdf) |
+| 2018 年第四期 | [![](img/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue4/SAG_BPMN_2.0_TECHniques_Oct18_WEB.pdf) |
 | --- | --- |
 
 ## BPMN 概述
@@ -64,10 +64,10 @@ ARIS 没有止步于 BPMN 2.0，而是执行其他标准。ARIS 将是 DMN 1.2 �
 
 # trust the leader # trust aris # aris 10
 
-[![](../Images/e41a4ed77dc99aba942f9ce7e38d61b6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zxu9xfDU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/BPMN_1.jpg/8ff742b8-7954-4c50-864d-44e0ed52f9dd%3Ft%3D1539683416672) 
+[![](img/e41a4ed77dc99aba942f9ce7e38d61b6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zxu9xfDU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/BPMN_1.jpg/8ff742b8-7954-4c50-864d-44e0ed52f9dd%3Ft%3D1539683416672) 
 
 **图 1:** 一个包括 ARIS BPMN 和 DMN 在内的 5 级流程景观样本
 
-[![](../Images/bb063cfa40dfa76a50af1e009f07b042.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KQOInPRE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/Cheat-sheet-BPMN_2.png/877081b5-dc4e-47bd-8004-662f85fcb96b%3Ft%3D1540543925700) 
+[![](img/bb063cfa40dfa76a50af1e009f07b042.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KQOInPRE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/Cheat-sheet-BPMN_2.png/877081b5-dc4e-47bd-8004-662f85fcb96b%3Ft%3D1540543925700) 
 
 **图 2:**BPMN 2.0 ARIS

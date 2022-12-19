@@ -65,7 +65,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 下面是该工具运行时的屏幕截图:
 
-[![Searching for Haskell repositories I starred when I still believed in a better world for software developers](../Images/85eaf075abac7875535012d801b9b8e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zhQENxTS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rlrnswyfp6yt4mn0hzid.png)
+[![Searching for Haskell repositories I starred when I still believed in a better world for software developers](img/85eaf075abac7875535012d801b9b8e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zhQENxTS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rlrnswyfp6yt4mn0hzid.png)
 
 ### 那都是乡亲们！
 

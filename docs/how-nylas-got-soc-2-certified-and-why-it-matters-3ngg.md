@@ -2,13 +2,13 @@
 
 > 原文：<https://dev.to/nylas/how-nylas-got-soc-2-certified-and-why-it-matters-3ngg>
 
-[![21972-312_SOC_NonCPA](../Images/31be17c6f980d3b708c69af6bffea846.png)T2】](https://www.nylas.com/blog/how-nylas-built-a-bridge-to-soc-2-compliance)
+[![21972-312_SOC_NonCPA](img/31be17c6f980d3b708c69af6bffea846.png)T2】](https://www.nylas.com/blog/how-nylas-built-a-bridge-to-soc-2-compliance)
 
 早在 2013 年，Nylas 还是一个在其他基于 API 的公司海洋中的小型创业公司。现在，开发者、初创公司、企业家和企业都相信 Nylas 能够每天为他们的[关键任务应用](https://www.nylas.com/case-studies)提供动力。
 
 信任是赢得的，而不是设计的。但是，精心的工程设计实际上在增加和保持客户信任方面起着至关重要的作用。这就是为什么我们非常高兴地宣布我们的 SOC 2 安全性和保密性认证。
 
-[![21972-312_SOC_NonCPA](../Images/06f4a90c8eba24926fb77b19bf829de4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hkCAhL80--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/21972-312_SOC_NonCPA.jpg)
+[![21972-312_SOC_NonCPA](img/06f4a90c8eba24926fb77b19bf829de4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hkCAhL80--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/21972-312_SOC_NonCPA.jpg)
 
 SOC 2 到底是什么？
 
@@ -52,4 +52,4 @@ A-LIGN 向我们展示了众所周知的现状，并为我们指明了 SOC 2 合
 
 我们的客户和他们的用户向 Nylas 发送数据，并从 Nylas 接收[数据。从这个意义上说，Nylas 的功能就像一座 API 驱动的桥梁，将应用程序连接到企业，企业连接到客户，客户连接到他们喜欢的公司。我们要确保这座桥一天比一天好。我们正在努力获得其他信任原则的认证，审查 ISO27001 认证，同时在未来的审计中保持当前的 SOC 2 认证。SOC 2 在安全性和保密性方面的合规性只是这一过程中的一个关键步骤。](https://www.nylas.com/calendar-sync)
 
-[![](../Images/5921a668eda682b8edcdfd07ad760ab8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xFHoi13d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://track.hubspot.com/__ptq.gif%3Fa%3D3314308%26k%3D14%26r%3Dhttps%253A%252F%252Fwww.nylas.com%252Fblog%252Fhow-nylas-built-a-bridge-to-soc-2-compliance%26bu%3Dhttps%25253A%25252F%25252Fwww.nylas.com%25252Fblog%26bvt%3Drss)
+[![](img/5921a668eda682b8edcdfd07ad760ab8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xFHoi13d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://track.hubspot.com/__ptq.gif%3Fa%3D3314308%26k%3D14%26r%3Dhttps%253A%252F%252Fwww.nylas.com%252Fblog%252Fhow-nylas-built-a-bridge-to-soc-2-compliance%26bu%3Dhttps%25253A%25252F%25252Fwww.nylas.com%25252Fblog%26bvt%3Drss)

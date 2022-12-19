@@ -30,7 +30,7 @@ render json: {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![seated dog on blue background](../Images/62b069a530a66eed4ef9af368a99c815.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NkRG69g2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h61mba0idrsuqrbcd95k.png)
+[![seated dog on blue background](img/62b069a530a66eed4ef9af368a99c815.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NkRG69g2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h61mba0idrsuqrbcd95k.png)
 
 上面的代码非常简单:它加载一个用户，加载他们的宠物，并以前端期望的格式序列化数据。我们正在进行两个查询，但是它们很简单并且(希望)很快——这是一个合理的期望。
 
@@ -247,7 +247,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## SQL 视图的陷阱
 
-[![cat peeking up out of a hole](../Images/6d5663dd99d7c8f952fbaee2676870c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UtaUk66j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2xnojoit50o3hbssbxh4.png)
+[![cat peeking up out of a hole](img/6d5663dd99d7c8f952fbaee2676870c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UtaUk66j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2xnojoit50o3hbssbxh4.png)
 
 虽然我显然是一个粉丝，但是当您开始考虑应用程序中的视图时，有一些事情您应该注意:
 

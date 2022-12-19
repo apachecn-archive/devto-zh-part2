@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/brettclawson75/how-to-build-your-own-smart-home-3d2g>
 
-[![Smart homes are easy to have!](../Images/406c3dde58dc5db83213562f6430135b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xEz6_dXN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/225232/pexels-photo-225232.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D350)
+[![Smart homes are easy to have!](img/406c3dde58dc5db83213562f6430135b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xEz6_dXN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/225232/pexels-photo-225232.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D350)
 
 市场上有如此多的智能产品，所有产品的营销目标都是改造你的家，使之完全自动化。数不胜数的产品可能会让人感到困惑，即使是对那些以对技术有足够了解而自豪的人来说。好消息是，只要你有正确的指导并且你选择了正确的 [自动化技术软件](https://www.toptenreviews.com/home/smart-home/best-home-automation-systems/)；这个过程并不像一开始看起来那么可怕。
 

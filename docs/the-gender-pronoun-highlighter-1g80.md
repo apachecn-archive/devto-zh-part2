@@ -12,7 +12,7 @@
 
 <figure>
 
-[![Screenshot of Gendered Pronoun Highlighter](../Images/36f27054b6d70c68f3a2d49a4e6b18a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3Zu5sSDj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2fuylhnnajofrh4ccggt.png)
+[![Screenshot of Gendered Pronoun Highlighter](img/36f27054b6d70c68f3a2d49a4e6b18a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3Zu5sSDj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2fuylhnnajofrh4ccggt.png)
 
 <figcaption>Screenshot of Gendered Pronoun Highlighter</figcaption>
 
@@ -24,7 +24,7 @@
 
 我已经把代码放在了一个公共的 Github 库中，希望大家能有所贡献。
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [本格林伯格](https://github.com/bencgreenberg) / [代词 _ 荧光笔](https://github.com/bencgreenberg/pronoun_highlighter)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [本格林伯格](https://github.com/bencgreenberg) / [代词 _ 荧光笔](https://github.com/bencgreenberg/pronoun_highlighter)
 
 ### 性别代词荧光笔。让你意识到你在文章中使用了哪些性别代词。
 

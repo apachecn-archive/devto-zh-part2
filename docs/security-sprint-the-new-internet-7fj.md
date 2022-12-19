@@ -11,7 +11,7 @@
 正如官方网站描述的那样，IPFS 是“*点对点超媒体协议
 使网络更快、更安全、更开放的*”。它想提供一个分布式的替代协议，使它更有弹性，这对于发展中国家来说很方便。这是来自官方网页的信息图:
 
-[![](../Images/710fa227e3ab395706ed3e14cc54a357.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---pG_EJOY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lqh1tsxch21kwlbjfz4r.png)
+[![](img/710fa227e3ab395706ed3e14cc54a357.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---pG_EJOY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lqh1tsxch21kwlbjfz4r.png)
 
 [安装可以在不同的操作系统中运行](https://docs.ipfs.io/introduction/install/)，但我将重点放在 Linux 上。文档很清楚，并且有安装它的脚本。安装完成后，我们应该创建一个存储库来存储数据/设置。为此，我们将使用:
 
@@ -44,11 +44,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 耶！我们在网络中...您可以使用`ipfs swarm peers`命令查看 ipfs 地址或您的对等项。还有一个 web 界面控制台，我们可以通过链接[http://localhost:5001/ipfs/your hash](http://localhost:5001/ipfs/yourhash)访问。
 
-[![](../Images/46da768145bd3ef86daa8c1a3e7e4298.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eeDFztMl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2wi2a4s14ak07lmqdzq4.png)
+[![](img/46da768145bd3ef86daa8c1a3e7e4298.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eeDFztMl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2wi2a4s14ak07lmqdzq4.png)
 
 我们可以在“文件”中添加内容。
 
-[![](../Images/6b033192234fad4ab41bdc3041c2cf17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W3SYFzFA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pfjnxe7pe0v8dn8c1djc.png)
+[![](img/6b033192234fad4ab41bdc3041c2cf17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W3SYFzFA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pfjnxe7pe0v8dn8c1djc.png)
 
 IPFS 的安全仍然很薄弱，因为他们还在声称要接受审计。这是一个调查分布式技术的好机会！
 

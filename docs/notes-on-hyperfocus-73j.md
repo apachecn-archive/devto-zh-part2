@@ -54,7 +54,7 @@ ISBN-13   : 978-1509866113
 
 这可以想象成一个相当小的椭圆，里面只能放这么多东西:
 
-[![Your Attention](../Images/5f51b99b455911b5f87d6f56b915dc7a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JuVuMf0S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z1vnowp1wfh52shhhbqd.jpg)
+[![Your Attention](img/5f51b99b455911b5f87d6f56b915dc7a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JuVuMf0S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z1vnowp1wfh52shhhbqd.jpg)
 
 *   习惯性任务不需要有意识的思考，或者只需要很少的时间(走路、开车、洗碗)
 *   有些任务需要我们的注意力，但不是我们所有的注意力

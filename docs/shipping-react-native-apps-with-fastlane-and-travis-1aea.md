@@ -141,7 +141,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 因此，这是我们的 git 日志在合并到`master`的分支并进行部署后的样子🙌：
 
-[![GitHub log](../Images/4e8d46fe2d7cd2111ebd2fd14070fd8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--psuC_TUk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/carloscuesta/image/upload/ghlog.png)
+[![GitHub log](img/4e8d46fe2d7cd2111ebd2fd14070fd8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--psuC_TUk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/carloscuesta/image/upload/ghlog.png)
 
 #### 特拉维斯词
 
@@ -149,7 +149,7 @@ Enter fullscreen mode Exit fullscreen mode
 
  **让我们来看看构建阶段👇
 
-[![travis-build-stages](../Images/7d1b0c0f8da87c0bacb75845ed9cfdd6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qY-g1Uzf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/carloscuesta/image/upload/travis-build-stages.png)
+[![travis-build-stages](img/7d1b0c0f8da87c0bacb75845ed9cfdd6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qY-g1Uzf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/carloscuesta/image/upload/travis-build-stages.png)
 
 每个**建造阶段**都有他**自己的** **预备**和**环境**。例如，`Deploy iOS`运行在装有 Xcode 和 Node.js 的 [macOS 机器](https://docs.travis-ci.com/user/reference/osx/)上，而`Deploy Android`使用装有 JDK、AndroidSDK 和 Node.js 的 [Ubuntu 机器](https://docs.travis-ci.com/user/languages/java/)
 

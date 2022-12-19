@@ -50,5 +50,5 @@
 
 我还可以分享更多的经验(语录),但这些是最突出的。我在书桌和显示器上的便利贴上写了很多，这样我就可以看着它们，并记住它们的功课。也许我会再发一个帖子或者回来补充一些。我真的想开始写更多的帖子，所以这是一种测试。我希望你喜欢这第一个。
 
-[![Bragg Heavy](../Images/bbc12ed8a31e42473cd1549a0c128766.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hHcSkR-9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ads5dvrfg752m8d52ped.jpg) 
+[![Bragg Heavy](img/bbc12ed8a31e42473cd1549a0c128766.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hHcSkR-9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ads5dvrfg752m8d52ped.jpg) 
 21 小时后，我们在布拉格堡被打得屁滚尿流，这些教训、名言以及教我这些的人帮我度过了难关。

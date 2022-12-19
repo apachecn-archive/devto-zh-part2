@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/steelwolf180/why-soft-skill-is-important-for-a-software-developer-reading-time-5-minutes-4f75>
 
-[![Photo by rawpixel on Unsplash](../Images/df85f38ee9cd8602394b6b4410887db7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mrHwWEhM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9tjq0c0ajfey0ex7ckz1.jpg)
+[![Photo by rawpixel on Unsplash](img/df85f38ee9cd8602394b6b4410887db7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mrHwWEhM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9tjq0c0ajfey0ex7ckz1.jpg)
 
 > 简单扼要永远是表达你观点的最佳方式。
 > 

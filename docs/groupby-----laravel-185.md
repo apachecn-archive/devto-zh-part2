@@ -4,7 +4,7 @@
 
 在 Laravel 中，从 5.5.29 开始，您可以根据多个条件对集合进行分组。让我们看看这意味着什么，以及它是如何工作的。
 
-[![](../Images/f3414dc816f511a3f89a684b5cc07988.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TgbbA5Zq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://phpprofi.ru/resources/img/blogs/bf9c09d1-c041-48b9-9414-73b4d0464031.jpeg)
+[![](img/f3414dc816f511a3f89a684b5cc07988.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TgbbA5Zq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://phpprofi.ru/resources/img/blogs/bf9c09d1-c041-48b9-9414-73b4d0464031.jpeg)
 
 ## t 0t 1 准备
 

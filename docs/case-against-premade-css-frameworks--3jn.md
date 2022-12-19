@@ -4,7 +4,7 @@
 
 如今，人们倾向于使用预制的 CSS 框架来处理任何事情。它们易于使用，文档也很丰富。CSS 框架已经变得如此普遍，以至于有些人可能认为这是每个人制作网站的方式。
 
-[![Material design](../Images/bcfe61d0a6a0e3c946cd360132e7071f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_vEMQiR2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0qugrqghdtqhigf2kaao.png)
+[![Material design](img/bcfe61d0a6a0e3c946cd360132e7071f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_vEMQiR2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0qugrqghdtqhigf2kaao.png)
 
 **错了！**
 

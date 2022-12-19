@@ -20,7 +20,7 @@
     Print:打印第二步得到的表达式求值结果，并回传给用户查看。
     所有软件开发人员日常使用的一个最常见的例子是 CLI，也称为 Windows 生态系统的命令行界面或 Powershell。许多支持 REPL 的语言有 Python、Node.js、JavaScript 等。仅举几个例子。
 
-[![](../Images/acedbb9140e0f6aaf1fc04f97d1494c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F0VIEHTd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/87your320gsavr7ov457.PNG)
+[![](img/acedbb9140e0f6aaf1fc04f97d1494c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F0VIEHTd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/87your320gsavr7ov457.PNG)
 
 1.  API —应用程序编程接口
     应用程序编程接口是一组定义明确的程序，有助于两个系统、组件等之间的通信。它指定了组件应该如何交互。API 就像一张餐馆菜单卡，上面有一道菜的清单和一道菜的描述。你点了一道菜，并不担心餐馆厨房如何制作这道菜，你只关心美味的食物。任何开发人员都在大多数现代 web 或移动应用程序中使用多个三方 API。一些常见的例子是用于用户登录的谷歌地图 API、Youtube API 或脸书 API。
@@ -28,7 +28,7 @@
 2.  ORM —对象关系映射
     它是一种使用面向对象编程语言在不兼容系统之间转换数据的技术。ORM 工具提供了将面向对象的领域模型映射到关系数据库的框架。它们提供了一种处理对象关系阻抗不匹配问题的方法。ORM 减少了代码行数，并提供了缓存的优势，从而减少了内存负载。常见的 ORM 工具和框架有 Hibernate、Entity Framework、SQLAlchemy 等。
 
-[![](../Images/8bd9783839b4c73d6a14d33057eef1e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XUX7B1fo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k6l6dd1on7uft2q1vfd7.png)
+[![](img/8bd9783839b4c73d6a14d33057eef1e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XUX7B1fo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k6l6dd1on7uft2q1vfd7.png)
 
 1.  LOB、CLOB 和 BLOB —大型对象、字符大型对象、二进制大型对象
     大型对象是一种用于存储大型对象的数据类型。字符大对象是数据库管理系统(DBMS)中字符数据的集合。CLOB 用于存储基于 Unicode 字符的数据，例如任何字符集的大型文档。二进制大对象是作为单个实体存储的二进制数据的集合。斑点通常是图像、音频或其他多媒体对象。
@@ -37,7 +37,7 @@
     在了解实体关系之前，先了解实体很重要。一个实体是一个可定义的东西，比如一个人、一个物体、一个概念或者一个事件——可以存储一些关于它的数据。它们是名词，例如，顾客、汽车、学生等。实体关系图说明了系统中实体之间的关系。ER 图通常用于数据库设计。
 
 3.  KISS——保持简单，愚蠢的
-    [![](../Images/50d2e63b62e6db3937d6ed37b25f9207.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--I5r53ITR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rwjixvz4wwuc8ookmaiv.png) 
+    [![](img/50d2e63b62e6db3937d6ed37b25f9207.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--I5r53ITR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rwjixvz4wwuc8ookmaiv.png) 
     KISS 原则是关于保持代码简单、清晰、可读。编写除你之外的其他人容易理解和破译的代码。一个基本的例子是编写不超过 40 到 50 行代码的小方法。每种方法都应该有单一的功能，不应该解决多个用例。在代码中遵循 KISS 原则的一个好处是可以帮助其他开发人员理解你的代码，并且可以节省几个小时来理解代码和实现修改。
 
 4.  SDK —软件开发工具包

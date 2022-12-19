@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/satansly/apps-apps-everywhere-3kp0>
 
-[![Apps Meme](../Images/cf0e9ff71743b123914df8ee140fd9f7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nm15necQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ao36ym8eeo3muxhila24.png) 当人们认为自己提出了一个将改变世界的想法时，他们应该问自己的问题是，我需要一个应用程序甚至一个网站来验证这个想法吗？
+[![Apps Meme](img/cf0e9ff71743b123914df8ee140fd9f7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nm15necQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ao36ym8eeo3muxhila24.png) 当人们认为自己提出了一个将改变世界的想法时，他们应该问自己的问题是，我需要一个应用程序甚至一个网站来验证这个想法吗？
 
 用技术和设计精美的 UX 来吸引用户是很常见的。但是这导致了几个小时的计划、设计、构建、测试，然后在一天结束时，可能会失败。基于自己的假设和直觉的创业想法有可能卖不出去，而且只局限于一个人或一群人。这个想法需要尽快得到验证。
 

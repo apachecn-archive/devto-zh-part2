@@ -157,7 +157,7 @@ node server.js
 
 在 postman 中选择 Get request 并键入 url 作为**[http://localhost:3000/sample？](http://localhost:3000/sample?name=aditya)name = aditya**并点击发送
 
-[![Postman GET name](../Images/0cc4b90d9c8ba5cd7658be2a64c0a01d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ud5WuKPb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bt3itvkuqu5tt85zlgdm.jpg)
+[![Postman GET name](img/0cc4b90d9c8ba5cd7658be2a64c0a01d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ud5WuKPb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bt3itvkuqu5tt85zlgdm.jpg)
 
 该请求的输出如下所示
 
@@ -293,7 +293,7 @@ exports.invalidRequest = function (req, res) {
 
 去找邮递员。选择请求类型为 **POST** 并键入以下 URL**T3】http://localhost:3000/testT5。**
 
-[![Postman POST](../Images/016a0ffb617a7eff805cd093f2c823b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ul9FQ868--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/42ddmr7pqn70e6eeav1n.jpg)
+[![Postman POST](img/016a0ffb617a7eff805cd093f2c823b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ul9FQ868--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/42ddmr7pqn70e6eeav1n.jpg)
 
 同时选择**体**、 **raw** 和**应用/json** ，如图所示
 

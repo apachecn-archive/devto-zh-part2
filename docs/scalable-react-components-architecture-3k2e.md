@@ -12,7 +12,7 @@
 
 我们将创建一个`EmojiList`组件，然后我们将重构它，应用**文件夹模式**将它分解成更小的独立部分。我们的组件看起来是这样的:
 
-[![emojilist](../Images/6be4e3ce7a4af579c72415b86ddaa3e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JRJC53zF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/carloscuesta/image/upload/emojilist-compressed.png)
+[![emojilist](img/6be4e3ce7a4af579c72415b86ddaa3e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JRJC53zF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/carloscuesta/image/upload/emojilist-compressed.png)
 
 ### 表情列表
 
@@ -86,7 +86,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们开始将单个组件重构为多个组件，方法是[将 UI 分解成一个组件层次结构](https://reactjs.org/docs/thinking-in-react.html#step-1-break-the-ui-into-a-component-hierarchy)。
 
-[![emojilist-breakdown](../Images/b64cc0c61847ab8cbe571d18cc151b71.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T2t_wBVk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/carloscuesta/image/upload/emojilist-breakdown.png)
+[![emojilist-breakdown](img/b64cc0c61847ab8cbe571d18cc151b71.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T2t_wBVk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/carloscuesta/image/upload/emojilist-breakdown.png)
 
 如果我们看一下图片，很容易识别出我们可以**将**分解成**三个**不同的**组件** : 🛠中的 **UI**
 

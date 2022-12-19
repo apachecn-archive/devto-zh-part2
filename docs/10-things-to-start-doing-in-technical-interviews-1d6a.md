@@ -26,4 +26,4 @@
 
 面试愉快！
 
-[![cat typing](../Images/4d74a70490023efceeff20da3e5086cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Er45k6YK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w0n5a3wxj786dkbnn73e.gif)
+[![cat typing](img/4d74a70490023efceeff20da3e5086cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Er45k6YK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w0n5a3wxj786dkbnn73e.gif)

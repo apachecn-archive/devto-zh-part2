@@ -8,7 +8,7 @@
 
 并发性和并行性听起来非常相似，但是在编程中有一个重要的区别。想象你在做饭的时候写一本书，即使看起来你在同时做这两项任务，你所做的是在这两项任务之间切换，当你等待水烧开的时候你在写你的书，但是当你切菜的时候你暂停了你的写作。这被称为**并发**。在**并行**中完成这两个任务的唯一方法是有两个人，一个写，一个做饭，这就是多核 CPU 做的事情。
 
-[![concurrency-parallelism](../Images/18b3a83fa3640aa219ef5ae9be97e348.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d28fU0gK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/eduzmp4zt3898xz5dfia.jpeg)
+[![concurrency-parallelism](img/18b3a83fa3640aa219ef5ae9be97e348.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d28fU0gK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/eduzmp4zt3898xz5dfia.jpeg)
 
 # 为什么是 asyncio
 

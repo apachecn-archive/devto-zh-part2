@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/himankbhalla/expressions-and-values-in-python-5d2b>
 
-[![](../Images/db4bf123596fb3a92b63118b89d7a652.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--V2YiOxpS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h2yx4pi7whbfk0o6qmvo.jpeg)T3】**表情**
+[![](img/db4bf123596fb3a92b63118b89d7a652.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--V2YiOxpS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h2yx4pi7whbfk0o6qmvo.jpeg)T3】**表情**
 
 Python 表达式描述了对数据执行的计算或操作。它是所有程序的基本构件。它计算出一个 python 值，并且可能使用几个操作数。
 

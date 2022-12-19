@@ -20,7 +20,7 @@
 
 如果我们考虑下面的数组`[21, 12, 47, 41, 33, 11, 13, 31, 43]`，我们可以看到这种不稳定性。在 Mac OS X 上通过第一个数字排序，无论是在 C 语言中(使用 qsort)还是在 Ruby 语言中(sort 或 sort_by ),我们都得到`[12, 13, 11, 21, 33, 31, 47, 43, 41]`,尽管这实际上是通过第一个数字排序的，我们看到在最终数组中`11`跟在`13`后面，即使在原始数组中它实际上出现在它之前。`41`和`43`在最后一个数组中也会被调换。这里有一个 [Mac OS X 快速排序实现](https://opensource.apple.com/source/xnu/xnu-1456.1.26/bsd/kern/qsort.c)的例子，它准确地展示了这种行为:
 
-[![Animation showing the Mac OS X implementation of qsort() sorting the [21, 12, 47, 41, 33, 11, 13, 31, 43] array by the first digit, obtaining [12, 13, 11, 21, 33, 31, 47, 43, 41]](../Images/f2b406851a7fa8646b0ea1bd2e2db771.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GLtc17ho--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/svm9eo2m0xuuyz68iyf3.gif)
+[![Animation showing the Mac OS X implementation of qsort() sorting the [21, 12, 47, 41, 33, 11, 13, 31, 43] array by the first digit, obtaining [12, 13, 11, 21, 33, 31, 47, 43, 41]](img/f2b406851a7fa8646b0ea1bd2e2db771.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GLtc17ho--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/svm9eo2m0xuuyz68iyf3.gif)
 
 我们可以看到，当`13`与`47`交换时，它们交换了`11`，后者在最终数组中的`13`之后结束。
 
@@ -36,7 +36,7 @@
 
 确实很有意思，因为归并排序其实是稳定的！如果我们在 Linux 机器上运行前面的示例数组中的`qsort()`(或 ruby 中的`sort_by`)，再次只按第一个数字而不是整个数字排序，我们会看到，对于我们的示例，该算法实际上是稳定的(它返回`[12, 11, 13, 21, 33, 31, 47, 41, 43]`)。我们的测试通过了，因为我们的数组按照预期进行了排序，对我们的文档进行了分组，但在相似的文档中保持了它们的原始顺序。合并排序将元素与其直接相邻的元素进行比较，因此不会发生可能改变原始排序的“跳转”。下面是一个图解示例:
 
-[![Animation showing a merge sort algorithm sorting the [21, 12, 47, 41, 33, 11, 13, 31, 43] array by the first digit, obtaining [12, 11, 13, 21, 33, 31, 47, 41, 43]](../Images/d81bd3707cc66bc09385017e1832caa6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M00WPCoQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4x92a89oamlqq8rqjggo.gif)
+[![Animation showing a merge sort algorithm sorting the [21, 12, 47, 41, 33, 11, 13, 31, 43] array by the first digit, obtaining [12, 11, 13, 21, 33, 31, 47, 41, 43]](img/d81bd3707cc66bc09385017e1832caa6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M00WPCoQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4x92a89oamlqq8rqjggo.gif)
 
 ### 我们改变了什么
 

@@ -20,11 +20,11 @@
 *   它使您能够在公司防火墙后测试本地应用程序。
 *   它与构建管道集成得很好。
 
-[![](../Images/2de01830ee3c0a64dcbe07aebac4916f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yK_9u6F_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/ankitvijay.net/wp-content/uploads/2018/06/BrowesstackBrowserOptions.png%3Fresize%3D810%252C391%26ssl%3D1)
+[![](img/2de01830ee3c0a64dcbe07aebac4916f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yK_9u6F_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/ankitvijay.net/wp-content/uploads/2018/06/BrowesstackBrowserOptions.png%3Fresize%3D810%252C391%26ssl%3D1)
 
 **Browser stack 中的浏览器选择(图片来源:BrowserStack)**
 
-[![](../Images/f0934cffb0c29d8c32d04a976c069021.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iHsg7m4d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/ankitvijay.net/wp-content/uploads/2018/06/Android-Browserstack-Local.png%3Fresize%3D810%252C779%26ssl%3D1)
+[![](img/f0934cffb0c29d8c32d04a976c069021.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iHsg7m4d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/ankitvijay.net/wp-content/uploads/2018/06/Android-Browserstack-Local.png%3Fresize%3D810%252C779%26ssl%3D1)
 
 **在 BrowserStack 上的真实设备上进行本地测试**
 
@@ -62,6 +62,6 @@ _**System.InvalidOperationException : Element is obscured (WARNING: The server d
 *   理解特定于 BrowserStack 的[功能](https://www.browserstack.com/automate/capabilities#)有助于正确配置 Selenium 测试。例如，您的测试用例分组、测试运行/构建的名称都是通过功能设置的。因此。正确设置它们以获得期望的结果是很重要的。
 *   由于额外的设置和拆卸过程，在 BrowserStack 上运行本地测试会增加每个测试用例的执行时间。因此，与本地相比，测试用例执行缓慢是可以理解的。我建议设计您的测试用例，使它们既可以在本地运行也可以在 BrowserStack 上运行。
 
-如果您的组织和我的组织有类似的问题，我建议将 BrowserStack 作为 try。请在评论区分享你的经历。[![🙂](../Images/1bb31e891282bfa40812655c9c9ace9e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DvXCaIjD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.org/images/core/emoji/11/72x72/1f642.png)
+如果您的组织和我的组织有类似的问题，我建议将 BrowserStack 作为 try。请在评论区分享你的经历。[![🙂](img/1bb31e891282bfa40812655c9c9ace9e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DvXCaIjD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.oimg/core/emoji/11/72x72/1f642.png)
 
 帖子[通过浏览器堆栈](https://ankitvijay.net/2018/06/15/cross-browser-testing-through-browserstack/)跨浏览器测试你的应用最早出现在[嗨，我是 Ankit](https://ankitvijay.net) 。

@@ -173,7 +173,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 继续阅读:
 
-[![graphicbeacon image](../Images/ebd69e31cdafde0c3cc551828feae27a.png)](/graphicbeacon) [## 你应该知道的十大贴图/对象工具方法(Dart)🎯
+[![graphicbeacon image](img/ebd69e31cdafde0c3cc551828feae27a.png)](/graphicbeacon) [## 你应该知道的十大贴图/对象工具方法(Dart)🎯
 
 ### 杰梅因 Oppong 7 月 23 日 182 分钟阅读
 

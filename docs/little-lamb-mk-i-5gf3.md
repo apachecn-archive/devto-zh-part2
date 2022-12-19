@@ -4,7 +4,7 @@
 
 这个小小的 CDN 边缘服务器是开放硬件，运行完全的 FOSS 栈，价格非常实惠。这些特性使其成为许多部署 CDN 接入点(pop)的关键推动者。尤其是在没有传统数据中心的地区。目标是在延迟方面比任何其他 CDN 更接近全球人口。
 
-[![Little Lamb Mk I](../Images/0d878a487185d2b28c3fd2b5a77715f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8vs7tU5s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bpeqgctpec1ply0arsc9.jpg)
+[![Little Lamb Mk I](img/0d878a487185d2b28c3fd2b5a77715f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8vs7tU5s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bpeqgctpec1ply0arsc9.jpg)
 
 Mk I 硬件由一个带有 250 GB 三星 850 EVO SSD 的 [HardKernel Odroid HC1](http://www.hardkernel.com/main/products/prdt_info.php?g_code=G150229074080) 组成。其高能效的 8 核 ARM CPU 在基准测试中为[提供超过 800 Mbps 的服务](https://twitter.com/sebdeckers/status/987151171251945473)。由于 6 Gbps SATA 驱动器受到 1 Gbps 网络接口的瓶颈限制，我正在考虑通过使用更便宜的 SSD 来保持类似的 IOPS，从而优化成本。
 

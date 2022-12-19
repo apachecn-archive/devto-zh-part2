@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/anuragrana/python-script-to-validate-format-and-beautify-json-string-1a4l>
 
-[![](../Images/a4feb1eba74013e3e64c84cc0ec8d32b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JsBfuppf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/960/1%2AGbIQPCAmgZabjDkMhH58Gg.jpeg)
+[![](img/a4feb1eba74013e3e64c84cc0ec8d32b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JsBfuppf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/960/1%2AGbIQPCAmgZabjDkMhH58Gg.jpeg)
 
 根据 JSON 官方网站，JSON 是一种轻量级数据交换格式。对人类来说，读和写很容易。机器很容易解析生成。它基于 JavaScript 编程语言的子集，标准 ECMA-262 第三版—1999 年 12 月。
 

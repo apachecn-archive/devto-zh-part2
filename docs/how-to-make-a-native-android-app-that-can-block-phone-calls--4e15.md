@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nikola/how-to-make-a-native-android-app-that-can-block-phone-calls--4e15>
 
-[![](../Images/60fdcb47698f79fefd2e31173af8e5c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kY_h_RIl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4o0fiv2smerze5jsbpj2.jpg)
+[![](img/60fdcb47698f79fefd2e31173af8e5c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kY_h_RIl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4o0fiv2smerze5jsbpj2.jpg)
 
 *最初发表于[我的博客](http://www.nikola-breznjak.com/blog/android/make-native-android-app-can-block-phone-calls/)。*
 
@@ -36,19 +36,19 @@
 
 在 Android Studio 中，转到`File->New->New Project`，给它一个名称和位置，然后点击`Next`:
 
-[![](../Images/70944063a1942bef9f6963d56a64c1f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tvJ7XHm9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/4iyIDSJ.png)
+[![](img/70944063a1942bef9f6963d56a64c1f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tvJ7XHm9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/4iyIDSJ.png)
 
 保留最低 API 级别的默认选项:
 
-[![](../Images/ee0ab53e6dbe29353262cea5c890a741.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6C65eBYe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/wBim1w2.png)
+[![](img/ee0ab53e6dbe29353262cea5c890a741.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6C65eBYe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/wBim1w2.png)
 
 选择一个`Empty Activity`模板:
 
-[![](../Images/dfaa41a52bb0e2916c075d4f0cc0143b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VDUvXVVV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/eLo7Sia.png)
+[![](img/dfaa41a52bb0e2916c075d4f0cc0143b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VDUvXVVV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/eLo7Sia.png)
 
 保持活动名称不变:
 
-[![](../Images/054d61d0bd88a4086aacc1500ec9f1c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nF2ma3MD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/8M3pwcQ.png)
+[![](img/054d61d0bd88a4086aacc1500ec9f1c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nF2ma3MD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/8M3pwcQ.png)
 
 ### AndroidManifest.xml
 
@@ -252,7 +252,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是这款应用在运行中的样子，在模拟器上进行测试，并在 Android Studio 中使用 [Android 设备监视器](http://www.nikola-breznjak.com/blog/android/simulate-incoming-call-sms-emulator-android-studio/)触发调用:
 
-[![](../Images/b539d6fb4543abbe905131c75926fefe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tPPYROcg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/CjU9D4J.gif)
+[![](img/b539d6fb4543abbe905131c75926fefe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tPPYROcg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/CjU9D4J.gif)
 
 ## 结论
 

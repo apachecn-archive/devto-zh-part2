@@ -65,7 +65,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 然后，storybook 的该页面会显示 Info 按钮，点击后会显示以下精彩的信息信息。
 
-[![](../Images/215570a3cdf2d34d37bcc6c6002b32ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DkPF1L_u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zr3smtqm77t89bgb8btv.png)
+[![](img/215570a3cdf2d34d37bcc6c6002b32ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DkPF1L_u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zr3smtqm77t89bgb8btv.png)
 
 令人感动的文章，组件如何使用的一个例子，还有属性的详细信息，很感动呢。 不仅是 React，现在如果要制作 React 组件的话，storybook、还有 addon-info 都越来越不可缺少。 (遗憾的是，[现在的 addon-info 是只支持 React 的](https://github.com/storybooks/storybook/blob/master/ADDONS_SUPPORT.md)点吗)
 
@@ -105,7 +105,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 使用 recompose 的`pure`来抑制组件的重新渲染。 如果是要求高性能的 web APP 应用，经常会使用`pure`和`onlyUpdateForKeys`进行调整吧。 但是，Storybook 的 Info 页面如下所示。
 
-[![](../Images/6b67a0463344159f263dd2d76bdbdd5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cdGCfpwX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ycinss8x5syqm1yvodaz.png)
+[![](img/6b67a0463344159f263dd2d76bdbdd5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cdGCfpwX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ycinss8x5syqm1yvodaz.png)
 
 岂止是感动，反而会失望。
 
@@ -173,7 +173,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 虽然(导出的名字)有点潦草，但是这样 addon-info 就会显示出期待的样子，如下所示。
 
-[![感動！君も泣け](../Images/1a257117c3d49b1554857970aadd2309.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AFdxCOCG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qni06of2tjduwhimlyh7.png)
+[![感動！君も泣け](img/1a257117c3d49b1554857970aadd2309.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AFdxCOCG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qni06of2tjduwhimlyh7.png)
 
 # 结论
 

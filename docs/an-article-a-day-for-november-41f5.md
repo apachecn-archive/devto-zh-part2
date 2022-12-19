@@ -12,7 +12,7 @@
 
 @srebalaji 的这篇文章为我节省了不少时间。
 
-[![srebalaji image](../Images/8506cfa1dd878f8649071900d8baa26b.png)](/srebalaji) [## 你可能不知道的关于 Git stash 的有用技巧
+[![srebalaji image](img/8506cfa1dd878f8649071900d8baa26b.png)](/srebalaji) [## 你可能不知道的关于 Git stash 的有用技巧
 
 ### srebalaji Thirumalai Feb 4 ' 183min read
 

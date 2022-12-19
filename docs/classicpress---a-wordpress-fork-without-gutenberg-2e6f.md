@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/scottybo/classicpress---a-wordpress-fork-without-gutenberg-2e6f>
 
-[![ClassicPress](../Images/0d0238d20dcd7ca98b3025e3ad3970a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RDUcHhcG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jpab4rrbkxzprz9kjdhi.jpg)
+[![ClassicPress](img/0d0238d20dcd7ca98b3025e3ad3970a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RDUcHhcG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jpab4rrbkxzprz9kjdhi.jpg)
 
 **TLDR；**访问[经典按](https://www.classicpress.net)了解这把叉子
 

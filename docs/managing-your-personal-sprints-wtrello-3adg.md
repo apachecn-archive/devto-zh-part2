@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/wordswithchung/managing-your-personal-sprints-wtrello-3adg>
 
-[![Screenshot of Trello board](../Images/bbd8843a15e86dfe2150393a19209e8a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W6V-seIP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pprgcohqnb69wvecrptd.png)
+[![Screenshot of Trello board](img/bbd8843a15e86dfe2150393a19209e8a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W6V-seIP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pprgcohqnb69wvecrptd.png)
 
 你的超级组织化开发人员回来分享我自 2017 年 8 月以来一直使用的东西，这些东西让我保持了极高的生产力和整理能力。
 

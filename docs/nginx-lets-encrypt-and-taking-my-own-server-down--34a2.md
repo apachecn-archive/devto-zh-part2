@@ -18,7 +18,7 @@
 
 并将重定向循环排队。网站监控邮件泛滥，推特“网站瘫痪”DM 的…
 
-[![](../Images/fc5e2e8e0e13171232b53e457c88abee.png)T2】](https://i1.wp.com/petetasker.com/wp-content/uploads/2018/04/Monosnap-2018-04-09-20-27-44.png?ssl=1)
+[![](img/fc5e2e8e0e13171232b53e457c88abee.png)T2】](https://i1.wp.com/petetasker.com/wp-content/uploads/2018/04/Monosnap-2018-04-09-20-27-44.png?ssl=1)
 
 一切都很顺利！
 

@@ -14,31 +14,31 @@
 
 对于艺术家或设计师来说，个人网站可以作为你作品的作品集。这是一个很好的格式，很容易保持最新。例如，考虑一下自由插画家 Paddy Donnelly 的这个[站点](http://lefft.com/)。打开这些网站来获得完整的体验。
 
-[![](../Images/1dd79d54b9ec5bc134e3462dcb581a5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jh1h8ZS_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q2gq0m32cnjf6bv6soqf.png)
+[![](img/1dd79d54b9ec5bc134e3462dcb581a5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jh1h8ZS_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q2gq0m32cnjf6bv6soqf.png)
 
 #### 简历
 
 最基本的形式是，个人网站是让你的简历更有趣的好方法。甚至从你的纸质简历中提取文本，并在一个网站上很好地格式化，加上你的电子邮件链接，都是一个很好的开始。例如，杰姬·罗在她的[网站](http://jackieluo.com/)上发布了一份可读版本的简历。
 
-[![](../Images/213e17168f8a750be4e7f3bf68b90c73.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I7yANBx6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4ylsr3ybq8azb3p49mlo.png)
+[![](img/213e17168f8a750be4e7f3bf68b90c73.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I7yANBx6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4ylsr3ybq8azb3p49mlo.png)
 
 #### 一言堂
 
 即使你不想展示你的职业经历，个人网站也是集中搜索你个人信息的好方法。许多人在他们的网站上提供他们社交媒体账户的链接。例如，萨菲亚·阿布德拉的[网站](https://safia.rocks/)简洁明了，任何访问她的网站的人都可以轻松获得他们想要的关键信息。
 
-[![](../Images/33f9e2c8b7392c4b6d29c23824de064d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OSV1Bz_N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mfg6uhfd1zwteo422d71.jpg)
+[![](img/33f9e2c8b7392c4b6d29c23824de064d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OSV1Bz_N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mfg6uhfd1zwteo422d71.jpg)
 
 #### 博客
 
 个人网站是保存博客的好地方，这是向访问者展示你的作品的好方法。Alaina Kafkes 在她的[网站](http://alainakafk.es/#/words)上提供了她所有最新内容的链接，此外还有她在 dev.to 和 medium 上的个人资料的链接。
 
-[![](../Images/19fceb98cbfa1840bb78aace87cfaecb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BFzGvP40--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9fsaresu0saxr195mwgm.png)
+[![](img/19fceb98cbfa1840bb78aace87cfaecb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BFzGvP40--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9fsaresu0saxr195mwgm.png)
 
 #### 别的东西
 
 把你的故事告诉网络。简历、社交媒体资料，甚至你的脸书页面都受到严格控制。网站是一个你喜欢的空间:一个游戏化的仙境，简单的描述，或者其他。想想罗比·莱昂纳迪获奖的游戏化简历[网站](http://www.rleonardi.com/interactive-resume/)。
 
-[![](../Images/e1f1743f5c5a238ef1813177fa50b838.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vKxshReb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j69t5vlmeani2k8a67w3.png)
+[![](img/e1f1743f5c5a238ef1813177fa50b838.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vKxshReb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j69t5vlmeani2k8a67w3.png)
 
 ### 贯穿你职业生涯的个人网站
 
@@ -48,7 +48,7 @@
 
 当你继续你的职业生涯时，你仍然可以保留一个个人网站来展示你正在做的事情并维护你的个人品牌。例如，卡西迪·威廉姆斯在她的[网站](http://cassidoo.co/)上提供了一个更新的时间表。
 
-[![](../Images/348f5dd1eaf641a31a6f9cb69a492bfb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ebnBAq3l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9xnfkmkgtfi48c0id89b.png)
+[![](img/348f5dd1eaf641a31a6f9cb69a492bfb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ebnBAq3l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9xnfkmkgtfi48c0id89b.png)
 
 如果你正在寻找写作和演讲的机会，这是一个很好的地方来展示你一直在做什么，并向任何在网上搜索你的人提供可访问的信息。
 
@@ -73,28 +73,28 @@
 3.  并不是你所有的作品都需要被展示。个人网站可能是展示你早期项目的一种有趣方式，尽管你在七年级制作的海报可能会让你感到温暖和怀旧，但它可能会引起招聘人员的怀疑。选择最能展现你的作品。
 
 4.  把它变成个人的。它是你的个人网站是有原因的。不要害怕在你的网站上发布一些东西。例如，在她的[网站](http://tcburning.com/)上，Terri Burns 分享了一个她感兴趣的随机集合。类似这样的事情会让你对招聘人员更有亲和力、更有趣，也让其他跟踪你的人了解你的兴趣所在！
-    [![](../Images/b3bf599a16a0029d2a6993a267d9260d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--o0JYTmkJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cc0my10l8i7bw6yqi4cn.png)
+    [![](img/b3bf599a16a0029d2a6993a267d9260d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--o0JYTmkJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cc0my10l8i7bw6yqi4cn.png)
 
 5.  发挥创造力。更多激发你创造力的好主意:
 
 *   阿尔伯塔·德沃尔的火车线路启发了[网站](https://albertadevor.com/)
 
-[![](../Images/a2cc7e1ff4983534a6e913c0282e37f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lbkVdjp7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m4kry69flr4l8t2kjq8i.png)
+[![](img/a2cc7e1ff4983534a6e913c0282e37f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lbkVdjp7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m4kry69flr4l8t2kjq8i.png)
 
 *   像素奖得主玛丽亚·帕索的精美动画[网站](http://marisapassos.com/)
 
-[![](../Images/20c13280d3477c8340251c02b7dd43f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k17Y5bdx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gazd8zmp2c4clff2u59b.png)
+[![](img/20c13280d3477c8340251c02b7dd43f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k17Y5bdx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gazd8zmp2c4clff2u59b.png)
 
 *   加里·勒马森在他的[网站](http://www.garylemasson.com/)上醒目的搜索引擎框
 
-[![](../Images/291d3b68ebf6e406d50459cf572385b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SwCpkCmE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f406l7g0g7q05wzt1l63.png)
+[![](img/291d3b68ebf6e406d50459cf572385b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SwCpkCmE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f406l7g0g7q05wzt1l63.png)
 
 *   克里斯汀·弗拉特兰的有趣的网站
 
-[![](../Images/ba278a23fc87e051e12ea83267445b2e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fXf66HWR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e8ireutjnslih5n49vln.png)
+[![](img/ba278a23fc87e051e12ea83267445b2e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fXf66HWR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e8ireutjnslih5n49vln.png)
 
 *   克莱曼婷·雅各比的地图显示了她在自己的[网站](http://clementinejacoby.com/new_map.html)上去过的地方
 
-[![](../Images/7c62b8e677b01d41776d29004d15cb3a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--THCM2p1X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/le35y2tqg55xdsdt3yls.png)
+[![](img/7c62b8e677b01d41776d29004d15cb3a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--THCM2p1X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/le35y2tqg55xdsdt3yls.png)
 
 在评论中分享对你有用的东西吧！

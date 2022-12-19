@@ -8,7 +8,7 @@
 
 Knative 扩展了 Kubernetes，提供了开发人员创建现代的、以源代码为中心的、基于容器的、云原生应用程序所需的构建模块。
 
-[![](../Images/b0e51c9fd1abfce16e17564017c3cf61.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O8ivla6C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/280/1%2ApzF__5c3GXD8phF0pCBcfQ.png)
+[![](img/b0e51c9fd1abfce16e17564017c3cf61.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O8ivla6C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/280/1%2ApzF__5c3GXD8phF0pCBcfQ.png)
 
 Knative 项目下的每个组件都试图确定常见的模式，并整理现实世界中基于 Kubernetes 的成功框架和应用程序所共享的最佳实践，例如:
 
@@ -64,7 +64,7 @@ $ ibmcloud login
 $ kubectl apply --filename https://raw.githubusercontent.com/knative/serving/master/third_party/istio-1.0.2/istio.yaml 
 ```
 
-<figure>[![](../Images/5f9d77609fda950e7ff140e39835799d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yVblYX-z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AogetR49JlqDlMJeA9Sj87Q.png) 
+<figure>[![](img/5f9d77609fda950e7ff140e39835799d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yVblYX-z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AogetR49JlqDlMJeA9Sj87Q.png) 
 
 <figcaption>安装 Istio</figcaption>
 
@@ -81,7 +81,7 @@ kubectl api-resources | grep knative
 
 > 需要 kubectl 客户端版本 1.11 或更高版本
 
-<figure>[![](../Images/8f9c023d185d0f42a35d466ce3993f2b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tRAE1ZNF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AvSO4ZX1LYIs-UlDatTPfYg.png) 
+<figure>[![](img/8f9c023d185d0f42a35d466ce3993f2b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tRAE1ZNF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AvSO4ZX1LYIs-UlDatTPfYg.png) 
 
 <figcaption>验证安装</figcaption>
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/fullstackcafe/7-hardest-nodejs-interview-questions--answers-3lje>
 
-[![7 Hardest Node.js Interview Questions & Answers](../Images/036394b4cc187b8516ab41405b99fe03.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XQuWmKnq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/674268/pexels-photo-674268.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D350) 
+[![7 Hardest Node.js Interview Questions & Answers](img/036394b4cc187b8516ab41405b99fe03.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XQuWmKnq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/674268/pexels-photo-674268.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D350) 
 Node.js 是一个开源的、跨平台的 JavaScript 运行时环境，在服务器端执行 JavaScript 代码。Node.js 允许开发人员使用 JavaScript 进行服务器端脚本编写——在页面被发送到用户的 web 浏览器之前，在服务器端运行脚本来生成动态网页内容。
 
 > 🔴最初发表于 [FullStack。咖啡馆-杀死你的技术&编码面试](https://www.fullstack.cafe/?utm_source=dev&utm_medium=blog)

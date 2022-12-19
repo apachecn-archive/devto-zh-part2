@@ -4,7 +4,7 @@
 
 基于这个不错的 dev.to 帖子
 
-[![aspittel](../Images/45a8d86fe0ff981bf7cdb45b471a3c5c.png)](/aspittel) [## 构建一流的投资组合
+[![aspittel](img/45a8d86fe0ff981bf7cdb45b471a3c5c.png)](/aspittel) [## 构建一流的投资组合
 
 ### 阿里·斯皮特尔 8 月 2 日 186 分钟阅读
 
@@ -19,15 +19,15 @@
 
 这里可以看到[我的新网站](https://www.mokkapps.de)的截图:
 
-[![Website Screenshot](../Images/659edcd326f99eb6c99e0750723fccf2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SvUBpM5k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8q3uldpne31x98f33b76.png)
+[![Website Screenshot](img/659edcd326f99eb6c99e0750723fccf2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SvUBpM5k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8q3uldpne31x98f33b76.png)
 
 这是最新的灯塔调查结果:
 
-[![Lighthouse Results](../Images/2d6c8a1d1bb0b515ce0c8e94046c9be2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4Y490MhC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l5r2vaicv3zm5wvqyv1n.png)
+[![Lighthouse Results](img/2d6c8a1d1bb0b515ce0c8e94046c9be2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4Y490MhC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l5r2vaicv3zm5wvqyv1n.png)
 
 我在这篇文章中描述了我之前的网站设置:
 
-[![mokkapps](../Images/7857be90d1b7619fd183ae62cbb19d06.png)](/mokkapps) [## 我是如何与 Hugo 和 Netlify 一起建立我的网站的
+[![mokkapps](img/7857be90d1b7619fd183ae62cbb19d06.png)](/mokkapps) [## 我是如何与 Hugo 和 Netlify 一起建立我的网站的
 
 ### 迈克尔霍夫曼 5 月 20 日 183 分钟阅读
 

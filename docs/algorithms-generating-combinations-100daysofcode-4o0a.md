@@ -4,10 +4,10 @@
 
 我们可以用多少种不同的方法从一组`n`对象中选择`r`对象？在数学中，这被称为[组合](https://en.wikipedia.org/wiki/Combination)。
 
-[![Combinations of 5 objects, taken 2 at a time](../Images/242919a630372836b81de6c5f3a4aba5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7zbXgEyv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w8utl55xbryxdvolbkdx.jpg)
+[![Combinations of 5 objects, taken 2 at a time](img/242919a630372836b81de6c5f3a4aba5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7zbXgEyv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w8utl55xbryxdvolbkdx.jpg)
 
 组合数的公式为:
-[![](../Images/f5fec2e8ec747c44a4041cbd07938430.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---_0kzL1U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://wikimedia.org/api/rest_v1/media/math/render/svg/813f7124a61dac205542db3f8491b36cb306453a) 
+[![](img/f5fec2e8ec747c44a4041cbd07938430.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---_0kzL1U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://wikimedia.org/api/rest_v1/media/math/render/svg/813f7124a61dac205542db3f8491b36cb306453a) 
 其中，`n!`表示一个数的阶乘，该数是从 1 到 n(包括 1 和 n)的所有数的乘积。
 
 ### 前奏:计算一个数的阶乘的函数

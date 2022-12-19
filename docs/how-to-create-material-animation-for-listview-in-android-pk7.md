@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/yshogo87/how-to-create-material-animation-for-listview-in-android-pk7>
 
-[![Preview](../Images/239287c4d93b30c22f0f424869c88794.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kJsyUhCZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8h6ch4s9al8lh2vwjsji.gif)
+[![Preview](img/239287c4d93b30c22f0f424869c88794.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kJsyUhCZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8h6ch4s9al8lh2vwjsji.gif)
 
 这个动画是材质过渡。
 

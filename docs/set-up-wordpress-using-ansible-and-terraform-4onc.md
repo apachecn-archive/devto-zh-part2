@@ -53,15 +53,15 @@ terraform init
 terraform plan -out tf.plan
 ```
 
-[![](../Images/7827d797e099b3045af28946dd5310bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W-VEQHNY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/11/screely-1541635140021.png)
+[![](img/7827d797e099b3045af28946dd5310bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W-VEQHNY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/11/screely-1541635140021.png)
 
-[![](../Images/83fa911f2fa3f1cad7a88e1aa9cd4adf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XWfg54fj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/11/screely-1541635233585.png)
+[![](img/83fa911f2fa3f1cad7a88e1aa9cd4adf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XWfg54fj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/11/screely-1541635233585.png)
 
 ```
 terraform apply tf.plan
 ```
 
-[![](../Images/6dad16bd9414c3fea111d03226fe985a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rSAsWqWv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/11/screely-1541635397974.png)
+[![](img/6dad16bd9414c3fea111d03226fe985a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rSAsWqWv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/11/screely-1541635397974.png)
 
 给定配置，我们对 Ansible 的使用是透明的。Terraform 竖起硬件，调用 Ansible 为我们提供应用文件和设置。有些人可能认为这是一种欺骗，但是在自动化和易用性的世界里...自动化一切。
 
@@ -76,7 +76,7 @@ terraform destroy
 
 ```
 
-[![](../Images/19f40662cc725fdf5a161dc8cc7158f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sA9TDPbf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/11/screely-1541635469175.png)
+[![](img/19f40662cc725fdf5a161dc8cc7158f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sA9TDPbf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/11/screely-1541635469175.png)
 
 在确认我们确实想把它全部拆掉后，等几分钟，噗，没有更多的服务器了。这也很好，因为谁愿意在睡觉的时候为开发服务器付费呢？不是我，也不是大多数企业。节约成本是商业的基石。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/franken/how-to-install-prestashop-theme-3fo3>
 
-[![](../Images/52dbc8d2c393b5bb8e625bad027a9f9b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_tEyWH9d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.com/images/stories/how-to-install-prestashop-theme.jpg)
+[![](img/52dbc8d2c393b5bb8e625bad027a9f9b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_tEyWH9d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.cimg/stories/how-to-install-prestashop-theme.jpg)
 
 然而，在你开始你的电子商务网站 Prestashop 之前，你必须知道如何安装 Prestashop，然后设置你的主题。
 
@@ -72,4 +72,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 别忘了访问我们的博客，了解更多 [Prestashop 教程](https://www.prestasoo.com/Blog/?utm_source=devto&utm_medium=article&utm_campaign=install_theme)。
 
-[![How to install Prestashop Theme - Infographic](../Images/31615fb28bea494c5b60ffc8dbebcaf7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lh28geFb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.com/images/stories/how-to-install-prestashop-theme-infographic.jpg)
+[![How to install Prestashop Theme - Infographic](img/31615fb28bea494c5b60ffc8dbebcaf7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lh28geFb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.cimg/stories/how-to-install-prestashop-theme-infographic.jpg)

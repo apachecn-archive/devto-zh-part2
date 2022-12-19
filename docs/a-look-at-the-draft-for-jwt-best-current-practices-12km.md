@@ -6,4 +6,4 @@ IETF OAuth 工作组一直在努力创建和改进身份空间的标准。在本
 
 继续阅读，了解更多信息🙌
 
-[![A Look at The Draft for JWT Best Current Practices](../Images/e0b2c2fd27c0a813b63bce3487e4f64f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t4sYFWH8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ptsmmva58fi4egmdmf28.png)
+[![A Look at The Draft for JWT Best Current Practices](img/e0b2c2fd27c0a813b63bce3487e4f64f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t4sYFWH8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ptsmmva58fi4egmdmf28.png)

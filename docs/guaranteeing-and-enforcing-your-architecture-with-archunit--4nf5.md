@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/davidcyp_52/guaranteeing-and-enforcing-your-architecture-with-archunit--4nf5>
 
-[![Guaranteeing and enforcing your architecture (with ArchUnit)](../Images/5c08574ddd6cee1de357db01ffbea7f1.png "Guaranteeing and enforcing your architecture (with ArchUnit)")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NZR2Qpa5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/frh5t6skv17nzv8mpx1v.jpeg)
+[![Guaranteeing and enforcing your architecture (with ArchUnit)](img/5c08574ddd6cee1de357db01ffbea7f1.png "Guaranteeing and enforcing your architecture (with ArchUnit)")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NZR2Qpa5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/frh5t6skv17nzv8mpx1v.jpeg)
 
 最近，我在开发一个严重依赖各种数据源的应用程序。我们的应用程序实际上组合、解释和可视化了数据。
 

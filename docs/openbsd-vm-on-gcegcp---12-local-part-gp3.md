@@ -62,23 +62,23 @@
 
 用 VirtulBox 为 OpenBSD 创建一个虚拟机:
 
-[![](../Images/713f02f5da1ac9d05c6c563b54399a3f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gSONn5yi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pt9qvy6wr7bwzejnm4wx.png)
+[![](img/713f02f5da1ac9d05c6c563b54399a3f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gSONn5yi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pt9qvy6wr7bwzejnm4wx.png)
 
-[![](../Images/e22b6980d8b8b34c690df65148497801.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TDAWwzNM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xfefxa6aglrw7oshjqjz.png)
+[![](img/e22b6980d8b8b34c690df65148497801.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TDAWwzNM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xfefxa6aglrw7oshjqjz.png)
 
 **注:根据 GCP[免费产品](https://cloud.google.com/free/)的规定，GCE 的存储大小必须小于 30gb 才能让其免费使用。*
 
-[![](../Images/a48388bdfd33327d6590f3ecdb3fe512.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XKdt2KYf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/98vmgezq09pex7pwk6xm.png)
+[![](img/a48388bdfd33327d6590f3ecdb3fe512.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XKdt2KYf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/98vmgezq09pex7pwk6xm.png)
 
 将 OpenBSD 安装程序介质 install64.iso 添加到“Storage”中:
 
-[![](../Images/c00cc37e322936f36c0f0ef17c4f081e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QRKKRt7d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rq2sk77gic374uddmdfd.png)
+[![](img/c00cc37e322936f36c0f0ef17c4f081e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QRKKRt7d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rq2sk77gic374uddmdfd.png)
 
 让我们启动客户操作系统:
 
-[![](../Images/55e3625d255b1c5a28c6fbdc3d75eb6e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7p3UrDMY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ing3kg76zbk6i66j9qz1.png)
+[![](img/55e3625d255b1c5a28c6fbdc3d75eb6e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7p3UrDMY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ing3kg76zbk6i66j9qz1.png)
 
-[![](../Images/6703ba47077198c3efc20dff67b46ee5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wP8utlUN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zx8fdtwd9xqhrpqtgbl3.png)
+[![](img/6703ba47077198c3efc20dff67b46ee5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wP8utlUN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zx8fdtwd9xqhrpqtgbl3.png)
 
 按照这些设置继续安装:
 
@@ -187,13 +187,13 @@ Enter fullscreen mode Exit fullscreen mode
 `set tty com0`表示使用串口作为控制台。
 因此，为了下次管理客户操作系统，我们需要在运行之前设置“启用串口”:
 
-[![](../Images/7a591437728c376db843f45fc75e3d4c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0r9-AZ_m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/86edfvp8d4grc2g21yy8.png)
+[![](img/7a591437728c376db843f45fc75e3d4c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0r9-AZ_m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/86edfvp8d4grc2g21yy8.png)
 
 <center>✿ ✿ ✿</center>
 
 **注:本帖分为两部分。后半部分是:*
 
-[![nabbisen](../Images/6759a36884202f6cf21b258b1e80383e.png)](/nabbisen) [## GCE/GCP - (2/2)云部分上的 OpenBSD 虚拟机
+[![nabbisen](img/6759a36884202f6cf21b258b1e80383e.png)](/nabbisen) [## GCE/GCP - (2/2)云部分上的 OpenBSD 虚拟机
 
 ### nab bisen Oct 31 ' 183 分钟读数
 

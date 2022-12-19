@@ -4,7 +4,7 @@
 
 ### 下面是我如何使用 Hasura GraphQL 引擎中的订阅，在 Postgres 上用 React 和 Apollo 构建一个[成熟的实时群聊应用](https://realtime-chat.demo.hasura.app/)。
 
-[![](../Images/6c75c7a2f7cf822fb01539d4edc1b491.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_KlGFT8q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/2019/12/GraphQL---Apollo.png)
+[![](img/6c75c7a2f7cf822fb01539d4edc1b491.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_KlGFT8q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/2019/12/GraphQL---Apollo.png)
 
 ## TL；速度三角形定位法(dead reckoning)
 

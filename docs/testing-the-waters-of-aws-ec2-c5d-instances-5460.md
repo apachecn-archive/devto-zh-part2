@@ -16,7 +16,7 @@
 
 > **在我们向您介绍基准测试结果之前，我们先来看看 C5D 之间的定价比较。大，C5。大 T2。小型点播实例:**
 
-[![AWS EC2 C5D instance pricing comparison with C5 Large and T2 Small](../Images/443d4c530d9256f6adda48240a9f328b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lieu8xfP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z0v6llttckxf5dop2x9d.png)
+[![AWS EC2 C5D instance pricing comparison with C5 Large and T2 Small](img/443d4c530d9256f6adda48240a9f328b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lieu8xfP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z0v6llttckxf5dop2x9d.png)
 
 我们运行 Sysbench 工具来计算 20，000 以内的所有素数，以比较 C5D 实例与 C5 实例以及最流行的实例类型 T2 的纯计算性能。
 
@@ -30,7 +30,7 @@
 
 ### 结果如下:
 
-[![AWS EC2 C5D Instance Performance Benchmarking with C5L and T2S](../Images/78f4746c6b527e88ec0c130f441f330a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TDBzTCWj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/amhuve37swjpdghawvlf.png)
+[![AWS EC2 C5D Instance Performance Benchmarking with C5L and T2S](img/78f4746c6b527e88ec0c130f441f330a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TDBzTCWj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/amhuve37swjpdghawvlf.png)
 
 ### 以下是我们的主要观察结果:
 
@@ -46,7 +46,7 @@
 
 测试显示 CPU 100%最大化来编译 Linux。这说明 C5D 要快一点。尽管编译 Linux C5D 是一个非常磁盘密集型的操作，但是在我们的测试用例中，CPU 是任务的最终瓶颈。
 
-[![AWS EC2 C5D Large instance CPU Maxing out graph](../Images/479a49ee8e58843602d89031c45a5c8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--saLD8R27--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nlc0a3f8havnbbtca3fu.png)
+[![AWS EC2 C5D Large instance CPU Maxing out graph](img/479a49ee8e58843602d89031c45a5c8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--saLD8R27--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nlc0a3f8havnbbtca3fu.png)
 
 为了增加这些测试，C5 实例花了 8.10 秒解包 Linux 内核。C5D 花了 8.06 秒解包。
 

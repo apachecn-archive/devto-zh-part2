@@ -6,7 +6,7 @@
 
 > **免责声明:**这篇帖子与[微软最近收购 GitHub](https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/) 没有任何关系(我对此并没有很强烈的看法；虽然我希望那根本不会影响到我们)。
 
-[![](../Images/de87c94f9a9fb5b4f74c4b8d0dddf052.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3nM6iKC0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/hrules6872/Writings/master/4-from-github-to-bitbucket/art/1.jpeg)
+[![](img/de87c94f9a9fb5b4f74c4b8d0dddf052.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3nM6iKC0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/hrules6872/Writings/master/4-from-github-to-bitbucket/art/1.jpeg)
 
 下个月，我的 GitHub 年度订阅将到期，我不想为了减少我目前支付的大量在线服务而续订。
 **TL；dr:我会继续使用 GitHub，但不会用于私有库。**

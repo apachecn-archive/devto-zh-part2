@@ -69,6 +69,6 @@
 3.  要有后备计划。
 4.  分析轨迹，从错误中学习。谁知道它最终会成为这样的博客呢😃
 
-[![](../Images/a384fce5a663d0b228b931e449f56d44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xw50efmM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/940/0%2AjFzWDmF-3CrKe-6k)
+[![](img/a384fce5a663d0b228b931e449f56d44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xw50efmM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/940/0%2AjFzWDmF-3CrKe-6k)
 
 * * *

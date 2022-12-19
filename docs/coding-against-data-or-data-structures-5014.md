@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/megazear7/coding-against-data-or-data-structures-5014>
 
-[![Structure](../Images/bd7c2d584d9d46d4ac03d89656168e41.png "Structure")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--usF1IRXH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ohxfn6gbwi31gtqy80f5.jpg)
+[![Structure](img/bd7c2d584d9d46d4ac03d89656168e41.png "Structure")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--usF1IRXH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ohxfn6gbwi31gtqy80f5.jpg)
 
 您是一名应用程序开发人员。为您提供了某种格式的数据；API、某种形式的数据库或其他东西。系统会要求您使用提供的数据构建一个特征。您查看数据、数据的格式以及如何使用数据来构建要素，然后构建要素。数据发生变化，由于数据不是预期的格式，特征被破坏，需要返工。
 

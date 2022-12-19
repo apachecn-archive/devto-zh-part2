@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/willamesoares/how-to-build-an-image-carousel-with-react--24na>
 
-[![header-image](../Images/1fe79c363b1c56726c39637871f93653.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nY4t5Jgy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ce0rln8gpe1rppwj7udi.png)
+[![header-image](img/1fe79c363b1c56726c39637871f93653.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nY4t5Jgy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ce0rln8gpe1rppwj7udi.png)
 
 嘿大家好！
 

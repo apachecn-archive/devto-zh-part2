@@ -20,7 +20,7 @@
 
 在联运集装箱到达之前，各种不同形状和重量的物品都必须用手来装载、容纳和卸载。将物品从一个地方移动到另一个地方需要大量的时间和人力。多式联运集装箱允许将物品装入集装箱，然后使用一种独特的标准形状通过不同的运输方式(从船舶到铁路到卡车)进行转移，而无需卸载和重装货物。在 20 世纪 40 年代末和 50 年代初，开始使用标准化的钢制集装箱。不久之后，轮船、卡车、火车和起重机都进行了改造，以优化集装箱的容纳能力。结果，今天世界上最繁忙的贸易港口(上海)每年处理 3200 万个集装箱，运载 7 . 36 亿吨货物到世界各地。联运集装箱实现了前所未有的生产力水平。
 
-[![](../Images/93554a2e69f99f59e5470cce967a31d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LTRrfWSF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t78y6v2bsaaac6qnes8i.jpg)
+[![](img/93554a2e69f99f59e5470cce967a31d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LTRrfWSF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t78y6v2bsaaac6qnes8i.jpg)
 
 这个故事最令人印象深刻的部分是，多式联运集装箱革命尚未结束。物联网和人工智能的到来将使运输过程更加高效。整个运输链有朝一日可能会 100%自主。卡车、起重机、船只和火车都可以使用物联网传感器提供的数据和人工智能提供的算法在世界各地运输集装箱，而无需一个人的干预。虽然这听起来像科幻小说，但实现这一场景所需的所有技术如今都已具备。
 

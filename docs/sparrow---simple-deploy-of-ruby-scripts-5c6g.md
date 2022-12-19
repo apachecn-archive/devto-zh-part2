@@ -162,7 +162,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 一个直接的好处是，您刚刚上传的插件可以通过 SparrowHub 网站获得，只需[单击此处](https://sparrowhub.org/info/ruby-echo-script)，您将获得一个漂亮的页面，上面有您的发行版详细信息:
 
-[![https://raw.githubusercontent.com/melezhik/ruby-echo-script/master/sparrow-ruby-echo-script-plugin.png](../Images/071ee3bfe1963f0280e955788544d2a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1QnXG-DF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/melezhik/ruby-echo-script/master/plugin-page.png)
+[![https://raw.githubusercontent.com/melezhik/ruby-echo-script/master/sparrow-ruby-echo-script-plugin.png](img/071ee3bfe1963f0280e955788544d2a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1QnXG-DF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/melezhik/ruby-echo-script/master/plugin-page.png)
 
 我还没有告诉你，但是你可以添加的 markdown 文档也是受支持的(:，只需将`README.md`放到你的发行版中！
 

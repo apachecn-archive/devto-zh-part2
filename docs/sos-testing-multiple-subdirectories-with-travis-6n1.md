@@ -49,4 +49,4 @@ script:
 Enter fullscreen mode Exit fullscreen mode
 
 问:有可能将 Travis 运行到多个目录并得到多个结果吗？
-[![](../Images/dd01bc8cd4ae51eeaa3e8898eb8d0364.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--KNHjbwrf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ldun60megxzhj71i6zdc.jpg)
+[![](img/dd01bc8cd4ae51eeaa3e8898eb8d0364.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--KNHjbwrf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ldun60megxzhj71i6zdc.jpg)

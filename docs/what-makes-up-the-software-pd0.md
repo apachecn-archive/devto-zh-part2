@@ -23,7 +23,7 @@
 
 要解决这个问题并不是要搞清楚故事估算的魔力，相反，我们不应该需要估算我们是否作为同一个团队与业务所有者一起工作。每个软件团队将有且只有一个相应的业务团队，他们共享完全相同的 OKR。只对一件事负责是很重要的。
 
-[![image](../Images/05421cd8bc37c76dc0caeb5a30a7a53d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jjiU0D25--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/46240258-24590980-c3d7-11e8-892c-80b98899370f.png)
+[![image](img/05421cd8bc37c76dc0caeb5a30a7a53d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jjiU0D25--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/46240258-24590980-c3d7-11e8-892c-80b98899370f.png)
 
 这是典型的企业组织结构图。每一个小团队都会让他们的 OKR 与他们的母团队保持一致。OKR 的关键结果将是可衡量的，这样每个团队都可以对一些事情负责。
 
@@ -35,7 +35,7 @@
 
 在大范围内，建筑是关于有限的环境的(阅读 DDD 的更多细节)。这只是反映在软件世界中的业务组织图:
 
-[![image](../Images/32923bff410bf6ddb8fdcda78c082064.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dn8kI7Uy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/46132379-77647c80-c270-11e8-91d3-eaafbfc926ee.png)
+[![image](img/32923bff410bf6ddb8fdcda78c082064.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dn8kI7Uy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/46132379-77647c80-c270-11e8-91d3-eaafbfc926ee.png)
 
 以电子商务领域为例，将业务划分为几个有界的上下文。没有一个团队可以跨越有限的上下文来覆盖业务流程。这通常是一件好事，大问题被分解成小问题，业务和技术团队可以在一个有限的环境中朝着共同的目标一起工作。
 
@@ -57,7 +57,7 @@
 
 这两种代码的工作方式非常不同。网络空间衍生出维护自然/社会秩序的因果关系。智能代理收集效果来推断模型以最大化某个目标。将智能部分与系统的其余部分区分开来至关重要。作为人类，我们需要静态的规则来建立稳定的预期。如果“法律”不断变化，网络空间将像一个“神奇”的地方，与我们在现实世界中的经验失去联系。
 
-[![image](../Images/61f045dead6b48d48af4ff613e084a42.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4cW8cXOc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/46241969-6e041d00-c3f4-11e8-98a9-4ad9733df9a7.png)
+[![image](img/61f045dead6b48d48af4ff613e084a42.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4cW8cXOc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/46241969-6e041d00-c3f4-11e8-98a9-4ad9733df9a7.png)
 
 模型、视图和控件是网络空间。人类和机器人是智能主体。该模型根据自然或社会法则定义的因果关系来维护数据完整性。视图和控制为人类/机器人提供了一个方便的接口。
 
@@ -65,11 +65,11 @@
 
 网络空间部分还是太大了。这通常是一个多步骤的业务流程。例如
 
-[![image](../Images/a2c0ca1bb42110b2c18d62487aa1f8c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wp_WfKBa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/46132626-1be6be80-c271-11e8-9dd1-6a4bc5c4a543.png)
+[![image](img/a2c0ca1bb42110b2c18d62487aa1f8c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wp_WfKBa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/46132626-1be6be80-c271-11e8-9dd1-6a4bc5c4a543.png)
 
 和有界上下文相互关联。例如
 
-[![image](../Images/198d6e990a71cd295dfe5eff1eaebaaa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RUjj-1Z6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/46242058-21214600-c3f6-11e8-892f-ab216ec5bcf5.png)
+[![image](img/198d6e990a71cd295dfe5eff1eaebaaa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RUjj-1Z6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40541/46242058-21214600-c3f6-11e8-892f-ab216ec5bcf5.png)
 
 问责制的问题源于我们使用的编程语言没有覆盖整个因果链。我们可以在白板上画一个整体的流程图，但是我们必须把它分解成许多小的服务/功能来实现。工作流引擎经常被提起，因为它很好地映射到问题领域，但是 BPMN 不是一种编程语言。
 

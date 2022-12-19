@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/essentialdeveloper/culture-of-integrity-within-successful-software-teams-3i81>
 
-[![EssentialDeveloper_Enxoval_Thumbnail_12-09-v02.png](../Images/522955026775ce733a68e17037ab8ab8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--827yyNFo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5b99f290758d4663942c2ca4/1536815772952/EssentialDeveloper_Enxoval_Thumbnail_12-09-v02.png%3Fformat%3D1000w)
+[![EssentialDeveloper_Enxoval_Thumbnail_12-09-v02.png](img/522955026775ce733a68e17037ab8ab8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--827yyNFo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5b99f290758d4663942c2ca4/1536815772952/EssentialDeveloper_Enxoval_Thumbnail_12-09-v02.png%3Fformat%3D1000w)
 
 macOS 字典对“完整性”的定义是:
 

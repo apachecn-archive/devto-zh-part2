@@ -28,23 +28,23 @@
 
 如果您有多个工作区，请使用右上角的菜单转到所需的工作区:
 
-[![](../Images/0de3eeb08ef6df93241a8cdc8cf6ef7b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AeWBpL0E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://phpprofi.ru/resources/img/blogs/fb7486dd-706c-493d-892e-d6bdb7c3f484.jpeg)
+[![](img/0de3eeb08ef6df93241a8cdc8cf6ef7b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AeWBpL0E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://phpprofi.ru/resources/img/blogs/fb7486dd-706c-493d-892e-d6bdb7c3f484.jpeg)
 
 接下来，您将被要求选择消息将被发送到的渠道:
 
-[![](../Images/25109b9b216a88c37a87254e02ac08b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wJVXu5rA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://phpprofi.ru/resources/img/blogs/7056f524-c970-4416-b7f5-5c84c823e0c2.jpeg)
+[![](img/25109b9b216a88c37a87254e02ac08b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wJVXu5rA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://phpprofi.ru/resources/img/blogs/7056f524-c970-4416-b7f5-5c84c823e0c2.jpeg)
 
 如果您认为对于每个通道(您想要发送的通道)您需要创建一个钩子，那么这个想法是合理的，但不是必需的。从代码发送消息时，您可以指定消息应该传递到的通道。或者不指定通道，消息将被发送到您在此步骤中选择的默认通道。
 
 之后，会创建一个新的 webhook。你将被转到一个带有设置的页面，页面上的信息包括如何使用它，如何生成消息，以及一个通过 curl 命令发送消息的简单例子。
 
-[![](../Images/31075735720c64c4d59b07d930339b35.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QrleEMGW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://phpprofi.ru/resources/img/blogs/c93a51b3-401c-4a7d-b96e-ae072fa841a1.jpeg)
+[![](img/31075735720c64c4d59b07d930339b35.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QrleEMGW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://phpprofi.ru/resources/img/blogs/c93a51b3-401c-4a7d-b96e-ae072fa841a1.jpeg)
 
 在这里，您可以立即复制`Webhook URL`，关闭管理面板并继续安装软件包和代码。
 
 如果你想增加一点美感，那么折叠这些说明或者向下滚动到挂钩设置:
 
-[![](../Images/2256888333c30b775c10a7e12e30f599.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V006epsn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://phpprofi.ru/resources/img/blogs/98ef6c6d-af88-431e-8b30-f426f7be2950.jpeg)
+[![](img/2256888333c30b775c10a7e12e30f599.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V006epsn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://phpprofi.ru/resources/img/blogs/98ef6c6d-af88-431e-8b30-f426f7be2950.jpeg)
 
 在这里，您可以更改:
 
@@ -67,7 +67,7 @@ composer require alek13/slack
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/c0d798d7f716781ea9bd9869e09a635d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GjbW0jz---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://phpprofi.ru/resources/img/blogs/436657fd-5dfa-438e-ae89-52caf2d31b79.jpeg)
+[![](img/c0d798d7f716781ea9bd9869e09a635d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GjbW0jz---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://phpprofi.ru/resources/img/blogs/436657fd-5dfa-438e-ae89-52caf2d31b79.jpeg)
 
 仅此而已！软件包已经安装好，可以使用了。
 

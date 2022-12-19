@@ -6,7 +6,7 @@
 
 **关于 Oracle Code One**
 Oracle Code One 是业界领先的开发者大会，汇集了国际和本地的专家和演讲者，探讨最新的开发者技术、语言等。
-[![future of Java](../Images/0a3d1ac3d494e8a242eb54535a433495.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Hrww9xbV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ccz7yas10nr5skby9env.png) 
+[![future of Java](img/0a3d1ac3d494e8a242eb54535a433495.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Hrww9xbV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ccz7yas10nr5skby9env.png) 
 负责 Java 平台开发的副总裁乔治·萨博(Georges Saab)重申了甲骨文对 Java 平台的承诺，从而拉开了活动的序幕。他谈到了 Java 的性能、可靠性、安全性和生态系统，使其成为现代应用程序开发的理想选择。GitHub 现场服务副总裁 Matthew McCullough 强调了 Java 平台的开源参考实现 OpenJDK 的重要性，并讨论了 Skara 项目。这个项目的主要目标是调查 JDK 源代码的替代源代码管理和代码审查选项。他还讨论了最“重要的软件”是通过全球协作开发的，并鼓励观众参与开源项目。
 
 后来，当萨博重返舞台时，他谈到了保留 Java 的品质。Java 一直在发展，是免费的，社区致力于完善当前的平台，并投资于开发者和开发者的兼容性。

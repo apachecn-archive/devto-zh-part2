@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/missismada/deliver-critical-transactional-push-notifications-with-pusher-beams-2079>
 
-[![Pusher Beams](../Images/76c0369a4c5009ba406d61f042aa395b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cwa97jJH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gw2y2h6n6kp30jedehyl.png)
+[![Pusher Beams](img/76c0369a4c5009ba406d61f042aa395b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cwa97jJH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gw2y2h6n6kp30jedehyl.png)
 
 我们很高兴地宣布[推杆光束](https://pusher.com/beams)已经退出测试，并普遍适用于您的生产应用！
 

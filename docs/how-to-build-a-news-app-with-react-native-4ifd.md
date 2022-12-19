@@ -28,7 +28,7 @@
 首先，你应该注册新闻 Api 来获得你的免费 apiKey(你的认证密钥)。
 
 创建一个新的 React 原生项目，并将其命名为`news_app`(或者其他任何名称)。在项目目录下，新建一个文件夹，命名为`src`。在`src`中创建一个文件夹，命名为`components`。所以你的项目目录应该是这样的:
-[![screenshot](../Images/db247d5179cb0ed0e48cb266a2dd2f99.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---_OiY44O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vgonq8enqsbp69zqesfc.png) 
+[![screenshot](img/db247d5179cb0ed0e48cb266a2dd2f99.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---_OiY44O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vgonq8enqsbp69zqesfc.png) 
 在 src 文件夹中，新建一个名为 news.js 的文件。在这个文件中，我们将从新闻 API 中获取包含标题的 JSON。
 
 # news.js
@@ -249,9 +249,9 @@ const styles = {
 在`class`之后，我们为这些组件定义了样式。
 
 现在，如果我们运行应用程序:
-[![screenshot](../Images/d284510b1147311e1f9b1415ec7948c8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mzh6Eemf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fa1ztf421utl1cal60h3.jpg) 
+[![screenshot](img/d284510b1147311e1f9b1415ec7948c8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mzh6Eemf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fa1ztf421utl1cal60h3.jpg) 
 *，我们可以刷新应用程序*
-[![screenshot](../Images/fba144f013fd62d98664d277c9d4fcb8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Pis50zKC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ghu5if5yehnln21u1hyn.jpg) 
+[![screenshot](img/fba144f013fd62d98664d277c9d4fcb8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Pis50zKC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ghu5if5yehnln21u1hyn.jpg) 
 好了！这个应用的源代码可以在 GitHub [上找到，这里](https://github.com/msal4/royal_news)你可以对它进行改进并提出一个拉取请求😄。
 
 我希望你喜欢我的文章！如果您有任何问题，请随时发表评论或通过 [twitter](https://twitter.com/4msal4) 联系我，我一定会帮助您:)

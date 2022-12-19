@@ -18,13 +18,13 @@
 
 在下一个屏幕上，将鼠标悬停在左侧菜单上的*功能*上。单击出现的+号创建我们的函数。
 
-[![Azure Functions Overview Screen.](../Images/f56fff7e85bd127c1707e28ab1e99618.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HCLJ8aNm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://mattferderer.com/scrape-a-website-and-send-an-email-with-azure-functions-1-a5fcd4a6fa8df3255c01472832f3aef8.gif)
+[![Azure Functions Overview Screen.](img/f56fff7e85bd127c1707e28ab1e99618.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HCLJ8aNm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://mattferderer.com/scrape-a-website-and-send-an-email-with-azure-functions-1-a5fcd4a6fa8df3255c01472832f3aef8.gif)
 
 如果您想按计划完成，请选择*计时器*;如果您想通过 URL 发送请求，请选择 *Webhook+API* ,这样您就可以按需完成。还要确保选择 C#作为下面的语言。
 
 在右侧，单击查看文件。
 
-[![Click View Files on the right side of the screen.](../Images/412e0fc058b71fb30353168facf344d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vPnv_-6y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://mattferderer.com/scrape-a-website-and-send-an-email-with-azure-functions-2-48c8a11a31647280d9436a0e12eab44f.gif)
+[![Click View Files on the right side of the screen.](img/412e0fc058b71fb30353168facf344d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vPnv_-6y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://mattferderer.com/scrape-a-website-and-send-an-email-with-azure-functions-2-48c8a11a31647280d9436a0e12eab44f.gif)
 
 添加一个新的`project.json`文件，并添加以下文本。然后点击保存按钮:
 
@@ -131,7 +131,7 @@ public static Mail SendEmail(string input) {
 
 回到 Azure，通过在左侧菜单中单击应用程序的名称来打开功能应用程序设置。然后在“配置的功能”下，单击靠近底部的“应用程序设置”。(参见下面突出显示的链接)
 
-[![Click Application Settings under Configured features](../Images/ec4da2f748ac17abe7f6624897c05f8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4LmvcHcW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://mattferderer.com/scrape-a-website-and-send-an-email-with-azure-functions-3-b415cb520c04975e6c3f28dbef8b5f47.gif)
+[![Click Application Settings under Configured features](img/ec4da2f748ac17abe7f6624897c05f8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4LmvcHcW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://mattferderer.com/scrape-a-website-and-send-an-email-with-azure-functions-3-b415cb520c04975e6c3f28dbef8b5f47.gif)
 
 向下滚动到连接字符串上方的应用程序设置，然后单击添加新设置。
 

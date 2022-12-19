@@ -8,14 +8,14 @@ React.js 中需要理解的最重要的概念是组件。React 组件可以是�
 
 功能组件是反应组件的最简单形式。这是一个具有简单契约的简单函数:
 
-[![](../Images/75da8ff19e2ffd9d0b3831692e163d54.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5e0Drulo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AXL5uu7lggaRZdKRpWhU3Gw.png) 
+[![](img/75da8ff19e2ffd9d0b3831692e163d54.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5e0Drulo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AXL5uu7lggaRZdKRpWhU3Gw.png) 
 *截图来自我的 Pluralsight 课程— [React.js:入门](https://www.pluralsight.com/courses/react-js-getting-started)*
 
 函数组件接收一个属性对象，该对象通常被命名为 **props。**它返回看起来像 HTML 的东西，但实际上是一种特殊的 JavaScript 语法，叫做 [JSX](https://facebook.github.io/react/docs/introducing-jsx.html) 。
 
 一个**类组件**是定义一个 React 组件的更有特色的方式。它也像一个接收 props 的函数，但是该函数也将私有内部状态视为控制返回的 JSX 的附加输入。
 
-[![](../Images/1ce10cf47c80f6654e0cf63af25b617f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QqCn36Jy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AN2KU7pOcwZwKeOi3B-YBLQ.png) 
+[![](img/1ce10cf47c80f6654e0cf63af25b617f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QqCn36Jy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AN2KU7pOcwZwKeOi3B-YBLQ.png) 
 *截图来自我的 Pluralsight 课程— [React.js:入门](https://www.pluralsight.com/courses/react-js-getting-started)*
 
 这种私有的内部状态赋予了 React 的**反应**本性。当类组件的状态改变时，React 将在浏览器中重新呈现该组件。
@@ -24,7 +24,7 @@ React.js 中需要理解的最重要的概念是组件。React 组件可以是�
 
 让我们看一个组件的实际例子。非常简单的一个，没有任何输入，在一个`div`输出中有一个简单的`h1`。
 
-[![](../Images/3e30cbf49b35384c8cbb8693aea827fe.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wBlc7zoL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AiEMbKsYd4nCFiZ_yoRJvoA.png) 
+[![](img/3e30cbf49b35384c8cbb8693aea827fe.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wBlc7zoL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AiEMbKsYd4nCFiZ_yoRJvoA.png) 
 *截图来自我的 Pluralsight 课程— [React.js:入门](https://www.pluralsight.com/courses/react-js-getting-started)*
 
 在左侧，组件是用特殊的 JSX 语法编写的。
@@ -37,7 +37,7 @@ JSX 允许我们用非常接近我们习惯的 HTML 的语法来描述我们的�
 
 对于本文中的例子，我将使用 jsComplete 的 [React Playground](https://jscomplete.com/react) 。这是一个工具，你可以在浏览器中测试你的 JavaScript 和反应代码。不需要安装或配置任何东西。
 
-[![](../Images/dd2a93118c53629d95cc0c01cca5f5b7.png)T2】](https://jscomplete.com/react)
+[![](img/dd2a93118c53629d95cc0c01cca5f5b7.png)T2】](https://jscomplete.com/react)
 
 该工具有一个简单的双面板界面。左侧面板是编辑器，您可以在其中编写 JavaScript 和 React 代码。React 和 ReactDOM 的最新版本都已经预装在那里了。编辑也理解 JSX 扩展和 JavaScript 中所有的现代特性。这将允许我们专注于 React API 本身，而不是配置和编译 React 应用程序。
 
@@ -98,7 +98,7 @@ ReactDOM.render(<Button />, mountNode);
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/1059a2cb09f0affb9205ca2feee287a1.png)T2】](https://jscomplete.com/repl?j=Skl5GngO-)
+[![](img/1059a2cb09f0affb9205ca2feee287a1.png)T2】](https://jscomplete.com/repl?j=Skl5GngO-)
 
 本文中的所有代码示例在屏幕截图标题中都有一个链接，您可以在 jsComplete REPL 网站上编辑示例。
 
@@ -124,7 +124,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 `props`参数是一个对象，它保存了组件呈现时传递给它的所有值。
 
-[![](../Images/47815a38513c6cdbf18942d7fa57d4c6.png)T2】](https://jscomplete.com/repl?j=ByQm4nl_Z)
+[![](img/47815a38513c6cdbf18942d7fa57d4c6.png)T2】](https://jscomplete.com/repl?j=ByQm4nl_Z)
 
 ### 使组件交互
 
@@ -159,7 +159,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是多一点的代码，但是我们现在可以在按钮组件上使用私有状态了！
 
-[![](../Images/c118d64238a23d25369b72ba69bc40af.png)T2】](https://jscomplete.com/repl?j=BJCWI2gd-)
+[![](img/c118d64238a23d25369b72ba69bc40af.png)T2】](https://jscomplete.com/repl?j=BJCWI2gd-)
 
 要使用一个状态对象，我们首先需要初始化它。state 对象是一个简单的实例属性，所以我们可以在`Button`类的构造函数中初始化它。我们只需定义普通的构造函数(它在 React 中接收一个`props`对象)并调用`super`方法来实现组件的继承。
 
@@ -188,7 +188,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 “`this`”关键字指的是我们交给`ReactDOM`的组件实例。
 
-[![](../Images/a0830d1a7b88a94e4fe8a54a7a0c6243.png)T2】](https://jscomplete.com/repl?j=SJfwu2xuZ)
+[![](img/a0830d1a7b88a94e4fe8a54a7a0c6243.png)T2】](https://jscomplete.com/repl?j=SJfwu2xuZ)
 
 您可以尝试更改计数器状态，看看按钮将如何呈现您在状态中输入的值。
 
@@ -257,7 +257,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们可以使用 React 的内置`setState`方法来更新组件状态，该方法在每个类组件实例上都可用。
 
-[![](../Images/c38dff2a6ec0fa8ee3bea3bf1b06f965.png)T2】](https://jscomplete.com/repl?j=Sy-u46l_Z)
+[![](img/c38dff2a6ec0fa8ee3bea3bf1b06f965.png)T2】](https://jscomplete.com/repl?j=Sy-u46l_Z)
 
 该按钮现在将增加其标签每点击一次。
 

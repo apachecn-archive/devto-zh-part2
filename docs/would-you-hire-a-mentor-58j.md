@@ -6,4 +6,4 @@ dev.to，帮我出主意:)如果有一个按周雇用编程导师的服务(按�
 
 注意:不要与短语音咨询混淆。
 
-[![](../Images/916f87b65818dba4e4677a62357c9a4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--op_rOrHl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nw4goa9ld9mkcd20l6bq.png)
+[![](img/916f87b65818dba4e4677a62357c9a4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--op_rOrHl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nw4goa9ld9mkcd20l6bq.png)

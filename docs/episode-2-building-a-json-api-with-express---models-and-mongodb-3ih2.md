@@ -8,7 +8,7 @@
 
 如果您还没有，请在深入研究之前先回顾一下第一部分。一如既往，我们非常欢迎您提出问题、评论和反馈。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [纳森布兰德](https://github.com/NathanBland) / [核心](https://github.com/NathanBland/core)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [纳森布兰德](https://github.com/NathanBland) / [核心](https://github.com/NathanBland/core)
 
 ### “核心”视频系列的存储库
 

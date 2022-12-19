@@ -12,7 +12,7 @@
 
 如果我们看看 [Shopify](https://www.shopify.com/) 的例子，他们在网站上做得很好，强调他们的故事，然后在下面列出相关的功能。
 
-[![story_vs_features](../Images/ba726482bc336951fa58e06f10902d5c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s3JqST9Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.squadlytics.com/content/images/2018/08/story_vs_features.png)
+[![story_vs_features](img/ba726482bc336951fa58e06f10902d5c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s3JqST9Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.squadlytics.com/conteimg/2018/08/story_vs_features.png)
 
 *   **故事:**你可以控制你的品牌
 *   **功能:**自定义域名，主题，可定制 CSS

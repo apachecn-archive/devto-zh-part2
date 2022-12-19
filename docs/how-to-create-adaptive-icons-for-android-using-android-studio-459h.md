@@ -8,7 +8,7 @@
 
 <figure>
 
-[![Example: Old app icons](../Images/f0aa7067c0f5ea3b419e6ad5c77b2134.png "Old app icons")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sobvAIZ0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_E5BDCE34FA744C8B9CF5B8D37F689ADCFA70DD76E310D78941E0487F015653CD_1537327485177_Screen%2BShot%2B2018-09-19%2Bat%2B00.24.20.png)
+[![Example: Old app icons](img/f0aa7067c0f5ea3b419e6ad5c77b2134.png "Old app icons")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sobvAIZ0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_E5BDCE34FA744C8B9CF5B8D37F689ADCFA70DD76E310D78941E0487F015653CD_1537327485177_Screen%2BShot%2B2018-09-19%2Bat%2B00.24.20.png)
 
 <figcaption>Example: Old app icons</figcaption>
 
@@ -21,7 +21,7 @@
 
 <figure>
 
-[![Foreground icon image](../Images/4938347a18d2eb019f4d13f744eb2bc3.png "Foreground icon image")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IionBI2d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_4E9831D4455D570AE14137599E816F77C0D9972382FFC988D0AB1312B7DF216A_1537312779083_baseline_directions_bike_black_48.png)
+[![Foreground icon image](img/4938347a18d2eb019f4d13f744eb2bc3.png "Foreground icon image")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IionBI2d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_4E9831D4455D570AE14137599E816F77C0D9972382FFC988D0AB1312B7DF216A_1537312779083_baseline_directions_bike_black_48.png)
 
 <figcaption>Foreground icon image</figcaption>
 
@@ -39,7 +39,7 @@
 
 <figure>
 
-[![Foreground layer configuration](../Images/8af5ae38f1bf733c924ba42e9f84948e.png "Foreground layer configuration")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MRNRZqq3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_4E9831D4455D570AE14137599E816F77C0D9972382FFC988D0AB1312B7DF216A_1537313441920_Screen%2BShot%2B2018-09-18%2Bat%2B20.26.25.png)
+[![Foreground layer configuration](img/8af5ae38f1bf733c924ba42e9f84948e.png "Foreground layer configuration")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MRNRZqq3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_4E9831D4455D570AE14137599E816F77C0D9972382FFC988D0AB1312B7DF216A_1537313441920_Screen%2BShot%2B2018-09-18%2Bat%2B20.26.25.png)
 
 <figcaption>Foreground layer configuration</figcaption>
 
@@ -47,7 +47,7 @@
 
 <figure>
 
-[![Background layer configuarion](../Images/7ea631fd7f5cef24264e5b1e2b8dc25a.png "Background layer configuarion")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fTYSHeGH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_4E9831D4455D570AE14137599E816F77C0D9972382FFC988D0AB1312B7DF216A_1537313451765_Screen%2BShot%2B2018-09-18%2Bat%2B20.30.07.png)
+[![Background layer configuarion](img/7ea631fd7f5cef24264e5b1e2b8dc25a.png "Background layer configuarion")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fTYSHeGH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_4E9831D4455D570AE14137599E816F77C0D9972382FFC988D0AB1312B7DF216A_1537313451765_Screen%2BShot%2B2018-09-18%2Bat%2B20.30.07.png)
 
 <figcaption>Background layer configuarion</figcaption>
 
@@ -55,7 +55,7 @@
 
 <figure>
 
-[![Last screen and creation of assets](../Images/287466a38de82b564ad73186b836d439.png "Last screen and creation of assets")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NxBZvOka--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_4E9831D4455D570AE14137599E816F77C0D9972382FFC988D0AB1312B7DF216A_1537313504996_Screen%2BShot%2B2018-09-18%2Bat%2B20.31.35.png)
+[![Last screen and creation of assets](img/287466a38de82b564ad73186b836d439.png "Last screen and creation of assets")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NxBZvOka--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_4E9831D4455D570AE14137599E816F77C0D9972382FFC988D0AB1312B7DF216A_1537313504996_Screen%2BShot%2B2018-09-18%2Bat%2B20.31.35.png)
 
 <figcaption>Last screen and creation of assets</figcaption>
 
@@ -78,7 +78,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <figure>
 
-[![Example: Android 9, API 28 stock launcher](../Images/8ea161641fc782ceca06594ba6f1a829.png "Example: Android 9, API 28 stock launcher")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ubm3UBVK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_E5BDCE34FA744C8B9CF5B8D37F689ADCFA70DD76E310D78941E0487F015653CD_1537327521464_Screen%2BShot%2B2018-09-19%2Bat%2B00.25.03.png)
+[![Example: Android 9, API 28 stock launcher](img/8ea161641fc782ceca06594ba6f1a829.png "Example: Android 9, API 28 stock launcher")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ubm3UBVK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_E5BDCE34FA744C8B9CF5B8D37F689ADCFA70DD76E310D78941E0487F015653CD_1537327521464_Screen%2BShot%2B2018-09-19%2Bat%2B00.25.03.png)
 
 <figcaption>Example: Android 9, API 28 stock launcher</figcaption>
 
@@ -86,7 +86,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <figure>
 
-[![Example: Android 7.0, API 24, Smart Launcher](../Images/f0a5b87c320a03097939f8aaa0cd39be.png "Example: Android 7.0, API 24, Smart Launcher")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KO5Q90q3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_4E9831D4455D570AE14137599E816F77C0D9972382FFC988D0AB1312B7DF216A_1537317665511_Screen%2BShot%2B2018-09-18%2Bat%2B21.37.22.png)
+[![Example: Android 7.0, API 24, Smart Launcher](img/f0a5b87c320a03097939f8aaa0cd39be.png "Example: Android 7.0, API 24, Smart Launcher")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KO5Q90q3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_4E9831D4455D570AE14137599E816F77C0D9972382FFC988D0AB1312B7DF216A_1537317665511_Screen%2BShot%2B2018-09-18%2Bat%2B21.37.22.png)
 
 <figcaption>Example: Android 7.0, API 24, Smart Launcher</figcaption>
 

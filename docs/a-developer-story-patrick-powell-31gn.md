@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/prp1277/a-developer-story-patrick-powell-31gn>
 
-[![ExceltoCode](../Images/516828671a2d65827d0c166dcad50150.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3w8kuRwc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gi9nt80qlxw1e2pn7mut.png)
+[![ExceltoCode](img/516828671a2d65827d0c166dcad50150.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3w8kuRwc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gi9nt80qlxw1e2pn7mut.png)
 
 > 我已经试着写了大约 1，387，923，465 次类似的帖子，但现在是我真正点击*发送*的时候了
 

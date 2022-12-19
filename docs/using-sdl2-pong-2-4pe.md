@@ -116,7 +116,7 @@ SDL2 允许绘制像矩形这样的图元。我们在这种情况下使用填充
 
 编译并运行。
 
-[![](../Images/955f80d28e3c4cec920c1c78bb4d4275.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TVrLXeHa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/madjwskza2hixq0o6t3l.png)
+[![](img/955f80d28e3c4cec920c1c78bb4d4275.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TVrLXeHa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/madjwskza2hixq0o6t3l.png)
 
 ## 接下来是什么
 

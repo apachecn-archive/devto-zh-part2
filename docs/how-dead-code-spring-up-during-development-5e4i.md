@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/sadick/how-dead-code-spring-up-during-development-5e4i>
 
-[![](../Images/be90b4bac3ca545ded418a1cc441dade.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jqAFm2sC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://refactoring.guru/images/refactoring/content/smells/dead-code-01.png)
+[![](img/be90b4bac3ca545ded418a1cc441dade.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jqAFm2sC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://refactoring.guimg/refactoring/content/smells/dead-code-01.png)
 
 死代码是永远不会运行的代码，永远无法到达。
 **死代码的一些表现形式包括:**

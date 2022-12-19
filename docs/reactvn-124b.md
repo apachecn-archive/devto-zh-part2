@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/washingtonsteven/reactvn-124b>
 
-[![](../Images/02c326ed03733d5e3c16b4c081b81dae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2VboWAGB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://stevenwa.sh/static/featured_alpha_20180325-12b62c745e507a65ad151afab244d53d.gif)
+[![](img/02c326ed03733d5e3c16b4c081b81dae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2VboWAGB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://stevenwa.sh/static/featured_alpha_20180325-12b62c745e507a65ad151afab244d53d.gif)
 
 React VN 是一个视觉小说编辑器和播放器，用于播放和编写文本冒险。
 
@@ -50,4 +50,4 @@ React 设置是用 [Create React App](https://github.com/facebook/create-react-a
 
 ## 截图
 
-[![screenshot01](../Images/6f25945b957e5a88306f154b60ac1da5.png)](///static/screenshot01-89b755b63dbe2db5956d39a571d01197-a5f62.png)[![screenshot02](../Images/630a235fe68d3ed57f6b28cf1a621c7a.png)](///static/screenshot02-045ed90c2b510c65f9dfb731f94c6865-73fc3.png)[![screenshot03](../Images/af3ca3b1d3e6ebc105897535725035dd.png)](///static/screenshot03-fde671570e6f62c27055562d9c6c1597-27903.png)[![screenshot04](../Images/0ff15a9700d548c3882997ad97bccce9.png)T11】](///static/screenshot04-3b871aa51e4ee0cb1682e78476cf49bb-415b9.png)
+[![screenshot01](img/6f25945b957e5a88306f154b60ac1da5.png)](///static/screenshot01-89b755b63dbe2db5956d39a571d01197-a5f62.png)[![screenshot02](img/630a235fe68d3ed57f6b28cf1a621c7a.png)](///static/screenshot02-045ed90c2b510c65f9dfb731f94c6865-73fc3.png)[![screenshot03](img/af3ca3b1d3e6ebc105897535725035dd.png)](///static/screenshot03-fde671570e6f62c27055562d9c6c1597-27903.png)[![screenshot04](img/0ff15a9700d548c3882997ad97bccce9.png)T11】](///static/screenshot04-3b871aa51e4ee0cb1682e78476cf49bb-415b9.png)

@@ -8,7 +8,7 @@
 
 最初，该版本是为 ASP.Net 网络应用程序开发的，也用于 Windows 10 上的 UWP(通用 Windows 平台)应用程序。事实上，随着人们对技术的这种倾向，桌面应用程序将继续使用。Net 框架。除此之外，Xamarin 拥有基于较老的 Mono 实现的技术。NET，目标是 iOS、Android、Mac 和 Linux。
 
-[![Asp.Net Core 3.0](../Images/1e0a3c29266b35d644ed028fad292e26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jv2RL2f5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://csharpcorner-mindcrackerinc.netdna-ssl.com/article/net-core-3-0-is-coming-exciting-time-ahead-for-windows-desktop-applications/Images/1.png)
+[![Asp.Net Core 3.0](img/1e0a3c29266b35d644ed028fad292e26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jv2RL2f5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://csharpcorner-mindcrackerinc.netdna-ssl.com/article/net-core-3-0-is-coming-exciting-time-ahead-for-windows-desktop-applicatioimg/1.png)
 
 这家科技巨头甚至透露，ASP.Net 将继续平行前进，并将发布。网芯 3.0。由于他们对 web 和云应用程序的承诺保持不变，因此将 Windows 桌面应用程序添加为另一个受支持的工作负载不成问题。
 

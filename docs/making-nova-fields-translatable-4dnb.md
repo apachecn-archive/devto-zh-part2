@@ -45,7 +45,7 @@ public function fields(Request $request)
 
 准备就绪后，您的 Nova 资源将如下所示:
 
-[![nova-translatable in action](../Images/7c512c2704eb56dcaf7131b269c0039b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h0gOSnqV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/nova-translatable/screenshot.png)
+[![nova-translatable in action](img/7c512c2704eb56dcaf7131b269c0039b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h0gOSnqV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://freek.dev/uploads/media/nova-translatable/screenshot.png)
 
 ## 幕后
 

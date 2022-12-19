@@ -18,7 +18,7 @@
 
 Ruby 中实用的面向对象设计:敏捷入门——Sandi Metz
 
-[![Practical Object-Oriented Design in Ruby book cover](../Images/f60906d4eb43e0bf1418511fc9be6a33.png)T2】](https://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330/)
+[![Practical Object-Oriented Design in Ruby book cover](img/f60906d4eb43e0bf1418511fc9be6a33.png)T2】](https://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330/)
 
 你可能认为你了解 OOP，但是 Sandi 将向你展示更多的东西，以及正确的 OOP 设计如何让你写出**非常简单的可维护代码**。例子是用 Ruby 写的并不重要，概念是通用的，如果你熟悉任何一种 OOP 语言，你就会很好。
 
@@ -26,13 +26,13 @@ Ruby 中实用的面向对象设计:敏捷入门——Sandi Metz
 
 测试驱动开发:举例说明–Kent Beck
 
-[![Test-Driven Development By Example book cover](../Images/4beca1602ebef6f426265e3261d25307.png)T2】](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
+[![Test-Driven Development By Example book cover](img/4beca1602ebef6f426265e3261d25307.png)T2】](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 
 TDD 是一种开发风格，在这种风格中，您编写一个小测试，编写代码以通过测试，重构代码，并对每个新的代码行为重复相同的短周期。这些测试引导你进行更好的设计，同时为重构和修复 bug 提供安全保障。TDD by Example 是一本书，它的作者(或“再发现者”)描述了经典的技术，这种技术肯定会彻底改变你写代码的方式。
 
 在测试的引导下，开发面向对象的软件
 
-[![Growing Object-Oriented Software, Guided by Tests book cover](../Images/299f8687b2cbebcfb102974c682c57bf.png)T2】](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
+[![Growing Object-Oriented Software, Guided by Tests book cover](img/299f8687b2cbebcfb102974c682c57bf.png)T2】](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
 
 这本书涵盖了结合 OOP 设计、TDD 和使用模拟对象开发复杂代码库的许多基础知识。它描述了用决策、工具和技术从零开始构建一个系统，所有这些都显示了代码的演变。这是我的最爱之一，也可能是我最推荐的一个。
 

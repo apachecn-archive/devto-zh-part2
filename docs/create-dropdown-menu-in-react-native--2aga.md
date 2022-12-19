@@ -8,6 +8,6 @@
 
 [在反应原生](https://www.skptricks.com/2018/10/create-dropdown-menu-in-react-native.html)中创建下拉菜单
 
-[![](../Images/4388ba2a4209b16bc113d37e287c88be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U6W7sOWp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-sjWQyIJ8iN8/W7OM69QBIhI/AAAAAAAAB_w/3oiOEXhREysoz5TIDzw0oUNEjzcJOyNoQCLcBGAs/s640/drop.png)
+[![](img/4388ba2a4209b16bc113d37e287c88be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U6W7sOWp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-sjWQyIJ8iN8/W7OM69QBIhI/AAAAAAAAB_w/3oiOEXhREysoz5TIDzw0oUNEjzcJOyNoQCLcBGAs/s640/drop.png)
 
 [阅读更多...](https://www.skptricks.com/2018/10/create-dropdown-menu-in-react-native.html)

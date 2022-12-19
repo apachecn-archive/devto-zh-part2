@@ -4,7 +4,7 @@
 
 与其他移动平台相比，iOS 在安全性方面一直有着相当正面的形象。与拥有开源代码和数百家不同硬件生产商的 Android 不同，苹果不仅保留了对软件的完全控制，还保留了对移动设备硬件的完全控制。这就是为什么 iOS 开发人员创建安全漏洞的风险较低。这是否意味着，与 Android 不同，iOS 是 100%安全的？不，不是的。据 Symantec 称，iOS 易受所有九大威胁家族的影响，包括成千上万的恶意软件变种。虽然 iOS 驱动的设备不像植根于 Android 的设备那样容易受到攻击，但它们也有漏洞，恶意用户可以利用这些漏洞。
 
-[![Five weak spots of iOS app security and how to address them](../Images/f5211050ae0d37e855c156f75e90d7ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lRwKgCHu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ch2ymnyp430semrxo1x0.jpg)
+[![Five weak spots of iOS app security and how to address them](img/f5211050ae0d37e855c156f75e90d7ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lRwKgCHu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ch2ymnyp430semrxo1x0.jpg)
 
 ## 【飞马号】事件
 

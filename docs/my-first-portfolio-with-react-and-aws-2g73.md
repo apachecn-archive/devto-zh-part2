@@ -194,7 +194,7 @@ Route53 是 DNS 提供商，每个托管区域的固定价格为每月 0.51 美�
 
 **编辑:**
 我拿到了我的月结单！因此，这里有一个使用这种设置的 AWS 打印示例:
-[![aws billing](../Images/50a95b178e7ff07fc6dfcee95c06622c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MnQ1zjmr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ud902i91parjgi8ga9h8.JPG)
+[![aws billing](img/50a95b178e7ff07fc6dfcee95c06622c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MnQ1zjmr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ud902i91parjgi8ga9h8.JPG)
 
 *CloudFront* 为美洲/欧洲层提供了+2300 个请求。加上 *DNS* 路由和存储**总计 0.62 美元**。它不会变得比这更贵，因为预计交通量不会激增。
 

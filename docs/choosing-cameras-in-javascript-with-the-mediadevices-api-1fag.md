@@ -41,11 +41,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在你有了一个网站的公开版本，你可以在你的移动设备上打开它，这样你以后就可以测试它了。请确保您打开了 HTTPS URL，因为我们使用的 API 只能在安全的上下文中运行。
 
-[![The ngrok window shows two URLs you can use, pick the HTTPS one.](../Images/6e4a616c3fb3cac79c6d5ab3c04aeaa4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oSfgV--r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://twilioinc.wpengine.com/wp-content/uploads/2018/04/I_rv7Y2-mmWS5nsXOggIlsOtxhuUr3JAn0eRAtUtB7D-fm1e1nUF-VbUkGlihAhzgRuBJXZVeoeVgKvvXux5rjVx6SMWzMtFk8T3VvYtzdKTRlLYLe3sXnlYzBodFxMyZ2m17dQ.png)
+[![The ngrok window shows two URLs you can use, pick the HTTPS one.](img/6e4a616c3fb3cac79c6d5ab3c04aeaa4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oSfgV--r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://twilioinc.wpengine.com/wp-content/uploads/2018/04/I_rv7Y2-mmWS5nsXOggIlsOtxhuUr3JAn0eRAtUtB7D-fm1e1nUF-VbUkGlihAhzgRuBJXZVeoeVgKvvXux5rjVx6SMWzMtFk8T3VvYtzdKTRlLYLe3sXnlYzBodFxMyZ2m17dQ.png)
 
 该应用程序应该如下所示:
 
-[![The app should have a title saying 'Camera fun' with a button and an empty drop down box.](../Images/7433fb06d200b75857fc2d1e2e870b6d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C07jZrj0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://twilioinc.wpengine.com/wp-content/uploads/2018/04/h0iHFp3LTpszVoQGdl6tWCLGGZZCPW8xBTfuyrHPGl0idifAcMHRPe0lRIyO0we8fTWDbFed_Omw_7JQp6RCJrCHSzd-KCCPW3W6750qrihsKDReT3hZs7Jk6PI6GkR8AA9LAzQ.png)
+[![The app should have a title saying 'Camera fun' with a button and an empty drop down box.](img/7433fb06d200b75857fc2d1e2e870b6d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C07jZrj0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://twilioinc.wpengine.com/wp-content/uploads/2018/04/h0iHFp3LTpszVoQGdl6tWCLGGZZCPW8xBTfuyrHPGl0idifAcMHRPe0lRIyO0we8fTWDbFed_Omw_7JQp6RCJrCHSzd-KCCPW3W6750qrihsKDReT3hZs7Jk6PI6GkR8AA9LAzQ.png)
 
 ## 获取媒体流
 
@@ -84,7 +84,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 保存文件，重新加载页面，然后单击按钮。你应该会看到一个权限对话框，要求访问你的相机，一旦获得许可，你的视频就会出现在屏幕上。在你的电脑和手机上试一下，当我用 iPhone 试的时候，我选择的是前置摄像头。
 
-[![The camera app, now with my face in the previously blank space!](../Images/7b8970e1110859d101bfc857a88a269c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--57PBMH8G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://twilioinc.wpengine.com/wp-content/uploads/2018/04/Kda5qsIH1Wasn1kXz1lcn9hHd6p4p1wRaUeVLS_nheQgWnjJ9Y8l6lUvdSrKAwF28oLMNJptZ2u64N_4WmuYn7mp4TZKbk-CC0T5y87AhzCOD2Vv6qgQdBZMajxx2ZyNBwKKYf8.png)
+[![The camera app, now with my face in the previously blank space!](img/7b8970e1110859d101bfc857a88a269c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--57PBMH8G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://twilioinc.wpengine.com/wp-content/uploads/2018/04/Kda5qsIH1Wasn1kXz1lcn9hHd6p4p1wRaUeVLS_nheQgWnjJ9Y8l6lUvdSrKAwF28oLMNJptZ2u64N_4WmuYn7mp4TZKbk-CC0T5y87AhzCOD2Vv6qgQdBZMajxx2ZyNBwKKYf8.png)
 
 如果你用的是 iPhone，一定要在 Safari 中查看，因为这似乎不能在其他浏览器上使用。
 
@@ -141,7 +141,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 然而，在 iPhone 上，你会从我们的功能中看到一般命名为“相机 1”和“相机 2”的项目。在 iOS 上，除非您授予网站使用至少一台摄像机的权限，否则您将无法获得摄像机的标签。这使得我们的界面在选择相机时用处不大，因为即使你得到了设备的 ID，你也不能分辨哪个是哪个相机。
 
-[![On the iPhone you only see the labels we made up, 'Camera 1' and 'Camera 2'.](../Images/52160cae2bba98e83af7a1507933f526.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YasESyMq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://twilioinc.wpengine.com/wp-content/uploads/2018/04/lkBjDsPZk87_aN3ONBWXs22xmkmQg_plaua_hNfWTFRxQFiieHyB3EXxZwn5zncsEAKKVdONDx3drBnlcYJDU3niHGu1naOEdujZHLWvUE4aRt4Fro-K-Km1diPqUZGM-5KkE.png)
+[![On the iPhone you only see the labels we made up, 'Camera 1' and 'Camera 2'.](img/52160cae2bba98e83af7a1507933f526.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YasESyMq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://twilioinc.wpengine.com/wp-content/uploads/2018/04/lkBjDsPZk87_aN3ONBWXs22xmkmQg_plaua_hNfWTFRxQFiieHyB3EXxZwn5zncsEAKKVdONDx3drBnlcYJDU3niHGu1naOEdujZHLWvUE4aRt4Fro-K-Km1diPqUZGM-5KkE.png)
 
 我们还没有连接下拉选择来改变摄像机。在此之前，让我们看看另一种方式，我们可以影响我们想要选择的相机。
 
@@ -255,7 +255,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当你添加完所有的代码后，你的`app.js`应该看起来像[这样就完成了一个](https://github.com/philnash/mediadevices-camera-selection/blob/master/app.js)。刷新页面，你可以选择和改变相机。这在手机和桌面上都适用。
 
-[![The finished result, this is an animation showing that you can select one camera then change and go from viewing the back camera to the front camera.](../Images/d9a8391e9410dda7b09f9e1629506174.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AKF-v4yJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://twilioinc.wpengine.com/wp-content/uploads/2018/04/bKT1LdWTyA_RANLksFX5srORt6RRgCmVDSWoJj8Pzf3OSNkhfAi0_KWssgerqSaV-_Ty9WRKI8p8cQ-xFJd5nPFEyYQ70OS8nTefBpLrle54e3Tm1pKaJQX40BM-zgqLhTK9haI.png)
+[![The finished result, this is an animation showing that you can select one camera then change and go from viewing the back camera to the front camera.](img/d9a8391e9410dda7b09f9e1629506174.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AKF-v4yJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://twilioinc.wpengine.com/wp-content/uploads/2018/04/bKT1LdWTyA_RANLksFX5srORt6RRgCmVDSWoJj8Pzf3OSNkhfAi0_KWssgerqSaV-_Ty9WRKI8p8cQ-xFJd5nPFEyYQ70OS8nTefBpLrle54e3Tm1pKaJQX40BM-zgqLhTK9haI.png)
 
 ## 下一步
 

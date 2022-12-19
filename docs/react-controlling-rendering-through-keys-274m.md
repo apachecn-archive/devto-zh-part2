@@ -50,7 +50,7 @@ class Child extends Component {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Edit react-scroll-to](../Images/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/48zl4zoyv0)
+[![Edit react-scroll-to](img/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/48zl4zoyv0)
 
 在这个例子中，我们在*真*和*假*之间切换子组件的`key`道具。然后，我们通过回调跟踪子节点的每次卸载，以增加父节点的状态。当我们切换`key`道具时，我们会看到计数器每次都递增。这是因为 React 使用密钥来确定组件是否已经更改。因为我们每次都在更改密钥，所以 React 会看到我们的组件有更新，并重新呈现子组件。
 

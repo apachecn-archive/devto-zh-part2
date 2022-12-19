@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/chiangs/upgrading-to-angular-6-309p>
 
-[![](../Images/7f0b42af35193aaf10906f291bb8ef08.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mWMpY7k_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tk3tdc05xhqdgi8e4z7h.jpg)
+[![](img/7f0b42af35193aaf10906f291bb8ef08.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mWMpY7k_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tk3tdc05xhqdgi8e4z7h.jpg)
 
 ## 这么有棱角的 6 就 out 了！它带来了许多令人兴奋的东西，新的工具和更简单的方法来管理依赖关系的更新。
 

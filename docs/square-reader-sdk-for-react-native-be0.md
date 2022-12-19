@@ -10,7 +10,7 @@
 
 五分钟内就可以在本地安装并运行一个应用程序。我甚至能够在一个小时内获得一个自定义键盘，输入任意值(当然，我在尝试时对我的 React Native 有点生疏)。我也不是一个移动开发人员，同时在 iPhone 和 Android 模拟器上运行应用程序对于开发时有一个响应反馈循环来说是非常强大的。您可以在每个设备上启用实时重新加载，并在保存时立即反映您的所有更改。
 
-[![Live reloading a React Native Square Reader app in iOS and Android simultaneously!](../Images/6f6a699692395f929bc5d15931780c6d.png)](//downloads.ctfassets.net/1wryd5vd9xez/5PxRRCwiNi6j1MCgJxHgKz/3fa7de2d3a44061d8b14b0850f260c62/https___cdn-images-1.medium.com_max_3840_1_Mw1dOzMhFLZn-FMsMQdLKg.gif)*iOS 和 Android 同步直播重装一款 React 原生广场阅读器 app！*
+[![Live reloading a React Native Square Reader app in iOS and Android simultaneously!](img/6f6a699692395f929bc5d15931780c6d.png)](//downloads.ctfassets.net/1wryd5vd9xez/5PxRRCwiNi6j1MCgJxHgKz/3fa7de2d3a44061d8b14b0850f260c62/https___cdn-images-1.medium.com_max_3840_1_Mw1dOzMhFLZn-FMsMQdLKg.gif)*iOS 和 Android 同步直播重装一款 React 原生广场阅读器 app！*
 
 比方说，你带着我们的快速启动应用出去兜了一圈，想尝试制作自己的销售点应用。
 
@@ -52,7 +52,7 @@ class CheckoutScreen extends Component {
 
 您现在有了自己的键盘来输入要收费的金额。
 
-[![](../Images/50516a838b7ede01f3db25e9ce8da4ac.png)T2】](//images.ctfassets.net/1wryd5vd9xez/7aYw4nYAU3eJoFfI9IEa8w/41f85e0e5b181a0066c736c8db7bd2f2/https___cdn-images-1.medium.com_max_2000_1_CfyhDYh7qfcoE0K2KoHJnA.gif)
+[![](img/50516a838b7ede01f3db25e9ce8da4ac.png)T2】](//images.ctfassets.net/1wryd5vd9xez/7aYw4nYAU3eJoFfI9IEa8w/41f85e0e5b181a0066c736c8db7bd2f2/https___cdn-images-1.medium.com_max_2000_1_CfyhDYh7qfcoE0K2KoHJnA.gif)
 
 在这里你可以看到最终的自定义键盘是什么样子。我们有每个数字的按钮，我们可以清除值，我们只是在主`CheckoutScreen`组件中存储我们想要收取的当前值。如果我们放弃指控，这种状态甚至会持续下去。
 

@@ -5,7 +5,7 @@
 因为我沉迷于开发社区，所以我为所有开发人员创建了这个简单的项目，尤其是开源社区中想要为#hacktoberfest 做贡献的初学者。Dev-Connections 将帮助我们建立联系，在 github、linkedin 和 twitter 上关注彼此，以便进行交流。
 希望大家都来投稿:)
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [ this-mkhy ](https://github.com/this-mkhy) / [开发连接](https://github.com/this-mkhy/Dev-Connections)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [ this-mkhy ](https://github.com/this-mkhy) / [开发连接](https://github.com/this-mkhy/Dev-Connections)
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 

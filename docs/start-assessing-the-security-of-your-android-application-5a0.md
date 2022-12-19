@@ -23,7 +23,7 @@
 
 为了解释这一点，我将使用一个名为 **InsecureBank** 的故意易受攻击的 android 应用程序。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [ dineshshetty ](https://github.com/dineshshetty) / [安卓-安全银行 v2](https://github.com/dineshshetty/Android-InsecureBankv2)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [ dineshshetty ](https://github.com/dineshshetty) / [安卓-安全银行 v2](https://github.com/dineshshetty/Android-InsecureBankv2)
 
 ### 易受攻击的 Android 应用程序，供开发人员和安全爱好者了解 Android 的不安全性
 
@@ -31,9 +31,9 @@
 
 # InsecureBankv2 自述文件
 
-[![Black Hat Arsenal](../Images/222c276bce642dff7f41fe40b1e8e013.png)T2】](https://www.blackhat.com/eu-15/arsenal.html/)
+[![Black Hat Arsenal](img/222c276bce642dff7f41fe40b1e8e013.png)T2】](https://www.blackhat.com/eu-15/arsenal.html/)
 
-[![Black Hat Arsenal](../Images/80161ce8c904d27550c184ee19924306.png)T2】](https://www.blackhat.com/us-16/arsenal.html/)
+[![Black Hat Arsenal](img/80161ce8c904d27550c184ee19924306.png)T2】](https://www.blackhat.com/us-16/arsenal.html/)
 
 这是对我以前的一个项目——“不安全银行”的重大更新。这个易受攻击的 Android 应用程序被命名为“InsecureBankv2”，旨在让安全爱好者和开发人员通过测试这个易受攻击的应用程序来了解 Android 的不安全性。它的后端服务器组件是用 python 写的。它与 Python2 兼容。客户端组件(即 Android InsecureBank.apk)可以与源代码一起下载。此版本中当前包含的漏洞列表包括:
 
@@ -70,7 +70,7 @@
 
 如果你想在其他应用上做进一步的安全测试，你可以看看 Github 仓库，里面有很多 android 故意安装的易受攻击的 Android 应用
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [ xtiankisutsa ](https://github.com/xtiankisutsa) / [牛逼-手机-CTF](https://github.com/xtiankisutsa/awesome-mobile-CTF)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [ xtiankisutsa ](https://github.com/xtiankisutsa) / [牛逼-手机-CTF](https://github.com/xtiankisutsa/awesome-mobile-CTF)
 
 ### 这是一个基于移动的 CTF、报道和易受攻击的应用程序的精选列表。由于平台的流行，大多数都是基于 android 的。
 
@@ -222,7 +222,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这个工具很笨。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [像素度](https://github.com/Pixplicity) / [矮胖子机器人](https://github.com/Pixplicity/humpty-dumpty-android)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [像素度](https://github.com/Pixplicity) / [矮胖子机器人](https://github.com/Pixplicity/humpty-dumpty-android)
 
 ### Android 的简单文件转储实用程序
 
@@ -387,14 +387,14 @@ Enter fullscreen mode Exit fullscreen mode
 
 但是，和往常一样，有一个工具可以用图形化的方式打开和读取数据库。
 是 SQLite 的 [DB 浏览器。
-DB Browser for SQLite 是一款高质量、可视化的开源工具，用于创建、设计和编辑与 SQLite 兼容的数据库文件。](http://sqlitebrowser.org/) [![DB Browser for SQLite](../Images/41539c6ce720811931090cdbb2f5d535.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iT4KRjzi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/sqlitebrowser/sqlitebrowser/master/images/sqlitebrowser.png)
+DB Browser for SQLite 是一款高质量、可视化的开源工具，用于创建、设计和编辑与 SQLite 兼容的数据库文件。](http://sqlitebrowser.org/) [![DB Browser for SQLite](img/41539c6ce720811931090cdbb2f5d535.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iT4KRjzi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/sqlitebrowser/sqlitebrowser/mastimg/sqlitebrowser.png)
 
 对 mydb 文件使用 DB Browser SQLite。现在您可以看到数据库的表格和值。
 
-[![InsecureBankv2-DBBrowser.png](../Images/e538342e5fbe008b9eae4db4d9e85313.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gNZ2b1Un--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AZOS3sC9K0gBYpHsdyE82sw.png)
+[![InsecureBankv2-DBBrowser.png](img/e538342e5fbe008b9eae4db4d9e85313.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gNZ2b1Un--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AZOS3sC9K0gBYpHsdyE82sw.png)
 
 如果您查看“names”表，可以看到什么叫做“用户枚举”。我可以看到连接到应用程序的用户的登录信息。
-[![InsecureBankv2-UserEnumeration.png](../Images/04d9ab7f2e3e57444b7270ee28465c2b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gFP9TiXC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AKw08UmlHD8L0NjJ5ByvXXw.png)
+[![InsecureBankv2-UserEnumeration.png](img/04d9ab7f2e3e57444b7270ee28465c2b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gFP9TiXC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AKw08UmlHD8L0NjJ5ByvXXw.png)
 
 > 但这并不重要！！！我的意思是，每个人都知道我的登录，但他们不知道我的密码，所以这不是那种问题。
 

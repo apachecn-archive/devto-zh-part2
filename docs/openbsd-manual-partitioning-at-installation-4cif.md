@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nabbisen/openbsd-manual-partitioning-at-installation-4cif>
 
-[![partitioning section when installing openbsd](../Images/a9525c4ab6dc1ecffe78a0b7385b8be2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Sb9YL0lo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/54u4m2uvpu16ucbe04hb.png)
+[![partitioning section when installing openbsd](img/a9525c4ab6dc1ecffe78a0b7385b8be2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Sb9YL0lo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/54u4m2uvpu16ucbe04hb.png)
 
 安装 OpenBSD 时，在分区部分，安装程序会询问选择哪个选项:
 
@@ -21,7 +21,7 @@
 
 选项后面是 [`disklabel`](https://man.openbsd.org/disklabel) 运行:
 
-[![disklabel](../Images/9fe28a1c42c26728b792926af6180519.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aHwOB3_s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jqzq377do29cpqo2302s.png)
+[![disklabel](img/9fe28a1c42c26728b792926af6180519.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aHwOB3_s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jqzq377do29cpqo2302s.png)
 
 我们可以通过这些命令管理分区:
 

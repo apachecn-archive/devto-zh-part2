@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/chris_bertrand/my-transition-from-net-to-salesforce-my-thoughts-and-the-challenges-so-far-2pcg>
 
-[![Image result for microsoft logo](../Images/9e385a15ea488d64804bfddb879e5f6f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iDc1w-yL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blogs.microsoft.com/uploads/2012/08/8867.Microsoft_5F00_Logo_2D00_for_2D00_screen.jpg)
+[![Image result for microsoft logo](img/9e385a15ea488d64804bfddb879e5f6f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iDc1w-yL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blogs.microsoft.com/uploads/2012/08/8867.Microsoft_5F00_Logo_2D00_for_2D00_screen.jpg)
 
 在微软的生态系统中呆了近十年，我决定是时候改变了。
 
@@ -28,7 +28,7 @@
 
 你真的想这么做吗？或者你用这些知识为你的大脑创造一条新的路径。
 
-[![Related image](../Images/f102ba1583bccbdfceddf418c2424484.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uBOE48OG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.soulseeds.com/wp-content/uploads/2012/06/make-your-own-path.jpg)
+[![Related image](img/f102ba1583bccbdfceddf418c2424484.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uBOE48OG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.soulseeds.com/wp-content/uploads/2012/06/make-your-own-path.jpg)
 
 我认为在这个问题上还有很多要讨论的，但本质上是的，正如标题所示，我走的路是 Salesforce！
 
@@ -36,7 +36,7 @@
 
 ### 我为什么选择 Salesforce？
 
-[![Image result for salesforce.com logo](../Images/1763ab81a8ce6c7fe10a2e14460efc84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LBGkCx8u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Salesforce_logo.svg/1200px-Salesforce_logo.svg.png)
+[![Image result for salesforce.com logo](img/1763ab81a8ce6c7fe10a2e14460efc84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LBGkCx8u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Salesforce_logo.svg/1200px-Salesforce_logo.svg.png)
 
 Salesforce 比大多数人想象的要复杂得多。Saleforce 是云，每个实例都托管在云中！AWS 是 Salesforce 的一个重大成功案例:
 
@@ -76,7 +76,7 @@ Salesforce 的入门非常简单。由于产品在云中，您只需请求一个
 
 ### 小道的起点
 
-[![Image result for trailhead logo](../Images/52fa0c2245a598e972fb6d2c9d69053c.png)T2】](https://trailhead.salesforce.com/en/home)
+[![Image result for trailhead logo](img/52fa0c2245a598e972fb6d2c9d69053c.png)T2】](https://trailhead.salesforce.com/en/home)
 
 Trailhead 为学习过程增加了游戏化。效果出奇的好。到目前为止，我已经获得了 37 个徽章和 48，037 个积分。这些都是通过完成路径获得的，路径包括模块，有选择题或动手练习。所有这些的真正好处是，Salesforce 通过直接在您的环境中运行单元测试来检查您的完整实现。因此，尽管读完某些部分可能会花更长的时间，但这比阅读或观看要有效得多。
 

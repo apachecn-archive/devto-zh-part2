@@ -58,7 +58,7 @@ Flutter 有清晰结构化的文档，而 React Native 的文档不清晰混乱�
 
 **结论**
 
-[![Comparison of Flutter vs React Native](../Images/6a7b66397c1fcbf4bf49b2f60d9536cc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5OlI_Tnz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vccuio3zu2rza2f3klp8.png) 
+[![Comparison of Flutter vs React Native](img/6a7b66397c1fcbf4bf49b2f60d9536cc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5OlI_Tnz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vccuio3zu2rza2f3klp8.png) 
 所以我们为您提供[**Flutter vs React Native**](https://hackr.io/blog/react-native-vs-flutter)开源、跨平台 app 开发框架的详细对比。总之，这两种框架在特定的应用中都有各自的重要性。Flutter 的 app 性能更高。其标准支持 60 fps 动画。但它的行业采用率较低，因为已知的应用程序只有 Hamilton 和 Flutter Gallery。在 RN (React Native)的情况下，app 性能低于 Flutter，因为它需要 JavaScript Bridge 与本机组件进行交互，但其行业采用率高于 Flutter 框架。RN 被脸书、Instagram、沃尔玛、Skype、LinkedIn、Airbnb 等采用。n 都是热门应用。
 
 如果你正在寻找颤振教程，然后 [**点击这里**](https://hackr.io/tutorials/learn-flutter) 并获得最佳教程。

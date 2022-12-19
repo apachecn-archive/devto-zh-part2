@@ -12,7 +12,7 @@
 
 在撰写本文时，AWS 的价值估计为 2500 亿美元(是的，这是十亿美元的 B ),被全球数千家公司和开发者使用。
 
-[![AWS Products](../Images/4c035332599a743965f740bbf9cc70d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s7C2KCVL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-aws/aws-vue-aws-services-f3354108f66c27351ccccb6ca56b01a402de9ce59e2e9f7c9640dfd4612f7e1b.png)
+[![AWS Products](img/4c035332599a743965f740bbf9cc70d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s7C2KCVL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-aws/aws-vue-aws-services-f3354108f66c27351ccccb6ca56b01a402de9ce59e2e9f7c9640dfd4612f7e1b.png)
 
 ## 你将建造什么
 
@@ -60,7 +60,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 init 方法还应该安装应用程序的依赖项。如果由于某种原因没有安装，您可以通过`npm install`安装它们。最后，打开你最喜欢的浏览器，导航到`http://localhost:8080`。你应该看到前端活了过来！
 
-[![Welcome to Your Vue.js App](../Images/c4d134edc0aca6662ae2f654d6cb6056.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wLPTboXT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-aws/aws-vue-2-3b599d0abb7e513ff101f9ae7c1f1d221b709c60b704272c451938b5dfbde9c5.png)
+[![Welcome to Your Vue.js App](img/c4d134edc0aca6662ae2f654d6cb6056.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wLPTboXT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-aws/aws-vue-2-3b599d0abb7e513ff101f9ae7c1f1d221b709c60b704272c451938b5dfbde9c5.png)
 
 ## 关于单页应用
 
@@ -72,7 +72,7 @@ init 方法还应该安装应用程序的依赖项。如果由于某种原因没
 
 相反，在 SPA 中，只有对静态文件的初始请求，然后 JavaScript 动态地重写当前页面。当你的用户浏览你的应用程序时，对后续页面的请求在本地被解析，不需要对服务器进行 HTTP 调用。
 
-[![SPA versus Traditional Web Server](../Images/bd53a35c5029f78c6e0dcb8b49292671.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lg8vOoru--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-aws/aws-vue-3-0a209e13e3a4db06c3b4f2b833fb872475de7413aa8dcc5c2e7c74bcda327afa.png)
+[![SPA versus Traditional Web Server](img/bd53a35c5029f78c6e0dcb8b49292671.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lg8vOoru--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-aws/aws-vue-3-0a209e13e3a4db06c3b4f2b833fb872475de7413aa8dcc5c2e7c74bcda327afa.png)
 
 ## Vue-路由器和创建附加路由
 
@@ -187,7 +187,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这也给了你一个使用 vue-router 的历史模式的主要警告的实践经验。运行`serve ./dist`后，点击“转到安全页面”。您应该会看到一个 404 错误。
 
-[![404 Error](../Images/158a70acabd6bde02ad46fb7e15855de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TTcv_6Kj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-aws/aws-vue-4-4e2d642816a7f7e0dc0cdfd5b8fed1775a577dceb7fc83dce9f9fa424625975b.png)
+[![404 Error](img/158a70acabd6bde02ad46fb7e15855de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TTcv_6Kj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-aws/aws-vue-4-4e2d642816a7f7e0dc0cdfd5b8fed1775a577dceb7fc83dce9f9fa424625975b.png)
 
 ## AWS 入门
 
@@ -213,7 +213,7 @@ Enter fullscreen mode Exit fullscreen mode
 *   单击“创建存储桶”并输入存储桶名称。 ***重要*** :桶名在整个 AWS 平台上是唯一的。我为这篇文章选择了`bparise-secure-app-client`,但是你可能需要在命名上有所创新！
 *   点击左下方的“创建”。
 
-[![Create S3 Bucket](../Images/1c586e2677bbfcc56d0d4ac0564b0b3a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bEDGR1Vf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-aws/aws-vue-create-bucket-a5ffc62fd50b798e0aacc01e348f4b2e9b0b39b6166406125258ffb2cd067165.png)
+[![Create S3 Bucket](img/1c586e2677bbfcc56d0d4ac0564b0b3a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bEDGR1Vf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-aws/aws-vue-create-bucket-a5ffc62fd50b798e0aacc01e348f4b2e9b0b39b6166406125258ffb2cd067165.png)
 
 现在，您应该看到您的存储桶已列出。接下来，让我们将其配置为静态网站托管。
 
@@ -221,11 +221,11 @@ Enter fullscreen mode Exit fullscreen mode
 *   点击“静态网站托管”框
 *   选取“使用此桶来托管网站”，并将“index.html”添加为索引文稿。点击“保存”。
 
-[![Static website hosting](../Images/e58a2b870cf3699066e02c2cd7599cc0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uRHnJCJe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-aws/aws-vue-5-c1c882a4a2c6234f4458ada7b1a93e9f54def19f77668363fe17d92284914413.png)
+[![Static website hosting](img/e58a2b870cf3699066e02c2cd7599cc0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uRHnJCJe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-aws/aws-vue-5-c1c882a4a2c6234f4458ada7b1a93e9f54def19f77668363fe17d92284914413.png)
 
 在静态网站托管框的顶部，您应该会看到一个“端点”的 URL。这是可公开访问的 URL，用于查看您的静态网站。在新的浏览器窗口中打开链接，您应该会看到以下内容:
 
-[![403 Forbidden](../Images/db88329a041eb28f3282ae642a945dd9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8bFSzIdU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-aws/aws-vue-6-695d376b9163579abc838bd663abfcddbf34fee2f48a42c157a3bf5f13cd4341.png)
+[![403 Forbidden](img/db88329a041eb28f3282ae642a945dd9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8bFSzIdU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-aws/aws-vue-6-695d376b9163579abc838bd663abfcddbf34fee2f48a42c157a3bf5f13cd4341.png)
 
 #### 拒绝访问和 S3 斗策略
 
@@ -259,13 +259,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 在存储桶策略编辑器上单击“保存”。如果正确设置了策略，您应该会注意到显示了一个新错误:
 
-[![This bucket has public access](../Images/c6255b1aefe9b60ed9462842fe4398d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f6012PrH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-aws/aws-vue-8-868ab6f4049d3c34e9b56032e678b2bdb784bbec76a95d67507b6980b79f3874.png)
+[![This bucket has public access](img/c6255b1aefe9b60ed9462842fe4398d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f6012PrH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-aws/aws-vue-8-868ab6f4049d3c34e9b56032e678b2bdb784bbec76a95d67507b6980b79f3874.png)
 
 这个警告是一个很好的建议，也是所有 S3 人的经验法则。但是，因为我们的 bucket 专门用于托管静态网站，所以我们不必担心任何人访问 bucket 中的文件，他们不应该这样做。
 
 返回浏览器并刷新端点。您现在应该会看到 404 Not Found 错误。这个错误更容易解决，因为您的 bucket 中还没有任何文件。
 
-[![404 index.html not found](../Images/5cc7f31159450920fbf7e3b843e1beee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aOIxaeEH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-aws/aws-vue-9-2f229a3c2e4316c75d8ac17205baf6f51fc94cb6aa1d535967e6d37ffc81a8c1.png)
+[![404 index.html not found](img/5cc7f31159450920fbf7e3b843e1beee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aOIxaeEH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-aws/aws-vue-9-2f229a3c2e4316c75d8ac17205baf6f51fc94cb6aa1d535967e6d37ffc81a8c1.png)
 
 ## 使用 aws-cli 部署到 AWS
 
@@ -308,7 +308,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 标签回到你的 S3 桶端点，你应该看到你的网站托管在 S3！
 
-[![Vue.js on S3](../Images/5d7fdcacc9858feb3d64a86454379dac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uJ9Axneo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-aws/aws-vue-10-8999e46b88d1e6624a4ff379427e6e4539dcb485e4406812e81d5b5c5ecdfd71.png)
+[![Vue.js on S3](img/5d7fdcacc9858feb3d64a86454379dac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uJ9Axneo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-aws/aws-vue-10-8999e46b88d1e6624a4ff379427e6e4539dcb485e4406812e81d5b5c5ecdfd71.png)
 
 为了方便起见，将下面的脚本条目添加到`package.json`中，这样当您想要同步文件时就可以运行`npm run deploy`。
 
@@ -326,7 +326,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 CloudFront 是一个全球内容交付网络(CDN ),可以安全地向全球用户交付内容(网站、文件、视频等)。在撰写本文时，CloudFront 支持超过 50 个边缘位置:
 
-[![CloudFront Locations](../Images/ace08c7205ee313d329b80fd446dc7c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4joFvhNI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-aws/aws-vue-11-0c4ee34a848353bfdbfefe5177c30dfd0c05f94d5d4f61e5b8c48b22b0173f0a.png)
+[![CloudFront Locations](img/ace08c7205ee313d329b80fd446dc7c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4joFvhNI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-aws/aws-vue-11-0c4ee34a848353bfdbfefe5177c30dfd0c05f94d5d4f61e5b8c48b22b0173f0a.png)
 
 设置一个 CloudFront 发行版只需要几分钟，因为你的文件已经存储在 S3 了。
 
@@ -342,7 +342,7 @@ CloudFront 是一个全球内容交付网络(CDN ),可以安全地向全球用�
 
 在您等待的时候，您需要配置您的发行版来处理 vue-router 的历史模式。单击新发行版的 ID，然后单击“错误页面”选项卡。添加以下错误页面。
 
-[![CloudFront Error Redirects](../Images/4342e37363512f449fcc8ff8a570cb8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XVBofIiQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-aws/aws-vue-1-b91c1744fddb9b2bf0ab94e3852ce891eb55538b2211d26777c78933df4b18af.png)
+[![CloudFront Error Redirects](img/4342e37363512f449fcc8ff8a570cb8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XVBofIiQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-aws/aws-vue-1-b91c1744fddb9b2bf0ab94e3852ce891eb55538b2211d26777c78933df4b18af.png)
 
 这些错误页面配置将指示 CloudFront 用`./index.html`响应任何 404/403。瞧啊。
 
@@ -358,7 +358,7 @@ CloudFront 是一个全球内容交付网络(CDN ),可以安全地向全球用�
 
 **注意:**确保在输入您的 CloudFront URL 时使用 HTTPS。
 
-[![Okta Application Settings](../Images/b18a6c88bdcad6be34fb74dba94e394c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EL8NQVTg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-aws/aws-vue-13-77fb3edeab511e863be11ac8d61e7ba759ffe574ee4010ebf3896cbfbbe63cd9.png)
+[![Okta Application Settings](img/b18a6c88bdcad6be34fb74dba94e394c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EL8NQVTg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-aws/aws-vue-13-77fb3edeab511e863be11ac8d61e7ba759ffe574ee4010ebf3896cbfbbe63cd9.png)
 
 记下“常规”选项卡底部的“客户端 ID ”,因为您将需要它来配置您的应用程序。
 
@@ -485,7 +485,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在您的终端中，通过`npm run dev`重启开发服务器。切换到您的浏览器并打开`http://localhost:8080`。如果你点击“登录”或“转到安全页面”(受保护的`/secure`路线)，你应该得到 Okta 的认证流程。
 
-[![Okta Sign-In](../Images/7a7f58936bc26a0e8cc44bb0042171a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ubrkBBRI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-aws/aws-vue-14-4de9c6592c4f072f5ee738fc56334a47da9bc205a8c65a87b9fdb3c355b01ac7.png)
+[![Okta Sign-In](img/7a7f58936bc26a0e8cc44bb0042171a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ubrkBBRI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-aws/aws-vue-14-4de9c6592c4f072f5ee738fc56334a47da9bc205a8c65a87b9fdb3c355b01ac7.png)
 
 单击其中任何一个都应该显示您已登录，并且应该能够访问安全页面。
 
@@ -646,7 +646,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 返回浏览器并重新加载 web 应用程序。导航到`http://localhost:8080/secure`，您应该会看到 API 调用的结果。
 
-[![Results of API call](../Images/07405f8a0cf55dcf6c975b0824ab1abb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zfpzwfXG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-aws/aws-vue-15-399903d818429474627b456f22f6ea56422f3d64706d55a797024092f0126c38.png)
+[![Results of API call](img/07405f8a0cf55dcf6c975b0824ab1abb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zfpzwfXG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-aws/aws-vue-15-399903d818429474627b456f22f6ea56422f3d64706d55a797024092f0126c38.png)
 
 ## 配置无服务器，部署 Express API
 

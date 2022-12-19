@@ -8,7 +8,7 @@
 
 安德鲁·韦尔奇
 
-[![Webpack 4 Annotated Config](../Images/24b71841c7d99a735a3954dbc0139757.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FZ2NfTb---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/2176/webpack-4-annotated-config.jpg)
+[![Webpack 4 Annotated Config](img/24b71841c7d99a735a3954dbc0139757.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FZ2NfTb---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/2176/webpack-4-annotated-config.jpg)
 
 建立一个现代化的网站已经成为应用程序开发的重点。网站被期望做的不仅仅是标记网站，因为它们承担了传统应用的功能。
 
@@ -20,7 +20,7 @@
 
 web pack 4 拥有一些令人惊叹的改进，最吸引我的是它的构建速度有多快。所以我决定收养它。
 
-[![Buckle Up I Want To Try Something](../Images/f6ba996547d0cb7dad63015f8ba8d9ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ecvRhUnH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_100_line/buckle-up-i-want-to-try-something.jpg)
+[![Buckle Up I Want To Try Something](img/f6ba996547d0cb7dad63015f8ba8d9ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ecvRhUnH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_100_line/buckle-up-i-want-to-try-something.jpg)
 
 振作起来，因为这是一篇充满大量信息的长篇文章。
 
@@ -65,7 +65,7 @@ web pack 4 拥有一些令人惊叹的改进，最吸引我的是它的构建速
 
 正如在[文章](https://dev.to/gaijinity/a-pretty-website-isn-8217-t-enough-1nbj-temp-slug-3932740)中所讨论的，网站性能是不够的，网站性能一直是我关心的一个重要问题，所以在本 web pack 配置中也关注这一点并不令人惊讶。
 
-[![Webpack Black Box](../Images/5e0804d82fb302f91d8acd091d3c2d08.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---G-B5b9A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/webpack-black-box.jpg)
+[![Webpack Black Box](img/5e0804d82fb302f91d8acd091d3c2d08.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---G-B5b9A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/webpack-black-box.jpg)
 
 下面是我的观点，我希望 ed web pack 为我做的事情，以及我希望 ed 在我的构建过程中包含的技术:
 
@@ -86,7 +86,7 @@ web pack 4 拥有一些令人惊叹的改进，最吸引我的是它的构建速
 
 唷，真是一份雄心勃勃的清单！
 
-[![Ambitious Feature List Webpack](../Images/2fe0fa62a67faa73de9582d933208c59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kptslgfR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/ambitious-feature-list-webpack.jpg)
+[![Ambitious Feature List Webpack](img/2fe0fa62a67faa73de9582d933208c59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kptslgfR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/ambitious-feature-list-webpack.jpg)
 
 还有更多的东西，比如 JavaScript 的自动变形，CSS 的迷你变形，以及我们期望从前端构建系统中得到的其他标准东西。
 
@@ -143,7 +143,7 @@ web pack 4 拥有一些令人惊叹的改进，最吸引我的是它的构建速
 
 这里有一张图表，展示了所有这些是如何组合在一起的:
 
-[![Webpack Config Text Solid Sm](../Images/681a1f73cd3875b2d8e20cdcfc33cc44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VEzKY6nF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_992x1315_crop_center-center_100_line/webpack-config-text-solid-sm.png)
+[![Webpack Config Text Solid Sm](img/681a1f73cd3875b2d8e20cdcfc33cc44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VEzKY6nF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_992x1315_crop_center-center_100_line/webpack-config-text-solid-sm.png)
 
 这样做的目的是，你只需要编辑项目之间的黄金色标(`.env` & `webpack.settings.js`)中的内容。
 
@@ -1070,7 +1070,7 @@ module.exports = merge(
 
 仪表板插件让我们感觉像一名宇航员，带着 fan cy web pack build HUD:
 
-[![Webpack Dashboard Plugin](../Images/0cdba79a5a19e1ff3d2edd52efee7645.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xZNBKvsM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x699_crop_center-center_100_line/webpack-dashboard-plugin.png)
+[![Webpack Dashboard Plugin](img/0cdba79a5a19e1ff3d2edd52efee7645.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xZNBKvsM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x699_crop_center-center_100_line/webpack-dashboard-plugin.png)
 
 我发现仪表板开发界面比默认的 web pack 进度滚动更有用。
 
@@ -1188,7 +1188,7 @@ const configureBundleAnalyzer = (buildType) => {
 
 这使用了 [Web pack 捆绑包和一个分析器](http://www.npmjs.com/package/webpack-bundle-analyzer)插件来为我们的现代和合法捆绑包生成一个报告，该报告产生一个自包含的交互式 HTML 页面，允许您探索 Web pack 生成的捆绑包中的确切内容。
 
-[![Webpack Bundle Analyzer](../Images/53aacefbdad2eb2b64b8038a94e5f3f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OcsUcXER--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/webpack-bundle-analyzer.jpg)
+[![Webpack Bundle Analyzer](img/53aacefbdad2eb2b64b8038a94e5f3f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OcsUcXER--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/webpack-bundle-analyzer.jpg)
 
 我发现它非常有用，可以帮助我缩小尺寸，并确切地了解 web pack 是如何构建的，所以我将它作为我产品构建过程的一部分。
 
@@ -1912,7 +1912,7 @@ module.exports = [
 
 如果你没有使用 [Craft CMS 3，](http://craftcms.com/)你可以安全地跳过这一节。它只是提供了一些有用的集成信息。
 
-[![Twigpack Plugin Logo Lg](../Images/66e206d265200904fa45f015bead09c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---NwxxMZE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/twigpack-plugin-logo-lg.jpg)
+[![Twigpack Plugin Logo Lg](img/66e206d265200904fa45f015bead09c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---NwxxMZE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/twigpack-plugin-logo-lg.jpg)
 
 我写了一个名为 [Twig pack](http://github.com/nystudio107/craft-twigpack) 的免费插件，可以很容易地将我们的 fan cy web pack 构建与 Craft CMS 3 集成。
 
@@ -2016,7 +2016,7 @@ module.exports = [
 
 啊，那是相当深的潜水！当我第一次在 web pack 中使用吕德时，我很快意识到它是一个非常强大的工具，具有非常强大的功能。你潜多深取决于你想潜多远。
 
-[![Webpack Deep Dive](../Images/0ad175780e21dc8dc4daf023f49fe4e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Tgxx2wEj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/webpack-deep-dive.jpg)
+[![Webpack Deep Dive](img/0ad175780e21dc8dc4daf023f49fe4e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Tgxx2wEj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nystudio107-ems2qegf7x6qiqq.netdna-ssl.com/img/blog/_1200x675_crop_center-center_82_line/webpack-deep-dive.jpg)
 
 对于这里提交的所有内容的完整源代码，请查看 **[公告-web pack-4-con 图](http://github.com/nystudio107/annotated-webpack-4-config)** github 报告。
 

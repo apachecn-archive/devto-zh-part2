@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/perigk/doctests-the-shy-giant-of-testing-modules-3g74>
 
-[![](../Images/b244aad9072a75b0f1fbc47b64125eb6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rK_651r9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/568/1%2AeMH1zFW_YagZqorGErpcVg.jpeg) 
+[![](img/b244aad9072a75b0f1fbc47b64125eb6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rK_651r9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/568/1%2AeMH1zFW_YagZqorGErpcVg.jpeg) 
 
 <figcaption>奈德·博罗米尔·史塔克同意</figcaption>
 
@@ -33,7 +33,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 ### 当真？
 
-[![](../Images/eff60d333ed25da6aa6c93aad6787b5e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HYsUCLXx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/236/1%2A9UAvMlcfo2ZROWRPa3HODA.jpeg)T3】冷静下来的帕特里克
+[![](img/eff60d333ed25da6aa6c93aad6787b5e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HYsUCLXx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/236/1%2A9UAvMlcfo2ZROWRPa3HODA.jpeg)T3】冷静下来的帕特里克
 
 总的来说，python 不时地引入了许多直观的、令人心碎的特性，这些特性现在已经成为一些主要语言的主流。为什么这个也不行？
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/contentful_blog/creating-classes-from-your-content-model-4pe4>
 
-[![Creating classes from your content model](../Images/c72f7b351fb5f9676a042bd11b1aa536.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JgRNkSvN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/5TFXhevTkkIQi06s20gm4g/81790f0d8e0423db1027dfaeb71539d3/27-June-Classes-from-your-content-model-update.png)
+[![Creating classes from your content model](img/c72f7b351fb5f9676a042bd11b1aa536.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JgRNkSvN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/5TFXhevTkkIQi06s20gm4g/81790f0d8e0423db1027dfaeb71539d3/27-June-Classes-from-your-content-model-update.png)
 
 在我之前的文章中，我展示了如何使用 Contentful。CodeFirst 包，让你的 C#类作为 Contentful 中内容模型的基础。但是，如果您的内容模型已经存在，并且您想要创建相应的强类型 C#模型，会发生什么呢？要写的样板代码太多了——今天我很高兴发布一个新工具来帮助你做到这一点。
 
@@ -21,7 +21,7 @@
 contentful.modelscreator.cli -s qz0n5cdakyl9 -a df2a18b8a5b4426741408fc95fa4331c7388d502318c44a5b22b167c3c1b1d03 
 ```
 
-[![Initial result when tested with credentials from Example App](../Images/10a31f99c87c40835893c02796eb9b6f.png)T2】](//images.ctfassets.net/fo9twyrwpveg/1uEbm5HDTSUki6i8EgwGS/69a787fc59d0251c342f07ff46e50cd8/first-result.PNG)
+[![Initial result when tested with credentials from Example App](img/10a31f99c87c40835893c02796eb9b6f.png)T2】](//images.ctfassets.net/fo9twyrwpveg/1uEbm5HDTSUki6i8EgwGS/69a787fc59d0251c342f07ff46e50cd8/first-result.PNG)
 
 发生的情况是，这些类是在我的当前目录中创建的，例如，课程类是这样的:
 
@@ -83,7 +83,7 @@ contentful.modelscreator.cli -s qz0n5cdakyl9 -a df2a18b8a5b4426741408fc95fa4331c
 
 如果路径已经包含文件，系统将提示您覆盖(如果您做出了希望在现有类中反映的更改)或跳过(如果没有更改)该文件。
 
-[![Skip or overwrite, depending if there are changes](../Images/f5a2e0e3aacc0ce84d46c88c12ee3cac.png)T2】](//images.ctfassets.net/fo9twyrwpveg/627NbYxr4koWIGgOamsG6i/86224e8badaaf8ff33f6fc2e67c70523/skip-result.PNG)
+[![Skip or overwrite, depending if there are changes](img/f5a2e0e3aacc0ce84d46c88c12ee3cac.png)T2】](//images.ctfassets.net/fo9twyrwpveg/627NbYxr4koWIGgOamsG6i/86224e8badaaf8ff33f6fc2e67c70523/skip-result.PNG)
 
 如果想自动覆盖目录中的文件，可以使用`--force`或`-f`命令，文件将被覆盖，没有任何提示。
 
@@ -95,19 +95,19 @@ contentful.modelscreator.cli -s qz0n5cdakyl9 -a df2a18b8a5b4426741408fc95fa4331c
 
 成功安装插件后，可以在工具->选项下找到新的设置。
 
-[![Visual Studio settings to install the Contentful plugin](../Images/7955218523bf580c24594a175b18b2e6.png)T2】](//images.ctfassets.net/fo9twyrwpveg/1hLeAAQFvyeimaWoUcoIKy/163fc022cdc95a9fe991d243a7e8d8ff/vs-settings.PNG)
+[![Visual Studio settings to install the Contentful plugin](img/7955218523bf580c24594a175b18b2e6.png)T2】](//images.ctfassets.net/fo9twyrwpveg/1hLeAAQFvyeimaWoUcoIKy/163fc022cdc95a9fe991d243a7e8d8ff/vs-settings.PNG)
 
 一旦设置了访问令牌和空间 id，我现在可以右键单击我的解决方案中的任何文件夹，模型将在那里创建。
 
-[![Models being created in Visual Studio](../Images/21a9425d01062cc1da3a630f4b2242b2.png)T2】](//images.ctfassets.net/fo9twyrwpveg/1owVkTy7hC0gyseWiecmaI/87b9728394a5d53acee1b74d458cefba/models-creator-vs.gif)
+[![Models being created in Visual Studio](img/21a9425d01062cc1da3a630f4b2242b2.png)T2】](//images.ctfassets.net/fo9twyrwpveg/1owVkTy7hC0gyseWiecmaI/87b9728394a5d53acee1b74d458cefba/models-creator-vs.gif)
 
 类似地，您可以在 Visual Studio 代码中通过 Marketplace 安装插件，方法是单击 Extensions 选项卡并搜索 Contentful。一旦安装了扩展，还有类似数量的设置，您可以在其中指定 API 键、空间 id 和名称空间。
 
-[![Visual Studio Code settings](../Images/d3c247bc6a8f0a7a2f2f9581950eb91e.png)T2】](//images.ctfassets.net/fo9twyrwpveg/2Y9O2BAO5aKMyQwoy6OeW/365fbff5389745faf23e1dfc4ef2fa3e/vs-code-settings.PNG)
+[![Visual Studio Code settings](img/d3c247bc6a8f0a7a2f2f9581950eb91e.png)T2】](//images.ctfassets.net/fo9twyrwpveg/2Y9O2BAO5aKMyQwoy6OeW/365fbff5389745faf23e1dfc4ef2fa3e/vs-code-settings.PNG)
 
 之后，右键单击 Visual Studio 代码中的任何文件夹，并选择 Create Contentful Models 选项。
 
-[![Models being created in Visual Studio Code](../Images/70f5c565f522901904dda3f51bd40da7.png)T2】](//images.ctfassets.net/fo9twyrwpveg/1RhCsm84wogO6WMgiMAAak/dddbdee73fe3f529c332d5da78a53891/models-creator.gif)
+[![Models being created in Visual Studio Code](img/70f5c565f522901904dda3f51bd40da7.png)T2】](//images.ctfassets.net/fo9twyrwpveg/1RhCsm84wogO6WMgiMAAak/dddbdee73fe3f529c332d5da78a53891/models-creator.gif)
 
 ## 发现更多，知足常乐
 

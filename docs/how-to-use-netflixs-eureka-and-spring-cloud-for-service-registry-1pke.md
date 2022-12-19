@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/paigen11/how-to-use-netflixs-eureka-and-spring-cloud-for-service-registry-1pke>
 
-[![Spring Eureka logo](../Images/7970d587aa0b4b09b2597f39c6ba2407.png "Spring Eureka logo")T2】](///static/fdcc8b77e660e739c655243d32170e9a/dba9a/spring-eureka-logo.png)
+[![Spring Eureka logo](img/7970d587aa0b4b09b2597f39c6ba2407.png "Spring Eureka logo")T2】](///static/fdcc8b77e660e739c655243d32170e9a/dba9a/spring-eureka-logo.png)
 
 ## 简介
 
@@ -237,7 +237,7 @@ REST 控制器上下面定义的 REST 端点可用于查看在本地 URL:[http:/
 
 服务的 JSON 信息如下所示:
 
-[![JSON data from the Java microservice](../Images/bbd29e9614af0aa9d3ed5f8935d0685a.png "JSON data from the Java microservice")T2】](///static/034e76e225ebcaa5fb9d4f765115309c/f8836/a-java-service-json.png)
+[![JSON data from the Java microservice](img/bbd29e9614af0aa9d3ed5f8935d0685a.png "JSON data from the Java microservice")T2】](///static/034e76e225ebcaa5fb9d4f765115309c/f8836/a-java-service-json.png)
 
 ## 设置尤里卡注册的节点服务
 
@@ -366,7 +366,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 给它一分钟，让所有的项目旋转起来，被注册服务找到，然后去 [http://localhost:8761](http://localhost:8761) ，这就是你应该看到的。
 
-[![Spring Eureka Registry application](../Images/dde749ec90ea728d98dbe0e79e0723d6.png "Spring Eureka Registry application")T2】](///static/d39ff749c9fc87c85d8f5481e153c8cf/2cefc/spring-eureka-registry.png)
+[![Spring Eureka Registry application](img/dde749ec90ea728d98dbe0e79e0723d6.png "Spring Eureka Registry application")T2】](///static/d39ff749c9fc87c85d8f5481e153c8cf/2cefc/spring-eureka-registry.png)
 
 *如果您仔细查看“当前在 Eureka 注册的实例”部分，您会看到我们的应用程序。*
 
@@ -428,7 +428,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果 Node.js 和 Java 服务都在运行并向 Eureka 服务器注册，您会看到以下内容:
 
-[![JSON for Spring Boot service](../Images/47dc91b4ccc26c27346429a7a9333c36.png "JSON for Spring Boot service")T2】](///static/27a9344e3220259fa3460c346407cf9d/2cefc/spring-boot-json.png)
+[![JSON for Spring Boot service](img/47dc91b4ccc26c27346429a7a9333c36.png "JSON for Spring Boot service")T2】](///static/27a9344e3220259fa3460c346407cf9d/2cefc/spring-boot-json.png)
 
 *Spring Boot 服务数据由 Node.js 服务端点提供。*
 

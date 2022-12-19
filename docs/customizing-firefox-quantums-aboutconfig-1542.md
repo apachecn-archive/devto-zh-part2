@@ -4,7 +4,7 @@
 
 火狐的 about:config 是你访问火狐高级配置的地方。从动画到内存使用到实验特性，一切都可以在这里找到并配置。这些更改可以改善您的浏览器体验并提高性能。您可以通过在地址栏中键入 about:config 并按 enter 键来访问这些配置。
 
-<figure>[![](../Images/6bfd96b1fc64467bf11fa5eb3452e600.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BxB6v8so--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Akya6EFAUkfQDprrYctAViQ.png) 
+<figure>[![](img/6bfd96b1fc64467bf11fa5eb3452e600.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BxB6v8so--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Akya6EFAUkfQDprrYctAViQ.png) 
 
 <figcaption>火狐的配置编辑器</figcaption>
 

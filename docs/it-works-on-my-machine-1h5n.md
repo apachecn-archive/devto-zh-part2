@@ -6,7 +6,7 @@
 
 首先，这个故事需要一些背景知识和对我正在从事的主要项目的架构的基本理解， [Foreman](https://theforeman.org) 。Foreman 是一个 Ruby on Rails 应用程序，用于基础设施管理。它有许多添加各种功能的插件，这些插件被编写为 Rails 引擎。由于此应用程序用于管理关键基础架构，因此它是在内部安装的，并以软件包的形式提供，两者皆是。许多不同的插件也打包成。转速和。黛比档案。
 
-<figure>[![Foreman](../Images/e2c16a30f38522994926f20b137e4eee.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MwOBL3an--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/mwug4qbj9zva8wyh3lw6.png) 
+<figure>[![Foreman](img/e2c16a30f38522994926f20b137e4eee.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MwOBL3an--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/mwug4qbj9zva8wyh3lw6.png) 
 
 <figcaption>工长项目标识</figcaption>
 
@@ -24,7 +24,7 @@ TypeError: e[t] is undefined
 
 Enter fullscreen mode Exit fullscreen mode
 
-<figure>[![E.T.](../Images/156335ca0a18dc1b9f0573987efd0fc4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PqbcdmZl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/p5uggoh45iak314uammk.jpeg)
+<figure>[![E.T.](img/156335ca0a18dc1b9f0573987efd0fc4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PqbcdmZl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/p5uggoh45iak314uammk.jpeg)
 
 <figcaption>e【t】</figcaption>
 

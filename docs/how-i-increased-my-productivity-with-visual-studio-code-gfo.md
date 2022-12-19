@@ -14,7 +14,7 @@
 
 今天，我认为我可以更有效地浏览我的代码，因此有更多的时间做更重要的事情。
 
-[![](../Images/acb5c60f4a74d47d7a1b093aa464d7d8.png "made at imgflip.com")T2】](https://imgflip.com/i/2beoio)
+[![](img/acb5c60f4a74d47d7a1b093aa464d7d8.png "made at imgflip.com")T2】](https://imgflip.com/i/2beoio)
 
 # 我的生产力提示
 
@@ -27,8 +27,8 @@
 > 如果您是 Windows 或 Linux 用户，请查看相应的快捷方式: [Windows 快捷方式](https://go.microsoft.com/fwlink/?linkid=832145)、
 > T3】Linux 快捷方式。
 
-*   `CMD + P`:打开命令面板，可以搜索任何文件。示例:输入 *cdcts* 搜索`customer-details.component.ts`，这在我看来是跳转到某个文件的最快方式。你应该改变这种方式，而不是用鼠标在*浏览器*中导航。![Quick Open](../Images/d979190ec8f8afab672340a689188922.png)
-*   `CMD + D`:查找并选择当前选中单词的下一个匹配项。![Multicursor word](../Images/8d62bfb2d35e15d140fe08a1f91e9960.png)
+*   `CMD + P`:打开命令面板，可以搜索任何文件。示例:输入 *cdcts* 搜索`customer-details.component.ts`，这在我看来是跳转到某个文件的最快方式。你应该改变这种方式，而不是用鼠标在*浏览器*中导航。![Quick Open](img/d979190ec8f8afab672340a689188922.png)
+*   `CMD + D`:查找并选择当前选中单词的下一个匹配项。![Multicursor word](img/8d62bfb2d35e15d140fe08a1f91e9960.png)
 *   `CMD + arrow down/up`:将光标移动到当前文件的结尾/开头
 *   `CMD + arrow right/left`:将光标移动到当前行的末尾/开头
 *   `Option + arrow right/left`:逐字移动光标
@@ -40,7 +40,7 @@
 *   `CMD + Shift + F`:跨文件搜索
 *   `CMD + .`:提供快速修复。例如，我主要使用它来根据给定的林挺规则自动重新排列我的导入。
 *   `CMD + Option + arrow left/right`:
-*   多光标:多光标对于编辑多行代码非常有帮助。![Multi-cursor](../Images/0633b1ccc20d6b9fac9f6f6fab96059a.png)
+*   多光标:多光标对于编辑多行代码非常有帮助。![Multi-cursor](img/0633b1ccc20d6b9fac9f6f6fab96059a.png)
 
 更多基本快捷键和细节见[基本编辑](https://code.visualstudio.com/docs/editor/codebasics)。
 
@@ -50,7 +50,7 @@
 
 只要开始输入你想执行的任何命令，你就会找到它(如果它可用的话)。此外，您可以在命令旁边看到相应的快捷方式。这也是开始学习最常用命令的键盘快捷键的一种优雅方式。
 
-[![Command Palette](../Images/eef455f9df95274020e3cb9b999a8e95.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cT-bDdnT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://code.visualstudio.com/assets/docs/getstarted/tips-and-tricks/OpenCommandPalatte.gif)
+[![Command Palette](img/eef455f9df95274020e3cb9b999a8e95.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cT-bDdnT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://code.visualstudio.com/assets/docs/getstarted/tips-and-tricks/OpenCommandPalatte.gif)
 
 ## 埃米特
 

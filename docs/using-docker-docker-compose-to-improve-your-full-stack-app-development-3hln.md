@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/paigen11/using-docker-docker-compose-to-improve-your-full-stack-app-development-3hln>
 
-[![Group of developers sitting around laptops](../Images/1241b7095630a823f738000032f3c6a1.png "Group of developers sitting around laptops")T2】](///static/53d2f41ecc3bb8e30d89e6f20c233861/d165a/developers.jpg)
+[![Group of developers sitting around laptops](img/1241b7095630a823f738000032f3c6a1.png "Group of developers sitting around laptops")T2】](///static/53d2f41ecc3bb8e30d89e6f20c233861/d165a/developers.jpg)
 
 ## 简介
 
@@ -16,7 +16,7 @@
 
 ## 解？集装箱化的开发环境
 
-[![Docker mascot, Moby Dock](../Images/f785ad6e159ece41db91640eb11008d3.png "Docker mascot, Moby Dock")T2】](///static/bee073438638a0ff42013ff748a9a39d/e6e7b/moby-dock.jpg)
+[![Docker mascot, Moby Dock](img/f785ad6e159ece41db91640eb11008d3.png "Docker mascot, Moby Dock")T2】](///static/bee073438638a0ff42013ff748a9a39d/e6e7b/moby-dock.jpg)
 
 我是码头吉祥物❤️，莫比码头。他太可爱了。
 
@@ -146,19 +146,19 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在是启动这个应用程序的时候了。如果您是第一次在本地开发这个应用程序，请在命令行中键入 docker-compose build。这将为客户机和 API 应用程序构建两个映像 MySQL 数据库作为映像直接来自 Docker Hub，因此不需要在本地构建该映像。这是你将在终端看到的。
 
-[![Terminal output in the console from Docker Compose](../Images/77b32b59e28e7f120578dc0cb799b770.png "Terminal output in the console from Docker Compose")T2】](///static/5f0a0e8053bf48b99ce36f892c651b07/30c92/docker-compose-output.png)
+[![Terminal output in the console from Docker Compose](img/77b32b59e28e7f120578dc0cb799b770.png "Terminal output in the console from Docker Compose")T2】](///static/5f0a0e8053bf48b99ce36f892c651b07/30c92/docker-compose-output.png)
 
 *您可以看到 db 被跳过，API 和客户端都是使用项目根目录下的 Dockerfile 文件构建的。*
 
 一旦图像构建完成，输入`docker-compose up`。您应该会在所有服务启动的终端中看到一条消息，然后在每个服务启动并连接时会记录大量代码。你应该可以走了。就是这样。开始运行。你完了。开始开发。
 
-[![Terminal output in the console for Docker Compose up](../Images/f859e64eba5375949d6a4c80364ad370.png "Terminal output in the console for Docker Compose up")T2】](///static/bf3f6977060516d6fc7d83fb63a0e808/cd78c/docker-compose-up.png)
+[![Terminal output in the console for Docker Compose up](img/f859e64eba5375949d6a4c80364ad370.png "Terminal output in the console for Docker Compose up")T2】](///static/bf3f6977060516d6fc7d83fb63a0e808/cd78c/docker-compose-up.png)
 
 *这是你写完`docker-compose up`后马上就会看到的。一旦所有的服务注册完成，他们将尝试启动和连接，你应该可以开始开发了。*
 
 每当你想停止你的应用程序时，你只需在终端中输入`docker-compose down`，服务就会优雅地关闭。数据将被保存在本地，所以当您键入 docker-compose up 来启动应用程序备份时，您的数据将仍然在那里。
 
-[![Terminal output in the console for Docker Compose down](../Images/2013310d471abf347e833f33911ac46c.png "Terminal output in the console for Docker Compose down")T2】](///static/01929aeed3c9a1d7586094238fd96e06/59822/docker-compose-down.png)
+[![Terminal output in the console for Docker Compose down](img/2013310d471abf347e833f33911ac46c.png "Terminal output in the console for Docker Compose down")T2】](///static/01929aeed3c9a1d7586094238fd96e06/59822/docker-compose-down.png)
 
 *使用`docker-compose down`停止服务时看到的内容。*
 

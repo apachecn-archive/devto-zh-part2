@@ -26,7 +26,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Elm 应用程序的关键是 Elm 体系结构，至少在一个完全不与外界交流的应用程序中是这样的:
 
-[![](../Images/b64a4c7e32b31e12e52a8726d48dde92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oT29AJmn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pfdd18lau3fmjhv63bou.png)
+[![](img/b64a4c7e32b31e12e52a8726d48dde92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oT29AJmn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pfdd18lau3fmjhv63bou.png)
 
 这意味着我们需要一个`Model`、一个`View`和一个`Update`。但是这些是什么？
 

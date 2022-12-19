@@ -6,7 +6,7 @@
 
 <figure>
 
-[![a group of people milling about](../Images/d8f9d27d37d963173cc24e6d7d0d36d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Eb0W2nSB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k7s8cbxp6jplfi32f7p3.JPG)
+[![a group of people milling about](img/d8f9d27d37d963173cc24e6d7d0d36d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Eb0W2nSB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k7s8cbxp6jplfi32f7p3.JPG)
 
 <figcaption>There I am, conferencing! Photo courtesy of Cynthia Maxwell @ Progress</figcaption>
 

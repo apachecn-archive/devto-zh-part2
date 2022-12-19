@@ -4,7 +4,7 @@
 
 我要提振[@韵脚](https://dev.to/rhymes)问题精彩回复[每个初级开发者都应该学习的必备工具和技术有哪些？](https://dev.to/juliatorrejon/what-are-the-essential-tools-and-technologies-that-every-junior-developer-should-learn-2n7c)
 
-[![rhymes profile image](../Images/557aa2636ae2993dfd13f29772ceb666.png) ](/rhymes) [ rhymes ](/rhymes) • [<time datetime="2018-10-16T06:24:12Z" class="date-short-year"> Oct 16 '18 </time>](https://dev.to/rhymes/comment/673g) 
+[![rhymes profile image](img/557aa2636ae2993dfd13f29772ceb666.png) ](/rhymes) [ rhymes ](/rhymes) • [<time datetime="2018-10-16T06:24:12Z" class="date-short-year"> Oct 16 '18 </time>](https://dev.to/rhymes/comment/673g) 
 
 你好朱莉娅。
 

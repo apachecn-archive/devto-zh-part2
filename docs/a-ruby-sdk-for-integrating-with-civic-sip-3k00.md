@@ -15,7 +15,7 @@
 
 以下用户注册示例解释了一般的 Civic 托管选项代码流:
 
-[![Civic SIP flow](../Images/0473eb0d78dbf80239ec347b3d82f541.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cf-BDqr3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4ooz30lz3hjab4h5jt00.png)
+[![Civic SIP flow](img/0473eb0d78dbf80239ec347b3d82f541.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cf-BDqr3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4ooz30lz3hjab4h5jt00.png)
 
 如上所述，在与公民 SIP 服务的安全交互中涉及的步骤数量可能令人望而生畏。
 

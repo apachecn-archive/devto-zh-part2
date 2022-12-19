@@ -10,7 +10,7 @@
 
 这也被称为测试金字塔
 
-[![Testing Pyramid](../Images/8e9d2536652566abc43bffe8b94dc36b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pk16J2XW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0duko03p8lltyies0deu.png)
+[![Testing Pyramid](img/8e9d2536652566abc43bffe8b94dc36b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pk16J2XW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0duko03p8lltyies0deu.png)
 
 试着不要被前面提到的另外两种类型的测试分散注意力，而是集中在这样一个想法上，我们可以期望我们的单元测试在数量上比其他的多得多，但是要记住它们不能互相替代。**都很重要**。
 

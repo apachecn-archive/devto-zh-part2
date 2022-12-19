@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/hm04/-how-to-price-yourself-as-a-developer--cdi>
 
-[![image](../Images/56c01de73cec5e04a9566883ee5df181.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9RJYHgE---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7b0kunwnqldl7foahpgh.jpeg)
+[![image](img/56c01de73cec5e04a9566883ee5df181.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9RJYHgE---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7b0kunwnqldl7foahpgh.jpeg)
 
 ### 简介
 

@@ -16,7 +16,7 @@ Kubernetes (k8s 从现在开始)有自己的一套抽象，自己的行话，但
 
 要开始 KubePark，你需要计划它有趣的游乐设施。你决定，对于每个景点，你只需要填写这样的模板 **(k8s [部署](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/) )** :
 
-[![kubernetes deployment](../Images/899d66fce56f331fb6e865c7212a74b4.png "Kubernetes deployment")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---2fY0CDB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://danlebrero.com/images/blog/kubernetes-explained/kubernetes-deployment.jpg)
+[![kubernetes deployment](img/899d66fce56f331fb6e865c7212a74b4.png "Kubernetes deployment")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---2fY0CDB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://danlebrero.cimg/blog/kubernetes-explained/kubernetes-deployment.jpg)
 
 这里你说库贝帕克将有三个 1909 年的旋转木马。
 
@@ -36,7 +36,7 @@ Kubernetes (k8s 从现在开始)有自己的一套抽象，自己的行话，但
 
 你和房东签订租房合同 **(k8s [节点池](https://cloud.google.com/kubernetes-engine/docs/concepts/node-pools) )** :
 
-[![kubernetes node pool](../Images/6f9f31071a2f19795a723a82d20df043.png "Kubernetes node pool")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HCkDlGpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://danlebrero.com/images/blog/kubernetes-explained/kubernetes-node-pool.jpg)
+[![kubernetes node pool](img/6f9f31071a2f19795a723a82d20df043.png "Kubernetes node pool")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HCkDlGpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://danlebrero.cimg/blog/kubernetes-explained/kubernetes-node-pool.jpg)
 
 合同是两块地 **(k8s [节点](https://kubernetes.io/docs/concepts/architecture/nodes/) )** ，每块都有规定大小的 **(k8s 内存)**和发电机 **(k8s CPU)** 。请注意，合同不是针对两个特定的地块，而是针对任何两个具有这些特征的地块，找到它们将是房东的工作。有了现代客运手段，他们甚至不需要相邻。
 
@@ -64,7 +64,7 @@ Kubernetes (k8s 从现在开始)有自己的一套抽象，自己的行话，但
 
 为了帮助游客到达他们的景点，你决定对他们来说最简单的方法是使用彩色的路径搜索器 **(k8s [节点服务](https://kubernetes.io/docs/concepts/services-networking/service/#type-nodeport) )** 比如:
 
-[![kubernetes nodeport service](../Images/ea775e3deb7e18cf3055d20469f84fa6.png "Kubernetes node port service")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G0xS3kyM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://danlebrero.com/images/blog/kubernetes-explained/kubernetes-nodeport-service.jpg)
+[![kubernetes nodeport service](img/ea775e3deb7e18cf3055d20469f84fa6.png "Kubernetes node port service")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G0xS3kyM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://danlebrero.cimg/blog/kubernetes-explained/kubernetes-nodeport-service.jpg)
 
 <small>图片归属:[伦敦维多利亚站楼层线路](https://commons.wikimedia.org/wiki/File:Cmglee_London_Victoria_station_floor_lines.jpg)由 [Cmglee](https://commons.wikimedia.org/wiki/User:Cmglee) 负责。</small>
 
@@ -86,7 +86,7 @@ Kubernetes (k8s 从现在开始)有自己的一套抽象，自己的行话，但
 
 有了这个，你的公园就可以开始了:
 
-[![kubernetes as a picture](../Images/ece124c9424f8dba2bb61c963490f83a.png "Kubernetes explained in pictures")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iKDjTg0Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://danlebrero.com/images/blog/kubernetes-explained/kubernetes-explained-in-pictures.jpg)
+[![kubernetes as a picture](img/ece124c9424f8dba2bb61c963490f83a.png "Kubernetes explained in pictures")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iKDjTg0Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://danlebrero.cimg/blog/kubernetes-explained/kubernetes-explained-in-pictures.jpg)
 
 ## 就这些？
 

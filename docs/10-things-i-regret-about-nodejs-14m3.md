@@ -21,8 +21,8 @@ Node JS 的创始人 [Ryan Dahl](http://tinyclouds.org) 最近在 JSConf EU 2018
 
 就连布伦丹·艾希也附和道
 
-> ![BrendanEich profile image](../Images/c27772ea4c4766f007962adbd8fdd98a.png)布伦丹内克@布伦丹内克![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)Ryan Dahl，也是自 1995 年以来的我:“我逐渐认识到，无论何时当你在设计一个程序时，有一些你认为可能很可爱的东西加入其中，你总是会后悔...不要做他们！”
+> ![BrendanEich profile image](img/c27772ea4c4766f007962adbd8fdd98a.png)布伦丹内克@布伦丹内克![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)Ryan Dahl，也是自 1995 年以来的我:“我逐渐认识到，无论何时当你在设计一个程序时，有一些你认为可能很可爱的东西加入其中，你总是会后悔...不要做他们！”
 > 
-> 2018 年 06 月 18 日下午 12 点[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1004425861410402304)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1004425861410402304)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1004425861410402304)
+> 2018 年 06 月 18 日下午 12 点[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1004425861410402304)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1004425861410402304)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1004425861410402304)
 
 给它一只手表。很好奇大家的想法是什么。

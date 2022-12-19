@@ -57,11 +57,11 @@ New jekyll site installed in /Users/jarretbryan/Development/blog-post-site.
 
 所以一旦我进入创建的目录，静态站点的绝对基础已经为我创建好了。基本文件目录如下所示:
 
-[![Basic File Directory](../Images/df356dcc5af6f37793895d619b7c299c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ilXn9oOR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zbnup0bpnndg0luqguqn.png)
+[![Basic File Directory](img/df356dcc5af6f37793895d619b7c299c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ilXn9oOR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zbnup0bpnndg0luqguqn.png)
 
 这里最重要的文件是 _config.yml，它是用 YAML (YAML 不是标记语言，是有史以来最讨厌的递归初始化)编写的，用于管理整个网站或博客的设置。YAML 只是一种面向数据的语言(不像 JSON ),可以管理 web 应用程序的数据结构——但它应该是对人类友好的。理论上，你绝对不需要为网站的其他部分使用 HTML 或 CSS 这些都可以通过 this config 文件来管理。
 
-默认的配置文件如下: [![](../Images/fef39be98d6f750f089349d9d2b7d7c5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--A8Q8qTU8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8y0bj3y7mdsgv02s0suq.png)
+默认的配置文件如下: [![](img/fef39be98d6f750f089349d9d2b7d7c5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--A8Q8qTU8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8y0bj3y7mdsgv02s0suq.png)
 
 如果我跑了
 
@@ -74,7 +74,7 @@ $jekyll serve --livereload
 `$jekyll serve`
 
 设置服务器，每次对非配置文件进行编辑时，livereload 标志都会刷新它。而在本地主机上的页面本身看起来有点像这样:
-[![jekyll minima](../Images/4df5f2d4e5e436945a3d476ce1dd29c1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hNXca2Wo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cqwgu7jz83drf9bh1pzb.png)
+[![jekyll minima](img/4df5f2d4e5e436945a3d476ce1dd29c1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hNXca2Wo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cqwgu7jz83drf9bh1pzb.png)
 
 而且那还是一个基本的静态网站！真的就这么简单。任何内容都可以通过配置文件进行修改。
 
@@ -84,8 +84,8 @@ $jekyll serve --livereload
 
 下面是我创建的一些网站的例子，在使用主题的过程中我很少接触到 HTML:
 [Jekyll Material 主题](https://github.com/jameshamann/jekyll-material-theme)
-[![](../Images/9cea40566d3f768b1b4222ee08c6880b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TvmtW83R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/42413iicdmvxkz7ep06p.png) 
+[![](img/9cea40566d3f768b1b4222ee08c6880b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TvmtW83R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/42413iicdmvxkz7ep06p.png) 
 [瑞士主题](https://github.com/broccolini/swiss)
-[![](../Images/671502c4966fcf861f8918259f3947d7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0eKYCilX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p2j4d7plvvpqatdfwysk.png)
+[![](img/671502c4966fcf861f8918259f3947d7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0eKYCilX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p2j4d7plvvpqatdfwysk.png)
 
 我需要深入了解的定制空间很大。但是 Jekyll 是如此的轻量级和灵活，以至于它真的很容易构建出你所需要的基础，而不会陷入 web 应用程序架构中。

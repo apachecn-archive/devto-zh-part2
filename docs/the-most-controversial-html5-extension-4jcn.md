@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/the-most-controversial-html5-extension-4jcn>
 
-[![](../Images/af816e1a51d8f33b9c22d20ddabbef84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qG9uC98R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ANCQ_6Gvlyuu5v6pZtRTXcA.png)
+[![](img/af816e1a51d8f33b9c22d20ddabbef84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qG9uC98R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ANCQ_6Gvlyuu5v6pZtRTXcA.png)
 
 加密媒体扩展(eme)是一个备受争议的，最近添加到 HTML5 规范中的扩展。它们旨在为在浏览器中播放的媒体提供数字版权管理(DRM)支持。
 
@@ -77,7 +77,7 @@ EMEs 背后的技术特别有趣，也是围绕该标准的争议的一部分。
 
 ### Plug: LogRocket，一款用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

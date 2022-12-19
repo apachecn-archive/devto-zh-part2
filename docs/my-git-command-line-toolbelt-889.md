@@ -88,7 +88,7 @@
 
 打开 PowerShell，我将在命令提示符下打开它——只需在命令提示符下键入“PowerShell”——您将看到 PowerShell 列在顶部栏的下方。
 
-[![image](../Images/1fc6177f5ae7bcdfe90397a2d06fb705.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-7.png)
+[![image](img/1fc6177f5ae7bcdfe90397a2d06fb705.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-7.png)
 
 接下来只需浏览到您想要创建新项目的目录，在我的例子中，我将在“c:\dev\github”中创建。
 
@@ -98,7 +98,7 @@
 
 您应该看到下面的内容..
 
-[![image](../Images/81c6dc3c26e646aad2ddde68125e1bf2.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-8.png)
+[![image](img/81c6dc3c26e646aad2ddde68125e1bf2.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-8.png)
 
 既然我们已经创建了 dotnet 核心控制台应用程序，现在让我们从 Git 开始。
 
@@ -108,7 +108,7 @@
 
 现在我们想把我们的新项目初始化成一个 Git 库，所以我们想使用如下的‘Git Init’命令。
 
-[![image](../Images/ea2ab4d999d338f1655608e2c036796a.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-9.png)
+[![image](img/ea2ab4d999d338f1655608e2c036796a.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-9.png)
 
 **Git 配置**
 
@@ -120,13 +120,13 @@
 
 注意:配置范围只是这个项目，所以我排除了–global 开关。
 
-[![image](../Images/6028b93c636441f1a80d65f64ca75560.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-10.png)
+[![image](img/6028b93c636441f1a80d65f64ca75560.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-10.png)
 
 **git config–l**
 
 *   让我们查看当前配置，通过发出“git config–l 命令”来确认正确应用的设置
 
-[![image](../Images/304407053b0afeb319e2fdee33445fbb.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-11.png)
+[![image](img/304407053b0afeb319e2fdee33445fbb.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-11.png)
 
 就像你在底部看到的那样。
 
@@ -134,7 +134,7 @@
 
 让我们调用一个 Git status 来查看我们的存储库中当前的变化。
 
-[![image](../Images/76a442bf276ee606f9d3002fdac8fdc0.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-12.png)
+[![image](img/76a442bf276ee606f9d3002fdac8fdc0.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-12.png)
 
 这告诉我们，我们没有指定任何文件要包含在下一次提交中。
 
@@ -146,7 +146,7 @@
 
 现在让我们在应用 git add 命令后重新运行我们的 git 状态。
 
-[![image](../Images/250dc0a5a3c2bb699e0d05c8390c7902.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-13.png)
+[![image](img/250dc0a5a3c2bb699e0d05c8390c7902.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-13.png)
 
 您现在会看到输出是不同的——表明我们已经准备好提交新文件。
 
@@ -154,7 +154,7 @@
 
 让我们继续提交它们，我们将在提交中添加一条消息，我们称之为“初始提交”
 
-[![image](../Images/96f702e3099b22a73c399cbb10398887.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-14.png)
+[![image](img/96f702e3099b22a73c399cbb10398887.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-14.png)
 
 **去推**
 
@@ -166,11 +166,11 @@
 
 git 远程添加原点[https://github.com/andrewcahill/GitCommandLine.git'](https://github.com/andrewcahill/GitCommandLine.git%E2%80%99)。
 
-[![image](../Images/f60bdefa5584198ca12e9f1cd65f2a3a.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-15.png)
+[![image](img/f60bdefa5584198ca12e9f1cd65f2a3a.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-15.png)
 
 现在我们将使用' git push -u origin master '发出 push 命令。
 
-[![image](../Images/d4b92f144dec584c7771d6abb3109415.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-16.png)
+[![image](img/d4b92f144dec584c7771d6abb3109415.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-16.png)
 
 很好，现在我们在 GitHub 中有了我们的知识库。
 
@@ -180,7 +180,7 @@ git 远程添加原点[https://github.com/andrewcahill/GitCommandLine.git'](http
 
 我们将使用'-b '开关来指定一个新分支，并将这个新分支称为“开发”
 
-[![image](../Images/3050931c816c3034a52cfe20180e9567.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-17.png)
+[![image](img/3050931c816c3034a52cfe20180e9567.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-17.png)
 
 我将对我们的 Program.cs 文件做一个小改动，将“Hello world！”输出到“你好 GitHub！”
 
@@ -188,21 +188,21 @@ git 远程添加原点[https://github.com/andrewcahill/GitCommandLine.git'](http
 
 我们可以用这个来查看前后的 a，如下图..
 
-[![image](../Images/ad54a5b77bb9d2de7ec26dd770c8afc2.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-18.png)
+[![image](img/ad54a5b77bb9d2de7ec26dd770c8afc2.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-18.png)
 
 在改变之后..
 
-[![image](../Images/e20ee26389c1ec77369b3810bb845f93.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-19.png)
+[![image](img/e20ee26389c1ec77369b3810bb845f93.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-19.png)
 
 git diff
 
 我们可以使用“Git diff”来查看将在下一次提交时应用的更改
 
-[![image](../Images/ce155b55044f529cf8c1ead79e886260.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-20.png)
+[![image](img/ce155b55044f529cf8c1ead79e886260.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-20.png)
 
 现在让我们提交它们，为什么这次不在提交命令中添加“add”命令，并添加消息“Updated output”。
 
-[![image](../Images/a70d050e13eef5a6935d7c4338ad2d21.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-21.png)
+[![image](img/a70d050e13eef5a6935d7c4338ad2d21.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-21.png)
 
 现在让我们将我们的更改推进到一个新的远程“开发”分支。为了做到这一点，我们希望通过发出命令‘git push–set-upstream origin development’来创建新的远程分支
 
@@ -214,11 +214,11 @@ git diff
 
 这是一个两步的过程，首先让我们结帐或切换到我们的主分支，然后我们将调用合并-如下所示。
 
-[![image](../Images/65aa4917b9197175745d1e29c1eeeb67.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-22.png)
+[![image](img/65aa4917b9197175745d1e29c1eeeb67.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-22.png)
 
 现在我们可以看到主分支有一个更新挂起，所以让我们将这个更改推送到我们的远程存储库。
 
-[![image](../Images/f343a3f17163d5fe7fd2b1db96bdefef.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-23.png)
+[![image](img/f343a3f17163d5fe7fd2b1db96bdefef.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-23.png)
 
 就是这样，至少从库的创建者的角度来看，从贡献者的角度来看呢，他们可能想为你的库做贡献。在这种情况下，过程非常简单。
 
@@ -232,7 +232,7 @@ git diff
 
 现在让我们导航到我们的新目录，并使用“git clone[https://github.com/andrewcahill/GitCommandLine.git'](https://github.com/andrewcahill/GitCommandLine.git%E2%80%99)进行克隆。
 
-[![image](../Images/dccdb5fbd1ec7c99b5cab6a04887bda7.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-24.png)
+[![image](img/dccdb5fbd1ec7c99b5cab6a04887bda7.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-24.png)
 
 通常变更是在开发或特性分支中完成的，所以让我们切换到这里的开发分支，发出‘git check out development’。
 
@@ -240,13 +240,13 @@ git diff
 
 好的，现在让我们继续，像以前一样承诺和推动。
 
-[![image](../Images/a8a4e240f0e5156a8fd2810952703a95.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-25.png)
+[![image](img/a8a4e240f0e5156a8fd2810952703a95.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-25.png)
 
 **Git Pull**
 
 现在回到我们的所有者视点(在我的例子中是 c:\dev\github\gitcommandline ),切换到开发，通过发出“git pull”来删除贡献者可能已经发生的任何更改。
 
-[![image](../Images/edb68ea042eedeff6a9e0a55ab5bb50f.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-26.png)
+[![image](img/edb68ea042eedeff6a9e0a55ab5bb50f.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-26.png)
 
 我们可以看到，在执行拉取后，我们可以看到应用了新的更改。
 
@@ -254,7 +254,7 @@ git diff
 
 所以我们发布‘git check out master’&‘git merge development’，最后像以前一样发布‘git push’。
 
-[![image](../Images/43527ff38034a738e8fd767df519fa78.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-27.png)
+[![image](img/43527ff38034a738e8fd767df519fa78.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-27.png)
 
 **转到帮助**
 
@@ -270,25 +270,25 @@ git diff
 
 首先，通过运行“git status”确保我们在主分支中
 
-[![image](../Images/e295e850ca54e9d29bf4d6f37be0547b.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-28.png)
+[![image](img/e295e850ca54e9d29bf4d6f37be0547b.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-28.png)
 
 让我们再次用“Hello owner！”来修改我们的 Program.cs 文件在我们的输出中。
 
 让我们再次确认我们的更改..
 
-[![image](../Images/377ebebba466f2f0112ff4553ad6304f.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-29.png)
+[![image](img/377ebebba466f2f0112ff4553ad6304f.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-29.png)
 
 现在我们意识到这个变化应该已经在开发中，所以，让我们隐藏这些变化。
 
-[![image](../Images/1b6bbe1fec3f7699156bf5226f4eb3a3.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-30.png)
+[![image](img/1b6bbe1fec3f7699156bf5226f4eb3a3.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-30.png)
 
 签出开发并运行“git stash apply”。
 
-[![image](../Images/b12e7e9b5d019d10a0b3135847e2c7e7.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-31.png)
+[![image](img/b12e7e9b5d019d10a0b3135847e2c7e7.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-31.png)
 
 现在再次执行相同的步骤(git commit with add–git push–git check out master–git merge development &最后 git push ),如下所示..
 
-[![image](../Images/83f3c5a3b68c8d166613bb98f213d2d9.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-32.png)
+[![image](img/83f3c5a3b68c8d166613bb98f213d2d9.png "image")T2】](https://aviddeveloper.com/wp-content/uploads/2018/10/image-32.png)
 
 **结论**
 

@@ -6,7 +6,7 @@
 
 我很高兴介绍我的第一个开源项目。这是一个基于 PHP 的双向配置包。这个包旨在使源文件与运行时值的同步变得容易。它适用于需要使用基于文件的系统来存储首选项或配置的应用程序。
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [顺天](https://github.com/sunchayn) / [简单双向配置](https://github.com/sunchayn/simple-2way-config)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [顺天](https://github.com/sunchayn) / [简单双向配置](https://github.com/sunchayn/simple-2way-config)
 
 ### 基于 php 的简单双向(读/写)配置
 
@@ -14,7 +14,7 @@
 
 ## mazentouati/简单 2 路配置
 
-[![GitHub (pre-)release](../Images/9a04ecf17c754ae63aab825a28e83b18.png)](https://github.com/mazentouati/simple-2way-config/releases/tag/0.1.0)[![Build Status](../Images/ee4910b22090ce9084fae8d282c508aa.png)](https://travis-ci.org/mazentouati/simple-2way-config)[![Scrutinizer Code Quality](../Images/7da5dc8156f852e6f74228d2ae6e9517.png)](https://scrutinizer-ci.com/g/mazentouati/simple-2way-config/?branch=master)[![Codecov branch](../Images/f3855f2daba1c52f1ab2659ccf2ebd94.png)](https://codecov.io/gh/mazentouati/simple-2way-config)[![StyleCI](../Images/c22720b9a07bbc10db897055b3605df2.png)](https://styleci.io/repos/157292080)[![Maintainability](../Images/a13bda333657b5811cc0ff7317fea192.png)](https://codeclimate.com/github/mazentouati/simple-2way-config/maintainability)[![Software License](../Images/bef0dd78b2319f6aa43444906a81e982.png)](https://github.com/sunchayn/simple-2way-config./LICENSE)
+[![GitHub (pre-)release](img/9a04ecf17c754ae63aab825a28e83b18.png)](https://github.com/mazentouati/simple-2way-config/releases/tag/0.1.0)[![Build Status](img/ee4910b22090ce9084fae8d282c508aa.png)](https://travis-ci.org/mazentouati/simple-2way-config)[![Scrutinizer Code Quality](img/7da5dc8156f852e6f74228d2ae6e9517.png)](https://scrutinizer-ci.com/g/mazentouati/simple-2way-config/?branch=master)[![Codecov branch](img/f3855f2daba1c52f1ab2659ccf2ebd94.png)](https://codecov.io/gh/mazentouati/simple-2way-config)[![StyleCI](img/c22720b9a07bbc10db897055b3605df2.png)](https://styleci.io/repos/157292080)[![Maintainability](img/a13bda333657b5811cc0ff7317fea192.png)](https://codeclimate.com/github/mazentouati/simple-2way-config/maintainability)[![Software License](img/bef0dd78b2319f6aa43444906a81e982.png)](https://github.com/sunchayn/simple-2way-config./LICENSE)
 
 简单的双向配置是一个基于 php 的读写配置库。它适用于需要使用文件系统来存储首选项或配置的应用程序。
 

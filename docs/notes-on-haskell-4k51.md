@@ -189,7 +189,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 # **表情和类型**
 
-[![](../Images/4b5fc1ee928e8287499afe9ae781ad8d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rikltKNx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://miro.medium.com/max/1400/1%2A2LJzBg86pHVL9UWRda-szQ.png) 
+[![](img/4b5fc1ee928e8287499afe9ae781ad8d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rikltKNx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://miro.medium.com/max/1400/1%2A2LJzBg86pHVL9UWRda-szQ.png) 
 *哈斯克尔*中的基本类型
 
 **类型**
@@ -204,7 +204,7 @@ Haskell 中的每个表达式都有一个类型。
 
 这有点类似于 Java，类是对象的集合，接口是类的集合:
 
-[![](../Images/7c863bc38fd20722dcee1afc47bc7350.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dAloISh---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://yosuf.dev/content/images/2021/07/image.png)
+[![](img/7c863bc38fd20722dcee1afc47bc7350.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dAloISh---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://yosuf.dev/conteimg/2021/07/image.png)
 
 查 3 的类型给了我们一个诡异的答案:
 
@@ -485,7 +485,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Haskell 没有类型之间的隐式转换。您必须使用显式函数:
 
-[![](../Images/c348bebf2d3ecda56279a954a32d6dd3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cwu66rXI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://yosuf.dev/content/images/2021/07/image-1.png)
+[![](img/c348bebf2d3ecda56279a954a32d6dd3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cwu66rXI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://yosuf.dev/conteimg/2021/07/image-1.png)
 
 要使用`ord`和`chr`功能，必须导入`Data.Char`库模块:
 

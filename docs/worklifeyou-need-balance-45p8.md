@@ -54,7 +54,7 @@
 
 *按住鼓掌键，在* [*twitter*](http://twitter.com/@geeky_bhavani) *上给我大喊一声。❤️*
 
-<figure>[![](../Images/cec3b694a760c47ceb6477b4b4dae881.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NrCIqG1w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/940/0%2AxMDY7-ej7bFLyUYF) 
+<figure>[![](img/cec3b694a760c47ceb6477b4b4dae881.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NrCIqG1w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/940/0%2AxMDY7-ej7bFLyUYF) 
 
 <figcaption>一堆小玩意，只是一个形象的缩略图</figcaption>
 

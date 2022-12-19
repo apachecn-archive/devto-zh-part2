@@ -12,13 +12,13 @@
 
 [Algolia](https://www.algolia.com/) 是一个强大的搜索即服务，可以轻松地为您的前端搜索提供加权搜索、统计和丰富的用户界面。由 [Auth0](https://auth0.com) 开发的 [Webtask](https://webtask.io) 是一项服务，它使得在浏览器中构建无服务器功能变得容易。在本教程中，我们将进一步研究如何使用 Sanity 的 export API，通过一个预定的无服务器函数，快速获取您想要索引到 Algolia 中的内容。
 
-[![Sanity + Webtask + Algolia = Heart](../Images/cf1a1e0802542767a7b71b2188f8895c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NOzO-t38--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.io/images/3do82whm/production/75d6c6fb486107294b86c60c6845d4310a5df13e-1974x1223.png) 理智+网络任务+阿果莉娅=💖
+[![Sanity + Webtask + Algolia = Heart](img/cf1a1e0802542767a7b71b2188f8895c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NOzO-t38--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.img/3do82whm/production/75d6c6fb486107294b86c60c6845d4310a5df13e-1974x1223.png) 理智+网络任务+阿果莉娅=💖
 
 ## 设置 Algolia 并获取一些 API 密钥
 
 首先你必须[在 Algolia 注册一个账户](https://www.algolia.com/users/sign_up)。这应该很简单。一旦你建立了一个帐户，进入侧边栏的**API 密钥* *。你应该能够做这个关于免费计划的教程，但是请注意在某些时候会有一些限制。
 
-[![App ID and API Keys in Algolia](../Images/4b49937681d9ce98036bbee3e3f5fb3d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--B5qcKhDs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.io/images/3do82whm/production/f5f5868a948db4da92f9f7886bc90769d8f4afb6-1097x609.png)Algolia 中的应用 ID 和 API 密钥
+[![App ID and API Keys in Algolia](img/4b49937681d9ce98036bbee3e3f5fb3d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--B5qcKhDs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.img/3do82whm/production/f5f5868a948db4da92f9f7886bc90769d8f4afb6-1097x609.png)Algolia 中的应用 ID 和 API 密钥
 
 准备好钥匙，因为我们在设置无服务器功能时会用到它们。
 
@@ -30,7 +30,7 @@
 
 前往[webtask.io/make](https://webtask.io/make)，登录并从一个空模板创建一个新功能。去🔧扳手菜单，选择**秘密**和**添加秘密**。
 
-[![Choose secrets in the 🔧 menu](../Images/18025c8760bc157eaebc0ef386c34231.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DVYhgOHA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.io/images/3do82whm/production/cb3caccc52b566921da4e05c6c198c8d553b519c-2164x1842.png) 选择秘笈🔧菜单
+[![Choose secrets in the 🔧 menu](img/18025c8760bc157eaebc0ef386c34231.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DVYhgOHA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.img/3do82whm/production/cb3caccc52b566921da4e05c6c198c8d553b519c-2164x1842.png) 选择秘笈🔧菜单
 
 调用您的“秘密密钥”`ALGOLIA_TOKEN`，并将您的**管理 API 密钥**从 Algolia 复制粘贴到“秘密值”字段。换句话说:你应该小心保存它的位置。该键现在可以在您的函数中的`context.secrets.ALGOLIA_TOKEN`下获得。
 
@@ -253,7 +253,7 @@ function blocksToText(blocks, opts = {}) {
 
 当然，我们可以通过请求显示在 webtask UI 底部的 URL 来手动运行这个函数。你应该对这个 URL 保密，因为你不希望任何人只是触发一个重新索引(截图中的功能被删除)。但是同步搜索索引是自动完成的一个很好的例子。你也可以将这个 URL 添加到一个 webhook，这样它就会在每次有更新的时候运行(几秒钟后就会完成)，但是这样做可能有点过头了，而且很可能会耗尽你的配额。这就是时间安排的由来。如果您再次打开扳手菜单并选择**调度器**，您将打开一个面板，您可以在其中选择重复该功能的时间跨度。它应该尽可能的频繁，这取决于你的内容变化的程度。当然，您仍然可以通过调用 URL 来手动触发索引。
 
-[![Scheduler in Webtask](../Images/2209428a26b95b190786508a7f28332f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZcBZdRO0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.io/images/3do82whm/production/bee8c2864f70984e4b5262862fd3ef380ee2755d-2312x2078.png)web task 中的调度器
+[![Scheduler in Webtask](img/2209428a26b95b190786508a7f28332f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZcBZdRO0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.img/3do82whm/production/bee8c2864f70984e4b5262862fd3ef380ee2755d-2312x2078.png)web task 中的调度器
 
 ## 让我们退一步…
 

@@ -10,4 +10,4 @@
 
 [如何在 React Native 中自定义按钮](https://www.skptricks.com/2018/07/how-customize-button-in-react-native.html)
 
-[![](../Images/71bc4d0d2c559a676e3a61bb845aa4ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yjts96YG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-fxNExvfwL4Q/W0r20ff-qXI/AAAAAAAABso/VKEWf2U5zZcTlYbdQg0roBfha3J_8CyigCLcBGAs/s400/CB.jpg)
+[![](img/71bc4d0d2c559a676e3a61bb845aa4ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yjts96YG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-fxNExvfwL4Q/W0r20ff-qXI/AAAAAAAABso/VKEWf2U5zZcTlYbdQg0roBfha3J_8CyigCLcBGAs/s400/CB.jpg)

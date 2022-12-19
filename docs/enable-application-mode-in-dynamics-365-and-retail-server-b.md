@@ -15,7 +15,7 @@
 
 #### 在 Azure Active Directory 中创建应用程序
 
-[![image 1](../Images/1faa851334174c8c230f2ed90bfcf4bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rU7NtiYC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3txyr9medtkbf7thwmd0.png)
+[![image 1](img/1faa851334174c8c230f2ed90bfcf4bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rU7NtiYC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3txyr9medtkbf7thwmd0.png)
 
 导航到[门户](https://manage.windowsazure.com)并选择 Azure Active Directory
 
@@ -25,16 +25,16 @@
 2.  选择类型为 Web 应用程序/ Api。
 3.  创建按钮
 
-[![Image 2](../Images/11b9a0ea8bfd1cf11cbaf81b0a0772b8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NWaBK59g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qq0cx46vtgscc61npqyt.png)
-[![image 3](../Images/ea42988fbaa2f22f35ee8814dfc1bd56.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--cqsuMcvL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pverzacggnznaavcmmmk.png)
+[![Image 2](img/11b9a0ea8bfd1cf11cbaf81b0a0772b8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NWaBK59g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qq0cx46vtgscc61npqyt.png)
+[![image 3](img/ea42988fbaa2f22f35ee8814dfc1bd56.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--cqsuMcvL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pverzacggnznaavcmmmk.png)
 
 打开创建的应用程序，复制应用程序 ID 并单击 Keys。
 
-[![image 4](../Images/81eacbaa9a3174be0f0b92472bd59387.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hW9LAO72--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2esu8n09v59j27jrq6qc.png)
+[![image 4](img/81eacbaa9a3174be0f0b92472bd59387.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hW9LAO72--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2esu8n09v59j27jrq6qc.png)
 
 创建新密钥；请确保您复制了密钥，因为它将只显示密钥一次，并将其隐藏，唯一的方法是获得新的密钥(如果丢失)。
 
-[![image 5](../Images/9aee4f019e42fcb714ea189de62a733c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DNL6AXrm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/06ul60nzbkj2e0vryk4u.png)
+[![image 5](img/9aee4f019e42fcb714ea189de62a733c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DNL6AXrm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/06ul60nzbkj2e0vryk4u.png)
 
 现在你有了应用程序/客户端 ID 和客户端密钥，它们将在应用程序和 D365 中进一步使用。
 
@@ -52,13 +52,13 @@
 
 在“服务器资源 id”中添加零售服务器 URL
 
-[![image 5](../Images/d3cb4e6685b94e53b7ed16db038ba1b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4zoF1niz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/elicyb6x3wtqwtsc92uy.png)
+[![image 5](img/d3cb4e6685b94e53b7ed16db038ba1b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4zoF1niz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/elicyb6x3wtqwtsc92uy.png)
 
 转到-零售和商业>零售 IT >分销计划
 
 运行作业 1110(全局配置)。等待作业完成其工作，此外，如果您不想等到缓存过期，并且如果这不是生产环境，您可以执行 iisreset。
 
-[![image 6](../Images/99b1c88ea116a1c53fd2acac12e74989.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XOOpNoWV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hijbojny15l4fm0s3p4s.png)
+[![image 6](img/99b1c88ea116a1c53fd2acac12e74989.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XOOpNoWV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hijbojny15l4fm0s3p4s.png)
 
 #### 连接从代码
 

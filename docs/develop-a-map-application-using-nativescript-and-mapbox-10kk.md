@@ -4,7 +4,7 @@
 
 ### 使用 NativeScript 和 MapBox 开发地图应用
 
-[![](../Images/fc1f45684f0d34a137b6395a5d2aa69d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pfgabdrT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A9sbtou33tWALrpNOJyxbrQ.jpeg)
+[![](img/fc1f45684f0d34a137b6395a5d2aa69d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pfgabdrT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A9sbtou33tWALrpNOJyxbrQ.jpeg)
 
 先决条件:
 
@@ -33,7 +33,7 @@ tns 创建地图应用程序- ng
 
 此命令需要一段时间才能将您的应用程序构建到您的 Android 手机上。一旦完成，它将看起来像这样:
 
-[![](../Images/6c6cd450088ea0a4174faa795379a5b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wuvWBjyS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/432/1%2AwauOzWRcKC11e1EX_VOXMw.jpeg)
+[![](img/6c6cd450088ea0a4174faa795379a5b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wuvWBjyS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/432/1%2AwauOzWRcKC11e1EX_VOXMw.jpeg)
 
 回到你的根应用，然后添加插件:
 

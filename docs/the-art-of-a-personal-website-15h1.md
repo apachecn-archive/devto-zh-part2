@@ -8,7 +8,7 @@
 
 变化不仅仅是因为我不再喜欢这个网站。我的网站的变化是因为我明白我的网站不仅仅是一个品牌工具，也不是我开发能力的展示。事实上，这些是我最不想在我的网站上炫耀的东西——我发现投资组合网站平淡无奇，完全没有个性。作为一名开发者，我们可以自由地超越这一点，制作一个创建时间表的网站。网站不是重要的部分；时间线才是最重要的。
 
-[![Personal Site 1](../Images/328b1ddae9aa9c88b75a38a234ac512c.png "Personal Site 1")](https://res.cloudinary.com/practicaldev/image/fetch/s--BpchpMQ5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cepqzispamomgokm6lf4.png) 
+[![Personal Site 1](img/328b1ddae9aa9c88b75a38a234ac512c.png "Personal Site 1")](https://res.cloudinary.com/practicaldev/image/fetch/s--BpchpMQ5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cepqzispamomgokm6lf4.png) 
 *我的个人网站迭代 1 首页:`personal_site_1`*
 
 个人网站中的开发时间表是你成为开发者的简单展示。例如，我的网站的第一次迭代是在 Rails 中，当时我非常想学习尽可能多的技能。现在，我的网站使用 Jekyll，显示了一种成熟，我不需要使用过度的解决方案来满足我学习新技能的愿望。我在 Jekyll 的第一个网站用的是 bootstrap，UX 很差，而且 html 代码很臃肿。我目前的版本使用 css grid、更好的编程实践和更多有用的技术来实现类似的目标。每一步都显示了成熟度的提高——它可能不会对最终用户产生很大影响，就像从 Rails 到 Jekyll 的切换一样，但它是一种看到过去的自己的方式。
@@ -17,7 +17,7 @@
 
 但是，个人网站对雇主和品牌来说不是很棒吗？是的，我不否认。尤其是如果你从事网页开发或 UX 设计，拥有一个个人网站是必须的。然而，这种品牌倾向于来自于地域。我最近重新制作了我的网站，很大程度上是因为我想让代码变得更好，但也因为我想让网站更像我自己。这也是个人网站创造奇迹的原因——它可以展示真实的你。我的旧网站非常安全和平淡，主要是因为我认为自己是一个安全和平淡的人。我在最近的迭代中走出了一点点框框，下一次迭代可能会更进一步，但我们必须等待和观察。
 
-[![Personal Site 3](../Images/593e2fd9d4dc4e3d9b62e06526269cc9.png "Personal Site 3")](https://res.cloudinary.com/practicaldev/image/fetch/s--AjRYnWdY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/08mj38edhxb4ok1cu3qg.png) 
+[![Personal Site 3](img/593e2fd9d4dc4e3d9b62e06526269cc9.png "Personal Site 3")](https://res.cloudinary.com/practicaldev/image/fetch/s--AjRYnWdY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/08mj38edhxb4ok1cu3qg.png) 
 *我的个人网站迭代 3 首页:`personal_site_3`*
 
 我不是专家，但你的个人网站不应该只为雇主服务。你不应该只关心雇主看到你的网站后会怎么想。我不会说全力以赴，用令人讨厌的粉红色背景和随处可见的独角兽，即使那就是你。少考虑雇主会怎么想，多考虑你的网站如何帮助你提高开发能力。随着时间的推移，你的成长和发展远比一个放有你简历的安全网站更有价值，这一点值得记住。

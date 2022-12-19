@@ -44,7 +44,7 @@ Redis 集群需要至少 3 个节点，因为要在网络分区中存活，它�
 
 交叉复制仅仅意味着您没有用于副本的专用节点，您只是将数据复制到下一个节点。
 
-[![Redis cluster with cross replication](../Images/6d56ea83111f2ff653ba1d62fcb13def.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BBvdoCA_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://alex.dzyoba.com/img/redis-cluster-cross-replication.png)
+[![Redis cluster with cross replication](img/6d56ea83111f2ff653ba1d62fcb13def.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BBvdoCA_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://alex.dzyoba.com/img/redis-cluster-cross-replication.png)
 
 这样可以节省集群大小，您可以在 3 个节点而不是 9 个节点上创建一个包含 2 个副本的 Redis 集群。因此，您需要操作的东西更少了，节点得到了更好的利用，而不是每 9 个节点一个单线程轻量级 Redis 进程，现在您将在 3 个节点上有 3 个这样的进程。
 

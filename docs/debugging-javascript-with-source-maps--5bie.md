@@ -61,7 +61,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果你在 Chrome 或你选择的浏览器中打开`index.html`,你会注意到在我们缩小的文件的第一行有一个 JavaScript 错误。让我们更容易地识别和解决这个问题。
 
-[![Screenshot of Uncought TypeError: can not set property](../Images/b38ad5d377efff6d229d487299453db5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nc_Q4x8L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rollbar.com/assets/blog/images/source-maps/can-not-set-property.png)
+[![Screenshot of Uncought TypeError: can not set property](img/b38ad5d377efff6d229d487299453db5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nc_Q4x8L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rollbar.com/assets/blimg/source-maps/can-not-set-property.png)
 
 *缩小的 JavaScript 文件中的错误*
 
@@ -90,7 +90,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 一旦完成，点击一个错误应该会把你带到一个带有堆栈跟踪的页面。在这里我们可以看到带有文件和行号的正确源代码。
 
-[![Screenshot of Uncaught TypeError : Can not set property onClick null](../Images/aa4a6ee1b7d15b52f1711393dc7d41c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3fWGrnhP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rollbar.com/assets/blog/images/source-maps/Can-not-set-property-onClick-null.png)
+[![Screenshot of Uncaught TypeError : Can not set property onClick null](img/aa4a6ee1b7d15b52f1711393dc7d41c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3fWGrnhP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rollbar.com/assets/blimg/source-maps/Can-not-set-property-onClick-null.png)
 
 *显示原始源代码的堆栈跟踪*
 

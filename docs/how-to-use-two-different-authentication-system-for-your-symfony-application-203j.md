@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/minompi/how-to-use-two-different-authentication-system-for-your-symfony-application-203j>
 
-[![Directory Structure Image](../Images/177ac9d3408b329d020197f9149cc55f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CyqtbvI---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://alessandrominoccheri.github.io/img/symfony-authentication.jpg)
+[![Directory Structure Image](img/177ac9d3408b329d020197f9149cc55f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CyqtbvI---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://alessandrominoccheri.github.io/img/symfony-authentication.jpg)
 
 在你的应用程序中，很多时候你有一个基于 **JWT 令牌**的登录系统。
 在某个时刻，您需要您的应用程序能够响应另一个应用程序发出的 rest api 请求。所以你可以给它使用 JWT 令牌登录的可能性，但这是不安全的。

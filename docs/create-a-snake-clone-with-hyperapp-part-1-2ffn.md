@@ -536,7 +536,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 深呼吸，泡一大杯茶，准备好了再继续教程的第二部分(也是最后一部分)。
 
-[![avalander image](../Images/dfd7bac1c61f0ed6ce18f3bb69b0f187.png)](/avalander) [## 使用 Hyperapp 创建蛇克隆，第 2 部分
+[![avalander image](img/dfd7bac1c61f0ed6ce18f3bb69b0f187.png)](/avalander) [## 使用 Hyperapp 创建蛇克隆，第 2 部分
 
 ### avalander Aug 2 ' 187 分钟读数
 

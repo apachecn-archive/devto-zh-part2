@@ -6,7 +6,7 @@
 
 自从 1.0 版本两年后，。NET Core 在软件工程界已经非常流行。以下图表来自 2018 年的[堆栈溢出调查:](https://insights.stackoverflow.com/survey/2018/)
 
-[![Stack overflow survey 2018: .NET Core](../Images/58a6fc62f6c325a479af4df4540f25a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v_EfYZRc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://samueleresca.net/wp-content/uploads/2018/03/Screen-Shot-2018-03-18-at-13.30.56-960x921.png)
+[![Stack overflow survey 2018: .NET Core](img/58a6fc62f6c325a479af4df4540f25a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v_EfYZRc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://samueleresca.net/wp-content/uploads/2018/03/Screen-Shot-2018-03-18-at-13.30.56-960x921.png)
 
 如今，。NET Core 是最流行的框架、库和工具的前 5 名。小矮人站在巨人肩膀上的比喻，表达了在前人发现和经验的基础上发现真理的含义。重点是。NET 团队已经从他们以前的经验中吸取了教训。NET Core 是将这些经验应用于一个新的多平台框架的结果。
 

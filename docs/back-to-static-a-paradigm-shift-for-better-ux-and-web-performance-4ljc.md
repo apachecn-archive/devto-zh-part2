@@ -14,7 +14,7 @@
 
 <figure>
 
-[![Dareboost graph of Pages Timings monitoring. Peaks on the TTFB imply peaks on the Speed Index.](../Images/c7e8ac48eaf34920a3aec259acb5730f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XedwejTk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4ekc2b7lft2kzqxebs43.png)
+[![Dareboost graph of Pages Timings monitoring. Peaks on the TTFB imply peaks on the Speed Index.](img/c7e8ac48eaf34920a3aec259acb5730f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XedwejTk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4ekc2b7lft2kzqxebs43.png)
 
 <figcaption>A high TTFB penalizes the Speed Index of a page.</figcaption>
 
@@ -57,7 +57,7 @@ SSG 市场正在蓬勃发展，每月有两次新产品上市。他们中的大�
 
 <figure>
 
-[![A diagram of the contribution and development flow of a site that clearly shows the separation of concerns between developers and contributors.](../Images/5866c0cf3de6475fced60e63dd23b447.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i3C5Phwh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8d57myypciue65s303z2.png)
+[![A diagram of the contribution and development flow of a site that clearly shows the separation of concerns between developers and contributors.](img/5866c0cf3de6475fced60e63dd23b447.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i3C5Phwh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8d57myypciue65s303z2.png)
 
 <figcaption>Carrot (a digital agency) static CMS workflow, as described [on their blog](https://carrot.is/coding/static_cms.html)</figcaption>
 
@@ -87,7 +87,7 @@ JAMStack 是一个真正的范式转变。提供给访问者的网站比以往�
 
 <figure>
 
-[![Forestry.io editing interface](../Images/33c048c1c583a1655d4278f0e98a89d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---iBeZZ86--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5rx5748vfwjnesgffelm.png)
+[![Forestry.io editing interface](img/33c048c1c583a1655d4278f0e98a89d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---iBeZZ86--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5rx5748vfwjnesgffelm.png)
 
 <figcaption>[Forestry.io](https://forestry.io/) editing interface. The edited contents are saved in the files of a git repository and can also be edited with a text editor.</figcaption>
 
@@ -97,7 +97,7 @@ JAMStack 是一个真正的范式转变。提供给访问者的网站比以往�
 
 <figure>
 
-[![Prismic.io slices](../Images/9166c3aab7b3331cdc0f91f14ee9ab84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z0oNgdgm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eihmmkndfhehe8y10xj1.gif)
+[![Prismic.io slices](img/9166c3aab7b3331cdc0f91f14ee9ab84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z0oNgdgm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eihmmkndfhehe8y10xj1.gif)
 
 <figcaption>[Prismic.io](https://prismic.io/) is one of the most customizable Content Platform (here, reusable slices). Contents or layouts, everything is contributed on the platform. During the build, the SSG requests the Prismic.io API to retrieve the information.</figcaption>
 
@@ -111,7 +111,7 @@ JAMStack 是一个真正的范式转变。提供给访问者的网站比以往�
 
 也请注意所选服务的使用条款。在 Dareboost，我们经常警告用户不要滥用第三方脚本。如果需要评论，使用 Disqus，你同意动态注入他们的广告吗？如果你已经遵循了我们关于内容安全政策的建议，希望你不会担心这个问题。
 
-> ![unknown tweet media content](../Images/dead50bdfc4fa90c5c46dab1502e7a32.png)![Scott Helme profile image](../Images/1b88688bea4c4da3e5792ad1c28f0e70.png)Scott Helme@ Scott _ Helme![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)Disqus 开始在使用他们评论系统的页面中注入广告，比如我的博客。他们的问题是我的 CSP 不允许他们的广告被收录😎2018 年 2 月 08 日下午 14:48[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=961612668992966656)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=961612668992966656)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=961612668992966656)
+> ![unknown tweet media content](img/dead50bdfc4fa90c5c46dab1502e7a32.png)![Scott Helme profile image](img/1b88688bea4c4da3e5792ad1c28f0e70.png)Scott Helme@ Scott _ Helme![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)Disqus 开始在使用他们评论系统的页面中注入广告，比如我的博客。他们的问题是我的 CSP 不允许他们的广告被收录😎2018 年 2 月 08 日下午 14:48[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=961612668992966656)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=961612668992966656)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=961612668992966656)
 
 另一个风险但并非最不重要:即使你的网站不容易出现安全问题，它仍然可以通过它所依赖的 API 受到攻击。你绝对需要确保你使用的脚本没有被篡改，并且通过 HTTPS 与第三方服务的每一次交换都是安全的。确保您的自托管 API 符合所有安全最佳实践，并毫不犹豫地审查您所依赖的第三方服务的 SLA。
 

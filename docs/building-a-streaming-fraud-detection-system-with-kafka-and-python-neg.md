@@ -115,7 +115,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <figure>
 
-[![](../Images/e21da2e79c2524dce347072ebb066636.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8FZUJGTq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://florimondmanca-personal-website.s3.amazonaws.com/media/markdownx/d37ac6ca-64e7-4f26-9f51-baccd9022544.png)
+[![](img/e21da2e79c2524dce347072ebb066636.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8FZUJGTq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://florimondmanca-personal-website.s3.amazonaws.com/media/markdownx/d37ac6ca-64e7-4f26-9f51-baccd9022544.png)
 
 <figcaption>Block diagram of the fraud detection system.</figcaption>
 
@@ -274,7 +274,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <figure>
 
-[![](../Images/a9fddde70938ac76473395e79fe8cc10.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nlsL6MOI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://florimondmanca-personal-website.s3.amazonaws.com/media/markdownx/b51601f8-0fd0-4acc-bc94-14ec01e507fe.png)
+[![](img/a9fddde70938ac76473395e79fe8cc10.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nlsL6MOI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://florimondmanca-personal-website.s3.amazonaws.com/media/markdownx/b51601f8-0fd0-4acc-bc94-14ec01e507fe.png)
 
 <figcaption>How a Kafka producer works. Simple, right?</figcaption>
 
@@ -514,7 +514,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <figure>
 
-[![](../Images/20ae4b701faa60f1d111ead2edd6b17b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N7SIVTIR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://florimondmanca-personal-website.s3.amazonaws.com/media/markdownx/8237aeaa-30d4-4ad8-8f23-6fa637af8ed9.png)
+[![](img/20ae4b701faa60f1d111ead2edd6b17b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N7SIVTIR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://florimondmanca-personal-website.s3.amazonaws.com/media/markdownx/8237aeaa-30d4-4ad8-8f23-6fa637af8ed9.png)
 
 <figcaption>Transaction generator: check!</figcaption>
 
@@ -530,7 +530,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <figure>
 
-[![](../Images/0f7aaa0164983af07b8def339b0c7562.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gkM6dgTn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://florimondmanca-personal-website.s3.amazonaws.com/media/markdownx/288f76de-ccdb-4be3-83d8-672e0f9dd326.png)
+[![](img/0f7aaa0164983af07b8def339b0c7562.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gkM6dgTn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://florimondmanca-personal-website.s3.amazonaws.com/media/markdownx/288f76de-ccdb-4be3-83d8-672e0f9dd326.png)
 
 <figcaption>The detector branches out the transaction stream in two separate streams. ✂️</figcaption>
 

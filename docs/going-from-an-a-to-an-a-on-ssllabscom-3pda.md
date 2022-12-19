@@ -8,31 +8,31 @@
 
 以下是我目前在 SSL 实验室工作的基线:
 
-[![](../Images/f68e207727b56bcf2f8b697c1346b359.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0GPtw2hr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A902RABH0CKLuJNw_4u54og.png)
+[![](img/f68e207727b56bcf2f8b697c1346b359.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0GPtw2hr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A902RABH0CKLuJNw_4u54og.png)
 
 <figcaption>ssllabs.com 得分</figcaption>
 
 一个" A "，不可怕。这是我第一次真正地浏览这份报告，不太确定应该关注什么，但是让我们看一看。
 
-[![](../Images/f5e3ff71779bbbbb01fb5e94cc29e0a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1f4AvsCR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AMXzlAUsuCxI6JtQqNh9Gwg.png)
+[![](img/f5e3ff71779bbbbb01fb5e94cc29e0a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1f4AvsCR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AMXzlAUsuCxI6JtQqNh9Gwg.png)
 
 绿色和黄色——这看起来很有前途！DNS CAA 下的“更多信息”将我指向[https://blog . qualys . com/SSL labs/2017/03/13/CAA-mandated-by-cabrowser-forum](https://blog.qualys.com/ssllabs/2017/03/13/caa-mandated-by-cabrowser-forum)—tldr 似乎是通过您的 DNS 添加一条记录，将特定 ca 列入白名单，在我的情况下，让我们加密。
 
 我使用 DNSimple 作为我的 DNS，添加记录非常简单(我边打字边做，所以希望我不会搞砸！).
 
-[![](../Images/50ddd6764c53444fdde8f217fe239118.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kNiGCO9Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/985/1%2AaX70q7dWLxyfjFPF635b-w.png) 
+[![](img/50ddd6764c53444fdde8f217fe239118.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kNiGCO9Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/985/1%2AaX70q7dWLxyfjFPF635b-w.png) 
 
 <figcaption>DNSimple 添加 CAA 记录</figcaption>
 
 好了，CAA 记录已经处理好了，让我们看看 SSL 实验室报告中还有什么内容…
 
-[![](../Images/5a536f4007e94f5cebacdc4ca9acb581.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ch66aEMj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aa1H_VPevIwrKAxosAC5VFw.png)
+[![](img/5a536f4007e94f5cebacdc4ca9acb581.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ch66aEMj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aa1H_VPevIwrKAxosAC5VFw.png)
 
 TLS 和 SSL 是实现 HTTPS 的不同方法，TLS 是 SSL 的继承者。从表面上看，我的站点支持 TLS 1.1 和 1.2 是件好事，支持 TLS 1.0 是件坏事，但不支持所有类型的 SSL 也是件好事。支持 TLS 1.0 是件坏事，这是有道理的，因为它已于 2018 年 6 月 30 日停止使用。
 
 SSL 实验室报告中的大部分警告似乎都集中在支持 TLS 1.0 这一事实上:
 
-[![](../Images/b51b3d1dcf9548273a6bf5905b1f2ae5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ml46k9F3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/981/1%2AhRbljY1w3p51QJhKdRYyzA.png)
+[![](img/b51b3d1dcf9548273a6bf5905b1f2ae5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ml46k9F3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/981/1%2AhRbljY1w3p51QJhKdRYyzA.png)
 
 所以让我们看看如何通过我的 nginx 配置禁用 TLS 1.0。
 
@@ -188,7 +188,7 @@ ssl_stapling_verify on;
 
 现在来看看 SSL 实验室是怎么想的:
 
-[![](../Images/c452e87bb579d6e6352aece17d53fdbc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Murn_XcW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AVigwJNwgZ_d--m17AnnjHQ.png) 
+[![](img/c452e87bb579d6e6352aece17d53fdbc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Murn_XcW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AVigwJNwgZ_d--m17AnnjHQ.png) 
 
 <figcaption>aww 耶+</figcaption>
 

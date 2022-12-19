@@ -58,19 +58,19 @@
 
 在一个敏捷的世界里，你可能会受到诱惑，急于采取第一个让你更接近实现目标的行动。例如，你可以从沿着月球的大致方向行走开始。这似乎是一件很棒的事情，因为它让你更接近目的地。然而，虽然走在正确的方向上减少了你和月球之间的物理距离，但它没有成功的机会，因为你不能走到太空。
 
-[![](../Images/f9cfbdc613f7f1e6bc0a3e3defd904e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MtCGO6ZP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1awtgvf5s47zeb0h32ii.jpg)
+[![](img/f9cfbdc613f7f1e6bc0a3e3defd904e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MtCGO6ZP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1awtgvf5s47zeb0h32ii.jpg)
 
 行走是误入歧途走向死胡同的第一步。向死胡同迈出一堆第一步不是敏捷；只是缺乏想象如何达到目标的能力或愿望。换句话说，就是缺乏远见。
 
-[![](../Images/a223bc94036fa74159bebc8f9d6fb445.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ym-zWrLL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yx1twegpjfly3f3m1e30.jpg)
+[![](img/a223bc94036fa74159bebc8f9d6fb445.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ym-zWrLL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yx1twegpjfly3f3m1e30.jpg)
 
 一个更好的第一步是考虑如何到达月球。即使不知道细节，也要想象如何去做，这是你实现目标所需要的工程愿景。这个愿景让你保持专注。例如，如果你设想要建造一枚火箭，你接下来要做的就是专注于这个具体的目标。
 
-[![](../Images/7752261ba77716f53b39b5533c6391bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ynZmib3Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xkrf0jcww670ojy10905.jpg)
+[![](img/7752261ba77716f53b39b5533c6391bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ynZmib3Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xkrf0jcww670ojy10905.jpg)
 
 专注于火箭(工程愿景)，你可以采取有机会让你到达目的地的步骤。
 
-[![](../Images/71b350bdfb41fc247a868d2bdee862f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kOg97D6q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bz26get4qe14hvut4n3f.jpg)
+[![](img/71b350bdfb41fc247a868d2bdee862f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kOg97D6q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bz26get4qe14hvut4n3f.jpg)
 
 这一愿景至关重要。如果你设想了错误的事情(例如，走向月球)，你就会专注于向错误的方向迈出步伐。这就是敏捷哲学发挥作用的地方。应用敏捷方法一旦你有了一个愿景，你就实现了功能性的中间步骤，同时继续评估过程和整个策略。
 
@@ -80,7 +80,7 @@
 
 这是因为公司愿景告诉你**为什么**应该生产一种产品。产品愿景告诉**应该制造什么**产品，最后，工程愿景告诉**产品将如何开发**。
 
-[![](../Images/0c0c920f1417e1c8ee0dfd3a2cddbb28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9L3SV6H6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4e16mfq78mwe9k1uaei4.png)
+[![](img/0c0c920f1417e1c8ee0dfd3a2cddbb28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9L3SV6H6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4e16mfq78mwe9k1uaei4.png)
 
 这三个层次的视觉共同给出了产品的完整叙述。拥有这样的叙述对于描述产品建成后的现实世界是必要的。
 
@@ -90,7 +90,7 @@
 
 要扩展上面的思维导图:
 
-[![](../Images/a425502dcb7e179c021ae79110e9ffff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yN8Rpqqn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2aauq095vojy10c5semj.png)
+[![](img/a425502dcb7e179c021ae79110e9ffff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yN8Rpqqn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2aauq095vojy10c5semj.png)
 
 更具体地说，在亚马逊，产品的愿景始于一份模拟新闻稿。这迫使产品经理从一开始就考虑产品所有面向客户的方面。对市场和销售现实的思考对产品设计有着深远的影响，而产品设计对工程方向有着广泛的影响。
 

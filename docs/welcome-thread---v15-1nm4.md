@@ -4,7 +4,7 @@
 
 你好。欢迎来到[dev to](https://dev.to/)！
 
-[![WELCOME TO THE INTERNET](../Images/cb793635990d9c85fe262a625abea2a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OM7t3ZB4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media3.giphy.com/media/VeBeB9rR524RW/giphy.gif)
+[![WELCOME TO THE INTERNET](img/cb793635990d9c85fe262a625abea2a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OM7t3ZB4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media3.giphy.com/media/VeBeB9rR524RW/giphy.gif)
 
 # 欢迎光临！
 

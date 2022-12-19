@@ -14,7 +14,7 @@
 
 **S3**–**简单存储服务**用于存储文档、音频、视频、图像文件等所有静态文件。该服务仅用于存储和检索文件。Glacier 用于连接 S3，以归档最少使用或未使用的文件，从而减少存储空间。
 
-[![AWS](../Images/53c1249a0cda6107c21956e3510f0822.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CZ7ukFKa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://itscoderslife.files.wordpress.com/2018/02/aws.jpg%3Fw%3D656) 
+[![AWS](img/53c1249a0cda6107c21956e3510f0822.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CZ7ukFKa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://itscoderslife.files.wordpress.com/2018/02/aws.jpg%3Fw%3D656) 
 
 <figcaption>该图展示了使用亚马逊网络服务的一些重要组件的典型网络应用架构。还显示了组件之间的交互。</figcaption>
 

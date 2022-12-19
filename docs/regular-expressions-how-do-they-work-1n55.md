@@ -10,7 +10,7 @@
 
 是的，我知道你知道它们，并且可以用在最常见的现实生活中。太棒了！我认识一些程序员，对他们来说，更复杂的正则表达式是一种魔法。即使他们可能有好几年的经验。但是我不想告诉你如何构建一个正则表达式 <sup id="fnref1">[1](#fn1)</sup> 来解决你的问题。我打算解释它们如何在内部工作，以及它可能对我们产生什么样的后果。
 
-[![xkcd regex comic](../Images/07fe2d9022e1e48b8f42f4594175f3b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ItGRX60K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://imgs.xkcd.com/comics/regular_expressions.png)
+[![xkcd regex comic](img/07fe2d9022e1e48b8f42f4594175f3b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ItGRX60K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://imgs.xkcd.com/comics/regular_expressions.png)
 
 那么，我们从哪里开始？它实际上始于数学。特别是，有一个数学结构叫做**有限自动机**。尽管它的正式定义听起来很可怕，但它是一个非常简单的想法。而且很容易形象化，不用担心。
 
@@ -32,7 +32,7 @@
 
 我们来看一些正则表达式的有限自动机。
 
-[![](../Images/9f1088ff06e53c24fa3502405a84dddf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FOHMOluh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://katafrakt.me/assets/regexp/001-simples.png)
+[![](img/9f1088ff06e53c24fa3502405a84dddf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FOHMOluh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://katafrakt.me/assets/regexp/001-simples.png)
 
 在这个非常简单的例子中，我们从`q0`状态开始。如果我们的输入是`"a"`，我们可以通过唯一的转移到`q1`。输入被使用，我们处于接受状态(用双圈表示)，所以字符串匹配正则表达式。
 
@@ -40,11 +40,11 @@
 
 同时，让我们看看更多的例子。
 
-[![](../Images/1c40819bce55f81545fedcb298dfc790.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RUT9x3dy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://katafrakt.me/assets/regexp/002-simple_loop.png)
+[![](img/1c40819bce55f81545fedcb298dfc790.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RUT9x3dy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://katafrakt.me/assets/regexp/002-simple_loop.png)
 
-[![](../Images/0d372da61855129e69ad190c57596391.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gv1JQNKz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://katafrakt.me/assets/regexp/003-simple_asterisk.png)
+[![](img/0d372da61855129e69ad190c57596391.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gv1JQNKz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://katafrakt.me/assets/regexp/003-simple_asterisk.png)
 
-[![](../Images/3c537f38a3e71a24bcb7338398926651.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pCCWpGqq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://katafrakt.me/assets/regexp/004-ranges.png)
+[![](img/3c537f38a3e71a24bcb7338398926651.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pCCWpGqq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://katafrakt.me/assets/regexp/004-ranges.png)
 
 ## ε跃迁
 
@@ -56,7 +56,7 @@
 
 这里是没有ε跃迁的等价自动机:
 
-[![](../Images/8884d49ebbbcb4ed344d9ce9f380cc2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aMRJqy_p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://katafrakt.me/assets/regexp/005-ranges-without-epsilon.png)
+[![](img/8884d49ebbbcb4ed344d9ce9f380cc2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aMRJqy_p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://katafrakt.me/assets/regexp/005-ranges-without-epsilon.png)
 
 关于算法我就不赘述了，但主要思想是:
 
@@ -68,7 +68,7 @@
 
 到目前为止，我们的自动机相当简单。你可能已经思考过一两次如何实现它们。然而，我们没有涵盖正则表达式的一个真正重要的部分- **交替**。考虑一个正则表达式:`/ab(cd|ce)*/`。当然，这可以用更聪明的方式来写(`/ab(c[de])*/`)，但是我们没有太多的选择。正则表达式是有效的，所以我们必须为它创建一个自动机:
 
-[![](../Images/f929700c1606f40a6497d5e0e76800e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FqC0mDS0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://katafrakt.me/assets/regexp/006-alternation1.png)
+[![](img/f929700c1606f40a6497d5e0e76800e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FqC0mDS0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://katafrakt.me/assets/regexp/006-alternation1.png)
 
 当我们处于状态`q2`并且输入端有`c`时，问题就出现了。我们应该去`q3`还是`q5`？作为人类，我们可以向前看并清楚地看到它，然而这种奢侈是自动机所不具备的。我们总是需要在消耗一个角色的那一刻改变状态。所以在实现中，我们需要同时处于许多状态。虽然这并不坏，但实际上，对于较大的自动机来说，它可能会有点慢。我们能做得更好吗？
 
@@ -84,13 +84,13 @@
 
 出于解释的目的，我将确定以下自动机:
 
-[![](../Images/6bf6c608fbabca8810b55bb3c538abe6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7HDEFtQW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://katafrakt.me/assets/regexp/007-non-determ1.png)
+[![](img/6bf6c608fbabca8810b55bb3c538abe6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7HDEFtQW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://katafrakt.me/assets/regexp/007-non-determ1.png)
 
 您可能会立即注意到，当我们处于`q1`状态并且在输入中有一个字符`a`时，问题就出现了。我们正在转换到哪个状态？嗯，根据非确定性自动机的非正式定义，我们同时处于三种状态:`q2`、`q4`和`q6`。
 
 确定化过程利用了这个定义，并通过创建一个表示它的新状态使它变得明显。为方便起见，我们称之为`q2,q4,q6`。我们通过`a`创建一个从`q1`到新状态的转换，并删除所有其他从`q1`开始的`a`标记的转换。这是我们的自动机如何处理第一步:
 
-[![](../Images/b41500f67283cf76765cedaaa6d624c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T5k9m8Pi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://katafrakt.me/assets/regexp/008-non-determ2.png)
+[![](img/b41500f67283cf76765cedaaa6d624c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T5k9m8Pi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://katafrakt.me/assets/regexp/008-non-determ2.png)
 
 如你所见，它现在有点坏了。我们需要照顾分离的部分，从`q2`、`q6`和`q4`开始。这就是我们的命名惯例发挥作用的地方。从`q2`开始，我们将获取它的所有转换，并将它们附加到包括`q2`在内的所有“设置状态”(在这种情况下，它是我们新的大状态)。我们通过`b`创建到`q3`的转换。
 
@@ -98,11 +98,11 @@
 
 另一件重要的事情是:接受国。我们新创建的`q3,q7`状态也应该接受。这也来自非正式的 NFA 定义:如果我们处于多个状态，但其中至少有一个正在接受，那么自动机接受到目前为止所消耗的输入。
 
-[![](../Images/9cca8139b744a60157143dd69258fdc6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6-3JYvEY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://katafrakt.me/assets/regexp/009-non-determ3.png)
+[![](img/9cca8139b744a60157143dd69258fdc6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6-3JYvEY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://katafrakt.me/assets/regexp/009-non-determ3.png)
 
 只剩下一个分离状态，我们必须重复我们在上一步中所做的:获取它，找到所有包含`q7`(在本例中只有`q3,q7`)的“设置状态”并重写转换。
 
-[![](../Images/470c245e07d6d67b6c97cfc12d3b2044.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6wlKh2Bn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://katafrakt.me/assets/regexp/010-non-determ4.png)
+[![](img/470c245e07d6d67b6c97cfc12d3b2044.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6wlKh2Bn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://katafrakt.me/assets/regexp/010-non-determ4.png)
 
 我们现在可以享受我们最初的非确定性自动机的确定性等价物。它变得简单了一点(7 个状态而不是 9 个，6 个转换而不是 9 个)。通过逆向工程将其转化为正则表达式，我们还有一个更简单的表达式！NFA 的 regexp 是`/a(ab|aac|abc)/`，我们 DFA 的 regexp 是`/aa(bc?|ac)/`。
 
@@ -116,7 +116,7 @@
 
 这是通过引入一个额外的状态实现的。我们习惯称之为“地狱”。有了它，假设我们的字母表是简单的`{a,b,c,d}`，我们可以使我们的 DFA 完整。像这样:
 
-[![](../Images/0c17579808e200f309094009934bf840.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--leibgOL3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://katafrakt.me/assets/regexp/011-non-determ-with-hell.png)
+[![](img/0c17579808e200f309094009934bf840.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--leibgOL3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://katafrakt.me/assets/regexp/011-non-determ-with-hell.png)
 
 所以，现在它不可读，尽管我用简洁的方式画了出来。然而，对于编程中的正则表达式，我们通常希望我们的字母表全部由 unicode 字符组成。而且有很多。我是说，很多。这就是为什么我们通常不想创建完整的自动机。
 
@@ -131,7 +131,7 @@
 *   创建一个自动机并随后确定它的成本很高，相比之下，只是针对输入运行它。如果你不确定你的语言会在内部优化它，你应该总是在任何循环之外编译一个正则表达式。就是即时免费优化。现在你知道为什么了。
 *   另外，如果您正在编写一些性能关键的代码，您应该首先考虑使用 regexp 之外的东西。检查一个字符串是否是另一个字符串的子串比用正则表达式检查要快得多。所以从现在开始不要再这样了，好吗？
 
-[![](../Images/5b116da0a1b1819817c5cadd4bab8b80.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vuLGV29L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.meme.am/instances/63754152.jpg)
+[![](img/5b116da0a1b1819817c5cadd4bab8b80.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vuLGV29L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.meme.am/instances/63754152.jpg)
 
 ## 脚注
 

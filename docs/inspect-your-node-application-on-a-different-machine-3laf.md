@@ -55,10 +55,10 @@ Enter fullscreen mode Exit fullscreen mode
 
 下面的页面将呈现给你。
 
-[![Screenshot showing Chrome's interface for inspecting devices](../Images/6a154dddc2942b3e52f4f73fa502a797.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7tygxQwt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sood2o247t3xf5ye3q92.png)
+[![Screenshot showing Chrome's interface for inspecting devices](img/6a154dddc2942b3e52f4f73fa502a797.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7tygxQwt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sood2o247t3xf5ye3q92.png)
 
 4)只需点击检查
 
 5)猎杀虫子。
 
-[![A comic from XKCD where the programmer tells a story to his friend, that after a long debugging session found the sword of Martin the warrior, his friend assumes that he switched the puzzles in his story](../Images/bed0cd7ec04855eff6d0753ae152737d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BjzzQmYA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgs.xkcd.com/comics/debugging.png)T3】图片来源: [xkcd 漫画](https://xkcd.com/)
+[![A comic from XKCD where the programmer tells a story to his friend, that after a long debugging session found the sword of Martin the warrior, his friend assumes that he switched the puzzles in his story](img/bed0cd7ec04855eff6d0753ae152737d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BjzzQmYA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgs.xkcd.com/comics/debugging.png)T3】图片来源: [xkcd 漫画](https://xkcd.com/)

@@ -12,15 +12,15 @@
 
 #### 更好的 DNI
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)/[更好-dni](https://github.com/singuerinc/better-dni)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)/[更好-dni](https://github.com/singuerinc/better-dni)
 
 ### 最快的西班牙人 DNI(聂/ NIF)验证出来了。
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-[![npm](../Images/5495e8aaf1e19c21f6a33c20d5cf0cc2.png)](http://npm.im/better-dni)[![Codacy grade](../Images/e18356c1fe8cae744b4b53e22817d535.png)](https://app.codacy.com/app/nahuel.scotti/better-dni)[![Build](../Images/7241c5120702b96c80ac55f55144a015.png)](https://github.com/singuerinc/better-dni/workflows/Node.js%20CI/badge.svg)[![Coveralls github](../Images/1f875df01c18a8d093c0ad556ad576ed.png)](https://coveralls.io/github/singuerinc/better-dni?branch=master)[![Known Vulnerabilities](../Images/4c1af32c2055bec161058219324ce762.png)](https://snyk.io/test/github/singuerinc/better-dni)[![npm bundle size (minified)](../Images/c0481f7c6c007b2d951fc16acb9679a5.png)](https://camo.githubusercontent.com/e9ffcd896989f70ce25776275d4dac2706128f88aa5df3c0527d20509490441b/68747470733a2f2f696d672e736869656c64732e696f2f62756e646c6570686f6269612f6d696e2f6265747465722d646e692e7376673f7374796c653d666c61742d737175617265)
+[![npm](img/5495e8aaf1e19c21f6a33c20d5cf0cc2.png)](http://npm.im/better-dni)[![Codacy grade](img/e18356c1fe8cae744b4b53e22817d535.png)](https://app.codacy.com/app/nahuel.scotti/better-dni)[![Build](img/7241c5120702b96c80ac55f55144a015.png)](https://github.com/singuerinc/better-dni/workflows/Node.js%20CI/badge.svg)[![Coveralls github](img/1f875df01c18a8d093c0ad556ad576ed.png)](https://coveralls.io/github/singuerinc/better-dni?branch=master)[![Known Vulnerabilities](img/4c1af32c2055bec161058219324ce762.png)](https://snyk.io/test/github/singuerinc/better-dni)[![npm bundle size (minified)](img/c0481f7c6c007b2d951fc16acb9679a5.png)](https://camo.githubusercontent.com/e9ffcd896989f70ce25776275d4dac2706128f88aa5df3c0527d20509490441b/68747470733a2f2f696d672e736869656c64732e696f2f62756e646c6570686f6269612f6d696e2f6265747465722d646e692e7376673f7374796c653d666c61742d737175617265)
 
-[![Better DNI](../Images/bc71830f0f1bd2cc909dcb02faa417a8.png)T2】](https://raw.githubusercontent.com/singuerinc/better-dni/master/logo.png)
+[![Better DNI](img/bc71830f0f1bd2cc909dcb02faa417a8.png)T2】](https://raw.githubusercontent.com/singuerinc/better-dni/master/logo.png)
 
 最快的西班牙人 DNI(聂/ NIF)验证出来了。
 
@@ -115,7 +115,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 获胜者: **toLowerCase** /稍快/ [测试](https://jsperf.com/better-dni-lower-case-vs-upper-case/1)
 
-<figure>[![](../Images/9661e065badfc9f57b0ce4bc9aa8f288.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cAX_vpeh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AuQjccedT8iMRt8M6EgPfnw.jpeg) 
+<figure>[![](img/9661e065badfc9f57b0ce4bc9aa8f288.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cAX_vpeh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AuQjccedT8iMRt8M6EgPfnw.jpeg) 
 
 <figcaption>与速度相关的随机图像。所有岗位都需要一个。照片由[詹姆斯·特拉夫](https://unsplash.com/photos/ukTd6UiQbLQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)在 [Unsplash](https://unsplash.com/search/photos/fast?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 

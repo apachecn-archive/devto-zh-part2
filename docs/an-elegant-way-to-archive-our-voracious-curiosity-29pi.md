@@ -6,7 +6,7 @@
 
 作为开发人员，我们很好奇，最终会浏览互联网上的大量链接。
 
-[![Tabs](../Images/f9dd71fc84758544af1cbf9972064fd6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ks1tnkWk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t8gbwyl4yhgp5o9dxs0c.jpg)
+[![Tabs](img/f9dd71fc84758544af1cbf9972064fd6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ks1tnkWk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t8gbwyl4yhgp5o9dxs0c.jpg)
 
 有些不值得超过 1 秒的关注，我们马上关闭标签。
 
@@ -20,7 +20,7 @@
 
 我过去常常在文本文件中复制/粘贴链接。我会在我的文本编辑/记事本或 Vim 中创建一个新文件，如下所示:
 
-[![Memo](../Images/1210b7a76e31113e5ad056712857009c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y7lNFK66--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5bmokn36hhvx7gpm0fn4.jpg)
+[![Memo](img/1210b7a76e31113e5ad056712857009c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y7lNFK66--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5bmokn36hhvx7gpm0fn4.jpg)
 
 优点:
 
@@ -70,7 +70,7 @@ highlight 也很有趣，因为你可以高亮显示任何网页上的文本。�
 *   链接可以是“私有”的。
 
 *按下导航条按钮保存当前页面链接后弹出的插图* :
-[![popup](../Images/afe4d4e771d2df4c46756cd45fc1989d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--X9UX7fH---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aldzipw6nk0npkf9gtrc.png)
+[![popup](img/afe4d4e771d2df4c46756cd45fc1989d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--X9UX7fH---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aldzipw6nk0npkf9gtrc.png)
 
 # 终注
 

@@ -12,7 +12,7 @@
 
 关于我的爱好，我喜欢举重和懒惰，喜欢看动漫，玩电子游戏和拥抱我的两只猫。
 
-[![Kira and Ruyk](../Images/1a0d0f6689bf6035a676533572010740.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P7oRi9hS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/99mp3iezarcyhk4ok771.jpg)
+[![Kira and Ruyk](img/1a0d0f6689bf6035a676533572010740.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P7oRi9hS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/99mp3iezarcyhk4ok771.jpg)
 
 我也喜欢读/看/听关于科学、技术和心理学的东西(大脑是一个有趣的机器，你没发现吗？).
 
@@ -20,6 +20,6 @@
 
 最后，这里有一张 [Matz](https://fr.wikipedia.org/wiki/Yukihiro_Matsumoto) 和我的合照！
 
-[![Matz and me](../Images/b9d9d05896357da72b4c238a605b8000.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kq7ieI9C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e6gsazhcvej7z4jj42q1.jpg)
+[![Matz and me](img/b9d9d05896357da72b4c238a605b8000.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kq7ieI9C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e6gsazhcvej7z4jj42q1.jpg)
 
 很高兴见到你。

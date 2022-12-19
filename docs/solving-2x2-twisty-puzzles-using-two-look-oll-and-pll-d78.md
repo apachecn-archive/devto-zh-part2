@@ -36,13 +36,13 @@
 
 | 名字 | 三乘三 | 两个两个的 | 算法 | 笔记 |
 | --- | --- | --- | --- | --- |
-| 前灯 | ![Headlights](../Images/643b1a5db02e57f9ec65071848880c75.png) | ![Headlights](../Images/cf8325e2923dd67bc297a1a82ff4e98b.png) | `Anti-Sune U Sune` |  |
-| 变色龙 | ![Headlights](../Images/b1c932b9137259c53f04779fc3aa68db.png) | ![Headlights](../Images/f4ea02bb42f9a9225b4ae37a6fb6ed06.png) | `r U R' U' r' F R F'` |  |
-| 领结 | ![Headlights](../Images/b896fb1297402cfe72fd17750bb8727d.png) | ![Headlights](../Images/f180a6797cbea13ef40fde7d1140ea71.png) | `F' r U R' U' r' F R` | 开头是`F'`而不是结尾的变色龙。 |
-| 孙辈 | ![Headlights](../Images/036dca636c6ef19e5cb78ee1862dc18f.png) | ![Headlights](../Images/1c7983a7cd9896a3d88d399793523c38.png) | `R U R' U R U2 R'` | 重要的部分是鱼的“尾巴”上有一条黄边。其他方面可能会有所不同。 |
-| 反苏尼 | ![Headlights](../Images/eecf6b82f1ddd8078b0dde78473487bb.png) | ![Headlights](../Images/4d9335ebce238c5dc332539faeac2fb0.png) | `R U2 R' U' R U' R'` | 重要的部分是鱼的“尾巴”上有一条黄边。其他方面可能会有所不同。 |
-| 不对称。十字架 | ![Headlights](../Images/916c46396d38c77815416534efdbe80b.png) | ![Headlights](../Images/5473d5b32765fc5db84f0d27085aea6c.png) | `f (R U R' U') f' F (R U R' U') F'` |  |
-| 赛姆。十字架 | ![Headlights](../Images/9298b579b4c873037929a7e0cc776122.png) | ![Headlights](../Images/1242c4c368b0057631ecddbbc5aaae20.png) | `F (R U R' U') (R U R' U') (R U R' U') F'` |  |
+| 前灯 | ![Headlights](img/643b1a5db02e57f9ec65071848880c75.png) | ![Headlights](img/cf8325e2923dd67bc297a1a82ff4e98b.png) | `Anti-Sune U Sune` |  |
+| 变色龙 | ![Headlights](img/b1c932b9137259c53f04779fc3aa68db.png) | ![Headlights](img/f4ea02bb42f9a9225b4ae37a6fb6ed06.png) | `r U R' U' r' F R F'` |  |
+| 领结 | ![Headlights](img/b896fb1297402cfe72fd17750bb8727d.png) | ![Headlights](img/f180a6797cbea13ef40fde7d1140ea71.png) | `F' r U R' U' r' F R` | 开头是`F'`而不是结尾的变色龙。 |
+| 孙辈 | ![Headlights](img/036dca636c6ef19e5cb78ee1862dc18f.png) | ![Headlights](img/1c7983a7cd9896a3d88d399793523c38.png) | `R U R' U R U2 R'` | 重要的部分是鱼的“尾巴”上有一条黄边。其他方面可能会有所不同。 |
+| 反苏尼 | ![Headlights](img/eecf6b82f1ddd8078b0dde78473487bb.png) | ![Headlights](img/4d9335ebce238c5dc332539faeac2fb0.png) | `R U2 R' U' R U' R'` | 重要的部分是鱼的“尾巴”上有一条黄边。其他方面可能会有所不同。 |
+| 不对称。十字架 | ![Headlights](img/916c46396d38c77815416534efdbe80b.png) | ![Headlights](img/5473d5b32765fc5db84f0d27085aea6c.png) | `f (R U R' U') f' F (R U R' U') F'` |  |
+| 赛姆。十字架 | ![Headlights](img/9298b579b4c873037929a7e0cc776122.png) | ![Headlights](img/1242c4c368b0057631ecddbbc5aaae20.png) | `F (R U R' U') (R U R' U') (R U R' U') F'` |  |
 
 ### 双视 PLL
 

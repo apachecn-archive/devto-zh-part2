@@ -199,7 +199,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在[中，JavaScript30](https://dev.to/t/anewvueonjs30) 系列的下一个新 Vue 是:
 
-[![davefollett image](../Images/b32752a825067f737b786f8ac82aa66e.png)](/davefollett) [## JavaScript30 - 02 JS 和 CSS 时钟上的新 Vue
+[![davefollett image](img/b32752a825067f737b786f8ac82aa66e.png)](/davefollett) [## JavaScript30 - 02 JS 和 CSS 时钟上的新 Vue
 
 ### 戴夫·福莱特 8 月 17 日 183 分钟阅读
 

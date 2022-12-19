@@ -7,13 +7,13 @@
 [https://codepen.io/radium-v/embed/gKLONY?height=600&default-tab=result&embed-version=2](https://codepen.io/radium-v/embed/gKLONY?height=600&default-tab=result&embed-version=2)
 
 Firefox 给了我多少有些期待的东西。它并不完美，但我真的不知道该期待什么:
-[![green circle next to a green triangle on a pink square](../Images/e88c37c2e722cea1d8911bbf07d73f34.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EaVguV34--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eao0r114d5zm2izqw0rg.png)
+[![green circle next to a green triangle on a pink square](img/e88c37c2e722cea1d8911bbf07d73f34.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EaVguV34--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eao0r114d5zm2izqw0rg.png)
 
 Safari 只显示三角形:
-[![green triangle on a pink square](../Images/6e3ca5483dda3b0fdaab5a319853b012.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qMmODrr1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cm8beqdiysh3x3isbm0h.png)
+[![green triangle on a pink square](img/6e3ca5483dda3b0fdaab5a319853b012.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qMmODrr1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cm8beqdiysh3x3isbm0h.png)
 
 Chrome 对待`all`非常非常认真:
-[![pink square](../Images/057a35e1b67c52c7bfb72a6b80beca1c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8YvTnsnW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3k9mile4tz0kit7o4p6u.png)
+[![pink square](img/057a35e1b67c52c7bfb72a6b80beca1c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8YvTnsnW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3k9mile4tz0kit7o4p6u.png)
 
 wat do? 🤷🏻‍♂️
 

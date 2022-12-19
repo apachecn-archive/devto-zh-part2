@@ -10,19 +10,19 @@
 
 如果 Unity 支持 Kotlin 或 Swift，我会非常高兴，但目前只支持 [Javascript 和 C#](https://unity3d.com/learn/tutorials/topics/scripting/c-vs-js-syntax) 。我也是纯 Javascript 的忠实粉丝，但我选择 C#是因为类型安全，也因为 C#是我在大学为 XNA 和 ASP.NET 项目学习的语言。
 
-[![](../Images/aff25f0ab528030f328eb9018cea7088.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qvBWsFFT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A_c-Ytv_IVI2Q7xJtfw0GIQ.png)
+[![](img/aff25f0ab528030f328eb9018cea7088.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qvBWsFFT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A_c-Ytv_IVI2Q7xJtfw0GIQ.png)
 
 ## 缩进
 
 如果你像我一样喜欢 2 空格缩进，你可以在 Visual Studio 中的首选项中更改编辑器设置
 
-[![](../Images/0ac19b4b4cf5f9981cdf79ccf912d91f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mnk3y9Mv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2854/1%2Ar3ihnAstxkZnDFG6qNrtvg.png)
+[![](img/0ac19b4b4cf5f9981cdf79ccf912d91f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mnk3y9Mv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2854/1%2Ar3ihnAstxkZnDFG6qNrtvg.png)
 
 ## 游戏对象和画布
 
 在 Unity 编辑器中，尝试拖动任意 UI 元素到屏幕上，您可以看到 Canvas 和 EventSystem 也被创建。这些是游戏对象，有一堆预定义组件。
 
-[![](../Images/ab6e3cef7130a100a6858bcd1a88833f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tsTZl05---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2894/1%2AQojuK8XV5FfWqs7bt-79uw.png)
+[![](img/ab6e3cef7130a100a6858bcd1a88833f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tsTZl05---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2894/1%2AQojuK8XV5FfWqs7bt-79uw.png)
 
 如果我们要用代码来写，我们只需要按照屏幕上的内容来做。一开始，我们必须使用编辑器来学习对象和属性，但后来如果我们熟悉了 Unity 和它的许多 GameObject，我们就可以直接编码了。请原谅，一开始编写代码可能会很麻烦，但你肯定会学到很多东西。
 

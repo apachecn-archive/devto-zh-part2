@@ -21,19 +21,19 @@ Pharo-VM 能够播放声音，但是默认情况下，这样做的类不包含�
 
 然后，在“工具”下，选择“目录浏览器”。像这样:
 
-[![Opening the "Catalog Browser"](../Images/c01c57168ffce3eb893c8bdaf1164edd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lnmAWoFd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/attuiqq0yhm7h3jo1u4o.png)
+[![Opening the "Catalog Browser"](img/c01c57168ffce3eb893c8bdaf1164edd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lnmAWoFd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/attuiqq0yhm7h3jo1u4o.png)
 
 在目录浏览器中，在过滤器中输入“sound”并按 enter 键:
 
-[![Searching for "sound" in the packages](../Images/e16dc86f5256b03917aa8a6dce0e7866.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RyK6Qv1n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r7q687hj8x6fsedridok.png)
+[![Searching for "sound" in the packages](img/e16dc86f5256b03917aa8a6dce0e7866.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RyK6Qv1n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r7q687hj8x6fsedridok.png)
 
 右键单击“Pharo Sound ”,选择“安装稳定版本”,如下所示:
 
-[![Installing stable package version](../Images/a977ed5a9cd0078639583ddf9bb1ecdc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1TUwI6Be--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zh5xnman5lssfgttk9wt.png)
+[![Installing stable package version](img/a977ed5a9cd0078639583ddf9bb1ecdc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1TUwI6Be--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zh5xnman5lssfgttk9wt.png)
 
 因为它只在 Pharo 5 上测试过，系统会警告你它没有在你当前的 Pharo 版本上测试过。用“是”接受警告，因为它应该在最新版本中工作。
 
-[![Accepting the warning](../Images/afc219ba77fb29b6fde70afc9beb9d1c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AYz5KY0j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t1vzry73kfch3wcomsxj.png)
+[![Accepting the warning](img/afc219ba77fb29b6fde70afc9beb9d1c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AYz5KY0j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t1vzry73kfch3wcomsxj.png)
 
 (免责声明:这是在 Pharo 6.1/OSX 下测试的)
 

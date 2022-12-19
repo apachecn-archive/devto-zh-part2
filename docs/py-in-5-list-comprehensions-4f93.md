@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kaelscion/py-in-5-list-comprehensions-4f93>
 
-[![py in five list comprehensions](../Images/49a193821a1abae283bb609a42e3c0d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uK58bXLv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tj40fi2k71bsne1s5i4i.jpg)
+[![py in five list comprehensions](img/49a193821a1abae283bb609a42e3c0d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uK58bXLv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tj40fi2k71bsne1s5i4i.jpg)
 
 > ***原载于编码鸭博客:【www.ccstechme.com/coding-duck-blog】T2*T5】**
 

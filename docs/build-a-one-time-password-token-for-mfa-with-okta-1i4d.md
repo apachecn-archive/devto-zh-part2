@@ -16,7 +16,7 @@ Okta Verify 在注册 MFA 时使用一个二维码读入共享密钥。
 
 应用程序采取的缓解措施是使用板载 EEPROM(电可擦除可编程只读存储器)来(a)保存密码和(b)保存上次设置的日期和时间。下次打开 ArduBoy 时，它会检查是否设置了密码。如果是，它将直接设置日期和时间。在日期和时间设置屏幕上，它从上次设置的日期和时间开始，以便于更新。
 
-[![Ardu Token](../Images/7e48a3297c2b4c03b6f4db011515e01b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kEBOX5FS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ardu-token-mfa/ardutoken-fade269e61f766f5d7b006b97a369520efbd963164d04da85aed70d8eeb8c01d.png)
+[![Ardu Token](img/7e48a3297c2b4c03b6f4db011515e01b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kEBOX5FS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ardu-token-mfa/ardutoken-fade269e61f766f5d7b006b97a369520efbd963164d04da85aed70d8eeb8c01d.png)
 
 这是一个有趣的方式来了解 TOTP，并看到它对一个真正的 Okta 组织的工作。
 
@@ -89,7 +89,7 @@ OktaArduToken 在 Arduino 或 ArduBoy 的 TOTP 示例中是独一无二的，因
 
 当您第一次启动该应用程序时，您会看到共享密码设置屏幕:
 
-[![Secret setting screen](../Images/f713008f9f16cffef0cf303e2e26a2ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0DOljZq3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ardu-token-mfa/secret-ba725b8c450eb647a6c3b7816a17ecb28ca5ba5b8cb6f680bc6ceff9b993f104.png)
+[![Secret setting screen](img/f713008f9f16cffef0cf303e2e26a2ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0DOljZq3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ardu-token-mfa/secret-ba725b8c450eb647a6c3b7816a17ecb28ca5ba5b8cb6f680bc6ceff9b993f104.png)
 
 Okta Verify 使用 16 字节的 Base32 编码字符串作为共享密钥。最初，这显示为 16 个`M`秒。您可以使用向上和向下按钮在一组大写字母和数字 0 - 9 之间导航。您可以使用左右按钮在可用的 16 个字符内移动位置。
 
@@ -103,7 +103,7 @@ Okta Verify 使用 16 字节的 Base32 编码字符串作为共享密钥。最�
 
 保存共享密码后，您会看到日期和时间设置屏幕:
 
-[![Time setting screen](../Images/fd9808c28967286858e8156d050d06ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V1ROkU3g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ardu-token-mfa/date-37d38a9226b3fe2f22667c05b3cab934e5995cdfaeb451d1c5060595edf761cc.png)
+[![Time setting screen](img/fd9808c28967286858e8156d050d06ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V1ROkU3g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ardu-token-mfa/date-37d38a9226b3fe2f22667c05b3cab934e5995cdfaeb451d1c5060595edf761cc.png)
 
 您可以使用向上和向下箭头来更改日期和时间的每个部分的数字。您可以使用左右按钮来改变日期和时间界面上的位置。该接口将自动跳过分隔符，并以类似于共享密钥接口的方式自动换行。
 
@@ -117,7 +117,7 @@ Okta Verify 使用 16 字节的 Base32 编码字符串作为共享密钥。最�
 
 一旦设置了共享密钥和日期时间，您就会看到 TOTP 屏幕。在屏幕顶部，您会看到当前密码，字体很大。此密码每 30 秒更改一次。在密码下方，您可以看到每秒更新的完整日期和时间。
 
-[![TOTP screen](../Images/7155d86634c892fb2b53c1fc6e395c67.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fkmINADx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ardu-token-mfa/totp-cfee5c2c2641f86f1e4c15b316df0ba25fe029dd16d5cc470e5d4bdf8e5f39d3.png)
+[![TOTP screen](img/7155d86634c892fb2b53c1fc6e395c67.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fkmINADx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ardu-token-mfa/totp-cfee5c2c2641f86f1e4c15b316df0ba25fe029dd16d5cc470e5d4bdf8e5f39d3.png)
 
 按下`A`按钮返回设置日期和时间屏幕。按下`B`按钮返回到设置共享密码屏幕。
 
@@ -131,7 +131,7 @@ Okta Verify 使用 16 字节的 Base32 编码字符串作为共享密钥。最�
 
 登录你的 Okta 组织的管理控制台。通过选择左上方的下拉菜单，从*开发者控制台*切换到*经典 UI* :
 
-[![Classic UI](../Images/4ffe4f7e4318d782bcf2cdf0ab049f2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zoYVurlz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ardu-token-mfa/classicui-b038239766d5cbce947c5ecbb08a52ca1ab973ccfe4d958ead327c93945907b8.png)
+[![Classic UI](img/4ffe4f7e4318d782bcf2cdf0ab049f2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zoYVurlz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ardu-token-mfa/classicui-b038239766d5cbce947c5ecbb08a52ca1ab973ccfe4d958ead327c93945907b8.png)
 
 接下来，从管理控制台的顶部菜单中选择:**目录** > **组**。点击**添加组**，在*名称*字段输入`mfaers`。点击**添加组**。
 
@@ -149,7 +149,7 @@ Okta Verify 使用 16 字节的 Base32 编码字符串作为共享密钥。最�
 
 输入您选择的密码。点击*保存*。
 
-[![Jane Doe](../Images/e2691739ec30e091af036bc63d614f08.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5FpBWZIq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ardu-token-mfa/janedoe-85b15f78ca1f6504a43edcec57c4bf3a3ba3786de9f190c3980af7318b764fc0.png)
+[![Jane Doe](img/e2691739ec30e091af036bc63d614f08.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5FpBWZIq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ardu-token-mfa/janedoe-85b15f78ca1f6504a43edcec57c4bf3a3ba3786de9f190c3980af7318b764fc0.png)
 
 ### 配置 MFA 注册策略
 
@@ -159,11 +159,11 @@ Okta Verify 使用 16 字节的 Base32 编码字符串作为共享密钥。最�
 
 选择**因子登记**选项卡。点击**添加多因素策略**，输入*策略名称*的`mfaers policy`，选择`mfaers`为*分配到组*。从 *Okta 验证*旁边的下拉菜单中选择**必需的**。点击**创建策略**。
 
-[![MFAers Policy](../Images/c3a2079569df38191bb6a72a2e4638e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A2IcVv8a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ardu-token-mfa/mfaerspolicy-851a75057f85b6ced3d8d4165cf751df0919ea1a1d11d703acf945c68abef75a.png)
+[![MFAers Policy](img/c3a2079569df38191bb6a72a2e4638e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A2IcVv8a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ardu-token-mfa/mfaerspolicy-851a75057f85b6ced3d8d4165cf751df0919ea1a1d11d703acf945c68abef75a.png)
 
 在*添加规则*对话框中，为*规则名称*输入`mfaers rule`，并在*注册多因子*旁边的下拉列表中选择*。点击**创建规则**。*
 
-[![MFAers Rule](../Images/8be52660a5cf8e1b49235015471cbf28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oidYyfqF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ardu-token-mfa/mfaersrule-e1bf363fd76e4283e9017b6f26d36154b462e74840ac8ad181e1ece243e2774c.png)
+[![MFAers Rule](img/8be52660a5cf8e1b49235015471cbf28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oidYyfqF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ardu-token-mfa/mfaersrule-e1bf363fd76e4283e9017b6f26d36154b462e74840ac8ad181e1ece243e2774c.png)
 
 这就是配置 MFA 注册所需的全部内容！
 
@@ -175,11 +175,11 @@ Okta Verify 使用 16 字节的 Base32 编码字符串作为共享密钥。最�
 
 点击**创建策略并添加规则**。
 
-[![MFAers Sign-on Policy](../Images/a5cd62b961d58cd2cecf7f32543058ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vLWrmb_k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ardu-token-mfa/mfaerssignonpolicy-68924aa72c45aa16de5e7bbd1fa49a5fe265c95a8b2a39a3f91f000009028260.png)
+[![MFAers Sign-on Policy](img/a5cd62b961d58cd2cecf7f32543058ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vLWrmb_k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ardu-token-mfa/mfaerssignonpolicy-68924aa72c45aa16de5e7bbd1fa49a5fe265c95a8b2a39a3f91f000009028260.png)
 
 输入*规则名称*的`mfaers rule`，检查*提示因子*。选择**每次** > **创建规则**。
 
-[![MFAers Sign-on Rule](../Images/6f005b2ad0a9c3a9c653043924939acd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jf6WKdAD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ardu-token-mfa/mfaerssignonrule-d5a07d06be58ac5e74d5762d636f19afe8fc01424f4824bd3f714511c01e3ae0.png)
+[![MFAers Sign-on Rule](img/6f005b2ad0a9c3a9c653043924939acd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jf6WKdAD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ardu-token-mfa/mfaerssignonrule-d5a07d06be58ac5e74d5762d636f19afe8fc01424f4824bd3f714511c01e3ae0.png)
 
 这就是配置 MFA 强制所需的全部内容。
 
@@ -189,17 +189,17 @@ Okta Verify 使用 16 字节的 Base32 编码字符串作为共享密钥。最�
 
 您应该会看到一个设置 Okta 验证的屏幕。点击**配置因子**。
 
-[![Configure factor](../Images/2e4f812264a92c9f342265d100a75737.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h3W8CUjU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ardu-token-mfa/configurefactor-8e04f4be9537ec01f29cb56853a9789b27d184ef70fc245ea5affc50df62daaa.png)
+[![Configure factor](img/2e4f812264a92c9f342265d100a75737.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h3W8CUjU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ardu-token-mfa/configurefactor-8e04f4be9537ec01f29cb56853a9789b27d184ef70fc245ea5affc50df62daaa.png)
 
 在下一个屏幕上，选择任何设备类型(没关系，因为我们将设置我们的 ArduBoy)。点击**下一个**。
 
 在设置 Okta 验证屏幕上，点击**无法扫描？**
 
-[![Can't scan?](../Images/4428644cf3517bb519e36910da4175c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QjzhdR_c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ardu-token-mfa/cantscan-958b83f5503840b33954b166fa68d42cbab33cd819c9fd755abc7adcafb2ae1b.png)
+[![Can't scan?](img/4428644cf3517bb519e36910da4175c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QjzhdR_c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ardu-token-mfa/cantscan-958b83f5503840b33954b166fa68d42cbab33cd819c9fd755abc7adcafb2ae1b.png)
 
 然后，您将看到密钥字段。打开 ArduBoy(或使用 ProjectABE)并输入共享密钥值。
 
-[![Shared secret](../Images/978e4c1c076cb613e427510496990ae4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Va_lc0oY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ardu-token-mfa/sharedsecret-f42786960f630dc41c448a73e42f8eb34c405ec6359f62284bb8f81664b05f40.png)
+[![Shared secret](img/978e4c1c076cb613e427510496990ae4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Va_lc0oY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ardu-token-mfa/sharedsecret-f42786960f630dc41c448a73e42f8eb34c405ec6359f62284bb8f81664b05f40.png)
 
 在 Arduboy 上，按下`A`按钮，输入正确的日期和时间(GMT 时区)。按下`A`按钮。这将把你带到 TOTP 屏幕。
 

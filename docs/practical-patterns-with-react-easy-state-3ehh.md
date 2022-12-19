@@ -31,7 +31,7 @@ Easy State 不关心你如何管理你的状态，它寻找任何类型的状态
 
 接下来的部分将通过一个小应用程序探索这些模式，该应用程序会为您的餐食找到匹配的啤酒。我建议你在继续阅读之前先[尝试一下](https://solkimicreb.github.io/react-easy-state/examples/beer-finder/build/)。
 
-[![Edit beer-finder](../Images/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/github/solkimicreb/react-easy-state/tree/master/examples/beer-finder?codemirror=1&hidenavigation=1&module=%2Fsrc%2FappStore.js)
+[![Edit beer-finder](img/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/github/solkimicreb/react-easy-state/tree/master/examples/beer-finder?codemirror=1&hidenavigation=1&module=%2Fsrc%2FappStore.js)
 
 ## 组件间共享全局状态
 

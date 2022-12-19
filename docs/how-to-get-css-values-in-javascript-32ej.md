@@ -73,7 +73,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果您登录`style`，您应该看到一个包含每个 CSS 属性及其各自值的对象。
 
-[![`getComputedStyle` returns an object that contains every CSS property and their respective values](../Images/b2add2d1f77b6e2c0e724621629b7ca0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wwzs0xCP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/get-css/all-properties.png) 
+[![`getComputedStyle` returns an object that contains every CSS property and their respective values](img/b2add2d1f77b6e2c0e724621629b7ca0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wwzs0xCP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/get-css/all-properties.png) 
 
 <figure>
 
@@ -85,7 +85,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 对于 Firefox 开发工具，请查看“检查器”、“计算的”下。
 
-[![Firefox dev tools computed tab](../Images/13627b7387f1d19f58d4f8dc7e4fbbee.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mjgZ4cXm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/get-css/firefox.png)
+[![Firefox dev tools computed tab](img/13627b7387f1d19f58d4f8dc7e4fbbee.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mjgZ4cXm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/get-css/firefox.png)
 
 <figure>
 
@@ -95,7 +95,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 对于 Chrome 开发工具，请在“元素”下查找。如果 dev tools 窗口很大，您可以在右侧面板上看到计算出的样式。如果开发工具窗口很小，你可以在“计算”标签下查看。
 
-[![Chrome dev tools computed tab](../Images/af0e1ecf4523867ef99c2329f7b3ca72.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EUQXsf0T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/get-css/chrome.png)
+[![Chrome dev tools computed tab](img/af0e1ecf4523867ef99c2329f7b3ca72.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EUQXsf0T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/get-css/chrome.png)
 
 <figure>
 

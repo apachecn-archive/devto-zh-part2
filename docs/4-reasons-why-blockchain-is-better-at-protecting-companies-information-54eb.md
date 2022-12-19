@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/brettclawson75/4-reasons-why-blockchain-is-better-at-protecting-companies-information-54eb>
 
-[![blockchain](../Images/ab08aed536f057856fc251087f6d6b6d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--biRep_Jm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1510511459019-5dda7724fd87%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D74450f7cf15b30e723c1a6d49abcc62c%26auto%3Dformat%26fit%3Dcrop%26w%3D1650%26q%3D80)
+[![blockchain](img/ab08aed536f057856fc251087f6d6b6d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--biRep_Jm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1510511459019-5dda7724fd87%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D74450f7cf15b30e723c1a6d49abcc62c%26auto%3Dformat%26fit%3Dcrop%26w%3D1650%26q%3D80)
 
 为了寻找最有效的数据保护技术，世界各地的不同机构已经达到了难以想象的高度。它从密码开始，然后转移到双因素认证技术、内部数据中心，并最终决定采用现在流行的 [云技术](https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/) 。然而，这两种技术都有严重的缺陷，网络犯罪分子会不断利用这些缺陷，从其中一些机构获取最敏感的信息，或者只是破坏它们的正常运营。
 

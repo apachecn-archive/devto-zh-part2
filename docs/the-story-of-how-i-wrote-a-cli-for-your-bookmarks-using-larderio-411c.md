@@ -6,7 +6,7 @@
 
 我最近写了越来越多的 Ruby，我一直很喜欢它！我认为这将是成为 ruby gems 的发行者而不仅仅是消费者的一段有趣时光，所以我开始用 ruby 编写这个项目。(此外，我听说了一些重要的 Ruby 库，它们可以使这变得毫不费力，但我们将会谈到这一点。)没过多久，[就有了第一次提交](https://github.com/hawkins/lard/commit/621385ea2eb602fcdc57da9c574dc9799c0d66a8)，它基于从`yaml`文件中提供的令牌打印出用户的信息。不到半个小时后，我也添加了 [`lard folders`](https://github.com/hawkins/lard/commit/83598fe557932de591e80a3ffb96f8b1e4d1c681) 和[漂亮印刷的](https://github.com/hawkins/lard/commit/fa0b694744b4be3299403e39b19fafd00f98c6ea)。稍后我会发布输出的图片，但现在，您可以在项目的自述文件中看到这些:
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) [霍金斯](https://github.com/hawkins) / [猪油](https://github.com/hawkins/lard)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) [霍金斯](https://github.com/hawkins) / [猪油](https://github.com/hawkins/lard)
 
 ### 📗larder.io 的第三方命令行界面
 
@@ -14,11 +14,11 @@
 
 # 猪油
 
-<g-emoji class="g-emoji" alias="green_book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d7.png">📗</g-emoji>larder . io 的第三方命令行接口
+<g-emoji class="g-emoji" alias="green_book" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f4d7.png">📗</g-emoji>larder . io 的第三方命令行接口
 
 注意:这个项目是一个正在进行的工作，因此，可能还没有完全发挥作用。注意这也意味着`0.0.z`发布系列中的补丁版本可能会是重大的突破性变化。直到我们达到一个`0.1.0`，升级风险自担！
 
-[![Screenshot of Lard 0.0.0 folder view for 'Coding'](../Images/a412a32ad0ab8499c3c59c69d74ce4e0.png)T2】](https://raw.githubusercontent.com/hawkins/lard/master/screenshots/folder.png)
+[![Screenshot of Lard 0.0.0 folder view for 'Coding'](img/a412a32ad0ab8499c3c59c69d74ce4e0.png)T2】](https://raw.githubusercontent.com/hawkins/lard/master/screenshots/folder.png)
 
 ## 装置
 
@@ -80,12 +80,12 @@ puts lard.user.inspect
 
 我可以告诉你这将会很有趣，而且不会有太大的压力，所以我被说服保留这个项目，并尽可能快地使它的 API 功能完整。因此，为了确保我不会得罪任何人，我给他们发了一条推特，询问是否可以开源我的作品(当时我的回购是私有的)。
 
-> ![Josh Hawkins profile image](../Images/fd89aadfa7aaeb77fe786386dfc13071.png)乔希·霍金斯[@霍金斯](https://dev.to/hawkinjs)![twitter logo](../Images/65e26e35707d96169ec8af6b3cbf2003.png)[@ larderapp](https://twitter.com/LarderApp)嘿，这还处于非常早期的阶段，但是我已经开始为 larder 编写 cli 脚本了，这要感谢你的开放 API ❤️
-> 我注意到你已经在 changemap 上获得了一张 CLI 的入场券——你对我开源我的 CLI(表明它是第三方的)有什么问题吗？2018 年 10 月 22 日上午 03:01[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1054206203839070210)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1054206203839070210)0[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1054206203839070210)1
+> ![Josh Hawkins profile image](img/fd89aadfa7aaeb77fe786386dfc13071.png)乔希·霍金斯[@霍金斯](https://dev.to/hawkinjs)![twitter logo](img/65e26e35707d96169ec8af6b3cbf2003.png)[@ larderapp](https://twitter.com/LarderApp)嘿，这还处于非常早期的阶段，但是我已经开始为 larder 编写 cli 脚本了，这要感谢你的开放 API ❤️
+> 我注意到你已经在 changemap 上获得了一张 CLI 的入场券——你对我开源我的 CLI(表明它是第三方的)有什么问题吗？2018 年 10 月 22 日上午 03:01[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1054206203839070210)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1054206203839070210)0[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1054206203839070210)1
 
 They very kindly agreed...
 
-> ![Larder profile image](../Images/ad38048b40846095a18cad5d1d297c07.png)Larder@ larderapp![twitter logo](../Images/65e26e35707d96169ec8af6b3cbf2003.png)[@ hawk injs](https://twitter.com/hawkinjs)完全没有，太牛逼了！肯定不会拒绝一些制作工具的帮助😊谢谢！2018 年 10 月 22 日上午 03:06[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1054207395268685826)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1054207395268685826)0[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1054207395268685826)1
+> ![Larder profile image](img/ad38048b40846095a18cad5d1d297c07.png)Larder@ larderapp![twitter logo](img/65e26e35707d96169ec8af6b3cbf2003.png)[@ hawk injs](https://twitter.com/hawkinjs)完全没有，太牛逼了！肯定不会拒绝一些制作工具的帮助😊谢谢！2018 年 10 月 22 日上午 03:06[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1054207395268685826)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1054207395268685826)0[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1054207395268685826)1
 
 so I was off to the races!
 
@@ -113,9 +113,9 @@ so I was off to the races!
 
 嗯，不是这个要求。时间很晚了，我也累了，我只是想让它工作，这样我就可以自己开始使用 CLI，而不仅仅是开发它。我决定出去透透气，去散散步，拿起一杯奶昔来毁掉我在散步中燃烧的一点点卡路里。我和我的朋友兼编译伙伴 Cameron 聊了聊这些问题，并在回家的路上找到了解决方案。我太累了，不想为它写代码，所以我为它开了一期，然后去睡觉了。
 
-# [![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) 去掉使用 http party# 4](https://github.com/hawkins/lard/issues/4)
+# [![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) 去掉使用 http party# 4](https://github.com/hawkins/lard/issues/4)
 
-[![hawkins avatar](../Images/a8d0011e4094df1541e9cf880a476ec9.png)](https://github.com/hawkins) **[hawkins](https://github.com/hawkins)** posted on [<time datetime="2018-10-26T02:17:17Z">Oct 26, 2018</time>](https://github.com/hawkins/lard/issues/4)
+[![hawkins avatar](img/a8d0011e4094df1541e9cf880a476ec9.png)](https://github.com/hawkins) **[hawkins](https://github.com/hawkins)** posted on [<time datetime="2018-10-26T02:17:17Z">Oct 26, 2018</time>](https://github.com/hawkins/lard/issues/4)
 
 老实说，这个库的不太好的文档和放肆的 api 至少让我有些头疼，所以我把 HTTP 调用简化成非常简单的东西，这样我们就有希望很容易地删除 httparty。
 
@@ -138,9 +138,9 @@ so I was off to the races!
 
 我在推特上回复了 Larder，现在我有东西要展示了，他们很兴奋！
 
-> ![Josh Hawkins profile image](../Images/fd89aadfa7aaeb77fe786386dfc13071.png)乔希·霍金斯[@霍金斯](https://dev.to/hawkinjs)![twitter logo](../Images/65e26e35707d96169ec8af6b3cbf2003.png)[@ LarderApp](https://twitter.com/LarderApp)仅供参考:它非常不成熟，代码有点毛，但对于一个早期的 alpha / MVP 来说，它打了一些标记！现在的问题是如何使用它，调整界面，修复错误等等。如果有一天你们中的任何一个愿意尝试它，我会喜欢任何批评！🙂[github.com/hawkins/lard](https://t.co/f3Igogc807)2018 年 10 月 25 日上午 03:25[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1055299299922362370)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1055299299922362370)0[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1055299299922362370)0
+> ![Josh Hawkins profile image](img/fd89aadfa7aaeb77fe786386dfc13071.png)乔希·霍金斯[@霍金斯](https://dev.to/hawkinjs)![twitter logo](img/65e26e35707d96169ec8af6b3cbf2003.png)[@ LarderApp](https://twitter.com/LarderApp)仅供参考:它非常不成熟，代码有点毛，但对于一个早期的 alpha / MVP 来说，它打了一些标记！现在的问题是如何使用它，调整界面，修复错误等等。如果有一天你们中的任何一个愿意尝试它，我会喜欢任何批评！🙂[github.com/hawkins/lard](https://t.co/f3Igogc807)2018 年 10 月 25 日上午 03:25[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1055299299922362370)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1055299299922362370)0[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1055299299922362370)0
 
-> ![Larder profile image](../Images/ad38048b40846095a18cad5d1d297c07.png)Larder@ larderapp![twitter logo](../Images/65e26e35707d96169ec8af6b3cbf2003.png)[@ hawk injs](https://twitter.com/hawkinjs)它已经做了这么多了，我们都很感动！很高兴 API 能够很好地工作，这让我很高兴。你愿意和所有人分享吗？如果是这样的话，我会在我们的下一封更新邮件中提到它，否则我可以等到未来的版本😊2018 年 10 月 25 日上午 03:43[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1055303873638744064)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1055303873638744064)0[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1055303873638744064)0
+> ![Larder profile image](img/ad38048b40846095a18cad5d1d297c07.png)Larder@ larderapp![twitter logo](img/65e26e35707d96169ec8af6b3cbf2003.png)[@ hawk injs](https://twitter.com/hawkinjs)它已经做了这么多了，我们都很感动！很高兴 API 能够很好地工作，这让我很高兴。你愿意和所有人分享吗？如果是这样的话，我会在我们的下一封更新邮件中提到它，否则我可以等到未来的版本😊2018 年 10 月 25 日上午 03:43[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1055303873638744064)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1055303873638744064)0[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1055303873638744064)0
 
 这让我太兴奋了，我真的需要睡觉了，所以我一直在功能之间标记和发布新版本，希望能让我停下来休息，但是[唉](https://github.com/hawkins/lard/commit/f99fa936dec3ac89472064546ebef686ad585ef4) :
 
@@ -172,13 +172,13 @@ Larder 的那帮人告诉我，API 将文件夹请求限制为每个请求 200 �
 
 第二天，10 月 26 日(连续 6 天吃猪油！)，Larder 的 Josh Sharp 开了一期，让我大吃一惊:
 
-# [![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) 缺少依赖？ #7](https://github.com/hawkins/lard/issues/7) 
+# [![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) 缺少依赖？ #7](https://github.com/hawkins/lard/issues/7) 
 
-[![joshsharp avatar](../Images/36ade45dc5f305d98ce2675a131cde85.png)](https://github.com/joshsharp) **[joshsharp](https://github.com/joshsharp)** posted on [<time datetime="2018-10-27T00:30:00Z">Oct 27, 2018</time>](https://github.com/hawkins/lard/issues/7)
+[![joshsharp avatar](img/36ade45dc5f305d98ce2675a131cde85.png)](https://github.com/joshsharp) **[joshsharp](https://github.com/joshsharp)** posted on [<time datetime="2018-10-27T00:30:00Z">Oct 27, 2018</time>](https://github.com/hawkins/lard/issues/7)
 
 嘿，我昨天试着安装和运行猪油，我遇到了一些问题。我不是 Ruby 的人，但我认为这里的问题是，当我安装 gem 时，它的依赖项没有被安装。
 
-我第一次运行它的时候，我遇到了一个关于`httparty`丢失的问题，我自己想出了如何把它安装成一个 gem<g-emoji class="g-emoji" alias="innocent" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f607.png">😇</g-emoji>但从那以后，我还是会遇到一个错误:
+我第一次运行它的时候，我遇到了一个关于`httparty`丢失的问题，我自己想出了如何把它安装成一个 gem<g-emoji class="g-emoji" alias="innocent" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f607.png">😇</g-emoji>但从那以后，我还是会遇到一个错误:
 
 ```
 hades:~$ lard
@@ -200,11 +200,11 @@ Traceback (most recent call last):
 
 马上，我有了一个理论:
 
-# [![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) 评论为 #7](https://github.com/hawkins/lard/issues/7#issuecomment-433578790) 
+# [![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) 评论为 #7](https://github.com/hawkins/lard/issues/7#issuecomment-433578790) 
 
-[![hawkins avatar](../Images/4327efe819593389a0c8ce816e4c28d0.png)](https://github.com/hawkins) **[hawkins](https://github.com/hawkins)** commented on [<time datetime="2018-10-27T01:08:10Z">Oct 27, 2018</time>](https://github.com/hawkins/lard/issues/7#issuecomment-433578790)
+[![hawkins avatar](img/4327efe819593389a0c8ce816e4c28d0.png)](https://github.com/hawkins) **[hawkins](https://github.com/hawkins)** commented on [<time datetime="2018-10-27T01:08:10Z">Oct 27, 2018</time>](https://github.com/hawkins/lard/issues/7#issuecomment-433578790)
 
-嘿，非常感谢您试用并报告问题！<g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji>
+嘿，非常感谢您试用并报告问题！<g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f389.png">🎉</g-emoji>
 
 这实际上是我发布的第一个 ruby gem，所以我想我没有标记列出我们的依赖项(`httparty`、`paint`、`thor`)的 gem 文件来包含在发布的 gem 中，或者类似的东西。哎呀！今晚我会调查的，非常感谢！
 
@@ -225,9 +225,9 @@ gem install thor
 1.  在回答问题之前，我应该做一些非常基本的谷歌搜索。即使我真的只是想尽快解决用户的问题(用我给他的`gem install *`命令)，在快速搜索之后，我可能会给出一个更有见地、更简单的解决方案
 2.  Sure enough, I was right about how gem dependencies don't come from `Gemfile`:
 
-    # [![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png)  The comment is   # 7](https://github.com/hawkins/lard/issues/7#issuecomment-433579472) 
+    # [![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png)  The comment is   # 7](https://github.com/hawkins/lard/issues/7#issuecomment-433579472) 
 
-    [![hawkins avatar](../Images/4327efe819593389a0c8ce816e4c28d0.png)](https://github.com/hawkins) **[hawkins](https://github.com/hawkins)** Commented on [<time datetime="2018-10-27T01:17:49Z">Oct 27, 2018</time>](https://github.com/hawkins/lard/issues/7#issuecomment-433579472)
+    [![hawkins avatar](img/4327efe819593389a0c8ce816e4c28d0.png)](https://github.com/hawkins) **[hawkins](https://github.com/hawkins)** Commented on [<time datetime="2018-10-27T01:17:49Z">Oct 27, 2018</time>](https://github.com/hawkins/lard/issues/7#issuecomment-433579472)
 
     I should have kept my mouth shut more-soon Google search found that this was a novice gem publisher's mistake! fixed it with `lard@0.0.6`, so please feel free to run `gem uninstall lard` and `gem install lard` to get the latest version and its dependencies. We can pretend that this never happened.
 
@@ -262,7 +262,7 @@ gem install thor
 
 这就是我让 Travis 大放异彩的地方——当我在 g it 中标记一个版本时，通过配置它来自动部署新的 gem 版本。呀哈！(我也花了一些时间回去对更漂亮的 Webpack 插件这样做，就像我几年前就应该做的那样)嘿，为什么不呢，无耻的插件:
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) [【霍金斯】](https://github.com/hawkins) / [预处理网页包插件](https://github.com/hawkins/prettier-webpack-plugin)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) [【霍金斯】](https://github.com/hawkins) / [预处理网页包插件](https://github.com/hawkins/prettier-webpack-plugin)
 
 ### 用更漂亮的处理你的网络包依赖
 
@@ -270,7 +270,7 @@ gem install thor
 
 # 前端 web 包插件
 
-[![Greenkeeper badge](../Images/69f6d3cb8fd98c913e85468e3aa78045.png) ](https://greenkeeper.io/) [ ![All Contributors](../Images/9d9e92ac87520f7a7475783b564c44e3.png)](https://raw.githubusercontent.com/hawkins/prettier-webpack-plugin/master/#contributors)
+[![Greenkeeper badge](img/69f6d3cb8fd98c913e85468e3aa78045.png) ](https://greenkeeper.io/) [ ![All Contributors](img/9d9e92ac87520f7a7475783b564c44e3.png)](https://raw.githubusercontent.com/hawkins/prettier-webpack-plugin/master/#contributors)
 
 通过 Webpack 捆绑时，使用更漂亮的自动处理您的源文件。
 
@@ -316,9 +316,9 @@ module.exports = {
 
 延续“完了我就睡”的趋势！，我继续第八天的午夜。我处理的下一个问题是关于发布 Ruby Gems 的另一个有趣的学习点。看看这个:
 
-# [![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) 我们如何确保用户代理在每个新版本中都得到更新？ #11](https://github.com/hawkins/lard/issues/11) 
+# [![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) 我们如何确保用户代理在每个新版本中都得到更新？ #11](https://github.com/hawkins/lard/issues/11) 
 
-[![todo[bot] avatar](../Images/85b360fec71c43ffed06196787323d42.png)](https://github.com/apps/todo) **[todo[bot]](https://github.com/apps/todo)** posted on [<time datetime="2018-10-28T03:17:35Z">Oct 28, 2018</time>](https://github.com/hawkins/lard/issues/11)
+[![todo[bot] avatar](img/85b360fec71c43ffed06196787323d42.png)](https://github.com/apps/todo) **[todo[bot]](https://github.com/apps/todo)** posted on [<time datetime="2018-10-28T03:17:35Z">Oct 28, 2018</time>](https://github.com/hawkins/lard/issues/11)
 
 [https://github . com/Hawkins/lard/blob/295 e 5d 9 cf 7 b 86 de 00 f 6376 F9 b 2627 BD 11 b 44 F9 AC/lib/lard . Rb # L100-L112](https://github.com/hawkins/lard/blob/295e5d9cf7b86de00f6376f9b2627bd11b44f9ac/lib/lard.rb#L100-L112)
 
@@ -344,9 +344,9 @@ module.exports = {
 
 在凌晨 1 点头脑风暴之后(总是一个好主意！)，我带着一些想法打开了一个问题，开始工作:
 
-# [![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) 添加测试 #15](https://github.com/hawkins/lard/issues/15) 
+# [![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) 添加测试 #15](https://github.com/hawkins/lard/issues/15) 
 
-[![hawkins avatar](../Images/a8d0011e4094df1541e9cf880a476ec9.png)](https://github.com/hawkins) **[hawkins](https://github.com/hawkins)** posted on [<time datetime="2018-10-28T04:39:35Z">Oct 28, 2018</time>](https://github.com/hawkins/lard/issues/15)
+[![hawkins avatar](img/a8d0011e4094df1541e9cf880a476ec9.png)](https://github.com/hawkins) **[hawkins](https://github.com/hawkins)** posted on [<time datetime="2018-10-28T04:39:35Z">Oct 28, 2018</time>](https://github.com/hawkins/lard/issues/15)
 
 我在这上面等了一会儿，因为我不确定如何最好地测试它，但是这里有一些我想看到的关于实现的想法:
 
@@ -457,7 +457,7 @@ end
 
 如果你想尝试猪油，可以随意运行`gem install lard`和`lard help`开始。或者到我的 GitHub 上查看一下，打个招呼！
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) [霍金斯](https://github.com/hawkins) / [猪油](https://github.com/hawkins/lard)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) [霍金斯](https://github.com/hawkins) / [猪油](https://github.com/hawkins/lard)
 
 ### 📗larder.io 的第三方命令行界面
 
@@ -465,11 +465,11 @@ end
 
 # 猪油
 
-<g-emoji class="g-emoji" alias="green_book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d7.png">📗</g-emoji>larder . io 的第三方命令行接口
+<g-emoji class="g-emoji" alias="green_book" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f4d7.png">📗</g-emoji>larder . io 的第三方命令行接口
 
 注意:这个项目是一个正在进行的工作，因此，可能还没有完全发挥作用。注意这也意味着`0.0.z`发布系列中的补丁版本可能会是重大的突破性变化。直到我们达到一个`0.1.0`，升级风险自担！
 
-[![Screenshot of Lard 0.0.0 folder view for 'Coding'](../Images/a412a32ad0ab8499c3c59c69d74ce4e0.png)T2】](https://raw.githubusercontent.com/hawkins/lard/master/screenshots/folder.png)
+[![Screenshot of Lard 0.0.0 folder view for 'Coding'](img/a412a32ad0ab8499c3c59c69d74ce4e0.png)T2】](https://raw.githubusercontent.com/hawkins/lard/master/screenshots/folder.png)
 
 ## 装置
 

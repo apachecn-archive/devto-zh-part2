@@ -62,7 +62,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我承认这不是一个好的解决方案，我想回来参考我的问题的更新:
 
-[![aaronellington](../Images/fd4f5b13b16f16714c41b783579a9529.png)](/aaronellington) [## 配置 Go sql 的重要性。数据库连接
+[![aaronellington](img/fd4f5b13b16f16714c41b783579a9529.png)](/aaronellington) [## 配置 Go sql 的重要性。数据库连接
 
 ### 亚伦艾灵顿 1 月 4 日 192 分钟阅读
 

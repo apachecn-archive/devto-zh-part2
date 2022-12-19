@@ -8,15 +8,15 @@
 
 要编辑一个纯粹基于文本的文档，实际上只需要做两个基本操作:插入和删除。任何其他操作都建立在这两个操作之上。单个用户编辑一个文档可能看起来像这样。
 
-[![Single user editing a document](../Images/878ea4fd86d4f22639dd92a90e44c69d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xl1acW9b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h9kcjnw3sq96tv06790n.png)
+[![Single user editing a document](img/878ea4fd86d4f22639dd92a90e44c69d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xl1acW9b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h9kcjnw3sq96tv06790n.png)
 
 要在文档中进行协作，最简单的方法是将用户执行的每个操作发送给编辑文档的所有其他用户。当连接速度很快时，可能是当用户连接到局域网时，这种方法是有效的。
 
-[![2 users editing a single document over a LAN/very fast Internet connection](../Images/7abd226497f499382f8183adb570adad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fL_wujVN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n6exl8cigf8tgroe66ji.png)
+[![2 users editing a single document over a LAN/very fast Internet connection](img/7abd226497f499382f8183adb570adad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fL_wujVN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n6exl8cigf8tgroe66ji.png)
 
 然而，当网络延迟变得很大时，就很容易达到这样的竞争条件。
 
-[![2 users editing a single document with network latency](../Images/e8f5a86102d99b7cc5265ae9ea9780ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hKOMoN6C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yuf29wg728hoy9ei0bbn.png)
+[![2 users editing a single document with network latency](img/e8f5a86102d99b7cc5265ae9ea9780ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hKOMoN6C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yuf29wg728hoy9ei0bbn.png)
 
 当这些争用情况发生时，两个客户端上的文档变得不同步，并且由于这些操作的性质，它们很少会再次同步。因此，我们需要一种更好的方法来组织这些操作，甚至是组织文档本身，这样可靠和一致的协作编辑才能成为现实。
 
@@ -50,11 +50,11 @@ Logoot 是 CRDT 的一个很好(也很简单)的例子。它是比较容易理�
 
 回到带有竞争条件的原始示例，您可以看到文档失去了同步，因为操作使用了字符串中的一个位置。因此，当插入发生时，插入字符之后的所有内容都向右移动，这意味着它们的位置增加。
 
-[![The position of the ‘c’ is incremented, from 2 to 3](../Images/7bbacf88b58e4535b5e7a1b96428ef7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AF7m0naP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/muig2rolgvsax5ld9iji.png)
+[![The position of the ‘c’ is incremented, from 2 to 3](img/7bbacf88b58e4535b5e7a1b96428ef7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AF7m0naP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/muig2rolgvsax5ld9iji.png)
 
 当对两个内容应用第二个操作时，它们被插入到操作中指定的相同位置。但是，作为第一次操作的结果，它们出现在不同的字符处。例如，在下一个图像中，原意是在“c”后面插入一个“y”。但是，由于在固定位置插入的操作,“y”被插入到“x”之后。
 
-[![The effect of the operation is no longer as intended](../Images/46dd29bdc2bc04bfae039bb558da3a4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C0SFmyPG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aksug90umvefgv4zd0c7.png)
+[![The effect of the operation is no longer as intended](img/46dd29bdc2bc04bfae039bb558da3a4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C0SFmyPG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aksug90umvefgv4zd0c7.png)
 
 Logoot 试图通过让位置随文本移动来解决这个问题。也就是说，它为文档中的每个字符/字符组分配唯一的标识符，并根据这些标识符的位置执行插入和删除。
 

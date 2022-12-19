@@ -4,11 +4,11 @@
 
 **时间过滤器？**这是一个奇怪的名字，但这是我给我的分公司取的名字，而且我坚持用它！
 
-[![](../Images/992d956560268597fd0ec94c4665f7df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kHyHLZat--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c2u9q9nh8e92t5s29ng8.png)
+[![](img/992d956560268597fd0ec94c4665f7df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kHyHLZat--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c2u9q9nh8e92t5s29ng8.png)
 
 我们现在在主页和标签页上有过滤器，这将帮助人们发现过去最有趣的内容。这样奶油就能很好地浮到顶部。
 
-[![](../Images/11f89bcfeff75ba9975d813b19a02175.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GufBWWBO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tpgovza3maygawgfmgji.png)
+[![](img/11f89bcfeff75ba9975d813b19a02175.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GufBWWBO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tpgovza3maygawgfmgji.png)
 
 这将使花时间在标签页更有价值。作为一个跟不上 JavaScript 社区发展步伐的人，这应该可以帮助我点击查看一下过去一周或一个月中社区参与最多的内容。如果你一周只来一次 [dev.to](https://dev.to/) ，这会帮助你赶上进度。
 

@@ -94,11 +94,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 这将产生一个`build`文件夹。
 
-[![Production bundle generated with webdev tool](../Images/30dc89b27c993c4d5ddcc5dec4ae2d4e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0tcfw4WM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ll3793zxvasgw4yfpgt4.png)
+[![Production bundle generated with webdev tool](img/30dc89b27c993c4d5ddcc5dec4ae2d4e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0tcfw4WM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ll3793zxvasgw4yfpgt4.png)
 
 运行`dart bin/main.dart`并访问`http://localhost:9999`
 
-[![Image of localhost:9999](../Images/4a7227da01a6b810800005cd42883699.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zVo7M4nm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oxepyr1nnqtqfvf3clov.png)
+[![Image of localhost:9999](img/4a7227da01a6b810800005cd42883699.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zVo7M4nm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oxepyr1nnqtqfvf3clov.png)
 
 ## 4。创建您的 Heroku 应用程序
 
@@ -172,11 +172,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 您应该会看到一条带有网址的确认消息:
 
-[![Confirmation message with web url](../Images/fd178f675ce7a631bb7b893c0563915d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--REeYEvGQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2cmna80oxs7vfw54ftuk.png)
+[![Confirmation message with web url](img/fd178f675ce7a631bb7b893c0563915d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--REeYEvGQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2cmna80oxs7vfw54ftuk.png)
 
 并在浏览器中访问:
 
-[![Site open in browser](../Images/b47216a5351bb6b37b8c583f60a37656.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zoljQc2j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vgu17zr7xl5k1bwd0c6v.png)
+[![Site open in browser](img/b47216a5351bb6b37b8c583f60a37656.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zoljQc2j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vgu17zr7xl5k1bwd0c6v.png)
 
 ## 结论
 

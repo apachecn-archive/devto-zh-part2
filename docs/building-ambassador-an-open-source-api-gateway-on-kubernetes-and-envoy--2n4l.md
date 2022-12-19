@@ -24,11 +24,11 @@ API 网关是向消费者公开服务端点的一种流行模式。在 [Datawire
 
 我们开始编写一些原型代码，与 Kubernetes 社区分享，并根据反馈进行迭代。我们最终有了[开源大使 API 网关](https://www.getambassador.io/)。其核心是 Ambassador 的一个基本功能:它监视对 Kubernetes 清单的配置更改，然后安全地将必要的配置更改传递给 Envoy。所有 L7 网络都由 Envoy 直接执行，Kubernetes 负责可靠性、可用性和可伸缩性。
 
-[![local diagram amb on kube](../Images/5f8c4d88198d67fc69e9d1e24cc7f2c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1yoakleS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.datawire.io/wp-content/uploads/2018/02/building-ambassador-photo-1.png)
+[![local diagram amb on kube](img/5f8c4d88198d67fc69e9d1e24cc7f2c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1yoakleS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.datawire.io/wp-content/uploads/2018/02/building-ambassador-photo-1.png)
 
 除了这个核心功能，我们还增加了一些其他核心功能:通过[诊断](https://www.getambassador.io/user-guide/running#diagnostics)用户界面(见上文)进行自省，以及集成了 Envoy 和所有必要的位以使其在生产中运行的单个 Docker 映像(截至`0.23`，它是一个 113MB 的基于 Alpine Linux 的映像)。
 
-[![Ambassador diagnostics interface](../Images/1d2f363d84b089d057711895f86eefef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XzQHNuaT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.datawire.io/wp-content/uploads/2018/02/building-ambassador-photo-2.png)
+[![Ambassador diagnostics interface](img/1d2f363d84b089d057711895f86eefef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XzQHNuaT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.datawire.io/wp-content/uploads/2018/02/building-ambassador-photo-2.png)
 
 特使和 Kubernetes 的结合使大使能够在短时间内做好生产准备。
 

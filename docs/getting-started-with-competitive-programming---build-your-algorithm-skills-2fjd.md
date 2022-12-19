@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/aviaryan/getting-started-with-competitive-programming---build-your-algorithm-skills-2fjd>
 
-[![cover](../Images/442ac60b98382ad466e743bea505a2ca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_R2mKR02--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.us-east-2.amazonaws.com/devletters/covers/matrix.jpeg)
+[![cover](img/442ac60b98382ad466e743bea505a2ca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_R2mKR02--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.us-east-2.amazonaws.com/devletters/covers/matrix.jpeg)
 
 > 首先发布在[我的电子邮件列表](https://aviaryan.com/letters/getting-started-with-cp)
 

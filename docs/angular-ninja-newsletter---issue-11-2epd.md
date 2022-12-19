@@ -4,7 +4,7 @@
 
 每周[安德烈·库森科](https://medium.com/@andr.donetsk)7 月 22 日[免费加入](https://www.getrevue.co/profile/golang-jexia/issues/golang-ninjas-newsletter-issue-9-119028?)或添加[时事通讯 rss](http://fetchrss.com/rss/5b3a43798a93f8d6608b4567358567541.xml)
 
-[![](../Images/1a29504304faeef87d460c6de3bc52c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rRWR_W5q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gubzh7v6g2dm00070ivv.jpg)
+[![](img/1a29504304faeef87d460c6de3bc52c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rRWR_W5q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gubzh7v6g2dm00070ivv.jpg)
 
 安德烈·库森科每周一期的棱角忍者时事通讯让你了解最新动态，走在同龄人的前面。
 
@@ -22,7 +22,7 @@
 
 Angular 支持反应式编程，其中组件知道如何对外部事件做出反应，比如用户点击或数据更新。
 
-[![](../Images/91113b5ae7d6ed5497d4b8bb12480c56.png)T2】](https://twitter.com/BenLesh/status/1017884301487005696)
+[![](img/91113b5ae7d6ed5497d4b8bb12480c56.png)T2】](https://twitter.com/BenLesh/status/1017884301487005696)
 
 **[艾薇:看看新的渲染引擎](https://medium.com/js-imaginea/ivy-a-look-at-the-new-render-engine-for-angular-953bf3b4907a?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Angular%20Ninja%20Newsletter)**
 
@@ -38,7 +38,7 @@ Angular 支持反应式编程，其中组件知道如何对外部事件做出反
 
 您可能只是使用 ngrx/effects 来处理与外部源的通信。但是你知道 ngrx/effects 的用途不止这些吗？
 
-[![](../Images/5bc5121c11e8df9899ba285a4f194917.png)T2】](https://twitter.com/maxlynch/status/1019703560689340419)
+[![](img/5bc5121c11e8df9899ba285a4f194917.png)T2】](https://twitter.com/maxlynch/status/1019703560689340419)
 
 **[棱角分明:稳固你的应用路线](https://itnext.io/angular-secure-your-application-routes-a7f71a87e97f?gi=a79a3ff15a91&utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Angular%20Ninja%20Newsletter)**
 
@@ -58,7 +58,7 @@ Angular 支持反应式编程，其中组件知道如何对外部事件做出反
 
 我们构建了一个 Angular 应用程序，它列出了来自嵌套 API 响应的电影。我们将学习如何使用 Akita 更有效地存储和更新我们的数据。
 
-[![](../Images/b627ddbadf8a41f56700023171ca9f76.png)T2】](https://twitter.com/AirbnbEng/status/1019670820065402880)
+[![](img/b627ddbadf8a41f56700023171ca9f76.png)T2】](https://twitter.com/AirbnbEng/status/1019670820065402880)
 
 **[使用量角器](https://medium.com/@sibeeshvenu/end-to-end-e2e-tests-in-angular-application-using-protractor-3fd2501bb3c0?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Angular%20Ninja%20Newsletter)** 在角度应用中进行端到端(E2E)测试
 
@@ -78,12 +78,12 @@ Angular 支持反应式编程，其中组件知道如何对外部事件做出反
 
 一个关于角度元素的介绍，它将你的角度组件打包成自定义元素，Web 组件的一部分。
 
-[![](../Images/6d6c0a681d3fb532f1f024f1bea3f3b6.png)T2】](https://www.youtube.com/watch?v=xGHbWKt54XE)
+[![](img/6d6c0a681d3fb532f1f024f1bea3f3b6.png)T2】](https://www.youtube.com/watch?v=xGHbWKt54XE)
 
 **[使用 RxJS](https://www.youtube.com/watch?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Angular%20Ninja%20Newsletter&v=0DL7oBTzC5o)** 为你的网络应用增加反应
 
 在本演示中，我们将讨论如何使用 RxJS 为现有的 Angular 应用程序添加反应功能。特别是，我们将添加一个“向下拖动以参考”...
 
-[![](../Images/65b7b0d5685de86fa14f117e2652e77a.png)T2】](https://www.youtube.com/watch?v=0DL7oBTzC5o)
+[![](img/65b7b0d5685de86fa14f117e2652e77a.png)T2】](https://www.youtube.com/watch?v=0DL7oBTzC5o)
 
 每周[安德烈·库森科](https://medium.com/@andr.donetsk)7 月 22 日[免费加入](https://www.getrevue.co/profile/golang-jexia/issues/golang-ninjas-newsletter-issue-9-119028?)或添加[时事通讯 rss](http://fetchrss.com/rss/5b3a43798a93f8d6608b4567358567541.xml)

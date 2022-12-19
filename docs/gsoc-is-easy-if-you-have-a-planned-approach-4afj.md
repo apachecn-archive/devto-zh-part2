@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/aviaryan/gsoc-is-easy-if-you-have-a-planned-approach-4afj>
 
-[![cover image](../Images/633ea941c54129d644c81587c24aa486.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ebAkwCgY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.us-east-2.amazonaws.com/devletters/covers/youngpeople.jpeg)
+[![cover image](img/633ea941c54129d644c81587c24aa486.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ebAkwCgY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.us-east-2.amazonaws.com/devletters/covers/youngpeople.jpeg)
 
 > 首次发布于 [Dev Letters](https://devletters.com/letters/gsoc-is-easy/)
 
@@ -10,7 +10,7 @@
 
 说真的，GSoC 其实并不强硬。你只需要遵循一个好的、有组织的策略，你就能被选中。尤其是印度人今年表现格外出色。13 所顶级学校中有 11 所来自印度。
 
-[![](../Images/26353a8358426c5a2474b21a1d4fb759.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5kK0yQi2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/0aS157u.png)
+[![](img/26353a8358426c5a2474b21a1d4fb759.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5kK0yQi2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/0aS157u.png)
 
 所以，让我们开始吧。如何破解 GSoC？
 

@@ -22,7 +22,7 @@
 
 因此，我将创建一所名为“分布式高中”的新高中，它采用区块链的原则运作。我们将创建一种新的方法，使用分布式系统对数学课作业进行评分。学生将能够在没有老师帮助的情况下维护评分系统。
 
-[![distributedhigh](../Images/fa6bba794daff0eeef833699723217d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0MpAYJDR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/distributedhigh.png%3Ffit%3D730%252C514%26ssl%3D1)
+[![distributedhigh](img/fa6bba794daff0eeef833699723217d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0MpAYJDR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/distributedhigh.png%3Ffit%3D730%252C514%26ssl%3D1)
 
 **最后一点:**虽然比特币可能是 2018 年区块链技术最受欢迎的应用，但许多其他行业也可能在未来 5 年内开始采用区块链。
 
@@ -36,7 +36,7 @@
 
 所有这些都由一个集中的权力机构——老师——来管理。这个人会给你所有的作业打分，每个季度给你发成绩单，并确保没有人在考试中作弊，这将破坏课堂的完整性。
 
-[![CentralTeacher.png](../Images/7d757d7cda2ba486d282fd768fb233b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bl9UxTP---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/centralteacher.png%3Ffit%3D730%252C356%26ssl%3D1)
+[![CentralTeacher.png](img/7d757d7cda2ba486d282fd768fb233b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bl9UxTP---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/centralteacher.png%3Ffit%3D730%252C356%26ssl%3D1)
 
 虽然这是我们都习惯了的系统，但它实际上有一些重大缺陷。
 
@@ -47,13 +47,13 @@
 
 您可以在其他集中式系统中看到类似的问题。例如，尽管我们把自己的血汗钱托付给银行，但银行业通过需要大规模纳税人资金救助的高风险做法，帮助导致了 2008 年的金融危机。
 
-[![bankdiagram.png](../Images/27cdd814be26cb6b94fbd4a627cfdd87.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---4Mcz-H_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/bankdiagram.png%3Ffit%3D730%252C298%26ssl%3D1)
+[![bankdiagram.png](img/27cdd814be26cb6b94fbd4a627cfdd87.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---4Mcz-H_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/bankdiagram.png%3Ffit%3D730%252C298%26ssl%3D1)
 
 虽然我们信任医生，但医疗失误是美国第三大死亡原因，仅次于心脏病和癌症。谁知道这些死亡中有多少是因为医生无法获得重要的医疗数据？
 
 所以，你可能想知道…我们到底要如何通过消除老师的影响来解决所有这些问题，老师是这个系统中最有专业知识的人。我们如何防止它变成无政府状态？
 
-[![](../Images/b5daa87d50de42d683dfc62360a99c0b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i9GzEo3l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i0.wp.com/media.giphy.com/media/SsvY3QswnDWww/giphy.gif%3Fw%3D730%26ssl%3D1)
+[![](img/b5daa87d50de42d683dfc62360a99c0b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i9GzEo3l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i0.wp.com/media.giphy.com/media/SsvY3QswnDWww/giphy.gif%3Fw%3D730%26ssl%3D1)
 
 这就是区块链概念的由来。在我进入具体的方式之前，我们将使用区块链创建一种新的方式来运行分布式高中，你应该知道每个区块链都有其创建者制定的特定规则。
 
@@ -61,7 +61,7 @@
 
 在我们学校的例子中，我们将有一位非常有远见的校长改变了规则。
 
-[![schoolprincipal](../Images/2f494d2282d0605a8d02b8d54773c570.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aJzITkam--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/schoolprincipal.png%3Ffit%3D730%252C729%26ssl%3D1)
+[![schoolprincipal](img/2f494d2282d0605a8d02b8d54773c570.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aJzITkam--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/schoolprincipal.png%3Ffit%3D730%252C729%26ssl%3D1)
 
 ## 为分布式高中打造区块链
 
@@ -73,15 +73,15 @@
 
 但是，老师没有把所有的试卷带回家评分，而是把它们堆成一大堆，让每个学生随机做一份试卷，用答案评分。
 
-[![paperStack.png](../Images/8609ffe6a02308c2c54f7eddb60e4e2c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Tr68my3N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/paperstack.png%3Ffit%3D640%252C592%26ssl%3D1)
+[![paperStack.png](img/8609ffe6a02308c2c54f7eddb60e4e2c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Tr68my3N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/paperstack.png%3Ffit%3D640%252C592%26ssl%3D1)
 
 这被称为**交易**。这是构成区块链的基本单位。假设一个学生安迪给另一个学生爱丽丝打了 84 分。在这种情况下，安迪是**发送者**，爱丽丝是**接收者**。
 
-[![schoolTransaction](../Images/b947655c0461ede534f5ae403ff78dc2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oovnswNi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/schooltransaction.png%3Ffit%3D730%252C382%26ssl%3D1)
+[![schoolTransaction](img/b947655c0461ede534f5ae403ff78dc2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oovnswNi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/schooltransaction.png%3Ffit%3D730%252C382%26ssl%3D1)
 
 用比特币的话来说，这不会是随机的——你知道你要往哪里汇钱！
 
-[![bitcoinex1.png](../Images/62c562c9844d915320bf3469b8c40e00.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hWXb_4Qt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/bitcoinex1.png%3Ffit%3D730%252C381%26ssl%3D1)
+[![bitcoinex1.png](img/62c562c9844d915320bf3469b8c40e00.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hWXb_4Qt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/bitcoinex1.png%3Ffit%3D730%252C381%26ssl%3D1)
 
 到目前为止，我们已经解决了速度和成本问题。老师不再需要花时间评分，每个学生都可以很快地给其他考试评分。但是，欺诈的可能性仍然很大。这非常接近无政府状态。需要有一个由负责任的人组成的网络，让所有参与者保持诚实。
 
@@ -89,11 +89,11 @@
 
 如果一个高年级学生在一天内复习了 20 个这样的分级测试，他们可以参加一个竞赛，为他们自己的一个测试增加 10 分。
 
-[![rulesofBlockchainSchool.png](../Images/b8c125779b6e6834247bfc0b6c5acfea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nhXW0BGt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/rulesofblockchainschool.png%3Ffit%3D730%252C321%26ssl%3D1)
+[![rulesofBlockchainSchool.png](img/b8c125779b6e6834247bfc0b6c5acfea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nhXW0BGt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/rulesofblockchainschool.png%3Ffit%3D730%252C321%26ssl%3D1)
 
 这一组 20 个事务被称为一个**块**，我们将最终展示所有块如何一起工作以形成一个**区块链**。
 
-[![transactionsToBlock.png](../Images/8d96e3a01ef3d8f624a2889ef3d34bee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rfk0FuQX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/transactionstoblock.png%3Ffit%3D730%252C344%26ssl%3D1)
+[![transactionsToBlock.png](img/8d96e3a01ef3d8f624a2889ef3d34bee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rfk0FuQX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/transactionstoblock.png%3Ffit%3D730%252C344%26ssl%3D1)
 
 那么为什么只有学长才能这么做呢？为什么一定要竞争呢？
 
@@ -105,7 +105,7 @@
 
 在比特币中，每个块有 1 兆字节(MB)的数据限制。截至 2017 年末，平均事务包括约 500 字节的数据，因此一个块通常包含约 2000 个事务([来源](https://arstechnica.com/tech-policy/2017/12/bitcoin-fees-are-skyrocketing/))。
 
-[![transactionsBlock2.png](../Images/eba2dd0ebaeed3c8d402a7b02275f617.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0znQsBze--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/transactionsblock2.png%3Ffit%3D730%252C362%26ssl%3D1)
+[![transactionsBlock2.png](img/eba2dd0ebaeed3c8d402a7b02275f617.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0znQsBze--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/transactionsblock2.png%3Ffit%3D730%252C362%26ssl%3D1)
 
 ## 分布式总账简介
 
@@ -113,7 +113,7 @@
 
 假设 10 个高年级学生接受了校长的提议。他们想成为这场比赛的一部分，以便在自己的考试中获得更多的分数。另一组 10 名高年级学生决定志愿帮助维护该系统，但不参加比赛。这仅仅是出于对分布式系统的支持，也是开源分级运动精神的一部分。
 
-[![studentNetwork.png](../Images/110859d8b7887e6903b588c40fc5f6aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4ycXmMHz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/studentnetwork.png%3Ffit%3D730%252C393%26ssl%3D1)
+[![studentNetwork.png](img/110859d8b7887e6903b588c40fc5f6aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4ycXmMHz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/studentnetwork.png%3Ffit%3D730%252C393%26ssl%3D1)
 
 这些前辈中的每一个都是网络中的完整节点——他们实时交流新的事务和块。
 
@@ -121,7 +121,7 @@
 
 当像安迪这样的学生完成一项测试的评分时，该学生向高年级学生网络广播一个**未验证的交易**。每个完整的节点都像谣言一样与其他人分享它。它成为内存池的一部分。
 
-[![rumorExample.png](../Images/e5de0ebc01bd195cf8b12c38fd97c49a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jzLuJaVB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/rumorexample.png%3Ffit%3D730%252C408%26ssl%3D1)
+[![rumorExample.png](img/e5de0ebc01bd195cf8b12c38fd97c49a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jzLuJaVB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/rumorexample.png%3Ffit%3D730%252C408%26ssl%3D1)
 
 每个节点必须首先验证交易，换句话说，确定交易是否可行。在这个例子中，验证可能意味着通过将所有最终答案输入到您的计算器中来确认评分者实际上对测试进行了正确评分。我们稍后将进入验证的另一部分。
 
@@ -133,11 +133,11 @@
 
 在我们学校的例子中，这个交易费可以是发送者测试中的一个点，以捐赠给矿工。爱丽丝的测试不会得出这个结论。在比特币中，它只是比特币的一小部分，比如 0.000003 BTC。发件人支付费用，因为这是处理物流最简单的方式。
 
-[![transactionfee.png](../Images/64762631ddd19c16fc5ba885447a8977.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SsEGMUZs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/transactionfee.png%3Fresize%3D730%252C532%26ssl%3D1)
+[![transactionfee.png](img/64762631ddd19c16fc5ba885447a8977.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SsEGMUZs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/transactionfee.png%3Fresize%3D730%252C532%26ssl%3D1)
 
 此时，每个矿工都有他们想要添加到区块链的 20 个已验证事务块。现在，是比赛的时候了，看看 10 名矿工中的哪一个将获得他们的区块并从校长那里获得分数。
 
-[![20blockready.png](../Images/c37f6337c71b382e3192876e7e4168a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U21ChUvQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/20blockready.png%3Ffit%3D730%252C388%26ssl%3D1)
+[![20blockready.png](img/c37f6337c71b382e3192876e7e4168a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U21ChUvQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/20blockready.png%3Ffit%3D730%252C388%26ssl%3D1)
 
 最后一件事——你开始看到冗余的数量，或者重复的工作。每个提议的块将有许多共同的事务(测试)。这是运行分布式系统所必需的安全措施。如果所有节点都单独验证事务，那么欺骗系统就更加困难了。
 
@@ -151,23 +151,23 @@
 
 所以，取而代之的是，我们的校长打算每晚在学校组织一次寻宝游戏。重要的是，寻宝游戏与矿工的数学能力无关。这鼓励了大家继续挖矿。
 
-[![startHunt](../Images/c4a5945d817f4d09dc47cdc94be6fdd1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---vjzVlGo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/starthunt.png%3Ffit%3D730%252C730%26ssl%3D1)
+[![startHunt](img/c4a5945d817f4d09dc47cdc94be6fdd1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---vjzVlGo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/starthunt.png%3Ffit%3D730%252C730%26ssl%3D1)
 
 校长会把奖杯藏在学校的某个地方。学生们必须跑来跑去，直到他们找到它，然后大喊，这样全校的其他学生就可以确认他们找到了，然后回家。由于这位校长有一些神奇的预见能力，他把奖杯藏在一个完美的地方，这样每天晚上都要花大约一个小时才能找到。
 
-[![huntEnd.png](../Images/9f46d188daedf9c0f4f76f80fa9d6c07.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6SZRPn5Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/huntend.png%3Ffit%3D730%252C818%26ssl%3D1)
+[![huntEnd.png](img/9f46d188daedf9c0f4f76f80fa9d6c07.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6SZRPn5Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/huntend.png%3Ffit%3D730%252C818%26ssl%3D1)
 
 这听起来武断吗？换句话说，它感觉像是突然冒出来的吗？
 
 那么，它必须与测试验证无关，这样它才能公平竞争。这在比特币中被称为“[工作证明](https://en.bitcoin.it/wiki/Proof_of_work)”。这是一个很难解决的算法，但一旦解决，其他节点就很容易确认。每个比特币矿工必须猜测数字，直到他们选择正确的数字来解决这个难题。在比特币中，平均每 10 分钟就有一个新的区块被确认。
 
-[![bitcoinPOW.jpg](../Images/6faa456c34d7113920c86039c6d7051f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Fv9x51ta--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/bitcoinpow.jpg%3Ffit%3D638%252C399%26ssl%3D1)
+[![bitcoinPOW.jpg](img/6faa456c34d7113920c86039c6d7051f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Fv9x51ta--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/bitcoinpow.jpg%3Ffit%3D638%252C399%26ssl%3D1)
 
 [图像信用](https://www.slideshare.net/HowardAnglin/tutorial-blockchain-technicaloverviewss-66485781)
 
 请记住，比特币矿工实际上是巨大的计算机，看起来像这样:
 
-[![bitcoinmine.jpeg](../Images/447b645e143b9b2f6fd4126a4446bd49.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eDXR1gj2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/bitcoinmine.jpeg%3Ffit%3D730%252C548%26ssl%3D1)
+[![bitcoinmine.jpeg](img/447b645e143b9b2f6fd4126a4446bd49.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eDXR1gj2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/bitcoinmine.jpeg%3Ffit%3D730%252C548%26ssl%3D1)
 
 *[形象功劳](https://medium.com/@lopp/the-future-of-bitcoin-mining-ac9c3dc39c60)*
 
@@ -193,11 +193,11 @@
 
 在我们的高中例子中，我们看到的是一个九年级的班级。因此，班级的完整历史可以是整个班级所有学生的所有成绩，从幼儿园到今天。由于我们以 1 天为间隔添加区块，一学年大约有 180 天，这意味着区块链包含大约 1700 个区块。
 
-[![firstBlockchain.png](../Images/d390f5318718520adc3a517bc891a1b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mEOw0RJf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/firstblockchain.png%3Ffit%3D730%252C223%26ssl%3D1)
+[![firstBlockchain.png](img/d390f5318718520adc3a517bc891a1b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mEOw0RJf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/firstblockchain.png%3Ffit%3D730%252C223%26ssl%3D1)
 
 每个块都有一个唯一的 ID，这是由于一个“[散列函数](https://www.coindesk.com/information/how-do-bitcoin-transactions-work/)”，取决于前一个块的块 ID。这就是保护区块链的方法——不存在块替换或重写历史这样的事情，因为这将改变每个后续块的块 ID。
 
-[![blockchainDiagram.png](../Images/025ad2302274c132c27a7595532a402a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jUD42NMA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/blockchaindiagram.png%3Ffit%3D730%252C410%26ssl%3D1)
+[![blockchainDiagram.png](img/025ad2302274c132c27a7595532a402a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jUD42NMA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/blockchaindiagram.png%3Ffit%3D730%252C410%26ssl%3D1)
 
 由于我们的教育示例使用一天的时间间隔，您可能会想，*“哦，为每个块创建一个惟一的 ID 应该很容易，因为每个日期只出现一次！”*
 
@@ -205,7 +205,7 @@
 
 这里有一个[哈希生成器，你可以用它来玩。我希望我能给你一些关于块顺序的奇妙的类比，但是不幸的是，这就是散列函数的要点。这使得模仿和替换积木变得非常非常困难(就我们所知，这是不可能的)。因此，我将添加一些随机的字符串来显示正在发生的事情。](http://www.miraclesalad.com/webtools/sha256.php)
 
-[![blockchainwIDs.png](../Images/f4d122e69010ad349f932f666264f5dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---I0oJW6y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/blockchainwids.png%3Ffit%3D730%252C276%26ssl%3D1)
+[![blockchainwIDs.png](img/f4d122e69010ad349f932f666264f5dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---I0oJW6y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/blockchainwids.png%3Ffit%3D730%252C276%26ssl%3D1)
 
 我们将在下一部分讨论隐私，因为现在，看起来每个 12 年级学生都可以看到每个 9 年级学生的整个年级历史。这不是我们想要的！
 
@@ -217,11 +217,11 @@
 
 你的同学那天晚上疯狂学习，然后第二天出现和另一个班做同样的测试。由于老师没有认真听讲，她能够让老师相信她前一天不在场。请记住，教师在评分测试中没有作用，因此教师不能快速参考前一天的考试。她被允许再次参加考试，并和班上的其他同学一起提交。
 
-[![doublespend1](../Images/f69b567d11104b8e185e429584232054.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZeXYmOqW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/doublespend1.png%3Ffit%3D730%252C411%26ssl%3D1)
+[![doublespend1](img/f69b567d11104b8e185e429584232054.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZeXYmOqW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/doublespend1.png%3Ffit%3D730%252C411%26ssl%3D1)
 
 以下是来自区块链的最新选项，爱丽丝试图超越她以前的成绩。
 
-[![doublespendmidway](../Images/5d27c61802afe46c400d091a808e9af2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u0bDHXRZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/doublespendmidway.png%3Ffit%3D730%252C678%26ssl%3D1)
+[![doublespendmidway](img/5d27c61802afe46c400d091a808e9af2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u0bDHXRZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/doublespendmidway.png%3Ffit%3D730%252C678%26ssl%3D1)
 
 哦，对了，爱丽丝现在需要成为网络上的矿工，参加寻宝游戏。她现在是这个网络的第 11 名矿工。
 
@@ -231,13 +231,13 @@
 
 如果她能在那天赢得寻宝游戏，然后第二天回来再赢一次，她就有了最长的链条。
 
-[![doublespendfinal3](../Images/80f0f578afbcd6eb8fb416cbcf22b96b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NXeo2g3Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/doublespendfinal3.png%3Ffit%3D730%252C518%26ssl%3D1)
+[![doublespendfinal3](img/80f0f578afbcd6eb8fb416cbcf22b96b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NXeo2g3Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/doublespendfinal3.png%3Ffit%3D730%252C518%26ssl%3D1)
 
 这就是“工作证明”制度的部分价值。由于 Alice 是网络中 11 名矿工之一，她有大约 1%的机会连续解决两个街区的问题。有 99%的可能性，她会付出所有的努力却一无所获。这不是一个很好的激励。
 
 这也是为什么块 id 和以前的块 id 是比特定日期更好的标记方案。如果 Alice 在她秘密进行第二次测试的那一天赢得了比赛，那么那天的所有新测试最终仍将存储在区块链中。他们只需要再等一天。
 
-[![BackToMempool.png](../Images/ab46ea47183f4331a87526e1f3074bbf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m4H8jVx2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/backtomempool.png%3Ffit%3D730%252C489%26ssl%3D1)
+[![BackToMempool.png](img/ab46ea47183f4331a87526e1f3074bbf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m4H8jVx2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/backtomempool.png%3Ffit%3D730%252C489%26ssl%3D1)
 
 ## 引入公钥和私钥
 
@@ -249,11 +249,11 @@
 
 这也是为什么比特币使用了**公钥和私钥**的加密系统。在高中，你可能已经习惯了几乎每个走廊都有储物柜。
 
-[![basicLocker](../Images/5f70c82e7e7f567b1dc172fde54b8f78.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--06dbi0h5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/basiclocker.png%3Ffit%3D689%252C688%26ssl%3D1)
+[![basicLocker](img/5f70c82e7e7f567b1dc172fde54b8f78.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--06dbi0h5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/basiclocker.png%3Ffit%3D689%252C688%26ssl%3D1)
 
 嗯，在比特币中,(本质上)有无限数量的公私密钥组合。所以，想象一下，这所高中的墙上排列着你在公寓楼里看到的小邮箱。
 
-[![smallLockerLine](../Images/213ec6b59447a191834c04296197ce84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K5xTvcTM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/smalllockerline.png%3Ffit%3D730%252C190%26ssl%3D1)
+[![smallLockerLine](img/213ec6b59447a191834c04296197ce84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K5xTvcTM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/smalllockerline.png%3Ffit%3D730%252C190%26ssl%3D1)
 
 他们覆盖了整个该死的学校的每一面墙。并且，由于储物柜的总数是无限的，所以学校中的每个学生都可以拥有无限数量的储物柜。用数学术语来说:
 
@@ -261,7 +261,7 @@
 
 看过《[哈利波特与凤凰社](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film))》吗？
 
-[![harryPotterWall](../Images/05a419b94d732333de4449edeec200ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eS98KgRv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/harrypotterwall.jpg%3Ffit%3D730%252C435%26ssl%3D1)
+[![harryPotterWall](img/05a419b94d732333de4449edeec200ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eS98KgRv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/harrypotterwall.jpg%3Ffit%3D730%252C435%26ssl%3D1)
 
 这就像来自预言大厅的场景一样，看似无限。
 
@@ -271,7 +271,7 @@
 
 让我们回到我们的事务，Andy 给 Alice 评分。
 
-[![transactionfee](../Images/c98a220c914b3fc09577c9a5424949ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8i6vAu8F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/transactionfee.png%3Ffit%3D730%252C532%26ssl%3D1)
+[![transactionfee](img/c98a220c914b3fc09577c9a5424949ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8i6vAu8F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/transactionfee.png%3Ffit%3D730%252C532%26ssl%3D1)
 
 我们的**全节点**，精彩的高三学生，首先要评估安迪是否有资格评阅九年级数学试卷。安迪需要证明自己。
 
@@ -279,7 +279,7 @@
 
 所以，他必须在匿名的情况下广播。他可以在其中一个节点上随意滑动一张纸条……就像 80 年代开始的高中电影里的大部分谣言一样！
 
-[![bored high school GIF by blink-182](../Images/11d4433ea54e36c80100209a423fb6b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gnn8SLnu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i0.wp.com/media0.giphy.com/media/xT8qB8AqTw8yufCGk0/giphy.gif%3Fw%3D730%26ssl%3D1)
+[![bored high school GIF by blink-182](img/11d4433ea54e36c80100209a423fb6b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gnn8SLnu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i0.wp.com/media0.giphy.com/media/xT8qB8AqTw8yufCGk0/giphy.gif%3Fw%3D730%26ssl%3D1)
 
 那么整个节点将与网络的其余部分共享该谣言。
 
@@ -293,7 +293,7 @@
 
 我将把试卷发送到邮箱 856734pok”
 
-[![publicKeySubstitution.png](../Images/6aa9cc0b186434f379978688db377873.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_Jin-k2N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/publickeysubstitution.png%3Ffit%3D730%252C381%26ssl%3D1)
+[![publicKeySubstitution.png](img/6aa9cc0b186434f379978688db377873.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_Jin-k2N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/publickeysubstitution.png%3Ffit%3D730%252C381%26ssl%3D1)
 
 这回答了两个关键问题:
 
@@ -306,21 +306,21 @@
 
 为了证明这个特定的公钥(Andy 的公钥)具有足够的批准，他必须共享一个每个完整节点都可以验证的测试历史。这样，每个人都可以证明他完成了 1-8 年级。安迪还必须提供每项测试的答案，以证明他当时在房间里。这被称为**事务链**，这里我就不赘述了，但是它是验证的重要部分。
 
-[![schoolTransactChain](../Images/77ae80ed68b0cb64bf5b025526f403ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZzjHujeN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/schooltransactchain.png%3Ffit%3D592%252C901%26ssl%3D1)
+[![schoolTransactChain](img/77ae80ed68b0cb64bf5b025526f403ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZzjHujeN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/schooltransactchain.png%3Ffit%3D592%252C901%26ssl%3D1)
 
-[![signatureDiagram.png](../Images/2c59bc0d89b39a3ffdaca6c52fb1361d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3RJqj9uv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/signaturediagram.png%3Ffit%3D730%252C455%26ssl%3D1)
+[![signatureDiagram.png](img/2c59bc0d89b39a3ffdaca6c52fb1361d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3RJqj9uv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/signaturediagram.png%3Ffit%3D730%252C455%26ssl%3D1)
 
 [图像信用](https://www.cryptocompare.com/wallets/guides/how-do-digital-signatures-in-bitcoin-work/)
 
 在安迪的事务被**验证**并被包含在一个已经被**确认**的块中之后，他可以在不为公众所知的情况下将测试放到爱丽丝的邮箱中。
 
-[![finishTransact.png](../Images/98b32c103aff65c060bcbee45fc7fc2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ielPKszR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/finishtransact.png%3Ffit%3D457%252C368%26ssl%3D1)
+[![finishTransact.png](img/98b32c103aff65c060bcbee45fc7fc2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ielPKszR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/finishtransact.png%3Ffit%3D457%252C368%26ssl%3D1)
 
 正如您在上面的交易中注意到的，Andy 必须访问过去 8 年的测试！这个储物柜系统只允许安迪查看他的试卷。
 
 安迪有一组 8 个**私钥**。每次开始新的一年，他都会打开另一个储物柜，把那一年的成绩放在储物柜里。
 
-[![setofprivatekeys.png](../Images/3c4a6ca4c8dc84561813e2b569d346ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BvDlMlme--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/setofprivatekeys.png%3Ffit%3D730%252C375%26ssl%3D1)
+[![setofprivatekeys.png](img/3c4a6ca4c8dc84561813e2b569d346ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BvDlMlme--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/setofprivatekeys.png%3Ffit%3D730%252C375%26ssl%3D1)
 
 其他人可以将他的最新测试结果放入他的储物柜，但只有他可以取回结果。
 

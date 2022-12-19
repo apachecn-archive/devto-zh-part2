@@ -8,13 +8,13 @@
 
 首先，让我们从总体上看一下电子商务行业:
 
-[![artificial intelligence in e-commerce](../Images/9129b1038da95e22fa12c6c8bc2d6346.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Picture1.png)
+[![artificial intelligence in e-commerce](img/9129b1038da95e22fa12c6c8bc2d6346.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Picture1.png)
 
 *来源:[emarketer](https://amasty.com/blog/global-e-commerce-trends-and-statistics-2017-2018/)T3】*
 
 印象深刻吧。电子商务绝对值得一看。让我们继续讨论人工智能，看看它们实际上是如何联系在一起的。
 
-[![AI investment](../Images/167424e01be206050ea975340f07d1cf.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Picture1-1.png)
+[![AI investment](img/167424e01be206050ea975340f07d1cf.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Picture1-1.png)
 
 正如我们所看到的，人工智能在电子商务中被大量使用！Gartner 预测，到 2020 年，超过 80 %的客户互动将由人工智能处理。如今，阿里巴巴、乐天、易贝和亚马逊等公司正在使用人工智能进行虚假评论检测、聊天机器人、产品推荐、管理大数据等。稍后我们将更详细地讨论它。
 
@@ -32,7 +32,7 @@
 
 人工智能是一种趋势，是的，肯定是这样，但它给了我们如此多的机会，以至于不可能在一篇文章中涵盖所有的机会。让我们关注最强大、最时尚的解决方案。其中之一是视觉和语音搜索:
 
-[![visual search](../Images/da3b8b9834127d84f88743f191972fb1.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Picture1-2.png)
+[![visual search](img/da3b8b9834127d84f88743f191972fb1.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Picture1-2.png)
 
 Branded3 声称，到 2020 年，图像和语音搜索可能会占到所有搜索的 50%。又一个令人印象深刻的预测，对吧？此外，到 2021 年，预计早期采用者重做他们的网站并实施视觉和[语音搜索](https://dev.to/apium_hub/breaking-the-deadlock-how-a-voice-assistant-can-transform-your-business-38g8)将增加 30%的电子商务收入。
 

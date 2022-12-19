@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/couellet/teardown-visual-studio-code-vs-sublime-javascript-focus-2424>
 
-[![Visual Studio Code VS Sublime for JavaScript & Frontend Development](../Images/f09b8aa21dcb9b31dc217ae2628697e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9iAeVNv3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203619/vscodevssublime.jpg)
+[![Visual Studio Code VS Sublime for JavaScript & Frontend Development](img/f09b8aa21dcb9b31dc217ae2628697e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9iAeVNv3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203619/vscodevssublime.jpg)
 
 不同的项目需要不同的工具。开发人员必须[选择正确的](https://snipcart.com/blog/startup-tech-stack)，这在这个快节奏的环境中不是一个小任务。
 
@@ -25,7 +25,7 @@
 
 但是不要让它的年轻欺骗了你:它发展得非常快，已经有了一个广泛的扩展和插件社区。
 
-[![visual studio code](../Images/6f95e9cb7f5b3f874692f73b26eb8455.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vIZn07Zu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203620/vscode.png)
+[![visual studio code](img/6f95e9cb7f5b3f874692f73b26eb8455.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vIZn07Zu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203620/vscode.png)
 
 这是我们的开发团队在日常工作中使用最多的代码编辑器。但我保证会保持公正。；)
 
@@ -33,7 +33,7 @@
 
 一些关键功能也有助于它如此受欢迎。首先，它的超级智能感知为许多语言提供了最好的自动完成发现。
 
-[![vscode-intellisense](../Images/7c5486b4ba05f85a21b2b7fc2b800c90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UWRM2i7m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203618/vscode_intellisense.png)
+[![vscode-intellisense](img/7c5486b4ba05f85a21b2b7fc2b800c90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UWRM2i7m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203618/vscode_intellisense.png)
 
 它对调试的支持(主要是对 Node.js 和 JavaScript 的支持，我将在后面谈到)也减轻了开发人员可能会经历的许多痛苦。
 
@@ -51,7 +51,7 @@
 
 同样是跨平台的，Sublime 不是免费的，价格是 80 美元/许可。
 
-[![sublime text](../Images/e622a7c7341f3ee7320cd4b7ab7c20cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nbAneE1r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203608/sublime.png)
+[![sublime text](img/e622a7c7341f3ee7320cd4b7ab7c20cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nbAneE1r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203608/sublime.png)
 
 与 VS Code 非常相似，Sublime 在性能和定制方面获得了很多好评。
 

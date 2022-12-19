@@ -68,7 +68,7 @@ Who is eligible for an architect? Which skills should he/she grasp? The article 
 
 以上只是一个思路,而衡量一个系统的架构的优劣还有其他方面,比如这个图:
 以上只是一些想法，当我们在架构方面衡量一个系统的优点和缺点时，还有许多其他方面需要考虑，比如思维导图:
-[![架构脑图](../Images/63546120089269843e15c7f0cbe8d10a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YHq-Liw7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/69gqc1pvgeacmdi12jqk.png) 
+[![架构脑图](img/63546120089269843e15c7f0cbe8d10a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YHq-Liw7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/69gqc1pvgeacmdi12jqk.png) 
 所以,要评估一个技术的架构是否良好,只要这七个方面表现良好了,架构就是良好的.所以，要估计一个系统的架构好不好，我相信只要这样 7 个方面好，就是好的。
 
 #### 技术与业务的冲突技术和业务之间的冲突
@@ -79,7 +79,7 @@ Who is eligible for an architect? Which skills should he/she grasp? The article 
 
 *刻意忽略了一些工作,比如市场,技术前瞻性,与其他公司的关联,等等有些职责被故意忽略，这些职责与市场、技术前景、与其他公司的联系等有关。*
 
-[![CTO job](../Images/8e464e621458b2b7c2cb422e9e2b6b4d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SMzcTOwA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r2jqgj0fifvvgkjujo92.jpg)
+[![CTO job](img/8e464e621458b2b7c2cb422e9e2b6b4d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SMzcTOwA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r2jqgj0fifvvgkjujo92.jpg)
 
 ```
 Title: 工作职责(duties)

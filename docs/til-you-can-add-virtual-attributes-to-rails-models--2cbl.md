@@ -6,7 +6,7 @@
 
 我正在构建一个电子邮件发送功能，基本思想是给用户分配一个有截止日期的角色，并允许发送电子邮件通知用户。最终结果是这样的:
 
-[![Example image of role adding form](../Images/c751ca04b8a98f2fc49dfae0781968ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y7gCJPsB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q0rnn62h844pbshymnjc.png)
+[![Example image of role adding form](img/c751ca04b8a98f2fc49dfae0781968ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y7gCJPsB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q0rnn62h844pbshymnjc.png)
 
 构建表单非常简单明了，尤其是因为大部分工作已经用[administration gem](https://github.com/thoughtbot/administrate)为我完成了。甚至有一个很好的 wiki 告诉我如何制作一个定制的表单域，它甚至包括一个命令行生成器！太好了！这太简单了！像大多数问题一样，这个问题没有我想象的那么简单。
 
@@ -39,7 +39,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 好吧，这就是我要做的，对吗？表单提交后，一切正常，然后 bada bing bada boom *将代码投入生产*。嗯，一旦代码进入生产，我意识到它不起作用-实际上，Jess 意识到它不起作用，让我知道我犯了错误。吸取教训。总是检查你的代码，看看...
 
-[![mipsytipsy profile image](../Images/b43ecce6a85296fb8da1758ff6810eaa.png) ](/mipsytipsy) [ Charity Majors ](/mipsytipsy) • [<time datetime="2018-02-21T19:21:58Z"> Feb 21 '18 </time>](https://dev.to/mipsytipsy/comment/2bmd) 
+[![mipsytipsy profile image](img/b43ecce6a85296fb8da1758ff6810eaa.png) ](/mipsytipsy) [ Charity Majors ](/mipsytipsy) • [<time datetime="2018-02-21T19:21:58Z"> Feb 21 '18 </time>](https://dev.to/mipsytipsy/comment/2bmd) 
 
 部署后会发生什么。
 
@@ -93,7 +93,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <figure>
 
-[![Ben's response: virtual attributes](../Images/22e19b3a1ec17e5ec862e61f6a3ffef0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GInjuJ3F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/umxi04o641o2u52wkxdb.png)
+[![Ben's response: virtual attributes](img/22e19b3a1ec17e5ec862e61f6a3ffef0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GInjuJ3F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/umxi04o641o2u52wkxdb.png)
 
 <figcaption>I replied with :explodingheademoji:, and yeah, it's a real emoji.</figcaption>
 

@@ -12,7 +12,7 @@
 
 这里有一个场景可以考虑:
 
-[![](../Images/653280eab9b01985390377257c08755f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zDFBj92o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://aisaac.io/content/images/2018/07/ViciousCycle.png)
+[![](img/653280eab9b01985390377257c08755f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zDFBj92o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://aisaac.io/conteimg/2018/07/ViciousCycle.png)
 
 一个团队陷入了困境——他们总是产生糟糕的结果。
 
@@ -26,7 +26,7 @@
 
 好消息是，采用好的软件实践有它自己的正反馈循环。
 
-[![](../Images/b648f178e370a09474d8931954512c3f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2lfxLpeW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://aisaac.io/content/images/2018/07/VirtuousCycle.png)
+[![](img/b648f178e370a09474d8931954512c3f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2lfxLpeW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://aisaac.io/conteimg/2018/07/VirtuousCycle.png)
 
 采用最佳实践应该会带来更好的结果，并且您可以开始跟踪和衡量这些小的成功。这反过来将为利益相关者带来收益(或者至少减少棘手问题)，从而产生一种倾听和采纳更多建议的开放性。于是一个正反馈循环开始启动。
 

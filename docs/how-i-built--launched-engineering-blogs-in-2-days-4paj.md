@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/keyul/how-i-built--launched-engineering-blogs-in-2-days-4paj>
 
-[![](../Images/925b8b605ac7e8166aa6d1f86bc7f497.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zdJTCwIb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/natgriokr2ljl5oye3g0.png)
+[![](img/925b8b605ac7e8166aa6d1f86bc7f497.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zdJTCwIb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/natgriokr2ljl5oye3g0.png)
 
 *周一*，我在推特上展示了文章“*减少 Slack 的内存占用*”。这是由 Slack 工程团队编写的，旨在解释他们如何解决 Slack 桌面应用程序的高内存消耗问题。
 

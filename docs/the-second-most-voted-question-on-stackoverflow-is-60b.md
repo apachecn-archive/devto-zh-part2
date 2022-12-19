@@ -4,7 +4,7 @@
 
 如果你访问:[https://stackoverflow.com/questions?sort=votes](https://stackoverflow.com/questions?sort=votes)，你会在 StackOverflow 上看到投票最多的问题。
 
-[![https://thepracticaldev.s3.amazonaws.com/i/9gg2c7r1wphf84q24hhq.png](../Images/4a97bace971cb087023a7f96fd612629.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KjeQX_Pw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9gg2c7r1wphf84q24hhq.png)
+[![https://thepracticaldev.s3.amazonaws.com/i/9gg2c7r1wphf84q24hhq.png](img/4a97bace971cb087023a7f96fd612629.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KjeQX_Pw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9gg2c7r1wphf84q24hhq.png)
 
 不难注意到，StackOverflow 上的前 4 个投票问题中有 3 个是在 git 上！
 
@@ -18,7 +18,7 @@
 
 或者在一张图中:
 
-[![](../Images/638a87ba3cec8b1f07c87a438b08517b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S9Bucuoj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ohrvazva91yxodmouzel.png)
+[![](img/638a87ba3cec8b1f07c87a438b08517b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S9Bucuoj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ohrvazva91yxodmouzel.png)
 
 用户说他已经提交了，但是还没有推送。
 
@@ -44,7 +44,7 @@
 
 所以答案要求用户回到过去，这不正是他想要的吗？答案告诉他这样做:
 
-[![](../Images/2b889e9153b8e7b132056e53c03b14a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PlJuM_n7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r0tmezeql0deh1zeyi3g.png)
+[![](img/2b889e9153b8e7b132056e53c03b14a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PlJuM_n7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r0tmezeql0deh1zeyi3g.png)
 
 `git reset HEAD~`
 
@@ -136,7 +136,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 基本上画面是这样的:
 
-[![HEAD graph](../Images/090c6e066e114af96cb219d7e1aa001d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZoTleJJC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ymsw79nb828ya90332xb.png)
+[![HEAD graph](img/090c6e066e114af96cb219d7e1aa001d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZoTleJJC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ymsw79nb828ya90332xb.png)
 
 我们在上图中看到的是上面的 bash 命令，我们看到:
 

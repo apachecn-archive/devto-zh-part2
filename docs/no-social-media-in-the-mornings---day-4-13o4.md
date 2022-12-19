@@ -36,11 +36,11 @@
 
     今天很凉爽，但是太阳出来了。跑步的好天气。我会让结果来说话:
 
-    > ![](../Images/4ab8a27f2376ac17da96a7557743d75d.png)![](../Images/2ff06b0b3b74bb4a2e2bd7c693552b0d.png)【何塞·冈萨雷斯】@ Jose gonz 321![](../Images/4d9c44713c216584b3d48ff3455cbb68.png)加油男孩女孩们，安和未定我们不能让宗教慢下来😀
+    > ![](img/4ab8a27f2376ac17da96a7557743d75d.png)![](img/2ff06b0b3b74bb4a2e2bd7c693552b0d.png)【何塞·冈萨雷斯】@ Jose gonz 321![](img/4d9c44713c216584b3d48ff3455cbb68.png)加油男孩女孩们，安和未定我们不能让宗教慢下来😀
     > 
     > [@帕夫索恩](https://twitter.com/pavsaund)[@佩波维茨](https://twitter.com/pepopowitz)[@ pryelluw](https://twitter.com/pryelluw)[@ ReidNEvans](https://twitter.com/ReidNEvans)[@ Rick _ pack 2](https://twitter.com/rick_pack2)[@ raelyard](https://twitter.com/raelyard)[@ Jon hider](https://twitter.com/jonhider)[@ RyanWillDev](https://twitter.com/RyanWillDev)
     > 
-    > 我错过谁了吗？2018 年 4 月 27 日下午 15:27[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=989888821604093952)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=989888821604093952)0[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=989888821604093952)2
+    > 我错过谁了吗？2018 年 4 月 27 日下午 15:27[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=989888821604093952)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=989888821604093952)0[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=989888821604093952)2
 
 4.  **开车上班**🚗
     冲了个澡，迅速做好准备后，我抓起东西，把手机放进了口袋。我和妻子聊了一会儿天，喝了我的奶昔和茶。🍵
@@ -64,7 +64,7 @@
 
     不过，还是有好的一面出现了:
 
-    > ![](../Images/da093e3244e28b91d2a18255c99847f9.png)![](../Images/2ff06b0b3b74bb4a2e2bd7c693552b0d.png)何塞·冈萨雷斯@ Jose gonz 321![](../Images/4d9c44713c216584b3d48ff3455cbb68.png)[@ pryelluw](https://twitter.com/pryelluw)[@ pavsaund](https://twitter.com/pavsaund)[@ pepopowitz](https://twitter.com/pepopowitz)[@ ReidNEvans](https://twitter.com/ReidNEvans)[@ Rick _ pack 2](https://twitter.com/rick_pack2)[@ raelyard](https://twitter.com/raelyard)[@ Jon hider](https://twitter.com/jonhider)00:19AM-2018 年 4 月 28 日[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=990022604147785728)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=990022604147785728)0[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=990022604147785728)0
+    > ![](img/da093e3244e28b91d2a18255c99847f9.png)![](img/2ff06b0b3b74bb4a2e2bd7c693552b0d.png)何塞·冈萨雷斯@ Jose gonz 321![](img/4d9c44713c216584b3d48ff3455cbb68.png)[@ pryelluw](https://twitter.com/pryelluw)[@ pavsaund](https://twitter.com/pavsaund)[@ pepopowitz](https://twitter.com/pepopowitz)[@ ReidNEvans](https://twitter.com/ReidNEvans)[@ Rick _ pack 2](https://twitter.com/rick_pack2)[@ raelyard](https://twitter.com/raelyard)[@ Jon hider](https://twitter.com/jonhider)00:19AM-2018 年 4 月 28 日[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=990022604147785728)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=990022604147785728)0[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=990022604147785728)0
 
 ## 第一次查看社交媒体
 

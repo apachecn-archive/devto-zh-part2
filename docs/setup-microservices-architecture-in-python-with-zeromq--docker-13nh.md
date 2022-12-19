@@ -47,7 +47,7 @@
 
 ZeroMQ 有多种通信模式，让我们在 docker 容器中用 ZeroMQ 和 Flask 设置一个简单的发布订阅。下图显示了组件之间的关系和流程。
 
-[![Alt text of image](../Images/ddd12fe2ef0d77d4966fef7e7a7c703a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aiFJHgbD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.com/images/microservices-docker-python-apcelent.png)
+[![Alt text of image](img/ddd12fe2ef0d77d4966fef7e7a7c703a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aiFJHgbD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.cimg/microservices-docker-python-apcelent.png)
 
 *   1 & 3-flask 服务器运行在 prot 5000 上，并有一个 URL /downcase/URL 满足 GET 请求，以及所有格式的请求。Params=将有一个响应，其中大写字母将被转换为小写字母，这将作为响应返回。
 

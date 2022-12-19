@@ -302,24 +302,24 @@ Enter fullscreen mode Exit fullscreen mode
 
 *   [邮差 Chrome App](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
 
-[![add-postman-chrome-app](../Images/90b64f2a6788d115a6131bcae920466e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ha86Edty--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/postman-1.png)
+[![add-postman-chrome-app](img/90b64f2a6788d115a6131bcae920466e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ha86Edty--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/postman-1.png)
 
 添加完 Postman 应用程序后，它会将你重定向到 Chrome 应用程序。点击邮递员图标。
 
-[![run-postman-chrome-app](../Images/2311dd31ef0ac489433842eed9858d1c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uFkOisIC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/postman-2.png)
+[![run-postman-chrome-app](img/2311dd31ef0ac489433842eed9858d1c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uFkOisIC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/postman-2.png)
 
 你的选择，但我现在跳过了注册选项。
 
-[![skipped-signup-postman-chrome-app](../Images/0018d8a6e044353e7abeb6cbbcdb04c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hVwTmNAm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/postman-3.png)
+[![skipped-signup-postman-chrome-app](img/0018d8a6e044353e7abeb6cbbcdb04c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hVwTmNAm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/postman-3.png)
 
 选择`Create a Request`
-[![skipped-signup-postman-chrome-app](../Images/b46f139909d66a21125aa0fec32bb1d1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oTS1jgSA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/postman-4.png)
+[![skipped-signup-postman-chrome-app](img/b46f139909d66a21125aa0fec32bb1d1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oTS1jgSA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/postman-4.png)
 
 简单地说，Postman 的目的是，我们将使用它来创建 POST 请求，并将它们发送到`mind-wave-journal-server`以确保它为 iOS 应用程序开始发出 POST 请求做好准备，将 EEG 数据保存到我们的 Mongo 服务器。
 
 让我们创建第一个测试 POST 请求。从命名请求`Test eegsamples`开始。创建一个文件夹来存放新请求，我将其命名为`mind-wave-journal-server`。然后点击
 
-[![create-request-postman-chrome-app](../Images/921464d68b6dd53bb48adeda3786f4e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Uc7dJls2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/postman-5.png)
+[![create-request-postman-chrome-app](img/921464d68b6dd53bb48adeda3786f4e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Uc7dJls2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/postman-5.png)
 
 您需要将类型设置为`POST`。网址将会是
 
@@ -329,11 +329,11 @@ http://your_ip_address:8080/eegsamples
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![create-request-postman-chrome-app](../Images/66e816d64a7b9c31b5aca029e669af3f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hhJEsKla--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/postman-6.png)
+[![create-request-postman-chrome-app](img/66e816d64a7b9c31b5aca029e669af3f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hhJEsKla--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/postman-6.png)
 
 否。选择`Headers`部分并添加`Content Type: application/json`
 
-[![create-request-postman-chrome-app](../Images/e57af217d0f367495976418d9351c7ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qk0aNPG6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/postman-7.png)
+[![create-request-postman-chrome-app](img/e57af217d0f367495976418d9351c7ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qk0aNPG6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/postman-7.png)
 
 最后，选择`Body`，然后选择`raw`，在文本区输入以下 JSON:
 
@@ -345,11 +345,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 然后！点击`Send`
 
-[![create-request-postman-chrome-app](../Images/c0e894d409b3422279a0a72db83a4387.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4Qul8fmd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/postman-8.png)
+[![create-request-postman-chrome-app](img/c0e894d409b3422279a0a72db83a4387.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4Qul8fmd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/postman-8.png)
 
 如果一切顺利，那么您应该在 Postman response 部分得到类似的响应
 
-[![create-request-postman-chrome-app](../Images/050bf654d0931809382cbffafbd93dbe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gYv_Alqt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.com/images/postman-9.png)
+[![create-request-postman-chrome-app](img/050bf654d0931809382cbffafbd93dbe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gYv_Alqt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ladvien.cimg/postman-9.png)
 
 注意，响应与我们发送的相似。但是，还有附加的`_id`。这太棒了。它是输入数据时 MongoDB 分配给的 id。简而言之，这意味着它成功地保存到数据库中。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/skatkov/phoenix-reborn---open-source-crypto-exchange-peatio-2pdg>
 
-[![Crypto exchange](../Images/41eeef30300e2bece865b9968addd344.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bEe6ZeaA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4juecuzy6jqzcfo8vva3.png)
+[![Crypto exchange](img/41eeef30300e2bece865b9968addd344.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bEe6ZeaA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4juecuzy6jqzcfo8vva3.png)
 
 我喜欢帮助那些拥有 ruby 的公司。Upwork 帮助我找到了新的线索。我是就业版块的常客，现在我开始注意到一些趋势- [观点](https://github.com/peatio/peatio)经常出现。但是在我检查了开源代码之后，要让它准备好投入生产，似乎有太多的工作要做:
 

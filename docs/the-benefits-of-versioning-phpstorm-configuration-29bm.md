@@ -25,7 +25,7 @@
 
 当你和你的同伴一起工作时，你不会感到沮丧，并且会节省脑力，因为你将有相同的 IDE 设置！当与其他开发人员配对时，我有一个问题，我们的 PhpStorm 检查设置不同。例如，他们启用了默认检查，这不是为给定的项目定制的，但我在其他方面做了一些改变，所以我可以放心地依靠 PhpStorm 在我的窗口中显示没有问题的标记。当我看到黄色的时候——它让我很难专注于我们正在解决的设计问题，相反——我在看代码中有什么错误。这可以通过相同的设置来解决。
 
-[![Comparing windows with problems and without](../Images/7ec2f876c5409bd9fb4c75e1bf5970f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LasPpKA3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://donis.github.io/assets/images/posts/2018-03-18-idea-folder/problem-comparison.png)
+[![Comparing windows with problems and without](img/7ec2f876c5409bd9fb4c75e1bf5970f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LasPpKA3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://donis.github.io/asseimg/posts/2018-03-18-idea-folder/problem-comparison.png)
 
 上面的例子提供了有问题的文件和没有问题的文件之间的区别。你希望在你的 IDE 中看到哪一个？
 
@@ -39,7 +39,7 @@
 
 您可以利用 PhpStorm 中强大的检查引擎，可以定制和设置不同的配置文件。例如，您可以使用自定义规则集启用“PHP 代码嗅探器”检查，它将在 PhpStorm 的问题侧栏中只标记您关心的重要部分。您可以在代码中为所有命名方案编写定制的 regexp 规则。有大量的检查，您可以通过使用类似[Php Inspections(EA Extended)](https://github.com/kalessil/phpinspectionsea)的插件来添加更多的检查，所有这些都可以打开/关闭，设置为不同的报告级别，甚至可以在一个地方检查，在另一个地方跳过。
 
-[![Naming convention inspections window](../Images/295750b7871d7c94daa2b52ea0438f93.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k4csMCDw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://donis.github.io/assets/images/posts/2018-03-18-idea-folder/name-inspections.png)
+[![Naming convention inspections window](img/295750b7871d7c94daa2b52ea0438f93.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k4csMCDw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://donis.github.io/asseimg/posts/2018-03-18-idea-folder/name-inspections.png)
 
 ## 轻松获知更新的准则
 
@@ -59,13 +59,13 @@
 
 我使用示波器来帮助我找到项目周围的路，并为它们设置不同的检查设置。首先，我用它们给不同的文件类型添加颜色。如果你有像`FrontpageController.php`或`AddCommentCommand.php`格式的文件名，或者让我们说你把你所有的控制器保存在`Controller`目录中，你可以为它们定义不同的颜色。这有助于我在一大堆文件中或在搜索中快速找到我要找的东西。
 
-[![Scopes in PhpStorm](../Images/4e9d54b2ba1952fb9b640c697c74f272.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xombWCkV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://donis.github.io/assets/images/posts/2018-03-18-idea-folder/scopes.png)
+[![Scopes in PhpStorm](img/4e9d54b2ba1952fb9b640c697c74f272.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xombWCkV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://donis.github.io/asseimg/posts/2018-03-18-idea-folder/scopes.png)
 
 你可以看到我把我的命令涂成了蓝色，控制器涂成了红色，所以现在我不用读名字就可以很容易的区分它们。他们的背景在搜索中也是一样的。
 
 示波器的另一个用途是检查。您可以为不同种类的范围定义不同级别的检查(或完全禁用它们)。
 
-[![Disabled inspection for Controller scope](../Images/f6c3c723a04225ace042e62d6071b816.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z7ndoiMp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://donis.github.io/assets/images/posts/2018-03-18-idea-folder/scope-inspection.png)
+[![Disabled inspection for Controller scope](img/f6c3c723a04225ace042e62d6071b816.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z7ndoiMp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://donis.github.io/asseimg/posts/2018-03-18-idea-folder/scope-inspection.png)
 
 在这里，我禁用了对控制器范围内未定义的类常量的警告。
 
@@ -79,7 +79,7 @@
 
 如果您启用了 [composer 集成](https://www.jetbrains.com/help/phpstorm/2017.3/composer-dependency-manager.html)，PhpStorm 的最新版本能够通过理解来自`composer.json`的 PSR-0 和 PSR-4 路径来自动标记*源*目录。我发现有几件事对于将目录标记为源目录或测试目录非常有用。首先，我可以为这些目录设置适当的名称空间(有时在复杂的项目中 PhpStorm 不能自动检测到它们),这有助于我创建新的类或移动它们——我不需要每次都重新键入它们。自动化 FTW！此外，我可以设置测试目录，并让 PhpStorm 在导航到 test/to class 时自动检测在何处创建新测试(或从测试创建新类)。我花更少的时间在我的目录树中导航，只是在测试和实现之间向前/向后跳转。
 
-[![Directories configuration screen](../Images/201747ce9bb0ddc7ac34acddb58aa73d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zafCU3nO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://donis.github.io/assets/images/posts/2018-03-18-idea-folder/marked-directories.png)
+[![Directories configuration screen](img/201747ce9bb0ddc7ac34acddb58aa73d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zafCU3nO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://donis.github.io/asseimg/posts/2018-03-18-idea-folder/marked-directories.png)
 
 您可以看到我的`src`目录默认设置了一个`Donis\Phwitch`名称空间，PhpStorm 也忽略了所有的 composer 依赖项，因为它们被添加到 include 路径中。
 
@@ -97,7 +97,7 @@
 
 如果共享 PhpStorm 配置，那么只有一个开发人员需要向他们的 PhpStorm 中添加新的工具配置。假设您已经将 Behat 设置添加到项目中。PhpStorm 与它有很好的集成，您可以设置一个或多个运行配置，以便在 PhpStorm 中轻松运行所有的 Behat 测试。PHPSpec？玩笑？码头工人？这些工具都有某种配置，如果需要，可以根据您的需要进行定制。我想，你希望你所有的开发伙伴都能从这些新工具中受益，并在设置它们时节省他们的时间和精力？想象一下当有人错误地配置 PHPUnit 并跳过运行一半的测试时会发生什么样的灾难！
 
-[![Different tools you can set up in PhpStorm](../Images/9db2b6d6550cd3e7fbed5af870f4a39e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OGtNVTy8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://donis.github.io/assets/images/posts/2018-03-18-idea-folder/run-configurations.png)
+[![Different tools you can set up in PhpStorm](img/9db2b6d6550cd3e7fbed5af870f4a39e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OGtNVTy8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://donis.github.io/asseimg/posts/2018-03-18-idea-folder/run-configurations.png)
 
 所有这些工具的运行配置都可以与您的`.idea`目录共享。
 

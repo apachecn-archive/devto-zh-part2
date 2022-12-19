@@ -12,7 +12,7 @@
 
 顾名思义，行为模式关注对象的行为。
 
-[![Zoidberg](../Images/44f0cb4799aee395321f640d446ea951.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TtzcJzLp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.quickmeme.com/img/b1/b1ee54106b29a0ee085bd3918f98e95d559e9ad70e4d23587cc97c66a51d5bf4.jpg)
+[![Zoidberg](img/44f0cb4799aee395321f640d446ea951.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TtzcJzLp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.quickmeme.com/img/b1/b1ee54106b29a0ee085bd3918f98e95d559e9ad70e4d23587cc97c66a51d5bf4.jpg)
 
 与其他类型的模式不同，行为模式不仅是对象和类的模式，也是它们之间的通信模式。它们的主要目的是使用旨在简化复杂控制流的抽象在应用程序中的组件之间概括和分配职责。
 
@@ -20,7 +20,7 @@
 
 假设你在一家餐馆，你想吃一块多汁的 T 骨牛排(我想现在很明显我有东西吃了)。一种方法是站起来，走进厨房，让厨师为你准备一块牛排。这时，你意识到厨房里满是有着同样聪明想法的人，他们最终在厨房员工中制造混乱和困惑。只有一件事会更糟:你的前女友/男友，是的，就是那个对毒药情有独钟的人，是厨师。
 
-[![Sad Panda](../Images/9fd548ee2e680f9c244f530fa0c30d39.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6ixxamAQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.pinimg.com/originals/c4/b8/83/c4b8834dc60dd504f287b7a1232bc34e.jpg)
+[![Sad Panda](img/9fd548ee2e680f9c244f530fa0c30d39.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6ixxamAQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.pinimg.com/originals/c4/b8/83/c4b8834dc60dd504f287b7a1232bc34e.jpg)
 
 事实上，顾客只对获得食物感兴趣。与厨师的直接交流没有达到这个目的，实际上只会带来问题。同时，当您有多个请求时，这种直接通信不能伸缩，甚至当这些请求有多个侦听器时也不能伸缩。这是一个很好的例子，说明了*耦合*会给软件开发带来的问题。
 
@@ -53,7 +53,7 @@
 
 上例中的 ex 场景应该足以让您相信，即使在计算机科学之外，耦合也是危险的。
 
-[![Overly attached girlfriend](../Images/e84bd6751efc6e7d24142e54bc3a4c42.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TS81OE_I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.quickmeme.com/img/01/019c87c5b8b608e863093dbcaa88101564d0fab0b9cdbd2a780cbb940e94a782.jpg)
+[![Overly attached girlfriend](img/e84bd6751efc6e7d24142e54bc3a4c42.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TS81OE_I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.quickmeme.com/img/01/019c87c5b8b608e863093dbcaa88101564d0fab0b9cdbd2a780cbb940e94a782.jpg)
 
 如果你没有心情去想你那些疑神疑鬼的熟人，你也可以考虑一下，如果你的饭需要由两个团队来做，一个团队专门做牛排，一个团队做配菜，你必须完成的程序基本上是不变的。
 
@@ -65,7 +65,7 @@
 
 号码
 
-[![Just kidding](../Images/3740aad05a837b3af84d5872ab9f4812.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OloVNEfG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sayingimages.com/wp-content/uploads/yo-dawg-im-just-kidding-meme.jpg)
+[![Just kidding](img/3740aad05a837b3af84d5872ab9f4812.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OloVNEfG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sayingimages.com/wp-content/uploads/yo-dawg-im-just-kidding-meme.jpg)
 
 在某些情况下，**命令**不仅极其方便，而且几乎是必需的。
 
@@ -166,7 +166,7 @@ class Restaurant {
 
 > 你可以在这里找到这些例子的更详细版本
 > 
-> ## ![](../Images/375dfcc32199b4dedf2b526645c27ff7.png)/[图案](https://github.com/shikaan/design-patterns)
+> ## ![](img/375dfcc32199b4dedf2b526645c27ff7.png)/[图案](https://github.com/shikaan/design-patterns)
 > 
 > ### 设计模式在实际代码中的使用示例
 > 

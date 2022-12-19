@@ -8,7 +8,7 @@
 
 在本帖中，我们将采用 [Twilio 视频快速入门应用](https://github.com/twilio/video-quickstart-js)并为其添加屏幕共享。当我们完成后，您的应用程序将允许您在浏览器之间进行呼叫，并在浏览器之间共享屏幕。
 
-[![Successfully sharing a screen from one video chat to another and then back again using Firefox and Chrome](../Images/724521b61c65e143e3dade8700abd8c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7eZdFyQB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://twilioinc.wpengine.com/wp-content/uploads/2018/01/screen-share2.gif)
+[![Successfully sharing a screen from one video chat to another and then back again using Firefox and Chrome](img/724521b61c65e143e3dade8700abd8c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7eZdFyQB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://twilioinc.wpengine.com/wp-content/uploads/2018/01/screen-share2.gif)
 
 ## 你需要什么
 
@@ -45,7 +45,7 @@ npm start
 
 打开[http://localhost:3000/](http://localhost:3000/)，你应该可以输入用户名和房间名来加入这个房间。在另一个浏览器中重复该过程，您将与自己进行视频聊天。如果一切正常，你就可以开始添加屏幕共享功能了。
 
-[![A successful video chat between Chrome and Firefox](../Images/1e7ce13b1841adffa913dfe51a5bd89a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zJFeWtXk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://twilioinc.wpengine.com/wp-content/uploads/2018/01/video-chat2.gif)
+[![A successful video chat between Chrome and Firefox](img/1e7ce13b1841adffa913dfe51a5bd89a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zJFeWtXk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://twilioinc.wpengine.com/wp-content/uploads/2018/01/video-chat2.gif)
 
 ## 添加屏幕共享
 
@@ -239,7 +239,7 @@ var screenTrack;
 
 跨两种浏览器与朋友(您可以向他们发送 ngrok 链接)或您自己进行视频聊天。进入后，点击共享屏幕按钮，选择要共享的屏幕后，它将出现在另一个视频聊天中。
 
-[![Successfully sharing a screen from one video chat to another and then back again using Firefox and Chrome](../Images/724521b61c65e143e3dade8700abd8c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7eZdFyQB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://twilioinc.wpengine.com/wp-content/uploads/2018/01/screen-share2.gif)
+[![Successfully sharing a screen from one video chat to another and then back again using Firefox and Chrome](img/724521b61c65e143e3dade8700abd8c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7eZdFyQB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://twilioinc.wpengine.com/wp-content/uploads/2018/01/screen-share2.gif)
 
 ## 在合适的浏览器中分享您喜欢的一切
 

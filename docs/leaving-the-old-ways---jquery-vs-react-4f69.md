@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jsguru_io/leaving-the-old-ways---jquery-vs-react-4f69>
 
-[![Main Image, React logo on thumbs up](../Images/a9f0b44215c6bfb720259dd2b8e133c6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bZogLPCI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://delivery.eusi.cloud/api/v1/f1a4305c-e431-4668-ae4c-02f78c656a41/media/s3/1534422989797_react-vs-jquery-header.png) 
+[![Main Image, React logo on thumbs up](img/a9f0b44215c6bfb720259dd2b8e133c6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bZogLPCI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://delivery.eusi.cloud/api/v1/f1a4305c-e431-4668-ae4c-02f78c656a41/media/s3/1534422989797_react-vs-jquery-header.png) 
 与普遍的看法相反，React 最大的用例不是 spa，而是最常见的混合应用，并且在我看来是最适合的，在这篇文章中，我将讲述我是如何以及为什么从一个 React 讨厌者变成 React 粉丝，以及为什么 React 是 jQuery 的完美替代品。
 
 * * *
@@ -44,7 +44,7 @@ Angular 在哲学上完全相反，它是一个成熟的 SPA 框架，而 React 
 使用 React，开发的简单性随着您正在构建的 UI 的复杂性而增加，或者换句话说，与普通的 JS/jQuery 方法相比，开发的成本与复杂性成反比。
 
 这里有一个小图表，适用于所有视觉类型。
-[![Graph representing how the simplicity of implementation increases with the complexity of your UI when using React](../Images/41cd8191da704fae9584dddfbdc71785.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--V3kYN-97--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://delivery.eusi.cloud/api/v1/f1a4305c-e431-4668-ae4c-02f78c656a41/media/s3/1534422990085_react-vs-jquery-graph.png)
+[![Graph representing how the simplicity of implementation increases with the complexity of your UI when using React](img/41cd8191da704fae9584dddfbdc71785.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--V3kYN-97--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://delivery.eusi.cloud/api/v1/f1a4305c-e431-4668-ae4c-02f78c656a41/media/s3/1534422990085_react-vs-jquery-graph.png)
 
 空谈是廉价的，让我们用一个真实世界的例子来弄脏我们的手。
 
@@ -60,7 +60,7 @@ Angular 在哲学上完全相反，它是一个成熟的 SPA 框架，而 React 
 *   根据你们国家的法律，我们可能会征收增值税或销售税
 
 最后，前面提到的所有计算。
-[![Image representing a complex form](../Images/0b2c5eb4c9c9130d0009cde11415b1a1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--U5vRNBdo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://delivery.eusi.cloud/api/v1/f1a4305c-e431-4668-ae4c-02f78c656a41/media/s3/1534422989041_react-vs-jquery-form.png) 
+[![Image representing a complex form](img/0b2c5eb4c9c9130d0009cde11415b1a1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--U5vRNBdo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://delivery.eusi.cloud/api/v1/f1a4305c-e431-4668-ae4c-02f78c656a41/media/s3/1534422989041_react-vs-jquery-form.png) 
 你现在看到一件看似简单的事情怎么会变得复杂得很快了吧？
 
 使用旧方法，您必须考虑很多事情，您需要:

@@ -6,14 +6,14 @@
 
 2017 年 12 月，我想到了一个想法，让一个虚拟世界源于一个微控制器，ESP8266。大约在这个时候，我的家乡巴尔的摩即将举办第一个独立网络夏令营，我想有一个项目来做并展示一下。于是，我开始头脑风暴；“对我来说，什么是酷的、独特的、有趣的？”我想知道。
 
-[![alt text](../Images/ea7f268fd52506b9bc4951444864ee89.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fZfD3IL0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://derekfields.is/Assets2/NodeMCU_Pinout.png)
+[![alt text](img/ea7f268fd52506b9bc4951444864ee89.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fZfD3IL0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://derekfields.is/Assets2/NodeMCU_Pinout.png)
 *node MCU 的引脚排列图，一个基于 ESP8266 的微控制器板。*
 
 我是一个亲力亲为的人，所以，这个项目必须要么有大量的视觉效果，要么涉及一些物理的东西，因为如果它没有这些品质，我的兴趣就会很低，我将永远无法完成。打个比方，它必须是我能快速起飞的东西！ESP8266 将是我的问题的答案的主要部分。我知道它可以提供网页，而且它是为物联网设计的，它可以通过这些网页与物理世界互动。“酷”，我记下来了！
 
 现在，是什么让它“[……]对我来说是独特和有趣的？”，…我仍然需要回答这个问题。我环顾我的房间以获得灵感。我的眼睛锁定了几个谷歌纸板，我把它们放在我房间里许多电子产品盒子中的一个盒子里。“谷歌纸板...，VR…，ESP8266…酷，酷，偏向有趣！现在我该如何组合这些东西呢？..."我想知道。“‘A 字架’！嘣！！!"我可以用 A 型框架把这些东西粘在一起。
 
-[![alt text](../Images/036de65a628b421da94c2dfa0e8d73d4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9u1GBo0m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.drupal.org/files/project-images/download_6.png) 
+[![alt text](img/036de65a628b421da94c2dfa0e8d73d4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9u1GBo0m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.drupal.org/files/project-images/download_6.png) 
 *A 字架的 logo*
 
 A-Frame 的徽标直接来自 A-Frame 的网站:

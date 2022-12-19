@@ -24,7 +24,7 @@
 
 # 实用主义
 
-[![Duct tape on a bike wheel](../Images/6c03e700a7080a1d43ab989703b9ceea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DD7T1XmS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/287rmg29997zgfkfv68e.png)
+[![Duct tape on a bike wheel](img/6c03e700a7080a1d43ab989703b9ceea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DD7T1XmS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/287rmg29997zgfkfv68e.png)
 
 实用主义是“以一种基于实践而非理论考虑的方式理智而现实地处理事情。”
 
@@ -36,7 +36,7 @@
 
 # 唯心主义
 
-[![Gavel](../Images/f7e930ba9b79c3fa2c1028db2f809e20.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SCsRxqA8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/myophxe8znbv9myg6pof.jpg)
+[![Gavel](img/f7e930ba9b79c3fa2c1028db2f809e20.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SCsRxqA8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/myophxe8znbv9myg6pof.jpg)
 
 另一个极端是理想主义。理想主义是珍视或追求崇高的原则、目的和目标”
 
@@ -50,7 +50,7 @@
 
 # 如何知道什么时候是哪个
 
-[![Checklist](../Images/d2565a7fc3f566aafa16d29e677db578.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lcSUlAXr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e4kezcofs452ctnklmnz.jpg)
+[![Checklist](img/d2565a7fc3f566aafa16d29e677db578.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lcSUlAXr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e4kezcofs452ctnklmnz.jpg)
 
 通常需要做出决策，而答案属于这两类中的一类。你应该务实，还是理想主义？
 
@@ -76,7 +76,7 @@
 
 # 例子
 
-[![Bitbucket pull request screen](../Images/9676d140fa6636bea230b18e168b4d59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2eLOi7Hn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/85oq0jeiafqe50jgx7tf.png)
+[![Bitbucket pull request screen](img/9676d140fa6636bea230b18e168b4d59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2eLOi7Hn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/85oq0jeiafqe50jgx7tf.png)
 
 ## 拉取请求
 

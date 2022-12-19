@@ -4,7 +4,7 @@
 
 ### 打造您的内部军队— DevRelCon 伦敦跟进
 
-<figure>[![](../Images/bbbc05ab81c07e9eaeeaadd63e50c46c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AfJHTTWV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AtbO1idploEH2xvXXN6hFLA.png) 
+<figure>[![](img/bbbc05ab81c07e9eaeeaadd63e50c46c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AfJHTTWV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AtbO1idploEH2xvXXN6hFLA.png) 
 
 <figcaption>可操作的要点——建立内部和外部品牌，在你的公司里找到人，提出问题，给予反馈。</figcaption>
 
@@ -20,7 +20,7 @@
 
 事实上，你需要一个由倡导者、盟友、导师、同事和管理者组成的庞大支持系统——一支军队。我不仅需要这些人来帮助我的职业发展，还需要他们来帮助我完成所有跨职能的宣传工作。
 
-<figure>[![](../Images/f9eb8a8e9ff591fecef2addcd79a722c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--W_nZqsHm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AAfwnakdBwZhn-OD1ZKrfNA.png) 
+<figure>[![](img/f9eb8a8e9ff591fecef2addcd79a722c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--W_nZqsHm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AAfwnakdBwZhn-OD1ZKrfNA.png) 
 
 <figcaption>我的幻灯片经过快速请求搜索健全性检查找到“跨职能”列表！</figcaption>
 
@@ -54,7 +54,7 @@
 
 最后，情况 3。这种情况经常发生，我确信这与 IBM 的庞大有关。虽然我很乐意为我遇到的每一个项目工作，但我不能，不管你给我多少名誉和财富(说真的，别说了)。我们在 IBM 内部为客户提供付费顾问和开发团队，但是您的公司可能有第三方开发人员或公司，您可以将这些人介绍给他们。这既不是销售，也不是开发者的宣传，但是，我还是会尽我所能地做点连接。
 
-[![](../Images/2cd34b24e6c4f37b68254509db869d20.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kbSzELPe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/1%2AHOPxvXiKOZj01EwT9DjghA.png)
+[![](img/2cd34b24e6c4f37b68254509db869d20.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kbSzELPe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/1%2AHOPxvXiKOZj01EwT9DjghA.png)
 
 #### 介绍你自己、devrel、你的指标和你的专长。
 

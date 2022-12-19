@@ -23,7 +23,7 @@
 
 ### **概述**
 
-[![Overview](../Images/bdee430f1dba4f0a6b266ab8c3888333.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v_FYSAkb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/0Hu_uP6l37EDMuwCmPb1Ty3NMX9RlGdBB6qU-ne03OdwwXrshRTe6mNd5BeHqyQL7uLTeKtcuc9COVvv75MA%3Dw1920-h920)
+[![Overview](img/bdee430f1dba4f0a6b266ab8c3888333.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v_FYSAkb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/0Hu_uP6l37EDMuwCmPb1Ty3NMX9RlGdBB6qU-ne03OdwwXrshRTe6mNd5BeHqyQL7uLTeKtcuc9COVvv75MA%3Dw1920-h920)
 
 从上面的图中，我唯一要做的事情就是通过云函数 HTTP API 发出 GET 请求，它将返回 Firestore 中存储的所有已经计算好的公式和值。本质上，步骤 1、2 和 3 涉及我创建的 Python 脚本。通过使用[请求库](http://docs.python-requests.org/en/master/)可以简单地完成步骤 1 和 2。
 

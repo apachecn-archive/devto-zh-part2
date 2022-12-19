@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/plainprogrammer/the-problem-with-free-open-source-software-fo4>
 
-[![](../Images/71628d501491b90a75c965f8bae79f96.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--C3WPvJiw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://james.thomps.onl/wp-content/uploads/2019/07/d19d1-1bj9y1hbx1wpa84rr5uhtcg.jpeg) 
+[![](img/71628d501491b90a75c965f8bae79f96.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--C3WPvJiw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://james.thomps.onl/wp-content/uploads/2019/07/d19d1-1bj9y1hbx1wpa84rr5uhtcg.jpeg) 
 
 <figcaption>[【自由】](https://www.flickr.com/photos/nolanus/6812409085/in/photolist-bnZnT4-7NGTnv-5Vo6MT-73uXv-33GuaA-aWMPDp-9zxhTP-qwRFHX-4n5Lux-D5m1-geAjvM-2tHd8Z-aptaHZ-4nGMEH-7mhj7t-d7ArX3-7xXuE6-92zW2-eqcQt-8fVCnt-axoGj5-r17PuT-9Gp4WH-9gGeF8-5fUmnN-78Hr8W-9BX9Gq-o5ntva-8F7XDx-8fCPTt-2qc2UL-8F7YX4-5882mE-9RjiJk-aFMghP-auXmba-e5JnF6-p1yraV-ciWbyN-ai3x3Q-6H2hE-61gTgE-gAAfTi-e5qbYs-nN2qtS-qUY83b-ooAVA8-JxKyuk-5ex3uR-auXmqD)作者[塞巴斯蒂安·福什](https://www.flickr.com/photos/nolanus/ "Go to Sebastian Fuss's photostream") — [版权所有](https://creativecommons.org/licenses/by-sa/2.0/)</figcaption>
 

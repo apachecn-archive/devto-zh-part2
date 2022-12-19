@@ -18,7 +18,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 然后，您将在默认浏览器中看到如下预览:
 
-[![gfm-preview-result](../Images/b8a65d14705737f92cb8426a134cade2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xxc3uhwM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/ddvaQuS.png)
+[![gfm-preview-result](img/b8a65d14705737f92cb8426a134cade2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xxc3uhwM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/ddvaQuS.png)
 
 ## 背景
 

@@ -12,7 +12,7 @@
 
 ## 我的期望
 
-[![Deployment Meme](../Images/71ff4b63035fa86662b815e1013ef105.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0rIPfZij--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://theagilecoder.files.wordpress.com/2016/12/devops-memes-emcworld-2015-8-638.jpg)
+[![Deployment Meme](img/71ff4b63035fa86662b815e1013ef105.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0rIPfZij--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://theagilecoder.files.wordpress.com/2016/12/devops-memes-emcworld-2015-8-638.jpg)
 
 我想在每次发布电子应用程序之前集成自动化 E2E 和单元测试。在我的例子中，如果一些东西已经被合并到 master 中，那么就应该触发一个发布。因此，配置项基本上应该执行以下步骤:
 
@@ -36,7 +36,7 @@
 
 我现在将解释如何为我的电子应用程序配置`.travis.yml`文件。
 
-[![Travis Image](../Images/9716de0517519a11ac0da3cf1219a1ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1BUrz4Bl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--o25mzxVZ--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_auto%252Cw_880/http://res.cloudinary.com/lauragift/image/upload/v1529656180/logo-travisci-wide1_lcjhdf.jpg)
+[![Travis Image](img/9716de0517519a11ac0da3cf1219a1ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1BUrz4Bl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--o25mzxVZ--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_auto%252Cw_880/http://res.cloudinary.com/lauragift/image/upload/v1529656180/logo-travisci-wide1_lcjhdf.jpg)
 
 ### 选择操作系统
 
@@ -78,7 +78,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 电子生成器配置
 
-[![Electron Logo](../Images/9650973674df2bea574b573c16e756a0.png)T2】](https://camo.githubusercontent.com/627c774e3070482b180c3abd858ef2145d46303b/68747470733a2f2f656c656374726f6e6a732e6f72672f696d616765732f656c656374726f6e2d6c6f676f2e737667)
+[![Electron Logo](img/9650973674df2bea574b573c16e756a0.png)T2】](https://camo.githubusercontent.com/627c774e3070482b180c3abd858ef2145d46303b/68747470733a2f2f656c656374726f6e6a732e6f72672f696d616765732f656c656374726f6e2d6c6f676f2e737667)
 
 对于[电子建造者](https://www.electron.build/)，我基于[官方文档](https://www.electron.build/multi-platform-build) :
 添加了一些额外的缓存和变量配置
@@ -145,7 +145,7 @@ Xvfb 是一个虚拟的帧缓冲区，它使我们的测试能够在内存中运
 
 通过从我的 [package.json](https://github.com/Mokkapps/scrum-daily-standup-picker/blob/master/package.json) 运行`yarn release:<OS>`，如果单元& E2E 测试已经通过，我可以在 GitHub 发布页面上自动创建一个新的发布草案:
 
-[![GitHub Release Page](../Images/407589435f0797242be0b64ca4ba1414.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OdVUmj86--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pofilqqg6ewm0ycebr33.png)
+[![GitHub Release Page](img/407589435f0797242be0b64ca4ba1414.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OdVUmj86--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pofilqqg6ewm0ycebr33.png)
 
 ## 结论
 

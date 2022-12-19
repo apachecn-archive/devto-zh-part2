@@ -31,7 +31,7 @@ Enter fullscreen mode Exit fullscreen mode
 我们还提到了主账户和账户的类型。
 我们可以创建一个主账户和两个子账户，如下例所示:
 
-[![3 related accounts](../Images/3010d38e7a66ba07cbfd479661d46443.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dEfpotHG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ueekz2lxptje1ugvpb7i.png)
+[![3 related accounts](img/3010d38e7a66ba07cbfd479661d46443.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dEfpotHG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ueekz2lxptje1ugvpb7i.png)
 
 ## heading 基本/经典认证
 

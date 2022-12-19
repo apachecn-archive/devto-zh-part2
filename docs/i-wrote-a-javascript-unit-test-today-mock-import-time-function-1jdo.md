@@ -93,4 +93,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 * * *
 
-[![agile2018endorsement](../Images/977d6e0fe4a78faa72534114386769ff.png)T2】](http://sched.co/EU9g)*
+[![agile2018endorsement](img/977d6e0fe4a78faa72534114386769ff.png)T2】](http://sched.co/EU9g)*

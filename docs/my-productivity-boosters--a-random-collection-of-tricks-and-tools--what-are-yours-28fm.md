@@ -134,7 +134,7 @@ Trello 也是我用手机记笔记的方式，[使用一个特殊的电子邮件
 
 现在，我消耗了很多邮件，但实际上我几乎从来没有自己写过一封。这就是为什么我换成了航空邮件，它有很好的键盘绑定，虽然功能较少，但速度要快得多。
 
-[![](../Images/f75d9bfe9982545a1e2736e95011a36e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tKPngcCX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/290/1%2AonjTxaoWw_wTcZ43s5ylVg.png)
+[![](img/f75d9bfe9982545a1e2736e95011a36e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tKPngcCX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/290/1%2AonjTxaoWw_wTcZ43s5ylVg.png)
 
 我练习零收件箱。如果我的收件箱收到一封电子邮件，我要么立即行动，要么在相应的邮箱里写一张卡片，要么什么也不做。但是，邮件将在当天结束前存档。
 

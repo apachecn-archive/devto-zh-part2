@@ -6,7 +6,7 @@
 
 今天我在 Twitter 上和 [@ljuba95](https://dev.to/ljuba95) 聊了一段关于 CSS 的话题。
 
-[![ljuba95 image](../Images/db5ccfabca5366bcb67f279d403a5357.png)](/ljuba95)
+[![ljuba95 image](img/db5ccfabca5366bcb67f279d403a5357.png)](/ljuba95)
 
 ## 米洛斯·柳比沙维奇 <button name="button" type="button" data-info="{&quot;className&quot;:&quot;User&quot;,&quot;style&quot;:&quot;full&quot;,&quot;id&quot;:96178,&quot;name&quot;:&quot;Milos Ljubisavljevic&quot;}" class="crayons-btn follow-action-button whitespace-nowrap  " aria-label="Follow user: Milos Ljubisavljevic" aria-pressed="false">跟随</button>
 

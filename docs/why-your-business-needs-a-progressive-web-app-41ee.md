@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jsguru_io/why-your-business-needs-a-progressive-web-app-41ee>
 
-[![featured image](../Images/13886c893f91b022a5ed37adfc696fdf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b2S2VTKE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://delivery.eusi.cloud/api/v1/f1a4305c-e431-4668-ae4c-02f78c656a41/media/s3/1530179495083_JSG-PWA-Cover.png)
+[![featured image](img/13886c893f91b022a5ed37adfc696fdf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b2S2VTKE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://delivery.eusi.cloud/api/v1/f1a4305c-e431-4668-ae4c-02f78c656a41/media/s3/1530179495083_JSG-PWA-Cover.png)
 
 * * *
 
@@ -76,7 +76,7 @@ pwa 希望通过使网站更像本机应用程序并利用设备本机功能扩�
 
 * * *
 
-[![success stories image](../Images/8740fd608015e0a716b39776cfd13292.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qmT-4c1s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AaQfUDPQI2r-UUG-X.png) 
+[![success stories image](img/8740fd608015e0a716b39776cfd13292.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qmT-4c1s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AaQfUDPQI2r-UUG-X.png) 
 *成功案例*
 还不相信 PWAs 是牛逼的酱？好吧，让我们问问这些正直的企业:
 

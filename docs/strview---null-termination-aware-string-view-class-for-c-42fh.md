@@ -4,7 +4,7 @@
 
 **TL；我写了一个小库，我称之为“str _ view-null-termination-aware string-view class for c++”。您可以在下面的 GitHub 资源库中找到代码和文档。请继续阅读，了解背后的完整故事...**
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [萨维奇亚普](https://github.com/sawickiap) / [ str_view](https://github.com/sawickiap/str_view)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [萨维奇亚普](https://github.com/sawickiap) / [ str_view](https://github.com/sawickiap/str_view)
 
 ### C++的支持空终止的字符串视图类
 

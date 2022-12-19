@@ -8,7 +8,7 @@
 
 这是一个屏幕记录，显示了我们完成后应用程序的外观。
 
-[![](../Images/d59f77fa274b756882da7950dddae142.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jgMH7fVa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/10/realtime-status-update-ios-1.gif)
+[![](img/d59f77fa274b756882da7950dddae142.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jgMH7fVa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/10/realtime-status-update-ios-1.gif)
 
 要跟随这篇文章，你必须具备以下要求:
 ——Swift 3
@@ -65,13 +65,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是我们希望在本节末尾看到的内容:
 
-[![](../Images/0068e7c1f533bf60db45de378b733d11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r5R_tzfm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/10/realtime-status-update-ios-2.png)
+[![](img/0068e7c1f533bf60db45de378b733d11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r5R_tzfm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/10/realtime-status-update-ios-2.png)
 
 在画布中添加一个导航控制器，并使其成为根视图控制器。完成这些后，您需要更新导航控制器附带的`TableViewController`。
 
 首先，使用`ctrl+n`在 Xcode 中创建新类；类名应该是`FriendsViewController`，并且应该扩展`UITableViewController`。然后，在`main.storyboard`文件中，确保让`TableViewController`使用`FriendsViewController`作为它的定制类。
 
-[![](../Images/8b8e47c1723c09d77644c09092ce1b2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--64dIbpA0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/10/realtime-status-update-ios-3.png)
+[![](img/8b8e47c1723c09d77644c09092ce1b2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--64dIbpA0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/10/realtime-status-update-ios-3.png)
 
 **配置原型单元**
 现在我们已经创建了表格视图控制器，我们需要配置它的单元来匹配我们想要实现的目标。
@@ -80,7 +80,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 > 💡**对于图像** `**avatar.png**` **，您可以将 45×45 像素的图像添加到您的 Xcode 项目中，并将其用作单元格的图像。**
 
-[![](../Images/0d1e5627d79830389b3960fcb2edc9ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--guocYW9O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/10/realtime-status-update-ios-4.png)
+[![](img/0d1e5627d79830389b3960fcb2edc9ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--guocYW9O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/10/realtime-status-update-ios-4.png)
 
 我们能做的最后一件事(这是完全可选的)是改变应用程序的导航栏颜色。就这么办吧。
 
@@ -470,11 +470,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 一旦您的本地节点 web 服务器开始运行，您将需要进行一些更改，以便您的应用程序可以与本地 web 服务器通信。在`info.plist`文件中，进行以下更改:
 
-[![](../Images/a8746e834a26af0646cf88e8aace7a10.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YFgeqAVo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/10/realtime-status-update-ios-5.png)
+[![](img/a8746e834a26af0646cf88e8aace7a10.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YFgeqAVo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/10/realtime-status-update-ios-5.png)
 
 通过这一更改，您可以构建并运行您的应用程序，它将直接与您的本地 web 应用程序对话。
 
-[![](../Images/d59f77fa274b756882da7950dddae142.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jgMH7fVa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/10/realtime-status-update-ios-1.gif)
+[![](img/d59f77fa274b756882da7950dddae142.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jgMH7fVa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/10/realtime-status-update-ios-1.gif)
 
 ## 结论
 

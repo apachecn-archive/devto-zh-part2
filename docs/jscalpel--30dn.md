@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ihtml5/jscalpel--30dn>
 
-[![](../Images/ca638a744b6ed58ecce364226af2d9f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nyIws4Em--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2g1eep5uzbw1jpobv6pk.png)
+[![](img/ca638a744b6ed58ecce364226af2d9f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nyIws4Em--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2g1eep5uzbw1jpobv6pk.png)
 
 一个小的特征库，使得操作对象更加容易
 
@@ -22,7 +22,7 @@ jscalpel 差一点，gzip 小于 **3k** ，一个你可以随时随地使用的�
 
 #### 使用 npm 安装
 
-[![jscalpel](../Images/004440ebebdd4051de408f6057d54484.png)T2】](https://npmjs.org/package/jscalpel)
+[![jscalpel](img/004440ebebdd4051de408f6057d54484.png)T2】](https://npmjs.org/package/jscalpel)
 
 ```
 npm install jscalpel --save

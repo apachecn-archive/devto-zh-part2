@@ -14,7 +14,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 瞧，床单出现了。
 
-[![This is what the tool looks in your terminal](../Images/7e649b0c85e9a59f08ef3a474f33f1ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p-3uoVD4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7r0s35l3vdwaai1wcgwk.gif)
+[![This is what the tool looks in your terminal](img/7e649b0c85e9a59f08ef3a474f33f1ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p-3uoVD4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7r0s35l3vdwaai1wcgwk.gif)
 
 shell 脚本需要`wget`和`mdless`，您可以使用您喜欢的包管理器来安装它们。这些表是从 Devhints 中获取的。木卫一的 [Github 库](https://github.com/hazeorid/devhints.io)。
 

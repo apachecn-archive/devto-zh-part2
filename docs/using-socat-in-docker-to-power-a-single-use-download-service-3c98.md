@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jmarhee/using-socat-in-docker-to-power-a-single-use-download-service-3c98>
 
-<figure>[![](../Images/5710a4cb388dd10a77654bbdb8060a80.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8uLHvwmg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ao8EmyG8hOa0C7gi4zRifKQ.png) 
+<figure>[![](img/5710a4cb388dd10a77654bbdb8060a80.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8uLHvwmg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ao8EmyG8hOa0C7gi4zRifKQ.png) 
 
 <figcaption>[来源](https://cntnr.io/running-guis-with-docker-on-mac-os-x-a14df6a76efc)</figcaption>
 
@@ -32,13 +32,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 在您的 TCP-LISTEN 块中(您可以使用许多其他绑定选项，但因为这将主要使用覆盖网络为 Docker 容器之间的流量提供服务，并且对单机版文件的入口本身将使用前端应用程序上的 TLS，我使用了 TCP 端口)，您指定了端口(8080)，然后重用 addr(这对我们来说是可选的，因为我们只计划使用接口一次，而不重试——这主要确保我们可以为该服务绑定本地地址)，然后 fork，在请求完成时创建一个新的进程。
 
-[![](../Images/7ecc7aca2b4a4fa4cd88218c5f9e1bb7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6_6QXifL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AfvlorB-Ihh_U0Nwp.png)
+[![](img/7ecc7aca2b4a4fa4cd88218c5f9e1bb7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6_6QXifL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AfvlorB-Ihh_U0Nwp.png)
 
 然后我们可以发出请求，并看到 socat 进程仍然绑定到端口 8080:
 
-[![](../Images/a0f89e50c8244be26027f90d0bf30926.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QdnwpEjG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AfruqrDJrYcjZvFot.png)
+[![](img/a0f89e50c8244be26027f90d0bf30926.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QdnwpEjG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AfruqrDJrYcjZvFot.png)
 
-[![](../Images/94a7a3a2f5082af711ec1abdb47a770b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2iM1cIK2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AExq0awD5mONqiVQM.png)
+[![](img/94a7a3a2f5082af711ec1abdb47a770b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2iM1cIK2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AExq0awD5mONqiVQM.png)
 
 好吧，很好，对吧？因此，在我们的例子中，我们*不想*能够第二次请求这个数据，正如你从我们的输出中看到的，我们的进程退出 0，一个子进程被创建，并再次绑定到端口 8080 用于一个新的连接:
 
@@ -64,11 +64,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果不使用 fork，要防止替换已完成请求的新流程运行:
 
-[![](../Images/dad91378b63280edcd85a53a90ba2a8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jnWOtYYA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2Apk4Eq_nnF-G8JEOK.png)
+[![](img/dad91378b63280edcd85a53a90ba2a8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jnWOtYYA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2Apk4Eq_nnF-G8JEOK.png)
 
 您将看到，在该进程退出后，每个后续请求都会失败:
 
-[![](../Images/64b7e1842def64bc9a4ac8cb48eb8df4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2M1QZtoQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A5ieMc8-F9UZF99wK.png)
+[![](img/64b7e1842def64bc9a4ac8cb48eb8df4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2M1QZtoQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A5ieMc8-F9UZF99wK.png)
 
 如我所说，这个 TCP 端口将只在 Docker 容器网络覆盖上公开，其中一个前端服务将发出这样的请求:
 

@@ -36,7 +36,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 `#mysection`内的任何元素将水平居中。
 
-[![Center horizontally](../Images/0cc0a5c96eaada877e54c695056e9151.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NwuVjQFq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://flaviocopes.com/css-centering/flexbox-horizontal-center.png)
+[![Center horizontally](img/0cc0a5c96eaada877e54c695056e9151.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NwuVjQFq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://flaviocopes.com/css-centering/flexbox-horizontal-center.png)
 
 * * *
 
@@ -84,7 +84,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 `#mysection`内的任何元素将垂直居中。
 
-[![Center vertically](../Images/47e9d9cd63cacb83d2f4c73e375af26f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BKUTUs3L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://flaviocopes.com/css-centering/flexbox-vertical-center.png)
+[![Center vertically](img/47e9d9cd63cacb83d2f4c73e375af26f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BKUTUs3L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://flaviocopes.com/css-centering/flexbox-vertical-center.png)
 
 ## 纵横居中
 
@@ -100,4 +100,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Center both vertically and horizontally](../Images/1564245a285abd1dd68a310c87eadb53.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RUX1YL84--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://flaviocopes.com/css-centering/flexbox-center.png)
+[![Center both vertically and horizontally](img/1564245a285abd1dd68a310c87eadb53.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RUX1YL84--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://flaviocopes.com/css-centering/flexbox-center.png)

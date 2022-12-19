@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/emadmokhtar/lets-build-it--4fbn>
 
-[![idea](../Images/3d5e88e818bdfaa93849adcc7557c898.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BCqcCgTp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.emadmokhtar.com/images/james-pond-185593-unsplash.jpg)
+[![idea](img/3d5e88e818bdfaa93849adcc7557c898.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BCqcCgTp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.emadmokhtar.cimg/james-pond-185593-unsplash.jpg)
 
 詹姆斯·庞德
 

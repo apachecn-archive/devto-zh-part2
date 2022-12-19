@@ -14,7 +14,7 @@
 
 <figure>
 
-[![](../Images/1a5bd77fca31849b45b8a2e9abfd8360.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xijdeWyH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.vim.org/images/vim_superman.jpg)
+[![](img/1a5bd77fca31849b45b8a2e9abfd8360.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xijdeWyH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.vim.oimg/vim_superman.jpg)
 
 <figcaption>whatever this is</figcaption>
 

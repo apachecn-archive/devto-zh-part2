@@ -55,7 +55,7 @@ Hugo 有能力编写插件，但它是用我不熟悉的 go 语言编写的。
 
 最简单的开始方式是从其他人已经创建的大量起始项目开始。
 
-[![Starter Library](../Images/bbf9b0028ea21c64520419d623fd2add.png)T2】](///static/e9c1c74862b912c9c9082f43b09e48df/69d6b/starter-library.png)
+[![Starter Library](img/bbf9b0028ea21c64520419d623fd2add.png)T2】](///static/e9c1c74862b912c9c9082f43b09e48df/69d6b/starter-library.png)
 
 在 Gatsby 网站上查看[初学者库](https://www.gatsbyjs.org/starters/?v=2)。
 

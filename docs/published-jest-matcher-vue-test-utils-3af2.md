@@ -10,7 +10,7 @@
 
 将 Jest + Vue 测试工具的可爱匹配器发布为 [npm 模块](https://www.npmjs.com/package/jest-matcher-vue-test-utils)。你可以通过安装这个 npm 和设置来使用好的匹配器。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)[【hmsk】](https://github.com/hmsk)/[【jest-match-view-test-utils】](https://github.com/hmsk/jest-matcher-vue-test-utils)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)[【hmsk】](https://github.com/hmsk)/[【jest-match-view-test-utils】](https://github.com/hmsk/jest-matcher-vue-test-utils)
 
 ### ✨可爱的笑话匹配器测试 Vue 组件与 vue 测试工具
 
@@ -18,11 +18,11 @@
 
 # jest 匹配器-view-test-utils
 
-[![npm](../Images/8ecbfa27a6d8f4653c53e21284ca2dbc.png) ](https://www.npmjs.com/package/jest-matcher-vue-test-utils) [ ![GitHub Workflow Status](../Images/f712aadaf9ae6915e4b74dbaff68fca4.png)](https://github.com/hmsk/jest-matcher-vue-test-utils/actions?query=workflow%3A%22Node+CI%22)
+[![npm](img/8ecbfa27a6d8f4653c53e21284ca2dbc.png) ](https://www.npmjs.com/package/jest-matcher-vue-test-utils) [ ![GitHub Workflow Status](img/f712aadaf9ae6915e4b74dbaff68fca4.png)](https://github.com/hmsk/jest-matcher-vue-test-utils/actions?query=workflow%3A%22Node+CI%22)
 
 用 [Vue 测试工具](https://vue-test-utils.vuejs.org/)测试 Vue 组件的 [Jest](https://facebook.github.io/jest) 的可爱匹配器。
 
-你可以直观地为 Vue 组件/商店编写测试 <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡️</g-emoji>
+你可以直观地为 Vue 组件/商店编写测试 <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/26a1.png">⚡️</g-emoji>
 
 ```
 it("Emits 'select' event by clicking PrimaryButton", () => {

@@ -2,17 +2,17 @@
 
 > 原文：<https://dev.to/ryanmiller/what-takes-to-create-a-cloud-based-saas-application--11id>
 
-[![Create a Cloud-based SaaS Application](../Images/a8662cf0930482fb83e26d2763ec9d06.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hC0E_Vkw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cqujzs84bq9avcg9sgy7.jpg)
+[![Create a Cloud-based SaaS Application](img/a8662cf0930482fb83e26d2763ec9d06.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hC0E_Vkw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cqujzs84bq9avcg9sgy7.jpg)
 
 ## 云计算的各种类别介绍
 
 云计算的功能领域分为三大类:SaaS(软件即服务)、PaaS(平台即服务)和 IaaS(基础设施即服务)。SaaS 将从根本上消除购买额外硬件的需要和所有其他相关费用。
 
-[![categories of cloud computing](../Images/4efaf05c771c1be9a1d380f83a112b08.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cep2JgnJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tpt4mc5mbkv3jtputu0i.png)
+[![categories of cloud computing](img/4efaf05c771c1be9a1d380f83a112b08.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cep2JgnJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tpt4mc5mbkv3jtputu0i.png)
 
 ## 什么是 SaaS？
 
-[![What is SaaS](../Images/077794727aa40be9191305a466e43cbc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yTj81QZC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l0xppfbh8j9bw6zkjb0d.png)
+[![What is SaaS](img/077794727aa40be9191305a466e43cbc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yTj81QZC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l0xppfbh8j9bw6zkjb0d.png)
 
 *   使用 SaaS 的组织不需要在其数据中心内自己的计算机设备上安装和执行应用程序。一般来说，组织必须简单地订阅 SaaS 提供的按月付费模式。
 
@@ -26,7 +26,7 @@
 
 SaaS 应用程序本质上是在云中构建的。需要组装的软件。必须提前决定要使用的编程语言、要部署的软件工具以及构建应用程序时要使用的语言。为了选择合适的编程语言来创建 SaaS 应用程序，需要进行大量的头脑风暴。
 
-[![How to make a cloud based SaaS Application](../Images/2e6e59ffa9c6e5bda36f8aa0c5b47c2e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FfIQEQGK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wjpu2cqpxgnsvixdh4ev.png)
+[![How to make a cloud based SaaS Application](img/2e6e59ffa9c6e5bda36f8aa0c5b47c2e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FfIQEQGK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wjpu2cqpxgnsvixdh4ev.png)
 
 ### 编程语言
 
@@ -82,7 +82,7 @@ SaaS 应用程序的开发会受到三个障碍的阻碍:
 
 下图说明了 SaaS 在企业中的最新状态:
 
-[![enterprise saas development](../Images/5d70c2dd8a665df16c64626afe850eda.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lmLtDkVY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cpmuhhfg1x7kmdhv8kon.png)
+[![enterprise saas development](img/5d70c2dd8a665df16c64626afe850eda.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lmLtDkVY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cpmuhhfg1x7kmdhv8kon.png)
 
 ## 结论
 

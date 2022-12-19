@@ -42,7 +42,7 @@
 
 说够了，让我们看看它是如何工作的。让我们用 Martin Fowler 文章中的同一个例子来建立一个可以用于我们系统的例子。
 
-[![Bounded Context example from Martin Fowler article](../Images/15debeed896c3fde338beb200ac8fa24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vDlb7aVM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://leandrocp.com.br/img/posts/bounded_contexts.png)
+[![Bounded Context example from Martin Fowler article](img/15debeed896c3fde338beb200ac8fa24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vDlb7aVM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://leandrocp.com.br/img/posts/bounded_contexts.png)
 
 *马丁·福勒文章中的有界上下文示例*
 
@@ -161,7 +161,7 @@ end
 
 好吧，不仅仅是简单的服务。让我解释一下。
 
-[![Contexts API](../Images/f3342ef4e265087c02c828e94d48760b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V-t-pMjF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://leandrocp.com.br/img/posts/contexts.png)
+[![Contexts API](img/f3342ef4e265087c02c828e94d48760b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V-t-pMjF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://leandrocp.com.br/img/posts/contexts.png)
 
 应用程序只能通过公共 API 相互通信。灰色方框仅供内部使用。
 

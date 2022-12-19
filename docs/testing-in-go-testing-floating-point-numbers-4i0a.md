@@ -48,7 +48,7 @@ Tests: Mmmhmmm.<br>
 Me: This was my baseline test. The simplest test case I could think of.<br>
 Tests: Suuuure.<br>
 Me: Let me look. Wait...are you dividing by ZERO!?!<br>
-Tests: 😈](../Images/6c977da9683b29cba9d9a50182aa6692.png "Screenshot of a frustrated tweet")](https://res.cloudinary.com/practicaldev/image/fetch/s--vwiMSTsy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://juliaferraioli.com/blog/images/golang-testing-floats/twitter-screenshot.png) 
+Tests: 😈](img/6c977da9683b29cba9d9a50182aa6692.png "Screenshot of a frustrated tweet")](https://res.cloudinary.com/practicaldev/image/fetch/s--vwiMSTsy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://juliaferraioli.com/blimg/golang-testing-floats/twitter-screenshot.png) 
 沮丧的推特，[推特](https://twitter.com/juliaferraioli/status/1004770471227940864)
 
 是的，当一个向量中的所有值都是 0 时，我最后除以 0。所以我的实际比较器函数看起来像这样:

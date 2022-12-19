@@ -20,7 +20,7 @@ PWAs(Progressive Web Applications)已经被认为是 Web 应用的未来，原�
 
 氪星守望者也将能够穿越到过去五天，并检索那些日子的硬币数据。这是最终应用程序的视觉展示:
 
-[![cryptocurrency-tracker-vue-demo](../Images/2cd2bc784d9f8d073b407f5fdde8da34.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9_HPGEYK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://images.contentful.com/1es3ne0caaid/70YNXoNPl6cuAOAmS0SW8a/3b318c61b0a19378604ac5607a3201eb/cryptocurrency-tracker-vue-demo.gif)
+[![cryptocurrency-tracker-vue-demo](img/2cd2bc784d9f8d073b407f5fdde8da34.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9_HPGEYK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://images.contentful.com/1es3ne0caaid/70YNXoNPl6cuAOAmS0SW8a/3b318c61b0a19378604ac5607a3201eb/cryptocurrency-tracker-vue-demo.gif)
 
 最棒的是，这个应用程序运行一次后，即使没有互联网连接，它也可以再次运行并显示硬币数据。这是可能的，因为我们将构建`KryptoWatcher`来在第一次运行时缓存硬币数据。
 
@@ -43,7 +43,7 @@ PWAs(Progressive Web Applications)已经被认为是 Web 应用的未来，原�
 
 创建一个[卖家账户](https://pusher.com/)，如果你还没有的话，然后设置你的应用程序，如下图所示。
 
-[![cryptocurrency-tracker-vue-create-app](../Images/46df2c4f7f72f4ae7cf1954924ae3f1d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kiuUMe8G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/1es3ne0caaid/4dQB7DXuQEyecCwE06AuSy/3d775f17a03b1895f67c6e8b80e65e2f/cryptocurrency-tracker-vue-create-app.png)
+[![cryptocurrency-tracker-vue-create-app](img/46df2c4f7f72f4ae7cf1954924ae3f1d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kiuUMe8G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/1es3ne0caaid/4dQB7DXuQEyecCwE06AuSy/3d775f17a03b1895f67c6e8b80e65e2f/cryptocurrency-tracker-vue-create-app.png)
 
 完成设置后，记下您的 Pusher 应用程序密钥，因为我们稍后会用到它们。
 
@@ -59,7 +59,7 @@ $ vue init pwa krypto-watcher
 
 您将看到提示和一些“是”或“否”的问题。不过，对于“Y”或“N”提示，您可以选择自己认为合适的答案，因为我们不需要额外的功能和特性，所以让我们用“N”来回答所有的问题。
 
-[![cryptocurrency-tracker-vue-project-details](../Images/7bd0edcae7b935b559d049ac1aa206b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---C-c1Cq5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/1es3ne0caaid/64HwW3fkUouk2OuuGMkmeC/d7b56613d14ecc9f66bb25b55b3e248a/cryptocurrency-tracker-vue-project-details.png)
+[![cryptocurrency-tracker-vue-project-details](img/7bd0edcae7b935b559d049ac1aa206b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---C-c1Cq5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/1es3ne0caaid/64HwW3fkUouk2OuuGMkmeC/d7b56613d14ecc9f66bb25b55b3e248a/cryptocurrency-tracker-vue-project-details.png)
 
 该模板为我们提供了开箱即用的强大 PWA 功能。其中一个特征是服务人员。服务人员允许我们的应用程序脱机工作。
 
@@ -500,7 +500,7 @@ if ( ! navigator.onLine) {
 
 除了实时功能，现在一切都应该正常工作了。
 
-[![cryptocurrency-tracker-vue-draft](../Images/9b3bf20fb4cc796c4f327f81763bdcab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fAJ0_jjk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/1es3ne0caaid/70EsAUqmNqSogEYYgwg640/c70439aeb26fd7963309b4cfb39dce7f/cryptocurrency-tracker-vue-draft.png)
+[![cryptocurrency-tracker-vue-draft](img/9b3bf20fb4cc796c4f327f81763bdcab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fAJ0_jjk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/1es3ne0caaid/70EsAUqmNqSogEYYgwg640/c70439aeb26fd7963309b4cfb39dce7f/cryptocurrency-tracker-vue-draft.png)
 
 ### 使用 Pusher 集成实时功能
 
@@ -653,7 +653,7 @@ $ npm run dev
 
 这将在您的浏览器上启动并打开 Vue PWA。要确保您收到更新，请确保您的节点服务器正在运行。
 
-[![cryptocurrency-watcher-vue-demo](../Images/aa1b14b3577972c9e47fae5d86f7d991.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tkDeKEku--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://images.contentful.com/1es3ne0caaid/4beBtBCJjqiWK4GKa0Mw0i/13f64db1b24726b8b3e19ccb17aa92a6/cryptocurrency-watcher-vue-demo.gif)
+[![cryptocurrency-watcher-vue-demo](img/aa1b14b3577972c9e47fae5d86f7d991.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tkDeKEku--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://images.contentful.com/1es3ne0caaid/4beBtBCJjqiWK4GKa0Mw0i/13f64db1b24726b8b3e19ccb17aa92a6/cryptocurrency-watcher-vue-demo.gif)
 
 ## 使用服务人员和离线功能
 
@@ -679,13 +679,13 @@ $ serve dist
 
 我们应该得到如下所示的输出:
 
-[![cryptocurrency-tracker-vue-output](../Images/bd7ae1490e7df466f9f1e7809cadc9fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mvNCD5qX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/1es3ne0caaid/5D35dFM7PGssemAeMO0IcS/2563dfc1d3b90732117be8babc5ae2d0/cryptocurrency-tracker-vue-output.png)
+[![cryptocurrency-tracker-vue-output](img/bd7ae1490e7df466f9f1e7809cadc9fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mvNCD5qX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/1es3ne0caaid/5D35dFM7PGssemAeMO0IcS/2563dfc1d3b90732117be8babc5ae2d0/cryptocurrency-tracker-vue-output.png)
 
 如果我们在网络浏览器上导航到这个地址`http://localhost:5000`,我们会看到我们的应用程序和上次一样，除了应用程序现在是 PWA 之外，没有明显的变化。
 
 我们可以通过打开浏览器的开发工具并单击“应用程序”选项卡来检查该功能。下面是我们应该看到的:
 
-[![cryptocurrency-tracker-vue-service-workers](../Images/56ccc8d968e83df6924e71b4e8727aa7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AWngsFPZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/1es3ne0caaid/1V3EsE6wwoicCOo6KQgiG0/35da6aa92c35a46419c58dacb08b7a3a/cryptocurrency-tracker-vue-service-workers.png)
+[![cryptocurrency-tracker-vue-service-workers](img/56ccc8d968e83df6924e71b4e8727aa7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AWngsFPZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.contentful.com/1es3ne0caaid/1V3EsE6wwoicCOo6KQgiG0/35da6aa92c35a46419c58dacb08b7a3a/cryptocurrency-tracker-vue-service-workers.png)
 
 由于 Vue PWA 模板，我们的应用程序注册了一个服务工作者，在第一次运行时缓存应用程序外壳。
 

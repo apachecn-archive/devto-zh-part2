@@ -6,7 +6,7 @@
 
 昨天，我玩了 Spring Boot 创业板凳。
 
-[![bufferings](../Images/f4c1331756d4432bf2ec4bde4b939f7a.png)](/bufferings) [## 开始享受弹簧启动椅
+[![bufferings](img/f4c1331756d4432bf2ec4bde4b939f7a.png)](/bufferings) [## 开始享受弹簧启动椅
 
 ### mitz Oct 1 ' 182 分钟读数
 

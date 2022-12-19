@@ -4,7 +4,7 @@
 
 在这篇文章中，让我们来谈谈如何驯服容器中的蛇。本文总结了在整理 python 微服务时学到的经验。如果你想看 Docker 和 Python 微服务的详细实现，请参考我们已经发表的这篇文章[。](https://blog.apcelent.com/setup-microservices-architecture-in-python-with-zeromq-docker.html)
 
-[![Alt text of image](../Images/7d2d92cc33c98b37780a0866252e3e92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m51xxHgk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.com/images/python-docker-container-apcelent.png)
+[![Alt text of image](img/7d2d92cc33c98b37780a0866252e3e92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m51xxHgk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.cimg/python-docker-container-apcelent.png)
 
 我们使用容器的主要原因是
 

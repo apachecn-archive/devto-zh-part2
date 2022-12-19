@@ -13,19 +13,19 @@
 
 # 本周讨论的前 7 位(+)是:
 
-[![aspittel image](../Images/45a8d86fe0ff981bf7cdb45b471a3c5c.png)](/aspittel) [## 程序员最重要的非编程技能
+[![aspittel image](img/45a8d86fe0ff981bf7cdb45b471a3c5c.png)](/aspittel) [## 程序员最重要的非编程技能
 
 ### 阿里·斯皮特尔 10 月 15 日 1810 分钟阅读
 
-#career #leadership #tips #culture](/aspittel/the-most-important-non-programming-skills-for-programmers-iii)[![wangonya image](../Images/f24a24d0096b366df3522b3e07664d45.png)](/wangonya) [## 更好的控制台.日志
+#career #leadership #tips #culture](/aspittel/the-most-important-non-programming-skills-for-programmers-iii)[![wangonya image](img/f24a24d0096b366df3522b3e07664d45.png)](/wangonya) [## 更好的控制台.日志
 
 ### kinyanjui wango nya 10 月 18 日 182 分钟阅读
 
-#webdev #javascript #devtips #learning](/wangonya/better-consolelogs-448c)[![sagar image](../Images/77d7cdd6dc22b14d3af7c95c433973bb.png)](/sagar) [## 用无服务器框架构建 RESTful API
+#webdev #javascript #devtips #learning](/wangonya/better-consolelogs-448c)[![sagar image](img/77d7cdd6dc22b14d3af7c95c433973bb.png)](/sagar) [## 用无服务器框架构建 RESTful API
 
 ### 糖
 
-#serverless #node #javascript #beginners](/sagar/build-a-restful-api-with-the-serverless-framework-ene)[![gsto image](../Images/2c2320c2a5bdd5a746f7b4bba0e6bea2.png)](/gsto) [## 通过这个练习选择你的下一篇文章的主题
+#serverless #node #javascript #beginners](/sagar/build-a-restful-api-with-the-serverless-framework-ene)[![gsto image](img/2c2320c2a5bdd5a746f7b4bba0e6bea2.png)](/gsto) [## 通过这个练习选择你的下一篇文章的主题
 
 ### 格伦·斯托瓦尔 10 月 16 日 184 分钟阅读
 
@@ -33,15 +33,15 @@
 
 ## 文章不再可用
 
-[![elabftw image](../Images/88f40972017717829facc61497b0ba7f.png)](/elabftw) [## 停止使用 sudo pip 安装
+[![elabftw image](img/88f40972017717829facc61497b0ba7f.png)](/elabftw) [## 停止使用 sudo pip 安装
 
 ### eLabFTW Oct 17 ' 182 分钟读取
 
-#python #security #goodpractices #dependencies](/elabftw/stop-using-sudo-pip-install-52mn)[![edelvalle image](../Images/66b7e161d05ad4820499341e0b4cab56.png)](/edelvalle) [## 超越 PEP8 的 Python
+#python #security #goodpractices #dependencies](/elabftw/stop-using-sudo-pip-install-52mn)[![edelvalle image](img/66b7e161d05ad4820499341e0b4cab56.png)](/edelvalle) [## 超越 PEP8 的 Python
 
 ### eddy Ernesto del Valle Pino 10 月 19 日 183 分钟阅读
 
-#python #style #guidelines](/edelvalle/python-beyond-pep8-16g6)[![maxwell_dev image](../Images/14673be315f69583cf2f2dbaaa4fa9a1.png)](/maxwell_dev) [## 我希望我有网页可访问性介绍
+#python #style #guidelines](/edelvalle/python-beyond-pep8-16g6)[![maxwell_dev image](img/14673be315f69583cf2f2dbaaa4fa9a1.png)](/maxwell_dev) [## 我希望我有网页可访问性介绍
 
 ### max Anton ucci 10 月 23 日 188 分钟读取
 

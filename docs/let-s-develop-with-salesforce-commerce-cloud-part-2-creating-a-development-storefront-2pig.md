@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/pxjohnny/let-s-develop-with-salesforce-commerce-cloud-part-2-creating-a-development-storefront-2pig>
 
-<figure>[![](../Images/9cd1fada29c660fdbf5abc948ce86c4f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--m7Da-usF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A96XUr6cf5MGomjZLfSvHfA.jpeg) 
+<figure>[![](img/9cd1fada29c660fdbf5abc948ce86c4f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--m7Da-usF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A96XUr6cf5MGomjZLfSvHfA.jpeg) 
 
 <figcaption>照片由[迈克·彼得鲁奇](https://unsplash.com/photos/c9FQyqIECds?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)上传 [Unsplash](https://unsplash.com/search/photos/online-shopping?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 
@@ -22,7 +22,7 @@
 2.  选择 *SiteGenesis 店面*，点击*下一步*。
 3.  输入店面的根名称和位置，并选择将 SiteGenesis 附加到哪个数字服务器。点击*完成*。
 
-[![](../Images/9bb8098127a0cb3f70de691e8764a3e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0iw-It3M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/640/1%2Aq7o0xyNPoG3p9rVyt-jOLg.gif)
+[![](img/9bb8098127a0cb3f70de691e8764a3e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0iw-It3M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/640/1%2Aq7o0xyNPoG3p9rVyt-jOLg.gif)
 
 完成后，您将在您的*项目浏览器中看到一些新对象:*
 
@@ -51,13 +51,13 @@
 
 对于控制器，最终结果应该是 **_core:_controllers** ，对于流水线，最终结果应该是 **_core:_pipelines** 。
 
-[![](../Images/660cc0ae7594edc97f6e680e2f747795.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FP9OBw4F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/640/1%2AdU4caitmgR27jJooomez8Q.gif)
+[![](img/660cc0ae7594edc97f6e680e2f747795.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FP9OBw4F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/640/1%2AdU4caitmgR27jJooomez8Q.gif)
 
 ### 查看站点生成
 
 现在，我们的墨盒已上传并注册，我们准备好了！前往您的网站 url，如果一切顺利，您应该会看到以下内容:
 
-<figure>[![](../Images/8a4bf4d11ef268cc255666278caf89e1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Fd5v8hYN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AhNWPybpHaboZ_4rg-n7qtA.png)
+<figure>[![](img/8a4bf4d11ef268cc255666278caf89e1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Fd5v8hYN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AhNWPybpHaboZ_4rg-n7qtA.png)
 
 <figcaption>site genesis in action</figcaption>
 

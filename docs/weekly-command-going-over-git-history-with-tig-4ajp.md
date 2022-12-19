@@ -4,7 +4,7 @@
 
 有许多 UI 实用程序允许您探索 Git 存储库，但是对我来说，没有什么比`tig`更好的了。
 
-[![A GIF showing examples of the usage of the tig command](../Images/9f11881aa7585a09cc84d3da07f923f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9dU7J1PS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/4419992/38970312-139b8b28-436b-11e8-82d7-019f5397e7c8.gif)
+[![A GIF showing examples of the usage of the tig command](img/9f11881aa7585a09cc84d3da07f923f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9dU7J1PS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/4419992/38970312-139b8b28-436b-11e8-82d7-019f5397e7c8.gif)
 
 ## 基础知识
 
@@ -48,7 +48,7 @@ $ git show | tig
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![output of the git show command piped into tig](../Images/07d804393d0bbf89834a0a0e92d215b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9EWriwUS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/4419992/39009773-f496ca08-43e2-11e8-9c42-adc35b57b4b1.jpg)
+[![output of the git show command piped into tig](img/07d804393d0bbf89834a0a0e92d215b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9EWriwUS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/4419992/39009773-f496ca08-43e2-11e8-9c42-adc35b57b4b1.jpg)
 
 ## 资源
 

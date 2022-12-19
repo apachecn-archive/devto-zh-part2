@@ -56,9 +56,9 @@
 
 ## 非气体 DoS 缓解
 
-[![img](../Images/2e8e44939d7c65a86daf67c222a35279.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bhO4E23R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9cutjn87v0choqe5cs44.jpg)
-[![img](../Images/db67dad8ea61f1b4cfc4adcff981defa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BY4NV8m8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7qde4lf0pu0irlah2i2g.jpg)
-[![img](../Images/3babb59757016f4f8ef335d83b3a269d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GxQtTjAm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7jwmyj3o72eo4rjpcmqs.jpg)
+[![img](img/2e8e44939d7c65a86daf67c222a35279.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bhO4E23R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9cutjn87v0choqe5cs44.jpg)
+[![img](img/db67dad8ea61f1b4cfc4adcff981defa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BY4NV8m8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7qde4lf0pu0irlah2i2g.jpg)
+[![img](img/3babb59757016f4f8ef335d83b3a269d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GxQtTjAm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7jwmyj3o72eo4rjpcmqs.jpg)
 
 ## 最后
 

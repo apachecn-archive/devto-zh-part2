@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/dceddia/redux-vs-the-react-context-api-1nof>
 
-[![React Context vs Redux: which to use, and why](../Images/cde8420d6431d9bf9ea9b85767319529.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0eyYJNs3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://daveceddia.com/images/context-vs-redux.png)
+[![React Context vs Redux: which to use, and why](img/cde8420d6431d9bf9ea9b85767319529.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0eyYJNs3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://daveceddia.cimg/context-vs-redux.png)
 
 React 16.3 增加了一个新的上下文 API——*new*在某种意义上说，旧的*上下文 API 是一个幕后特性，大多数人要么不知道，要么因为文档说要避免使用它而避免使用它。*
 
@@ -18,13 +18,13 @@ React 16.3 一发布，网上就有文章宣称 Redux 的死亡是因为这个�
 
 让我们看一个会导致大多数人使用 Redux 的例子。我们将从一个普通的 React 版本开始，然后看看它在 Redux 中是什么样子，最后看看上下文。
 
-[![The component hierarchy](../Images/a66a2aaf92eda63fb468c6e37665cd44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---UaYF80B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://daveceddia.com/images/context-v-redux-app-screenshot.png)
+[![The component hierarchy](img/a66a2aaf92eda63fb468c6e37665cd44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---UaYF80B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://daveceddia.cimg/context-v-redux-app-screenshot.png)
 
 这个应用程序将用户信息显示在两个地方:右上角的导航栏和主要内容旁边的侧边栏。
 
 组件结构如下所示:
 
-[![The component hierarchy](../Images/9de25faa98ccf764bb757e6812edb814.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xt-Z8M9z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://daveceddia.com/images/context-v-redux-app-tree.png)
+[![The component hierarchy](img/9de25faa98ccf764bb757e6812edb814.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xt-Z8M9z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://daveceddia.cimg/context-v-redux-app-tree.png)
 
 使用 pure React(只是普通的道具)，我们需要在树中存储足够高的用户信息，以便可以传递给需要它的组件。在这种情况下，用户信息的保管人必须是`App`。
 
@@ -267,7 +267,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 有了 Redux DevTools 扩展，你可以自动记录你的应用程序执行的每一个动作。您可以随时打开它，查看哪些动作被触发，它们的负载是什么，以及动作发生前后的状态。
 
-[![Redux devtools demo](../Images/2482abb28796c063bd5de1d1c62cec7c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bp0AkVKe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://daveceddia.com/images/redux-devtools.gif)
+[![Redux devtools demo](img/2482abb28796c063bd5de1d1c62cec7c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bp0AkVKe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://daveceddia.cimg/redux-devtools.gif)
 
 Redux DevTools 启用的另一个伟大功能是*时间旅行调试*又名。你可以点击任何过去的动作并跳转到该时间点，基本上重放直到并包括该动作的每个动作(但没有进一步的)。这能工作的原因是因为每一个动作*不变地*更新状态，所以你能得到一个记录状态更新的列表并重放它们，没有不良影响，并在你期望的地方结束。
 
@@ -294,7 +294,7 @@ React 的新上下文 API 可能会满足这个要求。让我们看看它是如
 
 我在 Egghead 上发布了一个快速上下文 API 课程，如果你更愿意看而不是读的话(3:43):
 
-[![Context API lesson on Egghead.io](../Images/d2f3830638f089e8edf318b41d997d76.png)T2】](https://egghead.io/lessons/react-pass-props-through-multiple-levels-with-react-s-context-api)
+[![Context API lesson on Egghead.io](img/d2f3830638f089e8edf318b41d997d76.png)T2】](https://egghead.io/lessons/react-pass-props-through-multiple-levels-with-react-s-context-api)
 
 上下文 API 有 3 个重要部分:
 
@@ -516,7 +516,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这里有一个新的例子:一个简单的房间，有一个灯光开关来切换背景颜色——呃，我指的是灯光。
 
-[![the fire is dead. the room is freezing.](../Images/cfbf56df57a13f4b9fe4ad19f4b5f446.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kz0OYgyP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://daveceddia.com/images/lightswitch-app.gif)
+[![the fire is dead. the room is freezing.](img/cfbf56df57a13f4b9fe4ad19f4b5f446.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kz0OYgyP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://daveceddia.cimg/lightswitch-app.gif)
 
 状态保存在存储器中，存储器还具有开关灯的功能。状态和功能都是通过上下文传递的。
 

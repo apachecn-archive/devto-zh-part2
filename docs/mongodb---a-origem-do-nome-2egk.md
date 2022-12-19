@@ -14,7 +14,7 @@ mongodb 网站上说他的创始人创立了像 DoubleClick 这样的大型互�
 
 而且由于我喜欢书呆子文化，我不禁想起了 Mad Max 2 电影中的一个角色(看起来很老，我知道-我...。)！一个大家伙打每个人，他的名字是洪戈爵士！
 
-[![Humongous Mad Max 2](../Images/2572e250d25a643c954e6f458a2bc1ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x4SKB2Xo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ocdviewer.files.wordpress.com/2014/04/sw-29.jpg)
+[![Humongous Mad Max 2](img/2572e250d25a643c954e6f458a2bc1ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x4SKB2Xo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ocdviewer.files.wordpress.com/2014/04/sw-29.jpg)
 
 ## 但是叶子怎么快？
 

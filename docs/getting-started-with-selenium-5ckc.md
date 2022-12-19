@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kavyasahu/getting-started-with-selenium-5ckc>
 
-[Mindmajix](https://mindmajix.com/docs/images/selenium-interview-questions.png)
+[Mindmajix](https://mindmajix.com/doimg/selenium-interview-questions.png)
 
 当我们讨论软件质量保证或任何产品的测试时，这意味着我们必须交付无缺陷的应用程序，这意味着应用程序中没有缺陷。为了确保质量，我们对我们的应用程序进行测试，这意味着我们展示几个功能性或非功能性的测试用例。在继续介绍 Selenium 之前，我们先来看看什么是自动测试。
 

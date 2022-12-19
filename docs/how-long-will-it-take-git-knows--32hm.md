@@ -3,7 +3,7 @@
 > 原文：<https://dev.to/dmelidonis/how-long-will-it-take-git-knows--32hm>
 
 作为软件开发人员，我们所有的工作都围绕着一个源代码控制系统，无论是 [svn](https://subversion.apache.org/) 、 [hg](https://www.mercurial-scm.org/) 还是 [git](https://git-scm.com/) 。在我们为项目使用的每个存储库中，都有我们活动的痕迹、注释和时间戳，任何人都可以看到。几年前，我开始构建一个工具，允许我为一个工作项分配一个“咖啡杯大小”，然后使用与该工作相关的 git 提交并计算它需要多长时间。
-[![Coffee cup sizes](../Images/8927e9b58340cb4c8dedf758caeedc46.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4Ul4xSrb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tj87d6pj66haw9upo9ug.png) 
+[![Coffee cup sizes](img/8927e9b58340cb4c8dedf758caeedc46.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4Ul4xSrb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tj87d6pj66haw9upo9ug.png) 
 我称之为 [GitCup](https://www.microsoft.com/store/apps/9NBLGGH4XFHP?cid=devbloga) ，它仍在开发中，但它的目的是帮助我用最少的努力生成更准确的时间估计。
 
 ### “为什么？”你可能会问。

@@ -56,7 +56,7 @@
 
     我知道我想玩什么。我童年最喜欢的种族和职业-兽人战士。😈
 
-    [![Orc grunt](../Images/0d1eb5fef74c60816d63f78ac3d90c3f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LqizJs7U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d1u5p3l4wpay3k.cloudfront.net/wowpedia/5/57/Grunt.png)
+    [![Orc grunt](img/0d1eb5fef74c60816d63f78ac3d90c3f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LqizJs7U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d1u5p3l4wpay3k.cloudfront.net/wowpedia/5/57/Grunt.png)
 
     兽人步兵总是吸引我。也许是因为画的方式。也许因为他们是“坏”家伙，我厌倦了穿着闪亮盔甲的骑士。不管是什么情况，我做了一个，它又变得有趣了！
 

@@ -10,11 +10,11 @@
 
 因此，让我们来看看我们的 GraphQL 查询:
 
-[![](../Images/6c880d8c8454d5f1e824db834b36ddd1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fC52-Qef--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/LNstiWS.png)
+[![](img/6c880d8c8454d5f1e824db834b36ddd1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fC52-Qef--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/LNstiWS.png)
 
 假设我们有这样一个简单的查询。只需查询所有可用的调色板，并通过变量对它们进行排序。我们的 vue 组件应该是这样的:
 
-[![](../Images/21d82094ee97ecc93dc77f4d6d4db154.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_e0S52Dz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/KQa2FFB.png)
+[![](img/21d82094ee97ecc93dc77f4d6d4db154.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_e0S52Dz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/KQa2FFB.png)
 
 我们只需加载我们的查询，vue-apollo 在幕后完成所有的魔术。我们只是迭代我们的查询结果。并呈现调色板组件。
 
@@ -22,13 +22,13 @@
 
 我们现在需要向查询中添加两个参数。定义查询开始处的*偏移量*的`skip`参数和定义*限制*或您想要查询多少个元素的`first`参数。我们还需要知道有多少元素。所以我们使用 _meta 查询。因此，我们的新查询将如下所示:
 
-[![](../Images/db4c22e58245a1c67b6f1a6aac83d558.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PihNTaNg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/onGUydf.png)
+[![](img/db4c22e58245a1c67b6f1a6aac83d558.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PihNTaNg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/onGUydf.png)
 
 现在我们的 GraphQL 查询已经准备好了。我们需要更新 Vue 组件。首先我们需要更新我们的数据。因为我们在查询中添加了`totalCount`。
 
 `totalCount`非常重要，因为我们需要它来检查是否有更多的调色板要加载。如果我们加载了所有的调色板，我们不应该再次获取。我们只需添加一个计算属性，它会告诉我们是否可以获取更多。而且我们可以用它，作为我们*装载更多*按钮的条件。
 
-[![](../Images/da391734406aabc9856dd8fb1d0621a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--70bHLJyv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/LROmQe4.png)
+[![](img/da391734406aabc9856dd8fb1d0621a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--70bHLJyv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/LROmQe4.png)
 
 现在我们需要更新我们的 vue-apollo 查询并添加缺失的变量。我们应该首先创建一个新的变量来保存我们想要获取的项目数量。例如`PALETTES_PER_PAGE`，我把它创建为一个局部常量变量。你也可以使用一个单独的文件，比如 constants.js 来保存所有这类常量。所以可以换一个地方。
 
@@ -36,13 +36,13 @@
 
 相反，我们可以使用 vue-apollo 附带的`result()`方法。我们简单地抓取`totalCount`并将它分配给我们的本地`this.totalCount`。
 
-[![](../Images/0c83646493088909ce278ced94ceaecb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--biXQdq4I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/pyKWNrR.png)
+[![](img/0c83646493088909ce278ced94ceaecb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--biXQdq4I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/pyKWNrR.png)
 
 现在让我们创建我们的按钮，它将获取更多的条目。如此简单，我们只需添加一个呈现条件，这是我们计算的属性。由于我们有了加载状态，我们可以根据它是否加载来改变按钮文本。
 
 点击后，我们调用我们的`loadMore()`方法，我们马上就会创建它。
 
-[![](../Images/7844c532d205341d9d7c6f9ffd47679f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2iFdM2p---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Xe03ukV.png)
+[![](img/7844c532d205341d9d7c6f9ffd47679f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2iFdM2p---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Xe03ukV.png)
 
 ## ⚡️更新查询
 
@@ -60,7 +60,7 @@ this.$apollo.queries.allPalettes.fetchMore({
 
 然而，这还不够。我们还必须更新缓存中的查询。这很简单:我们检查是否有`fetchMoreResults`，如果没有，我们返回`previousResults`。否则，我们用`Object.assign()`和扩展操作符将新的调色板结果附加到旧的调色板结果上。如果你跟不上，用[阿波罗 chrome 插件](https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm)检查一下阿波罗缓存的结构总是很有帮助的
 
-[![](../Images/1a6672ff93e7f3b38f65ed6d99087b1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hViKrPQu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/NJKD4ot.png)
+[![](img/1a6672ff93e7f3b38f65ed6d99087b1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hViKrPQu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/NJKD4ot.png)
 
 ## 🎉决赛成绩
 

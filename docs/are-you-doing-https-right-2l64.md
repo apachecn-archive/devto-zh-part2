@@ -18,13 +18,13 @@
 
 当你在 HTTPS 上加载一个网站时，所有主流浏览器都会在地址栏显示“安全”符号。比如你在 Chrome 浏览器上打开我的帖子，地址栏显示“安全”，如下图。
 
-[![Secure-website.png](../Images/79be4a74a91f7d89037500aaab028050.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_nhe2Qly--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/ankitvijay.net/wp-content/uploads/2018/02/Secure-website.png%3Fresize%3D517%252C227%26ssl%3D1) 
+[![Secure-website.png](img/79be4a74a91f7d89037500aaab028050.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_nhe2Qly--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/ankitvijay.net/wp-content/uploads/2018/02/Secure-website.png%3Fresize%3D517%252C227%26ssl%3D1) 
 
 <figcaption>安全符号(Chrome 浏览器)</figcaption>
 
 安全符号还表示在网站上加载时请求的所有资源，无论是图像还是第三方脚本，都是 HTTPS。然而，如果你的网站加载混合内容，那么你的网站的用户将不会在地址栏看到可信的“安全”符号，即使该网站本身是在 HTTPS 上。以下是捷星“管理预订”页面在 Edge 浏览器上的外观示例:
 
-[![](../Images/106a998eb0b0999cb60aa45e08210dd9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6p98BsCZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/ankitvijay.net/wp-content/uploads/2018/02/InsureWebsiteWarning-1.png%3Fresize%3D681%252C396%26ssl%3D1) 
+[![](img/106a998eb0b0999cb60aa45e08210dd9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6p98BsCZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/ankitvijay.net/wp-content/uploads/2018/02/InsureWebsiteWarning-1.png%3Fresize%3D681%252C396%26ssl%3D1) 
 
 <figcaption>网站内容未加密警告(边缘浏览器)</figcaption>
 
@@ -48,6 +48,6 @@
 
 遗憾的是， **Edge **和**Safari** 浏览器目前仍不支持这一 CSP 指令。Chrome、Firefox 和 Opera 都支持这一指令。
 
-希望这篇文章对你有用。编码快乐！！！[![🙂](../Images/1bb31e891282bfa40812655c9c9ace9e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DvXCaIjD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.org/images/core/emoji/11/72x72/1f642.png)
+希望这篇文章对你有用。编码快乐！！！[![🙂](img/1bb31e891282bfa40812655c9c9ace9e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DvXCaIjD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.oimg/core/emoji/11/72x72/1f642.png)
 
 你在 HTTPS 过得好吗？首次出现在[大家好，我是 Ankit](https://ankitvijay.net) 。

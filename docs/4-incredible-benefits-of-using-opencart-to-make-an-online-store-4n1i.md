@@ -4,7 +4,7 @@
 
 在日益兴起的在线业务世界中，拥有一流的质量已经成为一种必需。由于今天的顾客有太多的企业可供选择，为了确保你处于领先地位，你的网上商店必须是非凡的。这只能在一个惊人的电子商务平台的帮助下实现！OpenCart 是电子商务竞赛中的众多竞争对手之一，这个平台正在领先！今天，这个平台迎合成千上万的企业，对你来说也是一个惊人的选择。
 
-[![Opencart Development Malaysia](../Images/dc02c51ac3d2da6c6b0620e4d4dce41b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IEjKjYsl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uy7tyimnx4yitc2c867w.jpg)
+[![Opencart Development Malaysia](img/dc02c51ac3d2da6c6b0620e4d4dce41b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IEjKjYsl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uy7tyimnx4yitc2c867w.jpg)
 
 以下是它提供的 4 个使其绝对出众的特性:
 

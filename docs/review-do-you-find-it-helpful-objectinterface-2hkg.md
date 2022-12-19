@@ -9,4 +9,4 @@
 
 [https://github . com/shy struk/famulus/blob/master/object interface . js](https://github.com/shystruk/famulus/blob/master/objectInterface.js)
 
-[![Alt text of image](../Images/23962f3428adf00f902a4c829e9f2ba3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I8aRemy4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yy3m4su73ppf21oqdy1c.png)
+[![Alt text of image](img/23962f3428adf00f902a4c829e9f2ba3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I8aRemy4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yy3m4su73ppf21oqdy1c.png)

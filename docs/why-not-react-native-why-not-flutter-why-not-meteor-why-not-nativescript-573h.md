@@ -4,7 +4,7 @@
 
 我们不久前开始开发一款 iOS 应用，昨天刚刚发布了一款基本的、功能不全但可用的测试版应用。
 
-[![The DEV Team](../Images/6b3a9c79aeecf790d5144f3fe1881f50.png)![](../Images/15e6599da1ea8b6f92e1b678e9347b2c.png)](/devteam) [## 帮助测试开发测试版应用程序！
+[![The DEV Team](img/6b3a9c79aeecf790d5144f3fe1881f50.png)![](img/15e6599da1ea8b6f92e1b678e9347b2c.png)](/devteam) [## 帮助测试开发测试版应用程序！
 
 ### 开发团队的李佳薇 10 月 25 日 181 分钟阅读
 
@@ -16,15 +16,15 @@
 
 在我们的回购中，我包含了一个 Basecamp 资源的链接:
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png)[forem](https://github.com/forem)/[DEV-IOs](https://github.com/forem/DEV-ios)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png)[forem](https://github.com/forem)/[DEV-IOs](https://github.com/forem/DEV-ios)
 
 ### 开发社区 iOS 应用程序
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-[![Build Status](../Images/6dfcb486a52bd1b00a44be51502c12b3.png)](https://travis-ci.com/thepracticaldev/DEV-ios)[![GitHub License](../Images/0e96cc87ff2986e2d83874faceda1e97.png)](https://github.com/thepracticaldev/DEV-ios/blob/master/LICENSE)[![Language](../Images/a8ac7a556d99728dc99a818bd67917dd.png)](https://developer.apple.com/swift)[![Maintainability](../Images/8df03de5ddee5a39feabf717dc97de18.png)](https://codeclimate.com/github/thepracticaldev/DEV-ios/maintainability)[![Test Coverage](../Images/a6f10b19fa167c97acb9733714c3cd50.png)](https://codeclimate.com/github/thepracticaldev/DEV-ios/test_coverage)
+[![Build Status](img/6dfcb486a52bd1b00a44be51502c12b3.png)](https://travis-ci.com/thepracticaldev/DEV-ios)[![GitHub License](img/0e96cc87ff2986e2d83874faceda1e97.png)](https://github.com/thepracticaldev/DEV-ios/blob/master/LICENSE)[![Language](img/a8ac7a556d99728dc99a818bd67917dd.png)](https://developer.apple.com/swift)[![Maintainability](img/8df03de5ddee5a39feabf717dc97de18.png)](https://codeclimate.com/github/thepracticaldev/DEV-ios/maintainability)[![Test Coverage](img/a6f10b19fa167c97acb9733714c3cd50.png)](https://codeclimate.com/github/thepracticaldev/DEV-ios/test_coverage)
 
-# 开发 iOS <g-emoji class="g-emoji" alias="sparkling_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f496.png">💖</g-emoji>
+# 开发 iOS <g-emoji class="g-emoji" alias="sparkling_heart" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f496.png">💖</g-emoji>
 
 这是对 iOS 应用程序[开发到](https://dev.to)的回购。
 

@@ -8,7 +8,7 @@
 
 *由 Adabas & Natural 公司产品管理总监 Juergen Lind 和软件公司高级首席软件专家 Bernhard Fricke*
 
-| 2018 年第三期 | [![](../Images/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://bit.ly/2L8O13F) |
+| 2018 年第三期 | [![](img/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://bit.ly/2L8O13F) |
 | --- | --- |
 
 ## 场景
@@ -23,7 +23,7 @@
 
 AS/400 上的 COBOL 服务器雇员(图 1)需要从 IS 调用。使用 EntireX，您可以分三个阶段开发场景:1 提取 2 生成 3 测试
 
-[![](../Images/afd835290e73abdc90064d59b5f0b140.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lp4-us40--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/entirex1.jpg/0694b1dc-b4e9-48d8-9221-575e9ad904dc%3Ft%3D1531388832880) 
+[![](img/afd835290e73abdc90064d59b5f0b140.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lp4-us40--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/entirex1.jpg/0694b1dc-b4e9-48d8-9221-575e9ad904dc%3Ft%3D1531388832880) 
 
 **图 1:**IBM I(AS/400 操作系统)的 AS/400 和 COBOL 环境上的 COBOL 服务器员工
 
@@ -38,7 +38,7 @@ AS/400 上的 COBOL 服务器雇员(图 1)需要从 IS 调用。使用 EntireX�
 
 COBOL 提取通常使用 EntireX 完成。没有 AS/400 细节需要考虑。
 
-[![](../Images/3fe298c2980c634c3596f3841dc1d02b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QwtzOBkf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/entirex2.jpg/965c6649-2622-4460-93a0-074d5c6050ce%3Ft%3D1531388836928) 
+[![](img/3fe298c2980c634c3596f3841dc1d02b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QwtzOBkf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/entirex2.jpg/965c6649-2622-4460-93a0-074d5c6050ce%3Ft%3D1531388836928) 
 
 **图 2:** 提取 AS/400 COBOL 服务器雇员
 
@@ -68,7 +68,7 @@ Software AG IDL Extractor for COBOL>COBOL Mapping Editor>IDL Extraction per Inte
 
 您以通常的方式生成连接和集成服务器服务:使用软件 AG IDL 的上下文菜单并调用*集成服务器>生成 webMethods IS 连接...*
 
-[![](../Images/a86ca4b285787b195dc0e3eb05116838.png)](https://res.cloudinary.com/practicaldev/image/fetch/s----TwYGbX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/entirex3.jpg/06345121-7a60-4825-93f2-f9dae0c3feaa%3Ft%3D1531388841139) 
+[![](img/a86ca4b285787b195dc0e3eb05116838.png)](https://res.cloudinary.com/practicaldev/image/fetch/s----TwYGbX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/entirex3.jpg/06345121-7a60-4825-93f2-f9dae0c3feaa%3Ft%3D1531388841139) 
 
 **图 3:** 生成 IS 服务和连接
 
@@ -78,7 +78,7 @@ Software AG IDL Extractor for COBOL>COBOL Mapping Editor>IDL Extraction per Inte
 
 对于测试，使用服务开发视角，就像您对其他 IS 服务测试一样。在生成的 IS 服务的上下文菜单中，选择运行方式>运行服务...
 
-[![](../Images/0124a531f2fd2d46e612f4233b25a7d5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--949lzIEe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/entirex4.jpg/994ba425-d2c3-473a-a6a6-a3133b156828%3Ft%3D1531388845528) 
+[![](img/0124a531f2fd2d46e612f4233b25a7d5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--949lzIEe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/entirex4.jpg/994ba425-d2c3-473a-a6a6-a3133b156828%3Ft%3D1531388845528) 
 
 **图 4:** 从 IS 调用 AS/400 COBOL 服务器
 
@@ -90,7 +90,7 @@ Software AG IDL Extractor for COBOL>COBOL Mapping Editor>IDL Extraction per Inte
 
 要从 webMethods IS 以外的环境访问 AS/400 服务器，请使用 AS/400 的 RPC 服务器。AS/400 的典型架构由 RPC 客户端、EntireX 代理和 RPC 服务器组成。AS/400 的 RPC 服务器一端作为 RPC 服务器，另一端作为客户端调用 AS/400 服务器程序。
 
-[![](../Images/d6c819ae5f906bb4951ca6bba352fe31.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iMYPS85m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/entirex5.jpg/b55131f8-3d85-48f8-a5c8-9fb0e8897738%3Ft%3D1531388850178) 
+[![](img/d6c819ae5f906bb4951ca6bba352fe31.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iMYPS85m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/entirex5.jpg/b55131f8-3d85-48f8-a5c8-9fb0e8897738%3Ft%3D1531388850178) 
 
 **图 5:** 从 webMethods 以外的环境访问 AS/400 服务器的架构图为
 

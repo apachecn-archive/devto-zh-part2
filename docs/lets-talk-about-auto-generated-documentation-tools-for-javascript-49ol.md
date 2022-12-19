@@ -23,13 +23,13 @@ const add = x => y => x + y
 
 我找到了一个未解决的问题[对 curried 函数的支持](https://github.com/jsdoc3/jsdoc/issues/1286)并检查了日期。2016 年 10 月。
 
-[![rage face](../Images/f0ec1eaa7d76437c8a5816f28b0eecd6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7ccp9q3D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gwr7j43nhreztq77lbfb.png)
+[![rage face](img/f0ec1eaa7d76437c8a5816f28b0eecd6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7ccp9q3D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gwr7j43nhreztq77lbfb.png)
 
 行...RIP JSDoc。
 
 # [美并](https://github.com/nijikokun/minami)
 
-[![Minami screenshot](../Images/85b02e8228339913485c241058380d2a.png)T2】](https://camo.githubusercontent.com/03e6d3687da4f4e05c2d4f9bd2b711f5f113a8c0/687474703a2f2f692e696d6775722e636f6d2f725043494671542e706e67)
+[![Minami screenshot](img/85b02e8228339913485c241058380d2a.png)T2】](https://camo.githubusercontent.com/03e6d3687da4f4e05c2d4f9bd2b711f5f113a8c0/687474703a2f2f692e696d6775722e636f6d2f725043494671542e706e67)
 
 这正是我要找的。截图看起来很棒...啊哦。JSDoc 3。该项目最后一次更新是在 2017 年 4 月 18 日。
 
@@ -37,13 +37,13 @@ const add = x => y => x + y
 
 # [doxdox](https://github.com/neogeek/doxdox)
 
-[![doxdox screenshot](../Images/e0434907a08ee2f73f610c0ac4ab8474.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--emwIXIHC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/neogeek/doxdox/raw/master/screenshot.jpg)
+[![doxdox screenshot](img/e0434907a08ee2f73f610c0ac4ab8474.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--emwIXIHC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/neogeek/doxdox/raw/master/screenshot.jpg)
 
 这看起来很结实。上次提交时间是 2018 年 2 月 19 日。还是很久，不过不到一年。
 
 所以我联系他们[如何记录可定制的功能？](https://github.com/neogeek/doxdox/issues/73)。
 
-[![Please stand by TV screen](../Images/c4c219ee49295045ef6ffe6054b2f1cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ry9QUTcA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lsaw8wtk02trwgwio0rp.jpeg)
+[![Please stand by TV screen](img/c4c219ee49295045ef6ffe6054b2f1cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ry9QUTcA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lsaw8wtk02trwgwio0rp.jpeg)
 
 无线电静默
 
@@ -51,7 +51,7 @@ const add = x => y => x + y
 
 # [石板](https://github.com/lord/slate)
 
-[![Slate screenshot](../Images/8d748dff93ec2174f156847b1e084768.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FNe6Qf1m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/lord/img/master/screenshot-slate.png)
+[![Slate screenshot](img/8d748dff93ec2174f156847b1e084768.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FNe6Qf1m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/lord/img/master/screenshot-slate.png)
 
 这是迄今为止我最喜欢的截图。回购中的伟大主题和最近的活动。
 
@@ -94,4 +94,4 @@ React Styleguidist——隔离的 React 组件开发环境，提供生活方式�
 **更多文章**...一起
 [问我关于函数式编程的傻问题](https://dev.to/joelnet/ask-me-dumb-questions-about-functional-programming-bho)
 
-[![Cheers!](../Images/661c03d25961a6e3b1ecbe00d148b35a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PqqJmrxK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6jsy3a866frzp3u5oda0.jpg)
+[![Cheers!](img/661c03d25961a6e3b1ecbe00d148b35a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PqqJmrxK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6jsy3a866frzp3u5oda0.jpg)

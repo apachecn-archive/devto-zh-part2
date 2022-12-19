@@ -9,7 +9,7 @@
 这让我创建了 [dragdrop.site](http://dragdrop.site/) 。
 这是一项简单的服务，你可以通过将 html、css 和 js 文件从电脑拖到浏览器窗口来创建一个静态网站。它立即返回一个新的子域，看起来像“xyzab.dragdrop.site”，你可以用它来与你的朋友分享你的项目。
 
-[![How to use dragdrop.site](../Images/a9d1b88c2a37341501e83ad60d0f4661.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9pG9MrGA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vjc83se5hc6rm830sfaj.jpg)
+[![How to use dragdrop.site](img/a9d1b88c2a37341501e83ad60d0f4661.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9pG9MrGA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vjc83se5hc6rm830sfaj.jpg)
 
 我想这样做的一个主要好处是你可以在你喜欢的工具上本地开发它，并以一种视觉上非常独特的方式部署它。这对我的同学来说非常有效。
 

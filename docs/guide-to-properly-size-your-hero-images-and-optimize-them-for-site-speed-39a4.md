@@ -12,12 +12,12 @@
 
 ### 英雄背景尺寸
 
-[![Example of a hero background image](../Images/4aa1f548866c373db2249a6e9e0a7a36.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AzUfDXQb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://photos.lauraleeflores.com/n9bS/hero_bg_image.jpg) 
+[![Example of a hero background image](img/4aa1f548866c373db2249a6e9e0a7a36.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AzUfDXQb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://photos.lauraleeflores.com/n9bS/hero_bg_image.jpg) 
 如果你的图像是标题/英雄背景图像，你需要保持 16:9 的宽高比。我将标题图像设为 1600 x 500px 像素。
 
 ### 整页背景图片尺寸
 
-[![Example of Full Page background Image](../Images/e4a47c336415512ddefe0c0ec09b42a9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---fG282S---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://photos.lauraleeflores.com/n9dE/full_page_bg_image.jpg) 
+[![Example of Full Page background Image](img/e4a47c336415512ddefe0c0ec09b42a9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---fG282S---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://photos.lauraleeflores.com/n9dE/full_page_bg_image.jpg) 
 如果你要创建一个整页的背景图像，你会希望保持 4:3 的宽高比，我把这些图像做成 1600 x 1000px，有时是 1920 x 1200px。我一般两个尺寸都做，然后压缩。如果大图压缩得很好，并且不是太大，我会选择大图。
 
 ### 移动图像尺寸

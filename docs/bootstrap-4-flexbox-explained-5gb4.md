@@ -50,7 +50,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 柱是网格系统的单元。每行最多只能容纳 12 列(每列跨越可用宽度的 *1/12* )。实际上，一个列跨越不止一个单元，但是有一个重要的规则**所有列加起来应该是 12 个**
 
-[![](../Images/75f68a55fc523c06c6f54a9f347e2e75.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i_-DskPg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.com/images/999e8047-b1e5-409f-b97e-2c6f3c5a68f7.png)
+[![](img/75f68a55fc523c06c6f54a9f347e2e75.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i_-DskPg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.cimg/999e8047-b1e5-409f-b97e-2c6f3c5a68f7.png)
 
 要创建一个列，您只需将`<div>`与类`col-*-*`一起使用
 
@@ -91,11 +91,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 还要注意，您不需要显式地添加更高的断点类，即`col-md-6`到`col-xl-6`，因为`.col-sm-6`意味着列的大小应该是从小断点开始的 6 个单位
 
-[![](../Images/82c61c0a1d50c926648bca991371521a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qoPocEI5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.com/images/f49f364d-d656-4eb7-97a6-fba568167a08.png)
+[![](img/82c61c0a1d50c926648bca991371521a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qoPocEI5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.cimg/f49f364d-d656-4eb7-97a6-fba568167a08.png)
 
 接下来让我们添加一个包含三列的第三行
 
-[![](../Images/bca632a743a57632042e25207515192a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tsaxmaaO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.com/images/f4dc6a62-bde7-4f5f-8cc4-f4ce79f203c8.png)
+[![](img/bca632a743a57632042e25207515192a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tsaxmaaO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.cimg/f4dc6a62-bde7-4f5f-8cc4-f4ce79f203c8.png)
 
 第一列跨越两个单位，第二列跨越三个单位，第三列跨越其余 7 个单位。所有列的大小加起来是 12
 
@@ -115,11 +115,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/af764e5653a38041cb553c27c0542c85.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RXqzgZbo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.com/images/8f78ec06-4814-4dfc-8bfc-2c373fb5a3f0.png)
+[![](img/af764e5653a38041cb553c27c0542c85.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RXqzgZbo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.cimg/8f78ec06-4814-4dfc-8bfc-2c373fb5a3f0.png)
 
 现在，如果您在每一列中添加一串文本，以改变它们的高度，您将会看到这样的结果
 
-[![](../Images/8b7d68840e30f160620d495e7e8930be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hLKIvCI6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.com/images/811687b8-1d1b-4a6e-94d1-a678a98c4278.png)
+[![](img/8b7d68840e30f160620d495e7e8930be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hLKIvCI6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.cimg/811687b8-1d1b-4a6e-94d1-a678a98c4278.png)
 
 可以看出，与 Bootstrap 3 不同，所有列都具有相同的高度，而不管它们的内容，这给出了网格系统的更好的感觉。
 

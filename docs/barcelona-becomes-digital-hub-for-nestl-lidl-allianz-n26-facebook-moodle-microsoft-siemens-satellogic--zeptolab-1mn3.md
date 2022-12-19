@@ -6,7 +6,7 @@
 
 让我们看看这张照片，你会发现一些公司已经或正在巴塞罗那开设他们的数字中心。
 
-[![digital hub big companies barcelona](../Images/5f80d0e5801e226f718f9d3968ec057b.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-03-at-08.49.22.png)
+[![digital hub big companies barcelona](img/5f80d0e5801e226f718f9d3968ec057b.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-03-at-08.49.22.png)
 
 *来源:[qtorb](http://www.qtorb.com/2018/06/barcelona-la-cara-b-de-ser-hub-tecnologico.html)T3】*
 

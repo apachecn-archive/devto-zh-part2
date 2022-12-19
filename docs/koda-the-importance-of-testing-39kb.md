@@ -9,7 +9,7 @@
 ## “你是要讲哥达吗？”
 
 没错，我就说说我们开发*哥达清盛的《守护者》*的经历吧。
-T3![Koda Title](../Images/b7beda9bb20bd359bfc5de44d31fa72c.png)T5】
+T3![Koda Title](img/b7beda9bb20bd359bfc5de44d31fa72c.png)T5】
 
 我将对这个主题进行一些探讨，我将谈谈游戏测试或真实条件下的测试。
 
@@ -24,7 +24,7 @@ T3![Koda Title](../Images/b7beda9bb20bd359bfc5de44d31fa72c.png)T5】
 1.  孩子们回答了第一项调查，揭示了他们对电子游戏的敏感性。
 2.  我们观察孩子们玩游戏，记录他们对游戏的行为和反应。
 3.  孩子们进行了第二次调查，以获得他们直接的个人反馈。
-4.  我们组织了与孩子们的讨论，以更深入地了解什么在全球范围内受欢迎或不受欢迎。![Play test](../Images/4d118a07bef844210b093cdab560071b.png)
+4.  我们组织了与孩子们的讨论，以更深入地了解什么在全球范围内受欢迎或不受欢迎。![Play test](img/4d118a07bef844210b093cdab560071b.png)
 
 ## “成功了吗？”
 
@@ -33,7 +33,7 @@ T3![Koda Title](../Images/b7beda9bb20bd359bfc5de44d31fa72c.png)T5】
 更具体地说，我们得到了一些关于相机行为和游戏不同区域难度的反馈。
 
 每个人都喜欢我们的吉祥物 Koda :p
-[![Koda](../Images/b131c4c56ffb194a0fb8e348a171cd10.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--U4BHVk42--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.mathieu-nivoliez.com/images/koda.png)
+[![Koda](img/b131c4c56ffb194a0fb8e348a171cd10.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--U4BHVk42--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.mathieu-nivoliez.cimg/koda.png)
 
 ## “就这样完美了？”
 

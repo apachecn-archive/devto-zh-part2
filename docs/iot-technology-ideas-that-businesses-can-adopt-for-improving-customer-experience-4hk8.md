@@ -6,7 +6,7 @@
 
 大多数企业主都束手无策，试图找出如何将物联网技术集成到他们的业务中，以即兴创造客户体验。这听起来很简单，但实现起来同样复杂。然而，物联网有广泛的方式来根据偏好提供定制的客户体验。
 
-[![Iot Technology](../Images/c3064d2319817f3e92cdf2aae4d91f56.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--eaulfmIa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ip17wo7btluij7a3dcsl.jpg) 
+[![Iot Technology](img/c3064d2319817f3e92cdf2aae4d91f56.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--eaulfmIa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ip17wo7btluij7a3dcsl.jpg) 
 这里有一些建议可以帮助企业充分利用物联网技术:
 
 ### 利用从物联网设备获得的见解进行即兴创作和创新:

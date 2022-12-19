@@ -16,7 +16,7 @@
 
 —
 
-[![](../Images/624bf678ad4b7d2627288175c3661511.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QfRKoNdj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ac0bu8hnJ7HgDYwcFot0khQ.png)
+[![](img/624bf678ad4b7d2627288175c3661511.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QfRKoNdj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ac0bu8hnJ7HgDYwcFot0khQ.png)
 
 我们要了解的第一点是 bazel 是以我们必须学习的一系列概念和术语为基础的。
 

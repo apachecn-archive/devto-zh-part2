@@ -82,7 +82,7 @@ Done! See `dist` directory
 
 然后，桌面二进制在`dist`目录！
 
-[![dist](../Images/43f50fc4f4207e5b05fe4431490b1ea3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IfcOt2DF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m6et734h6t8q6xfmctpt.png)
+[![dist](img/43f50fc4f4207e5b05fe4431490b1ea3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IfcOt2DF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m6et734h6t8q6xfmctpt.png)
 
 ## 我对 Nextron 的信念
 
@@ -161,7 +161,7 @@ $ npx electron-builder
 $ nextron init my-app --template custom-build-options 
 ```
 
-[![](../Images/420a93cbae938bdc94eba2716aeed8d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1rRXUe6m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/ZWNgF2C.png)
+[![](img/420a93cbae938bdc94eba2716aeed8d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1rRXUe6m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/ZWNgF2C.png)
 
 ### [例子/用-javascript-ant-design](https://github.com/saltyshiomix/nextron/tree/master/examples/with-javascript-ant-design)
 
@@ -169,7 +169,7 @@ $ nextron init my-app --template custom-build-options
 $ nextron init my-app --template with-javascript-ant-design 
 ```
 
-[![](../Images/9e12a05a253800b4d4ec843c1f1db399.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PGgFMGY_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/PiEKeIZ.png)
+[![](img/9e12a05a253800b4d4ec843c1f1db399.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PGgFMGY_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/PiEKeIZ.png)
 
 ### [例子/with-typescript-less](https://github.com/saltyshiomix/nextron/tree/master/examples/with-typescript-less)
 
@@ -177,7 +177,7 @@ $ nextron init my-app --template with-javascript-ant-design
 $ nextron init my-app --template with-typescript-less 
 ```
 
-[![](../Images/699202e5329934baa361c7a2d2712795.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dQv7YiSD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/cWBEdDR.png)
+[![](img/699202e5329934baa361c7a2d2712795.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dQv7YiSD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/cWBEdDR.png)
 
 ### [例子/with-typescript-material-ui](https://github.com/saltyshiomix/nextron/tree/master/examples/with-typescript-material-ui)
 
@@ -185,7 +185,7 @@ $ nextron init my-app --template with-typescript-less
 $ nextron init my-app --template with-typescript-material-ui 
 ```
 
-[![](../Images/3411afd7584bf660a15e5cb60baac151.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P4_ztPZE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/DNOsAH0.png)
+[![](img/3411afd7584bf660a15e5cb60baac151.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P4_ztPZE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/DNOsAH0.png)
 
 ## 关于支持
 

@@ -7,7 +7,7 @@
 **本质上，网络安全就是发现日常技术的非默认使用导致意外行为。**
 
 [![*Image Source: Unixmen<br>
-](../Images/5de369c62cefa3350b33dd6c074e7886.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--68hRF6dF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tnewncnvvxf7bk35dww0.jpg) 图片来源:Unixmen.com
+](img/5de369c62cefa3350b33dd6c074e7886.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--68hRF6dF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tnewncnvvxf7bk35dww0.jpg) 图片来源:Unixmen.com
 
 作为一名网络安全研究人员，你会想到一些日常事物的恶意使用方式。听起来很简单，但你可能会说你没有燃烧的智力或科学的思维过程。你也没有数学背景，你对离散数学或黑暗科学一无所知。因此，你怎么能擅长网络安全呢？这是一个神话。要擅长网络安全，你不需要具备这些条件。有时我们喜欢认为我们所想的是非常独特的，但事实并非如此。事实上，大多数人都有同样的问题，因为人类的心理或多或少是相似的。
 
@@ -26,7 +26,7 @@ web 开发将走向何方？
 使用最多的框架是什么？
 
 [![*When solving problems, dig at the roots instead of just hacking at the leaves. - Anthony J. D'Angelo*<br>
-](../Images/8b983c3bad8371afffb6430a29571fe6.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--f-4y6HCq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h2u0uaoynulmfrc130xk.jpg) *解决问题时，不要只抓树叶，要挖树根。——安东尼·j·德安杰洛*
+](img/8b983c3bad8371afffb6430a29571fe6.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--f-4y6HCq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h2u0uaoynulmfrc130xk.jpg) *解决问题时，不要只抓树叶，要挖树根。——安东尼·j·德安杰洛*
 
 在网络安全领域，当人们找不到漏洞时，他们就会失去热情。你需要开夜车，培养对网络安全的真正好奇心，这样你就不会失去对它的热情。你不希望从一个鸟瞰的角度来看这个网站，然后发现低挂的果实，即没有任何严重影响的安全漏洞。如果你想成为一名高于平均水平的网络安全研究者，你必须更仔细、更深入地了解网站使用的不同技术是如何结合在一起的。
 

@@ -12,13 +12,13 @@
 
 除此之外，你可能还没注意到他们推出了一个基于云的 MongoDB 服务，名为 [Atlas](https://www.mongodb.com/cloud/atlas/lp/general/try) 。我也尝试了一下，效果很好，让我不再担心在本地运行 MongoDB。它有一个很好的免费电话，所以这是一个加号。对于下面我要分享的演示代码，我用 Atlas 快速创建了一个猫的 MongoDB 集合，因为猫:
 
-[![Atlas interface](../Images/0695a1b4fc388ed0bb87f6c59c45e503.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o10yNOPt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/09/stitch1.jpg)
+[![Atlas interface](img/0695a1b4fc388ed0bb87f6c59c45e503.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o10yNOPt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/09/stitch1.jpg)
 
 界面就像你期望的那样工作，但是我喜欢他们有一个“克隆文档”的特性，因为它使得创建样本数据更加容易。
 
 让我们先来看看 QueryAnywhere。这是一组 SDK(JavaScript，React Native，Android，iOS，Node)，通过一个简单的库提供对 CRUD(读，写，更新，删除，当然也过滤)数据的访问。还有一个处理匿名用户的完整认证系统。基本上，他们可以很容易地设置你的规则(任何人都可以阅读，这种类型的用户可以添加，等等)，这样你的客户端代码是安全的。以下是我为 Stitch 应用程序所做的配置示例，允许匿名用户(默认)读取我的重要卡特彼勒数据:
 
-[![Access configuration](../Images/f4a3457cb9f1065925bdad88e4a0aa28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ECTPSux2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/09/stitch2.jpg)
+[![Access configuration](img/f4a3457cb9f1065925bdad88e4a0aa28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ECTPSux2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/09/stitch2.jpg)
 
 一旦你有了你的数据，并且有了设置权限，他们的门户网站提供了 JavaScript、Android 和 iOS (Swift)的样本代码，所以你可以快速地复制和粘贴内容。下面是我写的一个简单的 Vue 应用:
 
@@ -75,7 +75,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 他们有一个不错的在线编辑器，支持运行测试。(希望这个不会太小！)
 
-[![Function Editor](../Images/960566d977c1104731e66df849b40f8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H6U1-fr2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/09/stitch3.jpg)
+[![Function Editor](img/960566d977c1104731e66df849b40f8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H6U1-fr2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/09/stitch3.jpg)
 
 我在这里发现的唯一奇怪尴尬的事情是通过 HTTP 公开一个函数。为此，您需要添加一个 HTTP 服务，但对我来说，这并不是一个显而易见的方法。我为我的猫们发明了这个快速服务:
 

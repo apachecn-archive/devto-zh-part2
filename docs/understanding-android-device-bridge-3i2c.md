@@ -6,7 +6,7 @@
 
 当我回答这篇文章中的问题时，
 
-[![exadra37 image](../Images/515c86cf1f19ac70781f662b0a35a6b0.png)](/exadra37) [## Android 设备出厂时启用了 TCP 端口 5555
+[![exadra37 image](img/515c86cf1f19ac70781f662b0a35a6b0.png)](/exadra37) [## Android 设备出厂时启用了 TCP 端口 5555
 
 ### 保罗·雷纳托 10 月 2 日 182 分钟阅读
 
@@ -58,9 +58,9 @@
 
 Android 增加了另一层安全性。启用 ADB 后，当您将设备连接到 PC 时，它会询问“信任计算机”的权限。
 
-[![Screenshot from device](../Images/849ae3d37549c0208e1ce1d3a00e8703.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nmgQImYB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.embarcadero.com/starthere/xe5/mobdevsetup/android/en/300px-AndroidEnableUSBDebuggingDialog.png)
+[![Screenshot from device](img/849ae3d37549c0208e1ce1d3a00e8703.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nmgQImYB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.embarcadero.com/starthere/xe5/mobdevsetup/android/en/300px-AndroidEnableUSBDebuggingDialog.png)
 
-[![Screenshot from developer.android.com](../Images/6175601d44d84d06374a57bca6b00db2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3RIa7lP8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-us-west-2.amazonaws.com/my-blogresources/screenshots/Info%2Bfrom%2BAndroid%2BDeveloper%2BWebsite.png)
+[![Screenshot from developer.android.com](img/6175601d44d84d06374a57bca6b00db2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3RIa7lP8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-us-west-2.amazonaws.com/my-blogresources/screenshots/Info%2Bfrom%2BAndroid%2BDeveloper%2BWebsite.png)
 
 #### 练习-2:了解安卓外壳&沟通的方法
 

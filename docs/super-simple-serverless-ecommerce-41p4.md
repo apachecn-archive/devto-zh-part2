@@ -114,7 +114,7 @@
 
 现在我们应该有一个漂亮的页面让每个人都能看到我们的产品，但我们需要有一种方法让每个人都能购买这些产品。现在我们终于开始深入创建我们的 AWS Lambda 函数(无服务器函数)。这就是我们将要创建的放在表单“action”属性中的内容，这样我们的表单就可以发送到我们的函数中。
 
-[![I should hope its clear you have your own bucket name for the URL.](../Images/f8fd977fd31210655a4074bd540f91b6.png) ](//images.ctfassets.net/1wryd5vd9xez/2BaS7Axhh4MP1WE6VI2Nto/789847564faa6f3f6cfe45b8aae3cf56/https___cdn-images-1.medium.com_max_2102_1_RiQhDFnejiTQYb3B1tNASg.png) *我应该希望其明确你有自己的网址桶名。*
+[![I should hope its clear you have your own bucket name for the URL.](img/f8fd977fd31210655a4074bd540f91b6.png) ](//images.ctfassets.net/1wryd5vd9xez/2BaS7Axhh4MP1WE6VI2Nto/789847564faa6f3f6cfe45b8aae3cf56/https___cdn-images-1.medium.com_max_2102_1_RiQhDFnejiTQYb3B1tNASg.png) *我应该希望其明确你有自己的网址桶名。*
 
 通过访问 AWS 提供的 URL，您应该能够访问您的静态网站，并且您可以看到所有展出的精彩项目。
 
@@ -236,7 +236,7 @@ module.exports.checkout = (event, context, callback) => {
 
 同样，值得提醒的是，这是故意最小化的实现，仅适用于像数字商品(不需要纳税)这样的东西，但演示了创建您的结账和重定向客户是多么容易，而无需启动我们自己的服务器。事实上，如果您要将目录变量 ID 作为查询字符串参数附加到函数 URL 中，您可以在函数中解析出这些内容，从而拥有自己的无服务器“立即购买”链接。此外，您可以添加一个运费项目，以轻松处理统一运费，甚至在收银台捕捉客户的运费细节(请参见[此处](https://developer.squareup.com/docs/payments/checkout/overview#create-the-post-request)了解更多详情)。
 
-[![A preview of our eCommerce store. Those are our stickers we give away at developer conferences.](../Images/9a65598b09e5e746e4ba1d151b710e4d.png) ](//images.ctfassets.net/1wryd5vd9xez/4IyeEguXo7RZQw9l32K7n4/d2861fa5fcacc72a0550add41f1033b4/https___cdn-images-1.medium.com_max_3004_1_VC8FjM4vSbPwtsTdDDDKNw.png) *我们的电子商务商店预览。这些是我们在开发者大会上分发的贴纸。*
+[![A preview of our eCommerce store. Those are our stickers we give away at developer conferences.](img/9a65598b09e5e746e4ba1d151b710e4d.png) ](//images.ctfassets.net/1wryd5vd9xez/4IyeEguXo7RZQw9l32K7n4/d2861fa5fcacc72a0550add41f1033b4/https___cdn-images-1.medium.com_max_3004_1_VC8FjM4vSbPwtsTdDDDKNw.png) *我们的电子商务商店预览。这些是我们在开发者大会上分发的贴纸。*
 
 ### 无服务器的误解
 

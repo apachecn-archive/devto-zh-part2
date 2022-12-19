@@ -81,7 +81,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 📚同一主题的其他资源:
 
-[![amcsi image](../Images/ab471c0e4bde8ef4a5c2279d29f83559.png)](/amcsi) [## 分享。带外壳脚本的跨平台点文件
+[![amcsi image](img/ab471c0e4bde8ef4a5c2279d29f83559.png)](/amcsi) [## 分享。带外壳脚本的跨平台点文件
 
 ### 阿提拉·里梅 29 号 18 号 4 分钟前读完
 

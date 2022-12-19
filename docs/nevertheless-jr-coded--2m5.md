@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jrohatiner/nevertheless-jr-coded--2m5>
 
-[![Judith Rohatiner](../Images/23c95ca3b222532656cb2d7a2eac1342.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kKQA0v1t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uelv37uueyme6devxqm4.jpg)
+[![Judith Rohatiner](img/23c95ca3b222532656cb2d7a2eac1342.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kKQA0v1t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uelv37uueyme6devxqm4.jpg)
 
 # 其一使命
 

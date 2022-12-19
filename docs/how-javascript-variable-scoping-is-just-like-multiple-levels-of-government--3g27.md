@@ -20,7 +20,7 @@
 
 我想我有更好的办法。范围可以通过考察国际法、国内法和当地法律的合作方式来解释。所以，你只需要理解不同级别的政府存在，就可以了解不同级别的范围。这里有一个快速预览，然后我们将进入它！
 
-[![](../Images/293aab173ddc31d52964415936327b9b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UxFMULTf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AYWPubaj-_gMWS4jEDVBUfA.png) 
+[![](img/293aab173ddc31d52964415936327b9b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UxFMULTf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AYWPubaj-_gMWS4jEDVBUfA.png) 
 饮酒法令人讨厌但希望不会太有争议
 
 我会尽量避免任何与当前政治问题相关的法律。

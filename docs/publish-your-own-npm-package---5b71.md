@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/flexdinesh/publish-your-own-npm-package---5b71>
 
-[![Publish your own NPM package](../Images/4320b2528be0d8c91694ebbe3b94e7f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q3AcKwuR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.ytimg.com/vi/rTsz09zRuTU/maxresdefault.jpg)
+[![Publish your own NPM package](img/4320b2528be0d8c91694ebbe3b94e7f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q3AcKwuR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.ytimg.com/vi/rTsz09zRuTU/maxresdefault.jpg)
 
 ***注意: [npm 模块](https://github.com/flexdinesh/npm-module-boilerplate)有一个惊人的样板。这篇文章是基于我在创建它时学到的东西。***
 

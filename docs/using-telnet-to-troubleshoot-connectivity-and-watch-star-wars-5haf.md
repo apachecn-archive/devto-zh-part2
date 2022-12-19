@@ -4,7 +4,7 @@
 
 所以我要先说的是，在这篇文章的最后，你会知道如何观看 ASCII 艺术形式(即基于文本的图形)的《星球大战:新的希望》...让我们开始吧。
 
-[![](../Images/4bf86676aec3e0d3a2d57f94ca2788aa.png)T2】](https://1.bp.blogspot.com/-ignzeE25inc/W6MB7SE3k9I/AAAAAAAAHKw/Ntk-y1vkga0gUbqebNS0c8GyXsSmyIcwQCLcBGAs/s1600/watching-star-wars-cmd-4telnet.jpg)
+[![](img/4bf86676aec3e0d3a2d57f94ca2788aa.png)T2】](https://1.bp.blogspot.com/-ignzeE25inc/W6MB7SE3k9I/AAAAAAAAHKw/Ntk-y1vkga0gUbqebNS0c8GyXsSmyIcwQCLcBGAs/s1600/watching-star-wars-cmd-4telnet.jpg)
 
 最近，我发现自己正在开发一个遗留应用程序，因此我必须将多节点应用程序重新部署到运行在 Azure 上的基础设施中。其中两个模型通过 net.tcp 上的 WCF 绑定进行通信。当我在防火墙已经打开以允许通信的印象下工作时，我有点困惑于如何验证通信是否正常。所以我走到网络区和我们的网络架构师聊天。正如我经常发现的那样，在翻译领域，与那些专业知识与你不同的人聊天需要耐心和努力。尽管我们都在 IT 领域工作，我们都有自己的行话要处理，但入场费是非常值得的。
 

@@ -4,7 +4,7 @@
 
 《La villa del seis》(又名《La villa del 6》)是一款用 PHP、HTML、CSS 和 JavaScript 编写的开源冒险游戏。
 
-[![Screenshot](../Images/c6f262c679ea6b6396435319c5d96dcd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P1VCLilO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://dhtmlgames.com/lavilladel6/lavilladel6.gif)
+[![Screenshot](img/c6f262c679ea6b6396435319c5d96dcd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P1VCLilO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://dhtmlgames.com/lavilladel6/lavilladel6.gif)
 
 这个游戏是在 2006 年末制作的，使用了我之前制作的 [Yasmina 的任务](https://dev.to/jalbam/yasminas-quest--adventure-game-engine-in-php-and-dhtml-november-2005-1bpk)的引擎，并对其进行了修改和改进。它是与 Yasminan Llaveria del Castillo 共同制作的，其中一些照片由 Esteban Villegas Gallego 拍摄。
 

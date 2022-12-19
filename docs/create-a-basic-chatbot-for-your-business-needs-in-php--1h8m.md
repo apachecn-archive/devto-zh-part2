@@ -10,19 +10,19 @@
 
 第一步是创建一个脸书页面。这需要一个活动帐户。登录然后创建一个页面。选择适当的类别，然后填写所需信息，包括页面名称、地址和联系信息。完成页面创建过程。出于本教程的目的，我创建了一个名为 Cloudways School 的页面。
 
-[![](../Images/cd0f5ce568d68b7196dc0aefe40c8425.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FEKPSsBb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6lr257icyz8sbx1vdoqa.png)
+[![](img/cd0f5ce568d68b7196dc0aefe40c8425.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FEKPSsBb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6lr257icyz8sbx1vdoqa.png)
 
 ## 创建一个脸书应用
 
 第二步是创建连接聊天机器人和 Facebook 页面聊天的脸书应用程序。要创建应用，请转到脸书开发者页面，然后单击添加新应用。添加所有必需的信息，然后单击创建应用 ID 按钮。脸书可能会要求您验证验证码。
 
-[![](../Images/a1b228a673ed07c93122830c934195ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---DuLNU9j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uicyy07ghr066b9tuwfy.png)
+[![](img/a1b228a673ed07c93122830c934195ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---DuLNU9j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uicyy07ghr066b9tuwfy.png)
 
 该应用程序将出现在开发者仪表盘中。打开应用程序并将 messenger platform 添加到应用程序中。
 
 接下来，添加将应用程序连接到网站的 webhook。要添加 webhook，请生成页面访问令牌。
 
-[![](../Images/607397b56f6a1c03ebca542f658bf948.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fQlErCnY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2gcwp611cg4d33nocvrz.png)
+[![](img/607397b56f6a1c03ebca542f658bf948.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fQlErCnY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2gcwp611cg4d33nocvrz.png)
 
 接下来，定义回调 URL 和访问令牌。在令牌生成选项卡的正下方，转到 Webhook 选项卡，然后单击设置 Webhooks。插入 URL。请注意，为了实现这一点，URL 必须是 https 格式。
 
@@ -102,7 +102,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 此时，当你在 facebook 页面上说 hi 时，你会得到 hello 的回复。
 
-[![](../Images/cacf58290813b9228064053277ea53d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BehK0-EC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4hjdqn9vd0be60h9rx6b.png)
+[![](img/cacf58290813b9228064053277ea53d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BehK0-EC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4hjdqn9vd0be60h9rx6b.png)
 
 ## 发送结构化消息
 
@@ -119,7 +119,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Facebook Messenger 提供了几个模板，可用于向用户发送回复。例如，如果用户希望查询你网站上的最新博客，他们可以发送一个博客。一般的反应会是这样的:
 
-[![](../Images/ec0eb3b0b8dd3ad013854ee88edec868.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qyp8HDvK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x1hfrkktnhmp3f282hrx.png)
+[![](img/ec0eb3b0b8dd3ad013854ee88edec868.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qyp8HDvK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x1hfrkktnhmp3f282hrx.png)
 
 让我们为这条消息设置一个新的条件。尝试以下代码:
 
@@ -164,7 +164,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Facebook Messenger bot 也可以发送列表来响应用户的查询。例如，如果用户希望看到所有最新发布的博客列表，所有用户都可以在今天发送。作为响应，机器人发送一个列表。
 
-[![](../Images/0e313a69f29dfc8d387fec76eca7067c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6e-wgml1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wyqprgdufl5v6qiij20u.png)
+[![](img/0e313a69f29dfc8d387fec76eca7067c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6e-wgml1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wyqprgdufl5v6qiij20u.png)
 
 将这段代码添加到 bot.php 来测试这个选项:
 

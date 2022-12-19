@@ -8,6 +8,6 @@
 
 [React 原生垂直滚动条查看示例 Android](https://www.skptricks.com/2018/09/react-native-vertical-scrollview-example-android.html)
 
-[![](../Images/05c12af56a676966a7ad43f87133ad0d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IZV4gOqw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-wfBPaOry_No/W6j31Pmx6NI/AAAAAAAAB7o/2ud0L-1a73gqla4YdUkjwePIuNbYKX0lgCLcBGAs/s640/ver.png)
+[![](img/05c12af56a676966a7ad43f87133ad0d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IZV4gOqw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-wfBPaOry_No/W6j31Pmx6NI/AAAAAAAAB7o/2ud0L-1a73gqla4YdUkjwePIuNbYKX0lgCLcBGAs/s640/ver.png)
 
 [阅读更多...](https://www.skptricks.com/2018/09/react-native-vertical-scrollview-example-android.html)

@@ -14,7 +14,7 @@
 
 我很快编写了另一个 clojure 程序来将我的地图加载到 Neo4j DB 中。我为所有的程序、文件以及它们之间的关系创建了节点。一旦我将数据放入 Neo4j，我就可以开始编写查询了。我添加了标签来指示用户可以从菜单中调用哪些程序。
 
-[![Neo4j map](../Images/6149cecf0edde892079f9b8422ff4bad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z-QnxQbF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1fqumvsf7olcostspnnl.png)
+[![Neo4j map](img/6149cecf0edde892079f9b8422ff4bad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z-QnxQbF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1fqumvsf7olcostspnnl.png)
 
 因此，现在我可以编写一个 Cypher 查询来获取菜单项的所有可能的分支路径。客户可能会打电话说“我运行了这个程序，但这个报告是错误的”，这样我就可以很快确定是哪个程序写了有问题的文件(有时是一系列事件中的第三个或第四个)，这给了我一个更确定的故障诊断起点。例如，在上面的映射中，客户调用 grj rnl _ C-> program gr glup-> file GL det-> program grg lpr-> file GLDT。查看气泡图比通读 3 个程序的源代码来找出答案要容易得多。
 

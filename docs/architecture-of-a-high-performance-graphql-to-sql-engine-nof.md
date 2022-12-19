@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/hasurahq/architecture-of-a-high-performance-graphql-to-sql-engine-nof>
 
-[![](../Images/5bcbdf89b6a6874f576596e20825661b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j4u6QtDt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/architecture-of-a-high-performance-graphql-to-sql-server-58d9944b8a87/1-uq3C8eOtLNZuekJLlaMsYg.png)
+[![](img/5bcbdf89b6a6874f576596e20825661b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j4u6QtDt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/architecture-of-a-high-performance-graphql-to-sql-server-58d9944b8a87/1-uq3C8eOtLNZuekJLlaMsYg.png)
 
 Hasura 平台的数据微服务提供了一个 HTTP API，以权限安全的方式使用 GraphQL 或 JSON 查询 Postgres。
 

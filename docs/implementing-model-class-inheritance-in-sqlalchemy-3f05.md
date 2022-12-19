@@ -10,7 +10,7 @@ SQLAlchemy 是为 Python 编程语言设计的对象关系映射(ORM)。ORM 理�
 
 ### [T1】models . py](#modelspy)
 
-<figure>[![](../Images/e8431ae720302905993fec5f67cb8184.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vRE4EawA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A1E_1njdS7Fu4sQmMzhBikQ.png)
+<figure>[![](img/e8431ae720302905993fec5f67cb8184.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vRE4EawA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A1E_1njdS7Fu4sQmMzhBikQ.png)
 
 <figcaption>models . py</figcaption>
 
@@ -22,7 +22,7 @@ T6】</figure>
 
 ### __init__。巴拉圭
 
-<figure>[![](../Images/2d0f72f1901d372853affb8b7382c7e9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--t0WT8D7d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AMsBSLeUl8FY5n1s6nwuwtQ.png) 
+<figure>[![](img/2d0f72f1901d372853affb8b7382c7e9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--t0WT8D7d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AMsBSLeUl8FY5n1s6nwuwtQ.png) 
 
 <figcaption>【初始 __】。py</figcaption>
 

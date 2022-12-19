@@ -22,7 +22,7 @@ Youtube 将成为一个水平网站，但 Github 需要垂直。那是因为 Git
 
 Dev 非常需要一个幼稚的 Gambino 翻盖手机的时刻。
 
-[![Vertical Reading](../Images/8682c5b86c64318d4abc2b564fbf0a13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E24SKu8g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3lr6zrj1x0lll2l50b3o.png)
+[![Vertical Reading](img/8682c5b86c64318d4abc2b564fbf0a13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E24SKu8g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3lr6zrj1x0lll2l50b3o.png)
 
 # 一路走到这一步？
 
@@ -34,7 +34,7 @@ Dev 非常需要一个幼稚的 Gambino 翻盖手机的时刻。
 
 上面的搜索栏？
 
-[![search bar](../Images/9635e18a9008927f385a9d9b44e519b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5Np0ZLMd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/93y4xacynjhwp09bz9lx.png)
+[![search bar](img/9635e18a9008927f385a9d9b44e519b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5Np0ZLMd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/93y4xacynjhwp09bz9lx.png)
 
 是啊。不要再跟踪你了。
 
@@ -54,7 +54,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 那个“写文章”按钮和其他的？这很简单。
 
-[![Move it to above the info boxes](../Images/3e63d67ce775510fff44c89a69e550d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y2pNwvnb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nl1av8irnxtwqzr8xukx.png)
+[![Move it to above the info boxes](img/3e63d67ce775510fff44c89a69e550d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y2pNwvnb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nl1av8irnxtwqzr8xukx.png)
 
 把它放在`.primary-sticky-nav`里。它仍然可以跟随用户，所以你只需点击一下鼠标就可以发布关于`date.Now()`的新 CSS in JS 解决方案。
 
@@ -62,7 +62,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我想你知道。
 
-[![Kill it with fire](../Images/0637ee39076fe9376e0d1d7636a6ec2b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8LmHS3T_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nphm6ir6tmxqb0uzuxk5.png)
+[![Kill it with fire](img/0637ee39076fe9376e0d1d7636a6ec2b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8LmHS3T_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nphm6ir6tmxqb0uzuxk5.png)
 
 最起码不应该在主阅垂直公路。如果我们让它跟着我们，把它放在一边。中号就可以了。
 

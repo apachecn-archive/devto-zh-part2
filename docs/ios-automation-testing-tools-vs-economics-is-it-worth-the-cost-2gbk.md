@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/essentialdeveloper/ios-automation-testing-tools-vs-economics-is-it-worth-the-cost-2gbk>
 
-[![](../Images/b79d2b5c5a4c1c406397f5fe88bd63f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bi_aL-Zo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5b572e660e2e72bb933174b3/1532440198002/%3Fformat%3D1000w)
+[![](img/b79d2b5c5a4c1c406397f5fe88bd63f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bi_aL-Zo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5b572e660e2e72bb933174b3/1532440198002/%3Fformat%3D1000w)
 
 iOS 测试自动化工具在开发人员中可能是一个两极分化的话题，但今天我们将从一个不同的角度来看这个话题——业务方面。
 

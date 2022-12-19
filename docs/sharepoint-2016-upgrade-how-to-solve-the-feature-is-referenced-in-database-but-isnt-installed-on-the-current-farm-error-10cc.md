@@ -16,7 +16,7 @@
 
 安装更新并运行 SharePoint 产品和配置后，我收到以下错误:
 
-[![](../Images/a6b66b5d3a3c2d7650ee51936c9992db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4k8UyEHG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blogit.create.pt/wp-content/uploads/2018/09/SP2016_PSConfig_Error.jpg%3Fresize%3D621%252C536%26ssl%3D1)
+[![](img/a6b66b5d3a3c2d7650ee51936c9992db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4k8UyEHG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blogit.create.pt/wp-content/uploads/2018/09/SP2016_PSConfig_Error.jpg%3Fresize%3D621%252C536%26ssl%3D1)
 
 错误详细信息:
 
@@ -45,7 +45,7 @@ Microsoft 类型的异常。引发了 SharePoint . postsetupconfiguration . post
 
 确认存在升级问题的另一个症状是管理中心的升级状态页显示升级状态为失败:
 
-[![](../Images/cb8185ed455a94e60fea88e509ed7915.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--85FK6JQ2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blogit.create.pt/wp-content/uploads/2018/09/SP2016_Upgrade_Status_Error.jpg%3Fresize%3D696%252C206%26ssl%3D1)
+[![](img/cb8185ed455a94e60fea88e509ed7915.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--85FK6JQ2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blogit.create.pt/wp-content/uploads/2018/09/SP2016_Upgrade_Status_Error.jpg%3Fresize%3D696%252C206%26ssl%3D1)
 
 # 解
 

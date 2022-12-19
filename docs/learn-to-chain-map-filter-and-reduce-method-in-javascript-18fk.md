@@ -8,6 +8,6 @@
 
 [学习 Javascript 中的链式映射、过滤和归约方法](https://www.skptricks.com/2018/11/learn-to-chain-map-filter-and-reduce-in-javascript.html)
 
-[![](../Images/08148872640f8b811dbd19427d52930d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GhxvCRKv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-m098Uxk6aD8/W_GmkXCPQ5I/AAAAAAAACKA/QSET9tdeHcQXRiEEMCP4h5JnpMvOjBt9ACLcBGAs/s400/chain.png)
+[![](img/08148872640f8b811dbd19427d52930d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GhxvCRKv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-m098Uxk6aD8/W_GmkXCPQ5I/AAAAAAAACKA/QSET9tdeHcQXRiEEMCP4h5JnpMvOjBt9ACLcBGAs/s400/chain.png)
 
 [阅读更多...](https://www.skptricks.com/2018/11/learn-to-chain-map-filter-and-reduce-in-javascript.html)

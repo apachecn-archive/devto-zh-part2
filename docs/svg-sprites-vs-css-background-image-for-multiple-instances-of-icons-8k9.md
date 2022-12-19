@@ -40,7 +40,7 @@
 
 例如，在下面的[代码页](https://codepen.io/pens/)中,“查看”👁，“评论”💬和“爱”♥图标被用在每张“钢笔”卡片上。每页包含 12 张卡片。
 
-[![Screenshot of Codepen Explore page](../Images/91aca0864422da33e686eae33e62a302.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vNo2tJP0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pbg43cxgisy08326rv18.png)
+[![Screenshot of Codepen Explore page](img/91aca0864422da33e686eae33e62a302.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vNo2tJP0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pbg43cxgisy08326rv18.png)
 
 ### 用 CSS 背景图片
 

@@ -46,7 +46,7 @@ Together 是世界上少数几个能够理解如何利用开源赚钱的人之�
 
 当我看到这个的时候，我想，哇！
 
-[![alt text](../Images/284f66ce7232b78831adbbba1e47a765.png "Gitlab Migration")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iubyyMe1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6y73g2bd7nlbzbkp4fe6.png)
+[![alt text](img/284f66ce7232b78831adbbba1e47a765.png "Gitlab Migration")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iubyyMe1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6y73g2bd7nlbzbkp4fe6.png)
 
 让我澄清一些事情，我从 2013 年开始就是 Gitlab 的用户，那时我们已经建立了自己的 Gitlab 服务器，从那时起，我使用 Github 进行开源项目，或者如果我的一些客户要求我使用 Github。
 
@@ -92,6 +92,6 @@ Virtual Box 和 MySQL 比以往任何时候都工作得更好。
 
 我将把这个伟大的成功留给你们，开发者，开发者，开发者
 
-[![Developers Developers Developers](../Images/1d43d17409f9b57ef7f5fffadd96a74d.png)T2】](http://www.youtube.com/watch?v=Vhh_GeBPOhs)
+[![Developers Developers Developers](img/1d43d17409f9b57ef7f5fffadd96a74d.png)T2】](http://www.youtube.com/watch?v=Vhh_GeBPOhs)
 
 最初发布于 [42mate 博客](https://blog.42mate.com/some-thoughts-on-github-acquisition-by-microsoft/)

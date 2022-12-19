@@ -16,7 +16,7 @@
 
 我从坐/站的老鼠洞开始，但我最终节省了我辛苦赚来的钱，用胶合板制作了一个自制的站立式办公桌。那张桌子我用了 18 个月左右，最近才升级成自己动手做的宜家桌子，看起来很不错，而且不会像坐式/立式桌子那样让我倾家荡产。
 
-[![Made from Ikea parts totaling < $200](../Images/b6ae54d7bf885840fcc5dbdb18016252.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fdGZJiu2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n7o43jk81lv46xdg0epi.jpg)
+[![Made from Ikea parts totaling < $200](img/b6ae54d7bf885840fcc5dbdb18016252.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fdGZJiu2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n7o43jk81lv46xdg0epi.jpg)
 
 我不能从个人经历来说，但我读过&见过不少人买了一张别致的坐式/立式办公桌，结果却一直坐着。
 
@@ -30,7 +30,7 @@
 
 如果你的桌子太短(我的第二张桌子太短，直到我重新调整了它)，当你站在那里时，你将不得不弯腰驼背。这是一种快速获得颈部或背部损伤的方法。
 
-[![The 3rd angle is good, but the drawing is still bad](../Images/f1beeab6c21b261490ad11b2423e0b59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T8wgtSYI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xbu07yrbxq2au8idhxss.jpg)
+[![The 3rd angle is good, but the drawing is still bad](img/f1beeab6c21b261490ad11b2423e0b59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T8wgtSYI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xbu07yrbxq2au8idhxss.jpg)
 
 我还读到过，你的显示器的首选位置是在眼睛的高度，这导致许多人不知何故把它们支撑得比键盘高，但我有点低头看我的显示器，这从来没有困扰过我。YMMV。
 
@@ -56,7 +56,7 @@
 
 所以，除了运动鞋，我建议买个抗疲劳垫。我从亚马逊上买了这个垫子，我对它很满意。从下图可以看出它有多轻松。
 
-[![](../Images/88579721962381cc82a82545cc5a9d1f.png)T2】](http://www.amazon.com/exec/obidos/ASIN/B003BYRDKM/ref=nosim&tag=jerodsanto-20)
+[![](img/88579721962381cc82a82545cc5a9d1f.png)T2】](http://www.amazon.com/exec/obidos/ASIN/B003BYRDKM/ref=nosim&tag=jerodsanto-20)
 
 我喜欢光着脚或穿着拖鞋工作，所以我在垫子和运动鞋之间来回切换。
 

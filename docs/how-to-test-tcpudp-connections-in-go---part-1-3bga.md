@@ -262,6 +262,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 太棒了，我们有一个工作的 TCP 服务器！我们可以确信将返回我们的输出，不管实现有多简单。如果你是网络编程或测试的新手，希望你能从这篇教程中得到一些启发。正如我前面提到的，在本系列的下一期中，我将考虑添加一个`UDPServer`并更新测试以有效地覆盖两种网络协议。感谢阅读，如果你喜欢的内容，请考虑分享！
 
-[![image](../Images/09df05446019ff1c9487d2cd292d20a0.png)T2】](https://i.giphy.com/media/XreQmk7ETCak0/giphy.gif)
+[![image](img/09df05446019ff1c9487d2cd292d20a0.png)T2】](https://i.giphy.com/media/XreQmk7ETCak0/giphy.gif)
 
 这个例子的源代码可以在我的 GitHub 上找到:[github.com/williamhgough/devtheweb-source](https://github.com/williamhgough/devtheweb-source/tree/master/2018/July/net-testing)

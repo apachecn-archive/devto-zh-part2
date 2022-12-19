@@ -12,7 +12,7 @@
 
 计算引擎=> Images => [+]创建图像
 
-[![alt text](../Images/d68603af8610187e13537dd9827c3d6f.png "Create Image")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AP5ja7l5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m682lm7t0p3i4gyn2gvr.jpg)
+[![alt text](img/d68603af8610187e13537dd9827c3d6f.png "Create Image")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AP5ja7l5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m682lm7t0p3i4gyn2gvr.jpg)
 
 但是，如果您更喜欢控制台，请使用以下命令:
 
@@ -28,7 +28,7 @@ gcloud compute images export --destination-uri gs://bucket-name/imagename.tar.gz
 
 在这之后，我们将在我们的云存储中找到 tar.gz 文件的图像。现在我们必须让其他用户也能使用它。为了简单起见，我们将它公之于众。
 
-[![alt text](../Images/bd2836d4429a2e07b2a3fa090869cae0.png "Manage rights")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cTcYcYwe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u5ysbbt7iryvqkzje4sr.jpg)
+[![alt text](img/bd2836d4429a2e07b2a3fa090869cae0.png "Manage rights")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cTcYcYwe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u5ysbbt7iryvqkzje4sr.jpg)
 
 这里的技巧是，添加一个名为 allUsers 的用户，并授予它读取权限。现在它可以免费下载。
 

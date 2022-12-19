@@ -25,7 +25,7 @@
 
 有人建议我用搅拌机。所以我创造了这个帅气的 boi:
 
-[![Blender truck](../Images/52e94d96a506f89f3736d2759ad3df00.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--M7A2oW3w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h2fx2qk0zud1tj22e7db.PNG) 
+[![Blender truck](img/52e94d96a506f89f3736d2759ad3df00.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--M7A2oW3w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h2fx2qk0zud1tj22e7db.PNG) 
 
 <figure>
 
@@ -35,7 +35,7 @@
 
 我导出了 collada 并使用 [CubicVR.js](https://github.com/cjcliffe/CubicVR.js/) 在 WebGL 中渲染我的模型。
 
-[![CubicVR.js](../Images/b7cb37f74a1df418d87d7b6635516f08.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ydFHlFj7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5w9uzmer3mqvjgemnrx8.PNG)
+[![CubicVR.js](img/b7cb37f74a1df418d87d7b6635516f08.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ydFHlFj7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5w9uzmer3mqvjgemnrx8.PNG)
 
 <figure>
 

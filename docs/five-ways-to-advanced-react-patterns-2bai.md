@@ -4,7 +4,7 @@
 
 *我在*[*Frontend Masters*](https://medium.com/u/1b199ed2dfd)*观看*[*Kent c . Dodds*](https://medium.com/u/db72389e89d8)*【高级反应模式】课程后所学到的东西。*
 
-<figure>[![](../Images/59708ac76d421b4e2bed1284cec8c121.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jdm3DIdF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AqatotphqCyOKDuGbDl4Qwg.jpeg) 
+<figure>[![](img/59708ac76d421b4e2bed1284cec8c121.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jdm3DIdF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AqatotphqCyOKDuGbDl4Qwg.jpeg) 
 
 <figcaption>照片由 rawpixel.com 发自 Pexels</figcaption>
 
@@ -36,7 +36,7 @@ React 编程模式用于简化大型 React 应用程序，并使您的团队体�
 
 [https://medium . com/media/f 039 ce a09 c 73 e 99 b 79 a 33 ed 9 CB 95d 168/href](https://medium.com/media/f039cea09c73e99b79a33ed9cb95d168/href)
 
-<figure>[![](../Images/ee30c4dd51c6a5f718451702595be647.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fC854Wqu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AQ2GT9jT73stIP74NZRamwQ.png) 
+<figure>[![](img/ee30c4dd51c6a5f718451702595be647.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fC854Wqu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AQ2GT9jT73stIP74NZRamwQ.png) 
 
 <figcaption>复合元件举例。</figcaption>
 
@@ -44,7 +44,7 @@ React 编程模式用于简化大型 React 应用程序，并使您的团队体�
 
 如果需要将父容器中的内容共享给其子容器，可以使用 React。儿童提供了处理这些问题的工具
 
-<figure>[![](../Images/db8a94420a37475bd4698c5dece2feb2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0mmccbbC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Afmah_c-NhYabdzVTK0DG4g.png) 
+<figure>[![](img/db8a94420a37475bd4698c5dece2feb2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0mmccbbC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Afmah_c-NhYabdzVTK0DG4g.png) 
 
 <figcaption>从父组件共享道具。</figcaption>
 
@@ -56,13 +56,13 @@ React 编程模式用于简化大型 React 应用程序，并使您的团队体�
 
 使用上下文 API 的第一个元素称为 provider，Provider 元素是共享相同状态的元素的包装器父元素。然后是消费者，提供者内部的每个组件都可以使用它从提供者那里获取或检索值。
 
-<figure>[![](../Images/4303ba3e4e2dedfb6d7a06364da27f3c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Xi0XoJ9S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A0NHlhyfcpTAycVx8wlAqFg.png) 
+<figure>[![](img/4303ba3e4e2dedfb6d7a06364da27f3c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Xi0XoJ9S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A0NHlhyfcpTAycVx8wlAqFg.png) 
 
 <figcaption>如何用 React 创建上下文元素。</figcaption>
 
 </figure>
 
-<figure>[![](../Images/73605cd2663af4a66c1a058ccb4cda3f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9kOMZzIo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AFlBUvuRhGLeGMDMyE1L-ng.png) 
+<figure>[![](img/73605cd2663af4a66c1a058ccb4cda3f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9kOMZzIo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AFlBUvuRhGLeGMDMyE1L-ng.png) 
 
 <figcaption>这是每个消费者需要使用的父元素的父状态。</figcaption>
 
@@ -70,9 +70,9 @@ React 编程模式用于简化大型 React 应用程序，并使您的团队体�
 
 > 对于上面的代码，这样设置 object 不是一个最佳实践，因为每次调用 render 方法都会创建一个新的引用和新的对象。所以人们说要把这些东西放在组件状态中，甚至是回调中，以避免每次不必要的重新渲染。
 
-[![](../Images/235bda419cdc2c8d2bf02029d0953552.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--15OMBtOi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AVZzBHA18B3-HWt3ATm63mw.png)
+[![](img/235bda419cdc2c8d2bf02029d0953552.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--15OMBtOi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AVZzBHA18B3-HWt3ATm63mw.png)
 
-<figure>[![](../Images/af11c50453320161975015a0c4d05570.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--49ixfvTw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A-l5GOXOQH8f6xskSyHZyvg.png) 
+<figure>[![](img/af11c50453320161975015a0c4d05570.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--49ixfvTw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A-l5GOXOQH8f6xskSyHZyvg.png) 
 
 <figcaption>这就是如何使用消费和检索父状态。</figcaption>
 
@@ -92,17 +92,17 @@ React 编程模式用于简化大型 React 应用程序，并使您的团队体�
 
 我说的道具是指你的组件输入。让我在下一段代码中展示一个例子。
 
-[![](../Images/f593413b26112db6819c1fe3e5b61469.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5r2PD7Lu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AtLfVv8PJbyUK4xbPUP3Xxg.png)
+[![](img/f593413b26112db6819c1fe3e5b61469.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5r2PD7Lu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AtLfVv8PJbyUK4xbPUP3Xxg.png)
 
 看组件的末尾。它是一个子组件，但我们没有把它当作{this.props.children}来使用，而是把它当作一个函数来使用，并向它传递我们需要的参数，以使我们组件的用户为我们返回他需要的组件。看看下一段代码如何使用这个组件。
 
-[![](../Images/23622e44c9dd92b2ee3a3dc9ee4013e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ARi4tNv7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A46mK7NGtKwcEr_PaUAKgew.png)
+[![](img/23622e44c9dd92b2ee3a3dc9ee4013e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ARi4tNv7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A46mK7NGtKwcEr_PaUAKgew.png)
 
 不错吧？自己试试，把你的一个道具换成一个功能，把你需要移动的任何东西都传给它。这个技巧允许你创建共享的东西，甚至不需要使用上下文 API。
 
 在 [Frontend Masters](https://medium.com/u/1b199ed2dfd) 的 [Kent C. Dodds](https://medium.com/u/db72389e89d8) 的“高级反应模式”课程中，他给出了一些在使用渲染道具时使用的极好的技巧。我还推荐观看 [egghead.io](https://egghead.io/) 中的“[高级 React 组件模式](https://egghead.io/courses/advanced-react-component-patterns)课程。
 
-<figure>[![](../Images/70f2ac525c065b0068e7cbcf873af22f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sPddwiLj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AuC4aQiIt7QtOs9QT) 
+<figure>[![](img/70f2ac525c065b0068e7cbcf873af22f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sPddwiLj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AuC4aQiIt7QtOs9QT) 
 
 <figcaption>照片由[鲁德梅乌拉·费尔南德斯](https://unsplash.com/@ludemeula?utm_source=medium&utm_medium=referral)上[下](https://unsplash.com?utm_source=medium&utm_medium=referral)</figcaption>
 
@@ -118,9 +118,9 @@ React 编程模式用于简化大型 React 应用程序，并使您的团队体�
 
 [Kent C. Dodds](https://medium.com/u/db72389e89d8) 也举了一个很好的例子，比如当用户点击某个东西超过四次，我需要给他一个消息，阻止他打字，如果我不是写组件的人，这就不可能发生。
 
-[![](../Images/29a2642c61ce445e3195244969a14534.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pt7oqToe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ASh3Tw5IydO9u7INNJYlNIw.png)
+[![](img/29a2642c61ce445e3195244969a14534.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pt7oqToe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ASh3Tw5IydO9u7INNJYlNIw.png)
 
-[![](../Images/eb5587a6dc837559ac6930759892bd7c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6Wkh5mYK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2At2ysMbK_K4l7q_VYXy1seA.png)
+[![](img/eb5587a6dc837559ac6930759892bd7c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6Wkh5mYK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2At2ysMbK_K4l7q_VYXy1seA.png)
 
 对于我的选项卡组件，我已经更改了活动选项卡现在从道具中获取，并且我不是控制它的人。我触发了一个事件，用户点击了我的组件，你自己改变了活动标签。
 
@@ -132,19 +132,19 @@ React 编程模式用于简化大型 React 应用程序，并使您的团队体�
 
 这种模式就像用你的道具控制一个组件一样，但是这次组件的所有者会把旧的状态和变化发送给你，并让你决定改变内部状态。
 
-<figure>[![](../Images/80b4ff3b188989bb82b7fa65c017b9bb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--boVnFd4l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AuFhpzHRxE-jbgL1W1yQkog.png) 
+<figure>[![](img/80b4ff3b188989bb82b7fa65c017b9bb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--boVnFd4l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AuFhpzHRxE-jbgL1W1yQkog.png) 
 
 <figcaption>[状态减速器示例](https://codesandbox.io/s/w7kv2080vw)。</figcaption>
 
 </figure>
 
-<figure>[![](../Images/7cc70eafdb54ce37df91194a910d5a50.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--B1803CgD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ADVC1x3Gq5tMS4tu2m4E4YA.png) 
+<figure>[![](img/7cc70eafdb54ce37df91194a910d5a50.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--B1803CgD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ADVC1x3Gq5tMS4tu2m4E4YA.png) 
 
 <figcaption>传递状态减速器给构件。</figcaption>
 
 </figure>
 
-[![](../Images/63c9005577d0b614387cb2446d582be4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XyEWksyq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AAqHvOBNUS-x9qtUeJYie-Q.png)
+[![](img/63c9005577d0b614387cb2446d582be4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XyEWksyq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AAqHvOBNUS-x9qtUeJYie-Q.png)
 
 用状态缩减器返回的值触发状态的最终代码。你可以说这有点像 redux 中使用的 reducers。
 
@@ -154,7 +154,7 @@ React 编程模式用于简化大型 React 应用程序，并使您的团队体�
 
 此外，我已经将它与 [Material-UI](https://medium.com/u/9d99f1b2974b) 一起使用，将类对象传递给你的组件，或者扩展它们的应用程序组件的样式。这种用 [Material-UI](https://medium.com/u/9d99f1b2974b) 编写应用组件的方式叫做 withStyle HOC。
 
-<figure>[![](../Images/7c3b9dc60933c9511c1138c50845c616.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--V1lbw8-O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ADFUZawHb_VWkrAV6vm4nzQ.png) 
+<figure>[![](img/7c3b9dc60933c9511c1138c50845c616.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--V1lbw8-O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ADFUZawHb_VWkrAV6vm4nzQ.png) 
 
 <figcaption>侧边栏示例为显示用户名或登录按钮</figcaption>
 

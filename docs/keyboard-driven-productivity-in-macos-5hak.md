@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/trueneu/keyboard-driven-productivity-in-macos-5hak>
 
-[![alt text](../Images/a640d0568266a45509d6e470acc97ef6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NqB-lr8N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ospp8ymq4hwaifnt0tcn.jpeg)
+[![alt text](img/a640d0568266a45509d6e470acc97ef6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NqB-lr8N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ospp8ymq4hwaifnt0tcn.jpeg)
 
 图片:Kinesis Advantage2 键盘，[https://www.kinesis-ergo.com/shop/advantage2/](https://www.kinesis-ergo.com/shop/advantage2/)。Kinesis 保留所有权利，这是他们的商标，等等。看起来挺酷的，但是我对⇧⌥⌘快捷键的人体工程学有些怀疑
 

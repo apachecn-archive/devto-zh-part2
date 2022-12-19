@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/joelnet/should-i-break-down-my-code-if-itll-only-be-used-once-3hm8>
 
-[![Camera Broken Down](../Images/3b0372a6d9a1d65e3c82c9e25881304f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t3xTmNag--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n9364wt1qaj1cvphup2v.png)
+[![Camera Broken Down](img/3b0372a6d9a1d65e3c82c9e25881304f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t3xTmNag--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n9364wt1qaj1cvphup2v.png)
 
 如果代码只使用一次，我应该分解它吗？这是我经常听到的问题。
 
@@ -54,6 +54,6 @@ TL；dr 的回答是**总是分解你的代码**。
 
 在推特上关注我
 
-[![Cheers!](../Images/0e0809a227b4e8d55ae5bc09d2845629.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T_va1NDK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/np3h0zqssbzq02869c9u.jpg)
+[![Cheers!](img/0e0809a227b4e8d55ae5bc09d2845629.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T_va1NDK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/np3h0zqssbzq02869c9u.jpg)
 
 亚历山大·安德鲁斯的相机照片

@@ -10,13 +10,13 @@
 
 对于数据模型，使用字典中的构造函数是非常常见的[String: Any]。有像 *SwiftyJSON* 这样的库可以方便字典的使用，在我们的例子中，我们选择使用“guard let”以安全的方式访问值。
 
-[![guard let](../Images/eddb5e31e0c3fd341eb30ccb916ef2fc.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/mobile.png)
+[![guard let](img/eddb5e31e0c3fd341eb30ccb916ef2fc.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/mobile.png)
 
 ### 储存库
 
 存储库层负责封装 REST 客户机的调用。在下面的代码中，Alamofire 被用作 REST 客户端。这个库被广泛用于抽象和简化对 web 服务的调用。Alamofire 内部使用苹果的 NSURLSession api。
 
-[![Alamofire](../Images/1d9b4661de64e5eb6a11f2da2068bb31.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/2.png)
+[![Alamofire](img/1d9b4661de64e5eb6a11f2da2068bb31.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/2.png)
 
 ## 用 Codable 和 Moya 改进剩余层
 
@@ -26,15 +26,15 @@
 
 Swift 4 的创新之一是引入了 Codable。可编码协议是现有的*可编码*和*可解码协议*的组合的别名
 
-[![Encodable and Decodable protocols](../Images/28c031b8f4f7d227607ec9fff54cf9bd.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/3.png)
+[![Encodable and Decodable protocols](img/28c031b8f4f7d227607ec9fff54cf9bd.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/3.png)
 
 该协议简化了数据的编码和解码，您所要做的就是在我们的数据模型中实现它。默认情况下，本机类型和可编码类型的集合已经实现，在创建自己的类型的情况下，它们还应该实现协议。在下面的代码中，我们看到了如何使产品模型实现可编码。
 
-[![Codable](../Images/1f32da9591486944194e695bc137165f.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/4.png)
+[![Codable](img/1f32da9591486944194e695bc137165f.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/4.png)
 
 *可编码的*允许我们定义键值，在这些键值中，它将被枚举的*编码键*编码或解码。该列表必须包括该结构的所有特性。如果您在枚举的 CodingKeys 中省略了模型的任何属性，那么在编码或解码该模型时将不会考虑它。
 
-通过使用代码我们保存了初始化器 [![initializer](../Images/4a6e50a185bf02c1bc9e57afe4610c66.png)](https://apiumhub.com/wp-content/uploads/2018/07/5.png)
+通过使用代码我们保存了初始化器 [![initializer](img/4a6e50a185bf02c1bc9e57afe4610c66.png)](https://apiumhub.com/wp-content/uploads/2018/07/5.png)
 
 ### 储存库使用莫亚
 
@@ -47,7 +47,7 @@ Moya 是一个库，它作为数据层的抽象，在内部使用 *Alamofire* �
 
 Moya 有一个名为 MoyaRx 的反应式扩展，它允许将请求的响应封装在可观察的 Rx 中。在下面的代码中，我们看到了 MoyaRx 在前面的存储库实现中是如何使用的。
 
-[![MoyaRx](../Images/fe46fed13f31a8277fbc0e820ade3a78.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/6.png)
+[![MoyaRx](img/fe46fed13f31a8277fbc0e820ade3a78.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/6.png)
 
 ## 结论:数据层有 MoyaRx 和 Codable
 

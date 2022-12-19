@@ -18,7 +18,7 @@
 
 让我们看一个插图。你的第一反应很可能是“嗯，这看起来没那么复杂”。事实是，它真的不是。到目前为止，Redux 最难的是开始。
 
-[![Redux flow illustrated](../Images/abe03934ac60a30e8a1ed183f66c4372.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zhFA_Xgb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://simme.dev/images/redux-flow.png)
+[![Redux flow illustrated](img/abe03934ac60a30e8a1ed183f66c4372.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zhFA_Xgb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://simme.dimg/redux-flow.png)
 
 ### 商店
 
@@ -49,7 +49,7 @@
 
 saga 由一个或多个生成器函数组成，这些函数对某些动作做出反应，从而执行异步工作或产生副作用。我喜欢把它们想象成后台工作人员，可以卸载传统上由每个控制器和/或服务执行的异步工作。
 
-[![Redux flow illustrated](../Images/7798d463c4d0921a060f7e6737926386.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---HjjM8sv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://simme.dev/images/redux-saga-flow.png)
+[![Redux flow illustrated](img/7798d463c4d0921a060f7e6737926386.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---HjjM8sv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://simme.dimg/redux-saga-flow.png)
 
 ### 发电机功能
 

@@ -6,7 +6,7 @@
 
 这是 4 部分系列的第 1 部分。在第 1 部分中，我们将首先在 TakeShape 中创建一个新项目，建模一些基本的内容类型，然后填充它们。在第二部分中，我们将使用 TakeShape 的静态站点生成器为最终的网站创建 HTML 和 CSS。在第 3 部分(即将推出)中，我们将把静态站点部署到 Netlify。在第 4 部分(即将推出)中，您将进一步扩展您的技能，并学习如何通过 Gatsby.js 使用 TakeShape
 
-[![A screenshot of the designer portfolio site you’ll be building.](../Images/cf1a4e47aa5a81eb16a2b68ae7fbf2b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EBfMITIe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4g8kx0b0z5qt62u86cw5.png)
+[![A screenshot of the designer portfolio site you’ll be building.](img/cf1a4e47aa5a81eb16a2b68ae7fbf2b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EBfMITIe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4g8kx0b0z5qt62u86cw5.png)
 
 每个网页设计师都需要有一个伟大的投资组合。虽然像 Squarespace 这样的服务使得使用千篇一律的模板建立网站变得很容易，但结果看起来都是一样的。然而，当你以设计网站为生时，你的作品集不应该只是简单地将你的项目分类；它本身应该展示你的手艺。
 
@@ -22,7 +22,7 @@
 
 *注意如果你想跳到第 2 部分，开始构建静态网站，你可以选择“形状文件夹”模板。我们将继续从空白项目开始，这样您就可以看到它是如何构建的。*
 
-[![TakeShape Create Project Screen](../Images/6ff9fe0b4ee1e803d431521cfdc53463.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X2MJygDf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0vup8dr24nnb83qzbsaf.png)
+[![TakeShape Create Project Screen](img/6ff9fe0b4ee1e803d431521cfdc53463.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X2MJygDf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0vup8dr24nnb83qzbsaf.png)
 
 ### 创建内容类型
 
@@ -47,7 +47,7 @@
 *   **资产**:在*标题*字段输入“封面图片”这是一个可选字段，它将在列表中和项目页面上直观地表示您的项目。
 *   **区块画布**:在*标题*字段输入“描述”这是一个可选字段，允许您用富文本和格式编写项目描述。
 
-[![Filled in TakeShape Content Type](../Images/6ee46ba4175992be8888d86e16c34d4c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u4vBiJQ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ps3e16oly7dtaupg7l3r.png)
+[![Filled in TakeShape Content Type](img/6ee46ba4175992be8888d86e16c34d4c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u4vBiJQ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ps3e16oly7dtaupg7l3r.png)
 
 添加完这些小部件后，单击**创建内容类型**按钮保存新类型。保存后，您将被带到(空的)“项目”页面。
 
@@ -84,7 +84,7 @@
 
 点击圆形加号 **[+]** 按钮，可创建新的重复条目。重复条目可以像任何其他字段一样进行编辑，社交网络图标字段等资产呈现与其他任何地方相同的界面。repeater 元素的一个特殊特性是它们可以重新排列、展开和折叠。在 repeater 字段的顶部，您可以通过单击来展开或折叠所有条目。摆弄一下复读机，感受一下；这是使 TakeShape 中的建模内容如此强大的重要原因。
 
-[![Filling in About Page Content Entry In TakeShape](../Images/5c05446f29a2f273f106aa1239ac7038.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5TSy9qF5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e5v5xd1dxnoj0jn4dk8x.png)
+[![Filling in About Page Content Entry In TakeShape](img/5c05446f29a2f273f106aa1239ac7038.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5TSy9qF5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e5v5xd1dxnoj0jn4dk8x.png)
 
 编辑完“关于”页面后，点击绿色的**保存**按钮。由于“关于”页面是一个单一的内容类型，在保存后，您不会被带回到任何类型的列表。您将停留在相同的内容类型上，因为它是同类中唯一的一种！
 
@@ -114,7 +114,7 @@
 *   将*允许的内容类型*设置为“客户端”
 *   将*反转名称*设置为“项目”
 
-[![Edit Project Content Type Client in TakeShape](../Images/3d2bd275cc635186a9781753f8912c1c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mWX-aypD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jrp8feqq3k3kc7hmkamv.png)
+[![Edit Project Content Type Client in TakeShape](img/3d2bd275cc635186a9781753f8912c1c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mWX-aypD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jrp8feqq3k3kc7hmkamv.png)
 
 点击绿色的**更新内容类型**按钮。
 
@@ -128,9 +128,9 @@
 
 现在您已经对内容建模并创建了一些条目，您可以看到 TakeShape 已经为您自动生成了 API。从左侧栏打开您的“项目”页面，并从列表中选择任何项目。进入内容编辑器后，单击右边工具条中标有 **View in API Explorer** 的按钮来查看 API 查询。“API Explorer”窗口打开后，点击**播放**按钮，查看这段内容的查询结果。您也可以随时从侧边栏顶部的下拉导航菜单中选择“API Explorer”。
 
-[![TakeShape View In API Explorer Button in Content Entry Sidebar](../Images/957981747194a11d1a6fa583f3b363f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jEqpmMV9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6sgyfvnm7zrvwmc9mbr1.png)
+[![TakeShape View In API Explorer Button in Content Entry Sidebar](img/957981747194a11d1a6fa583f3b363f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jEqpmMV9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6sgyfvnm7zrvwmc9mbr1.png)
 
-[![TakeShape API Explorer Query and JSON Result](../Images/a263bf2fb91e4eed41e072a60a73fcbc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0NWv5yc9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lv2s5ltashm2rhpidhvb.png)
+[![TakeShape API Explorer Query and JSON Result](img/a263bf2fb91e4eed41e072a60a73fcbc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0NWv5yc9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lv2s5ltashm2rhpidhvb.png)
 
 ### 创建静态站点
 

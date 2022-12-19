@@ -8,11 +8,11 @@
 
 VS 代码在左栏有一个很好的调试器。点击调试器，然后你会看到一个选项，你可以点击它询问你想要什么样的配置。
 
-[![debug-1](../Images/0966c0697e4031d2964f594f5dcf590c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JWzhgJBZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/by28skh1h638gug88qq9.png)
+[![debug-1](img/0966c0697e4031d2964f594f5dcf590c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JWzhgJBZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/by28skh1h638gug88qq9.png)
 
 一旦选择 Node.js，它将显示一个具有几个属性的配置。
 
-[![debug-2](../Images/da1f0587a4cc187c4f4a695dd9661a8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TNbg1c3U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0ayx6adc5zlv6lyb3jox.png)
+[![debug-2](img/da1f0587a4cc187c4f4a695dd9661a8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TNbg1c3U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0ayx6adc5zlv6lyb3jox.png)
 
 我们直接关心的最后一个属性，`program`。在这里，它声明将在我们当前的工作空间中启动一个名为`index.js`的程序。让我们写一个节点，看看它能做什么。
 
@@ -27,11 +27,11 @@ for (let i = 0; i < avengers.length; i++) {
 
 下面是一些我们可以用作`index.js`基础的代码。在您将代码保存到工作区的`index.js`文件中之后。您可以通过单击行号左侧的横栏，在第 5 行放置一个断点。
 
-[![debug-3](../Images/c0151cb5523296f32a7cd3a994e9e262.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fnqf-cFi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k67j11vh0me47c17jhiq.png)
+[![debug-3](img/c0151cb5523296f32a7cd3a994e9e262.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fnqf-cFi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k67j11vh0me47c17jhiq.png)
 
 然后，如果你回到调试器，点击播放按钮，它将运行程序，并在那一行暂停程序执行。
 
-[![debug-4](../Images/6d9b9f17b95485a22a349ca2ca1ef1d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--szQ736A6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1bs82zu8aieu6d3edv2c.png)
+[![debug-4](img/6d9b9f17b95485a22a349ca2ca1ef1d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--szQ736A6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1bs82zu8aieu6d3edv2c.png)
 
 在左侧，您可以看到变量及其在当前范围内的值，`theHero: "Iron Man"`。还有许多其他的作用域，您可以深入研究并检查变量和特定的执行时间。
 
@@ -62,23 +62,23 @@ app.listen(PORT, () => console.log(`Up and running ${PORT}`));
 
 接下来，打开`.vscode/launch.json`。然后你会看到蓝色的`Add Configuration`按钮。单击后，系统会提示您选择一系列配置。在这种情况下，我们选择第一个 Node.js 附加选项。
 
-[![debug-6](../Images/e20951b1a4ec1d726c881e250be06c0d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9qNvCHbe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e3eos9niuo8vblzycobx.png)
+[![debug-6](img/e20951b1a4ec1d726c881e250be06c0d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9qNvCHbe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e3eos9niuo8vblzycobx.png)
 
 然后，该配置将被添加到您的配置数组中，供您在调试器中使用。
 
 接下来，运行带有`--inspect`标志的节点。
 
-[![debug-8](../Images/d9c3ce7b09b236afe8dc68121e360032.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9wcAq0fA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ztrkvy28unymtn3ferpb.png)
+[![debug-8](img/d9c3ce7b09b236afe8dc68121e360032.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9wcAq0fA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ztrkvy28unymtn3ferpb.png)
 
 然后你会看到 Node 启动脚本，告诉你 Node 调试器正在监听端口`9229`和一个 Chrome dev tools URL，然后你的应用输出。该端口与您的连接配置正在寻找的端口相同。
 
 接下来，转到您的`index.js`脚本，在发送响应之前，在`app.get`调用中放置一个断点。
 
-[![debug-9](../Images/fa9a6b5366aafd2e022fe1dc5f339a06.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aGo5akAc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/24k98ihy4hdwrw1w68e8.png)
+[![debug-9](img/fa9a6b5366aafd2e022fe1dc5f339a06.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aGo5akAc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/24k98ihy4hdwrw1w68e8.png)
 
 打开你的 VS 代码调试器，按 play，你应该会看到一些控件出现在 VS 代码的顶部。现在我们需要导航到这条路线来触发代码和调试器，打开 Chrome 并点击`localhost:5000`。这应该会让您回到 VS 代码调试器，在这里您可以查看请求范围内的变量和信息。
 
-[![debug-10](../Images/67c222f71f7819590ae63685a00e5d3f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SmHAkJTV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k6gy8z3qf42bfa4bujwq.png)
+[![debug-10](img/67c222f71f7819590ae63685a00e5d3f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SmHAkJTV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k6gy8z3qf42bfa4bujwq.png)
 
 就是这样！
 

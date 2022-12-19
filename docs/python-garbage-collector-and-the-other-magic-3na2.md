@@ -217,7 +217,7 @@ You've deleted me!!!
 但是为什么不在原代码中调用呢？
 让我们来看看对象的内存布局:
 
-[![](../Images/d6d019543793b4332b0e4ac353a1908d.png "Memory layout")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hd7HR-z3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/q4e6a4ifxip0j0h99oyj.jpeg)
+[![](img/d6d019543793b4332b0e4ac353a1908d.png "Memory layout")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hd7HR-z3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/q4e6a4ifxip0j0h99oyj.jpeg)
 
 正如你看到的，我们有一个对栈中对象的引用(Ref #1)和另一个内部引用(Ref #2)。
 删除 Ref #1 后，我们在堆栈中没有其他引用，垃圾收集器应该调用`__del__`方法，尽管有内部引用。

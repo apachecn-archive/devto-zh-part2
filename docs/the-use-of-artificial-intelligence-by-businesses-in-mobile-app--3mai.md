@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/harniloza/the-use-of-artificial-intelligence-by-businesses-in-mobile-app--3mai>
 
-[![artificial intelligence](../Images/813f2180cad056b4e7acfa64e73a13ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GlztQwbC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1080/0%2AZLE9GGSpc-TVzokT.jpg)
+[![artificial intelligence](img/813f2180cad056b4e7acfa64e73a13ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GlztQwbC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1080/0%2AZLE9GGSpc-TVzokT.jpg)
 
 每个人都在谈论[人工智能](http://ceoworld.biz/2018/01/31/10-pros-and-cons-of-artificial-intelligence-for-mobile-app-development/)如何彻底改变日常生活的各个领域。当然，公司不能落后，所以他们中的许多人已经开始投资人工智能来发展他们的业务。
 

@@ -38,7 +38,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这里的秘密是 Arduino 是建立在预先存在的 [AVR 工具链](http://www.nongnu.org/avr-libc/)之上的。Arduino 使用 avr-gcc 编译器和引擎盖下的 AVRDude 编译上传到开发板。你可以自己去文件- >偏好设置，选择“显示详细输出”选项。
 
-[![Show verbose output during [x] compilation [x] upload](../Images/4acd5b8acc823cd952a8537481de8d85.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---XXRLnzH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://christopherjmcclellan.files.wordpress.com/2018/02/screen-shot-2018-02-15-at-7-53-04-pm.png)
+[![Show verbose output during [x] compilation [x] upload](img/4acd5b8acc823cd952a8537481de8d85.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---XXRLnzH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://christopherjmcclellan.files.wordpress.com/2018/02/screen-shot-2018-02-15-at-7-53-04-pm.png)
 
 Arduino 将工具链安装在它的应用程序目录中，但是我发现单独安装工具很方便。如果你运行的是 Windows，工具链可以通过 [WinAVR](https://sourceforge.net/projects/winavr/) 获得。如果你运行的是*nix 系统，就去看看我创建的 [AVR docker 镜像](https://github.com/rubberduck203/avr)。它列出了您需要的不同 apt 包，包括 CppUTest 测试框架。
 
@@ -71,13 +71,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 无论如何，这是一个相当冗长的方式，为我们那天晚上在研讨会上做的事情提供一些背景。我克隆了一个模板的新副本，并向小组介绍了形。接下来我给了他们游戏规则。我们会一起编武士道。坐在键盘前的人会按小组告诉他们的方式打字。那个人不允许思考。如果他们有一个想法，他们必须把键盘给别人，并指导那个人下一步该打什么。当我们完成后，我们会把它上传到一个 Arduino 上，这个 Arduino 连接着一排 8 个 led。
 
-[![8 LED Bank](../Images/75edf326cffbfd73c134425d273a54dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S-z5N8dp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://christopherjmcclellan.files.wordpress.com/2018/02/8-led-bank.png)
+[![8 LED Bank](img/75edf326cffbfd73c134425d273a54dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S-z5N8dp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://christopherjmcclellan.files.wordpress.com/2018/02/8-led-bank.png)
 
 我通过编写第一个测试开始了这个小组。事情一开始就有点不顺利。在一整天的工作之后，我在一群观众面前进行现场编码，却无法通过测试。几分钟后，有人指出我将值设置为与期望值相反的*。我谢过他，笑了笑，然后离开了键盘。人们起初非常犹豫，但很快这个团队就找到了他们的节奏。一个接一个的测试会变红然后变绿。偶尔我会插入一些见解或尝试重构。*
 
 最终，我不再关注代码了。我开始四处闲逛，与那些有点过于保守、不愿积极参与的人交谈。我发现有一个有趣的问题组合。有些人问我关于 TDD，有些人问我关于微控制器和嵌入式编程。房间里很少有人两者都做过，据我所知，没有人用嵌入式 C++做过 TDD。
 
-[![Group of people programming together in harmony](../Images/3108a5a71b365926e3b1bd57954d44ca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qnm9CC7w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://christopherjmcclellan.files.wordpress.com/2018/02/img_1419.jpg)
+[![Group of people programming together in harmony](img/3108a5a71b365926e3b1bd57954d44ca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qnm9CC7w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://christopherjmcclellan.files.wordpress.com/2018/02/img_1419.jpg)
 
 突然我听到“嘿，克里斯！我们完了！我们怎么把这个东西上传到板上？”他们让我大吃一惊。在我们开始之前，我担心我们没有时间完成这个形。我跑回键盘，在 main 中写了一个快速循环，让灯依次闪烁，然后烧了程序。成功了。 **It。只是。奏效了。**当我们的设备驱动在第一次向电路板闪存时就开始运行*时，我们都有点惊叹于 mob 和 TDD 的威力。*
 

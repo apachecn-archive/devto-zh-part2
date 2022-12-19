@@ -4,7 +4,7 @@
 
 每周[马尔滕·贝泽默](https://medium.com/@veger)7 月 22 日[免费加入](https://www.getrevue.co/profile/golang-jexia/issues/golang-ninjas-newsletter-issue-9-119028?)或添加[时事通讯 rss](http://fetchrss.com/rss/5b27d6348a93f858388b4567788630470.xml)
 
-[![](../Images/7972cd544e9250c65782b3f1ba394cd3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cHFBQDLx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0r4kshz09w5whrvmmtop.jpg)
+[![](img/7972cd544e9250c65782b3f1ba394cd3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cHFBQDLx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0r4kshz09w5whrvmmtop.jpg)
 
 通过 Maarten Bezemer 为 Golang Ninjas 提供的每周简讯，了解最新动态并领先于同行。
 
@@ -16,7 +16,7 @@
 
 本来想在备用机上玩 Ubuntu 18.04。这给了我一个借口来尝试最近合并到 Go 1.11 开发分支中的模块特性。
 
-[![](../Images/0f2720cdd2aae6ecc7fdfe57ece857f4.png)T2】](https://twitter.com/_rsc/status/1019743820299341824)
+[![](img/0f2720cdd2aae6ecc7fdfe57ece857f4.png)T2】](https://twitter.com/_rsc/status/1019743820299341824)
 
 ## 基本原则
 
@@ -38,7 +38,7 @@
 
 这篇文章假设读者对用 Go 编写的 AWS Lambda 函数有基本的了解。
 
-[![](../Images/ddac93a3f01612b550a15aaea6755d89.png)T2】](https://twitter.com/chimeracoder/status/1019331017302298632)
+[![](img/ddac93a3f01612b550a15aaea6755d89.png)T2】](https://twitter.com/chimeracoder/status/1019331017302298632)
 
 **[在 Go 中实现内存数据结构](https://medium.com/@karanbirchahal/implementing-in-memory-data-structures-in-go-ef6ee1a88146?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Golang%20Ninjas%20Newsletter)**
 
@@ -58,7 +58,7 @@ Go 有一个奇妙的多线程 API，它允许各种机会来构建高性能工�
 
 在继续之前，请确保您已经阅读了本系列的第一部分- [如何在 Go - Part 1 中测试 TCP/UDP 连接。](https://devtheweb.io/blog/2018/07/testing-net-connections-part-one/)
 
-[![](../Images/a50b64b0a47dc7f4e901927c004e1b04.png)T2】](https://twitter.com/rakyll/status/1019455441300963328)
+[![](img/a50b64b0a47dc7f4e901927c004e1b04.png)T2】](https://twitter.com/rakyll/status/1019455441300963328)
 
 **[神童+散文:围棋中激进高效的机器教学](https://medium.com/@errata.ai/prodigy-prose-radically-efficient-machine-teaching-in-go-93389bf2d772?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Golang%20Ninjas%20Newsletter)**
 
@@ -76,7 +76,7 @@ Go 有一个奇妙的多线程 API，它允许各种机会来构建高性能工�
 
 我们已经验证了 golang/go 库，并发送了一些补丁，正在修复发现的问题。在本帖中，我们将检查建议的更改。
 
-[![](../Images/7634c679372600d681fbf22b864c41dc.png)T2】](https://twitter.com/fatih/status/1019643295490871296)
+[![](img/7634c679372600d681fbf22b864c41dc.png)T2】](https://twitter.com/fatih/status/1019643295490871296)
 
 **[纯 Go 小型家用互联网路由器](https://github.com/rtr7/router7?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Master%20the%20World%20of%20Golang)**
 
@@ -90,7 +90,7 @@ Router7 是一个小型家用互联网路由器的纯 Go 实现。它配备了�
 
 在使用 Node.js 的过程中，我逐渐依赖 Lodash 这个无价的工具。
 
-[![](../Images/e912cd044ffd05f57e4358cbaf37eb3d.png)T2】](https://twitter.com/tbpalsulich/status/1019343917068800003)
+[![](img/e912cd044ffd05f57e4358cbaf37eb3d.png)T2】](https://twitter.com/tbpalsulich/status/1019343917068800003)
 
 ## 科学论文
 
@@ -104,7 +104,7 @@ Router7 是一个小型家用互联网路由器的纯 Go 实现。它配备了�
 
 Go 特性目标和用例迫使我们重新思考整个垃圾收集栈，并把我们带到了一个令人惊讶的地方。这篇演讲描述了我们的旅程。
 
-[![Episode 124\. nil and AST · ](../Images/c950eb14ea6182c39f63ffbc8f281ca0.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--jlAyLeMh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/revue/items/images/003/240/240/thumb/cover.png%3F1532119439) ** [第 124 集。零和 AST](http://golangshow.com/episode/2018/06-17-124-en/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Golang%20Ninjas%20Newsletter)—[golangshow.com](http://golangshow.com/episode/2018/06-17-124-en/)**
+[![Episode 124\. nil and AST · ](img/c950eb14ea6182c39f63ffbc8f281ca0.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--jlAyLeMh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/revue/iteimg/003/240/240/thumb/cover.png%3F1532119439) ** [第 124 集。零和 AST](http://golangshow.com/episode/2018/06-17-124-en/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Golang%20Ninjas%20Newsletter)—[golangshow.com](http://golangshow.com/episode/2018/06-17-124-en/)**
 
 第 124 集[恩]。零和 AST。额外收获:在@GopherConRu 采访@bradfitz 和 [@bketelsen](https://dev.to/bketelsen) 。
 

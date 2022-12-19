@@ -172,7 +172,7 @@ for var x = 0; x < 5; x++ { print(x, terminator: " ") }
 本文中的所有示例都可以在 Swift playground 中找到，现在
 更新为 Swift 4 语法。
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png)[troz ware](https://github.com/trozware)/[for-loops](https://github.com/trozware/for-loops)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png)[troz ware](https://github.com/trozware)/[for-loops](https://github.com/trozware/for-loops)
 
 ### 学习快速循环的游乐场
 

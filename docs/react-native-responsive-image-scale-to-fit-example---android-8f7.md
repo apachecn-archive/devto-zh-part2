@@ -9,4 +9,4 @@ react-native-scalable-image 通过计算图像大小，在渲染时调整图像�
 
 [反应原生响应图像比例以适应示例- Android](https://www.skptricks.com/2018/11/react-native-responsive-image-scale-to-fit-example.html)
 
-[![](../Images/8a1815e1367118ace8116ac4c96a69d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_zbK1wlB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-GRUdTEXV4P8/W-Ovc43EX7I/AAAAAAAACHo/naxGr7UMNSwxJGJuhcJd3vdWct6_vmsGACLcBGAs/s640/sc.png)
+[![](img/8a1815e1367118ace8116ac4c96a69d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_zbK1wlB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-GRUdTEXV4P8/W-Ovc43EX7I/AAAAAAAACHo/naxGr7UMNSwxJGJuhcJd3vdWct6_vmsGACLcBGAs/s640/sc.png)

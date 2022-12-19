@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/couellet/the-jamstack-in-2019-why-and-how-to-get-started-11go>
 
-[![The JAMstack in 2020: Why (and How) to Get Started](../Images/666c46e84a01721e7f98364683234e4a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4G7XS2NP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/204771/jamstack.png)
+[![The JAMstack in 2020: Why (and How) to Get Started](img/666c46e84a01721e7f98364683234e4a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4G7XS2NP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/204771/jamstack.png)
 
 当我们第一次写这篇文章的时候， [JAMstack](https://jamstack.org/) 生态系统还处于起步阶段。
 
@@ -12,7 +12,7 @@
 
 “是的，当然”一个非常半信半疑，更环保的狙击小组回答。
 
-[![jamstack? sure](../Images/00e73ae7d8f4f72d20e1fd2df125a784.png)T2】](https://i.giphy.com/media/DfdbTJZx6Yjra/giphy.gif)
+[![jamstack? sure](img/00e73ae7d8f4f72d20e1fd2df125a784.png)T2】](https://i.giphy.com/media/DfdbTJZx6Yjra/giphy.gif)
 
 孩子，今天我们很感激亲眼见证了这个充满活力的社区的崛起。
 公平地说，我们已经在这场运动中发挥了自己的作用——精心制作了近 50 篇与 JAMstack 相关的[博客文章](https://snipcart.com/blog/categories/jamstack) & [Github 资源库](https://github.com/snipcart)，提供可操作的现场演示。

@@ -6,7 +6,7 @@
 
 Alex 发起了一个关于你在户外做什么的讨论。
 
-[![alexruzenhack image](../Images/8c23d6967e51302bcc89e5f48e7c1610.png)](/alexruzenhack) [## 你在离家的两个小时里做什么？
+[![alexruzenhack image](img/8c23d6967e51302bcc89e5f48e7c1610.png)](/alexruzenhack) [## 你在离家的两个小时里做什么？
 
 ### Alex Ruzenhack 8 月 26 日 181 分钟阅读
 
@@ -16,13 +16,13 @@ Alex 发起了一个关于你在户外做什么的讨论。
 
 马丁在购物时听播客也有类似的习惯。
 
-[![mrtnrdl profile image](../Images/4f63ad786daaf80bf9b8dea7623eb7ba.png) ](/mrtnrdl) [ Martin Riedel ](/mrtnrdl) • [<time datetime="2018-08-27T05:39:32Z"> Aug 27 '18 </time>](https://dev.to/mrtnrdl/comment/539h) 
+[![mrtnrdl profile image](img/4f63ad786daaf80bf9b8dea7623eb7ba.png) ](/mrtnrdl) [ Martin Riedel ](/mrtnrdl) • [<time datetime="2018-08-27T05:39:32Z"> Aug 27 '18 </time>](https://dev.to/mrtnrdl/comment/539h) 
 
 我通常购物和听播客，和通勤时一样。:)
 
 他还分享了按主题分类的播客订阅。
 
-[![mrtnrdl image](../Images/651944596d4501c6bfa5bceba4ee7e0a.png)](/mrtnrdl) [## 我的播客-订阅
+[![mrtnrdl image](img/651944596d4501c6bfa5bceba4ee7e0a.png)](/mrtnrdl) [## 我的播客-订阅
 
 ### 马丁里德尔 8 月 29 日 182 分钟阅读
 

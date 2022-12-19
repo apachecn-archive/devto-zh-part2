@@ -9,16 +9,16 @@
 # 梯形法则:
 
 在数学上，梯形法则是一种数值积分方法，即近似计算定积分值的方法。
-[![i2](../Images/4256bc3d28d3e0d1ea207d995c5222ca.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kP3tYBfT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/dzbxcbntl/image/upload/v1526755300/Selection_004.png) 
+[![i2](img/4256bc3d28d3e0d1ea207d995c5222ca.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kP3tYBfT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/dzbxcbntl/image/upload/v1526755300/Selection_004.png) 
 该规则基于通过点(a，f (a))和(b，f (b))的线性函数的积分值来近似 f (x)的积分值。它的积分等于线性函数图形下梯形的面积。接下来:
-[![i3](../Images/4688dceaf97ff0f09a1d889eddc7eba1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MKmLum13--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/dzbxcbntl/image/upload/v1526755300/Selection_005.png)
+[![i3](img/4688dceaf97ff0f09a1d889eddc7eba1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MKmLum13--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/dzbxcbntl/image/upload/v1526755300/Selection_005.png)
 
 错误的是:
-[![i4](../Images/55f7fa158303a5f0b30665831c8c62de.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NCS-5YbV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/dzbxcbntl/image/upload/v1526755300/Selection_006.png)
+[![i4](img/55f7fa158303a5f0b30665831c8c62de.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NCS-5YbV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/dzbxcbntl/image/upload/v1526755300/Selection_006.png)
 
 Xi 是介于 a 和 b 之间的一个数
 
-[![i1](../Images/9ec582747ee37754330e6d4d7f9f7ee5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_ynRHX8v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/d/dd/Trapezoidal_rule_illustration.png)
+[![i1](img/9ec582747ee37754330e6d4d7f9f7ee5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_ynRHX8v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/d/dd/Trapezoidal_rule_illustration.png)
 
 # 实现
 
@@ -156,7 +156,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 经济过剩
 
-[![i5](../Images/3e78402cb1d74823ff53f4f7f0e94dc9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9UIcauJV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/d/d7/Economic-surpluses.svg) 
+[![i5](img/3e78402cb1d74823ff53f4f7f0e94dc9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9UIcauJV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/d/d7/Economic-surpluses.svg) 
 消费者剩余是我们从某种商品或服务中获得的总效用与其市场价格之间的差额。
 
 消费者的剩余来自收益递减规律。这意味着第一个收购的单位价值很高，但随着我们收购更多的单位，我们的价值就会下降。然而，我们为任何单位支付的价格总是一样的:市场价格。这样，我们在获得的第一个单位中享有正盈余，直到我们到达盈余为零的最后一个单位。
@@ -168,7 +168,7 @@ Enter fullscreen mode Exit fullscreen mode
 ### 消费者剩余
 
 它代表愿意支付高于均衡价格的消费者的总收益，缩写为 EC。
-[![i6](../Images/b95e1ba3f370b280956b8c32eb22971c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RLXAMIbx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/dzbxcbntl/image/upload/v1526762212/Screenshot_from_2018-05-19_14-35-05.png) 
+[![i6](img/b95e1ba3f370b280956b8c32eb22971c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RLXAMIbx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/dzbxcbntl/image/upload/v1526762212/Screenshot_from_2018-05-19_14-35-05.png) 
 有关该应用程序的更多信息，请点击下面的[链接](https://en.wikipedia.org/wiki/Economic_surplus)。
 
 # 参考书目:

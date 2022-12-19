@@ -6,7 +6,7 @@
 
 2015 年，测试领域发生了巨大的变化，从面向服务的架构到虚拟化的增加以及云计算、敏捷和 DevOps 方法等技术的采用，出现了大量的趋势。这最终导致了软件开发生命周期中测试的广泛接受。下面的帖子总结了 2017 年十大新兴趋势/预测&之后肯定会重塑[软件测试](https://www.indiehackers.com/@hermanmorgan/the-rosy-future-is-possible-thanks-to-all-the-upcoming-trends-in-software-testing-04b128f69f)的格局。
 
-[![Software Testing Trends](../Images/a2b68a701e098bf02d2edd40329be3e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1wSuv0hZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/v5cHfQh.jpg)
+[![Software Testing Trends](img/a2b68a701e098bf02d2edd40329be3e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1wSuv0hZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/v5cHfQh.jpg)
 
 ## 当前出现的趋势包括:
 
@@ -26,7 +26,7 @@
 
 *   **测试员认证** -自 20 世纪 80 年代以来，ISTQB 项目成功地实现了开放性和全球性。而且，这是职业化的一部分。
 
-[![Upcoming Software Testing](../Images/db92dc85fca5d2339dd23bd7b417850a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fKIa8j67--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://udemy-images.udemy.com/course/750x422/834122_65a6_2.jpg)
+[![Upcoming Software Testing](img/db92dc85fca5d2339dd23bd7b417850a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fKIa8j67--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://udemy-images.udemy.com/course/750x422/834122_65a6_2.jpg)
 
 ### 软件测试即将到来？
 

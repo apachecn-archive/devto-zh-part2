@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/scalegrid/latest-postgresql-trends-most-time-consuming-tasks--important-metrics-to-track-4p47>
 
-[![Latest PostgreSQL Trends: Most Time-Consuming Tasks & Important Metrics to Track - ScaleGrid Blog](../Images/3a58e34843edd608140255cc0007691d.png)T2】](https://scalegrid.io/blog/latest-postgresql-trends-most-time-consuming-tasks-important-metrics-to-track/)
+[![Latest PostgreSQL Trends: Most Time-Consuming Tasks & Important Metrics to Track - ScaleGrid Blog](img/3a58e34843edd608140255cc0007691d.png)T2】](https://scalegrid.io/blog/latest-postgresql-trends-most-time-consuming-tasks-important-metrics-to-track/)
 
 [PostgreSQL](https://www.postgresql.org/) ，在 [2017](https://db-engines.com/en/blog_post/76) 年度最受欢迎的数据库和 DBMS 中排名第四，在世界各地的开发和数据库社区中广受欢迎。 [PostgreSQL hosting](https://scalegrid.io/postgresql.html "PostgreSQL Hosting & Management") 从领先的 Oracle、MySQL 和 Microsoft SQL Server 那里窃取市场份额，同时也被物联网、电子商务、SaaS、分析等令人兴奋的领域中的新业务充分利用。
 
@@ -14,7 +14,7 @@
 
 那么，在 PostgreSQL 管理方面，是什么占用了您的时间？虽然管理 PostgreSQL 生产部署涉及数千项任务，但管理查询是强有力的领导者，超过 30%的受访者这样认为。
 
-[![Most Time-Consuming PostgreSQL Management Tasks - ScaleGrid Blog](../Images/e7c831912763cb63672e37224a1f675e.png)T2】](https://scalegrid.io/blog/wp-content/uploads/2018/10/Most-Time-Consuming-PostgreSQL-Management-Tasks-ScaleGrid-Blog.png)
+[![Most Time-Consuming PostgreSQL Management Tasks - ScaleGrid Blog](img/e7c831912763cb63672e37224a1f675e.png)T2】](https://scalegrid.io/blog/wp-content/uploads/2018/10/Most-Time-Consuming-PostgreSQL-Management-Tasks-ScaleGrid-Blog.png)
 
 管理空间远远排在第二位，15%的 PostgreSQL 用户认为这是他们最困难的任务，其次是复制、升级和监控。23%的 PostgreSQL 用户属于“所有其他”类别，包括修补、恢复、分区和迁移等任务。
 
@@ -22,7 +22,7 @@
 
 在管理 PostgreSQL 查询方面遥遥领先的情况下，我们更深入地查看哪些特定任务消耗了他们的时间。结果分布在管理查询的整个过程中，从设置时的结构化到分析后的优化。
 
-[![Managing PostgreSQL Queries Breakdown - Most Time-Consuming PostgreSQL Management Tasks - ScaleGrid Blog](../Images/a010aefc85e22c5efcec65379663192d.png)T2】](https://scalegrid.io/blog/wp-content/uploads/2018/10/Most-Time-Consuming-PostgreSQL-Management-Tasks-Managing-Queries-Breakdown-ScaleGrid-Blog.png)
+[![Managing PostgreSQL Queries Breakdown - Most Time-Consuming PostgreSQL Management Tasks - ScaleGrid Blog](img/a010aefc85e22c5efcec65379663192d.png)T2】](https://scalegrid.io/blog/wp-content/uploads/2018/10/Most-Time-Consuming-PostgreSQL-Management-Tasks-Managing-Queries-Breakdown-ScaleGrid-Blog.png)
 
 为了进一步解释这一点，让我们从查询管理过程的开始说起:
 
@@ -46,7 +46,7 @@
 
 最重要的 PostgreSQL 指标结果明显比管理任务更均匀，从而在复制统计、CPU 和 RAM 使用、每秒事务(TPS)和慢速查询之间形成了四向平局:
 
-[![Most Important Metrics to Track for PostgreSQL Performance - ScaleGrid Blog](../Images/314412fad4dc469f32ad6101565890e6.png)T2】](https://scalegrid.io/blog/wp-content/uploads/2018/10/Most-Important-Metrics-to-Track-for-PostgreSQL-Performance-ScaleGrid-Blog.png)
+[![Most Important Metrics to Track for PostgreSQL Performance - ScaleGrid Blog](img/314412fad4dc469f32ad6101565890e6.png)T2】](https://scalegrid.io/blog/wp-content/uploads/2018/10/Most-Important-Metrics-to-Track-for-PostgreSQL-Performance-ScaleGrid-Blog.png)
 
 #### 复制统计
 

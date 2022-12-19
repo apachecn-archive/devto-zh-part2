@@ -91,7 +91,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在文章上下滑动。
 
-[![height with animation](../Images/100a2f8e943e18449425860f6ab23e48.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w3jErQL6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://res.cloudinary.com/dvj2hbywq/image/upload/v1524084041/Apr-18-2018-9_33-PM_uzuwka.gif)
+[![height with animation](img/100a2f8e943e18449425860f6ab23e48.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w3jErQL6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://res.cloudinary.com/dvj2hbywq/image/upload/v1524084041/Apr-18-2018-9_33-PM_uzuwka.gif)
 
 你可能认为这是我感谢你阅读这篇文章的部分。不，不是的。这种方法有一个局限性。让我们考虑一下。
 
@@ -101,7 +101,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 对于动态内容，元素的高度应该设置为`auto`。这样，元件高度的任何增加或减少都将被适应。挑战如下:**当一个元素的高度设置为自动**时，CSS 转换不起作用。这是你将得到的。
 
-[![height without animation](../Images/ecb211d6c23651dc9caeb02845c0b3c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7iTPuqls--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://res.cloudinary.com/dvj2hbywq/image/upload/v1524024293/Apr-18-2018-4_36-AM_f0tzic.gif)
+[![height without animation](img/ecb211d6c23651dc9caeb02845c0b3c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7iTPuqls--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://res.cloudinary.com/dvj2hbywq/image/upload/v1524024293/Apr-18-2018-4_36-AM_f0tzic.gif)
 
 关于这一点的好消息是，有一种方法可以绕过这个问题，而不必求助于更多的 JavaScript。
 
@@ -128,7 +128,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 通过这种方式，动画可以工作，我们仍然可以得到我们想要的效果。过渡时间可能需要根据您想要的效果进行调整。
 
-[![height with animation](../Images/100a2f8e943e18449425860f6ab23e48.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w3jErQL6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://res.cloudinary.com/dvj2hbywq/image/upload/v1524084041/Apr-18-2018-9_33-PM_uzuwka.gif)
+[![height with animation](img/100a2f8e943e18449425860f6ab23e48.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w3jErQL6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://res.cloudinary.com/dvj2hbywq/image/upload/v1524084041/Apr-18-2018-9_33-PM_uzuwka.gif)
 
 有什么问题或补充吗？请留言评论。
 

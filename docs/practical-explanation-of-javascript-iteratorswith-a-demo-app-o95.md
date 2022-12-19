@@ -36,7 +36,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 从上面的代码中，前四个调用给出了数组中前四项的值，最后一个返回 undefined，因为数组中不再有要迭代的项，所以迭代终止。
 下面是控制台输出
-[![output](../Images/0ba7d9b6ff6d275887a63ead62b05b92.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AGm5XM-S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ksj5h825b6lf36zyukbz.png)
+[![output](img/0ba7d9b6ff6d275887a63ead62b05b92.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AGm5XM-S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ksj5h825b6lf36zyukbz.png)
 
 我将通过构建一个演示应用程序来解释迭代器，这样它会给我们一个迭代器在现实应用中用途的概述，在这个应用程序中，我将从[https://api.github.com/users](https://api.github.com/users)获取数据，这将使我们能够查看前 46 个用户的配置文件。
 这里是 HTML 结构
@@ -148,7 +148,7 @@ Enter fullscreen mode Exit fullscreen mode
 在上面的代码中，迭代器函数被创建，从 [API](https://api.github.com/users) 获取的数据被传递到迭代器函数，从 [API](https://api.github.com/users) 我们可以访问浏览器中显示的头像、登录、id 和类型，在最后一次迭代后，页面重新加载，函数 loadProfile 被再次调用。
 
 下面是浏览器中输出的
-[![output](../Images/2d51d22d19943de1bc3139fffd1d850a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Rve7suFD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0u02iqw7tm2jwwl2flkb.gif)
+[![output](img/2d51d22d19943de1bc3139fffd1d850a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Rve7suFD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0u02iqw7tm2jwwl2flkb.gif)
 
 ## 注
 

@@ -4,7 +4,7 @@
 
 又见面了！继续安全冲刺的文章，本周我将谈论法尔科。没有。我不是在说音乐家，我指的是一个开源工具，它允许我们监控行为活动，并检测应用程序中的异常活动。
 
-[![](../Images/e7c353174cb1ada744cb7a2e9639b068.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ayq5Q9Wc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://sysdig.com/wp-content/uploads/2018/07/falco_running.gif)
+[![](img/e7c353174cb1ada744cb7a2e9639b068.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ayq5Q9Wc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://sysdig.com/wp-content/uploads/2018/07/falco_running.gif)
 
 异常检测的一些例子是外壳在生产容器内运行、SQL 注入攻击、rootkit 主机、未授权进程、写入非用户数据目录等。法尔科法则的一个例子是:
 
@@ -51,21 +51,21 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，让我们回到这个例子。在[官方文档](https://sysdig.com/blog/selinux-seccomp-falco-technical-discussion/#falco)中，它解释了该规则如何监控文件打开以识别打开文件的企图。我将在我自己的容器上使用`docker`进行同样的尝试:
 
-[![](../Images/d6cbf73cdfeb079181593929cf7161f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---xUpdm0_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yoq11lw5egy8i3gg5ak7.png)
+[![](img/d6cbf73cdfeb079181593929cf7161f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---xUpdm0_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yoq11lw5egy8i3gg5ak7.png)
 
 玩了一会儿之后，让我们开始跟踪我们的日志。
 
 `tail /var/log/falco_events.log`
 
-[![](../Images/f6824647f8828c80faeee4cb7ee2dee2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BjN1mid4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uzqfauhl5j2mlqy3vyfw.png)
+[![](img/f6824647f8828c80faeee4cb7ee2dee2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BjN1mid4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uzqfauhl5j2mlqy3vyfw.png)
 
 就是这样！法尔科给出了一个建议。
 
-[![](../Images/0c70c1607f0da32d711b4276b3d71396.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eXgT0Y_B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://proxy.duckduckgo.com/iu/%3Fu%3Dhttps%253A%252F%252Fmedia1.tenor.com%252Fimages%252Fd9fe393a4133831e33afffaf00a7ed81%252Ftenor.gif%253Fitemid%253D8821403%26f%3D1)
+[![](img/0c70c1607f0da32d711b4276b3d71396.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eXgT0Y_B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://proxy.duckduckgo.com/iu/%3Fu%3Dhttps%253A%252F%252Fmedia1.tenor.com%252Fimages%252Fd9fe393a4133831e33afffaf00a7ed81%252Ftenor.gif%253Fitemid%253D8821403%26f%3D1)
 
 Welp，现在让我们尝试另一个例子，任何试图写入非数据目录的进程。在`curl https://raw.githubusercontent.com/katacoda-scenarios/sysdig-scenarios/master/sysdig-falco/assets/falco_rules_step4.yaml -o falco_rules.yaml`和重启 docker falco 之后:
 
-[![](../Images/e9812de06597c128ad2cb286e6caf745.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--97JOPgaU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dnjoat5r6uya8p2c1m0m.png)
+[![](img/e9812de06597c128ad2cb286e6caf745.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--97JOPgaU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dnjoat5r6uya8p2c1m0m.png)
 
 所以，就这样了！关于使用 docker 和 falco 的更多信息，请查看我使用的 yaml 文件所在的教程。
 

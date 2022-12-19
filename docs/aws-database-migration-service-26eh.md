@@ -18,7 +18,7 @@
 
 #### t0.t1 .将四个 rds MySQL 5.6 实例添加到一个 Aurora MySQL5.6 集群
 
-[![aws_dms_001.png](../Images/39a090b7aa403c5f17fffe168141edca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vLqwY88Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ooa8p0gbcoqe0avntr11.png)
+[![aws_dms_001.png](img/39a090b7aa403c5f17fffe168141edca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vLqwY88Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ooa8p0gbcoqe0avntr11.png)
 
 由于需要负载的部分变成了其他子系统，该实例组的利用率急剧下降，因此进行了规模缩小。 这一次，由于不再有合适的扩展目标实例大小，因此制定了扩展计划。 由于 DB 的规模缩小可以在短时间内完成，所以可以在通常的维护时间中顺利进行，但规模缩小存在问题。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/microverse/the-portfolio-hack-that-will-make-everyone-want-to-hire-you-1og8>
 
-[![A beautiful Sketch design that you could build to make your portfolio stand out](../Images/576a4127fdb3d09f18ee9a1c73541b07.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--rO_r4qbB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/4824/1%2AtYqxbO9Zd4R3jobPZPjJPQ.png) *一个漂亮的草图设计，可以让你的作品脱颖而出*
+[![A beautiful Sketch design that you could build to make your portfolio stand out](img/576a4127fdb3d09f18ee9a1c73541b07.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--rO_r4qbB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/4824/1%2AtYqxbO9Zd4R3jobPZPjJPQ.png) *一个漂亮的草图设计，可以让你的作品脱颖而出*
 
 如果你是一名软件开发人员，正在申请你的第一份工作，拥有一份出色的投资组合应该是你的首要任务之一。
 
@@ -30,7 +30,7 @@
 
 一种方法是访问 dribbble.com，找到一些你可以建立的概念网站。许多设计师花时间重新想象某些网站如果从零开始构建会是什么样子。然而，这些设计经常得不到实施。这就是你进来的地方:只需选择一个并从头开始构建它。[这里有几个例子](https://dribbble.com/search?q=concept+website)——如果你遵循这个想法，记得链接到原设计者。
 
-[![A few concept websites found on Dribbble](../Images/c398d8d44fc82b9ae2fd351b95f9a8f9.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--74ldFdDY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/5080/1%2AeOyBce78c4nExdaSYO1qTg.png) *在滴滴上找到的几个概念网站*
+[![A few concept websites found on Dribbble](img/c398d8d44fc82b9ae2fd351b95f9a8f9.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--74ldFdDY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/5080/1%2AeOyBce78c4nExdaSYO1qTg.png) *在滴滴上找到的几个概念网站*
 
 然而，这种方法的问题是**这些设计中的大部分都有视觉资产(例如，背景图像),您不能将其导出以包含在您的实现中**。此外，作为一名初级开发人员**，你可能还没有注意到设计师考虑的所有小细节**(比如边距、填充、字体大小等等)。
 
@@ -42,7 +42,7 @@
 
 草图是当今产品设计师最常用的设计工具之一。只要去谷歌搜索*免费素描模板网站。*打开其中一些结果，找到您想要构建的网站设计。[这里的](https://freebiesbug.com/sketch-freebies/showtrackr/)是我用这种方法发现的一个很好的例子。
 
-[![Another Sketch template that you can use to build an incredibly well-designed project for your portfolio](../Images/4784c18567a0971a2b5a14f06cad224c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5YOH2Eve--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/4980/1%2A2TDuydv_Y0r7qE9EV8nC8Q.png)
+[![Another Sketch template that you can use to build an incredibly well-designed project for your portfolio](img/4784c18567a0971a2b5a14f06cad224c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5YOH2Eve--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/4980/1%2A2TDuydv_Y0r7qE9EV8nC8Q.png)
 
 现在[下载](https://www.sketchapp.com/get/)并安装 Sketch(有 30 天的免费试用)并用它打开你在上一步下载的草图模板。
 
@@ -58,7 +58,7 @@ Zeplin 是另一个神奇的工具，旨在帮助设计人员和开发人员更�
 
 一旦 Zeplin 插件安装在 Sketch 中，进入插件> Zeplin 并点击**导出所选画板**。您下载的草图设计可能有多个画板，每个画板对应于应用程序/网站的不同视图。
 
-[![How to use Sketch export the design to Zeplin](../Images/d7b0ab2f6cfd079b1de8ca7d59587c63.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--FmbgTdSU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Aw0mcti89pF6yp3I1FYy1LA.png) *如何用草图将设计导出到泽普林*
+[![How to use Sketch export the design to Zeplin](img/d7b0ab2f6cfd079b1de8ca7d59587c63.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--FmbgTdSU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Aw0mcti89pF6yp3I1FYy1LA.png) *如何用草图将设计导出到泽普林*
 
 按照说明，将您想要实现的所有画板上传到 Zeplin。
 
@@ -66,15 +66,15 @@ Zeplin 是另一个神奇的工具，旨在帮助设计人员和开发人员更�
 
 在 Zeplin 中打开你最近上传的设计，注意当你悬停在设计的每个元素上时，你得到了多少细节。由于设计是使用 Sketch 中的图层组织的，Zeplin 可以区分每个元素，并向您显示诸如字体大小和元素之间的间距等规格。
 
-[![A Sketch design exported to Zeplin, where you can see all the specs and even the generated CSS code](../Images/9d9a3e58937c628d75943e0f1d39f7d0.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--Vq5Fn3Ki--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/5576/1%2AM88wkxPLOnYSuuxzX2CRoA.png) *一个导出到 Zeplin 的草图设计，在这里可以看到所有的规格甚至生成的 CSS 代码*
+[![A Sketch design exported to Zeplin, where you can see all the specs and even the generated CSS code](img/9d9a3e58937c628d75943e0f1d39f7d0.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--Vq5Fn3Ki--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/5576/1%2AM88wkxPLOnYSuuxzX2CRoA.png) *一个导出到 Zeplin 的草图设计，在这里可以看到所有的规格甚至生成的 CSS 代码*
 
 如果你想导出一个图像，点击 Zeplin 中的图像，在右边的菜单中寻找下载 PNG 图像的选项。
 
-[![How to download visual assets from Zeplin](../Images/24b3a4bbd827b40a55d349dac88d7c2f.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--nYpI1Cvo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AqynY7ARCb_K7zq9ujqhWeg.png) *如何从泽普林*下载视觉资产
+[![How to download visual assets from Zeplin](img/24b3a4bbd827b40a55d349dac88d7c2f.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--nYpI1Cvo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AqynY7ARCb_K7zq9ujqhWeg.png) *如何从泽普林*下载视觉资产
 
 如果您没有看到该选项，请返回到 Sketch，单击您想要导出的图像，然后单击显示 **Make Exportable** *的选项。*之后，只需将画板重新上传到 Zeplin，然后重试。
 
-草图中的 [![Option in Sketch to make images exportable in Zeplin](../Images/a6e03cb5fce152502c070ec57fffccaa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yUS5BILS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AZkPdvDRDzmaTOngdrl_dqQ.png) *选项使图像可在泽普林*中导出
+草图中的 [![Option in Sketch to make images exportable in Zeplin](img/a6e03cb5fce152502c070ec57fffccaa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yUS5BILS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AZkPdvDRDzmaTOngdrl_dqQ.png) *选项使图像可在泽普林*中导出
 
 最后，只要使用所有这些详细的规格和高质量的资产来建立网站。记住，伟大的用户界面是由数百个微小的细节组成的。尽管您可能无法单独欣赏这些细节，但使用 Zeplin 的规范仔细实现每一个细节，您将会看到最终结果看起来比您以前构建的任何东西都更漂亮。
 

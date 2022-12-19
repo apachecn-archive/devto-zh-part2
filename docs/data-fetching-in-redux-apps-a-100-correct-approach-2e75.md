@@ -4,7 +4,7 @@
 
 ### Redux 应用程序中的数据获取—100%正确的方法
 
-[![](../Images/b9d25963f89f1dc726ba0e298e30506c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ghaduNUs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AcwMGXp22EktYENiWyfm1Qw.png)
+[![](img/b9d25963f89f1dc726ba0e298e30506c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ghaduNUs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AcwMGXp22EktYENiWyfm1Qw.png)
 
 Redux 是一个很棒的工具，它解决了 UI 框架的主要问题之一:*状态管理*。
 
@@ -16,7 +16,7 @@ Redux 是一个很棒的工具，它解决了 UI 框架的主要问题之一:*�
 
 Redux 本身并没有提供现成的解决方案。幸运的是，社区有很多图书馆来解决这个问题。
 
-[![](../Images/d07cf6eaeca12f2c884a95e532b5e78b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BS4Xiosv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AEqq0Y7j1VkQq2SQaziMKNA.png) 
+[![](img/d07cf6eaeca12f2c884a95e532b5e78b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BS4Xiosv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AEqq0Y7j1VkQq2SQaziMKNA.png) 
 
 <figcaption>redux-thunk？redux-saga？redux-observable？redux-promise？</figcaption>
 
@@ -28,11 +28,11 @@ Redux 本身并没有提供现成的解决方案。幸运的是，社区有很�
 
 我不打算讨论所有可能的方法，但是让我们用一个简单的应用程序来看看一些最常见的模式。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### 一个假的介质，嗯？
 
-[![](../Images/18be240ca78732d795799f03861478da.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--i79ZiDpW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AwTdkQD5secWJOuE0vURqlA.png) 
+[![](img/18be240ca78732d795799f03861478da.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--i79ZiDpW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AwTdkQD5secWJOuE0vURqlA.png) 
 
 <figcaption>这是我将带你浏览的小应用程序。 [Github 回购](https://github.com/ohansemmanuel/fake-medium)</figcaption>
 
@@ -40,7 +40,7 @@ Redux 本身并没有提供现成的解决方案。幸运的是，社区有很�
 
 请注意，中拍手是可点击的。如果你感兴趣的话，下面是我如何构建 medium clap 克隆的。
 
-[![](../Images/1eff2c64489573b574ab0b56cf202352.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--znpUQvRN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AfQgSEbxV076FnykmnseC1g.gif) 
+[![](img/1eff2c64489573b574ab0b56cf202352.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--znpUQvRN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AfQgSEbxV076FnykmnseC1g.gif) 
 
 <figcaption>带着[的 app 中拍拍克隆](https://medium.freecodecamp.org/how-i-re-built-the-medium-clap-effect-and-what-i-got-out-of-the-experiment-991672995fdf)</figcaption>
 
@@ -73,7 +73,7 @@ Redux 本身并没有提供现成的解决方案。幸运的是，社区有很�
 
 该应用程序的结构确实很简单，有两个主要组成部分:文章和鼓掌
 
-[![](../Images/2407945ed2edbbdd5b51d304093ef57c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--feXZPVIK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AtLiHaiLqebLznmC05dzRCg.png)
+[![](img/2407945ed2edbbdd5b51d304093ef57c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--feXZPVIK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AtLiHaiLqebLznmC05dzRCg.png)
 
 在 [components/Article.js](https://github.com/ohansemmanuel/fake-medium/blob/master/src/components/Article.js) 中:
 
@@ -195,7 +195,7 @@ componentDidMount() {
 
 仅此而已。请务必检查[完整的代码差异](https://github.com/ohansemmanuel/fake-medium/commit/589c2e1fb429659ee20131ed1d7558b03c8bf3f9)，因为我在这里只突出显示了关键行:
 
-[![](../Images/18be240ca78732d795799f03861478da.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--i79ZiDpW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AwTdkQD5secWJOuE0vURqlA.png) 
+[![](img/18be240ca78732d795799f03861478da.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--i79ZiDpW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AwTdkQD5secWJOuE0vURqlA.png) 
 
 <figcaption>文章详情已成功从服务器获取。</figcaption>
 
@@ -389,7 +389,7 @@ export default apiMiddleware;
 
 我答应解释每一行，所以首先，这里有一个中间件如何工作的概述:
 
-[![](../Images/da60cc5c7622e885ea7e94c1379fe241.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YPzfbYAS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/1%2AeHmu5cXTCSbbTbbPIJ1c-g%402x.png)T3】自定义中间件的一般流程
+[![](img/da60cc5c7622e885ea7e94c1379fe241.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YPzfbYAS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/1%2AeHmu5cXTCSbbTbbPIJ1c-g%402x.png)T3】自定义中间件的一般流程
 
 首先，你做了一些重要的导入，你很快就会看到它们的用法。
 
@@ -682,7 +682,7 @@ const **fetchArticleDetails** = () => ({
 
 而结果是一样的，一个工作应用！
 
-[![](../Images/1eff2c64489573b574ab0b56cf202352.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--znpUQvRN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AfQgSEbxV076FnykmnseC1g.gif) 
+[![](img/1eff2c64489573b574ab0b56cf202352.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--znpUQvRN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AfQgSEbxV076FnykmnseC1g.gif) 
 
 <figcaption>某工作申请:)</figcaption>
 
@@ -712,7 +712,7 @@ case API\_END:
 
 结果如下:
 
-[![](../Images/f5285330934d92f406d09eda9fc8650f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Xu0ZjMjs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ARj-xm8IPKBsLJAvbIX1-yA.gif) 
+[![](img/f5285330934d92f406d09eda9fc8650f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Xu0ZjMjs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ARj-xm8IPKBsLJAvbIX1-yA.gif) 
 
 <figcaption>见“装载….”文字？</figcaption>
 
@@ -736,7 +736,7 @@ case API\_END:
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/onmyway133/learn-ios-best-practices-by-building-a-simple-recipes-app-1j69>
 
-[![](../Images/aeaffe5f8125d064470e23eb10e3c8e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UuiXp5Wj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AVOVTKtqru5Ssdd7L)
+[![](img/aeaffe5f8125d064470e23eb10e3c8e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UuiXp5Wj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AVOVTKtqru5Ssdd7L)
 
 我在 iOS 7 已经公布的时候就开始了 iOS 开发。通过工作，我从同事和 iOS 社区那里学到了一些建议。
 
@@ -18,7 +18,7 @@
 
 这是您将要构建的内容的高级概述。
 
-[![](../Images/a9a6d0ea81cde4f65f0b9087afc7b433.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eI_lKEc5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A0yfQ1aMIe-oSDP4IJvKP0w.png)
+[![](img/a9a6d0ea81cde4f65f0b9087afc7b433.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eI_lKEc5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A0yfQ1aMIe-oSDP4IJvKP0w.png)
 
 ## 入门
 
@@ -30,17 +30,17 @@
 
 您应该在项目设置中设置 Swift 版本，而不是目标设置。这意味着项目中的所有目标共享相同的 Swift 版本(4.1)。
 
-[![](../Images/09faea707efdd80eb2bab4cfbd03611f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hmN-Tw73--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2ALxby_2mEek2-H50j3hYFEA.png)
+[![](img/09faea707efdd80eb2bab4cfbd03611f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hmN-Tw73--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2ALxby_2mEek2-H50j3hYFEA.png)
 
 ### 支持最低 iOS 版本
 
 截至 2018 年夏天，iOS 12 处于公开测试版 5，我们无法在没有 Xcode 10 的情况下针对 iOS 12。在本帖中，我们使用 Xcode 9，基础 SDK 是 iOS 11。根据需求和用户群，一些应用程序需要支持旧的 iOS 版本。尽管 iOS 用户倾向于比使用 Android 的用户更快地采用新的 iOS 版本，但仍有一些用户会继续使用旧版本。按照苹果的建议，我们需要支持**两个最新版本**，分别是 iOS 10 和 iOS 11。正如[在 2018 年 5 月 31 日通过 App Store](https://developer.apple.com/support/app-store/) 测得的，只有 5%的用户使用 iOS 9 及更早版本。
 
-[![](../Images/d7f3f275adb46d820106841bde6c8082.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E13nUey9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AyxSupQXoYTO_laZs8uZe8g.png)
+[![](img/d7f3f275adb46d820106841bde6c8082.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E13nUey9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AyxSupQXoYTO_laZs8uZe8g.png)
 
 瞄准新的 iOS 版本意味着我们可以利用新的 SDK，苹果工程师每年都在改进这些 SDK。苹果开发者网站改进了变更日志视图。现在更容易看到添加或修改了什么。
 
-[![](../Images/326ccc0821cb931058b2823bbedef4a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yUk_M-TH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2190/1%2AbOAc6e_guz5Bf10CT-Av1Q.png)
+[![](img/326ccc0821cb931058b2823bbedef4a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yUk_M-TH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2190/1%2AbOAc6e_guz5Bf10CT-Av1Q.png)
 
 理想情况下，为了确定何时停止对旧 iOS 版本的支持，我们需要分析用户如何使用我们的应用程序。
 
@@ -48,7 +48,7 @@
 
 当我们创建新项目时，选择“包含单元测试”和“包含 UI 测试”,因为建议尽早编写测试。最近对 XCTest 框架的修改，尤其是在 UI 测试中，使得测试变得轻而易举，并且非常稳定。
 
-[![](../Images/b1c5d897e1f60fa829fcd153bfaf47dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pAlqHvw8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AQMr3U0naiK_YbuDKJydcrg.png)
+[![](img/b1c5d897e1f60fa829fcd153bfaf47dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pAlqHvw8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AQMr3U0naiK_YbuDKJydcrg.png)
 
 在向项目添加新文件之前，暂停一下，思考一下你的应用程序的结构。我们希望如何组织这些文件？我们有几个选择。我们可以按特性/模块或角色/类型来组织文件。每一种都有其优点和缺点，我将在下面讨论它们。
 
@@ -124,7 +124,7 @@
 
 使用标记有助于分隔代码段。它还在导航栏中很好地对功能进行了分组。您还可以使用扩展组、相关属性和方法。
 
-[![](../Images/6a1c72312f3e5f476bb3122af80c0632.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8OaojsVt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AJyoy2lvz2w5xKo-fIUJTMw.png)
+[![](img/6a1c72312f3e5f476bb3122af80c0632.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8OaojsVt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AJyoy2lvz2w5xKo-fIUJTMw.png)
 
 对于一个简单的 UIViewController，我们可以定义以下标记:
 
@@ -166,7 +166,7 @@ Git 是目前流行的源代码控制系统。我们可以使用模板。gitigno
 
 在我们开始编码之前，让我们先玩玩 API，看看它们需要什么类型的请求以及它们返回什么类型的响应。我使用[失眠症](https://github.com/getinsomnia/insomnia)工具来测试和分析 API 响应。它是开源的，免费的，而且非常好用。👍
 
-[![](../Images/98a1a423d124488ae8524d2ee666d7f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yxQgr9Ip--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3104/1%2AyAm50k67Ql-XW0LT3NM-2g.png)
+[![](img/98a1a423d124488ae8524d2ee666d7f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yxQgr9Ip--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3104/1%2AyAm50k67Ql-XW0LT3NM-2g.png)
 
 ### 启动屏幕
 
@@ -174,7 +174,7 @@ Git 是目前流行的源代码控制系统。我们可以使用模板。gitigno
 
 要将启动图像添加到资产目录，请打开 LaunchScreen.storyboard，添加 UIImageView，并将其固定到 UIView 的边缘。我们不应该将图像固定在安全区域，因为我们希望图像全屏显示。此外，取消选择自动布局约束中的任何边距。将 UIImageView 的 contentMode 设置为 Aspect Fill，以便它以正确的纵横比伸展。
 
-[![Configure layout in LaunchScreen.](../Images/8dad943b84a80559bb1b402c16ff31a1.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--ZOeKGR6h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2334/1%2A9s_8LJhoTgMpeosbuQrAUQ.png) *在 LaunchScreen 中配置布局。*
+[![Configure layout in LaunchScreen.](img/8dad943b84a80559bb1b402c16ff31a1.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--ZOeKGR6h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2334/1%2A9s_8LJhoTgMpeosbuQrAUQ.png) *在 LaunchScreen 中配置布局。*
 
 ### App 图标
 
@@ -186,7 +186,7 @@ Git 是目前流行的源代码控制系统。我们可以使用模板。gitigno
 
 IconGenerator 应用程序可以在 iPhone、iPad、macOS 和 watchOS 应用程序中为 iOS 生成图标。结果是 AppIcon.appiconset，我们可以将它直接拖到资产目录中。资产目录是现代 Xcode 项目的必由之路。
 
-[![](../Images/2f48933b1aa9c7655b722b9b5f585ed1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jj8xanR1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AGPAQUNsbFs7xu-JmL6fLIw.png)
+[![](img/2f48933b1aa9c7655b722b9b5f585ed1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jj8xanR1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AGPAQUNsbFs7xu-JmL6fLIw.png)
 
 ### 林挺用 SwiftLint 编码
 
@@ -196,7 +196,7 @@ IconGenerator 应用程序可以在 iPhone、iPad、macOS 和 watchOS 应用程�
 
 最后，添加一个新的运行脚本短语，在编译后执行 swiftlint。
 
-[![](../Images/61f10a028c35c725711508b8138fa6d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TqfQmkbz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2280/1%2AySIPs3Y_Y6dgIEhGSuAVjQ.png)
+[![](img/61f10a028c35c725711508b8138fa6d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TqfQmkbz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2280/1%2AySIPs3Y_Y6dgIEhGSuAVjQ.png)
 
 ### 类型安全资源
 
@@ -339,7 +339,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 GitHub 上其实还有很多其他的布局引擎。要了解哪一个适合使用，请查看 [LayoutFrameworkBenchmark](https://github.com/layoutBox/LayoutFrameworkBenchmark) 。
 
-[![](../Images/98fb81b95714fec0a96cce281e18ca4c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4Kh8d-pU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2298/1%2Af8NMEsKqs6n8llxFR8WGuw.png)
+[![](img/98fb81b95714fec0a96cce281e18ca4c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4Kh8d-pU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2298/1%2Af8NMEsKqs6n8llxFR8WGuw.png)
 
 ### 建筑
 
@@ -810,7 +810,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### App 运输安全
 
-[![](../Images/da3d5e4221c9846c95f029accad4a6cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X8pN5d8y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/4000/0%2AtdRZmIGTGEEUmG87.jpg)
+[![](img/da3d5e4221c9846c95f029accad4a6cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X8pN5d8y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/4000/0%2AtdRZmIGTGEEUmG87.jpg)
 
 从 iOS 9 开始，所有 App 都要采用 [App 传输安全](https://developer.apple.com/library/content/releasenotes/General/WhatsNewIniOS/Articles/iOS9.html)
 
@@ -1039,7 +1039,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 > 主线程检查器是一个用于 Swift 和 C 语言的独立工具，可检测后台线程上 AppKit、UIKit 和其他 API 的无效使用。在主线程之外的线程上更新 UI 是一个常见的错误，可能会导致 UI 更新丢失、视觉缺陷、数据损坏和崩溃。
 
-[![](../Images/c2e7f7415fc2051f84fe2a49454213a6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ib7HOSGd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2ADLKXooWl-av-vsT4-qnZtA.png)
+[![](img/c2e7f7415fc2051f84fe2a49454213a6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ib7HOSGd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2ADLKXooWl-av-vsT4-qnZtA.png)
 
 ### 衡量绩效和问题
 

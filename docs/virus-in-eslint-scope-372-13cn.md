@@ -4,9 +4,9 @@
 
 我偶然发现了这个问题，想在这里分享一下。
 
-# [![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) 病毒在 eslint-scope？ #39](https://github.com/eslint/eslint-scope/issues/39) 
+# [![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) 病毒在 eslint-scope？ #39](https://github.com/eslint/eslint-scope/issues/39) 
 
-[![pronebird avatar](../Images/335b8b5d91c591096f9a57543c0e09ef.png)](https://github.com/pronebird) **[pronebird](https://github.com/pronebird)** posted on [<time datetime="2018-07-12T11:17:18Z">Jul 12, 2018</time>](https://github.com/eslint/eslint-scope/issues/39)
+[![pronebird avatar](img/335b8b5d91c591096f9a57543c0e09ef.png)](https://github.com/pronebird) **[pronebird](https://github.com/pronebird)** posted on [<time datetime="2018-07-12T11:17:18Z">Jul 12, 2018</time>](https://github.com/eslint/eslint-scope/issues/39)
 
 ## 更新博文:[https://eslint . org/blog/2018/07/postmortem-for-malicious-package-publishes](https://eslint.org/blog/2018/07/postmortem-for-malicious-package-publishes)
 

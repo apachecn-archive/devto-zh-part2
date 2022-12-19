@@ -14,7 +14,7 @@
 
 根据我创作的原始设计，这是我为第二天准备的:
 
-[![A results page component, with one result entry highlighted to indicate it is sponsored](../Images/9fe4129d7df74f57a1c322abf9568be1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cOdTLPp7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ha402qn8gf6tyl5z8soq.png)
+[![A results page component, with one result entry highlighted to indicate it is sponsored](img/9fe4129d7df74f57a1c322abf9568be1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cOdTLPp7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ha402qn8gf6tyl5z8soq.png)
 
 我的实现相当简单，使用列表视图(目前)；如果你愿意，为了获得额外的积分，你可以使用你从第一周开始制作的电子商务清单，如果这符合你的设计的话。
 

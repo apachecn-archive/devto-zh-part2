@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/tigren5/top-7-pitfalls-of-magento-2-migration---and-how-to-avoid-them-35ka>
 
-[![magento 2 migration pitfalls and difficulties](../Images/4798e525e175e3054cd54c0e034de52a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--l5QI8yni--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.tigren.com/wp-content/uploads/2018/05/magento-2-migration-pitfalls-and-difficulties.png) 
+[![magento 2 migration pitfalls and difficulties](img/4798e525e175e3054cd54c0e034de52a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--l5QI8yni--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.tigren.com/wp-content/uploads/2018/05/magento-2-migration-pitfalls-and-difficulties.png) 
 传闻 Magento 将于 2018 年底停止支持 Magento 1，导致 [Magento 2 迁移](https://www.tigren.com/our-services/magento-migration-service/)需求大幅增加。而且，自从 Magento 最近发布了 Magento 2 版本的持续更新，有了不可思议的改进和增强(最新版本是 [Magento 2.2.4](https://www.tigren.com/magento-2-2-4-release/) )，把 Magento 1 迁移到 Magento 2 的动力变得前所未有的强烈。
 
 以下是 Magento 2 迁移的一些显著优势:

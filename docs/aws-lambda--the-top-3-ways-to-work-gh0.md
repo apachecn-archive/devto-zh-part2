@@ -16,13 +16,13 @@ AWS 兰博达简直不可思议！它们是托管在亚马逊网络服务上的�
 
 创建第一个 lambda 的最简单方法是在 AWS 控制台中创建它。你可以在*服务*下找到 *Lambda* ，带你去 Lambda 控制台。
 
-[![](../Images/2c38920d8cec1f33fa2207c206c0bc53.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jL01wvZl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A23UBDu9eiNn9CasvX9dUqg.png)
+[![](img/2c38920d8cec1f33fa2207c206c0bc53.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jL01wvZl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A23UBDu9eiNn9CasvX9dUqg.png)
 
 如果这是你第一次使用 Lambda，你会看到这个。点击*创建功能*按钮，开始设置您第一个功能。
 
 您将进入设置页面，在这里您可以配置一些功能。你可以从蓝图或无服务器应用程序回购中创建一个 Lambda，但为此我们将从头开始创作。
 
-[![](../Images/e1d1cce22a948290d73fd4fb0991f16e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rLONInQe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AjmKCKMsIPuMLhgsMxNMBog.png)
+[![](img/e1d1cce22a948290d73fd4fb0991f16e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rLONInQe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AjmKCKMsIPuMLhgsMxNMBog.png)
 
 输入您的函数的名称(这对于您的用户或子帐户必须是唯一的)，选择您的运行时(我们将使用 Node.js 8.10)，并选择一个角色。
 
@@ -36,11 +36,11 @@ Lambdas 的一大优势是你可以选择如何编写和编辑它们。主要有
 
 这是您创建函数时进入的屏幕。你会发现有很多事情正在进行。我们现在关心的是*功能代码*部分，大约在中间位置
 
-[![](../Images/4436fd8247b00264dce76235faa8ca20.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Am2SjpR3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AVxeSaa8uQgP92Wl4zCPMUg.png)
+[![](img/4436fd8247b00264dce76235faa8ca20.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Am2SjpR3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AVxeSaa8uQgP92Wl4zCPMUg.png)
 
 在这里我们有一个基本的编辑器。我相信它是基于 Cloud 9 IDE 的，对于简单的 Lambdas 来说非常好用。你可以在下面看到这个处理程序是一个异步函数，因为我选择了使用 Node 8.10。如果你喜欢回调，那么 Node 6.10 就是你的运行时。
 
-[![](../Images/531bb115d80dbf2f879efcf9fa3a8f05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pSR2ONCq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/693/1%2AUkr1dY8xL4mT2IIEw0DVZg.png)
+[![](img/531bb115d80dbf2f879efcf9fa3a8f05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pSR2ONCq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/693/1%2AUkr1dY8xL4mT2IIEw0DVZg.png)
 
 #### **优势**
 
@@ -60,17 +60,17 @@ Lambdas 的一大优势是你可以选择如何编写和编辑它们。主要有
 
 在这里，您可以选择想要在什么样的环境上运行。很棒的一点是 t2.micro 是免费层，所以如果你在免费层，你可以免费使用这个方法。我从来不需要比 t2.micro 更强大的东西。
 
-[![](../Images/5b5ae8082dc684610434116a670f9bf5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_7xQYYPj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/919/1%2AmIMSy6hKCQuer20ZOTjVSQ.png)
+[![](img/5b5ae8082dc684610434116a670f9bf5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_7xQYYPj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/919/1%2AmIMSy6hKCQuer20ZOTjVSQ.png)
 
 从这里继续，您将进入新的云 9 环境！
 
-[![](../Images/3e56397f534f82bbc0745388d526c16d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZOoLqJth--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AuaTpBEey0EHYd-_aWa165g.png)
+[![](img/3e56397f534f82bbc0745388d526c16d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZOoLqJth--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AuaTpBEey0EHYd-_aWa165g.png)
 
 最酷的是，你可以从你的环境内部访问所有的 Lambdas。点击 *AWS 资源*然后在*远程功能*下你会找到你所有的功能。单击您想要编辑的 Lambda，然后点击上面的下载按钮，将它导入到您的环境中。
 
 一旦完成，就像你在本地工作一样。
 
-[![](../Images/19ed076b6584652c77df9dd7f537799e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EdLzHBl4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/733/1%2AP2Y6g3Juw5T7lltbooxhbg.png)
+[![](img/19ed076b6584652c77df9dd7f537799e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EdLzHBl4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/733/1%2AP2Y6g3Juw5T7lltbooxhbg.png)
 
 完成后，只需从本地列表中选择您一直在使用的功能，然后点击上传按钮。几秒钟之内，您的所有更改都将生效。
 
@@ -88,7 +88,7 @@ Lambdas 的一大优势是你可以选择如何编写和编辑它们。主要有
 
 我要做的有点不同，我会列出优点和缺点，然后告诉你如何做得更好。
 
-[![](../Images/80c449ac4a354791f97385e02f8af859.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--au-T1huz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AXMS7swq0ptF24er7L0fgmg.png)
+[![](img/80c449ac4a354791f97385e02f8af859.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--au-T1huz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AXMS7swq0ptF24er7L0fgmg.png)
 
 #### **优势**
 
@@ -112,7 +112,7 @@ Lambdas 的一大优势是你可以选择如何编写和编辑它们。主要有
 
 在 IAM 管理中，点击*添加用户，*给用户一个名字，选择*程序化访问。*这将允许我们远程充当用户。
 
-[![](../Images/3043818fed8d02229159283522d95b4e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vqYkLqgx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ALkB76XZZwPt6soPHPtWlCQ.png)
+[![](img/3043818fed8d02229159283522d95b4e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vqYkLqgx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ALkB76XZZwPt6soPHPtWlCQ.png)
 
 在权限屏幕中，选择*直接附加现有策略*，并选择*管理员访问。*这将允许您通过 CLI 做任何您想做的事情。如果您愿意，您可以对该用户设置更严格的策略，或者这是供其他人访问的。
 
@@ -138,6 +138,6 @@ cd MyLambdaFunction rm index.zip zip –X –r ./index.zip \* aws lambda update-
 
 为了让这个脚本正常工作，您需要一个这样的文件夹结构。每个 lambda 都有一个包含相关文件的文件夹和一个 region.txt 文件。
 
-[![](../Images/c499c03a3264b92fb4e77e944d23c19e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--899NCQ1f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/270/1%2AXEed7aP1zbg6CyB3B8maWA.png)
+[![](img/c499c03a3264b92fb4e77e944d23c19e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--899NCQ1f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/270/1%2AXEed7aP1zbg6CyB3B8maWA.png)
 
 这个脚本不仅运行基本的 AWS CLI 命令，而且还执行额外的检查，运行 npm 安装并显示进度的详细信息。

@@ -6,7 +6,7 @@
 
 自从我成为一名程序员以来，我一直非常执着于少花钱多办事的想法。从如何过一个充实、有目的、有思想的生活，到如何以最有效的方式重构这一行代码。在编码领域，我一直痴迷于学习新的技能和工具，这些技能和工具可以解锁并释放无限的力量，使我能够通过每一次按键和我投入开发的每一个小时来实现更多。
 
-[![Tidy desktop setup with and iMAC that has a wallpaper prompting you to do more](../Images/569567a6f378434adfd793c73d392046.png "Do More With Less")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yl1Ldoug--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.barbarianmeetscoding.com/images/do-more.jpg)
+[![Tidy desktop setup with and iMAC that has a wallpaper prompting you to do more](img/569567a6f378434adfd793c73d392046.png "Do More With Less")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yl1Ldoug--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.barbarianmeetscoding.cimg/do-more.jpg)
 
 *Unsplash 上卡尔·海尔达尔的照片*
 
@@ -75,7 +75,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 也就是说*找到下一个`'`* 然后 **c** 把`'`里面的东西都换成`WAT`，然后`<ESC>`离开*插入*模式回到*正常*模式。
 
-[![wat](../Images/15549969fc489a924de8c3c63a75e9fd.png "wat")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bwA1NbDb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.barbarianmeetscoding.com/images/wat.jpg)
+[![wat](img/15549969fc489a924de8c3c63a75e9fd.png "wat")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bwA1NbDb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.barbarianmeetscoding.cimg/wat.jpg)
 
 然后你可以 **y** 点击带有`yy`的行(这是 vim 的行话，表示复制)，然后 **p** 点击下面的`p`(也是 vim 的行话，表示粘贴):
 
@@ -117,7 +117,7 @@ const msg = 'WAT' + 'MAN'
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![All kudos to wat](../Images/411e226cda8775674430a9f9e65b4206.png "nanananana WATMAN!")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--do197CHO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.barbarianmeetscoding.com/images/watman.jpg)
+[![All kudos to wat](img/411e226cda8775674430a9f9e65b4206.png "nanananana WATMAN!")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--do197CHO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.barbarianmeetscoding.cimg/watman.jpg)
 
 *来自超级棒的[窟](https://www.destroyallsoftware.com/talks/wat)T3】*
 
@@ -156,13 +156,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在谈谈维姆的黑暗面...即。这个。
 
-[![Classic image with representations of the learning curve of different text editors](../Images/6b5786d19cde9539ab1d9bba8e7f0d81.png "Vim Learning Curve")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cZUuzF9x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.barbarianmeetscoding.com/images/vim-learning-curve.jpg)
+[![Classic image with representations of the learning curve of different text editors](img/6b5786d19cde9539ab1d9bba8e7f0d81.png "Vim Learning Curve")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cZUuzF9x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.barbarianmeetscoding.cimg/vim-learning-curve.jpg)
 
 *来源不明*
 
 还有这个。
 
-[![Classic joke about not being able to leave vim](../Images/a72e89543bf8e43df1c2edd59d186a64.png "Classic")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UCbi-2wC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.barbarianmeetscoding.com/images/cant-leave-vim.jpg)
+[![Classic joke about not being able to leave vim](img/a72e89543bf8e43df1c2edd59d186a64.png "Classic")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UCbi-2wC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.barbarianmeetscoding.cimg/cant-leave-vim.jpg)
 
 陡峭的学习曲线有些夸张，退出 vim 的笑话已经变得很老了。事实是，至少有三个因素导致了这种陡峭的学习曲线，并使 vim 对粗心的旅行者来说不太容易接近。
 
@@ -217,11 +217,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 vim 难学的最后一点是， **vim 给你的第一印象[恐怖](https://github.com/neovim/neovim/issues/276)** 。您输入`vim`(或者对于 Mac GUI 输入`mvim`，对于 Windows 和 UNIX GUI 输入`gvim`)欢迎使用 vim！
 
-[![The white screen of paleness that greets you the first time you open vim](../Images/38cd2582a65f1236b7ebf05a48f75f61.png "Welcome To Vim!!")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tQNdGb-O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.barbarianmeetscoding.com/images/welcome-to-vim.jpg)
+[![The white screen of paleness that greets you the first time you open vim](img/38cd2582a65f1236b7ebf05a48f75f61.png "Welcome To Vim!!")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tQNdGb-O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.barbarianmeetscoding.cimg/welcome-to-vim.jpg)
 
 这就是你必须要做的(如果你在终端上打开它，它可能是黑底白字)。打开一个文件(比如我的`.vimrc`),没有语法高亮显示:
 
-[![The white screen of paleness that greets you the first time you open vim. This time showing a file with no syntax highlighting](../Images/0dcc003958e1daab417e4bbfb98b34db.png "Welcome To Vim part 2!!")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9b9PIhJ7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.barbarianmeetscoding.com/images/welcome-to-vim-ii.jpg)
+[![The white screen of paleness that greets you the first time you open vim. This time showing a file with no syntax highlighting](img/0dcc003958e1daab417e4bbfb98b34db.png "Welcome To Vim part 2!!")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9b9PIhJ7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.barbarianmeetscoding.cimg/welcome-to-vim-ii.jpg)
 
 这是一个非常糟糕的第一印象，因此我已经两次放弃学习 vim 了。(*我们来学 vim 吧！打开 vim！没时间了...*)
 
@@ -267,7 +267,7 @@ Wop！这比我预期的要长一些。希望您学到了一些东西，发现�
 > 
 > 感谢你
 > 
-> [![bokwoon95 image](../Images/4cbea99c443ab4c64d4f434168ee8dad.png)](/bokwoon95)
+> [![bokwoon95 image](img/4cbea99c443ab4c64d4f434168ee8dad.png)](/bokwoon95)
 > 
 > ## [bokwoon95](/bokwoon95)
 > 

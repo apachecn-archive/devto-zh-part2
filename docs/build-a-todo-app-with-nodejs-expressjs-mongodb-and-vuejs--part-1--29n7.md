@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/abiodunjames/build-a-todo-app-with-nodejs-expressjs-mongodb-and-vuejs--part-1--29n7>
 
-[![Hint: This is what the final result would look like.](../Images/cc7ca7e0a98822ac5f976e6b0297e456.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2XntgCA3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/samueljames/image/upload/v1570890498/frontendtest.gif)
+[![Hint: This is what the final result would look like.](img/cc7ca7e0a98822ac5f976e6b0297e456.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2XntgCA3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/samueljames/image/upload/v1570890498/frontendtest.gif)
 
 在本教程中，我们将使用 Node 构建著名的 todo 应用程序。Js 使用了[ExpressJs](https://expressjs.com/)框架和 [MongoDB](%5Bhttps://MongoDB.com%5D) 。我忘记告诉你了吗？该应用将是以 API 为中心的全栈:)。
 

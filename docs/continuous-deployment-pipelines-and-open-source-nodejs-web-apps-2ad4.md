@@ -6,4 +6,4 @@
 
 [读读♻️](https://auth0.com/blog/continuous-deployment-pipelines-and-open-source-node-js-web-apps/?utm_source=dev&utm_medium=sc&utm_campaign=cd_nodejs)
 
-[![Continuous Deployment Pipelines and Open-Source Node.js Web Apps](../Images/34f5880ed02c821c9b33cf768990ba5a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EEE39y8V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/shqniahzv3i2wym6vznr.png)
+[![Continuous Deployment Pipelines and Open-Source Node.js Web Apps](img/34f5880ed02c821c9b33cf768990ba5a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EEE39y8V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/shqniahzv3i2wym6vznr.png)

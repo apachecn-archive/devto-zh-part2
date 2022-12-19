@@ -6,7 +6,7 @@
 
 ### 什么是拉取请求(PR)？
 
-[![](../Images/6a0cf3c9d0d55efd705a5480caebcb67.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--biyc5GSc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/306/1%2AVaJjpzF3103dSFJ_CE2Iiw.jpeg)
+[![](img/6a0cf3c9d0d55efd705a5480caebcb67.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--biyc5GSc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/306/1%2AVaJjpzF3103dSFJ_CE2Iiw.jpeg)
 
 这是一个改变存储库中代码的请求。一旦你在代码中做了你需要的修改，你提交一个 PR。一旦提交，感兴趣的各方将执行代码审查，并向您提供任何反馈/所需的更改。
 
@@ -34,7 +34,7 @@
 
 #### 在您的 PR 上添加评论
 
-[![How-to-add-a-code-comment](../Images/2af48984cc95a3f2787c45861a7d0d84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L0fhD9z1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9a9ui3sall6fbf08yokx.gif)
+[![How-to-add-a-code-comment](img/2af48984cc95a3f2787c45861a7d0d84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L0fhD9z1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9a9ui3sall6fbf08yokx.gif)
 
 <figcaption>How to add a code comment</figcaption>
 
@@ -96,7 +96,7 @@
 
 #### 使用表情符号
 
-[![](../Images/121768dc347f1294359795ddb6c8741c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IEpzOaiB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/225/1%2AZ2daFSeH84K2Y7L0TS6GgA.png)
+[![](img/121768dc347f1294359795ddb6c8741c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IEpzOaiB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/225/1%2AZ2daFSeH84K2Y7L0TS6GgA.png)
 
 网上的批评很容易被曲解。因此，表情符号是在线交流的最佳工具之一。使用它们会自动给你的句子增加友好的语气。当你开始觉得谈话变得太严肃时，就用它 **。**但如果那不是你，那就不要勉强，保持真实。
 
@@ -136,7 +136,7 @@
 
 #### 让你的提交信息清晰可见
 
-[![](../Images/ce0d4054ff1ecf30b86fd366ead5840f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GD0l0-Mt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/436/1%2ApbuzadnGkN6Il2nsrmAIYw.png) 
+[![](img/ce0d4054ff1ecf30b86fd366ead5840f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GD0l0-Mt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/436/1%2ApbuzadnGkN6Il2nsrmAIYw.png) 
 
 <figcaption>Gitmoji —提交示例</figcaption>
 

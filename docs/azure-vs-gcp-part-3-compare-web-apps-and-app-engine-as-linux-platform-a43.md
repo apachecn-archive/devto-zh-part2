@@ -25,16 +25,16 @@ Windows 现在支持 docker，但是你需要安装它。
 ## 部署为 docker 容器
 
 1.要使用 docker，您需要启用它。这可以在项目创建时完成，或者像本文一样稍后完成。右键单击项目|添加| Docker 支持。
-[![docker](../Images/22ee3711faac193a78505c8b843a7bf3.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--8zvvMJn7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qzamsot4zfy6emr8fpm0.PNG)
+[![docker](img/22ee3711faac193a78505c8b843a7bf3.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--8zvvMJn7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qzamsot4zfy6emr8fpm0.PNG)
 
 2.选择“Linux”作为目标操作系统。
-[![docker](../Images/2dd1b74d53f2f90baa3780932b9ec04f.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--_IukHhb2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wj70uf4bmfxqpuur5m6q.PNG)
+[![docker](img/2dd1b74d53f2f90baa3780932b9ec04f.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--_IukHhb2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wj70uf4bmfxqpuur5m6q.PNG)
 
 3.现在这个解决方案有了 docker-compose 项目。右键单击项目，然后单击“发布”。单击“创建新配置文件”。
-[![publish](../Images/ef4ac759a6201e0f1db0623785021c9b.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--WL_oJrRb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/us34vey7l0s9xmyt6z90.PNG)
+[![publish](img/ef4ac759a6201e0f1db0623785021c9b.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--WL_oJrRb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/us34vey7l0s9xmyt6z90.PNG)
 
 4.Visual Studio 2017 检测 docker 支持，给我们 Linux(甚至容器注册表)选项。选择“微软 Azure App Service Linux”，点击“发布”。
-[![publish](../Images/7d57232481ef808a7daed274cad798a6.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--z4EY61Y2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lbw0h9e6wvv4ffaj1f0u.PNG)
+[![publish](img/7d57232481ef808a7daed274cad798a6.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--z4EY61Y2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lbw0h9e6wvv4ffaj1f0u.PNG)
 
 5.创建新的资源组和应用服务计划。这里有一个警告。
 
@@ -42,13 +42,13 @@ Windows 现在支持 docker，但是你需要安装它。
 *   Linux 平台没有“免费”计划。
 
 因此，我在这里指定了新的资源组和“S1”应用服务计划。请记下应用服务计划名称，以便稍后使用。
-[![publish](../Images/74fccbc9f2c12b380c3c0dccca64f20e.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--MbMdx1w7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yt85npei6b643o6pnhgx.PNG)
+[![publish](img/74fccbc9f2c12b380c3c0dccca64f20e.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--MbMdx1w7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yt85npei6b643o6pnhgx.PNG)
 
 6.那就等着吧。这需要一点时间，所以如果你想喝咖啡的话。同时，Visual Studio 在 Azure 中创建资源，将映像推送到注册表，并部署它。
-[![publish](../Images/9f12143661bd123fd796e854ad7cec55.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--meIKvV-2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9rlzm7lubacoryav5mty.PNG)
+[![publish](img/9f12143661bd123fd796e854ad7cec55.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--meIKvV-2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9rlzm7lubacoryav5mty.PNG)
 
 7.部署完成后，访问站点 URL。
-[![publish](../Images/7f5b45f73b878e61222edeea650db976.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--Kzg39XhI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fwnnyt66y8cpb7xdjngq.PNG)
+[![publish](img/7f5b45f73b878e61222edeea650db976.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--Kzg39XhI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fwnnyt66y8cpb7xdjngq.PNG)
 
 ## 部署到 dotnet core 2.0 运行时
 
@@ -57,7 +57,7 @@ Web Apps 还提供了 dotnet core 2.0 运行时环境。它的工作原理与 Wi
 让我们通过重用上面创建的资源组来创建新的 Web 应用程序。我使用嵌入在门户中的 CLI 功能。
 
 1.进入 [Azure 门户](https://portal.azure.com)，点击顶部菜单栏上的“云壳”图标。
-T3![portal](../Images/81cba2018bc4f422f72430d2a1d2202b.png)T5】
+T3![portal](img/81cba2018bc4f422f72430d2a1d2202b.png)T5】
 
 2.运行以下命令在 Linux 上创建新的 Web 应用程序。将上面创建的计划名称替换为您。Web 应用程序名称必须是全球唯一的。'- deployment-local-git '参数告诉 Web 应用程序我使用 git push 来部署。
 
@@ -82,22 +82,22 @@ az webapp deployment user set --user-name <username> --password <password>
 Enter fullscreen mode Exit fullscreen mode
 
 5.如果您还没有初始化 git，右键单击 solution 并选择“将解决方案添加到源代码管理”。
-[![git](../Images/5fda35e2e4f4a14627c7b914115738a7.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--ElffTBgr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qo90882axxy9elfb1i2r.PNG)
+[![git](img/5fda35e2e4f4a14627c7b914115738a7.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--ElffTBgr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qo90882axxy9elfb1i2r.PNG)
 
 6.转到“团队资源管理器”并单击“同步”。
-[![git](../Images/30a214809e29258bb219abab69883e1c.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--hdWi4nyb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8qg5u7207efhnhgi2iu7.PNG)
+[![git](img/30a214809e29258bb219abab69883e1c.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--hdWi4nyb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8qg5u7207efhnhgi2iu7.PNG)
 
 7.选择“发布 Git Repo”。
-[![git](../Images/06f313b92168eccf388914b7eea7327f.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cq06eS6m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7kksu3q1d080v5kuy07t.PNG)
+[![git](img/06f313b92168eccf388914b7eea7327f.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cq06eS6m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7kksu3q1d080v5kuy07t.PNG)
 
 8.输入您在上一步中获得的 git 地址，然后单击“发布”。
-[![git](../Images/28b82a918fc209fab59bf7e49b726095.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--1MqNdYrX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7te3ar7o41qt4h94cost.PNG)
+[![git](img/28b82a918fc209fab59bf7e49b726095.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--1MqNdYrX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7te3ar7o41qt4h94cost.PNG)
 
 9.输入您在上一步中设置的用户名和密码，并等待推送完成。初推需要时间。
-[![git](../Images/dbbe7c1fd4105654e4ebee0c18bd927b.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--K5y9ono---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7r6d5bxrax0ezpuovfis.PNG)
+[![git](img/dbbe7c1fd4105654e4ebee0c18bd927b.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--K5y9ono---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7r6d5bxrax0ezpuovfis.PNG)
 
 嗯，这应该可以，但是我遇到了一个问题，我无法使用这种方法成功部署。我可能错过了什么或临时的问题？无论如何，这是我得到的错误。
-[![git](../Images/06987cfc94cedc84336f06256748da70.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--utDhHUaf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cptt3bq1sy8y48oz2t0l.PNG)
+[![git](img/06987cfc94cedc84336f06256748da70.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--utDhHUaf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cptt3bq1sy8y48oz2t0l.PNG)
 
 正如我们可以通过 Git 部署一样，我们也可以通过 Visual Studio 2017 或 shell 轻松部署。
 
@@ -110,11 +110,11 @@ Enter fullscreen mode Exit fullscreen mode
 正如在[第 1 部分](https://dev.to/kenakamu/azure-vs-gcp-part-1-aspnet-developer-experience-22i)中测试的那样，部署到灵活的应用引擎非常简单。但是如果你想定制环境，你可以这样做。
 
 1.由于我在上一步中添加了 docker 支持，已经把项目搞砸了，所以让我们从头开始重新创建新的应用程序。我创建了“WebApplication2”项目。
-[![app](../Images/55d073ee3087298a442491fd64d70bce.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--ppe-O11T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vo1zwn2dfzfmyp9aqcep.PNG)
+[![app](img/55d073ee3087298a442491fd64d70bce.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--ppe-O11T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vo1zwn2dfzfmyp9aqcep.PNG)
 
 2.右键项目，选择“生成 app.yaml 和 Dockerfile”。
 
-[![publish](../Images/5c117ca5f159cb8d46601e70367e7484.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UNDQeiM_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qac3n5oxeocruqua5l3r.PNG)
+[![publish](img/5c117ca5f159cb8d46601e70367e7484.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UNDQeiM_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qac3n5oxeocruqua5l3r.PNG)
 
 3.创建 app.yaml 和 DockerFile。然后，您可以修改文件并发布。例如，您可以指定需要多少个实例以及每个实例的资源。
 

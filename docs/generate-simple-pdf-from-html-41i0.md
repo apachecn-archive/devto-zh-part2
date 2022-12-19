@@ -6,7 +6,7 @@
 
 使用[木偶师](https://github.com/GoogleChrome/puppeteer) & [手柄](http://handlebarsjs.com/)从 HTML 生成简单的 PDF 发票
 
-[![Invoice](../Images/515d9fa35eb8efa7aa66e37b644b98fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ux4d0kvB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/chuongtrh/html_to_pdf/master/screenshot/invoice.png)
+[![Invoice](img/515d9fa35eb8efa7aa66e37b644b98fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ux4d0kvB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/chuongtrh/html_to_pdf/master/screenshot/invoice.png)
 
 ## 介绍
 
@@ -100,7 +100,7 @@ Enter fullscreen mode Exit fullscreen mode
 Enter fullscreen mode Exit fullscreen mode
 
 改变`isWatermark: true`并再次运行`node pdf.js`
-[![Invoice with stamp paid watermark](../Images/5a558d7d16777eed0de787d0aa54bfe7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CSidnRH0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/chuongtrh/html_to_pdf/master/screenshot/invoice_paid.png)
+[![Invoice with stamp paid watermark](img/5a558d7d16777eed0de787d0aa54bfe7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CSidnRH0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/chuongtrh/html_to_pdf/master/screenshot/invoice_paid.png)
 
 你可以在 [Github](https://github.com/chuongtrh/html_to_pdf) 找到源代码
 

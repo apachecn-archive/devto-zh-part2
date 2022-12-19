@@ -6,7 +6,7 @@
 
 您终端中的主题。
 
-[![iterm](../Images/b8cce32f24353a7a83e1b70529e7dcbc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZtWjSPmt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/08s39dy82tg2861y92x6.gif)
+[![iterm](img/b8cce32f24353a7a83e1b70529e7dcbc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZtWjSPmt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/08s39dy82tg2861y92x6.gif)
 
 ## 安装
 

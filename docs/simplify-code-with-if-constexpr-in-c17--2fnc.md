@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/fenbf/simplify-code-with-if-constexpr-in-c17--2fnc>
 
-[![Simplify your code with if constexpr in C++17](../Images/dadd349e92a2ea6f029dff0005569c51.png)T2】](http://www.bfilipek.com/2018/03/ifconstexpr.html)
+[![Simplify your code with if constexpr in C++17](img/dadd349e92a2ea6f029dff0005569c51.png)T2】](http://www.bfilipek.com/2018/03/ifconstexpr.html)
 
 在 C++17 之前，我们有一些很难看的方式在 C++中编写`static if` ( `if`在编译时工作):你可以使用标签分派或 [SFINAE](http://www.bfilipek.com/2016/02/notes-on-c-sfinae.html) (例如通过`std::enable_if`)。幸运的是，这种情况已经改变了，我们现在可以从`if constexpr`中获益了！
 

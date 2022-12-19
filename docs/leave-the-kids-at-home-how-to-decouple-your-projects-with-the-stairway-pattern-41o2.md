@@ -44,7 +44,7 @@
 
 客户端应该只依赖于一个接口，该接口可以与客户端位于同一个项目中，也可以位于单独的程序集中。它被称为楼梯模式，因为显示依赖关系的 UML 图看起来…像楼梯。
 
-[![UML Diagram showing the stair shape of dependencies](../Images/fe1be7936a4570022c6a11538de5b40c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DEdikfhn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://purple.pizza/public/stairway.jpg)
+[![UML Diagram showing the stair shape of dependencies](img/fe1be7936a4570022c6a11538de5b40c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DEdikfhn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://purple.pizza/public/stairway.jpg)
 
 对于我们的电子签名示例，我们可以将我们的`DocuSignService`放在一个单独的`ServiceImplementations`项目中，这样它就可以从业务逻辑项目中分离出来，直到需要它的时候。
 

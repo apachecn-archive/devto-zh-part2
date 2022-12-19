@@ -14,14 +14,14 @@
 
 我设计它是为了鼓励和实现有意识的专注和重复的日常实践，以创造新的神经通路，引导有意识的生活，远离潜意识的反应。在我们匆忙的生活方式中，我们的注意力和焦点不断偏离我们的目标和意图，因为我们受到最新媒体驱动的恐惧和持续感知的对我们生存的威胁的轰炸。虽然技术在许多方面改善了我们的生活，但我相信它可以更有益地用于创造和发展对我们世界的正念和更健康的观点。
 
-[![](../Images/7fcbce08a191d25d252a57c410084fd3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WX-l2q8F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/atxrenegade/AM_PM_pages/blob/master/public/site_design_mockups/Screen%2520Shot%25202018-10-14%2520at%252010.04.56%2520AM.png%3Fraw%3Dtrue)
+[![](img/7fcbce08a191d25d252a57c410084fd3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WX-l2q8F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/atxrenegade/AM_PM_pages/blob/master/public/site_design_mockups/Screen%2520Shot%25202018-10-14%2520at%252010.04.56%2520AM.png%3Fraw%3Dtrue)
 
 ### 流程
 
 所以更多关于应用程序。这一过程中我最喜欢的部分之一，是完全从零开始。零起点意味着我确切地知道我从哪里开始，并允许我创建一个流畅的系统化的一步一步地从头开始建设的方法(哈，至少在我的脑海中)。这使得我可以创建每个文件，编写每一行代码，除了我为 css 样式定制的一个小框架和 README.md 模板中的几行代码。我能够非常熟悉我的应用程序的每一部分。由于这是一个简单的 Sinatra 应用程序，使用模型视图控制器架构来实现 CRUD(创建读取更新删除)功能，我对这个过程感到相当满意，因为在整个 Sinatra 部分，我们被要求多次完成类似的项目。在经历了几次小的颠簸之后，我开始想当然地认为这个过程很容易，但我遇到了第一个路障/挑战。
 下图反映的是 MVC 架构的基本结构。
 
-[![](../Images/6d1bc5419bc3ea4f541de31a73e0e7e2.png)T5】](https://res.cloudinary.com/practicaldev/image/fetch/s--1I4VmaZs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://smist08.files.wordpress.com/2013/11/mvc3.png)
+[![](img/6d1bc5419bc3ea4f541de31a73e0e7e2.png)T5】](https://res.cloudinary.com/practicaldev/image/fetch/s--1I4VmaZs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://smist08.files.wordpress.com/2013/11/mvc3.png)
 
 ## 减速带和路障
 
@@ -33,7 +33,7 @@
 
 AMEntrys 还是 AMEntries？
 PMEntrys 还是 pmentry？由于 ActiveRecord 确实识别语法正确的复数形式，并且由于我过于谨慎，所以我必须更新我所有的类名和表名。很容易解决。总的来说，命名惯例对我来说是一个痛处，所以作为参考，我创建了一个表格来提醒自己，因为我似乎很痛苦地无法保留它们。
-T8[T10](https://res.cloudinary.com/practicaldev/image/fetch/s--OnOHvf_H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/atxrenegade/AM_PM_pages/blob/master/public/images/ActiveRecordNamingConventions.png%3Fraw%3Dtrue)T12】
+T8[T10](https://res.cloudinary.com/practicaldev/image/fetch/s--OnOHvf_H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/atxrenegade/AM_PM_pages/blob/master/publimg/ActiveRecordNamingConventions.png%3Fraw%3Dtrue)T12】
 
 #### 按字母顺序加载控制器
 
@@ -81,7 +81,7 @@ T8[T10](https://res.cloudinary.com/practicaldev/image/fetch/s--OnOHvf_H--/c_limi
 
 如上所述，我想添加媒体查询，使这个应用程序移动和桌面准备就绪。
 
-[![](../Images/6fed6609379535c300376c67daf7357d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0-2i7tTu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://webizrada.org/wp-content/uploads/2015/11/mobile-ready.jpg)
+[![](img/6fed6609379535c300376c67daf7357d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0-2i7tTu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://webizrada.org/wp-content/uploads/2015/11/mobile-ready.jpg)
 
 ## 所以我得出结论…
 

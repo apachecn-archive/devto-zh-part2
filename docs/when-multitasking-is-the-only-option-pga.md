@@ -4,7 +4,7 @@
 
 多重任务是不存在的。所有的科学都告诉我们，我们只能转换任务。而且任务切换对我们真的不好。每次我们转换任务，我们都会增加我们的认知负荷，使我们在试图同时完成所有任务时效率更低。已经有很多关于这个话题的文章，试图证明创造人们可以集中注意力的工作环境是合理的。
 
-[![](../Images/beb21e57c3a10326adaf2621e412e48d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J1FtRj7E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.professorbeekums.com/img/2018/multitasking.jpg)
+[![](img/beb21e57c3a10326adaf2621e412e48d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J1FtRj7E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.professorbeekums.com/img/2018/multitasking.jpg)
 
 这是一个令人钦佩的目标，但在许多情况下是完全不现实的。对于一些工作来说，同时应付许多任务是这个角色的核心部分。任何兼任系统管理员的项目经理或开发人员都可以证明这一点。我绝对有过这样的角色，我很幸运能有一个小时不被打扰。
 

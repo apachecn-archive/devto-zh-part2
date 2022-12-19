@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nikolaotasevic/dynamic-programming--7-steps-to-solve-any-dp-interview-problem-3870>
 
-[![Alt text of image](../Images/e46a16bceab978fe91e416591c449417.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MvNWeOTC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.refdash.com/wp-content/uploads/2018/05/farzad-nazifi-71686-unsplash-e1526498488444-2000x1200.jpg)
+[![Alt text of image](img/e46a16bceab978fe91e416591c449417.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MvNWeOTC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.refdash.com/wp-content/uploads/2018/05/farzad-nazifi-71686-unsplash-e1526498488444-2000x1200.jpg)
 
 # 动态规划——解决任何 DP 面试问题的 7 个步骤
 
@@ -40,7 +40,7 @@
 
 ### 问题陈述:
 
-[![Alt text of image](../Images/054079cbc075d6d37917ae82028fb171.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--84sLt4Wj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://j.gifs.com/BLj1o2.gif)
+[![Alt text of image](img/054079cbc075d6d37917ae82028fb171.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--84sLt4Wj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://j.gifs.com/BLj1o2.gif)
 
 在这个问题中，我们在一个疯狂跳跃的球上，试图停下来，同时避免沿途的尖峰。
 
@@ -50,13 +50,13 @@
 
 示例数组表示
 
-[![Alt text of image](../Images/8177e6e188043c61bde5e192155b907f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BJ7UMtL0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.refdash.com/wp-content/uploads/2018/05/post_illustration_1.jpg)
+[![Alt text of image](img/8177e6e188043c61bde5e192155b907f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BJ7UMtL0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.refdash.com/wp-content/uploads/2018/05/post_illustration_1.jpg)
 
 2)给你一个开始速度 S，S 在任何给定点都是一个非负整数，它表示下一次跳跃你将向前移动多少。
 
 3)每一次定点着陆，在下一次跳跃之前，最多可以调整 1 个单位的速度。
 
-[![Alt text of image](../Images/c54aca7064c2adcc3ee9dd2a838895e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ffhiSp3O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.refdash.com/wp-content/uploads/2018/05/post_illustration.jpg)
+[![Alt text of image](img/c54aca7064c2adcc3ee9dd2a838895e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ffhiSp3O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.refdash.com/wp-content/uploads/2018/05/post_illustration.jpg)
 
 4)您想要安全地停在跑道上的任何地方(不需要在阵列的末端)。当你的速度变成 0 时，你停下来。然而，如果你在任何一点落在钉子上，你疯狂的弹跳球就会爆裂，游戏就结束了。
 
@@ -143,7 +143,7 @@
 
 为了决定是迭代还是递归，你需要仔细考虑权衡。
 
-[![Alt text of image](../Images/5c743e9965d222ddf92d38533eef4857.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sFxfAasD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7adrih3tf5ajcaoi9zk2.png)
+[![Alt text of image](img/5c743e9965d222ddf92d38533eef4857.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sFxfAasD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7adrih3tf5ajcaoi9zk2.png)
 
 堆栈溢出问题通常是交易的破坏者，也是你不希望在(后端)生产系统中使用递归的原因。然而，出于采访的目的，只要你提到了权衡，你通常对这两种实现都没问题。您应该对实现这两者感到满意。
 
@@ -151,10 +151,10 @@
 
 递归解决方案:(原始代码片段可以在[这里](http://blog.refdash.com/dynamic-programming-tutorial-example/)找到)
 
-[![Alt text of image](../Images/a14d1d2ca7b138a067fc1c87d4485000.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cKzfblKm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1n3bk5kh87s0kvsltk5p.png)
+[![Alt text of image](img/a14d1d2ca7b138a067fc1c87d4485000.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cKzfblKm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1n3bk5kh87s0kvsltk5p.png)
 
 一个迭代的解决方案:(原代码片段可以在这里找到)
-[![Alt text of image](../Images/2e067d0033f73911a4bd9a61fb8463c7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sk_pzrvt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4pngdhmmp6w3mafx9tnl.png)
+[![Alt text of image](img/2e067d0033f73911a4bd9a61fb8463c7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sk_pzrvt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4pngdhmmp6w3mafx9tnl.png)
 
 ## 第六步:添加记忆
 
@@ -169,7 +169,7 @@
 
 下面是上面添加了记忆的代码(添加的行突出显示):
 
-[![Alt text of image](../Images/0542c5d182b77857d2726b9a9156b586.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WqaHI322--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yg5r3etvogo9t7as3c8b.png)
+[![Alt text of image](img/0542c5d182b77857d2726b9a9156b586.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WqaHI322--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yg5r3etvogo9t7as3c8b.png)
 
 为了说明记忆和不同方法的有效性，让我们做一些快速测试。我将对目前为止我们看到的所有三种方法进行压力测试。这里是设置:
 
@@ -179,7 +179,7 @@
 
 以下是结果(秒):
 
-[![Alt text of image](../Images/a790e89c53d44da63e663e0a37852f44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8SuxvJDY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x3g2a42mrxbotpf5j5lb.png)
+[![Alt text of image](img/a790e89c53d44da63e663e0a37852f44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8SuxvJDY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x3g2a42mrxbotpf5j5lb.png)
 
 您可以看到，纯递归方法比迭代方法多花费大约 500 倍的时间，比带记忆的递归方法多花费大约 1300 倍的时间。请注意，这种差异会随着跑道长度的增加而迅速增加。我鼓励你尝试自己运行它。
 
@@ -203,7 +203,7 @@
 
 因此，让我们看看如何对|S|进行更严格的限制。我们称最大速度为 s，假设我们从位置 0 开始。如果我们试图尽快停止，并且忽略潜在的峰值，我们能多快停止？
 
-[![Alt text of image](../Images/1c21c9634789d87c275de946e9b53031.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XwbRebe---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ux2k2k57e1ky4xzjdx0u.png)
+[![Alt text of image](img/1c21c9634789d87c275de946e9b53031.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XwbRebe---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ux2k2k57e1ky4xzjdx0u.png)
 
 在第一次迭代中，我们必须至少到达点(S-1 ),通过将我们的速度从零调整-1。从那里我们至少要向前走(S-2)步，以此类推。
 

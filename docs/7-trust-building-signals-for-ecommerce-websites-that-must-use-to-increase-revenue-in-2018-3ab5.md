@@ -16,7 +16,7 @@
 
 > “18%的美国购物者放弃结账，因为他们不信任网站提供的信用卡信息。”贝马尔德
 
-[![resons adandonment during checkout](../Images/516196556910f34ebd2d61cccc8090af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JAdqyq7j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lsd0rxj27hqej10ljxny.jpg)
+[![resons adandonment during checkout](img/516196556910f34ebd2d61cccc8090af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JAdqyq7j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lsd0rxj27hqej10ljxny.jpg)
 
 Javelin Strategy & Research 的另一项研究得出结论，2016 年身份欺诈创下历史新高。
 
@@ -24,7 +24,7 @@ Javelin Strategy & Research 的另一项研究得出结论，2016 年身份欺�
 
 在过去的六年里，数据欺诈罪犯窃取了价值超过 1070 亿美元的关键数据。
 
-[![total fraud victims](../Images/22fefadecebda2eb7f43831d82c77560.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wgke6I2_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7jt8u4k7zm4q8e6ln8wc.png)
+[![total fraud victims](img/22fefadecebda2eb7f43831d82c77560.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wgke6I2_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7jt8u4k7zm4q8e6ln8wc.png)
 
 ### 建立信任的信号如何导致网上销售的增加？
 
@@ -38,7 +38,7 @@ Javelin Strategy & Research 的另一项研究得出结论，2016 年身份欺�
 
 这样的报道加剧了商业腐败，例如尺八公司接受了他们没有的股票需求或者没有满足需求。看到像这样的网站发大财是非常可怕的，而许多真正的、专注的企业家正在拼命赚钱！
 
-[![Trust Building Signals](../Images/b8e06c7100aa1ba71c8f36ab28f59f21.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ydr46iit--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0q2knp49sh7bcetlo9zi.jpg)
+[![Trust Building Signals](img/b8e06c7100aa1ba71c8f36ab28f59f21.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ydr46iit--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0q2knp49sh7bcetlo9zi.jpg)
 
 在检查了这样的报告后，我们可以直截了当地得出结论，为什么人们在他们的网站上放置股票时会遇到相当大的困难。
 
@@ -50,7 +50,7 @@ Javelin Strategy & Research 的另一项研究得出结论，2016 年身份欺�
 
 因此， [EXPO](https://www.prnewswire.com/news-releases/expo-survey-finds-98-of-american-adults-consider-consumer-generated-product-reviews-helpful-for-holiday-shopping-184270281.html) 进行的一项自主调查显示，98%的美国人在下次度假购物时更依赖于一年前顾客对产品的评价。它强调客户生成评级和评论的重要性，这在包括沃尔玛、亚马逊和百思买在内的顶级电子商务品牌上显而易见。
 
-[![Reviews by Real Customers](../Images/32590d35b9062ef7533c15ed73f8e6ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WlpOMiR7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sr9oz1bi66fmeo2nbu1i.png)
+[![Reviews by Real Customers](img/32590d35b9062ef7533c15ed73f8e6ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WlpOMiR7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sr9oz1bi66fmeo2nbu1i.png)
 
 上面给出的图片展示了亚马逊对顾客评分和评论的重视程度。
 
@@ -65,7 +65,7 @@ Javelin Strategy & Research 的另一项研究得出结论，2016 年身份欺�
 
 最佳做法是尽可能多地提供撰写证明的客户的相关数据，包括姓名、地点、图像和视频(如果可能)。你可能会想，“哇，我没有这么详细的推荐材料！”别担心，任何简单的证明都比没有证明好。简单看一下这个 [A/B 测试](https://www.semrush.com/blog/ab-testing-landing-page-elements/)案例。
 
-[![Real Testimonials](../Images/6c4ce07be35ee4ce709818e8a068e1f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s1IwlvNT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ermzdxez1bkylfahwa6j.png)
+[![Real Testimonials](img/6c4ce07be35ee4ce709818e8a068e1f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s1IwlvNT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ermzdxez1bkylfahwa6j.png)
 
 ## 3)联系和沟通
 
@@ -85,13 +85,13 @@ Javelin Strategy & Research 的另一项研究得出结论，2016 年身份欺�
 
 因此， [Blue Fountain Media](https://www.bluefountainmedia.com/blog/verisign-seal-increase-conversions/) 在其框架页面上展示了 VeriSign(现为 Symantec)信任印章。因此，其覆盖面扩大了 42%。
 
-[![Secure Payment gateway Vendors](../Images/333bf90e6da537cb392d85325df18af9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7RgkyqIw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uyaof3c6jug0q2naf6r5.png)
+[![Secure Payment gateway Vendors](img/333bf90e6da537cb392d85325df18af9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7RgkyqIw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uyaof3c6jug0q2naf6r5.png)
 
 ## 5)退换货政策
 
 我们知道网上的好东西随时都可能变丑，购物者或网络访问者可能需要退货或更换已经购买的产品。在适当的时候，你必须通过声明退货和退款以及换货政策来表现出你的灵活性和对客户的友好。
 
-[![Exchange and Refund Policy](../Images/84668ceb394f29842eb7d1ffbd6feb20.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6r_1L3XM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u9qtn3fwvkx6di2y74d4.png)
+[![Exchange and Refund Policy](img/84668ceb394f29842eb7d1ffbd6feb20.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6r_1L3XM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u9qtn3fwvkx6di2y74d4.png)
 
 请查看下面的截图，所有这些事情是如何清晰的！
 
@@ -103,7 +103,7 @@ Javelin Strategy & Research 的另一项研究得出结论，2016 年身份欺�
 
 例如:
 
-[![Privacy Policy](../Images/4abeab28989ebde46b8bd900d56713e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aU8uCqyN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l3e7gw3da2ymf1c5llif.jpg)
+[![Privacy Policy](img/4abeab28989ebde46b8bd900d56713e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aU8uCqyN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l3e7gw3da2ymf1c5llif.jpg)
 
 ## 7)社交媒体营销
 

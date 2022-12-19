@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/melezhik/distributing-portable-scripts-with-sparrow-8f4>
 
-[![sparrow tasks](../Images/0bc90b53d0fc473d685cee0caaf44bfe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1U_p-oFd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0xs8lpxxkmdfmy3bhdud.png)
+[![sparrow tasks](img/0bc90b53d0fc473d685cee0caaf44bfe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1U_p-oFd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0xs8lpxxkmdfmy3bhdud.png)
 
 所以，你有很多脚本想要移植到其他服务器或与你的团队分享。
 

@@ -49,7 +49,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在称之为完成之前，还有一件事要检查。
 
-[![Look both ways when crossing the railway.](../Images/b316219f5b5f10c41c69c98e8099ca51.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FM16s4T0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ypt2oip8ba5w2weps3ra.jpg)
+[![Look both ways when crossing the railway.](img/b316219f5b5f10c41c69c98e8099ca51.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FM16s4T0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ypt2oip8ba5w2weps3ra.jpg)
 
 让我们再测试一下我们的传感器。在那些情况下，它仍然有效吗？
 
@@ -86,7 +86,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Confused Baby](../Images/0748c0ba651fab9eb475f194e0b3f2d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hpsw3bZC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2dc49nxku9hnyxqtnjv1.jpg)
+[![Confused Baby](img/0748c0ba651fab9eb475f194e0b3f2d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hpsw3bZC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2dc49nxku9hnyxqtnjv1.jpg)
 
 当我们返回一个同时被两个传感器包装的值时，发生了一些事情:`(reduced (reduced last-value))`
 

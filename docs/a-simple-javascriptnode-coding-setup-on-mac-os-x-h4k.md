@@ -14,26 +14,26 @@
 
 *   iTerm Preferences → Profiles →选择您的配置文件→ Keys 选项卡→ Load Preset… →自然文本编辑(参见 [this StackOverflow answer](https://apple.stackexchange.com/a/218639)
 
-[![](../Images/2184c4779d1cf23dd5dcff39714013ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_e0WVifH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_4D85104EB4612E36D39F1EDC98FBA3CCC5F99A3320C73070E613DFAB4FC5809A_1542554401407_image.png)
+[![](img/2184c4779d1cf23dd5dcff39714013ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_e0WVifH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_4D85104EB4612E36D39F1EDC98FBA3CCC5F99A3320C73070E613DFAB4FC5809A_1542554401407_image.png)
 
 ### 新的会话应该从先前停止的地方开始
 
 *   iTerm 首选项→配置文件→选择您的配置文件→常规选项卡→工作目录部分→重用以前会话的目录选项
 
-[![](../Images/84914abe485e65487c7b01a43b0ab398.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uKLUvW8s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_4D85104EB4612E36D39F1EDC98FBA3CCC5F99A3320C73070E613DFAB4FC5809A_1542554259914_image.png)
+[![](img/84914abe485e65487c7b01a43b0ab398.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uKLUvW8s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_4D85104EB4612E36D39F1EDC98FBA3CCC5F99A3320C73070E613DFAB4FC5809A_1542554259914_image.png)
 
 ### 退出标签页关闭
 
 *   iTerm 首选项→常规，“关闭”→“当所有窗口都关闭时退出”
 
-[![](../Images/3d2e6c51bac11b4026f2143ee7ec59cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A9j9CrI9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_4D85104EB4612E36D39F1EDC98FBA3CCC5F99A3320C73070E613DFAB4FC5809A_1542554318639_image.png)
+[![](img/3d2e6c51bac11b4026f2143ee7ec59cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A9j9CrI9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_4D85104EB4612E36D39F1EDC98FBA3CCC5F99A3320C73070E613DFAB4FC5809A_1542554318639_image.png)
 
 ### 增加字体大小
 
 *   iTerm 首选项→配置文件→选择您的配置文件→文本选项卡→字体部分→更改字体→在弹出窗口中更新字体
 *   16 磅摩纳哥的球迷(12，14 磅太小了)
 
-[![](../Images/65b621eb3bbbded323a6895616933f15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iuIXBecI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_4D85104EB4612E36D39F1EDC98FBA3CCC5F99A3320C73070E613DFAB4FC5809A_1542554456878_image.png)
+[![](img/65b621eb3bbbded323a6895616933f15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iuIXBecI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_4D85104EB4612E36D39F1EDC98FBA3CCC5F99A3320C73070E613DFAB4FC5809A_1542554456878_image.png)
 
 ## 外壳设置
 
@@ -75,7 +75,7 @@
 
 用途:`Shell Command: Install 'code' command in PATH`
 
-[![](../Images/419c7d5865148e80ed917ec3d485f0af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rvtC7-wB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_4D85104EB4612E36D39F1EDC98FBA3CCC5F99A3320C73070E613DFAB4FC5809A_1542556492194_image.png)
+[![](img/419c7d5865148e80ed917ec3d485f0af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rvtC7-wB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_4D85104EB4612E36D39F1EDC98FBA3CCC5F99A3320C73070E613DFAB4FC5809A_1542556492194_image.png)
 
 VSCode 命令行工具使用示例:
 
@@ -99,7 +99,7 @@ VSCode 命令行工具使用示例:
 
 没有太多的生产力应用程序，只有 [Alfred](https://www.alfredapp.com/) 和 [Clipy](https://clipy-app.com/) ，前者是我用来做更好的 Spotlight 搜索的，后者是一个剪贴板管理器。对于剪辑，增加“内联项目”的数量(剪辑→首选项→菜单→内联项目数)。
 
-[![](../Images/e9067c7c41e0d53ac9a8b71c9ece4dc3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vqxy4eXE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_4D85104EB4612E36D39F1EDC98FBA3CCC5F99A3320C73070E613DFAB4FC5809A_1542557479751_image.png)
+[![](img/e9067c7c41e0d53ac9a8b71c9ece4dc3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vqxy4eXE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_4D85104EB4612E36D39F1EDC98FBA3CCC5F99A3320C73070E613DFAB4FC5809A_1542557479751_image.png)
 
 # 工装
 

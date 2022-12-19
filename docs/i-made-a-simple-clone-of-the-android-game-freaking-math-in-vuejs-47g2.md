@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/oaltena_48/i-made-a-simple-clone-of-the-android-game-freaking-math-in-vuejs-47g2>
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png)[【oaltena】](https://github.com/oaltena)/[【vuemath】](https://github.com/oaltena/vuemath)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png)[【oaltena】](https://github.com/oaltena)/[【vuemath】](https://github.com/oaltena/vuemath)
 
 ### 用 VueJs 制作的安卓应用“该死的数学”的克隆版
 
@@ -12,7 +12,7 @@
 
 ## 屏幕上显示程序运行的图片
 
-[![alt text](../Images/17c22b447fbc42fe1faddcee999374a6.png "App Screenshot")T2】](https://raw.githubusercontent.com/oaltena/vuemath/master/public/vuemath-screenshot.png)
+[![alt text](img/17c22b447fbc42fe1faddcee999374a6.png "App Screenshot")T2】](https://raw.githubusercontent.com/oaltena/vuemath/master/public/vuemath-screenshot.png)
 
 ## 项目设置
 

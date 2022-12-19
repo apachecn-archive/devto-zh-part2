@@ -51,29 +51,29 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们看看它在 *Atom* 中的样子:
 
-[![atom screenshot](../Images/109981abd0366bfc8e33ac108ba69b41.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2FTcBo4Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vymggdh9m8h00l2gd0jt.png)
+[![atom screenshot](img/109981abd0366bfc8e33ac108ba69b41.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2FTcBo4Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vymggdh9m8h00l2gd0jt.png)
 
 通过组合这 3 个工具(`phpcs`、`phpmd`和`php-cs-fixer`)，我们可以对当前文件进行实时诊断，内嵌突出显示检测到的违规(错误带有下划线，鼠标悬停时会出现工具提示，相关行的空白处会显示一个图标)，并且`php-cs-fixer`会在保存时自动修复错误。
 
 同样，在 *nvim* 中，错误显示在当前文件下的专用缓冲区中，文件本身包含上下文信息:
 
-[![vim screenshot](../Images/cfe314fcd78169ca6656b3f2ac52a364.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aT_Ax6So--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pqg3uaapojymxifriyst.png)
+[![vim screenshot](img/cfe314fcd78169ca6656b3f2ac52a364.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aT_Ax6So--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pqg3uaapojymxifriyst.png)
 
 如果您正在寻找一个开箱即用的解决方案来改善 vim/neovim 中的开发体验，请看看这个非常棒的🚀项目:
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [太空维姆](https://github.com/SpaceVim) / [太空维姆](https://github.com/SpaceVim/SpaceVim)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [太空维姆](https://github.com/SpaceVim) / [太空维姆](https://github.com/SpaceVim/SpaceVim)
 
 ### 社区驱动的模块化 vim 发行版——终极 vim 配置
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-[![SpaceVim](../Images/ab15f6e1d01afc487bf3b3d025f49323.png)T2】](https://spacevim.org)
+[![SpaceVim](img/ab15f6e1d01afc487bf3b3d025f49323.png)T2】](https://spacevim.org)
 
 [Wiki](https://github.com/SpaceVim/SpaceVim/wiki) | [社区](https://spacevim.org/community/) | [赞助商](https://spacevim.org/sponsors/)|[Twitter](https://twitter.com/SpaceVim)|[Gitter**Chat**](https://gitter.im/SpaceVim/SpaceVim)|[中文官网](https://spacevim.org/cn/)
 
-[![build](../Images/73e42f064df7db857c38b910bb940987.png)](https://github.com/SpaceVim/SpaceVim/actions?query=workflow%3Abuild)[![codecov](../Images/75febda267e61d97f944b008f3bf46c5.png)](https://codecov.io/gh/SpaceVim/SpaceVim)[![Docker Build Status](../Images/f866e357fa15bafc055b5d165fdfbe60.png)](https://hub.docker.com/r/spacevim/spacevim/)[![Version](../Images/97fe85f023ccdc6e348b59ce78c33933.png)](https://camo.githubusercontent.com/70f46be7ad64f947bfea1c89cefef6d7cf5cb249bad1311cb82b26a08e47d04b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657273696f6e2d312e372e302d2d6465762d3837303046462e737667)[![GPLv3 License](../Images/b863254981d22245cd7cb8f135e9c313.png)](https://raw.githubusercontent.com/SpaceVim/SpaceVim/master/LICENSE)[![Doc](../Images/0ce387af50294c1a0e6265c07de1b02b.png)](https://raw.githubusercontent.com/SpaceVim/SpaceVim/master/doc/SpaceVim.txt)
+[![build](img/73e42f064df7db857c38b910bb940987.png)](https://github.com/SpaceVim/SpaceVim/actions?query=workflow%3Abuild)[![codecov](img/75febda267e61d97f944b008f3bf46c5.png)](https://codecov.io/gh/SpaceVim/SpaceVim)[![Docker Build Status](img/f866e357fa15bafc055b5d165fdfbe60.png)](https://hub.docker.com/r/spacevim/spacevim/)[![Version](img/97fe85f023ccdc6e348b59ce78c33933.png)](https://camo.githubusercontent.com/70f46be7ad64f947bfea1c89cefef6d7cf5cb249bad1311cb82b26a08e47d04b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657273696f6e2d312e372e302d2d6465762d3837303046462e737667)[![GPLv3 License](img/b863254981d22245cd7cb8f135e9c313.png)](https://raw.githubusercontent.com/SpaceVim/SpaceVim/master/LICENSE)[![Doc](img/0ce387af50294c1a0e6265c07de1b02b.png)](https://raw.githubusercontent.com/SpaceVim/SpaceVim/master/doc/SpaceVim.txt)
 
-[![welcome page](../Images/cbc5c5b64977b5702f37a888fa9a7333.png)T2】](https://user-images.githubusercontent.com/13142418/103414298-5e1da980-4bb8-11eb-96bc-b2e118f672b5.png)
+[![welcome page](img/cbc5c5b64977b5702f37a888fa9a7333.png)T2】](https://user-images.githubusercontent.com/13142418/103414298-5e1da980-4bb8-11eb-96bc-b2e118f672b5.png)
 
 SpaceVim 是一个社区驱动的模块化 Vim 发行版。它在层中管理插件的集合，这有助于将相关的包收集在一起，以提供类似 ide 的特性。
 
@@ -89,7 +89,7 @@ SpaceVim 是一个社区驱动的模块化 Vim 发行版。它在层中管理插
 
 这个项目的存在要感谢所有[做出贡献的人](https://raw.githubusercontent.com/SpaceVim/SpaceVim/master/CONTRIBUTING.md)我们感谢来自社区的任何贡献。
 
-[![](../Images/5aff1421df5f6aa5210afb4615d92080.png)T2】](https://github.com/SpaceVim/SpaceVim/graphs/contributors)
+[![](img/5aff1421df5f6aa5210afb4615d92080.png)T2】](https://github.com/SpaceVim/SpaceVim/graphs/contributors)
 
 支持 SpaceVim 的最好方式是通过在 [Gitter Chat](https://gitter.im/SpaceVim/SpaceVim) 上报告 bug 来帮助社区，或者发送 pull 请求。
 
@@ -109,7 +109,7 @@ Git 附带了一组钩子，您可以在工作流的许多步骤中使用它们(
 
 以下是所有可用挂钩的列表:
 
-[![git hooks](../Images/aa6778ed2e2beab982e059ac42f30cf5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ErwfxAva--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ntkaeymeyrkusy4m6rto.png)
+[![git hooks](img/aa6778ed2e2beab982e059ac42f30cf5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ErwfxAva--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ntkaeymeyrkusy4m6rto.png)
 
 我们将重点关注`pre-commit`挂钩。
 

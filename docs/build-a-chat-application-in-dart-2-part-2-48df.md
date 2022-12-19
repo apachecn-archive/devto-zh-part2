@@ -6,7 +6,7 @@
 
 在这一部分中，我们将重构我们的工作解决方案，并实现一个基本的路由器来处理视图之间的转换。这是聊天流程的示意图:
 
-[![Diagram of chat flow](../Images/cf822f44196a79f3dcab32ed3be1e671.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PYzJqyQh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l1s6n4fkcpur4hy7xwe2.png)
+[![Diagram of chat flow](img/cf822f44196a79f3dcab32ed3be1e671.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PYzJqyQh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l1s6n4fkcpur4hy7xwe2.png)
 
 我们还有一点要讲，所以不再多说，让我们开始吧！
 
@@ -253,7 +253,7 @@ webdev serve --live-reload
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Chat signin view](../Images/484e742cb7f301ec471a18552d9e3959.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XvIGz480--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vgzc4i81sv7hkibzgk8c.png)
+[![Chat signin view](img/484e742cb7f301ec471a18552d9e3959.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XvIGz480--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vgzc4i81sv7hkibzgk8c.png)
 
 ## 2。聊天室 UI 的封装逻辑
 
@@ -488,7 +488,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 以下是我们现在应该拥有的:
 
-[![Working solution](../Images/496aa7268996864aab5cb2dd3690cfe9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--StJPwMDw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/89vqkr7i0647hc5rmyer.gif)
+[![Working solution](img/496aa7268996864aab5cb2dd3690cfe9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--StJPwMDw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/89vqkr7i0647hc5rmyer.gif)
 
 将`web/styles.css`中的 css 规则添加到聊天室消息日志更大:
 

@@ -12,8 +12,8 @@ JavaScript 新手的另一个最爱是混淆赋值和比较。我可以亲自证
 
 如果你能理解我所描述的错误，那就不用担心了！我在下面提供了一些例子和图表来帮助理解变量、函数和对象是如何在一个基本的层次上工作的，并且突出了一些语法。希望有帮助！保持冷静，继续编码。
 
-[![](../Images/a7cb5fa47879e2ee97a4f52cc512eb6c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lEIRaXVy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/br1wzlvv9pw722jq5kwi.png)
+[![](img/a7cb5fa47879e2ee97a4f52cc512eb6c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lEIRaXVy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/br1wzlvv9pw722jq5kwi.png)
 
-[![](../Images/65d097ea729bf16ef4f92aef7c43f0d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HcoKYRjT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tqdfahozcr0mlv1izfvb.png)
+[![](img/65d097ea729bf16ef4f92aef7c43f0d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HcoKYRjT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tqdfahozcr0mlv1izfvb.png)
 
-[![](../Images/d9360853fb6faac6826ce61a1e9fd616.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nPHK94_3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lk2shvdaa9ljkdplsxlm.png)
+[![](img/d9360853fb6faac6826ce61a1e9fd616.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nPHK94_3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lk2shvdaa9ljkdplsxlm.png)

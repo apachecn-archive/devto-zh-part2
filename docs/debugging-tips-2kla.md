@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/sadick/debugging-tips-2kla>
 
-[![](../Images/67a69e716558912c0764f23399a41675.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IwTqfAKS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.lynda.com/course/112414/112414-636410882080313019-16x9.jpg)
+[![](img/67a69e716558912c0764f23399a41675.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IwTqfAKS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.lynda.com/course/112414/112414-636410882080313019-16x9.jpg)
 
 程序员写代码。程序员不是完美的。程序员的代码并不完美。因此，第一次并不完美。所以我们有虫子。
 

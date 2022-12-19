@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nylas/hr-software-companies-use-the-nylas-calendar-api-to-accelerate-time-to-market-374n>
 
-[![02_Calendar_API_support](../Images/b2844222752a8641c39880ac8e98178f.png)T2】](https://www.nylas.com/blog/hr-software-companies-use-the-nylas-calendar-api-to-accelerate-time-to-market)
+[![02_Calendar_API_support](img/b2844222752a8641c39880ac8e98178f.png)T2】](https://www.nylas.com/blog/hr-software-companies-use-the-nylas-calendar-api-to-accelerate-time-to-market)
 
 自动化就在我们身边，从无人驾驶汽车到自动支付，从 Alexa 和 Echo 这样的虚拟助手到机场的登机亭。自动化从根本上改变了企业的运营方式:它通过处理乏味重复的任务并将更多的人工任务留给人类，提高了效率、透明度和工作与生活的平衡。这就是为什么人力资源软件的自动化如此普遍，如此重要。
 
@@ -18,7 +18,7 @@
 
 用户可以在您的人力资源软件界面中安排面试和电话。只需一次点击，就可以安排多个采访，显示忙/闲时间表，并将活动添加到所有与会者的日历中。
 
-[![02_Calendar_API_support](../Images/2f8f963d4128019750de3a30833a3675.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9WZkpoo5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/02_Calendar_API_support.jpg)
+[![02_Calendar_API_support](img/2f8f963d4128019750de3a30833a3675.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9WZkpoo5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/02_Calendar_API_support.jpg)
 
 ### **让用户能够通过日历同步来组织会议**
 
@@ -44,4 +44,4 @@
 
 欲了解更多信息并开始免费试用，[点击此处](https://www.nylas.com/calendar-sync)。
 
-[![](../Images/7d35fd10ff3b9bcdf0d98d125933c660.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VU43E2tx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://track.hubspot.com/__ptq.gif%3Fa%3D3314308%26k%3D14%26r%3Dhttps%253A%252F%252Fwww.nylas.com%252Fblog%252Fhr-software-companies-use-the-nylas-calendar-api-to-accelerate-time-to-market%26bu%3Dhttps%25253A%25252F%25252Fwww.nylas.com%25252Fblog%26bvt%3Drss)
+[![](img/7d35fd10ff3b9bcdf0d98d125933c660.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VU43E2tx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://track.hubspot.com/__ptq.gif%3Fa%3D3314308%26k%3D14%26r%3Dhttps%253A%252F%252Fwww.nylas.com%252Fblog%252Fhr-software-companies-use-the-nylas-calendar-api-to-accelerate-time-to-market%26bu%3Dhttps%25253A%25252F%25252Fwww.nylas.com%25252Fblog%26bvt%3Drss)

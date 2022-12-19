@@ -12,7 +12,7 @@
 
 为了进行演示，我们将使用 Aspose 将下面的[示例 Microsoft Visio 文档](https://github.com/AsposeDiagram/AsposeDiagram-Screenshots-and-Sample-Files/blob/master/Convert-Microsoft-Visio-Document-to-JPG/SampleConvertMicrosoftVisioDocumentToJPEG.vsdx)转换为 Java 中的 JPG 或 JPEG。Java 的图表。但是，您可以在示例代码中使用您选择的任何 Microsoft Visio 文档，它也将被转换为 JPEG 格式。
 
-[![Sample Microsoft Visio Document to be converted to JPG or JPEG using Aspose.Diagram API.](../Images/6b2fe6f0a5ac84777082491960d99622.png "Sample Microsoft Visio Document to be converted to JPG or JPEG using Aspose.Diagram API.")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_YPUEnL9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/AsposeDiagram/AsposeDiagram-Screenshots-and-Sample-Files/master/Convert-Microsoft-Visio-Document-to-JPG/Microsoft-Visio-Document-be-converted-JPG-Aspose.Diagram.png)
+[![Sample Microsoft Visio Document to be converted to JPG or JPEG using Aspose.Diagram API.](img/6b2fe6f0a5ac84777082491960d99622.png "Sample Microsoft Visio Document to be converted to JPG or JPEG using Aspose.Diagram API.")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_YPUEnL9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/AsposeDiagram/AsposeDiagram-Screenshots-and-Sample-Files/master/Convert-Microsoft-Visio-Document-to-JPG/Microsoft-Visio-Document-be-converted-JPG-Aspose.Diagram.png)
 
 # 发牌
 

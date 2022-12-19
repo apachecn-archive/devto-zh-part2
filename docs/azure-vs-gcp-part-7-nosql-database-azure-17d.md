@@ -60,35 +60,35 @@ Azure 还提供 Redis 缓存、表存储或仓库类型的数据库。
 
 1.进入 [Azure 门户](https://portal.azure.com)，点击“创建资源”。然后搜索“Cosmos DB”
 
-[![portal](../Images/967e0c7c67607207eb7a32405c488438.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n9zPt_UG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qsmkp5s4cyx7178b6m7f.PNG)
+[![portal](img/967e0c7c67607207eb7a32405c488438.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n9zPt_UG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qsmkp5s4cyx7178b6m7f.PNG)
 
 2.选择 Azure Cosmos DB 并点击“创建”。
 
 3.给出全局唯一的名称并选择“SQL”API。然后创造。如果需要，您可以选择“启用地理冗余”。当然，您也可以将磁贴“钉”在仪表板上。
 
-[![portal](../Images/43ef66ada5cf2309993303686625a1ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qg40nozA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l5apccjuzek0bae25rzq.PNG)
+[![portal](img/43ef66ada5cf2309993303686625a1ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qg40nozA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l5apccjuzek0bae25rzq.PNG)
 
 4.创建完成后，选择创建的 Cosmos DB。
 
-[![portal](../Images/6d2c8670816738d0965ca010cffc4d13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mhld3N4a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p4xf3lxb6ebwahi33pqo.PNG)
+[![portal](img/6d2c8670816738d0965ca010cffc4d13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mhld3N4a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p4xf3lxb6ebwahi33pqo.PNG)
 
 5.从菜单中选择“快速启动”，然后单击“”。NET Core”选项卡。然后点击“创建‘物品’收藏。
 
-[![portal](../Images/8bfada413e70f3fc2fe5dc02c329af0c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---1puYO0R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bah8xsh2gzv35woxcx2n.PNG)
+[![portal](img/8bfada413e70f3fc2fe5dc02c329af0c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---1puYO0R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bah8xsh2gzv35woxcx2n.PNG)
 
 6.单击“下载”下载示例代码。
 
-[![portal](../Images/fc41410c6e28415aab3e2dfbfd93f2c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q_nJmU1t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vt4oio4xcqrzwsn6mvge.PNG)
+[![portal](img/fc41410c6e28415aab3e2dfbfd93f2c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q_nJmU1t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vt4oio4xcqrzwsn6mvge.PNG)
 
 7.然后转到“键”并注意 URI 和主键。
 
-[![portal](../Images/a9e9df38b6c77f329b15485ddd0cc872.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--83UGqb1E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ovzg9qk13vbrhj92vqt1.PNG)
+[![portal](img/a9e9df38b6c77f329b15485ddd0cc872.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--83UGqb1E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ovzg9qk13vbrhj92vqt1.PNG)
 
 8.下载完成后，解压缩文件并使用 Visual Studio 打开 quickstartcore.sln 解决方案。
 
 9.打开 DocumentDBRepository.cs 并替换 endpoint 和 key，然后按 F5 测试应用程序。不过，你应该把钥匙存放在单独的、安全的地方。
 
-[![app](../Images/2c34c8faa30cd8bf9aea97c3ca4b9b02.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4XDNw0Iu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cty8tnjp10i8p6zyu45k.PNG)
+[![app](img/2c34c8faa30cd8bf9aea97c3ca4b9b02.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4XDNw0Iu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cty8tnjp10i8p6zyu45k.PNG)
 
 ## 工作原理
 
@@ -134,7 +134,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 尝试部署两个平台，它就像 Azure 存储一样工作。
 
-[![gcp](../Images/c5b4159e2b7ff169bc0d79cac5960cce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k_4YZsYB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3cgp2suh4xa060brz5rw.PNG)
+[![gcp](img/c5b4159e2b7ff169bc0d79cac5960cce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k_4YZsYB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3cgp2suh4xa060brz5rw.PNG)
 
 # 资源管理器工具
 
@@ -144,17 +144,17 @@ Enter fullscreen mode Exit fullscreen mode
 
 它显示您的数据库和收藏，以及每个项目。您也可以创建、更新和删除项目。
 
-[![portal](../Images/903647715d18f3dd8597c94a9de42dbc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cH8nVOPz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/64ua83a4vlzpc5cwy9t5.PNG)
+[![portal](img/903647715d18f3dd8597c94a9de42dbc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cH8nVOPz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/64ua83a4vlzpc5cwy9t5.PNG)
 
 您也可以运行 SQL 查询。这对我来说太容易了。
 
-[![portal](../Images/ba5afbe136b1a42437bbc16e4c6c849d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aS3tuh1s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g427nieeydffrtprfx4i.PNG)
+[![portal](img/ba5afbe136b1a42437bbc16e4c6c849d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aS3tuh1s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g427nieeydffrtprfx4i.PNG)
 
 ## 其他探险家
 
 我也可以从“收集”的角度看数据。收藏菜单下有几个工具。
 
-[![portal](../Images/2cf58b0b52a08624321a2106f6c26d22.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6wdw0hKi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w3kmunllq8ssjqd67hy0.PNG)
+[![portal](img/2cf58b0b52a08624321a2106f6c26d22.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6wdw0hKi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w3kmunllq8ssjqd67hy0.PNG)
 
 # 总结
 

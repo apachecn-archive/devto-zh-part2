@@ -8,7 +8,7 @@
 
 这种方法使得我们的组件更加解耦。基本上，当我们继续编写一个应用程序时，我们会在这个过程中识别事件，在适当的时候触发它们，并为每个事件附加一个或多个事件侦听器。扩展功能变得更加容易，因为我们可以在特定事件中添加更多的侦听器，而不需要修改现有的侦听器或应用程序中触发事件的部分。我们所说的本质上是观察者模式。
 
-[![](../Images/ecd3ffe032092c4e85951e52197ac0f1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bNadgv50--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5bzbzku826xotqoo7u6w.jpeg) 
+[![](img/ecd3ffe032092c4e85951e52197ac0f1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bNadgv50--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5bzbzku826xotqoo7u6w.jpeg) 
 <sub><sup>*来源:[https://www . do factory . com/JavaScript/observer-design-pattern](https://www.dofactory.com/javascript/observer-design-pattern)*</sup></sub>
 
 ## 设计事件驱动的架构

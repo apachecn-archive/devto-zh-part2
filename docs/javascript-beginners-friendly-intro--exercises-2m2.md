@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/thatfrankdev/javascript-beginners-friendly-intro--exercises-2m2>
 
-[![JavaScript Beginners: Friendly Intro & Exercises](../Images/50433b0856258a5af8eeee70cd8199f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cPoSzXyb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203638/devdensm-2x.png)
+[![JavaScript Beginners: Friendly Intro & Exercises](img/50433b0856258a5af8eeee70cd8199f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cPoSzXyb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203638/devdensm-2x.png)
 
 "循序渐进，大量练习。"
 

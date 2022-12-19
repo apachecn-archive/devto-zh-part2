@@ -17,7 +17,7 @@ C#很棒，它几乎可以在任何地方运行。
 
 它不是单一服务，但它包含多种服务来优化移动开发体验，包括:
 
-[![image](../Images/96129ac5db4278d241fee002cea6f40a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_Y2S6TY9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://docs.microsoft.com/en-us/azure/app-service-mobile/media/app-service-mobile-value-prop/overview.png)
+[![image](img/96129ac5db4278d241fee002cea6f40a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_Y2S6TY9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://docs.microsoft.com/en-us/azure/app-service-mobile/media/app-service-mobile-value-prop/overview.png)
 
 ### 开发者的关键特性
 
@@ -46,27 +46,27 @@ C#很棒，它几乎可以在任何地方运行。
 
 1.转到 [Azure 门户](https://portal.azure.com)并创建新资源。搜索“手机 App”并创建。
 
-[![portal](../Images/e4487aac1d408feab3331cd9e33e0285.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hz_yAR2Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cza9sftev749sewpddmc.PNG)
+[![portal](img/e4487aac1d408feab3331cd9e33e0285.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hz_yAR2Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cza9sftev749sewpddmc.PNG)
 
 2.创建完成后，转到资源并选择“快速启动”。选择您想要尝试的任何样本。我在这里选择了“Windows (C#)”。
 
-[![portal](../Images/650472780610ad1f8dd494b53e001441.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BH_eNtlt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uw3lrxtn0iwkenh50dam.PNG)
+[![portal](img/650472780610ad1f8dd494b53e001441.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BH_eNtlt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uw3lrxtn0iwkenh50dam.PNG)
 
 3.按照向导完成。首先，创建数据库。单击“连接数据库”区域。
 
-[![portal](../Images/edac764f12cf90189d65b8e54610682d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pDGcuvGn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u457nruhpn1k8re1v0rt.PNG)
+[![portal](img/edac764f12cf90189d65b8e54610682d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pDGcuvGn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u457nruhpn1k8re1v0rt.PNG)
 
 4.单击“添加”并创建您想要的任何数据库类型。我选择“SQL”并按照向导添加新的，或者选择现有的。
 
-[![portal](../Images/ac3113db70e5810d6bd986411eb26061.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5IXDYZt1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/38f0i3cz5d6uao98729j.PNG)
+[![portal](img/ac3113db70e5810d6bd986411eb26061.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5IXDYZt1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/38f0i3cz5d6uao98729j.PNG)
 
 5.接下来，在“创建表格 API”中，选择您想要的语言。我选择了 C#并点击“下载”。这是你的服务器端代码。
 
-[![portal](../Images/ba3036d387e57e5bd756fc1c254b62d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wUp39Ztc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/478tyoh97inv4hdwf4yk.PNG)
+[![portal](img/ba3036d387e57e5bd756fc1c254b62d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wUp39Ztc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/478tyoh97inv4hdwf4yk.PNG)
 
 6.在“配置您的客户端应用程序”中，单击“创建新应用程序”，然后单击“下载”。这是你的客户。
 
-[![portal](../Images/b9dac5dda51fc191f137c6c45318b233.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ksViZwXJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wl6rzcxbulcp4fd5qwat.PNG)
+[![portal](img/b9dac5dda51fc191f137c6c45318b233.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ksViZwXJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wl6rzcxbulcp4fd5qwat.PNG)
 
 7.提取我们刚刚下载的两个 zip 文件。
 
@@ -80,15 +80,15 @@ C#很棒，它几乎可以在任何地方运行。
 
 2.右键单击项目，然后单击“发布”。
 
-[![server](../Images/f7dc15e0474c6058bce41abb659c0458.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AEhx7hQM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/30uwzq5fhkov0pn4obj5.PNG)
+[![server](img/f7dc15e0474c6058bce41abb659c0458.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AEhx7hQM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/30uwzq5fhkov0pn4obj5.PNG)
 
 3.选中“Microsoft Azure 应用服务”的“选择现有”，然后单击“发布”。
 
-[![server](../Images/edd483f8796ea3c15914336a88c2794a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TaYOcxqy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2y1211s8xpzwempehgft.PNG)
+[![server](img/edd483f8796ea3c15914336a88c2794a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TaYOcxqy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2y1211s8xpzwempehgft.PNG)
 
 4.选择您创建的移动应用程序资源，然后单击“确定”。
 
-[![server](../Images/314f5c2ed75ad2766ee113e502862c25.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w4H43jMc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f70mpb9v8mmxzcyome2a.PNG)
+[![server](img/314f5c2ed75ad2766ee113e502862c25.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w4H43jMc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f70mpb9v8mmxzcyome2a.PNG)
 
 ### 运行客户端
 
@@ -98,11 +98,11 @@ C#很棒，它几乎可以在任何地方运行。
 
 2.在屏幕中输入 todo 项目，然后按 Enter 键。
 
-[![client](../Images/b6505f9ba08a558ad4fa55f9d623b9c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0eCPjF5Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/62uyexvuqollqhp4vc5h.PNG)
+[![client](img/b6505f9ba08a558ad4fa55f9d623b9c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0eCPjF5Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/62uyexvuqollqhp4vc5h.PNG)
 
 3.确认添加的新项目。您可以通过单击来删除该项目，这表示您已完成该项目。
 
-[![client](../Images/de0764aa67506a50d6e60aeeea1467a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---Ki5F58V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/38gc0cmji387d0vs7279.PNG)
+[![client](img/de0764aa67506a50d6e60aeeea1467a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---Ki5F58V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/38gc0cmji387d0vs7279.PNG)
 
 # 添加离线
 
@@ -110,11 +110,11 @@ C#很棒，它几乎可以在任何地方运行。
 
 1.在客户端示例中打开 MainPage.xaml.cs。评论中有如何启用离线功能的说明。
 
-[![offline](../Images/9405682f7b88de185d0643a6fe86be64.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7XIB7dvq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/khr4840q3swwwawtp32c.PNG)
+[![offline](img/9405682f7b88de185d0643a6fe86be64.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7XIB7dvq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/khr4840q3swwwawtp32c.PNG)
 
 2.右键单击项目并选择“管理 Nuget 包”，然后安装“微软。azure . mobile . client . sqlitestore”。此外，应用所有更新。
 
-[![offline](../Images/f4e3b0aaf1b59ea75a80fbbae62fd3d0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DiensE_L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xj75s1uj40o3bbbb1nw4.PNG)
+[![offline](img/f4e3b0aaf1b59ea75a80fbbae62fd3d0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DiensE_L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xj75s1uj40o3bbbb1nw4.PNG)
 
 3.按照说明取消注释#define OFFLINE_SYNC_ENABLED。
 
@@ -138,15 +138,15 @@ Enter fullscreen mode Exit fullscreen mode
 
 5.运行应用程序，然后使设备离线。添加几个项目。
 
-[![offline](../Images/ba7f73d0459926eb7dc0c336a84e442d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YBqz6peK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7x5priojokq61xwxwp82.PNG)
+[![offline](img/ba7f73d0459926eb7dc0c336a84e442d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YBqz6peK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7x5priojokq61xwxwp82.PNG)
 
 6.回到在线状态，在同步之前先检查 Azure SQL。“尝试脱机同步”是在我联机时创建的，因此在我脱机时还没有添加任何项目。
 
-[![offline](../Images/338315a4545a7e0fedac75a9061d284a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k3mPaZ4N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/thi4w0tsh5huv061wh0h.PNG)
+[![offline](img/338315a4545a7e0fedac75a9061d284a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k3mPaZ4N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/thi4w0tsh5huv061wh0h.PNG)
 
 7.单击客户端上的“刷新”并再次查询数据库。我可以看到所有的项目都是同步的。
 
-[![offline](../Images/b5daba02ff7eefd0569b1ddf7f3ed0c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z8LV7-ii--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/71so3sm3m33br6lm4t7o.PNG)
+[![offline](img/b5daba02ff7eefd0569b1ddf7f3ed0c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z8LV7-ii--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/71so3sm3m33br6lm4t7o.PNG)
 
 # 添加认证
 
@@ -162,13 +162,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 4.在“允许的外部重定向 URL”中，输入值“cloud compare://easy auth . callback”。我使用“cloudcompare”作为协议来调用我的应用程序。
 
-[![auth](../Images/d1c174abe0dce649b5f3e59df678acb6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EP6UZnTO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x9df2cl2vi8mjow3zepb.PNG)
+[![auth](img/d1c174abe0dce649b5f3e59df678acb6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EP6UZnTO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x9df2cl2vi8mjow3zepb.PNG)
 
 ### 更新代码
 
 1.转到后端项目，打开 ToDoItemController.cs，在类级别添加[Authorize]属性。
 
-[![auth](../Images/90c3a433d997f91ad97cd6f1c69ccf4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--paxwuTyV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zvw8yw3iqj9g540bnl7m.PNG)
+[![auth](img/90c3a433d997f91ad97cd6f1c69ccf4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--paxwuTyV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zvw8yw3iqj9g540bnl7m.PNG)
 
 2.发布后端。
 
@@ -279,11 +279,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 8.我需要添加协议激活。双击 Package.appxmanifest 并选择“声明”。然后选择“协议”并点击“添加”。
 
-[![auth](../Images/d3312c280cd494ebfedec28feecc498c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r8hCLRR9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yx39q6u67kjn3dd8y0f2.PNG)
+[![auth](img/d3312c280cd494ebfedec28feecc498c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r8hCLRR9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yx39q6u67kjn3dd8y0f2.PNG)
 
 9.输入“cloudcompare”以命名字段并保存。
 
-[![auth](../Images/67a713f07c125d10ba79815ca0e2e9e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sOSA3yIA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cstc9zdqpjdgdnjb41gd.PNG)
+[![auth](img/67a713f07c125d10ba79815ca0e2e9e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sOSA3yIA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cstc9zdqpjdgdnjb41gd.PNG)
 
 ### 测试认证
 
@@ -293,7 +293,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 2.当您导航到 facebook 登录页面时，请登录。如果成功，您会看到一条弹出消息，指示您已登录。
 
-[![auth](../Images/18ec3a312d525d7f67b8bf683ae0983b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0zb-zS-p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xkmqr3ipm9tcmqh327zy.PNG)
+[![auth](img/18ec3a312d525d7f67b8bf683ae0983b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0zb-zS-p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xkmqr3ipm9tcmqh327zy.PNG)
 
 3.现在，我可以做任何操作，因为我是认证。
 
@@ -307,15 +307,15 @@ Enter fullscreen mode Exit fullscreen mode
 
 1.转到 Azure 门户并选择移动应用服务。然后，点击“推送”菜单。
 
-[![push](../Images/92152877d5c3e41f7daad8fabae8117f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3p4ODVJx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wk3y6gfn67zh42sy17pf.PNG)
+[![push](img/92152877d5c3e41f7daad8fabae8117f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3p4ODVJx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wk3y6gfn67zh42sy17pf.PNG)
 
 2.点击“连接”按钮并添加通知中心。
 
-[![push](../Images/4ad72031e6463b98a3ffc305c422e0d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6SxqieLR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2hb1mfoq72et7ynlpojg.PNG)
+[![push](img/4ad72031e6463b98a3ffc305c422e0d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6SxqieLR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2hb1mfoq72et7ynlpojg.PNG)
 
 3.部署通知中心后，启用应用程序通知。转到客户端项目，右键单击该项目，然后选择商店|将应用程序与商店关联。
 
-[![push](../Images/df4f199148cc151395f77c5b43ddd735.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HGsyHNVg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e344brepw38vergexej2.PNG)
+[![push](img/df4f199148cc151395f77c5b43ddd735.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HGsyHNVg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e344brepw38vergexej2.PNG)
 
 4.保留应用程序名称。我用“CloudCompareMobile”作为它的名字。
 
@@ -323,13 +323,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 6.点击应用程序管理| WNS/MPNS，然后点击“实时服务网站”链接。
 
-[![push](../Images/b60c4761f7da999afa5bd63472129582.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uKKX4gP3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/we46m9vcxevjzat1sf5x.PNG)
+[![push](img/b60c4761f7da999afa5bd63472129582.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uKKX4gP3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/we46m9vcxevjzat1sf5x.PNG)
 
 7.复制应用程序机密和包 SID。
 
 8.返回 Azure Portal，并选择您刚刚创建的通知中心。然后从菜单中选择“Windows”。输入您刚刚获得的 SID 和密钥。
 
-[![push](../Images/6e3bd9e748aa0ec02eb93f35056d17b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MsfSIqGD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a0h64l80kja7u301t1yo.PNG)
+[![push](img/6e3bd9e748aa0ec02eb93f35056d17b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MsfSIqGD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a0h64l80kja7u301t1yo.PNG)
 
 ### 更新代码
 
@@ -337,7 +337,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 1.转到后端项目并添加 Microsoft。Azure.NotificationHubs NuGet 包。
 
-[![push](../Images/6af9d093887b884a46c39add5f6dfc4a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bsIwVtKK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c2uy8jmlnc6r6bghuls1.PNG)
+[![push](img/6af9d093887b884a46c39add5f6dfc4a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bsIwVtKK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c2uy8jmlnc6r6bghuls1.PNG)
 
 2.打开 TodoItemContoller.cs 并添加 using 语句。
 
@@ -428,11 +428,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 2.那就加一项。
 
-[![push](../Images/b9ebe10a7c0fcf5eded9d888d552af4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H6EUGbtt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p6sg0l5icgt0bg5i4afk.PNG)
+[![push](img/b9ebe10a7c0fcf5eded9d888d552af4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H6EUGbtt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p6sg0l5icgt0bg5i4afk.PNG)
 
 3.检查您是否收到通知。
 
-[![push](../Images/5d9f25870c020be6c6a3b72143170cb4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XVqwnHGf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/okfah0xegdbj5c686239.PNG)
+[![push](img/5d9f25870c020be6c6a3b72143170cb4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XVqwnHGf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/okfah0xegdbj5c686239.PNG)
 
 # 总结
 

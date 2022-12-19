@@ -28,7 +28,7 @@ console.log("https://github.com/" + result[randomEntry].owner + "/" + result[ran
 
 看起来是这样的:
 
-[![random-starred-repository without kleur](../Images/0eb53fdae477fe64ef916c654510e425.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n1qsVPe4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nikol.as/img/2018/11/kleur-1.png)
+[![random-starred-repository without kleur](img/0eb53fdae477fe64ef916c654510e425.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n1qsVPe4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nikol.as/img/2018/11/kleur-1.png)
 
 我们试试`kleur`。
 
@@ -47,7 +47,7 @@ npm install --save kleur
 
 这是它现在的样子:
 
-[![random-starred-repository with kleur](../Images/b3bcf64f19a4623648b96dccae0f38bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AMyKqh71--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nikol.as/img/2018/11/kleur-2.png)
+[![random-starred-repository with kleur](img/b3bcf64f19a4623648b96dccae0f38bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AMyKqh71--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nikol.as/img/2018/11/kleur-2.png)
 
 🎉
 

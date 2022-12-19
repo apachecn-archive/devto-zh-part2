@@ -18,11 +18,11 @@
 
 在最后一步，第二个关键属性，第一个是“模糊过滤器”，在这个效果中是“透明度”，在 CSS 中是“不透明度”。这是这个效果的点睛之笔。我通过颜色透明度和 CSS 的不透明属性实现了半透明，在颜色透明度中，可以使用颜色的 alpha 值和 rgba()函数来增加颜色的透明度。我发现 0.3 或者 30%的不透明度对于这个效果已经足够了。这些步骤非常接近微软自己创造丙烯酸材料的配方。
 
-[![Micrososft's acrylic recipe](../Images/864e82997dde3a789a4b653856627048.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iljwaAFE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8iewa4ozzjgv6m163b73.png) 微软的亚克力配方
+[![Micrososft's acrylic recipe](img/864e82997dde3a789a4b653856627048.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iljwaAFE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8iewa4ozzjgv6m163b73.png) 微软的亚克力配方
 
 除了排斥混合物。可以用 CSS 属性“background-blend-mode”添加到模糊容器中。这是 HTML 实现的秘诀
 
-[![Html recipe for acrylic](../Images/457bc7100305fc5dcb80b2904e1103ef.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--ubOAHSte--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7i2ivv7822h82mmr0aor.jpg) Html 亚克力配方
+[![Html recipe for acrylic](img/457bc7100305fc5dcb80b2904e1103ef.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--ubOAHSte--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7i2ivv7822h82mmr0aor.jpg) Html 亚克力配方
 
 这样做出来的效果非常接近原作，非常棒！在这里看一看[丙烯酸效果和背景图片](https://jsfiddle.net/svijaykoushik/ybLuvzh3/)
 

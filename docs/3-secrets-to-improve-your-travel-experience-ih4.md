@@ -26,7 +26,7 @@
 
 ## 如果你正在读这篇文章，喝点水吧
 
-[![Desert in Morocoo](../Images/6979540463971a8dcd8989ae070927af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ezLLikca--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b37qf2k7kozgactyqwhy.jpg)
+[![Desert in Morocoo](img/6979540463971a8dcd8989ae070927af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ezLLikca--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b37qf2k7kozgactyqwhy.jpg)
 
 不管是一小时的短途飞行还是 18 小时的跨太平洋飞行，飞机都会让每个人脱水。有了气候控制，飞机上的相对湿度可以低至 4%。波音 787 和空客 A350 可以达到 10-15%(或更多)。通过用碳纤维替换一些金属部件，它们可以支持更大的湿度，而不会因腐蚀而缩短飞机的寿命。尽管如此，10-15%的相对湿度仍然比撒哈拉沙漠要干燥。
 

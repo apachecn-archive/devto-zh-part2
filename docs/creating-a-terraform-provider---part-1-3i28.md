@@ -26,7 +26,7 @@ Terraform 提供者用来与 API 交互的客户端不应该在提供者内部�
 
 我们将在这篇博文中构建的提供者将允许我们使用以下 Terraform 代码在我们的服务器上创建一个项目:
 
-[![](../Images/7adc2c7fdbae40493165293e4e6245f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OAiu-J67--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AyFSDdnXt1mBwq1qC1D5RdA.png)
+[![](img/7adc2c7fdbae40493165293e4e6245f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OAiu-J67--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AyFSDdnXt1mBwq1qC1D5RdA.png)
 
 Terraform 插件是 Terraform 通过 RPC 与之通信的二进制文件。可以用任何语言编写一个提供者，但实际上，您会希望用 Go 编写它；Terraform 在 Go 中提供了助手库来帮助编写和测试提供程序。
 

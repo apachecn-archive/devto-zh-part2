@@ -37,7 +37,7 @@
 
 运行测试可以被认为是一种反馈机制，它通知我们程序是否如预期的那样工作:
 
-[![Tests provide a feedback mechanism](../Images/bfe650bb8ed993ce63c97913e733990d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JmBYhrro--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://alysivji.github.io/images/30-39/feedback_loop.jpg)
+[![Tests provide a feedback mechanism](img/bfe650bb8ed993ce63c97913e733990d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JmBYhrro--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://alysivji.github.img/30-39/feedback_loop.jpg)
 
 虽然通过测试[不能证明缺失错误](http://wiki.c2.com/?TestsCantProveTheAbsenceOfBugs)，但是它们确实告诉我们，我们的代码正在以测试定义的方式工作。相反，失败的测试表明有些事情不对劲。我们需要理解为什么我们的测试失败了，这样我们就可以根据需要修改代码和/或测试。
 
@@ -63,7 +63,7 @@
 
 让我们复习一些定义，这样我们就有了一个共同的词汇。
 
-[![Diagram of a system under test](../Images/642d56e4437459a7e4eb188b8b533517.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZlUzw5Ng--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://alysivji.github.io/images/30-39/system_under_test.jpg)
+[![Diagram of a system under test](img/642d56e4437459a7e4eb188b8b533517.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZlUzw5Ng--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://alysivji.github.img/30-39/system_under_test.jpg)
 
 被测系统(SUT) 是当前正在被测试的实体。这可能是一行代码、一个方法或整个程序。
 
@@ -114,11 +114,11 @@
 
 **黑盒测试**是指测试人员无法看到被测项目内部工作情况的测试技术。
 
-[![Picture showing input and output going into a blackbox](../Images/ee8a718226707027bbb4970886502b54.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Drv1lJM4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://alysivji.github.io/images/30-39/black_box_testing.jpg)
+[![Picture showing input and output going into a blackbox](img/ee8a718226707027bbb4970886502b54.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Drv1lJM4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://alysivji.github.img/30-39/black_box_testing.jpg)
 
 **白盒测试**是一种测试人员可以看到被测项目内部工作情况的技术。
 
-[![Picture showing input and output going into a transparent box where we can see how information flows](../Images/8bba2cf0e7a1d70dd2ee6ee99e6a3879.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k_SXAu0H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://alysivji.github.io/images/30-39/white_box_testing.jpg)
+[![Picture showing input and output going into a transparent box where we can see how information flows](img/8bba2cf0e7a1d70dd2ee6ee99e6a3879.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k_SXAu0H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://alysivji.github.img/30-39/white_box_testing.jpg)
 
 作为开发人员，我们执行白盒测试。我们在盒子里面写了代码，并且知道如何彻底地测试它。这并不是说不需要黑盒测试，我们仍然应该有人在更高的层次上执行测试；接近代码会导致我们测试中的盲点。
 
@@ -128,7 +128,7 @@
 
 自动化测试金字塔为如何构建我们的测试策略提供了指导。它说我们应该编写大量快速廉价的单元测试和少量缓慢昂贵的端到端测试。
 
-[![Picture showing automated testing pyramid](../Images/550b59098db8dc42edc961b1836bbc44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tjTcgZaD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://alysivji.github.io/images/30-39/test_pyramid.png)
+[![Picture showing automated testing pyramid](img/550b59098db8dc42edc961b1836bbc44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tjTcgZaD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://alysivji.github.img/30-39/test_pyramid.png)
 
 测试金字塔不是一个硬性的规则，但是它提供了一个开始考虑测试策略的好地方。一个很好的经验法则是，根据你对系统的信心的需要，在每个级别编写尽可能多的测试。我们应该在编写代码的同时编写测试，朝着适合我们正在进行的项目的测试策略迭代。
 

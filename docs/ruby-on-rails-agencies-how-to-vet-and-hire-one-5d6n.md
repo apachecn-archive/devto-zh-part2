@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/etafavoti/ruby-on-rails-agencies-how-to-vet-and-hire-one-5d6n>
 
-[![Ruby on Rails Agencies: How to Vet and Hire One](../Images/f48cf80d89ede85a62f5d32eb19f634f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--elhP_IYv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/20pp7wl4uvyse94yww24.png)
+[![Ruby on Rails Agencies: How to Vet and Hire One](img/f48cf80d89ede85a62f5d32eb19f634f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--elhP_IYv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/20pp7wl4uvyse94yww24.png)
 
 有数百家 Ruby on Rails 代理公司。如果你想把你的网络应用程序开发外包给一家公司，你可能已经在谷歌上搜索过了。过一段时间后，他们可能会开始看起来一样。每个代理公司都有相同类型的网站——赞不绝口的推荐书，令人印象深刻的客户名单，也许在他们的团队页面上还有几只可爱的狗狗。
 

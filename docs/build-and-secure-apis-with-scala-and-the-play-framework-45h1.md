@@ -6,4 +6,4 @@
 
 [读下去🏄🏾‍♂️](https://auth0.com/blog/build-and-secure-a-scala-play-framework-api/?utm_source=dev&utm_medium=sc&utm_campaign=scala_play)
 
-[![Build and Secure APIs with Scala and the Play Framework](../Images/9d76e41089f15cb7a5a73d32464100c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--phOCrUkg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xu3vd2ljvdi5caxgwmm5.png)
+[![Build and Secure APIs with Scala and the Play Framework](img/9d76e41089f15cb7a5a73d32464100c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--phOCrUkg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xu3vd2ljvdi5caxgwmm5.png)

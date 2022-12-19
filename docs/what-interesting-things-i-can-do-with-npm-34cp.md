@@ -4,7 +4,7 @@
 
 这个帖子让我想到，我想更好地了解我可以通过 npm 做些什么:
 
-[![joshualjohnson](../Images/cf3907a0e66331637efd967e933984b7.png)](/joshualjohnson) [## 谁使用私人 NPM 出版社？
+[![joshualjohnson](img/cf3907a0e66331637efd967e933984b7.png)](/joshualjohnson) [## 谁使用私人 NPM 出版社？
 
 ### 约书亚·约翰逊 6 月 8 日 181 分钟阅读
 

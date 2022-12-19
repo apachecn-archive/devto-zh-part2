@@ -41,7 +41,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 由于我们目前没有适用于 MacOS 的微软 SQL Server 引擎，我不得不使用 Docker 在一个容器中安装 Linux 的 MS SQL Server，虽然这一开始听起来可能很复杂，但有一篇由 [@reverentgeek](https://dev.to/reverentgeek) 写的非常棒的帖子可以教你具体如何做，甚至更多！
 
-[![reverentgeek](../Images/5ed0d8480a585c035ee1cacfb61fb18f.png)](/reverentgeek) [## 运行在 Mac 上的 SQL Server？！
+[![reverentgeek](img/5ed0d8480a585c035ee1cacfb61fb18f.png)](/reverentgeek) [## 运行在 Mac 上的 SQL Server？！
 
 ### 大卫尼尔 10 月 3 日 175 分钟阅读
 
@@ -135,13 +135,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 再过几秒钟左右，VS 代码应该会显示这样一个对话框:
 
-[![Required assets dialog](../Images/e79f4f37c4c324d1ec5ecdaed2e284dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WxCD05V0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tq48oq68htt043j9m3fb.png)
+[![Required assets dialog](img/e79f4f37c4c324d1ec5ecdaed2e284dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WxCD05V0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tq48oq68htt043j9m3fb.png)
 
 继续并点击“是”。
 
 现在，如果你转到`Debug`面板，你的`Run Configuration`应该是这样的:
 
-[![Run configuration](../Images/034358aafd659189e8c4cf3f833963ca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fWWqFizC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3e0guy47oqj6mifo4yz5.png)
+[![Run configuration](img/034358aafd659189e8c4cf3f833963ca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fWWqFizC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3e0guy47oqj6mifo4yz5.png)
 
 这意味着我们可以继续运行我们的代码！
 
@@ -155,13 +155,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 瞧啊。
 
-[![Hello World printed on the console](../Images/e81725f7dc80fc61d35a3683ae8598f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6nRd8cz3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8x92o9vnqp7ehoyd9g4j.png)
+[![Hello World printed on the console](img/e81725f7dc80fc61d35a3683ae8598f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6nRd8cz3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8x92o9vnqp7ehoyd9g4j.png)
 
 如果你放大或者用力挤压你的眼睛，你应该能看到那个小小的“你好世界！”在调试控制台中。
 
 但是...
 
-[![Remember, with great power comes great responsibility](../Images/89b312289c29d9ae6d7e7cd28a569440.png)T2】](https://i.giphy.com/media/MCZ39lz83o5lC/giphy.gif)
+[![Remember, with great power comes great responsibility](img/89b312289c29d9ae6d7e7cd28a569440.png)T2】](https://i.giphy.com/media/MCZ39lz83o5lC/giphy.gif)
 
 在我的例子中，唯一的不同是没有做:
 

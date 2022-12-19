@@ -4,7 +4,7 @@
 
 #### 在共享服务器上设置 Laravel 队列处理的指南
 
-[![](../Images/9171fb9bca1bd4121653e3672ec0f4dd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nerD7orJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ao_VTrskPWb_7VCP0JUNf2w.jpeg) 
+[![](img/9171fb9bca1bd4121653e3672ec0f4dd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nerD7orJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ao_VTrskPWb_7VCP0JUNf2w.jpeg) 
 
 <figcaption>照片由[Á·阿尔瓦罗·塞拉诺](https://unsplash.com/photos/YsvAZFxDZ_8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)于 [Unsplash](https://unsplash.com/search/photos/efficiency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 
@@ -12,7 +12,7 @@
 
 对于那些看到“Laravel”和“共享主机”这两个词出现在同一个句子中而感到不安的人来说，这可能不适合你，除非它适合你。
 
-[![You just might find yourself there.](../Images/f427135dcd0a8a5ac260dd0ba5cdfee2.png)T2】](https://i.giphy.com/media/dOxMHecx24CY/giphy.gif)
+[![You just might find yourself there.](img/f427135dcd0a8a5ac260dd0ba5cdfee2.png)T2】](https://i.giphy.com/media/dOxMHecx24CY/giphy.gif)
 
 ### **TL；WR**
 
@@ -42,7 +42,7 @@
 
 现在我的任务正在被处理，除了**——once**选项一次只处理一个任务。真扫兴。通常，您会希望队列工作器处理队列中所有可用的作业，这样就不会有作业长时间闲置。比方说，奇迹发生了，你的队列中有 1000 个作业，是的，我知道，如果你在 15 分钟内队列中有 1000 个作业，你在共享服务器上托管做什么？迁就我一下，说你得到了一千份工作。 **— once** 选项每 15 分钟只处理一个任务，即每小时 4 个任务，每 10 天 1000 个任务。想象一下，注册一项服务，10 天后收到一封欢迎邮件。
 
-[![Awkward!](../Images/dc6f9f7a120d0ec7ad780005d9f9b321.png)T2】](https://i.giphy.com/media/gOmfNDR45WAb6/giphy.gif)
+[![Awkward!](img/dc6f9f7a120d0ec7ad780005d9f9b321.png)T2】](https://i.giphy.com/media/gOmfNDR45WAb6/giphy.gif)
 
 这促使我寻找一种解决方案，让我在每次队列工作器运行时运行我的所有作业，不会让工作器进程运行，这样它们就会开始堆积在内存中，并让我晚上睡个好觉。最后一部分对我来说很重要。不保持工作进程运行意味着我必须找到一种方法不在守护模式下运行队列工作进程。据我所知，laravel 没有提供那个选项，要么你用**——once**选项运行它，要么它以守护模式运行，就像一个二进制独裁者。
 

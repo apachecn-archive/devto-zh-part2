@@ -6,7 +6,7 @@
 
 你有没有成为这个问题的受害者，不知道该说什么？你是否被一个听起来像“不，我想我很好”的回答绊倒了？或者“所以..厨房的零食是免费的吗？”呀。
 
-[![](../Images/05a7a837765dc508f9536cbaccba4042.png)T2】](https://i.giphy.com/media/Zf6Bsx1bTWzqE/giphy.gif)
+[![](img/05a7a837765dc508f9536cbaccba4042.png)T2】](https://i.giphy.com/media/Zf6Bsx1bTWzqE/giphy.gif)
 
 **或者..**
 也许你确实问了一些问题..但是几个月后，我意识到你的工作很糟糕，在一家糟糕的公司，它根本不在乎你是否被车撞了..那这篇博文就送给你了！
@@ -48,7 +48,7 @@
 
 ## 一切都是暗示
 
-[![](../Images/caafe00454963fe12cb0412e81b30fc6.png)T2】](https://i.giphy.com/media/BfGSgzHlsELtu/giphy.gif)
+[![](img/caafe00454963fe12cb0412e81b30fc6.png)T2】](https://i.giphy.com/media/BfGSgzHlsELtu/giphy.gif)
 
 我在这里提到的一切都是我面试过程和经历的一部分。希望其中的一些与你的有所重叠，这就是你阅读这篇文章的原因。我鼓励你拿着纸坐下来，反思过去的经历。你喜欢什么，不喜欢什么，你会问什么样的问题来确保你的价值观和潜在公司的价值观相匹配。
 

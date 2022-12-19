@@ -51,7 +51,7 @@
 
 如果你想看看严肃对待安全关键系统的例子，看看航空业。不允许深度学习。只有无与伦比的工程努力和质量保证。
 
-[![Airbus A330](../Images/bad3f59d52495445a4f58ceb43da6323.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rY20quyy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qski3jx8tentpgbf2zog.jpg)
+[![Airbus A330](img/bad3f59d52495445a4f58ceb43da6323.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rY20quyy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qski3jx8tentpgbf2zog.jpg)
 
 例如，空客 A330 的飞行控制系统有 ***五倍冗余*** ！
 
@@ -96,7 +96,7 @@
 
 以任何有意义的方式证明你的自动驾驶汽车比人类更安全将是极其困难的。我不打算给你讲所有的统计数字。让我给你链接一篇[文章](https://www.greencarreports.com/news/1106613_how-safe-is-tesla-autopilot-parsing-the-statistics-as-suggested-by-elon-musk)，这篇文章很好地涵盖了问题的范围。这里我只谈几个重点。
 
-[![graph](../Images/832e77efe2a36f4ae20931d3f541eb22.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cPLCnQKv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mv1afv2q6y3a7xq97eso.jpg)
+[![graph](img/832e77efe2a36f4ae20931d3f541eb22.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cPLCnQKv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mv1afv2q6y3a7xq97eso.jpg)
 
 ##### 需要庞大的样本量
 
@@ -148,7 +148,7 @@
 
 特斯拉当然会被起诉。已经在被[起诉](https://www.consumeraffairs.com/news/lawsuit-charges-tesla-of-misleading-consumers-about-safety-of-its-autopilot-feature-022818.html)了。
 
-[![lawsuits](../Images/cd4268f94585a1c32298896de3c71df8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qydNF_GX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2blrpje0y33uhm86biq9.jpg)
+[![lawsuits](img/cd4268f94585a1c32298896de3c71df8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qydNF_GX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2blrpje0y33uhm86biq9.jpg)
 
 丰田已经为我之前提到的意外加速问题支付了超过 10 亿美元。虽然我不是法律专家，但我怀疑特斯拉比丰田暴露得更多。我预计原告律师在一些巨大的集体诉讼中会因为我在这篇文章中提到的所有原因而轻易地将特斯拉撕成碎片。特斯拉能承受多少诉讼？
 
@@ -206,7 +206,7 @@
 
 我提出这个问题有两个原因。首先，埃隆·马斯克(Elon Musk)已经赢得了几乎在任何房间里都是最聪明的人的名声。但是他确实会犯错误。我们不应该盲目相信他的判断。其次，我想知道在接下来的几年里，他是否会被迫承认与特斯拉自动驾驶系统完全相同的事情。再读一遍那条推文——它会完美地工作。
 
-[![car crash](../Images/375ab0dc83b44479085af25767dada55.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6te266-d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hvt60z5d1uk384yh46oc.jpg)
+[![car crash](img/375ab0dc83b44479085af25767dada55.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6te266-d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hvt60z5d1uk384yh46oc.jpg)
 
 ### 底线
 

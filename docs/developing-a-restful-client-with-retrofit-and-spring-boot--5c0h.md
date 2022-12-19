@@ -6,4 +6,4 @@
 
 [读下去🍃](https://auth0.com/blog/developing-a-restful-client-with-retrofit-and-spring-boot/?utm_source=dev&utm_medium=sc&utm_campaign=retrofit_spring)
 
-[![Developing a RESTful Client with Retrofit and Spring Boot](../Images/e8a3b5f39fe8c953115ef6a5ca57478e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZcEjW71g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ynvz5csmrop0c7v6yrqu.png)
+[![Developing a RESTful Client with Retrofit and Spring Boot](img/e8a3b5f39fe8c953115ef6a5ca57478e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZcEjW71g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ynvz5csmrop0c7v6yrqu.png)

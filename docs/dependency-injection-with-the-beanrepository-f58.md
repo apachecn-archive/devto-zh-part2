@@ -159,7 +159,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 获得见解:
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [蒂诺斯坦诺尔](https://github.com/tinosteinort) / [豆库](https://github.com/tinosteinort/beanrepository)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [蒂诺斯坦诺尔](https://github.com/tinosteinort) / [豆库](https://github.com/tinosteinort/beanrepository)
 
 ### 依赖注入/服务定位器库
 

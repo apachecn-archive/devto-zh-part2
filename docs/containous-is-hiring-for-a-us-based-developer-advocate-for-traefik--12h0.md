@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/patricia_dugan/containous-is-hiring-for-a-us-based-developer-advocate-for-traefik--12h0>
 
-[![Traefik](../Images/5dbee9b3b5d869d9885214e87933125a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ccatUrdq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j3d4cc65onyn67cskoxq.png)
+[![Traefik](img/5dbee9b3b5d869d9885214e87933125a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ccatUrdq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j3d4cc65onyn67cskoxq.png)
 
 Containous， [Traefik](https://traefik.io/) 的创建者|开发者倡导者|美国|远程|赞助商签证？号码
 

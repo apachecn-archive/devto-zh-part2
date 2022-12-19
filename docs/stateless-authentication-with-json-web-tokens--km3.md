@@ -4,7 +4,7 @@
 
 > 在 [yos.io](https://yos.io/) 找到更多有趣的文章
 
-[![Stateless Authentication with JSON Web Tokens](../Images/8fbfe77461ebb222a478345b58bb4f68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bJHgfreb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/DBtJbeO.jpg)
+[![Stateless Authentication with JSON Web Tokens](img/8fbfe77461ebb222a478345b58bb4f68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bJHgfreb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/DBtJbeO.jpg)
 
 无论你是在编写一个公共 API 还是一个内部微服务，获得正确的身份验证都可以决定你的 API 的成败。让我们来看看一个基于 JSON Web 令牌的认证系统。
 
@@ -239,7 +239,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 **1。细粒度的访问控制**:您可以在*令牌本身*中指定详细的访问控制信息，作为其有效负载的一部分。与创建具有非常具体的权限的 AWS 安全策略一样，您可以将令牌限制为只授予对单个资源的读/写访问权限。相比之下，API 键倾向于进行粗略的全有或全无访问。
 
-[![](../Images/020abe2a7baffe73f15148ec225e872b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o0giU7qe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://help.github.com/assets/images/help/settings/token_scopes.gif)
+[![](img/020abe2a7baffe73f15148ec225e872b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o0giU7qe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://help.github.com/asseimg/help/settings/token_scopes.gif)
 
 您可以用包含一组带有 jwt 的动态范围的私有声明来填充您的令牌。比如:
 
@@ -520,7 +520,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 下面是我们更新后的支持撤销已颁发令牌的流程:
 
-[![](../Images/329f11332546ea985253c5acf1afdb82.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CM3RgfYf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/rYWf4tn.png)
+[![](img/329f11332546ea985253c5acf1afdb82.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CM3RgfYf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/rYWf4tn.png)
 
 我们在令牌验证过程中引入了一些额外的步骤(这发生在我们的中间件中)，令牌验证过程与外部私有秘密存储器`KeyService`通信，以检索解码和验证 JWT 签名所需的秘密。
 

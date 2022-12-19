@@ -103,4 +103,4 @@ FormData JavaScript 对象用于为 XMLHttpRequest (Ajax)发送表单数据。Fo
 
 # 总结
 
-[![Summary](../Images/244ccb5148843683e0d2b192b935d587.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xtC4aHoS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yi2ndgq7o0f6h3ksxg8y.png)
+[![Summary](img/244ccb5148843683e0d2b192b935d587.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xtC4aHoS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yi2ndgq7o0f6h3ksxg8y.png)

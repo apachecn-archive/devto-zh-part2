@@ -4,14 +4,14 @@
 
 我最近在 Twitter 上看到了以下关于 git 的推文:
 
-> ![Cory House 🏠 profile image](../Images/b6f41d5c274123b20530e2595bf37da7.png)科里的房子🏠@ housecor![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)我❤️饭桶。但老实说，这让我害怕了很多年。我认为我需要理解它所有的强大功能才能富有成效。我发现事实并非如此。你可以在 Git 中使用大约 6 个命令来提高效率:
+> ![Cory House 🏠 profile image](img/b6f41d5c274123b20530e2595bf37da7.png)科里的房子🏠@ housecor![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)我❤️饭桶。但老实说，这让我害怕了很多年。我认为我需要理解它所有的强大功能才能富有成效。我发现事实并非如此。你可以在 Git 中使用大约 6 个命令来提高效率:
 > 
 > branch
 > check
 > add
 > commit
 > pull
-> push2018 年 8 月 14:46 PM - 19 日[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1031190760278970368)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1031190760278970368)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1031190760278970368)
+> push2018 年 8 月 14:46 PM - 19 日[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1031190760278970368)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1031190760278970368)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1031190760278970368)
 
 这是真的，你可以用这些命令完成大部分工作。
 

@@ -10,7 +10,7 @@
 
 我们正淹没在技术后现代主义的等价物中，在那里唯一的原则是不要在追求性感、炒作和酷孩子的“正确”方式中拥有一个。
 
-[![A House for Essex, UK, 2015, by FAT and Grayson Perry](../Images/52ef749fa3ab5cf5ab54e5c22dfb0db2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--StZhnenp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.dezeen.com/uploads/2018/01/house-for-essex-dezeen-hero-1704x959.jpg)
+[![A House for Essex, UK, 2015, by FAT and Grayson Perry](img/52ef749fa3ab5cf5ab54e5c22dfb0db2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--StZhnenp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.dezeen.com/uploads/2018/01/house-for-essex-dezeen-hero-1704x959.jpg)
 
 这是错误的，因为它并没有区分我们。如果你做不出什么与众不同的东西，成功的几率很小。此外，以正确的方式做事往往会让你迷失方向，放慢速度，偏离方向，因为你一开始就没有原则。
 

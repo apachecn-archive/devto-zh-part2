@@ -10,7 +10,7 @@
 
 **和 pstt...我真的建议你去 [Umbraco Codegarden](https://codegarden18.com/) 或[UK Fest](https://umbracofestival.co.uk/)/[PL Festivals](https://umbracofestival.pl/)因为它们是我有机会参加的最好的社区活动。**
 
-[![Codegarden 2017 Crowd](../Images/823aff4c9792a9fd50a9bd1d7c444758.png "Codegarden 2017 Crowd")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zfcmUsW6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4m4ds7v6c4fqoaf5t5gi.jpg)
+[![Codegarden 2017 Crowd](img/823aff4c9792a9fd50a9bd1d7c444758.png "Codegarden 2017 Crowd")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zfcmUsW6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4m4ds7v6c4fqoaf5t5gi.jpg)
 
 * * *
 
@@ -30,7 +30,7 @@
 
 正如一位智者曾经说过的:*‘不要努力成为一个成功的人，而要努力成为一个有价值的人’*。你知道是谁吗？阿尔伯特·爱因斯坦。那么这一定是事实；)而价值又藏在哪里呢？答案很简单:在人们的脑子里(和口袋里)。如果我们想要成功，我们需要给予他人价值，同时也要向他人学习，并从他们的价值观和行为中得到启发。
 
-[![Me presenting the latest C# Features at Umbraco UK Festival 2017](../Images/a5e0188c350f840ba0a0c190eb5a232f.png "Me presenting the latest C# Features at Umbraco UK Festival 2017")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yhwDRgMn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cecbs2ygvk5xcjnluoxh.jpg)
+[![Me presenting the latest C# Features at Umbraco UK Festival 2017](img/a5e0188c350f840ba0a0c190eb5a232f.png "Me presenting the latest C# Features at Umbraco UK Festival 2017")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yhwDRgMn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cecbs2ygvk5xcjnluoxh.jpg)
 
 **Pro(bro)tip** : *假装你很擅长某事(我知道你很棒！).分享更多关于你最近失败的细节，并在你的伴侣面前指责你缺乏相关知识；)*
 
@@ -94,7 +94,7 @@ if (sheOrHeIsStillLooking) {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![People, Not Technology](../Images/4f912d6a1e60d7f1d16af38e7bf34566.png "Quote from 'The Rational Guide To Building Technical User Communities' book by Dr. Greg Low")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qXIXozRt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2zfrepkqcxh6s62w9sh2.jpg)
+[![People, Not Technology](img/4f912d6a1e60d7f1d16af38e7bf34566.png "Quote from 'The Rational Guide To Building Technical User Communities' book by Dr. Greg Low")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qXIXozRt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2zfrepkqcxh6s62w9sh2.jpg)
 
 ## 4。群山在召唤，我必须离开
 
@@ -106,7 +106,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 最后，但不是最不重要的！让我们谈谈钱。我喜欢这个论点。尤其是当你是自己的老板，并且在这种类型的讨论中把这一点作为一个有效的观点的时候。我总是说它是由公司的钱赞助的——即使我是作为自由职业者或者当我经营我以前的生意时也是如此！；)你知道吗..成功了！如果钱是一把钥匙(我知道有时候是...)更容易接受不是自己的钱(家庭预算等)。)去了就丢了烧了。即使他们会在一天结束时；)如果它真的是由你的公司赞助的——向他们致敬，向他们因你的知识水平而增加的投资致敬！
 
-[![Meetups Panel at Umbraco UK Festival 2017](../Images/12fd8bbd904fbcee39102139ab1b70fc.png "Choose the right people to work with! Me at Meetups Panel during the Umbraco UK Festival 2017")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gIhWA8U7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oyohintrannrjvwpg3s0.jpg)
+[![Meetups Panel at Umbraco UK Festival 2017](img/12fd8bbd904fbcee39102139ab1b70fc.png "Choose the right people to work with! Me at Meetups Panel during the Umbraco UK Festival 2017")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gIhWA8U7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oyohintrannrjvwpg3s0.jpg)
 
 **Pro(bro)提示** : *投资自己。不要害怕浪费钱去参加上述的活动。它可能不会被浪费。当然——所有都在合理的范围内，并且牢记你的可能性和目标。将你的账户分成多个账户，为你的自我提升、市场营销和促销留出预算。*
 

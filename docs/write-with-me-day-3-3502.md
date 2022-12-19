@@ -10,7 +10,7 @@
 
 时事通讯被分成几个故事。下面是我们故事中的一个例子。
 
-[![A News Story From The Weekly Drip](../Images/08b1d898cfb8b0cd1b08e345129edcb3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---NoNyCYw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5ia4hpf9joka256m6gho.png)
+[![A News Story From The Weekly Drip](img/08b1d898cfb8b0cd1b08e345129edcb3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---NoNyCYw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5ia4hpf9joka256m6gho.png)
 
 另外，这里有一个我提到的时事通讯的链接，如果你想阅读它的话。
 

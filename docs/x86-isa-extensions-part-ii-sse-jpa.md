@@ -61,7 +61,7 @@ _is_sse_available:
 
 为了控制某些操作的状态，增加了一个额外的控制和状态寄存器，称为`MXCSR`。该寄存器不能使用`mov`系列指令访问，SSE 增加了两条新指令，允许加载和存储寄存器，`LDMXSCR` & `STMXSCR`。该图显示了它的布局，然后解释了它在 SSE 环境中的用法。
 
-[![The MXCSR register](../Images/3620dd4bc40d2fe36b2118a880381039.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z0vD41sg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0v95lbtolwb47b0fgs7y.png)
+[![The MXCSR register](img/3620dd4bc40d2fe36b2118a880381039.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z0vD41sg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0v95lbtolwb47b0fgs7y.png)
 
 MXCSR 中的位 0-5 是标志，表示发生了某种类型的浮点异常，它们也是粘性的，意味着用户(或操作系统)必须在异常后手动重置它们，否则它们将永远保持设置。第 7-12 位是屏蔽位，当满足与特定异常相关的特定条件时，它们可用于阻止 CPU 发出异常，在这种情况下，处理器将返回值(qNaN、sNaN、确定的整数或源操作数之一；详见[1])。
 

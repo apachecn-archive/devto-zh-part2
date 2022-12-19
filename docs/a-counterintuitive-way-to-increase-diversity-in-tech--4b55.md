@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/rachelnabors/a-counterintuitive-way-to-increase-diversity-in-tech--4b55>
 
-[![A young man says, 'I want to a be a part of the solution! How can I help?' and a woman of color replies, 'Are you hiring?'](../Images/8cdf57a99f343309c92a9aa85dfb61fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uES-VjhM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nle78poxqudhftwate4d.jpg)
+[![A young man says, 'I want to a be a part of the solution! How can I help?' and a woman of color replies, 'Are you hiring?'](img/8cdf57a99f343309c92a9aa85dfb61fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uES-VjhM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nle78poxqudhftwate4d.jpg)
 
 你想增加科技的多样性。你是一个有特权的人，可能是白人，男性，甚至可能很富有。你已经知道拥有一个多元化和包容性团队的好处:多种多样的眼睛有助于获得更多见解，减少惊喜。听到代表不足的同龄人的悲伤故事，你会很痛苦。你想帮忙但不知道怎么帮。
 

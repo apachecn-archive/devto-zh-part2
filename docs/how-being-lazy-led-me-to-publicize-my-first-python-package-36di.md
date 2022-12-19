@@ -10,7 +10,7 @@
 
 我不知道盖茨先生是否会雇用我，但我不得不承认，这种懒惰让我时不时地创建有趣且节省时间的库/脚本/工作区。
 
-[![](../Images/2f42d676ad0c1ca889c24dfa46b69758.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iSdAnTjw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/1%2AnMTVWvIzsKtSC2qntRAlqA.jpeg) 
+[![](img/2f42d676ad0c1ca889c24dfa46b69758.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iSdAnTjw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/1%2AnMTVWvIzsKtSC2qntRAlqA.jpeg) 
 
 <figcaption>感谢拉里:)</figcaption>
 
@@ -38,7 +38,7 @@ print(‘exception raised’)
 
 解决方案涉及装饰者的奇妙特性。我太喜欢它了，以至于我不看电影，而是用 decorators(和各种其他 python 特性)阅读代码
 
-[![](../Images/615d3beabba0ee90ff46e750e49974d3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HxZUcUlb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/430/1%2A9dgT7Mg-YLMGW7b1MpIrAA.jpeg) 
+[![](img/615d3beabba0ee90ff46e750e49974d3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HxZUcUlb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/430/1%2A9dgT7Mg-YLMGW7b1MpIrAA.jpeg) 
 
 <figcaption>对不起，那是一个很糟糕的笑话</figcaption>
 

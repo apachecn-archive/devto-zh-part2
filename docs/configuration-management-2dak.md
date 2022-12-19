@@ -4,7 +4,7 @@
 
 # 使用 OpenCM 管理您的数字业务平台
 
-| 2018 年第四期 | [![](../Images/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue4/SAG_DBP_Configuration_TECHniques_Oct18_WEB.pdf) |
+| 2018 年第四期 | [![](img/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue4/SAG_DBP_Configuration_TECHniques_Oct18_WEB.pdf) |
 | --- | --- |
 
 OpenCM 是一个开源的配置管理治理工具，强调控制不同 webMethods 安装的正确配置设置的能力。单个服务器上的常规 webMethods 安装包含 500-1，000 个配置属性，因此，当安装数量增加时，无法手动记录，也无法审核。OpenCM 现在是一个开源工具，可供任何希望提高洞察力和控制水平的客户使用，以降低在无效上下文中执行 QA 验证和生产运行时的风险。
@@ -21,7 +21,7 @@ OpenCM 是一个开源的配置管理治理工具，强调控制不同 webMethod
 
 OpenCM 提供了自动化提取、比较和生成审计环境所需的报告的完整过程的能力。它使用软件 AG 平台管理器作为检索运行时信息的主要工具。
 
-[![](../Images/c4863de9157579ec21788ddd9afb359a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aTfRycFI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/ConfManagement_1.jpg/bb8a281d-161a-4f55-abe4-67ba610cbed6%3Ft%3D1539784084716)
+[![](img/c4863de9157579ec21788ddd9afb359a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aTfRycFI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/ConfManagement_1.jpg/bb8a281d-161a-4f55-abe4-67ba610cbed6%3Ft%3D1539784084716)
 
 **图 1:** 持续审计:提取、比较和报告
 
@@ -29,13 +29,13 @@ OpenCM 提供了自动化提取、比较和生成审计环境所需的报告的�
 
 OpenCM 还附带了一个用户界面，允许在您的数字业务平台基础架构环境中轻松导航，并提供轻松深入详细配置项目值的能力。例如，只需点击几下鼠标，就可以迅速看到生产中的当前修复级别。
 
-[![](../Images/9ddf74bf44590c9ff3b436251f3f0ee5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xtxg8zjF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/ConfManagement_2.jpg/18059a2f-a52a-453d-8a2b-4a628d7ae988%3Ft%3D1539784249164)T3】图 2: OpenCM 用户界面:可视化安装属性
+[![](img/9ddf74bf44590c9ff3b436251f3f0ee5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xtxg8zjF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/ConfManagement_2.jpg/18059a2f-a52a-453d-8a2b-4a628d7ae988%3Ft%3D1539784249164)T3】图 2: OpenCM 用户界面:可视化安装属性
 
 ## 审计差异和报告
 
 执行断言时生成的比较报告之一是一个 Excel 电子表格，它显示了跨多个环境的每个安装的值。当一行显示为红色时，这意味着特定属性的一个值(或多个值)不同，而实际上它们应该是相同的。
 
-[![](../Images/8d9f8d4414a6884453cd5b289710bd4d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jg4hKNEW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/ConfManagement_3.jpg/cad957f7-3fb5-4753-b115-834360a3c3dc%3Ft%3D1539784354926) 
+[![](img/8d9f8d4414a6884453cd5b289710bd4d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jg4hKNEW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/10000089/ConfManagement_3.jpg/cad957f7-3fb5-4753-b115-834360a3c3dc%3Ft%3D1539784354926) 
 
 **图 3:** 汇报:突出差异
 

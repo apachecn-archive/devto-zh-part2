@@ -198,129 +198,129 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们从方差(标准差的平方)的公式开始:
 
-[![variance formula](../Images/faf27dbf03749c201e5e06098c6e6dc5.png "variance formula")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aohE_HiH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wzguiyf0c3jtu3api0xi.png)
+[![variance formula](img/faf27dbf03749c201e5e06098c6e6dc5.png "variance formula")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aohE_HiH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wzguiyf0c3jtu3api0xi.png)
 
 接下来，我们将两边乘以 n-1(或者在人口方差的情况下乘以 n):
 
-[![variance times n-1](../Images/b7f0df7781ea6d3e05a1c16da00a9bf9.png "variance times n-1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p598aTsC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5w4k4qf0ltjwruub7ket.png)
+[![variance times n-1](img/b7f0df7781ea6d3e05a1c16da00a9bf9.png "variance times n-1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p598aTsC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5w4k4qf0ltjwruub7ket.png)
 
 我将这个值定义为`d²`(参见我关于标准差的[几何的文章):](https://dev.to/nestedsoftware/the-geometry-of-standard-deviation--3m3o)
 
-[![d squared](../Images/ce2498663b637d44ae3373e7931b527e.png "d squared")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--21Po9epk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ucyr0v35zg1r5q61ysns.png)
+[![d squared](img/ce2498663b637d44ae3373e7931b527e.png "d squared")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--21Po9epk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ucyr0v35zg1r5q61ysns.png)
 
 我们可以使用以下标识来扩展它:
 
-[![(a-b)^2](../Images/f07e055b286d9c48a256bfba8b1ce04f.png "(a-b)^2")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hfUOv0IG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2ch48vlwcm90gei6jo3v.png)
+[![(a-b)^2](img/f07e055b286d9c48a256bfba8b1ce04f.png "(a-b)^2")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hfUOv0IG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2ch48vlwcm90gei6jo3v.png)
 
 应用这个替换，我们得到:
 
-[![expand d squared](../Images/fe179581bbbd1dae92dd42cfb775a875.png "expand d squared")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lUGEet_V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xs6v3nhi14rpnypfzvpo.png)
+[![expand d squared](img/fe179581bbbd1dae92dd42cfb775a875.png "expand d squared")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lUGEet_V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xs6v3nhi14rpnypfzvpo.png)
 
 让我们将总和分成三个独立的部分:
 
-[![separate summation into parts](../Images/b70cdf187c2df93ac0138e390b170387.png "separate summation into parts")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DnYAYX7u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gyqik7gplkkgc42qic83.png)
+[![separate summation into parts](img/b70cdf187c2df93ac0138e390b170387.png "separate summation into parts")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DnYAYX7u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gyqik7gplkkgc42qic83.png)
 
 现在我们可以分解出常数:
 
-[![factor out constants](../Images/c542ac83bc0b14ede3d08de407498e58.png "factor out constants")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X0jK_gVH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/akys1qiet14t1ldns7sz.png)
+[![factor out constants](img/c542ac83bc0b14ede3d08de407498e58.png "factor out constants")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X0jK_gVH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/akys1qiet14t1ldns7sz.png)
 
 与前一篇文章一样，我们将使用以下恒等式(总数=平均数*计数):
 
-[![total = mean * count](../Images/037ba1597ef379fd74c1b44051fd537a.png "total = mean * count")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s0BJq_Mz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pe36aaojidy23ziujtl1.png)
+[![total = mean * count](img/037ba1597ef379fd74c1b44051fd537a.png "total = mean * count")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s0BJq_Mz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pe36aaojidy23ziujtl1.png)
 
 将此代入我们之前等式的第二项求和，得出:
 
-[![sustitute mean * count for total](../Images/979c3d96fd984b9e157d46083b572471.png "sustitute mean * count for total")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OmTBeRd2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q1j2dfa8nmzmr9c2bsxs.png)
+[![sustitute mean * count for total](img/979c3d96fd984b9e157d46083b572471.png "sustitute mean * count for total")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OmTBeRd2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q1j2dfa8nmzmr9c2bsxs.png)
 
 从 i=1 到 i=n 的 1 之和正好是 n:
 
-[![summation of 1](../Images/eb5266d09df485974c8045a3d2d413e6.png "summation of 1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lBvHv-Ga--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ltorvgrtj31xs5pkagx2.png)
+[![summation of 1](img/eb5266d09df485974c8045a3d2d413e6.png "summation of 1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lBvHv-Ga--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ltorvgrtj31xs5pkagx2.png)
 
 因此，我们可以将等式简化如下:
 
-[![simplify previous step](../Images/79428636cb114c6611e44ae7a7e963f3.png "simplify previous step")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9APlhzk1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ptbihvpuzdu7heh003dj.png)
+[![simplify previous step](img/79428636cb114c6611e44ae7a7e963f3.png "simplify previous step")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9APlhzk1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ptbihvpuzdu7heh003dj.png)
 
 我们可以将最后两项结合起来，得到以下结果:
 
-[![reduce](../Images/187f71b391879edd48b532fbe084a233.png "reduce")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rYmaYqFw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hp2klsp3q6s65vi7oq4s.png)
+[![reduce](img/187f71b391879edd48b532fbe084a233.png "reduce")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rYmaYqFw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hp2klsp3q6s65vi7oq4s.png)
 
 现在我们有了这个结果，我们可以使用相同的等式来获得第一个`n-1`项的`d²`，即除了最近的一个之外的所有值:
 
-[![d^2 for n-1](../Images/fe466a1d499374d1b09329b4163d6f3e.png "d^2 for n-1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WuthpbYC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fwz2lq5b0fv6emq050gm.png)
+[![d^2 for n-1](img/fe466a1d499374d1b09329b4163d6f3e.png "d^2 for n-1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WuthpbYC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fwz2lq5b0fv6emq050gm.png)
 
 让我们减去这两个量:
 
-[![d_n^2 - d_(n-1)^2](../Images/61ee1ad534def8ed1ff35c2889d8eec6.png "d_n^2 - d_(n-1)^2")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hFI5V7LR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pwgi0ucpef3rzar710br.png)
+[![d_n^2 - d_(n-1)^2](img/61ee1ad534def8ed1ff35c2889d8eec6.png "d_n^2 - d_(n-1)^2")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hFI5V7LR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pwgi0ucpef3rzar710br.png)
 
 将-1 乘以括号中的表达式，我们得到:
 
-[![multiply -1 through](../Images/9a22523530289b28fb74e88c3e268920.png "multiply -1 through")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eNptSRhV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ay9t7p0g014pmxk413pq.png)
+[![multiply -1 through](img/9a22523530289b28fb74e88c3e268920.png "multiply -1 through")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eNptSRhV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ay9t7p0g014pmxk413pq.png)
 
 当我们减去∑x <sub>i</sub> 直到 n - ∑x <sub>i</sub> 直到 n-1 时，只剩下最后一个值，x<sub>n</sub>T6】2:
 
-[![subtract summations](../Images/1c5b92672086dc238f9b70a3e8cdf4f4.png "subtract summations")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wcqsLzjs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i92vj2h64mgrc0rbjofy.png)
+[![subtract summations](img/1c5b92672086dc238f9b70a3e8cdf4f4.png "subtract summations")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wcqsLzjs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i92vj2h64mgrc0rbjofy.png)
 
 这样我们就可以去掉两个求和项，简化等式:
 
-[![simplified](../Images/605c4c8f86d94e8d5b59e90169aebff7.png "simplified")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AqOobjk8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3opp6jsc5lolyy78ljf0.png)
+[![simplified](img/605c4c8f86d94e8d5b59e90169aebff7.png "simplified")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AqOobjk8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3opp6jsc5lolyy78ljf0.png)
 
 乘以最后一项得出:
 
-[![simplified](../Images/60a7e1af87c84190e6d9a7878d7569cb.png "simplified")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---FxkVIzq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ma1y8wpoyf8ufk6xg3dq.png)
+[![simplified](img/60a7e1af87c84190e6d9a7878d7569cb.png "simplified")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---FxkVIzq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ma1y8wpoyf8ufk6xg3dq.png)
 
 重新排列顺序，我们得到:
 
-[![rearrange order](../Images/680d16198ab5ab52eab2db64c8940cc8.png "rearrange order")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tH2qcBpw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8tw3661pf0ah92m9r23s.png)
+[![rearrange order](img/680d16198ab5ab52eab2db64c8940cc8.png "rearrange order")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tH2qcBpw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8tw3661pf0ah92m9r23s.png)
 
 去掉最后两项中的 n，我们得到:
 
-[![rearrange order](../Images/8a7be92c02d941a5220fea990113e5fc.png "rearrange order")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RUR-N1Rk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vf03hlzyzr35d9w3mjmq.png)
+[![rearrange order](img/8a7be92c02d941a5220fea990113e5fc.png "rearrange order")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RUR-N1Rk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vf03hlzyzr35d9w3mjmq.png)
 
 我们知道:
 
-[![a^2 - b^2 = (a-b)*(a+b)](../Images/abb1f5eb913ac6871aeb5ee1c10a6aa9.png "a^2 - b^2 = (a-b)*(a+b)")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7fMIk21z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3cafat4hhkq2vvqbsn4k.png)
+[![a^2 - b^2 = (a-b)*(a+b)](img/abb1f5eb913ac6871aeb5ee1c10a6aa9.png "a^2 - b^2 = (a-b)*(a+b)")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7fMIk21z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3cafat4hhkq2vvqbsn4k.png)
 
 让我们将此应用于等式括号中的表达式:
 
-[![apply a^2 - b^2 = (a-b)*(a+b)](../Images/95bd8b62f008c6e9e688cf5a00057680.png "apply a^2 - b^2 = (a-b)*(a+b)")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SmEOZN2W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/827vbfcmpqnmuuiyq6du.png)
+[![apply a^2 - b^2 = (a-b)*(a+b)](img/95bd8b62f008c6e9e688cf5a00057680.png "apply a^2 - b^2 = (a-b)*(a+b)")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SmEOZN2W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/827vbfcmpqnmuuiyq6du.png)
 
 我们快到了！现在是时候应用下面的恒等式了，它是在[最后一篇文章](https://dev.to/nestedsoftware/calculating-a-moving-average-on-streaming-data-5a7k)的最后得出的:
 
-[![identity from previous article](../Images/4dbdfb8f13c7065ea60ae4090fca5cf3.png "identity from previous article")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kGRX-pGT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hrgt967ztsg56xltxyfj.png)
+[![identity from previous article](img/4dbdfb8f13c7065ea60ae4090fca5cf3.png "identity from previous article")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kGRX-pGT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hrgt967ztsg56xltxyfj.png)
 
 应用这个恒等式，我们得到:
 
-[![apply identity from previous article](../Images/38b9eb1cc91145cbc140d9be98b5b260.png "apply identity from previous article")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QRg2FpOs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/36kseu0aouinzvchm1vk.png)
+[![apply identity from previous article](img/38b9eb1cc91145cbc140d9be98b5b260.png "apply identity from previous article")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QRg2FpOs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/36kseu0aouinzvchm1vk.png)
 
 通过倍增，我们有:
 
-[![multiply through](../Images/1c801b7e726a95429d0003bcdbce4f1d.png "multiply through")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---MsqKp2y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t7ttyorx8dc3chbtvp9f.png)
+[![multiply through](img/1c801b7e726a95429d0003bcdbce4f1d.png "multiply through")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---MsqKp2y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t7ttyorx8dc3chbtvp9f.png)
 
 我们可以取消相同值的减法，并重新排列一位以获得以下结果:
 
-[![simplify and rearrange](../Images/77c66a07f1d4da72f1300e572ed55871.png "simplify and rearrange")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rlG3ehwE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nrmapfrq80udjx20by5r.png)
+[![simplify and rearrange](img/77c66a07f1d4da72f1300e572ed55871.png "simplify and rearrange")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rlG3ehwE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nrmapfrq80udjx20by5r.png)
 
 我们知道:
 
-[![(x-a)*(x-b) = x^2 - bx - ax + ab](../Images/c9d946bfed99251704b60ba726a544e8.png "(x-a)*(x-b) = x^2 - bx - ax + ab")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SLATYa_6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5pwfchg4at8q3itmar2w.png)
+[![(x-a)*(x-b) = x^2 - bx - ax + ab](img/c9d946bfed99251704b60ba726a544e8.png "(x-a)*(x-b) = x^2 - bx - ax + ab")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SLATYa_6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5pwfchg4at8q3itmar2w.png)
 
 这使我们能够很好地简化我们的等式:
 
-[![simplify](../Images/c51e828d0bb05f7317d9ca9d1b38160c.png "simplify")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---EVbsvqz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/130yhyqnsbyc7cn81ton.png)
+[![simplify](img/c51e828d0bb05f7317d9ca9d1b38160c.png "simplify")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---EVbsvqz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/130yhyqnsbyc7cn81ton.png)
 
 我们现在可以将两边的 d <sup>2</sup> <sub>n-1</sub> 相加得到我们的最终结果！
 
-[![final result](../Images/582d9de4644d9bbb2e0853928dae734a.png "final result")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---CIQGJN6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/27ou4zgk6ir2ox8gj2b5.png)
+[![final result](img/582d9de4644d9bbb2e0853928dae734a.png "final result")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---CIQGJN6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/27ou4zgk6ir2ox8gj2b5.png)
 
 这是一段漫长的跋涉，但我们现在有了我们一直在寻找的宝石。和上一篇文章一样，我们有一个很好的递归关系。这个允许我们通过增加一个增量来计算新的 d <sup>2</sup> 。
 
 为了得到方差，我们只需将 d <sup>2</sup> 除以 n 或 n-1:
 
-[![variance](../Images/51cdbacfd8cc3524df9f8eb6543ed7f5.png "variance")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aA_GLQPe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/usmpzl2hsr60v5nfbvmh.png)
+[![variance](img/51cdbacfd8cc3524df9f8eb6543ed7f5.png "variance")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aA_GLQPe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/usmpzl2hsr60v5nfbvmh.png)
 
 依次求方差的平方根，得到标准偏差:
 
-[![standard deviation](../Images/8908ca6ca0aa895e0f2ef5116001fceb.png "standard deviation")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jY4uIo6X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tr8dnk8m18sl8nb235a5.png)
+[![standard deviation](img/8908ca6ca0aa895e0f2ef5116001fceb.png "standard deviation")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jY4uIo6X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tr8dnk8m18sl8nb235a5.png)
 
 参考资料:
 

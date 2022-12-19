@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/hackersandslackers/handling-forms-in-flask-with-flask-wtf-4d0m>
 
-[![Handling Forms in Flask with Flask-WTF](../Images/46d0916ab0c8cbf407573c7cc21a889c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l9hqTyHK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res-1.cloudinary.com/hackers/image/upload/q_auto:best/v1/2019/11/flask-wtforms.jpg)
+[![Handling Forms in Flask with Flask-WTF](img/46d0916ab0c8cbf407573c7cc21a889c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l9hqTyHK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res-1.cloudinary.com/hackers/image/upload/q_auto:best/v1/2019/11/flask-wtforms.jpg)
 
 让我们来谈谈大家都讨厌的东西:表单。唯一比填写表格更痛苦的事情是创建一个表格，更不用说一个有反馈的功能性表格了。如果构建函数形式的想法没有让你感到恶心，那么你可能会陷入一些奇怪的事情。打电话给我。
 
@@ -221,7 +221,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这真的和看起来一样简单。我们将表单(名为`form`)传递给这个模板，因此`{{ form.name }}`是我们表单的*名称*字段，`{{ form.email }}`是我们表单的*电子邮件*字段，以此类推。让我们看看它是什么样子的:
 
-<figure>[![Handling Forms in Flask with Flask-WTF](../Images/88189c4e30c4f6ebda7250317a7a0f4f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--X5TPii92--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res-3.cloudinary.com/hackers/image/upload/q_auto:best/v1/2019/11/wtforms-no-error.gif) 
+<figure>[![Handling Forms in Flask with Flask-WTF](img/88189c4e30c4f6ebda7250317a7a0f4f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--X5TPii92--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res-3.cloudinary.com/hackers/image/upload/q_auto:best/v1/2019/11/wtforms-no-error.gif) 
 
 <figcaption>提交无效表单。</figcaption>
 
@@ -325,7 +325,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当我们处理表单逻辑处理的现实时，我们简单的表单突然变得更加复杂，也许更麻烦。我们不应该让这转化为我们最终用户的复杂性。相反，只要我们以有效的视觉方式传达错误，我们为捕捉边缘情况而设计的表单越健壮，表单对用户就越有用:
 
-<figure>[![Handling Forms in Flask with Flask-WTF](../Images/e77749800bc9702b3d3e7a6681948584.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YAwdiXc5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res-2.cloudinary.com/hackers/image/upload/q_auto:best/v1/2019/11/wtforms-error.gif) 
+<figure>[![Handling Forms in Flask with Flask-WTF](img/e77749800bc9702b3d3e7a6681948584.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YAwdiXc5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res-2.cloudinary.com/hackers/image/upload/q_auto:best/v1/2019/11/wtforms-error.gif) 
 
 <figcaption>字段现在抛出错误信息！</figcaption>
 
@@ -417,7 +417,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是我们的新表格:
 
-<figure>[![Handling Forms in Flask with Flask-WTF](../Images/a19c3bd062b7fa3410a33230c4f1b404.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9xOR1iCe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res-3.cloudinary.com/hackers/image/upload/q_auto:best/v1/2019/11/flaskwtf-signup.gif) 
+<figure>[![Handling Forms in Flask with Flask-WTF](img/a19c3bd062b7fa3410a33230c4f1b404.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9xOR1iCe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res-3.cloudinary.com/hackers/image/upload/q_auto:best/v1/2019/11/flaskwtf-signup.gif) 
 
 <figcaption>我们的新注册表单。</figcaption>
 
@@ -429,7 +429,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 阅读一篇 2000 字的教程，一个人能消化的东西是有限的，所以为了方便起见，我们将这篇教程的源代码发布在了 Github 上:
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png)/[烧瓶-wtform-教程](https://github.com/hackersandslackers/flask-wtform-tutorial)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png)/[烧瓶-wtform-教程](https://github.com/hackersandslackers/flask-wtform-tutorial)
 
 ### 📝😎在 Flask 应用程序中实现表单的教程。
 
@@ -437,9 +437,9 @@ Enter fullscreen mode Exit fullscreen mode
 
 # Flask-WTF 教程
 
-[![Python](../Images/91eac0264bc3c2568bdd56361da1d1ae.png)](https://camo.githubusercontent.com/0b153563dd844ea8bbae9bf9d219c0d9930aa35e7d2ed0e07638a2caa3745902/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d76253545332e382d626c75652e7376673f6c6f676f3d707974686f6e266c6f6e6743616368653d74727565266c6f676f436f6c6f723d776869746526636f6c6f72423d356538316163267374796c653d666c61742d73717561726526636f6c6f72413d346335363661)[![Flask](../Images/c488dcbd4bdf0afa3aa18515e5c7b32c.png)](https://camo.githubusercontent.com/f084d311ceb36b7defc164ff0bdeac736439789c62fd77f1c595eea119f9c51f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c61736b2d76322e312e312d626c75652e7376673f6c6f6e6743616368653d74727565266c6f676f3d666c61736b267374796c653d666c61742d737175617265266c6f676f436f6c6f723d776869746526636f6c6f72423d35653831616326636f6c6f72413d346335363661)[![Flask-WTF](../Images/e88893710b535a4be0a74ee1a5c45bdf.png)](https://camo.githubusercontent.com/86d8e0d04d4ace9f921e61789392d0fe147151201a54ef154d62262753fea5b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c61736b2d2d5754462d76312e302e312d626c75652e7376673f6c6f6e6743616368653d74727565266c6f676f3d666c61736b267374796c653d666c61742d737175617265266c6f676f436f6c6f723d776869746526636f6c6f72423d35653831616326636f6c6f72413d346335363661)[![GitHub Last Commit](../Images/ce450f99c39c42faeca9f81fb73c2c1d.png)](https://camo.githubusercontent.com/556bded58c9998ff95a5c6abd94d070c459b92b20b2a0977dc3a2f94af805fbe/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f676f6f676c652f736b69612e7376673f7374796c653d666c61742d73717561726526636f6c6f72413d34633536366126636f6c6f72423d613362653863266c6f676f3d476974487562)[![GitHub Issues](../Images/0e9680d46f9c2d6ebe5781a787c0d28d.png)](https://github.com/hackersandslackers/flask-wtform-tutorial/issues)[![GitHub Stars](../Images/2a804d141d2a31600e47d00780d15ccc.png)](https://github.com/hackersandslackers/flask-wtform-tutorial/stargazers)[![GitHub Forks](../Images/7d4a5c8edb09101cb7c59cc9251c0a09.png)](https://github.com/hackersandslackers/flask-wtform-tutorial/network)
+[![Python](img/91eac0264bc3c2568bdd56361da1d1ae.png)](https://camo.githubusercontent.com/0b153563dd844ea8bbae9bf9d219c0d9930aa35e7d2ed0e07638a2caa3745902/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d76253545332e382d626c75652e7376673f6c6f676f3d707974686f6e266c6f6e6743616368653d74727565266c6f676f436f6c6f723d776869746526636f6c6f72423d356538316163267374796c653d666c61742d73717561726526636f6c6f72413d346335363661)[![Flask](img/c488dcbd4bdf0afa3aa18515e5c7b32c.png)](https://camo.githubusercontent.com/f084d311ceb36b7defc164ff0bdeac736439789c62fd77f1c595eea119f9c51f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c61736b2d76322e312e312d626c75652e7376673f6c6f6e6743616368653d74727565266c6f676f3d666c61736b267374796c653d666c61742d737175617265266c6f676f436f6c6f723d776869746526636f6c6f72423d35653831616326636f6c6f72413d346335363661)[![Flask-WTF](img/e88893710b535a4be0a74ee1a5c45bdf.png)](https://camo.githubusercontent.com/86d8e0d04d4ace9f921e61789392d0fe147151201a54ef154d62262753fea5b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c61736b2d2d5754462d76312e302e312d626c75652e7376673f6c6f6e6743616368653d74727565266c6f676f3d666c61736b267374796c653d666c61742d737175617265266c6f676f436f6c6f723d776869746526636f6c6f72423d35653831616326636f6c6f72413d346335363661)[![GitHub Last Commit](img/ce450f99c39c42faeca9f81fb73c2c1d.png)](https://camo.githubusercontent.com/556bded58c9998ff95a5c6abd94d070c459b92b20b2a0977dc3a2f94af805fbe/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f676f6f676c652f736b69612e7376673f7374796c653d666c61742d73717561726526636f6c6f72413d34633536366126636f6c6f72423d613362653863266c6f676f3d476974487562)[![GitHub Issues](img/0e9680d46f9c2d6ebe5781a787c0d28d.png)](https://github.com/hackersandslackers/flask-wtform-tutorial/issues)[![GitHub Stars](img/2a804d141d2a31600e47d00780d15ccc.png)](https://github.com/hackersandslackers/flask-wtform-tutorial/stargazers)[![GitHub Forks](img/7d4a5c8edb09101cb7c59cc9251c0a09.png)](https://github.com/hackersandslackers/flask-wtform-tutorial/network)
 
-[![Flask-WTF Tutorial](../Images/a5cc33b6216a0bb541a225512bda52f4.png)T2】](https://github.com/hackersandslackers/flask-wtform-tutorial/blob/master/.github/flask-wtforms-tutorial@2x.jpg?raw=true)
+[![Flask-WTF Tutorial](img/a5cc33b6216a0bb541a225512bda52f4.png)T2】](https://github.com/hackersandslackers/flask-wtform-tutorial/blob/master/.github/flask-wtforms-tutorial@2x.jpg?raw=true)
 
 通过使用 Flask-WTForm 库创建表单来处理 Flask 应用程序中的用户输入。
 

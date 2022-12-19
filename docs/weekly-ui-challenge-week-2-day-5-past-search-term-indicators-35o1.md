@@ -12,13 +12,13 @@
 
 根据我创作的原始设计，这是我为第五天准备的:
 
-[![A search bar component, with input text element, autocomplete dropdown, and submit button](../Images/d10199764c0fa86a3c962cff4be5887e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DJpwpMAZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o4fogk8pe25rwwfazcq5.jpg)
+[![A search bar component, with input text element, autocomplete dropdown, and submit button](img/d10199764c0fa86a3c962cff4be5887e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DJpwpMAZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o4fogk8pe25rwwfazcq5.jpg)
 
 出于一致性的考虑，过去搜索的术语位于自动完成项目的正下方。如果你有一个功能齐全的搜索平台，你可以用真实的结果填充这个列表，但在我的例子中，我只是使用了一个静态的术语列表，人们可以在我虚构的音乐应用程序中搜索。
 
 以下是显示过去搜索词列表的动画:
 
-[![An animation showing the search bar component in use, with text input to the input element, a button to trigger a search form submission, an autocomplete dropdown, and a logger display showing the output below](../Images/30f552c367004cfb832107c375be7002.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--znzrIE-w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui-assets/master/search-bar/day5/w2d5-animation.gif)
+[![An animation showing the search bar component in use, with text input to the input element, a button to trigger a search form submission, an autocomplete dropdown, and a logger display showing the output below](img/30f552c367004cfb832107c375be7002.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--znzrIE-w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui-assets/master/search-bar/day5/w2d5-animation.gif)
 
 ## 现在轮到你了
 

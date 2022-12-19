@@ -6,21 +6,21 @@
 
 ## 第一个极端，囤积者
 
-[![Hoarder](../Images/1a49da41457fe9c667e11afeac76c1ba.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZVanoLnJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u2p7iaqahp3pj34fbx1d.jpg) 
+[![Hoarder](img/1a49da41457fe9c667e11afeac76c1ba.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZVanoLnJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u2p7iaqahp3pj34fbx1d.jpg) 
 在我们的职业生涯中，我们都会遇到代码库整洁的两个极端。让我们从最常见的开始，囤积者代码库。你知道我的意思，在一个项目中，只要一提到它的名字，你就会看到一滴眼泪从你的开发伙伴的脸上流过。当你打开一个文件，只是在页面上添加一个简单的输入框，三个小时后，你会感觉代码正在吞噬你。这很混乱，有超过一千行的类，在第一页中改变一个属性会破坏第五、第六和第八页，而你不知道为什么。您的功能或修复将被添加到代码中，可能会在上面贴上一些胶带，只是为了保持它的位置，即使您知道您可能会使代码变得更糟，您也会尽可能快地关闭文件并部署它。希望再也不用碰它。你认为这是怎么发生的？大部分人大概会说懒惰。但事实并非如此，至少在大多数情况下是这样。这种混乱一次只发生在一个小的决定上。你从一个干净的类开始，在这里添加一个小东西。它不属于这里，但这样很容易。下一个人看到这个，改变了另一个小东西，在这个类中已经有一些不属于那里的东西，现在有几个东西在那里。你知道这是怎么回事吗？
 
 ## 第二个极端，陈列室
 
-[![Showroom](../Images/35c56c54f407a609346d48fa7a957e1d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Dx-d1C8J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w91ggvpuctk5pwvhl8ld.jpg) 
+[![Showroom](img/35c56c54f407a609346d48fa7a957e1d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Dx-d1C8J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w91ggvpuctk5pwvhl8ld.jpg) 
 这是另一个极端，不是每个人都会像认识另一个极端那样快地认识这个极端，但它确实存在。我喜欢称这个代码为陈列室代码库。如果你挖掘你的记忆，你会发现它们，那些你不断清理的项目，使代码变得更好。添加一些抽象，一个模式在这里，另一个在那里，更多的层。我看到了重复的一行吗？让我们创建一个基类。班上 20 多行？那必须分开！当你开始的时候，这种感觉很棒，你将能够保持这种状态很长一段时间，但随后一个新的家伙必须在这个项目上工作，或者你必须暂时切换到另一个项目。您回来想添加同样的简单输入字段。知道代码本身就是清洁，你打开这个类，发现你应该更深入一层，因为这不是这个类的责任。在下一部里，你也会越来越深，越来越深，哦，一个工厂。你只需要弄清楚你应该朝哪个方向走，两个小时后你认为你已经找到了。但是你不能只在这里添加它，因为它会出现在几个地方，你需要进一步抽象它，当创建抽象时，你会发现其他的实现需要更多的抽象。这里发生了什么事？代码变得太干净了，就像一个陈列室，就像那些准备出售的目录中的一个。看起来很棒，但仔细看，用起来并不实用。没有地方放你的外套，没有地方放你的饮料，没有地方放电视，那甚至是一个全尺寸的沙发吗？但是看起来确实很棒。这主要是由于软件设计书籍、文章和博客向我们展示了不切实际的干净代码，并给了我们错误的目标。遵循所有规则并且完全一致和抽象的代码是不可实现的，除非没有人住在那里。
 
 ## 中间是什么？宜居代码
 
-[![Livable](../Images/47da15e8d938839631660e63fc40127e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--C9lKaxR7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w2xlogyfmlj1q9qlw1an.jpeg) 装饰漂亮的房间，有些乱。它可能没有陈列室漂亮，但至少有空间放你的电视和一个控制台，还有一个很好的沙发。代码也是如此，介于这两个极端之间的是宜居代码。这里有一些重复的代码，有些类有点大，但是它们的名字告诉你它们是做什么的，在代码中很容易找到。可能有些地方仍然一团糟，但我们正在缓慢但肯定地改变这种混乱，使之变得更好。这是我们应该接受的代码库。这是感觉像家一样的代码库。这是我们喜欢在其中工作的代码库！
+[![Livable](img/47da15e8d938839631660e63fc40127e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--C9lKaxR7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w2xlogyfmlj1q9qlw1an.jpeg) 装饰漂亮的房间，有些乱。它可能没有陈列室漂亮，但至少有空间放你的电视和一个控制台，还有一个很好的沙发。代码也是如此，介于这两个极端之间的是宜居代码。这里有一些重复的代码，有些类有点大，但是它们的名字告诉你它们是做什么的，在代码中很容易找到。可能有些地方仍然一团糟，但我们正在缓慢但肯定地改变这种混乱，使之变得更好。这是我们应该接受的代码库。这是感觉像家一样的代码库。这是我们喜欢在其中工作的代码库！
 
 ## 怎么去
 
-[![Travel](../Images/c45dc4625fcfcc9106c22f1b593d786a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Uw52H1NB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/656n9qpxm5yc4tpqtrle.jpg) 遵循下面的步骤，缓慢而坚定地将您的代码库迁移到一个健康的宜居之地。
+[![Travel](img/c45dc4625fcfcc9106c22f1b593d786a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Uw52H1NB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/656n9qpxm5yc4tpqtrle.jpg) 遵循下面的步骤，缓慢而坚定地将您的代码库迁移到一个健康的宜居之地。
 
 #### 1。不要让事情变得更糟！
 
@@ -40,14 +40,14 @@
 
 ## 都在代码库中吗？
 
-[![Team](../Images/f04b2e713a09daff1036030c52ecae33.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EnfFhi6A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/os97uxyjc12b9giiu72m.jpeg) 
+[![Team](img/f04b2e713a09daff1036030c52ecae33.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EnfFhi6A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/os97uxyjc12b9giiu72m.jpeg) 
 你大概能猜到答案，不对不对。软件最重要的部分不是人，不是代码，而是系统。我的意思是代码库和团队是携手并进的。如果代码库一团糟，团队也是一团糟。这意味着，对于任何编写软件的问题，你有两个方向可以解决。您可以在您的团队中进行更改，这将驱动您的代码库的更改，或者您可以在您的代码库中进行更改，这将驱动您的团队的更改。例如，如果您的代码包含三个“用户登录”的实现，您可以认为这只是技术债务，但它也代表了团队内部的沟通问题。那些不同的实现不应该在那里。所以你读到现在的一切也可以通过换队来改变？是的，它可以！只要让团队中的每个人都意识到这个原则，并开始就这个主题进行交流，并定期反映到您的代码库中，看看会发生什么。
 
 另一个重要的方面是软件到底是什么。它是从很久以前实际构建一个产品开始的。应用程序不断发展，我们采用持续部署，产品永远不会过时。软件开发应该被看作是一种体验，包括开发人员、管理人员、产品所有者和客户，是一种集体创造性的努力。更像是一群剧院的人在拼凑一出戏，然后一群工人在编造一些实体的东西。虽然许多开发人员并不认为他们所做的是创造性的，但我们今天在软件中的工作方式实际上在一个有创造力的人合作的模型中比在一个制造模型中更有意义。我们越是把软件看作是代码和人相互联系的一部分，我们就越能接近令我们兴奋的代码库。你可以做到这一点，如果你与你的团队成员建立信任，如果你加强你的联系，代码库将随之而来。
 
 ## 架构与大重构
 
-[![Dreaming of better days](../Images/7bc16ba538af971ce08cbd454e150b5a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lXxQedcM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/742292it3zthz707mpo8.jpg) 
+[![Dreaming of better days](img/7bc16ba538af971ce08cbd454e150b5a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lXxQedcM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/742292it3zthz707mpo8.jpg) 
 所以现在我们知道我们想要我们的代码在哪里，我们的代码库和团队之间的关系是什么，以及如何得到我们想要的代码库。到目前为止，我还没有提到的一件事是许多开发人员渴望的解决方案，即大重构。你看到自己日复一日地与可怕的代码作斗争，梦想着重写。如果我们能重新建造它，我们会建造得更好。在 Ember 中编写 jQuery 项目，将它重写为微服务。而且有时候还能起一小会儿作用，但是如果你不改变团队内部的习惯，杂乱会再次潜入。你最终会得到一个错综复杂的微服务网络，就像你的 monolith 中有一个错综复杂的类定义网络一样。或者你会走向另一个极端，过度设计整个项目，造成一个巨大的混乱层，没有一个完整的搜索和救援人员，任何人都找不到任何东西。实际上更有效的是，一点一点地改变它。让住在那里的人去做。团队应该自己获得这些洞察力，不应该有一个外部架构师角色来告诉他们如何构建东西。架构师似乎总是保持结构整洁的好方法，但是就像我之前说的，生活在代码库中的团队与它相连，而架构师不是。这就像一个造型师来到你家，告诉你一切应该看起来。不要误会我的意思，如果你需要的话，你真的应该向一个非常了解建筑的人寻求帮助，但是不应该反过来。
 
 ## 这一切从何而来

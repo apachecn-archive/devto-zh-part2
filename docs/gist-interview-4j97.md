@@ -8,7 +8,7 @@ Gist Interview 是一个用 ReactJS 构建的应用程序，任何人或公司�
 
 ### Gif 示例
 
-[![Gif Example](../Images/3423d4d97d0a0a192bcd39205fe890fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Fd0NzNzA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rayj0viuigg54g4jbgwm.gif)
+[![Gif Example](img/3423d4d97d0a0a192bcd39205fe890fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Fd0NzNzA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rayj0viuigg54g4jbgwm.gif)
 
 ## 建有
 
@@ -56,7 +56,7 @@ $ json-server --watch db.json --port 3001
 Enter fullscreen mode Exit fullscreen mode
 
 示例文件【db . JSON】
-[![Db](../Images/145cea7faa94bbf6aa4c06e620953bdc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---lJiX6T6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/74rxh2cq74srn7qzf4gh.png)
+[![Db](img/145cea7faa94bbf6aa4c06e620953bdc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---lJiX6T6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/74rxh2cq74srn7qzf4gh.png)
 
 在当前目录下打开一个新的标签页，在`dev`环境下启动 app:
 

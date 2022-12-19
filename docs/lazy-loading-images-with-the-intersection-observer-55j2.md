@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/mrfrontend/lazy-loading-images-with-the-intersection-observer-55j2>
 
-[![](../Images/b29e77214dc2bc6c57bfc02bb48b8e14.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xmAcXOYu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AHzI6z9f-Hy5_ZxzyY_wuMA.png)
+[![](img/b29e77214dc2bc6c57bfc02bb48b8e14.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xmAcXOYu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AHzI6z9f-Hy5_ZxzyY_wuMA.png)
 
 去年，我试图越来越多地关注网站和网络应用的性能。在所有大型框架和库的世界中，这是一个相当大的挑战。
 

@@ -45,11 +45,11 @@
 
     当我上车时，我想我应该听听我的好友帕夫尼特在推特上给我发的播客。
 
-    > ![](../Images/32c57142e8d01884e2fa73af56c21f82.png)帕夫内特·辛格·索德🚀@ pavsaund![](../Images/4d9c44713c216584b3d48ff3455cbb68.png)这样一个震撼人心的故事。更重要的是所涉及的课程和心态/框架。
+    > ![](img/32c57142e8d01884e2fa73af56c21f82.png)帕夫内特·辛格·索德🚀@ pavsaund![](img/4d9c44713c216584b3d48ff3455cbb68.png)这样一个震撼人心的故事。更重要的是所涉及的课程和心态/框架。
     > 
     > 【你不是你的思想】
     > 
-    > 你会喜欢这首[@ Jose gonz 321](https://twitter.com/JoseGonz321)[twitter.com/michaelgervais…](https://t.co/qITMAngIMw)2018 年 4 月 20 日下午 20:49迈克尔·热尔维斯@迈克尔·热尔维斯。@CassidyLichtman 几乎一生都在与慢性疼痛疾病作斗争，但她并没有因此而停止追求自己的梦想#寻找大师 https://t.co/r00Yv0106Y·https://t.co/9MY8cGIlpL[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=988157867176931328)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=988157867176931328)0[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=988157867176931328)1
+    > 你会喜欢这首[@ Jose gonz 321](https://twitter.com/JoseGonz321)[twitter.com/michaelgervais…](https://t.co/qITMAngIMw)2018 年 4 月 20 日下午 20:49迈克尔·热尔维斯@迈克尔·热尔维斯。@CassidyLichtman 几乎一生都在与慢性疼痛疾病作斗争，但她并没有因此而停止追求自己的梦想#寻找大师 https://t.co/r00Yv0106Y·https://t.co/9MY8cGIlpL[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=988157867176931328)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=988157867176931328)0[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=988157867176931328)1
 
     “不，今天早上没有。”我以为。
 

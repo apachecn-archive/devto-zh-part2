@@ -4,7 +4,7 @@
 
 我推荐这篇文章作为重要安全概念的入门:
 
-[![robdwaller](../Images/0db3dce1c6a8a971e76c79fd5f5482f3.png)](/robdwaller) [## 软件开发人员应遵循的四条安全原则
+[![robdwaller](img/0db3dce1c6a8a971e76c79fd5f5482f3.png)](/robdwaller) [## 软件开发人员应遵循的四条安全原则
 
 ### rob Waller 2 月 22 日 188 分钟阅读
 
@@ -12,13 +12,13 @@
 
 但是引起我注意的是这篇文章的前几条评论。尼克·泰勒给出了一个可能“显而易见”的额外提示。
 
-[![nickytonline profile image](../Images/d44f69483a53ef5b1f8c9411f6717d19.png) ](/nickytonline) [ Nick Taylor ](/nickytonline) • [<time datetime="2018-02-22T14:35:01Z" class="date-short-year"> Feb 22 '18 </time>](https://dev.to/nickytonline/comment/2c60) 
+[![nickytonline profile image](img/d44f69483a53ef5b1f8c9411f6717d19.png) ](/nickytonline) [ Nick Taylor ](/nickytonline) • [<time datetime="2018-02-22T14:35:01Z" class="date-short-year"> Feb 22 '18 </time>](https://dev.to/nickytonline/comment/2c60) 
 
 有一件事，我也想提一下，虽然可能很明显，但是说出来也无妨，那就是始终应用最小特权原则。
 
 对此罗布回应道:
 
-[![robdwaller profile image](../Images/b98a8480454eb9de42f026cca6783289.png) ](/robdwaller) [ Rob Waller ](/robdwaller) • [<time datetime="2018-02-22T14:59:47Z" class="date-short-year"> Feb 22 '18 </time>](https://dev.to/robdwaller/comment/2c65) 
+[![robdwaller profile image](img/b98a8480454eb9de42f026cca6783289.png) ](/robdwaller) [ Rob Waller ](/robdwaller) • [<time datetime="2018-02-22T14:59:47Z" class="date-short-year"> Feb 22 '18 </time>](https://dev.to/robdwaller/comment/2c65) 
 
 有意思，多说说。我以前没听说过那件事。
 

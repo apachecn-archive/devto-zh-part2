@@ -6,7 +6,7 @@
 
 所以你已经建立了一个 PWA，创建了你的服务人员，并跟随[所有](https://developers.google.com/web/progressive-web-apps/) [向导](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/)。对我来说，那就是[表情输入器](https://emojityper.com):一个简单的 PWA，你可以在那里输入单词，并接收表情符号。这非常适合桌面和在不支持表情符号的编辑器中输入表情符号。⌨️🔜🤣
 
-[![Emojityper Chrome Extension showing its browser action](../Images/2180131a72f819b797848505ab321e95.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oBQodEco--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mgv1tc3rt3bgciuatgrm.png)
+[![Emojityper Chrome Extension showing its browser action](img/2180131a72f819b797848505ab321e95.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oBQodEco--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mgv1tc3rt3bgciuatgrm.png)
 
 但是一旦你建立了这种伟大的体验，你就不仅仅局限于在“网络”上传播它了。在这篇文章中，我将详细介绍我如何将 [Emojityper](https://emojityper.com) 作为 [Chrome 扩展](https://chrome.google.com/webstore/detail/emojityper/cbkooiohnnlhpelnllknmenlhiglnkap)，通过[浏览器动作](https://developer.chrome.com/extensions/browserAction)访问。
 
@@ -57,7 +57,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 保存这两个文件💾⬇️📂在一个单独的文件夹中(连同一些图标— `i16.png`、`i32.png`、`i128.png`，或者如果你能逃脱的话可能更少)，然后前往`chrome://extensions`，启用开发者模式，并选择“加载未打包的扩展”。
 
-[![Extension development](../Images/d35e44dad714bf503fb49fe9f0d4c6a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r37zQiOp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sduvftzakknj1odyjuxt.png)
+[![Extension development](img/d35e44dad714bf503fb49fe9f0d4c6a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r37zQiOp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sduvftzakknj1odyjuxt.png)
 
 太好了！现在，您将看到 Emojityper 应用程序出现在您的扩展栏中，单击它将调出我们之前看到的显示。
 
@@ -73,7 +73,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这基本上意味着你可能需要在你的响应式设计中加入一个“微”模式。Emojityper 通过为 400 像素或更低的高度添加 CSS，从混乱变得简单:
 
-[![Clutter to simple](../Images/55a98f19184137d4be0664a3a75948ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vKCGAg2B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wvbh4g2xgwg6jcqt3ypo.png)
+[![Clutter to simple](img/55a98f19184137d4be0664a3a75948ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vKCGAg2B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wvbh4g2xgwg6jcqt3ypo.png)
 
 ## 延期津贴
 

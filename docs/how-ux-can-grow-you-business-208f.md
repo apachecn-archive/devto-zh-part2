@@ -16,7 +16,7 @@
 
 ## UX 不是数字。
 
-[![Push/Pull door UX](../Images/5f528a0bcd08f9f8564f723abe408ab1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gl9Rdedl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AnJZO6i76hgWvrGclbqGIgw.png)
+[![Push/Pull door UX](img/5f528a0bcd08f9f8564f723abe408ab1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gl9Rdedl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AnJZO6i76hgWvrGclbqGIgw.png)
 
 用户体验可以应用于网站和移动应用程序等数字服务。但远不止如此。用户体验也是关于用户与你的业务的互动。
 
@@ -60,7 +60,7 @@
 
 ## 你的产品是如何为用户错误做准备的？
 
-[![Google Search correction feature](../Images/0e7f53b475cf8823d9449472f9cdb3e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QsB5HNcx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AHoLuug8zjvT55D6Pkxj4Cw.png)
+[![Google Search correction feature](img/0e7f53b475cf8823d9449472f9cdb3e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QsB5HNcx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AHoLuug8zjvT55D6Pkxj4Cw.png)
 
 还是那句话，用户很蠢。他们会失败。这就是为什么谷歌有一个人人都用的自动纠错功能。甚至你的 iPhone 键盘也有这个自动修正功能。
 

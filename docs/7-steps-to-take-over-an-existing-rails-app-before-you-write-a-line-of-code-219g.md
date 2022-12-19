@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/planetargon/7-steps-to-take-over-an-existing-rails-app-before-you-write-a-line-of-code-219g>
 
-[![How to take over an existing Ruby on Rails app](../Images/c9b1ef104faa5bd42a15047b01ad367c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DTDWkEu0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-us-west-2.amazonaws.com/planetargon-blog/images/2018/0218/7-steps-to-take-over-existing-rails%2Bapp.png)
+[![How to take over an existing Ruby on Rails app](img/c9b1ef104faa5bd42a15047b01ad367c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DTDWkEu0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-us-west-2.amazonaws.com/planetargon-blimg/2018/0218/7-steps-to-take-over-existing-rails%2Bapp.png)
 
 我们长期维护和开发的大多数 Ruby on Rails 应用程序都是继承而来的。我们的客户通常会给我们带来最初由自由职业者、内部开发人员或其他机构开发的应用程序。
 
@@ -70,7 +70,7 @@ Ruby on Rails 社区最好的一个方面是，当遵循约定时，我们的团
 
 ## 第五步。记录所有的事情！
 
-[![All the rails things!](../Images/d8149d19d7c7b26d98b45ec000210e16.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J6Lu6oM_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-us-west-2.amazonaws.com/planetargon-blog/images/2018/0218/all-the-rails-things.jpg)
+[![All the rails things!](img/d8149d19d7c7b26d98b45ec000210e16.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J6Lu6oM_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-us-west-2.amazonaws.com/planetargon-blimg/2018/0218/all-the-rails-things.jpg)
 
 在我们开始编码之前，我们需要了解一下情况。当我们对他们的应用进行正式的[代码审计/审查](https://www.planetargon.com/services/ruby-on-rails-code-audit)时，其中的一些会被询问和确定。其他问题我们将在早期会议中提出。
 

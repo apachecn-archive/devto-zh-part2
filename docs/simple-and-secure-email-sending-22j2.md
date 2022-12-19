@@ -21,14 +21,14 @@ Alice 向 Bob 寻求在他们之间发送安全消息的方法，但是 Bob 不�
 
 然后，您必须创建一个密钥对(您的私钥和与之关联的公钥)。
 
-[![Mailvelope 1](../Images/b1300d6a581027931efffb6da643e49c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EUNI9Y0G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b1cjtj2k1old8qt1pkcv.png)
+[![Mailvelope 1](img/b1300d6a581027931efffb6da643e49c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EUNI9Y0G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b1cjtj2k1old8qt1pkcv.png)
 
 生成密钥对后，扩展会将您的公钥上传到 Mailvelope 密钥服务器，并给您一个包含您的公钥的链接(也存储在您的本地计算机上，您可以在扩展仪表板中显示它)。同时，您的私钥将保留在您的本地计算机上。你永远不应该分享你的私人钥匙。
 
 为了给某人发送消息，你需要他的公钥。你可以直接问或者试着在密钥服务器上找。Mailvelope 将从那里开始，每当你撰写一封邮件时，首先点击 Mailvelope 图标，然后你只需键入邮件并选择收件人。Mailvelope 将为该收件人加密邮件。
 
-[![Mailvelope 2](../Images/705c77bffcd30dac6891f76f661f016d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZgRChBCP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qcvi0ijvbo7wmzxn42cj.png)
-[![Mailvelope 3](../Images/cd5d6daccc6760e66ea1f069c89d4357.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VjDehdEv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lpei6qrnl7pswkracib8.png)
-[![Mailvelope 4](../Images/925826ae31872b91f1d51d54dc5a06c2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--G_hy5X7B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/20cow7q40h2ty33tl6ka.png)
+[![Mailvelope 2](img/705c77bffcd30dac6891f76f661f016d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZgRChBCP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qcvi0ijvbo7wmzxn42cj.png)
+[![Mailvelope 3](img/cd5d6daccc6760e66ea1f069c89d4357.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VjDehdEv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lpei6qrnl7pswkracib8.png)
+[![Mailvelope 4](img/925826ae31872b91f1d51d54dc5a06c2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--G_hy5X7B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/20cow7q40h2ty33tl6ka.png)
 
 就是这样！现在，您可以通过电子邮件发送和接收安全信息。

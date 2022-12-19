@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/saitonakamura/nextjs-app-on-github-pages--541f>
 
-[![Next.js + Github Pages](../Images/2f418f855e3a5cc5293401563dca122b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m68ssGfQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2ANZ7KxwBB1NSuVsJP4FeMnQ.jpeg)
+[![Next.js + Github Pages](img/2f418f855e3a5cc5293401563dca122b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m68ssGfQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2ANZ7KxwBB1NSuVsJP4FeMnQ.jpeg)
 
 > 这是我的媒体的一篇文章
 
@@ -10,7 +10,7 @@
 
 首先我们有[这个指南](https://github.com/zeit/next.js/wiki/Deploying-a-Next.js-app-into-GitHub-Pages)(它实际上错过了一些重要的信息，这是我添加的，但最好继续阅读帖子)。第一个重要的部分是`.nojekyll`文件，因为 Jekyll 忽略文件夹，它以下划线开始，我们有`_next`。所以你应该在 docs 文件夹中添加一个名为`.nojekyll`的空文件。别担心，不会在`next export`时被删除。你也可以选择使用`gh-pages`分支(有一个很酷的 git 特性叫做 subtree，参见这里的)。所以应该没问题吧？…
 
-[![Cuphead Cagney Carnation boss](../Images/568abba153989f49dcc4935ff5cd253d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZTpA_jbx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Aw0IMUgxXUqA-Nutq6VLU2g.jpeg)
+[![Cuphead Cagney Carnation boss](img/568abba153989f49dcc4935ff5cd253d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZTpA_jbx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Aw0IMUgxXUqA-Nutq6VLU2g.jpeg)
 
 # 第一个问题
 

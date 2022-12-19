@@ -4,7 +4,7 @@
 
 #### 这些黑客马拉松团队证明了这一点
 
-[![](../Images/4efadfd856289a93b94de8df82c9dd29.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BHodezpq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A7nc5KOHc3S2gtvX2VOiRaQ.jpeg)
+[![](img/4efadfd856289a93b94de8df82c9dd29.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BHodezpq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A7nc5KOHc3S2gtvX2VOiRaQ.jpeg)
 
 上周末，63 个团队聚集在荷兰格罗宁根市的旧糖厂，参加世界上最大的区块链黑客马拉松。以下是我们从这些团队学到的在时间压力下编写高质量代码的经验。
 
@@ -55,9 +55,9 @@
 
 *   在黑客马拉松开始之前，我们给团队上了一堂 **1 小时的关于代码质量的大师课**，解释了相关性，介绍了基本概念，展示了**编写来自*构建可维护软件*的经得起未来考验的代码**的 10 条指导方针，并向他们展示了如何使用更好的 Code Hub 来关注这些指导方针的遵守情况。
 
-[![](../Images/27833998e20f8fb5b5ab2b719219e561.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PiAyRkbQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AqW9_HEIJ_AQ24pg9BTrb1A.jpeg)
+[![](img/27833998e20f8fb5b5ab2b719219e561.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PiAyRkbQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AqW9_HEIJ_AQ24pg9BTrb1A.jpeg)
 
-<figure>[![](../Images/5140e7c0544961dcf151ca4c47db38b5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EaOTJKVL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AqjEo-NHzdHHj4U04fx2ikA.jpeg) 
+<figure>[![](img/5140e7c0544961dcf151ca4c47db38b5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EaOTJKVL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AqjEo-NHzdHHj4U04fx2ikA.jpeg) 
 
 <figcaption>每一个推和拉的请求都由**更好的代码中枢**对照**构建可维护软件**的编写面向未来的代码的 10 条准则进行检查。GitHub 对话流中提供了反馈。当质量下降时，点击进入详细的反馈，根据指导方针找到具体的改进方法。</figcaption>
 
@@ -65,9 +65,9 @@
 
 *   在黑客马拉松期间，Better Code Hub 提供了关于每次代码更改时对指南的影响的反馈。总的来说，大约有 4000 篇文章提供了这样的反馈。所有球队的当前得分都显示在一个巨大的屏幕上，让所有人都能看到。此外，**代码质量 Jedis** 亲自或通过 Slack 协助团队激活更好的代码中枢，询问有关其使用的问题，并就重构、设计模式、测试方法或任何其他与软件质量相关的主题进行辩论。
 
-[![](../Images/b6c174fb8b612c3e7f043e8fa103421c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bZSGwcY2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Av53qYj1zRsW7ci2KJYJqBQ.jpeg)
+[![](img/b6c174fb8b612c3e7f043e8fa103421c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bZSGwcY2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Av53qYj1zRsW7ci2KJYJqBQ.jpeg)
 
-<figure>[![](../Images/ec0f44b1886091461011e65699048609.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ajKx2Yii--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/838/1%2A-FrdvA1xhi3QyVkFRizKMg.png) 
+<figure>[![](img/ec0f44b1886091461011e65699048609.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ajKx2Yii--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/838/1%2A-FrdvA1xhi3QyVkFRizKMg.png) 
 
 <figcaption>所有团队当前的代码质量分数以 GitHub 徽章的形式显示在中央记分牌上，所有人都可以看到。</figcaption>
 
@@ -79,7 +79,7 @@
 
 *   63 个团队中有 19 个团队交付了一个原型，得到了满分 10 分。哇！这些团队证明了在强烈的时间压力下交付高质量的代码是可能的！
 
-<figure>[![](../Images/e2aab80318add01803a4dd216654d985.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--d_n-oQQY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/925/1%2AEQI3SMFZ6g4aAakTgoZIaQ.png)
+<figure>[![](img/e2aab80318add01803a4dd216654d985.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--d_n-oQQY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/925/1%2AEQI3SMFZ6g4aAakTgoZIaQ.png)
 
 <figcaption>63 个团队中的 19 个(30%)交付了一个原型，该原型的得分为 10 分(满分为 10 分)，证明了在时间压力下编写高质量的代码是可能的。</figcaption>
 
@@ -87,7 +87,7 @@
 
 *   在黑客马拉松期间，许多团队使用了来自 Better Code Hub 的反馈，不仅维持了他们最初的质量水平，还进行了质量改进。
 
-<figure>[![](../Images/a47ff98398d67e01f4be125eff97a4c0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2l5ycQbu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AnVQeXnq4uSkDEh5Hr8AUEA.png) 
+<figure>[![](img/a47ff98398d67e01f4be125eff97a4c0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2l5ycQbu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AnVQeXnq4uSkDEh5Hr8AUEA.png) 
 
 <figcaption>在 48 小时的黑客马拉松比赛中，许多团队能够将分数提高到最初的水平之上。</figcaption>
 
@@ -95,13 +95,13 @@
 
 *   交付高质量的代码是有趣且值得的。看看这些团队如何在他们的影响力拉票上炫耀他们的分数！
 
-[![](../Images/25dcb5111f9894bc6472441cbd9a9b7d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--shxJI9UV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2At0eR54Q7PwZkiuzt0Pu4jg.jpeg)
+[![](img/25dcb5111f9894bc6472441cbd9a9b7d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--shxJI9UV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2At0eR54Q7PwZkiuzt0Pu4jg.jpeg)
 
-[![](../Images/16fafe6b96b1b538ceac8ee51782bfd9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H7bMTXJn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ABqTnjS2qDhjWXURNhLAigA.jpeg)
+[![](img/16fafe6b96b1b538ceac8ee51782bfd9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H7bMTXJn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ABqTnjS2qDhjWXURNhLAigA.jpeg)
 
-[![](../Images/ba0e8b4ae512467f5fb617b1a41bc4af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3Vx_eJXo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A8zWvtYHuQCBH2rn8mAWm8A.jpeg)
+[![](img/ba0e8b4ae512467f5fb617b1a41bc4af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3Vx_eJXo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A8zWvtYHuQCBH2rn8mAWm8A.jpeg)
 
-<figure>[![](../Images/b4671bbd4d33fd14971736d24421d06e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2ZcbCM56--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AUnAWibVsmd3lzVoLz4ZOgA.jpeg) 
+<figure>[![](img/b4671bbd4d33fd14971736d24421d06e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2ZcbCM56--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AUnAWibVsmd3lzVoLz4ZOgA.jpeg) 
 
 <figcaption>一些影响画布显示更好的代码中枢分数。</figcaption>
 
@@ -122,7 +122,7 @@
 
 这些获胜的团队被授予 ***SIG 投资者准备研讨会*** ，在这里我们将帮助这些团队为未来的融资回合准备他们的代码库。在收购的*尽职调查阶段*，投资者越来越关注软件质量。我们知道，因为 SIG 交易服务团队定期为投资者执行所谓的 [IT 尽职调查](https://www.sig.eu/it-due-diligence/)调查。在研讨会上，我们帮助团队为那一刻做好准备。
 
-<figure>[![](../Images/f684eefca3692ef0676292a16a667ab0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CP4Wj3OY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AM-IY3OnkYMIddABsKG8eFg.png) 
+<figure>[![](img/f684eefca3692ef0676292a16a667ab0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CP4Wj3OY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AM-IY3OnkYMIddABsKG8eFg.png) 
 
 <figcaption>以出色的软件质量构建原型的 7 个团队被授予 SIG 投资者准备研讨会。干得好！</figcaption>
 

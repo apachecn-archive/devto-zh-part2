@@ -23,7 +23,7 @@ Redux 不依赖 react，反之亦然。两人配合默契，各司其职。
 
 ## 还原生命周期
 
-[![Redux Lifecycle](../Images/1c426496b14a7ce41783977ab1a30cdf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fCDvEpjd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.stack.imgur.com/LNQwH.png)
+[![Redux Lifecycle](img/1c426496b14a7ce41783977ab1a30cdf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fCDvEpjd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.stack.imgur.com/LNQwH.png)
 
 上图很好的概述了 redux cycle 的工作原理。
 

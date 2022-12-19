@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/onmyway133/what-is-create-react-native-app--461i>
 
-[![](../Images/1d8a12aaf22b4b4928215c345bd91cec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IcxQPwJk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AEmiP1QGznu8G0UrB)
+[![](img/1d8a12aaf22b4b4928215c345bd91cec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IcxQPwJk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AEmiP1QGznu8G0UrB)
 
 作为一个从 iOS 和 Android 背景过来 React Native 的人，我喜欢 React 和 Javascript 就像喜欢 Swift 和 Kotlin 一样。React Native 是一个很酷的概念，但理论上听起来不错的东西在实践中可能并不奏效。
 

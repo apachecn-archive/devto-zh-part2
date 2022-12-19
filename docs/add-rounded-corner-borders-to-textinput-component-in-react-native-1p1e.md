@@ -6,7 +6,7 @@ Post 链接:[在 React Native 中为 TextInput 组件添加圆角边框](https:/
 
 这篇文章解释了如何在 React 本地应用程序中的 EditText TextInput 组件周围显示圆角边框。我们需要在 TextInput 布局组件中指定 borderRadius 样式表属性。
 
-[![](../Images/9886d0fa26030cee6049b7d7d9ae2a0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oE_3SvO3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://4.bp.blogspot.com/-NgagxHEgmfM/W3EDy_1cVXI/AAAAAAAAByQ/CJ9ccry80aE3VFapZzVK8r3RPeeJvPbWwCLcBGAs/s400/rb.jpg)
+[![](img/9886d0fa26030cee6049b7d7d9ae2a0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oE_3SvO3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://4.bp.blogspot.com/-NgagxHEgmfM/W3EDy_1cVXI/AAAAAAAAByQ/CJ9ccry80aE3VFapZzVK8r3RPeeJvPbWwCLcBGAs/s400/rb.jpg)
 
 为 TextInput 组件设置圆角边框的代码段:
 style=

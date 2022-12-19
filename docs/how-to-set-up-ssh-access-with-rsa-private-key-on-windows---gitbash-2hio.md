@@ -35,7 +35,7 @@ explorer .
 
 它将为您打开文件夹。将您的“私有 RSA 密钥”文件粘贴到该文件夹中，并创建一个配置文件(“config”不需要文件类型扩展名)。如果你已经有一个配置文件，然后编辑它，并将下面的代码复制到其中。
 
-[![Alt Text](../Images/42886dba9e07b5fbf3baea5c2ee7d45c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SDcfLVKK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tdor3wos10vs2jjmjyn2.png)
+[![Alt Text](img/42886dba9e07b5fbf3baea5c2ee7d45c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SDcfLVKK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tdor3wos10vs2jjmjyn2.png)
 
 ```
 Host X

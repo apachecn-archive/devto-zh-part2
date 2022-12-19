@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/rmadisetti3/the-function-of-objects-in-javascript-23c4>
 
-[![](../Images/1d987a9d4e29f2285baf938c55745633.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ko_n2xqv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zsw1a582x1gz55hcix3h.png)
+[![](img/1d987a9d4e29f2285baf938c55745633.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ko_n2xqv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zsw1a582x1gz55hcix3h.png)
 
 各位 Javascript 编码员好，
 

@@ -6,7 +6,7 @@
 
 你是否厌倦了争论一项任务是 5 分还是 8 分？估计是很多开发者的痛点。Dimitrios 构建 GitCup 是为了用更少的努力产生更准确的时间估计。
 
-[![dmelidonis image](../Images/37858adc021ca651661e0256e346d5b7.png)](/dmelidonis) [## 需要多长时间？Git 知道。
+[![dmelidonis image](img/37858adc021ca651661e0256e346d5b7.png)](/dmelidonis) [## 需要多长时间？Git 知道。
 
 ### Dimitri OS meli donis 2 月 26 日 184 分钟阅读
 
@@ -16,7 +16,7 @@
 
 社区分享他们终端的截图。把你的加入收藏吧！
 
-[![itsjzt image](../Images/391ea7f190675a0e1c097528af77b4e6.png)](/itsjzt) [## 我能看看你的终端吗？
+[![itsjzt image](img/391ea7f190675a0e1c097528af77b4e6.png)](/itsjzt) [## 我能看看你的终端吗？
 
 ### saura BH Sharma Feb 28 ' 181min read
 
@@ -26,7 +26,7 @@
 
 即使有 SSL 证书，您仍然可以在 Mozilla 的 Observatory 上获得 F。让我们看看 Caleb 如何通过使用 HTTP 头来提高站点的安全性。
 
-[![calebhearth image](../Images/c845d5d22659336c01028899f4871b04.png)](/calebhearth) [## 使用 HTTP 头来保护您的站点
+[![calebhearth image](img/c845d5d22659336c01028899f4871b04.png)](/calebhearth) [## 使用 HTTP 头来保护您的站点
 
 ### Caleb Hearth 3 月 1 日 189 分钟阅读
 
@@ -36,7 +36,7 @@
 
 Shawn 向我们展示了 React Suspense API 的各个方面。
 
-[![swyx image](../Images/d12fa7711c643b78888cfefb996e1a26.png)](/swyx) [## 反应悬念演示的演练
+[![swyx image](img/d12fa7711c643b78888cfefb996e1a26.png)](/swyx) [## 反应悬念演示的演练
 
 ### swyx Mar 2 ' 1813 分钟读取
 
@@ -44,11 +44,11 @@ Shawn 向我们展示了 React Suspense API 的各个方面。
 
 # 5。这又是什么？
 
-> ![Ben Halpern profile image](../Images/3814cc9cbc453345725bf2b5e578e8a0.png)本·哈尔彭@本·哈尔彭![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)有时候当我在写 Javascript 的时候，我真想举起双手说“这简直是扯淡！”但是我怎么也想不起来“这个”指的是什么2015 年 3 月 20 日 14 点 27 分[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=578925947245633536)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=578925947245633536)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=578925947245633536)
+> ![Ben Halpern profile image](img/3814cc9cbc453345725bf2b5e578e8a0.png)本·哈尔彭@本·哈尔彭![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)有时候当我在写 Javascript 的时候，我真想举起双手说“这简直是扯淡！”但是我怎么也想不起来“这个”指的是什么2015 年 3 月 20 日 14 点 27 分[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=578925947245633536)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=578925947245633536)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=578925947245633536)
 
 关于 JavaScript 中的`this`的社区讨论。
 
-[![ycmjason image](../Images/020f627aaf5fe251f7230d5951d7ab7a.png)](/ycmjason) [## Javascript 中的‘this’不好吗？
+[![ycmjason image](img/020f627aaf5fe251f7230d5951d7ab7a.png)](/ycmjason) [## Javascript 中的‘this’不好吗？
 
 ### Jason Yu Mar 3 ' 181min read
 
@@ -58,7 +58,7 @@ Shawn 向我们展示了 React Suspense API 的各个方面。
 
 i3 是一个改进的平铺窗口管理器。在这篇文章中，我们将学习如何设置它，让生活立刻变得更有效率。根据评论，人们是 i3 及其分叉的忠实粉丝。
 
-[![lobo_tuerto image](../Images/0035f9193167768a136e6f3f67c15650.png)](/lobo_tuerto) [## 你需要了解 i3
+[![lobo_tuerto image](img/0035f9193167768a136e6f3f67c15650.png)](/lobo_tuerto) [## 你需要了解 i3
 
 ### 维克多·阿德里安 2 月 27 日 18 分钟阅读
 
@@ -68,7 +68,7 @@ i3 是一个改进的平铺窗口管理器。在这篇文章中，我们将学�
 
 Elazizi 分享了 react 组件开发的帮助工具列表。
 
-[![elaziziyoussouf image](../Images/51da7e3c51ab1c4b5464b282eab3d6e4.png)](/elaziziyoussouf) [## react 组件开发中需要使用的工具
+[![elaziziyoussouf image](img/51da7e3c51ab1c4b5464b282eab3d6e4.png)](/elaziziyoussouf) [## react 组件开发中需要使用的工具
 
 ### El azizi Youssouf 3 月 3 日 183 分钟阅读
 

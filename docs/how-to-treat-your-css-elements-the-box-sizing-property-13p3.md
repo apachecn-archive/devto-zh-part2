@@ -17,7 +17,7 @@ box-sizing 属性定义元素的高度和宽度是如何计算的，以及它是
 
 提醒一下，箱式模型看起来像这样:
 
-[![box_7-1](../Images/c36a952d5ea0bd4a0bf4483613f58ef7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZLnIOynI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/05/box_7-1.png)
+[![box_7-1](img/c36a952d5ea0bd4a0bf4483613f58ef7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZLnIOynI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/05/box_7-1.png)
 
 ## 内容框
 
@@ -74,7 +74,7 @@ div {
 } 
 ```
 
-[![content](../Images/a96c055e2ab6543933f767e5e0174f25.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UT7y2CRL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/05/content.png)
+[![content](img/a96c055e2ab6543933f767e5e0174f25.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UT7y2CRL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/05/content.png)
 
 如你所见，在第一个例子中，**内容框**的宽度总计为 **266px** ，而**边框**的宽度总计为 **200px** 。
 

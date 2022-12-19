@@ -38,7 +38,7 @@ Microsoft Excel 提供了各种类型的内置边框，可应用于工作表中�
 
 > ***标题:**Microsoft Excel 中的边框线条样式，用 Aspose 中的 CellBorderType 表示。细胞 API。*
 
-[![Border Line Styles in Microsoft Excel represented by CellBorderType in Aspose.Cells API.](../Images/f036c3447fc2caace5480e05d314c17f.png "Border Line Styles in Microsoft Excel represented by CellBorderType in Aspose.Cells API.")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8kIccGhF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/AsposeCells/AsposeCells-Screenshots-and-Sample-Files/master/Apply-Cell-Borders-on-Excel-Worksheet-Cells/Border-Line-Styles-Microsoft-Excel-Border-Aspose.Cells.png)
+[![Border Line Styles in Microsoft Excel represented by CellBorderType in Aspose.Cells API.](img/f036c3447fc2caace5480e05d314c17f.png "Border Line Styles in Microsoft Excel represented by CellBorderType in Aspose.Cells API.")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8kIccGhF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/AsposeCells/AsposeCells-Screenshots-and-Sample-Files/master/Apply-Cell-Borders-on-Excel-Worksheet-Cells/Border-Line-Styles-Microsoft-Excel-Border-Aspose.Cells.png)
 
 # 使用 Aspose 设置单元格边框。单元格 API
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/mark_nicol/some-notes-on-scrum-8im>
 
-[![Sketch of the Scrum Process](../Images/6e70430179f818b1a09781c01555f5eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0EliHuVE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1mhabgut49huwkh0up52.png)
+[![Sketch of the Scrum Process](img/6e70430179f818b1a09781c01555f5eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0EliHuVE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1mhabgut49huwkh0up52.png)
 
 我发现不描述 Scrum 就无法描述 SAFe。这两者是如此的交织在一起。我最终回到了基础，试图理解 Scrum 是什么。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/wiaio/how-we-built-our-facial-recognition-ferris-wheel-583a>
 
-[![''](../Images/baa8ce7a22698d8e9b72ed2cd28cf964.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vIqoifTc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/29963bd-DSC_0292.jpg)
+[![''](img/baa8ce7a22698d8e9b72ed2cd28cf964.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vIqoifTc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/29963bd-DSC_0292.jpg)
 
 在 2018 年最酷项目[上，我们展示了带有面部识别摩天轮的](http://coolestprojects.org/) [Wia 平台](https://www.wia.io)——如果你在微笑，轮子就会转动，如果你不微笑，它就会停止。今天我们要谈谈我们是如何构建这个项目的，也许你会受到启发去构建类似的东西！
 
@@ -25,20 +25,20 @@
 我们使用高扭矩 DC 电机来转动车轮，L293D 电机驱动器来驱动电机。
 [点击这里](https://community.wia.io/d/27-driving-a-dc-motor-with-an-arduino-and-the-l293d-motor-driver)深入阅读我们如何设置它，以及让马达转向的基本代码片段。在本文的后面，当我们添加 MQTT 功能来监听命令时，我们将构建这个代码。
 
-[![''](../Images/2cd18fc81c5e3181e45dc88ac1685b34.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7pdxtqzz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/3e68a3e-DSC_0351.jpg)
-[![''](../Images/588cea49e4294e4d25920c053c1cf9a3.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--L-w5LYIh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/2f2418e-DSC_0357.jpg)
+[![''](img/2cd18fc81c5e3181e45dc88ac1685b34.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7pdxtqzz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/3e68a3e-DSC_0351.jpg)
+[![''](img/588cea49e4294e4d25920c053c1cf9a3.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--L-w5LYIh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/2f2418e-DSC_0357.jpg)
 
 ## 将电机安装到车轮上
 
 下一步是将 DC 马达连接到摩天轮装置上，让它转动。这被证明是相当具有挑战性的，并且需要拆除结构的下部来为部件腾出空间。我们发现马达的轴几乎完全适合一个乐高积木，我们所要做的就是将马达安装在正确的位置，并确保它不会四处移动。因此，我们用多余的零件为马达做了一个小小的乐高外壳，在后面留出空间，用于连接电线和马达的端子。
 
-[![''](../Images/5f69ee80f96cbf79fbfefd2fd1581b39.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QA0Ov_LA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/249d8a6-DSC_0327.jpg)
+[![''](img/5f69ee80f96cbf79fbfefd2fd1581b39.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QA0Ov_LA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/249d8a6-DSC_0327.jpg)
 
 ## 监听命令
 
 接下来，我们想要为 Arduino 创建一些[命令](https://developers.wia.io/docs/add-a-command)来监听，并相应地旋转电机。第一步是在 Wia 仪表板中创建命令。正如你所看到的，我们创建了一些手动控制滚轮的基本命令，以及一个“拍照”命令，我们稍后会讲到。
 
-[![''](../Images/c807448d2d1ab91965faf16a9766ca18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Am5V-rsa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/325afb3-ferris-wheel-commands-2.png)
+[![''](img/c807448d2d1ab91965faf16a9766ca18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Am5V-rsa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/325afb3-ferris-wheel-commands-2.png)
 
 接下来，我们更新了 Arduino 代码，使用 MQTT 来监听命令。下面是代码:
 
@@ -185,7 +185,7 @@ Enter fullscreen mode Exit fullscreen mode
 对于面部识别摄像头，我们使用了一个带有 Raspberry Pi 摄像头模块的 Raspberry Pi Zero W。
 在这里深入阅读我们是如何设置的[。这包括使用相机模块设置 Raspberry Pi，使用 NodeJS 拍摄照片并将其作为事件发布到 Wia 平台，以及设置检查照片主题是否微笑的基本流程。](https://community.wia.io/d/3-build-your-own-smile-detector-with-wia-amazon-rekognition-and-raspberry-pi)
 
-[![''](../Images/3787cd658f7529891f24c94bd7d968d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LEDvimEg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/bc42f81-DSC_0316.jpg)
+[![''](img/3787cd658f7529891f24c94bd7d968d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LEDvimEg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/bc42f81-DSC_0316.jpg)
 
 我们在这个设置的基础上做了更多的改进，增加了 Raspberry Pi 监听“拍照”命令的能力。下面是代码:
 
@@ -291,13 +291,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果拍摄对象在微笑，就会运行“开始移动”命令，触发 Arduino 开始转动马达。如果拍摄对象没有笑，就会运行“停止移动”命令，停止电机转动。
 
-[![''](../Images/1f59685d3fb50169aaed67f69a94cdb1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UA28UKBy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/9246690-ferris-wheel-flow.png)
+[![''](img/1f59685d3fb50169aaed67f69a94cdb1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UA28UKBy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/9246690-ferris-wheel-flow.png)
 
 ## 创建微件
 
 您会注意到，在流程的末尾还有“创建事件”节点。这就是我们使用来自逻辑节点的`output.body.data`值来创建[小部件](https://developers.wia.io/docs/widgets)的地方！
 每次拍照时，都会创建一个新事件，其数据等于“微笑”或“不微笑”。在仪表板的设备概览页面上，我们能够创建一个文本小部件，它将显示此文本，并在每次拍摄新照片时自动更新。我们还设置了方便的小部件来运行各种命令，以及显示 Raspberry Pi 拍摄的照片！
 
-[![''](../Images/8942d9f6163f4feb62f737f3970d1f96.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2Ml79BEE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/16895f3-ferris-wheel-widgets.png)
+[![''](img/8942d9f6163f4feb62f737f3970d1f96.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2Ml79BEE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/16895f3-ferris-wheel-widgets.png)
 
-[![''](../Images/8353fd92bd5af1ad8c6808f23c09f356.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n30RbJJ5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/29e73b4-DSC_0288.jpg)
+[![''](img/8353fd92bd5af1ad8c6808f23c09f356.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n30RbJJ5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/29e73b4-DSC_0288.jpg)

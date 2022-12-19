@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/contentful_blog/how-asts-power-the-graphql-schema-handling-3hi9>
 
-[![How abstract syntax trees come into play with schemas and GraphQL](../Images/23b147ff159fc0a5006cc3ada620f9be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5HBAXE_f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/w7OPcsNYiWquQY8YuUAq8/5ce2c0125423aff8927f85654da34bee/5-Jul-GraphQL-AST.png)
+[![How abstract syntax trees come into play with schemas and GraphQL](img/23b147ff159fc0a5006cc3ada620f9be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5HBAXE_f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/fo9twyrwpveg/w7OPcsNYiWquQY8YuUAq8/5ce2c0125423aff8927f85654da34bee/5-Jul-GraphQL-AST.png)
 
 在 Contentful，我们目前正在努力开发新的 GraphQL API，它已经在 alpha 阶段可用🎉。当您今天阅读 GraphQL 时，您会很快发现它提供的主要优点，普通 GraphQL API 用户可以利用这些优点:
 
@@ -228,7 +228,7 @@ SDL 使得定义完整的数据集成为可能:
 
 当您使用像 [GraphiQL](https://github.com/graphql/graphiql) (一个浏览器内 IDE)这样的工具来探索 GraphiQL 端点时，您可能已经注意到，通过打开 docs 部分，您可以很容易地发现 API 端点上可用的数据。docs 部分包括基于在您定义的 SDL 中编写的模式的所有信息。
 
-[![Using a tool like GraphiQL, an in-browser IDE to explore GraphQL endpoints](../Images/adf913b26aa1f87f6ba3c6fd9089a365.png)T2】](//images.ctfassets.net/fo9twyrwpveg/6gPqNGJ2rCseU4ykIUSa4c/a0ae78f44cec9790b25871a87cc641ca/image_0__1_.png)
+[![Using a tool like GraphiQL, an in-browser IDE to explore GraphQL endpoints](img/adf913b26aa1f87f6ba3c6fd9089a365.png)T2】](//images.ctfassets.net/fo9twyrwpveg/6gPqNGJ2rCseU4ykIUSa4c/a0ae78f44cec9790b25871a87cc641ca/image_0__1_.png)
 
 *旁注:来自 Prisma 的人们也构建了一个名为 GraphQL Playground 的工具，它位于 GraphQL 之上，增加了一些额外的功能和一个“更新”的 UI*
 
@@ -287,7 +287,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果这些验证通过，我们就可以通过解析查询中请求的资源来响应请求。解析器是一个我们不会在本文中涉及的主题，但是如果你感兴趣，你可以阅读 Prisma 的介绍[“GraphQL 服务器基础:graph QL 模式，TypeDefs &解析器解释”](https://www.prisma.io/blog/graphql-server-basics-the-schema-ac5e2950214e/)—这是一个很好的阅读！
 
-[![Interaction of query documents and the SDL](../Images/991b205b15aea73e0d247cd915cee34c.png)T2】](//images.ctfassets.net/fo9twyrwpveg/2rEkv7xsG0aGKm4oeY62i4/5923d0d1eccb423a7e77fd0f3ea4268a/graphql.jpg)
+[![Interaction of query documents and the SDL](img/991b205b15aea73e0d247cd915cee34c.png)T2】](//images.ctfassets.net/fo9twyrwpveg/2rEkv7xsG0aGKm4oeY62i4/5923d0d1eccb423a7e77fd0f3ea4268a/graphql.jpg)
 
 ## 得益于抽象语法树，语言处理变得简单
 

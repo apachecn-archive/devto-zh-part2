@@ -44,7 +44,7 @@
 
 有关设置视图的更多信息，请参见 [ReadMe.md](https://github.com/muak/AiForms.Renderers/blob/master/README.md) 。
 
-[![](../Images/e10c416e3ade6bdfe3b6cd2ba4bcb9e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7Tf4xs-4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1xildlb0rxjqpn28467t.png)
+[![](img/e10c416e3ade6bdfe3b6cd2ba4bcb9e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7Tf4xs-4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1xildlb0rxjqpn28467t.png)
 
 [https://www.youtube.com/embed/FTMOqNILxBE](https://www.youtube.com/embed/FTMOqNILxBE)
 

@@ -18,7 +18,7 @@
 
 简而言之，使这种响应迅速、适应性强的布局成为可能。
 
-[![new app downloads](../Images/a98eb6dad1bb646f92014f82586f5ae2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Sed0tQ_i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AOkcOPoWR3bxKY2axlDX9UA.gif)
+[![new app downloads](img/a98eb6dad1bb646f92014f82586f5ae2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Sed0tQ_i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AOkcOPoWR3bxKY2axlDX9UA.gif)
 
 ### **1。不可预测的 em**
 

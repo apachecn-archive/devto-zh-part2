@@ -6,7 +6,7 @@
 
 本周轮到一个进度指示器或“向导”组件，它可以帮助你完成应用程序的启动过程。灵感来自于[这个 uimovement 提交](https://uimovement.com/ui/5466/progress-bar/)，看起来是这样的:
 
-[![wizard](../Images/57daa6c70ee740e776007dc259c3e5a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SuU5apVT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7oa6zjx2aop1xfxpw4hc.gif)
+[![wizard](img/57daa6c70ee740e776007dc259c3e5a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SuU5apVT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7oa6zjx2aop1xfxpw4hc.gif)
 
 ## 制剂
 
@@ -137,7 +137,7 @@ Enter fullscreen mode Exit fullscreen mode
 Enter fullscreen mode Exit fullscreen mode
 
 而现在我们有了这样的东西:
-[![style ready](../Images/78eb03516d04b76734f4a99903c4aa53.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--j290Xz56--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jand1i1k4p4cbfmx0ymx.png)
+[![style ready](img/78eb03516d04b76734f4a99903c4aa53.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--j290Xz56--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jand1i1k4p4cbfmx0ymx.png)
 
 ## 相互作用
 
@@ -247,7 +247,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![almost done](../Images/3f794818542d57f9619370f2ce3224aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4BLJhSVt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j0bd82yd0nskfm6nruwc.png)
+[![almost done](img/3f794818542d57f9619370f2ce3224aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4BLJhSVt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j0bd82yd0nskfm6nruwc.png)
 
 看起来快完成了，但是进度条还没有移动。
 

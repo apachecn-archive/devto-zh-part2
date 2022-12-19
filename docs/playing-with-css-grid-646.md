@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/sirech/playing-with-css-grid-646>
 
-<figure>[![Pre-Twitter Grid](../Images/79aee14a0273bf17b08644c8c8de7ce6.png "Pre-Twitter Grid")](https://res.cloudinary.com/practicaldev/image/fetch/s--7-bwjT-_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hceris.com/static/89342629b7da9773def6e3847e2c40e9/acb04/grid.jpg) 
+<figure>[![Pre-Twitter Grid](img/79aee14a0273bf17b08644c8c8de7ce6.png "Pre-Twitter Grid")](https://res.cloudinary.com/practicaldev/image/fetch/s--7-bwjT-_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hceris.com/static/89342629b7da9773def6e3847e2c40e9/acb04/grid.jpg) 
 
 <figcaption>
 [电力网|温尼伯](https://www.flickr.com/photos/jrladia/7151535423)

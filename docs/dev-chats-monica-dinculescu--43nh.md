@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/samjarman/dev-chats-monica-dinculescu--43nh>
 
-[![MonicaDinculescu, Emojineer!](../Images/262a3d83d954feea506845a78667c96d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VTX3LI2p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5998fd612994ca40488a3396/1503198565561/monica.jpg%3Fformat%3D1000w)
+[![MonicaDinculescu, Emojineer!](img/262a3d83d954feea506845a78667c96d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VTX3LI2p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5998fd612994ca40488a3396/1503198565561/monica.jpg%3Fformat%3D1000w)
 
 这是我的“开发聊天”系列中的一篇文章，在这篇文章中，我大约每周都会与一位出色的开发人员或技术人员交谈。你可以在这里阅读更多。如果你觉得这些对你有用，请在评论中告诉我！
 

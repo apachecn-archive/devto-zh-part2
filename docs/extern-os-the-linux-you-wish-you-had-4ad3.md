@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/xeroxism/extern-os-the-linux-you-wish-you-had-4ad3>
 
-[![externos_homepage_PC](../Images/ae2801a8275bf7d698ffcf68e589c982.png)T2】](https://i0.wp.com/fossnaija.com/wp-content/uploads/2018/10/externos_pc.png?ssl=1)
+[![externos_homepage_PC](img/ae2801a8275bf7d698ffcf68e589c982.png)T2】](https://i0.wp.com/fossnaija.com/wp-content/uploads/2018/10/externos_pc.png?ssl=1)
 
 Linux 世界美好的一面是有多种 Linux 发行版可供选择。从为太空硬件(如火箭和国际空间站)提供动力的电池到为你的冰箱提供动力的电池；Linux 拥有一切。
 
@@ -10,7 +10,7 @@ Linux 世界美好的一面是有多种 Linux 发行版可供选择。从为太�
 
 Linux 桌面的发展已经从简单的命令行界面发展到拥有优雅的用户界面(UI)和美学设计的完美桌面环境——同时仍然像往常一样非常强大。就像有很多 ditros 可供选择一样，桌面环境的数量也是如此。具有非常灵活的配置，可根据您的喜好定制操作系统。
 
-[![Elementary_OS_Loki_0.4](../Images/1759cffaf3f093142d72572b765914ad.png)T2】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/10/Elementary_OS_Loki_0.4.png?ssl=1)
+[![Elementary_OS_Loki_0.4](img/1759cffaf3f093142d72572b765914ad.png)T2】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/10/Elementary_OS_Loki_0.4.png?ssl=1)
 
 bock 上一个相对较新的到来是一个轻量级的 Linux 发行版，它有着令人垂涎的 UI，几乎会让你从椅子上尖叫起来。当谈到用户界面时，一些博客作者认为它是 windows 10 的竞争者。
 

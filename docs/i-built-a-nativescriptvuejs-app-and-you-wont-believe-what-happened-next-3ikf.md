@@ -16,7 +16,7 @@
 
 命令行将扩展任何`console.log`消息，但我希望它也能在自己的输出中有所区分。这里有一个随机的例子，虽然我知道我的消息在哪里，但我希望看到它被更多地调用。(是的，它太小了，甚至无法阅读。抱歉。但是我还没有附上照片，而且已经过期了。)
 
-[![Terminal output you cant read](../Images/4da7adb002bf542b843d6c7bdf9592b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mowQGATr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/10/nsv1.jpg)
+[![Terminal output you cant read](img/4da7adb002bf542b843d6c7bdf9592b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mowQGATr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/10/nsv1.jpg)
 
 在我离开这一部分之前，有一个简短的说明。我多次发现，如果我让 CLI 整夜运行，到了早上，它似乎不会刷新得很好。我只是再次运行命令行界面，一切都会好的。我假设终端和 Android 模拟器之间丢失了一些东西。如果我是一个打赌的人，我会完全责怪 Android。
 
@@ -24,7 +24,7 @@
 
 所以，是的，我知道我们都是“真正的”开发人员，我们必须使用 CLI 做任何事情，但你可能想看看 [Sidekick](https://www.nativescript.org/nativescript-sidekick) 应用程序。这是一个桌面 GUI，它包装了 CLI 操作，让您可以快速生成新项目并测试它们。它还可以很好地呈现关于项目的信息，如已安装的插件和其他设置。
 
-[![My sidekick...](../Images/c5d8a0f32c0eb2d6eff04f45e95864f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b5U4gsDR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/10/nsv2.jpg)
+[![My sidekick...](img/c5d8a0f32c0eb2d6eff04f45e95864f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b5U4gsDR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/10/nsv2.jpg)
 
 更令人印象深刻的是，它可以处理从 Windows 到 iOS 设备的构建。在我的测试中，这有点古怪。我知道(或者我很确定；)它成功了几次，但我很难让我的上一个项目正常工作。我将假设它*将*工作一致，但这相当令人印象深刻。
 
@@ -32,17 +32,17 @@
 
 Sidekick 的一个奇怪之处是，虽然它有一个“logs”输出面板，但你不会在那里找到 console.log 消息。相反，您希望确保选择“启动调试器”:
 
-[![The very obvious debugging thing](../Images/a87aea7807b16cf836db2417c3c4e9c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UC8I_aXM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/10/nsv3.jpg)
+[![The very obvious debugging thing](img/a87aea7807b16cf836db2417c3c4e9c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UC8I_aXM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/10/nsv3.jpg)
 
 这将打开一个新窗口，虽然仍然像 CLI 一样“嘈杂”,但我认为终端更容易阅读。
 
-[![Sample of the console output](../Images/8f453254f0c2bb2464f0df0b9e9d531b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IRBqbI8g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/10/nsv4.jpg)
+[![Sample of the console output](img/8f453254f0c2bb2464f0df0b9e9d531b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IRBqbI8g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/10/nsv4.jpg)
 
 ### 最简单的解决方案——操场
 
 所以第三个选择，也是最简单的一个，如果你想跳过对 SDK 的担心，就是[操场](https://play.nativescript.org/)。这是一个基于 web 的 IDE，可以让您在不安装任何东西的情况下使用 NativeScript。它甚至包括多个演练教程来帮助您学习。更好的是，你可以使用二维码功能(“是！”所有的标记器大喊)和一个相应的应用程序在你的移动设备上测试代码。奇怪的是——你需要在你的设备上安装*两个*应用，而他们的文档并没有告诉你这一点——操场应用和预览应用。
 
-[![Screenshot of my awesome iPhone](../Images/7f2093d14281e2b39514d6d36c3c13ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N7d0wzpg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/10/nsv5.jpg)
+[![Screenshot of my awesome iPhone](img/7f2093d14281e2b39514d6d36c3c13ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N7d0wzpg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/10/nsv5.jpg)
 
 总的来说，感觉这种刷新工作得很好，与 CLI 方法不相上下。但这绝对是最简单的入门方式，所以如果你不习惯或不熟悉 SDK，我会去看看。见鬼，即使是你，也应该考虑把它用在好的教程上。
 
@@ -52,15 +52,15 @@ Sidekick 的一个奇怪之处是，虽然它有一个“logs”输出面板，�
 
 第一页获取您的位置，然后提供服务类型列表(酒吧、餐馆、自动取款机等)。这是基于 API 支持的硬编码列表。
 
-[![List of types](../Images/f91dd58e25719e09452736524fc378e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pe_2T7t4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/10/nsv6.jpg)
+[![List of types](img/f91dd58e25719e09452736524fc378e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pe_2T7t4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/10/nsv6.jpg)
 
 当您选择一种类型时，它会要求 API 在您所在位置的特定范围内查找该类型的所有结果。
 
-[![List of results](../Images/36b2131840e2b04eb57350ef8fd69305.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K8CazFyD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/10/nsv7.jpg)
+[![List of results](img/36b2131840e2b04eb57350ef8fd69305.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K8CazFyD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/10/nsv7.jpg)
 
 最后一页只是一个“细节”视图。
 
-[![Detail view](../Images/477bc3107e3951e5ec3f35075b452539.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D1PqxAjF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/10/nsv8.jpg)
+[![Detail view](img/477bc3107e3951e5ec3f35075b452539.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D1PqxAjF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/10/nsv8.jpg)
 
 在我展示代码之前，需要注意一些事情。
 

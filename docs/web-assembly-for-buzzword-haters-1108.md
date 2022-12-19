@@ -4,7 +4,7 @@
 
 Web 组装看起来是 web 技术中下一个最好的东西。尽管第一次发布发生在最近，即 2017 年初，但很久以前就有传言和预期。例如，在谷歌上快速搜索，我找到了大约 3 年前的这篇文章。
 
-[![](../Images/fcd342af28e032042b4c0bb1f386d5d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---1JEjyGj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/1%2AblUep58uAs1c3pmkoqV1mQ.jpeg)
+[![](img/fcd342af28e032042b4c0bb1f386d5d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---1JEjyGj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/1%2AblUep58uAs1c3pmkoqV1mQ.jpeg)
 
 那么关于 WebAssembly 的所有宣传是什么呢？正如所有新的(和有前途的)技术一样，空气中有信息超载，我做了一个紧凑的常见问题解答来帮助你了解这个城镇中的新孩子
 

@@ -35,7 +35,7 @@ VNC(又名远程桌面)允许您从 Windows/Mac/Linux 主计算机上使用鼠�
 
 Pi 有一个内置的 VNC 服务器，但是您可能需要启用它。转到 Pi 配置(Pi 菜单->首选项->Raspberry Pi 配置)，您应该会看到一个单选按钮来启用 VNC。
 
-[![](../Images/c372d24a8eb4fd8f5a6904cf2a0b37a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hdY14VMH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dzf8vqv24eqhg.cloudfront.net/userfiles/1539/2321/ckfinder/images/rconf.png%3Fdc%3D201612011414-102)
+[![](img/c372d24a8eb4fd8f5a6904cf2a0b37a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hdY14VMH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dzf8vqv24eqhg.cloudfront.net/userfiles/1539/2321/ckfindimg/rconf.png%3Fdc%3D201612011414-102)
 
 您可以使用任何 VNC 客户端连接到 Pi。以下是一些建议:
 

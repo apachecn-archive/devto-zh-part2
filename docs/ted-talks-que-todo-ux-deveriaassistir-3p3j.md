@@ -6,13 +6,13 @@
 
 ## **无论级别高低，从初级到高级，多学一点总是很重要的。**
 
-[![diferença entre profissoes](../Images/46d5e14e17c3c83e4bb04202df4133a4.png)T2】](////app.vulpi.com.br/dev?utm_source=blog&utm_medium=eu_sou_dev)
+[![diferença entre profissoes](img/46d5e14e17c3c83e4bb04202df4133a4.png)T2】](////app.vulpi.com.br/dev?utm_source=blog&utm_medium=eu_sou_dev)
 
 自从我了解自己是一名‘t0’的 UX 的专业人士以来，我的一些经历帮助我认识到了我对使世界变得更容易使用的贡献(哈哈！页:1。虽然巴西还没有正式的培训来处理这一领域的工作，但由于这是一个多学科领域，现在有许多网络内容可以帮助您成为这一领域的专业人员。
 
 TED 演讲的目的是介绍伟大领袖的伟大故事和生活范例。在我成为 UX 专业人士的路上——我还在走路——一些人打开了我的头，帮助我更好地理解我作为一个‘t0’用户体验设计师的角色。下面是其中一些。我希望他们像我一样给你指明前进的道路。
 
-[![](../Images/2bf81f9930f301e815c35fa04cd1c56b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G00euNpW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AgnAxkNJqGUnhQCPL.jpg)
+[![](img/2bf81f9930f301e815c35fa04cd1c56b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G00euNpW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AgnAxkNJqGUnhQCPL.jpg)
 
 ## **托尼·法德尔|伟大设计的第一个秘密**
 

@@ -8,7 +8,7 @@
 
 Nylas API 是围绕事务日志的思想构建的。事务日志是一个只附加的日志，记录了我们的 API 对象发生的所有更改。如果您通过 Nylas API 发送一条消息，我们将创建一个事务日志条目，记录一个“message”对象被创建。如果您更新一个事件、日历或任何其他 API 对象，也会发生同样的事情。
 
-[![Design-01](../Images/0c01aa86c8b0f578858b82069dec6e2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mj4ARSsW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/Design-01.svg)
+[![Design-01](img/0c01aa86c8b0f578858b82069dec6e2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mj4ARSsW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/Design-01.svg)
 
 我们使用事务日志来支持所有的变更通知 API。例如，事务日志是您可以询问我们的 delta stream API 在过去 24 小时内特定帐户的所有更改的方式。
 
@@ -18,7 +18,7 @@ Nylas API 是围绕事务日志的思想构建的。事务日志是一个只附�
 
 我们最初的 webhook 系统非常简单，而且非常可靠。它将为每个 webhook 生成一个 reader 线程。每个读取线程将顺序读取我们的每个 MySQL 碎片，并发送它发现的更改。这让我们可以将大部分可靠性工作交给 MySQL——例如，如果一台 webhooks 机器崩溃了，我们只需重启它，它就会从中断的地方继续工作。这也意味着，如果客户的 webhook 出现故障，然后又恢复正常，我们将能够向他们发送在此期间发生的所有更改，这使得我们的客户更容易进行停机恢复。
 
-[![Design-02](../Images/631f87a75e273c8ba018cdba0562aa91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c52J2jry--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/blog%2520images/Webhooks%2520images/Design-02.svg)
+[![Design-02](img/631f87a75e273c8ba018cdba0562aa91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c52J2jry--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/blog%2520images/Webhooks%2520images/Design-02.svg)
 
 不幸的是，随着我们从几个 MySQL 碎片发展到几百个，从六个客户发展到几百个，这个架构开始变得越来越没有意义。每个客户一个线程意味着随着客户数量的增长，我们的系统会越来越慢。
 
@@ -28,13 +28,13 @@ Nylas API 是围绕事务日志的思想构建的。事务日志是一个只附�
 
 一旦我们决定重建系统，我们必须找出哪种架构最适合我们的工作负载。为了做到这一点，我们从查看传统系统的[火焰图](https://www.nylas.com/blog/performance/)开始。下面是一个典型的例子:
 
-[![null](../Images/7208b645825fd4d4eb89925392a5785f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--54Lbw25U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_234B0D79AADA5B4F166BEF2EF90D08BF9C8666FC8D0E26EAFFEA819987372305_1524854788822_Capture%2Bdecran%2B2018-04-27%2Ba%2B11.45.42.png)
+[![null](img/7208b645825fd4d4eb89925392a5785f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--54Lbw25U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_234B0D79AADA5B4F166BEF2EF90D08BF9C8666FC8D0E26EAFFEA819987372305_1524854788822_Capture%2Bdecran%2B2018-04-27%2Ba%2B11.45.42.png)
 
 有一件事立即浮现出来:我们花了很多时间执行 SQLAlchemy 代码，并等待我们的 MySQL 碎片。看到这个证实了我们很久以来的一个预感——我们有太多的读者。
 
 为了判断这是否正确，我们决定构建一个原型，使用单阅读器架构来发送 webhooks。这是我们想到的架构:
 
-[![Design-03](../Images/13dbc9088d7bba7efd3e9bcde98cfa04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TGDZCOZj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/blog%2520images/Webhooks%2520images/Design-03.svg)
+[![Design-03](img/13dbc9088d7bba7efd3e9bcde98cfa04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TGDZCOZj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/blog%2520images/Webhooks%2520images/Design-03.svg)
 
 基本上，我们将从每个分片有几个阅读器转移到每个分片有一个阅读器。我们决定尝试一下，看看它是否能解决我们的负载问题。
 
@@ -50,7 +50,7 @@ Nylas API 是围绕事务日志的思想构建的。事务日志是一个只附�
 
 然而，情况并非总是如此，例如，如果两个事务同时执行，其中一个可能不会执行，下面是一个原因示例:
 
-[![Design-05 (2)](../Images/cc3d1d98f1d7d60c50dd3e799508ea27.png)T2】](///hubfs/blog%20images/Webhooks%20images/Design-05%20(2).svg?t=1529514994570)
+[![Design-05 (2)](img/cc3d1d98f1d7d60c50dd3e799508ea27.png)T2】](///hubfs/blog%20images/Webhooks%20images/Design-05%20(2).svg?t=1529514994570)
 
 这个问题意味着我们不能依靠 MySQL 来处理事务。在我们看来，有三条不同的路可以走:
 
@@ -66,7 +66,7 @@ Kinesis 是一个有趣的系统——它真的很可靠，很容易操作，只
 
 显然，这些限制并不是世界末日，因为我们必须围绕它们建立我们的系统。这是我们最终使用的系统——与之前的系统一样，我们最终每个分片只有一个读取器，只是这次它从 Kinesis 而不是数据库读取。
 
-[![Design-04 (1) (1)](../Images/dad133efc9a630e75dc28d8f43491643.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CHqH680l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/blog%2520images/Webhooks%2520images/Design-04%2520%281%29%2520%281%29.svg)
+[![Design-04 (1) (1)](img/dad133efc9a630e75dc28d8f43491643.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CHqH680l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/blog%2520images/Webhooks%2520images/Design-04%2520%281%29%2520%281%29.svg)
 
 新系统的一个有趣的特性是，它只使用 Kinesis 来获得有序的更改日志——对于其他方面(例如，在一段时间的停机后赶上客户 webhook)，新系统将从我们的数据库中读取数据，这是耐用性的一个优势，并帮助我们避免 Kinesis 每秒五次交易的限制。
 

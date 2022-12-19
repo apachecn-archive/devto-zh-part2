@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/robaguilera/spread-operator-tricks-4g9k>
 
-[![I'm going to butter your bread](../Images/89970fb85629dc89446f3f926b5e53c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i47fieXm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s5reg6x0xifp2qenwvqb.jpg)
+[![I'm going to butter your bread](img/89970fb85629dc89446f3f926b5e53c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i47fieXm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s5reg6x0xifp2qenwvqb.jpg)
 
 我最近在使用 spread 操作符时发现了一些方便的模式，所以我想我应该写一篇博文分享一些。
 

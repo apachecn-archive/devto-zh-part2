@@ -2,13 +2,13 @@
 
 > 原文：<https://dev.to/onmyway133/fixing-react-native-issues-and-happy-deploy-to-bitrise-fabric-circleci-2n27>
 
-[![](../Images/513caa496780330ff4b7d3528d8a6e88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4mzNUKdy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2A7vKg_mdUkSLfvPVz.jpg)
+[![](img/513caa496780330ff4b7d3528d8a6e88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4mzNUKdy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2A7vKg_mdUkSLfvPVz.jpg)
 
 这篇帖子是关于实现二维码扫描，修复构建问题，与 [Bitrise](https://www.bitrise.io/) 的持续集成，Fabric 的崩溃报告以及如何将 React 原生项目驯服为源代码控制。对本地做出反应很难，但处理[依赖](https://medium.com/fantageek/what-is-create-react-native-app-9f3bc5a6c2a3)更难。过了一会儿，我收集了大量的[问题](https://github.com/onmyway133/notes/issues?utf8=%E2%9C%93&q=RN)，其中大部分是众所周知的问题，但有些需要一段时间才能弄清楚。让我们从一个简单的 QR 扫描仪功能开始。
 [**什么是创建-反应-原生-app？**
 *作为一个从 iOS 和 Android 背景过来 React Native 的人，我喜欢 React 和 Javascript 就像喜欢…*medium.com](https://medium.com/fantageek/what-is-create-react-native-app-9f3bc5a6c2a3)
 
-[![](../Images/613d4f1dd9bc650b22db75a5ca3f4d03.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q73tEY31--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3760/1%2A8hINdX6Zsomwy8u3e6QrQg.png)
+[![](img/613d4f1dd9bc650b22db75a5ca3f4d03.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q73tEY31--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3760/1%2A8hINdX6Zsomwy8u3e6QrQg.png)
 
 ## 带 react-native-camera 的二维码扫描仪
 
@@ -49,7 +49,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是因为框架搜索路径中的递归搜索路径。如果在 node _ modules/react-native-camera/IOs/RNCamera.xcodeproj/project . PBX proj 打开 rn camera . xcode proj，在 Build settings 下寻找框架搜索路径，可以看到它目前是递归的。您应该兑换$(SRCROOT)/../../IOs/对于调试和发布配置都是非递归的。
 
-[![](../Images/df9dd9f721358de1c8f143589baf67f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S5kcJ7AL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/4264/1%2AKFKLuzMYTibCkehW6vAsWA.png)
+[![](img/df9dd9f721358de1c8f143589baf67f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S5kcJ7AL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/4264/1%2AKFKLuzMYTibCkehW6vAsWA.png)
 
 ### [图书馆 com . Google . Android . GMS:play-services-Basel 正在被其他各图书馆请求](https://github.com/onmyway133/notes/issues/354)
 
@@ -97,7 +97,7 @@ onBarCodeRead 是我们处理 QR 码检测回调的地方。
 
 我的应用在本地运行良好，但在 Bitrise 上失败了。我已经联系了支持人员，但毫无头绪。由于 Bitrise 支持包含许多步骤的工作流，我可以选择运行 npm 命令来安装缺少的模块
 
-[![](../Images/65a4c18b55aa1733268ff6ec8198bde4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9JyuOCqe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3396/1%2AsdO5TWK3dStoeDRTFz6ZnQ.png)
+[![](img/65a4c18b55aa1733268ff6ec8198bde4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9JyuOCqe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3396/1%2AsdO5TWK3dStoeDRTFz6ZnQ.png)
 
 在运行 npm install jest-haste-map 之后，我得到
 
@@ -155,7 +155,7 @@ fi
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/0d7d2715b753cb984302c7f64aef767e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IX9kL1GD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3736/1%2AFP3yKJ4h1AurMGNfwICo5w.png)
+[![](img/0d7d2715b753cb984302c7f64aef767e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IX9kL1GD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3736/1%2AFP3yKJ4h1AurMGNfwICo5w.png)
 
 ```
 if [[ "$CONFIGURATION" = "Debug" && ! "$PLATFORM_NAME" == *simulator ]]; then
@@ -237,7 +237,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 因此，让我们确保我们有相同的节点、npm、react-native 版本。幸运的是，Bitrise 有定制的步骤来改变
 
-[![](../Images/b9cf73fa6e14b05a1e8e95f8196a8a99.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pEq1xosy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AKh-FrpeUh5UnH-H6vG8Avg.png)
+[![](img/b9cf73fa6e14b05a1e8e95f8196a8a99.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pEq1xosy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AKh-FrpeUh5UnH-H6vG8Avg.png)
 
 但即使有相同的版本和配置，它在 Bitrise 上仍然会失败😕
 
@@ -255,7 +255,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们有 package-lock.json 和 Podfile.lock，所以我们应该使用相同的版本。剩下的应该由包管理器来处理。是啊，希望如此。
 
-[![](../Images/a285cd63bc7d715a8b830281cf1d9d85.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--at6Sqef_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AY_2csNNYoXnezSgI.png)
+[![](img/a285cd63bc7d715a8b830281cf1d9d85.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--at6Sqef_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AY_2csNNYoXnezSgI.png)
 
 那么，如何保持变通方法的变化呢？我知道有几种方法
 
@@ -412,11 +412,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 对于 iOS，我们需要安装 [Fabric macOS app](https://fabric.io/downloads/xcode) 并遵循[指令](https://fabric.io/kits/ios/crashlytics/install)。比起使用 CocoaPods，我更喜欢将 Fabric 和 Crashlytics 框架拖到我们的 Xcode 项目中。此外，如果您在 Xcode 中归档项目，那么您可以手动选择归档并上传到 Fabric。只需在 Fabric 应用程序中选择存档选项卡。
 
-[![](../Images/2d1c646ee7652e997f21c47657f5b3b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--22bY93xK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AjYjFvs1hCaAQUjTH6eIzpQ.png)
+[![](img/2d1c646ee7652e997f21c47657f5b3b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--22bY93xK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AjYjFvs1hCaAQUjTH6eIzpQ.png)
 
 对于 Android，我们需要为 Android Studio 安装 [Fabric。安装后，在视图- >工具窗口- >结构中可用](https://plugins.jetbrains.com/plugin/8002-fabric-for-android-studio)
 
-[![](../Images/1a847853ad41ecac0ee32c81abd10e18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x1l4rTYW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/6720/1%2A3eP-zzqkK2VM6731n2404Q.png)
+[![](img/1a847853ad41ecac0ee32c81abd10e18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x1l4rTYW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/6720/1%2A3eP-zzqkK2VM6731n2404Q.png)
 
 该工具只设置简单的东西。我们仍然需要配置 gradle，按照[上的说明通过 Gradle](https://fabric.io/kits/android/crashlytics/install) 安装 Crashlytics
 
@@ -489,7 +489,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 对于现在的 React 原生 0.57.0，它还不能在 Xcode 10 中完全[工作](https://github.com/facebook/react-native/issues/19573)。我经常得到这个错误错误:多个命令产生。在这种情况下，我们需要将-UseModernBuildSystem=N 追加到 xcodebuild 命令中。或者在 Xcode 中，我们需要使用旧的遗留构建系统。转到文件- >项目设置，并将构建系统设置为遗留构建系统
 
-[![](../Images/18b38df9dd1f35ac5c85619dfc2ea3bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U-abhbGW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2272/1%2An_Ydz7oLbwieJb5Ko-msRw.png)
+[![](img/18b38df9dd1f35ac5c85619dfc2ea3bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U-abhbGW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2272/1%2An_Ydz7oLbwieJb5Ko-msRw.png)
 
 ## 何去何从
 

@@ -4,7 +4,7 @@
 
 Android 用户对他们的设备的忠诚程度不亚于 iOS 用户对他们设备的忠诚程度。当然，这两种操作系统都有改进的空间，不管其采用程度有多狂热。
 
-[![top things that irritate android users](../Images/1a650300319adb39d4f23fdf1129e145.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LDhbnB1u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.pexels.com/photos/359757/pexels-photo-359757.jpeg)
+[![top things that irritate android users](img/1a650300319adb39d4f23fdf1129e145.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LDhbnB1u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.pexels.com/photos/359757/pexels-photo-359757.jpeg)
 
 以下是 Android 用户希望在未来几代设备中看到改进的 5 件事。开发人员在开发新应用时可能会发现这很有用。
 

@@ -4,19 +4,19 @@
 
 在科技界，人们经常用自嘲的话来为自己或自己的成就做开场白。例如，Stephanie Hurlburt 试图通过转发初级程序员的技术博客帖子来提高她们的知名度。
 
-> ![Stephanie Hurlburt profile image](../Images/6bf2a051d9b256142b07a1b1c1b2f5cc.png)Stephanie hurl Burt[@ sehurl Burt](https://dev.to/sehurlburt)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)如果你是一名初级程序员的女性，或者是一名有抱负的初级程序员，请用你写的技术博客帖子回复这条推文。我很想把它拍下来，让它有好的可见度。
+> ![Stephanie Hurlburt profile image](img/6bf2a051d9b256142b07a1b1c1b2f5cc.png)Stephanie hurl Burt[@ sehurl Burt](https://dev.to/sehurlburt)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)如果你是一名初级程序员的女性，或者是一名有抱负的初级程序员，请用你写的技术博客帖子回复这条推文。我很想把它拍下来，让它有好的可见度。
 > 
 > 我不会 RT 关于软技能或者文化的博文。只有技术。
 > 
-> 如果你没有，现在就给我写一个。2017 年 12 月 01 日上午 09:39[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=936530247092133890)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=936530247092133890)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=936530247092133890)
+> 如果你没有，现在就给我写一个。2017 年 12 月 01 日上午 09:39[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=936530247092133890)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=936530247092133890)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=936530247092133890)
 
 后来她注意到:
 
-> ![Stephanie Hurlburt profile image](../Images/6bf2a051d9b256142b07a1b1c1b2f5cc.png)Stephanie hurl Burt[@ sehurl Burt](https://dev.to/sehurlburt)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)给我发博文的女人有一半是带着自嘲的评论做的。
+> ![Stephanie Hurlburt profile image](img/6bf2a051d9b256142b07a1b1c1b2f5cc.png)Stephanie hurl Burt[@ sehurl Burt](https://dev.to/sehurlburt)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)给我发博文的女人有一半是带着自嘲的评论做的。
 > 
 > 只要写博文标题+链接就不难了。自嘲是挡箭牌。这是“你不能说我的工作不好来伤害我，因为是我先说的。”
 > 
-> 而且会伤害你的事业。停下来。[twitter.com/sehurlburt/sta…](https://t.co/BjLk8zUzZC)我很想把它拍下来，让它有好的可见度。我不会发关于软技能或文化的博文。只有技术。如果你没有，现在就给我写一个。【T30[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=936783454854823936)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=936783454854823936)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=936783454854823936)
+> 而且会伤害你的事业。停下来。[twitter.com/sehurlburt/sta…](https://t.co/BjLk8zUzZC)我很想把它拍下来，让它有好的可见度。我不会发关于软技能或文化的博文。只有技术。如果你没有，现在就给我写一个。【T30[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=936783454854823936)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=936783454854823936)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=936783454854823936)
 
 我非常同意这一点。这种自嘲的行为在我们这个行业根深蒂固。老实说，我认为这几乎是鼓励，因为许多文章完全浪漫化了[冒名顶替综合症](https://en.wikipedia.org/wiki/Impostor_syndrome)和[邓宁-克鲁格效应](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)。
 
@@ -26,7 +26,7 @@
 
 #### 1。当描述你自己或你的成就时，不要再说这些话。**这些话现在被禁止了👇**
 
-> ![Stephanie Hurlburt profile image](../Images/6bf2a051d9b256142b07a1b1c1b2f5cc.png)斯蒂芬妮[@ sehurlbert](https://dev.to/sehurlburt)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)禁止自嘲评论的例子。🚫
+> ![Stephanie Hurlburt profile image](img/6bf2a051d9b256142b07a1b1c1b2f5cc.png)斯蒂芬妮[@ sehurlbert](https://dev.to/sehurlburt)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)禁止自嘲评论的例子。🚫
 > 
 > “我的项目是……”
 > -很小/基础/简单
@@ -37,7 +37,7 @@
 > 上的东西-傻傻的
 > -没那么有用
 > 
-> 只是陈述题目，让别人来评判。02:43AM-02 Dec 2017[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=936787995738365952)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=936787995738365952)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=936787995738365952)
+> 只是陈述题目，让别人来评判。02:43AM-02 Dec 2017[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=936787995738365952)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=936787995738365952)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=936787995738365952)
 
 #### 2。认真考虑你带来的价值，然后让每个人都知道。
 
@@ -57,7 +57,7 @@
 
 我真的很喜欢下面这篇文章:
 
-[![ice_lenor image](../Images/72c00f9441c161ed94abaeb333554881.png)](/ice_lenor) [## 对抗冒名顶替综合症的一个有用建议
+[![ice_lenor image](img/72c00f9441c161ed94abaeb333554881.png)](/ice_lenor) [## 对抗冒名顶替综合症的一个有用建议
 
 ### Elena Dec 8 ' 176min read
 
@@ -65,7 +65,7 @@
 
 **编辑**关于这个话题的另一个很棒的帖子:
 
-[![kathryngrayson image](../Images/3ca7a847e1d2467f5da9854b78082bdd.png)](/kathryngrayson) [## 克服冒名顶替综合症
+[![kathryngrayson image](img/3ca7a847e1d2467f5da9854b78082bdd.png)](/kathryngrayson) [## 克服冒名顶替综合症
 
 ### 凯瑟琳·格雷森·南兹 9 月 29 日 1712 分钟阅读
 
@@ -73,7 +73,7 @@
 
 **编辑**我真的很感谢这个评论中的建议:
 
-[![jrohatiner profile image](../Images/c8a6056a15935482373434c0f74f47f1.png) ](/jrohatiner) [ Judith ](/jrohatiner) • [<time datetime="2018-05-09T22:28:09Z"> May 9 '18 </time>](https://dev.to/jrohatiner/comment/3ahk) 
+[![jrohatiner profile image](img/c8a6056a15935482373434c0f74f47f1.png) ](/jrohatiner) [ Judith ](/jrohatiner) • [<time datetime="2018-05-09T22:28:09Z"> May 9 '18 </time>](https://dev.to/jrohatiner/comment/3ahk) 
 
 @maurice_hayward 我和我丈夫经常讨论这个问题。我总是回答:“我们教人们如何对待我们。”我一遍又一遍地看了你在帖子中提出的每一个问题。我 100%肯定你是对的，但是我也明白了，你不能通过思考来获得更好的自尊，你必须通过行动来获得。当你谈论一个项目时，改变回答。即使你不喜欢，也要强迫自己简单地解释，就像你在谈论别人做的事情一样。
 

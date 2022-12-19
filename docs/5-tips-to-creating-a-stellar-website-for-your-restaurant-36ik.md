@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/brettclawson75/5-tips-to-creating-a-stellar-website-for-your-restaurant-36ik>
 
-[![Computer with coding on the screen.](../Images/43b79705a5cdf6471d5f0ba69817c112.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ou_gF2ZJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1517694712202-14dd9538aa97%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3Da20bc6324f6ef2969d9a7cae56b8d4d1%26auto%3Dformat%26fit%3Dcrop%26w%3D1950%26q%3D80)
+[![Computer with coding on the screen.](img/43b79705a5cdf6471d5f0ba69817c112.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ou_gF2ZJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1517694712202-14dd9538aa97%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3Da20bc6324f6ef2969d9a7cae56b8d4d1%26auto%3Dformat%26fit%3Dcrop%26w%3D1950%26q%3D80)
 
 在当今这个商业竞争异常激烈、技术不断进步的时代，拥有一个在线网站是必要的。考虑到大多数客户使用数字设备来定位他们可以购买特定产品或服务的企业，没有在线存在的企业将会失去很大的市场份额。为你的餐馆创建一个网站可能是实现你的愿景的关键。你可以使用下面的提示为你的餐馆制作一个充满活力和响应迅速的网站。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/mohitkalra/the-y-why--in-vimrc--31k4>
 
-[![vim image](../Images/636eea906a7177d6bd63ed069e4dfaca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z0XpdMMy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.vim.org/images/vim_editor.gif)
+[![vim image](img/636eea906a7177d6bd63ed069e4dfaca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z0XpdMMy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.vim.oimg/vim_editor.gif)
 
 我是一个狂热的 vim 用户。我在 Windows 上用过 [GVim](https://www.vim.org/download.php#pc) ，现在在 Mac 上用 [MacVim](http://macvim-dev.github.io/macvim/) 。我也在需要的时候从终端使用它。我喜欢 vim 的原因有很多，但这篇文章不是关于那个或关于 vim 的教程。如果 vim 是你的编辑器选择，你会喜欢这个系列，因为我将分享“为什么”[我的 vimrc](https://github.com/technochakra/config/blob/master/vimrc) 看起来是这样的。
 

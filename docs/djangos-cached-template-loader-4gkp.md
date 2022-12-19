@@ -10,7 +10,7 @@ Django 模板包含两个概念，**和 [**扩展**](https://docs.djangoproject.
 
 当 Django 决定是时候呈现一个页面时，它通过一系列的 [**加载器**](https://docs.djangoproject.com/en/2.0/ref/templates/api/#loader-types) 来决定使用哪些模板。加载程序按顺序运行，搜索它们所知道的模板，看是否有匹配所请求的模板名的模板。Django 使用它通过这些加载器找到的第一个模板，如果没有加载器能找到匹配，最终引发一个`TemplateNotFound`异常。一旦 Django 决定了一个模板，它就从磁盘中读取该模板，并跟踪它需要的任何进一步的模板引用，直到它有足够的信息来呈现当前页面。这看起来很简单，但是有一个问题！
 
-[![](../Images/4e5dee2af429faf8b81aefc992d27798.png)T2】](https://cdn-images-1.medium.com/proxy/1*I_UzmUJd7ozroRmQbEEKQA.gif)
+[![](img/4e5dee2af429faf8b81aefc992d27798.png)T2】](https://cdn-images-1.medium.com/proxy/1*I_UzmUJd7ozroRmQbEEKQA.gif)
 
 在 Django 1.10 之前，默认行为是从磁盘中读取每个需要的模板，每个请求，*每次使用*。循环中包含的模板将在循环运行时从磁盘中读取。我们的一个特定应用程序在高峰流量期间每分钟接收 500 个请求，这通常是可以管理的。然而，其中一些请求需要数百甚至数千次使用单个模板，这给 I/O 和 CPU 等资源带来了压力。
 
@@ -35,9 +35,9 @@ TEMPLATES = [{
 
 这个小小的加法能有多有效呢？您的里程数几乎肯定会有所不同，但我们可以向您展示它是如何影响我们上述的应用程序的。
 
-[![](../Images/99b5d9f10689b3f4cbba5907b4789445.png)T2】](https://cdn-images-1.medium.com/proxy/1*4aSmBhTgyL9ZnyY9GBX43w.png)
+[![](img/99b5d9f10689b3f4cbba5907b4789445.png)T2】](https://cdn-images-1.medium.com/proxy/1*4aSmBhTgyL9ZnyY9GBX43w.png)
 
-[![](../Images/c57f66d69cfaff74f228e1459208bb1d.png)T2】](https://cdn-images-1.medium.com/proxy/1*KlR7zB9h-JDFTy7mTsC2uQ.png)
+[![](img/c57f66d69cfaff74f228e1459208bb1d.png)T2】](https://cdn-images-1.medium.com/proxy/1*KlR7zB9h-JDFTy7mTsC2uQ.png)
 
 刚过上午 9 点，我们就在这个应用程序中启用了缓存模板加载器。新服务器上的平均 CPU 几乎是旧服务器的一半，总体噪音更小。同样，该应用程序的响应时间缩短了近 50%，并且更加稳定。由于这一改变，我们的服务器数量也减少了一台，提高了 33%!
 

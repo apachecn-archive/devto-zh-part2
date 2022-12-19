@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/wiredferret/book-review-accelerate-48el>
 
-[![Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](../Images/7131f7c4c35112d1e4e7b0ffe148a3d5.png) ](https://www.goodreads.com/book/show/39080433-accelerate) [ Accelerate:精益软件和开发的科学:构建和扩展高性能技术组织](https://www.goodreads.com/book/show/39080433-accelerate)作者[Nicole Forsgren](https://www.goodreads.com/author/show/17037914.Nicole_Forsgren)
+[![Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](img/7131f7c4c35112d1e4e7b0ffe148a3d5.png) ](https://www.goodreads.com/book/show/39080433-accelerate) [ Accelerate:精益软件和开发的科学:构建和扩展高性能技术组织](https://www.goodreads.com/book/show/39080433-accelerate)作者[Nicole Forsgren](https://www.goodreads.com/author/show/17037914.Nicole_Forsgren)
 T8】我的评分: [5 颗星中的 5 颗](https://www.goodreads.com/review/show/2544581177)
 
 这本书很好地总结了 DevOps 报告的总体发现，以及对试图说服自己进行 DevOps 转型的组织的启示。

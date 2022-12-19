@@ -46,7 +46,7 @@ Picard 讲述了一群人被迫搬迁的故事。
 
 在《TNG》的最后一集中，一个未来版本的皮卡德出现在 25 年后的未来。这是一个相似的时间段，所以比较两者会很有趣。让皮卡德回顾他的一生，并就他的人生选择提出问题。
 
-[![Picard](../Images/c8701c4e248bd40ac1e46f97e41d183f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--comkwCmp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storageaccountblog9f5d.blob.core.windows.net/blazor/wp-content/uploads/2018/08/all-good-things.jpg%3Fw%3D662%26ssl%3D1)
+[![Picard](img/c8701c4e248bd40ac1e46f97e41d183f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--comkwCmp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storageaccountblog9f5d.blob.core.windows.net/blazor/wp-content/uploads/2018/08/all-good-things.jpg%3Fw%3D662%26ssl%3D1)
 
 ## 与自己的过去一致
 
@@ -60,7 +60,7 @@ Picard 讲述了一群人被迫搬迁的故事。
 
 这是一个电视节目，将发生在每一个其他的迷航电视和电影之后，可以做创作者想做的任何事情。这给了自由，但也给了责任去参考以前发生过的事情。
 
-[![Picard](../Images/aef026d8c770a5e485b5f85357476f60.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--orYdZRgL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storageaccountblog9f5d.blob.core.windows.net/blazor/wp-content/uploads/2018/08/download.jpg%3Fw%3D662%26ssl%3D1)
+[![Picard](img/aef026d8c770a5e485b5f85357476f60.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--orYdZRgL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storageaccountblog9f5d.blob.core.windows.net/blazor/wp-content/uploads/2018/08/download.jpg%3Fw%3D662%26ssl%3D1)
 
 2009 年的《星际迷航》电影讲述了罗穆卢斯和斯波克穿越时空的毁灭。皮卡德如何处理幸存的罗武伦人，帮助他们重建社会，继续斯波克在《TNG》一集中开始的工作。
 

@@ -10,7 +10,7 @@
 
 [使用 php、mysql、jquery 和 ajax 在 div scroll 上动态加载数据](https://www.skptricks.com/2017/11/dynamically-load-data-on-div-scroll-using-php-mysql-jquery-and-ajax.html)
 
-[![](../Images/38744ad22c3c4209c9f216b85202f3de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wEi9ltDP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-sXlrictlbPA/Wf7CZ-5DiiI/AAAAAAAABAw/1NfOjpVpNncOodx4E6QxFPLXSTlo1JQxwCLcBGAs/s400/1.PNG)
+[![](img/38744ad22c3c4209c9f216b85202f3de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wEi9ltDP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-sXlrictlbPA/Wf7CZ-5DiiI/AAAAAAAABAw/1NfOjpVpNncOodx4E6QxFPLXSTlo1JQxwCLcBGAs/s400/1.PNG)
 
 [https://www.youtube.com/embed/rRLgGmO8rWY](https://www.youtube.com/embed/rRLgGmO8rWY)
 

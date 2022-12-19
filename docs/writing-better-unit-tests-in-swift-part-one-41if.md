@@ -4,7 +4,7 @@
 
 *使用工厂方法生成测试数据*
 
-[![](../Images/cbe0334af0023f7abd2da6b6e06a2715.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yjFnpFHj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AOBYnnEGuTxwoFPsGjgvlUg%402x.png)
+[![](img/cbe0334af0023f7abd2da6b6e06a2715.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yjFnpFHj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AOBYnnEGuTxwoFPsGjgvlUg%402x.png)
 
 ### 问题
 

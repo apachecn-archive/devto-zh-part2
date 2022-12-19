@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/briannipper/net-mstest-and-deploymentitem-attribute-1nbe>
 
-[![](../Images/17652fcc3381203c7beffdc4df1254dd.png)](https://1.bp.blogspot.com/-yUScwKt9f9U/W8fwKMIkjpI/AAAAAAAAHM8/XOOQefRICNkqfBvzhV0FQxt9DdxoZu3WACKgBGAs/s1600/CA5FCC3D-1D3E-4C3B-BA16-72809A47E0BA.jpeg) 
+[![](img/17652fcc3381203c7beffdc4df1254dd.png)](https://1.bp.blogspot.com/-yUScwKt9f9U/W8fwKMIkjpI/AAAAAAAAHM8/XOOQefRICNkqfBvzhV0FQxt9DdxoZu3WACKgBGAs/s1600/CA5FCC3D-1D3E-4C3B-BA16-72809A47E0BA.jpeg) 
 最近有人提醒我，在尝试排除间歇性单元测试故障时，操作顺序可能会影响你。
 
 首先，我将第一个承认，如果你想避免单元测试的问题，最好避免任何实际代码库之外的依赖，像数据库、API 甚至文件系统这样的东西最好避免在单元测试的执行中。最后一个，文件系统，在某些应用程序中是很难避免的。

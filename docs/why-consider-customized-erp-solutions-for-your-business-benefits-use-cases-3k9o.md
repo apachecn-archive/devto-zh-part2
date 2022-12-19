@@ -24,7 +24,7 @@ ERP 应用程序是一种数据管理工具，允许查看和共享数据，以�
 
 世界各地的公司都对 ERP 解决方案表现出浓厚的兴趣。根据 [Statista 网站](https://www.statista.com/statistics/203428/total-enterprise-software-revenue-forecast/)的数据，在 2010-2017 年期间，全球 ERP 支出增长了 40%以上:
 
-[![Customized ERP Solutions spent graph](../Images/b6d66a9a6c4ec1a646bcfe63a016f208.png)T2】](https://apiumhub.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-21-at-08.50.25.png)
+[![Customized ERP Solutions spent graph](img/b6d66a9a6c4ec1a646bcfe63a016f208.png)T2】](https://apiumhub.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-21-at-08.50.25.png)
 
 为了确保 ERP 仍然是一项值得您关注的前景技术，让我们来看看 ERP 市场中顶级影响者的观点。
 
@@ -107,7 +107,7 @@ Panorama Consulting Solutions 的管理合伙人兼创始人 Eric Kimberling :�
 
 如果您想避免工作流程中的任何延迟，在您的系统中集成一个 ERP 模块将是一个不错的选择。Skyline 是集成 ERP 报告模块的一个示例:
 
-[![customized ERP solutions graph](../Images/491c2bdbead6434faac099ca39051f2f.png)T2】](https://apiumhub.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-21-at-08.58.57.png)
+[![customized ERP solutions graph](img/491c2bdbead6434faac099ca39051f2f.png)T2】](https://apiumhub.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-21-at-08.58.57.png)
 
 本模块旨在减少为进一步报告而收集和分析重要信息的工作量。要创建符合特定要求的报告，用户可以创建自定义模板、筛选和分组可用数据。制作的报告可以保存或导出为 Excel、PDF 或 CSV 格式。
 
@@ -117,7 +117,7 @@ Panorama Consulting Solutions 的管理合伙人兼创始人 Eric Kimberling :�
 
 面向企业的[工作流应用程序](https://xbsoftware.com/case-studies-webdev/workflow-app-for-business/)旨在帮助员工处理与业务合作伙伴、供应商、客户和其他参与者相关的大量信息:
 
-[![customized ERP solutions](../Images/2be09a94b9e874634ae3116e3bc2eb3b.png)T2】](https://apiumhub.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-21-at-09.01.48.png)
+[![customized ERP solutions](img/2be09a94b9e874634ae3116e3bc2eb3b.png)T2】](https://apiumhub.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-21-at-09.01.48.png)
 
 该解决方案允许用户立即接收当前业务事件的最相关信息。可视化数字报告模块以易于理解的形式呈现复杂的业务数据，有助于更快地做出重要的业务决策。此外，用户可以即时访问股票可用性、客户资料和订单历史。
 
@@ -131,7 +131,7 @@ Panorama Consulting Solutions 的管理合伙人兼创始人 Eric Kimberling :�
 
 作为一个旨在管理公司不同阶段工作流程的 ERP 应用程序的示例，您可以查看[劳动力和设施管理套件](https://xbsoftware.com/case-studies-webdev/workforce-and-facility-management-suite/):
 
-[![Customized ERP solutions](../Images/282267d54864ea84ba5db9fcdab7db1f.png)T2】](https://apiumhub.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-21-at-09.04.03.png)
+[![Customized ERP solutions](img/282267d54864ea84ba5db9fcdab7db1f.png)T2】](https://apiumhub.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-21-at-09.04.03.png)
 
 该解决方案简化了从合同创建到报告的公司工作流程监控。该应用程序允许即时访问联系人、订单、工作班次计划和主要关键绩效指标。
 

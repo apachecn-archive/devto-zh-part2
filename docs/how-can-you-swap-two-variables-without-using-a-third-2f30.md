@@ -14,7 +14,7 @@
 
 <center>If you accepted this challenge, ❤️ it and [follow me on Twitter](https://twitter.com/intent/follow?screen_name=theoutlander).</center>
 
-[![theoutlander](../Images/fa3a5404d413070afd491a6351af2493.png)](/theoutlander) [## 如何提高你的调试技能
+[![theoutlander](img/fa3a5404d413070afd491a6351af2493.png)](/theoutlander) [## 如何提高你的调试技能
 
 ### 尼克卡尼克 10 月 1 日 184 分钟阅读
 

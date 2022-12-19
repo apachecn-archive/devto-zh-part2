@@ -4,7 +4,7 @@
 
 这是我的“开发聊天”系列中的一篇文章，在这篇文章中，我大约每周都会与一位出色的开发人员或技术人员交谈。你可以在这里阅读更多。如果你觉得这些对你有用，请在评论中告诉我！
 
-[![Andyy, always full of...hope!](../Images/1d682b02eaca5cc2ac0f9a768418532c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pSyNftoP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/59f55df69140b70add76d628/1509252614768/andyy.jpg%3Fformat%3D1000w)
+[![Andyy, always full of...hope!](img/1d682b02eaca5cc2ac0f9a768418532c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pSyNftoP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/59f55df69140b70add76d628/1509252614768/andyy.jpg%3Fformat%3D1000w)
 
 和 yy，总是充满...希望！
 

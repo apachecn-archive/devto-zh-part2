@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/scalegrid/five-tips-for-better-mongodb-hosting-on-azure-53m1>
 
-[![](../Images/8e604f3aae43605928a0b4db7fb2d5bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kLVV3kcn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8vru4wtcqd5o0m08m0o8.jpg)
+[![](img/8e604f3aae43605928a0b4db7fb2d5bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kLVV3kcn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8vru4wtcqd5o0m08m0o8.jpg)
 
 Azure 云计算平台在过去几年经历了一系列令人眼花缭乱的改进，几乎不像微软在 2010 年开始的原始平台。ScaleGrid 是最早支持 Azure 的 MongoDB 托管平台之一，随着 Azure 的发展，我们将继续改进我们的产品。
 

@@ -44,7 +44,7 @@
 
 当然，因为我的博客是关于可访问性的，所以我对那些需求非常坚定和清楚，这对于许多客户来说可能不是这样。然而，Raquel 会问我认为是关于我的品牌的正常问题，我的信息是什么，我想强调我的品牌和个性的哪些元素，等等。我们也有一个 Pinterest 板，我们可以在那里就配色方案进行头脑风暴，我会选择我最喜欢的方案。我不太了解设计师如何与客户合作，但我怀疑这是总的主题，尽管也许 Pinterest 董事会更适合个人而不是组织。
 
-[![Lindsey's color schemes with a variety of them as backgrounds and text colors with contrast ratio next to them](../Images/08ec3fe933f74b4af79b5c4d42756a2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5D9iCmcj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.a11ywithlindsey.com/static/color_schemes_example-7274cf3cb30ab3daf95c5539246ed92f-cd245.png)
+[![Lindsey's color schemes with a variety of them as backgrounds and text colors with contrast ratio next to them](img/08ec3fe933f74b4af79b5c4d42756a2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5D9iCmcj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.a11ywithlindsey.com/static/color_schemes_example-7274cf3cb30ab3daf95c5539246ed92f-cd245.png)
 
 一旦我选择了我最喜欢的配色方案，当她给我发送可交付成果时，她会做得更好。她给了我大约 5 - 6 种颜色，并将它们与文本和背景一起使用。对于每一种颜色，她都会告诉我这种组合的颜色对比是什么。这给了我很大的信心，我使用的所有颜色都有适当的对比度，我使用的颜色也很恰当。如果你想看看我们浏览过的一些样品，你可以[下载配色方案](https://www.a11ywithlindsey.com/ColorSchemes-857041f8d7c63506a8684f131ae31939.zip)。声明:配色方案 pdf 中的来源/灵感照片取自 Pinterest。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ryanmiller/acme-trends-that-swerve-ios-app-development-to-top--215h>
 
-[![](../Images/d77158d56c892a25491582ee12d70b6a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--X_wpFEOt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/RH79LbV.png) 
+[![](img/d77158d56c892a25491582ee12d70b6a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--X_wpFEOt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/RH79LbV.png) 
 苹果几个月前推出了 iOS 11.3.1，这是最近由 iOS 11.4 和 iOS 12 即兴创作的。再深挖一点，发现 iOS 11.4 用户在更新后报告电池快速耗尽。这个问题与正在使用的 iPhone 型号无关。当手机不使用时关闭 Wi-Fi，连接 2.4 GhZ 而不是 5 GHz 的 Wi-Fi 可以达到这个目的，但一些用户报告说这些技巧对他们不起作用。所以很多都回滚到了让续航恢复正常的 iOS 11.3.1。iOS 12 似乎彻底解决了这个问题。因此，关注 iOS 应用程序的发展趋势非常重要。iOS 12 更新最初在 beta 或预发布测试版本中推出。
 
 苹果最近在 WWDC 2018 上宣布，一直在努力增加一些功能，如重新设计的主屏幕应用网格，iPhones 和 MAC 上运行的第三方应用的合并，以及增强现实游戏的多人模式。计划在今年晚些时候发布的更多功能更新是“组合应用平台”。iOS 12 今年不会包括的功能更新:改进的“照片管理”应用程序和苹果车载用户界面的更新。

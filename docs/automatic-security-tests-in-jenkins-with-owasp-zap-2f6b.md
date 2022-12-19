@@ -2,11 +2,11 @@
 
 > 原文：<https://dev.to/gwllmnn/automatic-security-tests-in-jenkins-with-owasp-zap-2f6b>
 
-[![](../Images/65d42f26a361967073e109a1aeace8d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YJBGaquQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/790/1%2A6qCQfcu5ZX7Eq_C1mqOLqA.png)
+[![](img/65d42f26a361967073e109a1aeace8d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YJBGaquQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/790/1%2A6qCQfcu5ZX7Eq_C1mqOLqA.png)
 
 OWASP ZAP 是一个非常流行的工具，用来发现你的代码库和实例/服务器设置中的漏洞。
 
-[![](../Images/4ac232676eae982b8395d1197506f9a1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PPEsZKJR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/64/1%2AAr8NCL0OVmq0GU6wzzxSQA.png) 
+[![](img/4ac232676eae982b8395d1197506f9a1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PPEsZKJR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/64/1%2AAr8NCL0OVmq0GU6wzzxSQA.png) 
 
 <figcaption>OWASP ZAP 标志</figcaption>
 
@@ -52,7 +52,7 @@ ZAPROXY\_HOME=/usr/local/bin/ZAP\_2.x.x/
 
 要在你的 Jenkins 实例上安装官方 OWASP ZAP 插件，请进入管理 Jenkins ->管理插件->可用(这是一个选项卡)->查找 OWASP ZAP。
 
-[![](../Images/abcfb8f06f894e18e3aff249b8f76a1c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IjrMvsDg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/574/1%2A1A4Zmuc0rk27mc2SJrp8gg.png) 
+[![](img/abcfb8f06f894e18e3aff249b8f76a1c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IjrMvsDg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/574/1%2A1A4Zmuc0rk27mc2SJrp8gg.png) 
 
 <figcaption>插件安装</figcaption>
 
@@ -60,7 +60,7 @@ ZAPROXY\_HOME=/usr/local/bin/ZAP\_2.x.x/
 
 通过转到管理 Jenkins ->配置系统并填写以下字段来配置插件。
 
-[![](../Images/423a5116a902341ca120608e58e4cdcc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hJiRX64k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/885/1%2AW0-GYn-rWI_EHTcRChsYNA.png) 
+[![](img/423a5116a902341ca120608e58e4cdcc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hJiRX64k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/885/1%2AW0-GYn-rWI_EHTcRChsYNA.png) 
 
 <figcaption>端口 8089 就是一个例子，你可以在这里选择你想要的端口</figcaption>
 
@@ -70,13 +70,13 @@ ZAPROXY\_HOME=/usr/local/bin/ZAP\_2.x.x/
 
 *   丢弃旧版本
 
-[![](../Images/31f0ee8c41caa98237e4eb604881095d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--V78Y5mIF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/934/1%2AxlaV6P8g3UTvccOrtmjwnw.png) 
+[![](img/31f0ee8c41caa98237e4eb604881095d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--V78Y5mIF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/934/1%2AxlaV6P8g3UTvccOrtmjwnw.png) 
 
 <figcaption>确保我们的项目不会占用太多空间</figcaption>
 
 *   构建触发器(可选)
 
-[![](../Images/1f4f0107546589a5aa0ea84456bd945f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--60WGMuFY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/934/1%2ASttXjjWEcSNadq9cGLQJ5Q.png) 
+[![](img/1f4f0107546589a5aa0ea84456bd945f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--60WGMuFY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/934/1%2ASttXjjWEcSNadq9cGLQJ5Q.png) 
 
 <figcaption>每周日凌晨 2 点运行作业</figcaption>
 
@@ -84,31 +84,31 @@ ZAPROXY\_HOME=/usr/local/bin/ZAP\_2.x.x/
 
 在执行 ZAP 构建步骤中:
 
-[![](../Images/462e8016b308b1a4027257b0e2f8cae5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8SrWt_3A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/899/1%2AhbOocOWkKTMZqfbg2Mw0WQ.png) 
+[![](img/462e8016b308b1a4027257b0e2f8cae5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8SrWt_3A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/899/1%2AhbOocOWkKTMZqfbg2Mw0WQ.png) 
 
 <figcaption>它应该反映你安装插件的步骤中填写的字段值</figcaption>
 
-[![](../Images/79303daaf21f08f4d910a1a311bbadb7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qqzA_sce--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/896/1%2ArM_ePR_RP5dI3ssh23HHmg.png) 
+[![](img/79303daaf21f08f4d910a1a311bbadb7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qqzA_sce--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/896/1%2ArM_ePR_RP5dI3ssh23HHmg.png) 
 
 <figcaption>指定 OWASP ZAP bin 在我们的 Jenkins 实例</figcaption>
 
 上的安装位置
 
-[![](../Images/a6ee8c006f9768a9222ae71d2b77595f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4oQXr4Rl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/887/1%2AkinmgLX05-2oLHsv4NZoDg.png) 
+[![](img/a6ee8c006f9768a9222ae71d2b77595f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4oQXr4Rl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/887/1%2AkinmgLX05-2oLHsv4NZoDg.png) 
 
 <figcaption>应该是您正在创建的 Jenkins 作业的目录路径</figcaption>
 
-[![](../Images/b354a31532cdae427c505d5f6e6dda8b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MKHIgciz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/901/1%2Agpgt_r0xG2p9lC1jc68Tsg.png) 
+[![](img/b354a31532cdae427c505d5f6e6dda8b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MKHIgciz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/901/1%2Agpgt_r0xG2p9lC1jc68Tsg.png) 
 
 <figcaption>还记得我们讲过的语境吗？您可以在这里指定应该包含和排除哪些 URL。这里 [http://10.0.40.3](http://10.0.40.3) 是我托管我要测试的网站的地方。*表示我希望 ZAP 在上下文中包含所有以 [http://10.0.40.3](http://10.0.40.3)</figcaption>
 
 开头的 URL
 
-[![](../Images/e70e9fb56a5e949da8524dc31bb4f154.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--aTo18zmd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/898/1%2AZfdzD883IYrAG19Ujo6pqQ.png) 
+[![](img/e70e9fb56a5e949da8524dc31bb4f154.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--aTo18zmd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/898/1%2AZfdzD883IYrAG19Ujo6pqQ.png) 
 
 <figcaption>告诉 ZAP 先抓取网址，然后扫描找到的网址</figcaption>
 
-[![](../Images/10b90318e72bb146574fc26cfa559850.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wf96Y8IX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2AWLPR-d8-OEQ8OMsxi9DHFQ.png) 
+[![](img/10b90318e72bb146574fc26cfa559850.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wf96Y8IX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2AWLPR-d8-OEQ8OMsxi9DHFQ.png) 
 
 <figcaption>告诉 ZAP 要生成哪些报告以及将它们放在哪里</figcaption>
 
@@ -120,17 +120,17 @@ ZAPROXY\_HOME=/usr/local/bin/ZAP\_2.x.x/
 
 为了帮助 ZAP 知道凭证，您必须做的是使用您计算机上的 GUI 客户机来生成 ZAP 会话，例如，在该会话中您分配一个有效的会话 cookie。然后，您可以将创建的会话导出并上传到新的 Jenkins 作业文件夹，然后勾选“加载会话”复选框，并在选择列表中选择您的会话。
 
-[![](../Images/67125670c849321b2e2f85b46811d2b7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GFHCUr5W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/897/1%2A08Jz7vF8gyH55fyrXMe57w.png) 
+[![](img/67125670c849321b2e2f85b46811d2b7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GFHCUr5W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/897/1%2A08Jz7vF8gyH55fyrXMe57w.png) 
 
 <figcaption>对于我们的基本示例，我们将勾选持续会话复选框</figcaption>
 
 *   添加发布 HTML 报告后期生成步骤
 
-[![](../Images/6008649edb38bf0ce9051a746277cca9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jto_4LLB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/928/1%2AeRnZdkHf5dAD_NvJCan7-Q.png)
+[![](img/6008649edb38bf0ce9051a746277cca9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jto_4LLB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/928/1%2AeRnZdkHf5dAD_NvJCan7-Q.png)
 
 就是这样！要么手动构建作业，要么等待 cron 调度来执行它，您应该会在 Jenkins 作业仪表板中看到 ZAP 测试的 HTML 报告。
 
-[![](../Images/8cfedd031612eb921de27379d133665b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dS7ux4x0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/179/1%2AUb5D2hgoSsIcR12MtH1KFg.png) 
+[![](img/8cfedd031612eb921de27379d133665b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dS7ux4x0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/179/1%2AUb5D2hgoSsIcR12MtH1KFg.png) 
 
 <figcaption>点击漏洞报告查看安全测试结果</figcaption>
 

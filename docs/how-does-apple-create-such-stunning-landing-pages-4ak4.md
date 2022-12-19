@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jackharner/how-does-apple-create-such-stunning-landing-pages-4ak4>
 
-[![](../Images/7b1b84c33ee1a95be684d1a089c7fec3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o1lvod4H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/do1t7uqfxi7ytbdjsxoi.gif)
+[![](img/7b1b84c33ee1a95be684d1a089c7fec3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o1lvod4H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/do1t7uqfxi7ytbdjsxoi.gif)
 
 有人知道他们如何在新的 [iPhone XS 登陆页面](https://www.apple.com/iphone-xs/)上实现基于滚动的动画吗？
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/engberrg/mediatr-behaviors-to-validate-api-resource-existence-5c04>
 
-[![](../Images/6d44b7c0663c44b2ab05472efc6a8a31.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--f3VX5eAt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/475/1%2AUGlyWoUBAwLEzJFPlz8fmQ.png) 
+[![](img/6d44b7c0663c44b2ab05472efc6a8a31.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--f3VX5eAt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/475/1%2AUGlyWoUBAwLEzJFPlz8fmQ.png) 
 
 <figcaption>联发科 logo 借用了 https://bit.ly/2N4Jz6S</figcaption>
 

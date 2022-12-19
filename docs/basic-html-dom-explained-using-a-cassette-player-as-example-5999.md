@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/straleb/basic-html-dom-explained-using-a-cassette-player-as-example-5999>
 
-[![alt text](../Images/f944f2eb91a1445387708e1967115f3e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vkfhrb5---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s8d4ibo8vb4htibsr0el.jpg)
+[![alt text](img/f944f2eb91a1445387708e1967115f3e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vkfhrb5---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s8d4ibo8vb4htibsr0el.jpg)
 
 对于包括我在内的中年人来说，看到上一个时代音乐的载体总是令人愉快的。当你从 A 页翻到 B 页去听磁带上剩下的音乐时，总会有那种怀旧的感觉。所以我决定将这个项目献给那些时代。
 
@@ -149,7 +149,7 @@ button{
 
 在进一步设计了颜色和背景之后，音乐系统看起来应该是这样的:
 
-[![alt text](../Images/d725c7fc41120cedb633cc64563f972c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WroSJ9hm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://preview.ibb.co/dsSaQJ/vvzxvz.png)
+[![alt text](img/d725c7fc41120cedb633cc64563f972c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WroSJ9hm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://preview.ibb.co/dsSaQJ/vvzxvz.png)
 
 最后是使用 HTML DOM 的时候了，有了 DOM 我们就可以使用动画和导入歌曲了。为了导入一首歌，我使用了 soundjay.com，它有很多免费的音乐效果和歌曲，请随意查看，在代码中我展示了用 JavaScript 导入声音的主要例子。
 回到主题，我使用了 const 声明，并选择了我放在 HTML 中的元素和 ID。

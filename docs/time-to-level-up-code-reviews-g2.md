@@ -24,7 +24,7 @@
 
 **一般开发流程**
 
-[![Dev process](../Images/9f8e55b70ffda10734a71e1f6b7f396e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nBxLRZEq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lhuria94.github.io/assets/img/2017-10-16-time-to-level-up-code-reviews/dev-process.png)
+[![Dev process](img/9f8e55b70ffda10734a71e1f6b7f396e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nBxLRZEq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lhuria94.github.io/assets/img/2017-10-16-time-to-level-up-code-reviews/dev-process.png)
 
 仅供参考；)
 
@@ -35,7 +35,7 @@
 
 **Github 代码评审流程**
 
-[![Github project](../Images/f8bd14d1cb1539f2c7132a6cf626a9e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uXk5qD3I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lhuria94.github.io/assets/img/2017-10-16-time-to-level-up-code-reviews/github-project.png)
+[![Github project](img/f8bd14d1cb1539f2c7132a6cf626a9e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uXk5qD3I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lhuria94.github.io/assets/img/2017-10-16-time-to-level-up-code-reviews/github-project.png)
 
 现在，在 GitHub 上只需点击几下鼠标，就可以轻松维护您的代码评审流程(这真的很棒！).我们可以在回购协议上创建新项目，并按照我们的意愿使用它。
 

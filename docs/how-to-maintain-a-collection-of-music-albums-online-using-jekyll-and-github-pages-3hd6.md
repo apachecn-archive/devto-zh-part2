@@ -59,7 +59,7 @@
 
 我也知道 Github Pages 是我最喜欢的免费发布网页的方式，它支持 Jekyll 开箱即用。这意味着，如果我将 Jekyll 文件放入我的存储库中，Github 将自动生成结果 HTML 页面。当然，我也可以在笔记本电脑上离线运行 Jekyll。这将涵盖第 6 至第 8 点。
 
-[![Github Pages with Jekyll support](../Images/75026b521b42f84ffce3e23ee9c27647.png)T2】](https://pages.github.com/)
+[![Github Pages with Jekyll support](img/75026b521b42f84ffce3e23ee9c27647.png)T2】](https://pages.github.com/)
 
 快速搜索呢？哦，等等！我为 Algolia 工作，我的一个同事做了一个插件，可以让任何 Jekyll 网站都可以被搜索到: [Jekyll-Algolia](https://community.algolia.com/jekyll-algolia/) ！
 
@@ -81,13 +81,13 @@ This is a **markdown** file.
 
 现在，我们请 Github Pages 将其渲染并发布为网站。为此，进入你的库的设置页面(我的:[https://github.com/adrienjoly/jekyll-tutorial/settings](https://github.com/adrienjoly/jekyll-tutorial/settings)，在“GitHub Pages”部分选择`master`分支作为“Source”:
 
-[![pick the branch for github pages](../Images/616a5b0167b4cdf54857447c95dc5952.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_YvyPNar--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/adrienjoly/album-shelf/raw/master/docs/github-repo-pages.png)
+[![pick the branch for github pages](img/616a5b0167b4cdf54857447c95dc5952.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_YvyPNar--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/adrienjoly/album-shelf/raw/master/docs/github-repo-pages.png)
 
 然后点击“保存”。
 
 现在，您应该能够通过在 web 浏览器中打开 URL `https://<your_username>.github.com/<your_repo_name>`来查看您的索引。如果一切顺利的话，多亏了 Jekyll，Github Pages 一定已经用 HTML 呈现出来了，看起来像这样:
 
-[![screenshot of index.md rendered in HTML by github pages and jekyll](../Images/acc45a9da6806d0b780a1d123470edf7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9IlyoXaU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/181lwcjbezci8pql3vha.png)
+[![screenshot of index.md rendered in HTML by github pages and jekyll](img/acc45a9da6806d0b780a1d123470edf7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9IlyoXaU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/181lwcjbezci8pql3vha.png)
 
 干得好！
 
@@ -123,7 +123,7 @@ This is a **markdown** file.
 
 来刷新一下`https://<your_username>.github.com/<your_repo_name>`。给 Github 几秒钟时间重新渲染网站后，结果页面应该是这样的:
 
-[![yaml list rendered in html thanks to jekyll](../Images/38a014fe0e863794e91df322ab29490f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sacd-KTw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q7m3720s0ja6vhpjaljs.png)
+[![yaml list rendered in html thanks to jekyll](img/38a014fe0e863794e91df322ab29490f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sacd-KTw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q7m3720s0ja6vhpjaljs.png)
 
 我们取得了一些进展！
 
@@ -158,7 +158,7 @@ This is a **markdown** file.
 
 假设您在列表中至少添加了第二本专辑，结果页面可能看起来像这样:
 
-[![list of albums with cover art](../Images/1608c1c628c1119e165ccfbfa88d3cd3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lIE_tQvR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sragw5z78zqfqpg1mr3u.png)
+[![list of albums with cover art](img/1608c1c628c1119e165ccfbfa88d3cd3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lIE_tQvR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sragw5z78zqfqpg1mr3u.png)
 
 当然，我们可以通过在`index.css`中添加一些样式来做得更好:
 
@@ -200,7 +200,7 @@ article img {
 
 刷新页面后，您将有望看到一些 UI 改进:
 
-[![album list with cover art and css styling](../Images/c7a765f7c0f5ae76d740e7ae80580e7c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NB6SGhqq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oc4k59snx3shnyeslcjc.png)
+[![album list with cover art and css styling](img/c7a765f7c0f5ae76d740e7ae80580e7c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NB6SGhqq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oc4k59snx3shnyeslcjc.png)
 
 看起来不错！
 

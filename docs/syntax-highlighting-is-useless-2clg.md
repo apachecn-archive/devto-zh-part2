@@ -10,7 +10,7 @@
 
 以下是我在 Neovim 上编辑一篇文章时的样子:
 
-[![Colored markdown file in Neovim](../Images/6806469e2b6f56000cf6c49bb4e4f926.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ewAzYQNa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/markdown-colored.png)
+[![Colored markdown file in Neovim](img/6806469e2b6f56000cf6c49bb4e4f926.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ewAzYQNa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/markdown-colored.png)
 
 快速看一下。你看出什么问题了吗？
 
@@ -26,7 +26,7 @@
 
 所以有一天我决定试着关闭语法高亮:
 
-[![Un-colored markdown file](../Images/e832868e1070b89c565718d917f503a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h0U0JnA---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/markdown-plain.png)
+[![Un-colored markdown file](img/e832868e1070b89c565718d917f503a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h0U0JnA---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/markdown-plain.png)
 
 *   这一次，拼写检查器检查了*的所有内容*，并且发现了`pyton`中的错别字。
 *   前面事的“渲染 bug”没了。

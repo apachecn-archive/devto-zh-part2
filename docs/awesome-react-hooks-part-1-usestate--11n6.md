@@ -131,7 +131,7 @@ function Example() {
 
 就是这样！请随意评论，第二部分再见，带着**副作用钩子**。
 
-[![tclain image](../Images/e1627620f56a36e5c1d846af5f0be8ff.png)](/tclain) [## 可怕的反应-钩子-第 2 部分-使用效果
+[![tclain image](img/e1627620f56a36e5c1d846af5f0be8ff.png)](/tclain) [## 可怕的反应-钩子-第 2 部分-使用效果
 
 ### 提摩太索赔
 

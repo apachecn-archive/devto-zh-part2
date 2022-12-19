@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/eliminate-content-repaints-with-the-new-layers-panel-in-chrome-21lc>
 
-[![](../Images/224aff350f8f56dad44f01e0b014fc86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xnm00gdi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AQAfT2Ipcqf1qdZpzD0ZjNg.jpeg)
+[![](img/224aff350f8f56dad44f01e0b014fc86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xnm00gdi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AQAfT2Ipcqf1qdZpzD0ZjNg.jpeg)
 
 所以，在花了几个小时试图找出你制作精美的网站浏览速度如此之慢的原因后，你已经黔驴技穷了。你使用了最新的技术堆栈，加载时间比任何同类页面都要短，第一个有意义的绘图可以在眨眼之间看到。
 
@@ -58,21 +58,21 @@
 
 这可能是一个巨大的问题，因为通常绘画可能是渲染管道中最昂贵的任务。幸运的是，有一个工具可以让重画定位变得更容易 Chrome Dev Tools 中的图层面板。要显示面板，你需要在 Chrome 开发工具中打开一个定制菜单，在“更多工具”中选择“层”选项。
 
-[![](../Images/173dd5d8df5ab12196cdf2d4769acb08.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F3w-QkuK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/556/0%2Aerot8teqv2YSkoqV.)
+[![](img/173dd5d8df5ab12196cdf2d4769acb08.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F3w-QkuK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/556/0%2Aerot8teqv2YSkoqV.)
 
 在该选项卡中，您将能够看到网站中当前存在的所有图层，它们以元素周围的边框表示，或者可以在 3D 模式下查看，这也有助于了解页面的堆叠上下文。如果你与一个元素交互，层视图将会更新，向你显示你的操作是如何影响网站的，以及界面的哪些部分因为这个改变而需要重新绘制。
 
-[![](../Images/f1a298a97bf1b20fd707eeeb167044eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R2b2Xm8I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A28qqFDh6Mzlbd7lb.)
+[![](img/f1a298a97bf1b20fd707eeeb167044eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R2b2Xm8I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A28qqFDh6Mzlbd7lb.)
 
 图层面板中另一个值得注意的有趣特性是，它提供了每个现有图层的详细信息。理解为什么有些元素会被提升为新层(即使它们不是本意)或者一个元素的重绘会如何影响后面的节点可能会有所帮助。
 
-[![](../Images/cf9eef2ca5143e488957f2469e6fec3e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L1L72Dz6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2Ac_PSrIvlA7mhJlLD.)
+[![](img/cf9eef2ca5143e488957f2469e6fec3e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L1L72Dz6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2Ac_PSrIvlA7mhJlLD.)
 
 ### 图层面板真实生活示例
 
 不幸的是，层标签很重，我经常看到它在检查交互时崩溃。然而，即使它存在性能问题，它也帮助我发现了一些不可能的瓶颈，否则我永远也不会发现。一个有趣的例子是这个动画:
 
-[![](../Images/33a1bc4cb3717ab4844849dd21830306.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--87YqG9Mj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/236/0%2APGAwtaIyD_mZP40b.)
+[![](img/33a1bc4cb3717ab4844849dd21830306.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--87YqG9Mj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/236/0%2APGAwtaIyD_mZP40b.)
 
 动画可以随时被触发，所以带有星星的整个评级小部件(一个`fieldset`元素)已经被提升到带有`will-change: contents`属性的新层。这应该足以避免在该区域之外重新绘制。
 
@@ -92,7 +92,7 @@
 
 ### Plug: LogRocket，一款用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。免费试用。
 

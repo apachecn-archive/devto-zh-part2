@@ -141,19 +141,19 @@ Enter fullscreen mode Exit fullscreen mode
 
 【github.com/pauloxnet/django_queries】T2
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png)[【pauloxnet】](https://github.com/pauloxnet)/[姜戈里](https://github.com/pauloxnet/djangoqueries)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png)[【pauloxnet】](https://github.com/pauloxnet)/[姜戈里](https://github.com/pauloxnet/djangoqueries)
 
 ### 我在文章“用 PostgreSQL 在 Django 中进行全文搜索”中使用的 docs.djangoproject.com“查询”代码。
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-# <g-emoji class="g-emoji" alias="unicorn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f984.png">🦄</g-emoji>姜戈想要
+# <g-emoji class="g-emoji" alias="unicorn" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f984.png">🦄</g-emoji>姜戈想要
 
-[![Twitter: pauloxnet](../Images/0301fba733289c8b07d40dfa7b222c1c.png) ](https://twitter.com/pauloxnet) [ ![Code style: black](../Images/1abbac1bb267dc041dcfa091baa4840f.png)](https://github.com/python/black)
+[![Twitter: pauloxnet](img/0301fba733289c8b07d40dfa7b222c1c.png) ](https://twitter.com/pauloxnet) [ ![Code style: black](img/1abbac1bb267dc041dcfa091baa4840f.png)](https://github.com/python/black)
 
 我的文章[“用 PostgreSQL 在 Django 中进行全文搜索”](https://www.paulox.net/2017/12/22/full-text-search-in-django-with-postgresql)中使用的源代码基于 Django 文档主题[“进行查询”](https://docs.djangoproject.com/en/stable/topics/db/queries/)中定义的博客应用程序。
 
-## <g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📖</g-emoji>文档
+## <g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f4d6.png">📖</g-emoji>文档
 
 ### 数据库
 
@@ -176,7 +176,7 @@ $ source .venv/bin/activate
 
 Enter fullscreen mode Exit fullscreen mode
 
-### <g-emoji class="g-emoji" alias="jigsaw" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e9.png">🧩</g-emoji> 要求
+### <g-emoji class="g-emoji" alias="jigsaw" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f9e9.png">🧩</g-emoji> 要求
 
 在`djangoqueries`虚拟环境中安装所需的 python 包:
 
@@ -196,7 +196,7 @@ $ python3 -m manage migrate
 
 Enter fullscreen mode Exit fullscreen mode
 
-### <g-emoji class="g-emoji" alias="microscope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52c.png">🔬</g-emoji>测试
+### <g-emoji class="g-emoji" alias="microscope" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f52c.png">🔬</g-emoji>测试
 
 运行定义的测试:
 
@@ -206,7 +206,7 @@ $ python3 -m manage test
 
 Enter fullscreen mode Exit fullscreen mode
 
-### <g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji>数据
+### <g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f4ca.png">📊</g-emoji>数据
 
 用博客应用程序的演示数据填充`djangoqueries`数据库:
 
@@ -220,12 +220,12 @@ Enter fullscreen mode Exit fullscreen mode
 
 **Django 查询**根据 [BSD 三条款许可](https://github.com/pauloxnet/djangoqueries/blob/master/LICENSE.md)获得许可。
 
-## <g-emoji class="g-emoji" alias="busts_in_silhouette" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f465.png">👥</g-emoji>作者
+## <g-emoji class="g-emoji" alias="busts_in_silhouette" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f465.png">👥</g-emoji>作者
 
-### <g-emoji class="g-emoji" alias="bust_in_silhouette" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f464.png">保罗·梅尔基耶</g-emoji>
+### <g-emoji class="g-emoji" alias="bust_in_silhouette" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f464.png">保罗·梅尔基耶</g-emoji>
 
-*   <g-emoji class="g-emoji" alias="earth_africa" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png">🌍</g-emoji>博客:【www.paulox.net】T2
-*   <g-emoji class="g-emoji" alias="octopus" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f419.png">🐙</g-emoji> …
+*   <g-emoji class="g-emoji" alias="earth_africa" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f30d.png">🌍</g-emoji>博客:【www.paulox.net】T2
+*   <g-emoji class="g-emoji" alias="octopus" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f419.png">🐙</g-emoji> …
 
 </article>
 

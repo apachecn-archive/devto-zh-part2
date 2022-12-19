@@ -6,7 +6,7 @@
 
 我正在开发我的 WordPress 主题目录的新功能。檀香。我需要来自合作者的关于定制 API 的帮助，他们可以从以下 URL 上的 GitHub repo 做出贡献:
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [ ihtishamzahoor ](https://github.com/ihtishamzahoor) / [檀香](https://github.com/ihtishamzahoor/sandalwood)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [ ihtishamzahoor ](https://github.com/ihtishamzahoor) / [檀香](https://github.com/ihtishamzahoor/sandalwood)
 
 ### 为 WordPress 主题目录构建。檀香是一个现代的博客主题，为个人和组织提供了一个简单的方法来创建一个引人注目的在线存在。
 

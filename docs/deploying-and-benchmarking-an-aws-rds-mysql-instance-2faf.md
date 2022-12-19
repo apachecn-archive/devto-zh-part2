@@ -25,7 +25,7 @@
 
 我们基础设施的核心组件将是一个由 RDS 管理的 MySQL 数据库和一个 EC2 实例，我们可以从中运行基准测试。为了以我们可以使用的方式设置它，我们将使用以下体系结构:
 
-[![Architecture Overview](../Images/cb122f78c60606320060308d4bb6257a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3OTBjLVk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7fr9it72kyor0in4owe0.png)
+[![Architecture Overview](img/cb122f78c60606320060308d4bb6257a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3OTBjLVk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7fr9it72kyor0in4owe0.png)
 
 让我们详细研究一下各个部分。我们所有的实例都放在一个 [VPC](https://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Introduction.html) 中。VPC 是一个虚拟网络，它与云中的其他租户相隔离，拥有自己的私有 IP 地址范围。在 VPC 内将有[子网](https://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Subnets.html)。我们正在创建三个专用子网(A - C)和一个公共子网(A)。公共子网是通过[互联网网关](https://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Internet_Gateway.html)到互联网的子网。
 
@@ -47,7 +47,7 @@ RDS 的设置需要定义一个[子网组](https://docs.aws.amazon.com/AmazonRDS
 
 首先，我们将创建基本的网络资源，将技术部分排除在外。我们需要一个有一个公有子网和三个私有子网的 VPC。下图突出显示了我们现在正在创建的零件。
 
-[![basic networking architecture](../Images/41610acda2ed10eaba1301007a7a801c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FAy-RlwX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c95gy9xa6j8acg1bbx21.png)
+[![basic networking architecture](img/41610acda2ed10eaba1301007a7a801c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FAy-RlwX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c95gy9xa6j8acg1bbx21.png)
 
 ### VPC
 
@@ -143,7 +143,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 为了创建一个新的 MySQL 数据库，我们需要首先创建一个子网组和一个我们可以将它分配到的安全组。下图突出显示了我们现在正在创建的组件。
 
-[![rds architecture](../Images/04075ddc026c32328f118f63d22be9a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PdXJzcUv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vmp86ozhr6o5blaqjsb4.png)
+[![rds architecture](img/04075ddc026c32328f118f63d22be9a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PdXJzcUv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vmp86ozhr6o5blaqjsb4.png)
 
 当创建一个新的 MySQL RDS 实例时，您必须指定一个至少跨越两个可用区域的子网组。首先，我们创建子网组，并为其分配三个专用子网。
 
@@ -211,7 +211,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 为了进行 sysbench MySQL 基准测试，我们需要安装`sysbench`和`mysql-client-core-5.7`包。为此，我们首先使用[打包器](https://www.packer.io/)创建一个新的 AMI，并将其部署在 EC2 实例上。
 
-[![sysbench ec2](../Images/c02447beeb4768967e21aee22a4af18a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GITsQ4cQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iq6m3wb6rob1rqeck2f1.png)
+[![sysbench ec2](img/c02447beeb4768967e21aee22a4af18a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GITsQ4cQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iq6m3wb6rob1rqeck2f1.png)
 
 ### 阿美创作
 
@@ -220,7 +220,7 @@ Enter fullscreen mode Exit fullscreen mode
 在这一点上，我不想详细介绍 Packer，但是大多数参数或多或少都是不言自明的。我们可以将下面的 JSON 传递给`packer build`来接收一个安装了 sysbench 和 MySQL 5.7 客户端的 Ubuntu 映像。
 
 ```
-{  "builders":  [{  "type":  "amazon-ebs",  "region":  "eu-central-1",  "source_ami_filter":  {  "filters":  {  "virtualization-type":  "hvm",  "name":  "ubuntu/images/*ubuntu-xenial-16.04-amd64-server-*",  "root-device-type":  "ebs"  },  "owners":  ["099720109477"],  "most_recent":  true  },  "instance_type":  "t2.micro",  "ssh_username":  "ubuntu",  "ami_name":  "rds_test_sysbench {{timestamp}}"  }],  "provisioners":  [{  "type":  "shell",  "inline":  [  "sudo apt-get update",  "sudo apt-get install -y sysbench",  "sudo apt-get install -y mysql-client-core-5.7"  ]  }]  } 
+{  "builders":  [{  "type":  "amazon-ebs",  "region":  "eu-central-1",  "source_ami_filter":  {  "filters":  {  "virtualization-type":  "hvm",  "name":  "ubunimg/*ubuntu-xenial-16.04-amd64-server-*",  "root-device-type":  "ebs"  },  "owners":  ["099720109477"],  "most_recent":  true  },  "instance_type":  "t2.micro",  "ssh_username":  "ubuntu",  "ami_name":  "rds_test_sysbench {{timestamp}}"  }],  "provisioners":  [{  "type":  "shell",  "inline":  [  "sudo apt-get update",  "sudo apt-get install -y sysbench",  "sudo apt-get install -y mysql-client-core-5.7"  ]  }]  } 
 ```
 
 Enter fullscreen mode Exit fullscreen mode
@@ -261,7 +261,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 最后但同样重要的是，我们需要连接所有不同的组件，并授予自己访问系统的方法。为此，我们需要在公共子网中设置我们的堡垒主机，配置互联网网关，调整互联网网关、公共子网和私有子网之间的路由逻辑，以及向我们的安全组添加规则。
 
-[![internet gateway and routing](../Images/4d479449dc085f9b45f9d147101bf645.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wPGsHfiT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5m971kvh0q8vnj03nmdh.png)
+[![internet gateway and routing](img/4d479449dc085f9b45f9d147101bf645.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wPGsHfiT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5m971kvh0q8vnj03nmdh.png)
 
 ### EC2 NAT 实例
 

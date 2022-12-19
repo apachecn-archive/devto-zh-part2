@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/thisisbinh/top-5-obstacles-i-faced-in-testing-696-web-components-1e13>
 
-[![](../Images/ae3b92375eb6bfd2f8a9c4454b51eaa1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S03ko__K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fu0hobuwz6ahci3vcjo4.jpg)
+[![](img/ae3b92375eb6bfd2f8a9c4454b51eaa1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S03ko__K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fu0hobuwz6ahci3vcjo4.jpg)
 
 ###### *图片来源:thoughtsofsocent*
 
@@ -16,7 +16,7 @@
 
 否则，您需要在本地测试它，这包括下载源代码、安装依赖项和在网站上提供演示(我说这是三倍的工作量，如果不是更多的话)。
 
-[![](../Images/8e626efce4e5739149e49e1b2a475f7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--02CQh1WS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zi4sjmtgm8pboxu94gwi.jpg)
+[![](img/8e626efce4e5739149e49e1b2a475f7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--02CQh1WS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zi4sjmtgm8pboxu94gwi.jpg)
 
 ### 依赖关系的导入链接不一致
 
@@ -32,9 +32,9 @@
 
 答案是他们都是正确的。在本地开发时，bower_components 是包含所有依赖项的文件夹。因此，从那里导入代码是合乎逻辑的，当你想在 CodePen 上做演示时，问题就来了，没有 bower_components 文件夹，因为它只安装在本地。
 
-# [![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) 如何通过凉亭 #11](https://github.com/webcomponents/polymer-boilerplate/issues/11) 
+# [![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) 如何通过凉亭 #11](https://github.com/webcomponents/polymer-boilerplate/issues/11) 
 
-[![zenorocha avatar](../Images/75d4b92e3335d1330cdf0af715eea534.png)](https://github.com/zenorocha) **[zenorocha](https://github.com/zenorocha)** posted on [<time datetime="2014-03-20T23:30:48Z">Mar 20, 2014</time>](https://github.com/webcomponents/polymer-boilerplate/issues/11)
+[![zenorocha avatar](img/75d4b92e3335d1330cdf0af715eea534.png)](https://github.com/zenorocha) **[zenorocha](https://github.com/zenorocha)** posted on [<time datetime="2014-03-20T23:30:48Z">Mar 20, 2014</time>](https://github.com/webcomponents/polymer-boilerplate/issues/11)
 
 当我们停止使用 CDN 并开始使用 Bower 时，我们提交了这个默认的`bower_components`文件夹(现在称为`lib`)。
 
@@ -50,15 +50,15 @@ Polymer 提出了相对路径服务风格，使在线和本地测试保持一致
 
 尽管现代浏览器在实现 Web 组件标准方面取得了进展，但并不是所有的技术都得到本地支持。我测试的时候，到目前为止只有 Chrome & Opera 原生支持 Web 组件。其余的提供部分支持，通常需要聚合填充 webcomponentsjs 来使 web 组件正常工作。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)[web components](https://github.com/webcomponents)/[web components js](https://github.com/webcomponents/webcomponentsjs)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)[web components](https://github.com/webcomponents)/[web components js](https://github.com/webcomponents/webcomponentsjs)
 
 ### 一套支持 HTML Web 组件规范的 polyfills
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-## <g-emoji class="g-emoji" alias="rotating_light" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a8.png">🚨</g-emoji>移至 [`webcomponents/polyfills/packages/webcomponentsjs`](https://github.com/webcomponents/polyfills/tree/master/packages/webcomponentsjs) <g-emoji class="g-emoji" alias="rotating_light" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a8.png">🚨</g-emoji>
+## <g-emoji class="g-emoji" alias="rotating_light" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f6a8.png">🚨</g-emoji>移至 [`webcomponents/polyfills/packages/webcomponentsjs`](https://github.com/webcomponents/polyfills/tree/master/packages/webcomponentsjs) <g-emoji class="g-emoji" alias="rotating_light" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f6a8.png">🚨</g-emoji>
 
-[`webcomponents/webcomponentsjs`](https://github.com/webcomponents/webcomponentsjs) 回购已经迁移到 [`webcomponents/polyfills`](https://github.com/webcomponents/polyfills) <g-emoji class="g-emoji" alias="monorail" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f69d.png">的 [`packages/webcomponentsjs`](https://github.com/webcomponents/polyfills/tree/master/packages/webcomponentsjs) 文件夹中🚝</g-emoji> *monorepo* 。
+[`webcomponents/webcomponentsjs`](https://github.com/webcomponents/webcomponentsjs) 回购已经迁移到 [`webcomponents/polyfills`](https://github.com/webcomponents/polyfills) <g-emoji class="g-emoji" alias="monorail" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f69d.png">的 [`packages/webcomponentsjs`](https://github.com/webcomponents/polyfills/tree/master/packages/webcomponentsjs) 文件夹中🚝</g-emoji> *monorepo* 。
 
 我们正在*积极*将未决问题和 PRs 迁移到新的回购协议。新发行和 PRs 应在 [`webcomponents/polyfills`](https://github.com/webcomponents/polyfills) 备案。
 
@@ -72,13 +72,13 @@ Polymer 提出了相对路径服务风格，使在线和本地测试保持一致
 
 我看到了许多项目，在没有演示和一个如何使用它的单词的情况下发布。考虑到元素是由作者自己的使用方式创建的，这是非常粗心的。很多时候，我必须阅读源代码，并弄清楚如何使用它。
 
-[![](../Images/bfe888ec6589bb58d6a5ce83e2fa7cd3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gQAYHeqz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yxv5sy0sfhsz7mzqp52p.jpg)
+[![](img/bfe888ec6589bb58d6a5ce83e2fa7cd3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gQAYHeqz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yxv5sy0sfhsz7mzqp52p.jpg)
 
 ### 命名约定很重要
 
 即使不是正式的，将你的主要组件命名为与你的项目相同的名字也是一个好的习惯。例如，我遇到过这样的情况，其中主要元素被命名为 skeleton-layout.html，而项目被命名为良好组件。那些项目让我非常困惑。
 
-[![](../Images/08d0e9854e80498e7658a472bb54bc5c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4zUjEWEp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/twy1wckm6qxze276c9aa.jpg)
+[![](img/08d0e9854e80498e7658a472bb54bc5c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4zUjEWEp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/twy1wckm6qxze276c9aa.jpg)
 
 ### 最终字
 

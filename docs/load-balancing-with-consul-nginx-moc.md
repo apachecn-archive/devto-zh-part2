@@ -12,7 +12,7 @@
 
 ## 概述
 
-[![](../Images/a73cee29a6867c5f14fb0081adae93c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QZv_9pLn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hectormartinez.dev/images/overview-diagram.png)
+[![](img/a73cee29a6867c5f14fb0081adae93c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QZv_9pLn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hectormartinez.dimg/overview-diagram.png)
 
 在系统中，至少有 5 个容器在运行:
 
@@ -508,7 +508,7 @@ $ firefox http://localhost:8500
 
 您可能会看到 Consul UI 出现错误。请耐心等待，刷新一下，您应该会看到类似这样的内容:
 
-[![](../Images/dcfb77c288cb84961d505052b7637bab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KBqGxqOF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hectormartinez.dev/images/consul-ui.png)
+[![](img/dcfb77c288cb84961d505052b7637bab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KBqGxqOF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hectormartinez.dimg/consul-ui.png)
 
 如果您没有看到这一点，请使用`docker-compose logs [load-balancer|api]`检查日志，这将输出超级用户日志。要查看每个服务日志，请运行`docker-compose exec [load-balancer|api] supervisorctl`并使用 Supervisord 交互式控制台进行操作。
 
@@ -563,7 +563,7 @@ upstream backend {
 
 太好了！配置文件现已更新:)
 
-[![](../Images/88c865db4aa2512e780df7793a8bfd7f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OfEhUvkf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hectormartinez.dev/images/consul-ui-scaling.png)
+[![](img/88c865db4aa2512e780df7793a8bfd7f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OfEhUvkf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hectormartinez.dimg/consul-ui-scaling.png)
 
 Consul UI 中 API 的数量也增加了。如果我们向本地主机发起大量请愿:5000…
 

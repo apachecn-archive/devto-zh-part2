@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/binygal/how-i-managed-to-deploy-my-side-project-for-free-42a6>
 
-[![](../Images/cdc708c1deb5b2aa3a31e9fef1c0b0e5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nxVaC2FN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aq0g_AzJdxZgIOGyLuOlH8A.jpeg) 
+[![](img/cdc708c1deb5b2aa3a31e9fef1c0b0e5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nxVaC2FN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aq0g_AzJdxZgIOGyLuOlH8A.jpeg) 
 
 <figcaption>身边项目都牛逼</figcaption>
 
@@ -20,7 +20,7 @@
 
 ### 服务器部署
 
-[![](../Images/40088226921f3064fdcf23bb9d3921f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---vIhkl5---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A11DoUz1iZt4Fs6R_5SB_NA.jpeg)
+[![](img/40088226921f3064fdcf23bb9d3921f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---vIhkl5---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A11DoUz1iZt4Fs6R_5SB_NA.jpeg)
 
 虽然静态资源易于部署(并且托管成本低廉)，但服务器却完全不同。当没有人使用你的应用时，你的静态资源什么也不做，但是你的服务器保持运行。这就是为什么免费服务器解决方案很少且有限的原因。你真幸运——据我所知，有几个免费的服务器解决方案。
 

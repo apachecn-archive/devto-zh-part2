@@ -12,7 +12,7 @@
 
 今天我尝试了 Forestry，这是一个托管服务，它利用 GitHub API 来远程管理静态网站。
 
-[![Forestry logo](../Images/97feab3977f907da3584f3cfd787400b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2gLR6UTX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ffuqgypztxq9my0ch19b.jpg)
+[![Forestry logo](img/97feab3977f907da3584f3cfd787400b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2gLR6UTX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ffuqgypztxq9my0ch19b.jpg)
 
 ## 安装
 
@@ -28,7 +28,7 @@ CMS 的安装非常简单:我只需要创建一个关于林业的帐户，将它
 
 林业通过使用 GitHub、Gitlab 或 Bitbucket 的 API 来工作。这是一个相当简单的 CMS，界面简洁。在左边，一个面板列出了所有的内容类型，允许访问网站的不同类别，在右边，一个类似 Wordpress 的面板显示在前面的主题字段和主文本编辑器。
 
-[![The admin panel](../Images/e2a36f21885b8a4fc42ad4a06d6f33ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hHo-dm3Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fu9b2ryfxrjpl93sh7qf.JPG)
+[![The admin panel](img/e2a36f21885b8a4fc42ad4a06d6f33ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hHo-dm3Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fu9b2ryfxrjpl93sh7qf.JPG)
 
 就我而言，Forestry 在找到我所有的博客文章和项目方面做得非常出色，但在页面内容方面却有点受限。因此，不知什么原因，系统认为我的主页和“关于”页面是不同的，并把它们放在两个不同的部分。
 
@@ -36,11 +36,11 @@ CMS 的安装非常简单:我只需要创建一个关于林业的帐户，将它
 
 然而，为了从 Hugo 的多语言支持中受益，可以重命名文件(由 CMS 自动生成)。因此，只需在现有的 slug 中添加扩展`.fr`,我就可以让 Hugo 自动链接两篇博客文章，并向访问者推荐翻译后的版本。
 
-[![Renaming a file](../Images/ddf27e08a726d6154223d3185135c30f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JR5D9AWU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/st7la0bhoqduo0cfq5ox.JPG)
+[![Renaming a file](img/ddf27e08a726d6154223d3185135c30f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JR5D9AWU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/st7la0bhoqduo0cfq5ox.JPG)
 
 在我的情况下，一个“项目”由于前面的事情而被专门配置。通过修改配置文件中的几行代码，我可以摆脱文本编辑器，只需要一个项目的配置字段。对于 Wordpress 用户来说，这相当于通过高级定制字段插件构建了一个页面，但是通过 YAML 文件生成了一个页面。
 
-[![Editing a project](../Images/d149d945116f520dfd97087fedcaae77.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OuRzO5HI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i3zm1kdop45piuoj6823.JPG)
+[![Editing a project](img/d149d945116f520dfd97087fedcaae77.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OuRzO5HI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i3zm1kdop45piuoj6823.JPG)
 
 ## CMS 的利弊
 

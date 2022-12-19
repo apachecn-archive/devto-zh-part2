@@ -4,7 +4,7 @@
 
 ## 前方重大变化
 
-[![](../Images/2d39f4214603429e77da1ecfe8ed9398.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--F8aSKxAD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Abt7Q3HsTcw86TB_q7mlz2A.jpeg) 
+[![](img/2d39f4214603429e77da1ecfe8ed9398.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--F8aSKxAD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Abt7Q3HsTcw86TB_q7mlz2A.jpeg) 
 
 <figcaption>照片由[克里斯托罗拉](https://unsplash.com/photos/zepnJQycr4U?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)拍于 [Unsplash](https://unsplash.com/search/photos/sky?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 
@@ -20,31 +20,31 @@
 
 一些元素保留了下来，比如使用卡片来代表项目，以及使用面板来分隔相关信息:
 
-[![](../Images/028f5b07d0f45c2a0163078cd3493aab.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---Lxl7sst--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A4u-xEARFvrf1VO-1TxZZeA.png) 
+[![](img/028f5b07d0f45c2a0163078cd3493aab.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---Lxl7sst--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A4u-xEARFvrf1VO-1TxZZeA.png) 
 
 <figcaption>新项目视图</figcaption>
 
 使用颜色来表示身份也保留了下来，但使用了新的 pantone:
 
-[![](../Images/3644ff9790c05dcacca58699ebc34bcf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ToGt4NQq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AxBvkdVgChmfrMXbXPI5Ncg.png) 
+[![](img/3644ff9790c05dcacca58699ebc34bcf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ToGt4NQq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AxBvkdVgChmfrMXbXPI5Ncg.png) 
 
 <figcaption>新建管线视图(单项工程)</figcaption>
 
 为了更好地说明管道的不同阶段，并快速概述管道中每个构建的状态，builds 视图进行了彻底的重新设计:
 
-[![](../Images/6e5e13ebeaa9717839b015c3bad56e60.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---lvqdDLu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A0kgvZcdJPxPNCd_VkYVPMw.png) 
+[![](img/6e5e13ebeaa9717839b015c3bad56e60.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---lvqdDLu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A0kgvZcdJPxPNCd_VkYVPMw.png) 
 
 <figcaption>新建建视图(单管道)</figcaption>
 
 单一构建视图也经历了重大变化。现在，每个构建都有自己的页面，左边是关于构建的专用的、总是可见的信息，右边是整个构建的输出(如果构建正在运行，它会自动更新)。
 
-[![](../Images/e49167de30f0836f1da1803e1b86a978.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--879lbVVZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2ABSgWvitIiLzFkmlBgnoTiw.png) 
+[![](img/e49167de30f0836f1da1803e1b86a978.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--879lbVVZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2ABSgWvitIiLzFkmlBgnoTiw.png) 
 
 <figcaption>新建视图</figcaption>
 
 项目设置视图没有太大的变化，但它看起来仍然更整洁，并且现在将相关信息更紧密地分组:
 
-[![](../Images/a926ff7337664f070f7c022023479aeb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7W1mZMEv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A8Q5jE1HpzPISdPgxMXiM_w.png) 
+[![](img/a926ff7337664f070f7c022023479aeb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7W1mZMEv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A8Q5jE1HpzPISdPgxMXiM_w.png) 
 
 <figcaption>项目设置视图</figcaption>
 

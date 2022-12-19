@@ -30,7 +30,7 @@
 
 “在比较有机增长、阅读率和点击率时，我们的聊天机器人已经比电子邮件表现得更好了。我们知道粉丝们希望与他们喜爱的艺术家近距离接触，这一解决方案帮助我们以一种真实的方式将他们联系起来。电子邮件只是没有提供同样的展示个性的机会。”—杰里米·考特纳，华纳音乐集团的网络&移动副总裁
 
-[![chatbots vs email](../Images/066dbbb432490ea32933c50469d00201.png)T2】](https://apiumhub.com/wp-content/uploads/2018/06/Screen-Shot-2018-05-29-at-10.55.17.png)
+[![chatbots vs email](img/066dbbb432490ea32933c50469d00201.png)T2】](https://apiumhub.com/wp-content/uploads/2018/06/Screen-Shot-2018-05-29-at-10.55.17.png)
 
 印象深刻吧。好吧，人工智能将能够理解和记住你说的一切，或者问的一切，无论多么简单或复杂。与电脑对话将像与人对话一样自然，当然，人们会开始认为聊天机器人是一个很好的信息来源，也是以最有效的方式解决问题的优秀解决方案。
 
@@ -40,7 +40,7 @@
 
 企业计划如何使用聊天机器人？让我们看一下图表:
 
-[![chatbots use cases](../Images/39c02df3e9fe68a4d4e6dbf8f406e47a.png)T2】](https://apiumhub.com/wp-content/uploads/2018/06/Screen-Shot-2018-05-28-at-18.55.39.png)
+[![chatbots use cases](img/39c02df3e9fe68a4d4e6dbf8f406e47a.png)T2】](https://apiumhub.com/wp-content/uploads/2018/06/Screen-Shot-2018-05-28-at-18.55.39.png)
 
 _Source: [Sproutsocial](https://sproutsocial.com/insights/topics/chatbots/) _
 
@@ -124,7 +124,7 @@ _Source: [Sproutsocial](https://sproutsocial.com/insights/topics/chatbots/) _
 
 这是千禧一代和婴儿潮一代认为重要的其他好处的图表:
 
-[![chatbots benefits](../Images/f3bbb77bb68d94f2841e1746077af3ab.png)T2】](https://apiumhub.com/wp-content/uploads/2018/06/Screen-Shot-2018-05-29-at-11.45.20.png)
+[![chatbots benefits](img/f3bbb77bb68d94f2841e1746077af3ab.png)T2】](https://apiumhub.com/wp-content/uploads/2018/06/Screen-Shot-2018-05-29-at-11.45.20.png)
 
 *来源:[说服与转换](http://www.convinceandconvert.com/digital-marketing/6-critical-chatbot-statistics-for-2018/)T3】*
 

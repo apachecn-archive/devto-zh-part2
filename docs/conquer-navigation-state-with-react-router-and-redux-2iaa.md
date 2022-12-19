@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/conquer-navigation-state-with-react-router-and-redux-2iaa>
 
-[![](../Images/07ae39a3d9cca82f5ea6beb7732c7895.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FKfqOIwE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ApB345V4AkkJlNIiT_wO76g.png)
+[![](img/07ae39a3d9cca82f5ea6beb7732c7895.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FKfqOIwE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ApB345V4AkkJlNIiT_wO76g.png)
 
 传统应用程序和单页面应用程序的一个基本组成部分是导航——能够从一个页面移动到另一个页面。
 
@@ -16,7 +16,7 @@
 
 > 👉注意:在这篇文章中，我假设你对 Redux 的工作原理有一个很好的理解。如果没有，你可能想看看我关于[理解 Redux](https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6) 的文章📕。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### 我们将要使用的应用程序
 
@@ -24,7 +24,7 @@
 
 下面这张 GIF 是 *EmojiLand 的。*
 
-<figure>[![](../Images/ffc7abef379b75778f714c2694d47535.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TlNg1oYG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AUorZ-5kajXJZ5yUHnzBepQ.gif) 
+<figure>[![](img/ffc7abef379b75778f714c2694d47535.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TlNg1oYG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AUorZ-5kajXJZ5yUHnzBepQ.gif) 
 
 <figcaption>你好，EmojiLand！</figcaption>
 
@@ -82,7 +82,7 @@ Enter fullscreen mode Exit fullscreen mode
 ```
 import React from "react";
 import EmojiLand from "../components/EmojiLand";
-import keepQuietImg from "../Images/keepquiet.png";
+import keepQuietImg from "img/keepquiet.png";
 import emojiLand from "./emojiLand";
 const KeepQuiet = ({ appState, handleEmojiAction }) => (
     <EmojiLand
@@ -134,21 +134,21 @@ Enter fullscreen mode Exit fullscreen mode
 
 还要记住，在每条路线上，都会呈现一个单独的 EmojiLand 组件。
 
-[![](../Images/ebf19eed6b4408088f020013362833a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6PXFG51v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AN5Ql1tcxFpsbgewbeqGc0Q.png)
+[![](img/ebf19eed6b4408088f020013362833a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6PXFG51v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AN5Ql1tcxFpsbgewbeqGc0Q.png)
 
-[![](../Images/dff9692d84be086393e3f48f03365366.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T9Ckjfqo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AAFFoi8P_xc-d1tT2wBVZWQ.png)
+[![](img/dff9692d84be086393e3f48f03365366.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T9Ckjfqo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AAFFoi8P_xc-d1tT2wBVZWQ.png)
 
-<figure>[![](../Images/942ab98ba5b2d5cac80f7b5afbe9d890.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--eXJE5VJh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A2WCdVoU8-UTAVqc8xMqQog.png) 
+<figure>[![](img/942ab98ba5b2d5cac80f7b5afbe9d890.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--eXJE5VJh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A2WCdVoU8-UTAVqc8xMqQog.png) 
 
 <figcaption>愤怒的，兴奋的，&安静的</figcaption>
 
 </figure>
 
-[![](../Images/fd3c3b021c49364ac732c27d6c737ee7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pncafb5w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AvaLmQVdLDS90uv5ve5IL6Q.png)
+[![](img/fd3c3b021c49364ac732c27d6c737ee7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pncafb5w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AvaLmQVdLDS90uv5ve5IL6Q.png)
 
-[![](../Images/3b9490363302a661a61f301210c1fab1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VApipZbn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AURBRM8rpWYy8LT0cLDAU2Q.png)
+[![](img/3b9490363302a661a61f301210c1fab1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VApipZbn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AURBRM8rpWYy8LT0cLDAU2Q.png)
 
-<figure>[![](../Images/89b75320e1f7a1d911ac8e5f56f85532.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rxcGbjhx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AxIfTgz00ICn0CPS55E8UAw.png) 
+<figure>[![](img/89b75320e1f7a1d911ac8e5f56f85532.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rxcGbjhx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AxIfTgz00ICn0CPS55E8UAw.png) 
 
 <figcaption>SmileLady，ThinkHard，& ThumbsUp</figcaption>
 
@@ -162,7 +162,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 首先，记住在回家的路上，渲染的是愤怒的成分。
 
-<figure>[![](../Images/ebf19eed6b4408088f020013362833a7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6PXFG51v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AN5Ql1tcxFpsbgewbeqGc0Q.png) 
+<figure>[![](img/ebf19eed6b4408088f020013362833a7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6PXFG51v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AN5Ql1tcxFpsbgewbeqGc0Q.png) 
 
 <figcaption>这个 AngryDude 分量十足。</figcaption>
 
@@ -212,7 +212,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 有了这些，下面是实际操作:
 
-<figure>[![](../Images/3b3595f728a66aaa4f60742e14566178.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--l07J-1pz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ar4G04AQ-qnRx-P4XcRjLDA.gif) 
+<figure>[![](img/3b3595f728a66aaa4f60742e14566178.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--l07J-1pz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ar4G04AQ-qnRx-P4XcRjLDA.gif) 
 
 <figcaption>从“生气”转向“竖起大拇指”</figcaption>
 
@@ -222,7 +222,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这就是实际情况:
 
-<figure>[![](../Images/ffc7abef379b75778f714c2694d47535.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TlNg1oYG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AUorZ-5kajXJZ5yUHnzBepQ.gif) 
+<figure>[![](img/ffc7abef379b75778f714c2694d47535.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TlNg1oYG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AUorZ-5kajXJZ5yUHnzBepQ.gif) 
 
 <figcaption>通过所有路线重新定向！</figcaption>
 
@@ -238,7 +238,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 请看下面:
 
-<figure>[![](../Images/dbf91579f8c202674f7e21b97f57c43f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6LRMMIY4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AxjX7RqKgK5LdyrZ8_D06DA.gif) 
+<figure>[![](img/dbf91579f8c202674f7e21b97f57c43f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6LRMMIY4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AxjX7RqKgK5LdyrZ8_D06DA.gif) 
 
 <figcaption>试图“返回”将我带回浏览器主页:(</figcaption>
 
@@ -280,7 +280,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是结果。
 
-<figure>[![](../Images/b23916658a750947a605ebb2405f4e7d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bRlt5X3h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AVJucGLA-Dw59KhBIMI1jBA.gif) 
+<figure>[![](img/b23916658a750947a605ebb2405f4e7d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bRlt5X3h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AVJucGLA-Dw59KhBIMI1jBA.gif) 
 
 <figcaption>现在，点击返回按钮就可以正常工作了:)</figcaption>
 
@@ -298,7 +298,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 与将字符串传递给 prop 到 Redirect 相反，您也可以传入一个对象。
 
-<figure>[![](../Images/424b812c5e2e1daa06886accc616a0bc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YCgns7za--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AmXJJnCS65sbv19Z3Ts39Sw.png) 
+<figure>[![](img/424b812c5e2e1daa06886accc616a0bc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YCgns7za--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AmXJJnCS65sbv19Z3Ts39Sw.png) 
 
 <figcaption>你也可以将一个对象传递给重定向组件</figcaption>
 
@@ -308,7 +308,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在 state 对象中，您现在可以存储任何您希望带到被重定向到的路由的键值对。
 
-<figure>[![](../Images/edc939941234aee620bed00a6f03f266.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pow5KdZz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AnkFps36oyZXKtI3keaN9bg.png) 
+<figure>[![](img/edc939941234aee620bed00a6f03f266.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pow5KdZz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AnkFps36oyZXKtI3keaN9bg.png) 
 
 <figcaption>在“至”道具内添加状态对象。</figcaption>
 
@@ -377,7 +377,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 经过重定向和开发控制台检查后，状态对象确实就在那里！
 
-<figure>[![](../Images/7c1674d2cb4a75904765b956413d61d8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--teETcfKq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ayv5aTY_Qerf1wAhSvSdMyw.png) 
+<figure>[![](img/7c1674d2cb4a75904765b956413d61d8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--teETcfKq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ayv5aTY_Qerf1wAhSvSdMyw.png) 
 
 <figcaption>状态对象接收并登录到新的`/thumbs`路线！</figcaption>
 
@@ -387,7 +387,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我是这样做的:
 
-<figure>[![](../Images/550ab6b162e52d067bc06314d75d529c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9CkMI5mb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ASF0KSkH449j_nTisYceWpQ.png) 
+<figure>[![](img/550ab6b162e52d067bc06314d75d529c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9CkMI5mb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ASF0KSkH449j_nTisYceWpQ.png) 
 
 <figcaption>看看按钮下面的文字。这些值是从位置状态对象中获取的！</figcaption>
 
@@ -468,7 +468,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，结果是一样的:
 
-<figure>[![](../Images/79978be1458402fe3b1eaa8b768527c9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SSogwNga--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ApaoJyMt2u4F3dfvYXeTdPQ.gif) 
+<figure>[![](img/79978be1458402fe3b1eaa8b768527c9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SSogwNga--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ApaoJyMt2u4F3dfvYXeTdPQ.gif) 
 
 <figcaption>使用历史道具一样好用！</figcaption>
 
@@ -520,7 +520,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在过去，react-router 为此提供了库， [react-router-redux](https://github.com/reacttraining/react-router/tree/master/packages/react-router-redux) 。然而，在撰写本文时，该项目已被否决，不再维护。
 
-<figure>[![](../Images/4dab89adafc30ac500535380b23c7ba1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--c1SszdzG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AqRThtmohC5_iNek6ISM9zA.png) 
+<figure>[![](img/4dab89adafc30ac500535380b23c7ba1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--c1SszdzG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AqRThtmohC5_iNek6ISM9zA.png) 
 
 <figcaption>项目弃用，详见[react-router-redux github repo](https://github.com/reacttraining/react-router/tree/master/packages/react-router-redux)。</figcaption>
 
@@ -611,7 +611,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这就是实际情况:
 
-<figure>[![](../Images/a04e3dc1f3a80404a066e6fd5820a9e8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yhGOPrag--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AN3A-toE_cdLRRtwxlzzN5w.gif) 
+<figure>[![](img/a04e3dc1f3a80404a066e6fd5820a9e8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yhGOPrag--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AN3A-toE_cdLRRtwxlzzN5w.gif) 
 
 <figcaption>在开发控制台中查找现在处于冗余状态</figcaption>
 
@@ -728,7 +728,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，该应用程序不会像预期的那样工作，因为 ConnectedRouter 需要一个历史属性，即我们之前创建的历史对象。
 
-<figure>[![](../Images/109097ce9fea10ae6c41df2f56c6a7cb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ueox7Zun--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AQmvirFH074vD-3ByXIBGbw.png)
+<figure>[![](img/109097ce9fea10ae6c41df2f56c6a7cb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ueox7Zun--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AQmvirFH074vD-3ByXIBGbw.png)
 
 <figcaption>app 现在抛出这个错误:(</figcaption>
 
@@ -794,7 +794,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-<figure>[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+<figure>[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption></figcaption>
 

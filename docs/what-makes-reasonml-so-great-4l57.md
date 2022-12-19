@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/what-makes-reasonml-so-great-4l57>
 
-[![](../Images/209a7974299a4fb7573ebfa6e9b63669.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iu8NeSkq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AtheA-BiTPVjhIlQ4njM9VQ.jpeg)
+[![](img/209a7974299a4fb7573ebfa6e9b63669.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iu8NeSkq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AtheA-BiTPVjhIlQ4njM9VQ.jpeg)
 
 ### 原因到底是什么？
 
@@ -28,7 +28,7 @@ ReasonML 是由脸书创建的 OCaml 语言的*语法扩展。_ 而不是创造�
 
 事实上，因为这个 FFI 与 JavaScript 的互操作性，Reason 已经有了 [React 绑定](https://reasonml.github.io/reason-react/)！
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 #### 坚如磐石式的系统
 
@@ -200,7 +200,7 @@ switch(arr) {
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

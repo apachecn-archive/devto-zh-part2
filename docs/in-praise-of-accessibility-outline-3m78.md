@@ -20,7 +20,7 @@
 
 想象一下，某个需求到达你的手中，你被要求删除当你点击一个图标时出现的奇怪线条。在 CSS 中，它是一个名为 [`outline`](https://developer.mozilla.org/en-US/docs/Web/CSS/outline) 的属性。
 
-[![Screenshot of an outline example](../Images/d39ff65420f20d4a9981f3790956d7aa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--i0MyIUK_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k78gyz5z2zeur0qz703z.png) 
+[![Screenshot of an outline example](img/d39ff65420f20d4a9981f3790956d7aa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--i0MyIUK_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k78gyz5z2zeur0qz703z.png) 
 看到图片左下方，那是轮廓。
 
 这件事发生在我工作期间，有时会发生这种情况，因为人们很匆忙，或者仅仅是因为无知。所以这篇文章是我创造性的解决方案，有一些开源代码，希望能丰富我们所有人。

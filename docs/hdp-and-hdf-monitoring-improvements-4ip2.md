@@ -34,31 +34,31 @@
 
 [Ambari 指标收集器](https://cwiki.apache.org/confluence/display/AMBARI/Metrics) somtimes 通过 Ambari 自动重启。我们注意到，Ambari Metrics 收集器日志指出崩溃是由于内存不足造成的。我们希望随着时间的推移跟踪堆的使用情况，并确定是否应该使用更高的堆或不同的调优。我们并没有主动监控 Ambari Metrics Collector，而是在收集数据以备将来使用。
 
-[![](../Images/28b6ff7db370b96c510938e64a149100.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YufqaBVi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-03-12/ambari_metrics_grafana.png)
+[![](img/28b6ff7db370b96c510938e64a149100.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YufqaBVi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-03-12/ambari_metrics_grafana.png)
 
 #### 安巴里服务器
 
 因为我们正在评估 Ambari 视图，所以我们想要跟踪 Ambari 服务器堆的使用情况，因为文档说应该为 Ambari 视图增加堆。
 
-[![](../Images/e4cc90afc550569db5433a5efb340638.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WoFCYCXF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-03-12/ambari_server_grafana.png)
+[![](img/e4cc90afc550569db5433a5efb340638.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WoFCYCXF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-03-12/ambari_server_grafana.png)
 
 #### 诺克斯
 
 [Apache Knox](https://knox.apache.org/) 对我们的许多用户来说很重要，因为他们通过 REST 访问大数据环境。以前，我们不了解 Knox 的性能，也不知道需要进行多少调整。默认情况下，HDP 没有为 Knox 提供任何 Java GC 调优。这很麻烦，因为我们通过监控发现，堆到处都是。在实现 Knox 堆监控之后，由于减少了垃圾收集，我们能够显著提高 Knox 的性能。
 
-[![](../Images/e0b78b3944f28c1416989cc68c117e6f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dtcoKEGi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-03-12/knox_grafana.png)
+[![](img/e0b78b3944f28c1416989cc68c117e6f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dtcoKEGi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-03-12/knox_grafana.png)
 
 #### WebHBase
 
 我们的许多 Apache HBase 用户通过 Knox 在 WebHBase 上查询 HBase。类似于我们的 Knox 监控，我们想知道 WebHbase 的性能如何。我们跟踪标准的 Java 堆使用情况以及请求数量。我们使用这些指标来为我们的用户提高 WebHBase 的性能。
 
-[![](../Images/9fc488540b57f37cfbb3c2c4f43f2535.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JkO1Y5L9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-03-12/webhbase_grafana.png)
+[![](img/9fc488540b57f37cfbb3c2c4f43f2535.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JkO1Y5L9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-03-12/webhbase_grafana.png)
 
 #### 动物园管理员
 
 Apache Zookeeper 对于 HDP 和 HDF 的高可用性至关重要。开箱即用，HDP 和 HDF 都没有动物园管理员监控。我们利用 Metricbeat 特定的 Zookeeper 监控和 Jolokia 监控来提供 Zookeeper 性能的综合视图。我们正在专门跟踪 HDF 动物园管理员的表现，以确保我们不会因为 HDF 使用动物园管理员进行州管理而给动物园管理员带来不合理的负担。
 
-[![](../Images/3c5b24eaab9ddf5b2dd2a5e863a1c366.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6OsSN0b7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-03-12/zookeeper_grafana.png)
+[![](img/3c5b24eaab9ddf5b2dd2a5e863a1c366.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6OsSN0b7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-03-12/zookeeper_grafana.png)
 
 ### 设置和配置
 

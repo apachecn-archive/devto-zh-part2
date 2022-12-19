@@ -18,13 +18,13 @@
 
 首先进入 [firebase 控制台](https://console.firebase.google.com/)并创建新的应用程序。
 
-[![New firebase app](../Images/f32f63dd0c4e3b5e7095b349b32d7bb1.png)T2】](///static/firebase_react_1-bc9e75fefff4d10ea38ee408d05d8c59-d6bad.png)
+[![New firebase app](img/f32f63dd0c4e3b5e7095b349b32d7bb1.png)T2】](///static/firebase_react_1-bc9e75fefff4d10ea38ee408d05d8c59-d6bad.png)
 
 ### 添加认证方法
 
 点击**认证**，然后**设置签到方式**。
 
-[![New sign in method](../Images/435731842216054c1d1225d60a8c2719.png)T2】](///static/firebase_tutorial_2-77ad3244e6e8fef0048ad3a909074552-4a0bd.png)
+[![New sign in method](img/435731842216054c1d1225d60a8c2719.png)T2】](///static/firebase_tutorial_2-77ad3244e6e8fef0048ad3a909074552-4a0bd.png)
 
 启用**电子邮件/密码**认证。
 
@@ -32,7 +32,7 @@
 
 转到项目设置:
 
-[![New sign in method](../Images/2b8c5c8332bedbb4c3d636d3d9d3f1f2.png)T2】](///static/firebase_tutorial_3-7b90fea517ced0aeb6f38f1f04a8dd12-4a0bd.png)
+[![New sign in method](img/2b8c5c8332bedbb4c3d636d3d9d3f1f2.png)T2】](///static/firebase_tutorial_3-7b90fea517ced0aeb6f38f1f04a8dd12-4a0bd.png)
 
 并选择**将 firebase 添加到您的 web 应用程序**。从那里复制您的凭证，并将它们保存到项目根目录下的`.env`文件中。
 

@@ -78,7 +78,7 @@
 
 这是 Z 轴的样子:
 
-[![3D Space Image](../Images/9323c39b937572cbc0493df41a90075d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_5DDp3BR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2014/10/axes.png)
+[![3D Space Image](img/9323c39b937572cbc0493df41a90075d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_5DDp3BR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2014/10/axes.png)
 
 现在让我们做一些 CSS 工作来设置每个孩子的位置来制作一个立方体。
 
@@ -118,7 +118,7 @@
 
 我们只需将所有 div 的 Z 轴**设置为 **75px** ，这是我们立方体宽度的一半，即 **150/2 = 75px** 。在为所有子元素设置了 Z 轴之后，我们还使用 **rotateX** 和 **rotateY** 将每个 div 放置在 Z 轴上的正确位置，以形成一个立方体。**
 
-[![Cube without Z-Axis](../Images/5556795ed2f528bbe717acd869ac883d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s-UD2rJL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3you3axgwi84p0aq1n01.JPG)
+[![Cube without Z-Axis](img/5556795ed2f528bbe717acd869ac883d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s-UD2rJL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3you3axgwi84p0aq1n01.JPG)
 
 > 如果你不给子 div 一个 Z 轴值，那么所有的 div 都将在相同的 Z 轴上旋转(默认为 0 ),这将创建一个如上图所示的图像。
 

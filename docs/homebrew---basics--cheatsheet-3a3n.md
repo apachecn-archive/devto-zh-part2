@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/andremare/homebrew---basics--cheatsheet-3a3n>
 
-[![HomeBrew](../Images/155d0726d370e7601c221a1462c5edf2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0HI0TVhO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.code2bits.com/wp-content/uploads/feature-image/feature-image-homebrew.png)
+[![HomeBrew](img/155d0726d370e7601c221a1462c5edf2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0HI0TVhO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.code2bits.com/wp-content/uploads/feature-image/feature-image-homebrew.png)
 
 Homebrew 是一个免费开源的软件包管理系统，简化了苹果 macOS 操作系统上的软件安装。它被称为 macOS 的缺失包管理器。
 
@@ -134,7 +134,7 @@ Brew Cheatsheet 命令可以从下面的链接下载。PDF 文档包含常用 br
 
 在这里下载 PDF 版本:[自制备忘单](https://www.code2bits.com/wp-content/uploads/cheatsheet-pdf/cheatsheet-homebrew.pdf)
 
-[![Homebrew Cheatsheet Image](../Images/d009a14f4eff89cf6eb4ab14e48c87b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s5G3V2SE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.code2bits.com/wp-content/uploads/cheatsheet-image/cheatsheet-homebrew.png)
+[![Homebrew Cheatsheet Image](img/d009a14f4eff89cf6eb4ab14e48c87b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s5G3V2SE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.code2bits.com/wp-content/uploads/cheatsheet-image/cheatsheet-homebrew.png)
 
 ## 安装篇
 

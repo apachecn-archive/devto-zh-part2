@@ -10,17 +10,17 @@
 
 ### 让我们来谈谈理论
 
-[![decorative gif](../Images/0fd9aac406210ccca485cec757cd534b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sUGLePfn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6ghdgsdamgvt2xn7yyu2.gif)
+[![decorative gif](img/0fd9aac406210ccca485cec757cd534b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sUGLePfn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6ghdgsdamgvt2xn7yyu2.gif)
 
 在我们预防 CSRF 袭击之前，我们需要了解它们是如何运作的。通常，这些攻击是针对使用基于表单的提交(如`POST`请求和基于 cookie 的认证)的 web 应用程序的功能执行的。
 
 攻击者在他们的恶意页面中放置一个隐藏的表单，该表单会自动执行对页面端点的`POST`请求。然后，浏览器会自动发送为该页面存储的所有 cookies 以及请求。例如，如果用户登录到当前会话中，攻击者可以在登录用户不注意的情况下代表登录用户发布消息。为此，攻击者不必访问页面的 cookies。
 
-[![diagram visualizing a CSRF attack](../Images/cedcfb55e5fb29eb022901d102f02fb6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kJHNvRbG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dbcufyw0gocigyrtzxb3.png)
+[![diagram visualizing a CSRF attack](img/cedcfb55e5fb29eb022901d102f02fb6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kJHNvRbG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dbcufyw0gocigyrtzxb3.png)
 
 我们可以通过使用 CSRF 代币来保护自己免受攻击。其概念是，当浏览器从服务器获得一个页面时，它发送一个随机生成的字符串作为 CSRF 令牌作为 cookie。稍后，当您的页面执行 POST 请求时，它会将 CSRF 令牌作为 cookie 发送，也可以通过另一种方式发送，例如在正文中作为参数或者通过类似`X-CSRF-Token`的 HTTP 头发送。
 
-[![diagram visualizing CSRF token protection](../Images/e58596b1ecb6b83bf713251f653164e8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4j-WN7kZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/84fgjrf3ho7anat3d3vt.png)
+[![diagram visualizing CSRF token protection](img/e58596b1ecb6b83bf713251f653164e8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4j-WN7kZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/84fgjrf3ho7anat3d3vt.png)
 
 攻击者将无法使用他们的隐藏表单再现相同的行为，因为他们无法访问 cookie 来检索值并将其与恶意 POST 请求一起发送。
 
@@ -28,7 +28,7 @@
 
 ### 准备好棋盘
 
-[![decorative gif](../Images/0d3a4049fe3c46790988a033ada060c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N06-eDnO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aye2w0gzbbtlzunz5i1w.gif)
+[![decorative gif](img/0d3a4049fe3c46790988a033ada060c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N06-eDnO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aye2w0gzbbtlzunz5i1w.gif)
 
 首先，我们需要一个应用程序来了解 CSRF 漏洞在现实中是如何工作的，以及我们如何保护自己免受其害。如果您已经有一个现有的 [Express](https://expressjs.com/) 应用程序，请随意对其执行以下步骤。或者按照下面的步骤来设置我们的演示应用程序。
 
@@ -92,7 +92,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 访问 [http://localhost:3000](http://localhost:3000) ，你应该会看到`Hello World`和它下面的一个小表格。
 
-[![screenshot of the web page displaying hello world and an input field](../Images/bcdcaafed4c22c2c440deb91968096a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h0kIcSht--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m8eux1ibc9cn2dnqizuw.png)
+[![screenshot of the web page displaying hello world and an input field](img/bcdcaafed4c22c2c440deb91968096a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h0kIcSht--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m8eux1ibc9cn2dnqizuw.png)
 
 ### 危险的水
 
@@ -100,7 +100,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 尝试在表单中输入一些文本，然后按 submit。您应该会看到返回的消息，它也应该会被记录到正在运行的服务器的控制台中。
 
-[![screenshot of terminal window displaying the message output](../Images/faa02eccb47b57d24bc0438d81959b0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oB_tt2p---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l7so7r1mpc0jrfiaqtxy.png)
+[![screenshot of terminal window displaying the message output](img/faa02eccb47b57d24bc0438d81959b0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oB_tt2p---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l7so7r1mpc0jrfiaqtxy.png)
 
 不幸的是，攻击者能够在他们的页面上执行相同的请求。为了进行模拟，我们在 Glitch 的[页面上实现了相同的表单。访问](https://glitch.com/edit/#!/csrf-attack?path=index.html:1:0) [csrf-attack.glitch.me](http://csrf-attack.glitch.me/) ，输入消息，按提交。该行为将与在`localhost`页面上提交表单相同。它将传输消息以及设置的任何 cookies。
 
@@ -168,7 +168,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 重启你的服务器并导航到 [http://localhost:3000](http://localhost:3000) 。在输入框中输入一些文本，然后点击`Submit`。您应该会在控制台中看到该消息，并在浏览器中看到如下消息:
 
-[![screenshot of browser displaying a CSRF token and the message submitted](../Images/5aa71868121697ccf5424e0f10b62f09.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fTh1d_yn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4muknc1enqo5hux2q4dt.png)
+[![screenshot of browser displaying a CSRF token and the message submitted](img/5aa71868121697ccf5424e0f10b62f09.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fTh1d_yn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4muknc1enqo5hux2q4dt.png)
 
 现在切换回 Glitch 上的[演示页面，并在那里输入信息。当你点击提交，你会看到请求失败，消息不会出现在控制台上。传输了`_csrf` cookie，但是页面没有在`POST`主体中发送与`_csrf`值相同的值。结果，请求被`csurf`中间件阻止，我们保护自己免受 CSRF 攻击。](http://csrf-attack.glitch.me/)
 

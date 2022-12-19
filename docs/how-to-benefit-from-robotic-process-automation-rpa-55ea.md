@@ -4,7 +4,7 @@
 
 #### 应用 RPA 不应是一种无人值守的短期止痛疗法，而是嵌入到一种适当的战略中，以实现 IT 环境的现代化。
 
-<figure>[![](../Images/0acde90549fc2dbc8169a4c8d210e606.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NFdwfrx---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AvP-4O8o9xKsqeB1_.)
+<figure>[![](img/0acde90549fc2dbc8169a4c8d210e606.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NFdwfrx---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AvP-4O8o9xKsqeB1_.)
 
 <figcaption>[【亚历山大·奈特】](https://unsplash.com/@agkdesign?utm_source=medium&utm_medium=referral)上</figcaption>
 
@@ -33,7 +33,7 @@ RPA 工具必须由某人**操作**。大多数解决方案都是在本地安装
 
 但是还有其他更小的问题需要首先解决。你要回答**所有权**的问题:业务部门负责 RPA 流程吗？还是它？特别是“*如果在流程中使用了多个应用程序，前端 UI 中的任何变化，即使不影响处理流程，也会影响 RPA 脚本，从而影响结果*”([在机器人流程自动化领域，该领域的人们迫切需要解决或探索的当前问题/挑战是什么？](https://www.quora.com/What-are-the-current-problems-challenges-in-the-area-of-Robotic-Process-Automation-that-people-in-the-area-are-desperate-to-solve-or-explore))。
 
-<figure>[![](../Images/51de1b6d2dd1b5dcfa44006c51d69143.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xoCxQojH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/453/1%2ATD0V_ixKXWNddW-UZDKM9g.png) 
+<figure>[![](img/51de1b6d2dd1b5dcfa44006c51d69143.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xoCxQojH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/453/1%2ATD0V_ixKXWNddW-UZDKM9g.png) 
 
 <figcaption>多种不同的变化可能导致 RPA 流量的变化</figcaption>
 
@@ -99,21 +99,21 @@ body[data-twttr-rendered = " true "]{ background-color:transparent；}.twitter-t
 
 您能在以下 RPA 流程中发现业务流程吗？
 
-[![](../Images/c88a794d9924dcad63d8636b133574b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7v5xi0Sq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ARE7KQprY2VoHNtMlKgk8yQ.png)
+[![](img/c88a794d9924dcad63d8636b133574b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7v5xi0Sq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ARE7KQprY2VoHNtMlKgk8yQ.png)
 
 将这个流程与下面只关注业务流程的流程进行比较，请记住，到目前为止，我们只看到了快乐之路:
 
-[![](../Images/3a61637df1f98569a759e6eb1af5d7c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8CX7kIIw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/850/1%2AhJ9iu0XOlmv2VEVjugXI7Q.png)
+[![](img/3a61637df1f98569a759e6eb1af5d7c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8CX7kIIw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/850/1%2AhJ9iu0XOlmv2VEVjugXI7Q.png)
 
 每当集成没有 API 的应用程序时，此工作流都可以调用 RPA 流:
 
-[![](../Images/a3af12f80efa13feb85901c6103672a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h7g30Yjx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/914/1%2AprmGNLCToLeTQ1w7kh0FeQ.png)
+[![](img/a3af12f80efa13feb85901c6103672a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h7g30Yjx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/914/1%2AprmGNLCToLeTQ1w7kh0FeQ.png)
 
 尽管可见性有所提高，但这对于缓解开头提到的挑战有着巨大的优势。
 
 例如，底层业务流程的变化通常独立于所涉及的应用程序的用户界面。这是双向的:如果您推出某个核心应用程序或简单的操作系统的新版本，UI 中的细节可能会发生变化，您需要调整 RPA 流程，但业务流程保持稳定。或者您想要优化您的业务流程，但是一个应用程序的集成可能一点也没有涉及到。
 
-<figure>[![](../Images/5062d37d5738ac83919a74846033ff56.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--46FOwnMz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/453/1%2AuCDBg6KgnbzO4is_5xm2zA.png) 
+<figure>[![](img/5062d37d5738ac83919a74846033ff56.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--46FOwnMz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/453/1%2AuCDBg6KgnbzO4is_5xm2zA.png) 
 
 <figcaption>不要做一个泥巴大球，因为它需要在一个大范围内做很多改变</figcaption>
 
@@ -123,15 +123,15 @@ body[data-twttr-rendered = " true "]{ background-color:transparent；}.twitter-t
 
 它还允许根据业务流程的自动化比率来发展业务流程。因此，您可能会开始引入工作流引擎，但即使开始时没有 RPA，也只是进行简单的人工任务管理:
 
-[![](../Images/e6d3816aaaa7ac9f96e8a4f6e34dad61.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mM5AYdB8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AC8BGh7iEcSmJiUwO6RGMWg.png)
+[![](img/e6d3816aaaa7ac9f96e8a4f6e34dad61.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mM5AYdB8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AC8BGh7iEcSmJiUwO6RGMWg.png)
 
 现在您引入了 RPA，但是您可能希望保留**人工任务管理作为后备**，以防 RPA 流中出现错误。这使您可以专注于自动化 80%的案例，并将异常发送给人工:
 
-[![](../Images/5e6df0f0761334f3b69c49254e45ef84.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OAM_Lb6m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AkRRTJcnnlPhvG2-5W85wGg.png)
+[![](img/5e6df0f0761334f3b69c49254e45ef84.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OAM_Lb6m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AkRRTJcnnlPhvG2-5W85wGg.png)
 
 只要有可能，您可以用真实 API 的适当集成来替换 RPA:
 
-[![](../Images/fa7b5eed2c4b6ae4012a6316d1463f97.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xaIlZL6V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ARNdUEial5Mh_D-80Wh4EAw.png)
+[![](img/fa7b5eed2c4b6ae4012a6316d1463f97.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xaIlZL6V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ARNdUEial5Mh_D-80Wh4EAw.png)
 
 你可以根据具体情况来决定。CRM 可能是一个石器时代的工具，需要通过 RPA 来集成，但是您已经可以从您相对现代的 ERP 系统中利用一个真正的 API。
 
@@ -141,7 +141,7 @@ body[data-twttr-rendered = " true "]{ background-color:transparent；}.twitter-t
 
 在上面概述的场景中，工作流引擎处于主导地位，每当它需要与不提供适当 API 的资源集成时，都会调用 RPA。因此，工作流引擎调用 RPA 工具的 API，例如通过 REST。这要求您的 RPA 工具提供一个 API。大多数都是这样，您应该明确地将此作为 RPA 评估列表中的一个必备标准！
 
-[![](../Images/0cd5b2d8897701fa68c9f678029ad3de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FEZqst2w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/711/1%2Aswf3B3ylczageMXXLRcJPQ.png)
+[![](img/0cd5b2d8897701fa68c9f678029ad3de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FEZqst2w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/711/1%2Aswf3B3ylczageMXXLRcJPQ.png)
 
 看集成时的一个基本区别是，你可以有有人值守或无人值守的机器人。无人值守的机器人完全靠自己运行——可能是在一台没有连接显示器的机器上。该处理可以通过 API 调用轻松启动。对于有人值守的机器人来说，任务、工作或工作项目被创建、调度，并且在他的计算机前的人可以稍后以有人值守的方式来拾取并执行它。细节取决于手头的工具，但从技术角度来看，集成通常非常容易，我很高兴与您讨论具体的场景。
 

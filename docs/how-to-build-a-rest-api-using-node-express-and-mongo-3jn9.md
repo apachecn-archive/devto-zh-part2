@@ -24,7 +24,7 @@ REST API 是 web 应用程序不可或缺的组成部分。你不需要成为一
 
 * * *
 
-[![theoutlander](../Images/fa3a5404d413070afd491a6351af2493.png)](/theoutlander) [## Mongoose for MongoDB 简介
+[![theoutlander](img/fa3a5404d413070afd491a6351af2493.png)](/theoutlander) [## Mongoose for MongoDB 简介
 
 ### 尼克·卡尔尼克 2 月 14 日 1811 分钟阅读
 

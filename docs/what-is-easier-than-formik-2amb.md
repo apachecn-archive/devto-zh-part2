@@ -63,7 +63,7 @@ Formik 是一个 React 表单包，可以让您轻松地处理表单。它的口
 
 让我们回到这个问题:什么比 Formik 更容易？我认为描述一种形式的最简单的方法是...英语。通常我们会这样说:“我需要一个表单，其中一个字段有这个标签&一个提交按钮”，我们在 JSX 不这么说:)因此，考虑到这一点，我创建了 [ui-form-field](https://github.com/ngduc/ui-form-field) 来帮助我轻松地构建一个表单，就像:
 
-[![ui-form-field](../Images/acfe236dec936229f788aec57035eccc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DFOYQ_cT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rawcdn.githack.com/ngduc/ez-formik/0158b434e381a938868e342d8c7a1d2a0fceb57d/screenshot-compare.png)
+[![ui-form-field](img/acfe236dec936229f788aec57035eccc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DFOYQ_cT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rawcdn.githack.com/ngduc/ez-formik/0158b434e381a938868e342d8c7a1d2a0fceb57d/screenshot-compare.png)
 
 不仅仅是更短的语法，它还提供:
 

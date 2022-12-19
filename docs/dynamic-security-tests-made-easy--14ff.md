@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/omerlh/dynamic-security-tests-made-easy--14ff>
 
-[![cover image](../Images/9984c0913dca8a93a88bdba07cf6e20a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ryYXDHIk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.solutotlv.com/wp-content/uploads/2017/09/generic_cover.png) 
+[![cover image](img/9984c0913dca8a93a88bdba07cf6e20a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ryYXDHIk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.solutotlv.com/wp-content/uploads/2017/09/generic_cover.png) 
 您是否在您的配置项中运行安全测试？
 
 您可能想知道——运行安全测试到底意味着什么？它是做什么的？安全测试只是测试你的代码是否有已知的漏洞，以确保黑客无法侵入你的系统。这听起来可能很复杂——但实际上，它非常简单。有许多现有的工具可以用来运行安全测试——在这篇博文中，我将介绍其中的一种。
@@ -13,7 +13,7 @@
 
 为了构建我们的安全测试，我使用了一个名为 [Zaproxy](https://github.com/zaproxy/zaproxy) 或简称 Zap 的工具。Zap 是由 [OWASP](https://www.owasp.org/index.php/Main_Page) 开发和维护的开源免费黑客工具。Zap 最酷的部分是它有一个[API](https://github.com/zaproxy/zaproxy/wiki/ApiDetails)——这意味着我可以在 CI 中运行它所有的黑客功能。
 
-[![We’ll need a hoodie for our CI, of course](../Images/c4db409ce8ec154dd96f369eb05568bb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BOoaIEXr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.solutotlv.com/wp-content/uploads/2017/11/Screen-Shot-2017-11-09-at-18.40.32-1024x607.png)
+[![We’ll need a hoodie for our CI, of course](img/c4db409ce8ec154dd96f369eb05568bb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BOoaIEXr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.solutotlv.com/wp-content/uploads/2017/11/Screen-Shot-2017-11-09-at-18.40.32-1024x607.png)
 Zap 的基本特征是它充当 web 代理，例如，它检查从客户端到服务器的流量。Zap 可以检查请求和响应，并寻找各种安全问题，比如缺少安全头。因此，我可以使用现有的测试(UI 自动化或集成测试)，通过 Zap 代理它们，然后向 Zap 查询警报——让我们看看如何进行！
 
 ## 代理 Tweek 的 API 冒烟测试

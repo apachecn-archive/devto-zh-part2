@@ -352,7 +352,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 然后打开浏览器窗口并指向`http://localhost:4000/api/graphiql`。您应该会看到如下所示的窗口:
 
-[![elixir-graphql-1 (1)](../Images/201eb07ec8ee16a152775e106c57dad6.png)T2】](//images.ctfassets.net/h6vh38q7qvzk/7GvswSUCVaogsIi0AYoKmw/1a97c4f992c3823f323804881b03bf8b/elixir-graphql-1__1_.png)
+[![elixir-graphql-1 (1)](img/201eb07ec8ee16a152775e106c57dad6.png)T2】](//images.ctfassets.net/h6vh38q7qvzk/7GvswSUCVaogsIi0AYoKmw/1a97c4f992c3823f323804881b03bf8b/elixir-graphql-1__1_.png)
 
 您可以在这个截图中看到，我们已经运行了初始查询，选择了主键 eventType(注意与`event_type`的区别)；GraphQL 期望 JavaScript 风格的 Camel-case，而 Elixir 默认期望 snake_case 风格。苦艾酒为我们处理这种转换！)我们还没有选择`inserted_at`和`updated_at`列；我们稍后还有时间去做！
 
@@ -360,7 +360,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 只是想在你读完之前抓住你，让你知道我们是一家基于云的日志公司，希望通过无缝地增加上下文来简化调试。我们已经有了一个[很棒的产品](https://timber.io/)，你可以免费试用！
 
-[![footer](../Images/43aa2664df53ecff401a14afb1c717c4.png)T2】](//images.ctfassets.net/h6vh38q7qvzk/5BUP5dDcrKae4yyaoy8ocE/ba33ae45edec6325109f05a44407a2e2/footer.png)
+[![footer](img/43aa2664df53ecff401a14afb1c717c4.png)T2】](//images.ctfassets.net/h6vh38q7qvzk/5BUP5dDcrKae4yyaoy8ocE/ba33ae45edec6325109f05a44407a2e2/footer.png)
 
 ### 总结
 

@@ -4,7 +4,7 @@
 
 # 玩弄`MySQL`和`HTTP`
 
-[![database](../Images/4bd619212900de765ba69fcaf5613b4a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VoNoN7mD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/en/7/78/DB-database-icon.png)
+[![database](img/4bd619212900de765ba69fcaf5613b4a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VoNoN7mD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/en/7/78/DB-database-icon.png)
 
 ## 这是什么？
 
@@ -166,7 +166,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 以防你好奇，这是表格:
 
-[![HTML Table](../Images/8d8e4778105791054f13b03569855dd3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GcMAXgf2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ilyisgio31hrd108jmak.png)
+[![HTML Table](img/8d8e4778105791054f13b03569855dd3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GcMAXgf2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ilyisgio31hrd108jmak.png)
 
 ## 又一个搞定了。
 

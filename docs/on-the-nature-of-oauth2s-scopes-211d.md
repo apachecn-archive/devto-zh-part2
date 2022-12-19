@@ -8,4 +8,4 @@
 
 [读读🧙🏻‍♂️](https://auth0.com/blog/on-the-nature-of-oauth2-scopes/?utm_source=dev&utm_medium=sc&utm_campaign=oauth2_scopes)
 
-[![On The Nature of OAuth2’s Scopes](../Images/228a467cbc3320e0378e6ae2bb36143a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FmdCsQw8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c8k3li0kx4n0e79qo4sd.png)
+[![On The Nature of OAuth2’s Scopes](img/228a467cbc3320e0378e6ae2bb36143a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FmdCsQw8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c8k3li0kx4n0e79qo4sd.png)

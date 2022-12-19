@@ -6,11 +6,11 @@
 
 本文关注的是为医疗设备创建程序的开发团队。我希望他们不会无动于衷，会检查他们的代码。让我们回忆一下两个著名的案例，在这两个案例中，与医学相关的程序错误成为了坏消息的原因。
 
-[![image](../Images/00987b47ead3b19caeda005f1d6660a6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GN5v2GGr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.viva64.com/media/images/content/b/0564_Medic/image4.png)
+[![image](img/00987b47ead3b19caeda005f1d6660a6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GN5v2GGr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.viva64.com/medimg/content/b/0564_Medic/image4.png)
 
 首先，它是由放射治疗 Therac-25 装置的错误引起的一系列悲剧事件。这种装置在 1985 年 6 月至 1987 年 1 月期间至少造成了 6 次辐射过量，一些病人接受了数万拉德的剂量。至少有两人直接死于辐射过量。设备的软件缺陷是悲剧的原因，主要问题是不正确的安全策略。
 
-[![image](../Images/4c9176f961ee5d05b9c1dac24e1d91b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uY8CHvNL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.viva64.com/media/images/content/b/0564_Medic/image6.png)
+[![image](img/4c9176f961ee5d05b9c1dac24e1d91b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uY8CHvNL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.viva64.com/medimg/content/b/0564_Medic/image6.png)
 
 其次，软件漏洞也会间接造成危害。[例如](http://www.pnas.org/content/early/2016/06/27/1602413113)，核磁共振扫描仪软件中的错误引发了关于 40 000 项研究的问题。几十年来，神经科学家和认知心理学家一直使用统计程序 AFNI、SPM 和 FSL 来分析 [fMRI](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging) 数据。事实证明，由于不正确的算法，这些程序可能会返回高达 70%的假阳性结果，而不是预计的 5%。
 
@@ -20,7 +20,7 @@
 
 这不是一个抽象的理论问题。我自己也面临过这样的情况，在将程序移植到 64 位系统时，导致 MRI 数据处理错误的错误开始显现。幸运的是，错误非常明显:图像的一大块碎片不见了。然而，错误可能不那么明显，并且存在于一些细节的不正确显示中，这将更难检测出来。
 
-[![image](../Images/3eacdd9f27f9bf3c1c0e019087bfb98b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mR9B-H8p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.viva64.com/media/images/content/b/0564_Medic/image8.png)
+[![image](img/3eacdd9f27f9bf3c1c0e019087bfb98b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mR9B-H8p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.viva64.com/medimg/content/b/0564_Medic/image8.png)
 
 关于这个错误的更多信息可以在文章“ [PVS-Studio project - 10 年的失败和成功](https://www.viva64.com/en/b/0465/)”中找到。正是这一点和其他一些 [64 位错误](https://www.viva64.com/en/t/0002/)启发了 Viva64 工具的创建，该工具后来变成了 PVS-Studio 静态代码分析器。
 

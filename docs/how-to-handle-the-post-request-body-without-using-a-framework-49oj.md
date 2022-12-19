@@ -51,7 +51,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您应该会在浏览器中看到一个表单:
 
-[![localhost](../Images/a1d7ed4302ba2d566db0a4eaa29c6f5a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B9hcZur1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ba9z5p3rjxluez15m9se.png)
+[![localhost](img/a1d7ed4302ba2d566db0a4eaa29c6f5a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B9hcZur1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ba9z5p3rjxluez15m9se.png)
 
 ## 2。捕获发布的有效负载
 
@@ -166,7 +166,7 @@ queryParams['photo'];
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Solution](../Images/df5d994e65212b42e3c72ef81b60d9b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eTrtsRzz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bml5w6pdx1oj7tuyp2p7.png)
+[![Solution](img/df5d994e65212b42e3c72ef81b60d9b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eTrtsRzz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bml5w6pdx1oj7tuyp2p7.png)
 
 下面是完整的解决方案:
 

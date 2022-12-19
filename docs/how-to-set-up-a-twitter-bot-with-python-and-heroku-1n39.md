@@ -4,7 +4,7 @@
 
 我刚刚设置了一个推特机器人来生成药品广告，并每天在推特上发布几次。(源代码[此处](https://github.com/emcain/drug_names))。为了做到这一点，我最终将几个不同教程中的概念拼凑在一起，没有一个教程列出了整个过程，所以我在这里写下来了。
 
-[![image description: xkcd comic 1988\. Transcript can be found at https://www.explainxkcd.com/wiki/index.php/1988:_Containers](../Images/e2736a9576f1f2c13ac7063c7b3487f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XgezSJrb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgs.xkcd.com/comics/containers.png)
+[![image description: xkcd comic 1988\. Transcript can be found at https://www.explainxkcd.com/wiki/index.php/1988:_Containers](img/e2736a9576f1f2c13ac7063c7b3487f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XgezSJrb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgs.xkcd.com/comics/containers.png)
 
 这些步骤可以总结为:
 
@@ -59,7 +59,7 @@ Twitter 帐户将需要一个独特的电子邮件。如果你想使用一个已
 你还需要在应用程序中设置一个电话号码；同样，您可以使用谷歌创建一个转到现有号码的备用联系人，这次使用的是[谷歌语音](https://www.wikihow.com/Get-a-Google-Voice-Phone-Number)。
 接下来，进入你的 Twitter 应用仪表板[创建一个新的应用](https://apps.twitter.com/app/new)(以机器人账户登录)。
 
-[![a screenshot of the Twitter application creation page](../Images/567c10b65e8a90d96a0bd7a8e0656d21.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eVCD2iYp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7tr5lr7p4gpr27qugk1h.png)
+[![a screenshot of the Twitter application creation page](img/567c10b65e8a90d96a0bd7a8e0656d21.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eVCD2iYp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7tr5lr7p4gpr27qugk1h.png)
 
 对于应用程序的网站，我将 GitHub 的 URL 放在这个项目的 repo 所在的位置。
 
@@ -93,7 +93,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 成功！
 
-[![screenshot of initial tweets sent by bot](../Images/6c6cce182e3d60ace1ac2709107feeda.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0YNr5y9i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k2bh0dvw0fielp82ww4t.png)
+[![screenshot of initial tweets sent by bot](img/6c6cce182e3d60ace1ac2709107feeda.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0YNr5y9i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k2bh0dvw0fielp82ww4t.png)
 
 它能够很好地发送推文，但我不想让我的笔记本电脑和我的终端永远开着，所以我需要让它在某个地方自己的服务器上运行。我的下一个任务是给 Heroku 装上机器人。
 

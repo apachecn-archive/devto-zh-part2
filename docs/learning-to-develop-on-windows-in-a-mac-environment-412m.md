@@ -24,7 +24,7 @@ Enable-Windows optional feature-Online-feature name Microsoft-Windows-Subsystem-
 如果您没有以管理员身份运行，此命令将会失败，告诉您所请求的操作需要提升权限。这也可以通过控制面板中的程序和功能来完成。然后单击打开或关闭 Windows 功能子菜单。然后找到用于 Linux 的 Windows 子系统，并单击复选框。
 您需要重启电脑。
 
-[![WSL Install](../Images/b673e51fdb020964ba5b3b1f9211c510.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gZ7pjguM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/PxFY6dG.png)
+[![WSL Install](img/b673e51fdb020964ba5b3b1f9211c510.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gZ7pjguM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/PxFY6dG.png)
 
 在商店里搜索 Linux。应该会有一个带你去 Linux 应用程序的横幅。
 选择你想要的任何一个发行版，我选择了 Ubuntu。
@@ -66,7 +66,7 @@ Installfest 是安装该类所需的所有应用程序的任务。有一个要�
 
 在对话框中，单击环境变量。这可以作为系统变量，用于登录到计算机的每个用户，也可以作为用户变量，仅用于登录的用户。找到路径，然后单击编辑。单击 new，添加 C:\ Program Files \ MongoDB \ Server \ 4.0 \ bin(如果 4.0 不是当前版本，请务必更改您的版本号以匹配)，然后单击 OK。这个设置将允许您使用快速命令来启动和进入 MongoDB。
 
-[![environmental variable](../Images/a8b4fe7f73647025352d0674cb483e5c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mFw1tgYE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/DLV3Mmh.png)
+[![environmental variable](img/a8b4fe7f73647025352d0674cb483e5c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mFw1tgYE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/DLV3Mmh.png)
 
 ## 巨蟒
 

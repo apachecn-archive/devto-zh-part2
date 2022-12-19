@@ -6,7 +6,7 @@
 
 ## 什么是拓扑数据分析？
 
-[![topological-data-analysis](../Images/dab8d099dcf135b7f590f56bd28f4494.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yTwY0WrK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://perfectial.com/production/wp-content/uploads/2017/06/illustration_1-copy-2-1.png)
+[![topological-data-analysis](img/dab8d099dcf135b7f590f56bd28f4494.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yTwY0WrK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://perfectial.com/production/wp-content/uploads/2017/06/illustration_1-copy-2-1.png)
 
 TDA 起源于数学拓扑学，是一门研究形状的学科。它通过将数学函数应用于数据来测量形状，并以拓扑网络或组合图的形式来表示。
 

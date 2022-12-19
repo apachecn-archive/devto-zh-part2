@@ -4,7 +4,7 @@
 
 今天向前迈进的乐趣，即使它没有太多的演示。增加了对从任何组件指向树中其他节点的指针的支持。目标是继续从 [Unity](https://unity3d.com) 借用这个节点和组件数据模型。树中有节点，节点上有组件。在我的例子中，组件可以是任何 Go 结构，理想情况下没有任何特殊之处。应该允许带有指针的字段引用另一个节点的组件。
 
-[![unity ui](../Images/1489c7b757bcb31da88016e1dff98634.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rDUh-8E6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://g.recordit.co/Kbnb4X0ms4.gif)
+[![unity ui](img/1489c7b757bcb31da88016e1dff98634.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rDUh-8E6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://g.recordit.co/Kbnb4X0ms4.gif)
 
 与 Unity 一样，在 Inspector 中进行引用只需要将一个节点拖到字段中，它就会找到合适的组件并设置指向它的指针。首先，我只是试图获得指向其他节点的指针，然后我可以让它在以后查找特定的组件。
 
@@ -16,7 +16,7 @@
 
 我遇到的一个奇怪的问题是，我无法从 Go 的拖拽事件中获取数据。这就是拖动时传递节点 ID 的方式。我想可能有什么东西在做浅层复制或者`dataTransfer`出于某种原因只是有魔力。我将不得不做更多的调查，但是我只能分配一些用 JavaScript 编写的处理程序，这些处理程序将`dataTransfer`数据写入数据属性。然后它在 Go 中触发一个不同的事件，从数据属性中读取数据。
 
-[![demo](../Images/f3ee3b7834ac2e54110abaf1d5a70e0b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CuINfIGU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://g.recordit.co/5dbEFoTUdf.gif)
+[![demo](img/f3ee3b7834ac2e54110abaf1d5a70e0b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CuINfIGU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://g.recordit.co/5dbEFoTUdf.gif)
 
 那么它工作正常吗？！嗯，是的。酪一个新问题。当我们序列化数据时，Go 的 JSON 封送拆收器跟随指针并序列化它们的值。所以任何对树的另一部分的引用都会复制子树。并且将该字段设置为其所在的节点将导致调用堆栈溢出死机。
 

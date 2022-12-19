@@ -29,7 +29,7 @@
 
 > ***标题:**样本输入包含图表数据的 Microsoft Excel 文档。*
 
-[![Sample Input Microsoft Excel Document containing Chart Data.](../Images/c21795df8d5687dfc73a8964e1c429ff.png "Sample Input Microsoft Excel Document containing Chart Data.")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hsTbqeBa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/AsposeCells/AsposeCells-Screenshots-and-Sample-Files/master/Create-Microsoft-Excel-Line-Chart/Input-Microsoft-Excel-Document-containing-Chart-Data.png)
+[![Sample Input Microsoft Excel Document containing Chart Data.](img/c21795df8d5687dfc73a8964e1c429ff.png "Sample Input Microsoft Excel Document containing Chart Data.")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hsTbqeBa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/AsposeCells/AsposeCells-Screenshots-and-Sample-Files/master/Create-Microsoft-Excel-Line-Chart/Input-Microsoft-Excel-Document-containing-Chart-Data.png)
 
 # 样本代码
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/maloneygraham1/top-5-shared-hosting-comparison-4cdl>
 
-[![Shared Hosting](../Images/bccba50999fb61aca7428fe9b10e665d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fxWV47E0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4tpgyr0j1spmwy1hg7mi.jpg)
+[![Shared Hosting](img/bccba50999fb61aca7428fe9b10e665d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fxWV47E0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4tpgyr0j1spmwy1hg7mi.jpg)
 
 选择最好的托管计划和托管服务提供商很重要。更重要的是，选择正确类型的虚拟主机服务将最大限度地提高效益和节省成本。不幸的是，当代的弊病是，绝大多数网站管理员未能寻求足够的信息，主机套装，功能和指标。
 
@@ -12,7 +12,7 @@
 
 请继续阅读。
 
-[![Top 5 Shared Hosting Comparison](../Images/0abb64de2511993dc5252934808d61e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kV3bFlKF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Akd0m_EGueBqZs_lIJTZUSg.jpeg)
+[![Top 5 Shared Hosting Comparison](img/0abb64de2511993dc5252934808d61e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kV3bFlKF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Akd0m_EGueBqZs_lIJTZUSg.jpeg)
 
 ## 共享托管
 
@@ -67,7 +67,7 @@ iPage 是另一个顶级共享主机提供商。iPage 保证 99.97%的正常运�
 
 ## 现在让我们看看 Bluehost 和 Web Hosting Hub
 
-[![Shared Hosting](../Images/d6614dfd5c434a326d3acf6a5613683f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sdNE1Xqn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AX8-A3XEOSktUZ4Ti60NO0Q.png)
+[![Shared Hosting](img/d6614dfd5c434a326d3acf6a5613683f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sdNE1Xqn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AX8-A3XEOSktUZ4Ti60NO0Q.png)
 
 有任何疑问或疑问吗？在评论里枪毙他们。我将在一两天内答复。我最美好的祝愿伴随着你和你的成人事业。干杯！
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/gitconnected/hacktoberfest-react-project-28ee>
 
-[![Hacktoberfest](../Images/675e9a9e9827f67b962ec1ed12db2a66.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9nc0Vbrd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c8yxzv81ni7ifvn9orcr.png)
+[![Hacktoberfest](img/675e9a9e9827f67b962ec1ed12db2a66.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9nc0Vbrd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c8yxzv81ni7ifvn9orcr.png)
 
 # Hacktoberfest 2018 项目
 
@@ -52,6 +52,6 @@ Hacktoberfest 2018 正在进行中！加入来自 [gitconnected](https://gitconn
 
 ## 演示
 
-[![Hacktoberfest Demo](../Images/53ee9af2dc98f8b505031e64fd8e6151.png "Hacktoberfest Demo")T2】](https://i.giphy.com/media/3HwA2U7rZgn0pRnV9f/giphy.gif)
+[![Hacktoberfest Demo](img/53ee9af2dc98f8b505031e64fd8e6151.png "Hacktoberfest Demo")T2】](https://i.giphy.com/media/3HwA2U7rZgn0pRnV9f/giphy.gif)
 
-[![Hacktoberfest Screenshot](../Images/11f102530bfefaa0528620ccb2619d81.png "Hacktoberfest Screenshot")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vBQMXm-l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/gitconnected/hacker-news-reader/raw/master/public/hacktoberfest-screenshot.png)
+[![Hacktoberfest Screenshot](img/11f102530bfefaa0528620ccb2619d81.png "Hacktoberfest Screenshot")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vBQMXm-l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/gitconnected/hacker-news-reader/raw/master/public/hacktoberfest-screenshot.png)

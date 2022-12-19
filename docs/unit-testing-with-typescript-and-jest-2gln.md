@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/muhajirdev/unit-testing-with-typescript-and-jest-2gln>
 
-[![vscode-jest](../Images/0a5978c265b88eb586fd12c7129fa857.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J6qf2Ctw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gd97g4kdyk1bpdeyfqst.png)
+[![vscode-jest](img/0a5978c265b88eb586fd12c7129fa857.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J6qf2Ctw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gd97g4kdyk1bpdeyfqst.png)
 
 *原载于[https://muhajirframe.com/writing/unit-test-typescript-jest/](https://muhajirframe.com/writing/unit-test-typescript-jest/)T3】*
 
@@ -101,11 +101,11 @@ test('should return true given internal link', () => {
 
 安装〔t0〕vscode-jest〔t1〕
 
-[![vscode-jest](../Images/bf86a4e2f5d0c1e353df3465626fa6a5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--a864oPzr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/jest-community/vscode-jest/raw/master/images/vscode-jest.gif) 
+[![vscode-jest](img/bf86a4e2f5d0c1e353df3465626fa6a5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--a864oPzr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/jest-community/vscode-jest/raw/mastimg/vscode-jest.gif) 
 这张 GIF，应该是自己对 vscode-jest 如何工作的一个很好的解释
 
 我们继续。
-[![vscode-jest](../Images/ccf44e5b7f81444cc9031d05000fc969.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xh_v6Awp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/38h9s3601vnvzl75wouf.png)
+[![vscode-jest](img/ccf44e5b7f81444cc9031d05000fc969.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xh_v6Awp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/38h9s3601vnvzl75wouf.png)
 
 您的 VSCode 现在可能看起来像这样。
 

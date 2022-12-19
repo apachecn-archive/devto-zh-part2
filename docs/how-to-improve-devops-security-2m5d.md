@@ -14,7 +14,7 @@ DevOps 提供了一个很有潜力提高安全性的环境。自动化、协作�
 *   恶意的内部人士
 *   不安全的基础设施和员工行为。
 
-[![Security risks](../Images/11caeda1473d3f0c8bf8e6c599e4b1b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bD9RK3IO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oopanks6m86w0po6eak0.jpg)
+[![Security risks](img/11caeda1473d3f0c8bf8e6c599e4b1b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bD9RK3IO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oopanks6m86w0po6eak0.jpg)
 
 在这篇文章中，由为团队提供服务状态通知的科技公司 [Downosaur](https://downosaur.com/) 赞助，我们将了解为什么公司不采用 DevOps 安全性，以及他们可以做些什么来改变。
 
@@ -67,7 +67,7 @@ DevOps 使发布应用程序变得更容易更快，这样，传统上需要一�
 
 此外，管理人员、开发人员、操作人员和安全团队必须团结协作，相互支持。
 
-[![Devops security](../Images/3718031ded7d06e7294fb941ab3d6042.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2Fv-fYCX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f0ohor59laq5s5t38w5r.jpg)
+[![Devops security](img/3718031ded7d06e7294fb941ab3d6042.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2Fv-fYCX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f0ohor59laq5s5t38w5r.jpg)
 
 ### 在应用程序开发过程中集成安全性
 
@@ -101,7 +101,7 @@ DevOps 使发布应用程序变得更容易更快，这样，传统上需要一�
 
 敏感数据类型(如私人信息、信用卡或医疗保健)具有更大的风险，因此需要在存储、处理或传输等各个层面实施特定的安全控制和合规性。
 
-[![Data security](../Images/35dae422f16815ec41eca452a089d5a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EYSN0VK4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dogb5969nnhsfgc5azft.jpg)
+[![Data security](img/35dae422f16815ec41eca452a089d5a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EYSN0VK4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dogb5969nnhsfgc5azft.jpg)
 
 ### 进行静态、动态和渗透测试
 

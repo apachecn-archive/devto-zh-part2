@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/starbist/using-css-grid-where-appropriate-revisited-473>
 
-[![Using CSS Grid where appropriate (revisited)](../Images/b1719fff214a8f5452b54405c9be490b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KRY9Ww4x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g09oge5f26ip1aujk2vx.jpg)
+[![Using CSS Grid where appropriate (revisited)](img/b1719fff214a8f5452b54405c9be490b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KRY9Ww4x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g09oge5f26ip1aujk2vx.jpg)
 
 *这篇文章最初发表于 [silvestar.codes](https://www.silvestar.codes/articles/using-css-grid-where-appropriate-revisited/) 。*
 

@@ -7,7 +7,7 @@
 > 
 > 让不合理的状态变得不可能
 
-[![](../Images/81571ed9db3aa0aec466e9fa4b013646.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NHR3u9oX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3xr5k4ocd023yuo1x6m4.png)
+[![](img/81571ed9db3aa0aec466e9fa4b013646.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NHR3u9oX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3xr5k4ocd023yuo1x6m4.png)
 
 [来源](https://en.wikipedia.org/wiki/Penrose_triangle#/media/File:Penrose-dreieck.svg)
 

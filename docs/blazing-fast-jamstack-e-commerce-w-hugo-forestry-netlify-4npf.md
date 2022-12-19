@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/couellet/blazing-fast-jamstack-e-commerce-w-hugo-forestry-netlify-4npf>
 
-[![Hugo Tutorial: How to Build & Host a (Very Fast) Static E-Commerce Site](../Images/fe7a07d7a12a1338e0fb18b9966e06db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C3nJ_to0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/204274/hugo-ecommerce-tutorial.jpg)
+[![Hugo Tutorial: How to Build & Host a (Very Fast) Static E-Commerce Site](img/fe7a07d7a12a1338e0fb18b9966e06db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C3nJ_to0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/204274/hugo-ecommerce-tutorial.jpg)
 
 在这个领域工作，经常有开发者朋友联系我，询问关于电子商务项目的问题。
 

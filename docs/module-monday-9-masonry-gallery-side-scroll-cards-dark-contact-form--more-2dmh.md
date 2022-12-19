@@ -14,31 +14,31 @@
 
 根据您的自定义图像自动调整图库的大小。
 [查看 mod](https://anymod.com/mod/lramn?v=20)
- [![](../Images/9746a1d08c25e25d91e0d872d75cb702.png)](https://anymod.com/mod/lramn?v=20) 
+ [![](img/9746a1d08c25e25d91e0d872d75cb702.png)](https://anymod.com/mod/lramn?v=20) 
 
 ### 侧边滚动卡片
 
 显示一系列内置横向滚动的卡片。
 [查看 mod](https://anymod.com/mod/annbb?v=20)
- [![](../Images/203473e76e1c5638ea7a01d435148ede.png)](https://anymod.com/mod/annbb?v=20) 
+ [![](img/203473e76e1c5638ea7a01d435148ede.png)](https://anymod.com/mod/annbb?v=20) 
 
 ### 暗接点形式
 
 自动工作的时尚联系人表单。
 [查看 mod](https://anymod.com/mod/dbbak?v=20)
- [![](../Images/85caafedcb35ea21eb0252fb280f2f11.png)](https://anymod.com/mod/dbbak?v=20) 
+ [![](img/85caafedcb35ea21eb0252fb280f2f11.png)](https://anymod.com/mod/dbbak?v=20) 
 
 ### 内容手风琴
 
 向此可折叠元素添加自定义标题和内容。
 [查看 mod](https://anymod.com/mod/onkoo?v=20)
- [![](../Images/3e2dd2569ac1d7c2feb08357c65bbeb2.png)](https://anymod.com/mod/onkoo?v=20) 
+ [![](img/3e2dd2569ac1d7c2feb08357c65bbeb2.png)](https://anymod.com/mod/onkoo?v=20) 
 
 ### 下拉菜单
 
 可编辑的材料设计下拉菜单给人印象深刻的导航。
 [查看 mod](https://anymod.com/mod/nmmdo?v=20)
- [![](../Images/246fed345f7f2433c9368a3482bff77a.png)](https://anymod.com/mod/nmmdo?v=20) 
+ [![](img/246fed345f7f2433c9368a3482bff77a.png)](https://anymod.com/mod/nmmdo?v=20) 
 
 * * *
 

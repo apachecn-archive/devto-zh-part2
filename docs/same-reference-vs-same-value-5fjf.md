@@ -27,7 +27,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 变量`dev`和`went`都具有相同的值。然而，`dev`和`went`不一定是同一个参照物。虽然它们都存储值`'to'`，但是它们不存储同一个`'to'`实例。它们在内存中占据两个不同的位置。`dev`在内存中存储不同的字符串，而`went`在内存中存储另一个字符串。这两个变量恰好存储具有相同值的字符串。下图说明了这一点。箭头表示每个变量引用/指向的值。
 
-[![Each variable points to their own instance of the string.](../Images/24d74269a328dc215095d6f97d09316f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FITytsG8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k94h9y480jtv53otq1av.png)
+[![Each variable points to their own instance of the string.](img/24d74269a328dc215095d6f97d09316f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FITytsG8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k94h9y480jtv53otq1av.png)
 
 现在，你可能想知道如何实现两个变量具有相同的引用和相同的值。为此，我们只需将引用赋给另一个变量。
 
@@ -44,7 +44,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在这种情况下，`dev`和`went`都具有相同的值*和相同的参考值*。通过这样做，下面的图表被更新以反映在引擎盖下发生了什么变化。
 
-[![Both variables point to the same string.](../Images/ecbd63e7b5bfb2addea8fe496651d0f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UDXtgxvS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vn8ejmk0rktmrg5bqbqc.png)
+[![Both variables point to the same string.](img/ecbd63e7b5bfb2addea8fe496651d0f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UDXtgxvS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vn8ejmk0rktmrg5bqbqc.png)
 
 图表显示，运行代码现在占用了更少的内存，因为`dev`和`went`现在指向同一个字符串。不再需要在内存中存储同一字符串的两个单独的实例。在更大的范围内，这可以被证明在内存优化中是有用的。与前面的示例相比，内存使用量基本上减少了一半。
 

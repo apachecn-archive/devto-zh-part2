@@ -4,7 +4,7 @@
 
 在 Twitter 上，我经常看到人们发励志的、有趣的甚至是愚蠢的引用。我想象一下，如果有一个 twitter 机器人可以生成一张图片，上面有他们的引用呢？像这样:
 
-[![Copy and Pasting from Stack Overflow](../Images/fa043d9c6feffa88b3a187f1bcd0f54a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EICda_Xo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s6i8emgfeidtv33mejti.jpg)
+[![Copy and Pasting from Stack Overflow](img/fa043d9c6feffa88b3a187f1bcd0f54a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EICda_Xo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s6i8emgfeidtv33mejti.jpg)
 
 所以我决定造一个。
 
@@ -94,14 +94,14 @@ Enter fullscreen mode Exit fullscreen mode
 
 老实说，我无法解释代码的每一部分，这个机器人是 9 个月前制作的，当我再次阅读代码时，我就像是:
 
-[![I have no memory](../Images/13125a66b19e153d2dbdcadc279de9d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K0XN4zHG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nd6wk8brbgvp5zuao4q0.gif)
+[![I have no memory](img/13125a66b19e153d2dbdcadc279de9d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K0XN4zHG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nd6wk8brbgvp5zuao4q0.gif)
 
 但是这个机器人通常是这样工作的:
 
 1.  有人引用了这个机器人的推文。
-2.  这个机器人将从 Unsplash 随机或指定类别下载图像，例如我添加编码选项，所以它将从 Unsplash 下载编码类别的图像。下面是图片:![Original Image](../Images/894df6c326e6b7854fe9a199048c10a3.png)
-3.  然后，图像的亮度和对比度下降了一点，使文本更具可读性。![Filtered Image](../Images/ad5ac755037e77421388b38e9920f0d5.png)
-4.  将图像和文本绘制到画布上![Finished Image](../Images/fa043d9c6feffa88b3a187f1bcd0f54a.png)
+2.  这个机器人将从 Unsplash 随机或指定类别下载图像，例如我添加编码选项，所以它将从 Unsplash 下载编码类别的图像。下面是图片:![Original Image](img/894df6c326e6b7854fe9a199048c10a3.png)
+3.  然后，图像的亮度和对比度下降了一点，使文本更具可读性。![Filtered Image](img/ad5ac755037e77421388b38e9920f0d5.png)
+4.  将图像和文本绘制到画布上![Finished Image](img/fa043d9c6feffa88b3a187f1bcd0f54a.png)
 5.  发到推特上！
 
 就是这样，试试看！ [@quotemakerbot](https://twitter.com/quotemakerbot)
@@ -112,10 +112,10 @@ Enter fullscreen mode Exit fullscreen mode
 
 推文格式:-选项(您的报价)
 
-[![how to](../Images/91ebeef61bf34c087268f25c2d874952.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ERPoFwXv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x3eptlhlmfs3u1ggsve0.png)
+[![how to](img/91ebeef61bf34c087268f25c2d874952.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ERPoFwXv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x3eptlhlmfs3u1ggsve0.png)
 
 ## 结果
 
-[![Result](../Images/cc3cbfb535509125f12828c36b70568b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gdP-nul6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2k5wsdd2i2gmnovyvdii.png)
+[![Result](img/cc3cbfb535509125f12828c36b70568b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gdP-nul6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2k5wsdd2i2gmnovyvdii.png)
 
 PS:有时候这个 bot 并不能像预期的那样工作。ðŸ™‡

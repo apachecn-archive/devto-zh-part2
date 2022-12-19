@@ -123,7 +123,7 @@ npm start
 
 Enter fullscreen mode Exit fullscreen mode
 
-转到 [http://localhost:8000](http://localhost:8000) 。你应该看到这个: [![hello-world-picture](../Images/2814a1d76d8888669bffabf0a631f098.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JLjSCl0Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.pbrd.co/images/H7v0Mzl.jpg)
+转到 [http://localhost:8000](http://localhost:8000) 。你应该看到这个: [![hello-world-picture](img/2814a1d76d8888669bffabf0a631f098.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JLjSCl0Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.pbrd.img/H7v0Mzl.jpg)
 
 就是这样！Laravel artisan 的服务器和 Nuxt 的 dev 服务器已经启动，可以透明地协同工作。现在试着编辑你的主页吧，看到实时的重新加载是非常令人愉快的。
 
@@ -167,7 +167,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 瞧啊。您的页面现在应该看起来像这样！
 
-[![api-call-picture](../Images/94eeac1a4f85194ef795e004c0d367a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sLemr8zK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.pbrd.co/images/H7v06bS.jpg)
+[![api-call-picture](img/94eeac1a4f85194ef795e004c0d367a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sLemr8zK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.pbrd.img/H7v06bS.jpg)
 
 > 为了保持教程的简单，我们在这里没有使用任何类型的认证。集成 Passport 在这里应该是微不足道的。
 

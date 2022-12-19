@@ -16,7 +16,7 @@
 
 队列是一种线性结构，在一端添加值，在另一端删除值。这一原则产生了先进先出行为(FIFO ),这是队列的定义特征。两个基本的队列操作是入队(添加到后面)和出列(从前面移除)([源](https://stanford.edu/~stepp/cppdoc/Queue-class.html))。
 
-[![](../Images/13e58147821401fe8ea59c7ae4d978c1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--piT7WWKj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/405/1%2ALi-9xbwJWffXSSERtTX86g.png) 
+[![](img/13e58147821401fe8ea59c7ae4d978c1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--piT7WWKj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/405/1%2ALi-9xbwJWffXSSERtTX86g.png) 
 *表示一个 FIFO(先进先出)队列(维基百科)*
 
 #### 好的，我们什么时候用？
@@ -31,14 +31,14 @@
 
 你在你最喜欢的杂货店，刚刚到达收银台，但不幸的是，有许多人在等待。为了加快这个过程，商店又开了几个收银台，每个额外的收银员都有自己的队列。所以你只需要选择一个。如果其中一个收银员遇到了技术问题或者他们太慢，那么即使其他位置是空的，队列也会被延迟。
 
-[![](../Images/a1621647919f2696663ca20a18f475f3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ciV49jjg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AR4Dvy6CM9tbCiALKvVrshA.png)
+[![](img/a1621647919f2696663ca20a18f475f3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ciV49jjg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AR4Dvy6CM9tbCiALKvVrshA.png)
 *(@ andreagiuliaderba)*
 
 并发任务队列来救援！💪
 
 出于我们的目的，我们将只使用一个队列。这样，每当一个空位变得空闲时，我们将从队列中取出一个人，并将他/她发送到空闲的空位。
 
-[![](../Images/4b286e7b2f37c0847fd57e4c6fdc991f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EzBqh2VR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Anidy8yr16nMUBA153rhwEQ.png) 
+[![](img/4b286e7b2f37c0847fd57e4c6fdc991f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EzBqh2VR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Anidy8yr16nMUBA153rhwEQ.png) 
 *单个并发队列(@andreagiuliaderba)*
 
 万岁！🎉

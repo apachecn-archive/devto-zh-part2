@@ -39,7 +39,7 @@ Up(p)和 down(d)是在调用堆栈中导航所需的两个命令。在这些命�
 break(b)命令允许您在不更改代码的情况下设置新的断点。这需要更多的解释，所以我将在下面详细说明。
 
 *以下是其他 pdb 命令的简要概述:*
-[![pdb commands](../Images/09fc33dc7850ae6a6ed2ce223f6e4dcb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2tRUe4Va--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/05/Img-1%402x-2-.png)
+[![pdb commands](img/09fc33dc7850ae6a6ed2ce223f6e4dcb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2tRUe4Va--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/05/Img-1%402x-2-.png)
 
 **Python 提前调试器**
 以前，需要修改代码来打印一些东西或者设置断点。然而，通常您需要在第三方包中设置断点。当然，您可以随时从您的虚拟环境中打开库的源代码，并添加对 pdb 的调用。

@@ -4,7 +4,7 @@
 
 “俄罗斯方块”是一个完全用 DHTML (HTML，CSS 和 JavaScript)编写的开源俄罗斯方块克隆。
 
-[![Screenshot](../Images/bdd106469f63c7354f1e07379b99c765.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WtZ-MOcs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://dhtmlgames.com/tetrissimus/tetrissimus.gif)
+[![Screenshot](img/bdd106469f63c7354f1e07379b99c765.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WtZ-MOcs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://dhtmlgames.com/tetrissimus/tetrissimus.gif)
 
 这是我的第三个 DHTML 游戏，制作于 2006 年初。
 

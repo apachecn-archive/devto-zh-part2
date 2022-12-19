@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/runtime-revolution/calculating-route-f07>
 
-<figure>[![](../Images/55eefd3c34c41e9a9f4a0c6f7dfc0b5d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jY0NeDru--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AHP_UqWnjhETCy1jijaoE4A.jpeg) 
+<figure>[![](img/55eefd3c34c41e9a9f4a0c6f7dfc0b5d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jY0NeDru--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AHP_UqWnjhETCy1jijaoE4A.jpeg) 
 
 <figcaption>照片由[尼基塔·卡恰诺夫斯基](https://unsplash.com/photos/L7CwfCSmpfM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)上传 [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 

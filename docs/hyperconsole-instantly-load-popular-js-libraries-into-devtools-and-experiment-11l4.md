@@ -10,6 +10,6 @@
 
 这就是它的工作原理:
 
-[![A gif of hyperConsole at work](../Images/98d7b317562ca0254e32a9cb5f7565ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r1VGGGSV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/logpsxn7dmqufuj2s7pc.gif)
+[![A gif of hyperConsole at work](img/98d7b317562ca0254e32a9cb5f7565ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r1VGGGSV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/logpsxn7dmqufuj2s7pc.gif)
 
 在此投稿:[https://github.com/lunaroyster/hyperconsole](https://github.com/lunaroyster/hyperconsole)

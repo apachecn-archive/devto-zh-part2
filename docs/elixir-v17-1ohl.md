@@ -52,7 +52,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Elixir 的交互式外壳的 IEx 也将更新以输出元数据。
 
-[![iex-metadata.png](../Images/acd5573d91ca323cfcc405bc8be249b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ch3SsckQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://elixir-lang.org/images/contents/iex-metadata.png)
+[![iex-metadata.png](img/acd5573d91ca323cfcc405bc8be249b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ch3SsckQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://elixir-lang.oimg/contents/iex-metadata.png)
 
 Elixir 可以给出元数据。 但是，可以使用工具的只有`:deprecated`和`:since`。 其他键将来也可能出现。
 
@@ -134,13 +134,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 此时显示的是下一个报告。
 
-[![exunit-diff.png](../Images/bf053111586a574b6536d8be41698417.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eSTW5x6c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://elixir-lang.org/images/contents/exunit-diff.png)
+[![exunit-diff.png](img/bf053111586a574b6536d8be41698417.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eSTW5x6c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://elixir-lang.oimg/contents/exunit-diff.png)
 
 [`assert/1`宏](https://hexdocs.pm/ex_unit/ExUnit.Assertions.html#assert/1)查看代码，取出当前文件和行以及操作数。 在此基础上，`assert`失败时，与堆栈跟踪一起显示数据结构的差分。
 
 但是，类似`assert some_function(expr1, var2)`的代码失败时，通常需要重新测试，调试或输出两个变量。 在 Elixir v1.7 中，“元素的”`assert`失败时，将输出各个参数的值(“[show arguments in ex unit reports for non-operator matches](https://github.com/elixir-lang/elixir/commit/eb5e809f10b4a24215d21cb109b506c2cf9f1761)) 例如，以下报告是简单的`assert some_vars(1 + 2, 3 + 4)`的情况。
 
-[![exunit-bare-assertion-diff.png](../Images/65dd15f7d7ad3351e4e659eab73b72b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4GVUmeNi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://elixir-lang.org/images/contents/exunit-bare-assertion-diff.png)
+[![exunit-bare-assertion-diff.png](img/65dd15f7d7ad3351e4e659eab73b72b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4GVUmeNi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://elixir-lang.oimg/contents/exunit-bare-assertion-diff.png)
 
 另外，[`doctest/2`](https://hexdocs.pm/ex_unit/master/ExUnit.DocTest.html#doctest/2)的失败会被彩色化并显示差异(参照“[Add diff to doctest](https://github.com/elixir-lang/elixir/pull/7585) ”)。
 

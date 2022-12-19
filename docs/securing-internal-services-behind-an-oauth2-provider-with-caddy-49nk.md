@@ -71,11 +71,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 在 Credentials 选项卡中，单击蓝色的 Create credentials 按钮并选择 OAuth client ID。
 
-[![screenshot](../Images/b42e09abe34174ec5a3a53e6d84a5e86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fO71eJcS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kmln.sr/cepfXYu)
+[![screenshot](img/b42e09abe34174ec5a3a53e6d84a5e86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fO71eJcS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kmln.sr/cepfXYu)
 
 应用程序类型将是 Web 应用程序。随你怎么命名，将`https://auth.int.domain.tld/login/google`添加到授权重定向 URIs 列表。**填写完字段后，不要立即点击创建。**单击页面上的任何其他位置将其添加到列表中，然后单击创建。愚蠢的 UX，我知道。但这是必要的。
 
-[![screenshot](../Images/d83ce02f9f318d5f525e5376c1a7c26e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Pcl0okKT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kmln.sr/CcTZauP)
+[![screenshot](img/d83ce02f9f318d5f525e5376c1a7c26e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Pcl0okKT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kmln.sr/CcTZauP)
 
 在接下来的页面上，您将看到一个弹出窗口，显示您的客户端 ID 和密码。把它们保存起来，因为我们以后会需要它们。
 

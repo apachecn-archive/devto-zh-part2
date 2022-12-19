@@ -2,9 +2,9 @@
 
 > 原文：<https://dev.to/amandasopkin/are-technical-interviews-a-good-measure-of-software-engineering-ability-1cp9>
 
-> ![Sarah Mei profile image](../Images/fe60add86914cfba2258b4088680d479.png)萨拉梅[@萨拉梅](https://dev.to/sarahmei)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)为什么我们一直做白板面试，即使他们很少告诉我们申请人在实际软件开发方面有多好？2015 年 3 月 20 日上午 00:37[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=578717024915947521)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=578717024915947521)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=578717024915947521)
+> ![Sarah Mei profile image](img/fe60add86914cfba2258b4088680d479.png)萨拉梅[@萨拉梅](https://dev.to/sarahmei)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)为什么我们一直做白板面试，即使他们很少告诉我们申请人在实际软件开发方面有多好？2015 年 3 月 20 日上午 00:37[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=578717024915947521)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=578717024915947521)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=578717024915947521)
 
-> ![Amy Hendrix profile image](../Images/c6a6f4b96f1b6ca2f21ba1910fd861a2.png)
+> ![Amy Hendrix profile image](img/c6a6f4b96f1b6ca2f21ba1910fd861a2.png)
 
 对于这样一个年轻的行业来说，技术面试已经走了很长的路。大约 10 年前，微软等公司给应聘者出了一个著名的脑筋急转弯，比如“为什么检修孔是圆的？”当这些问题被证明不能揭示候选人的能力时，这种做法就停止了。随后，公司向受访者提供一些琐事，包括几页 javascript 问题和关于各种语言的随机陈述。在很大程度上，今天的公司越来越关注平台和语言不可知的面试——旨在只显示特定人解决问题的能力。然而，这一过程仍然有其缺陷。
 
@@ -33,7 +33,7 @@
 
 然而，根据 interview . io(一个练习技术面试的平台)的一项研究，这些面试中的表现并不一定与工作表现密切相关。
 
-[![Study from interviewing.io](../Images/dc1eb35a77ccaef83e3301c706daa932.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--H6ZErSeV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wce1d2q69xbk5e2lngz9.png) 
+[![Study from interviewing.io](img/dc1eb35a77ccaef83e3301c706daa932.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--H6ZErSeV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wce1d2q69xbk5e2lngz9.png) 
 *技术面试表现[来源](http://blog.interviewing.io/technical-interview-performance-is-kind-of-arbitrary-heres-the-data/)*
 
 该网站发现，候选人的表现差异很大，只有大约 25%的候选人表现始终处于同一水平。即使是“强”的表现者，也有 22%的时间表现不佳。这些启示中更令人担忧的部分是一致性。一些“好”的候选人肯定会时不时地犯错，但只要“差”的候选人没有通过这个过程，那也没什么。但是如果只有四分之一的受访者是一致的，这说明了什么呢？它确实有改进的余地。
@@ -57,7 +57,7 @@
 
 出于某种原因，雇佣“精英中的精英”的想法在整个科技行业迅速传播开来。当我在大学时，作为我在学生团体中角色的一部分，我会见了招聘经理，讨论他们的招聘策略。这些招聘人员中的大多数都认同这种只寻找绝对最佳候选人的需求。虽然这种态度在管理层也有一席之地，但当我在学校时，我相信至少 70%的工科学生能够满足这些公司的工作要求。即使你要求高于平均水平的工程技能，保守估计，这些学生中有 35%能够在你提供的工作中表现出色。然而，他们仍然在讨论只雇佣前 1-5%的人。
 
-[![Elitest meme](../Images/e8e04849972b93a23c9005bd3727d61c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6wnS7XCw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1ml428u98nrwux8bxxyk.gif) 
+[![Elitest meme](img/e8e04849972b93a23c9005bd3727d61c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6wnS7XCw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1ml428u98nrwux8bxxyk.gif) 
 *精英企鹅[来源](https://giphy.com/gifs/O1RLonZ60LIIw)*
 
 精英们需要雇佣“前 5%”的工程师，随之而来的精英们认为那些通过这个过程的人是“前 5%”的一部分，这并没有考虑到面试中的随机因素。(这种心态与科技工作者因其技术技能而处于食物链顶端的想法相关。这种“技能差距”理论有自己的批评者。)寻找顶端的问题在于，正如采访中所显示的那样。io 即使是表现最好的人也必然会有 22%的时间搞砸！虽然我们愿意相信面试是客观的，但其他研究表明，这个过程的一些因素超出了我们的控制范围，比如我们在前 10 秒钟内与面试官建立联系的能力。
@@ -68,7 +68,7 @@
 
 除了系统性的改变，作为面试的工程师，重要的是要努力让候选人感到舒适，意识到我们的个人偏见，并放弃我们只能与 1%最聪明的工程师一起工作的信念。这些信念是有局限性的，从根本上说是错误的。正如我们所知，软件工程的工作多的是。
 
-[![Cats Typing](../Images/85ffa9a894a6faaa3e28c5ec20801e12.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2DWrOYom--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iyy6d87z1qfv6kyw3gxc.gif) 
+[![Cats Typing](img/85ffa9a894a6faaa3e28c5ec20801e12.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2DWrOYom--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iyy6d87z1qfv6kyw3gxc.gif) 
 *大量的编码要绕过[来源](https://giphy.com/gifs/reactionseditor-cat-typing-ule4vhcY1xEKQ)*
 
 在评论中分享对你的公司有用的东西吧！

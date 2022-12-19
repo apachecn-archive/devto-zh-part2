@@ -4,7 +4,7 @@
 
 正确估计一个 web 开发项目需要多长时间可以归结为两件事:能够**将项目分成小块**和**从你的经验中了解每个小块需要多长时间**。在这篇文章中，我将分享做这两件事的方法，以及如果你*没有那种经验可以借鉴的话该怎么做。*
 
-[![Stonehenge](../Images/b3d74ea744e4c09e813bac7122fa0924.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JVYhYeKO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/10/stonehenge.jpg)
+[![Stonehenge](img/b3d74ea744e4c09e813bac7122fa0924.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JVYhYeKO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raddevon.com/wp-content/uploads/2018/10/stonehenge.jpg)
 
 ## 需要估算时
 

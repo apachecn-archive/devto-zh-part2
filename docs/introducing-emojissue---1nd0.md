@@ -8,7 +8,7 @@
 
 表情符号是对 **Chrome** 和 **Firefox** 的浏览器扩展，可以让你轻松地在五个积极回应的 Github 问题评论之间导航。
 
-[![Usage GIF](../Images/47f2d0e1924fee312bedd3c619a053ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---U7wP8y2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1wnkatxigzxrlfma7mi1.gif)
+[![Usage GIF](img/47f2d0e1924fee312bedd3c619a053ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---U7wP8y2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1wnkatxigzxrlfma7mi1.gif)
 
 你只需要点击左下角的按钮，它会带你浏览前五个。
 

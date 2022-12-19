@@ -4,7 +4,7 @@
 
 *这次采访是为我们的[创业微服务](https://buttercms.com/books/microservices-for-startups/)电子书而做的。一定要去看看关于微服务的实用建议。感谢 Mike 的时间和投入！*
 
-[![](../Images/2d4a168fdf904a62b0567ea1edfe29d9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KXG9X8NH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/NS8Z9aX5QeF1zHLaUTDe) 
+[![](img/2d4a168fdf904a62b0567ea1edfe29d9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KXG9X8NH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/NS8Z9aX5QeF1zHLaUTDe) 
 *Mike Hu 是 [LogDNA](https://logdna.com/) 的工程主管，这是一个基于云的日志管理系统，允许工程和开发人员将所有系统和应用程序日志聚合到一个高效的平台中。*
 
 就背景而言，你的工程团队有多大？您是否正在使用微服务，能否概述一下您是如何使用它们的？

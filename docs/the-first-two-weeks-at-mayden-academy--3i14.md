@@ -6,7 +6,7 @@
 
 我们在第一周讲述了 HTML 和 CSS 的基础知识，包括模仿两个网页(一个是响应式的)来应用这些技能。第 2 周是关于开发人员的基本知识——想想 git、IDE 等等。真正令人兴奋的是，这包括 Scrum Master training，这是一个敏捷框架，业内许多工作场所都遵循它。看到一种新的工作方式令人耳目一新，虽然我的上一份工作给了我们相当大的自主权，但我迫不及待地想在一个使用 Scrum 的团队中工作。我们现在都是认证的 Scrum 大师——这意味着我们可以把这项新技能带到工作场所，并帮助他们实现 Scrum。我们还玩乐高，你无法与之竞争。
 
-[![](../Images/bcbc00748faa01ac1bb0709b5cd50d2b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2WUg0btW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yrhpjvc3kr6apeoxc6ae.jpg)
+[![](img/bcbc00748faa01ac1bb0709b5cd50d2b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2WUg0btW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yrhpjvc3kr6apeoxc6ae.jpg)
 
 接下来的一周，我们将从头到尾构建我们的第一个完整的网站-一个旨在展示我们所有进展和未来构建的组合网站。我 100%担心我将无法设计出基本框架之外的任何东西，但这些家伙已经很清楚我们不被期望成为设计师(毕竟，这是一门教我们如何编码的课程，而不是设计)。看别人作品集的时候还是忍不住觉得自己有点没用。
 

@@ -20,17 +20,17 @@
 
 ### 排列概念备忘单
 
-[![](../Images/03d76d431ef1abd049a3acda7c7c4b12.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E9z5AHCM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AJNK-n0Pt0Vbxk0lxVpgT5A.png)
+[![](img/03d76d431ef1abd049a3acda7c7c4b12.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E9z5AHCM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AJNK-n0Pt0Vbxk0lxVpgT5A.png)
 
 ### 组合概念备忘单
 
-[![](../Images/9f00eb7a250e7dfc08009935c00fad49.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---gWPRp-N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A7cFRn8jW4g_91YgDAbmxRQ.png)
+[![](img/9f00eb7a250e7dfc08009935c00fad49.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---gWPRp-N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A7cFRn8jW4g_91YgDAbmxRQ.png)
 
 ### 排列/组合算法备忘单
 
 如果你想实现排列和组合算法，你可能会发现下面的排列/组合算法备忘单很有用。
 
-[![](../Images/6cbbb9286755d13a2b164d72a85a6345.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G_B-omF1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AvLsSsZMnesCFPCYTYMbxrQ.png)
+[![](img/6cbbb9286755d13a2b164d72a85a6345.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G_B-omF1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AvLsSsZMnesCFPCYTYMbxrQ.png)
 
 ### JavaScript 中的组合和排列
 

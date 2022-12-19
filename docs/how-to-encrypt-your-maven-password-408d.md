@@ -23,7 +23,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 显然，像这样在明文文件中存储密码是愚蠢的。
 
-[![carpenter_1_md](../Images/0fe504f2a454f6a90d5dc9dd0ea2f0c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OEfeoIpQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://code.scottshipp.com/wp-content/uploads/2017/09/carpenter_1_md.gif)
+[![carpenter_1_md](img/0fe504f2a454f6a90d5dc9dd0ea2f0c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OEfeoIpQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://code.scottshipp.com/wp-content/uploads/2017/09/carpenter_1_md.gif)
 
 **如何加密和替换密码**
 要解决这个问题，请遵循以下步骤:

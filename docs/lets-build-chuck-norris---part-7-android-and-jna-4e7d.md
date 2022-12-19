@@ -319,7 +319,7 @@ Java 的口号之一是“写一次，到处跑” <sup id="fnref2">[2](#fn2)</s
 
 什么？查克·诺里斯*不能被阻止*，这是不可接受的！
 
-[![Chuck Norris punching the screen](../Images/614d32ecce5af126348a7ea11598906f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CEq3U4kN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dmerej.info/blog/pics/chuck-norris-punch.gif)
+[![Chuck Norris punching the screen](img/614d32ecce5af126348a7ea11598906f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CEq3U4kN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dmerej.info/blog/pics/chuck-norris-punch.gif)
 
 查看日志的时间:
 
@@ -436,7 +436,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们再试一次:
 
-[![Chuck Norris app running](../Images/1dccc69f482d8049e3aac44e19d9c21e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g-KjSXiV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/chuck-norris-android.png)
+[![Chuck Norris app running](img/1dccc69f482d8049e3aac44e19d9c21e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g-KjSXiV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/chuck-norris-android.png)
 
 胜利\o/
 

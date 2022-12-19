@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/couellet/webflow-e-commerce-vs-snipcart-review-tutorial-4pfh>
 
-[![Webflow E-Commerce vs. Snipcart: Review & Tutorial](../Images/4854c50b1461feb08d393a4a2534ade2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hORFQDUd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/205555/webflow-vs-snipcart.png)
+[![Webflow E-Commerce vs. Snipcart: Review & Tutorial](img/4854c50b1461feb08d393a4a2534ade2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hORFQDUd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/205555/webflow-vs-snipcart.png)
 
 如今，为你的网上商店选择电子商务解决方案可能是一件非常麻烦的事情。
 
@@ -35,7 +35,7 @@ Webflow 是这方面的先驱之一。
 
 ## 什么是 Webflow 电商？
 
-[![Webflow Shopping Cart](../Images/a94c62cfb250e054528933a39ea3547d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q4Z90cuw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://snipcart.com/media/205559/weblfowoptimized.gif)
+[![Webflow Shopping Cart](img/a94c62cfb250e054528933a39ea3547d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q4Z90cuw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://snipcart.com/media/205559/weblfowoptimized.gif)
 
 从核心来看， [Webflow](https://webflow.com/) 是一个一体化的网络构建平台。从这个意义上说，它提供了一个面向网页设计师的[无代码网站构建工具](https://medium.com/nocode/what-is-no-code-8c53f0e4c083)。
 
@@ -55,7 +55,7 @@ Webflow 是这方面的先驱之一。
 
 ## 什么是 Snipcart？
 
-[![Snipcart Shopping Cart](../Images/90f886a4442abde45c985245e6836e9b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q62156Mr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://snipcart.com/media/205561/over-viewsnipcartoptimized.gif)
+[![Snipcart Shopping Cart](img/90f886a4442abde45c985245e6836e9b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q62156Mr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://snipcart.com/media/205561/over-viewsnipcartoptimized.gif)
 
 Snipcart 是一个灵活的购物车，开发者可以在几分钟内轻松集成到任何网站。
 

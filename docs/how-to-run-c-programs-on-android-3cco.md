@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bauripalash/how-to-run-c-programs-on-android-3cco>
 
-[![](../Images/f846682072b6ae673a82b4fe82d4e2b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DTvPIkOT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://palash.tk/assets/images/conandroid.png)
+[![](img/f846682072b6ae673a82b4fe82d4e2b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DTvPIkOT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://palash.tk/asseimg/conandroid.png)
 
 c 是一种众所周知的编程语言，由 Dennis Ritchie 于 1969 年至 1973 年间在 T2 贝尔实验室创造，从那时起，它就成为了有史以来使用最广泛的编程语言之一。
 
@@ -10,7 +10,7 @@ c 是一种众所周知的编程语言，由 Dennis Ritchie 于 1969 年至 1973
 
 这种语言已经可以在非常广泛的平台上使用，从嵌入式微控制器到 T2 超级计算机。
 
-[![The C Programming](../Images/43dd4997616bc43a1cddeea9c1a7ccbd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Pf59Vf7p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/452px-The_C_Programming_Language_logo.svg.png)
+[![The C Programming](img/43dd4997616bc43a1cddeea9c1a7ccbd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Pf59Vf7p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/452px-The_C_Programming_Language_logo.svg.png)
 
 > Android 基于 Linux 内核，因此在 Android 上编译和运行 C/C++程序是完全可能的。
 
@@ -33,7 +33,7 @@ CXXDroid 由 IIEC 开发，是完全成熟的 Android C/c++集成开发环境。
 *   C/C++解释器(REPL)
 *   代码示例
 
-[![CXXDroid - Run C programs on Android](../Images/f1f38bd1a1a58c428a55d8aab6323c01.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ms9xcrJ---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://fsgh.palash.tk/imgs/cxxdroid.jpg)
+[![CXXDroid - Run C programs on Android](img/f1f38bd1a1a58c428a55d8aab6323c01.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ms9xcrJ---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://fsgh.palash.tk/imgs/cxxdroid.jpg)
 
 来自 Play Store 的 cxx droid
 {:。crtx}
@@ -51,7 +51,7 @@ CppDroid 由 Anton Smirnov 开发，是一个非常著名的 Android C/c++集成
 *   自动缩进
 *   主题
 
-[![CppDroid - Run C & Cpp programs on Android](../Images/96328d965a63316ad94e2e407c7d7510.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PBZYthVK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://fsgh.palash.tk/imgs/cppdroid.jpg)
+[![CppDroid - Run C & Cpp programs on Android](img/96328d965a63316ad94e2e407c7d7510.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PBZYthVK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://fsgh.palash.tk/imgs/cppdroid.jpg)
 
 来自 Play Store 的 CPP droid
 {:。crtx}
@@ -68,7 +68,7 @@ Termux，在我们之前的文章中也提到过的一体化解决方案， [Pyt
 
 正如前一篇文章中提到的，这是一个 Android 终端模拟器，这意味着在它的帮助下，我们可以运行任何 linux(几乎任何😉)安卓上的程序。
 
-[![editing C scripts in vim](../Images/5d0509baeb832df23d3b1a644b36c40f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bSgEM5b9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://termux.com/files/vim-main_framed.png)
+[![editing C scripts in vim](img/5d0509baeb832df23d3b1a644b36c40f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bSgEM5b9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://termux.com/files/vim-main_framed.png)
 
 termux.com
 {:。crtx}

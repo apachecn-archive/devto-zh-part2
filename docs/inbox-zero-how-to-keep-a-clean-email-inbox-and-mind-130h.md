@@ -40,7 +40,7 @@
 
 <figure>
 
-[![](../Images/d4d7e1fb9582ed7cc67b7e5f21be97fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--735SROEz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgflip.com/2jal8p.jpg)
+[![](img/d4d7e1fb9582ed7cc67b7e5f21be97fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--735SROEz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgflip.com/2jal8p.jpg)
 
 <figcaption>It's as easy as that.</figcaption>
 
@@ -97,7 +97,7 @@
 
 <figure>
 
-[![](../Images/d3c2e5f1fe5c6367d38416a2c21e4088.png)T2】](https://i.giphy.com/media/jxbEDj1Ef78CdcTmWG/giphy.gif)
+[![](img/d3c2e5f1fe5c6367d38416a2c21e4088.png)T2】](https://i.giphy.com/media/jxbEDj1Ef78CdcTmWG/giphy.gif)
 
 <figcaption>Gladly archive all your inbox. 👌 (Now.)</figcaption>
 

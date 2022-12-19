@@ -47,7 +47,7 @@ Katalon Studio 是一个集成环境，用于生成和执行 API、基于 Web �
 
 ## 对比 SoapUI vs Postman，Katalon Studio
 
-[![SoapUI vs Postman, Katalon Studio](../Images/cafacff85cc314621ba82266a185e928.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--28Dka-il--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2018/10/01114452/Artboard-1-1024x912.png)
+[![SoapUI vs Postman, Katalon Studio](img/cafacff85cc314621ba82266a185e928.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--28Dka-il--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2018/10/01114452/Artboard-1-1024x912.png)
 
 **REST 和 SOAP** 是占主导地位的 API 类型，根据[API 集成报告](https://jaxenter.com/state-of-api-integration-report-136342.html)的统计，它们占所有 API/Web 服务的 95%以上。Katalon Studio 和 SoapUI 支持 REST 和 SOAP APIs，而 Postman 只处理 REST 请求。应该注意的是，绝大多数 API 实现(83%)遵循 REST 协议。
 

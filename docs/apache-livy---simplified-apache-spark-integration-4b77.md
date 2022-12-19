@@ -12,7 +12,7 @@ Cloudera 最初构建 Livy 是为了通过提供一个可以轻松提交和监�
 
 ### 阿帕奇李维架构
 
-[![](../Images/d9002621b752454ad26836b1435f8b4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DOK3o6MA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.io/images/posts/2018-03-24/apache_livy_architecture.svg)
+[![](img/d9002621b752454ad26836b1435f8b4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DOK3o6MA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://risdenk.github.img/posts/2018-03-24/apache_livy_architecture.svg)
 
 ### 与 Apache Livy 整合
 

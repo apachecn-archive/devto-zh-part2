@@ -2,13 +2,13 @@
 
 > 原文：<https://dev.to/holmeshe/understanding-the-memcached-source-code---slab-iii-3h8l>
 
-[![](../Images/7c4eac2443aa17f5de9f0e916c990eac.png) slab 分配器(I，](https://dev.to/holmeshe/understanding-the-memcached-source-code---slab-i-165h) [ II，](https://dev.to/holmeshe/understanding-the-memcached-source-code---slab-ii-2kc3)III——本文)是缓存系统的核心模块，它在很大程度上决定了瓶颈资源——内存的利用效率。其他 3 个部分，即:
+[![](img/7c4eac2443aa17f5de9f0e916c990eac.png) slab 分配器(I，](https://dev.to/holmeshe/understanding-the-memcached-source-code---slab-i-165h) [ II，](https://dev.to/holmeshe/understanding-the-memcached-source-code---slab-ii-2kc3)III——本文)是缓存系统的核心模块，它在很大程度上决定了瓶颈资源——内存的利用效率。其他 3 个部分，即:
 
-[![](../Images/d6aed08203351c706eec17806267e7b8.png) LRU 算法(I ](https://holmeshe.me/understanding-memcached-source-code-IV/) [，II)](https://holmeshe.me/understanding-memcached-source-code-V/) 为条目到期；和一个
+[![](img/d6aed08203351c706eec17806267e7b8.png) LRU 算法(I ](https://holmeshe.me/understanding-memcached-source-code-IV/) [，II)](https://holmeshe.me/understanding-memcached-source-code-V/) 为条目到期；和一个
 
-[![](../Images/490f5358184017957ba4e8a0cf607710.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tzc6mlU3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/v1/../gallery/club.svg) 基于 libevent 的事件驱动模型(不完整)；和
+[![](img/490f5358184017957ba4e8a0cf607710.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tzc6mlU3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/v1/../gallery/club.svg) 基于 libevent 的事件驱动模型(不完整)；和
 
-[![](../Images/06e0627871e52e5e85a37c2488182acf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--g3N4Oenm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/v1/../gallery/diamond.svg) 对数据分布一致苛刻(不完整)、
+[![](img/06e0627871e52e5e85a37c2488182acf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--g3N4Oenm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/v1/../gallery/diamond.svg) 对数据分布一致苛刻(不完整)、
 
 都是围绕着它建立的。
 

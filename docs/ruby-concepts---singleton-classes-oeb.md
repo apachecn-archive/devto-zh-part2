@@ -81,7 +81,7 @@ succulent.smolder
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Our succulent](../Images/3e940ee977b61252234978cd679187ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---cmx150_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assertnotmagic.com/img/singleton-succulent.jpg)
+[![Our succulent](img/3e940ee977b61252234978cd679187ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---cmx150_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assertnotmagic.com/img/singleton-succulent.jpg)
 
 但是当我们在`willy`或`momo`上调用`smolder`时，会发生一些不同的事情！
 
@@ -92,7 +92,7 @@ momo.smolder
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Momo is our cat](../Images/6d1ba5df27619912c94d2dc6f9777fbb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--enR-nMr3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assertnotmagic.com/img/singleton-momo.jpg)T3】
+[![Momo is our cat](img/6d1ba5df27619912c94d2dc6f9777fbb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--enR-nMr3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assertnotmagic.com/img/singleton-momo.jpg)T3】
 
 ```
 willy.smolder
@@ -101,7 +101,7 @@ willy.smolder
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Willy is our dog](../Images/9b8ae1ff8ae5f831a35d84bb028e4856.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GKX85EY8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assertnotmagic.com/img/singleton-willy.jpg)
+[![Willy is our dog](img/9b8ae1ff8ae5f831a35d84bb028e4856.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GKX85EY8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assertnotmagic.com/img/singleton-willy.jpg)
 
 那么，这是如何工作的呢？我们是否为每只宠物重新定义了`smolder`？帮我一个忙，看看下面的输出:
 

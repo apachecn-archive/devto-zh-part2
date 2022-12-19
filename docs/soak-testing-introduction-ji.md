@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/katalon/soak-testing-introduction-ji>
 
-[![Soak Testing](../Images/6232f1be812484d30f7c0c3200127621.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rycI7QKh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2018/08/13173431/soak-testing.png)
+[![Soak Testing](img/6232f1be812484d30f7c0c3200127621.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rycI7QKh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2018/08/13173431/soak-testing.png)
 
 ## 简介
 

@@ -6,7 +6,7 @@
 
 我在专业软件开发工作中熬过了一年——万岁！
 
-[![](../Images/5eb94115fdf3a2e35de8bda1d861e446.png)T2】](https://i.giphy.com/media/hZj44bR9FVI3K/giphy.gif)
+[![](img/5eb94115fdf3a2e35de8bda1d861e446.png)T2】](https://i.giphy.com/media/hZj44bR9FVI3K/giphy.gif)
 
 我觉得在从一年的计算机科学转换项目中直接出来，投入到软件工程工作一年后，回忆我自己的个人经历可能有一些价值。我很幸运地被一家公司录用了，从那以后，这是一条漫长而繁荣的道路。
 
@@ -30,7 +30,7 @@
 
 为了你自己和你同事的健康，如果可以的话，不要在生产中测试代码。
 
-[![](../Images/c0184ff14d3917d6217d5b40e1dd078f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--48C6ZPSd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://memegenerator.net/img/instances/68965818.jpg)
+[![](img/c0184ff14d3917d6217d5b40e1dd078f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--48C6ZPSd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://memegenerator.net/img/instances/68965818.jpg)
 
 你需要确保你提交的代码符合某种产品质量标准，具有*高水平的测试覆盖率*和体面的*文档*。这是有益的，原因有很多:
 
@@ -58,13 +58,13 @@
 
 这些经历只是我一路走来遇到的少数个人经历，所有这些经历当时都让我抓狂，但从每一次经历中，我都学到了很多，并调整了自己的个人调试方法。如果你没有听说过它，你需要去看看 ***橡皮鸭调试*** 。
 
-[![](../Images/8d14dca26ff1b6da534e9c1cacea5868.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tRcwGuhn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://hackerboss.com/wp/wp-content/uploads/2009/08/rubber-duck-debugging.jpg)
+[![](img/8d14dca26ff1b6da534e9c1cacea5868.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tRcwGuhn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://hackerboss.com/wp/wp-content/uploads/2009/08/rubber-duck-debugging.jpg)
 
 但是软件工程的核心是解决问题。作为初级开发人员，如果你不犯错误，你就不会学到东西。重要的是，只有在你需要的时候，才尝试寻求帮助。在向更资深的开发人员寻求难题大师的建议之前，不要害怕正面解决问题。你不会因为得到了答案而变得更擅长解谜，你会因为接触到它们并调整你的思维去解决它们而变得更好。
 
 ### 大三&大四差不了那么多…
 
-[![](../Images/66bf5f82d8afab12852ea887dc151b10.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mBHhErdU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://scontent-lax3-1.cdninstagram.com/vp/301e9d9db4944fecf45de75d1863eeb6/5C046797/t51.2885-15/e35/s480x480/38904439_194279941296056_1112725133316849664_n.jpg)
+[![](img/66bf5f82d8afab12852ea887dc151b10.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mBHhErdU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://scontent-lax3-1.cdninstagram.com/vp/301e9d9db4944fecf45de75d1863eeb6/5C046797/t51.2885-15/e35/s480x480/38904439_194279941296056_1112725133316849664_n.jpg)
 
 我在这里的观点是，尽管花费了大约 4 年的时间从事独立项目或与大学相关的材料，毕业的开发人员都很快将自己贴上了“大三学生”的标签。试着不要认为自己是一个初级开发人员，而是把注意力放在如何成为一个更好的开发人员上
 
@@ -88,11 +88,11 @@
 
 *   你将会花费一生的时间来等待连续的流水线、代码编译和许多其他有趣的过程完成。关键是要围绕这些潜在的时间下沉仔细计划你的时间。
 
-[![](../Images/698e1af7e6dfc15fc51a5455c5780191.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---hYgwS8R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/7WtCtRw.jpg)
+[![](img/698e1af7e6dfc15fc51a5455c5780191.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---hYgwS8R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/7WtCtRw.jpg)
 
 *   Git 可能是个苛刻的情妇。熟悉使用 git 来做一些事情是很有价值的，比如重新设置提交基准来整理您的 PRs，这样您就不会有长的提交历史链和重复的提交消息或更糟的情况。值得花时间阅读 git 文档，练习跨多个分支工作和基于提交。像 git stash 和 git stash pop 这样的命令也非常有用。
 
-[![](../Images/fbf3619053bba7a2b2171d5b96cb8fc3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PF-MonEv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgs.xkcd.com/comics/git_commit.png)
+[![](img/fbf3619053bba7a2b2171d5b96cb8fc3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PF-MonEv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgs.xkcd.com/comics/git_commit.png)
 
 *   比较可能是有害的。尽量不要将你的每周产出与你更有经验的同事进行比较。努力跟上精英中的精英是很自然的事情，但是一开始你需要接受你可能需要以稍微慢一点的速度工作，这是完全可以的。开发人员认为一些知识是理所当然的，当传递工作时，他们经常会忘记他们已经做了 101 次的事情实际上前 4 或 5 次是非常棘手的。人们不会知道你的局限性，除非你能说出它们。这可能会很棘手，取决于你的工作环境，但如果你工作的公司有善解人意的同事和积极的工作环境，你应该可以自由地大声说出你无法在分配的时间内完成任务，或者你可能需要一些关于某项任务的结对编程帮助。
 

@@ -4,7 +4,7 @@
 
 “生活就像骑自行车。为了保持平衡，你必须不断前进。”—阿尔伯特·爱因斯坦。
 
-[![Credit: https://unsplash.com/photos/_UeY8aTI6d0](../Images/350738b478b479b31304e901be547770.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--88EkNGNM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1484807352052-23338990c6c6%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D6f3cb0473315ed1eca1b47d280bb2ab1%26auto%3Dformat%26fit%3Dcrop%26w%3D2700%26q%3D80)
+[![Credit: https://unsplash.com/photos/_UeY8aTI6d0](img/350738b478b479b31304e901be547770.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--88EkNGNM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1484807352052-23338990c6c6%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D6f3cb0473315ed1eca1b47d280bb2ab1%26auto%3Dformat%26fit%3Dcrop%26w%3D2700%26q%3D80)
 
 ## 背景
 
@@ -24,7 +24,7 @@
 
 我通过了考试，得到了这份工作。我拿到了协议，签了字，然后“噗”的一声，我被聘为开发人员。我从看视频和阅读有关软件开发的书籍开始，利用自学的知识找到了一份开发人员的工作。我非常自豪，这种感觉太棒了。
 
-[![Test:](../Images/988461a7e9e4c2c7d459a73e36f35d64.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nUBJ4K6p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1444850264539-b1371b0d28e1%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3Da20b147796b736ee6c42e1b94797d3f2%26auto%3Dformat%26fit%3Dcrop%26w%3D1567%26q%3D80)
+[![Test:](img/988461a7e9e4c2c7d459a73e36f35d64.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nUBJ4K6p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1444850264539-b1371b0d28e1%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3Da20b147796b736ee6c42e1b94797d3f2%26auto%3Dformat%26fit%3Dcrop%26w%3D1567%26q%3D80)
 
 ## 我是怎么做到的
 

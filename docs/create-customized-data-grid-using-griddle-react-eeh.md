@@ -82,7 +82,7 @@ Griddle 有一些传递给它的属性。需要`data`、`currentPage`、`pageSiz
 
 **styleConfig:** 包含所有的样式选项，包括每个组件的类名。
 
-[![](../Images/ceb6af2010aba68704cd8fc8f8db322f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8rkCQjza--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/reactninja.io/wp-content/uploads/2018/08/img_5b8843791099d.png%3Fssl%3D1)
+[![](img/ceb6af2010aba68704cd8fc8f8db322f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8rkCQjza--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/reactninja.io/wp-content/uploads/2018/08/img_5b8843791099d.png%3Fssl%3D1)
 
 必须定义 onNext、onPrevious、onGetPage 操作，这些操作才能起作用。
 
@@ -94,16 +94,16 @@ Griddle 有一些传递给它的属性。需要`data`、`currentPage`、`pageSiz
 
 **_ on previous:**fakeLoadDataFromAPI(current page–1，pageSize，this.updateTableState)
 
-[![](../Images/dc1fe12aada42f53dccca8e67efd739b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M8pxSYjL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/reactninja.io/wp-content/uploads/2018/08/previous_next.png%3Fresize%3D1572%252C600%26ssl%3D1)
+[![](img/dc1fe12aada42f53dccca8e67efd739b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M8pxSYjL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/reactninja.io/wp-content/uploads/2018/08/previous_next.png%3Fresize%3D1572%252C600%26ssl%3D1)
 
 但是如果您选择页码而不是上一页/下一页，它会使用`onGetPage`来加载特定的页面。
 
-[![](../Images/a0bd57b400152d2f044b71a4ba7f2458.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0scLCGY---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/reactninja.io/wp-content/uploads/2018/08/get_page.png%3Fresize%3D1528%252C360%26ssl%3D1)
+[![](img/a0bd57b400152d2f044b71a4ba7f2458.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0scLCGY---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/reactninja.io/wp-content/uploads/2018/08/get_page.png%3Fresize%3D1528%252C360%26ssl%3D1)
 
 与下一个/上一个一样，数据从`fakeLoadAPI`开始操作，状态从`updateTableState`开始设置。
 
 现在，我们有了一个带有分页和过滤器的工作表。
 
-[![](../Images/1154e5f1390976d06cae9cbec7556174.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--bDZOdVMN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/reactninja.io/wp-content/uploads/2018/08/img_5b884a4d355b4.png%3Fresize%3D398%252C281%26ssl%3D1) [ ![](../Images/8c4b21f1fe1f6bf316f970f9d0816a20.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--p2co8lT5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/reactninja.io/wp-content/uploads/2018/08/img_5b884b15440aa.png%3Fresize%3D398%252C196%26ssl%3D1)
+[![](img/1154e5f1390976d06cae9cbec7556174.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--bDZOdVMN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/reactninja.io/wp-content/uploads/2018/08/img_5b884a4d355b4.png%3Fresize%3D398%252C281%26ssl%3D1) [ ![](img/8c4b21f1fe1f6bf316f970f9d0816a20.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--p2co8lT5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/reactninja.io/wp-content/uploads/2018/08/img_5b884b15440aa.png%3Fresize%3D398%252C196%26ssl%3D1)
 
 帖子[使用 griddle-react](https://reactninja.io/2018/09/02/create-customized-data-grid-using-griddle-react/) 创建定制数据网格最早出现在[react inja](https://reactninja.io)上。

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/cwetanow/my-top-dev-podcasts-4ffo>
 
-[![](../Images/4ac0c6b3322f94a84690b0b7462b094f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Uu00Wk_4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/playlists/playlist_399/podcast_lover_1200x627.jpg%3Fquality%3D89%26w%3D800)
+[![](img/4ac0c6b3322f94a84690b0b7462b094f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Uu00Wk_4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/playlists/playlist_399/podcast_lover_1200x627.jpg%3Fquality%3D89%26w%3D800)
 
 有很长一段时间，我在想，当一个人在做家务、乘坐公共交通工具或其他不用动脑的活动时，他/她能做些什么来提高效率。所以我决定尝试一下播客。不用说，我从一开始就被迷住了。
 最初我从几个播客开始，随着时间的推移，我的列表中现在有超过 50 个播客，涉及不同的主题——软件开发、健身、金融、生产力、企业家精神、投资等等。

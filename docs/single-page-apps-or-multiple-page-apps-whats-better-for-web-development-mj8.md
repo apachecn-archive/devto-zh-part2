@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ryanmiller/single-page-apps-or-multiple-page-apps-whats-better-for-web-development-mj8>
 
-[![Single-Page Apps or Multiple-Page Apps](../Images/e1844ba88220f3453bf7e3fd5312ebfa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nh6nzfn---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/DX4Wn9y.png) 
+[![Single-Page Apps or Multiple-Page Apps](img/e1844ba88220f3453bf7e3fd5312ebfa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nh6nzfn---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/DX4Wn9y.png) 
 单页应用程序，更广为人知的名称是 SPAs，目前在 web 应用程序开发领域非常流行。大多数企业都在谈论它，开发人员也在探索它，以便围绕它提出更好的想法和见解。但与此同时，优秀的老式多页面应用程序(MPAs)表现稳定。
 如果你比较两者在市场上的权威、价值和影响力，在目前的情况下，两者在比例上几乎相等。那么，你如何发现哪一个更适合 web 开发呢？好吧，在我们进一步剖析和比较它们不同的效用和价值参数之前，让我们先了解一下当你说单页应用和多页应用时它实际上意味着什么。
 

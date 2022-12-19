@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/hasurahq/import-your-existing-postgres-database-and-get-a-graphql-backend-with-access-control-5ck6>
 
-[![](../Images/fa996263d3718cdd41a5b48dc8b36fd3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KQFM2KUU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/2019/01/0-zW6_54PZ8WTmzijL.png)
+[![](img/fa996263d3718cdd41a5b48dc8b36fd3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KQFM2KUU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/2019/01/0-zW6_54PZ8WTmzijL.png)
 
 如果你正在使用 [Postgres](https://hasura.io/learn/database/postgresql/introduction/) (比如说作为你后端栈的一部分，比如 Ruby on Rails，Django)，你可以很容易地在你现有的数据库上用 Hasura GraphQL 引擎测试 GraphQL APIs。
 

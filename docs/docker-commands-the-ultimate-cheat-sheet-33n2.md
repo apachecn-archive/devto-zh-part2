@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nickparsons/docker-commands-the-ultimate-cheat-sheet-33n2>
 
-[![](../Images/08edc19c5965b298a6bc70076a1c0162.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S7vrEZM9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AZtB3bSD2qOkRT3xJ_5gDQg.jpeg)
+[![](img/08edc19c5965b298a6bc70076a1c0162.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S7vrEZM9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AZtB3bSD2qOkRT3xJ_5gDQg.jpeg)
 
 如果您还不知道，Docker 是一个使用“容器化”构建分布式软件的开源平台，它将应用程序与它们的环境打包在一起，使它们更易于移植和部署。
 

@@ -18,7 +18,7 @@
 
 **1。WordPress 主机**
 
-[![](../Images/ae0502f9d207acb20b854a36571fcc05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1HWFzWv6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5dqoor8284gnsatvi3q5.png)
+[![](img/ae0502f9d207acb20b854a36571fcc05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1HWFzWv6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5dqoor8284gnsatvi3q5.png)
 
 没有一个高质量的虚拟主机，获得一个快速的网站几乎是不可能的。对于 WordPress 主机，我认为有两种情况:
 
@@ -30,7 +30,7 @@
 
 **2。WordPress 主题**
 
-[![](../Images/5e6db520d2362ebc61908855d439b900.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Sz5NA-23--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qxczu5wg33rx1opfh5mh.png)
+[![](img/5e6db520d2362ebc61908855d439b900.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Sz5NA-23--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qxczu5wg33rx1opfh5mh.png)
 
 你的主题是你 WordPress 网站的基础。如果它对美观很重要，那么它对网站的加载速度和代码质量也很重要。WordPress 是世界上使用最多的内容管理系统，拥有数量惊人的主题(这是它的优势)。但是这种多样性是一把双刃剑！也有很多主题在纸上看起来很漂亮，但编码很差，只会减慢你的网站。
 
@@ -38,7 +38,7 @@
 
 **3。WordPress 缓存插件**
 
-[![](../Images/9f3222a67d2ec6b5e9e8e497b27c6e81.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KLHMTryn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vmspyl808jyswdpb0z4p.png)
+[![](img/9f3222a67d2ec6b5e9e8e497b27c6e81.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KLHMTryn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vmspyl808jyswdpb0z4p.png)
 
 WordPress 也有一整套缓存插件(或多或少质量不错)，允许你激活我在指南中告诉你的不同东西，比如:
 
@@ -53,13 +53,13 @@ WordPress 也有一整套缓存插件(或多或少质量不错)，允许你激�
 
 **4。WordPress CDN**
 
-[![](../Images/eb824798743c2b7f5889e6894e0d9f1a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oomgToNs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8yqzs516h1lukuoyukju.png)
+[![](img/eb824798743c2b7f5889e6894e0d9f1a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oomgToNs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8yqzs516h1lukuoyukju.png)
 
 内容交付网络(CDN)主要用于有效地传播网站的内容，无论访问者在世界的任何地方。网络的服务器分布在世界各地，访问者总会有一个离他很近的点，可以更快地提供内容，减少下载时间(延迟)。
 
 **5。WordPress 插件**
 
-[![](../Images/602a9e09407b7c734cc44d67ac7f34ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DagAgx_W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vip7f6w0uectqdtcosx7.png)
+[![](img/602a9e09407b7c734cc44d67ac7f34ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DagAgx_W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vip7f6w0uectqdtcosx7.png)
 
 插件很棒，但是不要过度使用。每个插件不仅会降低你的 WordPress 网站的安全性，更重要的是会降低它的性能。这就是为什么我只能建议你只保留那些对你来说真正必要的东西。
 

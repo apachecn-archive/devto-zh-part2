@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/committedsw/hack-accessing-time-machine-backups-1m7n>
 
-[![james newcombe 350779 unsplash](../Images/19f572676296ed6f07560e19af2b9af9.png)T2】](///static/james-newcombe-350779-unsplash-3113aff4808b7b313d5c5777f499e9ba-7a1db.jpg)
+[![james newcombe 350779 unsplash](img/19f572676296ed6f07560e19af2b9af9.png)T2】](///static/james-newcombe-350779-unsplash-3113aff4808b7b313d5c5777f499e9ba-7a1db.jpg)
 
 macOS 备份的自然选择是使用 Time Machine 输出到外部设备。为了保护数据，备份磁盘被加密，并且每个备份被独立加密。这都是时间机器的标准功能。
 

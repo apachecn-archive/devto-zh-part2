@@ -220,7 +220,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 不过不用担心，我们很快就会添加一个 JSON 端点。
 
-[![Router Error](../Images/1911de90cce3f755c0f9b8669b2427a6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cCQKgSFP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lobotuerto.com/blog/building-a-json-api-with-phoenix-and-elixir/phoenix-router-error.png)
+[![Router Error](img/1911de90cce3f755c0f9b8669b2427a6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cCQKgSFP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lobotuerto.com/blog/building-a-json-api-with-phoenix-and-elixir/phoenix-router-error.png)
 
 ## 404s 和 500s 的 JSON 错误
 

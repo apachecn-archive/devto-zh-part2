@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/spirodonfl/how-to-wage-cold-war-on-your-developers--17n0>
 
-[![developer cold war](../Images/c7eeb786f17db206552d1ad8c6ee1046.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sCZ8TNnK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mssm83yx4sawkeys200k.png)
+[![developer cold war](img/c7eeb786f17db206552d1ad8c6ee1046.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sCZ8TNnK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mssm83yx4sawkeys200k.png)
 
 在整篇文章之前，我想先说一下我的轶事经历。并不是每个人或每个公司都按照将要描述的方法运作。但是如果你想知道如何让你的开发人员退避三舍，因为他们无法忍受和你一起工作或者为你工作，那么这篇文章应该可以提供一些思路。
 

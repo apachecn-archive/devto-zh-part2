@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/piotroxp/three-appalling-cases-of-bad-development--44k>
 
-[![test](../Images/8f9cb3a5210fc04a68d0943b5ed5b813.png "brain")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RC_mgtq2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.ssl2buy.com/wiki/wp-content/uploads/2015/12/encryption-vs-hashing.png)
+[![test](img/8f9cb3a5210fc04a68d0943b5ed5b813.png "brain")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RC_mgtq2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.ssl2buy.com/wiki/wp-content/uploads/2015/12/encryption-vs-hashing.png)
 
 # A base64 in base64 in base64
 

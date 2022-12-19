@@ -14,7 +14,7 @@
 
 **异步**的模式
 
-[![](../Images/53824dcedecffd144fe528a02202fdc7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_dwz7o9R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7ybpov5zmmcs71nm9pwt.png)
+[![](img/53824dcedecffd144fe528a02202fdc7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_dwz7o9R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7ybpov5zmmcs71nm9pwt.png)
 
 代码示例:
 
@@ -26,7 +26,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 **延期**的方案
 
-[![](../Images/377e359776de754bbf3f968270fecf31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3FL1M9qZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0ni4se2n04s32192ho6z.png)
+[![](img/377e359776de754bbf3f968270fecf31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3FL1M9qZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0ni4se2n04s32192ho6z.png)
 
 代码示例:
 
@@ -40,7 +40,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 所以你不必加载这两种形式，虽然这很有用，但是如果你没有在代码中添加任何可以恢复 JS 资源的东西，它会在加载的同时运行。
 
-[![](../Images/0fb40decd9db17fed82d2fbb746dfaf1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hEo8gQAR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y4q7gdgjsuko0y217c8c.png)
+[![](img/0fb40decd9db17fed82d2fbb746dfaf1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hEo8gQAR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y4q7gdgjsuko0y217c8c.png)
 
 *   **学分**
 

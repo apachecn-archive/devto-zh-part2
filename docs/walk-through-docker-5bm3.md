@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/samsha1/walk-through-docker-5bm3>
 
-[![Go Inside Docker](../Images/549add2a5ce3649b0e2d711b3822afc9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DrxYQQgw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://loige.co/content/images/2014/Jun/dockerize-go-app.png)
+[![Go Inside Docker](img/549add2a5ce3649b0e2d711b3822afc9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DrxYQQgw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://loige.co/conteimg/2014/Jun/dockerize-go-app.png)
 
 ## Docker 是什么？
 

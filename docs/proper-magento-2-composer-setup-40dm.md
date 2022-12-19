@@ -16,7 +16,7 @@
 
 也就是说，我们会想要这样的图像。
 
-[![Setup repository structure](../Images/9a31295569e2b3eecf8392c950cc5c10.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--abYRKh4y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/msrqkgehfppic5j1vi1a.png)
+[![Setup repository structure](img/9a31295569e2b3eecf8392c950cc5c10.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--abYRKh4y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/msrqkgehfppic5j1vi1a.png)
 
 在安装完所有外部依赖项和 Magento 2 项目文件后，我们还会在本地看到相同的结果。
 
@@ -30,7 +30,7 @@ composer require magento/project-community-edition
 
 这种配置本身是不够的，因为您最终会在本地得到类似的东西。
 
-[![image wrong local setup](../Images/d2ba94104b4c3c73a7dd1397cf61247d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ve1YbcAc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4hdyuv4q57uvc1zmua20.png)
+[![image wrong local setup](img/d2ba94104b4c3c73a7dd1397cf61247d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ve1YbcAc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4hdyuv4q57uvc1zmua20.png)
 
 正如您所看到的，在您的项目根目录中安装了许多 Magento 文件。只有红色的部分来自项目资源库。这个解决方案对我们来说是无效的，因为开发人员不能清楚地看到哪些文件在版本控制下，哪些文件是由 composer 安装的。`.gitignore`也很复杂，因为你需要忽略由 composer 从供应商文件夹中安装的几个单独的文件。
 
@@ -107,7 +107,7 @@ composer require magento/project-community-edition
 
 太好了！不是吗？现在，本地安装看起来更加整洁，与我们的存储库完全相同。
 
-[![image repo vs local](../Images/d743eeeaf9be3cb7d049d6a59e2b15c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WS7nFy5Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m60bbx3n8j2k4ukefoei.png)
+[![image repo vs local](img/d743eeeaf9be3cb7d049d6a59e2b15c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WS7nFy5Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m60bbx3n8j2k4ukefoei.png)
 
 ## 额外提示:
 
@@ -139,7 +139,7 @@ composer require magento/project-community-edition
 
 ### 项目结构
 
-[![image clean local before composer install](../Images/ecda2c958d7b7b2dade36650d990cc0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3kh8FLM6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4u73br9ls7g5k5lug06p.png)
+[![image clean local before composer install](img/ecda2c958d7b7b2dade36650d990cc0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3kh8FLM6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4u73br9ls7g5k5lug06p.png)
 
 ### magento.symlinks
 

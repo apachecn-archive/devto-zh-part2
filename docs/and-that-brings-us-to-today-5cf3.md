@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/dealeron/and-that-brings-us-to-today-5cf3>
 
-<figure>[![](../Images/7d07771071ea12e7e0fc9193896d4ab3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--a8Ls606x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AW92cCNO0ie8HqI51UYwveQ.png) 
+<figure>[![](img/7d07771071ea12e7e0fc9193896d4ab3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--a8Ls606x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AW92cCNO0ie8HqI51UYwveQ.png) 
 
 <figcaption>DealerOn 游说</figcaption>
 
@@ -12,7 +12,7 @@
 
 将时钟拨回到 2012-2013 年左右，你会发现年轻的乔恩·罗斯巴德和蒂姆·艾森哈特刚刚开始从事将被证明是具有挑战性但又有回报的职业。蒂姆和乔恩在 DealerOn 投下了最长的阴影，并在很大程度上影响了当前的文化和“以家庭为导向”的心态，这已经成为我们日常工作生活的主要内容。当被问及他们一路走来扮演的角色时，乔恩简单的回答*“有哪些角色是我们没有扮演的？”*
 
-<figure>[![](../Images/9120a8adcec2a6d2c35b31e7690c55ee.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--65WNAXyf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/429/1%2A0Gisa2M1JG9G1Fw0C9XJGg.png) 
+<figure>[![](img/9120a8adcec2a6d2c35b31e7690c55ee.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--65WNAXyf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/429/1%2A0Gisa2M1JG9G1Fw0C9XJGg.png) 
 
 <figcaption>迪姆·艾森哈特，首席方案师</figcaption>
 
@@ -28,7 +28,7 @@
 
 > “对我来说，共同的主人翁意识是质量的最佳驱动力。句号。”—蒂姆
 
-<figure>[![](../Images/46ef8e4433820761b60f3cf729d6345c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1FS0EAVz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/423/1%2AW7xfI8rBo3H8IKIBj-W7PQ.png) 
+<figure>[![](img/46ef8e4433820761b60f3cf729d6345c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1FS0EAVz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/423/1%2AW7xfI8rBo3H8IKIBj-W7PQ.png) 
 
 <figcaption>乔恩·罗斯巴德，运营副总裁</figcaption>
 

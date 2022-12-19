@@ -64,8 +64,8 @@ media_folder: "images/uploads" # Media files will be stored in the repo under im
 
 ```
 # These lines should *not* be indented
-media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
-public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads 
+media_folder: "statimg/uploads" # Media files will be stored in the repo under statimg/uploads
+public_folder:img/uploads" # The src attribute for uploaded media will begin witimg/uploads 
 ```
 
 上面的配置增加了一个新设置`public_folder`。`media_folder`指定上传的文件保存在 repo 中的什么位置，`public_folder`指出它们在发布站点中的什么位置。Image `src`属性使用这个路径，这个路径相对于调用它的文件。由于这个原因，路径通常从站点根目录开始，使用开头的`/`。
@@ -83,7 +83,7 @@ public_folder: "/images/uploads" # The src attribute for uploaded media will beg
 layout: blog
 title: "Goosebumps"
 date: 2018-11-20 23:42:14 -0700
-thumbnail: "/images/ghost.jpg"
+thumbnail:img/ghost.jpg"
 ---
 
 This is the body content, where I write anything as long as I want, but it has to be in the markdown format, that's the only condition. 😉 
@@ -112,7 +112,7 @@ Netlify CMS 提供了更多的东西，比如过滤器、认证、Git 网关等�
 
 我已经为你建立了一个简单的初学者工具包，很容易上手👇🏻。
 
-[![Gridsome Starter NetlifyCMS Screenshot](../Images/929781f5aa11cf9642353076cd1918db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---haRW0XZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5kevhchpwd1d8ndt1gx0.jpg)
+[![Gridsome Starter NetlifyCMS Screenshot](img/929781f5aa11cf9642353076cd1918db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---haRW0XZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5kevhchpwd1d8ndt1gx0.jpg)
 
 ## 引用
 
@@ -121,4 +121,4 @@ Netlify CMS 提供了更多的东西，比如过滤器、认证、Git 网关等�
 *   [Gridsome 社区聊天](https://discord.gg/7znJUkH)
 
 觉得这篇文章有趣？考虑给我买杯咖啡。
-[![Buy Me A Coffee Button](../Images/8741c1bafaddaa2b9ee9d5b1c31c3e03.png)T3】](https://www.buymeacoffee.com/mittalyashu)
+[![Buy Me A Coffee Button](img/8741c1bafaddaa2b9ee9d5b1c31c3e03.png)T3】](https://www.buymeacoffee.com/mittalyashu)

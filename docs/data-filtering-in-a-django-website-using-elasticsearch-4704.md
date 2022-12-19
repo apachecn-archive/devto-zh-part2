@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/djangotricks/data-filtering-in-a-django-website-using-elasticsearch-4704>
 
-[![](../Images/77147fdad6066b16c0205e3bc0a5ed83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LdQRjd58--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://4.bp.blogspot.com/-gR38pCjj45s/WyW2N_jxcuI/AAAAAAAAB2w/Lg3_wQnnjPIMfpN2uBbz_poYGfVS5LjNQCLcBGAs/s1600/data-filtering-in-a-django-website-using-elasticsearch.png)
+[![](img/77147fdad6066b16c0205e3bc0a5ed83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LdQRjd58--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://4.bp.blogspot.com/-gR38pCjj45s/WyW2N_jxcuI/AAAAAAAAB2w/Lg3_wQnnjPIMfpN2uBbz_poYGfVS5LjNQCLcBGAs/s1600/data-filtering-in-a-django-website-using-elasticsearch.png)
 
 在我的[Web Development with Django Cookbook](https://www.packtpub.com/web-development/web-development-django-cookbook-second-edition)部分
 *表单和视图*中有一个菜谱*过滤对象列表*。它向您展示了如何通过在表单中选择不同的过滤参数来动态过滤 Django QuerySet。从实践来看，这种方法运行良好，但是对于大量数据和复杂的嵌套过滤器，性能可能会变慢。您知道——由于 SQL 中所有的内部连接，页面加载甚至可能需要 12 秒。这可不是什么好行为。我知道我可以对数据库进行反规范化，或者使用索引来优化 SQL。但是我找到了一个更好的方法来提高加载速度。最近，我们开始在一个项目中使用 Elasticsearch，它的数据过滤性能似乎快了很多:在我们的例子中，根据您选择的查询参数，它从 2 倍增加到 16 倍。

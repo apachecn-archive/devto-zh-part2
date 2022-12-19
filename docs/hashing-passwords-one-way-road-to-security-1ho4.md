@@ -8,4 +8,4 @@
 
 [读读#️⃣](https://auth0.com/blog/hashing-passwords-one-way-road-to-security/?utm_source=dev&utm_medium=sc&utm_campaign=dasec_hashing)
 
-[![Hashing Passwords: One-Way Road to Security](../Images/508cd66ca373def1f866dc031fb7f692.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ym9Rn1eg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uuk7p5if29okirq9del6.png)
+[![Hashing Passwords: One-Way Road to Security](img/508cd66ca373def1f866dc031fb7f692.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ym9Rn1eg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uuk7p5if29okirq9del6.png)

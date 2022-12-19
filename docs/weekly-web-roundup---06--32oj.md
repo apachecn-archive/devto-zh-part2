@@ -55,7 +55,7 @@
 *   严重地..OMG [https://codepen.io/Yakudoo/full/prYmKj/%20?height=500&default-tab=result&embed-version=2](https://codepen.io/Yakudoo/full/prYmKj/%20?height=500&default-tab=result&embed-version=2)
 *   视差有意义的时候:
 
-    > ![](../Images/b3496bfaee53bf0b2fa950b6af364bae.png)萨查格雷夫@萨查格雷夫![](../Images/4d9c44713c216584b3d48ff3455cbb68.png)在这家日本抱石健身房的网站上真正酷的使用滚动动画:[mushrooming.co](https://t.co/ZkdDvxh4Jx)03:30am-2018 年 2 月 10 日[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=962166832697241602)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=962166832697241602)2[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=962166832697241602)9T30】
+    > ![](img/b3496bfaee53bf0b2fa950b6af364bae.png)萨查格雷夫@萨查格雷夫![](img/4d9c44713c216584b3d48ff3455cbb68.png)在这家日本抱石健身房的网站上真正酷的使用滚动动画:[mushrooming.co](https://t.co/ZkdDvxh4Jx)03:30am-2018 年 2 月 10 日[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=962166832697241602)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=962166832697241602)2[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=962166832697241602)9T30】
 
 ## 战略情报局
 
@@ -68,16 +68,16 @@
 
 *   这是个好主意吗？
 
-    > ![](../Images/63941b33e0cf4ab8f39791807c467713.png)![](../Images/9da0698fedd18ceea92c0514249f4915.png)Shawn swyx 王【T8@ swyx![](../Images/4d9c44713c216584b3d48ff3455cbb68.png)你大概不需要`开关'语句:00:36am-04 2018[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=959948647273259008)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=959948647273259008)1[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=959948647273259008)6
+    > ![](img/63941b33e0cf4ab8f39791807c467713.png)![](img/9da0698fedd18ceea92c0514249f4915.png)Shawn swyx 王【T8@ swyx![](img/4d9c44713c216584b3d48ff3455cbb68.png)你大概不需要`开关'语句:00:36am-04 2018[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=959948647273259008)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=959948647273259008)1[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=959948647273259008)6
 
 *   `aria-label` doesn't play nice with automatic translation services:
 
-    > ![](../Images/8d5aca72b3aa3baea14e1671b8f19830.png)Stefan Judith@ Stefan Judith![](../Images/4d9c44713c216584b3d48ff3455cbb68.png)Hmm-never thought of these ... "aria-label" is not suitable for automatic translation service (because it will not be translated). "aria-labelledby" or "visual hiding" class is a better choice. "aria-label is xenophobia" by
-    > [@ heydonworks](https://twitter.com/heydonworks) . [# A11Y](https://twitter.com/hashtag/a11y)February 05, 2018 at 16: 30 PM[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png) ](https://twitter.com/intent/tweet?in_reply_to=960551096333819906) [ ![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png) ](https://twitter.com/intent/retweet?tweet_id=960551096333819906) 5 [ ![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=960551096333819906)
+    > ![](img/8d5aca72b3aa3baea14e1671b8f19830.png)Stefan Judith@ Stefan Judith![](img/4d9c44713c216584b3d48ff3455cbb68.png)Hmm-never thought of these ... "aria-label" is not suitable for automatic translation service (because it will not be translated). "aria-labelledby" or "visual hiding" class is a better choice. "aria-label is xenophobia" by
+    > [@ heydonworks](https://twitter.com/heydonworks) . [# A11Y](https://twitter.com/hashtag/a11y)February 05, 2018 at 16: 30 PM[![Twitter reply action](img/269095962147c28351274afdd5486a48.png) ](https://twitter.com/intent/tweet?in_reply_to=960551096333819906) [ ![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png) ](https://twitter.com/intent/retweet?tweet_id=960551096333819906) 5 [ ![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=960551096333819906)
 
 *   I must admit that I had no idea!
 
-    > ![](../Images/8706e6fb8ba89ac39a1d26bc37d8d75c.png)Wesbos@ Wesbos![](../Images/4d9c44713c216584b3d48ff3455cbb68.png)Til Nesting an input in a tag is better than just using an ID
+    > ![](img/8706e6fb8ba89ac39a1d26bc37d8d75c.png)Wesbos@ Wesbos![](img/4d9c44713c216584b3d48ff3455cbb68.png)Til Nesting an input in a tag is better than just using an ID
     > 
     > Auxiliary equipment coverage rate is therefore:
     > 
@@ -87,29 +87,29 @@
     > 
     > < label for = "first" >
 
-*   > ![](../Images/6d9040bf97df42491d4fba0781e14e10.png)![](../Images/68f15a1f61f9fb22e8c6cb1e43e76c97.png)埃里克劳伦斯🎻@ ericlaw![](../Images/4d9c44713c216584b3d48ff3455cbb68.png)TIL:这种状态叫做 tablerone .2018 年一月 23 日 21 点 32 分[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=955916279155691523)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)T25】541](https://twitter.com/intent/retweet?tweet_id=955916279155691523)[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=955916279155691523)1667
+*   > ![](img/6d9040bf97df42491d4fba0781e14e10.png)![](img/68f15a1f61f9fb22e8c6cb1e43e76c97.png)埃里克劳伦斯🎻@ ericlaw![](img/4d9c44713c216584b3d48ff3455cbb68.png)TIL:这种状态叫做 tablerone .2018 年一月 23 日 21 点 32 分[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=955916279155691523)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)T25】541](https://twitter.com/intent/retweet?tweet_id=955916279155691523)[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=955916279155691523)1667
 
 *   新版本的 Vue CLI 看起来蛮 rad
 
-    > ![](../Images/f6d35734e4c875b496578af990997358.png)![Play butt](../Images/980e9fb12d58fa9423fc94c33003fc4f.png)<video loop=""><source src="https://video.twimg.com/ext_tw_video/961253457020600322/pu/vid/320x180/T1JEvxW0y--I8aX9.mp4" type="video/mp4"></video>![](../Images/637a339279abeeed271b711ec4511349.png)萨拉·德拉斯内尔@萨拉 _ 埃多![](../Images/4d9c44713c216584b3d48ff3455cbb68.png)杜乌德新版本(3)的 Vue CLI 令人惊叹✨
+    > ![](img/f6d35734e4c875b496578af990997358.png)![Play butt](img/980e9fb12d58fa9423fc94c33003fc4f.png)<video loop=""><source src="https://video.twimg.com/ext_tw_video/961253457020600322/pu/vid/320x180/T1JEvxW0y--I8aX9.mp4" type="video/mp4"></video>![](img/637a339279abeeed271b711ec4511349.png)萨拉·德拉斯内尔@萨拉 _ 埃多![](img/4d9c44713c216584b3d48ff3455cbb68.png)杜乌德新版本(3)的 Vue CLI 令人惊叹✨
     > 快来看看吧,我可以使用默认,或者从一堆选项中选择,不限于:
     > -打字稿
-    > 2018 年 2 月 07 日下午 15:01[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=961253706715942912)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=961253706715942912)299[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)T39】1029](https://twitter.com/intent/like?tweet_id=961253706715942912)
+    > 2018 年 2 月 07 日下午 15:01[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=961253706715942912)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=961253706715942912)299[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)T39】1029](https://twitter.com/intent/like?tweet_id=961253706715942912)
 
 *   This!
 
-    > ![](../Images/546e1876a48a0f5ac7bd96f79eb9be92.png)Whitney Williams@ Whitney Hacks![](../Images/4d9c44713c216584b3d48ff3455cbb68.png)What does the company do specifically?
+    > ![](img/546e1876a48a0f5ac7bd96f79eb9be92.png)Whitney Williams@ Whitney Hacks![](img/4d9c44713c216584b3d48ff3455cbb68.png)What does the company do specifically?
     > Me: I know CSS specifications by heart, and I can code flexbox layout correctly in the first attempt.
     > Company: But do you know JavaScript? [T15】 ... 【T16] As an industry, it's time for us to start accepting that front-end is more than JS. [twitter.com/meyerweb/ Statu …](https://t.co/95LDwwqdoo)November 12th, 2017 at 06: 13 AMEric Meyer @ Meyer[[T30](https://twitter.com/intent/tweet?in_reply_to=929593000107196417)
 
 *   I *need* to play this!
 
-    > ![](../Images/c046bcb4a427e691f49e745a5b3b242b.png) ![Play butt](../Images/980e9fb12d58fa9423fc94c33003fc4f.png)<video loop=""><source src="https://video.twimg.com/tweet_video/DVhOm_2XkAA0P36.mp4" type="video/mp4"></video> ![](../Images/b9d7fa2be017addddc39700139ae5491.png)Sebastian Close Kevic[T11 [# carrion game](https://twitter.com/hashtag/carriongame) [# indiedev](https://twitter.com/hashtag/indiedev) [# game dev](https://twitter.com/hashtag/gamedev) [# Monogamy](https://twitter.com/hashtag/monogame)February 08, 2018 at 14: 19 PM[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png) ](https://twitter.com/intent/tweet?in_reply_to=961605346518355971) [ ![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png) ](https://twitter.com/intent/retweet?tweet_id=961605346518355971) 45 [ ![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png) T43] 2008](https://twitter.com/intent/like?tweet_id=961605346518355971)
+    > ![](img/c046bcb4a427e691f49e745a5b3b242b.png) ![Play butt](img/980e9fb12d58fa9423fc94c33003fc4f.png)<video loop=""><source src="https://video.twimg.com/tweet_video/DVhOm_2XkAA0P36.mp4" type="video/mp4"></video> ![](img/b9d7fa2be017addddc39700139ae5491.png)Sebastian Close Kevic[T11 [# carrion game](https://twitter.com/hashtag/carriongame) [# indiedev](https://twitter.com/hashtag/indiedev) [# game dev](https://twitter.com/hashtag/gamedev) [# Monogamy](https://twitter.com/hashtag/monogame)February 08, 2018 at 14: 19 PM[![Twitter reply action](img/269095962147c28351274afdd5486a48.png) ](https://twitter.com/intent/tweet?in_reply_to=961605346518355971) [ ![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png) ](https://twitter.com/intent/retweet?tweet_id=961605346518355971) 45 [ ![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png) T43] 2008](https://twitter.com/intent/like?tweet_id=961605346518355971)
 
 ## 我在做什么？
 
 在葡萄牙拿撒勒享受美丽的风景！
 
-[![Sunset at Nazaré](../Images/c53510f898d56b99b3e38640b3a31896.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gn9ySEPh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/85173yciyzjam8d9ubul.jpg)
+[![Sunset at Nazaré](img/c53510f898d56b99b3e38640b3a31896.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gn9ySEPh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/85173yciyzjam8d9ubul.jpg)
 
 祝你一周愉快！

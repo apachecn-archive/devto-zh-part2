@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/building-a-custom-dropdown-menu-component-for-react-9mg>
 
-[![](../Images/323d6cf00d7be183b920d15f15d6a420.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bwPnStB8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AW9T0Y0rhnfYyUHHEmjKQCw.jpeg)
+[![](img/323d6cf00d7be183b920d15f15d6a420.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bwPnStB8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AW9T0Y0rhnfYyUHHEmjKQCw.jpeg)
 
 的确，当涉及到特定的需求和样式时，将现有的组件应用到您的项目中可能并不总是像您希望的那样顺利。在这种情况下，考虑到在适应过程中花费的时间，构建您自己的组件可能是您最感兴趣的。
 
@@ -12,7 +12,7 @@
 
 在深入技术内容之前，让我们快速查看一下下拉菜单组件的视觉结构，并确定需求。
 
-<figure>[![](../Images/ccb596317eae0aacc432ff0b5aa99f64.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NQTJcr_q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A-TnLNBE384Cy2G0bsbUZkA.jpeg) 
+<figure>[![](img/ccb596317eae0aacc432ff0b5aa99f64.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NQTJcr_q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A-TnLNBE384Cy2G0bsbUZkA.jpeg) 
 
 <figcaption>一个下拉组件的可视化结构</figcaption>
 
@@ -62,7 +62,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们将部署一个带有状态和生命周期挂钩的类组件，而我们也将使用函数作为道具来控制父状态。
 
-[![](../Images/184dfcc3649f17c50808cfdfb9409f6a.png)T2】](https://logrocket.com/?cid=banner_b)
+[![](img/184dfcc3649f17c50808cfdfb9409f6a.png)T2】](https://logrocket.com/?cid=banner_b)
 
 ### 组件关系
 
@@ -198,7 +198,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 注意，我们还部署了 listOpen，通过使用条件(三元)操作符来上下切换箭头图标。
 
-<figure>[![](../Images/7ab3c7809cf368dda5bd860099756f26.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7kxtOJqJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ah01tLGftHBfRkqT_-PkWGA.jpeg) 
+<figure>[![](img/7ab3c7809cf368dda5bd860099756f26.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7kxtOJqJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ah01tLGftHBfRkqT_-PkWGA.jpeg) 
 
 <figcaption>下拉菜单，关闭并打开</figcaption>
 
@@ -269,7 +269,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 另外，请注意，我根据 item.selected 的值添加了一个图标，以指示该项已被选中。
 
-<figure>[![](../Images/894014179aa3d7320ffc05dc7b5e19d6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gfnvLfTx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AYjsDfY4LQIbmU-3OKl82Kw.jpeg) 
+<figure>[![](img/894014179aa3d7320ffc05dc7b5e19d6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gfnvLfTx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AYjsDfY4LQIbmU-3OKl82Kw.jpeg) 
 
 <figcaption>在列表中选择多个项目</figcaption>
 
@@ -328,7 +328,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 标题根据列表中选定项目的数量而变化，如下所示:
 
-<figure>[![](../Images/f875826e2060c109dc8bb2e5218d48a7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--erJXiwFN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A-YgUT8_GfQQIMOSkfN_gBg.jpeg) 
+<figure>[![](img/f875826e2060c109dc8bb2e5218d48a7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--erJXiwFN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A-YgUT8_GfQQIMOSkfN_gBg.jpeg) 
 
 <figcaption>动态标题</figcaption>
 
@@ -342,7 +342,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### Plug: [LogRocket](http://logrocket.com) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

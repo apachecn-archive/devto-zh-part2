@@ -4,7 +4,7 @@
 
 A* (A star)寻路算法是著名的 Dijkstra 寻路算法的扩展，效率更高，但偶尔实际上并不会找到**最佳**路线，而只是一条**足够好的**路线。
 
-[![A Star](../Images/2b15431bacac85cf3a367bd85a42c56d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n311fF3r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5t0o6cjblypt3g990xl9.PNG)
+[![A Star](img/2b15431bacac85cf3a367bd85a42c56d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n311fF3r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5t0o6cjblypt3g990xl9.PNG)
 
 ### a*算法实现
 

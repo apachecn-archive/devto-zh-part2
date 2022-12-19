@@ -36,7 +36,7 @@
 
 尽管你们每个人都声称自己是世界上最好的厨师，因为他们特别、独特、独一无二的烹饪风格(嗯，也许这比其他地方对意大利的影响更大...)，我们都同意，拥有一本奶奶精心制作的食谱可以让几乎每个人都成为一名好厨师。
 
-[![Dog - I have no idea what I'm doing](../Images/9de1bedd434956ef34aae8f9f1b9706e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SE4FZDNS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.ecolutionhome.com/wp-content/uploads/2018/02/C-Cooking-Memes27.png)
+[![Dog - I have no idea what I'm doing](img/9de1bedd434956ef34aae8f9f1b9706e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SE4FZDNS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.ecolutionhome.com/wp-content/uploads/2018/02/C-Cooking-Memes27.png)
 
 原因很简单:所有这些配方都是由某个人创造的，这个人最终会犯下大量的错误，随着时间的推移修正、纠正和修改这些程序。使用这些打包好的知识可以让你避免很多常见的陷阱和错误的决定。这在你做出的选择看起来没有恶意的情况下非常有用，但是当你把你的菜端给可能没有你想象的那么礼貌的人时，情况就不一样了(意大利的食物真的很严肃)。
 
@@ -50,7 +50,7 @@
 
 好消息是这是真的😀然而，坏消息是，你的决策过程不能完全被古人的智慧所取代。
 
-[![](../Images/61e610d31026aa90c04db9c0501f9ddf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kseaCHX---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.pinimg.com/originals/72/5d/29/725d29ab0d189c2220a8c398af687871.jpg)
+[![](img/61e610d31026aa90c04db9c0501f9ddf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kseaCHX---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.pinimg.com/originals/72/5d/29/725d29ab0d189c2220a8c398af687871.jpg)
 
 到目前为止，这是反对软件开发中模式方法的最常见的论点:通过模式提供的解决方案对于非常具体的问题来说往往不如它们所能提供的那样有效。
 
@@ -68,7 +68,7 @@
 
 现在你可能已经明白了，四人帮出来的时候(顺便说一下，那是 1995 年)真的很棒。
 
-[![](../Images/7751dc80cdcbfb488a31076de98bb65e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M33vaJme--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.coengoedegebure.com/content/images/2017/08/onedoesnotsimplygof-1.jpg)
+[![](img/7751dc80cdcbfb488a31076de98bb65e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M33vaJme--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.coengoedegebure.com/conteimg/2017/08/onedoesnotsimplygof-1.jpg)
 
 所以现在，我们仍然在某种程度上根据设计模式的分类来对它们进行分类。
 

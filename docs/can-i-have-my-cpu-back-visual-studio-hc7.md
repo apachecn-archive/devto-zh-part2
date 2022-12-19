@@ -10,7 +10,7 @@ Visual Studio 2017 无疑是旗舰 IDE 上一次迭代的重大改进；然而�
 
 ## 你在 Visual Studio 做什么？
 
-[![What is you doing Visual Studio](../Images/48cc858fb43173c64374694a2b308e36.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qo1-etw9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jqbhuzwnj80wyzydr2pg.png)
+[![What is you doing Visual Studio](img/48cc858fb43173c64374694a2b308e36.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qo1-etw9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jqbhuzwnj80wyzydr2pg.png)
 
 Visual Studio 2017 通常可以在用户不做任何事情的情况下，毫无理由地将机器的 CPU 限制在 75%以上。
 
@@ -29,7 +29,7 @@ Visual Studio 2017 通常可以在用户不做任何事情的情况下，毫无�
 
 第一个选项是在 Visual Studio 中禁用源代码管理同步，如果您已经在使用命令行来跟踪您的更改和管理您的工作流，这可能是一个选项。修复相对简单，**进入工具- >选项- >源代码控制- >当前源代码控制插件，并将其设置为“无”**:
 
-[![Disabling Source Control in Visual Studio](../Images/a16bdb7a8bd55725981734e32b80af5d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ElfWAHZN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/64b2acgq6mepuhc3gz6v.PNG)
+[![Disabling Source Control in Visual Studio](img/a16bdb7a8bd55725981734e32b80af5d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ElfWAHZN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/64b2acgq6mepuhc3gz6v.PNG)
 
 这将防止 Visual Studio 管理您的更改跟踪，从而在空闲时消耗宝贵的 CPU 周期。
 
@@ -37,7 +37,7 @@ Visual Studio 2017 通常可以在用户不做任何事情的情况下，毫无�
 
 幸运的是，您可以“重置”给定解决方案的同步行为，这似乎可以让事情回到正轨，至少可以阻止 Visual Studio 在空闲时大量消耗 CPU 周期。**要做到这一点，找到隐藏的。vs 文件夹，并删除。锁内文件:**
 
-[![Removing the Hidden SUO Directory](../Images/b732ad735403cb4e587bf4f251e4cf21.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AiMN7ndp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8kdbb24q1ldx5nj0m6dm.gif)
+[![Removing the Hidden SUO Directory](img/b732ad735403cb4e587bf4f251e4cf21.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AiMN7ndp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8kdbb24q1ldx5nj0m6dm.gif)
 
 这应该有助于暂时缓解这个特定解决方案的随机 CPU 限制，但是如果问题再次出现，您可能必须再次清除这个隐藏文件。
 

@@ -13,7 +13,7 @@
 
 等等，什么？
 
-[![automated testing girl](../Images/e98feb1abb0ad2d62f7db7e0f154a3fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qKjVajYa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/1036620/pexels-photo-1036620.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D750%26w%3D1260)
+[![automated testing girl](img/e98feb1abb0ad2d62f7db7e0f154a3fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qKjVajYa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/1036620/pexels-photo-1036620.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D750%26w%3D1260)
 
 如果您想设置一些脚本来测试您的 web 应用程序，这项任务很容易就会占用您 3-4 个月的时间。
 
@@ -38,11 +38,11 @@
 
 谢天谢地，这一切都变了。我们现在有了像 [Endtest](https://endtest.io) 这样的平台。
 
-[![software testing tools](../Images/fe6de9abc7e297480c9c80f389d9139d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MkWmGRCv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/C4tavcC.png)
+[![software testing tools](img/fe6de9abc7e297480c9c80f389d9139d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MkWmGRCv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/C4tavcC.png)
 
 在做了一些广泛的研究后，以下是我能找到的关于他们的信息:
 
-[![software testing tools comparison](../Images/c5b850d11abe20abd68dc4f6b0b89a10.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZbK0OS11--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/W9bQPtk.png)
+[![software testing tools comparison](img/c5b850d11abe20abd68dc4f6b0b89a10.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZbK0OS11--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/W9bQPtk.png)
 
 过去需要我们 3-4 个月才能完成的工作，现在只需 2-3 天即可完成。
 
@@ -54,4 +54,4 @@
 
 在今天的世界里，即使是你的老爷爷也能做到。
 
-[![automated testing grandpa](../Images/bb7b398ddeaf1eecba46ecb26ec49d72.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_Jn7R_yK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/1254690/pexels-photo-1254690.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D750%26w%3D1260)
+[![automated testing grandpa](img/bb7b398ddeaf1eecba46ecb26ec49d72.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_Jn7R_yK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/1254690/pexels-photo-1254690.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D750%26w%3D1260)

@@ -4,7 +4,7 @@
 
 # 第一周的学习
 
-[![Hello World](../Images/7af6fef36d1eeda1bbe5ffde3dd213ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F3F_zr0v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kq7hye8tmmlrxuve0t12.png)
+[![Hello World](img/7af6fef36d1eeda1bbe5ffde3dd213ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F3F_zr0v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kq7hye8tmmlrxuve0t12.png)
 
 ## 这是什么？
 

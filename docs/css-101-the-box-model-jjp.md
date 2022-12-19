@@ -44,7 +44,7 @@ CSS
 
 内容很清楚。它代表了你的元素中具有特定宽度和高度的内容。可以使用 CSS 属性的 height 和 width 设置固定的高度和宽度，也可以由内容本身决定。
 
-[![Group-4](../Images/4922ba7dd9f5ed2319daffc005d1d20f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SLytiL5y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/05/Group-4.png)
+[![Group-4](img/4922ba7dd9f5ed2319daffc005d1d20f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SLytiL5y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/05/Group-4.png)
 
 现在，这里有一点令人困惑的是内联或块级元素的用法。
 
@@ -73,7 +73,7 @@ CSS
 
 结果是这样的:
 
-[![box_2-1](../Images/10490b704ed5ec41d23ddfcbf424607b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FUw3kFfs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/05/box_2-1.png)
+[![box_2-1](img/10490b704ed5ec41d23ddfcbf424607b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FUw3kFfs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/05/box_2-1.png)
 
 ## 填充
 
@@ -81,7 +81,7 @@ CSS
 
 *填充定义了内容和盒子边缘之间的空间。*
 
-[![box_3](../Images/6d279196198ce5a75849c83ae09de8d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r9EgXlET--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/05/box_3.png)
+[![box_3](img/6d279196198ce5a75849c83ae09de8d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r9EgXlET--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/05/box_3.png)
 
 让我们看看它的实际效果。
 
@@ -99,7 +99,7 @@ CSS
 
 结果是:
 
-[![box_4](../Images/e148114febee8fd52c7bec2d5c346620.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6F3XGGFP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/05/box_4.png)
+[![box_4](img/e148114febee8fd52c7bec2d5c346620.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6F3XGGFP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/05/box_4.png)
 
 在此图像中，您可以看到填充如何影响盒子的整体外观。所有四个面上的内容和盒子边缘**之间有 10px 的空间。你也可以单独添加填充到每一边，使用**填充顶部，填充底部，填充左侧，填充右侧。****
 
@@ -107,7 +107,7 @@ CSS
 
 因为我们是从里到外，下一步将是定义边界。*边框包围了内容，你不必使用它，但它仍然存在。*这只是意味着边框的宽度为零。
 
-[![box_5](../Images/6ab3c7605bcadc3a6797ed5ff47c7de7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rYi0pKtB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/05/box_5.png)
+[![box_5](img/6ab3c7605bcadc3a6797ed5ff47c7de7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rYi0pKtB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/05/box_5.png)
 
 现在，让我们给这个例子添加一个边框。
 
@@ -124,13 +124,13 @@ CSS
 } 
 ```
 
-[![box_6](../Images/37004356775efbaf6cfa6fc210a422d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lo1F5ptP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/05/box_6.png)
+[![box_6](img/37004356775efbaf6cfa6fc210a422d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lo1F5ptP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/05/box_6.png)
 
 ## 空白处
 
 盒子模型的最后一个方面是利润。正如你们中的一些人所知道的，*边距是边界*之外的空间。它是元素之间的空间。
 
-[![box_7](../Images/dbc54d8b926adf9d137f5f9d796ad3a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V1o5WpvQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/05/box_7.png)
+[![box_7](img/dbc54d8b926adf9d137f5f9d796ad3a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V1o5WpvQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/05/box_7.png)
 
 在实际例子中演示这一点的最好方法是向您展示两个元素如何在有和没有边距的情况下定位。
 
@@ -155,7 +155,7 @@ CSS
 } 
 ```
 
-[![box_8](../Images/47110e2bab002dee987ed8ce69efc786.png)T2】](/content/images/2018/05/box_8.png)
+[![box_8](img/47110e2bab002dee987ed8ce69efc786.png)T2】](/conteimg/2018/05/box_8.png)
 
 在这个例子中，您可以看到，如果没有边距，两个元素会粘在一起，并且它们之间没有空格。
 
@@ -169,7 +169,7 @@ CSS
 } 
 ```
 
-[![box_9](../Images/f934d9a5590bf78e4e07b6bd707403b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sluAjhxf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/05/box_8.png)
+[![box_9](img/f934d9a5590bf78e4e07b6bd707403b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sluAjhxf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/05/box_8.png)
 
 现在，这个看起来好多了。你在盒子之间增加了一些空间。您也可以使用**上边距、下边距、左边距或右边距在元素的每一侧添加空间。**
 

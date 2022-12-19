@@ -6,7 +6,7 @@
 
 这一次，我用了一个非常非常基本的布局；全灰色的背景，我的名字，一些标语，我账户的链接，还有一张 90 年代黑暗后屏保里的[飞行烤面包机的 gif。](https://en.wikipedia.org/wiki/After_Dark_(software))
 
-[![New Site](../Images/51e6f4228aeae0277a9d8c18e9cb23b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aaB4NTDe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t2xlc5mi7k70nl57flmd.png)
+[![New Site](img/51e6f4228aeae0277a9d8c18e9cb23b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aaB4NTDe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t2xlc5mi7k70nl57flmd.png)
 
 这个网站只花了我大约一个小时。完全公开，布局只是`create-react-app`的初始布局，为我的链接添加了一些额外的酱料。
 
@@ -42,7 +42,7 @@
 
 我的个人网站无人问津，它就像一片贫瘠的荒地，充斥着多年的旧内容。多么令人悲伤的情况...
 
-[![Barren Wasteland](../Images/9b4541bed3a9185254748fbb5f980d74.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rnGhEn08--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://c1.staticflickr.com/3/2591/4086516126_5cafe7247f_z.jpg%3Fzz%3D1)
+[![Barren Wasteland](img/9b4541bed3a9185254748fbb5f980d74.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rnGhEn08--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://c1.staticflickr.com/3/2591/4086516126_5cafe7247f_z.jpg%3Fzz%3D1)
 
 ## 新的展望
 
@@ -56,4 +56,4 @@
 
 你的个人网站经历了哪些历程？类似的迭代和挣扎，还是什么？我可能会在未来再次改变我的网站，但现在，一切都感觉很好。
 
-[![At Peace](../Images/2c91b914582a04edb70d35705ed16f8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HtC5o847--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/3a05745a1af582cca77b5d4fd8bf3539/tenor.gif%3Fitemid%3D11095594)
+[![At Peace](img/2c91b914582a04edb70d35705ed16f8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HtC5o847--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.cimg/3a05745a1af582cca77b5d4fd8bf3539/tenor.gif%3Fitemid%3D11095594)

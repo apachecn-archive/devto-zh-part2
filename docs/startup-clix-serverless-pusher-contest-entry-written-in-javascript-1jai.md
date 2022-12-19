@@ -4,7 +4,7 @@
 
 在经历了一个漫长的周末之后。
 
-[![me getting wrecked](../Images/6eb489667629a2a8e5085c6100b6f815.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XhKTR15d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mwqbtaz8m2r0o3tlera3.png)
+[![me getting wrecked](img/6eb489667629a2a8e5085c6100b6f815.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XhKTR15d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mwqbtaz8m2r0o3tlera3.png)
 
 我终于找到时间为参赛作品写一篇合适的博文。
 
@@ -56,7 +56,7 @@
 
 我还做了一个架构图:
 
-[![Game Architecture](../Images/710a1d8ef62a77be6a09644bc96a98c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c2ERc960--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9a3ny9hiwkxuf8uoyxsd.jpg)
+[![Game Architecture](img/710a1d8ef62a77be6a09644bc96a98c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c2ERc960--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9a3ny9hiwkxuf8uoyxsd.jpg)
 
 如您所见，数据从播放器和推送器通过 HTTP 进入我的无服务器后端，并通过推送器通道反馈给客户端。
 

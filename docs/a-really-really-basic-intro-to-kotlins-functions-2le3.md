@@ -122,10 +122,10 @@ Enter fullscreen mode Exit fullscreen mode
 
 与此相关的一些内容有:
 
-[![tedhagos](../Images/d33df494b4c7494599bd1bc717f8b9d1.png)](/tedhagos) [## 科特林扩展函数
+[![tedhagos](img/d33df494b4c7494599bd1bc717f8b9d1.png)](/tedhagos) [## 科特林扩展函数
 
 ### ted Hagos 9 月 30 日 183 分钟阅读
 
 #kotlin #beginners](/tedhagos/kotlin---extension-functions-4e10)
 
-[![](../Images/f844e6f0ae02837abc70d4e4100753c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IU8kI4wJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/WorkingDev/%257E4/qy6HpWQtklM)
+[![](img/f844e6f0ae02837abc70d4e4100753c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IU8kI4wJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/WorkingDev/%257E4/qy6HpWQtklM)

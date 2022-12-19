@@ -6,7 +6,7 @@
 
 #### 以及如何正确做到
 
-[![](../Images/833b09dd2e042c78adb87c59b9201ee3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jrJDVyBu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/892/1%2AbFIR37BFmQcxyPd7UPs6xg.png)
+[![](img/833b09dd2e042c78adb87c59b9201ee3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jrJDVyBu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/892/1%2AbFIR37BFmQcxyPd7UPs6xg.png)
 
 ### 场景
 

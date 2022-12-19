@@ -23,15 +23,15 @@
 
 不同浏览器之间结帐按钮的不同样式示例:
 
-[![CSS Reset differences between browsers](../Images/c7cc4cffd8bc9989352bd8b87adb0fdd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5rl-Wp9q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/03/indeterminate-checkboxes-browser-comparison.jpg)
+[![CSS Reset differences between browsers](img/c7cc4cffd8bc9989352bd8b87adb0fdd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5rl-Wp9q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/03/indeterminate-checkboxes-browser-comparison.jpg)
 
 不同元素(标题、链接、span、代码、blockquote)的不同样式示例:
 
-[![CSS Reset differences between browsers](../Images/bda06cc12ed13e58f5449c3ca9021cc8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vviDgMhV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/03/Mask-Group.png)
+[![CSS Reset differences between browsers](img/bda06cc12ed13e58f5449c3ca9021cc8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vviDgMhV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/03/Mask-Group.png)
 
 每个浏览器都有默认的 HTML 格式，您可以在检查模式下的**“用户代理样式表”**下看到它。如果为特定元素添加了样式，则它的默认浏览器格式将被覆盖。
 
-[![user-agent-stylesheet](../Images/52dd7624653b053f98ee81b0cb4c57f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bpSyB_mR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/04/user-agent-stylesheet.jpg)
+[![user-agent-stylesheet](img/52dd7624653b053f98ee81b0cb4c57f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bpSyB_mR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/04/user-agent-stylesheet.jpg)
 
 ## 重置脚本
 
@@ -136,4 +136,4 @@
 
 没有必要重置你的 CSS，但是要知道浏览器的预样式和 CSS 重置的存在。
 
-本文原载于 [Kolosek 博客](https://kolosek.com/content/images/2018/04/user-agent-stylesheet.jpg)。
+本文原载于 [Kolosek 博客](https://kolosek.com/conteimg/2018/04/user-agent-stylesheet.jpg)。

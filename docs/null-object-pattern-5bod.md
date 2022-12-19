@@ -62,7 +62,7 @@ console.log(calculateSpeed()); // 50
 
 这种模式的 UML 图如下所示:
 
-[![](../Images/cd1108039c4360537cf6b994273edccd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0m3SAYoU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ac5vmqznoh60opulysdv.png)
+[![](img/cd1108039c4360537cf6b994273edccd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0m3SAYoU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ac5vmqznoh60opulysdv.png)
 
 Ruby 中的相同示例如下所示:
 

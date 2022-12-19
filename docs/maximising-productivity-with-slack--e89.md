@@ -24,7 +24,7 @@ Slack 非常有用，但是一天中可能会有很多消息，其中大部分�
 
 如果你想要完全的无线电静默，最后一个选项是你想要的，但是在大多数情况下这可能是多余的。您通常只想过滤掉所有非直接干扰，这是第二种选择。
 
-[![Slack Notifications](../Images/3483bc8304e669cfcc18c23fc6330339.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DMIFMFIl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://samturrell.github.io/images/slack-notifications.png)
+[![Slack Notifications](img/3483bc8304e669cfcc18c23fc6330339.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DMIFMFIl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://samturrell.github.img/slack-notifications.png)
 
 ## 将自己设置为“请勿打扰”
 
@@ -34,7 +34,7 @@ Slack 非常有用，但是一天中可能会有很多消息，其中大部分�
 
 您也可以在“通知”偏好设置中指定自动“请勿打扰”时段。
 
-[![Slack Do Not Disturb](../Images/5f02b9bce985a98b7a8a2369240d2998.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k13ID-Ci--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://samturrell.github.io/images/slack-dnd.png)
+[![Slack Do Not Disturb](img/5f02b9bce985a98b7a8a2369240d2998.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k13ID-Ci--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://samturrell.github.img/slack-dnd.png)
 
 ## 预留时间叙旧
 
@@ -48,17 +48,17 @@ Slack 非常有用，但是一天中可能会有很多消息，其中大部分�
 
 Slack 为您提供了一种便捷的方式，让您可以在一个列表视图中查看未读邮件。您需要在“侧边栏”部分下的工作区设置中启用它。
 
-[![Slack Group Unreads](../Images/1986ff14a4b2d362e5c73e0bf579d39b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SYzbKNmV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://samturrell.github.io/images/slack-group-unreads.png)
+[![Slack Group Unreads](img/1986ff14a4b2d362e5c73e0bf579d39b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SYzbKNmV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://samturrell.github.img/slack-group-unreads.png)
 
 你可以选择如何按字母顺序排列信息，最老的优先，最新的优先，或者把它留给 Slacks 魔法算法的“科学”选项。我不知道那是什么意思，但听起来很酷，是吧？
 
-[![Slack Scientific Sort](../Images/076d5b7fb3df7a8478228f6c96a36def.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OWzwH39q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://samturrell.github.io/images/slack-scientific-sort.png)
+[![Slack Scientific Sort](img/076d5b7fb3df7a8478228f6c96a36def.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OWzwH39q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://samturrell.github.img/slack-scientific-sort.png)
 
 ## 将邮件标记为已读
 
 如果你离开了一段时间，并且没有通过提及/突出显示得到明确通知，为什么不干脆清除单个频道或所有频道的所有未读消息？通过提供的便捷键盘快捷键，您可以按下按钮快速清除未读内容。
 
-[![Slack Shortcuts](../Images/6ed96f9b06db1309b64beeb78f42d2d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CylenGRj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://samturrell.github.io/images/slack-shortcuts.png)
+[![Slack Shortcuts](img/6ed96f9b06db1309b64beeb78f42d2d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CylenGRj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://samturrell.github.img/slack-shortcuts.png)
 
 ## 使用螺纹
 
@@ -68,7 +68,7 @@ Slack 为您提供了一种便捷的方式，让您可以在一个列表视图�
 
 有时候你可能被要求做一些事情，但是你没有时间跳出你正在做的事情去处理它。在这些情况下，你可以简单地放松一下，在更方便的时候提醒你。
 
-[![Slack Message Reminders](../Images/4f159f13c2dcb89e7b2240404f9a8913.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I8a62KHR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://samturrell.github.io/images/slack-remind.png)
+[![Slack Message Reminders](img/4f159f13c2dcb89e7b2240404f9a8913.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I8a62KHR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://samturrell.github.img/slack-remind.png)
 
 上面提到的大多数首选项都是在每个工作区的基础上定义的，所以如果您是多个团队的一部分，您可能想要仔细检查并将这些设置应用到每个活动的工作区。
 

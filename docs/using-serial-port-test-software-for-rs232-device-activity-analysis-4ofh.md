@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/helgayork/using-serial-port-test-software-for-rs232-device-activity-analysis-4ofh>
 
-[![Test and analyze COM port data](../Images/1251f5ee8062569f536687862fbb763b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MuBuxFbr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.virtual-serial-port.org/imgnew/products/spm/splash/image.png)
+[![Test and analyze COM port data](img/1251f5ee8062569f536687862fbb763b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MuBuxFbr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.virtual-serial-port.org/imgnew/products/spm/splash/image.png)
 
 如果您想使用串行端口，有时需要监视和分析串行端口活动。监控通过 RS232/422/485 端口发送和接收的数据——尤其是在设置设备时——是发现可能出现的故障的好方法。
 
@@ -20,7 +20,7 @@
 
 *   在终端模式下查看数据时，模拟串行端口数据向串行设备的传输。数据通过十进制、二进制、十六进制、字符串或混合格式代表受监控的应用程序发送，以便您在使用某些命令时监控串行设备的活动。
 
-[![RS232 Tester](../Images/3372f32ba3e08dec6611425f27c6c60d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WSywSqUR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.eltima.com/imgnew/products/spm/splash/screen.png)
+[![RS232 Tester](img/3372f32ba3e08dec6611425f27c6c60d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WSywSqUR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.eltima.com/imgnew/products/spm/splash/screen.png)
 
 了解更多关于 [RS485 协议分析器](https://www.eltima.com/rs485-analyzer.html)(用于 RS485 端口通信的编程和调试)。
 

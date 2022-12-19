@@ -6,4 +6,4 @@
 
 [读读✊](https://auth0.com/blog/why-laravel-is-the-recommended-framework-for-secure-mission-critical-applications/?utm_source=dev&utm_medium=sc&utm_campaign=laravel_apps)
 
-[![Why Laravel is the Recommended Framework for Secure, Mission-Critical Applications](../Images/0ee3ba51bf7a108dfa90ccfe02f6adff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---55qhS9n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kv9q5rla1dabjzao1txo.png)
+[![Why Laravel is the Recommended Framework for Secure, Mission-Critical Applications](img/0ee3ba51bf7a108dfa90ccfe02f6adff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---55qhS9n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kv9q5rla1dabjzao1txo.png)

@@ -27,11 +27,11 @@ AWS 提供了一项名为 [*弹性豆茎*](https://aws.amazon.com/elasticbeansta
 
 下图说明了目标体系结构。客户机向弹性 Beanstalk 应用程序发送一个 HTTP 请求。然后，Elastic Beanstalk 将让部署的应用程序版本处理请求并返回响应。与前一篇文章中的架构类似，S3 用于存储不同的应用程序版本。
 
-[![architecture overview](../Images/c3ee51d1c055ae6d50a774a27de7a04b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M6Kbgm8B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xn3rrxz9gc8dpk0os7dn.png)
+[![architecture overview](img/c3ee51d1c055ae6d50a774a27de7a04b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M6Kbgm8B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xn3rrxz9gc8dpk0os7dn.png)
 
 虽然这看起来很简单，但实际上发生了很多事情。弹性豆茎捆绑了 AWS 生态系统的许多不同组件。下图展示了弹性 Beanstalk 应用程序的内部结构。
 
-[![elastic beanstalk architecture](../Images/14265280839afa63185be63c752c10b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zxdAGP3v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lk4zkkbto2hzcxmt6x4g.png)
+[![elastic beanstalk architecture](img/14265280839afa63185be63c752c10b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zxdAGP3v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lk4zkkbto2hzcxmt6x4g.png)
 
 Elastic Beanstalk 在一个[自动扩展组](https://aws.amazon.com/autoscaling)和一个可配置数量的可用区域内启动 [EC2](https://aws.amazon.com/ec2) 实例。这些实例用于运行您的应用程序。它将实例放在 [VPC](https://aws.amazon.com/vpc) 中，并配置一个[安全组](https://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_SecurityGroups.html)来保护您的实例，默认情况下只接受端口 80 上的连接。
 

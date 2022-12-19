@@ -4,7 +4,7 @@
 
 ## 队列是类似数组和堆栈的数据结构。但是在这里，添加到队列中的第一个元素将是从队列中移除的第一个元素。所以队列称为先进先出(FIFO)或先来先服务
 
-[![Alt Stack](../Images/4b45dafe6ee88f8626d81696ef914961.png "queue")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dr1pYG2r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/mohamedkhaledyousef/Crash-courses/blob/master/img/queue.jpeg%3Fraw%3Dtrue)
+[![Alt Stack](img/4b45dafe6ee88f8626d81696ef914961.png "queue")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dr1pYG2r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/mohamedkhaledyousef/Crash-courses/blob/master/img/queue.jpeg%3Fraw%3Dtrue)
 
 ## 我们可以在队列中:
 

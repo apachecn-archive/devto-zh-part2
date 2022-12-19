@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/new-in-chrome-69-building-progress-doughnut-charts-with-conical-gradients-2bjj>
 
-[![](../Images/f36283a13cead2fe7c2c48f4aa5f832a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WR4qJP3S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AluFSgEXjO7A-BmbWtQTrIA.jpeg)
+[![](img/f36283a13cead2fe7c2c48f4aa5f832a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WR4qJP3S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AluFSgEXjO7A-BmbWtQTrIA.jpeg)
 
 每个人都喜欢图表。它们以简单的方式传达信息，一眼就能迅速理解。每个人都喜欢甜甜圈。它们是美味可口的甜甜圈。
 
@@ -22,7 +22,7 @@
 } 
 ```
 
-[![](../Images/29b91643f91af01dde29c2d8276ef5ef.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8Uv037C6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/206/0%2APeToYmmkfl-xR1TG.png) 
+[![](img/29b91643f91af01dde29c2d8276ef5ef.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8Uv037C6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/206/0%2APeToYmmkfl-xR1TG.png) 
 
 <figcaption>平行光效果使用锥形渐变</figcaption>
 
@@ -32,7 +32,7 @@
 } 
 ```
 
-[![](../Images/084ab306e992621b4de6cc485dccd58d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iAOPV3Jz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/209/0%2AUl2pgX1EiENRtKrH.png) 
+[![](img/084ab306e992621b4de6cc485dccd58d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iAOPV3Jz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/209/0%2AUl2pgX1EiENRtKrH.png) 
 
 <figcaption>色轮使用锥形渐变</figcaption>
 
@@ -44,7 +44,7 @@
 } 
 ```
 
-[![](../Images/d1f01025570dc358a7eb0f209e43510a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---otUbhFr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/216/0%2ANcRbPZ2P_3gGbxGp.png) 
+[![](img/d1f01025570dc358a7eb0f209e43510a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---otUbhFr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/216/0%2ANcRbPZ2P_3gGbxGp.png) 
 
 <figcaption>实停直线渐变</figcaption>
 
@@ -54,13 +54,13 @@
 } 
 ```
 
-[![](../Images/e32089c812ad5c11947478a93d829ba6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UULeb-Uj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/206/0%2AOhhvrQXTFXuKznwr.png) 
+[![](img/e32089c812ad5c11947478a93d829ba6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UULeb-Uj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/206/0%2AOhhvrQXTFXuKznwr.png) 
 
 <figcaption>简单饼图使用实心圆锥形渐变</figcaption>
 
 从那里到一个甜甜圈图是很容易的，因为应用一个单一的停止圆锥梯度遮罩。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### 右边标注
 
@@ -334,7 +334,7 @@ Chrome 69 是第一个正式支持锥形渐变的浏览器，而 [Webkit 刚刚�
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

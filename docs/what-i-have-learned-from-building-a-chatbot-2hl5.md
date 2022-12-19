@@ -6,7 +6,7 @@
 
 ## 炒作是怎么回事？
 
-[![Chat bubbles](../Images/17d76ab2b2726f97b7a73cc23de7d4bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xmwd-0CU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://adelphi.digital/assets/adelphi/images/articles/conversational-ui.gif)
+[![Chat bubbles](img/17d76ab2b2726f97b7a73cc23de7d4bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xmwd-0CU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://adelphi.digital/assets/adelpimg/articles/conversational-ui.gif)
 
 技术书呆子和爱好者一直梦想着与人工智能或人工智能进行对话。完美人工智能的活的化身将是钢铁侠电影中的贾维斯。没有键盘，没有鼠标，没有手写笔。只是你的声音，与你的虚拟私人助理进行对话，为你工作。
 
@@ -20,15 +20,15 @@
 
 业界有几种类型的对话式 ui，流类型、AI 类型和混合类型。
 
-[![Flow type](../Images/92b3e81198ec9ea0c8de2bcbdfaf0b23.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KZ-7ejGY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://adelphi.digital/assets/adelphi/images/articles/flow-type.jpg)
+[![Flow type](img/92b3e81198ec9ea0c8de2bcbdfaf0b23.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KZ-7ejGY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://adelphi.digital/assets/adelpimg/articles/flow-type.jpg)
 
 **流类型**是一种基于树的交互方式，在这种方式下，用户可以选择并通过特定的路径进行驱动。这个路径是开发人员预先定义的，只能“去”界面告诉用户去的地方。这里的一个例子是选择你自己的冒险书籍。
 
-[![AI type](../Images/9bcac90829a4ee10eb75df4b90f18295.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f0swsQrm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://adelphi.digital/assets/adelphi/images/articles/ai-type.gif)
+[![AI type](img/9bcac90829a4ee10eb75df4b90f18295.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f0swsQrm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://adelphi.digital/assets/adelpimg/articles/ai-type.gif)
 
 人工智能类型依赖于人工智能，用户可以自由参与并进行真正的对话。类似谷歌助手、Siri 和 Cortana 之类的东西，所有的对话背后都有一个 AI 在驱动。
 
-[![Hybrid type](../Images/e59f73f3c06b3498fa4050538704216f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dL9KZgZY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://adelphi.digital/assets/adelphi/images/articles/hybrid-type.jpg)
+[![Hybrid type](img/e59f73f3c06b3498fa4050538704216f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dL9KZgZY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://adelphi.digital/assets/adelpimg/articles/hybrid-type.jpg)
 
 混合类型是最常见的对话式用户界面类型，这就是聊天机器人的用武之地。这是流类型和人工智能的结合，用户被驱动通过特定的路径，同时他们可以在对话中与聊天机器人互动。
 
@@ -68,4 +68,4 @@
 
 聊天机器人随处可见，它们使用自然语言与用户交流。我们可以通过利用语音交流来进一步增强用户体验。语音交互和语音用户界面将是该行业的下一个大事件。这是我学习经历的一个演示。有戏！
 
-[![Nathan AI Mk III](../Images/38e054b0f9a2ffbfb20a8c04fc311b33.png)http://adel.ph/nat](http://adel.ph/nat)
+[![Nathan AI Mk III](img/38e054b0f9a2ffbfb20a8c04fc311b33.png)http://adel.ph/nat](http://adel.ph/nat)

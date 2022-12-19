@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/essentialdeveloper/junior-ios-developers-can-be-more-productive-than-they-think-520p>
 
-[![Essential-Developer-thumbnail_v02.png](../Images/af3d9432651f307e92374b1c8aad0bd3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3ky6mhr4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5b920ba3758d469ab9e6e46c/1536297923193/Essential-Developer-thumbnail_v02.png%3Fformat%3D1000w)
+[![Essential-Developer-thumbnail_v02.png](img/af3d9432651f307e92374b1c8aad0bd3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3ky6mhr4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5b920ba3758d469ab9e6e46c/1536297923193/Essential-Developer-thumbnail_v02.png%3Fformat%3D1000w)
 
 当我们教初学者和初级 iOS 开发人员时，我们经常会观察到他们的低生产率和缺乏成就感的错觉。我们注意到许多新的、积极的程序员坐几个小时，练习、参加课程、看视频和在线搜索他们问题的潜在解决方案。然而，当我们定期要求他们向我们描述他们的感受时，他们通常会做出否定或怀疑的回答，因为他们无法以预期的速度推进项目。这是一种错误的看法，因为我们认为初级 iOS 开发人员比他们想象的更有效率。
 

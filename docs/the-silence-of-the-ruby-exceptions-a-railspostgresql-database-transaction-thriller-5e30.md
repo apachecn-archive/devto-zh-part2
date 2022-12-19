@@ -214,13 +214,13 @@ end
 
 我们的 gems [隔离器](https://github.com/palkan/isolator)和 [after_commit_everywhere](https://github.com/Envek/after_commit_everywhere/) 将使您的交易完全安全。
 
-## ![GitHub logo](../Images/375dfcc32199b4dedf2b526645c27ff7.png) [帕尔坎](https://github.com/palkan) / [隔离器](https://github.com/palkan/isolator)
+## ![GitHub logo](img/375dfcc32199b4dedf2b526645c27ff7.png) [帕尔坎](https://github.com/palkan) / [隔离器](https://github.com/palkan/isolator)
 
 ### 检测数据库事务中的非原子交互
 
 <article class="markdown-body entry-content p-5" itemprop="text">
 
-[![Cult Of Martians](../Images/4fb2de9c35a4e044062cdc8f80104034.png)](http://cultofmartians.com/tasks/isolator.html)[![Gem Version](../Images/f50f4b79473029beca062f3cbf44be1f.png)](https://badge.fury.io/rb/isolator)[![Build Status](../Images/103571a7c4e448091ef18f3c9ef3ea8f.png)](https://travis-ci.org/palkan/isolator)
+[![Cult Of Martians](img/4fb2de9c35a4e044062cdc8f80104034.png)](http://cultofmartians.com/tasks/isolator.html)[![Gem Version](img/f50f4b79473029beca062f3cbf44be1f.png)](https://badge.fury.io/rb/isolator)[![Build Status](img/103571a7c4e448091ef18f3c9ef3ea8f.png)](https://travis-ci.org/palkan/isolator)
 
 # 隔音装置
 
@@ -281,13 +281,13 @@ group :development, :test
 
 [View on GitHub](https://github.com/palkan/isolator)
 
-## ![GitHub logo](../Images/375dfcc32199b4dedf2b526645c27ff7.png) [恩维克](https://github.com/Envek)/[after _ commit _ everywhere](https://github.com/Envek/after_commit_everywhere)
+## ![GitHub logo](img/375dfcc32199b4dedf2b526645c27ff7.png) [恩维克](https://github.com/Envek)/[after _ commit _ everywhere](https://github.com/Envek/after_commit_everywhere)
 
 ### 在模型之外使用 ActiveRecord 事务性回调，实际上是在应用程序的任何地方。
 
 <article class="markdown-body entry-content p-5" itemprop="text">
 
-[![Gem Version](../Images/1a8161136361d98f872648c8c41092ce.png) ](https://rubygems.org/gems/after_commit_everywhere) [ ![Build Status](../Images/2ee50cf1bf5839643a57b839efdc591a.png)](https://travis-ci.org/Envek/after_commit_everywhere)
+[![Gem Version](img/1a8161136361d98f872648c8c41092ce.png) ](https://rubygems.org/gems/after_commit_everywhere) [ ![Build Status](img/2ee50cf1bf5839643a57b839efdc591a.png)](https://travis-ci.org/Envek/after_commit_everywhere)
 
 # `after_commit`到处都是
 
@@ -298,7 +298,7 @@ group :development, :test
 *   https://dev.to/evilmartians/rails-aftercommit-everywhere-4j9g
 *   [https://blog . arkency . com/2015/10/run-it-in-background-job-after-commit/](https://blog.arkency.com/2015/10/run-it-in-background-job-after-commit/)
 
-[![Sponsored by Evil Martians](../Images/14ebd19001df8446f427d5e629d6a791.png)T2】](https://evilmartians.com/?utm_source=after_commit_everywhere&utm_campaign=project_page)
+[![Sponsored by Evil Martians](img/14ebd19001df8446f427d5e629d6a791.png)T2】](https://evilmartians.com/?utm_source=after_commit_everywhere&utm_campaign=project_page)
 
 ## 装置
 

@@ -22,7 +22,7 @@
 
 我创建了一个简单的图表来概括不同的 API 和概念。它通过一系列动作/它们之间的关系来连接各个部分。
 
-[![](../Images/a2411d09c801d7b0ac6b5f8b62e81d1e.png "Web Push API Workflow")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jpx-k254--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://60devs.com/img/article-getting-started-with-web-push-api/push.png)
+[![](img/a2411d09c801d7b0ac6b5f8b62e81d1e.png "Web Push API Workflow")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jpx-k254--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://60devs.com/img/article-getting-started-with-web-push-api/push.png)
 
 所以一切都从您的网页上的一些 JavaScript 代码开始，这些代码注册(1)一个服务人员。服务工作器提供(2)一个服务工作器注册对象，该对象反过来提供对推送管理器实例的访问(3)。如果用户允许，推送管理器可以向我们提供(4)推送订阅。这个订阅对象可以发送到您的后端(5)。在服务器上，您可以使用订阅向用户的浏览器发送消息(6)。服务人员收到(7)该消息，但它不会自动显示给用户。服务人员解析消息，并决定如何处理它。通常，工作人员使用通知 API 显示通知(8)。
 

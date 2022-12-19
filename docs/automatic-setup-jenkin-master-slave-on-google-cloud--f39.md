@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/vnpatriot/automatic-setup-jenkin-master-slave-on-google-cloud--f39>
 
-[![Alt text of image](../Images/84c38aa728c837fe9ba77597e8d55f0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DX_7MZDV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AgVVf9VUuIMuyeILDNo1ghQ.png)
+[![Alt text of image](img/84c38aa728c837fe9ba77597e8d55f0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DX_7MZDV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AgVVf9VUuIMuyeILDNo1ghQ.png)
 
 # 摘要
 
@@ -77,7 +77,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 基本上，这个部分将用于为 GCP 提供一个规则，我们只允许 2 个端口 8080 和 443。一旦你运行它，你会看到新的规则将出现在你的 GCP 网络控制台
 
-[![alt_test](../Images/8df3a17de1e4d8a406d75cab015f93b3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9iMni6Um--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/nezgHcE.png)T3】
+[![alt_test](img/8df3a17de1e4d8a406d75cab015f93b3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9iMni6Um--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/nezgHcE.png)T3】
 
 ```
 ### To provision Jenkins Master ###
@@ -140,7 +140,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 同样，从机将与主节点同时创建。但它将等待 2 分钟，以从 KeyValue.xyz 获取正确的 Key - IP 地址。一旦它拥有足够的信息，1 个容器实例将被提供从 KeyValue 接收的信息，您可以从 Jenkins 主仪表板上看到它们。
 
-[![alt_test](../Images/ed7344f2dada49b75352d3bb6eb1f6a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--37XC2Kbk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/yfsI5pJ.png)
+[![alt_test](img/ed7344f2dada49b75352d3bb6eb1f6a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--37XC2Kbk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/yfsI5pJ.png)
 
 完成后，您可能会收到所有节点的 IP 地址
 

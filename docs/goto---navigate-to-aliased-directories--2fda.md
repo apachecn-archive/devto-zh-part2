@@ -4,7 +4,7 @@
 
 我创建了一个名为 [goto](https://github.com/iridakos/goto) 的 bash 实用程序，它允许用户导航到别名目录。
 
-[![goto](../Images/34de45672590e2a3e92c6bc38d58eb74.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0BXdG5Vj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/iridakos/goto/master/doc/goto.gif)
+[![goto](img/34de45672590e2a3e92c6bc38d58eb74.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0BXdG5Vj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/iridakos/goto/master/doc/goto.gif)
 
 它附带了一个很好的自动完成脚本，这样每当你在`goto`命令后按下`tab`键，bash 就会提示可用别名的建议:
 

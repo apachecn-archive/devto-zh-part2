@@ -60,4 +60,4 @@
 52.  如果你重读你的作品，你会发现大量的重复可以通过重读和编辑来实现。
 53.  一定要完成什么
 
-[![](../Images/e6a135ab8e8401dab09f7c31966352a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EPaRxGw9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/WorkingDev/%257E4/cadQMseQnzo)
+[![](img/e6a135ab8e8401dab09f7c31966352a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EPaRxGw9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/WorkingDev/%257E4/cadQMseQnzo)

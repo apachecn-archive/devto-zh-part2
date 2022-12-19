@@ -4,7 +4,7 @@
 
 欢迎来到第八天的跟我一起写挑战。上周早些时候，我问 Dev.to 社区，他们是否可以给我关于 Elixir 的最佳工具提示和指南，结果没有让我失望。
 
-[![matt24ray image](../Images/e7c47783dc1319d52f0f08caf9282848.png)](/matt24ray) [## 学习灵丹妙药的最佳资源
+[![matt24ray image](img/e7c47783dc1319d52f0f08caf9282848.png)](/matt24ray) [## 学习灵丹妙药的最佳资源
 
 ### matt 24 ray Jul 27 ' 181min read
 

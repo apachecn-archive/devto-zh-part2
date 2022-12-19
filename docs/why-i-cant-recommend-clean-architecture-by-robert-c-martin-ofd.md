@@ -48,7 +48,7 @@
 
 这本书给我留下了许多未解之谜。各种选择的经济学讨论在哪里？如何为我的系统找到最佳架构？研究在哪里？
 
-[![unanswered questions](../Images/3f92416e4ddf05511bfbef9f27b7d6cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VSoeft3K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fll25irsu1xbd0268kq2.jpg)
+[![unanswered questions](img/3f92416e4ddf05511bfbef9f27b7d6cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VSoeft3K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fll25irsu1xbd0268kq2.jpg)
 
 我如何决定水平分层或垂直切片或其他方式是否会最小化我的系统的生命周期成本？或者，如果我没有明确定义的层，我如何决定哪种分层策略(如果有的话)将最小化我的生命周期成本？
 

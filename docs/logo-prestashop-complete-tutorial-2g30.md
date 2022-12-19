@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/franken/logo-prestashop-complete-tutorial-2g30>
 
-[![](../Images/60b6bda0397c55d7241bc93888516209.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e1rmYvnQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.com/images/stories/logo-prestashop.jpg)
+[![](img/60b6bda0397c55d7241bc93888516209.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e1rmYvnQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.cimg/stories/logo-prestashop.jpg)
 
 [Logo Prestashop](https://www.prestasoo.com/blog/logo-prestashop.html?utm_source=devto&utm_medium=article&utm_campaign=logo_prestashop) ？你有多了解你网站上的标志？如何自定义，用另一个替换默认 logo？我在这个[教程](https://www.prestasoo.com/Blog/?utm_source=devto&utm_medium=article&utm_campaign=logo_prestashop)中编译了所有关于用 Prestashop 制作的网站标志的内容。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/damdigital/visual-studio-2017-extensions-1kd5>
 
-[![Laptop](../Images/91c818b60dae77220f1e77872b7cf9a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5RKCZIAT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c6cteil66mufbgc2v387.jpg)
+[![Laptop](img/91c818b60dae77220f1e77872b7cf9a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5RKCZIAT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c6cteil66mufbgc2v387.jpg)
 
 *这篇文章最初出现在[理查德·巴拉德的博客](https://richardballard.co.uk/visual-studio-2017-extensions/)T3 上*
 

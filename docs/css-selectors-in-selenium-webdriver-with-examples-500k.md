@@ -6,7 +6,7 @@
 
 CSS 选择器是元素选择器和选择器值的组合，用于标识网页中的 web 元素。元素选择器和选择器值的组合称为选择器模式。选择器模式是使用 HTML 标签、属性及其值构建的。创建 CSS 选择器和 Xpath 的过程背后的主题非常相似，唯一的区别是它们的构造协议。
 
-[![](../Images/0f68ab4572df0ef2f030dadffb942aa6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h3QGxtO4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-FG7qr5LzZ3E/WsLpGE_XS0I/AAAAAAAABew/Wo8leGFelug2lR6HbchOtbz4Sli2Zks8QCLcBGAs/s400/css%252Bselectors.jpg)
+[![](img/0f68ab4572df0ef2f030dadffb942aa6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h3QGxtO4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-FG7qr5LzZ3E/WsLpGE_XS0I/AAAAAAAABew/Wo8leGFelug2lR6HbchOtbz4Sli2Zks8QCLcBGAs/s400/css%252Bselectors.jpg)
 
 在这篇文章中，我们将讨论如何在 selenium WebDriver java 中使用 css 选择器。大多数自动化测试人员认为，与 XPath locator 相比，使用 CSS 选择器可以更快地执行脚本。CSS 选择器定位器始终是在页面上定位元素的最佳方式。不管浏览器如何，CSS 总是一样的。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nasa9084/totp-5doe>
 
-[![TOTPを実装する](../Images/8468dba9a2b242fb1c5997921d4ca285.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hcsFDC6R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.web-apps.tech/content/images/2018/03/gopher-5.png)
+[![TOTPを実装する](img/8468dba9a2b242fb1c5997921d4ca285.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hcsFDC6R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.web-apps.tech/conteimg/2018/03/gopher-5.png)
 
 这是近几年很多服务都采用的双因素认证，大家在用吗？
 

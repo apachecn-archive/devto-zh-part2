@@ -2,8 +2,8 @@
 
 > 原文：<https://dev.to/binygal/5-lessons-learned-from-side-projects-4gdb>
 
-> ![](../Images/6d70b9abbf0bf1c0637433b3c86d4250.png)我是开发者@ iamdevloper![](../Images/4d9c44713c216584b3d48ff3455cbb68.png)【午夜，一个水管工坐在家里浑身是水，修理漏水的水龙头】
-> 【我爱身边的项目】2018 年 6 月 12:41[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1004342391137034240)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1004342391137034240)799[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1004342391137034240)
+> ![](img/6d70b9abbf0bf1c0637433b3c86d4250.png)我是开发者@ iamdevloper![](img/4d9c44713c216584b3d48ff3455cbb68.png)【午夜，一个水管工坐在家里浑身是水，修理漏水的水龙头】
+> 【我爱身边的项目】2018 年 6 月 12:41[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1004342391137034240)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1004342391137034240)799[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1004342391137034240)
 
 从我成为专业软件工程师的第一天起，我总是花一些时间开发我自己的兼职项目。虽然有些副业没有意义(就像上面的推文)，但我看到副业对我的职业生涯有巨大的好处，所以我决定写一些我学到的如何最大化副业效果的经验。
 

@@ -34,7 +34,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在我们继续之前，有必要了解一下这个应用程序在图像处理方面有多忙。我们所有的图像处理都是通过 AWS [SNS](https://aws.amazon.com/sns/) 和 [SQS](https://aws.amazon.com/sqs/) 分布在农场各处。使用[云观察指标](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/working_with_metrics.html)我们可以很容易地看到:-
 
-[![6](../Images/f7c1b090906d23cad4f6ab08003146bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mysU3o8F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4nmtxgxmi40fvb23wii2.png)
+[![6](img/f7c1b090906d23cad4f6ab08003146bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mysU3o8F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4nmtxgxmi40fvb23wii2.png)
 
 好吧，所以*相当*忙。值得注意的是，在*执行任何*以性能为中心的工作之前，总是要确定代码被击中的频率和当前的成本。如果代码路径具有高成本(例如，花费 20 秒)，但是每天仅命中一次，则不值得调查。然而，如果同一个代码路径被大量访问(例如，一天一百万次)，那么它绝对值得调查。
 
@@ -89,13 +89,13 @@ public class UploaderV1 : IUploader
 
 Enter fullscreen mode Exit fullscreen mode
 
-如果我们将[相同的图像](https://a0.awsstatic.com/main/images/logos/aws_logo_smile_1200x630.png)上传十次，并使用[点迹](https://www.jetbrains.com/profiler/)查看杂合性缺失，我们会看到一个有趣的模式
+如果我们将[相同的图像](https://a0.awsstatic.com/maimg/logos/aws_logo_smile_1200x630.png)上传十次，并使用[点迹](https://www.jetbrains.com/profiler/)查看杂合性缺失，我们会看到一个有趣的模式
 
-[![7](../Images/08dc0638fdbddf608bd586c8d2efce49.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9WQZ5rBg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fduybqnqias4aj9b96d8.png)
+[![7](img/08dc0638fdbddf608bd586c8d2efce49.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9WQZ5rBg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fduybqnqias4aj9b96d8.png)
 
 看起来每次我们在 AWS 上给 S3 打电话。NET 客户端有一个固定成本`0.3 MB`。这是一个问题，因为这意味着你每次使用`PutObject`，每次上传都要支付`0.3 MB`的高额费用。只是为了确认一下。如果我们把上传的次数从十次增加到一百次会怎么样？
 
-[![32](../Images/4e654525f4bd7bc7dc5f94edc8283cdb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mcMlgQ5A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/72kjmu21billvx46b7ig.png)
+[![32](img/4e654525f4bd7bc7dc5f94edc8283cdb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mcMlgQ5A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/72kjmu21billvx46b7ig.png)
 
 是的，我们可以肯定地说，每次调用`PutObject`都会对`0.3 MB`进行代价高昂的分配。更进一步，使用 [ProcDump](https://docs.microsoft.com/en-us/sysinternals/downloads/procdump) :-
 转储进程
@@ -126,7 +126,7 @@ LOH 是一个被*收集*但从未*压缩*的内存区域——尽管截至。NET
 
 多亏了 dotTrace，我们能够准确地确定是什么导致了 LOH 片段化。它还向我们展示了每次调用`PutObject`的固定成本`0.3 MB`发生在`ChunkedUploadWrapperStream`的构造函数内部
 
-[![29](../Images/812be127b18477468ab00580eef84f09.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S-eIaCKp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dxfexic4hzs0naxbmsun.JPG)
+[![29](img/812be127b18477468ab00580eef84f09.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S-eIaCKp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dxfexic4hzs0naxbmsun.JPG)
 
 快速访问 aws-sdk-net 存储库中的文件[。显示创建了两个长度至少为`131,072` :-
 的`byte[]`数组](https://github.com/aws/aws-sdk-net/blob/9814e245e0cd9c4435a17185e866813869d427da/sdk/src/Core/Amazon.Runtime/Internal/Util/ChunkedUploadWrapperStream.cs#L73)
@@ -262,7 +262,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 感谢我的[上一篇文章](https://dev.to/indy_singh_uk/strings-are-evil-9f9)，我已经知道了什么是[书呆子狙击](https://xkcd.com/356/)——我对自己做了很多。在这个阶段，我对还有什么可以剪掉感到头晕目眩，我完全看着剩下的 LOH。同样，dotTrace 为我们指出了导致`0.4 MB`分配给 LOH 的代码路径的方向
 
-[![31](../Images/1f97916270e2a621b6e97365aaf60150.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UPH4ZiiX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0p87n361mu9tucdx6gwo.JPG)
+[![31](img/1f97916270e2a621b6e97365aaf60150.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UPH4ZiiX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0p87n361mu9tucdx6gwo.JPG)
 
 呀，那看起来相当严重。悄悄后退，尝试不同的策略；我们知道一个预先签名的网址看起来像这样:-
 

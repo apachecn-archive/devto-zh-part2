@@ -14,7 +14,7 @@
 
 在这一部分，我想写一下我花了大约 *20 多分钟*来托管我的应用程序的步骤。在此之前，我将分享我的 webpack 配置文件。
 
-[![Imgur](../Images/f2861e5170df280604ba738c283c2082.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lC1HRJL9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/LcAYRcm.png)
+[![Imgur](img/f2861e5170df280604ba738c283c2082.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lC1HRJL9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/LcAYRcm.png)
 
 # 1。安装ˌ使成形
 

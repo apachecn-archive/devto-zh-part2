@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kyletummondsthrinacia/how-can-i-start-a-crowdfunding-website--35pi>
 
-[![Crowdfunding](../Images/8bac533f37cf9d4f067439ca3950334f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f14M6viI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/njpygfssus0nfc0g6xjg.jpg)
+[![Crowdfunding](img/8bac533f37cf9d4f067439ca3950334f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f14M6viI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/njpygfssus0nfc0g6xjg.jpg)
 
 你想先问问自己，你希望运营哪种众筹网站？股权还是奖励？也许是完全不同的东西？你会考虑将众筹整合到你现有的网站中吗？在众筹的早期，一个网站必须从头开始建立。这将是一个非常昂贵的过程。然而，近年来出现了许多不同的主题和软件，让你可以在几分钟内轻松创建自己的众筹网站。几乎任何人，即使预算很少，现在也可以运营他们的众筹网站。
 

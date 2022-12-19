@@ -105,7 +105,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 你的文件夹里应该有这样的东西。
 
-[![A classic disassembled package folder](../Images/f0e7ee3babdbd1714698cd343873b966.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3Md8ZKrw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AA2d4BApKHT0cI6KM_Coi2A.png)T3】
+[![A classic disassembled package folder](img/f0e7ee3babdbd1714698cd343873b966.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3Md8ZKrw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AA2d4BApKHT0cI6KM_Coi2A.png)T3】
 
 <center>
 
@@ -259,13 +259,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 这就是为什么我创建了下面的 Go 程序， [androSecTest](https://github.com/Shosta/androSecTest) ，它设置并开始执行一些攻击，如逆向工程、不安全的本地存储、不安全的日志记录和中间人攻击。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)[【shosta】](https://github.com/Shosta)/[【雄 sec test】](https://github.com/Shosta/androSecTest)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)[【shosta】](https://github.com/Shosta)/[【雄 sec test】](https://github.com/Shosta/androSecTest)
 
 ### 从这个应用程序，连接一部手机，从中提取任何应用程序，反编译，去泡沫，删除证书钉和重新打包。同时，对其进行静态和动态分析。
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-[![Ask me anything](../Images/f38375515ef01b773629ceba17ffaae6.png)](https://github.com/Shosta/androSecTest/stargazers)[![Maintained](../Images/81116ae2c8c78934156f66f8872a36f3.png)](https://github.com/Shosta/androSecTest/stargazers)[![GitHub stars](../Images/ab208ac81e6cf807434ac458f72f9240.png)](https://github.com/Shosta/androSecTest/stargazers)[![GitHub forks](../Images/51b7fd2b4a750d62e647d93c49268706.png)](https://github.com/Shosta/androSecTest/network)[![GitHub license](../Images/f1b2e7dbcae465684900fa3a04dfa1b3.png)](https://github.com/Shosta/androSecTest/blob/master/LICENSE.md)[![Pentest](../Images/37bcc7d5e3c66d48b39893e2cdd480d9.png)](https://github.com/Shosta/androSecTest/stargazers)
+[![Ask me anything](img/f38375515ef01b773629ceba17ffaae6.png)](https://github.com/Shosta/androSecTest/stargazers)[![Maintained](img/81116ae2c8c78934156f66f8872a36f3.png)](https://github.com/Shosta/androSecTest/stargazers)[![GitHub stars](img/ab208ac81e6cf807434ac458f72f9240.png)](https://github.com/Shosta/androSecTest/stargazers)[![GitHub forks](img/51b7fd2b4a750d62e647d93c49268706.png)](https://github.com/Shosta/androSecTest/network)[![GitHub license](img/f1b2e7dbcae465684900fa3a04dfa1b3.png)](https://github.com/Shosta/androSecTest/blob/master/LICENSE.md)[![Pentest](img/37bcc7d5e3c66d48b39893e2cdd480d9.png)](https://github.com/Shosta/androSecTest/stargazers)
 
 # Android-静态-安全-审计
 

@@ -14,7 +14,7 @@
 
 [视图对](https://anymod.com/mod/rblkl?v=20)视图
 
- [![](../Images/0a184b92d5cb7757a67c2ed3ecc8b5b2.png)
+ [![](img/0a184b92d5cb7757a67c2ed3ecc8b5b2.png)
 T4】](https://anymod.com/mod/rblkl?v=20)
 
 ## 滑动图库
@@ -23,7 +23,7 @@ T4】](https://anymod.com/mod/rblkl?v=20)
 
 [视图对](https://anymod.com/mod/dmnob?v=20)视图
 
- [![](../Images/44c6a944952976ce91922e17b6c459c2.png)
+ [![](img/44c6a944952976ce91922e17b6c459c2.png)
 T4】](https://anymod.com/mod/dmnob?v=20)
 
 ## 团队成员简介
@@ -32,7 +32,7 @@ T4】](https://anymod.com/mod/dmnob?v=20)
 
 [视图对](https://anymod.com/mod/korbd?v=20)视图
 
- [![](../Images/d022b81f102173c741bc870978c713e9.png)
+ [![](img/d022b81f102173c741bc870978c713e9.png)
 T4】](https://anymod.com/mod/korbd?v=20)
 
 ## 动画计数器
@@ -41,7 +41,7 @@ T4】](https://anymod.com/mod/korbd?v=20)
 
 [视图对](https://anymod.com/mod/mkrmk?v=20)视图
 
- [![](../Images/8e6554265ac9b7917a066cc4e5797d5e.png)
+ [![](img/8e6554265ac9b7917a066cc4e5797d5e.png)
 T4】](https://anymod.com/mod/mkrmk?v=20)
 
 ## 脸书评论部分
@@ -50,7 +50,7 @@ T4】](https://anymod.com/mod/mkrmk?v=20)
 
 [视图对](https://anymod.com/mod/orlam?v=32)视图
 
- [![](../Images/f3e76061e27c3d34d3587372dbd53bcd.png)
+ [![](img/f3e76061e27c3d34d3587372dbd53bcd.png)
 T4】](https://anymod.com/mod/orlam?v=32)
 
 * * *

@@ -6,7 +6,7 @@
 
 请在 [Twitter](https://twitter.com/SandorDargo/status/1018735089134469122) 上投票:
 
-> ![](../Images/63c75889e4f081e55fe1440a27d532ca.png)Sandor Dargo@ sandordargo![](../Images/4d9c44713c216584b3d48ff3455cbb68.png)作为一名 [#developer](https://twitter.com/hashtag/developer) 的工作人员，你多久做一次 [#code](https://twitter.com/hashtag/code) ？如果你想看更多的结果，请。2018 年 7 月 16 日上午 05:52[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1018735089134469122)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1018735089134469122)1[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1018735089134469122)1
+> ![](img/63c75889e4f081e55fe1440a27d532ca.png)Sandor Dargo@ sandordargo![](img/4d9c44713c216584b3d48ff3455cbb68.png)作为一名 [#developer](https://twitter.com/hashtag/developer) 的工作人员，你多久做一次 [#code](https://twitter.com/hashtag/code) ？如果你想看更多的结果，请。2018 年 7 月 16 日上午 05:52[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1018735089134469122)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1018735089134469122)1[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1018735089134469122)1
 
 感谢您的合作！
 

@@ -4,7 +4,7 @@
 
 编写测试是软件工程师的一项重要技能。我曾经写过许多非常集中的、狭隘的单元测试。然而，我经常发现这样的测试阻碍了重构，并且几乎无助于捕捉回归。这些问题是由我糟糕的设计选择引起的，还是单元测试固有的，这不是这篇文章的重点。然而，事实是现在我倾向于编写更粗粒度的集成风格的测试。这种方法有一个缺点:速度。例如，与使用一个假的存储库实现相比，使用 Hibernate 和一个成熟的数据库相对较慢。今天我写的是以一种有助于测试的方式使用 [Querydsl](http://www.querydsl.com/) 抽象数据库访问。
 
-[![test](../Images/b6849de29c595813289de5b00249c272.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fi9-mc-J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vbbymak91lui0hlm9bny.jpg)
+[![test](img/b6849de29c595813289de5b00249c272.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fi9-mc-J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vbbymak91lui0hlm9bny.jpg)
 
 # Querydsl 牛逼
 

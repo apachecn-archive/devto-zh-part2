@@ -32,7 +32,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在我们有了图书馆，让我们开始有趣的东西。在这个例子中，我们将拍摄多个人(或你自己)的照片，并应用分割 HSV、饱和度和色调过滤器，以及显示按位过滤器。结果应该是这样的
 
-[![If this shows I probably broke something](../Images/32e4bfd720b0f1199791cca0f8873bfc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PNITdePx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/kLfO9gl.png)
+[![If this shows I probably broke something](img/32e4bfd720b0f1199791cca0f8873bfc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PNITdePx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/kLfO9gl.png)
 
 代码
 

@@ -10,7 +10,7 @@ CAP 定理是 Eric Brewer 在 2000 年分布式计算原理研讨会(PODC)上创
 
 **分区容忍** -尽管存在网络分区，系统仍能继续运行并维持其一致性保证。一旦分区修复，分布式系统也必须正常恢复。
 
-[![](../Images/7ce20b046f28dbd9b183884c967a3622.png)T2】](https://1.bp.blogspot.com/-h0hSJTgzZaA/Ww09w6ecuiI/AAAAAAAAzR0/MuH9VIqutv4YyTMqlvlpscnCNP-0b7JyACPcBGAYYCw/s1600/CAP.PNG)
+[![](img/7ce20b046f28dbd9b183884c967a3622.png)T2】](https://1.bp.blogspot.com/-h0hSJTgzZaA/Ww09w6ecuiI/AAAAAAAAzR0/MuH9VIqutv4YyTMqlvlpscnCNP-0b7JyACPcBGAYYCw/s1600/CAP.PNG)
 
 CAP 定理将系统分为三类
 

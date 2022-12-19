@@ -4,7 +4,7 @@
 
 苹果的年度 iOS 更新 iOS 12 将于今年晚些时候登陆设备。它将带来一些东西，比如你的标准性能改进，新的 Animoji 功能，memo Ji——因为每个人都想把自己变成 animo Ji——群组 FaceTime，相机效果，限制屏幕时间的方法，增强现实，数字健康，Siri 快捷方式，以及专注于与 iOS 用户分享你的体验，这些都是这次更新的关键亮点。
 
-[![iOS 12 Features](../Images/117eed1e73d74d1c53de5c497e864c03.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3qlVMz2U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/69a7b5neai222caz86p5.png)
+[![iOS 12 Features](img/117eed1e73d74d1c53de5c497e864c03.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3qlVMz2U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/69a7b5neai222caz86p5.png)
 
 *下面是 iOS 12 新增功能列表:*
 
@@ -42,7 +42,7 @@ Facetime 现在支持多达 32 个用户的群组视频通话，用户甚至可�
 
 苹果终于在 iOS 12 中引入了分组通知，这是一个巨大且期待已久的步骤。下一个重大的 iOS 更新，今天开始向开发者播种，将支持分组通知，你可以很容易地解除来自同一个应用程序的所有警告，以避免通知地狱。分组通知将堆叠在锁屏上，从那里你可以将某些应用程序驱逐到通知中心的“安静”部分。您还可以更轻松地关闭某些应用程序的通知。
 
-[![iOS 12](../Images/911b7f66b3f60015eb89711bbfb6785c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gT8jEpQ---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/www.gadgetsdesk.com/wp-content/uploads/2018/06/gd2-1.jpg%3Fresize%3D768%252C432)
+[![iOS 12](img/911b7f66b3f60015eb89711bbfb6785c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gT8jEpQ---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/www.gadgetsdesk.com/wp-content/uploads/2018/06/gd2-1.jpg%3Fresize%3D768%252C432)
 
 **测量 App**
 

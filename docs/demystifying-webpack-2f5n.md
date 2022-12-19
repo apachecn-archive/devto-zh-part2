@@ -63,19 +63,19 @@ Enter fullscreen mode Exit fullscreen mode
 
 webpack 要做的第一件事是分析存在的模块，并形成一个依赖图。依赖图是一个有向图，表示每个模块如何连接到另一个模块。它在 npm、maven、snap 等包管理器中非常流行。它从入口点`A.js`开始，我们的图最初看起来像这样，只有一个节点。
 
-[![Initial](../Images/fe8ca5b9c7e6515ce195c542a810a0c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r9r6jcKn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uf05r05cqru5f3xhugk1.png)
+[![Initial](img/fe8ca5b9c7e6515ce195c542a810a0c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r9r6jcKn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uf05r05cqru5f3xhugk1.png)
 
 然后 webpack 知道`A.js`需要`B.js`，于是它在图中创建了一个从 A 到 B 的链接。
 
-[![Second](../Images/2f0ca3457635b653db97b3e88c6056df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vKpA-Nyp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0thvsy6zdg9yotszn2qz.jpg)
+[![Second](img/2f0ca3457635b653db97b3e88c6056df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vKpA-Nyp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0thvsy6zdg9yotszn2qz.jpg)
 
 现在分析`B.js`，它发现它也需要`C.js`。所以在图中，它又创建了一个从 B 到 c 的链接。
 
-[![Third](../Images/311123d04afe3ab03a1817a6aa86382b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---Uy1iwZ_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4vso7sum2pn65ytph50j.jpg)
+[![Third](img/311123d04afe3ab03a1817a6aa86382b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---Uy1iwZ_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4vso7sum2pn65ytph50j.jpg)
 
 现在假设如果`A.js`需要另一个名为`D.js`的文件，而这个文件又需要`C.js`，那么这个图就变成了
 
-[![Extra](../Images/0ed68a5aed066b30e40ce2c73ffd17c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VYjte1Vy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n38p3zplkk6o6bjy7jak.jpg)
+[![Extra](img/0ed68a5aed066b30e40ce2c73ffd17c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VYjte1Vy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n38p3zplkk6o6bjy7jak.jpg)
 
 看，这是相对简单的东西。现在在`C.js`中，webpack 意识到它没有更多的模块作为依赖关系，因此输出完整的依赖关系图。
 

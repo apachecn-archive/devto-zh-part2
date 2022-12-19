@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/uday_rayala/code-review-checklist-20c6>
 
-[![](../Images/3140562f21e01bc0599c8adfbf10d2bc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RCRbAW67--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/854/1%2AJyDMwcM4jfOAkg6UO6ChEw.jpeg)
+[![](img/3140562f21e01bc0599c8adfbf10d2bc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RCRbAW67--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/854/1%2AJyDMwcM4jfOAkg6UO6ChEw.jpeg)
 
 <figcaption>[http://blog . smartbear . com/WP-content/uploads/2015/09/Creating-Your-Code-Review-check list . jpg](http://blog.smartbear.com/wp-content/uploads/2015/09/Creating-Your-Code-Review-Checklist.jpg)</figcaption>
 

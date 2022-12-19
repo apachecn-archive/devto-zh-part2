@@ -8,7 +8,7 @@
 
 你可以查看[官方文档](https://reactjs.org/docs/hooks-intro.html) &也有如下文章，
 
-[![vcarl image](../Images/455174a90bce4c193c773c0e82aa5125.png)](/vcarl) [## 关于 React Hooks 你需要知道的一切
+[![vcarl image](img/455174a90bce4c193c773c0e82aa5125.png)](/vcarl) [## 关于 React Hooks 你需要知道的一切
 
 ### 卡尔·维图洛 10 月 25 日 18 时 10 分阅读
 

@@ -16,7 +16,7 @@
 
 那是 1995 年。微软为其革命性的新操作系统 Windows 95(T1)发起了一场大规模的营销活动，T2 的美国在线(T3)和 T4 的神童(T5)开始首次提供访问万维网的服务。
 
-[![Netscape Navigator 2.0](../Images/af84ee0f5c8a488efff6708a09123391.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9VYC3G8---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8prb4qloclqcuj0c7737.png)
+[![Netscape Navigator 2.0](img/af84ee0f5c8a488efff6708a09123391.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9VYC3G8---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8prb4qloclqcuj0c7737.png)
 
 今年年底，网景公司推出了他们浏览器的 2.0 版本:网景导航器。这一版本包括了多项改进和新特性，其中有两项技术将彻底改变网络，我们现在仍在使用:Javascript，当然还有动画 GIF。
 
@@ -28,15 +28,15 @@ Javascript 是由 Brendan Eich 在 1995 年 9 月[只用了 10 天](https://www.
 
 随着万维网的普及，在 1995 年和 1996 年之间增加了一倍多，开发人员转向不同的解决方案来利用该平台。
 
-[![Java](../Images/23c26125a2484107974a676b30a32479.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j9BaB1gy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w2x5dpievyg2i1grm1sv.png)
+[![Java](img/23c26125a2484107974a676b30a32479.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j9BaB1gy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w2x5dpievyg2i1grm1sv.png)
 
 同年公开发布的 Java 承诺完全的可移植性，并以它们的小应用程序瞄准了网络。现在很容易讨厌 Java 小程序这种技术，但是很长一段时间以来，它都是以跨平台的方式将应用程序编程引入 web 的首选方式。
 
-[![ActiveX](../Images/862a928409c7490b180d6e587b3b337a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--de5hoq-P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7d6do6f451cjmc30307q.png)
+[![ActiveX](img/862a928409c7490b180d6e587b3b337a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--de5hoq-P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7d6do6f451cjmc30307q.png)
 
 当然，微软也提供了 Java 小程序的替代品。通过在他们的 Internet Explorer 3.0 (1996)浏览器中引入对 ActiveX 控件的支持，他们打算利用 Windows 开发人员将他们的代码移植到 Web 上的渴望。ActiveX 很难保护，也不像 Java 小程序那样可移植，但它在企业内部网应用中非常成功，我敢打赌，在大企业或政府公司中仍然有一些应用程序使用它，并且只在 Internet Explorer 上运行。
 
-[![Flash](../Images/44772a7faa365db000ca525c991eab5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sv9l-9am--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9ms3eghocj5hunih90ua.png)
+[![Flash](img/44772a7faa365db000ca525c991eab5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sv9l-9am--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9ms3eghocj5hunih90ua.png)
 
 同年，一家名为 Macromedia(后来被 Adobe 收购)的小公司发布了他们的 Flash web 插件，该插件拥有用于创建多媒体内容的优秀创作工具。Flash 风靡网络。到 2005 年，几乎 98%的电脑都安装了 flash 插件，如果不是史蒂夫·乔布斯顽固地不支持其 iOS 平台的 flash 插件，它可能仍在使用，而不是 HTML5/Javascript。
 
@@ -44,7 +44,7 @@ Javascript 是由 Brendan Eich 在 1995 年 9 月[只用了 10 天](https://www.
 
 即使从最坏的想法中，有价值的东西也能被拯救出来。1999 年，在开发 Microsoft Exchange 2000 邮件服务器时，Outlook Web App 团队开发了 ActiveX XML-HTTP 组件。这个想法很棒，首次开启了无需重新加载网页就能与服务器通信的可能性。这是一个如此强大的想法，以至于不久它就被所有的浏览器厂商所采用:到 2002 年，Mozilla 已经在其 Javascript API 中实现了它的一个版本，称之为 XMLHttpRequest。两年后 Safari 也实现了它。
 
-[![Ajax](../Images/04fa17ceb03f867c1a650eebfd9cb516.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rMB4DkFj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ibei8xpgynewme2gq2bs.png)
+[![Ajax](img/04fa17ceb03f867c1a650eebfd9cb516.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rMB4DkFj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ibei8xpgynewme2gq2bs.png)
 
 javascript 对 XMLHttpRequest 的支持在后来被称为 Ajax 的一系列技术中发挥了重要作用，它彻底改变了可以用 Javascript 开发的应用程序类型。
 
@@ -66,7 +66,7 @@ javascript 对 XMLHttpRequest 的支持在后来被称为 Ajax 的一系列技�
 
 Google 和 Mozilla 几乎同时致力于为 web 编译 C/C++，这表明需要一个标准的解决方案来解决这个问题。
 
-[![WebAssembly](../Images/f6301898efafd18c97ba91f359c03f6c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3M2t5C85--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2v87r20os4o070bszljb.png)
+[![WebAssembly](img/f6301898efafd18c97ba91f359c03f6c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3M2t5C85--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2v87r20os4o070bszljb.png)
 
 2015 年 6 月 17 日，Javascript 创始人 Brandon Eich 和 Mozilla 的 Luke Wagner(ASM . js 的创始人之一)宣布开始开发 WebAssembly。
 

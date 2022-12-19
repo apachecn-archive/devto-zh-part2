@@ -142,7 +142,7 @@ zuix.js 控制器的另一个特性是你可以在同一个元素上装载任意
 
 转到第一个帖子:
 
-[![genejams](../Images/ab410dc05437d55e52306d6bb995095d.png)](/genejams) [## 基于组件的 web 与 zuix.js
+[![genejams](img/ab410dc05437d55e52306d6bb995095d.png)](/genejams) [## 基于组件的 web 与 zuix.js
 
 ### { Gene } Jul 18 ' 183min read
 

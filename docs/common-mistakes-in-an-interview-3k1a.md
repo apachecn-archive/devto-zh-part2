@@ -4,7 +4,7 @@
 
 我一直在关注这位科技领袖，喜欢他对科技职业的一些原始建议。他有时说很多讽刺的话，我喜欢。这是关于做人的问题。这张草图总结了他最近分享的关于技术面试中常见错误的视频。
 
-[![](../Images/f209ba138d4af6fb18666266050e720b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iRY0Dy5w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/91a8721dbhxtvmpwg2y8.jpeg)
+[![](img/f209ba138d4af6fb18666266050e720b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iRY0Dy5w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/91a8721dbhxtvmpwg2y8.jpeg)
 
 我认为这是一个非常标准且普遍有效的建议。由于缺乏实践，现场编码总是让我感到害怕，但我很高兴大多数人都有同样的感觉。
 

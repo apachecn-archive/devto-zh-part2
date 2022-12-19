@@ -96,7 +96,7 @@ Levenshtein 是一个[动态规划](https://en.wikipedia.org/wiki/Dynamic_progra
 
 让我们看一个例子:
 
-[![](../Images/599472818f3eae3b6e47e7caba62fd37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qmtnKXxY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/sunday_saturday.png)
+[![](img/599472818f3eae3b6e47e7caba62fd37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qmtnKXxY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/sunday_saturday.png)
 
 正如您所看到的，右下角的单元格包含我们正在比较的两个字符串的编辑距离。
 
@@ -104,7 +104,7 @@ Levenshtein 是一个[动态规划](https://en.wikipedia.org/wiki/Dynamic_progra
 
 首先，我们可以快速填充第一行和第一列。
 
-[![](../Images/2691a45871f5ed8e778bd6325d8306a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--01rff2Ax--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/ant_aunt-1.png)
+[![](img/2691a45871f5ed8e778bd6325d8306a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--01rff2Ax--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/ant_aunt-1.png)
 
 然后，对于每个单元格，我们将比较第一个字符串和第二个字符串中的相应字符，然后选择这三个值中最小的一个:
 
@@ -112,15 +112,15 @@ Levenshtein 是一个[动态规划](https://en.wikipedia.org/wiki/Dynamic_progra
 *   上面单元格的值加 1
 *   左上方单元格的值，如果比较的字符不同，则加 1
 
-[![](../Images/a56bdc49326e863f6ef40a932fe27858.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OVeYG0St--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/ant_aunt-2.png)
+[![](img/a56bdc49326e863f6ef40a932fe27858.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OVeYG0St--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/ant_aunt-2.png)
 
-[![](../Images/1071cda148558cf65b73ea3ebcaed997.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m_kYGgVa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/ant_aunt-3.png)
+[![](img/1071cda148558cf65b73ea3ebcaed997.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m_kYGgVa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/ant_aunt-3.png)
 
-[![](../Images/3839eef2c952e6ea5524b30c40304451.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gyGVI_78--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/ant_aunt-4.png)
+[![](img/3839eef2c952e6ea5524b30c40304451.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gyGVI_78--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/ant_aunt-4.png)
 
 并且该过程将继续填充矩阵。
 
-[![](../Images/d12ae44e2307b0d24e79abfac33088b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ugQBSV4f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/ant_aunt.png)
+[![](img/d12ae44e2307b0d24e79abfac33088b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ugQBSV4f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/ant_aunt.png)
 
 ## 优化时机
 

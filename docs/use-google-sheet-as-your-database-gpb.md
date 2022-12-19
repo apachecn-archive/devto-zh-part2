@@ -8,13 +8,13 @@
 
 你需要的只是 Google Spread Sheet 和 Python。遵循这些步骤，你就会知道怎么做了。
 
-1.  转到 [Google API 管理器](https://console.cloud.google.com/apis/dashboard)并创建一个项目。![google_api_manager](../Images/3f655b9e16fa2d657fccf965164376e1.png) ![name_project](../Images/53a29cc4a374b274db524b1d6e68e193.png)这是我们的[电子表格](https://docs.google.com/spreadsheets/d/1fnOhXNT2vyuguQzGN1YSe-vsxFcDXIgFPIw_PbHaox0/edit?usp=sharing)，我们将使用它作为我们的数据库。![spread_sheet](../Images/26b10f705a917961a8bcde1c0dcfc729.png)
-2.  将 google drive api 添加到项目中，这将允许我们访问 google sheets 帐户中的电子表格。![add_api1](../Images/6047f5a80d68023d3d49003f371e55a6.png)![add_api2](../Images/d3563e5efcbcd08a542910532addc66b.png)T2】
-3.  一旦添加，我们需要创建一些凭证。![create_credential](../Images/f5cb12eef9432385ccb6ad158e4b7f60.png)因为我们是从 web 服务器上进行的，所以我们将添加“web 服务器”选项，并允许它访问应用程序数据。![choose_options](../Images/14d3371e98aab89a3b3cb9c6b00fc814.png)填写选项后，点击“我需要什么凭证”。
+1.  转到 [Google API 管理器](https://console.cloud.google.com/apis/dashboard)并创建一个项目。![google_api_manager](img/3f655b9e16fa2d657fccf965164376e1.png) ![name_project](img/53a29cc4a374b274db524b1d6e68e193.png)这是我们的[电子表格](https://docs.google.com/spreadsheets/d/1fnOhXNT2vyuguQzGN1YSe-vsxFcDXIgFPIw_PbHaox0/edit?usp=sharing)，我们将使用它作为我们的数据库。![spread_sheet](img/26b10f705a917961a8bcde1c0dcfc729.png)
+2.  将 google drive api 添加到项目中，这将允许我们访问 google sheets 帐户中的电子表格。![add_api1](img/6047f5a80d68023d3d49003f371e55a6.png)![add_api2](img/d3563e5efcbcd08a542910532addc66b.png)T2】
+3.  一旦添加，我们需要创建一些凭证。![create_credential](img/f5cb12eef9432385ccb6ad158e4b7f60.png)因为我们是从 web 服务器上进行的，所以我们将添加“web 服务器”选项，并允许它访问应用程序数据。![choose_options](img/14d3371e98aab89a3b3cb9c6b00fc814.png)填写选项后，点击“我需要什么凭证”。
 4.  接下来，我们将创建一个服务帐户，并允许角色“项目编辑者”访问和编辑 api 中的数据。
-5.  单击 continue，它将生成一个 json 文件，我将重命名该文件并将其添加到项目中，命名为“statup_funding.json”。![cmd](../Images/1e7066545050d807015624f0b0c8ec99.png)
+5.  单击 continue，它将生成一个 json 文件，我将重命名该文件并将其添加到项目中，命名为“statup_funding.json”。![cmd](img/1e7066545050d807015624f0b0c8ec99.png)
 6.  在文本编辑器中打开该文件，我们将在一个名为“client_email”的属性中找到一个电子邮件地址。
-7.  复制并将其放在电子表格上，我们可以将电子表格共享到该电子邮件地址，以便从 api 访问电子表格。![share_spreadsheet](../Images/b5498be62319988b2d85297252f60fec.png)
+7.  复制并将其放在电子表格上，我们可以将电子表格共享到该电子邮件地址，以便从 api 访问电子表格。![share_spreadsheet](img/b5498be62319988b2d85297252f60fec.png)
 8.  使用 pip 安装 gspread 和 oauth2client 包。
 
 ```
@@ -23,7 +23,7 @@ $ pip install gspread oauth2client
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![install](../Images/db0aa050754b2545d853e0b574f8e98a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---vhpd9_h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/20112458/47849066-5a364700-ddf6-11e8-9bdb-66311772354e.png)
+[![install](img/db0aa050754b2545d853e0b574f8e98a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---vhpd9_h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/20112458/47849066-5a364700-ddf6-11e8-9bdb-66311772354e.png)
 
 1.  然后，我们将创建一个文件“tutorial.py ”,在其中编写我们的代码，并使用 google sheets 作为我们的数据库。
 

@@ -4,7 +4,7 @@
 
 *这次采访是为我们的[创业微服务](https://buttercms.com/books/microservices-for-startups/)电子书而做的。一定要去看看关于微服务的实用建议。感谢 Ben 的时间和投入！*
 
-*[![](../Images/708163946261427875e8c42005ba97b1.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--e-0KT8WI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/6A1nd3JSFa2v7mWFK5z3) [本·柯蒂斯](https://twitter.com/stympy?lang=en)是 [HoneyBadger](https://www.honeybadger.io/) 的联合创始人，该公司为 web 开发者处理生产监控，并提供零工具，360 度覆盖错误、中断和服务降级。*
+*[![](img/708163946261427875e8c42005ba97b1.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--e-0KT8WI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/6A1nd3JSFa2v7mWFK5z3) [本·柯蒂斯](https://twitter.com/stympy?lang=en)是 [HoneyBadger](https://www.honeybadger.io/) 的联合创始人，该公司为 web 开发者处理生产监控，并提供零工具，360 度覆盖错误、中断和服务降级。*
 
 就背景而言，你的工程团队有多大？您是否正在使用微服务，能否概述一下您是如何使用它们的？
 

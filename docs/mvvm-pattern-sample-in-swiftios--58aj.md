@@ -4,7 +4,7 @@
 
 MVVM 是一种越来越受欢迎的模式，而更多面向事件的应用程序正变得越来越流行。在 iOS 开发中使用 MVVM 与经典的 MVC 相比有很多优势，首先是将业务逻辑与表示层完全分开。我们可以将像从网络或本地数据库请求数据这样的事情委托给另一个实体，而不是让一个“大规模视图控制器”负责做太多事情。
 
-[![https://thepracticaldev.s3.amazonaws.com/i/ibcak32czzov3pwvyskp.png](../Images/01b092a0ff22c461ae391ee4ad05e368.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ehhidZCf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ibcak32czzov3pwvyskp.png)
+[![https://thepracticaldev.s3.amazonaws.com/i/ibcak32czzov3pwvyskp.png](img/01b092a0ff22c461ae391ee4ad05e368.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ehhidZCf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ibcak32czzov3pwvyskp.png)
 
 所有这些应用程序逻辑都在 ViewModel 中，它永远不知道视图是什么或者视图做什么。是什么让这个架构变得非常可测试，并从视图中去掉复杂性，让它尽可能的简单。
 

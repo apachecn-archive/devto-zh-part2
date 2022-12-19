@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/hashrock/writing-spreadsheet-with-svg-and-vuejs--23ed>
 
-[![screenshot](../Images/da1a947d235972a62e569d7793f5b219.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9a6iiart--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8i1spuqz2xqpvxz2v754.gif)
+[![screenshot](img/da1a947d235972a62e569d7793f5b219.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9a6iiart--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8i1spuqz2xqpvxz2v754.gif)
 
 我喜欢[手握式](https://handsontable.com/)，但我想从头开始写自己的。
 
@@ -22,7 +22,7 @@
 
 ## 选择界面
 
-[![](../Images/bef19ec49720cc7ecc6e66ad450c51be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mAf83gYR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e87e609dmxc2j4vqrl5f.png)
+[![](img/bef19ec49720cc7ecc6e66ad450c51be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mAf83gYR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e87e609dmxc2j4vqrl5f.png)
 
 因为 svg 规范目前没有 z-index，所以我决定将 UI 和内容层分成两个 SVG 元素。
 
@@ -30,7 +30,7 @@ UI 层具有可视元素，如边框或选择矩形。他们必须永远在上�
 
 ## 就地编辑
 
-[![](../Images/6185d49a07c78f510a8500a9ade89b58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1RTBW9Nn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mn4wvm36hpote2t0z75o.png)
+[![](img/6185d49a07c78f510a8500a9ade89b58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1RTBW9Nn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mn4wvm36hpote2t0z75o.png)
 
 选定的单元格中有隐藏的文本字段。首先，它的不透明度设置为 0。单击单元格时，不透明度变为 1。
 

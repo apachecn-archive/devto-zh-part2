@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nexmobility/machine-learning-is-going-to-enrich-the-enterprise-mobility-methodologies-3m28>
 
-[![enterprise mobility methodologies](../Images/8c54fa72496b54687ff7d1767c0d8f88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I_SK0rC_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nc5fq3tae88blfwtyrwp.png)
+[![enterprise mobility methodologies](img/8c54fa72496b54687ff7d1767c0d8f88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I_SK0rC_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nc5fq3tae88blfwtyrwp.png)
 
 如今，移动性已经改变了公司的运营方式。针对企业移动性对公司影响的大量讨论已经开始。这都是因为电话在整个组织中的兴起。这将使企业彻底重新审视其组织结构，改变角色和职责，并培养“以移动为中心”的文化转变。全面采用[企业移动解决方案](https://www.nexmobility.com/enterprise-mobility-solutions.html)不仅仅是技术的应用。它包括了解员工的需求。此外，组织可能需要修改有关企业移动性的指导方针和流程，这将最终彻底改变公司开展核心活动的方式。
 

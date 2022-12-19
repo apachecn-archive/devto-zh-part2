@@ -8,7 +8,7 @@
 
 让我们用 [rescue-fire](https://github.com/starhoshi/rescue-fire) 在本地模拟功能，并进行 TDD。
 
-[![logo\.png \(733×207\)](../Images/458a2ca1754eca138dd8a8e9f9b133bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I6pPzl35--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/starhoshi/rescue-fire/master/docs/logo.png)
+[![logo\.png \(733×207\)](img/458a2ca1754eca138dd8a8e9f9b133bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I6pPzl35--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/starhoshi/rescue-fire/master/docs/logo.png)
 
 # 如何
 

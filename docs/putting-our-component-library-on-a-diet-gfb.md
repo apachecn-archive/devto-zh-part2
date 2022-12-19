@@ -4,7 +4,7 @@
 
 #### 性能很重要，还有“休斯顿，我们有个问题。”
 
-<figure>[![](../Images/3a80f8e9f8ff2696e9bd06103999df83.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tLqR_KQM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A-urAq0XXMQ4RSLRAiP600Q.jpeg) 
+<figure>[![](img/3a80f8e9f8ff2696e9bd06103999df83.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tLqR_KQM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A-urAq0XXMQ4RSLRAiP600Q.jpeg) 
 
 <figcaption>照片由[伯纳德·赫尔曼](https://unsplash.com/photos/bSpqe48INMg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)上[下](https://unsplash.com/search/photos/balloon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 
@@ -16,7 +16,7 @@
 
 在 c[omparethemarket.com](http://tech.comparethemarket.com)我们制作了一个 React 组件的内部库，在我们网站的不同部分使用，这是我们称之为“内部采购”的策略的一部分这是一个让我们的网站保持一致的好主意，但是我们很快意识到我们在性能、页面权重和下载时间上有一点问题。
 
-<figure>[![](../Images/5c3d8f5e0a786e2f997a34df3a061da0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1EP-jkEm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/930/1%2AGP4hZgcAS1FRAoOs6NEj1A.png) 
+<figure>[![](img/5c3d8f5e0a786e2f997a34df3a061da0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1EP-jkEm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/930/1%2AGP4hZgcAS1FRAoOs6NEj1A.png) 
 
 <figcaption>一张来自 WebPageTest.org</figcaption>
 
@@ -24,7 +24,7 @@
 
 的网络图截图(裁剪)
 
-<figure>[![](../Images/4166c2ec51d998159df7be077ddac031.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ltxdR3mK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AtJ0KsYyUuJHv1N5niwnztA.png) 
+<figure>[![](img/4166c2ec51d998159df7be077ddac031.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ltxdR3mK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AtJ0KsYyUuJHv1N5niwnztA.png) 
 
 <figcaption>一张来自 Chrome DevTools</figcaption>
 
@@ -54,7 +54,7 @@
 
 作为默认构建过程的一部分，create-react-app 工具输出了一些相当不错的指标，因此这成为了我们测试我们的库对构建规模的影响的快速、简单、无副作用的环境。(很有可能在生成这些报告的代码的其他地方也有问题，所以有一个可靠的基准很重要。)
 
-<figure>[![](../Images/ab2a923c2261f42d4a076f5097e1fd5b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XweXtKlP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AClStjmpOU1aVgY8WToWyBw.png) 
+<figure>[![](img/ab2a923c2261f42d4a076f5097e1fd5b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XweXtKlP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AClStjmpOU1aVgY8WToWyBw.png) 
 
 <figcaption>左边:开箱即用的 app。右边:添加了单个组件。</figcaption>
 
@@ -62,7 +62,7 @@
 
 虽然没有压缩到+500 KB，但是对于一个单一样式的按钮来说，75 KB 仍然是过多的代码。查看输出包，很快就可以清楚地看到，当我们包含任何组件时，我们还会获得十几个其他组件的源代码，这些组件的源代码也包含在我们的库中，但实际上并没有被我们的示例应用程序使用。不太好。
 
-<figure>[![](../Images/060df3003a124fb04a846afbfd5845e6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AAOrNvQW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AjIJwzDv3t26povgiIjAo3Q.jpeg) 
+<figure>[![](img/060df3003a124fb04a846afbfd5845e6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AAOrNvQW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AjIJwzDv3t26povgiIjAo3Q.jpeg) 
 
 <figcaption>照片由[马库斯·斯皮斯克](https://unsplash.com/photos/466ENaLuhLY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)上[下](https://unsplash.com/search/photos/dead-code?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 
@@ -92,7 +92,7 @@
 
 在我们的示例项目中，切换到 Rollup 捆绑库可以立即从 75 KB 中节省额外的 22 KB(几乎 30%)，而示例应用程序本身几乎没有任何变化。
 
-<figure>[![](../Images/4e393e695319b3999ac3e87b14197e24.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LsYwjhhb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AIfqILOaabFh4BSnX1HcOIQ.png) 
+<figure>[![](img/4e393e695319b3999ac3e87b14197e24.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LsYwjhhb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AIfqILOaabFh4BSnX1HcOIQ.png) 
 
 <figcaption>左边:使用我们用 Webpack 打包的库创建-反应-app，右边:使用用 rollup 打包的库。</figcaption>
 
@@ -131,7 +131,7 @@ Webpack 是一个不错的工具，但它必须正确配置并用于正确的任
 
 在我们的示例应用程序中，使用版本 2 重复测试会产生以下结果:
 
-<figure>[![](../Images/551498c2a852e9bffed1f3c74859e251.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Z0_Dw7h5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A2JGy_KCP4AB-c-MooUlH0g.png) 
+<figure>[![](img/551498c2a852e9bffed1f3c74859e251.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Z0_Dw7h5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A2JGy_KCP4AB-c-MooUlH0g.png) 
 
 <figcaption>左边:创建-反应-app 2，右边:带库添加</figcaption>
 

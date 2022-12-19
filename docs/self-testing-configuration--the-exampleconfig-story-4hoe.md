@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/craignicol/self-testing-configuration--the-exampleconfig-story-4hoe>
 
-[![Some halloween cakes reflected in a mirror](../Images/6647cdc87ab3dea6a1add2497dab6b71.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--q2T_ADj9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://craignicol.files.wordpress.com/2017/11/dsc_0101.jpg%3Fw%3D320%26h%3D179)T3】镜像
+[![Some halloween cakes reflected in a mirror](img/6647cdc87ab3dea6a1add2497dab6b71.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--q2T_ADj9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://craignicol.files.wordpress.com/2017/11/dsc_0101.jpg%3Fw%3D320%26h%3D179)T3】镜像
 
 我们都是优秀的开发人员，从不在源代码中存储生产秘密。不过，我们得把它们放在某个地方。
 

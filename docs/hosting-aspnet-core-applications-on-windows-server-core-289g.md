@@ -20,7 +20,7 @@
 
 只需输入`powershell`并执行即可。之后，您应该会在提示符前面看到一个`PS`。
 
-[![PowerShell Prompt](../Images/a2b2d53c8d8b8168f0d823d1bd9b9a43.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O7Aiqdxv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.domysee.com/blogposts/19/1-powershell.png)
+[![PowerShell Prompt](img/a2b2d53c8d8b8168f0d823d1bd9b9a43.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O7Aiqdxv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.domysee.com/blogposts/19/1-powershell.png)
 
 现在必须安装 IIS。这是通过这个命令完成的:
 
@@ -30,7 +30,7 @@ Install-WindowsFeature Web-Server
 
 安装时，PowerShell 会显示一个漂亮的小进度条:
 
-[![PowerShell Progress](../Images/0aae252887f3f836357249b12b6d6bfc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pO-34_Rr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.domysee.com/blogposts/19/2-install-progress.png)
+[![PowerShell Progress](img/0aae252887f3f836357249b12b6d6bfc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pO-34_Rr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.domysee.com/blogposts/19/2-install-progress.png)
 
 ## 启用远程管理
 
@@ -65,7 +65,7 @@ net start wmsvc
 
 要远程管理 IIS 服务器，必须在您的设备上安装 IIS 管理器。这可以在`Control Panel -> Programs -> Programs and Features -> Turn Windows features on or off`中完成。激活`IIS Management Console`就足够了，不需要安装 IIS 本身。
 
-[![IIS Manager Installation](../Images/7498fd8492b4302fcf643c274e9c2e33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--33z9B2jv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.domysee.com/blogposts/19/3-iis-activation.png)
+[![IIS Manager Installation](img/7498fd8492b4302fcf643c274e9c2e33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--33z9B2jv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.domysee.com/blogposts/19/3-iis-activation.png)
 
 现成的 IIS 管理器无法管理远程服务器。这些功能必须添加到用于远程管理的 IIS 管理器中。你可以在这里下载[。
 
@@ -73,7 +73,7 @@ net start wmsvc
 
 现在可以添加到远程 IIS 的连接了。只需进入`File -> Connect to a Server`并填写所需信息。
 
-[![IIS Manager Installation](../Images/61d5304b5fe4bf7a4dac1615945121e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xCXUwrBf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.domysee.com/blogposts/19/4-connect-iis.png)
+[![IIS Manager Installation](img/61d5304b5fe4bf7a4dac1615945121e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xCXUwrBf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.domysee.com/blogposts/19/4-connect-iis.png)
 
 **注意:**如果无法连接，很可能是端口 8172 没有打开，或者 Web 管理服务没有启动。用
 做那个
@@ -146,7 +146,7 @@ C:\Users\dominik\Downloads\WebDeploy_amd64_en-US.msi
 4)选择 *IIS、FPT 等。*
 5)选择*创建配置文件*，默认进入*发布*
 
-[![IIS Manager Installation](../Images/0db014cb1bb04ec453e56e8c140c53b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ha84uVxI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.domysee.com/blogposts/19/5-publish-target.png)
+[![IIS Manager Installation](img/0db014cb1bb04ec453e56e8c140c53b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ha84uVxI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.domysee.com/blogposts/19/5-publish-target.png)
 
 6)输入所需信息
 - *网站名称*或者是*默认网站*，或者，如果您在 IIS 中创建了一个不同的网站，则是该网站的名称。
@@ -180,7 +180,7 @@ Expand-Archive C:\Users\dominik\Downloads\win-acme.v1.9.10.1.zip -DestinationPat
 C:\Users\dominik\Downloads\win-acme.v1.9.10.1\letsencrypt.exe 
 ```
 
-[![IIS Manager Installation](../Images/b4f822698993e22ae69d291559328b4b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hPboTsoc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.domysee.com/blogposts/19/6-letsencrypt.png)
+[![IIS Manager Installation](img/b4f822698993e22ae69d291559328b4b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hPboTsoc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.domysee.com/blogposts/19/6-letsencrypt.png)
 
 5)选择`N`在简单模式下创建一个新证书
 6)选择`1`创建一个 IIS 站点的单个绑定

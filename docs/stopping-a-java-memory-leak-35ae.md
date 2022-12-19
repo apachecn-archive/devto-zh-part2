@@ -18,7 +18,7 @@ Java 对象存储在称为堆的内存区域中。根据应用程序运行的 Ja
 命令的用法如下:`jmap -dump:format=b,file=heapdump.bin <process_id>`
 
 下面的选项对于在生产环境中执行分析很有用，因为您可以提取堆转储，将文件复制到您的机器上，并将其加载到工具中。提取堆转储的另一种方法是将工具远程连接到正在运行的 java 应用程序。这涉及到使用 JMX，这又需要一个开放的端口，但是如果应用程序是在本地运行的，在与您的工具相同的机器上，您将看到它被列出:
-[![](../Images/a67d9e111d840c555127385af5adafa5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FJLgPmJY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1gmo7ifegmzlfg8qq6tv.png) 
+[![](img/a67d9e111d840c555127385af5adafa5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FJLgPmJY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1gmo7ifegmzlfg8qq6tv.png) 
 一旦您连接到应用程序，您就能够加载堆转储。参考每个工具的文档和教程，了解如何获取堆转储。
 
 ## 分析数据

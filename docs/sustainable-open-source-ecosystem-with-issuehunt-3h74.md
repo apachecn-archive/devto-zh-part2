@@ -8,7 +8,7 @@
 
 通过它的维护让我们意识到开源社区是多么伟大。
 
-[![cover-image](../Images/8a45d9722236a2bec6a189c809bb95d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gW4DveQj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c822zwkdjch19pslsrpw.jpg)
+[![cover-image](img/8a45d9722236a2bec6a189c809bb95d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gW4DveQj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c822zwkdjch19pslsrpw.jpg)
 
 # 什么是 IssueHunt？
 

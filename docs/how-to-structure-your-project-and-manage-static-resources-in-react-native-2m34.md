@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/onmyway133/how-to-structure-your-project-and-manage-static-resources-in-react-native-2m34>
 
-[![](../Images/785b2442922f8f0c4ab5eecd77d4bf4b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ok2hQHLa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2Ai9u5ERjY-T2ZgjHX.jpg)
+[![](img/785b2442922f8f0c4ab5eecd77d4bf4b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ok2hQHLa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2Ai9u5ERjY-T2ZgjHX.jpg)
 
 React 和 React Native 只是框架，它们并没有规定我们应该如何构建我们的项目。这完全取决于你的个人品味和你正在做的项目。
 
@@ -358,9 +358,9 @@ export default fonts
 
 ```
 const images = {
-  button: require('./images/button.png'),
-  logo: require('./images/logo.png'),
-  placeholder: require('./images/placeholder.png')
+  button: require(img/button.png'),
+  logo: require(img/logo.png'),
+  placeholder: require(img/placeholder.png')
 }
 
 export default images 
@@ -434,9 +434,9 @@ const styles = StyleSheet.create({
 
 ```
 const images = {
-  button: require('./images/button.png'),
-  logo: require('./images/logo.png'),
-  placeholder: require('./images/placeholder.png')
+  button: require(img/button.png'),
+  logo: require(img/logo.png'),
+  placeholder: require(img/placeholder.png')
 }
 
 export default images 
@@ -463,7 +463,7 @@ return Array.from(new Set(array))
 const generate = () => {
   let properties = imageFileNames()
     .map((name) => {
-      return `${name}: require('./images/${name}.png')`
+      return `${name}: require(img/${name}.png')`
     })
     .join(',\n  ')
 

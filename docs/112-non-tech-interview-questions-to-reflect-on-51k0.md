@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/aershov24/112-non-tech-interview-questions-to-reflect-on-51k0>
 
-[![112 Non-Tech Interview Questions to reflect on](../Images/6fb634030283ede1b0d013e777f4ed69.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Oaq9Dbsp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/312839/pexels-photo-312839.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26h%3D350)
+[![112 Non-Tech Interview Questions to reflect on](img/6fb634030283ede1b0d013e777f4ed69.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Oaq9Dbsp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/312839/pexels-photo-312839.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26h%3D350)
 
 完整但沉思跑题。坐下来，拿一些淡色啤酒或石榴汁，在下一次面试前或在同事面前思考这些问题。尽情享受吧！🍻
 

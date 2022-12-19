@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/fractiontech/flutter-vs-react-native-lets-see-who-the-winner-is-and-what-you-need-to-know-1635>
 
-[![](../Images/0c7eb62028a720ef5fc6d7bdef5c3b0c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Fd54ABPw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ax62K54H_K15NtZtxg3R2bw.jpeg)
+[![](img/0c7eb62028a720ef5fc6d7bdef5c3b0c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Fd54ABPw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ax62K54H_K15NtZtxg3R2bw.jpeg)
 
 如今，**跨平台应用程序开发**已经变得无处不在，因为它让你能够 [**开发一个可以在各种移动平台上使用的移动应用程序**](http://www.fraction.tech/services/application-development) 。现在有很多跨平台的产品，值得一看。
 
@@ -10,7 +10,7 @@
 
 通过展示 Flutter，Google 真正努力确定了跨平台应用程序开发的问题，这对于应用程序设计者来说是一个值得关注的测试。尽管如此，我们还是要看看目前的见解，依靠 [**跨平台应用开发**](http://www.fraction.tech/services/application-development) 确定的市场到今年将达到 75 亿美元。
 
-[![](../Images/97ca532ca4f6af96708d9f1c2aa96893.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JRm4QgaD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/744/1%2AhJW0PznRl-ApXdlNqWH3Sg.png)
+[![](img/97ca532ca4f6af96708d9f1c2aa96893.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JRm4QgaD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/744/1%2AhJW0PznRl-ApXdlNqWH3Sg.png)
 
 尽管如此，当前讨论的焦点是在两种结构之间进行极其重要的检查，这两种结构有助于制作*跨平台应用*。对手一方面是 Google Flutter，另一方面是 React Native。
 
@@ -22,7 +22,7 @@ React Native 是 GitHub 上发布的一个开源结构，为加入两个 iOS 和
 
 ### 旋舞和反应原生之间的快速比较
 
-[![](../Images/e6bece50da66c2cfc34577e083923b79.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZdhRjPUF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A056T0BvTG-8eTzkIi04PFQ.jpeg)
+[![](img/e6bece50da66c2cfc34577e083923b79.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZdhRjPUF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A056T0BvTG-8eTzkIi04PFQ.jpeg)
 
 #### 颤振与自然反应—性能方面
 

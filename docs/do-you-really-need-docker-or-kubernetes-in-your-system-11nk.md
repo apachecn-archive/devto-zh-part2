@@ -36,7 +36,7 @@ Kubernetes 上有许多产品，如 Rancher/OpenShift，但对我来说，它们
 
 无论如何，与此同时 Kubernetes 太多，Docker Swarm 更轻，看起来最适合处理较小的应用程序。性能实际上也比 Kubernetes 快得多！
 
-让我停下来思考的事情是，一开始我想使用容器编排工具进行更少的操作。虽然 Kubernetes 得到了许多云弯曲者的支持，但 Docker Swarm 却没有。从技术上来说，他们已经尝试过了，但再也不会了。这不太方便，因为我个人不太想使用 EC2 或任何物理机器来管理集群之类的东西。如果我能让集群在 AWS 上轻松聚集就好了....那将是传奇！ [![](../Images/ba776498d20aabc86062fe9d8b6232e9.png)](https://i.giphy.com/media/ekkKldHuLW90Y/giphy.gif) 
+让我停下来思考的事情是，一开始我想使用容器编排工具进行更少的操作。虽然 Kubernetes 得到了许多云弯曲者的支持，但 Docker Swarm 却没有。从技术上来说，他们已经尝试过了，但再也不会了。这不太方便，因为我个人不太想使用 EC2 或任何物理机器来管理集群之类的东西。如果我能让集群在 AWS 上轻松聚集就好了....那将是传奇！ [![](img/ba776498d20aabc86062fe9d8b6232e9.png)](https://i.giphy.com/media/ekkKldHuLW90Y/giphy.gif) 
 哦，对我来说，另一件事是，我是日本人，很多人希望企业解决方案支持日语，据我所知，Swarm 没有。
 
 ## 总结

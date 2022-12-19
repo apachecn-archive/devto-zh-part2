@@ -11,7 +11,7 @@ Inventicons 欢迎您进入大范围优质矢量图标的世界，在这里您�
 ## 矢量图标自由格式
 
 [矢量图标](https://www.inventicons.com/)可以以不同的格式下载，如 PNG、SVG、PSD 和许多其他格式，因此它们易于使用，便于操作。您也可以自定义大小，而不需要寻找其他应用程序来完成这项任务。
-T3![Vector Icons](../Images/ac10d381cae5300e854ae1d1194bd2e5.png)T5】
+T3![Vector Icons](img/ac10d381cae5300e854ae1d1194bd2e5.png)T5】
 
 #### 自定义矢量图标
 
@@ -36,7 +36,7 @@ T3![Vector Icons](../Images/ac10d381cae5300e854ae1d1194bd2e5.png)T5】
 #### 实惠价格和会员资格
 
 如果你注册，你可以成为用户，并很容易获得提供给其用户的每月订阅，这样每个人都可以享受创意，现代和一致的设计。此外，标准图标也有折扣。
-[![Vector Icons](../Images/7ae512e936a32901edcb31b6e9bfb2c8.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--J125NNa0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/38dyu2stzsge6j3ak9gq.png)
+[![Vector Icons](img/7ae512e936a32901edcb31b6e9bfb2c8.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--J125NNa0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/38dyu2stzsge6j3ak9gq.png)
 
 #### 我的矢量图标收藏
 

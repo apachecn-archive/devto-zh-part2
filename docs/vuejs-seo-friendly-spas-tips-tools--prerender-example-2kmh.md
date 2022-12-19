@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/couellet/vuejs-seo-friendly-spas-tips-tools--prerender-example-2kmh>
 
-[![Vue.js Tutorial: An Example to Build and Prerender an SEO-Friendly Site](../Images/a95d034a484558777a5cb1c95afeaf47.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s3KrwROh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203838/vue-js-seo-prerender-demo-1.jpg)
+[![Vue.js Tutorial: An Example to Build and Prerender an SEO-Friendly Site](img/a95d034a484558777a5cb1c95afeaf47.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s3KrwROh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203838/vue-js-seo-prerender-demo-1.jpg)
 
 你知道 Hulu 的 JavaScript 失败故事吗？
 
@@ -10,7 +10,7 @@
 
 没有企业愿意经历的噩梦。
 
-[![enter image description here](../Images/99fa3af86acc6b8f4ab35a48b7cd3d0e.png)T2】](https://i.giphy.com/media/Qa5dsjQjlCqOY/giphy.gif)
+[![enter image description here](img/99fa3af86acc6b8f4ab35a48b7cd3d0e.png)T2】](https://i.giphy.com/media/Qa5dsjQjlCqOY/giphy.gif)
 
 为了避免这样的灾难，在使用现代 JavaScript 框架时，您必须知道自己在做什么。
 

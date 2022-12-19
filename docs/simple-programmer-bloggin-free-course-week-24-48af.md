@@ -16,6 +16,6 @@
 
 如果你通过了这一关，你会得到这个漂亮的徽章
 
-[![Simple programmer Free Blogging Course](../Images/c381692c2ef8c68d75660f4ba1e11b28.png)T2】](https://simpleprogrammer.com/lp/create-your-blog-1/)
+[![Simple programmer Free Blogging Course](img/c381692c2ef8c68d75660f4ba1e11b28.png)T2】](https://simpleprogrammer.com/lp/create-your-blog-1/)
 
 你可以在这里找到我关注的博客的完整列表([https://github . com/remi bou/remi bou . github . io/blob/master/feeds . opml](https://github.com/RemiBou/remibou.github.io/blob/master/feeds.opml))

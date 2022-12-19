@@ -4,7 +4,7 @@
 
 ## 抢劫案
 
-[![Security bypass technique in Hatton Garden](../Images/586525a6de5d013078fcdfe4671e452e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dha5uB9f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/evb0iamoy35j01kfq58s.jpg)
+[![Security bypass technique in Hatton Garden](img/586525a6de5d013078fcdfe4671e452e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dha5uB9f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/evb0iamoy35j01kfq58s.jpg)
 
 周二，一个犯罪团伙公布了公共加密货币钱包提供商“MyEtherWallet”的 DNS 服务器的 BGP 路由，重定向互联网上的流量，并允许它们响应对该服务的 web 请求。
 

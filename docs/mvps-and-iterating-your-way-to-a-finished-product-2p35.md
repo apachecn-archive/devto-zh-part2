@@ -18,9 +18,9 @@
 
 最近，丹在推特上发布了一条消息，这条消息让我放弃了应用程序中的所有额外功能。并提出了一个更小的概念，称为 *MVP* 。
 
-> ![Dan Abramov profile image](../Images/8410abe414a98a3109390b1a1f7377ee.png)丹阿布拉莫夫[@丹 _ 阿布拉莫夫](https://dev.to/dan_abramov)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)第一年编程真的很辛苦。我困惑了很久。但我记得我是怎么熬过来的。这是一种兴奋的感觉——就像脑袋里发痒或嗡嗡作响。在事情变得真实之前看到它们在一起。我记得是因为我又感觉到了。21:28PM-01 Sep 2018[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1036002775598092295)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1036002775598092295)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1036002775598092295)
+> ![Dan Abramov profile image](img/8410abe414a98a3109390b1a1f7377ee.png)丹阿布拉莫夫[@丹 _ 阿布拉莫夫](https://dev.to/dan_abramov)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)第一年编程真的很辛苦。我困惑了很久。但我记得我是怎么熬过来的。这是一种兴奋的感觉——就像脑袋里发痒或嗡嗡作响。在事情变得真实之前看到它们在一起。我记得是因为我又感觉到了。21:28PM-01 Sep 2018[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1036002775598092295)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1036002775598092295)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1036002775598092295)
 
-> ![Dan Abramov profile image](../Images/8410abe414a98a3109390b1a1f7377ee.png)丹阿布拉莫夫[@丹 _ 阿布拉莫夫](https://dev.to/dan_abramov)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)[@ DvvAvinash](https://twitter.com/DvvAvinash)我做编程大概有 14 年了，大概有 8 年是专业的。尽管我学得很慢。21:36PM-01 Sep 2018[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1036004805796405248)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1036004805796405248)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1036004805796405248)
+> ![Dan Abramov profile image](img/8410abe414a98a3109390b1a1f7377ee.png)丹阿布拉莫夫[@丹 _ 阿布拉莫夫](https://dev.to/dan_abramov)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)[@ DvvAvinash](https://twitter.com/DvvAvinash)我做编程大概有 14 年了，大概有 8 年是专业的。尽管我学得很慢。21:36PM-01 Sep 2018[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1036004805796405248)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1036004805796405248)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1036004805796405248)
 
 ## 那么什么是 *MVP* ？
 
@@ -44,7 +44,7 @@ MVP 帮助新开发人员用有意义的项目填充他们的投资组合。这�
 
 停下来。这绝对是个陷阱。
 
-[![](../Images/0e4b8982d780be86cb6a8616ae767e6f.png)T2】](https://i.giphy.com/media/RKiOMSy7LLcA0/giphy.gif)
+[![](img/0e4b8982d780be86cb6a8616ae767e6f.png)T2】](https://i.giphy.com/media/RKiOMSy7LLcA0/giphy.gif)
 
 在 GitHub 上有一个流行的回购很少见；GitHub 上有 3.5 亿以上的用户，甚至更多的库。机会对你不利，至少一开始是这样。
 
@@ -54,7 +54,7 @@ MVP 帮助新开发人员用有意义的项目填充他们的投资组合。这�
 
 王自如是 Netlify 的一名受欢迎的 React 开发人员。他在推特上发布了短语*公开学习*，概括了我说你应该开源你的 MVP 的意思:
 
-> ![unknown tweet media content](../Images/0b6d95da01393802cdb2f2bd065fb2ee.png)![shawn swyx wang 🇸🇬 profile image](../Images/db834a48a0edb93c01a03f5e47352b9c.png)Shawn swyx 王[@ swyx](https://dev.to/swyx)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)当众学习。2018 年 6 月 19 日 20 点 40 分[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1009174159690264579)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1009174159690264579)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1009174159690264579)
+> ![unknown tweet media content](img/0b6d95da01393802cdb2f2bd065fb2ee.png)![shawn swyx wang 🇸🇬 profile image](img/db834a48a0edb93c01a03f5e47352b9c.png)Shawn swyx 王[@ swyx](https://dev.to/swyx)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)当众学习。2018 年 6 月 19 日 20 点 40 分[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1009174159690264579)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1009174159690264579)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1009174159690264579)
 
 在公众面前学习和失败是让你的工作得到关注的重要部分。你重复和分享的越多，你就越容易被未来的雇主看到。这就是为什么把东西拿出去很重要。
 
@@ -66,7 +66,7 @@ MVP 帮助新开发人员用有意义的项目填充他们的投资组合。这�
 
 在看了 Dan 的演讲和他的推文后，我决定我应该建立一些功能。然后，在它们建立之后，我可以迭代它。
 
-[![](../Images/6946e9181dca310c8af9de57c3efcdea.png)](https://i.giphy.com/media/3oz8xRXOGEacAXIUKI/giphy.gif) 
+[![](img/6946e9181dca310c8af9de57c3efcdea.png)](https://i.giphy.com/media/3oz8xRXOGEacAXIUKI/giphy.gif) 
 
 <figure>
 

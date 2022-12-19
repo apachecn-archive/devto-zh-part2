@@ -10,4 +10,4 @@ Post 链接: [React 空平面列表的本机显示消息](https://www.skptricks.
 
 [反应空平面列表的本机显示消息](https://www.skptricks.com/2018/11/react-native-show-message-for-empty-flatlist-view.html)
 
-[![](../Images/e34069db590b168e82ce3438109a3891.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PWiJ5d8T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-Fwkielx1ej0/W-kZoPUrI9I/AAAAAAAACIA/TsTTW4PNaqQ0UKB5vfBjadPKY2iOgUpMgCLcBGAs/s640/empty.png)
+[![](img/e34069db590b168e82ce3438109a3891.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PWiJ5d8T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-Fwkielx1ej0/W-kZoPUrI9I/AAAAAAAACIA/TsTTW4PNaqQ0UKB5vfBjadPKY2iOgUpMgCLcBGAs/s640/empty.png)

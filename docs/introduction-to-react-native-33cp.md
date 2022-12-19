@@ -9,7 +9,7 @@ facebook 推广的 React Native 是一个用于在 iOS 和 Android 中渲染移�
 这绝对是一个有趣的框架，可以帮助 web 开发人员使用他们现有的 Javascript 库创建健壮的移动应用程序。它的好处是:更快的移动开发，更有效的跨平台代码共享，如 iOS，Android 和 web，而不牺牲最终用户的体验或应用程序质量。如果您的开发人员能够处理使用新技术带来的不确定性，并希望为多个平台开发移动应用程序，您应该考虑 React Native。
 [介绍反应过来的土著](https://www.skptricks.com/2018/06/introduction-to-react-native.html)
 
-[![](../Images/21d5aa7edf52314aecfeb2acc1a515df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2arhT70K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-rAMeXltnuX0/WyYDX3xeRbI/AAAAAAAABoM/GM9K-s5tdhMxbPcb0fBFFZZxrQOciamXACLcBGAs/s400/1.PNG)
+[![](img/21d5aa7edf52314aecfeb2acc1a515df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2arhT70K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-rAMeXltnuX0/WyYDX3xeRbI/AAAAAAAABoM/GM9K-s5tdhMxbPcb0fBFFZZxrQOciamXACLcBGAs/s400/1.PNG)
 
 众所周知，智能手机用户的数量与日俱增。这个数字还在增加，因为这些设备很容易满足娱乐、购物、安全等需求。这种不断增长的场景激励开发者构建更多与移动支付系统、社交网络等相关的移动应用。移动应用程序开发最近是一个非常大的市场，每个人都在使用自己的 Android 或 iOS 手机。但对于同时开发 Android 和 iOS 应用程序的公司来说，客户的成本非常高，因为他们必须为每个平台开发单独的应用程序，这使得他们的应用程序成本很高。
 

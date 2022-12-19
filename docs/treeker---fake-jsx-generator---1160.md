@@ -8,7 +8,7 @@
 > 
 > 当我决定开发一个与 React 一起工作的服务器端渲染器时，我遇到了这个问题，并且明白我需要一些具有深度嵌套或大量子级的假组件。在互联网上快速查找没有任何结果，所以我决定自己创建一个简单的工具。
 
-[![Treeker usage](../Images/889ac0e2d0c8131f7e62917744e30696.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0FpyTVDq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://image.ibb.co/koq58L/treeker.gif)
+[![Treeker usage](img/889ac0e2d0c8131f7e62917744e30696.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0FpyTVDq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://image.ibb.co/koq58L/treeker.gif)
 
 很容易安装，也就是简单的`yarn global add treeker`或`npm i -g treeker`，并且很容易使用。请查看 [oleggromov/treeker](https://github.com/oleggromov/treeker) repo 中的自述文件。
 

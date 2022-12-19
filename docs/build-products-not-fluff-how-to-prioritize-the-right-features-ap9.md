@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/svikashk/build-products-not-fluff-how-to-prioritize-the-right-features-ap9>
 
-[![Build Products, Not Fluff: How To Prioritize The Right Features](../Images/4766132444c3ddd08d58c9fd418472ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M4SxXuaz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.zepel.io/content/images/2018/07/feature-prioritization-3.jpg)
+[![Build Products, Not Fluff: How To Prioritize The Right Features](img/4766132444c3ddd08d58c9fd418472ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M4SxXuaz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.zepel.io/conteimg/2018/07/feature-prioritization-3.jpg)
 
 从鸽子传递信息和马拉车的时代开始，“优先化”这个词就让产品经理们夜不能寐。
 
@@ -30,7 +30,7 @@
 
 最糟糕的是，客户——你构建所有这些低挂功能的原因——会感到沮丧，并完全停止使用你的产品。
 
-[![Build Products, Not Fluff: How To Prioritize The Right Features](../Images/ada0cd5525e25294b47d21536727c3e5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yaget26M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.zepel.io/content/images/2018/07/feature-creep.png) 
+[![Build Products, Not Fluff: How To Prioritize The Right Features](img/ada0cd5525e25294b47d21536727c3e5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yaget26M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.zepel.io/conteimg/2018/07/feature-creep.png) 
 
 <small>图片来源- [每日 WTF](https://thedailywtf.com/articles/Enter_The_Matrix/)</small>
 
@@ -85,11 +85,11 @@
 
 为了构建能够将指针移向正确方向的功能， [Intercom 在图表](https://blog.intercom.com/prioritising-features-wholl-use-it-how-often/)上绘制了他们的功能请求，该图表比较了使用频率与最终将使用这些功能的人数。
 
-[![Build Products, Not Fluff: How To Prioritize The Right Features](../Images/53889b350dbe4ccd725432966b83063f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kJ36DkCY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.zepel.io/content/images/2018/07/Graph-FilledIn.jpg)
+[![Build Products, Not Fluff: How To Prioritize The Right Features](img/53889b350dbe4ccd725432966b83063f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kJ36DkCY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.zepel.io/conteimg/2018/07/Graph-FilledIn.jpg)
 
 我们的想法是将重点放在实现图表右上角的那些——所有用户每次都会使用的那些。你越靠近图的左上角或左下角，构建一个只有部分用户会使用的特性就越危险，甚至更糟糕的是，这个特性只会在很少的情况下使用。
 
-[![Build Products, Not Fluff: How To Prioritize The Right Features](../Images/1034c33a645f1d2aed768348c154e534.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G9KUwpyk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.zepel.io/content/images/2018/07/Graph-Starred.jpg)
+[![Build Products, Not Fluff: How To Prioritize The Right Features](img/1034c33a645f1d2aed768348c154e534.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G9KUwpyk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.zepel.io/conteimg/2018/07/Graph-Starred.jpg)
 
 > “把你的精力集中在右上方。在这些功能上加倍努力，比在更多的牙签上抽丝剥茧增加了更多的价值……如果你正在构建的功能只有一小部分客户群严重依赖，那么你的产品就做得太多了。”~德·特雷纳
 
@@ -103,7 +103,7 @@
 
 一旦您计算出构建待办事项列表中的功能所需的工作量，您现在就可以将所有功能映射到一个 2x2 矩阵的值上。
 
-[![Build Products, Not Fluff: How To Prioritize The Right Features](../Images/19444820b2981096157c4ceb55c43227.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VPSFlwzO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.zepel.io/content/images/2018/07/value-effort-matrix.png) 
+[![Build Products, Not Fluff: How To Prioritize The Right Features](img/19444820b2981096157c4ceb55c43227.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VPSFlwzO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.zepel.io/conteimg/2018/07/value-effort-matrix.png) 
 
 <small>图片来源- [App 提示](https://www.appcues.com/blog/product-prioritization)</small>
 
@@ -138,4 +138,4 @@
 3.  仔细考虑有多少用户会经常使用这个特性。
 4.  分析构建功能所需的工作。
 
-[![Build Products, Not Fluff: How To Prioritize The Right Features](../Images/566f0accefef7c382f22572d2291ea0c.png)T2】](https://zepel.io/?utm_source=devto&utm_medium=community&utm_campaign=prioritize)
+[![Build Products, Not Fluff: How To Prioritize The Right Features](img/566f0accefef7c382f22572d2291ea0c.png)T2】](https://zepel.io/?utm_source=devto&utm_medium=community&utm_campaign=prioritize)

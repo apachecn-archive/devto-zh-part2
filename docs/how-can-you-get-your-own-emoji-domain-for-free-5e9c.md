@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bauripalash/how-can-you-get-your-own-emoji-domain-for-free-5e9c>
 
-[![.](../Images/2f48e918ce9cafa5a8a53447fd508222.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FXCe9Vj0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://palash.tk/assets/images/getemojidomain.jpg)
+[![.](img/2f48e918ce9cafa5a8a53447fd508222.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FXCe9Vj0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://palash.tk/asseimg/getemojidomain.jpg)
 
 表情符号域名将在短时间内成为趋势，你可能已经看到像 i❤.这样的网址 ws，i❤tacos.ws，📙。ws 等等。根据 Gizmodo 的说法，它们可能是互联网的未来。
 
@@ -10,7 +10,7 @@
 
 今天几个小时前，我刚刚买了域名🌐。cf 重定向到 Palash 的[冒险的主页，但令人惊奇的是我免费买了那个域名，所以我要分享你如何也能得到一个免费的表情域..](https://palash.tk)
 
-[![Emojis](../Images/f99ac5fe4cec92d81538e1c2cb6234ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cTLVLfC9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://emojipedia-us.s3.amazonaws.com/content/2016/04/10/snapchat-emojis-2016.jpg)
+[![Emojis](img/f99ac5fe4cec92d81538e1c2cb6234ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cTLVLfC9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://emojipedia-us.s3.amazonaws.com/content/2016/04/10/snapchat-emojis-2016.jpg)
 
 ### 第一步:选择表情符号
 
@@ -54,7 +54,7 @@
 
 我强烈推荐 domainoji.com，因为现在脸书和其他一些社交媒体网站已经屏蔽了免费域名。
 
-[![Alt Text](../Images/74d95f41b09176c73c4e4f0ac7b42f05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tkpeXz85--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e36g6znv4rfy9sk63lh3.jpg)
+[![Alt Text](img/74d95f41b09176c73c4e4f0ac7b42f05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tkpeXz85--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e36g6znv4rfy9sk63lh3.jpg)
 
 #### 【第一步:
 
@@ -74,7 +74,7 @@
 
 **享受你全新的表情域😉👍**
 
-[![Yahoo!](../Images/9b2353435df04fd92cfc3fb7d0dd40b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hk3E5ES6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/4ded3e63cdeb091e55a9e91b1ceb2340/tenor.gif%3Fitemid%3D5002827)
+[![Yahoo!](img/9b2353435df04fd92cfc3fb7d0dd40b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hk3E5ES6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.cimg/4ded3e63cdeb091e55a9e91b1ceb2340/tenor.gif%3Fitemid%3D5002827)
 
 所以朋友们，就这样吧，下次见。有疑问、建议吗？让我知道下面的评论👇
 

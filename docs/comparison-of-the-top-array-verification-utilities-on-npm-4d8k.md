@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/comparison-of-the-top-array-verification-utilities-on-npm-4d8k>
 
-<figure>[![](../Images/ca0ba29f7647e369f9ee374235c987c1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wlxO_jt9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Alla6x9C9gvtRXkykD3OJ6w.png) 
+<figure>[![](img/ca0ba29f7647e369f9ee374235c987c1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wlxO_jt9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Alla6x9C9gvtRXkykD3OJ6w.png) 
 
 <figcaption>来源:[http://www.monkeyuser.com/2017/npm-delivery/](http://www.monkeyuser.com/2017/npm-delivery/)</figcaption>
 
@@ -16,7 +16,7 @@
 
 取而代之的是，我决定花几个星期的时间来观察这片风景，并把我的发现写下来。下面是我对前三名解决方案的总结，涵盖了各种指标，包括性能、可伸缩性、可维护性、互操作性、可调试性、可读性和网络可伸缩性。
 
-[![LogRocket Free Trial Banner](../Images/4aa67f42a82d61c79b61acb13eae9479.png)T2】](https://logrocket.com/signup/)
+[![LogRocket Free Trial Banner](img/4aa67f42a82d61c79b61acb13eae9479.png)T2】](https://logrocket.com/signup/)
 
 ### 被阵列
 
@@ -107,7 +107,7 @@ Rog Locket 是一名开发人员和幽默作家，他为 LogRocket 博客撰写�
 
 ### Plug: LogRocket，一款用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

@@ -9,4 +9,4 @@
 
 [使用 React 导航库- Android 在屏幕或活动之间导航](https://www.skptricks.com/2018/10/navigating-between-screens-or-activity-in-react-navigation.html)
 
-[![](../Images/5f8e6e54c8c48f7be688a11ac23f9c4a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vE0TBqIw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://4.bp.blogspot.com/-B9MF3Fh4MLk/W9SGCQfXp6I/AAAAAAAACEE/8RVlcQsDkoAmLiy1PYhd74zoWHENGI_iACLcBGAs/s640/na.png)
+[![](img/5f8e6e54c8c48f7be688a11ac23f9c4a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vE0TBqIw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://4.bp.blogspot.com/-B9MF3Fh4MLk/W9SGCQfXp6I/AAAAAAAACEE/8RVlcQsDkoAmLiy1PYhd74zoWHENGI_iACLcBGAs/s640/na.png)

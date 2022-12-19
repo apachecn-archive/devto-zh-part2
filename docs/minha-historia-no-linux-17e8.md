@@ -6,7 +6,7 @@
 
 Linux 有分歧。如果他们一方面颂扬他们的稳定性和安全性，另一方面批评它和它的公园里的少量软件，呼吁审美先驱。也就是说， [*linux 丑陋，没有运行在其上的程序*](https://www.reddit.com/r/linux/comments/1zd1wx/honest_question_why_is_linux_so_ugly/) 虽然现在还能说是真的，但至少也曾努力将轻视高雅的指责抛诸脑后。下面的台式机就是其中的许多例子之一。
 
-<figure>[![](../Images/0db63f73e9fcc19d799a284ca3ff3947.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SYpEerBP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AjofyB0KPB3Fnd-Tc.png) 
+<figure>[![](img/0db63f73e9fcc19d799a284ca3ff3947.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SYpEerBP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AjofyB0KPB3Fnd-Tc.png) 
 
 <figcaption>仍然没有节目，但至少很漂亮。(资料来源:[【https://www . Reddit . com/r/unixporn/comments/9 hiykh/openbox _ under _ the _ dome/](https://www.reddit.com/r/unixporn/comments/9hiykj/openbox_under_the_dome/))</figcaption>
 
@@ -22,7 +22,7 @@ Linux 有分歧。如果他们一方面颂扬他们的稳定性和安全性，�
 
 我第一次看到一台不运行 Windows 的机器是在小学四年级，在教育、经济关系和技术(ERET)等学科。页:1。我学校电脑实验室的电脑安装了 kur umi。对我们来说，这是一个艰难的时期，孩子们知道如何打开油漆，并即将发现神奇的世界反罢工 1.6，Sims 和 MMORPGs。温杜斯比今天还专制霸权，所以我的兴趣并没有被库尔曼唤醒。但是，他有他自己的问题，一些 Linux 本身固有的问题，一些 Kurumin 自己的问题，这帮助他绝对不会在我们中间流行。
 
-<figure>[![](../Images/63d36a926718bfa914bdf69865c4b4f8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--R1B-yMx---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A7hJ7jsfWEmkdgVFU.png)
+<figure>[![](img/63d36a926718bfa914bdf69865c4b4f8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--R1B-yMx---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A7hJ7jsfWEmkdgVFU.png)
 
 <figcaption>【Kurumin Linux(丰泰:DistroWatch)</figcaption>
 
@@ -38,7 +38,7 @@ Linux 有分歧。如果他们一方面颂扬他们的稳定性和安全性，�
 
 因此，我被迫在双引导系统上运行两个操作系统一段时间，一个用于日常任务，另一个用于准备完全迁移。我刚到 Linux 的时候，就让它变得微妙而舒适。
 
-<figure>[![](../Images/8748c17ac592e3931d5704a50cf95d04.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qDj_D-Z2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/720/0%2AkNiZoAFC2Eq2Jppv.jpg)
+<figure>[![](img/8748c17ac592e3931d5704a50cf95d04.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qDj_D-Z2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/720/0%2AkNiZoAFC2Eq2Jppv.jpg)
 
 <figcaption>Ubuntu 10.4 Lucid Lynx，oúltimo SO da Canonical a vir com o Gnome 2(font e:Tecnoblog)</figcaption>
 
@@ -50,7 +50,7 @@ Linux 有分歧。如果他们一方面颂扬他们的稳定性和安全性，�
 
 这是我的笔记本电脑被格式化最多的时候，主要是因为我不支持虚拟机。我想感受到每一个系统在现实世界中运行，在我的日常工作流程中。我的三星已经不仅仅是一台工作和学习机器，而是一台测试机器。Linux Mint、初等 OS、Ubuntu Mate、linux deepin、Fedora、Ubuntu Gnome、kde neon 和 OpenSUSE 都已通过。甚至连 MacOS Sierra 也是通过 [Hackintosh](https://hackintosh.com/) 安装的。
 
-<figure>[![](../Images/3ad685d464775330323375f837c10c38.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1Nt1YyOO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AMV8MyeLrI0mbYew3.png) 
+<figure>[![](img/3ad685d464775330323375f837c10c38.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1Nt1YyOO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AMV8MyeLrI0mbYew3.png) 
 
 <figcaption>Linux Mint(丰泰:[https://cinnamon-spices . Linux Mint . com/themes/view/Mint-Y-Yltra-Dark](https://cinnamon-spices.linuxmint.com/themes/view/Mint-Y-Yltra-Dark))</figcaption>
 
@@ -62,7 +62,7 @@ Linux 有分歧。如果他们一方面颂扬他们的稳定性和安全性，�
 
 两年后，发生了一个巨大的变化:我必须回到 Windows 10。我不得不在一门我们被介绍给 Adobe Illustrator 的学科里使用 Inkscape，当时我刚把 johnson [*](https://www.dicionarioinformal.com.br/meter+o+johnson/) 。再加上为 Inkscape 的学习曲线而陷入的这种苦恼，有一个愿望，我不得不测试是否在电子笔记本上做课堂笔记比在纸质笔记本上更有效。是的，我退出 Linux Mint 是因为我想在那一学期使用 Illustrator 和 evernote—因此，Inkscape 太复杂了，Evernote Web 及其 Linux 客户都很尴尬。到 2017 年，Windows 10 已经整合为微软有史以来最好的 Windows 版本，所以这并不是一个艰难的决定。
 
-<figure>[![](../Images/5491977b904c72f788d19aa9927e6aa8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--n8tp9LAV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A76MkgNoz5QBHUbfT.jpg) 
+<figure>[![](img/5491977b904c72f788d19aa9927e6aa8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--n8tp9LAV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A76MkgNoz5QBHUbfT.jpg) 
 
 <figcaption>Windows 10。(丰泰:[https://www . thurr ott . com/windows/windows-10/173920/Microsoft-release-patch-Tuesday-updates-for-windows-10 #](https://www.thurrott.com/windows/windows-10/173920/microsoft-release-patch-tuesday-updates-for-windows-10#))</figcaption>
 
@@ -80,7 +80,7 @@ Linux 有分歧。如果他们一方面颂扬他们的稳定性和安全性，�
 
 一切都变了。
 
-<figure>[![](../Images/db59209977b12acfb255674bc6e6aad6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4qz81u1g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AvUSPcMKATpY6aohP.png) 
+<figure>[![](img/db59209977b12acfb255674bc6e6aad6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4qz81u1g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AvUSPcMKATpY6aohP.png) 
 
 <figcaption>曼哈罗·KDE(丰泰:[https://www . diolinux . com . br/2016/05/um-leigo-no-man jaro-kde . html](https://www.diolinux.com.br/2016/05/um-leigo-no-manjaro-kde.html))</figcaption>
 
@@ -88,7 +88,7 @@ Linux 有分歧。如果他们一方面颂扬他们的稳定性和安全性，�
 
 Manjaro 是一个基于 Arch 的分支；他们共享同一个软件包管理器 Pacman。在另一方面，软件包管理器会告诉您如何与已安装的程序交互，因此它在用户的日常生活中非常重要。Deepin OS 和 Mint 等许多开发人员都很擅长利用应用程序商店自动安装、更新和卸载应用程序。不要再吃花生酱了：您的软件包管理工具就像商店一样。尽管如此，使用花生和 Pacman 据说是可喜可贺的。他的终端上的所有命令都比基于 Debian 的其他命令(Ubuntu、deepin os、Mint 等)简单。)，这让我不再害怕探索这个特殊的新宇宙。
 
-<figure>[![](../Images/cd82dd943f7f6c1c0d3d7a618e3ed796.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GqJJbgcw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AZ8ihXJbA2-vDAW8sbv7JwQ.png) 
+<figure>[![](img/cd82dd943f7f6c1c0d3d7a618e3ed796.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GqJJbgcw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AZ8ihXJbA2-vDAW8sbv7JwQ.png) 
 
 <figcaption>帕马克。</figcaption>
 
@@ -96,7 +96,7 @@ Manjaro 是一个基于 Arch 的分支；他们共享同一个软件包管理器
 
 不久之后，我在 Manjaro i3 社区版，我现在的娱乐场所，这是第四个也是最后一个过渡时期。虽然不是完美的，也不是用户友好的，但他让我错过了我曾经用过的任何东西。此事值得特别为他写一篇文章，但这里可以总结一下要点:这个版本的 Manjaro 重量轻，开机后占用的 RAM 刚刚超过 300mb。另一个细节是它是 100%键盘驱动的:如名称所述，键盘上可以替换鼠标动作的任何内容都会获得特定的快捷键。体验如此令人满意，最近我也选择将其安装在工作电脑上。
 
-<figure>[![](../Images/c30b8c0f2ee23ee03746f8476632aa3c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yMGYv6J4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ATBv5tUtjaoGVNs0wxRkg1Q.png) 
+<figure>[![](img/c30b8c0f2ee23ee03746f8476632aa3c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yMGYv6J4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ATBv5tUtjaoGVNs0wxRkg1Q.png) 
 
 <figcaption>Meu 桌面 atual。</figcaption>
 

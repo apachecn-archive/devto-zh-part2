@@ -4,7 +4,7 @@
 
 这是我的“开发聊天”系列中的一篇文章，在这篇文章中，我大约每周都会与一位出色的开发人员或技术人员交谈。你可以在这里阅读更多。如果你觉得这些对你有用，请在评论中告诉我！
 
-[![Joe. Partially responsible for that embarrrasing Timehop app :P](../Images/807273573f9f10bad41b75ff6c81369f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ix53V6eZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/59ebf016e5dd5b1f808fdc47/1508634697739/Sombrero-Square.png%3Fformat%3D1000w)
+[![Joe. Partially responsible for that embarrrasing Timehop app :P](img/807273573f9f10bad41b75ff6c81369f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ix53V6eZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/59ebf016e5dd5b1f808fdc47/1508634697739/Sombrero-Square.png%3Fformat%3D1000w)
 
 乔。对令人尴尬 Timehop 应用负有部分责任:P
 

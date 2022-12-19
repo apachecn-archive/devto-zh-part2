@@ -43,19 +43,19 @@ Enter fullscreen mode Exit fullscreen mode
 
 对于每个开发人员来说，处理 web 应用程序中的用户认证是一个巨大的痛苦。这就是 Okta 的闪光点:它帮助您以最小的努力保护您的 web 应用程序。首先，您需要在 Okta 中创建一个 OpenID Connect 应用程序。注册一个永远免费的开发者账户(或者如果你已经有了的话就登录)。
 
-[![Okta Signup Screenshot](../Images/4c4cec62bb393084b380961aed8243be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BHC0CKn5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/crud-aspnet-core-react/okta-signup-accab135cb5e7cb06a3446679d6aef0958ea31b3b9444d87ffb2f70e5882d045.png)
+[![Okta Signup Screenshot](img/4c4cec62bb393084b380961aed8243be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BHC0CKn5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/crud-aspnet-core-react/okta-signup-accab135cb5e7cb06a3446679d6aef0958ea31b3b9444d87ffb2f70e5882d045.png)
 
 一旦您登录并登录到仪表板页面，请复制下图中的 Org URL。你以后会需要这个的。
 
-[![Org Url Dashboard Screenshot](../Images/4c0591ffca2695de422ca40a02996cf3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xd2neOfj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/crud-aspnet-core-react/okta-org-url-38ad1e82ab84ae824e053148055d7b7456c5675d3ef3f27e06874ba47904fcc4.png)
+[![Org Url Dashboard Screenshot](img/4c0591ffca2695de422ca40a02996cf3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xd2neOfj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/crud-aspnet-core-react/okta-org-url-38ad1e82ab84ae824e053148055d7b7456c5675d3ef3f27e06874ba47904fcc4.png)
 
 然后通过浏览到**应用**选项卡并点击**添加应用**来创建一个新的应用。
 
-[![Application Dashboard Screenshot](../Images/5e914cd4f078ac5dc20b86e2939def59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bbFxAUTc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/crud-aspnet-core-react/okta-app-dashboard-28e02cba86bd97f0898d883d5a416ac6581d56d2207623f5ae94c816103976e2.png)
+[![Application Dashboard Screenshot](img/5e914cd4f078ac5dc20b86e2939def59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bbFxAUTc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/crud-aspnet-core-react/okta-app-dashboard-28e02cba86bd97f0898d883d5a416ac6581d56d2207623f5ae94c816103976e2.png)
 
 从向导中，为 React 应用程序选择**单页应用程序**选项。
 
-[![App Wizard screenshot with Single Page App Selected](../Images/16fbd27dc80ca8b48b4944af56fe0e33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1kLbjoko--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/crud-aspnet-core-react/single-page-app-679f5e1ea17bc95523dfd741084c8af93011042aa300eda87e6a515a6821ffe6.png)
+[![App Wizard screenshot with Single Page App Selected](img/16fbd27dc80ca8b48b4944af56fe0e33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1kLbjoko--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/crud-aspnet-core-react/single-page-app-679f5e1ea17bc95523dfd741084c8af93011042aa300eda87e6a515a6821ffe6.png)
 
 在“设置”页面上，输入以下值:
 
@@ -65,15 +65,15 @@ Enter fullscreen mode Exit fullscreen mode
 
 您可以保持其他值不变。
 
-[![Application Settings Screenshot](../Images/930a1fad753046f6e9abbfac07b50ee9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m5cNuzbB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/crud-aspnet-core-react/application-settings-3f9b43a78e47b54c1cb0abc3fed7f849528823dd6bd58164c2b74962826c2754.png)
+[![Application Settings Screenshot](img/930a1fad753046f6e9abbfac07b50ee9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m5cNuzbB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/crud-aspnet-core-react/application-settings-3f9b43a78e47b54c1cb0abc3fed7f849528823dd6bd58164c2b74962826c2754.png)
 
 现在您的应用程序已经创建好了，请将客户端 ID 和客户端密码值复制到下一页，您很快就会用到它们。
 
-[![Application Secrets Screenshot](../Images/ca38b91dd152bf6fa7ea1f7751d440ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BbHswXlb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/crud-aspnet-core-react/okta-app-secrets-04f9ae1d82ab33072a0de5187e16c23eac3752b8fac955e10d4d2d6377358b12.png)
+[![Application Secrets Screenshot](img/ca38b91dd152bf6fa7ea1f7751d440ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BbHswXlb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/crud-aspnet-core-react/okta-app-secrets-04f9ae1d82ab33072a0de5187e16c23eac3752b8fac955e10d4d2d6377358b12.png)
 
 最后，创建一个新的身份验证令牌。这将允许你的应用程序与 Okta 对话，以检索用户信息等。为此，点击页面顶部的 **API** 标签，然后点击**创建令牌**按钮。给你的令牌起个名字，在这个例子中“Crud API”是个好名字，然后点击**创建令牌**。记下这个令牌值，因为您很快就会用到它。
 
-[![API Token Creation Screenshot](../Images/ebfe48023365929d4cc70f28aa79cc33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hoh6Ggha--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/crud-aspnet-core-react/create-api-token-1e8f16398b8899e64b9aa02b9ab180535a3bd27d489cb1e0303212af2914f2bc.png)
+[![API Token Creation Screenshot](img/ebfe48023365929d4cc70f28aa79cc33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hoh6Ggha--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/crud-aspnet-core-react/create-api-token-1e8f16398b8899e64b9aa02b9ab180535a3bd27d489cb1e0303212af2914f2bc.png)
 
 一旦创建了新的 Okta 应用程序，就需要将配置信息存储在 React 和 ASP.NET 核心应用程序中。
 
@@ -1198,7 +1198,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您现在应该能够运行应用程序和注册用户，登录，创建，阅读，更新和删除会话提交！
 
-[![Application Running Screenshot](../Images/bcdd4c149d4e98249e704190268e1327.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mg90aWpl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/crud-aspnet-core-react/crud-app-running-998e5cea339f4253282658c669b1b34c805b2378fa39178eedb2cd7dbef93276.png)
+[![Application Running Screenshot](img/bcdd4c149d4e98249e704190268e1327.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mg90aWpl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/crud-aspnet-core-react/crud-app-running-998e5cea339f4253282658c669b1b34c805b2378fa39178eedb2cd7dbef93276.png)
 
 ## 做更全栈！！
 

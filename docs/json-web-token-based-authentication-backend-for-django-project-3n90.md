@@ -10,7 +10,7 @@ HTTP 本质上是无状态的，不管后端是什么。因此，大多数 web �
 
 面向 Web 的框架提供了在更高层次上处理 cookies 的功能，让我们来看看 django。
 
-[![Alt text of image](../Images/796d8db69ac10baa69ca665150c01432.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4495ZZM8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.com/images/apcelent-json-authentication-django.png)
+[![Alt text of image](img/796d8db69ac10baa69ca665150c01432.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4495ZZM8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.cimg/apcelent-json-authentication-django.png)
 
 ## Django 的内置认证
 

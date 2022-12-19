@@ -8,7 +8,7 @@
 
 几天前，当我发现 [Endtest](https://endtest.io) 引入了自我修复的自动化测试时，我就经历了这样的时刻。
 
-[![Self-Healing Tests Endtest](../Images/e1f74988e5c83117d6e38a3d5420ca33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZSRk7ug7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/8gYBnBA.png)
+[![Self-Healing Tests Endtest](img/e1f74988e5c83117d6e38a3d5420ca33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZSRk7ug7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/8gYBnBA.png)
 
 但是它是如何工作的呢？
 

@@ -4,7 +4,7 @@
 
 *这篇文章最初发表在我们的[博客](https://bugfender.com/blog/why-we-dont-have-customer-support-representatives-at-bugfender/)上。*
 
-[![](../Images/a7f6add2119596a9e9316a30ee215d0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tFfTKkaV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/02/Customer-support.jpg)
+[![](img/a7f6add2119596a9e9316a30ee215d0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tFfTKkaV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/02/Customer-support.jpg)
 
 我们经常问自己:向我们的用户提供客户支持的最自然的方式是什么？
 
@@ -22,7 +22,7 @@
 
 如果你有幸接触到一个真实的人，他们通常缺乏理解和有意义地解决你的问题的训练。
 
-[![](../Images/219092b9f806fd388c838a16208a09bb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5XSjimIR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/02/DSC_0038.jpg) 
+[![](img/219092b9f806fd388c838a16208a09bb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5XSjimIR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/02/DSC_0038.jpg) 
 *巴塞罗那的 Bugfender 工程师*
 
 ## 与一个真正的帮助制造产品的工程师或设计师交谈

@@ -10,7 +10,7 @@
 
 节点被称为**存在点**，并且靠近主要的人口中心。这里是众所周知的阿比林网络:
 
-[![https://cs.stanford.edu/people/eroberts/courses/soco/projects/2003-04/internet-2/images/domesticpeer.gif](../Images/da8a9702170ed59ea2b41b8cd813d648.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wRG_QABt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cs.stanford.edu/people/eroberts/courses/soco/projects/2003-04/internet-2/images/domesticpeer.gif)
+[![https://cs.stanford.edu/people/eroberts/courses/soco/projects/2003-04/internetimg/domesticpeer.gif](img/da8a9702170ed59ea2b41b8cd813d648.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wRG_QABt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cs.stanford.edu/people/eroberts/courses/soco/projects/2003-04/internetimg/domesticpeer.gif)
 
 有两种域内路由算法。
 

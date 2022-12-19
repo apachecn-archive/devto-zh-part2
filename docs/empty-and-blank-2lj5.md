@@ -4,7 +4,7 @@
 
 一个月前我在推特上发布关于`:empty`和`:blank`的消息时犯了一个严重的错误。我说`:empty`没用，`:blank`比`:empty`有用多了。
 
-[![Blank is not supported by any browser](../Images/68306db052694dac1fcff379991a92c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W-EzNA8V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/empty-and-blank/tweet.png)
+[![Blank is not supported by any browser](img/68306db052694dac1fcff379991a92c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W-EzNA8V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/empty-and-blank/tweet.png)
 
 我错了！
 
@@ -268,7 +268,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 `:empty`所有浏览器都支持，`:blank`浏览器支持差。这让你今天有足够的理由使用`:empty`而不是`:blank`！
 
-[![Empty supported by every browser](../Images/bf8c028f147e1612898df072c6089780.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--apfvJqay--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/empty-and-blank/empty-browser-support.png) 
+[![Empty supported by every browser](img/bf8c028f147e1612898df072c6089780.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--apfvJqay--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/empty-and-blank/empty-browser-support.png) 
 
 <figure>
 
@@ -276,7 +276,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 </figure>
 
-[![Blank is not supported by any browser](../Images/f025785290ceccfe3b32a87ffe944955.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VMRxWmd3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/empty-and-blank/blank-browser-support.png) 
+[![Blank is not supported by any browser](img/f025785290ceccfe3b32a87ffe944955.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VMRxWmd3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/empty-and-blank/blank-browser-support.png) 
 
 <figure>
 

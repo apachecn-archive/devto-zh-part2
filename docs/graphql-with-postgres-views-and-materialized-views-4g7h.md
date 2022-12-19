@@ -4,7 +4,7 @@
 
 ### Postgres 观点牛逼。您可以使用关系将它们链接到常规表，然后进行单个嵌套查询来获取相关数据。
 
-[![](../Images/127c0b5fe2dd3087cde256a1ad699f03.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JQoOjNj_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/postgres-views-and-materialized-views-with-graphql-fd75680888b8/1-aaBWLnKdOp_6YPzltA21xA.png)
+[![](img/127c0b5fe2dd3087cde256a1ad699f03.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JQoOjNj_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/postgres-views-and-materialized-views-with-graphql-fd75680888b8/1-aaBWLnKdOp_6YPzltA21xA.png)
 
 ## TL；速度三角形定位法(dead reckoning)
 
@@ -66,7 +66,7 @@ Hasura GraphQL 引擎可以用于任何 Postgres。你只需要提供一个 Post
 
 我们将使用 Hasura GraphQL 引擎通过 Postgres 即时获取 GraphQL APIs。点击下面的按钮，将 GraphQL 引擎部署到 Heroku 的自由层。
 
-<figure>[![Hasura on Heroku](../Images/c5f2ec62efbee76fd41eb9eff7b5c1c0.png)](https://heroku.com/deploy?template=https://github.com/hasura/graphql-engine-heroku) 
+<figure>[![Hasura on Heroku](img/c5f2ec62efbee76fd41eb9eff7b5c1c0.png)](https://heroku.com/deploy?template=https://github.com/hasura/graphql-engine-heroku) 
 
 <figcaption>点击此按钮将 GraphQL 引擎部署到 Heroku</figcaption>
 
@@ -80,7 +80,7 @@ Graphql 引擎附带了一个名为`Console`的管理 UI。您可以使用`Conso
 
 它运行在您的`graphql-engine` URL 的`/console`端点，在本例中是`https://your-app.herokuapp.com/console`。`console`的登陆页面看起来是这样的:
 
-[![](../Images/c5cf0891615552490f9f40859489ee9b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--01hnu7ga--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/postgres-views-and-materialized-views-with-graphql-fd75680888b8/1-CuBaxCvX-UlNLsSCBRx0uA.png)
+[![](img/c5cf0891615552490f9f40859489ee9b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--01hnu7ga--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/postgres-views-and-materialized-views-with-graphql-fd75680888b8/1-CuBaxCvX-UlNLsSCBRx0uA.png)
 
 ## 创建表格
 
@@ -122,7 +122,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 要运行这个 SQL 语句，请转到`Data`选项卡，并在左侧面板中单击`SQL`。
 
-[![](../Images/3325062c62812ef2989c1b5381690e33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---zIPEctz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/postgres-views-and-materialized-views-with-graphql-fd75680888b8/1-9QCnxNt_xEKALycn_V9vwQ.png)
+[![](img/3325062c62812ef2989c1b5381690e33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---zIPEctz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/postgres-views-and-materialized-views-with-graphql-fd75680888b8/1-9QCnxNt_xEKALycn_V9vwQ.png)
 
 ## 从视图中提取数据
 
@@ -149,7 +149,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在出现的表单中，选择以下选项:
 
-[![](../Images/3b32cbfb9c2538052801908a2959ceff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MxGtebN---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/postgres-views-and-materialized-views-with-graphql-fd75680888b8/1-NiaL44f5i6Vs57clAh2YYw.png)
+[![](img/3b32cbfb9c2538052801908a2959ceff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MxGtebN---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/postgres-views-and-materialized-views-with-graphql-fd75680888b8/1-NiaL44f5i6Vs57clAh2YYw.png)
 
 现在，您可以查询作者的所有文章的`article`表以及每篇文章的`total_upvotes`。
 

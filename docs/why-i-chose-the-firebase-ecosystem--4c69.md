@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jjsantos/why-i-chose-the-firebase-ecosystem--4c69>
 
-[![Firebase Logo](../Images/00bd6fa5c71989be4bda9c1967ad0e55.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jhwpt2a1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1cpozv1jc7lgue4iqgi9.png)
+[![Firebase Logo](img/00bd6fa5c71989be4bda9c1967ad0e55.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jhwpt2a1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1cpozv1jc7lgue4iqgi9.png)
 
 我已经使用 Firebase 几个月了，我的体验非常棒。
 
@@ -15,7 +15,7 @@ Firebase 为我们提供了很多功能，以减少开发时间，使网络/移�
 想看看吗？
 *社交认证再简单不过了...*
 
-[![Handling login](../Images/2f057d369811c99ebecfa2830913699c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rse2Wm4G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gxzc5zbuxzvrs1jh8u35.PNG)
+[![Handling login](img/2f057d369811c99ebecfa2830913699c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rse2Wm4G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gxzc5zbuxzvrs1jh8u35.PNG)
 
 * * *
 

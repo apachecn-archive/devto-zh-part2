@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/thatfrankdev/getting-started-with-vuejs-plugins-production-ready-example-52j4>
 
-[![Getting Started with Vue.js Plugins [Production-Ready Example]](../Images/b290b3263519fa4c84bc46ed29c50a8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nxfQeRUJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203866/vue-js-plugin-1.jpg)
+[![Getting Started with Vue.js Plugins [Production-Ready Example]](img/b290b3263519fa4c84bc46ed29c50a8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nxfQeRUJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203866/vue-js-plugin-1.jpg)
 
 我们< 3 Vue.js 不是秘密。
 
@@ -26,7 +26,7 @@
 
 ## vue . js 插件小故事
 
-[![vue-js-plugin](../Images/b290b3263519fa4c84bc46ed29c50a8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nxfQeRUJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203866/vue-js-plugin-1.jpg)
+[![vue-js-plugin](img/b290b3263519fa4c84bc46ed29c50a8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nxfQeRUJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203866/vue-js-plugin-1.jpg)
 
 ### 插件到底是什么？
 

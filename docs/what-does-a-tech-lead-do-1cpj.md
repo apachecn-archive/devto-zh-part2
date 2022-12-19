@@ -4,7 +4,7 @@
 
 *最初发表于我的博客:* [你所需要的只是后端](http://allyouneedisbackend.com/blog/2018/08/03/what-does-a-tech-lead-do/)。
 
-[![What Does a Tech Lead Do?](../Images/b9fb1fc188bb2f9283f27789579300c9.png "What Does a Tech Lead Do?")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EtcLItPM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9sfpknhwedy82i11v0oz.png)
+[![What Does a Tech Lead Do?](img/b9fb1fc188bb2f9283f27789579300c9.png "What Does a Tech Lead Do?")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EtcLItPM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9sfpknhwedy82i11v0oz.png)
 
 在软件开发组织的层次结构中，技术领导是一个相对较新的角色。当我第一次听说这个角色时，我的第一个想法是
 

@@ -17,14 +17,14 @@
 *   在`Authorization`选项卡中，点击类型下拉并将其设置为`Bearer Token`
 *   在屏幕右侧添加您之前获得的设备密钥
 
-[![alt text](../Images/6e9f38bc5759340fb9c9d3e7f71c3f70.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---OxEu7H5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-16/1523883667-756684-psotman.png)
+[![alt text](img/6e9f38bc5759340fb9c9d3e7f71c3f70.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---OxEu7H5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-16/1523883667-756684-psotman.png)
 
 现在在`body`选项卡中:
 
 *   单击表单数据单选按钮
 *   添加一个名称键并输入您的活动名称(我上传照片时会调用我的`photo`)
 *   添加一个文件键，并将鼠标悬停在键框的末尾以选择文件而不是文本。
-*   一个`Choose Files`选项卡将被添加到相邻的值部分，在这里您可以选择您的文件![alt text](../Images/4c56dfb9ebf0e24b3edd461f62d341df.png)
+*   一个`Choose Files`选项卡将被添加到相邻的值部分，在这里您可以选择您的文件![alt text](img/4c56dfb9ebf0e24b3edd461f62d341df.png)
 
 点击蓝色的`Send`按钮，进入 wia 调试器，查看输出
-[![alt text](../Images/ae10338ac47afd7723ed0130f792cf0f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---zyXUyBf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-16/1523886025-990124-debuggerphote.png)
+[![alt text](img/ae10338ac47afd7723ed0130f792cf0f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---zyXUyBf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-16/1523886025-990124-debuggerphote.png)

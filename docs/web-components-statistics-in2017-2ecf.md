@@ -8,7 +8,7 @@
 
 ### 3 个月 300 个元素。这是一个令人印象深刻的数字。
 
-[![](../Images/606c4d082f0e2befb7e2f8862d90550c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7_Qcz4Bn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rzvu8nmg4kovi609kaw1.png) 
+[![](img/606c4d082f0e2befb7e2f8862d90550c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7_Qcz4Bn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rzvu8nmg4kovi609kaw1.png) 
 让我们把这些数字分解一下:
 
 *   聚合物始终占出版元素的 90%以上。很明显，Polymer 在 web 组件库领域占据主导地位。
@@ -17,13 +17,13 @@
 
 ### 在 696 个被测试的元素中，这里显示了有多少正在运行
 
-[![](../Images/9be971916b919869b1d77b0444469c31.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--a7jJFjUT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r1hdp7wc2lwpylhc1cwz.png) 
+[![](img/9be971916b919869b1d77b0444469c31.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--a7jJFjUT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r1hdp7wc2lwpylhc1cwz.png) 
 **平视！**每个工作组件都有自己的现场演示和截图供你在 Vaadin 目录下试用。
 
 ### 浏览器兼容性
 
 在 489 个工作元素中，以下是每个浏览器中的工作元素数量:
-[![](../Images/2496a999cbe1001750d0f16e70527db5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HA67HY49--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l4mqk6uoyhy3xffmr0cc.png)
+[![](img/2496a999cbe1001750d0f16e70527db5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HA67HY49--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l4mqk6uoyhy3xffmr0cc.png)
 
 ### 结论
 

@@ -427,7 +427,7 @@ App running at:
 ```
 
 如果你导航到`http://localhost:8080`，你应该会看到这样一个页面。
-[![Todo App](../Images/b8943d4a80133669bb502b26dc6d7486.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Wt2jm-SR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/samueljames/image/upload/v1570888955/Screenshot_2019-10-12_at_16.01.32.png)
+[![Todo App](img/b8943d4a80133669bb502b26dc6d7486.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Wt2jm-SR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/samueljames/image/upload/v1570888955/Screenshot_2019-10-12_at_16.01.32.png)
 
 要连接前端应用程序和后端，您还需要启动后端服务器。
 
@@ -443,6 +443,6 @@ $ npm start
 2.  您的后端服务器必须正在运行。
 3.  您的前端服务器必须正在运行。
 
-如果你导航到 [http://localhost:8080](http://localhost:8080) ，你会看到这样一个页面。【T2![](../Images/cc7ca7e0a98822ac5f976e6b0297e456.png)
+如果你导航到 [http://localhost:8080](http://localhost:8080) ，你会看到这样一个页面。【T2![](img/cc7ca7e0a98822ac5f976e6b0297e456.png)
 
 [在此获取源代码](https://github.com/abiodunjames/NodeJs-Todo-List)

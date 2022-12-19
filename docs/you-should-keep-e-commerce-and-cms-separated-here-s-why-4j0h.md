@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/couellet/you-should-keep-e-commerce-and-cms-separated-here-s-why-4j0h>
 
-[![Why E-Commerce and CMS Should Be Separated](../Images/008c963007f164dbe5057e1ea6b69842.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TtvPt3A8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203637/cartsm-2x.png)
+[![Why E-Commerce and CMS Should Be Separated](img/008c963007f164dbe5057e1ea6b69842.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TtvPt3A8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203637/cartsm-2x.png)
 
 这个帖子的最初版本可以追溯到 2015 年。五年后的今天，我们重温它，感觉是一种必要的(也是有趣的)练习。
 
@@ -24,7 +24,7 @@
 
 ## 我们是什么时候意识到电商和 CMS 这种必要的分离的？
 
-[![moment-of-realization](../Images/2f5ee22112deb4b69a597b60991bea90.png)T2】](https://i.giphy.com/media/11ykUODgXjAXZu/giphy.gif)
+[![moment-of-realization](img/2f5ee22112deb4b69a597b60991bea90.png)T2】](https://i.giphy.com/media/11ykUODgXjAXZu/giphy.gif)
 
 让我带你去回忆一下，在 Snipcart 出现之前。在创业之前，我们曾经是在一家很棒的网络开发店工作的极客。一天，一个客户找到我们，提出了一个特殊的需求:
 

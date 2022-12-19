@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/lauragift21/getting-started-with-vuepress-1o1l>
 
-[![img](../Images/25bdeba94591eb60f825f60a82c68036.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QeXVVDFy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xnkv5z7k6vl3qs495q1d.png)
+[![img](img/25bdeba94591eb60f825f60a82c68036.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QeXVVDFy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xnkv5z7k6vl3qs495q1d.png)
 *[vue press](https://vuepress.vuejs.org/)是静态站点生成器列表中的新成员。Vue 的创造者尤雨溪想出了这个为基于 Vue 的项目写文档的好工具，这是项目背后的灵感，但是这个强大的工具也可以定制以满足你的需要。*
 
 事实上，VuePress 站点是一个由 Vue、Vue 路由器和 webpack 支持的 SPA。构建完成后，将创建应用程序的服务器渲染版本。类似于 Nuxt 和 Gatsby 的方法。
@@ -120,7 +120,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 点击部署按钮！
 
-[![Wakanda](../Images/40689c409f142914a80d42cc30777756.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pwxFwUYj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/lauragift/image/upload/c_crop/v1524289619/Screenshot_from_2018-04-20_22-33-04_pgvl39.png)
+[![Wakanda](img/40689c409f142914a80d42cc30777756.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pwxFwUYj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/lauragift/image/upload/c_crop/v1524289619/Screenshot_from_2018-04-20_22-33-04_pgvl39.png)
 
 VuePress 是惊人的快速和容易上手，本教程打破了所有 VuePress 能够在一口大小的部分。能够在 markdown 文件中编写 Vue，定制主题，还提供预渲染的 HTML，并在加载时作为 SPA 运行。请随意查看[文档](https://vuepress.vuejs.org/guide/)以了解更多关于 VuePress 的信息。我们最后的项目[住在这里](https://gallant-nobel-d7c6cd.netlify.com/)和[回购](https://github.com/lauragift21/vuepress)。
 

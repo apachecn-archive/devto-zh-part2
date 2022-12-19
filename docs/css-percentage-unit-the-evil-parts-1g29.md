@@ -20,13 +20,13 @@ CSS 有几十个[长度](https://developer.mozilla.org/en-US/docs/Web/CSS/length
 
 我们将通过几个步骤来创建这个转盘(滑块),以熟悉 CSS 百分比单位。
 
-[![carousal (final)](../Images/b5ad048ad6744559583cb1dbbb208820.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uCoZb10v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1100/1%2A_SlOkwsYSxK3D0utZsFuxg.png)
+[![carousal (final)](img/b5ad048ad6744559583cb1dbbb208820.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uCoZb10v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1100/1%2A_SlOkwsYSxK3D0utZsFuxg.png)
 
 请注意，我们不会详细解释如何根据样式创建这个旋转木马，或者如何使它具有交互性。我们将只关注如何在对齐控制器中处理百分比并设置幻灯片的宽度和高度。
 
 详细创建旋转木马需要大量的数学知识和钻研 JavaScript，这需要一篇独立的文章；所以为了简洁起见，我将不深究这两者，而将从这种基本样式的 [**教程笔**](https://codepen.io/Abdelrahman3D/pen/pVgPZM) 开始。
 
-[![carousal (start)](../Images/ac8d30d5efb86ed5b2c07f867a2c3727.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yqPumIno--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1100/1%2AAVoX3GQzqRLBB3G6_4Z9Qw.png)
+[![carousal (start)](img/ac8d30d5efb86ed5b2c07f867a2c3727.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yqPumIno--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1100/1%2AAVoX3GQzqRLBB3G6_4Z9Qw.png)
 
 ## 一般指南
 
@@ -40,7 +40,7 @@ CSS 有几十个[长度](https://developer.mozilla.org/en-US/docs/Web/CSS/length
 
 你可以看到钢笔上有垂直和水平的准线，完全居中对齐。要隐藏参考线，只需移除*。滑块—从**到*引导*类。滑块*** 容器。
 
-[![guides code](../Images/cfcb39d89b46c6567698df712b056ae1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UN_q3Mgi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2ACRh0veQd55o_LIyZQgI_ew.png)
+[![guides code](img/cfcb39d89b46c6567698df712b056ae1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UN_q3Mgi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2ACRh0veQd55o_LIyZQgI_ew.png)
 
 在 CSS 部分的笔的底部，你会发现每个教程步骤代码都有注释。取消注释，随着本教程的进行，一步一步地查看结果。
 
@@ -50,15 +50,15 @@ CSS 有几十个[长度](https://developer.mozilla.org/en-US/docs/Web/CSS/length
 
 我们给了一个 ***。slider__slide*** 宽度为*的 25%* ，这将使元素的内容区域正好等于其父元素的四分之一宽度( ***)。slider__track*** )，但前提是其父级具有显式宽度。
 
-[![step 1.1](../Images/8db4b55a43930304ccdb7fc5f2411ba0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DUKofH_V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1100/1%2ACEDOQSS_P50gDu0QoP19TA.png)
+[![step 1.1](img/8db4b55a43930304ccdb7fc5f2411ba0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DUKofH_V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1100/1%2ACEDOQSS_P50gDu0QoP19TA.png)
 
 我们给了一个 ***。滑块 _ _ 滑块*** 高度为 100%，这将使元素的高度正好等于其父元素的高度( ***)。滑块 _ _ 轨道*** )。
 
-[![step 1.2](../Images/bdb8f83ab95020dd822e53996720f99a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NkQQArux--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1100/1%2AAkS3J_6P1Pk99aAvKelc9A.png)
+[![step 1.2](img/bdb8f83ab95020dd822e53996720f99a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NkQQArux--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1100/1%2AAkS3J_6P1Pk99aAvKelc9A.png)
 
 您会注意到幻灯片脱离了导轨，我相信任何级别的前端开发人员都面临过与我刚才描述的问题类似的问题。当你认为使用 CSS percentage 非常简单(也应该如此)时，你就面临着这种让你抓狂的奇怪行为。
 
-[![slider 1.2](../Images/7322e48e60610d94cf774b7f034050a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lBeFOdW8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1250/1%2AfzZCPPrRx_FpCx4NklAL3g.png)
+[![slider 1.2](img/7322e48e60610d94cf774b7f034050a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lBeFOdW8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1250/1%2AfzZCPPrRx_FpCx4NklAL3g.png)
 
 如果你对这个问题调查的多了，你会发现 ***。slider__slide*** 的高度等于它的父级，正如我们所料，但是因为它的顶部和底部有 20px 的边距，所以它离开了网格(我故意放了那个边距😈😈).
 
@@ -66,18 +66,18 @@ CSS 有几十个[长度](https://developer.mozilla.org/en-US/docs/Web/CSS/length
 
 > 注意:如果您使用默认的浏览器框模型(内容框)，添加填充或边框也会将元素移出父元素。有很多方法可以解决这个问题，我相信你已经想到了一些，其中一个是去掉那个小的邪恶的边距，或者我们可以简单地从高度中减去上下边距。
 
-[![step 1.3](../Images/177e1bf8bceb444f68a1abbc3d618a10.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qd0E158_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Am--5ixB7dVYvNlnYhOP3AQ.png)
+[![step 1.3](img/177e1bf8bceb444f68a1abbc3d618a10.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qd0E158_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Am--5ixB7dVYvNlnYhOP3AQ.png)
 
 🎉🎉你做到了！
 
-[![slider 1.3](../Images/5b64fec74d1481372a02ccae70aa03fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NtlFsffh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1100/1%2AAlsvMZ8MxrQSI-apenlvlA.png)
+[![slider 1.3](img/5b64fec74d1481372a02ccae70aa03fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NtlFsffh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1100/1%2AAlsvMZ8MxrQSI-apenlvlA.png)
 
 ## 第二步:对齐滑块指示器
 
 我们将从对齐 ***开始。滑块 __nav*** 到滑块的中下方。我们会给它一个绝对的位置，相对于 ***。滑块*** 向左*移动滑块宽度的 50%* ，查看输出。
 
-[![step 2.1](../Images/7389e5e51b01ba3dca0e2490a7587d93.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--x_YjalG7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1100/1%2AaXr_2Rbt7kZuzz_WuKsJkg.png)
-[![slider 2.1](../Images/e5e04611e240a1eacaffb983a7eba527.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--t7fGow29--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1250/1%2A0s4Hdok_6bDAA4kw0sXd1A.png)
+[![step 2.1](img/7389e5e51b01ba3dca0e2490a7587d93.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--x_YjalG7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1100/1%2AaXr_2Rbt7kZuzz_WuKsJkg.png)
+[![slider 2.1](img/e5e04611e240a1eacaffb983a7eba527.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--t7fGow29--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1250/1%2A0s4Hdok_6bDAA4kw0sXd1A.png)
 
 正如我们所见，我们已经对齐了 ***的左侧。滑块 _ _ nav*T3 到**T5 的中间。滑块** ，但我们其实是想对齐 ***的中心。将 __nav* 滑块**移动到**的中心*。滑块*** 。**
 
@@ -89,11 +89,11 @@ CSS 有几十个[长度](https://developer.mozilla.org/en-US/docs/Web/CSS/length
 
 这里的诀窍是选择第一个**T1。slider__nav** child，添加 *margin-left: -50%* 到它，然后百分比将相对于 ***。滑块 __nav* 本身。**
 
-[![step 2.2](../Images/c0d39381183a5816a61bc39e6576c751.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6LEDSvPu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1100/1%2ALHeTmtat9YuYA4r9TzOf9A.png)
+[![step 2.2](img/c0d39381183a5816a61bc39e6576c751.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6LEDSvPu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1100/1%2ALHeTmtat9YuYA4r9TzOf9A.png)
 
 👌👌现在它完全居中
 
-[![slider 2.2](../Images/9df92c49c4c83d2243be183652bfb501.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9CTbJJMo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1250/1%2AdZoq_86S5oy-f0-OYPLviA.png)
+[![slider 2.2](img/9df92c49c4c83d2243be183652bfb501.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9CTbJJMo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1250/1%2AdZoq_86S5oy-f0-OYPLviA.png)
 
 不过不要着急，我们还有两个箭头要对齐…
 
@@ -103,8 +103,8 @@ CSS 有几十个[长度](https://developer.mozilla.org/en-US/docs/Web/CSS/length
 
 让我们试试刚刚学过的技巧，但现在我们将使用它来垂直居中对齐元素。
 
-[![step 3.1](../Images/13daa828480a068040c6c3ed6c909f84.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WpdQkCqA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1100/1%2AqBoieyi9SoIfCnz7Ea0skQ.png)
-[![slider 3.1](../Images/f5dc18d90fa1c1edc465f48051f2c88d.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--5bTedvm0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1250/1%2AjotAhhluo4Tm_r5XFzUBsw.png)
+[![step 3.1](img/13daa828480a068040c6c3ed6c909f84.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WpdQkCqA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1100/1%2AqBoieyi9SoIfCnz7Ea0skQ.png)
+[![slider 3.1](img/f5dc18d90fa1c1edc465f48051f2c88d.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--5bTedvm0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1250/1%2AjotAhhluo4Tm_r5XFzUBsw.png)
 
 哎呀！这次没成功，你能猜到原因吗？
 
@@ -116,7 +116,7 @@ CSS 有几十个[长度](https://developer.mozilla.org/en-US/docs/Web/CSS/length
 
 如果 ***，这将完美地工作。滑块 _ _ 下一个*** 的高度与宽度相同，但是我们如何解决这个问题呢？
 
-[![spiderman meme](../Images/eb762c8cffac979a3903ddf48624044e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2pspvIu1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1100/1%2A9Ic7UZ9TWLG6DiZggQlhWQ.jpeg)T3】
+[![spiderman meme](img/eb762c8cffac979a3903ddf48624044e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2pspvIu1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1100/1%2A9Ic7UZ9TWLG6DiZggQlhWQ.jpeg)T3】
 
 <center>*source: [https://memegenerator.net](https://memegenerator.net)*</center>
 
@@ -130,12 +130,12 @@ CSS 有几十个[长度](https://developer.mozilla.org/en-US/docs/Web/CSS/length
 
 用这段代码替换前面的代码。
 
-[![step 3.2](../Images/6f8ce3bf7020cbc52c74c462ee03c341.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jJyeANtr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1100/1%2AbjUyUSFh9qOdTXQ0d4uWqw.png)
-[![slider 3.2a](../Images/7ffc413b7cd9b9547992947bd1126858.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--8ZXq7CYO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1100/1%2AyjKG0WRcCn1R6HhMOGmrGw.png)
+[![step 3.2](img/6f8ce3bf7020cbc52c74c462ee03c341.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jJyeANtr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1100/1%2AbjUyUSFh9qOdTXQ0d4uWqw.png)
+[![slider 3.2a](img/7ffc413b7cd9b9547992947bd1126858.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--8ZXq7CYO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1100/1%2AyjKG0WRcCn1R6HhMOGmrGw.png)
 
 这里还有一个小问题。当悬停在下一个箭头上时，它将被放错位置。
 
-[![slider 3.2b](../Images/3b793c4e3ce570bd6efe40dfe5196620.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B3EvWYVX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1100/1%2AD2rkkMDv62baaq9wJ2nsPw.png)
+[![slider 3.2b](img/3b793c4e3ce570bd6efe40dfe5196620.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B3EvWYVX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1100/1%2AD2rkkMDv62baaq9wJ2nsPw.png)
 
 所以我们要给 ***加上 translateX。滑块 __next:悬停*** 状态过。
 
@@ -143,11 +143,11 @@ CSS 有几十个[长度](https://developer.mozilla.org/en-US/docs/Web/CSS/length
 
 最后一步是对齐 ***。滑块 __prev*** ，它将完全作为 ***。滑块 __next*** 除了它会在左边。
 
-[![step 4.1](../Images/4ae7f9a95597568f2cdcc0443a22e6e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EC0Zfohz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1100/1%2AoqST1TlvAEOM6th0dDZNYQ.png)
+[![step 4.1](img/4ae7f9a95597568f2cdcc0443a22e6e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EC0Zfohz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1100/1%2AoqST1TlvAEOM6th0dDZNYQ.png)
 
 🎉🎉恭喜你！你已经成为一个真正的 CSS 蜘蛛了。
 
-[![slide 4.1](../Images/b5ad048ad6744559583cb1dbbb208820.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uCoZb10v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1100/1%2A_SlOkwsYSxK3D0utZsFuxg.png)
+[![slide 4.1](img/b5ad048ad6744559583cb1dbbb208820.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uCoZb10v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1100/1%2A_SlOkwsYSxK3D0utZsFuxg.png)
 
 ## 结论
 

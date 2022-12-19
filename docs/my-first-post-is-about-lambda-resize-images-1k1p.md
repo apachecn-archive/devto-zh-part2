@@ -8,6 +8,6 @@
 
 [lambda-resize-image](https://github.com/apoca/lambda-resize-image)
 
-[![All tests done with jest](../Images/8dc2b28d4fb5381913f9781c41328e5d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RtraH7H_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hckk1k5euq887w9yslvc.png)
+[![All tests done with jest](img/8dc2b28d4fb5381913f9781c41328e5d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RtraH7H_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hckk1k5euq887w9yslvc.png)
 
 注意:这是我的第一篇文章，我保证下一篇我会改进。

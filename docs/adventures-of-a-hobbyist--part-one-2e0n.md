@@ -8,7 +8,7 @@
 
 这是我的`dev-diary`来记录我学习 NodeJS 的经历，并希望为 IT 支持公司做一个开源 PWA。我想每周更新一次博客，但是，老实说，我不确定我能做到。
 
-[![Old Softwar](../Images/ed4421ba118e348717ff38f991270956.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mB1HVOMW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/covs7ybako9s8orqiaqq.png)
+[![Old Softwar](img/ed4421ba118e348717ff38f991270956.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mB1HVOMW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/covs7ybako9s8orqiaqq.png)
 
 ## 你是谁，做什么的？
 
@@ -33,7 +33,7 @@
 我基本上没有，这些想法已经在我的脑海里冒泡了一段时间，但我还没有抽出时间做任何事情，落笔(嗯...)是第一步。
 
 我想出了一个名字，“伊格尼丝”，我觉得它很好听。
-我做了一个 GitHub 组织，名为[ignis-pwa](https://github.com/ignis-pwa)T3】我做了一个 logo，当然，这个 logo 可能会更改 [![ignis logo](../Images/cef58603a0dfcdbc8ad7fb6a05c68e8f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8Jh-IVyY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://avatars1.githubusercontent.com/u/42175641%3Fs%3D400%26u%3D81fcc7cca690f14675080d754078e569bd3cf7d0)
+我做了一个 GitHub 组织，名为[ignis-pwa](https://github.com/ignis-pwa)T3】我做了一个 logo，当然，这个 logo 可能会更改 [![ignis logo](img/cef58603a0dfcdbc8ad7fb6a05c68e8f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8Jh-IVyY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://avatars1.githubusercontent.com/u/42175641%3Fs%3D400%26u%3D81fcc7cca690f14675080d754078e569bd3cf7d0)
 
 ## 当前的想法
 

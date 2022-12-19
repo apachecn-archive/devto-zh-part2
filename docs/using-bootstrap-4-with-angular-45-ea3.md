@@ -87,7 +87,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 另一个更好的方法是使用组件库，这些组件库是为了让 Bootstrap 与 Angular 无缝工作而创建的，比如`ng-bootstrap`或`ngx-bootstrap`
 
-[![](../Images/d15eecea98c85ee70e3d448a3a62b419.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gnHzXHq2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.com/images/de17d764-f3f2-41df-b3d4-3bdf838c306e.png)
+[![](img/d15eecea98c85ee70e3d448a3a62b419.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gnHzXHq2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.cimg/de17d764-f3f2-41df-b3d4-3bdf838c306e.png)
 
 > 我的项目应该添加 bootstrap.js 还是 bootstrap.min.js？不，ng-bootstrap 的目标是完全取代组件的 JavaScript 实现。也不应该包含其他依赖项，如 jQuery 或 popper.js。这是不必要的，可能会干扰 ng-bootstrap 代码[源](https://ng-bootstrap.github.io/#/getting-started)
 
@@ -140,7 +140,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您可以通过这个[链接](https://ng-bootstrap.github.io/#/components/accordion/examples)找到所有可用的组件。
 
-也可以使用`ngx-bootstrap`库 [![](../Images/0675f2a9d7beced6a2d46a5c29ffa0ee.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wIAccRb5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.com/images/3d5b00ef-736b-4657-9fe6-39548985495a.png)
+也可以使用`ngx-bootstrap`库 [![](img/0675f2a9d7beced6a2d46a5c29ffa0ee.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wIAccRb5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://screenshotscdn.firefoxusercontent.cimg/3d5b00ef-736b-4657-9fe6-39548985495a.png)
 
 简单地回到你的终端，确保你在 Angular 项目中，然后运行下面的命令来安装`ngx-bootstrap`
 

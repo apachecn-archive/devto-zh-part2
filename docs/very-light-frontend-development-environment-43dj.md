@@ -16,7 +16,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### hyperapp
 
-[![hyperapp](../Images/65ccbd91303de92fc5d91e4a095334a6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--V_5QHFkQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/profile_images/968897827265945600/PcmPXmEk_400x400.jpg) 
+[![hyperapp](img/65ccbd91303de92fc5d91e4a095334a6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--V_5QHFkQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/profile_images/968897827265945600/PcmPXmEk_400x400.jpg) 
 [hyperapp](https://github.com/hyperapp/hyperapp) 是非常适合前端 JavaScript like React 的一个轻库。
 想知道怎么用，可以从[这篇文章](https://dev.to/aspittel/functional-programming-in-javascript-done-right-with-hyperapp-570f)开始。这非常非常小(1.4KB)并且[没有依赖性](https://github.com/hyperapp/hyperapp/blob/master/package.json)。这也包括类似 [Redux](https://redux.js.org) 的灯光功能状态管理。“行动”可以改变“状态”。
 
@@ -40,7 +40,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 模块捆绑器
 
-[![parcel](../Images/1b13c4e337dd7aea4f456a4b8204583e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fyPFw4wP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/19409/31321658-f6aed0f2-ac3d-11e7-8100-1587e676e0ec.png) 
+[![parcel](img/1b13c4e337dd7aea4f456a4b8204583e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fyPFw4wP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/19409/31321658-f6aed0f2-ac3d-11e7-8100-1587e676e0ec.png) 
 [包裹](https://parceljs.org/)是一个简单的模块捆绑器。这没有复杂的配置。
 
 ```
@@ -51,7 +51,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 变换
 
-[![TypeScript](../Images/3ad608cdf89007a05ee1551c408d2404.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--feKa7qvM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://mherman.org/assets/img/blog/typescript-logo.png) 
+[![TypeScript](img/3ad608cdf89007a05ee1551c408d2404.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--feKa7qvM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://mherman.org/assets/img/blog/typescript-logo.png) 
 我想用打字所以我选了[打字稿](http://www.typescriptlang.org)。hyperapp 的“状态”应该由类型定义，这样就可以很容易地使用组件的状态。tslint 是打字稿的 linter。
 你要加上`tsconfig.json`和`tsliny.json`。
 
@@ -63,7 +63,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 测试框架
 
-[![Jest](../Images/12e6523e722974a9f84c30058c737017.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Copdtwrr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://facebook.github.io/jest/img/opengraph.png) 
+[![Jest](img/12e6523e722974a9f84c30058c737017.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Copdtwrr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://facebook.github.io/jest/img/opengraph.png) 
 [Jest](https://facebook.github.io/jest/) 是脸书制作的 JavaScript 测试框架。这通常与 React 连用。我添加了`ts-jest`在这种情况下使用 TypeScript。
 
 ```

@@ -6,7 +6,7 @@
 
 我的全名是娜迦·索维雅·穆杜纳里。人们叫我 Sowju！我是 Heroku 的高级软件工程师。你可以在推特上找到我
 
-[![sowju_picture](../Images/69ce25e57c986865e8f8ea0924d97e64.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--irWwkWJx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iiz4tb38ogpawq8axyed.jpg)
+[![sowju_picture](img/69ce25e57c986865e8f8ea0924d97e64.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--irWwkWJx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iiz4tb38ogpawq8axyed.jpg)
 
 ## 我开始/继续编码是因为...
 

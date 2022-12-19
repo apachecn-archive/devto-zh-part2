@@ -8,7 +8,7 @@
 
 * * *
 
-[![comment preview demo](../Images/04aedc1404c59549bd4f4ed56c235fda.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sq6JgUMa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dzwonsemrish7.cloudfront.net/items/462n3N2H3V1703193H2G/Screen%2520Recording%25202018-04-24%2520at%252003.29%2520PM.gif)
+[![comment preview demo](img/04aedc1404c59549bd4f4ed56c235fda.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sq6JgUMa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dzwonsemrish7.cloudfront.net/items/462n3N2H3V1703193H2G/Screen%2520Recording%25202018-04-24%2520at%252003.29%2520PM.gif)
 
 * * *
 

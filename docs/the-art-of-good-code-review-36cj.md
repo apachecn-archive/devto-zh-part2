@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/joshghent/the-art-of-good-code-review-36cj>
 
-[![](../Images/afe8aef95993a9d6c63500b500204803.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oH1Xhz9R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ACCruBV4o2oowbKvI.)
+[![](img/afe8aef95993a9d6c63500b500204803.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oH1Xhz9R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ACCruBV4o2oowbKvI.)
 
 代码审查是任何软件开发过程的关键部分。理论上，它被设计来拓宽团队中的系统知识，并确保代码可维护且易于阅读。完善代码审查可以说是一门艺术，它需要在挑剔和不为小事伤脑筋之间取得平衡。
 

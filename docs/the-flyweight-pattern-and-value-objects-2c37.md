@@ -12,7 +12,7 @@
 
 从概念上讲，每个人都是一个独立的“实体”，有自己的身份和连续性；一个人可以改变他们的名字、发色、性别和国籍，但他们的身份保持不变，这意味着具有完全相同属性/特征的两个人不能被认为是相同的。
 
-[![](../Images/36a0c3130589fd514ea8230a90b29982.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qHZ2Nl7r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jkhpkjlfmy0a51tdvi5a.png)
+[![](img/36a0c3130589fd514ea8230a90b29982.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qHZ2Nl7r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jkhpkjlfmy0a51tdvi5a.png)
 
 另一方面，在我们可感知的世界中，有几个概念缺乏同一性，但它们仍然传达一些意义，一个著名的例子是一张一美元的钞票；我们并不真正关心我们拥有哪张一美元钞票，就像我们关心它的价值(价值对象)一样，因此我们通常认为所有的一美元钞票都是一样的。
 
@@ -20,13 +20,13 @@
 
 值对象比实体更自由，具有相同属性的两个值对象被认为是相同的，不像实体需要基于身份的比较机制。从这一点来看，可以肯定地说，值对象是可互换的，这意味着多个对象可以引用/共享一个值对象的实例，而不会导致一些概念上的困境。例如，一个不需要唯一地标识车队中每辆车的运输应用程序——意味着这个模型中的一辆车是一个值对象——可以安全地创建几十次运输，引用一辆车的一个实例，如果适用的话。
 
-[![](../Images/4347a260b662f9b3a96bf6a92d9f4651.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XFW-4UBK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u4ljz0000w8evrd9btwd.png)
+[![](img/4347a260b662f9b3a96bf6a92d9f4651.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XFW-4UBK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u4ljz0000w8evrd9btwd.png)
 
 作为前面陈述的推论，值对象应该是不可变的；可交换性意味着对可交换对象的实例有副作用的操作将导致整个系统的连锁反应。因此，适用于值对象的命令应该没有副作用，并返回对象的新实例，而不是改变它。
 
 从概念上讲，值对象的不变性是正确的，因为值对象将*总是*描述对宇宙中一些概念的观察。例如，颜色“红色”将总是描述具有一些可观察特征的独特颜色。将颜色“绿色”添加到“红色”不会改变颜色“红色”的可观察特征，而是会产生新的颜色“黄色”(这类似于对值对象的命令，该命令返回对象的新实例)。
 
-[![](../Images/c5851007f4e550285e88c85f042ffa58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gXvJvh7z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s58f2ur6a998y2i1fga6.jpg)
+[![](img/c5851007f4e550285e88c85f042ffa58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gXvJvh7z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s58f2ur6a998y2i1fga6.jpg)
 
 所以回到最初的问题，系统需要管理大量相同对象的创建和存在。从逻辑上讲，这些对象应该是应用 Flyweight 模式重构的值对象；值对象的可交换性允许开发人员引入一个抽象(Flyweight Factory ),该抽象能够重用一组预先存在的对象(Flyweights ),以便获得对对象的引用，而值对象的不变性允许客户安全地对 Flyweights 发出命令，而不用担心这些命令是否会对系统产生副作用。
 

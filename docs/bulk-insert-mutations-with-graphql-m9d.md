@@ -4,7 +4,7 @@
 
 ### GraphQL 插入突变用于在您的后端(通常是一个数据库)创建新对象，然后可以对其进行查询。
 
-[![](../Images/17785ee29cdeea32ddced623ce9c7567.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--34nN-7jI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/bulk-insert-mutations-with-graphql-e22727ce5b12/1-8x4j7cCK_mtsl6_K0buCAQ.jpeg)
+[![](img/17785ee29cdeea32ddced623ce9c7567.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--34nN-7jI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/bulk-insert-mutations-with-graphql-e22727ce5b12/1-8x4j7cCK_mtsl6_K0buCAQ.jpeg)
 
 在任何典型的应用程序中，您经常需要一次将多个对象插入数据库。这些可以是相同类型的对象，也可以是不同类型的对象。
 

@@ -18,7 +18,7 @@
 
 这些技能在考试中会在多个领域进行评估。域的划分如下所示。
 
-[![AWS Professional Solutions Architect exam categories](../Images/c44ae9f80b3a1c881ef23a280f716b84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YL0784EY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q2weyn26gz02aqeht82k.PNG)
+[![AWS Professional Solutions Architect exam categories](img/c44ae9f80b3a1c881ef23a280f716b84.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YL0784EY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q2weyn26gz02aqeht82k.PNG)
 
 在考试过程中，你不会被告知某个问题是属于一个领域还是另一个领域。但是，一分钟后会有更多的内容。
 
@@ -41,7 +41,7 @@
 
 ##### 首先在 AWS 控制台中进入您正在学习的服务
 
-[![AWS Neptune](../Images/0fbe151e1b40d43815082b93c7292402.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--prbJa3_8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/deypz4wxj7rfr8al30sr.PNG)
+[![AWS Neptune](img/0fbe151e1b40d43815082b93c7292402.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--prbJa3_8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/deypz4wxj7rfr8al30sr.PNG)
 
 这是一个开始学习的好地方，因为它列出了许多高水平的内容，可以帮助您入门。这些页面通常包含以下重要信息:
 

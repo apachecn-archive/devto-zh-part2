@@ -4,7 +4,7 @@
 
 #### 理解 JavaScript 中的类型检查
 
-[![](../Images/1734d0cb6fc6c706feed8f693c5b1c40.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OGf4j1LE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aj6B7Q6KRIhgNZQuSkVkP_w.jpeg)
+[![](img/1734d0cb6fc6c706feed8f693c5b1c40.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OGf4j1LE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aj6B7Q6KRIhgNZQuSkVkP_w.jpeg)
 
 每种编程语言的一个非常重要的方面是它的类型系统和数据类型。对于像 Java 这样的严格类型编程语言，变量被定义为特定的类型，将变量限制为只包含该类型的值。
 
@@ -16,7 +16,7 @@
 
 但是，您会注意到使用这个操作符可能会产生误导，这一点我们将在本文中讨论。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### JavaScript 数据类型
 

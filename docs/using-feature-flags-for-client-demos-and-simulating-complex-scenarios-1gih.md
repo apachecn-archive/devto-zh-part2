@@ -14,11 +14,11 @@
 
 开发新项目时考虑到特性标志改变了我对实现新特性的想法。现在，每当开发一个新功能时，我都必须使应用程序足够灵活，无论有没有它都能表现良好。有了子弹头列车，我就有了一个非常简单的方法来模拟功能的开启和关闭，或者改变设置。
 
-[![](../Images/1c4053a107c24f0182a654613d1bb205.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dEOG5sn_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/b4NXwU/download_4.png)
+[![](img/1c4053a107c24f0182a654613d1bb205.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dEOG5sn_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/b4NXwU/download_4.png)
 
 这个想法让我产生了疑问，如果我可以切换场景而不仅仅是功能，会怎么样？现在，除了一个特性之外，我还创建了模拟标志，当启用这些标志时，它们会编造数据和条件，迫使我的应用程序进入某种状态。
 
-[![](../Images/f61ba68727ccd74d9bbbd6987bacf3fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zt0VBETr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://preview.ibb.co/kkXXD9/download.png)
+[![](img/f61ba68727ccd74d9bbbd6987bacf3fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zt0VBETr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://preview.ibb.co/kkXXD9/download.png)
 
 也许我最近看到的最大收获是在一次面向客户的会议上，我能够说出一些边缘情况，并准确地展示应用程序将如何反应。以前，这个过程会不太流畅，能够快速演示场景意味着客户能够立即看到并反馈，而不会失去思路。
 
@@ -26,7 +26,7 @@
 
 与其高谈阔论我有多喜欢这个想法，不如用一个端到端的例子来说明我是如何在我们最近的一个项目中增加模拟大量数据的能力的。这有助于我们测试 UI 性能以及它如何处理 UI 换行。
 
-[![](../Images/0394001bc1dfbf25115ac97ea9814b98.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rBNJq9nk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://image.ibb.co/fmaimU/0_CBr_Mr_Gq_GC.gif)
+[![](img/0394001bc1dfbf25115ac97ea9814b98.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rBNJq9nk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://image.ibb.co/fmaimU/0_CBr_Mr_Gq_GC.gif)
 
 这张 GIF 向我展示了远程更改“data_multiplier”特性的值，然后当我打开我的应用程序时，它会表现得好像 API 给了我 x 倍的项目数。
 
@@ -84,5 +84,5 @@ if (bulletTrain.getValue("data_multiplier")) {
 
 快乐发展！
 
- [![](../Images/512f36e256880cb027ee181141daf1e9.png)
+ [![](img/512f36e256880cb027ee181141daf1e9.png)
 T4】](https://bullet-train.io)

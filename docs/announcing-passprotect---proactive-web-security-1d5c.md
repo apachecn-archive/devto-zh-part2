@@ -32,7 +32,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 用户看到了什么？信息通知，为他们提供做出正确选择所需的信息:
 
-[![PassProtect Demo](../Images/5f95ef9020e7ba5d827c9f30fa48af5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y3lhxvX7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://developer.okta.com/assets/blog/passprotect/passprotect-demo-33f7bbb6d8063f027318d16e4890d8285ca52950f8c393126c3ee80105dbc8e2.gif)
+[![PassProtect Demo](img/5f95ef9020e7ba5d827c9f30fa48af5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y3lhxvX7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://developer.okta.com/assets/blog/passprotect/passprotect-demo-33f7bbb6d8063f027318d16e4890d8285ca52950f8c393126c3ee80105dbc8e2.gif)
 
 PassProtect 专为临时用户设计，提供简单但信息丰富的通知。为了避免令人讨厌，PassProtect 使用智能缓存来确保通知不会以任何损害用户体验的方式在单个会话中重复。
 

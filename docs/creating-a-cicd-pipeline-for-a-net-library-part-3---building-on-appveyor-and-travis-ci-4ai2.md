@@ -16,15 +16,15 @@ AppVeyor 是与一起使用的主要 CI 云提供商之一。NET 项目，尤其
 
 在主页上，创建新项目:
 
-[![AppVeyor Home](../Images/1604e5d52684f5dfd00974116706fc73.png)T2】](https://thepracticaldev.s3.amazonaws.com/i/m8oget7rncrfepk8yslv.jpg)
+[![AppVeyor Home](img/1604e5d52684f5dfd00974116706fc73.png)T2】](https://thepracticaldev.s3.amazonaws.com/i/m8oget7rncrfepk8yslv.jpg)
 
 然后选择一个来源。在我的例子 GitHub 中，确保授权 AppVeyor 访问 GitHub 库:
 
-[![AppVeyor New Project](../Images/24df070443279e7d4c26930c75bd8ce3.png)T2】](https://thepracticaldev.s3.amazonaws.com/i/v1kz985g3osr4j3smd19.jpg)
+[![AppVeyor New Project](img/24df070443279e7d4c26930c75bd8ce3.png)T2】](https://thepracticaldev.s3.amazonaws.com/i/v1kz985g3osr4j3smd19.jpg)
 
 下一个屏幕将是空的，在我的例子中已经有一些关于以前构建的信息(包括日志):
 
-[![AppVeyor Latest Build](../Images/3d6050f5e1551cfd45feb6258725c359.png)T2】](https://thepracticaldev.s3.amazonaws.com/i/hmhwgla1nrx5645xs2ww.jpg)
+[![AppVeyor Latest Build](img/3d6050f5e1551cfd45feb6258725c359.png)T2】](https://thepracticaldev.s3.amazonaws.com/i/hmhwgla1nrx5645xs2ww.jpg)
 
 下一步是进入设置部分并设置好一切，但我没有做任何更改，因为我正在使用 Cake 构建脚本和项目存储库中的一个`appveyor.yml`配置文件来配置一切。
 

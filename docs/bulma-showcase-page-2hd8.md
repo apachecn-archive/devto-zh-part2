@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/chkrishnatej/bulma-showcase-page-2hd8>
 
-[![Screenshot of Bulma Showcase page](../Images/9a70158500aad5a6f6ed86f1c1239a54.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XkImmQbE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sy414lpmibhd4wdc9sfz.png)
+[![Screenshot of Bulma Showcase page](img/9a70158500aad5a6f6ed86f1c1239a54.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XkImmQbE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sy414lpmibhd4wdc9sfz.png)
 
 # 用布尔玛 CSS 开发展示页面
 

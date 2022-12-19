@@ -88,7 +88,7 @@ export const getPageScreenshot = async (url, env, viewportConfig) => {
   await page.waitForSelector(selector)
     .then(async () => {
       signale.success('Form was submitted successfully');
-      await page.screenshot({ path: `./scripts/visual-regresion-tests/images/${env}_${dateString}.png` });
+      await page.screenshot({ path: `./scripts/visual-regresion-tesimg/${env}_${dateString}.png` });
       browser.close();
     })
 }; 
@@ -126,11 +126,11 @@ const imageFromFile = filename =>
   })
 
 const compareScreenShots = async (FILENAME_A, FILENAME_B, viewportConfig) => {
-  const IMAGES_FOLDER_PATH = './scripts/visual-regresion-tests/images/'
+  const IMAGES_FOLDER_PATH = './scripts/visual-regresion-tesimg/'
   const { height, width } = viewportConfig
 
-  const newLayout = await imageFromFile(IMAGES_FOLDER_PATH + FILENAME_A + '.png') // './automation/images/local_host_layout.png'
-  const oldLayout = await imageFromFile(IMAGES_FOLDER_PATH + FILENAME_B + '.png') // './automation/images/local_host_layout.png'
+  const newLayout = await imageFromFile(IMAGES_FOLDER_PATH + FILENAME_A + '.png') // './automatiimg/local_host_layout.png'
+  const oldLayout = await imageFromFile(IMAGES_FOLDER_PATH + FILENAME_B + '.png') // './automatiimg/local_host_layout.png'
 
   const diff = await new PNG(viewportConfig)
   const diffPixels = await pixelmatch(
@@ -227,7 +227,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在我们可以运行`yarn vrt`，应该会看到类似这样的内容:
 
-[![Console screenshot](../Images/3f19a5e2346c64c4ab66faccaf5fd7a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hgxTCb5r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j2m7rbb9xl6w99e6dzig.png)
+[![Console screenshot](img/3f19a5e2346c64c4ab66faccaf5fd7a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hgxTCb5r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j2m7rbb9xl6w99e6dzig.png)
 
 ### 结论
 

@@ -6,4 +6,4 @@ React 上下文 API 在 React 的生态系统中并不是一个新事物。不�
 
 [读读⚛️](https://auth0.com/blog/react-context-api-managing-state-with-ease/?utm_source=dev&utm_medium=sc&utm_campaign=react_context_api)
 
-[![React Context API: Managing State with Ease](../Images/5dd2657e9e0cdc227e6d1227cc00693d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hZdAvHJt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bd284i7so8pffmutaibk.png)
+[![React Context API: Managing State with Ease](img/5dd2657e9e0cdc227e6d1227cc00693d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hZdAvHJt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bd284i7so8pffmutaibk.png)

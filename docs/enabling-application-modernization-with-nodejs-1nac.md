@@ -4,7 +4,7 @@
 
 在不断发展的数字世界中，消费者正在快速采用新技术、设备和概念。在 Forrester 的“使用 NodeJS 的数字化转型”报告中，该公司将这种特殊现象称为“过度采用”，即快速、同时采用前所未有的行为。过度使用促使企业快速创造新的数字体验，并在消费者没有采用迹象时将其抛弃。现在让我们深入研究 NodeJS，一个用于执行 JavaScript 的运行时环境。
 
-[![Application Modernization With Node js](../Images/29a7d5087f6d213cb7e12fff4067d3da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZSXXhoJ9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ui5d782ohe2sfmzqycpd.jpg)
+[![Application Modernization With Node js](img/29a7d5087f6d213cb7e12fff4067d3da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZSXXhoJ9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ui5d782ohe2sfmzqycpd.jpg)
 
 Node.js 是一个广泛流行的[前端开发](https://www.rishabhsoft.com/front-end-development-services)工具。世界各地的几家公司、应用程序开发人员和交付(AD & D)专家正在成功地利用 NodeJS 来数字化改造他们的业务。Node.js 提供了三个重要的好处:它是企业就绪的，它不仅仅是一个应用程序开发平台，而且它推动了数字化企业转型。企业级业务的专家现在已经意识到在他们的应用程序项目中采用 Node.js 的无数好处——不仅从技术角度，而且从业务角度。
 

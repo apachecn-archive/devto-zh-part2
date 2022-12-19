@@ -52,7 +52,7 @@
 
 我们所做的是将两个平台的应用分成 3 个主要部分:
 
-[![Application architecture](../Images/81dcfa6df378850a2dbcf4b7d7aae11e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rz2H897K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hmqgg73kp7hlh4r9zvmj.png)
+[![Application architecture](img/81dcfa6df378850a2dbcf4b7d7aae11e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rz2H897K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hmqgg73kp7hlh4r9zvmj.png)
 
 *   用于连接我们的后端并提供持久性的框架。它提供模型、服务和一些实用程序。
 *   **Playtomic UI** :带有可视化组件的框架，如自定义文本字段、输入验证器、通用数据源/适配器、动画、...
@@ -77,7 +77,7 @@
 
 让我快速浏览一个例子，在这个例子中是 Swift 和 Kotlin 中的登录视图和演示者
 
-[![Transpiling presenters](../Images/4af85db9976cf9b6857a6265184b8771.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ezDgm9aU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--rYUtmvQV--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8jagvlpiob80fujyogr6.gif)
+[![Transpiling presenters](img/4af85db9976cf9b6857a6265184b8771.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ezDgm9aU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--rYUtmvQV--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8jagvlpiob80fujyogr6.gif)
 
 > 在上面的截图中，我们只需对 Kotlin 代码做一点小小的修改，就可以在 15 秒内通过传输 iOS 版本的演示程序，得到一个完全可用的 Android 版本的演示程序。
 

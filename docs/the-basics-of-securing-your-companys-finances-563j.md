@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/brettclawson75/the-basics-of-securing-your-companys-finances-563j>
 
-[![security](../Images/abd4e0b25149118eefd44a2cfa312b2d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zv7iK9ph--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sg112oyxhbwvoruyhgo8.jpg)
+[![security](img/abd4e0b25149118eefd44a2cfa312b2d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zv7iK9ph--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sg112oyxhbwvoruyhgo8.jpg)
 
 保护公司财务安全的基本原则
 

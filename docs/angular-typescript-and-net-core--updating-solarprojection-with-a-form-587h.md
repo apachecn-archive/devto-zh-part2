@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kritner/angular-typescript-and-net-core--updating-solarprojection-with-a-form-587h>
 
-<figure>[![](../Images/fa3b8fa780a326892df3aebe1ae703ea.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OT47cjNW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/250/0%2AmaBUad6PWxuGI8Zh.png) 
+<figure>[![](img/fa3b8fa780a326892df3aebe1ae703ea.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OT47cjNW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/250/0%2AmaBUad6PWxuGI8Zh.png) 
 
 <figcaption>棱角分明的标志</figcaption>
 
@@ -24,7 +24,7 @@
 
 给定当前页面:
 
-[![](../Images/3a0c733118bab536fbf1cff711560694.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hPt4sIZM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AD0TC-DtivbxgjPfG9SwVSQ.png)
+[![](img/3a0c733118bab536fbf1cff711560694.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hPt4sIZM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AD0TC-DtivbxgjPfG9SwVSQ.png)
 
 我们需要一些信息:
 
@@ -249,8 +249,8 @@ Enter fullscreen mode Exit fullscreen mode
 
 页面现在看起来像这样:
 
-[![](../Images/98132c8f725b73cefff620fb59bf0d8a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S_wC7iyv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/714/1%2AoJDGrxQB-pbiPsYSAxfcoQ.png)
+[![](img/98132c8f725b73cefff620fb59bf0d8a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S_wC7iyv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/714/1%2AoJDGrxQB-pbiPsYSAxfcoQ.png)
 
-[![](../Images/31ebe78830d7a54bc3cfad0d1f77b4bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KzHBKKWv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AaltuVpJcyJXElh7r_QX3Hg.png)
+[![](img/31ebe78830d7a54bc3cfad0d1f77b4bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KzHBKKWv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AaltuVpJcyJXElh7r_QX3Hg.png)
 
 和这个帖子中的(大部分)文件列表:

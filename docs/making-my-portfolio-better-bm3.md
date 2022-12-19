@@ -22,7 +22,7 @@
 
 我已经做出了设计，现在只需要一些小的调整和一些动画。我在我的名字上使用了一个动画，并使用了谷歌字体中的自定义字体。我对社交图标使用了 awesome 字体。然后我使用了自定义列表样式类型(😫只有 firefox 支持它。得到一个旧的编号列表。
 
-[![firefox vs other on list](../Images/02c85fd568ec6789a9b8b9253c1cc709.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sQZp8CWw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nvm7w1h07522s73xgner.PNG)
+[![firefox vs other on list](img/02c85fd568ec6789a9b8b9253c1cc709.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sQZp8CWw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nvm7w1h07522s73xgner.PNG)
 
 ## 在手机和不同浏览器上测试
 

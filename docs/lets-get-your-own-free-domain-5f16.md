@@ -2,13 +2,13 @@
 
 > 原文：<https://dev.to/bauripalash/lets-get-your-own-free-domain-5f16>
 
-[![.](../Images/67476861695e1080f5b38b0c2824f5ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gEnpLoyx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://palash.tk/assets/images/get-free-domain.jpg)
+[![.](img/67476861695e1080f5b38b0c2824f5ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gEnpLoyx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://palash.tk/asseimg/get-free-domain.jpg)
 
 在互联网时代，每个人都想拥有自己的网络形象，但是拥有一个网络形象并不像看起来那么简单。要有自己的网站，你应该有一个域名，否则就会像 yourname.blogspot.com 或 yourname.wordpress.com
 
 域名如。com，。我，。木卫一，。org 不是免费的，他们通常有一个巨大的价格范围，可能不是你能负担得起的。所以今天我要分享一些提供免费域名的服务。
 
-[![.](../Images/52ad7b1b6836716dbef3d501ed064e9d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TQxkH4oj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/841aeb9f113999616d097b414c539dfd/tenor.gif%3Fitemid%3D5368357)
+[![.](img/52ad7b1b6836716dbef3d501ed064e9d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TQxkH4oj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.cimg/841aeb9f113999616d097b414c539dfd/tenor.gif%3Fitemid%3D5368357)
 
 但是永远记住在这个世界上一切都是有代价的，所以如果你得到一个免费域名，你应该只把它用于测试，因为免费域名有太多的缺点。我建议从一些服务中获得付费域名，比如花几块钱买一个域名。
 

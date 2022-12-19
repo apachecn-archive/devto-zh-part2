@@ -4,7 +4,7 @@
 
 Elixir EventBus 是一个库，它允许不同的模块在不了解彼此的情况下相互通信。一个模块/函数可以创建一个事件结构，并传递给 EventBus，而不知道哪些模块将被使用。
 
-[![](../Images/f0e890eda48f69d022fa689341e58818.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v-ESyvbI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dofuyx6s747owdpaf9im.png)
+[![](img/f0e890eda48f69d022fa689341e58818.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v-ESyvbI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dofuyx6s747owdpaf9im.png)
 
 模块也可以监听 EventBus 上的事件，而不知道是谁发送了事件。因此，模块可以在不依赖彼此的情况下通信。此外，替换消费者模块非常容易。只要新模块理解正在发送和接收的`Event`结构，其他模块就永远不会知道。
 
@@ -131,7 +131,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 EventBus 库允许使用 regex 模式订阅事件，这允许消费者自动订阅新主题。有了这个特性，它允许与通用消费者异步扩展系统，如 [event_bus_logger](https://github.com/otobus/event_bus_logger) 、[通用 Postgresql 事件存储库](https://github.com/otobus/event_bus_postgres)、 [event_bus_metrics UI](https://github.com/otobus/event_bus/wiki/EventBus-Metrics-and-UI) 等等。
 
-[![](../Images/87ed332304e50e542f37964f8d1fa96b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bhevEvgZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9mldxd6atsm3hj1qeocm.png)
+[![](img/87ed332304e50e542f37964f8d1fa96b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bhevEvgZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9mldxd6atsm3hj1qeocm.png)
 
 #### 快速通过设计
 

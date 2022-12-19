@@ -14,13 +14,13 @@
 
 在 90 年代，网页看起来没有那么壮观。HTML 被用来存储文档并通过万维网发送它们。它们看起来和 Word 文档一模一样。
 
-[![](../Images/7b4bda8aa20291a18431574854e5463e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--arPrtsgi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lewismenelaws.com/content/images/2018/09/oldestwebsites8.jpg)
+[![](img/7b4bda8aa20291a18431574854e5463e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--arPrtsgi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lewismenelaws.com/conteimg/2018/09/oldestwebsites8.jpg)
 
 考虑到时间，这是巨大的。你能以光速发送文件。这是革命性的，甚至像维基百科这样的网站也分享这种“最小化”的外观，就好像你是从一张纸上读出来的一样。
 
 随着 web 的发展，开发人员希望对如何制作文档有更多的控制。CSS 于 1994 年 10 月 10 日提出，并于 1996 年发布。由于 Internet Explorer 3 对它的支持有限，它没有那么快被接受。不管怎样，网络在发展，网络背后的工具也在发展。一些宝石现在仍然可以在网上看到，它们是用如此古老的技术制造的，但仍然有很好的性能和很好的用户界面。
 
-[![](../Images/ebd962742a71dc31726c9b241e9be56a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YioTdaR8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lewismenelaws.com/content/images/2018/09/Screenshot-from-2018-09-09-18-22-37.png)
+[![](img/ebd962742a71dc31726c9b241e9be56a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YioTdaR8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lewismenelaws.com/conteimg/2018/09/Screenshot-from-2018-09-09-18-22-37.png)
 
 在 JavaScript 被引入万维网之后，JavaScript 被用来使网络变得更加动态。
 
@@ -30,11 +30,11 @@
 
 静态站点生成器在 2018 年非常受欢迎。人们说他们是今年网络开发者应该关注的一个趋势，这是可以理解的。在大多数情况下，这是正确的解决方案，而且做得很好。这里有几个最流行的静态站点生成器构建比较。
 
-[![](../Images/7f5e6b4acfcaa2219abdbe17481a8600.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fSn_FQtE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lewismenelaws.com/content/images/2018/10/hugo-vs-jekyll-totals.jpeg)
+[![](img/7f5e6b4acfcaa2219abdbe17481a8600.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fSn_FQtE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lewismenelaws.com/conteimg/2018/10/hugo-vs-jekyll-totals.jpeg)
 
 林业部门的 Chris Macrae 比较了两种静态站点生成器，发现 Hugo 在几乎所有情况下都更快。这里有一个更好的图表。
 
-[![](../Images/5e994043e9933a23f941dce2da96d319.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jZbw1sB1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lewismenelaws.com/content/images/2018/10/hugo-vs-jekyll-basic-test-1.jpeg)
+[![](img/5e994043e9933a23f941dce2da96d319.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jZbw1sB1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lewismenelaws.com/conteimg/2018/10/hugo-vs-jekyll-basic-test-1.jpeg)
 
 现在，让我们不要把这个扭曲。看起来 Jekyll 完全被淘汰了，但是在 14.5 秒内创建 1000 页一点也不差。事实上，与大多数需要某种数据库的网站相比，它真的很快。Hugo 和 Jekyll 都是静态站点生成器入门的好方法。很多人将它们作为博客和页面管理的主要方法。现在的问题是，你必须决定你是否能为它切换你当前的系统(Wordpress，Joomla 等)。
 
@@ -46,7 +46,7 @@
 
 也就是我们现在的位置。
 
-[![](../Images/241d0c1158f76e47d3e775642bb768b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ApKlVws0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lewismenelaws.com/content/images/2018/10/download.png)
+[![](img/241d0c1158f76e47d3e775642bb768b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ApKlVws0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lewismenelaws.com/conteimg/2018/10/download.png)
 
 GatsbyJS 是 JavaScript 和静态站点生成器领域的新人。它使用 GraphQL 和 React 等现代技术来创建速度极快的网站。您可以将它用于任何具有 RESTful API 的 CMS(这是大多数。如果你的没有，那就该换了)。Gatsby 非常强大，在开源社区和风险投资领域都取得了成功。
 
@@ -58,7 +58,7 @@ GatsbyJS 是 JavaScript 和静态站点生成器领域的新人。它使用 Grap
 
 有意思。
 
-[![](../Images/ebeb7b2b4b1d01ef679ddd430052ef34.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G_X1Q7QC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://lewismenelaws.com/content/images/2018/10/1_OF0xEMkWBv-69zvmNs6RDQ.gif)
+[![](img/ebeb7b2b4b1d01ef679ddd430052ef34.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G_X1Q7QC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://lewismenelaws.com/conteimg/2018/10/1_OF0xEMkWBv-69zvmNs6RDQ.gif)
 
 感谢阅读开发社区！
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/digitaledawn/why-i-like-typescript-1l4p>
 
-[![](../Images/bc00525b96ba9125bf0351793d5fe215.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CSTafENj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Au8ka0_nuQthslgUDDgPHgw.png)
+[![](img/bc00525b96ba9125bf0351793d5fe215.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CSTafENj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Au8ka0_nuQthslgUDDgPHgw.png)
 
 我现在写了很多 JavaScript，我已经使用 TypeScript 一年多了，在大大小小的项目中，也在单独和团队中使用。TypeScript 是 JavaScript 的类型化超集，它是开源的，由微软编写。它编译成普通的 JavaScript，所以你不需要担心浏览器的支持。
 

@@ -13,7 +13,7 @@
 
 打开 Android Studio，让我们一起工作，加载，在 Andriod 上做一个项目，然后一个新模块变成 Android 库。
 
-<figure>[![](../Images/a0c3b10baa07fb9a8042fc1d096cbe01.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jCTmH-VX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1012/1%2AsCTHodnDaMBiur2lXj1RRA.png) 
+<figure>[![](img/a0c3b10baa07fb9a8042fc1d096cbe01.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jCTmH-VX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1012/1%2AsCTHodnDaMBiur2lXj1RRA.png) 
 
 <figcaption>组成一个新的模块，作为 Android 库</figcaption>
 
@@ -23,7 +23,7 @@
 
 让我们开始编写 LineSDKActivity。首先，我们要去下载 linesdk bloadaar 把它拖到 lib 上了
 
-<figure>[![](../Images/b81859fcb84ec1ebc93c6d5e88550b34.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PJteLap6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/184/1%2ADcYFSbtKvMNOsnfMlBZa7Q.png) 
+<figure>[![](img/b81859fcb84ec1ebc93c6d5e88550b34.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PJteLap6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/184/1%2ADcYFSbtKvMNOsnfMlBZa7Q.png) 
 
 <figcaption>取 Android 的 SDK 线放入</figcaption>
 
@@ -125,11 +125,11 @@ dependencies {
 
 这一次，我们来看看我们的 Unity，这里我们需要创建一个 Plugins/Android 文件夹，先生，根据规则是我们的 Plugin 存储库。
 
-[![](../Images/36436c761206ab9c2f54cfa66f25d48f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--40GdITJh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/115/1%2AC1D1DaKz4r8Vrtpc9aqGXw.png)
+[![](img/36436c761206ab9c2f54cfa66f25d48f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--40GdITJh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/115/1%2AC1D1DaKz4r8Vrtpc9aqGXw.png)
 
 那就来吧。我们的 aar 塞进去了，包括一个 line-sdk-4 文件。0.8.aar 也是从线上载入的。我们会把 gradle 档案解压缩到专案中。请转到「构建设定 b」(build setting b)。
 
-[![](../Images/ddf9747f70a7b0473454f31fcc3c8583.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--819Jtkec--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/298/1%2AUT0meoBtzzCeawTlwJYT-A.png)
+[![](img/ddf9747f70a7b0473454f31fcc3c8583.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--819Jtkec--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/298/1%2AUT0meoBtzzCeawTlwJYT-A.png)
 
 我们可以拿到 mainTemplate 文件.gradle 上来，做个编辑
 
@@ -166,7 +166,7 @@ public class LineSDK {
 
 而功能登录就像这样。
 
-[![](../Images/6cb7f5a2d2ffdbb2d828514dafcf2ce6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_sD-tj5v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1009/1%2AsbZAm7W0MIkK6SXmi7_2dA.png)
+[![](img/6cb7f5a2d2ffdbb2d828514dafcf2ce6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_sD-tj5v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1009/1%2AsbZAm7W0MIkK6SXmi7_2dA.png)
 
 最后，别忘了放 androidmanifest(androidmanifest)。在 Unity3d 中的 xml。它有一个模板，但我会把它放在一个重要的部分上。
 

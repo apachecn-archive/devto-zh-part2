@@ -8,4 +8,4 @@
 
 我没有所有这些帐户，所以这是从开发截图😋
 
-[![social-icons-dev-profile](../Images/0b963c654279825732f324dba9f197a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9HiZ8tjN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t914ij8kgf6no6b5irfc.png)
+[![social-icons-dev-profile](img/0b963c654279825732f324dba9f197a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9HiZ8tjN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t914ij8kgf6no6b5irfc.png)

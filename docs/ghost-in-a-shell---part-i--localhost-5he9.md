@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ebreton/ghost-in-a-shell---part-i--localhost-5he9>
 
-[![Ghost in A shell - Part I : localhost](../Images/662a129abe16a67c87ac26960e3a6bfe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T55qb7I---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://manu.breton.ch/blog/content/images/2018/05/featured-image-4.png)
+[![Ghost in A shell - Part I : localhost](img/662a129abe16a67c87ac26960e3a6bfe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T55qb7I---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://manu.breton.ch/blog/conteimg/2018/05/featured-image-4.png)
 
 来自 Ghost 基金会的最后一篇博客“[在 5 年和 300 万美元之后，这是我们从建造 Ghost](https://blog.ghost.org/5/) 中学到的一切”，让我大开眼界。
 
@@ -28,7 +28,7 @@
 
 我继续前进，点击 Ghost 网站的[开发者>文档](https://ghost.org/developers/)链接，向下滚动一点，找到设置东西的预期入口:
 
-[![Ghost in A shell - Part I : localhost](../Images/1d88d5dd211ad3fc2667072bf1ff8859.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--usKVF43_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://manu.breton.ch/blog/content/images/2018/05/setup.png)
+[![Ghost in A shell - Part I : localhost](img/1d88d5dd211ad3fc2667072bf1ff8859.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--usKVF43_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://manu.breton.ch/blog/conteimg/2018/05/setup.png)
 
 点击设置框后，我可以在“*我想在我自己的服务器上安装 Ghost*”和“*我想快速试用 Ghost*”之间进行选择。我认为我很幸运，我点击了第二个选项:[本地安装指南](https://docs.ghost.org/v1.0.0/docs/install-local)。
 
@@ -131,7 +131,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Traefik 仪表板将在 [http://localhost:8081](http://localhost:8081) 上提供，用户*测试/测试*
 
-[![Ghost in A shell - Part I : localhost](../Images/248b1fea23af0ae545a3cdf72198f500.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NYtdEDEa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://manu.breton.ch/blog/content/images/2018/05/traefik.png)
+[![Ghost in A shell - Part I : localhost](img/248b1fea23af0ae545a3cdf72198f500.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NYtdEDEa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://manu.breton.ch/blog/conteimg/2018/05/traefik.png)
 
 如果你有好奇心去尝试，请不要犹豫反馈感谢[问题](https://github.com/ebreton/prod-stack/issues)。
 

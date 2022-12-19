@@ -18,7 +18,7 @@
 
 ***例 3*** :现在打开妖孽看看。一旦网站加载完毕，你就可以登录或者继续使用脸书和谷歌。在这种情况下，谷歌和脸书也暴露了一定程度的用户信息。优步和谷歌/脸书已经达成了一项协议。这就是它让你注册谷歌/脸书的原因。
 
-[![api testing introduction](../Images/a33af4700fae8db94f169cedaac56f8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A0jQpVDA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/testautomationresources.com/wp-content/uploads/2018/10/API-Testing-Uber-Example.png%3Fw%3D951%26ssl%3D1)
+[![api testing introduction](img/a33af4700fae8db94f169cedaac56f8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A0jQpVDA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/testautomationresources.com/wp-content/uploads/2018/10/API-Testing-Uber-Example.png%3Fw%3D951%26ssl%3D1)
 
 ## API 的有什么用？
 

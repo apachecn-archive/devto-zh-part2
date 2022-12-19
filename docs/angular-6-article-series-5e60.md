@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/geeksamu/angular-6-article-series-5e60>
 
-[![](../Images/965e8cc2cb31cdec3a54a29184fe202f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xlfbTJ3i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AByAhY7BtpARVPzkgM6yV1Q.png) 
+[![](img/965e8cc2cb31cdec3a54a29184fe202f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xlfbTJ3i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AByAhY7BtpARVPzkgM6yV1Q.png) 
 
 <figcaption>棱角分明 6 系</figcaption>
 

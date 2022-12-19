@@ -116,7 +116,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，您应该能够在浏览器中访问 [http://laravel.localhost](http://laravel.localhost) :
 
-[![Laravel over HTTP](../Images/c5f5610a7269e0676b412a5555db722c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xQisC0MP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nikol.as/img/2018/10/laravel-http.png)
+[![Laravel over HTTP](img/c5f5610a7269e0676b412a5555db722c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xQisC0MP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nikol.as/img/2018/10/laravel-http.png)
 
 现在我们需要从虚拟机获取 CA 证书:
 
@@ -148,6 +148,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，您应该能够在浏览器中访问[https://laravel . localhost](https://laravel.localhost)。
 
-[![Laravel over HTTPS](../Images/2cd481998864e695cda4c30d9839904f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SecQ_QU9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nikol.as/img/2018/10/laravel-https.png)
+[![Laravel over HTTPS](img/2cd481998864e695cda4c30d9839904f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SecQ_QU9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nikol.as/img/2018/10/laravel-https.png)
 
 恭喜你！🎉

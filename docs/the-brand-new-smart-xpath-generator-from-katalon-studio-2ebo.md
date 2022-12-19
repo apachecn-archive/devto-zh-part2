@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/testingnews1/the-brand-new-smart-xpath-generator-from-katalon-studio-2ebo>
 
-[![The Brand-new Smart XPath Generator from Katalon Studio](../Images/041cbc3e83ef12e1df34f635e301188d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VtfMuPYC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2018/09/06095757/Smart-XPath-generator1.png)
+[![The Brand-new Smart XPath Generator from Katalon Studio](img/041cbc3e83ef12e1df34f635e301188d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VtfMuPYC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2018/09/06095757/Smart-XPath-generator1.png)
 
 ## **简介**
 
@@ -16,7 +16,7 @@
 
 让我们看看 ted.com，一个使用 EmberJS 框架构建的网站。下面的截图显示了网站的卡片，每张卡片包含不同的项目(文本、图像、链接等。).
 
-[![common locators are inadequate](../Images/4537d63e974d50743dbb60772542c9c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XLTqdCo2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2018/09/05140247/common-locators-are-inadequate.png)
+[![common locators are inadequate](img/4537d63e974d50743dbb60772542c9c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XLTqdCo2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2018/09/05140247/common-locators-are-inadequate.png)
 
 假设您想要记录一个点击视频缩略图的简单操作，例如，带有“人工智能如何拯救人类”的视频，您将获得 Selenium 生成的以下 XPaths:
 
@@ -28,7 +28,7 @@
 
 再举个例子，Linkedin 上的微软个人资料。
 
-[![Microsoft-profile-on-Linkedin](../Images/201674f7e3b40a8f7331d4467468ddad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_om66Mft--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2018/09/05140753/Microsoft-profile-on-Linkedin.png)
+[![Microsoft-profile-on-Linkedin](img/201674f7e3b40a8f7331d4467468ddad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_om66Mft--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2018/09/05140753/Microsoft-profile-on-Linkedin.png)
 
 假设您想要验证 Microsoft 的配置文件信息，并使用 Selenium 通过单击每个字段来获取 XPaths，您将得到以下结果:
 
@@ -44,7 +44,7 @@
 
 总部字段由一个相对简洁的 XPath 定位。不幸的是，这个定位器识别了五个 Web 元素，而不是预期的唯一元素。(您可以通过打开 Chrome 并按 Ctrl + Shift + I 打开检查工具并在文档中搜索 XPath 来检查这一点——如下所示)。
 
-[![Inspection-Tool-and-search-the-XPath-in-the-document](../Images/f58df2e3f3c88c837270319b065a68f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SOSiiILO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2018/09/05140944/Inspection-Tool-and-search-the-XPath-in-the-document-300x220.png)
+[![Inspection-Tool-and-search-the-XPath-in-the-document](img/f58df2e3f3c88c837270319b065a68f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SOSiiILO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2018/09/05140944/Inspection-Tool-and-search-the-XPath-in-the-document-300x220.png)
 
 这个结果并不令人惊讶，因为在公司信息部分中确实有五个 Web 元素带有标签<***【p】>***。有些回放引擎会自动选择这五个元素中的第一个，但有些不会。
 
@@ -71,7 +71,7 @@
 
 让我们回到 TED 的例子:
 
-[![the example with TED](../Images/1d20c6a4538e94a85eecdba3f03c0214.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lsD_i9GS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2018/09/05141315/the-example-with-TED.png)
+[![the example with TED](img/1d20c6a4538e94a85eecdba3f03c0214.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lsD_i9GS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2018/09/05141315/the-example-with-TED.png)
 
 这里有几个采用上述形式的 XPaths，以识别“人工智能如何拯救人类”之前的缩略图。
 
@@ -85,7 +85,7 @@
 
 对于 Microsoft 配置文件示例:
 
-[![Microsoft profile example](../Images/45fe7ba39bacb775d9c1ba6d81151847.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_elL4dI0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2018/09/05141613/Microsoft-profile-example-2.png)
+[![Microsoft profile example](img/45fe7ba39bacb775d9c1ba6d81151847.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_elL4dI0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2018/09/05141613/Microsoft-profile-example-2.png)
 
 以下是相应的邻居 XPaths:
 
@@ -103,11 +103,11 @@
 
 当然，您不必太担心如何像上面那样创建邻居 XPaths。Katalon Studio 会自动完成这项工作。邻居 XPaths 是在记录期间生成的。Katalon Studio 试图选择合适的 XPathss，而您仍然可以手动选择最相关的 XPath，如下所示。
 
-[![Using Neighbor XPath generator in Katalon Studio](../Images/b0d2e0974da25da5bfc8ccc302be3ef9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z6EMclMo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2018/09/05141902/Using-Neighbor-XPaths-in-Katalon-Studio.png)
+[![Using Neighbor XPath generator in Katalon Studio](img/b0d2e0974da25da5bfc8ccc302be3ef9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z6EMclMo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2018/09/05141902/Using-Neighbor-XPaths-in-Katalon-Studio.png)
 
 通过自定义定位器策略设置，您可以为所有测试元素的智能 XPaths 选择默认策略。
 
-[![Automatic XPaths](../Images/f6a2a00b6be4b161f168c053a275bc24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Csk2sebT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2018/09/05150515/Automatic-XPaths.png)
+[![Automatic XPaths](img/f6a2a00b6be4b161f168c053a275bc24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Csk2sebT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2018/09/05150515/Automatic-XPaths.png)
 
 ## **结论**
 

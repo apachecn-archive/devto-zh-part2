@@ -104,7 +104,7 @@ class App extends Component {
 
 我运行了这个应用程序，并开始测量它的性能。你可以从下面的 gif 中看到，即使在我的高端设备中，当我试图滚动时，帧速率明显下降，UI 体验很糟糕:
 
-[![](../Images/7f9ffc0a21afb9b01ad42000f8d64bc9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P1jYQKJq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q51n9llpgt0rm2n69n8h.gif)
+[![](img/7f9ffc0a21afb9b01ad42000f8d64bc9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P1jYQKJq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q51n9llpgt0rm2n69n8h.gif)
 
 ## 使用背压
 
@@ -121,7 +121,7 @@ class App extends Component {
 
 在采样中，我们定期查看发射值的序列，并使用每个周期最后发射的值:
 
-[![](../Images/3fc9effc2938307576ddce6b7f99cf83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--urLPkFPf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9evfs4qbkh0o5fmnkfhv.png)
+[![](img/3fc9effc2938307576ddce6b7f99cf83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--urLPkFPf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9evfs4qbkh0o5fmnkfhv.png)
 
 采样是一种有损背压策略。
 
@@ -129,7 +129,7 @@ class App extends Component {
 
 throttleFirst 与 sampling 相同，但是我们不使用最后发出的值，而是使用在指定时间段内发出的第一个值:
 
-[![](../Images/01ef4d241c1c830c2420d874f25cb820.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vUEiFCgt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yej6sp708d7be24y7a3o.png)
+[![](img/01ef4d241c1c830c2420d874f25cb820.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vUEiFCgt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yej6sp708d7be24y7a3o.png)
 
 throttleFirst 是一种有损背压策略。
 
@@ -137,7 +137,7 @@ throttleFirst 是一种有损背压策略。
 
 使用 buffer，我们可以创建一批发出的项目，然后消费者可以决定是只处理每个集合中的一个特定项目，还是处理这些项目的一些组合。
 
-[![](../Images/8868f109bacd18be0ccb006cd08e1239.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oRBoYw5q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sr9kp6lal11fscc80zeg.png)
+[![](img/8868f109bacd18be0ccb006cd08e1239.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oRBoYw5q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sr9kp6lal11fscc80zeg.png)
 
 缓冲是一种无损反压策略。
 
@@ -145,7 +145,7 @@ throttleFirst 是一种有损背压策略。
 
 通过 window，我们可以指定在关闭和发出批次之前要收集多少项目。
 
-[![](../Images/561c858028609b5b654632a83ece2246.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cY8hFyf8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4gvkaudv7h4jto6whdlf.png)
+[![](img/561c858028609b5b654632a83ece2246.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cY8hFyf8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4gvkaudv7h4jto6whdlf.png)
 
 窗口是一个无损失策略背压策略。
 

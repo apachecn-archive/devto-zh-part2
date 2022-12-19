@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/izifortune/angular-polyfill-strategies-2dmn>
 
-[![Angular polyfill strategies](../Images/abbd62c727c70f0dbe8886f5ab5c5560.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ergwaKlm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://izifortune.com/content/images/2018/11/angular-polyfill-strategies.png)
+[![Angular polyfill strategies](img/abbd62c727c70f0dbe8886f5ab5c5560.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ergwaKlm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://izifortune.com/conteimg/2018/11/angular-polyfill-strategies.png)
 
 跨浏览器兼容性是现代 web 开发的一个重要部分。虽然现在大多数浏览器都在向新的 web 标准看齐，但由于各种原因，跨浏览器问题仍然会发生。有时候浏览器会有 bug，对新技术的支持程度不同。Angular 支持所有最新的浏览器，但支持所有这些不同的浏览器很有挑战性，尤其是在缺乏现代技术支持的地方。这就是为什么 *Angular* 团队[建议](https://angular.io/guide/browser-support)根据你的目标装载多孔填料。polyfill 提供了一种预期在本地可用的功能。
 
@@ -38,7 +38,7 @@ import 'zone.js/dist/zone'; // Included with Angular CLI.
 
 所有的浏览器，甚至那些不需要 polyfills 的浏览器，都在为你的支持列表中的旧浏览器买单。所以每个用户都需要完整下载生成的文件。如果我们看看生成的 polyfill 包的大小，这是普通实用程序库如 [ramda](https://ramdajs) 或 [lodash](https://lodash.com/) 在不使用任何树抖动的情况下所占用空间的两倍。
 
-[![Angular polyfill strategies](../Images/7efc72e8c74cdac4602bb14ac7cdb252.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kLG8CIKA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://izifortune.com/content/images/2018/11/polyfills-ramda-lodash.png)
+[![Angular polyfill strategies](img/7efc72e8c74cdac4602bb14ac7cdb252.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kLG8CIKA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://izifortune.com/conteimg/2018/11/polyfills-ramda-lodash.png)
 
 ### 撇开不谈
 
@@ -86,7 +86,7 @@ import 'zone.js/dist/zone'; // Included with Angular CLI.
 
 `nomodule`属性是一个布尔属性，它防止在支持模块脚本的用户代理中执行脚本。只有不支持 IE11/10/9 等模块的浏览器才会下载较大的包，而其他浏览器会忽略它，只下载较小的文件。
 
-[![Angular polyfill strategies](../Images/88670c7783cb66528ab98d8da515241a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BuRgIJLp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://izifortune.com/content/images/2018/11/polyfill-strategies.png)
+[![Angular polyfill strategies](img/88670c7783cb66528ab98d8da515241a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BuRgIJLp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://izifortune.com/conteimg/2018/11/polyfill-strategies.png)
 
 这几乎比最初提出的*将它们全部捆绑*的解决方案提高了 60%。它可以轻松集成到任何应用程序中，并且不涉及任何复杂的更改或基础架构支持。您的应用程序只提供一个附加文件。这里有一个到 stackblitz 应用程序的链接，这个应用程序已经为这个场合配置好了[这里](https://stackblitz.com/edit/angular-ahwqb6)。
 
@@ -248,7 +248,7 @@ sls deploy
 
 无服务器在创建过程结束时输出一个指向 lambda 的 URL。
 
-[![Angular polyfill strategies](../Images/82ca9e974bd2ab6c169e1c2dfcf1bb88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fZldEvts--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://izifortune.com/content/images/2018/11/serverless-output.png)
+[![Angular polyfill strategies](img/82ca9e974bd2ab6c169e1c2dfcf1bb88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fZldEvts--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://izifortune.com/conteimg/2018/11/serverless-output.png)
 
 通过在浏览器中粘贴 URL 来测试一切是否正常，服务应该会向您返回针对您的浏览器的 polyfill 包。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/acoh3n/its-a-self-taughts-world-47np>
 
-[![Photo](../Images/c308afdcae5a0995432e7ac12978e372.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n31AB0O4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3uijicyk781cc40ydr7i.jpg)
+[![Photo](img/c308afdcae5a0995432e7ac12978e372.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n31AB0O4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3uijicyk781cc40ydr7i.jpg)
 
 我记得我的第一份编程工作。作为一名自学成才的程序员，我想，再过几分钟，我的欺诈行为就会被曝光。
 

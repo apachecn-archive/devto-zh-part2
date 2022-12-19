@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/notwoods/unifying-code-to-read-local-and-network-files-31m2>
 
-[![Imgur upload page with Browse button and input to paste URL](../Images/a0cd25f8290da82fa438aedccec5fffa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wVmfKscH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tigeroakes.com/posts/unify-local-network-file-reading/imgur-upload.png)
+[![Imgur upload page with Browse button and input to paste URL](img/a0cd25f8290da82fa438aedccec5fffa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wVmfKscH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tigeroakes.com/posts/unify-local-network-file-reading/imgur-upload.png)
 
 许多 web 应用程序允许用户上传文件或输入 URL 来下载文件。
 上传文件时，HTML 文件输入让你使用 JavaScript 中的`FileReader` API 读取文件。

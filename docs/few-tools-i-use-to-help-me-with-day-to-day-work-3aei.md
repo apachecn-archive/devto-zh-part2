@@ -6,10 +6,10 @@
 
 **截图**:我们每天都会截图，并在 twitter、dev.to、slack 上分享，有时甚至在电子邮件中分享👨‍💻。出于这个原因，也为了便于分享，我使用了 [Skitch](https://evernote.com/products/skitch) 。这是超级容易采取截图，使一些指针点击(复制)和(粘贴)，并关闭到下一个任务。
 
-[![](../Images/16599386ae4ba9c5d19d023ec35b95c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--22utq-sO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w65j39t1v60aba01q2tc.png)
+[![](img/16599386ae4ba9c5d19d023ec35b95c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--22utq-sO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w65j39t1v60aba01q2tc.png)
 
 这是我非常喜欢在我的 Mac 上安装的工具之一，当然我可以成为一些应用程序的专家，但是 VI，VIM 没有专家，有新手用户和高级用户。 [CheatSheet](https://mediaatelier.com/CheatSheet/?lang=en) 基本上给了你支持 CheatSheet 的命令，你可以在大多数工具上使用，比如 Sublime、VI、Mail、Chrome 等等。
-[![](../Images/ab0ce31bb6d4eefb06f005bb3c4629b3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Cc4Lov25--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/99ykdd3098uqkh5zlklw.png)
+[![](img/ab0ce31bb6d4eefb06f005bb3c4629b3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Cc4Lov25--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/99ykdd3098uqkh5zlklw.png)
 
 Alfred :与 Spotlight 相比，我使用 Alfred 的次数更多(我认为这一功能只适用于 Mac 用户)。 [Alfred](https://www.alfredapp.com/) 基本上帮助我以更高级的形式搜索我的 Mac 你可以添加 github 的工作流，以及许多其他有用的搜索功能。
 

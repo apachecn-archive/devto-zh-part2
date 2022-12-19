@@ -4,7 +4,7 @@
 
 几个月前，我发现了一个有趣的 GitHub 回购:
 
-## ![GitHub logo](../Images/375dfcc32199b4dedf2b526645c27ff7.png) [ xiegeo ](https://github.com/xiegeo) / [提交-数独](https://github.com/xiegeo/commit-sudoku)
+## ![GitHub logo](img/375dfcc32199b4dedf2b526645c27ff7.png) [ xiegeo ](https://github.com/xiegeo) / [提交-数独](https://github.com/xiegeo/commit-sudoku)
 
 ### 接受拉请求，共同完成一个数独游戏。
 
@@ -12,7 +12,7 @@
 
 # 提交数独
 
-[![Build Status](../Images/910f45a9620b2e9d728600d701bc5b8a.png)T2】](https://travis-ci.org/xiegeo/commit-sudoku)
+[![Build Status](img/910f45a9620b2e9d728600d701bc5b8a.png)T2】](https://travis-ci.org/xiegeo/commit-sudoku)
 
 | one | five | seven | Two | nine | six | eight | three | four |
 | eight | nine | Two | three | four | five | six | one | seven |
@@ -109,7 +109,7 @@ pngFileStream(`tmp/T*.png`)
 
 这是最终的动画，展示了游戏是如何进行的:
 
-[![animation](../Images/561259728ef727000d96283a93706e33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3jF5pSyL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://commit-sudoku.surge.sh/output.gif)
+[![animation](img/561259728ef727000d96283a93706e33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3jF5pSyL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://commit-sudoku.surge.sh/output.gif)
 
 ## 第五步(加成):挂钩 TravisCI 和 Surge.sh
 

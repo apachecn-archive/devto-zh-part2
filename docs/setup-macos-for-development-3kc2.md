@@ -10,7 +10,7 @@
 
 在开始之前，强烈建议按照以下配置更改您的终端:
 
-[![equiman](../Images/ebe835e1ec966206e00a01bb329a3e86.png)](/equiman) [## 哦，我的 Zsh！+ Powerlevel10K 极客最佳终端组合！
+[![equiman](img/ebe835e1ec966206e00a01bb329a3e86.png)](/equiman) [## 哦，我的 Zsh！+ Powerlevel10K 极客最佳终端组合！
 
 ### 卡米洛马丁内斯 9 月 25 日 1815 分钟阅读
 
@@ -101,7 +101,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 首次运行时，按下`⌘` + `⇧` + `P`并运行命令:`Shell Command: install 'code' command PATH`。现在你可以从命令行使用`code`命令。例:`code .`打开当前文件夹的编辑器。
 
-[![equiman](../Images/ebe835e1ec966206e00a01bb329a3e86.png)](/equiman) [## VSCode -基础知识
+[![equiman](img/ebe835e1ec966206e00a01bb329a3e86.png)](/equiman) [## VSCode -基础知识
 
 ### 卡米洛马丁内斯 9 月 27 日 1815 分钟阅读
 
@@ -482,7 +482,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 </figure>
 
-[![equiman](../Images/ebe835e1ec966206e00a01bb329a3e86.png)](/equiman) [## 在 macOS 上共享您的 Android 屏幕和音频
+[![equiman](img/ebe835e1ec966206e00a01bb329a3e86.png)](/equiman) [## 在 macOS 上共享您的 Android 屏幕和音频
 
 ### 卡米洛马丁内斯 10 月 8 日 204 分钟阅读
 
@@ -496,7 +496,7 @@ Enter fullscreen mode Exit fullscreen mode
 xcode-select --install 
 ```
 
-Enter fullscreen mode Exit fullscreen mode[![equiman](../Images/ebe835e1ec966206e00a01bb329a3e86.png)](/equiman) [## 在某些 macOS 应用程序中启用黑暗模式
+Enter fullscreen mode Exit fullscreen mode[![equiman](img/ebe835e1ec966206e00a01bb329a3e86.png)](/equiman) [## 在某些 macOS 应用程序中启用黑暗模式
 
 ### 卡米洛·马丁内斯 9 月 24 日 191 分钟阅读
 
@@ -666,7 +666,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 只需从苹果商店安装 [Slurp](https://apps.apple.com/us/app/colorslurp/id1287239339?mt=12) 并删除他所有的快捷方式，因为会干扰 VSCode。
 
-[![slurp](../Images/1e602d296b85956c6b0c979b665b7897.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zQf-Z48S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/pnlumicio6y8sqmxirlo.png)
+[![slurp](img/1e602d296b85956c6b0c979b665b7897.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zQf-Z48S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/pnlumicio6y8sqmxirlo.png)
 
 * * *
 
@@ -747,7 +747,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 </figure>
 
-[![equiman](../Images/ebe835e1ec966206e00a01bb329a3e86.png)](/equiman) [## 在 macOS 上使用 PC 键盘有什么比较好的方法？
+[![equiman](img/ebe835e1ec966206e00a01bb329a3e86.png)](/equiman) [## 在 macOS 上使用 PC 键盘有什么比较好的方法？
 
 ### 卡米洛马丁内斯 9 月 23 日 182 分钟阅读
 
@@ -839,7 +839,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 删除他的所有快捷方式，因为干扰 macOS 和 VSCode 的。
 
-[![YTM Shortcuts](../Images/9f8163fd5659ebf5c12e0165322aece3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--juyQyXVZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/m42s2vjcna8g2szdylo9.png)
+[![YTM Shortcuts](img/9f8163fd5659ebf5c12e0165322aece3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--juyQyXVZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/m42s2vjcna8g2szdylo9.png)
 
 ## Spotify
 
@@ -877,7 +877,7 @@ defaults write com.knollsoft.Rectangle alternateDefaultShortcuts -bool true
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Rectangle Alternative Shortcut](../Images/54eff029298d41a80e84eccf60da50a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YkdpM7fG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/13651296/71896594-7cdb9280-3154-11ea-83a7-70b71c6df9d4.png)
+[![Rectangle Alternative Shortcut](img/54eff029298d41a80e84eccf60da50a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YkdpM7fG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/13651296/71896594-7cdb9280-3154-11ea-83a7-70b71c6df9d4.png)
 
 ## 让你保持清醒
 
@@ -971,4 +971,4 @@ Enter fullscreen mode Exit fullscreen mode
 **都是乡亲们！**
 **快乐编码** 🖖
 
-[![beer](../Images/192892baef71a32ea4a5e98a4927b05e.png)T2】](https://github.com/sponsors/deinsoftware)
+[![beer](img/192892baef71a32ea4a5e98a4927b05e.png)T2】](https://github.com/sponsors/deinsoftware)

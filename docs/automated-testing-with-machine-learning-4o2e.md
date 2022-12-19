@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/razgandeanu/automated-testing-with-machine-learning-4o2e>
 
-[![artificial intelligence programmer](../Images/de51955191f9385080b5c2a396963607.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aoknalWW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.ytimg.com/vi/7c_XO3Ouzts/maxresdefault.jpg)
+[![artificial intelligence programmer](img/de51955191f9385080b5c2a396963607.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aoknalWW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.ytimg.com/vi/7c_XO3Ouzts/maxresdefault.jpg)
 
 不管你喜不喜欢，机器人已经在这里了，而且它们已经来了。
 
@@ -20,7 +20,7 @@
 
 没有人工智能可以取代你，但有人正在利用机器学习的力量，其效率比你高 10 倍。
 
-[![machine learning testing](../Images/4559f79cac0b15e0e9ffcae84f5bbae1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OP6Oueap--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://api.hub.jhu.edu/factory/sites/default/files/styles/landscape/public/robot-human-final-5flat.jpg)
+[![machine learning testing](img/4559f79cac0b15e0e9ffcae84f5bbae1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OP6Oueap--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://api.hub.jhu.edu/factory/sites/default/files/styles/landscape/public/robot-human-final-5flat.jpg)
 
 开始实现机器学习的最好地方之一是在你的自动化测试中。
 
@@ -32,4 +32,4 @@
 
 我个人全心全意地推荐 [Endtest](https://endtest.io) ，因为我相信他们在竞争中遥遥领先。
 
-[![machine learning testing](../Images/25dfa3142837146805c04ecb5ee08d3e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f4_sFaYM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.2oceansvibe.com/wp-content/uploads/2014/03/ROBOLUTION.jpg)
+[![machine learning testing](img/25dfa3142837146805c04ecb5ee08d3e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f4_sFaYM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.2oceansvibe.com/wp-content/uploads/2014/03/ROBOLUTION.jpg)

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/couellet/using-next-js-to-build-seo-friendly-react-spas-live-demo-1eb4>
 
-[![Next.js Tutorial: SEO-Friendly React E-Commerce SPA](../Images/d004a85ee097a11d2bb7acd81352e84b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x9aTaTrQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/204694/next-seo-og.jpg)
+[![Next.js Tutorial: SEO-Friendly React E-Commerce SPA](img/d004a85ee097a11d2bb7acd81352e84b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x9aTaTrQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/204694/next-seo-og.jpg)
 
 我们经常提倡使用单页应用程序。
 
@@ -32,6 +32,6 @@
 
 **简而言之，Next.js 是一个用于静态和服务器渲染的 React 应用程序的轻量级框架。**
 
-[![next-js-seo](../Images/f065cee49d3027c54e43e3244ef407ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kBhQPHPa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/204691/next-js-seo-tutorial.png)
+[![next-js-seo](img/f065cee49d3027c54e43e3244ef407ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kBhQPHPa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/204691/next-js-seo-tutorial.png)
 
 →点击阅读全文

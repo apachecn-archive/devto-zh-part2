@@ -56,7 +56,7 @@ Enter fullscreen mode Exit fullscreen mode
 *   改变任何东西都需要编辑每个文件，
 *   比较多个文件并寻找差异是不方便的。
 
-[![Placeholder](../Images/f8e18cb091deeb874d339c9ce81e7486.png) ](/images/android-manifest-placeholders/placeholder.png) {:。中央图像}
+[![Placeholder](img/f8e18cb091deeb874d339c9ce81e7486.png) img/android-manifest-placeholders/placeholder.png) {:。中央图像}
 
 # 使用占位符
 

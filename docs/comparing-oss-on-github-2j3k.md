@@ -17,7 +17,7 @@
 
 # 比较-github
 
-[![screencast](../Images/3cc6e74fae31635ddf811db373c83606.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b9U3JW_6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/uetchy/compare-github/gh-pages/screencast.gif)
+[![screencast](img/3cc6e74fae31635ddf811db373c83606.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b9U3JW_6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/uetchy/compare-github/gh-pages/screencast.gif)
 
 [compare-github](https://github.com/uetchy/compare-github) 是一个简单的终端应用程序，用于探索您的候选人，并将结果汇总到一份漂亮的报告中。
 
@@ -36,7 +36,7 @@ compare-github facebook/react vuejs/vue riot/riot
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/af13ee69e2b58dcab729419f178b2b38.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1svFu6mV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1xfd1gcrfntpft5bbu5s.png)
+[![](img/af13ee69e2b58dcab729419f178b2b38.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1svFu6mV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1xfd1gcrfntpft5bbu5s.png)
 
 您将立即看到每个候选人的 GitHub 活动。它可以帮助你决定采用哪一个库！
 

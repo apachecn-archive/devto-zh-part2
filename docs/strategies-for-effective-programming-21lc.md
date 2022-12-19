@@ -36,7 +36,7 @@
 
 尝试在项目代码库中正确地解决这个问题可能很有诱惑力，但是我发现这有时会导致我把给定的分支搞得一团糟，最终不得不重新开始。相反，我创建了一个`dev/playground`目录，在那里我定期添加小程序或脚本来测试想法。我试图去除所有不必要的依赖，并仔细分离出我正在处理的具体问题。一旦我想通了，我就回到我正在进行的工作中。这里有一个例子:
 
-[![nestedsoftware image](../Images/3cb233df7ed283937c45cd45382048a9.png)](/nestedsoftware) [## 等待着对 JavaScript 仔细检查
+[![nestedsoftware image](img/3cb233df7ed283937c45cd45382048a9.png)](/nestedsoftware) [## 等待着对 JavaScript 仔细检查
 
 ### 嵌套软件 Apr 6 ' 18 分钟读取
 

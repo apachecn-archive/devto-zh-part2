@@ -4,7 +4,7 @@
 
 我在做这个很酷的项目的时候，通宵达旦，兴奋不已，在这个项目中，我构建了一个 WordPress 人工智能插件。
 
-[![PW AI](../Images/fcb7655ea5850ada75b5bc7c2733ca3f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xT6zq-qN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://on.ahmda.ws/qqwI/c)
+[![PW AI](img/fcb7655ea5850ada75b5bc7c2733ca3f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xT6zq-qN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://on.ahmda.ws/qqwI/c)
 
 听起来很老套，但在我继续向你解释之前，我宁愿你看这个我在早上 5 点试图演示我所做的快速愚蠢的视频。开始吧。👇
 

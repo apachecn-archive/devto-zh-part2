@@ -8,7 +8,7 @@
 
 本质上，软件的自由是由理查德·斯托尔曼在 80 年代提出的四条规则定义的。正如在 [GNU 宣言](https://www.gnu.org/philosophy/free-sw.html)中所解释的，这四条规则是:
 
-[![](../Images/da27c8c55583b85b5c8b1c590a153468.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KTeLd09h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.gnu.org/graphics/heckert_gnu.transp.small.png)
+[![](img/da27c8c55583b85b5c8b1c590a153468.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KTeLd09h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.gnu.org/graphics/heckert_gnu.transp.small.png)
 
 *   出于任何目的，按照自己的意愿运行程序的自由(自由 0)。
 *   研究程序如何工作的自由，并改变它，使它如你所愿地做你的计算(自由 1)。获得源代码是这样做的先决条件。
@@ -17,7 +17,7 @@
 
 是的，它从*零*开始，因为我们都知道数组是如何工作的；)而且听起来很棒！它谈到了改进、分享、学习...
 
-[![](../Images/d9748999343e10663cd975a9c9032ad0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yUZYXac4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://proxy.duckduckgo.com/iu/%3Fu%3Dhttps%253A%252F%252Ftse1.mm.bing.net%252Fth%253Fid%253DOIP.80cld3jcvMmt0UAkew3rgQHaEV%2526pid%253D15.1%26f%3D1)
+[![](img/d9748999343e10663cd975a9c9032ad0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yUZYXac4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://proxy.duckduckgo.com/iu/%3Fu%3Dhttps%253A%252F%252Ftse1.mm.bing.net%252Fth%253Fid%253DOIP.80cld3jcvMmt0UAkew3rgQHaEV%2526pid%253D15.1%26f%3D1)
 
 **开源**是一个术语，正如在[官方来源](https://opensource.org/osd)中所描述的，它按照法律要求处理代码分发的方法，以便让社区可以访问它。两者都丰富了软件开发，据说软件的自由有更深的含义，更像是一种*的生活方式*或一种*的思维方式*。
 

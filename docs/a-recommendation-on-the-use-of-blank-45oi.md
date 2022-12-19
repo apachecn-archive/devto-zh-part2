@@ -42,7 +42,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 作为使用`target`属性的`_blank`值的合适例子，我有一个[视频游戏](https://webdva.itch.io/pantsu-versus-baka)，它有一个反馈表单，允许用户访问一个新页面，一个 Twitter 个人资料。
 
-[![Feedback form](../Images/19ab7008ef81b3dc8e0105f06d91efb2.png "<a> link that opens Twitter in a new tab")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bf8rGyqN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k3xnzhmh2ly1nu1gn5vs.PNG)
+[![Feedback form](img/19ab7008ef81b3dc8e0105f06d91efb2.png "<a> link that opens Twitter in a new tab")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bf8rGyqN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k3xnzhmh2ly1nu1gn5vs.PNG)
 
 因为这是一个 HTML5 视频游戏，所以假设或相信保存视频游戏的当前状态是非常必要的，例如不要使用`<a>` HTML 标签链接来破坏包含状态的标签。因此，在这种情况下，使用`target`属性的`_blank`值是首选的，也是可以接受的。当用户点击指向 Twitter 个人资料的链接时，会打开一个新的浏览器标签，而不是包含当前视频游戏状态的当前浏览器标签。
 

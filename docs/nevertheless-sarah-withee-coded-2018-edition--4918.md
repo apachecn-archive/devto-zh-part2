@@ -4,7 +4,7 @@
 
 ## 我开始/继续编码是因为...
 
-[![Image of programming on the Commodore 64](../Images/651c767badc92ef42a80aa0f09330d00.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U33bP4hz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://sarahwithee.com/pics/commodore64.gif)
+[![Image of programming on the Commodore 64](img/651c767badc92ef42a80aa0f09330d00.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U33bP4hz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://sarahwithee.com/pics/commodore64.gif)
 
 我小时候家里有一台 Commodore 64(80 年代的旧电脑)。我学会了在上面输入命令来做事情，并发现构建小程序来做事情非常有趣。和...卡住了。我获得了计算机科学学位，并成为了一名软件工程师。
 

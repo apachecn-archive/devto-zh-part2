@@ -10,7 +10,7 @@
 
 **盒子模型:**CSS 盒子模型描述了环绕[文档树](https://www.w3.org/TR/CSS2/conform.html#doctree)中每个元素(HTML 元素)的矩形框，并根据[可视格式模型](https://www.w3.org/TR/CSS2/visuren.html)进行布局。它由内容、填充、边框和边距组成。
 
-[![](../Images/e735277e5bb34ca492d5edc326860b9c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Epou9WnH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/682/1%2ARZy75Vjf8bETwl73-4iZPQ.png) 
+[![](img/e735277e5bb34ca492d5edc326860b9c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Epou9WnH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/682/1%2ARZy75Vjf8bETwl73-4iZPQ.png) 
 
 <figcaption>框模型视觉</figcaption>
 
@@ -30,7 +30,7 @@
 
 **填充:**填充是指一个元素的内容和该元素的边框之间的空间，或者我们可以简单的说是边框内部的空间。这类似于你的床和房间墙壁之间的空间。大多数时候我们看不到填充，因为默认情况下它通常是透明的，但是如果你设置背景色:浅灰色；该元素的填充将是灰色的，如下图所示。
 
-[![](../Images/aaa4d53d9f2e66b90790b948bc1756b2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yNnMuEd1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/389/1%2AIHAKuzrnwhvhsIjKCMJR3A.png) 
+[![](img/aaa4d53d9f2e66b90790b948bc1756b2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yNnMuEd1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/389/1%2AIHAKuzrnwhvhsIjKCMJR3A.png) 
 
 <figcaption>第一个< p >元素填充为 0，第二个< p >元素填充为 2%。他们都没有国界。</figcaption>
 
@@ -38,7 +38,7 @@ Padding 只有 5 个 CSS 属性:padding；垫顶；填充-右侧；底部填充�
 
 **边框:**这是包围元素的墙，它与文档中的任何其他元素都有区别。这就像你房间的墙壁把它和厨房分开一样。实际上可以去掉边框，或者改变样式。边框和填充之间的一个重要区别是，边框不是一个空间，它是一个词的每一个意义上的边框，因此在风格上的灵活性。我们都知道我们不能改变空间的风格，因为空间就是空间。边框比填充和边距有更多的属性。所以在这里，我们将通过设置 CSS border 属性为 border: 2px solid green，尝试使我们的边框为实线和虚线；和边框:2px 虚线红色；
 
-[![](../Images/4b6c02b44f031cca40a69b9f9e3c9b3a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wkzZETT9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/222/1%2ArTbGRXEBVpS90vQWAU3Cww.png) 
+[![](img/4b6c02b44f031cca40a69b9f9e3c9b3a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wkzZETT9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/222/1%2ArTbGRXEBVpS90vQWAU3Cww.png) 
 
 <figcaption>第一个< p >元素有绿色的实线边框，而第二个< p >元素有红色的虚线边框。</figcaption>
 
@@ -54,7 +54,7 @@ or tags or any actual root element.
 
 可以肯定地说，两个元素之间的水平空间是由两个边距组成的；第一个元素的右边距和第二个元素的左边距。同样的事情也适用于两个元素之间的垂直空间。结账*查看更多。*
 
- *[![](../Images/4b6c02b44f031cca40a69b9f9e3c9b3a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wkzZETT9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/222/1%2ArTbGRXEBVpS90vQWAU3Cww.png) 
+ *[![](img/4b6c02b44f031cca40a69b9f9e3c9b3a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wkzZETT9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/222/1%2ArTbGRXEBVpS90vQWAU3Cww.png) 
 
 <figcaption>边境</figcaption>
 

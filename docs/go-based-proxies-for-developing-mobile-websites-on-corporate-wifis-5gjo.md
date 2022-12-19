@@ -8,7 +8,7 @@
 
 <figure>
 
-[![](../Images/7379e80b76b3a35f1a324c653eba0327.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3xtYq4M---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1d2vwn7kap3i0brauahw.jpeg)
+[![](img/7379e80b76b3a35f1a324c653eba0327.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3xtYq4M---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1d2vwn7kap3i0brauahw.jpeg)
 
 <figcaption>When networks become a show stopped for development.</figcaption>
 
@@ -30,7 +30,7 @@
 
 我们需要内部网络，因为手机需要连接到部署的测试后端，可以在公司的内部网络上使用，我们的笔记本电脑使用 VPN 连接。
 
-[![](../Images/5a03bd7bfc091ec57336b4d8ef23a534.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AVNagqLT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7u7zaxhfkhckw5i43zbn.png)
+[![](img/5a03bd7bfc091ec57336b4d8ef23a534.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AVNagqLT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7u7zaxhfkhckw5i43zbn.png)
 
 ## 代理救援
 
@@ -60,7 +60,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <figure>
 
-[![](../Images/12b6af2755b7d3dea2f640da87fee651.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EvBz5E_o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cccgwvbe3oro7kk2fib4.jpeg)
+[![](img/12b6af2755b7d3dea2f640da87fee651.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EvBz5E_o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cccgwvbe3oro7kk2fib4.jpeg)
 
 <figcaption>Green light for our traffic thanks to proxies.</figcaption>
 

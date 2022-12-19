@@ -53,8 +53,8 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果你在苹果电脑上，按下 **i** 打开 iOS 模拟器。你会被提示安装/打开 Expo，然后呈现渲染过的`App.js`。
 
-[![Open in Expo](../Images/6059f36086435e8f062e124a90bef2e1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6mYHoKww--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-native-app-auth/open-in-expo-99aa3f61ee9cea9951ca8b232460f501ef3f1a3c07cd4f47c49c3b2b4717afe0.png)
-[![Rendered App.js](../Images/e0bec728bb25742a55a3f5b910ca51a1.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--I2Zs79IO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-native-app-auth/default-page-bd56cd1311197957c4d096855eea8f6f93687d14c37e72b39b489beba0dcfbea.png)
+[![Open in Expo](img/6059f36086435e8f062e124a90bef2e1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6mYHoKww--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-native-app-auth/open-in-expo-99aa3f61ee9cea9951ca8b232460f501ef3f1a3c07cd4f47c49c3b2b4717afe0.png)
+[![Rendered App.js](img/e0bec728bb25742a55a3f5b910ca51a1.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--I2Zs79IO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-native-app-auth/default-page-bd56cd1311197957c4d096855eea8f6f93687d14c37e72b39b489beba0dcfbea.png)
 
 如果你用的是 Windows 或者 Linux，我建议你试试 Android 模拟器或者你的 Android 设备(如果你有的话)。如果它不工作，不要担心，稍后我会告诉你如何让它工作。
 
@@ -390,13 +390,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 你应该会看到一个屏幕，上面写着“你好，陌生人。”点击**授权**，系统会提示您是继续还是取消。
 
-[![Hello, stranger](../Images/74b777663346fbf20bf3cce083fbe0e5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--a_-P3NQn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-native-app-auth/hello-66b967d2aea0c4ead301126613602623482ea310b93c41b9d68043807956a668.png)
-[![Cancel or Continue](../Images/d400926054f0cc43637c64a005ab620d.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--9Bl_Nqae--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-native-app-auth/continue-72cc6e6f30d9456dde4a47949f67a4d804ead0a0b2f30d00106a50f4ea7f954c.png)
+[![Hello, stranger](img/74b777663346fbf20bf3cce083fbe0e5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--a_-P3NQn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-native-app-auth/hello-66b967d2aea0c4ead301126613602623482ea310b93c41b9d68043807956a668.png)
+[![Cancel or Continue](img/d400926054f0cc43637c64a005ab620d.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--9Bl_Nqae--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-native-app-auth/continue-72cc6e6f30d9456dde4a47949f67a4d804ead0a0b2f30d00106a50f4ea7f954c.png)
 
 点击**继续**，你应该会看到一个 Okta 签到表。输入您的凭证，您将被重定向回应用程序。
 
-[![Okta Sign-In](../Images/94885c0b792791cf68695ffecee918a0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GLP6JEyP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-native-app-auth/okta-login-6c4c379db5ff7d5a5e6cc9410b719a47e5a0534f7d9cac6b1c8d1ef87c4a3dc3.png)
-[![Access Token Info](../Images/f71b31824cf2f856fa3ba80ddc4ec9aa.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--YyypDoPj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-native-app-auth/access-token-e9458e233082fd30cd491425979c6ecc1dbe8a840e2420337e88cde1a1a1b228.png)
+[![Okta Sign-In](img/94885c0b792791cf68695ffecee918a0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GLP6JEyP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-native-app-auth/okta-login-6c4c379db5ff7d5a5e6cc9410b719a47e5a0534f7d9cac6b1c8d1ef87c4a3dc3.png)
+[![Access Token Info](img/f71b31824cf2f856fa3ba80ddc4ec9aa.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--YyypDoPj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-native-app-auth/access-token-e9458e233082fd30cd491425979c6ecc1dbe8a840e2420337e88cde1a1a1b228.png)
 
 您可以单击**刷新**来观察访问令牌的值和到期日期的变化。
 
@@ -505,13 +505,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 要创建新的 AVD，导航到**工具** > **安卓** > **AVD 管理器**。创建一个新的虚拟设备，然后单击播放。我选择了像素 2，你可以从下面我的设置中看到。
 
-[![AVD Pixel 2](../Images/6c4e036bf82bc3ccac109d9073b894a6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0Uq8J0Tt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-native-app-auth/avd-pixel-2-b4bcf85e3239bb1fe3cf90e18e6ffaea6ae35bd44f0e9c477868c9139e9ab8b2.png)
+[![AVD Pixel 2](img/6c4e036bf82bc3ccac109d9073b894a6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0Uq8J0Tt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-native-app-auth/avd-pixel-2-b4bcf85e3239bb1fe3cf90e18e6ffaea6ae35bd44f0e9c477868c9139e9ab8b2.png)
 
 再次运行`npm run android`。您应该会看到一个欢迎屏幕，并能够成功授权。
 
-[![Hello, stranger](../Images/563f77e3dbcf96fc3781ffcf350f550f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ENch9tDC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-native-app-auth/android-hello-059ee0a3972c0752d22d001ec095c6ae199da2d592a5583e0f227db4d4fe8b10.png)
-[![Okta Sign-In](../Images/cc90b4729351ebf45ccc2ec161a240b8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Vtu7DGOT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-native-app-auth/android-sign-in-be6915f81ec9adb8ea94aa7a651d45bb96b357488fa17d74907a37a4052430df.png)
-[![Access Token on Android](../Images/9a7c62f1e37f274dc0ff968120555462.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cfzFY7r8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-native-app-auth/android-access-token-637a3a63fe517eb8193961fca79d52e4197d192584755eecb9d896ca90f10503.png)
+[![Hello, stranger](img/563f77e3dbcf96fc3781ffcf350f550f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ENch9tDC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-native-app-auth/android-hello-059ee0a3972c0752d22d001ec095c6ae199da2d592a5583e0f227db4d4fe8b10.png)
+[![Okta Sign-In](img/cc90b4729351ebf45ccc2ec161a240b8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Vtu7DGOT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-native-app-auth/android-sign-in-be6915f81ec9adb8ea94aa7a651d45bb96b357488fa17d74907a37a4052430df.png)
+[![Access Token on Android](img/9a7c62f1e37f274dc0ff968120555462.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cfzFY7r8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-native-app-auth/android-access-token-637a3a63fe517eb8193961fca79d52e4197d192584755eecb9d896ca90f10503.png)
 
 **提示:**修复`Configuration 'compile' in project ':app' is deprecated. Use 'implementation' instead.`，将`dependencies`下的`compile`改为`implementation`。更多信息可以在[Gradle 3 . 0 . 0](https://developer.android.com/studio/build/gradle-plugin-3-0-0-migration.html)迁移到 Android 插件中找到。
 
@@ -616,7 +616,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 运行`npm run ios`(或`npm run android`)，在 Okta 授权后，您应该会看到 ID 令牌中的声明。下面是一个截图，证明它在 iOS 模拟器中工作。
 
-[![ID Token on iOS](../Images/4285c2e735ca03bc385cc4ab2c2f34e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2XCgSWib--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-native-app-auth/ios-id-token-fa76478fe93fa5a01eae360d06f75abf681e22937dd7df4fa924827c2db1a437.png)
+[![ID Token on iOS](img/4285c2e735ca03bc385cc4ab2c2f34e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2XCgSWib--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-native-app-auth/ios-id-token-fa76478fe93fa5a01eae360d06f75abf681e22937dd7df4fa924827c2db1a437.png)
 
 ### 用你的访问令牌调用 API
 
@@ -701,8 +701,8 @@ Enter fullscreen mode Exit fullscreen mode
 
 在 iOS 模拟器中，按下 **Command + R** 来重新加载所有东西，当你点击 **Good Beers** 按钮时，你应该会看到 JSON。可以在 Android 中使用 **Command + M** (在 Mac 上， **CTRL + M** 在其他操作系统上)重新加载。
 
-[![Good Beers on iOS](../Images/e7b6c39873d128b7a56560e3f1ca8b43.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_wmq6MZN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-native-app-auth/good-beers-ios-5b86767375d3af847ce5d1c783cab3911372f49b70b4ba9c93bcac14ba0da1b0.png)
-[![Good Beers on Android](../Images/be8dbbac48980fc7892f01b37bf8a2c8.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--1Bvn-RgZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-native-app-auth/good-beers-android-36193795e927333bbf9d0871912e511b0511f07e7400999009af40c0627faafb.png)
+[![Good Beers on iOS](img/e7b6c39873d128b7a56560e3f1ca8b43.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_wmq6MZN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-native-app-auth/good-beers-ios-5b86767375d3af847ce5d1c783cab3911372f49b70b4ba9c93bcac14ba0da1b0.png)
+[![Good Beers on Android](img/be8dbbac48980fc7892f01b37bf8a2c8.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--1Bvn-RgZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/react-native-app-auth/good-beers-android-36193795e927333bbf9d0871912e511b0511f07e7400999009af40c0627faafb.png)
 
 **注意:**react-native-app-auth 中有一个[未解决的问题，关于撤销不能与 Okta 一起工作，因为没有发送`Authorization`报头。](https://github.com/FormidableLabs/react-native-app-auth/issues/70)
 

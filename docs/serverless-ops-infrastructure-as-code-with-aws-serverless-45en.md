@@ -6,7 +6,7 @@
 
 如果你喜欢你所读到的，在[无服务器运营博客](https://www.serverlessops.io/blog)上还有更多。
 
-*[![infra-as-code](../Images/aba08ce0eb3a7734f8b3a7405b12d542.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YnXTvsia--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.serverlessops.io/hs-fs/hubfs/blog/infra-as-code.png%3Ft%3D1525144819454%26width%3D600%26name%3Dinfra-as-code.png)T4】*
+*[![infra-as-code](img/aba08ce0eb3a7734f8b3a7405b12d542.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YnXTvsia--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.serverlessops.io/hs-fs/hubfs/blog/infra-as-code.png%3Ft%3D1525144819454%26width%3D600%26name%3Dinfra-as-code.png)T4】*
 
 多年来，作为 DevOps 的一部分，我们一直将基础设施视为代码。作为运营，我们从手工构建系统转向用代码自动完成工作。在某些情况下，我们甚至允许软件开发者构建他们自己的系统。它已经成为 DevOps 不可或缺的一部分，但是您是否想过作为代码的基础设施意味着什么，它可能如何改变，以及在无服务器环境中实现意味着什么？
 
@@ -142,7 +142,7 @@ Nginx 服务器强制使用 SSL，并指向我们的 SSL 证书在主机上的�
 
 作为一名操作工程师，您的工作是将您的专业知识提炼到概要文件(木偶)、包装器(主厨)级别的代码中，或者工具中存在的任何中间抽象层中。
 
-[![infra-as-code-you-are-here](../Images/d801d7e39b5e15d069f5100a0f80e165.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KHUMVdyT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.serverlessops.io/hs-fs/hubfs/blog/infra-as-code-you-are-here.png%3Ft%3D1525144819454%26width%3D600%26height%3D291%26name%3Dinfra-as-code-you-are-here.png)
+[![infra-as-code-you-are-here](img/d801d7e39b5e15d069f5100a0f80e165.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KHUMVdyT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.serverlessops.io/hs-fs/hubfs/blog/infra-as-code-you-are-here.png%3Ft%3D1525144819454%26width%3D600%26height%3D291%26name%3Dinfra-as-code-you-are-here.png)
 
 这就是我们在剖面层所做的。我们理解围绕 Nginx 和 web 服务器的操作问题，并用 Puppet 代码处理它们。我们通过设置合理的默认值、确保适当的监控以及添加配置来防止可预见的问题，从而做到了这一点。这是有价值的工作。这是一个工作的组合，由于您的独特要求，在互联网上很难找到这种工作，并且这种工作结合了您作为运营工程师的特殊宝贵技能。
 
@@ -409,7 +409,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果你习惯于写系统文档，那么写架构模式文档也是类似的。
 
-[![infra-as-code-sqs-pattern](../Images/8a6b22eab29cfc6069ea8e6f94f6ef03.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hwtsbBew--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.serverlessops.io/hs-fs/hubfs/blog/infra-as-code-sqs-pattern.png%3Ft%3D1525144819454%26width%3D720%26height%3D482%26name%3Dinfra-as-code-sqs-pattern.png)
+[![infra-as-code-sqs-pattern](img/8a6b22eab29cfc6069ea8e6f94f6ef03.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hwtsbBew--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.serverlessops.io/hs-fs/hubfs/blog/infra-as-code-sqs-pattern.png%3Ft%3D1525144819454%26width%3D720%26height%3D482%26name%3Dinfra-as-code-sqs-pattern.png)
 
 ## 结论
 
@@ -417,4 +417,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 对此有想法吗？在 twitter 上通过 [@tmclaughbos](https://twitter.com/tmclaughbos) 找到我，或者访问[无服务器商店主页](https://www.serverlessops.io/)并通过网站聊天。在[的无服务器运营博客](https://www.serverlessops.io/blog)上还有更多像这样的博客。
 
-[![](../Images/8f8a489164a086d48b103f5bf1de3cbb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eTzPgQeA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://track.hubspot.com/__ptq.gif%3Fa%3D277116%26k%3D14%26r%3Dhttps%253A%252F%252Fwww.serverlessops.io%252Fblog%252Fserverless-ops-infrastructure-as-code-with-aws-serverless%26bu%3Dhttps%25253A%25252F%25252Fwww.serverlessops.io%25252Fblog%26bvt%3Drss)
+[![](img/8f8a489164a086d48b103f5bf1de3cbb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eTzPgQeA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://track.hubspot.com/__ptq.gif%3Fa%3D277116%26k%3D14%26r%3Dhttps%253A%252F%252Fwww.serverlessops.io%252Fblog%252Fserverless-ops-infrastructure-as-code-with-aws-serverless%26bu%3Dhttps%25253A%25252F%25252Fwww.serverlessops.io%25252Fblog%26bvt%3Drss)

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/zygo-tecnologia/unifying-records-61e>
 
-[![](../Images/695dd9fad294ceda852198113c09eca0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9OGHfWbm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AfqhsCA2OlUbqxayxP0IouQ.jpeg)
+[![](img/695dd9fad294ceda852198113c09eca0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9OGHfWbm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AfqhsCA2OlUbqxayxP0IouQ.jpeg)
 
 自从 2009 年我开始作为软件开发人员工作以来，我已经在不同的项目中工作过，有一个问题似乎是许多项目的共同问题:将两个记录统一为一个。
 
@@ -12,7 +12,7 @@
 
 统一记录的问题在于，在一个大项目中，你有很多依赖项。例如，假设我们有一个项目/任务管理器平台和下面的结构。
 
-<figure>[![](../Images/265370dfcf17d079944331575bf33e2a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MFNtziNE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/581/1%2A8d93yTnDy-xH4eAxyfpH2Q.png) 
+<figure>[![](img/265370dfcf17d079944331575bf33e2a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MFNtziNE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/581/1%2A8d93yTnDy-xH4eAxyfpH2Q.png) 
 
 <figcaption>UML 类图任务管理器项目</figcaption>
 

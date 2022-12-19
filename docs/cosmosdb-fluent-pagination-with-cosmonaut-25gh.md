@@ -8,7 +8,7 @@
 
 如果您在门户中看到页面大小和页码的组合，那么分页就发生在客户端。一个例子是 Application Insights 的“日志”部分，它能够返回带有页面大小和页码的分页结果，但这些结果是预先获取的，它们只是在现场呈现。我们知道这一点，因为你可以在我们选择的浏览器的网络流量工具中找到 100 页返回的所有结果。客户端代码将完成剩余的分页工作。
 
-[![](../Images/487a8fc6a2e5e007dc24d4e6711b7034.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PRQfVagD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/hmlVle3.png)
+[![](img/487a8fc6a2e5e007dc24d4e6711b7034.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PRQfVagD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/hmlVle3.png)
 
 ### CosmosDB 分页支持
 
@@ -16,7 +16,7 @@ CosmosDB 不支持传统类型的跳转分页。相反，结果总是以最大�
 
 然而，跳过分页是自 2014 年 8 月以来请求最多的 CosmosDB 特性。ComosDB 团队官方账号在 2018 年 3 月回复说，他们正在计划实施，所以我们很好。
 
-[![](../Images/4b689a5f709604030b80d2383f088e65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_5QJhF8O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/vDpygqr.png)
+[![](img/4b689a5f709604030b80d2383f088e65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_5QJhF8O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/vDpygqr.png)
 
 根据目前发布特性的速度来判断，我不认为它会很快发布，所以我们需要一个替代品，至少现在是这样。
 
@@ -33,7 +33,7 @@ MaxItemCount 是枚举操作中返回的最大项数。他们可以少一点，�
 
 ### 宇航员的实现
 
-[![](../Images/9ca4248fce91786aac2568e139a3f6e3.png)T2】](https://github.com/Elfocrash/Cosmonaut)
+[![](img/9ca4248fce91786aac2568e139a3f6e3.png)T2】](https://github.com/Elfocrash/Cosmonaut)
 
 自从我开始开发 [Cosmonaut](https://github.com/Elfocrash/Cosmonaut) 以来，我知道，最终，我必须添加流畅的分页支持。
 

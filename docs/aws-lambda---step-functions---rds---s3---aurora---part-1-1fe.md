@@ -4,7 +4,7 @@
 
 这是第一篇关于将步骤功能集成到特定工作流的文章。这是我的第一个 python 代码的一个公共回购，我也在学习这个。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [迪戈纳·阿尔瓦雷斯](https://github.com/diegonalvarez) / [双阶跃函数](https://github.com/diegonalvarez/bi-step-functions)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [迪戈纳·阿尔瓦雷斯](https://github.com/diegonalvarez) / [双阶跃函数](https://github.com/diegonalvarez/bi-step-functions)
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 

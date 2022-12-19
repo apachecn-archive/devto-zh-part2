@@ -20,14 +20,14 @@
 
 假设您的 laravel 项目名为 laravel50，文件夹结构如下:
 
-[![Your Project Structure](../Images/2e12595a5e4801fdcd44d7733c092be9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q8Avbn6T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gkdyzo3cffk3o38xvybr.png)
+[![Your Project Structure](img/2e12595a5e4801fdcd44d7733c092be9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q8Avbn6T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gkdyzo3cffk3o38xvybr.png)
 
 注意:我建议您保持一切原样，包括。htaccess 文件。
 
 1.  压缩本地计算机上的整个项目文件夹。您将得到一个 zip 文件——laravel 50 . zip
 
 2.  打开您的共享托管 cPanel。
-    [![cPanel Home on shared hosting](../Images/3e99a09cc382fd1384899fefeb707867.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--breRKGZK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cezwa3tda9fwjc8ps075.png)
+    [![cPanel Home on shared hosting](img/3e99a09cc382fd1384899fefeb707867.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--breRKGZK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cezwa3tda9fwjc8ps075.png)
 
 3.  点击“文件管理器”
 
@@ -37,7 +37,7 @@
 
 6.  解压缩 laravel50.zip。您的 cPanel 文件管理器应该类似于下面这样:
 
-[![cPanel File manager](../Images/e3e54af54c404b9e023bd57824cd8af5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QfFvgtX6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/la3tti3vh7toc7fpf9fa.png)
+[![cPanel File manager](img/e3e54af54c404b9e023bd57824cd8af5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QfFvgtX6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/la3tti3vh7toc7fpf9fa.png)
 
 1.  打开 laravel50 文件夹，将 public 文件夹的内容移动到 cpanel 的 public_html 文件夹中。您现在也可以删除空的公共文件夹。
 
@@ -93,14 +93,14 @@ Laravel Framework 的一个优点是，它使您能够用一个命令`php artisa
 1.  大多数 cPanel 都带有 PHPMyAdmin 和 Mysql 数据库向导。使用 Mysql 数据库向导创建一个[数据库和用户],然后将用户分配到允许所有权限的数据库。记下用户名和密码，您很快就会用到。
 
 2.  使用 cpanel 的 PHPMyAdmin 创建您的表。为了有效地完成这项工作，请在本地机器上打开 PHPMyAdmin。对于每个表结构，在 cPanel 的 PHPMyAdmin 上创建精确的结构。
-    [![This is an Example](../Images/75201049fc31090f0681cb8459099a11.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--LgGTmp8u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ej9k5nvva1epsyezlolo.png)
+    [![This is an Example](img/75201049fc31090f0681cb8459099a11.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--LgGTmp8u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ej9k5nvva1epsyezlolo.png)
 
 3.  还有另一种从本地机器导入和导出数据库的方法。从你的计算机登录到 PHPMyAdmin，找到你的项目使用的数据库，从工具栏中找到导出工具。
 
-[![This is an Example](../Images/00f75e062f50f5cd6687bb165b369167.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--esR4IYCu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tu33626wo11s1gpztc2c.png) 
+[![This is an Example](img/00f75e062f50f5cd6687bb165b369167.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--esR4IYCu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tu33626wo11s1gpztc2c.png) 
 导出后移至您的共享主机并做同样的操作，但这次我们使用的是导入工具
 
-[![This is an Example](../Images/ed6cc2129d7e0bc67f84728545101741.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--l_acwaV5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5ojdu1c9r4r1hkmqft6c.png) 
+[![This is an Example](img/ed6cc2129d7e0bc67f84728545101741.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--l_acwaV5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5ojdu1c9r4r1hkmqft6c.png) 
 如果上传成功你会看到‘成功信息’
 
 1.  在 cpanel 文件管理器上，导航到 laravel50(或您的 laravel 项目目录)。转到`config/database.php`。右键单击并选择“代码编辑”。找到第 55 行——您的 MySQL 配置部分。

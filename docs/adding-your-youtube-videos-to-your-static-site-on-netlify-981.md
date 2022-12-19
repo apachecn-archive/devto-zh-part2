@@ -110,6 +110,6 @@ permalink: /videos/
 
 最后一步是在我的网站的网络设置中指定吞咽任务:
 
-[![Netlify settings](../Images/7052af3666d5688a9c756e6d888359b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ap8hja21--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/08/netlify1.jpg)
+[![Netlify settings](img/7052af3666d5688a9c756e6d888359b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ap8hja21--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/08/netlify1.jpg)
 
 就是这样！如果你想真正看到这个，你可以在这里查看现场:[https://fervent-beaver-e5dc28.netlify.com/videos/](https://fervent-beaver-e5dc28.netlify.com/videos/)。这个演示的源代码在这里:【https://github.com/cfjedimaster/jekyllnetlifydemo T2】

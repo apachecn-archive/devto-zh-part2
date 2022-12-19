@@ -14,7 +14,7 @@
 
 ### [先睹为快](#sneak-peek)
 
-[![alt text](../Images/2e0407be59f04d596af69898065d6dc0.png "Small image carousel with Vue")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wSRV-1NK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lqd5gxqbkwkmoj02dfvi.gif)
+[![alt text](img/2e0407be59f04d596af69898065d6dc0.png "Small image carousel with Vue")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wSRV-1NK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lqd5gxqbkwkmoj02dfvi.gif)
 
 ### 让我们来谈技术
 
@@ -61,7 +61,7 @@
 Enter fullscreen mode Exit fullscreen mode
 
 在一点 CSS 之后，它看起来像这样:
-[![alt text](../Images/f6157d6a04f7f70594b708ce6569ae79.png "Carousel skeleton")](https://res.cloudinary.com/practicaldev/image/fetch/s--x00GYTPs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rlrtp2zzunh2hh7sh3xr.png)
+[![alt text](img/f6157d6a04f7f70594b708ce6569ae79.png "Carousel skeleton")](https://res.cloudinary.com/practicaldev/image/fetch/s--x00GYTPs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rlrtp2zzunh2hh7sh3xr.png)
 
 既然我们已经解决了样式问题，我们可以把注意力放在功能上了🤖
 
@@ -191,7 +191,7 @@ Enter fullscreen mode Exit fullscreen mode
 Enter fullscreen mode Exit fullscreen mode
 
 这是完成的项目(再次😅)
-[![alt text](../Images/2e0407be59f04d596af69898065d6dc0.png "Small image carousel with Vue")T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--wSRV-1NK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lqd5gxqbkwkmoj02dfvi.gif)
+[![alt text](img/2e0407be59f04d596af69898065d6dc0.png "Small image carousel with Vue")T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--wSRV-1NK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lqd5gxqbkwkmoj02dfvi.gif)
 
 🎉谢谢你通读这些，我希望你能找到一些有用的东西🎉
 

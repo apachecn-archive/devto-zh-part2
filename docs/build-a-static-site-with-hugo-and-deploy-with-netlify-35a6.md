@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/lauragift21/build-a-static-site-with-hugo-and-deploy-with-netlify-35a6>
 
-[![Hugo](../Images/9f46ec0aafd2998e1e4c79425548c3b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SCIPsO-F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://giuliovdev.gallerycdn.vsassets.io/extensions/giuliovdev/hugo-extension/1.0.0/1503297014062/images/hugo-logo.png)
+[![Hugo](img/9f46ec0aafd2998e1e4c79425548c3b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SCIPsO-F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://giuliovdev.gallerycdn.vsassets.io/extensions/giuliovdev/hugo-extension/1.0.0/15032970140img/hugo-logo.png)
 
 我将重点介绍如何用 Hugo 构建一个快速站点，并在瞬间部署到 netlify。但在开始建造之前，我们必须了解雨果和奈利菲是什么。
 
@@ -62,12 +62,12 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是最简单的一步，我们只需要创建一个 netlify 账户，将你的 GitHub 档案连接到 netlify。
 
-[![alt text](../Images/52522e05fe12e85579fa2ac198c2c182.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6bZu6xq0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.netlify.com/6ce8bf46dcc8bfc6d6ef982c7870eb86e32d2b8c/89152/img/blog/step-2-hugo.png)
+[![alt text](img/52522e05fe12e85579fa2ac198c2c182.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6bZu6xq0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.netlify.com/6ce8bf46dcc8bfc6d6ef982c7870eb86e32d2b8c/89152/img/blog/step-2-hugo.png)
 
 之后，从 Netlify 仪表板创建一个新站点，并在 GitHub 上连接您的远程存储库。
 
 使用此设置创建部署命令并进行部署。
 
-[![Screenshot](../Images/3a87ed389b91e415b40f261d022b2bb2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vGt3FsGR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/lauragift/image/upload/v1519148146/Screenshot_from_2018-02-20_18-30-47_zoifgr.png)
+[![Screenshot](img/3a87ed389b91e415b40f261d022b2bb2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vGt3FsGR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/lauragift/image/upload/v1519148146/Screenshot_from_2018-02-20_18-30-47_zoifgr.png)
 
 Viola，通过这些快速步骤，你已经成功地用 Hugo 和 Netlify 构建并部署了你的站点。这篇文章最初发布在我的[博客](https://www.giftegwuenu.com/2018/03/20/build-a-static-site-with-hugo-and-deploy-with-netlify/)

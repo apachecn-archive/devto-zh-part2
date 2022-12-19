@@ -14,7 +14,7 @@ Node.js 核心的简单性及其模块化带来了很多优势:首先是可重�
 
 ## 窝哲学与好处
 
-这是你可以在[nestjs.com](https://nestjs.com/):[![](../Images/052a46d986202c73c3f18ebcccb321ae.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--aC9bXGrP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://samueleresca.net/wp-content/uploads/2018/02/28507035-160x160.png)上找到的定义
+这是你可以在[nestjs.com](https://nestjs.com/):[![](img/052a46d986202c73c3f18ebcccb321ae.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--aC9bXGrP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://samueleresca.net/wp-content/uploads/2018/02/28507035-160x160.png)上找到的定义
 
 > 一个渐进式 Node.js 框架，用于构建高效且可伸缩的服务器端应用程序。让我们一起向全世界展示 Node.js 潜力吧！
 

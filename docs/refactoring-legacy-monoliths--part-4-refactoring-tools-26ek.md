@@ -36,7 +36,7 @@ NDepend 有如此多的功能，几乎让人应接不暇(这是一件好事)。�
 
 就像任何伟大的软件一样，NDepend 有一个令人敬畏的仪表板。
 
-[![NDepend dashboard](../Images/43ef72b11807ff46a5ffb2e1845643b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rBieYUrh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.ndepend.com/Doc/VS_CQL/Dashboard.png)
+[![NDepend dashboard](img/43ef72b11807ff46a5ffb2e1845643b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rBieYUrh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.ndepend.com/Doc/VS_CQL/Dashboard.png)
 
 从这里，您可以深入到“问题”中，这将为您提供一个列表，按严重性排序，列出您的代码库中的特定问题。记下最常见的广泛传播的问题，可以让您对代码库可能存在的总体技术问题有所了解。
 

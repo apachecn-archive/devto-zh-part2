@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/joshuaswift/coding-warmups--44oc>
 
-[![Man stretching before exercise](../Images/efa48d0e0914238059283d672edc4dd1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RPxcUru_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/dsjoktefu/image/upload/v1524553986/abigail-keenan-7852-unsplash_gkoiel.jpg)
+[![Man stretching before exercise](img/efa48d0e0914238059283d672edc4dd1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RPxcUru_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/dsjoktefu/image/upload/v1524553986/abigail-keenan-7852-unsplash_gkoiel.jpg)
 
 体育锻炼前的热身是必不可少的。即使锻炼强度不大，不正确的准备也可能导致受伤，这可能会让你缺席几周或几个月。
 
@@ -10,7 +10,7 @@
 
 事实上，一旦我开始编码，我发现它非常令人愉快，挑战实际上让我保持兴趣和投入。即使有了这些知识，如果我面前的任务不是在公园散步，我的蜥蜴脑仍然经常害怕编码的想法。
 
-> ![Dan Abramov profile image](../Images/8410abe414a98a3109390b1a1f7377ee.png)丹阿布拉莫夫[@丹 _ 阿布拉莫夫](https://dev.to/dan_abramov)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)一些我以为会随着时间而消失的东西却没有:开始着手解决一个问题的阻力。我必须积极强迫自己，因为前 15 分钟是无法忍受的。2018 年 4 月 28 日下午 13:15[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=990217946231427077)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=990217946231427077)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=990217946231427077)
+> ![Dan Abramov profile image](img/8410abe414a98a3109390b1a1f7377ee.png)丹阿布拉莫夫[@丹 _ 阿布拉莫夫](https://dev.to/dan_abramov)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)一些我以为会随着时间而消失的东西却没有:开始着手解决一个问题的阻力。我必须积极强迫自己，因为前 15 分钟是无法忍受的。2018 年 4 月 28 日下午 13:15[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=990217946231427077)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=990217946231427077)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=990217946231427077)
 
 为了解决这个问题，当我预计编码过程会特别困难或费力时，我就开始“热身”。这可以采取不同的形式，但通常涉及一个轻松的活动，不会给大脑带来太多压力或负担，但仍能吸引我，让我有心情编码。这有欺骗大脑不再害怕未来任务的效果，反而让我兴奋地开始行动！
 

@@ -4,7 +4,7 @@
 
 #### 我们的开发最佳实践基准显示了零碎的改进
 
-<figure>[![](../Images/12501c0cb7f59fbc92ad540f2907abfe.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9sNSBPlR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/480/1%2A21nZVyitOSukejh1cuug_Q.gif) 
+<figure>[![](img/12501c0cb7f59fbc92ad540f2907abfe.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9sNSBPlR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/480/1%2A21nZVyitOSukejh1cuug_Q.gif) 
 
 <figcaption>遵循最佳实践还是盲目键入？</figcaption>
 
@@ -22,7 +22,7 @@
 
 随着我们收集了更多的观察资料，获得了更多的经验，我们决定拿出我们的科学技能(🎓)并构建结构化评估模型。该模型收集了一系列关于给定团队应用了哪些开发实践的检查，但是也为团队何时完全、部分或根本不应用那些实践设置了阈值。我们已经使用这个模型很多年了，为团队提供客观的反馈和与同行的比较。
 
-<figure>[![](../Images/ea669a7be28fa830af848e5cf551ef1e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CN5j39Sa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2APWcz9eQ3Wx-WTV-LYL5TmA.png) 
+<figure>[![](img/ea669a7be28fa830af848e5cf551ef1e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CN5j39Sa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2APWcz9eQ3Wx-WTV-LYL5TmA.png) 
 
 <figcaption>有效软件开发的十大最佳实践。*我们在《构建软件团队》一书中详细描述了我们的软件开发最佳实践的结构化评估模型。*</figcaption>
 
@@ -40,7 +40,7 @@
 
 例如，一个只需按一下按钮就能部署每个新版本的团队将在这一实践中获得满分，编码为*完全应用*。但是一个团队需要经历有限数量的记录良好的手动步骤，将被评分为*部分应用*。
 
-<figure>[![](../Images/2d6728b50f7dae3f5bf852b61fdd9a8d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--eE-W4WgV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/455/1%2Ay_7Ob43UOH7L9JOyvwNy0Q.gif) 
+<figure>[![](img/2d6728b50f7dae3f5bf852b61fdd9a8d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--eE-W4WgV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/455/1%2Ay_7Ob43UOH7L9JOyvwNy0Q.gif) 
 
 <figcaption>更多的团队完全应用部署自动化(43%，30%)，更少的团队根本不应用部署自动化(11%，26%)。</figcaption>
 
@@ -50,9 +50,9 @@
 
 这是一个重要的积极趋势，反映在**持续集成**(每次变更后自动编译和测试)和**持续交付**(每次变更后自动部署)中，如下图所示。
 
-[![](../Images/8adedee557065fe2a22b1f73b8335089.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FoVotaaR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/456/1%2AoZpk7WO6OzbbMQFKp4YPFg.gif)
+[![](img/8adedee557065fe2a22b1f73b8335089.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FoVotaaR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/456/1%2AoZpk7WO6OzbbMQFKp4YPFg.gif)
 
-<figure>[![](../Images/4b7fcbf47e70cf64abcef02f63f8dadc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XJnEAP6---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/456/1%2Amx1EQUCaMpxK9ScOd6omeQ.gif) 
+<figure>[![](img/4b7fcbf47e70cf64abcef02f63f8dadc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XJnEAP6---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/456/1%2Amx1EQUCaMpxK9ScOd6omeQ.gif) 
 
 <figcaption>完全或部分采用持续集成(目前为 68%)已经有了显著改善，但与部署自动化(目前为 89%)相比仍然落后。对于持续交付，采用率也有显著提高，但仍有很长的路要走(目前为 29%)。</figcaption>
 
@@ -62,7 +62,7 @@
 
 **第二课:几乎所有的团队都整理了积压的工作**
 
-<figure>[![](../Images/0818d13d0d53accfc4121f6ea0dbc0cb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bzzND5yT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/456/1%2AkRqcwa9lrlxL0CdCt7g3xQ.gif) 
+<figure>[![](img/0818d13d0d53accfc4121f6ea0dbc0cb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bzzND5yT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/456/1%2AkRqcwa9lrlxL0CdCt7g3xQ.gif) 
 
 <figcaption>几乎所有的团队(95%，92%)都维护产品和 sprint 积压工作，并且有更大比例的团队完全应用了这种最佳实践(80%，71%)。</figcaption>
 
@@ -72,7 +72,7 @@
 
 事实上，我们评估的大多数敏捷-Scrum 最佳实践显示了改进，或者稳定的高采用率。只有一个小小的例外:
 
-<figure>[![](../Images/265200b39b7d0eb5f452b960ed3c7ba7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CjDPuZ8X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/456/1%2AkpG3rmu53BCeq-Uny6JULw.gif) 
+<figure>[![](img/265200b39b7d0eb5f452b960ed3c7ba7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CjDPuZ8X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/456/1%2AkpG3rmu53BCeq-Uny6JULw.gif) 
 
 <figcaption>更多的团队不遵守 Scrum 规定的召开所有会议的纪律(15%，高于 11%)。</figcaption>
 
@@ -82,9 +82,9 @@
 
 **第三课:代码质量控制和测试正在改进**
 
-[![](../Images/d6e73328c5a23aaf548f13d7aef14422.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OgTdWYvl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/455/1%2AmBCkooqSLlkmKAl1zms6uw.gif)
+[![](img/d6e73328c5a23aaf548f13d7aef14422.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OgTdWYvl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/455/1%2AmBCkooqSLlkmKAl1zms6uw.gif)
 
-<figure>[![](../Images/bdee3c5f6803033e499fd1a142a39e79.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hgT5GRXg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/456/1%2AQymvdFn9WrevkmouU2h5LQ.gif) 
+<figure>[![](img/bdee3c5f6803033e499fd1a142a39e79.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hgT5GRXg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/456/1%2AQymvdFn9WrevkmouU2h5LQ.gif) 
 
 <figcaption>更少的团队未能执行一致的代码质量标准(从 25%下降到 20%)。更少的团队在每次提交时没有运行自动化测试(从 48%下降到 41%)。</figcaption>
 

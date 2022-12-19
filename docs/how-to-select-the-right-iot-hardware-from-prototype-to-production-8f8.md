@@ -4,7 +4,7 @@
 
 #### 探索物联网开发套件、MPM 套件和量产模块之间差异的全面指南
 
-[![](../Images/b410c9a79d6866275a01f4a67c1f780a.png)T2】](https://cdn-images-1.medium.com/max/1024/1*YH_uDaxpOcaod2LBIhrGGg.jpeg)
+[![](img/b410c9a79d6866275a01f4a67c1f780a.png)T2】](https://cdn-images-1.medium.com/max/1024/1*YH_uDaxpOcaod2LBIhrGGg.jpeg)
 
 物联网开发板和模块是每个互联产品的核心。随着物联网的发展，这些主板的种类和技术能力只会变得更加复杂。当构建物联网产品时，您可能希望从简单的原型开发套件开始，但随着硬件开发和设计流程的进展，您将需要投资用于扩展和制造的硬件板。
 
@@ -34,7 +34,7 @@
 
 例如， [Particle](https://www.particle.io/) 生产三种基本的硬件——开发套件(dk)、评估套件(evk)和大规模生产模块(MPM)。这些定义如下:
 
-[![](../Images/9e42ae9c979eb7232857d6cfcb615bc7.png)T2】](https://cdn-images-1.medium.com/max/1000/0*ZAtehe3M2aiVPVrL.jpg)
+[![](img/9e42ae9c979eb7232857d6cfcb615bc7.png)T2】](https://cdn-images-1.medium.com/max/1000/0*ZAtehe3M2aiVPVrL.jpg)
 
 ### 开发套件(dk)
 
@@ -45,7 +45,7 @@
 3.  **观众** —对硬件非常陌生的业余开发人员和工程师
 4.  **举例**——[氩气](https://www.particle.io/wifi)、[硼](https://www.particle.io/cellular)
 
-[![](../Images/1454cadcbcb2c288ea53e2a4c8de35c0.png)T2】](https://cdn-images-1.medium.com/max/768/0*wBe0J5CSXeAIdmce.jpg)
+[![](img/1454cadcbcb2c288ea53e2a4c8de35c0.png)T2】](https://cdn-images-1.medium.com/max/768/0*wBe0J5CSXeAIdmce.jpg)
 
 ### 批量生产模块(MPMs)
 
@@ -56,7 +56,7 @@
 3.  **受众** —规模化生产产品的公司
 4.  **举例**—[P0](https://docs.particle.io/datasheets/photon-(wifi)/photon-datasheet/)/[P1](https://docs.particle.io/datasheets/photon-(wifi)/p1-datasheet/)/[E 系列 MPMs](https://docs.particle.io/datasheets/electron-(cellular)/e-series-datasheet/)
 
-[![](../Images/1ffe4d8328c86834648e687d6470f374.png)T2】](https://cdn-images-1.medium.com/max/1024/0*rZEP150fIwkK39df.png)
+[![](img/1ffe4d8328c86834648e687d6470f374.png)T2】](https://cdn-images-1.medium.com/max/1024/0*rZEP150fIwkK39df.png)
 
 ### MPM 评估套件(EVKs)
 

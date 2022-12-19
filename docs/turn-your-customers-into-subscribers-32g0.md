@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/franken/turn-your-customers-into-subscribers-32g0>
 
-[![](../Images/4a250aee8dedb4baa8b35064cdb6c6eb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LZBl4l09--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.prestasoo.com/images/stories/subscriptions/real-recurring-payment-by-paypal.gif) 
+[![](img/4a250aee8dedb4baa8b35064cdb6c6eb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LZBl4l09--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.prestasoo.cimg/stories/subscriptions/real-recurring-payment-by-paypal.gif) 
 [SOO Paypal 订阅&定期支付](https://www.prestasoo.com/prestashop-modules/subscriptions-prestashop-module.html)是 Prestashop 上最好的即插即用订阅管理模块，使企业能够启动订阅模式并管理其订户的整个生命周期。
 
 获取更多剩余收入

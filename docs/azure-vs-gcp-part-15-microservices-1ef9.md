@@ -43,7 +43,7 @@
 
 这意味着，如果我已经有了包含代码的容器，我可以简单地将它们放在服务结构上来构建微服务架构。不需要额外投资。
 
-[![menu](../Images/4756b49c8be1a2d0c1cf682278ef6246.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zEYw8tCQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2exyo29ji1k7e7k11qvx.PNG)
+[![menu](img/4756b49c8be1a2d0c1cf682278ef6246.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zEYw8tCQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2exyo29ji1k7e7k11qvx.PNG)
 
 ### [T1。网络应用](#net-application)
 

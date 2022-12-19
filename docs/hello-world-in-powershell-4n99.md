@@ -30,7 +30,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 要执行这段代码，只需在任何 Windows 机器上打开默认安装的 PowerShell 控制台。您将在窗口中看到如下的回复输出:
 
-[![Hello_World](../Images/676faa7dcde0264071cd179cf1c08373.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---hdtn9MC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/icyxqdj2qcih4ybdza6c.png)
+[![Hello_World](img/676faa7dcde0264071cd179cf1c08373.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---hdtn9MC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/icyxqdj2qcih4ybdza6c.png)
 
 与大多数现代脚本语言一样，运行 Hello World 示例非常容易。
 
@@ -48,4 +48,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 这会调用脚本并将输出返回到控制台:
 
-[![Hello_World_Script](../Images/1d1ae8a6b619edb2157510b060a56409.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sijp5VcG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7yzlsn708p253osdjfgn.png)
+[![Hello_World_Script](img/1d1ae8a6b619edb2157510b060a56409.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sijp5VcG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7yzlsn708p253osdjfgn.png)

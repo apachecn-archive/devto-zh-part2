@@ -14,7 +14,7 @@
 
 事情是这样的:客户机-服务器模型的运作有点像一个微型酿酒厂。如果你能理解微酿酒厂的不同部分，那么你就能理解网络服务器的基础。
 
-[![clientServerBasics.png](../Images/bb609dc3c1b8365c0e8d27d32ab7b48e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cv6mmdJZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/clientserverbasics.png%3Ffit%3D730%252C309%26ssl%3D1)
+[![clientServerBasics.png](img/bb609dc3c1b8365c0e8d27d32ab7b48e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cv6mmdJZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/clientserverbasics.png%3Ffit%3D730%252C309%26ssl%3D1)
 
 ## 客户端-服务器模式
 
@@ -26,7 +26,7 @@
 
 客户端的一个常见例子是像 Chrome 这样的网络浏览器。服务器位于远程位置，由亚马逊([亚马逊网络服务](https://en.wikipedia.org/wiki/Amazon_Web_Services))这样的公司管理。
 
-[![clientserverex1](../Images/54e53e7b8ca40cc98dba0fa1b9adc95a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iFXGso1g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/clientserverex1.png%3Ffit%3D730%252C336%26ssl%3D1)
+[![clientserverex1](img/54e53e7b8ca40cc98dba0fa1b9adc95a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iFXGso1g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/clientserverex1.png%3Ffit%3D730%252C336%26ssl%3D1)
 
 你可能认为这是一维的，就像“啊，这些是任何购买过程的基础！”但是，正如您稍后将看到的那样，随着更多的当事方参与进来，事情会变得更加复杂。
 
@@ -36,11 +36,11 @@
 
 在一个非常基本的例子中，一家超市可能会发送一个类似“我们需要 20 箱啤酒”的请求在未来的某个时刻，你的微酿酒厂会发送响应:被请求的啤酒。
 
-[![reqres1.png](../Images/b8405fd7a27625390203483c9aa79104.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A6MOnbMa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/reqres1.png%3Ffit%3D730%252C380%26ssl%3D1)
+[![reqres1.png](img/b8405fd7a27625390203483c9aa79104.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A6MOnbMa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/reqres1.png%3Ffit%3D730%252C380%26ssl%3D1)
 
 类似地，Chrome 等浏览器向集中式服务器发送请求，后者返回请求的数据。例如，当你加载一个像*reddit.com*这样的页面时，服务器必须根据最新的 upvote 和评论数据发送一个新版本的主页。
 
-[![reqresreal.png](../Images/ed6d31673b8b0346dd793516493c58ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Yb6XTHSL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/reqresreal.png%3Ffit%3D730%252C381%26ssl%3D1)
+[![reqresreal.png](img/ed6d31673b8b0346dd793516493c58ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Yb6XTHSL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/reqresreal.png%3Ffit%3D730%252C381%26ssl%3D1)
 
 所以你的下一个问题可能是，*“互联网如何大规模处理这些请求和响应？”*
 
@@ -52,7 +52,7 @@
 
 在你接受这一切之后，你可以向专门酿造啤酒的生产团队提出要求。
 
-[![dnsserver2](../Images/3fdc909179a89491579bc680742d07ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Iezg00NF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/dnsserver2.png%3Ffit%3D730%252C373%26ssl%3D1)
+[![dnsserver2](img/3fdc909179a89491579bc680742d07ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Iezg00NF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/dnsserver2.png%3Ffit%3D730%252C373%26ssl%3D1)
 
 所以，按顺序:
 
@@ -77,7 +77,7 @@
 *   订单发送给运营团队
 *   求职申请转到人力资源部
 
-[![PortsIntro.png](../Images/dbaecd0e14485fa8a33a9e28b8ab6f75.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3XJzjM1l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/portsintro.png%3Ffit%3D730%252C425%26ssl%3D1)
+[![PortsIntro.png](img/dbaecd0e14485fa8a33a9e28b8ab6f75.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3XJzjM1l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/portsintro.png%3Ffit%3D730%252C425%26ssl%3D1)
 
 就像一个微型酿酒厂一样，服务器为不同类型的请求提供路径。这些被称为 [**港口**](https://en.wikipedia.org/wiki/Port_(computer_networking)) 。一些常见的端口示例包括:
 
@@ -111,11 +111,11 @@
 
 那么，假设一个客户下了 1000 箱啤酒的大订单。微酿酒厂将需要与仓库沟通，以交付更多的瓶子。这是另一个请求-响应循环！
 
-[![doublereqres](../Images/cd9056662920acbf4d02f401285eddab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Kz30MNGb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/doublereqres.png%3Ffit%3D730%252C268%26ssl%3D1)
+[![doublereqres](img/cd9056662920acbf4d02f401285eddab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Kz30MNGb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/doublereqres.png%3Ffit%3D730%252C268%26ssl%3D1)
 
 在这种情况下，服务器既充当客户端又充当服务器。它接受来自最终用户的请求，但随后也向另一台服务器发送请求。它的响应取决于数据库服务器的响应。
 
-[![realdoublereqres.png](../Images/550152d10f891da2fb2a3f1ac5c28fbc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GX2IduK4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/realdoublereqres.png%3Ffit%3D730%252C262%26ssl%3D1)
+[![realdoublereqres.png](img/550152d10f891da2fb2a3f1ac5c28fbc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GX2IduK4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/realdoublereqres.png%3Ffit%3D730%252C262%26ssl%3D1)
 
 当然，最终用户看不到这些。从他们的角度来看，他们发出请求并收到响应。他们看不到幕后的服务器通信。
 
@@ -129,7 +129,7 @@ Heroku 是一种云服务，它允许 web 开发人员使用尽可能少的代�
 
 因此，如果您使用这个堆栈，当最终用户发出请求要求您访问数据库时，这个过程看起来会是这样的。
 
-[![herokucleardb.png](../Images/6c87c3485ec736eb5e08a33b2ce7e684.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ASHTdNHj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/herokucleardb.png%3Ffit%3D730%252C271%26ssl%3D1)
+[![herokucleardb.png](img/6c87c3485ec736eb5e08a33b2ce7e684.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ASHTdNHj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blog.codeanalogies.com/wp-content/uploads/2018/04/herokucleardb.png%3Ffit%3D730%252C271%26ssl%3D1)
 
 ## 获取最新教程
 

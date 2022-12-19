@@ -4,7 +4,7 @@
 
 "如果你讨厌你的工作，去贷款，你会开始喜欢它的"。我不记得在哪里读到的，但这听起来很有说服力。现在想想全球的科技就业市场，说它在增长是一种保守的说法，它正在蓬勃发展。尽管如此，为什么大学毕业生毕业后找不到工作呢？让我们仔细看看这个问题，并努力帮助技术专业的学生在课程结束后尽快找到工作。
 
-[![5 practical steps to land your first tech job](../Images/662691d76f99e3e9c6a9a0eef8dca571.png "5 practical steps to land your first tech job")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5YMnMigR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ehmzwapg2gx09iv24jbe.jpg)
+[![5 practical steps to land your first tech job](img/662691d76f99e3e9c6a9a0eef8dca571.png "5 practical steps to land your first tech job")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5YMnMigR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ehmzwapg2gx09iv24jbe.jpg)
 
 ## TLDR；
 
@@ -24,7 +24,7 @@
 
 从学生的角度来看，你需要研究什么与市场相关，自己学习，打造自己的品牌，这样你才能更快地推销自己的技能。举例来说，如果我面试一个拥有优秀科技博客的候选人，他的博客上有很多有用的和定期的帖子，甚至可能是中等的。你被聘用的几率已经上升了大约 5%。因为能够把你的想法/学习用语言表达出来是一个软件工程师的基本技能。
 
-[![5 practical steps to land your first tech job](../Images/cf9518445de9d1b8b6cbd0a5183a8f26.png "5 practical steps to land your first tech job")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8NZAs-3C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wnjezornlueut443p5r6.jpg)
+[![5 practical steps to land your first tech job](img/cf9518445de9d1b8b6cbd0a5183a8f26.png "5 practical steps to land your first tech job")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8NZAs-3C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wnjezornlueut443p5r6.jpg)
 
 ## 现在让我们开始行动吧
 

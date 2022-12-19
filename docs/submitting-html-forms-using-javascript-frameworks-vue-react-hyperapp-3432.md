@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/submitting-html-forms-using-javascript-frameworks-vue-react-hyperapp-3432>
 
-[![](../Images/03dae840b37103e99058ab0bbf35a4f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A8RyhUTj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/512/1%2A8CbHmOJSxE53VvpHJdPulw.png)
+[![](img/03dae840b37103e99058ab0bbf35a4f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A8RyhUTj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/512/1%2A8CbHmOJSxE53VvpHJdPulw.png)
 
 HTML 表单可以在提交表单和等待响应时声明性地发送一个 [HTTP](https://developer.mozilla.org/en-US/docs/HTTP) 请求。但是，在得到结果之前，您必须等待整个页面重新加载，这通常不是最佳的用户体验。
 
@@ -52,7 +52,7 @@ Form 不是指 HTML 表单，而是指我们在 Vue 组件中用于绑定的对�
 
 最后，如果您查看 button 元素，您会注意到一个名为@click 的小指令。这个指令将按钮的 click 事件绑定到 Vue，指示 Vue 在按钮被点击时做什么。
 
-[![](../Images/184dfcc3649f17c50808cfdfb9409f6a.png)T2】](https://logrocket.com/?cid=banner_b)
+[![](img/184dfcc3649f17c50808cfdfb9409f6a.png)T2】](https://logrocket.com/?cid=banner_b)
 
 **在表单中实现 Vue**
 
@@ -411,7 +411,7 @@ const h = hyperapp.h;
 
 ### Plug: [LogRocket](http://logrocket.com) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

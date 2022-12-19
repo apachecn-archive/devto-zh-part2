@@ -161,11 +161,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果我通过`node doSomething.test.js`运行该代码，并且一切正常，它看起来像:
 
-[![Terminal output with success message](../Images/309e174468e4d7c1cbee2445ba4ffea3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hjLDJPCU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kevinlamping.com/content/images/2018/06/1-success.png)
+[![Terminal output with success message](img/309e174468e4d7c1cbee2445ba4ffea3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hjLDJPCU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kevinlamping.com/conteimg/2018/06/1-success.png)
 
 如果我的代码有问题(比如我忘记导出函数)，断言将抛出一个错误，如下所示:
 
-[![Terminal output with error message](../Images/ffb2a08138007ba0a056c00565e2add9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fbjbeMmP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kevinlamping.com/content/images/2018/06/2-fail.png)
+[![Terminal output with error message](img/ffb2a08138007ba0a056c00565e2add9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fbjbeMmP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kevinlamping.com/conteimg/2018/06/2-fail.png)
 
 因为断言抛出一个错误，所以`console`消息永远不会被写出，因为 node 在抛出错误后会立即停止执行。
 
@@ -245,11 +245,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是一次成功的运行:
 
-[![Terminal message with custom success message](../Images/0c46f65cc8f6e6863ec2552b0c4f3b33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3CLm5A3q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kevinlamping.com/content/images/2018/06/3-passed.png)
+[![Terminal message with custom success message](img/0c46f65cc8f6e6863ec2552b0c4f3b33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3CLm5A3q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kevinlamping.com/conteimg/2018/06/3-passed.png)
 
 这里有一个失败的例子:
 
-[![Terminal message with custom failure message](../Images/6f997970d9cb49e4f3711b9f2f1e84af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5KQDot6n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kevinlamping.com/content/images/2018/06/4-fail.png)
+[![Terminal message with custom failure message](img/6f997970d9cb49e4f3711b9f2f1e84af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5KQDot6n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kevinlamping.com/conteimg/2018/06/4-fail.png)
 
 下面是更新后的代码:
 
@@ -320,7 +320,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在添加了几个测试(故意让一个测试失败)之后，输出如下所示:
 
-[![Full terminal output with success and 'bright' error messages](../Images/af730f81fac00ab6f478c3438ba44b68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nyLAlqYL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kevinlamping.com/content/images/2018/06/5-fail.png)
+[![Full terminal output with success and 'bright' error messages](img/af730f81fac00ab6f478c3438ba44b68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nyLAlqYL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kevinlamping.com/conteimg/2018/06/5-fail.png)
 
 下面是更新后的代码:
 
@@ -336,7 +336,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 对于那些对代码覆盖率上瘾的人，这里有一个“100%覆盖率”徽章，可以贴在你的 repo 自述文件上:
 
-[![meaningless "100% coverage" badge :p](../Images/fcdf43d1626732b7e8da8df45635f397.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0a0TcbjH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kevinlamping.com/content/images/2018/06/coveralls_100.svg)
+[![meaningless "100% coverage" badge :p](img/fcdf43d1626732b7e8da8df45635f397.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0a0TcbjH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.kevinlamping.com/conteimg/2018/06/coveralls_100.svg)
 
 * * *
 

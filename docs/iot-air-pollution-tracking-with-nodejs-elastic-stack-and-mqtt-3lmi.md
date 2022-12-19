@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/sematext/iot-air-pollution-tracking-with-nodejs-elastic-stack-and-mqtt-3lmi>
 
-[![](../Images/09d97862284dd79c20b3220bce15c32e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TU665XIL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sematext.com/wp-content/uploads/2018/02/iot-for-environment-protection%402x-1-1024x573.png)
+[![](img/09d97862284dd79c20b3220bce15c32e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TU665XIL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sematext.com/wp-content/uploads/2018/02/iot-for-environment-protection%402x-1-1024x573.png)
 
 你能用几个物联网设备 Node.js、Elasticsearch 和 MQTT 做什么？你可以像我一样，建立自己的物联网系统来测量空气污染。在这篇博文中，我将分享关于硬件设置、软件配置、数据分析、物联网仪表板以及 MQTT 基于代理与物联网生态系统中其他工具(如 Node-Red 和 Octoblu)的集成的所有细节。当然，我也会分享一些在德国几个地点进行的空气污染物联网传感器测量的有趣发现。看一看——当你使用正确的工具时，做这件事比你想象的要容易得多！
 
@@ -24,7 +24,7 @@
 
 好了，让我们从技术角度出发，首先看看我组装的物联网传感器设备的硬件设置:
 
-[![](../Images/c1915afae5eb2a09e911999956f00c04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_9E6GFxX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sematext.com/wp-content/uploads/2018/02/image10.png)
+[![](img/c1915afae5eb2a09e911999956f00c04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_9E6GFxX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sematext.com/wp-content/uploads/2018/02/image10.png)
 
 这就是我们的设置。让我们来看看这款物联网传感器设备的各个部分是什么，有什么作用:
 
@@ -40,7 +40,7 @@
 
 软件架构基于 [MQTT](https://en.wikipedia.org/wiki/MQTT) 消息，旨在扩展到数千台设备，并支持一种简单的方式来实时共享数据以进行任何类型的处理。我们为 Node.js 中的 [@sematext/logagent](https://github.com/sematext/logagent-js) 创建了[开源插件](https://sematext.com/docs/logagent/plugins/)，用于收集和关联来自 *Nova SDS011* 传感器和 GPS 设备的数据。测量结果以 JSON 格式发送给 MQTT 代理，它可以将数据存储在 Elasticsearch 中，或者像我们一样，存储在 Sematext Cloud 中。基于 MQTT 的架构允许其他客户端监听事件流，并在达到 PM10 限制时创建警报或公共 tweets 或控制交通灯。此外，MQTT 消息被记录下来用于历史分析和可视化。
 
-<figure>[![](../Images/8d5cc1230c2d74a8888791d0f0a64048.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rBlDlV7A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sematext.com/wp-content/uploads/2018/02/image11.png) 
+<figure>[![](img/8d5cc1230c2d74a8888791d0f0a64048.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rBlDlV7A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sematext.com/wp-content/uploads/2018/02/image11.png) 
 
 <figcaption>*建筑*</figcaption>
 
@@ -111,7 +111,7 @@ output:
 
 如果你想以某种方式处理测量结果或对其采取行动，你可以使用像 [Node-Red](https://nodered.org/) 或 [Octoblu](https://octoblu.github.io/) 这样的工具，并创建物联网工作流。例如，Node-Red 中的 MQTT 插件将 MQTT broker 地址和主题作为参数，因此您可以使用它来订阅“传感器数据”主题，并在启动 Node-Red 指向 MQTT broker 时获取发送到 MQTT broker 的测量值，您将会在 Node-Red 工作流中获取空气污染数据。然后，您根据收到的测量结果执行各种操作。例如，您可以在条件匹配时发布消息，或者根据传感器值改变 LED 灯的颜色，或者您可以控制空调……这里的可能性是无限的！从更大的角度考虑，智能城市可能会选择控制交通，并将空气污染作为交通路线决策的标准之一。节点红色架构可以插入设备、逻辑元件或[神经网络](https://flows.nodered.org/node/node-red-contrib-neuralnet)组件。Node-Red 是一个很好的平台，可以根据空气污染测量结果构建任何逻辑的原型。
 
-<figure>[![](../Images/de5a3a25f1e72611a8ba187275c1a026.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--C_RSUHTs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sematext.com/wp-content/uploads/2018/02/image8.png) 
+<figure>[![](img/de5a3a25f1e72611a8ba187275c1a026.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--C_RSUHTs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sematext.com/wp-content/uploads/2018/02/image8.png) 
 
 <figcaption>节点-红色物联网工作流程</figcaption>
 
@@ -251,7 +251,7 @@ output:
 
 我在 Sematext 做的很多事情都与[性能监控](https://sematext.com/spm/)有关，所以我控制不住自己，不得不查看我的这个 DIY 物联网设置的遥测数据。基于 Node.js 的 Logagent 的低资源使用率令人印象深刻，它只有不到 1%的 CPU 和不到 34 MB 的内存。其他日志工具，如 Logstash，需要 20 倍以上的内存(600 MB 以上),并且会使用 Banana-Pi 或 Raspberry-Pi 等微型计算机上的大部分资源，很快就会耗尽电池！
 
-[![](../Images/7e5e0bca7af1c5c03314e8412c4ca801.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s9An2h8x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sematext.com/wp-content/uploads/2018/02/image1.png)
+[![](img/7e5e0bca7af1c5c03314e8412c4ca801.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s9An2h8x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sematext.com/wp-content/uploads/2018/02/image1.png)
 
 如果你像我一样对性能感兴趣，而且如果你想在你的设置出现性能或稳定性问题时得到通知，你可以添加如下所示的 [logagent-nodejs-monitor](https://github.com/megastef/logagent-nodejs-monitor) 插件。最后，我们通过文件输入插件收集所有设备日志来完成配置。/var/log 中的日志文件包含有价值的信息，如 Wi-Fi 状态或 USB 设备信息。
 
@@ -272,7 +272,7 @@ _service restart logagent_
 
 几秒钟后，我们将在 Sematext UI 中看到日志和指标。在一个视图中拥有性能指标和日志对于任何类型的故障排除都非常有价值。在我的例子中，USB 线接触不良，丢失的 USB 连接记录在/var/kern.log 中(见截图)。
 
-<figure>[![](../Images/7f76f7acfb669d422f272539c040f5c7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EWKwYYAA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sematext.com/wp-content/uploads/2018/02/image4.png) 
+<figure>[![](img/7f76f7acfb669d422f272539c040f5c7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EWKwYYAA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sematext.com/wp-content/uploads/2018/02/image4.png) 
 
 <figcaption>Node.js 性能指标和香蕉-Pi 日志在 Sematext Cloud</figcaption>
 
@@ -310,7 +310,7 @@ _service restart logagent_
 
 为了可视化所有数据，我使用了集成在 Sematext Cloud 中的 Kibana。一旦在 Kibana 中创建了可视化，我们就可以创建一个显示地图和传感器值的仪表板。乍看之下，我们可以立即发现，北部(我居住的地方)的空气污染比靠近主要街道的办公室低 50%。
 
-<figure>[![](../Images/88c2ea7e5cdc31f5a0759f7e9b268fba.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YEW5oT_E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sematext.com/wp-content/uploads/2018/02/image13.png) 
+<figure>[![](img/88c2ea7e5cdc31f5a0759f7e9b268fba.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YEW5oT_E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sematext.com/wp-content/uploads/2018/02/image13.png) 
 
 <figcaption>基巴纳仪表盘中的语义云</figcaption>
 
@@ -318,11 +318,11 @@ _service restart logagent_
 
 ## **各种场景下颗粒物浓度的观测**
 
-下图是我从办公室到家的旅途中记录的。图表中的尖峰发生在我停车并从车里拿出测量设备的时候。你可以看到，PM10 值在短时间内跃升至 80 克/平方米(T2 )( T3 ),这是欧盟平均每年 40 克/平方米上限的两倍，尽管只是一分钟。很高兴知道，与办公室相比，我家乡的空气中只有一半的颗粒物——至少只要我不启动我的柴油发动机……总之，这是一个留在家庭办公室的好理由。 [![🙂](../Images/1bb31e891282bfa40812655c9c9ace9e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DvXCaIjD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.org/images/core/emoji/11/72x72/1f642.png)
+下图是我从办公室到家的旅途中记录的。图表中的尖峰发生在我停车并从车里拿出测量设备的时候。你可以看到，PM10 值在短时间内跃升至 80 克/平方米(T2 )( T3 ),这是欧盟平均每年 40 克/平方米上限的两倍，尽管只是一分钟。很高兴知道，与办公室相比，我家乡的空气中只有一半的颗粒物——至少只要我不启动我的柴油发动机……总之，这是一个留在家庭办公室的好理由。 [![🙂](img/1bb31e891282bfa40812655c9c9ace9e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DvXCaIjD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.oimg/core/emoji/11/72x72/1f642.png)
 
-[![](../Images/3c796151c56c5893138fa7b2b0e01116.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KpRM2pCT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sematext.com/wp-content/uploads/2018/02/image5.png)
+[![](img/3c796151c56c5893138fa7b2b0e01116.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KpRM2pCT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sematext.com/wp-content/uploads/2018/02/image5.png)
 
-<figure>[![](../Images/bf40fcd5b764fd9ad8b8121e78739c60.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zLNDkstv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sematext.com/wp-content/uploads/2018/02/image3.png)
+<figure>[![](img/bf40fcd5b764fd9ad8b8121e78739c60.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zLNDkstv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sematext.com/wp-content/uploads/2018/02/image3.png)
 
 <figcaption>【PM10】维斯基兴(橙色)和纳尔巴赫(红色)</figcaption>
 
@@ -332,13 +332,13 @@ _service restart logagent_
 
 拥有仪表板很酷，但是你不能整天看着仪表板。所以让我们使用警报。开源的 ELK 堆栈有其局限性——没有内置警报——但我们可以在 Sematext Cloud 中使用警报。此处保存的查询仅过滤大于 40(欧盟限值)或 50(德国限值)的 PM10 值，用于触发警报:
 
-<figure>[![](../Images/b1a16ceed9db942e9bd5f2db2f5445ac.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--j0DmqXi9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sematext.com/wp-content/uploads/2018/02/image14.png) 
+<figure>[![](img/b1a16ceed9db942e9bd5f2db2f5445ac.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--j0DmqXi9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sematext.com/wp-content/uploads/2018/02/image14.png) 
 
 <figcaption>为 PM10 值 50 以上设置预警。</figcaption>
 
 </figure>
 
-<figure>[![](../Images/a1ba01995283c2f13523acb4a30bb732.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--r2z1xfFO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sematext.com/wp-content/uploads/2018/02/image12.png) 
+<figure>[![](img/a1ba01995283c2f13523acb4a30bb732.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--r2z1xfFO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sematext.com/wp-content/uploads/2018/02/image12.png) 
 
 <figcaption>语义界面</figcaption>
 
@@ -350,13 +350,13 @@ _service restart logagent_
 
 语义界面中的
 
-<figure>[![](../Images/40ec4e7f02ee675ddf4141c014e9bade.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--R-452d5J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sematext.com/wp-content/uploads/2018/02/image15.png) 
+<figure>[![](img/40ec4e7f02ee675ddf4141c014e9bade.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--R-452d5J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sematext.com/wp-content/uploads/2018/02/image15.png) 
 
 <figcaption>仪表盘，包括预警通知</figcaption>
 
 </figure>
 
-<figure>[![](../Images/c7f6fcaa93321482ea020025934c10e9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--aUXh2bbU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sematext.com/wp-content/uploads/2018/02/image2.png)
+<figure>[![](img/c7f6fcaa93321482ea020025934c10e9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--aUXh2bbU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sematext.com/wp-content/uploads/2018/02/image2.png)
 
 <figcaption>PM10 达到 PM10 > 40 或 PM10 > 50</figcaption>
 
@@ -368,10 +368,10 @@ _service restart logagent_
 
 各种传感器设备的成本都很低，组装这些设备和安装软件只需几个小时。我花了很长时间来为各种小问题找到好的解决方案，并编写了几个 Logagent 插件，但即使编写一个插件模块也只需要几个小时。使用 [Sematext Cloud](https://sematext.com/cloud) 而不是本地 ELK 栈为服务器设置节省了大量时间(我不需要任何物理或云服务器，只需要设备和 Sematext SaaS)。对 Elasticsearch 查询的提醒和对 Slack 的提醒使解决方案更加完整。
 
-这个项目中最大的满足感来源是用“电子鼻”让看不见的东西变得可见——你会觉得自己像一个捉鬼敢死队员！当一扇窗户被打开时，或者当你开始用吸尘器打扫客厅时，或者当你在编程时忘记把意大利面放在炉子上时，你会发现 PM10 值在增加……[![🙂](../Images/1bb31e891282bfa40812655c9c9ace9e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DvXCaIjD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.org/images/core/emoji/11/72x72/1f642.png)当邻居发动汽车引擎时，当一个游客把车停在你家门前时，当一个客人开始在阳台上抽烟时，外部传感器会“闻到”
+这个项目中最大的满足感来源是用“电子鼻”让看不见的东西变得可见——你会觉得自己像一个捉鬼敢死队员！当一扇窗户被打开时，或者当你开始用吸尘器打扫客厅时，或者当你在编程时忘记把意大利面放在炉子上时，你会发现 PM10 值在增加……[![🙂](img/1bb31e891282bfa40812655c9c9ace9e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DvXCaIjD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.oimg/core/emoji/11/72x72/1f642.png)当邻居发动汽车引擎时，当一个游客把车停在你家门前时，当一个客人开始在阳台上抽烟时，外部传感器会“闻到”
 
 一个有趣的事实是，靠近主要街道的 PM10 值更高，实际上在我办公室前面的高峰时间达到了欧盟限制(PM10>40)和德国限制(PM10>50 )!在我的办公室窗口测得的最大值是 PM10=69。在距离主街道几百米的地方，PM10 值会减小。想想意识到这一点会如何影响你的生活决定——搬到一个新的公寓或办公室真的会影响你的健康。了解空气污染最严重的时间也有助于防止微粒进入你的公寓。我的测量显示，在下午 2 点之前和晚上 9 点之后给办公室通风是保持 pm 浓度较低的最好方法。幸运的是，我最近搬到了一个小村庄，我在这里可以找到的好东西是新鲜的空气，正如你所看到的，灵感和新鲜想法的时间！
 
-真正让我吃惊的是，我打电话给市政当局，要求约见市长，与他讨论一旦达到 PM10 限制，交通灯就会变成红色的问题，最终我进入了政界。汽车可以被挡在镇外，因为一条旁路已经存在，但目前没有得到充分利用，应该更多地使用。我希望我能很快安排好与市长的会面，当我与他交谈时，我会有数据来支持我的建议。政府首先要求给我一封书面信件，给我一份正式声明——让我们看看这个星球上是否还有一个智能城市最终做出应用于现实生活的数据驱动型决策，而不仅仅是商业 [![🙂](../Images/1bb31e891282bfa40812655c9c9ace9e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DvXCaIjD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.org/images/core/emoji/11/72x72/1f642.png) 敬请关注！
+真正让我吃惊的是，我打电话给市政当局，要求约见市长，与他讨论一旦达到 PM10 限制，交通灯就会变成红色的问题，最终我进入了政界。汽车可以被挡在镇外，因为一条旁路已经存在，但目前没有得到充分利用，应该更多地使用。我希望我能很快安排好与市长的会面，当我与他交谈时，我会有数据来支持我的建议。政府首先要求给我一封书面信件，给我一份正式声明——让我们看看这个星球上是否还有一个智能城市最终做出应用于现实生活的数据驱动型决策，而不仅仅是商业 [![🙂](img/1bb31e891282bfa40812655c9c9ace9e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DvXCaIjD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.oimg/core/emoji/11/72x72/1f642.png) 敬请关注！
 
 帖子 [IoT:用 Node.js、Elastic Stack、MQTT](https://sematext.com/blog/iot-air-pollution-tracking-with-node-js-elastic-stack-and-mqtt/) 进行空气污染追踪最早出现在 [Sematext](https://sematext.com) 上。

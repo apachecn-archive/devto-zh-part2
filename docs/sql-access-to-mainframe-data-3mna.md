@@ -4,7 +4,7 @@
 
 # CONNX
 
-| 2018 年第三期 | [![](../Images/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://bit.ly/2msfoqz) |
+| 2018 年第三期 | [![](img/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://bit.ly/2msfoqz) |
 | --- | --- |
 
 ## 大型机数据
@@ -23,13 +23,13 @@ CONNX 弥合了这些现代数据访问方法与大型机中既不支持 SQL 也
 
 所有基于 SQL 的数据库都有一个信息模式。这是一个元数据存储库，包含关于数据库中所有对象及其属性的信息。在 SQL 数据库中，有一个表的概念，它包含具有相同信息结构的记录。该结构由一组列定义，其中每一列都指定了一段数据的确切属性。(是约会吗？它是一个文本字段吗？最大长度是多少？等等。)表和列的结构定义在所有 SQL 数据库中(通常)是统一的，与供应商无关。正是这种一致性使应用程序开发人员能够使用 SQL 来访问数据，而无需提前了解数据库供应商的具体细节。当然也有例外，每个供应商都有自己的 ANSI SQL 语法扩展集。但是所有企业关系数据库供应商都支持相同的核心 ANSI SQL 语法。为了让 CONNX 提供对大型机数据的 SQL 访问，必须创建一个等效的 SQL 目录来描述被访问的大型机数据。在 CONNX 中，该目录被称为 CONNX 数据字典(CDD)。
 
-[![](../Images/514440db046ca69c13b0c4ba94090495.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SQwp3Zd7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/connx1.jpg/cf5fa4c0-9bcd-474a-9457-05ad483a4e8f%3Ft%3D1531384393563) 
+[![](img/514440db046ca69c13b0c4ba94090495.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SQwp3Zd7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/connx1.jpg/cf5fa4c0-9bcd-474a-9457-05ad483a4e8f%3Ft%3D1531384393563) 
 
 **图 1:** CONNX 数据字典条目为 Adabas 文件
 
 CDD 包含访问大型机数据源所需的所有信息，以及将数据表示为关系表所需的所有元数据。它包含 SQL 数据类型、SQL 表名和 SQL 列名之间的映射，以及访问大型机数据所需的物理字段/偏移量/数据类型信息。遗留的大型机应用程序，比如 COBOL 应用程序，实际上有一个非常相似的、更古老的概念，叫做 COBOL copybook。这个副本使 COBOL 应用程序能够使用有意义的名称来引用遗留数据，并且还描述了被存储或检索的数据的格式。CONNX 利用了这些字帖的存在，并允许直接从大型机字帖导入 CDD。大型机 Adabas 也有类似的概念，即自然 DDM，它为 Adabas 文件中的字段提供了更长的描述性名称。CONNX 从这种格式和许多其他格式中导入元数据。
 
-[![](../Images/40269fd59a73a5f7b66c1e9bdee19e8a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BJwMHKnp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/connx2.jpg/443e1d05-8129-4b12-8a84-6a2d2179654d%3Ft%3D1531384397644) 
+[![](img/40269fd59a73a5f7b66c1e9bdee19e8a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BJwMHKnp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/connx2.jpg/443e1d05-8129-4b12-8a84-6a2d2179654d%3Ft%3D1531384397644) 
 
 **图 2:** 从 COBOL 字帖导入数据
 
@@ -39,7 +39,7 @@ CDD 包含访问大型机数据源所需的所有信息，以及将数据表示�
 
 应用程序开发人员不必担心或关心数据在大型机中以不同的物理方式存储的事实；一旦定义了 CDD，对他们来说就完全透明了。
 
-[![](../Images/a5e32d8480068a99e6800f0c8fad11c6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--X1XUSUoF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/connx3.jpg/713ea79d-503f-42b7-957f-b80f38e46b83%3Ft%3D1531384400623) 
+[![](img/a5e32d8480068a99e6800f0c8fad11c6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--X1XUSUoF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/connx3.jpg/713ea79d-503f-42b7-957f-b80f38e46b83%3Ft%3D1531384400623) 
 
 **图 3:** 查询生成器加入 SQL 表
 
@@ -63,7 +63,7 @@ CONNX 还支持 ODBC 访问来自所有 LUW 平台的数据，通过这个数据
 
 CONNX 提供了一个名为 Infonaut 的查询工具，它将 SQL 语句返回的数据可视化。
 
-[![](../Images/c3532f41e13223b787873b79763d68e6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BQGNtw5g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/connx4.jpg/2ac3de30-2c40-4c3f-ba1c-63981414ccc2%3Ft%3D1531384403779) 
+[![](img/c3532f41e13223b787873b79763d68e6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BQGNtw5g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9808473/connx4.jpg/2ac3de30-2c40-4c3f-ba1c-63981414ccc2%3Ft%3D1531384403779) 
 
 **图 4:** 显示查询结果
 

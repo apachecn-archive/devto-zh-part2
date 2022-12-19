@@ -22,7 +22,7 @@ Screely 的想法来自设计师和开发人员分享和讨论他们的项目的
 
 它们看起来更像你在 Dribbble 或 Behance 上看到的设计。
 
-[![Inspiration image](../Images/9b8aedf4455cea52a71b25fc2864e3f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RuR3T3pw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6r1y8zvf2kbant1uwntj.jpeg)
+[![Inspiration image](img/9b8aedf4455cea52a71b25fc2864e3f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RuR3T3pw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6r1y8zvf2kbant1uwntj.jpeg)
 
 原来他用 Sketch 做了一个自定义模板来添加这些效果。
 
@@ -91,7 +91,7 @@ MVP 有几种不同的定义。通常，它被描述为具有最少功能但仍�
 *   文件输入
 *   一个生成的`<canvas>`元素，包含我选择的带有彩色背景和添加的假窗口的图像
 
-[![screenshot-v2](../Images/75a430b5a04a016720a998770c621da6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IgpPr1k---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tp6pt3nyondwr1ynztbg.gif)
+[![screenshot-v2](img/75a430b5a04a016720a998770c621da6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IgpPr1k---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tp6pt3nyondwr1ynztbg.gif)
 
 我把所有东西都硬编码了，它只对一个(特定的)截图有效。您不能更改背景颜色，或使用不同尺寸的屏幕截图。
 
@@ -99,7 +99,7 @@ MVP 有几种不同的定义。通常，它被描述为具有最少功能但仍�
 
 我还开始添加我为 MVP 定义的其他特性，比如添加一个颜色选择器来改变背景颜色，以及为生成的图像添加一个下载按钮。
 
-[![colorpicker](../Images/8c49f32b2d906a9517b44f0f3f888268.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2DClgmgJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/obwbbpgfsq06le3i9p2k.gif)
+[![colorpicker](img/8c49f32b2d906a9517b44f0f3f888268.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2DClgmgJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/obwbbpgfsq06le3i9p2k.gif)
 
 既然我在一开始设定的所有 MVP 要求都满足了，是时候启动了(是的，已经启动了)！
 
@@ -107,11 +107,11 @@ MVP 有几种不同的定义。通常，它被描述为具有最少功能但仍�
 
 在这一点上，我的 MVP 只不过是一个占位符标题、一个 HTML 按钮和一个我想在启动 MVP 后添加的东西的小列表。
 
-[![colorpicker-4--dragged-](../Images/b68b5f83fb359d0e054e015f7534f723.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rj82uPSL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/syd5a8apj28qcmb90k1e.png)
+[![colorpicker-4--dragged-](img/b68b5f83fb359d0e054e015f7534f723.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rj82uPSL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/syd5a8apj28qcmb90k1e.png)
 
 在挑选了一个名字后，购买。然后制作一个登陆页面，结果是这样的:
 
-[![PH-launch](../Images/1c4077ec7f4e53b8d8070aa4d9ee16b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T-db0lB0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z6lcn0f198gvridfwdhu.png)
+[![PH-launch](img/1c4077ec7f4e53b8d8070aa4d9ee16b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T-db0lB0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z6lcn0f198gvridfwdhu.png)
 
 我还添加了一个电子邮件选择加入和一个 Twitter 账户的链接，以确保我能在发布后与用户保持联系。
 
@@ -149,7 +149,7 @@ MVP 有几种不同的定义。通常，它被描述为具有最少功能但仍�
 
 产品搜索发布会进行得非常顺利，超出了我的所有预期。Screely 最终以 1032 张赞成票成为当天的 [#1 产品。](https://www.producthunt.com/posts/screely)
 
-[![producthunt](../Images/afcabfcf0b032eee502e93e8fd581ae4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p1GacyHz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5bl5d7kkgkyldt7r7cw0.jpeg)
+[![producthunt](img/afcabfcf0b032eee502e93e8fd581ae4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p1GacyHz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5bl5d7kkgkyldt7r7cw0.jpeg)
 
 Screely 是当日最佳产品、本周最佳产品和当月最佳产品。这意味着它也将出现在产品搜索的每日和每周简讯。
 
@@ -159,7 +159,7 @@ Screely 是当日最佳产品、本周最佳产品和当月最佳产品。这意
 
 Screely 开始很慢，但几个小时后，它突然跃上了黑客新闻的头版。尽管 Screely 的最高排名仅为第 15 位，但它仍然带来了大量的流量。
 
-[![hnrankings.info_17081586_](../Images/b637ae69c16fbfb05843aecbc4e6aef4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X1m4ejUG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1qrlstflu9grxk0ymluv.png)
+[![hnrankings.info_17081586_](img/b637ae69c16fbfb05843aecbc4e6aef4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X1m4ejUG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1qrlstflu9grxk0ymluv.png)
 
 我估计有 5 -10k 用户来自黑客新闻。
 
@@ -187,7 +187,7 @@ Screely 还被收录在一份在设计师中很受欢迎的时事通讯 [Codrops
 
 总的来说，Screely 在第一周就有将近 31，000 名用户。
 
-[![launch-analytics](../Images/7485e779ee1ada74deb6eda52ab96029.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GtkLdkw3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z6jvxilneesrytmyypfs.png)
+[![launch-analytics](img/7485e779ee1ada74deb6eda52ab96029.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GtkLdkw3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z6jvxilneesrytmyypfs.png)
 
 ## 根据用户反馈进行改进
 
@@ -199,7 +199,7 @@ Screely 还被收录在一份在设计师中很受欢迎的时事通讯 [Codrops
 
 例如，许多用户希望能够将他们的图像拖放到 Screely 中，所以我首先添加了这个特性。
 
-[![drag-and-drop2](../Images/42ad51b59618778ea8d62e6a5446a6c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A6KrmWyt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/859kx2rovlc36o1dht08.gif)
+[![drag-and-drop2](img/42ad51b59618778ea8d62e6a5446a6c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A6KrmWyt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/859kx2rovlc36o1dht08.gif)
 
 另一个经常被要求的特性是自动匹配图像的背景颜色。所以你马上就有了适合你截图的背景。
 

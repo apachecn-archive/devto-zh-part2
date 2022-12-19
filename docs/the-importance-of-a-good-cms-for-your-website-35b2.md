@@ -10,7 +10,7 @@
 
 **2)无缝修改:**趋势永远不会一成不变，进化驱动着我们线上和线下！随着趋势的变化，企业也必须改变他们的风格——无论是设计还是功能。一个典型的网站将需要返工的代码和从头重新设计。然而，有了内容管理系统，你可以毫不费力地改变你的网站的外观，没有任何麻烦！
 
-[![CMS Website Development Company](../Images/75d88f35ff5cc22e4e048c4b42a57fa4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Kiopeg3K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v7ej1r0ix57vgnhbj0w8.jpg)
+[![CMS Website Development Company](img/75d88f35ff5cc22e4e048c4b42a57fa4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Kiopeg3K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v7ej1r0ix57vgnhbj0w8.jpg)
 
 指尖营销:在网上建立一个客户群是一项稍微困难的任务。人群被极度压抑，获得认可需要时间。这就是为什么营销对于希望获得在线优势的企业来说是至关重要的因素。在手工制作的网站上营销将会非常困难。然而，CMS 支持的网站带有插件和扩展，可以在社交媒体平台上实现无缝营销，这是电子邮件营销的工具！
 

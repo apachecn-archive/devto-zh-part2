@@ -8,7 +8,7 @@
 
 所以，我想，“嗯...我需要看看我是否能够充分模拟如何从一个交互式用户的外壳中运行这个东西，同时*愚弄*安装程序，使其认为它有一个类似于主机的 init 进程所提供的环境。”所以，我开始在谷歌上搜索。
 
-[![Commence to Googlin'](../Images/4958b0f2dc4d05598aab48bfe9a69fa0.png)T2】](https://www.youtube.com/embed/kroEiX5tkE0)
+[![Commence to Googlin'](img/4958b0f2dc4d05598aab48bfe9a69fa0.png)T2】](https://www.youtube.com/embed/kroEiX5tkE0)
 
 最终，我找到了参考文献`setsid`。基本上，这个工具允许你生成一个从 TTY 中分离出来的子外壳...就像 init 产生的进程一样。所以，我从
 开始

@@ -8,7 +8,7 @@
 
 这是受这篇文章的启发，在这篇文章中，[@ entropather](https://dev.to/entrptaher)提出了改变:
 
-[![entrptaher](../Images/ee0850bb4536ed31f6bd01ade001b0c7.png)](/entrptaher) [## 用 CSS 破解一些开发工具
+[![entrptaher](img/ee0850bb4536ed31f6bd01ade001b0c7.png)](/entrptaher) [## 用 CSS 破解一些开发工具
 
 ### Md .阿布·塔赫尔👨‍💻6 月 7 日 183 分钟读取
 

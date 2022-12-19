@@ -24,7 +24,7 @@
 
 <figure>
 
-[![](../Images/e9d48b066cfb4a92a0009010f82917e9.png)T2】](https://i.giphy.com/media/3scoQYue48MeZL2bBi/giphy.gif)
+[![](img/e9d48b066cfb4a92a0009010f82917e9.png)T2】](https://i.giphy.com/media/3scoQYue48MeZL2bBi/giphy.gif)
 
 <figcaption>Dataclasses, featuring Raymond Hettinger in a GIF.</figcaption>
 
@@ -398,7 +398,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <figure>
 
-[![](../Images/d2cf0e3f7d2a15008aee4f36a7c5df44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iwzxCcjO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgflip.com/2jhkbw.jpg)
+[![](img/d2cf0e3f7d2a15008aee4f36a7c5df44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iwzxCcjO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgflip.com/2jhkbw.jpg)
 
 <figcaption>Memes will never let you down.</figcaption>
 

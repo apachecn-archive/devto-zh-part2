@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/fullstackcafe/8-steps-to-increase-your-developer-resume-response-rate-by-90-5a3d>
 
-[![8 steps to increase your Developer Resume response rate by 90% (with resume example)](../Images/2f9bac0f4c066b39003daa5b51ceb488.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J9b5d1Ik--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/1142124/pexels-photo-1142124.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D650%26w%3D940)
+[![8 steps to increase your Developer Resume response rate by 90% (with resume example)](img/2f9bac0f4c066b39003daa5b51ceb488.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J9b5d1Ik--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/1142124/pexels-photo-1142124.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D650%26w%3D940)
 
 > 🔴最初发表于 [FullStack。咖啡馆-杀死你的技术&编码面试](https://www.fullstack.cafe/?utm_source=dev&utm_medium=blog)
 

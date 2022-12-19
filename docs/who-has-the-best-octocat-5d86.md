@@ -4,7 +4,7 @@
 
 关于这个帖子:
 
-[![pxlpnk](../Images/f6b53302f70f102f9081dff5de67ff9a.png)](/pxlpnk) [## 戴夫，让我们看看你的八爪怪的另一面
+[![pxlpnk](img/f6b53302f70f102f9081dff5de67ff9a.png)](/pxlpnk) [## 戴夫，让我们看看你的八爪怪的另一面
 
 ### Andreas Tiefenthaler 10 月 18 日 181 分钟阅读
 

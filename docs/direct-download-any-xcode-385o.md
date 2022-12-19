@@ -14,7 +14,7 @@
 
 *   前往[开发者下载网站](https://developer.apple.com/download/more/)
 *   如果需要，请使用您的 Apple ID 登录
-*   搜索你要下载的命令行包(我准备用最新的 Xcode 10 和 macOS Mojave 的稳定命令行工具)。![Command Line Tools download option](../Images/3e066ac65800d3c4eb36a6bb3bfaf5e2.png)
+*   搜索你要下载的命令行包(我准备用最新的 Xcode 10 和 macOS Mojave 的稳定命令行工具)。![Command Line Tools download option](img/3e066ac65800d3c4eb36a6bb3bfaf5e2.png)
 *   按下右侧的链接，等待下载完成
 *   一旦下载，安装它作为任何其他。dmg 包。
 
@@ -51,7 +51,7 @@ Enter fullscreen mode Exit fullscreen mode
 ### 4。获取 Xcode 直接下载链接
 
 *   再次访问[开发者下载网站](https://developer.apple.com/download/more/)。
-*   选择你要下载的 Xcode 版本(我准备下载 Xcode 10)。![Xcode 10 download option](../Images/a0bfad4bd60b48500392c3e622ce8aa8.png)
+*   选择你要下载的 Xcode 版本(我准备下载 Xcode 10)。![Xcode 10 download option](img/a0bfad4bd60b48500392c3e622ce8aa8.png)
 *   右击右边的链接，选择“复制链接地址”
 *   或者，访问这个 [StackOverflow answer](https://stackoverflow.com/a/10335943) 获得所有 Xcode 版本的链接。
 

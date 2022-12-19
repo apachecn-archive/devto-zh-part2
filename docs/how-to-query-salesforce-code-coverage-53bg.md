@@ -38,7 +38,7 @@ Enter fullscreen mode Exit fullscreen mode
 *   输入远程站点的 URL。
 *   或者，输入站点的描述。
 
-[![](../Images/5dd82e58332a272f511da17c655d54ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fJggGGUu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://matheusgoncalves.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-17-at-10.13.45-AM.png)
+[![](img/5dd82e58332a272f511da17c655d54ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fJggGGUu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://matheusgoncalves.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-17-at-10.13.45-AM.png)
 
 *   单击保存。
 *   为以防万一，请为“Visual.force.com”格式的 URL 创建第二个远程站点设置:

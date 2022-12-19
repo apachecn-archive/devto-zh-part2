@@ -8,7 +8,7 @@
 
 自从我们搬进来后，我已经完成了几个其他的项目——但大多数都是小规模的。我妻子办公室的嵌入式搁板墙，油漆和染色新的甲板，当然还有一个 DIY 立式办公桌，可以在我的新办公室厨房(也是房子的厨房……[为了胜利，在家工作！](https://about.gitlab.com/culture/remote-only/))。这些项目很棒，但我们需要一种方法来组织和优先考虑更大的改造项目。
 
-<figure>[![](../Images/fa0ce593feceebba8aa955f58d0f1909.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SseBM_Ll--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/768/1%2AfzTZsU2glyj4xclVSNzfOQ.png) 
+<figure>[![](img/fa0ce593feceebba8aa955f58d0f1909.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SseBM_Ll--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/768/1%2AfzTZsU2glyj4xclVSNzfOQ.png) 
 
 <figcaption>顺时针，左起:内置书架墙、彩绘卡座、DIY 站立书桌</figcaption>
 
@@ -30,13 +30,13 @@
 
 和每一个 GitLab 项目一样，问题和问题板都是与生俱来的。我马上开始添加问题——从那些最重要的问题开始，比如使用寿命即将结束的热水器、前门的维修以及窗户的更换。我的妻子还没有 GitLab.com 帐户，但很容易将她作为成员添加到项目中，只需在成员页面上输入她的电子邮件地址，允许她注册并一步到位地访问项目。
 
-[![](../Images/ee32867d1b5e5ff1987a3203d7b2d42e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7F3tlmga--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Am8KRD9BwB85dms2j5e8U-g.png)
+[![](img/ee32867d1b5e5ff1987a3203d7b2d42e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7F3tlmga--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Am8KRD9BwB85dms2j5e8U-g.png)
 
 为了有条不紊，我创造了几个标签: **P1** 代表最优先的项目，**代表自己动手的可能性**代表那些我可能自己处理的项目，**代表那些需要装饰不同房间的家具**。标签将有助于过滤问题，这样如果我找到一个空闲的周末，我就可以搜索 **DIY 可能性**问题，也许可以开始着手。或者，如果我们去家具店，我们可以过滤到这些问题，以了解我们在那里的成本。
 
 对于董事会专栏，我决定使用 **P1** 作为 Backlog 之后的第一个专栏来突出那些问题。从那以后，就要就优先组织达成一致了😃
 
-[![](../Images/cf61e8b08797b669df12317a0f9821aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nb_DTjVV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AlTH7eLelG9cWUa5kM2izUA.png)
+[![](img/cf61e8b08797b669df12317a0f9821aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nb_DTjVV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AlTH7eLelG9cWUa5kM2izUA.png)
 
 **下一步去哪里**
 

@@ -84,6 +84,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 * * *
 
-[![Example email preview.](../Images/ba5a7ae70d97ae06c8142e34b81e8ef7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6VPjZL6l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tech.store2be.com/images/email-template.jpg)
+[![Example email preview.](img/ba5a7ae70d97ae06c8142e34b81e8ef7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6VPjZL6l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tech.store2be.cimg/email-template.jpg)
 
 *大家好，我们是 [store2be](https://www.store2be.com) ，一家总部位于柏林的初创公司，致力于为短期零售空间建立一个 SaaS 式的市场。如果你喜欢我们发布的内容，你可能想看看[store 2 be 技术页面](https://tech.store2be.com)或者关注我们的 [Twitter](https://twitter.com/store2be_tech) 。*

@@ -6,7 +6,7 @@
 
 dotenv-vault 是一个简单的 dotenv 管理工具，保持令牌的秘密。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)/[跳马](https://github.com/acro5piano/dotenv-vault)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)/[跳马](https://github.com/acro5piano/dotenv-vault)
 
 ### 受 yaml_vault 启发的简单 dotenv 加密和解密工具
 
@@ -16,11 +16,11 @@ dotenv-vault 是一个简单的 dotenv 管理工具，保持令牌的秘密。
 
 不再维护。使用其他工具。
 
-[![CircleCI](../Images/7289d37bf0f7a3b95981b914b72cdcdd.png)T2】](https://circleci.com/gh/acro5piano/dotenv-vault)
+[![CircleCI](img/7289d37bf0f7a3b95981b914b72cdcdd.png)T2】](https://circleci.com/gh/acro5piano/dotenv-vault)
 
 # dotenv-金库
 
-[![](../Images/eaa14e9d32c78cd2c3f6f2ef09d2a064.png)T2】](https://github.com/acro5piano/dotenv-vault/blob/master/demo.gif)
+[![](img/eaa14e9d32c78cd2c3f6f2ef09d2a064.png)T2】](https://github.com/acro5piano/dotenv-vault/blob/master/demo.gif)
 
 受 yaml_vault 启发的简单 dotenv 加密工具
 
@@ -137,7 +137,7 @@ $ bin/dotenv-vault
 
 yaml_vault 是一个让 yaml 文件保密的好工具。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)[joker 1007](https://github.com/joker1007)/[YAML _ vault](https://github.com/joker1007/yaml_vault)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)[joker 1007](https://github.com/joker1007)/[YAML _ vault](https://github.com/joker1007/yaml_vault)
 
 ### Yaml 文件加密/解密助手。
 
@@ -145,7 +145,7 @@ yaml_vault 是一个让 yaml 文件保密的好工具。
 
 # YamlVault
 
-[![Gem Version](../Images/8c7f1278e70de5da65d9bd0b57f7d515.png) ](https://badge.fury.io/rb/yaml_vault) [ ![Build Status](../Images/1558425fdfe2b4fba97f2da38e757be2.png)](https://travis-ci.org/joker1007/yaml_vault)
+[![Gem Version](img/8c7f1278e70de5da65d9bd0b57f7d515.png) ](https://badge.fury.io/rb/yaml_vault) [ ![Build Status](img/1558425fdfe2b4fba97f2da38e757be2.png)](https://travis-ci.org/joker1007/yaml_vault)
 
 Yaml 文件加密/解密助手。
 
@@ -349,23 +349,23 @@ Enter fullscreen mode Exit fullscreen mode
 
 我使用 Bashtub 来运行 bash 脚本的单元测试。Bashtub 确实是一个简单的好工具。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)[【ueokonde】](https://github.com/ueokande)/[【Bashi tub】](https://github.com/ueokande/bashtub)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)[【ueokonde】](https://github.com/ueokande)/[【Bashi tub】](https://github.com/ueokande/bashtub)
 
 ### Bash 的微型单元测试框架。
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-# Bashtub <g-emoji class="g-emoji" alias="bathtub" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6c1.png">🛁</g-emoji>-Bash 的单元测试框架
+# Bashtub <g-emoji class="g-emoji" alias="bathtub" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f6c1.png">🛁</g-emoji>-Bash 的单元测试框架
 
-[![Build Status](../Images/7cc0c874601b84ab171bebf1f5f8bf77.png)T2】](https://travis-ci.org/ueokande/bashtub)
+[![Build Status](img/7cc0c874601b84ab171bebf1f5f8bf77.png)T2】](https://travis-ci.org/ueokande/bashtub)
 
 Bashtub 是一个用于 Bash 的小型单元测试框架，你可以指定测试用例，因为基于断言的测试用例，如 xUnit Bashtub，在测试通过时会彩色输出测试结果
 
-[![success](../Images/e37110aa80023d3a813f9831e442a804.png)T2】](https://raw.githubusercontent.com/ueokande/bashtub/master/success.png)
+[![success](img/e37110aa80023d3a813f9831e442a804.png)T2】](https://raw.githubusercontent.com/ueokande/bashtub/master/success.png)
 
 当测试失败时，它输出失败信息，
 
-[![failure](../Images/9fa13a8f64b16b9474dfe890f14a0ffb.png)T2】](https://raw.githubusercontent.com/ueokande/bashtub/master/failure.png)
+[![failure](img/9fa13a8f64b16b9474dfe890f14a0ffb.png)T2】](https://raw.githubusercontent.com/ueokande/bashtub/master/failure.png)
 
 ## 要求
 

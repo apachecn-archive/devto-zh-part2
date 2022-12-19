@@ -21,11 +21,11 @@
 
 QS 只需要一个命令就可以做到这些。
 
-[![](../Images/05815de48a1c757b908ebfdd4f32a85a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_dsxyIib--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ym6ruacgroslyp2do8tx.jpeg)
+[![](img/05815de48a1c757b908ebfdd4f32a85a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_dsxyIib--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ym6ruacgroslyp2do8tx.jpeg)
 
 来自:[https://speaker deck . com/chaspy/look-back-on-our-OSS-activities](https://speakerdeck.com/chaspy/look-back-on-our-oss-activities)
 
-[![](../Images/ca6f0bc59ff8d9fc87fda82f222beeda.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J1scPYOa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/kamontia/qs/raw/assets/assets/logo_transparent.png)
+[![](img/ca6f0bc59ff8d9fc87fda82f222beeda.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J1scPYOa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/kamontia/qs/raw/assets/assets/logo_transparent.png)
 
 *   存储库: [kamontia/qs](https://github.com/kamontia/qs)
 *   语言:戈兰语

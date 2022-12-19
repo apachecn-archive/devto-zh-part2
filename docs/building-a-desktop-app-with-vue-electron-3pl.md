@@ -42,13 +42,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 这将启动一个安装项目，在此过程中您需要做出几个选择。
 
-[![Installation](../Images/c6a2bcc2a529478c212abaae66ab272c.png)T2】](https://i.giphy.com/media/Wy6PkAug1qc4jfg9uq/giphy.gif)
+[![Installation](img/c6a2bcc2a529478c212abaae66ab272c.png)T2】](https://i.giphy.com/media/Wy6PkAug1qc4jfg9uq/giphy.gif)
 
 酷的是如果你需要一些常用的插件和库比如 [axios](https://github.com/axios/axios) ，你可以在安装过程中挑选。
 
 几乎所有的选择都很清楚，但有一个问题🤔：
 
-[![Electron packager choice](../Images/f0eb47527596846667cb6d337a63de70.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QDyu_IL0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/vZlBez2.png)
+[![Electron packager choice](img/f0eb47527596846667cb6d337a63de70.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QDyu_IL0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/vZlBez2.png)
 
 我决定谷歌一下，在 StackOverflow 上找到了[这个有用的线索](https://stackoverflow.com/questions/37113815/electron-builder-vs-electron-packager)。根据它的说法，`electron-builder`对我来说似乎是一个更好的选择，所以我就跟着它走了。
 
@@ -97,7 +97,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果您尝试运行`dev`任务，您将得到以下结果:
 
-[![Start app template](../Images/20d85cadda0127506f62c8274d33c2d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dN5mrGdh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/ir6uLce.jpg)
+[![Start app template](img/20d85cadda0127506f62c8274d33c2d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dN5mrGdh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/ir6uLce.jpg)
 
 所以有一个`landing-page`组件和 devtools 被打开。现在我们可以开始改变它了！
 
@@ -123,7 +123,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在我们的应用程序看起来是这样的:
 
-[![App with input only](../Images/862d21e1413f422e7239677891a56695.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RLeJMCLU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/LjIcTcu.png)
+[![App with input only](img/862d21e1413f422e7239677891a56695.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RLeJMCLU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/LjIcTcu.png)
 
 我们在数据中有一个`query`属性来处理用户输入，我们将用这个查询作为参数进行 API 调用。
 
@@ -216,7 +216,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，如果您在输入字段中输入文本并点击按钮，您可以在`Network`选项卡中观察到 API 调用:
 
-[![API call response](../Images/ebe56ff30ae44dd1f0a09b170b3ba024.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qCJELojf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/1YyIUHN.png)
+[![API call response](img/ebe56ff30ae44dd1f0a09b170b3ba024.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qCJELojf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/1YyIUHN.png)
 
 ## 💅显示天气数据
 
@@ -256,7 +256,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们的应用视图:
 
-[![App without styling](../Images/0fd2c518e8dc3a19436399c708cf8388.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GvTTWxN---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/YQgdkOB.png)
+[![App without styling](img/0fd2c518e8dc3a19436399c708cf8388.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GvTTWxN---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/YQgdkOB.png)
 
 太棒了，我们可以看到真实的天气了！但是看起来像是 1999 年...让我们给它添加一些 CSS 魔法(实际上，*很多*的 CSS 魔法)！
 
@@ -350,7 +350,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 最后，我们还有功能齐全的应用程序:
 
-[![App ready](../Images/c497c40794a80528c21cc7faf0c160a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j1-cMhAB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/TepfQD2.jpg)
+[![App ready](img/c497c40794a80528c21cc7faf0c160a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j1-cMhAB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/TepfQD2.jpg)
 
 打包之前要做的最后一件事是缩小窗口大小。如果我们检查一个`src/main/index.js`文件，我们可以找到它的设置:
 
@@ -372,13 +372,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 但是让我们回到桌面应用程序，运行`build`任务。因此，在`build`文件夹(对我来说是`mac`)中，你会有一个以你的平台命名的文件夹，并且里面有一个应用程序文件。和它的大小...哇，133 Mb！
 
-[![App size](../Images/9ea9104bbc53dd8dd8845adbe87916fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kJIscIWg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/OTCGUdQ.png)
+[![App size](img/9ea9104bbc53dd8dd8845adbe87916fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kJIscIWg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/OTCGUdQ.png)
 
 这么小的应用就很多了！此外，如果你尝试运行它，你会发现它的启动速度比 Vuido 驱动的应用程序慢一些。
 
 最终外观:
 
-[![Final look](../Images/55f4f5f0e070509c669476b0e4d5581f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0kcvMxfC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/cKq2mOB.png)
+[![Final look](img/55f4f5f0e070509c669476b0e4d5581f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0kcvMxfC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/cKq2mOB.png)
 
 ## 🌟结论
 

@@ -10,7 +10,7 @@
 
 ## 😱背景不明的问题
 
-[![issue with unclear description](../Images/115035b47ebb41f173b939ff9da6fb6b.png)T2】](https://github.com/codingblocks/podcast-app/issues/120)
+[![issue with unclear description](img/115035b47ebb41f173b939ff9da6fb6b.png)T2】](https://github.com/codingblocks/podcast-app/issues/120)
 
 上面的[Joe Zack](https://twitter.com/thejoezack)报告的问题没有提供关于所报告问题的上下文。
 
@@ -27,7 +27,7 @@
 
 *无需来回询问记者更多信息。*
 
-[![Issue with better context](../Images/bef6c10993957d2aeff1418a3425c031.png)T2】](https://github.com/codingblocks/podcast-app/issues/146)
+[![Issue with better context](img/bef6c10993957d2aeff1418a3425c031.png)T2】](https://github.com/codingblocks/podcast-app/issues/146)
 
 *我必须承认，我忘了添加如何重现错误的描述，只有一些网址…*
 
@@ -45,7 +45,7 @@ GitHub 为以下问题提供了创建降价模板的方法
 
 您可以在模板中添加上下文，以便当用户创建新问题时，他们可以获得有关如何报告问题的预填充信息。
 
-[![Pre-filled issue template](../Images/8cdf016675d03092caeebe38bf4a9f05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FhpA2G-U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/www.slightedgecoder.com/wp-content/uploads/2018/06/bug-report.jpg%3Fresize%3D778%252C697%26ssl%3D1)
+[![Pre-filled issue template](img/8cdf016675d03092caeebe38bf4a9f05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FhpA2G-U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/www.slightedgecoder.com/wp-content/uploads/2018/06/bug-report.jpg%3Fresize%3D778%252C697%26ssl%3D1)
 
 在设置了为问题报告者和开发者提供更好体验的模板之后，我报告了这个问题。
 
@@ -66,7 +66,7 @@ GitHub 为以下问题提供了创建降价模板的方法
 
 *和大家的开心*😎
 
-[![joes feature request](../Images/9bdfe731897d0a444af8053875deacc3.png)T2】](https://github.com/codingblocks/podcast-app/issues/149)
+[![joes feature request](img/9bdfe731897d0a444af8053875deacc3.png)T2】](https://github.com/codingblocks/podcast-app/issues/149)
 
 乔氏窝特征请求
 

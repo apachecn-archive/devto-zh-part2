@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/staceypyee/the-road-not-taken--kotlin-or-java--38j8>
 
-<figure>[![](../Images/7ce3a20bb7ac5838510695c017ede22a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---tANVje---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AABWR9P8aFAbIAfPZ.) 
+<figure>[![](img/7ce3a20bb7ac5838510695c017ede22a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---tANVje---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AABWR9P8aFAbIAfPZ.) 
 
 <figcaption>照片由[乔恩·泰森](https://unsplash.com/@jontyson?utm_source=medium&utm_medium=referral)上传 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)</figcaption>
 
@@ -10,7 +10,7 @@
 
 在开始一个**新项目**时，每个**安卓开发者**都会遇到的第一个**百万美元问题**是
 
-<figure>[![](../Images/50beb744336658ba5d85daa48ebbaeb4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--g9Ejm9_s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/905/1%2AFDNF7eEMYPMIOyGzbdg6dw.png) 
+<figure>[![](img/50beb744336658ba5d85daa48ebbaeb4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--g9Ejm9_s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/905/1%2AFDNF7eEMYPMIOyGzbdg6dw.png) 
 
 <figcaption>生存还是毁灭？ ***科特林*** 还是不**科特林**？</figcaption>
 

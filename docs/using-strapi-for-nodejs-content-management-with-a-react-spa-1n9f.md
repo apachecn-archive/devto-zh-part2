@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/couellet/using-strapi-for-nodejs-content-management-with-a-react-spa-1n9f>
 
-[![Using Strapi for Node.js Content Management with a React SPA](../Images/087ab6436b0b1831e666e54e71336c5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XSmxGvy1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203792/node-js-react-strapi-1.png)
+[![Using Strapi for Node.js Content Management with a React SPA](img/087ab6436b0b1831e666e54e71336c5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XSmxGvy1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203792/node-js-react-strapi-1.png)
 
 几个月前，我们召集了 Node.js 的内部专家来撰写一篇关于其生态系统状况的文章。
 
@@ -29,7 +29,7 @@
 
 仅仅几年前，构建一个完整的 JavaScript 应用程序还是一个纯粹的幻想。但是事情已经改变了。
 
-[![node-js-react-stack](../Images/b897b99f87397ba42ea460420f1ae334.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a2Yo5sFr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203785/javascript-everywhere.jpg)
+[![node-js-react-stack](img/b897b99f87397ba42ea460420f1ae334.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a2Yo5sFr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203785/javascript-everywhere.jpg)
 
 有些人可能称之为*同构 JavaScript* ，但是[似乎对术语*通用 JavaScript* 有共识](https://cdb.reacttraining.com/universal-javascript-4761051b7ae9)。所以我坚持使用后者。
 

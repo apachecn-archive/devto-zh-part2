@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kingidee/building-with-flutter-59fc>
 
-[![](../Images/648c6e62f52df7adc12539378b1abfc2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nKLDp3AS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/irchmco8kj5bakprezjh.jpg)
+[![](img/648c6e62f52df7adc12539378b1abfc2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nKLDp3AS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/irchmco8kj5bakprezjh.jpg)
 
 Flutter 是一个仍处于测试阶段的移动交叉开发平台。最重要的是，与竞争对手相比，Flutter 给我们带来了更好的性能。在这篇文章中，我们将学习为什么 Flutter 是一个很好的开发选项，我们也将用它创建一个简单的应用程序。您可以在这里找到这个示例[的 GitHub 资源库。](https://github.com/KingIdee/rickandmorty)
 
@@ -21,7 +21,7 @@ Flutter 是一个仍处于测试阶段的移动交叉开发平台。最重要的
 
 Flutter 是谷歌的一款开源移动应用 SDK，用于开发 Android 和 IOS 应用。Flutter 的目标是在利用单一代码库的同时，产生其竞争对手中罕见的原生感觉。Flutter 在将应用程序渲染到其平台时，会考虑对齐、滚动行为、排版、图标等方面的差异。Flutter 早在 2015 年就已经开始开发了——包含`AUTHORS`、`LICENSE`和`README.md`文件的第一次提交是在 2015 年 10 月 30 日。
 
-[![](../Images/aba7f6294caeb6b22d7dadc0625d1cc9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RMYKx6wC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_61C7FBFD62C749D5311201EA6851ED7FF4734742900C98F39AA870334E2A8E29_1522185117690_fio3.png)
+[![](img/aba7f6294caeb6b22d7dadc0625d1cc9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RMYKx6wC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_61C7FBFD62C749D5311201EA6851ED7FF4734742900C98F39AA870334E2A8E29_1522185117690_fio3.png)
 
 但是，[在 2017 年 Google IO 期间](https://www.youtube.com/watch?v=w2TcYP8qiRI)正式公布并呈现在世人面前。因此，问题来了-*Flutter 与其他交叉开发平台有什么不同吗？*
 是的！肯定！这里有一些你应该注意的特征:
@@ -63,7 +63,7 @@ Flutter 是谷歌的一款开源移动应用 SDK，用于开发 Android 和 IOS 
 
 打开您的 IDE 并创建一个新的 Flutter 应用程序。我们将它命名为`rick_and_morty`。这符合 Flutter 项目的命名惯例(即只有下划线的小写字母)。项目将具有这样的文件结构。
 
-[![](../Images/7683040893fb34dbdda163b0d3aa10a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bKRTLcrd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_61C7FBFD62C749D5311201EA6851ED7FF4734742900C98F39AA870334E2A8E29_1522184970451_fio2.png)
+[![](img/7683040893fb34dbdda163b0d3aa10a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bKRTLcrd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_61C7FBFD62C749D5311201EA6851ED7FF4734742900C98F39AA870334E2A8E29_1522184970451_fio2.png)
 
 我们在这里实现的唯一需要外部包的功能是加载图像。所以，继续，打开您的`pubspec.yaml`文件并添加`cached_network_image`包:
 
@@ -251,7 +251,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 列表项将有一个图像和一个文本。使用 leading 属性添加图像。这个属性被配置为列表中水平方向上的第一项，它位于我们用于角色标题的 title 属性之前。我们使用了`CachedNetworkImage`包来加载图像。当我们运行我们的应用程序时，我们应该会看到类似这样的内容:
 
-[![](../Images/62388f5af5f8594ad208a5419a31480f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DhyuEHMB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_61C7FBFD62C749D5311201EA6851ED7FF4734742900C98F39AA870334E2A8E29_1522179996250_fio1.png)
+[![](img/62388f5af5f8594ad208a5419a31480f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DhyuEHMB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_61C7FBFD62C749D5311201EA6851ED7FF4734742900C98F39AA870334E2A8E29_1522179996250_fio1.png)
 
 ## 一些更牛逼的资源！
 

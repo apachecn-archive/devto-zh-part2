@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kris/learn-from-open-source-create-gym-management-with-laravel-57-58dg>
 
-[![](../Images/9701c97a844bf1993923f0dedf5c609e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uS_b2dPs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ab7NFZNKFKNMMiTdmQAIsyw.png)
+[![](img/9701c97a844bf1993923f0dedf5c609e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uS_b2dPs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ab7NFZNKFKNMMiTdmQAIsyw.png)
 
 #### 旅程赞助商
 
@@ -82,7 +82,7 @@ snipe-它基于 Laravel 5.4 和 bootstrap 3，但是在这个系列中我们使�
 
 我们将学习如何使用 Cloud9 和设置必要的工具
 
-[![](../Images/ad60dc8efafbba2b47c200f653316ceb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_p6VLFjO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AhcYSTYGnYoCKJTIRPcrJag.png)
+[![](img/ad60dc8efafbba2b47c200f653316ceb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_p6VLFjO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AhcYSTYGnYoCKJTIRPcrJag.png)
 
 **要求**
 
@@ -96,7 +96,7 @@ snipe-它基于 Laravel 5.4 和 bootstrap 3，但是在这个系列中我们使�
 
 ### 第 1 部分我们安装并设置 Laravel 5.7 和 Github 库，并部署到 Heroku
 
-[![](../Images/1e722f667a4520a550d1ecbfcdd09c12.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wr2N5OHy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AFbWUm4N-wsj7sm1T.jpg)
+[![](img/1e722f667a4520a550d1ecbfcdd09c12.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wr2N5OHy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AFbWUm4N-wsj7sm1T.jpg)
 
 因为在 EC2 上保持项目的实时性会收取一些免费的费用，所以我选择 Heroku 进行实时演示
 
@@ -118,7 +118,7 @@ snipe-它基于 Laravel 5.4 和 bootstrap 3，但是在这个系列中我们使�
 
 有兴趣购买健身服务但现在不购买的人。我们保留这些数据以备后续
 
-[![](../Images/b3a76c418881402f3a0ec237f3451824.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WgjFFAss--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AtK3A7wDtam9luzGNdq5Z3w.png)
+[![](img/b3a76c418881402f3a0ec237f3451824.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WgjFFAss--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AtK3A7wDtam9luzGNdq5Z3w.png)
 
 **你将要学习的这一部分**
 
@@ -128,7 +128,7 @@ snipe-它基于 Laravel 5.4 和 bootstrap 3，但是在这个系列中我们使�
 
 #### **成员**
 
-[![](../Images/17214bff11dc833fb1275636268439c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZhDRMZQi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Av3pA7_PWB50ZFMsXc8rr8w.png)
+[![](img/17214bff11dc833fb1275636268439c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZhDRMZQi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Av3pA7_PWB50ZFMsXc8rr8w.png)
 
 **你将要学习的这一部分**
 
@@ -139,7 +139,7 @@ snipe-它基于 Laravel 5.4 和 bootstrap 3，但是在这个系列中我们使�
 
 #### 付款
 
-[![](../Images/534b943aff23a7d5afc77ec1d9c355ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J7gVKJgP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/895/1%2AUIDDUqe7QiBEA6NfAMRddQ.png)
+[![](img/534b943aff23a7d5afc77ec1d9c355ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J7gVKJgP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/895/1%2AUIDDUqe7QiBEA6NfAMRddQ.png)
 
 **你将要学习的这一部分**
 
@@ -150,7 +150,7 @@ snipe-它基于 Laravel 5.4 和 bootstrap 3，但是在这个系列中我们使�
 
 #### 订阅
 
-[![](../Images/06f67d08a1fbbcbf3a9e28f25b7ecce6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J4lZTy29--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Av9CD3RrDExSjOCKTFC5aEg.png)
+[![](img/06f67d08a1fbbcbf3a9e28f25b7ecce6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J4lZTy29--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Av9CD3RrDExSjOCKTFC5aEg.png)
 
 **你将要学习的这一部分**
 
@@ -163,7 +163,7 @@ snipe-它基于 Laravel 5.4 和 bootstrap 3，但是在这个系列中我们使�
 
 #### [短信](#sms)
 
-[![](../Images/6e1f06a3a043cf2891b87cc61b853390.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vsEusFOM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A_gad3OUcE7reUBi7IhMNcw.png)
+[![](img/6e1f06a3a043cf2891b87cc61b853390.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vsEusFOM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A_gad3OUcE7reUBi7IhMNcw.png)
 
 **你将要学习的这一部分**
 
@@ -175,7 +175,7 @@ snipe-它基于 Laravel 5.4 和 bootstrap 3，但是在这个系列中我们使�
 
 #### 发票
 
-[![](../Images/6381f7084330879b808ff5b99845098e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q7eFDD2E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Avpb3ur6VPtMSqnNeIAddjQ.png)
+[![](img/6381f7084330879b808ff5b99845098e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q7eFDD2E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Avpb3ur6VPtMSqnNeIAddjQ.png)
 
 **你将要学习的这一部分**
 
@@ -187,7 +187,7 @@ snipe-它基于 Laravel 5.4 和 bootstrap 3，但是在这个系列中我们使�
 
 #### 费用
 
-[![](../Images/14541e3bc463584b136a076ffeed9345.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6YoMWJ_Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWxRPLMbyz9pbiHGiwqs1bQ.png)
+[![](img/14541e3bc463584b136a076ffeed9345.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6YoMWJ_Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWxRPLMbyz9pbiHGiwqs1bQ.png)
 
 *   **你将要学习的这一部分**
 *   如何在 Laravel 上创建简单的 CRUD
@@ -196,7 +196,7 @@ snipe-它基于 Laravel 5.4 和 bootstrap 3，但是在这个系列中我们使�
 
 #### 费用类别
 
-[![](../Images/ae273f4b255b7621d6bbb87d0df5d289.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OO7u5oHR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AjB5XSUbdOiHoDSooRNVMqQ.png)
+[![](img/ae273f4b255b7621d6bbb87d0df5d289.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OO7u5oHR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AjB5XSUbdOiHoDSooRNVMqQ.png)
 
 **你将要学习的这一部分**
 
@@ -206,7 +206,7 @@ snipe-它基于 Laravel 5.4 和 bootstrap 3，但是在这个系列中我们使�
 
 #### 计划
 
-[![](../Images/784375178a8874740b96ffe70d1bfe78.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1uMLeJPU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ALrtGGOXed37MRzBkeDI9fw.png)
+[![](img/784375178a8874740b96ffe70d1bfe78.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1uMLeJPU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ALrtGGOXed37MRzBkeDI9fw.png)
 
 **你将要学习的这一部分**
 
@@ -216,7 +216,7 @@ snipe-它基于 Laravel 5.4 和 bootstrap 3，但是在这个系列中我们使�
 
 #### 服务
 
-[![](../Images/58e214d7b097a007ef670f859a812286.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pubWDtSN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AFUpmwBUKq2fOfTW2GxGRcA.png)
+[![](img/58e214d7b097a007ef670f859a812286.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pubWDtSN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AFUpmwBUKq2fOfTW2GxGRcA.png)
 
 **你将要学习的这一部分**
 
@@ -226,7 +226,7 @@ snipe-它基于 Laravel 5.4 和 bootstrap 3，但是在这个系列中我们使�
 
 #### 用户
 
-[![](../Images/42e051e64c460a49d8807cd1097419da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D7maXpAW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A2Ls1YZU9SSG4V1r1k6X1Cg.png)
+[![](img/42e051e64c460a49d8807cd1097419da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D7maXpAW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A2Ls1YZU9SSG4V1r1k6X1Cg.png)
 
 **你将要学习的这一部分**
 
@@ -237,7 +237,7 @@ snipe-它基于 Laravel 5.4 和 bootstrap 3，但是在这个系列中我们使�
 
 #### **权限和组**
 
-[![](../Images/3db7c5c22bde0cff2650a15d903aa773.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WMmhVHJ2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWNfw50suX5sjYzwZwd-hag.png)
+[![](img/3db7c5c22bde0cff2650a15d903aa773.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WMmhVHJ2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWNfw50suX5sjYzwZwd-hag.png)
 
 **你将要学习的这一部分**
 
@@ -250,11 +250,11 @@ snipe-它基于 Laravel 5.4 和 bootstrap 3，但是在这个系列中我们使�
 
 #### [终极进阶 Laravel Pro 课程(含 Vuejs)](https://click.linksynergy.com/link?id=qt/jYwyHv8A&offerid=507388.1382640&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-ultimate-advanced-laravel-pro-course-incl-vuejs-2%2F)
 
-[![](../Images/4d4606bae253ac06a555ce761f6b381f.png)T2】](https://click.linksynergy.com/link?id=qt/jYwyHv8A&offerid=507388.1382640&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-ultimate-advanced-laravel-pro-course-incl-vuejs-2%2F)
+[![](img/4d4606bae253ac06a555ce761f6b381f.png)T2】](https://click.linksynergy.com/link?id=qt/jYwyHv8A&offerid=507388.1382640&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-ultimate-advanced-laravel-pro-course-incl-vuejs-2%2F)
 
 #### [Laravel 5.7 电子商务商店](https://click.linksynergy.com/link?id=qt/jYwyHv8A&offerid=507388.1510962&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Flaravel-ecommerce-shop%2F)
 
-[![](../Images/e4b6ebaeb1da751575b7621997a31723.png)T2】](https://click.linksynergy.com/link?id=qt/jYwyHv8A&offerid=507388.1510962&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Flaravel-ecommerce-shop%2F)
+[![](img/e4b6ebaeb1da751575b7621997a31723.png)T2】](https://click.linksynergy.com/link?id=qt/jYwyHv8A&offerid=507388.1510962&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Flaravel-ecommerce-shop%2F)
 
 [**了解更多。**T3】](https://click.linksynergy.com/link?id=qt/jYwyHv8A&offerid=507388.1510962&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Flaravel-ecommerce-shop%2F)
 
@@ -262,10 +262,10 @@ snipe-它基于 Laravel 5.4 和 bootstrap 3，但是在这个系列中我们使�
 
 如果你需要和我一起探索海洋，普通海盗可以登上黑珍珠号
 
-[![](../Images/91a527543848d2dda0f17eb8c415ef4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AG1WtlGV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/0%2An6UJsq531VPAJvdf)
+[![](img/91a527543848d2dda0f17eb8c415ef4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AG1WtlGV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/0%2An6UJsq531VPAJvdf)
 
 也许我们可以找到一些代码宝藏
 
 #### 如果你需要为这次旅行筹集资金
 
-[![](../Images/ec2e70869f8bdec64465cc119705302a.png)T2】](https://www.patreon.com/krissanawat)
+[![](img/ec2e70869f8bdec64465cc119705302a.png)T2】](https://www.patreon.com/krissanawat)

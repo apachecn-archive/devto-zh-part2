@@ -12,7 +12,7 @@
 
 根据我创作的原始设计，这是我为第三天准备的:
 
-[![ecommerce listing showing orange knitted winter hat, the name of item "Thinsulate Winter Cap", and the $34.99 price, and a "add to cart" button in blue, on the bottom](../Images/c513630cddabb26ae5d6f5d930a4c539.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---wrQLBVy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui-assets/master/ecommerce-listing/day3/w1d3-final.png)
+[![ecommerce listing showing orange knitted winter hat, the name of item "Thinsulate Winter Cap", and the $34.99 price, and a "add to cart" button in blue, on the bottom](img/c513630cddabb26ae5d6f5d930a4c539.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---wrQLBVy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui-assets/master/ecommerce-listing/day3/w1d3-final.png)
 
 就像产品的名称和价格一样，购买产品或将其添加到您的购物篮/购物车的方式应该在电子商务列表中突出显示。我选择使用块级按钮，或者 100%宽度的按钮，和/或利用`display: block`来实现。这个**购物车按钮**使用了“[自举](https://getbootstrap.com)配色；这实际上是:**蓝色**表示信息或主要按钮状态(例如 CTA)，而**绿色**表示成功状态(例如“事情已经完成”)，而**红色**表示危险状态(例如“小心考虑此选项”)。
 
@@ -20,7 +20,7 @@
 
 下面是一张 GIF 图，显示了购物车按钮和收藏按钮的不同状态:
 
-[![ecommerce listing animated GIF showing different states of the "Add to Cart" button and "favorite" button](../Images/8d8968ed071addf073958c289516346f.png)T2】](https://i.giphy.com/media/1wXbgS8b4A4ObXbZ4P/giphy.gif)
+[![ecommerce listing animated GIF showing different states of the "Add to Cart" button and "favorite" button](img/8d8968ed071addf073958c289516346f.png)T2】](https://i.giphy.com/media/1wXbgS8b4A4ObXbZ4P/giphy.gif)
 
 您可以在我的 Github pages 站点上查看我为这个项目编写的代码实现[。](https://geoffdavis92.github.io/weekly-ui/)
 

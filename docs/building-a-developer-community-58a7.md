@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kolokodess/building-a-developer-community-58a7>
 
-[![](../Images/3945acaa3eec1bb12ed013a6946bcec9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B5eOHrPq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A5x3QDSNlMFAPyYWZ25JmcA.png)
+[![](img/3945acaa3eec1bb12ed013a6946bcec9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B5eOHrPq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A5x3QDSNlMFAPyYWZ25JmcA.png)
 
 作为一名软件开发人员，同时也是一名社区关系经理，这让我意识到开发人员社区的重要作用，事实证明，它们是分散在整个技术行业的公司或组织发展的重要组成部分。他们的激情和创新精神使他们成为产品的终极增长黑客，这一点已经被脸书、谷歌等全球顶级公司利用他们的开发者社区成为他们所做的最好的。
 

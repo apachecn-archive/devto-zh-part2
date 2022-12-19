@@ -8,17 +8,17 @@
 
 首先安装[虚拟盒](https://www.virtualbox.org/wiki/Downloads)
 
-[![](../Images/2e8c221adda0724557f1da0b2c9457dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pUV49o3W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7f5dtomjgarp34ra8vr3.png)
+[![](img/2e8c221adda0724557f1da0b2c9457dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pUV49o3W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7f5dtomjgarp34ra8vr3.png)
 
 然后安装[流浪者](https://www.vagrantup.com/)
 
-[![](../Images/bd2dff369d0ed17224f594ca6e1724ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r94249Lw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/90y68b1by60p51n2dsbn.png)
+[![](img/bd2dff369d0ed17224f594ca6e1724ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r94249Lw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/90y68b1by60p51n2dsbn.png)
 
 正如您将看到的，两个安装都是通过单击“继续/下一步”完成的。
 
 要测试上述软件是否正确安装，您可以将 virtualbox 作为应用程序打开。
 
-[![](../Images/83986fa269bad5ff50873dbfc393c993.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--22jvFYqx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/go4fqzwf5vgbjz9kj1wn.png)
+[![](img/83986fa269bad5ff50873dbfc393c993.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--22jvFYqx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/go4fqzwf5vgbjz9kj1wn.png)
 
 如果您看到类似上面的内容，您就知道它已经正确安装了。(你将不需要使用它，流浪者将与 virtualbox 一起工作)。
 
@@ -43,7 +43,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在该文件夹中，您将看到以下文件
 
-[![](../Images/cdf8e5877b347637e697f4295775cdb7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ru4wQnjm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/abdysp6kjitwpmy69t5n.png)
+[![](img/cdf8e5877b347637e697f4295775cdb7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ru4wQnjm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/abdysp6kjitwpmy69t5n.png)
 
 正如你所想象的，我们将把我们的工作添加到`public`文件夹中——用你想要的任何东西替换`index.php`。
 
@@ -61,7 +61,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 虽然你不需要打开虚拟盒子应用程序，但如果你现在打开它，你会看到一个以你的文件夹名运行的盒子
 
-[![](../Images/a01eca432250b0f10349fb66c3f0239b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UkSjF3sZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ym3g8a96tgzwelx1c4iz.png)
+[![](img/a01eca432250b0f10349fb66c3f0239b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UkSjF3sZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ym3g8a96tgzwelx1c4iz.png)
 
 类似地，你可以运行`vagrant halt`来关闭盒子，在虚拟盒子应用程序中，你会看到“关机”的指示，现在它显示“正在运行”。
 

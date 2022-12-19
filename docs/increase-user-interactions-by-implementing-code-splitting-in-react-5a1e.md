@@ -344,7 +344,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您已经在 React 中进行了代码拆分。现在是派对时间。
 
-[![party time](../Images/d203ec64aa56725a2f654c722a7ea23e.png)T2】](https://i.giphy.com/media/s2qXK8wAvkHTO/giphy.gif)
+[![party time](img/d203ec64aa56725a2f654c722a7ea23e.png)T2】](https://i.giphy.com/media/s2qXK8wAvkHTO/giphy.gif)
 
 ## 参考文献:
 

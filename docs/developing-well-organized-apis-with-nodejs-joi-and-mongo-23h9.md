@@ -6,4 +6,4 @@
 
 [读下去💚🛠](https://auth0.com/blog/developing-well-organized-apis-with-nodejs-joi-and-mongo/?utm_source=dev&utm_medium=sc&utm_campaign=apis_nodejs_mongodb)
 
-[![Developing Well-Organized APIs with Node.js, Joi, and Mongo](../Images/cc45c1d57edb58212e3fb1e626d13459.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ETUvsrMn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vo0kinvgrxgct3g14vrj.png)
+[![Developing Well-Organized APIs with Node.js, Joi, and Mongo](img/cc45c1d57edb58212e3fb1e626d13459.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ETUvsrMn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vo0kinvgrxgct3g14vrj.png)

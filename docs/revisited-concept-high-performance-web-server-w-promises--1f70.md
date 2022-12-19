@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/theopensourceu/revisited-concept-high-performance-web-server-w-promises--1f70>
 
-[![Revisited Concept: High Performance web server w/ Promises](../Images/3546610a802112a2e01bf048eb9d8b96.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T1RvBYgm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1520764816423-52375cbff016%3Fixlib%3Drb-0.3.5%26q%3D80%26fm%3Djpg%26crop%3Dentropy%26cs%3Dtinysrgb%26w%3D1080%26fit%3Dmax%26ixid%3DeyJhcHBfaWQiOjExNzczfQ%26s%3De533e5b4614cdb82fe0651d8ae79a0b0)
+[![Revisited Concept: High Performance web server w/ Promises](img/3546610a802112a2e01bf048eb9d8b96.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T1RvBYgm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1520764816423-52375cbff016%3Fixlib%3Drb-0.3.5%26q%3D80%26fm%3Djpg%26crop%3Dentropy%26cs%3Dtinysrgb%26w%3D1080%26fit%3Dmax%26ixid%3DeyJhcHBfaWQiOjExNzczfQ%26s%3De533e5b4614cdb82fe0651d8ae79a0b0)
 
 [这是我之前文章](https://theopensourceu.org/revisited-concept-high-performance-web-server-promises/)[的后续](https://theopensourceu.org/concept-high-performance-web-server-w-promises/):概念:高性能 web 服务器 w/ Promises 。
 
@@ -55,7 +55,7 @@ router.get('/', function(req, res) {
 
 结果和我第一篇文章不一样。基本上没什么帮助但也不疼...
 
-[![Revisited Concept: High Performance web server w/ Promises](../Images/d1a436ce51e405477f124ec5eb2d81b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K0RwbY5k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://theopensourceu.org/content/images/2018/03/chart.PNG)
+[![Revisited Concept: High Performance web server w/ Promises](img/d1a436ce51e405477f124ec5eb2d81b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K0RwbY5k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://theopensourceu.org/conteimg/2018/03/chart.PNG)
 
 没有场景抛出任何错误(据我回忆，这与我第一次运行时不同。)*我已经做出了假设，这与我选择的无极库有关；[蓝鸟众所周知，写得非常快](http://bluebirdjs.com/docs/benchmarks.html)* 。
 

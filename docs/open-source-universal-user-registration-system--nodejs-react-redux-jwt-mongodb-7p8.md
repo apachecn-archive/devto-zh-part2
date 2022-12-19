@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/simpletut/open-source-universal-user-registration-system--nodejs-react-redux-jwt-mongodb-7p8>
 
-[![](../Images/f74515fea14effec485aa55c6e9e6247.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--868ZkzVu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://git-assets.react-starter-kit.com/react-redux-registration/react-redux-registration-screenshot.png)
+[![](img/f74515fea14effec485aa55c6e9e6247.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--868ZkzVu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://git-assets.react-starter-kit.com/react-redux-registration/react-redux-registration-screenshot.png)
 
 **[GitHub 资源库](https://github.com/simpletut/Universal-React-Redux-Registration)**
 **Demo: [访问 demo](https://react-redux-reg.herokuapp.com/)**

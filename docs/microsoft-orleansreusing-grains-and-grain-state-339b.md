@@ -17,7 +17,7 @@ var response = await grain.SayHello(name); Console.WriteLine($"\n\n{response}\n\
 
 退货:
 
-[![](../Images/e054c6e47161428cc0ca522e21f24016.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sOk_uWkp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1006/1%2A7RQLAr2IdSfp7MUelAIXFQ.png) 
+[![](img/e054c6e47161428cc0ca522e21f24016.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sOk_uWkp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1006/1%2A7RQLAr2IdSfp7MUelAIXFQ.png) 
 
 <figcaption>输入“克里特纳”会返回“克里特纳”以及一条信息，那只是蜜蜂的膝盖。</figcaption>
 
@@ -88,7 +88,7 @@ private static async Task DoClientWork(IClusterClient client)
 
 运行上面的代码将向我们展示:
 
-[![](../Images/525b17da6653e12c44803537045e5b6f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Mp4qYXUI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/959/1%2ApK85Jbx72BpyW_QO3fD8Iw.png)
+[![](img/525b17da6653e12c44803537045e5b6f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Mp4qYXUI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/959/1%2ApK85Jbx72BpyW_QO3fD8Iw.png)
 
 上面，我们可以看到相同的 grain(如`*grn/CD25ADD4/ba676182`所示)被用于所有三个对 grain.SayHello 的调用。
 
@@ -113,7 +113,7 @@ private static async Task DoClientWork(IClusterClient client)
 
 输出:
 
-[![](../Images/bdad0115bd5e5848178ef2d70dd25be7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_8LXPZKQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/875/1%2AN_sEHr6Jwqv10dnNO2vrKg.png) 
+[![](img/bdad0115bd5e5848178ef2d70dd25be7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_8LXPZKQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/875/1%2AN_sEHr6Jwqv10dnNO2vrKg.png) 
 
 <figcaption>同一粒的多个实例化。这里的代码。</figcaption>
 
@@ -200,7 +200,7 @@ builder.AddMemoryGrainStorage("OrleansStorage");
 
 接下来，让我们用某种状态来拼凑一粒谷物。
 
-[![](../Images/724f1b11dd15b11a3a2d5e55b06090d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A4_UF7_e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/664/0%2A10UD2OnOlxZay8uW.jpg)
+[![](img/724f1b11dd15b11a3a2d5e55b06090d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A4_UF7_e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/664/0%2A10UD2OnOlxZay8uW.jpg)
 
 我们将创建一个可以跟踪用户访问我们的“站点”(假设它是一个网站)的次数的颗粒。第一件事是定义接口:
 
@@ -314,7 +314,7 @@ private static void PrintSeparatorThing()
 
 运行应用程序时，我们会看到:
 
-[![](../Images/27aab8b3295131feb8d4b2d9bc546506.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WIfVTktm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/610/1%2ABK5uR6wT4ZmVpZgLnSimDw.png) 
+[![](img/27aab8b3295131feb8d4b2d9bc546506.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WIfVTktm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/610/1%2ABK5uR6wT4ZmVpZgLnSimDw.png) 
 
 <figcaption>演示有状态颗粒，先运行</figcaption>
 
@@ -322,7 +322,7 @@ private static void PrintSeparatorThing()
 
 如果我们再次运行同样的应用程序，会发生什么？
 
-[![](../Images/e4c70780b104684226f3d65ba1a517bc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qkrbx8XP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/596/1%2AK83xtLxSdyk3QZ45A6Hbrg.png) 
+[![](img/e4c70780b104684226f3d65ba1a517bc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qkrbx8XP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/596/1%2AK83xtLxSdyk3QZ45A6Hbrg.png) 
 
 <figcaption>第二次跑</figcaption>
 

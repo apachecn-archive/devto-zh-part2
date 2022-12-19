@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/sudarsan15/speech-sentiment-analyser-----5e4m>
 
-[![ML & AI](../Images/5d097fd26ace143d1189059dd9cb32ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2Hucx_0h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/anu85xjqw270m8kht9ma.jpg)
+[![ML & AI](img/5d097fd26ace143d1189059dd9cb32ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2Hucx_0h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/anu85xjqw270m8kht9ma.jpg)
 
 大家好！
 

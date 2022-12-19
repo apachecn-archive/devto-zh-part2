@@ -2,19 +2,19 @@
 
 > 原文：<https://dev.to/kolokodess/your-first-open-source-contribution-osc-5f1l>
 
-[![](../Images/64a8dcdc3ef65de180483dce0b6edb99.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0lwstPvy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/270/1%2AsABb8KgytgMA99e4OmIcZw.jpeg)
+[![](img/64a8dcdc3ef65de180483dce0b6edb99.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0lwstPvy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/270/1%2AsABb8KgytgMA99e4OmIcZw.jpeg)
 
 你开始编程已经几个月或几年了，就在你开始习惯于独自做一些小项目的时候，你开始从资深同事那里得到一些关于为开源项目做贡献以提高你的能力的建议
 
 **你所说的**这个开源是什么？
 
-[![](../Images/091744bd4b0424bdbce755c82ab49104.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fVXoGHr8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/405/1%2AsP2WNFvXXnGmAAJ7Cyo3aQ.jpeg)
+[![](img/091744bd4b0424bdbce755c82ab49104.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fVXoGHr8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/405/1%2AsP2WNFvXXnGmAAJ7Cyo3aQ.jpeg)
 
 基本上，开源是一个程序或软件，其中的源代码可以被任何人检查、修改或增强。
 
 **我为什么要为开源做贡献？**
 
-[![](../Images/9d174a3cb749c0c1eca11660d8809f19.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AyTtGGa5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/447/1%2ADqljuy77e3Q1Jc9g7lxc8A.jpeg)
+[![](img/9d174a3cb749c0c1eca11660d8809f19.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AyTtGGa5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/447/1%2ADqljuy77e3Q1Jc9g7lxc8A.jpeg)
 
 有很多很多的理由让你为开源做贡献，这里有一些；
 
@@ -74,7 +74,7 @@
 
 **哦开源贡献之神，你的前进之路是什么？**
 
-[![](../Images/f7682273a7478a412f18d7247703ee8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7ZNZ1TKV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/513/1%2AM5JjFLK9fLtIMZ7ClGrxIg.jpeg)
+[![](img/f7682273a7478a412f18d7247703ee8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7ZNZ1TKV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/513/1%2AM5JjFLK9fLtIMZ7ClGrxIg.jpeg)
 
 在你开始投稿之前，[阅读](https://opensource.guide/how-to-contribute/)Github 关于寻找项目和提交投稿的完整指南，你就可以开始了！
 

@@ -18,7 +18,7 @@ Adokiye Iruene 在 StackOverflow 上问了一个关于在被点击的组件而�
 
 我将使用一个简单的网页，显示一个组件中的文本列表，`Child`。
 
-<figure>[![](../Images/d86d79f9feaf213a33fc58f30da5f6d6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JJwIGh42--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/www.slightedgecoder.com/wp-content/uploads/2018/07/Sample-site-output-clicked.png%3Fw%3D1170%26ssl%3D1) 
+<figure>[![](img/d86d79f9feaf213a33fc58f30da5f6d6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JJwIGh42--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/www.slightedgecoder.com/wp-content/uploads/2018/07/Sample-site-output-clicked.png%3Fw%3D1170%26ssl%3D1) 
 
 <figcaption>样本代码输出</figcaption>
 

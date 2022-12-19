@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/chingiz/flutter-learn-or-not-3j95>
 
-[![Flutter](../Images/ab10dce7744858ec3e61f297c6156e35.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7v77ghO6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.duckduckgo.com/iu/%3Fu%3Dhttps%253A%252F%252Fscdn.androidcommunity.com%252Fwp-content%252Fuploads%252F2018%252F02%252Fflutter.jpeg%26f%3D1)
+[![Flutter](img/ab10dce7744858ec3e61f297c6156e35.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7v77ghO6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.duckduckgo.com/iu/%3Fu%3Dhttps%253A%252F%252Fscdn.androidcommunity.com%252Fwp-content%252Fuploads%252F2018%252F02%252Fflutter.jpeg%26f%3D1)
 
 我最近一周的研究是关于颤振的。这是一个有趣的话题，因为它的发布时间。我脑子里有太多的问题。当有 java/kotlin、swift 和 react native 时，学习 Flutter 真的值得吗？让我们从基本问题开始。
 
@@ -12,7 +12,7 @@
 
 ### 值得学吗？
 
-[![worthit](../Images/07647f0258f333c00ec85da00a24ae97.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2jSPTdh6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media3.giphy.com/media/26FL35TKSXu8KwiR2/giphy.gif) 
+[![worthit](img/07647f0258f333c00ec85da00a24ae97.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2jSPTdh6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media3.giphy.com/media/26FL35TKSXu8KwiR2/giphy.gif) 
 学习旋舞有充足的学习资源。在学习之前，你应该知道 [Dart 编程语言](https://www.dartlang.org)的语法。Dart 是一种面向对象的编程语言，类似于 [Java](http://www.oracle.com/technetwork/java/index-138747.html) ，C#和许多其他语言。但是作为 Android 开发者，我会说，它太像 Java 了。有一些不同，主要的相似之处是一切都是对象。
 
 它真的很快，具有本机性能和灵活的用户界面。
@@ -25,7 +25,7 @@
 
 ### 有挑战吗？
 
-[![Flutter](../Images/c67fd9a0563d640e287f5130ce1b9bb4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Czo1cUna--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://flutter.io/images/homepage/header-illustration.png)
+[![Flutter](img/c67fd9a0563d640e287f5130ce1b9bb4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Czo1cUna--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://flutter.img/homepage/header-illustration.png)
 
 对新手的挑战是 Dart 本身。如果你没有经历过上面提到的语言，那么你将很难学习 Flutter(你应该先学习 Dart)。不要误解我。你真棒！
 

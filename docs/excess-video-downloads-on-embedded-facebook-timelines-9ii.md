@@ -10,9 +10,9 @@
 
 为了测试这些视频是如何被使用的，我从有脸书视频内容的网站列表中随机选择了[美国柴油零件](https://usdieselparts.com/)。下面两张截图分别是桌面(左)和移动(右)。脸书微件以黄色突出显示。在移动网站上，橙色线条表示屏幕的一整页。这个小部件在桌面的第 4 个视窗中，在移动的第 7 个视窗中。
 
-[![](../Images/b40684034183f8dc718d4f3880adba61.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s-e7ynxc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/414/0%2Au1UoPgnHg5xjIFhb)
+[![](img/b40684034183f8dc718d4f3880adba61.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s-e7ynxc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/414/0%2Au1UoPgnHg5xjIFhb)
 
-[![](../Images/038a73b45ea02538ad69e71a1f660e76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--knq-8rsu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/87/0%2A26jTLfm18IM7qKem)
+[![](img/038a73b45ea02538ad69e71a1f660e76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--knq-8rsu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/87/0%2A26jTLfm18IM7qKem)
 
 使用一个小脚本和代码，或者使用一个 iframe，可以非常容易地创建和添加小部件。这是 iframe 装载美国柴油零件的脸书时间表:
 
@@ -38,7 +38,7 @@ src="[https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.
 
 查看瀑布图，有许多视频请求—许多不同的视频文件:
 
-[![](../Images/23a90b46274f1e8d67a3cd730fbcb9f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dQNWDhyy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/900/0%2A6JpVwOQRYoVg5Zjy)
+[![](img/23a90b46274f1e8d67a3cd730fbcb9f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dQNWDhyy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/900/0%2A6JpVwOQRYoVg5Zjy)
 
 有 33 个视频字节数请求，这意味着每个请求只要求完整视频文件的一小部分。查看根文件名，在脸书时间线内总共有 9 个视频被下载。
 
@@ -46,7 +46,7 @@ src="[https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.
 
 有 2 个“主”视频，2 个音频轨道，其他 5 个视频是重复的视频-只是调整到不同的维度！深红色和蓝色线条表示“主”视频，浅红色和蓝色表示同一视频的“其他”版本。
 
-[![](../Images/9d27cc2493062f26a78a0671b0b8bcbf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Lcs1M8Tl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/900/0%2Ak6t1DOvKo7bAcHye)
+[![](img/9d27cc2493062f26a78a0671b0b8bcbf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Lcs1M8Tl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/900/0%2Ak6t1DOvKo7bAcHye)
 
 主要的视频(和它们的音轨)都有 25-30%被脸书的小工具下载。“其他”版本看起来每个下载了大约 1KB，但是每个文件有 2 个请求。
 

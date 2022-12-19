@@ -8,7 +8,7 @@
 
 Clarifai API 是免费的，设置和使用非常简单，并且允许我们从图像中获得描述。
 
-[![Screenshots of finished app](../Images/9c8cd55a6c2beb46a2d5a62825d7fd59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rklwuqx7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/njhlo5weodw30qtedg4k.png)
+[![Screenshots of finished app](img/9c8cd55a6c2beb46a2d5a62825d7fd59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rklwuqx7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/njhlo5weodw30qtedg4k.png)
 
 本教程假设您已经安装了 NodeJS 和 React Native。如果你还没有，那么请访问[https://Facebook . github . io/react-native/docs/getting-started . html](https://facebook.github.io/react-native/docs/getting-started.html)开始吧。它还假设您对 React 和 NodeJS 有基本的了解。
 

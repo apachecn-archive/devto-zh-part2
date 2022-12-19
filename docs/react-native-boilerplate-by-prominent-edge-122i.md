@@ -6,7 +6,7 @@
 
 *   [React 原生移动样板文件](https://github.com/ProminentEdge/mobile-boilerplate)
 
-[![Prominent Edge](../Images/426c0ad72312fa852e96d4cafb6e76ff.png "Prominent Edge")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iRlULZ_j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9x5k0sxko4n26t3nq0vi.png)
+[![Prominent Edge](img/426c0ad72312fa852e96d4cafb6e76ff.png "Prominent Edge")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iRlULZ_j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9x5k0sxko4n26t3nq0vi.png)
 
 使用的技术:
 

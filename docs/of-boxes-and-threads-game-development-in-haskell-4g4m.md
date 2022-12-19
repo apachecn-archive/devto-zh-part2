@@ -124,7 +124,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 为了更好地说明我所说的，我做了两个图表。不要从字面上理解它们。
 
-[![Typical structure of a game in an imperative language](../Images/b2df9dfdb18abde33ed7ad86d78c4cd4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sVdHik1l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/aas-sh/image/upload/v1617292470/blog/2018/06/traditional_game_structure_o3qxgm.png)
+[![Typical structure of a game in an imperative language](img/b2df9dfdb18abde33ed7ad86d78c4cd4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sVdHik1l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/aas-sh/image/upload/v1617292470/blog/2018/06/traditional_game_structure_o3qxgm.png)
 
 以下是我将如何解释传统的，命令式游戏结构的工作方式。在一个面向对象的系统中，你可能有一个游戏控制器类，以某种结构包含游戏中的一切。如果你正在使用一个[实体组件系统](https://en.wikipedia.org/wiki/Entity%E2%80%93component%E2%80%93system)，你将简单的拥有一个`GameObjects`列表或者其他的东西。这些`GameObjects`将包含你的游戏数据，你将操纵这些数据，然后作为游戏循环的一部分进行渲染。
 
@@ -132,7 +132,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果我现在插入下一张图，可能会更有意义，这样您就可以比较:
 
-[![Sample structure of a game in a functional language](../Images/051cb4ba0634003ca741f948db86cea5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A4NDpVVh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/aas-sh/image/upload/v1617292516/blog/2018/06/functional_game_structure_jxohms.png)
+[![Sample structure of a game in a functional language](img/051cb4ba0634003ca741f948db86cea5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A4NDpVVh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/aas-sh/image/upload/v1617292516/blog/2018/06/functional_game_structure_jxohms.png)
 
 是的，我们可以将第一张图中的数据捆绑在一起，这两张图会非常相似。我试图从第二张图中得到的是，数据通过 与 ***程序流一起传输，而在命令式编程中，它们存在于 ***盒子*** 中，只要有东西持有它们，不管游戏循环中发生什么。我把 Haskell 程序想象成一束线——我们可以打包和解包成箱的数据，我们也可以把线缠绕、解开和绑在一起。这些线程并行运行(不要与并行计算混淆！)随着游戏的流动，它们一起行进，随着每次迭代而扭曲、交织和分离。盒子存在于循环之外，可以与*和*交互。然而，线程不会-任何没有传递到下一个迭代的线程都会被切断和终止， ***所有的*** 数据都必须在过渡到游戏的下一帧时考虑到。***
 

@@ -4,7 +4,7 @@
 
 加密货币经历了许多起伏。人们已经提出了很多关于它们实际上是否可行的问题。这些对话一直集中在技术问题上，如缓慢的交易，防止 51%的攻击，智能合同中的错误等。然而，解决技术问题不会像其他因素那样产生如此大的影响。
 
-[![](../Images/e24baa2e052febd552e283f4db15b47a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8h4dxLc4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.professorbeekums.com/img/2018/money.jpg)
+[![](img/e24baa2e052febd552e283f4db15b47a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8h4dxLc4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.professorbeekums.com/img/2018/money.jpg)
 
 为了理解其他因素，我们需要开始思考钱是什么。如果我问你要不要钱，答案可能是要。但是为什么呢？能吃钱吗？它能为你提供避雨的地方吗？它能给你的智能手机充电吗？
 

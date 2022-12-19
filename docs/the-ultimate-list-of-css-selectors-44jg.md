@@ -136,6 +136,6 @@ title 属性值包含子串‘banana’的所有元素。
 `* + *` -脑叶切除的猫头鹰
 处理其他元素的所有元素。
 
-[![css-selectors---ultimate-hits-1](../Images/92fc674e043b9bb720965a0ef4ab410e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zChYX1mY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/02/css-selectors---ultimate-hits-1.png)
+[![css-selectors---ultimate-hits-1](img/92fc674e043b9bb720965a0ef4ab410e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zChYX1mY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/02/css-selectors---ultimate-hits-1.png)
 
 这篇文章最初发表在 [Kolosek 博客](https://kolosek.com/css-selectors/)上。

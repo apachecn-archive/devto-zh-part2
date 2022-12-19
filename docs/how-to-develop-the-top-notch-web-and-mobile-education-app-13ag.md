@@ -4,11 +4,11 @@
 
 今天，我们一天中可以考虑的每个差事都有一个应用程序。应用领域最近发展如此之快，以至于从零售、IT 到营养指导的每个行业都被应用所改革。
 
-[![](../Images/2a1b92023d28b7d70fba5f7fd9fee91a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wjBwI1jG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2ATJe3WEQHYxCotQj3b8lo4g.png)
+[![](img/2a1b92023d28b7d70fba5f7fd9fee91a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wjBwI1jG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2ATJe3WEQHYxCotQj3b8lo4g.png)
 
 与过去孩子们手中的手机被视为“消遣”的情况不同，今天我们已经将它们变成了一种强化和动态学习的方法。
 
-[![](../Images/a9751b0f45c6add3af71488f2e96979e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LDzqA2ln--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/579/1%2A1aJRhGWG4yZwwCsOqdxCxg.png)
+[![](img/a9751b0f45c6add3af71488f2e96979e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LDzqA2ln--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/579/1%2A1aJRhGWG4yZwwCsOqdxCxg.png)
 
 学生将可靠地要求教育者控制和指导他们。尽管如此，授予信息的方法会随着时代的发展而改变。
 
@@ -20,11 +20,11 @@
 
 如果你有机会看一看[从 2012 年到 2017 年](https://www.statista.com/statistics/273971/cagr-of-free-and-paid-education-app-downloads-worldwide/)免费和付费教学应用下载的复合年增长率，你将看到一个扩大的下载率。
 
-[![](../Images/29e3189f0a2bfa50394826eac31cc5c9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZskzWct3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/733/1%2AA9F1mpp4x2g2Jme4gfKyhA.png) 
+[![](img/29e3189f0a2bfa50394826eac31cc5c9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZskzWct3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/733/1%2AA9F1mpp4x2g2Jme4gfKyhA.png) 
 
 <figcaption>[来源](https://www.statista.com/statistics/273971/cagr-of-free-and-paid-education-app-downloads-worldwide/)</figcaption>
 
-[![](../Images/1fcfa1ac97bc9f62814ca9893803add4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Je0MZN5Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/673/1%2ArqOq6GW5MV3VJCILsFOWGw.png) 
+[![](img/1fcfa1ac97bc9f62814ca9893803add4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Je0MZN5Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/673/1%2ArqOq6GW5MV3VJCILsFOWGw.png) 
 
 <figcaption>[来源](https://www.statista.com/statistics/273946/cagr-of-the-fastest-growing-e-learning-segments-worldwide/)</figcaption>
 

@@ -8,7 +8,7 @@
 
 为了探索实时技术，我一直想巧妙地尝试一下，在看了 T2 的帖子后，我不得不开始工作。所以当我终于有机会时，我能够通过构建下面的应用程序来探索由[巧妙地](https://www.ably.io/)提供的实时功能的神奇之处:
 
-[![](../Images/7fad777947684293b135f55b810b81a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bGtA5Ow4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AS_LRbYpUdaA2s_Nv9jhj-g.gif)
+[![](img/7fad777947684293b135f55b810b81a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bGtA5Ow4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AS_LRbYpUdaA2s_Nv9jhj-g.gif)
 
 这是一个由 Nest.js 构建的实时民意调查，由 [Ably](https://www.ably.io/) 提供支持。在这篇文章中，我将一步一步地记录我是如何构建上述演示的过程。
 
@@ -22,13 +22,13 @@
 
 *   [Nest.js](https://nestjs.com/) :一个渐进式 Node.js 框架，用于构建高效且可伸缩的服务器端应用。它利用 TypeScript 创建可靠且结构良好的服务器端应用程序。如果你非常熟悉 Angular，Nest.js 会给你类似的构建 Angular 应用的经验，但是是在后台。尽管使用了现代 JavaScript (Typescript ),但它与普通 JavaScript 非常兼容，这使得入门非常容易。你可以在这里了解更多关于[的信息。](https://docs.nestjs.com/)
 
-[![](../Images/c7386d915bedbfbf108838e1158b0bc6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kVn_SvSs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/810/1%2A8_uUnP2g8H8Zj3N_KktFtw.png) 
+[![](img/c7386d915bedbfbf108838e1158b0bc6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kVn_SvSs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/810/1%2A8_uUnP2g8H8Zj3N_KktFtw.png) 
 
 <figcaption>Nest.js</figcaption>
 
 *   Ably:一个优秀的实时消息平台，可以很容易地为应用程序添加实时功能。
 
-[![](../Images/831d1c3011f33b4cfe8cf34f76e17d73.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kXK0BT2f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/508/1%2A6OL2VCCelIWYZOtHWRzKNA.png) 
+[![](img/831d1c3011f33b4cfe8cf34f76e17d73.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kXK0BT2f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/508/1%2A6OL2VCCelIWYZOtHWRzKNA.png) 
 
 <figcaption>巧妙地实时</figcaption>
 
@@ -58,25 +58,25 @@ $ npm run start
 
 这将在 Nest.js (3000)使用的默认端口上启动应用程序。前往 [http://localhost:3000](http://localhost:3000/)
 
-[![](../Images/3efbeefbbecc4bc6530efc822dfff553.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lwUYWZAT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2APNXj_IB1b_9-Eb7o61VV1A.png)
+[![](img/3efbeefbbecc4bc6530efc822dfff553.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lwUYWZAT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2APNXj_IB1b_9-Eb7o61VV1A.png)
 
 ### 巧妙地设置账户
 
 如果你还没有一个 ably 帐户，去他们的网站创建一个。
 
-[![](../Images/163d47e5eece8b2f6b38e99b314ad9c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WpEUMJ9q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AzrIDWviQdahnNpUl47q9tg.png)
+[![](img/163d47e5eece8b2f6b38e99b314ad9c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WpEUMJ9q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AzrIDWviQdahnNpUl47q9tg.png)
 
 按照剩下的过程，一旦你完成了，你应该有一个带有私钥的免费账户。您将在您的帐户仪表板上看到一个“API 密钥”,这对我们很重要，因为我们将在教程的后面使用它来使用基本认证方案连接到。
 
-[![](../Images/9e3a8b79270a8adfa8a7b3da0447d34f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tAdah3Pu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AX1JzHrVRH6qSXpg1faK7BA.png)
+[![](img/9e3a8b79270a8adfa8a7b3da0447d34f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tAdah3Pu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AX1JzHrVRH6qSXpg1faK7BA.png)
 
 你会看到，默认情况下，[巧妙地](https://www.ably.io/)为你创建了一个应用程序，你可以随时开始使用。但是，您也可以创建一个新的应用程序，并根据需要进行配置。
 
-[![](../Images/4f4ab2b657b50c38fbaf3ff4027c760d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mFeTcljS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AEL3umcPFFKO5JjGi4mQMgQ.png)
+[![](img/4f4ab2b657b50c38fbaf3ff4027c760d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mFeTcljS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AEL3umcPFFKO5JjGi4mQMgQ.png)
 
 我把我的命名为“巧妙巢投票”。请随意选择任何符合您目的的名称。
 
-[![](../Images/b09d1a3ef3d283f472e69c252aa619f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8b-5jQsw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AJImPnOWOueaiAWqXYFp1tw.png)
+[![](img/b09d1a3ef3d283f472e69c252aa619f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8b-5jQsw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AJImPnOWOueaiAWqXYFp1tw.png)
 
 ### 依赖关系
 
@@ -195,7 +195,7 @@ Nest.js 中的控制器只处理 HTTP 请求，将复杂的任务委托给组件
 
 如果开发服务器当前正在运行，请重新启动它，并导航到 [http://localhost:3000](http://localhost:3000) 或 [http://127.0.0.1:3000](http://127.0.0.1:3000) 进行检查。
 
-[![](../Images/38f2489fcf59e32aa7ab97a10659c9d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--87oMoIQh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AJd5qXEd-5yJl8qZOwpL58Q.gif)
+[![](img/38f2489fcf59e32aa7ab97a10659c9d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--87oMoIQh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AJd5qXEd-5yJl8qZOwpL58Q.gif)
 
 就是这样。
 

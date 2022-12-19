@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jackhiston/5-useful-apis-you-should-know-about-583f>
 
-[![NASA Logo](../Images/492028e9a6588aff34d471e3b21c4df5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--meD72mLo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uq9r00t221lssl4s54dg.jpg)
+[![NASA Logo](img/492028e9a6588aff34d471e3b21c4df5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--meD72mLo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uq9r00t221lssl4s54dg.jpg)
 
 当谈到大规模的软件开发时，总有一些 API 支持您的应用程序。食谱应用程序、图像识别软件、词汇分析系统、移动应用程序等等，都需要允许它们与周围世界进行交互的 API。API 提供的数据，以及通过互联网等媒介的无处不在的访问，使得它们对于启动您的应用程序来说是无价的。
 

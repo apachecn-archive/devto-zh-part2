@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ryanmiller/how-can-mobile-apps-help-parents-over-and-above-teachers-27ie>
 
-[![](../Images/2938eca15ae3cd8a0559a00eae048c8e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--17l_MOSR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/pxjcMSq.jpg) 
+[![](img/2938eca15ae3cd8a0559a00eae048c8e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--17l_MOSR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/pxjcMSq.jpg) 
 应用程序帮助教师与家长沟通，并包含家长可能想问教师的所有问题的答案。如果你拥有一所学校，那么你一定很清楚当你接到一大堆电话和无数来自家长的询问时的感受。你有义务耐心地回答每一个问题，因为每个人都关心自己孩子的未来。
 
 ## 学校需要一个应用程序

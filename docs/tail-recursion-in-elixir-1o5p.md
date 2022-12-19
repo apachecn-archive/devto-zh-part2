@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/marcosx/tail-recursion-in-elixir-1o5p>
 
-[![A pendant and a wall with wood pieces on the background](../Images/5fb88b16ea0ffc64bceea824c0c71648.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2PAf-B_h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1s6rjwku98btrqxgh655.jpg)
+[![A pendant and a wall with wood pieces on the background](img/5fb88b16ea0ffc64bceea824c0c71648.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2PAf-B_h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1s6rjwku98btrqxgh655.jpg)
 
 你可能听说过(也写过)一些递归函数/方法。您可能也听说过递归函数比非递归函数更昂贵。
 

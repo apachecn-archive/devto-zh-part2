@@ -4,7 +4,7 @@
 
 最近喜欢上了【T2 now . sh。这是一个超级好的托管服务，让我们部署静态网站，节点驱动的网站或 Docker 容器使用一个单一的命令在您的终端:`now`。你只需在终端上写下`now`，你的网站就会在几秒钟内上线:
 
-[![Demo of deploying to now.sh](../Images/2fcf7138b1fc7548a5feda05cb84beee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hwsDvCpt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.jonstodle.com/content/images/2018/09/now-sh-demo-2.gif)
+[![Demo of deploying to now.sh](img/2fcf7138b1fc7548a5feda05cb84beee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hwsDvCpt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.jonstodle.com/conteimg/2018/09/now-sh-demo-2.gif)
 
 原视频片段不到 1 分 45 秒！
 
@@ -36,13 +36,13 @@ CMD ["dotnet", "NowShDemo.dll"]
 
 但这让我碰到了一个不可预见的障碍。最终 Docker 图像的大小不能大于 100 兆字节。哎哟！
 
-[![The Docker image is too large](../Images/ea7101b2e65e421438e0028358456856.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uGa_Bjj5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.jonstodle.com/content/images/2018/09/docker-image-too-large-1.png)
+[![The Docker image is too large](img/ea7101b2e65e421438e0028358456856.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uGa_Bjj5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.jonstodle.com/conteimg/2018/09/docker-image-too-large-1.png)
 
 幸运的是， *now.sh* 在他们那端做了一些“压缩”(即*组装图像*的步骤)，这意味着他们看到的 Docker 图像实际上比从`Dockerfile`本地构建时产生的“原始”图像要小一些。他们报告的图像是 116.7 兆字节，而我的磁盘上是 258 兆字节。
 
 代码只是默认的 ASP.NET 核心 MVC 模板的内容，我已经超过了大小限制。怎么办？
 
-第一个技巧是使用较小的 Linux 基础映像。通过向下滚动官方 [Docker 注册表](https://store.docker.com/community/images/microsoft/dotnet)的`microsoft/dotnet`页面，你会发现有基于 Alpine 的运行时(和 SDK)映像。Alpine 以其非常小的图像尺寸而闻名，并且很受 Docker 的欢迎。阿尔卑斯的形象是 **4** 兆！这就是整个操作系统！
+第一个技巧是使用较小的 Linux 基础映像。通过向下滚动官方 [Docker 注册表](https://store.docker.com/communiimg/microsoft/dotnet)的`microsoft/dotnet`页面，你会发现有基于 Alpine 的运行时(和 SDK)映像。Alpine 以其非常小的图像尺寸而闻名，并且很受 Docker 的欢迎。阿尔卑斯的形象是 **4** 兆！这就是整个操作系统！
 
 我将我最终的 Docker 图像改为使用 Alpine 变体:
 

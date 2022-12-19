@@ -89,7 +89,7 @@ registerBlockType('myblock/basic-block', {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![output](../Images/a55f563c105e69b68ae13f2ca2b42e71.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CClCiWzR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.pradipdebnath.com/wp-content/uploads/2018/11/gutenberg-custom-static-block-development.png)
+[![output](img/a55f563c105e69b68ae13f2ca2b42e71.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CClCiWzR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.pradipdebnath.com/wp-content/uploads/2018/11/gutenberg-custom-static-block-development.png)
 
 让我给你解释一下这段代码。
 `registerBlockType('myblock/basic-block', {...});`
@@ -132,7 +132,7 @@ Enter fullscreen mode Exit fullscreen mode
 `const blockStyle = {backgroundColor: '#900', color: '#fff', padding: '20px'};`
 
 这个 *blockstyle* 常量有一些样式代码，也不是 CSS 代码，你可以在这里看到`backgroundColor`。这个 *blockstyle* 用于返回保存我们的一部分作为 p 元素样式。我已经为后端和前端提供了不同的样式，以向您展示在这两个区域中呈现的不同样式。
-[![output](../Images/8eaf96c2bc3f2695b4050ccb4c795119.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--h7vQqfHT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.pradipdebnath.com/wp-content/uploads/2018/11/static-block-backend-area.png)
-[![output](../Images/175d0a363b809e1e5e730dfa75c07e91.png)T12】](https://res.cloudinary.com/practicaldev/image/fetch/s--VF6VxKtE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.pradipdebnath.com/wp-content/uploads/2018/11/static-block-frontend-area.png)
+[![output](img/8eaf96c2bc3f2695b4050ccb4c795119.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--h7vQqfHT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.pradipdebnath.com/wp-content/uploads/2018/11/static-block-backend-area.png)
+[![output](img/175d0a363b809e1e5e730dfa75c07e91.png)T12】](https://res.cloudinary.com/practicaldev/image/fetch/s--VF6VxKtE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.pradipdebnath.com/wp-content/uploads/2018/11/static-block-frontend-area.png)
 
 这就是了。在这里，您学习了如何在 Gutenberg 中创建第一个简单的静态块。稍后我将向您展示如何在 Gutenberg 中创建一个处理动态数据的富文本块。

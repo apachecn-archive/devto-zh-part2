@@ -4,7 +4,7 @@
 
 ### React Hooks——不要太执着
 
-[![](../Images/fad7d3ae55b2df29fbf06c284bf50e19.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xwcj5kKZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/950/1%2A3BUc4O4T2cyE11h_HRxcXA.jpeg)
+[![](img/fad7d3ae55b2df29fbf06c284bf50e19.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xwcj5kKZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/950/1%2A3BUc4O4T2cyE11h_HRxcXA.jpeg)
 
 React 团队在 React Conf 18 上宣布了一个名为 Hooks 的新功能的提议后，React 社区出现了奇怪的反应:一系列描述如何使用它的教程，好像它已经在 React 核心中了。
 
@@ -30,7 +30,7 @@ body[data-twttr-rendered = " true "]{ background-color:transparent；}.twitter-t
 
 用 React。组件，通常您需要的只是 state 或 ref，但是您得到的是一组您永远不会使用的方法，以及编写令人畏惧的 this 关键字的必要性(这是您知道什么的变位词)。基本上，钩子是一个抛弃类的提议，代替*从* React 继承，*钩子进入* React。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### 不用上课怎么反应
 
@@ -70,7 +70,7 @@ React 以其声明性而自豪，但是使用生命周期方法是非常必要�
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

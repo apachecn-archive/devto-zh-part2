@@ -100,7 +100,7 @@ npm link @unicorn/model
 Enter fullscreen mode Exit fullscreen mode
 
 完美！
-[![Perfect](../Images/eac93aaa843a54cc169f44bdbed4c077.png)T3】](//thepracticaldev.s3.amazonaws.com/i/alhu7wrnie4rlrzbevgy.gif)
+[![Perfect](img/eac93aaa843a54cc169f44bdbed4c077.png)T3】](//thepracticaldev.s3.amazonaws.com/i/alhu7wrnie4rlrzbevgy.gif)
 
 ### 包装
 

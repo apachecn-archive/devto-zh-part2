@@ -4,7 +4,7 @@
 
 #### 对 Vue.js 表单进行重考验证
 
-[![](../Images/1cbd73c5251c291e52e63e2b7be50613.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lWxLVqZn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ALLKkfJGsuJsj_AbPUdHjyg.png)
+[![](img/1cbd73c5251c291e52e63e2b7be50613.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lWxLVqZn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ALLKkfJGsuJsj_AbPUdHjyg.png)
 
 本文标志着 vee-validate 2.1.0 的发布，这是一个基于模板的 Vue.js 验证框架，主要使用指令。
 

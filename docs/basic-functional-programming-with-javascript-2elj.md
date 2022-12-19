@@ -20,7 +20,7 @@
 
 *   **纯函数**
 
-[![Pure Function](../Images/90dea14aeeba40fc530bf3d3b74d6288.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4bEYLci3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kq34mrtitnuolaulcpfz.png)
+[![Pure Function](img/90dea14aeeba40fc530bf3d3b74d6288.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4bEYLci3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kq34mrtitnuolaulcpfz.png)
 
 它基本上遵循的原则是在任何时候任何给定的输入都有相同的输出。
 

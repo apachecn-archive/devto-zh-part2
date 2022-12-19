@@ -30,7 +30,7 @@ PaperCSS 使用类似于 Bootstrap 的命名转换:row，xs-，sm-，md-，lg-�
 Enter fullscreen mode Exit fullscreen mode
 
 在新版本中，我们创建了一行两列:
-[![About Page](../Images/12549dbf3714aab6339c24294ca9fc36.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8DXue5T_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n0apmzdnvw6b0hjfbo9z.png)
+[![About Page](img/12549dbf3714aab6339c24294ca9fc36.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8DXue5T_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n0apmzdnvw6b0hjfbo9z.png)
 
 此外，我们用 *flex-middle* 类修饰 row，将内容放在单元格的中间。
 
@@ -214,7 +214,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 扬声器视图将类似于下面的屏幕截图:
 
-[![Table style](../Images/b63ec37d5240d7069debfdc10e030eee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e6bRyzer--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v5nnqds76jbf6q9csq3h.png)
+[![Table style](img/b63ec37d5240d7069debfdc10e030eee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e6bRyzer--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v5nnqds76jbf6q9csq3h.png)
 
 卡牌风格使用几个类来装饰卡牌:*卡牌*、*卡牌体*、*卡牌标题*、*卡牌副标题*、*卡牌正文*、T10】
 
@@ -250,7 +250,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在此视图中，我们在中型屏幕上显示每 3 张一排的牌，在小型屏幕上显示每 2 张一排的牌:
 
-[![Card-style](../Images/f845f6462a4d0de4e2b8fbe99164ab85.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nXNVTquL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kuk7d0xckd15rcevqhjn.png)
+[![Card-style](img/f845f6462a4d0de4e2b8fbe99164ab85.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nXNVTquL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kuk7d0xckd15rcevqhjn.png)
 
 最后，我们在 Layout.cshtml:
 中添加链接

@@ -18,7 +18,7 @@ Jupyter Notebook 是一款神奇的数据探索工具。它将**的 markdown 文
 
 为了解决这些问题，我建议使用 Jupyter 笔记本来写操作手册。下面是您的 API 延迟调试会话在笔记本环境中的样子(请在全屏模式下观看此视频，如果需要，可以查看原始的 [youtube 链接](https://www.youtube.com/watch?v=vvLXSAHCGF8&feature=youtu.be&showinfo=1&rel=0))。
 
-[![WATCH THE VIDEO](../Images/871cf838df3f0389066c56c07274c78e.png)T2】](https://www.youtube.com/watch?v=vvLXSAHCGF8)
+[![WATCH THE VIDEO](img/871cf838df3f0389066c56c07274c78e.png)T2】](https://www.youtube.com/watch?v=vvLXSAHCGF8)
 
 正如您在视频中看到的，用户可以从笔记本电脑中绘制图表、检查部署时间、回滚更改、运行 SQL 查询、shell 脚本和 SSH。
 
@@ -32,7 +32,7 @@ Jupyter Notebook 是一款神奇的数据探索工具。它将**的 markdown 文
 *   更好的协作。它提供了一个一流的平台，用于共享开发者为解决某个问题而保留的所有部落知识和本地脚本。
 *   当我们将单个步骤结合起来构建更复杂的逻辑时，就有了真正的力量。今天以下是可能的。这是迈向自我修复系统的一步。
 
-[![Complex Workflow](../Images/b8da2990ef143619ad0868496cc55b28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m5sc1sn5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://uploads-ssl.webflow.com/5adf07174a787c7249ade79f/5b0ff5c76249257adda9ed3b_screen-shot-2018-03-27-at-10-08-18-am.png)
+[![Complex Workflow](img/b8da2990ef143619ad0868496cc55b28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m5sc1sn5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://uploads-ssl.webflow.com/5adf07174a787c7249ade79f/5b0ff5c76249257adda9ed3b_screen-shot-2018-03-27-at-10-08-18-am.png)
 
 ## 挑战
 

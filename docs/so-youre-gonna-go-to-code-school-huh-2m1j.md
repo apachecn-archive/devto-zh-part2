@@ -12,7 +12,7 @@
 
 亲爱的读者，幸运的是，你可以相信你的学校录取了你，因为他们相信你和你适应、学习和克服困难的能力。
 
-[![](../Images/00a11dc0eacef2b3c046950bad55dd67.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8ChJger9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2ALadjK82-AV9ov4N6.jpg)
+[![](img/00a11dc0eacef2b3c046950bad55dd67.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8ChJger9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2ALadjK82-AV9ov4N6.jpg)
 
 我向你保证，你可以很快学会这些东西，而且不会落后太多。但是，本着真诚的精神，这里是我给你的建议，从技术上和其他方面，来缓解你的那部分挣扎，这样你就可以，你知道…和其他事情做斗争。比如让 RSpec 运行。或者，你知道。随便啦。
 
@@ -31,7 +31,7 @@
 
 1.  准备一个情绪自我护理包，并采取“休息比什么都重要”的心态。
 
-[![](../Images/307ef7ae7656ed6ccec37a5b4986fd07.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_i0eqECK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/450/1%2AaKOJRWEVAh96MaAJJPjTTA.jpeg)
+[![](img/307ef7ae7656ed6ccec37a5b4986fd07.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_i0eqECK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/450/1%2AaKOJRWEVAh96MaAJJPjTTA.jpeg)
 
 好吧，编程可能会打击你的自尊心。我并不完美，当某些东西不工作时，我仍然会感到沮丧和不安，我可以把它当成个人的。我还带着一个坏习惯进了学校，那就是不管花多长时间，都要不停地解决一个问题。请不要这样做。你会耗尽你的情感储备，这会完全影响你的思维方式和能量水平。改编番茄工作法，虔诚地坚持。在你真正需要深呼吸之前，训练自己做深呼吸练习。找出是什么让你的灵魂歌唱，并找出如何在学校里保持这样做。我喜欢音乐。我仍然每天做它。
 

@@ -8,7 +8,7 @@
 
 现在让我们看一些代码。要创建整数的链表数据结构，它可以是这样的:
 
-[![](../Images/b129288910354fb5763e9b4612f3b6f9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uKRSUQEP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A0zR8sRiSKaulppRQxFq1yw.png) 
+[![](img/b129288910354fb5763e9b4612f3b6f9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uKRSUQEP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A0zR8sRiSKaulppRQxFq1yw.png) 
 
 <figcaption>链表实例</figcaption>
 
@@ -16,17 +16,17 @@
 
 要将数据插入 ListNode，可以执行以下操作:
 
-[![](../Images/ab1697b4185ed6545a15e04558a4547d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rWsyBWLH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AxXKnFpDd4M3u-A3fZLYDMw.png)
+[![](img/ab1697b4185ed6545a15e04558a4547d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rWsyBWLH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AxXKnFpDd4M3u-A3fZLYDMw.png)
 
 在上面的例子中，您创建了两个列表:list1 和 list2。检查您是否正确地插入了元素是一个好主意。让我们开始吧。最近，我从 Kevin Lau 和 Vincent Ngo 关于 Swift 中的[数据结构和算法的书中，学会了一种打印链表中的值的简洁方法。让我们进入代码，然后我会解释我们做了什么。](https://store.raywenderlich.com/products/data-structures-and-algorithms-in-swift)
 
-[![](../Images/e0be61e2b6edf77896a8b4069c9888ff.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JNRyUvFk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AlaQvs5vSqXQPKlb7WPVC2A.png) 
+[![](img/e0be61e2b6edf77896a8b4069c9888ff.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JNRyUvFk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AlaQvs5vSqXQPKlb7WPVC2A.png) 
 
 <figcaption>使用 CustomStringConvertible</figcaption>
 
 在上面的代码中，首先遵循 CustomStringCovertible 协议，然后实现描述。描述实现使用字符串插值来打印节点的值和下一个节点的值。因此，当您将 ListNode 传递给 String(descripting:)初始化器时，print(_:)函数将使用描述返回的值。查看上面的示例，列表打印如下:
 
-[![](../Images/28ff4bc3a50f91d053b757946a11f5eb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ptUj-IJt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AtZ-najXrlxmVFnDJISeerw.png)T3】打印链表中的元素
+[![](img/28ff4bc3a50f91d053b757946a11f5eb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ptUj-IJt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AtZ-najXrlxmVFnDJISeerw.png)T3】打印链表中的元素
 
 让我们扩展这个例子，将两个列表合并成一个排序列表。你可以假设每个列表都是有序的。您将处理三个案例:
 
@@ -36,7 +36,7 @@
 
 一种解决方案可能是这样的:
 
-[![](../Images/e8391b7ed780907d3739c9731b184f6e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Qvi38Lpr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ALFwfOtxIGvn9CHMGs-fs3Q.png) 
+[![](img/e8391b7ed780907d3739c9731b184f6e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Qvi38Lpr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ALFwfOtxIGvn9CHMGs-fs3Q.png) 
 
 <figcaption>将两个排序链表合并成一个排序链表</figcaption>
 
@@ -54,7 +54,7 @@
 
 insertNode 函数如下所示:
 
-[![](../Images/d1af29aff5b31d17f715a05ef6f8051e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ku81GI9G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A2DonG-duAhVY8a9LL9L1bw.png) 
+[![](img/d1af29aff5b31d17f715a05ef6f8051e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ku81GI9G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A2DonG-duAhVY8a9LL9L1bw.png) 
 
 <figcaption>将节点插入链表</figcaption>
 
@@ -65,7 +65,7 @@ insertNode 逻辑有两个部分:
 
 总的来说，插入是 O(1)常数时间。这是通过跟踪最近插入的节点来实现的。最后但同样重要的是，这是合并列表的打印解决方案:
 
-[![](../Images/7ca493263c5dc57c55e4222f2e144d38.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AciICdaI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ab3_zCjsGUEdZuzh4uSvEiA.png)
+[![](img/7ca493263c5dc57c55e4222f2e144d38.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AciICdaI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ab3_zCjsGUEdZuzh4uSvEiA.png)
 
 ### 从这里去哪里？
 

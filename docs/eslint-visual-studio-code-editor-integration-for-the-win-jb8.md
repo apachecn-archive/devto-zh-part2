@@ -4,7 +4,7 @@
 
 编码是复杂的——需要记住大量的最佳实践、遵循大量的指导方针和避免“已知问题”——所以在工作时有一只“援助之手”会有所帮助。
 
-<figure>[![](../Images/262acc5889ca83f0c5c47ea94874d6d7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---GoJn40g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/398/1%2ATPkhIqPgVzFSSpwdlVwhVw.png)
+<figure>[![](img/262acc5889ca83f0c5c47ea94874d6d7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---GoJn40g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/398/1%2ATPkhIqPgVzFSSpwdlVwhVw.png)
 
 <figcaption>ESLint—[https://eslint.org/](https://eslint.org/)</figcaption>
 
@@ -62,7 +62,7 @@ eslint-plugin-react
 
 安装了所有这些插件后，我的 package.json 文件如下所示:
 
-<figure>[![](../Images/4c41a65a3ca8addfb90ef96d3d312733.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--P2lnbJZ9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AxsrntccR6nCD51Gr9zKwvg.png) 
+<figure>[![](img/4c41a65a3ca8addfb90ef96d3d312733.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--P2lnbJZ9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AxsrntccR6nCD51Gr9zKwvg.png) 
 
 <figcaption>带有 ESLint 配置和插件的 package.json 文件</figcaption>
 
@@ -72,7 +72,7 @@ eslint-plugin-react
 
 除了这些 npm 包，我们还将向项目的根目录添加一个配置文件，名为。eslintrc，看起来像这样:
 
-<figure>[![](../Images/a411409740c89287db4ff4af63d5f1b6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zO1fw0gD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AAgug9EAS4QMlUuLOMNyv8Q.png) 
+<figure>[![](img/a411409740c89287db4ff4af63d5f1b6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zO1fw0gD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AAgug9EAS4QMlUuLOMNyv8Q.png) 
 
 <figcaption>我的。eslintrc 文件</figcaption>
 
@@ -88,7 +88,7 @@ npx eslint src/App.js
 
 这在终端中给出了以下输出:
 
-<figure>[![](../Images/12b331ac3b4f2b2077c8e91fa4db68b1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4gA47_Q3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A_P4YPpbVg4L-Utu7egF-vg.png) 
+<figure>[![](img/12b331ac3b4f2b2077c8e91fa4db68b1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4gA47_Q3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A_P4YPpbVg4L-Utu7egF-vg.png) 
 
 <figcaption>从端子</figcaption>
 
@@ -98,7 +98,7 @@ npx eslint src/App.js
 
 为了更容易运行，我们还可以将该命令添加到 package.json 文件的脚本部分，如下所示:
 
-<figure>[![](../Images/b6470d5f38983de6f47ef8ec1a6b0f2c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5iMhQfZL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/770/1%2AWIn_eNNTYewBEd9AAuO8-g.png)
+<figure>[![](img/b6470d5f38983de6f47ef8ec1a6b0f2c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5iMhQfZL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/770/1%2AWIn_eNNTYewBEd9AAuO8-g.png)
 
 <figcaption>package . JSON 文件的脚本段</figcaption>
 
@@ -114,9 +114,9 @@ ESLint 插件可以从 Visual Studio Marketplace 安装，并提供与 Visual St
 
 但是它实际上做什么呢？它增加了内嵌代码错误突出显示，这改变了您的编辑体验(如下图所示)
 
-[![](../Images/40065c63ffa8f852e92b554c899b3fae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dpH0qcDy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AO6Q5VDIKC4UM_sfJOlE82w.png)
+[![](img/40065c63ffa8f852e92b554c899b3fae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dpH0qcDy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AO6Q5VDIKC4UM_sfJOlE82w.png)
 
-<figure>[![](../Images/7556387c6588a0bebb8be2f2f9837dc3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YV-WcCAD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2An20krHQQGci7D347-4HELQ.png) 
+<figure>[![](img/7556387c6588a0bebb8be2f2f9837dc3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YV-WcCAD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2An20krHQQGci7D347-4HELQ.png) 
 
 <figcaption>左边:无 ESLint 集成，右边:有 ESLint 集成</figcaption>
 
@@ -126,7 +126,7 @@ ESLint 插件可以从 Visual Studio Marketplace 安装，并提供与 Visual St
 
 不过，这并不完全是关于内联验证的，它还与编辑器的其他部分进行了一些巧妙的集成，比如“问题”面板:
 
-<figure>[![](../Images/1ea1e0ee07ec7f679fc46e8c80695da7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kv5XTahh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AdvvNjcPydPLfeOswJ9u-Sg.png) 
+<figure>[![](img/1ea1e0ee07ec7f679fc46e8c80695da7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--kv5XTahh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AdvvNjcPydPLfeOswJ9u-Sg.png) 
 
 <figcaption>(上图)ESLint 与‘问题’面板的集成</figcaption>
 
@@ -158,6 +158,6 @@ ESLint 的酷之处在于，它可以被扩展以检查不仅仅是逻辑代码�
 
 通过所有这些设置，您可以体验将程序与坚持一致性和最佳实践的人配对是什么感觉，而不需要实际进行配对。
 
-<figure>[![](../Images/cd9b2e80941dd2ce53355682d909f505.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KUxp06wi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A84wQvgcY-qeS92WYYvJBTA.jpeg)</figure>
+<figure>[![](img/cd9b2e80941dd2ce53355682d909f505.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KUxp06wi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A84wQvgcY-qeS92WYYvJBTA.jpeg)</figure>
 
 * * *

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/smith288/netsuite-suitescript-20-client-side-onload-hackery-2hpn>
 
-[![banner](../Images/058f9b8e57f3cab2ce02673daaadeb8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PHOO03yb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m5sag5dg3ync1ww8wk8a.gif)
+[![banner](img/058f9b8e57f3cab2ce02673daaadeb8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PHOO03yb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m5sag5dg3ync1ww8wk8a.gif)
 
 当我的公司从 Suitescript 1.0 迁移到 2.0 时(因为，为什么不呢？)我们需要做的一件事是，当某个事件发生时，从另一个浏览器标签中监听浏览器的消息监听器。
 

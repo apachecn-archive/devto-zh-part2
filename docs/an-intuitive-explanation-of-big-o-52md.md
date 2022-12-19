@@ -61,7 +61,7 @@ Is 1 equal to 1? Yes. Return true!
 
 如果我们将 CPU 执行的比较次数与输入数组的长度绘制成图表，结果如下所示:
 
-[![linear](../Images/cf972435d2c7cb67ab071f8f7bf85d34.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B0w5jtR8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://docs.google.com/drawings/d/1ERlK5scz4_dbylONq1caIGbSFfZ5AEQMP46alcLozuI/pub%3Fw%3D850%26h%3D541)
+[![linear](img/cf972435d2c7cb67ab071f8f7bf85d34.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B0w5jtR8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://docs.google.com/drawings/d/1ERlK5scz4_dbylONq1caIGbSFfZ5AEQMP46alcLozuI/pub%3Fw%3D850%26h%3D541)
 
 这是一条斜率为 1 的线性线。由于这个原因，我们说我们的`isOneInArray`算法是 O(n ),其中 n 是输入数组的长度。唯一影响 CPU 比较次数的是输入数组的长度。
 

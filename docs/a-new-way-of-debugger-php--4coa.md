@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/joshualjohnson/a-new-way-of-debugger-php--4coa>
 
-[![Firebug panel](../Images/6e1c96a0e0dd0cd3c8ad121299e4a02a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D1psuOef--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uxku82y7w5l90ahtp4zv.png)
+[![Firebug panel](img/6e1c96a0e0dd0cd3c8ad121299e4a02a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D1psuOef--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uxku82y7w5l90ahtp4zv.png)
 
 嘿伙计们！我想分享一小段来自我们实验室的最新代码。火虫 PHP...
 

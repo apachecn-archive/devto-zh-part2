@@ -6,7 +6,7 @@
 
 **TLDR:** 👋Dev.to 我们正在推出 [**学习故事书**](https://www.learnstorybook.com/)**——一个快速、平易近人、免费的故事书入门教程。无论你是一个新的还是有经验的前端开发人员，本教程都给你一个学习专业团队使用的 UI 组件工具的开端。包括与章节同步的真实代码提交，以便于保持同步。**
 
- **[![](../Images/99bc8a145004ce7205f373815781e085.png)T2】](https://www.learnstorybook.com/)
+ **[![](img/99bc8a145004ce7205f373815781e085.png)T2】](https://www.learnstorybook.com/)
 
 如果你像我一样在前端工作，你可能听说过 Storybook(最初叫做 React Storybook)。起初你可能会不以为然。另一天，另一个开发工具。
 
@@ -18,7 +18,7 @@
 
 人们不再考虑页面，而是考虑组件。组件仍然输出熟悉的 HTML、CSS 和 JavaScript 三足鼎立，但是生成输出的方式已经发生了变化。
 
-<figure>[![](../Images/6f74073dfa3064a77cb159fc25ff38d1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--U_N5pOTu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/600/1%2Ag_NWhiyrHR2URLtR12waVg.gif) 
+<figure>[![](img/6f74073dfa3064a77cb159fc25ff38d1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--U_N5pOTu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/600/1%2Ag_NWhiyrHR2URLtR12waVg.gif) 
 
 <figcaption>将属性扔向一个组件，看它呈现不同的排列。</figcaption>
 
@@ -34,7 +34,7 @@
 
 开发人员通过向组件传递一组独特的输入来产生不同的变化(类似于单元测试中的规范)，从而创建“故事”。这些故事被编入索引并记录在 Storybook 中，因此您可以在开发过程中直观地检查它们，或者在测试过程中再次访问它们。
 
-[![](../Images/0395712f07cdd25e46c405dd800f1318.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RBZA_Lyj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ae0qaK7VJ7HnAnMvEit1C0Q.jpeg)
+[![](img/0395712f07cdd25e46c405dd800f1318.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RBZA_Lyj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ae0qaK7VJ7HnAnMvEit1C0Q.jpeg)
 
 ## [学习故事书](https://www.learnstorybook.com/) —动手教程
 
@@ -44,7 +44,7 @@
 
 在 Storybook 中从头开始构建 UI 时，您将了解基本的 UI 组件技术(非常适合基于项目的学习者)。
 
-<figure>[![](../Images/fbd6086979660dafec17b03f5f40c842.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4QFQnpog--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A4IrlYDsMEI2LgV20_FVB-g.png) 
+<figure>[![](img/fbd6086979660dafec17b03f5f40c842.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4QFQnpog--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A4IrlYDsMEI2LgV20_FVB-g.png) 
 
 <figcaption>建立 Taskbox，建立任务管理 UI</figcaption>
 
@@ -72,7 +72,7 @@
 
 希望 [**学故事书**](https://www.learnstorybook.com/) 对你有帮助，嗯，学故事书！
 
-[![](../Images/177996ed1508a9c6bf023e51dd195233.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LN20Ka4f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/64/1%2AGtyOd4Uan21s07cExngbrg.png)
+[![](img/177996ed1508a9c6bf023e51dd195233.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LN20Ka4f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/64/1%2AGtyOd4Uan21s07cExngbrg.png)
 
 ## 欢迎投稿人
 

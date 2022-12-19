@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/pbnj/docker-security-best-practices-45ih>
 
-[![voodoo container](../Images/fbfeac38a41f68ee65c1bc717eed8c2b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NxBdHYQw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/en/4/41/Stefan_Beese%2527s_Eco_Shipping_Container_Lounge_by_Melissa_Carrier.jpg)
+[![voodoo container](img/fbfeac38a41f68ee65c1bc717eed8c2b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NxBdHYQw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/en/4/41/Stefan_Beese%2527s_Eco_Shipping_Container_Lounge_by_Melissa_Carrier.jpg)
 
 ## 目录
 

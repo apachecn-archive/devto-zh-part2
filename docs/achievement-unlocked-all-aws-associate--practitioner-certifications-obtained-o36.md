@@ -10,7 +10,7 @@
 
 浆糊年也不容易。离开了一个稳定的职位，开始了一个小规模的创业，我是一个团队的领导者，加入了一个不断增长的中档安全公司`dream job`，搬到了离所述工作更近的地方，不得不买一辆新的(呃)(二手)汽车，这花去了我很大一部分积蓄。然后三周后被理想的工作解雇了。这让我失业了近两个月，老实说，真的很沮丧。最终，我在埃森哲获得了一个新职位，协助一家排名前三的电信公司采用开发(秒)运营构建渠道。考虑到移居荷兰生活和工作的可能性非常真实，但却在最后一刻被否决，这令人心碎。
 
-<figure>[![](../Images/b620d79b3d228d314590feacec09ceb5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6bW4Ew-l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/10/path-success.jpg) 
+<figure>[![](img/b620d79b3d228d314590feacec09ceb5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6bW4Ew-l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/10/path-success.jpg) 
 
 <figcaption>看起来总是容易，其实从来都不是。</figcaption>
 
@@ -22,7 +22,7 @@
 
 我知道这是最近的一个里程碑，是一个小小的成就，但是要想到达星星，你首先要建造一个发射台。
 
-<figure>[![](../Images/1196f56b4f14f7aa4ee059cbb48bbf73.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lDiJdhzz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/10/fh-onpad.jpg) 
+<figure>[![](img/1196f56b4f14f7aa4ee059cbb48bbf73.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lDiJdhzz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/10/fh-onpad.jpg) 
 
 <figcaption>第二天亲眼目睹了这次发射。</figcaption>
 

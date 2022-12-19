@@ -16,7 +16,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 安装完成后，您可以在命令行中键入`dojo --help`,您应该会得到这个漂亮的帮助消息。
 
-[![](../Images/bdff7d65e0090de6f640f69eacf5da75.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JgInsk3I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ev6jj7cp46m3cvj3xp98.png)
+[![](img/bdff7d65e0090de6f640f69eacf5da75.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JgInsk3I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ev6jj7cp46m3cvj3xp98.png)
 
 *好看*
 
@@ -49,7 +49,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您应该能够打开浏览器到`http://localhost:9999/`，您会看到以下内容
 
-[![](../Images/519a8e8840853116f79d35e370b16413.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qGr-Ae9n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7x2o5di47ks8df1qfkd6.gif)
+[![](img/519a8e8840853116f79d35e370b16413.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qGr-Ae9n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7x2o5di47ks8df1qfkd6.gif)
 
 *成功*
 

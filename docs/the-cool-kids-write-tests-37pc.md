@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/pancy/the-cool-kids-write-tests-37pc>
 
-[![why does code work](../Images/67fbda7a8ea73bb470c6a1a1677ffaf0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7_R_LANh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.pinimg.com/736x/ca/47/94/ca4794cfada458717c7aa99093a1f425--computer-humor-computer-science.jpg)
+[![why does code work](img/67fbda7a8ea73bb470c6a1a1677ffaf0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7_R_LANh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.pinimg.com/736x/ca/47/94/ca4794cfada458717c7aa99093a1f425--computer-humor-computer-science.jpg)
 
 一般来说，软件测试有一个不好的名声。许多开发者将它与 SQA/SDET 联系在一起。他们认为他们没必要写测试，因为那应该留给守门员。我甚至认识一位 SQA 工程师，他自贬身份，称自己不是真正的工程师，还有人认为申请 SDET 的职位更容易进入一家知名公司。这些导致了一种错误的信念，即真正的工程师只会制造东西，而测试工程师是劣等的。
 

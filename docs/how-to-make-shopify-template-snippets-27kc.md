@@ -14,13 +14,13 @@ Shopify 用他们的“**片段**提供了一个版本。代码片段是可重�
 
 在首页上，这与类似于 *Squarespace* 或 *Wix* 的事情非常相似。你有 ***【内容块】*** ，每个块是一个**片段**，你可以按照你喜欢的任何顺序排列它们。如果你点击一个区块，它会显示更多的选项，比如插入文本或图像。
 
-[![The widget](../Images/617288c3d5fa1ca738e1e4755cc89094.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_tQtIo76--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://stayregular.net/content/2-blog/20180409-how-to-make-shopify-template-snippets/shopify-admin1.png)
+[![The widget](img/617288c3d5fa1ca738e1e4755cc89094.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_tQtIo76--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://stayregular.net/content/2-blog/20180409-how-to-make-shopify-template-snippets/shopify-admin1.png)
 
-[![A block inside the widget](../Images/60da4b014d95926a9e9b9e7ab518b9bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sGuJ5p1e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://stayregular.net/content/2-blog/20180409-how-to-make-shopify-template-snippets/shopify-admin2.png)
+[![A block inside the widget](img/60da4b014d95926a9e9b9e7ab518b9bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sGuJ5p1e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://stayregular.net/content/2-blog/20180409-how-to-make-shopify-template-snippets/shopify-admin2.png)
 
 然而，在任何其他页面上，它仍然需要您手动将 include 片段插入到您的 Liquid page 模板(`{% section 'your-snippet-here' %}`)中，并且它不提供相同级别的定制。您可以插入变量，但它是一个不同于块设置的 API，所以您也必须考虑这一点。
 
-[![](../Images/5b0924ef1c7a5f589571bfdedc6e00da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ytjpKcC7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://stayregular.net/content/2-blog/20180409-how-to-make-shopify-template-snippets/shopify-snippet.png)
+[![](img/5b0924ef1c7a5f589571bfdedc6e00da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ytjpKcC7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://stayregular.net/content/2-blog/20180409-how-to-make-shopify-template-snippets/shopify-snippet.png)
 
 ## 制作片段
 
@@ -325,7 +325,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您应该会看到如下所示的内容:
 
-[![](../Images/1dcc72fd9f4f46ef915d2ecbbbf303ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9ei2zN9s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://stayregular.net/content/2-blog/20180409-how-to-make-shopify-template-snippets/speakers.png)
+[![](img/1dcc72fd9f4f46ef915d2ecbbbf303ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9ei2zN9s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://stayregular.net/content/2-blog/20180409-how-to-make-shopify-template-snippets/speakers.png)
 
 ## 易如图式
 

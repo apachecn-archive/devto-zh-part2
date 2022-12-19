@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/adnanrahic/a-crash-course-on-optimizing-your-docker-images-for-production-2f9l>
 
-[![This months sponsor is Zeet.](../Images/a4da9440f5519d3156594813d3a02017.png)T2】](https://bit.ly/adnan-zeet)
+[![This months sponsor is Zeet.](img/a4da9440f5519d3156594813d3a02017.png)T2】](https://bit.ly/adnan-zeet)
 
 免责声明: [Zeet](https://bit.ly/adnan-zeet) 将在下个月赞助这篇博客。前几天我试过了。这就像无服务器，但运行整个后端。你可以自动托管和扩展应用。相当整洁。
 
@@ -53,7 +53,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 想猜猜尺寸吗？我惊讶得目瞪口呆。 **727MB** 一个简单的 API！？
 
-[![](../Images/db7670255b2371ae81efa88faff9411d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wx0QS_sJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A3Gvi08t7bP-agD26yk2VLQ.png)
+[![](img/db7670255b2371ae81efa88faff9411d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wx0QS_sJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A3Gvi08t7bP-agD26yk2VLQ.png)
 
 请不要这样做。你不需要这么做，真的，不要。
 
@@ -75,7 +75,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 整整小了六倍！下降到 **123.1MB** 。这还差不多。
 
-[![](../Images/010681cf746aed9df5b17014afe50e70.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qiss6V5J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AhLJYuKXsRHMdCtKUhk14nA.png)
+[![](img/010681cf746aed9df5b17014afe50e70.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qiss6V5J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AhLJYuKXsRHMdCtKUhk14nA.png)
 
 ### 排除开发依赖
 
@@ -95,7 +95,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们走吧。我们又砍掉了 30MB！现在降到了 **91.6MB** 。我们有进展了。
 
-[![](../Images/83c506707f7de14ee5a1a9ee9736954d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JvHMaJ4M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ASktWUx5Y1y8O4PirwqSvFw.png)
+[![](img/83c506707f7de14ee5a1a9ee9736954d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JvHMaJ4M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ASktWUx5Y1y8O4PirwqSvFw.png)
 
 这让我感到非常自豪，我准备就此收工。但是我突然想到。如果我从原始的阿尔卑斯山图片开始呢？如果我自己抓取基本 Alpine 映像并安装 Node.js，它可能会更小。我是对的！
 
@@ -118,7 +118,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 降到现在的 **70.4MB** 。这比我们开始的地方小了 10 倍！
 
-[![](../Images/7b41c3daebbac209c4367b2eaffebb4b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7zrgdqWn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A31zcUa1Qi34tnV-_3OMTVQ.png)
+[![](img/7b41c3daebbac209c4367b2eaffebb4b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7zrgdqWn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A31zcUa1Qi34tnV-_3OMTVQ.png)
 
 我们现在能做的不多了，对吧？对不对…？
 
@@ -171,7 +171,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 想猜猜最终尺寸吗？去吧！
 
-[![](../Images/a604c51d2b45d68e4c31d787bead194d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lEm2-Ppg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AW-3Dyv-HSeBvZVoXfoySFw.png)
+[![](img/a604c51d2b45d68e4c31d787bead194d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lEm2-Ppg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AW-3Dyv-HSeBvZVoXfoySFw.png)
 
 我要说我们做得很好，将它降到了 48.6 MB(T1)，这是 T2 的 15 倍(T3)，是一件值得骄傲的事情。
 

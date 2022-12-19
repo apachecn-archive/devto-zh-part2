@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/runtime-revolution/four-things-about-pry-2pe5>
 
-<figure>[![](../Images/aadd80cab97ee70f18dc201f1c870cd0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jKa6ttg1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/819/1%2AQTCgxaIflO13BjErDm69nw.png) 
+<figure>[![](img/aadd80cab97ee70f18dc201f1c870cd0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jKa6ttg1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/819/1%2AQTCgxaIflO13BjErDm69nw.png) 
 
 <figcaption>准备行动撬。</figcaption>
 

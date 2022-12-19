@@ -4,7 +4,7 @@
 
 包括我自己在内的许多开发人员都有一种根深蒂固的东西，这种东西会产生过度工程化的倾向。也许这就是我们被教导的方式，或者也许这是一种对我们的代码进行“未来检验”的自然愿望。不管怎样，这种倾向是如此强烈，即使意识到这一点也不足以阻止这种行为。
 
-[![](../Images/4ca533c271706745b289272d1a1c5d89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lIAtBM6T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.professorbeekums.com/img/2018/rube_goldberg_machine.gif)
+[![](img/4ca533c271706745b289272d1a1c5d89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lIAtBM6T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.professorbeekums.com/img/2018/rube_goldberg_machine.gif)
 
 今年早些时候，我在开发一个帮助用户过滤电子邮件的系统。虽然我喜欢 Gmail 过滤器，但创建和调试它们的经验有点欠缺。我想给马利加一些更简单的东西。我一开始只有两个非常宽泛的选择:
 

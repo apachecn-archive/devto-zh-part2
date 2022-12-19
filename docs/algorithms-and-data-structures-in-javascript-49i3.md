@@ -15,7 +15,7 @@
 *   **数据结构操作复杂性** —不同数据结构的搜索、读取或插入速度有多快
 *   **排序算法复杂度对比表** —帮助您根据自己的情况选择合适的排序算法
 
-[![Big O graphs](../Images/f58c57a0ddb5440e2802f51811c58743.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NQZMO44u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/whmiuox9wmrf1szrlg1a.png)
+[![Big O graphs](img/f58c57a0ddb5440e2802f51811c58743.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NQZMO44u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/whmiuox9wmrf1szrlg1a.png)
 
 所有的**代码都被测试**100%覆盖。这样做不仅是为了保持代码正确工作，也是为了说明每个算法或数据结构是如何工作的，它们有哪些基本操作(比如对堆的轮询)，以及什么是边缘情况(如果图是有向的，该做什么)。
 

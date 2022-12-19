@@ -34,7 +34,7 @@
 
 然而，这并不是一个硬性规定；如果由于生产率原因，你更喜欢学习 Kotlin 而不是 Java，并且主要专注于 Android 开发，那么你肯定可以从 Kotlin 开始， [Kotlin 基础知识](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fkotlin-fundamentals)是一个很好的起点。
 
-[![](../Images/f46ee4943e5f56c49bbdb7155d0f0fc0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ubgCkbnd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AaYSZ4eBDvWmG-La8SCY3kA.jpeg)
+[![](img/f46ee4943e5f56c49bbdb7155d0f0fc0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ubgCkbnd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AaYSZ4eBDvWmG-La8SCY3kA.jpeg)
 
 但是，一旦你了解了 Java，你的 Kotlin 之旅也会变得简单而顺利，因为 Kotlin 与 Java 是 100%可互操作的。它编译成 Java 字节码，运行在 [JVM](http://javarevisited.blogspot.sg/2011/12/jre-jvm-jdk-jit-in-java-programming.html) 上。
 
@@ -46,7 +46,7 @@
 
 下面是 [Kotlin](https://kotlinlang.org/) 和 [Java](https://www.oracle.com/in/java/index.html) 在生产率和编写类似内容的代码行数方面的一个很好的比较:
 
-[![](../Images/e2835aa5f5066182afdb2ca1b88356a6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UFFvMA0A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/0%2A8fg5ZmdAeuaPESm5.png)
+[![](img/e2835aa5f5066182afdb2ca1b88356a6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UFFvMA0A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/0%2A8fg5ZmdAeuaPESm5.png)
 
 如果你不知道，Kotlin 是由 JetBrains 开发的，JetBrains 是最流行的 Java IDEs 之一 IntelliJ IDEA 的幕后公司。他们是一家 Java 商店，用 Java 开发像 IntelliJ IDEA T1、PyCharm 和 ReSharper 这样的 ide，并构建 Kotlin 来提高他们的生产力，但同时，他们不能用 Kotlin 重写他们所有的代码，这就是为什么他们让 Kotlin 与 Java 完全互操作。
 
@@ -64,7 +64,7 @@
 
 如果你更喜欢书，那么 [Kotlin in Action](http://aax-us-east.amazon-adsystem.com/x/c/QpipwDhplwm9GhoeHV3VZq0AAAFhcNMDZwEAAAFKAR5WI5E/https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/Kotlin-Action-Dmitry-Jemerov/dp/1617293296/ref=as_at?creativeASIN=1617293296&linkCode=w61&imprToken=TK3w.teKw9SEbyZ6P9pJaA&slotNum=0&tag=javamysqlanta-20) 也不错。您可以自学 Kotlin 的所有基本特性，例如 var 与 val、数据关键字和函数式编程。
 
-[![](../Images/61167f1815783f1ee4169b21ddc92713.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8Im3f8C---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AQX9vdl1783G6eVJCw2MYUQ.jpeg)
+[![](img/61167f1815783f1ee4169b21ddc92713.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8Im3f8C---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AQX9vdl1783G6eVJCw2MYUQ.jpeg)
 
 这就是关于 Android 开发者应该学习 Kotlin 还是 Java 的问题。我说过，如果你是一个完全的初学者，想以 Android 开发者的身份开始你的职业生涯，你最好从 Java 开始。
 

@@ -18,7 +18,7 @@
 
 <figure>
 
-[![mailgun](../Images/097d27136290b4016ae02485a6d04323.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZjzCVvqn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4jmizyczm4gcotsxm1by.png)
+[![mailgun](img/097d27136290b4016ae02485a6d04323.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZjzCVvqn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4jmizyczm4gcotsxm1by.png)
 
 <figcaption>(mailgun official announcement on free inbound mail)</figcaption>
 
@@ -32,7 +32,7 @@
 
 <figure>
 
-[![firebase](../Images/9177431a0556a9cd131af39e7cb559bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RMySPqYJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wzs5uevgy103nk598n98.png)
+[![firebase](img/9177431a0556a9cd131af39e7cb559bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RMySPqYJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wzs5uevgy103nk598n98.png)
 
 <figcaption>(firebase, and its free spark tier + blaze plan)</figcaption>
 
@@ -54,7 +54,7 @@
 
 * * *
 
-[![vuejs](../Images/e96c3ae09eadd6df406a16326c89257d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BRw35rmM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hj0kdz90d93ek30tszre.png)
+[![vuejs](img/e96c3ae09eadd6df406a16326c89257d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BRw35rmM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hj0kdz90d93ek30tszre.png)
 
 # 与我们的 API 交互——通过 UI 甚至 CLI
 
@@ -66,7 +66,7 @@
 
 * * *
 
-[![github](../Images/df816fcb0aa7af9f8990e8d8b8009a73.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yv8HS8Q7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h9b47x5gxwo7tgbgklsb.png)
+[![github](img/df816fcb0aa7af9f8990e8d8b8009a73.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yv8HS8Q7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h9b47x5gxwo7tgbgklsb.png)
 
 # 并使其开源
 
@@ -78,7 +78,7 @@
 
 <figure>
 
-[![uilicious test](../Images/56edb08c8424c2fe1688cebb24856ea4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UprDDSTb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rmja3d5oynevwmdjrxow.gif)
+[![uilicious test](img/56edb08c8424c2fe1688cebb24856ea4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UprDDSTb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rmja3d5oynevwmdjrxow.gif)
 
 <figcaption>Catfeeding: Uilicious testing inboxkittens XD</figcaption>
 

@@ -19,6 +19,6 @@ CSS 选择器
 
 假设您想要单击注册按钮，该按钮具有 **register_312312312** ID。
 
-[![Selenium dynamic ID](../Images/a3d58ab622d2e2112b142d773015f820.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HJe8DA_s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/6SyB3KR.png)
+[![Selenium dynamic ID](img/a3d58ab622d2e2112b142d773015f820.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HJe8DA_s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/6SyB3KR.png)
 
 编写 Selenium 代码的经典方式是这样的:

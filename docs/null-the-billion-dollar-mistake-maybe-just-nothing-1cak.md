@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/joelnet/null-the-billion-dollar-mistake-maybe-just-nothing-1cak>
 
-[![Joker burning a huge pile of money](../Images/9cf4f0345fdcfc74710201fa60c1b43a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hat4kzIV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c8q2xf9cx0wh2le4n3v0.jpg)
+[![Joker burning a huge pile of money](img/9cf4f0345fdcfc74710201fa60c1b43a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hat4kzIV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c8q2xf9cx0wh2le4n3v0.jpg)
 
 NULL 的创造者东尼·霍尔现在把 NULL 称为十亿美元的错误。即使空引用异常直到今天仍然困扰着我们的代码，我们仍然选择继续使用它。
 
@@ -137,7 +137,7 @@ Nothing.map(toUpper) //=> Nothing
 
 这个`Maybe`是守卫在*上的一个*而不是*众多的*！
 
-[![Neo vs many agent Smiths](../Images/14277f5568d0edc80c636bd894555132.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F4SwszJZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8i3rzn0tm7y9qepja9s4.jpg)
+[![Neo vs many agent Smiths](img/14277f5568d0edc80c636bd894555132.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F4SwszJZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8i3rzn0tm7y9qepja9s4.jpg)
 
 # 进出不定
 
@@ -413,4 +413,4 @@ const toUpper = string => string?.toUpperCase()
 
 我的文章是非常实用的 JavaScript，如果你需要更多的 FP，在这里关注我，或者在 Twitter [@joelnet](https://twitter.com/joelnet) ！
 
-[![Cheers!](../Images/661c03d25961a6e3b1ecbe00d148b35a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PqqJmrxK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6jsy3a866frzp3u5oda0.jpg)
+[![Cheers!](img/661c03d25961a6e3b1ecbe00d148b35a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PqqJmrxK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6jsy3a866frzp3u5oda0.jpg)

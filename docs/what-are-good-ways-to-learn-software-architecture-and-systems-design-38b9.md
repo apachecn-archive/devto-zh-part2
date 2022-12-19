@@ -10,4 +10,4 @@
 
 除了阅读和理解我正在开发的源代码，让自己熟悉其他开源应用程序的源代码之外，还有哪些学习构建系统的“正确心态”的好方法呢？我最感兴趣的是，考虑到系统试图解决的整体问题，如何将系统作为一个整体来考虑，以及如何将它分成最有意义的部分；如何考虑数据流、单一责任、可应用的模式等。我应该如何以及从哪里开始呢？
 
-[![I have no idea what I'm doing](../Images/d82d294af1fbe280efe9918733d6f6c6.png)T2】](https://i.giphy.com/media/xDQ3Oql1BN54c/giphy.gif)
+[![I have no idea what I'm doing](img/d82d294af1fbe280efe9918733d6f6c6.png)T2】](https://i.giphy.com/media/xDQ3Oql1BN54c/giphy.gif)

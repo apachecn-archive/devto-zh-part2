@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/webdeg/hacktoberfest---getting-your-5-prs-easily-2cfo>
 
-[![Hello World wallpaper](../Images/bb1197289d079f4a7c746099d3dd330e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_l5tFi6z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4uhxsiw0kxk9qmjs4wbk.jpeg)
+[![Hello World wallpaper](img/bb1197289d079f4a7c746099d3dd330e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_l5tFi6z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4uhxsiw0kxk9qmjs4wbk.jpeg)
 
 # Hacktoberfest，如何轻松获得你的 5 PRs？
 

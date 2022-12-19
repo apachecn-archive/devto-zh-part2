@@ -22,11 +22,11 @@ DEV 成员会遇到各种来源的文章——他们的主页、现场通知、�
 
 正如你所料，随着文章越来越老，它的前期负荷越来越大，并迅速减少。
 
-[![30 day result graph](../Images/7055b1fe7bf73b77867bd4bd65598bc4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pvMH0A1R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/1K3n0N1R3s1r/Image%25202018-08-17%2520at%252010.35.55%2520AM.png)
+[![30 day result graph](img/7055b1fe7bf73b77867bd4bd65598bc4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pvMH0A1R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/1K3n0N1R3s1r/Image%25202018-08-17%2520at%252010.35.55%2520AM.png)
 
 我决定清理数据，为 5-30 岁和 30 岁以上的人创建一个“bucket”:
 
-[![results graph](../Images/8e18b694ef199085a6117a1401246da6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--va8SMpY1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/45253g3b0S3b/Image%25202018-08-17%2520at%252010.32.21%2520AM.png)
+[![results graph](img/8e18b694ef199085a6117a1401246da6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--va8SMpY1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cl.ly/45253g3b0S3b/Image%25202018-08-17%2520at%252010.32.21%2520AM.png)
 
 **亮点**:
 

@@ -6,33 +6,33 @@
 
 当我不在 git 存储库中时，我的提示不会改变。这是我的提示符的默认状态:
 
-[![Not in a git repo](../Images/3c79ef4f638890fe59eccd782fc53e7a.png "Not in a git repo")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ma5cyLGK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0dibii4bky4h3osprh0q.png)
+[![Not in a git repo](img/3c79ef4f638890fe59eccd782fc53e7a.png "Not in a git repo")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ma5cyLGK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0dibii4bky4h3osprh0q.png)
 
 让我们通过在这里发出`git init`命令来创建一个新的 git 存储库，看看会发生什么。正如你在下图中看到的，我们在主分支上，另外我们看到一个标签。这个标签表明我们仍然处于初始化阶段，存储库初始化还没有完成。
 
-[![After a git init](../Images/cfedc38ff068db7aef0ea1716774d5a9.png "After a git init")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g4RwYp1G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/niv5kg5t6tpnvg9vl9m9.png)
+[![After a git init](img/cfedc38ff068db7aef0ea1716774d5a9.png "After a git init")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g4RwYp1G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/niv5kg5t6tpnvg9vl9m9.png)
 
 让我们创建一个新文件(即 *somefile.txt* )并提交它。现在我们的存储库处于干净的状态。我们将只能看到当前分支的名称。
 
 因此，如果我在一个 git 存储库中，并且它有一个干净的状态，我将简单地看到当前分支的名称:
 
-[![In a clean branch](../Images/cfc1034b5aec2bdd4b1ec87fe2ce06b2.png "In a clean branch")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Tfwlsrkt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qezt6p36tiyxpcn2gp9w.png)
+[![In a clean branch](img/cfc1034b5aec2bdd4b1ec87fe2ce06b2.png "In a clean branch")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Tfwlsrkt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qezt6p36tiyxpcn2gp9w.png)
 
 现在，我将修改 *somefile.txt* ，让我们看看提示是如何变化的。分支名称后会出现一个星号。这意味着我有一个未分级的跟踪文件。
 
-[![Having an unstaged file](../Images/ea2f39ae0fd0e7e93fb0a3886f6fd46a.png "Having an unstaged file")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TpVOQN74--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q37rrez4xeq5f34z2sn6.png)
+[![Having an unstaged file](img/ea2f39ae0fd0e7e93fb0a3886f6fd46a.png "Having an unstaged file")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TpVOQN74--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q37rrez4xeq5f34z2sn6.png)
 
 让我们添加另一个文件( *newfile.txt* )并立即登台。我们的提示又变了，我们都有了`*`和`+`。正如你可能已经猜到的，`+`是为了表明我们有一个阶段性的文件。
 
-[![Having a staged and an unstaged file](../Images/e9ba717fa817886a8655d36855c1a6e8.png "Having a staged and an unstaged file")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2fyN73Pu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/637s17r13w15gk726bvq.png)
+[![Having a staged and an unstaged file](img/e9ba717fa817886a8655d36855c1a6e8.png "Having a staged and an unstaged file")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2fyN73Pu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/637s17r13w15gk726bvq.png)
 
 现在让我们也暂存 *somefile.txt* ，所以我们只有暂存文件。正如我们所料，`*`消失了，我们只剩下了`+`。
 
-[![Having only staged files](../Images/095e4f026005f145244dbecd1243ec21.png "Having only staged files")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g8A4j5E3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iub7vznayg161har3zrd.png)
+[![Having only staged files](img/095e4f026005f145244dbecd1243ec21.png "Having only staged files")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g8A4j5E3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iub7vznayg161har3zrd.png)
 
 为了完成我们的周期，再次进行干净的回购，我们必须承诺。我们的工作区又干净了。没有未转移或转移的文件。
 
-[![In a clean branch again](../Images/fb0b0e131b42a15d8dd3a6eb46a7759b.png "In a clean branch again")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nzaUgAQO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9nvvakyqqhvmfbzsit9b.png)
+[![In a clean branch again](img/fb0b0e131b42a15d8dd3a6eb46a7759b.png "In a clean branch again")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nzaUgAQO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9nvvakyqqhvmfbzsit9b.png)
 
 ## 关键要点
 

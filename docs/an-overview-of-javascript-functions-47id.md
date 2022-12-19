@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/howtocodejs/an-overview-of-javascript-functions-47id>
 
-[![image](../Images/1e618c6e33281fcb119e743433d058fa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--X_rTgn_K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1fs6fwvrjs1mqqujy8a9.png) 
+[![image](img/1e618c6e33281fcb119e743433d058fa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--X_rTgn_K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1fs6fwvrjs1mqqujy8a9.png) 
 *访 howtocodejs.com 以典随例*
 
 我们可以整天沉浸在关于函数及其用途的诗意中。相反，让我们来探索有功能和没有功能的生活。

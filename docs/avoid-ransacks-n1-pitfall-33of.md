@@ -36,7 +36,7 @@ end
 ```
 
 事情进展顺利。但是等等，让我们看看当我们试图搜索某些东西时运行的 SQL 查询:
-[![lots of sql queries](../Images/d75cdcca5532a1a63ef68f9b071ee42c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vLTMc3fM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/pJUnj0d.png)
+[![lots of sql queries](img/d75cdcca5532a1a63ef68f9b071ee42c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vLTMc3fM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/pJUnj0d.png)
 
 呀！这根本不是我们想要的！
 
@@ -51,7 +51,7 @@ end
 
 再次运行我们的搜索:
 
-[![Much better!](../Images/dc34997d49c1ade4068ea4ab3d9277cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ffL0zBNP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/xA9RuMv.png)
+[![Much better!](img/dc34997d49c1ade4068ea4ab3d9277cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ffL0zBNP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/xA9RuMv.png)
 
 (请注意，在我的示例中，我还为视图的另一部分加载了子类别)
 

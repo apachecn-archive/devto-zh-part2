@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/joshghent/beginners-database-design-primer--5ahi>
 
-[![](../Images/b127d30f868a82335602f9cb42c035f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tG6dQbK---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AMVAr8Mf47z5vIxwVz69L0Q.png)
+[![](img/b127d30f868a82335602f9cb42c035f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tG6dQbK---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AMVAr8Mf47z5vIxwVz69L0Q.png)
 
 你的老板刚刚和一个客户通完电话，他想要一个针对利基市场的定制社交网站。他们想让你负责这个项目。你从未建立过社交网络。你会想到脸书、推特和 Instagram。它们是由成千上万拥有天才级智商和学位的人建造的。你怎么能竞争？
 
@@ -21,13 +21,13 @@
 
 由于我们正在建立一个社交网络，主要的功能是让用户发帖，并允许其他(授权)用户发表评论。这里我们有一个一对多的关系，因为一个用户可以有很多帖子和评论。
 
-[![](../Images/9a4e05ccfdcdcb0e07603c9d43f8fbdc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y2B4IIMb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AFyqSEsID4A_2jE_n.)
+[![](img/9a4e05ccfdcdcb0e07603c9d43f8fbdc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y2B4IIMb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AFyqSEsID4A_2jE_n.)
 
 我们还会有其他需要多对多关系的实例，比如用户“喜欢”(比如喜欢一个页面或群组)，因为一个用户会有许多喜欢，而这些喜欢会有许多不同的属性。
 
 良好的数据库设计的主要目标之一是删除冗余数据并增加数据的完整性。通常，人们会组合具有一对一关系的表。例如存储用户数据和他们的地址。让我们看看为什么:
 
-[![](../Images/9809de5e647d4876b47f98ebe2275c31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--avdwEsh7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AJVxQ1FSGDaEupI9Z.)
+[![](img/9809de5e647d4876b47f98ebe2275c31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--avdwEsh7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AJVxQ1FSGDaEupI9Z.)
 
 左边的例子结合了用户表和那个人的地址。在右边，我们将它分成不同的表格。但是哪种方法是最佳的呢？
 

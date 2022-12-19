@@ -16,7 +16,7 @@
 
 上述方法的问题在于，改变光线条件和肤色确实会干扰皮肤检测。而另一方面，直方图往往更准确，并且考虑了当前的光照条件。
 
-[![Hand over the rectangles](../Images/8b5e53a9dee39dab3bbccfe835d8e967.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iIEtBPzW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aaijxoqwmrkyx8epxq4t.png)
+[![Hand over the rectangles](img/8b5e53a9dee39dab3bbccfe835d8e967.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iIEtBPzW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aaijxoqwmrkyx8epxq4t.png)
 
 绿色的矩形绘制在框架上，用户将手放在这些矩形内。应用程序从用户的手上提取肤色样本，然后创建一个直方图。
 

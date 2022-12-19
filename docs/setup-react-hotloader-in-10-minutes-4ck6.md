@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/setup-react-hotloader-in-10-minutes-4ck6>
 
-<figure>[![](../Images/f23b38d750648ab8a81a04ba7376ef6e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oWRh-R_3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AzUqNnLMhl1f6kprsmW1hcw.jpeg) 
+<figure>[![](img/f23b38d750648ab8a81a04ba7376ef6e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oWRh-R_3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AzUqNnLMhl1f6kprsmW1hcw.jpeg) 
 
 <figcaption>照片由[【陆】上](https://unsplash.com/photos/RISlZXiSShA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)[下](https://unsplash.com/search/photos/loading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 
@@ -36,7 +36,7 @@ HMR 解决了热重新加载的问题，使调整样式变得更容易(几乎相
 
 本文的结果代码可以在 [GitHub](https://github.com/christiannwamba/react-hot-loader-demo) 上找到。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/?cid=banner_a)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/?cid=banner_a)
 
 ### 先决条件
 
@@ -78,7 +78,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这个命令启动指向地址 [localhost://3000](http://localhost:3000/) 的 web 服务器。我们将在浏览器上访问这个地址，并保持选项卡打开，因为在整个教程中，我们将在浏览器中监控应用程序的更新和行为。
 
-[![](../Images/204f9c20cc2e27a2365d784317a55b3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JRTOgiim--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/655/0%2AEcS1HNjAsGcS3BAo.png)
+[![](img/204f9c20cc2e27a2365d784317a55b3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JRTOgiim--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/655/0%2AEcS1HNjAsGcS3BAo.png)
 
 当我们使用 create-react-app 创建一个新项目时，热模块替换(HRM)插件在 Webpack 配置文件中默认启用，尽管我们看不到该文件，因为 create-react-app 为我们配置了我们的应用程序并隐藏了配置文件。
 

@@ -13,7 +13,7 @@ React Native 很多年了，所以我们觉得这对他们来说是完美的。
 
 我们可以只开发一次应用，然后在 iOS 和 Android 上共享代码库。
 
-[![](../Images/5f2d52d274b5258c48575ebf76a0f6d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zCPSu4Mb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A-to6Auxie_DHEBDnOQDzgg.jpeg)
+[![](img/5f2d52d274b5258c48575ebf76a0f6d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zCPSu4Mb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A-to6Auxie_DHEBDnOQDzgg.jpeg)
 
 ### 那么，什么是 React-Native 呢？
 
@@ -22,7 +22,7 @@ React Native 很多年了，所以我们觉得这对他们来说是完美的。
 JavaScript 构建跨平台的移动应用。有了 React Native，你只需开发一个应用，就可以在 iOS
 *和安卓*(也许还有 Windows Phone)上部署。虽然这些应用程序是用 JavaScript 编写的，但是它们使用了你的设备的原生功能，真正感觉到了原生的。这是通过将这些特性与 JavaScript 联系起来实现的。
 
-[![](../Images/2d787cd543cc76040e1dbe676586d2db.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8U1eoHgk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AMt6DKEY1TS_5igH3-P8A5Q.png) 
+[![](img/2d787cd543cc76040e1dbe676586d2db.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8U1eoHgk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AMt6DKEY1TS_5igH3-P8A5Q.png) 
 庞大的公司纷纷做出反应背后的本土
 
 React Native 由脸书开发，由[大型企业

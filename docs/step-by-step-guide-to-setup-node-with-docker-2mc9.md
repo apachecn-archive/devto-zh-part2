@@ -21,7 +21,7 @@
 
 **如果你是那种只想看到最终结果的人，那么 github 回购可能更适合你**
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) [ itmayziii ](https://github.com/itmayziii) / [开发到节点对接设置](https://github.com/itmayziii/dev-to-node-docker-setup)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) [ itmayziii ](https://github.com/itmayziii) / [开发到节点对接设置](https://github.com/itmayziii/dev-to-node-docker-setup)
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
@@ -94,7 +94,7 @@ docker-compose up -d
 ```
 
 现在，您应该能够在浏览器中转到 [localhost:3000](http://localhost:3000) ，并看到`Hello World!`
-[![hello world example shown in the browser](../Images/b1352cdb0f4d6ec144156105e582d10d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RayTi9So--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v7ktp1pbu6aqe81ldfxh.png) 
+[![hello world example shown in the browser](img/b1352cdb0f4d6ec144156105e582d10d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RayTi9So--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v7ktp1pbu6aqe81ldfxh.png) 
 您还应该能够通过运行
 来验证您的容器正在运行
 
@@ -103,7 +103,7 @@ docker ps
 ```
 
 它应该输出正在运行的 docker 容器的列表，类似于
-[![list of running containers from the docker ps command](../Images/b317106cb3ae5b6f5160902a62fd8c4b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--32XmPCXl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4n8otynzuw9cj3y17nw3.png)
+[![list of running containers from the docker ps command](img/b317106cb3ae5b6f5160902a62fd8c4b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--32XmPCXl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4n8otynzuw9cj3y17nw3.png)
 
 ### 管理该容器的有用 docker 命令
 
@@ -239,7 +239,7 @@ docker-compose logs -f
 ```
 
 当您的进程重新启动
-[![Example of PM2 restarting node process](../Images/02836ffc13da2e1ef7c5a801a8c434d2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--m_vzgvk---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qciqk86nxtrkaq2mwxr3.png) 时，您会看到类似这样的内容
+[![Example of PM2 restarting node process](img/02836ffc13da2e1ef7c5a801a8c434d2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--m_vzgvk---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qciqk86nxtrkaq2mwxr3.png) 时，您会看到类似这样的内容
 
 ## 包装完毕
 

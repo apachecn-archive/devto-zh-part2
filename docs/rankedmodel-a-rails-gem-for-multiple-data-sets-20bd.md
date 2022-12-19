@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/dudleysr/rankedmodel-a-rails-gem-for-multiple-data-sets-20bd>
 
-[![Ranked_Model](../Images/23d4440cdc2784e9bb624cf8b39359e1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--y6xQKi65--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/edb6od4t39bjrzraj5fa.png) 
+[![Ranked_Model](img/23d4440cdc2784e9bb624cf8b39359e1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--y6xQKi65--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/edb6od4t39bjrzraj5fa.png) 
 最近，我们在一个客户端 Rails 应用程序中遇到了一个问题，我们希望定制某些项目在不同页面上的显示顺序。管理员用户可以登录到使用 [`active_admin`](https://github.com/activeadmin/activeadmin) 构建的 CMS，创建一个包含公司信息的小部件，然后在创建或编辑小部件时手动设置列表中的位置，或者使用索引页面上的“上下移动”功能。
 
 最初，我们利用 [`acts_as_list`](https://github.com/swanandp/acts_as_list) gem 来实现这个特性，因为它允许我们快速、轻松地添加我们需要的所有功能。

@@ -18,7 +18,7 @@ aztk spark cluster create --id mycluster --size 1 --size-low-priority 2 --vm-siz
 
 但是我得到的是下面的错误消息:
 
-<figure>[![You must configure a VNET to use AZTK in mixed mode (dedicated and low priority nodes)](../Images/f8a834845d69e30e01c30fc6bac3d5bf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--y6nzHNVT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datainsights.cloud/images/posts/AztkMixedMode01.png) 
+<figure>[![You must configure a VNET to use AZTK in mixed mode (dedicated and low priority nodes)](img/f8a834845d69e30e01c30fc6bac3d5bf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--y6nzHNVT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datainsights.cloimg/posts/AztkMixedMode01.png) 
 
 <figcaption>您必须配置一个 VNET 以混合模式使用 AZTK(专用和低优先级节点)</figcaption>
 
@@ -38,7 +38,7 @@ Azure 提供低优先级虚拟机(VM)来降低工作负载的成本。低优先�
 
 如果您有一个包含两种类型虚拟机的混合模式 Spark 集群，主节点将始终被分配给一个专用虚拟机。
 
-<figure>[![AZTK Spark Cluster running in mixed mode](../Images/ca4077e5fd561bc8ddcafb099a659297.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sMlogRHt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datainsights.cloud/images/posts/AztkMixedMode02.png) 
+<figure>[![AZTK Spark Cluster running in mixed mode](img/ca4077e5fd561bc8ddcafb099a659297.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sMlogRHt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datainsights.cloimg/posts/AztkMixedMode02.png) 
 
 <figcaption>阿兹克星火集群以混合模式运行</figcaption>
 
@@ -50,7 +50,7 @@ Azure 提供低优先级虚拟机(VM)来降低工作负载的成本。低优先�
 
 之后，我打开新创建的 VNET 的**属性**部分，并将资源 ID 复制到我的剪贴板。
 
-<figure>[![Azure Virtual Network - Properties](../Images/8ceb3e5636a3ae394668e45a84607d59.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sr7zscuZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datainsights.cloud/images/posts/AztkMixedMode03.png) 
+<figure>[![Azure Virtual Network - Properties](img/8ceb3e5636a3ae394668e45a84607d59.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sr7zscuZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datainsights.cloimg/posts/AztkMixedMode03.png) 
 
 <figcaption>蔚蓝虚拟网-属性</figcaption>
 
@@ -70,7 +70,7 @@ Azure 提供低优先级虚拟机(VM)来降低工作负载的成本。低优先�
 subnet_id: /subscriptions/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX/resourceGroups/aztk/providers/Microsoft.Network/virtualNetworks/aztk-vnet/subnets/default 
 ```
 
-<figure>[![.aztk/cluster.yaml Subnet Settings](../Images/f3bfcd7149fa8c9cc11ea9daf18258c2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--O_HbdwbX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datainsights.cloud/images/posts/AztkMixedMode04.png) 
+<figure>[![.aztk/cluster.yaml Subnet Settings](img/f3bfcd7149fa8c9cc11ea9daf18258c2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--O_HbdwbX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datainsights.cloimg/posts/AztkMixedMode04.png) 
 
 <figcaption>。aztk/cluster.yaml 子网设置</figcaption>
 
@@ -80,7 +80,7 @@ subnet_id: /subscriptions/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX/resourceGroups/az
 
 在将机会保存到 cluster.yaml 文件之后，我能够用工具包创建一个混合模式的集群。
 
-<figure>[![AZTK - Creating a mixed-mode Spark cluster](../Images/daf68f5d8df47799ca57ec6a77d8d6ba.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jL6gyiyw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datainsights.cloud/images/posts/AztkMixedMode05.png) 
+<figure>[![AZTK - Creating a mixed-mode Spark cluster](img/daf68f5d8df47799ca57ec6a77d8d6ba.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jL6gyiyw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datainsights.cloimg/posts/AztkMixedMode05.png) 
 
 <figcaption>创造一个混合模式的火花簇</figcaption>
 

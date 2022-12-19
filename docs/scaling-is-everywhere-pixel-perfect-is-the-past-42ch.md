@@ -4,17 +4,17 @@
 
 很久以前，当计算机速度很慢，屏幕分辨率很低时，一切都必须是像素级的。例如，Atari 2600 游戏机只能显示 160x192 像素。在那段时间里，游戏角色和所有图形都必须一个像素一个像素地绘制，以包括所有预期的细节，比如马里奥的小胡子。这就是所谓的像素艺术。
 
-[![](../Images/ad20f754290b6b2741aedb181cc416cd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jH2I2FCV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://asawicki.info/files/Scaling_is_everywhere/Mario.jpg) 
+[![](img/ad20f754290b6b2741aedb181cc416cd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jH2I2FCV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://asawicki.info/files/Scaling_is_everywhere/Mario.jpg) 
 
 *来源:[马里奥的进化](http://www.superluigibros.com/evolution-of-mario)*
 
 几年后，随着更高的屏幕分辨率，游戏精灵可以用不同的方法绘制，甚至可以从 3D 模型中渲染，但图标和其他 GUI 元素仍然准备好逐像素显示。同样适用于网页。
 
-[![](../Images/5d9b93f30b6cbe62f1db921a9d55f9c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q5uZ0ivp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://asawicki.info/files/Scaling_is_everywhere/WordPad.png)
+[![](img/5d9b93f30b6cbe62f1db921a9d55f9c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q5uZ0ivp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://asawicki.info/files/Scaling_is_everywhere/WordPad.png)
 
 现在，甚至 GUI 图标都是按比例缩放的。它们可以平滑地放大，并可以在各种显示器上显示，其中 4K 显示器的像素是全高清显示器的 4 倍。将桌面 DPI 缩放比例设置为 100%以外的值会缩放 Windows 中的所有应用程序。根据“响应式设计”原则创建的现代网页必须在各种设备上都好看，从小智能手机到大显示器。结垢无处不在。
 
-[![](../Images/6c815f9ce0965ffd486a6cadce58ac2a.png)T2】](http://asawicki.info/files/Scaling_is_everywhere/Windows_folders.png)
+[![](img/6c815f9ce0965ffd486a6cadce58ac2a.png)T2】](http://asawicki.info/files/Scaling_is_everywhere/Windows_folders.png)
 
 当可编程手机首次出现时，为它们制作应用程序和游戏就像回到了过去。就像在复古平台和第一台个人电脑上一样，屏幕分辨率非常低，像素艺术是绘制游戏角色的方式。现在，手机游戏必须在各种智能手机上运行，其中许多手机的分辨率就像我们的电脑显示器一样——全高清甚至更高。
 
@@ -36,6 +36,6 @@
 
 我想我们可以说**缩放无处不在，像素完美已经成为过去**。这不一定是一件坏事。如果游戏中 3D 渲染技术进步的目标是看起来像电影一样逼真，那么我们应该意识到电影从来都不是像素完美的——在各个阶段总是会涉及缩放和过滤。即使在最开始，相机传感器也有一些 R、G、B 像素的模式，必须对其进行插值以适应(RGB)三元组。
 
-[![](../Images/17f0c0d07fa287cd6656117a9963428b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tnfxEYbr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://asawicki.info/files/Scaling_is_everywhere/Camera%2520sensor%2520pixels.png)
+[![](img/17f0c0d07fa287cd6656117a9963428b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tnfxEYbr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://asawicki.info/files/Scaling_is_everywhere/Camera%2520sensor%2520pixels.png)
 
 然后，它们通常使用色度子采样(如 4:2:2)进行编码，并使用一些视频压缩编解码器进行压缩。插值和滤波可能会涉及到许多处理阶段，例如帧速率转换、去隔行、降噪，或者最后是现代智能电视常用的锐化(我对此非常过敏，但背后肯定有某种原因)。录制的视频从来都不是像素完美的。渲染的 3D 游戏就不一定了。

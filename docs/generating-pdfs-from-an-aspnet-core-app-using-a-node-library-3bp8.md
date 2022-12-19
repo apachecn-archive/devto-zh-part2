@@ -87,7 +87,7 @@ services.AddNodeServices();
 
 使用`dotnet run`运行应用程序，PDF 应在`localhost:5000`提供。
 
-[![Output Screenshot](../Images/246d119579d857b8360c587a76303116.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P80T0zAD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gldraphael.com/blog/content/images/2018/04/output-screenshot.png)
+[![Output Screenshot](img/246d119579d857b8360c587a76303116.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P80T0zAD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gldraphael.com/blog/conteimg/2018/04/output-screenshot.png)
 
 ## 发布设置
 
@@ -145,7 +145,7 @@ docker build -t aspnetpdf .
 docker run -d -p 8080:80 aspnetpdf 
 ```
 
-[![Sample repo screenshot](../Images/65b71d9503f1f6b501d9a35b9d487a37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xfiA3AYK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gldraphael.com/blog/content/images/2018/04/pdf-screenshot.png)
+[![Sample repo screenshot](img/65b71d9503f1f6b501d9a35b9d487a37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xfiA3AYK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://gldraphael.com/blog/conteimg/2018/04/pdf-screenshot.png)
 
 ## 结论
 

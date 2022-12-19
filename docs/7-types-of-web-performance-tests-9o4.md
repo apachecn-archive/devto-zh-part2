@@ -6,7 +6,7 @@
 
 软件性能测试是确定系统性能的一种测试，主要是测量、确认或验证系统的质量属性，如在各种负载条件下的响应性、速度、可伸缩性和稳定性。系统在混合负载条件下进行测试，并检查系统在不同负载下所需的响应时间。软件性能测试包括测试应用程序，以确保应用程序在各种负载条件下都能正常工作。性能测试的目标不仅是发现系统中的错误，而且是消除系统中的性能瓶颈。
 
-[![](../Images/7b79bac0c9ea6995b37dea13f077b9dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--niQvDUkm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://2.bp.blogspot.com/-wOVbagMelLI/W4FFMQm48LI/AAAAAAAAB0k/3J7MEmJPGIIBvFSb0EdjLXeReesaW0U3wCLcBGAs/s400/pp.jpg)
+[![](img/7b79bac0c9ea6995b37dea13f077b9dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--niQvDUkm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://2.bp.blogspot.com/-wOVbagMelLI/W4FFMQm48LI/AAAAAAAAB0k/3J7MEmJPGIIBvFSb0EdjLXeReesaW0U3wCLcBGAs/s400/pp.jpg)
 
 7 种类型的 Web 性能测试:
 

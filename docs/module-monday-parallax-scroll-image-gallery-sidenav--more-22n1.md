@@ -14,31 +14,31 @@ Mods 是功能强大、随时可用的网络模块，适用于任何平台上的
 
 使用您自己的文本和图像进行定制。
 [查看 mod](https://anymod.com/mod/monrk?v=20)
- [![](../Images/9caf3a60ba5223074d9b62afad826e35.png)](https://anymod.com/mod/monrk?v=20) 
+ [![](img/9caf3a60ba5223074d9b62afad826e35.png)](https://anymod.com/mod/monrk?v=20) 
 
 ### 响应式图库
 
 单击以放大图像。在任何地方添加图库。
 [查看 mod](https://anymod.com/mod/onakb?v=20)
- [![](../Images/f467cba4a4ec39f21e68f786efc201c1.png)](https://anymod.com/mod/onakb?v=20) 
+ [![](img/f467cba4a4ec39f21e68f786efc201c1.png)](https://anymod.com/mod/onakb?v=20) 
 
 ### 联系方式
 
 自动工作:带 reCaptcha 的材料设计。
 [查看 mod](https://anymod.com/mod/anaom?v=20)
- [![](../Images/a8e54404fca225b4acd78ac736f6f171.png)](https://anymod.com/mod/anaom?v=20) 
+ [![](img/a8e54404fca225b4acd78ac736f6f171.png)](https://anymod.com/mod/anaom?v=20) 
 
 ### [图像上载程序](#image-uploader)
 
 轻松将图像上传到 Cloudinary。
 [查看 mod](https://anymod.com/mod/onabb?v=30)
- [![](../Images/aef461000591c7ff5b2314f2053cf137.png)](https://anymod.com/mod/onabb?v=30) 
+ [![](img/aef461000591c7ff5b2314f2053cf137.png)](https://anymod.com/mod/onabb?v=30) 
 
 ### Sidenav
 
 点击即可滑出的时尚导航。
 [查看 mod](https://anymod.com/mod/bkmnr?v=20)
- [![](../Images/1d9c6af489b89c85c576102031968ed1.png)](https://anymod.com/mod/bkmnr?v=20) 
+ [![](img/1d9c6af489b89c85c576102031968ed1.png)](https://anymod.com/mod/bkmnr?v=20) 
 
 ## 投稿
 

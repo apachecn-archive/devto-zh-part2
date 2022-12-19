@@ -190,7 +190,7 @@
 
 Allen Jame 是一名博客作者和网络开发人员。艾伦旨在向人们介绍互联网世界。为此，他写文章。你可以在[谷歌+](https://plus.google.com/+allenjame) 和[推特](https://twitter.com/allenjame1991)上关注艾伦。
 
-[![Allen Jame author apiumhub](../Images/a66f5563f36f58ee68a2c0954558f021.png)T2】](https://apiumhub.com/wp-content/uploads/2018/03/Author-Allen-Jame-1-e1521040638332.jpg)
+[![Allen Jame author apiumhub](img/a66f5563f36f58ee68a2c0954558f021.png)T2】](https://apiumhub.com/wp-content/uploads/2018/03/Author-Allen-Jame-1-e1521040638332.jpg)
 
 ## 如果你喜欢这篇关于如何防止网络诈骗的文章，你可能会喜欢…
 

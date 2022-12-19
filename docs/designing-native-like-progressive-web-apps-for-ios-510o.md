@@ -90,13 +90,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果你需要帮助为你的 PWA 设置闪屏，请查看 Appscope 上的[闪屏生成器](https://appsco.pe/developer/splash-screens)。
 
-[![Splash screen for Appscope](../Images/71aa449562e3eb8a3fcf0cf0aa283a99.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SrM3NaYK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AEj2mBTO9cvJkZyGHnYcZZQ.gif)T3】
+[![Splash screen for Appscope](img/71aa449562e3eb8a3fcf0cf0aa283a99.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SrM3NaYK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AEj2mBTO9cvJkZyGHnYcZZQ.gif)T3】
 
 <center>*Splash screen for [Appscope](https://appsco.pe)*</center>
 
 # 4。更改状态栏
 
-[![Status bars with settings black-translucent, black, and default](../Images/091292dedb79ad5867f7c99f13d1c29c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lTCxLySe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2578/1%2AS3IV89JuxU07oiY6JjEkkA.png)T3】
+[![Status bars with settings black-translucent, black, and default](img/091292dedb79ad5867f7c99f13d1c29c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lTCxLySe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2578/1%2AS3IV89JuxU07oiY6JjEkkA.png)T3】
 
 <center>*Status bars with settings black-translucent, black, and default*</center>
 
@@ -140,7 +140,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 6.1。禁用文本选择
 
-[![Text-selection on New York Times](../Images/06f8086879c45669458f1c6901ba3b15.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VoCyD0Zh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/2250/1%2ArxyBfRQetPNALK3ztbP14w.gif)T3】
+[![Text-selection on New York Times](img/06f8086879c45669458f1c6901ba3b15.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VoCyD0Zh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/2250/1%2ArxyBfRQetPNALK3ztbP14w.gif)T3】
 
 <center>*Text-selection on [New York Times](https://www.nytimes.com/)*</center>
 
@@ -156,7 +156,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 6.2。禁用高亮显示
 
-[![Link highlighting on New York Times](../Images/0c31e9e2afe0ef78d681e849025cca69.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zMENsUcc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/2250/1%2AwnXeYxpcqK6KwgfVTNRDKQ.gif)T3】
+[![Link highlighting on New York Times](img/0c31e9e2afe0ef78d681e849025cca69.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zMENsUcc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/2250/1%2AwnXeYxpcqK6KwgfVTNRDKQ.gif)T3】
 
 <center>*Link highlighting on [New York Times](https://www.nytimes.com/)*</center>
 
@@ -172,7 +172,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 6.3。禁用标注
 
-[![Link callout on New York Times](../Images/1d3bf5fd552e27c099214fc266269dd5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qjMd19zz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2250/1%2AR8W2EtXGRXzgtQiADuQtVw.png)T3】
+[![Link callout on New York Times](img/1d3bf5fd552e27c099214fc266269dd5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qjMd19zz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2250/1%2AR8W2EtXGRXzgtQiADuQtVw.png)T3】
 
 <center>*Link callout on [New York Times](https://www.nytimes.com/)*</center>
 
@@ -188,7 +188,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 # 7。启用点击效果
 
-[![Tap effect (:active) on Little Alchemy 2](../Images/41d1f1a01e413275de5af2d73b62a33f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PiJyhMOn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/2250/1%2AlR3VtRZlw_8qWmv9N1K95g.gif)T3】
+[![Tap effect (:active) on Little Alchemy 2](img/41d1f1a01e413275de5af2d73b62a33f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PiJyhMOn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/2250/1%2AlR3VtRZlw_8qWmv9N1K95g.gif)T3】
 
 <center>*Tap effect (:active) on [Little Alchemy 2](https://littlealchemy2.com/)*</center>
 

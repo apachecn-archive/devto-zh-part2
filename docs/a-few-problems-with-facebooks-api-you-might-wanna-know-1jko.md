@@ -37,7 +37,7 @@
 
 ```
 curl -i -X POST \
- -d "url=https://www.facebook.com/images/fb_icon_325x325.png" \
+ -d "url=https://www.facebook.cimg/fb_icon_325x325.png" \
  -d "caption=test photo upload" \
  -d "access_token=<user_photos_user_access_token>" \
  "https://graph.facebook.com/v2.11/me/photos" 
@@ -47,7 +47,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这个`url`参数需要是互联网上的公众形象。这使得不可能从本地主机上传东西或者只是一个私有图像。但是在去脸书总部投诉之前，还有一个`source`参数，只在 [`{page-id}/feed`页面](https://developers.facebook.com/docs/graph-api/reference/v3.1/page/feed#publish)中提到:
 
-[![a](../Images/87c784ac199c3fdb7ee36e1df0a8723c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P6lrIQcn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0lw7uzkny2omm1dn7f07.jpg)
+[![a](img/87c784ac199c3fdb7ee36e1df0a8723c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P6lrIQcn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0lw7uzkny2omm1dn7f07.jpg)
 
 这让我(可能还有其他一些人)如果想从本地主机测试他们的应用程序，就把东西上传到另一个网站。
 

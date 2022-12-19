@@ -64,7 +64,7 @@ Amazon ElastiCache 提供完全托管的 Redis 和 Memcached。无缝部署、�
 
 它的工作方式既简单又高效。您通过基于 javascript 的结帐系统处理订单队列，该系统与商店 API 交互，验证并记录每个订单。这里有一个关于如何在 Magento 中做到这一点的教程:[https://dev docs . Magento . com/guides/v 2.1/get-started/order-tutorial/order-intro . html](https://devdocs.magento.com/guides/v2.1/get-started/order-tutorial/order-intro.html)
 
-[![Online store will need to evolve](../Images/fbffa27fe22219978037ad97fdbcce40.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2GDFnm0N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/5598/tablet-galaxy-white-blog.jpg%3Fcs%3Dsrgb%26dl%3Decommerce-fashion-mockup-5598.jpg%26fm%3Djpg)
+[![Online store will need to evolve](img/fbffa27fe22219978037ad97fdbcce40.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2GDFnm0N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/5598/tablet-galaxy-white-blog.jpg%3Fcs%3Dsrgb%26dl%3Decommerce-fashion-mockup-5598.jpg%26fm%3Djpg)
 
 ## 那么有什么问题呢？
 

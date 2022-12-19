@@ -8,6 +8,6 @@
 
 所以让我们在 gif 上看看吧！
 
-[![World](../Images/02f942b6b056dfe576014b05ed067129.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qQDrYRuf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/txuc56pcg3rsnvatbsj2.gif)
+[![World](img/02f942b6b056dfe576014b05ed067129.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qQDrYRuf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/txuc56pcg3rsnvatbsj2.gif)
 
 都是为了今天！祝你有愉快的一天！

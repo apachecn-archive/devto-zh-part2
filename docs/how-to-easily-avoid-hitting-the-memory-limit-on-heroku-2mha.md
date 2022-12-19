@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nicolrx/how-to-easily-avoid-hitting-the-memory-limit-on-heroku-2mha>
 
-[![Heroku Memory Leak](../Images/a0eba472ac55fd2c5e41ccfd108bb1dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OBmIJi0o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zl9g7z7px2sg3r086cv3.jpg)
+[![Heroku Memory Leak](img/a0eba472ac55fd2c5e41ccfd108bb1dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OBmIJi0o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zl9g7z7px2sg3r086cv3.jpg)
 
 Heroku 是一个很好的工具，可以很容易地启动一个新的应用程序。然而，如果你的应用程序是内存密集型的，dynos 会很快达到极限。我的 Rails 应用就是这种情况，我开始花比预期更多的钱！
 
@@ -93,6 +93,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 一旦定义了频率，就向调度程序添加一个新任务:`rake restart_dyno`。
 
-[![Heroku Memory Leak](../Images/3adcd135decc3000e1299adb94b06d56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AajH2noe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9kl9qk98vozu70lled8d.png)
+[![Heroku Memory Leak](img/3adcd135decc3000e1299adb94b06d56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AajH2noe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9kl9qk98vozu70lled8d.png)
 
 现在，你将有你的 dynos 自动重启前达到内存限制。如果您有任何问题，请随时通过 Twitter 联系我[。](https://twitter.com/nico_lrx)

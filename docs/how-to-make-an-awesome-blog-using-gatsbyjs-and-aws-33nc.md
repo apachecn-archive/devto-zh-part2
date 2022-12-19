@@ -48,13 +48,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们最终应该看到的是类似这样的东西。
 
-[![Tailwind starter project with Gatsby](../Images/2bdccfde4ac1238558d8c338fbd1db11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JhUX06JR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kylegalbraith/gatsby-starter-tailwind-seo-social/master/gatsby-starter-running.PNG)
+[![Tailwind starter project with Gatsby](img/2bdccfde4ac1238558d8c338fbd1db11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JhUX06JR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kylegalbraith/gatsby-starter-tailwind-seo-social/master/gatsby-starter-running.PNG)
 
 跟我到目前为止？非常好。
 
 下拉 starter 项目后，您可以开始在 Visual Studio 代码或您喜欢的 IDE 中打开它。如果你看一下文件夹结构，你会看到一些不同的东西。
 
-[![Folder structure](../Images/177288e62c1b64c7d72220fc09de1dfe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qV06zXYE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2rae4ye952o7fng734gp.PNG)
+[![Folder structure](img/177288e62c1b64c7d72220fc09de1dfe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qV06zXYE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2rae4ye952o7fng734gp.PNG)
 
 首先要熟悉的是`src`目录。这是组成你的博客的所有代码所在的地方。GatsbyJS 是一个基于 React 的静态网站生成器，所以一切都是根据组件、静态资产、布局和页面来定义的。
 
@@ -63,7 +63,7 @@ Enter fullscreen mode Exit fullscreen mode
 ```
 import React from "react";
 import Link from "gatsby-link";
-import logo from "../../images/favicon.png";
+import logo from "../img/favicon.png";
 import config from "../../config/config";
 
 const Header = () => {
@@ -123,11 +123,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在这些字段已经更新了，您可以通过从命令行再次运行`gatsby develop`在浏览器中实时检查更改。默认情况下，该命令在端口`8000`启动一个本地主机服务器。
 
-[![gatsby develop from the command line](../Images/4eb11a9061321ade6a4192b3ccd46032.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BAK3Bt51--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tdv1ao6tjnnviilfftc4.gif)
+[![gatsby develop from the command line](img/4eb11a9061321ade6a4192b3ccd46032.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BAK3Bt51--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tdv1ao6tjnnviilfftc4.gif)
 
 然后，您可以在浏览器中查看您的更改。如果继续运行`develop`命令，对组件所做的任何更改都将在浏览器中热重新加载。
 
-[![Change starter to your own details](../Images/58a9d8bc4de547ee8f4a5253de1c28db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1PakIMDW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1umt1p7nkij85kgtie6x.PNG)
+[![Change starter to your own details](img/58a9d8bc4de547ee8f4a5253de1c28db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1PakIMDW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1umt1p7nkij85kgtie6x.PNG)
 
 很酷吧？您可以更改任何配置设置以匹配您的博客详细信息，组件将自动更新。
 
@@ -186,7 +186,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在再次检查 localhost，你可以看到背景渐变已经更新。
 
-[![New Gatsby background](../Images/8700f81c3338b97fe98175d00a0b6173.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LRB1Jh-R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1l1pixpf6smxjr7ew23m.PNG)
+[![New Gatsby background](img/8700f81c3338b97fe98175d00a0b6173.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LRB1Jh-R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1l1pixpf6smxjr7ew23m.PNG)
 
 这是 Gatsby + TailwindCSS 博客设置的样板文件。您可以利用现有的 [Tailwind 实用程序类](https://tailwindcss.com/docs/colors)或者添加并扩展您自己的类来进一步设计博客。您也可以构建自己的组件来为您的博客添加新功能。
 
@@ -196,13 +196,13 @@ Gatsby 是一个非常简单的博客平台，允许你在 Markdown 中写博客
 
 如果你看一下这篇博文的 url，你应该会看到下面的格式，`2018/08/01/a-sample-gatsby-plus-tailwind-blog-post/`。这是由`pages`目录下的文件夹结构定义的。
 
-[![Pages directory](../Images/9ec88ec1d52ea0cea90eb14a5a2a4d5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--af6ULKp4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l68lds75nb5j37s8aykr.PNG)
+[![Pages directory](img/9ec88ec1d52ea0cea90eb14a5a2a4d5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--af6ULKp4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l68lds75nb5j37s8aykr.PNG)
 
 博客文章写在 markdown 文件夹中，`index.md`，图片是你在文章顶部看到的封面图片。这也是在脸书和推特上分享时将使用的图片。
 
 但是 markdown 帖子是怎么变成 HTML 帖子的呢？
 
-[![Gatsby magic](../Images/2efaffd0a4dc0a7542a12480470954e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ecmCBgUr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ko2e7x90de1siumh8tcy.gif)
+[![Gatsby magic](img/2efaffd0a4dc0a7542a12480470954e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ecmCBgUr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ko2e7x90de1siumh8tcy.gif)
 
 好吧，不尽然。它实际上是由位于`gatsby-config.js`中的两个插件处理的，分别叫做`gatsby-source-filesystem`和`gatsby-transformer-remark`。第一个从`pages`目录中加载文件，并将它们送入转换器，转换器将 markdown 语法转换成适当的 HTML。
 

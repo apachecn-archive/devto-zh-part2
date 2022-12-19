@@ -8,6 +8,6 @@
 
 因此，这里我们将提供一个例子，如何使用 HTML 评论框显示可点击的超链接。
 
-[![](../Images/10a5ac7fa1b75096cf5ca0013b3fac9c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--il7v9-Vi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://2.bp.blogspot.com/-1-lM5R79ORQ/WmQ5yl_G92I/AAAAAAAABM8/_btIGvtXdZcbCFdqeh4zTMJKLBxeoZytwCLcBGAs/s640/clickable%252Blink.PNG)
+[![](img/10a5ac7fa1b75096cf5ca0013b3fac9c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--il7v9-Vi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://2.bp.blogspot.com/-1-lM5R79ORQ/WmQ5yl_G92I/AAAAAAAABM8/_btIGvtXdZcbCFdqeh4zTMJKLBxeoZytwCLcBGAs/s640/clickable%252Blink.PNG)
 
 [查看源代码](https://www.skptricks.com/2018/01/create-clickable-comment-link-in-php.html)

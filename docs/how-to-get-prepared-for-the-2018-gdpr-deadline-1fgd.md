@@ -4,7 +4,7 @@
 
 欧盟 [**通用数据保护条例**](http://www.wenso.co.uk/gdpr-consulting-services/) (GDPR)取代了数据保护指令 95/46/EC，旨在统一整个欧洲的数据隐私法律，以保护和允许所有欧盟公民的数据隐私，并改革整个地区的组织走向数据隐私的方式。这对全球运作的组织有相当大的影响。
 
-[![](../Images/efaa569b2f39919b4ce054865e5dabe2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G1kqlLZ1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/0%2AJMDQz3e5jQIkghc1.jpg)
+[![](img/efaa569b2f39919b4ce054865e5dabe2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G1kqlLZ1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/0%2AJMDQz3e5jQIkghc1.jpg)
 
 借助 **GDPR 评估**计划，我们可以找到做**差距分析和风险评估**的人。为网络安全制定的最佳实践建立了一个强大的框架，以解决与 **GDPR 合规性**相关的所有问题。这种评估对于各种类型的企业，无论其规模大小，都是适用的和有价值的。
 

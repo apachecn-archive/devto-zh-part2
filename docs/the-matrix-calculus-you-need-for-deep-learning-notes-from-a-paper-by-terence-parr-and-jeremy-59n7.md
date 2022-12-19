@@ -4,7 +4,7 @@
 
 ### 深度学习需要的矩阵演算(摘自[特伦斯·帕尔](http://parrt.cs.usfca.edu/)和[杰瑞米·霍华德](http://www.fast.ai/about/#jeremy)的一篇论文)
 
-[![](../Images/f53a6641925a01af478d14bcef48745c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zMKIKCQg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Al_ZFM3-vJMBVcZacHwCX-Q.jpeg)
+[![](img/f53a6641925a01af478d14bcef48745c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zMKIKCQg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Al_ZFM3-vJMBVcZacHwCX-Q.jpeg)
 
 #### **目录**
 
@@ -23,7 +23,7 @@ Jeremy 的课程展示了如何通过利用现代深度学习库中内置的自�
 
 希望你们记得一些主要的标量导数规则。如果你在这方面的记忆有点模糊，看看[可汗学院关于标量导数规则的视频](https://www.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules)。
 
-[![](../Images/9743c79331076a87973f80da8fc38ccb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xrQOMWtU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AZR50K2cDpl1um4S-aOeWQw.png) 
+[![](img/9743c79331076a87973f80da8fc38ccb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xrQOMWtU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AZR50K2cDpl1um4S-aOeWQw.png) 
 
 <figcaption>衍生品的基本规则</figcaption>
 
@@ -39,7 +39,7 @@ Jeremy 的课程展示了如何通过利用现代深度学习库中内置的自�
 
 所以根据上面的例子，如果 f(x，y) = 3x y，那么
 
-[![](../Images/92bc02a1f06fc2734c287f679ada8e16.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RGg7FVdZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/657/1%2A8a9yL0FQmO70v-Juo5c3Bg.png)
+[![](img/92bc02a1f06fc2734c287f679ada8e16.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RGg7FVdZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/657/1%2A8a9yL0FQmO70v-Juo5c3Bg.png)
 
 <figcaption>*f(x，y)的渐变*</figcaption>
 
@@ -49,11 +49,11 @@ Jeremy 的课程展示了如何通过利用现代深度学习库中内置的自�
 
 当我们从一个函数的导数转移到多个函数的导数时，我们从向量微积分的世界转移到矩阵微积分。让我们再来一个函数 g(x，y) = 2x + y⁸.所以 g(x，y)的梯度是
 
-[![](../Images/b804f0cc5db0952fe5a63c4b1258e294.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lBc7kWkm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/194/1%2AIUpOnL8zNi_fPcDKcFP3BQ.png)
+[![](img/b804f0cc5db0952fe5a63c4b1258e294.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lBc7kWkm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/194/1%2AIUpOnL8zNi_fPcDKcFP3BQ.png)
 
 梯度向量组织了特定标量函数的所有偏导数。如果我们有两个函数，我们也可以通过堆叠梯度将它们的梯度组织成一个矩阵。当我们这样做时，我们得到了 ***雅可比矩阵*** (或者仅仅是 ***雅可比矩阵*** )，其中梯度是行:
 
-[![](../Images/26bdbd4e5ae1bf0f85475d9426f67477.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_DB94Oyq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/549/1%2A7xKV9D7qXX44GQQbvYlBgA.png) 
+[![](img/26bdbd4e5ae1bf0f85475d9426f67477.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_DB94Oyq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/549/1%2A7xKV9D7qXX44GQQbvYlBgA.png) 
 
 <figcaption>[雅可比的分子布局](https://en.wikipedia.org/wiki/Matrix_calculus#Layout_conventions)</figcaption>
 
@@ -61,21 +61,21 @@ Jeremy 的课程展示了如何通过利用现代深度学习库中内置的自�
 
 为了更一般地定义雅可比矩阵，我们把多个参数组合成一个向量自变量: *f* ( *x，y，z* ) = > *f* ( **x** )。粗体小写字母如 **x** 是向量，斜体小写字母如 *x* 是标量。 *xi* 是向量 **x** 的第 I 个元素，用斜体表示是因为单个向量元素是标量。我们还必须为向量 **x** 定义一个方向。我们假设所有向量都是垂直的，默认大小为 *n* X 1:
 
-[![](../Images/0d6fea627de5b2094fb5e0c67d47380b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qIod3W29--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/127/1%2ATnlD_RDMVQhGizRLp3jd-Q.png)
+[![](img/0d6fea627de5b2094fb5e0c67d47380b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qIod3W29--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/127/1%2ATnlD_RDMVQhGizRLp3jd-Q.png)
 
 对于多个标量值函数，我们可以将它们组合成一个向量，就像我们对参数所做的那样。设 **y = f(x) b** e 一个由 *m* 个标量值函数组成的向量，每个函数取一个长度为 n= | **x** 的向量 **x** ，其中| **x** |是 **x** 中元素的基数(计数)。 **f** 中的每个 *fi* 函数都返回一个标量，就像上一节一样
 
-[![](../Images/07d296993ffea2ce17fdf76f0354e699.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ECo0ePJI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/177/1%2AwyqevFkocbibjZjs1E3MOA.png)
+[![](img/07d296993ffea2ce17fdf76f0354e699.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ECo0ePJI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/177/1%2AwyqevFkocbibjZjs1E3MOA.png)
 
 > 不过一般来说，雅可比矩阵是所有***m***X***n***可能偏导数的集合( *m* 行和 *n* 列)，是 *m* 梯度相对于 **x** 的叠加:
 
-[![](../Images/45a63124009a06f8e28e5dccd863c7a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Er8rgAs6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/762/1%2Af75-0xoIgirN-kkL2d_vEg.png)
+[![](img/45a63124009a06f8e28e5dccd863c7a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Er8rgAs6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/762/1%2Af75-0xoIgirN-kkL2d_vEg.png)
 
 ### 向量元素式二元算子的导数
 
 “按元素的二元运算”简单地说就是将一个运算符应用于每个向量的第一项以获得输出的第一项，然后应用于输入的第二项以获得输出的第二项，依此类推。我们可以用符号 y= f(w) O g(x)来概括元素级的二元运算，其中***m***=***n***= |***y*|**| = |**|*w***| = |***x***|。O 符号代表任何元素操作符(如+)，而不是 O 函数复合操作符。
 
-[![](../Images/d5ed11d9535fd0cbaa5a6622e1906c56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gSwEkR-2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A6SVHGcQcijq6aEYUoC_yZw.png)
+[![](img/d5ed11d9535fd0cbaa5a6622e1906c56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gSwEkR-2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A6SVHGcQcijq6aEYUoC_yZw.png)
 
 这是一个很复杂的问题，但幸运的是，雅可比矩阵通常是一个对角矩阵，一个除了对角线以外处处为零的矩阵。
 
@@ -85,7 +85,7 @@ Jeremy 的课程展示了如何通过利用现代深度学习库中内置的自�
 
 设**y = sum(f(x))**=σ***fi***(**x**)。注意，我们在这里很小心地将参数留为向量 **x** ，因为每个函数 *fi* 都可以使用向量中的所有值，而不仅仅是 *xi* 。总和超过函数的结果**而不是参数的结果**。向量求和的梯度(**1**X**T19】nT21】雅可比)为:**
 
-[![](../Images/8dcffcf4fb4c2fe0a5acf56e15bee652.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nPP6mBzr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/960/1%2A-MEhl1gPbjiIjXyla9C3wQ.png)
+[![](img/8dcffcf4fb4c2fe0a5acf56e15bee652.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nPP6mBzr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/960/1%2A-MEhl1gPbjiIjXyla9C3wQ.png)
 
 ### 连锁规则
 
@@ -97,7 +97,7 @@ Jeremy 的课程展示了如何通过利用现代深度学习库中内置的自�
 
 *   [**单变量链式规则**](http://m.wolframalpha.com/input/?i=chain+rule) ** :-**链式规则通常以嵌套函数的形式定义，如***y***=***f*(*u*)**其中***u*=*g*(*x*)so*y*=*f*(**
 
-[![](../Images/78547454b65411394c8668bbf8d16ff7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cNfWIG2n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/160/1%2Au3k7gS3vAPEXukvkWmyDzg.png) 
+[![](img/78547454b65411394c8668bbf8d16ff7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cNfWIG2n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/160/1%2Au3k7gS3vAPEXukvkWmyDzg.png) 
 
 <figcaption>单变量链式法则的制定</figcaption>
 
@@ -110,7 +110,7 @@ Jeremy 的课程展示了如何通过利用现代深度学习库中内置的自�
 
 *   **单变量全导数链规则:-** 全导数假设所有变量潜在地相互依存，而偏导数假设除了 *x* 之外的所有变量都是常数。
 
-[![](../Images/cdf932cb7672409995b2337df91b97c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uJDjhT8v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/905/1%2ANxfy9U1Eh7_skLznwc3U-w.png)
+[![](img/cdf932cb7672409995b2337df91b97c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uJDjhT8v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/905/1%2ANxfy9U1Eh7_skLznwc3U-w.png)
 
 当所有中间变量都是单个变量的函数时，这种考虑总导数的链式法则退化为单变量链式法则。
 
@@ -120,21 +120,21 @@ Jeremy 的课程展示了如何通过利用现代深度学习库中内置的自�
 
 如果***y*=*f*(*g*(*x*)**和 **x** 是矢量**。**向量 **y** 相对于标量 *x* 的导数是一个垂直向量，其元素使用单变量全导数链规则计算。
 
-[![](../Images/8d57dbec3323b9c36e4ff7d2835e897a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CBYKWzVO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/412/1%2AjtPtLuhQTBVK_0Be5rIpXQ.png)
+[![](img/8d57dbec3323b9c36e4ff7d2835e897a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CBYKWzVO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/412/1%2AjtPtLuhQTBVK_0Be5rIpXQ.png)
 
 目标是将上述标量操作的向量转换为向量操作。所以上述 RHS 矩阵也可以实现为向量乘法的乘积。
 
-[![](../Images/ec95111176c4adbf38d68c9145d36606.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ewqf-cau--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/317/1%2AAIrI5dTFm_X_ybGL0UqayA.png)
+[![](img/ec95111176c4adbf38d68c9145d36606.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ewqf-cau--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/317/1%2AAIrI5dTFm_X_ybGL0UqayA.png)
 
 这意味着雅可比矩阵是另外两个雅可比矩阵的乘积。为了使这个公式适用于多个参数或向量 **x** ，我们只需将等式中的 *x* 改为向量 **x** 。效果是 **∂g/ ∂x** 和产生的雅可比矩阵、 *∂f/ ∂x ** ，现在是矩阵而不是垂直向量。我们完整的*向量链规则*是:
 
-[![](../Images/705ab13e47d30ca80aac3f7691409234.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nXHdyB7c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/223/1%2AsGJplnNYP7leOS-lNmRNFg.png)
+[![](img/705ab13e47d30ca80aac3f7691409234.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nXHdyB7c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/223/1%2AsGJplnNYP7leOS-lNmRNFg.png)
 
 > 请注意，矩阵乘法不可互换，**∂f/ ∂x)(∂g/ ∂x 的顺序很重要。
 
 为了完整起见，这里有两个雅可比分量
 
-[![](../Images/bd7258f4c9f0352a7c92bc8a995528bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vO-bS5EV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/666/1%2Ag5ph9kQOynRPVYfr1nYytA.png)
+[![](img/bd7258f4c9f0352a7c92bc8a995528bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vO-bS5EV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/666/1%2Ag5ph9kQOynRPVYfr1nYytA.png)
 
 其中***m***= |**|*f***|**|*n***= |***x***|和*| k*= |**|*g***|。由此得到的雅可比矩阵是***m***X***n***。(一个***m***X***k***矩阵乘以一个***k***X**_ n _**矩阵)。
 
@@ -151,4 +151,4 @@ Jeremy 的课程展示了如何通过利用现代深度学习库中内置的自�
 
 1.  更多[矩阵演算](https://atmos.washington.edu/~dennis/MatrixCalculus.pdf)。
 
-[![](../Images/a34f9d87f995e8c77eb9959158d5b93e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IZl3bwWV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/201/1%2AxhCj5o5sYa_8VBUw_mR_Xg.jpeg)
+[![](img/a34f9d87f995e8c77eb9959158d5b93e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IZl3bwWV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/201/1%2AxhCj5o5sYa_8VBUw_mR_Xg.jpeg)

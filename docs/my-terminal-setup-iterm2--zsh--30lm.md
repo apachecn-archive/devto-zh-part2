@@ -8,15 +8,15 @@
 
 我的终端仿真器使用 iTerm2。它有一些非常酷的功能，比如搜索、自动完成和粘贴历史。也就是说，让它成为我的必备功能的是分割窗格。
 
-[![My Terminal](../Images/65f94402243ffd7d78a2998cfebea35e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8c1FQHfU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dh7xqfrny7k1commgy74.png)
+[![My Terminal](img/65f94402243ffd7d78a2998cfebea35e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8c1FQHfU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dh7xqfrny7k1commgy74.png)
 
 当我做 web 开发工作时，我通常为我的服务器会话打开窗格，并在必要时运行其他命令。当一次运行许多进程时，正如我以前的工作所要求的那样，我很容易一次打开 10 个窗格
 
-[![Lot's of sessions](../Images/373062e14c7e4855552acc259379715b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0FjzczX2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d1rtcxzv0h9w7qqt64km.png)
+[![Lot's of sessions](img/373062e14c7e4855552acc259379715b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0FjzczX2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d1rtcxzv0h9w7qqt64km.png)
 
 您可以使用快捷键`cmd + d`创建水平方向的新窗格，使用快捷键`cmd + shift + d`创建垂直方向的新窗格。
 
-[![my terminal colors](../Images/ce79a29b0e97b1832bff6a96d8a3efa1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5aXqzKYY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bkykts3bdwswr3w1evzo.png)
+[![my terminal colors](img/ce79a29b0e97b1832bff6a96d8a3efa1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5aXqzKYY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bkykts3bdwswr3w1evzo.png)
 
 我确实对我使用的调色板做了一些调整——我认为最大的调整是我的默认字体是粉色(最前面的颜色)。
 
@@ -32,7 +32,7 @@
 
 哦，我的 Zsh 是一个管理你的 Zsh 配置的框架，必须下载。当我提到 Zsh 时，许多功能实际上是我的 Zsh 的一部分。
 
-[![](../Images/bcadf33c3ffde49e5b6426d071a8588a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZRf-X3r1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/tab-completion.png)
+[![](img/bcadf33c3ffde49e5b6426d071a8588a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZRf-X3r1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/tab-completion.png)
 
 ## My .zshrc
 
@@ -40,7 +40,7 @@ Zsh 主要使用一个`.zshrc`文件来保存您的定制，而不是一个`.bas
 
 Zsh 有很棒的主题，可以改变提示的外观。
 
-[![](../Images/364b40fcb3bf0594b5447a941f708167.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AGgjraka--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/98sol1utzimvfj1az64n.png)
+[![](img/364b40fcb3bf0594b5447a941f708167.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AGgjraka--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/98sol1utzimvfj1az64n.png)
 
 我用[飞船](https://github.com/denysdovhan/spaceship-prompt)显示一堆优秀的信息。例如，在我的博客的目录中，这是一个节点应用程序，我的 git 分支、git 状态、包版本和当前节点版本显示。此外，它还显示了运行前一个命令所花费的时间，以及计算机电池的百分比(如果电池电量低的话)!这在不同的目录中略有不同，但是能够如此方便地访问这些信息真的很好，尤其是与在 Bash 环境中创建类似的东西有多么困难相比。
 
@@ -91,7 +91,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我电脑上的另一个额外工具是`tree`(你可以用`brew install tree`在 Mac 上安装它)。这以一种非常好的方式列出了目录中的文件夹和文件。
 
-[![file tree](../Images/e1455e45d30a802a12cce7e9198d01f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bq07GotL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6abo3ky9qn96hs96yh73.png)
+[![file tree](img/e1455e45d30a802a12cce7e9198d01f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bq07GotL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6abo3ky9qn96hs96yh73.png)
 
 ### 不要见外！
 

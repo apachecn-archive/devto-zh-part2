@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/anoff/rbac-with-google-firestore-jnc>
 
-[![Zombies not allowed](../Images/e099bbceae722b2983d0ceab5c5a3134.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tepJeTWr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anoff.io/blog/img/assets/rbac-firestore/logo.png)
+[![Zombies not allowed](img/e099bbceae722b2983d0ceab5c5a3134.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tepJeTWr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anoff.io/blog/img/assets/rbac-firestore/logo.png)
 
 这篇文章将解释如何使用 Google Firestore 无服务器数据库实现基于角色的访问控制( [RBAC](https://en.wikipedia.org/wiki/Role-based_access_control) )。特别是 Firebase 和 Firestore，利用本文中提出的概念，在这一点上提供了无服务器基础设施与移动客户端的最无缝集成。它已经成为我开发的所有网络应用程序的后台。
 
@@ -14,13 +14,13 @@ Firestore 是一个数据库，它是谷歌用于移动应用开发的 Firebase 
 
 对于那些从未使用过 Firebase 数据库的人；这是一个面向 NoSQL 文档的数据库。Firestore 允许您通过在一个文档中创建多个集合来嵌套文档。
 
-[![Screenshot of a Firestore database with nested collections](../Images/2808e5bd7edf95f3a708cedc5fb2726e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GCLGBenI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anoff.io/blog/img/assets/rbac-firestore/firestore-documents.png)
+[![Screenshot of a Firestore database with nested collections](img/2808e5bd7edf95f3a708cedc5fb2726e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GCLGBenI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anoff.io/blog/img/assets/rbac-firestore/firestore-documents.png)
 
 Firebase 套件是为移动开发而构建的，并为所有主要语言提供 SDK。JavaScript/Node.js，Swift，Objective C，Android，Java，Python，Ruby，Go。SDK 允许添加、查询或删除数据，以及作为客户端与数据库交互时所需的其他操作。我非常喜欢的一个功能是可以注册你的客户端来自动接收[更新](https://firebase.google.com/docs/firestore/query-data/listen)。这允许您在实时应用程序中轻松构建**三向数据绑定**。这是我在我的第一个[项目中使用的一个功能。](https://github.com/anoff/microllaborators)
 
 与 Firebase [身份验证提供者](https://firebase.google.com/docs/auth/)结合使用，您可以将数据库的访问权限限制在已登录的人员。auth provider 还提供了一个 SDK，只需要几行代码就可以在 web 应用程序中实现。
 
-[![Firebase application design](../Images/85754fc0fb94aa04730e9c66d2e1ed8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EvKMmWzm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anoff.io/blog/img/assets/rbac-firestore/dist/arch.svg)
+[![Firebase application design](img/85754fc0fb94aa04730e9c66d2e1ed8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EvKMmWzm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anoff.io/blog/img/assets/rbac-firestore/dist/arch.svg)
 
 ## Firestore 安全规则
 
@@ -77,7 +77,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在 Firestore 的根级别，我们添加了三个不同的集合。一个保存内容，一个保存用户详细信息，一个实现每个用户的角色。将角色分配从用户文档中分离出来的原因是为了方便用户修改他们自己的详细信息，而不给他们授予自己新角色的可能性。
 
-[![Class diagram of the database structure](../Images/9c6929544c5d0b2934eaef7644a7c9a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--33EySEIU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anoff.io/blog/img/assets/rbac-firestore/dist/document-classes.svg)
+[![Class diagram of the database structure](img/9c6929544c5d0b2934eaef7644a7c9a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--33EySEIU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anoff.io/blog/img/assets/rbac-firestore/dist/document-classes.svg)
 
 ## RBAC 所需的安全规则
 

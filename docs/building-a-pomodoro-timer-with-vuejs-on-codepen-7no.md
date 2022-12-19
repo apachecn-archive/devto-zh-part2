@@ -141,12 +141,12 @@ Enter fullscreen mode Exit fullscreen mode
 
 [模](https://en.wikipedia.org/wiki/Modulo_operation)的分解(余数%)。
 
-> ![Roel Nieskens profile image](../Images/883d9f8f30b367d5c8a87bf6ed01e057.png)罗尔·尼斯肯斯@ pixelambacht![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)[@ tee katwo](https://twitter.com/teekatwo)我认了。当我看到“X % Y”时，我通常会想“继续从 X 中减去 Y，直到剩下小于 Y”。
+> ![Roel Nieskens profile image](img/883d9f8f30b367d5c8a87bf6ed01e057.png)罗尔·尼斯肯斯@ pixelambacht![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)[@ tee katwo](https://twitter.com/teekatwo)我认了。当我看到“X % Y”时，我通常会想“继续从 X 中减去 Y，直到剩下小于 Y”。
 > 
 > 为 11 % 3:
 > 11 - 3 = 8(好的，8 大于 3，继续)
 > 8 - 3 = 5(没错，5 也大于 3，继续)
-> 5 - 3 = 2(小于 3，所以“答案”是 2)2018 年 3 月 20 日 19:59[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=976186607794520065)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=976186607794520065)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=976186607794520065)
+> 5 - 3 = 2(小于 3，所以“答案”是 2)2018 年 3 月 20 日 19:59[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=976186607794520065)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=976186607794520065)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=976186607794520065)
 
 对于我的计时器，我想要 25 分钟，所以我用这个来代替`totalTime: (25 * 60)`。这等于总时间(25 分钟)乘以 60，等于以秒为单位的时间。总时间是 1500 秒。
 

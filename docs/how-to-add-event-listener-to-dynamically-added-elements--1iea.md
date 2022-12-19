@@ -10,9 +10,9 @@
 
 # 先添加一个元素
 
-[![Alt text of image](../Images/829e85046b583da02538e4452874530c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6aAKkcqt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ezyzukp6czcwp44wl1rm.PNG)
+[![Alt text of image](img/829e85046b583da02538e4452874530c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6aAKkcqt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ezyzukp6czcwp44wl1rm.PNG)
 
-[![Alt text of image](../Images/855f477e4c4e488410125cc85a2ebe87.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LaF5Cw8d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wjogc8l51apgq4pa8k0d.PNG)
+[![Alt text of image](img/855f477e4c4e488410125cc85a2ebe87.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LaF5Cw8d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wjogc8l51apgq4pa8k0d.PNG)
 
 ## 击穿
 
@@ -26,7 +26,7 @@
 
 ## 我来给你演示 DE 方式
 
-[![Alt text of image](../Images/12ac730c85a556fd88c23b5d94d6a677.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B92_f0uY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8ka6dcp87ejuwwzrgxos.PNG)
+[![Alt text of image](img/12ac730c85a556fd88c23b5d94d6a677.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B92_f0uY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8ka6dcp87ejuwwzrgxos.PNG)
 
 ## 击穿
 

@@ -26,11 +26,11 @@ MacOS 自带一个名为 Preview 的程序，可以让你批量调整图像大�
 
 从这里您将看到预览窗口:
 
-[![Preview app](../Images/bced102045696a67055dac6329357365.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jfzBfTrq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bz55errz5tpqc0624tu6.jpg)
+[![Preview app](img/bced102045696a67055dac6329357365.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jfzBfTrq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bz55errz5tpqc0624tu6.jpg)
 
 按下 CMD + A，您可以选择所有的图像，然后前往工具>调整大小。出现的对话框将让您设置宽度和高度的值，尽管您可能只设置宽度，并让它为您缩放图像，这样图片的任何部分都不会被剪切。
 
-[![Preview app resize dialogue](../Images/8b7b07a4e186eced390bf4468bb1255e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_du76vyz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jcmc9wfqabvnmjpycpk1.jpg)
+[![Preview app resize dialogue](img/8b7b07a4e186eced390bf4468bb1255e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_du76vyz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jcmc9wfqabvnmjpycpk1.jpg)
 
 #### 在窗口上批量调整大小
 
@@ -70,7 +70,7 @@ WordPress 自带了对调整图片大小的内置支持。如果你在 WordPress
 
 ImageOptim 是我最喜欢的优化图像的工具。你把你的图片拖到程序上，程序会自动完成剩下的工作，默认情况下会替换现有的图片。它还让你知道节省了多少钱。如果您不满意，您可以更新首选项以进行更积极的优化。
 
-[![ImageOptim app results](../Images/76b76e02ed7eee7d7cef55757ccb7cc5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GvEGtjHI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l6cqdejpj677ay82dvb8.jpg)
+[![ImageOptim app results](img/76b76e02ed7eee7d7cef55757ccb7cc5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GvEGtjHI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l6cqdejpj677ay82dvb8.jpg)
 
 ImageOptim 网站有一个页面为其他平台提供建议。再次为我以 MacOS 为中心的心态道歉。
 
@@ -80,7 +80,7 @@ ImageOptim 网站有一个页面为其他平台提供建议。再次为我以 Ma
 
 在 MacOS 上，你可以像以前一样在预览中打开图像，然后在选择所有内容后，你可以进入文件>导出所选项目。在出现的对话框中，左下角有一个标签为“选项”的按钮。在这里，您可以选择不同的格式。
 
-[![Converting PNG to JPEG with the Preview app](../Images/482dd75d5769b33516ad23dd5a58275a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wp2s9bS0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0no4lhhz4fa1y3ufw6a7.jpg)
+[![Converting PNG to JPEG with the Preview app](img/482dd75d5769b33516ad23dd5a58275a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wp2s9bS0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0no4lhhz4fa1y3ufw6a7.jpg)
 
 也有很多在线工具可以做到这一点。在 Windows 上，一个选择可能是像 IrfanView T1 这样的软件，我相信 T3 可以让你批量转换图像。我不知道我是否对 Windows 用户说过，但是我很抱歉。我甚至还没有向 Linux 用户道歉。
 

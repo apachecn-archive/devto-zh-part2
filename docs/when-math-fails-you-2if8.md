@@ -4,7 +4,7 @@
 
 已经过了午夜，我睡不着。我打开手机上的 Chrome 浏览器，在晚上早些时候调出了一篇关于 COBOL 的社论，这让我开始思考我们的计算机实际上是如何做数学的。作者链接了[的一篇文章](https://www3.nd.edu/~markst/cast-award-speech.pdf)，这篇文章讲述了浮点数学的问题以及它所引发的一些问题。你会惊讶有多少问题来自于没有意识到 [0.1 不能用二进制](https://www.exploringbinary.com/why-0-point-1-does-not-exist-in-floating-point/)精确表示。所以我决定查看文章中的一个例子，看看它们的测试值，x=77617，y=33096:
 
-[![f(x,y)=333.75y^6 + x^2)(11x^2y^2 - y^6 - 121y^4 - 2) + 5.5y^8 + x/2y](../Images/9c3a93ddc81af725cc17c4a865b94800.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yATu71Fx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://quicklatex.com/cache3/ce/ql_3839c2e0dde0907b0969dd4af343d6ce_l3.png)
+[![f(x,y)=333.75y^6 + x^2)(11x^2y^2 - y^6 - 121y^4 - 2) + 5.5y^8 + x/2y](img/9c3a93ddc81af725cc17c4a865b94800.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yATu71Fx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://quicklatex.com/cache3/ce/ql_3839c2e0dde0907b0969dd4af343d6ce_l3.png)
 
 感谢[快速乳胶](http://quicklatex.com/)的格式化！
 

@@ -20,7 +20,7 @@
 
 Webpack 是 JavaScript 的捆绑工具，有很多方法可以帮助优化内容的交付(参见 [**用 webpack 进行 Web 性能优化**](https://developers.google.com/web/fundamentals/performance/webpack/) )。由于这个原因，我很惊讶在这个页面上看到这么多重定向！不幸的是，用 WebPageTest 进行的快速测试证实了这一点，并且还显示 302 重定向没有被缓存，回访也遭受了同样的 600+ 302 重定向惩罚。
 
-[![](../Images/5f9e4d7b2c07547edd92d0cf930f60c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iagboCXq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/353/0%2AtMud9VjIIxBWTSME)
+[![](img/5f9e4d7b2c07547edd92d0cf930f60c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iagboCXq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/353/0%2AtMud9VjIIxBWTSME)
 
 我会把完整的瀑布粘贴到这个帖子里，但是你会一直滚动，过一会儿就放弃我要说的话。如果你很好奇，可以在这里看到测试结果:[https://www . web page test . org/result/181023 _ JP _ b 9476 f 132 f 954277 f 10 ab 45938 be 4702/](https://www.webpagetest.org/result/181023_JP_b9476f132f954277f10ab45938be4702/)
 
@@ -30,11 +30,11 @@ Webpack 是 JavaScript 的捆绑工具，有很多方法可以帮助优化内容
 
 每个请求:
 
-[https://opencollective.com/proxy/images/](https://opencollective.com/proxy/images/)？
+[https://opencollective.com/proimg/](https://opencollective.com/proimg/)？
 
 已重定向至:
 
-[https://images.opencollective.com/proxy/images/](https://images.opencollective.com/proxy/images/)？
+[https://images.opencollective.com/proimg/](https://images.opencollective.com/proimg/)？
 
 > *并且重定向没有被缓存:*
 > 
@@ -50,7 +50,7 @@ Webpack 是 JavaScript 的捆绑工具，有很多方法可以帮助优化内容
 
 我们可以解决这个问题！在 Opencollective Github repo 中，我发现在 Opencollective 上的 9/17 commit 中对图像子域进行了更改。这里没有邪恶，只是一个简单的迁移。这可能是罪魁祸首吗？幸运的是，有了 HTTP 存档，我们就有了历史数据！
 
-[![](../Images/8a793829ec5b665aecb948815a9a2f59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AQ8kXpTH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/804/0%2ABuiX5qWQv6KF5Kg-)
+[![](img/8a793829ec5b665aecb948815a9a2f59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AQ8kXpTH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/804/0%2ABuiX5qWQv6KF5Kg-)
 
 查看 2018 年 9 月 1 日的 HTTPArchive，webpack.js.org 有 0 个重定向，但在 2018 年 9 月 15 日的 HTTP 存档爬网上有 649 个重定向。
 
@@ -66,7 +66,7 @@ Webpack 是 JavaScript 的捆绑工具，有很多方法可以帮助优化内容
 
 [https://www . web page test . org/result/181108 _ 98 _ 7f 290d 38486 AC 8 ce 6505 ad 553 C4 a bea 9/](https://www.webpagetest.org/result/181108_98_7f290d38486ac8ce6505ad553c4abea9/)
 
-[![](../Images/feae3deb386489c743c159b24ee58185.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cEVY2Gb5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/342/0%2APXKXS4tK72NF5THB)
+[![](img/feae3deb386489c743c159b24ee58185.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cEVY2Gb5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/342/0%2APXKXS4tK72NF5THB)
 
 ### 结论:
 

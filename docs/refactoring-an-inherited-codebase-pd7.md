@@ -23,7 +23,7 @@
 
 <figcaption>一般策略和方法</figcaption>
 
-[![A three-phase plan](../Images/9d1bffe2d556b151be829e329457f9c9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OqDahjg9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/refactoring/plan-640.png)
+[![A three-phase plan](img/9d1bffe2d556b151be829e329457f9c9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OqDahjg9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/refactoring/plan-640.png)
 
 在我的项目结束时，*阶段 3* 仍然很遥远，因为整个应用程序需要进行重大的架构变更。但是，嘿，*二期*(清理)本身就已经是一项重大的努力。
 
@@ -52,7 +52,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <figcaption>不确定那些是做什么的……</figcaption>
 
-[![Mysterious inputs without labels](../Images/e1e876c0a9132dbf163ec5987ac1f259.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--t5v6tJjo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/refactoring/unknown-inputs-640.jpg)
+[![Mysterious inputs without labels](img/e1e876c0a9132dbf163ec5987ac1f259.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--t5v6tJjo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/refactoring/unknown-inputs-640.jpg)
 
 作为一个在过去 5 年中以开发界面为生的人，相信我，每天从事产品工作的人是最不适合做用户测试的群体。因为我们与产品、bug 等等的互动比普通用户要频繁得多。
 
@@ -62,7 +62,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <figcaption>我能说什么呢，我喜欢电子表格</figcaption>
 
-[![Compiling findings into a Google Sheets document](../Images/206c281183bb4ea423e4aa400d06fecc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fMOuQjQS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/refactoring/tracker-640.jpg)
+[![Compiling findings into a Google Sheets document](img/206c281183bb4ea423e4aa400d06fecc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fMOuQjQS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/refactoring/tracker-640.jpg)
 
 ### 现场分析用工具
 
@@ -70,7 +70,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <figcaption>嗯，这里有点偏多</figcaption>
 
-[![Chrome's network tab](../Images/7a942ca9fcfcc8fe42fdcdc3869453f9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4DNfWiWy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/refactoring/performance-640.png)
+[![Chrome's network tab](img/7a942ca9fcfcc8fe42fdcdc3869453f9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4DNfWiWy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/refactoring/performance-640.png)
 
 在完成整个产品之后，我总共看到了 24 个不同的页面，有些页面是纯文本内容，有些页面则包含了大量用于创建复杂规则和条件的业务逻辑。我把我的发现扔进了前面提到的电子表格，最后得到了以下统计数据:
 
@@ -83,7 +83,7 @@ Chrome 也有[一个漂亮的代码覆盖工具](https://developers.google.com/w
 
 <figcaption>没用的代码还真不少</figcaption>
 
-[![Chrome's coverage tool](../Images/3a1964c7f074bef662c83fd3733433b8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--beYv6a2h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/refactoring/coverage-640.jpg)
+[![Chrome's coverage tool](img/3a1964c7f074bef662c83fd3733433b8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--beYv6a2h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/refactoring/coverage-640.jpg)
 
 ### 评估审计结果
 
@@ -93,7 +93,7 @@ Chrome 也有[一个漂亮的代码覆盖工具](https://developers.google.com/w
 
 <figcaption>这是痛苦的经历，说实话</figcaption>
 
-[![Mish-mash of HTML, CSS, Javascript and Jinja variables](../Images/9f2e849d431c9d219834ef76203b1ad7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lXb7FhL6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/refactoring/messy-code-640.png)
+[![Mish-mash of HTML, CSS, Javascript and Jinja variables](img/9f2e849d431c9d219834ef76203b1ad7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lXb7FhL6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/refactoring/messy-code-640.png)
 
 模板文件中有大量的内联 Javascript，Jinja 变量在 Javascript 函数中被直接调用和使用在`<script>`标记之间。这对我来说很难拒绝，我坚持将所有 Javascript 提取到单独的`.js`文件中，并保持模板内联样式和脚本的整洁。
 
@@ -121,7 +121,7 @@ Chrome 也有[一个漂亮的代码覆盖工具](https://developers.google.com/w
 
 <figcaption>原文在左边，改写在右边</figcaption>
 
-[![Before and After look and feel](../Images/6f484ecebe8aaa6416ff24f768b475be.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Pc1dPiwQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/refactoring/before-after-640.png)
+[![Before and After look and feel](img/6f484ecebe8aaa6416ff24f768b475be.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Pc1dPiwQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/refactoring/before-after-640.png)
 
 这种方法也解决了大量的实现问题。例如，访问存储在数据库中的信息的 REST APIs 是有限的，因为以前的实现直接在内联 Javascript 函数中使用 Jinja 变量。参见下面的图表:
 
@@ -173,13 +173,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 <figcaption>加载代码从 5.1mb 降到 291kb</figcaption>
 
-[![Coverage tool results after rewrite](../Images/87be29e8dad49ee529975a914de1b217.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YAPWoe60--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/refactoring/coverage2-640.png)
+[![Coverage tool results after rewrite](img/87be29e8dad49ee529975a914de1b217.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YAPWoe60--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/refactoring/coverage2-640.png)
 
 唯一加载的外部 CSS 是用于日期选择器和数据表的，甚至那些被定制为只包含相关的样式，所以在 CSS 方面也节省了很多。
 
 <figcaption>从 83 个 7.5mb 的请求减少到 40 个 563kb 的请求，还有改进的空间</figcaption>
 
-[![Page weight after rewrite](../Images/10427a3e1a24c64cb78439374f78d6e1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JoBwxBIX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/refactoring/performance2-640.png)
+[![Page weight after rewrite](img/10427a3e1a24c64cb78439374f78d6e1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JoBwxBIX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/refactoring/performance2-640.png)
 
 作为初步评估，这是一个相对较好的结果。第二轮重构还有进一步改进的空间，无论是在 Javascript 方面还是在 CSS 方面，但是这部分工作可能会落到下一个接手这个项目的人身上。
 

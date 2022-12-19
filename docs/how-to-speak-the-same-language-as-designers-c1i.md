@@ -22,9 +22,9 @@
 
 一种设计者用来提出、探索、提炼和分享想法的绘图类型。UX 设计师将草图作为解决设计问题的第一道防线。
 
-[![alt](../Images/74b8d38c78eb2c9d3f9257c23b78f2b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m3dEYwwM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/05/Img-1%402x-1.png)
+[![alt](img/74b8d38c78eb2c9d3f9257c23b78f2b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m3dEYwwM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/05/Img-1%402x-1.png)
 
-*   **线框** ![alt](../Images/5e91255f5f6b7778c61c53f5b750f6ab.png)一页中重要信息的简化草图。也称为页面架构、页面示意图或蓝图。它是设计的框架，应该包含最终产品的所有重要元素。
+*   **线框** ![alt](img/5e91255f5f6b7778c61c53f5b750f6ab.png)一页中重要信息的简化草图。也称为页面架构、页面示意图或蓝图。它是设计的框架，应该包含最终产品的所有重要元素。
 
 虽然线框看起来就像一组灰色块，但它是一个低细节的设计展示。这个设计框架包含了最终产品的所有重要元素。它显示了主要的内容组、数据结构以及用户与界面交互的描述。团队中的开发人员、设计师、文案、经理都需要一个精心制作的线框。
 
@@ -35,7 +35,7 @@
 *   **可视化**
 
 显示器上信息对象及其关系的图示。战略可视化通过显示器上的对象的接近度来图形化地说明关系的强度。
-[![alt](../Images/98b833ea663a5a6d0329798438629c7c.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--hc3fpbxj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/05/Img-3%402x-2.png)
+[![alt](img/98b833ea663a5a6d0329798438629c7c.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--hc3fpbxj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/05/Img-3%402x-2.png)
 
 *   **模型**
 
@@ -43,7 +43,7 @@
 
 *   **原型**
 
-[![prototype](../Images/f13ebfaa785ee78f52313e3529ebb4a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gMrR6UYw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/06/1_wZN66CkQmY8mFoQ8XOPcjA.jpeg)
+[![prototype](img/f13ebfaa785ee78f52313e3529ebb4a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gMrR6UYw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/06/1_wZN66CkQmY8mFoQ8XOPcjA.jpeg)
 
 通常与线框相混淆，原型是最终产品的中等或高度详细的表示。它模拟用户与界面的交互。它应该允许用户对内容和界面进行评级，并测试处理应用程序的主要选项。它可能看起来不完全像最终产品，但它绝对不应该是灰色阴影的草图。交互的模型必须足够接近最终产品。
 
@@ -73,10 +73,10 @@
 
 *   **入职**
 
-[![alt](../Images/716778db5f9cabf24f79f12dd09e0034.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ge8-3if3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/05/Img-4%402x.png) 
+[![alt](img/716778db5f9cabf24f79f12dd09e0034.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ge8-3if3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/05/Img-4%402x.png) 
 通过让新用户放松来为他们设计一个受欢迎的体验。您站点的入职流程设计通常仅限于首次使用场景。
 
-*   **登陆页面** ![alt](../Images/05361a2715ed274b0b2a2547cfd85a84.png)
+*   **登陆页面** ![alt](img/05361a2715ed274b0b2a2547cfd85a84.png)
 
 用户点击链接后网站上的位置。也称为目标页面或目的页面。
 
@@ -84,7 +84,7 @@
 
 ## 如何避免设计沟通中的失误
 
-[![alt](../Images/2f30b17572993ec296e4342402d7a457.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fcLDYyZb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/05/Img-6%402x.png) 
+[![alt](img/2f30b17572993ec296e4342402d7a457.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fcLDYyZb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/05/Img-6%402x.png) 
 术语对用户查找和理解信息的能力起着很大的作用。许多术语对设计师和内容作者来说是熟悉的，但对用户、管理者和客户来说却不熟悉。
 
 当设计师知道他们在和其他设计师交谈时，他们会以特殊的方式使用词语。在这种情况下，他们正在交流设计概念，他们要么知道，要么假设将是共享的领域。
@@ -143,7 +143,7 @@
 
 ### 关于设计的良好反馈
 
-[![alt](../Images/99a630580aac098340e14403a94db46d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zwYnCniH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/05/Img-7%402x.png) 
+[![alt](img/99a630580aac098340e14403a94db46d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zwYnCniH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/05/Img-7%402x.png) 
 试着问问设计师他们会有什么建议。以下是一些如何询问设计师专业意见的例子:
 
 *   “我们能做些什么来应对这种情况？”

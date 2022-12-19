@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/plutov/building-a-slack-bot-with-go-and-witai-elb>
 
-[![wit](../Images/c2b9f0719d14acc183aac4cfda7c6ac5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9vpdjJoG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://pliutau.com/wit.jpg)
+[![wit](img/c2b9f0719d14acc183aac4cfda7c6ac5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9vpdjJoG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://pliutau.com/wit.jpg)
 
 这是视频 [packagemain #9:用 Go 和 Wit.ai](https://www.youtube.com/watch?v=zkB_c3cgtd0) 构建 Slack Bot 的文字版。
 

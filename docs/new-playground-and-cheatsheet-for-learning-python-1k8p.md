@@ -6,7 +6,7 @@
 
 下面是我得到的消息。
 
-[![](../Images/e906a97ac4840ff4f6cc4b89ed2af069.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RsD82-n_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nk24kmc3h8037c2k8a74.png)
+[![](img/e906a97ac4840ff4f6cc4b89ed2af069.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RsD82-n_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nk24kmc3h8037c2k8a74.png)
 
 这是一个由[主题](https://github.com/trekhleb/learn-python#table-of-contents)分割的[Python 脚本](https://github.com/trekhleb/learn-python)的集合，包含
 代码示例以及解释、不同的用例以及进一步阅读的链接。

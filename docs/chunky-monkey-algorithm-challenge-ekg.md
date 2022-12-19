@@ -4,7 +4,7 @@
 
 今天我能够解决实际上是一个基本的 Javascript 算法。对于那些对编码更有经验的人来说，这个算法很简单，但对我来说，这是一个有趣的挑战。在这篇文章中，我将尝试解释我(最终)解决这个问题的步骤。所以，系好安全带，和我一起踏上编码之旅吧。
 
-[![enter image description here](../Images/e1850297ade7597b4c1b2294558b3ae2.png)T2】](https://i.giphy.com/media/VNhrzGZDa8mZy/giphy.gif)
+[![enter image description here](img/e1850297ade7597b4c1b2294558b3ae2.png)T2】](https://i.giphy.com/media/VNhrzGZDa8mZy/giphy.gif)
 
 矮胖猴子算法是 [FreeCodeCamp 前端 Web 开发认证](https://www.freecodecamp.org)的一部分。它要求我编写一个函数，将一个数组(第一个参数， **arr** )分成长度等于第二个参数( **size** )的组，然后将它们作为一个二维数组( **newArr** )返回。
 

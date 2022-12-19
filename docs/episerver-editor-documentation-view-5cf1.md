@@ -5,7 +5,7 @@
 ## 快速汇总
 
 在这篇文章中，我将描述如何在 Episerver 中添加一个自定义编辑器视图，用于呈现文档。我们的例子是从 Github 获取文档，但是我将讨论如何扩展实现来从其他来源获取文档。
-[![Editor View In Use](../Images/8d042d25000fe731202d3a0cba36a661.png)](//images.ctfassets.net/9usgdrjsks5w/3MemdUUmbCcmcAgc4mm60G/bc9d6a304ccd012216c00808bf5191d2/Editor_View_In_Use.gif) 
+[![Editor View In Use](img/8d042d25000fe731202d3a0cba36a661.png)](//images.ctfassets.net/9usgdrjsks5w/3MemdUUmbCcmcAgc4mm60G/bc9d6a304ccd012216c00808bf5191d2/Editor_View_In_Use.gif) 
 为什么要添加文档视图？显而易见的答案是让编辑更快地访问文档。我最初为一个有几十种页面和块类型的客户创建了这个视图，其中一些有几十个具有复杂逻辑的属性。当你开始编辑一个页面时，能够立即看到属性的描述，我们认为这是非常有价值的。
 
 不太明显的原因是它迫使开发人员添加文档。当实现了新的页面和块类型时，编辑器可以看到的空白页面是开发人员添加文档的良好动机。
@@ -79,7 +79,7 @@ public class StartPage : SitePageData, IDocumented
 
 Enter fullscreen mode Exit fullscreen mode
 
-然后，您可以用 markdown 文档文件的名称填充 episerver 中的属性。[![property in epi](../Images/18fec39dc2df86244b3570daf4448ec3.png)T2】](//images.ctfassets.net/9usgdrjsks5w/4YHn5XCSVasswAe2aCWky0/3d80af5262b80b9a298fb7416eace5f2/property_in_epi.png)
+然后，您可以用 markdown 文档文件的名称填充 episerver 中的属性。[![property in epi](img/18fec39dc2df86244b3570daf4448ec3.png)T2】](//images.ctfassets.net/9usgdrjsks5w/4YHn5XCSVasswAe2aCWky0/3d80af5262b80b9a298fb7416eace5f2/property_in_epi.png)
 
 这就是让编辑器文档视图在您的 Episerver 站点上工作所需的全部内容。
 

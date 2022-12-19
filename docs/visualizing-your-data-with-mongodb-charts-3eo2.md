@@ -26,7 +26,7 @@ MongoDB 图表，目前处于测试阶段，提供了一种简单的方法来可
 
 我用各个城市的 Airbnb 数据建立了一个数据库。我们将在这里探索来自华盛顿州西雅图的数据集，但也可以自己探索其他数据集。我们需要从包含我们数据的 Atlas 集群中获取连接字符串，并在图表中连接到它。
 
- [![Get URI From MongoDB Atlas for MongoDB Charts](../Images/76d9a40316978bbe90ba71e798f0254f.png)](https://webassets.mongodb.com/_com_assets/cms/atlas-URI-6k09mb3bg3.gif) 
+ [![Get URI From MongoDB Atlas for MongoDB Charts](img/76d9a40316978bbe90ba71e798f0254f.png)](https://webassets.mongodb.com/_com_assets/cms/atlas-URI-6k09mb3bg3.gif) 
 
 <figcaption>从 MongoDB 图集中获取 URI</figcaption>
 
@@ -44,15 +44,15 @@ MongoDB 图表，目前处于测试阶段，提供了一种简单的方法来可
 
 点击*添加图表*按钮后，我们可以开始构建我们的可视化。我们想从下拉菜单中选择`Airbnb Seattle`数据源。MongoDB 图表自动确定哪些油田可供勘探。在本练习中，我想看看西雅图的哪些社区拥有最多的 Airbnb 房产，并按房产类型对它们进行分类。我们将使用该类型的堆积条形图。
 
- [![Assign X-Axis value in MongoDB Charts](../Images/264e61a7f9dc8b93bf62610f39eb9037.png)](https://webassets.mongodb.com/_com_assets/cms/x-axis-value-cz2tkvt97r.gif) 
+ [![Assign X-Axis value in MongoDB Charts](img/264e61a7f9dc8b93bf62610f39eb9037.png)](https://webassets.mongodb.com/_com_assets/cms/x-axis-value-cz2tkvt97r.gif) 
 
 <figcaption>将 X 轴值分配给 MongoDB 图表</figcaption>
 
- [![Assign Y-Axis value to a Stacked Bar in MongoDB Charts](../Images/dcd853d57b158316531978756b6d9339.png)](https://webassets.mongodb.com/_com_assets/cms/y-axis-value-h1llqzam8w.gif) 
+ [![Assign Y-Axis value to a Stacked Bar in MongoDB Charts](img/dcd853d57b158316531978756b6d9339.png)](https://webassets.mongodb.com/_com_assets/cms/y-axis-value-h1llqzam8w.gif) 
 
 <figcaption>将 Y 轴值赋给堆积条形图</figcaption>
 
- [![Assign a Series value to a Stacked Bar chart in MongoDB Charts](../Images/831eb40c9c4c4cc740726e09f3b351ab.png)](https://webassets.mongodb.com/_com_assets/cms/series-value-b1gprdumq6.gif) 
+ [![Assign a Series value to a Stacked Bar chart in MongoDB Charts](img/831eb40c9c4c4cc740726e09f3b351ab.png)](https://webassets.mongodb.com/_com_assets/cms/series-value-b1gprdumq6.gif) 
 
 <figcaption>为堆积条形图分配系列值</figcaption>
 
@@ -75,6 +75,6 @@ MongoDB 图表是在 MongoDB 数据上构建可视化的最快方式。我鼓励
 
 *这篇文章最初发表在 [MongoDB 博客](https://dev.to/mongodb/visualizing-your-data-with-mongodb-charts-2eh4-temp-slug-3842302)T3 上。*
 
-[![Facebook](../Images/79cfd3c9812f2a2b24840e107dfe0e1a.png "Share on Facebook")](http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.kenwalger.com%2Fblog%2Fnosql%2Fmongodb%2Fvisualizing-data-mongodb-charts%2F&t=Visualizing%20Your%20Data%20With%20MongoDB%20Charts&s=100&p%5Burl%5D=https%3A%2F%2Fwww.kenwalger.com%2Fblog%2Fnosql%2Fmongodb%2Fvisualizing-data-mongodb-charts%2F&p%5Bimages%5D%5B0%5D=https%3A%2F%2Fwebassets.mongodb.com%2F_com_assets%2Fcms%2Fatlas-URI-6k09mb3bg3.gif&p%5Btitle%5D=Visualizing%20Your%20Data%20With%20MongoDB%20Charts)[![twitter](../Images/e3a323cb1ef89a3b7bfbb40f5a5800cd.png "Share on Twitter")](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.kenwalger.com%2Fblog%2Fnosql%2Fmongodb%2Fvisualizing-data-mongodb-charts%2F&text=Hey%20check%20this%20out)[![google_plus](../Images/9a7da8faca1a1fde7772bc97d1ffaea0.png "Share on Google+")](https://plus.google.com/share?url=https%3A%2F%2Fwww.kenwalger.com%2Fblog%2Fnosql%2Fmongodb%2Fvisualizing-data-mongodb-charts%2F)[![reddit](../Images/67ebb1b320193a9bf3c562f5d77f04df.png "Share on Reddit")](http://www.reddit.com/submit?url=https%3A%2F%2Fwww.kenwalger.com%2Fblog%2Fnosql%2Fmongodb%2Fvisualizing-data-mongodb-charts%2F&title=Visualizing%20Your%20Data%20With%20MongoDB%20Charts)[![linkedin](../Images/f9684edc4e8f6cf298d3fa21f5869127.png "Share on Linkedin")](http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.kenwalger.com%2Fblog%2Fnosql%2Fmongodb%2Fvisualizing-data-mongodb-charts%2F&title=Visualizing%20Your%20Data%20With%20MongoDB%20Charts)[![mail](../Images/265476ced77e071f0a8d25be8996a26b.png "Share by email")](mailto:?subject=Visualizing%20Your%20Data%20With%20MongoDB%20Charts&body=Hey%20check%20this%20out:%20https%3A%2F%2Fwww.kenwalger.com%2Fblog%2Fnosql%2Fmongodb%2Fvisualizing-data-mongodb-charts%2F)
+[![Facebook](img/79cfd3c9812f2a2b24840e107dfe0e1a.png "Share on Facebook")](http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.kenwalger.com%2Fblog%2Fnosql%2Fmongodb%2Fvisualizing-data-mongodb-charts%2F&t=Visualizing%20Your%20Data%20With%20MongoDB%20Charts&s=100&p%5Burl%5D=https%3A%2F%2Fwww.kenwalger.com%2Fblog%2Fnosql%2Fmongodb%2Fvisualizing-data-mongodb-charts%2F&p%5Bimages%5D%5B0%5D=https%3A%2F%2Fwebassets.mongodb.com%2F_com_assets%2Fcms%2Fatlas-URI-6k09mb3bg3.gif&p%5Btitle%5D=Visualizing%20Your%20Data%20With%20MongoDB%20Charts)[![twitter](img/e3a323cb1ef89a3b7bfbb40f5a5800cd.png "Share on Twitter")](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.kenwalger.com%2Fblog%2Fnosql%2Fmongodb%2Fvisualizing-data-mongodb-charts%2F&text=Hey%20check%20this%20out)[![google_plus](img/9a7da8faca1a1fde7772bc97d1ffaea0.png "Share on Google+")](https://plus.google.com/share?url=https%3A%2F%2Fwww.kenwalger.com%2Fblog%2Fnosql%2Fmongodb%2Fvisualizing-data-mongodb-charts%2F)[![reddit](img/67ebb1b320193a9bf3c562f5d77f04df.png "Share on Reddit")](http://www.reddit.com/submit?url=https%3A%2F%2Fwww.kenwalger.com%2Fblog%2Fnosql%2Fmongodb%2Fvisualizing-data-mongodb-charts%2F&title=Visualizing%20Your%20Data%20With%20MongoDB%20Charts)[![linkedin](img/f9684edc4e8f6cf298d3fa21f5869127.png "Share on Linkedin")](http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.kenwalger.com%2Fblog%2Fnosql%2Fmongodb%2Fvisualizing-data-mongodb-charts%2F&title=Visualizing%20Your%20Data%20With%20MongoDB%20Charts)[![mail](img/265476ced77e071f0a8d25be8996a26b.png "Share by email")](mailto:?subject=Visualizing%20Your%20Data%20With%20MongoDB%20Charts&body=Hey%20check%20this%20out:%20https%3A%2F%2Fwww.kenwalger.com%2Fblog%2Fnosql%2Fmongodb%2Fvisualizing-data-mongodb-charts%2F)
 
 用 MongoDB 图表可视化你的数据的帖子最早出现在肯·w·阿尔杰的博客上。

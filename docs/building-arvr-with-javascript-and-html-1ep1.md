@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/orgoldfus/building-arvr-with-javascript-and-html-1ep1>
 
-[![](../Images/89c2bd47e75e241cecedb1dfe7260059.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YHqX0LCC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AnbkPFtgm8TPEd8zpPm1Giw.jpeg)
+[![](img/89c2bd47e75e241cecedb1dfe7260059.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YHqX0LCC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AnbkPFtgm8TPEd8zpPm1Giw.jpeg)
 
 #### 使用网络技术构建引人入胜的增强和虚拟现实体验的综合资源列表
 

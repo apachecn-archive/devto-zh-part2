@@ -15,7 +15,7 @@
 
 今天早上，我打开了[谷歌 API 浏览器](https://developers.google.com/apis-explorer/#s/firestore/v1beta1/)，发现 Firestore `v1beta1` : `exportDocuments`和`importDocuments`下面列出了两个新方法。
 
-[![APIs Explorer Screenshot](../Images/6277286a29dc78e8c5b20f29ab9ca024.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OVajWMhp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mypdp1zzzof9nv0cl0l0.png)
+[![APIs Explorer Screenshot](img/6277286a29dc78e8c5b20f29ab9ca024.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OVajWMhp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mypdp1zzzof9nv0cl0l0.png)
 
 ## 探索
 
@@ -23,13 +23,13 @@
 
 为了测试这一点，我打开了 [Firebase 控制台](https://console.firebase.google.com)并创建了一个新项目。为了备份数据，我从控制台创建了一个用户文档。
 
-[![Creating a document](../Images/74a9b7125d13d18655e1efccfdb310f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--40mUHeY2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cxrb8v1lyzh7zrzpv4ty.png)
+[![Creating a document](img/74a9b7125d13d18655e1efccfdb310f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--40mUHeY2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cxrb8v1lyzh7zrzpv4ty.png)
 
 在同一个项目中，我打开了 [Google 云存储控制台](https://console.cloud.google.com/storage/)，并创建了一个存储我的备份的桶。
 
 从 [Google APIs Explorer 的`exportDocuments`页面](https://developers.google.com/apis-explorer/#s/firestore/v1beta1/firestore.projects.databases.exportDocuments)，我输入了 Firebase 项目名称，以及存储桶的路径，然后点击**执行**。
 
-[![Execute!](../Images/7013b67fe59984be5f0a5d8d0e5efca5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_XMNJ1dM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oy92jzhev0sspj14dtoq.png)
+[![Execute!](img/7013b67fe59984be5f0a5d8d0e5efca5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_XMNJ1dM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oy92jzhev0sspj14dtoq.png)
 
 以下是 API 的回应:
 
@@ -41,7 +41,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 过了一会儿，我打开了水桶。果然，数据出现了！
 
-[![Backup in the bucket](../Images/697a5a52aac66642e659d1bf5216f818.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rsVq9jzt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/icikz8lm449v1ytzhy3d.png)
+[![Backup in the bucket](img/697a5a52aac66642e659d1bf5216f818.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rsVq9jzt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/icikz8lm449v1ytzhy3d.png)
 
 ## 恢复
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nbosco/latency-vs-throughput-2bn6>
 
-[![From CMU Parallel Computer Architecture and Programming Course](../Images/1488ab613be51ae7785b02847b46a796.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6eUOWk3M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qt7fwxo5kvboxuhzjmlb.jpeg)
+[![From CMU Parallel Computer Architecture and Programming Course](img/1488ab613be51ae7785b02847b46a796.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6eUOWk3M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qt7fwxo5kvboxuhzjmlb.jpeg)
 
 延迟:事件经过的时间。
 

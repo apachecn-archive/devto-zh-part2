@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/promise-chaining-is-dead-long-live-async-await-52aa>
 
-[![](../Images/1a76e97aa006774aac77ee603863d9a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5UeESUs3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ag4lmTSnkQrovZDS0JfrsbA.png)
+[![](img/1a76e97aa006774aac77ee603863d9a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5UeESUs3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ag4lmTSnkQrovZDS0JfrsbA.png)
 
 虽然异步函数一直存在，但它们经常被搁置不用。Async/await 可能被一些人认为是一个弃儿。
 
@@ -42,7 +42,7 @@ await sendEmail(owner.email, 'Some text')
 
 我们来看看为什么。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### 易于阅读，易于维护
 
@@ -151,7 +151,7 @@ const value = calculateSomething(await foo(), await bar())
 
 其次，您可能会发现 Visual Studio 代码对此非常方便:
 
-> ![unknown tweet media content](../Images/567e4d427cc2b86c3bb5fef54dc868c0.png)![Play butt](../Images/980e9fb12d58fa9423fc94c33003fc4f.png)<video loop="" controls=""><source src="https://video.twimg.com/tweet_video/DoLowPkW0AA8Wfi.mp4" type="video/mp4"></video>![Umar Hansa profile image](../Images/c70c238abc29162c08f83058f730a5c7.png)Umar Hansa[@ umaar](https://dev.to/umaar)![twitter logo](../Images/ad0c7b03deabfe1a161345efb2d537eb.png)Visual Studio 代码现在可以将您的 Promise.then()的长链转换为 async/await！🎊在 JavaScript 和 TypeScript 文件中都能很好地工作。。catch()也正确转换为 try/catch✅2018 年 9 月 28 日下午 12:42[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1045655069478334464)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1045655069478334464)1775[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1045655069478334464)4673
+> ![unknown tweet media content](img/567e4d427cc2b86c3bb5fef54dc868c0.png)![Play butt](img/980e9fb12d58fa9423fc94c33003fc4f.png)<video loop="" controls=""><source src="https://video.twimg.com/tweet_video/DoLowPkW0AA8Wfi.mp4" type="video/mp4"></video>![Umar Hansa profile image](img/c70c238abc29162c08f83058f730a5c7.png)Umar Hansa[@ umaar](https://dev.to/umaar)![twitter logo](img/ad0c7b03deabfe1a161345efb2d537eb.png)Visual Studio 代码现在可以将您的 Promise.then()的长链转换为 async/await！🎊在 JavaScript 和 TypeScript 文件中都能很好地工作。。catch()也正确转换为 try/catch✅2018 年 9 月 28 日下午 12:42[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1045655069478334464)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1045655069478334464)1775[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1045655069478334464)4673
 
 ### 结论
 
@@ -160,7 +160,7 @@ const value = calculateSomething(await foo(), await bar())
 *   只使用 async/await 也有技术上的原因。
 *   有了 Visual Studio 代码和其他 ide，你可以很容易地移植现有的 promise chained 代码！* * * ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

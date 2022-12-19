@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/slyfirefox/mastering-php-how-many-ways-can-you-string-a-sentence-together-5egk>
 
-[![](../Images/d40682aebe23bbdabecb3bedf8129e71.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KaZd1TBT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A90CHU_MnGSXClZKu.)
+[![](img/d40682aebe23bbdabecb3bedf8129e71.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KaZd1TBT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A90CHU_MnGSXClZKu.)
 
 <figcaption>[伊利亚·巴甫洛夫](https://unsplash.com/@ilyapavlov?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)</figcaption>
 

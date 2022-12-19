@@ -12,7 +12,7 @@
 
 答案在于 IIS 失败请求跟踪功能，以及可以配置它来跟踪成功请求和失败请求一样容易的事实。可以通过 IIS 管理器访问该功能，也可以在应用程序的`web.config`文件中指定配置。
 
-[![Failed Request Tracing](../Images/bb3c663b070e316184bb06a9c63a1f54.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_T5ya79O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://wengier.com/images/posts/FRT.png)
+[![Failed Request Tracing](img/bb3c663b070e316184bb06a9c63a1f54.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_T5ya79O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://wengier.cimg/posts/FRT.png)
 
 该模块本身有一个很好的向导来指导你建立一个新的规则，但是要以我想要的方式调试重写，这有点不直观，所以我将详细说明我做了什么。
 
@@ -20,7 +20,7 @@
 
 第二个屏幕是真正神奇的地方:
 
-[![Failed Request Tracing Step 2](../Images/ce49ec5baf93591225225367be81ff74.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zzfhT68Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://wengier.com/images/posts/frt-step-2.png)
+[![Failed Request Tracing Step 2](img/ce49ec5baf93591225225367be81ff74.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zzfhT68Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://wengier.cimg/posts/frt-step-2.png)
 
 这里的第一个输入选项是指定应该跟踪哪些 HTTP 状态代码，这就是我们翻转“失败”标题的地方。通过在这里指定一个成功的代码(即 2xx 或 3xx ),我们可以跟踪成功的请求，而不仅仅是失败的请求。
 
@@ -28,7 +28,7 @@
 
 如果你试图跟踪的请求到达了你的站点并导致了错误或坏的 URL，你可能也想把`404`和`500`添加到列表中。
 
-[![Failed Request Tracing Step 3](../Images/81207dd185c9aeec3e41751ecb6aaa15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EtIOuA5I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://wengier.com/images/posts/frt-step-3.png)
+[![Failed Request Tracing Step 3](img/81207dd185c9aeec3e41751ecb6aaa15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EtIOuA5I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://wengier.cimg/posts/frt-step-3.png)
 
 第三个屏幕允许选择您想要跟踪的 IIS 模块，因此为了将一些干扰排除在日志之外，最好取消选中除`Rewrite`和`RequestRouting`之外的所有模块。让冗长保持冗长，主要是因为说“冗长冗长”很有趣。
 
@@ -55,7 +55,7 @@
 
 正如我们所要求的，日志本身非常详细:
 
-[![Failed Request Tracing Sample Log](../Images/4b7999d912957e855d22b5ef14fe4a1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CxHAndkb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://wengier.com/images/posts/frt-output.png)
+[![Failed Request Tracing Sample Log](img/4b7999d912957e855d22b5ef14fe4a1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CxHAndkb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://wengier.cimg/posts/frt-output.png)
 
 您将看到重写配置中每个规则的输出，您可以看到输入值和匹配的模式。您可以看到每个 on 是否成功，尽管值得注意的是您需要自己应用`negate`值，因此一个否定的规则可能会说“Succeeded: false ”,您必须记住这意味着您编写的规则实际上是匹配的。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/henrym2/is-e-voting-ever-a-good-idea-3583>
 
-[![alt](../Images/39b40d0e55f8edb8dec4ce66c16cb581.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FsI1Aaz1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://erc.europa.eu/sites/default/files/styles/stories_detail_page/public/stories/images/vote_large_0.jpg%3Fitok%3Dwwoztery)
+[![alt](img/39b40d0e55f8edb8dec4ce66c16cb581.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FsI1Aaz1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://erc.europa.eu/sites/default/files/styles/stories_detail_page/public/storiimg/vote_large_0.jpg%3Fitok%3Dwwoztery)
 
 *TLDR；PC 还是纸？*
 

@@ -143,7 +143,7 @@ $ helm init --service-account tiller
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![tiller-service](../Images/dc48c5dccf70bf072b1cec15bb0db03a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M9uRscKq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.depado.eu/assets/kube-drone-helm/tiller-service.png)
+[![tiller-service](img/dc48c5dccf70bf072b1cec15bb0db03a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M9uRscKq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.depado.eu/assets/kube-drone-helm/tiller-service.png)
 
 请注意，以这种方式部署 tiller 不一定是好的做法。使用 RBAC，我们可以限制 Tiller 在集群中可以执行的操作以及它可以操作的名称空间。[参见本文档](https://github.com/kubernetes/helm/blob/master/docs/rbac.md)了解如何使用 RBAC 来限制或修改 k8s 集群中 Tiller 的行为。
 

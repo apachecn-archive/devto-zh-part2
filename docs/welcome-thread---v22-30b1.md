@@ -4,7 +4,7 @@
 
 你好。欢迎来到 dev.to！
 
-[![Hello Internet, in alarm clock font](../Images/c575047de2f390a3f4b1dca045adba35.png)T2】](https://i.giphy.com/media/l3q2Db419cJkNRYAM/giphy-downsized-large.gif)
+[![Hello Internet, in alarm clock font](img/c575047de2f390a3f4b1dca045adba35.png)T2】](https://i.giphy.com/media/l3q2Db419cJkNRYAM/giphy-downsized-large.gif)
 
 在下面留下评论向社区介绍自己吧！✌️
 

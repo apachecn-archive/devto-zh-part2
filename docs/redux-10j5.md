@@ -119,10 +119,10 @@ Enter fullscreen mode Exit fullscreen mode
 
 在几次尝试中，你会发现 logger 记录了非常有趣的行为。
 
-[![](../Images/a32debc0b9a535fd1561121e1e77fe33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Svh2zOyz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bhstbm3hn4te0xaymdhb.png)
+[![](img/a32debc0b9a535fd1561121e1e77fe33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Svh2zOyz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bhstbm3hn4te0xaymdhb.png)
 
 `prev state`和`next state`竟然是同一个东西。 不仅如此。
 
-[![](../Images/6bfee477192e6cc30984cb3d6bdd1d8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EXHi1V1e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wey83ohpegx13v72yqpj.png)
+[![](img/6bfee477192e6cc30984cb3d6bdd1d8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EXHi1V1e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wey83ohpegx13v72yqpj.png)
 
 连过去的输出也被改变了——虽然是非常有趣、有趣的故事，但是要解释这个现象，我并不熟悉`redux`和`redux-logger`的安装。 请谁写这篇解说文章。 我这是极限了。

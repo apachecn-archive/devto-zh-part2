@@ -274,11 +274,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果我们做的一切都是正确的，当我们用 Chrome 这样的 web 浏览器检查证书时，它将确认这是一个 EC 证书:
 
-[![Chrome certificate inspector](../Images/ed197a9407d48209a80d9727deff1df5.png "Chrome certificate inspector")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iR5pDI18--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/6N2USsV.png)
+[![Chrome certificate inspector](img/ed197a9407d48209a80d9727deff1df5.png "Chrome certificate inspector")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iR5pDI18--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/6N2USsV.png)
 
 另外， [Mozilla Observatory](https://observatory.mozilla.org/) 会给我们一个 A+的成绩！
 
-[![Mozilla Observatory grade](../Images/897dfbc05f5f563b57a3b136ca4533d0.png "Mozilla Observatory grade")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ViRNNFbo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/aTi2Yxr.png)
+[![Mozilla Observatory grade](img/897dfbc05f5f563b57a3b136ca4533d0.png "Mozilla Observatory grade")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ViRNNFbo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/aTi2Yxr.png)
 
 * * *
 

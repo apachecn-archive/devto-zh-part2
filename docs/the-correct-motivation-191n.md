@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/aviaryan/the-correct-motivation-191n>
 
-[![cover](../Images/6742b549f4b88704df4258a24b2be97f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WrJ38Chq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.us-east-2.amazonaws.com/devletters/covers/motivate.jpg)
+[![cover](img/6742b549f4b88704df4258a24b2be97f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WrJ38Chq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.us-east-2.amazonaws.com/devletters/covers/motivate.jpg)
 
 > 首次发布于 [Dev Letters](https://devletters.com/letters/correct-motivation/)
 

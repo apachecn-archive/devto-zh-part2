@@ -4,7 +4,7 @@
 
 大家好，我叫梅特，是哥本哈根大学计算机科学专业的三年级学生。虽然我很喜欢我的主题，但有一件事我真的很讨厌，它让我在这个问题上无法表现得像达西一样。
 
-[![Darcy](../Images/7556df046ee111e4e71a1393ebce259b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZoMFxqNb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/80f1dus38yzvholpjzw6.gif)
+[![Darcy](img/7556df046ee111e4e71a1393ebce259b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZoMFxqNb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/80f1dus38yzvholpjzw6.gif)
 
 然而，也有很多值得爱的东西。所以让我们深入这三位一体的感觉。
 

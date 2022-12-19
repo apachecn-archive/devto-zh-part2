@@ -6,7 +6,7 @@
 
 > Apache Kafka 是一个发布/订阅消息系统。它通常被称为“分布式提交日志”，或者最近被称为“分布式流平台”自 2011 年由 LinkedIn 创建并开源以来，Kafka 已经从消息队列迅速发展成为一个成熟的流媒体平台
 
-[![Source: [https://kafka.apache.org/images/kafka_diagram.png](https://kafka.apache.org/images/kafka_diagram.png)](../Images/6de57a1f7fddcf2bd88afd60a18703fd.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--Fyx1I7BG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2706/0%2Af_7HXjtx0Nva3RQR.png) *来源:【https://kafka.apache.org/images/kafka_diagram.png】*T4
+[![Source: [https://kafka.apache.oimg/kafka_diagram.png](https://kafka.apache.oimg/kafka_diagram.png)](img/6de57a1f7fddcf2bd88afd60a18703fd.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--Fyx1I7BG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2706/0%2Af_7HXjtx0Nva3RQR.png) *来源:【https://kafka.apache.oimg/kafka_diagram.png】*T4
 
 ## 灵感
 
@@ -30,4 +30,4 @@
 
 ## 我们开始吧！
 
-[![[By Amine Rock Hoovr](https://unsplash.com/@hoovr01?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](../Images/7dd363ed01b3827d5be6c794821f0b3f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1J1ms0LZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/10368/0%2AU_EwY9N-91IXddnk)
+[![[By Amine Rock Hoovr](https://unsplash.com/@hoovr01?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](img/7dd363ed01b3827d5be6c794821f0b3f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1J1ms0LZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/10368/0%2AU_EwY9N-91IXddnk)

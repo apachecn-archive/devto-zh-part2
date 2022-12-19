@@ -4,7 +4,7 @@
 
 ## 亲榆提示写代码像亲
 
-[![designed using https://crello.com](../Images/79d5c37451ef696849649ea3e5a3c1c1.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--KNsHv3kK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2400/1%2AV_Q37MuElfDww4uNDOCsSg.jpeg) *设计使用【https://crello.com】*
+[![designed using https://crello.com](img/79d5c37451ef696849649ea3e5a3c1c1.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--KNsHv3kK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2400/1%2AV_Q37MuElfDww4uNDOCsSg.jpeg) *设计使用【https://crello.com】*
 
 在生产中使用榆树涉及教与学。这篇文章包含了 10 个你可能知道也可能不知道的杀手职业榆树技巧。
 
@@ -76,7 +76,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这非常有用。
 
-[![type distribution](../Images/04a94fa3b09ede3dd4ee057da6bb1677.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--dVJVV4wS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3840/1%2AJvpMlEk4pk--ksg-ym24fA.png) *类型分布*
+[![type distribution](img/04a94fa3b09ede3dd4ee057da6bb1677.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--dVJVV4wS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3840/1%2AJvpMlEk4pk--ksg-ym24fA.png) *类型分布*
 
 ## 0100 —积分免费
 
@@ -171,7 +171,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 `{name} as model`是这里匹配的图案。
 
-[![pattern match](../Images/c2f98f9f969fef71d7971c4af52833ac.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--NxHhCABT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AzuXry4xsHLZkfG01gBVLiQ.png) *图案匹配*
+[![pattern match](img/c2f98f9f969fef71d7971c4af52833ac.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--NxHhCABT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AzuXry4xsHLZkfG01gBVLiQ.png) *图案匹配*
 
 现在，您只需将定义好的`model`传递给函数`updateFirstName`来更新`name`中的`firstName`字段。
 
@@ -183,7 +183,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![updated firstName](../Images/d71467d5d51edb19b58e506abfa150b0.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--dbE3TKRs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2402/1%2Ag7oITqRACmi06XDWrJ72tw.png) *更新名字*
+[![updated firstName](img/d71467d5d51edb19b58e506abfa150b0.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--dbE3TKRs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2402/1%2Ag7oITqRACmi06XDWrJ72tw.png) *更新名字*
 
 ## 0111 —单位类型()
 
@@ -278,7 +278,7 @@ main =
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/f5b1fa9ed3300482059e3b946b9cc6c6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KEQNyJwl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2148/1%2AwLEV_gzzVz0YCETOP_X50A.png)T3】
+[![](img/f5b1fa9ed3300482059e3b946b9cc6c6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KEQNyJwl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2148/1%2AwLEV_gzzVz0YCETOP_X50A.png)T3】
 
 ```
 import Html exposing (text)
@@ -296,7 +296,7 @@ main =
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/13ca1761a321452e17fae845a5461d1d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZiuoTr9E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2542/1%2Ab_7Cvax1TMFQQnd_K6NuCg.png)
+[![](img/13ca1761a321452e17fae845a5461d1d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZiuoTr9E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2542/1%2Ab_7Cvax1TMFQQnd_K6NuCg.png)
 
 ## 1010 —相似= >榆树中的函数
 

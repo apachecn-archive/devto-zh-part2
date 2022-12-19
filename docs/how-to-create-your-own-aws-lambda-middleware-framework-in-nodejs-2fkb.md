@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/uday_rayala/how-to-create-your-own-aws-lambda-middleware-framework-in-nodejs-2fkb>
 
-[![](../Images/4eb3595702e258cb4f17c5cc32ef57ee.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--F0Hi_fhw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/415/1%2AO4r5gQQQ37s0Lc4pTYbE3g.png)T3】AWS Lambda 中间件框架
+[![](img/4eb3595702e258cb4f17c5cc32ef57ee.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--F0Hi_fhw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/415/1%2AO4r5gQQQ37s0Lc4pTYbE3g.png)T3】AWS Lambda 中间件框架
 
 我们大约有 25 辆 lambdas，它们有一些共同的功能，比如:
 

@@ -272,7 +272,7 @@ npm install
 wget http://bit.ly/2JYSal9 -O panda.jpg 
 ```
 
-[![Panda](../Images/5aee62fca734617b73cf497cfebfb223.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J9LVA8k8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/su9xscczsrjvwgcjlpyx.jpg)
+[![Panda](img/5aee62fca734617b73cf497cfebfb223.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J9LVA8k8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/su9xscczsrjvwgcjlpyx.jpg)
 
 *   使用模型文件和输入图像作为参数运行脚本。
 

@@ -4,7 +4,7 @@
 
 在[之前的帖子](https://brightinventions.pl/blog/charts-on-android-1/)中，我确实向你展示了如何使用 [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) 库对 Android 线性图表进行基本设置。现在，我将向您展示一些我认为有用的功能。
 
-[![tuning](../Images/baad09c1b3ce5249f4a00bdcf5354af6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ovF1SEBq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5m5f5ue5qxhyhy26l27h.jpg)
+[![tuning](img/baad09c1b3ce5249f4a00bdcf5354af6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ovF1SEBq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5m5f5ue5qxhyhy26l27h.jpg)
 
 ## 自定义处理图表点击事件
 
@@ -31,7 +31,7 @@ lineChart.setOnChartValueSelectedListener(object : OnChartValueSelectedListener 
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![highlight chart](../Images/9605c6e9321a01240fc181be07d12265.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OchFhEpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2bpy4m9adl4ageq1aasx.png)
+[![highlight chart](img/9605c6e9321a01240fc181be07d12265.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OchFhEpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2bpy4m9adl4ageq1aasx.png)
 
 如果你想在选中的条目上显示一些视图，你可以利用`onValueSelected`方法中的`Highlight`对象，通过获取`xPx`和`yPx`属性并将其设置为视图来获得条目在屏幕上的坐标。
 
@@ -77,7 +77,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 不幸的是，这并不能完成任务。正如您在下面看到的，图表和左侧父视图之间仍有空间。
 
-[![default viewport](../Images/96fffea07262fcd7e3d55c2f210722a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X5R_ruM7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oaytthx66dckdbssy0uo.png)
+[![default viewport](img/96fffea07262fcd7e3d55c2f210722a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X5R_ruM7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oaytthx66dckdbssy0uo.png)
 
 如何禁用图表填充？该库为我们提供了一种简单的方法来修改图表的`Viewport`。在这种情况下，调用图表对象上的方法`setViewPortOffsets(0f,0f,0f,0f)`。它将图表的偏移量(填充)设置为 0。请记住，在数据设置好之后，所有的视口修改都必须被调用**。**
 
@@ -89,7 +89,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 为什么？在一次对图表视窗的短暂探索中，我遇到了一个问题。偏移似乎被独立地重新计算，除了图表本身之外，其他所有视图都不知道这个变化。这可能会导致一些渲染问题，例如:
 
-[![viewport issue](../Images/426df1dfcbb7bde72dd1fc413a253ced.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qEJM-MfL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bl4rmiubky1afc8mgcfy.png)
+[![viewport issue](img/426df1dfcbb7bde72dd1fc413a253ced.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qEJM-MfL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bl4rmiubky1afc8mgcfy.png)
 
 显示的值是所提到的“其他视图”,它不知道偏移的变化，所以边缘值被剪切。请记住这一点修改视口！更多的视口修改，请查看项目的 [wiki 页面](https://github.com/PhilJay/MPAndroidChart/wiki/Modifying-the-Viewport)。
 
@@ -141,7 +141,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 感谢图标显示在指定条目上:
 
-[![icons over values](../Images/ac2ffb7321f2ce8d72f6b8aba6bbdbaf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LNYIYE9Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8fye3hexlqjvkwpp0g0l.png)
+[![icons over values](img/ac2ffb7321f2ce8d72f6b8aba6bbdbaf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LNYIYE9Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8fye3hexlqjvkwpp0g0l.png)
 
 最初发布于 [brightinventions.pl](https://brightinventions.pl/blog/)
 

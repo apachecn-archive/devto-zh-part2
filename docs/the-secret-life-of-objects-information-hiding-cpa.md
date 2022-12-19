@@ -144,18 +144,18 @@ Enter fullscreen mode Exit fullscreen mode
 
 简单回顾一下，我在帖子[中定义了依赖](http://rcardin.github.io/programming/oop/software-engineering/2017/04/10/dependency-dot.html)类`A`和`B`之间的依赖程度为
 
-[![Dependency degree formula](../Images/0fe82b9511dd0f430da637cc97248968.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_CFFANvO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/DzVYo20.png)
+[![Dependency degree formula](img/0fe82b9511dd0f430da637cc97248968.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_CFFANvO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/DzVYo20.png)
 
-[![Shared SLOC](../Images/69dfc98069220bd11ad72cff97b48d0c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dpWvsTYS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/SIxpCGv.png) 是
-类型`A`和`B`之间共享的代码数量(即 SLOC)。 [![Total shared SLOC](../Images/9ba879db244c18db60b9598ccf9bbd3c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BHbJnOaI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/XECvieP.png) 是
-`B`类的代码总数(即 SLOC)。最后， [![Epsilon from A to B](../Images/4bf318b1f1ba00ae5694668d7a39cc26.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AQnNvKX3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/p9sxE9R.png) 是介于 0 和 1 之间的因子，`A`和`B`之间的
+[![Shared SLOC](img/69dfc98069220bd11ad72cff97b48d0c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dpWvsTYS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/SIxpCGv.png) 是
+类型`A`和`B`之间共享的代码数量(即 SLOC)。 [![Total shared SLOC](img/9ba879db244c18db60b9598ccf9bbd3c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BHbJnOaI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/XECvieP.png) 是
+`B`类的代码总数(即 SLOC)。最后， [![Epsilon from A to B](img/4bf318b1f1ba00ae5694668d7a39cc26.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AQnNvKX3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/p9sxE9R.png) 是介于 0 和 1 之间的因子，`A`和`B`之间的
 范围越大，因子越大。
 
 如果`Height`和`Lenght`都被定义为专用类型，那么需要使用矩形的客户端`C`就必须同时使用这两种类型。此外，为了放置方法`area`和`scale`，仍然需要`Rectangle`类型。使用这种配置，`Rectangle`、`Height`和`Length`被称为*紧耦合*，因为它们总是一起使用。
 
 使用上面的定义，类`C`的依赖程度将会非常高。同样，由于在方法`area`和`scale`中引用了`Height`和`Lenght`，类`Rectangle`的依赖程度也会很高。
 
-很可能，许多类配置可以降低上述示例的依赖程度。然而， [![Total dep. degree](../Images/f0c1692c1e7ab6a62eb3b3668b1a8993.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5QFw1Luy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/RwDrT70.png) 值的最小化可以通过我们在上一段给出的解决方案来达到。
+很可能，许多类配置可以降低上述示例的依赖程度。然而， [![Total dep. degree](img/f0c1692c1e7ab6a62eb3b3668b1a8993.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5QFw1Luy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/RwDrT70.png) 值的最小化可以通过我们在上一段给出的解决方案来达到。
 
 因此，在某种程度上，我们开始追踪一种新的设计架构的方式，以某种方式减少设计的艺术，找到一种架构，使依赖程度的数学函数最小化。很好。
 

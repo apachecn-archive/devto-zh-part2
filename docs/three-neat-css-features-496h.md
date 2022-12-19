@@ -11,7 +11,7 @@
 [https://codepen.io/mornir0/embed/BOMQNz?height=600&default-tab=result&embed-version=2](https://codepen.io/mornir0/embed/BOMQNz?height=600&default-tab=result&embed-version=2)
 
 ⚠对`caret-color`属性的支持并没有那么大:
-[![caret-color support](../Images/77e02d5bd977ea7c045a387e6730a5b5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--INkAdIhz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/28slcokwufurqu4va68o.PNG)
+[![caret-color support](img/77e02d5bd977ea7c045a387e6730a5b5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--INkAdIhz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/28slcokwufurqu4va68o.PNG)
 
 # 2。第 n 个孩子(奇数)&第 n 个孩子(偶数)
 

@@ -6,7 +6,7 @@ flickr 用户的封面照片护理 [souravsarkar2013](https://www.flickr.com/pho
 
 去年 10 月，我在 TypeScript 上写了一篇介绍性的文章。
 
-[![nickytonline](../Images/6883bc3afaaae319b5553cb8ecf6b599.png)](/nickytonline) [## 考虑使用 TypeScript
+[![nickytonline](img/6883bc3afaaae319b5553cb8ecf6b599.png)](/nickytonline) [## 考虑使用 TypeScript
 
 ### 尼克·泰勒(他/他)10 月 8 日 175 分钟阅读
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/franken/how-to-show-subcategories-images-in-prestashops-top-menu-4d5n>
 
-[![](../Images/4bffb901332dccccb8af1222c727a73d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BEiW47FM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.prestasoo.com/images/stories/add-image-to-prestashop.root.gif)
+[![](img/4bffb901332dccccb8af1222c727a73d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BEiW47FM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.prestasoo.cimg/stories/add-image-to-prestashop.root.gif)
 
 几个月前，我写了一篇文章分享如何在 Prestashop 菜单上显示类别图片。
 

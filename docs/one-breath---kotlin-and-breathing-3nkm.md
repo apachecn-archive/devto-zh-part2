@@ -6,7 +6,7 @@
 
 作为副作用，我也一直在注意呼吸。随着我越来越意识到这一点，我意识到我一直在错误地呼吸。我甚至不知道这是可能的！
 
-[![](../Images/5e1bcc169476ee9ff117f3d6858a7fd4.png)T2】](https://i.giphy.com/media/aa9VQ6gg5wCBy/source.gif)
+[![](img/5e1bcc169476ee9ff117f3d6858a7fd4.png)T2】](https://i.giphy.com/media/aa9VQ6gg5wCBy/source.gif)
 
 我更深入地研究了这个话题，发现压力和焦虑等多种因素扰乱了我们的自然呼吸方式。
 
@@ -31,7 +31,7 @@
 
 一旦你设置好了你的设置，只需点击中间的点，会话就会开始。
 
-[![Screenshot_20180212-001442.png](../Images/8792c883f19395eed36f7b04a95a8c1a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---CvfxS-G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://isscroberto.files.wordpress.com/2018/03/screenshot_20180212-001442.png%3Fw%3D1000)
+[![Screenshot_20180212-001442.png](img/8792c883f19395eed36f7b04a95a8c1a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---CvfxS-G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://isscroberto.files.wordpress.com/2018/03/screenshot_20180212-001442.png%3Fw%3D1000)
 
 就这些了，请看一下🙂留下我可以如何改进它的评论，并在 Play Store 评级将是真棒。
 

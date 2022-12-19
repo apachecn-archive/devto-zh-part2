@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/tigren5/magento-225-150-bug-fixes--enhancements-270618-3fkm>
 
-[![magento 2.2.5](../Images/c0f6eb5044748d322ecf2803c58f7f78.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gSDrubDm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.tigren.com/wp-content/uploads/2018/06/magento-2.2.5-1024x576.png)
+[![magento 2.2.5](img/c0f6eb5044748d322ecf2803c58f7f78.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gSDrubDm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.tigren.com/wp-content/uploads/2018/06/magento-2.2.5-1024x576.png)
 
 ## [Magento 2.2.5](https://www.tigren.com/magento-2-2-5/) 的重要更新
 

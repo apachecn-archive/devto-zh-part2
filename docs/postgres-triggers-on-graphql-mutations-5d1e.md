@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/hasurahq/postgres-triggers-on-graphql-mutations-5d1e>
 
-<figure>[![](../Images/d4a8847d599d720e58919d12ef5ec1ec.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UKxORtQV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/postgres-triggers-on-graphql-mutations-682bf48db023/1-BPEyAMkUQVEY5FnvmAPBRw.jpeg) 
+<figure>[![](img/d4a8847d599d720e58919d12ef5ec1ec.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UKxORtQV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/postgres-triggers-on-graphql-mutations-682bf48db023/1-BPEyAMkUQVEY5FnvmAPBRw.jpeg) 
 
 <figcaption>Postgres 在动作中触发 GraphQL 突变</figcaption>
 

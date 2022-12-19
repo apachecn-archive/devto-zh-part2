@@ -6,7 +6,7 @@
 
 所以我写了这个小函数，用两个矩形对象来看它们是否相交。
 
-[![](../Images/ea356e7a8efa62fb806a5dc700c69589.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KtbFFjRL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uf9pmnczuwh6pamgjwop.png)
+[![](img/ea356e7a8efa62fb806a5dc700c69589.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KtbFFjRL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uf9pmnczuwh6pamgjwop.png)
 
 但是如果你只有一个你想放置标记的位置的坐标，你怎么得到一个矩形的物体呢？幸运的是，谷歌地图已经有了一个实用功能，可以将地图上的纬度/经度转换成一个点目标。
 
@@ -18,7 +18,7 @@
 
 因为这可能很繁重(遍历每个对象并对照列表中的所有其他对象进行检查)，所以我决定在 RxJava observable 中运行它。
 
-[![](../Images/d464923fafc596811d5212c3fce06b82.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2xFMlNtQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z6w3izorywxbdzppcq0d.png)
+[![](img/d464923fafc596811d5212c3fce06b82.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2xFMlNtQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z6w3izorywxbdzppcq0d.png)
 
 似乎是合法的，对吧？
 
@@ -40,7 +40,7 @@
 
 然后我去过滤掉我现在应该画的标记。我保存了这些位置和它们在屏幕上的位置之间的映射
 
-[![](../Images/152dc69a1df9484f6e4be6ce75817b4d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---3JMZqDz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ktflh1zb3nsl26qo3kjf.png)
+[![](img/152dc69a1df9484f6e4be6ce75817b4d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---3JMZqDz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ktflh1zb3nsl26qo3kjf.png)
 
 维奥拉。
 

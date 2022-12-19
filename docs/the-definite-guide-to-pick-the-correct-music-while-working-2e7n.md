@@ -36,7 +36,7 @@
 
 如果你是一个前端开发人员，这将是一个登录和注册表单，从零开始。或者如果你是蝙蝠侠，去驾驶蝙蝠战车。
 
-[![](../Images/ed2cd42998660d6011af2f3fa9baf0e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bzcsjgaI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/1%2A5jsQp6aiNqmIsYUKp8dryA.jpeg)
+[![](img/ed2cd42998660d6011af2f3fa9baf0e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bzcsjgaI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/1%2A5jsQp6aiNqmIsYUKp8dryA.jpeg)
 
 在这种情况下，我会选择器乐，可能是我最喜欢的流派(可能是强力金属)。为什么是器乐而不是我最喜欢的乐队，我听到你问，我的好读者？
 
@@ -65,7 +65,7 @@ Lo-fi 音乐(怎么样 [freecodecamp 电台](https://www.youtube.com/watch?v=PQ2
 
 在这里事情更容易。
 
-[![](../Images/7decd648d33da42c33c4707b8b514498.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QWULNEPs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/620/1%2AVgABfciihO4PQJg5OptmAA.jpeg)
+[![](img/7decd648d33da42c33c4707b8b514498.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QWULNEPs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/620/1%2AVgABfciihO4PQJg5OptmAA.jpeg)
 
 首先，我想坚持让你远离伽玛双耳拍。你已经有动力了，你的大脑中有大量的β/γ活动，所以在正常情况下，没有必要再去强迫它了。
 

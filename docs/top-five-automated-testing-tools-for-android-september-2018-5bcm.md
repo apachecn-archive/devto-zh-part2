@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bugfenderapp/top-five-automated-testing-tools-for-android-september-2018-5bcm>
 
-[![](../Images/c033feab3082c169f389b9a5dff2eb83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6hvUkds6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/09/automated-testing-tools-featured.jpg)
+[![](img/c033feab3082c169f389b9a5dff2eb83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6hvUkds6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/09/automated-testing-tools-featured.jpg)
 
 *这篇文章最初发表在我们的[博客](https://bugfender.com/blog/best-automated-testing-tools-android/)T3 上。*
 
@@ -16,7 +16,7 @@
 
 简单提醒一下:这个列表的目标是 **Android 应用程序自动化测试工具**。我们将在不久的将来为 iOS 编制一份最佳选项列表，因此 iPhone 专家们应该保持关注！
 
-[![](../Images/07bbe0c8c17b763f9d381993ed804a13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h7NLk17r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/09/automated-testing-tools-appium.jpg)
+[![](img/07bbe0c8c17b763f9d381993ed804a13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h7NLk17r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/09/automated-testing-tools-appium.jpg)
 
 ## 1) [Appium](http://appium.io/)
 
@@ -44,7 +44,7 @@ Appium 工具是世界各地应用测试人员的长期最爱，它完全免费�
 
 不过总的来说，我们认为 Appium 移动测试在所有关键标准上都表现强劲，其优势适用于广泛的需求。
 
-[![](../Images/09996934faddfc02b2e87f9fdb60c507.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--32ZWBJ0h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/09/automated-testing-tools-robotium.jpg)
+[![](img/09996934faddfc02b2e87f9fdb60c507.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--32ZWBJ0h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/09/automated-testing-tools-robotium.jpg)
 
 ## 2) [机器人](https://github.com/RobotiumTech/robotium)
 
@@ -72,7 +72,7 @@ Robotium android 自动化测试可以在几个不同的设备上同时进行，
 
 然而，老实说，这是一个非常非常好的选择，会成为许多人的 android 应用程序开发工具列表的首位。考虑到价格(嗯，没有价格)，这对于囊中羞涩的小型开发团队来说是一笔大买卖。
 
-[![](../Images/7bf63c2363d96835f8e58b6ba3fac3c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2841Z2jo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/09/automated-testing-tools-kobiton.jpg)
+[![](img/7bf63c2363d96835f8e58b6ba3fac3c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2841Z2jo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/09/automated-testing-tools-kobiton.jpg)
 
 ## 3) [科比顿](https://kobiton.com/)
 
@@ -100,7 +100,7 @@ Robotium android 自动化测试可以在几个不同的设备上同时进行，
 
 不过，这些都只是次要的诡辩。作为喜欢对新软件更新极客化的早期采用者，我们是超级粉丝。
 
-[![](../Images/15db4dd672699ea74cea9beac29b7003.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6i0Jz3s1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/09/automated-testing-tools-ranorex.jpg)
+[![](img/15db4dd672699ea74cea9beac29b7003.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6i0Jz3s1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/09/automated-testing-tools-ranorex.jpg)
 
 ## 4) [Ranorex](https://www.ranorex.com/)
 
@@ -128,7 +128,7 @@ Ranorex 提供全面的跨设备测试，因此您可以尝试网站和桌面应
 
 总的来说，与竞争对手相比，它有一些局限性，但如果你是一个没有多少专业测试经验的小团队，Ranorex 是一个极好的选择。
 
-[![](../Images/af0ccaec1df48fe1c7ec202d62a93e47.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2QSHLa23--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/09/automated-tools-calabash.jpg)
+[![](img/af0ccaec1df48fe1c7ec202d62a93e47.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2QSHLa23--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/09/automated-tools-calabash.jpg)
 
 ## 5) [葫芦](https://calaba.sh/)
 
@@ -164,7 +164,7 @@ Ranorex 提供全面的跨设备测试，因此您可以尝试网站和桌面应
 
 还有一件事我们想提一下…
 
-[![](../Images/0be3ebefe87df2bb79f74134a52f1a2b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SQ7cWNzq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/09/automated-testing-tools-bugfender.jpg)
+[![](img/0be3ebefe87df2bb79f74134a52f1a2b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SQ7cWNzq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/09/automated-testing-tools-bugfender.jpg)
 
 ## [挡泥板](https://bugfender.com/)
 

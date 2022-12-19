@@ -16,13 +16,13 @@
 
 这是我第一年学的一些离散数学的例子。这些笔记也经常被重写以使其更加清晰(这是我学习的一部分):
 
-[![Discrete Math](../Images/09f0b980a16c720efd2a3ab20a3cc273.png "Discrete Math")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t4oq9mfY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.evantypanski.com/assets/img/posts/a-look-at-my-notes/discrete.png)
+[![Discrete Math](img/09f0b980a16c720efd2a3ab20a3cc273.png "Discrete Math")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t4oq9mfY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.evantypanski.com/assets/img/posts/a-look-at-my-notes/discrete.png)
 
 我绝对不会声称这些是完美的笔记，但它确实提供了一个很好的参考，并迫使我写下每条法律是什么。我很可能是在我们学过的课后这样做的，但这对于我的笔记来说很常见:拥有每一条信息。
 
 我最近的笔记根据课程的不同而不同。例如，在算法中，图片通常非常有用，但我不打算画一个流程图并扫描到我的笔记中。因此，我只是描述它。然而，关键是，我要确保我学会了内容，然后写出我对讲座的翻译。这和手写笔记时你必须做的事情类似，但我是在打字时自愿做的。以下是结果的一个示例:
 
-[![Algo](../Images/8fd0a529a782740515f7e2701e2c67ae.png "Algorithms")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EW43sLZY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.evantypanski.com/assets/img/posts/a-look-at-my-notes/algo.png)
+[![Algo](img/8fd0a529a782740515f7e2701e2c67ae.png "Algorithms")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EW43sLZY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.evantypanski.com/assets/img/posts/a-look-at-my-notes/algo.png)
 
 这些笔记显然不如我的离散数学笔记有条理——我认为这是成熟的标志。我明白了，我不能把所有的事情都写下来。我可以做一个有定义的表格，还有一个巨大的专业笔记本，本质上也可以是一本教科书。但是，我不会回头看这些笔记那么多，所以我为什么要呢？我可能会确保我现在的直觉与我第一次学习这些概念时的直觉一致，但除此之外，这些笔记很可能只是在我最初写下它们时才有用武之地。我不需要让它变得很棒很漂亮——我需要让它容易做我需要做的事情。
 

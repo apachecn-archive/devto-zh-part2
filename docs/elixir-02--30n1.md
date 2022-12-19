@@ -129,7 +129,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 #### t0-t1-iex 所示的函数的语法
 
-[![elixir_01_001.png](../Images/b3bdf314c6d2c9bbcd4e577bb6f80cfc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yB0pe5wq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3bkykd67u2d69l1inv5w.png)
+[![elixir_01_001.png](img/b3bdf314c6d2c9bbcd4e577bb6f80cfc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yB0pe5wq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3bkykd67u2d69l1inv5w.png)
 
 # 阿童木
 

@@ -4,7 +4,7 @@
 
 * * *
 
-[![](../Images/f9b695827bf68f5a2aa551436141ecf7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pIU53Gmf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A2l82cBZyp1DgwybigOEQzw.png) 看板应用与 Vue 和 Firebase
+[![](img/f9b695827bf68f5a2aa551436141ecf7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pIU53Gmf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A2l82cBZyp1DgwybigOEQzw.png) 看板应用与 Vue 和 Firebase
 
 # 使用 Vue 和 Firebase 创建简单的看板应用程序
 
@@ -36,7 +36,7 @@ $ vue create
 
 您可以为您的应用程序使用任何您想要的名称，我将把我的命名为看板-firebase。当我们第一次创建项目时，我们需要设置一些东西。这是我对应用程序的配置:
 
-[![](../Images/155a31fac42d886c42feda98497a5f1a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_X_m4j5i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AVkyZdpDlv7NUBjhIDdggYg.png) 检视 JS 组态
+[![](img/155a31fac42d886c42feda98497a5f1a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_X_m4j5i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AVkyZdpDlv7NUBjhIDdggYg.png) 检视 JS 组态
 
 创建应用程序可能需要一段时间，完成后它会在您的终端上显示出来。(我这里用的是纱线，不是 npm)
 
@@ -49,7 +49,7 @@ or
 npm install --save firebase
 ```
 
-[![](../Images/8bc32875b5fc2c88d378aac0cbb94f04.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ixbGJGjm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ABAa6pp3q_evb1OlB64O6cw.png) 创建完应用程序
+[![](img/8bc32875b5fc2c88d378aac0cbb94f04.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ixbGJGjm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ABAa6pp3q_evb1OlB64O6cw.png) 创建完应用程序
 
 恭喜你，你已经有了一个 Vue 应用程序
 
@@ -59,7 +59,7 @@ or
 npm run serve
 ```
 
-[![](../Images/2c560116a63c273be828515747e9390a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cyss7xGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AkT0CysdYni2S-4viZIto9w.png) 本地主机上的 view js template:8080
+[![](img/2c560116a63c273be828515747e9390a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cyss7xGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AkT0CysdYni2S-4viZIto9w.png) 本地主机上的 view js template:8080
 
 恭喜你，你已经有了一个 Vue 应用程序
 
@@ -67,13 +67,13 @@ npm run serve
 
 我们需要建立的第二件事是来自 Firebase 的实时数据库。转到[https://console.firebase.google.com/](https://console.firebase.google.com/)并创建一个新项目。
 
-[![](../Images/ce4d413af48168c2aacfa37211126153.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mTIzlXby--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AblxVWCssJRiovqmghHq_uw.png)
+[![](img/ce4d413af48168c2aacfa37211126153.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mTIzlXby--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AblxVWCssJRiovqmghHq_uw.png)
 
 完成应用程序初始化后，进入数据库并选择实时数据库。并在测试模式下选择开始。然后在你的仪表板上点击网络。复制所有内容，并将配置文件放在 src/assets/config.js 中。
 
 ***(别忘了把这个配置放到你的。*git ignore file)**
 
-[![](../Images/3c8bb318df76c45ebe3e7b6c137e3d94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SaPH8p5M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ADNavHNp-e5PNG_0cXmN6gw.jpeg)
+[![](img/3c8bb318df76c45ebe3e7b6c137e3d94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SaPH8p5M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ADNavHNp-e5PNG_0cXmN6gw.jpeg)
 
 恭喜你，你的 Firebase 实时数据库已经运行了。
 
@@ -81,7 +81,7 @@ npm run serve
 
 接下来我们应该做的是构建我们需要的组件列表，这样组件就可以重用了。我将总共制作 3 个组件和 1 个视图组件来展示应用程序。组件将是:内容卡、看板卡和应用程序的主标题，视图组件是 home。
 
-[![](../Images/ab8006d48a2fdc8254816bc6c3c49e8a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3A2-lStF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A1H_5yIrjzQR5K5y2sGRNBw.png) 我的文件结构 [![](../Images/3fb113b78b6eefbb0c7f9efdc4cb1b86.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IuHWRsU9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AzXjYs_fqt0qN_5nR6H6kTA.png) [![](../Images/b059d1868af57972f367a211dc875321.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Vk6rqNWM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AvhQmd0Yj2vkAwu42QVrLtw.png) 左:看板卡，右:内容卡
+[![](img/ab8006d48a2fdc8254816bc6c3c49e8a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3A2-lStF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A1H_5yIrjzQR5K5y2sGRNBw.png) 我的文件结构 [![](img/3fb113b78b6eefbb0c7f9efdc4cb1b86.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IuHWRsU9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AzXjYs_fqt0qN_5nR6H6kTA.png) [![](img/b059d1868af57972f367a211dc875321.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Vk6rqNWM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AvhQmd0Yj2vkAwu42QVrLtw.png) 左:看板卡，右:内容卡
 
 #### **4。从 Firebase 获取数据**
 

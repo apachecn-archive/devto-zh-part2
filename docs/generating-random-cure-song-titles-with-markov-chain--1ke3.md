@@ -32,10 +32,10 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果你不想点击，这里有一些例子:
 
-[![Example Cure Songs](../Images/b0981882ec5c660dde159dbd87a3b339.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tGwN2OKn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/1/cure1.jpg)
-[![Example Cure Songs](../Images/aaaf0077aa7b2ab766a547cc3abc7225.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--n9SZEpJ_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/1/cure2.jpg)
-[![Example Cure Songs](../Images/024227630f4b174e9a190b4556232026.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iPOrfOW0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/1/cure3.jpg)
-[![Example Cure Songs](../Images/2445366189f12c3ecd9732145526d8bc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iS1d6urz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/1/cure4.jpg)
+[![Example Cure Songs](img/b0981882ec5c660dde159dbd87a3b339.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tGwN2OKn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/1/cure1.jpg)
+[![Example Cure Songs](img/aaaf0077aa7b2ab766a547cc3abc7225.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--n9SZEpJ_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/1/cure2.jpg)
+[![Example Cure Songs](img/024227630f4b174e9a190b4556232026.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iPOrfOW0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/1/cure3.jpg)
+[![Example Cure Songs](img/2445366189f12c3ecd9732145526d8bc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iS1d6urz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/1/cure4.jpg)
 
 演示是一个愚蠢的简单的 Vue 应用程序。布局只有几个标签，所以我将跳过它，但这里是 JavaScript。注意我已经删除了大部分的治疗标题，以使它更短:
 

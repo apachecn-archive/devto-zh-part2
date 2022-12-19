@@ -8,7 +8,7 @@
 
 以下是我在过去五六年里一直在做的事情:
 
-[![Source code layout](../Images/29e733f1c32962d88a3b450a74c1787f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RAAWmsVk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tgirvfbdav5pbu13wlzt.jpg)
+[![Source code layout](img/29e733f1c32962d88a3b450a74c1787f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RAAWmsVk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tgirvfbdav5pbu13wlzt.jpg)
 
 我喜欢按照用途而不是语言来组织我的代码。
 

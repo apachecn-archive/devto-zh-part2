@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/scalegrid/calculating-innodb-buffer-pool-size-for-your-mysql-server-28oj>
 
-[![chart](../Images/39c8cea97f77bc03a8c770aaac73ef6e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yCQX-P0C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mongodb.scalegrid.io/hubfs/Calculating-InnoDB-Buffer-Pool-Size-for-your-MySQL-Server-ScaleGrid-TW.jpg)
+[![chart](img/39c8cea97f77bc03a8c770aaac73ef6e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yCQX-P0C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mongodb.scalegrid.io/hubfs/Calculating-InnoDB-Buffer-Pool-Size-for-your-MySQL-Server-ScaleGrid-TW.jpg)
 
 ## 什么是 InnoDB 缓冲池？
 
@@ -53,7 +53,7 @@
 
 ## 不同 RAM 大小的 InnoDB 缓冲池大小图
 
-[![chart](../Images/305279ff9ccf3d5b6a88d56c48a03413.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--shy1MRso--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://scalegrid.io/blog/wp-content/uploads/2018/01/chart.png)
+[![chart](img/305279ff9ccf3d5b6a88d56c48a03413.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--shy1MRso--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://scalegrid.io/blog/wp-content/uploads/2018/01/chart.png)
 
 ## InnoDB 缓冲池大小计算的注意事项
 

@@ -18,7 +18,7 @@
 
 大多数时候，我们打电话给这个人👇🏾在打电话给你之前。*不要难过*
 
-<figure>[![](../Images/7e6971199e8e285fa8acb6a9237bcb89.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2k-saDKd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/775/1%2AyTdreaXaKNbiVM5-lgj-0w.png)
+<figure>[![](img/7e6971199e8e285fa8acb6a9237bcb89.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2k-saDKd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/775/1%2AyTdreaXaKNbiVM5-lgj-0w.png)
 
 <figcaption></figcaption>
 
@@ -48,7 +48,7 @@ Stackoverflow.com 可能是招聘人员在 LinkedIn.com 之后的第二个选择
 3.  你知道吗，栈溢出奖励你访问该网站？
 4.  你可能知道 Stack Overflow 会根据问题和答案的投票来奖励声誉，但你知道吗，有人[已经在 Stack Overflow 上赢得了一百万](https://stackoverflow.blog/2018/01/15/thanks-million-jon-skeet/?utm_source=so-owned&utm_medium=hero&utm_campaign=jon-skeet-milestone)的声誉？全能的[乔恩·斯基特](https://stackoverflow.com/users/22656/jon-skeet)。
 
-<figure>[![](../Images/dc90f60a0792313db7a972cff792bf9c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--54qnz5NY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ABTHBveDyjPhuw7lO.jpg) 
+<figure>[![](img/dc90f60a0792313db7a972cff792bf9c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--54qnz5NY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ABTHBveDyjPhuw7lO.jpg) 
 
 <figcaption>相信我，你还有很多不知道的。Pic 功劳:[现在你知道](http://pictures-and-images.com/content/now-you-know-why.html)</figcaption>
 
@@ -60,7 +60,7 @@ Stackoverflow.com 可能是招聘人员在 LinkedIn.com 之后的第二个选择
 
  *但是你知道吗，一个开发人员仅仅因为在某个类别中拥有一些声誉就得到一份工作。[看到这里](https://hackernoon.com/how-i-used-stack-overflow-github-to-get-dream-job-before-19-without-degree-8cb5184e2bec)
 
-<figure>[![](../Images/bd7a3b53a06d57d00e8c700c70930f1e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8i3sJ_4d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ATqM_lABSoNRuHrTd.jpg) 
+<figure>[![](img/bd7a3b53a06d57d00e8c700c70930f1e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8i3sJ_4d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ATqM_lABSoNRuHrTd.jpg) 
 
 <figcaption>凡事皆有目的。图片来源:[Forbs.com](https://www.forbes.com/sites/rogerdooley/2015/04/13/game-of-thrones-attention/#6100ae846178)</figcaption>
 
@@ -97,7 +97,7 @@ Stackoverflow.com 可能是招聘人员在 LinkedIn.com 之后的第二个选择
 
 它们大约有 90 多个徽章，分为 3 个不同的类别**金质徽章、银质徽章**和**铜质徽章。**大多数徽章只有在获得一定数量的声望后才能获得，有些是等级形式的 ***青铜- >白银- >黄金*** ，而大多数可以多次获得。别再戴徽章了。
 
-<figure>[![](../Images/aaa6d7f143b70d5f02e86d3fd8bd7d5c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fsdeBpyg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ArioKZchdTWV_DZxRTSN5qw.png) 
+<figure>[![](img/aaa6d7f143b70d5f02e86d3fd8bd7d5c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fsdeBpyg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ArioKZchdTWV_DZxRTSN5qw.png) 
 
 <figcaption>声望在最左边，下面是徽章的数量。顺便说一句，这不是我。</figcaption>
 
@@ -105,7 +105,7 @@ Stackoverflow.com 可能是招聘人员在 LinkedIn.com 之后的第二个选择
 
 #### 现在名声在外
 
-<figure>[![](../Images/9fc2505b735d844ebf4990ba14cffd55.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--98L8Wjfr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/0%2A4TGsJF4HM8wgF0hn.jpg) 
+<figure>[![](img/9fc2505b735d844ebf4990ba14cffd55.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--98L8Wjfr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/0%2A4TGsJF4HM8wgF0hn.jpg) 
 
 <figcaption>即使在栈上溢出也是如此。图片来源:[Pinterest.com](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjS_Ozey5fZAhWKIsAKHfwGBxwQjRwIBw&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F327707310377283840%2F&psig=AOvVaw0UBt8vugdG4ENOFz9Otx1Z&ust=1518223045300139)</figcaption>
 
@@ -126,7 +126,7 @@ Stackoverflow.com 可能是招聘人员在 LinkedIn.com 之后的第二个选择
 *   你知道吗，你可以回答你自己的问题。*我们就把这个放在这里吧*
 *   你知道吗，一个用户每天只能在堆栈溢出上获得 200 点积分？我打赌你不知道。另一个巨大的限制。
 
-<figure>[![](../Images/03183e52ce61a97906f5ce95b43f12d7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--v5FzoSil--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/779/1%2A3AghU-D2LTI2X3Aq1KHExw.png) 
+<figure>[![](img/03183e52ce61a97906f5ce95b43f12d7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--v5FzoSil--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/779/1%2A3AghU-D2LTI2X3Aq1KHExw.png) 
 
 <figcaption>一个被接受的答案加上一个投票。</figcaption>
 
@@ -140,7 +140,7 @@ Stackoverflow.com 可能是招聘人员在 LinkedIn.com 之后的第二个选择
 *   你知道吗，投票赞成或投票反对一个评论不会以任何方式影响声誉点？
 *   你知道吗，栈溢出建了 ***僵尸程序*** 来往下投票无关问题或答案。
 
-[![](../Images/b6a8ac8e12b858ed77e29b1d9aca36b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7pQhMxrU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/775/1%2Azwfo1Ds9ah6Lw7eMk1Ervw.png)
+[![](img/b6a8ac8e12b858ed77e29b1d9aca36b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7pQhMxrU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/775/1%2Azwfo1Ds9ah6Lw7eMk1Ervw.png)
 
 #### 如果你还在看这个。
 

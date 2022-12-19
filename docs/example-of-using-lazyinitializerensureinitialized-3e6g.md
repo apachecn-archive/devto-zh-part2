@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/briannipper/example-of-using-lazyinitializerensureinitialized-3e6g>
 
-[![](../Images/29fffa83ea6883a80af56a3282d43bab.png)](https://2.bp.blogspot.com/-I6pWygiwGZ8/W4xk7uMLyaI/AAAAAAAAHKU/n3QXOFMoZtk8ZiLqt59Hwgq8WEnC8TVTgCLcBGAs/s1600/LazyMeme.jpg) 
+[![](img/29fffa83ea6883a80af56a3282d43bab.png)](https://2.bp.blogspot.com/-I6pWygiwGZ8/W4xk7uMLyaI/AAAAAAAAHKU/n3QXOFMoZtk8ZiLqt59Hwgq8WEnC8TVTgCLcBGAs/s1600/LazyMeme.jpg) 
 当想让系统更有效率时，想想懒惰是有帮助的。中的一个有用工具。NET 工具带是系统下的静态类。线程命名空间 LazyInitializer。特别是这个类包含了一个方法[确保初始化](https://docs.microsoft.com/en-us/dotnet/api/system.threading.lazyinitializer.ensureinitialized?view=netframework-4.7.1)
 
 该方法使用起来非常简单，并提供了一种方便的方法来确保基于已经填充的目标属性值只调用一次初始化。

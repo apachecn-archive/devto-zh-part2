@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/donita/understanding-object-oriented-javascript-e47>
 
-[![alt text](../Images/b969e0fe2e1c13d4a7b314d0068bb2d6.png "Logo Title Text 1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--29McsiB2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1513838747056-b69972e5f504%3Fixlib%3Drb-0.3.5%26s%3D0de3be9a0cb031184cb957291c528ad3%26auto%3Dformat%26fit%3Dcrop%26w%3D764%26q%3D80)
+[![alt text](img/b969e0fe2e1c13d4a7b314d0068bb2d6.png "Logo Title Text 1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--29McsiB2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1513838747056-b69972e5f504%3Fixlib%3Drb-0.3.5%26s%3D0de3be9a0cb031184cb957291c528ad3%26auto%3Dformat%26fit%3Dcrop%26w%3D764%26q%3D80)
 
 最近我的任务是创建一个面向对象的街机游戏，乍一看，这是一场斗争。学习 JavaScript 是我争论的焦点。有许多个夜晚，我几乎要发疯了，试图理解基本的核心概念，当我认为我已经想通了一切的时候，面向对象的 JavaScript 挑战来了。
 

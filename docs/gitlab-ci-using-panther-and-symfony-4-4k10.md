@@ -18,8 +18,8 @@
 
 有了这个 docker 映像，我现在可以在 gitlab 上运行 CI 测试了。
 
-[![](../Images/ffd56717939e84e18fd9fadc328b1152.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RLg_BgVU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/khalifa.tn/wp-content/uploads/2018/10/Capture-d%25E2%2580%2599e%25CC%2581cran-2018-10-09-a%25CC%2580-11.04.36-AM.png%3Fw%3D646%26ssl%3D1)
+[![](img/ffd56717939e84e18fd9fadc328b1152.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RLg_BgVU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/khalifa.tn/wp-content/uploads/2018/10/Capture-d%25E2%2580%2599e%25CC%2581cran-2018-10-09-a%25CC%2580-11.04.36-AM.png%3Fw%3D646%26ssl%3D1)
 
-[![](../Images/67128852126c296d58b584b245d1afb5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ApEhpbgG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/khalifa.tn/wp-content/uploads/2018/10/Capture-d%25E2%2580%2599e%25CC%2581cran-2018-10-09-a%25CC%2580-11.05.57-AM.png%3Fw%3D646%26ssl%3D1)
+[![](img/67128852126c296d58b584b245d1afb5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ApEhpbgG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/khalifa.tn/wp-content/uploads/2018/10/Capture-d%25E2%2580%2599e%25CC%2581cran-2018-10-09-a%25CC%2580-11.05.57-AM.png%3Fw%3D646%26ssl%3D1)
 
 使用 Panther 和 Symfony 4 的 Gitlab-CI 帖子首先出现在 [C.Khalifa](https://khalifa.tn) 上。

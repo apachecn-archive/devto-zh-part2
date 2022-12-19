@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/franken/starting-your-own-subscription-business-with-prestashop-54g6>
 
-[![](../Images/231682b0e968627bdb0178e1b9a6795c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SWEPwwCB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.com/images/stories/start-sell-subscriptions-product-prestashop.jpg)
+[![](img/231682b0e968627bdb0178e1b9a6795c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SWEPwwCB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prestasoo.cimg/stories/start-sell-subscriptions-product-prestashop.jpg)
 
 订阅业务并不新鲜，也很普遍，尤其是服务。由于消费者的购买习惯正朝着更简单、更便捷的购物体验发展，越来越多的公司开始涉足订阅领域，并看到了令人难以置信的增长。在你的 Prestashop 网站上使用并不难。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/zygo-tecnologia/retail-hacking-3c6p>
 
-[![](../Images/4305555a1615285f7c95b77f0b71db39.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ga_iF_tk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AqdTX7QhcZr9KoVyPbPDaoA.png)
+[![](img/4305555a1615285f7c95b77f0b71db39.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ga_iF_tk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AqdTX7QhcZr9KoVyPbPDaoA.png)
 
 对于一个开发人员来说，能够从零开始快速构建一个东西有多激动？对于一个设计师来说，在一个功能中思考，在日常工作中又有多少可能呢？
 

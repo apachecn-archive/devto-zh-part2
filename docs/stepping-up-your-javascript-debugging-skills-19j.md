@@ -6,7 +6,7 @@
 
 有些人喜欢它，有些人讨厌它。不管您的视图如何，如果您使用它，您最终将需要调试它。
 
-[![](../Images/0712e7d5393221830de80bdfc16596e2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rDfFTpxr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/640/1%2Ae3eGMlHCBdhS6Sv9rlEJXg.png) 
+[![](img/0712e7d5393221830de80bdfc16596e2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rDfFTpxr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/640/1%2Ae3eGMlHCBdhS6Sv9rlEJXg.png) 
 
 <figcaption>信用点数 reddit</figcaption>
 
@@ -48,7 +48,7 @@
 
 但是，如果我告诉你，你可以更快地发现错误，因为一些…美化？这就是 console.table 方法，如下所示
 
-[![](../Images/d3ced379743c01a424db9046513b0e00.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TAOWhS0z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AUJZlv-PKQY4X72HbEipK_w.png)
+[![](img/d3ced379743c01a424db9046513b0e00.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TAOWhS0z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AUJZlv-PKQY4X72HbEipK_w.png)
 
 <figcaption>
 

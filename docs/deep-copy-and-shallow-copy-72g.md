@@ -42,6 +42,6 @@
 
 *happy coding()；*
 
- [![Dam's DEV Profile](../Images/864c8cf24c0550953b8fad29c1ebfb59.png)
+ [![Dam's DEV Profile](img/864c8cf24c0550953b8fad29c1ebfb59.png)
 
 T6】](https://dev.to/itscoderslife)

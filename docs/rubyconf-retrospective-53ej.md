@@ -2,17 +2,17 @@
 
 > 原文：<https://dev.to/cseeman/rubyconf-retrospective-53ej>
 
-<figure>[![](../Images/26e0fa49e79c9fa75cb5a6dec26af475.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jSxOgFFL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://christine-seeman.com/wp-content/uploads/2018/11/Galleria-768x482.jpg)</figure>
+<figure>[![](img/26e0fa49e79c9fa75cb5a6dec26af475.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jSxOgFFL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://christine-seeman.com/wp-content/uploads/2018/11/Galleria-768x482.jpg)</figure>
 
 我通过了我的第一次技术会议。社交、网络和聚会比我想象的要多得多。这是为期 1000 天的不间断学习，会见了令人难以置信的人，并成为一个可怕的社区的一部分，我甚至不知道 6 个月前存在。伙计，在这么短的时间里能有这么大的变化真是令人惊讶。
 
-<figure>[![](../Images/5969e09a7dfad2fdfd26f2f946269cae.png)](http://christine-seeman.com/wp-content/uploads/2018/11/20181113_093002-1.jpg) 
+<figure>[![](img/5969e09a7dfad2fdfd26f2f946269cae.png)](http://christine-seeman.com/wp-content/uploads/2018/11/20181113_093002-1.jpg) 
 
 <figcaption>队列 2 领导@erniemiller 和我的牛逼向导@ccmeyers324</figcaption>
 
 </figure>
 
-<figure>[![](../Images/13ec275694951d00efb94cbab517d26b.png)](http://christine-seeman.com/wp-content/uploads/2018/11/20181113_080824-2.jpg) 
+<figure>[![](img/13ec275694951d00efb94cbab517d26b.png)](http://christine-seeman.com/wp-content/uploads/2018/11/20181113_080824-2.jpg) 
 
 <figcaption>与@ courthedduchess</figcaption>
 
@@ -20,13 +20,13 @@
 
 一起支持@ haubertdashery
 
-<figure>[![](../Images/25625938edfa59bf917f039e28aab89f.png)](http://christine-seeman.com/wp-content/uploads/2018/11/20181115_164021-2.jpg) 
+<figure>[![](img/25625938edfa59bf917f039e28aab89f.png)](http://christine-seeman.com/wp-content/uploads/2018/11/20181115_164021-2.jpg) 
 
 <figcaption></figcaption>
 
 </figure>
 
-<figure>[![](../Images/732e574b4a187c3fc2311af451a1834f.png)](http://christine-seeman.com/wp-content/uploads/2018/11/20181115_155748-1.jpg) 
+<figure>[![](img/732e574b4a187c3fc2311af451a1834f.png)](http://christine-seeman.com/wp-content/uploads/2018/11/20181115_155748-1.jpg) 
 
 <figcaption>Q & A 与艾凡凤凰和马茨</figcaption>
 
@@ -94,6 +94,6 @@
 
 无论从哪个角度来看，这些都不是全部，但它们是我能够达到的。谢天谢地，一切都录制好了，并将于本月晚些时候在 [Confreaks](https://confreaks.tv/events/rubyconf2018) 上发布，因为我错过了很多我迫不及待想看的会议。我是否达到了所有的会议目标？不，但是我认为我确实学到了很多，对社区有了一些感觉，并且知道了一些我想要继续学习 Ruby 的步骤。参加 [Brandon Weaver](https://twitter.com/keystonelemur) 的 [Reducing Enumerable](https://medium.com/@baweaver/reducing-enumerable-part-one-the-journey-begins-ddc1d4108490) 深入研究 Enumerable 的许多方法，以及在 [Nadia Odunayo](http://www.nadiaodunayo.com/) 的[The Case of Missing Method](https://www.youtube.com/watch?v=nbZk7KqGILU)中学习 ghost 元类，我可以学到更多关于 ruby 数据结构的知识。我不认为有任何演讲特别深入到 Ruby 设计模式，但我确实听到 Matz (Ruby 的创造者)多次谈到 Ruby 未来的发展方向(圣诞节前的 2.6 版本)和他对注释的看法(没有)。
 
-[![](../Images/e486da9dfc8ee476fde0160601c4170d.png)T2】](https://i.giphy.com/media/SiGjBqizFrcXWk5iBb/giphy.gif)
+[![](img/e486da9dfc8ee476fde0160601c4170d.png)T2】](https://i.giphy.com/media/SiGjBqizFrcXWk5iBb/giphy.gif)
 
 我还会去参加会议吗？很快，我很高兴能加入这个社区，并希望通过成为一名演讲者(甚至是神话般的[奖学金项目](https://rubyconf.org/scholarships)的指导)来参与其中。我想给未来 RubyConf 与会者的建议是，带上一个外部电池，调整自己的速度(这是录音的，所以你可以随时查看演讲，但你不一定要在会议结束后亲自和别人交谈)，不要害怕向演讲者介绍自己，并要求拍照，这就是 [#rubyfriends](https://twitter.com/search?q=%23rubyfriends&src=tyah) 的目的！

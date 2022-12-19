@@ -10,4 +10,4 @@ React 本机动画平面列表
 
 非常欢迎反馈和贡献
 
-[![alt text](../Images/1abab254ad14632293cb93eb9d5e0ef7.png "Demo")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hX6DHxgg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/shakogegia/react-native-animated-flatlist/raw/master/screenshots/demo.gif)
+[![alt text](img/1abab254ad14632293cb93eb9d5e0ef7.png "Demo")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hX6DHxgg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/shakogegia/react-native-animated-flatlist/raw/master/screenshots/demo.gif)

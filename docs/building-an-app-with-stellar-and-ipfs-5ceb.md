@@ -6,7 +6,7 @@
 
 因此，我开始想知道，使用一流的区块链来构建一个像 HackerNews 或 Reddit 这样的论坛的去中心化版本会是什么样子。以下是我所设想的工作方式:
 
-[![Overview](../Images/7326c7d7b0db0b07c301b50ce2231c86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7kpt6xHy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jes.al/public/wp-content/uploads/StellarIPFSDiagram.png)
+[![Overview](img/7326c7d7b0db0b07c301b50ce2231c86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7kpt6xHy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jes.al/public/wp-content/uploads/StellarIPFSDiagram.png)
 
 让我们看看我们将如何去实现它。
 
@@ -117,7 +117,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这将打开带有所有预填充字段的 MetaPay 弹出窗口，我们将等待并查看用户是否完成该交易，如果是，我们将进入下一步。
 
-[![Selection_120.png](../Images/3608028fbe0364dd2adf9edbdebdbe98.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PRb0LvM3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jes.al/public/wp-content/uploads/Selection_120.png)
+[![Selection_120.png](img/3608028fbe0364dd2adf9edbdebdbe98.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PRb0LvM3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jes.al/public/wp-content/uploads/Selection_120.png)
 
 **坚持在 IPFS**T2】
 

@@ -18,7 +18,7 @@
 
 我在想，是否有什么方法可以在浏览器中复制这一点，而不依赖于外部库。也许这可以用我们今天的工具来完成，而不需要太依赖 JavaScript 来进行一系列 AJAX 调用。这时我想起了 HTML 导入。我想知道现在进展到什么程度了...
 
-[![HTML Import support](../Images/de78fddf2ac52d305dd46803f3db50a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Td31D_Kh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0gwmfcz3o8sdn9wvqfh8.png)
+[![HTML Import support](img/de78fddf2ac52d305dd46803f3db50a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Td31D_Kh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0gwmfcz3o8sdn9wvqfh8.png)
 
 嗯，[目前还不太好](https://caniuse.com/#search=html%20imports)。Mozilla 已经[发表了他们对支持它的想法](https://hacks.mozilla.org/2015/06/the-state-of-web-components/)。
 

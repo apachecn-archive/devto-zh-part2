@@ -41,7 +41,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 搞定了。
 
-[![Webpack dev server running](../Images/2fc95227493b2571d183cbf9313e8f97.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hWyr2DzF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mxg8ipierav31an755s9.png)
+[![Webpack dev server running](img/2fc95227493b2571d183cbf9313e8f97.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hWyr2DzF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mxg8ipierav31an755s9.png)
 
 ## 问题
 

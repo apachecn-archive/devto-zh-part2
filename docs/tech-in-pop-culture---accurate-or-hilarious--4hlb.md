@@ -8,7 +8,7 @@
 
 <figure>
 
-[![Rami Malek as Elliot in Mr. Robot. Photo: Virginia Sherwood/USA Network](../Images/0de5cd6c75afb0a88a090973a5d1f4a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mkuOJiFm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o1rvpmrzhmdy74memtvf.jpg)
+[![Rami Malek as Elliot in Mr. Robot. Photo: Virginia Sherwood/USA Network](img/0de5cd6c75afb0a88a090973a5d1f4a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mkuOJiFm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o1rvpmrzhmdy74memtvf.jpg)
 
 <figcaption>Rami Malek as Elliot in Mr. Robot. Photo: Virginia Sherwood/USA Network</figcaption>
 

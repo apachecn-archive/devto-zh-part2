@@ -8,7 +8,7 @@
 
 以下是我在工作中的极简 *acme2k* 设置截图。我通常使用 Acme 的默认颜色(黄色/蓝色)。
 
-[![Yep, I made a typo in the first draft. Can you spot it?](../Images/86504c1f36586bab7662e10f7d92ae47.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ta8cqjNB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/662p4p4f8iwq6iytpej6.png)
+[![Yep, I made a typo in the first draft. Can you spot it?](img/86504c1f36586bab7662e10f7d92ae47.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ta8cqjNB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/662p4p4f8iwq6iytpej6.png)
 
 正如你所看到的， *acme* 不是你典型的 IDE:没有巨大的按钮挡住你的路，没有美妙的颜色让你觉得一只独角兽吐到了你的电脑里，没有“智能感知”，没有“语法高亮”(这是[的一件好事](http://www.linusakesson.net/programming/syntaxhighlighting/))，没有编译器、linters 等的明显集成——但事实上，你可以集成任何工具、任何编译器，甚至是 Acme 内部的 shell *。*
 

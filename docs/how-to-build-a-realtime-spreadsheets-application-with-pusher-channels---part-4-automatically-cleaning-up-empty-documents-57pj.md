@@ -6,7 +6,7 @@
 
 在本文中，我们将通过使用 Pusher 自动清理空文档来进一步扩展我们的应用程序功能，这样我们就不会将它们留在用户的历史记录(和我们的数据库)中。
 
-[![](../Images/dd45728306809484c9e319810840e2d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--70wZmThh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_75C08CE87DF85DBF796E5DB651FDC17E0FE378B8D0604878A0DCE11C3EE8A962_1524848789025_building-realtime-spreadsheets-app-laravel-cleaning-up-empty-documents.gif)
+[![](img/dd45728306809484c9e319810840e2d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--70wZmThh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_75C08CE87DF85DBF796E5DB651FDC17E0FE378B8D0604878A0DCE11C3EE8A962_1524848789025_building-realtime-spreadsheets-app-laravel-cleaning-up-empty-documents.gif)
 
 ## 先决条件
 
@@ -155,7 +155,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您应该会看到如下输出:
 
-[![](../Images/286eb6658ba922a08486147674520f15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Te10PB_q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_75C08CE87DF85DBF796E5DB651FDC17E0FE378B8D0604878A0DCE11C3EE8A962_1524843624407_image.png)
+[![](img/286eb6658ba922a08486147674520f15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Te10PB_q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_75C08CE87DF85DBF796E5DB651FDC17E0FE378B8D0604878A0DCE11C3EE8A962_1524843624407_image.png)
 
 复制第二个**转发** URL(使用 HTTPS 的那个)。您的 webhook URL 将会是`<your-ngrok-url>/api/sheets/webhook`(例如，对于上面的截图，我的 webhook URL 是`https://fa74c4e1.ngrok.io/api/sheets/webhook`)。
 

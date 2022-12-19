@@ -12,7 +12,7 @@
 
 # 关于 Storybook
 
-[![](../Images/3311a5fd6a410b2d91807dd61f0685c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ggmZ-sGU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.gyazo.com/4e5bee38519cf776e97452d380d7b305.png)
+[![](img/3311a5fd6a410b2d91807dd61f0685c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ggmZ-sGU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.gyazo.com/4e5bee38519cf776e97452d380d7b305.png)
 
 Storybook 是一种可以动态生成样式指南的工具，不仅支持 React，还支持 Vue 和 Angular。
 
@@ -22,11 +22,11 @@ https://storybook.js.org/examples/サンプルはでみれる。
 
 # 关于原子设计
 
-[![](../Images/69a194ed3383453b04a970d7b2c7c486.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--woA-tEty--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.gyazo.com/1e42493f2e45b243085bf9571b593212.png)
+[![](img/69a194ed3383453b04a970d7b2c7c486.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--woA-tEty--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.gyazo.com/1e42493f2e45b243085bf9571b593212.png)
 
 (这就是全部吧)
 
-[![](../Images/790508f0b5b84e6abef0767aa49c5c49.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MeTT6R7Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.gyazo.com/758f97c15a3e4721f5a4c020125d04e7.jpg)
+[![](img/790508f0b5b84e6abef0767aa49c5c49.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MeTT6R7Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.gyazo.com/758f97c15a3e4721f5a4c020125d04e7.jpg)
 
 (有名的图)
 

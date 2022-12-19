@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/egimba/rediscovering-the-joy-of-linux-2hdl>
 
-[![Masochist shaving yak dreaming of Linux](../Images/565dfae32a1cb6806e0d7a2895053b35.png)T2】](http://egmgem.com/blog/wp-content/uploads/2018/06/DSC_0001.jpg)
+[![Masochist shaving yak dreaming of Linux](img/565dfae32a1cb6806e0d7a2895053b35.png)T2】](http://egmgem.com/blog/wp-content/uploads/2018/06/DSC_0001.jpg)
 
 最近，我在一台麻烦的笔记本电脑上安装了 Ubuntu 18.04 和 Windows 10。最终一切都相对顺利。那是在我艰难地开始备份我在 Windows 上的文件之后。在安装 Ubuntu 之前，我不得不通过 LiveCD 这样做。那花了相当多的时间。硬盘可能有故障，所以必须尽快更换。一旦它启动并运行，就该安装我需要的各种软件应用程序了。
 

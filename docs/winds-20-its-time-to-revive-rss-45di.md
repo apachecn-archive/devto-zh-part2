@@ -2,13 +2,13 @@
 
 > 原文：<https://dev.to/getstream_io/winds-20-its-time-to-revive-rss-45di>
 
-[![](../Images/05900a8623f5975bb6848409423bf405.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kaxOlNO6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/05/winds-announce.png%3Fw%3D1024%26h%3D1024)
+[![](img/05900a8623f5975bb6848409423bf405.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kaxOlNO6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/05/winds-announce.png%3Fw%3D1024%26h%3D1024)
 
 我喜欢用 RSS 来跟踪我关心的节目和科技新闻。不幸的是，在过去的几年里，支持 RSS 的网站数量一直在快速下降。读者生态系统也在慢慢退化。脸书和 Twitter 的统治地位现在给 RSS 的开放标准带来了最后一击。
 
 是时候扭转局势了。 [Stream](https://getstream.io/) 正在发布 [Winds 2.0](https://getstream.io/winds/) ，一款开源播客& RSS 阅读器。你可以在这里下载 Winds [或者前往](https://getstream.io/winds/) [Github](https://github.com/getstream/winds) 获取代码。(此外，Winds 目前在[产品搜索](https://www.producthunt.com/posts/winds-2-0)中处于趋势地位)
 
-[![](../Images/0cb2a68cbbe23026d99ceea26e2dcdb9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G5LPJPpw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/05/image1.png)
+[![](img/0cb2a68cbbe23026d99ceea26e2dcdb9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G5LPJPpw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/05/image1.png)
 
 RSS 的许多高级用户是开发人员、设计人员和记者。我们希望一起打破平衡，战胜 T1。在社区的帮助下，我们可以建立一个完美的、没有 bug 的、足够受欢迎的 RSS 体验，来说服出版物改善他们对开放标准和 RSS 的支持。
 

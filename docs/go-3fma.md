@@ -10,7 +10,7 @@
 
 ## 标志封装
 
-[![Goでコマンドラインオプションを処理する](../Images/dd5740205bc897e3a70eeee6816673e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U6N-EOGd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.web-apps.tech/content/images/2018/02/gopher.png)
+[![Goでコマンドラインオプションを処理する](img/dd5740205bc897e3a70eeee6816673e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U6N-EOGd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.web-apps.tech/conteimg/2018/02/gopher.png)
 
 当您想要创建命令行工具时，无法避免的是如何处理命令行选项。
 

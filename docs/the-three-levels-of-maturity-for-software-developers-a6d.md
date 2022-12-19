@@ -8,7 +8,7 @@
 
 **免责声明** : *本文描述的水平并不意味着取代[梅里尔·佩奇-琼斯描述的软件工程专业知识的七个阶段](http://www.wayland-informatics.com/The%20Seven%20Stages%20of%20Expertise%20in%20Software.htm)；更确切地说，这是从另一个角度看软件开发。*
 
-[![](../Images/3b4077891eebc5b4c58ca10ca1650338.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RmqkxU6C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://agilistandre.com/wp-content/uploads/2018/03/Developer-Maturity-Level-3.png)
+[![](img/3b4077891eebc5b4c58ca10ca1650338.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RmqkxU6C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://agilistandre.com/wp-content/uploads/2018/03/Developer-Maturity-Level-3.png)
 
 ## 1。自由职业者
 
@@ -16,7 +16,7 @@
 
 自由职业者通过写代码来完成他们的工作。
 
-[![](../Images/e608e882e6d950fcd0b5023f70bd42d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nXtzD7MN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://agilistandre.com/wp-content/uploads/2018/02/programming-1873854-300x165.png)
+[![](img/e608e882e6d950fcd0b5023f70bd42d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nXtzD7MN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://agilistandre.com/wp-content/uploads/2018/02/programming-1873854-300x165.png)
 
 ### 你是自由职业者吗？
 
@@ -39,7 +39,7 @@
 
 ## **2。软件工程师**
 
-[![](../Images/2faceef4e0ff29729ceff1eebaadd235.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8JA_bu6X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://agilistandre.com/wp-content/uploads/2018/02/devops-3148408_1920-300x180.jpg)
+[![](img/2faceef4e0ff29729ceff1eebaadd235.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8JA_bu6X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://agilistandre.com/wp-content/uploads/2018/02/devops-3148408_1920-300x180.jpg)
 
 一个更长的项目将不仅包括建设，还包括长期的项目维护。因此，如果已经有一个应用程序可以集成到您的应用程序的业务逻辑中，您可以购买它，以避免维护额外的功能。例如，您不需要为您的电子商务网站编写购物车功能，因为有多家公司专门从事购物车，您只需将您选择的应用程序集成到您的网站中。
 
@@ -77,7 +77,7 @@
 
 ## **3.2。软件内部创业者**
 
-[![](../Images/bd469229ce9812068fd7f63007bb98e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q3V6FhPw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://agilistandre.com/wp-content/uploads/2018/02/woman-690036-1024x576.jpg)
+[![](img/bd469229ce9812068fd7f63007bb98e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q3V6FhPw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://agilistandre.com/wp-content/uploads/2018/02/woman-690036-1024x576.jpg)
 
 对于这种级别的专业人士来说，具有企业家精神是最重要的品质。内部创业者不仅喜欢创造很酷的东西，还会把客户放在心上。他们知道与产品经理或产品所有者保持同步，像软件开发人员和专家一样，不仅要以速度和质量来构建软件，还要关注构建正确的东西。这是有效性和效率的关键区别。当你有效率的时候，你可以把事情做好。但是如果你在建造错误的东西，那有什么好处呢？这就是软件内部创业者的不同之处:他们也是有效的，也就是说，他们构建正确的东西。他们知道自己为客户创造的价值，并能向采购订单提供宝贵的反馈。他们不仅努力精通软件开发，还努力取悦客户。
 

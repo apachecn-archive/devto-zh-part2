@@ -6,7 +6,7 @@
 
 2017 年 12 月，我收到了一份邀请，邀请我回到由在亚特兰大编码的[女性主持的](https://www.womenwhocode.com/atl) [WeRise 技术大会](https://werise.tech/)上发言。我非常兴奋和高兴，因为我去年在 T4 有一次非常积极的经历。我想为这次会议做一个不同风格的演讲，并决定不关注某项技术，而是分享一些基于我的专业开发经验的职业建议。
 
-[![](../Images/0f8c9fea76c5bdba1081bcaa5a1ffd77.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J3CazkAc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AgoU65-ncH-F_GnxYoHIHaw.png)
+[![](img/0f8c9fea76c5bdba1081bcaa5a1ffd77.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J3CazkAc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AgoU65-ncH-F_GnxYoHIHaw.png)
 
 我很感谢 WeRise 的组织者愿意投资录制和出版这些演讲。你可以在这里观看我的演讲:
 
@@ -64,6 +64,6 @@
 
 问候，
 
-[![](../Images/97adde39a566ae152324f60361115585.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u6zXBAsP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/197/1%2AKwXn3ElS7vnWIk8lNVhBsA.gif)
+[![](img/97adde39a566ae152324f60361115585.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u6zXBAsP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/197/1%2AKwXn3ElS7vnWIk8lNVhBsA.gif)
 
 * * *

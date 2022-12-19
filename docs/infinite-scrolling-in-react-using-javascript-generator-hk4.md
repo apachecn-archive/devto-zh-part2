@@ -6,7 +6,7 @@
 
 在阅读下面的文章[ES6 生成器的快速实用用例:构建无限重复数组](https://dev.to/sreisner/a-quick-practical-use-case-for-es6-generators-building-an-infinitely-repeating-array-1onk)时，我碰巧查看了 [Reddit API](https://www.reddit.com/dev/api/) 。
 
-[![sreisner image](../Images/7ae9b650073b2e86ebc16a9c516c2137.png)](/sreisner) [## ES6 生成器的快速实用用例:构建无限重复的数组
+[![sreisner image](img/7ae9b650073b2e86ebc16a9c516c2137.png)](/sreisner) [## ES6 生成器的快速实用用例:构建无限重复的数组
 
 ### Shawn Reisner ・ Jun 6 '18 ・ 3 min read
 

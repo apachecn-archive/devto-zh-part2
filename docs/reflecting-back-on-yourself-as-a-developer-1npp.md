@@ -3,7 +3,7 @@
 > 原文：<https://dev.to/lewismenelaws/reflecting-back-on-yourself-as-a-developer-1npp>
 
 今天访问/r/webdev 发现了这个帖子:
-[![](../Images/07f644e754c9deb93cd6b68674a9fe3b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LReCLOdZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/41vigfw914ppszuqoh25.PNG)
+[![](img/07f644e754c9deb93cd6b68674a9fe3b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LReCLOdZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/41vigfw914ppszuqoh25.PNG)
 
 一个名为 FeelingSafe 的开发者发布了一个花了他 5 个小时完成的项目。它由一堆并排的图标组成，你可以点击它们来快速访问网站。该网站不是最好看的网站，有很多替代网站提供这种解决方案。然而，启发我的并不是 FeelingSafe 的网站。
 
@@ -15,7 +15,7 @@
 
 你怎么能责怪任何初级开发人员有这种想法呢？新技术的出现数量惊人。即使阅读一些文档也会让你迷失在术语中。把这种不知道的感觉和找工作的压力混在一起，你就会不断经历[冒名顶替综合症](https://dev.to/lewismenelaws/the-imposter-syndrome-why-you-feel-like-a-fake-34f3)。
 
-[![](../Images/5361c6f8f4a0d4460206e817594492a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LOaRVA1D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://myfunnymemes.com/wp-content/uploads/2015/04/Getting-a-Job-At-a-Pizza-Factory-Opening-That-Requires-Prior-Experience-Comic-By-Vector-Belly.jpg)
+[![](img/5361c6f8f4a0d4460206e817594492a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LOaRVA1D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://myfunnymemes.com/wp-content/uploads/2015/04/Getting-a-Job-At-a-Pizza-Factory-Opening-That-Requires-Prior-Experience-Comic-By-Vector-Belly.jpg)
 
 ### 以开发者的身份抬头
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/manifold/-ab-testing-with-limited-data-at-astartup-1i7b>
 
-[![A/B testing](../Images/6b37347020260b0814f2064360bb4526.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qKPl8MaE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zx4fhemr7t189ekkx70m.png)
+[![A/B testing](img/6b37347020260b0814f2064360bb4526.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qKPl8MaE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zx4fhemr7t189ekkx70m.png)
 
 最初发布在[歧管](https://blog.manifold.co/a-b-testing-with-limited-data-at-a-startup-6fe1cf46f63d)
 

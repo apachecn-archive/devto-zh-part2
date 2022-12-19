@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nicolasjengler/4-tips-on-how-to-work-remotely-from-a-small-town-and-not-die-trying-3bh3>
 
-[![Image of people working in an open space](../Images/441151c2d391b8fbfdd290157972cfba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IHiMVWqB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tshh7jhfy5ep49fi81j2.jpg)
+[![Image of people working in an open space](img/441151c2d391b8fbfdd290157972cfba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IHiMVWqB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tshh7jhfy5ep49fi81j2.jpg)
 
 ### 原本在[培养基上](https://medium.com/@nicolasjengler/4-tips-on-how-to-work-remotely-from-a-small-town-and-not-die-trying-b5e4ad0a2c72)
 

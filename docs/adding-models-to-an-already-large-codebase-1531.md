@@ -22,7 +22,7 @@ TL；遵循这个顺序:
 
 在你写任何代码之前，你需要计划好你到底要创建什么。您应该花一些时间来弄清楚您将需要什么类型的模型，它将具有什么属性，以及它将如何与您的代码库中的其他模型相关联。
 举例 ERD:
-[![Imgur](../Images/24d2e8efee7925a456b7ad6f4b1be988.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0qa2XfNx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/RVfc1Tk.png) 建造于 [www.draw.io](http://www.draw.io) 
+[![Imgur](img/24d2e8efee7925a456b7ad6f4b1be988.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0qa2XfNx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/RVfc1Tk.png) 建造于 [www.draw.io](http://www.draw.io) 
 打造一个坚固的 ERD 可能是创作过程中最重要的一步，所以慢慢来！俗话说，“量两次，切一次。”
 
 ## 2。创建迁移！

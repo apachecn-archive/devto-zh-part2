@@ -4,11 +4,11 @@
 
 我知道 Dev.to 很久了，甚至我在那里读过一些文章，但我没有在那里注册。直到 8 月 16 日我才被说服加入。
 
-[![.](../Images/8556483bb5b841431d884b28d6ce8775.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wqffOeDw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://palash.tk/assets/images/why-i-joined-dev-to.jpg)
+[![.](img/8556483bb5b841431d884b28d6ce8775.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wqffOeDw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://palash.tk/asseimg/why-i-joined-dev-to.jpg)
 
 8 月 16 日早上，我正在查看 GitHub 趋势项目，在顶部我发现了这个。
 
-[![dev.to](../Images/94820c03782d2c622166ac684c374f2e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ws5D8m-B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://palash.tk/assets/images/devto-is-open.jpg)
+[![dev.to](img/94820c03782d2c622166ac684c374f2e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ws5D8m-B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://palash.tk/asseimg/devto-is-open.jpg)
 
 Dev.to 变成了开源！**开源**对我来说就像一句情话，我立马直奔 dev.to，报名了。
 
@@ -30,7 +30,7 @@ Dev.to 变成了开源！**开源**对我来说就像一句情话，我立马直
 
 你可以看到它在我常用应用的第三个位置。
 
-[![my frequently used apps](../Images/c6755a6c30d8f8aacf4b4f6d41d6e8f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AYRitGfI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://palash.tk/assets/images/freq-app-devto.jpg)
+[![my frequently used apps](img/c6755a6c30d8f8aacf4b4f6d41d6e8f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AYRitGfI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://palash.tk/asseimg/freq-app-devto.jpg)
 
 我前面提到的一件事，Dev.to 开源及其源代码在 GitHub 上有。如果您发现有问题，您可以在那里创建问题。如果你非常想要一个特性，你可以通过一个问题让开发者知道。您也可以为代码库做出贡献，使其变得更好。
 

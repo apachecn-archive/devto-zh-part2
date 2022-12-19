@@ -4,7 +4,7 @@
 
 [反应分页](https://github.com/ChoTotOSS/react-paginating)组件。
 
-[![gif react-paginating demo](../Images/255168ab517217697f3b244751dea262.png "gif react-paginating demo")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H8lobXcY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A_O4M_FFMdoj3VkqZ6EMMAQ.gif)
+[![gif react-paginating demo](img/255168ab517217697f3b244751dea262.png "gif react-paginating demo")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H8lobXcY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A_O4M_FFMdoj3VkqZ6EMMAQ.gif)
 
 有一些流行的组件可以帮助我们解决分页问题，比如 [react-paginate](https://github.com/AdeleD/react-paginate) 、[react-pager](https://github.com/AZaviruha/pager)……现在又有了一个。这叫做[反应——用不同的方法分页](https://github.com/ChoTotOSS/react-paginating)。
 
@@ -60,11 +60,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 页数= 5
 
-[![with pageCount = 5](../Images/8abd1b2a37c554bc96faa4f35b604ee2.png "with pageCount = 5")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pqqntBjb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A_peOMEb0O-zkS1AZ9VoU3w.png)
+[![with pageCount = 5](img/8abd1b2a37c554bc96faa4f35b604ee2.png "with pageCount = 5")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pqqntBjb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A_peOMEb0O-zkS1AZ9VoU3w.png)
 
 页数= 9
 
-[![with pageCount = 9](../Images/d0ec2dfd91795e15616cabbe46a490cb.png "with pageCount = 9")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--idCm8dHh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AJtcj5soI7RwOGH9RK6d2Yg.png)
+[![with pageCount = 9](img/d0ec2dfd91795e15616cabbe46a490cb.png "with pageCount = 9")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--idCm8dHh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AJtcj5soI7RwOGH9RK6d2Yg.png)
 
 **当前页面**
 

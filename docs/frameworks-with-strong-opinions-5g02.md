@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/polyov_dev/frameworks-with-strong-opinions-5g02>
 
-[![some people are strongly opinionated.](../Images/b9e9192f2215623bb5a82666c80f3765.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ARvIutea--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jheb01e4an0wurhqrhxx.jpg)
+[![some people are strongly opinionated.](img/b9e9192f2215623bb5a82666c80f3765.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ARvIutea--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jheb01e4an0wurhqrhxx.jpg)
 
 我学习的第一个框架是 Ruby on Rails。我是在高中学到的，后来，我把学到的所有东西都与 Rails 进行了比较。我经常心烦意乱，郁郁寡欢地离开。其他框架不像 Rails。我不能轻易地让一个项目进行下去。人们是如何处理这个问题的？我搞不清这些模式。
 

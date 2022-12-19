@@ -4,7 +4,7 @@
 
 最近，我编写了一个简单的 Slack bot，它查询 API 以获得对我们产品的反馈，然后将反馈发布到指定的频道。该机器人还允许用户投票决定一条反馈是否对他们可行(即:“这一课有一个打字错误”与“好”或“无可奉告”)。
 
-[![Screenshot of slack message - "The links don't work FYI"](../Images/9057ddbd4d2841eeb3e5f1d859931533.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xLfqhl53--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jl4qndzugyl136mswm1c.png)
+[![Screenshot of slack message - "The links don't work FYI"](img/9057ddbd4d2841eeb3e5f1d859931533.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xLfqhl53--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jl4qndzugyl136mswm1c.png)
 
 由于这是一个“黑客日”项目，最初的实现名副其实，非常黑客——投票不被服务器存储；用户可以随心所欲地投票。投票是通过修改 POST `/handle-vote`请求中的字符串来处理的(Slack 作为持久层😂).
 

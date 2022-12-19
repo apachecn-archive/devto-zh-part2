@@ -2,13 +2,13 @@
 
 > 原文：<https://dev.to/bnevilleoneill/modern-component-reusability-render-props-in-react--scoped-slots-in-vue-3651>
 
-[![](../Images/9a20685c85d07e98e8e33cec304e41f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bmfW-A28--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AwOPY1wHGN0wc6EESA9Nw7g.jpeg)
+[![](img/9a20685c85d07e98e8e33cec304e41f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bmfW-A28--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AwOPY1wHGN0wc6EESA9Nw7g.jpeg)
 
 所有前端开发人员面临的一个问题是如何使 UI 组件可重用。我们如何以这样一种方式来制作组件，以满足我们现在清楚的狭窄用例，同时还使它们足够可重用以在各种环境中工作？
 
 假设我们正在构建一个自动完成组件:
 
-[![](../Images/6d1616b9b5d095a08ec6ba93eb23c2b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xdDUbKQJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Av3_4oPZRiulzwLVmCcD2Xg.png)
+[![](img/6d1616b9b5d095a08ec6ba93eb23c2b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xdDUbKQJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Av3_4oPZRiulzwLVmCcD2Xg.png)
 
 看看最初的 React 组件代码:
 
@@ -20,13 +20,13 @@
 
 假设您想要一个类似标签的搜索结果列表，而不是包含搜索结果的下拉列表，该列表总是显示:
 
-[![](../Images/819996df1810e365c326c0bf7f204633.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tyWWPjHu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AXaTfw2O0izYAKGancHTItg.png)
+[![](img/819996df1810e365c326c0bf7f204633.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tyWWPjHu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AXaTfw2O0izYAKGancHTItg.png)
 
 这两个组件的核心功能非常相似:在输入中输入内容来过滤列表。
 
 对于现代 JavaScript 框架现在提供的一些相对较新的工具来说，这是一个完美的用例。这些是 React 中的*渲染道具*和 Vue 中的*作用域插槽*。它们的工作方式非常相似，并且提供了一种将组件的**行为**与其**表现**分离的方法。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### 渲染道具在反应过来
 
@@ -114,7 +114,7 @@
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

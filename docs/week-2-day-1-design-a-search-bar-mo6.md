@@ -12,11 +12,11 @@
 
 下面是我的搜索组件的外观，包括组件的一些状态:
 
-[![A search bar component, with input text and a results dropdown with a possible search term highlighted](../Images/86d7d7c9b967f321d847a6d7f546858d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gxxWarfb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui-assets/master/search-bar/design.png)
+[![A search bar component, with input text and a results dropdown with a possible search term highlighted](img/86d7d7c9b967f321d847a6d7f546858d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gxxWarfb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui-assets/master/search-bar/design.png)
 
 这是组件各部分的不同状态:
 
-[![A column of search bar components, with different states visible in respective search components](../Images/007f6b3b8769c4ae8f108e972379fd1a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BO76xn-K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui-assets/master/search-bar/design-allstates.png)
+[![A column of search bar components, with different states visible in respective search components](img/007f6b3b8769c4ae8f108e972379fd1a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BO76xn-K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui-assets/master/search-bar/design-allstates.png)
 
 ## 现在轮到你了
 

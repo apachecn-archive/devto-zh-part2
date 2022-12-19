@@ -6,7 +6,7 @@
 
 我在日本参加过的一个大型活动是“科技图书节”技術書典).如果你听说过日本的漫画市场，你会发现它很相似，但目标仅限于技术。
 
-[![TechBookFest4](../Images/241862d33d182c49587832aa3401919f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9qvI_9UV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://techbookfest.org/assets/tbf04/images/top.jpg)
+[![TechBookFest4](img/241862d33d182c49587832aa3401919f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9qvI_9UV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://techbookfest.org/assets/tbfimg/top.jpg)
 
 这是在东京秋叶举行的为期一天的节日，所有的极客都聚集在这里。参观者大多是工程师。上一次是在 10 月，不幸的是在台风天，然而有超过 3000 人。下一次是在 4 月 22 日(明天，在我写这篇文章的时候)。
 
@@ -28,7 +28,7 @@
 
 例如，在第二届 fest 上，我们出版了两本关于 Xamarin 的书(我试图将所有内容组织成一本书，但作者太热情了，写了很多页，所以我不得不将它们分开)。
 
-[![Essential Xamarin](../Images/2a2d028c0bbc081db4043bfd4a724f0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uIF75kEa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-ak.f.st-hatena.com/images/fotolife/a/atsushieno/20170330/20170330191800.png)
+[![Essential Xamarin](img/2a2d028c0bbc081db4043bfd4a724f0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uIF75kEa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-ak.f.st-hatena.cimg/fotolife/a/atsushieno/20170330/20170330191800.png)
 
 我为此做了[一个极简的推广页面](https://atsushieno.github.io/xamaritans/tbf2.html)(是用 199Xs 标记技术写的)，但是没关系。大部分促销活动是由合作作者完成的，每本书的 100 本在 2.5 小时内全部售罄。
 
@@ -58,7 +58,7 @@ TechBooster 采用了一种有趣的方法来写书。当我们创作它们时�
 
 在编辑器方面，我们也有编辑器插件支持 Re:VIEW。Atom 是第一个支持的，我也把它带到了 VSCode。它支持预览，类似拼写检查的编辑助手，以及跳转到章节。
 
-[![vscode-language-review](../Images/71059366220257dbcef562e89168b052.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--44J-U6-b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/atsushieno/vscode-language-review/master/docs/images/sshot-preview.png)
+[![vscode-language-review](img/71059366220257dbcef562e89168b052.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--44J-U6-b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/atsushieno/vscode-language-review/master/doimg/sshot-preview.png)
 
 用这种简单的标记语言编写的草稿在 Github 上很容易管理——很容易获得差异、注释、创建拉式请求、集成 CI 构建(对于书籍！)等等。这是非常现代的方式。这是可能的，因为小组中几乎所有人都是软件工程师，知道如何 git(我们经常也有设计师)。
 
@@ -70,11 +70,11 @@ TechBooster 采用了一种有趣的方法来写书。当我们创作它们时�
 
 我通常让我的朋友画家画一些我指示的东西(我付钱)，但这次(为即将到来的节日)我不得不自己做，而且做得很糟糕。
 
-[![mythbusters](../Images/6a75b1598f76d057560fa63857c3de9a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--krlsVPlC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-ak.f.st-hatena.com/images/fotolife/a/atsushieno/20180419/20180419085023.png)
+[![mythbusters](img/6a75b1598f76d057560fa63857c3de9a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--krlsVPlC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-ak.f.st-hatena.cimg/fotolife/a/atsushieno/20180419/20180419085023.png)
 
 有许多小型印刷公司为独立书籍提供支持(同人誌日文版)，可以通过发送书体 PDF 和封面 PSD 进行打印，如下所示:
 
-[![cover page on the printing templates](../Images/826c96fd75b80a239225f51f185b0bb0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tcgHcbcZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-ak.f.st-hatena.com/images/fotolife/a/atsushieno/20180419/20180419082929.png)
+[![cover page on the printing templates](img/826c96fd75b80a239225f51f185b0bb0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tcgHcbcZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-ak.f.st-hatena.cimg/fotolife/a/atsushieno/20180419/20180419082929.png)
 
 那些小公司已经习惯了这种书，因为漫画市场有巨大的印刷需求。还有类似的特定于领域的事件(我们通常称之为“[xyz-]only event”，它只处理[XYZ]-的东西)，我们 TechBookFest 就是其中之一。
 

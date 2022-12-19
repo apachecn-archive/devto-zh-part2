@@ -26,23 +26,23 @@ Redux 是一个帮助你管理应用状态的库。在本文中，揭开 redux �
 
 我们将从一个 index.html 文件开始，该文件将显示我们拥有的球员人数和一个添加新球员的按钮输入。
 
-[![redux](../Images/fd753e9e702ab08528e4007f2c650c34.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-22-at-12.31.58.png)
+[![redux](img/fd753e9e702ab08528e4007f2c650c34.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-22-at-12.31.58.png)
 
 我们将创建一个玩家界面，并用它来区分不同类型的玩家。对于本文，我们将不使用类和构造器，只使用类型化的平面对象。
 
 *src/models/Player/entity . ts*
 
-[![](../Images/64e9989a2719a0e1133c53edb8029cbd.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.06.07.png)
+[![](img/64e9989a2719a0e1133c53edb8029cbd.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.06.07.png)
 
 为了揭开 redux 示例的神秘面纱，我们将创建一个 app.ts 文件，其中包含“add player”按钮的选项/选择器和另一个输入选择器。接下来，我们将向按钮注册一个事件，这样，当它被单击时，通过一个小的验证，它通过控制台向我们打印一个 player 对象并重置输入。
 
 *src/app.ts*
 
-[![](../Images/94cad6697fc76b262fdbf2ab7e3f14e9.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.08.36.png)
+[![](img/94cad6697fc76b262fdbf2ab7e3f14e9.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.08.36.png)
 
 配置和创建了所有这些之后，我们就可以开始项目了，安装依赖项并在控制台中执行 start 命令。
 
-[![](../Images/18c67518cafb26f061b6f4ae90d0ece3.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.09.43.png)
+[![](img/18c67518cafb26f061b6f4ae90d0ece3.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.09.43.png)
 
 现在，我们应该可以打开浏览器，转到 apiumhub.com: 3000，您将能够看到我们的 html 并单击按钮，通过浏览器控制台查看我们的球员状态。
 
@@ -56,11 +56,11 @@ Redux 是一个帮助你管理应用状态的库。在本文中，揭开 redux �
 
 *src/store/store.ts*
 
-*[![](../Images/33e42d5fd43857526eb6a4f0004538cd.png)](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.12.32.png)T4】*
+*[![](img/33e42d5fd43857526eb6a4f0004538cd.png)](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.12.32.png)T4】*
 
 *src/models/store.ts*
 
-[![](../Images/b130118b7b2a67cde84643ebd9ebf207.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.13.25.png)
+[![](img/b130118b7b2a67cde84643ebd9ebf207.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.13.25.png)
 
 正如我们所看到的，这是一个类，它基本上包含了一个存储的订阅者数组，它将管理我们的 Reducers 列表，还将有一个 status，它只不过是一个平面对象。
 
@@ -74,7 +74,7 @@ Redux 是一个帮助你管理应用状态的库。在本文中，揭开 redux �
 
 *src/app.ts*
 
-[![](../Images/103c69a6af67c32f9b0acb7ab1ce20e4.png)](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.14.55.png) 
+[![](img/103c69a6af67c32f9b0acb7ab1ce20e4.png)](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.14.55.png) 
 
 如果我们刷新浏览器，应该会看到我们通过控制台定义的初始状态。
 
@@ -84,11 +84,11 @@ Redux 是一个帮助你管理应用状态的库。在本文中，揭开 redux �
 
 *src/models/store.ts*
 
-*[![](../Images/870174e454cd15549e236b95bdebdb0c.png)](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.16.29.png)T4】*
+*[![](img/870174e454cd15549e236b95bdebdb0c.png)](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.16.29.png)T4】*
 
 *src/store/store.ts*
 
-[![](../Images/15f2f4df8cb67a91900a4c11ce551c42.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.17.09.png)
+[![](img/15f2f4df8cb67a91900a4c11ce551c42.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.17.09.png)
 
 目前，我们将对玩家的分派方法进行状态更改，因为 reducer 将负责稍后开发的过程。
 
@@ -98,7 +98,7 @@ Redux 是一个帮助你管理应用状态的库。在本文中，揭开 redux �
 
 *src/app.ts*
 
-[![](../Images/98b8ffde16906bfd8beb54ad301532da.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.18.36.png)
+[![](img/98b8ffde16906bfd8beb54ad301532da.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.18.36.png)
 
 现在，我们应该在控制台中验证当我们添加新玩家时状态是否被正确修改。
 
@@ -108,9 +108,9 @@ Redux 是一个帮助你管理应用状态的库。在本文中，揭开 redux �
 
 *src/store/reducers.ts*
 
-*[![](../Images/d2400a9d7e5d941399a3f8ab977e4c98.png)](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.19.54.png)src/模型/玩家/状态. ts*
+*[![](img/d2400a9d7e5d941399a3f8ab977e4c98.png)](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.19.54.png)src/模型/玩家/状态. ts*
 
-[![](../Images/bff9465af2a50277eb41e1b58036d35d.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.20.48.png)
+[![](img/bff9465af2a50277eb41e1b58036d35d.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.20.48.png)
 
 你可以想象，在状态中我们可以有多个属性。我们已经用 loaded 属性创建了一个初始状态，它将指示玩家是否已经加载(例如，一个 http 调用)，而 loading 将指示它是否在那个进程中。
 
@@ -130,13 +130,13 @@ playersReducer 函数接收第一个状态参数，默认情况下，该参数�
 
 *src/app.ts*
 
-[![](../Images/91164ba0e068bd1395792cac87fedb80.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.21.41.png)
+[![](img/91164ba0e068bd1395792cac87fedb80.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.21.41.png)
 
 在存储的构造函数中，我们将第一个参数绑定到 reducer，在 dispatch 方法中，我们可以通过一个名为 reduce 的方法来更改状态的修改。我们不应该把它和数组的原型 reduce 混淆，它是我们类的一个函数。使用存储的当前状态和已执行的操作来调用 Reduce。
 
 *src/store/store.ts*
 
-[![](../Images/3a71b63b6e5568394b29261531aa215b.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.22.41.png)
+[![](img/3a71b63b6e5568394b29261531aa215b.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.22.41.png)
 
 接下来是很重要的部分，所以要注意。
 
@@ -144,7 +144,7 @@ playersReducer 函数接收第一个状态参数，默认情况下，该参数�
 
 *src/app.ts*
 
-[![](../Images/8e34b8bfbd4999d323fa9cbbe0ef58ef.png)](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.23.31.png)
+[![](img/8e34b8bfbd4999d323fa9cbbe0ef58ef.png)](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.23.31.png)
 
 reduce 方法负责生成一个对象，该对象具有与对象 reducer 相同的键，但将所分配的函数 reducer 的返回值作为值分配给每个键。
 
@@ -154,7 +154,7 @@ reduce 方法负责生成一个对象，该对象具有与对象 reducer 相同�
 
 *src/app.ts*
 
-[![](../Images/8e98c3a2ca61ca19589d11ed175b49a7.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.24.30.png)
+[![](img/8e98c3a2ca61ca19589d11ed175b49a7.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.24.30.png)
 
 为了完成这一部分，我们将构造函数中的状态绑定替换为对空操作 reduce 的调用，并在分配给按钮的事件中添加了分派后应用程序状态值的 console.log。
 
@@ -170,13 +170,13 @@ reduce 方法负责生成一个对象，该对象具有与对象 reducer 相同�
 
 *src/store/store.ts*
 
-[![](../Images/91306d9facf1e1f70805f5c2008e8c75.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.31.52.png)
+[![](img/91306d9facf1e1f70805f5c2008e8c75.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.31.52.png)
 
 接下来，我们将从 eventListener 中删除 console.log，并在我们的 app.ts 中进行订阅，我们将把它作为一个参数来接收一个生成 console.log 的函数。
 
 *src/app.ts*
 
-[![](../Images/e63abd4d884ad383f3f53048a0d7d1e7.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.29.11.png)
+[![](img/e63abd4d884ad383f3f53048a0d7d1e7.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.29.11.png)
 
 如果我们刷新浏览器，我们会看到初始状态是由控制台打印的，当我们添加一个玩家时，我们的订阅者会用应用程序的新状态创建 console.log。
 
@@ -188,7 +188,7 @@ reduce 方法负责生成一个对象，该对象具有与对象 reducer 相同�
 
 该函数负责通过参数接收球员列表，在 DOM 中添加球员总数，并为每个球员添加一个带有球员姓名和删除按钮的列表项。此外，我们将更改通过参数传递给它的函数，以订阅这个新的函数，并将订阅分配给变量 unsubscribe。
 
-[![redux](../Images/ebed0073e90e9345e26df34922efdfa2.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-22-at-13.24.18.png)
+[![redux](img/ebed0073e90e9345e26df34922efdfa2.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-22-at-13.24.18.png)
 
 就性能而言，这不是更新 DOM 的最正确的方法，但是对于我们的例子来说，这是可以的。
 
@@ -196,15 +196,15 @@ reduce 方法负责生成一个对象，该对象具有与对象 reducer 相同�
 
 *src/store/store.ts*
 
-[![](../Images/d219a0486e640f923a814d1bd7dd0b9d.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.33.21.png)
+[![](img/d219a0486e640f923a814d1bd7dd0b9d.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.33.21.png)
 
 最后，为了证明我们可以取消订阅，我们将在 html 的末尾创建一个按钮，并且我们将添加一个执行该函数的事件。
 
-[![re](../Images/d60bb7d6d3f511dfde9f35247c516db6.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-22-at-13.21.38.png)
+[![re](img/d60bb7d6d3f511dfde9f35247c516db6.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-22-at-13.21.38.png)
 
 *src/app.ts*
 
-[![](../Images/c9551725260786df22fb1e457753de2a.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.34.41.png)
+[![](img/c9551725260786df22fb1e457753de2a.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.34.41.png)
 
 这样，我们可以进入浏览器，添加播放器，查看 DOM 是如何更新的，单击“取消订阅”按钮，查看 DOM 是如何停止更新的，尽管通过控制台我们可以看到状态是如何不断变化的。
 
@@ -214,13 +214,13 @@ reduce 方法负责生成一个对象，该对象具有与对象 reducer 相同�
 
 *src/store/reducer.ts*
 
-[![](../Images/3621ebb975a982b5032ad3968040927b.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.35.33.png)
+[![](img/3621ebb975a982b5032ad3968040927b.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Captura-de-pantalla-2018-08-23-a-las-10.35.33.png)
 
 这个新的评估负责以不变的方式过滤通过动作接收的玩家。
 
 最后，我们将事件添加到玩家列表中，方法是定位事件元素，并让它调度一个 REMOVE_PLAYER，将玩家分配给 data-player 属性。
 
-[![](../Images/d8b96776d9b03a27b76471e4243122f4.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-22-at-12.34.43.png)
+[![](img/d8b96776d9b03a27b76471e4243122f4.png)T2】](https://apiumhub.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-22-at-12.34.43.png)
 
 ## 揭秘雷杜:结论
 

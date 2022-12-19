@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/leahein/continuous-integration-with-make-for-aws-lambda-using-python-3dll>
 
-[![pipeline](../Images/5b8d21ba897fbfb5f277aa04fcab99f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xgmecsuF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.skilljar.com/hs-fs/hubfs/salesforce_integration.png%3Ft%3D1533167571059%26width%3D440%26height%3D212%26name%3Dsalesforce_integration.png)
+[![pipeline](img/5b8d21ba897fbfb5f277aa04fcab99f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xgmecsuF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.skilljar.com/hs-fs/hubfs/salesforce_integration.png%3Ft%3D1533167571059%26width%3D440%26height%3D212%26name%3Dsalesforce_integration.png)
 
 ## 目标
 

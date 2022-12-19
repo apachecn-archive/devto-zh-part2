@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/essentialdeveloper/ios-app-architecture-best-practices--what-weve-learned-from-teaching-teams-dbi>
 
-[![thumbnail.png](../Images/f2e3edc36d86b0417d2d1c3db38a4794.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M-8x26kz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5b45f22188251bfe9f408dc0/1531310645411/thumbnail.png%3Fformat%3D1000w)
+[![thumbnail.png](img/f2e3edc36d86b0417d2d1c3db38a4794.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M-8x26kz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/5891c5b8d1758ec68ef5dbc2/t/5b45f22188251bfe9f408dc0/1531310645411/thumbnail.png%3Fformat%3D1000w)
 
 在 Essential Developer，我们帮助个人和团队实现他们的最佳潜力，而 **iOS 应用架构最佳实践**始终是我们工作中的一个常见话题。作为我们工作的一部分，当团队未能交付业务期望时，我们通常会伸出援手。随着时间的推移，我们在功能失调的团队中发现了共同的模式，其中我们发现的最常见的问题之一是对[软件架构及其目标](https://www.essentialdeveloper.com/articles/clean-ios-architecture-part-2-good-architecture-traits)的误解。
 

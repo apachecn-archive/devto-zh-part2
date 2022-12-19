@@ -8,7 +8,7 @@
 
 这个小工具的灵感来自于 [this](https://uimovement.com/ui/2380/submit-button/) ，看起来像这样:
 
-[![submit button](../Images/cc168a01e0b9e17f18a58e31358c2f28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UGYAXo4q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yol2fncriy20kmjb3pdw.gif)
+[![submit button](img/cc168a01e0b9e17f18a58e31358c2f28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UGYAXo4q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yol2fncriy20kmjb3pdw.gif)
 
 ### 制剂
 

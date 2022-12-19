@@ -17,7 +17,7 @@ textarea 是 HTML 标记，主要用于消息和评论。它非常类似于 inpu
  </textarea> 
 ```
 
-[![textarea tag_1](../Images/0e7577c8c87f0a932b7170e6126380bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LPA1J2xy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/06/Screen-Shot-on-Jun-1st-at-11_50-AM.png)
+[![textarea tag_1](img/0e7577c8c87f0a932b7170e6126380bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LPA1J2xy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/06/Screen-Shot-on-Jun-1st-at-11_50-AM.png)
 
 textarea 的默认大小是用它里面的文本的`font-size`定义的。因此，如果没有不同的定义，文本区域的高度由 2 行文本定义，宽度由 20 个文本字符定义。
 
@@ -57,7 +57,7 @@ textarea 元素的一些最有用的选项可以用它的属性来定义。这�
  </textarea> 
 ```
 
-[![textarea tag_2](../Images/4b90d41072935b288efead50aa4c383e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xGVZWZG6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/06/Screen-Shot-on-Jun-1st-at-11_49-AM.png)
+[![textarea tag_2](img/4b90d41072935b288efead50aa4c383e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xGVZWZG6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/06/Screen-Shot-on-Jun-1st-at-11_49-AM.png)
 
 为了进一步的样式化，你应该使用 CSS，只是要记住选项`white-space:nowrap;`不起作用。
 
@@ -87,7 +87,7 @@ textarea 元素的一些最有用的选项可以用它的属性来定义。这�
 
 textarea 的特定样式选项与输入的样式选项相同。因此，您可以设置边框、背景、文本、占位符文本和状态的样式。我发现了几个非标准 textarea 的例子，这很困难，所以这证明了 textarea 是一个可以成为标准元素的元素。
 
-[![textarea](../Images/4b366e092f9dcbbc15e9095838ee7af6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WZtsh_mq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.dribbble.com/users/270336/screenshots/1707425/dribbble_1x.png)
+[![textarea](img/4b366e092f9dcbbc15e9095838ee7af6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WZtsh_mq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.dribbble.com/users/270336/screenshots/1707425/dribbble_1x.png)
 
 ## 收盘线
 

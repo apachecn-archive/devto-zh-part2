@@ -6,4 +6,4 @@
 
 [读读⚛️📕](https://auth0.com/blog/building-a-component-library-with-react-and-storybook/?utm_source=dev&utm_medium=sc&utm_campaign=react_storybook)
 
-[![Building a Component Library with React and Storybook](../Images/6a89c64815a29d7a595cf4922f1fc97f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i8Y5RmaK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pdzwyi26cps3wuqy3hg2.png)
+[![Building a Component Library with React and Storybook](img/6a89c64815a29d7a595cf4922f1fc97f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i8Y5RmaK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pdzwyi26cps3wuqy3hg2.png)

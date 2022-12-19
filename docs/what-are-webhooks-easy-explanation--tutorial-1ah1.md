@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/couellet/what-are-webhooks-easy-explanation--tutorial-1ah1>
 
-[![What are Webhooks? Easy Explanation & Tutorial](../Images/2e1006765d58125d34f41740a6547fa6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RFf5bHIe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203936/webhooks-explained-1.jpg)
+[![What are Webhooks? Easy Explanation & Tutorial](img/2e1006765d58125d34f41740a6547fa6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RFf5bHIe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203936/webhooks-explained-1.jpg)
 
 我们的神经系统真是一个奇迹。
 

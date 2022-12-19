@@ -10,13 +10,13 @@
 
 这将是一个有趣的任务，因为键盘的布局不是很“矩形”，也就是说，键是偏移的，有些键比其他键更宽或更高。这是我最后得到的结果:
 
-[![Keyboard preview](../Images/f80d89b12b831d586c909336b130ce33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_8d62Zv6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6ubmcrp40c3np2yfxzzy.png)
+[![Keyboard preview](img/f80d89b12b831d586c909336b130ce33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_8d62Zv6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6ubmcrp40c3np2yfxzzy.png)
 
 # 引入“网格”
 
 我注意到 15 个“正常大小”的键可以放在键盘的一行上，但是有些行混合了“宽”键和“正常”键。为了处理这个问题，我最终将键盘容器(QWERTY 键盘，上图左侧)分成了`15*4 + 14 = 74`个小列。每个“正常”键跨越这些列中的 4 列，键之间的每个间隙跨越 1 列，更宽的键跨越各种列。键盘的每一行仅跨越 1 行，其高度是每列宽度的 4 倍。如下所示:
 
-[![Keyboard grid](../Images/a70bfee1fbe05293615d0eb93764d374.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t9nuFMQ1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/grj7003d3u75qaa3qyfa.png)
+[![Keyboard grid](img/a70bfee1fbe05293615d0eb93764d374.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t9nuFMQ1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/grj7003d3u75qaa3qyfa.png)
 
 为此，我有一个网格容器`div#qwerty_container`来放置所有的键，然后所有的键都是这个容器的直接子元素。这个容器的 CSS(我用的是 SASS)如下:
 
@@ -50,7 +50,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我不是 CSS 专家，但我认为这可以使用 Flexbox 来完成，因为我实际上并没有做任何“垂直”的事情。但是，右侧的数字键盘(见第一个图像)有跨越多行的键。现在，这是网格真正发光的地方！我用与 QWERTY 键盘基本相同的方式创建了数字键盘。这是数字键盘的网格外观:
 
-[![Number pad grid](../Images/678e5e364c9ff6c4fe5fc705ec8fce34.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AZnLI-1b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8h999sc8i013wkvfzroc.png)
+[![Number pad grid](img/678e5e364c9ff6c4fe5fc705ec8fce34.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AZnLI-1b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8h999sc8i013wkvfzroc.png)
 
 但是，加号键和回车键都跨越两行。两个处理它，我只是给这两个键添加了一个 id，并为每个键添加了仅仅三行额外的 CSS 代码。例如，假设加号键的 id 为`numpad_plus`。然后，我们可以将以下内容添加到我们的 SASS 文件中:
 

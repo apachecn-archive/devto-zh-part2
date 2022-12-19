@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/wxyyxc1992/awesome-cs-collections-curated-links-of-awesome-sites--collections--resources-jin>
 
-[![返回目录](../Images/6781ebee909f292165292a3f514a345d.png)T2】](https://github.com/wxyyxc1992/Awesome-Links)
+[![返回目录](img/6781ebee909f292165292a3f514a345d.png)T2】](https://github.com/wxyyxc1992/Awesome-Links)
 
 [牛逼 CS 合集](https://parg.co/ddq)是合集的合集，包括编程语言、软件工程、Web、服务器端应用、Frontend 等。这个集合中的每个链接都可能包含大量的域名。
 

@@ -32,7 +32,7 @@
 
 **重要详细信息:**为了正确显示搜索结果，新添加的 URL 被配置在管理中心的备用访问映射(AAM)的默认区域中。
 
-[![](../Images/0b63deaab55c36945e758d087ff68f1b.png)T2】](https://i0.wp.com/blogit.create.pt/wp-content/uploads/2018/08/Search_AlternateAccessMappings_DefaultZone.jpg)
+[![](img/0b63deaab55c36945e758d087ff68f1b.png)T2】](https://i0.wp.com/blogit.create.pt/wp-content/uploads/2018/08/Search_AlternateAccessMappings_DefaultZone.jpg)
 
 这里的目标是允许用户使用 https://intranet.contoso.com 的 FQDN URL(例如:T0)访问 SharePoint 门户网站，并在搜索结果中包含相同的 URL。
 

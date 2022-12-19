@@ -37,7 +37,7 @@
 *   将 nuspec 与 csproj 一起使用很笨拙
     *   只有一些元数据值的替换标记
     *   从 nuspec 中省略一个标签会导致该值未被定义——即使它是在 csproj 中设置的
-    *   在构建时启用 NuGet 包的生成(放在输出文件夹中)不使用 nuspec: ![](../Images/b53a58e9c813f430f95e0e5a1d8047c9.png)
+    *   在构建时启用 NuGet 包的生成(放在输出文件夹中)不使用 nuspec: ![](img/b53a58e9c813f430f95e0e5a1d8047c9.png)
 
 当使用 nuget.exe 时，nuspec 的`<files>`部分似乎是包含`/runtimes/`文件的唯一方式。csproj 里的`<Content>`把东西放在`content/`子文件夹里(nuget.exe 忽略`<ContentTargetFolders>`)，`<None>`根本不包括。
 
@@ -90,7 +90,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 不确定是否有关系，但是我默认使用 Package reference(**工具- >选项- > NuGet 包管理器** ):
 
-[![](../Images/454b64f5334db739bf32a44064dd35a3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s----4JRHEG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/vs_options_nuget_package_management.png)
+[![](img/454b64f5334db739bf32a44064dd35a3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s----4JRHEG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/vs_options_nuget_package_management.png)
 
 我用:
 包含了本机二进制文件
@@ -115,7 +115,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在 Visual Studio 中，**工具- >选项- > NuGet 包管理器- >包源**添加一个本地目录作为 NuGet 包的源:
 
-[![](../Images/b0b02b4939b93be45c3207b23c39fcba.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SD5fQ96f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/vs_options_package_source.png)
+[![](img/b0b02b4939b93be45c3207b23c39fcba.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SD5fQ96f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/vs_options_package_source.png)
 
 Visual Studio 包管理器(**视图- >其他窗口- >包管理器控制台**)使得重新加载本地 nupkg 变得很容易。确保**默认项目**设置为正确的项目并运行:`Install-Package D:\dev\NNanomsg\NNanomsg.NETStandard\NNanomsg.NETStandard.0.5.2.nupkg`。
 
@@ -123,7 +123,7 @@ Visual Studio 包管理器(**视图- >其他窗口- >包管理器控制台**)使
 
 假设您的 nupkg 包含 32 位和 64 位的本地库，分别是`runtimes/win-x86/native/nanomsg.dll`和`runtimes/win-x64/native/nanomsg.dll`。如果消费项目的*平台目标*(项目**属性- >构建**)为`Any CPU` **，则**本地程序集都不会被复制到输出目录。您**必须**选择`x86`或`x64` :
 
-[![](../Images/765aaad5f841ded59be9801c23d3e88e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--n9eEIUXn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/vs_project_properties_platform_target.png)
+[![](img/765aaad5f841ded59be9801c23d3e88e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--n9eEIUXn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/vs_project_properties_platform_target.png)
 
 ## 结论
 

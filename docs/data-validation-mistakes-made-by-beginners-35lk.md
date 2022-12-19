@@ -10,7 +10,7 @@
 
 这与我发布的另一篇文章有关联:
 
-[![codevault image](../Images/bfe7c64ddad8fd3d5afc3a236b615f01.png)](/codevault) [## 颠倒你的假设！
+[![codevault image](img/bfe7c64ddad8fd3d5afc3a236b615f01.png)](/codevault) [## 颠倒你的假设！
 
 ### Sergiu Mureşan ・ Aug 31 '18 ・ 2 min read
 

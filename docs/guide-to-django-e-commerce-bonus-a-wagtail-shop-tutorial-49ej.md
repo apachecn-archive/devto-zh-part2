@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/couellet/guide-to-django-e-commerce-bonus-a-wagtail-shop-tutorial-49ej>
 
-[![Guide to Django E-Commerce (Bonus: a Wagtail Shop Tutorial)](../Images/22e1768237392e533e777bb699d2f3af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9bBqDfsX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203682/wagtaildjangosnipcart-1.png)
+[![Guide to Django E-Commerce (Bonus: a Wagtail Shop Tutorial)](img/22e1768237392e533e777bb699d2f3af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9bBqDfsX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203682/wagtaildjangosnipcart-1.png)
 
 " D-J-A-N-G-o . D 不发音."
 
@@ -14,7 +14,7 @@
 
 今天，我将离开 [JavaScript](https://snipcart.com/blog/react-seo-nextjs-tutorial) [框架](https://snipcart.com/blog/vuejs-ecommerce-headless-buttercms)的领域，快速进入 **Django 电子商务。**
 
-[![django](../Images/7847e6736252eec8664cc732ad1259e3.png)T2】](https://i.giphy.com/media/m7xbffjvR3ZD2/giphy.gif)
+[![django](img/7847e6736252eec8664cc732ad1259e3.png)T2】](https://i.giphy.com/media/m7xbffjvR3ZD2/giphy.gif)
 
 在这篇文章中，我将回答你在开始一个新的电子商务项目时可能会有的合理问题，比如:
 
@@ -36,7 +36,7 @@
 
 Python 是一种通用的动态编程语言，由前谷歌员工吉多·范·罗苏姆在 80 年代后期开发。作为 Monthy Python 的粉丝，他用这个名字的一半来命名他的编程项目。
 
-[![monty-python](../Images/cce39adf03a93f087486bbffb9d698e4.png)T2】](https://i.giphy.com/media/Tim0q7zolF3fa/giphy.gif)
+[![monty-python](img/cce39adf03a93f087486bbffb9d698e4.png)T2】](https://i.giphy.com/media/Tim0q7zolF3fa/giphy.gif)
 
 怎么可能不是范呢？
 
@@ -59,7 +59,7 @@ Python 是一种通用的动态编程语言，由前谷歌员工吉多·范·罗
 
 [**Django**](https://www.djangoproject.com/) 是开源的，**高级 Python web 框架**。它对可重用组件的强调使得开发人员可以更快地在 Python 上构建 web 应用程序。它把自己描述成一个为有期限的完美主义者准备的网络框架。
 
-[![django-framework](../Images/b378ec5e87441e0c1914beeaa949ba71.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZeWnGZjX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203683/screen-shot-2018-07-04-at-34010-pm.png)
+[![django-framework](img/b378ec5e87441e0c1914beeaa949ba71.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZeWnGZjX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203683/screen-shot-2018-07-04-at-34010-pm.png)
 
 现在由 Django 软件基金会维护，它最初是由两位杰出的劳伦斯日报世界开发者编写的。哦，Python 的名字来源于喜剧偶像，Django 的名字来源于一个多才多艺的吉他传奇人物:[坦哥·雷恩哈特](https://www.youtube.com/watch?v=aZ308aOOX04)！
 

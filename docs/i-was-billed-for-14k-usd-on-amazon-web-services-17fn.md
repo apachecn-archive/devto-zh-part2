@@ -16,7 +16,7 @@
 
 4 月 13 日(一个昏昏欲睡的星期一)，大概是早上 10 点，我收到了一封来自亚马逊网络服务的邮件，欢迎我使用 EC2 服务。当我收到那封邮件时，我既不知道这项服务的存在。这让我怀疑我是不是误收了那封邮件，或者我的账户……被黑了。
 
-[![Billing dashboard](../Images/b42492cca9054bed0b79279ed5158e5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nGN4cRK1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/OFYFhti.jpg)
+[![Billing dashboard](img/b42492cca9054bed0b79279ed5158e5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nGN4cRK1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/OFYFhti.jpg)
 
 几分钟后，我给 AWS 支持部门发了一条信息，询问那封电子邮件，他们很快回复了我，在不到 48 小时内给我打了 5 次电话。他们告诉我，我的帐户可能已经受到威胁，并给了我一些事情要做的清单，以加强我的帐户安全，并避免进一步使用 EC2 服务。我删除了我正在使用的所有访问密钥，添加了多因素身份验证，并更改了我的密码。(我不是在支持或宣传 AWS，但我不得不说 AWS 支持团队的人非常友好，在这种情况下非常有用)
 

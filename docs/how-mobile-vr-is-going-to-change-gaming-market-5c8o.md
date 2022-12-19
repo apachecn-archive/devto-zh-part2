@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/program_ace_ltd/how-mobile-vr-is-going-to-change-gaming-market-5c8o>
 
-[![mobile VR](../Images/e56b3a1b2d9a05c7fe7855726adf673d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BHSVBY-Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sc20y7rdu8p01f5ai9gm.jpg)
+[![mobile VR](img/e56b3a1b2d9a05c7fe7855726adf673d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BHSVBY-Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sc20y7rdu8p01f5ai9gm.jpg)
 
 随着许多新设备迅速出现在科技领域，虚拟现实市场正稳步走向在所有人口统计群体中受欢迎的程度。近年来，我们已经看到常规 VR 设备的价格范围在 2016 年 HTC Vive 的 800 美元和谷歌 Cardboard 的 3 美元之间变化，这是一个明显的迹象，表明 VR 市场正在朝着抓住最大的受众规模发展。
 

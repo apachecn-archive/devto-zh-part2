@@ -4,7 +4,7 @@
 
 “我们上周部署的这一功能在昨天之前一直运行良好，但现在我不知道为什么它不起作用了！”这就像是你从开发者那里听到的一句典型的没有登录到位的话。通过自动化测试可以在很大程度上解决这个问题，但是日志记录和监控给了你一个不同的视角。在这篇文章中，我将揭示记录你的代码和监控你的代码的重要性，以大幅度减少对错误和差错的救火时间。
 
-[![Code for logging success or failure](../Images/24c8fb8fda42cc2a5bbe155fdd7b0c4e.png "Code for logging success or failure")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--20CF3xyg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://geshan.com.np/images/logging-importance/logging-code.png)
+[![Code for logging success or failure](img/24c8fb8fda42cc2a5bbe155fdd7b0c4e.png "Code for logging success or failure")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--20CF3xyg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://geshan.com.img/logging-importance/logging-code.png)
 
 ## 问题
 

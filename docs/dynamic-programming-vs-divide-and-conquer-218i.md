@@ -6,7 +6,7 @@
 
 # 或者在类固醇上各个击破
 
-![](../Images/86bcc5dbf2c6e97c7758a50c3a8dfa7f.png)![](../Images/cbb7d1e23641e0827646ff44812fedbf.png)![](../Images/cbb7d1e23641e0827646ff44812fedbf.png)
+![](img/86bcc5dbf2c6e97c7758a50c3a8dfa7f.png)![](img/cbb7d1e23641e0827646ff44812fedbf.png)![](img/cbb7d1e23641e0827646ff44812fedbf.png)
 
 #### TL；速度三角形定位法(dead reckoning)
 
@@ -73,9 +73,9 @@ tabFib(n) {
 
 既然我们现在已经熟悉了 DP 的先决条件及其方法，我们就准备将上面提到的所有内容放入一张图片中。
 
-![](../Images/abfeda417ac1ea5670913a1dd9f962fb.png)
+![](img/abfeda417ac1ea5670913a1dd9f962fb.png)
 
-<figure>![](../Images/455b874c814b6e7949e969fa33fe330f.png)
+<figure>![](img/455b874c814b6e7949e969fa33fe330f.png)
 
 <figcaption>Dynamic programming and divide and conquer paradigms dependency</figcaption>
 
@@ -91,9 +91,9 @@ tabFib(n) {
 
 这里是二分搜索法算法的可视化，其中`4`是目标值。
 
-![](../Images/f1ca3882037622e1f4b03261421c9978.png)
+![](img/f1ca3882037622e1f4b03261421c9978.png)
 
-<figure>![](../Images/e95c8310d90ca425c92b0229a4e69f76.png)
+<figure>![](img/e95c8310d90ca425c92b0229a4e69f76.png)
 
 <figcaption>Binary search algorithm logic</figcaption>
 
@@ -101,9 +101,9 @@ tabFib(n) {
 
 让我们画出同样的逻辑，但以决策树的形式。
 
-![](../Images/71c0fc9532e8760fa9332a30072d812f.png)
+![](img/71c0fc9532e8760fa9332a30072d812f.png)
 
-<figure>![](../Images/611dacf7ee72d33ba4a6fbbc72722f66.png)
+<figure>![](img/611dacf7ee72d33ba4a6fbbc72722f66.png)
 
 <figcaption>Binary search algorithm decision tree</figcaption>
 
@@ -176,7 +176,7 @@ function binarySearch(sortedArray, seekElement) {
 
 数学上，两个弦`a`、`b`(长度分别为`|a|`和`|b|`)之间的 Levenshtein 距离由函数`lev(|a|, |b|)`给出，其中
 
-![](../Images/2077145eee637bcb7e4615afc920fd5e.png)![](../Images/3f0491bf57621ae80b49b16cfd58bed1.png)
+![](img/2077145eee637bcb7e4615afc920fd5e.png)![](img/3f0491bf57621ae80b49b16cfd58bed1.png)
 
 注意，最小值中的第一个元素对应于**删除**(从`a`到`b`)，第二个对应于**插入**，第三个对应于**匹配** **或不匹配**，这取决于各个符号是否相同。
 
@@ -190,9 +190,9 @@ function binarySearch(sortedArray, seekElement) {
 
 为了进一步解释这一点，让我们画出下面的矩阵。
 
-![](../Images/ebe9bcba36eec7d3173f6e0e802454d8.png)
+![](img/ebe9bcba36eec7d3173f6e0e802454d8.png)
 
-<figure>![](../Images/abb4988673652311c7d54753c95ec290.png)
+<figure>![](img/abb4988673652311c7d54753c95ec290.png)
 
 <figcaption>Simple example of finding minimum edit distance between ME and MY strings</figcaption>
 
@@ -218,9 +218,9 @@ function binarySearch(sortedArray, seekElement) {
 
 所以你可以再次清楚地看到这个问题的递归性质。
 
-![](../Images/6b5bfe7413e1333687519160043fa282.png)
+![](img/6b5bfe7413e1333687519160043fa282.png)
 
-<figure>![](../Images/484dc4b777d9fbf9df6d93d33f851d03.png)
+<figure>![](img/484dc4b777d9fbf9df6d93d33f851d03.png)
 
 <figcaption>Recursive nature of minimum edit distance problem</figcaption>
 
@@ -228,9 +228,9 @@ function binarySearch(sortedArray, seekElement) {
 
 好了，我们刚刚发现，我们正在处理分而治之的问题。但是我们能应用动态规划方法吗？这个问题满足我们的**重叠子问题**和**最优子结构**限制吗？**是的**。从决策图来看。
 
-![](../Images/06884452ca15c5beff3fb31edf4305e1.png)
+![](img/06884452ca15c5beff3fb31edf4305e1.png)
 
-<figure>![](../Images/3159ea133e93de8e951614ecb78458e3.png)
+<figure>![](img/3159ea133e93de8e951614ecb78458e3.png)
 
 <figcaption>Decision graph for minimum edit distance with overlapping sub-problems</figcaption>
 
@@ -242,9 +242,9 @@ function binarySearch(sortedArray, seekElement) {
 
 进一步应用这个原则，我们可以解决更复杂的情况，比如星期六 *→* 星期天的转换。
 
-![](../Images/1f9a09a1d50d9928238e0465a6be0d61.png)
+![](img/1f9a09a1d50d9928238e0465a6be0d61.png)
 
-<figure>![](../Images/009ecf9f2ca6e36ba64ce2eb8b2d22a9.png)
+<figure>![](img/009ecf9f2ca6e36ba64ce2eb8b2d22a9.png)
 
 <figcaption>Minimum edit distance to convert Saturday to Sunday</figcaption>
 

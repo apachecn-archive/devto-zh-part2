@@ -12,7 +12,7 @@
 
 ### **我们想要什么**
 
-[![](../Images/4930a06c8aadcdfc2a11107d3f6e16d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qIugYQT5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2ArfsMMw_wvO5j6hiMCt3WtA.png)
+[![](img/4930a06c8aadcdfc2a11107d3f6e16d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qIugYQT5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2ArfsMMw_wvO5j6hiMCt3WtA.png)
 
 下面是我们的目录结构:
 
@@ -147,10 +147,10 @@ volumes:
 ### **发射**
 
 在`docker-nginx`中运行`sudo docker-compose up --build`(或者无论你的项目根是什么)。在所有的服务启动后，运行`sudo docker ps`，你会看到类似下面的东西，一个所有刚刚启动的容器的列表:
-[![](../Images/13ae6cec6e4c77f2c1e7d1b8a07ac418.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_zcpMhMA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tz67blas6m9c39jngymw.png)
+[![](img/13ae6cec6e4c77f2c1e7d1b8a07ac418.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_zcpMhMA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tz67blas6m9c39jngymw.png)
 
 **让我们通过 SSH 进入一个后端容器**并**启动我们的节点服务器**。在我们的浏览器中点击`localhost:8080`5 次后，我们得到的是:
-[![](../Images/419b8f472bd878280153c851e5f1eb92.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oHgpYm8E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g4xzvb08nm0savg3h3rr.png)
+[![](img/419b8f472bd878280153c851e5f1eb92.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oHgpYm8E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g4xzvb08nm0savg3h3rr.png)
 
 当然*浏览器在主机上点击 8080，主机已经映射到 Nginx 容器上的 8080，Nginx 容器又将请求转发到后端容器的端口 3000。因此，日志显示端口 3000 上的请求。*
 

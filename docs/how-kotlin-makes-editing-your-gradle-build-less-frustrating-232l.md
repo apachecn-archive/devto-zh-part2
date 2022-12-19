@@ -8,7 +8,7 @@
 
 在此期间，我将介绍一种更好的方法来处理我的新项目的依赖关系管理:
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png)[【jmfaard】](https://github.com/jmfayard)/[刷新版](https://github.com/jmfayard/refreshVersions)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png)[【jmfaard】](https://github.com/jmfayard)/[刷新版](https://github.com/jmfayard/refreshVersions)
 
 ### 生命太短暂，没有时间去谷歌依赖和版本
 
@@ -18,7 +18,7 @@
 
 **refreshVersions** 帮助**grade**用户完成**繁琐的手工工作**通常涉及添加和更新**依赖项及其版本**。
 
-[![](../Images/400e1cee45c783477900fdcdb386ff8d.png)T2】](http://www.youtube.com/watch?v=VhYERonB8co "Gradle refreshVersions")
+[![](img/400e1cee45c783477900fdcdb386ff8d.png)T2】](http://www.youtube.com/watch?v=VhYERonB8co "Gradle refreshVersions")
 
 ## 证明文件
 
@@ -187,7 +187,7 @@ Ben Manes 有一个非常好的插件， [`gradle-versions-plugin`](https://gith
 
 在您的 top `build.gradle`文件中，添加:
 
-[![pluginVersion](../Images/18b705bb6aa7169ae3e612a1b8dc6b97.png)](https://plugins.gradle.org/plugin/de.fayard.buildSrcVersions)T3】
+[![pluginVersion](img/18b705bb6aa7169ae3e612a1b8dc6b97.png)](https://plugins.gradle.org/plugin/de.fayard.buildSrcVersions)T3】
 
 ```
 plugins {
@@ -255,7 +255,7 @@ Groovy `build.gradle`和 Kotlin `build.gradle.kts`文件一旦被编写，看起
 
 My plugin
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png)[【jmfaard】](https://github.com/jmfayard)/[刷新版](https://github.com/jmfayard/refreshVersions)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png)[【jmfaard】](https://github.com/jmfayard)/[刷新版](https://github.com/jmfayard/refreshVersions)
 
 ### 生命太短暂，没有时间去谷歌依赖和版本
 
@@ -265,7 +265,7 @@ My plugin
 
 **refreshVersions** 帮助**grade**用户完成**繁琐的手工工作**通常涉及添加和更新**依赖项及其版本**。
 
-[![](../Images/400e1cee45c783477900fdcdb386ff8d.png)T2】](http://www.youtube.com/watch?v=VhYERonB8co "Gradle refreshVersions")
+[![](img/400e1cee45c783477900fdcdb386ff8d.png)T2】](http://www.youtube.com/watch?v=VhYERonB8co "Gradle refreshVersions")
 
 ## 证明文件
 
@@ -316,7 +316,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 gradle/kotlin-dsl 示例
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png)/[科特林-dsl-samples](https://github.com/gradle/kotlin-dsl-samples)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png)/[科特林-dsl-samples](https://github.com/gradle/kotlin-dsl-samples)
 
 ### 使用 Gradle Kotlin DSL 的示例构建
 
@@ -324,7 +324,7 @@ gradle/kotlin-dsl 示例
 
 # Gradle Kotlin DSL 示例
 
-[![License](../Images/139bbd4a5153fcd312f09ee1e5ad90c6.png)T2】](http://www.apache.org/licenses/LICENSE-2.0)
+[![License](img/139bbd4a5153fcd312f09ee1e5ad90c6.png)T2】](http://www.apache.org/licenses/LICENSE-2.0)
 
 欢迎光临！Gradle kot Lin DSL T1 支持使用 JetBrains 的 T4 语言编写 T2 构建脚本。它旨在为 Gradle 用户提供一种丰富、灵活和静态类型的方法，结合最好的 ide 和工具体验来开发构建逻辑。
 

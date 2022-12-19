@@ -6,7 +6,7 @@
 
 然后，我们进入算法。如果我们需要可视化算法，我们可以这样来可视化:
 
-[![Quicksort Algorithm](../Images/82c96d97502c21e21d39db9d6a0785e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XTaAZbqp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif)
+[![Quicksort Algorithm](img/82c96d97502c21e21d39db9d6a0785e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XTaAZbqp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif)
 
 算法如何工作:
 
@@ -81,7 +81,7 @@ let rec quicksort list =
 
 如果我们需要可视化排序列表:
 
-[![List visualized](../Images/cee28f90d19c3eb714cbf43f62a802cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zebw7gOM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://s3.amazonaws.com/lyah/quicksort.png)
+[![List visualized](img/cee28f90d19c3eb714cbf43f62a802cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Zebw7gOM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://s3.amazonaws.com/lyah/quicksort.png)
 
 ###### (特别感谢[学你个 Haskell 为大善！](http://learnyouahaskell.com/)供图。它有非常好的 Haskell 章节！)
 

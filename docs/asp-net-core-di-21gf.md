@@ -4,7 +4,7 @@
 
 #### 介绍在相关性注入( Dependency Injection )中通过同一接口解决多个实现服务的方法。
 
-<figure>[![](../Images/de6c0eece60cd2c6bb0ebb31eb1cd500.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--v9eKTbWA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AyFWyZFLSdc-Td-CgWrLdGQ.png)
+<figure>[![](img/de6c0eece60cd2c6bb0ebb31eb1cd500.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--v9eKTbWA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AyFWyZFLSdc-Td-CgWrLdGQ.png)
 
 <figcaption>在一个接口上实现多个服务例</figcaption>
 

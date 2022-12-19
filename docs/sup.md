@@ -4,7 +4,7 @@
 
 基于微服务的架构包括将你的 monolith 应用分解成多个完全独立部署和扩展的服务。除了这个基本定义之外，微服务的构成可能有些主观，尽管有一些像[网飞](https://www.nginx.com/blog/microservices-at-netflix-architectural-best-practices/)和[优步](https://eng.uber.com/building-tincup/)这样的巨头采用的经过战斗考验的实践应该总是被考虑的。我会讨论其中的一些。最终，我们希望*将我们的应用程序分成更小的应用程序，每个应用程序都是一个独立的系统&只处理整个应用程序的一个方面，并且做得非常好*。这个分解是一个非常重要的步骤，可以在[子域](http://microservices.io/patterns/decomposition/decompose-by-subdomain.html)的基础上完成，子域必须被正确识别。较小的应用程序更加**模块化&可管理**具有良好定义的边界，可以使用**不同的语言/框架**，**单独失败**以便整个应用程序不会崩溃(没有 SPOF)。以电影院售票为例:
 
-[![](../Images/41f4d182331cf6f9320aa92bac69b68b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZrMJzjnn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m4cppxfwj2g8ml4uqqxr.png) 
+[![](img/41f4d182331cf6f9320aa92bac69b68b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZrMJzjnn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m4cppxfwj2g8ml4uqqxr.png) 
 <sub><sup>*来源:[https://code burst . io/build-a-nodejs-cinema-API-gateway-and-deploying-it-to-docker-part-4-703 C2 b 0 DD 269](https://codeburst.io/build-a-nodejs-cinema-api-gateway-and-deploying-it-to-docker-part-4-703c2b0dd269)*</sup></sub>
 
 让我们来分解一下这个鸟瞰图:
@@ -39,7 +39,7 @@ RabbitMQ 是一个非常[强大的](https://www.rabbitmq.com/#features)消息代
 *   发布的消息连同一个*路由密钥*一起被传送到*交换机*
 *   *交换*根据之前定义的*绑定密钥*模式检查哪些*队列*与*路由密钥*匹配。
 
-<sub><sup>`*`可以替代恰好一个词。`#`可以代替零个或多个单词。 <sup><sub>[![](../Images/91df060f68477622e14eb5a0cbc50743.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LTuEnrWN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zepcpbrn07266rcc71sc.png)
+<sub><sup>`*`可以替代恰好一个词。`#`可以代替零个或多个单词。 <sup><sub>[![](img/91df060f68477622e14eb5a0cbc50743.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LTuEnrWN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zepcpbrn07266rcc71sc.png)
 <sub><sup>*来源:[https://www . rabbit MQ . com/tutorials/tutorials-five-python . html](https://www.rabbitmq.com/tutorials/tutorial-five-python.html)*</sup></sub></sub></sup></sup></sub>
 
 任何带有路由关键字`"quick.orange.rabbit"`的消息都将被传递到两个队列。然而，带有`"lazy.brown.fox"`的消息只会到达`Q2`。那些路由关键字与任何模式都不匹配的将会丢失。
@@ -290,7 +290,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当这三个服务构建完成后(第一次至少需要几分钟)，使用 **`docker ps`** 检查它们的名称:
 
-[![](../Images/7c58d69f6f1a2998e1da2b57f9b790e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EnlpQ-pj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/694axi1gm9nxudiu418g.png)
+[![](img/7c58d69f6f1a2998e1da2b57f9b790e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EnlpQ-pj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/694axi1gm9nxudiu418g.png)
 
 打开两个新的终端，使用各自的容器名称 SSH 到 Python 和 Go 容器，并启动服务器:
 
@@ -306,9 +306,9 @@ Enter fullscreen mode Exit fullscreen mode
 
 你会看到传输:
 
-[![](../Images/3141d1b328ba5d4dc010896cb537bfd5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M2sJig-B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9945lbxplrxsm5e21qsp.png)
+[![](img/3141d1b328ba5d4dc010896cb537bfd5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M2sJig-B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9945lbxplrxsm5e21qsp.png)
 
-[![](../Images/df7a98fa4c182cda4e14b9f43f5dc8e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RiQ9whFE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ufwdryd0l0zw53k11wm2.png)
+[![](img/df7a98fa4c182cda4e14b9f43f5dc8e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RiQ9whFE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ufwdryd0l0zw53k11wm2.png)
 
 在任何时候，您也可以 SSH 到 RabbitMQ 容器，然后四处看看:
 

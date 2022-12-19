@@ -10,7 +10,7 @@
 
 React 构建用户界面如此方便的原因是，数据要么是从组件的父组件接收的，要么是包含在组件本身中的。在我们开始编写代码之前，让我们确保对组件有一个高层次的理解。
 
-[![](../Images/c94006717a9c945f713bafe3c6b0fa9b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2b3EY2Co--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tylermcginnis.com/static/2df47642bc13bef365e96086d5b117c7-efdf2.png)
+[![](img/c94006717a9c945f713bafe3c6b0fa9b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2b3EY2Co--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tylermcginnis.com/static/2df47642bc13bef365e96086d5b117c7-efdf2.png)
 
 上面有一张我推特资料的照片。如果我们要在 React 中重新创建这个页面，我们将把不同的部分分解成不同的组件(突出显示)。请注意，组件内部可以有嵌套组件。我们可以将左边的组件(粉色)命名为`UserInfo`组件。在`UserInfo`组件中，我们有另一个组件(橙色)，我们可以称之为`UserImages`组件。这种父/子关系的工作方式是我们的`UserInfo`组件，或者说父组件，是它自己和`UserImages`组件(子组件)的数据的“状态”所在。如果我们想在子组件中使用父组件数据的任何部分，我们会将该数据作为属性传递给子组件。在这个例子中，我们将用户拥有的所有图像(当前存在于`UserInfo`组件中)传递给`UserImages`组件。我们稍后会更深入地讨论代码的细节，但我希望您能更全面地了解这里发生了什么。这种父/子层次结构使得管理我们的数据相对简单，因为我们确切地知道我们的数据位于何处，并且我们不应该在其他任何地方操纵这些数据。
 

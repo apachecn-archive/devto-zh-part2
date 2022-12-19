@@ -8,12 +8,12 @@
 
 首先，确保我们有所有需要的包。Orage 和 Vdirsyncer 应该存在于大多数发行版的官方仓库中。在 Archlinux 中，安装可以用`sudo pacman -S vdirsyncer orage`来完成。其他发行版也是如此。Ubuntu/Debian `sudo apt-get install vdirsyncer orage`。
 
-[![Orage highlighting events](../Images/1ef8325ec7acf54c3f30f19d7a73abfa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1kAN1q09--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://aymanbagabas.com/assets/images/orage1.png) 
+[![Orage highlighting events](img/1ef8325ec7acf54c3f30f19d7a73abfa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1kAN1q09--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://aymanbagabas.com/asseimg/orage1.png) 
 *Orage 高亮事件*
 
 在这里你可以看到 orage 是如何突出显示带有事件的日期的。例如，4 月 1 日是复活节三德科技。这是从我的谷歌美国假期日历中提取的。
 
-[![Orage displaying events](../Images/fd8f5ed4026911c70ba00ef622680b40.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--36Y93XrX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://aymanbagabas.com/assets/images/orage2.png) 
+[![Orage displaying events](img/fd8f5ed4026911c70ba00ef622680b40.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--36Y93XrX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://aymanbagabas.com/asseimg/orage2.png) 
 *Orage 显示事件*
 
 ### Vdirsyncer 设置

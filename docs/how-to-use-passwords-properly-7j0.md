@@ -32,7 +32,7 @@
 
 网络浏览器对你的密码进行加密，但他们也对密码进行解密以填充密码输入，为了做到这一点，他们使用一个存储的密钥。那么为什么我们不能破译它们呢？嗯，我们可以，像 LaZagne 这样的工具就是证明，这就是为什么你不应该使用这个选项。
 
-[![Brute force time/password length](../Images/5e21f783edd656338cae46afe3c4e3e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n4YVjYOl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e9bjobtx6lybvuyajhjq.png)
+[![Brute force time/password length](img/5e21f783edd656338cae46afe3c4e3e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n4YVjYOl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e9bjobtx6lybvuyajhjq.png)
 
 # 方案
 

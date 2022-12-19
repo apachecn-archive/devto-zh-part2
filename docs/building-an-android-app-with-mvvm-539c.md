@@ -32,7 +32,7 @@ Android 类与此直接相关。这是一个在整个定向过程中维护状态
 
 现在我们已经定义了组件，让我们深入 MVVM 通信流程。我们将更进一步，将它与我们的最后一个例子 MVP 进行比较。
 
-[![](../Images/b4c6344c0b88693437753a681e7b47d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SPgnJd9A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r90y8hqzp5s558j1snza.png)
+[![](img/b4c6344c0b88693437753a681e7b47d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SPgnJd9A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r90y8hqzp5s558j1snza.png)
 
 这张图片来自维基百科。
 

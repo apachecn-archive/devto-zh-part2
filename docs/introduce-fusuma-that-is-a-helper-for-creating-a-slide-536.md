@@ -2,13 +2,13 @@
 
 > 原文：<https://dev.to/abouthiroppy/introduce-fusuma-that-is-a-helper-for-creating-a-slide-536>
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)[【hiropy】](https://github.com/hiroppy)/[【fusuma】](https://github.com/hiroppy/fusuma)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)[【hiropy】](https://github.com/hiroppy)/[【fusuma】](https://github.com/hiroppy/fusuma)
 
 ### ✍️Fusuma 轻松制作带降价功能的幻灯片。
 
-<article class="markdown-body entry-content container-lg" itemprop="text">[![](../Images/a083d7796ae949b8d65042b726e90414.png)](https://raw.githubusercontent.com/hiroppy/fusuma/master/./site/docs/assets/logo.svg)**A tool to create slides easily for you <g-emoji class="g-emoji" alias="writing_hand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/270d.png">✍</g-emoji> ️**
+<article class="markdown-body entry-content container-lg" itemprop="text">[![](img/a083d7796ae949b8d65042b726e90414.png)](https://raw.githubusercontent.com/hiroppy/fusuma/master/./site/docs/assets/logo.svg)**A tool to create slides easily for you <g-emoji class="g-emoji" alias="writing_hand" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/270d.png">✍</g-emoji> ️**
 
-[![npm](../Images/c37d6afb48bf93f6dfb327dbd6b73c9e.png)](https://www.npmjs.com/package/fusuma)[![Azure](../Images/6d516e0f78137b3a1de9f1968bb67cd3.png)](https://dev.azure.com/hiroppy/fusuma)[![Codecov](../Images/7bca3fcbff6a5eb83dbf01a448e00eee.png)](https://codecov.io/gh/hiroppy/fusuma)
+[![npm](img/c37d6afb48bf93f6dfb327dbd6b73c9e.png)](https://www.npmjs.com/package/fusuma)[![Azure](img/6d516e0f78137b3a1de9f1968bb67cd3.png)](https://dev.azure.com/hiroppy/fusuma)[![Codecov](img/7bca3fcbff6a5eb83dbf01a448e00eee.png)](https://codecov.io/gh/hiroppy/fusuma)
 
 ## 特征
 
@@ -50,7 +50,7 @@
 *   [主题](https://hiroppy.github.io/fusuma/themes/) [ [储存库](https://raw.githubusercontent.com/hiroppy/fusuma/master//packages/playground/themes)
 *   [数学、图表和流程图](https://hiroppy.github.io/fusuma/advanced/) [ [知识库](https://raw.githubusercontent.com/hiroppy/fusuma/master//packages/playground/advanced)
 
-[![Open in Gitpod](../Images/036fb817afa4f0df58b50d9ea9f137e0.png)T2】](https://gitpod.io/#https://github.com/hiroppy/fusuma/blob/master/samples/intro/slides/0-title.md)
+[![Open in Gitpod](img/036fb817afa4f0df58b50d9ea9f137e0.png)T2】](https://gitpod.io/#https://github.com/hiroppy/fusuma/blob/master/samples/intro/slides/0-title.md)
 
 ## 入门指南
 
@@ -106,7 +106,7 @@ $ tree -a
 Enter fullscreen mode Exit fullscreen mode
 
 执行`npx fusuma start`时，输出如下。
-[![](../Images/c8a7113420242b654aa8d37cc812bf0c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QaBFfoMt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/hiroppy/fusuma/master/media/procedure-screenshot.png)
+[![](img/c8a7113420242b654aa8d37cc812bf0c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QaBFfoMt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/hiroppy/fusuma/master/media/procedure-screenshot.png)
 
 默认主题是定制主题星云。
 

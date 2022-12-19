@@ -9,11 +9,11 @@
 导航到[https://cse.google.com/cse/all](https://cse.google.com/cse/all)，在那里你可以创建一个定制的搜索引擎。点击“添加”按钮，并提供一个或多个网站进行搜索。在这种情况下，只需将 dev.to/*的 T2 添加到列表中。
 如果你*启用*名为“搜索整个网页”的设置，如果没有找到(或没有找到足够的内容)，你的搜索结果将会增加。这意味着*禁用*以确保它只会显示来自您的网络域名的结果。
 
-[![s1](../Images/f6eb29188304b4402c6c1e39efb8b40f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6Itm9mMJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vb01s68vf05j86jf6kat.png)
+[![s1](img/f6eb29188304b4402c6c1e39efb8b40f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6Itm9mMJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vb01s68vf05j86jf6kat.png)
 
 如果你想通过简单的复制/粘贴在网页上嵌入你的自定义搜索引擎，那么你可以在 7 种不同的搜索引擎布局中进行选择。我个人比较喜欢紧凑型的。这些布局显示广告。
 
-[![s2](../Images/42c7de77cfbd6d8b5eb47e44a8c5da6e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NI0lANoe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jn5b89yp1ei8k9gz945j.png)
+[![s2](img/42c7de77cfbd6d8b5eb47e44a8c5da6e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NI0lANoe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jn5b89yp1ei8k9gz945j.png)
 
 编程访问有两个选项。选项*自定义搜索 JSON API* 是免费的，每天最多查询 10，000 次。这是你在这种情况下想要的。
 
@@ -28,7 +28,7 @@ API *key* (此处获取:[https://developers . Google . com/custom-Search/JSON-AP
 
 假设你掌控了一切。向 querystring 添加一个 *sort=date* 参数，以便按日期对结果进行排序(最新的优先)。正如你在这张截图中看到的，谷歌很快发现了变化。
 
-[![s3](../Images/a32769fbcb64bbd49e6d0d76102d74c5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sg5LELXU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dzkq180ifcuav7tkmhtj.png)T3】
+[![s3](img/a32769fbcb64bbd49e6d0d76102d74c5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sg5LELXU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dzkq180ifcuav7tkmhtj.png)T3】
 
 ```
 /* since this is a public API, it permits cross origin XMLHttpRequests from the browser */

@@ -6,7 +6,7 @@
 
 JENG JENG~
 
-[![](../Images/7891ec8871a606eaac8174be08a8832f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fOInFpft--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/387/1%2AYKUkn4pXb2NmVAFHS5mtQw.png)
+[![](img/7891ec8871a606eaac8174be08a8832f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fOInFpft--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/387/1%2AYKUkn4pXb2NmVAFHS5mtQw.png)
 
 ### 我做了什么？
 
@@ -18,13 +18,13 @@ github pages
 
 #### ***第一步:按照指定的命名格式创建一个存储库。***
 
-<figure>[![](../Images/7abca296669cfc8213ecb9f9c2f36563.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AosEi--t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ATRHCHuuX-hLeX5trZHzv6Q.png) 
+<figure>[![](img/7abca296669cfc8213ecb9f9c2f36563.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AosEi--t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ATRHCHuuX-hLeX5trZHzv6Q.png) 
 
 <figcaption>来自 Github 页面的步骤 1。</figcaption>
 
 </figure>
 
-<figure>[![](../Images/827b79ab31e1d90fe597bfa0cd53cc6b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rXKvYoh---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ALh4nTvPTNqG7H6teyP9VqQ.png) 
+<figure>[![](img/827b79ab31e1d90fe597bfa0cd53cc6b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rXKvYoh---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ALh4nTvPTNqG7H6teyP9VqQ.png) 
 
 <figcaption>警告:请务必用破折号更改您的用户名或组织名！</figcaption>
 
@@ -38,7 +38,7 @@ github pages
 
 ### **好吧！第五步！屏住呼吸！**
 
-<figure>[![](../Images/ec2d803841a70d41690628e332bfb43e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--F5PKQcVX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AZsapO39h7Jv7YlVUfv1xfw.png) 
+<figure>[![](img/ec2d803841a70d41690628e332bfb43e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--F5PKQcVX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AZsapO39h7Jv7YlVUfv1xfw.png) 
 
 <figcaption>注意:将路径改为您设置的用户名。对于我来说，[https://syaceypeye . github . io](https://syaceypyee.github.io)</figcaption>
 
@@ -46,7 +46,7 @@ github pages
 
 ### 3…2…1! Tada!
 
-[![](../Images/d3a59f37753824134fc33944c82d003f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E7IernCT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/768/1%2AxUVT5xRA4nNXvC0IzaAIhQ.png)
+[![](img/d3a59f37753824134fc33944c82d003f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E7IernCT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/768/1%2AxUVT5xRA4nNXvC0IzaAIhQ.png)
 
 ORZ…
 
@@ -54,7 +54,7 @@ ORZ…
 
 ### 哦不！！哪里出了问题？！！
 
-<figure>[![](../Images/fe193da13f074d6a0275bfccc83f42e0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jvxGELtt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWivm-dBDbk3VN8SmI8n-BQ.png) 
+<figure>[![](img/fe193da13f074d6a0275bfccc83f42e0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jvxGELtt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWivm-dBDbk3VN8SmI8n-BQ.png) 
 
 <figcaption>没有更多的线索</figcaption>
 
@@ -66,7 +66,7 @@ ORZ…
 
 基本上可以忽略评论，直到最后一条！
 
-[![](../Images/1390283065307fb0d4a2d67de280ffad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mc2aETat--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/821/1%2AmZ4rId8nxhqtSJ-spH60rw.png)
+[![](img/1390283065307fb0d4a2d67de280ffad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mc2aETat--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/821/1%2AmZ4rId8nxhqtSJ-spH60rw.png)
 
 **_config.yml 是关键！**
 
@@ -74,21 +74,21 @@ ORZ…
 
 所以我回到我的回购和去设置
 
-[![](../Images/0fdb2a99a5473a72a441c8fa002075de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H1YJrXtR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ANCx6wcGum8AL1aft6r7x2w.png)
+[![](img/0fdb2a99a5473a72a441c8fa002075de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H1YJrXtR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ANCx6wcGum8AL1aft6r7x2w.png)
 
 **继续向下滚动，直到到达“GitHub Pages”会话，选择一个主题！**
 
-[![](../Images/84431968263fa3dcfeb125d3b329f43b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--suC1j-j9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/794/1%2A-mSGGXNVIS9KrfU1IGnNTw.png)
+[![](img/84431968263fa3dcfeb125d3b329f43b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--suC1j-j9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/794/1%2A-mSGGXNVIS9KrfU1IGnNTw.png)
 
 如今，现在
 
 ### 3…2…1…
 
-[![](../Images/7891ec8871a606eaac8174be08a8832f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fOInFpft--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/387/1%2AYKUkn4pXb2NmVAFHS5mtQw.png)
+[![](img/7891ec8871a606eaac8174be08a8832f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fOInFpft--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/387/1%2AYKUkn4pXb2NmVAFHS5mtQw.png)
 
 你最终会在你的 repo 里面找到… _config.yml！
 
-<figure>[![](../Images/ede2e7fb8b60085336d07faec2ab74d5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Ie2xQWo7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2APfx7Wj-8YlGtNVDJZEC73Q.png) 
+<figure>[![](img/ede2e7fb8b60085336d07faec2ab74d5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Ie2xQWo7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2APfx7Wj-8YlGtNVDJZEC73Q.png) 
 
 <figcaption>这里是我们的朋友！</figcaption>
 

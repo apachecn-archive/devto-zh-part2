@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jmlw/elasticsearch-ids-are-hard-4923>
 
-[![Elasticsearch - IDs are hard](../Images/9cf2c87f1a1232536c1489e531c74b67.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LikRpIpB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.joshmlwood.com/content/images/2018/07/elasticsearch-2.png)
+[![Elasticsearch - IDs are hard](img/9cf2c87f1a1232536c1489e531c74b67.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LikRpIpB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.joshmlwood.com/conteimg/2018/07/elasticsearch-2.png)
 
 有时 RTFM(阅读 f******手册)确实是最好的解决方案，但是当快速和敏捷地构建时，并不总是有时间阅读手册的每一页。
 

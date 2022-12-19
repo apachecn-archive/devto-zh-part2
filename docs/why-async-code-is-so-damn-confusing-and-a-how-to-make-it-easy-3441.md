@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/joelnet/why-async-code-is-so-damn-confusing-and-a-how-to-make-it-easy-3441>
 
-[![Yarn](../Images/849c024bed4acbe9574f08016fe0c1cf.png)T2】](https://pixabay.com/en/yarn-kordonek-weave-sewing-model-3219436/)
+[![Yarn](img/849c024bed4acbe9574f08016fe0c1cf.png)T2】](https://pixabay.com/en/yarn-kordonek-weave-sewing-model-3219436/)
 
 为什么 Javascript 中的异步代码如此复杂和混乱？有很多文章和问题来自人们，他们试图用他们的 bean 来包装它。
 
@@ -33,7 +33,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 甚至还有强制同步的肮脏手段
 
-> ![unknown tweet media content](../Images/a16150547ccde195e4600b9f34ddec9b.png)![Kent C. Dodds profile image](../Images/94f207e09e64133620a88b3ae5533c42.png)肯特 c .多兹[@肯特多兹](https://dev.to/kentcdodds)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)[@ dferber 90](https://twitter.com/dferber90)有一招是我前阵子从 [@threepointone](https://twitter.com/threepointone) 那里学来的，可以帮到你:下午 17:45-2018 年 9 月 21 日
+> ![unknown tweet media content](img/a16150547ccde195e4600b9f34ddec9b.png)![Kent C. Dodds profile image](img/94f207e09e64133620a88b3ae5533c42.png)肯特 c .多兹[@肯特多兹](https://dev.to/kentcdodds)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)[@ dferber 90](https://twitter.com/dferber90)有一招是我前阵子从 [@threepointone](https://twitter.com/threepointone) 那里学来的，可以帮到你:下午 17:45-2018 年 9 月 21 日
 
 **不推荐**
 
@@ -47,11 +47,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 异步代码不能在同步环境中运行。但是，逆没有问题。
 
-[![async/async feature chart](../Images/09b5a18f50863e8e25adef8db1fc3ba6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lRgdSJMI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/44chigz6jmnk4el9ctbg.png)
+[![async/async feature chart](img/09b5a18f50863e8e25adef8db1fc3ba6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lRgdSJMI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/44chigz6jmnk4el9ctbg.png)
 
 这个限制只适用于同步代码！
 
-[![Mind blown GIF](../Images/34b8db6e6addfa98f0280ed9eb1ae688.png)T2】](https://i.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
+[![Mind blown GIF](img/34b8db6e6addfa98f0280ed9eb1ae688.png)T2】](https://i.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
 
 # 从一开始就异步写入
 
@@ -171,7 +171,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我不再需要关心什么是同步，什么是异步。在这两种情况下，我写的代码是一样的。
 
-[![Banana says Wooo-Wooooo!](../Images/d56120b6df34c2527be734e013a9f14f.png)T2】](http://worldartsme.com/hooray-clipart.html)
+[![Banana says Wooo-Wooooo!](img/d56120b6df34c2527be734e013a9f14f.png)T2】](http://worldartsme.com/hooray-clipart.html)
 
 # ESNext 建议:管道运营商
 
@@ -268,4 +268,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 在推特上关注我
 
-[![Cheers!](../Images/e06285b8de57257da4f316477c6f3559.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TBAbVzBy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/md1oj03uisp93k36ekup.jpg)
+[![Cheers!](img/e06285b8de57257da4f316477c6f3559.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TBAbVzBy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/md1oj03uisp93k36ekup.jpg)

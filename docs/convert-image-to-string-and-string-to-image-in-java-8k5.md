@@ -13,6 +13,6 @@ Base64 . decode base 64–接受 Base64 字符串并转换为字节数组。
 
 [在 Java 中转换图像为字符串，字符串为图像](https://www.skptricks.com/2018/08/convert-image-to-string-and-string-to-image-in-java.html)
 
-[![](../Images/4715dce698c94bdcf256cf59d7704936.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--foFMppGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-lrKEczp10oQ/W2Z75c6A1rI/AAAAAAAABvE/l4Z44GRLtDoJeKnxTBzapuxnhb_PJfYTACLcBGAs/s320/imgaeS.jpg)
+[![](img/4715dce698c94bdcf256cf59d7704936.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--foFMppGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-lrKEczp10oQ/W2Z75c6A1rI/AAAAAAAABvE/l4Z44GRLtDoJeKnxTBzapuxnhb_PJfYTACLcBGAs/s320/imgaeS.jpg)
 
 [阅读更多...](https://www.skptricks.com/2018/08/convert-image-to-string-and-string-to-image-in-java.html)

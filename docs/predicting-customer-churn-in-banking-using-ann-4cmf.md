@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/blackbird/predicting-customer-churn-in-banking-using-ann-4cmf>
 
-[![](../Images/40c3ca1e0eee8fc5f29bcb5548b805a9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EWmXtCCN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ACAnlolK6WNrLQBnz) 
+[![](img/40c3ca1e0eee8fc5f29bcb5548b805a9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EWmXtCCN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ACAnlolK6WNrLQBnz) 
 
 <figcaption>利用人工神经网络预测银行业客户流失</figcaption>
 
@@ -90,7 +90,7 @@
 
 ### 代码
 
-## ![GitHub logo](../Images/375dfcc32199b4dedf2b526645c27ff7.png) [ blackbird71SR ](https://github.com/blackbird71SR) / [神经网络项目](https://github.com/blackbird71SR/Neural-Network-Projects)
+## ![GitHub logo](img/375dfcc32199b4dedf2b526645c27ff7.png) [ blackbird71SR ](https://github.com/blackbird71SR) / [神经网络项目](https://github.com/blackbird71SR/Neural-Network-Projects)
 
 ### 神经网络项目
 

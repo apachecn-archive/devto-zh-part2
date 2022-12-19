@@ -14,19 +14,19 @@
 
 编写 CSS 动画在概念上是容易的，但是以一种看起来流畅和预期的方式组合它们是非常困难的。我们来看看高级的。当我研究这个话题时，我看到有人在分析 stripe.com 导航下拉菜单。下拉菜单不可能那么高级，对吧？我开始做我自己的分析，男人有一堆知识包装在一个“简单”的下拉菜单中。我从未听说过`will-change`或`transition-property` css 属性。另一件难倒我的事是下拉列表看起来像是“滚下”了。
 
-[![dropdown](../Images/c6c87a14f6404917e44546ff4d05a506.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QtpC9kGs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i6lps4kn2qosz26lxdcx.gif)
+[![dropdown](img/c6c87a14f6404917e44546ff4d05a506.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QtpC9kGs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i6lps4kn2qosz26lxdcx.gif)
 
 <figcaption>It's subtle, but it's there</figcaption>
 
 这是怎么回事？这花了我一段时间，但我意识到我可以改变动画时间来真正看到它。
 
-[![dropdown2](../Images/a5acc272c8b05c12c4fa687d7acd0e2e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i7JXvU4b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xpm6hym6agzpew9rpxg5.gif)
+[![dropdown2](img/a5acc272c8b05c12c4fa687d7acd0e2e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i7JXvU4b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xpm6hym6agzpew9rpxg5.gif)
 
 <figcaption>There! You can see the bottom grows!</figcaption>
 
 好吧，他们是怎么做到的？我继续往下挖。
 
-[![dropdown3](../Images/4aa57f1ffabf622c27bd45e60e6f9971.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j8wzssQh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ivjhhvy6rl9hlwihi8ny.png)
+[![dropdown3](img/4aa57f1ffabf622c27bd45e60e6f9971.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j8wzssQh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ivjhhvy6rl9hlwihi8ny.png)
 
 <figcaption>Ah ha! The element starts off skewed.</figcaption>
 

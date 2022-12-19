@@ -4,7 +4,7 @@
 
 最近，我在 Twitter 上看到了这幅插图，它立刻引起了我的共鸣。这幅插图完美地捕捉到了我的感受和工作方式，以及我在角色中努力追求的目标。这是我希望我工作的每一家公司、每一位经理了解我的原因。
 
-[![Rebels at Work](../Images/93d907aa027736c4bcfcdd9e4175c827.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1vDuLvvY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3o6unmr69amcd2d6mfox.jpeg)
+[![Rebels at Work](img/93d907aa027736c4bcfcdd9e4175c827.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1vDuLvvY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3o6unmr69amcd2d6mfox.jpeg)
 
 我想为那些不仅理解我这样，而且积极支持和鼓励我努力的公司工作。我想为那些希望员工足够关心并提出改进建议和实施变革的公司工作。我总是希望我的团队、我的项目、我的领导尽可能做到最好，我真心喜欢投入工作来帮助他们取得成功。
 

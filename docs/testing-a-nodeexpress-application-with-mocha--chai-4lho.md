@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kiddeveloper/testing-a-nodeexpress-application-with-mocha--chai-4lho>
 
-[![alt text](../Images/b4b30068ff730f2bcfe4d8e558ec89a2.png "Testing A Node/Express Application With Mocha & Chai Image")](https://res.cloudinary.com/practicaldev/image/fetch/s--OoYw0PNT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/us2i7gtlfzhsj6wlcakg.jpeg) 
+[![alt text](img/b4b30068ff730f2bcfe4d8e558ec89a2.png "Testing A Node/Express Application With Mocha & Chai Image")](https://res.cloudinary.com/practicaldev/image/fetch/s--OoYw0PNT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/us2i7gtlfzhsj6wlcakg.jpeg) 
 你已经花费了大量的时间和精力编写了一个相当中等的应用程序，比如说一个大约 1000 行的代码库，并且你已经手动测试了这个应用程序以确保一切运行良好。你把你的代码推给 Github，有人决定为你的工作贡献他们自己的配额。他们推送他们的代码，创建一个拉取请求，然后你把它合并进去，现在你的应用程序不再运行，一切都坏了，这都是因为你合并进去的代码。换句话说，为了避免这种类型问题以及软件开发带来的更多问题，您需要将测试集成到您的工作流程中。
 
 测试要求你编写测试，覆盖软件可能接收的各种输入和相应的输出。这样你就可以确保应用程序完全按照你的预期运行，这可以防止很多错误。在新代码添加到您的代码库之前编写一个测试总是很重要的，这样您可以确保新代码不会给您的代码库带来任何错误，并且它还可以帮助您预先知道新代码是否会破坏您的代码库的任何部分。

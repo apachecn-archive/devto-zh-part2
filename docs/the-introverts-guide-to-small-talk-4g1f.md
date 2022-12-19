@@ -7,7 +7,7 @@
 闲聊是日常生活中非正式的闲聊。
 
 闲聊可能会感觉尴尬和怪异，因为它看起来像是没有明确和明显目的的谈话。但是它**有**的目的。闲聊填补了交谈中尴尬的空白，有助于为更深入的交谈和友谊铺平道路(如果需要的话)。
-[![The android Data miming a conversation](../Images/724cf410a1a8c39ba7c245431c1e23dc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SUvi2XbQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/GxilNld.gif) 
+[![The android Data miming a conversation](img/724cf410a1a8c39ba7c245431c1e23dc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SUvi2XbQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/GxilNld.gif) 
 闲聊对于办公室和会议中的人际交往至关重要。它是对话的多功能工具。
 
 它可以用来开始对话。

@@ -68,7 +68,7 @@ SharePoint 已经走过了漫长的道路，看到微软这些年来一直在平
 
 SharePoint 2019 与其前身的主要区别在于，它将包括 SharePoint Online 中已有的一些主要 UI 改进。其核心组成部分之一是现代团队网站。工作组网站一直是 SharePoint 中的主要协作工具，并将继续如此，但现在它提供了一种现代的、响应迅速的用户体验，允许用户在工作组和整个组织内轻松地协作和共享信息。这是一个新的现代团队网站的外观:
 
-[![](../Images/63375d0841f05524b6224264be8b973e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6TBn-ill--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blogit.create.pt/wp-content/uploads/2018/08/TeamSites.jpg%3Fresize%3D696%252C464%26ssl%3D1)
+[![](img/63375d0841f05524b6224264be8b973e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6TBn-ill--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blogit.create.pt/wp-content/uploads/2018/08/TeamSites.jpg%3Fresize%3D696%252C464%26ssl%3D1)
 
 SharePoint 2019 中的团队网站与 SharePoint Online 中的团队网站之间的一个主要区别是，它们在 Office 365 组中不受支持，因此无法利用 Office 365 中一些最酷的协作功能，例如:
 
@@ -80,13 +80,13 @@ SharePoint 2019 中的团队网站与 SharePoint Online 中的团队网站之间
 
 SharePoint 2019 将包含的现代体验的另一个主要部分是现代通信网站。虽然工作组网站都是关于协作，主要是人们在 SharePoint 列表和库上工作，并在他们之间共享信息，但通信网站都是关于用户参与，并有一种方法以一种参与的方式与整个部门或整个组织轻松共享相关信息。在团队站点中，大多数用户是活跃的贡献者，而在通信站点中，大多数用户将是消费者，将有一组有限的用户发布供部门或整个组织使用的信息。这是一个新的现代通讯网站的样子:
 
-[![](../Images/8f57c1234fee1427c90214f30e966613.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cmqtuoSk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blogit.create.pt/wp-content/uploads/2018/08/CommunicationSites.jpg%3Fresize%3D696%252C464%26ssl%3D1)
+[![](img/8f57c1234fee1427c90214f30e966613.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cmqtuoSk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/blogit.create.pt/wp-content/uploads/2018/08/CommunicationSites.jpg%3Fresize%3D696%252C464%26ssl%3D1)
 
 # 现代列表
 
 列表是 SharePoint 中的核心协作功能之一，允许用户以结构化的方式处理和共享信息，也允许来自外部系统的信息在 SharePoint 中呈现。现代列表将把 SharePoint Online 体验带入内部世界，允许用户以更丰富的用户体验与信息进行交互，可在多种设备和浏览器上使用。这是现代列表的样子:
 
-[![](../Images/e8af1f731c2639821f24983936792713.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Fe__TFuV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blogit.create.pt/wp-content/uploads/2018/08/ModernLists.jpg%3Fresize%3D696%252C464%26ssl%3D1)
+[![](img/e8af1f731c2639821f24983936792713.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Fe__TFuV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/blogit.create.pt/wp-content/uploads/2018/08/ModernLists.jpg%3Fresize%3D696%252C464%26ssl%3D1)
 
 其中一个主要优势是可以使用 SharePoint Online 中已有的[条件格式功能](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/column-formatting)轻松格式化列数据。将于今年晚些时候或 2019 年推出的其他主要改进:
 
@@ -98,7 +98,7 @@ SharePoint 2019 将包含的现代体验的另一个主要部分是现代通信�
 
 库是 SharePoint 中的另一个主要协作功能，允许用户处理文件(和添加元数据)并轻松地与组织中的其他同事共享。现代图书馆将带来 SharePoint Online 中已有的现代体验，并允许用户使用最新版本的 OneDrive for Business 轻松地将其文件与其计算机同步，从而允许用户离线工作，并在恢复在线后将文件同步到 SharePoint。这就是现代图书馆的样子:
 
-[![](../Images/0c06fb8b74673ee5bfd2f9c80a5c8efd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GXZNIZ1v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blogit.create.pt/wp-content/uploads/2018/08/ModernLibraries.jpg%3Fresize%3D696%252C464%26ssl%3D1)
+[![](img/0c06fb8b74673ee5bfd2f9c80a5c8efd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GXZNIZ1v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blogit.create.pt/wp-content/uploads/2018/08/ModernLibraries.jpg%3Fresize%3D696%252C464%26ssl%3D1)
 
 要更详细地阅读 SharePoint 2019 中包含的所有新功能，请单击[此处](https://blogit.create.pt/miguelisidoro/2018/11/01/meet-the-new-modern-sharepoint-server-sharepoint-2019-rtm-is-here/)。
 

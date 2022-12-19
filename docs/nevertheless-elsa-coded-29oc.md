@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/gonsie/nevertheless-elsa-coded-29oc>
 
-[![img](../Images/a2a891caadfbbbe82f230ed655fbdfce.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6SqP_7FN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.shopify.com/s/files/1/2321/9069/products/20180226_171958_740x.jpg) 
+[![img](img/a2a891caadfbbbe82f230ed655fbdfce.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6SqP_7FN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.shopify.com/s/files/1/2321/9069/products/20180226_171958_740x.jpg) 
 [*她坚持着*被 OGHMC 压住](https://oghmc.com)
 
 ## 我为什么码

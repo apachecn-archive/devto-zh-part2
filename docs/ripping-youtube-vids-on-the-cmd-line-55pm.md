@@ -27,7 +27,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 **更新**:
 
-[![zeerorg image](../Images/f1b8a54f0f2777d92875fb156363aa64.png)](/zeerorg)
+[![zeerorg image](img/f1b8a54f0f2777d92875fb156363aa64.png)](/zeerorg)
 
 ## [里沙布·笈多](/zeerorg) <button name="button" type="button" data-info="{&quot;id&quot;:50212,&quot;className&quot;:&quot;user&quot;,&quot;name&quot;:&quot;Rishabh Gupta&quot;,&quot;style&quot;:&quot;full&quot;}" class="crayons-btn follow-action-button whitespace-nowrap  " aria-label="Follow user: Rishabh Gupta">跟随</button>
 

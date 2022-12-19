@@ -4,7 +4,7 @@
 
 只需看一下下面给出的关于 Salesforce 的统计数据。你还怀疑 Salesforce 的未来吗？我想不会。
 
-[![Future of Salesforce](../Images/313f419bebb52f52e0a9cbcfe8e86f8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6Qjj8G7o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aiz9i5gfho9p8gi9f1ej.png)
+[![Future of Salesforce](img/313f419bebb52f52e0a9cbcfe8e86f8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6Qjj8G7o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aiz9i5gfho9p8gi9f1ej.png)
 
 CRM 世界正在以惊人的速度持续发展。信不信由你，但事实是，拥有 11 名以上员工的组织中，约有 91%正在使用 CRM 系统和工具。CRM 已经成为一种必需品。在这种越来越依赖 CRM 系统的趋势下，Salesforce 已经成为一种领先的工具。
 

@@ -10,7 +10,7 @@
 
 所以，你决定“把自己放在那里”？但是在你开始你的数字战略之前，重要的是要理解它的真正含义以及如何从中受益。
 
-[![digital transformation strategy statistics](../Images/baf10bb33d761e0b8e332fc273fb203f.png "digital transformation")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y_PL0PRf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://perfectial.com/wp-content/uploads/2017/06/Going-Digital-05.jpg)
+[![digital transformation strategy statistics](img/baf10bb33d761e0b8e332fc273fb203f.png "digital transformation")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y_PL0PRf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://perfectial.com/wp-content/uploads/2017/06/Going-Digital-05.jpg)
 
 [数字化转型](https://perfectial.com/blog/digital-transformation-strategy/)通常被视为将数字技术应用到所有业务领域，以建立更可持续的关系并更好地了解客户需求。
 
@@ -26,7 +26,7 @@
 
 数字化背后的逻辑是什么？最受欢迎的原因包括:
 
-[![Reasons to build digital transformation strategy](../Images/96207c1e0bc4d7bd92cd9a77c6537a92.png "digital transformation")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e0nJT72x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://perfectial.com/wp-content/uploads/2017/06/Going-Digital-010-010.jpg)
+[![Reasons to build digital transformation strategy](img/96207c1e0bc4d7bd92cd9a77c6537a92.png "digital transformation")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e0nJT72x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://perfectial.com/wp-content/uploads/2017/06/Going-Digital-010-010.jpg)
 
 数字化的主要好处是，如果你不在线，就好像你不存在一样。但是在这个过程中需要仔细的计划和策略。你的客户、现有的或潜在的员工都对最好的体验和机会感兴趣。企业别无选择，只能保持警惕，不断改进以吸引和留住他们。
 

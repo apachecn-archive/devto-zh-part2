@@ -155,7 +155,7 @@ void distanceIsTheSameIfMeasuredInBothDirections() {
 
 一个好主意是为它写一个测试，你认为呢？
 
-[![Screenshot of a map with a two points on it around the Fiji islands](../Images/8d35b9ea33abb377c1f1513bc80a62d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gGiFLG9c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h8fnrkw57iiz0k39a20s.jpg)
+[![Screenshot of a map with a two points on it around the Fiji islands](img/8d35b9ea33abb377c1f1513bc80a62d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gGiFLG9c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h8fnrkw57iiz0k39a20s.jpg)
 
 ```
 @test
@@ -236,7 +236,7 @@ void invalidLatitude1TooLittle() {
 
 你可以在这里看到并下载这个教程[的源代码。看看它，试着想出一些更有用的测试场景。](https://github.com/ice-lenor/ExampleUnitTests/)
 
-## ![GitHub logo](../Images/375dfcc32199b4dedf2b526645c27ff7.png)[ice-lenor](https://github.com/ice-lenor)/[ExampleUnitTests](https://github.com/ice-lenor/ExampleUnitTests)
+## ![GitHub logo](img/375dfcc32199b4dedf2b526645c27ff7.png)[ice-lenor](https://github.com/ice-lenor)/[ExampleUnitTests](https://github.com/ice-lenor/ExampleUnitTests)
 
 <article class="markdown-body entry-content p-5" itemprop="text">
 
@@ -275,7 +275,7 @@ void invalidLatitude1TooLittle() {
 
 这里有[一些后续阅读](https://dev.to/ice_lenor/unit-testing-best-practices-27ec)来学习单元测试中的最佳实践。
 
-[![ice_lenor image](../Images/80e605bb47e34b67e2c1fed0dc071b1b.png)](/ice_lenor) [## 单元测试:最佳实践
+[![ice_lenor image](img/80e605bb47e34b67e2c1fed0dc071b1b.png)](/ice_lenor) [## 单元测试:最佳实践
 
 ### Elena Mar 21 ' 186 分钟读数
 

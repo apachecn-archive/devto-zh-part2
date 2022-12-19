@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/alvarocavalcanti/readability-for-real---using-meaningful-names-for-database-queries-doc>
 
-[![Readability](../Images/d4de4038809d1538e3dca2b665506185.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nmzfTXBV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nhxqq6rplki35xzttfw2.png)
+[![Readability](img/d4de4038809d1538e3dca2b665506185.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nmzfTXBV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nhxqq6rplki35xzttfw2.png)
 
 # 可读性至关重要
 

@@ -9,7 +9,7 @@
 
 Openwhyd 是一个平台，音乐爱好者可以在这个平台上收集他们在 Youtube、Soundcloud、Bandcamp 和其他几个流媒体平台上找到的歌曲。它允许他们制作跨来源的播放列表，从他们的笔记本电脑或 iPhone 上播放，并与订阅了它们的其他音乐爱好者分享他们的发现。
 
-[![screenshot of my openwhyd profile](../Images/0b3868336530f670c30f9881eba9d60e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F1JLGtAn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l8kz1srasn617in3brht.png)
+[![screenshot of my openwhyd profile](img/0b3868336530f670c30f9881eba9d60e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F1JLGtAn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l8kz1srasn617in3brht.png)
 
 在幕后，Openwhyd 是一个由 Node.js 和 MongoDB 支持的 web 应用程序。这意味着我们必须每月向我们的主机提供商支付费用，以保持它在服务器上运行。(仅供参考，这需要 15 美元/月)
 
@@ -93,7 +93,7 @@ $ find whydJS/* -type f -maxdepth 0 | egrep -v "package\.json" | xargs rm
 $ find whydJS/public/* -maxdepth 0 | egrep -v "css|fonts|html|images|js|swf" | xargs rm -r
 
 # delete all folders from images/
-$ find whydJS/public/images/* -type d -maxdepth 0 | xargs rm -r
+$ find whydJS/publimg/* -type d -maxdepth 0 | xargs rm -r
 
 # delete all files from public/css, except a few ones
 $ find whydJS/public/css/* -maxdepth 0 | egrep -v "[^-]common|userPlaylistV2|userProfileV2" | xargs rm
@@ -133,7 +133,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 为此，我将在 Google Chrome 上打开[我的个人资料页面](https://openwhyd.org/adrien)，然后按`Cmd-S`将其保存为“简单的 HTML 文件”:
 
-[![saving my openwhyd profile page into a HTML file](../Images/650c71a56755eea5a29d069e6146432a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6e1pdyUu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m5sliwng4hwy08mpcdm6.png)
+[![saving my openwhyd profile page into a HTML file](img/650c71a56755eea5a29d069e6146432a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6e1pdyUu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m5sliwng4hwy08mpcdm6.png)
 
 当然，如果我试图在我的浏览器中打开那个下载文件，它看起来完全坏了，不可能从中播放曲目。这是因为所有对 JavaScript、CSS 和图像文件的引用都被破坏了。
 
@@ -173,7 +173,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，让我们在谷歌浏览器中打开`http://0.0.0.0:8000/my-openwhyd-profile-playlist.html`:
 
-[![screenshot of the HTML page of my openwhyd profile after opening it from my local server](../Images/95355c1c9fbb4278d77bcc5892f934f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SpnA1YDM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5m42tfhar8yuq293yq9k.png)
+[![screenshot of the HTML page of my openwhyd profile after opening it from my local server](img/95355c1c9fbb4278d77bcc5892f934f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SpnA1YDM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5m42tfhar8yuq293yq9k.png)
 
 正如你所看到的，UI 的一些元素看起来仍然是坏的，但是布局正在工作，你甚至可以通过点击它们来播放一些曲目！
 
@@ -233,7 +233,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 首先，使用我们最喜欢的代码编辑器，让我们将所有这些`<div>`元素剪切并粘贴到一个单独的 HTML 文件(例如`posts.html`)中，这样我们就可以在编写 Jekyll 模板时使用这些 HTML 代码作为示例。
 
-[![moving post divs from the playlist's html file to an external file](../Images/c5c733993e4af5d4d0b7f8ffd9a28be1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P4RQYge4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7nb38i0vsm1o4fnzkpls.png)
+[![moving post divs from the playlist's html file to an external file](img/c5c733993e4af5d4d0b7f8ffd9a28be1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P4RQYge4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7nb38i0vsm1o4fnzkpls.png)
 
 完成这个操作后，你的播放列表的 HTML 文件应该包含一个`<div class="posts">`元素，这个元素只包含了`<!-- TRACKS TAB CONTENT -->`注释。这就是我们现在要添加 Jekyll 模板的地方。
 
@@ -381,7 +381,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们来开`http://127.0.0.1:4000/my-openwhyd-profile-playlist.html`。
 
-[![screenshot of the Jekyll template failing to render](../Images/c50c5688c1b2c2a43e8c3a6d551f220a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uxROQApX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dff1qzrwhpfr374d26j8.png)
+[![screenshot of the Jekyll template failing to render](img/c50c5688c1b2c2a43e8c3a6d551f220a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uxROQApX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dff1qzrwhpfr374d26j8.png)
 
 好消息是我们的页面被 Jekyll 很好地服务了。坏消息是我们的模板无法渲染。看起来 Jekyll 没有解释 HTML 文件中的模板。
 
@@ -405,7 +405,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 正常情况下，`jekyll serve`命令应该已经检测到这种修改，并且当在 web 浏览器中打开/刷新`http://127.0.0.1:4000/my-openwhyd-profile-playlist.html`时，曲目列表应该从 JSON 文件中正确地呈现出来！
 
-[![jekyll is rendering the track list from our JSON file](../Images/8a9d218e2425d4012a8d14b4e5983ed4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5HCCyPRH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rkfj96tx0uikhlugsytu.png)
+[![jekyll is rendering the track list from our JSON file](img/8a9d218e2425d4012a8d14b4e5983ed4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5HCCyPRH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rkfj96tx0uikhlugsytu.png)
 
 干得好！
 

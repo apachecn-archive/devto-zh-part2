@@ -49,21 +49,21 @@
 
 它将出现在我在下图中突出显示的部分。
 
-[![Highlighted a section between the description and repository tabs](../Images/9fdf9309b4119e43db6e8c3842c3acd4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G-q0foO9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/submit-pr/github-auto-pr.png)
+[![Highlighted a section between the description and repository tabs](img/9fdf9309b4119e43db6e8c3842c3acd4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G-q0foO9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/submit-pr/github-auto-pr.png)
 
 如果你看到这条信息，那太好了。点击它。你会省去几个步骤。
 
 如果没有看到，可以点击 Github repo 顶部的 pull request 选项卡。
 
-[![The pull request tab](../Images/3620ed9573b96148cf3930c8fa33d68f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PIEc6w0y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/submit-pr/pull-request-tab.png)
+[![The pull request tab](img/3620ed9573b96148cf3930c8fa33d68f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PIEc6w0y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/submit-pr/pull-request-tab.png)
 
 然后，单击绿色按钮“新的拉取请求”。
 
-[![The green pull request button](../Images/8bceb6a0cd12b283595ce9ab0935c4bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vbi__FqK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/submit-pr/pull-request-new.png)
+[![The green pull request button](img/8bceb6a0cd12b283595ce9ab0935c4bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vbi__FqK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/submit-pr/pull-request-new.png)
 
 你会看到一个写着“比较变化”的页面。
 
-[![Choosing branches for the pull request](../Images/ab63b68743be6ebbd466e8f8f615d518.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kB1dC9xx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/submit-pr/pull-request-compare.png)
+[![Choosing branches for the pull request](img/ab63b68743be6ebbd466e8f8f615d518.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kB1dC9xx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/submit-pr/pull-request-compare.png)
 
 要创建拉取请求，您需要将基本分支和比较分支设置为以下内容:
 
@@ -74,25 +74,25 @@
 
 一旦你选择了你的分支，Github 会显示已经提交的列表。在这里，您需要做的是单击“创建拉动式请求按钮”。
 
-[![Setting base branch to master and compare branch to develop](../Images/9e01655b43f602bdb9a0504c72dee439.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jhG0LE-z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/submit-pr/pull-request-compare-2.png)
+[![Setting base branch to master and compare branch to develop](img/9e01655b43f602bdb9a0504c72dee439.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jhG0LE-z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/submit-pr/pull-request-compare-2.png)
 
 Github 会显示一个页面，上面写着“打开一个拉取请求”。
 
 注意:如果你看到我前面提到的“你的分支已经在 X 分钟前被更新”消息，这就是你要到达的页面。
 
-[![Open a pull request page](../Images/5846ceb0fae6f4f1f0bbc7f89250838e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vn-J0wcs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/submit-pr/pull-request-open.png)
+[![Open a pull request page](img/5846ceb0fae6f4f1f0bbc7f89250838e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vn-J0wcs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/submit-pr/pull-request-open.png)
 
 您写的标题将是人们在“拉取请求”选项卡中看到的标题。我们将把它设置为“向索引添加标题”。
 
 对于评论，这将是人们点击进入拉取请求时看到的第一条消息。在这种情况下，我们会说“我添加了一个标题。让我知道它好不好？”。
 
-[![Setting title and comments fro the pull request](../Images/56a637c224b7909897845655d8d50d06.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FjCu8Avg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/submit-pr/pull-request-open-2.png)
+[![Setting title and comments fro the pull request](img/56a637c224b7909897845655d8d50d06.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FjCu8Avg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/submit-pr/pull-request-open-2.png)
 
 添加标题和消息后，您可以单击页面底部的“创建拉式请求”按钮。
 
 现在，如果您单击顶部的“拉动请求”选项卡，您将看到一个我们刚刚提交的打开的拉动请求。
 
-[![Pull request opened](../Images/1f4bea67bc4edeb7737a51d2b14c8628.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7HyAcqc6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/submit-pr/pull-request-opened.png)
+[![Pull request opened](img/1f4bea67bc4edeb7737a51d2b14c8628.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7HyAcqc6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/submit-pr/pull-request-opened.png)
 
 如果您对存储库有写权限，这就是创建拉请求的方式。
 
@@ -125,13 +125,13 @@ Git 中的 fork 表示基于另一个库的库。
 
 要派生一个存储库，您可以点击存储库右上角的 fork 按钮。
 
-[![Forking a repository](../Images/ed6308e4db7d6259f1c3fd92286404f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8cK98va5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/submit-pr/na-fork.png)
+[![Forking a repository](img/ed6308e4db7d6259f1c3fd92286404f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8cK98va5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/submit-pr/na-fork.png)
 
 一旦分叉完成，您将看到一个看起来(几乎)与您分叉的存储库一模一样的存储库。但是有一点不同——如果您查看项目的标题，您可以看到该项目是从另一个存储库中派生出来的。
 
 您拥有对这个分叉存储库的写访问权限。
 
-[![The forked repository](../Images/96f51e2344e97764acede701d3f3e105.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N6M7b0Zt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/submit-pr/na-forked.png)
+[![The forked repository](img/96f51e2344e97764acede701d3f3e105.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N6M7b0Zt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/submit-pr/na-forked.png)
 
 当我们从一个分叉的存储库中提交一个 pull 请求时，我们会这样做:
 
@@ -159,7 +159,7 @@ Git 中的 fork 表示基于另一个库的库。
 
 现在，如果您返回到分叉的存储库，您应该能够看到一个名为“new pull request”的按钮。此按钮位于让您切换分支的按钮旁边。
 
-[![The pull request button on a forked repository](../Images/a314dc7354406c1a577a739bff610333.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4x_tdhQu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/submit-pr/na-pr-button.png)
+[![The pull request button on a forked repository](img/a314dc7354406c1a577a739bff610333.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4x_tdhQu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/submit-pr/na-pr-button.png)
 
 点击这个新的拉取请求按钮来创建一个拉取请求。
 
@@ -172,7 +172,7 @@ Github 会把你带到一个页面，上面写着“打开一个新的拉取请�
 3.  头叉
 4.  比较分支
 
-[![Comparing two repositories and two branches](../Images/691372a5f00bf7d09ef8a528f98bfe8a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FG3lTZ2o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/submit-pr/na-compare.png)
+[![Comparing two repositories and two branches](img/691372a5f00bf7d09ef8a528f98bfe8a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FG3lTZ2o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/submit-pr/na-compare.png)
 
 从上面的例子中，我们知道了两件事:
 
@@ -190,11 +190,11 @@ Github 会把你带到一个页面，上面写着“打开一个新的拉取请�
 
 接下来您需要做的是编写拉取请求标题，编写注释，然后单击 New Pull Request 按钮。
 
-[![Writing the pull request title](../Images/cd7183d48682d3d53946a9128f24be5c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P-CWBq44--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/submit-pr/na-open.png)
+[![Writing the pull request title](img/cd7183d48682d3d53946a9128f24be5c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P-CWBq44--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/submit-pr/na-open.png)
 
 并且您已经从一个分叉的存储库中提交了一个拉请求。
 
-[![Pull request opened](../Images/ec0e13eb67c308302019785da2541aa6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K7_RTIeR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/submit-pr/na-pr-opened.png)
+[![Pull request opened](img/ec0e13eb67c308302019785da2541aa6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K7_RTIeR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/submit-pr/na-pr-opened.png)
 
 ## 包装完毕
 

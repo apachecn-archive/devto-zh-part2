@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/extending-a-client-with-the-language-server-protocol-2o74>
 
-<figure>[![](../Images/57b7cd7f0466c38e01f2c23d4bb662e7.png)](https://microsoft.github.io/language-server-protocol/)
+<figure>[![](img/57b7cd7f0466c38e01f2c23d4bb662e7.png)](https://microsoft.github.io/language-server-protocol/)
 
 <figcaption></figcaption>
 
@@ -38,7 +38,7 @@ OmniSharp 项目相当成功。集成了所有已知的编辑器，如 vim、Sub
 
 如果这种集成可以标准化，OmniSharp 团队将只需要处理服务器部分，而不是处理所有不同的扩展。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/?cid=banner_a)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/?cid=banner_a)
 
 ### 语言服务器基础知识
 
@@ -83,7 +83,7 @@ OmniSharp 项目相当成功。集成了所有已知的编辑器，如 vim、Sub
 
 下面的序列图说明了这个基础层:
 
-<figure>[![](../Images/a429090cadebf3989c0c9b50ffe58c25.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1fa27qk_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AYOC-FnHyPhFOnoiSnpD9_g.png) 
+<figure>[![](img/a429090cadebf3989c0c9b50ffe58c25.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1fa27qk_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AYOC-FnHyPhFOnoiSnpD9_g.png) 
 
 <figcaption>语言服务器协议—基本消息流程</figcaption>
 
@@ -122,7 +122,7 @@ LSP 非常简单直接地回答了这些(以及类似的)问题:
 
 直观演示:
 
-<figure>[![](../Images/7480765d6d6c94cc559b08929e83de42.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LtFNdF----/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AcMtiMLIpW7SSqTQ5xqsNpQ.png) 
+<figure>[![](img/7480765d6d6c94cc559b08929e83de42.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LtFNdF----/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AcMtiMLIpW7SSqTQ5xqsNpQ.png) 
 
 <figcaption>语言服务器协议—悬停操作</figcaption>
 
@@ -139,7 +139,7 @@ LSP 非常简单直接地回答了这些(以及类似的)问题:
 
 事实上，对于前面显示的流，一个完整的(单个文档)流看起来更接近于:
 
-<figure>[![](../Images/879416f567cf42d5a16bcaba42bde73e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--26fvhv_7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AyV0-8W_KeP4OyXX3VyHD2Q.png) 
+<figure>[![](img/879416f567cf42d5a16bcaba42bde73e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--26fvhv_7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AyV0-8W_KeP4OyXX3VyHD2Q.png) 
 
 <figcaption>语言服务器协议—文档编辑流程示例</figcaption>
 
@@ -211,7 +211,7 @@ LSP 非常简单直接地回答了这些(以及类似的)问题:
 
 此图说明了扩展如何使不同的呈现器超越 VSCode 的电子层；通过 JSON-RPC 访问外部流程。
 
-<figure>[![](../Images/eb80a053bbd0e406c9877acdb8dcd481.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3a25vIfx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/471/1%2AdofgHuvKOqsHQdHr5e1HXw.png)
+<figure>[![](img/eb80a053bbd0e406c9877acdb8dcd481.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3a25vIfx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/471/1%2AdofgHuvKOqsHQdHr5e1HXw.png)
 
 <figcaption>vs code 扩展主机通信到 LSP 实例。</figcaption>
 
@@ -249,7 +249,7 @@ LSP 非常简单直接地回答了这些(以及类似的)问题:
 
 或者，通过 NPM 安装服务器或进行更熟练的磁盘搜索。关键的一点是服务器是独立启动的，因此需要自己的 *node_modules* 结构(以及其他东西)。
 
-<figure>[![](../Images/f23fe890a6b89ba60ef34a9933724fb8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mQGW2Kpv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/595/1%2A5FhYMB4PZvdZIw6SNzL4fg.png) 
+<figure>[![](img/f23fe890a6b89ba60ef34a9933724fb8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mQGW2Kpv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/595/1%2A5FhYMB4PZvdZIw6SNzL4fg.png) 
 
 <figcaption>成功悬停显示信息。</figcaption>
 
@@ -281,7 +281,7 @@ LSP 的知识不仅仅在学术意义上有价值。它可以在许多不同的�
 
 ### Plug: [LogRocket](http://logrocket.com) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

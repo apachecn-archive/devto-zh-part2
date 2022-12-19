@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nylas/nylas-api-contacts-crud-now-supports-icloud-2ch3>
 
-[![Contacts API](../Images/f6fd1c420740433d4cc18bdf669051f9.png)T2】](https://www.nylas.com/blog/nylas-api-contacts-crud-now-supports-icloud)
+[![Contacts API](img/f6fd1c420740433d4cc18bdf669051f9.png)T2】](https://www.nylas.com/blog/nylas-api-contacts-crud-now-supports-icloud)
 
 之前，我们 <u>[写过](https://www.nylas.com/blog/lessons-learned-syncing-800-million-contacts-to-our-database)</u> 关于我们发布 Contacts v2.0 升级的开发过程，该升级允许开发人员将通讯录(如 Gmail 联系人)中的联系人资料同步到具有完整 CRUD 功能的 SaaS 应用程序中。最初的版本允许开发者从 Gmail、微软 Exchange、Outlook.com 和 Office 365 账户同步联系人。
 
@@ -10,11 +10,11 @@
 
 **在**之前
 
-[![null](../Images/a5d5d352449534db48dec57486acfd90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mvwD2kVx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_179522ABF38A809781EC8AE8FF03D3C967C450F67739F5BA854697C9629F4D7A_1532631164280_Screen%2BShot%2B2018-07-26%2Bat%2B11.52.27%2BAM.png)
+[![null](img/a5d5d352449534db48dec57486acfd90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mvwD2kVx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_179522ABF38A809781EC8AE8FF03D3C967C450F67739F5BA854697C9629F4D7A_1532631164280_Screen%2BShot%2B2018-07-26%2Bat%2B11.52.27%2BAM.png)
 
 之后
 
- **[![null](../Images/3ff4ebb08ced8dc5357a06f3423443bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BRZIv8uL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_179522ABF38A809781EC8AE8FF03D3C967C450F67739F5BA854697C9629F4D7A_1532631041086_Screen%2BShot%2B2018-07-26%2Bat%2B11.50.17%2BAM.png)
+ **[![null](img/3ff4ebb08ced8dc5357a06f3423443bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BRZIv8uL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_179522ABF38A809781EC8AE8FF03D3C967C450F67739F5BA854697C9629F4D7A_1532631041086_Screen%2BShot%2B2018-07-26%2Bat%2B11.50.17%2BAM.png)
 
 在为 iCloud 集成 Contacts v2.0 时，我们遇到了一些挑战，包括多部分格式、类型映射以及一次性适应多部分格式和类型映射的代码库复杂性管理:
 
@@ -94,4 +94,4 @@ iCloud 实现的 <u>[vCard](https://en.wikipedia.org/wiki/VCard)</u> 格式是�
 
 我们很乐意让您尝试一下:前往我们的 <u>[API 文档](https://docs.nylas.com/reference#contacts-intro)</u> 或<u>[one](https://www.npmjs.com/package/nylas)</u><u>[of](https://www.npmjs.com/package/nylas)</u><u>[我们的](https://www.npmjs.com/package/nylas)</u>SDK 开始使用。
 
-[![](../Images/f7cf2b66a69fcf80649c37c5f5a7f166.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E-SsZnGo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://track.hubspot.com/__ptq.gif%3Fa%3D3314308%26k%3D14%26r%3Dhttps%253A%252F%252Fwww.nylas.com%252Fblog%252Fnylas-api-contacts-crud-now-supports-icloud%26bu%3Dhttps%25253A%25252F%25252Fwww.nylas.com%25252Fblog%26bvt%3Drss)**
+[![](img/f7cf2b66a69fcf80649c37c5f5a7f166.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E-SsZnGo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://track.hubspot.com/__ptq.gif%3Fa%3D3314308%26k%3D14%26r%3Dhttps%253A%252F%252Fwww.nylas.com%252Fblog%252Fnylas-api-contacts-crud-now-supports-icloud%26bu%3Dhttps%25253A%25252F%25252Fwww.nylas.com%25252Fblog%26bvt%3Drss)**

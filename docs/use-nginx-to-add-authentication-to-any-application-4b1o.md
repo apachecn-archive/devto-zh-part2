@@ -26,7 +26,7 @@
 
 `auth_request`模块位于互联网和 nginx 向其传递请求的后端服务器之间，每当有请求进来时，它首先将请求转发到一个单独的服务器，以检查用户是否经过身份验证，并使用 HTTP 响应来决定是否允许请求继续到后端。
 
-[![Flowchart illustrating the nginx auth_request module](../Images/47a2237f72821b809e52e5ab76c1f726.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Aq6FQAFd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/nginx-auth-request/nginx_auth_request-084b8c2075a5fe1d45ca2ab2d6438b70902f3d5da95b7d9e67c4e060b1ffb7c9.png)
+[![Flowchart illustrating the nginx auth_request module](img/47a2237f72821b809e52e5ab76c1f726.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Aq6FQAFd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/nginx-auth-request/nginx_auth_request-084b8c2075a5fe1d45ca2ab2d6438b70902f3d5da95b7d9e67c4e060b1ffb7c9.png)
 
 这个图展示了一个对服务器名`stats.avocado.lol`的请求。首先，nginx 向`login.avocado.lol` (1)发出一个子请求，如果对该请求的响应(2)返回 HTTP 200，它就继续将请求转发到后端`stats.avocado.lol.`
 
@@ -133,11 +133,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 您需要选择一个 OAuth 2.0 提供者来实际验证用户。在这个例子中，我们将使用 Okta，因为这是拥有一个完整的 OAuth/OpenID 连接服务器并能够从一个仪表板管理所有用户帐户的最简单的方法。在你完成配置文件的填写之前，你需要在 developer.okta.com/注册一个 Okta 开发者账户。创建帐户后，点击顶部菜单中的**应用**，创建一个新的应用。选择 **Web** 作为应用平台。
 
-[![Create a web application with Okta](../Images/fdd2f32f0c1669eef5634d4bf97bd2ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CGauv1yt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/nginx-auth-request/okta-create-app-a16ef6d91a90289f62f0b1ccd955b5e86e215d31c56e8be536485055d194eb86.png)
+[![Create a web application with Okta](img/fdd2f32f0c1669eef5634d4bf97bd2ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CGauv1yt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/nginx-auth-request/okta-create-app-a16ef6d91a90289f62f0b1ccd955b5e86e215d31c56e8be536485055d194eb86.png)
 
 在下一个屏幕中，您需要配置**基本 URI** 和**登录重定向 URI** ，以匹配您自己的服务器设置。Lasso 的重定向 URI 以`/auth`结束，所以你的配置应该看起来像下面的截图。
 
-[![Create a web application with Okta](../Images/917385af651a4d9fe4286dbcd2c9498f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BiPZRkW2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/nginx-auth-request/okta-configure-app-20a27af52e6acb17ae07596c298cd28c6c95342684faf94c2b1dcf15e8c6bb37.png)
+[![Create a web application with Okta](img/917385af651a4d9fe4286dbcd2c9498f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BiPZRkW2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/nginx-auth-request/okta-configure-app-20a27af52e6acb17ae07596c298cd28c6c95342684faf94c2b1dcf15e8c6bb37.png)
 
 一旦你完成了，Okta 会给你一个客户端 ID 和密码，你需要把它包含在配置文件中。
 

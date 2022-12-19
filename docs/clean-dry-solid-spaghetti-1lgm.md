@@ -28,7 +28,7 @@
 
 ## 干旱遇上荒地
 
-[![Desert](../Images/27810222c853058a951c8048c1491ca3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bWl34_3x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gdhmnh5po6c6fhh195bf.gif)
+[![Desert](img/27810222c853058a951c8048c1491ca3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bWl34_3x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gdhmnh5po6c6fhh195bf.gif)
 
 > 干:不要重复自己
 
@@ -46,7 +46,7 @@ SOLID 的“依赖倒置原则”也有同样的风险。我们可以将事情�
 
 我明白了。你想要一个*一尘不染的*代码库，谁能怪你呢？它看起来很舒服，让你看起来像一个名副其实的编程天才。然而，在清理的过程中，我们往往会犯一些可怕的错误。
 
-[![Vacuum Catches Fire](../Images/7fbd417c5242d9e18dca5c295d3dc9dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FeWuUwR8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8mjq22kr2feua7r4kaqc.gif)
+[![Vacuum Catches Fire](img/7fbd417c5242d9e18dca5c295d3dc9dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FeWuUwR8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8mjq22kr2feua7r4kaqc.gif)
 
 ### 评论太少
 
@@ -88,7 +88,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 当固体变成了愚蠢
 
-[![Hitting A Wall](../Images/675c499d87faffe0db7eaaccd8777c7a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yU1EDE0s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lcr9bx0x1wdvha48vto8.gif)
+[![Hitting A Wall](img/675c499d87faffe0db7eaaccd8777c7a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yU1EDE0s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lcr9bx0x1wdvha48vto8.gif)
 
 在面向对象编程中，坚实的原则非常有用。但是，都不能盲目套用。
 
@@ -114,7 +114,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## TDD:测试驱动的灾难
 
-[![Three Stooges Doing Chemistry](../Images/0f1d4d9998a82a906635930538a794b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BWydHMiX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ao4xjxrvlat1t7sj1qge.gif)
+[![Three Stooges Doing Chemistry](img/0f1d4d9998a82a906635930538a794b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BWydHMiX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ao4xjxrvlat1t7sj1qge.gif)
 
 老实说，任何能够为他们的测试管理 100%代码覆盖率的人都是天才。我不认为我接近了。然而，虽然我通常编写测试，但是我害怕采用 TDD 是有原因的:我已经看到太多的代码库在悬崖上跟随它。
 
@@ -134,7 +134,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 样式超过功能
 
-[![Pointless Lightsaber Twirling](../Images/7bb70dcb6232ab5c009cf619030dbf88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t2OZlx9r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h2hvodh9jk452o7g7lbh.gif)
+[![Pointless Lightsaber Twirling](img/7bb70dcb6232ab5c009cf619030dbf88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t2OZlx9r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h2hvodh9jk452o7g7lbh.gif)
 
 样式标准非常棒，它们让代码读起来更加愉快。然而，即使这样也可能走得太远。虽然我们应该遵循我们的风格标准，但是当可读性或可维护性要求时，我们需要准备好打破它们。这里有几个例子，以及它们揭示的原理:
 

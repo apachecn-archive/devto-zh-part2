@@ -109,6 +109,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 我希望我对你有用...我正在寻找建议，以更有效的方式管理这种情况！
 
-<center>![hug](../Images/f1be7541634f8836fed015de51315027.png)</center>
+<center>![hug](img/f1be7541634f8836fed015de51315027.png)</center>
 
 <center>Cya adventurers</center>

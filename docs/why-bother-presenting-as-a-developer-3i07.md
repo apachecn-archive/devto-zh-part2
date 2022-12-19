@@ -100,7 +100,7 @@
 
 既然我们已经将市场营销加入到等式中，我们可以为开发者生态系统衍生出新的物种。我们可以根据两个轴心来对他们进行分组——说话的和工作的。因此，我们有江湖骗子、殉道者和骗子。
 
-[![Charlatan, Martyr, Hustler](../Images/f63bacb5e8266a7ded60313e128f82b4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_GrP8XmY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://pmihaylov.com/wp-content/uploads/2018/06/Selection_030-1024x567.png) 摘自我的幻灯片:[https://speakerdeck.com/pmihaylov/presenting-as-a-developer](https://speakerdeck.com/pmihaylov/presenting-as-a-developer)。
+[![Charlatan, Martyr, Hustler](img/f63bacb5e8266a7ded60313e128f82b4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_GrP8XmY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://pmihaylov.com/wp-content/uploads/2018/06/Selection_030-1024x567.png) 摘自我的幻灯片:[https://speakerdeck.com/pmihaylov/presenting-as-a-developer](https://speakerdeck.com/pmihaylov/presenting-as-a-developer)。
 
 ## 江湖骗子
 

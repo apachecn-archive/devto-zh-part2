@@ -14,7 +14,7 @@
 
 我们首先需要在 Okta 开发人员仪表板中创建一个 OAuth 应用程序。在你账户的应用部分，点击**添加应用**，选择**网页**。(是的，我意识到这是违反直觉的，但是选择 **Web** 就是告诉 Okta 我们想要做 OAuth [授权代码流](https://dev.to/oktadev/what-is-the-oauth-20-authorization-code-grant-type-368m)。)您可以接受应用程序设置中的所有默认设置。
 
-[![Create an application on Okta](../Images/fcb8bcc4c303d9ac98fd9d066aa3baec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rGas2rpR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/oauth-2-command-line/create-app-e26389f3c54b648f687e07f380153ee1cd74f1c3b229e4c814eabab1d5775c4c.png)
+[![Create an application on Okta](img/fcb8bcc4c303d9ac98fd9d066aa3baec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rGas2rpR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/oauth-2-command-line/create-app-e26389f3c54b648f687e07f380153ee1cd74f1c3b229e4c814eabab1d5775c4c.png)
 
 点击**完成**，你将进入下一个屏幕，在那里你可以获得你的新客户 ID 和密码。复制这两个值并输入到下面的代码中，将它们添加到一个名为`login.php`的新 PHP 文件中。
 
@@ -182,13 +182,13 @@ $auth = startHttpServer($socket_str);
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Start the login from the command line](../Images/436d6aaad0e175c7d4e774883a0043db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rb0ueCTM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/oauth-2-command-line/start-login-b3babdb83ba4241fe5ca60267d2305f17d81a9f07b98ae22792af0f114a598c1.png)
+[![Start the login from the command line](img/436d6aaad0e175c7d4e774883a0043db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rb0ueCTM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/oauth-2-command-line/start-login-b3babdb83ba4241fe5ca60267d2305f17d81a9f07b98ae22792af0f114a598c1.png)
 
 ## 处理授权响应
 
 此时，用户登录后，他们的浏览器会被重定向到`http://127.0.0.1:8080/authorization-code/callback?code=XXXX&state=YYYY`。我们内置的 web 服务器将查看请求的 URL，并提取代码和状态参数。我们需要仔细检查 state 参数是否与我们在开始时设置的参数相匹配，然后我们就可以使用代码了。
 
-[![Handling the browser redirect](../Images/e03fca06192465e03e14ec7eb449f4e2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OckAQBBo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/oauth-2-command-line/browser-redirect-6171f9498f67d8418ffed7646fb627267f32300e4168a0a9af88a62d0f2f8024.png)T3】
+[![Handling the browser redirect](img/e03fca06192465e03e14ec7eb449f4e2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OckAQBBo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/oauth-2-command-line/browser-redirect-6171f9498f67d8418ffed7646fb627267f32300e4168a0a9af88a62d0f2f8024.png)T3】
 
 ```
 if($auth['state'] != $state) {
@@ -243,7 +243,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这会向令牌自省端点发出请求，以查找登录者的用户名，将其打印到终端，然后退出。
 
-[![Logged in on the command line](../Images/14baa503c76f023da9cef86ea63cc184.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uVO0L3tE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/oauth-2-command-line/logged-in-45a2aea29c703ce80d264c2d2275f7e81265b03235849a340d97e1a67abca8b6.png)
+[![Logged in on the command line](img/14baa503c76f023da9cef86ea63cc184.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uVO0L3tE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/oauth-2-command-line/logged-in-45a2aea29c703ce80d264c2d2275f7e81265b03235849a340d97e1a67abca8b6.png)
 
 就是这样！您可以打开一个终端，用下面的命令运行这段代码:
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/arleneandrews/100-days-of-code-websites--experience-2bd3>
 
-[![](../Images/bdcec9f3f17eb8c1594d95f3c83c4c7f.png)](https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6726719ee78dabe78033950d9f3f7145&auto=format&fit=crop&w=1350&q=80) 
+[![](img/bdcec9f3f17eb8c1594d95f3c83c4c7f.png)](https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6726719ee78dabe78033950d9f3f7145&auto=format&fit=crop&w=1350&q=80) 
 图片来自【https://unsplash.com/@markusspiske】T4|
 
 有时候，生活就是不按计划进行。像这篇文章，昨天就应该完成了。而且会很不稳定，因为他们现在似乎比平时更需要我。

@@ -4,7 +4,7 @@
 
 *最初发布于 [markentier.tech](https://markentier.tech) 的[推送、冲洗、重复、…](https://markentier.tech/posts/2018/03/push-rinse-repeat/)T5】*
 
-[![](../Images/1d8f9eac146b5e85d63860a81dd4e812.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gteqpEpc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://markentier.tech/posts/2018/03/push-rinse-repeat.png)
+[![](img/1d8f9eac146b5e85d63860a81dd4e812.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gteqpEpc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://markentier.tech/posts/2018/03/push-rinse-repeat.png)
 
 我已经很久没有启动博客或静态网站了。
 

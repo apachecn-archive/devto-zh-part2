@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bauripalash/how-to-start-web-development-on-android-2dj7>
 
-[![.](../Images/b664f6df0900500eb62e1e3780744a0c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kOCa-Oyu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://palash.tk/assets/images/webdevandroid.jpg)
+[![.](img/b664f6df0900500eb62e1e3780744a0c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kOCa-Oyu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://palash.tk/asseimg/webdevandroid.jpg)
 
 网络开发是一个趋势性的职业道路，有大量的就业机会。大多数人认为用电脑是不可能进行网络开发的。今天我们将了解如何在您的 Android 手机上开始网络开发。
 
@@ -10,7 +10,7 @@
 
 如果你没有台式机/笔记本电脑，但想开始网络开发，你并不孤单，几年前我也在同样的地方。那时候我有一部老式 J2ME 手机，但现在大多数人都有智能手机。如果你手里有一部 android 手机，脑子里有创造力，那就是我们用我们的 Android 手机开始网页开发之旅所需要的一切。
 
-[![Coding](../Images/6aea99ed58f386ef2e3539acc9774e7c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N4QhSSrG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif%3Fitemid%3D4903969)
+[![Coding](img/6aea99ed58f386ef2e3539acc9774e7c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N4QhSSrG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.cimg/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif%3Fitemid%3D4903969)
 
 我把这个指南分成了几个部分，所以对新手来说很容易。
 

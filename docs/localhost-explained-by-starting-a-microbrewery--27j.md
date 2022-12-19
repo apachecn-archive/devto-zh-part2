@@ -12,7 +12,7 @@
 
 当你想让一切更上一层楼时，你需要在一个仓库里租一个空间，准备运送几千瓶啤酒。系统的每个部分都需要为此做好准备。你需要一条真正的装瓶线，一个酿造用的大缸，一个接单的人，一辆配送用的大卡车。这是相同的一般功能-酿造你的啤酒-但准备为成千上万的顾客。
 
-[![](../Images/febe65dc4c04ed38740a2f602adee717.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DC9WK6k---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2Ao5lKCc1agNCw9q0O.)
+[![](img/febe65dc4c04ed38740a2f602adee717.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DC9WK6k---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2Ao5lKCc1agNCw9q0O.)
 
 ### 了解本地主机
 
@@ -20,7 +20,7 @@
 
 首先，让我们了解一下在你家酿造啤酒的所有环节。
 
-[![](../Images/a3d7b5a8982a46b8321487527b0ec018.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7kF2KZqv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AKaxH2fgLW_PxXQOF.)
+[![](img/a3d7b5a8982a46b8321487527b0ec018.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7kF2KZqv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AKaxH2fgLW_PxXQOF.)
 
 *   你需要正确的配料和正确的组合来完成你的食谱
 *   你需要购买适合你房子的设备
@@ -44,13 +44,13 @@
 服务器端(也包括你)基于服务器端代码创建啤酒，
 提交一个**响应**:几加仑的葡萄柚 IPA。是的，在这种情况下你是双方！
 
-[![](../Images/a88759eb28b3f0ae91cec6ff1d2ccc14.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KsQ5o6ge--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AxjfOBSzv_QX7mFuf.)
+[![](img/a88759eb28b3f0ae91cec6ff1d2ccc14.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KsQ5o6ge--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AxjfOBSzv_QX7mFuf.)
 
 我的意思是:您已经编写了客户端和服务器端代码，将 IPA 食谱转化为几加仑啤酒。而且，您可以完全控制原始请求。
 
 我们从技术角度来看。
 
-[![](../Images/9867106102e8f25aec70b6e93ba7b86f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QlxwSgnB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AW2zGft0SmY6EEAbh.)
+[![](img/9867106102e8f25aec70b6e93ba7b86f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QlxwSgnB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AW2zGft0SmY6EEAbh.)
 
 虽然我让客户端作为浏览器出现，但它显然与服务器在同一台笔记本电脑或台式机上！因为你发出请求…并且你写了服务器端的代码…这一切都发生在同一台机器上。
 
@@ -72,7 +72,7 @@
 
 因此，如果你在浏览器中输入 [http://localhost:3000](http://localhost:3000/) ，下面是你的电脑上发生的事情:
 
-[![](../Images/3a81ec067677774ef26e1bc155cc5d2e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZXCZcqMh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AUljl3uwvosx5Gf-S.)
+[![](img/3a81ec067677774ef26e1bc155cc5d2e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZXCZcqMh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AUljl3uwvosx5Gf-S.)
 
 1.  Http://表示这是一个 Http 请求
 2.  Localhost 指向 IP 地址 127.0.0.1，这意味着我们需要查看我们自己的计算机
@@ -84,7 +84,7 @@
 
 假设您现在想要批量生产所有三种配方。你需要在仓库里租一个空间，购买一些专业设备，并准备好处理更多的需求。
 
-[![](../Images/d45a6d20300bf288cb38e96015df6d39.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zNbhj6BQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AGyvB2r_lWRbRiTtp.)
+[![](img/d45a6d20300bf288cb38e96015df6d39.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zNbhj6BQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AGyvB2r_lWRbRiTtp.)
 
 将会发生两大变化。
 
@@ -93,11 +93,11 @@
 
 假设您有 100 名客户订购了 6 包柚子 IPA。这是它的样子。
 
-[![](../Images/4cb3397ec879d816050b0b8f45835842.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iyiuiK2E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2ALjdZu2yaFR60FVHB.)
+[![](img/4cb3397ec879d816050b0b8f45835842.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iyiuiK2E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2ALjdZu2yaFR60FVHB.)
 
 这就好比一个网站上有 100 个访问者提交一个**请求**，然后你的服务器给每个人发送一个**响应**。
 
-[![](../Images/1bb72e6c76d9d362a16fcdf3f8a39824.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pxQQNQwX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AyEAuTFscPsboDmwO.)
+[![](img/1bb72e6c76d9d362a16fcdf3f8a39824.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pxQQNQwX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AyEAuTFscPsboDmwO.)
 
 假设你的域名是*mybrewery.com*。当这 100 个网站访问者在他们的浏览器中输入时，他们会连接到一个特定的服务器，该服务器的 IP 地址是**并托管该网站。然后，服务器向他们各自的浏览器发送适当的响应。
 
@@ -122,7 +122,7 @@
 
 幸运的是，您现在可以租用服务器内的容量！服务器运行允许它们被分区的软件，并在**容器**中运行应用程序。这有点像租用仓库的一部分来启动你的酿酒厂。
 
-[![](../Images/1d52df8f7fc22da1b7f46f8c70976f92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Tqi8RqcS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2ACymSv1WLo_SuL8Ni.)
+[![](img/1d52df8f7fc22da1b7f46f8c70976f92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Tqi8RqcS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2ACymSv1WLo_SuL8Ni.)
 
 Heroku 称他们的容器为“ [dynos](https://www.heroku.com/dynos) ”。比如说，你的微酿啤酒只有 100 份订单，就像上面的例子一样。你只需要租仓库的一小部分。但是，如果需求突然暴涨，你现在需要每周生产 1000 份订单，你就需要扩大经营规模。您可以很容易地在服务器中租用更多的**容器**来满足这种需求。而且，由于它是虚拟空间，您可以快速扩展，这与租用物理空间不同。因此，您不需要去租一台全新的服务器并进行配置。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/_maimart_/replicate-immutable-data-in-typescript-with-the-replicationbuilder-4ah3>
 
-[![ReplicationBuilder Demo](../Images/2f14f5270af341e2a6abed1857387457.png "ReplicationBuilder Demo")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QEU1qE9W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://maimart.de/wp-content/uploads/2018/07/ReplicationBuilder.gif)
+[![ReplicationBuilder Demo](img/2f14f5270af341e2a6abed1857387457.png "ReplicationBuilder Demo")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QEU1qE9W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://maimart.de/wp-content/uploads/2018/07/ReplicationBuilder.gif)
 
 ReplicationBuilder 是一个类型脚本工具，以一种类型安全、可重构和可读性良好的方式克隆不可变的数据对象。
 
@@ -60,11 +60,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 #### 类型安全属性
 
-[![](../Images/afa838d23c6851a99488d779070cb37c.png)T2】](http://maimart.de/wp-content/uploads/2018/07/typescript_immutable_helper_invalidProperty.png)
+[![](img/afa838d23c6851a99488d779070cb37c.png)T2】](http://maimart.de/wp-content/uploads/2018/07/typescript_immutable_helper_invalidProperty.png)
 
 #### 键入安全属性值
 
-[![](../Images/864c49857327d5f6d254c5682ed5c2d1.png)T2】](http://maimart.de/wp-content/uploads/2018/07/typescript_immutable_helper_invalidValue.png)
+[![](img/864c49857327d5f6d254c5682ed5c2d1.png)T2】](http://maimart.de/wp-content/uploads/2018/07/typescript_immutable_helper_invalidValue.png)
 
 #### 可链接
 
@@ -99,6 +99,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 演示
 
-[![ReplicationBuilder Demo](../Images/2f14f5270af341e2a6abed1857387457.png "ReplicationBuilder Demo")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QEU1qE9W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://maimart.de/wp-content/uploads/2018/07/ReplicationBuilder.gif)
+[![ReplicationBuilder Demo](img/2f14f5270af341e2a6abed1857387457.png "ReplicationBuilder Demo")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QEU1qE9W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://maimart.de/wp-content/uploads/2018/07/ReplicationBuilder.gif)
 
 最初发布于 [http://maimart.de](http://maimart.de)

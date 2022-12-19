@@ -4,13 +4,13 @@
 
 ### 航空公司网站不关心你的隐私后续:阿联酋航空公司全面否认我的文章
 
-[![](../Images/8d1599917951f65d937507bd58f8a53f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ir_yimim--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/1%2AETvXCCF1aTIj9Kial1iOhQ.jpeg)
+[![](img/8d1599917951f65d937507bd58f8a53f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ir_yimim--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/1%2AETvXCCF1aTIj9Kial1iOhQ.jpeg)
 
 昨天, [The Register](https://www.theregister.co.uk/2018/03/05/emirates_dinged_for_slipshod_privacy_practices/) 写了我在[上曝光的航空公司网站](https://medium.freecodecamp.org/how-airlines-dont-care-about-your-privacy-case-study-emirates-com-6271b3b8474b)的隐私漏洞。
 
 当我上周五发表我的原创文章时，阿联酋航空没有回应我的置评请求。但阿联酋航空公司对登记册作出了回应，声明如下:
 
-<figure>[![](../Images/0fa07dec785ba1769e42ae4a3d2462f4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PZRAyQty--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A-EluBUYGCYv9ogJfi6jZSQ.png) 
+<figure>[![](img/0fa07dec785ba1769e42ae4a3d2462f4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PZRAyQty--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A-EluBUYGCYv9ogJfi6jZSQ.png) 
 
 <figcaption>来自阿航对 theregister.co.uk 的评论</figcaption>
 
@@ -30,7 +30,7 @@
 
 在其[隐私政策](https://www.emirates.com/english/sitetools/privacy_policy.aspx#)中，阿联酋航空强调了保护预订参考信息的重要性:
 
-<figure>[![](../Images/2a487ff8acacf5700a686bfb3dd3b52d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OCwD7x8h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AKiEsEa0j0w0D0U8GQKAk6Q.png) 
+<figure>[![](img/2a487ff8acacf5700a686bfb3dd3b52d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OCwD7x8h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AKiEsEa0j0w0D0U8GQKAk6Q.png) 
 
 <figcaption>隐私政策凸显共享预订的风险参考号。</figcaption>
 
@@ -38,7 +38,7 @@
 
 **2018 年 3 月 8 日更新:**另一个证据表明，阿联酋航空似乎忘记了听从自己的建议*“保管好您的预订参考资料”*，并且**仍在**通过**键将它从移动应用程序发送到谷歌分析:cd8** (未屏蔽)。我已经屏蔽了图片中的字段，以确保隐私。
 
-<figure>[![](../Images/defbb094bb3b96bf04ca5210b9419e0a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8xKTLXza--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AfaUTkAeDhF9XCCplJ8kcgA.png) 
+<figure>[![](img/defbb094bb3b96bf04ca5210b9419e0a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8xKTLXza--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AfaUTkAeDhF9XCCplJ8kcgA.png) 
 
 <figcaption>通过字段 cd8 向 Google-Analytics 发送 PNR。</figcaption>
 
@@ -72,13 +72,13 @@ Emirates.com 和阿联酋移动应用程序版本(6.1.0)都允许访问他们的
 
 阿联酋航空表示，*“客户可以通过阅读我们在 emirates.com 上的隐私政策，了解我们如何使用个人数据以及他们如何选择退出的更多信息”*
 
-<figure>[![](../Images/0857d46a91d8de6abcbe47a71e10768e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ebNp1kh8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A7okL7KeRkSJAEq23ho92jQ.png) 
+<figure>[![](img/0857d46a91d8de6abcbe47a71e10768e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ebNp1kh8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A7okL7KeRkSJAEq23ho92jQ.png) 
 
 <figcaption>隐私政策页面上列出的第三方。</figcaption>
 
 </figure>
 
-<figure>[![](../Images/8f0ba5583d6d5b67d67e786e328fa385.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--t24n0SfV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AgmN-wKtj2Q8MsqihEncAUA.png) 
+<figure>[![](img/8f0ba5583d6d5b67d67e786e328fa385.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--t24n0SfV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AgmN-wKtj2Q8MsqihEncAUA.png) 
 
 <figcaption>第三方实际到场。</figcaption>
 
@@ -92,7 +92,7 @@ Emirates.com 和阿联酋移动应用程序版本(6.1.0)都允许访问他们的
 
 3.  基于用户居住的国家，选择退出的选项是有偏见的。如果你是欧盟的居民，你可以使用此链接选择退出。如果你是美国居民，这是选择退出的链接。但是如果你是任何其他地区的居民，我很抱歉地告诉你，你被少找了钱。
 
-[![](../Images/359feed3a17bd0638fdba3f5ddf57f56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mXCxRKPc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWChlUO-o_SajAjHIXEHObw.png)
+[![](img/359feed3a17bd0638fdba3f5ddf57f56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mXCxRKPc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWChlUO-o_SajAjHIXEHObw.png)
 
 1.  选择退出 cookies 不会对文章中强调的数据泄露产生任何影响，因为推荐人没有被清理。任何有基本技术知识的人都可以证实这一点。
 

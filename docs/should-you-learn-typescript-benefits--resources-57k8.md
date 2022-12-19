@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/couellet/should-you-learn-typescript-benefits--resources-57k8>
 
-[![Should You Learn TypeScript? (Benefits & Resources)](../Images/3599738e9c1b2caddc013c039e7b1e50.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1dlE-RYq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203922/learn-typescript.png)
+[![Should You Learn TypeScript? (Benefits & Resources)](img/3599738e9c1b2caddc013c039e7b1e50.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1dlE-RYq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203922/learn-typescript.png)
 
 作为一名 JavaScript 开发人员，需要时刻保持警惕。
 
@@ -37,7 +37,7 @@ TypeScript 是 JavaScript 的静态类型超集，它编译成普通 JavaScript�
 
 换句话说，**是 JavaScript 扩展了**。
 
-[![learn-typescript](../Images/3599738e9c1b2caddc013c039e7b1e50.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1dlE-RYq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203922/learn-typescript.png)
+[![learn-typescript](img/3599738e9c1b2caddc013c039e7b1e50.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1dlE-RYq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203922/learn-typescript.png)
 
 但是要真正理解它的含义，我们首先必须追溯 JavaScript 的发展。实际上，我们必须记住 JS 的初衷是什么。
 

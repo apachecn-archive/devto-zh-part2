@@ -4,7 +4,7 @@
 
 这是我的“开发聊天”系列中的一篇文章，在这篇文章中，我大约每周都会与一位出色的开发人员或技术人员交谈。你可以在这里阅读更多。如果你觉得这些对你有用，请在评论中告诉我！
 
-[![Carolyn Saund, life-long guac enthusiast.](../Images/13b18c23ac0faf3c4d621c09193a0fcd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D3tD5ZtZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/59c5f42318b27d6b848d733b/1506145341914/IMG_6059.JPG%3Fformat%3D1000w)
+[![Carolyn Saund, life-long guac enthusiast.](img/13b18c23ac0faf3c4d621c09193a0fcd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D3tD5ZtZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/59c5f42318b27d6b848d733b/1506145341914/IMG_6059.JPG%3Fformat%3D1000w)
 
 Carolyn Saund，终身 guac 爱好者。
 

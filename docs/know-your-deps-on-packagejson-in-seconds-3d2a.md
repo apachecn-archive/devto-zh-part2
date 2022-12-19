@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/uetchy/know-your-deps-on-packagejson-in-seconds-3d2a>
 
-[![screenshot](../Images/b6cfd30989e1dc269879c331b019d233.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fBiDB77a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://uetchy.github.io/npm-deps-list/screen.png)
+[![screenshot](img/b6cfd30989e1dc269879c331b019d233.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fBiDB77a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://uetchy.github.io/npm-deps-list/screen.png)
 
 你如何知道项目/库依赖于哪些包，这些包到底是做什么的？
 你会想要快速地对它们进行调查。所以 [npm-deps-list](https://github.com/uetchy/npm-deps-list) 来了。

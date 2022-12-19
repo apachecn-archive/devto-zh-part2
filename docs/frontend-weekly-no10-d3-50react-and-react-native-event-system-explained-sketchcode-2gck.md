@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/wxyyxc1992/frontend-weekly-no10-d3-50react-and-react-native-event-system-explained-sketchcode-2gck>
 
-[![周报封面 56.jpg](../Images/c517d2750ea9e9e929583a1665a1cbea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z6ufiTu1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://upload-images.jianshu.io/upload_images/1647496-b6ba72596e038da7.jpg%3FimageMogr2/auto-orient/strip%257CimageView2/2/w/1240)
+[![周报封面 56.jpg](img/c517d2750ea9e9e929583a1665a1cbea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z6ufiTu1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://upload-images.jianshu.io/upload_images/1647496-b6ba72596e038da7.jpg%3FimageMogr2/auto-orient/strip%257CimageView2/2/w/1240)
 
 与前端开发相关的最佳文章、链接和新闻等，每周发布一次。本期所有参考资料均来自[媒体](https://medium.com/@384924552)、[黑客新闻](https://news.ycombinator.com/news)、 [Reddit](//reddit.com) 、 [Twitter](//twitter.com) 、 [MyBridge](//mybridge.co) 等。
 

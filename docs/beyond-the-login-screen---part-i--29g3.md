@@ -4,11 +4,11 @@
 
 最近我看到了这条推特，
 
-> ![██ Oliver █ L██████ profile image](../Images/94e4af3c3bef82a35df293db563b9e4f.png)██·奥利弗·█l██████@ ee y0 re![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)如果你在收集个人数据，“我该如何保护这些数据？”实际上是你的第三个问题。
+> ![██ Oliver █ L██████ profile image](img/94e4af3c3bef82a35df293db563b9e4f.png)██·奥利弗·█l██████@ ee y0 re![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)如果你在收集个人数据，“我该如何保护这些数据？”实际上是你的第三个问题。
 > 
 > “我该不该收这个？”只是第二个问题。
 > 
-> 第一个问题是“最坏的人如果得到这个会做什么？”2018 年 03 月 04 日上午 03:49[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=970144255745212416)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=970144255745212416)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=970144255745212416)
+> 第一个问题是“最坏的人如果得到这个会做什么？”2018 年 03 月 04 日上午 03:49[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=970144255745212416)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=970144255745212416)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=970144255745212416)
 
 这条推文让我想到，个人数据即使是多么微不足道，在错误的人手中也会很危险。但是我们能停止收集用户的数据吗？我们能肯定地说我们正在建立的系统是不可渗透的吗？
 
@@ -16,7 +16,7 @@
 
 让我们不要非常贪婪地要求用户一次提供所有数据。
 
-[![](../Images/f5c0628b4af58b85c596288a98eed6b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--058NFlED--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/izfgmkdmn4w11rtz0ocj.gif)
+[![](img/f5c0628b4af58b85c596288a98eed6b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--058NFlED--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/izfgmkdmn4w11rtz0ocj.gif)
 
 我认为我们也可以应用精益原则从用户那里收集数据，只在我们需要的时候才询问用户的数据，当然还要解释是什么和为什么。
 

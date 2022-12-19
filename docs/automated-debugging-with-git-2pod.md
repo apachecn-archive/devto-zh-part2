@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/svettwer/automated-debugging-with-git-2pod>
 
-[![](../Images/1798b9cc47ddaf12392db21fa16376f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m2w46_Ll--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0zfijln81q2uf624mlz9.png)
+[![](img/1798b9cc47ddaf12392db21fa16376f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m2w46_Ll--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0zfijln81q2uf624mlz9.png)
 
 想象你正在一个复杂的软件中开发一个更大的特性。您的实现已经完成，范围内的所有测试都变成了绿色，您可以将您的更改进行集成测试了。然后，来自一个完全不同的模块的一些集成测试失败了，并且您不知道是什么变化导致了这种情况。现在你开始分析问题。手动探查您的提交肯定会导致一个非常乏味的过程。谢天谢地，git 可以帮你做所有的工作，而你却可以享受一杯咖啡。
 
@@ -23,14 +23,14 @@
 *使用二分搜索法找到引入 bug 的提交。*
 
 这意味着什么呢？
-[![](../Images/7062cbb4113ee8568ddf0850663d4f4b.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--oe7N02g5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r6x5ao18ihip8mhzv9kx.png)
+[![](img/7062cbb4113ee8568ddf0850663d4f4b.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--oe7N02g5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r6x5ao18ihip8mhzv9kx.png)
 
 假设您有一堆提交，并且您知道，在某些时候，您的软件是没问题的。现在，你的软件坏了，这意味着，你在开发过程中的某个地方引入了一个错误。`git bisect`所做的是，它通过测试由二分搜索法选择的特定提交，将修订图分为*好的*部分和*坏的*部分。基于测试的结果，git 向中断的提交导航。经过几次迭代后，git 将能够识别引入问题的修订。
 
 ### 基本 git 平分工作流程
 
 `git bisect`的工作流程包括两个主要步骤。首先，你必须指定一个修订范围，由一个*好的*和一个*坏的*修订限定。这些修订可以作为修订哈希、标签或任何其他 git 修订选择器来引用。第二步，平分过程开始，git 自动执行第一个修订的检验以进行测试。将测试结果传回 git 后，如果成功，执行`git bisect good`,如果失败，执行`git bisect bad`,将选择下一个版本。将重复第二步，直到找到第一个损坏的修订。
-[![](../Images/7214a7cb07866fac35fcb7d0d5a9367a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FWGnMM4l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o4ts34nkm5blcgg2fbc6.png)
+[![](img/7214a7cb07866fac35fcb7d0d5a9367a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FWGnMM4l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o4ts34nkm5blcgg2fbc6.png)
 
 ## 手动 git 等分
 
@@ -49,7 +49,7 @@ mvn -f ./cake-factory/pom.xml clean install
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/0bd9de30e5b22f8051d5b98ac2e7e2f3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Msl3rkKA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ya206dpbq4jxcry18n64.png) 
+[![](img/0bd9de30e5b22f8051d5b98ac2e7e2f3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Msl3rkKA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ya206dpbq4jxcry18n64.png) 
 你会认出来，那次打造并不成功，是因为一次失败的[柑橘](http://citrusframework.org/)整合测试。现在，让我们找出，我们在哪里引入了这个 bug。
 
 如工作流所示，我们必须首先设置平分场景。因此，我们必须找到一个*好的*和一个*坏的*版本来定义分析的边界。这两个版本都很容易找到。*好的*版本很可能是你分支的版本。坏的版本是 HEAD，因为你的测试现在失败了。然而，在我们的例子中，我们将使用两个来自存储库的准备好的标签 *stable* 和 *broken* 。
@@ -71,7 +71,7 @@ git bisect start broken stable # start the procedure and label the *good* and *b
 Enter fullscreen mode Exit fullscreen mode
 
 现在，您的二等分已经开始，git 已经选择了一个 commit 来测试，并提供了 commit 消息以及对所需迭代的估计。
-[![](../Images/a7b431090b69f6c1787ad9924b5334ae.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--iECy_HYK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4om9i3rtdqhsti0r1d3h.png)
+[![](img/a7b431090b69f6c1787ad9924b5334ae.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--iECy_HYK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4om9i3rtdqhsti0r1d3h.png)
 
 到目前为止，您应该已经想出了一个测试策略来确定问题的根本原因。在我们的例子中，集成测试失败了。因此，我们将调试工作集中在集成测试上。通过设置属性`skip.unit.test=true`，cake-factory 的设置允许我们跳过单元测试，直接开始集成测试。
 
@@ -81,7 +81,7 @@ mvn clean verify -f ./cake-factory/pom.xml -Dskip.unit.tests=true
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/10cdc5bb0ef29aaaafd20daa3b1ca26a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BNaDw5xJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4hwha3x7hh5jtl6lloxe.png) 
+[![](img/10cdc5bb0ef29aaaafd20daa3b1ca26a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BNaDw5xJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4hwha3x7hh5jtl6lloxe.png) 
 在这个版本中，一切正常，构建成功。现在我们必须向 git
 报告这个结果
 
@@ -93,10 +93,10 @@ git bisect good # tells git that the current revision is okay
 Enter fullscreen mode Exit fullscreen mode
 
 根据我们的报告，git 选择了下一个版本进行检查。
-[![](../Images/ddb06be59cbe116df70dbb85e8669ff0.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--3upKOohN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vp3wwglhk2a6n9vx9gop.png)
+[![](img/ddb06be59cbe116df70dbb85e8669ff0.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--3upKOohN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vp3wwglhk2a6n9vx9gop.png)
 
 现在你必须重复测试和报告程序。经过一些迭代后，您会发现下面的提交导致了问题。
-[![](../Images/c40164067b69449f8da521a40af6b458.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2nKsZ11c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u668g59o1arvqhsphicn.png) 
+[![](img/c40164067b69449f8da521a40af6b458.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2nKsZ11c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u668g59o1arvqhsphicn.png) 
 记下中断提交的修订散列，不要忘记关闭您的等分会话。
 
 ```
@@ -106,7 +106,7 @@ git bisect reset
 Enter fullscreen mode Exit fullscreen mode
 
 如果您查看该版本的代码，您会发现由 cake 服务交付的默认 cake 已经被更改为提交消息中所述的 *vanilla* ，但是集成测试还没有被修改。
-T3![](../Images/99b460e1c039d5e12525d09664696917.png)T5】
+T3![](img/99b460e1c039d5e12525d09664696917.png)T5】
 
 ## 自动 git 二等分
 
@@ -153,7 +153,7 @@ git bisect run mvn clean verify -f ./cake-factory/pom.xml -Dskip.unit.tests=true
 Enter fullscreen mode Exit fullscreen mode
 
 当这个过程完成后，git 将向您显示第一个错误的提交，这是从手动部分得知的。
-[![](../Images/b2e6aa57cc29e9b432320220d8981c25.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--M_iN_p9o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/brb23h73q7ogaojkpecf.png)
+[![](img/b2e6aa57cc29e9b432320220d8981c25.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--M_iN_p9o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/brb23h73q7ogaojkpecf.png)
 
 ## 提示和窍门
 
@@ -169,7 +169,7 @@ git bisect run mvn clean verify -f ./cake-factory/pom.xml
 Enter fullscreen mode Exit fullscreen mode
 
 现在`git bisect`将对每一个失败的单元测试做出反应。这也导致了一个结果，但它与我们要寻找的问题的根本原因没有任何关系。
-[![](../Images/1ced2473829f5369c98ec64802325127.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Qzo5Jl_L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eem9nba39j6q64xlorp4.png)
+[![](img/1ced2473829f5369c98ec64802325127.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Qzo5Jl_L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eem9nba39j6q64xlorp4.png)
 
 ### 明智地设置您的测试场景
 

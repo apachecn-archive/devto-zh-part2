@@ -6,7 +6,7 @@
 
 队列是一个简单的数据结构概念，可以很容易地应用到我们的日常生活中，比如你在星巴克排队买咖啡。让我们根据这个例子做一些观察:
 
-[![Queue](../Images/10f8348cd7215d0eabb4b64c33d4b30a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L_PcpqSM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0x1l1l0t3qxuv1hn37wm.png)
+[![Queue](img/10f8348cd7215d0eabb4b64c33d4b30a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L_PcpqSM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0x1l1l0t3qxuv1hn37wm.png)
 
 ## 现在，让我们以编程的方式来看以上几点:
 

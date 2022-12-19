@@ -22,7 +22,7 @@
 
 市场上有几种工具用于静态代码分析。在我们选择一个之前，我们需要考虑我们的需求。我们把 Google 表单和我们认为重要的类别放在一起:成本、运行环境、行内注释、语言支持和文档。
 
-[![Screenshot of the decision matrix for choosing a static code analysis tool](../Images/b53c15b388566d9be1c4894b50001ce9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qv8jLXt0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/av0j61jz4w6csqlbzpzr.png)
+[![Screenshot of the decision matrix for choosing a static code analysis tool](img/b53c15b388566d9be1c4894b50001ce9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qv8jLXt0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/av0j61jz4w6csqlbzpzr.png)
 
 **成本:**我们不一定有固定的预算，但如果我们需要在两种工具之间做出选择，它有可能成为决定性因素。
 

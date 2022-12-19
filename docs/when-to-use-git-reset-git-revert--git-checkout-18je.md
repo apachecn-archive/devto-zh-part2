@@ -52,7 +52,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 *结果:*您已成功撤销已提交的更改！旧提交中更改的所有内容都将被新提交还原。 *Git 强迫你提交或者[隐藏](https://kolosek.com/git-stash/)工作目录中的任何更改，这些更改将在签出时丢失。*
 
-[![git-revert](../Images/2f6d533dd2b5f0debd1fc042de26776e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jatxl5-W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/782bf25d88e360df15ef96d84d872181/git-revert.png)
+[![git-revert](img/2f6d533dd2b5f0debd1fc042de26776e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jatxl5-W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/782bf25d88e360df15ef96d84d872181/git-revert.png)
 
 > 你可以认为`git revert`是一个撤销**提交的**变更的工具，而`git reset HEAD`是用来撤销**未提交的**变更的。
 
@@ -87,7 +87,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 *结果:*您的 git 库已经被**倒回**到指定的提交。那些被遗漏的提交现在是**孤儿**，并且将在下次 Git 执行**垃圾收集**时被移除。现在，它们的内容仍然在磁盘上。
 
-[![git-reset](../Images/0321ce541451a421e191ee2435ddd2cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vtdH0y_D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/f0ae16e339631560090233b4c5850990/git-reset.png)
+[![git-reset](img/0321ce541451a421e191ee2435ddd2cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vtdH0y_D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/f0ae16e339631560090233b4c5850990/git-reset.png)
 
 当执行 [`git reset`](https://kolosek.com/git-commands-tutorial-part2/) 时，您可以使用其中一个参数告诉 Git 如何处理您的**索引**(将成为下一次提交的文件集)和**工作目录**:
 

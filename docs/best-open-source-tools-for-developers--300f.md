@@ -6,7 +6,7 @@
 
 ### 1\. Screencat 🙀
 
-[![](../Images/5ac5032a61af9a4040b78517ead7ea12.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PErENk1q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/maxogden/screencat/raw/master/img/remote-control.gif)
+[![](img/5ac5032a61af9a4040b78517ead7ea12.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PErENk1q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/maxogden/screencat/raw/master/img/remote-control.gif)
 
 🖥 ***平台可用性*** :所有平台
 🔗 ***Github 链接*** : [Screencat](https://github.com/maxogden/screencat)
@@ -15,7 +15,7 @@
 
 ### 2。女用披巾💸
 
-[![](../Images/e16e5cffe883cdf7d1d500edc2b9100c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jxs7C1Ut--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/wwGYH3k.png)
+[![](img/e16e5cffe883cdf7d1d500edc2b9100c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jxs7C1Ut--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/wwGYH3k.png)
 
 🖥 ***平台可用性*** :所有平台
 🔗 ***Github 链接*** : [Manta](https://github.com/hql287/Manta)
@@ -23,7 +23,7 @@
 
 ### 3。勇敢的浏览器
 
-[![](../Images/797e17a3ffd6d543b19284f2bf97cf87.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--THyjUKP1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/FfUrlmI.jpg)
+[![](img/797e17a3ffd6d543b19284f2bf97cf87.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--THyjUKP1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/FfUrlmI.jpg)
 
 🖥 ***平台可用性*** :所有平台
 🔗 ***Github 链接*** : [勇者](https://github.com/brave/browser-laptop)
@@ -32,7 +32,7 @@
 
 ### 4。标记文本📝
 
-[![](../Images/8f6362ce69ff0545b532bf175a0f33ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J3nMTJ1---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/marktext/marktext/raw/master/doc/dark.jpg)
+[![](img/8f6362ce69ff0545b532bf175a0f33ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J3nMTJ1---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/marktext/marktext/raw/master/doc/dark.jpg)
 
 🖥 ***平台可用性*** :所有平台
 🔗 ***Github 链接*** : [Marktext](https://github.com/marktext/marktext/)
@@ -41,7 +41,7 @@ Markdown 很棒，markdown 编辑器也很棒。有很多开源的 Markdown 编�
 
 ### 5。图标生成器👾
 
-[![](../Images/a1e5ed86487f46564d97ae9f1399b4e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KKKP0VwC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/onmyway133/IconGenerator/raw/master/Screenshots/gif.gif)
+[![](img/a1e5ed86487f46564d97ae9f1399b4e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KKKP0VwC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/onmyway133/IconGenerator/raw/master/Screenshots/gif.gif)
 
 🖥 ***平台可用性*** :仅限 MacOS
 🔗 ***Github 链接*** : [图标生成器](https://github.com/onmyway133/IconGenerator)
@@ -50,7 +50,7 @@ Markdown 很棒，markdown 编辑器也很棒。有很多开源的 Markdown 编�
 
 ### 6。veterinariae medicinae doctor 兽医学博士🌁
 
-[![](../Images/49ff249e04242a45368439a367e9761f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Pwy_Eed1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/43FdX7A.png)
+[![](img/49ff249e04242a45368439a367e9761f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Pwy_Eed1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/43FdX7A.png)
 
 🖥 ***平台可用性*** :所有平台
 🔗 ***Github 链接*** : [vmd](https://github.com/yoshuawuyts/vmd)
@@ -59,7 +59,7 @@ Markdown 很棒，markdown 编辑器也很棒。有很多开源的 Markdown 编�
 
 ### 7。失眠😴
 
-[![](../Images/2a9430c57c165b0ea3ce4f66f90589e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5hfHFL03--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/getinsomnia/insomnia/master/screenshots/main.png)
+[![](img/2a9430c57c165b0ea3ce4f66f90589e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5hfHFL03--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/getinsomnia/insomnia/master/screenshots/main.png)
 
 🖥 ***平台可用性*** :所有平台
 🔗 ***Github 链接*** : [失眠](https://github.com/getinsomnia/insomnia)

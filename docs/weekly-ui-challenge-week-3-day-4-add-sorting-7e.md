@@ -10,13 +10,13 @@
 
 根据我创作的原始设计，这是我为第四天准备的:
 
-[![A results page component in list view, with one result entry highlighted to indicate it is sponsored](../Images/73c82b3c77141f7aabf6349f7c0d861e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FhSRbPyp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j8cjtbklxomue6imuy5i.png)
+[![A results page component in list view, with one result entry highlighted to indicate it is sponsored](img/73c82b3c77141f7aabf6349f7c0d861e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FhSRbPyp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j8cjtbklxomue6imuy5i.png)
 
 由于我使用了原生 HTML `select`元素，所以设计略有不同，但是功能都在。该设计继续模拟模拟足球博客的结果，因此排序方法反映了博客的排序方法，即按日期排序。如果你使用一个更强大的搜索平台和灵活的 API，你也可以按照相关性(比如像 Google 和 Amazon 那样)或者价格或者客户评级来排序，就像前面提到的那样。
 
 下面是该功能的动画效果:
 
-[![A results page component switching between list and grid views, with certain sorting parameters in place](../Images/9e57305fc6f44a11be5e4bc0d41b6315.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M_HNeL_2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aw87o75t8vbp4rnqdb71.gif)
+[![A results page component switching between list and grid views, with certain sorting parameters in place](img/9e57305fc6f44a11be5e4bc0d41b6315.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M_HNeL_2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aw87o75t8vbp4rnqdb71.gif)
 
 您可以在我的 Github pages 站点上查看我为这个项目编写的代码实现[。](https://geoffdavis92.github.io/weekly-ui/)
 

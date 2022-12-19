@@ -8,7 +8,7 @@
 
 我仔细检查并添加了我所有的修改。然后，我用一条简单的描述性消息提交了我的更改。我已经准备好了:
 
-[![](../Images/be526d68615fd62f5d9adf2a7a60f7f6.png)T2】](https://cdn-images-1.medium.com/max/1000/0*ZW3ipN58OKzZmBkn)
+[![](img/be526d68615fd62f5d9adf2a7a60f7f6.png)T2】](https://cdn-images-1.medium.com/max/1000/0*ZW3ipN58OKzZmBkn)
 
 然后我意识到我犯了一个错误。我在研究师父。
 
@@ -20,23 +20,23 @@
 
 这里是一个重新制定。当我意识到我犯了一个错误的时候，我们会重新开始:
 
-[![](../Images/b6d50e02735f5fdbebe7cf72b25a9df5.png)T2】](https://cdn-images-1.medium.com/max/1000/0*7Ohlz-SEIWpOHcE8)
+[![](img/b6d50e02735f5fdbebe7cf72b25a9df5.png)T2】](https://cdn-images-1.medium.com/max/1000/0*7Ohlz-SEIWpOHcE8)
 
 顶部的提交是我需要移动的。
 
 我做的第一件事是键入 git reset——软 HEAD^，这样最后一次提交将会消失，但我仍然可以暂存我的所有工作。git 状态揭示了这一点:
 
-[![](../Images/0aa36f0348c1d5982ae5622c3cf745cd.png)T2】](https://cdn-images-1.medium.com/max/1000/0*VlNsfGbIL9gp6q1O)
+[![](img/0aa36f0348c1d5982ae5622c3cf745cd.png)T2】](https://cdn-images-1.medium.com/max/1000/0*VlNsfGbIL9gp6q1O)
 
 git log 向我展示了这个:
 
-[![](../Images/93c122c0dec86e656e5b21930b3a22cf.png)T2】](https://cdn-images-1.medium.com/max/1000/0*CXZ4B2zVy8Yt4ABE)
+[![](img/93c122c0dec86e656e5b21930b3a22cf.png)T2】](https://cdn-images-1.medium.com/max/1000/0*CXZ4B2zVy8Yt4ABE)
 
 太好了！我有我的工作，但是“新的，大的特性…”的承诺从主人那里消失了。
 
 然后，我检查了一个名为 new-big-feature 的新分支，并运行 git status:
 
-[![](../Images/e67b822e5e66973858f789b99aeff030.png)T2】](https://cdn-images-1.medium.com/max/1000/0*_Qt9mpWcByzykMK4)
+[![](img/e67b822e5e66973858f789b99aeff030.png)T2】](https://cdn-images-1.medium.com/max/1000/0*_Qt9mpWcByzykMK4)
 
 此时，我心想:“新的大功能分支看起来不错。在提交这些更改之前，让我整理一下主分支。”
 
@@ -46,17 +46,17 @@ git log 向我展示了这个:
 
 git 状态显示:
 
-[![](../Images/98b47dbcc397e2e785628535a4463b99.png)T2】](https://cdn-images-1.medium.com/max/1000/0*ShvwNiUp1S9oEUUT)
+[![](img/98b47dbcc397e2e785628535a4463b99.png)T2】](https://cdn-images-1.medium.com/max/1000/0*ShvwNiUp1S9oEUUT)
 
 回到新的大功能分支。
 
 现在，我期望在运行 git status 时看到这个:
 
-[![](../Images/b2c1f3ffd5f41e723bc6bbbef3b3ed97.png)T2】](https://cdn-images-1.medium.com/max/1000/0*zzsC5I8CRMrA-MoT)
+[![](img/b2c1f3ffd5f41e723bc6bbbef3b3ed97.png)T2】](https://cdn-images-1.medium.com/max/1000/0*zzsC5I8CRMrA-MoT)
 
 相反，我看到了这个:
 
-[![](../Images/23e7201ddda203b1fc298db90cb1ff22.png)T2】](https://cdn-images-1.medium.com/max/864/0*_ow9UBqOMhE165uJ)
+[![](img/23e7201ddda203b1fc298db90cb1ff22.png)T2】](https://cdn-images-1.medium.com/max/864/0*_ow9UBqOMhE165uJ)
 
 他妈的怎么回事？！
 
@@ -82,7 +82,7 @@ git 状态显示:
 
 满怀希望，我回到终端，输入 git reflog:
 
-[![](../Images/0d7f9e35d70ea772b5d57959ccac52ff.png)T2】](https://cdn-images-1.medium.com/max/1000/0*_mDfaU9t224Z4AaL)
+[![](img/0d7f9e35d70ea772b5d57959ccac52ff.png)T2】](https://cdn-images-1.medium.com/max/1000/0*_mDfaU9t224Z4AaL)
 
 最后一行看起来很有趣。在我提交之后，在我进行致命的重置之前，它似乎反映了我的本地存储库中的点。
 
@@ -92,11 +92,11 @@ git 状态显示:
 
 git 状态揭示了这一点:
 
-[![](../Images/020a75004b45a7d1909cdbc58c97a8bc.png)T2】](https://cdn-images-1.medium.com/max/1000/0*-1edpHQzvOUx_tmx)
+[![](img/020a75004b45a7d1909cdbc58c97a8bc.png)T2】](https://cdn-images-1.medium.com/max/1000/0*-1edpHQzvOUx_tmx)
 
 git log 给了我这个:
 
-[![](../Images/841532d3b73277d42415648a18881e32.png)T2】](https://cdn-images-1.medium.com/max/1000/0*4wZi1SMGkkZ4WMDY)
+[![](img/841532d3b73277d42415648a18881e32.png)T2】](https://cdn-images-1.medium.com/max/1000/0*4wZi1SMGkkZ4WMDY)
 
 犯罪再次出现。我的工作恢复了。我重操旧业了。
 

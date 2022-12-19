@@ -24,7 +24,7 @@
 
 <figure>
 
-[![xkcd](../Images/316b112c973b1e3b5e4eee72694b30be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EKRlNJnB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4l1bsjjtpua17f1w4v1o.png)
+[![xkcd](img/316b112c973b1e3b5e4eee72694b30be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EKRlNJnB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4l1bsjjtpua17f1w4v1o.png)
 
 <figcaption>[Slightly relevant xkcd 😄](https://xkcd.com/1168/)</figcaption>
 

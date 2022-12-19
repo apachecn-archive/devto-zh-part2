@@ -4,7 +4,7 @@
 
 **注:本帖分为两部分。前一部分是:*
 
-[![nabbisen](../Images/6759a36884202f6cf21b258b1e80383e.png)](/nabbisen) [## GCE/GCP - (1/2)本地部分上的 OpenBSD vm
+[![nabbisen](img/6759a36884202f6cf21b258b1e80383e.png)](/nabbisen) [## GCE/GCP - (1/2)本地部分上的 OpenBSD vm
 
 ### nab bisen Oct 31 ' 184 分钟读数
 
@@ -60,7 +60,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ```
 $  gcloud compute --project [your-project] --quiet images delete openbsd-64-amd64
- Deleted [https://www.googleapis.com/compute/v1/projects/[your-project]/global/images/openbsd-63-amd64]. 
+ Deleted [https://www.googleapis.com/compute/v1/projects/[your-project]/globimg/openbsd-63-amd64]. 
 ```
 
 Enter fullscreen mode Exit fullscreen mode
@@ -69,7 +69,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ```
 $  gcloud compute --project [your-project] images create openbsd-64-amd64 --source-uri gs://[your-bucket]/openbsd-64-amd64.tar.gz
- Created [https://www.googleapis.com/compute/v1/projects/[your-project]/global/images/openbsd-64-amd64].
+ Created [https://www.googleapis.com/compute/v1/projects/[your-project]/globimg/openbsd-64-amd64].
 NAME              PROJECT               FAMILY  DEPRECATED  STATUS
 openbsd-64-amd64  [your-project]                            READY 
 ```
@@ -89,27 +89,27 @@ Enter fullscreen mode Exit fullscreen mode
 首先，需要登录[谷歌云控制台](https://console.cloud.google.com/)。
 然后，选择菜单:[计算引擎]-[虚拟机实例]:
 
-[![](../Images/d9c170073c532b4a58bf17b7bebe3680.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hAe1648L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c0nka6mg5u57l2x6mm43.jpg)
+[![](img/d9c170073c532b4a58bf17b7bebe3680.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hAe1648L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c0nka6mg5u57l2x6mm43.jpg)
 
 好的。让我们开始创建一个实例:
 
-[![](../Images/d48f20de43a557358bbb1d02f79c0c6b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f8Qbpfqm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j8opko52d744bb1ihzzj.jpg)
+[![](img/d48f20de43a557358bbb1d02f79c0c6b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f8Qbpfqm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j8opko52d744bb1ihzzj.jpg)
 
 用上传的 OpenBSD 虚拟映像设置“启动盘”:
 
-[![](../Images/af10dded852bd2f1b8af8ef30cb1f563.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h7RMPYQH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jqmdbzablwvvpr5ysxr2.jpg)
+[![](img/af10dded852bd2f1b8af8ef30cb1f563.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h7RMPYQH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jqmdbzablwvvpr5ysxr2.jpg)
 
 **注:您的图像位于“自定义图像”列表:*
 
-[![](../Images/fe1e6a686b2b87504e2b279629241e4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IkgbpXkQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k3yktdebqair5s9zoyj5.jpg)
+[![](img/fe1e6a686b2b87504e2b279629241e4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IkgbpXkQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k3yktdebqair5s9zoyj5.jpg)
 
 执行创建:
 
-[![](../Images/f429f640ec1f32c7bc553bf872f7b329.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xkMOfURd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qmi4ee1cjyi0vhxanh98.jpg)
+[![](img/f429f640ec1f32c7bc553bf872f7b329.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xkMOfURd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qmi4ee1cjyi0vhxanh98.jpg)
 
 现在完成了！
 
-[![](../Images/96d9d0f0be153af41f5ce83061f8b5a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2oCm4tPD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/72lx39mefw32x5u0r1d7.jpg)
+[![](img/96d9d0f0be153af41f5ce83061f8b5a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2oCm4tPD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/72lx39mefw32x5u0r1d7.jpg)
 
 <center>✿ ✿ ✿</center>
 
@@ -120,15 +120,15 @@ Enter fullscreen mode Exit fullscreen mode
 希望键入`ssh`也给你带来快乐:)
 你会看到“欢迎使用 OpenBSD”的消息:
 
-[![](../Images/04314428b2d5414d38d4ee55b70a657e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rY59bOx6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p4e87u38aw4guxr8talp.jpg)
+[![](img/04314428b2d5414d38d4ee55b70a657e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rY59bOx6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p4e87u38aw4guxr8talp.jpg)
 
 运行实例后，我们可以构建各种服务器，如下所示:
 
-[![nabbisen](../Images/6759a36884202f6cf21b258b1e80383e.png)](/nabbisen) [## OpenBSD httpd 6.3: Web 服务器
+[![nabbisen](img/6759a36884202f6cf21b258b1e80383e.png)](/nabbisen) [## OpenBSD httpd 6.3: Web 服务器
 
 ### nab bisen Oct 5 ' 183 分钟读数
 
-#openbsd #httpd #web #server](/nabbisen/setting-up-openbsds-httpd-web-server-4p9f)[![nabbisen](../Images/6759a36884202f6cf21b258b1e80383e.png)](/nabbisen) [## OpenBSD 6.3 上的 PostgreSQL 10.3:安装
+#openbsd #httpd #web #server](/nabbisen/setting-up-openbsds-httpd-web-server-4p9f)[![nabbisen](img/6759a36884202f6cf21b258b1e80383e.png)](/nabbisen) [## OpenBSD 6.3 上的 PostgreSQL 10.3:安装
 
 ### nab bisen Oct 4 ' 182 分钟读数
 
@@ -140,13 +140,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 我好像已经可以通过“启用连接串口”之后的“连接到串口控制台”来管理 GCE 上的 OpenBSD vm 了。
 
-[![](../Images/91742b0779680d68129ad05fafadb6e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9N6t-paD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bxpuwzu73de11ahnpz1k.jpg)
+[![](img/91742b0779680d68129ad05fafadb6e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9N6t-paD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bxpuwzu73de11ahnpz1k.jpg)
 
-[![](../Images/3321ee06ae52d98ff7804b172b8292ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cd_saBzf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vfysz6jz49wpejr1a1pr.jpg)
+[![](img/3321ee06ae52d98ff7804b172b8292ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cd_saBzf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vfysz6jz49wpejr1a1pr.jpg)
 
 但是响应在这一行停止了...
 
-[![](../Images/ea7e53077e1dd530bfe77c4448782bc4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0DEw4LC---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ijh5mluc7bbdwomyvx51.jpg)
+[![](img/ea7e53077e1dd530bfe77c4448782bc4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0DEw4LC---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ijh5mluc7bbdwomyvx51.jpg)
 
 我是不是记错了？
 

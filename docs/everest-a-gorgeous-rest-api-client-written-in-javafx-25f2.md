@@ -4,7 +4,7 @@
 
 嗨！我是 Rohit，目前是计算机工程二年级的学生。在过去的 4 个月里，我一直在用 JavaFX 构建一个 REST API 客户端。我真的很兴奋能和你们分享我的作品！
 
-[![Windows10](../Images/65434ee24a129dac02d36abe5b8e04ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U90spCNs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/23148259/41772368-f9276dae-7635-11e8-97ec-1a1e8aa608c4.PNG)
+[![Windows10](img/65434ee24a129dac02d36abe5b8e04ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U90spCNs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/23148259/41772368-f9276dae-7635-11e8-97ec-1a1e8aa608c4.PNG)
 
 我这个项目的目标是做一些类似于*邮差*和*失眠*的东西，但是在一个更轻的包中使用 JavaFX，而不损害基于电子的应用程序的漂亮设计，同时保持相当的功能水平。我目前专注于优化我所关注的每一件事，但我也会偶尔添加新功能。
 

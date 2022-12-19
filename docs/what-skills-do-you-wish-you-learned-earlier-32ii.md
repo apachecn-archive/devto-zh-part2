@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/henrym2/what-skills-do-you-wish-you-learned-earlier-32ii>
 
-[![alt text](../Images/d1af2e1e977c0b9fc314218a00e151bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vxA8IjN6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0xj9apbdc2j9dhg4xzg2.jpeg)
+[![alt text](img/d1af2e1e977c0b9fc314218a00e151bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vxA8IjN6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0xj9apbdc2j9dhg4xzg2.jpeg)
 
 *TLDR；稍后编写第一个代码。*
 

@@ -295,7 +295,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当你点击顶部图标栏上的 Play 时，你应该会看到 Hello World(你可以插上你的手机或者在模拟器上运行它[。在线查看如何设置)。](https://developer.android.com/studio/run/managing-avds)
 
-[![Hello World in Android](../Images/817fe87751a740b037dad3fa5cfa3833.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Sfk1rCpk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/android-kotlin-crud/hello-world-android-72e1560cd6e6b760073155ca8463ed808dc957a5ee03966ebb39a2f0f6283bf6.png)
+[![Hello World in Android](img/817fe87751a740b037dad3fa5cfa3833.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Sfk1rCpk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/android-kotlin-crud/hello-world-android-72e1560cd6e6b760073155ca8463ed808dc957a5ee03966ebb39a2f0f6283bf6.png)
 
 如果你在使用 Java 之前已经制作了一个 Android 应用程序，你会注意到唯一的区别是主活动:它被称为 **MainActivity.kt** ，而不是`MainActivity.java`，代码看起来有点不同。
 
@@ -352,7 +352,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 你需要一些按钮图标——一个用于*添加*，另一个用于*刷新*。进入[材质图标](https://material.io/tools/icons/)网站，选择你喜欢的一个。我选择[添加按钮](https://material.io/tools/icons/?icon=add&style=baseline)到一半。当你点击它，一个灰色和蓝色的下载部分应该出现在左边的按钮。点击灰色框**选中图标**控件打开下载选项。现在应该有一个下拉框，您可以选择 Android 作为类型。
 
-[![Change drop down to Android](../Images/4040c9eac58bf47c37f503b9c39d04e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--89MKRPpi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/android-kotlin-crud/download-icons-31857d19b0c2ffab00b0b54e8978322506fbfddd2b005731125919f5084b3796.png)
+[![Change drop down to Android](img/4040c9eac58bf47c37f503b9c39d04e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--89MKRPpi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/android-kotlin-crud/download-icons-31857d19b0c2ffab00b0b54e8978322506fbfddd2b005731125919f5084b3796.png)
 
 将颜色改为白色并下载 PNG 选项。将 ZIP 文件的内容解压到`app/src/main`(您应该看到 ZIP 文件中有一个`res`文件夹)。
 
@@ -615,7 +615,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 应该就是这样！运行我们的代码，您应该会看到以下内容。
 
-[![Completed Android app with movie list](../Images/91dda96ae82a3dd9085ee439b4b48bbc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2nJEpr8L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/android-kotlin-crud/movie-list-android-56b754978fce492ea4882557e03fa8bf4402ed2036ea80d056b60e6c0e0b339c.png)
+[![Completed Android app with movie list](img/91dda96ae82a3dd9085ee439b4b48bbc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2nJEpr8L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/android-kotlin-crud/movie-list-android-56b754978fce492ea4882557e03fa8bf4402ed2036ea80d056b60e6c0e0b339c.png)
 
 ## 连接您的 Android + Kotlin 应用
 
@@ -893,7 +893,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在运行你的应用程序。你应该能够添加，编辑和删除，所有持久化到后端，每个动作都有一个对话框来确认或与细节。您刚刚完成了一个完整的 CRUD 客户端应用程序解决方案！
 
-[![Add a movie via a new dialog](../Images/4c5cde7ac2c1b0c70eb4ed07480065ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--33Lf8dq1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/android-kotlin-crud/new-movie-dialog-fe6a53796db4dfed57421a3368d07142c8a69b11f4eb5dbffc1e3eb6e98e46f3.png)
+[![Add a movie via a new dialog](img/4c5cde7ac2c1b0c70eb4ed07480065ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--33Lf8dq1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/android-kotlin-crud/new-movie-dialog-fe6a53796db4dfed57421a3368d07142c8a69b11f4eb5dbffc1e3eb6e98e46f3.png)
 
 ## 为使用 Android 和 Kotlin 的安全移动应用程序添加认证
 
@@ -1007,7 +1007,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在在`AndroidManifest.xml`中，交换登录活动和主活动的名称，这样它就是启动时启动的登录。
 
-[![Hello World in Android](../Images/f2445d91d5ee3a57a7190674b00e9282.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2EWK-ZUP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/android-kotlin-crud/add-auth-android-18ddb6499363e3e80bdc94341f9c5663bfba5729899f1db291b25b851168849b.png)
+[![Hello World in Android](img/f2445d91d5ee3a57a7190674b00e9282.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2EWK-ZUP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/android-kotlin-crud/add-auth-android-18ddb6499363e3e80bdc94341f9c5663bfba5729899f1db291b25b851168849b.png)
 
 您已经添加了一个进度条，它将一直保持到 Okta 的授权连接完成。一旦完成，你将隐藏它，然后显示一个登录按钮。为此，您需要更改`LoginActivity.kt`。但首先，将以下内容添加到您的`build.gradle`中。
 
@@ -1101,7 +1101,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，当你重启应用程序时，你应该会看到一个登录按钮。
 
-[![Login button added to application](../Images/9e61e3f1b57a2ff5f2d2f2b70c495b27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SxMawUtW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/android-kotlin-crud/login-button-android-476e79cd6ef714761d76e5f913351793b73d9e5c8858017edabb8d62a31fe647.png)
+[![Login button added to application](img/9e61e3f1b57a2ff5f2d2f2b70c495b27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SxMawUtW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/android-kotlin-crud/login-button-android-476e79cd6ef714761d76e5f913351793b73d9e5c8858017edabb8d62a31fe647.png)
 
 按下它会带你到一个预建 Okta 登录屏幕。如果您使用 Okta 帐户的凭证登录，您将被允许进入我们的主要活动，但列表将是空的-您应该会得到一个 401 错误提示弹出窗口(未经授权的访问)。
 

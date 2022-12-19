@@ -8,6 +8,6 @@
 
 [React 默认浏览器 Android 中的原生开放网站 URL 示例](https://www.skptricks.com/2018/10/react-native-open-website-url-in-default-browser-android.html)
 
-[![](../Images/8bf4261153bf2ac282543ad8547cfb04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5ymx55o7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://2.bp.blogspot.com/-ujdIIC3RmIU/W7oEnM5WIqI/AAAAAAAACAo/yj9XHeCU650WhbxmejTqXYCAbgh5WauqQCLcBGAs/s640/url.png)
+[![](img/8bf4261153bf2ac282543ad8547cfb04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5ymx55o7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://2.bp.blogspot.com/-ujdIIC3RmIU/W7oEnM5WIqI/AAAAAAAACAo/yj9XHeCU650WhbxmejTqXYCAbgh5WauqQCLcBGAs/s640/url.png)
 
 [阅读更多...](https://www.skptricks.com/2018/10/react-native-open-website-url-in-default-browser-android.html)

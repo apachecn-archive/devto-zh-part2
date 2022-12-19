@@ -16,13 +16,13 @@
 
 这是我为家庭作业做的图表中的一些亮点。可视化帮助我了解了数学是怎么回事。
 
-<figure>[![Poisson distribution](../Images/74fe11fd8a324f342034fb941cd1bd8b.png "Poisson distribution")](https://res.cloudinary.com/practicaldev/image/fetch/s--uHThXgFb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pianomanfrazier.com/img/math_homework/poisson.svg) 
+<figure>[![Poisson distribution](img/74fe11fd8a324f342034fb941cd1bd8b.png "Poisson distribution")](https://res.cloudinary.com/practicaldev/image/fetch/s--uHThXgFb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pianomanfrazier.com/img/math_homework/poisson.svg) 
 
 <figcaption>泊松分布凡$ $ \λ= 10 $ $[【下载泊松. py】](https://pianomanfrazier.com/files/plots/poisson.py)</figcaption>
 
 </figure>
 
-<figure>[![Lognormal Distribution](../Images/09c13bdc04ae6f3fd7fbec35ccc9a26b.png "Lognormal Distribution")](https://res.cloudinary.com/practicaldev/image/fetch/s--Krw2VWGa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pianomanfrazier.com/img/math_homework/lognorm.svg) 
+<figure>[![Lognormal Distribution](img/09c13bdc04ae6f3fd7fbec35ccc9a26b.png "Lognormal Distribution")](https://res.cloudinary.com/practicaldev/image/fetch/s--Krw2VWGa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pianomanfrazier.com/img/math_homework/lognorm.svg) 
 
 <figcaption>对数正态分布$ f(x) = \frac{1}</figcaption>
 
@@ -32,13 +32,13 @@
 
 <video controls="" loop=""><source src="https://pianomanfrazier.com/video/lognormal.mp4" type="video/mp4"> Your browser does not support this video.</video> 
 
-<figure>[![Normal Distribution](../Images/2939fda32944682fe022f58237fca4c9.png "Normal Distribution")](https://res.cloudinary.com/practicaldev/image/fetch/s--a0w5syQ2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pianomanfrazier.com/img/math_homework/velocity.svg) 
+<figure>[![Normal Distribution](img/2939fda32944682fe022f58237fca4c9.png "Normal Distribution")](https://res.cloudinary.com/practicaldev/image/fetch/s--a0w5syQ2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pianomanfrazier.com/img/math_homework/velocity.svg) 
 
 <figcaption>质点速度的正态分布$ $ f(x)= 2 \ frac { mv } { \ sigma \ sqrt { 2 \ pi } } e^{-(\ frac { 1 } { 2 } mv^2-\mu)^2/2 \ sigma ^2} $ $[【下载 velocity . py】](https://pianomanfrazier.com/files/plots/velocity.py)</figcaption>
 
 </figure>
 
-<figure>[![Bivariate](../Images/2c61485805b0aaa91c8964e511a9bbdc.png "Bivariate")](https://res.cloudinary.com/practicaldev/image/fetch/s--2C65Ju14--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pianomanfrazier.com/img/math_homework/bivariate.svg) 
+<figure>[![Bivariate](img/2c61485805b0aaa91c8964e511a9bbdc.png "Bivariate")](https://res.cloudinary.com/practicaldev/image/fetch/s--2C65Ju14--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pianomanfrazier.com/img/math_homework/bivariate.svg) 
 
 <figcaption>二元分布图$f_{XY}(x，y) = x e^{-x(y+1)}$ [【下载二元. py】](https://pianomanfrazier.com/files/plots/bivariate.py)</figcaption>
 

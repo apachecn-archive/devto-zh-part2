@@ -10,23 +10,23 @@
 
 以下是这一伟大经历的一些照片:
 
-[![alt text](../Images/d4a43dc670180199bfc8e6be8be070b8.png "Artbots Tinkering Workshop")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hDbjlQ3O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b4rwwavv7kf3kjlolgcq.JPG)
+[![alt text](img/d4a43dc670180199bfc8e6be8be070b8.png "Artbots Tinkering Workshop")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hDbjlQ3O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b4rwwavv7kf3kjlolgcq.JPG)
 
-[![alt text](../Images/23142b30a532d9c897d559ce9863c993.png "Artbots Tinkering Workshop")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R3lmRQqV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r76f38qqo43oshu4iw6i.JPG)
+[![alt text](img/23142b30a532d9c897d559ce9863c993.png "Artbots Tinkering Workshop")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R3lmRQqV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r76f38qqo43oshu4iw6i.JPG)
 
-[![alt text](../Images/8c0dc4e99881b269b17f25b7bb6aae23.png "Artbots Tinkering Workshop")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XGj83U4Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5wa3iw6ogl8wm4d25l96.JPG)
+[![alt text](img/8c0dc4e99881b269b17f25b7bb6aae23.png "Artbots Tinkering Workshop")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XGj83U4Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5wa3iw6ogl8wm4d25l96.JPG)
 
-[![alt text](../Images/36978f08d1c97342f6c546e2b64b0dc1.png "Artbots Tinkering Workshop")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vP-4VkiK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n0o38djweuuz7aan51sw.JPG)
+[![alt text](img/36978f08d1c97342f6c546e2b64b0dc1.png "Artbots Tinkering Workshop")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vP-4VkiK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n0o38djweuuz7aan51sw.JPG)
 
-[![alt text](../Images/e6535e1bb78f1690cda86594f9b28096.png "Artbots Tinkering Workshop")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5yoJFJVS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m2ayhdpkqr8cy99nbt9w.JPG)
+[![alt text](img/e6535e1bb78f1690cda86594f9b28096.png "Artbots Tinkering Workshop")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5yoJFJVS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m2ayhdpkqr8cy99nbt9w.JPG)
 
-[![alt text](../Images/998f240decab821fb9bdefd978a4277d.png "Artbots Tinkering Workshop")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d9IAGEBk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bfdgbjulrxejjq4qy7d6.JPG)
+[![alt text](img/998f240decab821fb9bdefd978a4277d.png "Artbots Tinkering Workshop")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d9IAGEBk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bfdgbjulrxejjq4qy7d6.JPG)
 
 这是两个小机器人的视频:
 
-[![](../Images/0e8d366e30fc7ee690d913e8ff2b9ba7.png)T2】](http://www.youtube.com/watch?v=lF3sq3Q2OBE)
+[![](img/0e8d366e30fc7ee690d913e8ff2b9ba7.png)T2】](http://www.youtube.com/watch?v=lF3sq3Q2OBE)
 
-[![](../Images/007b170180e7532715caab81aae1c73b.png)T2】](http://www.youtube.com/watch?v=g3NGw5QyG_8)
+[![](img/007b170180e7532715caab81aae1c73b.png)T2】](http://www.youtube.com/watch?v=g3NGw5QyG_8)
 
 一些机器人非常平衡，以至于它们画得像陀螺一样。太酷了，把我带回了小时候。我非常兴奋。
 

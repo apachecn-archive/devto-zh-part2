@@ -4,7 +4,7 @@
 
 [这篇文章最初发表在我的博客 Code The Web 上](https://codetheweb.blog/2018/06/09/javascript-objects/)
 
-[![JavaScript Objects](../Images/592c5a9a898737639f3d57f067f073b2.png)T2】](https://codetheweb.blog/2018/06/09/javascript-objects/)
+[![JavaScript Objects](img/592c5a9a898737639f3d57f067f073b2.png)T2】](https://codetheweb.blog/2018/06/09/javascript-objects/)
 
 对象是 JavaScript 中存储数据的方式，是面向对象编程的关键部分。在本文中学习语法和更多关于它们的内容...
 

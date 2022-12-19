@@ -174,7 +174,7 @@ export default {
 
 现在我们有了卡萨布兰卡的静态地图。还不是很刺激。
 
-[![Casablanca map](../Images/aaebfa30ae585991bc7746f767a5c96c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F7-yd3U---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i5xqgdvy0qobkeyjffob.png)
+[![Casablanca map](img/aaebfa30ae585991bc7746f767a5c96c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F7-yd3U---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i5xqgdvy0qobkeyjffob.png)
 
 ## 第二步:添加地图控件。
 

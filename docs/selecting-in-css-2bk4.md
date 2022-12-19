@@ -165,7 +165,7 @@ a:hover {
 
 `li:nth-of-type(3)`将选择第三个列表项。不是第四个像很多习惯从 0 开始计数的程序员会想的那样！
 
-[![arrays start at 0](../Images/b96cd031f77d0465c105798d5a785a31.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vVXwhkIP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/VRSkSGd.jpg)T3】
+[![arrays start at 0](img/b96cd031f77d0465c105798d5a785a31.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vVXwhkIP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/VRSkSGd.jpg)T3】
 
 ```
 li:nth-child(2n + 1) {

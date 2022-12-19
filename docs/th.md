@@ -6,7 +6,7 @@
 
 类似下图所示的内容
 
-[![Formulario con checks multiples](../Images/5cfd240141b416a87a473afedc760222.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zL6Sh21m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://galatar.com/wp-content/uploads/2018/08/captura_formulario_correo_con_checks_multiples-1024x512.png)
+[![Formulario con checks multiples](img/5cfd240141b416a87a473afedc760222.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zL6Sh21m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://galatar.com/wp-content/uploads/2018/08/captura_formulario_correo_con_checks_multiples-1024x512.png)
 
 我在一个较早的项目中也做了类似的事情，我决定采用剪切/粘贴技术，但令我惊讶的是，脚本第一次工作，然后拒绝重复这项工作。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/joelnet/the-ternary-operator-vs-the-conditional-operator-wtf-nal>
 
-[![Three Monkeys](../Images/bf10d455f208ef925d67279766d7d91d.png)T2】](https://pixabay.com/en/monkey-three-monkeys-can-t-hear-2803416/)
+[![Three Monkeys](img/bf10d455f208ef925d67279766d7d91d.png)T2】](https://pixabay.com/en/monkey-three-monkeys-can-t-hear-2803416/)
 
 大约一年前，我收到了对我的一篇文章的评论。
 
@@ -66,4 +66,4 @@
 
 哦，在推特上关注我吧
 
-[![Cheers!](../Images/0e0809a227b4e8d55ae5bc09d2845629.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T_va1NDK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/np3h0zqssbzq02869c9u.jpg)****
+[![Cheers!](img/0e0809a227b4e8d55ae5bc09d2845629.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T_va1NDK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/np3h0zqssbzq02869c9u.jpg)****

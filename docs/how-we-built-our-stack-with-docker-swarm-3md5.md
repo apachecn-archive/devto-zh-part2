@@ -22,7 +22,7 @@
 
 我们建立了一个 Docker 群，由 3 个管理节点和 4 个工作节点组成，部署在我们自己的服务器上。到目前为止，它一直工作顺利，没有任何问题。所以我们对自己的决定很满意。
 
-[![Docker Swarm](../Images/1b5f082003dcbf3bf2b39ae205b3cffc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h-Ir0ZBf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9csnvs432iaq5tgsly61.png)
+[![Docker Swarm](img/1b5f082003dcbf3bf2b39ae205b3cffc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h-Ir0ZBf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9csnvs432iaq5tgsly61.png)
 
 对我们来说， [Kubernetes](https://kubernetes.io/) 对于我们所需要的来说似乎太复杂了。我们很高兴 Docker Swarm 现在支持 Kubernetes，所以如果我们需要的话，我们可以在将来利用它。
 
@@ -32,12 +32,12 @@
 
 在所有系统中，特别是在分布式系统中，能够看到整个画面以了解系统的行为是非常重要的。我们建立了一个基于普罗米修斯的监控系统来收集实时指标，基于 T2 的 Grafana 来可视化服务以及它们是如何协同工作的。
 
-[![Monitoring system](../Images/b39d2c3e7a8d208d049bae1697d60797.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4NvM_x8j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rdva7ybg9jv527k6qna7.png)
+[![Monitoring system](img/b39d2c3e7a8d208d049bae1697d60797.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4NvM_x8j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rdva7ybg9jv527k6qna7.png)
 
 日志对于快速找到问题所在也非常重要。我们开始使用自己的 [ELK stack](https://www.elastic.co/elk-stack) ，但最近我们决定转移到 [logz.io](https://logz.io/) 。建立我们自己的弹性搜索集群并让它在生产中运行对我们来说太难了。我们认为我们花了太多的时间去做我们觉得不应该做的事情(不是我们的重点)，所以我们把那一块移走了。
 
 Logz.io 还有一个很棒的洞察功能。日志由他们的人工智能进行分析，将它们与不同网站上的数千篇文章进行比较，从而为您的系统提供有价值的见解。我们已经能够使用这个特性发现产品中的 bug，否则这些 bug 很可能会被我们忽略。
 
-[![Logz.io insight feature](../Images/8020b38d0e728c3b8aa29f160cee7c5f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r0eiLVpj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rj3b226cqlaom8krmd0u.png)
+[![Logz.io insight feature](img/8020b38d0e728c3b8aa29f160cee7c5f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r0eiLVpj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rj3b226cqlaom8krmd0u.png)
 
 我们知道我们仍有许多事情要探索和改进，但我们对目前的设置非常满意，我们希望与您分享。您正在使用哪种基础架构？你有什么改进我们的想法？让我们在下面的讨论中知道。

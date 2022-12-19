@@ -18,13 +18,13 @@
 
 去年，我第一次在肯特·多兹的推特上看到赛普拉斯。
 
-> ![Kent C. Dodds profile image](../Images/94f207e09e64133620a88b3ae5533c42.png)肯特 c .多兹[@肯特多兹](https://dev.to/kentcdodds)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)[@ okonetchnikov](https://twitter.com/okonetchnikov)[@ cpojer](https://twitter.com/cpojer)[@ Cypress _ io](https://twitter.com/Cypress_io)令人惊叹。看不下去了2017 年 2 月 26 日下午 17:01[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=835897600263892992)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=835897600263892992)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=835897600263892992)
+> ![Kent C. Dodds profile image](img/94f207e09e64133620a88b3ae5533c42.png)肯特 c .多兹[@肯特多兹](https://dev.to/kentcdodds)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)[@ okonetchnikov](https://twitter.com/okonetchnikov)[@ cpojer](https://twitter.com/cpojer)[@ Cypress _ io](https://twitter.com/Cypress_io)令人惊叹。看不下去了2017 年 2 月 26 日下午 17:01[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=835897600263892992)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=835897600263892992)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=835897600263892992)
 
 如果你读了这个帖子，你会发现这是对用户遇到浏览器问题的回应，而单元测试并没有发现这些问题。在这种情况下，用户使用 Jest 编写他们的测试，但是当他们进入生产时发现浏览器问题。
 
 单元测试棒极了，是前端和后端服务的必备。但是如果我们回忆一下马丁·福勒的测试金字塔。
 
-[![Testing pyramid from Martin Fowler](../Images/454027493919aed3b550956a2a9376db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DjMj0R6y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/udhv9d2k7o8nsrfkgopv.png)
+[![Testing pyramid from Martin Fowler](img/454027493919aed3b550956a2a9376db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DjMj0R6y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/udhv9d2k7o8nsrfkgopv.png)
 
 我们看到单元测试是最大的斑点。它们应该又快又便宜。
 
@@ -115,7 +115,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 一旦测试运行完成，您还可以在位于您的`cypress`目录中的`videos`目录中查看每个测试的视频记录。
 
-[![Cypress output video](../Images/9835c983d7f45b1cee233834ed430039.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IJ3-q3dt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d9w2oj858wp9vnb7yytn.gif)
+[![Cypress output video](img/9835c983d7f45b1cee233834ed430039.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IJ3-q3dt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d9w2oj858wp9vnb7yytn.gif)
 
 很酷吧？没有 Selenium，没有 Chrome 浏览器，也没有庞大的启动设置。安装一个包，编写一个测试并运行。
 

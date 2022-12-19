@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/alexbender/new-feature-suggestion-map-5gl0>
 
-[![A map](../Images/c7140b80cf12d3e25e8fdba43578fc9b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZHEPCiFj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/79k23negg4oru3zhvo1e.png) 
+[![A map](img/c7140b80cf12d3e25e8fdba43578fc9b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZHEPCiFj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/79k23negg4oru3zhvo1e.png) 
 各位好！
 戴夫·托太酷了，我忍不住想他。
 所以今天我要向大家介绍新的功能建议:社交网络地图！

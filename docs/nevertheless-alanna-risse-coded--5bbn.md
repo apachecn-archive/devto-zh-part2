@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/alannarisse/nevertheless-alanna-risse-coded--5bbn>
 
-[![](../Images/1fcbf4ea1bd6190552b4ca225f2aaf32.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MG5urFvu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dcxtzsyl537j91c35813.jpg)
+[![](img/1fcbf4ea1bd6190552b4ca225f2aaf32.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MG5urFvu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dcxtzsyl537j91c35813.jpg)
 
 ## 关于我
 

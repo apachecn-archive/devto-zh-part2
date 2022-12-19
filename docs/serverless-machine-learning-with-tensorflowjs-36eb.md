@@ -6,7 +6,7 @@
 
 一旦我用一个本地 Node.js 脚本完成了这个工作，我的下一个想法就是把它转换成一个无服务器的函数。在[IBM Cloud Functions](https://console.bluemix.net/openwhisk/)([Apache open whish](https://openwhisk.incubator.apache.org/))上运行这个函数会把这个脚本变成我自己的视觉识别微服务。
 
-[![Serverless TensorFlow.js Function](../Images/fdd11a5d7daf4fb3458aaeff4cab8c7c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YRF-ImjK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jrugj4ot0kofa6drt609.gif)
+[![Serverless TensorFlow.js Function](img/fdd11a5d7daf4fb3458aaeff4cab8c7c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YRF-ImjK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jrugj4ot0kofa6drt609.gif)
 
 听起来很简单，对吧？只是一个 JavaScript 库？所以，拉上拉链，我们走吧... ***咳咳*** 👊
 
@@ -148,7 +148,7 @@ ibmcloud fn action create classify --docker <IMAGE_NAME> index.js
 
 *   从维基百科下载这张熊猫的图片。
 
-[![Panda](../Images/5aee62fca734617b73cf497cfebfb223.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J9LVA8k8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/su9xscczsrjvwgcjlpyx.jpg)
+[![Panda](img/5aee62fca734617b73cf497cfebfb223.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J9LVA8k8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/su9xscczsrjvwgcjlpyx.jpg)
 
 ```
 wget http://bit.ly/2JYSal9 -O panda.jpg 
@@ -201,13 +201,13 @@ memory used: rss=144.37 MB, heapTotal=24.33 MB, heapUsed=20.58 MB, external=45.5
 
 ### 温暖的祈愿
 
-[![Warm Activation Performance Results](../Images/138b889e7e7337e68fbb192100d72a80.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7RTJoDm9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4i7ii902of646eww8vrq.png)
+[![Warm Activation Performance Results](img/138b889e7e7337e68fbb192100d72a80.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7RTJoDm9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4i7ii902of646eww8vrq.png)
 
 当使用温暖的环境时，分类平均需要 **316 毫秒来处理。查看计时数据，将 Base64 编码的 JPEG 转换为输入张量大约需要 100 毫秒。运行模型分类任务需要 200 - 250 毫秒。**
 
 ### 寒引素
 
-[![Cold Activation Performance Results](../Images/f8ce184042f089ae9866978a93fc1049.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O17w9TOH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/23h2f07sm3pm5fvq887r.png)
+[![Cold Activation Performance Results](img/f8ce184042f089ae9866978a93fc1049.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O17w9TOH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/23h2f07sm3pm5fvq887r.png)
 
 使用冷环境时，处理分类平均需要 **1260 毫秒。这些请求会导致初始化新的运行时容器和从文件系统加载模型的代价。这两项任务都花费了大约 400 毫秒。**
 

@@ -62,4 +62,4 @@ const submitUser = function(event) {
 ```
 
 现在，当我们在控制台打开的情况下提交表单时，我们可以看到对象出现在控制台中。我们现在可以根据需要存储和处理这些数据。
-[![alt text](../Images/65a344ad60c2d0ebb99d4a99ceb1467f.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dyz4qVAL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n47d6q8kobyxhlw7vy7p.png)
+[![alt text](img/65a344ad60c2d0ebb99d4a99ceb1467f.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dyz4qVAL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n47d6q8kobyxhlw7vy7p.png)

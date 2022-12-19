@@ -4,13 +4,13 @@
 
 我在寻找一个包，可以在默认的电子邮件客户端自动打开发送的电子邮件，以便在测试和开发应用程序时变得更容易。所以我造了一个。
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png)[2005 年](https://github.com/sarfraznawaz2005) / [电子邮件观察](https://github.com/sarfraznawaz2005/emailwatch)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png)[2005 年](https://github.com/sarfraznawaz2005) / [电子邮件观察](https://github.com/sarfraznawaz2005/emailwatch)
 
 ### Laravel 软件包直接在默认邮件客户端打开发送的邮件。
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-[![Latest Version on Packagist](../Images/a9107ef3f70c7a4c1e01fc213d9476a7.png) ](https://packagist.org/packages/sarfraznawaz2005/emailwatch) [ ![Total Downloads](../Images/b22b701eb8e60ddbd4c7e7380cd06bfb.png)](https://packagist.org/packages/sarfraznawaz2005/emailwatch)
+[![Latest Version on Packagist](img/a9107ef3f70c7a4c1e01fc213d9476a7.png) ](https://packagist.org/packages/sarfraznawaz2005/emailwatch) [ ![Total Downloads](img/b22b701eb8e60ddbd4c7e7380cd06bfb.png)](https://packagist.org/packages/sarfraznawaz2005/emailwatch)
 
 # Laravel 电子邮件观察
 

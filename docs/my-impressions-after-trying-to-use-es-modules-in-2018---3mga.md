@@ -17,7 +17,7 @@
 
 所以我试着将我的应用从 *create-react-app* 迁移到使用包并支持开箱即用的 ES 模块的东西上。一切都很好，我只是把`index.js`改成了`index.mjs`。我感觉生活在未来，这是我的项目看起来的样子:
 
-[![Tweet screenshot](../Images/e8ed86e1c6f3316db605359d600c1761.png "Tweet screenshot")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zlNorVnr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qo0qci3t8421v2s5es9r.png)
+[![Tweet screenshot](img/e8ed86e1c6f3316db605359d600c1761.png "Tweet screenshot")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zlNorVnr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qo0qci3t8421v2s5es9r.png)
 
 当我试图集成单元测试时，问题出现了，我不确定 Jest 是否有问题，或者 package 是否需要一些额外的配置。让我感到困扰的是，它应该是一个速度极快、零配置的 web 应用捆绑器(T2)，如果是的话，在很大程度上。我给了它一天，我没能解决它，所以我决定搬到我真正热爱的 [`react-boilerplate`](https://github.com/react-boilerplate/react-boilerplate) 。
 

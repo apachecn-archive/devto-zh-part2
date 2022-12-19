@@ -54,7 +54,7 @@ Otherwise check for a confirmation dialog on your device.
 
 监察员认为:
 
-[![](../Images/65940025aca7d7d999253200b26bc798.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---sJ_FNOA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.gyazo.com/91254abb75a239e94c2d8bcc9ecbd321.png)
+[![](img/65940025aca7d7d999253200b26bc798.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---sJ_FNOA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.gyazo.com/91254abb75a239e94c2d8bcc9ecbd321.png)
 
 像这样，不戴医疗护目镜也能调试，所以想玩得很开心
 
@@ -84,7 +84,7 @@ https://github.com/e-jigsaw/Hello360 リポジトリ:
 
 按照教程制作了带有 VR 按钮的柜台
 
-[![](../Images/f80e51d67ce88efa509dd7cae94f729f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---VP8w-xo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.gyazo.com/2f948e372656b1009e37c865239da904.gif)
+[![](img/f80e51d67ce88efa509dd7cae94f729f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---VP8w-xo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.gyazo.com/2f948e372656b1009e37c865239da904.gif)
 
 如果是浏览器的 360 度模式，找不到拍摄视频的手段，很为难。 如果知道解决方法的人能评论的话就帮大忙了...！ ！
 
@@ -96,6 +96,6 @@ Oculus Go 的主页画面的 UI 最终也是使用了定点设备的漏洞，所
 
 虽然是百分之百的憧憬
 
-[![](../Images/2cf1a2fbd6f7ff86905b1b324bd9e13e.png)T2】](https://i.giphy.com/media/zg0IO38HIOH8k/giphy.gif)
+[![](img/2cf1a2fbd6f7ff86905b1b324bd9e13e.png)T2】](https://i.giphy.com/media/zg0IO38HIOH8k/giphy.gif)
 
 要是能制作出像那样的 UI 就好了...！ ！

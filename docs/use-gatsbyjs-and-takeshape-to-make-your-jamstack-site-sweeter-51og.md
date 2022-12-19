@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/takeshape/use-gatsbyjs-and-takeshape-to-make-your-jamstack-site-sweeter-51og>
 
-[![TakeShape and Gatsby](../Images/078b2137b04532b0d8fd2f94998033b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U4woHalC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mezesbggcbufgpidb0cg.gif)
+[![TakeShape and Gatsby](img/078b2137b04532b0d8fd2f94998033b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U4woHalC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mezesbggcbufgpidb0cg.gif)
 
 这是我们 4 部分系列的第 4 部分。查看[第 1 部分](https://www.takeshape.io/articles/how-to-build-a-design-portfolio-with-takeshape/)，了解 TakeShape 的介绍，并学习内容建模和内容创建。在第 2 部分的[中，您将学习如何创建一个静态站点，从](https://www.takeshape.io/articles/how-to-build-a-jamstack-website-with-takeshape/) [TakeShape](https://www.takeshape.io/) 中加载数据。在第 3 部分中，您将学习如何快速地将新的静态站点部署到 Netlify 上，以获得一个简单、安全、快速的托管解决方案。
 

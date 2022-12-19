@@ -13,7 +13,7 @@
 
 Vue.js 是一个健壮但简单的 Javascript 框架。它是所有现代框架中门槛最低的，同时提供了高性能 web 应用程序所需的所有特性。
 
-[![Vue.js Homepage](../Images/fc68b586c214942af53635cfb31f0846.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ocgUNpu2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-crud-node/vue-homepage-8a8c67ceb95ba55306607a4cd4fd0a1d1a3821ab6f9facd7024e2ed1d806c714.png)
+[![Vue.js Homepage](img/fc68b586c214942af53635cfb31f0846.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ocgUNpu2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-crud-node/vue-homepage-8a8c67ceb95ba55306607a4cd4fd0a1d1a3821ab6f9facd7024e2ed1d806c714.png)
 
 本教程涵盖了两个主要的构建，一个前端 web 应用程序和后端 REST API 服务器。前端将是一个主页，登录和注销，以及一个帖子管理器的单页应用程序(SPA)。
 
@@ -60,7 +60,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 将您最喜欢的浏览器指向`http://localhost:8080`，您应该会看到您的劳动成果:
 
-[![Welcome to Your Vue.js PWA](../Images/38ab08308a41aa6a50d4c9ba281b252e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XaU6Z5I9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-crud-node/welcome-to-vue-pwa-eea589caa41609323c8793291ebd75f19e9e9139b9165a077005118577def59e.png)
+[![Welcome to Your Vue.js PWA](img/38ab08308a41aa6a50d4c9ba281b252e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XaU6Z5I9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-crud-node/welcome-to-vue-pwa-eea589caa41609323c8793291ebd75f19e9e9139b9165a077005118577def59e.png)
 
 **额外积分**:查看`vue-cli`可用的其他[模板](https://github.com/vuejs-templates)。
 
@@ -104,19 +104,19 @@ Enter fullscreen mode Exit fullscreen mode
 
 在 web 应用程序中处理身份验证是每个开发人员生存的祸根。这就是 Okta 用最少的代码保护您的 web 应用程序的原因。首先，您需要在 Okta 中创建一个 OIDC 应用程序。[注册一个永远免费的开发者账户](https://developer.okta.com/signup/)(或者如果你已经有一个的话登录)。
 
-[![Okta Developer Sign Up](../Images/fd667f0c90650334dbac27ba0a905ce6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ADQ4ehD---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-crud-node/okta-developer-sign-up-8076b22d5d523a70c1c8a0cef34993103f3a2d01d821d2cc31a1f3ba9798cb08.png)
+[![Okta Developer Sign Up](img/fd667f0c90650334dbac27ba0a905ce6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ADQ4ehD---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-crud-node/okta-developer-sign-up-8076b22d5d523a70c1c8a0cef34993103f3a2d01d821d2cc31a1f3ba9798cb08.png)
 
 登录后，单击“添加应用程序”创建一个新的应用程序。
 
-[![Add Application](../Images/35e8a1fdf110006a51e4cc974b0912aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sGU3_mMu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-crud-node/add-application-024fdfa427033e2e345b48167d8fdef2592f8dcaa464be89487e257a629d39ad.png)
+[![Add Application](img/35e8a1fdf110006a51e4cc974b0912aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sGU3_mMu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-crud-node/add-application-024fdfa427033e2e345b48167d8fdef2592f8dcaa464be89487e257a629d39ad.png)
 
 选择“单页应用程序”平台选项。
 
-[![New Application Options](../Images/6cb9f6dc6e7a1000b6916871f676a4cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NMEq-uua--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-crud-node/new-application-options-96b1b0faa43717d47faaf99696fe2155e793c5f482b7cbae21747bdf3fd72ba4.png)
+[![New Application Options](img/6cb9f6dc6e7a1000b6916871f676a4cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NMEq-uua--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-crud-node/new-application-options-96b1b0faa43717d47faaf99696fe2155e793c5f482b7cbae21747bdf3fd72ba4.png)
 
 默认的应用程序设置应该和图中的一样。
 
-[![Okta Application Settings](../Images/84a402654587f0e0260629bf6baca082.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AkgOAfTp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-crud-node/okta-application-settings-99892ff83b5e572a4c2b64d3d9b2edde2266d7f7434c18b8e60f6f005d7718e0.png)
+[![Okta Application Settings](img/84a402654587f0e0260629bf6baca082.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AkgOAfTp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-crud-node/okta-application-settings-99892ff83b5e572a4c2b64d3d9b2edde2266d7f7434c18b8e60f6f005d7718e0.png)
 
 要安装 Okta Vue SDK，运行以下命令:
 
@@ -348,21 +348,21 @@ Enter fullscreen mode Exit fullscreen mode
 
 在您的终端中运行`npm run dev`(如果它还没有运行的话)。导航到`http://localhost:8080`，你应该会看到新的主页。
 
-[![Hello World](../Images/fffb771e05bbe0d3d96297cc1ded64ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Whh7uMsN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-crud-node/new-homepage-7bbf1b612f5d02bff93d2a233345bfa0d621a5b1ec1cde5d8a40dd8b7998ff50.png)
+[![Hello World](img/fffb771e05bbe0d3d96297cc1ded64ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Whh7uMsN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-crud-node/new-homepage-7bbf1b612f5d02bff93d2a233345bfa0d621a5b1ec1cde5d8a40dd8b7998ff50.png)
 
 如果你点击**帖子管理器**或**登录**，你应该会被引导到 Okta 的流程。输入您的 Okta dev 帐户凭据。
 
 **注意:**如果您登录到您的 Okta 开发者帐户，您将被自动重定向回应用程序。你可以用匿名或私人浏览模式来测试。
 
-[![Okta Sign-In](../Images/d28103cb5118d0b0f59b36cdb33d878a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j00Wmy4G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-crud-node/okta-sign-in-84e74fdcd14ea14cfef67942450ef280e251773e6621e8c4d8fbeb585f5ab068.png)
+[![Okta Sign-In](img/d28103cb5118d0b0f59b36cdb33d878a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j00Wmy4G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-crud-node/okta-sign-in-84e74fdcd14ea14cfef67942450ef280e251773e6621e8c4d8fbeb585f5ab068.png)
 
 如果成功，您应该返回登录的主页。
 
-[![Homepage after logging in](../Images/fdb3e64972f07ec9f0a9a874141ca821.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n2RNIOAb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-crud-node/homepage-authenticated-12cf39e1a94d81657ebf0ba6d02b42c61f59d81ed911b13a00968742397ff7d5.png)
+[![Homepage after logging in](img/fdb3e64972f07ec9f0a9a874141ca821.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n2RNIOAb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-crud-node/homepage-authenticated-12cf39e1a94d81657ebf0ba6d02b42c61f59d81ed911b13a00968742397ff7d5.png)
 
 点击**帖子管理器**链接应该呈现受保护的组件。
 
-[![Posts Manager](../Images/b1cc5a42b4783585339f9325971e4dd3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yyfE2x6l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-crud-node/posts-manager-e371e794a03cd91955e0bc4661a5f6a0649f4532ebde18531fb23997dd174849.png)
+[![Posts Manager](img/b1cc5a42b4783585339f9325971e4dd3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yyfE2x6l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-crud-node/posts-manager-e371e794a03cd91955e0bc4661a5f6a0649f4532ebde18531fb23997dd174849.png)
 
 ## 添加一个后端 REST API 服务器
 
@@ -806,11 +806,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 导航到`http://localhost:8080`并试一试。
 
-[![New Post](../Images/a2012638646657aad9b65201b4fee6a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aDDIt5XP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-crud-node/new-post-464637114d9c541ea48aa4dcc9fb698d6d5bf99cd2a3e5b39d81ffca6f7c406d.png)
+[![New Post](img/a2012638646657aad9b65201b4fee6a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aDDIt5XP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-crud-node/new-post-464637114d9c541ea48aa4dcc9fb698d6d5bf99cd2a3e5b39d81ffca6f7c406d.png)
 
-[![New Hello World Post](../Images/a57e0e77c2f27143202fc6c432c5f2ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FQzFXK8i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-crud-node/new-post-hello-world-357d85f922ecea2f414b35dbb90c310279e388d20da655c196fda04328c4a223.png)
+[![New Hello World Post](img/a57e0e77c2f27143202fc6c432c5f2ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FQzFXK8i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-crud-node/new-post-hello-world-357d85f922ecea2f414b35dbb90c310279e388d20da655c196fda04328c4a223.png)
 
-[![Delete Post](../Images/9090966465bae61e762026c9b6b83dcc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--htIgQjqV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-crud-node/delete-post-3e5ec6eb05128b65782c45bfcf7dd1129579a57175141d9fb1cfcc776cd2efad.png)
+[![Delete Post](img/9090966465bae61e762026c9b6b83dcc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--htIgQjqV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/vue-crud-node/delete-post-3e5ec6eb05128b65782c45bfcf7dd1129579a57175141d9fb1cfcc776cd2efad.png)
 
 ## 用 Vue 做更多！
 

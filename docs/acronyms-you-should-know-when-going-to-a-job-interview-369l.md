@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/anze_kop1tar/acronyms-you-should-know-when-going-to-a-job-interview-369l>
 
- [![Designed by Freepik](../Images/a51d689316c447f0eb7aa8bfc612305c.png)T3】](https://www.freepik.com/free-vector/choosing-candidate_762886.htm "Designed by Freepik")
+ [![Designed by Freepik](img/a51d689316c447f0eb7aa8bfc612305c.png)T3】](https://www.freepik.com/free-vector/choosing-candidate_762886.htm "Designed by Freepik")
 
 在过去的工作面试中，在得到一份开发工作之前，我有过一些尴尬的经历，不知道 web 开发领域的一个特定缩写是什么意思，它有什么作用。
 

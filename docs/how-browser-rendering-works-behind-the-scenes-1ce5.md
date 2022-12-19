@@ -4,7 +4,7 @@
 
 ### 浏览器渲染如何工作——幕后
 
-[![](../Images/b8d87c563b9cac909646de55efb07112.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lbir5Xqh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AVmD21Exnic6eQxj5xGrA-Q.png)
+[![](img/b8d87c563b9cac909646de55efb07112.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lbir5Xqh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AVmD21Exnic6eQxj5xGrA-Q.png)
 
 这篇文章的目的是用非常简单的术语解释你的浏览器将 HTML、CSS 和 JavaScript 转换成你可以与之交互的工作网站的步骤。
 
@@ -32,7 +32,7 @@
 
 为了便于说明，请假设我们已经有了一个通用的浏览器引擎，这个浏览器引擎将以图形方式表示，如下所示。
 
-[![](../Images/143ce98bee9e8e9f97c6c2783969e3a1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KO-9VVf5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AkUR7XRBCjzTTMgAfsanTSQ.png) 
+[![](img/143ce98bee9e8e9f97c6c2783969e3a1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KO-9VVf5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AkUR7XRBCjzTTMgAfsanTSQ.png) 
 
 <figcaption>插图由我:</figcaption>
 
@@ -40,19 +40,19 @@
 
 在本文中，我交替使用“浏览器”和“浏览器引擎”。不要让那迷惑你。重要的是，您知道浏览器引擎是负责我们正在讨论的内容的关键软件。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### 发送&接收信息
 
 这不应该是一门计算机科学网络课，但是你可能记得数据是以字节大小的“包”的形式通过互联网发送的。
 
-[![](../Images/a1547733a9d948acda3467968b653e20.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nw7lBiXg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2ArTbp2SJxvoQyKSIA6TGHEw.png) 
+[![](img/a1547733a9d948acda3467968b653e20.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nw7lBiXg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2ArTbp2SJxvoQyKSIA6TGHEw.png) 
 
 <figcaption>电脑说:给我发送字节的数据！(由我插画)</figcaption>
 
 我想说明的一点是，当你编写一些 HTML、CSS 和 JS，并试图在浏览器中打开 HTML 文件时，浏览器会从你的硬盘(或网络)中读取 HTML 的原始字节。
 
-[![](../Images/74dce88f60727d6bcb67110862fecef2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--g91gy7_g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AGSw1oqEpbPo0NmwG_73bPw.png) 
+[![](img/74dce88f60727d6bcb67110862fecef2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--g91gy7_g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AGSw1oqEpbPo0NmwG_73bPw.png) 
 
 <figcaption>电脑接收字节数据(由我插画)</figcaption>
 
@@ -66,7 +66,7 @@
 
 这是第一步。
 
-[![](../Images/7fb6044ee009db7f62c1b771958ea61b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CPYIXBSH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AIb2Ufggiy67xg02Jp8CYhQ.png) 
+[![](img/7fb6044ee009db7f62c1b771958ea61b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CPYIXBSH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AIb2Ufggiy67xg02Jp8CYhQ.png) 
 
 <figcaption>尽量不要忘记这一点:)(由我插画)</figcaption>
 
@@ -80,7 +80,7 @@
 
 首先，数据的原始字节被转换成字符。
 
-[![](../Images/c5f9e0368329c1c0074b374f2ae96016.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_KD5BvzJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AYdURVl_Qkxv9Lf4Ja583-w.png) 
+[![](img/c5f9e0368329c1c0074b374f2ae96016.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_KD5BvzJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AYdURVl_Qkxv9Lf4Ja583-w.png) 
 
 <figcaption>耶。从字节到字符！</figcaption>
 
@@ -92,7 +92,7 @@
 
 这些字符被进一步解析成称为标记的东西。
 
-[![](../Images/72c13bde7a6632558f3759a8ad2b6eed.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1E-6Ar1t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2A23wqjUorWI2fkCJ_AN5a2w.png) 
+[![](img/72c13bde7a6632558f3759a8ad2b6eed.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1E-6Ar1t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2A23wqjUorWI2fkCJ_AN5a2w.png) 
 
 <figcaption>从人物到令牌！</figcaption>
 
@@ -112,7 +112,7 @@
 
 从概念上讲，您可能会将令牌视为某种数据结构，其中包含有关某个 html 标记的信息。本质上，一个 html 文件被分解成称为**标记**的小解析单元。这是浏览器开始理解你写的东西的方式。
 
-[![](../Images/a0a8e992acd1f8d8fa21736a57cbd113.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0pWMr1jA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AvIwWeznQhir5EPWDOyo5sw.png) 
+[![](img/a0a8e992acd1f8d8fa21736a57cbd113.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0pWMr1jA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AvIwWeznQhir5EPWDOyo5sw.png) 
 
 <figcaption>一个令牌的概念性插图(插图由我)</figcaption>
 
@@ -134,7 +134,7 @@ DOM 建立了父子关系、相邻兄弟关系等。
 
 现在，这是我们可以做的事情。
 
-[![](../Images/cddbbef78db2ec1b2b756c69fa4fee7f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WddyZo0T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AugZgXZkxbzeIia7Z3jP76A.png) 
+[![](img/cddbbef78db2ec1b2b756c69fa4fee7f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WddyZo0T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AugZgXZkxbzeIia7Z3jP76A.png) 
 
 <figcaption>一个用图形表示 DOM 的例子(我来举例)</figcaption>
 
@@ -142,13 +142,13 @@ DOM 建立了父子关系、相邻兄弟关系等。
 
 这正是你这样做的原因:在任何事情发生之前，浏览器必须将 html 数据的原始字节转换成 DOM。
 
-[![](../Images/d662c4dc2911e708f5de61580a1fa5f4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Q7LoXcLU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2ALlo-v3XG_gEP_Xlgy0qtjg.png) 
+[![](img/d662c4dc2911e708f5de61580a1fa5f4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Q7LoXcLU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2ALlo-v3XG_gEP_Xlgy0qtjg.png) 
 
 <figcaption>HTML 先进去——永远！(由我插画)</figcaption>
 
 根据 html 文件的大小，DOM 构造过程可能需要一些时间。不管文件有多小，不管文件有多大，都要花一些时间(不管多短)。
 
-[![](../Images/24e4c085a98ec6671cbc4850637c1825.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8QyxQ4bu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AROuUBS5eZ1DKk2RnFDfh6Q.png) 
+[![](img/24e4c085a98ec6671cbc4850637c1825.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8QyxQ4bu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AROuUBS5eZ1DKk2RnFDfh6Q.png) 
 
 <figcaption>耶。从令牌到节点和 DOM！</figcaption>
 
@@ -190,7 +190,7 @@ DOM 已创建。太好了。
 
 你看，浏览器不能处理 HTML 或 CSS 的原始字节。这必须被转换成它能识别的形式——而这恰好就是这些树形结构。
 
-[![](../Images/7467e82857336a82ebaed5196635cc8a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iAtHCGDn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2A5GYEa442MdwmhPGJbGagGw.png) 
+[![](img/7467e82857336a82ebaed5196635cc8a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iAtHCGDn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2A5GYEa442MdwmhPGJbGagGw.png) 
 
 <figcaption>同样处理 CSS 字节！</figcaption>
 
@@ -210,7 +210,7 @@ CSS 有一种叫做[级联](https://dev.to/bnevilleoneill/how-css-works-understa
 
 我们现在得到的是两个**独立的**树形结构，它们似乎没有共同的目标。
 
-[![](../Images/c362f59877aabe75531eb36b20e3fee2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IeQMs3hk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AuqHMI5h_gcrycAXgwnq8hw.png)
+[![](img/c362f59877aabe75531eb36b20e3fee2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IeQMs3hk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AuqHMI5h_gcrycAXgwnq8hw.png)
 
 <figcaption>DOM 和 CSSOM 是独立的树形结构(我来举例)</figcaption>
 
@@ -220,7 +220,7 @@ DOM 包含关于页面 HTML 元素关系的所有信息，而 CSSOM 包含关于
 
 好了，浏览器现在将 DOM 和 CSSOM 树组合成一个叫做**渲染树**的东西。
 
-[![](../Images/1170be03116513f8ade1235c7142feae.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wYwH6uKq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2A10ytkQcfKdbfGQxvYj2-5A.png) 
+[![](img/1170be03116513f8ade1235c7142feae.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wYwH6uKq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2A10ytkQcfKdbfGQxvYj2-5A.png) 
 
 <figcaption>DOM + CSSOM =渲染树(由我插画)</figcaption>
 
@@ -244,7 +244,7 @@ DOM 包含关于页面 HTML 元素关系的所有信息，而 CSSOM 包含关于
 
 这就像将页面上要呈现的所有元素的内容和样式信息传递给一个天才的数学家。这位数学家然后用浏览器视窗计算出每个元素的确切位置和大小。
 
-[![](../Images/19d14bfa77682775276f4024ada441bb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6M-XaBI9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AMMJ5DCdRhZMdy8K7CFAsZw.png) 
+[![](img/19d14bfa77682775276f4024ada441bb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6M-XaBI9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AMMJ5DCdRhZMdy8K7CFAsZw.png) 
 
 <figcaption>啊，耶！布局进行中！(由我插画)</figcaption>
 
@@ -324,7 +324,7 @@ body {
 
 这样的结果是:
 
-[![](../Images/1359210c86a8270516830b07bf1a03fe.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ty_GPoQH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2Adwe_vIFxXA0zzMHwlvS47w.png) 
+[![](img/1359210c86a8270516830b07bf1a03fe.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ty_GPoQH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2Adwe_vIFxXA0zzMHwlvS47w.png) 
 
 <figcaption>基本呈现 html 页面。</figcaption>
 
@@ -342,7 +342,7 @@ DOM 构造继续进行，一旦 CSS 文件返回一些内容，CSSOM 构造就�
 
 整个 DOM 构造过程会暂停，直到脚本执行完毕。
 
-[![](../Images/4ad11e385025f56107ca5b0d9d7741a9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vkkXj2j7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2A7Zku0ogP6C2ua43E4Y5ImA.png) 
+[![](img/4ad11e385025f56107ca5b0d9d7741a9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vkkXj2j7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2A7Zku0ogP6C2ua43E4Y5ImA.png) 
 
 <figcaption>别忘了这一点。(由我插画)</figcaption>
 
@@ -383,7 +383,7 @@ DOM 构造继续进行，一旦 CSS 文件返回一些内容，CSSOM 构造就�
 
 这很好，如下所示:
 
-[![](../Images/e42b20edf329272973db9d320d8ae9ce.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--A9i-8fzb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2Ad4uD0EVuVSgdML7_07tNbw.png)T3】DOM 操作成功
+[![](img/e42b20edf329272973db9d320d8ae9ce.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--A9i-8fzb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2Ad4uD0EVuVSgdML7_07tNbw.png)T3】DOM 操作成功
 
 但是，您注意到这个脚本标签被放在 body 标签的底部了吗？
 
@@ -415,7 +415,7 @@ DOM 构造继续进行，一旦 CSS 文件返回一些内容，CSSOM 构造就�
 
 一旦我这样做了，头变量就被解析为 null。
 
-[![](../Images/208affd4c0e3a1cef8d416cf6c01bb68.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1OTJORD4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2A9h-RJFkX76TT4JuyRxTyiA.png)T3】DOM 操作失败:(
+[![](img/208affd4c0e3a1cef8d416cf6c01bb68.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1OTJORD4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2A9h-RJFkX76TT4JuyRxTyiA.png)T3】DOM 操作失败:(
 
 为什么？
 
@@ -425,7 +425,7 @@ DOM 构造继续进行，一旦 CSS 文件返回一些内容，CSSOM 构造就�
 
 DOM 构造会暂停，直到脚本执行完毕:
 
-[![](../Images/fa10310fff4e1ee5b1f43911f1b551db.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HbUI09NQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/687/1%2AMBY_mv3GKMgv4Rb2GjhiKg.png)
+[![](img/fa10310fff4e1ee5b1f43911f1b551db.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HbUI09NQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/687/1%2AMBY_mv3GKMgv4Rb2GjhiKg.png)
 
 <figcaption>DOM 建设暂停</figcaption>
 
@@ -435,7 +435,7 @@ DOM 构造会暂停，直到脚本执行完毕:
 
 脚本的位置很重要。
 
-[![](../Images/251f998f524d9ee394a154c8d477e207.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EY_6V0UV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AmhK63PiEos6yZtRN5kwSBQ.png) 
+[![](img/251f998f524d9ee394a154c8d477e207.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EY_6V0UV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AmhK63PiEos6yZtRN5kwSBQ.png) 
 
 <figcaption>记住这个！(由我插画)</figcaption>
 
@@ -503,7 +503,7 @@ document.getElementsByTagName("body")[0].style.backgroundColor = "red";
 
 Javascript 执行将会暂停，直到 CSSOM 准备就绪。
 
-[![](../Images/6cb0580c38dd3d8cd90d698364e61af5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hiynrvwD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AUeR5LCcuy5OtswIzjnF1iQ.png) 
+[![](img/6cb0580c38dd3d8cd90d698364e61af5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--hiynrvwD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AUeR5LCcuy5OtswIzjnF1iQ.png) 
 
 <figcaption>好记吗？不完全是。让它沉下去！(由我插画)</figcaption>
 
@@ -551,7 +551,7 @@ Javascript 执行将会暂停，直到 CSSOM 准备就绪。
 
 一个优化良好的站点应该进行渐进式渲染，而不是阻塞整个过程。
 
-[![](../Images/80cd79a7e7c56c2df10d7219e69139df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WpnzQ8d4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2ALLox1r59dn47IslTmGuz5g.png)
+[![](img/80cd79a7e7c56c2df10d7219e69139df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WpnzQ8d4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2ALLox1r59dn47IslTmGuz5g.png)
 
 这就是一个 web 应用程序感知速度快慢的区别。
 
@@ -565,7 +565,7 @@ Javascript 执行将会暂停，直到 CSSOM 准备就绪。
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

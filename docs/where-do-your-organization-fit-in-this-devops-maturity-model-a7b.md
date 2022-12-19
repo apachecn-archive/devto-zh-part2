@@ -10,6 +10,6 @@ DevOps 是一种文化，文化不是你可以在一两天内实施和改变的�
 
 好的，我有一个 DevOps 成熟度模型，请看看并让我们知道您的组织在这个阶段处于什么位置。
 
-[![devops maturity model](../Images/47eb851447060df21c964296caafbb26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xbOxYZ2a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hfg3xmn5t2n6n10edl81.png)
+[![devops maturity model](img/47eb851447060df21c964296caafbb26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xbOxYZ2a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hfg3xmn5t2n6n10edl81.png)
 
 这会很有趣:)

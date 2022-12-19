@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/fullstackcafe/5-salary-negotiation-rules-for-software-developers-get-20-on-top-of-your-market-rate-2jii>
 
-[![5 Salary Negotiation Rules for Software Developers. Get +20% On Top of Your Market Rate](../Images/91045b91bd2a832757195685493dbf2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YKdCyBJp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/3797/black-and-white-sport-fight-boxer.jpg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D650%26w%3D940)
+[![5 Salary Negotiation Rules for Software Developers. Get +20% On Top of Your Market Rate](img/91045b91bd2a832757195685493dbf2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YKdCyBJp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/3797/black-and-white-sport-fight-boxer.jpg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D650%26w%3D940)
 
 薪资谈判是你作为一名开发人员从未被教授过的最强大、最有影响力的软技能之一。在那份快速实用指南中，我将通过真实问题和答案的样本揭示终极开发人员薪资谈判策略，帮助你在市场薪资的基础上提高 20-30%的下一个薪资数字。
 

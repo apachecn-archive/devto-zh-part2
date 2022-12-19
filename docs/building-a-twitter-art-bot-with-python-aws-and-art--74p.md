@@ -2,8 +2,8 @@
 
 > 原文：<https://dev.to/vboykis/building-a-twitter-art-bot-with-python-aws-and-art--74p>
 
-> ![unknown tweet media content](../Images/5d26144f39f349c5937fd54993b92b91.png)![SovietArtBot profile image](../Images/0399aafc047bfb33b60c5410aa5bba72.png)Soviet artbot@ Soviet artbot![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)【青年博物学家】
-> 塞尔吉·格里戈列夫，1948 年11:16AM-2018 年 2 月 15 日[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=964096054089134081)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=964096054089134081)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=964096054089134081)
+> ![unknown tweet media content](img/5d26144f39f349c5937fd54993b92b91.png)![SovietArtBot profile image](img/0399aafc047bfb33b60c5410aa5bba72.png)Soviet artbot@ Soviet artbot![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)【青年博物学家】
+> 塞尔吉·格里戈列夫，1948 年11:16AM-2018 年 2 月 15 日[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=964096054089134081)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=964096054089134081)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=964096054089134081)
 
 在我的博客上的原始帖子。
 
@@ -53,7 +53,7 @@
 
 我最近的一个目标是能够进行端到端的完整软件开发项目，专注于理解现代生产最佳实践，尤其是在云中。
 
-[![high-level](../Images/f78cb0164b075decb663ede250293c01.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TwOXl7QM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/veekaybee/veekaybee.github.io/master/images/squadgoals.png)
+[![high-level](img/f78cb0164b075decb663ede250293c01.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TwOXl7QM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/veekaybee/veekaybee.github.io/mastimg/squadgoals.png)
 
 ## 个人目标
 
@@ -103,15 +103,15 @@
 
 这些人在工作、睡觉、大笑、皱眉、争吵，并表现出我们在艺术中不常看到的真实情感。他们是可联系的、人道的，并将我们的人性反射给我们。我也非常喜欢这种艺术类型的一点是，女性被描绘成在做一些事情，而不是坐着不动来迎接艺术家的目光。
 
-> ![unknown tweet media content](../Images/e123ee72ae7340985d8f5c99ecc0e5d2.png)![Vicki Boykis profile image](../Images/ee3566a457d22ec4b003fde0777a8674.png)Vicki boy kis[@ vboykis](https://dev.to/vboykis)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)“年轻的、理想主义的数据科学家收割他们的第一批模型进行酸洗”
-> Tetyana Yablonska，1966 年00:09AM-06 2017 年 10 月[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=916092943575986176)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=916092943575986176)
+> ![unknown tweet media content](img/e123ee72ae7340985d8f5c99ecc0e5d2.png)![Vicki Boykis profile image](img/ee3566a457d22ec4b003fde0777a8674.png)Vicki boy kis[@ vboykis](https://dev.to/vboykis)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)“年轻的、理想主义的数据科学家收割他们的第一批模型进行酸洗”
+> Tetyana Yablonska，1966 年00:09AM-06 2017 年 10 月[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=916092943575986176)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=916092943575986176)
 
 所以，我决定做一个推特机器人，每隔几个小时发布一个作品。
 
 下面是最终结果:
 
-> ![unknown tweet media content](../Images/5d26144f39f349c5937fd54993b92b91.png)![SovietArtBot profile image](../Images/0399aafc047bfb33b60c5410aa5bba72.png)Soviet artbot@ Soviet artbot![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)【青年博物学家】
-> 塞尔吉·格里戈列夫，1948 年11:16AM-2018 年 2 月 15 日[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=964096054089134081)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=964096054089134081)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=964096054089134081)
+> ![unknown tweet media content](img/5d26144f39f349c5937fd54993b92b91.png)![SovietArtBot profile image](img/0399aafc047bfb33b60c5410aa5bba72.png)Soviet artbot@ Soviet artbot![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)【青年博物学家】
+> 塞尔吉·格里戈列夫，1948 年11:16AM-2018 年 2 月 15 日[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=964096054089134081)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=964096054089134081)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=964096054089134081)
 
 传统软件开发有几个步骤:
 
@@ -146,7 +146,7 @@ Twitter 上的一个机器人，按照时间表从某种数据库中提取绘画
 
 所以我的高层流程是这样的:
 
-[![high-level](../Images/9d2fab13f24b4a792698c15acc600923.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TyTKU4Ir--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/veekaybee/veekaybee.github.io/master/images/high-level-flow.png)
+[![high-level](img/9d2fab13f24b4a792698c15acc600923.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TyTKU4Ir--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/veekaybee/veekaybee.github.io/mastimg/high-level-flow.png)
 
 最终，我会完全重构对本地机器的依赖，将所有东西都推给 S3，但是在弄清楚 JSON 返回哪种元数据之前，我不想在 AWS 上花任何钱。
 
@@ -206,7 +206,7 @@ Enter fullscreen mode Exit fullscreen mode
 在绘画数组中，每幅画看起来像这样:
 
 ```
-{  "id":  "577271cfedc2cb3880c2de61",  "title":  "Winter in Kursk",  "year":  "1916",  "width":  634,  "height":  750,  "artistName":  "Aleksandr Deyneka",  "image":  "https://use2-uploads8.wikiart.org/images/aleksandr-deyneka/winter-in-kursk-1916.jpg",  "map":  "0123**67*",  "paintingUrl":  "/en/aleksandr-deyneka/winter-in-kursk-1916",  "artistUrl":  "/en/aleksandr-deyneka",  "albums":  null,  "flags":  2,  "images":  null  } 
+{  "id":  "577271cfedc2cb3880c2de61",  "title":  "Winter in Kursk",  "year":  "1916",  "width":  634,  "height":  750,  "artistName":  "Aleksandr Deyneka",  "image":  "https://use2-uploads8.wikiart.oimg/aleksandr-deyneka/winter-in-kursk-1916.jpg",  "map":  "0123**67*",  "paintingUrl":  "/en/aleksandr-deyneka/winter-in-kursk-1916",  "artistUrl":  "/en/aleksandr-deyneka",  "albums":  null,  "flags":  2,  "images":  null  } 
 ```
 
 Enter fullscreen mode Exit fullscreen mode
@@ -253,7 +253,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 为此，我需要创建[键-值对](https://en.wikipedia.org/wiki/Attribute%E2%80%93value_pair)，一个通用的编程数据模型，其中键是`image`属性的文件名部分，值是`title`、`year`和`artistName`，这样我就可以将这两个匹配起来，如下所示:
 
-[![high-level](../Images/186eef45a44dc34ae16257811bfebe3a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MX-3FVC_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/veekaybee/veekaybee.github.io/master/images/file_match.png)
+[![high-level](img/186eef45a44dc34ae16257811bfebe3a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MX-3FVC_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/veekaybee/veekaybee.github.io/mastimg/file_match.png)
 
 总而言之，我想让我的 lambda 函数做几件事。我为那个部分写的所有代码都在这里。
 
@@ -350,7 +350,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是利用了 Lambda 的临时空间:
 
-> ![Vicki Boykis profile image](../Images/ee3566a457d22ec4b003fde0777a8674.png)Vicki Boykis[@ vboykis](https://dev.to/vboykis)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)TIL 那 AWS Lambda 函数有微型文件系统，你可以用它作为临时存储([stackoverflow.com/questions/3564…](https://t.co/egCKwu6GJB))。21:03PM-03 2018 年 1 月[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=948661197011914757)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=948661197011914757)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=948661197011914757)
+> ![Vicki Boykis profile image](img/ee3566a457d22ec4b003fde0777a8674.png)Vicki Boykis[@ vboykis](https://dev.to/vboykis)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)TIL 那 AWS Lambda 函数有微型文件系统，你可以用它作为临时存储([stackoverflow.com/questions/3564…](https://t.co/egCKwu6GJB))。21:03PM-03 2018 年 1 月[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=948661197011914757)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=948661197011914757)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=948661197011914757)
 
 将文件从 S3 拉入 Lambda 的`/tmp/`文件夹，并通过文件名将它与元数据匹配，此时元数据是键值格式。
 
@@ -369,7 +369,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 预定事件可以用 cron 编写，也可以按固定速率编写。我开始编写 [cron rules](https://docs.aws.amazon.com/AmazonCloudWatch/latest/events/ScheduledEvents.html) ，但是由于我的机器人没有任何具体的要求，只要求它每六个小时发布一次，这个固定的速率对我来说已经足够了:
 
-[![high-level](../Images/102fad5dcf341a73c2027ee818d72b4d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D5eqI_Dn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/veekaybee/veekaybee.github.io/master/images/cron-rule.png)
+[![high-level](img/102fad5dcf341a73c2027ee818d72b4d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D5eqI_Dn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/veekaybee/veekaybee.github.io/mastimg/cron-rule.png)
 
 最后，我需要打包 lambda 进行分发。Lambda 运行在没有预装很多 Python 库的 Linux 机器上(除了 boto3，我之前使用的 Amazon Python 客户端库，它将 Lambda 连接到 AWS 生态系统的其他部分，以及 json。)
 
@@ -383,12 +383,12 @@ Enter fullscreen mode Exit fullscreen mode
 
 而且，就是这样！我的两个一次性脚本已经准备好，我的机器人已经启动并运行。
 
-[![high-level](../Images/4194e3329471e2ce57c388087347bd48.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3xYvEhoC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/veekaybee/veekaybee.github.io/master/images/lambda.png)
+[![high-level](img/4194e3329471e2ce57c388087347bd48.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3xYvEhoC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/veekaybee/veekaybee.github.io/mastimg/lambda.png)
 
-[![high-level](../Images/b1bf4a92f5cd9ae1aff99de1446cdea6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--soYZPFmD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/veekaybee/veekaybee.github.io/master/images/cronedjob.png)
+[![high-level](img/b1bf4a92f5cd9ae1aff99de1446cdea6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--soYZPFmD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/veekaybee/veekaybee.github.io/mastimg/cronedjob.png)
 
 这是我最后的流程:
-[![architecture](../Images/d95a0a691b686a86742915b2f439f369.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VVtJfylZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/veekaybee/veekaybee.github.io/master/images/architecture.png)
+[![architecture](img/d95a0a691b686a86742915b2f439f369.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VVtJfylZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/veekaybee/veekaybee.github.io/mastimg/architecture.png)
 
 # 下一步去哪里？
 
@@ -402,7 +402,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我第一次完成整个流程时，从一个本地 Python 项目开始，这个项目是我在 PyCharm 中开始的，并在 [GitHub](https://github.com/veekaybee/soviet-art-bot) 上进行版本控制。
 
-> ![unknown tweet media content](../Images/09268a23774866c209b7ddd99ffedc6e.png)![Vicki Boykis profile image](../Images/ee3566a457d22ec4b003fde0777a8674.png)Vicki boy kis[@ vboykis](https://dev.to/vboykis)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)我，试图解释我使用 PyCharm，使用 Sublime Text，使用 Jupyter 笔记本进行开发的案例。2018 年 1 月 18 日上午 02:26[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=953815826393595904)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=953815826393595904)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=953815826393595904)
+> ![unknown tweet media content](img/09268a23774866c209b7ddd99ffedc6e.png)![Vicki Boykis profile image](img/ee3566a457d22ec4b003fde0777a8674.png)Vicki boy kis[@ vboykis](https://dev.to/vboykis)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)我，试图解释我使用 PyCharm，使用 Sublime Text，使用 Jupyter 笔记本进行开发的案例。2018 年 1 月 18 日上午 02:26[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=953815826393595904)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=953815826393595904)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=953815826393595904)
 
 因此，当我对流程的任何部分进行更改时，我的执行流程将是:
 

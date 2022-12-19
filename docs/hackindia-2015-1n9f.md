@@ -14,4 +14,4 @@ HackIndia 是我们参加的第一个黑客马拉松，我和我的技术友好�
 
 您可以在这里查看确切的 API 规范:它列出了我们在尝试实现 IoTomate 时考虑的几乎每个端点。
 
-[![alt text](../Images/6b966e2910e8c5dcadde3eb8ef801dd1.png "Logo Title Text 1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4FWaXhe3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rddt1xzsv5j9p4cej1is.PNG)
+[![alt text](img/6b966e2910e8c5dcadde3eb8ef801dd1.png "Logo Title Text 1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4FWaXhe3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rddt1xzsv5j9p4cej1is.PNG)

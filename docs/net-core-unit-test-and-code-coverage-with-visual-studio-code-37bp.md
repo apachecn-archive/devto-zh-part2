@@ -40,7 +40,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果小智是程序员，肯定会说: **Visual Studio 代码...**
 
-[![Alt I Choose You!](../Images/16884c3d13c6981dae4e5ae24d984c59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--07-tclIq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j0gssgbhtbylpixd320l.gif)
+[![Alt I Choose You!](img/16884c3d13c6981dae4e5ae24d984c59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--07-tclIq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j0gssgbhtbylpixd320l.gif)
 
 它可以根据您的需要进行扩展。它是完美的，因为这两个扩展给了你单元测试的超能力:
 
@@ -266,4 +266,4 @@ Enter fullscreen mode Exit fullscreen mode
 **都是乡亲们！**
 **快乐编码** 🖖
 
-[![beer](../Images/192892baef71a32ea4a5e98a4927b05e.png)T2】](https://github.com/sponsors/deinsoftware)
+[![beer](img/192892baef71a32ea4a5e98a4927b05e.png)T2】](https://github.com/sponsors/deinsoftware)

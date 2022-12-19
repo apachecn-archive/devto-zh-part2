@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/hasurahq/how-to-write-dockerfiles-for-python-web-apps-5bmn>
 
-[![](../Images/6733bdfacc7611309af0f932b868b932.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oCBV0z3G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/how-to-write-dockerfiles-for-python-web-apps-6d173842ae1d/1-8rsXezmgl9VTA4zqCcUsfw.jpeg)
+[![](img/6733bdfacc7611309af0f932b868b932.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oCBV0z3G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/how-to-write-dockerfiles-for-python-web-apps-6d173842ae1d/1-8rsXezmgl9VTA4zqCcUsfw.jpeg)
 
 ## TL；速度三角形定位法(dead reckoning)
 

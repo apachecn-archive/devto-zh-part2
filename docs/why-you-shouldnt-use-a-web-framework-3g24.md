@@ -55,13 +55,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 你是阿纳金·天行者，你所能期待的只是一种生活，在这种生活中，你不知道任何事情是如何运作的，你的事业和生计都建立在你的无知之上。不，你不是达斯·维德。你没那么酷。你是阿纳金，你很差劲。
 
-[![Angry Vader is Angry](../Images/9a64995bfce8dafed85c8716babe5c14.png)T2】](https://i.giphy.com/media/DVVtaUDVCGOv6/giphy.gif)
+[![Angry Vader is Angry](img/9a64995bfce8dafed85c8716babe5c14.png)T2】](https://i.giphy.com/media/DVVtaUDVCGOv6/giphy.gif)
 
 ## 但是没有框架真的很难
 
 是吗？真的吗？你*试过*不用框架写东西吗？我的意思是，没有框架，你能写出一个漂亮、复杂、面向客户的网站吗？比如说 GitHub...
 
-[![Github has no framework nao](../Images/98830c71bcf23de7f0e42b3d68435a2c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GvY7sAKD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j7bk2ut9vk7nrda378e6.png)
+[![Github has no framework nao](img/98830c71bcf23de7f0e42b3d68435a2c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GvY7sAKD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j7bk2ut9vk7nrda378e6.png)
 
 是的，你可以！
 
@@ -115,7 +115,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我写了这篇文章的续篇和回应:
 
-[![gypsydave5 image](../Images/ae3081c50d4c953e1125e67f5f086a97.png)](/gypsydave5) [## Todo-MVP:或者“为什么你不应该使用 Web 框架”——报复
+[![gypsydave5 image](img/ae3081c50d4c953e1125e67f5f086a97.png)](/gypsydave5) [## Todo-MVP:或者“为什么你不应该使用 Web 框架”——报复
 
 ### 大卫·威克斯 11 月 26 日 184 分钟阅读
 

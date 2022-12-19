@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/psyked/building-a-humanised-command-line-interface-with-node-js-4813>
 
-<figure>[![](../Images/9a2b8568f4b463e0d68e5f149137032a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AFd45W9R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ah89l_KJR8w2NrzQXtPCAmw.jpeg) 
+<figure>[![](img/9a2b8568f4b463e0d68e5f149137032a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AFd45W9R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ah89l_KJR8w2NrzQXtPCAmw.jpeg) 
 
 <figcaption>照片由[摇滚猴子](https://unsplash.com/photos/R4WCbazrD1g?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)上 [Unsplash](https://unsplash.com/search/photos/robot-face?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 
@@ -38,7 +38,7 @@
 
 (下图)我有一个 Node.js 脚本，它与 GitHub API 通信来检索关于存储库的统计信息。它目前被设置为接受 JSON 格式的配置文件，并以 JSON 格式返回输出。
 
-<figure>[![](../Images/59b729a5acd5848c1f7f2594ef63cd64.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HFDdft3e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A9wYVk5O73upqdOuwzQRhsg.png)
+<figure>[![](img/59b729a5acd5848c1f7f2594ef63cd64.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HFDdft3e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A9wYVk5O73upqdOuwzQRhsg.png)
 
 <figcaption>getstats . JSON</figcaption>
 
@@ -50,7 +50,7 @@
 
 为了完整起见，使用的 GraphQL 查询如下所示:
 
-<figure>[![](../Images/722e861478a05aeafff7d0598cdb7c4c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JceksDgk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWgKscWyWBMi_hdV0cR26Ew.png)
+<figure>[![](img/722e861478a05aeafff7d0598cdb7c4c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JceksDgk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWgKscWyWBMi_hdV0cR26Ew.png)
 
 <figcaption>query . gql</figcaption>
 
@@ -86,7 +86,7 @@ node index.js
 
 从那时起，它切换到一个交互式的体验，看起来像这样(如下)——问问题，提示响应，最后将输入映射到一个适当的配置文件中存在的相同的数据结构。
 
-[![](../Images/2c1781684ebd06dd7032da569504f9bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8KMOepIA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/975/1%2Aa5eNNjsXIESU_a1EsTpqUA.gif)
+[![](img/2c1781684ebd06dd7032da569504f9bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8KMOepIA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/975/1%2Aa5eNNjsXIESU_a1EsTpqUA.gif)
 
 这种体验都是由一个名为 **Inquirer** 的模块促成的，该模块添加了一个非常简单的代码层，支持命令行中几种常见类型的问题。
 
@@ -94,7 +94,7 @@ node index.js
 
 查询者可以提示几种类型的数据，将问题链接在一起，验证回答等等。为了回答上面屏幕截图中的问题，我使用了下面的代码:
 
-<figure>[![](../Images/6a8e1db284af13a19f570ee147c026e9.png)T3】
+<figure>[![](img/6a8e1db284af13a19f570ee147c026e9.png)T3】
 
 <figcaption>index . js</figcaption>](https://res.cloudinary.com/practicaldev/image/fetch/s--gq9JymQv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AIRQ0WOaSRF9lV_-gu4ydbQ.png) </figure>
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/davedri/corilla-hosts-your-developer-documentation-for-free-and-forever-25ji>
 
-[![Corilla hosting](../Images/db811918a12f44d675e8ef50c5ddbbd1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--53YciuNK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3nbgvb55vk5jypw0io3d.png)
+[![Corilla hosting](img/db811918a12f44d675e8ef50c5ddbbd1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--53YciuNK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3nbgvb55vk5jypw0io3d.png)
 
 托管您的开发人员文档变得更加容易。今天，我们宣布所有的 Corilla 用户都可以获得无限量文档的永久免费托管。这也包括自由层🙌
 

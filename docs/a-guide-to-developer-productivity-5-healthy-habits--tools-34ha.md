@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/couellet/a-guide-to-developer-productivity-5-healthy-habits--tools-34ha>
 
-[![A Guide to Developer Productivity: 5 Healthy Habits & Tools](../Images/cc348f16f6836a6e8676c77693392c2b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EhHwrp4p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203621/developer-productivity-habits.jpg)
+[![A Guide to Developer Productivity: 5 Healthy Habits & Tools](img/cc348f16f6836a6e8676c77693392c2b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EhHwrp4p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203621/developer-productivity-habits.jpg)
 
 在纸面上，软件和 web 开发是一个结构化的、有序的过程。
 

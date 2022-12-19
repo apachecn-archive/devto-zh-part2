@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/etafavoti/5-ways-to-expand-your-developer-recruitment-pool-4nkl>
 
-[![5 Ways to Expand Your Developer Recruitment Pool](../Images/8b3665f73fc997915ff7d92cd5f26da1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ydRBzw0A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9dp0869lev5ny8nb1ohb.png)
+[![5 Ways to Expand Your Developer Recruitment Pool](img/8b3665f73fc997915ff7d92cd5f26da1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ydRBzw0A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9dp0869lev5ny8nb1ohb.png)
 
 你发现自己处于这样一种情况，你的公司需要招聘网站开发人员。也许你的团队需要扩大规模，而你发现自己有能力雇佣一两个技术人员来满足需求。或者，您现有的开发人员辞职了，现在您需要填补他们的空缺以赶上截止日期。
 

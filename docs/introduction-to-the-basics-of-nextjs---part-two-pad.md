@@ -4,7 +4,7 @@
 
 从上一个教程开始
 
-[![aurelkurtula image](../Images/e1a1b48b6a401b86d5a91c8729e26a35.png)](/aurelkurtula) [## Next.js 基础介绍
+[![aurelkurtula image](img/e1a1b48b6a401b86d5a91c8729e26a35.png)](/aurelkurtula) [## Next.js 基础介绍
 
 ### aurel Kurt ula Aug 22 ' 187min read
 
@@ -74,7 +74,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 回想一下[之前的教程](https://dev.to/aurelkurtula/introduction-to-the-basics-of-nextjs-1loa)，我们有一个显示赞数的赞按钮。我们当然希望能够增加按钮点击时的喜欢
 
-[![](../Images/3727f9c67a1110c7dab8cbe4c4c41211.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QtX25e37--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wcniyujp3p1l0l8ulgv2.png)
+[![](img/3727f9c67a1110c7dab8cbe4c4c41211.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QtX25e37--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wcniyujp3p1l0l8ulgv2.png)
 
 像往常一样，在 react 开发中，我们将在索引页面组件(`./pages/index.js`)中创建功能，并将其作为道具传递下去(这就是为什么 [learning redux](https://dev.to/aurelkurtula/a-beginners-introduction-to-working-with-redux-in-react-13k) 在这些情况下非常棒)
 
@@ -199,7 +199,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 最后，我们需要处理表单。
 
-[![](../Images/da183332825391a762d20d787e3f2b3f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S5TgUbGc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--9bHf5DQ5--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_auto%252Cw_880/https://thepracticaldev.s3.amazonaws.com/i/irlbts6oerwyguyksoo3.png)
+[![](img/da183332825391a762d20d787e3f2b3f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S5TgUbGc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--9bHf5DQ5--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_auto%252Cw_880/https://thepracticaldev.s3.amazonaws.com/i/irlbts6oerwyguyksoo3.png)
 
 让我们添加向状态和服务器添加注释的功能。首先创建`onSubmit`功能并将其链接到表单。
 

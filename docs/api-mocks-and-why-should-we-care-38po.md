@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kapil_aggarwal1/api-mocks-and-why-should-we-care-38po>
 
-[![](../Images/31822b78035c50ad5a2d2cb2c112c90c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uFWLZ65z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A66KbxEMsRw0w8I_qcTT0pg.jpeg)
+[![](img/31822b78035c50ad5a2d2cb2c112c90c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uFWLZ65z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A66KbxEMsRw0w8I_qcTT0pg.jpeg)
 
 服务虚拟化、假货、存根、模仿、虚拟等都是不同类别的测试替身，它们在更广泛的层面上以受控的方式返回给定请求的响应。
 
@@ -54,7 +54,7 @@ API 模拟的其他好处是
 
 > 我们是应该模仿我们自己的后端 API，还是应该模仿 UI 的所有后端 API。
 
-[![](../Images/f12c57b725cf912dcde1b305b1edc3a9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--C3_lWNWx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AMnngq59LoQMeacfmPhIleg.png) 
+[![](img/f12c57b725cf912dcde1b305b1edc3a9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--C3_lWNWx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AMnngq59LoQMeacfmPhIleg.png) 
 
 <figcaption>后端戏弄</figcaption>
 
@@ -62,7 +62,7 @@ API 模拟的其他好处是
 
 假设团队以某种方式同意接近 UI 后端的所有东西都将被嘲笑的地方。参考下文
 
-[![](../Images/1ecdbd624ba8d7a38e20b3196ec65952.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fj9WdroJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AZ24cwTHzTA5BC_80RYvdQg.png) 
+[![](img/1ecdbd624ba8d7a38e20b3196ec65952.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fj9WdroJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AZ24cwTHzTA5BC_80RYvdQg.png) 
 
 <figcaption>UI 后端嘲讽</figcaption>
 
@@ -125,7 +125,7 @@ public static void main(String[] args){
 
 **模板**
 
-[![](../Images/53e1eec9437d7155a6e230a2122966b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QA97KjWP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/225/1%2A-bQMHPTZfCp-Pm4n9ilskA.jpeg)
+[![](img/53e1eec9437d7155a6e230a2122966b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QA97KjWP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/225/1%2A-bQMHPTZfCp-Pm4n9ilskA.jpeg)
 
 如果 UI 测试和模拟在不同的时区运行，那么日期时间的模板化问题需要非常仔细地分类。
 

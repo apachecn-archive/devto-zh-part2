@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jperasmus/how-to-set-firebase-security-rules-for-your-flamelink-project-23fn>
 
-[![](../Images/cbe7620f393b8a2a885ed094bb3b91fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uS5ka-md--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AGP0t7I3CXbma7EHrkk08JA.jpeg)
+[![](img/cbe7620f393b8a2a885ed094bb3b91fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uS5ka-md--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AGP0t7I3CXbma7EHrkk08JA.jpeg)
 
 所以你终于准备好把你的 Flamelink 项目的训练轮子拿下来并投入使用了。在此之前，您是否已经为您的数据库设置了适当的规则？不，真的，你应该！
 

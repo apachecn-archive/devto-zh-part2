@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/brandonskerritt/what-is-a-decision-tree-in-machine-learning-5bcb>
 
-[![](../Images/3a08fe032705c73a5878b7e9f2b2ae96.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WZoaPzxG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AofMfrqFMfpaTH_RMvI_RQA.jpeg)
+[![](img/3a08fe032705c73a5878b7e9f2b2ae96.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WZoaPzxG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AofMfrqFMfpaTH_RMvI_RQA.jpeg)
 
 决策树，最简单也是最有用的机器学习结构之一。决策树，顾名思义，就是决策的[树](https://medium.com/brandons-computer-science-notes/trees-the-data-structure-e3cb5aabfee9)。
 
@@ -10,7 +10,7 @@
 
 [什么是机器学习中的决策树？](https://skerritt.blog/what-is-a-decision-tree-in-machine-learning/)
 
-<figure>[![Image result for decision tree](../Images/70388f84b88cb4ab5ec649b042da40ad.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--K6_BIPBL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/0%2AYclq0kqMAwCQcIV_.jpg) 
+<figure>[![Image result for decision tree](img/70388f84b88cb4ab5ec649b042da40ad.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--K6_BIPBL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/0%2AYclq0kqMAwCQcIV_.jpg) 
 
 <figcaption>取自[此处](https://becominghuman.ai/understanding-decision-trees-43032111380f)</figcaption>
 
@@ -24,7 +24,7 @@
 
 树在机器学习中很重要，因为它们不仅让我们可视化算法，而且是机器学习的一种类型。以这个算法为例。
 
-<figure>[![](../Images/adf0b3248284fb9ae8aa081924f192ec.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--R0ljhYw9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/360/0%2ALFepwBvXOWkxezDX) 
+<figure>[![](img/adf0b3248284fb9ae8aa081924f192ec.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--R0ljhYw9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/360/0%2ALFepwBvXOWkxezDX) 
 
 <figcaption>取自[此处](https://www.wikiwand.com/en/Decision_tree_learning)</figcaption>
 
@@ -40,11 +40,11 @@
 
 在现实生活中，决策树并不总是那么容易。看看这张照片，振作起来。我会尽可能多地描述它。
 
-<figure>[![](../Images/b028e5b94160786eae8f1996409499cb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FV_iVVNe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ae_2uJcDN5hKQM9V2InylVA.png)T4】😴—当我不得不看这张图片时的我</figure>
+<figure>[![](img/b028e5b94160786eae8f1996409499cb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FV_iVVNe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ae_2uJcDN5hKQM9V2InylVA.png)T4】😴—当我不得不看这张图片时的我</figure>
 
 这是一棵决策树。它想回答“我能吃这个蘑菇吗？”
 
-<figure>[![](../Images/9023feef8ed5934ba43e3f7b4769b8a4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZBDyQZkh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/640/0%2AeYlru012PubUH5qD.JPG) 
+<figure>[![](img/9023feef8ed5934ba43e3f7b4769b8a4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZBDyQZkh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/640/0%2AeYlru012PubUH5qD.JPG) 
 
 <figcaption>取自[此处](https://www.wikiwand.com/en/Mushroom)</figcaption>
 
@@ -68,7 +68,7 @@
 
 让我们直接看一个例子。
 
-<figure>[![](../Images/41aa22e6274b5252f816a16cbbec44f0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Qq-fNS6D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/635/1%2AeyHyrMqFuaJCEbFiuzGIdg.png) 
+<figure>[![](img/41aa22e6274b5252f816a16cbbec44f0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Qq-fNS6D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/635/1%2AeyHyrMqFuaJCEbFiuzGIdg.png) 
 
 <figcaption>为模糊的公式抱歉。这是截屏乳胶的问题😢</figcaption>
 
@@ -76,15 +76,15 @@
 
 花里胡哨的小“***”^***”的意思是*。这是一些奇特的数学符号。更多类似的符号，请查看我写的这篇文章。在这个符号中，当我们看不到连接两个项目的任何东西(如 *x2* 和 *x5* )时，我们假设它是“*和*”。我们想要一个当 *x2* 和 *x5* 都为真时返回**真**的决策树。*
 
- *[![](../Images/931d1afeb1af3bfc9884cb164e1ef882.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zdt0Jm7S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/611/1%2ATMJZmOcSn53PReeaxfeBGw.png)
+ *[![](img/931d1afeb1af3bfc9884cb164e1ef882.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zdt0Jm7S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/611/1%2ATMJZmOcSn53PReeaxfeBGw.png)
 
 好吧，让我们看看另一个。
 
-[![](../Images/cab709358726ba21161bd992e2d202ca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hnzBIdnR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/449/1%2ALtuzvXS1JjJ0Ab8e5KT7GQ.png)
+[![](img/cab709358726ba21161bd992e2d202ca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hnzBIdnR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/449/1%2ALtuzvXS1JjJ0Ab8e5KT7GQ.png)
 
 这个有很多逻辑符号。你可能想看看我写的另一篇文章。好的，“”符号表示“*或*”,“是”表示“*不是*”。
 
-<figure>[![](../Images/5fb96f3f8224932eab6db801df0e5bce.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--k7wljVyq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/329/1%2ADS4VcU4U3SDkUomS5jknmA.png) 
+<figure>[![](img/5fb96f3f8224932eab6db801df0e5bce.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--k7wljVyq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/329/1%2ADS4VcU4U3SDkUomS5jknmA.png) 
 
 <figcaption>注意，如果 X1 为**而非**真，那么 X1 的判定如何变为真。这是因为在正式符号中，它前面有“非”符号。</figcaption>
 
@@ -94,7 +94,7 @@
 
 决策树是通过从根节点获取数据并将数据分割成多个部分来制作的。
 
-<figure>[![](../Images/adf0b3248284fb9ae8aa081924f192ec.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--R0ljhYw9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/360/0%2ALFepwBvXOWkxezDX) 
+<figure>[![](img/adf0b3248284fb9ae8aa081924f192ec.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--R0ljhYw9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/360/0%2ALFepwBvXOWkxezDX) 
 
 <figcaption>取自[此处](https://www.wikiwand.com/en/Decision_tree_learning)</figcaption>
 
@@ -134,13 +134,13 @@ Split 3 \> 1.5
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/d983ed1c5c79c4326ced02568f63daf3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3TjhzLmL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/750/1%2A6imRsG1-PADkjrYaYtzBgg.png)
+[![](img/d983ed1c5c79c4326ced02568f63daf3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3TjhzLmL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/750/1%2A6imRsG1-PADkjrYaYtzBgg.png)
 
 我们现在有一个分离的决策树。如果我们不分割数据，树看起来就不太像树。想象一下，如果我们的分割是“*所有数据小于 3* ”，那么树会是什么样子。一切都会在那里！它不会很像树。
 
 ### 奥卡姆剃刀
 
-<figure>[![](../Images/069709995e2c5a23111575842a4a0e22.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0Yt0N9HY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/0%2AhmAFTUepd_9u3P4x.jpeg) 
+<figure>[![](img/069709995e2c5a23111575842a4a0e22.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0Yt0N9HY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/0%2AhmAFTUepd_9u3P4x.jpeg) 
 
 <figcaption>奥卡姆威廉的形象，出自这里的。</figcaption>
 
@@ -178,21 +178,21 @@ Enter fullscreen mode Exit fullscreen mode
 
 假设我们正在计算自行车的种类，我们有 4 辆自行车。我们给每辆自行车分配一个代码，如下所示:
 
-[![](../Images/6450c229b0aa1593d78d04207592e196.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r6OqyhAH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/391/1%2AabbFixm6lr_ENDq5OuVFsw.png)
+[![](img/6450c229b0aa1593d78d04207592e196.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r6OqyhAH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/391/1%2AabbFixm6lr_ENDq5OuVFsw.png)
 
 对于每辆自行车，我们都给它一个号码。对于每个编码，我们可以看到我们使用 2 位。不是 0 就是 1。对于期望值，我们不仅需要变量的值，还需要概率。每辆自行车都有相等的概率。所以每辆自行车都有 25%的几率出现。
 
 计算期望值时，我们将概率乘以 2 位，得到:
 
-[![](../Images/30496b5910e7fa2ae64049f1434b73ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LgQaYy2M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/624/1%2ACOX5CcPoUAawmFXqd_27WQ.png)
+[![](img/30496b5910e7fa2ae64049f1434b73ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LgQaYy2M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/624/1%2ACOX5CcPoUAawmFXqd_27WQ.png)
 
 如果概率不相等呢？
 
-[![](../Images/960bc85321a9ec9694ddb13117c0b65a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n8KH5KuN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/856/1%2A2BN_KfFV2guDUfs89gBSLA.png)
+[![](img/960bc85321a9ec9694ddb13117c0b65a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n8KH5KuN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/856/1%2A2BN_KfFV2guDUfs89gBSLA.png)
 
 我们需要做的是用概率乘以位数
 
-[![](../Images/0b8e147e1a7e1fec228401f391b5e183.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2225WcON--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AwHvOPbsGOQYbRuMh-A_Ybg.png)
+[![](img/0b8e147e1a7e1fec228401f391b5e183.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2225WcON--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AwHvOPbsGOQYbRuMh-A_Ybg.png)
 
 ### 熵
 
@@ -200,23 +200,23 @@ Enter fullscreen mode Exit fullscreen mode
 
 还记得之前我们谈到的纯洁吗？熵是杂质的量度。而是事情有多不确定。熵的公式是:
 
-[![](../Images/1c3f3a409b452a708d6f3f74973e7ffa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TwN8Z8JZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/630/1%2Ac_3RiTHigg36ry1XOTiQwg.png)
+[![](img/1c3f3a409b452a708d6f3f74973e7ffa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TwN8Z8JZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/630/1%2Ac_3RiTHigg36ry1XOTiQwg.png)
 
 熵试图给事物的不确定性一个数字。
 
 你也可以有条件熵，看起来像这样:
 
-[![](../Images/79f84340208ae56b4074dc36222b4ae2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TcVTG23v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/548/1%2AGJo4JB5Jv8i5OWKct9OJZA.png)
+[![](img/79f84340208ae56b4074dc36222b4ae2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TcVTG23v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/548/1%2AGJo4JB5Jv8i5OWKct9OJZA.png)
 
 #### 信息增益示例
 
 让我们用一个例子来说明这一点。
 
-[![](../Images/e5a2108a3bb1fb7c790edfd3a231bef6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KV8Ks8Nu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/922/1%2AuMkQDAal44EIn2257ypZUw.png)
+[![](img/e5a2108a3bb1fb7c790edfd3a231bef6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KV8Ks8Nu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/922/1%2AuMkQDAal44EIn2257ypZUw.png)
 
 在湿度上分裂的信息增益是多少？
 
-<figure>[![](../Images/956cf0865a89c1e8794a44ca078f1845.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--r9mcYl5S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/374/1%2AkppGR115DWCB7CGCNG2k0A.png) 
+<figure>[![](img/956cf0865a89c1e8794a44ca078f1845.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--r9mcYl5S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/374/1%2AkppGR115DWCB7CGCNG2k0A.png) 
 
 <figcaption>关于湿度分裂的例子</figcaption>
 
@@ -226,17 +226,17 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在我们想找出湿度的信息增益。如果湿度很高，我们会查看数据，并计算有多少人认为湿度很高。所以当湿度高时，我们有 3+和 4-。3 正 4 负。
 
-<figure>[![](../Images/5a3950d1f980a7519ccc97d7887bf235.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--K3RN5_6k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/864/1%2AFP039Ozp4LvQISAfgF1Rmw.png) 
+<figure>[![](img/5a3950d1f980a7519ccc97d7887bf235.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--K3RN5_6k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/864/1%2AFP039Ozp4LvQISAfgF1Rmw.png) 
 
 <figcaption>D 表示具体样品，D.</figcaption>
 
 </figure>
 
-[![](../Images/e5a2108a3bb1fb7c790edfd3a231bef6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KV8Ks8Nu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/922/1%2AuMkQDAal44EIn2257ypZUw.png)
+[![](img/e5a2108a3bb1fb7c790edfd3a231bef6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KV8Ks8Nu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/922/1%2AuMkQDAal44EIn2257ypZUw.png)
 
 信息增益是不确定性之间的差距。我们总共有 14 组数据，分母总是 14。现在我们用公式来计算它们。湿度大时打网球(是)的信息增益为:
 
-<figure>[![](../Images/dbe0b7592d73ca2796b7cedc78305241.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CCcSqD19--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/988/1%2A7exXE5m7ACI5wWMGv4OKug.png) 
+<figure>[![](img/dbe0b7592d73ca2796b7cedc78305241.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CCcSqD19--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/988/1%2A7exXE5m7ACI5wWMGv4OKug.png) 
 
 <figcaption>三是四非</figcaption>
 
@@ -244,7 +244,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 而湿度正常时打网球的信息增益是:
 
-<figure>[![](../Images/fdf53a307d78749ce34c15f4e750fd55.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oYwr1kQL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/993/1%2A0SACBDQmRdlC64HO8wYjAg.png) 
+<figure>[![](img/fdf53a307d78749ce34c15f4e750fd55.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oYwr1kQL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/993/1%2A0SACBDQmRdlC64HO8wYjAg.png) 
 
 <figcaption>6 个是和 1 个否</figcaption>
 
@@ -252,21 +252,21 @@ Enter fullscreen mode Exit fullscreen mode
 
 这不是某件事发生的可能性有多大，而是我们从中获得了多少信息。当我们想要分割某物时，我们使用信息增益。在下面的例子中，我们想知道是按湿度还是按风力来划分更好。
 
-[![](../Images/2e536ad735946661b593862ecf977004.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C8bO1UmO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/865/1%2Aj3b8QX69jtM7fTfsniP1ow.png)
+[![](img/2e536ad735946661b593862ecf977004.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C8bO1UmO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/865/1%2Aj3b8QX69jtM7fTfsniP1ow.png)
 
 现在我们知道了每次分裂的信息增益是多少，我们应用信息增益公式。
 
-[![](../Images/aea384ee78653ff0957ee5f54800d51d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aIPDlGW8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/589/1%2Af6WKkGsiJVULpmGWmRTTmQ.png)
+[![](img/aea384ee78653ff0957ee5f54800d51d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aIPDlGW8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/589/1%2Af6WKkGsiJVULpmGWmRTTmQ.png)
 
 在我们的样本中，湿度分裂的信息增益 D 是 0.151。
 
 如果我们在风的部分使用相同的熵公式，我们得到这些结果:
 
-[![](../Images/14979b954207b7e21f51743c7d621c14.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L98Hf6jC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/472/1%2ArNuDYRWkgn5QbKD27rDDLQ.png)
+[![](img/14979b954207b7e21f51743c7d621c14.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L98Hf6jC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/472/1%2ArNuDYRWkgn5QbKD27rDDLQ.png)
 
 如果我们把它们放入信息增益公式，我们得到:
 
-[![](../Images/bafee39ac0ea4099911effebfa4ddad0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iENrIKLQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/524/1%2Afs8BNCd10a-3d90E8AiYuQ.png)
+[![](img/bafee39ac0ea4099911effebfa4ddad0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iENrIKLQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/524/1%2Afs8BNCd10a-3d90E8AiYuQ.png)
 
 由于湿度具有更高的信息增益，因此最好根据湿度而不是风来分割。
 
@@ -274,7 +274,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们想做的是检验一个机器学习模型的准确度。
 
-[![](../Images/f2774bb6ee6e6dba492e7a748659d1ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HsTuFtXt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/859/1%2AnQGqgAMF-PfSxHchOoTIWQ.png)
+[![](img/f2774bb6ee6e6dba492e7a748659d1ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HsTuFtXt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/859/1%2AnQGqgAMF-PfSxHchOoTIWQ.png)
 
 M(x)表示给定一个样本，X，我们给出预测的分类。标签。lx 其实才是真正的标签。这个样本已经被贴上标签，所以我们知道真正的标签。这组样本表明这些标签是正确的。
 
@@ -284,7 +284,7 @@ M(x)表示给定一个样本，X，我们给出预测的分类。标签。lx 其
 
 看下面的例子。我们有这个公式和嘈杂的数据。
 
-[![](../Images/2ad1e02216bd02c9cfa3df5bf9e3fdee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qwygwe9v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/822/1%2AYfenrQToBs03KizsRUDm4A.png)
+[![](img/2ad1e02216bd02c9cfa3df5bf9e3fdee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qwygwe9v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/822/1%2AYfenrQToBs03KizsRUDm4A.png)
 
 有噪声的数据意味着数据不正确。我们的公式是 X1，X2 =真。我们嘈杂的数据是真的假的=真的，这是错的。
 
@@ -292,17 +292,17 @@ x3、x4、x5 都是附加功能。我们不关心它们，但这只是一个例�
 
 我们建立一个决策树，可以完美匹配训练数据。
 
-[![](../Images/3e2126a8d0cdc43655499137b9b2d539.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3aS0n9DR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/384/1%2AX7wC32mD2NEODDl0ME2jzw.png)
+[![](img/3e2126a8d0cdc43655499137b9b2d539.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3aS0n9DR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/384/1%2AX7wC32mD2NEODDl0ME2jzw.png)
 
 精确度是
 
-[![](../Images/10f8ae81c31ab860b5205c88e6881b98.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k1rFvDqr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/525/1%2ABIzo-gvZI24GTCCCj0sT1w.png)
+[![](img/10f8ae81c31ab860b5205c88e6881b98.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k1rFvDqr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/525/1%2ABIzo-gvZI24GTCCCj0sT1w.png)
 
 问题是它与训练数据完全匹配，100%，但由于噪音数据，它在真实数据上的表现不是很好。这一个小错误会形成一个更大的决策树，并导致它在现实世界中表现不佳。
 
 如果我们建立一个能够很好地处理真实数据的决策树，我们会得到这样的结果:
 
-[![](../Images/71b46a867bea63a436f8226556317246.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z9vmRhH9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AQrPJtfJ1LIJttuCa42itWg.png)
+[![](img/71b46a867bea63a436f8226556317246.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z9vmRhH9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AQrPJtfJ1LIJttuCa42itWg.png)
 
 尽管它在训练集中表现较差，但由于不用担心噪声数据，它在真实世界数据中表现完美。
 
@@ -310,23 +310,23 @@ x3、x4、x5 都是附加功能。我们不关心它们，但这只是一个例�
 
 ### 无噪声数据过拟合
 
-[![](../Images/3a36d4208ae7fa66cfd4713f65c82c5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y6RyWivI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/912/1%2A_CtD1GdnMkecKDPLe6_LEQ.png)
+[![](img/3a36d4208ae7fa66cfd4713f65c82c5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y6RyWivI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/912/1%2A_CtD1GdnMkecKDPLe6_LEQ.png)
 
 以下是每种情况的概率:
 
-[![](../Images/40b218ade13afb017fa276d67806d6e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i5IK8X9p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/307/1%2An-B1Cz6fO01G7zbVg2X9vw.png)
+[![](img/40b218ade13afb017fa276d67806d6e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i5IK8X9p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/307/1%2An-B1Cz6fO01G7zbVg2X9vw.png)
 
-[![](../Images/0e2ad3a02ab9bf2ae4cab516df70fdfa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t1mT1glv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/289/1%2A1AylUEp77wSf-Y_ohZqskw.png)
+[![](img/0e2ad3a02ab9bf2ae4cab516df70fdfa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t1mT1glv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/289/1%2A1AylUEp77wSf-Y_ohZqskw.png)
 
 有 50%的可能性，结果 *x3* 为真。有 0.66%的可能性，结果 *Y* 为真。
 
 对于我们的第一个模型，让我们快速浏览一下。
 
-[![](../Images/c928a53cde70f5dd355e5eef57c0f0da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HT-GkRo0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/379/1%2AVs0Dbag9ScC1uYApUqdFBw.png)
+[![](img/c928a53cde70f5dd355e5eef57c0f0da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HT-GkRo0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/379/1%2AVs0Dbag9ScC1uYApUqdFBw.png)
 
 精确度为:
 
-[![](../Images/6c640b220865b6f993d22efed84cc783.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yLsWq_d0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/548/1%2Ac4hLm7KbonQorvCDSweTUg.png)
+[![](img/6c640b220865b6f993d22efed84cc783.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yLsWq_d0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/548/1%2Ac4hLm7KbonQorvCDSweTUg.png)
 
 它在训练数据上表现很好，但在真实世界数据(D_true)上表现不佳。由此可知，过度拟合已经发生。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/starbist/roadmap-september-2018-251n>
 
-[![Roadmap, September 2018](../Images/df86f2eb9f59bd708cdb6eafe44ff46c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x2A5Atwc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/553rpwxkw5btpx1fzaiq.jpg)
+[![Roadmap, September 2018](img/df86f2eb9f59bd708cdb6eafe44ff46c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x2A5Atwc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/553rpwxkw5btpx1fzaiq.jpg)
 
 为自己设计路线图的灵感来自于 C. Todd Lombardo 在电视上关于路线图的演讲:[路线图已经死了！路线图万岁！](https://speakerdeck.com/iamctodd/roadmaps-are-dead-long-live-roadmaps-mtpcon-2018)。我制作了这个路线图来提醒自己，为职业生涯制定一个计划是多么重要。如果我没有实现每一个目标，那也没关系，只要我一直在追踪这个愿景。
 

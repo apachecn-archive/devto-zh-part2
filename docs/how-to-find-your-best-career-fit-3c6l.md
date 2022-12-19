@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/aviaryan/how-to-find-your-best-career-fit-3c6l>
 
-[![cover](../Images/3b15fc0d4e6216710b36ddbb601e63b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oGD2YYtU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.us-east-2.amazonaws.com/devletters/covers/youhere.jpeg)
+[![cover](img/3b15fc0d4e6216710b36ddbb601e63b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oGD2YYtU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.us-east-2.amazonaws.com/devletters/covers/youhere.jpeg)
 
 > 首次发布于 [Dev Letters](https://devletters.com/letters/choosing-your-career/)
 

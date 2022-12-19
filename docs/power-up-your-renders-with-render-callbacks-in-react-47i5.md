@@ -12,7 +12,7 @@
 
 Blep。
 
-[![OvbGwwI.jpg](../Images/e8f1df3655d46533803e7651ad8a51f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AiU9QBfb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/yR3OeJATbKZx109BUvnm)
+[![OvbGwwI.jpg](img/e8f1df3655d46533803e7651ad8a51f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AiU9QBfb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/yR3OeJATbKZx109BUvnm)
 
 嗯，那不是很令人兴奋。至少现在还没有。我们首先需要的是一个想法。让我们建立一个共享工具栏！这很简单。我们将有一排图标:一个与脸书共享；一个分享到 Twitter 一个通过电子邮件发送；一个用来复制永久链接。听起来很简单。我在很多网站上都看到过这些。
 
@@ -31,7 +31,7 @@ function ShareToolbar(props) {
 
 现在看起来有点像了。没什么特别的。但是，我想在这里多做一点。我希望能够设计每个链接。可能把它们变成带有 SVG 图标的社交图标按钮。我可能希望他们有计算过的超链接。我还想为 permalink 创建一个“抽屉”，这样我们就可以在可爱的按钮旁边看到一个简短的 url。
 
-[![giphy-downsized.gif](../Images/3a50517a6f563fb44ef4a5d092086d77.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IpLJy9vn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/N88nkuDfRJKEl9yo0zok)
+[![giphy-downsized.gif](img/3a50517a6f563fb44ef4a5d092086d77.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IpLJy9vn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/N88nkuDfRJKEl9yo0zok)
 
 ```
 const Item = (props) =>

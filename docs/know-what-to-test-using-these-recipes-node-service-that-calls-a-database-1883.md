@@ -51,7 +51,7 @@
 现在 PostgreSQL 正在运行，我们已经创建了一个新的数据库，让我们开始我们的第一个场景。
 
 给你一个预览，我们的目录结构最终会是这样的:
-[![](../Images/0e11974eb158ee0a4b37c80d6eb17c0c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6X3O-PO6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.coreycleary.me/wp-content/uploads/2018/08/Screen-Shot-2018-08-27-at-7.30.07-PM.png)
+[![](img/0e11974eb158ee0a4b37c80d6eb17c0c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6X3O-PO6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.coreycleary.me/wp-content/uploads/2018/08/Screen-Shot-2018-08-27-at-7.30.07-PM.png)
 
 最终形式的完整代码可以在这里下载[，但是我建议您跟随它，因为您将看到每个测试的代码进度。有时，当我们添加更多的测试和覆盖更多的场景时，我们将不得不回来改变一个函数的实现。](https://github.com/coreyc/test-recipes-service-to-db)
 

@@ -22,7 +22,7 @@
 ## 冒泡排序
 
 在冒泡排序中，我们一次比较两个项目，我们或者交换它们，或者继续比较下一对。众所周知，它非常慢，但是从概念上来说，它是排序算法中最简单的。
-T3![](../Images/eb3fe395cda229de67b65bd757e54013.png)T5】
+T3![](img/eb3fe395cda229de67b65bd757e54013.png)T5】
 
 一段伪代码，展示了如何对大小为 *n*
 的数组进行排序
@@ -74,7 +74,7 @@ public void bubbleSort() {
 ## 选择排序
 
 在选择排序中，我们沿着数据移动，选择最小的项，将选中的项交换到位置 0，依此类推。
-[![](../Images/e88cfcf622b028c2a54ea0885c73fe29.png)](http://www.cs.rmit.edu.au/online/blackboard/chapter/05/documents/contribute/chapter/09/array-sorting.html) 
+[![](img/e88cfcf622b028c2a54ea0885c73fe29.png)](http://www.cs.rmit.edu.au/online/blackboard/chapter/05/documents/contribute/chapter/09/array-sorting.html) 
 一个大小为 *n*
 的数组的伪代码
 
@@ -121,7 +121,7 @@ public void selectionSort() {
 ## 插入排序
 
 我们把数据分成 *2 个列表*(排序和未排序)。在每次迭代中，未排序列表的第一个元素被插入到排序列表的适当位置。
-[![](../Images/2084f65f7453ea6965eab877622515df.png)](http://www.cs.rmit.edu.au/online/blackboard/chapter/05/documents/contribute/chapter/09/array-sorting.html) 
+[![](img/2084f65f7453ea6965eab877622515df.png)](http://www.cs.rmit.edu.au/online/blackboard/chapter/05/documents/contribute/chapter/09/array-sorting.html) 
 伪代码
 
 ```

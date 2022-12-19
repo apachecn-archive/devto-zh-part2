@@ -6,7 +6,7 @@
 
 Android 应用程序正在兴起，并且有不同的技术用于开发。随着时间的推移，开发人员已经使用了 Lua、C#、JavaScript、C/C++、Scala 和 Clojure 等语言，但更常见的两个名称是 Kotlin 和 Java。这两种技术在争夺最好的 Android 应用程序开发工具上不分上下。
 
-[![](../Images/b1bca427ad367b78698ac1e14b2a13e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o2Xh21IC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AQfvy2d532fu28lBNwAFohQ.jpeg)
+[![](img/b1bca427ad367b78698ac1e14b2a13e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o2Xh21IC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AQfvy2d532fu28lBNwAFohQ.jpeg)
 
 谷歌 I/O 在一次会议上宣布，他们正在考虑将 Kotlin 作为他们开发 android 应用程序的官方支持开发语言，这场辩论由此开始。从那时起，人们就在争论 Java 和 Kotlin 哪个更适合 Android 应用程序开发。让我们一劳永逸地结束这场辩论。下面是一个有效的 Android 开发工具需要的一些特性，让我们看看是 Kotlin 还是 Java 更好。
 

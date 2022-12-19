@@ -61,7 +61,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 虽然我没有真实世界的数据来测试，但我通过生成一系列随机观察和响应进行了测试，然后使用 scikit-learn 的 KFold 实用函数对 10 维空间中的观察进行了一系列具有不同 B 值的测试。
 
-[![](../Images/e8fc1d6e10fdc0e2f896f6c33109550a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IX8Tm6Yx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hrejhb4p2hgzoi0kzqev.png)
+[![](img/e8fc1d6e10fdc0e2f896f6c33109550a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IX8Tm6Yx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hrejhb4p2hgzoi0kzqev.png)
 
 而测试笔记本是[这里](https://gist.github.com/Jeffrey04/8d4b0b9899832b39c36d7d9126df0e6e)。
 

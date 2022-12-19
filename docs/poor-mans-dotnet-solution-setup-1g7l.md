@@ -10,7 +10,7 @@
 
 让我抓狂的是一个项目初始化。我厌倦了不断输入相同的命令行命令来建立一个新的解决方案。和每一个开发者一样，我是一个懒惰的人。
 
-[![Lazy](../Images/ac9105d3dad2680d38bd46030c3753bf.png)T2】](https://i.giphy.com/media/VjWNQMfCIHxS0/giphy.gif)
+[![Lazy](img/ac9105d3dad2680d38bd46030c3753bf.png)T2】](https://i.giphy.com/media/VjWNQMfCIHxS0/giphy.gif)
 
 为了避免一遍又一遍地做这些无聊的事情，我决定写一个 bash 脚本来代替我做所有那些乏味的工作。它的源代码可以在我的 GitHub repo 上找到。
 

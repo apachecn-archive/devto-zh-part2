@@ -8,7 +8,7 @@
 
 去年 10 月，我用 [Kubernetes 支持](https://www.oreilly.com/ideas/how-to-manage-docker-containers-in-kubernetes-with-java)扩展了我的简单的基于 Java 微服务的“ [Docker Java Shopping](https://github.com/danielbryantuk/oreilly-docker-java-shopping) ”容器部署演示。如果您有时间完成本教程，您应该已经在 Docker images 中打包了三个简单的 Java 服务 shopfront 和 stockmanager Spring Boot 服务，以及产品目录 Java EE DropWizard 服务，并将生成的容器部署到本地的 [minikube 支持的](https://github.com/kubernetes/minikube) Kubernetes 集群中。我还向您展示了如何通过使用[节点端口服务](https://kubernetes.io/docs/concepts/services-networking/service/#type-nodeport)映射和公开 Kubernetes 集群端口，向最终用户开放店面服务。虽然这对于演示来说是可行的，但是许多人问如何在 API 网关后面部署应用程序。这是一个很好的问题，因此我渴望在本教程系列中添加另一篇文章，目标是在开源的 Kubernetes-native[Ambassador API Gateway](https://www.getambassador.io/)后面部署“Docker Java Shopping”Java 应用程序。
 
-[![Docker Java Shopping app](../Images/f5d80131cec5c5a76fa8a9af0daf1dc9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HfAtQJv5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.datawire.io/wp-content/uploads/2018/02/ambassador-tutorial.png) 
+[![Docker Java Shopping app](img/f5d80131cec5c5a76fa8a9af0daf1dc9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HfAtQJv5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.datawire.io/wp-content/uploads/2018/02/ambassador-tutorial.png) 
 **图 1。使用 Ambassador API 网关部署的“Docker Java 购物”应用程序**
 
 ## 快速旁白:为什么要使用 API 网关？

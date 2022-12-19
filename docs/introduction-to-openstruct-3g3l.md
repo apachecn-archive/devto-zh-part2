@@ -4,7 +4,7 @@
 
 OpenStruct 简介
 
-[![](../Images/d40530bc28c10a217c9e0790566a734b.png)](https://i.giphy.com/media/LHZyixOnHwDDy/giphy.gif) 
+[![](img/d40530bc28c10a217c9e0790566a734b.png)](https://i.giphy.com/media/LHZyixOnHwDDy/giphy.gif) 
 *(原因每篇文章都需要一点 gif)*
 
 上周，我接到一个任务，开始处理从数据库中提取的一些 CSV 数据。已经存在处理数据的代码，所以我需要确保无论应用什么更改，它们都是向后兼容的。数据是数组的 csv 表示形式。当前的代码是硬编码的，以在一个相当严格的过程中遍历数组，所以为了增加一些灵活性，并允许更好地访问控制器中的数据，建议使用 OpenStruct。

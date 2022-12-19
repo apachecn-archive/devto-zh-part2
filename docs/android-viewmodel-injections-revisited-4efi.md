@@ -4,7 +4,7 @@
 
 在我们之前的一篇文章中，我们已经描述了如何实现一个 ViewModel 工厂，它能够提供注入了依赖关系的 ViewModel，例如一个 API 客户端，这在当时对我来说已经足够好了。后来，多亏了 [Piotr](https://miensol.pl/) ，我们找到了更好更简单的方法，还可以将活动或片段相关的数据注入视图模型。
 
-[![Vaccine](../Images/82637e7e7150bf7990ab193b212a1cc6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YwnPzEXQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mdhj3sbe21dxobzwi6mm.jpg)
+[![Vaccine](img/82637e7e7150bf7990ab193b212a1cc6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YwnPzEXQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mdhj3sbe21dxobzwi6mm.jpg)
 
 # 更简单的工厂
 

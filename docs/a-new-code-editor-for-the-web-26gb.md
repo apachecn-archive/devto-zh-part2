@@ -8,7 +8,7 @@
 
 我们今天自豪地宣布[我们新的基于云的编辑器](https://anymod.com/mod/edboo?v=42&h1=53&h2=72):
 
-[![Editor](../Images/c9a76da910054fc28ccc283dc14388da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CU34H2B7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a10hcinbeaw5w8qb5qiw.png)
+[![Editor](img/c9a76da910054fc28ccc283dc14388da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CU34H2B7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a10hcinbeaw5w8qb5qiw.png)
 
 你可以编辑代码，管理内容，并把你的工作带到任何地方。当你准备好了，你只需要粘贴一段代码到任何你想要的网站上，你的组件就会被送到那里。
 

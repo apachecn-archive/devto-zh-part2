@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/brainfalls/too-busy-to-be-healthy-3cpp>
 
-[![](../Images/444a637568e98f6cecd6efb16887fabd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YXqH1LtE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vakcjfyzy31s9xalwsuo.jpg)
+[![](img/444a637568e98f6cecd6efb16887fabd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YXqH1LtE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vakcjfyzy31s9xalwsuo.jpg)
 
 你的日程很忙:工作、家庭、孩子等等。，而你总是感到疲惫和虚弱？你需要的是一个短时间的例行锻炼。毕竟，有锻炼总比没有好。有了 15 个阿敏日，你可能会从短期锻炼中受益。
 

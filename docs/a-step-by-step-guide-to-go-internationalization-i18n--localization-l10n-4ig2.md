@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/theodesp/a-step-by-step-guide-to-go-internationalization-i18n--localization-l10n-4ig2>
 
-[![image](../Images/23ac12b06297403e0d52f792faea9220.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ADnJUKGI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hgy5ofyy75tfjz5o6s3u.png)
+[![image](img/23ac12b06297403e0d52f792faea9220.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ADnJUKGI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hgy5ofyy75tfjz5o6s3u.png)
 
 [**阅读原文**T3】](https://phrase.com/blog/posts/internationalization-i18n-go/)
 
@@ -914,8 +914,8 @@ $ go run main.go
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![image](../Images/a724e4712b6853d0769f96514e04d40a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--X5kuw2bx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j5lbcu7oezgpnyye1431.png)
-[![image](../Images/f0bbeec3b3db6225b3d687e366fdb9f4.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--oAIm6ax4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/reauiczgico9wugi9dv9.png)
+[![image](img/a724e4712b6853d0769f96514e04d40a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--X5kuw2bx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j5lbcu7oezgpnyye1431.png)
+[![image](img/f0bbeec3b3db6225b3d687e366fdb9f4.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--oAIm6ax4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/reauiczgico9wugi9dv9.png)
 
 从现在起，世界是你的了…
 

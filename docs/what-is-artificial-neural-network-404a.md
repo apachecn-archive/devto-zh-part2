@@ -30,7 +30,7 @@
 
 # 安是如何工作的。
 
-[![](../Images/f8af9b39fddda10211548a57b4ae23ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SWMysJgc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/Des5V0YV4AAthe5.jpg)
+[![](img/f8af9b39fddda10211548a57b4ae23ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SWMysJgc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/Des5V0YV4AAthe5.jpg)
 
 人工神经网络的工作原理是获取输入数据，并使用数学公式通过每个隐藏层对其进行过滤，以预测输出。
 
@@ -40,7 +40,7 @@
 
 当然，这对我们来说很容易做到，但对于机器来说，识别书面单词，或者在这种情况下，识别数字，就很难了。
 
-[![](../Images/00e11cd8a066df29a03fabe0ce3eb12a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--j-Bgx03U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/Des5Wu5UcAAhvVL.jpg:small) 根据这张照片，我们很容易分辨出哪个号码是哪个。
+[![](img/00e11cd8a066df29a03fabe0ce3eb12a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--j-Bgx03U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/Des5Wu5UcAAhvVL.jpg:small) 根据这张照片，我们很容易分辨出哪个号码是哪个。
 
 *   2 是 2
 *   3 是 3
@@ -86,7 +86,7 @@
 
 然后我们将它输入到输入层，在这种情况下，它有 100 个不同的值。
 
-这样 100 个绿色的圆圈，或者叫做*节点*。【T2![](../Images/8fe254f7227df3ca7c0a0f267d69c094.png)
+这样 100 个绿色的圆圈，或者叫做*节点*。【T2![](img/8fe254f7227df3ca7c0a0f267d69c094.png)
 
 假设第一个隐藏层负责识别它是一条**线**、**一条曲线**，还是**一个环**。
 
@@ -96,7 +96,7 @@
 
 通常，节点会将所有输入相加，并使用 sigmoid 函数进行调整，使其再次处于 0 到 1 的范围内。
 
-[![](../Images/3c596905c502fb15f4a83d20c54bf67a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1yX5YXgh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/Des5YeRU0AAsZgU.jpg)
+[![](img/3c596905c502fb15f4a83d20c54bf67a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1yX5YXgh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/Des5YeRU0AAsZgU.jpg)
 
 例如，我们之前得到的所有 100 个颜色值的总和是 10，
 
@@ -104,7 +104,7 @@
 
 也就是说，对于隐藏层中的单个节点，我们必须对所有其他节点也这样做。
 
-[![](../Images/2c9f0d1772374eb2340841ad197ac10d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FgPcusoI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/Des5Y_zU0AAEl3q.jpg:large)
+[![](img/2c9f0d1772374eb2340841ad197ac10d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FgPcusoI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/Des5Y_zU0AAEl3q.jpg:large)
 
 你可能在想。
 
@@ -190,7 +190,7 @@
 
 我们需要继续计算，直到到达输出层，然后才能得到结果。
 
-[![](../Images/6ff37fbabfd306e34d332ebbaede37ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Lsu5MtmU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/Des3kVcVQAAakeb.jpg:small)
+[![](img/6ff37fbabfd306e34d332ebbaede37ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Lsu5MtmU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/Des3kVcVQAAakeb.jpg:small)
 
 但是感谢上帝，这都是由机器完成的，所以速度很快。
 

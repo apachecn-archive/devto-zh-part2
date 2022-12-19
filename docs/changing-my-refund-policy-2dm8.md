@@ -69,7 +69,7 @@
 
 PayPal 最终判我胜诉。
 
-[![Evidence that PayPal awarded the case in my favor](../Images/df11a0303a0858b28caa87c7c2e6ef0d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PnVZiaCj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/changing-refund-policy/win.png)
+[![Evidence that PayPal awarded the case in my favor](img/df11a0303a0858b28caa87c7c2e6ef0d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PnVZiaCj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/changing-refund-policy/win.png)
 
 “耶，发球权！”，我想。干得好，泽尔。对吗？
 

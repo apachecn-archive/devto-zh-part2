@@ -3,7 +3,7 @@
 > 原文：<https://dev.to/scalegrid/blockchain-what-is-it-how-it-works-and-what-it-means-for-big-data-10of>
 
 [![Blockchain: What Is It, How It Works, And What It Means For Big Data<br>
-](../Images/0047ea4a300c1d7454653f2f35f3e6b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--91l9MWjI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mongodb.scalegrid.io/hubfs/Blockchain-What-It-Is-How-It-Works-and-What-It-Means-For-Big-Data-ScaleGrid-Blog-378458-edited-417732-edited.jpg)
+](img/0047ea4a300c1d7454653f2f35f3e6b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--91l9MWjI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mongodb.scalegrid.io/hubfs/Blockchain-What-It-Is-How-It-Works-and-What-It-Means-For-Big-Data-ScaleGrid-Blog-378458-edited-417732-edited.jpg)
 
 在这个新的[数字转型](https://scalegrid.io/blog/digital-transformation-it-all-starts-with-data-thinking/ "Digital Transformation: It All Starts With Data Thinking")时代，区块链作为发展最快的技术之一，通过加密来帮助保护数据。进一步了解[区块链对大数据的意义](https://scalegrid.io/blog/blockchain-what-is-it-how-it-works-and-what-it-means-for-big-data/ "Blockchain: What Is It, How It Works, And What It Means For Big Data - ScaleGrid Blog")。
 

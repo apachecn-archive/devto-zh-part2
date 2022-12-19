@@ -10,6 +10,6 @@
 
 [在 React 本地应用中呈现原始 HTML](https://www.skptricks.com/2018/11/rendering-raw-html-in-your-react-native-app.html)
 
-[![](../Images/db6059ccb113042102f8255d4c55f10d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2AXHAgc7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://4.bp.blogspot.com/-3doyzMrFXpM/W9-1JcfsVRI/AAAAAAAACGQ/Vn6L9WLApYEGcXsR6mtJhgaQY2l9OdY_QCLcBGAs/s640/re.png)
+[![](img/db6059ccb113042102f8255d4c55f10d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2AXHAgc7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://4.bp.blogspot.com/-3doyzMrFXpM/W9-1JcfsVRI/AAAAAAAACGQ/Vn6L9WLApYEGcXsR6mtJhgaQY2l9OdY_QCLcBGAs/s640/re.png)
 
 [继续阅读...](https://www.skptricks.com/2018/11/rendering-raw-html-in-your-react-native-app.html)

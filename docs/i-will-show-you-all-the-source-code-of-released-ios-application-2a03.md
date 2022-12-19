@@ -19,7 +19,7 @@
 Innovy(创新)。这是一款面向 20 至 30 岁(主要是男性)的新闻应用程序，他们正在安装天线，收集最新服务和技术的信息。
 ※我起了一个想象中的创新者(innovator)的名字。
 
-[![AppIcon 1024 _ 1.jpg](../Images/b47111d62840d3febbd18b7183d291c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ur6IOfTX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/160811/203eb665-a087-c7d5-d762-8ec5546e770e.jpeg)
+[![AppIcon 1024 _ 1.jpg](img/b47111d62840d3febbd18b7183d291c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ur6IOfTX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/160811/203eb665-a087-c7d5-d762-8ec5546e770e.jpeg)
 
 你可以通过流派和用户的反应看到最新的新闻。
 而且，因为有新闻读出功能，还可以边走边查新闻。
@@ -27,7 +27,7 @@ App 网址:【https://itunes.apple.com/us/app/Innovy/id1319179144 T2】
 
 ### 截图
 
-[![IMG_5140_4.jpg](../Images/eeae8052c470474aecc2ace5b9f7a36d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PlCpTRoY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/160811/ed3c3726-c922-6634-0da7-3d21050a8e1b.jpeg)
+[![IMG_5140_4.jpg](img/eeae8052c470474aecc2ace5b9f7a36d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PlCpTRoY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/160811/ed3c3726-c922-6634-0da7-3d21050a8e1b.jpeg)
 
 #### ①新闻列表屏幕
 
@@ -62,7 +62,7 @@ App 网址:【https://itunes.apple.com/us/app/Innovy/id1319179144 T2】
 
 `Clone or download` → `Download ZIP`下载项目。
 请解压下载的 zip 文件。
-[![Screenshot 2018-06-02 13.38.55.png](../Images/62a9d11675e99527e1fc41ce6f14216c.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--_c_gBAeZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/160811/d153df5f-e3f6-d8f3-8390-618ce33f4cb4.png)
+[![Screenshot 2018-06-02 13.38.55.png](img/62a9d11675e99527e1fc41ce6f14216c.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--_c_gBAeZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/160811/d153df5f-e3f6-d8f3-8390-618ce33f4cb4.png)
 
 使用以下 cocoaPods 安装库。
 请参考[另一篇文章](https://qiita.com/ShinokiRyosei/items/3090290cb72434852460)如何安装 cocoaPods。
@@ -71,16 +71,16 @@ App 网址:【https://itunes.apple.com/us/app/Innovy/id1319179144 T2】
 安装完库后，打开 Innovy - master 文件夹，打开`likeNews.xcworkspace`。
 推荐环境:XCode 9.3
 
-[![Screenshot 2018-06-02 13.40.00.png](../Images/71c72106d9f4424e5926c57725dcc0bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jM5ZVtRn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/160811/9525f431-af88-134c-0176-e2a9476f4dcd.png)
+[![Screenshot 2018-06-02 13.40.00.png](img/71c72106d9f4424e5926c57725dcc0bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jM5ZVtRn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/160811/9525f431-af88-134c-0176-e2a9476f4dcd.png)
 
 打开 XCode 后，用`iOS Simulators`选择合适的终端，按下`Run button`。
 
-[![Screenshot 2018-06-02 13.50.29.png](../Images/61d770a35352d9b401f8a654fd4b97fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--givgRRCv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/160811/9adea365-f29c-8ab6-5d8c-e98f350de534.png)
+[![Screenshot 2018-06-02 13.50.29.png](img/61d770a35352d9b401f8a654fd4b97fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--givgRRCv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/160811/9adea365-f29c-8ab6-5d8c-e98f350de534.png)
 
 模拟器和应用程序启动时成功。
 当然，如果您设置了预配置文件，也可以在真机中操作。
 
-[![Screenshot 2018-06-02 14.33.22.jpg](../Images/d46670975c86c4c104a9e61d2e1bd6e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zDmhSigR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/160811/b8009f75-b0d8-8c12-3b0d-e7769012f20b.jpeg)
+[![Screenshot 2018-06-02 14.33.22.jpg](img/d46670975c86c4c104a9e61d2e1bd6e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zDmhSigR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/160811/b8009f75-b0d8-8c12-3b0d-e7769012f20b.jpeg)
 
 有次数限制的 API 的 API 键。被屏蔽，所以有些不会显示。如果您单独与我们联系，我们会传递被遮盖的物品🙃
 
@@ -94,7 +94,7 @@ Innovy 采用 [MVVM(模型-视图-视图模型)](https://en.wikipedia.org/wiki/M
 
 *   考虑代码中的`NewsListViewController`为`View`，`NewsListViewModel`为`ViewModel`，`NewsListModel`为`Model`。
 
-[![Architecture.jpg](../Images/7baa30f197d372edf7ac1b3005ba58df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k_0RsGQn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/160811/29efe10f-5caa-8af5-7bea-b1334f2b346b.jpeg)
+[![Architecture.jpg](img/7baa30f197d372edf7ac1b3005ba58df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k_0RsGQn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/160811/29efe10f-5caa-8af5-7bea-b1334f2b346b.jpeg)
 
 ①.`View`检测？用户的更新操作
 ②。`View`向`ViewModel`请求更新进程

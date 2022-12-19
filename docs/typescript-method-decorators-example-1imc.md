@@ -6,7 +6,7 @@
 
 装饰器是一个应用于类、方法、属性或参数的函数，并为后者添加一些逻辑。换句话说，使用装饰器与创建一个新类是一样的(但简单得多),这个新类扩展了目标类，并有一个指向它的字段:
 
-[![Wikipedia schema](../Images/6b4287f81ad394e894de2cb6d252dfc6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7qZ-RmkX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Decorator_UML_class_diagram.svg/800px-Decorator_UML_class_diagram.svg.png) 
+[![Wikipedia schema](img/6b4287f81ad394e894de2cb6d252dfc6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7qZ-RmkX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Decorator_UML_class_diagram.svg/800px-Decorator_UML_class_diagram.svg.png) 
 来源:【https://en.wikipedia.org/wiki/Decorator_pattern】T4
 
 您甚至可以让*装饰工厂*定制如何将装饰应用于声明(使其在不同的上下文中更容易重用)。
@@ -19,11 +19,11 @@
 
 去抖将方法的执行延迟一段固定的时间。如果在暂停时再次调用该方法，则第一次方法调用将被取消。这样，当用户停止输入时，搜索组件将只向服务器发送一个请求。
 
-[![Debounce concept](../Images/bf5a260a7a094a00925961095a8e4abe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RTB4Avoj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oppthnv7npyr0mtrd4js.png)
+[![Debounce concept](img/bf5a260a7a094a00925961095a8e4abe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RTB4Avoj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oppthnv7npyr0mtrd4js.png)
 
 最终看起来是这样的:
 
-[![Debounce example](../Images/fd1a96ab40371ee95669576e6a1812b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5GUhtYOe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2i4vie4kb6i0t75xbeha.gif)
+[![Debounce example](img/fd1a96ab40371ee95669576e6a1812b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5GUhtYOe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2i4vie4kb6i0t75xbeha.gif)
 
 ## 打字稿配置
 

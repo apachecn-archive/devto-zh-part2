@@ -102,7 +102,7 @@ Ember.js 实际上是 SproutCore 框架的一个分支。在构建交互式用�
 3.  较小的社区和网上大量过时的教程；
 
 **Javascript 框架对比**
-[![Comparison of Javascript Frameworks](../Images/ca9051d0f105e4865b80fc777191d581.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2Cfd7pET--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qubit-labs.com/wp-content/uploads/2017/05/java.jpg)
+[![Comparison of Javascript Frameworks](img/ca9051d0f105e4865b80fc777191d581.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2Cfd7pET--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qubit-labs.com/wp-content/uploads/2017/05/java.jpg)
 
 Angular.js
 

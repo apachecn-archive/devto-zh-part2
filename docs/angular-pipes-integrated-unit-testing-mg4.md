@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ahasall/angular-pipes-integrated-unit-testing-mg4>
 
-[![Angular Pipes: Integrated Unit Testing](../Images/ac415b5dcf871125f25df46a592bc5ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f5yhBxpq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.amadousall.com/content/images/2018/02/cover-2.png)
+[![Angular Pipes: Integrated Unit Testing](img/ac415b5dcf871125f25df46a592bc5ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f5yhBxpq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.amadousall.com/conteimg/2018/02/cover-2.png)
 
 在我之前的博文中，我们了解到有两种方法可以对角形管道进行单元测试:
 
@@ -17,7 +17,7 @@
 
 以防你没看过我之前的博文，这是我们要测试的管道的代码。这是一个简单的管道，将数组转换为它的平均值。
 
-[![Angular Pipes: Integrated Unit Testing](../Images/eca4de5cd9bbb8a6de1f981b9d10d51a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3V141Nky--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.amadousall.com/content/images/2018/02/mean.pipe.ts-1.png)
+[![Angular Pipes: Integrated Unit Testing](img/eca4de5cd9bbb8a6de1f981b9d10d51a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3V141Nky--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.amadousall.com/conteimg/2018/02/mean.pipe.ts-1.png)
 
 1.  实现`PipeTransform`接口。
 2.  返回数字数组的平均值。
@@ -30,14 +30,14 @@
 
 主机组件的代码很简单:
 
-[![Angular Pipes: Integrated Unit Testing](../Images/89a4aabb1eaf6dfd64d919ecf229f60b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YP3TVadl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.amadousall.com/content/images/2018/02/host-component.png)
+[![Angular Pipes: Integrated Unit Testing](img/89a4aabb1eaf6dfd64d919ecf229f60b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YP3TVadl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.amadousall.com/conteimg/2018/02/host-component.png)
 
 1.  定义保存要传递给管道的值的属性
 2.  通过管道显示这些值的转换结果。
 
 ## 设置集成测试！
 
-[![Angular Pipes: Integrated Unit Testing](../Images/8a1a16c9c699440d7db87de2309e317c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OF97K9_B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.amadousall.com/content/images/2018/02/tests-setup.png)
+[![Angular Pipes: Integrated Unit Testing](img/8a1a16c9c699440d7db87de2309e317c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OF97K9_B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.amadousall.com/conteimg/2018/02/tests-setup.png)
 
 1.  `TestBed.configureTestingModule`，顾名思义，允许我们创建特定的角度模块用于测试目的。它接受与`NgModule`装饰器几乎相同的参数。
 2.  请注意，我们将第一个`beforeEach`的身体包裹在一个特殊的角度区域内。我们通过调用`async`函数来实现，这是许多角度测试实用程序中的一个。我们需要这个，因为`TestBet.compileComponents`是异步的。因此，这确保了我们的组件的模板是预先编译好的(尽管从技术上讲，这在这个例子中是不必要的，因为我们的模板是内联的)。
@@ -50,7 +50,7 @@
 
 ## 实际测试
 
-[![Angular Pipes: Integrated Unit Testing](../Images/f7253c1bdcdfbb504a9c1c331d559bf8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TAUvihqs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.amadousall.com/content/images/2018/02/tests.png)
+[![Angular Pipes: Integrated Unit Testing](img/f7253c1bdcdfbb504a9c1c331d559bf8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TAUvihqs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.amadousall.com/conteimg/2018/02/tests.png)
 
 1.  我们首先更新组件的`values`属性，然后调用`fixture.detectChanges`。`fixture.detectChanges`开始我们组件的变更检测。如果我们希望我们的模板反映我们对组件类所做的更改，这是必要的。
 2.  接下来，我们使用`debugElement.query`向它传递一个谓词`By.css('div')`。这允许我们通过使用它的 CSS 选择器来定位 div 元素。

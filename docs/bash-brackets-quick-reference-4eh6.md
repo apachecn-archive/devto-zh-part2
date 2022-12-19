@@ -57,7 +57,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 *感谢[托马斯·H·琼斯二世](https://dev.to/ferricoxide)的评论启发了本节关于流程替代的内容*
 
-[![ferricoxide profile image](../Images/466c896342efa0cde8b1cf9c5b9c6c25.png) ](/ferricoxide) [ Thomas H Jones II ](/ferricoxide) • [<time datetime="2018-06-20T23:37:30Z"> Jun 20 '18 </time> • Edited on <time datetime="2018-06-20T23:44:39Z">Jun 20</time>](https://dev.to/ferricoxide/comment/3pdn) 
+[![ferricoxide profile image](img/466c896342efa0cde8b1cf9c5b9c6c25.png) ](/ferricoxide) [ Thomas H Jones II ](/ferricoxide) • [<time datetime="2018-06-20T23:37:30Z"> Jun 20 '18 </time> • Edited on <time datetime="2018-06-20T23:44:39Z">Jun 20</time>](https://dev.to/ferricoxide/comment/3pdn) 
 
 你错过了一个真正伟大的 bashims:`<( COMMAND )`。基本上，在 subshell 中运行命令，然后通过文件描述符返回它的输出。这意味着你可以做这样的事情:
 
@@ -448,7 +448,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 伊恩·柯克评论区的真正古代智慧:
 
-[![ikirker profile image](../Images/122384c84dbad454ac29b6377d854397.png) ](/ikirker) [ Ian Kirker ](/ikirker) • [<time datetime="2018-06-21T12:46:58Z"> Jun 21 '18 </time>](https://dev.to/ikirker/comment/3pig) 
+[![ikirker profile image](img/122384c84dbad454ac29b6377d854397.png) ](/ikirker) [ Ian Kirker ](/ikirker) • [<time datetime="2018-06-21T12:46:58Z"> Jun 21 '18 </time>](https://dev.to/ikirker/comment/3pig) 
 
 关于 HEREDOC bits 的一些事情:
 

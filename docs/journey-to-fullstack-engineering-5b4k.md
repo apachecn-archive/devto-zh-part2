@@ -45,7 +45,7 @@
 
 这里有一个概述。
 
-[![](../Images/f83496f571145a30ff7b38664b6ed180.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4i8DmuH6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_E6A5B68F2AE20F0779AFCC85CE4F089BBA16AA968C9C6FB4A6B43EF7A600961D_1529762946371_screenshot-github.com-2018.06.23-15-03-36.png)
+[![](img/f83496f571145a30ff7b38664b6ed180.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4i8DmuH6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_E6A5B68F2AE20F0779AFCC85CE4F089BBA16AA968C9C6FB4A6B43EF7A600961D_1529762946371_screenshot-github.com-2018.06.23-15-03-36.png)
 
 最终归结为三大重头戏，
 
@@ -53,7 +53,7 @@
 *   后端
 *   DevOps
 
-[![](../Images/3a0aec9b897198537b6399f2f4541439.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r-8K1eAW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_E6A5B68F2AE20F0779AFCC85CE4F089BBA16AA968C9C6FB4A6B43EF7A600961D_1529763044885_screenshot-github.com-2018.06.23-15-10-21.png)
+[![](img/3a0aec9b897198537b6399f2f4541439.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r-8K1eAW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_E6A5B68F2AE20F0779AFCC85CE4F089BBA16AA968C9C6FB4A6B43EF7A600961D_1529763044885_screenshot-github.com-2018.06.23-15-10-21.png)
 
 前端开发归结于框架，但是一旦你了解了基础，这些就更容易理解了。
 
@@ -80,7 +80,7 @@
 
 这很深奥。但我很确定你已经领会了要点。另一方面，后端开发是另一个深沟。
 
-[![](../Images/99741e8cb6333df10ec6e0d672a9560c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uJiV9L3C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_E6A5B68F2AE20F0779AFCC85CE4F089BBA16AA968C9C6FB4A6B43EF7A600961D_1529763317692_screenshot-github.com-2018.06.23-15-12-17.png)
+[![](img/99741e8cb6333df10ec6e0d672a9560c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uJiV9L3C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_E6A5B68F2AE20F0779AFCC85CE4F089BBA16AA968C9C6FB4A6B43EF7A600961D_1529763317692_screenshot-github.com-2018.06.23-15-12-17.png)
 
 后端开发非常深入，需要另一篇文章来真正了解 2018 年将会发生什么，但简单的概述会显示以下内容。
 
@@ -121,7 +121,7 @@
 
 还有更多。不仅如此，还有 DevOps 要担心。
 
-[![](../Images/a644b920c5c00b61b1afd98d42dc4ec6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4sL3hZfg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_E6A5B68F2AE20F0779AFCC85CE4F089BBA16AA968C9C6FB4A6B43EF7A600961D_1529763425976_screenshot-github.com-2018.06.23-15-16-44.png)
+[![](img/a644b920c5c00b61b1afd98d42dc4ec6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4sL3hZfg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_E6A5B68F2AE20F0779AFCC85CE4F089BBA16AA968C9C6FB4A6B43EF7A600961D_1529763425976_screenshot-github.com-2018.06.23-15-16-44.png)
 
 本节讨论了从开发到部署管理应用程序所涉及的所有因素，包括管理其资源系统、容器和运行时环境，以及服务器配置和负载平衡。
 

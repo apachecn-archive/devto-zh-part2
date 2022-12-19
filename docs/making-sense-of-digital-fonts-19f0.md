@@ -22,7 +22,7 @@
 
 在我看来，数字是短暂的，它是对电子信号的编码和处理。随着数字技术的不断进步(恕我直言，是以极快的速度)，我们越来越看不到它的实际物理表现。
 
-看看这台由鹪鹩多萝西·杜·布瓦松(左)和埃尔西·布克(右)操作的辉煌巨像 Mark 2 计算机。 [![Colossus Mark 2](../Images/22ae5fa0de9f7256fc0e7ecbdec1d9ba.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WA1jrXYy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/digital-fonts/colossus-640.jpg)
+看看这台由鹪鹩多萝西·杜·布瓦松(左)和埃尔西·布克(右)操作的辉煌巨像 Mark 2 计算机。 [![Colossus Mark 2](img/22ae5fa0de9f7256fc0e7ecbdec1d9ba.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WA1jrXYy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/digital-fonts/colossus-640.jpg)
 
 作为一个对事物如何在引擎盖下工作以及为什么事情会以某种方式发展感到好奇的人，我发现像《梦想机器》、《T2，巫师熬夜的地方》和《T4，当电脑是人类的时候》这样的书以及像[互联网历史播客](http://www.internethistorypodcast.com/)这样的播客特别有趣。
 
@@ -38,21 +38,21 @@
 
 <figcaption>由日兴铸造厂排版</figcaption>
 
-[![Typesetting by Ri Xing foundry](../Images/8e9378aef58eca671f7afa3e01dc4105.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--b6-IYjHj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/digital-fonts/types.jpg)
+[![Typesetting by Ri Xing foundry](img/8e9378aef58eca671f7afa3e01dc4105.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--b6-IYjHj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/digital-fonts/types.jpg)
 
 <figcaption>作曲棒装载着各种类型</figcaption>
 
-[![Composing stick loaded with types](../Images/0c992ac269cc374d386401b7fd39180d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rSUF5cgI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/digital-fonts/types2.jpg)
+[![Composing stick loaded with types](img/0c992ac269cc374d386401b7fd39180d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rSUF5cgI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/digital-fonts/types2.jpg)
 
 我们也有类似这样的字体:
 
 <figcaption>博多尼加粗为 Linofilm V-I-P</figcaption>
 
-[![Bodoni Bold 12pt for the Linofilm V-I-P](../Images/7a0fcd4d96f43bb85683f93e89893a99.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RIYpVutE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/digital-fonts/bodoni.jpg)
+[![Bodoni Bold 12pt for the Linofilm V-I-P](img/7a0fcd4d96f43bb85683f93e89893a99.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RIYpVutE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/digital-fonts/bodoni.jpg)
 
 <figcaption>Ben Franklin Bold for lino film V-I-P</figcaption>
 
-[![Ben Franklin Bold for the Linofilm V-I-P](../Images/373f0e1c808ff6ab325f63052a306c2f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9DcRvrUe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/digital-fonts/benfranklin.jpg)
+[![Ben Franklin Bold for the Linofilm V-I-P](img/373f0e1c808ff6ab325f63052a306c2f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9DcRvrUe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/digital-fonts/benfranklin.jpg)
 
 这些被用于照相排版。它们充当了模拟和数字之间的桥梁，因为在某种程度上，字体是物理对象，但使用这些字体需要数字显示。
 
@@ -68,19 +68,19 @@
 
 <figcaption>哈佛马克 I 由 IBM</figcaption>
 
-[![Harvard Mark I](../Images/8cbe75fd189e8f45444df7cf67944bf9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--v6BwRxdp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/digital-fonts/mark1-640.jpg)
+[![Harvard Mark I](img/8cbe75fd189e8f45444df7cf67944bf9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--v6BwRxdp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/digital-fonts/mark1-640.jpg)
 
 哈佛 Mark I 是 IBM 在第二次世界大战期间为盟军建造的，它由 765，000 个组件，3，000，000 个连接和 800 公里长的电线组成。一根由 5 马力马达驱动的 15 米长的轴被用来保持其内部结构同步。所有的计算基本上都是由机械开关控制的，在开和关之间切换。
 
 <figcaption>非常早期的实验点接触晶体管由 IBM(图片鸣谢:美国计算机博物馆)</figcaption>
 
-[![Earliest point contact transistors](../Images/50d5143478fe9cd1d5570681ee8db655.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nyrBG6QT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/digital-fonts/point-contact.jpg)
+[![Earliest point contact transistors](img/50d5143478fe9cd1d5570681ee8db655.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nyrBG6QT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/digital-fonts/point-contact.jpg)
 
 分分合合。1 和 0。比特和字节。这就是二进制对于电子和计算机如此重要的原因。计算机运行在数十亿个电子开关上，当电流将它们切换到开或关状态时，这些开关存储二进制数。计算机以二进制数字的形式存储和处理每一种数据格式。数字，懂吗？我的大脑回答，是的，知道了。)
 
 <figcaption>拥有 48 亿个晶体管的 AMD Zeppelin</figcaption>
 
-[![AMD Zeppelin (Octa-Core Die)](../Images/62327dd1f45934e1d8392b376d925f4b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CtYmCJlR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/digital-fonts/amd-zen-640.png)
+[![AMD Zeppelin (Octa-Core Die)](img/62327dd1f45934e1d8392b376d925f4b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CtYmCJlR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/digital-fonts/amd-zen-640.png)
 
 文件格式是对信息进行编码以便存储的标准方法。它们通常附有详细的说明，准确描述了在电子介质中如何使用比特对信息进行编码。这些规范可以免费获得(开源)或者是专有的，因为有时它们被认为是商业秘密。
 

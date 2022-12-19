@@ -4,7 +4,7 @@
 
 以下是我从一些开源项目中学到的东西
 
-[![](../Images/1a5955528b669be033eaaa283f15ca2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HX7fUjLN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3200/0%2AG11MqPA1ecHTaPf-.jpeg)
+[![](img/1a5955528b669be033eaaa283f15ca2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HX7fUjLN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3200/0%2AG11MqPA1ecHTaPf-.jpeg)
 
 ## 纯:仿制工厂
 
@@ -505,4 +505,4 @@ Touchbar 模拟器:从私有框架中取出一个 app
 
 前几天我在浏览[sindresorhus/touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator)时，他从 DFRSupportKit.framework 中提取 IDETouchBarSimulatorHostWindowController 的做法非常高明，值得一试
 
-[![](../Images/152930bf6a687536e2a85f35bf3f74a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H0UddGyx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/4000/0%2Au1ZYB06tiKEjKjlk.png)
+[![](img/152930bf6a687536e2a85f35bf3f74a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H0UddGyx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/4000/0%2Au1ZYB06tiKEjKjlk.png)

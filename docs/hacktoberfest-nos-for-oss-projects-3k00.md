@@ -8,15 +8,15 @@ Hacktoberfest 是新开发者进入开源世界的黄金机会。通过 hacktobe
 
 [问题列表](https://github.com/iluminar/goodwork/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
 
-## ![GitHub logo](../Images/375dfcc32199b4dedf2b526645c27ff7.png) [伊卢米纳尔](https://github.com/iluminar) / [古德伊尔](https://github.com/iluminar/goodwork)
+## ![GitHub logo](img/375dfcc32199b4dedf2b526645c27ff7.png) [伊卢米纳尔](https://github.com/iluminar) / [古德伊尔](https://github.com/iluminar/goodwork)
 
 ### 由 Laravel & VueJS 支持的自托管项目管理和协作工具
 
 <article class="markdown-body entry-content p-5" itemprop="text">
 
-[![License](../Images/e27249dec8d60b7a75c1b0716d1c4975.png)](https://github.com/iluminar/goodwork/blob/dev/LICENSE)[![Build Status](../Images/db4fbdcfea7cc8f76ed23007407894a5.png)](https://travis-ci.org/iluminar/goodwork)[![Stable Version](../Images/acf69d9f3194297cfbe2b029f0f58f16.png)](https://github.com/iluminar/goodwork)[![Laravel Version](../Images/627a70ba6b583c015f05ececc4c21e47.png)](https://github.com/laravel/laravel)[![VueJS Version](../Images/2db5af35ebc914af17c8bdc230688c12.png)](https://github.com/vuejs/vue)[![codecov](../Images/7c3efcaa070fc28acc3243c1d34e1dd8.png)](https://codecov.io/gh/iluminar/goodwork)[![StyleCI](../Images/149f0e074a7344cd301d7125ab4ed0f7.png)](https://styleci.io/repos/81873619)[![Join on discord](../Images/44f0f3cad8d1ded04e1c1c1345f65d1f.png)](https://discord.gg/4DvTQsc)[T25】](https://goodworkfor.life/register/invite-link/ovCPAFpnwIhrvqUrlvynarP9HVRBC5mH)
+[![License](img/e27249dec8d60b7a75c1b0716d1c4975.png)](https://github.com/iluminar/goodwork/blob/dev/LICENSE)[![Build Status](img/db4fbdcfea7cc8f76ed23007407894a5.png)](https://travis-ci.org/iluminar/goodwork)[![Stable Version](img/acf69d9f3194297cfbe2b029f0f58f16.png)](https://github.com/iluminar/goodwork)[![Laravel Version](img/627a70ba6b583c015f05ececc4c21e47.png)](https://github.com/laravel/laravel)[![VueJS Version](img/2db5af35ebc914af17c8bdc230688c12.png)](https://github.com/vuejs/vue)[![codecov](img/7c3efcaa070fc28acc3243c1d34e1dd8.png)](https://codecov.io/gh/iluminar/goodwork)[![StyleCI](img/149f0e074a7344cd301d7125ab4ed0f7.png)](https://styleci.io/repos/81873619)[![Join on discord](img/44f0f3cad8d1ded04e1c1c1345f65d1f.png)](https://discord.gg/4DvTQsc)[T25】](https://goodworkfor.life/register/invite-link/ovCPAFpnwIhrvqUrlvynarP9HVRBC5mH)
 
-[![Goodwork](../Images/5b70cdb122736153643054950212c933.png)T2】](https://raw.githubusercontent.com/iluminar/goodwork/master/readme.md/public/logos/logo_square.png)
+[![Goodwork](img/5b70cdb122736153643054950212c933.png)T2】](https://raw.githubusercontent.com/iluminar/goodwork/master/readme.md/public/logos/logo_square.png)
 
 受 basecamp 启发的自托管项目管理和协作工具。
 

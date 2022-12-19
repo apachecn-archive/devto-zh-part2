@@ -13,7 +13,7 @@
 每天下班后，当我的工作变得无聊或者当我感到没有动力的时候，我都会在网站上查看没有答案的问题，以增加我的自信！
 而且连续 100 天，我终于赚到了。
 
-[![ my StackOverflow dashboard when I earned the fanatic badge](../Images/1908016f6dc6884b79209d6539aa67d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PS_RcuGk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wwp2uvzxx6vi5qbi8bw3.png)
+[![ my StackOverflow dashboard when I earned the fanatic badge](img/1908016f6dc6884b79209d6539aa67d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PS_RcuGk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wwp2uvzxx6vi5qbi8bw3.png)
 
 当我在网站上回答熊猫的问题时，发现了熊猫图书馆的一个有用的功能，它帮助我更有效率，所以我决定写一篇关于它的博客。
 
@@ -87,10 +87,10 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果一切都完美完成，您将在 df 中获得以下内容:
 
-[![output of read_clipboard method](../Images/bbdff61cecacc8865be649df1611c701.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3uaFzXrK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7n7c87dlozm2s4gaeevd.png)
+[![output of read_clipboard method](img/bbdff61cecacc8865be649df1611c701.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3uaFzXrK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7n7c87dlozm2s4gaeevd.png)
 
 你可以在下面的动画中看到所有的动作。
-[![animation read_clipboard](../Images/8ad3897c1881ad9e5256b9ae8640cf9a.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--A9kV_wPO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5g2gahceyre2amdm1b0f.gif)
+[![animation read_clipboard](img/8ad3897c1881ad9e5256b9ae8640cf9a.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--A9kV_wPO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5g2gahceyre2amdm1b0f.gif)
 
 **Pro 提示:**
 如方法文档中所说，这一个把数据传递给 read_table 方法，你可以用 read_table 参数来使这个方法变魔术。
@@ -155,7 +155,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是最终的数据结果:
 
-[![final results](../Images/f3f3f126a23b0b028bc4b9db687652a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z1lF-obQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9xyx1c3tl4la5gnotsxs.png)
+[![final results](img/f3f3f126a23b0b028bc4b9db687652a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z1lF-obQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9xyx1c3tl4la5gnotsxs.png)
 
 根据您所面临的情况和您正在处理的数据，您可以使用任意多的参数。您可以在 [read_table](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_table.html) 文档中找到更多信息。
 

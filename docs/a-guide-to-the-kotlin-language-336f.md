@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/raulmonteroc/a-guide-to-the-kotlin-language-336f>
 
-[![](../Images/9fffbb5718cc3cae0d47414dbab8ce86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F5e5_4Fk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raulmonteroc.com/wp-content/uploads/2018/07/kotlin_800x320-1.png)
+[![](img/9fffbb5718cc3cae0d47414dbab8ce86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F5e5_4Fk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raulmonteroc.com/wp-content/uploads/2018/07/kotlin_800x320-1.png)
 
 你听说过科特林吗？这是一种相对较新的语言[，由](https://blog.jetbrains.com/kotlin/2016/02/kotlin-1-0-released-pragmatic-language-for-jvm-and-android/) [JetBrains](https://www.jetbrains.com/) 于 2016 年正式推出。他们最初创建这种语言是为了作为 java 的更灵活和更具表现力的替代品，能够在 JVM 上运行，允许开发人员在一个项目中互换使用 kotlin 和 Java 代码。
 

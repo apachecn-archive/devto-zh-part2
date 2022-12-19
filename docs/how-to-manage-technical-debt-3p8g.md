@@ -25,7 +25,7 @@
 *   增加软件熵
 *   每个人都想从头开始重写整个项目
 
-[![](../Images/fbd0008b9076a7025946f2cb749a6c30.png "Debt is normal be weird")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--doXPKWAX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oprsu6uy9s9q2k8j0fwg.png)
+[![](img/fbd0008b9076a7025946f2cb749a6c30.png "Debt is normal be weird")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--doXPKWAX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oprsu6uy9s9q2k8j0fwg.png)
 
 ## 原因
 
@@ -91,7 +91,7 @@
 
 当你解决了一个问题，也不要忘记写下来。如果你把事情做对了，你可以建立这样的图表。
 
-[![Resolution chart](../Images/070676c6d3f8cbe20cf9d77c85d9ca12.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cvDnGLuW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/17discf68arrue5xt6zv.png)
+[![Resolution chart](img/070676c6d3f8cbe20cf9d77c85d9ca12.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cvDnGLuW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/17discf68arrue5xt6zv.png)
 
 你可以用决策图来定义你什么时候做了很多无效决策。还有，你可以发现你忘了固定债务很长一段时间。非堆积面积图最适合这种情况。对于纵轴-使用每个 sprint 或日期的总问题数/已解决问题数。
 

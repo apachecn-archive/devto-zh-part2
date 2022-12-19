@@ -104,31 +104,31 @@ Enter fullscreen mode Exit fullscreen mode
 
 第二步。创建新项目。
 
-[![](../Images/ce3de6a1310450257704a33169502ed9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8rEdUh8Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qia5363b26v9tqgyz09e.png)
+[![](img/ce3de6a1310450257704a33169502ed9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8rEdUh8Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qia5363b26v9tqgyz09e.png)
 
 第三步。点按“启用 API 和服务”
 
-[![](../Images/3c687424d006c3d8b55833c45dca5b48.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EtDciwgf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2nw39v3h767r1t8ch76q.png)
+[![](img/3c687424d006c3d8b55833c45dca5b48.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EtDciwgf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2nw39v3h767r1t8ch76q.png)
 
 第四步。找到 Youtube 数据 API v3，点击“启用”
 
-[![](../Images/b39d4087bcd6db907db651e2e1c3a5d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wVEVk9fj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uol2oo9s5gqpuufn8uf3.png)
+[![](img/b39d4087bcd6db907db651e2e1c3a5d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wVEVk9fj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uol2oo9s5gqpuufn8uf3.png)
 
 第五步。您应该会收到一条关于凭证的消息。
 
-[![](../Images/78da97c1d28c4c5dd449956d026e85df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fsguMkGE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c3ghsorvh53ej95kfgv0.png)
+[![](img/78da97c1d28c4c5dd449956d026e85df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fsguMkGE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c3ghsorvh53ej95kfgv0.png)
 
 第六步。单击右侧的“Create credentials”蓝色按钮，您应该会看到以下屏幕:
 
-[![](../Images/55684c73adb630cba04e27324f203ba7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QDwIb3HQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ketgq0ubfrijjx0tgq2v.png)
+[![](img/55684c73adb630cba04e27324f203ba7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QDwIb3HQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ketgq0ubfrijjx0tgq2v.png)
 
 第七步。选择 Web 服务器，用户数据
 
-[![](../Images/53bad40866ae31a31dc5ad07b4d87920.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oim1FPS6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xrjljcb8caj2gsa2u4ka.png)
+[![](img/53bad40866ae31a31dc5ad07b4d87920.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oim1FPS6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xrjljcb8caj2gsa2u4ka.png)
 
 第八步。添加授权的 JS 起源和重定向 URIs。继续到底。
 
-[![](../Images/2a2008e45df5c2ef22eefec4a8418f79.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cse_s05K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e6hpsl8jd6jqznbvo66m.png)
+[![](img/2a2008e45df5c2ef22eefec4a8418f79.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cse_s05K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e6hpsl8jd6jqznbvo66m.png)
 
 好了，我们完成了凭证设置。您可以下载 JSON 格式的凭证，或者复制*客户端 ID* 和*客户端秘密*。
 
@@ -250,7 +250,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在尝试运行您的应用程序，页面将如下所示:
 
-[![](../Images/04f82169571dd4318b32095f6133a8ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QUrhTg0p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/djpzc0k4joac4vb9lrcs.png)
+[![](img/04f82169571dd4318b32095f6133a8ec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QUrhTg0p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/djpzc0k4joac4vb9lrcs.png)
 
 ### 暂停做授权
 
@@ -373,7 +373,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们现在访问视图，看看会发生什么:
 
-[![](../Images/7726d19cc663d91a228eee83360ac103.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7jcJZoo1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1pfxeq50chhxh3a0hebh.png)
+[![](img/7726d19cc663d91a228eee83360ac103.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7jcJZoo1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1pfxeq50chhxh3a0hebh.png)
 
 在转到该页面之前，让我们创建一个用户。
 
@@ -393,13 +393,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们也通过`/admin`用它登录吧。之后，让我们再次访问我们的`/authorize/`视图。
 
-[![](../Images/dd76ab40f20fdf9b4380b26cc4321e90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7R97TICt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/38by08tj2pngg47d00tu.png)
+[![](img/dd76ab40f20fdf9b4380b26cc4321e90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7R97TICt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/38by08tj2pngg47d00tu.png)
 
-[![](../Images/2147fc3ed5c08a6c7105b0fe506b7c51.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x9Uc1pGb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2hftmrnqwcyr8ryjpi1u.png)
+[![](img/2147fc3ed5c08a6c7105b0fe506b7c51.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x9Uc1pGb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2hftmrnqwcyr8ryjpi1u.png)
 
 然后，
 
-[![](../Images/7d7957963e03512d964f7024f0c36dcc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ENOMPVst--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0fguhm74sffrebd81nmf.png)
+[![](img/7d7957963e03512d964f7024f0c36dcc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ENOMPVst--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0fguhm74sffrebd81nmf.png)
 
 好的，它试图重定向到我们很久以前用 Google 配置的回调 URL。现在我们需要实现回调视图。
 
@@ -562,9 +562,9 @@ Enter fullscreen mode Exit fullscreen mode
 
 开始了。
 
-[![](../Images/faa9d9585bf7ca5290ee7996fa15c7b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Goi8CuIL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9w7nlkyfmawiy64oe7a8.png)
+[![](img/faa9d9585bf7ca5290ee7996fa15c7b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Goi8CuIL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9w7nlkyfmawiy64oe7a8.png)
 
-[![](../Images/75bbbecc62b8c767fe82c3a9f4131e53.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_nE18516--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hjm9q0z1gmnybcc0kyyg.png)
+[![](img/75bbbecc62b8c767fe82c3a9f4131e53.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_nE18516--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hjm9q0z1gmnybcc0kyyg.png)
 
 瞧啊。
 
@@ -578,7 +578,7 @@ Enter fullscreen mode Exit fullscreen mode
 *   我们需要在视图中要求登录，因为我们使用的是与请求直接相关的用户凭证。
 *   基于这段经历和这篇文章，有一项工作正在进行中。当然还有很多要补充的，但这是一个很好的起点:[https://github.com/ivancrneto/youtube-django](https://github.com/ivancrneto/youtube-django)
 
-[![](../Images/f4ef1ef7418ef053c3ff6ebbcc26ccec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Aj0tT9TF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s1r6istovdehyhzn2hd2.png)
+[![](img/f4ef1ef7418ef053c3ff6ebbcc26ccec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Aj0tT9TF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s1r6istovdehyhzn2hd2.png)
 
 上传需要很多时间，在主应用程序进程中上传会导致整个应用程序在上传过程中阻塞。正确的方法是将它移到自己的进程中，并异步处理上传。
 

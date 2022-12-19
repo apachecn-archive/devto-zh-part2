@@ -6,7 +6,7 @@
 
 ### 什么是 iPerception 模态？
 
-[![iPerception Modal](../Images/9320ba321ac44e81851159cbf4b9cb82.png "iPerception Modal")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4LaQqlOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://benenewton.com/static/iperceptionModal-d9261e8e5975ec235c9c9fe174154c16-b7e98.png)
+[![iPerception Modal](img/9320ba321ac44e81851159cbf4b9cb82.png "iPerception Modal")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4LaQqlOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://benenewton.com/static/iperceptionModal-d9261e8e5975ec235c9c9fe174154c16-b7e98.png)
 
 ### 情态的问题
 
@@ -27,7 +27,7 @@
 
 const checkForSurvey = async page => {
   const SELECTOR =
-    'img[src="https://ips-invite.iperceptions.com/images/templates/Layer/theme1/no_1.png"]';
+    'img[src="https://ips-invite.iperceptions.cimg/templates/Layer/theme1/no_1.png"]';
 
   if ((await page.$(SELECTOR)) !== null) {
     await page.click(SELECTOR);

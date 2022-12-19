@@ -22,7 +22,7 @@
 
 考虑这样一个场景，您有各种各样的应用程序，它们都使用一个基本库。
 
-[![Diagram](../Images/1218f0b6d76ac8e43088a3972ba0493b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l_xPNF9T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qkw7z63gdhwfse7z0rrn.png)
+[![Diagram](img/1218f0b6d76ac8e43088a3972ba0493b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l_xPNF9T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qkw7z63gdhwfse7z0rrn.png)
 
 如果这个库包含很多具体的代码，它将不会非常稳定，并且它将不时地被需要或期望来进行一个主要的发布。主要版本是指包含重大变更的版本，因此不会自动被库的使用者使用。相反，这些消费者需要手动更新他们兼容的库的版本范围，并可能调整他们的代码来处理这些重大的变化。
 
@@ -30,7 +30,7 @@
 
 当我们有一个不稳定的库被其他库使用时，事情会发生巨大的变化，即使那些库本身也不稳定。
 
-[![Diagram](../Images/7e1a12465594bdddb6c7bbeda4b339b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4b6rT5s4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5mw09zlmniyoxng3rb9v.png)
+[![Diagram](img/7e1a12465594bdddb6c7bbeda4b339b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4b6rT5s4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5mw09zlmniyoxng3rb9v.png)
 
 在这种情况下，对基础库进行突破性的修改是非常昂贵的。让我们假设我们对基本库做了一个突破性的改变，并且我们想在我们的应用程序中使用它。我们实际上需要做些什么才能到达那里？
 

@@ -6,7 +6,7 @@
 
 ## 卡纸堆叠
 
-[![A stack of jam tubs](../Images/60808ba69f167def05198b0512b95cb0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i_zyWL0s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rawgit.com/leomeloxp/jam-stack-talk/master/src/assets/stack-of-jam.jpg)
+[![A stack of jam tubs](img/60808ba69f167def05198b0512b95cb0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i_zyWL0s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rawgit.com/leomeloxp/jam-stack-talk/master/src/assets/stack-of-jam.jpg)
 
 JAM 代表 ***Javascript、API 和标记*** ，一个首字母缩略词嵌套的缩写词。🤓
 
@@ -14,15 +14,15 @@ JAM 代表 ***Javascript、API 和标记*** ，一个首字母缩略词嵌套的
 
 给 JAM 下定义并不能给我们足够的深度，但是它背后有什么秘密吗？
 
-[![Michael Jordan looking disappoint at my bad puns](../Images/6d8747f771443cf6aaad05a47ccbc9e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uGXmHuEN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rawgit.com/leomeloxp/jam-stack-talk/master/src/assets/secret-stuff.jpg)
+[![Michael Jordan looking disappoint at my bad puns](img/6d8747f771443cf6aaad05a47ccbc9e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uGXmHuEN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rawgit.com/leomeloxp/jam-stack-talk/master/src/assets/secret-stuff.jpg)
 
 让我们来看看一个示例 JAM 网站的文件结构:
 
-[![Screenshot of a file tree containing an index.html, style.css and script.js files](../Images/9c1f6e896078afc6b1917b3b326c8dc4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aFTV-XBf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rawgit.com/leomeloxp/jam-stack-talk/master/src/assets/jam-code.png)
+[![Screenshot of a file tree containing an index.html, style.css and script.js files](img/9c1f6e896078afc6b1917b3b326c8dc4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aFTV-XBf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rawgit.com/leomeloxp/jam-stack-talk/master/src/assets/jam-code.png)
 
 如你所见，这背后没有魔法。只是一组我们都习惯于在项目前端看到的文件
 
-[![Bugs bunny holding a bottle with "Secret Stuff" written on it](../Images/1ecf1de0bf3337e2f4d4b0bdd5ddbefe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--siCAnsud--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://rawgit.com/leomeloxp/jam-stack-talk/master/src/assets/secret-stuff-gone.gif)
+[![Bugs bunny holding a bottle with "Secret Stuff" written on it](img/1ecf1de0bf3337e2f4d4b0bdd5ddbefe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--siCAnsud--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://rawgit.com/leomeloxp/jam-stack-talk/master/src/assets/secret-stuff-gone.gif)
 
 基于这种文件结构，有些人甚至会认为 [Space Jam 的网站](https://www.warnerbros.com/archive/spacejam/movie/jam.htm)是一个 Jam 网站(剧透:它不是，它甚至不使用 CSS😂).
 
@@ -30,7 +30,7 @@ JAM 对我们如此有用的原因在于它的 Javascript 和 API 方面
 
 Javascript + API =
 
-[![Animated gif of bugs bunny showing his muscles in a hyperbolic way](../Images/a2f8b6c00c1b3410a4a450616f00dd74.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XaQMgNSQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://rawgit.com/leomeloxp/jam-stack-talk/master/src/assets/bugs-bunny.gif)
+[![Animated gif of bugs bunny showing his muscles in a hyperbolic way](img/a2f8b6c00c1b3410a4a450616f00dd74.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XaQMgNSQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://rawgit.com/leomeloxp/jam-stack-talk/master/src/assets/bugs-bunny.gif)
 
 如果我们看一个使用 [Gatsby JS](https://www.gatsbyjs.org/) 、[Rachio Smart spreader](https://rach.io/store/)构建的 JAM 网站的例子，我们可以看到，对于最终用户来说，没有即时的视觉变化，这个网站是静态构建的，仍然在 API 的帮助下提供完整的电子商务和结账旅程。
 
@@ -130,7 +130,7 @@ JAM stack 使我们能够更容易地将新的 web 工作流添加到我们的�
 
 ## 怎样才能加入果酱栈炒作列车？
 
-[![Station officers pushing people into a crowded train](../Images/079046310de6cb3cab5de8665885d5e1.png)T2】](https://i.giphy.com/media/QgRkEgibQp65q/giphy.gif)
+[![Station officers pushing people into a crowded train](img/079046310de6cb3cab5de8665885d5e1.png)T2】](https://i.giphy.com/media/QgRkEgibQp65q/giphy.gif)
 
 既然你已经看到了果酱的一些优点和缺点，你可能想自己尝试一下。有很多方法可以建立一个基于 JAM 的网站，其中大多数都有某种静态网站的感觉。
 
@@ -176,7 +176,7 @@ JAM stack 的另一个重要方面是确保您的后端解决方案与前端框�
 
 我演讲的一些灵感来自 JAM Stack 上的另一篇 [dev.to](https://dev.to) 帖子，我推荐你去看看:
 
-[![lauragift21](../Images/f9c65deb56ce1e30e77570325bbc4634.png)](/lauragift21) [## 什么是 JAMstack，为什么您应该尝试它
+[![lauragift21](img/f9c65deb56ce1e30e77570325bbc4634.png)](/lauragift21) [## 什么是 JAMstack，为什么您应该尝试它
 
 ### 礼物 Egwuenu Apr 16 ' 18 3min read
 

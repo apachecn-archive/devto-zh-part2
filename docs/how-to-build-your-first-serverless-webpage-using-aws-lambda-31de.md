@@ -52,7 +52,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 上面的命令生成了样板文件。
 
-[![structure](../Images/d500758f26ff7376d534835153729ebe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cNqFgdl_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h5tx01hpr8mvrils39w3.png)
+[![structure](img/d500758f26ff7376d534835153729ebe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cNqFgdl_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h5tx01hpr8mvrils39w3.png)
 
 样板文件生成如上图所示的三个文件。
 

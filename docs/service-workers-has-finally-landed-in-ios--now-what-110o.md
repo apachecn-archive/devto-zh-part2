@@ -14,7 +14,7 @@
 
 当 Twitter-verse 仍在抱怨电池问题，并大声疾呼苹果公司已经放弃更新时，我放弃了希望。几天后，他们确实在没有任何重大新闻的情况下放弃了更新。我拿了一部更新的 iPhone 看看有什么功能，然后访问 [whatwebcando.today](https://whatwebcando.today/) 查看这些功能，这是我看到的:
 
-[![WhatWebCanDoToday Feature Table](../Images/d8c0d1ab5bac35c915f6ed1c02c520f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--meLr_54s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://adelphi.digital/articles/service-workers-on-ios/whatwebcandotoday.png)
+[![WhatWebCanDoToday Feature Table](img/d8c0d1ab5bac35c915f6ed1c02c520f7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--meLr_54s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://adelphi.digital/articles/service-workers-on-ios/whatwebcandotoday.png)
 
 *   脱机存储
 *   ✔️离线模式

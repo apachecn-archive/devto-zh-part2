@@ -4,7 +4,7 @@
 
 > 在 [yos.io](https://yos.io/) 找到更多有趣的文章
 
-[![](../Images/af6c94639fa7230726c4d1938bf5811a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wLGq99bF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/oES2SJw.png)
+[![](img/af6c94639fa7230726c4d1938bf5811a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wLGq99bF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/oES2SJw.png)
 
 > 成为一个真正的软件工匠意味着什么？
 

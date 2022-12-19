@@ -64,7 +64,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 并确保 maven 显示安装的版本。
 
-[![mvn version](../Images/b8bf1a7a7dede4166b4b62c0a1b56590.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fVH0Smvt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpomykala.com/assets/2018-11-10/docker-run-mvn.png)
+[![mvn version](img/b8bf1a7a7dede4166b4b62c0a1b56590.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fVH0Smvt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpomykala.com/assets/2018-11-10/docker-run-mvn.png)
 
 如果一切按预期工作，我们可以标记并把我们的图像推送到 ECR 服务。
 
@@ -75,7 +75,7 @@ docker push <YOUR_ECR_URL>/java11-codebuild-environment:latest
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![pushing to ecr](../Images/7a2008b17670d9388e10376c38a43e58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--363Y2eoU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpomykala.com/assets/2018-11-10/pushing-to-ecr.png)
+[![pushing to ecr](img/7a2008b17670d9388e10376c38a43e58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--363Y2eoU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpomykala.com/assets/2018-11-10/pushing-to-ecr.png)
 
 在开始使用我们的容器之前，我们需要为 CodeBuild 服务设置适当的访问策略。这需要使用内部 ECR 政策管理来完成(不是标准的 AWS 角色/政策！)`Amazon ECR > Repositories > Permissions > Edit policy JSON`
 
@@ -101,7 +101,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![pushing to ecr](../Images/095d624c836fab2344f94d620abf0913.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cDmyTROM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpomykala.com/assets/2018-11-10/ecr-permissions.png)
+[![pushing to ecr](img/095d624c836fab2344f94d620abf0913.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cDmyTROM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpomykala.com/assets/2018-11-10/ecr-permissions.png)
 
 我们允许 CodeBuild 服务获取 docker 图像，下载它们并检查它们的可用性。
 
@@ -109,6 +109,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 最后一步是配置 CodeBuild 环境，如下图。
 
-[![pushing to ecr](../Images/2ed1f600029eb133097c274f750f4f9d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DI-KlDkW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpomykala.com/assets/2018-11-10/codebuild-environment.png)
+[![pushing to ecr](img/2ed1f600029eb133097c274f750f4f9d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DI-KlDkW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jpomykala.com/assets/2018-11-10/codebuild-environment.png)
 
 开始了。我们终于可以使用最新的 Java 特性，并马上将其推向生产了！下一个版本定于 2019 年 3 月，所以我们将再次经历这些步骤，但在`Dockerfile`我们将把`maven:3.6-jdk-11`改为`maven:3.6-jdk-12`。即使现在我们也可以这样做，因为我们可以在 Java 12 的测试版中找到 docker 映像。

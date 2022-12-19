@@ -793,19 +793,19 @@ Enter fullscreen mode Exit fullscreen mode
 
 要在 GitHub 上创建远程存储库，只需进入您的个人资料页面:
 
-[![](../Images/e064e4e832a3423386917fdffc2880ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ioFO_SiT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hlyvcrh4ktr88bej7qad.PNG)
+[![](img/e064e4e832a3423386917fdffc2880ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ioFO_SiT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hlyvcrh4ktr88bej7qad.PNG)
 
 单击顶部的“存储库”链接:
 
-[![](../Images/108a8a2e0554e59a9be870e7760a68be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SnBU8ijh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ekcwyrapxyxjkb4n1cmy.PNG)
+[![](img/108a8a2e0554e59a9be870e7760a68be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SnBU8ijh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ekcwyrapxyxjkb4n1cmy.PNG)
 
 然后点击右边的绿色“新建”按钮:
 
-[![](../Images/28cef0ca5d0becd0a2490372b7c60631.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_piZcoTE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bxotj4in6qd8qjmjjcfj.PNG)
+[![](img/28cef0ca5d0becd0a2490372b7c60631.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_piZcoTE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bxotj4in6qd8qjmjjcfj.PNG)
 
 给你的回购命名，给它一个描述...
 
-[![](../Images/2d09a353b377b02fa91c425c3f927ab0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D2oCjhJU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rcjmfuenl7sdmbgaz0qi.PNG)
+[![](img/2d09a353b377b02fa91c425c3f927ab0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D2oCjhJU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rcjmfuenl7sdmbgaz0qi.PNG)
 
 ...并按照说明操作！我们希望“从命令行推送一个现有的存储库”，因为我们已经弄清楚了目录结构，并添加了文件等。确保您已经[将您的 ssh 密钥添加到 GitHub](https://jdblischak.github.io/2014-09-18-chicago/novice/git/05-sshkeys.html) 中，这样您就可以推送到您的远程 repo，并运行以下两个命令(按照说明的要求):
 
@@ -819,7 +819,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 就是这样！现在您已经有了一个 Git/PyBuilder 项目，它包含版本控制、单元测试、文档和一个良好的、有组织的目录结构:
 
-[![](../Images/7c0d40cafeb1ef7e0fb65a98b60eab8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x_Zypo_U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/usojnbbre9nv17zpkrsr.PNG)
+[![](img/7c0d40cafeb1ef7e0fb65a98b60eab8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x_Zypo_U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/usojnbbre9nv17zpkrsr.PNG)
 
 ## 哦等等，还有一件事
 
@@ -907,7 +907,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们可以看到，这个提交已经被推送到远程 repo(现在有两个提交，而不是一个):
 
-[![](../Images/8747759fdccbff63a42c54ea546c5068.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1QEqFqke--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9nlaep3840vyy4pnimxh.PNG)
+[![](img/8747759fdccbff63a42c54ea546c5068.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1QEqFqke--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9nlaep3840vyy4pnimxh.PNG)
 
 # 结论
 
@@ -915,7 +915,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这篇文章中的所有代码都可以在
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png)[awwsmm](https://github.com/awwsmm)/[PybGit](https://github.com/awwsmm/PybGit)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png)[awwsmm](https://github.com/awwsmm)/[PybGit](https://github.com/awwsmm/PybGit)
 
 ### PyBuilder / Git 项目示例
 

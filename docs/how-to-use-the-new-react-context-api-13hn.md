@@ -10,7 +10,7 @@
 
 更喜欢视频教程？我把这个教程也制作成了视频，可以在下面找到:
 
-[![React context tutorial](../Images/5fc491708d63e14d0c525beb1b6efb29.png)T2】](http://www.js-craft.io/screencast/18-04-11-React-context-API-Tutorial/)
+[![React context tutorial](img/5fc491708d63e14d0c525beb1b6efb29.png)T2】](http://www.js-craft.io/screencast/18-04-11-React-context-API-Tutorial/)
 
 ## 问题？
 
@@ -19,7 +19,7 @@
 *   我们有一些数据，即值为 10 的数字
 *   我们需要红色部分和绿色部分的数据
 *   绿色组件是蓝色组件的子组件，蓝色组件是红色组件的子组件
-*   因此，最有可能的是，我们需要将数据从红色组件发送到蓝色组件，以便能够将其发送到绿色组件![React context example](../Images/1b6dd50472e3afebd50f348be4e73a58.png)
+*   因此，最有可能的是，我们需要将数据从红色组件发送到蓝色组件，以便能够将其发送到绿色组件![React context example](img/1b6dd50472e3afebd50f348be4e73a58.png)
 
 此时，我们的代码看起来像这样:
 
@@ -158,7 +158,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 除非你正在开发一个非常基础的应用程序，否则你需要一种方法来更新/改变来自 React 上下文的数据。最小的例子可以是一个按钮，它将从我们的数据中增加数字。
 
-[![React context example](../Images/8f4b7ce280e16b69c5de3734b8a2b190.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RHJ1rJLZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Ad2wwbXd_mtJJnED7DUygLQ.gif)
+[![React context example](img/8f4b7ce280e16b69c5de3734b8a2b190.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RHJ1rJLZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Ad2wwbXd_mtJJnED7DUygLQ.gif)
 
 我们需要的是 Mobx 或 Redux 动作的替代品。
 

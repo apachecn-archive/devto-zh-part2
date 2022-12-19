@@ -2,13 +2,13 @@
 
 > 原文：<https://dev.to/nylas/celebrating-success-at-scale-how-we-built-our-salesforce-slackbot-3jg>
 
-[![Celebrating Success at Scale: How We Built Our Salesforce Slackbot](../Images/5454e4f12b1e66a5928b09688e420664.png)T2】](https://www.nylas.com/blog/celebrating-success-at-scale-how-we-built-our-salesforce-slackbot)
+[![Celebrating Success at Scale: How We Built Our Salesforce Slackbot](img/5454e4f12b1e66a5928b09688e420664.png)T2】](https://www.nylas.com/blog/celebrating-success-at-scale-how-we-built-our-salesforce-slackbot)
 
 Nylas API 每天为客户处理超过 1 亿个 API 请求，从新兴的初创公司到财富 100 强公司。如果没有一个不仅一起努力工作，而且一起庆祝成功的紧密团结的团队，这是不可能的。
 
 在一家快节奏的公司，这可能很难做到，尤其是在东西海岸都有办公室的公司。但是，通过一点代码和一些 API，我们连接了一个 Slackbot，让每个员工都可以实时了解加入 Nylas 社区的新客户。
 
-[![nylas-salesforce-slackbot-screenshot](../Images/80cfab30f56e26a52f414e7547470a31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iMnQjOb7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/slackbot-screenshot-edited.png)
+[![nylas-salesforce-slackbot-screenshot](img/80cfab30f56e26a52f414e7547470a31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iMnQjOb7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/slackbot-screenshot-edited.png)
 
 ## **摆脱销售锣**
 
@@ -38,7 +38,7 @@ Nylas API 每天为客户处理超过 1 亿个 API 请求，从新兴的初创�
 
 接下来，您将 [创建一个 Slack 应用](https://api.slack.com/slack-apps#creating_apps) ，并通过输入您组织的 Slack 凭证对其进行认证。
 
-[![Screen Shot 2018-09-06 at 11.58.49 AM](../Images/dba9fa93e604c46e0a512b5df786a019.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DtnhXDCM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/Screen%2520Shot%25202018-09-06%2520at%252011.58.49%2520AM.png)
+[![Screen Shot 2018-09-06 at 11.58.49 AM](img/dba9fa93e604c46e0a512b5df786a019.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DtnhXDCM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn2.hubspot.net/hubfs/3314308/Screen%2520Shot%25202018-09-06%2520at%252011.58.49%2520AM.png)
 
 现在，我们有了 Slack 频道来更新我们的 Salesforce 和 一个 Slack 应用来更新 。但是我们仍然需要让 Slack 和 Salesforce 互相交流。
 

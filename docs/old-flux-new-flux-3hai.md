@@ -18,13 +18,13 @@
 
 在`AppViewNew.js`的情况下:
 
-[![new flux code](../Images/62d8a72341b3732ef3dfaa69c3b7f8b7.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/new.png)
+[![new flux code](img/62d8a72341b3732ef3dfaa69c3b7f8b7.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/new.png)
 
 在这里，我们发现一些带有静态函数 *getStores* 和 *calculateState* 的样板文件，然而，在组件 AddItem 和 ItemList 中，我们将可以通过 this.props 访问这里定义的状态。最重要的是，每当商店更新其状态时，*项*就会神奇地更新。在这个简单的例子中，这看起来是一件很棒的事情，但是当应用程序的复杂性增加时，这会给开发人员带来一些麻烦。
 
 现在，在`AppViewOld.js`的情况下，我们会发现:
 
-[![old flux code](../Images/60773b7ec30326a92e463d90ec83d7c8.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/old.png)
+[![old flux code](img/60773b7ec30326a92e463d90ec83d7c8.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/old.png)
 
 这里我们看到更多的样板文件，特别是当我们使用 React 组件生命周期函数手动订阅和取消订阅动作时。然而，代码的易读性更简单。我们看到这个特定的视图会对什么事件(或动作)做出反应，更重要的是，一旦这些动作发生，会对视图产生什么影响。在这种情况下，是函数 *refreshItems* 将唯一的更改应用于视图的状态。此外，我们可以为 ITEM_ADDED_OLD 和 ITEM_REMOVED_OLD 操作设置不同的回调，这两个操作都与存储状态的相同部分进行交互；这是第一种方法所不具备的，在第一种方法中，我们只知道*项*发生了变化，但不知道是否添加了新项，或者是否从列表中删除了某些项。事实上，要真正区分这一点，我们需要使用*componentWillReceiveProps*生命周期函数，如果比较旧状态和新状态的话，会非常难看。
 

@@ -10,7 +10,7 @@
 
 我目前的主题是[阴郁](https://github.com/agirton/gloom)因为它很美，并且拥有对比和酷的最佳平衡。
 
-[![](../Images/eb85d42a46895688575d6a5a686bfb00.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8mMQkinV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/twhiteblog/image/upload/c_scale%2Cw_2737/v1535424698/My%2520VSCode%2520Setup/Main%2520Interface/Screenshot-2018-08-27_10-44-30_PM.png)
+[![](img/eb85d42a46895688575d6a5a686bfb00.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8mMQkinV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/twhiteblog/image/upload/c_scale%2Cw_2737/v1535424698/My%2520VSCode%2520Setup/Main%2520Interface/Screenshot-2018-08-27_10-44-30_PM.png)
 
 我还有标准的 Monokai、 [Cobalt2](https://github.com/wesbos/cobalt2/) 、 [nightowl](https://github.com/sdras/night-owl-vscode-theme) 和 [level-up-vscode-theme](https://github.com/leveluptuts/level-up-vscode-theme) 这是我第二喜欢的。
 
@@ -18,7 +18,7 @@
 
 我有很多分机号码。让我们先解决这个问题(在写这篇文章的时候，我刚刚又安装了 6 个)。
 
-[![](../Images/a3e8e1b8211d776bb202bbfc79aa9b92.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6Q5Ia_Cz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/twhiteblog/image/upload/v1535578739/My%2520VSCode%2520Setup/Extensions/extensions_vscode.png) 
+[![](img/a3e8e1b8211d776bb202bbfc79aa9b92.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6Q5Ia_Cz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/twhiteblog/image/upload/v1535578739/My%2520VSCode%2520Setup/Extensions/extensions_vscode.png) 
 
 <figure>
 

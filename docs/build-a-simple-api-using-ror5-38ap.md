@@ -165,13 +165,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 您可以检索您在控制台上创建的 2 组数据。
 
-[![image.png](../Images/a39241ccbb49cf923433868bfc2e6354.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i5B4WzOE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/258219/bd494dc7-7303-c48b-f0d5-a784331f1c50.png)
+[![image.png](img/a39241ccbb49cf923433868bfc2e6354.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i5B4WzOE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/258219/bd494dc7-7303-c48b-f0d5-a784331f1c50.png)
 
 ### GET([http://localhost:3000/API/v1/posts/:id](http://localhost:3000/api/v1/posts/:id)
 
 您可以检索一个具有`id = 1`的特定数据。
 
-[![image.png](../Images/94cebb0da5fbde29d9c2d2a5b434db2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vaxpSqWA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/258219/0f35b92e-f51c-4bba-1db4-69ac07035b19.png)
+[![image.png](img/94cebb0da5fbde29d9c2d2a5b434db2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vaxpSqWA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/258219/0f35b92e-f51c-4bba-1db4-69ac07035b19.png)
 
 ### 帖子([http://localhost:3000/API/v1/posts](http://localhost:3000/api/v1/posts))
 
@@ -180,20 +180,20 @@ Enter fullscreen mode Exit fullscreen mode
 
 所以把右边框中选中的选项从`GET`改为`POST`，并在主体中传递 json 数据。
 
-[![image.png](../Images/3e4e58735c5a3351d3529d81182fccef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BL02ph49--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/258219/0fb6d53a-f0f8-fdef-170e-3ca79d7457b7.png)
+[![image.png](img/3e4e58735c5a3351d3529d81182fccef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BL02ph49--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/258219/0fb6d53a-f0f8-fdef-170e-3ca79d7457b7.png)
 
 ### PUT([http://localhost:3000/API/v1/posts/:id](http://localhost:3000/api/v1/posts/:id)
 
 我们来更新数据吧！
 将选中的选项改为`PUT`，传递 json 数据。
 
-[![image.png](../Images/c2298854b91257962b4b1f0cbdc71d13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cu3lxBaz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/258219/76d01d80-99ea-0980-2042-b52971dd2a05.png)
+[![image.png](img/c2298854b91257962b4b1f0cbdc71d13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cu3lxBaz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/258219/76d01d80-99ea-0980-2042-b52971dd2a05.png)
 
 ### 删除([http://localhost:3000/API/v1/posts/:id](http://localhost:3000/api/v1/posts/:id)
 
 最后，让我们尝试删除数据。
 将选中的选项改为`DELETE`，传递 json 数据。
 
-[![image.png](../Images/1b912a378cc7d0f360c89568cf714535.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7FvWArXq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/258219/d37392ff-eb77-14fc-17d1-86a42a9adcd6.png)
+[![image.png](img/1b912a378cc7d0f360c89568cf714535.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7FvWArXq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/258219/d37392ff-eb77-14fc-17d1-86a42a9adcd6.png)
 
 我在这篇文章中使用了`postman`，但是你当然可以使用 [curl 命令](https://curl.haxx.se/docs/manpage.html)来做同样的事情。

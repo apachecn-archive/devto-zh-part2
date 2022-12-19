@@ -27,7 +27,7 @@
 
 ## 从哪里开始？
 
-[![Welcome to Elm](../Images/1cba7efbe40f8f570d6da6bb42687e0f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yRxyK12l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tzemanovic.github.io/images/elm-grove.jpg)
+[![Welcome to Elm](img/1cba7efbe40f8f570d6da6bb42687e0f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yRxyK12l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tzemanovic.github.img/elm-grove.jpg)
 
 当然，不是每个人的学习方式都一样。作为一般建议，我会说:
 

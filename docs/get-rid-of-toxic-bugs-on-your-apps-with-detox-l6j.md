@@ -16,13 +16,13 @@
 
  **根据 Martin Fowler 的说法，所有这些类型的测试都可以归为一个[测试金字塔](https://martinfowler.com/bliki/TestPyramid.html)，从最慢/最贵到最快/最便宜。
 
-[![Test Pyramid](../Images/aaa7a3aa3c9ccd22249e43ca8bded520.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iHr4tMss--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://marmelab.com/images/blog/detox/test_pyramid.png)
+[![Test Pyramid](img/aaa7a3aa3c9ccd22249e43ca8bded520.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iHr4tMss--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://marmelab.cimg/blog/detox/test_pyramid.png)
 
 在金字塔的底部，**单元测试**肯定是最常见的测试。当然，每个功能都必须测试。需要一些集成测试和一点点 E2E 测试来确保整个堆栈运行良好。
 
 尽管 E2E 测试非常重要，但有些人有时会过度使用 E2E 测试。另一个名为[冰淇淋蛋卷](https://medium.com/@fistsOfReason/testing-is-good-pyramids-are-bad-ice-cream-cones-are-the-worst-ad94b9b2f05f)的图表也代表了这种反模式。
 
-[![Ice Cream Cone](../Images/764c1670bb1ad5ff1da545e8e5baa5e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bCmYtscp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://marmelab.com/images/blog/detox/icecream.png)
+[![Ice Cream Cone](img/764c1670bb1ad5ff1da545e8e5baa5e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bCmYtscp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://marmelab.cimg/blog/detox/icecream.png)
 
 但是每个人都同意编写和调试 E2E 测试是一项单调乏味的任务。
 
@@ -30,7 +30,7 @@
 
 2016 年，在 [Wix](https://wix.com/) 工作的两位工程师[塔尔·科尔](https://twitter.com/koltal)和[罗特姆·米兹拉奇-梅丹](https://twitter.com/rotemmiz)首次发布了 Detox。Wix 是一个基于云的平台，允许非技术用户创建自己的网站。
 
-[![Wix Engineering](../Images/a4e5cba0426b65e74901413d4bc5fd8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pWKXfkla--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://marmelab.com/images/blog/detox/wixengineering.png)
+[![Wix Engineering](img/a4e5cba0426b65e74901413d4bc5fd8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pWKXfkla--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://marmelab.cimg/blog/detox/wixengineering.png)
 
 Detox 将自己定义为**一个用于移动应用**的灰色盒子端到端测试自动化框架。这意味着它通过 [Selenium](https://www.seleniumhq.org/) 带来了我们已经在浏览器应用中使用的相同的上下文感知测试功能。通过这种方式，Detox 可以脱离耗时且不完整的手动[质量保证](https://en.wikipedia.org/wiki/Quality_assurance)测试流程。
 
@@ -55,7 +55,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 灰盒框架正在扩展[白盒测试框架](https://en.wikipedia.org/wiki/White-box_testing)的能力。这样，除了访问执行上下文的内部状态之外，它们做的事情和黑盒框架一样。
 
-[![Black Box vs Grey Box](../Images/abf35d9f9db48100962d846cfe5d47d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LPQZCTFh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://marmelab.com/images/blog/detox/blackgreywhitebox.png)
+[![Black Box vs Grey Box](img/abf35d9f9db48100962d846cfe5d47d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LPQZCTFh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://marmelab.cimg/blog/detox/blackgreywhitebox.png)
 
 访问执行上下文的内部状态允许知道应用程序何时空闲，并充分地同步操作。这就是为什么 Detox 比大多数经典的 E2E 测试框架更强大。
 
@@ -63,7 +63,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果你以前已经使用过 E2E 测试框架，你肯定会遇到一些奇怪的、随机的和意想不到的错误。这些误差因此被称为“片状误差”。当你遇到他们时，你会觉得自己像我们的老哈罗德，这并不好笑。
 
-[![E2E Flakiness is not so funny](../Images/642e8fff3c8dfcf28131b384ba59e713.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xf6QxutK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://marmelab.com/images/blog/detox/harold.jpg)
+[![E2E Flakiness is not so funny](img/642e8fff3c8dfcf28131b384ba59e713.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xf6QxutK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://marmelab.cimg/blog/detox/harold.jpg)
 
 为了减轻这种行为，我们通常在测试套件中添加一些`sleep`(或`timeouts`)调用，以确保应用程序在恢复测试过程之前处于空闲状态。尽管这种“黑客”工作，但它导致测试变慢，没有真正解决问题，因为在一个慢的测试系统上，睡眠延迟有时是不够的。
 
@@ -78,7 +78,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 幸运的是，作为一个灰箱框架，Detox 能够**访问应用程序状态**，然后确定应用程序是否处于空闲状态。为了实现这个`idle`同步任务，Detox 依赖于两个本地灰盒驱动程序，分别名为 [EarlGrey](https://github.com/google/EarlGrey) (用于 iOS)和 [Espresso](https://developer.android.com/training/testing/ui-testing/espresso-testing.html) (用于 Android)。
 
-[![Detox Inner Working](../Images/fe85dccbbe0e1831c4c5d7aecc5e4a5c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T9mOacOg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://marmelab.com/images/blog/detox/earlgrey_espresso.png)
+[![Detox Inner Working](img/fe85dccbbe0e1831c4c5d7aecc5e4a5c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T9mOacOg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://marmelab.cimg/blog/detox/earlgrey_espresso.png)
 
 因为 **Detox 运行在 JavaScript** 中，它使用基于 JSON 的协议与驱动程序通信，以调用设备上的控制命令。
 
@@ -88,7 +88,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 正如在介绍中已经说过的，我已经开发了一个专门的应用程序来尝试排毒。由于我是一个啤酒爱好者，我忍不住创建了一个简单的啤酒注册应用程序，名为 [beerexplorer](https://github.com/marmelab/beerexplorer-detox) 。
 
-[![Detox Example App](../Images/b6eb4ba736d1a6527e2efda6c451131f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rV3Ggo6x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://marmelab.com/images/blog/detox/detox.gif)
+[![Detox Example App](img/b6eb4ba736d1a6527e2efda6c451131f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rV3Ggo6x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://marmelab.cimg/blog/detox/detox.gif)
 
 大多数关于排毒的博客文章都用 [React-Native](https://facebook.github.io/react-native/) 构建应用程序，这一篇也不例外。尽管如此，重要的是要知道，Detox 是完全跨平台的，支持 iOS 和 Android。
 

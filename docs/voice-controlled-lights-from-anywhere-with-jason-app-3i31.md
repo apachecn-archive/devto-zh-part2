@@ -36,13 +36,13 @@ Jason 是一个语音控制的助手应用程序，我为 Android 设备编写�
 
 你需要做的第一件事是去教育网站创建一个账户。如果你已经有了 Twitter、Github、Google 或脸书账户，你可以直接登录。
 
-[![Ubidots sign up website](../Images/707abc6ad4b11eba56af048d905c0d94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fAhVQv2o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530388/ubidots_register_ms86QxY4f7.PNG%3Fauto%3Dcompress%252Cformat%26w%3D1280%26h%3D960%26fit%3Dmax)
+[![Ubidots sign up website](img/707abc6ad4b11eba56af048d905c0d94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fAhVQv2o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530388/ubidots_register_ms86QxY4f7.PNG%3Fauto%3Dcompress%252Cformat%26w%3D1280%26h%3D960%26fit%3Dmax)
 
 当您已经创建了您的帐户，您将可以访问您的令牌，但点击您的用户名在右上角，并点击 API 证书。保存您的令牌，因为我们稍后会用到它。
 
-[![Ubidots Dashboard](../Images/43b495d7fbf40dea7328b880cbf9285c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jLmRt2Vy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530397/ubidotsdashboard_smcDlh0j8B.PNG%3Fauto%3Dcompress%252Cformat%26w%3D680%26h%3D510%26fit%3Dmax)
+[![Ubidots Dashboard](img/43b495d7fbf40dea7328b880cbf9285c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jLmRt2Vy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530397/ubidotsdashboard_smcDlh0j8B.PNG%3Fauto%3Dcompress%252Cformat%26w%3D680%26h%3D510%26fit%3Dmax)
 
-[![Ubidots Keys](../Images/689adac6b4fcb407c7e23f9d35effed8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y0mRdIs1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530401/token_57BYXVvEi5.png%3Fauto%3Dcompress%252Cformat%26w%3D680%26h%3D510%26fit%3Dmax)
+[![Ubidots Keys](img/689adac6b4fcb407c7e23f9d35effed8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y0mRdIs1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530401/token_57BYXVvEi5.png%3Fauto%3Dcompress%252Cformat%26w%3D680%26h%3D510%26fit%3Dmax)
 
 ### 杰森 App
 
@@ -50,17 +50,17 @@ Jason 是一个语音控制的助手应用程序，我为 Android 设备编写�
 
 将您的 Ubidots 令牌复制到应用程序中，方法是点击设置选项卡，将其粘贴到 Ubidots 密钥字段，然后点击保存按钮。
 
-[![Settings tab](../Images/3aa512378f3b543c8c374179fe5c8a83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G7HzQkAk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530415/whatsapp_image_2018-07-21_at_7_48_24_pm_htr3T60Cd6.jpeg%3Fauto%3Dcompress%252Cformat%26w%3D680%26h%3D510%26fit%3Dmax)
+[![Settings tab](img/3aa512378f3b543c8c374179fe5c8a83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G7HzQkAk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530415/whatsapp_image_2018-07-21_at_7_48_24_pm_htr3T60Cd6.jpeg%3Fauto%3Dcompress%252Cformat%26w%3D680%26h%3D510%26fit%3Dmax)
 
-[![Ubidots key field](../Images/74190946a36449950bcd03047d35a925.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CT2ndSsy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530418/whatsapp_image_2018-07-21_at_7_48_24_pm_%282%29_cduYWnHhvr.jpeg%3Fauto%3Dcompress%252Cformat%26w%3D680%26h%3D510%26fit%3Dmax)
+[![Ubidots key field](img/74190946a36449950bcd03047d35a925.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CT2ndSsy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530418/whatsapp_image_2018-07-21_at_7_48_24_pm_%282%29_cduYWnHhvr.jpeg%3Fauto%3Dcompress%252Cformat%26w%3D680%26h%3D510%26fit%3Dmax)
 
-[![Saved Key in Jason](../Images/508acab36437739693404d60f2e28dec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---L5EWOlw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530422/whatsapp_image_2018-07-21_at_7_48_24_pm_%281%29_T1rBzAgKJr.jpeg%3Fauto%3Dcompress%252Cformat%26w%3D680%26h%3D510%26fit%3Dmax)
+[![Saved Key in Jason](img/508acab36437739693404d60f2e28dec.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---L5EWOlw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530422/whatsapp_image_2018-07-21_at_7_48_24_pm_%281%29_T1rBzAgKJr.jpeg%3Fauto%3Dcompress%252Cformat%26w%3D680%26h%3D510%26fit%3Dmax)
 
 ## 制作硬件
 
 ### 安全第一
 
-[![High Voltage danger](../Images/2e3c24812747231d7da39e4b48cc4e23.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QNfiH-_D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530922/caution-high-voltage-300x450_WfXuok0iXU.png%3Fauto%3Dcompress%252Cformat%26w%3D680%26h%3D510%26fit%3Dmax)
+[![High Voltage danger](img/2e3c24812747231d7da39e4b48cc4e23.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QNfiH-_D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530922/caution-high-voltage-300x450_WfXuok0iXU.png%3Fauto%3Dcompress%252Cformat%26w%3D680%26h%3D510%26fit%3Dmax)
 
 在这个项目中，我们使用的是市电电压(交流电压),如果你不知道自己在做什么，这是很危险的，要非常小心。如果电路连接到墙上电源，切勿触摸或操作电路的任何部分。如果你不知道自己在做什么，就在这里停下来，或者寻求专业人士的帮助。
 
@@ -68,7 +68,7 @@ Jason 是一个语音控制的助手应用程序，我为 Android 设备编写�
 
 ### 示意图
 
-[![Schematics](../Images/b5ca6e3b2d27fb6be3f25ba11d779584.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MYrpsdNQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530710/schematic_EHL21EeSdU.png%3Fauto%3Dcompress%252Cformat%26w%3D680%26h%3D510%26fit%3Dmax)
+[![Schematics](img/b5ca6e3b2d27fb6be3f25ba11d779584.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MYrpsdNQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530710/schematic_EHL21EeSdU.png%3Fauto%3Dcompress%252Cformat%26w%3D680%26h%3D510%26fit%3Dmax)
 
 *   通过将 **VIN** 连接到 **VCC** (5V)并将 **GND 引脚**连接到 **GND** 来给 NodeMCU 供电。
 *   将 **D8** 连接到开关的一个**端和连接到 **GND** 的一个 **2.2K 欧姆电阻**。**
@@ -83,29 +83,29 @@ Jason 是一个语音控制的助手应用程序，我为 Android 设备编写�
 
 ### 试验板
 
-[![Breadboard from top](../Images/5eb93aaf4eaa85658f0a8242c1e07757.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w0pbohx4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530775/whatsapp_image_2018-07-22_at_2_17_06_pm_%281%29_vvTgCj6VlN.jpeg%3Fauto%3Dcompress%252Cformat%26w%3D680%26h%3D510%26fit%3Dmax)
+[![Breadboard from top](img/5eb93aaf4eaa85658f0a8242c1e07757.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w0pbohx4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530775/whatsapp_image_2018-07-22_at_2_17_06_pm_%281%29_vvTgCj6VlN.jpeg%3Fauto%3Dcompress%252Cformat%26w%3D680%26h%3D510%26fit%3Dmax)
 
-[![Breadboard from side](../Images/89368174bc30f92336cc3175cc14a721.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eSz7u1YF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530768/breadboardnoext1_plq9g4h8LD.jpeg%3Fauto%3Dcompress%252Cformat%26w%3D680%26h%3D510%26fit%3Dmax)
+[![Breadboard from side](img/89368174bc30f92336cc3175cc14a721.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eSz7u1YF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530768/breadboardnoext1_plq9g4h8LD.jpeg%3Fauto%3Dcompress%252Cformat%26w%3D680%26h%3D510%26fit%3Dmax)
 
-[![Breadboard from other side](../Images/1f48f4b281378371be65fff1fc6430c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pOGqpaTC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530769/breadorardnoext2_XUExNJM0gi.jpeg%3Fauto%3Dcompress%252Cformat%26w%3D680%26h%3D510%26fit%3Dmax)
+[![Breadboard from other side](img/1f48f4b281378371be65fff1fc6430c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pOGqpaTC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530769/breadorardnoext2_XUExNJM0gi.jpeg%3Fauto%3Dcompress%252Cformat%26w%3D680%26h%3D510%26fit%3Dmax)
 
-[![Switch Front](../Images/574a3546d9abb0ca82c4566e3135c7dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zbmaqO9M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530772/whatsapp_image_2018-07-22_at_2_17_06_pm_xsVLo7aTlf.jpeg%3Fauto%3Dcompress%252Cformat%26w%3D680%26h%3D510%26fit%3Dmax)
+[![Switch Front](img/574a3546d9abb0ca82c4566e3135c7dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zbmaqO9M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530772/whatsapp_image_2018-07-22_at_2_17_06_pm_xsVLo7aTlf.jpeg%3Fauto%3Dcompress%252Cformat%26w%3D680%26h%3D510%26fit%3Dmax)
 
-[![Switch Back](../Images/369880a36c3a4369baff1fd78fcdda93.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QbS9AbUI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530773/whatsapp_image_2018-07-22_at_2_17_05_pm_%282%29_dyvvk58ycq.jpeg%3Fauto%3Dcompress%252Cformat%26w%3D680%26h%3D510%26fit%3Dmax)
+[![Switch Back](img/369880a36c3a4369baff1fd78fcdda93.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QbS9AbUI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530773/whatsapp_image_2018-07-22_at_2_17_05_pm_%282%29_dyvvk58ycq.jpeg%3Fauto%3Dcompress%252Cformat%26w%3D680%26h%3D510%26fit%3Dmax)
 
 我使用的开关具有双掷，我们只需要一个，因此我将其引脚 1 连接到 NodeMCU 的 3V，并将开关的引脚 2 连接到 NodeMCU 引脚 D8。
 
-[![Switch Back and breadboard](../Images/eca046f7f89bf4946acffd79c62a1b98.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--262-4J9I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530774/whatsapp_image_2018-07-22_at_2_17_05_pm_%283%29_k5ToKxqRMr.jpeg%3Fauto%3Dcompress%252Cformat%26w%3D680%26h%3D510%26fit%3Dmax)
+[![Switch Back and breadboard](img/eca046f7f89bf4946acffd79c62a1b98.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--262-4J9I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530774/whatsapp_image_2018-07-22_at_2_17_05_pm_%283%29_k5ToKxqRMr.jpeg%3Fauto%3Dcompress%252Cformat%26w%3D680%26h%3D510%26fit%3Dmax)
 
 电源将是一个 5V 的电话壁式充电器，带有一根剥离的 usb 电缆。
 
-[![5 volts transformer](../Images/aeeda198dbe91758c1d452faee64978f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y0W3MZBp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530776/whatsapp_image_2018-07-22_at_2_17_05_pm_%284%29_EChhLVAVuR.jpeg%3Fauto%3Dcompress%252Cformat%26w%3D680%26h%3D510%26fit%3Dmax)
+[![5 volts transformer](img/aeeda198dbe91758c1d452faee64978f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y0W3MZBp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530776/whatsapp_image_2018-07-22_at_2_17_05_pm_%284%29_EChhLVAVuR.jpeg%3Fauto%3Dcompress%252Cformat%26w%3D680%26h%3D510%26fit%3Dmax)
 
 通过控制继电器的接地连接，我们可以控制灯泡的交流状态
 
-[![Light bulb conecctions](../Images/ab2069b8ca91bd292cab48a1de6dd418.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6Lv3pgzp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530780/whatsapp_image_2018-07-22_at_2_17_04_pm_lNFuRCmyMT.jpeg%3Fauto%3Dcompress%252Cformat%26w%3D680%26h%3D510%26fit%3Dmax)
+[![Light bulb conecctions](img/ab2069b8ca91bd292cab48a1de6dd418.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6Lv3pgzp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530780/whatsapp_image_2018-07-22_at_2_17_04_pm_lNFuRCmyMT.jpeg%3Fauto%3Dcompress%252Cformat%26w%3D680%26h%3D510%26fit%3Dmax)
 
-[![Solid State Relay connections](../Images/3a4523d43240458bc99c21a420b2a908.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JpZJokKs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530781/whatsapp_image_2018-07-22_at_2_17_04_pm_%281%29_uGuSZaE24t.jpeg%3Fauto%3Dcompress%252Cformat%26w%3D680%26h%3D510%26fit%3Dmax)
+[![Solid State Relay connections](img/3a4523d43240458bc99c21a420b2a908.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JpZJokKs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://hackster.imgix.net/uploads/attachments/530781/whatsapp_image_2018-07-22_at_2_17_04_pm_%281%29_uGuSZaE24t.jpeg%3Fauto%3Dcompress%252Cformat%26w%3D680%26h%3D510%26fit%3Dmax)
 
 ## 代码
 

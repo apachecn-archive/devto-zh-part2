@@ -25,7 +25,7 @@ function sayHello() (
 
 Enter fullscreen mode Exit fullscreen mode
 
-### ![Anonymous emblem.svg](../Images/5b357304a17632409c14cf42d6552eeb.png)
+### ![Anonymous emblem.svg](img/5b357304a17632409c14cf42d6552eeb.png)
 
 ### 匿名函数定义
 

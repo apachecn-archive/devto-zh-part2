@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/trekhleb/top-33-javascript-projects-on-github-august-2018-cp>
 
-[![](../Images/c14a09e6034243866097ce8d5061b380.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iCGVnU30--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lmnmv6n0hwnpbhwfklbc.png)
+[![](img/c14a09e6034243866097ce8d5061b380.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iCGVnU30--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lmnmv6n0hwnpbhwfklbc.png)
 
 读者你好！
 

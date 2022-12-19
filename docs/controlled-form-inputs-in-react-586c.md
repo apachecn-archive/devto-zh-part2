@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/firebase007/controlled-form-inputs-in-react-586c>
 
-[![A sample registration form](../Images/5679657fb7f2b4e5a3077b19dd5d7de6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cenV-0pw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xs6nywaxcpy35c8frvh3.png)
+[![A sample registration form](img/5679657fb7f2b4e5a3077b19dd5d7de6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cenV-0pw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xs6nywaxcpy35c8frvh3.png)
 
 [**React**](https://www.reactjs.org) 主张在处理状态或数据变化时采用单一的真实来源。在 **HTML** 中，像`__input__`和`__textarea__`这样的表单元素基于用户输入以不受控制的方式维护和更新它们的**状态**。然而，由于 React 为**提供了一个单独的状态存储库**来处理状态更新(通过 setState() API ),所以我们最好寻找一种更好的方法来以可控的方式处理表单状态——以确保在一个地方处理状态更新的一致性。当然，作为一名开发人员，这样做的好处是，它可以让您完全控制表单输入状态，并允许您快速知道错误来自哪里。
 

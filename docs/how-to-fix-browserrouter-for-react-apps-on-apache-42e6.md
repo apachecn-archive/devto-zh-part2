@@ -14,7 +14,7 @@
 
 我开始点击几条路线，一切似乎都很好，直到我刷新页面或试图直接访问一条路线。我得到一个 404 错误。
 
-[![](../Images/9dd15f83f172a67078458a251a789b09.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4i7olYr9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/www.andreasreiterer.at/wp-content/uploads/2018/11/oopsnotfound.jpg%3Fresize%3D660%252C92%26ssl%3D1)
+[![](img/9dd15f83f172a67078458a251a789b09.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4i7olYr9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/www.andreasreiterer.at/wp-content/uploads/2018/11/oopsnotfound.jpg%3Fresize%3D660%252C92%26ssl%3D1)
 
 “但它在本地很管用——为什么在我的网络空间里却不行？”
 

@@ -8,7 +8,7 @@
 
 [使用 jQuery 和 CSS 的脸书风格聊天应用](https://www.skptricks.com/2018/03/facebook-style-chat-application-with-jquery-and-css.html)
 
-[![](../Images/15f81f595d1b8ccd044c3a0cc59d9fee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CKhUQaHx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-7jgKreVx6wQ/WpuONaj4zuI/AAAAAAAABYo/u20rRtBIAGUPApdEQNuSaSvJKsCUbeJsACLcBGAs/s640/chat.jpg)
+[![](img/15f81f595d1b8ccd044c3a0cc59d9fee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CKhUQaHx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-7jgKreVx6wQ/WpuONaj4zuI/AAAAAAAABYo/u20rRtBIAGUPApdEQNuSaSvJKsCUbeJsACLcBGAs/s640/chat.jpg)
 
 因此，这里我们将聊天滑块布局和聊天弹出框布局设计集成在一个 HTML 文件中。当用户点击聊天滑块框中的用户名时，它会像脸书应用程序一样显示相同的用户弹出框。
 

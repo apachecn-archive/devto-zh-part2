@@ -20,7 +20,7 @@
 
 本课程结束时，您将能够准备数据并将数据导入 Tableau，并解释数据分析和数据可视化之间的关系。
 
-[![Data Visualization with Tableau Specialization](../Images/c79215dcc14fd79b7bb3b5e3e92771cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kEKM7A_D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sinxloud.com/wp-content/uploads/2018/08/Data-Visualization-with-Tableau-Specialization-Coursera-1024x371.png.webp)
+[![Data Visualization with Tableau Specialization](img/c79215dcc14fd79b7bb3b5e3e92771cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kEKM7A_D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sinxloud.com/wp-content/uploads/2018/08/Data-Visualization-with-Tableau-Specialization-Coursera-1024x371.png.webp)
 
 #### 你会学到什么？
 
@@ -40,7 +40,7 @@
 
 你可以免费学习本课程的所有四个模块，在课程结束时，你将成为这门艺术的实践者。
 
-[![Data Visualization: A Practical Approach for Absolute Beginners ](../Images/bf1f7bc0a9e5b9fe11402df5ed073e32.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KZGClmfT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sinxloud.com/wp-content/uploads/2018/08/Data-Visualization-A-Practical-Approach-for-Absolute-Beginners-by-Microsoft-edX-1-1024x359.png.webp)
+[![Data Visualization: A Practical Approach for Absolute Beginners ](img/bf1f7bc0a9e5b9fe11402df5ed073e32.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KZGClmfT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sinxloud.com/wp-content/uploads/2018/08/Data-Visualization-A-Practical-Approach-for-Absolute-Beginners-by-Microsoft-edX-1-1024x359.png.webp)
 
 #### 你会学到什么？
 
@@ -59,7 +59,7 @@
 
 本课程在 Pluralsight 上的评分为 4.8 星，将帮助您掌握使用 Tableau Public 构建数据可视化技能。
 
-[![Data Visualization Using Tableau Public](../Images/054c0ddbb39e3092dc337266cb640e43.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uab-yOX9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sinxloud.com/wp-content/uploads/2018/08/Data-Visualization-with-Python-Coursera-1024x309.png.webp)
+[![Data Visualization Using Tableau Public](img/054c0ddbb39e3092dc337266cb640e43.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uab-yOX9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sinxloud.com/wp-content/uploads/2018/08/Data-Visualization-with-Python-Coursera-1024x309.png.webp)
 
 #### 你会学到什么？
 
@@ -77,7 +77,7 @@
 
 您将学习各种已经开发出来的可视化显示数据的技术，并使用 Python 中的几个数据可视化库，如 Matplotlib、Seaborn 和 Folium。
 
-[![Data Visualization with Python](../Images/054c0ddbb39e3092dc337266cb640e43.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uab-yOX9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sinxloud.com/wp-content/uploads/2018/08/Data-Visualization-with-Python-Coursera-1024x309.png.webp)
+[![Data Visualization with Python](img/054c0ddbb39e3092dc337266cb640e43.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uab-yOX9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sinxloud.com/wp-content/uploads/2018/08/Data-Visualization-with-Python-Coursera-1024x309.png.webp)
 
 #### 你会学到什么？
 
@@ -95,7 +95,7 @@
 
 本课程涵盖的主题包括定制图形、绘制二维阵列(例如伪彩色图、等高线图、图像等)。)、统计图形(例如，可视化分布和回归)，以及处理时间序列和图像数据。
 
-[![Introduction to Data Visualization with Python](../Images/ed17d9f09ee7c5b771be94dd526ccce3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Uqk_MMY7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sinxloud.com/wp-content/uploads/2018/08/Introduction-to-Data-Visualization-with-Python--1024x356.png.webp)
+[![Introduction to Data Visualization with Python](img/ed17d9f09ee7c5b771be94dd526ccce3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Uqk_MMY7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sinxloud.com/wp-content/uploads/2018/08/Introduction-to-Data-Visualization-with-Python--1024x356.png.webp)
 
 #### 你会学到什么？
 
@@ -114,7 +114,7 @@
 
 本课程涵盖的主题包括数据可视化的基础知识，无论是架构、平台、工具还是语言，每个开发人员都需要了解这些知识。
 
-[![Data Visualization for Developers](../Images/c7961879b4688dde3eee4417e622fd58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dM4Qx0xl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sinxloud.com/wp-content/uploads/2018/08/Data-Visualization-for-Developers-Pluralsight-1024x391.png.webp)
+[![Data Visualization for Developers](img/c7961879b4688dde3eee4417e622fd58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dM4Qx0xl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sinxloud.com/wp-content/uploads/2018/08/Data-Visualization-for-Developers-Pluralsight-1024x391.png.webp)
 
 #### 你会学到什么？
 
@@ -132,7 +132,7 @@
 
 交互式数据可视化课程是掌握 Bokeh 的完整指南，Bokeh 是用于构建高级和现代数据可视化 web 应用程序的 Python 库。由 Anaconda 的软件工程师和 Bokeh 的开发者布莱恩·范·德 Van 创建。在本课程中，您将学习如何利用 Python(和其他语言)的散景可视化库，该库面向现代 web 浏览器进行演示，并通过简单的命令快速构建复杂的统计图。
 
-[![Interactive Data Visualization with Bokeh](../Images/983c4ea42c80353932f68bef3ae2b92e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FH3YgKXO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sinxloud.com/wp-content/uploads/2018/09/Interactive-Data-Visualization-with-Bokeh-1024x421.png.webp)
+[![Interactive Data Visualization with Bokeh](img/983c4ea42c80353932f68bef3ae2b92e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FH3YgKXO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sinxloud.com/wp-content/uploads/2018/09/Interactive-Data-Visualization-with-Bokeh-1024x421.png.webp)
 
 #### 你会学到什么？
 
@@ -154,7 +154,7 @@ Pluralsight 徽标
 
 本课程主要集中在一旦发现一个洞见，如何可视化地编码和呈现数据给观众。
 
-[![D3.js Data Visualization Fundamentals](../Images/3385a1081a50afa59da6c01f43168fc8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5LP89E_1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sinxloud.com/wp-content/uploads/2018/08/D3.js-Data-Visualization-Fundamentals-Pluralsight-1024x354.png.webp)
+[![D3.js Data Visualization Fundamentals](img/3385a1081a50afa59da6c01f43168fc8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5LP89E_1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://sinxloud.com/wp-content/uploads/2018/08/D3.js-Data-Visualization-Fundamentals-Pluralsight-1024x354.png.webp)
 
 #### 你会学到什么？
 

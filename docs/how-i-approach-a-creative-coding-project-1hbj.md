@@ -6,7 +6,7 @@
 
 在编写任何代码之前，我发现在一张绘图纸上勾画出我想要做的事情很有帮助。把草图放在我面前，可以让我更容易决定写什么样的代码。我使用正方形、长方形、圆形和椭圆形绘制草图，根据需要调整角度，这是我将编码的形状(我可以使用其他形状，但我喜欢保持简单，我还没有发现这四种不够)。我通过各种方式组合形状来创造更复杂的形状。我通常用铅笔画出形状，然后用彩色笔突出显示每一层，每种颜色对应一个 z 索引和背景色。哦，我经常划掉一些东西，然后重新开始，因为它不会以我想要的方式结束，正如你从下面的图片中看到的:
 
-[![Sketch of sun, clouds and lightning plus some crossed out.](../Images/7d471df566b6cdb3e3b9a07c5ebebc3a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0GzzaUhl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c8fu30j9mhpmew284f6a.JPG)
+[![Sketch of sun, clouds and lightning plus some crossed out.](img/7d471df566b6cdb3e3b9a07c5ebebc3a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0GzzaUhl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c8fu30j9mhpmew284f6a.JPG)
 
 现在我有了满意的云、太阳、雨和闪电的草图，我准备写一些代码了。从草图中我可以看到我需要写的大部分内容。图纸上的每个方块等于屏幕上的一组像素，这次我选择了 10 个像素，但我会根据项目的不同而有所不同。颜色编码突出显示告诉我每个元素应该有什么 z 索引。我使用 CSS 边界半径创建弯曲的元素，使用 CSS 变换创建有角度的元素。一旦编码后看起来不合适，我不怕偏离草图，这次我在编码时改编了闪电草图。
 

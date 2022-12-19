@@ -9,7 +9,7 @@
 我可爱的伙伴继续使用 CSS 来改善她的网站的外观和感觉，我们将讨论如何在网站中设计导航样式和一些布局技巧来使容器居中
 
 下面是进度预览
-[![Couple code therapy Website example](../Images/469eedeafe894fdfaaf594972935b624.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4yC8-0Q0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/Dmwmtj0XcAAd-tt.jpg:large)
+[![Couple code therapy Website example](img/469eedeafe894fdfaaf594972935b624.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4yC8-0Q0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/Dmwmtj0XcAAd-tt.jpg:large)
 
 我们将涵盖:
 

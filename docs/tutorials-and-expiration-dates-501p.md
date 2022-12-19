@@ -4,7 +4,7 @@
 
 在过去的半年左右的时间里，我很幸运地在 ASP.NET 的一个项目上工作，安全地满足了客户的明确要求，并得到了一位资深程序员的指导。以这种方式学习是很棒的，知道任何可怕的问题都可以通过与我的导师/老板交谈或直接与客户交谈来澄清，我感到很安慰。这就像在一场持续的暴风雨中呆在一个隔热的加热露台上，啤酒和零食都准备好了。
 
-[![](../Images/3e5b301d5c8a5c2199fae00417bbb699.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8PonMC4i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nbpb0u50n69ijzee8ek6.jpg)
+[![](img/3e5b301d5c8a5c2199fae00417bbb699.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8PonMC4i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nbpb0u50n69ijzee8ek6.jpg)
 
 在互联网上学习更像是被扔进一个巨大的市场，有时人们试图向你推销他们的教程或说明，这些教程或说明可能是四年前写的，带有红色的安全缺陷。其他人可能有吸引人的标题和录制的演示，但一个小时后，您会发现他们的代码缺少关键部分，或者其他依赖项已经更新，导致了重大更改。我把这种问题称为有效期问题，这是我在野外学习 Angular 7 时的经验。
 

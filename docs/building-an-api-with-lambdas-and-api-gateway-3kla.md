@@ -24,7 +24,7 @@ API 是一个 url，您可以在其上执行 *GET、PUT、POST* 和 *DELETE* 请
 
 #### 控制谁有权限
 
-[![](../Images/3f543ba4e4ac343ea0657177905e6828.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yT37n_6q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AmXW73ujWRmuYUACsNpzKqw.jpeg)
+[![](img/3f543ba4e4ac343ea0657177905e6828.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yT37n_6q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AmXW73ujWRmuYUACsNpzKqw.jpeg)
 
 提供 API 还允许您限制谁能够访问数据库或运行代码。您可以通过要求一个 API 密钥来做到这一点。该键用于识别发出请求的用户，然后允许或拒绝该请求。
 
@@ -40,19 +40,19 @@ API 是一个 url，您可以在其上执行 *GET、PUT、POST* 和 *DELETE* 请
 
 当创建我们的第一个 API 时，我们应该选择**新 API** ，然后我们可以给这个 API 一个名称和描述，并单击**创建 API** 。
 
-[![](../Images/e2d5d3813b884060d46170d5c17c560a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EO6OOYLH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ACjKTmP5zCWhqr_XIznAuZw.png)
+[![](img/e2d5d3813b884060d46170d5c17c560a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EO6OOYLH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ACjKTmP5zCWhqr_XIznAuZw.png)
 
 点击*创建 API* 将进入您的 API 的配置页面。我们需要做的第一件事是在 API 上添加一个资源。使用资源允许我们使用嵌套斜杠将相似的 API 调用组合在一起。我们将创建一个 API，用于推荐观看的内容。因此，我们可以有/ *电视剧*和*/电影*作为两种基本方法。
 
 点击*动作*下拉菜单，选择*创建资源。*命名您的资源，确保它们都在“/”路径中。
 
-[![](../Images/12d879fb6f55f04fa3904c28bdaaa574.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QIyRmTEY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2Agj847pJH6XRgL4K-Iy2c9Q.png)
+[![](img/12d879fb6f55f04fa3904c28bdaaa574.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QIyRmTEY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2Agj847pJH6XRgL4K-Iy2c9Q.png)
 
-[![](../Images/7f65376081b59a5312cf04162210365b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ushqegwR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A3u-krWS1HQx25aDYtyS6iA.png)
+[![](img/7f65376081b59a5312cf04162210365b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ushqegwR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A3u-krWS1HQx25aDYtyS6iA.png)
 
 我们希望用户能够去*/电影/恐怖*或*/电视节目/喜剧*，我们可以通过添加路径参数来做到这一点。这些是我们可以在 API 内部访问的变量。要创建一个论文，我们需要将资源设置为*{资源名}* ，如下所示。对于*电视节目*和*电影可以这样做。*
 
-[![](../Images/1c0184be717499ec852a2681ea728eb5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b92nCtFn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AHVNkD3aWgl5FPHw8E1U-9Q.png)
+[![](img/1c0184be717499ec852a2681ea728eb5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b92nCtFn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AHVNkD3aWgl5FPHw8E1U-9Q.png)
 
 既然我们可以确定长度和类型，我们就可以创建获取数据和向表中添加数据的方法。选择一个 *{genre}* 资源，点击*动作*，然后点击*创建方法。*这将在资源下方创建一个灰色小框，我们可以单击它。我们将从一个 *GET* 请求开始，选择该请求并单击勾选按钮。
 
@@ -128,13 +128,13 @@ const done = response => {
 
 回到 API Gateway，我们可以将新的 Lambdas 添加到我们之前创建的方法中。我们需要确保选择了*使用 Lambda 代理集成*，并且我们指向了正确的 Lambda。点击*保存*将询问您访问这个λ的权限，我们可以给*确定。*
 
-[![](../Images/3c9dfca7eff39cb2c5248540901bb780.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ljpy2w4I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ap_tMRh17u0KxXOMyA6OFvQ.png)
+[![](img/3c9dfca7eff39cb2c5248540901bb780.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ljpy2w4I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ap_tMRh17u0KxXOMyA6OFvQ.png)
 
 对两个资源上的 *GET* 方法都这样做，我们就可以开始测试了。选择方法应该会显示一个方法执行图。这听起来很复杂，但是我们唯一需要的是 _TEST _section。
 
 单击 TEST 将打开一个新的部分，我们可以在其中测试 API。你可以在这里设置很多东西，但是我们唯一关心的是*路径{genre}。*我们需要将它设置为我们请求的类型。输入*西部*作为流派并点击*测试*按钮得到如下响应:
 
-[![](../Images/0197ba665c37d0990d6b84e7c0e5cadf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R-ZvGKlo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AbHaxGw8vv1XmQUK2TJBkAQ.png)
+[![](img/0197ba665c37d0990d6b84e7c0e5cadf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R-ZvGKlo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AbHaxGw8vv1XmQUK2TJBkAQ.png)
 
 我们的 API 开始工作了！现在我们需要确保其他人可以访问它。这有两个步骤。
 

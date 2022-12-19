@@ -106,17 +106,17 @@ Enter fullscreen mode Exit fullscreen mode
 
 我在 freenom.com 上注册了一个名为 k8sclustersetup.tk 的新域，我将把它用于我的 Kubernetes 集群。
 
-[![alt text](../Images/29c16300710bedaf0e59aa3091ad1485.png "Domain registration")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3IdLnKgh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ec6chd6us2ozi4963xrb.png)
+[![alt text](img/29c16300710bedaf0e59aa3091ad1485.png "Domain registration")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3IdLnKgh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ec6chd6us2ozi4963xrb.png)
 
 #### 创建托管区域
 
 在 AWS 控制台上，我在路由器 53 上创建了一个新的托管区域。我已登录 AWS 控制台，导航到路由器 53 DNS 管理并创建了新的托管区域。建议创建一个子域。这将创建一组名称服务器，可以复制供以后使用。我已经复制了域名服务器的详细信息，从 ns-xxx.awsdns-xx.com、ns-xxx.awsdns-xx.co.uk、ns-xxx.awsdns-xx.org、ns-xxx.awsdns-xx.net 开始。
 
-[![alt text](../Images/8a3350e30af672f51f70f07321973038.png "AWS Route 53 Hosted Zone")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--INZLU-Db--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u25buxcbudxxqzd83x8l.png)
+[![alt text](img/8a3350e30af672f51f70f07321973038.png "AWS Route 53 Hosted Zone")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--INZLU-Db--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u25buxcbudxxqzd83x8l.png)
 
 这些名称服务器(NS)值应该在域服务提供商上更新。在这个设置中，我已经更新了 freenom.com 的 NS 细节。
 
-[![alt text](../Images/f6cd9998c1efda8f79167c5b6d1b49b5.png "Update the Name Server details for the domain")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iFBCFxt8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5dppiy652bd4a5w7sqtq.png)
+[![alt text](img/f6cd9998c1efda8f79167c5b6d1b49b5.png "Update the Name Server details for the domain")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iFBCFxt8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5dppiy652bd4a5w7sqtq.png)
 
 #### S3 斗创作
 

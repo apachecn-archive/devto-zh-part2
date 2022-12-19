@@ -8,7 +8,7 @@
 
 作为一个读者，我可能想浏览我的主页并点击一个预览按钮，这将显示文章的前 15 行。
 
-[![](../Images/d6e46413c4cd117f7b5fd0f23af68320.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--miUI3XgA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2ffutrenqvap3.cloudfront.net/items/3Q1H1y2z2k2L3S1r311N/Image%25202018-03-28%2520at%25209.55.26%2520AM.png%3Fv%3Dd1b74253)
+[![](img/d6e46413c4cd117f7b5fd0f23af68320.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--miUI3XgA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2ffutrenqvap3.cloudfront.net/items/3Q1H1y2z2k2L3S1r311N/Image%25202018-03-28%2520at%25209.55.26%2520AM.png%3Fv%3Dd1b74253)
 
 在那里，他们可以选择进一步阅读，点击`SAVE`按钮将其添加到阅读列表中，或者继续前进。
 

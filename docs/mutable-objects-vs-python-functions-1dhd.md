@@ -4,7 +4,7 @@
 
 我们知道 python 中的每一个事物都是一个对象，可以分为可变和不可变，其中可变对象是构造后状态可以改变的对象，而不可变对象是构造后状态不能改变的对象。
 
-[![](../Images/3625575656c2814f13bd48ba16fbc757.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--x9g8pMyx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AUB6ooKAQT8cJH5BapJFsHw.png) 
+[![](img/3625575656c2814f13bd48ba16fbc757.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--x9g8pMyx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AUB6ooKAQT8cJH5BapJFsHw.png) 
 
 <figcaption>代码片段由[https://carbon . now . sh](https://carbon.now.sh)</figcaption>
 
@@ -12,7 +12,7 @@ python 中的 Dictionary 和 List 都是可变的，因此在作为参数传递�
 
 下面是一个代码片段，用来理解当你将一个可变对象传递给一个函数时会发生什么。
 
-[![](../Images/0a9d7c896a66c9a33417ab173704953e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SIqOAWLc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AroM1ggVVs_LJvPXT3wFljg.png) 
+[![](img/0a9d7c896a66c9a33417ab173704953e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SIqOAWLc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AroM1ggVVs_LJvPXT3wFljg.png) 
 
 <figcaption>代码片段由[https://carbon . now . sh](https://carbon.now.sh)</figcaption>
 
@@ -28,7 +28,7 @@ python 中的 Dictionary 和 List 都是可变的，因此在作为参数传递�
 
 同样，当 leader_board 对象在函数之外打印时，我们得到相同的结果。为了确认这一点，让我们通过更新代码来运行一个对象测试，从函数中返回 leader_board，并使用 **"is"** 操作符来进行对象测试。
 
-[![](../Images/252fca2831b2a7a35cfe958bb2f33b30.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fCnDS-sX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A5FLRpuwucOasdHDy3Z9ICg.png) 
+[![](img/252fca2831b2a7a35cfe958bb2f33b30.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fCnDS-sX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A5FLRpuwucOasdHDy3Z9ICg.png) 
 
 <figcaption>代码片段由[https://carbon . now . sh](https://carbon.now.sh)</figcaption>
 

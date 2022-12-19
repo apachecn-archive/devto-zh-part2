@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kadnan/getting-started-with-apache-airflow-3noa>
 
-[![Apache Airflow](../Images/8506236c9b020a702ea6e3620c40bdcb.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_logo.png)
+[![Apache Airflow](img/8506236c9b020a702ea6e3620c40bdcb.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_logo.png)
 
 *本帖是[数据工程系列](http://blog.adnansiddiqi.me/tag/data-engineering/)的一部分。*
 
@@ -39,7 +39,7 @@
 
 让我试着用简单的话来解释:你只能是你父亲的儿子，而不是相反。好吧，这是蹩脚或怪异的，但找不到一个更好的例子来解释一个*定向周期*。
 
-[![](../Images/293f7e347835feb133934cec4f517c1a.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_0.png)
+[![](img/293f7e347835feb133934cec4f517c1a.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_0.png)
 
 在 Airflow 中，所有工作流都是 Dag。Dag 由*操作符组成。*操作员定义需要执行的单个任务。有不同类型的操作器可用(如 Airflow 网站上给出的):
 
@@ -98,17 +98,17 @@
 
 现在，当您访问`0.0.0.0:8080`时，它会显示如下屏幕:
 
-[![](../Images/c236b36c5139ee6c21532e6fee5c234d.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_1.png)
+[![](img/c236b36c5139ee6c21532e6fee5c234d.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_1.png)
 
 你可以在这里看到一堆条目。这些是气流装置附带的示例。您可以通过访问`airflow.cfg`文件并将`load_examples`设置为`FALSE`来关闭它们
 
 **DAG 运行**告知某个 DAG 已经执行了多少次。**最近的任务**告知 DAG 中当前正在运行的许多任务中的哪个任务，以及它的状态如何。**调度**类似于您在调度 Cron 时使用的调度，因此，我现在不强调它。**调度**负责该特定 DAG 应该被触发的时间。
 
-[![Airflow Graph View](../Images/cde710bc9a676cf8e0443001d3e57749.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_0_graph_view.png)
+[![Airflow Graph View](img/cde710bc9a676cf8e0443001d3e57749.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_0_graph_view.png)
 
 这是我之前创建并执行的 DAG 的截图。您可以看到代表任务的矩形框。在灰色方框的右上方还可以看到不同颜色的方框，分别命名为:**成功**、**运行**、**失败**等。这些都是传说。在上图中，您可以选择所有的框都有绿色边框，但是，如果您不确定，请将鼠标悬停在 success legend 上，您将看到如下屏幕:
 
-[![](../Images/576b8c91bc7dad921af70915bc07c558.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_0_graph_hover.png)
+[![](img/576b8c91bc7dad921af70915bc07c558.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_0_graph_hover.png)
 
 你可能已经注意到这些盒子的背景/填充颜色是绿色和芦苇色。在灰色框的左上角，您可以看到它们为什么会有这样的颜色，这些背景色代表了此 DAG 中使用的不同类型的运算符。在本例中，我们使用了 *BashOperator* 和 *PythonOperator。*
 
@@ -132,7 +132,7 @@ default\_args = { 'owner': 'airflow', 'start\_date': dt.datetime(2018, 9, 24, 10
 
 `start_date`告知自何时起该 DAG 应开始执行工作流。这个`start_date`可能属于过去。对我来说，现在是世界协调时 9 月 22 日上午 11 点。这个日期对我来说已经过去了，因为对我来说已经是世界标准时间上午 11 点 15 分了。您可以随时通过`airflow.cfg`文件更改该参数，并设置您自己的本地时区。目前，UTC 对我来说很好。如果你仍然想知道气流使用了多少时间，检查一下气流网页界面的右上方，你应该会看到如下所示的内容。您可以将此作为参考来安排您的任务。
 
-[![](../Images/53b9871f7f328be3e4e0743fd316bde4.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_2.png)
+[![](img/53b9871f7f328be3e4e0743fd316bde4.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_2.png)
 
 在没有成功执行的情况下，`retries`参数重试运行 DAG **X** 的次数。`concurrency`参数有助于指定运行多个 Dag 所需的进程数量。例如，您的 DAG 必须运行 4 个过去的实例，也称为[回填](https://airflow.apache.org/scheduler.html#backfill-and-catchup)，间隔 10 分钟(*我将很快介绍这个复杂的主题*)，并且您已经将`concurrency`设置为`2`，那么 **2 个 DAG**将同时运行并执行其中的任务。如果你已经在你的 Python 中实现了`multiprocessing`,那么在这里你应该会有家的感觉。
 
@@ -154,13 +154,13 @@ with DAG('my\_simple\_dag', default\_args=default\_args, schedule\_interval='\*/
 
 一个 *DagRun* 是一次将运行的 DAG 的实例。当它运行时，它里面的所有任务都将被执行。
 
-[![](../Images/31469e03db27fff729052e6a446be345.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_3.png)
+[![](img/31469e03db27fff729052e6a446be345.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_3.png)
 
-上图可能有助于理解一个*达格龙* [![🙂](../Images/1bb31e891282bfa40812655c9c9ace9e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DvXCaIjD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.org/images/core/emoji/11/72x72/1f642.png)
+上图可能有助于理解一个*达格龙* [![🙂](img/1bb31e891282bfa40812655c9c9ace9e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DvXCaIjD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.oimg/core/emoji/11/72x72/1f642.png)
 
 假设`start_date`是世界协调时 2018 年 9 月 24 日 12:00:00PM 的**，并且您已经使用 ***/10 * * * *的`schedule_interval`在世界协调时**12:30:00PM**开始 DAG(每 10 分钟后)。**通过使用上面讨论的相同的`default_args`参数，下面将是将立即运行的 DAG 的条目，在我们的例子中，由于`concurrency`是`1`，所以将一个接一个地运行:**
 
-[![](../Images/d45fc69a447c638bed16eb3d9dc7c0aa.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_4.png)
+[![](img/d45fc69a447c638bed16eb3d9dc7c0aa.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_4.png)
 
 为什么会这样？嗯，你要对此负责。气流给你的设备运行过去的狗。跑过 Dag 的过程叫做[回填](https://airflow.readthedocs.io/en/latest/scheduler.html#backfill-and-catchup)。回填的过程实际上让气流为所有 Dag 设置了某种状态。该功能适用于运行 DAG 的场景，DAG 查询一些数据库或 API，如 Google Analytics，以获取以前的数据，并使其成为工作流的一部分。即使没有过去的数据，Airflow 也会运行它，以保持整个工作流的状态不变。
 
@@ -168,25 +168,25 @@ with DAG('my\_simple\_dag', default\_args=default\_args, schedule\_interval='\*/
 
 让我们一起玩吧。我打开`my_simple_dag`，然后启动调度程序。
 
-[![](../Images/b9930e40c25d0ce354cef7b702952c2d.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_5.png)
+[![](img/b9930e40c25d0ce354cef7b702952c2d.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_5.png)
 
 `airflow scheduler`
 
 运行后，您将看到如下所示的 dag 屏幕:
 
-[![](../Images/b7fd7416c646d1bb99754bfc554936f7.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_6.png)
+[![](img/b7fd7416c646d1bb99754bfc554936f7.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_6.png)
 
 一些任务正在排队。如果您单击 DAG Id，`my_simple_dag`，您将看到如下屏幕:
 
-[![](../Images/52162dc6bfca754d1e9e5e4668a6baa2.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_7.png)
+[![](img/52162dc6bfca754d1e9e5e4668a6baa2.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_7.png)
 
 注意**运行 Id** 列中的时间戳。你看到模式了吗？第一次是在 10 点，然后是 10 点 10 分，10 点 20 分。然后它会停止，让我再次澄清，DAG 会在 10 分钟的持续时间过后运行。*调度*在上午 10:30 开始。于是就用间隔的 **10 分钟**之差填过了 **3** 。
 
-[![](../Images/da2c93f25d870bdd367886507dccadbe.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_8.png)
+[![](img/da2c93f25d870bdd367886507dccadbe.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_8.png)
 
 在世界协调时上午**10:30:00**执行的 DAG 实际上是在世界协调时上午 10:40:00**完成的，最新的 DAGRun 记录将总是比当前时间减一。在我们的例子中，机器时间是世界协调时**上午 10:40:00****
 
-[![](../Images/a5f88816ae6c7a57a9ec0d1d08c27239.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_9.png)
+[![](img/a5f88816ae6c7a57a9ec0d1d08c27239.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_9.png)
 
 如果您将鼠标悬停在其中一个圆圈上，您可以看到在 **Run:** 前面的时间戳，它告诉您它被执行的时间。你可以看到这些绿色的圆圈有 10 分钟的时间差。*树视图*给出的有点复杂，但给出了整个工作流程的完整画面。在我们的例子中，它运行了 4 次，所有任务都运行成功，深绿色。
 
@@ -204,7 +204,7 @@ opr\_hello \>\> opr\_greet \>\> opr\_sleep \>\> opr\_respond
 
 你在上面看到的这条线说明了操作者之间的关系，因此构成了整个工作流程。这里的按位运算符讲的是运算符之间的关系。这里`opr_hello`先跑，然后剩下的。流程从左到右执行。在图示形式中，它看起来如下:
 
-[![](../Images/c162706c9a4540216e6585624bd457c0.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_10.png)
+[![](img/c162706c9a4540216e6585624bd457c0.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_10.png)
 
 ```
 opr\_hello \>\> opr\_greet \>\> opr\_sleep \<\< opr\_respond 
@@ -212,7 +212,7 @@ opr\_hello \>\> opr\_greet \>\> opr\_sleep \<\< opr\_respond
 
 如果您更改最后一个运算符的方向，流程将如下所示:
 
-[![](../Images/7ca519ba92e07941984fa007af59466e.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_11.png)
+[![](img/7ca519ba92e07941984fa007af59466e.png)T2】](http://blog.adnansiddiqi.me/wp-content/uploads/2018/09/airflow_11.png)
 
 任务`respond`将并行执行，而`sleep`将在两种情况下执行。
 

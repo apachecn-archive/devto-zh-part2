@@ -18,7 +18,7 @@
 *   一个 [预定义数据库](http://www.wpbeginner.com/glossary/database/) (Wordpress 使用 MySQL) + Wordpress 内容模式。请注意，更改此模式意味着手动修改数据库。
 *   Wordpress PHP 应用程序代码增强了你网站的功能，并将数据库连接到主题。换句话说，它从数据库中提取内容(比如一篇博客文章)并将其放入通用主题布局中。
 
-[![traditional CMS](../Images/e89d237692ea5ea47314487ae3bd6678.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KTFc6vVq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/p6mNvjFRgqKaejhHApAw)T4】
+[![traditional CMS](img/e89d237692ea5ea47314487ae3bd6678.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KTFc6vVq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/p6mNvjFRgqKaejhHApAw)T4】
 
 当你正在使用 Wordpress，一个访问者浏览了你的博客文章，下图显示了会发生什么:
 
@@ -28,15 +28,15 @@
 
 为了管理内容(例如将博客文章保存到数据库中)，传统的 CMS 提供了一个仪表板，指导用户如何添加内容或更改网站外观。这里有一个 WordPress 仪表盘的例子:
 
-[![WordPress dashboard](../Images/ecc55c7cdca9691a28f346143526f2a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vkf9lyLM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/Un304bP3T3KeHMpcPhBx)
+[![WordPress dashboard](img/ecc55c7cdca9691a28f346143526f2a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vkf9lyLM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/Un304bP3T3KeHMpcPhBx)
 
 点击左边的选项，你可以在网站上添加博客文章或页面。
 
-[![WordPress Post](../Images/51b050e2d30c26d300bf6f9aaa3fb02f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rqbY2R68--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/mwM7kQE3SPOY49iANU7w)
+[![WordPress Post](img/51b050e2d30c26d300bf6f9aaa3fb02f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rqbY2R68--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/mwM7kQE3SPOY49iANU7w)
 
 当你在 Wordpress 仪表盘中保存你的博客文章时，它会被保存在数据库中以供以后查看:
 
-[![](../Images/c97430e2b870b52a83dadd8d670c429c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rWep2PIr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/BOm3MmTz200QGrpquEuQ)T4】
+[![](img/c97430e2b870b52a83dadd8d670c429c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rWep2PIr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/BOm3MmTz200QGrpquEuQ)T4】
 
 如前所述，传统的 CMS 已经存在很长时间了。WordPress 是最受欢迎的传统 CMS 选项之一，自 2003 年以来就一直存在。随着企业和消费者使用互联网的方式发生了变化，对速度、多功能性和灵活性的不断变化的需求导致了无头 CMS 的产生。
 
@@ -50,7 +50,7 @@
 
 无头 CMS 专注于前两者，打破了后端和前端之间的紧密联系。无头 CMS 存储内容，为您提供内容编辑仪表板，然后为您的开发人员提供一个 API，将内容拉入您自己的应用程序的前端。
 
-[![](../Images/e6a3205f81e9ca642cbb4c874ed7329d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Kkr873yz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/lJQ2DSTRz6OHBdc6bjAp)T4】
+[![](img/e6a3205f81e9ca642cbb4c874ed7329d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Kkr873yz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/lJQ2DSTRz6OHBdc6bjAp)T4】
 
 在 headless CMS 中创建内容时，您创建的是原始内容(文本值、图像等)，而不是内容的布局或设计。然后，无头 CMS 利用 API 将原始内容传送到任何地方:网站、移动应用程序、可穿戴设备——基本上是任何连接到互联网的东西。
 
@@ -66,7 +66,7 @@ ButterCMS 就是上面讨论的这种基于 API 的无头 CMS。Butter 是 SaaS(
 
 你可以为新项目使用 ButterCMS，也可以将其添加到现有的代码库中。ButterCMS 提供了和 Wordpress 一样的用户友好的仪表盘来管理你的内容:
 
-[![Butter dashboard](../Images/77cf8c2467e153b0c7e255d7277bcbb3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yYk-AMKF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/IwhPUTo4R8ClsAXHZECl)T4】
+[![Butter dashboard](img/77cf8c2467e153b0c7e255d7277bcbb3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yYk-AMKF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/IwhPUTo4R8ClsAXHZECl)T4】
 
 使用这个仪表板，您可以在网站上为页面创建新内容，并在将内容实时发布到您的网站之前预览内容。
 

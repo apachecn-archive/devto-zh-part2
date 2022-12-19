@@ -8,7 +8,7 @@
 
 不要每次都手动输入分支名称，而是用连字符`-`代替名称。
 
-[![Gif demonstrating how to use the `git checkout -` shortcut](../Images/550db54ad3f66e88c95ac63b7d3b7eda.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YRqx6GgX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rk5y0ckpj6u9zkcckval.gif)
+[![Gif demonstrating how to use the `git checkout -` shortcut](img/550db54ad3f66e88c95ac63b7d3b7eda.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YRqx6GgX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rk5y0ckpj6u9zkcckval.gif)
 
 *注意*:在 gif 中，我在 Mac 上使用 iTerm2 中的 Bash shell。
 

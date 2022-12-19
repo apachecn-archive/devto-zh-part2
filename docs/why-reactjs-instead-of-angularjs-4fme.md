@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/sharadtricks/why-reactjs-instead-of-angularjs-4fme>
 
-[![React is taking over AngularJS](../Images/6193e9b7e4ffebe1d6a342f05a067a1e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sL0mRS2I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jjrdr0ouqk5wllraoc33.png) 
+[![React is taking over AngularJS](img/6193e9b7e4ffebe1d6a342f05a067a1e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sL0mRS2I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jjrdr0ouqk5wllraoc33.png) 
 [ReactJS](https://www.onlineinterviewquestions.com/react-js-interview-questions/) 是一个 JavaScript 库，有一个视图，但是缺少模型&控制器组件。React 引入了虚拟 DOM 的概念，这被认为是与 AngularJS 相比 React 最大的优势之一。它依赖于团队的约定来保持以特定风格编写的代码，但是它的简单性可能非常强大和富有表现力。
 [AngularJS](https://www.onlineinterviewquestions.com/angular-js-interview-questions/) 是最流行的 javascript 框架；它的语法很重。
 

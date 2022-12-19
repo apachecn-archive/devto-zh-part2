@@ -2,9 +2,9 @@
 
 > 原文：<https://dev.to/joelnet/rethinking-javascript-the-complete-elimination-and-eradication-of-javascripts-this-3m3j>
 
-[![R.I.P. this 1995-2018](../Images/cf30c2eba90c5713dd5e3163ffbf032b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fm5ZgiO4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/joelnet/nothis/master/assets/headstone-509x600.png)
+[![R.I.P. this 1995-2018](img/cf30c2eba90c5713dd5e3163ffbf032b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fm5ZgiO4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/joelnet/nothis/master/assets/headstone-509x600.png)
 
-[![nothis demo](../Images/e7fdbed36df09d3bac0e2af4a257f651.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZDnj5rkN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/joelnet/nothis/raw/master/assets/nothis.gif)
+[![nothis demo](img/e7fdbed36df09d3bac0e2af4a257f651.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZDnj5rkN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/joelnet/nothis/raw/master/assets/nothis.gif)
 
 如果`this`这么难推理，为什么我们不停止使用它呢？说真的。**为什么。不要。我们。只是。停下来。使用。它。**？
 

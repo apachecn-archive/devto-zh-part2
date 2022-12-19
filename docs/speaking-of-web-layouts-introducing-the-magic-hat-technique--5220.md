@@ -11,7 +11,7 @@
 很久以前(几周前)，我被要求开发一个新产品。*“用 UI & FE 开始 solo，这是绿地，随意实验。”*
 我想我的回答，比如“好吧”，有点言过其实。
 
-[![](../Images/f37ed465143925d321bde1f757bd5e33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yFPPNgfE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/twasn9517wnjxltc71a8.gif)
+[![](img/f37ed465143925d321bde1f757bd5e33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yFPPNgfE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/twasn9517wnjxltc71a8.gif)
 
 可悲的是，几个漫长的星期后，我不知道如何为这个应用程序建立一个界面。
 
@@ -19,13 +19,13 @@
 
 就像下图一样，对吗？
 
-[![This is my canonical idea of a web app](../Images/ddefa71b5d9e792dd1b312c2be79a5a8.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--LL10pe12--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/5760/1%2A6DpJPOVyaAkfDsFPhAZdig.png) *这是我对一个网络应用的典型想法*
+[![This is my canonical idea of a web app](img/ddefa71b5d9e792dd1b312c2be79a5a8.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--LL10pe12--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/5760/1%2A6DpJPOVyaAkfDsFPhAZdig.png) *这是我对一个网络应用的典型想法*
 
 我对自己说:**不！不对！我已经把自己关在笼子里**了，而且我几乎还没有做原型！我说，这些信息流太复杂了，无法装进这些 *A4/Letter* 冻结的框架里。我要花很长时间来计算这里的用户流量。让我们换个角度。**让我们在这件事上全力以赴！**这次我大声说了出来(当时我有点激动)
 
 我想让复杂的东西看起来非常简单。我想**给用户一种强烈的控制感**。我想要一个*智能*应用程序，但我不确定我这样做是否正确。
 
-[![](../Images/9b2e025cd091844a6c8aa379eba90ec3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zZDGqL4R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3okj7pt8dy1hlj6rtzkc.gif)
+[![](img/9b2e025cd091844a6c8aa379eba90ec3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zZDGqL4R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3okj7pt8dy1hlj6rtzkc.gif)
 
 ## 拖延救援！
 
@@ -39,13 +39,13 @@
 
 我得到了一个**最小可用视图**的图像，一个 UI，它只做一件事，孤立地，几乎纯粹地，就像我们在代码中做的一样。用户可以集中精力，专心工作的东西。类似 React 组件的东西！桶中的智能砖块做一件事，你，*或者我说的用户*，可以把它们放在一起。
 
-[![](../Images/fbbc41fdcc10018fea99b63d630983ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xLs3wa_q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hxm286hyi5fcsg8330bg.gif)
+[![](img/fbbc41fdcc10018fea99b63d630983ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xLs3wa_q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hxm286hyi5fcsg8330bg.gif)
 
 > # and so on!
 
 实际上，两个 muv 可能比一个更好，如果它们以某种方式互补的话。不是三个，肯定不是四个，那对我的大脑来说太多了。
 
-[![Two MUV (Minimum Usable Views), totally made up acronym by the way.](../Images/4e4faabea2830bfa69553dfc3251cd52.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--HugVZu96--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f82r2edhgugrmpso2rzk.gif) *两个 MUV(最小可用视图)，完全是顺便编造的缩写。*
+[![Two MUV (Minimum Usable Views), totally made up acronym by the way.](img/4e4faabea2830bfa69553dfc3251cd52.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--HugVZu96--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f82r2edhgugrmpso2rzk.gif) *两个 MUV(最小可用视图)，完全是顺便编造的缩写。*
 
 看起来像一个[窗口向下钻取](http://designinginterfaces.com/patterns/one-window-drilldown/) UI 模式，但是有两个，咳咳，muv。😎
 
@@ -61,7 +61,7 @@
 > 单链表是数据元素的线性集合，称为节点，通过指针指向下一个节点。它是由一组节点组成的数据结构，这些节点共同代表一个序列。在最简单的形式下，每个节点由数据和对序列中下一个节点的引用(换句话说，链接)组成。
 > [维基百科](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_list)
 
-[![](../Images/a9b486472bcdd5d3aeb56fe7f2184104.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qURb2iJq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p099s2te6tbombw8auzi.gif)
+[![](img/a9b486472bcdd5d3aeb56fe7f2184104.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qURb2iJq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p099s2te6tbombw8auzi.gif)
 
 > # The thing is, at any given point in time, only two related user interfaces are displayed on the screen.
 
@@ -88,7 +88,7 @@
 
 首先，React 中的一个基本演示向*展示了机制*。
 
-[![Edit React Magic Hat example](../Images/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/r4v7onrpop)
+[![Edit React Magic Hat example](img/0b3f0135583496627e3621355d8e9248.png)T2】](https://codesandbox.io/s/r4v7onrpop)
 
 ## 🎡实际演示
 

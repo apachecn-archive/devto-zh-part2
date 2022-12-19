@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jjsantos/first-impression-about-facebooks-graph-api--59i5>
 
-[![Doggo Studying](../Images/89c43022f189eb399aaa192cd675f511.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HzGoaBBj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iuy7epdgln1vx0pov33c.jpg)
+[![Doggo Studying](img/89c43022f189eb399aaa192cd675f511.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HzGoaBBj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iuy7epdgln1vx0pov33c.jpg)
 
 这几天我一直在查看脸书的 Graph API，下面是我对它的第一印象。
 
@@ -48,7 +48,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Twitter 的 API 过去也是这样工作的，但几年前，他们增加了一个新的安全级别，实现了**“Oauth”**，这使得请求和响应更加“安全”，但这增加了学习曲线，需要更多时间来正确处理 API。脸书的 Graph API 也有安全请求，就像 Twitter 中的 Oauth 一样，但在这种情况下，它只适用于一些特殊的请求，比如当你试图获取被所有者或脸书警方视为隐私的数据时。
 
-[![Graph API Explorer](../Images/8e89bfb8dcca60c626f2874b74fc9c58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p_L-1bGS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i9hx2aeodb2utpgwkxig.PNG)
+[![Graph API Explorer](img/8e89bfb8dcca60c626f2874b74fc9c58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p_L-1bGS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i9hx2aeodb2utpgwkxig.PNG)
 
 脸书 Graph API 的另一个优势是他们拥有大量的文档和工具，我们可以在他们自己的“控制台”中发出请求，这让我们很容易理解我们可用的标准，并帮助我们在开始使用 API 之前确定我们需要什么。
 

@@ -6,7 +6,7 @@
 
 这是我在 dev.to 上的第一篇文章，希望对你有所帮助。我在 2017 年 12 月购买了一台 Raspberry Pi Zero W，除了插上电源适配器检查绿灯是否亮起之外，我再也没有碰过它。
 
-[![alt text](../Images/f1a885da589834d9c54c3418dac950e7.png "Raspberry Pi Zero W ports")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Pd_RCI1m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://raspi.tv/wp-content/uploads/2016/05/Pi-Zero-1.3-top_1500.jpg)
+[![alt text](img/f1a885da589834d9c54c3418dac950e7.png "Raspberry Pi Zero W ports")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Pd_RCI1m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://raspi.tv/wp-content/uploads/2016/05/Pi-Zero-1.3-top_1500.jpg)
 
 当我第一次收到它的时候，我很惊讶，它有两个独立的 micro USB 端口，分别用于电源和 USB 输入。我还对它带有一个迷你 HDMI 端口感到失望，因为我没有迷你到普通的 HDMI 适配器或电缆来连接显示器。我知道无头设置是可能的，但我从来没有抽时间去做。我一直想用 [Node-RED](https://nodered.org/) 来做我的一些 DIY 电子项目已经有一段时间了，我想我已经推迟设置 RPi 足够长的时间了！
 
@@ -22,11 +22,11 @@
 
 我喜欢用[蚀刻机](https://etcher.io/)将操作系统镜像写入 SD 卡/USB 驱动器。下面的 GIF 向您展示了它是多么的快速和简单:
 
-[![alt text](../Images/18770222a9c9901bcd7e9bfa58b1915a.png "Using Etcher")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fvuz3zZQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://etcher.io/static/screenshot.gif)
+[![alt text](img/18770222a9c9901bcd7e9bfa58b1915a.png "Using Etcher")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fvuz3zZQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://etcher.io/static/screenshot.gif)
 
 我用的是一个旧的 4 级 SanDisk 16 GB 微型 SD 卡，我把它和官方的 Raspberry Pi 微型 SD 适配器放在一起。将图像写入 SD 卡大约需要 10 分钟。
 
-[![alt text](../Images/7f40e988ceb1fd93beeea3385180bb0e.png "Micro SD card & adapter")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4Pc5lUqk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/ha4Nsn1.png)
+[![alt text](img/7f40e988ceb1fd93beeea3385180bb0e.png "Micro SD card & adapter")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4Pc5lUqk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/ha4Nsn1.png)
 
 #### 第三步:设置 WiFi
 
@@ -220,9 +220,9 @@ Enter fullscreen mode Exit fullscreen mode
 
 树莓派基金会是一家总部位于英国的慈善基金会。因此，默认的语言环境是英语-英国。默认时区和键盘布局也适用于英国。在显示的语言环境列表中，取消选择`en_GB.UTF-8 UTF-8`，改为选择`en_US.UTF-8 UTF-8`，并点击“确定”。确认您的选择，并等待区域设置生成完成。
 
-[![alt text](../Images/482ef1b7c3638eabb3c38376385d9cbf.png "Setting the locale")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t1aM2Ptr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://unix.cafe/wp/wp-content/uploads/2016/09/lc_locales.png)
+[![alt text](img/482ef1b7c3638eabb3c38376385d9cbf.png "Setting the locale")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t1aM2Ptr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://unix.cafe/wp/wp-content/uploads/2016/09/lc_locales.png)
 
-[![alt text](../Images/26a2a1b62783ae85c829a766f3a7b700.png "Confirming the locale")](https://res.cloudinary.com/practicaldev/image/fetch/s--SGIB6_1H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Jp795pk.png)T3】
+[![alt text](img/26a2a1b62783ae85c829a766f3a7b700.png "Confirming the locale")](https://res.cloudinary.com/practicaldev/image/fetch/s--SGIB6_1H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Jp795pk.png)T3】
 
 ```
 Generating locales (this might take a while)...
@@ -252,7 +252,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在这里，我选择了亚洲，然后是加尔各答。
 
-[![alt text](../Images/68b331560710ed6b59e11cc28442c106.png "Geographic location")](https://res.cloudinary.com/practicaldev/image/fetch/s--d64XMHSE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://abdussamad.com/files/2013/02/tzdata-reconfigure.jpeg)T3】
+[![alt text](img/68b331560710ed6b59e11cc28442c106.png "Geographic location")](https://res.cloudinary.com/practicaldev/image/fetch/s--d64XMHSE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://abdussamad.com/files/2013/02/tzdata-reconfigure.jpeg)T3】
 
 ```
 Current default time zone: 'Asia/Kolkata'

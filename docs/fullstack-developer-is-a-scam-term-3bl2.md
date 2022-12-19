@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/entrptaher/fullstack-developer-is-a-scam-term-3bl2>
 
-[![Fullstack developer is a scam term](../Images/0ad568a71cde07848b618c47e214dd17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5OsLLYbR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3geyemhqaupfk4tlt2h7.png)
+[![Fullstack developer is a scam term](img/0ad568a71cde07848b618c47e214dd17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5OsLLYbR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3geyemhqaupfk4tlt2h7.png)
 
 你一个人，被聘为后端开发人员。你专攻 PHP、Python、C#、C++等等。没有一个是和前端相关的。你在你的位置上摇摆不定。但是有一天你也被要求做前台。所以你学了一点 jQuery。以最糟糕的方式做前台，因为那不是你的领域。几年后，您已经是一名全栈开发人员了。
 
@@ -12,7 +12,7 @@
 
 回到正题。全栈开发者是一个骗局术语。如果你比较薪水和你要处理的任务，你最终会得到和现在一样甚至更少的收入。
 
-[![](../Images/68ce5e5e0ec5d6da73d5a80a6ec868b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mxSQxyVr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/XkhuZDq.png)
+[![](img/68ce5e5e0ec5d6da73d5a80a6ec868b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mxSQxyVr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/XkhuZDq.png)
 
 根据 paysa 的数据，后端开发者挣 9 万美元，前端开发者挣 8 万 8 千美元，全栈开发者挣 7 万 6 千美元。这是平均值，但是 75%的数据更加可怕。后端、前端和全栈分别为 104，000 美元、106，000 美元和 90，000 美元。
 

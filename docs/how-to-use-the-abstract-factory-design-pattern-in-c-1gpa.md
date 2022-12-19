@@ -13,7 +13,7 @@
 当您想要返回几个相关的对象类时，可以使用抽象工厂模式，每个对象类可以根据请求返回几个不同的对象。通常你可以使用抽象工厂模式，结合其他工厂模式，比如[简单工厂模式](https://garywoodfine.com/simple-factory-pattern/)和[工厂方法模式](https://garywoodfine.com/factory-method-design-pattern/)。
 
 思考抽象工厂模式的最佳方式是，它是一个超级工厂，或者是工厂中的*工厂。通常，它是一个接口，负责创建相关对象的工厂，而无需显式指定派生类。
-T3![Abstract Factory Pattern](../Images/8fd668b130c229f9bad2158d948cd60c.png)T5】*
+T3![Abstract Factory Pattern](img/8fd668b130c229f9bad2158d948cd60c.png)T5】*
 
 抽象工厂模式的关键组件是:
 

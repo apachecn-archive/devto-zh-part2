@@ -26,7 +26,7 @@ REST 端点应该在配置注释类上定义为 RouerFunction 的 Bean，而不�
 
 Spring webflux 是一种编程范式，用于使用 lambda 函数在函数式风格(声明式风格)上编写 Spring Boot 应用程序。
 
-[![Alt text of image](../Images/d8f8c4699b400c2609de7a58c3e19e80.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ifSSmU_4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ylw0d0vqaz1tld0lakz3.png)
+[![Alt text of image](img/d8f8c4699b400c2609de7a58c3e19e80.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ifSSmU_4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ylw0d0vqaz1tld0lakz3.png)
 
 让我们看看每个模型上的一些代码。我使用了 below bean 并编写了几个 GET/POST/DELETE Rest 端点。
 

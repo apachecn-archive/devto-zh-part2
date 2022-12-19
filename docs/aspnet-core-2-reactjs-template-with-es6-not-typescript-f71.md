@@ -98,7 +98,7 @@ Application started. Press Ctrl+C to shut down.
 
 打开你选择的编辑器(下面我用的是 VS 代码)。像个老板一样和 HMR 玩😎。
 
-[![HMR demo](../Images/0e387ffcac39d98941a06b9b97486afb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NFfrGPCQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/Rbo51jW.gif)
+[![HMR demo](img/0e387ffcac39d98941a06b9b97486afb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NFfrGPCQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/Rbo51jW.gif)
 
 ### 源代码
 

@@ -10,7 +10,7 @@
 
 该网站还可以让您非常轻松地指定您感兴趣的顶级域名，然后同时查找每个 TLD 的多个域名，无论有无组合。
 
-[![picture preview of domain name finder](../Images/4de5235fa9e6ed972f21153355574da3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FvSMXADn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hbr2t6gs5mnjtmuigz1y.png)
+[![picture preview of domain name finder](img/4de5235fa9e6ed972f21153355574da3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FvSMXADn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hbr2t6gs5mnjtmuigz1y.png)
 
 我对它目前的功能感到非常满意(我已经用它进行了所有的域名搜索)，但我一直在寻找新的改进方法。例如，在一些色觉缺陷的人强调区分红色和绿色的困难后，我添加了“隐藏不可用域”按钮。
 

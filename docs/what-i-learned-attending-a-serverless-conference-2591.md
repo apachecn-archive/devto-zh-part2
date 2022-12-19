@@ -100,7 +100,7 @@ AWS Lambda 无疑是目前无服务器领域的领导者。可能是因为他们
 *   避免递归
 *   并发和速率限制
 
-[![serverlessconf-tips](../Images/a4f8eba437597d11872fbe5cd95aed88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zUhtt5Wi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://katzmax.files.wordpress.com/2018/08/serverlessconf-tips.jpg%3Fw%3D1024%26h%3D768)
+[![serverlessconf-tips](img/a4f8eba437597d11872fbe5cd95aed88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zUhtt5Wi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://katzmax.files.wordpress.com/2018/08/serverlessconf-tips.jpg%3Fw%3D1024%26h%3D768)
 
 他分享的另一件事是避免函数试图做太多的事情。否则，你最终会得到一个“微型整体”功能🙀。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/banesag/javascript-logical-operators-and-boolean-values-1l07>
 
-[![alt text](../Images/5fc186c30577bb4445680f9d3f9a15d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cF7T_xLB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zisuac1tw2xxxjv1o9sv.jpg)
+[![alt text](img/5fc186c30577bb4445680f9d3f9a15d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cF7T_xLB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zisuac1tw2xxxjv1o9sv.jpg)
 
 ### 逻辑运算符！(非)、&&(和)、||(或)
 

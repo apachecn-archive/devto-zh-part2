@@ -4,7 +4,7 @@
 
 谁是你成长过程中的英雄？我的是斯蒂芬·霍金。
 
-[![Stephen Hawking](../Images/c6d73bb4c50f1cc95b55f34ef8ab89f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jpZ8MPif--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/www.funkysi1701.com/wp-content/uploads/2018/03/Hawking-ZeroG_web-1.jpg%3Fresize%3D662%252C268%26ssl%3D1)
+[![Stephen Hawking](img/c6d73bb4c50f1cc95b55f34ef8ab89f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jpZ8MPif--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/www.funkysi1701.com/wp-content/uploads/2018/03/Hawking-ZeroG_web-1.jpg%3Fresize%3D662%252C268%26ssl%3D1)
 
 **什么是英雄？**媒体上说了很多关于“英雄”的话。体育明星经常被描述成英雄。我不喜欢这个定义，我认为成为一个英雄有更多的含义。我看到的一个定义将英雄描述为*，一个因其勇气、杰出成就或高尚品质而受到钦佩的人。*
 

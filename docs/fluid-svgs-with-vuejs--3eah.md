@@ -122,4 +122,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是你将会看到的:
 
-[![Fluid SVGs](../Images/5e7320c37bba64735ecad470521c0d7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HHXN9RD0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lobotuerto.com/blog/fluid-svgs-with-vuejs/fluid-svgs.png)
+[![Fluid SVGs](img/5e7320c37bba64735ecad470521c0d7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HHXN9RD0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lobotuerto.com/blog/fluid-svgs-with-vuejs/fluid-svgs.png)

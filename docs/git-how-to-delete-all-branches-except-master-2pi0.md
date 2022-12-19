@@ -13,4 +13,4 @@
 `git branch | %{ $_.Trim() } | ?{ $_ -ne 'master' } | %{ git branch -D $_ }`
 或
 `git branch -D @(git branch | select-string -NotMatch "master" | Foreach {$_.Line.Trim()})`
-[![Alt text of image](../Images/1121c1f55dee8bb29a6e68e8abaf92fa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8epcCWTQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a4ml56n1o8gyycxt50u7.png)
+[![Alt text of image](img/1121c1f55dee8bb29a6e68e8abaf92fa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8epcCWTQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a4ml56n1o8gyycxt50u7.png)

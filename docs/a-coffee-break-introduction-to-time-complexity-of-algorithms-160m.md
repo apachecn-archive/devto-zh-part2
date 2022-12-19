@@ -16,7 +16,7 @@
 
 用图表描绘大 O 符号代表什么是最容易的:
 
-[![A graph showing different classes of time complexity](../Images/44f348296f085fd3d8aae448836905bf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sMct5uyv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8ci1gllgkvpo52kj2e7b.png) 
+[![A graph showing different classes of time complexity](img/44f348296f085fd3d8aae448836905bf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sMct5uyv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8ci1gllgkvpo52kj2e7b.png) 
 用非常优秀的 Desmos 图形计算器制作的线条。你可以[在这里](https://www.desmos.com/calculator/xpfyjl1lbn)玩这个图。
 
 在阅读本文的其余部分时，请记住以下要点:
@@ -32,7 +32,7 @@
 
 一个**多项式**，来自希腊语 *poly* ，意为“许多”，拉丁语 *nomen* 意为“名字”，描述了一个由常量变量、加法、乘法和非负整数幂的幂运算组成的表达式。这是一种超级数学的说法，它包含了通常用字母表示的变量，以及类似这样的符号:
 
-[![A polynomial example](../Images/cd0f7fd34e05791d0f38986a1f212823.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c2BIfpnj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/joegrf09h9wp2j5vpg88.png)
+[![A polynomial example](img/cd0f7fd34e05791d0f38986a1f212823.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c2BIfpnj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/joegrf09h9wp2j5vpg88.png)
 
 下面的类描述了多项式算法。有些有食物的例子。
 
@@ -40,7 +40,7 @@
 
 **常数时间**算法不会根据输入数据改变其运行时间。无论接收的数据大小如何，算法运行的时间都是一样的。我们将此表示为时间复杂度为 *O* (1)。
 
-[![A graph showing constant time complexity](../Images/37f34f258bc45ebd034cd9a05779be5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6lQ9najk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ojthnmc8moj8xy1zrnze.png)
+[![A graph showing constant time complexity](img/37f34f258bc45ebd034cd9a05779be5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6lQ9najk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ojthnmc8moj8xy1zrnze.png)
 
 这里有一个常量算法的例子，它取切片中的第一项。
 
@@ -52,7 +52,7 @@ func takeCupcake(cupcakes []int) int {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Types of cupcakes](../Images/80c3e67cf83a39f087403f8f21f6d8cf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RdkPGrOf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0wxu7o3q0q7zxr477hsh.png) 
+[![Types of cupcakes](img/80c3e67cf83a39f087403f8f21f6d8cf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RdkPGrOf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0wxu7o3q0q7zxr477hsh.png) 
 可供选择的口味有:香草纸杯蛋糕、草莓纸杯蛋糕、薄荷巧克力纸杯蛋糕、柠檬纸杯蛋糕，以及“wibbly wobbly，timey wimey”纸杯蛋糕。
 
 有了这个常数时间算法，不管有多少纸杯蛋糕供应，你只能得到第一个。哦好吧。反正味道被高估了。
@@ -61,7 +61,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 **线性**算法的运行持续时间是恒定的。它将以 *n* 次运算处理输入。对于时间复杂性来说，这通常是最好的(最有效的)情况，其中必须检查所有数据。
 
-[![A graph showing linear time complexity](../Images/957bef12bc8c9f6f83e657b31131a812.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X7gEMavg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/npeil1j13o1fhgv0mq3w.png)
+[![A graph showing linear time complexity](img/957bef12bc8c9f6f83e657b31131a812.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X7gEMavg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/npeil1j13o1fhgv0mq3w.png)
 
 下面是一个时间复杂度为 *O* ( *n* )的代码示例:
 
@@ -89,12 +89,12 @@ Enter fullscreen mode Exit fullscreen mode
 
 循环中的代码执行一次、两次还是任意次都没有关系。这两个环路都以常数因子 *n* 处理输入，因此可以描述为线性的。
 
-[![Lifeguard MIQ says no double dipping](../Images/0c601dc80e457f3be6e17223697aa2ed.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QUUtAPV7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/26dn9x89re9hljsebd60.png) 
+[![Lifeguard MIQ says no double dipping](img/0c601dc80e457f3be6e17223697aa2ed.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QUUtAPV7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/26dn9x89re9hljsebd60.png) 
 不要在同一个碗里双蘸。
 
 ### 二次
 
-[![A graph showing quadratic time complexity](../Images/bf3eeb1d663bd58c06d4e5ca6036331f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--85c5z6QZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j74pmkdz2fgdedwngl6q.png)
+[![A graph showing quadratic time complexity](img/bf3eeb1d663bd58c06d4e5ca6036331f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--85c5z6QZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j74pmkdz2fgdedwngl6q.png)
 
 下面是一个时间复杂度为 *O* ( *n* <sup>2</sup> )的代码示例:
 
@@ -115,7 +115,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 立方
 
-[![A graph showing cubic time complexity](../Images/6f5764732922ef7dbda0a71efa7d185a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o78aOXqw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vhfafxk52zw0z9os5h8m.png)
+[![A graph showing cubic time complexity](img/6f5764732922ef7dbda0a71efa7d185a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o78aOXqw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vhfafxk52zw0z9os5h8m.png)
 
 扩展前面的例子，这段有三个嵌套循环的代码的时间复杂度为*O*(*n*<sup>3</sup>):
 
@@ -135,7 +135,7 @@ func pizzaDelivery(boxesDelivered int) {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![A pizza pie in a box with a pizza slicer dependency](../Images/3fe1fdafccb3d83ee506fca8241675ce.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BNn3kF_h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f0wd1lumlfextspzu70r.png) 
+[![A pizza pie in a box with a pizza slicer dependency](img/3fe1fdafccb3d83ee506fca8241675ce.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BNn3kF_h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f0wd1lumlfextspzu70r.png) 
 说真的，谁会送不切片的披萨？？
 
 ### 对数
@@ -143,7 +143,7 @@ Enter fullscreen mode Exit fullscreen mode
 **对数**算法是一种在每一步减少输入大小的算法。
 我们将这个时间复杂度表示为 *O* (log *n* )，其中 **log** 的对数函数是这样的形状:
 
-[![A graph showing logarithmic time complexity](../Images/65a5371b75de3f400a42107dc7a1c42b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hrl2coRw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cwymt2hhcy3a1hi1s5xf.png)
+[![A graph showing logarithmic time complexity](img/65a5371b75de3f400a42107dc7a1c42b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hrl2coRw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cwymt2hhcy3a1hi1s5xf.png)
 
 一个这样的例子是[二分搜索法算法](https://en.wikipedia.org/wiki/Binary_search_algorithm),它在一个排序的数组中找到一个元素的位置。假设我们试图找到元素 *x* ，它是如何工作的:
 
@@ -159,7 +159,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 拟线性
 
-[![A graph showing quasilinear time complexity](../Images/6ceec2f74d4b47f54aed4bcca89022dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UVPjO5q_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mckf3h8wrm1o10o5piay.png)
+[![A graph showing quasilinear time complexity](img/6ceec2f74d4b47f54aed4bcca89022dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UVPjO5q_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mckf3h8wrm1o10o5piay.png)
 
 常见于排序算法，时间复杂度 *O* ( *n* log *n* )可以描述一个数据结构，其中每个操作花费 *O* (log *n* )时间。这方面的一个例子是[快速排序](https://en.wikipedia.org/wiki/Quicksort)，一种分治算法。
 
@@ -171,7 +171,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 阶乘
 
-[![A graph showing factorial time complexity](../Images/5184ad54e338e32170ae16058b6e0b52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L5LUe80---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gq9hpsq0bjyhztnrorju.png)
+[![A graph showing factorial time complexity](img/5184ad54e338e32170ae16058b6e0b52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L5LUe80---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gq9hpsq0bjyhztnrorju.png)
 
 一个时间复杂度为 *O* ( *n* 的算法！)经常遍历输入元素的所有排列。一个常见的例子是在[旅行推销员问题](https://en.wikipedia.org/wiki/Travelling_salesman_problem#Computing_a_solution)中看到的[蛮力搜索](https://en.wikipedia.org/wiki/Brute-force_search)。它试图通过枚举所有可能的排列并找到成本最低的排列来找到多个点之间成本最低的路径。
 
@@ -179,7 +179,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 一个**指数**算法通常也会遍历输入元素的所有子集。它被表示为*O*(2<sup>T5】n</sup>，经常出现在蛮力算法中。它类似于阶乘时间，除了它的增长率，你可能不会感到惊讶，这是指数增长。数据集越大，曲线变得越陡。
 
-[![A graph showing exponential time complexity](../Images/94d6b0a66201859ea2a779bf8266e851.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xFMMs0Id--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x62h88ojnz72kjduvv6m.png)
+[![A graph showing exponential time complexity](img/94d6b0a66201859ea2a779bf8266e851.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xFMMs0Id--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x62h88ojnz72kjduvv6m.png)
 
 在密码学中，强力攻击可以通过迭代子集来系统地检查密码的所有可能元素。使用指数算法来做到这一点，暴力破解长密码和短密码会变得非常耗费资源。这就是长密码被认为比短密码更安全的原因之一。
 
@@ -206,7 +206,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 pie 的初始数量可以是任意数量，我们需要处理所有的 pie，所以我们可以将输入描述为 *n* 。这样，这个递归函数的时间复杂度就是乘积 *O* ( *n* )。
 
-[![A pile of pizza boxes with pies to be eaten](../Images/cd669865d0eb0e9784d54914f9049934.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qDsRFPZD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mye96zp6bmw7ck3qaqyg.png) 
+[![A pile of pizza boxes with pies to be eaten](img/cd669865d0eb0e9784d54914f9049934.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qDsRFPZD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mye96zp6bmw7ck3qaqyg.png) 
 这个函数的返回值为零，加上一些消化不良。
 
 ## 最坏情况时间复杂度
@@ -301,7 +301,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在探索时间复杂性的过程中，你可能会遇到这些术语。非正式地说， **P** (表示多项式时间)，是一类快速解决的问题。 **NP** ，对于非确定性多项式时间，是一类可以在多项式时间内快速验证答案的问题。NP 包含 P，但也包含另一类被称为 **NP-complete** 的问题，目前还没有快速的解决方案。<sup>【5】</sup>在 NP 之外但仍然包括 NP-complete 的是另一个叫做 **NP-hard** 的类，它包括了还没有人能够用多项式算法可验证地解决的问题。<sup>【6】</sup>
 
-[![Euler diagram, CC from Wikipedia.](../Images/d025f4c99752acd5294f89ff9ddb282e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--At_KOMXQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cynokpiz3tmrc261ng4v.png) 
+[![Euler diagram, CC from Wikipedia.](img/d025f4c99752acd5294f89ff9ddb282e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--At_KOMXQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cynokpiz3tmrc261ng4v.png) 
 P vs NP 欧拉图，[Behnam Esfahbod 著，CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=3532181)
 
 P 对 NP 是计算机科学中一个未解决的公开问题。

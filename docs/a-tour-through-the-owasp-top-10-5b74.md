@@ -6,4 +6,4 @@
 
 [读下去🐝](https://auth0.com/blog/a-run-through-the-owasp-top-10/?utm_source=dev&utm_medium=sc&utm_campaign=owasp_t10)
 
-[![A tour through the OWASP Top 10](../Images/1f88b83117986bd2c66585348261c4ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OoVR1hcK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nycclfsizojf7iiv21et.png)
+[![A tour through the OWASP Top 10](img/1f88b83117986bd2c66585348261c4ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OoVR1hcK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nycclfsizojf7iiv21et.png)

@@ -6,7 +6,7 @@
 
 ## 5 -大泥球
 
-[![Ball of mud](../Images/20ed65257801869d75920128b2a96b8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gOcSeHXc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.synthesis.co.za/wp-content/uploads/bfi_thumb/AgileArchitecture1-1rl3zo5ig9008zq8zgwie6cn9vnbl7um76y52b72jvbo.jpeg)
+[![Ball of mud](img/20ed65257801869d75920128b2a96b8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gOcSeHXc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.synthesis.co.za/wp-content/uploads/bfi_thumb/AgileArchitecture1-1rl3zo5ig9008zq8zgwie6cn9vnbl7um76y52b72jvbo.jpeg)
 
 这是引用一段没有清晰架构的代码的好方法。我们中的许多人都为在人类历史初期用一种技术制造泥球而感到内疚。我记得当我开始使用 Android 时，我在活动中写了很多代码，并希望一切顺利。你有 BBM 的一些症状:
 
@@ -22,7 +22,7 @@
 
 ## 4 -由委员会设计
 
-[![alt](../Images/216054dffea08232fa60a848aea18a3a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IeGDgS30--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.sutter-group.com/wp-content/uploads/2015/03/design-by-committee-featured.jpg)
+[![alt](img/216054dffea08232fa60a848aea18a3a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IeGDgS30--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.sutter-group.com/wp-content/uploads/2015/03/design-by-committee-featured.jpg)
 
 A.又名:镀金，让每个人都开心
 镀金是完美主义者的敌人。它只是想增加越来越多的功能，即使产品已经准备好了。这也是关于不必要的过于精细或复杂。发生这种情况的一些症状:
@@ -35,7 +35,7 @@ A.又名:镀金，让每个人都开心
 
 ## 3 -货物邪教编程
 
-[![alt](../Images/cb2a18a0a5336f9a30d3929aba4ea28b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ge5_mEcN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://polemicsreport.com/wp-content/uploads/2016/09/cult.jpg)
+[![alt](img/cb2a18a0a5336f9a30d3929aba4ea28b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ge5_mEcN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://polemicsreport.com/wp-content/uploads/2016/09/cult.jpg)
 
 你加入过邪教吗？好玩吗？还是你大部分时间都不知道那里到底发生了什么？*(插入尴尬脸)*
 
@@ -46,7 +46,7 @@ A.又名:镀金，让每个人都开心
 
 ## 2 -熔岩流
 
-[![ALT](../Images/6c9c81ffe3c5d8def79945436bbba7cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eV88aDMJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media.npr.org/assets/img/2018/05/07/gettyimages-955631046_wide-0861ad06ae15b220e5d142e708423687dbfe574b-s1000-c85.jpg)
+[![ALT](img/6c9c81ffe3c5d8def79945436bbba7cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eV88aDMJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://media.npr.org/assets/img/2018/05/07/gettyimages-955631046_wide-0861ad06ae15b220e5d142e708423687dbfe574b-s1000-c85.jpg)
 
 你知道你家里的那个房间，那些乱七八糟的东西就住在那里。甚至是那堆在你房间里移动的衣服，放在你的衣柜里会更好？那些是你自己的个人熔岩流:)
 
@@ -60,7 +60,7 @@ A.又名:镀金，让每个人都开心
 
 ## 1 -复制粘贴编程
 
-[![Alt](../Images/af0b297931e198f9f6d0d234dace8fb1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LYY9gltO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://effectivesoftwaredesign.files.wordpress.com/2016/05/copying_and_pasting.jpg%3Fw%3D640)
+[![Alt](img/af0b297931e198f9f6d0d234dace8fb1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LYY9gltO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://effectivesoftwaredesign.files.wordpress.com/2016/05/copying_and_pasting.jpg%3Fw%3D640)
 
 我们都曾经这样做过(现在仍然这样)，我并不是说从其他来源复制和粘贴是错误的。代码重用是我们行业的一个主要话题和基础。我们不能每次在应用程序中添加新功能时都重新发明轮子。世界很大，很多事情已经被尝试、测试和完成，所以为什么不重用现有的东西呢？
 

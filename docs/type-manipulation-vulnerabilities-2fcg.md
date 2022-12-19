@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/petermbenjamin/type-manipulation-vulnerabilities-2fcg>
 
-[![Type Manipulation Vulnerability](../Images/4e1b554fdc0075951ad9c20386ba58f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ajIh7vjO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8veyic2a3wf7b2rbqr5j.png)
+[![Type Manipulation Vulnerability](img/4e1b554fdc0075951ad9c20386ba58f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ajIh7vjO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8veyic2a3wf7b2rbqr5j.png)
 
 最近，我读了一篇[类型操纵漏洞文章](https://snyk.io/blog/type-manipulation)，引起了我的兴趣。因此，我开始更好地理解它，并把一些知识带回社区。
 
@@ -198,7 +198,7 @@ function sanitize(input) {
 
 *   [此概念验证的源代码🐙](https://github.com/petermbenjamin/poc-type-manipulation)
 *   [Javascript 模板库中的类型操作](https://snyk.io/blog/type-manipulation)
-*   [在 PHP 中键入杂耍漏洞利用](https://www.owasp.org/images/6/6b/PHPMagicTricks-TypeJuggling.pdf)
+*   [在 PHP 中键入杂耍漏洞利用](https://www.owasp.oimg/6/6b/PHPMagicTricks-TypeJuggling.pdf)
 *   Ruby-on-Rails 中的类型操纵漏洞& YAML
 *   [基于 DOM 的跨站脚本攻击](https://www.owasp.org/index.php/DOM_Based_XSS)
 *   [反序列化漏洞](https://www.owasp.org/index.php/Deserialization_of_untrusted_data)

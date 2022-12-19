@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/headwinds/if-youve-never-looked-at-clojure-before-5158>
 
-[![women of nasa lego](../Images/ccac1afb4cbd108244ec89ccf37edafe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0b75xHDJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lac6r23g1clszaar0xfe.jpg)
+[![women of nasa lego](img/ccac1afb4cbd108244ec89ccf37edafe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0b75xHDJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lac6r23g1clszaar0xfe.jpg)
 
 如果您以前从未看过 Clojure，这篇简短的文章可能是您的第一次尝试，我希望您能体会一下。Clojure 是 Java 的替代品。它具有与 Java 互操作的特性，这意味着您可以在 Clojure 中访问核心 Java 函数。它是一种服务器端语言，因此您还需要 Javascript 或 ClojureScript 来编写基于 web 的客户端代码。
 

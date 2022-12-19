@@ -8,7 +8,7 @@
 
 ## 测试奖杯
 
-[![The Testing Trophy](../Images/a3e64ff2ee0cde792158cde1b8dd6531.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--laLpuaWQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xqzp0ej2grrku8dxex96.jpg)
+[![The Testing Trophy](img/a3e64ff2ee0cde792158cde1b8dd6531.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--laLpuaWQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xqzp0ej2grrku8dxex96.jpg)
 
 肯特·c·多兹写了一些他称之为“测试奖杯”的东西。如果你之前听说过[测试金字塔](https://martinfowler.com/articles/practical-test-pyramid.html)，这是一个类似的概念——它是你应该如何在应用程序中优先考虑不同类型测试的可视化。肯特邮报的标题说明了一切:
 
@@ -20,7 +20,7 @@
 
 让我们离开软件世界，看一个真实的例子。假设我们想为浴室建一个水槽。这个水槽有 4 个部件:水龙头、面盆、排水系统和水管。由于排水管和水管是建筑自带的，我们只需要担心增加水龙头和面盆。我们去商店挑选一个我们喜欢的水龙头和脸盆。我们把它们带到现场，单独组装。我们确认水龙头和面盆都能正常工作，没有任何缺陷。最后，我们组装完整的水槽——把水龙头接到水管上，把面盆接到排水管上。在我们所有的劳动之后，我们很高兴看到我们的水槽在工作，所以我们打开水龙头，发生了什么？嗯…
 
-[![Source: X Unit Tests, 0 Integration Tests](../Images/c14f2f392d3b5cd7eebb3cea65169e30.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2-WBex4Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zbqnfbjkl7p67met4sus.gif)
+[![Source: X Unit Tests, 0 Integration Tests](img/c14f2f392d3b5cd7eebb3cea65169e30.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2-WBex4Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zbqnfbjkl7p67met4sus.gif)
 
 哎呀！虽然我们确实检查了水龙头和面盆是否能正常工作，但我们忘记了检查这两者是否真的兼容。这就是为什么集成测试是有价值的——它证明了不同的组件、模块和库可以像预期的那样协同工作。
 

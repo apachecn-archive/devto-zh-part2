@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ebreton/make-release-2iko>
 
-[![make release: save time, gain in reliability](../Images/7f386e505582d54e1eb138b2ed026bfb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--krC99TWb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2sz1pxsnuzu89ypwspn8.png)
+[![make release: save time, gain in reliability](img/7f386e505582d54e1eb138b2ed026bfb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--krC99TWb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2sz1pxsnuzu89ypwspn8.png)
 
 ***制造钻石固体的最佳方法是自动化***
 
@@ -52,7 +52,7 @@ Enter fullscreen mode Exit fullscreen mode
 5.  检查代码当前/下一版本的方法
 6.  自述文件上的更新徽章(因为徽章很酷)
 
-<figure>[![](../Images/a97279b6f24bc18eee4bc75fdfca5a6e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dMUXB5PO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://manu.breton.ch/blog/content/images/2018/05/objective-numbered.png) 
+<figure>[![](img/a97279b6f24bc18eee4bc75fdfca5a6e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dMUXB5PO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://manu.breton.ch/blog/conteimg/2018/05/objective-numbered.png) 
 
 <figcaption>一个命令统治他们所有人</figcaption>
 

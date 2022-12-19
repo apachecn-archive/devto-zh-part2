@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/phavor/tracking-result--4kg6>
 
-[![Tracking Results successfully](../Images/0571c77942b877a92d309bb7c2a0acaf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ak_sYBIj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nuhdjeb57owqzjnd1go1.jpg)
+[![Tracking Results successfully](img/0571c77942b877a92d309bb7c2a0acaf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ak_sYBIj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nuhdjeb57owqzjnd1go1.jpg)
 
 有时候很难弄清楚你取得了什么，记录过去是有代价的，大多数人不愿意付出代价。大量保存这些记录的重要性表明，坚持这个看似痛苦的习惯是值得的。大多数跨国公司每天都这样做，即使你刚创业一个月，你也可以利用这一点，让你的企业变得伟大。你可能是也可能不是记录员、统计学家或诸如此类的人，但学习这些原则会帮助你果断地将你的工作、业务或个性放到重要的平台上。
 

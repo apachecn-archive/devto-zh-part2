@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/custom-polymorphic-code-snippets-in-vs-code-1g6i>
 
-[![](../Images/150c184b6088eda7a295d6fba875a01e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lE9B1Cfl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AOlWyRD9XGR4abzRdHbBx_A.jpeg)
+[![](img/150c184b6088eda7a295d6fba875a01e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lE9B1Cfl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AOlWyRD9XGR4abzRdHbBx_A.jpeg)
 
 如今，几乎所有的代码编辑器中都有代码片段。它们可以节省大量的时间，允许您快速方便地插入任何编程语言的常用代码块。
 
@@ -12,7 +12,7 @@ VS 代码也不例外，我们将看到如何创建自己的定制代码片段�
 
 所以，让我们开始吧！
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### 创建基本片段
 
@@ -369,7 +369,7 @@ ${1|one,two,three|}
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

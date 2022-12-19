@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/paigen11/why-a-spring-cloud-config-server-is-crucial-to-a-good-cicd-pipeline-pt-1-2ib3>
 
-[![Laptop screen filled with minified source code](../Images/e0f9c455d6f91c363d39db967fada59b.png "Laptop screen filled with minified source code")T2】](///static/24d70e51d7ba55ddbed9ad6d61d1d908/eea4a/screen-of-code.jpg)
+[![Laptop screen filled with minified source code](img/e0f9c455d6f91c363d39db967fada59b.png "Laptop screen filled with minified source code")T2】](///static/24d70e51d7ba55ddbed9ad6d61d1d908/eea4a/screen-of-code.jpg)
 
 ## 简介
 
@@ -28,7 +28,7 @@
 
 基本上，配置服务器允许你在外部存储你的应用需要在所有环境中运行的变量，而不管它们的生命周期，并在一个集中的地方更新它们。
 
-[![Spring Cloud logo](../Images/cd74362bbe98e6e7b421724d99d4e193.png "Spring Cloud logo")T2】](///static/4b53473c4b91ca751900865efaa74475/f93b5/spring-cloud.jpg)
+[![Spring Cloud logo](img/cd74362bbe98e6e7b421724d99d4e193.png "Spring Cloud logo")T2】](///static/4b53473c4b91ca751900865efaa74475/f93b5/spring-cloud.jpg)
 
 *看哪，春云。*
 
@@ -44,7 +44,7 @@
 
 > 我还要补充一点，至少在我写这篇文章的时候，Spring Cloud Config Server 与 Spring Boot 版本 2 不兼容(我很艰难地发现了这一点)，所以尽可能选择最高的 Spring Boot 版本 1 快照。
 
-[![Spring Initializr site](../Images/6a2d4007b0b4106ce182c26c810ffb24.png "Spring Initializr site")T2】](///static/44b116839628c34184589e88e7a330fa/c679a/spring-initializr.png)
+[![Spring Initializr site](img/6a2d4007b0b4106ce182c26c810ffb24.png "Spring Initializr site")T2】](///static/44b116839628c34184589e88e7a330fa/c679a/spring-initializr.png)
 
 这就是让 Spring Cloud 配置服务器运行所需要的一切:配置服务器依赖。请注意，Spring Boot 的版本是 1.5.14，而不是 2.0.2，这是它自动默认的最新版本。
 
@@ -211,7 +211,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在 IntelliJ 中，这可以通过在设置要运行的 Spring Boot 项目时单击“编辑配置”属性，并在配置模式中途向`"Active Profiles"`输入添加正确的值来完成。
 
-[![Active profile setting inside of IntelliJ IDE](../Images/f06298aea0080d8499156cbb8f1ddb28.png "Active profile setting inside of IntelliJ IDE")T2】](///static/6ae9167b7e83f687a89594e2da8007c4/0d390/intellij-active-profiles.png)
+[![Active profile setting inside of IntelliJ IDE](img/f06298aea0080d8499156cbb8f1ddb28.png "Active profile setting inside of IntelliJ IDE")T2】](///static/6ae9167b7e83f687a89594e2da8007c4/0d390/intellij-active-profiles.png)
 
 *在 IntelliJ 运行配置中，将这一行添加到“Active Profiles”输入中。*
 

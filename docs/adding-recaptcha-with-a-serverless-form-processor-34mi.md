@@ -150,7 +150,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 要得到你的钥匙，从这里开始:[http://www.google.com/recaptcha/admin](http://www.google.com/recaptcha/admin)。注意，你实际上得到*两把*钥匙。
 
-[![Screen shot of keys](../Images/42ae99ebd6f2aa9807af8f3d370f86d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ywIjDV-_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/04/rec1.jpg)
+[![Screen shot of keys](img/42ae99ebd6f2aa9807af8f3d370f86d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ywIjDV-_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/04/rec1.jpg)
 
 第一个密钥用于前端。第二个密钥在服务器端用于验证。
 
@@ -284,7 +284,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您可以看到，我使用了一个全局对象`grecaptcha`来从 UI 中获取值。这要么是空的(恶意用户忽略了它)，要么是一个长字符串。它看起来是这样的:
 
-[![Screen shot of form with captcha](../Images/402a66cd7cbb185b4d371ab6aec873de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w-vG3lMt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/04/rec2.png)
+[![Screen shot of form with captcha](img/402a66cd7cbb185b4d371ab6aec873de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w-vG3lMt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/04/rec2.png)
 
 现在我们来看看更新后的 webtask:
 

@@ -22,7 +22,7 @@ promise 还将捕获导致失败的错误链中发生的所有错误，这对调
 
 这是一张承诺的图片:
 
-[![javascript promise](../Images/7ee239c6c825a47ea6900d00d21b9d2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DB2KNVr7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/okumq5ktknswifg28774.JPG)
+[![javascript promise](img/7ee239c6c825a47ea6900d00d21b9d2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DB2KNVr7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/okumq5ktknswifg28774.JPG)
 
 正如你在这个例子中看到的，在它等待的所有任务完成之前，promise 不会做任何事情。然后，它执行一个使用这些任务结果的回调。然后，您可以使用 Then()通过一些其他任务继续这个过程。
 

@@ -8,7 +8,7 @@
 
 今天我们将制作一个卡片列表，当悬停(或在移动设备中点击)时会有动画效果，灵感来自于 [Kreativa 工作室](https://dribbble.com/KreativaStudio)制作的[运球](https://dribbble.com/shots/4579038-Foodiefit-Interaction-studio-included)，看起来像这样:
 
-[![wotw-7](../Images/ac324534f8fdda975ff3437bfbb19c1d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OSzUDnw2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2s3z34vqtb4er8d31cw4.gif)
+[![wotw-7](img/ac324534f8fdda975ff3437bfbb19c1d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OSzUDnw2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2s3z34vqtb4er8d31cw4.gif)
 
 ### 制剂
 
@@ -124,7 +124,7 @@ Enter fullscreen mode Exit fullscreen mode
 Enter fullscreen mode Exit fullscreen mode
 
 在那之后我们应该有这样的东西:
-[![card-styles](../Images/a03b87f5f81df87c9430a9fac0cd50c9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RTJ1hG3w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k8rqvl6q0o4fcjjc2nbf.png)
+[![card-styles](img/a03b87f5f81df87c9430a9fac0cd50c9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RTJ1hG3w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k8rqvl6q0o4fcjjc2nbf.png)
 
 ### 行为举止
 
@@ -182,7 +182,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![three cards](../Images/4d36ae1f63f9bdd224418d1fb9404691.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RC6AzsIF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qbcxtn8skt9jdp6c6s54.png)
+[![three cards](img/4d36ae1f63f9bdd224418d1fb9404691.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RC6AzsIF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qbcxtn8skt9jdp6c6s54.png)
 
 你可能已经注意到我绑定了几个事件`@mouseover`和`mouseout`。两者都触发了一个叫做`hoverCard`的方法，我们还没有声明它，所以让我们开始吧。
 
@@ -247,7 +247,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当悬停时，图像会改变其大小，我们只需要设置高度，因为宽度会自动调整以保持纵横比。
 
-[![text not readable](../Images/849a6e29385de4175807511117f335a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dy-K8hkL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/np70esehlbdn0onix00v.png)
+[![text not readable](img/849a6e29385de4175807511117f335a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dy-K8hkL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/np70esehlbdn0onix00v.png)
 
 现在图像扩大了，感觉作者文字太亮，看不清楚。我将重复最后的步骤，使卡片悬停时看起来更暗:
 

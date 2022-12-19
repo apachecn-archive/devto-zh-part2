@@ -6,7 +6,7 @@
 
 为了一石二鸟，下面是单链表的样子:
 
-[![](../Images/b22ae858498552e71e993be9ed5f461f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_dNHX3PE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yvlap0e8cd1sykzfg8w6.png)
+[![](img/b22ae858498552e71e993be9ed5f461f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_dNHX3PE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yvlap0e8cd1sykzfg8w6.png)
 
 从(可选的)“head”元素开始，很明显每个元素都由一些数据和对其后元素的引用组成。有了这些信息，我们就可以在列表中前进，但是对于单链表，如果没有额外的信息，就无法引用列表中前面的元素。
 
@@ -14,7 +14,7 @@
 
 双向链表是一种由元素组成的数据结构，与单向链表相同，但在它前面有一个对元素的额外引用。
 
-[![](../Images/1d47dc673a8da31f23eed01e7daee6a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mVIMOpvc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zdqfmrt45qg9uqgwlahy.png)
+[![](img/1d47dc673a8da31f23eed01e7daee6a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mVIMOpvc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zdqfmrt45qg9uqgwlahy.png)
 
 ## 我们做一个吧
 
@@ -97,7 +97,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 关于这个例子，我认为最后需要注意的是这个特殊的双向链表的内存布局。我在输出中包含了内存地址(如上图),这样这个视觉效果更有意义...
 
-[![](../Images/2839b5ae9710dc9d45dff1110e8f4ef0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y4Jh7lZL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nnmr00azr3yzsoz84isy.png)
+[![](img/2839b5ae9710dc9d45dff1110e8f4ef0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y4Jh7lZL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nnmr00azr3yzsoz84isy.png)
 
 如果你以前处理过低级内存，你会知道有一个从高级内存地址增长到低级内存地址的[堆栈](https://www.youtube.com/watch?v=CgFVgp_VCN8)。这就是为什么`n0`–即使先定义也是位于最高的内存地址。
 
@@ -121,7 +121,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 太棒了！
 
-[![](../Images/186308616c9679f28a8929fe97e128f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ULTWfQgq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/Br00TCn.gif)
+[![](img/186308616c9679f28a8929fe97e128f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ULTWfQgq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/Br00TCn.gif)
 
 老实说，我从未在工作中使用过这种数据结构，但我认为认识到这些数据结构在未来可能适用是很重要的。
 

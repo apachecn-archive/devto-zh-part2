@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/egryaznov/in-apology-of-social-media-----56m2>
 
-[![](../Images/080a1b8760c0ecaa61fbc4130def4afd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m4XQxq1M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ou9jfwlpr82f705bmf1g.jpg)
+[![](img/080a1b8760c0ecaa61fbc4130def4afd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m4XQxq1M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ou9jfwlpr82f705bmf1g.jpg)
 
 互联网上有一个相对较新的趋势，那就是与社交媒体“断开”。这一运动的追随者认为，所有的社交平台都是“邪恶的”、“不好的”，或者至少有损于你的精神健康。考虑到最近脸书的惨败，这对任何人来说都不足为奇。
 
@@ -20,7 +20,7 @@
 
 首先你有一项新发明，然后它进入社会，之后它成为一种技术，随着它越来越受欢迎，人们开始越来越频繁地滥用它。最后，就在它被虐待的顶点之前(想想*末日时钟*的*午夜*)，我们意识到我们的困境，感到内疚，抑制我们贪得无厌的野心，并开始实施措施来修复我们无知的行为。最终，一切都稳定在生产率的*平台*。更重要的是，如果你在 y 轴上描绘虐待的程度，在 x 轴上描绘时间，那么这种模式将非常类似于*炒作曲线*，它显示了我们的*期望*，而不是我们对特定技术的误用。
 
-[![hype curve](../Images/3b516b389e0d7b32a5c13bc2adec93af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--08FI_owQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/9/94/Gartner_Hype_Cycle.svg)
+[![hype curve](img/3b516b389e0d7b32a5c13bc2adec93af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--08FI_owQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/9/94/Gartner_Hype_Cycle.svg)
 
 在社交媒体的背景下，这意味着我们刚刚到达*社交末日时钟*的午夜，事情将从这一点开始平静下来。有了社交网络，我们将达到所谓的*稳定期*，那时我们将确切知道*健康使用互联网*这句话的真正含义。界限将被建立，墙将被竖起，所以没有人，即使是大公司也不敢再跨越它们，因为我们已经看到这条路通向哪里。
 

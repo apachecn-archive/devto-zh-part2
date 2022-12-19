@@ -18,7 +18,7 @@
 
 我不想羞辱任何特定的学校，因为他们的大多数设计实际上看起来相当不错，但这里有一张~~恐怖~~有趣的图片来说明我在说什么:
 
-[![Selection of inconsistent BYU pages](../Images/3afd9f6b2a1a9a40ed27b823daa34957.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vlGbZ_C6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.thatjoemoore.com/posts/2018-01/byu-theme-components/byu-sites.png)
+[![Selection of inconsistent BYU pages](img/3afd9f6b2a1a9a40ed27b823daa34957.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vlGbZ_C6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.thatjoemoore.com/posts/2018-01/byu-theme-components/byu-sites.png)
 
 在聘请了一家外部公司对我们的网站进行审计后，我们决定是时候尝试给大学带来一些品牌一致性了。我们的网络社区发起了一项倡议，旨在设计和实现一个简单、现代、不引人注目的标准主题，并鼓励整个校园的开发人员和设计人员汇聚到这个主题上。
 
@@ -190,7 +190,7 @@ https://cdn.byu.edu/{library name}/{version or alias}/{file name}
 
 如果我们现在开始这个项目，我想我们会使用某种形式的框架，可能是 ~~Polymer 3(尽管它还没有发布)或 SkateJS 5(带有它漂亮的新的可插拔呈现器)~~ LitElement。虽然我们的设置并不复杂，但我们仍然在许多方面重新发明了轮子。
 
-> ![Joseph Moore profile image](../Images/fa9f311a0a4153d9b64ea9855d35f666.png)约瑟夫·摩尔@ thatjoemore![twitter logo](../Images/ad0c7b03deabfe1a161345efb2d537eb.png)[@ justinfagnani](https://twitter.com/justinfagnani)已经开发了一堆非聚合物组件，我相信每一个“香草”设置要么会开发 Polymer-lite，要么希望他们已经开发了。03:02AM-05 Sep 2017[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=904902463588839424)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=904902463588839424)3[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=904902463588839424)8
+> ![Joseph Moore profile image](img/fa9f311a0a4153d9b64ea9855d35f666.png)约瑟夫·摩尔@ thatjoemore![twitter logo](img/ad0c7b03deabfe1a161345efb2d537eb.png)[@ justinfagnani](https://twitter.com/justinfagnani)已经开发了一堆非聚合物组件，我相信每一个“香草”设置要么会开发 Polymer-lite，要么希望他们已经开发了。03:02AM-05 Sep 2017[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=904902463588839424)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=904902463588839424)3[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=904902463588839424)8
 
 ## 唱着加载时间蓝调
 

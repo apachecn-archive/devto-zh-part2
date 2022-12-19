@@ -10,7 +10,7 @@
 
 这种垃圾收集背后的思想是在程序的每一点跟踪对象的使用情况。这个想法意味着一旦一个对象变成垃圾(要知道一个对象什么时候变得有资格成为垃圾，请阅读 geeksforgeeks)，该对象占用的空间就通过将空闲空间地址放入空闲列表来恢复。然后，通过将所需空间与空闲列表上的可用空间相匹配来分配新对象。这个概念看起来非常有吸引力，因为只要有垃圾就进行垃圾收集是有意义的。是吗？从虚拟世界退一步，进入现实世界。每次你不得不扔掉口香糖包的时候，你会跑到车道尽头的垃圾箱吗？你不知道，对吧？你把垃圾收集到垃圾箱里，当垃圾箱满了，你就去垃圾箱。在计算机科学中，这被称为懒惰方法，即只在需要时才采取行动。这让我们想到了垃圾收集的第二种技术。
 
-[![Run to throw away your garbage ](../Images/3a52dac8fd431b35e322b76d619e83df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eKkgtaIj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3f8v1o2cyeuexqojyzdi.png)
+[![Run to throw away your garbage ](img/3a52dac8fd431b35e322b76d619e83df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eKkgtaIj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3f8v1o2cyeuexqojyzdi.png)
 
 # 2。标记和扫描。
 

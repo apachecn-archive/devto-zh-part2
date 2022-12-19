@@ -4,7 +4,7 @@
 
 《Buscayasminas》是一款完全用 DHTML (HTML、CSS 和 JavaScript)编写的开源扫雷游戏(可配置)。
 
-[![Screenshot](../Images/2e710952dce2f4f50a3b927bd7052164.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h39qjKii--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://www.dhtmlgames.com/buscayasminas/buscayasminas.gif)
+[![Screenshot](img/2e710952dce2f4f50a3b927bd7052164.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h39qjKii--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://www.dhtmlgames.com/buscayasminas/buscayasminas.gif)
 
 这是我的第六个 DHTML 游戏，制作于 2006 年中期。
 

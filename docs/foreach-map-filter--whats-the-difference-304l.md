@@ -20,7 +20,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在您的控制台上运行此程序；
 
-[![forEach result](../Images/a38960fbd2ec20cbe62a13b4bc7437c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2tcc4-sD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r20nz5ulnpktqo1ke2zz.PNG)
+[![forEach result](img/a38960fbd2ec20cbe62a13b4bc7437c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2tcc4-sD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r20nz5ulnpktqo1ke2zz.PNG)
 
 **。map():**
 `.map()`对数组中的每个元素执行相同的代码，并返回一个包含更新元素的新数组。
@@ -40,7 +40,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在您的控制台上运行此程序；
 
-[![map result](../Images/e7b1bc927ccdd5c1a7bf8834d37d80bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PZ3KhGip--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tehhysnkfra7a009lh06.PNG)
+[![map result](img/e7b1bc927ccdd5c1a7bf8834d37d80bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PZ3KhGip--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tehhysnkfra7a009lh06.PNG)
 
 **。filter():**
 `.filter()`检查数组中的每个元素，看它是否满足某个标准，并返回一个新数组，其中的元素返回符合标准的`truthy`。
@@ -60,6 +60,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 在您的控制台上运行此程序；
 
-[![filter result](../Images/059cc7e2d374a6099350ec71d9eee739.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4qNjH4Lx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0r7346my32b8zmi38gdg.PNG)
+[![filter result](img/059cc7e2d374a6099350ec71d9eee739.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4qNjH4Lx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0r7346my32b8zmi38gdg.PNG)
 
 **这就是所有的乡亲...**

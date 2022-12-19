@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/svikashk/how-to-measure-the-success-of-your-feature-1ia0>
 
-[![How To Measure The Success Of Your Feature?](../Images/5194c1fc260ba186a7e898b599e1a758.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b8nhd7Tx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.zepel.io/content/images/2018/07/Measure-Metrics-For-Feature-Success-1.jpg)
+[![How To Measure The Success Of Your Feature?](img/5194c1fc260ba186a7e898b599e1a758.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b8nhd7Tx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.zepel.io/conteimg/2018/07/Measure-Metrics-For-Feature-Success-1.jpg)
 
 所以你和你的用户交谈，理解他们的需求，优先化你的产品清单，并构建一个特性来帮助你的产品指标暴涨。
 
@@ -67,7 +67,7 @@
 
 没有定义正确指标的灵丹妙药。但是好消息是，你可以问自己一些问题来帮助你定义它们。
 
-[![How To Measure The Success Of Your Feature?](../Images/92138ee82d602d190f9d54b241ce4ee1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RYsA_L3s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.zepel.io/content/images/2018/07/Teach-A-Man-A-Metric-5.png)
+[![How To Measure The Success Of Your Feature?](img/92138ee82d602d190f9d54b241ce4ee1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RYsA_L3s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.zepel.io/conteimg/2018/07/Teach-A-Man-A-Metric-5.png)
 
 **考虑特性指标时要问的问题**
 
@@ -93,7 +93,7 @@
 
 假设你希望用户在什么时候看到你的功能的价值，这将有助于设定使用频率和采用率的期望值，并有助于评估你的功能是否是参与、保留或转化为付费订阅的强大驱动力。
 
-[![How To Measure The Success Of Your Feature?](../Images/a7a51147f9d6e86f5a9d4674ac863c8e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mqzROhVp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.zepel.io/content/images/2018/07/suhail-doshi-quote.png) 
+[![How To Measure The Success Of Your Feature?](img/a7a51147f9d6e86f5a9d4674ac863c8e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mqzROhVp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.zepel.io/conteimg/2018/07/suhail-doshi-quote.png) 
 
 <small>背景图片演职员表:</small>
 
@@ -148,4 +148,4 @@ T3】无论你为了避免任何偏见而把问题框得多好，如果你问错
 
 但是，当你知道你的功能想要实现什么，拥有正确的指标来洞察你的用户行为，并向你的客户提出正确的问题时，你就会掉进一个装满黄金的罐子，这将使你的报告从“上个季度我们推出了两个大功能”变成“我们的最后一个功能帮助增加了 9%的保留率”。
 
-[![How To Measure The Success Of Your Feature?](../Images/5e3b280f62c29e7a312d00fd97dd2394.png)T2】](https://zepel.io/?utm_source=devto&utm_medium=metrics)
+[![How To Measure The Success Of Your Feature?](img/5e3b280f62c29e7a312d00fd97dd2394.png)T2】](https://zepel.io/?utm_source=devto&utm_medium=metrics)

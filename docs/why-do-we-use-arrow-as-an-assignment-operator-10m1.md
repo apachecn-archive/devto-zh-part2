@@ -12,11 +12,11 @@
 
 但是为什么呢？APL 是在一个特定的键盘上设计的，键盘上有一个键用于`<-`:
 
-[![](../Images/0fce3214d3d3eb937f8ead8c5a5ea7fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W8LDHN5v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/APL-keybd2.svg/410px-APL-keybd2.svg.png)
+[![](img/0fce3214d3d3eb937f8ead8c5a5ea7fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W8LDHN5v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/APL-keybd2.svg/410px-APL-keybd2.svg.png)
 
 当时之所以选择它，也是因为没有测试等式的`==`:等式是用`=`来测试的，所以给一个变量赋值需要用另一个符号来完成。
 
-[![](../Images/7463ff1f79e9b1ec370164f865d862ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Nn9IASpw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://colinfay.me/assets/img/blog/apl.jpg)
+[![](img/7463ff1f79e9b1ec370164f865d862ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Nn9IASpw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://colinfay.me/assets/img/blog/apl.jpg)
 
 > 来自 [APL 参考手册](http://www.softwarepreservation.org/projects/apl/Books/APL360ReferenceManual)
 
@@ -25,7 +25,7 @@
 
 在此之前，`_`也是一个有效的赋值运算符。它在 [R 1.8](https://cran.r-project.org/src/base/NEWS.1) 中被删除:
 
-[![](../Images/9922e394c5f907d881bf5bd371fdc6e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RFbFvYRp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://colinfay.me/assets/img/blog/runderscore.jpg)
+[![](img/9922e394c5f907d881bf5bd371fdc6e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RFbFvYRp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://colinfay.me/assets/img/blog/runderscore.jpg)
 
 (所以没有，当时没有 snake_case_naming_convention)
 
@@ -247,7 +247,7 @@ head(iris := Sepal.Length)
 
 或者在 R 新闻 1:
 
-[![](../Images/6d4f198fd972f37b24afea8d8e3da435.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2ckcP2ao--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://colinfay.me/assets/img/blog/colonequal.png)
+[![](img/6d4f198fd972f37b24afea8d8e3da435.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2ckcP2ao--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://colinfay.me/assets/img/blog/colonequal.png)
 
 ## 亦见
 

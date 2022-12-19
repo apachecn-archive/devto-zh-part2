@@ -94,7 +94,7 @@ WSL 将让我们能够在 Windows 中运行 Linux 工具。让我们开始吧。
 
 搜索“Windows 功能”，然后启用 WSL:
 
-[![enable-wsl](../Images/3486eab1286ffc336f1e021d0af8fe82.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hLyg7G-R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nickjanetakis.com/assets/blog/enable-windows-subsystem-for-linux-9048ffa9eb4d34ccfa99c9354d885441fc5aa935f42c2f6ed079ec0219546919.jpg)
+[![enable-wsl](img/3486eab1286ffc336f1e021d0af8fe82.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hLyg7G-R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nickjanetakis.com/assets/blog/enable-windows-subsystem-for-linux-9048ffa9eb4d34ccfa99c9354d885441fc5aa935f42c2f6ed079ec0219546919.jpg)
 
 在这一点上，你需要重新启动，所以去这样做，因为你将不得不为了继续。不幸的是，这不是那些“应该”重启，而是“必须”重启。
 
@@ -110,7 +110,7 @@ WSL 将让我们能够在 Windows 中运行 Linux 工具。让我们开始吧。
 
 安装后，它最终会要求您创建一个新的 UNIX 用户:
 
-[![wsl-ubuntu](../Images/9f6012b9919dee371e5b26e0a8f8a2b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7CfMtycq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nickjanetakis.com/assets/blog/wsl-ubuntu-create-new-user-264908eeb083285be175146915b25f5b71530d8e33bf6ef0bbe91e5dc160c1e5.jpg)
+[![wsl-ubuntu](img/9f6012b9919dee371e5b26e0a8f8a2b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7CfMtycq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nickjanetakis.com/assets/blog/wsl-ubuntu-create-new-user-264908eeb083285be175146915b25f5b71530d8e33bf6ef0bbe91e5dc160c1e5.jpg)
 
 我建议使用小写版本的 Windows 用户。举个例子，我的 Windows 用户是“尼克”，但我对 Ubuntu 用户用的是“尼克”。
 
@@ -124,7 +124,7 @@ WSL 将让我们能够在 Windows 中运行 Linux 工具。让我们开始吧。
 
 我花了很多时间研究不同的 Windows 终端，最终得出结论，ConEmu 拥有所有正确的东西。
 
-[![conemu-terminal](../Images/941b23b73c005cabad09ddf2889bc926.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZZYSfDXC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nickjanetakis.com/assets/blog/conemu-terminal-4474671361f59992e9e6403280bfeb5fc6c4594cf367ad251c0ede1abfa58265.jpg)
+[![conemu-terminal](img/941b23b73c005cabad09ddf2889bc926.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZZYSfDXC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nickjanetakis.com/assets/blog/conemu-terminal-4474671361f59992e9e6403280bfeb5fc6c4594cf367ad251c0ede1abfa58265.jpg)
 
 ##### 1。这就是 ConEmu 成为一个好选择的原因
 
@@ -146,7 +146,7 @@ WSL 将让我们能够在 Windows 中运行 Linux 工具。让我们开始吧。
 
 当打开一个新的 ConEmu 实例时，你可以让它默认为 WSL，这就是我正在做的，因为我并不真正使用 PowerShell 或常规的 Windows CMD 提示符。
 
-[![conemu-wsl-default-terminal](../Images/991897f5866991acea122cc27f1d6404.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WQ93sEPr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nickjanetakis.com/assets/blog/conemu-wsl-default-terminal-34e9813ec99364e59f6327c46be8f6a1599139fda1580294f0bf5e9015142edf.jpg)
+[![conemu-wsl-default-terminal](img/991897f5866991acea122cc27f1d6404.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WQ93sEPr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nickjanetakis.com/assets/blog/conemu-wsl-default-terminal-34e9813ec99364e59f6327c46be8f6a1599139fda1580294f0bf5e9015142edf.jpg)
 
 为此，只需进入设置->启动->特定任务名称屏幕，从下拉列表中选择`{Bash::bash}`并保存设置。
 
@@ -237,7 +237,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 一旦所有这些都设置好了，你就可以从 WSL 运行`subl .`,你应该会在自己的浮动窗口中看到 Sublime 文本编辑器。恭喜你，一切都准备好了！
 
-[![sublime-text-in-wsl](../Images/be60792f2fb395373fd205568a7c0d20.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rM8iAfrd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nickjanetakis.com/assets/blog/sublime-text-3-running-in-wsl-through-x-server-51eced99fed8c1402c947d707c4c2e9eee507f8be3a3d08cd8cb283e126ac892.jpg)
+[![sublime-text-in-wsl](img/be60792f2fb395373fd205568a7c0d20.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rM8iAfrd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nickjanetakis.com/assets/blog/sublime-text-3-running-in-wsl-through-x-server-51eced99fed8c1402c947d707c4c2e9eee507f8be3a3d08cd8cb283e126ac892.jpg)
 
 ## 启动并运行 Docker
 

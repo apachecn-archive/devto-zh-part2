@@ -4,7 +4,7 @@
 
 谁写代码？显而易见的答案是开发人员编写代码。谁来确保代码有效？这个问题的答案似乎也很明显。也应该是开发商……对吧？
 
-[![](../Images/e927cd8c614cf19d44901dda79e0216a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--csx1nNPT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.professorbeekums.com/img/2018/who.jpeg)
+[![](img/e927cd8c614cf19d44901dda79e0216a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--csx1nNPT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.professorbeekums.com/img/2018/who.jpeg)
 
 事实往往并非如此。许多公司都有独立的 QA 部门，负责确保代码正常工作。开发人员编写代码，然后他们把代码扔到墙外，让别人替他们测试。
 

@@ -2,11 +2,11 @@
 
 > 原文：<https://dev.to/onmyway133/running-uitests-with-facebook-login-in-ios-1mg0>
 
-[![](../Images/1c4dc85ec380a0463d1a3f8fe32dba91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pFHyE9Ip--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AOpf2sAlTPclE_4kE.jpg)
+[![](img/1c4dc85ec380a0463d1a3f8fe32dba91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pFHyE9Ip--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AOpf2sAlTPclE_4kE.jpg)
 
 今天，我试图在我的应用程序上运行一些 UITest，它使用脸书登录。这是我的一些笔记。
 
-[![](../Images/c3d8e1b5536adb2a2dad7de73325c79b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l11t0OCV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2Ae0lQASZpw5qGT7jn.gif)
+[![](img/c3d8e1b5536adb2a2dad7de73325c79b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l11t0OCV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2Ae0lQASZpw5qGT7jn.gif)
 
 ## 挑战
 
@@ -20,11 +20,11 @@
 
 幸运的是，您不必创建自己的脸书用户来进行测试。脸书支持测试用户，你可以管理权限和朋友，非常方便
 
-[![](../Images/db999bb88074b882fbf12516779a5b86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HsQqFtau--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2880/0%2AkVdiqx7CB7b43dRw.png)
+[![](img/db999bb88074b882fbf12516779a5b86.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HsQqFtau--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2880/0%2AkVdiqx7CB7b43dRw.png)
 
 创建测试用户时，您可以选择语言。这将是 Safari web 视图中显示的语言。我现在选择挪威的🇳🇴
 
-[![](../Images/c2d162040b182ca272dcae4d950442b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qn5fyFnf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AH7V1GZN413eb1y4n.png)
+[![](img/c2d162040b182ca272dcae4d950442b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qn5fyFnf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AH7V1GZN413eb1y4n.png)
 
 ## 点击登录按钮，显示脸书登录
 
@@ -255,7 +255,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 转到 Xcode ->产品->执行操作->再次测试，再次运行之前的测试
 
-[![](../Images/31d670a85b05a89c1be7b4a2d25490f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---nFopo4I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AkYHd-HY0mLvgdXUs.png)
+[![](img/31d670a85b05a89c1be7b4a2d25490f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---nFopo4I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AkYHd-HY0mLvgdXUs.png)
 
 这里是完整的源代码
 

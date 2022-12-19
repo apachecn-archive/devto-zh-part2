@@ -4,7 +4,7 @@
 
 我最近发现自己又在使用 [Altmetric 徽章](http://api.altmetric.com/embeds.html)了，我意识到使用脚本有多麻烦。Altmetric 徽章只能通过使用其 JavaScript 库来添加，而如果有一个嵌入徽章的简单 URL，甚至是一个图像，将会对用户更加友好。我可能有点被开源社区的徽章生态系统宠坏了，包括 [Shields.io](https://shields.io) 。在那里，徽章是在服务器端动态生成的。
 
-[![Badges in open source JavaScript projects](../Images/ad44080f62c0f67ee38dc4f83c16acc5.png "Badges in open source JavaScript projects")](https://res.cloudinary.com/practicaldev/image/fetch/s--V8N-tH-x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/UQg3vzcJxQfpfN-BxyrPL1mPXJA8DJuPbMaBT3f2j8OlO0rllgifKTGPIkTzKJFvEAWXNxXrNaGaHw) 
+[![Badges in open source JavaScript projects](img/ad44080f62c0f67ee38dc4f83c16acc5.png "Badges in open source JavaScript projects")](https://res.cloudinary.com/practicaldev/image/fetch/s--V8N-tH-x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lh3.googleusercontent.com/UQg3vzcJxQfpfN-BxyrPL1mPXJA8DJuPbMaBT3f2j8OlO0rllgifKTGPIkTzKJFvEAWXNxXrNaGaHw) 
 
 *开源 JavaScript 项目中的徽章*
 
@@ -22,7 +22,7 @@
 https://img.shields.io/badge/dynamic/json.svg?url=https://api.altmetric.com/v1/doi/DOI&label=Altmetric&query=$.score&style=social 
 ```
 
-哪个长得像这样: [![Altmetric badge](../Images/e02001bf781d92866196595914337161.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8QXoVVKt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jqhwmhokrwm7ij0kg6qm.png)
+哪个长得像这样: [![Altmetric badge](img/e02001bf781d92866196595914337161.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8QXoVVKt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jqhwmhokrwm7ij0kg6qm.png)
 
 然而，请注意， [Altmetric API 的使用受到限制](http://api.altmetric.com/):
 

@@ -23,7 +23,7 @@ gif 或 JIFs 是互联网上那些奇怪的东西之一。格式慢，效率低�
 
 ## 数字
 
-[![Speeds of fastgif vs other approaches in a log graph](../Images/4b413fe817055ee79d030b5a4b79b8e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TBg18viE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mhgvwke6e2bbowewlcch.png)
+[![Speeds of fastgif vs other approaches in a log graph](img/4b413fe817055ee79d030b5a4b79b8e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TBg18viE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mhgvwke6e2bbowewlcch.png)
 
 注意:这是一个对数图。越小越好。
 
@@ -89,7 +89,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这将产生`gifplayer.html`、`gifplayer.js`和`gifplayer.wasm`。这是 Emscripten 提供的帮助，主要用于调试和入门——现在，如果您在浏览器中打开`http://localhost:5000/gifplayer.html`,您会看到:
 
-[![Assertion failed: TOTAL_MEMORY not big enough for stack](../Images/20db1e451d6e2d063548ec513ad2ca32.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1H9ganVt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/grj5ebztqsz1e8zih0a5.png)
+[![Assertion failed: TOTAL_MEMORY not big enough for stack](img/20db1e451d6e2d063548ec513ad2ca32.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1H9ganVt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/grj5ebztqsz1e8zih0a5.png)
 
 ...实际上，我们看到了一条错误消息。💥
 
@@ -103,7 +103,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 太好了！现在打开，我们会看到这个:
 
-[![Waiting for input](../Images/9a348c365dc0d46d3c0f412253877a97.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oCE6L6wy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/42cud6y82p01nhj1x2hy.png)
+[![Waiting for input](img/9a348c365dc0d46d3c0f412253877a97.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oCE6L6wy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/42cud6y82p01nhj1x2hy.png)
 
 当您使用`scanf`或从命令行读取请求输入时，默认情况下，Emscripten 将使用 JavaScript 方法`prompt()`来请求数据。尝试粘贴一些文本——浏览器会继续提示，直到你*取消*输入，这算一个 EOF。
 
@@ -206,7 +206,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 运气好的话，你应该会看到一个解码的，移动的 ASCII 艺术马🐎💨在您的主机上玩:
 
-[![Horse in ASCII art in console](../Images/5a1d2858dfa66f753a98a17da882601b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kbraQJU0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tvooq4nem16st0b32nep.png)
+[![Horse in ASCII art in console](img/5a1d2858dfa66f753a98a17da882601b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kbraQJU0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tvooq4nem16st0b32nep.png)
 
 恭喜你。此时，我奖励自己一个甜甜圈。你也应该这样做。🍩
 
@@ -292,7 +292,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 一旦运行了上面的代码，一定要记录下`frames`对象，就像这样。
 
-[![Frames in JavaScript console](../Images/eb0ba14cf596b924b3a9a8e0fd6bba88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RznSP60M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r1k5nbodvnotzmwxncl1.png)
+[![Frames in JavaScript console](img/eb0ba14cf596b924b3a9a8e0fd6bba88.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RznSP60M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r1k5nbodvnotzmwxncl1.png)
 
 唷！现在，你可以修改它们，打印出来，或者在闲暇时使用它们。这肯定不是完美的，因为您需要将`onframe`添加到您的全局范围(！).但是，Emscripten 的助手库在这方面已经很糟糕了——他们已经在你的窗口中添加了`Module`。
 

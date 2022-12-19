@@ -8,7 +8,7 @@ ActiveRecord 的一个基本概念是，数据库本质上是相当功利的，�
 
 在这里，ActiveRecord 声称可以派上用场，因为它应该是小菜一碟。毕竟，作用域、前/后过滤器和关联足够抽象，不用担心在数据库上生成查询，只关注应用程序的逻辑。不用编写`WHERE is_archived = TRUE`，你可以很容易地编写`where(is_archived: true)`，ActiveRecord 会为你完成剩下的工作。
 
-[![](../Images/a70bbcf3f8896f2e7d2a445cbce49a63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oO9tKpx7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.pinimg.com/originals/a1/c1/9c/a1c19cc429092ebb57ee218f34d7a525.gif)
+[![](img/a70bbcf3f8896f2e7d2a445cbce49a63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oO9tKpx7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.pinimg.com/originals/a1/c1/9c/a1c19cc429092ebb57ee218f34d7a525.gif)
 
 但是事情并没有那么简单！在实践中，事实证明这一抽象层充满了缺口，就像《金鱼的故事》中的破槽一样。而且许多基本功能无法使用，比如比较日期或使用数组。我们有带强制`where("#{quoted_table_name}.finished_at >= ?", Date.current)`或`where("#{quoted_table_name}.other_ids <@ ARRAY[?]", ids)`的示波器。对此 ActiveRecord 给出了一个完全有意识的、意料之中的答案:不要用这个。使用 habtm-association 而不是数组，如果需要比较日期，请接受这个。而且天理不容，你在这样的范围内错过了`quoted_table_name`——第一个`includes`或者`joins`会把一切都放回原处。尽可能随时随地添加它们会更容易，这样你就不会失去技能。
 
@@ -16,7 +16,7 @@ ActiveRecord 的一个基本概念是，数据库本质上是相当功利的，�
 
 当发现 models 文件夹中使用 extra-opportunities 的范围超过一半时，很明显 ActiveRecord 只是一个方便的包装器，用于将一段带标签的代码与另一段代码集成在一起。像`where(is_archived: true).joins(:sprint).merge(Sprint.archived)`这样的示波器会工作得很好，它们的组合不会比煮鸡蛋更困难，不是吗？
 
-[![](../Images/9d3ad6b0d0880aea5e95e3f72c9ce73e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DlZbX4zA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://gifs.com.ua/uploads/gifs-com-ua-736459401.gif)
+[![](img/9d3ad6b0d0880aea5e95e3f72c9ce73e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DlZbX4zA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://gifs.com.ua/uploads/gifs-com-ua-736459401.gif)
 
 下一个阶段是反规格化。当然，反规格化一直都在，也没有在任何地方消失，但是解决这个问题的重任落在了 Rails 和 ActiveRecord 的肩上，而且你知道，这两个家伙在资源需求方面并没有受到过度的限制。比方说，`counter_cache: true`是反规格化的第一步，毕竟 ActiveRecord 不会让你这么容易就只做`COUNT(*) AS sprints_count`(我的意思是，你不会用`select`的方法吧？).并且`counter_cache`远非理想，并且在某些情况下，实际数量可能与缓存数量不同步。当然不是批评，而是不愉快。并且这只是第一个安置在数据库中并且不加载 Ruby 机器的负担头的候选者。只需几个触发器，它就完成了！在 A 表中删除和添加条目时，需要重新计算 B 表中的记录数，仅此而已，对吗？当然，当编辑一个条目时，如果`foreign_key`已经被改变，你也要做同样的事情，因为请求`UPDATE B SET a_id = $1 WHERE id = $2`将对旧表和新表分解`counter_cache`。
 
@@ -130,7 +130,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 而最后剩下的才是最可怕的。事实上，Rails 并不是为最起码的智能数据库而设计的，它绝对不关心可以在那里修改什么，除了 ID-field，即使这样也只是在向表中插入数据时。因此，没有合理的方法将`RETURNING id, updated_at`添加到更新查询中，您需要一头扎进 Rails 灌木丛中。
 
-[![](../Images/5a394566e356cff81560244777f3e314.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DJKUIXJn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rd55kvyvbl4bicpgi0e6.jpg)
+[![](img/5a394566e356cff81560244777f3e314.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DJKUIXJn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rd55kvyvbl4bicpgi0e6.jpg)
 
 Monkey patch 结果并不那么整洁，但主要目标是尽可能减少对当前框架工作的抵触。下面是最后的样子:
 

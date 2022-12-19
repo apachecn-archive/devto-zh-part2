@@ -54,6 +54,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![JUST DO IT](../Images/47d244820cde7724f23a4d2c7eaa4aeb.png)T2】](https://i.giphy.com/media/14pBFSq5dRDkFa/giphy.gif)
+[![JUST DO IT](img/47d244820cde7724f23a4d2c7eaa4aeb.png)T2】](https://i.giphy.com/media/14pBFSq5dRDkFa/giphy.gif)
 
 仅此而已。这个你怎么看，我什么做的比较好？

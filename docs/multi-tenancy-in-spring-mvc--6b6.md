@@ -4,7 +4,7 @@
 
 我们的一个客户的目标是用基于云的 SaaS 模式解决方案取代旧的、通常基于 DOS 的销售点系统。[在 Bright Inventions](//%7B%7B%20site.url%20%7D%7D) 我们开发了所有必需的组件，包括基于 AWS 的后端处理来自多个客户的请求。使用 SaaS 销售点的每个企业都可以被视为多租户环境中的一个租户。在开发多租户应用程序时涉及到许多方面，其中[数据隔离和分区是讨论最多的话题](http://blog.memsql.com/database-multi-tenancy-in-the-cloud-and-beyond/)。然而，今天我想集中讨论计算和资源隔离方面。
 
-[![Multiple consumers](../Images/fa4d9b4c4d7f908f12744e24dc71ece9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h993OPY4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gwg9bh5wb4i70rghwzlh.jpg)
+[![Multiple consumers](img/fa4d9b4c4d7f908f12744e24dc71ece9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h993OPY4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gwg9bh5wb4i70rghwzlh.jpg)
 
 ## 受控资源使用情况
 

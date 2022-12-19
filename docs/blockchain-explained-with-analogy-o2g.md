@@ -16,21 +16,21 @@
 
 作为名单的负责人，我会在名单的最上面给出一些注释，并插入我的名字和索引编号。
 
-[![image.png](../Images/cf31e3d70e32c9097c19570027fb281e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X1hfWHWS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.hashnode.com/res/hashnode/image/upload/v1626770796342/4zk2D_8Pw.png)
+[![image.png](img/cf31e3d70e32c9097c19570027fb281e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X1hfWHWS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.hashnode.com/res/hashnode/image/upload/v1626770796342/4zk2D_8Pw.png)
 
 如你所见，列表开始时只有我的名字和一些关于我想购买多少本带索引的书的细节。
 
 如果有人想买，他会通过复制以前的清单来“更新”清单，并在清单上加上他的名字。
 
-[![image.png](../Images/fd75df2b92d5b375500b199f1a8b45ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_h27tzz8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.hashnode.com/res/hashnode/image/upload/v1626770850014/KviXfK8VW.png)
+[![image.png](img/fd75df2b92d5b375500b199f1a8b45ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_h27tzz8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.hashnode.com/res/hashnode/image/upload/v1626770850014/KviXfK8VW.png)
 
 现在想象一下，在一个给定的时间，有 3 个人“更新”这个列表，并拿出 3 个不同的版本。
 
-版本 1 -来自 Irfan [![image.png](../Images/c2cddb885d9ba254b8a1c8b130a80683.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--67o8Yr4q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.hashnode.com/res/hashnode/image/upload/v1626770904257/DAK5TbvXD.png)
+版本 1 -来自 Irfan [![image.png](img/c2cddb885d9ba254b8a1c8b130a80683.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--67o8Yr4q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.hashnode.com/res/hashnode/image/upload/v1626770904257/DAK5TbvXD.png)
 
-版本 2——出自库马尔 [![image.png](../Images/0e2fb313b4eab0c05f52fce9ce189e1b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ovv27ZIT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.hashnode.com/res/hashnode/image/upload/v1626770940181/XlV37LOGO.png)
+版本 2——出自库马尔 [![image.png](img/0e2fb313b4eab0c05f52fce9ce189e1b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ovv27ZIT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.hashnode.com/res/hashnode/image/upload/v1626770940181/XlV37LOGO.png)
 
-版本 3——来自杰森 [![image.png](../Images/ab272c2d3131d2b3efa6410b2d4f5bc9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RLQuQjtO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.hashnode.com/res/hashnode/image/upload/v1626770997713/KpwC-v3a8.png)
+版本 3——来自杰森 [![image.png](img/ab272c2d3131d2b3efa6410b2d4f5bc9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RLQuQjtO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.hashnode.com/res/hashnode/image/upload/v1626770997713/KpwC-v3a8.png)
 
 这就是问题发生的地方；
 

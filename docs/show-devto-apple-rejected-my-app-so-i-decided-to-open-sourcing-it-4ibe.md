@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/thiagoricieri/show-devto-apple-rejected-my-app-so-i-decided-to-open-sourcing-it-4ibe>
 
-[![Emojilist project sample screens](../Images/dcf0f42522f8b2cbbd4bfcae5456fc13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IjJtBJaO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thiago.ricieri.com/assets/posts/2018/mojilist-screens.jpg)
+[![Emojilist project sample screens](img/dcf0f42522f8b2cbbd4bfcae5456fc13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IjJtBJaO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thiago.ricieri.com/assets/posts/2018/mojilist-screens.jpg)
 
 *最初发布于[我的博客](https://thiago.ricieri.com/open-sourcing-my-latest-ios-app)。遵循“展示 HN”的相同理念，这篇文章旨在向开发者社区传播信息。*
 
@@ -44,7 +44,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 一切都很好，我很高兴发布，我生成了所需的截图，我已经将二进制文件发送给苹果公司进行审查。令我惊讶的是，这款应用因为使用表情符号而被拒绝:
 
-[![Answer from Apple (1)](../Images/e7974e398e2e340604fe5d8794053887.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7v_iKop6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thiago.ricieri.com/assets/posts/2018/apple-answer1.png) 
+[![Answer from Apple (1)](img/e7974e398e2e340604fe5d8794053887.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7v_iKop6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thiago.ricieri.com/assets/posts/2018/apple-answer1.png) 
 
 <figure>
 
@@ -54,7 +54,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 </figure>
 
-[![Answer from Apple (1)](../Images/513a9d66c281f01f6c3bb2fba775d74e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bEmuhdDR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thiago.ricieri.com/assets/posts/2018/apple-answer2.png) 
+[![Answer from Apple (1)](img/513a9d66c281f01f6c3bb2fba775d74e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bEmuhdDR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thiago.ricieri.com/assets/posts/2018/apple-answer2.png) 
 
 <figure>
 

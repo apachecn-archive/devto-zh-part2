@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/datamatin/all-you-need-for-working-with-python-3-on-a-mac-2j7b>
 
-[![](../Images/7abbb49daa691f0ce45723051bbb36ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fMCRF5X9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AFyEkUvuwlT7IGHVtmD9sjA.png)
+[![](img/7abbb49daa691f0ce45723051bbb36ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fMCRF5X9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AFyEkUvuwlT7IGHVtmD9sjA.png)
 
 为了澄清关于在新 Mac 上开始使用 Python 3 的功能设置的任何困惑，这里有一个快速(最简单)的指南。
 
@@ -10,11 +10,11 @@
 
 去[官网](https://www.python.org/downloads/)从那里下载 Python。是的——既然你问了——**一定要最新版本的**(有闪亮黄色按钮的那个):
 
-[![](../Images/c554ee5c34fa31f1abd210d66cf8021d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QxGTHEy2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AX5oLo0KLz4XZ6YQc9y5psA.png)
+[![](img/c554ee5c34fa31f1abd210d66cf8021d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QxGTHEy2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AX5oLo0KLz4XZ6YQc9y5psA.png)
 
 执行安装程序并逐步完成所需的步骤…
 
-<figure>[![](../Images/3969f7df1bea1a922d5c779a772ce300.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ttPoRE7l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/549/1%2A3Q0aCaGwIIZvZjo5lwCSDg.png) 
+<figure>[![](img/3969f7df1bea1a922d5c779a772ce300.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ttPoRE7l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/549/1%2A3Q0aCaGwIIZvZjo5lwCSDg.png) 
 
 <figcaption>(比那容易)</figcaption>
 
@@ -68,7 +68,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 > 在 Git 网站[http://git-scm.com/download/mac](http://git-scm.com/download/mac)有一个 macOS Git 安装程序可供下载。
 
-[![](../Images/0736d24ac701271dfcc4a998d338bc37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JUtNo1F0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ADseohaM183bB7_Zh)
+[![](img/0736d24ac701271dfcc4a998d338bc37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JUtNo1F0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ADseohaM183bB7_Zh)
 
 > 你成功了！干得好！现在，为了让你开心，这里有一个在教程中经常提到的关于如何开始的步骤列表，但是在我看来，它们只会使基本的设置变得复杂。
 
@@ -90,7 +90,7 @@ Anaconda 是一个伟大的数据分析工具，然而，它和[一起带来了�
 
 > 如果您使用的是从[python.org](https://www.python.org/)下载的 Python 2 >=2.7.9 或 Python 3 >=3.4，则已经安装了 pip
 
-[![](../Images/358286873646f8f16faa9c4b1ca493e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JUkgquWo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AIauQ9ox4OojpggX1sHwGjA.png)
+[![](img/358286873646f8f16faa9c4b1ca493e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JUkgquWo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AIauQ9ox4OojpggX1sHwGjA.png)
 
 #### +/-有用教程
 

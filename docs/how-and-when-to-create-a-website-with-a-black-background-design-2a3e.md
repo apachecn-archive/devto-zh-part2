@@ -10,9 +10,9 @@
 
 所以，事不宜迟，让我们进一步探索一下这个暗物质吧！
 
-[![Black background design example - Mac Pro web presentation](../Images/4ee9b80c323b5ee20183a1f05839e62d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gtzbrU_B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/b0068d8941dd6aefade1729d2921b306/mac-pro-black.png)
+[![Black background design example - Mac Pro web presentation](img/4ee9b80c323b5ee20183a1f05839e62d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gtzbrU_B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/b0068d8941dd6aefade1729d2921b306/mac-pro-black.png)
 
-[![Black background design example - Formiragi company](../Images/d3caacf653ca5cf78a9e38186ca3dadc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4-5sLpYi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/372e8ff5019cb83f80ce36f72720e8bc/formigari-black.png)
+[![Black background design example - Formiragi company](img/d3caacf653ca5cf78a9e38186ca3dadc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4-5sLpYi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/372e8ff5019cb83f80ce36f72720e8bc/formigari-black.png)
 
 ## 一点关于黑色背景的设计
 
@@ -24,9 +24,9 @@
 
 另一方面，黑色是所有颜色中“最重”的颜色，正因为如此，我们很难突出其他元素。然而，你可以做的是使用黑色来强调其他内容。您可能已经注意到，黑色背景的元素看起来总是较小。这种感觉是由黑色对 peopleーwe 人的心理影响引起的，他们倾向于认为黑色是没有颜色的，但却有潜在的东西在里面。
 
-[![Black background design example - Upper application presentation](../Images/02355461b2f1cdf92b663a1a7d0fa4ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ehjlHF9v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/60380fd0c3956b7d4e38981d22767bc4/uppertodo-black.png)
+[![Black background design example - Upper application presentation](img/02355461b2f1cdf92b663a1a7d0fa4ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ehjlHF9v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/60380fd0c3956b7d4e38981d22767bc4/uppertodo-black.png)
 
-[![Black background design example - Spotify application](../Images/93f66c911cd08b19de778114c137948c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jwXx0cEH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/aeabbaa11704e1a0754250f82992f7d4/Spotify_-_Albums.jpg)
+[![Black background design example - Spotify application](img/93f66c911cd08b19de778114c137948c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jwXx0cEH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/aeabbaa11704e1a0754250f82992f7d4/Spotify_-_Albums.jpg)
 
 深色背景下最大的用户体验问题仍然是可读性，当我们使用深色背景时，可读性会明显下降——这不仅是因为我们的眼睛更难注意到颜色差异，也是因为屏幕光线使白色发光。
 
@@ -58,15 +58,15 @@
 *   **独家产品展示，**
 *   **非常规内容。**
 
-[![Black background portfolio design example](../Images/d9904ee4ddf25f3d9959056bbfccdb07.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OG9JgXDw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/cdb1f41e3085fdda4a08b6c558360142/culture-black.png)
+[![Black background portfolio design example](img/d9904ee4ddf25f3d9959056bbfccdb07.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OG9JgXDw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/cdb1f41e3085fdda4a08b6c558360142/culture-black.png)
 
-[![Black background exclusive product presentations example](../Images/5de1ad7e0c0d7352cea65611d9ac7865.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OgDDo9IB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/a5cabd24dc66bd27f67929341a2a845c/ninja-black.png)
+[![Black background exclusive product presentations example](img/5de1ad7e0c0d7352cea65611d9ac7865.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OgDDo9IB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/a5cabd24dc66bd27f67929341a2a845c/ninja-black.png)
 
-[![Black background design, design studio website example](../Images/79f676cb2619675aff21ada0943f378d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DXlpNgPI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/9278f8d1c81f59f93be899562d322ad7/doberman-black.png)
+[![Black background design, design studio website example](img/79f676cb2619675aff21ada0943f378d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DXlpNgPI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/9278f8d1c81f59f93be899562d322ad7/doberman-black.png)
 
-[![Black background exclusive product presentations example](../Images/5b10de031e5384a9029143ef0970fab3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--17W2xCHJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/715daaaa2e460a11b1a508942f9f3d5d/tramontin-black.png)
+[![Black background exclusive product presentations example](img/5b10de031e5384a9029143ef0970fab3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--17W2xCHJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/715daaaa2e460a11b1a508942f9f3d5d/tramontin-black.png)
 
-[![Black background design, unconventional content example](../Images/3d1033efb57d4e9e0286772117e032f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nn0uz_bh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/d501d5bcb535727af55ecd4962427580/20jahre-black.png)
+[![Black background design, unconventional content example](img/3d1033efb57d4e9e0286772117e032f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nn0uz_bh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/d501d5bcb535727af55ecd4962427580/20jahre-black.png)
 
 ## 黑色在设计中的运用技巧
 
@@ -82,7 +82,7 @@
 
 另一个问题在于，夜间模式使用的正是这种“有问题”的布局(黑色背景布局)。每一个用于在黑暗环境中优化的浏览器扩展和工具都为你提供了使用深色背景和白色文本的选项。此外，如果在应用程序中有一个改变周围颜色的选项，总是有黑色背景选项。
 
-[![Black background design, color surrounding example](../Images/e2a1d3da05c34f1b03eb9883ae12541d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SM3H5NwQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/b3519d6a2566b5d562696fc6999760e6/unnamed.gif)
+[![Black background design, color surrounding example](img/e2a1d3da05c34f1b03eb9883ae12541d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SM3H5NwQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/b3519d6a2566b5d562696fc6999760e6/unnamed.gif)
 
 ## 可以一直使用黑色背景的场合
 
@@ -93,13 +93,13 @@
 *   **评论，**
 *   **弹出窗口。**
 
-[![Black background design, black emphasized sections example](../Images/06244b9b89bcc0694ec4ca8b4f06fb17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DcV8Xzqj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/2aa57683e7134cc8b23250023b29560c/ouiwill-black.png)
+[![Black background design, black emphasized sections example](img/06244b9b89bcc0694ec4ca8b4f06fb17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DcV8Xzqj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/2aa57683e7134cc8b23250023b29560c/ouiwill-black.png)
 
-[![Black background design, black header and footer example](../Images/776cb4c5fc2d500f8ce8a1ad2108f887.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HBkJPutO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/917ff641ec3851f0858bd29db2860bdd/strv-black.png)
+[![Black background design, black header and footer example](img/776cb4c5fc2d500f8ce8a1ad2108f887.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HBkJPutO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/917ff641ec3851f0858bd29db2860bdd/strv-black.png)
 
-[![Black background design, black pop up example](../Images/edb4b483287e7621fde8959a38952793.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IfZAB8OM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/4326a7b821baef0f6b6d5d0ff5be2922/over-black.png)
+[![Black background design, black pop up example](img/edb4b483287e7621fde8959a38952793.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IfZAB8OM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/4326a7b821baef0f6b6d5d0ff5be2922/over-black.png)
 
-[![Black background design, black navigation example](../Images/097d751d573e50d1f4de186d80acc0a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r0xRHvNb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/45c15a2d5577dfe1de1956343e51d471/envoy-black.png)
+[![Black background design, black navigation example](img/097d751d573e50d1f4de186d80acc0a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r0xRHvNb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/45c15a2d5577dfe1de1956343e51d471/envoy-black.png)
 
 记得我说过在设计中，强调起着巨大的作用，黑色真的可以帮助你强调对吗？页眉中的黑色背景并不常见，但也并不完全令人惊讶。页脚也可以更深，因为页眉和页脚都象征着网站内容的边缘，把它们涂成更深的颜色会更方便用户。
 

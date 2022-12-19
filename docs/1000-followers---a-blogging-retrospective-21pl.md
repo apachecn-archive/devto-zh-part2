@@ -55,7 +55,7 @@
 
 ## 最长系列
 
-[![frosnerd](../Images/002ddb6873ad040b9a1603b02a4f8c5a.png)](/frosnerd) [## 基础设施作为代码——用 Terraform 管理 AWS
+[![frosnerd](img/002ddb6873ad040b9a1603b02a4f8c5a.png)](/frosnerd) [## 基础设施作为代码——用 Terraform 管理 AWS
 
 ### 弗兰克·罗斯纳 6 月 4 日 1810 分钟阅读
 
@@ -65,7 +65,7 @@
 
 ## 最受欢迎系列
 
-[![frosnerd](../Images/002ddb6873ad040b9a1603b02a4f8c5a.png)](/frosnerd) [## 读取有效的数据结构
+[![frosnerd](img/002ddb6873ad040b9a1603b02a4f8c5a.png)](/frosnerd) [## 读取有效的数据结构
 
 ### 弗兰克·罗斯纳 4 月 29 日 18 时 15 分阅读
 
@@ -75,7 +75,7 @@
 
 ## 最多阅读列表新增内容
 
-[![frosnerd](../Images/002ddb6873ad040b9a1603b02a4f8c5a.png)](/frosnerd) [## 再打我一次宝贝-什么是缓存命中，为什么你应该关心？
+[![frosnerd](img/002ddb6873ad040b9a1603b02a4f8c5a.png)](/frosnerd) [## 再打我一次宝贝-什么是缓存命中，为什么你应该关心？
 
 ### 弗兰克·罗斯纳 4 月 5 日 1810 分钟阅读
 
@@ -85,7 +85,7 @@
 
 ## 第一篇对外展示的帖子
 
-[![frosnerd](../Images/002ddb6873ad040b9a1603b02a4f8c5a.png)](/frosnerd) [## 关于 Scala 和它的标准库，我不知道的是
+[![frosnerd](img/002ddb6873ad040b9a1603b02a4f8c5a.png)](/frosnerd) [## 关于 Scala 和它的标准库，我不知道的是
 
 ### 弗兰克·罗斯纳 11 月 30 日 178 分钟阅读
 

@@ -39,7 +39,7 @@
 
 好的，所有的先决条件都搞定了吗？让我们深入一些代码。如果你愿意跟随我的开源代码，你可以从我的 GitHub 中获取这个库。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [ kylegalbraith ](https://github.com/kylegalbraith) / [快讯-自动化](https://github.com/kylegalbraith/newsletter-automation)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [ kylegalbraith ](https://github.com/kylegalbraith) / [快讯-自动化](https://github.com/kylegalbraith/newsletter-automation)
 
 ### 一个 AWS Lambda 函数，在 CRON 时间表上运行，从 Google 工作表中获取内容，并生成一个新的 MailChimp 活动。在这里阅读详细的博文-> https://dev . to/Kyle Galbraith/automating-my-newsletter-generation-with-mailchimp-Google-sheets-and-AWS-lambda-1n 11
 
@@ -201,7 +201,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这就是我们自动化时事通讯生成的抽象。我们从 Google 工作表中加载新闻简报每个部分的数据，布局如下。
 
-[![Learn By Doing Newsletter Google Sheet](../Images/b3a040a4da307e463b2e3b04a236c78c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TqNoAon4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bfjz978bire7ujhmszr9.PNG)
+[![Learn By Doing Newsletter Google Sheet](img/b3a040a4da307e463b2e3b04a236c78c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TqNoAon4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bfjz978bire7ujhmszr9.PNG)
 
 如果我们深入到`SheetRepository.loadLatestSheet()`中，我们会看到它正在解析这个 Google 工作表中的行，并将它们作为一个对象数组返回。
 

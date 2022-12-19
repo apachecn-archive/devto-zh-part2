@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/alshakero/my-thoughts-on-working-remotely-one-year-in-1n2b>
 
-[![Barefoot to the Moon album cover by Echoes](../Images/4c6716c32f48622f64a2a09bb666d335.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hjqee0bO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dnyolqqadazerc7zksv5.jpeg)
+[![Barefoot to the Moon album cover by Echoes](img/4c6716c32f48622f64a2a09bb666d335.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hjqee0bO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dnyolqqadazerc7zksv5.jpeg)
 
 ## 一点介绍
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/joelnet/functional-javascript---functors-monads-and-promises-1pol>
 
-[![Person holding a box wrapped in ribbon](../Images/228f1c123c241f2ce9c680e04e7218a6.png)T2】](https://www.pexels.com/photo/person-s-holds-brown-gift-box-842876)
+[![Person holding a box wrapped in ribbon](img/228f1c123c241f2ce9c680e04e7218a6.png)T2】](https://www.pexels.com/photo/person-s-holds-brown-gift-box-842876)
 
 有人说过一个`Promise`就是一个`Monad`。别人都说一个`Promise`不是一个`Monad`。他们都错了...他们都是对的。
 
@@ -38,7 +38,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 # 类别、对象和贴图(态射)
 
-[![Category theory triangle](../Images/ba6b27ccbe469de3479095f7619c8cb2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--02fAcpEn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/odihwyfbo86x93917533.png)
+[![Category theory triangle](img/ba6b27ccbe469de3479095f7619c8cb2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--02fAcpEn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/odihwyfbo86x93917533.png)
 
 一个`category`由节点(对象)和态射(函数)的集合组成。一个对象可以是数字、字符串、URL、客户，或者任何其他你想组织的东西。(图中的 X、Y 和 Z 是对象。)
 
@@ -132,7 +132,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 那是一个`Functor`！真的就这么简单。
 
-[![Thing 1 and Thing 2 from Dr Seuse](../Images/ba7732b3543b4925e282e39cd171bb07.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0MLlO7mE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s5zz0ecd5opxfcxp7nj0.jpg)
+[![Thing 1 and Thing 2 from Dr Seuse](img/ba7732b3543b4925e282e39cd171bb07.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0MLlO7mE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s5zz0ecd5opxfcxp7nj0.jpg)
 
 🔍谷歌提示:我们创造的`"Thing"` `Functor`被称为`Identity`。
 
@@ -264,4 +264,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 感谢我的好友 Joon 证明了这一点:)
 
-[![Cheers!](../Images/661c03d25961a6e3b1ecbe00d148b35a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PqqJmrxK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6jsy3a866frzp3u5oda0.jpg)
+[![Cheers!](img/661c03d25961a6e3b1ecbe00d148b35a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PqqJmrxK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6jsy3a866frzp3u5oda0.jpg)

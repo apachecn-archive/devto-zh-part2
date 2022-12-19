@@ -4,7 +4,7 @@
 
 众所周知，世界已经移动化。拥有一个在线业务和一个业务应用程序是成功的标志。在当今世界，拥有一款适用于任何业务的移动应用就像呼吸一样重要。智能手机已经成为个人和专业使用频率最高的设备。Android 和 iOS 是应用程序开发领域的两大平台。Android 和 iOS 都有自己的优势，但有时人们会搞不清楚哪个平台对他们的业务更有利。你应该首先在 iOS 上启动你的商务应用的理由很少:
 
-[![](../Images/c7de542d3c586b8a8fce4251d425881a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ct-wI63d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AAf_3vIpe3PkB38O8BBDmJQ.jpeg)
+[![](img/c7de542d3c586b8a8fce4251d425881a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ct-wI63d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AAf_3vIpe3PkB38O8BBDmJQ.jpeg)
 
 **1。获得更多付款:**
 

@@ -30,11 +30,11 @@
 
 在 LINE Developer portal 中创建消息传递 API 通道，并获取通道和令牌密钥。
 
-[![](../Images/cf1e0086a0322c1353aa2158fddd80c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zhzKSUwb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/d63d4afe-08e3-e383-bd53-111dee845ea3.png)
+[![](img/cf1e0086a0322c1353aa2158fddd80c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zhzKSUwb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/d63d4afe-08e3-e383-bd53-111dee845ea3.png)
 
 请复制并保留“您的用户 ID”。
 
-[![](../Images/2780667e6bf0c89355509f40e984b2c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hCOMS1C3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/fd5fb84a-e0e8-556d-d1bd-f048f8dfaa51.png)
+[![](img/2780667e6bf0c89355509f40e984b2c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hCOMS1C3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/fd5fb84a-e0e8-556d-d1bd-f048f8dfaa51.png)
 
 ### 在 Azure 门户中创建 WebApps
 
@@ -42,7 +42,7 @@
 
 1.安装、 [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest) ,也可以在 [Azure 门户](https://portal.azure.com)上使用“云壳”。
 
-[![](../Images/6d15e1e860abdb91bf33a0dd1ba22ba1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6hz9PBm_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/7287ecb7-702d-e17d-351c-2304ccf2bc20.png)
+[![](img/6d15e1e860abdb91bf33a0dd1ba22ba1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6hz9PBm_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/7287ecb7-702d-e17d-351c-2304ccf2bc20.png)
 
 2.如果使用 Cloud Shall，请跳到步骤 4。否则，请按照步骤登录。
 
@@ -104,7 +104,7 @@ liff add https://linecorp.com/en/ tall
 
 4.获取 LIFF ID 和可访问的 URL。
 
-[![](../Images/c1ec5336566ca787013053c5d98243ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M4ydSsGu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/a9469abf-dcba-5d16-cb43-52982a003b35.png)
+[![](img/c1ec5336566ca787013053c5d98243ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M4ydSsGu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/a9469abf-dcba-5d16-cb43-52982a003b35.png)
 
 5.现在，使用“liff send”命令发送地址，或者你甚至可以通过线路发送给你的朋友。它在机器人之外也能工作。
 
@@ -112,7 +112,7 @@ liff add https://linecorp.com/en/ tall
 liff send <LIFF ID> <User ID> 
 ```
 
-[![](../Images/8eddc8a172de8d0bf2e592bea9d6dac0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wBQfNZ_a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/dc22e480-0369-1981-ffb8-63b323c02a74.png)
+[![](img/8eddc8a172de8d0bf2e592bea9d6dac0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wBQfNZ_a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/dc22e480-0369-1981-ffb8-63b323c02a74.png)
 
 # 开发 LIFF 应用
 
@@ -130,7 +130,7 @@ code .
 
 2.创造 index.html。
 
-[![image.png](../Images/ace57e054e0aa596bd2f2e24eae6d8af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_7aEP78Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/865c2a24-cbe8-ba88-7dfc-2e37a081984c.png)
+[![image.png](img/ace57e054e0aa596bd2f2e24eae6d8af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_7aEP78Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/865c2a24-cbe8-ba88-7dfc-2e37a081984c.png)
 
 3.将下面的代码复制并粘贴到 index.html。
 
@@ -239,7 +239,7 @@ liff add <WebApps address> tall
 
 6.现在你可以用 LIFF 地址来测试。确保你有自己的用户名和语言。
 
-[![](../Images/5d2847cc61888583d1efcc0edd90b686.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EjZdW6-j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/75a77a89-fc54-2a99-6dfc-d1d6e670925f.png)
+[![](img/5d2847cc61888583d1efcc0edd90b686.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EjZdW6-j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/75a77a89-fc54-2a99-6dfc-d1d6e670925f.png)
 
 ### 获取用户资料
 
@@ -366,7 +366,7 @@ git push origin master
 
 4.由于 LIFF 应用程序地址根本没有改变，只需重新打开页面来确认行为。
 
-[![](../Images/e5ed7b4650f33d9e8fa1ba3a0bb4a545.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2rBhzAYl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/e0c6842e-e492-3119-9921-23a6afb300d9.png)
+[![](img/e5ed7b4650f33d9e8fa1ba3a0bb4a545.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2rBhzAYl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/e0c6842e-e492-3119-9921-23a6afb300d9.png)
 
 ### 发自 LIFF 的消息
 
@@ -515,11 +515,11 @@ git push origin master
 
 4.使用相同的 LIFF 地址来确认行为。
 
-[![](../Images/9a0b2d040895a8bf36126d6445b6afdb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rVDpA3Zy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/39f5d489-9d11-47d5-2659-60eab4aae102.png)
+[![](img/9a0b2d040895a8bf36126d6445b6afdb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rVDpA3Zy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/39f5d489-9d11-47d5-2659-60eab4aae102.png)
 
-[![](../Images/7448d45df5b4d15a858a6b0c6ad06252.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qD6r-dLI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/01f3b06f-c013-3755-3653-5205547c1ad4.png)
+[![](img/7448d45df5b4d15a858a6b0c6ad06252.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qD6r-dLI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/01f3b06f-c013-3755-3653-5205547c1ad4.png)
 
-[![](../Images/d692925e548d41004d2c006255027b57.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ke_3aeWL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/66f8228b-69ce-a59c-585c-0f94d216f931.png)
+[![](img/d692925e548d41004d2c006255027b57.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ke_3aeWL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/214116/66f8228b-69ce-a59c-585c-0f94d216f931.png)
 
 ### 从 LIFF 打开新窗口
 

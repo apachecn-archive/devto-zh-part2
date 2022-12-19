@@ -6,7 +6,7 @@
 
 对于那些已经启动或计划启动下一个创业项目的人，我创建了一个由 50 多个平台组成的[列表，你可以用来免费推广你的下一个项目](https://github.com/trekhleb/promote-your-next-startup)。
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)/[促进你的下一次创业](https://github.com/trekhleb/promote-your-next-startup)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)/[促进你的下一次创业](https://github.com/trekhleb/promote-your-next-startup)
 
 ### 🚀免费资源，你可以用来促进你的下一次创业
 
@@ -18,7 +18,7 @@
 
 > 主要的广告渠道当然是**爱上你产品的人**他们的分享活动就是最好的广告。因此，主要的想法是创造对最终用户有用、可用和有吸引力的产品。只有在那之后，传播你所做的事情才有意义。
 
-[![Spread the Word](../Images/e2d17ca5c06e73aaa16b2ea54b445f3f.png)T2】](https://raw.githubusercontent.com/trekhleb/promote-your-next-startup/master/assets/spread-the-word.jpg)
+[![Spread the Word](img/e2d17ca5c06e73aaa16b2ea54b445f3f.png)T2】](https://raw.githubusercontent.com/trekhleb/promote-your-next-startup/master/assets/spread-the-word.jpg)
 
 ## 发布新闻
 

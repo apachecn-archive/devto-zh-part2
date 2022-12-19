@@ -31,7 +31,7 @@
 
 # 有时候，我们所需要的只是一场大溃败
 
-[![Wipeout](../Images/bb1d464bc1cc8f496fefc7981648b444.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vmOj115B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eethv98dxi8z6a3dwc53.jpg) 
+[![Wipeout](img/bb1d464bc1cc8f496fefc7981648b444.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vmOj115B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eethv98dxi8z6a3dwc53.jpg) 
 面对现实吧:
 
 *   我们没有使用 90 %的东西
@@ -46,7 +46,7 @@
 
 你有没有梦想过住在 Airbnb 的图片里？它们通常拥有明亮整洁的内部空间。
 
-[![My Airbnb](../Images/c943de34f97a895fe8c8fa6f1623419c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5v4zkSul--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tt66j5y21zybbgxs611b.jpg)
+[![My Airbnb](img/c943de34f97a895fe8c8fa6f1623419c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5v4zkSul--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tt66j5y21zybbgxs611b.jpg)
 
 走极端一点，[史蒂夫·乔布斯的房子是空的](http://www.ambersellsre.com/cultivating-south-florida-home-interior-steve-jobs-modern-house-zen-design/)。
 

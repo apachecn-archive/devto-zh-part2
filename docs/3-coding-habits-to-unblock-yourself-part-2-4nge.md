@@ -33,7 +33,7 @@
 
 举例。
 
-[![Alt text of image](../Images/0ea0d113fdce39e40b28f8a4d948f310.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AbXtCNIq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s8qgzvublwiiwhofhn6n.JPG)
+[![Alt text of image](img/0ea0d113fdce39e40b28f8a4d948f310.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AbXtCNIq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s8qgzvublwiiwhofhn6n.JPG)
 
 *映射方法只能用于数组而不能用于对象*
 

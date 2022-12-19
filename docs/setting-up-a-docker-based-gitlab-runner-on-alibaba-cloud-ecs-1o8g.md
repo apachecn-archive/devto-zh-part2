@@ -31,7 +31,7 @@ Gitlab 提供了几个惊人的特性，其中之一是它使用 GitlabCI 的持
 
 我们之前安装的`gitlab-runner`带有用于注册的交互式 CLI 工具，但是为了获得所需的信息，我们需要访问我们的目标 gitlab 项目，即我们希望在 ECS 实例上构建的项目。因此，请访问您项目的 CI 设置页面，它应该位于`https://gitlab.com/{gitlab-username}/{project-name}/settings/ci_cd`(我们假设它位于 gitlab.com)，并扩展“跑步者”部分。注意页面上的 URL 和注册令牌(显示在下面的扩展中),因为我们很快就会用到它们。
 
-[![runner-setting-expand](../Images/37c066b53f897b4f83b3d5b98fb402d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cl3HBrKN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0lcf7jbvewfm2ozfxzcw.png)
+[![runner-setting-expand](img/37c066b53f897b4f83b3d5b98fb402d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cl3HBrKN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0lcf7jbvewfm2ozfxzcw.png)
 
 回到我们的 SSH 连接，运行:
 `sudo gitlab-runner register`，您将看到几个提示，这里是每个提示的一个小分类:

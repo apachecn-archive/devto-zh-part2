@@ -8,7 +8,7 @@
 
 简单智能模块化编程语言和环境
 当前版本:0.3.213
-[![simple-repl](../Images/78d14b2596d744b5c60d9caaba132fa6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SmcL1bUo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/qx5bbc3.png)
+[![simple-repl](img/78d14b2596d744b5c60d9caaba132fa6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SmcL1bUo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/qx5bbc3.png)
 
 ### 讲述简单
 

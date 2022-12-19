@@ -3,7 +3,7 @@
 > 原文：<https://dev.to/grigorkh/what-is-serverless-31ic>
 
 原载于[中](https://medium.com/devgorilla/what-is-serverless-12daeadb6ff5)
-[![](../Images/594861a6350b2ac9b33b25a833810eb5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--y8pkSaNj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Aje_XATjze24uE4ByR-eYpg.png)
+[![](img/594861a6350b2ac9b33b25a833810eb5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--y8pkSaNj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2Aje_XATjze24uE4ByR-eYpg.png)
 
 尽管云彻底改变了我们管理应用程序的方式，但许多公司仍然从服务器的角度来看待他们的系统，即使他们不再使用物理服务器。如果您将服务器的概念从等式中去掉，并开始将基于云的应用程序视为工作流、分布式逻辑和外部管理的数据存储，会怎么样？该报告研究了新的**无服务器**运营方法。
 

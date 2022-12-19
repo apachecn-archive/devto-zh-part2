@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/puritanic/shellscripting-27bl>
 
-[![Semi random image](../Images/c50aff2132b9f071504b3474a43e4439.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tstJ4oxx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z5a2a7yzn0pmc10w703n.jpg)
+[![Semi random image](img/c50aff2132b9f071504b3474a43e4439.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tstJ4oxx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z5a2a7yzn0pmc10w703n.jpg)
 
 ## **变量和设帮**
 

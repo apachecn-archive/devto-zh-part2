@@ -8,7 +8,7 @@
 
 <figure>
 
-[![some of the stickers at o11ycon](../Images/6c74c224737234ccf72e3c494f330a78.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y3feBR1W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oosyob1kkhrtlb8v6zhn.jpg)
+[![some of the stickers at o11ycon](img/6c74c224737234ccf72e3c494f330a78.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y3feBR1W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/oosyob1kkhrtlb8v6zhn.jpg)
 
 <figcaption>Come for the talks, stay for the stickers</figcaption>
 
@@ -18,7 +18,7 @@
 
 ## **慈善专业**
 
-[![charity speaking](../Images/20d4ac9363fbf6d75cc28bcb1d658567.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_ix_opdm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4oa55fjzabmc9cg4cm0s.jpg)
+[![charity speaking](img/20d4ac9363fbf6d75cc28bcb1d658567.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_ix_opdm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4oa55fjzabmc9cg4cm0s.jpg)
 
 我们与 Honeycomb 的联合创始人兼首席执行官 Charity Majors 一起开始了这一天。如果你熟悉 Twitter 上的 [Charity](https://www.twitter.com/mipsytipsy) ，你就会知道，我说她(可能)在舞台上的 15 分钟充满了智慧和笑声，一点也不夸张。
 
@@ -34,7 +34,7 @@ Charity 还提到了这样一个事实，即可观察性，甚至在某些情况
 
 <figure>
 
-[![Christine Spang speaking](../Images/204b82bbc17d06203dd68162cb285040.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1dBJ8vxU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ie8oajb19f5qb5b0kl3p.jpg)
+[![Christine Spang speaking](img/204b82bbc17d06203dd68162cb285040.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1dBJ8vxU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ie8oajb19f5qb5b0kl3p.jpg)
 
 <figcaption>Some of Nylas' Honeycomb graphs</figcaption>
 
@@ -58,7 +58,7 @@ Charity 还提到了这样一个事实，即可观察性，甚至在某些情况
 
 <figure>
 
-[![postit session](../Images/c6264f502386f8b1f05e78f89706db4c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--phXmVQrH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d0mw88zblwbh4nj864xh.png)
+[![postit session](img/c6264f502386f8b1f05e78f89706db4c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--phXmVQrH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d0mw88zblwbh4nj864xh.png)
 
 <figcaption>Attendees, including myself, submitting questions for discussion</figcaption>
 
@@ -72,7 +72,7 @@ Charity 还提到了这样一个事实，即可观察性，甚至在某些情况
 
 <figure>
 
-[![Dr. Alvaro](../Images/6241920ae6d195837f92d6c66dedeeaa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h5acUKAM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p1v9ir8r6v4fkwwp33rc.jpg)
+[![Dr. Alvaro](img/6241920ae6d195837f92d6c66dedeeaa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h5acUKAM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p1v9ir8r6v4fkwwp33rc.jpg)
 
 <figcaption>Dr. Alvaro dropping knowledge</figcaption>
 
@@ -103,7 +103,7 @@ Emily 的演讲，我将再次鼓励你们在 o11ycon.io 上收听，在我看�
 
 # 慈善 Pt。2 英尺。Joe Beda，首席技术官@ Heptio
 
-[![Charity & Joe](../Images/fd315bec19641ef49a1f015b6ef213c1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WQ9j8Lcd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c5mbrauiszmfw22ckoh7.jpg) 
+[![Charity & Joe](img/fd315bec19641ef49a1f015b6ef213c1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WQ9j8Lcd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c5mbrauiszmfw22ckoh7.jpg) 
 至此我放弃了:D 的任何一种叙事结构
 
 这些是我从这次演讲中得到的主要收获:
@@ -126,7 +126,7 @@ Emily 的演讲，我将再次鼓励你们在 o11ycon.io 上收听，在我看�
 
 老实说，在我的第二次分组会议上，我没有做笔记，但这是一次令人惊叹的讨论，产生了以下引文:
 
-> ![hideous kojima profile image](../Images/d68e67054d0b1989d8d6101c5b3b102e.png)暗害小岛[@ dango lant](https://dev.to/dangolant)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)“可观察性使科学-方法驱动开发成为可能”[@ o11 ycon](https://twitter.com/o11ycon)2018 年 8 月 22 日 22 点 31 分[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1025147082120650752)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1025147082120650752)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1025147082120650752)
+> ![hideous kojima profile image](img/d68e67054d0b1989d8d6101c5b3b102e.png)暗害小岛[@ dango lant](https://dev.to/dangolant)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)“可观察性使科学-方法驱动开发成为可能”[@ o11 ycon](https://twitter.com/o11ycon)2018 年 8 月 22 日 22 点 31 分[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1025147082120650752)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1025147082120650752)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1025147082120650752)
 
 本质上，我们谈到了开发和运营如何对管理层不愿意投资或允许投资工具感到失望，但这种感觉也以另一种方式运行，如果他们看不到商业价值，管理层就不愿投资，因此开发人员需要平衡自下而上的改进与游说自上而下的支持，并向业务角色推销可观察性工具的价值。在我看来，这归结为开发人员需要像 Tableau 这样的商业智能工具对于产品经理、分析师和销售人员一样强大的工具。这几乎没有捕捉到小组在一个美丽的阳光明媚的屋顶上的谈话，所以....明年去 O11ycon:)。
 
@@ -155,6 +155,6 @@ Emily 的演讲，我将再次鼓励你们在 o11ycon.io 上收听，在我看�
 *   dev 如何平衡数据和查询的及时性与数据量，我们以什么样的速率采样？
 *   可观察系统建立了一个抵御“警报疲劳”的壁垒，当你包含长尾事件的背景时，你可以监控的更少
 
-> ![hideous kojima profile image](../Images/d68e67054d0b1989d8d6101c5b3b102e.png)暗害小岛[@ dango lant](https://dev.to/dangolant)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)大外卖来自 [@o11ycon](https://twitter.com/o11ycon) :可观察系统缩小“神经编码”00:09AM-03 2018 年 8 月[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1025171643117780992)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1025171643117780992)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1025171643117780992)
+> ![hideous kojima profile image](img/d68e67054d0b1989d8d6101c5b3b102e.png)暗害小岛[@ dango lant](https://dev.to/dangolant)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)大外卖来自 [@o11ycon](https://twitter.com/o11ycon) :可观察系统缩小“神经编码”00:09AM-03 2018 年 8 月[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1025171643117780992)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1025171643117780992)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1025171643117780992)
 
 就这些了，这些是我在 O11ycon 的笔记和心得，有点充实，有点笨拙的解释，但至少写在纸上了。我会试着写得更频繁(我每次都这么说，但也许这次我是认真的)，所以如果你对我写的一些更仔细的东西感兴趣，请随意点击那个`Follow`按钮，在 [Twitter](https://twitter.com/dangolant) 上关注我。*

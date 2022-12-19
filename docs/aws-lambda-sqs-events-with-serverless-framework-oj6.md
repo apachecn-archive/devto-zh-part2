@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/piczmar_0/aws-lambda-sqs-events-with-serverless-framework-oj6>
 
-[![drawn with [cloudcraft.co](http://cloudcraft.co)](../Images/b5352c4ea3c2bb96d08ae0509dd046d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hf8cFAtD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rpe0jnb3fp10tzm4s1db.png)
+[![drawn with [cloudcraft.co](http://cloudcraft.co)](img/b5352c4ea3c2bb96d08ae0509dd046d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hf8cFAtD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rpe0jnb3fp10tzm4s1db.png)
 
 这篇文章最初发表于 [Cloudly。技术](https://cloudly.tech/blog/aws-lambda-sqs-trigger/)
 

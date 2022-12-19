@@ -9,7 +9,7 @@
 作为一名 iOS 开发者，我认为尝试将 Snapchat 的 Snapkit 功能添加到我正在开发的应用程序中会很有趣。
 
 Snapchat 在保持其平台相关性的竞赛中奋起直追，并希望软件开发商接受其工具。脸书和 Twitter 很早就有了应用程序开发包，以至于用脸书和 Twitter 登录应用程序已经很平常了。发布到这两个网站可能是成千上万个应用程序的内置功能。
-[![Snapkit options](../Images/44bb01c7d0af8fbf5b229bc835b1df2f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--C0EFyTZq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2ANNZQBVFov8g_H1pOWzQ7mw.png) 
+[![Snapkit options](img/44bb01c7d0af8fbf5b229bc835b1df2f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--C0EFyTZq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2ANNZQBVFov8g_H1pOWzQ7mw.png) 
 在对这些产品略知皮毛之后，我对 Snapchat 的文档和支持并不满意。
 
 ### 对好文档的热爱哦
@@ -21,7 +21,7 @@ Snapchat 在保持其平台相关性的竞赛中奋起直追，并希望软件�
 接下来，我想我会集成 Snapchat 登录。我的应用程序已经通过了谷歌、推特和脸书的认证(你看到 Snapchat 了吗……你需要让我大吃一惊才能进入游戏)
 
 下面是登录工具包文档中的一些说明
-[![info.plist instructions](../Images/27813cce1aeaf69c05a71c49d1837823.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--G7JuIfbD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2AzPAVeRhM0t-JEAwS9qhhLA.png) 
+[![info.plist instructions](img/27813cce1aeaf69c05a71c49d1837823.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--G7JuIfbD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2AzPAVeRhM0t-JEAwS9qhhLA.png) 
 这一行关于 SCSDKRedirectUrl 的内容令人难以置信
 
 *   scsdkredicturl(string):将处理和完成登录请求的 URL 必须是形式为 **foo://bar 的有效 URL 如果没有 bar** ，重定向将会失败
@@ -78,4 +78,4 @@ Enter fullscreen mode Exit fullscreen mode
 顺便说一下，Snapchat 支持不知道如何处理 Snapkit 请求。当我问他们是否是应该得到帮助的人时，当我读到他们的回答时，我不禁咯咯笑了起来..“我们需要进一步调查此事”
 
 是的，你会的！
-[![twitter response from snapchat](../Images/b933c9ec8c859dca5f0bab5929b5c893.png)T5】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bx2vUx-3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2AgCTL9i4szIqePqvcSfRr2g.png)
+[![twitter response from snapchat](img/b933c9ec8c859dca5f0bab5929b5c893.png)T5】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bx2vUx-3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2AgCTL9i4szIqePqvcSfRr2g.png)

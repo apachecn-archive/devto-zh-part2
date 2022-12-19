@@ -22,13 +22,13 @@ map()从原始数组中取出每个元素，用您指定的函数对其进行转
 
 假设有一座大家都喜欢爬的热门山，白山。(这基本上是我能想到的最老套的可徒步旅行的山的名字了)。
 
-[![](../Images/1210d3b9037c1b548f898f29b25102f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vYC-FFfw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2Ak1NzQQlDE_Y-KJxY.)
+[![](img/1210d3b9037c1b548f898f29b25102f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vYC-FFfw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2Ak1NzQQlDE_Y-KJxY.)
 
 当每个人爬山的时候，他们都会经历一个不同的转变。在底部，他们营养充足，水分充足，精力充沛。但是当徒步旅行者到达山顶时，他们已经饿了，脱水了，也累了。
 
 map 方法的工作方式相同。
 
-[![](../Images/1fdaf9d63eb90b3d83a2134dc468a29a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mpj0jKfq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AurXViUWL8hGsQBHZ.)
+[![](img/1fdaf9d63eb90b3d83a2134dc468a29a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mpj0jKfq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AurXViUWL8hGsQBHZ.)
 
 它接受每个元素，按照您指定的方式修改它，并将结果添加到第二个数组中。
 
@@ -66,7 +66,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 相反，我们可以使用 **map()方法**在三行代码和一半数量的变量中完成所有这些。
 
-[![](../Images/d4edeba408e08f2c71863aa3737cc4bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WWQRkVK2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AasyHfye69uDCyp4I.)
+[![](img/d4edeba408e08f2c71863aa3737cc4bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WWQRkVK2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AasyHfye69uDCyp4I.)
 
 下面是代码的样子:
 
@@ -84,7 +84,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 哇哦。一下子就很多了。下图显示了该代码块如何连接到上图。
 
-[![](../Images/db19f0622c3f8b234e341fe7956b4e46.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PXsSvg0k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2Axh5zyZRjtmKiM-1Y.)
+[![](img/db19f0622c3f8b234e341fe7956b4e46.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PXsSvg0k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2Axh5zyZRjtmKiM-1Y.)
 
 我猜还是一次很多？这里是对每一部分的解释，因为与 for 循环的逻辑相比，它有点混乱。
 
@@ -126,7 +126,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在这种情况下，map()方法将帮助我们存储每个项目的水值。
 
-[![](../Images/de2d8994f6180066fa8c93a5117a7b28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AMUDDdSV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AoXW3CnTyzlPb_jYS.)
+[![](img/de2d8994f6180066fa8c93a5117a7b28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AMUDDdSV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AoXW3CnTyzlPb_jYS.)
 
 我们只需要查看一个键/值对，并将值移动到一个新的数组中。
 
@@ -151,7 +151,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是可视化的版本。
 
-[![](../Images/b6b3c737a0fa3526a741183d11a780e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3Ptv43Ob--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AUJN01bOxjir9Aq3J.)
+[![](img/b6b3c737a0fa3526a741183d11a780e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3Ptv43Ob--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AUJN01bOxjir9Aq3J.)
 
 虽然这现在看起来很容易，但是当你有复杂的多维数组，并且你不想开始引入 for 循环时，它很快变得很重要。
 

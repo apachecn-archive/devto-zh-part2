@@ -4,7 +4,7 @@
 
 ### QlikHacks 2018 —渥太华黑客马拉松
 
-<figure>[![](../Images/20844e771c40e46e1cc92989e74c37d9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vjWQWOgE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWjbY1YbR-h4zDVZk9qsfaQ.png) 
+<figure>[![](img/20844e771c40e46e1cc92989e74c37d9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vjWQWOgE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AWjbY1YbR-h4zDVZk9qsfaQ.png) 
 
 <figcaption>我在渥太华的解码黑客马拉松</figcaption>
 

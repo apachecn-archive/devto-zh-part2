@@ -4,7 +4,7 @@
 
 这篇文章是我的文章《编程新手》的续篇，将会给你一个关于编程语言类型的概述，它们的目的，以及最后如何选择语言来学习。
 
-[![hepisec](../Images/3acf26df7cd1abc9258ac046a6059ec8.png)](/hepisec) [## 为该死的初学者编程
+[![hepisec](img/3acf26df7cd1abc9258ac046a6059ec8.png)](/hepisec) [## 为该死的初学者编程
 
 ### 和平证券 5 月 18 日 183 分钟读取
 
@@ -40,7 +40,7 @@
 
 在类型安全语言中，你的变量、函数参数和返回值是用某种类型声明的。这有助于计算机以高效的内存管理运行程序。有了类型安全，你就不容易出现某些类型的软件错误。但这是另一个增加复杂性的特征。为了选择正确的类型，您需要知道要存储在变量中的值的范围。例如，大多数语言具有不同的整数类型，在内存中具有不同的大小，因此可以存储不同范围的整数。通常整数类型有 8 位(称为一个字节)、16 位(小)、32 位(int)和 64 位(long)。在某些语言中，您可能还需要声明该类型是有符号的(支持负值)还是无符号的(仅支持正值)。由于符号(+或-)存储在变量内存的最左边，所以你丢失了一位来存储你的实际数字。下表显示了典型的整数类型和范围。
 
-[![typical integer types and ranges](../Images/e8c3fa053d6d2fa82c9b16d60940ec0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tKmGrnAv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vrm9cueskb42wvs58670.png)
+[![typical integer types and ranges](img/e8c3fa053d6d2fa82c9b16d60940ec0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tKmGrnAv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vrm9cueskb42wvs58670.png)
 
 浮点数(称为 float 或 double 的类型)和其他类型也是如此。类型安全通常需要不同类型之间的转换，例如，要比较两个值必须来自同一类型。在弱类型语言中，你可以做类似
 的事情

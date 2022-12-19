@@ -6,7 +6,7 @@
 
 你是否曾经多次输入一个单词，以至于看起来拼错了？作为一个以打字为生的人，我在这方面有困难。编程中拼错单词的妙处在于一致性。如果到处都是错的，那就是对的-对吗？然而，松散类型的标识符会给我们未来的自己和其他代码维护者带来问题。
 
-[![](../Images/7e8e7d5cbfa0d9ec14eb160e45a63e7d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V7_SpUvD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AxnUUIJSPNh1sgIR4SbJZDg.gif)
+[![](img/7e8e7d5cbfa0d9ec14eb160e45a63e7d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V7_SpUvD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AxnUUIJSPNh1sgIR4SbJZDg.gif)
 
 ## 从颜色开始
 

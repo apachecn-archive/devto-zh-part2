@@ -14,7 +14,7 @@
 
 作为人类，我们不重视视力这一非凡的天赋。然而，用眼睛捕捉现实，并在几分之一秒内理解所观察到的是什么，是一个极其复杂和精密的过程。
 
-[![](../Images/735fdccaa65d40a769f9778d62e1f1df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x9p1Mzba--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://perfectial.com/wp-content/uploads/2018/10/What-is-Computer-Vision.jpg)
+[![](img/735fdccaa65d40a769f9778d62e1f1df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x9p1Mzba--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://perfectial.com/wp-content/uploads/2018/10/What-is-Computer-Vision.jpg)
 
 让我们假设你注意到一辆汽车以危险的速度靠近你正在漫步的人行道。你记录下这个物体，它穿过你的眼睛，然后视觉信号到达视网膜。接下来，在被视网膜短暂浏览后，数据被发送到视觉皮层，以便你的大脑可以进行更细致的分析。最后，图像被大脑皮层的其余部分感知，并与你大脑的数据库进行匹配——物体因此被分类，其尺寸被建立。你得到的输出是一种向安全方向移动的冲动，这也是你的大脑在分析了汽车的速度和运动轨迹后得出的结论。
 

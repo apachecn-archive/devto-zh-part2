@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/beyond-rest-using-websockets-for-two-way-communication-in-your-react-app-535m>
 
-[![](../Images/bc0ed25793c59cdf3b0c0124c6d625b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0G58u2_n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A7bp-ucN-bLMdRLWirrhU3A.png)
+[![](img/bc0ed25793c59cdf3b0c0124c6d625b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0G58u2_n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A7bp-ucN-bLMdRLWirrhU3A.png)
 
 ### 概述
 
@@ -22,7 +22,7 @@ WebSockets 是一种基于连接的通信协议。
 
 注意，WebSockets 是在 TCP 之上实现的。但是，原始 TCP 是基于流的。你发送一串字节(八位字节),另一端必须找出如何累积它们，并把它们分解成连贯的消息。WebSockets 为您做到了这一点，这是一大福音。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/?cid=banner_a)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/?cid=banner_a)
 
 ### 谁需要 WebSockets？
 
@@ -49,7 +49,7 @@ Connect4 游戏根本没有优化。我发送大量冗余信息(例如，每次�
 
 它看起来是这样的:
 
-[![](../Images/db96bba4eb8940c39c38b473d27cc921.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--14vxFkKF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ALmESDROZayX8SePRZl1cyQ.png)
+[![](img/db96bba4eb8940c39c38b473d27cc921.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--14vxFkKF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ALmESDROZayX8SePRZl1cyQ.png)
 
 ### 代码
 
@@ -177,7 +177,7 @@ io.emit('board', board)
 
 但是，您可能会忽略放置的棋子位于序列中间的情况，如下图所示:
 
-[![](../Images/f52b4e872777d552daddf4652f801c1b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---2j14yIi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/680/1%2AMJ4EUyazlsvfqkEskQEiCA.png) 
+[![](img/f52b4e872777d552daddf4652f801c1b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---2j14yIi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/680/1%2AMJ4EUyazlsvfqkEskQEiCA.png) 
 
 <figcaption>黄色即将获胜！</figcaption>
 
@@ -396,7 +396,7 @@ render() {
 
 这是一个带有胜利之箭的插图:
 
-[![](../Images/cc3afba581d3caa531489f75ddcdb201.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RCYEP8JY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/725/1%2AIB8nVY-eIOMBqkrpyrBsuw.png)
+[![](img/cc3afba581d3caa531489f75ddcdb201.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RCYEP8JY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/725/1%2AIB8nVY-eIOMBqkrpyrBsuw.png)
 
 ### 结论
 
@@ -410,7 +410,7 @@ WebSockets 对于客户端-服务器应用程序来说是一项伟大的技术�
 
 ### Plug: [LogRocket](http://logrocket.com) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

@@ -2,13 +2,13 @@
 
 > 原文：<https://dev.to/mohsens22/denna-to-do-list-app-45ap>
 
-[![](../Images/90ec8d3abeae8a7209f1b6c0185dfe90.png)T2】](https://www.microsoft.com/en-us/store/p/denna/9n9c2hwnzcft)
+[![](img/90ec8d3abeae8a7209f1b6c0185dfe90.png)T2】](https://www.microsoft.com/en-us/store/p/denna/9n9c2hwnzcft)
 
 ### 丹娜
 
 Denna 是 Windows 10 设备的一个功能齐全且高效的待办事项列表。
 
-[![](../Images/b38a9130bc574896e27200024cc181b1.png)](https://install.appcenter.ms/orgs/mahstudio-u5ev/apps/denna/distribution_groups/insiders) 
+[![](img/b38a9130bc574896e27200024cc181b1.png)](https://install.appcenter.ms/orgs/mahstudio-u5ev/apps/denna/distribution_groups/insiders) 
 [下载](https://www.microsoft.com/en-us/store/p/denna/9n9c2hwnzcft) [内部人士群](https://t.me/joinchat/EJ9gLURDAcbOxpoIGSdD8g) [GitHub 项目](https://github.com/MahStudio/Denna)
 
 ## 故事
@@ -22,7 +22,7 @@ Denna 的目的是帮助人们更关心他们所拥有的时间。因为时光�
 
 容易进入和生产力是 Denna 的核心价值。
 
-[![image](../Images/069c66d1ef551cb8bcde9ab7f217ce90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mtMbfdLo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/22152065/38919555-2566f7b2-4306-11e8-8a9c-95eb08eff28a.png)
+[![image](img/069c66d1ef551cb8bcde9ab7f217ce90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mtMbfdLo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/22152065/38919555-2566f7b2-4306-11e8-8a9c-95eb08eff28a.png)
 
 ### 这个在印刷机上
 
@@ -40,9 +40,9 @@ Denna 得到了用户和一些新闻网站的极大关注。你可以在下面�
 ### 设计
 
 该项目由资深建筑师兼设计师阿雷夫·M·艾哈迈迪和资深设计师穆罕默德·阿里杜斯特设计。
-[![image](../Images/9b713d54f53a1d221b21c7ab9f476c95.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--uB-564P7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/22152065/38919395-b3181f38-4305-11e8-8ead-161766d6148c.png)
+[![image](img/9b713d54f53a1d221b21c7ab9f476c95.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--uB-564P7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/22152065/38919395-b3181f38-4305-11e8-8ead-161766d6148c.png)
 
-[![image](../Images/07863d592816bb6aa087c24932917d94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LHpGDaKe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/22152065/38919478-f123c7b4-4305-11e8-9d7c-98d49b692b31.png)
+[![image](img/07863d592816bb6aa087c24932917d94.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LHpGDaKe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/22152065/38919478-f123c7b4-4305-11e8-9d7c-98d49b692b31.png)
 
 你也可以在这里看到整个设计文件
 

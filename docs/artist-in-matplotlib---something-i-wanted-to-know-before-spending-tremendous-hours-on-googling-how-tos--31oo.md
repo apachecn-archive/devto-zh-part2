@@ -85,7 +85,7 @@ plt.show()
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Pyplot example](../Images/33eb88aa19299be8511f91b73b34c052.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dYOW-kVR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sv7utz8ry8yz8rr4c0sd.png)
+[![Pyplot example](img/33eb88aa19299be8511f91b73b34c052.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dYOW-kVR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sv7utz8ry8yz8rr4c0sd.png)
 
 起初，它看起来非常简单，因为不需要考虑您正在处理哪些对象。你只需要知道你处于哪种“状态”，这也是为什么这种风格也被称为“有状态接口”。这里的“状态”指的是你当前所处的人物和支线剧情。正如你在 [Pyplot 教程](https://matplotlib.org/tutorials/introductory/pyplot.html)中看到的，如果你的情节不是那么复杂，它会给出一个不错的数字。虽然 Pyplot 界面提供了很多改变绘图设置的功能，但你可能会在几个小时、几天、几个月内达到它的极限(如果你足够幸运的话，可能永远也不会),这取决于你想做什么。这个阶段需要切换到 OO 界面。这也是我一开始就推荐使用 OO 接口的原因。但 Pyplot 对于快速检查或任何需要粗略绘图的场合仍然有用。
 
@@ -93,7 +93,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 谷歌几次后，你会注意到 matplotlib 有一个层次结构，由通常称为`fig`和`ax`的东西组成。【matplotlib 1.5 的老文档有一个很好的图像来解释这一点。
 
-[![Hierarchy in matplotlib](../Images/40bc9ae2b93ad1c8ac22e7e56447cb9f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dNi3F76s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rr39m52m6peef1drke7m.png)
+[![Hierarchy in matplotlib](img/40bc9ae2b93ad1c8ac22e7e56447cb9f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dNi3F76s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rr39m52m6peef1drke7m.png)
 
 实际上，这三个组件是被称为“容器”的特殊`Artist`(还有第四个容器`Tick`)，我们将在后面看到。这种层次结构使得上面的简单例子更加清晰。
 
@@ -161,11 +161,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 当前文档中的[使用指南](https://matplotlib.org/tutorials/introductory/usage.html)没有用图形来解释层次结构，而是用“图形剖析” <sup id="fnref2">[2](#fn2)</sup> 来解释图形中的所有组件，这也是信息性的 <sup id="fnref3">[3](#fn3)</sup> 。
 
-[![Anatomy of a figure in matplotlib](../Images/93bebed4a10015530bae6ef54db7df0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1x1epD95--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b9psb0mtz7yk8qmfe26f.png)
+[![Anatomy of a figure in matplotlib](img/93bebed4a10015530bae6ef54db7df0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1x1epD95--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b9psb0mtz7yk8qmfe26f.png)
 
 从代表数据的线和点到 X 轴上的小记号和文本标签，图形中的每一个组件都是一个`Artist`对象 <sup id="fnref4">[4](#fn4)</sup> 。`Artist`有两种类型，容器和原语。正如我在上一节中所写的，matplotlib 的层次结构中的三个组件，`Figure`、`Axes`和`Axis`是容器，它们可以包含更低的容器和多个原语，例如由`ax.plot`生成的`Line2D`、`ax.scatter`生成的`PathCollection`或由`ax.annotate`生成的`Text`。甚至刻度线和标签实际上是属于第四容器`Tick`的`Line2D`和`Text`。
 
-[![containers and primitives](../Images/27ab399cd5793de088105059d1c408c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KMJNInQX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/la33f9zwg65hqjz9j4ee.png)
+[![containers and primitives](img/27ab399cd5793de088105059d1c408c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KMJNInQX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/la33f9zwg65hqjz9j4ee.png)
 
 对于每种类型的原语，容器都有许多“盒子”(Python 列表，技术上来说)。例如，一个`Axes`对象`ax`，在实例化之后有一个空列表`ax.lines`。常用命令`ax.plot`在列表中添加一个`Line2D`对象，并静默进行其他伴随设置。
 
@@ -196,7 +196,7 @@ line2: Line2D(2nd plot)
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Adding Line2D in ax.lines](../Images/54b42772fb1007a6632c7294c72c2b87.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_q3DFIM9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xv5hepc9gloota0kmg2b.png)
+[![Adding Line2D in ax.lines](img/54b42772fb1007a6632c7294c72c2b87.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_q3DFIM9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xv5hepc9gloota0kmg2b.png)
 
 以下部分总结了四种容器。表格复制自[艺人教程](https://matplotlib.org/tutorials/intermediate/artists.html)。
 
@@ -234,7 +234,7 @@ ax1.legend()
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Using ax.legend twice](../Images/939c028b0937c80b9236a572ff9170c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hibKZHKn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1kdkx0tl4tcsj36ay320.png)
+[![Using ax.legend twice](img/939c028b0937c80b9236a572ff9170c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hibKZHKn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1kdkx0tl4tcsj36ay320.png)
 
 将它们放在一起的一个著名方法是将 legend 处理程序和两者的标签结合起来。
 
@@ -247,7 +247,7 @@ ax.legend(handler+handler1, label+label1, loc='upper center', title='ax.legend')
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Combining two legends](../Images/50cb52525e15ecaf9ff8cd8b01edaa6e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--09wsMz4W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fiiem6k0tj6cg7sjtd20.png)
+[![Combining two legends](img/50cb52525e15ecaf9ff8cd8b01edaa6e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--09wsMz4W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fiiem6k0tj6cg7sjtd20.png)
 
 这可以通过`fig.legend`很容易地完成，而没有在[2.1 版](https://matplotlib.org/users/whats_new.html#figure-legend-can-be-called-without-arguments) <sup id="fnref5">[5](#fn5)</sup> 中介绍的参数。默认情况下，位置由`Figure`坐标指定，当您想将其放在绘图框中时，该坐标没有用。可以用`bbox_transform`关键字改成`Axes`坐标。
 
@@ -258,7 +258,7 @@ fig
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![fig.legend with ax.transAxes](../Images/2250450f15ed5c5098a643642c744b3e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bGyXOl6w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o6wguud2b5jppe9516z3.png)
+[![fig.legend with ax.transAxes](img/2250450f15ed5c5098a643642c744b3e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bGyXOl6w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o6wguud2b5jppe9516z3.png)
 
 ## `Axes`
 
@@ -334,7 +334,7 @@ scat: <matplotlib.collections.PathCollection object at 0x1181d74a8>
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![ax,plot and ax.scatter](../Images/4c9ae1d4e51b2a3f0744fbe541766806.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--14m86bdw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/atx3762hgn3lw90jzd9x.png)
+[![ax,plot and ax.scatter](img/4c9ae1d4e51b2a3f0744fbe541766806.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--14m86bdw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/atx3762hgn3lw90jzd9x.png)
 
 ### 不建议重复使用已绘制的对象
 
@@ -351,7 +351,7 @@ ax2 = fig.add_subplot(2,1,2) # lower subplot ax2.lines.append(line) # try to reu
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Reusing Line2D is not a good idea](../Images/77fff1a327aa2ee285d4a7d15e6c02a6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4g0j5JHy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gdwn7kv4tnfw8xzxj8uo.png)
+[![Reusing Line2D is not a good idea](img/77fff1a327aa2ee285d4a7d15e6c02a6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4g0j5JHy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gdwn7kv4tnfw8xzxj8uo.png)
 
 甚至`add_line`法都不管用。
 
@@ -436,7 +436,7 @@ line2, = ax.plot(1.5*x, np.sin(x), label='') # X range: 0 to 3pi
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![ax.set_*** methods are ad hoc](../Images/4afdfd6b8acbb2a52f719dca9819f7e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GwpP0DYw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/opdcyovaw29bz1snbg8h.png)
+[![ax.set_*** methods are ad hoc](img/4afdfd6b8acbb2a52f719dca9819f7e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GwpP0DYw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/opdcyovaw29bz1snbg8h.png)
 
 ### `Ticker`那就去吧
 
@@ -472,7 +472,7 @@ import matplotlib.ticker as ticker # this is required to used `Ticker` ax.xaxis.
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Locator updates tick positions automatically](../Images/a292b1f38979d4914282ebab4c2dc1a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0QoTUOIf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/42ik65x17af7s5fhst0i.png)
+[![Locator updates tick positions automatically](img/a292b1f38979d4914282ebab4c2dc1a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0QoTUOIf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/42ik65x17af7s5fhst0i.png)
 
 格式化程序怎么样？
 
@@ -485,7 +485,7 @@ fig
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Formatter changes tick label formatting](../Images/ef2338bb51da6f3f03c4da9f1665ed52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QqgiA1UA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tk3ckc24mxlllyu9n9v0.png)
+[![Formatter changes tick label formatting](img/ef2338bb51da6f3f03c4da9f1665ed52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QqgiA1UA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tk3ckc24mxlllyu9n9v0.png)
 
 好吧，也许你还想做些调整，但我想这已经足够清楚了。
 
@@ -516,7 +516,7 @@ line2, = ax.plot(x, cos(x), xunits=degrees)
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![xunits keyword example](../Images/f36de1545b97368efa2b269b5cd1bfcb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MoWv2VPF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9ns9nbzjy5z2glzeuhmb.png)
+[![xunits keyword example](img/f36de1545b97368efa2b269b5cd1bfcb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MoWv2VPF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9ns9nbzjy5z2glzeuhmb.png)
 
 ## `Tick`
 

@@ -4,7 +4,7 @@
 
 你正在选购一件衬衫，试穿了几件以决定哪一件更适合你。或者参观一下你今年夏天想租的波尔图公寓。或者，如果你想买一张新的咖啡桌，而不是翻翻杂志上的图片，你想看看它在房间里是什么样子。这些都是我们在某个时候可能会遇到的情景。现在想象一下，你可以在自己舒适的家里做这件事，而不必去那些地方。有什么条件？AR 和 VR。
 
-[![augmented reality for business](../Images/91dea3b3eee89cb582f23574366f2a6e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DdCsatzj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://perfectial.com/wp-content/uploads/2018/03/999x-999.gif)
+[![augmented reality for business](img/91dea3b3eee89cb582f23574366f2a6e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DdCsatzj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://perfectial.com/wp-content/uploads/2018/03/999x-999.gif)
 
 <center>[Playing Star Wars: Jedi Challenge game with Lenovo augmented reality headset at CES 2018](https://www.bloomberg.com/news/photo-essays/2018-01-09/gadgets-and-gear-at-the-2018-consumer-electronics-show)</center>
 

@@ -6,7 +6,7 @@
 
 在我们的[上一篇文章](https://dev.to/bennypowers/lets-build-web-components-part-1-the-standards-3e85)中，我们了解了让我们编写 web 组件的四个 web 标准:`<template>`、定制元素、影子 DOM 和 JavaScript 模块。
 
-[![bennypowers](../Images/57370d6f6dab8d6651a3f138a1aaaa40.png)](/bennypowers) [## 让我们构建 Web 组件！第 1 部分:标准
+[![bennypowers](img/57370d6f6dab8d6651a3f138a1aaaa40.png)](/bennypowers) [## 让我们构建 Web 组件！第 1 部分:标准
 
 ### 本尼为🇮🇱🇨🇦供电 9 月 18 日 1810 分钟阅读
 
@@ -420,7 +420,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 看看他的轻量级 web 组件框架 gluonjs
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [鲁芬](https://github.com/ruphin) / [格隆吉斯](https://github.com/ruphin/gluonjs)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [鲁芬](https://github.com/ruphin) / [格隆吉斯](https://github.com/ruphin/gluonjs)
 
 ### 轻量级 Web 组件库
 
@@ -428,7 +428,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 # [核]胶子（一种理论上假设的无质量的粒子）
 
-[![Build Status](../Images/92a2881644a5afc2c7ae83c9e3190c9b.png)](https://travis-ci.org/ruphin/gluonjs)[![NPM Latest version](../Images/b170d02255a38160d182f20b8896a833.png)](https://www.npmjs.com/package/@gluon/gluon)[![Code Style: prettier](../Images/76245b01cc15290741bd336634799095.png)](https://github.com/prettier/prettier)
+[![Build Status](img/92a2881644a5afc2c7ae83c9e3190c9b.png)](https://travis-ci.org/ruphin/gluonjs)[![NPM Latest version](img/b170d02255a38160d182f20b8896a833.png)](https://www.npmjs.com/package/@gluon/gluon)[![Code Style: prettier](img/76245b01cc15290741bd336634799095.png)](https://github.com/prettier/prettier)
 
 用于构建 web 组件和应用的轻量级库
 
@@ -470,10 +470,10 @@ webcomponentsjs 聚合填充允许您在较旧的浏览器中运行 web 组件�
 
 查看本系列的下一篇文章
 
-[![bennypowers](../Images/57370d6f6dab8d6651a3f138a1aaaa40.png)](/bennypowers) [## 让我们构建 Web 组件！第 3 部分:普通组件
+[![bennypowers](img/57370d6f6dab8d6651a3f138a1aaaa40.png)](/bennypowers) [## 让我们构建 Web 组件！第 3 部分:普通组件
 
 ### 本尼·鲍尔斯🇮🇱🇨🇦10 月 5 日 1818 分钟阅读
 
 #webcomponents #customelements #javascript #html](/bennypowers/lets-build-web-components-part-3-vanilla-components-4on3)
 
-您想就此处涉及的任何主题进行一对一的辅导吗？[![Contact me on Codementor](../Images/97f0e0737ce864c47f2412396b01e737.png)T2】](https://www.codementor.io/bennyp?utm_source=github&utm_medium=button&utm_term=bennyp&utm_campaign=github)
+您想就此处涉及的任何主题进行一对一的辅导吗？[![Contact me on Codementor](img/97f0e0737ce864c47f2412396b01e737.png)T2】](https://www.codementor.io/bennyp?utm_source=github&utm_medium=button&utm_term=bennyp&utm_campaign=github)

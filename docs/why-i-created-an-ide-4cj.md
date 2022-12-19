@@ -6,7 +6,7 @@
 
 在过去的七个月里，我一直在创建一个 IDE。在最初的几个月里，它是闭源的，现在它是开源的，并将继续保持下去。
 
-[![](../Images/f178a0a23e50cb79759cd8b927fe9361.png)T2】](https://camo.githubusercontent.com/fb54c5248ef1d455b836b221180b5258dccf3e54/68747470733a2f2f692e696d6775722e636f6d2f5431395a5556702e706e67)
+[![](img/f178a0a23e50cb79759cd8b927fe9361.png)T2】](https://camo.githubusercontent.com/fb54c5248ef1d455b836b221180b5258dccf3e54/68747470733a2f2f692e696d6775722e636f6d2f5431395a5556702e706e67)
 
 ## 先决条件
 
@@ -24,7 +24,7 @@
 
 如果你是一家多年来一直使用 SEU 的开发公司，那么转移到 RDi (Rational Developer for i)是一个避风港。您终于体验到了 IDE 所能提供的一切。内容辅助、大纲视图、远程调试——它甚至在编辑时处理 EBCDIC 转换。这真的是一个升级。
 
-[![](../Images/c3f11e5b8439c18db6b9662d237d609b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SCP3RO-x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.ytimg.com/vi/VIgpgGEc5PQ/maxresdefault.jpg)
+[![](img/c3f11e5b8439c18db6b9662d237d609b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SCP3RO-x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.ytimg.com/vi/VIgpgGEc5PQ/maxresdefault.jpg)
 
 我在使用 RDi 时遇到了一些性能问题，这导致我有时效率低下。我想这无助于我在不同大陆的系统上工作。这让我觉得没有收获。
 
@@ -41,7 +41,7 @@
 
 我总是遵循这样的想法，用你擅长的东西来工作。我对 C#还行，于是开始用 C#写环境，开源代码，编译程序。这是大约 7 个月前它最初的样子:
 
-[![](../Images/ab94cf78c62a75922183517aea6d4347.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CQS2IFTI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/N1gE4IL.png)
+[![](img/ab94cf78c62a75922183517aea6d4347.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CQS2IFTI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/N1gE4IL.png)
 
 最重要的是，我想要一个用 ILE 语言开发的开源选项。虽然我所创造的并不完美，但它足以学习 RPG。它实现了我想要的一切——良好的性能，不占内存和快速编译提交。
 
@@ -49,7 +49,7 @@
 
 我有时有机会在会议上谈论它。最重要的是当人们提交他们的想法时，因为这也有助于 IDE 的方向。它使用 GPLv3 许可证，并使用其他开源库来创建用户界面。到目前为止我很开心！
 
-[![](../Images/f178a0a23e50cb79759cd8b927fe9361.png)T2】](https://camo.githubusercontent.com/fb54c5248ef1d455b836b221180b5258dccf3e54/68747470733a2f2f692e696d6775722e636f6d2f5431395a5556702e706e67)
+[![](img/f178a0a23e50cb79759cd8b927fe9361.png)T2】](https://camo.githubusercontent.com/fb54c5248ef1d455b836b221180b5258dccf3e54/68747470733a2f2f692e696d6775722e636f6d2f5431395a5556702e706e67)
 
 差不多就是这样。希望你喜欢阅读我做的东西。这里有几个后续链接:
 

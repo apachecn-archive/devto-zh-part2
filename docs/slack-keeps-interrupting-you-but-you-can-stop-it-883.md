@@ -48,7 +48,7 @@ Slack 可能只花费每个用户 5 美元，但是如果你考虑到生产力�
 
 在这期间，你什么也做不了。或者你可以，但是你可能会因为注意力不集中而搞砸。那段时间你实际上被*屏蔽了*，直到对话结束。相比之下，在电话中，你可以在 2 分钟内讲清楚要点，并利用剩余的 8 分钟提供更多需要的信息。一旦你挂断电话，在你回到你的代码编辑器之前，你不会怀疑你是否会得到另一个消息。
 
-[![An interruption kills your focus](../Images/5e6dfc1a06ee19a204bcb3a5ba473756.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RKgTglqG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.redd.it/o1gnotfxi4k01.png)
+[![An interruption kills your focus](img/5e6dfc1a06ee19a204bcb3a5ba473756.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RKgTglqG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.redd.it/o1gnotfxi4k01.png)
 
 ## 现在需要你注意的事情最好是重要的
 
@@ -62,7 +62,7 @@ Slack 可能只花费每个用户 5 美元，但是如果你考虑到生产力�
 
 10 次中有 10 次没有紧急到保证那个消息。他们看到了就知道了。一旦他们准备好回应，他们就会回应。至少电子邮件没有任何实时的伪装。
 
-[![Hey did you see my email?](../Images/84f915b09d0b7ed70b49e33ebd735b46.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rurby22m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.commitstrip.com/wp-content/uploads/2017/05/Strip-Drivers-de-limprimante-non-install%25C3%25A9s-650-finalenglishUD-1.jpg)
+[![Hey did you see my email?](img/84f915b09d0b7ed70b49e33ebd735b46.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rurby22m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.commitstrip.com/wp-content/uploads/2017/05/Strip-Drivers-de-limprimante-non-install%25C3%25A9s-650-finalenglishUD-1.jpg)
 
 # 保持理智的方法
 

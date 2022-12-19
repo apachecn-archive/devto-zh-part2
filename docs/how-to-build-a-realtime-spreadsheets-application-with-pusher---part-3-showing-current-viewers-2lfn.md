@@ -6,7 +6,7 @@
 
 在本文中，我们将添加 Google Sheets 中的另一个有用的功能，即实时查看谁在查看工作表的功能。我们将显示与当前查看表单的每个用户相对应的头像。这是我们的应用程序的外观:
 
-[![](../Images/ca44c89628beeff3922e15bb2234a978.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ltpWR4t3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_E865783628DF374E07AD41774F75FC9C9CEBE398DCA5A3373AADB6CDBB8FE311_1524848803309_building-realtime-spreadsheets-app-laravel-whos-viewing.gif)
+[![](img/ca44c89628beeff3922e15bb2234a978.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ltpWR4t3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_E865783628DF374E07AD41774F75FC9C9CEBE398DCA5A3373AADB6CDBB8FE311_1524848803309_building-realtime-spreadsheets-app-laravel-whos-viewing.gif)
 
 ## 先决条件
 

@@ -20,7 +20,7 @@
 
 那么发生了什么变化呢？
 
-[![](../Images/cd07d9cbf7af0927d778e995d0d6e4c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YtCrgIxj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://d15mu8qrd5jnh5.cloudfront.net/wp-content/uploads/2018/10/nick-karvounis-403792-unsplash-1024x683.jpg)
+[![](img/cd07d9cbf7af0927d778e995d0d6e4c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YtCrgIxj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://d15mu8qrd5jnh5.cloudfront.net/wp-content/uploads/2018/10/nick-karvounis-403792-unsplash-1024x683.jpg)
 
 ## 感觉对现实
 
@@ -69,7 +69,7 @@
 
 ## 理解问题的根源
 
-[![](../Images/cc8a697247ab0bc770581d4e027c7b3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TR_RmYHA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://d15mu8qrd5jnh5.cloudfront.net/wp-content/uploads/2018/10/fraud.png)
+[![](img/cc8a697247ab0bc770581d4e027c7b3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TR_RmYHA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://d15mu8qrd5jnh5.cloudfront.net/wp-content/uploads/2018/10/fraud.png)
 
 冒名顶替综合症是一种思维和感觉模式。这是一种思维习惯——一种坏习惯，但可以控制，随着时间的推移可以打破。
 
@@ -135,7 +135,7 @@
 
 通常错误的来源是学习不适应。其他时候，是内在的心理偏见。无论哪种方式，作为理性主义者，意识到我们的头脑会产生至少在某些时候是完全错误的想法，这对我们的自信是一种挑战！
 
-[![](../Images/29555a6e1e2c55ee2347afc659e3577f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k0mWWKK8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://d15mu8qrd5jnh5.cloudfront.net/wp-content/uploads/2018/10/hannah-wei-84051-unsplash-1024x683.jpg)
+[![](img/29555a6e1e2c55ee2347afc659e3577f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k0mWWKK8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://d15mu8qrd5jnh5.cloudfront.net/wp-content/uploads/2018/10/hannah-wei-84051-unsplash-1024x683.jpg)
 
 冒名顶替综合症可以被认为是思维扭曲的一个案例。当事实和我们生活中的经验客观地表明事实并非如此(或者事实比我们认为的要少)时，我们认为我们是不充分的或者有缺陷的，并且坏事会因此发生。
 

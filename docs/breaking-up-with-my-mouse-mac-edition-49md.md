@@ -18,7 +18,7 @@
 
 下面是截图:
 
-[![](../Images/881207bf7786b6e1cd08bcf966792338.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7zHBnPGg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m1fqx30jei6abvpe1j31.png)
+[![](img/881207bf7786b6e1cd08bcf966792338.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7zHBnPGg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m1fqx30jei6abvpe1j31.png)
 
 ## 第二步:设置任务控制
 
@@ -35,7 +35,7 @@ MacOS 的任务控制相当不错(我认为，无论如何)。拥有多个桌面
 
 下面是我的配置截图:
 
-[![](../Images/72f03b14c4adf11a839f0cdb5f06786d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5kBUffuy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/offv0d25ut0vzkgpl5sj.png)
+[![](img/72f03b14c4adf11a839f0cdb5f06786d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5kBUffuy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/offv0d25ut0vzkgpl5sj.png)
 
 ## 第三步:为窗口管理设置眼镜
 
@@ -50,11 +50,11 @@ MacOS 的任务控制相当不错(我认为，无论如何)。拥有多个桌面
 
 下面是我的设置截图:
 
-[![](../Images/3ad966598a8d81aa7a3768a5c87bd5a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4daPUPDe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b91yj0gsy2r3ugyksooi.png)
+[![](img/3ad966598a8d81aa7a3768a5c87bd5a0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4daPUPDe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b91yj0gsy2r3ugyksooi.png)
 
 这些允许我使用**大写锁定**和我的箭头键来捕捉我的窗口到不同的位置。这在大屏幕上特别有用，因为你想并排打开窗口(比如 Chrome 旁边的 VSCode ),同时占据尽可能多的空间。下面的 GIF 展示了这一点——我只是按住**大写锁定**并按下不同的箭头键！
 
-[![](../Images/30859c43bb8acb620ee1431b82d439ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_pAvA0g---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/13xeatknw1b82j03m29b.gif)
+[![](img/30859c43bb8acb620ee1431b82d439ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_pAvA0g---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/13xeatknw1b82j03m29b.gif)
 
 ## 第四步:使用阿尔弗雷德获得更大的力量！
 
@@ -76,10 +76,10 @@ Alfred 还有一个名为“Powerpack”的付费扩展包，价格约为 19 欧
 为此，打开 Alfred 的设置/偏好设置窗口(您可以从 Alfred spotlight 搜索中搜索“Alfred ”),然后转到“工作流程”选项卡(同样，假设您有 Powerpack)。下面是我们如何设置**选项+ C** 来打开 VSCode:
 
 1.  在左侧面板的底部，有一个小小的 **+** 按钮。点击创建一个新的工作流程，并选择“空白工作流程”。填写工作流程的名称。这将会给你一个空白的画布。
-2.  右键单击空白画布，您会看到一个下拉菜单。选择“触发器>热键”。![](../Images/43af63b688fa137b6218ffd299f8ab52.png)
+2.  右键单击空白画布，您会看到一个下拉菜单。选择“触发器>热键”。![](img/43af63b688fa137b6218ffd299f8ab52.png)
 3.  一旦你选择“热键”，它会问你想要选择哪个热键。我选择了**选项+ C** ，你其实可以在这里按**大写锁定+ C** 。选择热键后，单击保存。
-4.  现在，再次右键单击画布并选择“操作>启动应用程序/文件”。这将打开一个对话框，供您“放入一个程序”。为此，我触发了 Alfred，搜索 vs code——一旦找到，就把它从 Alfred 拖到对话框中。完成后按“保存”。![](../Images/b2ff1e4511a5e0abd3c3950021e69143.png)
-5.  现在，我们只需要将我们的*触发器*链接到我们的*动作*。将鼠标悬停在画布上的热键触发器元素上。它应该突出显示元素，并在其一侧显示一个小“旋钮”。单击并按住它，开始向动作方向拖动它。你应该能把这两件事联系起来。![](../Images/8eaf9c153597fa15b9e89ce169ca4833.png)
+4.  现在，再次右键单击画布并选择“操作>启动应用程序/文件”。这将打开一个对话框，供您“放入一个程序”。为此，我触发了 Alfred，搜索 vs code——一旦找到，就把它从 Alfred 拖到对话框中。完成后按“保存”。![](img/b2ff1e4511a5e0abd3c3950021e69143.png)
+5.  现在，我们只需要将我们的*触发器*链接到我们的*动作*。将鼠标悬停在画布上的热键触发器元素上。它应该突出显示元素，并在其一侧显示一个小“旋钮”。单击并按住它，开始向动作方向拖动它。你应该能把这两件事联系起来。![](img/8eaf9c153597fa15b9e89ce169ca4833.png)
 
 这就对了。现在点击 **Caps Lock + C** 将打开 VSCode！一旦你设置好了其中的一些，你就可以开始轻松地在应用程序之间切换，而不需要把你的手从键盘上拿开！
 

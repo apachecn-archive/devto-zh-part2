@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/brianbola/how-do-you-deal-with-one-upmanship--bn9>
 
-[![](../Images/89957a05b858e4bef0d3216700ca0291.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IUSHnmw---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e8v425nhjeqpixscftce.jpg) 
+[![](img/89957a05b858e4bef0d3216700ca0291.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IUSHnmw---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e8v425nhjeqpixscftce.jpg) 
 我先从这个说起。
 
 *“电脑容易，人难”*

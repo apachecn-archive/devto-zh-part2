@@ -4,7 +4,7 @@
 
 Wekan 是开源看板，你可以把它安装到你的笔记本电脑或服务器上。您可以将所有数据置于自己的控制之下。您也可以使用一些 SaaS 提供商。
 
-[![Wekan](../Images/aa0f84b521dea7fff1abea4f51f6f054.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NPDHDE7v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2y0grt95zrxa5f7q5afz.png)
+[![Wekan](img/aa0f84b521dea7fff1abea4f51f6f054.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NPDHDE7v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2y0grt95zrxa5f7q5afz.png)
 
 ## 2018 年有什么计划
 
@@ -19,7 +19,7 @@ Wekan 是开源看板，你可以把它安装到你的笔记本电脑或服务�
 *   [自定义字段](https://github.com/wekan/wekan/wiki/Custom-Fields)。
 *   IFTTT (If-this-then-then-that)为自动化制定规则，类似于 Trello 的 Butler。我想这目前只在独立的 Wekan 上可见。
 
-[![IFTTT Rules](../Images/d47f459ebb96792907577117c068faf5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---Vww9BFy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n574fr2elhysa52rs4ks.png)
+[![IFTTT Rules](img/d47f459ebb96792907577117c068faf5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---Vww9BFy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n574fr2elhysa52rs4ks.png)
 
 *   一些移动网络的改进。
 *   更多信息，请参见[变更日志](https://github.com/wekan/wekan/blob/devel/CHANGELOG.md)获取完整列表。
@@ -28,7 +28,7 @@ Wekan 是开源看板，你可以把它安装到你的笔记本电脑或服务�
 
 *   [LDAP](https://github.com/wekan/wekan/wiki/LDAP) 。
 
-[![LDAP selection at Admin Panel](../Images/da666ed0d28167408b718ba2db1e4338.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vfmB_uOy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hi2ypi2vvpibhx3dmmtm.png)
+[![LDAP selection at Admin Panel](img/da666ed0d28167408b718ba2db1e4338.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vfmB_uOy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hi2ypi2vvpibhx3dmmtm.png)
 
 *   在[快照设置](https://github.com/wekan/wekan-snap/wiki/Supported-settings-keys)和 [Docker 合成文件](https://github.com/wekan/wekan/blob/devel/docker-compose.yml)的环境变量中有所有设置(SMTP 等)，不需要在管理面板中手动设置。管理面板中的电子邮件设置被删除，然后添加回来，电子邮件密码隐藏在管理面板。
 

@@ -4,7 +4,7 @@
 
 密码在保护我们的数据方面发挥着重要作用。要么一个服务提供一种用密码登录的方法，要么他们提供一种用另一个服务登录的方法，如电子邮件、谷歌或 Twitter，这些服务使用密码。密码是不可避免的，也是重要的。这意味着密码本身需要是安全的。许多服务都有密码规则来确保人们创建安全的密码。
 
-[![](../Images/3c00525b8472c0c155b770d2ae03da2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P1-hCbnb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.professorbeekums.com/img/2018/password.jpg)
+[![](img/3c00525b8472c0c155b770d2ae03da2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P1-hCbnb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.professorbeekums.com/img/2018/password.jpg)
 
 关于密码规则已经写了很多。有些很有趣，有些更严肃。我花了很多时间研究密码规则，因为我想为[马利加](https://maleega.com/)制定明智的规则。
 

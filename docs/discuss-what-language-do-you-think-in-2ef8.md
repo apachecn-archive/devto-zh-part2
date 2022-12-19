@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/sublimegeek/discuss-what-language-do-you-think-in-2ef8>
 
-[![Think](../Images/eed3ea94741ca2546ed7478cd825919b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1GfxTtVi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ruup5gkzf3zw2a9dey6m.png)
+[![Think](img/eed3ea94741ca2546ed7478cd825919b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1GfxTtVi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ruup5gkzf3zw2a9dey6m.png)
 
 ## 场景
 

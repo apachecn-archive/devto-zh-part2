@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/segunadeleye/getting-rid-of-the-warning-possible-dns-spoofing-detected-message-when-connecting-viassh-2i7b>
 
-[![Robot Cleaner](../Images/ba525340867ce4fb389c2d094622d266.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SwjqcS1d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f59tx79i71ltx6ehqhm2.jpg)
+[![Robot Cleaner](img/ba525340867ce4fb389c2d094622d266.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SwjqcS1d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f59tx79i71ltx6ehqhm2.jpg)
 
 我在迁移服务器时遇到了这个错误。我试图通过 SSH 连接到其中一个服务器，然后这个出现了。
 

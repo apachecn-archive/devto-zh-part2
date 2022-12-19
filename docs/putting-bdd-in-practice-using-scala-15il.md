@@ -13,16 +13,16 @@
 BDD 可以非常简单地描述为[测试驱动开发](https://en.wikipedia.org/wiki/Test-driven_development) ( **TDD** )的扩展。
 典型的 TDD 周期，又名[红色/绿色/重构](https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html)，从失败测试的开发开始。下一步是编写通过测试的代码，最后，重构代码以提高其可读性和可维护性。
 
-[![Typical TDD cycle](../Images/3c71d7815ec882b755feab564a1cd852.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qi2VcqwO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c73l2lmwkewewlcqe4u2.png)
+[![Typical TDD cycle](img/3c71d7815ec882b755feab564a1cd852.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qi2VcqwO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c73l2lmwkewewlcqe4u2.png)
 
 相比之下，BDD 周期与后者几乎相同，只是第一步被规范的编写所取代，而不是测试的开发。这意味着第一步可以由非技术人员完成，例如业务团队的成员或了解系统应该如何运行的功能分析师。最好的部分是这个规范可以用于开发过程中的测试自动化。
 
-[![Typical BDD cycle](../Images/3c79d8fa77492c0290a159701b68ae37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZX7AvH9j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/29qwvbtqg32bewrk3dwq.png)
+[![Typical BDD cycle](img/3c79d8fa77492c0290a159701b68ae37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZX7AvH9j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/29qwvbtqg32bewrk3dwq.png)
 
 BDD 也可以描述为[领域驱动设计( **DDD** )](https://en.wikipedia.org/wiki/Domain-driven_design) 和 TDD 的交集。
 领域驱动设计是一种软件开发方法，旨在处理具有复杂业务规则的项目，在这种情况下，开发人员和领域专家(通常由客户承担这一角色)之间的合作是必要的，以建立一种通用语言和一个领域模型，该模型可以转化为非常具体和详细的需求。在 BDD 中，这个特定的需求被用来在周期的第一步驱动开发过程。
 
-[![DDD, BDD and TDD](../Images/f60e08354a37fe5651a222209916f00f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bNQ2yFo---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nzcgl8hi4ovn5uf9urnr.png)
+[![DDD, BDD and TDD](img/f60e08354a37fe5651a222209916f00f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bNQ2yFo---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nzcgl8hi4ovn5uf9urnr.png)
 
 ### 实践 BDD
 
@@ -32,7 +32,7 @@ BDD 也可以描述为[领域驱动设计( **DDD** )](https://en.wikipedia.org/w
 
 黄瓜可能是 BDD 最流行的工具，也是我第一次使用的工具。它被宣传为能够使用可执行的规范来简化测试自动化，从而生成每个人都容易理解的活文档。
 
-[![Cucumber Venn Diagram](../Images/97251dc9b17eb0013d449ee43424aa4d.png)T2】](https://cucumber.io/docs/gherkin/reference/)
+[![Cucumber Venn Diagram](img/97251dc9b17eb0013d449ee43424aa4d.png)T2】](https://cucumber.io/docs/gherkin/reference/)
 
 它最初是用 Ruby 开发的，但也有官方的 Java 和 Javascript 版本。
 

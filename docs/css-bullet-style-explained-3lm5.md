@@ -80,9 +80,9 @@ ul {
 } 
 ```
 
-[![list_position_outside](../Images/7e10ca7e25f53b8c748f715a95c51cb1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hizBzFCD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/02/list_position_outside.png)
+[![list_position_outside](img/7e10ca7e25f53b8c748f715a95c51cb1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hizBzFCD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/02/list_position_outside.png)
 
-[![list_position_inside](../Images/4a8de55faac2480de76ffa6c88b6878c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IUZbl48c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2018/02/list_position_inside.png)
+[![list_position_inside](img/4a8de55faac2480de76ffa6c88b6878c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IUZbl48c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2018/02/list_position_inside.png)
 
 第一幅图像显示了设置为外**的值，第二幅图像显示了设置为**内**的值。
 当设置值为 outside 时，表示项目符号将在列表项**的**之外。并且，当将值设置为 inside 时，项目符号将位于列表项**内的**。**

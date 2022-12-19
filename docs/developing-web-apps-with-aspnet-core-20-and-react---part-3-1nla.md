@@ -9,4 +9,4 @@
 [读读🛠](https://auth0.com/blog/developing-web-apps-with-asp-dot-net-core-2-dot-0-and-react-part-3/?utm_source=dev&utm_medium=sc&utm_campaign=aspnet2_reactjs)
 
 [![Developing Web Apps with ASP.NET Core 2.0 and React - Part 3<br>
-](../Images/ab697ae253afaf0f2f52e6a19b79c3c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z7NQYAii--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0ctgzmhp9pmyougl6i2t.png)
+](img/ab697ae253afaf0f2f52e6a19b79c3c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z7NQYAii--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0ctgzmhp9pmyougl6i2t.png)

@@ -4,7 +4,7 @@
 
 我最近对 Javascript 中的 regex 有了一些兴趣，并学到了一些有用的东西，我想与大家分享，所以我开始了一个名为 **Refrex** 的系列，这是对 Regex 的复习。
 
-[![Ba Dum Tss](../Images/a029622b6aab8bfbfb72de80a5128a03.png)T2】](https://i.giphy.com/media/XEdeYqzH36e5O/giphy.gif)
+[![Ba Dum Tss](img/a029622b6aab8bfbfb72de80a5128a03.png)T2】](https://i.giphy.com/media/XEdeYqzH36e5O/giphy.gif)
 
 那还不算太糟，是吗？
 
@@ -171,7 +171,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 然后，我在 dev.to 上做了一些研究，发现了这篇不错的文章:
 
-[![stefanjudis image](../Images/f37d9b8b4ea61d5bf15857718cd3b186.png)](/stefanjudis) [## TIL:正则表达式中的非捕获组
+[![stefanjudis image](img/f37d9b8b4ea61d5bf15857718cd3b186.png)](/stefanjudis) [## TIL:正则表达式中的非捕获组
 
 ### 斯特凡·朱迪斯 5 月 16 日 182 分钟阅读
 

@@ -80,7 +80,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 使用模型
 
-[![alt text](../Images/339884cd9f3c3a091f5ea160b9ba3a68.png "Simple login screen")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UT7PhqkX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kbcu3i8tuqf18v6hwwe4.png)
+[![alt text](img/339884cd9f3c3a091f5ea160b9ba3a68.png "Simple login screen")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UT7PhqkX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kbcu3i8tuqf18v6hwwe4.png)
 
 因此，您已经在前端创建了一个简单的登录，并在后端创建了一个 post 路由，通过 mongoose 将数据存储在我们的 mongoDB 中。看看下面我们的邮政路线。我们创建了一个`User`的`new`实例，并传入了`req.body`。我们`create`在数据库中创建一个新文档，如果信息无效，将`user`返回给客户端或一个错误。
 

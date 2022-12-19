@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/tripathinair/top-10-high-paying-countries-for-digital-marketing-specialists-459g>
 
-[![Top 10 High Paying Countries for Digital Marketing Specialists](../Images/c54c39caa627f0fd2b3138f04b2782b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Nd6MeIWh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0aruszclog1ormmqudaf.png)
+[![Top 10 High Paying Countries for Digital Marketing Specialists](img/c54c39caa627f0fd2b3138f04b2782b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Nd6MeIWh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0aruszclog1ormmqudaf.png)
 
 21 世纪初，互联网出现在市场上，并逐渐在普通人中普及。大量使用互联网来简化我们的日常实践，产生了“在线”一词。这也给了商业部门一个新的希望，让他们可以在更大的范围内做一些新奇且有利可图的事情。
 
@@ -30,7 +30,7 @@
 讽刺的是，资源不足以满足市场的花式。报告指出，数字营销职业的潜在求职者的保守心态。但我敢打赌，下面的分析报告将会让他/她大吃一惊，投身于数字营销行业。
 我们来看看——
 
-[![Digital Marketing Course In Hyderabad](../Images/082a62ed1f54ed51e981f65f7d23af48.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6p-_AAGo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t1y2f0l5wja8cyynbb2n.png)
+[![Digital Marketing Course In Hyderabad](img/082a62ed1f54ed51e981f65f7d23af48.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6p-_AAGo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t1y2f0l5wja8cyynbb2n.png)
 
 现在可以肯定的是，你们中的一些人一定已经计划开始你的数字营销生涯。那么，我们来讨论一下数字营销培训机构。每个人都称赞技能、知识和创造力。在数字营销中，由于市场的开放性，这三者甚至具有更高的价值。因此，加入最好的数字营销机构是明智的，它不仅传授营销专业知识，还提供认证。
 

@@ -6,7 +6,7 @@
 
 我不是一个超级体育迷，但我爱我的 9 号球。在短暂的大学尝试和我的第一份编程工作之间，我什么都做过一点。不知何故，我设法从在书店、零售店、快餐店工作，从在汽车后备箱卖电子产品，到在台球厅全职工作了一年。我从未失去对这项运动的热情，当我看比赛或打台球时，我总是感到最放松。
 
-<figure>[![](../Images/17066b973b8e70c7bee53520ce02f798.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6YVHJR0L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AMStSlsWrueLLaKy3qm2Lbw.jpeg) 
+<figure>[![](img/17066b973b8e70c7bee53520ce02f798.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6YVHJR0L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AMStSlsWrueLLaKy3qm2Lbw.jpeg) 
 
 <figcaption>9 球！</figcaption>
 
@@ -54,7 +54,7 @@
 
 > 线性化。读取保证返回项目的最新版本。
 
-<figure>[![](../Images/434cadf74bdf79c1fa62a19707e213a3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--e-sbGye8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A166Q_xkcJXxKZFAYg_OM6w.png) 
+<figure>[![](img/434cadf74bdf79c1fa62a19707e213a3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--e-sbGye8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A166Q_xkcJXxKZFAYg_OM6w.png) 
 
 <figcaption>强一致性</figcaption>
 
@@ -78,7 +78,7 @@
 
 > 一致的前缀。读取比写入落后 *k* 前缀或 *t* 间隔。
 
-<figure>[![](../Images/32c801c3747c8c10594865d32ec1bda4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QZWclFHb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ALDjgaE3neoC1uJOKc4wjKw.png) 
+<figure>[![](img/32c801c3747c8c10594865d32ec1bda4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QZWclFHb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ALDjgaE3neoC1uJOKc4wjKw.png) 
 
 <figcaption>有界陈腐</figcaption>
 
@@ -86,7 +86,7 @@
 
 有限陈旧是一种妥协，用延迟换取强一致性。此级别不保证所有观察器在同一时间拥有相同的数据，而是允许在操作和/或时间中指定滞后。例如，该数据库被配置为最多落后 100 次操作或延迟 5 秒钟。
 
-<figure>[![](../Images/70da25425cd376fa6870ce98f48f75fd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3G8l9CsX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/653/1%2AKAWOubdMiGroSd-F3SNa3w.png) 
+<figure>[![](img/70da25425cd376fa6870ce98f48f75fd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3G8l9CsX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/653/1%2AKAWOubdMiGroSd-F3SNa3w.png) 
 
 <figcaption>在门户中配置有界过时</figcaption>
 
@@ -110,7 +110,7 @@
 
 > 一致的前缀。单调读取、单调写入、先读后写、先写后读。
 
-<figure>[![](../Images/6b07031d3dd84509c5dbea605dd1ebc9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IOlj8P_a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AW-ewgAQ9s5Z_Q-WwmTFOaQ.png) 
+<figure>[![](img/6b07031d3dd84509c5dbea605dd1ebc9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IOlj8P_a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AW-ewgAQ9s5Z_Q-WwmTFOaQ.png) 
 
 <figcaption>会话一致性</figcaption>
 
@@ -148,7 +148,7 @@
 
 > 返回的更新是所有更新的前缀，没有间隔。
 
-<figure>[![](../Images/2449ca00c574b6f542982152fbb6ef34.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nlM3X7wZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Au2f3aV2Y0NHOZVR3YBFf2w.png) 
+<figure>[![](img/2449ca00c574b6f542982152fbb6ef34.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nlM3X7wZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Au2f3aV2Y0NHOZVR3YBFf2w.png) 
 
 <figcaption>一致前缀</figcaption>
 
@@ -170,7 +170,7 @@
 
 > 无序读取。
 
-<figure>[![](../Images/fd7ef76e1e9bbff4bd9b03b4d86fb8c1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jNOcdEB8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A6hFhjpptxbeLRnTJ3LwAqA.png) 
+<figure>[![](img/fd7ef76e1e9bbff4bd9b03b4d86fb8c1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jNOcdEB8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A6hFhjpptxbeLRnTJ3LwAqA.png) 
 
 <figcaption>最终一致性</figcaption>
 
@@ -198,6 +198,6 @@
 
 问候，
 
-[![](../Images/97adde39a566ae152324f60361115585.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u6zXBAsP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/197/1%2AKwXn3ElS7vnWIk8lNVhBsA.gif)
+[![](img/97adde39a566ae152324f60361115585.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u6zXBAsP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/197/1%2AKwXn3ElS7vnWIk8lNVhBsA.gif)
 
 * * *

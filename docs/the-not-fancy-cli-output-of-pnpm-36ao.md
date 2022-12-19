@@ -6,7 +6,7 @@
 
 当我第一次开始为 pnpm 做贡献时(大约在`v0.15`)，安装是这样报告的:
 
-[![](../Images/9bf6d09db0c1c63eddf4f743ed3cf31b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0-WOVKg2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/pnpm/pnpm/v0.15.0/docs/images/screencast.gif)
+[![](img/9bf6d09db0c1c63eddf4f743ed3cf31b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0-WOVKg2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/pnpm/pnpm/v0.15.0/doimg/screencast.gif)
 
 它不是很有用，但是一些 pnpm 用户喜欢它。他们认为它很美。但是当我们开始添加更多的功能时，我们意识到以一种易读的格式打印适量的信息是非常重要的。
 
@@ -16,7 +16,7 @@
 
 当您第一次安装 pnpm 并在项目中运行`pnpm install`时，您会看到如下输出:
 
-[![](../Images/9ac17ca1166f39c7a64008d7d1ca0a75.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gLoK765H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/JccLTtM.png)
+[![](img/9ac17ca1166f39c7a64008d7d1ca0a75.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gLoK765H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/JccLTtM.png)
 
 与旧的输出不同，这个输出非常静态和简洁，但是它包含了更多有用的信息。
 
@@ -32,7 +32,7 @@
 
 现在，让我们将 express 更新到最新版本，看看我们会得到什么:
 
-[![](../Images/9874297346dd6b45a2b4a72f63cae5ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t_CEjgIM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/VemTmr6.png)
+[![](img/9874297346dd6b45a2b4a72f63cae5ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t_CEjgIM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/VemTmr6.png)
 
 *   从 node_modules 中删除了 5 个软件包
 *   向 node_modules 添加了 5 个包
@@ -45,15 +45,15 @@ pnpm 有一组用于处理多包存储库(MPR)的命令。在 MPR 中安装依�
 
 MPR 中的每个包都印有添加/删除包的数量(受 Git 启发):
 
-[![](../Images/c3635e7cf6abc7ed151487e8d1d45af4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dNnMO5Gf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/dsnTBJK.png)
+[![](img/c3635e7cf6abc7ed151487e8d1d45af4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dNnMO5Gf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/dsnTBJK.png)
 
 缩小报告还打印警告(只有警告，没有信息消息):
 
-[![](../Images/50afc27d6245bca4e3697ee66609073d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EYntcrt3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/D8gH7Kz.png)
+[![](img/50afc27d6245bca4e3697ee66609073d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EYntcrt3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/D8gH7Kz.png)
 
 当我们为[递归命令](https://pnpm.js.org/docs/en/pnpm-recursive.html)提出缩小报告的概念时，我们意识到它们在其他场景中也很有用。例如，当包被链接进来时，它应该是缩小和放大报告的混合。应简要报告链接的包，当前工作目录中的包应成为焦点:
 
-[![](../Images/e896d7354e5e487230affac6ed06537f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VfomBKva--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/aIFlBep.png)
+[![](img/e896d7354e5e487230affac6ed06537f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VfomBKva--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/aIFlBep.png)
 
 ## 实现细节
 

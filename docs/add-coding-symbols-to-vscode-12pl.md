@@ -6,7 +6,7 @@
 
 以下是添加编码符号(也称为字体连字)的示例。
 
-[![VS Code using Fira Code font ligatures.](../Images/853ba634fe351aed60f715d4c093943b.png)T2】](///static/code-symbol-preview-2ab22531392495cde253634d93667edf-25de8.jpg)
+[![VS Code using Fira Code font ligatures.](img/853ba634fe351aed60f715d4c093943b.png)T2】](///static/code-symbol-preview-2ab22531392495cde253634d93667edf-25de8.jpg)
 
 要将它添加到 VS 代码中，请执行以下操作:
 

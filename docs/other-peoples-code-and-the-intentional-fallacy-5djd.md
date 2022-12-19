@@ -8,7 +8,7 @@
 
 <figure>
 
-[![Me, trying to figure out my own BS](../Images/3e1dfc26083173cd5df37fa038cf7711.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UvI9CIkd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://i.giphy.com/Cxj3KTY05FHQQ.gif)
+[![Me, trying to figure out my own BS](img/3e1dfc26083173cd5df37fa038cf7711.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UvI9CIkd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://i.giphy.com/Cxj3KTY05FHQQ.gif)
 
 <figcaption>Me, trying to figure out my own old code</figcaption>
 
@@ -45,7 +45,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <figure>
 
-[![Some stuff really doesn't matter](../Images/e3097a6032f1ba6e8af18864d369e97f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5z3H1gvc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/52f51a96e4b0ec7646cd474a/5328b57de4b067106916ef7f/56b3bc3b01dbae7de44ff861/1504623390271/starbelly2.jpg%3Fformat%3D500w)
+[![Some stuff really doesn't matter](img/e3097a6032f1ba6e8af18864d369e97f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5z3H1gvc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/52f51a96e4b0ec7646cd474a/5328b57de4b067106916ef7f/56b3bc3b01dbae7de44ff861/1504623390271/starbelly2.jpg%3Fformat%3D500w)
 
 <figcaption>Some stuff really doesn't matter</figcaption>
 
@@ -59,7 +59,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <figure>
 
-[![Me, trying to make a point](../Images/b7ca86bf053ffaf9531e6edbf0c4035e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lDLlWksK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/bbe6cd1dd6a8cd80f6776238b2319925/tenor.gif%3Fitemid%3D8620816)
+[![Me, trying to make a point](img/b7ca86bf053ffaf9531e6edbf0c4035e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lDLlWksK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.cimg/bbe6cd1dd6a8cd80f6776238b2319925/tenor.gif%3Fitemid%3D8620816)
 
 <figcaption>What I look like trying to make this point</figcaption>
 
@@ -71,7 +71,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <figure>
 
-[![Time to figure out what this 2 year old comment means](../Images/4c44fd66d34e9e4b04e4ee05baf4922f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--opJB0PuW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://confessionsfromageekmind.files.wordpress.com/2015/02/the-imitation-game.jpg%3Fw%3D730%26h%3D406)
+[![Time to figure out what this 2 year old comment means](img/4c44fd66d34e9e4b04e4ee05baf4922f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--opJB0PuW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://confessionsfromageekmind.files.wordpress.com/2015/02/the-imitation-game.jpg%3Fw%3D730%26h%3D406)
 
 <figcaption>Time to figure out what this 2 year old comment means</figcaption>
 

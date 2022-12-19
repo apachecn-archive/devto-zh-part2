@@ -16,7 +16,7 @@
 
 原来写文字跟说文字一样快是一个很老的问题。它被称为*速记*(或速记)，根据[维基百科](https://en.wikipedia.org/wiki/Shorthand)的说法，它从古典时期就已经存在了。
 
-下面是使用法国“普雷沃斯特-德劳内”技术的速记法的样子: [![stenograpy example](../Images/6e5d94ea3a10fcd3ec17964f1fb1a4d8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TJ-dkp8N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/steno.png)
+下面是使用法国“普雷沃斯特-德劳内”技术的速记法的样子: [![stenograpy example](img/6e5d94ea3a10fcd3ec17964f1fb1a4d8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TJ-dkp8N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/steno.png)
 
 同样，将人类的手写文字转换成文本也是一个众所周知的问题。看一下 [OCR 历史](https://en.wikipedia.org/wiki/Timeline_of_optical_character_recognition)就知道了。
 

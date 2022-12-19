@@ -49,7 +49,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这为我们提供了以下输出中的进一步说明:
 
-[![Stagehand web-angular scaffolding output](../Images/ab5ec5bbbc7b57e86df77cd095b7695f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TnbNu3VK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i2ewygqrnh4uecrvql6r.png)
+[![Stagehand web-angular scaffolding output](img/ab5ec5bbbc7b57e86df77cd095b7695f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TnbNu3VK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i2ewygqrnh4uecrvql6r.png)
 
 今天的快速提示就到这里。现在你试一下怎么样？👐☺️
 

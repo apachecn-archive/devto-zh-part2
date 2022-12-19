@@ -55,7 +55,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 看看下面的 gif，它向你展示了如何创建一个新的应用程序，初始化它，构建它，并在本地运行它。
 
-[![kapp demo](../Images/f651de13956507cab0d54b5ba4c84fbb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i8OmWYtQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/peterj/kapp/raw/master/img/kapp-create.gif)
+[![kapp demo](img/f651de13956507cab0d54b5ba4c84fbb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i8OmWYtQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/peterj/kapp/raw/master/img/kapp-create.gif)
 
 # 部署到 Kubernetes
 

@@ -357,7 +357,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 有了这个更新，有了 git 存储库中即将可用的 css，我们正在处理的部分看起来会像这样:
 
-[![](../Images/fa68573ed54092cd243caf603f81d1f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JdmI7eTc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y57fdje3yerthywh3pkf.png)
+[![](img/fa68573ed54092cd243caf603f81d1f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JdmI7eTc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y57fdje3yerthywh3pkf.png)
 
 正如你所看到的代码注释，我们需要在页面上添加视频，评论和学分。
 
@@ -575,7 +575,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 仅此而已。这是如何学分，视频和评论会出现。
 
-[![](../Images/b009e5bbd942e2b6ddc6fbbd5a24f9c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OUYS8V7B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1x9u077agbcja9t9fr82.png)
+[![](img/b009e5bbd942e2b6ddc6fbbd5a24f9c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OUYS8V7B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1x9u077agbcja9t9fr82.png)
 
 ## 结论
 

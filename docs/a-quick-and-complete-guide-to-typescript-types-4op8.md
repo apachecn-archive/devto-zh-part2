@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/a-quick-and-complete-guide-to-typescript-types-4op8>
 
-[![](../Images/be9cd2085eee4088024a6a86124d2b56.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Jb8EEYVT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AkAvyOmNO4q1PAa-qEyrc5g.jpeg) 
+[![](img/be9cd2085eee4088024a6a86124d2b56.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Jb8EEYVT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AkAvyOmNO4q1PAa-qEyrc5g.jpeg) 
 
 <figcaption>照片由[杯先生/杨奇煜·巴拉](https://unsplash.com/photos/YmsmIv1IMRU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)上 [Unsplash](https://unsplash.com/search/photos/type?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 
@@ -16,7 +16,7 @@ TypeScript 是一种静态类型语言。如果变量的类型在编译时已知
 
 在上面的例子中，如果一个字符串被添加到数组中，编译器将抛出一个编译错误。这就是 TypeScript 给 JavaScript 带来的，错误和类型检查。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/?cid=banner_a)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/?cid=banner_a)
 
 ### 使用类型
 

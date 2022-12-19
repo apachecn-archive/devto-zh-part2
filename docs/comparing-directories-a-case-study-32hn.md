@@ -20,7 +20,7 @@
 
 我们可以使用许多 GUI 工具来完成这项任务，这里有一个使用 [Kdiff3](http://kdiff3.sourceforge.net/) 的例子:
 
-[![kdiff3 screenshot](../Images/a1a6a0f07d774b77c7061749d22fe34c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pLL8XV4E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/kdiff3.png)
+[![kdiff3 screenshot](img/a1a6a0f07d774b77c7061749d22fe34c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pLL8XV4E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/kdiff3.png)
 
 在左上方的窗格中，我们看到了 A 和 B 目录之间所有差异的概述，我们可以看到:
 

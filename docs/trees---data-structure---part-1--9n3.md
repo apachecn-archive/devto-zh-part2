@@ -6,7 +6,7 @@
 
 二叉查找树(BST)是由二进制定义的，这意味着每个节点最多有两个子节点。我们有这样的属性，在根节点，根节点的值大于或等于左边子节点中的所有节点，它小于右边子节点中的节点。
 
-[![Alt Stack](../Images/e53bb18ab3430e24cfeea47353138dba.png "example")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VEybbFcm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Iac1ASO.jpg)
+[![Alt Stack](img/e53bb18ab3430e24cfeea47353138dba.png "example")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VEybbFcm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/Iac1ASO.jpg)
 
 ### 在这个例子中
 
@@ -35,7 +35,7 @@
 
 ## 我们来看看其他一些树木的术语。
 
-[![Alt Stack](../Images/3b80c6cf41c0209f673c44dfedb35c79.png "example")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--epHeuVmt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/I07SBz8.png)
+[![Alt Stack](img/3b80c6cf41c0209f673c44dfedb35c79.png "example")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--epHeuVmt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/I07SBz8.png)
 
 *   根:是树的顶端节点，所以在这里，Fred 是树的根。
 *   **一个孩子**:有一个父代的直系后代，Kate 是 Sam 的父代，Sam 是 Kate 的孩子。
@@ -59,7 +59,7 @@
 
 *   **森林**:我们也有森林的概念。所以这是一个树的集合..这里有两棵树，一个是凯特，一个是莎莉，它们形成了一片森林。
 
-[![Alt Stack](../Images/7a1ea89d77339df5c359d5867729de84.png "Forest")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ylAJBR2l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/q6aBy6l.png)
+[![Alt Stack](img/7a1ea89d77339df5c359d5867729de84.png "Forest")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ylAJBR2l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/q6aBy6l.png)
 
 ## 二叉树非常常用。
 

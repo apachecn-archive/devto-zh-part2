@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/aleydacohen/why-youtube-is-2nd-most-popular-website-on-this-planet-4np2>
 
-[![YouTube](../Images/a65eb5e12b7f8463d88ee05c1845fbc3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5q6b_bCg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/stq1e34s1zeqijxpq8pt.jpg)
+[![YouTube](img/a65eb5e12b7f8463d88ee05c1845fbc3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5q6b_bCg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/stq1e34s1zeqijxpq8pt.jpg)
 
 你知道为什么 YouTube 这样的网站越来越受欢迎吗？
 

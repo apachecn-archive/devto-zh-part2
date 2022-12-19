@@ -4,7 +4,7 @@
 
 🔥热点提示:你经常搞砸 git 提交消息吗？我愿意。
 
-[![image](../Images/61d10a2b1589b9707ab581b90fde2375.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ldCAlxaJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://on.ahmda.ws/0e213760255b/c)
+[![image](img/61d10a2b1589b9707ab581b90fde2375.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ldCAlxaJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://on.ahmda.ws/0e213760255b/c)
 
 大多数时候，我不得不修改最后一条 git 提交消息。所以，我用它做了一个小的 bash 函数。
 
@@ -28,10 +28,10 @@ Enter fullscreen mode Exit fullscreen mode
 🤖放进去。bashrc/。zshrc 等文件
 👌分享这个快速提示是一件有趣的事情
 
-> ![unknown tweet media content](../Images/cf815b636c47a8275fee2ca20eabd1d6.png)![AhmadAwais.js profile image](../Images/87af3ffd0210294123738700bfe83f7e.png)ahmadawais . js@ mrahmadawais![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)🔥热点提示:你经常搞砸 git 提交消息吗？我愿意。
+> ![unknown tweet media content](img/cf815b636c47a8275fee2ca20eabd1d6.png)![AhmadAwais.js profile image](img/87af3ffd0210294123738700bfe83f7e.png)ahmadawais . js@ mrahmadawais![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)🔥热点提示:你经常搞砸 git 提交消息吗？我愿意。
 > 
 > 大部分时间我都要修改最后一条 git 提交消息。所以，我用它做了一个小的 bash 函数。
 > 
 > ✅一口气修改 git 提交
 > 🤖放进去。bashrc/。zshrc 等文件
-> 👌转发是一件很好玩的事2018 年 9 月 09:56 AM - 14 日[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1040539814536392709)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1040539814536392709)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1040539814536392709)
+> 👌转发是一件很好玩的事2018 年 9 月 09:56 AM - 14 日[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1040539814536392709)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1040539814536392709)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1040539814536392709)

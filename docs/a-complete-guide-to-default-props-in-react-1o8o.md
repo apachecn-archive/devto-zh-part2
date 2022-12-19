@@ -4,7 +4,7 @@
 
 #### 了解关于为不同风格的 React 组件设置默认属性的所有信息。
 
-[![](../Images/c63db3822727f891205865e70bcf4705.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EvKg0vqJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AxTSb8MHuCUfj_Prce0Hueg.jpeg)
+[![](img/c63db3822727f891205865e70bcf4705.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EvKg0vqJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AxTSb8MHuCUfj_Prce0Hueg.jpeg)
 
 **React** 是一个非常强大的基于组件的 JavaScript 框架，用于构建可在不同平台上运行的可扩展应用程序——服务器、web、移动、桌面等。如今，在这些平台上运行的数千个应用程序都是基于 React 构建的。
 
@@ -16,7 +16,7 @@ React 的一些惊人特性包括:*精益框架*、*虚拟 DOM* 、 *JSX 支持*
 
 *本指南中的截图显示了使用一些基本的* [*引导 4*](https://getbootstrap.com) *CSS 样式渲染的视图。为了获得非常相似的结果，您将不得不使用一些额外的引导样式来运行代码片段。*
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### 你好，反应过来的分量
 
@@ -59,7 +59,7 @@ ReactDOM.render(, document.getElementById('root'));
 
 请注意，ReactHeader 的版本属性设置为 16。目前，ReactHeader 组件中的一切似乎都工作正常，如下图所示。
 
-[![](../Images/e1c3cda7c6be62182084228f2cf54855.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4ImHI3f_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ALspg0s2QB5pgdHhp.png)
+[![](img/e1c3cda7c6be62182084228f2cf54855.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4ImHI3f_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ALspg0s2QB5pgdHhp.png)
 
 <figcaption>react ader 组件</figcaption>
 
@@ -72,7 +72,7 @@ ReactDOM.render(, document.getElementById('root'));
 ReactDOM.render(, document.getElementById('root')); 
 ```
 
-[![](../Images/7adeb2e9d742a29b231bbd54b64c1674.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--D3G0TOeh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AREmjO3vBUL7tHrSD.png)
+[![](img/7adeb2e9d742a29b231bbd54b64c1674.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--D3G0TOeh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AREmjO3vBUL7tHrSD.png)
 
 <figcaption>react ader 组件无版本</figcaption>
 
@@ -186,7 +186,7 @@ ReactDOM.render(<App />, rootElement);
 
 请注意，ThemedButton 组件在应用程序中已经呈现了五次。第五次，ThemedButton 没有传递任何道具。下面是该应用程序的屏幕截图:
 
-[![](../Images/8e910edceb2d8e9ff7fad0e7adc0a896.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--G2gsybtY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AKzv_kxjrGGbH5Kzp.png) 
+[![](img/8e910edceb2d8e9ff7fad0e7adc0a896.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--G2gsybtY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AKzv_kxjrGGbH5Kzp.png) 
 
 <figcaption>主题按钮 App</figcaption>
 
@@ -223,7 +223,7 @@ const ThemedButton = React.createClass({
 
 使用默认的道具设置，应用程序现在应该看起来像下面的截图:
 
-[![](../Images/7d25d042f7285fc0b1d8fe200602c87b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--w2ZGVQzg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AyEHi9BqDrnODePbY.png) 
+[![](img/7d25d042f7285fc0b1d8fe200602c87b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--w2ZGVQzg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AyEHi9BqDrnODePbY.png) 
 
 <figcaption>带有默认道具的主题按钮</figcaption>
 
@@ -383,7 +383,7 @@ ThemedButton = withDefaultProps(ThemedButton);
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

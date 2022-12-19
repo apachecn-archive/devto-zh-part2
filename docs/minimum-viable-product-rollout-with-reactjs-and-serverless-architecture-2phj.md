@@ -5,7 +5,7 @@
 最近，我加入了一个新组织， [Supahands](http://supahands.com) ！
 作为我的第一个任务，我应该为我们的一个产品评估一些前端框架。对我来说，这是一项具有挑战性的任务，我在这个过程中学到了很多。
 
-[![yaay](../Images/756ed2406e1513f3cd087604cd8dcec8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GlPcxV0U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e0gii478k3kyj8oc0cnf.gif)
+[![yaay](img/756ed2406e1513f3cd087604cd8dcec8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GlPcxV0U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e0gii478k3kyj8oc0cnf.gif)
 
 * * *
 
@@ -34,7 +34,7 @@
 
 ### 和...我们达到目标了吗？**是的！**
 
-[![woohoo](../Images/16e52f04b1824074f1f1b3c1357b75f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HKyHKkXp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pzj1qescolcc7pb0zm2h.gif)
+[![woohoo](img/16e52f04b1824074f1f1b3c1357b75f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HKyHKkXp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pzj1qescolcc7pb0zm2h.gif)
 
 * * *
 
@@ -64,6 +64,6 @@
 
 特别感谢**开发商**和**社区**。我为 React 和无服务器开发引用了很多线程！
 
-[![Thank you](../Images/5129951ec09394029c0d468236606bdf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fOfIj6cz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s7ndt66xxefe0nhkauld.gif)
+[![Thank you](img/5129951ec09394029c0d468236606bdf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fOfIj6cz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s7ndt66xxefe0nhkauld.gif)
 
 * * *

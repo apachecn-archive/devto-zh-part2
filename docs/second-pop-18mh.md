@@ -6,7 +6,7 @@
 
 这个新的 PoP 是小羊羔 Mk I 服务器的第一次现场部署。
 
-[![Two Little Lambs](../Images/b8fe3ac99145b0eda0f0a7c6f9338281.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jN-VKylk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/55e0wjq6sfamzqe7s4tg.jpg)T3】
+[![Two Little Lambs](img/b8fe3ac99145b0eda0f0a7c6f9338281.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jN-VKylk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/55e0wjq6sfamzqe7s4tg.jpg)T3】
 
 <center>Photo: [Ben (seabirdnz)](https://www.flickr.com/photos/seabirdnz/15509455436)</center>
 

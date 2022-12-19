@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/vaibhavshah/will-webassembly-replace-javascript-or-will-wasm-make-javascript-more-valuable-in-future-5c6e>
 
-[![Will WebAssembly replace JavaScript](../Images/f7581fb9a0522d10a9416bb134b4eb8b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J_BJrwHO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/451saypdn0opoyq7al69.jpg)
+[![Will WebAssembly replace JavaScript](img/f7581fb9a0522d10a9416bb134b4eb8b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J_BJrwHO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/451saypdn0opoyq7al69.jpg)
 
 自从 WebAssembly 开始流行以来，开发人员中就出现了一个问题:它会终结 JavaScript 吗？然而，一些开发者和企业认为 WebAssembly 将补充 JavaScript 并加速 web 开发。
 

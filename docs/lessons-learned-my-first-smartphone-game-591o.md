@@ -156,8 +156,8 @@ UX 调整、教程、菜单等等:
 
 我进一步开发了这个游戏，实现了一个新的关卡模式和一个更简单的街机模式。2017 年 12 月发布 2.0 版本。
 
-[![Level Select Screen](../Images/a5dc7b3a00a1d175ed9604dec60d1ab4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZLu65Mxv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.mokkapps.de/talks/my-first-smartphone-game/img/level-modus.png)
-[![Level Success Screen](../Images/1429bbcad5fe7995da37cedefd8be26e.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--kcq0-BCa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.mokkapps.de/talks/my-first-smartphone-game/img/level-mode-development.png)
+[![Level Select Screen](img/a5dc7b3a00a1d175ed9604dec60d1ab4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZLu65Mxv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.mokkapps.de/talks/my-first-smartphone-game/img/level-modus.png)
+[![Level Success Screen](img/1429bbcad5fe7995da37cedefd8be26e.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--kcq0-BCa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.mokkapps.de/talks/my-first-smartphone-game/img/level-mode-development.png)
 
 # 结论
 
@@ -171,10 +171,10 @@ UX 调整、教程、菜单等等:
 
 一些有趣的谷歌分析数据:
 
-[![Google Analytics Overview](../Images/a871214f5cffc8fb1dfd28285ed064a7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--c9yuswxc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.mokkapps.de/blog/img/supermarket-challenge-analytics-overview.png)
-[![Google Analytics OS](../Images/608e3620f7ce9c17b6e4d3f6be056110.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OgceQlF1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.mokkapps.de/blog/img/supermarket-challenge-analytics-os.png)
-[![Google Analytics Countries](../Images/d9aec84a8e89d3a8224dd8abc7bea111.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qTVIkd7n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.mokkapps.de/blog/img/supermarket-challenge-analytics-countries.png)
-[![Google Analytics Play Time](../Images/1b3cc6f781ed7f9e91a10c2b138bcd8e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nBkWW475--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.mokkapps.de/blog/img/supermarket-challenge-analytics-play-time.png)
+[![Google Analytics Overview](img/a871214f5cffc8fb1dfd28285ed064a7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--c9yuswxc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.mokkapps.de/blog/img/supermarket-challenge-analytics-overview.png)
+[![Google Analytics OS](img/608e3620f7ce9c17b6e4d3f6be056110.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OgceQlF1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.mokkapps.de/blog/img/supermarket-challenge-analytics-os.png)
+[![Google Analytics Countries](img/d9aec84a8e89d3a8224dd8abc7bea111.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qTVIkd7n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.mokkapps.de/blog/img/supermarket-challenge-analytics-countries.png)
+[![Google Analytics Play Time](img/1b3cc6f781ed7f9e91a10c2b138bcd8e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nBkWW475--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.mokkapps.de/blog/img/supermarket-challenge-analytics-play-time.png)
 
 在我看来，尤其是像 play time 这样的自定义事件非常有趣。基于这些数字，我可以假设这个游戏仍然很难，因为大多数玩家在不到一分钟的游戏时间内就能在屏幕上看到这个游戏。
 

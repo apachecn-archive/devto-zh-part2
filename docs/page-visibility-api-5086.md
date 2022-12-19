@@ -43,6 +43,6 @@ const PageVisibility = {
 
 结果:
 
-[![](../Images/77e4ce6aecf39a76c9e573fb0622fb73.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PsA1l0GH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ou5tq1izdbt8xp6ki5je.gif)
+[![](img/77e4ce6aecf39a76c9e573fb0622fb73.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PsA1l0GH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ou5tq1izdbt8xp6ki5je.gif)
 
 这最初是[发布在我的博客](https://tj.ie/page-visibility)上。

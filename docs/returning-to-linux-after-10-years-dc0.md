@@ -6,7 +6,7 @@
 
 # 羚羊 Pro
 
-[![An image of Oryx Pro](../Images/a630310eb5a251761358a02d7dc19071.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DDpMwPmn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xanth5w2y5d7k0lq7733.jpeg)
+[![An image of Oryx Pro](img/a630310eb5a251761358a02d7dc19071.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DDpMwPmn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xanth5w2y5d7k0lq7733.jpeg)
 
 在能力方面，Oryx Pro 给人的印象非常深刻。它可以容纳一个 NVidia GeForce 1060 或 1070，高达 64GB 的 RAM 和 10TB 的存储空间！！
 

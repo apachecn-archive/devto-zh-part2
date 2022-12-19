@@ -8,7 +8,7 @@
 
 为了证明我理解这个想法，我用 python 3 编写了一个小脚本来压缩文本文件:
 
-## ![GitHub logo](../Images/375dfcc32199b4dedf2b526645c27ff7.png) [梅伦](https://github.com/Mellen) / [文件 _ 压缩](https://github.com/Mellen/file_compression)
+## ![GitHub logo](img/375dfcc32199b4dedf2b526645c27ff7.png) [梅伦](https://github.com/Mellen) / [文件 _ 压缩](https://github.com/Mellen/file_compression)
 
 ### 用于压缩文件的 python 3 程序
 

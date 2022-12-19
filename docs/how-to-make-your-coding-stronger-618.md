@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/brettclawson75/how-to-make-your-coding-stronger-618>
 
-[![coding](../Images/d4faabcae133b5d7b74d62106ee33fe5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--foJb8ioO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1528901166007-3784c7dd3653%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D18512df4d8ec00f8a1cd5f950111ac2c%26auto%3Dformat%26fit%3Dcrop%26w%3D1500%26q%3D80)
+[![coding](img/d4faabcae133b5d7b74d62106ee33fe5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--foJb8ioO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1528901166007-3784c7dd3653%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D18512df4d8ec00f8a1cd5f950111ac2c%26auto%3Dformat%26fit%3Dcrop%26w%3D1500%26q%3D80)
 
 **如何让你的编码变得强大**
 

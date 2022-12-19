@@ -4,7 +4,7 @@
 
 你不能循规蹈矩地学习走路。你通过实践和跌倒来学习。理查德·布兰森
 
-[![](../Images/92fdd24cde7ff6786659acb79bf62c61.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h6DQXlPT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://developers.giphy.com/static/img/api.c99e353f761d.gif)
+[![](img/92fdd24cde7ff6786659acb79bf62c61.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h6DQXlPT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://developers.giphy.com/static/img/api.c99e353f761d.gif)
 
 灵感 API 是我努力提高 Scala 技能之旅的起点。在用这种语言编写了很少的代码之后，我决定尝试用这种语言和 Play 框架一起构建一个基本的 API。我发现，有时你只需要亲自动手，从错误中吸取教训，而不是采取教科书式的方法。(解释或更正刚说过的话)我是说...能有多难？
 
@@ -22,7 +22,7 @@
 
 我设置了一堆 github 问题，这些问题与一个整体 RESTful API 里程碑相关联，本质上是每个 CRUD 特性或多或少有一个问题:
 
-[![](../Images/e03bd71f572743213f2ef08694e0a355.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WK9LIfYL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l0j0tqb1rnsrpq9eizim.png)
+[![](img/e03bd71f572743213f2ef08694e0a355.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WK9LIfYL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l0j0tqb1rnsrpq9eizim.png)
 
 开始的时候，我从 Play 网站上克隆了一个 Play/Scala 种子->现在回想起来，它包含了很多我开玩笑地称之为 Bash 膨胀软件的东西，这些东西对于用 SBT 在本地构建项目来说是不必要的——但是它完成了任务！
 

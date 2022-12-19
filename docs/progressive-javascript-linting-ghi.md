@@ -4,7 +4,7 @@
 
 林挺和自动格式化在 JavaScript 开发人员中是一个众所周知的过程，尽管由于缺乏一个标准的工具，很多人并不知道它。当 linter 分析您的代码并警告您潜在的问题时，格式化程序可以根据您的偏好自动格式化它。
 
-[![ESLint Output example](../Images/ba04ff8ce924ae929a9e4081bd8f5626.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a6s4IIxw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kbariotis/kostasbariotis.com/master/src/pages/progressive-linting/eslint-example.png)
+[![ESLint Output example](img/ba04ff8ce924ae929a9e4081bd8f5626.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a6s4IIxw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/kbariotis/kostasbariotis.com/master/src/pages/progressive-linting/eslint-example.png)
 
 很多时候，我不得不处理缺少适当的样式指南和规则的 JavaScript 代码库。整个项目的编码风格是不同的，未使用的或隐含的全局变量和未使用的必需依赖到处都是。
 

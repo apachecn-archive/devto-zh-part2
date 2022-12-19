@@ -219,7 +219,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 编译并运行。
 
-[![](../Images/66313cf461ee21b10db0a55749f9e938.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cxCIx7OB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1h4l4emi2plp4bww2c7y.png)
+[![](img/66313cf461ee21b10db0a55749f9e938.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cxCIx7OB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1h4l4emi2plp4bww2c7y.png)
 
 我希望这是更多的使用键盘控制角色的文章。
 

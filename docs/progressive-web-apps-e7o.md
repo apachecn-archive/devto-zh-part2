@@ -23,7 +23,7 @@
 
 如下图所示，渐进式网络应用和本地应用之间的表面差异与终端用户访问它们的方式有关。
 
-[![pwa_vs_native_app](../Images/fc3b001cb42c38c8560c56b06fbac9a1.png "elmahdim.com")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nzILvvwK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cwq1afwl0v38ovmmupsq.png)
+[![pwa_vs_native_app](img/fc3b001cb42c38c8560c56b06fbac9a1.png "elmahdim.com")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nzILvvwK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cwq1afwl0v38ovmmupsq.png)
 
 渐进式 Web 应用程序被认为是一种回避甚至消除许多与本地应用程序开发相关的头痛问题的方法。然而，原生应用程序仍然更加健壮，可以为任何用途编写。
 

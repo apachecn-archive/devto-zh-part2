@@ -16,7 +16,7 @@
 
 但是！..在我的岗位上
 
-[![ab0nilla image](../Images/f8acdfbb4ce360ac2e0873832defd126.png)](/ab0nilla) [## 在 Centos 7 中使用 Certbot 安装 SSL 证书
+[![ab0nilla image](img/f8acdfbb4ce360ac2e0873832defd126.png)](/ab0nilla) [## 在 Centos 7 中使用 Certbot 安装 SSL 证书
 
 ### 亚历杭德罗博尼拉 7 月 30 日 181 分钟阅读
 

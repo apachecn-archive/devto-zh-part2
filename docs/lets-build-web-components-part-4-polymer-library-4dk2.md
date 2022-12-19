@@ -6,7 +6,7 @@
 
 在我们的[上一篇文章](https://dev.to/bennypowers/lets-build-web-components-part-3-vanilla-components-4on3)中，我们学习了如何只用 JavaScript 和 <abbr title="document object model">DOM</abbr> <abbr title="application programmer interface">API</abbr> 编写单文件组件。
 
-[![bennypowers](../Images/57370d6f6dab8d6651a3f138a1aaaa40.png)](/bennypowers) [## 让我们构建 Web 组件！第 3 部分:普通组件
+[![bennypowers](img/57370d6f6dab8d6651a3f138a1aaaa40.png)](/bennypowers) [## 让我们构建 Web 组件！第 3 部分:普通组件
 
 ### 本尼·鲍尔斯🇮🇱🇨🇦10 月 5 日 1818 分钟阅读
 
@@ -719,7 +719,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 对于这种类型的应用架构的完全实现的例子，请参见 GitHub 上古老的[聚合物初学者工具包](https://github.com/polymer/polymer-starter-kit)。
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [聚合物](https://github.com/Polymer) / [聚合物启动器套件](https://github.com/Polymer/polymer-starter-kit)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [聚合物](https://github.com/Polymer) / [聚合物启动器套件](https://github.com/Polymer/polymer-starter-kit)
 
 ### 聚合物应用的起点
 
@@ -727,7 +727,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 # 聚合物应用工具箱-入门套件
 
-[![Build Status](../Images/b492b20800bd2e6d7e11d9898002675f.png)T2】](https://travis-ci.org/Polymer/polymer-starter-kit)
+[![Build Status](img/b492b20800bd2e6d7e11d9898002675f.png)T2】](https://travis-ci.org/Polymer/polymer-starter-kit)
 
 该模板是使用基于抽屉的布局构建应用程序的起点。布局由`app-layout`元素提供。
 
@@ -872,7 +872,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 再见😊
 
-您想就此处涉及的任何主题进行一对一的辅导吗？[![Contact me on Codementor](../Images/97f0e0737ce864c47f2412396b01e737.png)T2】](https://www.codementor.io/bennyp?utm_source=github&utm_medium=button&utm_term=bennyp&utm_campaign=github)
+您想就此处涉及的任何主题进行一对一的辅导吗？[![Contact me on Codementor](img/97f0e0737ce864c47f2412396b01e737.png)T2】](https://www.codementor.io/bennyp?utm_source=github&utm_medium=button&utm_term=bennyp&utm_campaign=github)
 
 ## 鸣谢
 
@@ -880,7 +880,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 查看本系列的下一篇文章
 
-[![bennypowers](../Images/57370d6f6dab8d6651a3f138a1aaaa40.png)](/bennypowers) [## 让我们来构建 Web 组件！第五部分:文学元素
+[![bennypowers](img/57370d6f6dab8d6651a3f138a1aaaa40.png)](/bennypowers) [## 让我们来构建 Web 组件！第五部分:文学元素
 
 ### 本尼·鲍尔斯🇮🇱🇨🇦10 月 22 日 1818 分钟阅读
 

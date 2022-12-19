@@ -10,15 +10,15 @@
 
 如果这对您有帮助，请不要忘记启动存储库！
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)/[搜索-偏转器](https://github.com/spikespaz/search-deflector)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)/[搜索-偏转器](https://github.com/spikespaz/search-deflector)
 
 ### 一个小程序，将搜索从 Cortana 转发到您首选的浏览器和搜索引擎。
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-# [![Search Deflector](../Images/aa5b5e459837c7ff139a760b278cb0c5.png)T2】](https://raw.githubusercontent.com/spikespaz/search-deflector/release/assets/title.svg)
+# [![Search Deflector](img/aa5b5e459837c7ff139a760b278cb0c5.png)T2】](https://raw.githubusercontent.com/spikespaz/search-deflector/release/assets/title.svg)
 
-[![Latest Version](../Images/59a55815153acc9b9febe778ea674473.png)](https://github.com/spikespaz/search-deflector/releases/latest)[![Project License](../Images/cda54c1b7106d0f1ff6f75181f1d39a2.png)](https://github.com/spikespaz/search-deflector/blob/master/LICENSE)[![Latest Release Downloads](../Images/63c6130536fbd6e9548541618cb96771.png)](http://tiny.cc/get-search-deflector)[![Project Stars](../Images/d792b89c8ae8ee3bb1854d1a3afce68b.png)T11】](https://github.com/spikespaz/search-deflector/stargazers)
+[![Latest Version](img/59a55815153acc9b9febe778ea674473.png)](https://github.com/spikespaz/search-deflector/releases/latest)[![Project License](img/cda54c1b7106d0f1ff6f75181f1d39a2.png)](https://github.com/spikespaz/search-deflector/blob/master/LICENSE)[![Latest Release Downloads](img/63c6130536fbd6e9548541618cb96771.png)](http://tiny.cc/get-search-deflector)[![Project Stars](img/d792b89c8ae8ee3bb1854d1a3afce68b.png)T11】](https://github.com/spikespaz/search-deflector/stargazers)
 
 ### **Search Deflector** 是一个小型系统实用程序，可以将从开始菜单或 Cortana 进行的搜索重定向到您喜欢的任何浏览器和搜索引擎，消除与微软 Edge 和 Bing 的联系。
 
@@ -92,6 +92,6 @@ SearchWithMyBrowser 也有同样的问题。
 
 如果你有多余的零钱并且想要回馈，你可以在微软商店购买软件或者通过 PayPal 捐赠。
 
-# [![Get it from Microsoft!](../Images/f04fbc5e75c037a5a2e0886711b4cb26.png)T2】](https://www.microsoft.com/store/productId/9P8ZJJ80RZ2K)
+# [![Get it from Microsoft!](img/f04fbc5e75c037a5a2e0886711b4cb26.png)T2】](https://www.microsoft.com/store/productId/9P8ZJJ80RZ2K)
 
-# [![Donate!](../Images/f8c80cd06047522f52b383d5398af014.png)T2】](https://spikespaz.com/donate)
+# [![Donate!](img/f8c80cd06047522f52b383d5398af014.png)T2】](https://spikespaz.com/donate)

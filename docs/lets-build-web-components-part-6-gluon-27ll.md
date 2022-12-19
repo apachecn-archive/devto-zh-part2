@@ -6,7 +6,7 @@
 
 在我们的[上一篇文章](https://dev.to/bennypowers/lets-build-web-components-part-5-litelement-906)中，我们了解了来自 Google 的新功能 UI 库`lit-html`，以及它相关的自定义元素基类`LitElement`。
 
-[![bennypowers](../Images/57370d6f6dab8d6651a3f138a1aaaa40.png)](/bennypowers) [## 让我们来构建 Web 组件！第五部分:文学元素
+[![bennypowers](img/57370d6f6dab8d6651a3f138a1aaaa40.png)](/bennypowers) [## 让我们来构建 Web 组件！第五部分:文学元素
 
 ### 本尼·鲍尔斯🇮🇱🇨🇦10 月 22 日 1818 分钟阅读
 
@@ -376,7 +376,7 @@ Enter fullscreen mode Exit fullscreen mode
 
  *再见😊
 
-您想就此处涉及的任何主题进行一对一的辅导吗？[![Contact me on Codementor](../Images/97f0e0737ce864c47f2412396b01e737.png)T2】](https://www.codementor.io/bennyp?utm_source=github&utm_medium=button&utm_term=bennyp&utm_campaign=github)
+您想就此处涉及的任何主题进行一对一的辅导吗？[![Contact me on Codementor](img/97f0e0737ce864c47f2412396b01e737.png)T2】](https://www.codementor.io/bennyp?utm_source=github&utm_medium=button&utm_term=bennyp&utm_campaign=github)
 
 ## 鸣谢
 
@@ -384,7 +384,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 查看本系列的下一篇文章
 
-[![bennypowers](../Images/57370d6f6dab8d6651a3f138a1aaaa40.png)](/bennypowers) [## 让我们来构建 Web 组件！第 7 部分:混合动力车
+[![bennypowers](img/57370d6f6dab8d6651a3f138a1aaaa40.png)](/bennypowers) [## 让我们来构建 Web 组件！第 7 部分:混合动力车
 
 ### 本尼·鲍尔斯🇮🇱🇨🇦1 月 3 日 1911 分钟阅读
 

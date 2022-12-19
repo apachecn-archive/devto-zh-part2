@@ -10,7 +10,7 @@
 
 这是我们将要构建的内容的屏幕记录:
 
-[![](../Images/e6ae870733bf336e7d84af82b53b7e1b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FGtFzujX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/12/monitoring-laravel-background-queues-realtime-pusher-demo.gif)
+[![](img/e6ae870733bf336e7d84af82b53b7e1b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FGtFzujX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/12/monitoring-laravel-background-queues-realtime-pusher-demo.gif)
 
 ## 教程要求
 

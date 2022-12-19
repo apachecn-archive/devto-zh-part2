@@ -12,7 +12,7 @@
 ——基础知识。净 MVC。
 –JavaScript(jQuery)基础知识。](https://www.visualstudio.com/)
 
-[![](../Images/a9de19da64e0d7325a3c81c0abc94f9f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rgwdAeQ1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.pusher.com/wp-content/uploads/2018/01/building-messenger-app-using-net-1.gif)
+[![](img/a9de19da64e0d7325a3c81c0abc94f9f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rgwdAeQ1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.pusher.com/wp-content/uploads/2018/01/building-messenger-app-using-net-1.gif)
 
 # 设置我们的聊天项目
 
@@ -24,7 +24,7 @@
 –填写项目名称，例如 HeyChat。
 –填写解决方案名称，即应用程序名称。
 
-[![](../Images/6b9189f2c1ea84025d9bdff7e7ccba04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sL09LC0b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.pusher.com/wp-content/uploads/2018/01/building-messenger-app-using-net-2.gif)
+[![](img/6b9189f2c1ea84025d9bdff7e7ccba04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sL09LC0b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.pusher.com/wp-content/uploads/2018/01/building-messenger-app-using-net-2.gif)
 
 ## 创建我们的聊天应用
 

@@ -8,13 +8,13 @@ Git merge 和 **rebase** 服务于相同的目的——它们将多个分支合�
 
 这里你有一个样本库，它有两个 **[分叉分支](https://kolosek.com/git-branches/)** :主库和特性库。你想把它们融合在一起。让我们看看这些方法是如何解决问题的。
 
-[![git-flow](../Images/66914fcc0518af5af9196a5e40f3c55e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YZi2YwdW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/fc73a41ce658a6a566e2a54d60534ade/git-flow.png)
+[![git-flow](img/66914fcc0518af5af9196a5e40f3c55e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YZi2YwdW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/fc73a41ce658a6a566e2a54d60534ade/git-flow.png)
 
 ### 合并
 
 当您运行`git merge`时，您的 HEAD 分支将生成一个**新提交**，保存每个提交历史的祖先。
 
-[![git-merge-2](../Images/b07fdfe3e7d6cb7ebb760534c501e5fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q2Loe7Tq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/673b91456bdc6fd454c5ad203f825568/git-merge-2.png)
+[![git-merge-2](img/b07fdfe3e7d6cb7ebb760534c501e5fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q2Loe7Tq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/673b91456bdc6fd454c5ad203f825568/git-merge-2.png)
 
 > [快速前进合并](https://kolosek.com/git-merge/#fastforwardmerge)是一种不创建提交的合并，相反，它将分支指针更新到最后一次提交。
 
@@ -24,7 +24,7 @@ Git merge 和 **rebase** 服务于相同的目的——它们将多个分支合�
 
 对于在[特征分支](https://kolosek.com/git-branches/)上而不是在主分支上的每个**提交**，将在主分支之上创建一个新的提交。看起来好像这些提交一直都是在主分支之上编写的。
 
-[![git-rebase](../Images/175bda67fe65374f64cb19a7986172f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0tOmcThs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/5ade4f7276bc6ad18dad4b6078950ac9/git-rebase.png)
+[![git-rebase](img/175bda67fe65374f64cb19a7986172f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0tOmcThs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/5ade4f7276bc6ad18dad4b6078950ac9/git-rebase.png)
 
 ## 融合利弊
 
@@ -39,7 +39,7 @@ Git merge 和 **rebase** 服务于相同的目的——它们将多个分支合�
 
 *   历史可能会被大量的合并提交严重污染，因为许多人正在并行地处理同一个分支。你的库的可视化图表可能会变得一塌糊涂，不要添加太多的信息。*它可以看起来像伦敦地铁地图提交！*
 
-[![london-tube-map-commit](../Images/16afb651f76b4e66e6e9c7b417284a19.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wrAFvKMC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/c8b97f4dbb5f7d49fc3eb3624eafff79/london-tube-map-commit.png)
+[![london-tube-map-commit](img/16afb651f76b4e66e6e9c7b417284a19.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wrAFvKMC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/c8b97f4dbb5f7d49fc3eb3624eafff79/london-tube-map-commit.png)
 
 *   由于合并提交，使用 git 二分法进行调试会变得更加困难。
 

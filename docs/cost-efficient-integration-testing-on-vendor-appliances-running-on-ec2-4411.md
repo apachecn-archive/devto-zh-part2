@@ -8,7 +8,7 @@
 
 集成测试和**验收测试**是确保我们产品质量的必要步骤。但是这种测试需要与现有的供应商解决方案进行交互，这在 [SaaS](https://en.wikipedia.org/wiki/Software_as_a_service) 模型中是无法实现的。例如，我们围绕 SAP BusinessObjects 做了很多工作，我们需要针对这类软件运行测试。
 
-<figure>[![](../Images/b47f7b41b7a0327fd1d6c39c6c9c6907.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--u-Q_gssW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/482/1%2AxTj_39MGz9jOH7dQFi2ukA.png) 
+<figure>[![](img/b47f7b41b7a0327fd1d6c39c6c9c6907.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--u-Q_gssW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/482/1%2AxTj_39MGz9jOH7dQFi2ukA.png) 
 
 <figcaption>依赖外部系统的集成测试</figcaption>
 
@@ -22,7 +22,7 @@
 
 因为我们的构建过程是由 Maven 管理的，所以我们正在为此寻找一个 Maven 插件解决方案。瞧，它真的存在！
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [【威廉姆】](https://github.com/wiiisdom)/[【ec2-maven 插件】](https://github.com/wiiisdom/ec2-maven-plugin)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [【威廉姆】](https://github.com/wiiisdom)/[【ec2-maven 插件】](https://github.com/wiiisdom/ec2-maven-plugin)
 
 ### 通过 Maven 操纵亚马逊弹性计算云中的资源
 
@@ -33,7 +33,7 @@
 *   每次运行的集成测试都是在完全相同的 AMI 上进行的，我们可以相信服务器的内容在时间上是绝对一致的。
 *   多个集成测试可以并行启动(2 个开发人员，jenkins 服务器…)，每个测试将创建一个特定的实例。
 
-<figure>[![](../Images/90423fbd0b6a0e0b60ee6bb57bff4ba6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AlUVb5oY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/592/1%2A8uBl-TkCckXinRdpu4Hu0w.png) 
+<figure>[![](img/90423fbd0b6a0e0b60ee6bb57bff4ba6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AlUVb5oY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/592/1%2A8uBl-TkCckXinRdpu4Hu0w.png) 
 
 <figcaption>进程的 Maven 插件动作</figcaption>
 

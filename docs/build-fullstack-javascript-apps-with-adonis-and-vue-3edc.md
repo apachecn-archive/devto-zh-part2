@@ -9,7 +9,7 @@
 
 您可以在这里找到本教程的代码。
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png)[【mz anggl】](https://github.com/MZanggl)/[【Adonis-vista 演示】](https://github.com/MZanggl/adonis-vue-demo)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png)[【mz anggl】](https://github.com/MZanggl)/[【Adonis-vista 演示】](https://github.com/MZanggl/adonis-vue-demo)
 
 ### Adonis / Vue 项目的演示和蓝图
 

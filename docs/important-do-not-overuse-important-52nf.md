@@ -4,7 +4,7 @@
 
 您已经创建了 CSS 规则，并发现它没有达到预期的效果。您再次检查了 CSS 选择器和 HTML 代码，以检查它们是否对应。或者您只是在浏览器中打开了开发人员控制台，检查了元素并检查了样式列表中是否存在您的 CSS 规则。事实证明它在那里，但是声明被删除了。这意味着您刚刚遇到了某种 CSS 特异性问题。你只需要在你的声明中添加`!important`标志就可以了。是一个好的解决方案吗？从来没有。不过，我并不是说你不应该使用`!important`。我真正想说的是，如果你没有意识到后果，就不要使用`!important`。
 
-[![Image](../Images/ebbc3893e568b31f2b3ef8f9566269f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3e-FxMw0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/khlhz1w4bhxzl3h7g42t.jpg)
+[![Image](img/ebbc3893e568b31f2b3ef8f9566269f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3e-FxMw0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/khlhz1w4bhxzl3h7g42t.jpg)
 
 重要的事情先来。如果一个以上的选择器应用于某个 HTML 元素，那么就按照这个顺序来决定应用哪个特定的样式:
 

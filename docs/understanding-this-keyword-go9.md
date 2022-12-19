@@ -13,7 +13,7 @@
 
 为了调用测试函数，我必须引用拥有这个空间的对象。因此有了 *person1.test()和 person2.test()* 。当使用*这个*时，这是一个更重要的概念，因为它的值将由调用点决定。从而触发了被称为**的规则之一的隐式绑定**。
 
-[![Alt text of image](../Images/67db9f4a97d2aa46a0948b0d06d45eac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x8SCNOtT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/808l7ihkl5fojp438dem.JPG)
+[![Alt text of image](img/67db9f4a97d2aa46a0948b0d06d45eac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x8SCNOtT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/808l7ihkl5fojp438dem.JPG)
 
 ## 隐含绑定规则
 
@@ -21,7 +21,7 @@
 
 让我们看看会发生什么
 
-[![Alt text of image](../Images/1b591daa34417dc374696b573680039b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zk2g6b4x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lnknw68v38ycck8bsna8.JPG)
+[![Alt text of image](img/1b591daa34417dc374696b573680039b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zk2g6b4x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lnknw68v38ycck8bsna8.JPG)
 
 在控制台上，您可以看到显示的 2 个对象，其中显示了所有人员 1 和人员 2 属性名称位置和测试方法。更简单地说， *this* 关键字基本上是用 *this* 替换对象名 person1 & person2。因此，在我的代码的第 5 行和第 12 行，我可以编写 console.log(person1 ),它会有相同的结果。这很有效，因为在我的调用点(第 16-17 行)我使用了隐式绑定。
 
@@ -33,14 +33,14 @@
 
 例如:
 
-[![Alt text of image](../Images/c623883bef2d000fb88fb92721015e75.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YSjRRkSv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8ylxndzh0iw33nh1ixwa.JPG)
+[![Alt text of image](img/c623883bef2d000fb88fb92721015e75.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YSjRRkSv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8ylxndzh0iw33nh1ixwa.JPG)
 
 在第 16 行，我刚刚将 person1 的测试函数作为变量保存到了 **test2** 中。
 然后在下一行，我调用变量 **test2** 作为函数。
 
 让我们看看结果。
 
-[![Alt text of image](../Images/9c7d4d5034657665e235bd338381f132.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fqmPB0Dy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yb1mz6762ya6y9m97qjy.JPG)
+[![Alt text of image](img/9c7d4d5034657665e235bd338381f132.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fqmPB0Dy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yb1mz6762ya6y9m97qjy.JPG)
 
 你现在看到的是这个全局对象。因为我们调用函数的方式是一个未修饰的独立函数(第 17 行)，所以 *this* 的值变成了全局对象，这与我们使用隐式绑定调用函数时不同。
 
@@ -50,17 +50,17 @@
 
 首先，如果你不熟悉什么是箭头功能，这里有一个简单的例子。
 
-[![Alt text of image](../Images/cc16b26126c5d5545e89cfe899f09522.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K12_GXHm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d9ej7f7fzgmrf6hjuppv.JPG)
+[![Alt text of image](img/cc16b26126c5d5545e89cfe899f09522.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K12_GXHm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d9ej7f7fzgmrf6hjuppv.JPG)
 
 箭头函数是编写函数的另一种方法，它包括参数、名称、变量、功能等。(对于多动症患者，控制台日志是 12)
 
 接下来，使用上面的例子，我将把 person2 的测试函数改为 arrow 函数，而将 person1 保持为普通函数。在这两个测试中，我只想返回一个引用两个对象名称问候。
 
-[![Alt text of image](../Images/8045c9945119c52bbfab3db18cafda0f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k4Mvuv5C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n7lxy58dal7uzn0miuos.JPG)
+[![Alt text of image](img/8045c9945119c52bbfab3db18cafda0f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k4Mvuv5C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n7lxy58dal7uzn0miuos.JPG)
 
 结果是:
 
-[![Alt text of image](../Images/9b89b79bfb385d833a05ca2cfcb45550.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cbq279u0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/93zxce9ydslbn7iojhsi.JPG)
+[![Alt text of image](img/9b89b79bfb385d833a05ca2cfcb45550.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cbq279u0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/93zxce9ydslbn7iojhsi.JPG)
 
 从控制台日志结果来看，person1 能够成功引用其对象名，而 person2 对象名未定义。
 
@@ -80,7 +80,7 @@
 
 让我们看一个例子。
 
-[![Alt text of image](../Images/227177cf08648132fdaebb2944d38ba4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CB7nS1p1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t7o1ryj30mcl3s7pm7ha.JPG)
+[![Alt text of image](img/227177cf08648132fdaebb2944d38ba4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CB7nS1p1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t7o1ryj30mcl3s7pm7ha.JPG)
 
 在这里，我做了一个函数叫做“人”。在函数内部，我告诉它设置两个属性(名称和位置),并使它等于我的两个参数。(注意我没有在函数中使用 return 来获取 *this* 的值)
 
@@ -90,7 +90,7 @@
 
 让我们看看会发生什么...
 
-[![Alt text of image](../Images/9b1f22a909f809b1dce49413fb0644a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ib9YRtYW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n58umc9o6bgj6wgu6ssg.JPG)
+[![Alt text of image](img/9b1f22a909f809b1dce49413fb0644a1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ib9YRtYW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n58umc9o6bgj6wgu6ssg.JPG)
 
 因为**新的**关键字规则再次声明 1。)任何函数都可以用 **new** 2 调用。)然后它将返回这个对象
 

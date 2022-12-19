@@ -11,7 +11,7 @@
 经典计算机的内存由位组成，每一位用 0 或 1 表示。
 
 另一方面，量子计算机维护一系列量子位，可以表示 0、1 或这两种量子位状态的任何量子叠加。
-[![A classical bit vs. a qubit](../Images/4c9382c01c83389dd4e39233836787cf.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--x6KYE0Wr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prowesscorp.com/wp-content/uploads/2017/06/Prowess_Quantum_bit_qbit.jpg)
+[![A classical bit vs. a qubit](img/4c9382c01c83389dd4e39233836787cf.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--x6KYE0Wr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.prowesscorp.com/wp-content/uploads/2017/06/Prowess_Quantum_bit_qbit.jpg)
 
 量子计算机可能能够有效地解决在经典计算机上不可行的问题，由于丘奇-图灵论题，我们知道经典计算机可以在技术上模拟量子算法。
 
@@ -23,7 +23,7 @@ IBM 推出了供公众使用的云量子计算机，微软披露了 Q#量子编�
 
 **量子纠缠**是一种物理现象，当一组粒子以某种方式相互作用时，即使粒子相距很远，每个粒子的量子状态也无法独立于其他粒子的状态进行描述。
 
-[![Two particles share their state through quantum entanglement.](../Images/249fc656c23b6ebdd5b9689c14a44130.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0UotuHhT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s1fzeyd9220kj4ngrm6f.gif)
+[![Two particles share their state through quantum entanglement.](img/249fc656c23b6ebdd5b9689c14a44130.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0UotuHhT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s1fzeyd9220kj4ngrm6f.gif)
 
 假设我们有两个粒子 A 和 b。这两个粒子都处于可能状态的叠加状态——在这种情况下，它们同时变成红色和蓝色。如果我们测量 A 的颜色，它选择红色，而其他人马上测量 B——B 将永远是蓝色。
 
@@ -31,7 +31,7 @@ IBM 推出了供公众使用的云量子计算机，微软披露了 Q#量子编�
 
 ## Web 应用中的状态
 
-[![State management in a web application](../Images/1f61a87f6bb7cdefcb4b0b21a46bdd13.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sdJZq6jV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3cc8hx482owdee9uz84o.jpg) 
+[![State management in a web application](img/1f61a87f6bb7cdefcb4b0b21a46bdd13.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sdJZq6jV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3cc8hx482owdee9uz84o.jpg) 
 在今天的 web 应用中，我们面临着在前端和后端维护相同状态的类似挑战。随着 Redux/Flux 等各种现代工具的使用越来越多，我们显然需要一种更优雅的解决方案来跨越物理距离进行状态管理。
 
 ## 量子态纠缠
@@ -41,7 +41,7 @@ IBM 推出了供公众使用的云量子计算机，微软披露了 Q#量子编�
 让我们假设我们的 web 应用程序的状态被编码到一个这样的量子位数组中。我们的目标是将服务器端的状态与客户端的状态结合起来。
 
 1.  为了增加叠加特性，我们增加了一个量子比特的哈达玛门(H)。
-2.  我们增加了受控非门(CX)，这是一个两量子位的门，如果控制处于状态 1，它就会翻转目标量子位。这个门产生纠缠。![Attaining quantum entanglement of states.](../Images/db3998b47346d5b1d0affdb0a2a11d51.png)
+2.  我们增加了受控非门(CX)，这是一个两量子位的门，如果控制处于状态 1，它就会翻转目标量子位。这个门产生纠缠。![Attaining quantum entanglement of states.](img/db3998b47346d5b1d0affdb0a2a11d51.png)
 
 这两种量子逻辑运算的结合使我们的量子比特对达到了贝尔态。
 

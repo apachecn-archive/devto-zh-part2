@@ -10,7 +10,7 @@
 
 这个例子的源代码可以在[这里](https://github.com/nrempel/quick-todo)找到。如果你正在寻找一个好的 IDE 来使用本指南，[我强烈推荐 Visual Studio 代码](https://dev.to/posts/sublime-to-vscode/)。
 
-[![React + Firebase + Ant Design = Love](../Images/e8f58be15f95d7ff93773819ead84774.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ywgPeAF2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nrempel.com/react%2Bfirebase%2Bant.png)
+[![React + Firebase + Ant Design = Love](img/e8f58be15f95d7ff93773819ead84774.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ywgPeAF2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nrempel.com/react%2Bfirebase%2Bant.png)
 
 ## 使用 Create React App 的 React 开发环境
 
@@ -37,7 +37,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在您的浏览器中访问 [http://localhost:3000/](http://localhost:3000/) ,您应该会看到:
 
-[![Create React App starter page](../Images/21fab61de06a08a50bd51cf6304f5fd9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K9tNYV5f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nrempel.com/react_start.png)
+[![Create React App starter page](img/21fab61de06a08a50bd51cf6304f5fd9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K9tNYV5f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nrempel.com/react_start.png)
 
 太好了！您现在拥有了一个功能性的 React 开发环境。
 
@@ -49,11 +49,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 一旦有了 Firebase 项目，就可以提供一个“云 Firestore”数据库:
 
-[![Provision Cloud Firestore Database Step 1](../Images/87ccdbdcd272b8ac0320effbff320abf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8CXahFc5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nrempel.com/firebase_step_1.png)
+[![Provision Cloud Firestore Database Step 1](img/87ccdbdcd272b8ac0320effbff320abf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8CXahFc5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nrempel.com/firebase_step_1.png)
 
-[![Provision Cloud Firestore Database Step 2](../Images/00616e088b52c11fbf2ab86e7cfe9684.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VLKItPUy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nrempel.com/firebase_step_2.png)
+[![Provision Cloud Firestore Database Step 2](img/00616e088b52c11fbf2ab86e7cfe9684.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VLKItPUy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nrempel.com/firebase_step_2.png)
 
-[![Provision Cloud Firestore Database Step 3](../Images/5aaff09cfa7824f11b6574e5be3e99fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Yo_mZDcu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nrempel.com/firebase_step_3.png)
+[![Provision Cloud Firestore Database Step 3](img/5aaff09cfa7824f11b6574e5be3e99fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Yo_mZDcu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nrempel.com/firebase_step_3.png)
 
 这里我们没有对数据库使用身份验证，因为我们正在构建一个原型。当你构建一个真正的应用程序时，你会想要创建适当的[安全规则](https://firebase.google.com/docs/firestore/security/get-started)，但是现在我们先不要担心这个。
 
@@ -92,7 +92,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 确保您插入了自己项目中的`apiKey`和其他参数。您可以在项目的设置中找到这些:
 
-[![Firebase Settings](../Images/09d7776dd37af8e51375c5e2c8a8c445.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dh3iiequ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nrempel.com/firebase_step_4.png)
+[![Firebase Settings](img/09d7776dd37af8e51375c5e2c8a8c445.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dh3iiequ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nrempel.com/firebase_step_4.png)
 
 好吧！现在，通过导入我们的`firestore.js`实用程序:
 ，我们可以在应用程序的任何地方访问实时 Firebase 数据库
@@ -207,7 +207,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 做出这些更改后，我们就可以运行我们的开发服务器了。您应该像这样播种:
 
-[![Quick Todo Step 1](../Images/985977bdce780ae211561738bd629239.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--41WasHBW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nrempel.com/quick_todo_step_1.png)
+[![Quick Todo Step 1](img/985977bdce780ae211561738bd629239.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--41WasHBW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nrempel.com/quick_todo_step_1.png)
 
 现在，我们可以利用我们之前创建的`firestore.js`模块开始将 todos 添加到我们的实时 firebase 数据库中。你可以在这里阅读更多关于如何使用 Firebase Cloud Firestore [的信息。](https://firebase.google.com/docs/firestore/)
 
@@ -316,11 +316,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 通过这些更改，您可以看到我们的应用程序现在有了一个输入来添加新的 todos。
 
-[![Quick Todo Step 2](../Images/53d370be8251e7eaaad886cd17e419a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zNuHDtcd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nrempel.com/quick_todo_step_2.png)
+[![Quick Todo Step 2](img/53d370be8251e7eaaad886cd17e419a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zNuHDtcd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nrempel.com/quick_todo_step_2.png)
 
 添加 todo 还没有出现在 UI 中，但是您可以浏览 Firebase 数据库来查看您添加的任何 todo！
 
-[![Quick Todo Step 3](../Images/e27192d4f90a1230d907b031a8709f01.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iCXS7Dlf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nrempel.com/quick_todo_step_3.png)
+[![Quick Todo Step 3](img/e27192d4f90a1230d907b031a8709f01.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iCXS7Dlf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nrempel.com/quick_todo_step_3.png)
 
 拥有一个全功能的待办事项应用程序的最后一步是显示待办事项列表，并允许用户完成它们。为此，我们可以使用 Ant Design 的 [List](https://ant.design/components/list/) 组件来显示不完整的待办事项。以下面的源代码为例:
 
@@ -494,7 +494,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 通过这些最终的更改，我们可以看到添加到我们的应用程序中的待办事项列表:
 
-[![Quick Todo Step 4](../Images/701c277b23b8db02a2b0e5053bfba52d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s----H2P8Sd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nrempel.com/quick_todo_step_4.png)
+[![Quick Todo Step 4](img/701c277b23b8db02a2b0e5053bfba52d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s----H2P8Sd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nrempel.com/quick_todo_step_4.png)
 
 我们做到了！使用 React、Firebase 和 Ant Design，我们能够快速创建高保真的 web 应用程序。使用这些工具可以帮助你立刻创造出实用且美观的东西。
 

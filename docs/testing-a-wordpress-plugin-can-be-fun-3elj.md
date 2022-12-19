@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/omerlh/testing-a-wordpress-plugin-can-be-fun-3elj>
 
-[![Header](../Images/0b8cc7ce65eff9ac6e6a837317007d49.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ArJgrwTi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mi996to0lvo21s9osao6.png) 
+[![Header](img/0b8cc7ce65eff9ac6e6a837317007d49.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ArJgrwTi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mi996to0lvo21s9osao6.png) 
 你有使用 [WordPress](https://wordpress.com/) 的经验吗？直到最近，我从未尝试在 WordPress 生态系统中开发什么东西。几周前，我发现了一个很酷的插件，我想改进它。在开发过程中，我意识到为 WordPress 编写测试是多么复杂——我想和你分享我的经验。复杂性的一部分是在 Docker 容器中运行这些测试——以便在真实的 WordPress 环境中运行它们。因为它有点复杂，所以我创建了一个您可以使用的模板——这样您可以将更多的精力放在编写测试上，而不是如何运行它们。模板(实际上也是一个示例项目)可以在 [GitHub](https://github.com/Soluto/wordpress-plugin-tests-template) 上获得。
 
 ## 使用模板

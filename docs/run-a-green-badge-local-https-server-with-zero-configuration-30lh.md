@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/alshakero/run-a-green-badge-local-https-server-with-zero-configuration-30lh>
 
-[![image](../Images/629ab26eaef7970946c022e0e1739d5d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3NOTXyMn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/199fub9gos4wks74r312.jpg)
+[![image](img/629ab26eaef7970946c022e0e1739d5d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3NOTXyMn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/199fub9gos4wks74r312.jpg)
 
 ⚠️:显然，这违反了 letsencrypt 的服务条款，我不能以这种方式使用他们的证书。我不得不扔掉这个工具。我本可以发布一个非免费的证书来维护这个工具，但是发布一个正式注册到我名下的私钥听起来并不是一个好主意。
 
@@ -12,9 +12,9 @@
 
 有人可能会认为，当地的发展不需要 HTTPS。但事实并非总是如此。您需要测试混合内容、安全 cookies、服务人员等。@getify 的这个帖子完美地说明了这一点。
 
-> ![](../Images/03cad1abc208c18e4958e4b0e016bcc2.png)getify@ getify![](../Images/4d9c44713c216584b3d48ff3455cbb68.png)我如此频繁地从别人那里得到“localhost 不需要本地 https”的再解释。眼球转动。
+> ![](img/03cad1abc208c18e4958e4b0e016bcc2.png)getify@ getify![](img/4d9c44713c216584b3d48ff3455cbb68.png)我如此频繁地从别人那里得到“localhost 不需要本地 https”的再解释。眼球转动。
 > 
-> 这并不是普遍适用的。这是我最后一次解释了。从今以后，它将只与。2018 年 7 月 28 日下午 13:42[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1023202051902373888)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1023202051902373888)457[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1023202051902373888)1071
+> 这并不是普遍适用的。这是我最后一次解释了。从今以后，它将只与。2018 年 7 月 28 日下午 13:42[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1023202051902373888)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1023202051902373888)457[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1023202051902373888)1071
 
 运行一个本地的 HTTPS 服务器可能会很麻烦。您必须创建自己的证书，将它们添加为可信证书等。你知道交易。
 

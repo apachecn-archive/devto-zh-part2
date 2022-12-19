@@ -8,7 +8,7 @@
 
  **这就是圈复杂度进入框架的地方。
 
-[![Image result for keep it simple stupid](../Images/abc3bdec03d4c4d1f8bf3255d33bff5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xmva24wj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://keepitsimplestupid.dk/wp-content/uploads/2017/08/KISS_logo_C.png)
+[![Image result for keep it simple stupid](img/abc3bdec03d4c4d1f8bf3255d33bff5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Xmva24wj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://keepitsimplestupid.dk/wp-content/uploads/2017/08/KISS_logo_C.png)
 
 ## 定义
 
@@ -20,7 +20,7 @@
 
 本质上，这是通过一个逻辑的不同**数量的路由。换句话说，它通常是在可维护性指数的背景下考虑的。特定功能中的分支越多，维护其操作的心理模型就越困难。这个指标大致相当于**1 加上循环和 if 语句的数量**。这是如何配置值的一个很好的视图，是的，x 可能大于 100，直接向前移动，这条路径的复杂度为 1，但是代码块/方法本身的得分为 11。**
 
-[![Image result for cyclomatic complexity](../Images/6763080ad124c20514a9e5959c97bea5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ILJ5ZKQR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.researchgate.net/profile/Seifedine_Kadry/publication/288695710/figure/fig3/AS:323620028076034%401454168435561/Control-Flow-Graph-where-the-Cyclomatic-Complexity-of-McCabe-is-Calculated.png)
+[![Image result for cyclomatic complexity](img/6763080ad124c20514a9e5959c97bea5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ILJ5ZKQR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.researchgate.net/profile/Seifedine_Kadry/publication/288695710/figure/fig3/AS:323620028076034%401454168435561/Control-Flow-Graph-where-the-Cyclomatic-Complexity-of-McCabe-is-Calculated.png)
 
 ## 我为什么要在乎？
 
@@ -131,7 +131,7 @@ class Dealership {
 
 ## 用那个头！
 
-[![Image result for use that noggin gif](../Images/e93ba9b21220049d89e09242d7b48c54.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SACX_jXs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://static1.squarespace.com/static/55309ca8e4b0491a492b1585/t/576ebbabe4fcb5ab514e1468/1466874797165/noggin.gif)
+[![Image result for use that noggin gif](img/e93ba9b21220049d89e09242d7b48c54.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SACX_jXs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://static1.squarespace.com/static/55309ca8e4b0491a492b1585/t/576ebbabe4fcb5ab514e1468/1466874797165/noggin.gif)
 
 > 与一切发展相关的事情一样，要记住的最重要的事情是，你不能因为想改变就改变。
 
@@ -151,7 +151,7 @@ class Dealership {
 
 我链接了一个我最近一直在使用的很棒的扩展，它将在函数的顶部显示复杂性！在这里找到它:[代码度量扩展](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics)
 
-[![](../Images/07fea8d7ffc8fb026f7d60442a431f5f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z4VOteuE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.designpuddle.com/wp-content/uploads/2018/09/Complexity-300x217.png)
+[![](img/07fea8d7ffc8fb026f7d60442a431f5f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z4VOteuE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.designpuddle.com/wp-content/uploads/2018/09/Complexity-300x217.png)
 
 大多数 IDE 都有适合的工具，所以去那里找一个适合你的吧！
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/paigen11/react-svg-images-and-the-webpack-loader-to-make-them-play-nice-3k5l>
 
-[![Laptop screen filled with code sitting on a couch](../Images/57b13684c07280be41a565d0c5bed837.png "Laptop screen filled with code sitting on a couch")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ABUbZHOR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.paigeniedringhaus.com/static/02176e36f46c03707a991bdf294d1856/15ec7/laptop-on-couch.jpg)
+[![Laptop screen filled with code sitting on a couch](img/57b13684c07280be41a565d0c5bed837.png "Laptop screen filled with code sitting on a couch")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ABUbZHOR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.paigeniedringhaus.com/static/02176e36f46c03707a991bdf294d1856/15ec7/laptop-on-couch.jpg)
 
 *Goran Ivos 在 Unsplash 上拍摄的照片*
 

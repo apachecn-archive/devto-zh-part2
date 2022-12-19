@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/scalegrid/mongodb-write-concern-3-must-know-caveats-504k>
 
-[![](../Images/a2fee10757044ded8b8c7a100f8d90b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dtgv-OGE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://uploads.disquscdn.com/images/125e5ddc69932d0f2b8972bd59962a00965e6cb6ed359e27007570ff88239555.png)
+[![](img/a2fee10757044ded8b8c7a100f8d90b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dtgv-OGE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://uploads.disquscdn.cimg/125e5ddc69932d0f2b8972bd59962a00965e6cb6ed359e27007570ff88239555.png)
 
 [MongoDB](https://scalegrid.io/mongodb.html)中的描述了你可以从它那里得到的写确认的级别。在您的写操作中，这是一个非常重要的设置，理解它的行为是非常有用的，尤其是在分布式 MongoDB 部署中(即[副本集](https://docs.mongodb.com/manual/reference/glossary/#term-replica-set)和[分片集群](https://docs.mongodb.com/manual/reference/glossary/#term-sharded-cluster))。在本帖中，我们讨论了使用 MongoDB 写问题时的 3 个问题。
 

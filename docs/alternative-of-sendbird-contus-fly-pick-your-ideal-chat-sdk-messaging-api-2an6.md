@@ -30,11 +30,11 @@ T3】挫伤飞聊 SDK &消息 API
 
 **仙鸟:**
 
-[![SendBird_Review](../Images/1a35bb8430c07a19cf51547a1eab6778.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tmKLOXcO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.contus.com/wp-content/uploads/2018/06/SendBird_Review.jpg)
+[![SendBird_Review](img/1a35bb8430c07a19cf51547a1eab6778.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tmKLOXcO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.contus.com/wp-content/uploads/2018/06/SendBird_Review.jpg)
 
 **挫伤苍蝇:**
 
-[![Competitor_SendBird](../Images/3ccfb5107d1224769dc812a88add8a1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cv7kDINg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.contus.com/wp-content/uploads/2018/06/Competitor_Sendird.jpg)
+[![Competitor_SendBird](img/3ccfb5107d1224769dc812a88add8a1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Cv7kDINg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.contus.com/wp-content/uploads/2018/06/Competitor_Sendird.jpg)
 
 ### **平台支持**
 
@@ -42,13 +42,13 @@ T3】挫伤飞聊 SDK &消息 API
 
 SendBird 为从 web 到移动平台的所有主要平台提供 SDK。就 web 应用程序而言，与移动应用程序相比，SendBird 提供了 Web 应用程序上的完全同步。跨多个平台的同步为最终用户提供了无缝体验。SendBird 可以在以下浏览器上运行:ie、Edge、Chrome、Firefox、Safari、Opera 等等。这是该解决方案从 SendBird 备选方案中脱颖而出的关键因素。
 
-[![Contus_Fly_alternative](../Images/61fc5416e91a09a6764fed4d2e4177de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AGg8vlxL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.contus.com/wp-content/uploads/2018/06/Contus_Fly_alternative.png)
+[![Contus_Fly_alternative](img/61fc5416e91a09a6764fed4d2e4177de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AGg8vlxL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.contus.com/wp-content/uploads/2018/06/Contus_Fly_alternative.png)
 
 **挫伤飞网页 App:**
 
 [Contus Fly](https://www.contus.com/messaging-solutions.php) 被认为是 sendbird 的定制解决方案和替代方案，提供完整的应用内消息传递 sdk 和聊天 api 包，包括前端 UI、后端技术和可访问的管理门户工具。Contus Fly 针对 android、iOS 和 Web 应用的聊天 api 提供了一种强化的聊天体验，可以在所有浏览器上无缝运行。
 
-[![ContusFly_WebChatApp](../Images/37abb58a7348cd49039362abfaa06bb3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--atXlxSCO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.contus.com/wp-content/uploads/2018/06/ContusFly_WebChatApp.png)
+[![ContusFly_WebChatApp](img/37abb58a7348cd49039362abfaa06bb3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--atXlxSCO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.contus.com/wp-content/uploads/2018/06/ContusFly_WebChatApp.png)
 
 **仙鸟手机 App:**
 
@@ -58,7 +58,7 @@ SendBird 为从 web 到移动平台的所有主要平台提供 SDK。就 web 应
 
 Contus Fly 是 SDK 中为移动应用程序设计的 Sendbird 的最佳替代产品，提供完整的源代码，有助于构建一个完整的实时聊天解决方案，该解决方案包含为用户创建虚拟体验的高级功能。best chat sdk 的设计方式提供了一个控制整个消息的机会，并在更亲密或个人的层面上进行连接。
 
-[![ContusFly_Demo](../Images/9c6807ccd3948d9f631a8b101971cd11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--akoEtYkE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.contus.com/wp-content/uploads/2018/06/ContusFly_Demo.png)
+[![ContusFly_Demo](img/9c6807ccd3948d9f631a8b101971cd11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--akoEtYkE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.contus.com/wp-content/uploads/2018/06/ContusFly_Demo.png)
 
 ### **定价**
 

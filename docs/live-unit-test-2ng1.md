@@ -8,7 +8,7 @@
 
 实时测试单元，在后台运行您的单元测试，每当您修改正在测试的代码时，当您的测试失败时，以及当测试成功执行时(由绿色复选标记“，”表示)，您都会收到通知，
 
-[![example of real time test](../Images/24767a6c5133473ae6ab3d2247b2510d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---Dd8xd8s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rltlri2atpj92htalbfa.png)
+[![example of real time test](img/24767a6c5133473ae6ab3d2247b2510d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---Dd8xd8s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rltlri2atpj92htalbfa.png)
 
 实时测试表明测试中何时覆盖了一行代码。
 

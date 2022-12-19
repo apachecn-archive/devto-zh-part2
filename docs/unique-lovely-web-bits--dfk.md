@@ -8,7 +8,7 @@
 
 昨天我想完成我上一篇文章中使用的动画按钮`hamburger_icon`的文档。
 
-[![genejams](../Images/ab410dc05437d55e52306d6bb995095d.png)](/genejams) [## 从头开始移动 web 应用程序布局
+[![genejams](img/ab410dc05437d55e52306d6bb995095d.png)](/genejams) [## 从头开始移动 web 应用程序布局
 
 ### { Gene } Jul 22 ' 182min read
 
@@ -20,7 +20,7 @@
 
 > 这是否意味着我必须复制所有使用 *hamburger_icon* 的不同项目的新代码，并再次发布它们？
 
-[![Oh Sh*t!](../Images/983c319da889b30f538ee945c6a7a0a1.png)T2】](https://i.giphy.com/media/E2USislQIlsfm/giphy.gif)
+[![Oh Sh*t!](img/983c319da889b30f538ee945c6a7a0a1.png)T2】](https://i.giphy.com/media/E2USislQIlsfm/giphy.gif)
 
 幸运的是,**不是这种情况,**因为这些项目中没有一个持有被使用的位的拷贝，而是直接链接到每一个的原始源代码。
 
@@ -60,7 +60,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这意味着如果在主机`zuix-app-1`上修改了`layout/header`，它将在`zuix-app-2`和`zuix-app-3`上自动更新，也意味着每当在*zuixjs.github.io/zkit*上更新`components/hamburger_icon`时，它将在*故障*上托管的所有实例上无缝地即时更新！
 
-[![What?!@#?](../Images/72e75ac417cbe98427e9ee09396a5765.png)T2】](https://i.giphy.com/media/glmRyiSI3v5E4/giphy.gif)
+[![What?!@#?](img/72e75ac417cbe98427e9ee09396a5765.png)T2】](https://i.giphy.com/media/glmRyiSI3v5E4/giphy.gif)
 
 因此，使用对组件的唯一引用对生产力和创造力都有明显的好处，无论它们是托管在同一个服务器上还是托管在一堆不同的服务器上。
 
@@ -76,13 +76,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 嗯，这也是一个选择，但是如果我们还不想处理那些构建工具，通过使用 *zuix.js* 我们可以直接在浏览器控制台中生成应用包。
 
-[![Impossible](../Images/dfce1aad47d5024c10000615eb48e89a.png)T2】](https://i.giphy.com/media/xTiTntReleqBnhBNwQ/giphy.gif)
+[![Impossible](img/dfce1aad47d5024c10000615eb48e89a.png)T2】](https://i.giphy.com/media/xTiTntReleqBnhBNwQ/giphy.gif)
 
 这就是我所说的**浏览器内捆绑**(或者客户端捆绑)，但是我稍后会写这个。
 
 接下来阅读:
 
-[![genejams](../Images/ab410dc05437d55e52306d6bb995095d.png)](/genejams) [## 向您的 web 应用程序添加 ViewPager
+[![genejams](img/ab410dc05437d55e52306d6bb995095d.png)](/genejams) [## 向您的 web 应用程序添加 ViewPager
 
 ### { Gene } Jul 28 ' 182min read
 

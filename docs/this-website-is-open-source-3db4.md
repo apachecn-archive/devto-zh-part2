@@ -34,7 +34,7 @@ Enter fullscreen mode Exit fullscreen mode
 *   它启动起来相当慢(我责怪[这个](https://github.com/rails/rails/blob/2b594b061f34094175fd3efeeb1cd5d245cbabe3/railties/lib/rails/generators/rails/app/templates/config/application.rb.tt#L22))，但我等待它结束，它工作了。
 *   我真的很喜欢他们处理环境变量的方式。
 *   不久前，我意识到我对春天的看法是错误的，我收回了所有关于春天的愤怒评论！谢天谢地，他们在这个应用程序上使用了 Spring。当你知道如何使用它的时候，当它出问题的时候，它能引起的混乱是值得的，因为它节省了你在启动时间的痛苦。基本上，这意味着你只需要做`bin/rails console`，`bin/rails server`，如果你改变了配置中的任何东西，或者看起来不可靠，你就做`bin/spring stop`
-*   我没有弄清楚如何登录，只是从控制台编辑了其中一篇文章:![editing an article from the console](../Images/cba3b784ca0e981af70aa06efce01528.png)
+*   我没有弄清楚如何登录，只是从控制台编辑了其中一篇文章:![editing an article from the console](img/cba3b784ca0e981af70aa06efce01528.png)
 *   请务必试用您的功能。由于测试不通过 markdown 运行输入，所以当我在控制台中尝试时，它的行为与我的测试中不同(markdown 解析器将输入修改为 liquid 标记)。此外，当我阅读 PR 模板时，他们谈到了文档，我意识到我没有更新 markdown 基础页面，所以我很快添加了一个 commit。
 
 我认为这可能是它的核心。我的公关并不完美(它围绕降价问题工作，而不是修复它)，但对于任何给定的项目，总是有更多的事情要做，它完成了我想要的:现在有一个 vimeo 标签❤️.

@@ -4,7 +4,7 @@
 
 你可能在推特上看到过这个。
 
-[![Dave is tracking his coffee intake](../Images/5702bd3cccfb2738f4b76f0b308f4590.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eUVbgVVq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jacoby.github.io//images/coffee-heatmap.jpg)
+[![Dave is tracking his coffee intake](img/5702bd3cccfb2738f4b76f0b308f4590.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eUVbgVVq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jacoby.github.iimg/coffee-heatmap.jpg)
 
 它展示了我作为咖啡爱好者的最后几年。每一杯咖啡(人类计算，所以我可能会在这里和那里)，跟踪和图表。
 

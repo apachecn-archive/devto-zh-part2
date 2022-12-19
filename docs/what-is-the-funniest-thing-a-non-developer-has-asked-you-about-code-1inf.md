@@ -4,7 +4,7 @@
 
 对我来说，是一个客户对我将要使用的语言感到害怕，不得不问这个问题:
 
-[![](../Images/5523ef6d635eca04ac8b27265ecf6a03.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nIlIrUQu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qph.ec.quoracdn.net/main-qimg-f05202b0c652414086a29f2a3c08a011)
+[![](img/5523ef6d635eca04ac8b27265ecf6a03.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nIlIrUQu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qph.ec.quoracdn.net/main-qimg-f05202b0c652414086a29f2a3c08a011)
 
 我就是控制不住自己的笑声。:)
 

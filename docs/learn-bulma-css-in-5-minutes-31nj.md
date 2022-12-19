@@ -4,7 +4,7 @@
 
 ## 流行 CSS 框架的入门教程。
 
-[![](../Images/a83cca866facfd676ef24d269bded219.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zd1ZukHH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A-rRVJ7pa3DUFN4Bul4e_CA.png)
+[![](img/a83cca866facfd676ef24d269bded219.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zd1ZukHH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A-rRVJ7pa3DUFN4Bul4e_CA.png)
 
 布尔玛是一个简单、优雅、现代的 CSS 框架，比起 Bootstrap，很多开发人员更喜欢它。我个人认为布尔玛默认有一个更好的设计，它也感觉更轻。
 
@@ -12,7 +12,7 @@
 
 > 我们还在 Scrimba 上创建了免费的布尔玛课程。[点击这里查看。](https://scrimba.com/g/gbulma?utm_source=dev.to&utm_medium=referral&utm_campaign=gbulma_5_minute_article)T3】
 
- [![Imgur](../Images/097241be569e879dfa6b88df326bc85e.png)
+ [![Imgur](img/097241be569e879dfa6b88df326bc85e.png)
 T4】](https://scrimba.com/g/gbulma?utm_source=dev.to&utm_medium=referral&utm_campaign=gbulma_5_minute_article)
 
 ### 设置
@@ -39,7 +39,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这导致了以下样式:
 
-[![](../Images/0032636478f9a05ece26daf0a3e2adcb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8DvvmOJk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A03TOy6dVBDCPvrlardUBHw.png)
+[![](img/0032636478f9a05ece26daf0a3e2adcb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8DvvmOJk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A03TOy6dVBDCPvrlardUBHw.png)
 
 如你所见，默认情况下，它有一个漂亮的平面设计。为了改变样式，我们将使用布尔玛修改器。让我们从把按钮做得更大、绿色、圆角开始:
 
@@ -51,17 +51,17 @@ Enter fullscreen mode Exit fullscreen mode
 
 这段代码的结果是一个看起来很不错的按钮:
 
-[![](../Images/6d22e208a8bcdfc1633676f4ac2394d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pwvUKN0R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A3p5bTMdQbPYx_DeNQo7sgA.png)
+[![](img/6d22e208a8bcdfc1633676f4ac2394d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pwvUKN0R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A3p5bTMdQbPYx_DeNQo7sgA.png)
 
 您还可以使用修饰符来控制按钮的状态。让我们以添加类`is-focused`为例，它在它周围添加了一个边框:
 
-[![](../Images/eb5c6a820f0a9c3c982cf97f8f9de0bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gb0vctN6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Amk04rubImZHTpMNPhsn-TQ.png)
+[![](img/eb5c6a820f0a9c3c982cf97f8f9de0bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gb0vctN6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Amk04rubImZHTpMNPhsn-TQ.png)
 
 最后，让我们也使用一个`has-*`修饰符。这些通常控制元素内部的内容。在我们的例子中，文本。再加上`has-text-weight-bold`吧。
 
 结果如下:
 
-[![](../Images/1a31f11acc2c4f86a1e29874b5a4c8cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lHbMQolV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AH30F0Q92eL_IGipfEE3lWg.png)
+[![](img/1a31f11acc2c4f86a1e29874b5a4c8cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lHbMQolV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AH30F0Q92eL_IGipfEE3lWg.png)
 
 我建议您尝试一下各种类的组合，以便理解这个系统有多灵活。组合几乎是无穷无尽的。查看文档中的[按钮部分](https://bulma.io/documentation/elements/button/)了解更多信息。
 
@@ -71,7 +71,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 首先我们创建一个容器`<div>`和一个类`columns`，然后我们给每个孩子一个类`column`。它会导致以下结果:
 
-[![](../Images/cb5946618a8b61431fccea6751978fbb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--b3XLo0qd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Ap0XiWjzp00GGdgrmrCtwYA.png) 
+[![](img/cb5946618a8b61431fccea6751978fbb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--b3XLo0qd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Ap0XiWjzp00GGdgrmrCtwYA.png) 
 我还在柱子周围添加了边框，让它们看起来更明显。
 
 请注意，您可以添加任意多的列。Flexbox 负责在它们之间平均分配空间。
@@ -86,7 +86,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们使用`is-info`、`is-success`、`is-warning`和`is-danger`修饰符来做这件事，结果如下:
 
-[![](../Images/ae7d78c84fb3b8a0644d35bd015a03a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IeDy3NMN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A7c9Ygeq5NbrBYQfnVUFDwA.png)
+[![](img/ae7d78c84fb3b8a0644d35bd015a03a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IeDy3NMN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A7c9Ygeq5NbrBYQfnVUFDwA.png)
 
 `notification`类实际上是为了提醒用户一些事情，因为它允许你使用`is-*`修改器用一种颜色填充背景。在这里，它可以很好地分离列。
 
@@ -101,7 +101,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这导致第二列现在占据一半的宽度，而其他三列各占据剩余一半的三分之一。
 
-[![](../Images/a9cf13dc545d29ac46205b7f354fd8a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n2Sto5X5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A2oogxdeNyRZ7Y9oxLXNqBg.png)
+[![](img/a9cf13dc545d29ac46205b7f354fd8a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n2Sto5X5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A2oogxdeNyRZ7Y9oxLXNqBg.png)
 
 以下是可用于控制列宽的选项:
 
@@ -125,7 +125,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/503a23b55fb12e69c5226881098939a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bwLRVyh2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AmRUKo5nMrlRmNRlFhFxXqA.png)
+[![](img/503a23b55fb12e69c5226881098939a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bwLRVyh2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AmRUKo5nMrlRmNRlFhFxXqA.png)
 
 为了让这个英雄做一些有意义的事情，我们将在主体中添加一个容器元素，并添加一个标题和副标题。
 
@@ -142,7 +142,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/85a820ea43e88fb6129200d22bc59640.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q0HN9CYs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AzgiaCn1QmbMn-r4d-p9exA.png)
+[![](img/85a820ea43e88fb6129200d22bc59640.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q0HN9CYs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AzgiaCn1QmbMn-r4d-p9exA.png)
 
 现在开始好看了！如果我们希望它更大，我们可以简单地在`<section>`标签上添加`is-medium`。
 
@@ -154,7 +154,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/78ce7ce4f8cbe1dfa83210d60b9fc54a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iw4O6gm0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A7jJFSeUFbzSuavVUpVV7Zw.png)
+[![](img/78ce7ce4f8cbe1dfa83210d60b9fc54a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iw4O6gm0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A7jJFSeUFbzSuavVUpVV7Zw.png)
 
 就是这样！
 

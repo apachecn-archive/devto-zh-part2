@@ -8,4 +8,4 @@
 
 [读下去🤖📱](https://auth0.com/blog/a-look-at-android-ml-kit-the-machine-learning-sdk/?utm_source=dev&utm_medium=sc&utm_campaign=android_ml_kit)
 
-[![A Look at Android ML Kit - the Machine Learning SDK](../Images/5fcecf9ded38037b8421f659e0e9c7fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JY0ECSFZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rfgxc2b56fwrr3agpszo.png)
+[![A Look at Android ML Kit - the Machine Learning SDK](img/5fcecf9ded38037b8421f659e0e9c7fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JY0ECSFZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rfgxc2b56fwrr3agpszo.png)

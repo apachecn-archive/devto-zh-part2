@@ -2,11 +2,11 @@
 
 > 原文：<https://dev.to/johnpaulada/this-week-i-learned-9-1mib>
 
-[![This Week I Learned](../Images/3fd5fb67b3d8f747c685019fb3f2a270.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7sHzyEtU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2ALajC4RIKn5A-4zmlSCXb9Q.jpeg)
+[![This Week I Learned](img/3fd5fb67b3d8f747c685019fb3f2a270.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7sHzyEtU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2ALajC4RIKn5A-4zmlSCXb9Q.jpeg)
 
 > 关于测试、Python、ReasonML 等有趣的东西和公告。在本周的这一集里，我学到了！
 
-[![Cypress](../Images/13e8c3ac44750d9e03ded7240622e48a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---DK7deu6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/PqwhJgd.png)
+[![Cypress](img/13e8c3ac44750d9e03ded7240622e48a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---DK7deu6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/PqwhJgd.png)
 
 ## [柏树](https://www.cypress.io/)
 
@@ -23,7 +23,7 @@ Cypress 是一种新的 web 应用方式。就我个人而言，我认为它取�
 *   您可以在测试发生时看到它们，并且可以在测试过程中后退一步。
 *   如果您不使用 GUI 运行它，它会创建测试过程的视频。
 
-[![face_recognition](../Images/e2c709d0340a1db9e68348127f5674b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n2vW2mGO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/TRQb4pk.png)
+[![face_recognition](img/e2c709d0340a1db9e68348127f5674b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n2vW2mGO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/TRQb4pk.png)
 
 ## [人脸识别](https://github.com/ageitgey/face_recognition)
 
@@ -31,7 +31,7 @@ Cypress 是一种新的 web 应用方式。就我个人而言，我认为它取�
 
 如果你想做面部识别并且你知道 Python，不用再找了。Adam Geitgey 的人脸识别库非常容易使用，而且非常准确。只要查一下文件，你马上就会知道你需要做什么。
 
-[![Sketch.sh](../Images/98d7ea4b97c0cd0c82eacf485e0bfd1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vayikmKm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/cZBPkgz.png)
+[![Sketch.sh](img/98d7ea4b97c0cd0c82eacf485e0bfd1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vayikmKm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/cZBPkgz.png)
 
 ## [T1](#sketchsh)[sketch . sh](https://sketch.sh/)
 
@@ -47,7 +47,7 @@ Elixir 通过我们所谓的 doctests 解决了这个问题。基本上，当您
 
 相当酷！又一个改用仙丹的理由！😄
 
-[![mdx-deck](../Images/ebe07514939e03967212cd38e8d01f2e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bMzSvlHg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vwgs3t8dbu5dz2ijwume.png)
+[![mdx-deck](img/ebe07514939e03967212cd38e8d01f2e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bMzSvlHg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vwgs3t8dbu5dz2ijwume.png)
 
 ## [mdx-甲板](https://github.com/jxnblk/mdx-deck)
 
@@ -55,31 +55,31 @@ Elixir 通过我们所谓的 doctests 解决了这个问题。基本上，当您
 
 幸运的是有 [mdx](https://mdxjs.com/) ，它允许我们用 JSX 创建降价文档！现在，我们可以在文档中添加交互性和“web 组件”。现在，mdx 允许我们创建交互式文档，但幻灯片呢？mdx-deck 为我们解决了这个问题，它允许我们使用 mdx 语法创建幻灯片。因此，我们可以创建一些 React 组件，并在幻灯片中展示它们的运行情况。您甚至可以使用包含的主题来更改主题，或者创建自己的主题。用 mdx-deck 制作您的幻灯片，祝您愉快！
 
-[![reason-maybe](../Images/7774ad111ae16d36893e858ef4a02688.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cj-797MV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0l5b9rjzif5gnxw3z1p9.png)
+[![reason-maybe](img/7774ad111ae16d36893e858ef4a02688.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cj-797MV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0l5b9rjzif5gnxw3z1p9.png)
 
 ## [原因——也许是](https://redex.github.io/package/reason-maybe/)
 
 我已经使用 ReasonML 有一段时间了，所以我尝试在 Reason 中构建一个库并不奇怪。所以，我构建了 reason-maybe，这是 reason 中的一个 maybe 单子实现。大多数情况下，你可以在 Reason 中只输入可选类型，但是如果你想要链/平面图等。，这是一个很好的尝试。
 
-[![Stencila](../Images/c61a440d365c8ed16b07136f56ed7aed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yVJ2RHTB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cdo7aj1wcbksmkzua2rt.png)
+[![Stencila](img/c61a440d365c8ed16b07136f56ed7aed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yVJ2RHTB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cdo7aj1wcbksmkzua2rt.png)
 
 ## [模版](https://stenci.la/)
 
 Stencila 是另一个用于建立可重复研究的交互式笔记本软件。这结合了 MS Excel 和 Word 之类的东西，加上用 Python 和 Node 编码的能力。看起来也干净一点。这绝对是一个非常有趣的尝试，尽管我觉得它还没有完全准备好。但是一定要试一试。
 
-[![DryStack](../Images/f86e6dc35986872e87dae85f5e6e4dd9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--klFjxv09--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bofkevjcvie5wlgufwfb.png)
+[![DryStack](img/f86e6dc35986872e87dae85f5e6e4dd9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--klFjxv09--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bofkevjcvie5wlgufwfb.png)
 
 ## [干栈](https://drystack.io/)
 
 如果你很难为你的项目选择堆栈，或者你不知道你的选择是什么，你可以试试 DryStack。您可以查看一些针对客户端、服务器、工具等的技术堆栈选项。如果你不知道从哪里开始，这是一个很好的起点。
 
-[![FlacheQL](../Images/0825300becd85eb9f59be6b6e1a349dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zQlyf5TI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pd4wq66znw1ezpyo9xql.png)
+[![FlacheQL](img/0825300becd85eb9f59be6b6e1a349dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zQlyf5TI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pd4wq66znw1ezpyo9xql.png)
 
 ## [FlacheQL](https://github.com/FlacheQL/FlacheQL)
 
 GraphQL 是一项年轻的技术，仍然有许多问题没有行业标准的解决方法。缓存中的一个问题。虽然脸书已经为此创建了一个解决方案，即 dataloader，但它只缓存确切的请求。一个新的竞争者 FlacheQL 允许部分检索缓存的结果。这确实很好，因为如果查询与缓存的查询不完全匹配，您不必获取所有内容。这将使 GraphQL 的缓存更加高效。
 
-[![Kore](../Images/780bc62fbbc29f8909cab75d42d0ad31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6y704Brv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t4insqdjey2ccmhgwkyh.png)
+[![Kore](img/780bc62fbbc29f8909cab75d42d0ad31.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6y704Brv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t4insqdjey2ccmhgwkyh.png)
 
 ## [科勒](https://kore.io/)
 

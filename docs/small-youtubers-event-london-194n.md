@@ -12,7 +12,7 @@ YouTube 拥有从几个人到 10 万人的 YouTube 频道，每个人都非常�
 
 **订阅我的 YouTube 频道，获取更多关于#开源# github #远程#创业&#包容的视频。Eddie 是开源项目 DashboardHub 的创始人。[http://youtube.com/eddiejaoude](https://youtube.com/eddiejaoude?sub_confirmation=1)T3】**
 
-[![YouTube](../Images/af1548e4296b03e3c663d1367417c65b.png)T2】](https://www.youtube.com/watch?v=vir9DGEeyQ8)
+[![YouTube](img/af1548e4296b03e3c663d1367417c65b.png)T2】](https://www.youtube.com/watch?v=vir9DGEeyQ8)
 
 *设备:索尼 A7III、腾龙 28–75mm F/2.8 Di III RXD、Moza AirCross 和带 Final Cut Pro 的 iMac Pro*
 

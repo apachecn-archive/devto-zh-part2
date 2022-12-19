@@ -10,7 +10,7 @@
 
 # 第一阶段:语法/术语
 
-[![some JavaScript minified code](../Images/69f35896e6ed18de48570e1d3226fc11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NJolYGAl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mi7p8tznirk4fhkvtuf0.jpg)
+[![some JavaScript minified code](img/69f35896e6ed18de48570e1d3226fc11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NJolYGAl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mi7p8tznirk4fhkvtuf0.jpg)
 
 关于一门新的编程语言或工具，你需要学习的第一件事是语法和术语。如果你已经知道另一种语言或工具，你已经学会了用这种语言解决问题的某种方法，但现在你必须找出如何用这种新语言解决类似的问题，并需要学习它背后的概念。
 
@@ -26,7 +26,7 @@ Koans 是一些小练习，你必须修改或编写小部分代码，并且通�
 
 # 第二阶段:生态系统
 
-[![the ecosystem](../Images/c973aff0a1f948d65eae3ce3cdee2823.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y3TzNnG2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w1jabhpvpntalo8lur4q.jpg)
+[![the ecosystem](img/c973aff0a1f948d65eae3ce3cdee2823.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y3TzNnG2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w1jabhpvpntalo8lur4q.jpg)
 
 > "如果说我看得更远，那是因为我站在巨人的肩膀上."-艾萨克·牛顿
 
@@ -42,7 +42,7 @@ Koans 是一些小练习，你必须修改或编写小部分代码，并且通�
 
 # 第三阶段:最佳实践&经验
 
-[![an old wise man](../Images/9c1db6d7e290a3c39aabaeac01783ea8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TkwtFFCW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bdoqw9uqjg6d6q9xheoa.jpg)
+[![an old wise man](img/9c1db6d7e290a3c39aabaeac01783ea8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TkwtFFCW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bdoqw9uqjg6d6q9xheoa.jpg)
 
 当采用一种新语言时，语法和库并不足以构建稳定可靠、可维护且易于扩展的软件。你还需要获得使用新技术的经验。
 

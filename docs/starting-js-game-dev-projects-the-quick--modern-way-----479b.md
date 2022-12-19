@@ -79,7 +79,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 万岁！我在浏览器中看到一个空画布和 Phaser。以下是您需要的所有内容:
 
-[![Screenshot with Browser and VSCode](../Images/6c8372ce44e371a91760295d4747fdb5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zCN0ANsG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2r00wklads1wm5l0evyk.jpg)
+[![Screenshot with Browser and VSCode](img/6c8372ce44e371a91760295d4747fdb5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zCN0ANsG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2r00wklads1wm5l0evyk.jpg)
 
 恐怖 Vacui 来了，不过那是另一篇文章。
 

@@ -120,7 +120,7 @@ IDE 是一个很棒的工具。它提供了一些非常酷的特性——自动�
 
 这是我定制调优 vim 的截图:
 
-[![](../Images/257c294f6a057577807a992901e60989.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LsySY8q3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://pmihaylov.com/wp-content/uploads/2018/04/Selection_012-1024x538.png)
+[![](img/257c294f6a057577807a992901e60989.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LsySY8q3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://pmihaylov.com/wp-content/uploads/2018/04/Selection_012-1024x538.png)
 
 它有许多很棒的特性，使用它，我能够完全用 CLion 代替一个相当大的 C 代码库。
 

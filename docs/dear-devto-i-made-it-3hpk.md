@@ -4,7 +4,7 @@
 
 2017 年 11 月 23 日，我在这里就一个重要的职业决策向社区寻求建议。你可以在下面看到...
 
-[![shripathy image](../Images/bd72a5387815026e9b696d7e7984955f.png)](/shripathy) [## 我辞去了项目协调员的工作，去追求我作为开发人员的激情。我做得对吗？
+[![shripathy image](img/bd72a5387815026e9b696d7e7984955f.png)](/shripathy) [## 我辞去了项目协调员的工作，去追求我作为开发人员的激情。我做得对吗？
 
 ### 虾病🚀11 月 23 日 171 分钟读取
 
@@ -25,4 +25,4 @@
 我在这里咆哮科技-[@ ShripathyR-Twitter](https://twitter.com//shripathyr)
 我在这里贴几张图-[@ Shripathy-insta gram](http://instagram.com/shripathy/)T5】我打算在这里写更多的文章- [@Shripathy - Dev.to](//dev.to/shripathy)
 
-[![Alt text of image](../Images/1f3977e0f3bf94daea7ee92b214fae1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vhmN2k2w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/miu087w87btyq2ntntjw.jpg)
+[![Alt text of image](img/1f3977e0f3bf94daea7ee92b214fae1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vhmN2k2w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/miu087w87btyq2ntntjw.jpg)

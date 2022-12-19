@@ -6,7 +6,7 @@
 
 作为我工作的一部分，我负责招聘新的顾问和管理薪资，这意味着我对每个人的薪资细节以及他们需要多少年的工作经验了如指掌。这种洞察力，加上我在社交活动中遇到的许多已经转型到科技行业的女性，在我的脑海中引发了一个想法，并让我思考，“为什么我不能也这样做？”
 
-[![Cash](../Images/9c75cd14e09c4a25d2906ec61240bf68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--du4SL_2T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rp8jql1hgybfohjgp1ha.jpg)
+[![Cash](img/9c75cd14e09c4a25d2906ec61240bf68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--du4SL_2T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rp8jql1hgybfohjgp1ha.jpg)
 
 好吧，我博客的标题可能有点误导。我在招聘公司遇到的工资、福利和工作津贴绝对吸引了我的眼球，但在我第一次操作 HTML 代码并看到有形的变化反映在网站上之后……你可以说我爱上了。
 

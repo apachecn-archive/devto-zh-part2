@@ -69,13 +69,13 @@
 
 说到性能，没有什么能打败渐进式网络应用。它们的性能和速度将永远优于典型的 web 应用程序。
 
-[![Image showing improved stats of Eventerprise after implementing PWA](../Images/e31ec28c8eec565c29604245bbc1bfca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ysaiOMDV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/www.atyantik.com/wp-content/uploads/2018/05/1-Second-2.png%3Fw%3D640%26ssl%3D1)
+[![Image showing improved stats of Eventerprise after implementing PWA](img/e31ec28c8eec565c29604245bbc1bfca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ysaiOMDV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/www.atyantik.com/wp-content/uploads/2018/05/1-Second-2.png%3Fw%3D640%26ssl%3D1)
 
 这是 Atyantik 使用 PWA 设计的应用程序，你可以看到平均速度和加载时间的显著结果。
 
 PWA 还提供了构建以 60 fps 动画和响应的 UI 的指南。为了取悦用户，移动网络应用需要在性能和界面方面的表现，最好是在这些时间限制内。
 
-[![Site Performance Metrics](../Images/de5da1bca1f368bae3343957394fbcdb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8HezP_lL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/www.atyantik.com/wp-content/uploads/2018/05/stats.png%3Fresize%3D640%252C187%26ssl%3D1)
+[![Site Performance Metrics](img/de5da1bca1f368bae3343957394fbcdb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8HezP_lL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/www.atyantik.com/wp-content/uploads/2018/05/stats.png%3Fresize%3D640%252C187%26ssl%3D1)
 
 ### 推送通知
 
@@ -116,7 +116,7 @@ Mobile Chrome 为网页提供了一种简单的方式来提示用户将 web 应�
 
 所有设备的购物车放弃率约为 69%。对于移动设备来说，这个数字甚至更高。万维网支付标准由万维网支付工作组(WPWG)开发，改进了当前的在线支付机制。有了目前对 PWA 的支持，用户现在只需轻轻一点就可以付款。
 
-[![Payment API for PWA](../Images/c103b5fba7c488b585af869280182e8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UDxJCQEv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i2.wp.com/www.atyantik.com/wp-content/uploads/2018/05/payment-api.gif%3Fw%3D640%26ssl%3D1)
+[![Payment API for PWA](img/c103b5fba7c488b585af869280182e8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UDxJCQEv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i2.wp.com/www.atyantik.com/wp-content/uploads/2018/05/payment-api.gif%3Fw%3D640%26ssl%3D1)
 
 ## PWA 的 2 个主要组成部分
 
@@ -126,7 +126,7 @@ Mobile Chrome 为网页提供了一种简单的方式来提示用户将 web 应�
 
 Service worker 是 PWA 最强大的组件之一，它赋予了 it 像本机应用一样工作的能力。它基本上是一个由浏览器在后台运行的脚本组成的标准。服务人员不需要网页或用户交互。他们可以独立工作。到目前为止，它们已经具备了推送通知和后台同步等功能。未来，他们还计划支持定期同步和地理围栏。
 
-[![Image showing how service worker enables the performance](../Images/8051c44d4229ecbfdf6c6a42dcde11e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BVnTl_tK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/www.atyantik.com/wp-content/uploads/2018/05/1-Second-2-1.png%3Fw%3D640%26ssl%3D1)
+[![Image showing how service worker enables the performance](img/8051c44d4229ecbfdf6c6a42dcde11e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BVnTl_tK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/www.atyantik.com/wp-content/uploads/2018/05/1-Second-2-1.png%3Fw%3D640%26ssl%3D1)
 
 ### App 清单
 
@@ -143,15 +143,15 @@ Web 应用清单规范是 W3C 管理的另一个标准。
 
 ### [T1】Flipkart](#flipkart)
 
-[![Image showing how flipkart has achieved improvements by implementing PWA](../Images/28810533ebf74c0a169892075a3418bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UR6jRv7u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/www.atyantik.com/wp-content/uploads/2018/05/flipkart-stats.png%3Fw%3D640%26ssl%3D1)
+[![Image showing how flipkart has achieved improvements by implementing PWA](img/28810533ebf74c0a169892075a3418bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UR6jRv7u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/www.atyantik.com/wp-content/uploads/2018/05/flipkart-stats.png%3Fw%3D640%26ssl%3D1)
 
 ### 预定我的节目
 
-[![Image showing book my show improved stats after implementing Progressive Web App](../Images/1ea2e81de582e2f0a9a0b1b49d97703f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VHN2ZDQ5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/www.atyantik.com/wp-content/uploads/2018/05/32658813_234826340619303_8989574044693037056_n.png%3Fw%3D640%26ssl%3D1)
+[![Image showing book my show improved stats after implementing Progressive Web App](img/1ea2e81de582e2f0a9a0b1b49d97703f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VHN2ZDQ5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/www.atyantik.com/wp-content/uploads/2018/05/32658813_234826340619303_8989574044693037056_n.png%3Fw%3D640%26ssl%3D1)
 
 ### 阿里快递
 
-[![Image showing aliexpress improved stats after implementing Progressive Web App](../Images/3f9a5593d8b5ab126a3e501fbe47d7ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IQEv_rjG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/www.atyantik.com/wp-content/uploads/2018/05/32821396_234826083952662_5126759060867121152_n.png%3Fw%3D640%26ssl%3D1)
+[![Image showing aliexpress improved stats after implementing Progressive Web App](img/3f9a5593d8b5ab126a3e501fbe47d7ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IQEv_rjG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/www.atyantik.com/wp-content/uploads/2018/05/32821396_234826083952662_5126759060867121152_n.png%3Fw%3D640%26ssl%3D1)
 
 ## 开发成本
 
@@ -196,7 +196,7 @@ Web 应用清单规范是 W3C 管理的另一个标准。
 
 谷歌 Chrome 发布仅 4 年就宣布月活跃用户达到 10 亿。预计未来几年的增长将超过两倍。查看 ComScore 发布的最新数据，该数据称用户在移动网络应用上的支出是前 1000 名原生/混合应用的 2.5 倍。
 
-[![latest data released by ComScore, which says users are spending 2.5x times on mobile web apps vs the top 1000 native/hybrid apps.](../Images/4e0b37f5815cb82188b63c95089741e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8Hy70zuw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/www.atyantik.com/wp-content/uploads/2018/05/32684832_234829043952366_4923998233258098688_n.png%3Fw%3D640%26ssl%3D1)
+[![latest data released by ComScore, which says users are spending 2.5x times on mobile web apps vs the top 1000 native/hybrid apps.](img/4e0b37f5815cb82188b63c95089741e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8Hy70zuw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i1.wp.com/www.atyantik.com/wp-content/uploads/2018/05/32684832_234829043952366_4923998233258098688_n.png%3Fw%3D640%26ssl%3D1)
 
 #### **降低收购成本**
 
@@ -204,7 +204,7 @@ Web 应用清单规范是 W3C 管理的另一个标准。
 
 任何营销团队的关键矩阵之一是平均客户获取成本。Selio 宣称，渐进式网络应用的平均客户获取成本比原生应用低了 10 倍。
 
-[![Image showing selio's average customer acquisition cost for progressive web apps is a whopping 10 times lesser than for native apps.](../Images/cc7bab785c68c29ae5394e22edfaadb1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jV-EzIg6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/www.atyantik.com/wp-content/uploads/2018/05/32659819_234829073952363_4253214295417946112_n.png%3Fw%3D640%26ssl%3D1)
+[![Image showing selio's average customer acquisition cost for progressive web apps is a whopping 10 times lesser than for native apps.](img/cc7bab785c68c29ae5394e22edfaadb1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jV-EzIg6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/www.atyantik.com/wp-content/uploads/2018/05/32659819_234829073952363_4253214295417946112_n.png%3Fw%3D640%26ssl%3D1)
 
 #### **强化转换**
 

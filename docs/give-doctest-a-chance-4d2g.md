@@ -246,7 +246,7 @@ Doctest 就会通过。
 
 尽管如此，它最大的优势是 doctest 如何使*开发过程*更容易。前段时间我开玩笑说我们需要创建 DocDD:
 
-> ![Adam Brandizzi profile image](../Images/56cae89bdb610015ba1ef32f54c7fa58.png)亚当布兰迪齐[@亚当布兰迪齐](https://dev.to/adambrandizzi)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)我需要发明文档驱动开发。我正在这里写一些文档字符串。很多事情都错了！2015 年 6 月 10 日上午 00:27[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=608430368233017344)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=608430368233017344)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=608430368233017344)
+> ![Adam Brandizzi profile image](img/56cae89bdb610015ba1ef32f54c7fa58.png)亚当布兰迪齐[@亚当布兰迪齐](https://dev.to/adambrandizzi)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)我需要发明文档驱动开发。我正在这里写一些文档字符串。很多事情都错了！2015 年 6 月 10 日上午 00:27[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=608430368233017344)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=608430368233017344)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=608430368233017344)
 
 有了 Doctest，它不再只是一个笑话。
 

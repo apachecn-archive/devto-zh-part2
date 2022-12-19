@@ -14,11 +14,11 @@
 
 但是当你查看 Sitecore UI 中可见的分析数据时，没有一个用户有任何与他们相关联的位置数据。
 
-[![](../Images/a8182fa8c74206956336996cd15a24a5.png)T2】](https://jermdavis.files.wordpress.com/2018/04/nolocations.png)
+[![](img/a8182fa8c74206956336996cd15a24a5.png)T2】](https://jermdavis.files.wordpress.com/2018/04/nolocations.png)
 
 看到这个问题后，我四处挖掘，寻找任何关于正在发生的事情的线索。我注意到 MongoDB 中的原始数据缺少与 GeoIP 相关的任何内容。“GeoIPs”集合不存在，并且“Interactions”集合中的记录都不包含“GeoData”元素。
 
-[![](../Images/11461aa0c621bccb899e345f2c0401df.png)T2】](https://jermdavis.files.wordpress.com/2018/04/nogeoip.png)
+[![](img/11461aa0c621bccb899e345f2c0401df.png)T2】](https://jermdavis.files.wordpress.com/2018/04/nogeoip.png)
 
 ## 修罗
 
@@ -44,10 +44,10 @@ Enter fullscreen mode Exit fullscreen mode
 
 部署完成后，丢失的 MongoDB 收集数据出现了:
 
-[![](../Images/7a2480d57bd887be1ac6824b65d14d6f.png)T2】](https://jermdavis.files.wordpress.com/2018/04/validgeoipdata1.png)
+[![](img/7a2480d57bd887be1ac6824b65d14d6f.png)T2】](https://jermdavis.files.wordpress.com/2018/04/validgeoipdata1.png)
 
 体验浏览器开始显示新访客的位置:
 
-[![](../Images/e77682437ddc62226d68cd917ef6e3c9.png)T2】](https://jermdavis.files.wordpress.com/2018/04/visitlocation.png)
+[![](img/e77682437ddc62226d68cd917ef6e3c9.png)T2】](https://jermdavis.files.wordpress.com/2018/04/visitlocation.png)
 
 成功！

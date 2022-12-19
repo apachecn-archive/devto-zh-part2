@@ -57,7 +57,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这给了我们两个看起来像这样的元素:
 
-[![Static sidebar and main content](../Images/858349fe08de7d482601e589b0ca9db4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1OABY4lm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7x8veyruw17v319rxsqp.png)
+[![Static sidebar and main content](img/858349fe08de7d482601e589b0ca9db4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1OABY4lm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7x8veyruw17v319rxsqp.png)
 
 注意，主元素和侧边栏元素的高度是使用 vh 单位设置的。100vh 是当前视口的高度，因此将主 div 的高度设置为 150vh 会使其高度是屏幕高度的 1.5 倍。
 
@@ -75,7 +75,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 (好吧，我撒了个谎，三行代码表示 Safari 与前缀`-webkit-`的兼容性。)这样你就知道了，向下滚动页面，侧边栏就会粘在屏幕顶部，跟着你往下看！
 
-[![Sticky sidebar and main content](../Images/ff4c83cf71da79cdbdab529faaae1330.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QQp9ICij--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/djrxlvvkzb81549o9lh9.gif)
+[![Sticky sidebar and main content](img/ff4c83cf71da79cdbdab529faaae1330.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QQp9ICij--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/djrxlvvkzb81549o9lh9.gif)
 
 `position: sticky`属性告诉元素贴在屏幕上，( [MDN 比我](https://developer.mozilla.org/en-US/docs/Web/CSS/position)更能解释这一点)，而`top`值告诉元素在滚动时相对于屏幕的位置。我们可以把它改成`top: 5%`来留出一个空隙，或者比如说`left: 0`，这取决于滚动的方向。
 

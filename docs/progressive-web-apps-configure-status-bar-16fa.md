@@ -17,7 +17,7 @@ Chrome、Firefox 和 Opera 允许你使用 meta 标签定义状态栏的颜色�
 
 示例:
 
-[![](../Images/aa32b7a0bd18257141a877f8903617b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xYwlUh1p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/NsUIohY.png)
+[![](img/aa32b7a0bd18257141a877f8903617b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xYwlUh1p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/NsUIohY.png)
 
 ### iOS
 
@@ -39,7 +39,7 @@ Chrome、Firefox 和 Opera 允许你使用 meta 标签定义状态栏的颜色�
 
 示例:
 
-[![](../Images/8267b5caad95070de74c11ed022de9ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gjKukh-f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/BS17zf4.jpg)
+[![](img/8267b5caad95070de74c11ed022de9ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gjKukh-f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/BS17zf4.jpg)
 
 #### 黑色
 
@@ -51,7 +51,7 @@ Chrome、Firefox 和 Opera 允许你使用 meta 标签定义状态栏的颜色�
 
 示例:
 
-[![](../Images/a74eb3727d3d053d277c21698e2f2269.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3KvIwDmF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/kPf8MUi.jpg)
+[![](img/a74eb3727d3d053d277c21698e2f2269.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3KvIwDmF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/kPf8MUi.jpg)
 
 #### 黑色半透明
 
@@ -69,7 +69,7 @@ body {
 
 示例:
 
-[![](../Images/dfa7b49e3ad6b52e7e5ef94772067efc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tvqoKklQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/XIrafYW.jpg)
+[![](img/dfa7b49e3ad6b52e7e5ef94772067efc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tvqoKklQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/XIrafYW.jpg)
 
 ### 现场演示
 

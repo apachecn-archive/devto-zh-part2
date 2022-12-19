@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jackhiston/javascript-error-reporting-best-practices-20mi>
 
-[![JavaScript Logo](../Images/26d21f9be88c161652e464342b0bb316.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ImgNlvEA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/93p01zkqtra52lj255mi.jpg)
+[![JavaScript Logo](img/26d21f9be88c161652e464342b0bb316.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ImgNlvEA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/93p01zkqtra52lj255mi.jpg)
 
 # 简介
 

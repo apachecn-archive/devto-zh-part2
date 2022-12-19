@@ -6,7 +6,7 @@
 
 ### 再说一遍
 
-[![redis logo](../Images/8adc3f8b1183fe3bc623d6dacd7c6632.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gWwIv4vV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/787xlgwc2hhq3ctzxcvs.png)
+[![redis logo](img/8adc3f8b1183fe3bc623d6dacd7c6632.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gWwIv4vV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/787xlgwc2hhq3ctzxcvs.png)
 
 Redis 是一个内存中的数据结构存储，支持许多数据类型，如字符串、散列、集合、有序集合等。本质上，它是一个键值存储。
 
@@ -106,17 +106,17 @@ Enter fullscreen mode Exit fullscreen mode
 *   首先，通过运行`npm init`初始化 NPM 库，并安装 *express* 和 *redis* 作为依赖项。
 *   现在，创建一个 redis helper 文件，它构成了连接到 redis 服务器的 redis 客户机的一个实例。我们还为我们的路由处理程序编写了一些缓存助手方法。
 
-    [![redis cache helper file](../Images/1670117ae23ed3374acc6dc7cf11d379.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GO_zcWKV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yvnh0ig59puaqj8xduyn.png)
+    [![redis cache helper file](img/1670117ae23ed3374acc6dc7cf11d379.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GO_zcWKV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yvnh0ig59puaqj8xduyn.png)
 
 *   在主应用程序文件中，编写一个路由处理程序，它接受一个 userid，根据该 userid 检索用户信息。接下来，使用 userid 形成一个惟一的 redis 密钥。对于给定的 userid，这个键对于每个请求总是相同的。检查 Redis 缓存中是否存在这个键，如果找到就返回响应。
 
-    [![main file index.js](../Images/530ef67185bc560c836bdf56f816e41f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bZrfxUvf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/29fg2n4l4900x41gmhgz.png)
+    [![main file index.js](img/530ef67185bc560c836bdf56f816e41f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bZrfxUvf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/29fg2n4l4900x41gmhgz.png)
 
 *   否则，我们将从数据源中查询数据，并将响应数据设置到 Redis 缓存，然后将其作为响应发送回去。
 
 要查看完整的代码并对其进行修改，您可以克隆以下存储库:
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)[【divyan hutomar】](https://github.com/divyanshutomar)/[【hello-redis】](https://github.com/divyanshutomar/hello-redis)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)[【divyan hutomar】](https://github.com/divyanshutomar)/[【hello-redis】](https://github.com/divyanshutomar/hello-redis)
 
 ### 使用 Redis 缓存数据的 Express 应用程序
 

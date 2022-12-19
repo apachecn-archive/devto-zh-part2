@@ -6,7 +6,7 @@
 
 除了有趣之外，Avi 还分享了竞争性编程对他的编程生涯有所帮助的四种方式。如果您还没有尝试过，请尝试一下！
 
-[![aviaryan](../Images/6a3c30092d9074c2a86cc06c8ae2691d.png)](/aviaryan) [## 为什么你应该做竞争性编程，即使是一点点
+[![aviaryan](img/6a3c30092d9074c2a86cc06c8ae2691d.png)](/aviaryan) [## 为什么你应该做竞争性编程，即使是一点点
 
 ### 阿维雅利安 Oct 6 ' 18 分钟阅读
 
@@ -16,7 +16,7 @@
 
 一个聪明的方法来打击招聘垃圾邮件，并迅速筛选出邮件可能是有价值的。
 
-[![whokilledkevin](../Images/fc1013f065885acaf4667b2df1df37ad.png)](/whokilledkevin) [## 我创造了一个能帮我和招聘人员交流的机器人(它太棒了！)
+[![whokilledkevin](img/fc1013f065885acaf4667b2df1df37ad.png)](/whokilledkevin) [## 我创造了一个能帮我和招聘人员交流的机器人(它太棒了！)
 
 ### 凯文 _ 凯文 10 月 1 日 184 分钟阅读
 
@@ -26,7 +26,7 @@
 
 为了开始投资，我们的作者让云来计算流行的公式，以帮助他们做出更明智的决定。我们将在 1-3 年内看到这是否成功。
 
-[![dansyuqri](../Images/2b5a6d88fd8c047b9450944234f2ff1f.png)](/dansyuqri) [## 我如何利用谷歌云平台开始投资股票
+[![dansyuqri](img/2b5a6d88fd8c047b9450944234f2ff1f.png)](/dansyuqri) [## 我如何利用谷歌云平台开始投资股票
 
 ### Muhammad Syuqri Oct 6 ' 187min read
 
@@ -36,7 +36,7 @@
 
 Stephen 是一名. NET 开发人员，他分享了他们最初使用 glitch(教他们的侄子如何制作网站)的经历是如何引导他们自学 Node.js 的！
 
-[![stegriff](../Images/e54987d4f120b33865115c87ae07b8cd.png)](/stegriff) [## Glitch 是如何教会我 Node.js 堆栈的
+[![stegriff](img/e54987d4f120b33865115c87ae07b8cd.png)](/stegriff) [## Glitch 是如何教会我 Node.js 堆栈的
 
 ### 斯蒂芬格里菲斯 10 月 1 日 184 分钟阅读
 
@@ -46,7 +46,7 @@ Stephen 是一名. NET 开发人员，他分享了他们最初使用 glitch(教�
 
 下一次你协商薪水时，可以考虑一些建议。
 
-[![FullStack.Cafe](../Images/c0e8c2e9bb7bc6022236a06eff1de1e5.png)![](../Images/d2f6a880dec3b1e223cafce27a9be69c.png)](/fullstackcafe) [## 软件开发人员的 5 条薪资谈判规则。在市场价的基础上获得+20%的优惠
+[![FullStack.Cafe](img/c0e8c2e9bb7bc6022236a06eff1de1e5.png)![](img/d2f6a880dec3b1e223cafce27a9be69c.png)](/fullstackcafe) [## 软件开发人员的 5 条薪资谈判规则。在市场价的基础上获得+20%的优惠
 
 ### Alex 👨🏼‍💻FullStack.Cafe for FullStack.Cafe ・ Oct 7 '18 ・ 6 min read
 
@@ -56,7 +56,7 @@ Stephen 是一名. NET 开发人员，他分享了他们最初使用 glitch(教�
 
 从讨论中得到启发"[你对初级开发人员最好的建议是什么？](https://dev.to/sergiotapia/what-is-your-best-advice-for-a-junior-software-developer-32gn)“Ted 分享了他们希望在大三时就知道的十五件事。
 
-[![tedhagos](../Images/d33df494b4c7494599bd1bc717f8b9d1.png)](/tedhagos) [## 如果我当时知道我现在知道的
+[![tedhagos](img/d33df494b4c7494599bd1bc717f8b9d1.png)](/tedhagos) [## 如果我当时知道我现在知道的
 
 ### ted Hagos 10 月 5 日 181 分钟阅读
 
@@ -66,7 +66,7 @@ Stephen 是一名. NET 开发人员，他分享了他们最初使用 glitch(教�
 
 抱歉，不得不。Phil 分享了一个 Rails 公告——默认情况下，一个富文本编辑器 Trix 将作为动作文本被引入 Rails 6。
 
-[![philnash](../Images/b650ec198faa986f9f11da3a62066a49.png)](/philnash) [## Rails 6 将包含新的动作文本框架
+[![philnash](img/b650ec198faa986f9f11da3a62066a49.png)](/philnash) [## Rails 6 将包含新的动作文本框架
 
 ### 菲尔纳什 10 月 4 日 181 分钟阅读
 

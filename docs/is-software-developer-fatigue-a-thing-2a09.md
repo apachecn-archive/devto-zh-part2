@@ -8,13 +8,13 @@
 
 **云上的技术太多了吗？**显然，我并不提倡垄断，但每次我打开 AWS 控制台(我希望我不是唯一一个这样做的人),我都觉得这个仪表盘有点可笑:
 
-[![aws console](../Images/86780ced1c21d9adf3f3962448b0b3ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iP7jH4ey--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y66sz10w2mhq20tch2ld.png)
+[![aws console](img/86780ced1c21d9adf3f3962448b0b3ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iP7jH4ey--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y66sz10w2mhq20tch2ld.png)
 
 老实说，我不知道其中一半的条目是做什么的。
 
 谷歌云的报价也是超长的:
 
-[![google cloud products](../Images/215eee416eb354261ccda30392907f64.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kkBl7iby--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i63.tinypic.com/23r1de8.png)
+[![google cloud products](img/215eee416eb354261ccda30392907f64.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kkBl7iby--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i63.tinypic.com/23r1de8.png)
 
 我想蓝色也是一样。
 

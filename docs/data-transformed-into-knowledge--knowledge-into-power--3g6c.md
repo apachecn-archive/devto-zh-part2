@@ -41,7 +41,7 @@ ggplot()  +  geom_point(aes(x  =  years,  y  =  people),  colour  =  'red')  +  
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Dispersion](../Images/1ec817f8e810dc1edd7755867d9de4b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vmeIwtJ_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mfzen6ijqokxk1bsr7o5.png)
+[![Dispersion](img/1ec817f8e810dc1edd7755867d9de4b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vmeIwtJ_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mfzen6ijqokxk1bsr7o5.png)
 
 #### 线性回归模型
 
@@ -51,7 +51,7 @@ ggplot()  +  geom_point(aes(x  =  years,  y  =  people_ln),  colour  =  'red')  
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Linear](../Images/dc313afe91ddcda7c2a29defd6aad600.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wayJ6xi2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s0ps0d89ayzled02n0hy.png) 
+[![Linear](img/dc313afe91ddcda7c2a29defd6aad600.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wayJ6xi2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s0ps0d89ayzled02n0hy.png) 
 它返回 91.06%的准确率，这意味着中国人口中 91.06%的方差是由于年份的方差。有了这个指标，我们可以接受它作为一个公平的模型，但没有这么快！在下结论之前，让我们看看它是如何表现指数回归模型的。
 
 #### 指数回归模型
@@ -62,7 +62,7 @@ ggplot()  +  geom_point(aes(x  =  years,  y  =  people),  colour  =  'red')  +  
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Exp](../Images/4fb99d408c7369468be707af5c581fc9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AjLj_rqr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zhm6wz3tq6polpa195yp.png) 
+[![Exp](img/4fb99d408c7369468be707af5c581fc9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AjLj_rqr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zhm6wz3tq6polpa195yp.png) 
 正如我所怀疑的，指数回归模型返回了更好的百分之几的准确率。该模型表明，中国人口 96.27%的变异是由于年份的变异。
 
 不要混淆，线性回归模型并不坏，但对于这种数据的分散，指数回归模型已被证明是一个更准确的模型。所以现在，我们可以得出结论，中国人口呈指数增长，而不是线性增长。

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/pavsaund/hitting-refresh-3lig>
 
-[![](../Images/03ab508eb018abb04f8dcd2e0f2f406f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RsddxI7B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A8sQWAJE-NnO6TMMGgxk4HQ.png)
+[![](img/03ab508eb018abb04f8dcd2e0f2f406f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RsddxI7B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A8sQWAJE-NnO6TMMGgxk4HQ.png)
 
 忘却是任何转变中最难的部分之一。你带来了多年的经验、期望和偏见。随着时间的推移，你已经适应了不同的工作环境。过去的经历能让你在工作和交流时迅速进入状态。它们也可能是沉重的包袱，拖你的后腿。在一家初创公司，这个包袱可能正是拖你后腿的东西。你正在用与你的情况不相符的观点看待全新的问题。
 

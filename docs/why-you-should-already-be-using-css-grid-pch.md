@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/willamesoares/why-you-should-already-be-using-css-grid-pch>
 
-[![header](../Images/30826cec8d62a251d833d15a7827995c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bS_SjGm5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4h381z8znyw4w0vcnv8z.png)
+[![header](img/30826cec8d62a251d833d15a7827995c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bS_SjGm5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4h381z8znyw4w0vcnv8z.png)
 
 嘿大家好！
 
@@ -24,7 +24,7 @@ CSS Grid 和浏览器中正式批准和发布的任何其他规范一样，自 2
 
 带着对新酷小子的如此热情，到 2017 年第一学期结束时，Chrome，Firefox，Opera 和 Safari 已经提供了对 CSS Grid 的支持。看看它目前的支持:
 
-[![css-grid-support](../Images/d4caeaa914ff7cb46ba89dce11614f3e.png "CSS Grid Support") ](https://res.cloudinary.com/practicaldev/image/fetch/s--8rf6R6e3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6hnlrdnczd4n8jf4c2k9.png) <small>提到的对 Opera 的支持仅针对 Opera Mobile。</small>
+[![css-grid-support](img/d4caeaa914ff7cb46ba89dce11614f3e.png "CSS Grid Support") ](https://res.cloudinary.com/practicaldev/image/fetch/s--8rf6R6e3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6hnlrdnczd4n8jf4c2k9.png) <small>提到的对 Opera 的支持仅针对 Opera Mobile。</small>
 
 有趣的是，微软是最后一家在 Edge 中发布网格布局更新版本的公司。至于 IE10 和 IE11，支持的网格布局版本仍然是旧的，看起来这些是[没有得到更新](https://gridbyexample.com/browsers/)。
 

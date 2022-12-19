@@ -2,11 +2,11 @@
 
 > 原文：<https://dev.to/scalegrid/how-to-build-a-url-shortener-with-nodejs-and-mongodb--5gb4>
 
-[![How to build a URL shortener with Node.js and MongoDB](../Images/df9c93e5ceda352f7aa5f9ad9678b848.png)T2】](https://scalegrid.io/blog/how-to-build-a-url-shortener-with-node-js-and-mongodb/)
+[![How to build a URL shortener with Node.js and MongoDB](img/df9c93e5ceda352f7aa5f9ad9678b848.png)T2】](https://scalegrid.io/blog/how-to-build-a-url-shortener-with-node-js-and-mongodb/)
 
 在这篇文章中，我们将向您展示如何使用 Express.js (Node.js)和 MongoDB 构建一个 URL 缩短服务，如 [bit.ly](https://bitly.com/) 或 [goo.gl](https://goo.gl/) 。[这是我们将通过我们的](https://sg-url-shortener.herokuapp.com/) [MongoDB 托管](https://scalegrid.io/mongodb.html)平台构建的最终产品的演示。
 
-[![How to build a URL shortener with Node.js and MongoDB](../Images/cc631da28f43fb41034f47e16c0b08a0.png)T2】](https://sg-url-shortener.herokuapp.com/)
+[![How to build a URL shortener with Node.js and MongoDB](img/cc631da28f43fb41034f47e16c0b08a0.png)T2】](https://sg-url-shortener.herokuapp.com/)
 
 ## 网址缩写程序是如何工作的？
 
@@ -36,7 +36,7 @@
 
     让我们从在 ScaleGrid 上创建一个[共享 MongoDB 集群](https://help.scalegrid.io/docs/mongodb-new-cluster-shared-hosting)开始。这是创建快速集群最简单的方法，但是您也可以在您的机器上安装 MongoDB 并从那里开始。
 
-    [![Create a MongoDB Shared Cluster: Build URL Shortener - ScaleGrid Blog](../Images/3d0dd1ae535943466156590053fb8c32.png)](https://console.scalegrid.io/users/register)
+    [![Create a MongoDB Shared Cluster: Build URL Shortener - ScaleGrid Blog](img/3d0dd1ae535943466156590053fb8c32.png)](https://console.scalegrid.io/users/register)
 
     一旦创建了集群，您将获得一个[连接字符串](https://help.scalegrid.io/docs/mongodb-connecting-to)，只需在集群详细信息页面上单击一下就可以复制该字符串。我们需要这个字符串从我们的应用程序连接到集群。请记住，不要与任何人共享您的连接字符串。
 
@@ -46,12 +46,12 @@
 
         存储 URL 和动态生成的 ID 的集合:
 
-        [![Collection 1: Store the Shortened URL and Dynamically Generated ID](../Images/077b20cb42c6ac22d19dd234984506d7.png)](https://scalegrid.io/blog/wp-content/uploads/2018/01/Table-Collection1.png)
+        [![Collection 1: Store the Shortened URL and Dynamically Generated ID](img/077b20cb42c6ac22d19dd234984506d7.png)](https://scalegrid.io/blog/wp-content/uploads/2018/01/Table-Collection1.png)
     *   #### **收藏二**
 
         用于维护计数器的集合，当新的 URL 存储在以前的集合中时，该计数器将自动递增。用这个新增加的计数器在前一个集合中创建新文档:
 
-        [![Collection 2: Maintain the Auto-Incremented Counter for Storing Shortened URLs](../Images/f0b58eda618bb57a839efcbd82adc53c.png)](https://scalegrid.io/blog/wp-content/uploads/2018/01/Table-Collection2.png)
+        [![Collection 2: Maintain the Auto-Incremented Counter for Storing Shortened URLs](img/f0b58eda618bb57a839efcbd82adc53c.png)](https://scalegrid.io/blog/wp-content/uploads/2018/01/Table-Collection2.png)
 
     需要注意的是，我们没有将散列存储在数据库中的任何地方。哈希将使用通用算法进行基本编码和动态解码，这将产生存储在第一个集合中的唯一 ID。这个 ID 将获取用户将重定向到的原始 URL。
 
@@ -104,11 +104,11 @@
 
     在我们开始编写代码之前，可视化应用程序流是一个很好的做法，这样我们就可以很好地理解缩短过程是如何工作的。以下图表显示了 URL 缩短的过程:
 
-    [![App Visualization Flow Chart: Shortening URLs - ScaleGrid Blog](../Images/e2087ff0e5e7df4021a032c0a13257fe.png)](https://scalegrid.io/blog/wp-content/uploads/2018/01/Process-Storing-URLs.png)
+    [![App Visualization Flow Chart: Shortening URLs - ScaleGrid Blog](img/e2087ff0e5e7df4021a032c0a13257fe.png)](https://scalegrid.io/blog/wp-content/uploads/2018/01/Process-Storing-URLs.png)
 
     下图显示了访问缩短的 URL 时的重定向过程:
 
-    [![App Visualization Flow Chart: Redirecting Shortened URLs - ScaleGrid Blog](../Images/35560e9039d2ee1d4850ce52231e9586.png)](https://scalegrid.io/blog/wp-content/uploads/2018/01/Process-Redirecting-Users.png)
+    [![App Visualization Flow Chart: Redirecting Shortened URLs - ScaleGrid Blog](img/35560e9039d2ee1d4850ce52231e9586.png)](https://scalegrid.io/blog/wp-content/uploads/2018/01/Process-Redirecting-Users.png)
 
     现在我们已经可视化了整个过程，是时候把上面的流程图翻译成代码了。
 

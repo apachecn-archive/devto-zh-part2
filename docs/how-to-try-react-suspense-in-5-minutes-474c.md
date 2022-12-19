@@ -109,7 +109,7 @@ ReactDOM.render(<App />, document.getElementById("root"));
 
 也就这样了！点击`npm start`并检查时髦的异步加载！
 
-[![tryasyncreact](../Images/b76e9d887289e28493d40359b4e36033.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qhghsf2i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/6764957/38276875-710bfb48-3764-11e8-8324-7f51d660080b.gif)
+[![tryasyncreact](img/b76e9d887289e28493d40359b4e36033.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qhghsf2i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/6764957/38276875-710bfb48-3764-11e8-8324-7f51d660080b.gif)
 
 # 尝试更多的东西
 

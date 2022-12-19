@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/wuz/leave-loudly-this-holiday--33l7>
 
-[![man eating popcorn in the stands](../Images/9687897824d51ee191548294062ac6eb.png)T2】](https://i.giphy.com/media/WFsGRpN7EekEt6ULha/giphy.gif)
+[![man eating popcorn in the stands](img/9687897824d51ee191548294062ac6eb.png)T2】](https://i.giphy.com/media/WFsGRpN7EekEt6ULha/giphy.gif)
 
 嘿伙计们！
 

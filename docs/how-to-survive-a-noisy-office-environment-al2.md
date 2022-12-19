@@ -14,7 +14,7 @@
 
 我在以前的一篇文章中提到过这个话题，但我怎么强调都不为过。当生活给了你柠檬，那就做点柠檬汁吧。当你听到噪音时，试着用你的耳机做一些精神隔离。就像这只狗一样:
 
-[![](../Images/674c5f9f413c09d8b70700e9155c712c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wjP8f3jo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/700/1%2Al2-hcm154qTIsk0Ix1SLXA.jpeg) 
+[![](img/674c5f9f413c09d8b70700e9155c712c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wjP8f3jo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/700/1%2Al2-hcm154qTIsk0Ix1SLXA.jpeg) 
 
 <figcaption>真相</figcaption>
 
@@ -28,7 +28,7 @@
 
 如果你正在使用一种类似番茄工作法的技术，这是你生产力系统的一部分。但是如果没有，请确保你做更多这样的事情。休息有助于你更好地休息，如果你休息得更好，就不太可能屈服于愚蠢的干扰。
 
-[![](../Images/27c29cbd12c5a9fb5c3f2f2ae0182943.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3rUv00no--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/700/1%2AR5q1sxcz0LEU8M_2ZLQQ4g.jpeg)T3】谢谢 CareerAddict.com
+[![](img/27c29cbd12c5a9fb5c3f2f2ae0182943.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--3rUv00no--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/700/1%2AR5q1sxcz0LEU8M_2ZLQQ4g.jpeg)T3】谢谢 CareerAddict.com
 
 ### 改变你的时间
 
@@ -38,7 +38,7 @@
 
 尽管不是每个人都一样，但总的来说，在家工作会让你更有效率。
 
-[![](../Images/1f1a32619f1491b17c08cfaddfe0a1db.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YWAcOsFd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/225/1%2An3zfy0JRK9_Fx_hjO-pr7A.jpeg) 
+[![](img/1f1a32619f1491b17c08cfaddfe0a1db.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YWAcOsFd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/225/1%2An3zfy0JRK9_Fx_hjO-pr7A.jpeg) 
 
 <figcaption>这个！！</figcaption>
 

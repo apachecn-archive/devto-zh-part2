@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/arccosine/how-add-keyboard-shortcuts-on-google-search-pages-ho8>
 
-[![keyboard](../Images/61729316f16bfa172126d94e492b9c59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GEvxZg9X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gkloklzf67kq0ea0vn86.jpg)
+[![keyboard](img/61729316f16bfa172126d94e492b9c59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GEvxZg9X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gkloklzf67kq0ea0vn86.jpg)
 
 嗨，你好。
 

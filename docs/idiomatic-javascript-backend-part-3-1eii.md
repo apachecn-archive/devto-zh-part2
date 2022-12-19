@@ -273,7 +273,7 @@ export default beforeMethod(
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![wat-decorators](../Images/3ce3585a120aa7263ae9333cdbee9aef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Lhyd_BAN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/0%2Aju1bVBvFGchlK2YF)
+[![wat-decorators](img/3ce3585a120aa7263ae9333cdbee9aef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Lhyd_BAN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/0%2Aju1bVBvFGchlK2YF)
 
 嗯，首先我们需要了解`@ReqTransformBodyAsync`实际上做什么:
 
@@ -514,4 +514,4 @@ Library core 不到 80 行(在我写这篇文章的时候),并且可能会保持
 
 你喜欢关于图书馆的想法吗？[要不要投稿](https://github.com/k1r0s/ritley)？我总是乐于接受新想法！
 
-[![ritley from metroid](../Images/6c96b2fa78b770f0acbb0e69af3afa58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mCwlMtvz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7q8l002pngb479ra00l3.jpeg)
+[![ritley from metroid](img/6c96b2fa78b770f0acbb0e69af3afa58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mCwlMtvz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7q8l002pngb479ra00l3.jpeg)

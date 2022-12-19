@@ -10,7 +10,7 @@
 # Create & plot R6 tree object  tree  =  fractal_tree$new()  tree$plot() 
 ```
 
-[![](../Images/e6538240710637b0c1a58d332b5bbef3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JbpijL9I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/87g7xyjhxn4bjicd55lj.png)
+[![](img/e6538240710637b0c1a58d332b5bbef3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JbpijL9I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/87g7xyjhxn4bjicd55lj.png)
 
 ***注**:本帖意在探究 [`R6`](https://r6.r-lib.org/) 功能；这并不是创造分形树的最好方法。一些设计选择仅仅是为了利用不同的功能。另外，这篇文章更多的是基于例子而不是解释。更深入的解释，我建议从`R6`进入[这一页](https://r6.r-lib.org/)或从[高级 R](https://adv-r.hadley.nz)*
 查看[这一章](https://adv-r.hadley.nz/r6.html)
@@ -19,17 +19,17 @@
 
 ## 设计
 
-[![](../Images/b37e1e4b15653067eb104b8c9e94206f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9RCeETi0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/63wpxqcjz8u91xgqgodq.png)
+[![](img/b37e1e4b15653067eb104b8c9e94206f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9RCeETi0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/63wpxqcjz8u91xgqgodq.png)
 
 上面的草图显示了我们将创建为一个 [`R6`](https://r6.r-lib.org/) 对象的分形树的基本设计；让我们打开它。我们将有一条垂直线作为主干，以及一系列分支线，每次递归地长出两条。最后，每个子分支相对于其父分支具有相同的角度。
 
 让我们将草图转换成我们将要使用的对象结构。
 
-[![](../Images/90f1990ea8346fb42e6fe60b40a1b79c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MCYGBggF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qw65z8upq724737neg9e.png)
+[![](img/90f1990ea8346fb42e6fe60b40a1b79c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MCYGBggF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qw65z8upq724737neg9e.png)
 
 按照它的绘制方式，我们看到我们将对主干和分支使用两个独立的类。主干和分支有很多共同点，所以我们将使用由 [`R6`](https://r6.r-lib.org/) 实现的 OOP 继承概念。下面展示了我们将如何使用基类和继承来实现主干和分支类，以保持[干燥](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)。
 
-[![](../Images/909c9fab94a56f5be1030b0fb133f540.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RUkzmWAs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xs4lqtibqcy91cz6y6qd.png)
+[![](img/909c9fab94a56f5be1030b0fb133f540.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RUkzmWAs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xs4lqtibqcy91cz6y6qd.png)
 
 ## 实现
 
@@ -100,22 +100,22 @@ private  =  list(  grow_branches  =  function(start_x,  start_y,  len  =  1,  an
 # Create & plot R6 tree object  tree  =  fractal_tree$new()  tree$plot() 
 ```
 
-[![](../Images/e6538240710637b0c1a58d332b5bbef3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JbpijL9I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/87g7xyjhxn4bjicd55lj.png)
+[![](img/e6538240710637b0c1a58d332b5bbef3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JbpijL9I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/87g7xyjhxn4bjicd55lj.png)
 
 ```
 # Create & plot R6 tree object with new angle  tree  =  fractal_tree$new(delta_angle  =  pi  /  3)  tree$plot() 
 ```
 
-[![](../Images/8d8fb5e6d385a42dacdab25d77d392fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x49IcljB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hrylplz6gw0p7a0ejnjh.png)
+[![](img/8d8fb5e6d385a42dacdab25d77d392fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x49IcljB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hrylplz6gw0p7a0ejnjh.png)
 
 ```
 # Create & plot R6 tree object with new branch length decay  tree  =  fractal_tree$new(delta_angle  =  pi  /  2,  len_decay  =  0.6)  tree$plot() 
 ```
 
-[![](../Images/cf01f29e2622be76d5f2a83d746a3c35.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iSEE1Jvh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gutmbl6wqux9nue5ynfc.png)
+[![](img/cf01f29e2622be76d5f2a83d746a3c35.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iSEE1Jvh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gutmbl6wqux9nue5ynfc.png)
 
 ```
 # Create & plot R6 tree object with new color  tree  =  fractal_tree$new(trunk_color  =  'tan4',  branch_left_color  =  'tan3',  branch_right_color  =  'tan')  tree$plot() 
 ```
 
-[![](../Images/ecce581dc8772ec7ef82a8a35ed64625.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bR8hS8oQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h5ibn46rovfd26uov1ym.png)
+[![](img/ecce581dc8772ec7ef82a8a35ed64625.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bR8hS8oQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h5ibn46rovfd26uov1ym.png)

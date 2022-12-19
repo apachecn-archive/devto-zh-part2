@@ -14,7 +14,7 @@
 
 首先，我们必须了解集中式、分散式和分布式网络之间的区别。
 
-[![Types of network](../Images/412129a5a98f9dc92b6e6e069439823d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ukKGXJ84--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3j5566preu197bkqrpd9.jpg)
+[![Types of network](img/412129a5a98f9dc92b6e6e069439823d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ukKGXJ84--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3j5566preu197bkqrpd9.jpg)
 
 如您所见，在集中式网络中，我们只有一个中心点，所有对等点都将数据发送到该中心点。这就是传统的客户机-服务器今天的工作方式，其中的中心点是服务器，它拥有所有的数据权限。
 
@@ -30,7 +30,7 @@
 
 假设发送方想要向接收方发送 1 个比特币。这是将要发生的事情:
 
-[![Bitcoin Lifecycle](../Images/a81fc7a31c9a999b3bf4254da6f9c5fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--abzsCVrI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ja33jqi5qtc3z2i76370.png)
+[![Bitcoin Lifecycle](img/a81fc7a31c9a999b3bf4254da6f9c5fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--abzsCVrI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ja33jqi5qtc3z2i76370.png)
 
 1.  发送方创建交易。
 2.  发送者的比特币钱包验证交易。

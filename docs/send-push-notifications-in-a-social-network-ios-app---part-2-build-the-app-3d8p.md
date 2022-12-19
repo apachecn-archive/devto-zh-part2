@@ -8,7 +8,7 @@
 
 在这一部分，我们将从我们停下的地方继续。我们将使用 Swift 创建 iOS 应用程序，然后将推送通知集成到该应用程序中，这样我们就可以在发送通知时收到通知。
 
-[![](../Images/5c4aa46878dfc816c27776a70dc3264f.png)T2】](//images.ctfassets.net/1es3ne0caaid/51GgQzYiqQEMAQWOK8AMgS/fd0d5bb1bbaa7f1f198fed340d25cd53/ios-push-notifications-social-network-demo.gif)
+[![](img/5c4aa46878dfc816c27776a70dc3264f.png)T2】](//images.ctfassets.net/1es3ne0caaid/51GgQzYiqQEMAQWOK8AMgS/fd0d5bb1bbaa7f1f198fed340d25cd53/ios-push-notifications-social-network-demo.gif)
 
 ## 先决条件
 
@@ -262,7 +262,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在`SettingsTableViewController`中，我们从`SettingsService`类中加载设置，我们将在后面创建这个类。然后我们定义一个`shouldCheckCell`方法，它将通过检查用户设置来决定是否应该检查单元格行。
 
-[![](../Images/3c9cac9770fd7d3d6411575847abce11.png)T2】](//images.ctfassets.net/1es3ne0caaid/4TH2I2tOQ82eAIcueuEoqC/4597c23c2705aaf92044a0dc69a08c70/ios-push-notifications-social-network-settings.png)
+[![](img/3c9cac9770fd7d3d6411575847abce11.png)T2】](//images.ctfassets.net/1es3ne0caaid/4TH2I2tOQ82eAIcueuEoqC/4597c23c2705aaf92044a0dc69a08c70/ios-push-notifications-social-network-settings.png)
 
 从故事板场景中可以看到，评论通知部分有三种可能的设置:关闭的**、关注**的**和所有人**的**。当设置改变时，设置控制器尝试使用`SettingsService`本地和远程更新设置。**
 
@@ -735,7 +735,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在项目导航器中，选择您的项目，并点击 **Capabilities** 选项卡。[打开开关，启用推送通知](http://help.apple.com/xcode/mac/current/#/devdfd3d04a1)。
 
-[![](../Images/ea3c51585520982eb32e6d56e0f1b74f.png)T2】](//images.ctfassets.net/1es3ne0caaid/nwh9O0inWCAwwsi82iq4o/efa381b5ae180d746608e151f4559f0e/ios-push-notifications-social-network-enable-push-notifications.png)
+[![](img/ea3c51585520982eb32e6d56e0f1b74f.png)T2】](//images.ctfassets.net/1es3ne0caaid/nwh9O0inWCAwwsi82iq4o/efa381b5ae180d746608e151f4559f0e/ios-push-notifications-social-network-enable-push-notifications.png)
 
 这将在项目的根目录下创建一个授权文件。至此，您已经为您的应用程序提供了完全接收推送通知的能力。
 
@@ -816,13 +816,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果你打算使用本地服务器测试应用程序的后端，那么我们还需要做最后一件事。打开`info.plist`文件并向`plist`文件添加一个条目，以允许连接到我们的本地服务器:
 
-[![](../Images/4411e4b820004ee90ad7d74e4066ffe9.png)T2】](//images.ctfassets.net/1es3ne0caaid/5UymGAiLeg22C46SEyay4U/0f66ae00ca879dc03852ece398c955f9/ios-push-notifications-social-network-connect-locally.png)
+[![](img/4411e4b820004ee90ad7d74e4066ffe9.png)T2】](//images.ctfassets.net/1es3ne0caaid/5UymGAiLeg22C46SEyay4U/0f66ae00ca879dc03852ece398c955f9/ios-push-notifications-social-network-connect-locally.png)
 
 现在就这样了。我们可以运行我们的应用程序。然而，**请记住，要演示推送通知，您需要一个实际的 iOS 设备，因为模拟器无法接收推送通知。**
 
 下面是应用程序运行的屏幕记录:
 
-[![](../Images/5c4aa46878dfc816c27776a70dc3264f.png)T2】](//images.ctfassets.net/1es3ne0caaid/51GgQzYiqQEMAQWOK8AMgS/fd0d5bb1bbaa7f1f198fed340d25cd53/ios-push-notifications-social-network-demo.gif)
+[![](img/5c4aa46878dfc816c27776a70dc3264f.png)T2】](//images.ctfassets.net/1es3ne0caaid/51GgQzYiqQEMAQWOK8AMgS/fd0d5bb1bbaa7f1f198fed340d25cd53/ios-push-notifications-social-network-demo.gif)
 
 ## 结论
 

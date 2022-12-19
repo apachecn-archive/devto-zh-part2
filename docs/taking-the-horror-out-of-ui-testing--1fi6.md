@@ -53,7 +53,7 @@ I.click("Github - segmentio/nightmare")
 
  **我们在软件架构上有很多不同意见，并且经常争论可维护的代码是什么样子，但是有一点我们是一致的，那就是问题不在于被破坏的测试。**我们只是有很破的 UI 测试工具**。有人需要修理它。这就是我们过去两年致力于的工作:
 
-[![Testing DuckDuckGo](../Images/2b280ddd7c17f4bb0f33fbfe558f099b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r63YN5E3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ggw3s02vif0pk2z7qg30.gif)
+[![Testing DuckDuckGo](img/2b280ddd7c17f4bb0f33fbfe558f099b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r63YN5E3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ggw3s02vif0pk2z7qg30.gif)
 
 小菜一碟。
 
@@ -77,7 +77,7 @@ I.see("The hardworking team behind dev.to ") // mmhm, very hardworking indeed.
 
 测试从 UI 的实现中分离出来的好处是，我们可以很容易地重用同一个测试来测试响应式设计。让我们看看搜索在桌面和移动视图上是否如预期的那样工作。
 
-[![Testing search on dev.to](../Images/b8c6c334d977a99f76d6c7c9e25a2802.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bcli3NTo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/95u22qzfzduklrn99zsb.gif)
+[![Testing search on dev.to](img/b8c6c334d977a99f76d6c7c9e25a2802.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bcli3NTo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/95u22qzfzduklrn99zsb.gif)
 
 现在，让我们试着点击 DEV.to 的 logo 返回主页。UI-licious 扫描使用`title`设置的可访问性属性和工具提示，以及各种流行框架使用的其他类似属性。我们家的 logo 有什么可以用的吗？
 
@@ -94,7 +94,7 @@ I.amAt("https://dev.to/")
 
 我们开始吧:
 
-[![Clicking on logo using ARIA-labels](../Images/9d880a2369e7cc6e85b382c35c8f180c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_ZStAJgi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i37xe7c6ljv7h62g5j2x.png)
+[![Clicking on logo using ARIA-labels](img/9d880a2369e7cc6e85b382c35c8f180c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_ZStAJgi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i37xe7c6ljv7h62g5j2x.png)
 
 好吧，让我们发挥创意，在开发商店买点东西。我要拿一百个贴纸包和开发包。
 
@@ -114,7 +114,7 @@ shopping_list.forEach((item) => {
 }) 
 ```
 
-[![Shopping on DEV.to](../Images/ccd863810d1811898fb2b4bbd7010723.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RDYFos8N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fun5vv0au3k19zaccgol.gif)
+[![Shopping on DEV.to](img/ccd863810d1811898fb2b4bbd7010723.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RDYFos8N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fun5vv0au3k19zaccgol.gif)
 
 好的...快好了。不，等等，我们再拿几包。嗯（表示踌躇等）...购物车中有几行商品，我们需要选择正确的数量框来更新。没关系，我只需要在更新数量之前，具体告诉 UI-licious 什么。
 
@@ -125,11 +125,11 @@ I.fill("Quantity", 120) // UI-licious will pick the quantity box for "Dev Tote" 
 I.pressEnter() 
 ```
 
-[![Resolving similarities](../Images/714a1f934326ff6e5bf4d7ef8cf9e89e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2Q0z2jOK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/51khr52csal5cpkojp1m.gif)
+[![Resolving similarities](img/714a1f934326ff6e5bf4d7ef8cf9e89e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2Q0z2jOK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/51khr52csal5cpkojp1m.gif)
 
 最重要的是，让我们做一些测试，只是为了确保 UI-licious 本身的工作。
 
-[![Eating our own dogfood](../Images/5076dac8670523ce8119abe9d7ce5cc2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0HN6q09f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c6f4abcajsoojek7tnbo.png)
+[![Eating our own dogfood](img/5076dac8670523ce8119abe9d7ce5cc2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0HN6q09f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c6f4abcajsoojek7tnbo.png)
 
 是的宝贝。小菜一碟。😎
 
@@ -147,7 +147,7 @@ UI-licious 的工作原理是在方法上逆向工程意图(你所说的从你�
 
 我认为得到 bug 报告最烦人的部分是当它们不完整的时候，我需要追着报告者去寻找复制 bug 的步骤。与此同时，老实说，我也懒得报告错误。这就是为什么我们试图让 bug 复制报告变得完整和可操作(并且漂亮！)尽可能。👇
 
-[![Awesome bug replication reports](../Images/00dc355ec3535ac70af5eb4db7d8f77f.png)T2】](https://snippet.uilicious.com/test/public/1f9qgLPBa5EC4ryZbnnAoB)
+[![Awesome bug replication reports](img/00dc355ec3535ac70af5eb4db7d8f77f.png)T2】](https://snippet.uilicious.com/test/public/1f9qgLPBa5EC4ryZbnnAoB)
 
 # 什么时候应该自动化 UI 测试？
 
@@ -155,7 +155,7 @@ UI-licious 的工作原理是在方法上逆向工程意图(你所说的从你�
 
 此外👇
 
-[![klamping image](../Images/32840fcf944cf815a25ee8ab11b1608f.png)](/klamping) [## 停下来。不要测试那个！
+[![klamping image](img/32840fcf944cf815a25ee8ab11b1608f.png)](/klamping) [## 停下来。不要测试那个！
 
 ### 凯文夹紧
 
@@ -171,7 +171,7 @@ UI-licious 的工作原理是在方法上逆向工程意图(你所说的从你�
 
 是的。这不是谎言，我们无论去哪里都有蛋糕。
 
-> ![unknown tweet media content](../Images/242693ad43a5105e6c5eb281da798732.png)![UI-licious profile image](../Images/dc9f89ffa9c507d813a0bdfcc7f3843a.png)UI-licious@ UI _ licious![twitter logo](../Images/65e26e35707d96169ec8af6b3cbf2003.png)休息时间 [@fossasia](https://twitter.com/fossasia) ！吃点吧🍰和☕在展览馆。2018 年 3 月 24 日上午 04:01[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=977394981714325504)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=977394981714325504)0[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=977394981714325504)2
+> ![unknown tweet media content](img/242693ad43a5105e6c5eb281da798732.png)![UI-licious profile image](img/dc9f89ffa9c507d813a0bdfcc7f3843a.png)UI-licious@ UI _ licious![twitter logo](img/65e26e35707d96169ec8af6b3cbf2003.png)休息时间 [@fossasia](https://twitter.com/fossasia) ！吃点吧🍰和☕在展览馆。2018 年 3 月 24 日上午 04:01[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=977394981714325504)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=977394981714325504)0[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=977394981714325504)2
 
 万圣节快乐！
 👻👻👻

@@ -12,7 +12,7 @@
 
 如果你的 app 是圣盔谷(Helm's Deep)，那么冒充用户就像是加了一个小的不设防的涵洞，绕过了主要防御工事。你应该期待 works…并添加适当的防御。
 
-[![Helmsdeep](../Images/e49631180294025d4844d870677cbf56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Fv4omErx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://jamie.ideasasylum.com/images/helmsdeep.gif)
+[![Helmsdeep](img/e49631180294025d4844d870677cbf56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Fv4omErx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://jamie.ideasasylum.cimg/helmsdeep.gif)
 
 还不怕？哦，也许你听说过脸书？是的，你即将愉快地实现的这个功能[昨天导致了 9000 万个受损账户](https://www.theregister.co.uk/2018/09/28/facebook_accounts_hacked_bug/)。
 
@@ -39,7 +39,7 @@
 
 这可能不是每个应用程序都需要的，但是如果你正在处理敏感或财务数据，你可能需要在查看他们的帐户之前征得用户的同意。我见过 FreeAgent 将此实现为在用户设置中可见的特殊代码，必须直接提供给支持人员
 
-[![FreeAgent support access code](../Images/8ee1456b0ee73133d372e34585f9b92a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DJdUjSml--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jamie.ideasasylum.com/images/freeagent-support-access.png)
+[![FreeAgent support access code](img/8ee1456b0ee73133d372e34585f9b92a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DJdUjSml--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jamie.ideasasylum.cimg/freeagent-support-access.png)
 
 用户还可以选择加入/退出，允许支持人员访问他们的帐户。
 
@@ -55,7 +55,7 @@
 
 首先，我认为拥有独立的`Admin`和`User`模型很重要，这是避免特权提升攻击的最简单方法
 
-[![You can't escalate a privilege if there's nothing to escalate](../Images/c3e70a76b2753bad805005a0af92ecd9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6smXkhbi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jamie.ideasasylum.com/images/you-can-t-escalate-privilege.jpg)
+[![You can't escalate a privilege if there's nothing to escalate](img/c3e70a76b2753bad805005a0af92ecd9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6smXkhbi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jamie.ideasasylum.cimg/you-can-t-escalate-privilege.jpg)
 
 接下来，我们应该确保它真的是一个模拟用户的管理员。但是我们不是应该检查他们是以管理员身份登录的吗？
 
@@ -75,7 +75,7 @@
 
 在一个应用程序中，我添加了一个大/突出的幽灵👻修正了点击时会结束会话的左上角问题。这是一个有趣但重要的功能。顶部的横幅也同样有效
 
-[![Impersonating a user in Podia](../Images/b4430e9a3e18fc183302872cd12aa719.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AJi6XzSU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jamie.ideasasylum.com/images/podia-impersonation.png)
+[![Impersonating a user in Podia](img/b4430e9a3e18fc183302872cd12aa719.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AJi6XzSU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jamie.ideasasylum.cimg/podia-impersonation.png)
 
 ## 需要避免哪些无意的影响？
 

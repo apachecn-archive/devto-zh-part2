@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/couellet/5-key-google-analytics-reports-for-clients-real-examples-4kke>
 
-[![Google Analytics Reports for Clients (Examples & Tools)](../Images/249c2eb3fbbabf4fa33b0d0433dbd67c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rMGAiaFD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203917/google-analytics-reports-clients-1.jpg)
+[![Google Analytics Reports for Clients (Examples & Tools)](img/249c2eb3fbbabf4fa33b0d0433dbd67c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rMGAiaFD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/203917/google-analytics-reports-clients-1.jpg)
 
 谷歌分析可能会势不可挡。
 

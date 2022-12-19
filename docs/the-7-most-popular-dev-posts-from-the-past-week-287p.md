@@ -12,7 +12,7 @@
 
 为任何考虑新操作系统的人准备的 linux 发行版的总结文章/指南/表格。
 
-[![rapidnerd](../Images/c3aa4134eea74a2fb97ebb3e00155b4d.png)](/rapidnerd) [## 选择 Linux 发行版
+[![rapidnerd](img/c3aa4134eea74a2fb97ebb3e00155b4d.png)](/rapidnerd) [## 选择 Linux 发行版
 
 ### 乔治马尔 17 年 8 月 18 日 12 分钟阅读
 
@@ -34,7 +34,7 @@
 
 如果你每次需要正则表达式时都充满恐惧，这个库可能会帮助你。
 
-[![bachnxhedspi](../Images/354bcffc49eb4204945f8104fa31178b.png)](/bachnxhedspi) [## 正则表达式变得简单
+[![bachnxhedspi](img/354bcffc49eb4204945f8104fa31178b.png)](/bachnxhedspi) [## 正则表达式变得简单
 
 ### 费利克斯 Aug 15 ' 18 分钟读数
 
@@ -50,7 +50,7 @@
 
 Sam 向我们展示了如何从 PWA 创建 chrome 扩展。这可能意味着像把你的站点放入 iFrame 中并结束它一样简单。
 
-[![Google Web Dev](../Images/323a07e8388635cdd16eee633331c0d8.png)![](../Images/19a400de1fe295bf261bece407507a1a.png)](/chromiumdev) [## 将 pwa 作为 Chrome 扩展进行运输
+[![Google Web Dev](img/323a07e8388635cdd16eee633331c0d8.png)![](img/19a400de1fe295bf261bece407507a1a.png)](/chromiumdev) [## 将 pwa 作为 Chrome 扩展进行运输
 
 ### Sam Thorogood for Google Web Dev 2018 年 8 月 18 日 4 分钟阅读
 

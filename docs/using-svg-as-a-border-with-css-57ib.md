@@ -6,7 +6,7 @@
 
 这是我们将要切割成边框的图像:
 
-[![Heres Our Fancy Border](../Images/211b50d2b9efd3c21f521d4d3bcc7cb2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--isLBn9ec--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://harnerdesigns.com/wp-content/uploads/2018/08/border.svg)
+[![Heres Our Fancy Border](img/211b50d2b9efd3c21f521d4d3bcc7cb2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--isLBn9ec--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://harnerdesigns.com/wp-content/uploads/2018/08/border.svg)
 
 如果您正在跟进，请在此下载它。
 
@@ -44,7 +44,7 @@ border-image-slice: 0 40 0;
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Slicing the image](../Images/208c5c940b4ce14ffc5e189247c5bc6c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lVXlaeJ---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://harnerdesigns.com/wp-content/uploads/2018/08/Border-Image-Slice.png)
+[![Slicing the image](img/208c5c940b4ce14ffc5e189247c5bc6c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lVXlaeJ---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://harnerdesigns.com/wp-content/uploads/2018/08/Border-Image-Slice.png)
 
 所以，回到我们的例子，因为我们使用的图像是对称的，所以很容易切片:
 
@@ -65,7 +65,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 没有人希望他们的边界上有一条弯弯曲曲的线，但这就是我在学习边界图像时所做的工作。
 
-[![Back To School Chalkboard](../Images/d2373e3cceca4bc5f7b37d199ed045b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iJRpA6Vn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://harnerdesigns.com/wp-content/uploads/2018/08/back-to-school-chalkboard.png)
+[![Back To School Chalkboard](img/d2373e3cceca4bc5f7b37d199ed045b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iJRpA6Vn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://harnerdesigns.com/wp-content/uploads/2018/08/back-to-school-chalkboard.png)
 
 框架和粉笔是构成边界的 SVG 图像的一部分。这使得容器保持黑板的外观，不管里面的内容是什么样的布局或大小。
 

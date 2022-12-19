@@ -14,11 +14,11 @@ Node 让这一切成为可能。这是一个简单但不简单的运行时，给
 
 为什么要关心另一个运行时呢？嗯，对我来说，这一切都是从我看到 Techempower 基准测试并注意到与普遍认为的相反，JavaScript 并不是真的超级快！(我相信是超高产的，但是速度很值得商榷)。当然，基准测试应该有所保留，这一次非常有趣，因为它比较了不同语言和运行时的大约 300 个不同的框架。
 
-[![techempower](../Images/7c6514521e75171843e57cdb56bc7990.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F6xtZHY---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lp2po9c2odbj0la0wzkw.png)
+[![techempower](img/7c6514521e75171843e57cdb56bc7990.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F6xtZHY---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lp2po9c2odbj0la0wzkw.png)
 
 令我绝望的是，`nodejs`的最好成绩排在第 52 位，所以我决定看看我们能做些什么来改善这一点。查看基准源代码并没有多大帮助，因为没有明显的性能瓶颈，所以我决定看看盒子之外的 / `V8`。
 
-[![graaljs-performance](../Images/ec00e77667d69973dd565d89a9ee83b9.png)T2】](https://www.slideshare.net/ThomasWuerthinger/jazoon2014-slides)
+[![graaljs-performance](img/ec00e77667d69973dd565d89a9ee83b9.png)T2】](https://www.slideshare.net/ThomasWuerthinger/jazoon2014-slides)
 
 因此，乍一看，`GraalJS`似乎并没有给我们带来太多的改进，只是在这里或那里取得了一些胜利，但是另一方面，Techempower 基准测试表明，从长远来看，JVM 上的作业往往是最快的。
 
@@ -49,12 +49,12 @@ Enter fullscreen mode Exit fullscreen mode
 
 对我来说，这看起来非常友好，所以我已经实施了基准测试，并通过了社区审查和合并到主分支的过程。当这一切发生时，令人惊奇的事情出现了:
 
-[![bench-db](../Images/93d18a18d3f5ba5a7cec85d36d443574.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bMZYT8cW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/avcuo8l2emaly6mu57e5.png)
+[![bench-db](img/93d18a18d3f5ba5a7cec85d36d443574.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bMZYT8cW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/avcuo8l2emaly6mu57e5.png)
 
 `JavaScript`和`Vert.x`不仅仅是**快**，而且是迄今为止与`nodejs`(或`Spring Framework`作为 Java 中最常用框架的参考)相比**最快的**，甚至比使用相同依赖项`vert.x`和`vertx-web`的基准测试的纯`Java`对手还要快。
 
 事实上，结果是惊人的，因为它将`JavaScript`列为基准测试中最快的 **#2** 语言:
 
-[![es4x-fastest](../Images/b95bd5a4ecddfe53095a0c719a4bb818.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZqoSb9vE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h5s3h0le6t4urhbsokqz.png)
+[![es4x-fastest](img/b95bd5a4ecddfe53095a0c719a4bb818.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZqoSb9vE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h5s3h0le6t4urhbsokqz.png)
 
 所以下次你需要编写高性能的 JavaScript 服务器代码时，看看 [ES4X](https://github.com/reactiverse/es4x) ，或者加入这个项目，让它变得更好！！！

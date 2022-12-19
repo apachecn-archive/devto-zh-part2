@@ -6,7 +6,7 @@
 
 *更新了代码样本以支持[工作流@ 2 . x](https://github.com/havardh/workflow/commit/ca77860)T3。*
 
-[![spotify code sample](../Images/a696d3357610a01c69c41854ab4adfd2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x3luI2Iv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lbgcph0q626fo28jh388.png)
+[![spotify code sample](img/a696d3357610a01c69c41854ab4adfd2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x3luI2Iv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lbgcph0q626fo28jh388.png)
 
 这篇文章将通过一个支持 Spotify 的扩展工作流的实际例子来指导你。工作流是跨平台的，不同平台的实现是不同的。如果你需要让一个 app 在某个特定的平台上运行，其他平台可以跳过。这篇文章将展示如何为`osx`和`i3`编写应用程序。
 

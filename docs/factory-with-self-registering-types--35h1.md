@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/fenbf/factory-with-self-registering-types--35h1>
 
-[![Factory with self registering types](../Images/840329b6917675aac5540da6db85769f.png)T2】](http://www.bfilipek.com/2018/02/factory-selfregister.html)
+[![Factory with self registering types](img/840329b6917675aac5540da6db85769f.png)T2】](http://www.bfilipek.com/2018/02/factory-selfregister.html)
 
 编写工厂方法可能很简单:
 

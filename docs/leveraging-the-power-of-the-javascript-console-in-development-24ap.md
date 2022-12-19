@@ -51,7 +51,7 @@ javascript 控制台是内置的，可以通过以下浏览器中的键盘快捷
 
 你应该有一个这样的界面，很可能停靠在底部
 
-[![](../Images/637f5613ae9cd6f34bbcc6e156e5424d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p7mFpZVM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.scotch.io/57596/AX9TO2AQUOQq7t4mlGdq_console.png)
+[![](img/637f5613ae9cd6f34bbcc6e156e5424d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p7mFpZVM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.scotch.io/57596/AX9TO2AQUOQq7t4mlGdq_console.png)
 
 ## 探索控制台 API
 
@@ -69,7 +69,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 **这会将相应的消息打印到控制台，如下所示:**
 
-[![](../Images/dc6e8f4b6855584cdd745cdc705eae4c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9dPc0uhJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.scotch.io/57596/LsLFpdZTG2tampKsSEFe_consoledotlog.png) 
+[![](img/dc6e8f4b6855584cdd745cdc705eae4c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9dPc0uhJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.scotch.io/57596/LsLFpdZTG2tampKsSEFe_consoledotlog.png) 
 这个类似于**的 console.debug()** 。
 
 ### 控制台
@@ -92,7 +92,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在有许多日志组的情况下，调用 console.groupCollapsed 而不是 console.group。这将以折叠的默认模式显示组。
 
-**输出应该是这样的** [![](../Images/a531a4abf64a94d164a8730fd73dd023.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Uwvt6Gb9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.scotch.io/57596/SJwmdadwRJevQzXizryd_consoledotgroup.png)
+**输出应该是这样的** [![](img/a531a4abf64a94d164a8730fd73dd023.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Uwvt6Gb9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.scotch.io/57596/SJwmdadwRJevQzXizryd_consoledotgroup.png)
 
 ### 控制台. trace
 
@@ -113,7 +113,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-**输出:** [![](../Images/6e56be4e09913eae9c161fedd44ef523.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lhSN5zIq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.scotch.io/57596/CZBgP7uaRMiKDRstst9Q_consoledottable.png)
+**输出:** [![](img/6e56be4e09913eae9c161fedd44ef523.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lhSN5zIq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.scotch.io/57596/CZBgP7uaRMiKDRstst9Q_consoledottable.png)
 
 ### 控制台.错误
 
@@ -141,7 +141,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 **输出:**
 
-[![](../Images/7e5d64d8b11509125746421d32d7651c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NAZHQuic--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.scotch.io/57596/UyPB0ArLRKagyZeY7CGn_consoledotcount.png)
+[![](img/7e5d64d8b11509125746421d32d7651c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NAZHQuic--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.scotch.io/57596/UyPB0ArLRKagyZeY7CGn_consoledotcount.png)
 
 ### 控制台.时间和控制台.时间结束
 
@@ -185,7 +185,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-**输出:** [![](../Images/81a98b29d395c3554606be20499cb57f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4L378bG6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.scotch.io/57596/yxhQeMeTQ8yp7cTJgQL7_consoledotassert.png)
+**输出:** [![](img/81a98b29d395c3554606be20499cb57f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4L378bG6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.scotch.io/57596/yxhQeMeTQ8yp7cTJgQL7_consoledotassert.png)
 
 ## 用控制台进行的常见操作
 

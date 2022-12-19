@@ -8,4 +8,4 @@
 
 [读于](https://auth0.com/blog/introducing-fusebox-an-alternative-to-webpack/?utm_source=dev&utm_medium=sc&utm_campaign=introducing_fusebox)
 
-[![Introducing FuseBox, an alternative to Webpack](../Images/ec4d8f1382db8d6ba7bbe2afb3d5036a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xHdzAs0r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f7h9724gb0gnv99ood12.png)
+[![Introducing FuseBox, an alternative to Webpack](img/ec4d8f1382db8d6ba7bbe2afb3d5036a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xHdzAs0r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f7h9724gb0gnv99ood12.png)

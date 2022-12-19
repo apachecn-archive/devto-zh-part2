@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/paigen11/how-i-earned-a-full-time-software-engineer-offer-in-6-months-49a>
 
-[![overhead view of a person working on a computer](../Images/45115a279867d32455bc13290e32e8d6.png "overhead view of a person working on a computer")T2】](///static/a48ddabf122ca4631678b4da33e08f10/29d31/overhead-work.jpg)
+[![overhead view of a person working on a computer](img/45115a279867d32455bc13290e32e8d6.png "overhead view of a person working on a computer")T2】](///static/a48ddabf122ca4631678b4da33e08f10/29d31/overhead-work.jpg)
 
 ## 从为期 4 个月的编码训练营毕业后，我知道艰苦的工作才刚刚开始。
 
@@ -20,7 +20,7 @@
 
 > 不断设定新的目标来帮助你前进——不断追求更高的目标。
 
-[![hiker looking out over many mountains yet to climb](../Images/0dc312688a4f608c6f4a3e7f57b1088f.png "hiker looking out over many mountains yet to climb")T2】](///static/75568a0a54e7633e66a9ff421b7a5276/29d31/more-mountains.jpg)
+[![hiker looking out over many mountains yet to climb](img/0dc312688a4f608c6f4a3e7f57b1088f.png "hiker looking out over many mountains yet to climb")T2】](///static/75568a0a54e7633e66a9ff421b7a5276/29d31/more-mountains.jpg)
 
 这个视图是我的新目标(软件工程师)，在那之后，也许远处的那座山，代表着我的下一个目标:高级软件工程师。
 
@@ -38,7 +38,7 @@
 
 他是对的，尽管我不断地被新的材料、新的做事方式和学习全新的编程语言(Java)所淹没，但我需要尽我所能快速跟上速度，并证明我可以增加价值，值得被聘用为合伙人。
 
-[![lone lamp on next to an open laptop late at night](../Images/5ba3640fcf56ef8e6395df2932ac510c.png "lone lamp on next to an open laptop late at night")T2】](///static/d31157e3ecb57053f2bb610806e34a00/29d31/late-nights.jpg)
+[![lone lamp on next to an open laptop late at night](img/5ba3640fcf56ef8e6395df2932ac510c.png "lone lamp on next to an open laptop late at night")T2】](///static/d31157e3ecb57053f2bb610806e34a00/29d31/late-nights.jpg)
 
 我从未在办公室呆到这么晚，但有很多个夜晚，我都是最后一个到达办公室的人。实际上，我有点喜欢这种宁静——这样更容易集中注意力。
 
@@ -64,7 +64,7 @@
 *   了解在对生产问题进行故障排除时要查询哪些数据库表，或者
 *   在 Pivotal Cloud Foundry 应用程序中准备好如何提高日志记录级别的命令，以便更好地了解网络调用失败的原因。
 
-[![taking notes in a notepad at a coffee shop](../Images/6b7713a008f8944f71e6f3b9439831c9.png "taking notes in a notepad at a coffee shop")T2】](///static/f6b18f42aaef5a220e1ab93dd0ac1ef8/29d31/taking-written-notes.jpg)
+[![taking notes in a notepad at a coffee shop](img/6b7713a008f8944f71e6f3b9439831c9.png "taking notes in a notepad at a coffee shop")T2】](///static/f6b18f42aaef5a220e1ab93dd0ac1ef8/29d31/taking-written-notes.jpg)
 
 不开玩笑，我(和我的大多数同事)都有笔记本和数字记事本，用来记录将来会派上用场的东西。试试看，你会惊讶于你可能会引用它。
 
@@ -90,7 +90,7 @@
 
 整个家得宝 IT 部门的闲置渠道是活跃的，充满了乐于助人的聪明人，当我需要帮助时，我也可以向他们求助。
 
-[![taking notes in a notepad at a coffee shop](../Images/e0dffafab70dd4c9bbb13c3131fe6661.png "taking notes in a notepad at a coffee shop")T2】](///static/43b7d7f396a22e1152a8790445b4de7e/29d31/puzzle-pieces.jpg)
+[![taking notes in a notepad at a coffee shop](img/e0dffafab70dd4c9bbb13c3131fe6661.png "taking notes in a notepad at a coffee shop")T2】](///static/43b7d7f396a22e1152a8790445b4de7e/29d31/puzzle-pieces.jpg)
 
 我能接触到的资源帮助我把许多难题拼凑起来。
 
@@ -106,7 +106,7 @@
 
 好吧，我能做到。我不知道该怎么做，也没有听起来那么自信，但我已经准备好工作了。他给了我们规格，放了我们。回顾过去，我可以毫无羞愧地说，我花了六周的业余时间和周末工作，Pluralsight 视频教程参考和演练，文档参考，Google 和 StackOverflow 搜索，以及队友的鼓励和问题回答。当我现在回头看这段代码时，我畏缩了——它看起来很粗糙，但却很有效。
 
-[![a woman looking defeated in front of her laptop, head in hands](../Images/d8daa2a984c6ea33af76775861acea3a.png "a woman looking defeated in front of her laptop, head in hands")T2】](///static/ac86ec61c48815283f6760619f44520f/29d31/toss-the-laptop.jpg)
+[![a woman looking defeated in front of her laptop, head in hands](img/d8daa2a984c6ea33af76775861acea3a.png "a woman looking defeated in front of her laptop, head in hands")T2】](///static/ac86ec61c48815283f6760619f44520f/29d31/toss-the-laptop.jpg)
 
 是的，有时候我想把我的笔记本电脑扔出窗外，但是我没有。我坚持到底。
 
@@ -124,7 +124,7 @@
 
 最终，在我开始家得宝的合同工工作大约 5 个月后，我得到了一份全职工作，成为了一名软件工程师，这让我无比激动。
 
-[![a man with an elated smile and fists balled in success](../Images/35494a2da7bca239166aae10c4aa9ee4.png "a man with an elated smile and fists balled in success")T2】](///static/dd41bb4e36c168bea4ce3744bd65898e/29d31/relieved-success.jpg)
+[![a man with an elated smile and fists balled in success](img/35494a2da7bca239166aae10c4aa9ee4.png "a man with an elated smile and fists balled in success")T2】](///static/dd41bb4e36c168bea4ce3744bd65898e/29d31/relieved-success.jpg)
 
 这和我收到全职工作邀请时的喜悦和成就感非常接近。
 
@@ -146,7 +146,7 @@
 
 你能行的。
 
-[![pair of glasses resting on a desk in front of screens filled with code](../Images/84aa580fc6f32d03b3b2c27e19b54021.png "pair of glasses resting on a desk in front of screens filled with code")T2】](///static/9dd89a435e135ca847963ddb9b211259/29d31/glasses.jpg)
+[![pair of glasses resting on a desk in front of screens filled with code](img/84aa580fc6f32d03b3b2c27e19b54021.png "pair of glasses resting on a desk in front of screens filled with code")T2】](///static/9dd89a435e135ca847963ddb9b211259/29d31/glasses.jpg)
 
 过几周再来看看——我会写更多关于 JavaScript、React、IoT 或其他与 web 开发相关的东西。如果你想确保你不会错过我写的一篇文章，在这里注册我的时事通讯:[https://paigeniedringhaus.substack.com](https://paigeniedringhaus.substack.com)
 

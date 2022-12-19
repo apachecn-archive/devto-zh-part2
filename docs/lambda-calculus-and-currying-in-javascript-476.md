@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/gmlion/lambda-calculus-and-currying-in-javascript-476>
 
-[![](../Images/876a6e79edd7108fffbdb87a7b685fbb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--o4QpStdn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AuBMpTv6_RMVQzco9.) 
+[![](img/876a6e79edd7108fffbdb87a7b685fbb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--o4QpStdn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AuBMpTv6_RMVQzco9.) 
 
 <figcaption>照片由[阿列克斯·达尔伯格](https://unsplash.com/@aleksdahlberg?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)</figcaption>
 
@@ -10,7 +10,7 @@ Javascript 作为一种语言总是特别容易吸收函数式编程概念，这
 
 ### 一个论点统治所有人
 
-[![](../Images/37a6bb84d7945f3d39f63782d7ff6a87.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OgmOlLWX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AvBeGXtxusetZWFaD.) 
+[![](img/37a6bb84d7945f3d39f63782d7ff6a87.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OgmOlLWX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AvBeGXtxusetZWFaD.) 
 
 <figcaption>照片由[杰里米·帕金斯](https://unsplash.com/@jeremyperkins?utm_source=medium&utm_medium=referral)于 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)</figcaption>
 
@@ -58,7 +58,7 @@ lsum(2)(3)
 
 ### 什么是阿谀奉承？
 
-[![](../Images/518c63ff7660198918cc689c32100f6d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZbT-GFKn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AsSpc8mlxK316OHR8.) 
+[![](img/518c63ff7660198918cc689c32100f6d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZbT-GFKn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AsSpc8mlxK316OHR8.) 
 
 <figcaption>照片由[诺贝特·莱瓦伊西斯](https://unsplash.com/@levajsics?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)</figcaption>
 
@@ -74,7 +74,7 @@ var sum2 = lsum(2)
 
 ### 采用“保守”的方法
 
-[![](../Images/36310157a058d16d8257627501e834c1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--L9UMKXqK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A18ZoTvW0OCkeu2G6.) 
+[![](img/36310157a058d16d8257627501e834c1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--L9UMKXqK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A18ZoTvW0OCkeu2G6.) 
 
 <figcaption>照片由[猎杀者竞](https://unsplash.com/@huntersrace?utm_source=medium&utm_medium=referral)上[退](https://unsplash.com?utm_source=medium&utm_medium=referral)</figcaption>
 
@@ -120,7 +120,7 @@ var ten = sum3to(3,4)
 
 ### 采用“λ语义”的方法
 
-[![](../Images/121e4e27c67268c6d5e9b683cf3cde95.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EKljQOqw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ABg-TEb5Q_7WNbHHc.) 
+[![](img/121e4e27c67268c6d5e9b683cf3cde95.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EKljQOqw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2ABg-TEb5Q_7WNbHHc.) 
 
 <figcaption>照片由[李凯文](https://unsplash.com/@kevinglobal?utm_source=medium&utm_medium=referral)上 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)</figcaption>
 
@@ -238,7 +238,7 @@ let n = lsum(4)(5)
 
 ### 圆滚滚来
 
-[![](../Images/076f4a4bb57adbb986b7db20f6afe742.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DJyxKUCk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AWDFblDTlvY2D9kna.)
+[![](img/076f4a4bb57adbb986b7db20f6afe742.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DJyxKUCk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AWDFblDTlvY2D9kna.)
 
 <figcaption>[阿什利·巴兹](https://unsplash.com/@ashleybatz?utm_source=medium&utm_medium=referral)关于 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)</figcaption>
 

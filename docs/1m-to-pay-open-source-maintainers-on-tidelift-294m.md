@@ -48,4 +48,4 @@ TLDR:这很有意义，而且很有效。
 
 无论你是开源的专业团队建设者还是开源的创造者，我们都邀请你加入我们，推进这种双赢的方法，让开源变得更好——为了每个人。
 
-[![Pay the maintainers!](../Images/d9dbf89467c5841c83f5bc34265c288d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eaYkAfoH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6r4awr2avolctb1317l1.png)
+[![Pay the maintainers!](img/d9dbf89467c5841c83f5bc34265c288d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eaYkAfoH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6r4awr2avolctb1317l1.png)

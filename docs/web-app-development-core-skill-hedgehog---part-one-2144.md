@@ -79,7 +79,7 @@ docker run -it --rm -p 3000:3000 -v ${PWD}/public:/app/public -v ${PWD}/src:/app
 Enter fullscreen mode Exit fullscreen mode
 
 应用程序运行完毕后，您可以使用`http://localhost:3000`
-[![Starting up React](../Images/9e67e78d03ce508c2d3caeaadb7352e9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--B5RwCe5---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://booyaa.wtf/img/hedgehog-001-start.png) 打开网站
+[![Starting up React](img/9e67e78d03ce508c2d3caeaadb7352e9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--B5RwCe5---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://booyaa.wtf/img/hedgehog-001-start.png) 打开网站
 
 提示:如果你做过任何类型的 web 开发，你会注意到 port `3000`很流行。确保刷新与此地址相关的 cookies，以避免意外行为。
 
@@ -206,17 +206,17 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们可以通过抛出一个异常来编写一个失败的测试，这会导致测试立即失败！
 
-[![React Test Failing](../Images/acd02aeca3459820b5127eba3a77d6a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uB6A9ks9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://booyaa.wtf/img/hedgehog-002-test-fail.png)
+[![React Test Failing](img/acd02aeca3459820b5127eba3a77d6a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uB6A9ks9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://booyaa.wtf/img/hedgehog-002-test-fail.png)
 
-[![booyaa image](../Images/0856925e87024eeeb56184e23bf8ed45.png)](/booyaa) [## 在博客上写我的作业
+[![booyaa image](img/0856925e87024eeeb56184e23bf8ed45.png)](/booyaa) [## 在博客上写我的作业
 
 ### 标记 Sta Ana Sep 16 ' 181min read
 
-#study #learning #fullstack](/booyaa/blogging-my-homework-3ohf)[![booyaa image](../Images/0856925e87024eeeb56184e23bf8ed45.png)](/booyaa) [## 做一只刺猬-第二部分
+#study #learning #fullstack](/booyaa/blogging-my-homework-3ohf)[![booyaa image](img/0856925e87024eeeb56184e23bf8ed45.png)](/booyaa) [## 做一只刺猬-第二部分
 
 ### 标记 Sta Ana Sep 21 ' 186min read
 
-#learning #study #react #webappdev](/booyaa/web-app-development-core-skill-hedgehog---part-two-3p1i)[![booyaa image](../Images/0856925e87024eeeb56184e23bf8ed45.png)](/booyaa) [## 像狐狸一样狡猾
+#learning #study #react #webappdev](/booyaa/web-app-development-core-skill-hedgehog---part-two-3p1i)[![booyaa image](img/0856925e87024eeeb56184e23bf8ed45.png)](/booyaa) [## 像狐狸一样狡猾
 
 ### 标记 Sta Ana Sep 28 ' 184min read
 

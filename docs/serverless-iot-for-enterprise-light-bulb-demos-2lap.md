@@ -6,7 +6,7 @@
 
 几个月前，我收到了一个 [LB100](https://www.tp-link.com/us/products/details/cat-5609_LB100.html) “智能 Wi-Fi LED 灯泡”作为扬声器礼物。开箱即用，它有很大的 Alexa 集成。虽然听起来很蹩脚，但走进我的办公室，说一句“电脑，开着办公室灯”，每天都是一种小小的刺激。是的，我用这个人的声音说:
 
-[![I'm like Picard, but with more hair.](../Images/abaf7a69800c51df20efa209c6c5fac3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GMnfW_PA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/04/makeitso.jpg)
+[![I'm like Picard, but with more hair.](img/abaf7a69800c51df20efa209c6c5fac3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GMnfW_PA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/04/makeitso.jpg)
 
 虽然 Alexa 集成很好，但我很好奇是否有适合该设备的 API。虽然似乎没有官方的、有文档记录的 API(在我看来是对它的一个打击)，但我发现了不止一个，而是两个 npm 包:
 
@@ -85,7 +85,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 伙计们，这就是为什么我不能通过谷歌面试！我的版本几乎准备好了，除了我必须打开一个端口。是的，我在我的网络上打开了一个端口。
 
-[![OMG](../Images/81baff226efb258dfd5fcbd3685e74fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XcjWtPbt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/04/jb.jpg)
+[![OMG](img/81baff226efb258dfd5fcbd3685e74fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XcjWtPbt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/04/jb.jpg)
 
 信不信由你，这实际上是如此的戏剧性，因为我不得不为他们的路由器找出端口和苹果的笨重接口。
 
@@ -93,6 +93,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 我试着拍了一段视频，但是虽然它在现实生活中看起来非常好，但视频并没有很好地表现它。因此我用它制作了一个非常恐怖的动画 gif:
 
-[![OMG](../Images/a9d1fe0f3a0a3b3add4f5310e380a814.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sTRbuOEi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://static.raymondcamden.com/images/2018/04/badvid.gif)
+[![OMG](img/a9d1fe0f3a0a3b3add4f5310e380a814.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sTRbuOEi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://static.raymondcamden.cimg/2018/04/badvid.gif)
 
 我为此道歉。

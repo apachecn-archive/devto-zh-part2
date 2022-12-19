@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/intricatecloud/4-things-i-look-for-in-a-senior-devops-engineer-1p2o>
 
-[![](../Images/837f51828c8d1408878c14c89c8dcadb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ApLnpO_p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/640/0%2AVPbckPedvtlo0dQ8.jpeg)
+[![](img/837f51828c8d1408878c14c89c8dcadb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ApLnpO_p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/640/0%2AVPbckPedvtlo0dQ8.jpeg)
 
 作为我上一篇帖子的后续，关于我在招聘初级 DevOps 工程师时寻找的东西——这些是我在高级工程师身上寻找的东西。这一切都归结于我认为 DevOps 的核心——帮助工程团队快速、安全地将他们的应用交付给生产。
 

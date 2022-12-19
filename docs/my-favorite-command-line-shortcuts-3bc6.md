@@ -4,7 +4,7 @@
 
 我每天都用贝壳。几乎总是，我想重复一个以前的命令，或者稍微修改后再重复一次。一个非常方便的方法是使用 arrow-up 来获取最近的命令。另一个常见的技巧是键入 ctrl-r 并逐步搜索以前使用过的命令。然而，还有两个我一直在使用的重复前面命令的技巧，它们并不广为人知。
 
-[![](../Images/5b1ce174a8e8a3562704aa746e6aa9d7.png)T2】](https://henrikwarne1.files.wordpress.com/2018/08/dsc_7973.jpg)
+[![](img/5b1ce174a8e8a3562704aa746e6aa9d7.png)T2】](https://henrikwarne1.files.wordpress.com/2018/08/dsc_7973.jpg)
 
 ### Escape-Dot(或者！$)
 

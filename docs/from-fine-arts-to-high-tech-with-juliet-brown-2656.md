@@ -4,7 +4,7 @@
 
 这是我的“开发聊天”系列中的一篇文章，在这篇文章中，我大约每周都会与一位出色的开发人员或技术人员交谈。你可以在这里阅读更多。如果你觉得这些对你有用，请在评论中告诉我！
 
-[![Juliet Brown. BFA then EDA.](../Images/95f2c0b051b65d860a19562a0adb21e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LuvF-AsC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5a812bd6e4966bd4a44fd0a0/1518414814832/juliet-profile-photo.jpg%3Fformat%3D1000w)
+[![Juliet Brown. BFA then EDA.](img/95f2c0b051b65d860a19562a0adb21e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LuvF-AsC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5a812bd6e4966bd4a44fd0a0/1518414814832/juliet-profile-photo.jpg%3Fformat%3D1000w)
 
 朱丽叶·布朗。BFA 然后是埃达。
 

@@ -32,11 +32,11 @@
 
 *   我们根据环境使用了 4 个[函数](https://serverless.com/framework/docs/providers/aws/guide/functions/)和[外部 JSON 文件](https://serverless.com/framework/docs/providers/aws/guide/variables#reference-variables-in-other-files)变量:
 
-[![](../Images/dc0535eb5b51cedb025fb558d59fa61d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kTbRVJDy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AE58m7w8y2BYeDgV9)
+[![](img/dc0535eb5b51cedb025fb558d59fa61d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kTbRVJDy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2AE58m7w8y2BYeDgV9)
 
 *   使用了 [iamRoleStatements](https://serverless.com/framework/docs/providers/aws/guide/iam/#custom-iam-roles) 来配置所有权限
 
-[![](../Images/82a728df2f5ddda2c24e18b5e1c0a697.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hDuonfSd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2Ax0fjcElVTbIeVz_3)
+[![](img/82a728df2f5ddda2c24e18b5e1c0a697.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hDuonfSd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2Ax0fjcElVTbIeVz_3)
 
 有了这两个代码片段，我们能够建立我们的大部分架构。4 将通过 SNS 相互交互的功能。两个函数将在 cron 计划上运行 check(通过“schedule.rate”参数)以检查需要重新处理的文件，并通过 SNS 触发另一个函数。这种配置将能够在控制成本的同时轻松扩展。我们能够使用 iamRoleStatements 来配置权限，从而完全隔离我们的环境。我们使用一个外部变量来管理简单的 YAML 文件中的环境变量。
 

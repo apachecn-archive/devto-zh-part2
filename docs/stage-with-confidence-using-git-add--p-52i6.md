@@ -11,8 +11,8 @@
 
 也就是说，`git add -p`允许你从你当前所有的变更中挑选出将要进行的代码块。
 
-[![git add -p](../Images/da1bd4e42ac283023a6f9ecd3cc5823c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Onoi0ToD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lawlmn8xi2xm76ybtjoh.png)
-[![git status -v](../Images/3a1eb4b2070cc5dd8af135eef5518000.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--AaB6Ybch--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n4wofe0t28x514wbk7yc.png)
+[![git add -p](img/da1bd4e42ac283023a6f9ecd3cc5823c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Onoi0ToD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lawlmn8xi2xm76ybtjoh.png)
+[![git status -v](img/3a1eb4b2070cc5dd8af135eef5518000.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--AaB6Ybch--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n4wofe0t28x514wbk7yc.png)
 
 我一直用这个来避免犯一些意想不到的错误。
 试试看！

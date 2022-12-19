@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/techcommunity/connx-integration-with-microsoft-sql-server-24nf>
 
-| 2018 年第二期 | [![](../Images/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue2/SAG_CONNX_Integration_With_SQL_TECHniques_Apr18_WEB.pdf) |
+| 2018 年第二期 | [![](img/a80ab71273994c8d589f4e03e98b42bb.png) 下载 PDFT4】](http://techcommunity.softwareag.com/ecosystem/download/techniques/2018-issue2/SAG_CONNX_Integration_With_SQL_TECHniques_Apr18_WEB.pdf) |
 | --- | --- |
 
 ## SQL Server 链接的服务器
@@ -20,7 +20,7 @@ SQL Server 的链接服务器功能使 SQL Server 数据和非 SQL Server 数据
 
 使用 CONNX，SQL Server 可以轻松地与所有支持的数据源集成，包括 Adabas。可以通过两种方式创建链接服务器:通过 SQL Server Management Studio 或者通过名为 sp_addlinkedserver 的存储过程。如果需要通过脚本动态创建链接服务器，那么存储过程路线更好。如果需要，请参考有关此存储过程的现有详细 SQL Server 文档。使用 SQL Server Management Studio，可以在“安全对象”下找到链接服务器。通过右键单击“链接服务器”来添加新的链接服务器然后选择“新建链接服务器…”
 
-[![](../Images/7858ca7deab8eab7ad4149ce9e1462f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_b_1GOyP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/connx1.jpg/58f46e4e-0ed9-4e10-bf3f-b69978b4e20e%3Ft%3D1524042656832)
+[![](img/7858ca7deab8eab7ad4149ce9e1462f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_b_1GOyP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/connx1.jpg/58f46e4e-0ed9-4e10-bf3f-b69978b4e20e%3Ft%3D1524042656832)
 
 *图 1:从 Management Studio 创建一个新的链接服务器*
 
@@ -30,19 +30,19 @@ SQL Server 的链接服务器功能使 SQL Server 数据和非 SQL Server 数据
 
 选择驱动因素后，填写剩余的字段。“产品名称”字段不用于任何技术目的。但这是完成链接服务器连接所必需的。请参考第三方驱动程序的文档，了解为其余字段提供什么的详细信息。在 provider string 字段中，指定 CONNX 驱动程序、CDD 的名称以及任何所需的应用程序过滤器。
 
-[![](../Images/85f870aef4a028e6e29ec89f87e8f7c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a_GcFG33--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/connx2.jpg/5e9c451d-d2b3-44b9-b330-e712b93cc76e%3Ft%3D1524042662764)
+[![](img/85f870aef4a028e6e29ec89f87e8f7c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a_GcFG33--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/connx2.jpg/5e9c451d-d2b3-44b9-b330-e712b93cc76e%3Ft%3D1524042662764)
 
 *图 2:指定链接服务器驱动程序连接属性*
 
 先不要按“确定”按钮。重要的身份验证和安全选项位于“安全”页面。这可以通过单击对话框左上角的安全来选择。有些数据库不需要用户名和密码就可以连接。在这些情况下，请选择“不使用安全上下文进行制作”选项然而，大多数数据库需要用户名和密码。这使得通过 SQL server 连接到它们的过程有点困难。一个典型的例子是:SQL Server 被配置为使用 Microsoft Active Directory 登录。但是另一个数据库不支持这种类型的登录。如果所需的数据源不支持 active directory 身份验证，身份验证凭据不匹配将导致无法连接。以下对话框提供了问题的解决方案。这里，另一个数据库的一组静态凭据将用于所有链接服务器连接。选择“使用此安全上下文”然后为另一个数据库提供适当的用户名和密码。
 
-[![](../Images/f8e8daab337cf9836b9539a81f72d0f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e3ivoZBv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/connx3.jpg/abb81ead-b2d0-4173-bb45-bcf8774cff96%3Ft%3D1524042667084)
+[![](img/f8e8daab337cf9836b9539a81f72d0f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e3ivoZBv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/connx3.jpg/abb81ead-b2d0-4173-bb45-bcf8774cff96%3Ft%3D1524042667084)
 
 *图 3:指定链接服务器连接的认证方法*
 
 如果可能，不要对所有链接服务器连接使用一组身份验证凭据。相反，通过按下安全页面上的“添加”按钮，为每次 SQL Server 登录建立一个单独的映射。“模拟”选项只是对另一个数据库使用 Active Directory 身份验证的另一种说法，不要选中此复选框。点击“新链接服务器”对话框左上角的“服务器选项”可以找到其他重要选项。
 
-[![](../Images/b6b84fdc1b76fc5d6064f27a06428a68.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RT06cBBu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/connx4.jpg/8f17e94d-73ef-4af9-a867-a846082f30a3%3Ft%3D1524042671605) 
+[![](img/b6b84fdc1b76fc5d6064f27a06428a68.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RT06cBBu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/connx4.jpg/8f17e94d-73ef-4af9-a867-a846082f30a3%3Ft%3D1524042671605) 
 
 *图 4:指定链接服务器“服务器选项”*
 
@@ -68,7 +68,7 @@ SQL Server 的链接服务器功能使 SQL Server 数据和非 SQL Server 数据
 
 使用 SQL Server 的 CONNX 访问数据有四种方式:两种方式使用链接服务器，两种方式不使用。
 
-[![](../Images/b5b69b1b3d7084130f9ac2bcf3664a3d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2epERWJd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/connx5.jpg/9db5345a-79b0-432d-94c7-6933c079f355%3Ft%3D1524042676040) 
+[![](img/b5b69b1b3d7084130f9ac2bcf3664a3d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2epERWJd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/connx5.jpg/9db5345a-79b0-432d-94c7-6933c079f355%3Ft%3D1524042676040) 
 
 *图 5:通过链接服务器连接可用的表格的树形视图*
 
@@ -88,7 +88,7 @@ sp\_configure 'show advanced options', 1; RECONFIGURE; Go sp\_configure 'Ad Hoc 
 SELECT \* FROM OPENDATASOURCE('MSDASQL', 'driver=connx32;DD=c:\cdd\demo4.cdd;application =adabas;UID=xxxxx;PWD=xxxxx') .adalocal.connx75.employees 
 ```
 
-[![](../Images/0d0a353975f2ab243a6a70b5ccbafc94.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7M8BepUS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/connx6.jpg/14ea51d7-17f8-4a8b-830b-65e661c5407d%3Ft%3D1524042680690) 
+[![](img/0d0a353975f2ab243a6a70b5ccbafc94.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7M8BepUS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/connx6.jpg/14ea51d7-17f8-4a8b-830b-65e661c5407d%3Ft%3D1524042680690) 
 
 *图 OpenDatasource 语句示例*
 
@@ -98,7 +98,7 @@ SELECT \* FROM OPENDATASOURCE('MSDASQL', 'driver=connx32;DD=c:\cdd\demo4.cdd;app
 SELECT a.\* FROM OPENROWSET('MSDASQL', 'driver=connx32;DD=c:\cdd\demo4.cdd;APPLICATION= ADABAS;UID=XXX;PWD=XXX;', 'SELECT e.first\_name, e.name, en.LANG from adalocal..employees e inner join adalocal..employees\_lang en on (e.isn = en.isn) where e.city = ''PARIS'' ORDER BY e.name DESC') AS a; 
 ```
 
-[![](../Images/80036ea9028a2533bf34563355f9e66c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bg56IdUS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/connx7.jpg/d2258d21-a044-4466-a28d-417c62e29e2c%3Ft%3D1524042685154) 
+[![](img/80036ea9028a2533bf34563355f9e66c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bg56IdUS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/connx7.jpg/d2258d21-a044-4466-a28d-417c62e29e2c%3Ft%3D1524042685154) 
 
 *图 OpenRowset 语句示例*
 
@@ -136,7 +136,7 @@ Select \* from MyLinkedServer.oregon.richard.products
 SELECT a.\* FROM OPENQUERY(ADABAS, 'SELECT e.first\_name, e.name, en.LANG from adalocal..employees e inner join adalocal..employees\_lang en on (e.isn = en.isn) where e.city = ''PARIS'' ORDER BY e.name DESC ') AS a; 
 ```
 
-[![](../Images/d67806248cc3ed4d8465d7abe7306517.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--m8h5YJY6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/connx8.jpg/b7723b4a-a241-431d-8042-8dd90ed75469%3Ft%3D1524042688992) 
+[![](img/d67806248cc3ed4d8465d7abe7306517.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--m8h5YJY6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/connx8.jpg/b7723b4a-a241-431d-8042-8dd90ed75469%3Ft%3D1524042688992) 
 
 *图 OpenQuery 语句示例*
 
@@ -150,13 +150,13 @@ exec ('SELECT e.first\_name, e.name, en.LANG from adalocal..employees e inner jo
 
 每个 OLE DB 访问接口都有八个全局选项，可以为该访问接口的所有链接服务器进行配置。
 
-[![](../Images/5cefc91736b95cec8b58bcaa28c54a80.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--znvnGPqr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/connx9.jpg/783b2a0f-7aa3-4ae2-b9d3-b8175e350325%3Ft%3D1524042692857) 
+[![](img/5cefc91736b95cec8b58bcaa28c54a80.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--znvnGPqr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/connx9.jpg/783b2a0f-7aa3-4ae2-b9d3-b8175e350325%3Ft%3D1524042692857) 
 
 *图 9:访问 OLE DB 提供程序的全局属性*
 
 选择 MSDASQL，因为这是 ODBC 驱动程序的 OLEDB 提供程序的简称。
 
-[![](../Images/73a12df99312e63c1ee499bd65693c65.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_Lh4OhMo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/connx10.jpg/c9206311-611f-4a84-b822-4114126b82b8%3Ft%3D1524042697227) 
+[![](img/73a12df99312e63c1ee499bd65693c65.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_Lh4OhMo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://techcommunity.softwareag.com/documents/10157/9581666/connx10.jpg/c9206311-611f-4a84-b822-4114126b82b8%3Ft%3D1524042697227) 
 
 *图 10:OLE DB 提供程序的全局属性*
 

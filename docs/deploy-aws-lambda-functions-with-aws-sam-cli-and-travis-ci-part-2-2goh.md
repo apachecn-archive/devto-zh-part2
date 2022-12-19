@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/codevbus/deploy-aws-lambda-functions-with-aws-sam-cli-and-travis-ci-part-2-2goh>
 
-[![sam and travis](../Images/c76374fb8d1b269124ba720470b5daf7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EFJqaI7---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g0mz9mucfpiun9q8usmv.png)
+[![sam and travis](img/c76374fb8d1b269124ba720470b5daf7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EFJqaI7---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g0mz9mucfpiun9q8usmv.png)
 
 (本文原载于我的网站: [mikevanbuskirk.io](https://mikevanbuskirk.io/posts/deploy-aws-lambda-functions-with-aws-sam-cli-and-travis-ci-2/) )
 

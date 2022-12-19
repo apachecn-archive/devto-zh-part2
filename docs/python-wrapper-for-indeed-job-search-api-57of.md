@@ -4,7 +4,7 @@
 
 # Python Wrapper For each Job Search API
 
-[![Python Wrapper For Indeed Job Search API](../Images/df1d348e7bedac0e37c292f68b16acdf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FvkrfKJx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/76u4lfx01t8dlfkq4pds.jpg)
+[![Python Wrapper For Indeed Job Search API](img/df1d348e7bedac0e37c292f68b16acdf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FvkrfKJx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/76u4lfx01t8dlfkq4pds.jpg)
 
 最近，我在寻找一个 Python 包装器来使用 Indeed API。由于找不到符合我要求的，我写了一个快速简单的 Python 脚本，它使用了 job search API 并将搜索结果存储在 CSV 中。
 

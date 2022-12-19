@@ -26,4 +26,4 @@
 
 [https://www.youtube.com/embed/aTL4qIIxg8A](https://www.youtube.com/embed/aTL4qIIxg8A)
 
-*封面图片:法国 Milliau 高架桥。来源:[数字趋势](https://www.digitaltrends.com/cool-tech/biggest-bridges-in-the-world/)，或者至少是链接到那里的[谷歌图片搜索页面](https://goo.gl/images/MGwJEo)。*
+*封面图片:法国 Milliau 高架桥。来源:[数字趋势](https://www.digitaltrends.com/cool-tech/biggest-bridges-in-the-world/)，或者至少是链接到那里的[谷歌图片搜索页面](https://goo.img/MGwJEo)。*

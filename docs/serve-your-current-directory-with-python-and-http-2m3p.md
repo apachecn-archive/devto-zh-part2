@@ -91,19 +91,19 @@ Serving HTTP on 0.0.0.0 port 8000 ...
 
 ### 根目录
 
-[![Sample root directory listing](../Images/2777e79655db39b179fbf0eeb4261f21.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LHO_Y7sX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/09/sample_root_directory_listing.png) 示例根目录清单。这相当于在服务器运行的目录上运行一个`ls`。
+[![Sample root directory listing](img/2777e79655db39b179fbf0eeb4261f21.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LHO_Y7sX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/09/sample_root_directory_listing.png) 示例根目录清单。这相当于在服务器运行的目录上运行一个`ls`。
 
 ### 子目录
 
 让我们点击`dir1/`链接:
 
-[![dir1 directory listing](../Images/2636b7ce31a7dbf39a412d8bfe3440ba.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--CvR7BV6f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/09/dir1_directory_listing.png) `dir1`目录清单。
+[![dir1 directory listing](img/2636b7ce31a7dbf39a412d8bfe3440ba.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--CvR7BV6f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/09/dir1_directory_listing.png) `dir1`目录清单。
 
 ### 文件
 
 让我们点击`file3.txt`链接。
 
-[![file3.txt contents](../Images/c57dfbb959e859acd56dab43ea63cdf6.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--0CV5DSuV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/09/file3_file_contents.png) `file3.txt`目录。请注意，该文件呈现在浏览器中。这是因为 HTTP 服务器足够聪明，可以向 HTTP 响应添加内容类型。当您需要将 HTML 与 CSS、JS 和图像一起提供时，这变得非常方便。
+[![file3.txt contents](img/c57dfbb959e859acd56dab43ea63cdf6.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--0CV5DSuV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.nicolasmesa.co/posts/2018/09/file3_file_contents.png) `file3.txt`目录。请注意，该文件呈现在浏览器中。这是因为 HTTP 服务器足够聪明，可以向 HTTP 响应添加内容类型。当您需要将 HTML 与 CSS、JS 和图像一起提供时，这变得非常方便。
 
 ## 更新(2018 年 10 月 21 日)
 

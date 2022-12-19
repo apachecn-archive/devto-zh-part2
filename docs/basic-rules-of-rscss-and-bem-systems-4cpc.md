@@ -60,16 +60,16 @@
 
 在下面的例子中，我将把组件分解成元素，并展示 RSCSS 的实际应用。
 
-[![Group-10--1-](../Images/e33836e3c169850bad00e0619333e516.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bMPDDkwZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2017/12/Group-10--1-.png)
+[![Group-10--1-](img/e33836e3c169850bad00e0619333e516.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bMPDDkwZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2017/12/Group-10--1-.png)
 
 该图像显示了一个带有按钮和占位符文本的简单输入字段。
 首先，我们将**识别组件并将其分解为元素**。
 
-[![Group-11](../Images/ebeb6276b657b5623a15d280f2099bcf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K72iGc1p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2017/12/Group-11.png)
+[![Group-11](img/ebeb6276b657b5623a15d280f2099bcf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K72iGc1p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2017/12/Group-11.png)
 
 该组件包括输入字段和提交按钮。
 
-[![Group-11.1--1-](../Images/af6303db1ee6554a17efd2557407bd4b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AeZW8y8x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2017/12/Group-11.1--1-.png)
+[![Group-11.1--1-](img/af6303db1ee6554a17efd2557407bd4b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AeZW8y8x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2017/12/Group-11.1--1-.png)
 
 现在，是时候写 CSS 类了。我将把组件、元素和变量命名为。
 
@@ -115,11 +115,11 @@ Bloks 通常有一个由一个或两个单词组成的类名，中间用破折�
 
 在下一个例子中，你可以看到一个边界元方法的例子。
 
-[![Group-18--1-](../Images/7987faa4af228fdb2166e0765abe4a7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vQlupXWR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2017/12/Group-18--1-.png)
+[![Group-18--1-](img/7987faa4af228fdb2166e0765abe4a7e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vQlupXWR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2017/12/Group-18--1-.png)
 
 上图显示了一个块，其类别为“ **form** ”。它由一个输入字段和一个提交按钮组成。
 
-[![Group-17](../Images/c0f7e773fe812c2189561d32a72a045c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--arFMm1nH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/content/images/2017/12/Group-17.png)
+[![Group-17](img/c0f7e773fe812c2189561d32a72a045c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--arFMm1nH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://kolosek.com/conteimg/2017/12/Group-17.png)
 
 现在，您已经确定了块中的元素。这些元素是“**输入**和“**提交**”。“**提交**”元素有一个外观修饰符，使按钮更宽。
 

@@ -12,7 +12,7 @@
 
 ## 它长什么样子
 
-[![](../Images/180d4e9502d4ee8104ecc54cca22649a.png "source: imgur.com")T2】](http://imgur.com/AQSIXwj)
+[![](img/180d4e9502d4ee8104ecc54cca22649a.png "source: imgur.com")T2】](http://imgur.com/AQSIXwj)
 
 ## 设置
 
@@ -477,6 +477,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 我希望这篇文章对你们中的一些人有所帮助，我还远远没有完成我目前的设置，从这个意义上说，这是一个我几乎每天都在玩的玩具。话虽如此，但为了回到帖子最初的前提；它确实是一个非常强大的玩具，特别是当与其他工具如 **Tmux** 结合时，这里是我的**仙丹**【IDE】由 **Vim** 和 **Tmux** 驱动的一个潜行高峰:
 
-[![](../Images/74833d83e95abc279a3c13d4a9017611.png "source: imgur.com")T2】](http://i.imgur.com/vI0KjXB.gif)
+[![](img/74833d83e95abc279a3c13d4a9017611.png "source: imgur.com")T2】](http://i.imgur.com/vI0KjXB.gif)
 
 如果你想知道更多关于我的设置，或者想**分享你的**请在下面留下评论。

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/girlknowstech/woman-in-tech-your-voice-matters-in-these-communities-54cl>
 
-[![Are you a woman in tech? If so, you might be interested in joining these communities for women in tech so you can meet other women!](../Images/5a67c9e6883ec956c0981b65aed529e3.png)T2】](https://i2.wp.com/girlknowstech.com/wp-content/uploads/2018/04/woman-in-tech-your-voice-matters.png?ssl=1)
+[![Are you a woman in tech? If so, you might be interested in joining these communities for women in tech so you can meet other women!](img/5a67c9e6883ec956c0981b65aed529e3.png)T2】](https://i2.wp.com/girlknowstech.com/wp-content/uploads/2018/04/woman-in-tech-your-voice-matters.png?ssl=1)
 
 我有一个面向科技界女性的脸书集团。我问想加入这个团体的女性三个问题。其中一个是:“你为什么要入团？”。我收到的所有回答都说是认识其他科技女性，交流心得等等！
 

@@ -31,7 +31,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 根据其他框架和社区的要求，Symfony 4 稍微改变了它的目录结构，所以现在新的目录结构是:
 
-[![Directory Structure Image](../Images/b85eac49a9e3ae3ad2ff29748d639faf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yjvvaj37--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://alessandrominoccheri.github.io/img/symfony_folder_strcuture.jpg)
+[![Directory Structure Image](img/b85eac49a9e3ae3ad2ff29748d639faf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yjvvaj37--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://alessandrominoccheri.github.io/img/symfony_folder_strcuture.jpg)
 
 **app/**
 应用配置，模板和翻译，在这里可以找到 AppKernel 文件，应用配置的主入口点。
@@ -229,7 +229,7 @@ composer require symfony/messenger
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Messenger Component](../Images/3330c5baa59f731f7224c3c3690fc2d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xQ6l4RkL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://alessandrominoccheri.github.io/img/symfony_messenger_component.jpg)
+[![Messenger Component](img/3330c5baa59f731f7224c3c3690fc2d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xQ6l4RkL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://alessandrominoccheri.github.io/img/symfony_messenger_component.jpg)
 
 ### 它是如何工作的？
 

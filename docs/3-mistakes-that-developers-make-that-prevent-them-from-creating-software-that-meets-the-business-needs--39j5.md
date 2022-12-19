@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/elemarjr/3-mistakes-that-developers-make-that-prevent-them-from-creating-software-that-meets-the-business-needs--39j5>
 
-[![](../Images/d1eb4db7bb5cffe6e7bc073bf6ff6575.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---iKm_4j1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/nathan-dumlao-263787-unsplash-300x200.jpg)
+[![](img/d1eb4db7bb5cffe6e7bc073bf6ff6575.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---iKm_4j1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/nathan-dumlao-263787-unsplash-300x200.jpg)
 
 作为专业人员，我们应该专注于开发伟大的技术解决方案。但是，这些解决方案需要解决实际问题。最终，如果我们不能交付价值，无论我们付出多少努力，我们都会失败。
 

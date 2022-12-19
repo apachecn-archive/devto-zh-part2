@@ -92,7 +92,7 @@
 
 编辑的最后一步是浏览并添加我使用的音乐片段。我已经创作了一首主题曲，基本上，我只是把它分成几个部分。我在脚本中使用 h3 的任何地方都变成了音乐队列。我这样做是为了让听众有机会处理他们刚刚听到的内容——这也是我和他们交谈的一个小间隙。
 
-[![Recording-screen-shot](../Images/fd9fff41f08cfae45a5d8568a04ac9d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0KWUm2De--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uk4tqjxyqp5tp5teonsa.jpg)
+[![Recording-screen-shot](img/fd9fff41f08cfae45a5d8568a04ac9d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0KWUm2De--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uk4tqjxyqp5tp5teonsa.jpg)
 
 这将产生一个多轨道录音，看起来就像上面的屏幕截图。
 
@@ -110,7 +110,7 @@
 
 Auphonic 做了很多事情，但我用它来消除任何额外的失真或噪音，转换为 mp3，并调整整个录音的音量。我发现我通过 Auphonic 放出来的录音比我用手做的任何东西都要清晰响亮，但是你的效果可能会有所不同。
 
-[![Rendered-Recording-Screen-Shot](../Images/ae22b7a9adc75c26c482882cffd42dbe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x2PBfcPY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/scw5zbujewu336noql7l.jpg)
+[![Rendered-Recording-Screen-Shot](img/ae22b7a9adc75c26c482882cffd42dbe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x2PBfcPY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/scw5zbujewu336noql7l.jpg)
 
 如你所见，这一集的音量已经完全拉平；听众将不再需要为了听我说话而不断改变他们的音量
 

@@ -45,13 +45,13 @@ Jekyll 是一个静态网站生成器，在静态网站生成领域引起了巨�
 
 > $ gem 安装 bundler jekyll
 
-[![](../Images/e698f40bf2284bb02c6bf14ca7a42517.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3vO1dfzW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/752/1%2Ao-WMlkQ2Cra6pT0O8HSeVQ.png)
+[![](img/e698f40bf2284bb02c6bf14ca7a42517.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3vO1dfzW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/752/1%2Ao-WMlkQ2Cra6pT0O8HSeVQ.png)
 
 使用 jekyll 生成您的新网站:
 
 > $ jekyll 新的我的-真棒-网站
 
-[![](../Images/972fe124b5cff5da549c0aadc5c05fe3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---yh5K7Q6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/752/1%2AfphO0ihPGqX8UZ8B_P-pdg.png)
+[![](img/972fe124b5cff5da549c0aadc5c05fe3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---yh5K7Q6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/752/1%2AfphO0ihPGqX8UZ8B_P-pdg.png)
 
 如果一切顺利，你可以使用 jekyll 预览你的新网站:
 
@@ -59,11 +59,11 @@ Jekyll 是一个静态网站生成器，在静态网站生成领域引起了巨�
 > 
 > $ bundle exec Jekyll serve
 
-[![](../Images/1a74daab71048156b5a95c26c767c705.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hxGoParV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/752/1%2ATGha9u_EC39odTSBF4nETQ.png)
+[![](img/1a74daab71048156b5a95c26c767c705.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hxGoParV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/752/1%2ATGha9u_EC39odTSBF4nETQ.png)
 
 > 将浏览器指向 [http://localhost:4000](http://localhost:4000) 。
 
-[![](../Images/28b04e2fa24c55289815fefb52c30446.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xHamMyCj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aiaupqu3_PhnF1iRCDlYZng.png)
+[![](img/28b04e2fa24c55289815fefb52c30446.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xHamMyCj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aiaupqu3_PhnF1iRCDlYZng.png)
 
 > 完成预览后，按 Ctrl-C 关闭预览服务器。
 
@@ -85,13 +85,13 @@ GitHub Pages 是一款优秀的免费网站托管服务，适用于你的 GitHub
 > 
 > 可选地填写“描述”:
 
-[![](../Images/351b55fb3f7f5f7d937a4474d56adc2d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mNIhJ5pB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2An_waIDZ75IoaJxPdNvD0EA.png)
+[![](img/351b55fb3f7f5f7d937a4474d56adc2d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mNIhJ5pB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2An_waIDZ75IoaJxPdNvD0EA.png)
 
 保持“公开”选中(“私人”回购仅适用于付费 GitHub 计划)，并保持所有其他选项不变。
 
 > 要继续，请单击“创建存储库”。创建回购后，您将看到以下屏幕:
 
-[![](../Images/8d052a1ad8605d194f64d80084192b11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xiYUdfY6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AFibe17D9cKelwO2amQP0ag.png)
+[![](img/8d052a1ad8605d194f64d80084192b11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xiYUdfY6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AFibe17D9cKelwO2amQP0ag.png)
 
 您现在有一个空的 repo，可以继续配置。
 
@@ -109,13 +109,13 @@ GitHub Pages 是一款优秀的免费网站托管服务，适用于你的 GitHub
 > 
 > 单击下拉菜单并选择“主分支机构”:
 
-[![](../Images/a4eb264c2a076b1b5f241adaaf63ac22.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u_2Dn4e0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AuGIFFtwSc7L0-QnmKAXORA.png)
+[![](img/a4eb264c2a076b1b5f241adaaf63ac22.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u_2Dn4e0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AuGIFFtwSc7L0-QnmKAXORA.png)
 
 > 选择“总分行”后，点击“保存”。
 
 保存后，向下滚动以查看消息“您的网站已准备好在 [https:// *用户名*. github . io/my-awesome-site/](https://jonesrussell.github.io/my-awesome-site/)发布。”
 
-[![](../Images/61234c601abbe19ec1c9fcfe9dfc7980.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bQi3hxs6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AMQwnvC6Inb93zlev6ZuYRQ.png)
+[![](img/61234c601abbe19ec1c9fcfe9dfc7980.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bQi3hxs6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AMQwnvC6Inb93zlev6ZuYRQ.png)
 
 **配置您的 gem 文件**
 
@@ -127,7 +127,7 @@ Ruby 使用 Gem 文件来设置正确构建 Ruby Gem 所需的依赖关系。在
 
 > $ vim Gemfile
 
-[![](../Images/e7b24ac9f36cbf80974cadf5fef27998.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gKMBtG0j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/752/1%2ABh6_5s7-bqE7CAfAK-HyNw.png)
+[![](img/e7b24ac9f36cbf80974cadf5fef27998.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gKMBtG0j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/752/1%2ABh6_5s7-bqE7CAfAK-HyNw.png)
 
 我们的更改非常简单，只需注释掉(在该行后面加上#):
 
@@ -139,7 +139,7 @@ Ruby 使用 Gem 文件来设置正确构建 Ruby Gem 所需的依赖关系。在
 
 您的 Gemfile 现在应该看起来像下面的截图。第 11 行附加了一个' # '，第 18 行开头的' # '已被删除。
 
-[![](../Images/241d536e0a8302e224fbc2bc763721b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iN7nV1QD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/752/1%2A9mMkQCJzxLCmXL_I5yfm1g.png)
+[![](img/241d536e0a8302e224fbc2bc763721b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iN7nV1QD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/752/1%2A9mMkQCJzxLCmXL_I5yfm1g.png)
 
 现在保存并关闭 gem 文件(vim 的说明):
 
@@ -153,13 +153,13 @@ _config.yml 包含特定于您的网站的变量。在部署之前，您可能�
 
 > $ vim _config.yml
 
-[![](../Images/60b32cc31571b721a3f87e75a027b80b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eXuX1zs3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/752/1%2A9UEZoWCCdQYb4_ah0aXFKw.png)
+[![](img/60b32cc31571b721a3f87e75a027b80b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eXuX1zs3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/752/1%2A9UEZoWCCdQYb4_ah0aXFKw.png)
 
 进行您喜欢的任何编辑，但是一定要编辑“baseurl”(第 22 行),使其显示为:
 
 > baseurl: "/my-awesome-site" #您的站点的子路径，例如/blog
 
-[![](../Images/b7abf371b8857677f8a77a356751e7d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GHLKJd5l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/752/1%2Awku2TAwAraDwe4GCoxINHg.png)
+[![](img/b7abf371b8857677f8a77a356751e7d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GHLKJd5l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/752/1%2Awku2TAwAraDwe4GCoxINHg.png)
 
 保存并关闭。
 
@@ -181,11 +181,11 @@ _config.yml 包含特定于您的网站的变量。在部署之前，您可能�
 > 
 > $ git push-u 原点主
 
-[![](../Images/308a609732d5d093dd415771d68c9e7a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QmtUF21f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/741/1%2AXFr7LjpYyynfAapn9UnKlw.png)
+[![](img/308a609732d5d093dd415771d68c9e7a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QmtUF21f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/741/1%2AXFr7LjpYyynfAapn9UnKlw.png)
 
 > 通过访问[https://github.com/*用户名* /my-awesome-site](https://github.com/jonesrussell/my-awesome-site) 验证您的文件已经发布到 GitHub:
 
-[![](../Images/fc686a7c434d4eb13a57c688fb1d6473.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oKjeNxz7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A550RFFagQa4dtiXMZkZfdw.png)
+[![](img/fc686a7c434d4eb13a57c688fb1d6473.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oKjeNxz7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A550RFFagQa4dtiXMZkZfdw.png)
 
 **Tada！访问您的网站**
 
@@ -193,7 +193,7 @@ _config.yml 包含特定于您的网站的变量。在部署之前，您可能�
 
 > 通过访问[https://username.github.io/my-awesome-site/](https://jonesrussell.github.io/my-awesome-site/)验证您的博客是否已部署。
 
-[![](../Images/4560aaa5fee17a056e5bbfd864888434.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9dYiX6O5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AlP_yQX0QSLepJ29IenSFjQ.png)
+[![](img/4560aaa5fee17a056e5bbfd864888434.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9dYiX6O5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AlP_yQX0QSLepJ29IenSFjQ.png)
 
 ### 结论
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/sadick/the-not-so-secret-life-of-provider-in-redux-59k4>
 
-[![](../Images/0a24a126301addc6499033b74c06b092.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ri_Knf42--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.valentinog.com/blog/wp-content/uploads/2017/12/redux-react-tutorial-beginner-2018.png)
+[![](img/0a24a126301addc6499033b74c06b092.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ri_Knf42--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.valentinog.com/blog/wp-content/uploads/2017/12/redux-react-tutorial-beginner-2018.png)
 
 我总是问自己`<Provider>`是做什么的，为什么在使用 redux 时它是必要的。
 react-redux 如何让我能够访问我的存储对象？

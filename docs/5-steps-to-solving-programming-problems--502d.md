@@ -6,7 +6,7 @@
 
 ### 1。把问题多看几遍，直到你能向别人解释为止
 
-[![Read](../Images/810cbf89cf19b8f925b9c2a785bf5c5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NNdNHOyF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.adrianprieto.com/wp-content/uploads/2016/04/giphy-4.gif)
+[![Read](img/810cbf89cf19b8f925b9c2a785bf5c5e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NNdNHOyF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.adrianprieto.com/wp-content/uploads/2016/04/giphy-4.gif)
 
 这是到目前为止，**最重要的**步骤，把问题看几遍，直到你完全理解为止，不理解就解不出来。知道你是否理解问题的最好方法是向别人解释。
 

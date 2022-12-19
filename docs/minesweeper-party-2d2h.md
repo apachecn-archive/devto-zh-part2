@@ -6,7 +6,7 @@
 
 嗯，我做了一个扫雷游戏，允许多个玩家同时玩同一个游戏。没有转弯，没有等待。只需轻点轻点嘣！💥
 
-[![dotenv](../Images/221c55d9b4d2ba0aa2c0fabb9b6a6d23.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Il03YNKK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ayeq0kqlpg4xif3bjxam.png)
+[![dotenv](img/221c55d9b4d2ba0aa2c0fabb9b6a6d23.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Il03YNKK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ayeq0kqlpg4xif3bjxam.png)
 
 与经典版本一样，说明非常简单:
 
@@ -105,4 +105,4 @@
 
 当心，不要踩到地雷...
 
-[![land mine](../Images/ce14e184bf54264f2c2962029b2c9af4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JHDzohvC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i4o6yt8f5ld2a1edezfs.png)
+[![land mine](img/ce14e184bf54264f2c2962029b2c9af4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JHDzohvC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i4o6yt8f5ld2a1edezfs.png)

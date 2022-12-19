@@ -18,13 +18,13 @@ Rails 5.2 的测试版使用流行的开源工具 FFmpeg 和 MuPDF 来生成视�
 
 或者，您可以使用我们的示例应用程序。这是一个 Rails 5.2 应用程序，它是一个数字公告板，允许人们发布视频、pdf 和图像。您可以[在 GitHub](https://github.com/heroku/active_storage_with_previews_example) 上查看源代码，或者使用 Heroku 按钮部署应用程序:
 
-[![Deploy](../Images/c5f2ec62efbee76fd41eb9eff7b5c1c0.png)T2】](https://heroku.com/deploy?template=https://github.com/heroku/active_storage_with_previews_example)
+[![Deploy](img/c5f2ec62efbee76fd41eb9eff7b5c1c0.png)T2】](https://heroku.com/deploy?template=https://github.com/heroku/active_storage_with_previews_example)
 
 > 注意:这个示例应用程序需要一个付费的 S3 插件。
 
 这里有一个应用程序做什么的视频示例。
 
-[![Active Storage on Heroku](../Images/6136e0d96a4a312781bf2deca58c0c72.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0FtnvaKa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.dropbox.com/s/nxnsidob5j8bwev/active-storage.gif%3Fraw%3D1)
+[![Active Storage on Heroku](img/6136e0d96a4a312781bf2deca58c0c72.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0FtnvaKa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://www.dropbox.com/s/nxnsidob5j8bwev/active-storage.gif%3Fraw%3D1)
 
 打开主页时，选择适当的资产，然后提交表单。在视频中，`mp4`文件被上传到 S3，然后 Rails 在`ffmpeg`的帮助下动态生成预览。相当整洁。
 

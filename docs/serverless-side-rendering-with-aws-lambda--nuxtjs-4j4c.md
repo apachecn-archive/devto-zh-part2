@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/fernalvarez590/serverless-side-rendering-with-aws-lambda--nuxtjs-4j4c>
 
-[![](../Images/576ee41b103fb8aad09f2422af8b82fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cJX6Tfvd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AwCN74zqZqZR1ibLdBeyCBw.png)
+[![](img/576ee41b103fb8aad09f2422af8b82fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cJX6Tfvd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AwCN74zqZqZR1ibLdBeyCBw.png)
 
 有两件事我很喜欢知道:
 

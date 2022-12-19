@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/couellet/setting-up-netlify-forms-an-in-depth-tutorial-2il1>
 
-[![netlify-forms](../Images/3b9d8098815f0823c65445ecd90ab3e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LdfmjzPl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/205513/netlify-forms.png)
+[![netlify-forms](img/3b9d8098815f0823c65445ecd90ab3e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LdfmjzPl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://snipcart.com/media/205513/netlify-forms.png)
 
 我从事网页开发已经很长时间了。
 

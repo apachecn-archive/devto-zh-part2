@@ -2,13 +2,13 @@
 
 > 原文：<https://dev.to/holmeshe/understanding-the-memcached-source-code---slab-ii-2kc3>
 
-[![](../Images/7c4eac2443aa17f5de9f0e916c990eac.png) slab allocator (I，](https://dev.to/holmeshe/understanding-the-memcached-source-code---slab-i-165h)II——本文[，III)](https://holmeshe.me/understanding-memcached-source-code-III/) 是缓存系统的核心模块，很大程度上决定了瓶颈资源——内存的利用效率。其他 3 个部分，即:
+[![](img/7c4eac2443aa17f5de9f0e916c990eac.png) slab allocator (I，](https://dev.to/holmeshe/understanding-the-memcached-source-code---slab-i-165h)II——本文[，III)](https://holmeshe.me/understanding-memcached-source-code-III/) 是缓存系统的核心模块，很大程度上决定了瓶颈资源——内存的利用效率。其他 3 个部分，即:
 
-[![](../Images/d6aed08203351c706eec17806267e7b8.png) LRU 算法(I ](https://holmeshe.me/understanding-memcached-source-code-IV/) [，II)](https://holmeshe.me/understanding-memcached-source-code-V/) 为条目到期；和一个
+[![](img/d6aed08203351c706eec17806267e7b8.png) LRU 算法(I ](https://holmeshe.me/understanding-memcached-source-code-IV/) [，II)](https://holmeshe.me/understanding-memcached-source-code-V/) 为条目到期；和一个
 
-[![](../Images/490f5358184017957ba4e8a0cf607710.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tzc6mlU3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/v1/../gallery/club.svg) 基于 libevent 的事件驱动模型(不完整)；和
+[![](img/490f5358184017957ba4e8a0cf607710.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tzc6mlU3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/v1/../gallery/club.svg) 基于 libevent 的事件驱动模型(不完整)；和
 
-[![](../Images/06e0627871e52e5e85a37c2488182acf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--g3N4Oenm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/v1/../gallery/diamond.svg) 对数据分布一致苛刻(不完整)、
+[![](img/06e0627871e52e5e85a37c2488182acf.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--g3N4Oenm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/v1/../gallery/diamond.svg) 对数据分布一致苛刻(不完整)、
 
 都是围绕着它建立的。
 
@@ -177,7 +177,7 @@ static void *memory_allocate(size_t size) {
 
 到目前为止发生的事情可以用下图来总结，(我们假设`do_slabs_newslab(n)`被调用了两次)
 
-[![new slabs](../Images/7153769d58a0c24ab0fb40c81c2ed07b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E7LxyxpS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/irsa62d1t65dlw22mb8t.png)
+[![new slabs](img/7153769d58a0c24ab0fb40c81c2ed07b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E7LxyxpS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/irsa62d1t65dlw22mb8t.png)
 
 现在我们来看看第 6 步中的 1M 厚**厚片**的内部。
 
@@ -245,7 +245,7 @@ typedef struct _stritem {
 
 3)更新可用(空闲列表)槽计数，[slab class _ t . sl _ curr](https://holmeshe.me/understanding-memcached-source-code-I/#core_ds)；并更新 [slabclass_t.requested](https://holmeshe.me/understanding-memcached-source-code-I/#core_ds) 进行统计。注意，这里我们实际上并没有释放一个**项**，所以传递的`size`是 0。
 
-[![free list](../Images/0410cfbfc5fb2fbd8dafd4692d32f789.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kObVFJoD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n445ucqde12rcab2wued.png)
+[![free list](img/0410cfbfc5fb2fbd8dafd4692d32f789.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kObVFJoD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n445ucqde12rcab2wued.png)
 
 # 板坯预分配
 

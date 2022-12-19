@@ -58,7 +58,7 @@ Flutter 文档提供了对 [Android Studio](https://flutter.io/get-started/test-
 
 我目前正在接触 VS 代码，所以我在这里的所有笔记/观察都会反映出那个编辑器的用法。
 
-<figure>[![](../Images/1244fd0d6db1e8761a358a66466ae1b8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GxwJalMW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/400/1%2AcNDZgHJxcpGdAG9jbpgKgw.png) 
+<figure>[![](img/1244fd0d6db1e8761a358a66466ae1b8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GxwJalMW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/400/1%2AcNDZgHJxcpGdAG9jbpgKgw.png) 
 
 <figcaption>样板文件【你好世界】app 上飘起</figcaption>
 

@@ -162,15 +162,15 @@ Enter fullscreen mode Exit fullscreen mode
 
 为了确保我知道在每个给定时间哪个连接正在被使用，我使用 [Dashbird 的调用视图](https://dashbird.io/features/aws-lambda-serverless-monitoring/)来检查我的 [Lambda](https://aws.amazon.com/lambda/) 日志。
 
-[![Lambda invocation log creating new](../Images/d2a5c48fbde213c22a02b6cb1d673021.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yqxZhA88--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/invisible-scaling-issues/create-connection.png)
+[![Lambda invocation log creating new](img/d2a5c48fbde213c22a02b6cb1d673021.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yqxZhA88--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/invisible-scaling-issues/create-connection.png)
 
 在这里，您可以看到它在第一次调用时创建了一个新的连接，同时在后续调用中重用它。
 
-[![lambda invocation log using existing](../Images/b935c7f646dc99bf1342436568e37fdb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7ZWNRhfJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/invisible-scaling-issues/existing-connection.png)
+[![lambda invocation log using existing](img/b935c7f646dc99bf1342436568e37fdb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7ZWNRhfJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/invisible-scaling-issues/existing-connection.png)
 
 这项服务是 14 天免费的，所以你可以[查看一下，如果你想要](https://dashbird.io/register/)的话。[如果你想要延长试用期，请告诉我](//mailto:adnan@dashbird.io)，或者[加入我的简讯](https://upscri.be/b6f3d5/)。😊
 
-[![Dashbird gif](../Images/481c611a09dbc6cd047662bb2899a467.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fqoMkf2m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/invisible-scaling-issues/dashbird-stitch.gif)
+[![Dashbird gif](img/481c611a09dbc6cd047662bb2899a467.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fqoMkf2m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/adnanrahic/cdn/master/invisible-scaling-issues/dashbird-stitch.gif)
 
 ### 包装完毕
 
@@ -194,7 +194,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 希望你们喜欢读这篇文章，就像我喜欢写这篇文章一样。下次见，保持好奇，玩得开心。
 
-[![This months sponsor is Zeet.](../Images/a4da9440f5519d3156594813d3a02017.png)T2】](https://bit.ly/adnan-zeet)
+[![This months sponsor is Zeet.](img/a4da9440f5519d3156594813d3a02017.png)T2】](https://bit.ly/adnan-zeet)
 
 免责声明: [Zeet](https://bit.ly/adnan-zeet) 将在下个月赞助这篇博客。前几天我试过了。这就像无服务器，但运行整个后端。你可以自动托管和扩展应用。相当整洁。
 

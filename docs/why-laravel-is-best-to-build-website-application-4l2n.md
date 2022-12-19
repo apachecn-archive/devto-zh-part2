@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/mitultechs/why-laravel-is-best-to-build-website-application-4l2n>
 
-[![](../Images/0ebf5114563d86cc84cc196ed64e9be6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1eLai-r0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/64v71513ef15yi5nawed.png)
+[![](img/0ebf5114563d86cc84cc196ed64e9be6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1eLai-r0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/64v71513ef15yi5nawed.png)
 
 如今，商人希望通过构建 web 应用程序来经营在线业务。web 应用程序使您的业务变得更容易、更简单。通过使用 web 应用程序，您可以更快地实现您的业务目标。你可以同时获得许多目标客户和顾客。此外，您可以使用 web 应用程序来增加您的业务需求。
 
@@ -26,7 +26,7 @@ Laravel 包使用模块管理您的大型 Laravel 应用程序。Laravel 的一�
 
 ### **路由**
 
-[![](../Images/cdb6bc92e69d9c8d4fe7b399184ef830.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LRNjcy7g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uwaxrwaia3kijsbn1l2d.png)
+[![](img/cdb6bc92e69d9c8d4fe7b399184ef830.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LRNjcy7g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uwaxrwaia3kijsbn1l2d.png)
 
 Laravel 有一个惊人的路由功能。Laravel 路由接受 URL 和闭包，后者提供了定义不同路由的简单方法。路由允许重定向用于执行单个重定向的路由。单一航路为总管制员的行动创建航路。
 
@@ -36,7 +36,7 @@ Laravel 框架有一个数据迁移的特性。迁移用于控制您的数据库
 
 ### **匠**
 
-[![](../Images/3b045257fa054aa6a2f155546b8c6c97.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RuSGZ_AO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wpp4ed0p5cukwli5ag4s.png)
+[![](img/3b045257fa054aa6a2f155546b8c6c97.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RuSGZ_AO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wpp4ed0p5cukwli5ag4s.png)
 
 Artisan 是一个定制的控制台命令，它提供了许多开发 web 应用程序的命令。该命令有助于加快开发过程。这个框架处理所有让你头疼的事情，并为你做得最好。这意味着 Laravel 框架使用 artisan 命令创建和处理 Laravel 项目环境。
 

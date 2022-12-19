@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/plainprogrammer/overtime-hurts-your-software-your-team-1324>
 
-[![](../Images/51b9c0d314d691969d903bddb3d08fe4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UyZy6nqQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://james.thomps.onl/wp-content/uploads/2019/07/fc58b-1i2mzebkb5jmjwnjythudrw.jpeg) 
+[![](img/51b9c0d314d691969d903bddb3d08fe4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UyZy6nqQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://james.thomps.onl/wp-content/uploads/2019/07/fc58b-1i2mzebkb5jmjwnjythudrw.jpeg) 
 
 <figcaption>照片由 energepic.com 从佩克斯</figcaption>
 

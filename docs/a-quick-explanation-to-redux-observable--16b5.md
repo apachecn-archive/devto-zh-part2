@@ -22,7 +22,7 @@
 4.  还原器反映返回一个新状态。
 
 下面是一个快速示意图
-[![alt text](../Images/545eea7819581cef2e55bc68a02a5d13.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rjSyJRpQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s0qgjzrptdalvg4xkqkm.png)
+[![alt text](img/545eea7819581cef2e55bc68a02a5d13.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rjSyJRpQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s0qgjzrptdalvg4xkqkm.png)
 
 它在代码中的样子。按照 [`redux-ducks`](https://github.com/erikras/ducks-modular-redux) 的模式，我会把所有东西放在同一个文件中。
 

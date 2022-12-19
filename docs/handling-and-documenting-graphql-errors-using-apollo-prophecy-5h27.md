@@ -10,7 +10,7 @@
 
 在客户端/服务器架构的环境中，我们需要服务器输出**格式良好的**和**易于识别的错误**，客户端可以**无缝读取、处理**和**处理**，以便**成功失败**。
 
-[![**E.g. a successful failure**](../Images/a09634a15f8f0dbef900bbc6d2c9393b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---xfaLHib--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AH4fjHIsJZblHY6YgiHMoTg.jpeg)
+[![**E.g. a successful failure**](img/a09634a15f8f0dbef900bbc6d2c9393b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---xfaLHib--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AH4fjHIsJZblHY6YgiHMoTg.jpeg)
 
 GraphQL 驱动的 API 没有**例外**(有意双关😏)到这个规律。以下是 GraphQL 规范的最新草案*(孙，2018 . 6 . 10)*关于错误输出应该如何格式化的内容。
 

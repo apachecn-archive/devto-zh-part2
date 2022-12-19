@@ -4,7 +4,7 @@
 
 *上一篇文章([https://dev . to/lucpattyn/basic-programming-concepts-for-初学者-2o73](https://dev.to/lucpattyn/basic-programming-concepts-for-beginners-2o73) )讨论了变量如何驻留在内存中，它们如何被引用和用于基本操作，以及最终被赋值或覆盖。考虑到是地下室，是时候去一楼和更高的楼层了..*
 
-[![](../Images/45760a8e625c5841969eb238f78bfc24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IYevXKgO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bmr8mqwbg62modu7fbzf.jpg)
+[![](img/45760a8e625c5841969eb238f78bfc24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IYevXKgO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bmr8mqwbg62modu7fbzf.jpg)
 
 ## 编程结构
 
@@ -29,7 +29,7 @@
 
 序列结构告诉 CPU(处理器)接下来要执行哪个语句。默认情况下，在流行的语言中，这是程序中当前语句或第一条语句之后的语句。换句话说，这是编写程序的最基本的结构。你只需要一行一行地写下你心中所想(当然与编程有关)。
 
-[![](../Images/f08589daba00a89b1ba198b95b58fc0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jT9Oqg6x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/obqvag8n61tuvce59ys8.png)
+[![](img/f08589daba00a89b1ba198b95b58fc0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jT9Oqg6x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/obqvag8n61tuvce59ys8.png)
 
 <small>除了默认序列，有些语言支持“goto”语句跳过某些语句，跳转到完全不同的一组语句；然而，这是非常令人沮丧的。如果热心的读者已经很好地理解了其他编程结构，他们可以在网上查找。</small>
 
@@ -45,7 +45,7 @@
 
 这是一个选择的例子，下面有一点说明:
 
-[![](../Images/999d0acb4023c1452df67e9bec43297e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--trT14u0v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7lobdqoi1uv572qbmymg.png)
+[![](img/999d0acb4023c1452df67e9bec43297e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--trT14u0v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7lobdqoi1uv572qbmymg.png)
 
 现在开始重复..
 
@@ -62,7 +62,7 @@
 
 所以整个过程在下面的一个可视化中:
 
-[![](../Images/3ea6f7adaca3fae27a7547c07567a2e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qO5djBFy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ebiaw18wnm51np5fowji.png)
+[![](img/3ea6f7adaca3fae27a7547c07567a2e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qO5djBFy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ebiaw18wnm51np5fowji.png)
 
 请注意，我们几乎无缝地从一个楼层移动到下一个楼层，从零开始(基本编程概念)。第一层是正常事情一件接一件发生的地方，在这里我们只有一个基本流程- *一个接一个的陈述*。
 
@@ -70,7 +70,7 @@
 
 最后到第三层，这里发生了一件非常重要的事情。在那里，*重复*前面几层的经验(采取的步骤)，我们实际上开发了一个完整的工作流程，在这个流程中，员工的工资是在(20 个工作日)月末计算和发放的。
 
-[![](../Images/899a2885d4fe34999fb889d1fb481596.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--li9k4feh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uppz8ul5yb0hfmphz5ev.jpg)
+[![](img/899a2885d4fe34999fb889d1fb481596.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--li9k4feh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uppz8ul5yb0hfmphz5ev.jpg)
 
 信不信由你，我们刚刚跨过了编程的本质-
 

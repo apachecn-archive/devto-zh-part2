@@ -4,7 +4,7 @@
 
 这是我为回应这条推特而写的推特帖子的延伸，也是关于剑桥分析启示的帖子。
 
-> ![](../Images/098d5151925f95c05b35821cb3d7c3c4.png)(((Yonatan Zunger))@ yonatanzunger![](../Images/4d9c44713c216584b3d48ff3455cbb68.png)我不是计算机专业上来的；我以前是物理学家。这种转变让我对这种情况有了一个相当具体的看法:计算机科学是一个尚未遭遇后果的领域。01:32am-2018 年 3 月 19 日[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=975545527973462016)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=975545527973462016)1952 年 [![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=975545527973462016) 4379
+> ![](img/098d5151925f95c05b35821cb3d7c3c4.png)(((Yonatan Zunger))@ yonatanzunger![](img/4d9c44713c216584b3d48ff3455cbb68.png)我不是计算机专业上来的；我以前是物理学家。这种转变让我对这种情况有了一个相当具体的看法:计算机科学是一个尚未遭遇后果的领域。01:32am-2018 年 3 月 19 日[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=975545527973462016)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=975545527973462016)1952 年 [![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=975545527973462016) 4379
 
 现代社会的一个关键问题是获取这些工具有多容易。你不需要专业训练就能把这些串在一起。
 
@@ -32,6 +32,6 @@
 
 你可以在这里看到我最初的推文和回复:
 
-> ![](../Images/d1b2e91a401b53c2e038298481571662.png)craignicol@ craignicol![](../Images/4d9c44713c216584b3d48ff3455cbb68.png)现代的一个关键问题是访问这些工具有多容易。你不需要专业训练就能把这些串在一起。[twitter.com/timoreilly/sta…](https://t.co/zhaA8Blz3L)2018 年 3 月 19 日下午 18:44蒂姆·奥莱利@蒂姆·奥莱利哇。这条线索是强大而重要的。计算机科学现在正在进行清算。脸书和剑桥分析只是冰山一角。[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=975805201977413633)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=975805201977413633)0[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=975805201977413633)0
+> ![](img/d1b2e91a401b53c2e038298481571662.png)craignicol@ craignicol![](img/4d9c44713c216584b3d48ff3455cbb68.png)现代的一个关键问题是访问这些工具有多容易。你不需要专业训练就能把这些串在一起。[twitter.com/timoreilly/sta…](https://t.co/zhaA8Blz3L)2018 年 3 月 19 日下午 18:44蒂姆·奥莱利@蒂姆·奥莱利哇。这条线索是强大而重要的。计算机科学现在正在进行清算。脸书和剑桥分析只是冰山一角。[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=975805201977413633)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=975805201977413633)0[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=975805201977413633)0
 
 [卫报在他们的播客上有一个关于人工智能、生存威胁和伦理的采访。](http://pca.st/ksw0)

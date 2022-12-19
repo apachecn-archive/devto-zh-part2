@@ -18,7 +18,7 @@
 
 要访问命令行界面，您将使用 macOS 提供的终端应用程序。像任何其他应用程序一样，您可以通过进入 Finder，导航到“应用程序”文件夹，然后进入“实用工具”文件夹来找到它。在这里，双击终端应用程序将其打开。或者，您可以通过按住`COMMAND`键并按下`SPACE`来使用 Spotlight，通过在出现的框中键入来找到终端。
 
-[![macOS Terminal](../Images/74ee4319633c9fcced7a06d56160fee2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OQxUE0Wu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assets.digitalocean.com/articles/eng_python/OSXSetUp/MacOSXSetUp.png)
+[![macOS Terminal](img/74ee4319633c9fcced7a06d56160fee2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OQxUE0Wu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assets.digitalocean.com/articles/eng_python/OSXSetUp/MacOSXSetUp.png)
 
 如果您想更好地使用命令行，请看一下[对 Linux 终端](https://www.digitalocean.com/community/tutorials/an-introduction-to-the-linux-terminal)的介绍。macOS 上的命令行界面非常相似，直接套用那个教程里的概念。
 
@@ -239,6 +239,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 * * *
 
-[![CC 4.0 License](../Images/4662fd03838b335557c183fd57c6b02c.png)T2】](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![CC 4.0 License](img/4662fd03838b335557c183fd57c6b02c.png)T2】](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 *本作品根据[知识共享署名-非商业性使用-类似共享 4.0 国际许可证](http://creativecommons.org/licenses/by-nc-sa/4.0/)* 进行许可

@@ -49,7 +49,7 @@
 
 现在我们知道了服务人员的能力，让我们更仔细地看看他们的生命周期。
 
-[![Service worker lifecycle](../Images/675b1b34910242837c5b251df614d21b.png "Service worker lifecycle")T2】](https://simon-hofmann.org/img/sw_lifecycle.png)
+[![Service worker lifecycle](img/675b1b34910242837c5b251df614d21b.png "Service worker lifecycle")T2】](https://simon-hofmann.org/img/sw_lifecycle.png)
 
 每当用户访问我们的 PWA 时，它的浏览器都会解析我们的`index.html`页面。在这个页面的某个地方，应该有一个`<script>`标签，其中包含注册服务人员的代码。
 

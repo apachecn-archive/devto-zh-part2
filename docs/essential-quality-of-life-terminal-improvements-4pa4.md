@@ -144,7 +144,7 @@ PS1 是您通常会在命令提示符下看到的字符串。PS2 是当您在命
 
 <figure>
 
-[![A picture of my terminal reading `grep "something` and several secondary prompt lines with a knife emoji instead of `>`](../Images/21f237566446a8d2ba6f7515dd8cdbc0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A-xnWb_L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b0raqf1gray5yk7472ca.png)
+[![A picture of my terminal reading `grep "something` and several secondary prompt lines with a knife emoji instead of `>`](img/21f237566446a8d2ba6f7515dd8cdbc0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A-xnWb_L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b0raqf1gray5yk7472ca.png)
 
 <figcaption>I like the knife emoji here because I almost never intentionally trigger the secondary prompt string</figcaption>
 
@@ -176,7 +176,7 @@ PS1="\e[0;35m\w\e[m \e[0;33m|\e[m \e[0;36m\$(parse_git_branch)\e[m 👾 "
 
 <figure>
 
-[![Terminal prompt with current working directory in purple, a yellow vertical pipe, active git branch in cyan, and an alien emoji](../Images/d57fd5104f930cd1459c09fe75219fa0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UnbJeOB3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4cpb0sdk0qv1j9yabndt.png)
+[![Terminal prompt with current working directory in purple, a yellow vertical pipe, active git branch in cyan, and an alien emoji](img/d57fd5104f930cd1459c09fe75219fa0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UnbJeOB3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4cpb0sdk0qv1j9yabndt.png)
 
 <figcaption>So much visual information packed in with these colors!</figcaption>
 
@@ -207,7 +207,7 @@ PS1="\e[0;35m\w\e[m \e[0;33m|\e[m \e[0;36m\$(parse_git_branch)\e[m 👾 "
 
 <figure>
 
-[![A screenshot of my terminal output from neofetch, including rainbow ascii art of a demon, operating system and kernel info, uptime, etc.](../Images/e4867816d8dc643411002be0444c52dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6dAKS8fc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vhu4e938i5s9zzgc7put.png)
+[![A screenshot of my terminal output from neofetch, including rainbow ascii art of a demon, operating system and kernel info, uptime, etc.](img/e4867816d8dc643411002be0444c52dc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6dAKS8fc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vhu4e938i5s9zzgc7put.png)
 
 <figcaption>It's almost Halloween, so I have to show off some spoopy ascii</figcaption>
 
@@ -239,7 +239,7 @@ PS1="\e[0;35m\w\e[m \e[0;33m|\e[m \e[0;36m\$(parse_git_branch)\e[m 👾 "
 
 <figure>
 
-[![Git status output with updated color profile](../Images/c5408419a748d8dada5f5bec2dec3b09.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UcTRiJ20--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kn42otpps1qnjtcizvpr.png)
+[![Git status output with updated color profile](img/c5408419a748d8dada5f5bec2dec3b09.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UcTRiJ20--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kn42otpps1qnjtcizvpr.png)
 
 <figcaption>git status with cyan untracked files</figcaption>
 
@@ -247,7 +247,7 @@ PS1="\e[0;35m\w\e[m \e[0;33m|\e[m \e[0;36m\$(parse_git_branch)\e[m 👾 "
 
 <figure>
 
-[![Git diff output with updated color profile](../Images/a7eb7655f49f4f90e28f5d2ca85856eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f1DPfBDp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tiuekgt6cip3ce12rpve.png)
+[![Git diff output with updated color profile](img/a7eb7655f49f4f90e28f5d2ca85856eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f1DPfBDp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tiuekgt6cip3ce12rpve.png)
 
 <figcaption>git diff with bold cyan metadata, bold magenta fragment data</figcaption>
 
@@ -255,7 +255,7 @@ PS1="\e[0;35m\w\e[m \e[0;33m|\e[m \e[0;36m\$(parse_git_branch)\e[m 👾 "
 
 <figure>
 
-[![Git branch output with updated color profile](../Images/7736c97bd5ab254c92f0626b3d9608b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LZuAo1pF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a6pn4j5mdchp7g38rvv3.png)
+[![Git branch output with updated color profile](img/7736c97bd5ab254c92f0626b3d9608b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LZuAo1pF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a6pn4j5mdchp7g38rvv3.png)
 
 <figcaption>git branch with green for local branches and reverse cyan for current branch</figcaption>
 
@@ -320,7 +320,7 @@ email = my.github.email@example.com
 
 看看开发者社区成员过去分享的终端截图。
 
-[![itsjzt image](../Images/391ea7f190675a0e1c097528af77b4e6.png)](/itsjzt) [## 我能看看你的终端吗？
+[![itsjzt image](img/391ea7f190675a0e1c097528af77b4e6.png)](/itsjzt) [## 我能看看你的终端吗？
 
 ### saura BH Sharma Feb 28 ' 181min read
 
@@ -328,7 +328,7 @@ email = my.github.email@example.com
 
 你的终端需要更多的瑞恩·高斯林吗？我很确定你知道。
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png)[kori roys](https://github.com/koriroys)/[goslip](https://github.com/koriroys/gosleap)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png)[kori roys](https://github.com/koriroys)/[goslip](https://github.com/koriroys/gosleap)
 
 ### 让瑞恩·高斯林跳过你的屏幕
 
@@ -340,7 +340,7 @@ email = my.github.email@example.com
 
 ## 使用
 
-[![ryan gosling jumps across the screen](../Images/2cc0709124def96a114cee75d7fb1150.png)T2】](https://camo.githubusercontent.com/62af169605ecfdf78242ce4fbc490523ea7f3cf4/68747470733a2f2f7261772e6769746875622e636f6d2f6b6f7269726f79732f676f736c6561702f6d61737465722f676f736c6561702e676966)
+[![ryan gosling jumps across the screen](img/2cc0709124def96a114cee75d7fb1150.png)T2】](https://camo.githubusercontent.com/62af169605ecfdf78242ce4fbc490523ea7f3cf4/68747470733a2f2f7261772e6769746875622e636f6d2f6b6f7269726f79732f676f736c6561702f6d61737465722f676f736c6561702e676966)
 
 ## 装置
 

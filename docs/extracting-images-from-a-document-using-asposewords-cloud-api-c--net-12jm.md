@@ -12,7 +12,7 @@
 
 我在 Visual Studio 中的解决方案如下所示:
 
-[![Solution](../Images/22624d9bdea02d6093866e5436d3361d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I6szGnSE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c1u7vug1ph44wikucvyp.jpg)
+[![Solution](img/22624d9bdea02d6093866e5436d3361d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I6szGnSE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c1u7vug1ph44wikucvyp.jpg)
 
 下面的代码显示了一个示例 ExtractImages 方法。
 

@@ -6,7 +6,7 @@
 
 这些概念被很好地描述和概括。如果您正在选择一个框架，或者甚至正在构建一个框架，我建议考虑这四个概念。
 
-[![rrampage profile image](../Images/7c8fcb60282be937fb7f1f8b3adc8b20.png) ](/rrampage) [ Raunak Ramakrishnan ](/rrampage) • [<time datetime="2018-08-25T06:42:09Z" class="date-short-year"> Aug 25 '18 </time> • Edited on <time datetime="2018-08-25T06:42:53Z" class="hidden m:inline-block date-no-year">Aug 25</time>](https://dev.to/rrampage/comment/525l) 
+[![rrampage profile image](img/7c8fcb60282be937fb7f1f8b3adc8b20.png) ](/rrampage) [ Raunak Ramakrishnan ](/rrampage) • [<time datetime="2018-08-25T06:42:09Z" class="date-short-year"> Aug 25 '18 </time> • Edited on <time datetime="2018-08-25T06:42:53Z" class="hidden m:inline-block date-no-year">Aug 25</time>](https://dev.to/rrampage/comment/525l) 
 
 以下是关于生态系统健康的几点:
 

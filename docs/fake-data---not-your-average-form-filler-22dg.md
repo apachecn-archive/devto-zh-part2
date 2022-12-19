@@ -53,7 +53,7 @@ chrome:[https://chrome . Google . com/web store/detail/fake-data-a-form-filler-y
 
 还有一些能凑成 1000 字的截图:
 
-[![Fake Data - Ready to use out of the box](../Images/087802ef7717df46950dc8c7ac5efea7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jeDrO3Kh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://fakedata.haterapps.com/assets/presentation/1.png)
-[![Fake Data - Awesome and powerful user interface](../Images/4ebbe06062ca6c7699b16c9cae8c54b1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WCwlM-Rk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://fakedata.haterapps.com/assets/presentation/2.png)
-[![Fake Data - Everything is very customisable as you would expect](../Images/d495d4fb03f1e9061050d11eb31915c7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gUaAJGoe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://fakedata.haterapps.com/assets/presentation/3.png)
-[![Fake Data - So customisable that you can use even your own code](../Images/5df87c8c0fca1ec595039674dbe5fec9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wYvYX6hr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://fakedata.haterapps.com/assets/presentation/4.png)
+[![Fake Data - Ready to use out of the box](img/087802ef7717df46950dc8c7ac5efea7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jeDrO3Kh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://fakedata.haterapps.com/assets/presentation/1.png)
+[![Fake Data - Awesome and powerful user interface](img/4ebbe06062ca6c7699b16c9cae8c54b1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WCwlM-Rk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://fakedata.haterapps.com/assets/presentation/2.png)
+[![Fake Data - Everything is very customisable as you would expect](img/d495d4fb03f1e9061050d11eb31915c7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gUaAJGoe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://fakedata.haterapps.com/assets/presentation/3.png)
+[![Fake Data - So customisable that you can use even your own code](img/5df87c8c0fca1ec595039674dbe5fec9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wYvYX6hr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://fakedata.haterapps.com/assets/presentation/4.png)

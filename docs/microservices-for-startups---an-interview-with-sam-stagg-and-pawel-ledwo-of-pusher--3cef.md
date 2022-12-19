@@ -4,9 +4,9 @@
 
 *这次采访是为我们的[创业微服务](https://buttercms.com/books/microservices-for-startups/)电子书而做的。一定要去看看关于微服务的实用建议。感谢 Sam 和 Pawel 的时间和投入！*
 
-*[![](../Images/e8688a235788f5d7490538d8c55d8b75.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Di-XnFuh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/FLZxSskTGmN9gymGQtXT)* 
+*[![](img/e8688a235788f5d7490538d8c55d8b75.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Di-XnFuh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/FLZxSskTGmN9gymGQtXT)* 
 
-*[![](../Images/50ea6f3056092c7c415aa166137d09a4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qyPJqYs8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://trello-attachments.s3.amazonaws.com/5a060babf3fe308be02e652d/5a661886a42f24016833ca98/eceb3e53ec899380b7623367c528d3f0/smaller.png)T4】*
+*[![](img/50ea6f3056092c7c415aa166137d09a4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qyPJqYs8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://trello-attachments.s3.amazonaws.com/5a060babf3fe308be02e652d/5a661886a42f24016833ca98/eceb3e53ec899380b7623367c528d3f0/smaller.png)T4】*
 
 萨姆·斯塔格是[推进方](https://goo.gl/jMyqfG)的工程副总裁。[Pawel led wo](https://twitter.com/pawel_ledwon?lang=en)是推进器的平台领导。Pusher 的实时通信和协作 API 允许开发人员构建应用内通知、活动流、聊天、仪表盘、协作工具以及多人游戏等功能。
 

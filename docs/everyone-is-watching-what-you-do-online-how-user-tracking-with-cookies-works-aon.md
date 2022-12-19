@@ -8,7 +8,7 @@
 
 这篇博文解释了看似完全不相关的网站是如何知道你在网上做什么的。
 
-[![cookie trail of crumbles](../Images/cf551134b64765c39dcebd1be0781fe4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---nsLkTUO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.blinkingcaret.com/wp-content/uploads/2018/06/cookie-trail-of-crumbes.jpg)
+[![cookie trail of crumbles](img/cf551134b64765c39dcebd1be0781fe4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---nsLkTUO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.blinkingcaret.com/wp-content/uploads/2018/06/cookie-trail-of-crumbes.jpg)
 
 ## 一切从饼干开始
 

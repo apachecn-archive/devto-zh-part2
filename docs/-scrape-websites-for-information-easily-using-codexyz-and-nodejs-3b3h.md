@@ -6,7 +6,7 @@
 
 [web scraper 是一种工具，它允许我们选择网站的非结构化数据并将其转换为结构化数据库。那么 web scraper 在哪里会派上用场呢？我已经列出了我最喜欢的用例，让您对推出自己的用例感到兴奋！](https://hackernoon.com/scrape-websites-for-information-easily-using-code-xyz-and-node-js-8be3e2f938ab?source=your_stories_page)
 
-[![This question on Quora encouraged me to build my web scraper](../Images/e0649634225325289492774ec371ccf7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7AZLJsss--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1800/1%2A-DBbNhQcVm_ssUd4Om2oUA.png) 。
+[![This question on Quora encouraged me to build my web scraper](img/e0649634225325289492774ec371ccf7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7AZLJsss--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1800/1%2A-DBbNhQcVm_ssUd4Om2oUA.png) 。
 
 Quora 上的这个问题鼓励我建立我的网络抓取器。
 
@@ -25,7 +25,7 @@ Quora 上的这个问题鼓励我建立我的网络抓取器。
 
 第一步是前往[https://code.xyz/](https://code.xyz/)创建一个免费账户。Code.xyz 是由 Standard Library 的团队构建的在线 API 编辑器——一个用于快速构建 API、webhooks 和工作流自动化任务的嵌入式开发环境。
 
-[![Sign Up using Code.xyz-online API editor](../Images/95b65b5e42ad17713f1b7702b4116978.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LBe6whez--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1440/1%2Aql_HL0-jHwQINyab-NaJVw.png)
+[![Sign Up using Code.xyz-online API editor](img/95b65b5e42ad17713f1b7702b4116978.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LBe6whez--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1440/1%2Aql_HL0-jHwQINyab-NaJVw.png)
 
 在 Code.xyz 的左下角点击(**签到**)。如果您有 StdLib 帐户，请点击**已注册**，并使用您的 StdLib 凭证登录。
 
@@ -33,7 +33,7 @@ Quora 上的这个问题鼓励我建立我的网络抓取器。
 
 创建帐户后，将出现一个不同的模块，列出订购计划。一个**免费账户**是你开始的全部需要。
 
-[![Pricing Packages](../Images/39943abd64c2ad792fb9c015a9cc135f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uSRTUlfz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1080/1%2AextzFiXN8e0UbLsm7Y2Ppg.png)
+[![Pricing Packages](img/39943abd64c2ad792fb9c015a9cc135f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uSRTUlfz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1080/1%2AextzFiXN8e0UbLsm7Y2Ppg.png)
 
 一旦你点击**订阅+赚取积分**，你应该会看到一个确认消息弹出。
 
@@ -47,13 +47,13 @@ Quora 上的这个问题鼓励我建立我的网络抓取器。
 
 **@nemo/web -scraper。**确保为您的 API 输入您想要的名称，并点击**确定**(或按回车键)
 
-[![Sourcecode](../Images/c854a11dcc89d0e8f758ab7e5fc3848f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6pDlU6Qf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mz6woej0j6tx8oh6qz94.png)
+[![Sourcecode](img/c854a11dcc89d0e8f758ab7e5fc3848f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6pDlU6Qf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mz6woej0j6tx8oh6qz94.png)
 
 然后你会看到你的端点代码在:`functions/__main__.js`
 
 下。在右边你会注意到一个参数框。
 
-[![parameters box](../Images/9d4a5f1efadf3d1b23fa0daaad295fce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RqVV35U9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1080/1%2Aowqsessjwq39-cbYI5glLw.png)
+[![parameters box](img/9d4a5f1efadf3d1b23fa0daaad295fce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RqVV35U9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1080/1%2Aowqsessjwq39-cbYI5glLw.png)
 
 在 URL 中需要的参数类型:
 
@@ -67,7 +67,7 @@ Quora 上的这个问题鼓励我建立我的网络抓取器。
 
 在几秒钟之内，您应该会在 Code.xyz 的**结果**部分下看到一个来自[黑客新闻](https://news.ycombinator.com/newest)首页的链接标题列表。您会注意到一个文档门户——将文档 URL 复制并粘贴到浏览器的一个新标签中，以便在 StdLib 上查看您的 API 信息。
 
-[![Results Section](../Images/094ff341426226ffe7d1da8cf351106c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NQ1_4Kgy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1440/1%2AKJygl5ov7-iN7yjfyrr-wQ.png)
+[![Results Section](img/094ff341426226ffe7d1da8cf351106c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NQ1_4Kgy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1440/1%2AKJygl5ov7-iN7yjfyrr-wQ.png)
 
 ## **工作原理**🤓
 
@@ -81,17 +81,17 @@ web scraper 向 URL 发出一个简单的 GET 请求，并在结果页面上运�
 
 打开谷歌浏览器，输入我们的[黑客新闻](https://news.ycombinator.com/)网址【https://news.ycombinator.com/。然后右击任何文章的标题，选择“**检查。**“这将在谷歌浏览器上打开网络控制台。或者可以使用命令键 **(⌘)** +选择键 **(⌥ )** + **J** 键。
 
-[![HackerNews](../Images/f49eb9bef89e57a3411e51ef4de2dad2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FxvfFjc6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1440/1%2AD-9KCvnHgZmsJrTwMfbVHg.png)
+[![HackerNews](img/f49eb9bef89e57a3411e51ef4de2dad2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FxvfFjc6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1440/1%2AD-9KCvnHgZmsJrTwMfbVHg.png)
 
 右键单击并选择检查，web 开发人员控制台将在屏幕右侧打开。请注意，当您选择链接的标题时，控制台上的一个部分也会突出显示。突出显示的元素将“类”定义为“故事链接”现在你知道如何在任何网站上找到元素的名称了！
 
-[![Text](../Images/d01791cbc1c128ff405dee724a3b1084.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gfIc6Trc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1440/1%2A2NlgJ_bQ4GKTnWZYZWsRQA.png)
+[![Text](img/d01791cbc1c128ff405dee724a3b1084.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gfIc6Trc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1440/1%2A2NlgJ_bQ4GKTnWZYZWsRQA.png)
 
 如果你想在黑客新闻上查询不同的元数据，将光标悬停在它上面。下面你可以看到我是如何找到的。class selector = "sitestr "通过将鼠标悬停在 Hacker News 上的元素上来查询链接的 URL。
 
-[![text](../Images/742eba1624216e56fe90761345f32d74.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--seOaJYHE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1800/1%2AxLTlCTcRTTmaUJkMP1mItA.png)
+[![text](img/742eba1624216e56fe90761345f32d74.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--seOaJYHE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1800/1%2AxLTlCTcRTTmaUJkMP1mItA.png)
 
-[![Text](../Images/779f933f78ef31a236c2bcba46980548.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pWEsLpVS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1800/1%2AoZHHFQ8jxuUUP4t_NzHVjw.png)
+[![Text](img/779f933f78ef31a236c2bcba46980548.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pWEsLpVS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1800/1%2AoZHHFQ8jxuUUP4t_NzHVjw.png)
 
 ## **就这样，谢谢！**
 

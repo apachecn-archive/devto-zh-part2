@@ -57,7 +57,7 @@ OCaml 的复杂性解释了为什么 OCaml 长期局限于学术项目。
 
 直到几年前，在脸书工作的[Jordan walker](https://twitter.com/jordwalke)用 SML (一种衍生的 OCaml 语言)创建了著名的 [React](https://reactjs.org/) 库[，并创建了 ReasonML。不久之后，他决定将 ReactJS 移植到普通 JavaScript，以获得更广泛的采用。](https://www.reactiflux.com/transcripts/jordan-walke/)
 
-[![](../Images/f194694eb5f29afd437512c5d34ab27d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d5NRHyeS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://marmelab.com/images/blog/reasonml/react.png)
+[![](img/f194694eb5f29afd437512c5d34ab27d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d5NRHyeS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://marmelab.cimg/blog/reasonml/react.png)
 
 ## BuckleScript 将 OCaml 带到了网络上
 
@@ -67,7 +67,7 @@ BuckleScript 将自己定义为理性的“姐妹”项目。事实上，**两�
 
 下面是从 Reason 到 JavaScript 的编译工作流程的一个小模式。在幕后，原因文件(`.re`)通过原因的 [OCaml 预处理程序被转换成普通的 OCaml](https://github.com/reasonml/reason-cli) [AST](https://en.wikipedia.org/wiki/Abstract_syntax_tree) 。然后这个 OCaml AST 由名为`bsc`的 [BuckleScript 编译器](https://github.com/BuckleScript/bucklescript)处理，生成普通的 JS 文件。
 
-[![](../Images/81e72ef96ff324f81ac0c30ead900294.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PxtHLvAg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://marmelab.com/images/blog/reasonml/reasontojs.png)
+[![](img/81e72ef96ff324f81ac0c30ead900294.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PxtHLvAg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://marmelab.cimg/blog/reasonml/reasontojs.png)
 
 编译过程比这里解释的要复杂一些。为了更详细地了解它，我建议你看一下[这个优秀的知识库](https://github.com/chenglou/intro-to-reason-compilation)归[成楼](https://github.com/chenglou)所有，他是在 [React Europe](https://www.react-europe.org/) 给我介绍讲道理的演讲者。
 
@@ -75,7 +75,7 @@ BuckleScript 将自己定义为理性的“姐妹”项目。事实上，**两�
 
 JavaScript 是一种非类型化语言，但是大型项目通常需要通过类型来实现额外的编程安全性。这就是为什么在 JavaScript 之上创建了许多工具来填补这一空白。其中，最受欢迎的大概是[打字稿](https://www.typescriptlang.org/)和[流](https://flow.org/)。
 
-[![](../Images/1ddbf79d99ee1bac863e9c3282102523.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OItHXieg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://marmelab.com/images/blog/reasonml/tsvsflow.png)
+[![](img/1ddbf79d99ee1bac863e9c3282102523.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OItHXieg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://marmelab.cimg/blog/reasonml/tsvsflow.png)
 
 *   **TypeScript** 是微软开发的开源编程语言。它作为 JavaScript 的一个严格的**语法超集，为其添加了静态类型。它也被认为是 [Angular](https://angular.io/) 开发的一级语言。**
 *   **Flow** 是一个由脸书开发的用于 JavaScript 的开源静态类型检查器。它作为一种**特定的语法(一种注释),在现有代码上添加类型**。
@@ -234,7 +234,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我已经介绍了类型和变体，这样我就可以谈论 rational 最有趣的特性之一:模式匹配。
 
-[![](../Images/0ec86b01d5e49aa846abc9551f7a3da2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_nGrjtdI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://marmelab.com/images/blog/reasonml/matching.png)
+[![](img/0ec86b01d5e49aa846abc9551f7a3da2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_nGrjtdI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://marmelab.cimg/blog/reasonml/matching.png)
 
 简而言之，模式匹配允许从结构中检查和提取数据。这是 JavaScript 中 RegExp.test 和 RegExp.exec 的一种混合，但是适用于所有类型的数据和任何地方(绑定和函数参数)。
 
@@ -382,8 +382,8 @@ Enter fullscreen mode Exit fullscreen mode
 
 而且，错误报告器(基于[梅林](https://github.com/ocaml/merlin))刚刚好。由于 OCaml 的 100%类型覆盖率，它给出了所有可能错误的详细解释。语法错误不太明显，但仍然给出了很好的反馈。这里有两个小例子，让你预览这些权力。
 
-[![](../Images/493ebde1878e8c78724029b8365905da.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--N8o250DX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://marmelab.com/images/blog/reasonml/error1.png)
-[![](../Images/84e4437d3c4e69f62ddbc3254e2b8321.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--kQ3LwvAJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://marmelab.com/images/blog/reasonml/error2.png)
+[![](img/493ebde1878e8c78724029b8365905da.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--N8o250DX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://marmelab.cimg/blog/reasonml/error1.png)
+[![](img/84e4437d3c4e69f62ddbc3254e2b8321.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--kQ3LwvAJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://marmelab.cimg/blog/reasonml/error2.png)
 
 ## 一个 React App 秒变！
 
@@ -602,7 +602,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 虽然`statelessComponent`充当功能组件 mixin，但是还有另一个特殊的 ReasonReact 函数叫做`reducerComponent`。该功能允许将类似“状态机”的架构直接包含到我们的组件中。
 
-[![](../Images/81a65b53f97e6266496a255c4e6186df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X5PYxvMb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://marmelab.com/images/blog/reasonml/redux.png)
+[![](img/81a65b53f97e6266496a255c4e6186df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X5PYxvMb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://marmelab.cimg/blog/reasonml/redux.png)
 
 使用该组件需要定义一个`initialState`和一个`reducer`函数，这两个函数包含所有的状态操作逻辑。那些已经使用过 [redux](https://redux.js.org/) 的人肯定会认出这个模式。
 
@@ -691,7 +691,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 由于[外部](https://reasonml.github.io/docs/en/external.html)(也称为 FFI 或“interop”)，Reason 允许与其他语言进行通信。使用“外部”是在 Reason 和任何其他语言之间编写安全、可预测和可靠的类型化代码的方法。
 
-[![](../Images/a39b6e7c4ba0fdebcce03ca8d4136886.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OXERF7rs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://marmelab.com/images/blog/reasonml/interop.png)
+[![](img/a39b6e7c4ba0fdebcce03ca8d4136886.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OXERF7rs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://marmelab.cimg/blog/reasonml/interop.png)
 
 外部世界是安全的理性世界和不安全的外部世界之间的一种类型化的契约/接口。正是这个系统允许 [bs-jest](https://github.com/glennsl/bs-jest) 和 [bs-enzyme](https://github.com/rhysforyou/bs-enzyme) 库进一步工作。
 

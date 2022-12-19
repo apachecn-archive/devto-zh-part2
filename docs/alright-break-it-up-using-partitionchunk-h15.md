@@ -47,7 +47,7 @@ Enum.chunk_by([1, 2, 2, 3, 4, 4, 6, 7, 7], &(rem(&1, 2) == 1))
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Divide and Conquer?](../Images/ea8a0b81b77f1d90620003ad53b821b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ddbCgLRy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0y5m5qompf6u26w7rq0z.jpeg)
+[![Divide and Conquer?](img/ea8a0b81b77f1d90620003ad53b821b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ddbCgLRy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0y5m5qompf6u26w7rq0z.jpeg)
 
 基本上，是的...分而治之。
 
@@ -114,13 +114,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 将`data`分成 4 个字节的增量允许我非常干净地将信息传递给`BitConverter`以转换成 32 位整数。我不必跟踪偏移量，并且有效地从我的代码中删除了整个偏移量或“偏离 x”的错误类别！
 
-[![No one expects off by one errors!](../Images/6e7139447a9f43c7db7c6ce7d21969d0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vgTMAdz2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pmx7ey6a1fdyb3fu5ggp.jpg)
+[![No one expects off by one errors!](img/6e7139447a9f43c7db7c6ce7d21969d0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vgTMAdz2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pmx7ey6a1fdyb3fu5ggp.jpg)
 
 # 只有部分数据重要
 
 让我们面对它:有时你只是不关心你的很多数据。
 
-[![It's really about like that](../Images/d37e0932fea406f357a61dd9a1c02fc0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--i6rBr3fE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ntbdkpvuu2wdmx22bu7i.png) 
+[![It's really about like that](img/d37e0932fea406f357a61dd9a1c02fc0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--i6rBr3fE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ntbdkpvuu2wdmx22bu7i.png) 
 图片归功于[这篇博文](https://www.capgemini.com/2012/09/communities-crossing-the-dont-care-line-and-love-your-haters/)
 
 假设你是一家快递公司，你想确保你的司机遵守速度限制。你真的不关心他们实际上这样做的时间，但当他们超过速度限制时，他们可能想找出原因。也许他们正在下坡，开始刹车晚了。也许他们在发短信，没有注意。谁知道呢？但是你应该从你的地图 API 中获取速度限制，从 GPS 中获取速度，并计算出司机何时超速，以及超速多长时间。让我们来看看查找超速超过一分钟的司机会是什么样子:
@@ -183,7 +183,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 呸。那是一大堆丑陋的逻辑！这里有六种可能的情况，当我们写出来的时候，我们必须记住所有的内部状态变量和它们的函数。我们**需要**所有这些开销来发现我们的司机何时超速？你肯定不是认真的吧！
 
-[![Surely you can't be serious?](../Images/72d1a824babf201e5c1e7779140a66eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kEZcunJJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d0eahtoe2yneapwdl2b8.jpg)
+[![Surely you can't be serious?](img/72d1a824babf201e5c1e7779140a66eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kEZcunJJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d0eahtoe2yneapwdl2b8.jpg)
 
 这就是函数分块派上用场的地方。在长生不老药里尝试这个(编辑:多亏了阿列克谢·马提乌什金才稍微修复了一下！):
 

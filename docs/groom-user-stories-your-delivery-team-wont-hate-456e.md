@@ -18,7 +18,7 @@
 
 我们生活在一个注意力持续时间短、注意力集中的精神带宽有限的世界。无论你相信新闻巨头延续的[点击诱饵帖子](https://www.nytimes.com/2016/01/22/opinion/the-eight-second-attention-span.html?_r=3)还是更愿意对调查结果保持[怀疑](http://www.bbc.com/news/health-38896790)，现代技术对我们消费(和忽视)信息的方式的影响是不可否认的。
 
-[![](../Images/53e272ee8c19cf12385a85a11a4992ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ApyVfthV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2A7C0ggaovo5jfo8nk.png)
+[![](img/53e272ee8c19cf12385a85a11a4992ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ApyVfthV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2A7C0ggaovo5jfo8nk.png)
 
 当讨论领导力、演讲、写作以及任何需要他人关注的活动时，人们通常会建议你尽快抓住他人的注意力，并尽可能长久地保持这种注意力。因此，我们创建的内容以一种迎合目标受众冲动需求的方式进行格式化和组织。
 
@@ -43,7 +43,7 @@
 
 整个交付团队负责向您的客户提供价值。团队的每个成员都有不同的需求和工作风格，这一点必须考虑在内。要想做到真正的敏捷，团队的每个成员都需要发挥不同才能的跨学科凝聚力的作用。因此，不应该期望这些不同角色的成员屈从于为业务优化的写作、组织和规划风格。这种共享的上下文在角色间很好地转换的机会很小。
 
-[![](../Images/dfd68257937b3b17e0f5ea9b1374bfdb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ci1niBEM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2A5c_eD3PTDqBj3_DR.jpg)
+[![](img/dfd68257937b3b17e0f5ea9b1374bfdb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ci1niBEM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2A5c_eD3PTDqBj3_DR.jpg)
 
 在梳理的时候，要考虑到你的团队的动态。**包括流程**中的每个角色。
 

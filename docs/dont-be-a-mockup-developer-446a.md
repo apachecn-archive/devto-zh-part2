@@ -4,7 +4,7 @@
 
 作为一名移动开发者，很多时候我不得不在没有准备好 API 的情况下开发应用程序，而这对于我正在实现的特性是至关重要的。要么后端是由另一个团队开发的，与我们不完全同步，要么我们的后端团队没有机会更早地实现这些端点。出于这个原因，我无法满足 Done 的[定义，但这并不意味着我只实现了 UI。](https://brightinventions.pl/blog/definition-of-done)
 
-[![Workspace image](../Images/67e790b06b0a7b8727b042b879595559.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EifBYh4c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6djs4e9qd0ta6g2re26x.jpg)
+[![Workspace image](img/67e790b06b0a7b8727b042b879595559.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EifBYh4c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6djs4e9qd0ta6g2re26x.jpg)
 
 ## 九十法则
 
@@ -43,7 +43,7 @@
 
 我们可以做的工作并不仅限于代码。因为我们知道我们期望从端点得到什么，以及我们必须提供什么数据，所以我们可以自己准备一个示例请求和响应结构。我们还可以准备一个已经可以在应用程序中处理的建议错误代码列表。API 原型将帮助我们更好地理解问题，后端开发人员肯定会感谢我们的努力。
 
-[![Shaking hands image](../Images/3a4c949e262700e8bea924166166ed30.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EfQk1Vnd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8tg43mkxhwgnurtskvqo.jpg)
+[![Shaking hands image](img/3a4c949e262700e8bea924166166ed30.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EfQk1Vnd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8tg43mkxhwgnurtskvqo.jpg)
 
 ## 尽力而为
 

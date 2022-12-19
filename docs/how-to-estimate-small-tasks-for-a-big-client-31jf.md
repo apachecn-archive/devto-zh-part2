@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/dudleysr/how-to-estimate-small-tasks-for-a-big-client-31jf>
 
-[![Estimating Tasks](../Images/fe33750a9a3626744c7f11c11ac1dd04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--waqUoUyd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w2dj4fyar5o54770vsah.png)
+[![Estimating Tasks](img/fe33750a9a3626744c7f11c11ac1dd04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--waqUoUyd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w2dj4fyar5o54770vsah.png)
 
 关于如何准确评估大型软件项目，有大量的文章、书籍和博客。一些需要多个开发人员花费一周、一个月或一年的时间的事情，几乎总是会有开发人员、项目经理和其他工作人员之间的会议，在会上评估会被检查和质疑。
 

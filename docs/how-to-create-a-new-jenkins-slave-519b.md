@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/gwllmnn/how-to-create-a-new-jenkins-slave-519b>
 
-[![](../Images/9a80a9bba656a019cd6bb28374c0b41f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ec5NynT1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/799/1%2AZmMvZvGsTb1NKCgDaDJFgg.png)
+[![](img/9a80a9bba656a019cd6bb28374c0b41f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ec5NynT1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/799/1%2AZmMvZvGsTb1NKCgDaDJFgg.png)
 
 所以你已经设置好了 Jenkins 的主实例，现在你想让 Jenkins 的从实例为你工作？
 
@@ -20,13 +20,13 @@
 
 *   如果你也打算使用 docker-compose，请安装它
 
-[![](../Images/cd80f68a6ca6ce96ba8e8c733fe83ab3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xdBHs9eU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/453/1%2AQVFjsW8gyIXeCUJucmK4XA.png)
+[![](img/cd80f68a6ca6ce96ba8e8c733fe83ab3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xdBHs9eU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/453/1%2AQVFjsW8gyIXeCUJucmK4XA.png)
 
 ### 向 Jenkins 的主实例添加一个新节点
 
 进入 Jenkins→管理 Jenkins→管理节点→新建节点，并填写如下不同字段。根据您的需求进行调整:
 
-[![](../Images/69df5b874333638c1daa66104d683401.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S3xyOZYW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AejfW074hGirq9ZWSmeEbQQ.png)
+[![](img/69df5b874333638c1daa66104d683401.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S3xyOZYW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AejfW074hGirq9ZWSmeEbQQ.png)
 
 就是这样！
 

@@ -4,11 +4,11 @@
 
 上周日，也就是 6 月 15 日，我参加了由分布式医疗网络倡议组织举办的技能分享会。这次会议包括一个由杰西卡·林恩牵头的关于黑人女性主义艺术批评的研讨会，以及一个由香农·芬尼根牵头的关于无障碍的研讨会。在最后一部分[中，Callil Capuozzo](https://twitter.com/_callil) 用 20 分钟简要介绍了如何使用 [Dat 协议](https://www.datprotocol.com/)，所以我将尝试快速总结一下我从这次研讨会中学到的东西。
 
-[![](../Images/6b5f1bd8dfb74d074828a211b0ac5108.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GdZT83xF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/a/a4/Dat-data-logo-2017.svg)
+[![](img/6b5f1bd8dfb74d074828a211b0ac5108.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GdZT83xF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/a/a4/Dat-data-logo-2017.svg)
 
 因此，对 web 当前形式的(非常)快速和肮脏的概括是，大多数信息是以自上而下的分层方式从服务器到客户端共享的。像应用程序这样的东西被托管在远程服务器(云)上，这使得浏览器仅仅作为一个接口来访问保存在其他地方的数据。我们通常使用 http 协议来访问这些数据。这在很多事情上都很有效，通常是一个成功的模式，但也不是没有缺点。将数据保存在其他地方的不利之处在于，可能会缺乏对所保存数据的所有权或隐私。对于用户之间固有的事情，如发送电子邮件或发送文件，我们涉及第三方(服务器)。
 
-[![A Slide from Paul Frazee's Peer2Peer Web Talk](../Images/88d3f7d41afd1a845f4f2c895527d24d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---XZL7-Vd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/04wu9fkbtucsmzwzid31.png)
+[![A Slide from Paul Frazee's Peer2Peer Web Talk](img/88d3f7d41afd1a845f4f2c895527d24d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---XZL7-Vd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/04wu9fkbtucsmzwzid31.png)
 
 > ##### [This picture is from Paul Frazee's presentation on the Peer 2 Peer Web in PDXNode on September 14th, 2017\.](https://www.youtube.com/watch?v=-ep0ZIe6i10)
 
@@ -58,7 +58,7 @@ Ctrl+C to Exit
 
 这将为我初始化一个 dat 存储库。实际上，dat share 已经创建了一组隐藏的元数据文件，如下所示，这些文件将保存加密的密钥和版本历史记录——实际上，如果文件被更改的话。它将同时让我的电脑作为一个微型服务器来存放文件。
 
-[![](../Images/4cbe13f9a99ac752854f6dbb1b660490.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1q1JI_Q7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/14w8nsxuwjt2iok08zg3.png)
+[![](img/4cbe13f9a99ac752854f6dbb1b660490.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1q1JI_Q7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/14w8nsxuwjt2iok08zg3.png)
 
 如果文件从源位置发生了更改，则数据会为每个重新托管该特定文档或文档集的人进行更新，但不会保留以前的数据版本——只保留数据被更改的事实，从而使 dat 成为动态的，而不会给用户带来过重的负担。只有源用户可以编辑这些文件，但是任何联网的用户都可以复制、编辑这些文件，然后用不同的加密密钥重新托管它们。
 

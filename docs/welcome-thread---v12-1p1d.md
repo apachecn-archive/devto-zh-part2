@@ -4,7 +4,7 @@
 
 你好。欢迎来到 dev.to！
 
-[![Rainbow Apple computer flashes the message, "Hello!"](../Images/9f993350fb1dabd97bf5520e4a9b10f0.png)T2】](https://i.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy-downsized.gif)
+[![Rainbow Apple computer flashes the message, "Hello!"](img/9f993350fb1dabd97bf5520e4a9b10f0.png)T2】](https://i.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy-downsized.gif)
 
 # 欢迎光临！
 

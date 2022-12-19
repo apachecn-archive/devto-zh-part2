@@ -4,7 +4,7 @@
 
 #### 少可以多吗？应对 100 天代码挑战的新方法
 
-[![My Github Streak](../Images/9175337ac84ca6b40c966e6cca8e8470.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1LRcr3QR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/885/1%2Adltyp0sr5P6eVcF4T1RWxQ.png)
+[![My Github Streak](img/9175337ac84ca6b40c966e6cca8e8470.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1LRcr3QR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/885/1%2Adltyp0sr5P6eVcF4T1RWxQ.png)
 
 任何一个在 Twitter 上写代码的人现在都很熟悉这个标签。
 

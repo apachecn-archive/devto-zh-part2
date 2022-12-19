@@ -37,7 +37,7 @@ MongoDB 的奖学金计划旨在为技术行业中代表性不足的群体成员
 
 女性和跨性别编码员休息室的目的是在我们的工程社区中扩大非二进制人群、女性和跨性别人群的声音。它部分是由 MongoDB 的妇女和跨编码组运行的。在 MongoDB World 期间，停下来建立关系网，在引导式讨论中分享您的想法，或者参加“让它变得重要”会议。
 
-[![](../Images/0025ce81066978dcc05256f582240e56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---PKqAJB9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image1-71emqah3cn.png)
+[![](img/0025ce81066978dcc05256f582240e56.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---PKqAJB9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/image1-71emqah3cn.png)
 
 #### 亲和群欢乐时光
 
@@ -55,7 +55,7 @@ MongoDB 的奖学金计划旨在为技术行业中代表性不足的群体成员
 
 在科技女性欢乐时光，你将受邀与女性创新者、会议发言人和其他科技女性交流。
 
-[![](../Images/31fbe72083a57e540aa6a3eb6cd0fba8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--77JB8nb_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/Image2-3byl3qo5gu.png)
+[![](img/31fbe72083a57e540aa6a3eb6cd0fba8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--77JB8nb_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/Image2-3byl3qo5gu.png)
 
 #### 可达性
 
@@ -77,7 +77,7 @@ MongoDB 的奖学金计划旨在为技术行业中代表性不足的群体成员
 
 [mongodbworld.com](https://www.mongodb.com/world18/)
 
-[![](../Images/98e77ea4724c33564131757f811ae851.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4qVS5wy---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/Image3-vfjyw0dzzh.png)
+[![](img/98e77ea4724c33564131757f811ae851.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4qVS5wy---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://webassets.mongodb.com/_com_assets/cms/Image3-vfjyw0dzzh.png)
 
 * * *
 

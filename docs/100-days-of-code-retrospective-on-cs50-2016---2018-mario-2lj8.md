@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/arleneandrews/100-days-of-code-retrospective-on-cs50-2016---2018-mario-2lj8>
 
-[![](../Images/9fa8bb180edced32bffb83aaac24d1cb.png)](https://www.brilliant-books.net/sites/brilliant-books.net/files/puzzles.jpg) 
+[![](img/9fa8bb180edced32bffb83aaac24d1cb.png)](https://www.brilliant-books.net/sites/brilliant-books.net/files/puzzles.jpg) 
 *图片来自[https://www . brilliant-books . net/sites/brilliant-books . net/files/puzzles . jpg](https://www.brilliant-books.net/sites/brilliant-books.net/files/puzzles.jpg)*
 
 我在 2016 年临近圣诞节的时候开始了 [edX CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) 班(亲自在耶鲁和哈佛授课)。我想，鉴于这是一门入门课程，会有一些问题，但我可以自己解决，并完成它。我是用一个[微软](https://mva.microsoft.com/)类做的，因此这应该是一样的。我大错特错了！
@@ -23,7 +23,7 @@
 
 这回答了这么多问题！这就产生了一个问题——为什么他们谈到的一些概念甚至没有在介绍性的课上提到？
 
-[![](../Images/67f1c5bb49dc202168f43795ba37df3b.png)T2】](https://www.elegantthemes.com/blog/wp-content/uploads/2016/09/wordpress-frustration.jpg)
+[![](img/67f1c5bb49dc202168f43795ba37df3b.png)T2】](https://www.elegantthemes.com/blog/wp-content/uploads/2016/09/wordpress-frustration.jpg)
 
 在与这个问题搏斗之后，并且在 C 之外的其他课程上看到了同样的问题，我决定这不是这个课程的错——但是我打算在 2017 年再次研究这个问题。我去取我之前写的代码，他们问我是否打算完成这门课。好吧好吧。我会完成它。
 

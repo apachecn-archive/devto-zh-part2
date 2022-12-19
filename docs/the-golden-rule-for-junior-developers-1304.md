@@ -4,7 +4,7 @@
 
 所以这个:
 
-[![ben image](../Images/fe64a787b888dfb20fc13ad1e466da3d.png)](/ben) [## 每个初级开发人员都应该学会的 12 件事
+[![ben image](img/fe64a787b888dfb20fc13ad1e466da3d.png)](/ben) [## 每个初级开发人员都应该学会的 12 件事
 
 ### 本哈尔彭 10 月 16 日 181 分钟阅读
 
@@ -12,7 +12,7 @@
 
 很有意思，本也很乐意帮忙
 
-[![rhymes profile image](../Images/557aa2636ae2993dfd13f29772ceb666.png) ](/rhymes) [ rhymes ](/rhymes) [ ![twitter](../Images/82aa32a73d0a2eadd783a8a531ea2cc3.png) ](https://twitter.com/rhymes_) [![github](../Images/029e4450541d5c4819d89a83d5315060.png)](https://github.com/rhymes) [<time datetime="2018-10-16T06:24:12Z">Oct 16 '18</time>](/rhymes/comment/673g)
+[![rhymes profile image](img/557aa2636ae2993dfd13f29772ceb666.png) ](/rhymes) [ rhymes ](/rhymes) [ ![twitter](img/82aa32a73d0a2eadd783a8a531ea2cc3.png) ](https://twitter.com/rhymes_) [![github](img/029e4450541d5c4819d89a83d5315060.png)](https://github.com/rhymes) [<time datetime="2018-10-16T06:24:12Z">Oct 16 '18</time>](/rhymes/comment/673g)
 
 你好朱莉娅。
 
@@ -99,4 +99,4 @@
 
 因为，再过一年左右，你就做不到这一点了。大约一年后，你的团队中会有另一个新的开发人员问你这些问题。所以好好利用这个机会。
 
-[![ask all the things](../Images/edcfb993ba1996fb777a179211ab649b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m2nPG0Rw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fo9hcmyciht2jlpj5tlp.jpg)
+[![ask all the things](img/edcfb993ba1996fb777a179211ab649b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m2nPG0Rw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fo9hcmyciht2jlpj5tlp.jpg)

@@ -247,6 +247,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 就是这样！现在，如果您检查浏览器，您应该能够输入一个搜索词，然后单击“搜索”并看到类似这样的内容:
 
-[![Run](../Images/d78361fd6471ec2ba16315d5b6454dd2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oM4bR6gU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tau6ftboeu7gk58j6n45.PNG)
+[![Run](img/d78361fd6471ec2ba16315d5b6454dd2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oM4bR6gU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tau6ftboeu7gk58j6n45.PNG)
 
 如果出现问题，您可以从这里获得完整的工作版本:[https://github . com/scottlepp/search-vue-parcel-typescript/tree/final](https://github.com/scottlepp/search-vue-parcel-typescript/tree/final)

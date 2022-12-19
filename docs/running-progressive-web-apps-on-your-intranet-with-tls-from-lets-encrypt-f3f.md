@@ -16,11 +16,11 @@ TLS 很重要；没有它，服务人员尤其无法操作，我们会失去后�
 
 DNS 是互联网的电话簿。电话簿是电话公司用来放在你家的东西，这样你就可以通过名字查找人们，找到电话号码。当我们输入一个域名时，比如说 justinribeiro.com，我们实际上被路由到一个 IP 地址，如`dig`所示:
 
-[![Output from dig command on justinribeiro.com](../Images/3d924572f7b0fb3a774ed4f3d4061eb8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oqWFISQG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.googleapis.com/jdr-public-imgs/blog/20181018-dig-external.png)
+[![Output from dig command on justinribeiro.com](img/3d924572f7b0fb3a774ed4f3d4061eb8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oqWFISQG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.googleapis.com/jdr-public-imgs/blog/20181018-dig-external.png)
 
 在互联网上，我们需要唯一的 IP 地址来真正解决问题(让我们暂时忽略 SNI)。有趣的是，一个内部的、非公共可路由的 IP 地址可以设置在 A 记录上。在这种情况下，我们用`dig`来看看 checkcheck.ribeiro.house:
 
-[![Output from dig command on checkcheck.ribeiro.house](../Images/7ff7dc31a39c88b6d9a26f78ffc57a64.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RAisvLAw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.googleapis.com/jdr-public-imgs/blog/20181018-dig-internal.png)
+[![Output from dig command on checkcheck.ribeiro.house](img/7ff7dc31a39c88b6d9a26f78ffc57a64.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RAisvLAw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.googleapis.com/jdr-public-imgs/blog/20181018-dig-internal.png)
 
 看起来很奇怪，不是吗？不是 192。<sup>168</sup><sub>16</sub>前缀[覆盖在 RFC 1918](https://tools.ietf.org/html/rfc1918#section-3) 作为私有地址空间？的确，你是对的。问题是，DNS 不在乎。它只是告诉我们应该去哪里，即使你不能在外面开放的互联网上到达那里。然而，对于我们网络上的内部用户来说，这是一个可路由的域名。现在我们只需要一个证书。
 
@@ -34,7 +34,7 @@ DNS 是互联网的电话簿。电话簿是电话公司用来放在你家的东�
 
 让我们看一个例子。假设我的域名托管在谷歌的云域名系统上，我使用的是流行灵活的 acme 客户端[脱水](https://github.com/lukas2511/dehydrated)。我们可以安装 [Google Cloud hook](https://github.com/spfguru/dehydrated4googlecloud) ，假设我们在`gcloud` cli 中登录了正确的帐户，我们可以为我们的域生成证书，并安装在我们的内部 web 服务器上，让用户通过所选的域访问它:
 
-[![concatenated output from running dehydrated command](../Images/63c2adfad3f8a9586823b84a0a8e26f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jAeee0JF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.googleapis.com/jdr-public-imgs/blog/20181018-acme-cert-gen.jpg)
+[![concatenated output from running dehydrated command](img/63c2adfad3f8a9586823b84a0a8e26f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jAeee0JF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.googleapis.com/jdr-public-imgs/blog/20181018-acme-cert-gen.jpg)
 
 突然之间，我们不仅获得了进步的 web 特性，还在内部获得了额外的安全层(这是我在许多公司的经验中经常缺乏的)。对于任何数量的附加端点，您都可以这样做。
 
@@ -44,7 +44,7 @@ DNS 是互联网的电话簿。电话簿是电话公司用来放在你家的东�
 
 从 H2 和 QUIC 支持到 automagic TLS，Caddy 有许多真正使渐进式网络应用程序成为现实的功能。automagic TLS 与 DNS-01 challenge 和一些 [DNS 提供商](https://caddyserver.com/docs/tls.dns.googlecloud)一起工作，与上面的设置不同，坦率地说，这是您可能会看到的 TLS 证书安装:
 
-[![Caddy running with little more than a config file serving on TLS.](../Images/22331c9f5e662fb4d5b286d8a543192d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KUDgBCjy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.googleapis.com/jdr-public-imgs/blog/20181018-caddy.png)
+[![Caddy running with little more than a config file serving on TLS.](img/22331c9f5e662fb4d5b286d8a543192d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KUDgBCjy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.googleapis.com/jdr-public-imgs/blog/20181018-caddy.png)
 
 渐进式网络应用程序。内部网。TLS。速度。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/xeroxism/why-these-5-myths-about-the-linux-command-line-are-false-i3a>
 
-[![linux_terminal_fossnaija](../Images/3bcbddef6308c514ec3ed5cc6fe0c929.png)T2】](https://i1.wp.com/fossnaija.com/wp-content/uploads/2018/02/linux_terminal_fossnaija.png?ssl=1)
+[![linux_terminal_fossnaija](img/3bcbddef6308c514ec3ed5cc6fe0c929.png)T2】](https://i1.wp.com/fossnaija.com/wp-content/uploads/2018/02/linux_terminal_fossnaija.png?ssl=1)
 
 图片:化石人. COM
 
@@ -32,7 +32,7 @@ CL 使你能够做非常强大的事情。让我们来看看在更改文件中�
 
 6:将“其他”类别的权限访问更改为读写。
 
-[![permission_settings_fossnaija](../Images/cfb2574fbdb57274cc450af207bb136c.png)T2】](https://i0.wp.com/fossnaija.com/wp-content/uploads/2018/02/permission_settiings_fossnaija.png?ssl=1)
+[![permission_settings_fossnaija](img/cfb2574fbdb57274cc450af207bb136c.png)T2】](https://i0.wp.com/fossnaija.com/wp-content/uploads/2018/02/permission_settiings_fossnaija.png?ssl=1)
 
 图片:化石人. COM
 
@@ -50,7 +50,7 @@ sudo chmod-R-v 777/路径/到/目录/包含/文件/
 
 这个已经很老了，尤其是考虑到 Linux 是极客或“黑客”的产品。最近，在开发吸引人的桌面体验方面已经有了很多进步，从而打破了这个神话。Linux(在不同的发行版中)现在看起来和感觉上类似于迄今为止被认为非常用户友好的操作系统。命令行可以通过自定义背景图像、字体类型和颜色等方式配置成不同的外观。
 
-[![Terminal_color_settings_fossnaija](../Images/61f1966a25924bb75e538e069a874c5b.png)T2】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/02/Terminal_color_settings_fossnaija.png?ssl=1)
+[![Terminal_color_settings_fossnaija](img/61f1966a25924bb75e538e069a874c5b.png)T2】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/02/Terminal_color_settings_fossnaija.png?ssl=1)
 
 图片:化石人. COM
 
@@ -72,7 +72,7 @@ Linux 中有许多 CL 辅助工具，可以确保您获得关于不同命令如�
 
 男人聊天
 
-[![cat_command_man_page_fossnaija](../Images/33e6263645cd9c0caf94cc2571ed657d.png)T2】](https://i0.wp.com/fossnaija.com/wp-content/uploads/2018/02/cat_command_man_page_fossnaija.png?ssl=1)
+[![cat_command_man_page_fossnaija](img/33e6263645cd9c0caf94cc2571ed657d.png)T2】](https://i0.wp.com/fossnaija.com/wp-content/uploads/2018/02/cat_command_man_page_fossnaija.png?ssl=1)
 
 图片:化石人. COM
 
@@ -80,13 +80,13 @@ Linux 中有许多 CL 辅助工具，可以确保您获得关于不同命令如�
 
 卡特彼勒–帮助(或卡特彼勒–h)
 
-[![cat_command_help_page_fossnaija](../Images/47917c6fbfd511b625689aae6ede735d.png)T2】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/02/cat_command_help_page_fossnaija.png?ssl=1)
+[![cat_command_help_page_fossnaija](img/47917c6fbfd511b625689aae6ede735d.png)T2】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/02/cat_command_help_page_fossnaija.png?ssl=1)
 
 图片:化石人. COM
 
 当一个错误的/不恰当的命令被输入到终端时，Linux 会给出一个反馈，这个反馈可以包含拼写相似的命令选项(试图猜测您的意图)或者正确的命令组合。
 
-[![wrong_command_output_fossnaija](../Images/97819bf67cce5e8f6ab254d99484f8f4.png)T2】](https://i0.wp.com/fossnaija.com/wp-content/uploads/2018/02/wrong_command_output_fossnaija.png?ssl=1)
+[![wrong_command_output_fossnaija](img/97819bf67cce5e8f6ab254d99484f8f4.png)T2】](https://i0.wp.com/fossnaija.com/wp-content/uploads/2018/02/wrong_command_output_fossnaija.png?ssl=1)
 
 图片:化石人. COM
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/hasurahq/top-5-things-to-remember-when-adding-a-graphql-backend-5gc7>
 
-[![](../Images/4a9d5fcae28fad311f68b548d90a9dd3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xTnBc1RF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/top-5-things-to-remember-when-adding-a-graphql-backend-6e08709d1e6b/1-GbDcwTfHonrUFdFjtPE8BA.jpeg)
+[![](img/4a9d5fcae28fad311f68b548d90a9dd3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xTnBc1RF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/top-5-things-to-remember-when-adding-a-graphql-backend-6e08709d1e6b/1-GbDcwTfHonrUFdFjtPE8BA.jpeg)
 
 采用 GraphQL 可以显著提高特征速度，缩短产品开发周期。这导致它被每个人用于生产系统，从财富 500 强公司，如 Intuit，沃尔玛和纽约时报，到全球初创公司，包括 Airbnb，Docker 和 Github。
 

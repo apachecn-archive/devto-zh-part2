@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/graphicbeacon/building-restful-web-apis-with-dart-aqueduct-and-postgresql-55k>
 
-[![Featured image for Building RESTful Web APIs with Dart, Aqueduct and PostgreSQL](../Images/cbdf930372b6e08ad5ad2b8c1296074d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PZk7TA-r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dv19znif0x9wpvdcdt13.jpg)
+[![Featured image for Building RESTful Web APIs with Dart, Aqueduct and PostgreSQL](img/cbdf930372b6e08ad5ad2b8c1296074d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PZk7TA-r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dv19znif0x9wpvdcdt13.jpg)
 
 * * *
 
@@ -42,7 +42,7 @@
 *   第 4 部分:编写自动化测试
 *   [***奖励内容*** DB 迁移和模型关系](https://dev.to/graphicbeacon/building-restful-web-apis-with-dart-aqueduct-and-postgresqlbonus-content-551g)😄
 
-[![Shall we begin?](../Images/28b7e6d6ea5141fc8e1c3bf3adfde93d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P5nlnCLE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sh243oz27767ygjannp5.gif)
+[![Shall we begin?](img/28b7e6d6ea5141fc8e1c3bf3adfde93d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P5nlnCLE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sh243oz27767ygjannp5.gif)
 
 ## 设置和运行示例
 
@@ -99,7 +99,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们开始吧:
 
-[![Aqueduct serve terminal](../Images/78e33c0c3f8381c1995ea4285299de63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BTJWgBo5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fplcso11d8iadkfpq4yd.png)
+[![Aqueduct serve terminal](img/78e33c0c3f8381c1995ea4285299de63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BTJWgBo5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fplcso11d8iadkfpq4yd.png)
 
 我们现在有一个在`http://localhost:8081`运行的服务器，`/example`是唯一创建的路由。访问`http://localhost:8081/example`将返回如下响应:
 
@@ -140,7 +140,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，通过终止当前进程并再次运行`aqueduct serve`来重启服务器。访问根路径应该会得到以下结果:
 
-[![Aqueduct server localhost](../Images/f7eed30fb74e7a590d4edfed6e31d611.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YqbBl-7B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pyetxyk5nm91dbtjzcnq.png)
+[![Aqueduct server localhost](img/f7eed30fb74e7a590d4edfed6e31d611.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YqbBl-7B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pyetxyk5nm91dbtjzcnq.png)
 
 在总结之前，让我们将应用实例扩展到我们拥有的内核数量。在 **bin/main.dart** 中，当调用 app.start 时，当前设置为 2:
 
@@ -179,7 +179,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这将允许您通过 VS 代码运行应用程序，并能够添加断点来帮助调试。
 
-[![VS Code debugging with Dart](../Images/e9432ad9402e2a2738408b5d78e763b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q3EzQN2v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2434ol0dmaafrj1y74qn.gif)
+[![VS Code debugging with Dart](img/e9432ad9402e2a2738408b5d78e763b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q3EzQN2v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2434ol0dmaafrj1y74qn.gif)
 
 * * *
 
@@ -195,7 +195,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 * * *
 
-[![graphicbeacon image](../Images/ebd69e31cdafde0c3cc551828feae27a.png)](/graphicbeacon) [## 用 Dart、Aqueduct 和 PostgreSQL 构建 RESTful Web APIs 第 2 部分:路由
+[![graphicbeacon image](img/ebd69e31cdafde0c3cc551828feae27a.png)](/graphicbeacon) [## 用 Dart、Aqueduct 和 PostgreSQL 构建 RESTful Web APIs 第 2 部分:路由
 
 ### 杰梅因奥蓬 5 月 18 日 188 分钟阅读
 

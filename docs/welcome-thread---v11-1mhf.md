@@ -4,7 +4,7 @@
 
 你好。欢迎来到 dev.to！
 
-[![A robot spinning a globe on its finger looks at you and winks.](../Images/ae903a03a12871f80c668470bff0dbd5.png)T2】](https://i.giphy.com/media/5yLgocrb5JLqhq7pp3W/giphy.gif)
+[![A robot spinning a globe on its finger looks at you and winks.](img/ae903a03a12871f80c668470bff0dbd5.png)T2】](https://i.giphy.com/media/5yLgocrb5JLqhq7pp3W/giphy.gif)
 
 # 欢迎光临！
 

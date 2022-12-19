@@ -20,7 +20,7 @@
 
 安装 Masonite 仪表板后，我们看到一个新的仪表板，如下所示:
 
-[![](../Images/8b47cd633a02d5c0b076b6f4fa1a1350.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OzeshRW9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hff7bq9ue337bsscaydn.png)
+[![](img/8b47cd633a02d5c0b076b6f4fa1a1350.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OzeshRW9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hff7bq9ue337bsscaydn.png)
 
 # 配置
 
@@ -66,11 +66,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 就是这样！现在，让我们打开控制面板，我们将看到一个新的导航链接:
 
-[![](../Images/9d3e74f5dcbf75a37dd05f73299a66bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_1Q7eS4O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ckmit74zq4dnfxarhskw.png)
+[![](img/9d3e74f5dcbf75a37dd05f73299a66bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_1Q7eS4O--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ckmit74zq4dnfxarhskw.png)
 
 如果我们单击该链接，我们将被带到新模块，在那里我们可以添加、删除和作为其他用户登录:
 
-[![](../Images/58ea8268a841e5a0405ab0ae8923cfaa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GXQEqp34--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lhtjsrahcm4acu6ekdgo.png)
+[![](img/58ea8268a841e5a0405ab0ae8923cfaa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GXQEqp34--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lhtjsrahcm4acu6ekdgo.png)
 
 就这么简单！
 

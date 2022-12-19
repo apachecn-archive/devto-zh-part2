@@ -6,8 +6,8 @@
 
 # Senzill Pagination
 
-[![](../Images/e5556e73b74a9db318f4cf7a93397f4c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PlI6x5Qm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Language-Javascript-blue.svg)
-[![](../Images/9ba27afe72836fe091ab6d8750c57c01.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--9HfK4aaS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Version-1%2520Beta-brightgreen.svg)
+[![](img/e5556e73b74a9db318f4cf7a93397f4c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PlI6x5Qm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Language-Javascript-blue.svg)
+[![](img/9ba27afe72836fe091ab6d8750c57c01.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--9HfK4aaS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Version-1%2520Beta-brightgreen.svg)
 
 > 一个易于实现的 jQuery & Bootstrap 4 分页插件。
 
@@ -55,4 +55,4 @@ Senzill pagination 插件通过几个简单的步骤就可以轻松生成 jQuery
 
 ## 执照
 
-[![](../Images/eb6dc1aa57047f6b27e79880f619c369.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZtJfvccK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/g425Lau.png)
+[![](img/eb6dc1aa57047f6b27e79880f619c369.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZtJfvccK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/g425Lau.png)

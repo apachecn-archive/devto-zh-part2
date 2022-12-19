@@ -4,7 +4,7 @@
 
 #### 一个自主的 UI 不依赖于动画、声音、颜色、快捷方式和帮助来被理解和使用。这并不意味着它不应该有他们，但它不应该依赖他们。
 
-[![](../Images/bc0fb087a1049b32fb48f1061931dd96.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bp8QLqcW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AZMxSxtnk6LPk6GB9.jpg)
+[![](img/bc0fb087a1049b32fb48f1061931dd96.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bp8QLqcW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AZMxSxtnk6LPk6GB9.jpg)
 
 #### 动画
 
@@ -18,7 +18,7 @@
 
 颜色、形状、位置、对比、纹理是图形设计的基本元素。颜色与可能随文化而变化的心情和情绪有关；它们也可以用来突出元素，因此具有很高的表现力。然而，你不应该使用颜色作为单一的区分元素。如果你有几个需要区分的项目，颜色可以加强它，但它不应该单独使用。主要原因是可访问性(例如，色盲的人使用这种用户界面会有问题)。另一方面，你通常不知道用户显示器的颜色限制。
 
-<figure>[![](../Images/9d36729c0e9c8a5fb7ed157c37af88f0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9n9Pwnr5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/235/0%2AqQ8M1R7l2razXFdK.) 
+<figure>[![](img/9d36729c0e9c8a5fb7ed157c37af88f0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9n9Pwnr5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/235/0%2AqQ8M1R7l2razXFdK.) 
 
 <figcaption>*除了颜色，形状也帮助你意识到图标是什么(Google Drive)*</figcaption>
 
@@ -70,13 +70,13 @@
 
 不要创建依赖于 id(数据库标识符)来完成的 UI 用例。例如，为什么要在数据表上显示标识符？为什么您会让用户将一个对象分配给另一个请求其 id 的对象？友好的称谓是给人类的；标识符用于机器。
 
-<figure>[![](../Images/39bdafbadd0c7873aaae9638bf118877.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4uSvnU4c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/0%2ABwKrnIMcfQ3e8GW7.jpg) 
+<figure>[![](img/39bdafbadd0c7873aaae9638bf118877.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4uSvnU4c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/0%2ABwKrnIMcfQ3e8GW7.jpg) 
 
 <figcaption>为什么创建对象时要显示 id？</figcaption>
 
 </figure>
 
-<figure>[![](../Images/466361038460559f4d64093284418507.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WhK2HZdE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ArULUr15ySIgj3XK_urcqKA.png) 
+<figure>[![](img/466361038460559f4d64093284418507.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WhK2HZdE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ArULUr15ySIgj3XK_urcqKA.png) 
 
 <figcaption>为什么要在数据表中显示 id？</figcaption>
 

@@ -31,7 +31,7 @@
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Vuejs](../Images/0ad5fe3fb99f3871409746b27bc6c9f2.png "vuejs")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CJ_8KgZO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/bAWG4c/Screen_Shot_2018_03_16_at_8_54_22_PM.png)
+[![Vuejs](img/0ad5fe3fb99f3871409746b27bc6c9f2.png "vuejs")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CJ_8KgZO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/bAWG4c/Screen_Shot_2018_03_16_at_8_54_22_PM.png)
 
 就像你在上面的例子中看到的，我们的代码中多了 10 行。5 行代码用于导入模块，另外 5 行代码用于在模块对象上声明它们。
 

@@ -250,7 +250,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 然后访问:`http://localhost:8080/#/playground`。你会看到这个:
 
-[![Static Rendering](../Images/ef2e03e9428d869d314191d617e5b616.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JDP6mKY---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lobotuerto.com/blog/dynamic-and-async-components-with-vuejs-made-easy/static-rendering.png)
+[![Static Rendering](img/ef2e03e9428d869d314191d617e5b616.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JDP6mKY---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lobotuerto.com/blog/dynamic-and-async-components-with-vuejs-made-easy/static-rendering.png)
 
 让我们保存我们的进度:
 
@@ -312,7 +312,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 访问:`http://localhost:8080/#/playground`，点选**文本输入**。你会看到这个:
 
-[![Dynamic Rendering](../Images/df44038791f793f00422740ee12c1495.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LfuQjKcl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lobotuerto.com/blog/dynamic-and-async-components-with-vuejs-made-easy/dynamic-rendering.png)
+[![Dynamic Rendering](img/df44038791f793f00422740ee12c1495.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LfuQjKcl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lobotuerto.com/blog/dynamic-and-async-components-with-vuejs-made-easy/dynamic-rendering.png)
 
 让我们保存我们的进度:
 

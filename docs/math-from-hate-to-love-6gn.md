@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/acoh3n/math-from-hate-to-love-6gn>
 
-[![Fractals](../Images/86342f6343a40d0144df9551fbe6b1cc.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--TjVaPFJf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7cbcsdros8bm2bhwt41w.png) <small><small> [图片来源:花园](https://boxtail.deviantart.com/art/Garden-655641455) </small></small> 
+[![Fractals](img/86342f6343a40d0144df9551fbe6b1cc.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--TjVaPFJf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7cbcsdros8bm2bhwt41w.png) <small><small> [图片来源:花园](https://boxtail.deviantart.com/art/Garden-655641455) </small></small> 
 程序员通常不喜欢承认自己数学不好。此外，大多数非程序员认为所有程序员都是某种数学天才，这也于事无补。不幸的是，我没有任何数学超能力。一点也不。事实上，我曾经最讨厌数学。一想到初中要去上数学课，就让我想起了平克·弗洛伊德的视频。
 
 到我上高中的时候，我确信我完全不懂数学，我缺乏那种神秘的数学基因，而且只有天生有数字头脑的人才能接近并擅长这门学科。我想，我只是不够聪明。

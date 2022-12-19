@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kendalmintcode/how-becoming-a-parent-made-me-a-better-coder-1g2>
 
-[![Father and daughter drawing together](../Images/96e9b638300ebb95f4de20cf4c38c5be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I4V1AIkj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://robkendal.co.uk/static/49c57f0b2d87d2c5e64dedecc8f9bfc5/fb329/girl-1641215_1920.jpg)
+[![Father and daughter drawing together](img/96e9b638300ebb95f4de20cf4c38c5be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I4V1AIkj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://robkendal.co.uk/static/49c57f0b2d87d2c5e64dedecc8f9bfc5/fb329/girl-1641215_1920.jpg)
 
 是的，是的，我知道，这是很常见的看到你认识的人有了一个孩子，然后成为那些令人难以忍受的类型之一，认为他们已经解开了一些秘密的成就，“你不会明白，直到你自己有了孩子”。他们开始对人们说教并给出建议，就好像这是通过一种圣人、神秘的力量传递给他们的。
 
@@ -20,7 +20,7 @@
 
 作为一名开发人员，不可避免地会遇到一些困难；无论是你还没有完全掌握的新事物(*咳咳* [Redux](https://redux.js.org/) )还是使用 JavaScript 解决的困难挑战。而且，当你碰到这些墙时，很容易感到不知所措，或者不够好，或者只是卡住了。
 
-[![Fixed mindset vs. growth mindset](../Images/5f380859044b17de53f96afe661d6e2b.png "Fixed mindset vs. growth mindset. (credit: https://www.big-change.org/)")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s7JmLrG6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://robkendal.co.uk/static/21b8aebc7a20621fbc27cb993a6a553c/1478c/growth-mindset-examples.png)
+[![Fixed mindset vs. growth mindset](img/5f380859044b17de53f96afe661d6e2b.png "Fixed mindset vs. growth mindset. (credit: https://www.big-change.org/)")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s7JmLrG6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://robkendal.co.uk/static/21b8aebc7a20621fbc27cb993a6a553c/1478c/growth-mindset-examples.png)
 
 通过转变我的思维，通过应用这些对死路一条的积极再利用帮助我反弹并实现了我的目标，尤其是在克服工作中的挑战时。
 
@@ -58,7 +58,7 @@ MVP，立即发货，快速失败，每夜发布。在我们的编码世界中�
 
 关于发展网络，在我的职业生涯中，我发现这种决定方向、扬帆起航、边走边调整航向的方法远比沉溺于计划中更有回报。
 
-[![The Agile development process. (credit: https://www.axian.com)](../Images/47baf047e07d9640e9cea503cb8cb3c5.png "The Agile development process. (credit: https://www.axian.com)")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ugMHCsHg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://robkendal.co.uk/static/97270c3ed189312c42c14d72af0416b8/852cf/agile-graphic.jpg)
+[![The Agile development process. (credit: https://www.axian.com)](img/47baf047e07d9640e9cea503cb8cb3c5.png "The Agile development process. (credit: https://www.axian.com)")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ugMHCsHg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://robkendal.co.uk/static/97270c3ed189312c42c14d72af0416b8/852cf/agile-graphic.jpg)
 
 这是使用敏捷的主题之一。是的，我知道，事情没那么简单，肯定涉及到规划阶段，但一般的方法是定义一组行动，并对其进行处理，以在较短的迭代时间内交付一个特性或功能。
 

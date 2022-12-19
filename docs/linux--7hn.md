@@ -7,7 +7,7 @@
 在安装带有桌面环境的 Linux 发行版时，默认情况下，通常会在主目录中创建几个目录。
 存储桌面文件的目录、存储音乐文件的目录等。
 
-[![](../Images/90768bd019a6563f34dc0f7fd97026ec.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QPrlBEIL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xe76yimztlwbxjxpg4ku.png)T3】
+[![](img/90768bd019a6563f34dc0f7fd97026ec.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QPrlBEIL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xe76yimztlwbxjxpg4ku.png)T3】
 
 <center>Manjaro Linux の Cinnamon デスクトップの場合</center>
 
@@ -34,7 +34,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 会显示以下窗口，按右下方的“Update Names”。
 
-[![](../Images/870757cfe0230f1ce9e9f1fb24bcd64f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ErH1ZQfj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sy7pk6pa842ayrcy8yo5.png)
+[![](img/870757cfe0230f1ce9e9f1fb24bcd64f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ErH1ZQfj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sy7pk6pa842ayrcy8yo5.png)
 
 在终端上输出以下内容，完成重命名。
 
@@ -54,7 +54,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 **补充:下次启动操作系统时，可能会显示以下窗口。 如果是这样，请选择“保留旧名称”。*
 
-[![](../Images/cb2d3ff606e832a68a76d33fa0eee240.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p9n0SgyB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hv2qo86fhmpptfuoxgr1.png)
+[![](img/cb2d3ff606e832a68a76d33fa0eee240.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p9n0SgyB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hv2qo86fhmpptfuoxgr1.png)
 
 ### 参考:设定的保存位置
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nikola/introduction-to-tdd-in-js-and-ionic-framework-1-4080>
 
-[![](../Images/c9bc09b145ae7d2190df5b98adb4de12.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--krcvC_Hx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fve6sjwma42pyhgs3vzv.png)
+[![](img/c9bc09b145ae7d2190df5b98adb4de12.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--krcvC_Hx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fve6sjwma42pyhgs3vzv.png)
 
 *最初发布于[我的博客](http://www.nikola-breznjak.com/blog/javascript/ionic/introduction-tdd-ionic-framework/)T3】*
 
@@ -22,7 +22,7 @@
 
 我们都知道我们应该做点什么来改善现状，但是我们经常像这位先生那样做:
 
-[![](../Images/356fb9c45e649135de6b98d039defc93.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F57an7Ei--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/zu1Wx05m.png)
+[![](img/356fb9c45e649135de6b98d039defc93.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F57an7Ei--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/zu1Wx05m.png)
 
 好了，玩笑归玩笑，让我试着强调一下为什么测试实际上对你有用。只需思考以下问题:
 
@@ -30,7 +30,7 @@
 *   你有没有因为担心自己可能会出错而害怕接触一段复杂的代码？
 *   你有没有发现一段你很确定不再被使用并且应该被删除的代码，但是你把它留在那里*以防万一*？
 
-[![](../Images/8ae67822f850865396fc011e67d52235.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mwVLis8K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/dDh41WOm.jpg)
+[![](img/8ae67822f850865396fc011e67d52235.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mwVLis8K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/dDh41WOm.jpg)
 
 好吧，如果这些问题的答案是肯定的，那么你将会看到 TDD 的价值，如果实践正确的话。
 
@@ -44,7 +44,7 @@
 *   **绿色** -编写尽可能简单的代码来通过测试
 *   **重构**——简化/重构应用程序代码，确保所有的测试仍然通过
 
-[![](../Images/91b4bbd6e13603e34f68b3173aaea154.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vZRWyuOZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/dJKgmChm.jpg)
+[![](img/91b4bbd6e13603e34f68b3173aaea154.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vZRWyuOZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/dJKgmChm.jpg)
 
 此时你可能会想:
 
@@ -82,7 +82,7 @@
 
 好了，理论讲够了，现在让我们看一些代码！
 
-[![](../Images/87229f0b69e241c21e6132d1d8ddf42f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wgHiJGq_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/PxpH624m.jpg)
+[![](img/87229f0b69e241c21e6132d1d8ddf42f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wgHiJGq_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/PxpH624m.jpg)
 
 ### 先决条件
 
@@ -94,7 +94,7 @@
 
 我选择 Karma 作为运行测试的环境，选择 Jasmine 作为实际测试用例的环境，因为这些框架对我来说是最可靠的，而且似乎被广泛使用。但是，请记住，还有许多其他选择。很少值得一提的是[摩卡](https://mochajs.org/)、[柴](http://chaijs.com/)、[兴农](http://sinonjs.org/)、[带子](https://github.com/substack/tape)等。
 
-[![](../Images/6cdc8e73efd3df5b48337b962832851e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_MyxHXlY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/CseGOCbm.png)
+[![](img/6cdc8e73efd3df5b48337b962832851e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_MyxHXlY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/CseGOCbm.png)
 
 我想在这里补充的是，现在(尤其是在 JavaScript 世界)你有大量的选择。选择一个选项并真正开始比无休止地权衡这些选项要好得多。
 
@@ -216,7 +216,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您应该会看到类似这样的内容:
 
-[![](../Images/cb077e86861f7cef7c802a00abab3f83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZTbbeSoY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/1J2vYXP.png)
+[![](img/cb077e86861f7cef7c802a00abab3f83.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZTbbeSoY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/1J2vYXP.png)
 
 我们在这里看到了什么？我们发现我们的测试失败了。那么，我们现在做什么？我们进入下一步，以最简单的方式通过测试。那么，我们要怎么做呢？我们在`index.js`文件中编写一个`add`函数:
 
@@ -434,7 +434,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 正如您将看到的，您现在在实际的编辑器中有了关于您的测试通过(左边的绿色矩形)或失败的信息:
 
-[![](../Images/8710d4219845275f9dbb18e038b71f2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GNKsRBGd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/QHs7BuB.png)
+[![](img/8710d4219845275f9dbb18e038b71f2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GNKsRBGd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/QHs7BuB.png)
 
 实际上，Wallaby 还有很多特性，我将留给你去探索。我与他们没有任何关系；我只是碰巧喜欢它。但是，你不要说我没有提到它；正如每一个伟大的工具，它有它的价格。而且，如果你正在考虑(甚至抱怨)是否应该为某些软件付费，请阅读 Ambrose Little 关于[你的生产力值多少钱？](https://ambroselittle.svbtle.com/how-much-is-your-productivity-worth)。
 
@@ -702,7 +702,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 是的，吃红色药丸；)
 
-[![](../Images/0818615bd587ac7579f750f6af8527e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0DHi8jzB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/SzkbXjDm.png)
+[![](img/0818615bd587ac7579f750f6af8527e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0DHi8jzB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/SzkbXjDm.png)
 
 * * *
 

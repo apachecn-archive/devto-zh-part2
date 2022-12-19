@@ -18,7 +18,7 @@
 
 ### Qlik Core 前来救援——但是什么是*Qlik Core 呢？*
 
- *[![Paw Patrol Picture](../Images/c6d4e094e91bc6a43cb7a15e6fff3bf4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Rg21vyui--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ANlcaOoOfeficrIKVBnsLEg.jpeg) 
+ *[![Paw Patrol Picture](img/c6d4e094e91bc6a43cb7a15e6fff3bf4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Rg21vyui--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ANlcaOoOfeficrIKVBnsLEg.jpeg) 
 *不相干的爪子巡视图片(我是新家长)，从[到这里](https://www.hollywoodreporter.com/live-feed/nickelodeon-renews-paw-patrol-3-more-preschool-series-1113681)。*
 
 > Qlik Core 让您可以直接访问首个同类数据引擎。而“数据引擎”既不是数据仓库，也不是数据库。这是一种处理数据关联、分析和状态的机制，尤其是在大量数据中。
@@ -37,7 +37,7 @@
 
 ### 准备好入门了吗？
 
-[![ready to get started gif?](../Images/9d96b69762a33a40d2309225930412dd.png)](https://i.giphy.com/media/xT9IgzUuC5Ss6ZnTEs/giphy.gif) 
+[![ready to get started gif?](img/9d96b69762a33a40d2309225930412dd.png)](https://i.giphy.com/media/xT9IgzUuC5Ss6ZnTEs/giphy.gif) 
 *满怀希望，你就这样点头。*
 
 Qlik Core 相当新，因此入门可能有些棘手(我们正在努力改进，但同时，请给我们反馈)。Qlik Core 的官方文档位于[https://core.qlik.com/](https://core.qlik.com/)。在那里你会找到[这个教程](https://core.qlik.com/get-started/)，我觉得它非常简单。遵循这些说明将使您的 Qlik 核心实例快速运行，尤其是如果您熟悉 Docker 的话。还有一个由 Qlik Branch 制作的教程[视频](https://www.youtube.com/watch?v=KSa6nL6goOs)(更多内容将会推出，但这是我们所有开发者和 Qlik 的家)介绍了基本知识。
@@ -68,4 +68,4 @@ Qlik Core 相当新，因此入门可能有些棘手(我们正在努力改进，
 
 —吴
 
-[![Halloween Joke Picture](../Images/d8d95874e9bf77d4b18adf084881a6e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k9knXjIU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AAXlDRbKCE-FReIA-iG0ckQ.jpeg)*
+[![Halloween Joke Picture](img/d8d95874e9bf77d4b18adf084881a6e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k9knXjIU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AAXlDRbKCE-FReIA-iG0ckQ.jpeg)*

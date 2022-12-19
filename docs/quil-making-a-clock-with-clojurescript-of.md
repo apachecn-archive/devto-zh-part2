@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ampersanda/quil-making-a-clock-with-clojurescript-of>
 
-[![](../Images/409f40d19e9cd394b108313ceb50719a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cyfNpybS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AS7xuoiPXmss8XWU2dxNaIQ.jpeg)
+[![](img/409f40d19e9cd394b108313ceb50719a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cyfNpybS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AS7xuoiPXmss8XWU2dxNaIQ.jpeg)
 
 大家好，最后，我们创造了一个东西，耶！也许下面的代码不是获得最佳性能的最佳代码，但我尽力了，:D，
 
@@ -33,7 +33,7 @@ lein new quil-cljs clock
 
 要运行当前项目，只需在项目文件夹中执行下面的命令，一旦转盘完成，等待一段时间，直到你看到**成功编译" resources/public/js/main . js "**，打开 [http://localhost:3449](http://localhost:3449,) ，最小化终端而不是关闭它。
 
-[![](../Images/cd53bf64127f76d46b29e7289d04d2bb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0sXZc_zc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/697/1%2Ae8A9ur9fBqSCbFs5jyUBDg.png)T3】
+[![](img/cd53bf64127f76d46b29e7289d04d2bb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0sXZc_zc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/697/1%2Ae8A9ur9fBqSCbFs5jyUBDg.png)T3】
 
 ```
 lein figwheel 
@@ -43,7 +43,7 @@ lein figwheel
 
 所以，我们要做的钟是这样的
 
-[![](../Images/798bb9e6993ab441fcae7258f5a2d837.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x-WZrjOl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/634/1%2AsiHbR99NhErHH9Cp51ZgRQ.png)
+[![](img/798bb9e6993ab441fcae7258f5a2d837.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x-WZrjOl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/634/1%2AsiHbR99NhErHH9Cp51ZgRQ.png)
 
 我知道这不是很漂亮，但是我们将学习一些基本的东西，比如改变背景，创建弧线，线条等等。
 

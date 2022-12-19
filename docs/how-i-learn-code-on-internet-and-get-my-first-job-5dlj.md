@@ -14,7 +14,7 @@
 
 相反，发展自己的方法是习惯。培养习惯、纪律和习惯来引导你。
 
-[![](../Images/f160aa62f4f5454c51119ac4dec4bc04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TJLbhXNu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/221i209miihevzfjoak3.jpg)
+[![](img/f160aa62f4f5454c51119ac4dec4bc04.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TJLbhXNu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/221i209miihevzfjoak3.jpg)
 
 我们不需要在一天中花太多的时间来学习…可能需要一天 2-3 个小时，当这一切成为一种习惯，你可以用一种有趣和愉快的方式做“困难”的事情。
 

@@ -130,7 +130,7 @@ BASH 是一种脚本语言，它是完全图灵化的。就像我之前选择的
 
 写 Linux 的时候，总是被下面这张图提醒:
 
-[![linux-cloud](../Images/83f0869de92034626b762fb29a3aa69d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AVr8kD4k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/37555299-0d5f94ca-29ee-11e8-8f2b-494848249ca0.jpg)
+[![linux-cloud](img/83f0869de92034626b762fb29a3aa69d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AVr8kD4k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/33935506/37555299-0d5f94ca-29ee-11e8-8f2b-494848249ca0.jpg)
 
 **6。函数式编程语言**
 

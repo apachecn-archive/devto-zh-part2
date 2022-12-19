@@ -22,7 +22,7 @@ Aditya 开始寻找一个 CI/CD 平台，在他们加速发展的同时，为他
 5.  新开发人员的加速时间从几个月缩短到不到一周。
 6.  Docker 构建性能提高了 400%，从 120 分钟/天提高到 30 分钟/天。
 
-[![DevOps Results](../Images/411117a63a942079df9a5c1d817a7358.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--svXjl5XK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/frdigfdhzffu2nxw2eb5.jpg)
+[![DevOps Results](img/411117a63a942079df9a5c1d817a7358.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--svXjl5XK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/frdigfdhzffu2nxw2eb5.jpg)
 
 完整的案例分析在[这里](http://bit.ly/PunchhCaseStudy)
 

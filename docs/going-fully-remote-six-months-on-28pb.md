@@ -4,7 +4,7 @@
 
 *这篇文章最初发表在我们的[博客](https://mobilejazz.com/blog/going-fully-remote-six-months-on/)上。*
 
-[![](../Images/887dc148585eb7f408dcc9713393fede.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k6ykkk4q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/09/going-remote-keys.jpg)
+[![](img/887dc148585eb7f408dcc9713393fede.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k6ykkk4q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/09/going-remote-keys.jpg)
 
 自从 Mobile Jazz 离开它的最后一个办公室以来，已经快接近六个月了。对公司来说，这是一个分水岭:那天我们迈出了最后一步，完全远离了公司。现在回想起来，这感觉像是一个伟大的决定——这个决定让我们的公司文化更加紧密，让我们更加团结，而不是更加疏远。
 
@@ -14,7 +14,7 @@
 
 该建筑位于 Carrer de Nàpols，位置绝佳，步行 30 秒即可到达巴塞罗那最著名的主干道 Avinguda Diagonal。向北步行五分钟就可以到达高迪的圣家堂，向南我们可以看到美丽的 Ciutadella 公园和海滩。
 
-[![](../Images/55611ec26b30845ed19c498bf8097b90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wUZwQYdu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/09/going-remote-terrace-view.jpg)
+[![](img/55611ec26b30845ed19c498bf8097b90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wUZwQYdu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/09/going-remote-terrace-view.jpg)
 
 *从我们巴塞罗那办公室的露台上看到的景色*
 
@@ -26,7 +26,7 @@
 
 就我个人而言，当我开始使用 Mobile Jazz 时，我每天都去，但到了第二年，我每周去一次或两次。我有 30 分钟的通勤时间，在某些日子可能会更长，在家工作更有意义。办公室关闭的时候，我一个月只去一两次，对于很多在巴塞罗那的人来说，这种情况是一样的。我们仍然会在晚上聚在一起喝酒或吃饭，但我们享受白天在家工作的自由和责任。
 
-[![](../Images/67bbc32d20e60634ab474c663d752fe3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dbr3u7EK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/09/going-remote-office-full.jpg)
+[![](img/67bbc32d20e60634ab474c663d752fe3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dbr3u7EK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/09/going-remote-office-full.jpg)
 
 *在巴塞罗那办公室和我们的一个会议室工作*
 
@@ -36,7 +36,7 @@
 
 但这并不是说我们这些还在巴塞罗那的人没有感情。我记得有几个晚上，乔迪会去打扫卫生，然后坐在办公室里，回忆着自从他和斯特凡租下那栋大楼以来，公司取得了多大的进步。他本人来自巴塞罗那，所以城市中心的物理空间对他来说非常重要。
 
-[![](../Images/2c5999935cb5f343af45e92e2003cf08.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oOmUrt4K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/09/going-remote-office-team.jpg)
+[![](img/2c5999935cb5f343af45e92e2003cf08.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oOmUrt4K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/09/going-remote-office-team.jpg)
 
 *我们清理办公室的最后一天*
 
@@ -54,7 +54,7 @@
 
 但是 Stefan 和 Jordi 做了一些很大的改变，取代了我们以前的物理集线器。他们带来了一年一度的公司务虚会，这是全薪的，让我们有机会每年聚在一起。这个远程周完全专注于公司，充满了演讲和演示、黑客马拉松、讨论和增长计划。第一个是在大加那利岛，随着夏天接近尾声，我们都急切地期待着秋天的太阳！
 
-[![](../Images/74c1f5682823eb9f0845eb1d8667d15b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nMk6Zb8l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/09/going-remote-remote-office.jpg)
+[![](img/74c1f5682823eb9f0845eb1d8667d15b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nMk6Zb8l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mobilejazz.com/blog/wp-content/uploads/2018/09/going-remote-remote-office.jpg)
 
 *在撒丁岛远程工作的移动爵士乐成员*
 

@@ -16,7 +16,7 @@ Android Studio 中的代码折叠快捷方式可以帮助我们做到这一点�
 
 <figure>
 
-[![code folding shorcuts](../Images/cdf83593d6302ddbeb0b276b63734c97.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--01vyAE9w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ysqoplbnrjeek995gdsj.png)
+[![code folding shorcuts](img/cdf83593d6302ddbeb0b276b63734c97.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--01vyAE9w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ysqoplbnrjeek995gdsj.png)
 
 <figcaption>code folding shortcuts</figcaption>
 
@@ -32,7 +32,7 @@ Android Studio 中的代码折叠快捷方式可以帮助我们做到这一点�
 
 <figure>
 
-[![expanded code block](../Images/b8cb02783436cbae3932f82ec5a76b7c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---QoxFGbL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f4baefgjn9jzdzkj1v5m.png)
+[![expanded code block](img/b8cb02783436cbae3932f82ec5a76b7c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---QoxFGbL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f4baefgjn9jzdzkj1v5m.png)
 
 <figcaption>expanded code block</figcaption>
 
@@ -42,7 +42,7 @@ Android Studio 中的代码折叠快捷方式可以帮助我们做到这一点�
 
 <figure>
 
-[![collapsed code block](../Images/ae79a4bd08faab62db6327adb37d21e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y-UtB_ft--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/791x3xdzdedll1s3bnel.png)
+[![collapsed code block](img/ae79a4bd08faab62db6327adb37d21e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y-UtB_ft--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/791x3xdzdedll1s3bnel.png)
 
 <figcaption>collapsed code block</figcaption>
 
@@ -60,7 +60,7 @@ Android Studio 中的代码折叠快捷方式可以帮助我们做到这一点�
 
 <figure>
 
-[![expanded region block](../Images/4ad342c04421776be1529d680a2832ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fPIkeVHA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/itxl448yw2ibecf0kqty.png)
+[![expanded region block](img/4ad342c04421776be1529d680a2832ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fPIkeVHA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/itxl448yw2ibecf0kqty.png)
 
 <figcaption>expanded region block</figcaption>
 
@@ -70,7 +70,7 @@ Android Studio 中的代码折叠快捷方式可以帮助我们做到这一点�
 
 <figure>
 
-[![collapsed region block](../Images/b85c9b0ac2ca4c45b091ab8fd10784d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YB3MJKIp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ozz1u28xbhdqmofrgcif.png)
+[![collapsed region block](img/b85c9b0ac2ca4c45b091ab8fd10784d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YB3MJKIp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ozz1u28xbhdqmofrgcif.png)
 
 <figcaption>collapsed region block</figcaption>
 

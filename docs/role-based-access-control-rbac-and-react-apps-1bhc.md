@@ -6,4 +6,4 @@
 
 [读下去👥⚛️](https://auth0.com/blog/role-based-access-control-rbac-and-react-apps/?utm_source=dev&utm_medium=sc&utm_campaign=rbac_react)
 
-[![Role-Based Access Control (RBAC) and React Apps](../Images/d325b3247ede088849aad9c06799fa35.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X04CRqe1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mly4lepqikwvv127h7ki.png)
+[![Role-Based Access Control (RBAC) and React Apps](img/d325b3247ede088849aad9c06799fa35.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X04CRqe1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mly4lepqikwvv127h7ki.png)

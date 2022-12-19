@@ -4,7 +4,7 @@
 
 常常会出现这样一个问题，那就是为什么要使用哪种语言来构建您的后端。有多种语言，每种语言都有其独特之处和目的，尽管有多种语言可以用来创建后端，但其中一些已经引起了更多的关注。
 
-[![cat confuss](../Images/cc7ae16ed491e3ec32ad300957f9cc8a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LZvxXyy9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pwlepwh5xp1mugb52l16.png)
+[![cat confuss](img/cc7ae16ed491e3ec32ad300957f9cc8a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LZvxXyy9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pwlepwh5xp1mugb52l16.png)
 
 当然，没有神奇的答案，更不用说回答这个问题了，但这是一个通用的解决方案，几乎适用于所有的情况。
 
@@ -14,7 +14,7 @@
 
 Javascript 是一种解释语言、多范式、动态排版，最初设计为在 web 应用程序(即浏览器)前端运行。根据这个 github 项目:[https://madnight . github . io/git hut](https://madnight.github.io/githut)，它是最新的，是一个很好的参考，javascript 一直主导着 github 中打开项目的数量。
 
-[![graph](../Images/29e1f5eb1d605a294a9399ebb1a6afeb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pKCYSUuS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AcZvMqoVXVrMNG1sRTNaLaw.png) 
+[![graph](img/29e1f5eb1d605a294a9399ebb1a6afeb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pKCYSUuS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AcZvMqoVXVrMNG1sRTNaLaw.png) 
 GitHut，显示 2017 年数据，首先显示 JavaScript。
 
 JavaScript 如何工作的一个很好的例子是 V8，您可以在这里找到更多的信息，Google Chrome 和 Node.js 中使用了这一信息，我们稍后将对此进行讨论。
@@ -22,11 +22,11 @@ JavaScript 如何工作的一个很好的例子是 V8，您可以在这里找到
 JavaScript 是一种单线程编程语言，简而言之，它一次只能执行一项操作。
 具有呼叫栈或呼叫栈，这是记录程序运行所在位置的结构。因为 Call Stack 是堆栈，所以每次进入某个函数时，都会将其放在堆栈的顶部，如果从某个函数返回，则会将其从堆栈的顶部取出。
 
-[![cat stack](../Images/a2a7125f756f88a22613bdfdc97a76a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---ZHMojAD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AbaGg851dyIA4HmCcxrwl4Q.jpeg)
+[![cat stack](img/a2a7125f756f88a22613bdfdc97a76a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---ZHMojAD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AbaGg851dyIA4HmCcxrwl4Q.jpeg)
 
 由于其基于事件的体系结构，您唯一的线程只负责侦听这些事件，以便在检测到这些事件后立即调用它们，因此语言可以通过这种方式解释这些事件，从而确保不会发生阻塞。由于请求不是连续的，而是异步的，因此对于大量请求来说，执行速度非常快，而且非常完美。所以不用多久就可以在后端使用了。
 
-[![cat insterested](../Images/ff21c3e22c5eb39f2c5197ab806d3fd9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PpNpOo8G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AyDgmWjzJIm8lWxNAaB3pkw.jpeg)
+[![cat insterested](img/ff21c3e22c5eb39f2c5197ab806d3fd9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PpNpOo8G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AyDgmWjzJIm8lWxNAaB3pkw.jpeg)
 
 ## Ok，mas e o Node.js？
 

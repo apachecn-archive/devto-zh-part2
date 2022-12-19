@@ -4,7 +4,7 @@
 
 介绍我雄心勃勃的项目。已经可以做很多事情，但更多的贡献将使它变得完美。新的特性正在开发中，以取悦任何多产的开发者。
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png)[ad hoc ore](https://github.com/adhocore)/[phint](https://github.com/adhocore/phint)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png)[ad hoc ore](https://github.com/adhocore)/[phint](https://github.com/adhocore/phint)
 
 ### 交互式地搭建和初始化新的(或修复旧的)PHP 项目/库，并使用模板立即使用相同的默认设置
 
@@ -20,9 +20,9 @@
 
 它帮助你变得更加懒惰！phint 在不断发展，计划是让它[变大](https://github.com/adhocore/phint#todo)。
 
-[![Latest Version](../Images/ad3e7844738ffb429c9c2f99c9161e75.png)](https://github.com/adhocore/phint/releases)[![Travis Build](../Images/c8fc2eddb7e87769df38d6511ebd1793.png)](https://travis-ci.org/adhocore/phint?branch=master)[![Scrutinizer CI](../Images/e5fde28bc58b854ba7bd4c2cde7a57ee.png)](https://scrutinizer-ci.com/g/adhocore/phint/?branch=master)[![Codecov branch](../Images/7c37954a3ac898fd40d310cd770f5ef2.png)](https://codecov.io/gh/adhocore/phint)[![StyleCI](../Images/8d686e138e03bd7d7d798ae1e5f7ba45.png)](https://styleci.io/repos/108550679)[![Software License](../Images/bef0dd78b2319f6aa43444906a81e982.png)](https://github.com/adhocore/phintLICENSE)[![Donate 15](../Images/b2c2f94625d612f1d6f170d10bb8de6d.png)](https://www.paypal.me/ji10/15usd)[![Donate 25](../Images/55169c512eb5e340a3267ace0ef15ff2.png)](https://www.paypal.me/ji10/25usd)[![Donate 50](../Images/f0d5a67bfcb273a3a2b8548db2a580d6.png)](https://www.paypal.me/ji10/50usd)[![Tweet](../Images/3aedcf72e57e3736cd6ea05d11dfd7db.png)](https://twitter.com/intent/tweet?text=Scaffold+new+PHP+project+with+sane+defaults+using+templates&url=https://github.com/adhocore/phint&hashtags=php,template,scaffold,initproject)
+[![Latest Version](img/ad3e7844738ffb429c9c2f99c9161e75.png)](https://github.com/adhocore/phint/releases)[![Travis Build](img/c8fc2eddb7e87769df38d6511ebd1793.png)](https://travis-ci.org/adhocore/phint?branch=master)[![Scrutinizer CI](img/e5fde28bc58b854ba7bd4c2cde7a57ee.png)](https://scrutinizer-ci.com/g/adhocore/phint/?branch=master)[![Codecov branch](img/7c37954a3ac898fd40d310cd770f5ef2.png)](https://codecov.io/gh/adhocore/phint)[![StyleCI](img/8d686e138e03bd7d7d798ae1e5f7ba45.png)](https://styleci.io/repos/108550679)[![Software License](img/bef0dd78b2319f6aa43444906a81e982.png)](https://github.com/adhocore/phintLICENSE)[![Donate 15](img/b2c2f94625d612f1d6f170d10bb8de6d.png)](https://www.paypal.me/ji10/15usd)[![Donate 25](img/55169c512eb5e340a3267ace0ef15ff2.png)](https://www.paypal.me/ji10/25usd)[![Donate 50](img/f0d5a67bfcb273a3a2b8548db2a580d6.png)](https://www.paypal.me/ji10/50usd)[![Tweet](img/3aedcf72e57e3736cd6ea05d11dfd7db.png)](https://twitter.com/intent/tweet?text=Scaffold+new+PHP+project+with+sane+defaults+using+templates&url=https://github.com/adhocore/phint&hashtags=php,template,scaffold,initproject)
 
-[![Phint Preview](../Images/b07016daacbe8053cc999a19f9d08b2e.png "Phint Preview")T2】](https://camo.githubusercontent.com/f5aec54ef4a752fc3a6aecd8e29e000f856b3ebc87bfeaa301c764d5dcd63cf4/68747470733a2f2f696d6775722e636f6d2f4636506b58395a2e706e67)
+[![Phint Preview](img/b07016daacbe8053cc999a19f9d08b2e.png "Phint Preview")T2】](https://camo.githubusercontent.com/f5aec54ef4a752fc3a6aecd8e29e000f856b3ebc87bfeaa301c764d5dcd63cf4/68747470733a2f2f696d6775722e636f6d2f4636506b58395a2e706e67)
 
 [安装](https://github.com/adhocore/phint#installation) [功能](https://github.com/adhocore/phint#features) [自动完成](https://github.com/adhocore/phint#autocompletion) [用法](https://github.com/adhocore/phint#usage) [phint 初始化](https://github.com/adhocore/phint#init) [phint 更新](https://github.com/adhocore/phint#update) [phint 文档](https://github.com/adhocore/phint#docs) [phint 测试](https://github.com/adhocore/phint#test) [模板化](https://github.com/adhocore/phint#templating)
 

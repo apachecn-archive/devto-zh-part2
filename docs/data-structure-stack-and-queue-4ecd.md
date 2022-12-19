@@ -12,7 +12,7 @@
 1。Push:在堆栈上插入一个数据项。
 2。取出:从栈顶取出一个项目。
 3。Peek:从堆栈顶部读取一个项目的值，而不移除它。
-[![](../Images/e709c466cd2abdf23e9788d1b6ead22a.png)T6】](https://www.programiz.com/dsa/stack)
+[![](img/e709c466cd2abdf23e9788d1b6ead22a.png)T6】](https://www.programiz.com/dsa/stack)
 
 在编程中，你可以使用一个*数组*或者一个*链表*来实现一个栈。(下面是一个用 java 实现堆栈的例子)
 
@@ -49,7 +49,7 @@ class StackX {
 
 *   **反转数据**；例如，反转字符串
 *   **解析**:将数据分解成独立的片段，以便进一步处理；例如，检查分隔符匹配[，{，(，)，}，]。
-    T3![](../Images/3cabfcff24d2a5206deeb9de549ba8dc.png)T5】
+    T3![](img/3cabfcff24d2a5206deeb9de549ba8dc.png)T5】
 
     > 工作原理:
     > 
@@ -164,13 +164,13 @@ class Queue {
 
 我们不是在队列的后面插入，而是根据项目相对于其他项目的值来插入。
 
-[![](../Images/9003644e0832dc3b30503b66a4edebc8.png)T2】](https://www.javamadesoeasy.com/2015/01/priority-queues.html)
+[![](img/9003644e0832dc3b30503b66a4edebc8.png)T2】](https://www.javamadesoeasy.com/2015/01/priority-queues.html)
 
 ###### #移除/删除项目:O(n)
 
 就像正常的队列一样，我们删除队列中最前面的一个。
 
-[![](../Images/36e5a23c9fd54f657ce73996aa1c83bb.png)T2】](https://www.javamadesoeasy.com/2015/01/priority-queues.html)
+[![](img/36e5a23c9fd54f657ce73996aa1c83bb.png)T2】](https://www.javamadesoeasy.com/2015/01/priority-queues.html)
 
 * * *
 

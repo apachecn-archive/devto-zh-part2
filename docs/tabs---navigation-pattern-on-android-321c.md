@@ -4,7 +4,7 @@
 
 Android 应用程序中适当的内容组织可以通过多种布局和小部件来实现。今天我想重点谈谈选项卡，即在应用程序中什么样的组件专用于使用选项卡，使用它们的关键原则是什么，以及如何定制它们的视图。
 
-[![Folder Tabs Img](../Images/9d34eb8396bf3ca50523c3ee4bef9250.png)T4】](https://res.cloudinary.com/practicaldev/image/fetch/s--hXIUMU-b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/myekfaw3sohq0trv8u6f.jpg)
+[![Folder Tabs Img](img/9d34eb8396bf3ca50523c3ee4bef9250.png)T4】](https://res.cloudinary.com/practicaldev/image/fetch/s--hXIUMU-b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/myekfaw3sohq0trv8u6f.jpg)
 
 ## 基本概念
 
@@ -108,7 +108,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 有趣的部分是最终添加了一些更有趣的标签视图，而不是只使用文本。让我们把文字和一些好看的图片结合起来！像这样:
 
-[![single tab](../Images/8592203170172411b523d935e2ba5361.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--86RYVjok--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bgmg5omo8bp374hds2p4.png)
+[![single tab](img/8592203170172411b523d935e2ba5361.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--86RYVjok--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bgmg5omo8bp374hds2p4.png)
 
 在`res/drawable` :
 下为我们的图像定义一个圆形背景
@@ -173,7 +173,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 最后，我想和你分享一下我对 TabLayout 视图的看法，你可以从中获得一些灵感。这是它看起来的样子:
 
-[![Sliding Layout GIF](../Images/848b156dea670a9730dda4cc9592bccd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dJ8CW7_n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h4ab85qiccio43g3zuq0.gif)
+[![Sliding Layout GIF](img/848b156dea670a9730dda4cc9592bccd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dJ8CW7_n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h4ab85qiccio43g3zuq0.gif)
 
 为了实现这一点，我们需要覆盖一些 TabLayout 功能！这是我们将要开始的:
 
@@ -314,7 +314,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 就这样，你的滑动拉环就可以使用了！
 
-[![Slide Penguin GIF](../Images/f5644f705f237f65f05306efd3dfc492.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H1Tiu7Om--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kjbzitp3apgrmweeluo8.gif)
+[![Slide Penguin GIF](img/f5644f705f237f65f05306efd3dfc492.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H1Tiu7Om--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kjbzitp3apgrmweeluo8.gif)
 
 你可以在我的 github 账户上找到完整的代码。它包含更多的功能，滚动和停靠标签在中心。可以随意测试，使用，修改！
 

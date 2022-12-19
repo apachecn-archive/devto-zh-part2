@@ -42,28 +42,28 @@
 1.要创建一个渠道，你需要是线开发。前往 [LINE 开发者控制台](https://developers.line.me/en/)并使用您的 LINE 账户登录。您必须拥有至少一个 LINE 帐户，并在您的智能手机上安装 LINE client。按照说明，将自己注册为开发人员。
 
 2.如果你还没有或者需要一个新的，创建一个。提供商可以有多个机器人。就我而言。
-[![image](../Images/854af955393b255306a99418e97ddca1.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--NjNZmvqe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bifphvztowrk1f4i91xp.PNG)
+[![image](img/854af955393b255306a99418e97ddca1.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--NjNZmvqe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bifphvztowrk1f4i91xp.PNG)
 
 3.为了演示，我单击“添加新提供商”。输入提供商名称并单击“确认”，然后单击“创建”。避免使用包含“行”的名称。
-[![image](../Images/5247f2eb4a7720070e805696c5cb7a44.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--FXFXXoJP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i4b7wawav59tnw4de642.PNG)
+[![image](img/5247f2eb4a7720070e805696c5cb7a44.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--FXFXXoJP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i4b7wawav59tnw4de642.PNG)
 
 4.创建提供者后，单击“消息传递 API”。“线登录”是不同的功能，我会写一篇关于登录的文章在单独的文章。然后输入名称和描述。图像是可选的。
 
-[![image](../Images/8708fc30ad5c4be549df37161e6658d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PACyVjlw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7isjpwo60jfxodfn1w6c.PNG)
+[![image](img/8708fc30ad5c4be549df37161e6658d1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PACyVjlw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7isjpwo60jfxodfn1w6c.PNG)
 
 5.对于计划，请选择“开发者试用版”。设置适当的类别，然后单击“确认”。您需要输入真实的电子邮件地址。
-[![image](../Images/e5bca52825623c95480d42cd4a6220b8.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--FuqAeDRi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fgvhmkufc3k9bddp8nhi.PNG)
+[![image](img/e5bca52825623c95480d42cd4a6220b8.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--FuqAeDRi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fgvhmkufc3k9bddp8nhi.PNG)
 
 6.同意使用条款，然后单击“创建”。
 
 7.创建完成后，您会看到下面的屏幕。单击“配置尚未完成”。
-[![image](../Images/3af98bb991917ba4ab5396628b176722.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--LuzKJ5GE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1fa51xdjvo2ajg43xbbu.PNG)
+[![image](img/3af98bb991917ba4ab5396628b176722.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--LuzKJ5GE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1fa51xdjvo2ajg43xbbu.PNG)
 
 8.向下滚动到通道访问令牌部分，然后单击“发布”。
-[![image](../Images/bdfeef89828981d31002d101b30acc9a.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--WreKVWeP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kf0i3314xtj9zhxu9a0d.PNG)
+[![image](img/bdfeef89828981d31002d101b30acc9a.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--WreKVWeP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kf0i3314xtj9zhxu9a0d.PNG)
 
 9.点击“发布”0 小时。则颁发的令牌不会过期。
-[![image](../Images/9b8eae34a33ef34c1cd9723213d99d9d.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--h0JvBnmv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zidw8m2gljc9dz5cnqyt.PNG)
+[![image](img/9b8eae34a33ef34c1cd9723213d99d9d.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--h0JvBnmv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zidw8m2gljc9dz5cnqyt.PNG)
 
 10.如下设置其他相关设置。
 
@@ -246,7 +246,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当 LINE Platform 收到用户发送给你的 bot 的消息时，它会将请求重定向到你在 Webhook 中指定的 URL。因此，我们将 URL 设置为我们的 Azure 地址。模板使用/api/linebot 作为端点，因此 URL 应该是这样的。将主机名更改为您自己的名称。
 
-[![image](../Images/8dda156cb2fc3f5f53d9a8e046673607.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4mhyHQFb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ryper3mo26ubphub4ugl.PNG)
+[![image](img/8dda156cb2fc3f5f53d9a8e046673607.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4mhyHQFb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ryper3mo26ubphub4ugl.PNG)
 
 设置 Webhook 后，使用页面底部的二维码将该机器人添加到您自己的 LINE 帐户中作为朋友。
 
@@ -362,7 +362,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 6.将断点放在 LineBotApp.cs 的第 39 行。
 
-[![image](../Images/06724dd7069ed5cad002a72f45187157.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Sa5kZKuk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/up35zjjymwxlrvtcq05v.PNG)
+[![image](img/06724dd7069ed5cad002a72f45187157.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Sa5kZKuk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/up35zjjymwxlrvtcq05v.PNG)
 
 7.打开新的命令提示符或终端，运行以下命令启动模拟器
 
@@ -380,11 +380,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 10.从聊天栏输入“hello ”,并确认点击断点。
 
-[![image](../Images/b1cc44df43f0806ab37dcc2362dfef0f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--niUO2N3E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fo4i443zrkfitipc7xlw.PNG)
+[![image](img/b1cc44df43f0806ab37dcc2362dfef0f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--niUO2N3E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fo4i443zrkfitipc7xlw.PNG)
 
 11.输入 F5 键继续调试。
 
-[![image](../Images/5e03e61c3a4eb57d3d340f4a0e7f89e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SFGPDaph--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1qew5860tbpyzibpltmt.PNG)
+[![image](img/5e03e61c3a4eb57d3d340f4a0e7f89e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SFGPDaph--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1qew5860tbpyzibpltmt.PNG)
 
 # 下一步
 

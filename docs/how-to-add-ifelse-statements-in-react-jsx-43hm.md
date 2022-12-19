@@ -8,4 +8,4 @@
 
 [如何在 React JSX 中添加 If…Else 语句](https://www.skptricks.com/2018/11/how-to-add-if-else-statements-in-react-application.html)
 
-[![](../Images/af80bf4595b2172c89e82bfde3814810.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_Q-oQeR8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://2.bp.blogspot.com/-jlROSM0x9EA/W92JLuux8zI/AAAAAAAACFw/OlVdTiG87TIosonj0_It8oXzt7shyH-gwCLcBGAs/s400/cond.png)
+[![](img/af80bf4595b2172c89e82bfde3814810.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_Q-oQeR8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://2.bp.blogspot.com/-jlROSM0x9EA/W92JLuux8zI/AAAAAAAACFw/OlVdTiG87TIosonj0_It8oXzt7shyH-gwCLcBGAs/s400/cond.png)

@@ -4,7 +4,7 @@
 
 在这个数字化时代，很明显，移动应用程序已经简化了几项任务，并成为近年来最有利可图的商业模式。按需应用在工作上稍微先进一些，它们不会占用移动设备的大量存储空间。相反，他们通过云计算获取信息。需要管理大量数据的企业应该尝试一下按需应用，看看它如何帮助提高效率和转化率。
 
-[![Black Friday - Mobile App Development NYC](../Images/dbdc3b780d2e5943a4711b273b78890a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q3YLc62d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3ng1ukhj0kk75bv1lwmm.png)
+[![Black Friday - Mobile App Development NYC](img/dbdc3b780d2e5943a4711b273b78890a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q3YLc62d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3ng1ukhj0kk75bv1lwmm.png)
 
 以下是 4 大按需交付应用程序功能，它们无疑会提升业务。
 

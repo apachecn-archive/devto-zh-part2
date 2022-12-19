@@ -6,7 +6,7 @@
 
 > **使用 Ruby，变换一个由 1 和 0 组成的网格，使“1”上面、下面和旁边的任何 0 都变成“1”(如下图所示，粉红色的“1”曾经是 0)**
 
-[![alt text](../Images/e33df1f617b75fe75955eb7f450c4c86.png "Pixel Transformation")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hv1B9Uem--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AoB_-cC1FtnWthNXYHtm9Jw.png)
+[![alt text](img/e33df1f617b75fe75955eb7f450c4c86.png "Pixel Transformation")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Hv1B9Uem--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AoB_-cC1FtnWthNXYHtm9Jw.png)
 
 我们目前正在学习面向对象编程，所以我知道最终的算法将由类和方法定义组成。但是我一点也想不出解决的办法——至少那天晚上没有。所以我决定用简单的英语来描述我的代码:
 

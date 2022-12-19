@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/fullstackcafe/8-ultimate-full-stack-interview-questions-dj5>
 
-[![8 Ultimate Full Stack Interview Questions and Answers](../Images/75aaf72ce39b728ae36df6c28eeeb43a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HHup0-0z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/373934/pexels-photo-373934.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D350) 
+[![8 Ultimate Full Stack Interview Questions and Answers](img/75aaf72ce39b728ae36df6c28eeeb43a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--HHup0-0z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.pexels.com/photos/373934/pexels-photo-373934.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D2%26h%3D350) 
 全栈式 Web 开发人员是指能够同时从事应用程序前端和后端工作的人。前端通常是指用户将看到或与之交互的应用程序部分，后端是处理逻辑、数据库交互、用户身份验证、服务器配置等的应用程序部分。
 
 > 🔴最初发表于 [FullStack。咖啡馆-杀死你的技术&编码面试](https://www.fullstack.cafe/?utm_source=dev&utm_medium=blog)
@@ -81,7 +81,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当类和它所做的经常变化时，桥接模式是有用的。类本身可以被认为是抽象，而类所能做的是实现。桥接模式也可以被认为是两层抽象。
 
-[![](../Images/a000dc020f7aeebb830f710281be650e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EB-FuHLv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.bogotobogo.com/DesignPatterns/images/bridge/bridgediagram.png)
+[![](img/a000dc020f7aeebb830f710281be650e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EB-FuHLv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.bogotobogo.com/DesignPatterimg/bridge/bridgediagram.png)
 
 这种模式包含一个接口，它作为一座桥梁，使具体类的功能独立于接口实现者类。这两种类型的类都可以在结构上改变，而不会相互影响。
 

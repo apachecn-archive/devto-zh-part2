@@ -72,7 +72,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果您依次运行`build`和`start`任务，您将会看到一个窗口，显示非常基本的桌面应用程序:
 
-[![Screenshot1](../Images/db072d1438fbbe7410ac4a94d207290d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yw09BS6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/zGGTPyv.png)
+[![Screenshot1](img/db072d1438fbbe7410ac4a94d207290d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yw09BS6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/zGGTPyv.png)
 
 现在我们准备构建一些更有趣的东西😅
 
@@ -105,7 +105,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在我们的应用程序是这样的:
 
-[![Screenshot2](../Images/731393b696ffbf3b089195d25c0aab78.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---vfa3h6m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/PFjEZnD.png)
+[![Screenshot2](img/731393b696ffbf3b089195d25c0aab78.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---vfa3h6m--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/PFjEZnD.png)
 
 让我们为组件数据添加一个`query`属性，并将其设置为输入字段的`v-model`。此外，当没有查询字符串时，我们需要禁用按钮，这对我来说很棘手，因为我已经尝试了一个熟悉的`disabled`属性——但在 Vuido 中，你应该使用 [`enabled`](https://vuido.mimec.org/usage/common-attributes) one！所以现在我们的输入框看起来像这样:
 
@@ -227,7 +227,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在`Group`中，您可以看到已经见过的组件组合:`Text`用于简单的文本内容，`Box`作为容器，`Separator`。现在应用程序看起来是这样的:
 
-[![Screenshot3](../Images/8d66557c50d0b53a4ddb1e41681021f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3_Q_5V3t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/jNwLyGy.png)
+[![Screenshot3](img/8d66557c50d0b53a4ddb1e41681021f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3_Q_5V3t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/jNwLyGy.png)
 
 ## 📦包装
 
@@ -253,7 +253,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在这之后一个文件夹与我的申请！包的大小是 39Mb，比作者承诺的大了一点(文档中提到了大约 20Mb ),但也不算大。
 
-[![Screenshot4](../Images/4d59b8f214cdd10218e5a9cf78f9548f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z_6wLyjs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/2dbgk9L.png)
+[![Screenshot4](img/4d59b8f214cdd10218e5a9cf78f9548f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z_6wLyjs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/2dbgk9L.png)
 
 如果你尝试运行它，你可能会注意到它开始真的很快(0.1 秒左右)。
 

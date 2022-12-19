@@ -18,7 +18,7 @@
 
 #### [你会学到什么？](https://sinxloud.com/machine-learning-tutorial-courses-specialization-beginner/#-ai-machine-learning-career-track-job-guarantee)
 
-[![Best Machine Learning Courses](../Images/0c5d8267e9dc7b31cb3102bfbe6438c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nJqOkY-F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uh150vgocqoq4joljym5.png)
+[![Best Machine Learning Courses](img/0c5d8267e9dc7b31cb3102bfbe6438c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nJqOkY-F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uh150vgocqoq4joljym5.png)
 
 ##### 适合你吗？
 
@@ -38,7 +38,7 @@
 
 ***用户评分:81708 个评分中 5 个评分中的 4.9 个***
 
-[![Best Machine Learning Courses](../Images/341cd6c5888f0eb2c3d594e84fc89ea3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3gCiaiqF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i90lnppu5p2bon20cvuh.png)
+[![Best Machine Learning Courses](img/341cd6c5888f0eb2c3d594e84fc89ea3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3gCiaiqF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i90lnppu5p2bon20cvuh.png)
 
 ##### 适合你吗？
 
@@ -56,7 +56,7 @@ DataCamp 的这门课程将帮助您学习机器学习的真正基础，并尝�
 
 #### [你会学到什么？](https://sinxloud.com/machine-learning-tutorial-courses-specialization-beginner/#-introduction-to-machine-learning-with-r-highly-recommended)
 
-[![Best Machine Learning Courses](../Images/44114bcaa637a4700b3fe0bf52f1f2f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6KyrdBOE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k3nfmwtbodmslcco0xm5.png)
+[![Best Machine Learning Courses](img/44114bcaa637a4700b3fe0bf52f1f2f4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6KyrdBOE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k3nfmwtbodmslcco0xm5.png)
 
 ##### 适合你吗？
 
@@ -76,7 +76,7 @@ DataCamp 是一个时间灵活的在线数据科学学习平台，提供数据�
 
 用户评分:在 382 个评分中得到 4.9 分
 
-[![Best Machine Learning Course](../Images/12408776ce891d8a387603e94a7e09d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B2pslLhn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b5qvzeiqddo9npk40c8z.png)
+[![Best Machine Learning Course](img/12408776ce891d8a387603e94a7e09d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B2pslLhn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b5qvzeiqddo9npk40c8z.png)
 
 ##### 适合你吗？
 
@@ -94,7 +94,7 @@ DataCamp 是一个时间灵活的在线数据科学学习平台，提供数据�
 
 #### [你会学到什么？](https://sinxloud.com/machine-learning-tutorial-courses-specialization-beginner/#-machine-learning-a-z-hands-on-python-r-in-data-science)
 
-[![Machine Learning Courses](../Images/c56a16287301d48d05cb9fc0d45d99d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KIHYPqDX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.googleapis.com/molten/lava/2018/10/357d8ef9-machine-learning-a-z-hands-on-python-r-in-data-science.jpg)
+[![Machine Learning Courses](img/c56a16287301d48d05cb9fc0d45d99d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KIHYPqDX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.googleapis.com/molten/lava/2018/10/357d8ef9-machine-learning-a-z-hands-on-python-r-in-data-science.jpg)
 
 ##### 适合你吗？
 

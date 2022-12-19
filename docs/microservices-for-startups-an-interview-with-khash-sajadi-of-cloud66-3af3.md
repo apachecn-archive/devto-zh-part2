@@ -4,7 +4,7 @@
 
 *这次采访是为我们的[创业微服务](https://buttercms.com/books/microservices-for-startups/)电子书而做的。一定要去看看关于微服务的实用建议。感谢卡什的时间和投入！*
 
-[![Khash Sajadi](../Images/1cf1877250f3a5b6503e69fadc6af33d.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--uyq11BVR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/HidORLB3SsNP19B8mm2A) * [卡什·萨贾迪](https://twitter.com/khash?lang=en)是 [Cloud66](https://cloud66.com/?utm_source=-&utm_medium=-&utm_campaign=Microservices-for-Startups-ebook) 的首席执行官，这是一项在您自己的服务器上构建、部署和管理应用的服务。*
+[![Khash Sajadi](img/1cf1877250f3a5b6503e69fadc6af33d.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--uyq11BVR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/HidORLB3SsNP19B8mm2A) * [卡什·萨贾迪](https://twitter.com/khash?lang=en)是 [Cloud66](https://cloud66.com/?utm_source=-&utm_medium=-&utm_campaign=Microservices-for-Startups-ebook) 的首席执行官，这是一项在您自己的服务器上构建、部署和管理应用的服务。*
 
 就背景而言，你的工程团队有多大？您是否正在使用微服务，能否概述一下您是如何使用它们的？
 

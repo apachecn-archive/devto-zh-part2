@@ -157,15 +157,15 @@ Enter fullscreen mode Exit fullscreen mode
 
 前几天我在推特上问过他们这件事，没有得到回应。
 
-> ![Richard Klose profile image](../Images/47b239e69c5e4e27f5946baa685721ad.png)理查德·克洛泽[@理查德 _ 克洛泽](https://dev.to/richard_klose)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)[@ koken](https://twitter.com/koken)你为什么在你的生产安装脚本中禁用 https 的安全性？
+> ![Richard Klose profile image](img/47b239e69c5e4e27f5946baa685721ad.png)理查德·克洛泽[@理查德 _ 克洛泽](https://dev.to/richard_klose)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)[@ koken](https://twitter.com/koken)你为什么在你的生产安装脚本中禁用 https 的安全性？
 > if($ protocol = = = ' https ')
 > {
 > curl _ setopt($ curl，CURLOPT_SSL_VERIFYHOST，0)；
 > curl_setopt($curl，CURLOPT_SSL_VERIFYPEER，false)；
-> }2018 年 6 月 08 日下午 14:12[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1005090137158627329)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1005090137158627329)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1005090137158627329)
+> }2018 年 6 月 08 日下午 14:12[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1005090137158627329)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1005090137158627329)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1005090137158627329)
 
-> ![Richard Klose profile image](../Images/47b239e69c5e4e27f5946baa685721ad.png)理查德克洛泽[@理查德 _ 克洛泽](https://dev.to/richard_klose)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)至今没有答案。看来 [@koken](https://twitter.com/koken) 不是死了就是他们不在乎安全。
-> [twitter.com/richard_klose/…](https://t.co/NoRLW0TJnb)2018 年 6 月 13 日下午 17:40理查德·克洛泽[@理查德 _ 克洛泽](https://dev.to/richard_klose)@koken 你为什么在你的生产安装脚本中禁用 https 的安全性？if($ protocol = = = ' https '){ curl _ set opt($ curl，CURLOPT_SSL_VERIFYHOST，0)；curl_setopt($curl，CURLOPT_SSL_VERIFYPEER，false)；}【T29[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1006954359689760769)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1006954359689760769)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1006954359689760769)
+> ![Richard Klose profile image](img/47b239e69c5e4e27f5946baa685721ad.png)理查德克洛泽[@理查德 _ 克洛泽](https://dev.to/richard_klose)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)至今没有答案。看来 [@koken](https://twitter.com/koken) 不是死了就是他们不在乎安全。
+> [twitter.com/richard_klose/…](https://t.co/NoRLW0TJnb)2018 年 6 月 13 日下午 17:40理查德·克洛泽[@理查德 _ 克洛泽](https://dev.to/richard_klose)@koken 你为什么在你的生产安装脚本中禁用 https 的安全性？if($ protocol = = = ' https '){ curl _ set opt($ curl，CURLOPT_SSL_VERIFYHOST，0)；curl_setopt($curl，CURLOPT_SSL_VERIFYPEER，false)；}【T29[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1006954359689760769)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1006954359689760769)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1006954359689760769)
 
 In combination with a last modified date from more than a year ago and also no activity in their blog since a year I have truly no hopes that this situation will change.
 

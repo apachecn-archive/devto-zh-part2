@@ -10,7 +10,7 @@
 
 Web 应用程序架构建立了应用程序组件之间的关系和交互，包括中间件系统、用户界面和数据库。它的主要目标是确保所有的元素都能正确地一起工作。
 
-[![how web application architecture works](../Images/3f90bdcb27cdabcd8be52baad254046e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I9OiyW8U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://perfectial.com/wp-content/uploads/2018/11/web_application-01.jpg)
+[![how web application architecture works](img/3f90bdcb27cdabcd8be52baad254046e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I9OiyW8U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://perfectial.com/wp-content/uploads/2018/11/web_application-01.jpg)
 
 逻辑如下:当用户点击浏览器中的特定 URL 时，浏览器会转到托管特定页面的 web 服务器。服务器会在几秒钟内做出响应，并向用户显示所请求的页面。这里的时机至关重要；否则，用户将放弃该页面。
 

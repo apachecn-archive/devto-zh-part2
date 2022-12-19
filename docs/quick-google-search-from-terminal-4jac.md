@@ -25,6 +25,6 @@ chromium-browser "https://google.com/search?q=$*"
 gsearch please help google 
 ```
 
-[![hey](../Images/e3ce1f1fcccc5a68ba8b9051c9f604c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Uet0NtXB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qo5vfi5nai81ctzyfx9a.png)
+[![hey](img/e3ce1f1fcccc5a68ba8b9051c9f604c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Uet0NtXB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qo5vfi5nai81ctzyfx9a.png)
 
 一个浏览器标签将会出现，显示谷歌搜索“请帮助谷歌”的结果。这才是好的 DX。

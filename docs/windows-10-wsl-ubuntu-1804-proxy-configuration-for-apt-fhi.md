@@ -30,4 +30,4 @@ wget http://some.domain.tld/some-proxy.pac
 
 注销并重新登录。此时`apt-get update -y`和相关的 apt 命令应该按预期工作。
 
-[![](../Images/7ef97066de8d32d4889f11c0e38de157.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mb4IHICx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/11/apt-get-update.png)
+[![](img/7ef97066de8d32d4889f11c0e38de157.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mb4IHICx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/11/apt-get-update.png)

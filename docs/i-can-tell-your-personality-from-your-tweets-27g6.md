@@ -12,7 +12,7 @@
 
 要开始使用 IBM Watson 的 Node.js SDK，打开您的终端(或命令行)，导航到您的项目文件夹，并运行`npm i watson-developer-cloud -- save`。您应该将 watson-developer-cloud 添加到 package.json 文件中。
 
-[![adding IBM Watson SDK to our project](../Images/179522e7140e4d95eb19ecf1330332fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SyNoAwen--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AJBctOjHX4ZzYdMyxXqmKWw.png)
+[![adding IBM Watson SDK to our project](img/179522e7140e4d95eb19ecf1330332fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SyNoAwen--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AJBctOjHX4ZzYdMyxXqmKWw.png)
 
 完成后，您现在可以将以下代码写入您的项目，以使用 Personality Insights 服务。请注意，我正在从一个`.env`文件加载我的凭证，并且我正在使用`dotenv`模块。您可以运行`npm i dotenv --save`将它添加到您的`package.json`文件中，并能够在您的项目中使用它。您的代码现在应该是这样的:
 
@@ -237,7 +237,7 @@ const getTextSummary = personalityProfile => {
 ```
 
 如果一切顺利，应该会有这样的结果:
-[![result](../Images/d8bd0db3f770904e2fd572af759dcf63.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--k8YcTZa2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AExK7_uaGTDevDQvw6JD4vQ.png)
+[![result](img/d8bd0db3f770904e2fd572af759dcf63.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--k8YcTZa2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AExK7_uaGTDevDQvw6JD4vQ.png)
 
 就是这样。我们已经到了本教程的结尾。本教程的代码可以在 Github 上找到。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/rendering-large-lists-with-react-virtualized-2p8b>
 
-[![](../Images/e702661b676109e119ec548f645a30af.png)](https://github.com/bvaughn/react-virtualized)
+[![](img/e702661b676109e119ec548f645a30af.png)](https://github.com/bvaughn/react-virtualized)
 
 <figcaption>[http://www.reactvirtualized.com](http://www.reactvirtualized.com)</figcaption>
 
@@ -32,7 +32,7 @@ npx create-react-app virtualization
 
 这个应用程序将显示一千条评论的列表。大概是这样的:
 
-[![](../Images/2b1e2b064a16eca0aa5a52cc1f766fbe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K3UI3x7V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/475/0%2AT-kTrUwEOpwnWfBr.)
+[![](img/2b1e2b064a16eca0aa5a52cc1f766fbe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K3UI3x7V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/475/0%2AT-kTrUwEOpwnWfBr.)
 
 占位符文本将由库 [lorem-ipsum](https://github.com/knicklabs/lorem-ipsum.js) 生成，因此将它 cd 到您的应用程序目录并安装:
 
@@ -141,13 +141,13 @@ renderRow(item) {
 
 并使用 npm start 运行应用程序，您应该会看到类似这样的内容:
 
-[![](../Images/32f159fce53255d25de580e61312d5c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wgOtGQy9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/723/0%2AdYQBJ11Rr7R7EfK_.)
+[![](img/32f159fce53255d25de580e61312d5c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wgOtGQy9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/723/0%2AdYQBJ11Rr7R7EfK_.)
 
 您可以使用浏览器开发工具的“元素”面板来检查页面。
 
 在 DOM 中发现一千个 div 节点并不奇怪:
 
-[![](../Images/cfdb1e8ef7219f311a0c990246213463.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OkIjaC_J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/387/0%2Agcq_T5JFaMADqavT.)
+[![](img/cfdb1e8ef7219f311a0c990246213463.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OkIjaC_J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/387/0%2Agcq_T5JFaMADqavT.)
 
 DOM 中如此多的元素会导致两个问题:
 
@@ -166,7 +166,7 @@ DOM 中如此多的元素会导致两个问题:
 
 在我的例子中，帧数从每秒 60 帧增加到大约每秒 38 帧:
 
-[![](../Images/ed7e4b7bf0e56e79d40fc5d3c476205b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2DGf25Yy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/0%2AQxVnGLIypUWyWYw1.)
+[![](img/ed7e4b7bf0e56e79d40fc5d3c476205b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2DGf25Yy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/0%2AQxVnGLIypUWyWYw1.)
 
 这可不好。
 
@@ -176,7 +176,7 @@ DOM 中如此多的元素会导致两个问题:
 
 一种方法是使用像 react-virtualized 这样的库，它使用一种叫做虚拟渲染的技术。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/?cid=banner_a)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/?cid=banner_a)
 
 ### react-虚拟化是如何工作的？
 
@@ -288,13 +288,13 @@ renderRow({ index, key, style }) {
 
 如果你运行这个应用程序，你会看到这样的内容:
 
-[![](../Images/9af835b330b11125575dab16fd2a4aa5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eMZNTx9G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/908/0%2ADaJ-GsW5Aak8Gb0d.)
+[![](img/9af835b330b11125575dab16fd2a4aa5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eMZNTx9G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/908/0%2ADaJ-GsW5Aak8Gb0d.)
 
 在我的例子中，可以看到八行半。
 
 如果我们在 developer tools 选项卡中查看页面的元素，您会看到现在这些行被放置在另外两个 div 元素中:
 
-[![](../Images/516a50cd3c1210ef99af817181780e71.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GHGZ0R20--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/331/0%2AfhmpCvCkcdJEP1Sk.)
+[![](img/516a50cd3c1210ef99af817181780e71.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GHGZ0R20--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/331/0%2AfhmpCvCkcdJEP1Sk.)
 
 外部 div 元素(具有 CSS 类 ReactVirtualized _ _ GridReactVirtualized _ _ List 的元素)具有组件中指定的宽度和高度(分别为 800px 和 600px)，具有相对位置和值 auto(用于溢出)(用于添加滚动条)。
 
@@ -322,11 +322,11 @@ overscanRowCount={3} />
 
 无论如何，如果您重复帧速率测试，这次您将看到 59/60 fps 的恒定速率:
 
-[![](../Images/61bf9a877f92173d16eb3bf41ef996a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e8iZagJF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/0%2AeaSm66VXq87uLqt5.)
+[![](img/61bf9a877f92173d16eb3bf41ef996a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e8iZagJF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/0%2AeaSm66VXq87uLqt5.)
 
 此外，看看元素及其顶级样式是如何动态更新的:
 
-[![](../Images/9d8b6347c11e9cd71fb2e7cce8744f90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wh3v3Q5P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/274/0%2AT8JB35D7kE1arqF0.)
+[![](img/9d8b6347c11e9cd71fb2e7cce8744f90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wh3v3Q5P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/274/0%2AT8JB35D7kE1arqF0.)
 
 缺点是您必须指定列表的宽度和高度以及行的高度。
 
@@ -392,11 +392,11 @@ import { List, AutoSizer } from "react-virtualized";
 
 当您运行应用程序时，您应该会看到类似这样的内容:
 
-[![](../Images/2a99abaa5d114dd27d2079108845979f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c8Jj0mWk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/631/0%2AgACjNwXyudLInECa.)
+[![](img/2a99abaa5d114dd27d2079108845979f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c8Jj0mWk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/631/0%2AgACjNwXyudLInECa.)
 
 如果调整窗口大小，列表高度应该会自动调整:
 
-[![](../Images/db1f0238e9881ea8c18ce18bf2ebd05d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1RIsbeTG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/0%2A_bBHhJsVWhAS60Zo.)
+[![](img/db1f0238e9881ea8c18ce18bf2ebd05d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1RIsbeTG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/0%2A_bBHhJsVWhAS60Zo.)
 
 ### 自动计算一行的高度
 
@@ -418,7 +418,7 @@ sentenceUpperBound: 100
 
 一切都变得一团糟:
 
-[![](../Images/38c11a4df87ddbf7b1b016740570fba9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gWaWKQAU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/626/0%2AjF-7d0xv3a_KYVYZ.)
+[![](img/38c11a4df87ddbf7b1b016740570fba9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gWaWKQAU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/626/0%2AjF-7d0xv3a_KYVYZ.)
 
 这是因为每个单元格的高度都有一个固定值 50。如果您想要动态高度，您必须使用 CellMeasurer 组件。
 
@@ -500,7 +500,7 @@ renderRow({ index, key, style, parent }) {
 
 现在，当您运行应用程序时，一切看起来都很好:
 
-[![](../Images/3d3f0df503f3b3fe122e15260b6d6334.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f8flgWwM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/882/0%2Aj-q3iNO6GhxUQuEf.)
+[![](img/3d3f0df503f3b3fe122e15260b6d6334.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f8flgWwM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/882/0%2Aj-q3iNO6GhxUQuEf.)
 
 ### 同步两个列表之间的滚动
 
@@ -575,7 +575,7 @@ ScrollSync 还以一个函数为子传递一些[参数](https://github.com/bvaug
 
 并运行应用程序，您应该看到 scrollTop 参数是如何随着您滚动列表而更新的:
 
-[![](../Images/d1e42439c0ede413218046a604d120f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TkQusAFh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/585/0%2AvEUXBthTX1d8GKqw.)
+[![](img/d1e42439c0ede413218046a604d120f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TkQusAFh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/585/0%2AvEUXBthTX1d8GKqw.)
 
 由于列表没有水平滚动，scrollLeft 参数没有值。
 
@@ -669,7 +669,7 @@ overflow: hidden !important;
 
 最后，如果您运行应用程序并滚动右侧列表，您将看到另一个列表也是如何滚动的:
 
-[![](../Images/f4f0ef7e5b362bd61183c358a752c587.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9AOqAH_H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/628/0%2AOuY1Rqwdnbf9h1Aw.)
+[![](img/f4f0ef7e5b362bd61183c358a752c587.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9AOqAH_H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/628/0%2AOuY1Rqwdnbf9h1Aw.)
 
 ### 结论
 
@@ -683,7 +683,7 @@ overflow: hidden !important;
 
 ### Plug: [LogRocket](http://logrocket.com) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

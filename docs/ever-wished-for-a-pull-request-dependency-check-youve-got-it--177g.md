@@ -28,7 +28,7 @@
 
 Pierre 的概念很简单，它应该配置为给定存储库的 webhook，然后您使用关键字(如“依赖于#2”表示相同回购问题/PRs，或“依赖于所有者/回购#2”表示外部问题)将依赖项添加到 PR，然后它将发布对您的 PR 状态的检查，告诉您是否满足依赖项:
 
-[![A Pull Request's checks](../Images/7f3f314d6a16e0bc4debce2fc6b8e303.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BYK5YUDG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/alvarocavalcanti/pierre-decheck/raw/master/pull_request_checks.png)
+[![A Pull Request's checks](img/7f3f314d6a16e0bc4debce2fc6b8e303.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BYK5YUDG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/alvarocavalcanti/pierre-decheck/raw/master/pull_request_checks.png)
 
 安装和使用细节可以在 Pierre 的 GitHub 页面上找到，唯一需要注意的是，现在，依赖检查是同步的。这意味着当 GitHub 向 webhook 发送事件时，检查和状态更新将在请求过程中进行。我知道这不是最理想的，但这是一个开始。
 

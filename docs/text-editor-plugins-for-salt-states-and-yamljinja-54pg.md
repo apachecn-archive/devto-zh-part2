@@ -53,7 +53,7 @@
 
 ## Atom
 
-[![SaltStack package for Atom](../Images/fda0757cd495f0dec578182c02858599.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GAFhbfsx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://salt.tips/text-editor-plugins-for-salt-states-and-yaml-jinja/salt-atom.png)
+[![SaltStack package for Atom](img/fda0757cd495f0dec578182c02858599.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GAFhbfsx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://salt.tips/text-editor-plugins-for-salt-states-and-yaml-jinja/salt-atom.png)
 
 开箱即用，Atom 将`*.sls`文件理解为 YAML。另外，你可以安装 [atom-jinja2](https://atom.io/packages/atom-jinja2) ，并通过按`Ctrl+Shift+L`手动切换文件语法到`YAML (Jinja Templates)`。
 
@@ -89,7 +89,7 @@
 
 ## 月食
 
-[![SaltStack plugin for Eclipse](../Images/7d484948ccd5b3ba00b51eefc59bb092.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y61AZXsM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://salt.tips/text-editor-plugins-for-salt-states-and-yaml-jinja/salt-eclipse.png)
+[![SaltStack plugin for Eclipse](img/7d484948ccd5b3ba00b51eefc59bb092.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y61AZXsM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://salt.tips/text-editor-plugins-for-salt-states-and-yaml-jinja/salt-eclipse.png)
 
 我无法为 Eclipse 找到一个足够好的解决方案，但是以下是您可以尝试探索的两个方向:
 
@@ -101,7 +101,7 @@
 
 ## Emacs
 
-[![SaltStack mode for Emacs](../Images/b6ca079db8d3732b3c1e1a68b8bbca11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_vj7hdL1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://salt.tips/text-editor-plugins-for-salt-states-and-yaml-jinja/salt-emacs.png)
+[![SaltStack mode for Emacs](img/b6ca079db8d3732b3c1e1a68b8bbca11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_vj7hdL1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://salt.tips/text-editor-plugins-for-salt-states-and-yaml-jinja/salt-emacs.png)
 
 盐模式的是你最好的选择。它基于`yaml-mode`和`mmm-mode`，并自动为`*.sls`文件启用。最简单的安装方式是通过 MELPA。
 
@@ -131,7 +131,7 @@
 
 ## 凯特
 
-[![SaltStack syntax highlighter for Kate](../Images/cf52aa1986b9135c0d6482e91155fb5d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J8CkTrHY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://salt.tips/text-editor-plugins-for-salt-states-and-yaml-jinja/salt-kate.png)
+[![SaltStack syntax highlighter for Kate](img/cf52aa1986b9135c0d6482e91155fb5d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--J8CkTrHY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://salt.tips/text-editor-plugins-for-salt-states-and-yaml-jinja/salt-kate.png)
 
 Kate-jinja2-highlighting 有一堆不同文件类型的语法荧光笔，最上面是 jinja。
 
@@ -168,7 +168,7 @@ sed -i'' -e 's/\(\*\.yml\)"/\1;*.sls"/' yaml-jinja2.xml
 
 ## 午夜指挥官
 
-[![SaltStack syntax highlighter for Midnight Commander](../Images/3e363dd64856f2442b71c76c685fd730.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vnrrwuyT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://salt.tips/text-editor-plugins-for-salt-states-and-yaml-jinja/salt-midnight-commander.png)
+[![SaltStack syntax highlighter for Midnight Commander](img/3e363dd64856f2442b71c76c685fd730.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vnrrwuyT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://salt.tips/text-editor-plugins-for-salt-states-and-yaml-jinja/salt-midnight-commander.png)
 
 对于我们这些在 90 年代使用[正统文件管理器](https://en.wikipedia.org/wiki/File_manager#Orthodox_file_managers)的人来说,《午夜指挥官》是一个老掉牙的好东西，没有它就无法生活。就我个人而言，我使用它来快速导航文件系统树并查看文件，而不用在我的主编辑器中打开它们。根据[这张票](https://midnight-commander.org/ticket/3293)，开箱后，`mcedit`高亮显示`*.yml`和`*.yaml`文件并理解简单的 Jinja 变量(虽然不支持标签)。而且，它不理解`*.jinja`文件。
 
@@ -197,7 +197,7 @@ sed -e 's/\(|YML)\)/|sls\1/' /usr/share/mc/syntax/Syntax > ~/.config/mc/mcedit/S
 
 ## PyCharm
 
-[![SaltStack support in PyCharm](../Images/9e28b8cf529f5408fb3722a777436a05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x5rzi00C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://salt.tips/text-editor-plugins-for-salt-states-and-yaml-jinja/salt-pycharm.png)
+[![SaltStack support in PyCharm](img/9e28b8cf529f5408fb3722a777436a05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x5rzi00C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://salt.tips/text-editor-plugins-for-salt-states-and-yaml-jinja/salt-pycharm.png)
 
 嗯，看起来 PyCharm 没有特定于 Salt 的插件。Ansible 用户在这里更幸运——py charm 支持 [JSON 模式](http://schemastore.org/json/)，来自 RedHat 的某人已经创建了 [one](https://github.com/shaded-enmity/ansible-schema-generator) 。这意味着特定于 Ansible 的 YAML 数据结构的代码自动完成开箱即用！另外，还有一个独立的 [YAML/Ansible](https://plugins.jetbrains.com/plugin/7792-yaml-ansible-support) 插件( [GitHub](https://github.com/vermut/intellij-ansible/) )。
 
@@ -211,7 +211,7 @@ sed -e 's/\(|YML)\)/|sls\1/' /usr/share/mc/syntax/Syntax > ~/.config/mc/mcedit/S
 
 ## 崇高的文字
 
-[![SaltStack plugin for Sublime Text](../Images/a334800915180a533b9647b3e2e489f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DFwH9SQ1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://salt.tips/text-editor-plugins-for-salt-states-and-yaml-jinja/salt-sublime-text.png)
+[![SaltStack plugin for Sublime Text](img/a334800915180a533b9647b3e2e489f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DFwH9SQ1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://salt.tips/text-editor-plugins-for-salt-states-and-yaml-jinja/salt-sublime-text.png)
 
 该扩展可在 [GitHub](https://github.com/saltstack/sublime-text) 上获得。要安装它，点击`Preferences -> Package Control -> Install Package`，搜索`saltstack`并点击安装。还建议为 Jinja 安装[独立扩展](https://github.com/kudago/jinja2-tmbundle)(进入`Package Control`搜索`jinja2`)。
 
@@ -226,7 +226,7 @@ sed -e 's/\(|YML)\)/|sls\1/' /usr/share/mc/syntax/Syntax > ~/.config/mc/mcedit/S
 
 ## Vim
 
-[![SaltStack plugin for Vim](../Images/f0168ddf73cd444a6e1007cbd8921844.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xbxriINJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://salt.tips/text-editor-plugins-for-salt-states-and-yaml-jinja/salt-vim.png)
+[![SaltStack plugin for Vim](img/f0168ddf73cd444a6e1007cbd8921844.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xbxriINJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://salt.tips/text-editor-plugins-for-salt-states-and-yaml-jinja/salt-vim.png)
 
 你需要 [salt-vim](https://github.com/saltstack/salt-vim.git) 和 [vim-jinja2-syntax](https://github.com/Glench/Vim-Jinja2-Syntax.git) 。
 
@@ -261,7 +261,7 @@ let g:sls_use_jinja_syntax = 1
 
 ## Visual Studio 代码
 
-[![SaltStack extension for Visual Studio Code](../Images/097801382d20f8041bedee550a19d82c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qsvVwRFe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://salt.tips/text-editor-plugins-for-salt-states-and-yaml-jinja/salt-vscode.png)
+[![SaltStack extension for Visual Studio Code](img/097801382d20f8041bedee550a19d82c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qsvVwRFe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://salt.tips/text-editor-plugins-for-salt-states-and-yaml-jinja/salt-vscode.png)
 
 SaltStack 的 VSCode 扩展可在[市场](https://marketplace.visualstudio.com/items?itemName=korekontrol.saltstack)上获得。要安装它，点击`File -> Preferences -> Extensions`，然后搜索`saltstack`并点击安装。源代码可以在 [GitHub](https://github.com/korekontrol/vscode-saltstack) 上找到
 
@@ -336,4 +336,4 @@ SaltStack 的 VSCode 扩展可在[市场](https://marketplace.visualstudio.com/i
 
 另外，你可以在 Twitter 上关注我，我会定期发布这样的消息:
 
-[![SaltTips tweet](../Images/392adbdf019b67d5a9ebfe47c4045ddb.png)T2】](https://twitter.com/SaltTips)
+[![SaltTips tweet](img/392adbdf019b67d5a9ebfe47c4045ddb.png)T2】](https://twitter.com/SaltTips)

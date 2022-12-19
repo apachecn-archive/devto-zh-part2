@@ -11,7 +11,7 @@
 
 **补充:在事先安装了 GUI 相关的 Fcitx 模块的环境下，即使不进行特别的设定，也不会发生本次的问题。 安装这些模块可能比较好:*
 
-[![nabbisen](../Images/6759a36884202f6cf21b258b1e80383e.png)](/nabbisen) [## Fcitx :调整输入辅助弹出窗口的显示位置
+[![nabbisen](img/6759a36884202f6cf21b258b1e80383e.png)](/nabbisen) [## Fcitx :调整输入辅助弹出窗口的显示位置
 
 ### 纳比森 11 月 6 日 181 分钟阅读
 
@@ -26,7 +26,7 @@
 
 在确认输入之前，只会显示自动图文集弹出窗口，而 APP 应用程序(文本编辑器)的显示不会反映您的输入。
 
-[![](../Images/a4c1c31a1d5ab35613d28ca55737b8c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fn3rBoVh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9lq3por48ca0ylr49hd4.png)
+[![](img/a4c1c31a1d5ab35613d28ca55737b8c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fn3rBoVh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9lq3por48ca0ylr49hd4.png)
 
 # Solution
 
@@ -36,31 +36,31 @@
 
 打开 Fcitx 的“设置”菜单。
 
-[![](../Images/2eb9756e272e424e0d9a04a63b521318.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RjD52e6Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bcjf8k7f42dd5mfmlxf6.jpg)
+[![](img/2eb9756e272e424e0d9a04a63b521318.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RjD52e6Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bcjf8k7f42dd5mfmlxf6.jpg)
 
 打开“附加”选项卡。
 
-[![](../Images/fb119f48c3c1a2d4eb48ddbad3b95d0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rIy_Et_2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8q3q31oe10mlhgwanbrn.png)
+[![](img/fb119f48c3c1a2d4eb48ddbad3b95d0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rIy_Et_2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8q3q31oe10mlhgwanbrn.png)
 
 如果选中最下部的“Advanced”，则会显示隐藏项目。
 随之，标签内的中央稍上方附近出现“Fcitx XIM Frontend”。
 请双击(或者将该行设为选择状态并单击下面的“设置”)。
 
-[![](../Images/20c1b943f765f285a9430fd5d307d1d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RrTrbf1z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/97rw5nxgni26zbyb9bjw.png)
+[![](img/20c1b943f765f285a9430fd5d307d1d8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RrTrbf1z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/97rw5nxgni26zbyb9bjw.png)
 
 将显示子窗口。 勾选
 ，然后按“OK”关闭。
 
-[![](../Images/5ff6105acaccda5e6e0d3dddf9617da5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tbfIBxdn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jycdwkellirwr53vhq93.png)
+[![](img/5ff6105acaccda5e6e0d3dddf9617da5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tbfIBxdn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jycdwkellirwr53vhq93.png)
 
 重新启动 Fcitx。
 
-[![](../Images/6f52cd982c812510c0a5c6d9d6edcdc3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IDcUUbb7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j63ferzm3ninln2e493r.jpg)
+[![](img/6f52cd982c812510c0a5c6d9d6edcdc3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IDcUUbb7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j63ferzm3ninln2e493r.jpg)
 
 ### After :文本编辑器 Xed 中的图像
 
 可以进行实时输入。
 
-[![](../Images/e216213ec8e1e7238ec3240d4555b297.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6lszKnyX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bgn9pf8c71nig96941kz.jpg)
+[![](img/e216213ec8e1e7238ec3240d4555b297.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6lszKnyX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bgn9pf8c71nig96941kz.jpg)
 
 **补充:在仅安装了 Fcitx 单体的情况下，有时会出现自动图文集弹出窗口显示在 APP 应用程序窗口之外的问题。 [可以通过添加 GUI 相关模块](#advanced-settings)来解决。*

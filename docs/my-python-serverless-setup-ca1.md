@@ -8,7 +8,7 @@
 
 您可以在 Github 上获得这个例子的完整源代码:
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png) [艾格杰达](https://github.com/egrajeda) / [无服务器-python-template](https://github.com/egrajeda/serverless-python-template)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png) [艾格杰达](https://github.com/egrajeda) / [无服务器-python-template](https://github.com/egrajeda/serverless-python-template)
 
 ### 这是我在使用无服务器和 Python 时使用的一个非常基本的模板。
 
@@ -93,7 +93,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我为每个函数创建了一个目录，试图将它们的代码、测试和依赖尽可能地分开。在这个例子中，每个函数都有自己的目录:`functions/hello/`和`functions/joke/`。
 
-[![The directory structure](../Images/b8d56e54f5aecf5a809aa3d1ed3106e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x7Th7gy3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k0cdhyo5mjwfol62zk8a.png)
+[![The directory structure](img/b8d56e54f5aecf5a809aa3d1ed3106e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x7Th7gy3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k0cdhyo5mjwfol62zk8a.png)
 
 函数处理程序的代码总是在`lib/function.py`里面。我根据需要在`lib/`中创建尽可能多的文件，但是入口点总是在同一个地方。所有这些代码的相应测试都在`tests/`下。
 

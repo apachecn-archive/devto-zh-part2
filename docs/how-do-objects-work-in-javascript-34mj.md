@@ -10,7 +10,7 @@
 
 现在用同样的方式思考物体。一个物体就像一部普通的电话。你可以赋予它定义对象的属性，你可以拥有对象可以使用的方法，就像你可以得到一部有特定维度和应用程序的手机一样。
 
-[![javascript object phone comparison](../Images/601426b725b2405cfaba6f4c1cae658e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PRDLZabb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o0psoothfx1eey8gntlc.JPG)
+[![javascript object phone comparison](img/601426b725b2405cfaba6f4c1cae658e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PRDLZabb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o0psoothfx1eey8gntlc.JPG)
 
 对象之所以复杂，是因为它们可以保存不同类型的多个值。对象是如此开放，以至于您可以将函数赋值。这也是物体如此强大的原因。例如，如果您正在为一个网站创建多个用户，对象会很有帮助。他们会让你使用相同的代码从不同的用户那里获得相同的信息。
 

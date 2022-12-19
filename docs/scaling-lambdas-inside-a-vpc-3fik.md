@@ -38,7 +38,7 @@
 
 > 默认情况下，AWS Lambda 在 VPC 中安全地运行您的函数代码。然而，要使您的 Lambda 函数能够访问您的私有 VPC 内部的资源，您必须提供额外的特定于 VPC 的配置信息，包括 VPC 子网 id 和安全组 id。 **AWS Lambda 使用这些信息来设置弹性网络接口(ENIs ),使您的功能能够安全地连接到您的专用 VPC 内的其他资源。**
 
-[![Lambda functions connecting to a VPC via an ENI](../Images/8b30254444fda5905b6ac29ec5b31dd8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W-DncP__--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://winterwindsoftware.com/img/blog-images/lambda-vpc-eni.png)
+[![Lambda functions connecting to a VPC via an ENI](img/8b30254444fda5905b6ac29ec5b31dd8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W-DncP__--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://winterwindsoftware.com/img/blog-images/lambda-vpc-eni.png)
 
 在每个函数容器和 VPC 之间建立 ENI 的要求从 3 个方面限制了 Lambda 函数的可伸缩性:
 

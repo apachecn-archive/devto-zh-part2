@@ -105,7 +105,7 @@
 
 假设我们的一个组件是这个条形图:
 
-[![Bar chart example](../Images/20f09b37082922c859d9fa10ff89a956.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2-RqltUw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://support.squarespace.com/hc/en-us/article_attachments/202348128/test.jpg)
+[![Bar chart example](img/20f09b37082922c859d9fa10ff89a956.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2-RqltUw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://support.squarespace.com/hc/en-us/article_attachments/202348128/test.jpg)
 
 它看起来很好，有正确的标签，每一列都是不同的颜色，老实说，它似乎开箱即用，对不对？良好的...很遗憾，答案是否定的。
 

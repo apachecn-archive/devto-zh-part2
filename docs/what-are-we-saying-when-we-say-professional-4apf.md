@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/anaulin/what-are-we-saying-when-we-say-professional-4apf>
 
-[![An unprofessionally-stickered laptop, in front of an unprofessional microwave. Photo by NeONBRAND on Unsplash.](../Images/b8ad9a443baa3f60714e6fcdb81f7727.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pGVBG-zr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anaulin.org/img/laptop-stickers-microwave.jpg)
+[![An unprofessionally-stickered laptop, in front of an unprofessional microwave. Photo by NeONBRAND on Unsplash.](img/b8ad9a443baa3f60714e6fcdb81f7727.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pGVBG-zr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://anaulin.org/img/laptop-stickers-microwave.jpg)
 
 我听到人们提到“专业”——他不专业，或者“她总是表现得很专业”——但我认为当我们使用这个词时，我们并不知道自己在说什么。我说“我们”是因为我也有罪。卡特彼勒知道我用“你不专业”作为“你做了我不喜欢的事情”的简写，但我正在努力做得更好。
 

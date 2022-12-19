@@ -19,14 +19,14 @@
 
 当您邀请手里剑加入频道时:
 
-[![](../Images/82524bcb09fcd8a81975d1e136cd00a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hYTdaC4H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i6y41s0zm11w3xdhubk4.png)
+[![](img/82524bcb09fcd8a81975d1e136cd00a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hYTdaC4H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i6y41s0zm11w3xdhubk4.png)
 
 当你增加或减少某人时:
 
-[![](../Images/376c14a042c967a11f600a86551a373c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FFROR_RQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ra0jz23at5n02dw6trt8.png)
+[![](img/376c14a042c967a11f600a86551a373c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FFROR_RQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ra0jz23at5n02dw6trt8.png)
 
 当你要求手里剑显示排名时:
 
-[![](../Images/dc206a4ad4fac202bf00efc2d34a84b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jpvzVMTP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fe3nv5j4q8cpiy1jtsme.png)
+[![](img/dc206a4ad4fac202bf00efc2d34a84b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jpvzVMTP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fe3nv5j4q8cpiy1jtsme.png)
 
 让我知道你的想法，并随时开始回购(如果你喜欢它。当然了) :)

@@ -60,7 +60,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 > 注意相对于`index.html`位置的`./client.js`路径。
 
-[![Hello world Parcel](../Images/23caadf311fb50a7688ae5bd97f59448.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gbM-qTQj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_E9E094C7512204BB25ABDCD9DE0C74A2094E37B7E71EFEFC5F9B77F1E4873835_1533922372858_Screen%2BShot%2B2018-08-10%2Bat%2B18.32.24.png)
+[![Hello world Parcel](img/23caadf311fb50a7688ae5bd97f59448.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gbM-qTQj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://d2mxuefqeaa7sj.cloudfront.net/s_E9E094C7512204BB25ABDCD9DE0C74A2094E37B7E71EFEFC5F9B77F1E4873835_1533922372858_Screen%2BShot%2B2018-08-10%2Bat%2B18.32.24.png)
 
 React 和 Vue 单文件组件等也分别与简单的`.babelrc` include 和 npm install 的 [`babel-preset-react`](https://babeljs.io/docs/en/babel-preset-react.html) 或 [`babel-preset-vue`](https://github.com/vuejs/babel-preset-vue) 一起工作。
 

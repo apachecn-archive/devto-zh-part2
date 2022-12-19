@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/leogdion/swift-thoughts-on-tryswift-nyc-2018-5amk>
 
-[![Everybody at try!Swift](../Images/56280d4153128f5b4f49caa39faf3d5a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zUUDE6j9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m4l9lascwpkmwdx4i71q.jpeg)
+[![Everybody at try!Swift](img/56280d4153128f5b4f49caa39faf3d5a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zUUDE6j9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m4l9lascwpkmwdx4i71q.jpeg)
 
 我不得不说我在[尝试中度过了一段美好的时光！今年 Swift 纽约](https://www.tryswift.co/events/2018/nyc/)。这些年来，我参加过许多开发者大会，但最近我主要参加商业和创业会议(即 [MicroConf](https://www.microconf.com) 和 [Release Notes](https://releasenotes.tv) )。
 

@@ -47,4 +47,4 @@
 我想设置它的方式是，它会在我向 GitHub 发布任何公共存储库时随时更新，因为我认为 GitHub 是展示您所能做的事情的主要方式。此外，快速响应对我来说非常重要，所以我能够在项目的这一方面利用 css grid 和 flexbox。得知我在 github 上公开分享的任何未来作品都将在我的网站上展示，我非常兴奋！🎉🎉让我知道你的想法！！！
 
 [dfimres . github . I](https://dfimbres.github.io)
-[![website image](../Images/f4aa2c762c6b70e4ac53bafb8d93c65a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TG0e2Exl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5y24sg617lh46hsygmse.png)
+[![website image](img/f4aa2c762c6b70e4ac53bafb8d93c65a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TG0e2Exl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5y24sg617lh46hsygmse.png)

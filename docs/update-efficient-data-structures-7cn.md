@@ -35,7 +35,7 @@ RUM 系列的[第一篇博文](https://dev.to/frosnerd/rum-conjecture---reasonin
 
 下图展示了 set `{0..6}`在几次更新操作后的样子。
 
-[![write ahead log](../Images/6d243d6badaf8d4940d8941917ef4f24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PvxR5mWY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/udhy0j2muyn8v375u3f6.png)
+[![write ahead log](img/6d243d6badaf8d4940d8941917ef4f24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PvxR5mWY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/udhy0j2muyn8v375u3f6.png)
 
 写入是连续的，因为我们只追加新数据，而日志的其余部分保持不变。事实证明，磁盘上的顺序写入与内存中的随机存取相当，甚至更快。[1]
 
@@ -55,7 +55,7 @@ RUM 系列的[第一篇博文](https://dev.to/frosnerd/rum-conjecture---reasonin
 
 下图说明了我们如何使用压缩来减少整数集的大小。我们正在删除冗余的事务，留下一个较短的日志。可以基于时间或空间约束来执行压缩。
 
-[![compaction in logs](../Images/99927009e53ca6c14aa663f1a3db4d14.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6VbuGT8L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4xps7ltu8aq7fv0mkhb7.png)
+[![compaction in logs](img/99927009e53ca6c14aa663f1a3db4d14.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6VbuGT8L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4xps7ltu8aq7fv0mkhb7.png)
 
 ## 朗姆酒饮料
 
@@ -81,7 +81,7 @@ RUM 系列的[第一篇博文](https://dev.to/frosnerd/rum-conjecture---reasonin
 
 LSM 树的主要思想是维护数据结构的层次结构，其中的每一个都针对底层存储介质进行了优化。在两级 LSM 树中，第一级通常存储在内存中，而第二级存储在磁盘上。下图说明了两级 LSM 树的概念。
 
-[![two level LSM tree](../Images/7e7bcd8d928da584c29a687259b9e4fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--meeyQ4yN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tnpiz7cqfw0pem3qq0iv.png)
+[![two level LSM tree](img/7e7bcd8d928da584c29a687259b9e4fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--meeyQ4yN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tnpiz7cqfw0pem3qq0iv.png)
 
 原始文件建议对单个树使用类似于 [B 树](https://en.wikipedia.org/wiki/B%20tree)的结构。这很有用，因为我们可以根据文件系统的块大小调整节点大小。然而，由于第一层驻留在内存中，我们可以使用其他自平衡树作为选择，如 [2-3 树](https://en.wikipedia.org/wiki/2%E2%80%933_tree)或 [AVL 树](https://en.wikipedia.org/wiki/AVL_tree)。
 
@@ -111,7 +111,7 @@ LSM 树的实际 RUM 开销很大程度上取决于具体的实现。它们对�
 
 b 树[5]是自平衡二分搜索法树的推广，其中一个节点可以有两个以上的孩子。对于每个节点，左边的子树只包含小于当前值的元素，这给了我们对数搜索的复杂性。下图显示了一个 B 树，其最大块大小为 4，包含集合 *{0..6}* 。
 
-[![btree](../Images/3f08913f941979634b1c8ddd068bcbc7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2gpuhgXi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rvkqugt1jcjmmjzz8fzs.png)
+[![btree](img/3f08913f941979634b1c8ddd068bcbc7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2gpuhgXi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rvkqugt1jcjmmjzz8fzs.png)
 
 b 树与二分搜索法树具有相同的渐进读取、更新和存储复杂度。那么，为什么我们在一篇关于编写高效数据结构的文章中提到它们呢？
 
@@ -178,19 +178,19 @@ B 树的 RUM 开销取决于分支因子和树的当前状态。搜索查询必�
 
 首先让我们看看压缩过程对数据库性能的影响。下图比较了随机读取压缩期间和之后的读取吞吐量。
 
-[![compaction performance](../Images/d550037996f3dd46ce5590d543b61516.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d8w_T3C7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rkwulpc59trwvhxqvkp9.png)
+[![compaction performance](img/d550037996f3dd46ce5590d543b61516.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--d8w_T3C7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rkwulpc59trwvhxqvkp9.png)
 
 压缩过程会将数据库的随机读取性能降低 50%左右，这与持久性配置无关！当使用 LSM 树来保持相当好的读取性能并避免消耗太多空间时，压缩是必不可少的。但是，应该明智地选择压缩策略，因为如果它发生得太频繁或不够频繁，可能会付出很高的代价。
 
 第二个有趣的问题是键排序对写性能的影响。下图比较了在两级内存 LSM 树中使用有序键和无序键时的写吞吐量。
 
-[![lsm write performance](../Images/9f258f45f079c4ace64764898fb223a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NVipPxFd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ziauq01juzuxiaae1shs.png)
+[![lsm write performance](img/9f258f45f079c4ace64764898fb223a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NVipPxFd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ziauq01juzuxiaae1shs.png)
 
 太神奇了！当写入按顺序进行而不是混排时，我们可以获得大约 100%的速度提升。这表明，根据所使用的查询和数据结构，可能会有相当大的性能差异。SwayDB 在底层使用跳转列表，顺序插入只是追加到跳转列表的末尾，根据需要提升元素。然而，随机插入会导致在跳过列表的中间修改和重新链接多个元素和级别。
 
 最后但并非最不重要的是，我们想调查用持久性换取吞吐量的性能影响。在下图中，我们比较了基于 2 级内存、8 级内存映射文件和 8 级常规文件的 LSM 树的随机写入和随机写入的写入吞吐量。
 
-[![lsm durability trade-off](../Images/46c3bc44fbdf624fe2667899c6d8a731.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5fdJMTR6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e2322xpu0rjqjs1t0pg7.png)
+[![lsm durability trade-off](img/46c3bc44fbdf624fe2667899c6d8a731.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5fdJMTR6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e2322xpu0rjqjs1t0pg7.png)
 
 正如所料，内存中的 LSM 树提供了最好的性能。虽然常规文件访问提供了最佳的持久性，但它也具有最差的性能。如果在致命崩溃的情况下，数据丢失和随后从预写日志中恢复是可以接受的，那么内存映射文件可以提供不错的性能。
 

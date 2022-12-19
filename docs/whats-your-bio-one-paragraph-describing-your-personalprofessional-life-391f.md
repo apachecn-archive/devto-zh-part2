@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/cseeman/whats-your-bio-one-paragraph-describing-your-personalprofessional-life-391f>
 
-[![](../Images/25c22f8f705a0714dd29b81615dfbbe4.png)T2】](https://i.giphy.com/media/4bjIn0rsYmutZRFKmQ/giphy.gif)
+[![](img/25c22f8f705a0714dd29b81615dfbbe4.png)T2】](https://i.giphy.com/media/4bjIn0rsYmutZRFKmQ/giphy.gif)
 
 我应该为一个会议准备一份简历，我想了解一下社区的简历是什么样的。寻找关于一个好的一段传记应该是什么的想法和主意。这应该是第一人称还是第三人称？
 

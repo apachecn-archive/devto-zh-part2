@@ -24,7 +24,7 @@
 
 我们的示例应用程序是一个博客站点，它有一个博客帖子列表。对于普通的实现，该站点类似于👇
 
-[![usual loading pattern](../Images/83a3bddaeafaa8e33f9ef20e50e80f4d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CuhmFp6R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q6rzlkdcbeh1m47hp252.gif)
+[![usual loading pattern](img/83a3bddaeafaa8e33f9ef20e50e80f4d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CuhmFp6R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q6rzlkdcbeh1m47hp252.gif)
 
 每当我们点击任何帖子，等待数据从服务器加载时，就会出现加载飞溅。这个加载时间取决于各种因素。要实现 NIL 模式，首先，我们需要消除中间加载子状态(点击 post 后的加载屏幕)，然后将数据从列表页面传递到细节页面。加载子状态是由于网络请求获取来自*模型*钩子的整个 post 细节。如果我们抑制模型挂钩，那么加载屏幕将不会被拉进来。太好了！但是，怎么做呢？
 
@@ -82,7 +82,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在实现了 **NIL 模式**之后，我们的示例应用程序将如下所示:
 
-[![NIL Pattern implement](../Images/30ba676e7fa8ce9c169cacde2e9d5c85.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yX4QH2eG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y16ayq8e561lklzud1gc.gif)
+[![NIL Pattern implement](img/30ba676e7fa8ce9c169cacde2e9d5c85.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yX4QH2eG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y16ayq8e561lklzud1gc.gif)
 
 您可以看到博客的作者以及评论已经被延迟加载。这可能比以前的版本好多了，在以前的版本中，用户必须等待一段时间才能在屏幕上看到一些内容。
 

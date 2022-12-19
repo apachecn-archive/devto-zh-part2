@@ -8,7 +8,7 @@
 
 尽管看起来很痛苦，但人们实际上喜欢计划他们的旅行，可以花 2 / 4 /(你可以选择)个小时粘在屏幕上寻找最佳地点、最佳行程和最佳价格。这就是机器学习和人工智能发挥作用的时候:通过分析大型数据集，人工智能融合的旅行系统可以为旅行者提供超级个性化的建议。
 
-[![](../Images/e066335323cc54f7eb8443e3886b6254.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h3Us7eav--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/09/Img-1.png)
+[![](img/e066335323cc54f7eb8443e3886b6254.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h3Us7eav--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/09/Img-1.png)
 
 ## 艾的螺母和螺栓& ML
 
@@ -22,14 +22,14 @@
 
 **1)数据的质量。**数据越多样、越丰富，机器就越能发现模式，结果也就越精确。例如，以下是旅游业提供商获取数据的一些方式和方法:
 
-[![](../Images/058fdd7304445d2a96d920d307fd7d0c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---TV-rGHk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/09/2017-09-15_1859.png) 
+[![](img/058fdd7304445d2a96d920d307fd7d0c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---TV-rGHk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/09/2017-09-15_1859.png) 
 *图片来源:Markrs.co*
 
 高质量的数据集通常需求量很大，公司有时不得不寻找合适的数据集。
 
 **2)特征**是现有数据包含的有意义的输入，如用户性别/位置/浏览器扩展等。通常数据有更多的信息需要建立模型，因此有必要选择重要的特征。在此过程中，分析师或建模工具根据属性对分析的有用程度来选择或丢弃属性。
 
-[![](../Images/766a9fbaa95d7894f8924eb0c79f30d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---3ES8hFB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/09/Img-3-1.png)
+[![](img/766a9fbaa95d7894f8924eb0c79f30d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---3ES8hFB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/09/Img-3-1.png)
 
 众多的特征使得算法工作得更慢，所以通常数据准备和 having 的过程是整洁的。xlsx 和。csv 文件最终比整个培训过程花费更多的时间。
 
@@ -37,7 +37,7 @@
 
 以下是机器学习驱动的模型是如何构建的:
 
-[![](../Images/d6466c534bb0e764c5fc883bc3081803.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jVppJESA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/09/Img-4-1.png)
+[![](img/d6466c534bb0e764c5fc883bc3081803.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jVppJESA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/09/Img-4-1.png)
 
 机器学习模型可以胜过传统的僵化的商业智能，在传统的商业智能中，商业规则无法捕捉隐藏的模式。
 
@@ -73,7 +73,7 @@ Booking.com 在其[调查](https://checkin.booking.com/en-gb/uk/2018/01/11/8-tra
 *   “150 美元能带我去哪里？”
 *   “纽约发生了什么事？”
 
-[![](../Images/8b986fa3f5de2a371590ae520ee8c214.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3ulo0bh2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/09/Img-5.png)
+[![](img/8b986fa3f5de2a371590ae520ee8c214.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3ulo0bh2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/09/Img-5.png)
 
 *图片来源:JWT 情报*
 
@@ -81,7 +81,7 @@ Booking.com 在其[调查](https://checkin.booking.com/en-gb/uk/2018/01/11/8-tra
 
 如果游客到达一个新的目的地，在游客信息中心撞上了“关闭”的标牌，不用担心——只需轻点几下，他们就可以启动一个机器人，询问他们需要什么。事实上，客户对人工智能聊天机器人的期望很高——他们希望聊天机器人以友好的方式解决他们的问题，而且在紧急情况下提供帮助。下面是用户请求的表达方式:
 
-[![](../Images/c3a91eba32e7ca096dab75e377da12dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZEcUKd-s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/09/Img-6.png)
+[![](img/c3a91eba32e7ca096dab75e377da12dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZEcUKd-s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/09/Img-6.png)
 
 Kayak 因将机器人融入旅行体验而闻名。这个机器人会为你提供完整的信息，包括航班、租车、行程选择，还会告诉你一些活动。此外，它还通过 messenger 向客户发送未来旅行计划的更新信息。
 
@@ -89,11 +89,11 @@ Kayak 首席执行官史蒂夫·哈夫纳说，
 
 > “有整整一代人更熟悉通过 Siri 发送短信和语音，他们正在寻求与在线旅行社进行不同的互动。我们有与 Alexa 的语音交互，你可以对 Kayak 说，'嘿 Kayak，我今天晚些时候飞往丹佛的航班情况如何？'‘这个周末我可以花 300 美元去哪里？’"
 
-[![](../Images/114fa94153060fe6b8323bf32d1876b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SpCjyqro--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/09/Img-7.png)
+[![](img/114fa94153060fe6b8323bf32d1876b7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SpCjyqro--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/09/Img-7.png)
 
 到目前为止，旅游行业出现了一些很棒的聊天机器人，如 Lola，它使用人工智能增强功能来授权旅游顾问，以便他们可以提供完美的旅行。由人工智能驱动的 Mezi，一个可以帮助所有旅行安排的聊天机器人，人工智能由旅行专家培训和改进，或者 Sam，一个帮助提高旅行顾问专业知识的聊天机器人。沃森驱动的“康妮”机器人是为连锁酒店希尔顿开发的，它使用沃森的大脑来帮助客人办理登机手续并推荐当地景点。
 
-[![](../Images/d69d3de3599405a4db7a2a465e45b814.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zd4YOaML--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/09/Img-8.png)
+[![](img/d69d3de3599405a4db7a2a465e45b814.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zd4YOaML--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/09/Img-8.png)
 
 *图片来源:theverge.com*
 
@@ -105,13 +105,13 @@ Youtube、Spotify、Booking.com 网飞——这些领先的公司有一个共同
 
 旅游平台上每个客户的数字足迹使系统能够了解每个客户的需求、预算和偏好，并建议合适的交易。在正确的时间提供正确的建议将有助于增强客户的忠诚度，让他们一次又一次地回来。
 
-[![](../Images/eae355e8b7dfbe4c701fbd63898192a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9o061nCe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/09/Img-9.png)
+[![](img/eae355e8b7dfbe4c701fbd63898192a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9o061nCe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/09/Img-9.png)
 
 人工智能支持的推荐系统可以输入历史数据，如旅行者以前的预订、行为或实时数据。例如，当这个人打开电子邮件时事通讯时，它会向数据科学家发回一个信号，以便在下一次触摸时合并该信号。
 
 经过处理并与旅行者的背景保持一致后，人工智能支持的推荐系统可以提供卓越的体验。比较这两种情况:
 
-[![](../Images/2a174f2969d981d036929c00b690c38e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O4JcE1QL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/09/Img-18.png)
+[![](img/2a174f2969d981d036929c00b690c38e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O4JcE1QL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/09/Img-18.png)
 
 这种量身定制的推荐无疑会提升整体体验。
 
@@ -121,7 +121,7 @@ Youtube、Spotify、Booking.com 网飞——这些领先的公司有一个共同
 
 航班价格生成引擎根据特定规则工作，可能会考虑以下一些参数:
 
-[![](../Images/79b65eceda0bd92a153f811babcad206.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W94Lh4WC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/09/Img-10-1.png)
+[![](img/79b65eceda0bd92a153f811babcad206.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--W94Lh4WC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/09/Img-10-1.png)
 
 众所周知，机器学习可以发现隐藏的模式，而人类的眼睛甚至可能看不到这些模式。例如，ML 算法可以在票价大幅上涨后检测到异常情况，并考虑导致这种上涨的特征组合。
 
@@ -129,7 +129,7 @@ Youtube、Spotify、Booking.com 网飞——这些领先的公司有一个共同
 
 例如，以帮助客户跟踪最佳航班交易而闻名的 [Hopper 应用](https://www.hopper.com/)，最近加入了选择酒店的功能；应用程序中实现的 ML 算法将推荐是否预订酒店或等待价格下降，类似于机票的工作方式。人工智能和预测分析是这一驱动力的核心。使用彩色编码的日历，用红色标记昂贵的日期，用黄色标记适中的日期，用绿色标记最便宜的日期，Hopper 允许用户查看哪些日期会比其他日期更昂贵:
 
-[![](../Images/fad8189139a08879a543654d25731c59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I2n_bWC2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/09/Img-11.png)
+[![](img/fad8189139a08879a543654d25731c59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I2n_bWC2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/09/Img-11.png)
 
 *图片来源:theverge.com*
 
@@ -145,13 +145,13 @@ Trip Advisor 在重新设计网站时，注意到他们的网站上有很多很�
 
 工程团队从深度学习的角度来完成这项任务。深度学习是机器学习的一个子集，专门用于神经网络架构开发和训练。该团队开发了一个模型，选择有吸引力的相关照片，然后在网站上优先显示它们。只需对比一下他们在实现深度学习模型前后的英雄照片:
 
-[![](../Images/a491e3aeb4c0ef79ee3b06adc6f15883.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ersLCuyd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/09/Img-12--1-.png)
+[![](img/a491e3aeb4c0ef79ee3b06adc6f15883.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ersLCuyd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/09/Img-12--1-.png)
 
 *图片来源:tripadvisor.com*
 
 内容优化中人工智能应用的另一个变革性例子是 Booking.com 的《翻译管理》。他们是迄今为止最大的旅游运营商，通过神经机器翻译(NMT)提供相关的交流——酒店描述、房间描述和酒店名称被翻译成 43 种语言:
 
-[![](../Images/e0aaabc0b8679b274037fb3ffb4b6129.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rCAXRMsS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/09/Img-13.png)
+[![](img/e0aaabc0b8679b274037fb3ffb4b6129.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rCAXRMsS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/09/Img-13.png)
 
 ### 用户体验管理
 
@@ -179,7 +179,7 @@ Booking.com 全球客户服务总监詹姆斯·沃特斯说
 
 Skyscanner 分析了用户在使用该应用程序时经历的客户旅程，发现为了获得他想要的东西，用户必须在应用程序中至少进行 9 步操作和 17 次点击。在那之后，该公司转向用基于人工智能的聊天机器人建立对话界面。
 
-[![](../Images/415df8bd19435b8d2341524faf4df774.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7bF1vRcD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/09/Img-14.png)
+[![](img/415df8bd19435b8d2341524faf4df774.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7bF1vRcD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/09/Img-14.png)
 
 旅游公司将通过跟踪元数据提供更相关的体验，例如:
 
@@ -205,7 +205,7 @@ Skyscanner 分析了用户在使用该应用程序时经历的客户旅程，发
 
 人工智能和人工智能模型也可以通过应用程序帮助追加销售/交叉销售产品。例如，如果客户更喜欢在商务旅行中开车，并且正在寻找一些酒店报价，则该算法将从整个建议池中获得租车报价。
 
-[![](../Images/3d0edd9440c8b2236c115ab7bfb367d6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--u9uVeXs0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/09/Img-15.png) 
+[![](img/3d0edd9440c8b2236c115ab7bfb367d6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--u9uVeXs0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/09/Img-15.png) 
 *图片来源:[http://gearmark.blogs.com](http://gearmark.blogs.com)*
 
 **价格优化**
@@ -216,14 +216,14 @@ Skyscanner 分析了用户在使用该应用程序时经历的客户旅程，发
 
 Hopper 在他们的[博客](https://medium.com/@hopper_travel/ai-in-travel-part-1-making-travel-recommendations-733a16d9e010)中写道，他们 90%的销售额直接依赖于应用程序通知:
 
-[![](../Images/1626e9282ae417f6abcf649d549a52e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QGsdOOqB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/09/Img-16.png)
+[![](img/1626e9282ae417f6abcf649d549a52e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QGsdOOqB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/09/Img-16.png)
 
 当公司的大部分收入来自特定数量的客户时(就像帕累托法则)，为什么不为公司的忠实客户优化价格呢？
 例如，当系统有一个新客户的一天需求和一个忠实客户的五天需求时，系统可以为这两种不同类型的客户生成价格。
 
 **营销机会**
 
-[![](../Images/4d6ddc4e3936edb14129a42ac4323b27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e0lNSkrf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/content/images/2018/09/Img-17.png)
+[![](img/4d6ddc4e3936edb14129a42ac4323b27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e0lNSkrf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://djangostars.com/blog/conteimg/2018/09/Img-17.png)
 
 在理想的价值链中，来自营销工作和人工智能及人工智能技术的销售收益激励营销人员根据上下文和信息在所有客户的设备上开展所有营销活动。
 

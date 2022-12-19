@@ -4,7 +4,7 @@
 
 2018 年 2 月，我离开了渥太华寒冷的冬天，沐浴在旧金山温和的温暖中。这不是度假。我的任务是戴上 Qlik 帽子，代表我们的开发人员关系团队进行演讲。整整五天都是研讨会——我不能只是飞进来，说几句话，然后飞出去。我不得不利用这一点。
 
-<figure>[![](../Images/afac66d98cd4efc8df04a8efe751c5d0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dlPcAcO3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/301/1%2AFJXu3AAyzpu7qLm1-nbJxw%402x.jpeg) 
+<figure>[![](img/afac66d98cd4efc8df04a8efe751c5d0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dlPcAcO3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/301/1%2AFJXu3AAyzpu7qLm1-nbJxw%402x.jpeg) 
 
 <figcaption>戴着我的 Qlik 帽子，同时戴着一顶 ForwardJS 帽子</figcaption>
 

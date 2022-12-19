@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nickparsons/takeaways-on-building-a-react-based-app-with-electron-1df2>
 
-[![](../Images/81ebd793343324265e1e1fec54bdb722.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jFV0LDn2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n65l6kt5q5v9ad90t321.png)
+[![](img/81ebd793343324265e1e1fec54bdb722.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jFV0LDn2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n65l6kt5q5v9ad90t321.png)
 
 今年早些时候， [Stream](https://getstream.io) 推出了 [Winds 2.0](https://getstream.io/winds) ，这是一款面向 macOS、Windows 和 Linux 的开源原生应用，提供了一种全新的消费 RSS 订阅和播客的方式。这是我们第一次构建原生应用，所以我们选择了使用[电子](https://electronjs.org/)，一个创建跨平台应用的框架。
 
@@ -10,7 +10,7 @@
 
 > 如果你没有用过 Winds，你可以在 https://getstream.io/winds 报名。或者，如果你只是想要一个视觉效果，下面是 Winds 2.0 在 Electron 内部运行的截图:
 
-[![](../Images/76d1d59115a63c0884b5ae611e004332.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---6KHiEUD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image5.png%3Fw%3D1024%26h%3D1024)
+[![](img/76d1d59115a63c0884b5ae611e004332.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---6KHiEUD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image5.png%3Fw%3D1024%26h%3D1024)
 
 我们都知道如今开发工具的发展速度有多快。不幸的是，这种快速创新的副作用是网络上的内容过时了——有时会过时几个月或几年——即使是像 electronic 这样拥有强大追随者的流行工具。我们很快就意识到这个项目只能靠自己了。幸运的是，我们做了一些笔记，并在此分享，让您了解我们的发现。
 
@@ -50,7 +50,7 @@ yarn start
 
 然后打开 [http://localhost:3000/](http://localhost:3000/) ，你会看到我们的基本样板 React 应用。
 
-[![](../Images/3bfcf8d1940dcf85f06412f45b6dd9ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--akOf44SU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image8.png%3Fw%3D1024%26h%3D1024)
+[![](img/3bfcf8d1940dcf85f06412f45b6dd9ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--akOf44SU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image8.png%3Fw%3D1024%26h%3D1024)
 
 很简单，对吧？现在，您已经用几个命令引导了 React 应用程序，并准备进入下一步！
 
@@ -313,7 +313,7 @@ ipcMain.on('load-page', (event, arg) => {
 
 现在您可以简单地运行`yarn start`并...
 
-[![](../Images/d5396042bb324585a7e89728217b28d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KpD8-EiA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image1-1.png%3Fw%3D1024%26h%3D1024)
+[![](img/d5396042bb324585a7e89728217b28d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KpD8-EiA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image1-1.png%3Fw%3D1024%26h%3D1024)
 
 您的应用程序现在运行在一个电子包装器中！
 
@@ -346,7 +346,7 @@ ipcMain.on('load-page', (event, arg) => {
 3.  选择下拉菜单并选择 macOS
 4.  单击+按钮并生成下面的证书类型
 
-[![](../Images/1be8a2fa4a9ea638695e5c542270d2e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cd1ujJig--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image4-1.png%3Fw%3D1024%26h%3D1024)
+[![](img/1be8a2fa4a9ea638695e5c542270d2e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cd1ujJig--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image4-1.png%3Fw%3D1024%26h%3D1024)
 
 完成后，下载证书。当您打开它们时，它们会自动储存在您的钥匙串中。
 
@@ -411,9 +411,9 @@ cd assets && touch entitlements.mas.plist && touch entitlements.mas.inherit.plis
 
 一旦完成，你就会有一个正式的`embedded.provisionprofile`来签署你的申请！下面是各种屏幕的样子供参考:
 
-[![](../Images/1f31fdadf2b434db6c659e545caf73ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7_O19gFO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image3-1.png%3Fw%3D1024%26h%3D1024)
+[![](img/1f31fdadf2b434db6c659e545caf73ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7_O19gFO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image3-1.png%3Fw%3D1024%26h%3D1024)
 
-[![](../Images/1af030b21badad8b70af1b69760df1aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bkAB1pXX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image7.png%3Fw%3D1024%26h%3D1024)
+[![](img/1af030b21badad8b70af1b69760df1aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bkAB1pXX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image7.png%3Fw%3D1024%26h%3D1024)
 
 现在是时候仔细检查我们的`package.json`文件中的构建设置了。该文件包含 Linux、Windows 和 macOS 的构建配置。我们不会使用所有的设置，所以如果你想知道所有的设置，请访问[https://www.electron.build/configuration/configuration](https://www.electron.build/configuration/configuration)。
 
@@ -507,21 +507,21 @@ cd assets && touch entitlements.mas.plist && touch entitlements.mas.inherit.plis
 
 下面先睹为快，看看我们的 AWS S3 铲斗是什么样子的:
 
-[![](../Images/0377d3a1ea138bb8db3cfe74cfabebb4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bNf3CwHU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image2-1.png%3Fw%3D1024%26h%3D1024)
+[![](img/0377d3a1ea138bb8db3cfe74cfabebb4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bNf3CwHU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image2-1.png%3Fw%3D1024%26h%3D1024)
 
 将应用程序上传到 macOS 商店最简单的方法是通过 Xcode 内置的应用程序加载器。只需进入 **Xcode** > **打开开发者工具** > **应用加载器**
 
-[![](../Images/373548e58651acfc6314475e6eb42c14.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wm31Jl2h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image9.png%3Fw%3D1024%26h%3D1024)
+[![](img/373548e58651acfc6314475e6eb42c14.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wm31Jl2h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image9.png%3Fw%3D1024%26h%3D1024)
 
 打开后，将要求您登录:
 
-[![](../Images/02f53ec5e991632d5294ac4999847f02.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4vyBupZm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image10.png%3Fw%3D300%26h%3D300)
+[![](img/02f53ec5e991632d5294ac4999847f02.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4vyBupZm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image10.png%3Fw%3D300%26h%3D300)
 
 > 注:您必须拥有一个与有效的 Apple Developer 帐户关联的 Apple ID。此外，您必须暂时禁用 2FA，因为它不能很好地与应用程序加载器一起运行。
 
 登录后，系统会提示您一个选择器，您可以从中选择要上传的正确文件。
 
-[![](../Images/428f0344568a9f3387d5c48218102e79.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WJj6p1eN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image6.png%3Fw%3D1024%26h%3D1024)
+[![](img/428f0344568a9f3387d5c48218102e79.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WJj6p1eN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://getstream-blog.imgix.net/blog/wp-content/uploads/2018/07/image6.png%3Fw%3D1024%26h%3D1024)
 
 > 注意:选择文件时，请确保导航到 mas 目录。mas 中的应用程序是适用于 macOS 商店的唯一软件包。
 

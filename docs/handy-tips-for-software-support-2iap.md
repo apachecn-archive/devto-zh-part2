@@ -16,7 +16,7 @@
 
 我喜欢有一个文件夹，其中包含我正在处理的每个班次的一个文件夹。每个文件夹都标有票证编号和简要描述(通常是票证的标题)。在每个文件夹中，我都保存了从我们的文件服务器上复制的所有数据文件。如果我做了任何不需要在票上分享的笔记，我也会把它们留在这里。最后，我在这里保存了一个 SQL 文件(稍后会详细介绍)。
 
-[![Folder Screenshot](../Images/2d89c8328a6bf85c3ff63c1bc37c26b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f6d_EeNB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m3tsfwcjp7uy95hkak7g.png)
+[![Folder Screenshot](img/2d89c8328a6bf85c3ff63c1bc37c26b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f6d_EeNB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m3tsfwcjp7uy95hkak7g.png)
 
 关于文件的一个额外注意事项:如果您正在调查一个数据问题，并且您有一组文件，其中有好的数据，有些有坏的数据，请清楚地将它们标记为好的和坏的。这听起来显而易见，但我才刚刚开始这么做，它真的很有帮助。你越少接触作为你长期记忆的硬盘，你的工作速度就越快。更重要的是，没有什么比仔细检查一个文件，认为它是一个坏文件，而事实上，它不是。
 
@@ -24,7 +24,7 @@
 
 与我们的文件系统文件夹类似，最好有一个清晰标记的书签文件夹，其中包含与票据相关的所有页面的书签。阅读材料的链接、堆栈溢出问题和文档都是值得保存的有价值的项目。如果您正在开发一个 web 应用程序，那么问题页面的书签也非常方便。
 
-[![Bookmark Screenshot](../Images/9906f7cde2a2d8f73c18682b990fbf50.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gbwvyCAw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cu4wrhcapdgynshvq5hb.png)
+[![Bookmark Screenshot](img/9906f7cde2a2d8f73c18682b990fbf50.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gbwvyCAw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cu4wrhcapdgynshvq5hb.png)
 
 ### SQL
 

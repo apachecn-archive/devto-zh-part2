@@ -150,17 +150,17 @@ Enter fullscreen mode Exit fullscreen mode
 
 访问路线地址将显示以下屏幕:
 
-[![openshift django example welcome screen](../Images/cb8fea78aca5c57fe9df5de682b42be7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UVlbVdpo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ym1gv7dgtbkxnh5sguyh.png)
+[![openshift django example welcome screen](img/cb8fea78aca5c57fe9df5de682b42be7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UVlbVdpo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ym1gv7dgtbkxnh5sguyh.png)
 
 ## Openshift web 控制台
 
 Openshift 也有一个非常好的网络控制台，可以在[[https://192 . 168 . 99 . 100:8443/console](https://192.168.99.100:8443/console)访问。只需使用我们之前使用的相同凭证登录即可(用户名和密码均为“admin”)。
 
-[![openshift web console](../Images/3b000ffdc784b1426a57917d361c2530.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T858cAYU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/80jf3vky8vxez681m62z.png)
+[![openshift web console](img/3b000ffdc784b1426a57917d361c2530.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T858cAYU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/80jf3vky8vxez681m62z.png)
 
 打开右侧的项目链接，我们将进入以下页面:
 
-[![openshift project overview](../Images/95e21a73660ebadae6632e90fd701445.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qvbi0UK7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s6cov2vkjuvn09hboghm.png)
+[![openshift project overview](img/95e21a73660ebadae6632e90fd701445.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qvbi0UK7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s6cov2vkjuvn09hboghm.png)
 
 这是一个项目控制面板，我们在这里可以看到项目概况、部署的应用程序、路线、容器状态等。我们甚至可以缩放容器！
 

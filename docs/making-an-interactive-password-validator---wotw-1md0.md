@@ -7,7 +7,7 @@
 今天，我们将创建一个密码提交表单，实时验证用户输入。
 灵感来自于[ramykhufash](https://uimovement.com/user/10/ramykhuffash/)创作的[投稿](https://uimovement.com/ui/5852/password-guide/)，看起来是这样的:
 
-[![wotw-pass](../Images/6613c55bb7aecbb4cf4538c0a8f8e88c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RKgmSYzc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ndrrt14o1g8l6bnjo6ng.gif)
+[![wotw-pass](img/6613c55bb7aecbb4cf4538c0a8f8e88c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RKgmSYzc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ndrrt14o1g8l6bnjo6ng.gif)
 
 ### 制剂
 
@@ -94,7 +94,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们应该有一个非常基本的无样式表单，就像这样:
 
-[![unstyled](../Images/969445e58017891357030827daf2d84d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A3m0hmyp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eih68pw4vzdr72m5vobi.png)
+[![unstyled](img/969445e58017891357030827daf2d84d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A3m0hmyp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eih68pw4vzdr72m5vobi.png)
 
 ### 让它看起来漂亮
 
@@ -229,7 +229,7 @@ Enter fullscreen mode Exit fullscreen mode
 Enter fullscreen mode Exit fullscreen mode
 
 我们现在应该有一个好看的小部件，像这样:
-[![styled](../Images/c1a3d50656b12b8603cef0be0ffde832.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UOErNJDl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/916cuvu4cw5mzjr5vqmp.png)
+[![styled](img/c1a3d50656b12b8603cef0be0ffde832.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--UOErNJDl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/916cuvu4cw5mzjr5vqmp.png)
 
 ### 互动
 
@@ -352,7 +352,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们就快成功了，实际上，如果您设置了一个满足所有这些要求的密码，您可以看到“保存”按钮会改变颜色:
 
-[![save](../Images/f44966baca3bc4f9b7dcb575ef173118.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6jgE8RYK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qec2fbbspo2yen89dlbw.png)
+[![save](img/f44966baca3bc4f9b7dcb575ef173118.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6jgE8RYK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qec2fbbspo2yen89dlbw.png)
 
 ### 动画
 

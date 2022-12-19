@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/issuehunt/weekly-trending-repositories-on-github-213c>
 
-[![image](../Images/de0eed60df1a4f3410a8f7003b820a7b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IMYX89jt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cnk5ig0ipik5gqpp2e9g.png)
+[![image](img/de0eed60df1a4f3410a8f7003b820a7b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IMYX89jt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cnk5ig0ipik5gqpp2e9g.png)
 
 这篇文章是由开源项目的慷慨平台 issue hunt 策划的。
 
@@ -27,7 +27,7 @@
 
 ### 唐恩马丁/系统-设计-初级读本
 
-[![img](../Images/8c730a297a1e239e2b6b66c4c1bb0fb3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--53H2ZIV5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.pinimg.com/736x/9d/7e/fb/9d7efb1566b82ad872b9ceccc57dd3a5.jpg) 
+[![img](img/8c730a297a1e239e2b6b66c4c1bb0fb3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--53H2ZIV5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.pinimg.com/736x/9d/7e/fb/9d7efb1566b82ad872b9ceccc57dd3a5.jpg) 
 学习如何设计大型系统。准备系统设计面试。包括 Anki 抽认卡。
 
 [GitHub-donne Martin/system-design-primer:学习如何设计大型系统。准备系统设计面试。包括 Anki 抽认卡。](https://github.com/donnemartin/system-design-primer)
@@ -40,21 +40,21 @@
 
 ### madhavanmalolan/awesome-react native-ui
 
-[![img](../Images/ccfb472eeff1e48816f57a81957044f9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ddZmNC9F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cloud.githubusercontent.com/assets/390805/8888853/69f8d9f8-32f2-11e5-9823-c235ab8c0dd2.gif) 
+[![img](img/ccfb472eeff1e48816f57a81957044f9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ddZmNC9F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cloud.githubusercontent.com/assets/390805/8888853/69f8d9f8-32f2-11e5-9823-c235ab8c0dd2.gif) 
 学习如何设计大型系统。准备系统设计面试。包括 Anki 抽认卡。
 
 [GitHub-madhavanmalolan/Awesome-React Native-ui:Awesome React 原生 UI 组件每周更新](https://github.com/madhavanmalolan/awesome-reactnative-ui)
 
 ### eriklindernoren/ML-从头开始
 
-[![img](../Images/8aa6c6220746a46444df16b31949de69.png)](https://camo.githubusercontent.com/d82416364e7916546886f94027e2652d3247e8ab/687474703a2f2f6572696b6c696e6465726e6f72656e2e73652f696d616765732f705f7265672e676966) 
+[![img](img/8aa6c6220746a46444df16b31949de69.png)](https://camo.githubusercontent.com/d82416364e7916546886f94027e2652d3247e8ab/687474703a2f2f6572696b6c696e6465726e6f72656e2e73652f696d616765732f705f7265672e676966) 
 机器从零开始学习。机器学习模型和算法的基本 Python 实现，重点是可访问性。旨在涵盖从数据挖掘到深度学习的所有内容。
 
 [GitHub-eriklindernoren/ML-从无到有:从无到有的机器学习。机器学习模型和算法的基本 Python 实现，重点是可访问性。旨在涵盖从数据挖掘到深度学习的所有内容。](https://github.com/eriklindernoren/ML-From-Scratch)
 
 ### jakubroztocil / httpie
 
-[![img](../Images/776eb8700daba4f654100fd8b5db3560.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--l_x8Y5R2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/jakubroztocil/httpie/master/httpie.png) 
+[![img](img/776eb8700daba4f654100fd8b5db3560.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--l_x8Y5R2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/jakubroztocil/httpie/master/httpie.png) 
 现代命令行 HTTP 客户端——用户友好的 curl 替代产品，具有直观的 UI、JSON 支持、语法高亮、类似 wget 的下载、扩展等。
 
 GitHub-jakubroztocil/HTTP pie:现代命令行 HTTP 客户端——用户友好的 curl 替代方案，具有直观的 UI、JSON 支持、语法突出显示、类似 wget 的下载、扩展等。https://httpie.org
@@ -73,14 +73,14 @@ GitHub-vinta/awesome-Python:awesome Python 框架、库、软件和资源的精�
 
 ### kennethreitz / pytheory
 
-[![img](../Images/0ae7f80d098d15d1aca556b1743e686f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---8jxPdoO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/kennethreitz/pytheory/raw/master/ext/pytheory-small.png) 
+[![img](img/0ae7f80d098d15d1aca556b1743e686f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---8jxPdoO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/kennethreitz/pytheory/raw/master/ext/pytheory-small.png) 
 为人类提供音乐理论。
 
 GitHub - kennethreitz/pytheory:人类的音乐理论。
 
 ### joukos / PaperTTY
 
-[![img](../Images/060dfdf0af3e705dd499e17aeb9be409.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NYe7nS6Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/joukos/PaperTTY/raw/master/pics/logo.jpg) 
+[![img](img/060dfdf0af3e705dd499e17aeb9be409.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NYe7nS6Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/joukos/PaperTTY/raw/master/pics/logo.jpg) 
 PaperTTY - Python 模块在电子墨水上渲染 TTY
 
 [GitHub-joukos/paper tty:paper tty-Python 模块，用于在电子墨水上呈现 TTY](https://github.com/joukos/PaperTTY)
@@ -121,41 +121,41 @@ GitHub-Brent Simmons/NetNewsWire:MAC OS 阅读器。
 
 ### ishkawa / DataSourceKit
 
-[![img](../Images/036d67c9e18475cbb929fc30f3d17abe.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VjaOxZfh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/ishkawa/DataSourceKit/raw/master/Screenshot/declarative.png)
+[![img](img/036d67c9e18475cbb929fc30f3d17abe.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VjaOxZfh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/ishkawa/DataSourceKit/raw/master/Screenshot/declarative.png)
 UICollectionView 和 UITableView 的声明式、可测试数据源。
 
 [GitHub-ish kawa/data source kit:UICollectionView 和 UITableView 的声明性、可测试的数据源。](https://github.com/ishkawa/DataSourceKit)
 
 ### 约翰松德尔/飞溅
 
-[![img](../Images/c302c7c29fd9d902f932427a67de26ad.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Pjl851t0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/JohnSundell/Splash/raw/master/Images/Logo.png) 
+[![img](img/c302c7c29fd9d902f932427a67de26ad.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Pjl851t0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/JohnSundell/Splash/raw/mastimg/Logo.png) 
 一款快速、轻量、灵活的 Swift 语法荧光笔，用于博客、工具和乐趣！
 
 GitHub - JohnSundell/Splash:一个用于博客、工具和娱乐的快速、轻量和灵活的 Swift 语法荧光笔！
 
 ### Folio-sec/Folio-UI-集合
 
-[![img](../Images/bff1d564e63812b3f2e69484d3372ee7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GiEuCFC9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40610/44827008-1aaf7b00-ac4c-11e8-83ba-c5fa4572b6e2.png) 
+[![img](img/bff1d564e63812b3f2e69484d3372ee7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GiEuCFC9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/40610/44827008-1aaf7b00-ac4c-11e8-83ba-c5fa4572b6e2.png) 
 用于 Folio iOS 应用的 UI 组件和实时文档
 
 [GitHub-Folio-sec/Folio-UI-Collection:Folio iOS 应用的 UI 组件和实时文档](https://github.com/folio-sec/Folio-UI-Collection)
 
 ### ra1028 / DifferenceKit
 
-[![img](../Images/1f45e6b9fdcd245d214b7093dfab3baa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--d1uMeUaw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/ra1028/DifferenceKit/master/assets/logo.png)T3】💻一种快速灵活的 O(n)差分算法框架。
+[![img](img/1f45e6b9fdcd245d214b7093dfab3baa.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--d1uMeUaw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/ra1028/DifferenceKit/master/assets/logo.png)T3】💻一种快速灵活的 O(n)差分算法框架。
 
 [GitHub - ra1028/DifferenceKit:💻一种快速灵活的 O(n)差分算法框架。](https://github.com/ra1028/DifferenceKit)
 
 ### jianstm / Schedule
 
-[![img](../Images/34678820975429631a75b260e6081904.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SK4AyN09--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/jianstm/Schedule/master/logo.png)T3】⏳Swift 的轻量级定时任务调度程序。(计时器的现代替代品)
+[![img](img/34678820975429631a75b260e6081904.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--SK4AyN09--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/jianstm/Schedule/master/logo.png)T3】⏳Swift 的轻量级定时任务调度程序。(计时器的现代替代品)
 
 [GitHub-jianstm/时间表:⏳Swift 的轻量级定时任务调度程序。(计时器的现代替代品)](https://github.com/jianstm/Schedule)
 
 ### serhii-londar /开源-mac-os-apps
 
 🚀macOS 的开源应用程序列表。
-[![img](../Images/01107f34ed982d040d0b9a7ae80cce02.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--TgSKgDIk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/icon.png)
+[![img](img/01107f34ed982d040d0b9a7ae80cce02.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--TgSKgDIk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/icon.png)
 
 [GitHub-ser hii-lon Dar/开源-mac-os-apps:🚀macOS 的开源应用程序列表。](https://github.com/serhii-londar/open-source-mac-os-apps)
 
@@ -165,7 +165,7 @@ GitHub - JohnSundell/Splash:一个用于博客、工具和娱乐的快速、轻�
 
 ### laravel / laravel
 
-[![img](../Images/fe49fbd8e4cf298bbb323e4eef58438c.png)](https://camo.githubusercontent.com/5ceadc94fd40688144b193fd8ece2b805d79ca9b/68747470733a2f2f6c61726176656c2e636f6d2f6173736574732f696d672f636f6d706f6e656e74732f6c6f676f2d6c61726176656c2e737667) 
+[![img](img/fe49fbd8e4cf298bbb323e4eef58438c.png)](https://camo.githubusercontent.com/5ceadc94fd40688144b193fd8ece2b805d79ca9b/68747470733a2f2f6c61726176656c2e636f6d2f6173736574732f696d672f636f6d706f6e656e74732f6c6f676f2d6c61726176656c2e737667) 
 一个网页工匠的 PHP 框架
 
 GitHub - laravel/laravel:一个面向 web 工匠的 PHP 框架
@@ -178,7 +178,7 @@ GitHub-composer/composer:PHP 的依赖管理器
 
 ### laravel /框架
 
-[![img](../Images/fe49fbd8e4cf298bbb323e4eef58438c.png)T2】](https://camo.githubusercontent.com/5ceadc94fd40688144b193fd8ece2b805d79ca9b/68747470733a2f2f6c61726176656c2e636f6d2f6173736574732f696d672f636f6d706f6e656e74732f6c6f676f2d6c61726176656c2e737667)
+[![img](img/fe49fbd8e4cf298bbb323e4eef58438c.png)T2】](https://camo.githubusercontent.com/5ceadc94fd40688144b193fd8ece2b805d79ca9b/68747470733a2f2f6c61726176656c2e636f6d2f6173736574732f696d672f636f6d706f6e656e74732f6c6f676f2d6c61726176656c2e737667)
 
 [GitHub - laravel/framework](https://github.com/laravel/framework)
 
@@ -196,7 +196,7 @@ GitHub - nette/utils: 🛠轻量级工具，用于字符串&数组操作、图�
 
 ### 音素/音素
 
-[![img](../Images/8e7cd2eb0f544bc1951a72dbf83e9138.png)](https://camo.githubusercontent.com/3cb73b015124298ce6026be365a732157bb1cdc1/68747470733a2f2f73796d666f6e792e636f6d2f6c6f676f732f73796d666f6e795f626c61636b5f30322e737667)
+[![img](img/8e7cd2eb0f544bc1951a72dbf83e9138.png)](https://camo.githubusercontent.com/3cb73b015124298ce6026be365a732157bb1cdc1/68747470733a2f2f73796d666f6e792e636f6d2f6c6f676f732f73796d666f6e795f626c61636b5f30322e737667)
 Symfony PHP 框架
 
 GitHub-Symfony/Symfony:Symfony PHP 框架
@@ -221,7 +221,7 @@ GitHub-doctrine/lexer:lexer 的基本库，可以用于自顶向下的递归下�
 
 ### z-song / laravel-admin
 
-[![img](../Images/1c0c97e5dfab7aaa4cd2d69bfc684d89.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vGtQdKcS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cloud.githubusercontent.com/assets/1479100/19625297/3b3deb64-9947-11e6-807c-cffa999004be.jpg) 
+[![img](img/1c0c97e5dfab7aaa4cd2d69bfc684d89.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vGtQdKcS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cloud.githubusercontent.com/assets/1479100/19625297/3b3deb64-9947-11e6-807c-cffa999004be.jpg) 
 十分钟打造全功能管理界面
 
 [GitHub - z-song/laravel-admin:十分钟打造全功能管理界面](https://github.com/z-song/laravel-admin)
@@ -244,13 +244,13 @@ GitHub - google/tink: Tink 是一个多语言、跨平台的库，它提供了�
 
 ### 交叉杰/ JCSprout
 
-[![img](../Images/4fadb63e66a7bbc3aaa5f11c556a82f1.png)](https://camo.githubusercontent.com/ee9721c304daa93dbff9dfc62ff808d1b4175809/68747470733a2f2f7773312e73696e61696d672e636e2f6c617267652f30303639525654646c79316675626f636e357078616a3330676f3038326467312e6a7067)T3】👨‍🎓Java 核心萌芽:基本、并发、算法
+[![img](img/4fadb63e66a7bbc3aaa5f11c556a82f1.png)](https://camo.githubusercontent.com/ee9721c304daa93dbff9dfc62ff808d1b4175809/68747470733a2f2f7773312e73696e61696d672e636e2f6c617267652f30303639525654646c79316675626f636e357078616a3330676f3038326467312e6a7067)T3】👨‍🎓Java 核心萌芽:基本、并发、算法
 
 [GitHub-crossover Jie/JC sprout:👨‍🎓Java 核心萌芽:基本、并发、算法](https://github.com/crossoverJie/JCSprout)
 
 ### Android 500/awesome drawer
 
-[![img](../Images/f997b90857eab38849b8f366461d9249.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LiYdqYkS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/Android500/AwesomeDrawer/raw/master/effect/mutil_curtain_views.gif)
+[![img](img/f997b90857eab38849b8f366461d9249.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LiYdqYkS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/Android500/AwesomeDrawer/raw/master/effect/mutil_curtain_views.gif)
 material awsome anim
 
 [GitHub-Android 500/awesome drawer:material awsome anim](https://github.com/Android500/AwesomeDrawer)
@@ -263,7 +263,7 @@ material awsome anim
 
 ### kdn251 /访谈
 
-[![img](../Images/e1f2b3906dee2b207913305bab8fba45.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--V1xJdfuZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/kdn251/interviews/raw/master/images/InterviewsRepository.jpg%3Fraw%3Dtrue) 
+[![img](img/e1f2b3906dee2b207913305bab8fba45.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--V1xJdfuZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/kdn251/interviews/raw/mastimg/InterviewsRepository.jpg%3Fraw%3Dtrue) 
 得到这份工作你需要知道的一切。
 
 GitHub-kdn 251/面试:获得这份工作你需要知道的一切。
@@ -298,7 +298,7 @@ JVM Profiler 向 Kafka、控制台输出或自定义报告程序发送指标
 
 ## 实践发展
 
-[![img](../Images/3850e44718f413070f32fc89af43fb23.png)T2】](https://camo.githubusercontent.com/8bbe5211f98dc9849521a6f1fcc332df0d8c2bbf/68747470733a2f2f74686570726163746963616c6465762e73332e616d617a6f6e6177732e636f6d2f692f64336f356c397969716676317a3234636e3179702e706e67)
+[![img](img/3850e44718f413070f32fc89af43fb23.png)T2】](https://camo.githubusercontent.com/8bbe5211f98dc9849521a6f1fcc332df0d8c2bbf/68747470733a2f2f74686570726163746963616c6465762e73332e616d617a6f6e6177732e636f6d2f692f64336f356c397969716676317a3234636e3179702e706e67)
 
 *   程序员在这里分享想法，互相帮助成长
 *   dev.to 是一个平台，软件开发人员可以在这里撰写文章，参与讨论，并建立自己的专业档案。
@@ -315,7 +315,7 @@ JVM Profiler 向 Kafka、控制台输出或自定义报告程序发送指标
 
 ## tootsite/乳齿象
 
-[![img](../Images/22e4eb144f4ff1cd5dd9e4653ac3f272.png)T2】](https://camo.githubusercontent.com/022bf02d525e81a6137fae0687e52dbdff686070/68747470733a2f2f692e696d6775722e636f6d2f71724e4f6953702e706e67)
+[![img](img/22e4eb144f4ff1cd5dd9e4653ac3f272.png)T2】](https://camo.githubusercontent.com/022bf02d525e81a6137fae0687e52dbdff686070/68747470733a2f2f692e696d6775722e636f6d2f71724e4f6953702e706e67)
 
 *   你的自我托管，全球互联的微博社区
 *   Mastodon 是一个免费的开源社交网络服务器，基于 ActivityPub 和 OStatus 等开放网络协议。
@@ -325,7 +325,7 @@ JVM Profiler 向 Kafka、控制台输出或自定义报告程序发送指标
 
 ## 哲基尔/杰基尔
 
-[![img](../Images/c8557dd3722e08b5bd0499a726f2be8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8AGwTENP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jekyllrb.com/img/logo-2x.png)
+[![img](img/c8557dd3722e08b5bd0499a726f2be8d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8AGwTENP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jekyllrb.com/img/logo-2x.png)
 
 *   🌐Jekyll 是 Ruby 中一个支持博客的静态站点生成器
 *   Jekyll 是一个简单的、支持博客的静态站点生成器，非常适合个人、项目或组织站点。可以把它想象成一个基于文件的 CMS，没有任何复杂性。
@@ -335,7 +335,7 @@ GitHub - jekyll/jekyll: Jekyll 是 Ruby 中一个支持博客的静态站点生�
 
 ## fastlane / fastlane
 
-[![img](../Images/330da39bb4927cd61e6d8df49b3ccd25.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Pz9qV6f9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/fastlane/fastlane/raw/master/fastlane/assets/fastlane_text.png%3Fraw%3Dtrue)
+[![img](img/330da39bb4927cd61e6d8df49b3ccd25.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Pz9qV6f9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/fastlane/fastlane/raw/master/fastlane/assets/fastlane_text.png%3Fraw%3Dtrue)
 
 *   🚀自动化构建和发布 iOS 和 Android 应用的最简单方法
 *   fastlane 是 iOS 和 Android 开发人员用来自动执行乏味任务的工具，如生成屏幕截图、处理预置描述文件和发布应用程序。
@@ -344,7 +344,7 @@ GitHub - jekyll/jekyll: Jekyll 是 Ruby 中一个支持博客的静态站点生�
 
 ## jondot/awesome-react-native
 
-[![img](../Images/cf34ee31390482cd260ec7b9a4e5d765.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--juJvUNfD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/jondot/awesome-react-native/raw/master/arn.svg%3Fsanitize%3Dtrue)
+[![img](img/cf34ee31390482cd260ec7b9a4e5d765.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--juJvUNfD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/jondot/awesome-react-native/raw/master/arn.svg%3Fsanitize%3Dtrue)
 
 *   牛逼 React 原生组件、新闻、工具、学习资料！
 *   Awesome React Native 是一个非常棒的风格列表，收集了最好的 React Native 库、工具、教程、文章等等。GitHub-jondot/Awesome-React-Native:Awesome React 原生组件、新闻、工具和学习资料！
@@ -363,7 +363,7 @@ GitHub - jekyll/jekyll: Jekyll 是 Ruby 中一个支持博客的静态站点生�
 
 ## 铁轨/铁轨
 
-[![img](../Images/4d4f87b0d4510d40f03c18f544de0dbc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--aZNubeK2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://connpass-tokyo.s3.amazonaws.com/event/65583/d938b3ca2cde4587b9b5c27ee93b91e7.png) 
+[![img](img/4d4f87b0d4510d40f03c18f544de0dbc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--aZNubeK2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://connpass-tokyo.s3.amazonaws.com/event/65583/d938b3ca2cde4587b9b5c27ee93b91e7.png) 
 红宝石铁轨
 
 *   Rails 是一个 web 应用程序框架，它包含了根据模型-视图-控制器(MVC)模式创建数据库支持的 web 应用程序所需的一切。
@@ -373,7 +373,7 @@ GitHub - jekyll/jekyll: Jekyll 是 Ruby 中一个支持博客的静态站点生�
 
 ## rapid 7/metasploit-framework
 
-[![img](../Images/917c68a193abfdb11167aa5f5263c16e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---SATLl1---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.metasploit.com/includes/images/metasploit-r7-logo.svg)
+[![img](img/917c68a193abfdb11167aa5f5263c16e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---SATLl1---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.metasploit.com/includimg/metasploit-r7-logo.svg)
 
 *   Metasploit 框架
 *   Metasploit 框架是在 BSD 风格的许可下发布的。有关更多详细信息，请参见复制。
@@ -383,7 +383,7 @@ GitHub - jekyll/jekyll: Jekyll 是 Ruby 中一个支持博客的静态站点生�
 
 ## 话语/话语
 
-[![img](../Images/e46e00d43e6a8ed934a65eada130bd89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PAQd2nm---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/discourse/discourse/raw/master/images/discourse.png)
+[![img](img/e46e00d43e6a8ed934a65eada130bd89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PAQd2nm---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/discourse/discourse/raw/mastimg/discourse.png)
 
 *   社区讨论的平台。免费，开放，简单。Discourse 是为互联网下一个十年打造的 100%开源讨论平台。将其用作:
 *   邮寄名单
@@ -404,7 +404,7 @@ GitHub - jekyll/jekyll: Jekyll 是 Ruby 中一个支持博客的静态站点生�
 
 ## 微软/ ailab
 
-[![img](../Images/259c7728ac5c10fdc10d91a5bd4a9d32.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mq_iGOx8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.gyazo.com/5fde58b9f095a66ee593f5c90a108c96.png)
+[![img](img/259c7728ac5c10fdc10d91a5bd4a9d32.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mq_iGOx8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.gyazo.com/5fde58b9f095a66ee593f5c90a108c96.png)
 
 *   使用微软人工智能体验、学习和编码最新的突破性创新
 *   用户界面设计过程涉及到很多创意，这些创意始于设计师分享想法的白板。
@@ -414,7 +414,7 @@ GitHub - jekyll/jekyll: Jekyll 是 Ruby 中一个支持博客的静态站点生�
 
 ## sindresorhus / ky
 
-[![img](../Images/e101733ca999976cf91b8ef49a4183b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--miRg63gJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/sindresorhus/ky/raw/master/media/logo.svg%3Fsanitize%3Dtrue)
+[![img](img/e101733ca999976cf91b8ef49a4183b2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--miRg63gJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/sindresorhus/ky/raw/master/media/logo.svg%3Fsanitize%3Dtrue)
 
 *   基于浏览器获取 API 的小巧精致的 HTTP 客户端
 *   Ky 的目标是现代浏览器。对于较旧的浏览器，您将需要传输文件并使用获取多填充。对于 Node.js，请查看 Got。
@@ -429,7 +429,7 @@ GitHub - jekyll/jekyll: Jekyll 是 Ruby 中一个支持博客的静态站点生�
 
 ## [读数/ pwa](#lukeed-pwa)
 
-[![img](../Images/a59d1e1c846a2f01965c480aba837119.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7LZO49CI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/lukeed/pwa/raw/master/logo.png)
+[![img](img/a59d1e1c846a2f01965c480aba837119.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7LZO49CI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/lukeed/pwa/raw/master/logo.png)
 
 *   与框架无关的
     用您喜欢的框架构建，或者什么都不用！
@@ -455,7 +455,7 @@ GitHub - jekyll/jekyll: Jekyll 是 Ruby 中一个支持博客的静态站点生�
 
 ## felixrieseberg/windows 95
 
-[![img](../Images/5138fa800da7b3f4fa655158a8399222.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yPK23NQd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1426799/44532591-4ceb3680-a6a8-11e8-8c2c-bc29f3bfdef7.png)
+[![img](img/5138fa800da7b3f4fa655158a8399222.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yPK23NQd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://user-images.githubusercontent.com/1426799/44532591-4ceb3680-a6a8-11e8-8c2c-bc29f3bfdef7.png)
 
 *   🚀电子视窗 95。
 *   在 macOS、Linux 和 Windows 上运行。
@@ -465,7 +465,7 @@ GitHub-felixrieseberg/windows 95:💩🚀电子视窗 95。在 macOS、Linux 和
 
 ## Nozbe / WatermelonDB
 
-[![img](../Images/ad4fb19043b891604db13f9416ab7dce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wy27jz9s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/Nozbe/WatermelonDB/raw/master/assets/logo-horizontal2.png)
+[![img](img/ad4fb19043b891604db13f9416ab7dce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wy27jz9s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/Nozbe/WatermelonDB/raw/master/assets/logo-horizontal2.png)
 
 *   🍉面向强大 React 和 React 本机应用的新一代数据库，可扩展至 10，000 条记录，并保持快速⚡️
 *   构建强大的 React 和 React 本机应用程序，可从数百条记录扩展到数万条记录，并保持快速运行
@@ -474,7 +474,7 @@ GitHub - Nozbe/WatermelonDB:🍉面向强大 React 和 React 原生应用的下�
 
 ## vuej/vista
 
-[![img](../Images/3e80ecdcd0e6d81be5e995fa58e63722.png)T2】](https://camo.githubusercontent.com/728ce9f78c3139e76fa69925ad7cc502e32795d2/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67)
+[![img](img/3e80ecdcd0e6d81be5e995fa58e63722.png)T2】](https://camo.githubusercontent.com/728ce9f78c3139e76fa69925ad7cc502e32795d2/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67)
 
 *   🖖是一个渐进的、可增量采用的 JavaScript 框架，用于在 web 上构建 UI。
 *   Vue.js 是一个 MIT 授权的开源项目。
@@ -491,7 +491,7 @@ GitHub - wilk/microjob:一个微小的包装器，用于将 Node.js 工作线程
 
 ## 反应-原/反应-原
 
-[![img](../Images/1d1013e3e74150fee85af4fac8789678.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cgjJUpez--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/React-Proto/react-proto/raw/master/assets/dragging.gif)
+[![img](img/1d1013e3e74150fee85af4fac8789678.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cgjJUpez--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/React-Proto/react-proto/raw/master/assets/dragging.gif)
 
 *   🎨React 开发人员和设计人员的应用原型工具。
 *   React-Proto 是面向开发人员和设计人员的 React 应用程序原型工具。

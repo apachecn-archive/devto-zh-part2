@@ -4,7 +4,7 @@
 
 Django rest 框架是一个 [python](https://www.python.org/) 工具包，为 Django 应用程序创建 REST APIs。
 
-[![Alt text of image](../Images/d6ffccbf6cbdc9435040b543c9984158.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pkO9njhm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.com/images/django_rest_framework.png)
+[![Alt text of image](img/d6ffccbf6cbdc9435040b543c9984158.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pkO9njhm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.apcelent.cimg/django_rest_framework.png)
 
 ## 安装
 

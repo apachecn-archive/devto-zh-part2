@@ -64,7 +64,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果您现在运行`composer -d=magento update`，您可能会遇到一个错误，指出找不到合适的版本。
 
-[![composer update error](../Images/c426c83d8482169cfd8b46185d47a338.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GZOgUwLZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uryn73l01ti0r7j0fne2.png)
+[![composer update error](img/c426c83d8482169cfd8b46185d47a338.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GZOgUwLZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uryn73l01ti0r7j0fne2.png)
 
 在这种情况下，你可能不得不调整`minimum-stability`设置为`dev`，当你这样做的时候，我也建议设置`prefer-stable`标志。
 
@@ -76,7 +76,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在执行`composer -d=magento update`，模块`my-namespace/my-local-module`将被 composer 检测到。
 
-[![composer update success](../Images/eea122b0369bafe218b13de31041b65f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--390V73cQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ryp6byq1cpjrdx58gymk.png)
+[![composer update success](img/eea122b0369bafe218b13de31041b65f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--390V73cQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ryp6byq1cpjrdx58gymk.png)
 
 Composer 将在`vendor/my-namespace`目录中创建一个到本地模块的符号链接。
 

@@ -4,7 +4,7 @@
 
 上周，为了庆祝国际妇女节，我参加了一场专为女孩举办的攀岩比赛。比赛在离我的家乡很远的地方举行，在我回来的路上，我在想为什么我会对参加女子攀岩比赛如此兴奋，同时我又对任何女子攀岩比赛如此怀疑。
 
-[![publish](../Images/592732170a00b8efe5d0329451152b67.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YZVsEX71--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7rmryssxh4lh70b1p5ei.jpg)
+[![publish](img/592732170a00b8efe5d0329451152b67.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YZVsEX71--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7rmryssxh4lh70b1p5ei.jpg)
 
 任何人都会同意，就体格和生理而言，男人和女人的构造是不同的。总的来说，男性攀岩者更强壮，更高，更有活力，而女性攀岩者更灵活，手指更小，体重更轻。在非官方的攀岩比赛中，尤其是预选赛中，男女选手的路线相同是很常见的。这就是为什么我真的想参加女子比赛:没有太长的动作，没有太多的身体动作，一般来说没有太多的男子风格的路线。没有借口！:)
 

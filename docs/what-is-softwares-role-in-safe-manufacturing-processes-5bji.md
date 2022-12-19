@@ -20,7 +20,7 @@
 美国联邦航空管理局(FAA)是监管民用航空所有方面的国家机构，该机构给出了一个可接受的合规方法示例，以证明该要求为](https://www.ecfr.gov/cgi-bin/text-idx?SID=c0d41fd915ac99598eeed4a302a6c183&mc=true&node=pt14.1.25&rgn=div5#se14.1.25_11309) [RTCA DO-178C 机载系统和设备认证中的软件考虑事项](https://en.wikipedia.org/wiki/DO-178C#Traceability)，这是当局(如 FAA、EASA 和加拿大交通部)用于监管基于软件的商业航空航天系统的框架。
 它明确规定了定义机载系统和设备软件方面的预期功能的要求，以及证明这些功能的测试。
 
-[![Boeing 787 Dreamliner aircraft uses Li-Ion batteries](../Images/7c5cc5d53d2b1da05e522c994ea72f77.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rLSCrW8W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gvfdd0qkf3xo7sk2sruv.jpg) 
+[![Boeing 787 Dreamliner aircraft uses Li-Ion batteries](img/7c5cc5d53d2b1da05e522c994ea72f77.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rLSCrW8W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gvfdd0qkf3xo7sk2sruv.jpg) 
 *波音 787 梦想飞机出现电池爆炸起火的严重问题*
 
 同样重要的是要注意，这些指南不仅仅是为了让我们创建更多的文档。例如，我们需要经历的一些困难是因为 2013 年波音 787 梦想飞机上的[电池起火。](https://en.wikipedia.org/wiki/Boeing_787_Dreamliner_battery_problems)

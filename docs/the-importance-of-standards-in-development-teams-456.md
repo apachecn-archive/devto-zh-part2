@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/the-importance-of-standards-in-development-teams-456>
 
-[![](../Images/be7f7699290ba43311cb2aa432cd356c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XH8Rdvq9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AECUKW80AL0h2AgGi_58Dew.jpeg)
+[![](img/be7f7699290ba43311cb2aa432cd356c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XH8Rdvq9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AECUKW80AL0h2AgGi_58Dew.jpeg)
 
 很少有人喜欢被告知该做什么。更少的人喜欢有选择做什么的自由，但在如何做的问题上却没有自由。
 
@@ -12,7 +12,7 @@
 
 但即便如此，你才是设定标准的人。因此，当谈到作为一个团队与其他开发人员一起工作时，你最好也这样做，否则你很快就会意识到他们有自己的标准，并且(就像你一样)他们也在等待每个人来遵循他们。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### 标准、标准、标准
 
@@ -105,7 +105,7 @@
 
 开始新项目时，我喜欢使用以下设置:
 
-[![](../Images/ccf80e107165eee1479cc8a2ceb97a52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NiFfqzHI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/531/1%2AcK-2rUAxbdTLCZi7cxzXHw.png)
+[![](img/ccf80e107165eee1479cc8a2ceb97a52.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NiFfqzHI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/531/1%2AcK-2rUAxbdTLCZi7cxzXHw.png)
 
 它涵盖了基础知识:
 
@@ -132,7 +132,7 @@
 
 下图提供了代码从一个环境流向另一个环境的一般高级概述:
 
-[![](../Images/7d281d2a80ecf8eb9b1ee602d8242a6e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DeiDrIvo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/609/1%2AcZXWbVUeF-sT1gMkBRgQKQ.png)
+[![](img/7d281d2a80ecf8eb9b1ee602d8242a6e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DeiDrIvo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/609/1%2AcZXWbVUeF-sT1gMkBRgQKQ.png)
 
 就像环境一样，这是一个记录的关键过程，理想情况下，甚至在项目开始之前，为了避免不同的团队成员重写他们各自的代码之间的任何问题。无论您决定采用什么策略，请确保您清楚流程和要使用的实际命令，这是至关重要的，因为不是每个人都对这些版本控制系统有相同的知识和理解。因此，不要害怕记录实际的命令，或者为您常用的 IDE 提供屏幕截图，并一步一步地解释如何执行代码提升。
 
@@ -144,7 +144,7 @@
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

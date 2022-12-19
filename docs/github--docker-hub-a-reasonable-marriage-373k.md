@@ -4,7 +4,7 @@
 
 前段时间我发表了一篇关于用 [Wercker](https://wercker.com/) 配置 CI/CD 的文章。
 
-[![rafalpienkowski](../Images/e3748a2f9790d9edbfb75b011ab08d0f.png)](/rafalpienkowski) [## 带 Wercker 的 CI/CD
+[![rafalpienkowski](img/e3748a2f9790d9edbfb75b011ab08d0f.png)](/rafalpienkowski) [## 带 Wercker 的 CI/CD
 
 ### rafal Pienkowski 3 月 9 日 18 时 15 分阅读
 
@@ -14,7 +14,7 @@
 
 “自动构建”选项隐藏在“创建”按钮之后，但是创建新的 Docker Hub 自动构建的整个过程非常简单，可以在下图中看到:
 
-[![Automated build creation](../Images/631f88237a0f7aa6316f6baa75528d27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--58mk4Q9r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/rafalpienkowski/resources/master/github-docker-hub-marriage/creation.gif)
+[![Automated build creation](img/631f88237a0f7aa6316f6baa75528d27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--58mk4Q9r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/rafalpienkowski/resources/master/github-docker-hub-marriage/creation.gif)
 
 *注意:*如您所见，还有一个选择，也可以采用位存储库。
 
@@ -24,7 +24,7 @@
 *   构建细节我们有构建的历史。我们还可以查看每个构建的细节。另外，我们有一个到 GitHub 库的链接，里面有源代码。
 *   构建设置我们可以根据源代码分支更改图像的标签，手动触发构建，或者根据源代码中的标签设置构建触发器。
 
-[![Automated build tabs](../Images/efc92becb110136f9d2518d3ea0f308d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pf7z9D6g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rafalpienkowski/resources/master/github-docker-hub-marriage/dashboard.png)
+[![Automated build tabs](img/efc92becb110136f9d2518d3ea0f308d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pf7z9D6g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rafalpienkowski/resources/master/github-docker-hub-marriage/dashboard.png)
 
 默认情况下，每次提交 GitHub 上的主分支后，都会触发构建。开始构建和将图像发布到我们的存储库中需要一些时间。自动化构建的整个设置以正确的 docker 文件创建结束。在提交到 GitHub 存储库之前，可以在本地机器上测试 Dockerfile。
 

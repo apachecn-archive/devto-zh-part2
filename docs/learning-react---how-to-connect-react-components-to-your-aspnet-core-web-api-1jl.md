@@ -22,7 +22,7 @@
 
 这就是我们要去的地方...
 
-[![](../Images/e86ee9d47b90c7e478e937b40091798a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5sWp9W9k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-2/2018-05-29-22-18-35.png)
+[![](img/e86ee9d47b90c7e478e937b40091798a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5sWp9W9k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-2/2018-05-29-22-18-35.png)
 
 有点简陋，但它显示了我们需要的数据。
 
@@ -84,7 +84,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 因此，React 方法不是调用 render 方法直接获取数据，而是在组件生命周期的某个时刻调用 Ajax，更新组件的状态，并让 UI 自动更新以反映更改后的状态。
 
-[![](../Images/a90fe45760879a5d1be8513f1217561f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ey0IUdoH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-3/2018-06-07-12-34-15.png)
+[![](img/a90fe45760879a5d1be8513f1217561f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ey0IUdoH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-3/2018-06-07-12-34-15.png)
 
 每当我们修改这个状态时，UI 应该自动反映并显示新的数据。
 
@@ -136,11 +136,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 这就给我们留下了谜题的最后一部分。何时何地以及如何将组件连接到我们的 API。
 
-[![](../Images/90c7b1e5a431ea628be97d00323c038e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--26f7PXO0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-3/2018-06-07-15-21-20.png)
+[![](img/90c7b1e5a431ea628be97d00323c038e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--26f7PXO0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-3/2018-06-07-15-21-20.png)
 
 react 文档为我们指出了正确的方向...
 
-[![](../Images/13589e7a2afc2b0938e8859b9d0f4d7a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7tcvxmAC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-3/2018-06-07-12-39-54.png)
+[![](img/13589e7a2afc2b0938e8859b9d0f4d7a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7tcvxmAC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-3/2018-06-07-12-39-54.png)
 
 组件加载后，React 会自动调用`ComponentDidMount`。我们可以在这里进行 ajax 调用。
 
@@ -233,7 +233,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 下面是浏览器中的响应(注意，ASP.NET 使用 camel case 属性名返回数据，这与我们在 React 组件中使用的情况相匹配)。
 
-[![](../Images/e03bf8784f0852820ae641c61302138f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gz48tu1J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-3/2018-06-07-15-09-29.png)
+[![](img/e03bf8784f0852820ae641c61302138f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gz48tu1J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-3/2018-06-07-15-09-29.png)
 
 ## 下一步
 
@@ -252,7 +252,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在浏览器中查看它，我们会在从 API 加载“真实”数据之前看到这些硬编码的数据。
 
-[![](../Images/e400252e356d888af8c4aabc4b401d75.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6OwDPzGN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-3/ReactFlicker.gif)
+[![](img/e400252e356d888af8c4aabc4b401d75.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6OwDPzGN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://jonhilton.net/img/diary-of-a-net-developer-part-3/ReactFlicker.gif)
 
 下一篇文章看我们如何移除这个初始数据，并更好地利用 Typescript 来指定从 API 返回的数据的结构。
 

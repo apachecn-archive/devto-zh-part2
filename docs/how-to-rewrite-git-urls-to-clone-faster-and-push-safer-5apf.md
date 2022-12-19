@@ -53,6 +53,6 @@ Enter fullscreen mode Exit fullscreen mode
 有关更多详细信息，请访问官方文档:
 
 *   [git-clone](https://git-scm.com/docs/git-clone)
-*   [转推](https://git-scm.com/docs/git-push)转推![](../Images/b32695789fdfa70d8538bcd739346ac3.png)
+*   [转推](https://git-scm.com/docs/git-push)转推![](img/b32695789fdfa70d8538bcd739346ac3.png)
 
 原贴[此处](http://jonhnnyweslley.net/blog/how-to-rewrite-git-urls-to-clone-faster-and-push-safer/)。

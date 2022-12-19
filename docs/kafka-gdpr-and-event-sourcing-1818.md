@@ -30,7 +30,7 @@
 
 让我们先来看一下我们的架构会是什么样子:
 
-[![Kafka GDPR encryption architecture](../Images/3a7b0344a1c3f58be26202744ba3de09.png "Kafka GDPR encryption architecture")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mEQC3SEL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://danlebrero.com/images/blog/kafka-gdpr/kakfa-gdpr-encryption-architecture.png)
+[![Kafka GDPR encryption architecture](img/3a7b0344a1c3f58be26202744ba3de09.png "Kafka GDPR encryption architecture")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mEQC3SEL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://danlebrero.cimg/blog/kafka-gdpr/kakfa-gdpr-encryption-architecture.png)
 
 您的`Event Producer`是您的常规服务，它将未加密的数据推送到某个`To-Encrypt`主题。
 
@@ -50,7 +50,7 @@
 
 从这座象牙塔上看，这座建筑美极了。
 
-[![ivory tower](../Images/a9232aba81520944dd20214f514b2acd.png)](https://www.pedabe-concept.de) 
+[![ivory tower](img/a9232aba81520944dd20214f514b2acd.png)](https://www.pedabe-concept.de) 
 
 *形象归属:[象牙塔](https://www.pedabe-concept.de)作者[彼得·巴特尔](https://www.pedabe-concept.de)。*
 

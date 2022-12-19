@@ -4,14 +4,14 @@
 
 # 最新消息
 
-[![Initial screen when you join Shopoji](../Images/4f4dbf7956f589d2a410eb617bd6d601.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Y7FN6iTS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d51eyo130nhi2a8yxxn3.png) 
+[![Initial screen when you join Shopoji](img/4f4dbf7956f589d2a410eb617bd6d601.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Y7FN6iTS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d51eyo130nhi2a8yxxn3.png) 
 *你能分辨出我不在 UX 吗？*
 
 目前没什么特别的，但是前端不只是一个有一些控制台日志的白页。
 
 但是！当一个新的玩家加入市场时，会发生这样的情况:
 
-[![A new shop has entered the market notification](../Images/50a250feb64f6c4c55c009e4e7ef92e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mBZ5oB71--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qjfmpqk5j76b830zc6ot.png)
+[![A new shop has entered the market notification](img/50a250feb64f6c4c55c009e4e7ef92e3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mBZ5oB71--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qjfmpqk5j76b830zc6ot.png)
 
 有一个小横幅，上面写着一家新店进入市场，另附 10 个新的🍏已经进入市场。如果另一家商店加入，再加 10 家🍏都是加进去的，等等等等。
 

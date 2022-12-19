@@ -99,11 +99,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 通过按`Ctrl+Shift+P`(在 Windows 上)或`Command+Shift+P`(在 Mac 上)触发命令面板，并搜索 *UI* 。您的前 2 个结果应该是 *UI:选择主题*和 *UI:选择配色方案*。
 
-[![Using the Command Palette](../Images/dd3ebe5e4a123505db2235905a92345a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5IGZY0JP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/st3-colour-scheme/activate-640.jpg)
+[![Using the Command Palette](img/dd3ebe5e4a123505db2235905a92345a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5IGZY0JP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/st3-colour-scheme/activate-640.jpg)
 
 选择 *UI:选择配色方案*，你应该能够找到你的自定义主题作为选项之一。
 
-[![Selecting your colour scheme](../Images/7f42a9a97dbdd0f63b733361e9b578b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eXvqtCAf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/st3-colour-scheme/activate2-640.jpg)
+[![Selecting your colour scheme](img/7f42a9a97dbdd0f63b733361e9b578b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eXvqtCAf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/st3-colour-scheme/activate2-640.jpg)
 
 ## 第三步:与朋友分享
 
@@ -123,7 +123,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我的主题叫做棱镜，目前由 GitHub 托管。如果你使用的字体支持草书斜体和连字，那就更有趣了。至少对我来说是这样。截图中的字体是 Dank Mono。
 
-[![Prismatic screenshot](../Images/828a55fefd966ebd3b7e333970069b5c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g98H9Pk9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/st3-colour-scheme/screenshot-640.jpg)
+[![Prismatic screenshot](img/828a55fefd966ebd3b7e333970069b5c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g98H9Pk9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/st3-colour-scheme/screenshot-640.jpg)
 
 ## 有用的资源
 

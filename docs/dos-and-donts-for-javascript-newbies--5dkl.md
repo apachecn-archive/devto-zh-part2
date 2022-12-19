@@ -22,7 +22,7 @@
 
 自从采用 ES6(也称为 ECMAScript 2015)标准以来，应该使用关键字 let 和 const 来声明变量。放弃 var 关键字的原因是，它应该为变量的用途和使用它的上下文提供更清晰的含义。Const 通常应该保存对不会随时间改变的值的引用，即使在对象和数组的情况下，允许对它们进行变异。另一方面，关键字 let 表示一个值可能被改变，或者一个不同的值将被赋给特定的变量。如果你试图改变一个常量的值，JavaScript 会告诉你并帮助你避免错误。const 的一个很好的用例是存储一个对 DOM 元素的引用，您总是希望将它保存在该变量中。关键字 let 意味着与循环或数学算法一起使用，通常当它的值预计会变化时。用 let 和 const 声明的变量不会像用 var 声明的那样被提升。
 
-[![Body image - comments](../Images/75dede034e9191f3030324bfabd80fce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q1woENSp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j4hrgtmytrifgf6c6vwh.png)
+[![Body image - comments](img/75dede034e9191f3030324bfabd80fce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q1woENSp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j4hrgtmytrifgf6c6vwh.png)
 
 ### 注释
 

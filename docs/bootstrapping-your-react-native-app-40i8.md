@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kashishgrover/bootstrapping-your-react-native-app-40i8>
 
-[![](../Images/64c506b239afa8797c6c721141eb4b40.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TWJp6jsn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Ajmmgs9zRg8P6-wCR4YYmxA.png)
+[![](img/64c506b239afa8797c6c721141eb4b40.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TWJp6jsn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Ajmmgs9zRg8P6-wCR4YYmxA.png)
 
 你好。这是我在 Dev.to 的第一个帖子，我很高兴成为你们社区的一员。😇
 
@@ -18,13 +18,13 @@
 
 不仅如此，如果你的生态系统已经包含了 React，你可以确保你的大部分应用，无论是 web 还是原生的，看起来和工作起来都是一样的。
 
-[![Everything.](../Images/36246e3d813c73fc34994683b1eca37a.png)T2】](https://i.giphy.com/media/l0HlxFuQwoTDkwuPe/giphy.gif)
+[![Everything.](img/36246e3d813c73fc34994683b1eca37a.png)T2】](https://i.giphy.com/media/l0HlxFuQwoTDkwuPe/giphy.gif)
 
 另外，在开始使用 React Native 之前需要了解 React 是一个误区。我从 React Native 开始。:)
 
 # 我就不告诉你怎么做 app 了。
 
-[![Figure it out.](../Images/0c9afd1d0142c12292b08a09edcc9cf4.png)T2】](https://i.giphy.com/media/xThuWiF9uce739ZX8s/giphy.gif)
+[![Figure it out.](img/0c9afd1d0142c12292b08a09edcc9cf4.png)T2】](https://i.giphy.com/media/xThuWiF9uce739ZX8s/giphy.gif)
 
 好吧，想想办法。即使在今天，我也一直在努力与这么多人相处。Google it，了解如何做事情，访问 Stack Overflow，GitHub 问题，甚至与开发人员一起加入 slack 频道，他们可能会帮助您找出为什么您会陷入困境以及您可以做些什么。和你的同龄人谈谈，因为你的问题有一半是和 JS 有关的。
 
@@ -38,7 +38,7 @@
 
 # 我来帮你做决定
 
-[![You see...](../Images/12a1e184c194003d2a2ed24d2a3a409a.png)T2】](https://i.giphy.com/media/l0MYKzvI7xx5vyhvW/giphy.gif)
+[![You see...](img/12a1e184c194003d2a2ed24d2a3a409a.png)T2】](https://i.giphy.com/media/l0MYKzvI7xx5vyhvW/giphy.gif)
 
 在真实的世界里发生了如此多的事情，以至于很难跟踪每一件事情。作为一个刚刚起步的人，你可能会问我——我到底从哪里开始呢？
 
@@ -58,7 +58,7 @@ $ yarn start
 
 就是这样！你可以继续使用 Expo 的 Android/iOS 应用程序，或者在你的机器上使用模拟器来运行你的新项目。
 
-[![](../Images/4bd95daafa4c84922fea11b54817983a.png)T2】](https://i.giphy.com/media/jKaFXbKyZFja0/giphy.gif)
+[![](img/4bd95daafa4c84922fea11b54817983a.png)T2】](https://i.giphy.com/media/jKaFXbKyZFja0/giphy.gif)
 
 深入到你的应用程序开发中，有一天，你可能会意识到你想要构建的这个新功能还没有任何可用于 react native 的 API，你想为 iOS 和 Android 编写自己的原生代码。那一天，你可以随时选择`eject`你的项目。你可以在这里找到完整的教程。🙂
 
@@ -84,7 +84,7 @@ $ yarn start
 
 # 您的应用程序的组成部分
 
-[![](../Images/31ee5354896d8e7555796a4f4c11c805.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3sPNvaz8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A8GrTZB9vk0NjKoaZA3S_HA.png)
+[![](img/31ee5354896d8e7555796a4f4c11c805.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3sPNvaz8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A8GrTZB9vk0NjKoaZA3S_HA.png)
 
 ## 组件
 
@@ -96,7 +96,7 @@ $ yarn start
 
 但是永远记住，不管怎样，简单是关键。依赖越多，跟踪就越难，你也不想陷入依赖地狱。这就是为什么最佳实践是**拥有自己的辅助组件**。例如，创建自己的按钮，该按钮从 React Native 或 Native Base 内部返回 TouchableOpacity。明天如果你找到一个更好的解决方案，你只需要改变一个文件。
 
-[![](../Images/d3c3b2193b8bccb077000b8beb685330.png)T2】](https://i.giphy.com/media/3VydkbG6UOcUg/giphy.gif)
+[![](img/d3c3b2193b8bccb077000b8beb685330.png)T2】](https://i.giphy.com/media/3VydkbG6UOcUg/giphy.gif)
 
 ## 处理图像
 
@@ -118,13 +118,13 @@ $ yarn start
 
 以 Expo 给你的样板文件为例。
 
-[![](../Images/843bb1e12f45514925cfcd0f63aab772.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zldRxvUM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AF1L123In07sC-BSNN0kCSA.png)
+[![](img/843bb1e12f45514925cfcd0f63aab772.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zldRxvUM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AF1L123In07sC-BSNN0kCSA.png)
 
 在这里，你可以看到三个屏幕和底部的一个标签栏。TabBar 是控制这三个视图的导航器。在 React 导航中，您可以嵌套导航器。同样，在任何导航器中，您可以挂载任意数量的屏幕。
 
 所以代码看起来像这样:
 
-[![](../Images/37dbe4390e6509079c8b7ce3d48d3706.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XJOSMTM8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m5o2x3fpofd6bmcen6tj.png)
+[![](img/37dbe4390e6509079c8b7ce3d48d3706.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XJOSMTM8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m5o2x3fpofd6bmcen6tj.png)
 
 在这里，您的 TabNavigator 被用作 RootNavigator 中的一个屏幕。您可以像这样或以任何符合您逻辑的方式嵌套它们。:)
 
@@ -159,12 +159,12 @@ Redux 和 MobX 都为您提供了存储，这些存储基本上是在您调用 A
 样式表道:
 
 [![<br>
-](../Images/173b9feabce4470ea576424a8d289fbd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a85WtaZ2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0dvfrd0c2lcrg1rf109k.png)
+](img/173b9feabce4470ea576424a8d289fbd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a85WtaZ2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0dvfrd0c2lcrg1rf109k.png)
 
 这种风格的组件道:
 
 [![<br>
-](../Images/9f686c331861af758c8472e72dd9eac0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dVS-iiFG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mudbwnu9r4rsvb1tr558.png)
+](img/9f686c331861af758c8472e72dd9eac0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dVS-iiFG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mudbwnu9r4rsvb1tr558.png)
 
 你觉得哪个扩展性更强？😉
 
@@ -186,7 +186,7 @@ Redux 和 MobX 都为您提供了存储，这些存储基本上是在您调用 A
     查找文件变得超级容易。
 
 [![<br>
-](../Images/e9f1d90d7c4eb73e7ee7932cc8bc2d5a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bRQJC7fo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gi0ghztgm02uhn9o168h.png)
+](img/e9f1d90d7c4eb73e7ee7932cc8bc2d5a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bRQJC7fo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gi0ghztgm02uhn9o168h.png)
 
 *   **按类型分类的文件夹**
 
@@ -196,18 +196,18 @@ Redux 和 MobX 都为您提供了存储，这些存储基本上是在您调用 A
     屏幕、资产等等。所以总的来说，这对于功能较少的小项目非常有用。
 
 [![<br>
-](../Images/630db37adbe4e87d153a5edb3191b5af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2I0zsbe8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8qzywzwexpzmy4kmuehr.png)
+](img/630db37adbe4e87d153a5edb3191b5af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2I0zsbe8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8qzywzwexpzmy4kmuehr.png)
 
 ## Bug 追踪
 
 [![<br>
-](../Images/63e7f55125273f815887686134fb226d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vq1vdnJf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://devhumor.com/content/uploads/images/February2018/DVsMqp0X4AA1Qky.png)
+](img/63e7f55125273f815887686134fb226d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vq1vdnJf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://devhumor.com/content/uploaimg/February2018/DVsMqp0X4AA1Qky.png)
 
 不能掉以轻心地跟踪生产中的 bug。我推荐 React Native 的**哨兵**或者 **Bugsnag** 。甚至 Play Store 也会给你 bug 报告，但是最好有一个地方来跟踪你所有的 bug。
 
 ## 调试
 
-[![](../Images/8a08934dcf51f67fde1706c96d5c8395.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g9pHBSWd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://devhumor.com/content/uploads/images/July2017/debugging.jpg)
+[![](img/8a08934dcf51f67fde1706c96d5c8395.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g9pHBSWd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://devhumor.com/content/uploaimg/July2017/debugging.jpg)
 
 要使用应用内开发工具，你可以在这里浏览文档[中给出的教程。](https://facebook.github.io/react-native/docs/debugging.html)
 
@@ -233,4 +233,4 @@ React Native Tools 对于 VS 代码来说绝对是一个惊人的扩展。所以
 
 ## 感谢，人类。现在让我们开始吧。
 
-[![](../Images/37c6ef59a41cd2eca0c4086db14e8226.png)T2】](https://i.giphy.com/media/U1rlk8zdcAwbm/giphy.gif)
+[![](img/37c6ef59a41cd2eca0c4086db14e8226.png)T2】](https://i.giphy.com/media/U1rlk8zdcAwbm/giphy.gif)

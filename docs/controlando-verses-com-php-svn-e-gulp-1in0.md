@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/prelias/controlando-verses-com-php-svn-e-gulp-1in0>
 
-[![](../Images/9f04cdfa2dff432971fe8ea8267b1c34.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1tlCNSWy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://highmoon-miyabi.com/blog/images/article_thumb/gulp_php.png)
+[![](img/9f04cdfa2dff432971fe8ea8267b1c34.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1tlCNSWy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://highmoon-miyabi.com/blimg/article_thumb/gulp_php.png)
 
 随着 Git 越来越多地用于存储库控制，这一提示可能不再那么有用，但是，就像我在这里工作的公司仍然使用 Tortoise SVN 一样，世界各地可能还有其他公司和个人对今天的帖子感兴趣。
 

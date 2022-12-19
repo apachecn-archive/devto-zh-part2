@@ -4,7 +4,7 @@
 
 ### 编程语言的 3 个角色
 
-[![](../Images/25d929007f5e4ddaba012c2bee68675d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w4Vq19LR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AlEcnNOr5onYegA8rk9BFaw.jpeg)
+[![](img/25d929007f5e4ddaba012c2bee68675d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w4Vq19LR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AlEcnNOr5onYegA8rk9BFaw.jpeg)
 
 一种编程语言扮演三种不同的角色:它连接机器、开发者和团队。对于这些角色，现有的编程语言存在严重的缺陷。如果我们能解决上面列出的 3 个问题，它不仅能让开发者体验到极致，也一定会有丰厚的经济回报。
 

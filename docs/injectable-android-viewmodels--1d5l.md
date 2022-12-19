@@ -18,7 +18,7 @@
 
 谷歌的`ViewModel`旨在帮助解决这些问题。不幸的是，它仍然需要在活动生命周期中创建，但是通过几次微调，您可以轻松地将任何视图模型的依赖项注入其中。
 
-[![Injection](../Images/343cdc2b57c5e137ff15281e92c90116.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--41k5l2C5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0t277ysyk3nsna9uk3t6.jpg)
+[![Injection](img/343cdc2b57c5e137ff15281e92c90116.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--41k5l2C5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0t277ysyk3nsna9uk3t6.jpg)
 
 # 可注射视图模型
 
@@ -191,7 +191,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果对你来说太复杂了，请看看下面的图表。这可能有助于你看清大局。
 
-[![Diagram](../Images/f7398d4b8f5e5b7b7bbddbdfc41f31ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1pfEUB_X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lbjwwl51j0zlt1guqo7s.png)
+[![Diagram](img/f7398d4b8f5e5b7b7bbddbdfc41f31ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1pfEUB_X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lbjwwl51j0zlt1guqo7s.png)
 
 最初发布于 [brightinventions.pl](https://brightinventions.pl/blog/)
 

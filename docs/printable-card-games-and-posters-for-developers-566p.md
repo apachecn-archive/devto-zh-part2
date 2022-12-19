@@ -6,13 +6,13 @@
 
 ## 发货吧！产品管理的游戏
 
-[![](../Images/2794103d70468d9eda2c299fcc69ec32.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1agyWpxt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bjcrr3ji4ommrw8gljd8.jpeg)
+[![](img/2794103d70468d9eda2c299fcc69ec32.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1agyWpxt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bjcrr3ji4ommrw8gljd8.jpeg)
 
 Postlight 的第一个游戏是关于运输软件的考验和磨难。由于大众的需求，他们创造了一个游戏的[打印和播放版本](https://postlight.com/about/news/ship-it-the-game-of-product-management)，你可以在完成这个简短的调查后下载。
 
 ## 特权提升(EoP)威胁建模卡片游戏
 
-[![](../Images/d935bec96a748cc3d7a0bdfdeae74938.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ak_ZJoFO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q9jg5og0djpn9aqxo588.jpg)
+[![](img/d935bec96a748cc3d7a0bdfdeae74938.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ak_ZJoFO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q9jg5og0djpn9aqxo588.jpg)
 
 特权提升(EoP)是开始威胁建模的简单方法。这是一个开发人员、架构师或安全专家都可以玩的纸牌游戏。在这里下载。
 

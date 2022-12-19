@@ -4,7 +4,7 @@
 
 你好。欢迎来到 dev.to！
 
-[![A magical purple dog witch waves a stick-wand in a circular motion over a cauldron, and out comes smoke: "Sup?"](../Images/41fe62ab05910d4faaf0495f6604a641.png)T2】](https://i.giphy.com/media/3o6ZsXTQUVOT84Zrz2/giphy.gif)
+[![A magical purple dog witch waves a stick-wand in a circular motion over a cauldron, and out comes smoke: "Sup?"](img/41fe62ab05910d4faaf0495f6604a641.png)T2】](https://i.giphy.com/media/3o6ZsXTQUVOT84Zrz2/giphy.gif)
 
 在下面留下评论向社区介绍自己吧！✌️
 

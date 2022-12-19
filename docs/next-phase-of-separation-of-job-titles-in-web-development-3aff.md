@@ -6,7 +6,7 @@
 
 对我来说，这是达到目的的手段，一些更有逻辑的人喜欢解决的事情，以帮助我们的应用程序做他们应该做的。“痛苦”就存在于此:)前端和后端开发的分离非常明显——前端更有创造性，而后端更有逻辑性。
 
-[![The JS Pain](../Images/0e2e77a76aacc64de3aad684659925c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yAGyfF-_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uhogo2eds46pct0xv1rv.png)
+[![The JS Pain](img/0e2e77a76aacc64de3aad684659925c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yAGyfF-_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uhogo2eds46pct0xv1rv.png)
 
 如今人们谈论前端时遇到的问题来自上图中的这个概念——大多数 web 应用程序逻辑与后端分离，并被转移到前端单页面应用程序和框架，如 React、Vue 或 Angular。今天，一些后端开发人员转移到了前端，而其他人则留下来创建微服务。
 
@@ -18,7 +18,7 @@
 
 我相信，来自这两个群体中任何一方的专业人士都不喜欢做另一方的工作。只要想想那些 JS 开发人员，当他们需要用高级 CSS 做任何事情时，他们都很痛苦。
 
-[![The CSS Pain](../Images/df3f4710d87b6875d9997f7559822053.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vWU9YHOO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vg20e2d8j0yi3xfqjzf5.gif)
+[![The CSS Pain](img/df3f4710d87b6875d9997f7559822053.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vWU9YHOO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vg20e2d8j0yi3xfqjzf5.gif)
 
 2018 年。这种区别将变得更加明显。
 

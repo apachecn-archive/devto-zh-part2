@@ -109,7 +109,7 @@ const myModule = _Q.getModule("myModule");
 
 我还没有到目前为止，在这个项目中，但经纪人的工作。概念是制定的，但不是实施的。NanoQueue 生活在 GitHub 上的 repo 中:
 
-## ![GitHub logo](../Images/375dfcc32199b4dedf2b526645c27ff7.png) [哈卡什](https://github.com/hakash) / [纳米队列](https://github.com/hakash/nanoqueue)
+## ![GitHub logo](img/375dfcc32199b4dedf2b526645c27ff7.png) [哈卡什](https://github.com/hakash) / [纳米队列](https://github.com/hakash/nanoqueue)
 
 ### 页面上组件间消息传递的最小发布/订阅消息代理
 

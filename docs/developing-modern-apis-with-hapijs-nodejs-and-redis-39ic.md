@@ -6,4 +6,4 @@
 
 [读下去🤘](https://auth0.com/blog/developing-modern-apis-with-nodejs-hapijs-and-redis/?utm_source=dev&utm_medium=sc&utm_campaign=modern_hapijs_apis)
 
-[![Developing Modern APIs with Hapi.js, Node.js, and Redis](../Images/bd086675a54c993a51f5ffd15c2a3f00.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rXorLnV_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qhw2xi7lrtf7kjjpzt4s.png)
+[![Developing Modern APIs with Hapi.js, Node.js, and Redis](img/bd086675a54c993a51f5ffd15c2a3f00.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rXorLnV_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qhw2xi7lrtf7kjjpzt4s.png)

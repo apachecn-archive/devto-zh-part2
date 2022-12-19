@@ -6,7 +6,7 @@
 
 Jan 提供了一些关于开发人员不同“阶段”的智慧和观点。“我知道的足够多，知道我知道的还不够多”这句话浮现在脑海里。
 
-[![stealthmusic](../Images/964d794cebdc1e82a4c918915c55c822.png)](/stealthmusic) [## 开发人员的三个阶段
+[![stealthmusic](img/964d794cebdc1e82a4c918915c55c822.png)](/stealthmusic) [## 开发人员的三个阶段
 
 ### Jan Wedel 11 月 8 日 183 分钟阅读
 
@@ -16,7 +16,7 @@ Jan 提供了一些关于开发人员不同“阶段”的智慧和观点。“�
 
 Ed 描述了教授函数式编程的两种重要方法:使用历史和使用哲学。
 
-[![eddroid](../Images/596f3fd380ab7d25df5340d9b804a794.png)](/eddroid) [## 函数式编程教学:两种大图方法
+[![eddroid](img/596f3fd380ab7d25df5340d9b804a794.png)](/eddroid) [## 函数式编程教学:两种大图方法
 
 ### 埃德托罗 11 月 6 日 1810 分钟阅读
 
@@ -26,7 +26,7 @@ Ed 描述了教授函数式编程的两种重要方法:使用历史和使用哲�
 
 “编程”和成为一名专业软件工程师有很大的区别。Ana 以 20 条观察开始讨论。
 
-[![anaulin](../Images/eb9fd12d94c0680ba4fc40ebdabbdec0.png)](/anaulin) [## 没人告诉我的关于成为软件工程师的事情
+[![anaulin](img/eb9fd12d94c0680ba4fc40ebdabbdec0.png)](/anaulin) [## 没人告诉我的关于成为软件工程师的事情
 
 ### 安娜·乌林😻11 月 9 日 183 分钟读取
 
@@ -42,7 +42,7 @@ Ed 描述了教授函数式编程的两种重要方法:使用历史和使用哲�
 
 在所有伟大的 Vim 教程中，David 分享了一些关于 Unix 的伟大背景。Vim 非常强大，因为它已经与 Unix 工具紧密集成。
 
-[![gypsydave5](../Images/ae3081c50d4c953e1125e67f5f086a97.png)](/gypsydave5) [## Unix 之路...或者为什么您实际上想要使用 Vim
+[![gypsydave5](img/ae3081c50d4c953e1125e67f5f086a97.png)](/gypsydave5) [## Unix 之路...或者为什么您实际上想要使用 Vim
 
 ### 大卫·威克斯 11 月 9 日 186 分钟阅读
 
@@ -52,7 +52,7 @@ Ed 描述了教授函数式编程的两种重要方法:使用历史和使用哲�
 
 说到伟大的 Vim 教程和介绍，不要错过这篇文章，它提供了一些伟大的背景，并提供了 Vim 的味道。
 
-[![vintharas](../Images/cdbf7eb85d964ebc8918c27bb57ffa61.png)](/vintharas) [## 探索 Vim
+[![vintharas](img/cdbf7eb85d964ebc8918c27bb57ffa61.png)](/vintharas) [## 探索 Vim
 
 ### 杰米🔥🧙‍♂️🔥11 月 6 日 1818 分钟读取
 
@@ -62,7 +62,7 @@ Ed 描述了教授函数式编程的两种重要方法:使用历史和使用哲�
 
 跨越工具、安全性、引导、质量、干净的代码、测试和开发成员，这是一个很好的以 PHP 为中心的综述。
 
-[![biros](../Images/f8e520c158b11124ad64d790d5a94ecc.png)](/biros) [## DEV 上令人敬畏的 PHP 资源🚀 🎉 🎢
+[![biros](img/f8e520c158b11124ad64d790d5a94ecc.png)](/biros) [## DEV 上令人敬畏的 PHP 资源🚀 🎉 🎢
 
 ### 鲍里斯·贾莫特·✊/11 月 7 日 183 分钟阅读
 

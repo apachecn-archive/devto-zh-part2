@@ -16,15 +16,15 @@
 
 JavaScript 引擎运行代码时创建的第一个执行上下文称为“全局执行上下文”。最初，这个执行上下文将由两件事组成——一个全局对象和一个名为`this`的变量。如果您在浏览器中运行 JavaScript，那么`this`将引用全局对象`window`,如果您在节点环境中运行 JavaScript，那么`global`将引用全局对象。
 
-[![Shows how even with no code, the global execution context still creates a window object and a this object for you](../Images/b6c113a8d531a6baa8832ec1707819ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zlGOjGfK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tylermcginnis.com/images/posts/advanced-javascript/no-code.png)
+[![Shows how even with no code, the global execution context still creates a window object and a this object for you](img/b6c113a8d531a6baa8832ec1707819ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zlGOjGfK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tylermcginnis.cimg/posts/advanced-javascript/no-code.png)
 
 上面我们可以看到，即使没有任何代码，全局执行上下文仍然会由两个东西组成——`window`和`this`。这是最基本形式的全局执行上下文。
 
 让我们一步步来，看看当我们真正开始向程序中添加代码时会发生什么。让我们从添加几个变量开始。
 
-[![Globals variables in the creation phase](../Images/7f9b9dbe876ae137993b6efe897628be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c-9FRS17--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tylermcginnis.com/images/posts/advanced-javascript/global-variables-in-creation-phase.png)
+[![Globals variables in the creation phase](img/7f9b9dbe876ae137993b6efe897628be.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c-9FRS17--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tylermcginnis.cimg/posts/advanced-javascript/global-variables-in-creation-phase.png)
 
-[![Global variables in the execution phase](../Images/af1026104305e1a145f17ff5fa4151d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RpOqaW_K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tylermcginnis.com/images/posts/advanced-javascript/global-variables-in-execution-phase.png)
+[![Global variables in the execution phase](img/af1026104305e1a145f17ff5fa4151d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RpOqaW_K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://tylermcginnis.cimg/posts/advanced-javascript/global-variables-in-execution-phase.png)
 
 你能看出上面两张图片的不同之处吗？关键是每个执行上下文都有两个独立的阶段，一个`Creation`阶段和一个`Execution`阶段，每个阶段都有自己独特的职责。
 
@@ -39,7 +39,7 @@ JavaScript 引擎运行代码时创建的第一个执行上下文称为“全局
 
 我们可以在下面的 GIF 中看到这个从`Creation`阶段到`Execution`阶段的流程。
 
-[![Animated GIF showing flow from creation phase to execution phase](../Images/9ea82229df89ba0f202e2449a17bd3ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7md78Hvc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://tylermcginnis.com/images/posts/advanced-javascript/global-execution-context-gif.gif)
+[![Animated GIF showing flow from creation phase to execution phase](img/9ea82229df89ba0f202e2449a17bd3ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7md78Hvc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://tylermcginnis.cimg/posts/advanced-javascript/global-execution-context-gif.gif)
 
 在`Creation`阶段`window`和`this`被创建，变量声明(`name`和`handle`)被赋予默认值`undefined`，任何函数声明(`getUser`)被完全放入内存。然后，一旦我们进入`Execution`阶段，JavaScript 引擎就开始一行一行地执行代码，并将实际值赋给已经存在于内存中的变量。
 
@@ -118,7 +118,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 > [自己将代码可视化](https://tylermcginnis.com/javascript-visualizer/?code=var%20name%20%3D%20%27Tyler%27%0Avar%20handle%20%3D%20%27%40tylermcginnis%27%0A%0Afunction%20getUser%20%28%29%20%7B%0A%20%20return%20%7B%0A%20%20%20%20name%3A%20name%2C%0A%20%20%20%20handle%3A%20handle%0A%20%20%7D%0A%7D%0A%0AgetUser%28%29)
 
-[![GIF showing how a new execution context is created when a function is invoked](../Images/097a113497211efb971c2f2519835963.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LULiqLC6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://tylermcginnis.com/images/posts/advanced-javascript/function-execution-context-gif.gif)
+[![GIF showing how a new execution context is created when a function is invoked](img/097a113497211efb971c2f2519835963.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LULiqLC6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://tylermcginnis.cimg/posts/advanced-javascript/function-execution-context-gif.gif)
 
 正如我们谈到的，当我们调用`getUser`时，一个新的执行上下文被创建。在`getUsers`执行上下文的`Creation`阶段，JavaScript 引擎创建一个`this`对象和一个`arguments`对象。因为`getUser`没有任何变量，JavaScript 引擎不需要设置任何内存空间或者“提升”任何变量声明。
 
@@ -126,7 +126,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 > [自己将代码可视化](https://tylermcginnis.com/javascript-visualizer/?code=function%20a%20%28%29%20%7B%0A%20%20console.log%28%27In%20fn%20a%27%29%0A%20%20%0A%20%20function%20b%20%28%29%20%7B%0A%20%20%20%20console.log%28%27In%20fn%20b%27%29%0A%20%20%20%20%0A%20%20%20%20function%20c%20%28%29%20%7B%0A%20%20%20%20%20%20console.log%28%27In%20fn%20c%27%29%0A%20%20%20%20%7D%0A%20%20%20%20%0A%20%20%20%20c%28%29%0A%20%20%7D%0A%0A%20%20b%28%29%0A%7D%0A%0Aa%28%29)
 
-[![Shows how JavaScript is single threaded and each time a function is invoked, a new execution context is added to the execution stack](../Images/070a52a1a2172e9cdfc76486ecd579cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I8h-mVqz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://tylermcginnis.com/images/posts/advanced-javascript/javascript-execution-stack.gif)
+[![Shows how JavaScript is single threaded and each time a function is invoked, a new execution context is added to the execution stack](img/070a52a1a2172e9cdfc76486ecd579cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I8h-mVqz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://tylermcginnis.cimg/posts/advanced-javascript/javascript-execution-stack.gif)
 
 * * *
 
@@ -134,7 +134,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 > [自己将代码可视化](https://tylermcginnis.com/javascript-visualizer/?code=var%20name%20%3D%20%27Tyler%27%0Avar%20handle%20%3D%20%27%40tylermcginnis%27%0A%0Afunction%20getURL%20%28handle%29%20%7B%0A%20%20var%20twitterURL%20%3D%20%27https%3A%2F%2Ftwitter.com%2F%27%0A%0A%20%20return%20twitterURL%20%2B%20handle%0A%7D%0A%0AgetURL%28handle%29)
 
-[![Execution Context with local variables and an argument](../Images/e2e475207a9de8a80b0872d16f9dd362.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nNw8pRhb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://tylermcginnis.com/images/posts/advanced-javascript/local-variables.gif)
+[![Execution Context with local variables and an argument](img/e2e475207a9de8a80b0872d16f9dd362.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nNw8pRhb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://tylermcginnis.cimg/posts/advanced-javascript/local-variables.gif)
 
 这里有几个重要的细节需要注意。首先，您传入的任何参数都将作为局部变量添加到该函数的执行上下文中。在这个例子中，`handle`既作为变量存在于`Global`执行上下文中(因为它是在那里被定义的),也存在于`getURL`执行上下文中，因为我们把它作为参数传入。其次，在函数内部声明的变量存在于函数的执行上下文中。所以当我们创建`twitterURL`时，它存在于`getURL`执行上下文中，因为它是在那里定义的，**而不是**执行上下文。这似乎是显而易见的，但它是我们下一个主题作用域的基础。
 
@@ -160,7 +160,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 > [自己将代码可视化](https://tylermcginnis.com/javascript-visualizer/?code=function%20foo%20%28%29%20%7B%0A%20%20var%20bar%20%3D%20%27Declared%20in%20foo%27%0A%7D%0A%0Afoo%28%29%0A%0Aconsole.log%28bar%29)
 
-[![Visualizes how variables can't be accessed once the Execution Context is removed from the stack](../Images/3323551d4b26338e0a641d0d12dcdbdb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5eewZCIV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://tylermcginnis.com/images/posts/advanced-javascript/scope.gif)
+[![Visualizes how variables can't be accessed once the Execution Context is removed from the stack](img/3323551d4b26338e0a641d0d12dcdbdb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5eewZCIV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://tylermcginnis.cimg/posts/advanced-javascript/scope.gif)
 
 当`foo`被调用时，我们在执行堆栈上创建一个新的执行上下文。`Creation`阶段创建`this`、`arguments`，并将`bar`设置为`undefined`。然后进入`Execution`阶段，将字符串`Declared in foo`分配给`bar`。之后，`Execution`阶段结束，并且`foo`执行上下文被弹出堆栈。一旦`foo`从执行堆栈中移除，我们就尝试将`bar`记录到控制台。根据 JavaScript Visualizer，那一刻就好像`bar`从未存在过，所以我们得到了`undefined`。这向我们展示了在函数内部创建的变量是局部作用域的。这意味着(在很大程度上，我们稍后会看到一个异常)一旦函数的执行上下文被弹出执行堆栈，它们就不能被访问。
 
@@ -192,7 +192,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 > [自己将代码可视化](https://tylermcginnis.com/javascript-visualizer?code=function%20first%20%28%29%20%7B%0A%20%20var%20name%20%3D%20%27Jordyn%27%0A%0A%20%20console.log%28name%29%0A%7D%0A%0Afunction%20second%20%28%29%20%7B%0A%20%20var%20name%20%3D%20%27Jake%27%0A%0A%20%20console.log%28name%29%0A%7D%0A%0Aconsole.log%28name%29%0Avar%20name%20%3D%20%27Tyler%27%0Afirst%28%29%0Asecond%28%29%0Aconsole.log%28name%29)
 
-[![Visualized how each scope has its own unique variable environment](../Images/34d00445382324966c9462e35fd8489c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RMZ8IP7r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://tylermcginnis.com/images/posts/advanced-javascript/unique-scopes.gif)
+[![Visualized how each scope has its own unique variable environment](img/34d00445382324966c9462e35fd8489c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RMZ8IP7r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://tylermcginnis.cimg/posts/advanced-javascript/unique-scopes.gif)
 
 我们得到`undefined`、`Jordyn`、`Jake`，然后是`Tyler`。这向我们展示的是，您可以将每个新的执行上下文视为具有自己独特的变量环境。即使有其他包含变量`name`的执行上下文，JavaScript 引擎也会首先在当前的执行上下文中查找该变量。
 
@@ -212,7 +212,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 > [自己将代码可视化](https://tylermcginnis.com/javascript-visualizer/?code=var%20name%20%3D%20%27Tyler%27%0A%0Afunction%20logName%20%28%29%20%7B%0A%20%20console.log%28name%29%0A%7D%0A%0AlogName%28%29)
 
-[![Visualizes how if an execution context can't find a variable, it'll look in all its parent execution contexts](../Images/d2aa1495b8ece82162593059a76a8247.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9WS5dZ24--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://tylermcginnis.com/images/posts/advanced-javascript/parent-lookup.gif)
+[![Visualizes how if an execution context can't find a variable, it'll look in all its parent execution contexts](img/d2aa1495b8ece82162593059a76a8247.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9WS5dZ24--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://tylermcginnis.cimg/posts/advanced-javascript/parent-lookup.gif)
 
 您的直觉可能是它将记录`undefined`，因为`logName`执行上下文在其范围内没有`name`变量。那是公平的，但是它是错误的。如果 JavaScript 引擎找不到函数执行上下文中的本地变量，它会在最近的父执行上下文中查找该变量。这个查找链将一直继续下去，直到引擎到达全局执行上下文。在这种情况下，如果全局执行上下文没有该变量，它将抛出一个引用错误。
 
@@ -224,7 +224,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 > [自己将代码可视化](https://tylermcginnis.com/javascript-visualizer/?code=var%20count%20%3D%200%0A%0Afunction%20makeAdder%28x%29%20%7B%0A%20%20return%20function%20inner%20%28y%29%20%7B%0A%20%20%20%20return%20x%20%2B%20y%3B%0A%20%20%7D%3B%0A%7D%0A%0Avar%20add5%20%3D%20makeAdder%285%29%3B%0Acount%20%2B%3D%20add5%282%29)
 
-[![Visualizes closures](../Images/419744ca85f3e250f4fad9dbfbcd7205.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dUcCeGvH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://tylermcginnis.com/images/posts/advanced-javascript/closure-scope.gif)
+[![Visualizes closures](img/419744ca85f3e250f4fad9dbfbcd7205.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dUcCeGvH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://tylermcginnis.cimg/posts/advanced-javascript/closure-scope.gif)
 
 注意，在`makeAdder`执行上下文从执行堆栈中弹出后，JavaScript Visualizer 会创建一个所谓的`Closure Scope`。在那个`Closure Scope`内部是存在于`makeAdder`执行上下文中的同一个变量环境。发生这种情况的原因是因为我们有一个函数嵌套在另一个函数中。在我们的例子中，`inner`函数嵌套在`makeAdder`函数中，所以`inner`在`makeAdder`变量环境上创建了一个`Closure`。即使在`makeAdder`执行环境被弹出执行堆栈之后，因为`Closure Scope`被创建，`inner`仍然可以访问`x`变量(通过作用域链)。
 

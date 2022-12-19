@@ -35,7 +35,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果我们真的就这样——控件会自动为我们呈现一个漂亮的表单:
 
-[![Screenshot of form](../Images/a531680783448eea577103b17b298237.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PdxpeCam--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/11/df1.jpg)
+[![Screenshot of form](img/a531680783448eea577103b17b298237.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PdxpeCam--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/11/df1.jpg)
 
 请注意控件如何查看我的数据属性，并决定使用什么控件以及如何创建标签。例如`yearBorn`变成了`Year Born`。这一切都是默认发生的，非常酷，但是如果你不在乎它们的默认值，你也可以控制这一切。
 
@@ -88,11 +88,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 好的——所以我看数据表单控件的主要原因是为了利用“组”的特性。这可以让你获得一个大的窗体，并创建可以打开和折叠的组。它本身不是一个“手风琴”控件，但它达到了同样的目的。(对于好奇的人来说，*是一个*的[本地脚本 Accordion](https://github.com/triniwiz/nativescript-accordion) 控件，但是它有一定的限制，使它不能用于我的情况。)下面是我从文档中窃取的两张截图——首先是 Android 版本:
 
-[![Android example of Groups](../Images/0e729b98ece1ce153bbba3e6d77f519a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aTPx0Pfo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/11/df2.png)
+[![Android example of Groups](img/0e729b98ece1ce153bbba3e6d77f519a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aTPx0Pfo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/11/df2.png)
 
 然后 iOS:
 
-[![iOS Groups example](../Images/c2ad6caed1ff3ba54a042983b5f2f877.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f3ZlPLwy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/11/df2a.png)
+[![iOS Groups example](img/c2ad6caed1ff3ba54a042983b5f2f877.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f3ZlPLwy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/11/df2a.png)
 
 因此，虽然很酷，但这方面的文档非常少，特别是在提供动态组方面，我指的是在数据中定义的组，而不是硬编码为页面上的标签。我花了很多时间试图让它工作，最终放弃了，并向 NS Slack 组寻求帮助。谢天谢地 [@bundyo](https://github.com/bundyo) 来救援了。接下来是*他的*方案，不是我的。我的数据仍然是硬编码的，但是你可以看到哪里可以修改它，以支持从 Ajax 或类似的加载数据。
 
@@ -205,6 +205,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果你想看并玩一个更瘦的版本，可以看看这里制作的游乐场[@ bund yo](https://dev.to/bundyo):【https://play.nativescript.org/?template=play-vue】T2&id = qwbsl 5&v = 3 它真的很好地完成了设置组和场地的工作。因为它在操场上，你可以将 NativeScript Playground 应用程序指向它，并在 10 秒钟内让它在你的设备上运行。
 
-[![Groups example running on phone](../Images/4cb40a09a850e84b38f3f90af5d3d971.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5qONGAYT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/11/df3.jpg)
+[![Groups example running on phone](img/4cb40a09a850e84b38f3f90af5d3d971.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5qONGAYT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/11/df3.jpg)
 
 无论如何，我希望这有所帮助。正如我所说的，这里的文档有点痛苦，但我已经向 NativeScript 人员发送了多个报告，因此希望它很快得到改进。如果你有任何问题，请在下面给我留言。

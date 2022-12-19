@@ -37,7 +37,7 @@ Lombok 项目是一个 java 库，它帮助开发人员生成样板代码，比�
 
 下面的例子说明了如何将@Getter 和/或 [@setter](https://dev.to/setter) 注释添加到类的顶部。
 
-[![Student_Code](../Images/5005b3caf9f04788c38dd5a0478e2f8a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v2havIU9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hxoqbxdsf0uuw01kbnpf.png)
+[![Student_Code](img/5005b3caf9f04788c38dd5a0478e2f8a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v2havIU9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hxoqbxdsf0uuw01kbnpf.png)
 
 要真正体会 Lombok 库的魅力，您应该在终端中使用“javac”命令来编译 Student 类。要成功运行该命令，应该确保 Lombok Jar 文件和 Student.java 文件位于执行该命令的同一个目录中。编译完学生类后，您应该使用“javap”命令反汇编学生 Java 类文件。
 
@@ -49,7 +49,7 @@ $ javap Student.class
 
 javap 命令打印出传递给它的类的 package、protected 和 public 字段和方法。javap 命令将其输出显示到 stdout。因此，没有打印出 Student 类的私有成员属性，但是现在可以看到如何为该类的每个非静态私有成员创建 getter 和 setter 方法。
 
-[![Student_Code_Decompile](../Images/28233cf1c04b1126f0e6503dcda7421b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cLdHxIKr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s1hjk3c048jzhk7k6gsu.png)
+[![Student_Code_Decompile](img/28233cf1c04b1126f0e6503dcda7421b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cLdHxIKr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s1hjk3c048jzhk7k6gsu.png)
 
 第 3 - 9 行列出了 7 个 getter (accessor)方法，第 10 - 16 行列出了 7 个 setter (mutator)方法。生成的 getter/setter 方法将是公共的，除非您显式指定 AccessLevel。getter 和 setter 注释的访问级别将在下一篇文章中讨论。
 

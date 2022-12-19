@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/notfakedev/twitter-bot-in-17-lines-of-code-100m>
 
-[![alt text](../Images/49292572107fa80e1e4b8283e2ce1cd6.png "Image of terminal with tweet id message")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IbAwyiW7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/shrt9f0psvek1kemo38p.png)
+[![alt text](img/49292572107fa80e1e4b8283e2ce1cd6.png "Image of terminal with tweet id message")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IbAwyiW7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/shrt9f0psvek1kemo38p.png)
 
 几个月前，我发布了如何[“在 3 分钟内创建一个 twitter 机器人”](https://dev.to/notfakedev/create-a-twitter-bot-in-3-minutes)。从那以后，Twitter API 发生了变化，所以我决定是时候更新了。我还看到了@omarhashimoto - [的一个帖子“如何用 17 行代码构建一个简单的 Twitter 机器人”](https://dev.to/omarhashimoto/how-to-build-a-simple-twitter-bot-in-17-lines-ofcode-2aan)这促使我将代码减少到最多 17 行，我可以通过不显示错误信息来存档 13 行代码，但事实是，有时代码越多越好。好了，该开始了！
 
@@ -90,11 +90,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 是时候运行我们的代码了，在终端键入`node bot.js`。用你的关键词发微博，你应该能在终端看到反馈。
 
-[![alt text](../Images/1d4a78470e6060b8fda14f2d02a9aeb7.png "Image of terminal with tweet id message")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gGImDmJD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9os29nnd1h4ykoj6ficn.jpg)
+[![alt text](img/1d4a78470e6060b8fda14f2d02a9aeb7.png "Image of terminal with tweet id message")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gGImDmJD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9os29nnd1h4ykoj6ficn.jpg)
 
-[![alt text](../Images/49292572107fa80e1e4b8283e2ce1cd6.png "Image of terminal with tweet id message")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IbAwyiW7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/shrt9f0psvek1kemo38p.png)
+[![alt text](img/49292572107fa80e1e4b8283e2ce1cd6.png "Image of terminal with tweet id message")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IbAwyiW7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/shrt9f0psvek1kemo38p.png)
 
-[![alt text](../Images/1ee66b0d9d5469759b5eaf93488c9925.png "Image of terminal with tweet id message")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M_s_UwvD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dz2hdkpjor0i90habdpo.jpg)
+[![alt text](img/1ee66b0d9d5469759b5eaf93488c9925.png "Image of terminal with tweet id message")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M_s_UwvD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dz2hdkpjor0i90habdpo.jpg)
 
 #### 最终代码
 

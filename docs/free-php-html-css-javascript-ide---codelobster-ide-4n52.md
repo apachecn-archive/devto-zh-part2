@@ -9,6 +9,6 @@
 Codelobster IDE 已经成为编辑网络语言的顶级软件工具很长时间了，并且拥有很多粉丝。在这篇文章中，我们将告诉你你需要知道的一切，以便让
 充分熟悉它。
 
-[![](../Images/9beba18e9182bec870439c0aa4bfcaf6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I3o8OLO1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://4.bp.blogspot.com/-foWSR3yYASs/Wse-pGr4mHI/AAAAAAAABfA/KVHSoRhP2mUR9bdhxX_MJJHOBo9PNAT2gCLcBGAs/s640/1.gif)
+[![](img/9beba18e9182bec870439c0aa4bfcaf6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I3o8OLO1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://4.bp.blogspot.com/-foWSR3yYASs/Wse-pGr4mHI/AAAAAAAABfA/KVHSoRhP2mUR9bdhxX_MJJHOBo9PNAT2gCLcBGAs/s640/1.gif)
 
 [阅读更多...](https://www.skptricks.com/2018/04/free-php-html-css-javascript-ide.html)

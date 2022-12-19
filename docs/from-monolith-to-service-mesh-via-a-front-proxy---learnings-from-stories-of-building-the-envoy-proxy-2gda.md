@@ -20,7 +20,7 @@
 
 我在之前的一篇文章中讨论了 Envoy 的核心特性，这篇文章涵盖了 Matt 的另一篇演讲，但在这里我想谈谈高级负载平衡。代理实现“区域感知最小请求负载平衡”，并提供每个区域的特使指标。正如浮力团队在他们的博客文章“[超越循环法:延迟的负载平衡](https://blog.buoyant.io/2016/03/16/beyond-round-robin-load-balancing-for-latency/)”中所述，在应用程序/网络堆栈中的这一点上执行负载平衡允许比 SOA 网络中通常所见的更高级的算法。Envoy 还提供流量跟踪，可用于将流量分支(和克隆)到测试集群，这被证明是一种在生产中测试基于微服务的应用的流行方法。
 
-[![lyft today](../Images/d9352f58bb442dd693c71bbe2e0cf954.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--go-frNcO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.datawire.io/wp-content/uploads/2018/08/service-mesh.png)
+[![lyft today](img/d9352f58bb442dd693c71bbe2e0cf954.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--go-frNcO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.datawire.io/wp-content/uploads/2018/08/service-mesh.png)
 
 Envoy 之类的第 7 层(L7)代理提供的一个核心功能是，通过基于特定于应用程序的数据(如 HTTP 头)做出路由决策，提供智能部署控制。这允许相对容易地实施蓝/绿部署和金丝雀测试，这也具有以接近实时的速度可控的优势(与使用部署机制来初始化和停用虚拟机或 pod 以确定哪些服务服务于流量的方法相比)。
 
@@ -32,7 +32,7 @@ Matt 在演讲中指出，到目前为止，Envoy 提供的最重要的东西是
 
 创建有效的仪表板本身就是一门艺术，Matt 分享了他和他的团队创建的几个仪表板截图，以显示 Lyft 的 Envoy 数据。如果你想探索这种仪表盘的真实世界示例，AppDirect 的软件开发人员、《AppDirect Kubernetes 网络基础设施的[演进》一书的作者](https://www.appdirect.com/blog/evolution-of-the-appdirect-kubernetes-network-infrastructure) [Alex Gervais](https://www.linkedin.com/in/alexandregervais/) 最近通过 Grafana 网站分享了 AppDirect 团队的 [Grafana 大使仪表盘](https://grafana.com/dashboards/4698)。
 
-[![envoy_dashboard](../Images/0926dd2d77b8c80bd084c8c94b3db21e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X0QxI8wP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.datawire.io/wp-content/uploads/2018/08/envoy-dashboard.png)
+[![envoy_dashboard](img/0926dd2d77b8c80bd084c8c94b3db21e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--X0QxI8wP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.datawire.io/wp-content/uploads/2018/08/envoy-dashboard.png)
 
 ## 未来的特使
 

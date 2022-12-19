@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/sql-is-neither-dead-nor-a-dinosaur-you-should-use-it-for-your-web-app-5bn5>
 
-[![](../Images/7c51ccbc5c4d301f1c34c28c6a681472.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uCiBnppH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AYW4iGftkQcqSWeTDd5eu9A.jpeg) 
+[![](img/7c51ccbc5c4d301f1c34c28c6a681472.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uCiBnppH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AYW4iGftkQcqSWeTDd5eu9A.jpeg) 
 
 <figcaption>SQL 和这只恐龙可能很老了，但它们非常活跃。</figcaption>
 
@@ -16,7 +16,7 @@ SQL(结构化查询语言)是一种用于在数据库上交互和执行操作的
 
 在本文中，我们将讨论一些您不应该切换到 NoSQL 数据库的原因，以及为什么 SQL 数据库可能更好地为您服务。我们还将了解为什么 SQL 应该是您下一个 web 应用程序或数据库学习路径的首选。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### 为什么不是 SQL？
 
@@ -118,7 +118,7 @@ SQL 是与数据库交互的最流行的方法。它驱动了许多已建立的�
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

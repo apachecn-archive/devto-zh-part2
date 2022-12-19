@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/onmyway133/machine-learning-in-ios-azure-custom-vision-and-coreml-3p1n>
 
-[![](../Images/4fb127691a3029d5dc1538215479268f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1tKYcf-p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/4000/1%2A1F9aFan7lNZ6LTqAGY0qDA.png)
+[![](img/4fb127691a3029d5dc1538215479268f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1tKYcf-p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/4000/1%2A1F9aFan7lNZ6LTqAGY0qDA.png)
 
 你可能看过我之前关于 iOS 中机器学习的文章: [IBM Watson 和 CoreML](https://medium.com/flawless-app-stories/detecting-avengers-superheroes-in-your-ios-app-with-ibm-watson-and-coreml-fe38e493a4d1) 。所以你知道机器学习可能会令人生畏，需要学习大量的[概念](https://www.analyticsvidhya.com/blog/2017/05/25-must-know-terms-concepts-for-beginners-in-deep-learning/)和[框架](http://bigdata-madesimple.com/top-10-machine-learning-frameworks/)，更不用说我们需要理解 Python 中的[算法](https://medium.freecodecamp.org/the-hitchhikers-guide-to-machine-learning-algorithms-in-python-bfad66adb378)。
 
@@ -16,7 +16,7 @@
 
 > 自定义视觉服务是一项 Microsoft 认知服务，允许您构建自定义图像分类器。它使得构建、部署和改进图像分类器变得简单而快速。自定义视觉服务提供了一个 REST API 和一个 web 界面来上传您的图像和训练分类器。
 
-[![](../Images/8baa8b6a8e0381c9dd6451e10c6be09f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yZM53fZA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2610/1%2A6xy1lRi_ZBEChBIBIq6DqA.png)
+[![](img/8baa8b6a8e0381c9dd6451e10c6be09f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yZM53fZA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2610/1%2A6xy1lRi_ZBEChBIBIq6DqA.png)
 
 要开始工作，请转到[自定义视觉主页](https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/)并点击* *开始。* *您应该有一个 Azure 帐户，如果没有，只需在这里免费注册。[免费层](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/custom-vision-service/)足以让我们开始使用该服务，有 2 个项目和每个项目 5000 个训练图像。
 
@@ -26,17 +26,17 @@
 
 创建一个名为复仇者联盟的新项目。出于懒惰，也为了便于与其他云服务进行比较，这里我们使用来自 iOS 中的 post [Machine Learning 的相同数据集:IBM Watson 和 CoreML](https://medium.com/flawless-app-stories/detecting-avengers-superheroes-in-your-ios-app-with-ibm-watson-and-coreml-fe38e493a4d1) 。简单回顾一下:上次我们做了一个识别超级英雄的应用程序。自从上一个帖子，人们要求他们想看到更多的超级英雄❤️
 
-[![](../Images/fbd59f1b5bef4ad8ee295551531e1ad5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qXlMm4L4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AKCQyR4iS1BBL20-fGoPDgw.png)
+[![](img/fbd59f1b5bef4ad8ee295551531e1ad5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qXlMm4L4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AKCQyR4iS1BBL20-fGoPDgw.png)
 
 请注意，在域部分，您需要选择常规(紧凑)。因为这会生成可以在移动设备中使用的轻量级模型，这意味着经过训练的模型可以导出到。mlmodel，CoreML 支持的格式。
 
-[![](../Images/434965d99567c800ac33b06ba24e6c68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LtUbVUBi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A7Tez6qiiMLL9_yWyL95M0Q.png)
+[![](img/434965d99567c800ac33b06ba24e6c68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LtUbVUBi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A7Tez6qiiMLL9_yWyL95M0Q.png)
 
 ### 第二步:添加图片
 
 点击**添加图像**，为每个超级英雄选择图像。命名一个合适的标签。
 
-[![](../Images/284acd6a51c3b06ba05ebae39787654e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qEfkpyZd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2820/1%2ACGVtRQGoAxC-SZQlBVUoiQ.png)
+[![](img/284acd6a51c3b06ba05ebae39787654e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qEfkpyZd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2820/1%2ACGVtRQGoAxC-SZQlBVUoiQ.png)
 
 关于数据集，这个[定制视觉服务做得好的是什么？](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/home)表示:
 
@@ -48,7 +48,7 @@
 
 点击**训练**开始训练过程。这应该不会花很长时间，因为自定义视觉使用[转移学习](https://docs.microsoft.com/en-us/azure/machine-learning/desktop-workbench/scenario-image-classification-using-cntk)。
 
-[![](../Images/d5b0126e6f35bf27b2e9a0514d89512b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uH9MFLlk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2550/1%2Ah9phVo6_Y48Pp-UcVxoyfg.png)
+[![](img/d5b0126e6f35bf27b2e9a0514d89512b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uH9MFLlk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2550/1%2Ah9phVo6_Y48Pp-UcVxoyfg.png)
 
 Azure 允许我们使用预测 API 来基于我们训练好的模型执行预测。但在这种情况下，我们只想让训练好的模型嵌入到我们的 iOS 应用程序中，以便离线运行。所以点击**导出* *并选择**CoreML。**
 
@@ -60,7 +60,7 @@ Azure 允许我们使用预测 API 来基于我们训练好的模型执行预测
 
 构建并运行应用程序。选择你的超级英雄，让应用程序告诉你他/她是谁。我们的数据集不是很大，但是你可以看到模型预测得很好，而且可信度很高。目前，我们只有 4 个超级英雄的图像，但你可以根据需要添加更多。
 
-[![](../Images/6f58d153e17b71416f2af3da4610f678.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Pkyk4L_Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AKHg9nWeciRJEsqU9ElWM1w.png)
+[![](img/6f58d153e17b71416f2af3da4610f678.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Pkyk4L_Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AKHg9nWeciRJEsqU9ElWM1w.png)
 
 ## 其他云服务呢？
 

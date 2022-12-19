@@ -45,11 +45,11 @@
 
 要理解这一点，我建议你看看这个，除了从维基百科页面。
 
-[![An except from wikipedia with a link in a footnote](../Images/d611c1ff2791f2a161834585b4c03726.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IGToxiEx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0yy5avzycma33vx2j9p1.png)
+[![An except from wikipedia with a link in a footnote](img/d611c1ff2791f2a161834585b4c03726.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IGToxiEx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0yy5avzycma33vx2j9p1.png)
 
 在脚注中，它有一个主要来源的链接。通过点击这样的链接，我们传播了至少 10 条个人信息。
 
-[![The minimum amount of personal informations that a single click spread](../Images/64b249a4ce4fec2ec69c72da9aca1917.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AaNVXDSN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4slh4mbsafi623di8iqp.png)
+[![The minimum amount of personal informations that a single click spread](img/64b249a4ce4fec2ec69c72da9aca1917.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AaNVXDSN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4slh4mbsafi623di8iqp.png)
 
 有些信息是文化上的，有些是医学上的，有些是地缘政治上的，有些是经济上的，因为如果你从上一部 iPhone 上浏览，你可能会有不同的财富，如果你从图书馆的电脑上浏览维基百科。
 
@@ -181,13 +181,13 @@
 
 # 但是谁拥有这样的权力呢？
 
-[![Audrey Jones at DefCon 2018](../Images/1229861d2b9efe85dd18eda3f2192912.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AcjOg-kC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ichef.bbci.co.uk/news/624/cpsprodpb/108EF/production/_102932876_whatsubject.jpg)
+[![Audrey Jones at DefCon 2018](img/1229861d2b9efe85dd18eda3f2192912.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AcjOg-kC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ichef.bbci.co.uk/news/624/cpsprodpb/108EF/production/_102932876_whatsubject.jpg)
 
 这是奥黛丽·琼斯。她今年 11 岁，她入侵了美国的电子选举系统。十分钟后。这怎么可能呢？
 
 兰道尔·门罗用[这个奇妙的长条](https://xkcd.com/2030/)解释了部分问题
 
-[![There are lots of very smart people doing fascinating work on cryptographic voting protocols. We should be funding and encouraging them, and doing all our elections with paper ballots until everyone currently working in that field has retired.](../Images/669571ca07586da48536614aba3a7667.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B6ruXeun--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgs.xkcd.com/comics/voting_software.png)
+[![There are lots of very smart people doing fascinating work on cryptographic voting protocols. We should be funding and encouraging them, and doing all our elections with paper ballots until everyone currently working in that field has retired.](img/669571ca07586da48536614aba3a7667.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B6ruXeun--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://imgs.xkcd.com/comics/voting_software.png)
 
 > 我们整个领域都不擅长我们所做的，如果你依赖我们，每个人都会死。
 

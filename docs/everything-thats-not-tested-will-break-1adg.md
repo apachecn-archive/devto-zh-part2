@@ -137,6 +137,6 @@
 
 *封面图片来自这条永恒的推文:*
 
-> ![unknown tweet media content](../Images/7371c31a18818e8405a18845bc3c5243.png)![The Practical Dev profile image](../Images/1a10e330d1a8423f8b4b861b114cf62c.png)实用 Dev[@ thepracticaldev](https://dev.to/thepracticaldev)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)事情大多是细的2016 年 5 月 21 日上午 06:32[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=733908215021199360)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=733908215021199360)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=733908215021199360)
+> ![unknown tweet media content](img/7371c31a18818e8405a18845bc3c5243.png)![The Practical Dev profile image](img/1a10e330d1a8423f8b4b861b114cf62c.png)实用 Dev[@ thepracticaldev](https://dev.to/thepracticaldev)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)事情大多是细的2016 年 5 月 21 日上午 06:32[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=733908215021199360)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=733908215021199360)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=733908215021199360)
 
 *感谢 [@kylegalbraith](https://dev.to/kylegalbraith) 给我指出马丁·福勒的文章！*

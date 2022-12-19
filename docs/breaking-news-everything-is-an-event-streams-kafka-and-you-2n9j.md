@@ -30,7 +30,7 @@
 
 <figure>
 
-[![](../Images/75f00c44c2f52c47467aa7c7f0dcf758.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wTPfoOLI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://florimondmanca-personal-website.s3.amazonaws.com/media/markdownx/microservice-blog.png)
+[![](img/75f00c44c2f52c47467aa7c7f0dcf758.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wTPfoOLI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://florimondmanca-personal-website.s3.amazonaws.com/media/markdownx/microservice-blog.png)
 
 <figcaption>Your typical microservices web application. See that soup of requests? Can we do better?</figcaption>
 
@@ -157,7 +157,7 @@ LinkedIn 或 Slack 所做的任何事情都是处理这些事件，以便为他�
 
 <figure>
 
-[![](../Images/ebeca57693b29384fec1bcb88b0e5664.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cZoQH91f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://florimondmanca-personal-website.s3.amazonaws.com/media/markdownx/stream.png)
+[![](img/ebeca57693b29384fec1bcb88b0e5664.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cZoQH91f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://florimondmanca-personal-website.s3.amazonaws.com/media/markdownx/stream.png)
 
 <figcaption>Simple representation of a stream.</figcaption>
 
@@ -171,7 +171,7 @@ LinkedIn 或 Slack 所做的任何事情都是处理这些事件，以便为他�
 
 <figure>
 
-[![](../Images/26c2768975efdb8ce4826209642765b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O_ZIBzzp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1527489377706-5bf97e608852%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D30e71ee8757d4448721e27ea96208156%26auto%3Dformat%26fit%3Dcrop%26w%3D1127%26q%3D80)
+[![](img/26c2768975efdb8ce4826209642765b3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O_ZIBzzp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1527489377706-5bf97e608852%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D30e71ee8757d4448721e27ea96208156%26auto%3Dformat%26fit%3Dcrop%26w%3D1127%26q%3D80)
 
 <figcaption>Time-lapse photography of river. @the_bracketeer, unsplash.com</figcaption>
 
@@ -239,7 +239,7 @@ Kafka 自称为**分布式流媒体平台**，完美实现了流媒体数据范�
 
 <figure>
 
-[![](../Images/3c5622b23a849e915858648ec3c32171.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nvuJ_cJR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.thedroidsonroids.com/wp-content/uploads/2018/06/Rx-java-750x253.png)
+[![](img/3c5622b23a849e915858648ec3c32171.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nvuJ_cJR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.thedroidsonroids.com/wp-content/uploads/2018/06/Rx-java-750x253.png)
 
 <figcaption>The ReactiveX logo. What a cute… eel?</figcaption>
 
@@ -275,7 +275,7 @@ Kafka 的流应用程序是多租户的，因为一个 Kafka 主题可以有多�
 
 <figure>
 
-[![](../Images/2fb4dd7f4a92825c883ef57f3d20cffb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s6N497HC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://florimondmanca-personal-website.s3.amazonaws.com/media/markdownx/kafka-octopus.png)
+[![](img/2fb4dd7f4a92825c883ef57f3d20cffb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s6N497HC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://florimondmanca-personal-website.s3.amazonaws.com/media/markdownx/kafka-octopus.png)
 
 <figcaption>Scaling systems and teams with Kafka Octopus! (I've been waiting for this moment for too long.)</figcaption>
 

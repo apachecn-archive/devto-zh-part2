@@ -8,11 +8,11 @@ MacOS 命令行工具可以方便地实现任务自动化，也是享受 Swift �
 
 1)新建一个 Xcode 项目，选择 MacOS 和命令行
 
-[![Create an Xcode project](../Images/698d59039a7e4f33e5344994bf6e1111.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3E9VgJjn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://ceri-anne.co.uk/wp-content/uploads/2018/08/Picture1-300x216.png)
+[![Create an Xcode project](img/698d59039a7e4f33e5344994bf6e1111.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3E9VgJjn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://ceri-anne.co.uk/wp-content/uploads/2018/08/Picture1-300x216.png)
 
 2)为您的应用命名，并确保选择 Swift 作为语言
 
-[![Name the app](../Images/586d2c7769bd1bb4c8348fe9a4793009.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Oepqtrz4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://ceri-anne.co.uk/wp-content/uploads/2018/08/Screen-Shot-2018-08-31-at-15.59.05-300x216.png)
+[![Name the app](img/586d2c7769bd1bb4c8348fe9a4793009.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Oepqtrz4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://ceri-anne.co.uk/wp-content/uploads/2018/08/Screen-Shot-2018-08-31-at-15.59.05-300x216.png)
 
 3)单击“下一步”并选择保存项目的位置。
 
@@ -20,11 +20,11 @@ MacOS 命令行工具可以方便地实现任务自动化，也是享受 Swift �
 
 在产品下有一个名为`CommandLineTool`的红色可执行文件。这是我们构建项目时创建的可执行文件。从命令行。它是红色的，因为我们还没有建造它
 
-[![Folder in Finder](../Images/ed026effc1f91acc195832523a4e97cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--slYCDSGe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://ceri-anne.co.uk/wp-content/uploads/2018/08/Screen-Shot-2018-08-31-at-16.00.10-300x159.png)
+[![Folder in Finder](img/ed026effc1f91acc195832523a4e97cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--slYCDSGe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://ceri-anne.co.uk/wp-content/uploads/2018/08/Screen-Shot-2018-08-31-at-16.00.10-300x159.png)
 
 4)构建并运行项目。命令行工具产品现在将变为黑色，输出窗口中将显示以下输出
 
-[![Output window](../Images/8ca36b1887614b2785abcb9682c6556e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--96B3ea3X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://ceri-anne.co.uk/wp-content/uploads/2018/08/Picture3-300x97.png)
+[![Output window](img/8ca36b1887614b2785abcb9682c6556e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--96B3ea3X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://ceri-anne.co.uk/wp-content/uploads/2018/08/Picture3-300x97.png)
 
 **从命令行运行**
 

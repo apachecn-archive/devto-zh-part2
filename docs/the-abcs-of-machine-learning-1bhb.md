@@ -10,7 +10,7 @@
 
 ## 什么是机器学习？
 
-[![What’s Machine Learning?](../Images/c7842c33b8c4f95405d73aaf9c7f218e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6KYeoByi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://perfectial.com/wp-content/uploads/2018/05/ABC-What%25E2%2580%2599s-Machine-Learning-.jpg)
+[![What’s Machine Learning?](img/c7842c33b8c4f95405d73aaf9c7f218e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6KYeoByi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://perfectial.com/wp-content/uploads/2018/05/ABC-What%25E2%2580%2599s-Machine-Learning-.jpg)
 
 机器学习是人工智能的一个子集，允许系统“自我教育”。这是一类算法，当输入数据时，可以学习做出各种预测，而无需编程。
 

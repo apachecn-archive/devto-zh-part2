@@ -43,7 +43,7 @@ Spring Boot 是 Spring 对这种复杂性(以及像 Ruby on Rails 和 Grails 这
 *   **神器:**T0】
 *   **依赖关系** : `JPA`，`H2`，`Web`，`Rest Repositories`，`Lombok`
 
-[![Create a new project using the Spring Initializer](../Images/0bce438651aafa6df15964f170c0d8bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2hwik6dJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/build-crud-spring-and-vue/spring-initializer-860364a5b5d42c401aa002f3a6f1350f78bfdbcb9eb264f881ba954eacf11e79.png)
+[![Create a new project using the Spring Initializer](img/0bce438651aafa6df15964f170c0d8bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2hwik6dJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/build-crud-spring-and-vue/spring-initializer-860364a5b5d42c401aa002f3a6f1350f78bfdbcb9eb264f881ba954eacf11e79.png)
 
 下载文件并将内容解压缩到您的`SpringBootVueApplication/server`目录。
 
@@ -679,7 +679,7 @@ new Vue({
 
 如果您现在这样做，您将看到一个正常工作的 todo 应用程序，但是数据不会持久化。todos 只是作为数组保存在 Vue 模块中。您将对其进行修改，以便从您的 Spring Boot 资源服务器发送和接收数据。
 
-[![Initial screenshot of the todo app](../Images/e1cd9e441a5f566fb25efa621c004d3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y3IT3h2Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/build-crud-spring-and-vue/todo-initial-screenshot-95efea42fcd9227ff8d9b1a1040b71f750246151d47f74d789405fcb49d388cc.png)
+[![Initial screenshot of the todo app](img/e1cd9e441a5f566fb25efa621c004d3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y3IT3h2Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/build-crud-spring-and-vue/todo-initial-screenshot-95efea42fcd9227ff8d9b1a1040b71f750246151d47f74d789405fcb49d388cc.png)
 
 ## 添加客户端逻辑来处理 API 请求
 
@@ -750,7 +750,7 @@ mounted() {
 
 可以运行`yarn serve`到`http://localhost:8080`。您将看到自举数据正在从 Spring 服务器加载。这假设您的 Spring Boot 应用程序仍在运行。如果没有，使用`./gradlew bootRun`运行它。
 
-[![Screenshot of Todo app with data populated from server](../Images/f8c563b539ce717e9d0853ef5903ee5c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0VtWfNLs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/build-crud-spring-and-vue/todo-app-screenshot-97b474fa055e7ab9eae9862e891f9c3d210f1a33867fa3f2f0e9b0d2543d38df.png)
+[![Screenshot of Todo app with data populated from server](img/f8c563b539ce717e9d0853ef5903ee5c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0VtWfNLs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/build-crud-spring-and-vue/todo-app-screenshot-97b474fa055e7ab9eae9862e891f9c3d210f1a33867fa3f2f0e9b0d2543d38df.png)
 
 当然，您可以编辑这些数据，但这只是编辑本地数组。如果刷新页面，所有编辑内容都会被删除。您仍然需要集成剩余的 CRUD 操作。
 
@@ -860,15 +860,15 @@ JavaScript 中绑定`this`的灵活性既是它的优势之一，也是它最令
 
 Okta 让用户认证变得非常简单。第一步是注册一个免费的 developer.okta.com 账户。接下来，您需要创建一个 OpenID Connect (OIDC)应用程序。登录后，点击**应用**顶部菜单项，然后点击**添加应用**按钮。
 
-[![Create a new Okta Application](../Images/afe9cefccc7733b9287a9da4f4fd29e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zFZ33LM---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/build-crud-spring-and-vue/okta-list-apps-f6c265f13034d0a1d678702bb39c21471d7d628c3c8144f9a1ee632c98a6440f.png)
+[![Create a new Okta Application](img/afe9cefccc7733b9287a9da4f4fd29e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zFZ33LM---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/build-crud-spring-and-vue/okta-list-apps-f6c265f13034d0a1d678702bb39c21471d7d628c3c8144f9a1ee632c98a6440f.png)
 
 选择**单页 App** 。
 
-[![Use the Okta Application Wizard to create a new app](../Images/a9264e38467b169aae6abe8687161a15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s0iH0Z_Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/build-crud-spring-and-vue/okta-app-wizard-9a019a3d912822c873a5e53f3f4c292550b187a3735f6c6e71e64ac5ee6ae7dd.png)
+[![Use the Okta Application Wizard to create a new app](img/a9264e38467b169aae6abe8687161a15.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s0iH0Z_Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/build-crud-spring-and-vue/okta-app-wizard-9a019a3d912822c873a5e53f3f4c292550b187a3735f6c6e71e64ac5ee6ae7dd.png)
 
 默认的应用程序设置应该没问题。你需要记下你的**客户 ID** ，因为你马上就要用到它。
 
-[![Create a new SPA application](../Images/46346489f32bc80dd1bb2de021bae5ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--779fCYmz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/build-crud-spring-and-vue/create-okta-app-31d36e3912bc4e035b58500f270dc9887db88c6a4ace81300a49e9dbfd7dc15c.png)
+[![Create a new SPA application](img/46346489f32bc80dd1bb2de021bae5ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--779fCYmz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/build-crud-spring-and-vue/create-okta-app-31d36e3912bc4e035b58500f270dc9887db88c6a4ace81300a49e9dbfd7dc15c.png)
 
 ## 给 Vue 添加认证
 
@@ -1064,9 +1064,9 @@ export default {
 
 **注意:**要看到登录屏幕，您可能需要先退出 developer.okta.com。或者你可以用一个隐蔽的窗口。
 
-[![Okta Login screenshot](../Images/7d00760cd870a54e20de5988bf8307b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w1CqaKHQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/build-crud-spring-and-vue/login-prompt-0ed170acd41de3252ae8286af172f836980a3a6e409f705858244877a98233d0.png)
+[![Okta Login screenshot](img/7d00760cd870a54e20de5988bf8307b1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w1CqaKHQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/build-crud-spring-and-vue/login-prompt-0ed170acd41de3252ae8286af172f836980a3a6e409f705858244877a98233d0.png)
 
-[![](../Images/0395a1fafd42cd5f6b8e758273d9b1a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n3x5Scyr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/build-crud-spring-and-vue/todo-app-screenshot-auth-faef0da8b012f501b35ac2f60907c9fd6f57916583a25417cb2e5c896ad9014c.png)
+[![](img/0395a1fafd42cd5f6b8e758273d9b1a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n3x5Scyr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets-jekyll/blog/build-crud-spring-and-vue/todo-app-screenshot-auth-faef0da8b012f501b35ac2f60907c9fd6f57916583a25417cb2e5c896ad9014c.png)
 
 然而，还有一步要走。你可以通过 Okta 登录，但 Spring Boot 服务器应用程序不要求认证。
 

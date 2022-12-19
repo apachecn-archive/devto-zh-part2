@@ -215,7 +215,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 并期待下面的结果:
 
-[![Recording of Dart+jQuery interop example](../Images/2069e1b428acd50a856532954a28674b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2SJji_le--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/351by2eur2g4jsmse2d3.gif)
+[![Recording of Dart+jQuery interop example](img/2069e1b428acd50a856532954a28674b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2SJji_le--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/351by2eur2g4jsmse2d3.gif)
 
 ## 结论
 
@@ -227,7 +227,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 以下是 Vue.js 的扩展示例:
 
-[![graphicbeacon image](../Images/ebd69e31cdafde0c3cc551828feae27a.png)](/graphicbeacon) [## vue . js–Dart 入门(第 1 部分)
+[![graphicbeacon image](img/ebd69e31cdafde0c3cc551828feae27a.png)](/graphicbeacon) [## vue . js–Dart 入门(第 1 部分)
 
 ### 杰梅因奥彭 11 月 5 日 185 分钟阅读
 

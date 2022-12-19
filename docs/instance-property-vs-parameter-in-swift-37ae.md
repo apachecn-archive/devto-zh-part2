@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/onmyway133/instance-property-vs-parameter-in-swift-37ae>
 
-[![](../Images/340d7294b63613b76d35688135c33630.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HlHMuVx2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2A89A3rxRYnDn64se_.png)
+[![](img/340d7294b63613b76d35688135c33630.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HlHMuVx2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/0%2A89A3rxRYnDn64se_.png)
 
 前几天，我正在重构我代码。我有
 

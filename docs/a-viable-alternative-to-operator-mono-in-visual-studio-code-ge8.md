@@ -87,6 +87,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 我希望你在定制你的编辑器时会像我在寻找银弹一样开心😄。
 
-[![italic](../Images/09991c86fbf4a3d95ca6364f39c85723.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g6lBOpvv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.itdepends.be/img/italic.png)
+[![italic](img/09991c86fbf4a3d95ca6364f39c85723.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g6lBOpvv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.itdepends.be/img/italic.png)
 
 最初发布于:[https://blog.itdepends.be/operator-mono-alternative/](https://blog.itdepends.be/operator-mono-alternative/)

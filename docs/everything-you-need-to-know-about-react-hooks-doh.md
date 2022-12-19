@@ -4,7 +4,7 @@
 
 React 刚刚公布了一个新功能:[钩子](https://reactjs.org/docs/hooks-overview.html)。这是一组全新的 API，支持在组件之间共享有状态逻辑的强大新方法，无需大量重写即可优化性能，获得 Redux 风格的关注点分离的一些好处，等等。他们还实现了 React 团队几年前许下的承诺——有状态功能组件。早在 2016 年 4 月，[丹·阿布拉莫夫关于 react flux](https://www.reactiflux.com/transcripts/dan-abramov/)的 Q & A 中就提出了从功能组件使用状态的可能性。
 
-[![Screenshot of Dan Abramov's Q&A transcript. The highlighted section reads, "We might add functional stateful components later that might allow this, but this is distant future."](../Images/2fce8a1256cb8fc7c90c31934b0dcaa3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zEOqOun0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/vIcMPdc.png)
+[![Screenshot of Dan Abramov's Q&A transcript. The highlighted section reads, "We might add functional stateful components later that might allow this, but this is distant future."](img/2fce8a1256cb8fc7c90c31934b0dcaa3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zEOqOun0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/vIcMPdc.png)
 
 已经过了很久了，但是他们来了！不仅仅是 state，总共有 11 个新的函数应该支持我们今天使用的类和生命周期的全部功能。
 

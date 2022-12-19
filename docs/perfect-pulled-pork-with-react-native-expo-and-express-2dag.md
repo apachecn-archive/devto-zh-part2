@@ -4,7 +4,7 @@
 
 *最初发布于[我的博客](https://daveceddia.com/perfect-pulled-pork-react-native-expo-express/)。*
 
-[![Perfect Pulled Pork with React Native, Expo, and Express](../Images/a5b3b128dc557352c0fecd4714707e26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gd8RkwY8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://daveceddia.com/images/pulled-pork-post.png)
+[![Perfect Pulled Pork with React Native, Expo, and Express](img/a5b3b128dc557352c0fecd4714707e26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gd8RkwY8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://daveceddia.cimg/pulled-pork-post.png)
 
 或者:*每 30 秒拍一张照片，发给服务器*。
 
@@ -211,7 +211,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果这是你第一次使用 Expo，它可能会在询问你的应用程序之前询问 Expo 本身的权限。
 
-[![When permission is granted, the app re-renders](../Images/0dc4eb0d07a07013b4d1540353531667.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1ZsSsXCf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://daveceddia.com/images/expo_permission_check.gif)
+[![When permission is granted, the app re-renders](img/0dc4eb0d07a07013b4d1540353531667.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1ZsSsXCf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://daveceddia.cimg/expo_permission_check.gif)
 
 ### 现场摄像视图
 
@@ -640,7 +640,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 7am 大卫没有这样做。他抓起一块旧木板，砍下两块碎木头，一起做成一个靠在房子上的小架子。
 
-[![A makeshift shelf for the phone](../Images/865bcacde507403ff2caba82d71e28ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SVmWEuxO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://daveceddia.com/images/phone-shelf.jpg)
+[![A makeshift shelf for the phone](img/865bcacde507403ff2caba82d71e28ce.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SVmWEuxO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://daveceddia.cimg/phone-shelf.jpg)
 
 “木工。”它有*方头螺钉*。为什么？我不知道。
 
@@ -650,11 +650,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 事实证明它非常有用，省去了我跑上跑下检查温度的时间。A+++会再次构建。
 
-[![The view from the grill cam](../Images/cb96dd9f8a8aa993103c8474e76fb3e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gxYWV2Bz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://daveceddia.com/images/grill-cam-action-shot.jpg)
+[![The view from the grill cam](img/cb96dd9f8a8aa993103c8474e76fb3e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gxYWV2Bz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://daveceddia.cimg/grill-cam-action-shot.jpg)
 
 而且拉出来的猪肉*好吃*。
 
-[![The final product: pulled pork](../Images/9936a8d9cead190d663c02f40336883d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lAoho57o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://daveceddia.com/images/pulled-pork.jpg)
+[![The final product: pulled pork](img/9936a8d9cead190d663c02f40336883d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lAoho57o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://daveceddia.cimg/pulled-pork.jpg)
 
 ## 外卖
 

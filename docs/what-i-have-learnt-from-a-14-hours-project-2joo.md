@@ -18,7 +18,7 @@
 
 你现在在 Inboxkitten 上看到的 UI 就是精工细作。(原型机的设计令人发指，请不要窥探我黑暗的过去。)
 
-[![v1 example](../Images/6deb1d89d8aae1fccc4a5f4fca9dbff1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RkLy58Kz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/48efu40739ui5zmio4oo.jpg)
+[![v1 example](img/6deb1d89d8aae1fccc4a5f4fca9dbff1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RkLy58Kz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/48efu40739ui5zmio4oo.jpg)
 
 ### 明确设定目标和优先顺序
 

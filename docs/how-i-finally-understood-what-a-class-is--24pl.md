@@ -92,7 +92,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是一个`class`来拯救！
 
-[![Superman on his way](../Images/874a3306870c1347d90a1fb82244ade0.png)T2】](https://i.giphy.com/media/a6b4OLwbXw4h2/giphy.gif)
+[![Superman on his way](img/874a3306870c1347d90a1fb82244ade0.png)T2】](https://i.giphy.com/media/a6b4OLwbXw4h2/giphy.gif)
 
 让我们一步一步地重构我们的代码，一次只关注一个`person`。
 

@@ -56,7 +56,7 @@
 
 *   4 + 1 模型 <sup>[7](https://www.cs.ubc.ca/~gregor/teaching/papers/4+1view-architecture.pdf)</sup> :这种表示悲伤的方法似乎是流传最广的模型，它是由 [Philippe Krutchen](https://en.wikipedia.org/wiki/Philippe_Kruchten) 创造的。正如您在下图中看到的，它由 4 个主要视图组成:逻辑视图、开发视图、过程视图和物理视图；每个视图针对不同的利益相关者。“+ 1”视图或者说第五个视图是场景，这个视图的利益相关者是每个人，它证明了所有其他视图通过验证和测试可以协同工作。
 
-[![alt text](../Images/bdf3143506ca562e40dd37633e88b226.png "4 + 1 picture")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RrzKSWeA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bv81vsyvuvr39gye3f2u.PNG)
+[![alt text](img/bdf3143506ca562e40dd37633e88b226.png "4 + 1 picture")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RrzKSWeA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bv81vsyvuvr39gye3f2u.PNG)
 
 最终，在记录 SAD 时，使用哪种语言、工具或模型取决于您和软件。
 

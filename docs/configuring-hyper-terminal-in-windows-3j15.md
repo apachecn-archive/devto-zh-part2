@@ -20,7 +20,7 @@ hyper 进入我的生活后，我的生活变得更有条理了。因为他们�
 
 然后，出了点问题，我没有得到像分支图标/错误符号这样的特殊字符。在做了一些研究后，我发现字体 **Fira 代码**。刚安装后把超级配置中的字体家族改成了 **Fira 码**。现在看看它是什么样子。
 
-[![Hyper Look](../Images/d60318b67692ae8e06a5bf7e2263f05b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e-i6CLIw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://imgur.com/YCYjobR.gif)
+[![Hyper Look](img/d60318b67692ae8e06a5bf7e2263f05b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e-i6CLIw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://imgur.com/YCYjobR.gif)
 
 这是我的配置文件。[链接](https://gist.github.com/droidMakk/f975a21b9d41578b19382ee102efc24d)
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/paigen11/using-node-to-read-really-really-large-datasets-pt-1-10gf>
 
-[![Node.js logo](../Images/0863bfb02788931937ad1bab18d8fff6.png "Node.js logo")T2】](///static/de70150a98f9af865dc1b3eaf3e734ad/2cefc/node-logo.png)
+[![Node.js logo](img/0863bfb02788931937ad1bab18d8fff6.png "Node.js logo")T2】](///static/de70150a98f9af865dc1b3eaf3e734ad/2cefc/node-logo.png)
 
 ## 简介
 
@@ -236,7 +236,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 使用我的工作解决方案，我将文件路径添加到 2.55GB 的 monster 文件的`readFileStream.js`文件中，并看到我的节点服务器崩溃，出现 JavaScript 堆内存不足错误。
 
-[![Console output when Node program ran out of memory and crashed](../Images/12c70fc7f64e26eb67165d11dfdec52e.png "Console output when Node program ran out of memory and crashed")T2】](///static/62aa3517869c8529073fb9b25a458532/2cefc/node-out-of-memory.png)
+[![Console output when Node program ran out of memory and crashed](img/12c70fc7f64e26eb67165d11dfdec52e.png "Console output when Node program ran out of memory and crashed")T2】](///static/62aa3517869c8529073fb9b25a458532/2cefc/node-out-of-memory.png)
 
 *失败。撞击声，撞击声...*
 
@@ -350,7 +350,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 好了，随着新解决方案的实现，我再次用我的 2.55GB 文件启动 Node.js，我的手指交叉这将工作。看看结果。
 
-[![Console output when Node Event Stream program successfully chewed through 2.55GB of file data](../Images/a9bf26562cf2f01dff3608fc39586e60.png "Console output when Node Event Stream program successfully chewed through 2.55GB of file data")T2】](///static/e80665c386ede41e173fd684b731999e/f1901/node-event-stream-results.png)
+[![Console output when Node Event Stream program successfully chewed through 2.55GB of file data](img/a9bf26562cf2f01dff3608fc39586e60.png "Console output when Node Event Stream program successfully chewed through 2.55GB of file data")T2】](///static/e80665c386ede41e173fd684b731999e/f1901/node-event-stream-results.png)
 
 *吼吼！*
 

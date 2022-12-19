@@ -13,14 +13,14 @@ Git 环境是一个巨大的环境，当您必须处理更大的项目时，有�
 ### [git status]
 
 检查是否已经有一些变更被 git 跟踪到了存储库中？`git status`将列出任何被更改的文件。
-[![Gif where Git status is typed in and the output is shown once without changing any file and another time with changed file](../Images/1f5fe98f4554b648868dc62450dde76b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xVL6NOhd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ozef1wd79o0ekm4nprhf.gif)
+[![Gif where Git status is typed in and the output is shown once without changing any file and another time with changed file](img/1f5fe98f4554b648868dc62450dde76b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xVL6NOhd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ozef1wd79o0ekm4nprhf.gif)
 
 ### [t1【去把它给我。∮你知道吗](#git-add-)
 
 这是在对项目文件进行一些更改后运行的第一个命令。
 
 该命令分析所有存储库文件，并将当前目录和所有子目录中所有修改过的和新的(未跟踪的)文件添加到暂存区(也称为索引)，从而准备将它们包含在下一个`git commit`中，我将在接下来的几行中解释。与中的模式匹配的任何文件。gitignore 文件将被`git add .`
-[![gif showing how to run git add . in command line](../Images/08b9ed7dc0986e92eb21133f771807b0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xCCcf-z---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jn1sr4k8ki5pgeib1rxx.gif) 忽略
+[![gif showing how to run git add . in command line](img/08b9ed7dc0986e92eb21133f771807b0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--xCCcf-z---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jn1sr4k8ki5pgeib1rxx.gif) 忽略
 
 ### 【git commit-am "您的提交消息"】
 
@@ -37,7 +37,7 @@ The `-a` flag is used in git to add all the files to your commit and then you'll
 使用此命令时要非常小心，因为它会将所有已更改的文件添加到您的提交中，这在许多情况下可能是您不需要的。您可以使用`git add`将单个文件添加到暂存区。例如，`git add file1.js image.png index.php`只将“file1.js”、“image.png”和“index.php”添加到暂存区，然后您可以用`git commit -m "your commit message"`创建一个提交。
 
 因此`git commit -am "your commit message"`是你必须知道的第二个命令。
-[![gif showing how to make your first commit with the commit message from the command line](../Images/c250c43aba867909c678dff48d54ed98.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lqgC6gRs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hk6mv880r972624n2jkp.gif)
+[![gif showing how to make your first commit with the commit message from the command line](img/c250c43aba867909c678dff48d54ed98.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lqgC6gRs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hk6mv880r972624n2jkp.gif)
 
 ### 【git 推送原点主】
 

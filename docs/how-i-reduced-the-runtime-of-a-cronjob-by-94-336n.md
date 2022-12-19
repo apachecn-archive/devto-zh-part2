@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/roelofjanelsinga/how-i-reduced-the-runtime-of-a-cronjob-by-94-336n>
 
-[![Sand walker](../Images/c96a8501ea3e35d487035a9821c484df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--13J8w2CD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6ll8jc6hig1efl21nxqw.jpeg)
+[![Sand walker](img/c96a8501ea3e35d487035a9821c484df.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--13J8w2CD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6ll8jc6hig1efl21nxqw.jpeg)
 
 # 我如何将一个 Cronjob 的运行时间减少了 94%
 

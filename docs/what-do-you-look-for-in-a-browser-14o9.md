@@ -9,20 +9,20 @@
 我想看看~~我是否会感到无聊~~我可以做一些事情，
 如果你想知道这是怎么回事，你可以查看下一个 UWP javascript 示例
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [微软](https://github.com/MicrosoftEdge) / [ JSBrowser](https://github.com/MicrosoftEdge/JSBrowser)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [微软](https://github.com/MicrosoftEdge) / [ JSBrowser](https://github.com/MicrosoftEdge/JSBrowser)
 
 ### 🌲作为 Windows 应用程序使用 JavaScript 构建的 web 浏览器
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-# [![Logo](../Images/f28c111a58dbcc05ddac2f4dcb360f57.png) ](https://cloud.githubusercontent.com/assets/7266075/9254929/15448684-419b-11e5-8110-41757c572fe8.png) JavaScript 浏览器
+# [![Logo](img/f28c111a58dbcc05ddac2f4dcb360f57.png) ](https://cloud.githubusercontent.com/assets/7266075/9254929/15448684-419b-11e5-8110-41757c572fe8.png) JavaScript 浏览器
 
 作为 Windows 应用程序使用 JavaScript 构建的 web 浏览器。
 [http://microsoftedge.github.io/JSBrowser/](http://microsoftedge.github.io/JSBrowser/)
 
-[![badge_windowsstore](../Images/016c0281d83fc08750cecc01085b8d1c.png)T2】](https://www.microsoft.com/store/apps/9NBLGGH1Z7VX)
+[![badge_windowsstore](img/016c0281d83fc08750cecc01085b8d1c.png)T2】](https://www.microsoft.com/store/apps/9NBLGGH1Z7VX)
 
-[![JavaScript Browser](../Images/1bfb66a7ee4f95f3657f68cad73f835c.png)T2】](https://cloud.githubusercontent.com/assets/3200580/10122615/99850d4a-651f-11e5-8357-e83576384010.png)
+[![JavaScript Browser](img/1bfb66a7ee4f95f3657f68cad73f835c.png)T2】](https://cloud.githubusercontent.com/assets/3200580/10122615/99850d4a-651f-11e5-8357-e83576384010.png)
 
 该项目是一个演示 Windows 10 网络平台功能的教程。浏览器是一个围绕 HTML [WebView 控件](https://msdn.microsoft.com/en-us/library/windows/apps/dn301831.aspx)构建的示例应用程序，主要使用 JavaScript 来照亮用户界面。使用 [Visual Studio 2015](https://www.visualstudio.com/) 构建，这是一个 JavaScript [通用 Windows 平台](https://msdn.microsoft.com/library/windows/apps/dn894631.aspx) (UWP)应用。
 
@@ -38,17 +38,17 @@
 
 但这也是一个很好的例子
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [ wexond ](https://github.com/wexond) / [基于浏览器的](https://github.com/wexond/browser-base)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [ wexond ](https://github.com/wexond) / [基于浏览器的](https://github.com/wexond/browser-base)
 
 ### 基于电子的现代和功能丰富的网络浏览器
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-[![](../Images/d7a878fd82069dfada51145cc2c37bd9.png)T2】](https://wexond.net)
+[![](img/d7a878fd82069dfada51145cc2c37bd9.png)T2】](https://wexond.net)
 
 # Wexond 浏览器库
 
-[![Actions Status](../Images/acae922bdb073051744a479dbef059fd.png)](https://github.com/wexond/desktop/actions)[![Downloads](../Images/cf868effb830a64eed7281137b8ef518.png)](https://wexond.net)[![FOSSA Status](../Images/3f3f03879d5291c276a1217a1d5d60a3.png)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwexond%2Fwexond?ref=badge_shield)[![PayPal](../Images/8811b32f4f42c6533b7cdd768bd1730a.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VCPPFUAL4R6M6&source=url)[![Discord](../Images/36adb1110c14606820a0ba5577363077.png)](https://discord.gg/P7Vn4VX)
+[![Actions Status](img/acae922bdb073051744a479dbef059fd.png)](https://github.com/wexond/desktop/actions)[![Downloads](img/cf868effb830a64eed7281137b8ef518.png)](https://wexond.net)[![FOSSA Status](img/3f3f03879d5291c276a1217a1d5d60a3.png)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwexond%2Fwexond?ref=badge_shield)[![PayPal](img/8811b32f4f42c6533b7cdd768bd1730a.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VCPPFUAL4R6M6&source=url)[![Discord](img/36adb1110c14606820a0ba5577363077.png)](https://discord.gg/P7Vn4VX)
 
 Wexond Base 是一个现代网络浏览器，构建在现代网络技术之上，如`Electron`和`React`，它也可以用作创建定制网络浏览器的框架(参见[许可](https://github.com/wexond/browser-base#license)部分)。
 

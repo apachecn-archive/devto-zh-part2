@@ -30,7 +30,7 @@ Vue 文档非常详细，易于理解，包括各种代码示例。它还有一�
 
 在转换过程中，Vue 在组件/元素上添加和删除类。它有 6 个不同的类，然后你可以在 Sass 中定制来处理时间，以及过渡的开始/结束样式。
 
-[![Vue transition diagram from Vue.js documentation](../Images/af3c34ed2582957a58b36f1c8160a3a0.png "Vue transition diagram from Vue.js documentation")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K-6rbYYb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.lynnefinnigan.com/blog/wp-content/uploads/2018/04/transition-1024x512.png)
+[![Vue transition diagram from Vue.js documentation](img/af3c34ed2582957a58b36f1c8160a3a0.png "Vue transition diagram from Vue.js documentation")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K-6rbYYb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.lynnefinnigan.com/blog/wp-content/uploads/2018/04/transition-1024x512.png)
 
 ### 真好玩！
 

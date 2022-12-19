@@ -36,7 +36,7 @@ JavaScript 中几乎所有的 I/O 原语都是非阻塞的。网络请求、文�
 
 您知道在调试器或浏览器控制台中您可能熟悉的错误堆栈跟踪吗？浏览器在调用堆栈中查找函数名，以通知您哪个函数发起了当前调用:
 
-[![Exception call stack](../Images/8eecfaae0e25015695555aa7b9c13480.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O-Kg1crv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/499di1lk0vmkdqwo69bb.png)
+[![Exception call stack](img/8eecfaae0e25015695555aa7b9c13480.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O-Kg1crv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/499di1lk0vmkdqwo69bb.png)
 
 ## 简单的事件循环解释
 
@@ -74,11 +74,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 此时，调用堆栈如下所示:
 
-[![Call stack first example](../Images/9411ae1dc4a85e7d4f5d858aba103e17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u5udXH6h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/725hl9terb81ktkmtce3.png)
+[![Call stack first example](img/9411ae1dc4a85e7d4f5d858aba103e17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u5udXH6h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/725hl9terb81ktkmtce3.png)
 
 每次迭代中的事件循环都会查看调用堆栈中是否有内容，并执行它:
 
-[![Execution order first example](../Images/d4d4f510307c30f19c09322ce3cbdcd4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EW1i_QTu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1dij3nmczd348aamh9lo.png)
+[![Execution order first example](img/d4d4f510307c30f19c09322ce3cbdcd4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EW1i_QTu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1dij3nmczd348aamh9lo.png)
 
 直到调用堆栈为空。
 
@@ -122,11 +122,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 此时，调用堆栈如下所示:
 
-[![Call stack second example](../Images/bd367067151e9795b55d81504fef7708.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PFFmxNYS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cp4ur885ophtvz39g9re.png)
+[![Call stack second example](img/bd367067151e9795b55d81504fef7708.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PFFmxNYS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cp4ur885ophtvz39g9re.png)
 
 下面是我们程序中所有函数的执行顺序:
 
-[![Execution order second example](../Images/f0f24816363207b21fe47cb58eea1575.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FhZeIvlC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b1ccu4ynsu3ru4i1wk8b.png)
+[![Execution order second example](img/f0f24816363207b21fe47cb58eea1575.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FhZeIvlC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b1ccu4ynsu3ru4i1wk8b.png)
 
 为什么会这样？
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/samjarman/vicky-vm-brasseur-on-open-source-and-public-speaking-2i6k>
 
-[![Photo via http://www.juliancash.com/](../Images/605529866cb029113f6dcf4a6ca13551.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--txZfVZeH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5a769ddb9140b782980437bc/1517723132423/rocket.jpg%3Fformat%3D1000w)
+[![Photo via http://www.juliancash.com/](img/605529866cb029113f6dcf4a6ca13551.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--txZfVZeH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/58bfb8c059cc68cc36914ea9/t/5a769ddb9140b782980437bc/1517723132423/rocket.jpg%3Fformat%3D1000w)
 
 图片来自 http://www.juliancash.com/
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/davidgs/adventures-in-golang-1fja>
 
-[![29437996](../Images/1eb3b699af134fc8610d2f65f3de83bb.png "29437996.jpg")](https://res.cloudinary.com/practicaldev/image/fetch/s--xyLbajVe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidgs.com/wp-content/uploads/2018/08/29437996.jpg) 我不是 Golang 开发者。我们先把这个问题解决了吧。我在围棋上开发了一些东西，但我不是围棋开发者。我有点需要，但这并不重要。我决定是时候放手一搏，认真对待围棋了。说真的，通过阅读互联网你只能学到这么多。
+[![29437996](img/1eb3b699af134fc8610d2f65f3de83bb.png "29437996.jpg")](https://res.cloudinary.com/practicaldev/image/fetch/s--xyLbajVe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidgs.com/wp-content/uploads/2018/08/29437996.jpg) 我不是 Golang 开发者。我们先把这个问题解决了吧。我在围棋上开发了一些东西，但我不是围棋开发者。我有点需要，但这并不重要。我决定是时候放手一搏，认真对待围棋了。说真的，通过阅读互联网你只能学到这么多。
 
 为此，我采取了两项措施:
 

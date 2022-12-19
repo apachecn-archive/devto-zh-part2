@@ -10,7 +10,7 @@
 
 如果您不熟悉 TinyMCE，您可能通过 WYSIWYG(所见即所得)或富文本编辑器了解它。这是一个允许你添加自定义字体、样式甚至图像的属性。您甚至可以编辑内容的标记，并查看它在您的站点上会如何呈现。
 
-[![TinyMCE Example Image](../Images/f17e64db4ea89946bca7f613d87d2b5c.png)T2】](//images.ctfassets.net/9usgdrjsks5w/pPgAp2lZ96Sk8wiEMu4OE/38324ca92847289e16164942a2cab2af/TinyMCE_Example_Image.PNG)
+[![TinyMCE Example Image](img/f17e64db4ea89946bca7f613d87d2b5c.png)T2】](//images.ctfassets.net/9usgdrjsks5w/pPgAp2lZ96Sk8wiEMu4OE/38324ca92847289e16164942a2cab2af/TinyMCE_Example_Image.PNG)
 
 从 Episerver 11 开始，TinyMCE 的功能被放到了它自己的 NuGet 包 [Episerver 中。CMS.TinyMCE](https://nuget.episerver.com/package?id=EPiServer.CMS.TinyMce) 。当我在浏览 [TinyMCE 文档](https://www.tiny.cloud/docs/)寻找可以配置的不同插件和特性时，我发现了这个模板特性。
 
@@ -115,7 +115,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这就是让模板工作所需的全部内容。
 
-[![TinyMCE Template Selection](../Images/be767b2eccb479cbef265092064aa938.png)T2】](//images.ctfassets.net/9usgdrjsks5w/1eEnnZuVBWEQmaUKMeYo4U/9557255ea37de559228dffebeb1a9d00/TinyMCE_Template_Selection.gif)
+[![TinyMCE Template Selection](img/be767b2eccb479cbef265092064aa938.png)T2】](//images.ctfassets.net/9usgdrjsks5w/1eEnnZuVBWEQmaUKMeYo4U/9557255ea37de559228dffebeb1a9d00/TinyMCE_Template_Selection.gif)
 
 ## 最后的想法
 

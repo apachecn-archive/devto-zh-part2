@@ -59,7 +59,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <figcaption>第谷艺术家简介由[德鲁里文](https://dribbble.com/shots/3002189-Tycho/)</figcaption>
 
-[![Tycho Artist Profile by Drew Sullivan](../Images/75d2ab64c948bce482f0ad7e1ab2c826.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dnVvt7hj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/design-grid/tycho-640.jpg)
+[![Tycho Artist Profile by Drew Sullivan](img/75d2ab64c948bce482f0ad7e1ab2c826.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dnVvt7hj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/design-grid/tycho-640.jpg)
 
 我在 Dribbble 上看到了这个设计，并立即对自己说，嘿，我完全可以在网上这样做，而不是作为一个图像。我熟悉[第谷](http://www.tychomusic.com/)，因为我用他的[专辑封面](http://blog.iso50.com/)作为我在[CSS conf](https://2016.cssconf.asia/)[第一次会议演讲](https://www.youtube.com/watch?v=gJA5sdyCWNQ)的灵感。亚洲回到 2016 年。
 
@@ -67,7 +67,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <figcaption>这是当我看到一个网格可变的设计</figcaption>
 
-[![General idea of grid structure](../Images/59d510a2951219eb2a4903e0b14f754b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4k1H58Tc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/design-grid/init-640.jpg) 时在我脑海中发生的事情
+[![General idea of grid structure](img/59d510a2951219eb2a4903e0b14f754b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4k1H58Tc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/design-grid/init-640.jpg) 时在我脑海中发生的事情
 
 该设计可分为 6 列和 4 行。也许你看到的东西不同，你可以直观地看到 5 列或其他东西，这完全没问题。我对设计的态度是非常自由放任的，你做你的，所以想出任何适合你的东西。
 
@@ -77,7 +77,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <figcaption>我喜欢模拟素描，它适合我</figcaption>
 
-[![Pencil and paper sketch of the grid](../Images/484e017d616681af492584eb0f9c6881.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PuM2OBNr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/design-grid/sketch-640.jpg)
+[![Pencil and paper sketch of the grid](img/484e017d616681af492584eb0f9c6881.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PuM2OBNr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/design-grid/sketch-640.jpg)
 
 我选择添加一个额外的列，以便更好地控制主文本和特征图像之间的灵活间距。但是当涉及到做 CSS 的时候，总有不止一种方法，如果你想要更少的列，那就去做吧。
 
@@ -89,7 +89,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <figcaption>在我看来有道理</figcaption>
 
-[![Web page rendered in Lynx browser](../Images/37e2aa4e9691af6ef1ef16ab085efa22.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RFyy7w-3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/design-grid/lynx-640.jpg)
+[![Web page rendered in Lynx browser](img/37e2aa4e9691af6ef1ef16ab085efa22.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RFyy7w-3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/design-grid/lynx-640.jpg)
 
 基本的视觉风格接下来是字体、颜色和文本格式。因为浏览器有自己的风格，我自己做了一些最小的重置，只是为了边距和填充，以及默认设置`box-sizing`为`border-box`。只是个人喜好。
 
@@ -168,7 +168,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <figcaption>香草还好，真的</figcaption>
 
-[![Basic fallback layout](../Images/7afd052f95a478e574eb543f68577f46.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RhG3lRD5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/assets/images/posts/design-grid/fallback-640.jpg)
+[![Basic fallback layout](img/7afd052f95a478e574eb543f68577f46.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RhG3lRD5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.chenhuijing.com/asseimg/posts/design-grid/fallback-640.jpg)
 
 现在，我们可以开始玩网格游戏了。我选择灵活的单位，如 fr 和 viewport 单位，因为我希望在空间允许的情况下，布局完全占据窗口而不溢出。因此，如果您以前从未使用过 grid，那么看看我的 grid-template-columns 属性，它看起来有点疯狂。
 

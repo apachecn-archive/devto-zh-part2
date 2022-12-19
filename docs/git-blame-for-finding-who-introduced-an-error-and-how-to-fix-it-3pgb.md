@@ -53,6 +53,6 @@ Enter fullscreen mode Exit fullscreen mode
 然后，我们可以恢复我们的更改并修复错误。
 
 总之，责怪我或喜欢得到的风格:羞耻*羞耻*羞耻。
-[![shame](../Images/a581c3041f3d75371c25325d5e0933cb.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--M0tA-yE8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/prv1y7odzrpvqp1av1x8.jpg)
+[![shame](img/a581c3041f3d75371c25325d5e0933cb.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--M0tA-yE8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/prv1y7odzrpvqp1av1x8.jpg)
 
 声明:非生产环境在本帖创作过程中受到伤害。

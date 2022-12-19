@@ -8,9 +8,9 @@
 
 但是首先，照片:
 
-[![](../Images/69f1f5465d01c8ef33e911d6ea52ad35.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8Ozf5KuT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aifpum0q5d40uygvkq2b.jpg)
+[![](img/69f1f5465d01c8ef33e911d6ea52ad35.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8Ozf5KuT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aifpum0q5d40uygvkq2b.jpg)
 
-[![](../Images/e9bcec83961283f6bc6ec5846a4292cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GWgFm_PT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v8jg4n6dahc0j72pfu7w.jpg)
+[![](img/e9bcec83961283f6bc6ec5846a4292cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GWgFm_PT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v8jg4n6dahc0j72pfu7w.jpg)
 
 让我们谈论一些书。
 
@@ -24,7 +24,7 @@
 
 *   [JavaScript:好的部分](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)还是一本很扎实的书。它是 ES6 之前的版本但是语言的核心并没有太大的变化(毕竟 Babel 可以将 ES6 翻译成 ES-before-6)。在过去，这张照片流传很广:
 
-[![](../Images/51ea7b23b3d95639062f486ed46cb00c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eEk4_Kpq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xzb7jt1r70pehz7d0yl1.jpg)
+[![](img/51ea7b23b3d95639062f486ed46cb00c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eEk4_Kpq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xzb7jt1r70pehz7d0yl1.jpg)
 
 关于 JS 以前有多诡异有话说:-D
 

@@ -2,8 +2,8 @@
 
 > 原文：<https://dev.to/pmalhaire/discovering-go-from-c-part-1-2l50>
 
-[![Go](../Images/d2f46693f191a38a5a50450b2912f8f5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---9vRRTIJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uewk2k58y24qgzmskrur.jpeg)
-[![C++](../Images/7147f692f9db89985847b004be86263d.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gc56hoi_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hcoaiipwkhf6fgwud3sj.png)
+[![Go](img/d2f46693f191a38a5a50450b2912f8f5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---9vRRTIJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uewk2k58y24qgzmskrur.jpeg)
+[![C++](img/7147f692f9db89985847b004be86263d.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--Gc56hoi_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hcoaiipwkhf6fgwud3sj.png)
 
 # 变量初始化和声明
 

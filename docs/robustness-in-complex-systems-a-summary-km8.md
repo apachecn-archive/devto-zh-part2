@@ -20,7 +20,7 @@
 
 上面陈述的假设是使用可扩展的、基于集群的存储系统分布式数据结构(DDD)来探索的——“跨许多称为砖块的单独存储节点进行分区和复制的高容量、高吞吐量的虚拟哈希表。”
 
-[![](../Images/a882e5dcb49165619f34598a202cc9a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VGQP0PBv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/830/1%2AY4mQWxaCzgaJJ0aIjWqnsg.png)
+[![](img/a882e5dcb49165619f34598a202cc9a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VGQP0PBv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/830/1%2AY4mQWxaCzgaJJ0aIjWqnsg.png)
 
 该系统是使用如上所述的预测设计理念构建的。
 
@@ -38,7 +38,7 @@
 
 当系统处于饱和状态时，即使砖块上负载的微小变化也会增加垃圾收集器所用的时间，从而降低砖块的吞吐量。这叫做 **GC 颠簸**。受影响的砖块将落后于它们的对应砖块，导致系统性能的进一步下降。
 
-[![](../Images/1ae1aaba52c2953927f7e2389ae75d06.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t3cS8mh_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/806/1%2AxrLeFmW4J1U2Q-ukQ4jQNg.png)
+[![](img/1ae1aaba52c2953927f7e2389ae75d06.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t3cS8mh_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/806/1%2AxrLeFmW4J1U2Q-ukQ4jQNg.png)
 
 因此，当垃圾收集接近或超过饱和点时，它违反了有界同步的假设。
 
@@ -70,7 +70,7 @@
 
 当接近饱和点时，系统往往会变得脆弱，以适应意想不到的行为。解决这个问题的一个方法是故意过度配置系统。
 
-[![](../Images/81a385a44ad1b81d1352ecebd9856c1a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0El1v6tx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/810/1%2AmUtdRNexWHY7jXXy8Q7riA.png)
+[![](img/81a385a44ad1b81d1352ecebd9856c1a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0El1v6tx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/810/1%2AmUtdRNexWHY7jXXy8Q7riA.png)
 
 然而，这有它自己的一套问题:它导致资源的利用不足。它还需要预测预期的操作环境，从而预测系统的饱和点。在大多数情况下，这是无法准确完成的。
 

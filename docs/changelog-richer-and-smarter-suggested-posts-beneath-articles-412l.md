@@ -4,13 +4,13 @@
 
 ### 基本上从第一天开始， [dev.to](https://dev.to/) 的文章下的区域看起来就像这样:
 
-[![](../Images/1d8ceb9866d651df23354988bc959ca2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yEgaEuw0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eupgdfk757lor4nboj7h.png)
+[![](img/1d8ceb9866d651df23354988bc959ca2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yEgaEuw0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eupgdfk757lor4nboj7h.png)
 
-[![](../Images/eda2afbd217d4606192779cb94f663d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h-1O4X-s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zj6k59fx6cqd1w2yvr4f.png)
+[![](img/eda2afbd217d4606192779cb94f663d9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h-1O4X-s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zj6k59fx6cqd1w2yvr4f.png)
 
 ### 及此:
 
-[![](../Images/ca56c7e40b123b0d7f33c4c1418a3376.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OHZvOujD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cdn19jc2mbdatcj0r6sv.png)
+[![](img/ca56c7e40b123b0d7f33c4c1418a3376.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OHZvOujD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cdn19jc2mbdatcj0r6sv.png)
 
 我们现在在每个帖子下面放两到三个这样的盒子。它们包含了比以前的实现更多的信息和交互可能性。
 

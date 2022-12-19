@@ -16,17 +16,17 @@
 
 当你开始一个完全裸露的项目时，这就是 Android Studio 所创建的。
 
-[![Bare project file tree](../Images/c31aa9901918dd195a3b58b86c2d29c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GwUWP55k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-android-app-without-ide/bare-project-576de8b3deab805ecdcba8d5c028fd9dec71b9f4c87b56778af991fcd55cbe26.png)
+[![Bare project file tree](img/c31aa9901918dd195a3b58b86c2d29c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GwUWP55k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-android-app-without-ide/bare-project-576de8b3deab805ecdcba8d5c028fd9dec71b9f4c87b56778af991fcd55cbe26.png)
 
 首先要注意的是，大多数文件都涉及 Gradle，即用于配置和执行构建的系统。没有任何 Gradle 文件我们还有什么？
 
-[![Bare project file tree without Gradle](../Images/a3411fc88ddb83581fb7b9f82dceda21.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--njpPLUXU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-android-app-without-ide/bare-project-without-gradle-094673d3348e92661dfdc1a61861fa0a97cb19f3e12b159664bcae18268f0269.png)
+[![Bare project file tree without Gradle](img/a3411fc88ddb83581fb7b9f82dceda21.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--njpPLUXU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-android-app-without-ide/bare-project-without-gradle-094673d3348e92661dfdc1a61861fa0a97cb19f3e12b159664bcae18268f0269.png)
 
 只有三个文件夹和三个文件。显然，Android 项目的主要复杂性在于构建系统。
 
 我们通过看*来看看有哪些文件不包含在源代码控制中。gitignore* 。
 
-[![gitignore file contents](../Images/29af0c3c1c8c98803eced3865c1bd819.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---573ue_u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-android-app-without-ide/gitignore-7c303ed5e232c95b245e721d1144fbf66df97d81dec320509055a3d5e9162a3e.png)
+[![gitignore file contents](img/29af0c3c1c8c98803eced3865c1bd819.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---573ue_u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-android-app-without-ide/gitignore-7c303ed5e232c95b245e721d1144fbf66df97d81dec320509055a3d5e9162a3e.png)
 
 所以`MyApplication.iml`并不重要。如果你[谷歌一下](https://stackoverflow.com/questions/30737082/what-are-iml-files-in-android-studio)的 iml 文件是什么，你会看到它们被 Android Studio 使用，并且可以从`.idea/`的配置中重新生成。
 
@@ -58,7 +58,7 @@ ProGuard 通过移除未使用的库来帮助缩小您的最终 APK。不需要�
 
 `gradle`命令现在应该可以从你的命令行工作了。注意:您还需要安装 Java 7 或更高版本。这是你用`gradle init`初始化一个空文件夹时看到的。
 
-[![Gradle init output](../Images/14ea602c86c98b0f813037ba4cff04d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NKQxT6WJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-android-app-without-ide/gradle-init-2b9194f1f68c141b53d1fac698d953d083ddc7e3c05ee6f645c6715d3c671e67.png)
+[![Gradle init output](img/14ea602c86c98b0f813037ba4cff04d3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NKQxT6WJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-android-app-without-ide/gradle-init-2b9194f1f68c141b53d1fac698d953d083ddc7e3c05ee6f645c6715d3c671e67.png)
 
 看到 Android Studio 项目输出中的所有这些文件了吗？关于这些文件的详细解释，请参见 [Gradle create build guide](https://guides.gradle.org/creating-new-gradle-builds/) 。
 
@@ -234,7 +234,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在运行`gradlew build`，您应该会再次看到构建成功。使用`gradlew installDebug`安装到您的手机，您应该看到以下内容:
 
-[![Hello world Android screen](../Images/3576ec105ddf5c69cf071c7ecbf78f90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xG_TGdZZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-android-app-without-ide/hello-world-2d12ddd0d978d4bc09026451420fe92032ea08c6fef8f64778c3fceb3854d279.png)
+[![Hello world Android screen](img/3576ec105ddf5c69cf071c7ecbf78f90.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xG_TGdZZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-android-app-without-ide/hello-world-2d12ddd0d978d4bc09026451420fe92032ea08c6fef8f64778c3fceb3854d279.png)
 
 你刚刚做了一个除了文本编辑器什么都没有的 Android 应用程序:)。
 
@@ -323,7 +323,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 应该可以建立和部署。您可以使用`logcat`来查看后台发生的事情。查看主库类的[源代码，我们看到我们需要使用的标签是“OktaAppAuth”。](https://github.com/okta/okta-sdk-appauth-android/blob/master/library/src/main/java/com/okta/appauth/android/OktaAppAuth.java)
 
-[![Logcat output](../Images/8a149e083fca031c2f2f48c92f0cd6bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pnpCkJe0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-android-app-without-ide/logcat-output-1770d20f94ce0b85227f1d650480d2de4acf49607fb9448a30a4e6a473a85dcd.png)
+[![Logcat output](img/8a149e083fca031c2f2f48c92f0cd6bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pnpCkJe0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-android-app-without-ide/logcat-output-1770d20f94ce0b85227f1d650480d2de4acf49607fb9448a30a4e6a473a85dcd.png)
 
 在尝试创建服务之后，我们得到一个`Configuration was invalid`错误。我们需要将我们的应用程序连接到 Okta 帐户。
 
@@ -420,7 +420,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当你运行应用程序时，你应该会看到一个带有登录按钮的标题。
 
-[![Main screen for Demo App](../Images/73b3161812e75af5e6fe8101e8be3965.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x-xR1ueR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-android-app-without-ide/main-screen-demo-f4f07697a9028fbe8eb781c9a73c23445530a73313b134b1b190df63ae882ad6.png)
+[![Main screen for Demo App](img/73b3161812e75af5e6fe8101e8be3965.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x-xR1ueR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-android-app-without-ide/main-screen-demo-f4f07697a9028fbe8eb781c9a73c23445530a73313b134b1b190df63ae882ad6.png)
 
 ### 连线登录
 
@@ -543,11 +543,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，当你点击登录按钮时，你会看到一个 Okta 登录页面，询问你的详细信息。
 
-[![Okta login screen](../Images/fd17d9dba421896be675526dcf556fc7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pS5UTqFE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-android-app-without-ide/okta-login-screen-768b9d673c71580195af2cc73a6c1c52b2ab540f2017b2488915364ccc229efa.png)
+[![Okta login screen](img/fd17d9dba421896be675526dcf556fc7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pS5UTqFE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-android-app-without-ide/okta-login-screen-768b9d673c71580195af2cc73a6c1c52b2ab540f2017b2488915364ccc229efa.png)
 
 如果您输入的用户详细信息与我们之前所做的申请相符(您的 Okta 门户凭据应该有效)，您将被带到授权页面。
 
-[![Authorized screen](../Images/5c1318c41698c01ad81898e3c9224fed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oYrz1J5Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-android-app-without-ide/authorized-screen-a502b99ce0324894ca9a62a773c9fdd861b8f7a778f7f95be6542b7b049a64c6.png)
+[![Authorized screen](img/5c1318c41698c01ad81898e3c9224fed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oYrz1J5Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-android-app-without-ide/authorized-screen-a502b99ce0324894ca9a62a773c9fdd861b8f7a778f7f95be6542b7b049a64c6.png)
 
 单击注销按钮应该会将您带回我们的第一个屏幕。
 

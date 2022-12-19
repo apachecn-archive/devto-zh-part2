@@ -6,7 +6,7 @@
 
 如果您在 git repo 中，您会在提示中看到当前的分支，如果它是干净的，则显示为白色，如果是脏的，则显示为红色。纱线、npm，...
 
-[![Cmder Screenshot](../Images/26458ffeacdb38656d61d780e325517e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6m2wyLyF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gq1toqolv48jbcjea13q.png)
+[![Cmder Screenshot](img/26458ffeacdb38656d61d780e325517e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6m2wyLyF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gq1toqolv48jbcjea13q.png)
 
 有时你也想把**的输出添加到提示符中。可以这样做:**
 

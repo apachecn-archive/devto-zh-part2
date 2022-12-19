@@ -10,7 +10,7 @@
 
 * * *
 
-[![screenshot](../Images/8484a5d0b0545776ac8156483997c505.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vVTaqWGo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c5b0dk8qu4a5aj4fnuq3.gif)
+[![screenshot](img/8484a5d0b0545776ac8156483997c505.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vVTaqWGo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c5b0dk8qu4a5aj4fnuq3.gif)
 
 [源代码](https://github.com/inuscript/example-service-worker.git)
 

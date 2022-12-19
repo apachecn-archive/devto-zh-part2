@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nikola/jwt-authentication-in-an-angular-application-with-a-go-backend--13cg>
 
-[![](../Images/e7cc6508cbdad581190ec1fdc0929602.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O5Px3b5J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mk6if274wu7uk9otmyu5.jpg)
+[![](img/e7cc6508cbdad581190ec1fdc0929602.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O5Px3b5J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mk6if274wu7uk9otmyu5.jpg)
 
 *最初发表于[我的博客](http://www.nikola-breznjak.com/blog/go/jwt-authentication-angular-application-go-backend/)。*
 
@@ -30,7 +30,7 @@ JWT 代表`JSON Web Token`，它是一个编码字符串，例如，看起来像
 
 如果你喜欢
 
-[![](../Images/42afe7892d970e9c979700041a1af96e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kalX7sVS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/hzZHo9S.jpg)
+[![](img/42afe7892d970e9c979700041a1af96e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kalX7sVS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/hzZHo9S.jpg)
 
 那我不怪你。让我们更详细地定义一下。
 
@@ -206,7 +206,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们可以在 jwt.io 上测试这个 JWT:
 
-[![](../Images/f3482840e33a4a707960a57da0755bc2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SeZdLWuT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/OOsBnYy.png)
+[![](img/f3482840e33a4a707960a57da0755bc2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SeZdLWuT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/OOsBnYy.png)
 
 ## 安全
 
@@ -236,7 +236,7 @@ jwt 的关键属性是，要确认它们是否有效，我们只需要查看令�
 
 JWTs 的认证是如何工作的:
 
-[![](../Images/e038062df8a1899a5a05b7ef5969a750.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IX-y468A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/hthWzSx.png)
+[![](img/e038062df8a1899a5a05b7ef5969a750.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IX-y468A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/hthWzSx.png)
 
 *   用户通过登录页面向服务器提交用户名和密码
 *   服务器验证发送的数据，并创建一个 JWT 令牌，其有效负载包含用户的 id 和过期时间戳
@@ -261,7 +261,7 @@ Angular CLI 对于 [Angular](https://angular.io/) 来说是一个很棒的工具
 
 这个过程完成后，运行`jwt-auth`文件夹内的`ng serve`，你就会有一个 app 运行在 [http://localhost:4200/](http://localhost:4200/) :
 
-[![](../Images/63ea27cffedba7eab2e8d8a4d4049cb2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M9ZFWKoM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/WtR7ukv.png)
+[![](img/63ea27cffedba7eab2e8d8a4d4049cb2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M9ZFWKoM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/WtR7ukv.png)
 
 #### 添加布尔玛
 
@@ -319,7 +319,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果你现在看一下这个页面，你会看到:
 
-[![](../Images/47017197c1073c9a253be36d10596047.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D3LCWnz2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/jiXVEYT.png)
+[![](img/47017197c1073c9a253be36d10596047.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D3LCWnz2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/jiXVEYT.png)
 
 因此，我们有一个带有链接的页眉和一个带有简单文本的页脚。
 
@@ -379,7 +379,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 如果一切正常，您应该会在浏览器中看到以下内容:
 
-[![](../Images/65da593172b3150f009b831a5e2fad6e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jbd8xiad--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/rkIbHca.gif)
+[![](img/65da593172b3150f009b831a5e2fad6e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Jbd8xiad--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/rkIbHca.gif)
 
 #### 登录
 
@@ -1324,7 +1324,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当您将所有这些连接起来(并在本地运行一个 Go 程序)时，您应该看到:
 
-[![](../Images/b075c19bb0365fe26c447edaeb5b6355.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XVVmgAUZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/7Dk3EJ7.gif)
+[![](img/b075c19bb0365fe26c447edaeb5b6355.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XVVmgAUZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/7Dk3EJ7.gif)
 
 ## 结论
 

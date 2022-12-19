@@ -26,7 +26,7 @@
 
 ## 静态 Android 闪屏
 
-[![one-breath-splash](../Images/ce16871b0aece3e2c7cfcf6e8461682a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CFUMSrKr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://isscroberto.files.wordpress.com/2018/06/one-breath-splash.gif)
+[![one-breath-splash](img/ce16871b0aece3e2c7cfcf6e8461682a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CFUMSrKr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://isscroberto.files.wordpress.com/2018/06/one-breath-splash.gif)
 
 ### **1。**
 

@@ -183,7 +183,7 @@ iex(2)> _
 
 也许你没有被上面的例子打动。Elixir 为模式匹配提供了一些很好的语法糖...但是这有什么突破性的呢？
 
-[![Shania Twain That Don't Impress Me Much](../Images/70896842552353e28f962f3986d1d0cf.png "Shania Twain That Don't Impress Me Much")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EGCx8VL2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7vwlqech3gionk9wr50z.jpg)
+[![Shania Twain That Don't Impress Me Much](img/70896842552353e28f962f3986d1d0cf.png "Shania Twain That Don't Impress Me Much")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EGCx8VL2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7vwlqech3gionk9wr50z.jpg)
 
 让我们来看看一些实际的真实世界的应用。
 
@@ -193,7 +193,7 @@ iex(2)> _
 
 这是我最近在[Learn.co](https://learn.co)代码库中从事的工作。在我们的网站上，我们喜欢鼓励积极、友好的社区意识，所以我们在网站的很多地方显示用户的名字(根据用户自愿提供的信息构建)，包括[提问聊天功能](http://blog.flatironschool.com/troubleshooting-learn-co-closer-look-ask-question-feature/)。
 
-[![Learn.co Ask a Question](../Images/888ac3bcd5b38500d7e097a63e028185.png "Learn.co Ask a Question")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zzoM7cJm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k1njvieocryrhjuyb6gc.png)
+[![Learn.co Ask a Question](img/888ac3bcd5b38500d7e097a63e028185.png "Learn.co Ask a Question")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zzoM7cJm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k1njvieocryrhjuyb6gc.png)
 
 问题是，我们不要求用户给我们他们的全名，甚至设置一个用户名，所以当涉及到建立一个面向公众的显示名称时，不能保证任何“友好的”识别信息——名、姓或用户名——是可用的。此外，所有这些信息都是由用户手动输入的，虽然我们在保存之前对其进行了一定程度的清理，但奇怪的东西仍然可以通过。
 
@@ -203,7 +203,7 @@ iex(2)> _
 2.  如果我们没有名字或姓氏，请检查用户是否提供了用户名，如果是，则显示用户名而不是全名
 3.  如果我们没有以上任何一个，显示一个合理的通用默认值(这里，我们将只使用“新用户”)
 
-[![Display Name Logic](../Images/4b2c688dd8bcc9953dad1533f3fb29f1.png "Display Name Logic")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u5hcbWHJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s0lazciw766dk5bwk3fa.png)
+[![Display Name Logic](img/4b2c688dd8bcc9953dad1533f3fb29f1.png "Display Name Logic")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u5hcbWHJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s0lazciw766dk5bwk3fa.png)
 
 我们如何用代码来表示这些条件呢？
 
@@ -329,7 +329,7 @@ Elixir 函数声明支持 [guard 子句](https://hexdocs.pm/elixir/master/guards
 
 这种情况实际上在 Learn.co 经常发生。出于某种原因，在我们免费的公开训练营课程注册页面上，用户通常会在全名栏中输入他们的电子邮件。
 
-[![Learn.co Bootcamp Prep course sign up form](../Images/e86bc9407db6094d408549d3fc34302a.png "Learn.co Bootcamp Prep course sign up form")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NzgEYHYe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m6ujk4njij5rfkpbhkis.png)
+[![Learn.co Bootcamp Prep course sign up form](img/e86bc9407db6094d408549d3fc34302a.png "Learn.co Bootcamp Prep course sign up form")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NzgEYHYe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m6ujk4njij5rfkpbhkis.png)
 
 显然，我们需要对这个 UI 做一些改变(并在用户输入上添加更多的验证，但这是一篇单独的博客文章)。然而，由于坏数据的存在，我们需要防止它，我们可以通过一些更复杂的模式匹配技术来做到这一点。
 
@@ -425,7 +425,7 @@ end
 
 真令人印象深刻。
 
-[![That Does Impress Me Much](../Images/895ce13b46224adcdda8bccabbc7a5e9.png "That Does Impress Me Much")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1LNBXj31--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ximup82et6hxwdcwbnaj.gif)
+[![That Does Impress Me Much](img/895ce13b46224adcdda8bccabbc7a5e9.png "That Does Impress Me Much")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1LNBXj31--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ximup82et6hxwdcwbnaj.gif)
 
 有什么问题吗？请在下面的评论中留下它们。感谢阅读！
 

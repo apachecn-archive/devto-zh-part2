@@ -32,7 +32,7 @@ Enter fullscreen mode Exit fullscreen mode
 | 常见问题解答 |  |  |
 | 商店 |  |  |
 
-[![image](../Images/0f2ff5e8fd8748ca6fd30151f2036188.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3ZFPGFAl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lkn2hn09axeql6zak4pd.jpg)
+[![image](img/0f2ff5e8fd8748ca6fd30151f2036188.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3ZFPGFAl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lkn2hn09axeql6zak4pd.jpg)
 
 当用户点击并进入商店页面视图时(很快，你认为这里会发生什么？)他仍然由控制器服务，这次与商店模型通信的吉他控制器根据它们的 id 提供数据库中的所有吉他。当他在选择特定数据时进行结帐时，他被发送到结帐页面，该页面根据数据库中特定吉他的 id 调出该吉他，然后他可以为该吉他付款。
 
@@ -49,7 +49,7 @@ Enter fullscreen mode Exit fullscreen mode
 7.  销售管理员从商店模型中提取所有相关数据，并在每次询问时提供给你。
 8.  当你最终决定购买一把吉他时，你通过它的 id 来选择它，然后进行结账，吉他控制器现在提取特定吉他的价格信息，并通过它上面的标签交付它，然后你进行支付。
 
-[![image](../Images/5572b8fb31482fff13551e0677688664.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CFwMQ2sN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pyc12y547bc49747d953.jpg)
+[![image](img/5572b8fb31482fff13551e0677688664.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CFwMQ2sN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pyc12y547bc49747d953.jpg)
 
 我用 Figma 设计了这个。供图[Unsplash](https://unsplash.com/photos/Jd6eJ-zOE1k)T3】
 

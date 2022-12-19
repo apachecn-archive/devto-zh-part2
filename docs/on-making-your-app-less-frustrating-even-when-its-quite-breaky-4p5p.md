@@ -8,7 +8,7 @@
 
 所有软件都有 Suggs:
 
-[![PayPal error message](../Images/be8ead2e5fed6a602bb71da3da620b65.png "This is what you see when you try to delete a sandbox user")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6Ltzhi8l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/44gfdgbxgqtipyio6to5.png)
+[![PayPal error message](img/be8ead2e5fed6a602bb71da3da620b65.png "This is what you see when you try to delete a sandbox user")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6Ltzhi8l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/44gfdgbxgqtipyio6to5.png)
 
 PayPal 开发者界面经历了很多变化，坦率地说，从来没有这么好。我在这里挑出他们，因为这是我最近触发的错误，但当然有许多开发者为世界上其他应用程序提供了同样糟糕的用户体验，就像他们打字一样快。
 

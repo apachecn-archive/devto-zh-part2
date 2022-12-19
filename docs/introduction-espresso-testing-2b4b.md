@@ -56,7 +56,7 @@ adb shell settings put global animator_duration_scale 0.0
 
 作为一个小的实践练习，我们已经创建了一个带有两个文本视图和一个按钮的视图，我们想要评估当我们按下按钮时，一个文本视图被隐藏，另一个被显示。
 
-[![espresso android](../Images/1811f025d10f0769550cfb37244aca65.png)T2】](https://apiumhub.com/wp-content/uploads/2018/11/Screenshot-2018-11-15-at-17.19.34.png)
+[![espresso android](img/1811f025d10f0769550cfb37244aca65.png)T2】](https://apiumhub.com/wp-content/uploads/2018/11/Screenshot-2018-11-15-at-17.19.34.png)
 
 我们可以使用 espresso record 工具手动或自动创建我们的 ui 测试。
 
@@ -66,7 +66,7 @@ adb shell settings put global animator_duration_scale 0.0
 
 ，它将启动一个屏幕，我们可以在那里做出断言。
 
-[![espresso](../Images/68531160b2640b1ac15eb674d7c7a452.png)T2】](https://apiumhub.com/wp-content/uploads/2018/11/Screenshot-2018-11-15-at-17.29.15.png)
+[![espresso](img/68531160b2640b1ac15eb674d7c7a452.png)T2】](https://apiumhub.com/wp-content/uploads/2018/11/Screenshot-2018-11-15-at-17.29.15.png)
 
 最后，我们将生成测试代码:
 

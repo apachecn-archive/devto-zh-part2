@@ -23,7 +23,7 @@
 sudo su 
 ```
 
-[![](../Images/9270a5542c07a892d9b8b24f6543cf00.png "Switch to root user")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iVEwm1Jo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kwomwjpa4pay1thg5zqd.png)
+[![](img/9270a5542c07a892d9b8b24f6543cf00.png "Switch to root user")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iVEwm1Jo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kwomwjpa4pay1thg5zqd.png)
 
 # 安装 Docker(所有机器)
 
@@ -112,8 +112,8 @@ docker ps
 
 您应该在所有机器上看到类似下面的内容，您可以继续了。
 
-[![](../Images/7427d69a36be0f291f73baecc5a4daee.png "Docker ps")](https://res.cloudinary.com/practicaldev/image/fetch/s--iD_AApP6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xy6w99f0qe9jp97jtyt5.png)
-[![](../Images/2c7164319a9645c032626a4f46115541.png "Docker ps")T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--LHIVAlCy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8swpt8056k7eek65qyco.png)
+[![](img/7427d69a36be0f291f73baecc5a4daee.png "Docker ps")](https://res.cloudinary.com/practicaldev/image/fetch/s--iD_AApP6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xy6w99f0qe9jp97jtyt5.png)
+[![](img/2c7164319a9645c032626a4f46115541.png "Docker ps")T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--LHIVAlCy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8swpt8056k7eek65qyco.png)
 
 # 安装 Kubeadm(所有机器)
 
@@ -134,7 +134,7 @@ swapoff -a
 vi /etc/fstab 
 ```
 
-[![](../Images/839b396f0b5ad785ef699c4e1ace64a4.png "Disable swap")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_wuoRrje--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bisgoywyxdq5gg0w6gal.png)
+[![](img/839b396f0b5ad785ef699c4e1ace64a4.png "Disable swap")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_wuoRrje--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bisgoywyxdq5gg0w6gal.png)
 
 **VI newby 注意:**
 
@@ -188,7 +188,7 @@ kubeadm init
 
 如果一切正常，你会看到的。
 
-[![](../Images/bd723019a19ffb9358f2c2a91e1f4d43.png "kubeadm init")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0w0W7b7P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n0hu2jrhy2cmkjz8yo9p.png)
+[![](img/bd723019a19ffb9358f2c2a91e1f4d43.png "kubeadm init")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0w0W7b7P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n0hu2jrhy2cmkjz8yo9p.png)
 
 **注:**
 请抄最后一行。它将在下一步中用于加入工作节点。
@@ -205,7 +205,7 @@ kubeadm join 192.168.1.109:6443 --token srzyez.wjnqsmt2gcohxtp4 --discovery-toke
 
 在 worker 节点上，如果 join 命令成功，您将看到。
 
-[![](../Images/b642f0eb1489660081ef06ca0bcb6149.png "Worker join result")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V_fOBp7H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e097gdwx4i58rssq8x3p.png)
+[![](img/b642f0eb1489660081ef06ca0bcb6149.png "Worker join result")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V_fOBp7H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e097gdwx4i58rssq8x3p.png)
 
 # 安装后(仅主节点)
 
@@ -235,7 +235,7 @@ sudo sysctl net.bridge.bridge-nf-call-iptables=1
 kubectl apply -f "https://cloud.weave.works/k8s/net?k8s-version=$(kubectl version | base64 | tr -d '\n')" 
 ```
 
-[![](../Images/6c18235924871c1e2b9c03a1d72b3562.png "Pod network installed")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oAlqN02H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gb116tqc17jfsw9vwy4a.png)
+[![](img/6c18235924871c1e2b9c03a1d72b3562.png "Pod network installed")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oAlqN02H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gb116tqc17jfsw9vwy4a.png)
 
 ### 3。检查结果
 
@@ -247,7 +247,7 @@ kubectl get nodes
 
 如果你看到下面这样的东西，祝贺你！你有你的集群。
 
-[![](../Images/11167498ab2bb21b643f3f024c6b4e1d.png "Get nodes result")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uvQXbl5a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j51gqqdto5a8wb0j8go6.png)
+[![](img/11167498ab2bb21b643f3f024c6b4e1d.png "Get nodes result")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uvQXbl5a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j51gqqdto5a8wb0j8go6.png)
 
 # 安装仪表板(可选)
 
@@ -296,11 +296,11 @@ kubectl proxy --address='0.0.0.0' --accept-hosts='.*'
 
 您应该会看到登录页面。
 
-[![](../Images/219b219a38f8dcd2374cafd1fdc7697d.png "Dashboard login")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q8kw4rAe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qwqtpnfl244pnb5svlpw.png)
+[![](img/219b219a38f8dcd2374cafd1fdc7697d.png "Dashboard login")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q8kw4rAe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qwqtpnfl244pnb5svlpw.png)
 
 点击“跳过”按钮，您将看到概述页面。
 
-[![](../Images/a16f8bc80b7cf4b71def288293f9de36.png "Dashboard overview")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zRHWbqCd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uukarje7wh7y56vijbxk.png)
+[![](img/a16f8bc80b7cf4b71def288293f9de36.png "Dashboard overview")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zRHWbqCd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uukarje7wh7y56vijbxk.png)
 
 恭喜你！您有一个仪表板来查看和管理您的工作负载。
 

@@ -6,7 +6,7 @@
 
 的。Net 框架技术从 20 世纪 90 年代就已经出现了。我相信你一定想知道最初被创造出来的技术是如何与现在相关的。根据世界经济论坛的预测，2015 年将不再是物联网，而是万物互联。变化如此之大，在技术世界中还有什么是不变的呢？不管事情如何变化，但有一些因素会保持不变。还有。Net 技术是那些随着时间的推移而变得越来越重要的老庞然大物之一。
 
-[![Rise of Microsoft .Net](../Images/af1caf43394bbe9e133d7dc809e39d1b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Sx1Bg30k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3xx0uj5ofxcq24zn2gkh.jpg)
+[![Rise of Microsoft .Net](img/af1caf43394bbe9e133d7dc809e39d1b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Sx1Bg30k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3xx0uj5ofxcq24zn2gkh.jpg)
 
 ## 天蓝色和。网络齐头并进
 

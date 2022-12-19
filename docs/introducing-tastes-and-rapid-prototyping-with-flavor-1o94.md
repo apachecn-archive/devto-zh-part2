@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/awfulaxolotl/introducing-tastes-and-rapid-prototyping-with-flavor-1o94>
 
-[![face boxes](../Images/0699933ad2805f53bc9b0df739908ae5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rqqzh0X_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://axolotl.industries/static/face-boxes-d153b623f4faf77f7cf365268f9c6078-fefd9.png)
+[![face boxes](img/0699933ad2805f53bc9b0df739908ae5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rqqzh0X_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://axolotl.industries/static/face-boxes-d153b623f4faf77f7cf365268f9c6078-fefd9.png)
 
 我制作了一个类型脚本库，用于在创意原型制作过程中智能生成样本。这叫品味。
 
@@ -69,7 +69,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这就是品味的来源。这是创造性原型制作中新方法的更有意的基础。假设是，如果最大限度地使用示例驱动的原型，将会带来巨大的生产力收益。
 
-[![faces conversation](../Images/883116af2c5cc9d8ae3f1a49ed455ac8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i5T1g7my--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://axolotl.industries/static/faces-conversation-b44579f3d34c4f2d282330f5e3ff71dc-fefd9.png)
+[![faces conversation](img/883116af2c5cc9d8ae3f1a49ed455ac8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i5T1g7my--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://axolotl.industries/static/faces-conversation-b44579f3d34c4f2d282330f5e3ff71dc-fefd9.png)
 
 # 计划
 
@@ -106,7 +106,7 @@ Tastes 目前只不过是数据生成功能的分类。不完全是无用的，�
 
 软件应该帮助我们在那个层面上工作。如果我们可以在个人资料图片中简单地要求一条龙，谁会关心像素调整？在一个你可以要求你的文章有无限种有效替代版本的世界里，谁会担心拼写呢？
 
-[![dragon love](../Images/6043fa366c91ab46a000da5e80636f47.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4ZhdAq1S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://axolotl.industries/static/dragon-love-b4a5a88b041493f0f062b4c695c7536d-3dd2a.jpg)
+[![dragon love](img/6043fa366c91ab46a000da5e80636f47.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4ZhdAq1S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://axolotl.industries/static/dragon-love-b4a5a88b041493f0f062b4c695c7536d-3dd2a.jpg)
 
 我们就要到了。下面是几个例子:
 

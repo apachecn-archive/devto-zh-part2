@@ -6,7 +6,7 @@
 
 今天，我们将提供基本的 reactjs 面试问题和答案，这个测验系列有助于加深对 react js 和用于构建用户界面的 java 脚本库的理解。
 
-[![](../Images/f34bb1505fd75acb718d775594b9ba76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uazA_0P9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://4.bp.blogspot.com/-284FYHG2zk4/Wz-0MxNIFmI/AAAAAAAABqQ/xLotWl10iAsrROG1c83mBOJ0yUFLUPc6gCLcBGAs/s400/quiz.jpg)
+[![](img/f34bb1505fd75acb718d775594b9ba76.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uazA_0P9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://4.bp.blogspot.com/-284FYHG2zk4/Wz-0MxNIFmI/AAAAAAAABqQ/xLotWl10iAsrROG1c83mBOJ0yUFLUPc6gCLcBGAs/s400/quiz.jpg)
 
 1.  当用户有可能更改数据时，我们可以使用密钥。
     钥匙

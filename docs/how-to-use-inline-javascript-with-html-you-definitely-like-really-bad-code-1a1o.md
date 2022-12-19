@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/chiefoleka/how-to-use-inline-javascript-with-html-you-definitely-like-really-bad-code-1a1o>
 
-[![Horrible code everywhere](../Images/579a6db401c97297cb3e79672578e1c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H2epPLwO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://memegenerator.net/img/instances/64093317/horrible-code-horrible-code-everywhere.jpg)
+[![Horrible code everywhere](img/579a6db401c97297cb3e79672578e1c9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H2epPLwO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://memegenerator.net/img/instances/64093317/horrible-code-horrible-code-everywhere.jpg)
 
 在我短暂的编码生涯中，我犯了太多的错误，以至于不知道如何使用 DOM 调用 javascript 方法:
 

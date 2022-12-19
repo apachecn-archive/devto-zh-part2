@@ -137,7 +137,7 @@ Enter fullscreen mode Exit fullscreen mode
 7.  点击“下一步”。
 8.  点击“发布”。
 
-[![Deploy to Elastic Beanstalk from Visual Studio 2017](../Images/84bf8a08936e8c2f79bba4a1fa8d182c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jGE-5cgP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/kylegalbraith/elasticbeanstalk-demo/master/src/deploy-gif.gif)
+[![Deploy to Elastic Beanstalk from Visual Studio 2017](img/84bf8a08936e8c2f79bba4a1fa8d182c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jGE-5cgP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/kylegalbraith/elasticbeanstalk-demo/master/src/deploy-gif.gif)
 
 接下来发生的是，我们的 API 将被编译、压缩，作为一个版本上传到 Elastic Beanstalk，然后在我们当前的配置中一次性部署到我们的基础设施中。如果我们担心停机，我们可以将部署策略从环境配置更改为滚动更新。这将逐步向负载平衡器后面的 EC2 实例推出我们代码的最新版本。
 

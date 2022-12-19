@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/skatkov/been-thinking-about-going-remote-i-think-i-found-a-way-i9m>
 
-[![Kid that loves car traveling](../Images/3acc9987c83406d3a9b41abf384653a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uoSu9ulj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/azmiqyf0z0mwwpxop27l.jpg)
+[![Kid that loves car traveling](img/3acc9987c83406d3a9b41abf384653a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uoSu9ulj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/azmiqyf0z0mwwpxop27l.jpg)
 
 那是我的孩子，他热爱汽车旅行
 

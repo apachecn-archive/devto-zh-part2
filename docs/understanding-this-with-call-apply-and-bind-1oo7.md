@@ -12,7 +12,7 @@
 
 **视频**
 
-[![this.CODE Episode 1](../Images/51f477c37822031a60d07d5dccc52ae6.png)T2】](https://www.youtube.com/watch?v=rmsHtcz2GBg)
+[![this.CODE Episode 1](img/51f477c37822031a60d07d5dccc52ae6.png)T2】](https://www.youtube.com/watch?v=rmsHtcz2GBg)
 
 这里是**代码**，所以你可以跟着一起:【github.com/gissisim/callapplybind】T2
 

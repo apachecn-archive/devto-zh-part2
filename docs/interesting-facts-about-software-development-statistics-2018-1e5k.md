@@ -26,7 +26,7 @@
 
 **2。编程语言**
 
-最常用的编程语言有哪些？以及 2019 年会使用哪些语言？答案都在这里: **[![popular Programming languages](../Images/6342dc95723f4aa65f20ee2862c39bac.png)](https://apiumhub.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-06-at-14.10.10.png)** 
+最常用的编程语言有哪些？以及 2019 年会使用哪些语言？答案都在这里: **[![popular Programming languages](img/6342dc95723f4aa65f20ee2862c39bac.png)](https://apiumhub.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-06-at-14.10.10.png)** 
 
 *来源:[软件发展状况报告](http://codingsans.com/state-of-software-development-2018)*
 
@@ -36,7 +36,7 @@
 
 这份报告清楚地表明，团队使用各种各样的工具，尤其是在测试和项目管理方面。如果你看一下图表，你会发现“其他”类别远远高于任何其他类别。
 
-[![testing tools](../Images/bba2a5c40972ab7bbeed037186b1a3f7.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-06-at-14.17.33.png)
+[![testing tools](img/bba2a5c40972ab7bbeed037186b1a3f7.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-06-at-14.17.33.png)
 
 *来源:[软件发展状况报告](http://codingsans.com/state-of-software-development-2018)*
 
@@ -46,7 +46,7 @@
 
 正如我们所见，招聘是软件团队的第二大挑战，也是经理的第一大挑战。本章是关于科技公司的招聘实践，包括招聘方法、标准以及吸引和激励人才。
 
-[![hiring criteria software development](../Images/087608791d26887e2d3eab03c60f14f0.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-06-at-14.20.21.png)
+[![hiring criteria software development](img/087608791d26887e2d3eab03c60f14f0.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-06-at-14.20.21.png)
 
 *来源:[软件发展状况报告](http://codingsans.com/state-of-software-development-2018)*
 
@@ -56,7 +56,7 @@
 
 至于留住人才，让我们看看图表，找出公司用来留住人才的主要因素是什么:
 
-[![tacktics to attract software developers](../Images/d907647df8e494b4838b4bafdb6f67de.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-06-at-14.22.06.png)
+[![tacktics to attract software developers](img/d907647df8e494b4838b4bafdb6f67de.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-06-at-14.22.06.png)
 
 *来源:* [*软件发展状况报告*](http://codingsans.com/state-of-software-development-2018)
 
@@ -66,7 +66,7 @@
 
 由于处理能力问题是招聘人才面临的最大挑战之一，外包可能是一个快速解决办法。让我们来看看公司是如何看待外包的:
 
-[![software outsourcing statistics](../Images/98d8c467c96dcac1e9e8ef49e3063efd.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-06-at-14.23.53.png)
+[![software outsourcing statistics](img/98d8c467c96dcac1e9e8ef49e3063efd.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-06-at-14.23.53.png)
 
 _ 资料来源:*[_ 软件发展状况报告*](【http://codingsans.com/state-of-software-development-2018】T2)
 
@@ -76,7 +76,7 @@ _ 资料来源:*[_ 软件发展状况报告*](【http://codingsans.com/state-of-
 
 在报告的这一部分，我们将看看软件团队如何度量性能，以及是什么导致了交付问题。这一部分还揭示了开发团队如何确保代码质量。
 
-[![metrics to measure software developers' performance](../Images/78516eb2a9593917892cc1dc427c41a8.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-06-at-14.25.28.png)
+[![metrics to measure software developers' performance](img/78516eb2a9593917892cc1dc427c41a8.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-06-at-14.25.28.png)
 
 _ 资料来源:*[_ 软件发展状况报告*](【http://codingsans.com/state-of-software-development-2018】T2)
 
@@ -86,7 +86,7 @@ _ 资料来源:*[_ 软件发展状况报告*](【http://codingsans.com/state-of-
 
 对于大多数项目经理来说，失败的首要原因是不切实际的期望，其次是评估和缺乏明确定义的可交付成果。
 
-[![top delivery problems for software teams](../Images/a6e18dbd2e1e5c4042eab6b01562834a.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-06-at-14.27.48.png)
+[![top delivery problems for software teams](img/a6e18dbd2e1e5c4042eab6b01562834a.png)T2】](https://apiumhub.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-06-at-14.27.48.png)
 
 _ 资料来源:*[_ 软件发展状况报告*](【http://codingsans.com/state-of-software-development-2018】T2)
 

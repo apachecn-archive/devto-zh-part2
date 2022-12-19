@@ -41,7 +41,7 @@ Enter fullscreen mode Exit fullscreen mode
       filter {
         name = "name"
 
-        values = ["ubuntu/images/hvm-ssd/ubuntu-xenial-16.04-amd64-*"]
+        values = ["ubunimg/hvm-ssd/ubuntu-xenial-16.04-amd64-*"]
       }
 
       filter {

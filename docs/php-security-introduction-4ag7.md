@@ -28,7 +28,7 @@
 
 *嘶！他们也在这里。*
 
-[![paragoniescott image](../Images/67b58e44f82682b23d2c381b2ff2f337.png)](/paragoniescott)
+[![paragoniescott image](img/67b58e44f82682b23d2c381b2ff2f337.png)](/paragoniescott)
 
 ## [斯科特·阿齐舍夫斯基](/paragoniescott)
 
@@ -40,11 +40,11 @@
 
 ### 额外链接
 
-[![dotnetcoreblog image](../Images/532a02d36322a9e6641cc8377a9f5450.png)](/dotnetcoreblog) [## 提高 Web 应用安全性的三个步骤
+[![dotnetcoreblog image](img/532a02d36322a9e6641cc8377a9f5450.png)](/dotnetcoreblog) [## 提高 Web 应用安全性的三个步骤
 
 ### 杰米 9 月 13 日 186 分钟阅读
 
-#http #webappsecurity #security #owasp](/dotnetcoreblog/three-steps-for-increasing-the-security-of-your-web-apps-3clg)[![dotnetcoreblog image](../Images/532a02d36322a9e6641cc8377a9f5450.png)](/dotnetcoreblog) [## OWASP -谁？
+#http #webappsecurity #security #owasp](/dotnetcoreblog/three-steps-for-increasing-the-security-of-your-web-apps-3clg)[![dotnetcoreblog image](img/532a02d36322a9e6641cc8377a9f5450.png)](/dotnetcoreblog) [## OWASP -谁？
 
 ### 杰米 9 月 19 日 184 分钟阅读
 
@@ -54,7 +54,7 @@
 
 ### 下一篇
 
-[![devmazee2057282 image](../Images/39b31d34d322d0929a09cf7a34f641f9.png)](/devmazee2057282) [## PHP 安全性:密码
+[![devmazee2057282 image](img/39b31d34d322d0929a09cf7a34f641f9.png)](/devmazee2057282) [## PHP 安全性:密码
 
 ### dew biez Sep 22 ' 184min read
 

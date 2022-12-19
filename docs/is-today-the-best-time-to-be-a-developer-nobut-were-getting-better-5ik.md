@@ -4,7 +4,7 @@
 
 我已经做了 20 多年的开发人员。在这 20 多年的时间里，我经常听到这样的说法:“现在是成为开发人员的最佳时机”或者“现在是成为[技术名称]开发人员的最佳时机。”但是，说实话，这并不总是准确的。或者，也许就像 2009 年那篇吹捧“成为黑莓开发者的最佳时机”的文章一样，它是准确的，因为所有错误的原因(就像，事情在那之后相对迅速地恶化)。
 
-[![blackberry developer article](../Images/5ec3271f318ad155274c2e4197d09bd5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oCdFEGoj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mo19ywi1m0hyqat4ghfy.png)
+[![blackberry developer article](img/5ec3271f318ad155274c2e4197d09bd5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oCdFEGoj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mo19ywi1m0hyqat4ghfy.png)
 
 在一篇文章的副标题中，你能容纳多少讽刺？
 
@@ -30,7 +30,7 @@
 
 从积极的一面来看，Wired 的这篇文章中引用的数据显示，寻求计算机科学学位的非白人占总人口的比例显著增加。
 
-[![computer science college enrollment](../Images/d2204afd05e8545451d9bfdc96b1da49.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h9kQsFcA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2uhsjnqejcwyntz028f5.jpg)
+[![computer science college enrollment](img/d2204afd05e8545451d9bfdc96b1da49.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h9kQsFcA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2uhsjnqejcwyntz028f5.jpg)
 
 *图片来源:[https://www . wired . com/story/computer-science-graduates-diversity/](https://www.wired.com/story/computer-science-graduates-diversity/)T3】*
 
@@ -92,7 +92,7 @@
 
 虽然所有这些工具确实有助于一些复杂的工作流和架构，但它也提供了以前非常昂贵或不存在的资源。例如，当我 20 多年前开始从事 web 开发时，我记得在 Dreamweaver、Flash 和 ColdFusion Studio 上花了数百美元(不低于 1997 年的美元)...每个！
 
-[![Dreamweaver Ultradev](../Images/86322b94d2d3bc8a69c191c93a57eb0f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AnhfBguT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/94gyw9un2n4u7rixfea5.jpg)
+[![Dreamweaver Ultradev](img/86322b94d2d3bc8a69c191c93a57eb0f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AnhfBguT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/94gyw9un2n4u7rixfea5.jpg)
 
 是的，从前软件是装在收缩包装的盒子里的！
 
@@ -124,7 +124,7 @@
 
 对此需要注意的是，大部分高薪似乎集中在特定的地理区域。以美国为例， [PayScale 数据](https://www.payscale.com/research/US/Job=Software_Developer/Salary)显示全国平均工资为 70169 美元，远低于 StackOverflow 数据，但仍远高于个人收入中位数。然而，高收入人群主要集中在几个地方:旧金山、纽约和西雅图。
 
-[![Payscale average salary](../Images/0574578190aa79cdc9d241f2661b4f41.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--30Gwzaaq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4d8mf24dugyrxcxk0sgu.png)
+[![Payscale average salary](img/0574578190aa79cdc9d241f2661b4f41.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--30Gwzaaq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4d8mf24dugyrxcxk0sgu.png)
 
 ## 明天是成为开发者的最佳时机——所以从今天开始吧！
 

@@ -44,20 +44,20 @@ drawImage(image, sx, sy, sWidth, sHeight, dx, dy, dWidth, dHeight)
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![drawImage arguments summary](../Images/6e692ffe33db952edca98e90ae8cbc70.png)T2】](//mdn.mozillademos.org/files/225/Canvas_drawimage.jpg)
+[![drawImage arguments summary](img/6e692ffe33db952edca98e90ae8cbc70.png)T2】](//mdn.mozillademos.org/files/225/Canvas_drawimage.jpg)
 
 > 如果你没有使用所有的图片，为什么要加载呢？你可以用 GIMP 来修剪它？
 
 我想到的主要用例是使用 tileset。拼贴集是由许多较小的图像拼接而成的图像。主要用于游戏中，允许你只加载一个大图片而不是许多小图片，简化了程序。
 在谷歌上快速搜索，会返回很多例子。甚至谷歌自己也在用。
 
-[![Google's tileset](../Images/455ee7ac136f002c9f242b89107785d3.png)T2】](//ssl.gstatic.com/gb/images/i1_1967ca6a.png)
+[![Google's tileset](img/455ee7ac136f002c9f242b89107785d3.png)T2】](//ssl.gstatic.com/img/i1_1967ca6a.png)
 
 这个想法是在任何地方使用相同的图像，只针对你需要的部分。
 
 所以，我用 gif 动画的帧创建了一个简单的 tileset。
 
-[![Tiny planet tileset](../Images/89a6b2c23e0322cc9d454abfe5ebe38e.png)T2】](//image.ibb.co/jfpeqo/tinyplanet.png)
+[![Tiny planet tileset](img/89a6b2c23e0322cc9d454abfe5ebe38e.png)T2】](//image.ibb.co/jfpeqo/tinyplanet.png)
 
 我们将使用“9 个参数”调用一个接一个地绘制每一帧。
 

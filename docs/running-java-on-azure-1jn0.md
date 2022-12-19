@@ -4,7 +4,7 @@
 
 Azure 是微软的云平台。它是服务应用、逻辑应用、云存储、Kubernetes 服务的家园，并为 VSTS(现在的 Azure DevOps)、Office 365 和其他服务和工具的负载提供基础。
 
-[![](../Images/e8b89d08e364ac1aae7e06e24869b695.png)T2】](https://www.yuriburger.net/2018/11/05/running-java-on-azure/images/javalovesazure1.png)
+[![](img/e8b89d08e364ac1aae7e06e24869b695.png)T2】](https://www.yuriburger.net/2018/11/05/running-java-on-azuimg/javalovesazure1.png)
 
 但不仅仅是为了。基于. NET 的服务和应用程序。今天的微软为 Linux 开发者、OSX 团队、Docker 容器、Python 代码、Node.js 和许多不同的工作负载提供了选择。在这个系列文章中，我将探索一些 Azure 服务和基于 Java 的解决方案选项。
 
@@ -16,7 +16,7 @@ Azure(或任何其他云平台)最好的部分是运行工作负载的能力。�
 
 它的全称是 Azure App Service Web Apps，是一个托管 Web 应用程序、REST APIs 和移动后端的服务。你可以用你最喜欢的语言来开发。网，。NET Core、Java、Ruby、Node.js、PHP 或者 Python。这个平台有两种风格:基于 Windows 的和基于 Linux 的。您可以使用 Linux 上的 App Service 在 Linux for Java(当前为 8.0)、基于 Spring 和 Apache Tomcat 应用程序上本地托管 web 应用程序。
 
-[![](../Images/445c0ab79dbb9933a4e5df905dc76979.png)T2】](https://www.yuriburger.net/2018/11/05/running-java-on-azure/images/java-hello-world-in-browser.png)
+[![](img/445c0ab79dbb9933a4e5df905dc76979.png)T2】](https://www.yuriburger.net/2018/11/05/running-java-on-azuimg/java-hello-world-in-browser.png)
 
 这方面的信息很多，微软甚至为 [Eclipse](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-java) 和 [IntelliJ](https://docs.microsoft.com/en-us/java/azure/intellij/azure-toolkit-for-intellij-create-hello-world-web-app?view=azure-java-stable) 创建了不同的演练！
 
@@ -36,11 +36,11 @@ Azure 容器实例提供了一种在 Azure 中运行单个容器的快速而简�
 
 对通过 [Azure Market Place](https://azuremarketplace.microsoft.com/en-us/marketplace/apps?search=java&page=1) 可获得的基于 Java 的产品进行快速搜索，发现了许多在 Azure 上运行 Java 的选项:
 
-[![](../Images/31f4d6cc9b578c514cd331e65f1ad223.png)T2】](https://www.yuriburger.net/2018/11/05/running-java-on-azure/images/javaazuremarketplace.png)
+[![](img/31f4d6cc9b578c514cd331e65f1ad223.png)T2】](https://www.yuriburger.net/2018/11/05/running-java-on-azuimg/javaazuremarketplace.png)
 
 #### 使用数据工厂的 Azure 数据块
 
-好吧，这是完全不同的东西。Azure Data Factory 是微软用于编排数据管道的云解决方案。把它当作你的数据 ETL 服务:)Azure Databricks 是微软基于 Apache Spark 的分析服务。 [![azure-databricks-overview](../Images/e446a578d8d3a949e795c8f9f348a829.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--b5bhZG5n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://allthingssharepoint.files.wordpress.com/2018/11/azure-databricks-overview.png) 所以，假设你有一个编译成. jar 的 Java 代码，用于数据管道中的某些任务(例如数据分类)，你可以在 Azure Databricks 上使用 Azure Data Factory 来部署它。如果您对大规模数据处理感兴趣，这是对您的工具集的一个很好的补充。更多信息:[https://docs . Microsoft . com/en-us/azure/azure-data bricks/what-is-azure-data bricks](https://docs.microsoft.com/en-us/azure/azure-databricks/what-is-azure-databricks)
+好吧，这是完全不同的东西。Azure Data Factory 是微软用于编排数据管道的云解决方案。把它当作你的数据 ETL 服务:)Azure Databricks 是微软基于 Apache Spark 的分析服务。 [![azure-databricks-overview](img/e446a578d8d3a949e795c8f9f348a829.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--b5bhZG5n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://allthingssharepoint.files.wordpress.com/2018/11/azure-databricks-overview.png) 所以，假设你有一个编译成. jar 的 Java 代码，用于数据管道中的某些任务(例如数据分类)，你可以在 Azure Databricks 上使用 Azure Data Factory 来部署它。如果您对大规模数据处理感兴趣，这是对您的工具集的一个很好的补充。更多信息:[https://docs . Microsoft . com/en-us/azure/azure-data bricks/what-is-azure-data bricks](https://docs.microsoft.com/en-us/azure/azure-databricks/what-is-azure-databricks)
 
 #### 但是等等，还有！
 

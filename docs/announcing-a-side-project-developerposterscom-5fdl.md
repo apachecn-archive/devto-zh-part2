@@ -8,7 +8,7 @@
 
 所以，我和我的搭档 [HelloMissPotter](https://twitter.com/HelloMissPotter) 为软件工程师制作了一些海报。这些美丽又鼓舞人心的海报非常适合放在家里、办公室或工作场所。
 
-[![](../Images/dd86b290aeeac0abe61b87bae9a48288.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OAtjf5xg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yuxt0nmfmfckqyklw4ec.png)
+[![](img/dd86b290aeeac0abe61b87bae9a48288.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OAtjf5xg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yuxt0nmfmfckqyklw4ec.png)
 
 这个月我们推出了网上商店，你可以在那里为你的办公室买一套，(或唠叨你的办公室经理得到一套；)).
 

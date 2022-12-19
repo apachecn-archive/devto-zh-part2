@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/sandipmavani/tips-to-improve-mongodb-security-ncn>
 
-[![Smiley face](../Images/d11ea2c497ae5a1efd06fd52c9d3c5af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tONfNDGo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--WZvRm2fk--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_auto%252Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8qw4l1vcq9ohkgf5fppc.png)
+[![Smiley face](img/d11ea2c497ae5a1efd06fd52c9d3c5af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tONfNDGo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--WZvRm2fk--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_auto%252Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8qw4l1vcq9ohkgf5fppc.png)
 
 MongoDB 提供了许多结构来提高数据的安全性。MongoDB 中数据的安全性至关重要——因此利用这些结构来减少外围应用是非常重要的。这里有 10 个技巧，可以用来提高 MongoDB 服务器在本地和云中的安全性。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bugfenderapp/why-good-old-fashioned-content-marketing-is-better-than-chasing-leads-2218>
 
-[![](../Images/abc1dc99c70832af30ff31daadbf5231.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gZzbzs_W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/09/01-content-marketing.jpg)
+[![](img/abc1dc99c70832af30ff31daadbf5231.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gZzbzs_W--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/09/01-content-marketing.jpg)
 
 *这篇文章最初发表在我们的[博客](https://bugfender.com/blog/why-good-old-fashioned-content-marketing-is-better-than-chasing-leads/)上。*
 
@@ -16,7 +16,7 @@
 
 但是现在我们发现了答案，这是我们一直在做的事情。我们的博客越来越受欢迎，吸引了很多新的人来我们的网站，现在占我们总流量的 70%以上。它向我们表明，在我们的领域，昂贵的营销活动并不总是必要的:实用的、没有术语的内容营销可能是打开你的观众的钥匙。
 
-[![](../Images/4eb5e7ee3f8018c61d505e44d3b884ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2XoJOhJZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/09/content-marketing-organic-growth.png)
+[![](img/4eb5e7ee3f8018c61d505e44d3b884ad.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2XoJOhJZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/09/content-marketing-organic-growth.png)
 
 自从我们开始写博客以来，我们的有机搜索流量一直在稳步增长。
 
@@ -32,7 +32,7 @@ Bugfender 最初是 Mobile Jazz 的一个衍生项目，由该公司的联合创
 
 一直以来，我们都在写博客。但我们从未真正认为这是营销上的胜利。这只是分享我们知识的一种方式。我们最初雇佣了几个自由职业者来写博客，但是虽然他们的内容在关键词方面做得很好，但并不是特别令人难忘。我在 2017 年加入，并开始与我们的工程师合作，编写更多技术化、开发者友好的内容，但我自己也在开发产品，所以时间有限。
 
-[![](../Images/289d2a4c8297e8ce43950529c9213364.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kOX2pnCf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/09/02-Bugfender.jpg)
+[![](img/289d2a4c8297e8ce43950529c9213364.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kOX2pnCf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/09/02-Bugfender.jpg)
 
 Bugfender 是一个非常有用的工具，无论你的用户在哪里，它都可以远程调试应用程序。
 
@@ -48,7 +48,7 @@ Bugfender 是一个非常有用的工具，无论你的用户在哪里，它都�
 
 但是，不管我们的意图是什么，它没有起作用。在我们使用它们的八周时间里，营销团队可能联系了 2000 家公司，但没有一家接受我们的产品。尽管有些回复很有趣——他们说他们很欣赏我们新颖的营销方式，并感谢我们用信息轰炸他们——但很少是正面的。我们确实得到了一份热情线索的清单，并将继续跟进，但总的来说，这一行动不得不被认为是失败的。
 
-[![](../Images/acbab0556ac8ebd21dfae15ac705a3a6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PG_D9Hpa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/09/03-spam.jpg)
+[![](img/acbab0556ac8ebd21dfae15ac705a3a6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PG_D9Hpa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://bugfender.com/wp-content/uploads/2018/09/03-spam.jpg)
 
 ## 秘密武器
 

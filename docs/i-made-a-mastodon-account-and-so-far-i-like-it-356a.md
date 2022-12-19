@@ -18,11 +18,11 @@
 
 在乳齿象上的最后 24 小时感觉非常像 Twitter 的早期。当我在 2008 年加入 Twitter 时，对服务和团队来说，那仍然是一个非常动荡的时期。失败的鲸鱼出现在我的屏幕上的情况太多了，在过去的几年里我没有真正目睹过。
 
-[![](../Images/1dccf41a89ecd0d4917edc09f693b54d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E5YWBaHG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://preslav.me/assets/img/2018/august/fail-whale.jpg)
+[![](img/1dccf41a89ecd0d4917edc09f693b54d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E5YWBaHG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://preslav.me/assets/img/2018/august/fail-whale.jpg)
 
 随着团队内部频繁的停工和动荡，其他一些东西开始慢慢消失——早期的团队精神。不要误会我的意思，我仍然每天都在使用 Twitter，尽管有些无意识。社区还在，只是早期的纽带和友好的聊天已经不在了。取而代之的是无休止的广告(我在任何场合都极力保持沉默)和一连串明显针对眼球和点击量而优化的帖子。当然，对第三方应用开发者的明确声明。我还记得早期，初露头角的应用程序或 Web 开发人员会使用开发人员友好的 Twitter API，并吹嘘他们开发的客户端。从很大程度上来说，是开发人员帮助 Twitter 获得了主流声誉，事情不得不发展到目前的状态令人难过。看起来社区也在分享我的想法:
 
-[![](../Images/d481bad7a0892c120ad62645fd7fab2a.png)T2】](https://mastodon.social/@bastianallgeier/100577435213222907)
+[![](img/d481bad7a0892c120ad62645fd7fab2a.png)T2】](https://mastodon.social/@bastianallgeier/100577435213222907)
 
 回到乳齿象，在我的第一个 24 小时里，我花了一个小时在众多可供选择的 iOS 和 macOS 客户端中浏览。在比预期时间更长的维护停机后，我又花了几个小时等待实例恢复运行。在我的位置上的其他人都会后退并离开，但这只是提高了我的兴奋程度。这向我表明，需要做一些实际的工作，社区正在努力把事情放在它们应该在的地方。我只能为我的实例的维护者昨天所做的努力鼓掌，以确保它在未来几天和几周内的稳定性。在实例在线的几个小时里，我设法建立了一些友谊，并参与了一些有趣的讨论。好像一群早期的灵魂回来了。人们经常回复，其他人也加入聊天。我觉得对话会更顺畅。
 

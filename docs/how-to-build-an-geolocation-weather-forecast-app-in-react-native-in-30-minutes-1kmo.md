@@ -8,7 +8,7 @@
 
 天气应用程序是免费的，你需要在[https://openweathermap.org/api](https://openweathermap.org/api)拿到钥匙才能使用这个应用程序
 
-[![Screenshots of finished app](../Images/66b02f23ae007b53c88dfab47bb709e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HElNNf5g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i9v16xw7a8cke74irm0s.png)
+[![Screenshots of finished app](img/66b02f23ae007b53c88dfab47bb709e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HElNNf5g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i9v16xw7a8cke74irm0s.png)
 
 本教程假设您已经安装了 NodeJS 和 React Native。如果你还没有，那么请访问[https://Facebook . github . io/react-native/docs/getting-started . html](https://facebook.github.io/react-native/docs/getting-started.html)开始吧。它还假设您对 React 和 NodeJS 有基本的了解。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/jacoby/is-using-vim-an-antipattern-19f5>
 
-[!["OH, NED!", she exclaims. "YOU **ARE** A **VI MAN** AFTER ALL!"](../Images/edf13d07f4843bf4b82a46938f97613d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pUwyJElY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jacoby.github.io/images/vi_man.png)
+[!["OH, NED!", she exclaims. "YOU **ARE** A **VI MAN** AFTER ALL!"](img/edf13d07f4843bf4b82a46938f97613d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pUwyJElY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jacoby.github.img/vi_man.png)
 
 这个思路是从一个 [Dev 开始的。到](https://dev.to/)题为[“Vim 不会让你成为一个更高效的开发者”](https://dev.to/maestromac/vim-wont-make-you-a-more-productive-developer-h9f)的帖子。阅读这篇文章以获得关于这一立场的完整论据，但是简单地说，如果你还不知道它，已经有强大的编辑器使用你已经知道如何工作的方式工作，比如 VS 代码，并且它可能更好地利用你的时间来学习其他东西。
 

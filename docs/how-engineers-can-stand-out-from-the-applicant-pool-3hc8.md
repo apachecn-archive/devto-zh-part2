@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/lynnetye/how-engineers-can-stand-out-from-the-applicant-pool-3hc8>
 
-[![standing out](../Images/98e3940c8ab88a484a24742af45eb0bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tNyXy6qL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k6yokrl36fhsee601m60.jpg)
+[![standing out](img/98e3940c8ab88a484a24742af45eb0bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tNyXy6qL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k6yokrl36fhsee601m60.jpg)
 
 > ## What have you done in the past, or seen other engineers do, that makes you stand out from the applicants?
 

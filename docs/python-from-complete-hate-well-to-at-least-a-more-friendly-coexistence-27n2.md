@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/thallesaraujo/python-from-complete-hate-well-to-at-least-a-more-friendly-coexistence-27n2>
 
-[![](../Images/55f4c3f98dda4c9494863bd06f077a3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SuD5yh94--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g7u3c0pjraykgd4wi4w8.jpg)
+[![](img/55f4c3f98dda4c9494863bd06f077a3d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SuD5yh94--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g7u3c0pjraykgd4wi4w8.jpg)
 
 > 声明:嗯，我曾经用我的母语写博客，这种奇怪的，语法混乱的巴西葡萄牙语。“图皮奎因”语言的一些规则甚至对母语为英语的人来说也是极其奇怪的。但是，在英语中，这几乎是我的处女作(我试图在没有咨询翻译的情况下写下大部分内容)。我有时候写评论，但我不是“英语从业者”。因此，对任何错误表示歉意，并随时评论您认为必要的任何更正
 

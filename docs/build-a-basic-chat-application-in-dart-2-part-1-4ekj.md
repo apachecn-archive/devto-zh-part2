@@ -10,7 +10,7 @@
 
 下图详细描述了整个流程:
 
-[![Diagram of chat flow](../Images/cf822f44196a79f3dcab32ed3be1e671.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PYzJqyQh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l1s6n4fkcpur4hy7xwe2.png)
+[![Diagram of chat flow](img/cf822f44196a79f3dcab32ed3be1e671.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PYzJqyQh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l1s6n4fkcpur4hy7xwe2.png)
 
 聊天流程是这样的:
 
@@ -55,7 +55,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 访问`http://localhost:8080`将向您显示此屏幕:
 
-[![Dart web on localhost](../Images/09da9bdf1664668a87b215f7447f382f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wF4bdCOz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d2cwofqlhki4hm8o8o8b.png)
+[![Dart web on localhost](img/09da9bdf1664668a87b215f7447f382f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wF4bdCOz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/d2cwofqlhki4hm8o8o8b.png)
 
 ## 2。标记我们的 HTML 页面
 
@@ -140,7 +140,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们现在应该会看到下面的输出:
 
-[![Chatter sign in UI](../Images/484e742cb7f301ec471a18552d9e3959.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XvIGz480--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vgzc4i81sv7hkibzgk8c.png)
+[![Chatter sign in UI](img/484e742cb7f301ec471a18552d9e3959.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XvIGz480--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vgzc4i81sv7hkibzgk8c.png)
 
 ## 3。实现登录流程的浏览器逻辑
 
@@ -276,7 +276,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 以下是您现在应该拥有的:
 
-[![Chat signin form](../Images/3f8606cb3277631c29cd5c7221a79df6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5EH3zClS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3b6aa4n61l0yqal35q8k.gif)
+[![Chat signin form](img/3f8606cb3277631c29cd5c7221a79df6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5EH3zClS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3b6aa4n61l0yqal35q8k.gif)
 
 提交用户名会显示失败消息，因为我们还没有实现后端。
 
@@ -355,7 +355,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 返回`http://localhost:8080`并重试:
 
-[![Successful username sign in](../Images/f070c5ed71ed77c292b7c1d294ee03bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lOnibLxh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yosso0vsncnlzpaz8t97.gif)
+[![Successful username sign in](img/f070c5ed71ed77c292b7c1d294ee03bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lOnibLxh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yosso0vsncnlzpaz8t97.gif)
 
 ## 结论
 
@@ -367,7 +367,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ## 继续阅读:
 
-[![graphicbeacon image](../Images/ebd69e31cdafde0c3cc551828feae27a.png)](/graphicbeacon) [## 在 Dart 2 中构建一个聊天应用程序(第 2 部分)
+[![graphicbeacon image](img/ebd69e31cdafde0c3cc551828feae27a.png)](/graphicbeacon) [## 在 Dart 2 中构建一个聊天应用程序(第 2 部分)
 
 ### 杰梅因奥彭 11 月 8 日 187 分钟阅读
 

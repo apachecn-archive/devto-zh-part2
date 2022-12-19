@@ -50,7 +50,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 要启动项目，让我们运行`yarn start`:
 
-<center>![Hello from JavaScript!](../Images/4cccac12a3702636ff2c305544c5aacc.png)</center>
+<center>![Hello from JavaScript!](img/4cccac12a3702636ff2c305544c5aacc.png)</center>
 
 ## 添加原因
 
@@ -90,7 +90,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们现在开始应用程序:
 
-<center>![Hello from Reason!](../Images/fb7ba5f3872a1c28f529e7a0b0b12eed.png)</center>
+<center>![Hello from Reason!](img/fb7ba5f3872a1c28f529e7a0b0b12eed.png)</center>
 
 在那里！只有一个命令来运行项目，包括 JavaScript transpilation 的原因！😁
 
@@ -154,7 +154,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 哇就是它！简单对吗？下面是您应该在浏览器中看到的内容:
 
-<center>![Hello from Reason!](../Images/732a298e850317071fc2c741d5d2a51d.png)</center>
+<center>![Hello from Reason!](img/732a298e850317071fc2c741d5d2a51d.png)</center>
 
 现在，您已经准备好使用 React 来构建强大且可维护的组件，同时享受理性的可能性。当然，这不是唯一的方法，但是我喜欢 Parcel 的优雅。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/gabek/why-your-tech-stack-matters-its-not-why-you-think-4pa1>
 
-[![What’s_New_in_Swift_-_402-480x253.png](../Images/ff65234abaf1c45bb11d2de86b963083.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qbw8U2xM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/50ce21f9e4b0a7200de38642/t/5a762fc453450ac9093ce48a/1517694953069/What%25E2%2580%2599s_New_in_Swift_-_402-480x253.png%3Fformat%3D1000w)
+[![What’s_New_in_Swift_-_402-480x253.png](img/ff65234abaf1c45bb11d2de86b963083.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qbw8U2xM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static1.squarespace.com/static/50ce21f9e4b0a7200de38642/t/5a762fc453450ac9093ce48a/1517694953069/What%25E2%2580%2599s_New_in_Swift_-_402-480x253.png%3Fformat%3D1000w)
 
 最近，我收到了许多招聘人员的邮件，他们正在寻找一名 iOS 开发人员来开发 React Native。虽然我通常不关心人们选择什么技术来构建他们的产品，但我认为这是一个值得深入探讨的主题。但首先声明:我有偏见，我只代表我自己，不代表我现在或曾经是其中一员的任何团队。
 

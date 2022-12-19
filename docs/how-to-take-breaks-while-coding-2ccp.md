@@ -23,7 +23,7 @@
 
 但是除了以上两个问题之外，还有一个更重要的问题是大多数人根本不会思考或谈论的- **休息时你应该做什么？**
 
-[![Electronic Screen](../Images/a5e1049cf08c3cb8306b8e14772c72fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RRtSdWSL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/35z7rekt3531zuw94o5u.jpg)
+[![Electronic Screen](img/a5e1049cf08c3cb8306b8e14772c72fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RRtSdWSL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/35z7rekt3531zuw94o5u.jpg)
 
 我见过很多人在手机上浏览他们的社交应用，看视频，玩视频游戏，在笔记本电脑/手机上看书/写博客等等。通常是电子设备上的东西。即使它不起作用，它也在不知不觉中消耗着。
 

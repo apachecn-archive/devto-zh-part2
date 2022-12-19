@@ -4,7 +4,7 @@
 
 我想带你踏上一段旅程，穿越一片缓慢的土地。在那里一切都失去了前进的动力，希望似乎也失去了。我想带你调试一下 Webpack 的速度问题。通常我会试着写一些关于过程的文章，给人们建议和提示，让他们思考某个主题。对于这篇文章，我正在尝试一个不同的方向，我的目标是分享我在解决这个问题时经历的过程，描述我的思维过程，但没有任何判断。我做了什么，为什么。希望能启发和消除有经验的开发人员无所不知的错觉。我很想听听你对格式的想法。
 
-[![Debugging](../Images/0f326a2ef5e07ee3ed1be1020702a02b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fOz2vv3I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hk4knli19og1vk6ijrsh.png)
+[![Debugging](img/0f326a2ef5e07ee3ed1be1020702a02b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fOz2vv3I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hk4knli19og1vk6ijrsh.png)
 
 ## 背景
 
@@ -16,7 +16,7 @@ Webpack 是一个广泛使用的软件包，非常广泛，每周有超过 400 �
 
 当我们完成一个用户故事时，我们首先将我们的解决方案部署到我们的测试环境中，这样我们的自动化测试套件就可以发挥它的魔力。我们有一个故事，在这个环境中测试时，我们碰巧发现了一些问题，结果不得不多次重复这个过程。但是我开始注意到我花了很长时间，比平时更长。当在 Team City 上确认这种感觉时，我注意到我们的“运行单元测试和构建”花费了 15 分钟，而这通常最多是 7 / 8。当深入研究日志时，我发现我们的构建步骤花费了 8 到 10 分钟，在某些时刻甚至达到了 12 分钟。我们的解决方案没那么大，应该不会花这么长时间。更好的是，以前不用花那么长时间。有东西带走了它的魔力！
 
-[![Waiting for build](../Images/9a668f8e45091f0edda0aa91568056ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NIelGkdt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wxmfdpwf4k4pnuuxxb3s.png)
+[![Waiting for build](img/9a668f8e45091f0edda0aa91568056ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NIelGkdt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wxmfdpwf4k4pnuuxxb3s.png)
 
 ## 从哪里开始？
 
@@ -38,7 +38,7 @@ Webpack 是一个广泛使用的软件包，非常广泛，每周有超过 400 �
 
 当运行带有 progress 标志的 webpack 时，我获得了关于它正在做什么的实时信息，并立即注意到我在几乎 90%的构建时间里停留在“92%块资产优化”上。这就是问题所在！于是我再次打开谷歌，搜索“webpack 92% chunk 资产优化”。终于有很多人遇到了同样的问题！
 
-[![Not alone](../Images/2c2dc62d2485544f1fe1565b7a4c1697.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WKUhTq36--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2xtpkdx7ausk8ag1tsqv.jpg)
+[![Not alone](img/2c2dc62d2485544f1fe1565b7a4c1697.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WKUhTq36--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2xtpkdx7ausk8ag1tsqv.jpg)
 
 ## 试错
 
@@ -52,7 +52,7 @@ Webpack 是一个广泛使用的软件包，非常广泛，每周有超过 400 �
 
 我们最近在解决方案中添加了 typescript，效果很好。但是建议是在 typescript 配置中添加一些部分，所以我就这么做了。重建，现在...不同的错误。嗯，所以它影响了一些东西，让我们检查一下新的错误。它们又是语法错误，但是看起来像是把类型脚本翻译成 javascript 的过程搞砸了。现在，事情已经水落石出了。我们已经在使用 babel 来传输我们的 javascript 了，难道我们不能让 babel 也做打字稿吗？我很快搜索了如何做到这一点，将 typescript 配置设置为只发送最新的语法版本，并更新了 webpack 配置以将 typescript 代码发送给 babel。兴奋地再次运行构建命令，并且...它....成功了！我现在有了大约 120 秒的构建时间，并有了源地图。
 
-[![Fast again](../Images/6a002b3f55bdf0c3fbb0ec4ae343ec6b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AusGv6Ds--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pt2yuh4corj4j9yrh13i.jpg)
+[![Fast again](img/6a002b3f55bdf0c3fbb0ec4ae343ec6b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AusGv6Ds--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pt2yuh4corj4j9yrh13i.jpg)
 
 ## 调整和确认
 

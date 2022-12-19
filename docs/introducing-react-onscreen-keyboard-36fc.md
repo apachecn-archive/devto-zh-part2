@@ -6,7 +6,7 @@
 
 于是我建造了 [`react-onscreen-keyboard`](https://github.com/rakannimer/react-onscreen-keyboard)
 
-[![React Onscreen Keyboard Example](../Images/19d01d303b4ae20bb8e4dc4e9c13bacf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GlpChTBX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rakannimer/react-onscreen-keyboard/master/example.png)
+[![React Onscreen Keyboard Example](img/19d01d303b4ae20bb8e4dc4e9c13bacf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GlpChTBX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/rakannimer/react-onscreen-keyboard/master/example.png)
 
 你可以通过渲染`Keyboard`得到一个基本的键盘布局，不需要任何道具
 

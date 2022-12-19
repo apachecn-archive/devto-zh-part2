@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/brunoluiz/a-tale-of-how-to-not-deploy-two-months-old-features-520d>
 
-[![Photo by rawpixel.com on Unsplash](../Images/5307edb38fd09e7be3413dffaa600a37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PSXwbhDd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://brunoluiz.net/blog/2018/mar/a-tale-of-how-to-not-deploy-two-months-old-features/cover.jpg)
+[![Photo by rawpixel.com on Unsplash](img/5307edb38fd09e7be3413dffaa600a37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PSXwbhDd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://brunoluiz.net/blog/2018/mar/a-tale-of-how-to-not-deploy-two-months-old-features/cover.jpg)
 
 在电子商务和零售市场上，有一个重要且非常特殊的日子，叫做黑色星期五。对许多人来说，它意味着“折扣价格”，“出售！”，“五折”，但对于开发者和 IT 人来说，这是一次具有挑战性的冒险。
 
@@ -14,7 +14,7 @@
 
 一月过去了，在某个时候，推迟的部署将不得不开始。自从黑色星期五以来，已经过了四次 sprint，通常的过程是自动部署每个 sprint 包，在生产环境中监控它的结果。但这，这不是一个理想的世界。
 
-[![Photo by rawpixel.com on Unsplash](../Images/1b5b56cd28afc96467d359bb43693d27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fMTC1KNc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://brunoluiz.net/blog/2018/mar/a-tale-of-how-to-not-deploy-two-months-old-features/surprises.jpeg)
+[![Photo by rawpixel.com on Unsplash](img/1b5b56cd28afc96467d359bb43693d27.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fMTC1KNc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://brunoluiz.net/blog/2018/mar/a-tale-of-how-to-not-deploy-two-months-old-features/surprises.jpeg)
 
 ## 产品开发生活充满惊喜
 
@@ -28,7 +28,7 @@
 
 特性完成后，QA 和管理团队一起测试它。经过一段时间的测试后，他们确认它运行正常，没有任何错误或业务规则缺陷。尽管这个令人惊讶的特性让我们疯狂地工作，但部署看起来就像是在公园散步。
 
-[![Photo by SpaceX on Unsplash](../Images/adba5036226778e3a7ce520c6dcd334f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VRZ0ZOOo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://brunoluiz.net/blog/2018/mar/a-tale-of-how-to-not-deploy-two-months-old-features/deploy.jpeg)
+[![Photo by SpaceX on Unsplash](img/adba5036226778e3a7ce520c6dcd334f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VRZ0ZOOo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://brunoluiz.net/blog/2018/mar/a-tale-of-how-to-not-deploy-two-months-old-features/deploy.jpeg)
 
 ## (e ploy)D-天
 
@@ -40,7 +40,7 @@
 
 大约一个小时的紧张之后，一切又恢复了平静，但是这次部署的结果改变了整个团队。
 
-[![Photo by Dustin Lee on Unsplash](../Images/52285f9e0063e31557876b1878f88dae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bUnZyOb7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://brunoluiz.net/blog/2018/mar/a-tale-of-how-to-not-deploy-two-months-old-features/postmortem.jpeg)
+[![Photo by Dustin Lee on Unsplash](img/52285f9e0063e31557876b1878f88dae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bUnZyOb7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://brunoluiz.net/blog/2018/mar/a-tale-of-how-to-not-deploy-two-months-old-features/postmortem.jpeg)
 
 ## 表示剖验及其结果
 
@@ -86,7 +86,7 @@ QAs 在一个测试环境中测试了每个 sprint 特性包。最好的场景�
 
 除此之外还有其他工具，如 [NewRelic](https://newrelic.com/) 和 [Librato](https://www.librato.com/) ，但它们更具体一些，团队应该分析它们是否真的需要。
 
-[![Photo by Kupono Kuwamura on Unsplash](../Images/f3680efe7cbe0941a2366f59288ea46f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rHXD4t1c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://brunoluiz.net/blog/2018/mar/a-tale-of-how-to-not-deploy-two-months-old-features/noproblems.jpeg)
+[![Photo by Kupono Kuwamura on Unsplash](img/f3680efe7cbe0941a2366f59288ea46f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rHXD4t1c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://brunoluiz.net/blog/2018/mar/a-tale-of-how-to-not-deploy-two-months-old-features/noproblems.jpeg)
 
 ## 问题结束？
 

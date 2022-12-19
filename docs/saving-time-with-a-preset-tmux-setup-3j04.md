@@ -18,7 +18,7 @@
 
 最终可能看起来有点像这样:
 
-[![drupal development screenshot](../Images/8860ec37a0296c1c107449d644194d59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iwcYs_rV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rz9x4gcowdk3vj1nlc3i.png)
+[![drupal development screenshot](img/8860ec37a0296c1c107449d644194d59.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iwcYs_rV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rz9x4gcowdk3vj1nlc3i.png)
 
 注意左下角的 Tmux 状态，它显示我在三个窗口中的第一个。
 

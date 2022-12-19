@@ -17,13 +17,13 @@ dock-puppender-jest(无标题 Chrome + Jest 测试图像):[https://hub . docker 
 *我们需要做的:*
 
 这里是我们开始的地方，一个 800Mb 以上大小的图像只是为了运行 headless Chrome 和 Jest。哎哟。
-[![Alt text of image](../Images/18ff7f5363426dd56e0777ed199e8cfd.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--jpc-Z9Bs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidjeddy.com/wp-content/uploads/2018/04/Screen-Shot-2018-04-03-at-4.25.06-PM.png)
+[![Alt text of image](img/18ff7f5363426dd56e0777ed199e8cfd.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--jpc-Z9Bs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidjeddy.com/wp-content/uploads/2018/04/Screen-Shot-2018-04-03-at-4.25.06-PM.png)
 
 因此，让我们应用多阶段构建范例，并使用 Google Distroless NodeJs 映像:
-[![Alt text of image](../Images/644db47ac2b993098ac66630f2ff3cc4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wypyTQU9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidjeddy.com/wp-content/uploads/2018/04/Screen-Shot-2018-04-03-at-4.26.14-PM.png)
+[![Alt text of image](img/644db47ac2b993098ac66630f2ff3cc4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--wypyTQU9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidjeddy.com/wp-content/uploads/2018/04/Screen-Shot-2018-04-03-at-4.26.14-PM.png)
 
 现在，我们使用`build . -t davidjeddy/docker_puppeteer_jest`命令重建图像，最终得到大约 400MB 的图像。节省 50%!
-[![Alt text of image](../Images/fe2025dd0867ff4d3111e4d44b5c8c97.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--l5jaeHzJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidjeddy.com/wp-content/uploads/2018/04/Screen-Shot-2018-04-03-at-4.27.39-PM.png)
+[![Alt text of image](img/fe2025dd0867ff4d3111e4d44b5c8c97.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--l5jaeHzJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidjeddy.com/wp-content/uploads/2018/04/Screen-Shot-2018-04-03-at-4.27.39-PM.png)
 
 现在去掉旧的被打破的臃肿的形象。
 

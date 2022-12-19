@@ -10,11 +10,11 @@
 
 解决方案:我们来画一个简单的例子，看看这个问题中的预期是什么。
 
-[![Example](../Images/6a72fc122a2191f48cb52d7e32f35077.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pKSZ8Hqd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9ut1e3qm8g2hwbiadhd2.jpeg)
+[![Example](img/6a72fc122a2191f48cb52d7e32f35077.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pKSZ8Hqd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9ut1e3qm8g2hwbiadhd2.jpeg)
 
 我一听到/看到这个问题就有什么顾虑和疑问。
 
-[![Follow-ups](../Images/754b4a940fe9b187e7f05e5a4ebede38.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mej8yIsu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/blrt04e429ajs55xq50i.jpeg)
+[![Follow-ups](img/754b4a940fe9b187e7f05e5a4ebede38.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mej8yIsu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/blrt04e429ajs55xq50i.jpeg)
 
 集合或哈希表类型的数据结构，这是我想到的大多数与数组/字符串相关的问题。
 
@@ -22,11 +22,11 @@ Set-:使用 Set 我可以只存储项目，而不存储它们的出现，这样�
 
 为什么 Set/HashTable 不列出或另一个数组-:Set 和 HashTable 都在其中存储不同的项，它们给我们 O(1)的搜索时间，这是不同数据结构中最快的。当输入数组很大时，常量搜索运行时会非常重要。
 
-[![Set & Map](../Images/b6fa6d60549a1dc5c5101cd997c60c4d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FdaQhSI_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rri7bnc7r0u0xr6wyy1h.jpeg)
+[![Set & Map](img/b6fa6d60549a1dc5c5101cd997c60c4d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FdaQhSI_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rri7bnc7r0u0xr6wyy1h.jpeg)
 
 让我们试着写下一个伪代码。
 
-[![pseudo code](../Images/e01f194914834a69b62d8409d30f2d13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MG3W1s2h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/92607peg08e3ofwohf1l.jpeg)
+[![pseudo code](img/e01f194914834a69b62d8409d30f2d13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MG3W1s2h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/92607peg08e3ofwohf1l.jpeg)
 
 时间复杂度-: O(n)
 空间复杂度-: O(n)
@@ -39,11 +39,11 @@ n:数组中的项数。
 
 类似的问题:
 
-[![s_awdesh image](../Images/7969cd8e1635aacfa4a52476257fbc8c.png)](/s_awdesh) [## 寻找重复算法系列-一个字符串作为输入。
+[![s_awdesh image](img/7969cd8e1635aacfa4a52476257fbc8c.png)](/s_awdesh) [## 寻找重复算法系列-一个字符串作为输入。
 
 ### 阿德什
 
-#string #array #duplicates](/s_awdesh/finding-duplicate-character-inside-string-3100)[![s_awdesh image](../Images/7969cd8e1635aacfa4a52476257fbc8c.png)](/s_awdesh) [## 查找重复算法系列-一个排序后的数组作为输入。
+#string #array #duplicates](/s_awdesh/finding-duplicate-character-inside-string-3100)[![s_awdesh image](img/7969cd8e1635aacfa4a52476257fbc8c.png)](/s_awdesh) [## 查找重复算法系列-一个排序后的数组作为输入。
 
 ### 阿德什
 

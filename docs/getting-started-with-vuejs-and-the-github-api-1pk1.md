@@ -495,11 +495,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，如果我们用`npm run serve`为应用程序提供服务，您应该会看到类似这样的内容:
 
-[![Screenshot1](../Images/b42947aa52aa4a25c2b380bd7a12382e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5_UZxgcD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://home.aveek.io/blog/githubstats/screenshot2.png)
+[![Screenshot1](img/b42947aa52aa4a25c2b380bd7a12382e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5_UZxgcD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://home.aveek.io/blog/githubstats/screenshot2.png)
 
 当您单击 submit，或在键入包含版本的有效存储库后输入时，您应该会看到总下载量和每个单独版本的下载量:
 
-[![Screenshot2](../Images/2340f73e2422fcc0a31645db4d90c432.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NIJzK4di--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://home.aveek.io/blog/githubstats/screenshot3.png)
+[![Screenshot2](img/2340f73e2422fcc0a31645db4d90c432.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NIJzK4di--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://home.aveek.io/blog/githubstats/screenshot3.png)
 
 就是这样！您已经使用 Vue 从头开始创建了一个真实世界的应用程序，并使用了一些重要的功能，如-
 

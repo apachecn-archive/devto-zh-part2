@@ -85,7 +85,7 @@ Enter fullscreen mode Exit fullscreen mode
   
 使用一些编辑器(我喜欢 Atom)，编辑一个 var 里面的 user.js 结构，用这个导出一个模块
 
-[![Just like this](../Images/e2c3fabef65e19e6118b9e19570b07bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pWCDyAFS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/98lp77l2rtekr7t78cor.png)
+[![Just like this](img/e2c3fabef65e19e6118b9e19570b07bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pWCDyAFS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/98lp77l2rtekr7t78cor.png)
 
 ### 好了，现在在“handler.js”内部让我们修改同一个“hello”函数来连接我们正在运行的 Mongod 服务并执行一个简单的查询，但是在我们需要导入“mongoose”之前，启动一个连接，获取我们的 userSchema 并创建一个模型。
 
@@ -131,7 +131,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### 好了，现在让我们在我们的“handler.js”中应用一些改变，并且记住一旦我们的 mongoose 连接打开，我们就必须关闭它，否则我们的函数将“超时”(Lambda 函数有一个默认的秒数，直到它停止)
 
-[![Like this](../Images/82e7b14bd31b8dcb9d370742f5139e20.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CF8xqaAb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u9mxbb8una6f7rkzt536.png)
+[![Like this](img/82e7b14bd31b8dcb9d370742f5139e20.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CF8xqaAb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u9mxbb8una6f7rkzt536.png)
 
 ### 现在，在您的 api 目录中，运行这个命令，以便在本地测试您的函数“hello”
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/peterj/traffic-routing-between-functions-using-fn-project-and-istio-2619>
 
-[![](../Images/a0d723547ea3c696caad2c2024fc8f2d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QuL3_oKL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AbjDqgcirv9x1L0nt)
+[![](img/a0d723547ea3c696caad2c2024fc8f2d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QuL3_oKL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AbjDqgcirv9x1L0nt)
 
 在本文中，我将解释如何使用 [Istio](https://istio.io) 服务网格在 [Fn 功能](https://fnproject.io/)之间实现基于版本的流量路由。
 
@@ -16,7 +16,7 @@
 
 为了解释这是如何工作的，我们将从一个 Kubernetes 服务(`myapp`)和两个特定于版本的应用部署(v1 和 v2)开始。
 
-[![Service routing to all app versions](../Images/12de9baf7643c34bcfc9cadc2d4c23bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aVbNPyVB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AL6w-SFpYJl5EBYMZItTQ2g.png)
+[![Service routing to all app versions](img/12de9baf7643c34bcfc9cadc2d4c23bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aVbNPyVB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AL6w-SFpYJl5EBYMZItTQ2g.png)
 
 在上图中，我们有一个选择器设置为`app=myapp`的`myapp` Kubernetes 服务，这意味着它将寻找所有设置了`app=myapp`标签的 pod，并将流量路由给它们。基本上，如果你做了一个`curl myapp-service`，你将从运行`v1`版本的应用程序或者从运行`v2`版本的应用程序得到一个响应。
 
@@ -26,7 +26,7 @@
 
 输入 Istio。为了能够进行更加智能和基于权重的路由，我们需要安装 Istio，然后将代理注入到我们的每个 pod 中，如下图所示。下图中的每个窗格都有一个包含 Istio 代理(由蓝色图标表示)的容器和运行应用程序的容器。在上图中，我们在每个 pod 中只运行了一个容器 app 容器。
 
-[![Pods with Istio proxy sidecars](../Images/c12774ee6cdd8d38c98e73bcf82fe03c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B5jG-AT9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AGJZqOqNAryl34XxdlW2vTw.png)
+[![Pods with Istio proxy sidecars](img/c12774ee6cdd8d38c98e73bcf82fe03c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B5jG-AT9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AGJZqOqNAryl34XxdlW2vTw.png)
 
 > 请注意，还有比图中所示更多的东西。我没有展示同样部署在 Kubernetes 集群上的其他 Istio pods 和服务——注入的 Istio 代理与这些 pods 和服务通信，以便知道如何正确地路由流量。有关 Istio 不同部分的深入解释，请参见此处的文档[。](https://istio.io/docs/concepts/traffic-management/overview/)
 
@@ -34,11 +34,11 @@
 
 就像当今几乎所有的东西一样，Istio 路由规则是使用 YAML 定义的，它们看起来像这样:
 
-[![Route all traffic coming to myapp-service to pods, labeled "v1"](../Images/cb2679a0b1569471a32fe1e7b9321ecd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rYVzVx7M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2ADGqVjIDow2pEldMfxmki8Q.png)
+[![Route all traffic coming to myapp-service to pods, labeled "v1"](img/cb2679a0b1569471a32fe1e7b9321ecd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rYVzVx7M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2ADGqVjIDow2pEldMfxmki8Q.png)
 
 上面的路由规则接收到达`myapp-service`的请求，并将它们重新路由到标记为`version=v1`的 pod。以下是具有上述路由规则的图表的外观:
 
-[![Routing to v1 pods](../Images/05d7e7b96abf8d6cc59b7a067279f521.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9Dtb0WsF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AA4DSAqKQ3_VChe0RJVmWPw.png)
+[![Routing to v1 pods](img/05d7e7b96abf8d6cc59b7a067279f521.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9Dtb0WsF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AA4DSAqKQ3_VChe0RJVmWPw.png)
 
 底部的大 Istio 图标代表 Istio 部署/服务，除了其他事情之外，路由规则是从这里读取的。然后，这些规则用于重新配置在每个 pod 内运行的 Istio 代理边车。
 
@@ -50,7 +50,7 @@
 
 我们将从 Kubernetes 上的一些 [Fn](http://fnproject.io/) 片段的基本图开始。您可以使用[掌舵图](http://github.com/fnproject/fn-helm)在您的 Kubernetes 集群上部署 Fn。
 
-[![A simple representation of Fn on Kubernetes](../Images/52a0418363c8c20ac08cc1e85a8f8ad0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b2p6LQLA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AeXGvk4PNnd8Pj0lM6z_j-Q.png)
+[![A simple representation of Fn on Kubernetes](img/52a0418363c8c20ac08cc1e85a8f8ad0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b2p6LQLA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AeXGvk4PNnd8Pj0lM6z_j-Q.png)
 
 图表顶部的 Fn API 服务是 Fn 的入口点，用于管理您的功能(创建、部署、运行等)。)—这是在 Fn 项目中被称为`FN_API_URL`的 URL。
 
@@ -101,7 +101,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 打开两个文件夹中的`func.go`,更新返回的消息，使其包含版本号——我们这样做的唯一原因是为了快速区分哪个函数被调用。v1 `func.go`应该是这样的(`Hello V1`):
 
-[![Hello V1](../Images/f4994aefeebafc286f13194298ba9e4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JlQkpUbU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2ATz7dz7HPsQabsOZSjnn1tw.png)
+[![Hello V1](img/f4994aefeebafc286f13194298ba9e4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JlQkpUbU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2ATz7dz7HPsQabsOZSjnn1tw.png)
 
 完成这些更改后，您可以将这些功能部署到 Kubernetes 上运行的 Fn 服务中。为此，您必须设置`FN_REGISTRY`环境变量来指向您的 Docker 注册用户名。
 
@@ -152,7 +152,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 下面是用图表表示的上述想法:
 
-[![Version specific deployments calling the Fn API service at exact path](../Images/6ba80ab167f8dd41642efc2e67a7436b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R4BpqVX_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AnrP0L_uSR7aCXBGByeZtcg.png)
+[![Version specific deployments calling the Fn API service at exact path](img/6ba80ab167f8dd41642efc2e67a7436b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R4BpqVX_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AnrP0L_uSR7aCXBGByeZtcg.png)
 
 我们有一个代表我们的应用程序的服务和两个特定于版本的部署，并直接路由到 Fn 服务中运行的功能。
 
@@ -194,17 +194,17 @@ Enter fullscreen mode Exit fullscreen mode
 
 下面是部署文件的摘录，展示了我们如何为`UPSTREAM`和`ROUTE`以及标签设置环境变量。
 
-[![](../Images/4b0516112f0c29ec307ccab292ea9b4e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--joqR4mLL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2A41VRsFr66EWiPEnMsvPOaw.png)
+[![](img/4b0516112f0c29ec307ccab292ea9b4e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--joqR4mLL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2A41VRsFr66EWiPEnMsvPOaw.png)
 
 简单代理容器读取`UPSTREAM`和`ROUTE`环境变量，并根据这些值生成 Nginx 配置。
 
 服务 YAML 文件也没什么特别的——我们只是将选择器设置为`app: hello-app`:
 
-[![Service definition](../Images/08892095ac02293ec205dc74ecaeb2b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cRcGjQ8e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AbLsp-8E4A7LUCvKgZRweBg.png)
+[![Service definition](img/08892095ac02293ec205dc74ecaeb2b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cRcGjQ8e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AbLsp-8E4A7LUCvKgZRweBg.png)
 
 最后一部分是 Istio 入口，我们在这里设置规则，将所有传入流量路由到后端服务:
 
-[![Ingress](../Images/e8fa0da0cf62537846436b3f4ef371e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JQDohyXT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AZS3wp0Q8GUWjmEuLcEz-vQ.png)
+[![Ingress](img/e8fa0da0cf62537846436b3f4ef371e4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JQDohyXT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AZS3wp0Q8GUWjmEuLcEz-vQ.png)
 
 要部署这些，您可以使用`kubectl`来部署入口和服务，使用`istioctl kube-inject`来部署以注入 Istio 代理。
 
@@ -240,7 +240,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 随着我们的服务和部署的启动和运行(以及工作)，我们可以为 Fn 功能创建 Istio 路由规则。让我们从一个简单的 v1 规则开始，它将把所有(`weight: 100`)到`hello-app-service`的呼叫路由到标记为`v1`的 pod:
 
-[![Route all calls to v1 label](../Images/606db4e2cc1630c637d3099a12118aef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iipNNxRN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2A8QTpQ3mt0_msCoF8AkJQig.png)
+[![Route all calls to v1 label](img/606db4e2cc1630c637d3099a12118aef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iipNNxRN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2A8QTpQ3mt0_msCoF8AkJQig.png)
 
 您可以通过运行`kubectl apply -f v1-rule.yaml`来应用此规则。查看路由运行情况的最佳方式是运行一个不断调用端点的循环，这样您可以看到响应从混合(v1/v2)到全 v1。
 

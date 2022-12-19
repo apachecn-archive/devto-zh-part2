@@ -6,7 +6,7 @@
 
 在本指南中，我追求的结果是一个单一的 HTML 页面，它允许我询问和比较机器学习模型的输出。
 
-[![](../Images/6be9445f988ef2ce9f8722ecb4c1c4ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fEW8RSgX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ae8kwaytszwzmznkkmmn.png)
+[![](img/6be9445f988ef2ce9f8722ecb4c1c4ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fEW8RSgX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ae8kwaytszwzmznkkmmn.png)
 
 在前一个教程的[结束时，我们已经开始“你好，世界！”舞台。一些非常基本的内容可以被输入到我们非常基本的结构中——但是现在是时候添加一些真正的特性了。](https://dev.to/goyder/automatic-reporting-in-python---part-1-from-planning-to-hello-world-32n1)
 
@@ -23,7 +23,7 @@
 
 但是我经常发现，任何编程工作，即使是非常小的工作，从一开始就需要在解决方案的实现中做出选择和权衡。这应该是函数还是类？我是导入一个库还是自己开发一个库？我应该使用字典还是列表？这些选择会产生什么样的流动效应？
 
-[![](../Images/660fe66ad2dcdc952a051c241e8ebb1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7Ayk0lSZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pd0quc5sgv8z625fqwg4.png)
+[![](img/660fe66ad2dcdc952a051c241e8ebb1e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7Ayk0lSZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pd0quc5sgv8z625fqwg4.png)
 
 ### 简化事情的一种方法:标记你的假设
 
@@ -62,7 +62,7 @@
 
 使用这些模型生成的数据可以在单独的回购协议下找到，[在这里可用](https://github.com/goyder/dataset_generation)。虽然生成这些数据的过程有点超出了本文的讨论范围，但最终结果是我们有两个数据集可以使用——`VGG19_results.csv`和`MobileNet_results.csv`——每个都存储为 [CSV 文件](https://en.wikipedia.org/wiki/Comma-separated_values)。
 
-[![](../Images/220f083808356c6bd6aac856d924ffc8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2mXou_S---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bspnb7m7jo8jqcm7pc4b.png)
+[![](img/220f083808356c6bd6aac856d924ffc8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2mXou_S---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bspnb7m7jo8jqcm7pc4b.png)
 
 对于数据集中的每个图像，我们都有一列用于预测的 ImageNet 类别 ID ( `imagenet_index`)、类别的文本描述(`imagenet_category`)以及它是否对应于一只家猫(`correct`)。
 
@@ -72,7 +72,7 @@
 
 好吧——在我们离题之后——回到记者身上。当我们停下来的时候，我们让记者处于一个功能正常但毫无特色的状态:
 
-[![](../Images/327f4d22b3e61107a761b3f5838a9410.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7l6kQV9R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jmubbdsddqgrnm4opkpl.png)
+[![](img/327f4d22b3e61107a761b3f5838a9410.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7l6kQV9R--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jmubbdsddqgrnm4opkpl.png)
 
 让我们进行下一步，向报告添加一个基本结构，我们可以用更多的内容部分填充它。首先，我们将更新`report.html`。我们将做一些小的调整，比如指定一个要输入的实际的`title`点，并添加一个简短的序言，但是真正有趣的部分在下面:
 
@@ -161,7 +161,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当我们运行这个脚本时，我们用`table_section.html`模板渲染的两个部分将一个接一个地包含在我们的报告中。
 
-[![](../Images/ca9b029830d9012302470e480090a9fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--go0NUQFZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mum6sae6cuaoybncgmtr.png)
+[![](img/ca9b029830d9012302470e480090a9fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--go0NUQFZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mum6sae6cuaoybncgmtr.png)
 
 在这里，我们只有两个部分，它们是同一类型的——但是我们可以想象，将更多的模型串在一起，或者生成比较模型之间性能的块，只是给出一些例子，这是没有关系的。
 
@@ -252,7 +252,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 有了这个实现，我们可以重新运行脚本，瞧，表！
 
-[![](../Images/ab4d9b3e6470d093fad1d8b431282fbf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rx-a_4oz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8w06zeswd5vcs1z1zdvg.png)
+[![](img/ab4d9b3e6470d093fad1d8b431282fbf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Rx-a_4oz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8w06zeswd5vcs1z1zdvg.png)
 
 ### GitHub 状态
 
@@ -397,7 +397,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，我们将运行修改后的`autoreporting.py`，并且:
 
-[![](../Images/c4516b9fe8a377646a873b2969b2087b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YGtHKJt0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8ypcum4wkmd5wjcrymku.png)
+[![](img/c4516b9fe8a377646a873b2969b2087b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YGtHKJt0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8ypcum4wkmd5wjcrymku.png)
 
 我们得到的是一个简洁的总结！
 

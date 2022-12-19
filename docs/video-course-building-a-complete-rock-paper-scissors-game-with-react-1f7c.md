@@ -4,7 +4,7 @@
 
 这个 3 部分视频教程的目的是看 React 的概念如何一起工作，从头开始构建一个简单的 React JS 应用程序。有什么比制作一个简单的游戏更有趣的呢，就像图片中的那个。
 
-[![React Game](../Images/9bd183598309fc8e4d92bab1aacd55a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hOP073nf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/okqj3agjop766mhvnahp.png)
+[![React Game](img/9bd183598309fc8e4d92bab1aacd55a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hOP073nf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/okqj3agjop766mhvnahp.png)
 
 [用 React 构建一个游戏——第 1 部分:项目设置、基本组件、内嵌样式](http://www.js-craft.io/screencast/18-02-14-Build-a-game-with-React-xd-Part-1-xsc-project-setup-xc-basic-components-xc-inline-styles/)
 

@@ -12,11 +12,11 @@
 
 一切都是从看书开始的。我真的很喜欢阅读，所以我让我爸爸给我买了一个 Kindle——我很喜欢它！在最初的六个月左右，我每天用它大约一个小时。我甚至为它写了一篇评论，由当地的一家报纸发表📰
 
-[![](../Images/931146cce1fa52a6999407b902ffb2cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U3cCsZZ3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2ARfOBmArFTJyu3leW.)
+[![](img/931146cce1fa52a6999407b902ffb2cc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U3cCsZZ3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2ARfOBmArFTJyu3leW.)
 
 11 岁的我有一些让 Kindle 更酷的想法，所以我给**杰夫·贝佐斯**写了一封电子邮件。此电子邮件:
 
-[![](../Images/e64e66a4a7a3b5d676a996a19ffb3db7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rYZyIal---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2132/0%2AxqhenVa_QfFpJJX7.)
+[![](img/e64e66a4a7a3b5d676a996a19ffb3db7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rYZyIal---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2132/0%2AxqhenVa_QfFpJJX7.)
 
 我怎么知道杰夫·贝索斯的电子邮件？我没有。我刚刚试着用谷歌搜索了一下，但不确定会是什么，所以我输入了我能想到的杰夫和贝佐斯以及他名字首字母的所有组合。
 
@@ -46,7 +46,7 @@
 
 两周后，我和父母参观了亚马逊在钦奈的办公室。
 
-[![](../Images/5e520b34860f7cbfa441932412d13a50.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hbGeJY3e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AgVwiWI1wD2YESe23.)
+[![](img/5e520b34860f7cbfa441932412d13a50.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hbGeJY3e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/0%2AgVwiWI1wD2YESe23.)
 
 我见到了他们的团队，我看到他们办公室的人有黑客类型的屏幕，正在输入一些东西。当我问带我参观的人时，她说，“这是编程”，他们这样做是为了给 Kindle 做一个应用程序。我知道什么是应用，因为我在 iPad 上玩的游戏也是应用。
 
@@ -120,13 +120,13 @@ Hack Club 给我介绍了一个叫做“ **Shipping** ”的东西——意思�
 
 在我看到 Pieter Levels(！idspnonenote)对一个应用程序的请求后，我在 WIP 中变得活跃起来。！！)
 
-[![](../Images/dd9d8e4558340de9856a8893fe81eb16.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hIaAdiHT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2216/0%2ACLcyHdWjRRpx7Grl.)
+[![](img/dd9d8e4558340de9856a8893fe81eb16.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hIaAdiHT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2216/0%2ACLcyHdWjRRpx7Grl.)
 
 *Woof Wooferson = Pieter Levels*
 
 我的反应是在 24 小时内创建了一个名为 Syncr 的应用程序。
 
-[![](../Images/b23cea33c65c1c23180cfd9a19adb9f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--516ljz5C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2222/0%2A_KAGKRrdqV7UycRx.)
+[![](img/b23cea33c65c1c23180cfd9a19adb9f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--516ljz5C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2222/0%2A_KAGKRrdqV7UycRx.)
 
 迄今为止， [Syncr](https://www.producthunt.com/posts/syncr) 已经给了我将近一百美元——谢谢你的主意 [@levelsio](https://dev.to/levelsio) 😄
 
@@ -136,17 +136,17 @@ Hack Club 给我介绍了一个叫做“ **Shipping** ”的东西——意思�
 
 在产品搜索上被大声喊出来是超级激励的，就像在黑客新闻上一样(这已经发生两次了😉 )!
 
-[![](../Images/8380794d41a8bc28c92c5041564f1a54.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3gNBKZ73--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2456/0%2AakQDq_cz4GeT1DE8.)
+[![](img/8380794d41a8bc28c92c5041564f1a54.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3gNBKZ73--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2456/0%2AakQDq_cz4GeT1DE8.)
 
 建造人们喜欢使用的东西，甚至付钱给我，感觉真的很酷！但我创作主要是为了好玩。登上黑客新闻和产品搜索的头版感觉像是一种成就，每次我在 WIP 上发货时都会产生这种巨大的多巴胺热潮。
 
 然后是雾溪的 CEO 和 [glitch](https://glitch.com) (！！—一个我几乎用来构建所有应用程序的神奇工具)在推特上对我说:
 
-> ![Anil Dash profile image](../Images/37507d297af0b43edc65cb67c497cbe4.png)Anil Dash@ Anil Dash![twitter logo](../Images/ad0c7b03deabfe1a161345efb2d537eb.png)这小子用他的@Glitch 应用杀了它。看起来很有趣！[twitter.com/jajoosam/statu…](https://t.co/KIExGeToJn)2018 年 05 月 04 日上午 10:59Samarth Jajoo@ jajoosam我在@ProductHunt 上的第 10 个项目，秀 HN 首页第 5！https://t.co/cifbPY2WrZ wrish 是一个快速自动保存记事本✏️⚡是在 3 天内建成。🚧进展:https://t.co/9ldLDOuGuT👨‍💻代码在:https://t.co/eCnSt00m8i 主持@格林奇🐟[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=992357976639004672)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=992357976639004672)[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=992357976639004672)35
+> ![Anil Dash profile image](img/37507d297af0b43edc65cb67c497cbe4.png)Anil Dash@ Anil Dash![twitter logo](img/ad0c7b03deabfe1a161345efb2d537eb.png)这小子用他的@Glitch 应用杀了它。看起来很有趣！[twitter.com/jajoosam/statu…](https://t.co/KIExGeToJn)2018 年 05 月 04 日上午 10:59Samarth Jajoo@ jajoosam我在@ProductHunt 上的第 10 个项目，秀 HN 首页第 5！https://t.co/cifbPY2WrZ wrish 是一个快速自动保存记事本✏️⚡是在 3 天内建成。🚧进展:https://t.co/9ldLDOuGuT👨‍💻代码在:https://t.co/eCnSt00m8i 主持@格林奇🐟[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=992357976639004672)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=992357976639004672)[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=992357976639004672)35
 
 NameCheap 的首席执行官也这么认为:
 
-> ![Richard Kirkendall profile image](../Images/818fe4ca565a8d47897d986321fa94f4.png)理查德·科尔肯德尔@ name cheap CEO![twitter logo](../Images/ad0c7b03deabfe1a161345efb2d537eb.png)[@ yesnoornext](https://twitter.com/yesnoornext)[@ jajoosam](https://twitter.com/jajoosam)[@ jajoosam](https://twitter.com/jajoosam)你需要工作吗？；)2018 年 05 月 04 日下午 13:59[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=992403229005811712)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=992403229005811712)0[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=992403229005811712)13
+> ![Richard Kirkendall profile image](img/818fe4ca565a8d47897d986321fa94f4.png)理查德·科尔肯德尔@ name cheap CEO![twitter logo](img/ad0c7b03deabfe1a161345efb2d537eb.png)[@ yesnoornext](https://twitter.com/yesnoornext)[@ jajoosam](https://twitter.com/jajoosam)[@ jajoosam](https://twitter.com/jajoosam)你需要工作吗？；)2018 年 05 月 04 日下午 13:59[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=992403229005811712)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=992403229005811712)0[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=992403229005811712)13
 
 那真是令人兴奋！
 

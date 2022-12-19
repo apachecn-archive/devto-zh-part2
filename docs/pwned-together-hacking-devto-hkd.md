@@ -6,7 +6,7 @@
 
 在阅读了这篇关于 Dev.to 的源代码的文章后，我受到了启发。为了庆祝我在这里的第 500 个追随者，我给自己的挑战是黑掉 dev.to！
 
-[![joshcheek](../Images/79a668ebe5d467cb7670a9261a6760c4.png)](/joshcheek) [## 这个网站是开源的
+[![joshcheek](img/79a668ebe5d467cb7670a9261a6760c4.png)](/joshcheek) [## 这个网站是开源的
 
 ### 乔希·齐克 8 月 21 日 183 分钟阅读
 
@@ -28,7 +28,7 @@ XSS 有不同类型:
 
 举个例子，几年前在 [TweetDeck](https://tweetdeck.twitter.com/) 上发现了一个存储的 XSS，恶意代码在那里自动转发，最终得到了数量惊人的转发:
 
-> ![*andy profile image](../Images/6fa46112e4b3b9ea3f8b1dbcc9834053.png)*安迪@ dergeruhn![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)<script class = " XSS ">$('。XSS’)。父母()。等式(1)。查找(' a ')。等式(1)。单击()；$('[data-action=retweet]')。单击()；alert(' XSS in tweetdeck ')</script>♥2014 年 6 月 11 日下午 16:36[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=476764918763749376)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=476764918763749376)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=476764918763749376)
+> ![*andy profile image](img/6fa46112e4b3b9ea3f8b1dbcc9834053.png)*安迪@ dergeruhn![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)<script class = " XSS ">$('。XSS’)。父母()。等式(1)。查找(' a ')。等式(1)。单击()；$('[data-action=retweet]')。单击()；alert(' XSS in tweetdeck ')</script>♥2014 年 6 月 11 日下午 16:36[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=476764918763749376)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=476764918763749376)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=476764918763749376)
 
 # 漏洞
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/aaronmiller/top-5-myths-about-freelance-writing-1oad>
 
-[![](../Images/439928204473dc88f215e620a352ae77.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dJSEdhKi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uvairrorc7liggvq32e9.jpg)
+[![](img/439928204473dc88f215e620a352ae77.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dJSEdhKi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uvairrorc7liggvq32e9.jpg)
 
 自由写作似乎是一个令人生畏的职业。对于初出茅庐的作家来说，可能很难将神话与事实区分开来。以下是关于自由写作的五个最常见的误区。
 

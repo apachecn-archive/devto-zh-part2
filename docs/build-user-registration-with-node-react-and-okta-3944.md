@@ -85,21 +85,21 @@ Enter fullscreen mode Exit fullscreen mode
 
 注册完成后，点击顶部菜单中的**应用程序**。然后点击**添加应用**按钮。
 
-[![application listing screen](../Images/e40e2ffa779ca255ba044c56af48e409.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xm4Il_r_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-user-registration-with-node-react-and-okta/application-listing-screen-8bd2b4155458ca8d3380392548a4069b3bd0257cf41739e08c7718d3e2e5fe50.png)
+[![application listing screen](img/e40e2ffa779ca255ba044c56af48e409.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xm4Il_r_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-user-registration-with-node-react-and-okta/application-listing-screen-8bd2b4155458ca8d3380392548a4069b3bd0257cf41739e08c7718d3e2e5fe50.png)
 
 然后，您将被带到应用程序创建向导。选择**单页 App** 按钮，点击底部的**下一步**。
 
-[![single page app screen](../Images/438815de9d8efbd1c15a93ec80f4d707.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RZCU3OcI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-user-registration-with-node-react-and-okta/single-page-app-screen-99a750aba6859fdd722e917183de876bba2e309b9f6a57cde3393f1edfad9c8a.png)
+[![single page app screen](img/438815de9d8efbd1c15a93ec80f4d707.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RZCU3OcI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-user-registration-with-node-react-and-okta/single-page-app-screen-99a750aba6859fdd722e917183de876bba2e309b9f6a57cde3393f1edfad9c8a.png)
 
 在下一个屏幕上，您将看到单页应用程序模板提供的默认设置。将应用程序的名称改为更具描述性的名称，如“成员资格应用程序”。此外，将基本 URIs 和登录重定向 URIs 设置更改为使用端口 3000，因为这是您的应用程序将运行的地方。其余的默认设置都没问题。
 
-[![single page app settings screen](../Images/77385b473c757b315cecef6b1cde45f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SYaG90dT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-user-registration-with-node-react-and-okta/single-page-app-settings-screen-61feebc659675ed7092195b6d31a95e377513250464c50409b2771387c62c22d.png)
+[![single page app settings screen](img/77385b473c757b315cecef6b1cde45f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SYaG90dT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-user-registration-with-node-react-and-okta/single-page-app-settings-screen-61feebc659675ed7092195b6d31a95e377513250464c50409b2771387c62c22d.png)
 
 然后点击底部的 **Done** 按钮。
 
 创建应用程序后，从应用程序列表中选择它，并点击**常规**选项卡查看应用程序的常规设置。
 
-[![general settings tab](../Images/0cdb8b03b91c06a692c9413356edbbf6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ffli--Pi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-user-registration-with-node-react-and-okta/general-settings-tab-795561b2ce11a688a8ca48f7af9b55c58d727e12895f2b794a8e95fbd01841a1.png)
+[![general settings tab](img/0cdb8b03b91c06a692c9413356edbbf6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ffli--Pi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-user-registration-with-node-react-and-okta/general-settings-tab-795561b2ce11a688a8ca48f7af9b55c58d727e12895f2b794a8e95fbd01841a1.png)
 
 在底部，你会看到一个**客户端 ID** 设置(显然你的不会被模糊掉)。将它复制到 React 应用程序中使用。您还需要 Okta 组织的 URL，可以在仪表板页面的左上方找到。它可能看起来像“[https://dev-XXXXXX . oktapreview . com”](https://dev-XXXXXX.oktapreview.com%E2%80%9D)。
 
@@ -632,11 +632,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 为了让节点应用程序调用 Okta 应用程序，它需要一个 API 令牌。要创建一个令牌，请进入 Okta 开发者仪表板，将鼠标悬停在 API 菜单选项上，然后单击令牌。
 
-[![okta api tokens screen](../Images/f5714033bc6160cab97558d4e2127fe6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QUsUX7Pr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-user-registration-with-node-react-and-okta/okta-api-tokens-screen-b166c1701dc90dc37780dd5da4c9d796ccb527de7880dcd31645615eaab58159.png)
+[![okta api tokens screen](img/f5714033bc6160cab97558d4e2127fe6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QUsUX7Pr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-user-registration-with-node-react-and-okta/okta-api-tokens-screen-b166c1701dc90dc37780dd5da4c9d796ccb527de7880dcd31645615eaab58159.png)
 
 在那里，单击创建令牌。为令牌命名，如“Membership ”,然后单击“Create Token”。
 
-[![create token screen](../Images/e41c23ab6056d86cd56ba24130c02958.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hCaxw9m3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-user-registration-with-node-react-and-okta/create-token-screen-2e20d4e5d1257452e462db66b396d07c2ad5bb768b67c994bfa9a0309d6c11b7.png)
+[![create token screen](img/e41c23ab6056d86cd56ba24130c02958.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hCaxw9m3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-user-registration-with-node-react-and-okta/create-token-screen-2e20d4e5d1257452e462db66b396d07c2ad5bb768b67c994bfa9a0309d6c11b7.png)
 
 将令牌复制到一个安全的位置供以后使用。
 
@@ -668,7 +668,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 尽管该网站仍然需要一些严肃的风格，你现在可以注册用户，用新创建的用户登录，并在个人资料页面上显示登录用户的个人资料！
 
-[![user profile page](../Images/1384834a75d21642d2818731b3fd4f03.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HJ0ZrGC---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-user-registration-with-node-react-and-okta/user-profile-page-aea5259fa9066be2be7c36fa33aaf79eaccf57f8e6d0e11b5a0611d170037f04.png)
+[![user profile page](img/1384834a75d21642d2818731b3fd4f03.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HJ0ZrGC---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/build-user-registration-with-node-react-and-okta/user-profile-page-aea5259fa9066be2be7c36fa33aaf79eaccf57f8e6d0e11b5a0611d170037f04.png)
 
 ## 了解更多
 

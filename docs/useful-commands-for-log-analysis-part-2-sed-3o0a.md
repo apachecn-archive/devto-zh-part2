@@ -6,7 +6,7 @@
 
 继续之前的帖子[讨论 bash 技巧&技巧](http://pythonicforensics.com/useful-cmds-1/)这里有一些在文本中有用的命令，特别是日志和文件分析。
 
-<figure>[![](../Images/411c0a17f170e8aa7161dab37fe3345d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WddiVkgp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AktI0q4oGqa3xj4DB) 
+<figure>[![](img/411c0a17f170e8aa7161dab37fe3345d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WddiVkgp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AktI0q4oGqa3xj4DB) 
 
 <figcaption>照片由[布鲁诺·马丁斯](https://unsplash.com/@brunus?utm_source=medium&utm_medium=referral)上传 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)</figcaption>
 

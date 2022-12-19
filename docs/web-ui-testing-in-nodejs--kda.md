@@ -6,7 +6,7 @@
 
 * * *
 
-[![](../Images/620dc5d5c09d98d08f3e86deb4cd7ef5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kW-dxv3V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xxoygn37j7vvt3aqijp7.png)
+[![](img/620dc5d5c09d98d08f3e86deb4cd7ef5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kW-dxv3V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xxoygn37j7vvt3aqijp7.png)
 
 在这篇文章中，我将展示一些用于测试 web UI 的工具。它们是:
 
@@ -125,7 +125,7 @@ npm test
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Test passed!](../Images/a1eaf14b2d5817934ee9aa393e6e723a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UaUKk6Zf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f776ftbakdfvj44pvdfp.jpg)
+[![Test passed!](img/a1eaf14b2d5817934ee9aa393e6e723a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UaUKk6Zf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/f776ftbakdfvj44pvdfp.jpg)
 
 <center>Test passed! ✅</center>
 
@@ -143,7 +143,7 @@ casper.waitForSelector('h3.r a', function() {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![Test failed!](../Images/1e54c9815420761746a5477b5a7d5efb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LLs7zkpF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h82xqkcjhsk2touxgrna.jpg)
+[![Test failed!](img/1e54c9815420761746a5477b5a7d5efb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LLs7zkpF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h82xqkcjhsk2touxgrna.jpg)
 
 <center>Test failed! ❌</center>
 

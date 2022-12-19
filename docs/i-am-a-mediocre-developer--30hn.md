@@ -34,7 +34,7 @@
 
 但是我们如何判断这段代码是简单的，那段代码是复杂的呢？我们需要使用`WTFs/Minute`方法来衡量代码质量。
 
-[![wtf/minute code quality](../Images/93dae8e5374e8e01fd569c182b8289f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RTnc6j1i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/commadot.com/wp-content/uploads/2009/02/wtf.png%3Fresize%3D550%252C433)
+[![wtf/minute code quality](img/93dae8e5374e8e01fd569c182b8289f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RTnc6j1i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/commadot.com/wp-content/uploads/2009/02/wtf.png%3Fresize%3D550%252C433)
 
 这个原理非常容易理解。每当你在代码中发现你不理解的东西——它太复杂了。你能做什么？
 
@@ -54,7 +54,7 @@
 
 一些开发人员被证明能够交付高质量的代码。比如这个女人:玛格丽特·哈米尔顿，阿波罗计划的首席软件工程师。在这张照片中，她正站在她为登月任务编写的代码旁边:
 
-[![Margaret Hamilton](../Images/cbceb039d23dff3c663c3340b2326c05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G4sZPf_1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://cdn8.openculture.com/2017/08/29205628/margaret-hamilton-mit-apollo-code_0.jpg)
+[![Margaret Hamilton](img/cbceb039d23dff3c663c3340b2326c05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G4sZPf_1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://cdn8.openculture.com/2017/08/29205628/margaret-hamilton-mit-apollo-code_0.jpg)
 
 但是，每当我写代码时，我都不相信自己。即使是项目中最简单的部分，我也会把事情搞砸。这可能包括:
 
@@ -80,7 +80,7 @@
 
 ## 它不应该只在我的电脑上工作
 
-[![Works on my machine](../Images/5349b4c64d4ec9ec72f213d93e835784.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h027pWFE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.ca.com/us/products/excuse-free-testing/worked-fine-on-my-machine/_jcr_content/page/adaptiveimage_855e.img.620.high.jpg/1484844865861.jpg)
+[![Works on my machine](img/5349b4c64d4ec9ec72f213d93e835784.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h027pWFE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.ca.com/us/products/excuse-free-testing/worked-fine-on-my-machine/_jcr_content/page/adaptiveimage_855e.img.620.high.jpg/1484844865861.jpg)
 
 大约十年前，当我的团队开发出我们的第一个大型软件项目时，我们将它作为`java`源文件发布。并且无法在目标服务器上编译。那是在向客户演示之前的几个小时。这是一个大失败！不知何故，我们设法让它运行起来，但这是一次改变人生的经历。
 

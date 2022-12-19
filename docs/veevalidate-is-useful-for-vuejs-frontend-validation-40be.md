@@ -29,7 +29,7 @@
 *   在用户输入之后
 *   提交表单之前
 
-[![out.gif](../Images/360ee2a6b5a4d8db72f503105412b338.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--82HCjLBI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/103885/82eaf966-31b9-2bf5-a2d0-e61d86406074.gif)
+[![out.gif](img/360ee2a6b5a4d8db72f503105412b338.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--82HCjLBI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/103885/82eaf966-31b9-2bf5-a2d0-e61d86406074.gif)
 
 代码应该是这样的:
 
@@ -98,7 +98,7 @@ Promise 使代码可读。
 
 假设用户可以像这样添加其他电子邮件:
 
-[![out.gif](../Images/c8a17401b1f1859b11563d5cc079c96a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9AgCehxp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/103885/64ed17cc-96bc-29ca-59f1-1322a19a12f8.gif)
+[![out.gif](img/c8a17401b1f1859b11563d5cc079c96a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9AgCehxp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/103885/64ed17cc-96bc-29ca-59f1-1322a19a12f8.gif)
 
 VeeValidate 通过`name`属性识别元素，所以我们为每个元素设置唯一的`name`属性。只要迭代次数就可以了。
 

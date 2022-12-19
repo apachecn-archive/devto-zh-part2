@@ -99,7 +99,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 所以当我们尝试使用上述代码时，我们会得到这样的信息:
 
-[![](../Images/da3ee170a628e5d155bf98738c974c6d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LiqqbIud--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.jasoft.org/Blog/image.axd%3Fpicture%3D/2018/API-Portapapeles-Permisos.png)
+[![](img/da3ee170a628e5d155bf98738c974c6d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LiqqbIud--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.jasoft.org/Blog/image.axd%3Fpicture%3D/2018/API-Portapapeles-Permisos.png)
 
 在这种情况下，由于它是直接从磁盘中使用的，因此该 URL 会很快退出(“T0”)，但在正常情况下，它会退出当前域。
 
@@ -109,15 +109,15 @@ Enter fullscreen mode Exit fullscreen mode
 
 接受并运行数据读取后，您将在浏览器栏中看到一个文件夹图标，指示我们已授予了对剪贴板的访问权限:
 
-[![](../Images/7a3b0b59ecd4e4b9d61f6425ac888356.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ichiXKyp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.jasoft.org/Blog/image.axd%3Fpicture%3D/2018/API-Portapapeles-Icono-Permisos.png)
+[![](img/7a3b0b59ecd4e4b9d61f6425ac888356.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ichiXKyp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.jasoft.org/Blog/image.axd%3Fpicture%3D/2018/API-Portapapeles-Icono-Permisos.png)
 
 如果访问被阻止，将显示一个类似但带有删除线的图标:
 
-[![](../Images/ca7b24b5765614842ab654c10db6e9eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9NyjEDA1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.jasoft.org/Blog/image.axd%3Fpicture%3D/2018/API-Portapapeles-Icono-Denegado.png)
+[![](img/ca7b24b5765614842ab654c10db6e9eb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9NyjEDA1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.jasoft.org/Blog/image.axd%3Fpicture%3D/2018/API-Portapapeles-Icono-Denegado.png)
 
 如果用户单击它，则始终可以更改先前授予的权限:
 
-[![](../Images/239fa480c8ececc28036642f34e56789.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1CfYidLN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.jasoft.org/Blog/image.axd%3Fpicture%3D/2018/API-Portapapeles-Permisos-Revocar.png)
+[![](img/239fa480c8ececc28036642f34e56789.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1CfYidLN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.jasoft.org/Blog/image.axd%3Fpicture%3D/2018/API-Portapapeles-Permisos-Revocar.png)
 
 因此，我们有一个与浏览器中其他 API 一致的权限模型，而不是您希望每个 API 实现的任何内容。我们还会授予您控制权，以便您可以随时决定是否授予相应权限。
 
@@ -150,7 +150,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我给你留下了一个相当于前一篇文章的完整的例子 (ZIP，2.24KB)，这样你就可以下载它和它一起玩了:
 
-[![](../Images/b0c1d792430150aa01852eafc132bf58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qfSbykIf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://jmalarcon.blob.core.windows.net/blog/imgs/Varias/Ejemplo-Copiado-Pegado-JavaScript.gif)
+[![](img/b0c1d792430150aa01852eafc132bf58.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qfSbykIf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://jmalarcon.blob.core.windows.net/blog/imgs/Varias/Ejemplo-Copiado-Pegado-JavaScript.gif)
 
 看看代码:你有注释版本用“`async`”这样你就可以测试它们了。以`Promise`评论版本，并讨论其他版本进行测试。如果你把它放在网上，你必须用 HTTPS。
 

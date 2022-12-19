@@ -12,7 +12,7 @@
 
 根据我创作的原始设计，这是我为第五天准备的:
 
-[![A results page component in list view, with one result entry highlighted to indicate it is sponsored](../Images/217a98d36bf4480c2e1c874b997835a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KjLkgT1H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nf6dvzp90w720cr0cl0g.png)
+[![A results page component in list view, with one result entry highlighted to indicate it is sponsored](img/217a98d36bf4480c2e1c874b997835a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KjLkgT1H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nf6dvzp90w720cr0cl0g.png)
 
 对于今天的特性实现，我选择使用“加载更多”;幸运的是，我编写了一个名为 [Floodgate](https://github.com/geoffdavis92/react-floodgate) 的小 React 组件来做这件事。
 
@@ -24,7 +24,7 @@ Floodgate 是一个组件，它利用[渲染道具](https://reactjs.org/docs/ren
 
 下面是我的 load more 功能的动画:
 
-[![A results page component switching between list and grid views, with certain sorting parameters in place, and a load more button](../Images/6b07650b64ccc7b6d5a7251b1770e7c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kRSjYUdy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/18jx0388xfzw7styclpi.gif)
+[![A results page component switching between list and grid views, with certain sorting parameters in place, and a load more button](img/6b07650b64ccc7b6d5a7251b1770e7c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kRSjYUdy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/18jx0388xfzw7styclpi.gif)
 
 您可以在我的 Github pages 站点上查看我为这个项目编写的代码实现[。](https://geoffdavis92.github.io/weekly-ui/)
 

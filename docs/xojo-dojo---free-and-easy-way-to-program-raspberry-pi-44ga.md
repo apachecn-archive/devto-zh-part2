@@ -6,9 +6,9 @@ Xojo Dojo 是一个在 Raspberry Pi 上开始编程的免费且简单的方法�
 
 [下载 Xojo 道场](http://cdn.xojo.com/Documentation/XojoDojo-a1.zip)
 
-[![](../Images/f45bf32297d1a1a4c0426d77b36865b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o6cx4-qh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dzf8vqv24eqhg.cloudfront.net/userfiles/1539/2321/ckfinder/images/XojoDojo.png)
+[![](img/f45bf32297d1a1a4c0426d77b36865b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--o6cx4-qh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dzf8vqv24eqhg.cloudfront.net/userfiles/1539/2321/ckfindimg/XojoDojo.png)
 
-[![](../Images/e00a8630f28db5674951cd99facbcca0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eXY3CVs6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dzf8vqv24eqhg.cloudfront.net/userfiles/1539/2321/ckfinder/images/XojoDojoDragonCode.png)
+[![](img/e00a8630f28db5674951cd99facbcca0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eXY3CVs6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dzf8vqv24eqhg.cloudfront.net/userfiles/1539/2321/ckfindimg/XojoDojoDragonCode.png)
 
 ## 开始使用
 
@@ -18,7 +18,7 @@ Xojo Dojo 是一个在 Raspberry Pi 上开始编程的免费且简单的方法�
 
 当 Xojo Dojo 启动时，它会显示一个代码编辑器的空窗口。
 
-[![](../Images/5922f48e4bdbae98b848f9238e27376e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SPFchfk6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dzf8vqv24eqhg.cloudfront.net/userfiles/1539/2321/ckfinder/images/XojoDojoMain.png)
+[![](img/5922f48e4bdbae98b848f9238e27376e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SPFchfk6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dzf8vqv24eqhg.cloudfront.net/userfiles/1539/2321/ckfindimg/XojoDojoMain.png)
 
 你可以输入一些代码开始。例如，这个简单的代码显示文本:
 

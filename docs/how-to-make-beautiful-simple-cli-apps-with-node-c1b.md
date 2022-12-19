@@ -51,7 +51,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 为此，我们可以使用 [Listr](https://github.com/SamVerschueren/listr) ，它允许我们做看起来像是:
 
-[![](../Images/f358c5f8bfba96050973dcaa470cf91a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6XvdIaAd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/HugoDF/fix-package-lock/master/fix-package-lock.gif)
+[![](img/f358c5f8bfba96050973dcaa470cf91a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6XvdIaAd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/HugoDF/fix-package-lock/master/fix-package-lock.gif)
 
 运行`npm install --save listr`并添加杠杆列表，如下所示:
 
@@ -82,7 +82,7 @@ new Listr([
 Enter fullscreen mode Exit fullscreen mode
 
 现在`node index.js`的输出看起来如下:
-[![`node index.js` output](../Images/f5685890537a3c8a582e54e210138fda.png)](/img/20180619-running-screenshot.jpeg)
+[![`node index.js` output](img/f5685890537a3c8a582e54e210138fda.png)](/img/20180619-running-screenshot.jpeg)
 
 [Listr](https://github.com/SamVerschueren/listr) 在你有一个返回承诺的
 长时间运行的任务时给你一个加载状态(就像`npm install`的`execa`调用)。

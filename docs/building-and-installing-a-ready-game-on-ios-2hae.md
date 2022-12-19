@@ -69,7 +69,7 @@ Unity 有一个免费层，只要你的新游戏利润不超过 10，000 美元�
 6.  在`Finder`中，转到目标文件夹并打开`Unity-iPhone.xcodeproj`，这将启动 Xcode。
 7.  在选择器的`Project navigator`(最左边的图标【文件夹】)中，选择`Unity-iPhone`
 
-[![Xcode Project Navigator](../Images/79004e7bccb2a8f13bbe9693ed9371c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TzBdXEIJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://booyaa.wtf/img/ready-001-xcode-project-navigator.png)
+[![Xcode Project Navigator](img/79004e7bccb2a8f13bbe9693ed9371c5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TzBdXEIJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://booyaa.wtf/img/ready-001-xcode-project-navigator.png)
 
 1.  在`Identity`部分，更新`Bundle Identifier`字段。重要提示:这必须是唯一的。
 2.  在`Signing`部分
@@ -77,11 +77,11 @@ Unity 有一个免费层，只要你的新游戏利润不超过 10，000 美元�
     2.  从下拉列表中选择您的`Team`
 3.  单击此图标修复任何警告
 
-[![Xcode warnings icon](../Images/78472213227cb3b88fa9d69be460ddb3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oEK3zce6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://booyaa.wtf/img/ready-002-warnings.png)
+[![Xcode warnings icon](img/78472213227cb3b88fa9d69be460ddb3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oEK3zce6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://booyaa.wtf/img/ready-002-warnings.png)
 
 1.  确保您的设备已连接并已从下拉列表中选择
 
-[![Xcode device selector](../Images/32ad3d9f099b48de5f374ff8ec5f03d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JDGXpa6Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://booyaa.wtf/img/ready-003-device.png)
+[![Xcode device selector](img/32ad3d9f099b48de5f374ff8ec5f03d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JDGXpa6Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://booyaa.wtf/img/ready-003-device.png)
 
 1.  解锁你的 iOS 设备，点击`Play`图标。这将需要一段时间，在编译过程中您也可能会看到警告。
 
@@ -93,7 +93,7 @@ Unity 有一个免费层，只要你的新游戏利润不超过 10，000 美元�
 
 在 iOS 11 中这个设置可以在`Settings` > `General` > `Profile & Device Management`中找到。选择`DEVELOPER APP`配置文件并信任证书。
 
-[![Xcode trust certificate on device dialogue](../Images/578bdeb46bee208556ac1ca1d0e8bd2b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--THzC-Z3i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://booyaa.wtf/img/ready-004-trust.png)
+[![Xcode trust certificate on device dialogue](img/578bdeb46bee208556ac1ca1d0e8bd2b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--THzC-Z3i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://booyaa.wtf/img/ready-004-trust.png)
 
 ## 参考文献
 

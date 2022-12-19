@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/prelias/automatizao-de-intalaes-b2f>
 
-[![](../Images/ebf27be9142a8b18a4a0470b6937b838.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PKSTTxC4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.especializati.com.br/wp-content/uploads/2017/05/chocolatey.png)
+[![](img/ebf27be9142a8b18a4a0470b6937b838.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PKSTTxC4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.especializati.com.br/wp-content/uploads/2017/05/chocolatey.png)
 
 随着 Windows 迁移到商店格式的应用程序，对于所有类型的用户和软件来说，我今天的提示可能不再有趣。但是，许多应用程序尚未分发，或者可能永远不会分发。
 

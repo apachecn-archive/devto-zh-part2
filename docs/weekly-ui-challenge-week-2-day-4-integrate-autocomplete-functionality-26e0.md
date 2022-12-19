@@ -12,13 +12,13 @@
 
 根据我创作的原始设计，这是我为第四天准备的:
 
-[![A search bar component, with input text element, autocomplete dropdown, and submit button](../Images/38043e3f5127425bedd066ac25811151.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xIuzcvmg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zwy2kqa1jm8oe2z0xrnl.jpg)
+[![A search bar component, with input text element, autocomplete dropdown, and submit button](img/38043e3f5127425bedd066ac25811151.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xIuzcvmg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zwy2kqa1jm8oe2z0xrnl.jpg)
 
 我的实现提供了一些音乐流派，就好像它被添加到了一个音乐博客或研究网站；我使用 PayPal 的[降档](https://github.com/paypal/downshift)库，由[肯特·多兹](https://twitter.com/kentcdodds)创建和编写，用于自动完成功能。我有一点麻烦让它完全工作，所以我的编码版本不是 100%漂亮，但它会完成工作！
 
 下面是自动完成功能的运行动画:
 
-[![An animation showing the search bar component in use, with text input to the input element, a button to trigger a search form submission, an autocomplete dropdown, and a logger display showing the output below](../Images/4390655b606a08c64f7013707ab8f3e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QcARXZfR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui-assets/master/search-bar/day4/w2d4-animation.gif)
+[![An animation showing the search bar component in use, with text input to the input element, a button to trigger a search form submission, an autocomplete dropdown, and a logger display showing the output below](img/4390655b606a08c64f7013707ab8f3e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QcARXZfR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui-assets/master/search-bar/day4/w2d4-animation.gif)
 
 ## 现在轮到你了
 

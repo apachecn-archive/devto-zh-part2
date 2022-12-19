@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/orliesaurus/email-authenticity-5h2d>
 
-[![Email Authenticity](../Images/01f9b6b6bc9f7532b26b78d52fca54c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KND4mPSV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/rkY895L.png)
+[![Email Authenticity](img/01f9b6b6bc9f7532b26b78d52fca54c0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KND4mPSV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/rkY895L.png)
 
 ## 什么是邮件真实性？
 

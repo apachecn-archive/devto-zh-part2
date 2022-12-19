@@ -4,7 +4,7 @@
 
 <figure>
 
-[![MOTD Match Stat's Animation Sequence](../Images/bb1beda79138fa9e36d3b5af542d4278.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7-zUzNv2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/deadlybyte/motd-css-animations/raw/master/motd-match-stats-animation.gif)
+[![MOTD Match Stat's Animation Sequence](img/bb1beda79138fa9e36d3b5af542d4278.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7-zUzNv2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/deadlybyte/motd-css-animations/raw/master/motd-match-stats-animation.gif)
 
 <figcaption><abbr title="Match of the Day">MOTD</abbr> Match Stats Animation</figcaption>
 

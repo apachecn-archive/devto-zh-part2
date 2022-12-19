@@ -6,7 +6,7 @@
 
 ## 给 50.00 美元以下程序员的廉价礼物
 
-[![](../Images/ade96387c644d92bd7421fa7bcd847a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z0ZIKLHj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ua1.us/wp-content/uploads/2018/02/leonardo-davinci-flying-machine-desk-accessory-195x300.jpg)
+[![](img/ade96387c644d92bd7421fa7bcd847a7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--z0ZIKLHj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ua1.us/wp-content/uploads/2018/02/leonardo-davinci-flying-machine-desk-accessory-195x300.jpg)
 
 **莱昂纳多·达芬奇飞行机器桌配件**
 
@@ -14,7 +14,7 @@
 
 [在亚马逊上购买](http://amzn.to/2BIFEpI)
 
-[![](../Images/79e9f933337a776d44c9e026291e5955.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ys2Ab-G---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ua1.us/wp-content/uploads/2018/02/crazy-aarons-thinking-putty.jpg)
+[![](img/79e9f933337a776d44c9e026291e5955.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ys2Ab-G---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ua1.us/wp-content/uploads/2018/02/crazy-aarons-thinking-putty.jpg)
 
 **思考油灰**
 
@@ -22,7 +22,7 @@ Thinking putty 供需要帮助思考问题的开发人员使用。不得不说�
 
 [在亚马逊上购买](http://amzn.to/2opU1qH)
 
-[![](../Images/bccdbbe44d66c59038b36dbd82b0acc6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4kip_H2p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ua1.us/wp-content/uploads/2018/02/zen-garden-desk-accessory.jpg)
+[![](img/bccdbbe44d66c59038b36dbd82b0acc6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4kip_H2p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ua1.us/wp-content/uploads/2018/02/zen-garden-desk-accessory.jpg)
 
 **禅园书桌配件**
 
@@ -30,7 +30,7 @@ Thinking putty 供需要帮助思考问题的开发人员使用。不得不说�
 
 [在亚马逊上购买](http://amzn.to/2EUC5yx)
 
-[![](../Images/6c9f7b5f6df95f361183172880b82146.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eZdg26E1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ua1.us/wp-content/uploads/2018/02/rubber-duck-debugger.jpg)
+[![](img/6c9f7b5f6df95f361183172880b82146.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eZdg26E1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ua1.us/wp-content/uploads/2018/02/rubber-duck-debugger.jpg)
 
 **橡皮鸭调试器**
 
@@ -38,7 +38,7 @@ Thinking putty 供需要帮助思考问题的开发人员使用。不得不说�
 
 [在亚马逊上购买](http://amzn.to/2sEIJUC)
 
-[![](../Images/3de968e75d1b38c2f8cdf8cec6233b0c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bTVoJWPL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ua1.us/wp-content/uploads/2018/02/earth-medals-3d-metal-models.jpg)
+[![](img/3de968e75d1b38c2f8cdf8cec6233b0c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bTVoJWPL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ua1.us/wp-content/uploads/2018/02/earth-medals-3d-metal-models.jpg)
 
 **地球金属 3D 金属模型**
 
@@ -48,7 +48,7 @@ Thinking putty 供需要帮助思考问题的开发人员使用。不得不说�
 
 ## 给程序员的礼物从 50.00 美元到 100.00 美元
 
-[![](../Images/0a4919782d3829e52e5baec5432138ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hJEHYCyB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ua1.us/wp-content/uploads/2018/02/7pin-backlit-gaming-keyboard.jpg)
+[![](img/0a4919782d3829e52e5baec5432138ee.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hJEHYCyB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ua1.us/wp-content/uploads/2018/02/7pin-backlit-gaming-keyboard.jpg)
 
 **7 针 LED 背光游戏键盘**
 
@@ -56,7 +56,7 @@ Thinking putty 供需要帮助思考问题的开发人员使用。不得不说�
 
 [在亚马逊上购买](http://amzn.to/2olzkNp)
 
-[![](../Images/9d6da85985aa2b648ae0521feec37bd9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2HcrDXy2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ua1.us/wp-content/uploads/2018/02/standing-desk-mat.jpg)
+[![](img/9d6da85985aa2b648ae0521feec37bd9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2HcrDXy2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ua1.us/wp-content/uploads/2018/02/standing-desk-mat.jpg)
 
 **站立书桌抗疲劳站立垫**
 
@@ -64,7 +64,7 @@ Thinking putty 供需要帮助思考问题的开发人员使用。不得不说�
 
 [在亚马逊上购买](http://amzn.to/2sO14im)
 
-[![](../Images/984f90d7b2e763ebb2eb231a689d4dfc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5M9-LlGk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ua1.us/wp-content/uploads/2018/02/ecosphere-closed-aquatic-ecosystem.jpg)
+[![](img/984f90d7b2e763ebb2eb231a689d4dfc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5M9-LlGk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ua1.us/wp-content/uploads/2018/02/ecosphere-closed-aquatic-ecosystem.jpg)
 
 **全封闭水生生态系统**
 
@@ -72,7 +72,7 @@ Thinking putty 供需要帮助思考问题的开发人员使用。不得不说�
 
 [在亚马逊上购买](http://amzn.to/2sLEM0w)
 
-[![](../Images/473606432ea3b1a1df2941b6238de611.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--32LAg89e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ua1.us/wp-content/uploads/2018/02/miawheels-adjustable-and-foldable-scooter.jpg)
+[![](img/473606432ea3b1a1df2941b6238de611.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--32LAg89e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ua1.us/wp-content/uploads/2018/02/miawheels-adjustable-and-foldable-scooter.jpg)
 
 **MiaWheels 全可调可折叠踏板车**
 
@@ -82,7 +82,7 @@ Thinking putty 供需要帮助思考问题的开发人员使用。不得不说�
 
 ## 价值 100 美元以上的昂贵礼物送给程序员
 
-[![](../Images/f266cb318155a46e998916c17ccb74e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T5QBcnP3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ua1.us/wp-content/uploads/2018/02/lego-millennium-falcon-toy.jpg)
+[![](img/f266cb318155a46e998916c17ccb74e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T5QBcnP3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ua1.us/wp-content/uploads/2018/02/lego-millennium-falcon-toy.jpg)
 
 **乐高星球大战千年隼套装**
 
@@ -90,7 +90,7 @@ Thinking putty 供需要帮助思考问题的开发人员使用。不得不说�
 
 [在亚马逊上购买](http://amzn.to/2BKhL0Y)
 
-[![](../Images/a27337556530c1508781a92a52477f44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IHtnoKMR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ua1.us/wp-content/uploads/2018/02/halter-standing-desk.jpg)
+[![](img/a27337556530c1508781a92a52477f44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IHtnoKMR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ua1.us/wp-content/uploads/2018/02/halter-standing-desk.jpg)
 
 **桌面站立桌**
 
@@ -98,7 +98,7 @@ Thinking putty 供需要帮助思考问题的开发人员使用。不得不说�
 
 [在亚马逊上购买](http://amzn.to/2oqmgq3)
 
-[![](../Images/06da0a0567b50b8074aa2a9f02333b72.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ien58knZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ua1.us/wp-content/uploads/2018/02/jelly-fish-aquarium.jpg)
+[![](img/06da0a0567b50b8074aa2a9f02333b72.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ien58knZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ua1.us/wp-content/uploads/2018/02/jelly-fish-aquarium.jpg)
 
 **办公桌上的水母鱼缸**
 
@@ -106,7 +106,7 @@ Thinking putty 供需要帮助思考问题的开发人员使用。不得不说�
 
 [在亚马逊上购买](http://amzn.to/2Fnwui0)
 
-[![](../Images/a86992f920acd4491cf784cca2f2d0f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5Np9GzuM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ua1.us/wp-content/uploads/2018/02/azio-retro-typewriter-inspired-mechanical-meyboard.jpg)
+[![](img/a86992f920acd4491cf784cca2f2d0f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5Np9GzuM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://ua1.us/wp-content/uploads/2018/02/azio-retro-typewriter-inspired-mechanical-meyboard.jpg)
 
 **Azio 复古打字机灵感机械键盘**
 

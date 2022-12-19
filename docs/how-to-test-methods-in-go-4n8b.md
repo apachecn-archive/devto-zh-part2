@@ -74,7 +74,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 PPS。请随意检查我的回购
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [拉德林斯基](https://github.com/radlinskii) / [围棋场](https://github.com/radlinskii/go-playground)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [拉德林斯基](https://github.com/radlinskii) / [围棋场](https://github.com/radlinskii/go-playground)
 
 ### 创建存储库是为了和 Golang 一起玩。
 
@@ -82,7 +82,7 @@ PPS。请随意检查我的回购
 
 # 去游乐场
 
-[![Build Status](../Images/f9a08c7ee69f1a725e57e6b66cdedb19.png)](https://travis-ci.com/radlinskii/go-playground)[![GoDoc](../Images/bf166df6f799087994fd5dc11c9d9d2c.png)](https://godoc.org/github.com/radlinskii/go-playground)[![Go Report Card](../Images/c457fdae6c11b8f26916052a9d46abc6.png)](https://goreportcard.com/report/github.com/radlinskii/go-playground)[![gopherbadger-tag-do-not-edit](../Images/a225045c09042918c8acc6ddf2f74315.png)T11】](https://github.com/jpoles1/gopherbadger)
+[![Build Status](img/f9a08c7ee69f1a725e57e6b66cdedb19.png)](https://travis-ci.com/radlinskii/go-playground)[![GoDoc](img/bf166df6f799087994fd5dc11c9d9d2c.png)](https://godoc.org/github.com/radlinskii/go-playground)[![Go Report Card](img/c457fdae6c11b8f26916052a9d46abc6.png)](https://goreportcard.com/report/github.com/radlinskii/go-playground)[![gopherbadger-tag-do-not-edit](img/a225045c09042918c8acc6ddf2f74315.png)T11】](https://github.com/jpoles1/gopherbadger)
 
 创建存储库是为了和 Golang 一起玩。
 

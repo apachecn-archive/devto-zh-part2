@@ -46,7 +46,7 @@
 
 作为一个例子，[函数式编程库 Ramda](https://ramdajs.com/docs/) 为它的 API 提供了很好的文档，包括一个 REPL，它允许你在浏览器中运行例子和使用这个库！
 
-[![](../Images/a9a5705628c7c22131ca0aa0af196346.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UW_tIoAE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.coreycleary.me/wp-content/uploads/2018/10/Screen-Shot-2018-10-04-at-7.02.30-AM.png)
+[![](img/a9a5705628c7c22131ca0aa0af196346.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UW_tIoAE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.coreycleary.me/wp-content/uploads/2018/10/Screen-Shot-2018-10-04-at-7.02.30-AM.png)
 
 学习存储库不仅仅是为了更好地读/写代码，也是为了更好地写文档。好的项目会有好的文档范例，你可以用它们来记录你的项目。
 
@@ -108,7 +108,7 @@ it('should filter the object', () => { ... })
 
 如果不再维护，你*可能*会遇到一些事情不工作的问题，这可能会影响你对项目如何工作的理解。通常情况下，实际上并不是这样——毕竟它应该是有效的——但是要记住。
 
-[![](../Images/4e63fa40cd69630abe145883b051e548.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--e2nvgIn4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.coreycleary.me/wp-content/uploads/2018/10/Screen-Shot-2018-10-09-at-6.58.07-PM.png) 
+[![](img/4e63fa40cd69630abe145883b051e548.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--e2nvgIn4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.coreycleary.me/wp-content/uploads/2018/10/Screen-Shot-2018-10-09-at-6.58.07-PM.png) 
 同样，如果一个项目有许多未解决的问题，这不应该取消它的资格，但是通过在问题的第一页进行一分钟的快速搜索，你应该能够判断这些是否只是来自社区的许多想法，来自用户的问题，或者如果项目实际上有许多真正的错误，会使你的研究更加困难。
 
 当然，如果一个项目在现实世界中被使用，它已经被证明是有效的，并且真正的 bug 的存在也不会真正成为一个障碍。

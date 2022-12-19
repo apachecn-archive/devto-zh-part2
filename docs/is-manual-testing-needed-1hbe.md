@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/henrikwarne/is-manual-testing-needed-1hbe>
 
-在过去的几年里，我听到许多人提倡只使用自动测试。例如，如果所有的自动测试都通过了，那么代码就应该被自动部署到生产中。在对我的代码感到自信之前，我总是进行一些手工测试。因此，在过去的一年里，我格外关注手动测试自己代码时发现的错误。我的结论是:仍然需要手工测试。[![](../Images/36138e5fc617ac2af513bd279b3e029e.png)T2】](https://henrikwarne1.files.wordpress.com/2018/05/dscf5112.jpg)
+在过去的几年里，我听到许多人提倡只使用自动测试。例如，如果所有的自动测试都通过了，那么代码就应该被自动部署到生产中。在对我的代码感到自信之前，我总是进行一些手工测试。因此，在过去的一年里，我格外关注手动测试自己代码时发现的错误。我的结论是:仍然需要手工测试。[![](img/36138e5fc617ac2af513bd279b3e029e.png)T2】](https://henrikwarne1.files.wordpress.com/2018/05/dscf5112.jpg)
 
 ### 我是如何测试的
 
@@ -40,7 +40,7 @@
 
 伊丽莎白·亨德里克森也有同样的经历。早在探索它！她引用(并同意)一位同事的评论:“*不管我们写了多少测试，不管我们执行了多少案例，我们总是在偏离脚本的时候发现最严重的错误*”。这也是我的经历。
 
-[![](../Images/edb90925ea7d4c1f8994179d079e0af0.png)T2】](https://henrikwarne1.files.wordpress.com/2018/05/dsc_6493.jpg)
+[![](img/edb90925ea7d4c1f8994179d079e0af0.png)T2】](https://henrikwarne1.files.wordpress.com/2018/05/dsc_6493.jpg)
 
 ### 备注
 

@@ -12,7 +12,7 @@
 
 极限编程(XP)和测试驱动开发(TDD)的开发者 Kent Beck 在 20 世纪 90 年代末提出了简单软件设计的四条规则， [Martin Fowler](https://martinfowler.com/) 这样表述:
 
-[![BeckDesignRules](../Images/73dd36715c0185f3831823bfb362d2f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q4yxPRtY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cleandatabase.files.wordpress.com/2018/06/beckdesignrules.png%3Fw%3D676)
+[![BeckDesignRules](img/73dd36715c0185f3831823bfb362d2f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--q4yxPRtY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cleandatabase.files.wordpress.com/2018/06/beckdesignrules.png%3Fw%3D676)
 
 Martin 在他的文章中对“ [BeckDesignRules](https://martinfowler.com/bliki/BeckDesignRules.html) ”做了一个很好的、容易理解的描述，这也是上图的来源。
 
@@ -30,7 +30,7 @@ Martin 在他的文章中对“ [BeckDesignRules](https://martinfowler.com/bliki
 
 毕竟，我们的软件是为了解决一个特定的问题而存在的，这个问题很可能是一个商业问题。不管我们使用哪种敏捷方法、哪种数据库管理系统或哪种语言，如果没有关于问题及其环境的知识，我们解决问题的机会最多也是有限的。
 
-[![A rewrite will end up with the same problems as the original unless you close the understanding gap](../Images/01d1fe105363891b8dd26c6b1523b2a7.png)T2】](https://twitter.com/PeterHilton/status/1006928030240071680?ref_src=twsrc%5Etfw)
+[![A rewrite will end up with the same problems as the original unless you close the understanding gap](img/01d1fe105363891b8dd26c6b1523b2a7.png)T2】](https://twitter.com/PeterHilton/status/1006928030240071680?ref_src=twsrc%5Etfw)
 
 作为开发人员，我们最重要的任务之一就是消除这些理解上的差距，了解问题的领域。
 
@@ -205,7 +205,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这也取决于开发者的经验。关于公司文化。已经存在的软件的质量。
 
-[![sarahmei_sw_design](../Images/904da40d194eb2c4fa2b3b321551f984.png)T2】](https://twitter.com/sarahmei/status/999799423453487104)
+[![sarahmei_sw_design](img/904da40d194eb2c4fa2b3b321551f984.png)T2】](https://twitter.com/sarahmei/status/999799423453487104)
 
 我非常喜欢这句话，因为它很实用，没有我们在科技行业经常看到的那种神秘的精英主义态度。
 
@@ -213,6 +213,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 伟大的软件设计，首先拥抱[慈悲的代码](https://medium.com/compassionate-coding/what-does-compassion-have-to-do-with-coding-f65b6922a6ff)。
 
-[![Compassionate code minimizes suffering for the people writing it, reading it, using it, and even being indirectly affected by it.](../Images/98b0827e5744c752c5be85908b7bcd67.png)T2】](https://twitter.com/aprilwensel/status/1004008046840827904?ref_src=twsrc%5Etfw)
+[![Compassionate code minimizes suffering for the people writing it, reading it, using it, and even being indirectly affected by it.](img/98b0827e5744c752c5be85908b7bcd67.png)T2】](https://twitter.com/aprilwensel/status/1004008046840827904?ref_src=twsrc%5Etfw)
 
 我会很高兴地一步步走向那个目标。

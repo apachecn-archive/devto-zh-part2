@@ -8,33 +8,33 @@
 
 您可以在 Github repo 中找到所有这些实现以及更多内容:
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) [阿梅加罗萨里奥](https://github.com/amejiarosario)/[DSA . js-数据-结构-算法-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) [阿梅加罗萨里奥](https://github.com/amejiarosario)/[DSA . js-数据-结构-算法-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)
 
 ### 🥞JavaScript + eBook 中解释和实现的数据结构和算法
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-[![image](../Images/56b5d4dbac1233ee93c5155b15079c68.png)T2】](https://user-images.githubusercontent.com/418605/59557258-10742880-8fa3-11e9-84fb-4d66a9d89faa.png)
+[![image](img/56b5d4dbac1233ee93c5155b15079c68.png)T2】](https://user-images.githubusercontent.com/418605/59557258-10742880-8fa3-11e9-84fb-4d66a9d89faa.png)
 
 # JavaScript 中的数据结构和算法
 
-[![CircleCI](../Images/d5922fc0cbf322196a6f5e893fcfcf37.png)](https://app.circleci.com/pipelines/github/amejiarosario/dsa.js-data-structures-algorithms-javascript)[![NPM version](../Images/2c26fb04f41469582f423d88af92342e.png)](https://badge.fury.io/js/dsa.js)[![chat](../Images/e028ff0be0803e8e9dbdd25d5a8c6ca4.png)](https://dsajs-slackin.herokuapp.com)
+[![CircleCI](img/d5922fc0cbf322196a6f5e893fcfcf37.png)](https://app.circleci.com/pipelines/github/amejiarosario/dsa.js-data-structures-algorithms-javascript)[![NPM version](img/2c26fb04f41469582f423d88af92342e.png)](https://badge.fury.io/js/dsa.js)[![chat](img/e028ff0be0803e8e9dbdd25d5a8c6ca4.png)](https://dsajs-slackin.herokuapp.com)
 
 > 这是 DSA.js book 的编码实现和 NPM 包的回购。
 
 > 在这个库中，您可以找到 JavaScript 中算法和数据结构的实现。这些材料可以作为开发人员的参考手册，或者您可以在面试前刷新特定主题。还有，你可以找到更高效解决问题的思路。
 
-[![Interactive Data Structures](../Images/8f63557fae7adb265acdf574fa489c65.png)T2】](https://user-images.githubusercontent.com/418605/46118890-ba721180-c1d6-11e8-82bc-6a671428b422.png)
+[![Interactive Data Structures](img/8f63557fae7adb265acdf574fa489c65.png)T2】](https://user-images.githubusercontent.com/418605/46118890-ba721180-c1d6-11e8-82bc-6a671428b422.png)
 
 ## 目录
 
 *   [安装](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#installation)
 *   [特性](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#features)
 *   [里面有什么](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#whats-inside)
-    *   [<g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>算法分析](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#-algorithms-analysis)
-    *   [<g-emoji class="g-emoji" alias="pancakes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f95e.png">🥞</g-emoji>线性数据结构](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#-linear-data-structures)
-    *   [<g-emoji class="g-emoji" alias="evergreen_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f332.png">🌲</g-emoji>非线性数据结构](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#-non-linear-data-structures)
-    *   [<g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png">⚒</g-emoji> 算法技巧](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#%E2%9A%92-algorithms-techniques)
+    *   [<g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f4c8.png">📈</g-emoji>算法分析](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#-algorithms-analysis)
+    *   [<g-emoji class="g-emoji" alias="pancakes" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f95e.png">🥞</g-emoji>线性数据结构](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#-linear-data-structures)
+    *   [<g-emoji class="g-emoji" alias="evergreen_tree" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/1f332.png">🌲</g-emoji>非线性数据结构](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#-non-linear-data-structures)
+    *   [<g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.cimg/icons/emoji/unicode/2692.png">⚒</g-emoji> 算法技巧](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#%E2%9A%92-algorithms-techniques)
 *   [预定](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#book)
 *   [常见问题解答](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#faq)
 *   [支持](https://raw.githubusercontent.com/amejiarosario/dsa.js-data-structures-algorithms-javascript/master/#support)
@@ -74,7 +74,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 正如在[上一篇文章](https://dev.to/amejiarosario/tree-data-structures-explained-with-javascript-1d7d)中所讨论的，对于 BST 来说，最糟糕的噩梦就是按顺序给出数字(例如，1、2、3、4、5、6、7、...).
 
-[![](../Images/818f4a0751a3a1de3ce4ed39bba5e90e.png "Balanced vs unbalanced Tree")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--alv7RLsf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.com/images/balanced-vs-non-balanced-tree.jpg)
+[![](img/818f4a0751a3a1de3ce4ed39bba5e90e.png "Balanced vs unbalanced Tree")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--alv7RLsf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.cimg/balanced-vs-non-balanced-tree.jpg)
 
 如果我们最终得到一棵像左边这样的树，我们就有麻烦了，因为性能会下降。为了确定一个节点是否在树上，当树不平衡时，你必须访问每个节点。这需要 *O(n)* ，而如果我们在每次插入或删除时保持节点平衡，我们可以得到 *O(log n)* 。
 
@@ -86,7 +86,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 看一看下面的树，并告诉哪一个是平衡的，哪一个是不平衡的。
 
-[![](../Images/874ace5a4d7683f1a5a24bd2874fe41f.png "Full vs. Complete vs. Perfect Binary Tree")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1C4dgmyL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.com/images/full-complete-perfect-binary-tree.jpg)
+[![](img/874ace5a4d7683f1a5a24bd2874fe41f.png "Full vs. Complete vs. Perfect Binary Tree")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1C4dgmyL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://adrianmejia.cimg/full-complete-perfect-binary-tree.jpg)
 
 当一棵树是一棵完美的树时，它绝对是平衡的(树上的所有层次都有最大数量的节点)。但是
 [全树](https://adrianmejia.com/blog/2018/06/11/data-structures-for-beginners-trees-binary-search-tree-tutorial/#Full-Complete-and-Perfect-binary-trees)或者[全树](https://adrianmejia.com/blog/2018/06/11/data-structures-for-beginners-trees-binary-search-tree-tutorial/#Full-Complete-and-Perfect-binary-trees)呢？
@@ -181,7 +181,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 为了在节点`1`上执行左旋转，我们将其向下移动，因为它是子节点(`2` ) **的左**后代。
 
-[![](../Images/285a5e7ced525bae9275762d4574c814.png "Left rotate on 2")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OpFaWwUk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://adrianmejia.com/images/left-rotation2.gif)
+[![](img/285a5e7ced525bae9275762d4574c814.png "Left rotate on 2")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OpFaWwUk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://adrianmejia.cimg/left-rotation2.gif)
 
 这叫做**单次左转**或**左-左(LL)旋转**。
 
@@ -279,7 +279,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 为了在节点`3`上执行右旋转，我们将其作为其子节点`2`的**右**后代向下移动。
 
-[![](../Images/49d425e0568ed2eafa849b4a5164cca6.png "Right rotate on 2")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xuFP7aR5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://adrianmejia.com/images/right-rotation2.gif)
+[![](img/49d425e0568ed2eafa849b4a5164cca6.png "Right rotate on 2")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xuFP7aR5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://adrianmejia.cimg/right-rotation2.gif)
 
 这叫做**单右旋转**或**右-右(RR)旋转**。
 
@@ -343,7 +343,7 @@ Enter fullscreen mode Exit fullscreen mode
 *   左旋转(1):我们对节点的左子节点进行左旋转。如`1`。
 *   右旋转(3):在同一节点上右旋转。如`3`。
 
-[![](../Images/175986f403c0ea8b1c7f1ec08a3926ee.png "Left-Right rotate on 2")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NmlEIyQr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://adrianmejia.com/images/left-right-rotation.gif)
+[![](img/175986f403c0ea8b1c7f1ec08a3926ee.png "Left-Right rotate on 2")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NmlEIyQr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://adrianmejia.cimg/left-right-rotation.gif)
 
 这种双重旋转称为**左右(LR)旋转**。
 
@@ -579,7 +579,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在下面的动画中，我们可以看到 AVL 树的插入和删除操作:
 
-[![](../Images/9a0ca9f3432202e68a5d788187a1169b.png "AVL tree insertions and deletions")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i9zSzbsk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://adrianmejia.com/images/avl-tree-insert-remove.gif)
+[![](img/9a0ca9f3432202e68a5d788187a1169b.png "AVL tree insertions and deletions")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--i9zSzbsk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://adrianmejia.cimg/avl-tree-insert-remove.gif)
 
 你也可以查看
 [测试文件](https://github.com/amejiarosario/dsa.js/blob/master/src/data-structures/trees/avl-tree.spec.js)

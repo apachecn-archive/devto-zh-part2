@@ -4,7 +4,7 @@
 
 # *谈判艰难。*
 
-[![](../Images/757c39ecc547de8d930895c6153e64eb.png)](//hyperurl.co/pursuitpod) 
+[![](img/757c39ecc547de8d930895c6153e64eb.png)](//hyperurl.co/pursuitpod) 
 *艺人:[@ neon interns](https://twitter.com/NeonLanterns)*
 
 我在[追求播客](https://twitter.com/pursuitpod)上与[格洛丽亚·金瓦拉](https://twitter.com/gkimbwala)和[杰西卡·罗斯](https://twitter.com/jesslynnrose)就工作机会和谈判策略的各个方面进行了愉快的交谈！

@@ -17,7 +17,7 @@
 于是，我们注册了 20 个其他工具，试了试，甚至没有开始作为一个团队使用，还有一个吸引了我们的注意力:[概念](http://notion.so)。
 值得注意的是，我是一个早期采用者，所以我在我的工作区永远免费获得了 Premium，但从那以后我没有频繁使用它。它就在我的浏览器里，然后这个更新在 3 月 20 日出来了:[观念 v2.0](https://www.notion.so/dakai/What-s-New-157765353f2c4705bd45474e5ba8b46c)
 
-[![Look how cool it looks!](../Images/f2395c4e43917817079d92207c3eef6f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fR4IMBsM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://static.notion-static.com/d4e42867-f45f-45b3-8327-46c19fe89b0b/peek-view.gif)
+[![Look how cool it looks!](img/f2395c4e43917817079d92207c3eef6f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fR4IMBsM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://static.notion-static.com/d4e42867-f45f-45b3-8327-46c19fe89b0b/peek-view.gif)
 
 对于喜欢它的队友来说，这有点像 trello，但你可以添加任何标签，按任何内容过滤，在 trello 项目中添加页面，你可以在其中添加 Trello 项目。
 (我不会继续，但我们可以进入一个无限循环，并最终杀死概念的服务器)
@@ -35,7 +35,7 @@
 
 我们自己的邮件服务器最糟糕。网络邮件的用户界面很糟糕。就像我们被困在 80 年代。看:
 
-[![Some horror movie beginning](../Images/bdfb8e14ad4e26242536041b6544fd1d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tG3Ueerf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.ostechnix.com/wp-content/uploads/2013/02/05.png)
+[![Some horror movie beginning](img/bdfb8e14ad4e26242536041b6544fd1d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tG3Ueerf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.ostechnix.com/wp-content/uploads/2013/02/05.png)
 
 谁需要这样的东西？我不确定，不会在 2018 年，所以我们只是悄悄地传递这个选项，我们还有一个工具可以尝试:Zoho。
 

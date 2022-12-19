@@ -34,7 +34,7 @@
 
 <figure>
 
-[![](../Images/a21a05d0f30ba7fe0e38c701535583ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bil9D37q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/C7fPZDoQzOaVNjfUplvd)
+[![](img/a21a05d0f30ba7fe0e38c701535583ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bil9D37q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/C7fPZDoQzOaVNjfUplvd)
 
 <figcaption>Source: https://baremetrics.com/startup-calculator</figcaption>
 
@@ -54,7 +54,7 @@
 
 <figure>
 
-[![](../Images/6b78a1d0dd1f44e6cd126f2c69380135.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FEDepv_1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/dWFDQ1rgRq2a3JAtjdok)
+[![](img/6b78a1d0dd1f44e6cd126f2c69380135.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FEDepv_1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/dWFDQ1rgRq2a3JAtjdok)
 
 <figcaption>Source: https://baremetrics.com/startup-calculator</figcaption>
 
@@ -143,7 +143,7 @@ CMS 是微服务(或一组微服务)的完美例子，对大多数企业来说�
 
 <figure>
 
-[![](../Images/76cb8c42ae64075bc78a1cb00a4336aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5SINWB5p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/dwJJBJeVSoGKutu0Yx3d)
+[![](img/76cb8c42ae64075bc78a1cb00a4336aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5SINWB5p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/dwJJBJeVSoGKutu0Yx3d)
 
 <figcaption>Source: https://baremetrics.com/startup-calculator</figcaption>
 

@@ -37,7 +37,7 @@ Enter fullscreen mode Exit fullscreen mode
 2.  打开该文件，删除 React 引用，并替换为`import { h } from "preact";`
 3.  剩下要做的就是运行`npm run storybook`并在浏览器中导航到 Storybook。
 
-[![Storybook in action](../Images/54c32b9ff04db491e29bcc76dfc3801a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Znl3XWGN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wfth0zitsjm9fv9g5vlu.gif)
+[![Storybook in action](img/54c32b9ff04db491e29bcc76dfc3801a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Znl3XWGN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wfth0zitsjm9fv9g5vlu.gif)
 
 ## 加贺
 

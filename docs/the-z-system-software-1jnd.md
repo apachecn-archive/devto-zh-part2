@@ -24,7 +24,7 @@
 
 [我们的 Github 文档](https://github.com/subor/sdk/blob/master/docs/README.md)有一个粗略的[平台图](https://github.com/subor/sdk/blob/master/docs/topics/layer0.md)但是我们需要用一些更详细和准确的东西来更新它:
 
-[![](../Images/47bf48570311d24cad8a5a78562e1038.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tvvcszdR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/zplus_arch.png)
+[![](img/47bf48570311d24cad8a5a78562e1038.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--tvvcszdR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rendered-obsolete.github.io/assets/zplus_arch.png)
 
 机器运行 Windows 10 物联网企业版(与“[物联网核心](https://docs.microsoft.com/en-us/windows/iot-core/windows-iot-core)”无关，令人困惑)。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/mkhy19/stack---data-structure-59h1>
 
-[![Alt Stack](../Images/30d0879f18d8da1f06b28ea54efc7b99.png "Stack")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zNqUWiCd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/mohamedkhaledyousef/Crash-courses/blob/master/img/stack.jpeg%3Fraw%3Dtrue)
+[![Alt Stack](img/30d0879f18d8da1f06b28ea54efc7b99.png "Stack")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zNqUWiCd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/mohamedkhaledyousef/Crash-courses/blob/master/img/stack.jpeg%3Fraw%3Dtrue)
 
 ## 堆栈是一种数据结构，有时被称为 LIFO(后进先出)，这意味着添加到堆栈中的最后一个元素必须是从堆栈中移除的第一个元素。
 

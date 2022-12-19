@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/vladusenko48/serverless-pain-1j67>
 
-[![Lambda](../Images/cbf075d23520a44e1dfb3d1b8a24796d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SUxbrHAN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nwxhgsirvw31elanugpb.png)
+[![Lambda](img/cbf075d23520a44e1dfb3d1b8a24796d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SUxbrHAN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nwxhgsirvw31elanugpb.png)
 
 原贴[此处](https://medium.com/@vu4848/serverless-pain-ab5547d6b122)。
 
@@ -58,7 +58,7 @@ DynamoDB 是一个无限可伸缩的 NoSQL 数据库。至少他们这么说。�
 
 大家是怎么解决这个冷启动问题的？他们给羊肉保暖！所以他们在某个地方有一个 cron 作业，不时地触发他们的 lambdas，以防止 AWS 关闭容器。
 
-> ![](../Images/41431a2f929af05551b94a7343cf3bcd.png)凯尔西·海托华@凯尔西·海托华![](../Images/4d9c44713c216584b3d48ff3455cbb68.png)人们真的每隔 5 分钟就关闭他们的无服务器功能以避免冷启动吗？我认为扩展到零，只为你使用的东西付费是主要卖点。[serverless.com/blog/keep-your…](https://t.co/kjG3LsXPwN)2018 年 7 月 30 日下午 18:09![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1023994078873047040)261[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1023994078873047040)858
+> ![](img/41431a2f929af05551b94a7343cf3bcd.png)凯尔西·海托华@凯尔西·海托华![](img/4d9c44713c216584b3d48ff3455cbb68.png)人们真的每隔 5 分钟就关闭他们的无服务器功能以避免冷启动吗？我认为扩展到零，只为你使用的东西付费是主要卖点。[serverless.com/blog/keep-your…](https://t.co/kjG3LsXPwN)2018 年 7 月 30 日下午 18:09![Twitter reply action](img/269095962147c28351274afdd5486a48.png)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1023994078873047040)261[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1023994078873047040)858
 
 嗯，听起来是不是你实际上最终会考虑底层基础设施？
 

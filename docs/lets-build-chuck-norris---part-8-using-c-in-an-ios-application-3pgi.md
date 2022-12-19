@@ -87,15 +87,15 @@ Enter fullscreen mode Exit fullscreen mode
 
 打开方案编辑器:
 
-[![edit the testing scheme](../Images/a7d3ff2df97d3409a78aa455d4ff4a5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JhPA1KQB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/xcode/manage-schemes.png)
+[![edit the testing scheme](img/a7d3ff2df97d3409a78aa455d4ff4a5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JhPA1KQB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/xcode/manage-schemes.png)
 
 显示测试方案:
 
-[![show test scheme](../Images/4b8c375628fa1d1a3b98c482ed8635f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6O6jt1kA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/xcode/show-test-scheme.png)
+[![show test scheme](img/4b8c375628fa1d1a3b98c482ed8635f1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6O6jt1kA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/xcode/show-test-scheme.png)
 
 点击底部的`+`按钮，选择测试目标。
 
-[![choose the test target](../Images/81a0ab9aa4cef8cf628af5b4eaaca14e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NJrgiTMB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/xcode/choose-test-target.png)
+[![choose the test target](img/81a0ab9aa4cef8cf628af5b4eaaca14e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NJrgiTMB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/xcode/choose-test-target.png)
 
 这一次我们得到了另一个错误消息:
 
@@ -107,7 +107,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在“常规”下编辑项目设置，并将宿主应用程序表单“自定义”切换到“无”:
 
-[![select test host](../Images/8b0ea1a39b1cbcaffdb4422aedcb9d2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iuSQutek--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/xcode/select-test-host-app.png)
+[![select test host](img/8b0ea1a39b1cbcaffdb4422aedcb9d2f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iuSQutek--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/xcode/select-test-host-app.png)
 
 它起作用了:模拟器启动，测试运行。
 
@@ -360,13 +360,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们从 Xcode 创建 Objective-C 应用程序。
 
-[![Creating Xcode project](../Images/48e99ca880f3f0126ae4f2e4e2f12d8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UecKekOH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/xcode/create-project.png)
+[![Creating Xcode project](img/48e99ca880f3f0126ae4f2e4e2f12d8e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UecKekOH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/xcode/create-project.png)
 
 然后，我们编辑主故事板，添加一个堆栈视图、一个文本字段和一个按钮:
 
 我们将组件从 designer 视图拖放到代码中，同时按住`ctrl`键。
 
-[![Using the assistant](../Images/770dffd06c2be9030fdab717ad57460f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yDSGD2-2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/xcode/assistant-editor.png)
+[![Using the assistant](img/770dffd06c2be9030fdab717ad57460f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yDSGD2-2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/xcode/assistant-editor.png)
 
 现在，我们只要在点击按钮时将文本视图设置为字符串`Hello`:
 
@@ -434,7 +434,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们现在可以在模拟器中运行应用程序:
 
-[![ChuckNorris application on a simulator](../Images/cbae79e05b1e8f32dcf0b71dab81b4af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pMWwkEBh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/xcode/simulator.png)
+[![ChuckNorris application on a simulator](img/cbae79e05b1e8f32dcf0b71dab81b4af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pMWwkEBh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/xcode/simulator.png)
 
 耶！
 
@@ -526,7 +526,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们用`pod update --ro-repo-update`重新生成 Xcode 项目。这一次“存档”步骤没有触发任何错误，我们面对的是这样一个窗口:
 
-[![xcode archive output](../Images/7eb08f0b5a3bb0ccbd6deec48f936045.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aEl2_wBU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/xcode/archive.png)
+[![xcode archive output](img/7eb08f0b5a3bb0ccbd6deec48f936045.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aEl2_wBU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/xcode/archive.png)
 
 # 签约存档
 
@@ -541,7 +541,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 下面是结果(取自我那蹩脚的安卓手机):
 
-[![ChuckNorris running on a real device](../Images/911192178fcecf2104119474204b2d78.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ez2cbwUa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/xcode/victory.jpg)
+[![ChuckNorris running on a real device](img/911192178fcecf2104119474204b2d78.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ez2cbwUa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dmerej.info/blog/pics/xcode/victory.jpg)
 
 胜利！
 

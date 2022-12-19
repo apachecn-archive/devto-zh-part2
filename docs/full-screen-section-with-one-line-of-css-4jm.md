@@ -8,7 +8,7 @@
 
 *   所以 WTF 就是 vh？？？
 
-[![](../Images/d3f1a25a6007489072f751e7a4ef6d29.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rjsxbt0E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/1%2AWXGxBTgA7igKKyd3Pq9aWQ.jpeg)
+[![](img/d3f1a25a6007489072f751e7a4ef6d29.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rjsxbt0E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/1%2AWXGxBTgA7igKKyd3Pq9aWQ.jpeg)
 
 根据 MDN 文档:
 
@@ -28,6 +28,6 @@
 
 感谢你阅读❤️️❤️️，我想接下来应该是……
 
-[![](../Images/c27dcc0ae5f267a0359664620847f0e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uFBrkx5Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/220/1%2AGK6G_LKVxtMAKN7fepRpcA.gif)
+[![](img/c27dcc0ae5f267a0359664620847f0e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uFBrkx5Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/220/1%2AGK6G_LKVxtMAKN7fepRpcA.gif)
 
 * * *

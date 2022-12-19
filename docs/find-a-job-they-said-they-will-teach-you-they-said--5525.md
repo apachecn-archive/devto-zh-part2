@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/k1pash/find-a-job-they-said-they-will-teach-you-they-said--5525>
 
-[![The job you and I not getting](../Images/0d5e0c3571e2940d6c8cb200d56b4c50.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QpMBIV-E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/upbmtn9ig1xuil6wdjvr.jpg)
+[![The job you and I not getting](img/0d5e0c3571e2940d6c8cb200d56b4c50.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QpMBIV-E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/upbmtn9ig1xuil6wdjvr.jpg)
 
 所以，说清楚一点，我没有被雇佣。我想，但我没有，这就是我故事的重点。
 
@@ -29,7 +29,7 @@
 听到
 很有帮助
 
-[![geshan profile image](../Images/fcd493055c5bbd25528228bfc074b6cd.png) ](/geshan) [ Geshan Manandhar ](/geshan) • [<time datetime="2018-10-12T22:47:40Z"> Oct 12 '18 </time>](https://dev.to/geshan/comment/65i6) 
+[![geshan profile image](img/fcd493055c5bbd25528228bfc074b6cd.png) ](/geshan) [ Geshan Manandhar ](/geshan) • [<time datetime="2018-10-12T22:47:40Z"> Oct 12 '18 </time>](https://dev.to/geshan/comment/65i6) 
 
 你好克里斯多佛，
 
@@ -39,7 +39,7 @@
 
 摘自本文
 
-[![geshan](../Images/f724cb1237dbfdd187cdbecb5a07b2f5.png)](/geshan) [## 获得第一份技术工作的 5 个实用步骤
+[![geshan](img/f724cb1237dbfdd187cdbecb5a07b2f5.png)](/geshan) [## 获得第一份技术工作的 5 个实用步骤
 
 ### geshan man andhar 10 月 10 日 186 分钟阅读
 

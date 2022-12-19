@@ -25,7 +25,7 @@
 
 现在返回到原始用户的窗口，再次打开“管理人员”弹出窗口。您应该会看到您创建的所有用户。
 
-[![Chrome Manage People dialog](../Images/ce190b340dc8d2a421650ae7130f8654.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mcb8YUOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://winterwindsoftware.com/img/blog-images/chrome-manage-people.png)
+[![Chrome Manage People dialog](img/ce190b340dc8d2a421650ae7130f8654.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mcb8YUOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://winterwindsoftware.com/img/blog-images/chrome-manage-people.png)
 
 只需点击你想连接的用户，一个新的沙盒浏览器窗口就会打开。
 

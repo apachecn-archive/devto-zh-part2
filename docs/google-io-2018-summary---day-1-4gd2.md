@@ -6,4 +6,4 @@
 
 [读下去🎡](https://auth0.com/blog/googleio-summary-day-one/?utm_source=dev&utm_medium=sc&utm_campaign=googleio_summary)
 
-[![Google I/O 2018 Summary - Day 1](../Images/1e329d1f268c356dfcf3812828466f8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4M-4A-85--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/on8yx6c757ui9vpo0efy.png)
+[![Google I/O 2018 Summary - Day 1](img/1e329d1f268c356dfcf3812828466f8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4M-4A-85--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/on8yx6c757ui9vpo0efy.png)

@@ -4,7 +4,7 @@
 
 我们喜欢与初创公司合作，我们看到他们在想法发展的不同阶段来到我们这里，并继续取得不同程度的成功。我们看到的一种常见行为是，在向世界展示你的宝贵想法并获得有价值但令人畏惧的反馈之前，你会受到尽可能多发展的诱惑。
 
-[![](../Images/826d5f8796cceaf563452f5ff332782f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cSS3n6iG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A3zwnuQuTbNwk3ZoxwVIXZw.jpeg)
+[![](img/826d5f8796cceaf563452f5ff332782f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cSS3n6iG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A3zwnuQuTbNwk3ZoxwVIXZw.jpeg)
 
 这是可以理解的，优秀的创始人对他们的想法充满热情，可能已经形成了一个非常生动的观点，关于他们的产品将做什么，以及它将如何处理最模糊的场景。
 
@@ -12,7 +12,7 @@
 
 在你业务的关键时刻，重要的是不要浪费时间和金钱去开发对整体业务没有太大影响的东西。把每一个功能都当作机会成本来挑战，以你能创造的最小的东西为目标，为客户提供最大的价值和洞察力。
 
-[![](../Images/c119bc6fb728472665458855441a79dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w9vXnONQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AEr_ZehZyhD38RrEZTPjgJQ.jpeg)
+[![](img/c119bc6fb728472665458855441a79dd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--w9vXnONQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AEr_ZehZyhD38RrEZTPjgJQ.jpeg)
 
 在这个决策过程中保持节俭可以让你处于一个更好的位置:
 

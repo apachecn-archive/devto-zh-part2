@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/using-web-workers-for-safe-concurrent-javascript-3fpd>
 
-[![](../Images/0a85a37600414b18f2747c45da90a280.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e6eTClpZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AvsgQ0hOZkxQFfKqjKOWbYw.png)
+[![](img/0a85a37600414b18f2747c45da90a280.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e6eTClpZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AvsgQ0hOZkxQFfKqjKOWbYw.png)
 
 Web workers 提供了一种在浏览器的单线程执行之外运行 JavaScript 代码的方法。单线程处理显示内容的请求以及通过键盘、鼠标点击和其他设备的用户交互，还处理对 AJAX 请求的响应。
 
@@ -167,11 +167,11 @@ Uncaught TypeError: obj1.getRadius is not a function at World.checkForCollisions
 
 对于最初看起来像这样的图像:
 
-[![](../Images/9cafbc3882129f2273bfad19b5d9bb47.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R4yziyU4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/350/1%2AamhA820xUBT0Stc8c7umpw.jpeg)
+[![](img/9cafbc3882129f2273bfad19b5d9bb47.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R4yziyU4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/350/1%2AamhA820xUBT0Stc8c7umpw.jpeg)
 
 阈值算法产生如下两种色调的黑白图像:
 
-[![](../Images/3975c54ed6d57a9d5378fd6539470b33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--awf5FvYD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/350/1%2AcCw35ziRauVMzBbDv9NJ6w.png)
+[![](img/3975c54ed6d57a9d5378fd6539470b33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--awf5FvYD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/350/1%2AcCw35ziRauVMzBbDv9NJ6w.png)
 
 这个演示的代码笔可以在[这里](https://codepen.io/bwilln/pen/RMKwMX)找到。
 
@@ -208,7 +208,7 @@ HTML5 Web workers 提供了一种方法，可以将繁重的计算卸载到一�
 
 ### Plug: LogRocket，一款用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

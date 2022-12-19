@@ -4,11 +4,11 @@
 
 如果你有一部安卓手机，你一定已经安装了一些你需要的应用程序。也很有可能你也想建立自己的应用程序，不要担心，这并不像你被告知的那样困难，你甚至可以在你的手机中建立手机应用程序。
 
-[![.](../Images/32324a40e79bd9491d69764466ca904e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WK-azCsj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://palash.tk/assets/images/android-appdev-android.jpg)
+[![.](img/32324a40e79bd9491d69764466ca904e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WK-azCsj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://palash.tk/asseimg/android-appdev-android.jpg)
 
 不是每个人都有高端开发电脑💻开始开发 Android 应用程序，但你有一些改变世界的应用程序创新想法，所以我想到了这个，因为我经历了同一天。😶
 
-[![](../Images/0411232c206949b77b020650e24b611b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JfY3G38c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/b92e0d0b6193d68ca629e37d4399a03f/tenor.gif%3Fitemid%3D4438256)
+[![](img/0411232c206949b77b020650e24b611b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JfY3G38c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.cimg/b92e0d0b6193d68ca629e37d4399a03f/tenor.gif%3Fitemid%3D4438256)
 
 所以不再深入讨论，让我们直接进入解决方案，
 

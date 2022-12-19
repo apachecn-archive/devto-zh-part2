@@ -189,7 +189,7 @@ public class EverythingIsOkReminder : IOrleansFunction
 
 按照常规，我们将开始`SiloHost`、`Client`，并尝试新的纹理。
 
-[![](../Images/753060561fdd8a31c78fad17ae4c1c8d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--weKecRQn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AohX0WbFAIMozjHwyBvElHA.png) 
+[![](img/753060561fdd8a31c78fad17ae4c1c8d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--weKecRQn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AohX0WbFAIMozjHwyBvElHA.png) 
 
 <figcaption>没事提醒</figcaption>
 
@@ -197,7 +197,7 @@ public class EverythingIsOkReminder : IOrleansFunction
 
 由于在之前的帖子中添加了[奥尔良仪表板](https://medium.com/@kritner/microsoft-orleans-reporting-dashboard-16465d255199),我们可以看到的另一件很酷的事情是:
 
-[![](../Images/9bd5606041088be66f1ceec972192f45.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XFHV8C4V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AjIRcL58X2ZgDvqG2QDgASg.png) 
+[![](img/9bd5606041088be66f1ceec972192f45.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--XFHV8C4V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AjIRcL58X2ZgDvqG2QDgASg.png) 
 
 <figcaption>仪表盘上显示提醒</figcaption>
 

@@ -31,7 +31,7 @@ Some of the advantages provided to the client by the agile methodologies can be 
 *   交货由固定的日历定义。因此，客户肯定会在固定的、有规律的时间内收到一些功能。
 *   由于对测试(自动和手动)的重视，所提供的软件质量要好得多。
 
-![](../Images/04f4cec8633cf8e4b8d5962102bd8b2e.png)
+![](img/04f4cec8633cf8e4b8d5962102bd8b2e.png)
 
 ## 项目组的优势
 

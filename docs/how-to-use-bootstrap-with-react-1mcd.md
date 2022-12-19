@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/how-to-use-bootstrap-with-react-1mcd>
 
-[![](../Images/b032a961794642714094a79f1bca5786.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CCXD3gIH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/546/1%2A36D6oCrl2Fpif_8NzK2lYA.png)
+[![](img/b032a961794642714094a79f1bca5786.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CCXD3gIH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/546/1%2A36D6oCrl2Fpif_8NzK2lYA.png)
 
 随着过去几年单页面应用程序的日益流行，出现了许多前端 JavaScript 框架，如 [Angular](https://angular.io/) 、 [React](https://reactjs.org/) 、 [VueJS](https://vuejs.org/) 、 [Ember](https://emberjs.com/) ，不胜枚举。因此，使用像 jQuery 这样的 DOM 库不再是构建 web 应用程序的必要条件。
 
@@ -110,7 +110,7 @@ crossorigin="anonymous"></script>
 
 现在，您可以开始在 React 应用程序组件中使用内置的引导类和 JavaScript 组件。
 
-[![](../Images/184dfcc3649f17c50808cfdfb9409f6a.png)T2】](https://logrocket.com/?cid=banner_b)
+[![](img/184dfcc3649f17c50808cfdfb9409f6a.png)T2】](https://logrocket.com/?cid=banner_b)
 
 ### 自举为依赖
 
@@ -178,7 +178,7 @@ registerServiceWorker();
 
 通过像应用任何其他类一样应用内置类，您可以在 React 应用程序中的元素和组件上直接使用 Bootstrap。让我们构建一个简单的主题切换器 React 组件来演示如何使用引导类和组件。
 
-[![](../Images/420434108e00cffbc2818ccb2353e35a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Ej3VD1-b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/512/0%2AFKEuOi6FpIfGzdOO.gif) 
+[![](img/420434108e00cffbc2818ccb2353e35a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Ej3VD1-b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/512/0%2AFKEuOi6FpIfGzdOO.gif) 
 
 <figcaption>主题切换器演示</figcaption>
 
@@ -367,7 +367,7 @@ registerServiceWorker();
 
 如果你现在用纱线启动或 npm 启动命令运行程序。您的应用程序应该在端口 3000 上启动，看起来应该如下所示:
 
-[![](../Images/e6023dbf5ea71cbd19c5edfb769c057a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7fTctbxr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/640/0%2ALgjq4lRE-HSIPRX8.gif)
+[![](img/e6023dbf5ea71cbd19c5edfb769c057a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7fTctbxr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/640/0%2ALgjq4lRE-HSIPRX8.gif)
 
 <figcaption>react-自举演示</figcaption>
 
@@ -477,7 +477,7 @@ registerServiceWorker();
 
 如果你现在用纱线启动或 npm 启动命令运行程序。您的应用程序应该在端口 3000 上启动，看起来应该如下所示:
 
-[![](../Images/db42ccdd89a9c559777dd92719ee6f97.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AA_Ga7DT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/640/0%2AQx3moMpxNkq_pUvL.gif) 
+[![](img/db42ccdd89a9c559777dd92719ee6f97.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AA_Ga7DT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/640/0%2AQx3moMpxNkq_pUvL.gif) 
 
 <figcaption>reactstrap 演示</figcaption>
 
@@ -487,7 +487,7 @@ registerServiceWorker();
 
 我们将使用 create-react-app 命令行工具创建我们的应用程序。确保您的机器上安装了 [create-react-app](https://github.com/facebook/create-react-app) 工具。这是我们将要创建的内容的截图。
 
-[![](../Images/1ea954f1fee51cd65ef7e26cf4105db0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--W2FnJ-6y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AiiY1zBFuNVjzf3GS.png) 
+[![](img/1ea954f1fee51cd65ef7e26cf4105db0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--W2FnJ-6y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AiiY1zBFuNVjzf3GS.png) 
 
 <figcaption>App 截图</figcaption>
 
@@ -725,7 +725,7 @@ export default App;
 
 ### Plug: [LogRocket](http://logrocket.com) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)T2】](http://logrocket.com)
 
 LogRocket 是一个前端日志工具，可以让你回放问题，就像它们发生在你自己的浏览器中一样。LogRocket 不需要猜测错误发生的原因，也不需要向用户询问截图和日志转储，而是让您重放会话以快速了解哪里出错了。它可以与任何应用程序完美配合，不管是什么框架，并且有插件可以记录来自 Redux、Vuex 和@ngrx/store 的额外上下文。
 

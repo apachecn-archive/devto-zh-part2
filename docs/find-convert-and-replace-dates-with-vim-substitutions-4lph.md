@@ -7,7 +7,7 @@
 Vim 的 substitution 命令是修改文本文件的一种强有力的方法。除了使用正则表达式查找和替换文本，替换还可以调用外部程序进行更复杂的替换。通过使用替换中的`date`实用程序，Vim 可以将一个文件中的所有日期转换成不同的格式，并一次性替换它们。
 
 [![Finding, converting and replacing dates with Vim<br>
-substitutions](../Images/85f5ba6697c2d02f0671964b1ccc2fd1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JMRHBeik--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jeffkreeftmeijer.com/vim-reformat-dates/substitute.png)
+substitutions](img/85f5ba6697c2d02f0671964b1ccc2fd1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JMRHBeik--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://jeffkreeftmeijer.com/vim-reformat-dates/substitute.png)
 
 输入文件是一个包含文章列表的 HTML 页面。每篇文章都包含一个`<time>`标签，该标签带有一个值和一个 datetime 属性来显示发布日期。
 

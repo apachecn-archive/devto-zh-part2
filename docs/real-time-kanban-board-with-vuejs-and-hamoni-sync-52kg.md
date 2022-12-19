@@ -93,7 +93,7 @@ export default {
 2.  在文本字段中输入您首选的应用程序名称，然后单击创建按钮。这将创建应用程序，并将其显示在应用程序列表部分。
 3.  展开**账户 ID** 卡获取您的账户 ID
 
-[![Hamoni dashboard](../Images/4e41967431b35548bc44f1dd5b14ddc5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yUCiqUkM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://docs.hamoni.tech/assets/dashboard.png)
+[![Hamoni dashboard](img/4e41967431b35548bc44f1dd5b14ddc5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yUCiqUkM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://docs.hamoni.tech/assets/dashboard.png)
 
 将以下代码添加到第 35 行的`App.vue`。
 
@@ -205,7 +205,7 @@ methods: {
 
 这就是所有需要的代码。现在，通过从命令行运行`npm run dev`来运行应用程序，这将在您的默认浏览器中启动 web 应用程序。
 
-[![realtime-kanban-vue.gif](../Images/4a1c9b9e857657d9a5d5ed187ee47b2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p2EDzG14--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/HT9934KSAuY1lbqC0Zng)
+[![realtime-kanban-vue.gif](img/4a1c9b9e857657d9a5d5ed187ee47b2a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p2EDzG14--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/HT9934KSAuY1lbqC0Zng)
 
 就成了🚀实时看板。
 

@@ -8,7 +8,7 @@
 
 在 Google page speed Insights(GPI)搜索栏中键入网站域名地址后，我会开始咬指甲，因为 Google 开始对该网络应用进行令人心痛的分析。当我读到桌面平台的“需要工作”琥珀色性能评级时，恐惧会变成失望。通常，当发现移动平台收到的难以形容的“糟糕”红色性能评级时，失望会加剧。为什么这些看似快速的网站在谷歌眼中表现如此之差？
 
-[![Example of Google PageSpeed Insights rating](../Images/11516966ba63792571fc868f0eeba3c9.png "Example of Google PageSpeed Insights rating")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dh_X-R23--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/cLYAE4h.png)
+[![Example of Google PageSpeed Insights rating](img/11516966ba63792571fc868f0eeba3c9.png "Example of Google PageSpeed Insights rating")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Dh_X-R23--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/cLYAE4h.png)
 
 我无法获得“良好”绿色评级的原因因项目而异。常见的例子包括缺乏对服务器端性能的控制；缺乏时间或预算来实现(看似)相当大的性能改进，或者在我职业生涯的早期，只是缺乏理解或无法消化有时令人困惑的 GPI 文档，这些文档建议如何配置和构建网站以符合工具的指标。
 
@@ -50,7 +50,7 @@
 
 有许多方法可以实现渐进式 web 应用程序，并利用其功能来提供出色的用户体验和高 Web 性能。我发现最吸引人的架构方法是[应用程序外壳模型](https://developers.google.com/web/fundamentals/architecture/app-shell)。
 
-[![app-shell-model](../Images/d7686bcede934de60ffea449520af53d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2IEG8YVS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developers.google.com/web/fundamentals/architecture/images/appshell.png)
+[![app-shell-model](img/d7686bcede934de60ffea449520af53d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2IEG8YVS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developers.google.com/web/fundamentals/architectuimg/appshell.png)
 
 这种方法需要向用户交付一个可缓存的网站用户界面“外壳”——即没有内容的网站布局——然后在内容可用时加载内容(我们很快会谈到一些实现细节)。
 
@@ -403,7 +403,7 @@ CDN 是地理上分散的服务器的集合，这些服务器协同工作以更�
 
 除了作为 CDN 之外，Cloudflare 还提供了几个常规选项来提高它所服务的网站的“速度”。虽然这些选项中的大部分仅适用于高级用户，但免费用户可以访问“自动缩小”功能 Cloudflare 会通过单击复选框自动缩小您的 HTML、CSS 和 JavaScript。无手工作业；没有代码，没有构建工具。没有比这更好的了。
 
-[![cloudflare](../Images/59533a0af711760ea3011e70a7fe9322.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l2louLGt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/NUcvsCO.png)
+[![cloudflare](img/59533a0af711760ea3011e70a7fe9322.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l2louLGt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/NUcvsCO.png)
 
 如前所述，Cloudflare 是免费的，让用户可以为任意多的网站提供服务。它还提供了许多其他有用的特性，包括 SSL、安全性和缓存。换句话说，这是一个显而易见的问题。(同样，不，不幸的是，Cloudflare 没有向我支付推广他们服务的费用，这只是一项很棒的服务)。
 

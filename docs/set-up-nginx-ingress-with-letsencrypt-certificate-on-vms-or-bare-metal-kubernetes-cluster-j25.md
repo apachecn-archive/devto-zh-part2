@@ -70,7 +70,7 @@ helm init --service-account tiller
 
 如果一切正常，你应该会看到。
 
-[![](../Images/a22ade8cd5f0c0c4dcb8b7d2ceeea4b2.png "Helm version")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XbKHJbCm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4ukf0lo1qritsisdeyd5.png)
+[![](img/a22ade8cd5f0c0c4dcb8b7d2ceeea4b2.png "Helm version")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XbKHJbCm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4ukf0lo1qritsisdeyd5.png)
 
 # 安装入口
 
@@ -88,7 +88,7 @@ helm install --name nginx-ingress --namespace nginx-ingress stable/nginx-ingress
 
 在浏览器中打开您的一个工作节点 IP 地址。如果入口安装成功，您将看到。
 
-[![](../Images/c4aed910ed75d2a671a28be86f2af297.png "Install success")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y59FmJxE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aexnlwvy1jddsc96a2f8.png)
+[![](img/c4aed910ed75d2a671a28be86f2af297.png "Install success")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y59FmJxE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aexnlwvy1jddsc96a2f8.png)
 
 ### 2.配置域名
 
@@ -96,11 +96,11 @@ helm install --name nginx-ingress --namespace nginx-ingress stable/nginx-ingress
 
 在我的例子中，我将 route53 测试 dns 记录指向我的公共 IP。
 
-[![](../Images/33bf1144a7f3dc47bf5a06a1c75bbad9.png "Route53 dns")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qeBSHEGT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mftgd7u72g64qgxhqfa2.png)
+[![](img/33bf1144a7f3dc47bf5a06a1c75bbad9.png "Route53 dns")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qeBSHEGT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mftgd7u72g64qgxhqfa2.png)
 
 我还需要配置我的路由器，将端口 80 和 443 转发到我的一个工作节点。比如说 192.168.1.110。
 
-[![](../Images/be00e1ba16a8fa034aedbeb0d4bfbe50.png "Router config")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Stdqwnh2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/brxpkrtzukdmtzp3762i.png)
+[![](img/be00e1ba16a8fa034aedbeb0d4bfbe50.png "Router config")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Stdqwnh2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/brxpkrtzukdmtzp3762i.png)
 
 ### 3.部署测试应用程序
 
@@ -113,7 +113,7 @@ kubectl expose deployment hello-world --type=NodePort --name=example-service
 
 尝试使用节点端口`http://<master or worker ip>:<node port>`访问此应用程序。你应该看看。
 
-[![](../Images/bc9fad72cd6b140ca24c24c233c673b2.png "Test app")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cd1JP1VL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j8fxoxk79wsikhu00q0u.png)
+[![](img/bc9fad72cd6b140ca24c24c233c673b2.png "Test app")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cd1JP1VL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/j8fxoxk79wsikhu00q0u.png)
 
 ### 4.部署测试入口
 
@@ -151,7 +151,7 @@ spec:
 
 如果一切正常，打开 url `http://testingress.yourdomain.com`你应该会看到。
 
-[![](../Images/659dfd5463bcf8f69fdf1c60edcb2af0.png "Test app with domain")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pnu36w0T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/010n1txkx1i39g95i5ka.png)
+[![](img/659dfd5463bcf8f69fdf1c60edcb2af0.png "Test app with domain")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pnu36w0T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/010n1txkx1i39g95i5ka.png)
 
 # 安装证书管理器
 
@@ -306,9 +306,9 @@ spec:
 
 等到`kubectl get secret`返回秘密名“testingress-tls”，这表示它起作用了。你应该可以成功访问`https://testingress.yourdomain.com`。
 
-[![](../Images/36775a208d2197f6b97a7b834cee95ce.png "TLS secret")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rDs8dCRw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lc7xmjk1ud212nr29pnd.png)
+[![](img/36775a208d2197f6b97a7b834cee95ce.png "TLS secret")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rDs8dCRw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lc7xmjk1ud212nr29pnd.png)
 
-[![](../Images/84716cb582ed88853a668d9d5bd9d502.png "https")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oBZuF-KS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gb8f1ewrocwg91s3ro2f.png)
+[![](img/84716cb582ed88853a668d9d5bd9d502.png "https")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oBZuF-KS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gb8f1ewrocwg91s3ro2f.png)
 
 # 摘要
 

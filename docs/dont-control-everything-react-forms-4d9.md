@@ -8,7 +8,7 @@
 
 表单几乎是所有应用程序的重要组成部分。其中至少有一个是必需的:“登录”页面。在本文中，我们将解释 React 中不受控制的表单的好处，以及如何尽可能简单地在每个表单中重用它。我们将以经典的“登录”页面为例。
 
-[![signIn](../Images/ba79d0f864cdb0b90f3fda0d71b4fd26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GRiCmtoK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://aralroca.files.wordpress.com/2018/11/signin.png%3Fw%3D960)
+[![signIn](img/ba79d0f864cdb0b90f3fda0d71b4fd26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GRiCmtoK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://aralroca.files.wordpress.com/2018/11/signin.png%3Fw%3D960)
 
 ### 受控与非受控的区别
 
@@ -122,7 +122,7 @@ onSignIn = ({ username, password }) => {
 
 为了实现我们的目标，我们可以将表单标记替换为我们的个人组件:
 
-[![form](../Images/fb02679d4fd0446c5e4edd74f569793a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_bhvHyN---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://aralroca.files.wordpress.com/2018/11/form.png%3Fw%3D960)
+[![form](img/fb02679d4fd0446c5e4edd74f569793a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_bhvHyN---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://aralroca.files.wordpress.com/2018/11/form.png%3Fw%3D960)
 
 我们的可重用个人表单组件可以是:
 
@@ -164,7 +164,7 @@ export default memo(Form)
 
 两种方法；受控形式和非受控形式因为不同的原因而很棒。我们必须知道区别，以便为任何场合选择最好的。我的建议是:通常使用无控制，除非你真的需要状态来做动态检查或者动态改变每个输入的文本。
 
-> 这是我处理表格的首选方式。如果我不需要值被控制，那么我就不控制它[![👍](../Images/60ca6372ec746e8f077d7739b4c3aed7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZZkWC9qn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f44d.png)[https://t.co/0TGb3Lrs9Y](https://t.co/0TGb3Lrs9Y)
+> 这是我处理表格的首选方式。如果我不需要值被控制，那么我就不控制它[![👍](img/60ca6372ec746e8f077d7739b4c3aed7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ZZkWC9qn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f44d.png)[https://t.co/0TGb3Lrs9Y](https://t.co/0TGb3Lrs9Y)
 > 
 > —肯特·c·多兹([@肯特·多兹](https://dev.to/kentcdodds) ) [8 de julio de 2018](https://twitter.com/kentcdodds/status/1015954912075644930?ref_src=twsrc%5Etfw)
 

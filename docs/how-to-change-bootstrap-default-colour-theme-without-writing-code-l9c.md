@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/xeroxism/how-to-change-bootstrap-default-colour-theme-without-writing-code-l9c>
 
-[![bootstrap banner](../Images/4d142b6dfd29786b2aececef298c7245.png)T2】](https://i1.wp.com/fossnaija.com/wp-content/uploads/2018/05/bootstrap-banner.png?ssl=1)
+[![bootstrap banner](img/4d142b6dfd29786b2aececef298c7245.png)T2】](https://i1.wp.com/fossnaija.com/wp-content/uploads/2018/05/bootstrap-banner.png?ssl=1)
 
 图片:Bootsrap Banner/fosnaija
 
@@ -10,7 +10,7 @@
 
 关于使用 bootstrap 有一点需要注意；使用该框架的网站/应用程序看起来有些相似(至少在使用默认颜色配置和设置时)。要真正创建一个真正定制版本的界面，需要一些样式覆盖(编写大量 CSS)。
 
-[![default_bootstrap_colour_scheme](../Images/42b1822e465bf35387612dae39a00bd8.png)T2】](https://i0.wp.com/fossnaija.com/wp-content/uploads/2018/05/deafault_bootstrap_site.png?ssl=1)
+[![default_bootstrap_colour_scheme](img/42b1822e465bf35387612dae39a00bd8.png)T2】](https://i0.wp.com/fossnaija.com/wp-content/uploads/2018/05/deafault_bootstrap_site.png?ssl=1)
 
 图片:默认引导配色方案/fosnaija
 
@@ -24,7 +24,7 @@
 
 我已经为这个教程建立了一个基本的网站，它看起来像这样。
 
-[![default_bootstrap_colour_scheme](../Images/42b1822e465bf35387612dae39a00bd8.png)T2】](https://i0.wp.com/fossnaija.com/wp-content/uploads/2018/05/deafault_bootstrap_site.png?ssl=1)
+[![default_bootstrap_colour_scheme](img/42b1822e465bf35387612dae39a00bd8.png)T2】](https://i0.wp.com/fossnaija.com/wp-content/uploads/2018/05/deafault_bootstrap_site.png?ssl=1)
 
 图片:默认引导配色方案/fosnaija
 
@@ -34,13 +34,13 @@
 
 前往[Bootswatch.com](https://bootswatch.com/)，选择你喜欢的配色方案。
 
-[![bootswatch colour themes](../Images/7c717fbb8d7d9c76eb6e68e60a5a0afc.png)T2】](https://i1.wp.com/fossnaija.com/wp-content/uploads/2018/05/bs-theme-5.png?ssl=1)
+[![bootswatch colour themes](img/7c717fbb8d7d9c76eb6e68e60a5a0afc.png)T2】](https://i1.wp.com/fossnaija.com/wp-content/uploads/2018/05/bs-theme-5.png?ssl=1)
 
 图片:一些鞋样颜色主题/fosnaija
 
 在这篇文章中，我会使用机器人主题。选择所需的配色方案后，您可以将 CSS (bootrstrap.min.css)文件下载到您的计算机上。
 
-[![bootswatch cyborg theme](../Images/2ff8779b9fbd40297359331e5ac4eb52.png)T2】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/05/bs-cyborg-theme.png?ssl=1)
+[![bootswatch cyborg theme](img/2ff8779b9fbd40297359331e5ac4eb52.png)T2】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/05/bs-cyborg-theme.png?ssl=1)
 
 图片:Bootswatch Cyborg 主题/fosnaija
 
@@ -48,13 +48,13 @@
 
 **NB:** 确保它是项目 HTML 文件中链接引用所指向的文件名。
 
-[![bootstrap css link code](../Images/a5317b8cee83da78bb490e7538a3a9f4.png)T2】](https://i1.wp.com/fossnaija.com/wp-content/uploads/2018/05/bootstrap-css-link-code.png?ssl=1)
+[![bootstrap css link code](img/a5317b8cee83da78bb490e7538a3a9f4.png)T2】](https://i1.wp.com/fossnaija.com/wp-content/uploads/2018/05/bootstrap-css-link-code.png?ssl=1)
 
 图片:引导 css 链接代码/fosnaija
 
 然后重新加载页面。现在应该加载新的配色方案了。
 
-[![bootstrap new colour theme](../Images/7f337b3ca42f4a9b5ebec56e68216cdb.png)T2】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/05/new-theme.png?ssl=1)
+[![bootstrap new colour theme](img/7f337b3ca42f4a9b5ebec56e68216cdb.png)T2】](https://i2.wp.com/fossnaija.com/wp-content/uploads/2018/05/new-theme.png?ssl=1)
 
 图片:Bootstrap 新颜色主题/fosnaija。
 

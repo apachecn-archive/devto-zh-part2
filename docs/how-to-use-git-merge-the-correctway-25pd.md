@@ -25,15 +25,15 @@
 
 当在您想要合并的[分支](https://kolosek.com/git-branches/)之间有一条线性路径时，就会发生**快速向前合并**。如果主服务器还没有**分叉**，它不会创建新的提交，而是将主服务器指向热修复分支的最新提交。来自 hotfix 分支的所有提交现在在 master 中可用。
 
-[![git-merge-fast-forward](../Images/b5f7e64b72981a6f92d8428ce3a8bb28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HONWfz3J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/f16f8fab3708f8cc7a3c05ffe237d87d/git-merge-fast-forward.png)
+[![git-merge-fast-forward](img/b5f7e64b72981a6f92d8428ce3a8bb28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HONWfz3J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/f16f8fab3708f8cc7a3c05ffe237d87d/git-merge-fast-forward.png)
 
-然而，如果分支已经分叉，则 **[快进合并](https://sandofsky.com/images/fast_forward.pdf)** 是不可能的。在这种情况下，你要使用一个**三路合并**。
+然而，如果分支已经分叉，则 **[快进合并](https://sandofsky.cimg/fast_forward.pdf)** 是不可能的。在这种情况下，你要使用一个**三路合并**。
 
 ### 三路合并
 
 当没有到目标分支的线性路径时，Git 别无选择，只能通过**三向合并**来组合它们。这种合并使用额外的提交将两个分支联系在一起。
 
-[![git-merge-three-way-merge-1](../Images/857732e6b1387eed418033aecef53bd0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JFcDtV-y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/05519eb0e9dfe087a82f55caa32d54d5/git-merge-three-way-merge.png)
+[![git-merge-three-way-merge-1](img/857732e6b1387eed418033aecef53bd0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JFcDtV-y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://storage.kraken.io/kk8yWPxzXVfBD3654oMN/05519eb0e9dfe087a82f55caa32d54d5/git-merge-three-way-merge.png)
 
 > 测试一下！用一个 [RSpec 测试](https://kolosek.com/rails-rspec-setup/)分支创建你自己的项目，同时在 master 中编辑[控制器测试](https://kolosek.com/rspec-controller-test/)。现在，试着合并。
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/scotty_bowler/classicpress-launches---alpha-version-ready-for-testing-594k>
 
-[![https://www.classicpress.net/download/](../Images/e282a51fea93c1ff55a75ceea9f56276.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FatJDJm8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/14nhutn6e5t0ilrn0dpp.png)
+[![https://www.classicpress.net/download/](img/e282a51fea93c1ff55a75ceea9f56276.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FatJDJm8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/14nhutn6e5t0ilrn0dpp.png)
 
 # ClassicPress 来了！
 

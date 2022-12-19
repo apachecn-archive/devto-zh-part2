@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/lawgimenez/google-maps-and-directions-api-using-kotlin-3kh5>
 
-[![Google Maps and Directions API using Kotlin](../Images/f1738e827dfd676a915f439f4c23913b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---_LfXuNC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lawgimenez.me/content/images/2018/09/Google-Map-screenshot-1.png)
+[![Google Maps and Directions API using Kotlin](img/f1738e827dfd676a915f439f4c23913b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---_LfXuNC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lawgimenez.me/conteimg/2018/09/Google-Map-screenshot-1.png)
 
 我将在下面实现如何使用 Kotlin 实现谷歌地图和方向 API，我们将绘制一条从**起点**到**目的地**的路线。我不打算在这里介绍如何从谷歌地图平台控制台获取 API 密钥，因为[谷歌对此有明确的指示](https://developers.google.com/maps/documentation/android-sdk/signup)。
 
@@ -113,4 +113,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 下面的代码块向方向 API 发送一个 HTTP GET 请求，我们将解析该响应。我们需要的是来自`polyline`对象的`points`数据。运行这个项目，你应该会在谷歌地图上绘制出一条路线。
 
-[![Google Maps and Directions API using Kotlin](../Images/9b6596a116a157a883174e450444cbd7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UuIYYroj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lawgimenez.me/content/images/2018/09/Google-Map-screenshot.png)
+[![Google Maps and Directions API using Kotlin](img/9b6596a116a157a883174e450444cbd7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--UuIYYroj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lawgimenez.me/conteimg/2018/09/Google-Map-screenshot.png)

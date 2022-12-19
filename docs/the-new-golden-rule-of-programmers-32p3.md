@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bengreenberg/the-new-golden-rule-of-programmers-32p3>
 
-[![The Golden Rule Emojified](../Images/c8d24e41995def6b3d94451bbc5024c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rt6j_tZ---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jon740l0glyi5ndjvp7w.jpg)
+[![The Golden Rule Emojified](img/c8d24e41995def6b3d94451bbc5024c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rt6j_tZ---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jon740l0glyi5ndjvp7w.jpg)
 
 242 年前，美国签署了《独立宣言》,随之而来的是一种新的治理模式。这个政府经历了许多高潮和低谷，它继续发展和适应。然而，贯穿始终的一个基本理念仍然是一个根本的基础，即人们有权对自己的生活行使自主权，可以以我们理解意义的各种方式构建对他们来说有意义的生活。
 

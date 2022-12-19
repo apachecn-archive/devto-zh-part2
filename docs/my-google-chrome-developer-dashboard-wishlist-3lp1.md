@@ -4,7 +4,7 @@
 
 # 我的谷歌 Chrome 开发者仪表板愿望清单
 
-[![](../Images/654fc91d0273e24953433c6013bd68e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O9RaFIe0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AFCLJwNB7IiVnwTqr4YGxjQ.png)
+[![](img/654fc91d0273e24953433c6013bd68e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--O9RaFIe0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AFCLJwNB7IiVnwTqr4YGxjQ.png)
 
 随着新的谷歌 Chrome 开发者仪表板的发布，其功能逐渐消失。我想我会写下我最大的愿望。
 

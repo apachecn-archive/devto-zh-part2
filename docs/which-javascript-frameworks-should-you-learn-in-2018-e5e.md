@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/samerbuna/which-javascript-frameworks-should-you-learn-in-2018-e5e>
 
-[![](../Images/01bfe63ff4092f1d0bd91befec78c256.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PrxsE7Ph--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ApPJq-yvXA13X4g87Lc4NJQ.png)
+[![](img/01bfe63ff4092f1d0bd91befec78c256.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PrxsE7Ph--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2ApPJq-yvXA13X4g87Lc4NJQ.png)
 
 让我先定义一下我认为的编码框架是什么，因为这个词是有争议的。我认为框架是一个库，它定义了关于每个方面或层的结构，可以使创建应用程序的任务更容易。所谓层，我指的是像数据库、模型、控制器、视图、演示者、网络等等..
 

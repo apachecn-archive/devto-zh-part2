@@ -12,7 +12,7 @@
 
 线程化改变了游戏规则，因为许多与网络/数据 I/O 相关的脚本花费大部分时间等待来自远程数据源的数据。因为下载可能不被链接(即，抓取单独的网站)，所以处理器可以并行地从不同的数据源下载，并在最后组合结果。对于 CPU 密集型进程，使用线程模块没有什么好处。
 
-[![threadingSameDataspace](../Images/eeea62bf45ea70a2764118593360ef90.png)T2】](//images.ctfassets.net/h6vh38q7qvzk/6RnMqNoKacW2OAAOqw0QW4/a390ea001017ee3492c1c814fa0a7659/threadingSameDataspace.jpeg)
+[![threadingSameDataspace](img/eeea62bf45ea70a2764118593360ef90.png)T2】](//images.ctfassets.net/h6vh38q7qvzk/6RnMqNoKacW2OAAOqw0QW4/a390ea001017ee3492c1c814fa0a7659/threadingSameDataspace.jpeg)
 
 幸运的是，标准库中包含了线程:
 
@@ -44,7 +44,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您通常希望您的线程能够使用或修改线程间的公共变量，但是要做到这一点，您必须使用一种叫做`lock`的东西。每当一个函数想要修改一个变量时，它就锁定这个变量。当另一个函数想要使用一个变量时，它必须等到该变量被解锁。
 
-[![lockExplanation](../Images/1dd6ef98856f7b964754cbc243c13063.png)T2】](//images.ctfassets.net/h6vh38q7qvzk/3PLJjBuuYMuuc6UUy8U2qW/b4a0d411cdc1c31c5841230885a3b055/lockExplanation.jpeg)
+[![lockExplanation](img/1dd6ef98856f7b964754cbc243c13063.png)T2】](//images.ctfassets.net/h6vh38q7qvzk/3PLJjBuuYMuuc6UUy8U2qW/b4a0d411cdc1c31c5841230885a3b055/lockExplanation.jpeg)
 
 想象两个函数都用 1 迭代一个变量。锁允许您确保一个函数可以访问变量，执行计算，并在另一个函数可以访问同一个变量之前写回该变量。
 
@@ -161,4 +161,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 免责声明:我们是一家伐木公司。如果你试用我们的产品，我们会很高兴的(真的很棒！)，但我们要宣传的也就这些了。
 
-[![](../Images/aa5c715399ff218855ddd92755157269.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---Pfx3BIg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/h6vh38q7qvzk/5BUP5dDcrKae4yyaoy8ocE/ba33ae45edec6325109f05a44407a2e2/footer.png)
+[![](img/aa5c715399ff218855ddd92755157269.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---Pfx3BIg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/h6vh38q7qvzk/5BUP5dDcrKae4yyaoy8ocE/ba33ae45edec6325109f05a44407a2e2/footer.png)

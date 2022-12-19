@@ -7,10 +7,10 @@
 > 它有助于向 web 应用程序的订户广播短消息，并有助于支持用户参与您的应用程序以通知每个订户，任何组织都很难发送短消息事件循环的电子邮件通知或广播短消息的提供和更新等消息，这也会增加服务器运营的成本，因此解决方案是 **Web 推送通知**。这有助于你获得最大的后可达性，并在网络应用上获得更多的消费者参与。
 
 让我告诉你它是如何工作的。
-[![web-push-how-working.png](../Images/c3cfa443fbdc8d973892d51d0e022c34.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--076-ea75--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/3iE3ihH2TLqI64zeNDsF)
+[![web-push-how-working.png](img/c3cfa443fbdc8d973892d51d0e022c34.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--076-ea75--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/3iE3ihH2TLqI64zeNDsF)
 
 服务工作者是此功能的主要关键组件和骑士，它安装在客户端浏览器中，并在作为服务工作者安装在浏览器中后作为应用程序独立运行，服务工作者定期向提供商服务器发送查询，请求任何新事件发生，然后响应客户端，如果服务器中发生任何新事件，它会弹出类似
-[![popup-notify.png](../Images/460f0c91e274a538e0cefb7967b6f247.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VOp4VxXt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/632p2e4RROJCAUPdGPKg) 的消息
+[![popup-notify.png](img/460f0c91e274a538e0cefb7967b6f247.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VOp4VxXt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/632p2e4RROJCAUPdGPKg) 的消息
 
 点击“允许”按钮，服务人员开始在客户端浏览器中进行安装，并向具有**公共 VAPID 密钥**的订户发送承诺请求，并在服务器上检查用户是否已经订阅通知，如果已经订阅，则返回错误声明的请求，否则服务器发送真实请求。
 大功告成。
@@ -45,13 +45,13 @@ git init
 npm install express web-push body-parser mongoose q --save 
 ```
 
-[![git-init-commands.png](../Images/9a7d89705f6926736df4b30cc1205070.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uj4E3tyh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/GPPnJskQTGhfljoNHSEn)
+[![git-init-commands.png](img/9a7d89705f6926736df4b30cc1205070.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uj4E3tyh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/GPPnJskQTGhfljoNHSEn)
 
 ```
 touch server.js 
 ```
 
-[![add-new-file-app.png](../Images/803c41ddba3afecef6e550436bdb1e2b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--btxUqdKv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/Vp8V4BfDQV67JLwYgoCD) 
+[![add-new-file-app.png](img/803c41ddba3afecef6e550436bdb1e2b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--btxUqdKv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/Vp8V4BfDQV67JLwYgoCD) 
 再次需要通过如下命令在同一个项目目录下创建三个文件夹
 
 ```
@@ -62,7 +62,7 @@ touch keys_prod.js
 touch keys_dev.js 
 ```
 
-[![creat-config-dir.png](../Images/3121ff8d7e1e65f70481edb8f87f95ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sn8bNkLj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/fgYHnCfRAWCT59r8yR2f)
+[![creat-config-dir.png](img/3121ff8d7e1e65f70481edb8f87f95ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sn8bNkLj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/fgYHnCfRAWCT59r8yR2f)
 
 ```
 mkdir model
@@ -70,7 +70,7 @@ cd model
 touch subscribers_model.js 
 ```
 
-[![creat-model-dir.png](../Images/afefd1dba640ff6b485a2b20a8342ed4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--STtqUdui--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/zcdVJawpQ1udam8tvJE7)
+[![creat-model-dir.png](img/afefd1dba640ff6b485a2b20a8342ed4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--STtqUdui--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/zcdVJawpQ1udam8tvJE7)
 
 ```
 mkdir router
@@ -80,7 +80,7 @@ touch subscriber.js
 touch index.js 
 ```
 
-[![creat-router-dir.png](../Images/f29df5bcc81fcd284e1146fe79f50fb2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5rikMKYP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/Za6RRQStQMqtqALHMkto)
+[![creat-router-dir.png](img/f29df5bcc81fcd284e1146fe79f50fb2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5rikMKYP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/Za6RRQStQMqtqALHMkto)
 
 现在所有必要的文件夹和文件都已创建，在这个项目中，我们将在下一步进入下一个编码部分。
 
@@ -158,7 +158,7 @@ if (process.env.NODE_ENV === 'production') {
 
 您将看到生成了两个密钥，一个是私钥，另一个是公钥
 ，如下所示。
-[![create-vapid-key.png](../Images/236879638524d078e712c1ac85843895.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ItM2WagN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/Dw6GP2JWQhuPne1Iu074) 
+[![create-vapid-key.png](img/236879638524d078e712c1ac85843895.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ItM2WagN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/Dw6GP2JWQhuPne1Iu074) 
 复制两个密钥并粘贴到 keys_dev.js 或生产环境服务器配置中。
 
 ```
@@ -421,7 +421,7 @@ node server.js
 ```
 
 请确保您在点击该命令后会看到这些消息。
-[![server-running-command.jpg](../Images/2628083c82bebfde2ec9dfa3ad2e5ab4.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--vRIdlUeT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/Cr52K8NiQPOXAv6jOHSe)
+[![server-running-command.jpg](img/2628083c82bebfde2ec9dfa3ad2e5ab4.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--vRIdlUeT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/Cr52K8NiQPOXAv6jOHSe)
 
 检查应用程序运行正常后，再次按关闭应用程序。
 那么现在服务器端运行应用程序代码就完成了。现在让我们开始下一步
@@ -438,8 +438,8 @@ touch sw.js
 touch app.js 
 ```
 
-[![create-public-dir.png](../Images/54d8b394ff29a184fdb8e645e3ba2ece.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OpyA7z5h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/FMH7LgpjQoiL2n5wFPtc)
-[![creat-public-dir-files.png](../Images/ca478b8b4b569b3b3fd477f386e64826.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--tlUZlh48--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/tBj8EHNRZ5pYPfWDQhbA)
+[![create-public-dir.png](img/54d8b394ff29a184fdb8e645e3ba2ece.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OpyA7z5h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/FMH7LgpjQoiL2n5wFPtc)
+[![creat-public-dir-files.png](img/ca478b8b4b569b3b3fd477f386e64826.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--tlUZlh48--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/tBj8EHNRZ5pYPfWDQhbA)
 
 现在让我们将基本的 html 代码放在**index.html**文件中
 
@@ -586,6 +586,6 @@ node server.js
 ```
 
 现在在你的浏览器中打开**网址:[http://localhot:3000](http://localhot:3000)**
-[![puh-popup.png](../Images/b16824b253eec0630b2b34d880dedc35.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NRU0LQxs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/G7sZ1AuSyOF9DHyvcA2f)
+[![puh-popup.png](img/b16824b253eec0630b2b34d880dedc35.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NRU0LQxs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.filestackcontent.com/G7sZ1AuSyOF9DHyvcA2f)
 
 点击“全部”后，您会在浏览器控制台中看到如下消息

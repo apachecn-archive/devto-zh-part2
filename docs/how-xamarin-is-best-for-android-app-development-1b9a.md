@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/fractiontech/how-xamarin-is-best-for-android-app-development-1b9a>
 
-[![](../Images/3ad08f4a97b633a1520d673a8cb5516b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6KXPGaPH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A94X9S8wxU9wdm-ZKJ5Wwfw.jpeg)
+[![](img/3ad08f4a97b633a1520d673a8cb5516b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6KXPGaPH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A94X9S8wxU9wdm-ZKJ5Wwfw.jpeg)
 
 <figcaption>Xamarin 如何最适合 Android 应用开发？</figcaption>
 
@@ -10,7 +10,7 @@ Xamarin 是一款*跨平台开发软件*，让移动应用的制作变得轻而�
 
 Xamarin 是前端运行的 [**跨平台应用开发**](http://www.fraction.tech/services/application-development) 架构之一。 *Xamarin 移动应用开发*为公司提供了一些优势，包括成本效益、可重用的代码库、访问本地 API 等等。
 
-[![](../Images/68639776213fac8e988784d16d66b75e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T2a3Y1gv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/750/1%2AiCjPXhNjP3XnWEm422NYzg.jpeg)
+[![](img/68639776213fac8e988784d16d66b75e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T2a3Y1gv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/750/1%2AiCjPXhNjP3XnWEm422NYzg.jpeg)
 
 考虑到所有的事情，Xamarin 作为一个系统在跨平台应用程序开发方面得分很高的原因还有很多。
 

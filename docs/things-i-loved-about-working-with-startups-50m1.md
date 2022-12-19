@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/architectak/things-i-loved-about-working-with-startups-50m1>
 
-[![My team working at office](../Images/0797385648dbc833cd8036b00f4f6324.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Pv2Klutw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3bwa2rjccc5a65gaqh64.jpeg)
+[![My team working at office](img/0797385648dbc833cd8036b00f4f6324.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Pv2Klutw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3bwa2rjccc5a65gaqh64.jpeg)
 
 我职业生涯的前 5 年是在班加罗尔的初创公司做 Android 开发。
 

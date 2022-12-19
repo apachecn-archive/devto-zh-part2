@@ -6,4 +6,4 @@
 
 代号:[https://codepen.io/flavio_amaral/pen/QJqbpQ](https://codepen.io/flavio_amaral/pen/QJqbpQ)
 
-[![Christmas css](../Images/c8a6a10f1973b61f5b2191a3bc381a9e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ro7WpbwA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5c4iajvmyi2tp6poo1v0.png)
+[![Christmas css](img/c8a6a10f1973b61f5b2191a3bc381a9e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ro7WpbwA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5c4iajvmyi2tp6poo1v0.png)

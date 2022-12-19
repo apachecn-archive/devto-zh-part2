@@ -23,7 +23,7 @@
 
 <figure>
 
-[![Different viewport sizes = different Speed Index!](../Images/e4c2f7a3f6681d5e56060bf1c053f473.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xrtbJqEB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ocb5ak9m4yoppmmkc651.png)
+[![Different viewport sizes = different Speed Index!](img/e4c2f7a3f6681d5e56060bf1c053f473.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xrtbJqEB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ocb5ak9m4yoppmmkc651.png)
 
 <figcaption>Different viewport sizes = different Speed Index!</figcaption>
 
@@ -42,7 +42,7 @@
 
 对于用户体验，我们有两个有趣的里程碑(渲染开始的速度和完成的速度)。然而，我们仍然错过了一个重要的信息:在这两个计时之间发生了什么？让我们举一个极端的例子来搞清楚:2 个网页完全一样的开始渲染(500ms) et 视觉完成(2s)。
 
-[![Filmstrip example](../Images/913e0561501b12685e9bc9431898529b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eNxMNzz---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dtcerrl4p0msuj3pt43e.png)
+[![Filmstrip example](img/913e0561501b12685e9bc9431898529b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eNxMNzz---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dtcerrl4p0msuj3pt43e.png)
 
 *   A 页逐渐出现。其 75%的内容在开始渲染后不到 300 毫秒内显示。然后一些细节以较慢的速度出现，
 *   页面 B 几乎长时间保持空白，并在 2 秒钟内突然显示其所有元素。
@@ -55,13 +55,13 @@
 
 该结果是被测试网页的视觉进度比率的逐帧演变。每个 Dareboost 测试结果都包括一个页面加载的幻灯片(见下图)。
 
-[![Visual progress frame by frame](../Images/c55c898a820104159e7f09d93bf139ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kZ1_k5nI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ppcoqekmsnwa4een54zk.png)
+[![Visual progress frame by frame](img/c55c898a820104159e7f09d93bf139ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kZ1_k5nI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ppcoqekmsnwa4een54zk.png)
 
 随着时间的推移，视觉进度也可以用图表来表示，X 轴是时间，Y 轴是进度百分比。
 
 <figure>
 
-[![Speed Index from the visual progress graph](../Images/4bc87c6585ab1b2832dd15aa1326ca60.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NiQ6SdUf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mayuheg4zf36eu04451m.png)
+[![Speed Index from the visual progress graph](img/4bc87c6585ab1b2832dd15aa1326ca60.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NiQ6SdUf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mayuheg4zf36eu04451m.png)
 
 <figcaption></figcaption>
 
@@ -71,7 +71,7 @@
 
 这可以用下面的公式来翻译(来源:WebPageTest):
 
-[![Speed Index formula](../Images/0283ce783c10e1e35a7c7adf69495630.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--goHzRHwr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yb2q054moik47tjnl062.png)
+[![Speed Index formula](img/0283ce783c10e1e35a7c7adf69495630.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--goHzRHwr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yb2q054moik47tjnl062.png)
 
 ## 如何解读速度指数？
 
@@ -81,7 +81,7 @@
 
 那价值呢？什么可以被认为是“快”的速度指数？谷歌 Chrome 开发者倡导者保罗·爱尔兰(Paul Irish)建议速度指数小于 1000(T1)，对于某些类型的页面和浏览环境来说，这个目标可能很难实现。例如，你应该预料到一个新闻网站的主页会有一个高速的索引，但浏览时网络连接却很差！
 
-[![Speed Index benchmark DiG Lisbon 2017](../Images/bb5a2663fef466264c3680c17b728686.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kD0bedup--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cs24cepj5wubuzmmbp9z.png)
+[![Speed Index benchmark DiG Lisbon 2017](img/bb5a2663fef466264c3680c17b728686.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kD0bedup--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cs24cepj5wubuzmmbp9z.png)
 
 举几个具体的例子，下面是(上图)60 多家欧洲领先出版商的 Dareboost 基准测试结果。这些速度指数值是根据以下上下文测量的:一名法国游客(位于巴黎)，通过一个具有平均 web 连接(8Mbps 下行带宽，50 毫秒延迟)的桌面浏览网页。
 

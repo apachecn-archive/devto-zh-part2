@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/drozerah/get-app-stand-app--2fhb>
 
-[![Get App, stand app!](../Images/d81f30b395fdac67e90508f7908070f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GsHXPQQw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/Drozerah/quotes-on-programming/f7be9d90d99e75428531067e0d01c2b6c223d76c/dist/img/getApp.png)
+[![Get App, stand app!](img/d81f30b395fdac67e90508f7908070f3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GsHXPQQw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/Drozerah/quotes-on-programming/f7be9d90d99e75428531067e0d01c2b6c223d76c/dist/img/getApp.png)
 
 你好。我已经编写了一个关于编程领域的[报价生成器作为培训主题...该引擎基于一个简单的页面，通过一些 HTML5、CSS 和 Vanilla.js 实现随机返回报价……我不知道它是否一定更高效，但它在这方面工作得很好。](https://quotes-on-programming.netlify.com/)
 

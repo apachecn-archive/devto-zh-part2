@@ -4,11 +4,11 @@
 
 在 Cerner，我们工程师非常努力地提供创新的医疗保健解决方案。然而，我们也玩得很辛苦！
 
-> ![unknown tweet media content](../Images/48fb22a77cfe054618da62fdb01967a5.png)![Play butt](../Images/980e9fb12d58fa9423fc94c33003fc4f.png)<video loop="" controls=""><source src="https://video.twimg.com/ext_tw_video/1055901332345929735/pu/pl/8IuwYofQW_lSC5SX.m3u8?tag=5" type="application/x-mpegURL"></video>![Cerner Engineering profile image](../Images/fb3155197bc96ba8f6b933464a0203e5.png)cerner engineering@ cerner eng![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)我们喜欢这种可视化效果 [@che55er](https://twitter.com/che55er) 将整个 2^5 编程大赛中的 [@github](https://twitter.com/github) 活动以及被更改的语言类型(通过文件扩展名)
+> ![unknown tweet media content](img/48fb22a77cfe054618da62fdb01967a5.png)![Play butt](img/980e9fb12d58fa9423fc94c33003fc4f.png)<video loop="" controls=""><source src="https://video.twimg.com/ext_tw_video/1055901332345929735/pu/pl/8IuwYofQW_lSC5SX.m3u8?tag=5" type="application/x-mpegURL"></video>![Cerner Engineering profile image](img/fb3155197bc96ba8f6b933464a0203e5.png)cerner engineering@ cerner eng![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)我们喜欢这种可视化效果 [@che55er](https://twitter.com/che55er) 将整个 2^5 编程大赛中的 [@github](https://twitter.com/github) 活动以及被更改的语言类型(通过文件扩展名)
 
 在 Cerner 的内部黑客马拉松列表中，有一个名为 2^5.的编程竞赛这个比赛的规则相当简单:在 32 天内，你可以每天提交一份 32 行或更少代码的作品。
 
-> ![unknown tweet media content](../Images/b9631070b9cfee407f95ff3ae168073f.png)![Cerner Engineering profile image](../Images/fb3155197bc96ba8f6b933464a0203e5.png)cerner engineering@ cerner eng![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)今天，我们庆祝了以工程生产力为主题的 2^5 编程竞赛的结束，在这场竞赛中，我们的工程师们分享了在过去 32 天中通过减少 32 行或更少的代码来提高生产力的方法。今年我们收到了 59 种不同语言的投稿！2018 年 10 月 25 日 20 点 43 分[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1055560488594087940)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1055560488594087940)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1055560488594087940)
+> ![unknown tweet media content](img/b9631070b9cfee407f95ff3ae168073f.png)![Cerner Engineering profile image](img/fb3155197bc96ba8f6b933464a0203e5.png)cerner engineering@ cerner eng![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)今天，我们庆祝了以工程生产力为主题的 2^5 编程竞赛的结束，在这场竞赛中，我们的工程师们分享了在过去 32 天中通过减少 32 行或更少的代码来提高生产力的方法。今年我们收到了 59 种不同语言的投稿！2018 年 10 月 25 日 20 点 43 分[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1055560488594087940)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1055560488594087940)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1055560488594087940)
 
 这是我第二年参加比赛，我不得不说...超级好玩。以下是我在今年的比赛中学到的一些东西:
 
@@ -58,7 +58,7 @@
 
 回顾过去几年的职业生涯，我已经学会了许多不同的语言。我在这个 Github repo 中有我过去两年提交的所有内容:
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png)[jvar ness](https://github.com/jvarness)/[cerner-2-5](https://github.com/jvarness/cerner-2-to-the-5th)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png)[jvar ness](https://github.com/jvarness)/[cerner-2-5](https://github.com/jvarness/cerner-2-to-the-5th)
 
 ### 2^5 提交的材料
 

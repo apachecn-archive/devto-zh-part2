@@ -10,7 +10,7 @@
 
 [在 React Native 中使用 TextInput 组件](http://www.skptricks.com/2018/07/working-with-textinput-in-react-native.html)
 
-[![](../Images/37e881f0dbe2d8a59027e22765a9f905.png "Working With TextInput Component In React Native")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ltlAw8Pz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://2.bp.blogspot.com/-ACfY4P_1X0g/W1SsljvKUuI/AAAAAAAABuk/tiyekV5MMocNKAXIg8ESjVbuiCZcKrlyQCLcBGAs/s400/useri.jpg)
+[![](img/37e881f0dbe2d8a59027e22765a9f905.png "Working With TextInput Component In React Native")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ltlAw8Pz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://2.bp.blogspot.com/-ACfY4P_1X0g/W1SsljvKUuI/AAAAAAAABuk/tiyekV5MMocNKAXIg8ESjVbuiCZcKrlyQCLcBGAs/s400/useri.jpg)
 
 试玩链接:
 [https://youtu.be/ZcERK3d_e54](https://youtu.be/ZcERK3d_e54)

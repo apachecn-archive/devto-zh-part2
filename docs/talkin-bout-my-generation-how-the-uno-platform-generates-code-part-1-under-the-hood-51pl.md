@@ -33,7 +33,7 @@ XAML 击中了一个甜蜜点:它是人类可读的，富有表现力的，并�
 
 生成的输出可以在项目标题下的“obj”文件夹中找到。
 
-[![](../Images/ac23760e1aca76aa9357edb26112c979.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oOQWyFKV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AlGYiCBWwMK-g_Fk9.png)
+[![](img/ac23760e1aca76aa9357edb26112c979.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oOQWyFKV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AlGYiCBWwMK-g_Fk9.png)
 
 *main page . xaml 生成的代码文件*
 

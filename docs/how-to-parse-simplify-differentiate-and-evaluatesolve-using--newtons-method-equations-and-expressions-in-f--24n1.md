@@ -220,7 +220,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们现在已经有了用牛顿法解方程所需的所有元素。
 
-[![Newton's method](../Images/1c2250b3e67879323ec6b28eebb9971a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T5ZjVVAw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/newton.png)
+[![Newton's method](img/1c2250b3e67879323ec6b28eebb9971a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T5ZjVVAw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.elemarjr.com/wp-content/uploads/2018/03/newton.png)
 
 下面是我的实现。
 

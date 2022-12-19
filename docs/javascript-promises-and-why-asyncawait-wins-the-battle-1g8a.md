@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nickparsons/javascript-promises-and-why-asyncawait-wins-the-battle-1g8a>
 
-[![Async/Await](../Images/304ed730175db44b3c0699f7b0b531a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V9dp4nWZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p9i8wektckvua2omfw4v.png)
+[![Async/Await](img/304ed730175db44b3c0699f7b0b531a4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V9dp4nWZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p9i8wektckvua2omfw4v.png)
 
 异步函数在 JavaScript 中有好有坏。好的一面是异步函数是非阻塞的，因此速度很快——尤其是在 Node.js 上下文中。缺点是处理异步函数可能很麻烦，因为有时您必须等待一个函数完成，以便在继续下一个执行之前得到它的“回调”。
 

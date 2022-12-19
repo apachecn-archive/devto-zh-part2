@@ -18,7 +18,7 @@ Slack 仅仅与 GitHub 集成，但是没有分组，没有优先级。消息放
 
 Google Mail 将所有收到的消息分组到链中，并将 GitHub 对一个拉请求的所有评论放在一个链中。无论你有多少条未读的拉取请求消息，它们都显示为一条未读的链(和收入的数量一起)。
 
-[![Google Mail message chains with the amount of messages count](../Images/a474a42a17d5c88beb90db3f3c8f2e68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j0xcm8Ps--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pa60gef46p0m7fqhv4vq.png)
+[![Google Mail message chains with the amount of messages count](img/a474a42a17d5c88beb90db3f3c8f2e68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j0xcm8Ps--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pa60gef46p0m7fqhv4vq.png)
 
 重命名 pull-request 后，❗链接会中断，所有新注释会加入新组。这就是为什么不建议第一次正确命名拉式请求。
 
@@ -26,7 +26,7 @@ Google Mail 将所有收到的消息分组到链中，并将 GitHub 对一个拉
 
 [标签](https://support.google.com/mail/answer/118708?hl=en&ref_topic=3394656)允许将所有电子邮件组织成组。它们的工作方式类似于文件夹，但是您可以为一封邮件添加多个标签。我们将使用它们来指定消息类型，例如*【待审核】**【我的团队】**【OSS】*等等。
 
-[![Labelling Google Mail messages](../Images/d5ca6c34eb403ab58cbf9e05285e557e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GoeHl-Rc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k3imaqj2f9tedl5ohrgd.png)
+[![Labelling Google Mail messages](img/d5ca6c34eb403ab58cbf9e05285e557e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GoeHl-Rc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k3imaqj2f9tedl5ohrgd.png)
 
 ❗标签是灵活的，当你需要重新组织你的流程时，你可以随时重新配置它们。
 
@@ -34,7 +34,7 @@ Google Mail 将所有收到的消息分组到链中，并将 GitHub 对一个拉
 
 谷歌邮件使用[可定制的规则](https://support.google.com/mail/answer/6579?hl=en&ref_topic=3394656)来预处理收到的邮件。这是对电子邮件进行分类并将特定来源标签应用于电子邮件的最佳方式。
 
-[![Filters settings page](../Images/a07b93d80da821b03674942ddd688012.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_Eze4vWq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9v4yhewv7mujwg753xen.png)
+[![Filters settings page](img/a07b93d80da821b03674942ddd688012.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_Eze4vWq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9v4yhewv7mujwg753xen.png)
 
 ## 区分轻重缓急
 
@@ -52,7 +52,7 @@ Google Mail 将所有收到的消息分组到链中，并将 GitHub 对一个拉
 
 首先，我们必须考虑您正在监视的存储库以及传入数据的紧迫性。这是我的样品。您可以使用它开始并使它更适合您的情况:
 
-[![Basic labels for watching pull-requests](../Images/ef8ca135096d23af838e1d8edf25bab4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JL4A88Kq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yhizw7sew036lf61dmm8.png)
+[![Basic labels for watching pull-requests](img/ef8ca135096d23af838e1d8edf25bab4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JL4A88Kq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yhizw7sew036lf61dmm8.png)
 
 **Review**——保存来自有人用 GitHub 的“Reviewers”工具请求我评论的请求。
 
@@ -107,13 +107,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 1)全屏模式的“请勿打扰”。
 
-[![DnD on full-screen](../Images/7d16ad72be3688f5b58c118b29e675a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rUsI_duB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3pg92niya9ylqz9zg2ej.png)
+[![DnD on full-screen](img/7d16ad72be3688f5b58c118b29e675a3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rUsI_duB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3pg92niya9ylqz9zg2ej.png)
 
 当您在 VIM 中编码或全屏浏览时，此选项有助于您集中注意力。
 
 2)通知指定标签的电子邮件:
 
-[![Notify the most critical label's email](../Images/0d2b90b549d3b255ec5f434c60475dd7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iZnJHkDJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2nbq00crnzhdhdvnxr08.png)
+[![Notify the most critical label's email](img/0d2b90b549d3b255ec5f434c60475dd7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iZnJHkDJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2nbq00crnzhdhdvnxr08.png)
 
 这个功能让我对最重要的信息做出快速反应。
 

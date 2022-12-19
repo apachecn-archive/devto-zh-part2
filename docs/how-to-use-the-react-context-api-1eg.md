@@ -4,11 +4,11 @@
 
 ## 对环境做出反应
 
-[![](../Images/4e4edc5e912b163f41956882042b3cb7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B_9zu8TW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Afxn1R_dXIB0yF88pG8M6bg.jpeg)
+[![](img/4e4edc5e912b163f41956882042b3cb7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--B_9zu8TW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2Afxn1R_dXIB0yF88pG8M6bg.jpeg)
 
 如果你最近听说了很多关于新的 [**React 上下文 API**](https://reactjs.org/docs/context.html) 的事情，并想了解更多，这篇文章就是为你准备的。本文将展示一些例子，说明如何使用 React 上下文来管理可共享的状态和动作，同时避免 React 应用程序中与 [**道具钻取**](https://dev.to/kentcdodds/prop-drilling-38-temp-slug-4820416) 相关的可怕问题。
 
-[![](../Images/72fe30c903a651a6248361d716343590.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jkMeJMzo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AKqjVs_Y1p26VsxGqhncD3g.png) 
+[![](img/72fe30c903a651a6248361d716343590.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jkMeJMzo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AKqjVs_Y1p26VsxGqhncD3g.png) 
 
 <figcaption>来源:【https://www.dictionary.com/browse/context】</figcaption>
 
@@ -16,7 +16,7 @@
 
 在下面的演练中，我们将构建一个简单的帐户档案应用程序。大概是这样的:
 
-[![](../Images/d87e748a27782d0175cbcc1db73f17e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FhOwMzgN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/348/0%2AALMcT8hm3Ql-jMNZ)
+[![](img/d87e748a27782d0175cbcc1db73f17e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FhOwMzgN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/348/0%2AALMcT8hm3Ql-jMNZ)
 
 ### 初始组件和文件结构
 
@@ -198,7 +198,7 @@ const App = () => (
 export default App 
 ```
 
-[![](../Images/0c3957df4ae78da342bc35841e62b1ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cfWVwglN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/350/1%2A9smELZjfNRokxCC4QxI_Gw.gif)
+[![](img/0c3957df4ae78da342bc35841e62b1ab.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cfWVwglN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/350/1%2A9smELZjfNRokxCC4QxI_Gw.gif)
 
 ## 向我们的应用程序添加上下文
 
@@ -514,12 +514,12 @@ export default ConnectedAccountUpdate
 
 想在一个任务驱动的团队中工作，并喜欢 React 应用程序中的合理的适当管理吗？ [**我们要招聘**](https://flatironschool.com/careers/) **！**
 
-[![Footer top](../Images/14482ccec82c63d0e8096dc6b2c2379b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8yzEjPtS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AcN2uavSo9qa-SVEi6GAp2A.png)
+[![Footer top](img/14482ccec82c63d0e8096dc6b2c2379b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8yzEjPtS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AcN2uavSo9qa-SVEi6GAp2A.png)
 
 **要了解更多关于熨斗学校的信息，请访问** [**网站**](http://www.flatironschool.com/) **，关注我们的** [**【脸书】**](http://www.facebook.com/flatironschool) **和** [**推特**](http://www.twitter.com/flatironschool) **，并访问我们的** [**即将举办的活动**](https://flatironschool.com/events/) **。**
 
 **熨斗学校是** [**WeWork**](https://www.wework.com/) **家族的骄傲成员。看看我们的姐妹科技博客** [**WeWork 科技**](https://engineering.wework.com/) **和** [**制作 Meetup**](https://medium.com/making-meetup) **。**
 
-[![Footer bottom](../Images/216338eef5099fffac8419af94ff80bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ccTTOxvY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AvDaS9kLQz7Rf42nHubFrgw.png)
+[![Footer bottom](img/216338eef5099fffac8419af94ff80bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ccTTOxvY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AvDaS9kLQz7Rf42nHubFrgw.png)
 
 * * *

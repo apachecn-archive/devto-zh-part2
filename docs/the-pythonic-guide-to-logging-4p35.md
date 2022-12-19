@@ -27,7 +27,7 @@ None
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![exception1](../Images/88f263e96c278fb9703574b851b615c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Pfa7DQYV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/h6vh38q7qvzk/3bBW3220xqcegSMEYQ4sMy/1bfdf392b92f23cab6143e6971357f27/exception1.png)
+[![exception1](img/88f263e96c278fb9703574b851b615c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Pfa7DQYV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/h6vh38q7qvzk/3bBW3220xqcegSMEYQ4sMy/1bfdf392b92f23cab6143e6971357f27/exception1.png)
 
 虽然这在较小的脚本中很有用，但是随着您的应用程序和操作需求的增长，`print`变成了一个不太可行的解决方案。它没有为您提供关闭整个输出语句类别的灵活性，它只允许您输出到`stdout`。它还会丢失诸如行号和生成时间等有助于调试的信息。虽然`print`是最简单的方法，因为它不需要设置，但它会很快回来咬你。将打印的包直接发送给`stdout`也是一种不好的做法，因为这剥夺了用户控制消息的能力。
 
@@ -54,7 +54,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Python 模块允许您根据事件的严重程度来区分事件。级别用 0 到 50 之间的整数表示。该模块定义了整个频谱中的五个常数，使得区分消息变得容易。
 
-[![loggingLevels](../Images/c67a6e743f0f828175ef3a5330bac52b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sppvopg2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/h6vh38q7qvzk/4ndCwiSGDeEyIqCwmWs2KK/19a7cbf71d36644167a56f95bc1444c0/loggingLevels.jpeg)
+[![loggingLevels](img/c67a6e743f0f828175ef3a5330bac52b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sppvopg2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/h6vh38q7qvzk/4ndCwiSGDeEyIqCwmWs2KK/19a7cbf71d36644167a56f95bc1444c0/loggingLevels.jpeg)
 
 每个级别都有其特定的含义，你应该批判性地思考你正在登录的级别。
 
@@ -232,6 +232,6 @@ Enter fullscreen mode Exit fullscreen mode
 
 **就这样。**你所需要做的就是从 [timber.io](https://timber.io/) 那里获得你的 API 密匙，然后你就可以看到你的日志了。我们从日志模块中自动捕获它们，因此您可以继续遵循最佳实践并正常记录，同时我们无缝地添加上下文。
 
-[![footer](../Images/aa5c715399ff218855ddd92755157269.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---Pfx3BIg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/h6vh38q7qvzk/5BUP5dDcrKae4yyaoy8ocE/ba33ae45edec6325109f05a44407a2e2/footer.png)
+[![footer](img/aa5c715399ff218855ddd92755157269.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---Pfx3BIg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.ctfassets.net/h6vh38q7qvzk/5BUP5dDcrKae4yyaoy8ocE/ba33ae45edec6325109f05a44407a2e2/footer.png)
 
 注意:如果您正在 Flask 上创建应用程序，我建议您也查看一下他们的[日志文档](//flask.pocoo.org/docs/1.0/logging/)。

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ogwurujohnson/basic-api-with-nodejs-1el8>
 
-[![nodebanner](../Images/ef745a833233f026067a67b0a0f50879.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TcvC0-R3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vi4j2ga0ubftabyp1f9e.png) 
+[![nodebanner](img/ef745a833233f026067a67b0a0f50879.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--TcvC0-R3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vi4j2ga0ubftabyp1f9e.png) 
 **注意点**:贯穿本文的所有 JavaScript 代码都将遵循 ECMA 脚本 2015 标准编写。如果你有 JavaScript 和 Es6 的先验知识就更好了，是的，我知道 NodeJs 很热门，你想马上开始，但是你知道吗，我们只需要一个先决条件选项卡；
 
 **先决条件** :
@@ -40,7 +40,7 @@ NodeJs 既不是一个库也不是一个框架，而是一个运行时环境。�
 首先，我们需要在我们的系统上安装 Nodejs，如果您还没有这样做的话。
 
 下载节点👉[此处](https://nodejs.org/en/download/)。
-T3![nodejs download api](../Images/27abcc699a715bc674a6b7b47a05d005.png)T5】
+T3![nodejs download api](img/27abcc699a715bc674a6b7b47a05d005.png)T5】
 
 安装好 fire up 代码编辑器后，让我们开始创建 api。
 
@@ -50,15 +50,15 @@ T3![nodejs download api](../Images/27abcc699a715bc674a6b7b47a05d005.png)T5】
 
 打开您的命令窗口并导航到您的项目目录，或者我应该说 CD 进入您的项目目录
 
-[![cd into](../Images/1b32b30c0c0f94c95e9234ca35801c5a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gQipU_y---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5m5lnks6tn2kzr3cou8j.PNG)
+[![cd into](img/1b32b30c0c0f94c95e9234ca35801c5a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gQipU_y---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5m5lnks6tn2kzr3cou8j.PNG)
 
 在您的项目目录中，运行 npm init，您可以在所有提示中单击 enter，让 npm 使用默认设置设置您的项目，或者您可以编辑诸如作者和描述之类的内容，您可以在稍后创建 package.json 文件时编辑这一部分。
 
-[![npm init](../Images/4be51392552b9587fbdc86f2eeacf9da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6zh6mHSX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7p3nlygy7j45ijywx2ci.PNG)
+[![npm init](img/4be51392552b9587fbdc86f2eeacf9da.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6zh6mHSX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7p3nlygy7j45ijywx2ci.PNG)
 
 在上面的步骤之后，检查您的项目文件夹，一个新的文件 package.json 已经被添加，您可以在这个文件中进行上面讨论的那些更改。
 
-[![added package.json](../Images/08771c1def287ff2f19cd09545fa4abc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n7HJ3Vjq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vh5yxh2ry9arktifvmfr.PNG)
+[![added package.json](img/08771c1def287ff2f19cd09545fa4abc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n7HJ3Vjq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/vh5yxh2ry9arktifvmfr.PNG)
 
 现在让我们开始编写我们的 API。NodeJs 有一个名为 HTTP 的内置模块，它允许 NodeJs 通过超文本传输协议(HTTP)传输数据。要包含 HTTP 模块，请使用 require()方法:
 
@@ -84,10 +84,10 @@ Enter fullscreen mode Exit fullscreen mode
 
 *从上面的☝️中，我们将使用 Http 模块中的 createServer 方法来创建一个 http 服务器。当有人试图通过端口 3000 访问计算机时，将执行传递到 http.createServer()方法中的函数。该函数有两个参数`req`和`res`，分别代表`request`和`response`。保存代码，回到你的命令提示符，使用这个命令运行我们的项目*、`node index.js`。
 
-[![first run](../Images/9743387204474e2f12ec711291b7b24b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YWDGnXhW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y7xz89g6c5ieojhojahj.PNG) 
+[![first run](img/9743387204474e2f12ec711291b7b24b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YWDGnXhW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/y7xz89g6c5ieojhojahj.PNG) 
 现在我们的服务器正在监听端口 3000，把你提示上的那个 URL 复制到你的浏览器或者邮差那里，向它发送一个请求，你应该会看到下面的内容；
 
-[![first request](../Images/6413662611bb7dbba066b988a70ba25a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gSENTxgl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4k14jw0ghasllkm3bcce.PNG)
+[![first request](img/6413662611bb7dbba066b988a70ba25a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gSENTxgl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4k14jw0ghasllkm3bcce.PNG)
 
 在 node 上创建一个服务器并让它监听请求实际上很简单。现在让我们创建端点，应用程序的用户将使用这些端点与我们的系统进行通信。这也很容易，在你的代码编辑器中输入下面的代码；
 
@@ -117,7 +117,7 @@ Enter fullscreen mode Exit fullscreen mode
 返回到您的命令提示符，使用这个命令
 `npm install express --save`安装 express，然后输入
 
-[![install express](../Images/13cf34031ef16abd593f56ce5f7a0672.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2tuHhGf3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gnp545ofmgkpwb1xdftb.PNG)
+[![install express](img/13cf34031ef16abd593f56ce5f7a0672.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2tuHhGf3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gnp545ofmgkpwb1xdftb.PNG)
 
 现在，要使用 express，我们必须导入它，然后使用它附带的一些方法来创建端点。
 

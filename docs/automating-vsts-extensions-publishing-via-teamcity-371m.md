@@ -11,7 +11,7 @@
 
 2)扩展版本是在 Teamcity 级别上修补的(因此，开发人员不需要记住增加这些数字的必要性，但是，如果有重大更改，他必须通知 DevOps 或更新主版本)
 我使用 Teamcity 的“VCS 标记”功能来放置成功构建的标签，并使用“文件内容替换”功能来替换 vss-extension.json 和 task.json 中的版本。这样，Teamcity 将始终在创建扩展 vsix 包之前增加这两个文件中的版本。
-[![Example of VCS labeling](../Images/52ca3e0e534628a0f6adba9f4ef1ec36.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qngPZG6w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dobryak.org/wp-content/uploads/2018/04/features-600x305.png) 
+[![Example of VCS labeling](img/52ca3e0e534628a0f6adba9f4ef1ec36.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qngPZG6w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dobryak.org/wp-content/uploads/2018/04/features-600x305.png) 
 我正在试验几个正则表达式(所以，这不是一个简单的事实，而是对您自己的实现有用的开始)
 
 3)构建步骤:

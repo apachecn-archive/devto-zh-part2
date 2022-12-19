@@ -4,7 +4,7 @@
 
 这是一个关于如何在 Apollo 中使用 GraphQL 订阅的简单教程。
 
-[![](../Images/9b97291992dcd54020a405173544a133.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZWbJu-nf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/content/images/downloaded_images/moving-from-apollo-boost-to-graphql-subscriptions-with-apollo-client-cc0373e0adb0/1-t6XspdUqzOTkL-2dEr8y-A.png)
+[![](img/9b97291992dcd54020a405173544a133.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZWbJu-nf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.hasura.io/conteimg/downloaded_images/moving-from-apollo-boost-to-graphql-subscriptions-with-apollo-client-cc0373e0adb0/1-t6XspdUqzOTkL-2dEr8y-A.png)
 
 假设您已经有了基本的 apollo 客户端，可以按照[https://www . apollographql . com/docs/react/essentials/get-started . html](https://www.apollographql.com/docs/react/essentials/get-started.html)工作，现在您想要启用订阅。
 

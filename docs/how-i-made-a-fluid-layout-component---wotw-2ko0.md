@@ -6,7 +6,7 @@
 
 今天我将做一个组件，当一个按钮被点击时，它改变一个两列布局的宽度。这个小工具的灵感来自于[这个提交](https://uimovement.com/ui/5303/vr-class/)，看起来像这样:
 
-[![gif](../Images/1ba9a9f3068a265c4d47a641c3ab101b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ooEv96sE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zwbjc2fwo6sw2wci3s0b.gif)
+[![gif](img/1ba9a9f3068a265c4d47a641c3ab101b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ooEv96sE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zwbjc2fwo6sw2wci3s0b.gif)
 
 ## 制剂
 
@@ -73,7 +73,7 @@ Enter fullscreen mode Exit fullscreen mode
 我们现在有两个`inline-blocks`，一个有`30%`宽，另一个有`70%`，所以它们应该并排，对吗？
 错了！它们看起来像这样:
 
-[![not inline](../Images/6c5dc55592a5133f48ff5e68818f198e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eG6h8_l8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sm09ceb8cs9uylbhlnlm.png)
+[![not inline](img/6c5dc55592a5133f48ff5e68818f198e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eG6h8_l8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sm09ceb8cs9uylbhlnlm.png)
 
 为什么会这样呢？信不信由你，两个面板之间有一个小空间，这是由我们自己的标记造成的。基本上`30% + small-space + 70%`大于`100%`并导致最后一个元素(右窗格)下降。
 但是这个空间到底在哪里？就在这里:
@@ -140,7 +140,7 @@ Enter fullscreen mode Exit fullscreen mode
 Enter fullscreen mode Exit fullscreen mode
 
 现在看起来好多了。
-[![almost there](../Images/6f078463eb51c6eed0401510fee17b55.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--6sMd_8uz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ljpijy2gd8nkr2sbwrpx.png)
+[![almost there](img/6f078463eb51c6eed0401510fee17b55.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--6sMd_8uz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ljpijy2gd8nkr2sbwrpx.png)
 
 ## 相互作用
 
@@ -177,7 +177,7 @@ Enter fullscreen mode Exit fullscreen mode
 Enter fullscreen mode Exit fullscreen mode
 
 如果一切顺利，我们应该有我们的窗格动画时，点击按钮。
-[![animating panes](../Images/c59278d059144b40d3f668bc0bb3600f.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--dUBXiS1Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ocqje2aqp5v67sd5bhjt.gif)
+[![animating panes](img/c59278d059144b40d3f668bc0bb3600f.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--dUBXiS1Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ocqje2aqp5v67sd5bhjt.gif)
 
 棘手的部分来了，我们的按钮也需要动画来匹配我们之前看到的。为了能够直接引用我们的按钮，让我们以下面的方式放置一个`ref`:
 

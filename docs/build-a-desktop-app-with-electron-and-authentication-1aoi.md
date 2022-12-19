@@ -74,15 +74,15 @@ Enter fullscreen mode Exit fullscreen mode
 
 它应该启动应用程序，并显示一个登录链接。
 
-[![blog/electron-react-appauth-js/initial-load.png](../Images/a7d725bf2b2708fc2319436bd90417b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MDWL3qpP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/electron-react-appauth-js/initial-load-d99e8f89254c517247bfd3334efbb227db0e524e09fc2321633ea2c7f6ce0bdd.png)
+[![blog/electron-react-appauth-js/initial-load.png](img/a7d725bf2b2708fc2319436bd90417b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MDWL3qpP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/electron-react-appauth-js/initial-load-d99e8f89254c517247bfd3334efbb227db0e524e09fc2321633ea2c7f6ce0bdd.png)
 
 如果你有谷歌账户，点击**登录**，登录，你会被重定向回你的应用。你应该看到你的头像和名字显示出来。
 
-[![After Google Sign-In](../Images/a2dbf0f7513a400313646dd2932d0c7a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0oI96A-t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/electron-react-appauth-js/after-sign-in-a7901afbf031985eb93357560c05e522989b34db6fb93b144b680ca4be65b9d5.png)
+[![After Google Sign-In](img/a2dbf0f7513a400313646dd2932d0c7a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0oI96A-t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/electron-react-appauth-js/after-sign-in-a7901afbf031985eb93357560c05e522989b34db6fb93b144b680ca4be65b9d5.png)
 
 下图显示了如何使用 OpenID Connect 进行授权。
 
-[![OIDC Flow](../Images/225ed4e7c8234e587e7ba7577abc869f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dx2fbxG_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/electron-react-appauth-js/oidc-flow-9bf5b49890556ed301b657901ce0ed7329749d0bb4f0d56297c65c54befe12e1.png)
+[![OIDC Flow](img/225ed4e7c8234e587e7ba7577abc869f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dx2fbxG_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/electron-react-appauth-js/oidc-flow-9bf5b49890556ed301b657901ce0ed7329749d0bb4f0d56297c65c54befe12e1.png)
 
 此时，您可以看到 Google 的身份验证正在工作。在接下来的部分中，我将向您展示如何添加 PKCE 支持来使这个应用程序更加安全，以及如何使用 Okta 而不是 Google。
 
@@ -178,7 +178,7 @@ PKCE 工作组提供了一个很好的解释，我已经在下面列出来了。
 
 下图显示了 PKCE 如何使用你的应用程序和 Okta。
 
-[![Auth Code Flow with PKCE](../Images/997b3307080692b467f08cd62bbf6f7d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e3EV4pdD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/oauth_auth_code_flow_pkce-7ebc49bec20d71423cb6b9e85139164988a2d021a37277733d04ffac8eaabaad.png)
+[![Auth Code Flow with PKCE](img/997b3307080692b467f08cd62bbf6f7d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e3EV4pdD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/oauth_auth_code_flow_pkce-7ebc49bec20d71423cb6b9e85139164988a2d021a37277733d04ffac8eaabaad.png)
 
 现在你要将 PKCE 添加到你的电子应用程序中！在`flow.ts`中，为 PKCE 添加一个`challengePair`变量，作为`AuthFlow`类的成员变量。
 
@@ -262,7 +262,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 完成这些更改后，您应该可以登录了。然而，当你点击**用户信息**时，你将看不到你的用户名或头像。用**视图** > **打开 Chrome 开发者工具，切换开发者工具**看看为什么。
 
-[![Electron's Developer Tools](../Images/236c08fa116d5c5bdf6710264b6f51ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z-I9IzrP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/electron-react-appauth-js/developer-tools-8419cf2ad4dd16e3c56867827289696f287ce6abc419df4594e41f56aa3a119a.png)
+[![Electron's Developer Tools](img/236c08fa116d5c5bdf6710264b6f51ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z-I9IzrP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/electron-react-appauth-js/developer-tools-8419cf2ad4dd16e3c56867827289696f287ce6abc419df4594e41f56aa3a119a.png)
 
 要解决这个问题，请更改`flow.ts`中的`scope`变量，使其包含`profile`。同时，添加`offline_access`，这样你的应用就可以在没有互联网连接的情况下工作。
 
@@ -274,7 +274,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 刷新你的 app(Mac 上 Command+R，Windows/Linux 上 Ctrl+R)，现在点击**用户信息**就应该看到名字了。
 
-[![Name from User Info Endpoint](../Images/796d9dbb0e9571fcc53f57af130c14b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IoKrMxqf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/electron-react-appauth-js/userinfo-name-f4bce0776429b416c7cb27ba3a5921c4a76e824bebf97a6e01b2d0d11f787a9c.png)
+[![Name from User Info Endpoint](img/796d9dbb0e9571fcc53f57af130c14b8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IoKrMxqf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/electron-react-appauth-js/userinfo-name-f4bce0776429b416c7cb27ba3a5921c4a76e824bebf97a6e01b2d0d11f787a9c.png)
 
 **注意:**我利用[这些 PKCE 代码样本](https://github.com/openid/AppAuth-JS/issues/28)来完成所有这些工作。
 
@@ -302,29 +302,29 @@ Enter fullscreen mode Exit fullscreen mode
 
 要为您的用户添加一个`picture`属性，请登录您的 Okta 仪表板并导航至**用户** > **个人资料编辑器**。单击第一个“用户”并添加一个`picture`属性。点击**保存**。
 
-[![Add Picture Attribute](../Images/288c246592c14246d9ba342a27743968.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KNx4GxTn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/electron-react-appauth-js/add-attribute-92ce1f547cffc692375ce3bf5bc3edbfadd466e0091f67cc921685615ce4ea0d.png)
+[![Add Picture Attribute](img/288c246592c14246d9ba342a27743968.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KNx4GxTn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/electron-react-appauth-js/add-attribute-92ce1f547cffc692375ce3bf5bc3edbfadd466e0091f67cc921685615ce4ea0d.png)
 
 导航回配置文件编辑器，点击电子应用程序的**映射**。创建从`user.picture`到`picture`的映射，并选择在用户创建和更新时应用该映射。点击**保存映射**和**立即应用更新**。
 
-[![Add Picture Mapping](../Images/ce35e65378f054786dfa47bfb6263a1c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FbcVcH2U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/electron-react-appauth-js/add-mapping-befaa43f84f9c2119a2b6b4ee283984cd78d63240a86eb90058949ce46f8c668.png)
+[![Add Picture Mapping](img/ce35e65378f054786dfa47bfb6263a1c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FbcVcH2U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/electron-react-appauth-js/add-mapping-befaa43f84f9c2119a2b6b4ee283984cd78d63240a86eb90058949ce46f8c668.png)
 
 现在转到**用户** > **人**，选择一个用户，导航到**个人资料**标签，点击**编辑**。在底部为`picture`添加一个值。比如你可以用我们 Okta 开发者 logo 的网址。
 
 ```
-https://www.okta.com/sites/all/themes/Okta/images/logos/developer/Dev_Logo-02_Large.png 
+https://www.okta.com/sites/all/themes/Okimg/logos/developer/Dev_Logo-02_Large.png 
 ```
 
 Enter fullscreen mode Exit fullscreen mode
 
 现在，如果你点击用户信息链接，你应该会看到一个与你的用户相关的头像。
 
-[![User Info Picture](../Images/24588b201d3970873e2055f9dc053cc0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--arnKmnO5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/electron-react-appauth-js/userinfo-picture-772fce4b2aec8366fb32036c35741c379b6f3b4b7ccfa78d3b6fbf5759ff7871.png)
+[![User Info Picture](img/24588b201d3970873e2055f9dc053cc0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--arnKmnO5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/electron-react-appauth-js/userinfo-picture-772fce4b2aec8366fb32036c35741c379b6f3b4b7ccfa78d3b6fbf5759ff7871.png)
 
 **提示:**如果你打算在制作中使用它，我建议你使用较小的图片(例如，150x150 的尺寸)。你也可以 [base64 编码](https://www.base64-image.de/)一个图像，并将其值用于你的图片。
 
 下面是一个截图，显示了一些额外的波兰和我的帐户 base64 图像值的应用程序。
 
-[![Polished Matt](../Images/4e478c5bb5589c90af9fa961cba69f92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--heEp15vq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/electron-react-appauth-js/polished-matt-9566a63af2e502bff578c4811c8b8470037d45fb3ded934264365ec495a5d7df.png)
+[![Polished Matt](img/4e478c5bb5589c90af9fa961cba69f92.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--heEp15vq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/electron-react-appauth-js/polished-matt-9566a63af2e502bff578c4811c8b8470037d45fb3ded934264365ec495a5d7df.png)
 
 ## 将您的桌面应用打包用于生产
 

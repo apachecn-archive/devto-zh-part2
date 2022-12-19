@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/sreisner/understanding-the-react-context-api-through-building-a-shared-snackbar-for-in-app-notifications-8j2>
 
-[![](../Images/3e067ee51f5f02b93d5df661feaf1f19.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GPqrqLWk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/512/1%2AtDxVH_WUqvu7fiNorh_EfQ.png)
+[![](img/3e067ee51f5f02b93d5df661feaf1f19.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GPqrqLWk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/512/1%2AtDxVH_WUqvu7fiNorh_EfQ.png)
 
 ### 前言
 
@@ -14,7 +14,7 @@ Material UI 提供了一个 snackbar 组件，它非常适合这些类型的消�
 
 ### 我们在建造什么
 
-[![](../Images/a85cca6e38df0b8d5296040f43b41ebf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r8xDldGs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/364/1%2Ad8iHKTMYovt37-tA1pF4mQ.gif)
+[![](img/a85cca6e38df0b8d5296040f43b41ebf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r8xDldGs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/364/1%2Ad8iHKTMYovt37-tA1pF4mQ.gif)
 
 ### 设置/依赖关系
 

@@ -52,7 +52,7 @@ AWS Lambda 对我们来说非常熟悉，但由于 Amazon Athena 相当新，所
 
 我们知道，如果您使用 AWS Lambda 进行处理，您只需要为实际的处理时间付费，而不需要为空闲时间付费。如果你使用 AWS S3 进行文件存储，你必须为文件的大小和数据的移动付费——这也是一个昂贵的部分。考虑到这一点，我们开始计划。
 
-[![Serverless batch file processing application architecture](../Images/ebf8897d6dae4deee0e7597cc3374559.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JgPgD2lZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3584/1%2AH__2qWrSs1d4Ik-VRq4cKQ.png)
+[![Serverless batch file processing application architecture](img/ebf8897d6dae4deee0e7597cc3374559.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JgPgD2lZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3584/1%2AH__2qWrSs1d4Ik-VRq4cKQ.png)
 
 上图大致显示了我们如何集成 AWS 组件来构建我们的解决方案:
 
@@ -94,13 +94,13 @@ Amazon Athena 是一个无服务器的、基于 SQL 的查询服务，用于存�
 
 我们开始研究这个方案，这是我们得到的架构:
 
-[![](../Images/3e589d49575388a3265b872eb8f2c8bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c4EXIphF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3584/1%2AAZs8TbkHK-_L6ENRTKY98Q.png)
+[![](img/3e589d49575388a3265b872eb8f2c8bb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c4EXIphF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3584/1%2AAZs8TbkHK-_L6ENRTKY98Q.png)
 
 这是我们以前的架构中的一个重大变化。我们能够看到，我们可以利用阶跃函数的优势，使我们的解决方案更易于管理和供应。我们改进了我们想要的两个基本方面——资金和解决方案的供应。
 
 让我们也深入了解一下阶跃函数:
 
-[![Step Functions Diagram](../Images/5c5f4f52eb8a8b3afc2a13ce05008488.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bR5_5ngm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A_ZTY6uq3O68nKY7qFeI1fg.png)
+[![Step Functions Diagram](img/5c5f4f52eb8a8b3afc2a13ce05008488.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bR5_5ngm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A_ZTY6uq3O68nKY7qFeI1fg.png)
 
 所以让我们稍微解释一下这个方案。首先要知道的是，如果您使用 SDK 连接到 Athena，那么对服务的调用是异步的。这意味着，如果你想在一个 lambda 函数中进行查询，你必须发送它，但你不会立即收到答案。应该要求 Athena 查看信息的处理情况。
 
@@ -110,7 +110,7 @@ Amazon Athena 是一个无服务器的、基于 SQL 的查询服务，用于存�
 
 其他部分并不比之前复杂多少。作为第一个架构，这个过程从一个解析任务开始，以便为 Athena 查询准备好文件。这可以通过爬虫来完成，使用 AWS Glue 来转换数据，以便 Athena 可以查询它。我们用来降低成本的另一种方法是通过 Athena 查询来创建分区。
 
-[![Data Transformation](../Images/128b55c2faa3e104884823ef49355478.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V7Q0C8wZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AKRZfpF-C7M6Z0h7WOu3vNQ.png)
+[![Data Transformation](img/128b55c2faa3e104884823ef49355478.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V7Q0C8wZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AKRZfpF-C7M6Z0h7WOu3vNQ.png)
 
 做完这些，数据分析就开始了。这是 Lambda 函数调用 Athena 并请求已处理数据的地方。如前所述，这是针对不同的时间段完成的，只是增加了等待时间以及重试和错误的逻辑。
 

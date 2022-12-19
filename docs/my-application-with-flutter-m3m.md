@@ -9,6 +9,6 @@
 [安卓版本](https://play.google.com/store/apps/details?id=com.orange.labs.spilhenn)
 T5】iOS 版本
 
-[![](../Images/4e71a4f70c90da8c8a92972d5d7fbee5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--84lUuXBi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tbkxb4rsmm0pzo5hjq3t.png)
+[![](img/4e71a4f70c90da8c8a92972d5d7fbee5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--84lUuXBi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tbkxb4rsmm0pzo5hjq3t.png)
 
 没有完全被颤动说服。有了 Flutter，Android 就比 iOS 好用了(也可能我漏掉了什么，我应该改进我的代码！有人对颤振有经验吗？我希望得到你的反馈来讨论你对颤振的看法。

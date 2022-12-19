@@ -12,7 +12,7 @@
 
 为了让你了解这意味着什么，不用看键盘就能打字的普通人每分钟能打出 100 到 200 个字符。现在，看看这个家伙:
 
-[![Keyboard Mashing](../Images/01e44f07ae21031eeb2920eeb9835706.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zo5gNxsA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://i.imgur.com/mKO8klk.gif)
+[![Keyboard Mashing](img/01e44f07ae21031eeb2920eeb9835706.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zo5gNxsA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://i.imgur.com/mKO8klk.gif)
 
 考虑到 300+ APM 用于管理多个同时进行的游戏内战斗，以及玩家的经济，你会意识到它不仅仅是随机的按钮捣碎。
 
@@ -22,7 +22,7 @@
 
 ## 键盘快捷键启动你的游戏
 
-[![Starcraft army movement](../Images/a704fde9d400c685ce592c4770171354.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DhDUELjq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://i.imgur.com/Z5EI5Fd.gif)
+[![Starcraft army movement](img/a704fde9d400c685ce592c4770171354.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DhDUELjq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://i.imgur.com/Z5EI5Fd.gif)
 
 刚接触电脑的人和经验丰富的人之间最明显的区别是鼠标和键盘的使用比例。从技术上来说，你可以只用鼠标玩星际争霸，但实际上，你使用键盘快捷键越多，你的整体性能就会越好。
 
@@ -34,7 +34,7 @@
 
 没错，是*坏了*。
 
-[![Keyboard Shortcuts](../Images/827f975102c68e90431716439056a891.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Kg5yi46T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9rcmksjk32bdnkd9ln83.jpg)
+[![Keyboard Shortcuts](img/827f975102c68e90431716439056a891.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Kg5yi46T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9rcmksjk32bdnkd9ln83.jpg)
 
 在编程中，如果你只是用鼠标移动文件、循环标签、保存文件、运行构建等等，也是一样的。通过切换到键盘，你可以在每个动作上节省几秒钟。虽然随着时间的推移，这些可能只会略微增加，但更重要的是，它们让你专注于你正在做的工作。这就是为什么一些程序员转向 Vim，并赋予术语*键盘战士*新的含义。
 
@@ -42,7 +42,7 @@
 
 ## 一致性是关键
 
-[![Github streak](../Images/520539044db0a64941b9a447345aae67.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tBqBd6-H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://enetdown.org/outgoing/posts/2016/06/19/gfx/github-streak-1000-days-20160322.png)
+[![Github streak](img/520539044db0a64941b9a447345aae67.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tBqBd6-H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://enetdown.org/outgoing/posts/2016/06/19/gfx/github-streak-1000-days-20160322.png)
 
 如果你想快速变好，你需要每天练习*。**大多数编程初学者都会犯这样的错误:在学习代码的间隙休息一下**。*
 
@@ -56,7 +56,7 @@
 
 无论你是刚刚开始学习还是已经是专业人士(即你的键盘敲击为你赚钱)和志同道合的人在一起会帮助你前进。
 
-[![Team House](../Images/c8c041e40a680765669f9ffca0482966.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x3iUJ8A0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/tg3Wm.jpg)
+[![Team House](img/c8c041e40a680765669f9ffca0482966.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--x3iUJ8A0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/tg3Wm.jpg)
 
 在韩国，团队屋的概念在电子竞技中相对普遍。这基本上是一个少运动员多书呆子的兄弟会。这个想法是你日复一日地练习星际争霸，让它成为一件全职的事情。
 

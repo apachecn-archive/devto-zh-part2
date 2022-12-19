@@ -52,7 +52,7 @@
 
 作为一个我认为自己是聪明人的教程，我认为在阅读了这个[要点线程](https://gist.github.com/andrewlkho/a7920cd2d019f823332f)后，我可以通过在`/home/protected`中运行`tls.sh`来创建我自己的 TLS 证书。我错了。现在这个任务一直在运行，我每天都会收到一封邮件，告诉我它是如何失败的。有人知道我该怎么做才能让`https`正常工作吗？
 
-[![email of my server error message](../Images/1f0e7ee93fa76711b4c6f6da827ef6ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FLWd1l47--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c40wmsgevsdzzsfn9f2n.png)
+[![email of my server error message](img/1f0e7ee93fa76711b4c6f6da827ef6ed.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FLWd1l47--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c40wmsgevsdzzsfn9f2n.png)
 
 ## 更新:
 

@@ -4,7 +4,7 @@
 
 ⚠:在你开始阅读之前，这是我的第一篇文章，我没有太多的博客经验，所以请给我一个关于这篇文章的反馈，☄
 
-[![follow the rabbit](../Images/501a4db8ec912188b8a7b5ffb9e54200.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vj5OBk8Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tex6ej8ecu75ppoxa8ez.jpg)
+[![follow the rabbit](img/501a4db8ec912188b8a7b5ffb9e54200.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Vj5OBk8Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tex6ej8ecu75ppoxa8ez.jpg)
 
 ### 嗨！
 
@@ -240,4 +240,4 @@ async function heaven() {
 
 再见！回头见！
 
-[![bye](../Images/f8555732a8d27df95474cd47629539e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KARXg9Zw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1slphnrscfe2b8mpw89w.gif)
+[![bye](img/f8555732a8d27df95474cd47629539e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KARXg9Zw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1slphnrscfe2b8mpw89w.gif)

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/vijaykhatri96/6-reasons-why-you-need-to-start-using-html-5-right-away-e5p>
 
-[![HTML 5](../Images/90e4563209073a1b50804dcb9dfd9608.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--S-sjbCa1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rdxlnxdf09jhzpj244px.png) 
+[![HTML 5](img/90e4563209073a1b50804dcb9dfd9608.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--S-sjbCa1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rdxlnxdf09jhzpj244px.png) 
 在所有标识语言被识别的网站中， [74.4%都依赖 HTML 5](https://w3techs.com/technologies/details/ml-html5/all/all) 。所有你喜欢的网站，包括脸书、谷歌、维基百科和 Youtube，都依靠 HMTL 5 来有效地为你提供内容。如果你正在阅读这篇文章，你可能已经对 HTML 5 有所了解，尽管只是一点点。HTML5 是 HTML 标准的第五个主要版本。世界各地的 Web 开发人员更喜欢使用事实上的标记语言在 Internet 上构建和呈现内容。截至目前，该编程语言有两个标准化版本，HTML 5.2 推荐和 HTML 生活标准。对于那些考虑转换到 HTML 5 或者用它重新开始 web 开发的人来说，首先要知道为什么要使用它。但在此之前，以下是 HTML 5 的一些重要特征:
 
 1.  添加新的音频、画布和视频元素，以便在本地包含和处理图形和多媒体内容

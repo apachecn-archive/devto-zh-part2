@@ -70,7 +70,7 @@ checkInternetConnection();
 首先让我们为通知创建 HTML 标记。理想情况下，它应该作为 BODY 标签的第一个子标签插入，并作为页面内容的宿主元素的兄弟。
 
 ```
-<img src="https://cdnjs.cloudflare.com/ajax/libs/slippry/1.4.0/images/sy-loader.gif" width="1" height="1"
+<img src="https://cdnjs.cloudflare.com/ajax/libs/slippry/1.4img/sy-loader.gif" width="1" height="1"
      style="position:absolute; z-index:-2;"> <!-- Attepmting to preload an animated loader image which will be used later. NOTE, different browser behave differently  -->
 <div class="rawNotificationArea" id="rawNotificationArea">
     <div class="notification_message"></div>
@@ -193,7 +193,7 @@ var internetCheckActions = function() {
                 wasInternetConnectionBad = '';
             } else {
                 nativeNotification.contentFade();
-                nativeNotification.notify("We've detected a problem with your internet connection.\n Some functions may not work as expected<div><strong>Retrying <img src='https://cdnjs.cloudflare.com/ajax/libs/slippry/1.4.0/images/sy-loader.gif' width='20' height='20'></strong></div>", 'warning');
+                nativeNotification.notify("We've detected a problem with your internet connection.\n Some functions may not work as expected<div><strong>Retrying <img src='https://cdnjs.cloudflare.com/ajax/libs/slippry/1.4img/sy-loader.gif' width='20' height='20'></strong></div>", 'warning');
                 wasInternetConnectionBad = '1';
             }
         }

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/joshualjohnson/how-did-browser-cookies-get-their-name-2o72>
 
-[![my cookies can't be dipped in milk t-shirt](../Images/a909c785eaee1adea3b1a0393b092a4f.png)](https://ua1.us/tech/t-shirts/my-cookies-cant-be-dipped-in-milk-funny-tech-t-shirt/) 
+[![my cookies can't be dipped in milk t-shirt](img/a909c785eaee1adea3b1a0393b092a4f.png)](https://ua1.us/tech/t-shirts/my-cookies-cant-be-dipped-in-milk-funny-tech-t-shirt/) 
 
 <figcaption>我的饼干不能蘸牛奶</figcaption>
 

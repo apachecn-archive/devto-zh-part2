@@ -8,10 +8,10 @@
 
 听一听！💚💚💚
 
- [# 46:奇妙的虫子以及如何消灭它们](/jsparty/46-fantastic-bugs-and-how-to-squash-them)  [## JS 党](/jsparty) ![play](../Images/da55340508c383dd96223748725e7fff.png) ![pause](../Images/b2e500349dc3cd65ea44585f746d2a0d.png) ![JS Party](../Images/9be2c799f00ba0cbc824a6f52797d0e2.png)
+ [# 46:奇妙的虫子以及如何消灭它们](/jsparty/46-fantastic-bugs-and-how-to-squash-them)  [## JS 党](/jsparty) ![play](img/da55340508c383dd96223748725e7fff.png) ![pause](img/b2e500349dc3cd65ea44585f746d2a0d.png) ![JS Party](img/9be2c799f00ba0cbc824a6f52797d0e2.png)
 
 <audio id="audio" data-episode="46-fantastic-bugs-and-how-to-squash-them" data-podcast="jsparty"><source src="https://cdn.changelog.com/uploads/jsparty/46/js-party-46.mp3" type="audio/mpeg"> Your browser does not support the audio element.</audio>
 
-[![46: Fantastic bugs and how to squash them](../Images/a3afdb93fb4ce5d8157822b6dd99b01e.png) ![animated volume bars](../Images/b4c6951c950232cdfef32ac750ed6d92.png) ](/jsparty/46-fantastic-bugs-and-how-to-squash-them)  ![play](../Images/da55340508c383dd96223748725e7fff.png) ![pause](../Images/b2e500349dc3cd65ea44585f746d2a0d.png)     ![volume](../Images/64c7607b77476eb3d924254262a5bca4.png)   <input type="range" name="points" id="volumeslider" value="50" min="0" max="100" data-show-value="true">    ![mute](../Images/53eef5aa80ab0610ec1ea90b95d54171.png)  1x  initializing... × 
+[![46: Fantastic bugs and how to squash them](img/a3afdb93fb4ce5d8157822b6dd99b01e.png) ![animated volume bars](img/b4c6951c950232cdfef32ac750ed6d92.png) ](/jsparty/46-fantastic-bugs-and-how-to-squash-them)  ![play](img/da55340508c383dd96223748725e7fff.png) ![pause](img/b2e500349dc3cd65ea44585f746d2a0d.png)     ![volume](img/64c7607b77476eb3d924254262a5bca4.png)   <input type="range" name="points" id="volumeslider" value="50" min="0" max="100" data-show-value="true">    ![mute](img/53eef5aa80ab0610ec1ea90b95d54171.png)  1x  initializing... × 
 
 在[changelog.com](https://changelog.com/jsparty/46)上找到完整的演出笔记和文字记录。

@@ -4,7 +4,7 @@
 
 #### 事实证明，实时记录用户在地图上拉屎实际上可以帮助所有人。
 
-[![](../Images/1f74539b36c7a18695b4c54c2dd576fb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uyaSjlJ1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A6_XT_6YfFqKBQ_DBZ7UkjA.jpeg) 
+[![](img/1f74539b36c7a18695b4c54c2dd576fb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--uyaSjlJ1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A6_XT_6YfFqKBQ_DBZ7UkjA.jpeg) 
 
 <figcaption>丹·爱德华兹—昂斯普什</figcaption>
 
@@ -16,7 +16,7 @@
 
 无论如何，我希望建立某种项目，而不仅仅是待办事项列表或 notes 应用程序；我想要一些技术上更具挑战性的东西，这样我就可以测试 React Native 是否真的可以被公司或现实世界的应用程序所利用。我也开始在 SkyScanner 工作，担任 React 本地工程师，所以我想在开始工作之前获得一些实践经验。
 
-[![](../Images/e0d1443751ae2591b0d316978c60ff26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RJLjgV6A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ADBXOkTARqfU_Szz2_g7AAw.png)
+[![](img/e0d1443751ae2591b0d316978c60ff26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RJLjgV6A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ADBXOkTARqfU_Szz2_g7AAw.png)
 
 #### 实现
 
@@ -42,7 +42,7 @@ Logger 是一个笑话——它是我的朋友开始制作的，后来他放弃�
 
 在 Loggers 发布到 App Store 的第二天，我添加了一个新功能，添加了一个新的地图标签，添加了一个日志功能的切换，并利用了我已经建立的平台:“**公共厕所？**”。
 
-[![](../Images/909e06002aacbfe583d1b682ee00cc1b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H35Pbou4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ArIMnQ_UNTdfSuh2b6T3mvg.png)
+[![](img/909e06002aacbfe583d1b682ee00cc1b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--H35Pbou4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ArIMnQ_UNTdfSuh2b6T3mvg.png)
 
 通过为用户添加一种方法来标记他们的日志是否在公共场所，我能够映射这些数据，并允许所有用户看到可供使用的当地公共厕所的地图。问题是这些信息都是众包的——这意味着如果人们不使用这款应用，就不会有厕所信息可以分享——这一切都始于用户，也止于用户。
 

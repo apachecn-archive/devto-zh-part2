@@ -5,7 +5,7 @@
 这是一个简单的计划:给我的个人网站改头换面，并写一篇关于这个过程的博文。
 
 在了解 UI 框架后不久，我就建立了自己的网站，虽然我的基于布尔玛的网站比一些网站更好，但我并不喜欢它。下面是“之前”的图片:
-[!["before" image](../Images/ca540797742826a1243f5086931c4575.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Z5Jt-88i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sq9u5ca4nqd8mqz0diy5.png)
+[!["before" image](img/ca540797742826a1243f5086931c4575.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Z5Jt-88i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sq9u5ca4nqd8mqz0diy5.png)
 
 此外，我有点不好意思地承认，尽管我热爱 [CI/CD](https://en.wikipedia.org/wiki/CI/CD) ，但我个人页面的“发布”过程是`ssh`进入服务器并执行`git pull`。不完全是最先进的。
 
@@ -45,7 +45,7 @@
 ## 总结起来
 
 我对最终产品非常满意，也可在[www . Jon cass . com:](http://www.joncass.com:)
-[!["after" picture](../Images/78fe97fdb0adb00b3a4d4609e3186db2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lGyuu5WW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2o1b3x0denuqtxy94bn8.png)查看
+[!["after" picture](img/78fe97fdb0adb00b3a4d4609e3186db2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lGyuu5WW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2o1b3x0denuqtxy94bn8.png)查看
 
 正如鞋匠的儿童格言所说，我的个人项目经常得不到我在工作中应用的爱和严谨。虽然这对于一些项目来说很好，特别是在我可能不会继续进行的早期，但我希望我的“web presence”网站能有一点额外的关注。如果容易的话，我更愿意保持更新(谢谢 CD！).我认为我的新的简单(大声吻)和整洁(漂亮和干燥)的页面让我把我最好的脚放在网络上，即使它不是在这里发明的:)。
 

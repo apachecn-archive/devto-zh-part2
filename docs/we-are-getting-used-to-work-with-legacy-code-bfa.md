@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/edersonbadeca/we-are-getting-used-to-work-with-legacy-code-bfa>
 
-[![Hello](../Images/0b27317858280f575b8172e71452b849.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--65UOS0rf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mrgwlp921esj1a8f6m42.jpg)
+[![Hello](img/0b27317858280f575b8172e71452b849.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--65UOS0rf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mrgwlp921esj1a8f6m42.jpg)
 
 在工作日，我们通常没有时间改进我们的堆栈和平台，因为我们必须运营业务来支付账单，而产品几乎比我们正在构建的平台更重要。尤其是如果你在一家初创公司工作，急于证明自己的价值是不可或缺的。
 

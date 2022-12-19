@@ -28,13 +28,13 @@ NPM 与 Node 打包在一起，所以它们会被同时安装。它用于初始�
 
 一旦我们准备好代码，我们可以把它推到 NPM。打开终端，导航到您的项目文件夹，并使用 **$npm 登录在 NPM 进行身份验证。**为了确保您通过了身份验证，请键入 **$npm whoami** ，这将返回您的用户名。
 
-[![NPM Auth check](../Images/6dfb2ba4749bc3d0dfc79242678fb16d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--F3O1fmfm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.antonioufano.com/image_uploads/NPM_Auth.png)T3】
+[![NPM Auth check](img/6dfb2ba4749bc3d0dfc79242678fb16d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--F3O1fmfm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.antonioufano.com/image_uploads/NPM_Auth.png)T3】
 
 现在，要发布您的包，您只需运行 ***$npm publish*** 。您的包将以 package.json 文件中的名称和版本在 NPM 发布，因此这些字段是必填的。尝试为您的包使用一个描述性的名称，但要确保它没有被使用。如果你的包名不可用，你会得到下面的错误“*你没有权限发布“hello-world”。您是否以正确的用户身份登录？*“所以最好先查一下你的套餐名称有没有。
 
 如果您正确登录并且您的软件包名称可用，您的软件包应该出现在您的 npmjs.com 个人资料中，其他用户将能够通过***$ NPM install your-package-name***安装它。
 
-[![NPM publish](../Images/74f5c9090e71944266a3e7b3ef34b6e5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bB3--p7i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.antonioufano.com/image_uploads/NPM_publish.png)T3】
+[![NPM publish](img/74f5c9090e71944266a3e7b3ef34b6e5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--bB3--p7i--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.antonioufano.com/image_uploads/NPM_publish.png)T3】
 
 ### 更新您的包
 
@@ -50,7 +50,7 @@ NPM 与 Node 打包在一起，所以它们会被同时安装。它用于初始�
 
 在这两种情况下，一旦你的版本号被更新，你必须用*$ NPM publish*重新发布你的包。请注意，如果您试图发布一个具有相同版本号的修改过的包，您将会得到一个错误。 
 
-[![NPM update package](../Images/f0459128d30dcc398d530c6fdea254c9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--neYRpWye--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.antonioufano.com/image_uploads/NPM_version.png)T3】
+[![NPM update package](img/f0459128d30dcc398d530c6fdea254c9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--neYRpWye--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.antonioufano.com/image_uploads/NPM_version.png)T3】
 
 ## 结论
 

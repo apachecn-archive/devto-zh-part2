@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/arleneandrews/100-days-of-code-retrospective-finding-options-1eb6>
 
-[![](../Images/d95644d52f249f0ebe7f775172b8fc5a.png)](https://www.brainyquote.com/photos_tr/en/p/plato/118809/plato1-2x.jpg) 
+[![](img/d95644d52f249f0ebe7f775172b8fc5a.png)](https://www.brainyquote.com/photos_tr/en/p/plato/118809/plato1-2x.jpg) 
 感谢 brainyquote.com 的形象！
 
 警告:这一部分有一些你可能不想知道的细节——如果你想的话可以跳过它。

@@ -4,7 +4,7 @@
 
 #### 考虑 Redux 的好处？我们有文章给你。
 
-[![](../Images/042b2fe9d428619475ee528cf76298b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z65Zeq8o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/713/1%2AdlapmYAhWBkrFuHm020qlg.png)
+[![](img/042b2fe9d428619475ee528cf76298b6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z65Zeq8o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/713/1%2AdlapmYAhWBkrFuHm020qlg.png)
 
 现在是 2018 年，是软件开发中使用许多新库和工具的时候了。有了这么多的工具和库，(在你读完这篇文章之前可能已经发布了一个 JavaScript 库)，在没有真正理解它的好处或者为什么你应该使用它的情况下就开始使用每一个新的工具和库可能不是最明智的做法。
 
@@ -20,7 +20,7 @@ Redux 并不新鲜，而且相当受欢迎。然而，如果你不知道 Redux �
 
 使用 Redux，应用程序的状态保存在一个存储中，每个组件都可以从这个存储中访问它需要的任何状态。让我们深入一点，看看为什么您可能需要一个状态管理工具。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### 为什么需要状态管理工具
 
@@ -206,7 +206,7 @@ Redux 的一个主要好处是增加了将“发生了什么”与“事情如�
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

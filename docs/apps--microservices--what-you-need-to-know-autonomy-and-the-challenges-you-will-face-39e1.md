@@ -66,7 +66,7 @@
 
 由于每个微服务都是相互分离的，因此保持多个微服务之间的数据一致性是一个挑战。
 
-[![Conistency.PNG](../Images/22d6f5ff5446e6d15233f0e2250dd52b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Lnn6iaQN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.designpuddle.com/wp-content/uploads/2017/07/Conistency.png)
+[![Conistency.PNG](img/22d6f5ff5446e6d15233f0e2250dd52b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Lnn6iaQN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.designpuddle.com/wp-content/uploads/2017/07/Conistency.png)
 
 我们可以看到，当一个微服务的价格发生变化时，我们必须将这种变化传播到其他微服务。通常这将涉及一个 join 或一个 API 调用来反映这一点，然而对于每个拥有私有数据库的微服务，我们需要使用基于异步通信(如集成事件)的**最终一致性**。
 
@@ -80,7 +80,7 @@
 
 ## 什么是/曾经是 ESB(企业服务总线)
 
-[![](../Images/03ded4924c3c6c8feb0cbb66e21801cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g4iHMcj7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/ESB.svg/220px-ESB.svg.png)
+[![](img/03ded4924c3c6c8feb0cbb66e21801cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g4iHMcj7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/ESB.svg/220px-ESB.svg.png)
 
 > **ESB 模型承诺通过集中化进行简化**
 
@@ -94,7 +94,7 @@ API 网关也落入了同样的陷阱。它集中处理多个微服务。很明�
 
 如果需要使用 API 网关，应该根据业务边界进行隔离，而不是作为整个应用程序的聚合器。
 
-[![ApiGateway.PNG](../Images/480acc27cb3fb342aac1a353e394cb1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s8WZVmlO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.designpuddle.com/wp-content/uploads/2017/07/ApiGateway.png)
+[![ApiGateway.PNG](img/480acc27cb3fb342aac1a353e394cb1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--s8WZVmlO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.designpuddle.com/wp-content/uploads/2017/07/ApiGateway.png)
 
 ### API 网关模式的缺点
 
@@ -144,11 +144,11 @@ API 网关也落入了同样的陷阱。它集中处理多个微服务。很明�
 
 两种最常见的方法是通过 API 使用 HTTP/S 消息。这是一个同步协议，客户端发送请求并等待响应。这通常会使用[命令模式](https://en.wikipedia.org/wiki/Command_pattern)，其中每个请求由一个服务处理。
 
-[![RequestReponseComHTTP.PNG](../Images/b4e83e3fdb194f3d3d1db982506be716.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SjAlS0aW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.designpuddle.com/wp-content/uploads/2017/07/RequestReponseComHTTP.png)
+[![RequestReponseComHTTP.PNG](img/b4e83e3fdb194f3d3d1db982506be716.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SjAlS0aW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.designpuddle.com/wp-content/uploads/2017/07/RequestReponseComHTTP.png)
 
 另一种是轻量级异步消息协议，如 AMQP。客户端代码或消息不需要等待响应，只需将消息发送给一个代理，如 [RabbitMQ](https://www.rabbitmq.com/) ，然后由一个单独的进程处理。发布/订阅方法就是这样一种利用多个接收者的机制，因为异步的本质意味着每个请求可以由一个或多个服务实例来处理。另一种是事件驱动的通信，通常使用服务总线来实现，这些服务总线提供了一些选项，如使用队列的 [MassTransit](http://masstransit-project.com/) 、 [NServiceBus](https://particular.net/nservicebus) 或使用主题和订阅的 Azure 服务总线。
 
-[![AsynchronousEvents](../Images/374be97957b4c7419e395075e77b2b48.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DYBOalUl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.designpuddle.com/wp-content/uploads/2017/07/AsynchronousEvents.png)
+[![AsynchronousEvents](img/374be97957b4c7419e395075e77b2b48.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DYBOalUl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://blog.designpuddle.com/wp-content/uploads/2017/07/AsynchronousEvents.png)
 
 这两种方法之间的比较可以在这里找到:[队列与主题和订阅。](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-queues-topics-subscriptions)
 

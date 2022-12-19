@@ -74,7 +74,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 或者通过 Xcode 添加新密钥
 
-[![info plist motion usage description](../Images/a0938e6f81bc56ef404901335d173b3a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cPlrckbd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tchza38v1v75v15t3280.png)
+[![info plist motion usage description](img/a0938e6f81bc56ef404901335d173b3a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cPlrckbd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tchza38v1v75v15t3280.png)
 
 ### [2](#2-create-an-raw-cmmotionactivitymanager-endraw-and-raw-cmpedometer-endraw-instances)。创建一个`CMMotionActivityManager`和`CMPedometer`实例
 
@@ -143,7 +143,7 @@ private func startUpdating() {
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/1bf7ab9f7180f8491f66ba17e3df3c37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kQ_iDEsa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yo5c8vzy2ikqkog7051q.gif)
+[![](img/1bf7ab9f7180f8491f66ba17e3df3c37.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kQ_iDEsa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yo5c8vzy2ikqkog7051q.gif)
 
 ## 结论
 

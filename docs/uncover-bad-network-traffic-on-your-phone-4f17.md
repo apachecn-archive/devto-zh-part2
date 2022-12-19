@@ -2,13 +2,13 @@
 
 > 原文：<https://dev.to/agrinman/uncover-bad-network-traffic-on-your-phone-4f17>
 
-## ![GitHub logo](../Images/292a238c61c5611a7f4d07a21d9e8e0a.png)阿格里曼 / [ sift-ios](https://github.com/agrinman/sift-ios)
+## ![GitHub logo](img/292a238c61c5611a7f4d07a21d9e8e0a.png)阿格里曼 / [ sift-ios](https://github.com/agrinman/sift-ios)
 
 ### 发现手机上每个应用程序的实时网络流量
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-[![](../Images/50a876524636aba09bfe926fcda1ef61.png)T2】](https://raw.githubusercontent.com/agrinman/sift-ios/master/Artwork/rounded_icon.png)
+[![](img/50a876524636aba09bfe926fcda1ef61.png)T2】](https://raw.githubusercontent.com/agrinman/sift-ios/master/Artwork/rounded_icon.png)
 
 # 移位应用程序
 
@@ -40,9 +40,9 @@ Sift 向你展示了你手机上的每个应用真正在做什么。发现手机
 *   阻止不良网站和跟踪页面
 *   iOS 开发者:调试你的实时应用中的网络
 
-[![](../Images/a7d4db58d011bd61aceaa3875f7ff7e8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--H5l-JrKB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/agrinman/sift-ios/raw/master/screens/1.PNG)
-[![](../Images/bb643c134f8c7c3e352a2d0c7a021367.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_2Qr2fLq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/agrinman/sift-ios/raw/master/screens/2.PNG)
-[![](../Images/7eab9e206ac64ceb19d63300b79c1905.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WdcRUxVa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/agrinman/sift-ios/raw/master/screens/3.PNG)
+[![](img/a7d4db58d011bd61aceaa3875f7ff7e8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--H5l-JrKB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/agrinman/sift-ios/raw/master/screens/1.PNG)
+[![](img/bb643c134f8c7c3e352a2d0c7a021367.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_2Qr2fLq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/agrinman/sift-ios/raw/master/screens/2.PNG)
+[![](img/7eab9e206ac64ceb19d63300b79c1905.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--WdcRUxVa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/agrinman/sift-ios/raw/master/screens/3.PNG)
 
 ## 关于
 

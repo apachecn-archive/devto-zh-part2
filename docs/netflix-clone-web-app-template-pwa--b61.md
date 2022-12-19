@@ -12,7 +12,7 @@
 
 源代码和文档通常可以在 GitHub 上获得:
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png) [ zuixjs ](https://github.com/zuixjs) / [ zuix-web-flix](https://github.com/zuixjs/zuix-web-flix)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png) [ zuixjs ](https://github.com/zuixjs) / [ zuix-web-flix](https://github.com/zuixjs/zuix-web-flix)
 
 ### 网飞应用程序克隆为渐进式 web 应用程序模板
 
@@ -31,7 +31,7 @@
 *   浏览器内捆绑器:可以将所有资源打包在一个文件中，提高加载速度
 *   PWA 灯塔评分 100/100(！)
 
-[![LightHouse Report](../Images/e1ecbb4f7de424c6611f3302e28ac9f5.png)T2】](https://camo.githubusercontent.com/af508e708c660ea25301c1b438985a19f810364ec9be16f5076a8be1e19bb47f/68747470733a2f2f7a7569786a732e6769746875622e696f2f7a7569782d7765622d666c69782f696d616765732f6c69676874686f7573652d7265706f72742e706e67)
+[![LightHouse Report](img/e1ecbb4f7de424c6611f3302e28ac9f5.png)T2】](https://camo.githubusercontent.com/af508e708c660ea25301c1b438985a19f810364ec9be16f5076a8be1e19bb47f/68747470733a2f2f7a7569786a732e6769746875622e696f2f7a7569782d7765622d666c69782f696d616765732f6c69676874686f7573652d7265706f72742e706e67)
 
 ### 演示网站
 
@@ -61,7 +61,7 @@ npm start
 
 阅读下一篇:
 
-[![genejams](../Images/ab410dc05437d55e52306d6bb995095d.png)](/genejams) [## 在你的网站上添加基于手势的交互
+[![genejams](img/ab410dc05437d55e52306d6bb995095d.png)](/genejams) [## 在你的网站上添加基于手势的交互
 
 ### { Gene } Aug 31 ' 183 分钟读取
 

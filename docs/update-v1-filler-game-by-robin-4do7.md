@@ -4,7 +4,7 @@
 
 本周早些时候，我发了一篇帖子，讲述了我是如何受到启发用 react 制作这个游戏的
 
-[![darksmile92 image](../Images/722f3759d16dd71a85fce5693df871b5.png)](/darksmile92) [## 实体游戏桌如何激发我的下一个项目
+[![darksmile92 image](img/722f3759d16dd71a85fce5693df871b5.png)](/darksmile92) [## 实体游戏桌如何激发我的下一个项目
 
 ### robin Kretzschmar 11 月 12 日 182 分钟阅读
 
@@ -21,14 +21,14 @@
 *   选项:在按钮建议中显示通过颜色获取的单元格数量
 
 下面是 GitHub 上托管的[Demo](https://darksmile92.github.io/filler-game-react/):
-[![Screenshot of demo](../Images/74be1445cd16b52b3bfeb25dff63da3a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mqu3XCnf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xlthgcsm5avap7hr3vb8.png)
+[![Screenshot of demo](img/74be1445cd16b52b3bfeb25dff63da3a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mqu3XCnf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xlthgcsm5avap7hr3vb8.png)
 
 #### 接下来
 
 *   实现 CPU 对手
 *   实施不同的解决策略
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) [暗黑微笑 92 ](https://github.com/DarkSmile92) / [填充-游戏-反应](https://github.com/DarkSmile92/filler-game-react)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) [暗黑微笑 92 ](https://github.com/DarkSmile92) / [填充-游戏-反应](https://github.com/DarkSmile92/filler-game-react)
 
 ### 作为 react app 实现的经典填充游戏！
 

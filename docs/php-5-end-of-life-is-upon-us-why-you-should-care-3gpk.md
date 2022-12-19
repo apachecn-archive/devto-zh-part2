@@ -6,7 +6,7 @@
 
 2004 年 PHP 5 向公众发布。那一年，美国经济已经从大萧条中复苏。3 年前发布的 Windows XP 迎来了它的飞跃，年度最佳流行歌曲是的[亚瑟](https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2004)的【耶】。记住，[PHP 5 发布时，Windows XP 已经有 3 年历史了。有一段时间了。](https://en.wikipedia.org/wiki/List_of_Microsoft_Windows_versions)
 
-<figure>[![](../Images/c47050541c72c7df366588f10fa42315.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qcn7yxgF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/10/php_2018_10_support_timeframe.png) 
+<figure>[![](img/c47050541c72c7df366588f10fa42315.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--qcn7yxgF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/10/php_2018_10_support_timeframe.png) 
 
 <figcaption>PHP 版本官方支持时间轴。</figcaption>
 
@@ -16,7 +16,7 @@
 
 不是听起来像一个恐惧制造者，但是如果你有一个运行 PHP 5 的应用程序，并且你没有在接下来的 6 个月内完成升级的途径；开始计划出现数据泄露、负面报道、声誉受损、失去客户，以及可能的法律诉讼。这不是你是否会被攻破的问题；但是当。你真的想成为因数据泄露而在 https://haveibeenpwned.com/上市的公司之一吗？
 
-<figure>[![](../Images/17968ac4d38d58f98de852c53e76d649.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Q_rLyg3g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/10/php7_interconnect_servers.png) 
+<figure>[![](img/17968ac4d38d58f98de852c53e76d649.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Q_rLyg3g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/10/php7_interconnect_servers.png) 
 
 <figcaption>PHP，现代公共互联网的粘合剂。</figcaption>
 
@@ -35,7 +35,7 @@
 *   关系型数据库
 *   sybase_ct
 
-<figure>[![](../Images/b3e34585f682b9d5954bb0b69fdb0123.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--udfVB4nK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/10/php7_trading_graph.jpg) 
+<figure>[![](img/b3e34585f682b9d5954bb0b69fdb0123.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--udfVB4nK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/10/php7_trading_graph.jpg) 
 
 <figcaption>PHP 应用程序无处不在，已经成为一种商品。</figcaption>
 
@@ -53,7 +53,7 @@
 *   [https://w3techs.com/technologies/details/pl-php/all/all](https://w3techs.com/technologies/details/pl-php/all/all)
 *   [https://sensorstechforum . com/support-PHP-5-6-x-ends-websites-risk/](https://sensorstechforum.com/support-php-5-6-x-ends-websites-risk/)
 
-<figure>[![](../Images/b1deeba04d572dc1f89c6431d756a0b2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--O_N2W_jW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/10/php7_quad_color.png) 
+<figure>[![](img/b1deeba04d572dc1f89c6431d756a0b2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--O_N2W_jW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.davidjeddy.com/wp-content/uploads/2018/10/php7_quad_color.png) 
 
 <figcaption>PHP 7 是现在和未来。</figcaption>
 

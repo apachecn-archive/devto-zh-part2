@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/wiaio/build-your-own-smile-detector-with-wia-amazon-rekognition-and-raspberry-pi--50lg>
 
-[![alt text](../Images/bb3949116feae2539934c2fefaeb18d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CIvnUi31--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-15/1523818717-566790-recognition-animation-gif-speed-00054.png)
+[![alt text](img/bb3949116feae2539934c2fefaeb18d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CIvnUi31--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-15/1523818717-566790-recognition-animation-gif-speed-00054.png)
 
 大家好，
 在本教程中，我们将构建一个面部识别相机，它可以检测某人是否在微笑。
@@ -20,15 +20,15 @@
 
 一旦你做好了一切准备，就该开始在你的树莓皮上设置摄像头了。当您通过 SSH 登录到您的 Raspberry Pi 时，运行命令`sudo raspi-config`。按下向下箭头键，直到到达`5 Interfacing Options`并按下回车键。
 
-[![alt text](../Images/585b30975f4076c51671f0d10c7c2d13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VMPNgjbn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-12/1523527924-901868-screen-shot-2018-04-12-at-103641.png)
+[![alt text](img/585b30975f4076c51671f0d10c7c2d13.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VMPNgjbn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-12/1523527924-901868-screen-shot-2018-04-12-at-103641.png)
 
 确保选择了`P1 Camera`并按下回车键。
 
-[![alt text](../Images/1e93921397978f8beee6b9652ee7b64c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9MX-dgkU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-12/1523527954-3232-screen-shot-2018-04-12-at-103653.png)
+[![alt text](img/1e93921397978f8beee6b9652ee7b64c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9MX-dgkU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-12/1523527954-3232-screen-shot-2018-04-12-at-103653.png)
 
 当询问`Would you like the camera interface to be enabled?`时，选择`<Yes>`。
 
-[![alt text](../Images/5a4d8311579c9ace9957e8218f9f57c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YnYFVJof--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-12/1523527974-618439-screen-shot-2018-04-12-at-103742.png)
+[![alt text](img/5a4d8311579c9ace9957e8218f9f57c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YnYFVJof--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-12/1523527974-618439-screen-shot-2018-04-12-at-103742.png)
 
 要退出，按下向下箭头键，直到您到达`<Finish>`并按下 Enter。
 
@@ -107,11 +107,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 按`CTRL+O`(那是字母 o，不是数字)保存代码，然后按`CTRL+X`退出 Nano。回到您的终端，通过运行命令`node run-camera.js`运行代码。
 
-[![alt text](../Images/b22a44b8fa34da63a6f3223c0f83f765.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T66B08Wq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-12/1523528587-325138-screen-shot-2018-04-12-at-112247.png)
+[![alt text](img/b22a44b8fa34da63a6f3223c0f83f765.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T66B08Wq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-12/1523528587-325138-screen-shot-2018-04-12-at-112247.png)
 
 在 Wia 仪表板的调试器中，您现在应该看到事件出现。
 
-[![alt text](../Images/9c2000bbe8e8459b8cb3e9826bdcb646.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cOnW97wb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-12/1523528622-426028-screen-shot-2018-04-12-at-112310.png)
+[![alt text](img/9c2000bbe8e8459b8cb3e9826bdcb646.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cOnW97wb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-12/1523528622-426028-screen-shot-2018-04-12-at-112310.png)
 
 ### **造流**
 
@@ -128,18 +128,18 @@ Enter fullscreen mode Exit fullscreen mode
 
 从触发器部分拖过事件节点。将鼠标悬停在节点上，然后单击齿轮图标以打开设置。输入`photo`作为事件名称，并点击更新。现在添加您希望此触发器应用到的设备。
 
-[![alt text](../Images/23c5790c99ab7ed479b8840e59e25c1a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2f8JMHg_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-12/1523528878-925761-screen-shot-2018-04-12-at-112646.png)
+[![alt text](img/23c5790c99ab7ed479b8840e59e25c1a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2f8JMHg_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-12/1523528878-925761-screen-shot-2018-04-12-at-112646.png)
 
 ### **添加一个检测人脸节点**
 
 拖动“服务”下的“检测面孔”节点，并将其连接到“事件”节点。
 
-[![alt text](../Images/1e4046b068b396a17cca8ee08fa9f191.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8rGOxE09--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-12/1523528950-212324-screen-shot-2018-04-12-at-112810.png)
+[![alt text](img/1e4046b068b396a17cca8ee08fa9f191.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8rGOxE09--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-12/1523528950-212324-screen-shot-2018-04-12-at-112810.png)
 
 添加一个运行功能节点
 拖过逻辑下的一个功能节点，并将其连接到检测面节点。
 
-[![alt text](../Images/950e17030ccda4e82a9d1c3634477b3c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oxlr7edN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-12/1523529004-671765-screen-shot-2018-04-12-at-112947.png)
+[![alt text](img/950e17030ccda4e82a9d1c3634477b3c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oxlr7edN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-12/1523529004-671765-screen-shot-2018-04-12-at-112947.png)
 
 将鼠标悬停在跑步功能节点上，点击齿轮图标打开设置。
 
@@ -159,13 +159,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 从“操作”下拖动电子邮件节点，并将其连接到“运行”功能节点。
 
-[![alt text](../Images/46048f23ab5287ed06f868c475a3f638.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qjD3DTJe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-12/1523529464-891185-screen-shot-2018-04-12-at-113550.png)
+[![alt text](img/46048f23ab5287ed06f868c475a3f638.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qjD3DTJe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-12/1523529464-891185-screen-shot-2018-04-12-at-113550.png)
 
 将鼠标悬停在电子邮件节点上，点击齿轮打开设置。
 
 输入您的收件人地址、主题行和正文，复制并粘贴`Detected smile: ${input.body.isSmiling}`。单击更新进行保存。
 
-[![alt text](../Images/dafed081f988e7a8ffc5dd23738e1a6a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3tGBB3zE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-12/1523529571-397273-screen-shot-2018-04-12-at-113920.png)
+[![alt text](img/dafed081f988e7a8ffc5dd23738e1a6a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3tGBB3zE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-04-12/1523529571-397273-screen-shot-2018-04-12-at-113920.png)
 
 这就是你的整个流程设置！
 

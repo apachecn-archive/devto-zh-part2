@@ -4,7 +4,7 @@
 
 最近和工作的 Slack 群分享了以下二维码:
 
-[![A QR Code I recently shared at work](../Images/bc49067487afb156197ebe9707ead242.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6yBNrjQ2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3y2owp9y0kcgq45noksd.jpg)
+[![A QR Code I recently shared at work](img/bc49067487afb156197ebe9707ead242.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6yBNrjQ2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3y2owp9y0kcgq45noksd.jpg)
 
 *专业提示:千万不要在没有使用类似[这种](https://online-barcode-reader.inliteresearch.com/)第一*的服务进行检查的情况下，随意扫描二维码
 
@@ -18,11 +18,11 @@
 
 阅读这篇博文让我想到了 twitter 上关于 web 应用程序安全性的自以为是的咆哮
 
-> ![](../Images/1c336ed90a5be0209d65d175a9ce465b.png)杰米@ dotnetcoreblog![](../Images/4d9c44713c216584b3d48ff3455cbb68.png)个人对 JS 安全的看法来了是根据这个新闻故事改编的:[bleepingcomputer.com/news/security/…](https://t.co/xRG5Gf4kHM)2018 年 9 月 13 日上午 06:33[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1040126276932186112)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1040126276932186112)0[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1040126276932186112)0
+> ![](img/1c336ed90a5be0209d65d175a9ce465b.png)杰米@ dotnetcoreblog![](img/4d9c44713c216584b3d48ff3455cbb68.png)个人对 JS 安全的看法来了是根据这个新闻故事改编的:[bleepingcomputer.com/news/security/…](https://t.co/xRG5Gf4kHM)2018 年 9 月 13 日上午 06:33[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1040126276932186112)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1040126276932186112)0[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1040126276932186112)0
 
 不幸的是，对于 Feedify 来说，我在这次咆哮中选中了他们，但他们远不是第一个受到这种攻击的人。今年早些时候，英国政府不同部门的许多网站都被注入了一个加密矿工:
 
-> ![](../Images/d557a527017a7bd7678a8f8b8ec9f7e8.png)![](../Images/1b88688bea4c4da3e5792ad1c28f0e70.png)Scott Helme@ Scott _ Helme![](../Images/4d9c44713c216584b3d48ff3455cbb68.png)Ummm，所以耶，这是*坏*。我刚刚让 [@phat_hobbit](https://twitter.com/phat_hobbit) 指出 [@ICOnews](https://twitter.com/ICOnews) 在他们的网站上安装了一个密码挖掘器...😮2018 年 2 月 11 日下午 13:46[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=962684239975272450)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=962684239975272450)870[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=962684239975272450)922
+> ![](img/d557a527017a7bd7678a8f8b8ec9f7e8.png)![](img/1b88688bea4c4da3e5792ad1c28f0e70.png)Scott Helme@ Scott _ Helme![](img/4d9c44713c216584b3d48ff3455cbb68.png)Ummm，所以耶，这是*坏*。我刚刚让 [@phat_hobbit](https://twitter.com/phat_hobbit) 指出 [@ICOnews](https://twitter.com/ICOnews) 在他们的网站上安装了一个密码挖掘器...😮2018 年 2 月 11 日下午 13:46[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=962684239975272450)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=962684239975272450)870[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=962684239975272450)922
 
 在这两个例子中，一个第三方脚本被入侵，并被另一个第三方(第三方？)被注入其中。或者用另一种方式写:
 

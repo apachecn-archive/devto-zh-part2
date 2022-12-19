@@ -47,17 +47,17 @@
 
 假设您有两个环境，`production`和`staging`:当一个新的特性被请求时，您从`staging`分支，提交代码并打开一个 PR 到`staging`分支。之后，CircleCI 将运行两个任务，一个为林挺，另一个将计划对您的`staging`基础设施的更改，以便您可以查看它们(见下图)。
 
-[![Image of PR creation jobs](../Images/8b88ba9729bc76b2b1f76b9b0864479d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FJBjBq2U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/fedekau/terraform-with-circleci-example/staging/.images/pr.png)
+[![Image of PR creation jobs](img/8b88ba9729bc76b2b1f76b9b0864479d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FJBjBq2U--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/fedekau/terraform-with-circleci-example/staging/.images/pr.png)
 
 一旦您合并了 PR，如果一切按计划进行，CircleCI 将运行您的作业并自动部署您的基础架构！
 
-[![Image of jobs after staging merge](../Images/266c5defe12c7caa46f70db5a02416d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aGIeoNqK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/fedekau/terraform-with-circleci-example/staging/.images/staging-merge.png)
+[![Image of jobs after staging merge](img/266c5defe12c7caa46f70db5a02416d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aGIeoNqK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/fedekau/terraform-with-circleci-example/staging/.images/staging-merge.png)
 
 在`staging`中测试完您的基础设施后，您只需打开一个从`staging`到`master`的 PR，将您的基础设施“推广”到`production`。
 
 在这种情况下，我们希望有人手动批准向 master 发布，因此在您合并后，您需要告诉 CircleCI 它可以继续，它将在收到确认后部署基础架构。
 
-[![Image of jobs after master merge](../Images/f3f17aa4d9a84c992b01de54a545c911.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t8A214kv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/fedekau/terraform-with-circleci-example/staging/.images/master-merge.png)
+[![Image of jobs after master merge](img/f3f17aa4d9a84c992b01de54a545c911.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t8A214kv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/fedekau/terraform-with-circleci-example/staging/.images/master-merge.png)
 
 ## 改进
 

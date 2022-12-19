@@ -64,4 +64,4 @@ var message = if (answer == correctAnswer) "You are correct" else "Try again"
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/9532ecb9eebfbfd85162e549daa842e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DuXg3mGT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/WorkingDev/%257E4/FIKDlWIJNVM)
+[![](img/9532ecb9eebfbfd85162e549daa842e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DuXg3mGT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/WorkingDev/%257E4/FIKDlWIJNVM)

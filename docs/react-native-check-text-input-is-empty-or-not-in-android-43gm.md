@@ -8,4 +8,4 @@
 
 [Android 中 React 原生检查文本输入是否为空](https://www.skptricks.com/2018/10/react-native-check-text-input-is-empty-or-not.html)
 
-[![](../Images/9ed2ba0aecd42b150e783dba4a02551b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kbDtTh5N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-oKCW-wle18M/W9X_e-qec8I/AAAAAAAACFg/tHyVXtBo6Zs0182HKPgmyiKy_6T6YpB2QCLcBGAs/s640/te.png)
+[![](img/9ed2ba0aecd42b150e783dba4a02551b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kbDtTh5N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-oKCW-wle18M/W9X_e-qec8I/AAAAAAAACFg/tHyVXtBo6Zs0182HKPgmyiKy_6T6YpB2QCLcBGAs/s640/te.png)

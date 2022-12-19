@@ -6,7 +6,7 @@
 
 有兴趣将 Snapchat 元素集成到您的 iOS 或 Android 应用程序中吗？过来-贡献和学习。
 
-## ![](../Images/375dfcc32199b4dedf2b526645c27ff7.png)[bbookman](https://github.com/bbookman)/[Snapchat-Snap-Kit-DIY-Docs](https://github.com/bbookman/Snapchat-Snap-Kit-DIY-Docs)
+## ![](img/375dfcc32199b4dedf2b526645c27ff7.png)[bbookman](https://github.com/bbookman)/[Snapchat-Snap-Kit-DIY-Docs](https://github.com/bbookman/Snapchat-Snap-Kit-DIY-Docs)
 
 <article class="markdown-body entry-content" itemprop="text">
 

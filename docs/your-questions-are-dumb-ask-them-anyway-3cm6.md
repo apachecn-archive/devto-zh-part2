@@ -6,7 +6,7 @@
 
 问一些基本的(回顾性的)明显的问题是学习中自然的、不可避免的一部分——字面上来说，每个学习新事物的人都会问这些问题。显而易见的问题的麻烦在于，我们认为它们让我们看起来像是健忘的人。**他们不会**，但我们无论如何都会有这种感觉，因为我们只是试图让我们被骗去思考的石头上的闪光发生变化的猴子。
 
-> ![daisyowl profile image](../Images/3bc388f798952108e59929d04eadcacc.png)daisy owl@ daisy owl![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)如果你曾经编写过“感觉像个黑客但却能工作”的代码，请记住，CPU 实际上是一块石头，我们骗它去思考00:03AM-2017 年 3 月 15 日![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=841802094361235456)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=841802094361235456)
+> ![daisyowl profile image](img/3bc388f798952108e59929d04eadcacc.png)daisy owl@ daisy owl![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)如果你曾经编写过“感觉像个黑客但却能工作”的代码，请记住，CPU 实际上是一块石头，我们骗它去思考00:03AM-2017 年 3 月 15 日![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=841802094361235456)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=841802094361235456)
 
 当我们害怕在公共场合问这些问题时，我们会求助于一个我们知道事实上比世界上任何其他东西都更荒谬的问题，并且保持自由判断的东西:谷歌。
 

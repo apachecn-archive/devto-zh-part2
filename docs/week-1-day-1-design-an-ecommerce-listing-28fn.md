@@ -12,11 +12,11 @@
 
 下面是清单组件的外观，包括组件的许多可选状态:
 
-[![An ecommerce listing component design, with color-coded states for various component states, like "sold out", "added to cart", "remove from cart", etc.](../Images/00fc00754952b62d8fd5cb4262696723.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9llYqDmb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui/master/assets/ecommerce-listing/ecl-single-variants%25402x.png)
+[![An ecommerce listing component design, with color-coded states for various component states, like "sold out", "added to cart", "remove from cart", etc.](img/00fc00754952b62d8fd5cb4262696723.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9llYqDmb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui/master/assets/ecommerce-listing/ecl-single-variants%25402x.png)
 
 这是一行清单中组件各部分的不同状态:
 
-[![A row of ecommerce listing components, with different states visible in respective listing components](../Images/3cec5a7f9f2f497724ad9fde62ba4898.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lobAgJuW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui/master/assets/ecommerce-listing/ecommerce-listing-design%25402x.png)
+[![A row of ecommerce listing components, with different states visible in respective listing components](img/3cec5a7f9f2f497724ad9fde62ba4898.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lobAgJuW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/geoffdavis92/weekly-ui/master/assets/ecommerce-listing/ecommerce-listing-design%25402x.png)
 
 ## 现在轮到你了
 

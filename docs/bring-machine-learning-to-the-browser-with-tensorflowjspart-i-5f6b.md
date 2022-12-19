@@ -8,7 +8,7 @@
 
 #### 将网络友好格式应用于预训练模型，产生网络应用。
 
-<figure>[![](../Images/679124cc29c08fd870df62870c0128c1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fw1JUf0P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AgA9FhjIFE9h9BbrZ) 
+<figure>[![](img/679124cc29c08fd870df62870c0128c1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fw1JUf0P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AgA9FhjIFE9h9BbrZ) 
 
 <figcaption>【杂色树叶挂饰】由[克里斯·劳顿](https://unsplash.com/@chrislawton?utm_source=medium&utm_medium=referral)上[下](https://unsplash.com?utm_source=medium&utm_medium=referral)</figcaption>
 

@@ -4,7 +4,7 @@
 
 欧洲各地的公司都在争先恐后地按照新的数据保护指南提供的指导方针开展工作。然而，关注点将是看它如何影响中小型工业。
 
-[![](../Images/464e06d48476cce51279c2160e8725e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CkxNeQnt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/0%2AZQCQ4zGgfriNkXmc.jpg)
+[![](img/464e06d48476cce51279c2160e8725e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CkxNeQnt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/0%2AZQCQ4zGgfriNkXmc.jpg)
 
 我们知道**一般数据保护条例将于 2018 年 5 月 25 日起适用于欧盟所有国家，欧盟居民正忙于讨论组织想要收集什么样的个人数据以及他们将如何利用这些数据。**
 

@@ -10,7 +10,7 @@
 
 所以，我想给你介绍一下[前端导师](https://www.frontendmentor.io)。
 
-[![Screenshot of the Frontend Mentor homepage](../Images/906be574e335d92f48439963817d3097.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--shjh_LjK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/EaiCwrm.png)
+[![Screenshot of the Frontend Mentor homepage](img/906be574e335d92f48439963817d3097.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--shjh_LjK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/EaiCwrm.png)
 
 几个月来，我建立了一个小型网站来测试这个想法并获得反馈。但是现在它正全速前进，有了一个新的品牌和网站的全面重新设计。
 
@@ -22,11 +22,11 @@
 
 这是其中一项挑战的桌面预览截图:
 
-[![Desktop design preview of the Huddle coding challenge on Frontend Mentor](../Images/39b4a98e1239af2c2dfd02f400529285.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5kQF6tw5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/qaqWyUw.jpg)
+[![Desktop design preview of the Huddle coding challenge on Frontend Mentor](img/39b4a98e1239af2c2dfd02f400529285.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5kQF6tw5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/qaqWyUw.jpg)
 
 和移动预览:
 
-[![Mobile design preview of the Huddle coding challenge on Frontend Mentor](../Images/eb37396280b24a790092d3d389795201.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RClDwB3D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/kHz9Lo6.jpg)
+[![Mobile design preview of the Huddle coding challenge on Frontend Mentor](img/eb37396280b24a790092d3d389795201.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RClDwB3D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/kHz9Lo6.jpg)
 
 如果你想接受挑战，只需从网站上下载一个入门代码，你就可以开始了。我决定保留下载的起始代码，而不是使用基于浏览器的编辑器。这是因为我希望人们使用他们最熟悉的文本编辑器和工具。
 

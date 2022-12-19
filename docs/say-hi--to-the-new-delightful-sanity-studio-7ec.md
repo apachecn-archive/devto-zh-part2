@@ -20,7 +20,7 @@
 
 开发者体验(DX)是理智的生命线。我们已经花了很多心思来思考如何才能做出一款让开发者喜欢使用的产品——不管他们是谁。这就是为什么你用简单的 JavaScript 来配置它，在方便性和定制性之间找到了中间点。它可以对内容模型进行版本控制，轻松地在 CI 工作流中包含多个工作室，或者只是为周末项目制作一个快速的一次性 CMS。
 
-[![Familiar and simple for both developers and editors.](../Images/b538971e4b0a97e64fef258876538f01.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FweakCUt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.io/images/3do82whm/production/0f1838a6f4abc541d8de0b7745602b3bf273db77-3200x2400.png%3Fw%3D1000) 
+[![Familiar and simple for both developers and editors.](img/b538971e4b0a97e64fef258876538f01.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FweakCUt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.img/3do82whm/production/0f1838a6f4abc541d8de0b7745602b3bf273db77-3200x2400.png%3Fw%3D1000) 
 *对于开发者和编辑来说都很熟悉和简单。*
 
 用户体验(UX)当然是一个更广泛的连续统一体，这个版本被高度激励以更好地满足作者和编辑的目标。我们希望让人们能够真正轻松地建立内容管理和编辑——体验高效、友好和……愉快。
@@ -29,7 +29,7 @@
 
 内容管理系统几乎都是专为台式机构建的。但是我们发现自己经常在移动设备上编辑内容，所以我们不仅要适应这种环境，还要确保你可以在手持设备上使用 Sanity。
 
-[![Editing content on an iPhone X](../Images/f85f483b1128c09d1f64c77e776988af.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zMgwrDTP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.io/images/3do82whm/production/90efa44168fb53b70724d70f2ba203003399b00f-3200x1684.png%3Fw%3D2000%26h%3D2000%26fit%3Dmax) 
+[![Editing content on an iPhone X](img/f85f483b1128c09d1f64c77e776988af.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zMgwrDTP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.img/3do82whm/production/90efa44168fb53b70724d70f2ba203003399b00f-3200x1684.png%3Fw%3D2000%26h%3D2000%26fit%3Dmax) 
 *编辑手持设备上的内容*
 
 发布按钮被移到了屏幕的底部，现在它是屏幕上唯一的主按钮。
@@ -38,7 +38,7 @@
 
 我们已经将全球导航从左侧栏移出，并将其与屏幕顶部的搜索合并在一起。这是一种常见的模式，我们希望通过仅使用一个轴来简化事情。
 
-[![](../Images/03d46c8d6f1dcf0dad2ff9fa862e625e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9cO9C6eI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.io/images/3do82whm/production/326cea358c0eb8212930c6315f849208f3c2c1aa-3200x1686.png%3Fw%3D1000)
+[![](img/03d46c8d6f1dcf0dad2ff9fa862e625e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9cO9C6eI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.img/3do82whm/production/326cea358c0eb8212930c6315f849208f3c2c1aa-3200x1686.png%3Fw%3D1000)
 
 新的导航栏集工具和搜索于一体。它占用更少的屏幕空间，并且响应速度很快。在小屏幕上，工具和其他启示可以很容易地在侧边抽屉中访问，除了我们已经确定的首要任务:文档创建和搜索。
 
@@ -50,12 +50,12 @@
 
 我们希望工作室可以被所有人使用。仍有工作要做，但作为一个重要的开始，我们已经引入了一个新的调色板作为默认主题，至少遵循 [AA WCAG 规范](https://www.w3.org/WAI/WCAG21/quickref/#contrast-minimum)进行对比。您会注意到所选项目和填充的按钮有了新的颜色。通过覆盖默认颜色，可以轻松实现更高的对比度。我们已经为键盘用户做了改进(更多即将推出)。
 
-[![Searching in Sanity Studio](../Images/739e9b29c30268a9e8287713b5d295bb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vHZoLtZw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.io/images/3do82whm/production/725b0e2606368880a088e1ff01408821f5654919-2454x837.png%3Fw%3D2000%26h%3D2000%26fit%3Dmax) 
+[![Searching in Sanity Studio](img/739e9b29c30268a9e8287713b5d295bb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vHZoLtZw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.img/3do82whm/production/725b0e2606368880a088e1ff01408821f5654919-2454x837.png%3Fw%3D2000%26h%3D2000%26fit%3Dmax) 
 *改进的色彩系统，具有可及的对比度*
 
 ## 细节决定成败
 
-[![Custom icon set designed in-house](../Images/e6a759210c0528fe5eccce6c84038b0b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--c9OBB241--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.io/images/3do82whm/production/862ad9d80d72ecda9386c4828da859e7ce6da05f-1374x882.png%3Fw%3D1000) 内部设计的新定制图标集
+[![Custom icon set designed in-house](img/e6a759210c0528fe5eccce6c84038b0b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--c9OBB241--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.img/3do82whm/production/862ad9d80d72ecda9386c4828da859e7ce6da05f-1374x882.png%3Fw%3D1000) 内部设计的新定制图标集
 
 我们已经修复了一堆小的视觉不一致和错误。我们现在使用系统字体，已经开始创建我们自己的图标集，并开始创建一个紧密的、视觉上有凝聚力的设计系统。我们已经删除了默认的理智标志(你应该添加自己的`sanity init plugin`，选择**工作室标志**)。那些特别好奇的人可以[探索 GitHub](https://github.com/sanity-io/sanity/pull/1049) 上的提交，因为 Sanity Studio 是开源的。
 
@@ -63,4 +63,4 @@
 
 对于理智来说，这是有趣又有趣的一年。我们永远感谢所有决定试用我们、回复我们的电子邮件和问题、在我们的 [Slack 社区](https://slack.sanity.io)闲逛、在会议上遇见我们、向朋友、同事和社交媒体推荐我们的人。我们迫不及待地想与您分享更强大的功能、激动人心的使用案例和令人愉快的升级！
 
-[![Celebratory hats ](../Images/474962600ae7b05af7e53ed45e432ff6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c6bdmdHH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.io/images/3do82whm/production/c5ad67a813fbd37509f1d8742b27dabb3923d366-4240x2832.jpg%3Fw%3D2000%26h%3D2000%26fit%3Dmax)
+[![Celebratory hats ](img/474962600ae7b05af7e53ed45e432ff6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c6bdmdHH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.sanity.img/3do82whm/production/c5ad67a813fbd37509f1d8742b27dabb3923d366-4240x2832.jpg%3Fw%3D2000%26h%3D2000%26fit%3Dmax)

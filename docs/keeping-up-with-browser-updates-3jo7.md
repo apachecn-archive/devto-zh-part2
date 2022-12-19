@@ -26,17 +26,17 @@
 
 Firefox 在其“关于 Firefox”窗口中提供了更新信息的链接:
 
-[![Firefox About text](../Images/4a4327e45e5ab9e690aab545d40e937f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t1Qnjrw8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/05/b1a.jpg)
+[![Firefox About text](img/4a4327e45e5ab9e690aab545d40e937f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t1Qnjrw8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/05/b1a.jpg)
 
 带你来到这里:[https://www.mozilla.org/en-US/firefox/60.0.2/releasenotes/](https://www.mozilla.org/en-US/firefox/60.0.2/releasenotes/)
 
-[![Firefox Release Notes](../Images/e4601520a1adf5d0906c7d14fed87b97.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Et7XB1y7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/05/b2.jpg)
+[![Firefox Release Notes](img/e4601520a1adf5d0906c7d14fed87b97.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Et7XB1y7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/05/b2.jpg)
 
 首先，从设计的角度来看，这是一个非常干净，而不是压倒性的页面。默认情况下，它关注消费者的变化，这是有道理的。另请注意顶部的标签栏，它也可以让您看到移动版本的更改。
 
 有点难看，我觉得应该更显眼，但是在“其他资源”下的右下角是[【开发者信息】](https://developer.mozilla.org/en-US/Firefox/Releases/60)的链接。在这里您可以找到您需要的另一套文档。请注意，他们在将变更分成不同类别方面做得非常好。这可以让你跳过你可能不关心的东西:
 
-[![Firefox Developer Changes](../Images/ca5a38ff833a5c3b63771bb9133dfc91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6PiMdGGJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/05/b3.jpg)
+[![Firefox Developer Changes](img/ca5a38ff833a5c3b63771bb9133dfc91.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6PiMdGGJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/05/b3.jpg)
 
 在面向消费者和开发者的页面上，它们也很好地链接到早期版本，以防你需要更深入地挖掘过去。我知道我之前说过，但是，我喜欢这些页面的设计和组织。我要做的唯一可能的改变是在初始页面上突出显示开发者信息链接。
 
@@ -46,15 +46,15 @@ Firefox 在其“关于 Firefox”窗口中提供了更新信息的链接:
 
 首先，“关于 Chrome”页面很少，在我看来，这浪费了很多机会。
 
-[![Chrome's About Page](../Images/6ec8d7c50c4c12a1a98be352885e32f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b7IdrSIO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/05/b4.jpg)
+[![Chrome's About Page](img/6ec8d7c50c4c12a1a98be352885e32f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b7IdrSIO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/05/b4.jpg)
 
 其中一个与帮助相关的链接指向消费者信息，但不是任何发行说明。好吧，那我们还能尝试什么？如果你打开 devtools 并且最近安装了一个新版本，你实际上会得到一个自动的附加面板，上面有发行说明。我没有这个的截图，但是做的还算不错。在 devtools 中，您也可以单击三点菜单，转到帮助，然后获得发行说明的链接:
 
-[![Chrome's Devtools Menu](../Images/b14b3ec19371a14feffcbcffcad8aa80.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mdtafvYT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/05/b5.jpg)
+[![Chrome's Devtools Menu](img/b14b3ec19371a14feffcbcffcad8aa80.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mdtafvYT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/05/b5.jpg)
 
 这当前链接到特定于当前版本的[https://developers.google.com/web/updates/2018/04/devtools](https://developers.google.com/web/updates/2018/04/devtools)。如果你点击页面顶部的“更新”，你会看到这里:【https://developers.google.com/web/updates/】T2。
 
-[![Chrome's Update page](../Images/487cb19968f83374d74800c4a87c9df8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PbmK2AAf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/05/b6.jpg)
+[![Chrome's Update page](img/487cb19968f83374d74800c4a87c9df8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PbmK2AAf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/05/b6.jpg)
 
 好吧，所以从技术上来说，这不是一个“版本更新”类型的页面，更一般，但是，我真的很喜欢它。你有一篇专门关于 Chrome 67 变化的文章，但也有关于 PWA 变化的标注。很好的搭配。您还可以在“按年份”选项卡上进行过滤，以进行更多的历史浏览。
 
@@ -62,13 +62,13 @@ Firefox 在其“关于 Firefox”窗口中提供了更新信息的链接:
 
 最后…有一个跟踪变化的好工具: [Chrome 平台状态](https://www.chromestatus.com/features)。
 
-[![Chrome Platforum Status](../Images/73156c8405b8733e5b219f3670a8f887.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XSy8tcgz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/05/b7.jpg)
+[![Chrome Platforum Status](img/73156c8405b8733e5b219f3670a8f887.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XSy8tcgz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/05/b7.jpg)
 
 这提供了一种快速查找特定功能并过滤到特定版本的方法。我真的希望这个链接来自那个巨大的，空的，关于页面，只是为了帮助发现。如果你知道这个页面，我很乐意在下面的评论中听到我的读者的意见。
 
 哦，还有 Chrome…解决这个问题:
 
-[![Chrome Platforum Status](../Images/bd7301a2fd2808ca8eb592e352910a1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XqxzXEXI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/05/b8.jpg)
+[![Chrome Platforum Status](img/bd7301a2fd2808ca8eb592e352910a1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XqxzXEXI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/05/b8.jpg)
 
 ### 微软 Edge
 
@@ -76,13 +76,13 @@ Firefox 在其“关于 Firefox”窗口中提供了更新信息的链接:
 
 如果你点击 Edge 的“三点菜单”(顺便说一下，我们叫它什么，不是汉堡菜单，而是…？)您将看到一个“最新动态和提示”链接。带你到这里:[https://microsoftedgetips.microsoft.com/en-us/?source=menu](https://microsoftedgetips.microsoft.com/en-us/?source=menu)
 
-[![Edge Devtools What's New Page](../Images/e2599d4580125d3fb2e8315230423273.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bx4gceoT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/05/b9.jpg)
+[![Edge Devtools What's New Page](img/e2599d4580125d3fb2e8315230423273.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bx4gceoT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/05/b9.jpg)
 
 它被顶上的英雄横幅压得很低，但你可以看到重点是消费者面临的变化。
 
 如果你打开 devtools 并点击那里的帮助图标，你会到达这里:[https://docs . Microsoft . com/en-us/Microsoft-edge/dev tools-guide？source=f12help](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide?source=f12help) 。这是他们 devtools 的核心文档，但第一个子菜单项是一个“新功能”，带你到这里:[https://docs . Microsoft . com/en-us/Microsoft-edge/dev tools-guide/whats-new](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide/whats-new)。你可以把它加入书签，作为一种快速查看新内容的方式。在这个页面上还有一个“开发指南”，如果你打开它，还有一个新内容:[https://docs . Microsoft . com/en-us/Microsoft-edge/Dev-Guide/whats-new](https://docs.microsoft.com/en-us/microsoft-edge/dev-guide/whats-new)。
 
-[![Edge What's New Page](../Images/96b60e6e9cc0cd49297b1ae7cfcd9be0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9LqiTai_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/05/b10.jpg)
+[![Edge What's New Page](img/96b60e6e9cc0cd49297b1ae7cfcd9be0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9LqiTai_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/05/b10.jpg)
 
 如果你喜欢“EdgeHTML”并且对它有点困惑，这只是 Edge(和其他组件)的渲染引擎的名字。你可以把它想象成 Chrome 的 Blink 或者 Safari 的 Webkit。
 
@@ -92,13 +92,13 @@ Firefox 在其“关于 Firefox”窗口中提供了更新信息的链接:
 
 所以，嗯…你看…我是一台 Windows 电脑，虽然我有一台 Mac，但我已经一个多月没开机了。因此，我不能谈论“开箱即用”类型的体验在可发现性方面的问题，我可以尝试分享我通过搜索找到的东西。当我搜索“safari 浏览器新功能”时，第一个链接看起来很完美:
 
-[![Safari](../Images/bdb4b9f9a04d651213f3bf74fef0ac17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fuy5pLwO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/05/b11.jpg)
+[![Safari](img/bdb4b9f9a04d651213f3bf74fef0ac17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fuy5pLwO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/05/b11.jpg)
 
 带你到这里:[https://developer . apple . com/library/archive/release notes/General/WhatsNewInSafari/Introduction/Introduction . html](https://developer.apple.com/library/archive/releasenotes/General/WhatsNewInSafari/Introduction/Introduction.html)
 
 你首先看到的是:“重要的是:这份文件不再被更新。有关 Apple SDKs 的最新信息，请访问文档网站。”叹息但是他们确实链接到了正确的地方:【https://developer.apple.com/safari/】T2
 
-[![Safari Help](../Images/0e432d7d8567989276807129332e75a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--11fsmQSP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.com/images/2018/05/b12.jpg)
+[![Safari Help](img/0e432d7d8567989276807129332e75a8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--11fsmQSP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://static.raymondcamden.cimg/2018/05/b12.jpg)
 
 这里有一个很好的[“新功能”](https://developer.apple.com/safari/whats-new/)链接，似乎涵盖了消费者和开发人员的信息。
 

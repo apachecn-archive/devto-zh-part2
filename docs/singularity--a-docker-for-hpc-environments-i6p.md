@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/grokcode/singularity--a-docker-for-hpc-environments-i6p>
 
-[![](../Images/a5eb51d8b765f5f310f8f3f71aed6380.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3PtcI0Cv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yzafdxak1nf3fh9q1jvw.png)
+[![](img/a5eb51d8b765f5f310f8f3f71aed6380.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3PtcI0Cv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yzafdxak1nf3fh9q1jvw.png)
 
 如今，企业面临着应用数字化转型的压力，但受到现有应用和基础架构的限制，同时还要对多样化的云、数据中心和应用架构组合进行合理化。
 

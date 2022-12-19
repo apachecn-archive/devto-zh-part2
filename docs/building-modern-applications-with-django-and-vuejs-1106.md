@@ -6,4 +6,4 @@
 
 [开始行动💥](https://auth0.com/blog/building-modern-applications-with-django-and-vuejs/?utm_source=dev&utm_medium=sc&utm_campaign=django_vuejs_apps)
 
-[![Building Modern Applications with Django and Vue.js](../Images/7a07a1148a53a01bbe74de943c39958e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CUFWeYeH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z2crr6059onzaav9i247.png)
+[![Building Modern Applications with Django and Vue.js](img/7a07a1148a53a01bbe74de943c39958e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CUFWeYeH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z2crr6059onzaav9i247.png)

@@ -2,17 +2,17 @@
 
 > 原文：<https://dev.to/aribornstein/one-click-tensorflowjs-with-azure-2iib>
 
-[![](../Images/b936e0a5bfdd6ebd9ae8bc758013f18b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xXekjzzJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/900/0%2AlXZKw32W6hY2oEf9.jpg)
+[![](img/b936e0a5bfdd6ebd9ae8bc758013f18b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xXekjzzJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/900/0%2AlXZKw32W6hY2oEf9.jpg)
 
 ### 点击部署按钮开始！
 
-[![Deploy to Azure](../Images/786c80c222598ab275d043fb57c6fb39.png)T2】](https://azuredeploy.net/)
+[![Deploy to Azure](img/786c80c222598ab275d043fb57c6fb39.png)T2】](https://azuredeploy.net/)
 
 **TL；博士**tensor flow . js(TFJS)的发布只需几行代码就能在浏览器中实现最先进的人工智能，但我们如何将它送到用户手中呢？这篇文章概述了如何只需一次点击就开始在云上服务您的 TFJS 模型和应用程序。
 
 # 什么是张量流。JS？
 
-[![](../Images/de225917cfacaa13f969d38f8a0e0aa4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4-Ec4k6s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2A6FY5xOwBZs66TN_U_WvtIw.png) 
+[![](img/de225917cfacaa13f969d38f8a0e0aa4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4-Ec4k6s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/900/1%2A6FY5xOwBZs66TN_U_WvtIw.png) 
 浏览器中的 Pos 检测使用 Tensoflow.js
 
 [TensorFlow.js](https://js.tensorflow.org/) ，是一个开源库，您可以使用 Javascript 和高级层 API，完全在浏览器中定义、训练和运行机器学习模型。

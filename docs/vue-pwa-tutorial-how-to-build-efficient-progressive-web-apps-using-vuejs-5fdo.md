@@ -4,7 +4,7 @@
 
 ## 介绍在 Vue 中构建渐进式 Web App。JS {第一部分}
 
-[![alt text](../Images/28991b2f44aa45524c1d22b033fb6571.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DJ--MB3_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/fremer.com.ng/blog/wp-content/uploads/2018/09/vuejs1.jpg%3Fw%3D725%26ssl%3D1%2522Vuejs%2522)
+[![alt text](img/28991b2f44aa45524c1d22b033fb6571.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DJ--MB3_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i0.wp.com/fremer.com.ng/blog/wp-content/uploads/2018/09/vuejs1.jpg%3Fw%3D725%26ssl%3D1%2522Vuejs%2522)
 
 PWA 或渐进式网络应用正在迅速成为数字世界的一种全球趋势。这个 Vue PWA 教程的目的是让你开始学习如何用一个最流行的 JavaScript- VueJS 框架来构建你自己的渐进式 Web 应用程序(PWA)。
 

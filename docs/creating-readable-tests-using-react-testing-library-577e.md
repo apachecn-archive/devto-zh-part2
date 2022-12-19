@@ -4,7 +4,7 @@
 
 ## 了解如何用 BDD 测试来测试您的 React 代码。
 
-[![](../Images/4cc532471b21926d387f7f83d2b87253.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fqnh0Wqg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/640/1%2AfA_cSQkUrV5Udj2075VQZg.png)
+[![](img/4cc532471b21926d387f7f83d2b87253.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fqnh0Wqg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/640/1%2AfA_cSQkUrV5Udj2075VQZg.png)
 
 在 Flatiron School，我们已经开始使用 React 来构建几乎所有新的客户端项目，并将一些旧的主干+木偶应用程序转换为 React。这使得我们的前端代码更简洁、性能更高，并允许我们编写难以置信的应用程序，如我们的浏览器内学习 IDE(参见 [" **我们如何在浏览器中构建学习 IDE**"](https://medium.com/flatiron-labs/how-we-built-the-learn-ide-in-browser-d6db3ff39083))。
 
@@ -22,7 +22,7 @@
 
 让我们构建一个简单的评论应用程序，包含一个评论列表、评论卡和一个新的评论表单，以便对整个特性进行全面的测试。我们不会在这个应用程序中测试美丽，所以请随意你喜欢的风格。这是一个我们将建立的应用程序的例子样机:
 
-[![](../Images/484fe8c5f8be44c7e18ec9f4958158eb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7bpcqlnM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AwvO2Yzlm1Ry8llBQVTadVg.png) 
+[![](img/484fe8c5f8be44c7e18ec9f4958158eb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7bpcqlnM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AwvO2Yzlm1Ry8llBQVTadVg.png) 
 
 <figcaption>评论 App 汇总</figcaption>
 
@@ -67,7 +67,7 @@ yarn.lock
 
 现在我们已经有了基础知识，我们可以开始计划我们的测试了。让我们来看看我们的应用程序分成组件后会是什么样子。
 
-[![](../Images/c1bb978b8dca7a0ded097e2790983fcd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CARNxefb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AdKdr2l5vW4HBKvC-xC-elw.png) 
+[![](img/c1bb978b8dca7a0ded097e2790983fcd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CARNxefb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AdKdr2l5vW4HBKvC-xC-elw.png) 
 
 <figcaption>评论 App 组件细目</figcaption>
 
@@ -81,7 +81,7 @@ yarn.lock
 
 ### 评论卡组件测试
 
-[![](../Images/498d51d031fb7742bac4f8656a420580.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zhKG4Qar--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Al259npUKJkjvmU1p2RydMw.png) 
+[![](img/498d51d031fb7742bac4f8656a420580.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zhKG4Qar--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Al259npUKJkjvmU1p2RydMw.png) 
 
 <figcaption>**评论卡**组件</figcaption>
 
@@ -148,7 +148,7 @@ $ yarn test --watch
 
 终端现在应该显示下图:
 
-[![](../Images/87a9d61f66937bab4fb738231bd21809.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E-X4I946--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ASxTBkutXchkIcfofwzkkAQ.png)
+[![](img/87a9d61f66937bab4fb738231bd21809.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E-X4I946--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ASxTBkutXchkIcfofwzkkAQ.png)
 
 哎呀！我们知道有一个测试正在运行，但看起来我们需要实际创建一个组件。遵循一次做一件事情的策略，让我们制作一个非常简单的 **CommentCard** 组件。
 
@@ -164,7 +164,7 @@ export default CommentCard
 
 现在我们有一个通过测试！
 
-[![](../Images/c886b4195752145242b4b4eeff144ab2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AUcFq4b5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/698/1%2Aqnwq5KXjPgN7ADrEuYW29w.png)
+[![](img/c886b4195752145242b4b4eeff144ab2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AUcFq4b5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/698/1%2Aqnwq5KXjPgN7ADrEuYW29w.png)
 
 嗯……那通过了，但是我们真的在测试有用的东西吗？我们现在需要实现测试的最后阶段:**断言**。我们应该断言，我们实际上是在渲染评论和作者。为此，我们需要使用一个名为 getByText()的辅助函数来进行析构，这个函数是我们的 render()函数通过 **React 测试库**提供给我们的(如果这是你第一次学习 JS 中析构的魔力，[请在 MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment) 上阅读更多相关内容)。使用 getByText()方法，我们可以断言注释和作者属性在组件内部得到了正确的呈现。
 
@@ -199,7 +199,7 @@ describe('Coment Card', () => {
 
 看一下测试运行程序，它应该显示如下:
 
-[![](../Images/139e4b637995b220fe6299ba50c51819.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iF4dmfYv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/712/1%2AbFm0QUHoMgMEJf57AHocJg.png)
+[![](img/139e4b637995b220fe6299ba50c51819.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iF4dmfYv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/712/1%2AbFm0QUHoMgMEJf57AHocJg.png)
 
 注意它是如何在我们的 **CommentCard** 组件中只显示空的
 
@@ -249,7 +249,7 @@ export default CommentCard
 
 现在，您应该会在终端中看到一个通过的测试:
 
-[![](../Images/8535fb12ff557bb577dd324b5da666d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wqjnt1bU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/686/1%2A1rM4B-qo7JcwUsFd-tGIhQ.png)
+[![](img/8535fb12ff557bb577dd324b5da666d5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Wqjnt1bU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/686/1%2A1rM4B-qo7JcwUsFd-tGIhQ.png)
 
 成功！我们创建了第一个组件测试。
 
@@ -257,7 +257,7 @@ export default CommentCard
 
 既然我们已经有了做第一个组件测试的一些基本经验，让我们尝试一下更高层次的集成测试。这个测试将验证我们的 **CommentList** 组件呈现了一个 **CommentCard** 组件的集合。
 
-[![](../Images/6dd36785ab6f78ec690add5ca6a578c9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GRh9dh6j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ArbCVlBiaYEIxawBhNV06NA.png) 
+[![](img/6dd36785ab6f78ec690add5ca6a578c9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GRh9dh6j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ArbCVlBiaYEIxawBhNV06NA.png) 
 
 <figcaption>评论列表</figcaption>
 
@@ -329,7 +329,7 @@ describe('Comment List', () => {
 
 我们现在正在呈现组件，如果我们看一下我们的测试运行程序，我们应该看到一个熟悉的愤怒的红色错误消息等待着我们——与我们在第一个测试文件中遇到的相同。
 
-[![](../Images/d70d61a9aa64d64580c960ae1d9c8bfa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8i7-2mv7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/738/1%2AXGBGOi5lMcV9ZORsUhSpog.png)
+[![](img/d70d61a9aa64d64580c960ae1d9c8bfa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8i7-2mv7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/738/1%2AXGBGOi5lMcV9ZORsUhSpog.png)
 
 就像我们的第一个测试一样，我们需要制作一个简单的组件来通过导入并呈现测试。
 
@@ -389,7 +389,7 @@ describe('Comment List', () => {
 
 看一下测试运行程序:它应该显示搜索不存在于空的呈现 div 中的文本失败。
 
-[![](../Images/78028a7c53e2bce233f916891078fb65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3EUGn78P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/714/1%2AOmH3a1NhLzLZ92mtTP3zsg.png)
+[![](img/78028a7c53e2bce233f916891078fb65.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3EUGn78P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/714/1%2AOmH3a1NhLzLZ92mtTP3zsg.png)
 
 让我们通过调整 **CommentList** 组件来为传递下来的道具中的每个评论呈现一个**评论卡**来完成这个测试。
 
@@ -419,11 +419,11 @@ export default CommentList
 
 测试跑步者现在应该通过了。我们现在有两个经过测试的组件。
 
-[![](../Images/5607c305a3493796ed378fbcf7b5f010.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pmo3JYBn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/710/1%2AScpjQi9vTiZKdNwq4VRuNA.png)
+[![](img/5607c305a3493796ed378fbcf7b5f010.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pmo3JYBn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/710/1%2AScpjQi9vTiZKdNwq4VRuNA.png)
 
 ### 公共形式组件测试
 
-[![](../Images/9baf923c88269fda77c88ddc5a6e9ae0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mXHMAZQ2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/814/1%2AQEO6vMrWIx2IFb3m9kGcPg.png) 
+[![](img/9baf923c88269fda77c88ddc5a6e9ae0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mXHMAZQ2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/814/1%2AQEO6vMrWIx2IFb3m9kGcPg.png) 
 
 <figcaption>评论表单</figcaption>
 
@@ -708,7 +708,7 @@ export default class Comments extends Component {
 
 检查您的测试跑步者，您应该看到所有绿色:
 
-[![](../Images/e7cb211edfb0190dab501a73e3da0da5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1qB9dG9Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/660/1%2AupzBbvsuPC_vypkRVX4_4w.png)
+[![](img/e7cb211edfb0190dab501a73e3da0da5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1qB9dG9Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/660/1%2AupzBbvsuPC_vypkRVX4_4w.png)
 
 #### 它成功地创建了一个新的注释，呈现它，然后重置表单数据
 
@@ -769,7 +769,7 @@ test('it creates a new comment, renders it and clears out form upon submission',
 
 我们现在应该有新的模拟数据和新的测试块来测试我们的代码。测试运行程序不应显示以下错误:
 
-[![](../Images/a64add870a885770cc3ff52c3167ccb3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zpTVbVqI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/708/1%2AiC3ZX1mJlE17RZRFI1Tv1A.png) 
+[![](img/a64add870a885770cc3ff52c3167ccb3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--zpTVbVqI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/708/1%2AiC3ZX1mJlE17RZRFI1Tv1A.png) 
 
 <figcaption>测试失败 4</figcaption>
 
@@ -879,12 +879,12 @@ export default class CommentForm extends Component {
 
 P.S .你愿意在一个热爱冰淇淋和 JS 与 React 编程的任务驱动型团队中工作吗？ [**我们要招聘**](https://flatironschool.com/careers/) **！**
 
-[![Footer top](../Images/14482ccec82c63d0e8096dc6b2c2379b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8yzEjPtS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AcN2uavSo9qa-SVEi6GAp2A.png)
+[![Footer top](img/14482ccec82c63d0e8096dc6b2c2379b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8yzEjPtS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AcN2uavSo9qa-SVEi6GAp2A.png)
 
 **要了解更多关于熨斗学校的信息，请访问** [**网站**](http://www.flatironschool.com/) **，关注我们的** [**【脸书】**](http://www.facebook.com/flatironschool) **和** [**推特**](http://www.twitter.com/flatironschool) **，并访问我们的** [**即将举办的活动**](https://flatironschool.com/events/) **。**
 
 **熨斗学校是** [**WeWork**](https://www.wework.com/) **家族的骄傲成员。看看我们的姐妹科技博客** [**WeWork 科技**](https://engineering.wework.com/) **和** [**制作 Meetup**](https://medium.com/making-meetup) **。**
 
-[![Footer bottom](../Images/216338eef5099fffac8419af94ff80bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ccTTOxvY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AvDaS9kLQz7Rf42nHubFrgw.png)
+[![Footer bottom](img/216338eef5099fffac8419af94ff80bd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ccTTOxvY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/proxy/1%2AvDaS9kLQz7Rf42nHubFrgw.png)
 
 * * *

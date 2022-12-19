@@ -4,7 +4,7 @@
 
 *此文最初发布于[coreyja.com](https://coreyja.com/vim-spelling-suggestions-fzf/)T3】*
 
-[![Example GIF](../Images/cb155858b4656ceaf2ca4c8933f38abb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2_U2hI4l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q5ype764epxb3tfawnvd.gif)
+[![Example GIF](img/cb155858b4656ceaf2ca4c8933f38abb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2_U2hI4l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q5ype764epxb3tfawnvd.gif)
 
 ## TlDr
 

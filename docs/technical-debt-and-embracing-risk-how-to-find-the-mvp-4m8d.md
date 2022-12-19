@@ -26,7 +26,7 @@
 
 请看下图:
 
-[![MVP transportation](../Images/7bd2a2881a44680d90206a018b8cda24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hvAm5C0t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.crisp.se/wp-content/uploads/2016/01/Making-sense-of-MVP-5.jpg)
+[![MVP transportation](img/7bd2a2881a44680d90206a018b8cda24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hvAm5C0t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.crisp.se/wp-content/uploads/2016/01/Making-sense-of-MVP-5.jpg)
 
 相对于自行车甚至汽车，我们注意到了滑板的什么？可能涉及更多的风险。与自行车相比，从滑板上摔下来更容易。从自行车上摔下来比从汽车上摔下来容易得多。(虽然不是不可能)。这个想法是，上面提到的每个产品都有相当大的风险，但问题是我们应该接受多大的风险？
 
@@ -38,7 +38,7 @@
 
 什么是价值的问题是一个有趣的问题，也是一个视角问题。对您的价值可能不会转化为对利益相关者的价值。那么，我们如何区分这两者呢？
 
-[![Value in a desert](../Images/47aa96cab2247a317991063d41f1f665.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wzECh1w_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/lowres.cartoonstock.com/food-drink-filter-filtered_water-desert_crawler-desert_crawling-deserts-rhan1601_low.jpg)
+[![Value in a desert](img/47aa96cab2247a317991063d41f1f665.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wzECh1w_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/lowres.cartoonstock.com/food-drink-filter-filtered_water-desert_crawler-desert_crawling-deserts-rhan1601_low.jpg)
 
 在上图中，这两个人有着相似的目标...去取水。其中一人关心 MVP，一人不关心。同样，一个会生存，一个不会。这说明了弄清楚什么是有价值的，什么是没有价值的，并快速交付价值的重要性。如何做到这一点？
 

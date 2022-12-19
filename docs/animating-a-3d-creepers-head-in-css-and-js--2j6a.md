@@ -18,8 +18,8 @@
 *   `face.png`爬山虎的脸
 *   他的侧头，`side.png`
 
-[![alt text](../Images/947131132b336b139ee8ee9dfc7e31bb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DUIHIkDB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/Mcdostone/mcdostone.github.io/blob/master/face.png%3Fraw%3Dtrue%2522)
-[![alt text](../Images/ec5b90cf4484d51557100d867e2ab4f1.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--vjTha4fV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/Mcdostone/mcdostone.github.io/blob/master/side.png%3Fraw%3Dtrue%2522)
+[![alt text](img/947131132b336b139ee8ee9dfc7e31bb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DUIHIkDB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/Mcdostone/mcdostone.github.io/blob/master/face.png%3Fraw%3Dtrue%2522)
+[![alt text](img/ec5b90cf4484d51557100d867e2ab4f1.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--vjTha4fV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/Mcdostone/mcdostone.github.io/blob/master/side.png%3Fraw%3Dtrue%2522)
 
 立方体的每一边都由一个`img`标签表示，并嵌套在一个`div`元素中，这里是`#creeper`。
 
@@ -37,7 +37,7 @@
 Enter fullscreen mode Exit fullscreen mode
 
 默认情况下，在 CSS 中，您可以根据 X 和 Y 轴在 2D 空间中定位 HTML 节点。所以一切都是平的。
-[![2d space](../Images/bcb4eb0fe97a8a3ad9704c150cf05583.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--pwk64R67--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3a9s7yic0nme8z365yvc.png)
+[![2d space](img/bcb4eb0fe97a8a3ad9704c150cf05583.png)T3】](https://res.cloudinary.com/practicaldev/image/fetch/s--pwk64R67--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3a9s7yic0nme8z365yvc.png)
 
 在我的例子中，我想在我的网页中建模一个 3D 对象。所以我们需要改变 CSS 的默认行为！要做到这一点，只需在 CSS 中指明你想把你的元素放在一个 3D 空间中:
 
@@ -69,7 +69,7 @@ Enter fullscreen mode Exit fullscreen mode
 Enter fullscreen mode Exit fullscreen mode
 
 以下等轴测视图可以帮助您理解对象在 3D 空间中的位置，以及您可以如何进行旋转、平移和缩放:
-[![3d space](../Images/8204f441ade6aa6dd87d286359e4d122.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JQGXHL4z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ojqiajllufzq1hibsdxt.png)
+[![3d space](img/8204f441ade6aa6dd87d286359e4d122.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JQGXHL4z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ojqiajllufzq1hibsdxt.png)
 
 我给`#creeper`元素添加了一个动画，看看是否所有东西都被正确定位了！更多细节可以通过代码:
 [https://codepen.io/Mcdostone/embed/pLGjmV?height=600&default-tab=result&embed-version=2](https://codepen.io/Mcdostone/embed/pLGjmV?height=600&default-tab=result&embed-version=2)T3】

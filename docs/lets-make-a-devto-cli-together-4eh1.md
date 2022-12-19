@@ -4,7 +4,7 @@
 
 为了 hacktoberfest 我要为 DEV.to 做一个 CLI...让我们一起努力吧！
 
-[![devto CLI demo](../Images/a9149e5e001897bf496f364868d9ebe0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aorzlKIi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/freiusj8pih8h136g1u9.gif)
+[![devto CLI demo](img/a9149e5e001897bf496f364868d9ebe0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aorzlKIi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/freiusj8pih8h136g1u9.gif)
 
 这是一个后续类型的教程...所以跟着走。但是如果你觉得自己太优秀了，学不到很酷的东西，你可以直接跳到最后。
 
@@ -14,7 +14,7 @@
 
 因为我是开车的人，所以我有权选择语言。我将使用 [MojiScript](https://github.com/joelnet/MojiScript) (当然)。
 
-> ![Programming Wisdom profile image](../Images/c0e04370043baff7812aa9d1c701cd8f.png)编程智慧[@ code Wisdom](https://dev.to/codewisdom)![twitter logo](../Images/65e26e35707d96169ec8af6b3cbf2003.png)“学习一门新编程语言的唯一方法就是用它编写程序。”——丹尼斯里奇2018 年 10 月 11 日下午 12:37[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1050364645050122241)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1050364645050122241)307[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1050364645050122241)1034
+> ![Programming Wisdom profile image](img/c0e04370043baff7812aa9d1c701cd8f.png)编程智慧[@ code Wisdom](https://dev.to/codewisdom)![twitter logo](img/65e26e35707d96169ec8af6b3cbf2003.png)“学习一门新编程语言的唯一方法就是用它编写程序。”——丹尼斯里奇2018 年 10 月 11 日下午 12:37[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1050364645050122241)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1050364645050122241)307[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1050364645050122241)1034
 
 ```
 git clone https://github.com/joelnet/mojiscript-starter-app.git devto-cli
@@ -670,7 +670,7 @@ export const showArticle = ({ axios, log }) => W (id => pipe ([
 
 再次运行`npm start -- read 1i0a`，您应该会看到文章！
 
-[![Minions are cheering](../Images/60c7956093e54233c76a2e004541e5f1.png)T2】](https://i.giphy.com/media/hEIuLmpW9DmGA/giphy.gif)
+[![Minions are cheering](img/60c7956093e54233c76a2e004541e5f1.png)T2】](https://i.giphy.com/media/hEIuLmpW9DmGA/giphy.gif)
 
 # 点睛之笔
 
@@ -756,4 +756,4 @@ devto
 [问我关于函数式编程的愚蠢问题](https://dev.to/joelnet/ask-me-dumb-questions-about-functional-programming-bho)
 [让我们来谈谈 JavaScript 的自动生成文档工具](https://dev.to/joelnet/lets-talk-about-auto-generated-documentation-tools-for-javascript-49ol)
 
-[![Cheers!](../Images/661c03d25961a6e3b1ecbe00d148b35a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PqqJmrxK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6jsy3a866frzp3u5oda0.jpg)
+[![Cheers!](img/661c03d25961a6e3b1ecbe00d148b35a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PqqJmrxK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6jsy3a866frzp3u5oda0.jpg)

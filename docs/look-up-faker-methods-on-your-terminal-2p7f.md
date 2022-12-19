@@ -18,7 +18,7 @@ $ fakebot search number -v
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/3466a3af0cca5a3c85564c3a947b113f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iCG85ks7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w6qas7os5aydm4mnvec0.jpg)T3】
+[![](img/3466a3af0cca5a3c85564c3a947b113f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iCG85ks7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w6qas7os5aydm4mnvec0.jpg)T3】
 
 ```
 $ fakerbot list 
@@ -26,7 +26,7 @@ $ fakerbot list
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/1db7a4be91bd5d6a50072074c9dc96a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SLJROOQs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7fk2yvzsutsi7pj4a8rn.jpg)
+[![](img/1db7a4be91bd5d6a50072074c9dc96a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SLJROOQs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7fk2yvzsutsi7pj4a8rn.jpg)
 
 *更多[使用说明](https://github.com/akabiru/fakerbot#usage)可以在自述文件上找到。*
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/willamesoares/css-selectors-reviewed-with-examples-3f29>
 
-[![header-image](../Images/0b811665de5cdfe2d102b258a5ad5afb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vjjwCNCB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ei40ngfyeglatxwyr1mv.png)
+[![header-image](img/0b811665de5cdfe2d102b258a5ad5afb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vjjwCNCB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ei40ngfyeglatxwyr1mv.png)
 
 您是否曾经发现自己很难使用 CSS 选择器来样式化一个元素，该元素是包含具有特定值的属性的元素的`nth`子元素的第一个兄弟元素，或者类似的东西？如果你使用过动态布局，你可能已经经历过了。
 
@@ -20,7 +20,7 @@
 
 这些选择器用于匹配 DOM 中的元素，比如`p`、`div`、`span`，甚至是定制的标签，如下例所示。
 
-[![type-selector](../Images/6d37b9714ca678b188c0ead577182a2c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BQsW6LjS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e1rqyczv2c9yajzmmgsm.png)T3】
+[![type-selector](img/6d37b9714ca678b188c0ead577182a2c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--BQsW6LjS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e1rqyczv2c9yajzmmgsm.png)T3】
 
 ```
 custom {
@@ -46,7 +46,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这些用于选择 DOM 中具有特定类作为属性的元素。为此，您必须在想要匹配的名称的开头添加一个`.`。
 
-[![class-selector](../Images/4fb8d5ca41dd67873c756b8244a16758.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0tuPF1d3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/30w37ky2z3yzj0odb3lk.png)T3】
+[![class-selector](img/4fb8d5ca41dd67873c756b8244a16758.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0tuPF1d3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/30w37ky2z3yzj0odb3lk.png)T3】
 
 ```
 .bordered {
@@ -68,7 +68,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这些将匹配具有相关联的特定属性的元素。这可用于匹配单个属性和与其值相关联的属性。对于这种类型的选择器，必须用方括号将属性名括起来。检查下面的例子。
 
-[![attribute-selector](../Images/e52582f7b075efa020971b77255e6a41.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PmRrEx61--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cl1778lj76pmyhgjhsbh.png)T3】
+[![attribute-selector](img/e52582f7b075efa020971b77255e6a41.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PmRrEx61--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cl1778lj76pmyhgjhsbh.png)T3】
 
 ```
 [name] {
@@ -97,7 +97,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 该操作符匹配由空格分隔的单词列表，其中一个单词就是所传递的值。
 
-[![attr-selector-1](../Images/0abbe5bc7724549223d041023169437d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--H67hfIjF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2awyk42hf3dab4z70zx4.png)T3】
+[![attr-selector-1](img/0abbe5bc7724549223d041023169437d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--H67hfIjF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2awyk42hf3dab4z70zx4.png)T3】
 
 ```
 [class~="bordered"] {
@@ -117,7 +117,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 该操作符匹配属性值为传递的精确字符串或以后跟`-`的字符串开始的元素。
 
-[![attr-selector-2](../Images/9e7d45dee18c8cf22ee594f4cb0758d7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VL6TXx2n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ersfpgcr3l0xiz57ba8z.png)T3】
+[![attr-selector-2](img/9e7d45dee18c8cf22ee594f4cb0758d7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VL6TXx2n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ersfpgcr3l0xiz57ba8z.png)T3】
 
 ```
 [class|="primary"] {
@@ -138,7 +138,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 该操作符将元素与以传递的字符串开始的属性值进行匹配。
 
-[![attr-selector-3](../Images/eeb7a7defcb85428206021c0acbaed04.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0PoGjIcR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wfz4hd01mvzuky9d3o42.png)T3】
+[![attr-selector-3](img/eeb7a7defcb85428206021c0acbaed04.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--0PoGjIcR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wfz4hd01mvzuky9d3o42.png)T3】
 
 ```
 [class^="call"] {
@@ -160,7 +160,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 该运算符匹配属性值以传递的字符串结尾的元素。
 
-[![attr-selector-4](../Images/5cd453f4b966c49ce9937b40108a17e5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7RcchT6r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l6eaxa0l7m2vctmeju92.png)T3】
+[![attr-selector-4](img/5cd453f4b966c49ce9937b40108a17e5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7RcchT6r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l6eaxa0l7m2vctmeju92.png)T3】
 
 ```
 [class$="ed"] {
@@ -185,7 +185,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 该运算符至少匹配一次属性值包含所传递字符串的元素。
 
-[![attr-selector-5](../Images/636bcb741577dca3808b34e97d35745d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--37gIGgQg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6zevpjaeqwaa8jha34ew.png)T3】
+[![attr-selector-5](img/636bcb741577dca3808b34e97d35745d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--37gIGgQg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6zevpjaeqwaa8jha34ew.png)T3】
 
 ```
 [class*="prim"] {
@@ -207,7 +207,7 @@ PS。:为了以不区分大小写的方式执行这些匹配，您可以向规�
 
 这些将匹配具有与之相关联的特定标识符的元素。对于这种类型的选择器，您必须在想要匹配的 ID 之前使用一个`#`。检查下面的例子。
 
-[![id-selector](../Images/e4b0f9dc77b2e72f3a12b3257809aa71.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7Zpw9wiA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kmc7qb3l06fp9zrjhuc4.png)T3】
+[![id-selector](img/e4b0f9dc77b2e72f3a12b3257809aa71.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7Zpw9wiA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kmc7qb3l06fp9zrjhuc4.png)T3】
 
 ```
 #d123 {
@@ -228,7 +228,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这个用来匹配页面中的所有元素。例如，它可以用来重置所有元素的边距和填充。但是，没有指出这一点，因为它会使页面的呈现过程过载。
 
-[![universal-selector](../Images/d291fe72f985fd9a58d39d7e15c1367e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4XJ6HZuF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6m3ilmvypghgz9v4h1t5.png)T3】
+[![universal-selector](img/d291fe72f985fd9a58d39d7e15c1367e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4XJ6HZuF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6m3ilmvypghgz9v4h1t5.png)T3】
 
 ```
 * {

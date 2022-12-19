@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/codetheweb/javascript-maths-functions-and-operators-1bek>
 
-[![JavaScript Maths functions and operators](../Images/6e3165f8ec587f6e0861abf67f590bd0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BNX0wE2H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codetheweb.blog/assets/img/posts/javascript-math/cover.jpg)
+[![JavaScript Maths functions and operators](img/6e3165f8ec587f6e0861abf67f590bd0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BNX0wE2H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://codetheweb.blog/assets/img/posts/javascript-math/cover.jpg)
 
 在这篇文章中学习如何使用加法、减法、乘法、除法、乘方、舍入、取模等等...
 

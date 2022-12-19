@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/sharadtricks/entry-level-nodejs-interview-questions-3efe>
 
-[![NodeJs Questions](../Images/13fee2bd16e0b198dd9120640a5f0221.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--az76qB3G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4xfolf6n29uff5v9zq3k.png) 
+[![NodeJs Questions](img/13fee2bd16e0b198dd9120640a5f0221.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--az76qB3G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4xfolf6n29uff5v9zq3k.png) 
 你是 Node Js 开发者吗？寻找一些基本的入门级 NodeJs 面试问题。在这篇文章中，我将与拥有 Node.JS 经验的专家成员分享 25 个 [NodeJS 基本面试问题](https://www.onlineinterviewquestions.com/node-js-interview-questions/)。这些面试问题是专门为你在 Node.JS 主题的面试中可能遇到的问题的性质而设计的
 
 ## 1.node.js 是什么？

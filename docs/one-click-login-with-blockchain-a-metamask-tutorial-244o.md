@@ -20,7 +20,7 @@
 
 一张图胜过千言万语，下面是我们将要构建的登录流程的演示:
 
-[![An animation showing the MetaMask Login Demo.](../Images/e66bd5c2292b5dbb52c3718131a3742a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oImpkeDo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://uploads.toptal.io/blog/image/125794/toptal-blog-image-1522395423193-b3227ea1f43c6cbb9f78e090bd7bb2ee.gif)
+[![An animation showing the MetaMask Login Demo.](img/e66bd5c2292b5dbb52c3718131a3742a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oImpkeDo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://uploads.toptal.io/blog/image/125794/toptal-blog-image-1522395423193-b3227ea1f43c6cbb9f78e090bd7bb2ee.gif)
 
 好看吗？我们开始吧！
 
@@ -70,7 +70,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这个命令的意思是:用 coinbase 账号(即当前账号)给我的消息签名，从 utf8 转换成 hex，作为回调，打印签名。将出现一个元掩码弹出窗口，如果您对其进行签名，将会打印签名的消息。
 
-[![MetaMask confirmation popup](../Images/51778a21e24e5ed823b09b2851635397.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hdet0axU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://uploads.toptal.io/blog/image/125793/toptal-blog-image-1522395402560-444f356ee68405e0968139c7703811ef.png)
+[![MetaMask confirmation popup](img/51778a21e24e5ed823b09b2851635397.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hdet0axU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://uploads.toptal.io/blog/image/125793/toptal-blog-image-1522395402560-444f356ee68405e0968139c7703811ef.png)
 
 我们将在登录流程中使用`web3.personal.sign`。
 
@@ -137,7 +137,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在我们的解释中，我们在每次成功登录后更改它，但是也可以设想基于时间戳的机制。
 
-[![Overview of the six steps of the MetaMask login flow.](../Images/522c5563024a11cee83f8d294483ac73.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2Sr70s1x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://uploads.toptal.io/blog/image/125792/toptal-blog-image-1522395353253-70fb1c40e9527154c2774507b63eac63.png)
+[![Overview of the six steps of the MetaMask login flow.](img/522c5563024a11cee83f8d294483ac73.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2Sr70s1x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://uploads.toptal.io/blog/image/125792/toptal-blog-image-1522395353253-70fb1c40e9527154c2774507b63eac63.png)
 
 ## 让我们一起建造吧
 

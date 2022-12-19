@@ -187,7 +187,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 编辑应用程序信息后，您可以点击“测试草稿”在浏览器中测试响应。你会在左边看到一个看起来像 Google Assisant Android 的屏幕，在右边看到关于你的测试的各种数据。在这里，你可以键入你期望的语音输入，然后看看谷歌助手如何响应。
 
-[![Testing Thorndike Next Bus](../Images/75a76102bf031b4c946505d4b9ad5da4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9DI4eAtM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s1k58y2rqskfdt4xpd05.png) 
+[![Testing Thorndike Next Bus](img/75a76102bf031b4c946505d4b9ad5da4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9DI4eAtM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s1k58y2rqskfdt4xpd05.png) 
 *成功了！*
 
 ### 用声音测试

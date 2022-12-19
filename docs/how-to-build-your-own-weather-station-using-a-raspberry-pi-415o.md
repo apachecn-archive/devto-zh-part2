@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/wiaio/how-to-build-your-own-weather-station-using-a-raspberry-pi-415o>
 
-[![alt text](../Images/57426ce662b99967e789d040958897fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QwdqoEDF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-07-02/1530519961-733576-weather-station-1.png)
+[![alt text](img/57426ce662b99967e789d040958897fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QwdqoEDF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-07-02/1530519961-733576-weather-station-1.png)
 
 在本教程中，我们将向您展示如何使用 raspberry pi 创建气象站并将事件发送到 Wia。
 
@@ -33,7 +33,7 @@
 接下来，我们必须安装 nodeimu，以便我们可以使用传感器。使用命令`npm install --save nodeimu`。
 
 你的 package.json 文件应该是这样的:
-[![alt text](../Images/3d12a62628760bc2acdf386178dc786a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RwzTn-xE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-07-02/1530524205-205083-screen-shot-2018-07-02-at-103618-am.png)
+[![alt text](img/3d12a62628760bc2acdf386178dc786a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RwzTn-xE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-07-02/1530524205-205083-screen-shot-2018-07-02-at-103618-am.png)
 
 # 创建您的天气设备
 
@@ -90,7 +90,7 @@ Enter fullscreen mode Exit fullscreen mode
 # App
 
 接下来，我们将通过 Wia 制作一些小部件来呈现气象站收集的数据。登录 Wia 仪表板，导航到您的设备。选择`Widgets`选项卡并创建一个新的微件。命名为`Humidity`。对于`event`框，键入湿度，就像它出现在您之前复制和粘贴的 node.js 代码中一样。选择`done`，你会看到最新的更新。按照以下温度和压力步骤完成气象站项目。
-[![alt text](../Images/c14ba2d0c92bbfad2bb32c0fbd31d99c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--89m5bOd2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-07-02/1530524302-521378-screen-shot-2018-07-02-at-103805-am.png)
+[![alt text](img/c14ba2d0c92bbfad2bb32c0fbd31d99c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--89m5bOd2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-07-02/1530524302-521378-screen-shot-2018-07-02-at-103805-am.png)
 
 # 网页
 
@@ -120,7 +120,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 到目前为止，我们的网页是相当空白的。导航回您的 Wia 仪表板，在您设备的概览中，您可以看到您的小部件。在小部件的右上角，应该有一个带箭头的框。单击该框，应该会弹出这样的屏幕。
 
-[![alt text](../Images/04133ddf385fa628f79ba8ed9a67768a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z32_tDox--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-07-02/1530524388-230043-screen-shot-2018-07-02-at-103927-am.png)
+[![alt text](img/04133ddf385fa628f79ba8ed9a67768a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z32_tDox--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-07-02/1530524388-230043-screen-shot-2018-07-02-at-103927-am.png)
 
 更改设置，以便`Anyone can view this Widget and embed it in any website`。你还应该`Embed`编码，它将以`<iframe>`开始，以`</iframe>`结束。复制整个代码并粘贴在`<h1>Wia Weather Station</h1>`行的下方和`</body>`行的上方。您的完整代码应该如下所示:
 

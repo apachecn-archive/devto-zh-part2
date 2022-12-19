@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/arleneandrews/why-now-1li>
 
-[![](../Images/7f0eaeda8b9c21e77997c989105006b0.png)](https://i1.wp.com/www.gagasisterhood.com/wp-content/uploads/Sandwich-generation.jpg?w=540&ssl=1) 
+[![](img/7f0eaeda8b9c21e77997c989105006b0.png)](https://i1.wp.com/www.gagasisterhood.com/wp-content/uploads/Sandwich-generation.jpg?w=540&ssl=1) 
 图片来自[https://www . gagasisterhood . com/2015/5-tips-for-members-the-club-sandwich-generation/](https://www.gagasisterhood.com/2015/5-tips-for-members-of-the-club-sandwich-generation/)
 
 要知道，连接到互联网的设备中的一切都是永远存在的(就像 2018 年的隐私泄露事件再次引起人们的注意一样)，这里的细节可能有点少。“三明治一代”这个词似乎已经从我的视线中消失了——这个词指的是那些父母年迈、子女仍依赖他们的人。随着全球寿命的延长，这可能是一种更常见的情况，所以我分享了我对这种情况的看法，并试图为自己创造更好的生活。

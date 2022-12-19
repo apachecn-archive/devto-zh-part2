@@ -18,7 +18,7 @@
 > 
 > **感谢您的宝贵时间，**
 
-[![Man looking at a computer frustrated](../Images/c92d93e07a18e768aa3972747becc794.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b5a2xSqE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/450/0%2A-GRwkjDIqVNNa0tz.jpg)
+[![Man looking at a computer frustrated](img/c92d93e07a18e768aa3972747becc794.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b5a2xSqE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/450/0%2A-GRwkjDIqVNNa0tz.jpg)
 
 你好，
 
@@ -32,7 +32,7 @@
 
 例如，在我目前的工作中，我们使用 PHP、SQL 和非常简单的 JavaScript，这是否意味着我在 Flatiron 学习的 Rails 和 React 是浪费时间，因为我不再使用它们了？一点也不！我花了几个月的时间在熨斗自学这些东西，这意味着当找工作的时候，我已经准备好面对他们对我的任何考验。我参加过 Ruby、JavaScript、PHP、Java 和 Go 的面试，当我在没有任何 PHP 经验的情况下加入一家新公司时，我能够很快上手。事实上，在短短两周内，我已经用一种新语言在一个不熟悉的代码库中提出了我的第一个拉请求。
 
-[![Woman looking at a computer frustrated](../Images/144715c96d783a17422630b13a6e9d97.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wtwyIUAl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/0%2ApgqteWNCJY8fl5Gf.jpg)
+[![Woman looking at a computer frustrated](img/144715c96d783a17422630b13a6e9d97.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wtwyIUAl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/0%2ApgqteWNCJY8fl5Gf.jpg)
 
 因此，实际上，每次你忘记了 React lab 的语法，回到相关的课程或谷歌如何将道具传递到组件中，你都在练习一项你肯定会使用 IRL 的技能；知道在哪里以及如何查找所需信息的技能。另一方面，如果你在第一次之后就记住了语法，你所能做的只是练习一种反应技能，这种技能在毕业后可能都不会用到。
 

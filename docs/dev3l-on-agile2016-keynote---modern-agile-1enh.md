@@ -12,7 +12,7 @@ Joshua Kerievsky 优雅地解释了他对现代敏捷的看法。
 
 这是一个关于现代敏捷的基本原则的演讲。
 
-[![Modern Agile Wheel](../Images/4ed5c77892bb47e28a9089adf6393e44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7jdu3Zv9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bqrykt33sq6otyoyirhq.jpg)
+[![Modern Agile Wheel](img/4ed5c77892bb47e28a9089adf6393e44.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7jdu3Zv9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bqrykt33sq6otyoyirhq.jpg)
 
 车轮的轴线有意与丰田路的两根柱子对齐。
 

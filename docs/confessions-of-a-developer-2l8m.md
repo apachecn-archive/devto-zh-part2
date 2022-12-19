@@ -10,7 +10,7 @@
 
 最近接到电话告诉我婚期定了。最近我做了一些可怕的噩梦，你可以称之为临阵退缩，但这不是问题所在。
 
-<figure>[![](../Images/26ac1221f4afe96b152e8b0366ed1785.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JJX_LkK0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/520/0%2AKw6zAmh19937uCxA.jpg)
+<figure>[![](img/26ac1221f4afe96b152e8b0366ed1785.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JJX_LkK0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/520/0%2AKw6zAmh19937uCxA.jpg)
 
 <figcaption>Pic Credit:[**PASTEBIN**](https://pastebin.com/VnrNenWh)</figcaption>
 
@@ -32,7 +32,7 @@
 
 我会说:
 
-<figure>[![](../Images/38600a04d667297a4e9d0cdab4233669.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--giTJkgyB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/0%2AX0rHO625o8uFVbKP.jpg) 
+<figure>[![](img/38600a04d667297a4e9d0cdab4233669.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--giTJkgyB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/0%2AX0rHO625o8uFVbKP.jpg) 
 
 <figcaption>说实话，我不是。</figcaption>
 
@@ -42,7 +42,7 @@
 
 当我们不为打电话而争吵时，那就是关于回电。作为一名 JavaScript 开发人员，我是这样定义回调的:从一个函数到另一个函数，有一次我们大吵了一架，她大喊，*‘你甚至不做回调！！！.'*于是我给她发了下图。
 
-[![](../Images/83e90daf3b6871b92445f5d5de67e33b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r-GEA9wD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/705/1%2A_GOetAstu-vUHz_nLRXr6Q.png)
+[![](img/83e90daf3b6871b92445f5d5de67e33b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r-GEA9wD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/705/1%2A_GOetAstu-vUHz_nLRXr6Q.png)
 
 她认为这很可爱，这结束了争吵，但我只是想证明我做回电。我是 Node.js 开发人员，如果不是回调我还能做什么？
 
@@ -58,7 +58,7 @@
 
 > 一个忠告:如果你在半夜听到我尖叫，请不要报警，或者你看到我在街上和自己搏斗，这真的不是你的错，相信我，我不会推荐任何医生。我知道我的处方。
 
-<figure>[![](../Images/69967136ecd9cbd808b45f90999e570b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--i94MYnjf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AmD79v-611XiVJH5a.png) 
+<figure>[![](img/69967136ecd9cbd808b45f90999e570b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--i94MYnjf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AmD79v-611XiVJH5a.png) 
 
 <figcaption>我的药方看起来是这样的，用多了。图片来源: [**嘎吱嘎吱**](https://crunchify.com/javascript-function-to-validate-email-password-fields-on-from-submit-event/)</figcaption>
 

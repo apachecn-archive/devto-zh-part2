@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/paigen11/how-i-went-from-a-digital-marketer-to-a-software-engineer-in-4-months-4o41>
 
-[![laptop close up](../Images/df03a0f36113b1c56aeb379a5dee2016.png "laptop close up")T2】](///static/778fc13c9dd6e33da476e6b37e6eb26b/29d31/laptop-1.jpg)
+[![laptop close up](img/df03a0f36113b1c56aeb379a5dee2016.png "laptop close up")T2】](///static/778fc13c9dd6e33da476e6b37e6eb26b/29d31/laptop-1.jpg)
 
 ## 像今天越来越多的人一样，我的 web 开发职业道路并不是一条直线。
 
@@ -22,7 +22,7 @@
 
 然后，我的世界改变了。一个星期五的下午，我的老板陪我走到街上的一家咖啡店，开门见山地说这是我的最后一天。我没有做错任何事，但他们没有足够的营销工作来证明留下我是合理的，所以他们让我走。我惊呆了，接下来的周一，我人生中第一次漂泊，不知道接下来会发生什么。
 
-[![mushroom cloud image post atom bomb drop](../Images/65ad1ba0be80bd42b6f00c55ad150ad2.png "mushroom cloud image post atom bomb drop")T2】](///static/db7ccfd71eb48b3758c758eeaec34e71/29d31/mushroom-cloud.jpg)
+[![mushroom cloud image post atom bomb drop](img/65ad1ba0be80bd42b6f00c55ad150ad2.png "mushroom cloud image post atom bomb drop")T2】](///static/db7ccfd71eb48b3758c758eeaec34e71/29d31/mushroom-cloud.jpg)
 
 没那么戏剧化，但我被解雇后就有这种感觉。我很震惊，没有真正处理刚刚发生的事情。
 
@@ -40,7 +40,7 @@
 
 2016 年 7 月，我加入了 DigitalCrafts 的第三批全栈网络开发团队。
 
-[![holding a compass in front of the sea](../Images/12aec7b8c70400d50f179638c00c737b.png "holding a compass in front of the sea")T2】](///static/077e98d80ef0635f8ebe2811619d2651/29d31/compass.jpg)
+[![holding a compass in front of the sea](img/12aec7b8c70400d50f179638c00c737b.png "holding a compass in front of the sea")T2】](///static/077e98d80ef0635f8ebe2811619d2651/29d31/compass.jpg)
 
 我有一个计划。我不知道这一切结束后我会有什么样的结局，但我已经做了决定。
 
@@ -58,7 +58,7 @@
 
 我知道这听起来很老套，但学习将问题(和项目)分解成更小、更易管理的块，如何提出正确的问题来克服障碍，以及如何坚持不懈，即使看起来我再也学不到更多，或者弄清楚为什么我的代码没有做我想要的事情。
 
-[![the ups and downs of learning to code at bootcamp: high highs and low lows over and over](../Images/fc3e8d07945e4d6a558a9edb9a888000.png "the ups and downs of learning to code at bootcamp: high highs and low lows over and over")T2】](///static/c38ed2545fda503da9da8a02077804e1/3ddad/highs-and-lows.png)
+[![the ups and downs of learning to code at bootcamp: high highs and low lows over and over](img/fc3e8d07945e4d6a558a9edb9a888000.png "the ups and downs of learning to code at bootcamp: high highs and low lows over and over")T2】](///static/c38ed2545fda503da9da8a02077804e1/3ddad/highs-and-lows.png)
 
 这是 AngularJS 的框架所特有的，但它准确地反映了我在新兵训练营的感受:当我学到新东西并让它发挥作用时的兴奋感，以及当新材料扔给我而我还没有弄明白它时的低落感。
 
@@ -66,7 +66,7 @@
 
 > 这很重要:继续尝试。失败后再试一次。相信我。
 
-[![developer wondering what in the world his code is doing](../Images/299a0eb14d426bc6a01f398006c977b1.png "developer wondering what in the world his code is doing")T2】](///static/4cf788e81f27dceaa9b6a6144c0d2b65/29d31/what-developer.jpg)
+[![developer wondering what in the world his code is doing](img/299a0eb14d426bc6a01f398006c977b1.png "developer wondering what in the world his code is doing")T2】](///static/4cf788e81f27dceaa9b6a6144c0d2b65/29d31/what-developer.jpg)
 
 训练营期间许多许多时刻的重现。这个家伙是我们所有人编程时的许多倍。
 
@@ -87,7 +87,7 @@
 
 我花了几个小时研究我的代码，练习编码挑战，修改我的简历，调整我的作品集，直到它完美为止(当然是在移动和桌面上——谢谢你，Bootstrap)。然后是令人头疼的部分，实际上是申请网络开发工作。
 
-[![a programmer diagramming pseudo-code on a whiteboard](../Images/9aa56af7d45763807d19c8386af42541.png "a programmer diagramming pseudo-code on a whiteboard")T2】](///static/26e20d267f4f0fef080a8e3c108235e7/29d31/whiteboard.jpg)
+[![a programmer diagramming pseudo-code on a whiteboard](img/9aa56af7d45763807d19c8386af42541.png "a programmer diagramming pseudo-code on a whiteboard")T2】](///static/26e20d267f4f0fef080a8e3c108235e7/29d31/whiteboard.jpg)
 
 编程的标志:白板、干擦笔和大量的伪代码和图表。这方面的练习会让你变得完美(并帮助你为真正的考试做好准备)。
 
@@ -107,7 +107,7 @@
 
 从过去的经验来看，我知道人际关系网是找工作的关键——我有机会认识的人越多，我就越能向他们展示我可能就是他们团队需要的激动人心的新开发人员。
 
-[![programmers sitting together at an outdoor cafe](../Images/013f3e085a85ca8be08704278516c3bf.png "programmers sitting together at an outdoor cafe")T2】](///static/3e71c18d5611f58913e8daac64efaa4e/29d31/tech-networking.jpg)
+[![programmers sitting together at an outdoor cafe](img/013f3e085a85ca8be08704278516c3bf.png "programmers sitting together at an outdoor cafe")T2】](///static/3e71c18d5611f58913e8daac64efaa4e/29d31/tech-networking.jpg)
 
 聚会是结识科技行业中非常酷、超级聪明的人的好方法。
 
@@ -127,7 +127,7 @@
 
 对我来说幸运的是，应用程序的 UI 是使用 AngularJS 构建的，这是我在 bootcamp 中学到的，所以我能够弄清楚它(在我的搭档的帮助下)。在采访结束时，他给我看了他在我来之前写的解决同样问题的代码，并将其与我的代码进行了比较，它们几乎完全相同！哇，感觉真好。
 
-[![two programmers looking at code together](../Images/f9a87992c12f022b8061df15d091e538.png "two programmers looking at code together")T2】](///static/74fe121b22fe75f36e4b459e71808da8/29d31/pairing.jpg)
+[![two programmers looking at code together](img/f9a87992c12f022b8061df15d091e538.png "two programmers looking at code together")T2】](///static/74fe121b22fe75f36e4b459e71808da8/29d31/pairing.jpg)
 
 我觉得自己远没有这两个看起来那么冷静沉着。我试图不冻结，只是让代码工作。
 
@@ -145,7 +145,7 @@
 
 在这种特殊情况下，我甚至没有时间发送除了感谢邮件之外的任何东西，就在同一天下午，我接到招聘人员的电话，说家得宝想邀请我加入，成为一名初级 Java 开发人员。我很兴奋地接受了它(我也寄了手写的感谢信，说我对他们给我的机会有多兴奋)。
 
-[![woman jumping for joy overlooking a valley of mountain ranges before her](../Images/a2211c4531524ee1d96ae694320cf151.png "woman jumping for joy overlooking a valley of mountain ranges before her")T2】](///static/033f6e77429fd2e4108a199df11814ec/29d31/joy.jpg)
+[![woman jumping for joy overlooking a valley of mountain ranges before her](img/a2211c4531524ee1d96ae694320cf151.png "woman jumping for joy overlooking a valley of mountain ranges before her")T2】](///static/033f6e77429fd2e4108a199df11814ec/29d31/joy.jpg)
 
 景色并没有这么好，但这正是我得到这份工作时的感受。
 
@@ -167,7 +167,7 @@
 
 现在开始编码！
 
-[![success kid with the text "You can do it!"](../Images/78683ce858ac775866fbacdb3cb198c4.png "success kid with the text "You can do it!"")T2】](///static/286d3ae50bc9c539eaf6327379f60b4f/29d31/you-can-do-it-success-kid.jpg)
+[![success kid with the text "You can do it!"](img/78683ce858ac775866fbacdb3cb198c4.png "success kid with the text "You can do it!"")T2】](///static/286d3ae50bc9c539eaf6327379f60b4f/29d31/you-can-do-it-success-kid.jpg)
 
 * * *
 

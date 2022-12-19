@@ -75,7 +75,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在您的存储库上，您需要转到设置，单击 Webhooks 选项卡，您应该会看到这样的屏幕:
 
-[![alt text](../Images/dc35d4fe9a22a9646f7ac485d7045ba4.png "Webhooks dashboard")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cYA_mZB8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5c7s1nz05epuram7h0pg.png)
+[![alt text](img/dc35d4fe9a22a9646f7ac485d7045ba4.png "Webhooks dashboard")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cYA_mZB8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5c7s1nz05epuram7h0pg.png)
 
 一旦你点击添加网页挂钩按钮，你将被要求提供以下数据:
 
@@ -85,7 +85,7 @@ Enter fullscreen mode Exit fullscreen mode
 *   **事件**:你想听的事件。
 
 这是一个 webhook 添加的样子:
-[![alt text](../Images/84e1a9d2f3e449dda1e9c97d970b0972.png "Webhooks dashboard")](https://res.cloudinary.com/practicaldev/image/fetch/s--D6GilYUQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sgtjikdm3e015cglndt9.png)
+[![alt text](img/84e1a9d2f3e449dda1e9c97d970b0972.png "Webhooks dashboard")](https://res.cloudinary.com/practicaldev/image/fetch/s--D6GilYUQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sgtjikdm3e015cglndt9.png)
 
 干杯伙计们。
 

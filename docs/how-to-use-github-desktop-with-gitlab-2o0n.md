@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/sheddy_nathan/how-to-use-github-desktop-with-gitlab-2o0n>
 
-<figure>[![](../Images/d3aedbbeed66d1b248c290681aebbe7a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sad-2yIW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A041IZI22eO8lQqrjME0_YA.jpeg) 
+<figure>[![](img/d3aedbbeed66d1b248c290681aebbe7a.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--sad-2yIW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A041IZI22eO8lQqrjME0_YA.jpeg) 
 
 <figcaption>图像 src = " [Techefeed](https://www.techefeed.com/internet/get-started-github-desktop/) "</figcaption>
 
@@ -52,7 +52,7 @@ GitHub Desktop 是从 Windows 和 OS X 为项目做贡献的一种快速而简�
 
 三。点击设置
 
-<figure>[![](../Images/fd4e3adddf8d68f482452f538de5a383.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--V7M7ITar--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aw3soMTEc5K0Q0iCzadv3qQ.png) 
+<figure>[![](img/fd4e3adddf8d68f482452f538de5a383.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--V7M7ITar--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Aw3soMTEc5K0Q0iCzadv3qQ.png) 
 
 <figcaption>带圈设置</figcaption>
 
@@ -66,29 +66,29 @@ GitHub Desktop 是从 Windows 和 OS X 为项目做贡献的一种快速而简�
 
 I .点击访问令牌
 
-[![](../Images/48687ca1ae681b9d132d48673cda4337.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WvsvC3Ux--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AXMmRvjhDqy0XXygAJnlpTg.png)
+[![](img/48687ca1ae681b9d132d48673cda4337.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WvsvC3Ux--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AXMmRvjhDqy0XXygAJnlpTg.png)
 
 二。生成访问令牌
 
-[![](../Images/1c20eafadf9301308874054df3cd7e4b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NtfeJVkk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Adddg6tBT8yqSPURwiPcqsA.png)
+[![](img/1c20eafadf9301308874054df3cd7e4b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NtfeJVkk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Adddg6tBT8yqSPURwiPcqsA.png)
 
 三。复制您的新访问令牌并将其保存在某个地方，因为我们稍后会用到它:
 
-[![](../Images/1c4ce143965960ce055740f1a586a43d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NklqXEiW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AYglJK_c8xxKTwBzvj_-q_w.png)
+[![](img/1c4ce143965960ce055740f1a586a43d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NklqXEiW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AYglJK_c8xxKTwBzvj_-q_w.png)
 
 **第三步:**
 
 I .转到您的存储库，选择 https 并复制链接，
 
-[![](../Images/c86b34bd8d65a056d80358c53f9fb1db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l1TD5B0N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ACCSybMcpqoSO2yEzEWVXDA.png)
+[![](img/c86b34bd8d65a056d80358c53f9fb1db.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--l1TD5B0N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ACCSybMcpqoSO2yEzEWVXDA.png)
 
 二。从文件栏打开 GitHub 桌面，选择克隆存储库
 
-[![](../Images/d8247a1919798b6c823d4c817ea6fc0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yQulPnvj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Am9ca14FUXJJoTCfy-xN6sg.png)
+[![](img/d8247a1919798b6c823d4c817ea6fc0e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yQulPnvj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Am9ca14FUXJJoTCfy-xN6sg.png)
 
 三。选择它后，会弹出一个模式，选择 URL，将我们从 gitlab 复制的 https 链接放在 URL 字段中，并选择目标文件夹。
 
-[![](../Images/e3b0345a38721804db3320f52633a6ca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IY8ZFoHC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A5Hs2sv0w9MHwhk8ozqp5TQ.png)
+[![](img/e3b0345a38721804db3320f52633a6ca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IY8ZFoHC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A5Hs2sv0w9MHwhk8ozqp5TQ.png)
 
 四。填写完所有这些字段后，选择 clone
 
@@ -100,7 +100,7 @@ I .转到您的存储库，选择 https 并复制链接，
 
 七。之后，点击登录或认证，如果一切顺利，你应该会看到这样的东西
 
-<figure>[![](../Images/69e0761715e4065e026da74bee05e051.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oNSBCsBD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AiyX9y9Vt9-DOIq6VNjOIHg.png) 
+<figure>[![](img/69e0761715e4065e026da74bee05e051.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--oNSBCsBD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AiyX9y9Vt9-DOIq6VNjOIHg.png) 
 
 <figcaption>【克隆(你的项目回购名称)</figcaption>
 
@@ -108,7 +108,7 @@ I .转到您的存储库，选择 https 并复制链接，
 
 之后，你会看到这个
 
-[![](../Images/72bf5a09a160845662adfe060d30692e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--reJlyJcA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AQLnUBwAQtYyuwUNuG7S_3w.png)
+[![](img/72bf5a09a160845662adfe060d30692e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--reJlyJcA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AQLnUBwAQtYyuwUNuG7S_3w.png)
 
 然后，您可以从原点获取，查看所有分支，并将其用作您的首选 git 客户端。
 

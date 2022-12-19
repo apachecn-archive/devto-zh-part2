@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/devteam/pusher-contest-deadline-is-two-weeks-away-o8c>
 
-[![The DEV Team](../Images/6b3a9c79aeecf790d5144f3fe1881f50.png)![](../Images/15e6599da1ea8b6f92e1b678e9347b2c.png)](/devteam) [## 有史以来第一次开发竞赛:用 Pusher 构建一个实时应用程序
+[![The DEV Team](img/6b3a9c79aeecf790d5144f3fe1881f50.png)![](img/15e6599da1ea8b6f92e1b678e9347b2c.png)](/devteam) [## 有史以来第一次开发竞赛:用 Pusher 构建一个实时应用程序
 
 ### 开发团队的李佳薇 5 月 1 日 182 分钟阅读
 
@@ -22,7 +22,7 @@
 
 肖恩·丹尼创造了一个合作点击竞赛。目标是成为第一个使计数器达到 100 的用户。
 
-[![nektro](../Images/cb4b59d5a2101f651752b1c1936faa81.png)](/nektro) [## 按下[输入]按钮
+[![nektro](img/cb4b59d5a2101f651752b1c1936faa81.png)](/nektro) [## 按下[输入]按钮
 
 ### Meghan(她/她)May 4 ' 181min read
 
@@ -32,7 +32,7 @@
 
 道格·布莱克开发了一个日程安排程序，可以让你创建房间和约会。
 
-[![dougblackjr](../Images/fe7ff3f6df5fad0b487c5c20d4b9e83a.png)](/dougblackjr) [## [条目]约会日程安排
+[![dougblackjr](img/fe7ff3f6df5fad0b487c5c20d4b9e83a.png)](/dougblackjr) [## [条目]约会日程安排
 
 ### 道格·布莱克 5 月 8 日 182 分钟阅读
 
@@ -42,7 +42,7 @@
 
 Avalander 已经为他们的“像素战争”游戏提供了一个可玩的演示，玩家可以在板上认领细胞。听起来更多的更新正在进行中。
 
-[![avalander](../Images/dfd7bac1c61f0ed6ce18f3bb69b0f187.png)](/avalander) [## 像素战争:索赔细胞
+[![avalander](img/dfd7bac1c61f0ed6ce18f3bb69b0f187.png)](/avalander) [## 像素战争:索赔细胞
 
 ### avalander 5 月 11 日 182 分钟阅读
 

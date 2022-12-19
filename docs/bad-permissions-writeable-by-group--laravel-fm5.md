@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/yemiwebby/bad-permissions-writeable-by-group--laravel-fm5>
 
-<figure>[![](../Images/4ab583bc754011064e5f37ce544e0a85.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--P9_oksum--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/844/1%2AgUG4hDtn-Qvi5nMDcnJmMQ.jpeg) 
+<figure>[![](img/4ab583bc754011064e5f37ce544e0a85.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--P9_oksum--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/844/1%2AgUG4hDtn-Qvi5nMDcnJmMQ.jpeg) 
 
 <figcaption>内部服务器错误</figcaption>
 

@@ -6,9 +6,9 @@ ASCII 艺术也被称为“计算机文本艺术”。它包括智能放置键�
 
 Art 是一个 Python 库，用于将文本转换成 ASCII 艺术样式。；-)
 
-| 开放式集线器 | [![](../Images/2fd52b23d99ea6d81d86835d43623e53.png)T2】](https://www.openhub.net/p/artlib) |
-| PyPI 计数器 | [![](../Images/6f8f561856ae1818a4305ec95159ffa4.png)T2】](http://pepy.tech/count/art) |
-| Github Stars | [![](../Images/fd9446ebcec0f8b448bb4c874f2492bc.png)T2】](https://github.com/sepandhaghighi/art) |
+| 开放式集线器 | [![](img/2fd52b23d99ea6d81d86835d43623e53.png)T2】](https://www.openhub.net/p/artlib) |
+| PyPI 计数器 | [![](img/6f8f561856ae1818a4305ec95159ffa4.png)T2】](http://pepy.tech/count/art) |
+| Github Stars | [![](img/fd9446ebcec0f8b448bb4c874f2492bc.png)T2】](https://github.com/sepandhaghighi/art) |
 | 字体计数器 | Two hundred and thirty-five |
 | 单线艺术计数器 | Two hundred and fifty |
 

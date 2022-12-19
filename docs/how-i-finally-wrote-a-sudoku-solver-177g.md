@@ -20,7 +20,7 @@
 
 ## 数独谜题
 
-[![](../Images/067e10fab76506788b77bc0c38527515.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m7-Y1GQz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://www.educationworld.com/a_lesson/sudoku/images/sudoku_033.gif)
+[![](img/067e10fab76506788b77bc0c38527515.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m7-Y1GQz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://www.educationworld.com/a_lesson/sudoimg/sudoku_033.gif)
 
 如果你以前没有玩过数独游戏，它们是数字游戏，其中每一行、每一列和每一个 3×3 的方块都必须有数字 1-9 出现一次。有许多方法可以解决这些难题，其中许多可以由计算机而不是人来复制。通常，当我们使用计算机解决它们时，我们会使用嵌套数组来表示数独板，如下所示:
 
@@ -124,7 +124,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 一种解决数独难题的算法是回溯算法。本质上，你一直在空白处尝试数字，直到没有任何数字是可能的，然后你回溯并在前面的位置尝试不同的数字。
 
-[![Awesome visualization from Wikipedia](../Images/c84197790c628acad7b279ca6b165782.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3WTcSHjf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/8/8c/Sudoku_solved_by_bactracking.gif)
+[![Awesome visualization from Wikipedia](img/c84197790c628acad7b279ca6b165782.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3WTcSHjf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/8/8c/Sudoku_solved_by_bactracking.gif)
 
 #### *大喊到维基百科进行令人敬畏的可视化！*
 

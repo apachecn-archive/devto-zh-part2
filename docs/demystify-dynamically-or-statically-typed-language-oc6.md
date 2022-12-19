@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/himankbhalla/demystify-dynamically-or-statically-typed-language-oc6>
 
-[![](../Images/06ce76769b133680f25fff40fa6737ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ae7rlhha--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AuN7_836eTaDQCA4soFSMEQ.jpeg)
+[![](img/06ce76769b133680f25fff40fa6737ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ae7rlhha--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AuN7_836eTaDQCA4soFSMEQ.jpeg)
 
 当你开始学习一门新的编程语言时，几乎不可能避免静态类型和动态类型等术语。虽然，每个人都在谈论任何一种语言的打字方式，但很少被新学习者重视。在这篇文章中，我想简单介绍一下类型、类型系统、静态和动态类型。
 

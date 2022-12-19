@@ -56,7 +56,7 @@ BuyBook('Into The Water')
 
 或者看下图！😉
 
-[![](../Images/92ff0f4452a66137a3bcbef1066b3e2f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--K1rAcIa0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/1%2AD2Nx7mm3Q-OENTG_Vq_btA.jpeg) 
+[![](img/92ff0f4452a66137a3bcbef1066b3e2f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--K1rAcIa0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/1%2AD2Nx7mm3Q-OENTG_Vq_btA.jpeg) 
 
 <figcaption>来源:[第一设计师](https://1stwebdesigner.com/graphic-design-jokes/)</figcaption>
 
@@ -84,7 +84,7 @@ Snapchat 应用程序按照预期运行，但埃文·斯皮格尔仍计划对其
 
 因为有时用户友好性与性能直接相关。
 
-[![](../Images/ebc530e59a8adba5f330f07f85aa7d8d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RAHQwiz---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/491/1%2AvfbJLo5_iFw6ItRr9-jNtA.jpeg) 
+[![](img/ebc530e59a8adba5f330f07f85aa7d8d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RAHQwiz---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/491/1%2AvfbJLo5_iFw6ItRr9-jNtA.jpeg) 
 
 <figcaption>我就在这里等。(来源:imgflip.com)</figcaption>
 

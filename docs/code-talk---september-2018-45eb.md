@@ -6,7 +6,7 @@
 
 快乐阅读。
 
-[![Image result for happy reading gif](../Images/10e26c19d35628ec61690a100c802542.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nG11ypJc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://images.gr-assets.com/hostedimages/1380742678ra/3118077.gif)
+[![Image result for happy reading gif](img/10e26c19d35628ec61690a100c802542.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nG11ypJc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://images.gr-assets.com/hostedimages/1380742678ra/3118077.gif)
 
 ## 规划不一定是敏捷的敌人
 
@@ -54,4 +54,4 @@ RXJS 是一个很难掌握的主题。RxJS 内的主题更是如此。它们经�
 
 谢谢，请继续阅读！
 
-[![Image result for happy reading gif](../Images/7476c529ac28a1e5290217d4e26b0415.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vTMBP9So--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://gifer.com/i/2cmo.gif)
+[![Image result for happy reading gif](img/7476c529ac28a1e5290217d4e26b0415.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vTMBP9So--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://gifer.com/i/2cmo.gif)

@@ -4,7 +4,7 @@
 
 ## 为什么 laravel 最适合建设高性能网站
 
-[![Laravel](../Images/bde5c03bf18c0000300aae8c9807e3aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h3gLit9k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.agiratech.com/wp-content/uploads/2018/09/laravel.png)
+[![Laravel](img/bde5c03bf18c0000300aae8c9807e3aa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h3gLit9k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://www.agiratech.com/wp-content/uploads/2018/09/laravel.png)
 
 当今大多数开发人员或企业经常提出的一个问题是，哪种 PHP 框架最适合构建高性能的网站？在寻找答案之前，第一，要多挖掘问题。现在我的问题是，我们如何将网站定义为高性能网站或大规模应用程序？仅仅是因为网站有更多的功能或拥有大量的数据吗？不是我们不能坚持下去！首先，我们需要检查网站是否能够快速处理请求，或者网站一次可以处理的用户数量，或者它是否能够存储大量数据，或者有时它是基于网站的性能指标。此外，如果站点具备所有这些能力，那么我们可以将该站点定义为高性能站点。那么我们如何开发这样的应用程序呢？这里我们的第一个概念是找到开发一个高性能网站所需的“因素”。总的来说，这取决于允许开发者独立思考和实现他们想法的框架。
 

@@ -123,7 +123,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 *   [待办事项树](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 
-[![equiman](../Images/ebe835e1ec966206e00a01bb329a3e86.png)](/equiman) [## VSCode 扩展-待办事项树
+[![equiman](img/ebe835e1ec966206e00a01bb329a3e86.png)](/equiman) [## VSCode 扩展-待办事项树
 
 ### 卡米洛马丁内斯 9 月 22 分钟阅读
 
@@ -219,11 +219,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 有很多扩展是没用的，可以用一些 VSCode 配置来代替，做同样的事情。
 
-[![robole](../Images/a826046bf6ae131ce7ddd48b2a722e3c.png)](/robole) [## VS 代码:你不需要那个扩展
+[![robole](img/a826046bf6ae131ce7ddd48b2a722e3c.png)](/robole) [## VS 代码:你不需要那个扩展
 
 ### rob OLeary Aug 5 ' 207 分钟读取
 
-#webdev #vscode #productivity #tips](/robole/vs-code-you-don-t-need-that-extension-18d7)[![robole](../Images/a826046bf6ae131ce7ddd48b2a722e3c.png)](/robole) [## VS 代码:你不需要那个扩展第 2 部分
+#webdev #vscode #productivity #tips](/robole/vs-code-you-don-t-need-that-extension-18d7)[![robole](img/a826046bf6ae131ce7ddd48b2a722e3c.png)](/robole) [## VS 代码:你不需要那个扩展第 2 部分
 
 ### rob ol early 11 月 8 日 2113 分钟阅读
 
@@ -263,11 +263,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 </figure>
 
-[![equiman](../Images/ebe835e1ec966206e00a01bb329a3e86.png)](/equiman) [## VSCode -不使用鼠标创建文件和文件夹
+[![equiman](img/ebe835e1ec966206e00a01bb329a3e86.png)](/equiman) [## VSCode -不使用鼠标创建文件和文件夹
 
 ### 卡米洛马丁内斯 10 月 2 日 203 分钟阅读
 
-#vscode #productivity #terminal #programming](/equiman/vscode-create-files-and-folders-on-the-go-2hd6)[![equiman](../Images/ebe835e1ec966206e00a01bb329a3e86.png)](/equiman) [## VSCode -不使用鼠标的终端
+#vscode #productivity #terminal #programming](/equiman/vscode-create-files-and-folders-on-the-go-2hd6)[![equiman](img/ebe835e1ec966206e00a01bb329a3e86.png)](/equiman) [## VSCode -不使用鼠标的终端
 
 ### 卡米洛马丁内斯 9 月 30 日 4 分钟阅读
 
@@ -283,7 +283,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 虽然 VSCode 团队解决了这个问题，但我们可以使用一种变通方法来创建有特色的版本: [React](https://dev.to/equiman/vscode-react-flavored-134h) ， [Node.js](https://dev.to/equiman/vscode-node-js-flavored-37di) ，[。网](https://dev.to/equiman/vscode-net-flavored-6e9) y [Arduino](https://dev.to/equiman/vscode-arduino-flavored-mgj) 。
 
-[![dock-macos](../Images/035b5db00ea5b82642e18bb7f484fb74.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JIb3s8F4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/ps4q9dzf8x5hpnqa8c6r.png)
+[![dock-macos](img/035b5db00ea5b82642e18bb7f484fb74.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JIb3s8F4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/ps4q9dzf8x5hpnqa8c6r.png)
 
 # 一枚戒指统治他们所有人！
 
@@ -324,4 +324,4 @@ Enter fullscreen mode Exit fullscreen mode
 **都是乡亲们！
 快乐编码** 🖖
 
-[![beer](../Images/192892baef71a32ea4a5e98a4927b05e.png)T2】](https://github.com/sponsors/deinsoftware)
+[![beer](img/192892baef71a32ea4a5e98a4927b05e.png)T2】](https://github.com/sponsors/deinsoftware)

@@ -27,7 +27,7 @@
 
 最终结果看起来像这样:
 
-[![Final result](../Images/f66b2ec735530ead75baea010b91dc8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Uq4Hr2yM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://monosnap.com/image/5VUT424b4Hu9ITi8r1SGae7HQleCPT.png)
+[![Final result](img/f66b2ec735530ead75baea010b91dc8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Uq4Hr2yM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://monosnap.com/image/5VUT424b4Hu9ITi8r1SGae7HQleCPT.png)
 
 我们将有三个屏幕:
 
@@ -711,4 +711,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 编码快乐！
 
-[![](../Images/2b8a6d928d887b4bda1f05584990a4e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zVIpSIO0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/CodeLoveAndBoards/%257E4/bBnuAZkGfT0)
+[![](img/2b8a6d928d887b4bda1f05584990a4e8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zVIpSIO0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://feeds.feedburner.com/%257Er/CodeLoveAndBoards/%257E4/bBnuAZkGfT0)

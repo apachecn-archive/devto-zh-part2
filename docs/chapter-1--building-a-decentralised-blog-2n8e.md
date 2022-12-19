@@ -16,18 +16,18 @@
 
 twitter icymi 上有一些更新:
 
-> ![unknown tweet media content](../Images/821c09778419c5a352d72c9e216faca5.png)![Luke Barnard profile image](../Images/cf2ccc4f261337838444da4c0cb82567.png)卢克巴纳德@卢克巴纳德 _![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)我已经开始设计默认的杂志主题了。fonts.google.com，没有你我该怎么办？
+> ![unknown tweet media content](img/821c09778419c5a352d72c9e216faca5.png)![Luke Barnard profile image](img/cf2ccc4f261337838444da4c0cb82567.png)卢克巴纳德@卢克巴纳德 _![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)我已经开始设计默认的杂志主题了。fonts.google.com，没有你我该怎么办？
 > 
-> Markdown 渲染通过[github.com/rexxars/react-…](https://t.co/7sPaZXwtg2)，语法高亮来自[highlightjs.org](https://t.co/yLw4iOP066)。2018 年 7 月 18 日上午 00:46[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1019382964717871105)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1019382964717871105)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1019382964717871105)
+> Markdown 渲染通过[github.com/rexxars/react-…](https://t.co/7sPaZXwtg2)，语法高亮来自[highlightjs.org](https://t.co/yLw4iOP066)。2018 年 7 月 18 日上午 00:46[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1019382964717871105)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1019382964717871105)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1019382964717871105)
 
-> ![unknown tweet media content](../Images/ffec6b1028f2129428b4b2fba154d815.png)![Luke Barnard profile image](../Images/cf2ccc4f261337838444da4c0cb82567.png)卢克·巴纳德@卢克·巴纳德 _![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)杂志上的更多进展:
+> ![unknown tweet media content](img/ffec6b1028f2129428b4b2fba154d815.png)![Luke Barnard profile image](img/cf2ccc4f261337838444da4c0cb82567.png)卢克·巴纳德@卢克·巴纳德 _![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)杂志上的更多进展:
 > -带有“订阅”按钮的作者卡片
 > -带有可扩展线程的评论部分
 > -响应式封面图片，使用 CSS“object-fit:cover”
 > 
 > [pravatar . cc](https://t.co/4lxj96MS6M)用于随机头像
 
-> ![unknown tweet media content](../Images/20ba8fa6d6abeb083cbd2eaa5debd0b0.png)![Play butt](../Images/980e9fb12d58fa9423fc94c33003fc4f.png)<video loop="" controls=""><source src="https://video.twimg.com/ext_tw_video/1023159958311976961/pu/pl/j7jtAGIngctVNxv8.m3u8?tag=4" type="application/x-mpegURL"></video>![Luke Barnard profile image](../Images/cf2ccc4f261337838444da4c0cb82567.png)卢克·巴纳德@卢克·巴纳德 _![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)期刊获得一个带有类别和浮动侧栏的主页！2018 年 7 月 28 日上午 10:56[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1023160271941054464)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1023160271941054464)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1023160271941054464)
+> ![unknown tweet media content](img/20ba8fa6d6abeb083cbd2eaa5debd0b0.png)![Play butt](img/980e9fb12d58fa9423fc94c33003fc4f.png)<video loop="" controls=""><source src="https://video.twimg.com/ext_tw_video/1023159958311976961/pu/pl/j7jtAGIngctVNxv8.m3u8?tag=4" type="application/x-mpegURL"></video>![Luke Barnard profile image](img/cf2ccc4f261337838444da4c0cb82567.png)卢克·巴纳德@卢克·巴纳德 _![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)期刊获得一个带有类别和浮动侧栏的主页！2018 年 7 月 28 日上午 10:56[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1023160271941054464)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1023160271941054464)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1023160271941054464)
 
 目前为止的故事是这样的。
 

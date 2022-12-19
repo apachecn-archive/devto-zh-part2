@@ -4,7 +4,7 @@
 
 #### 或许是用来存放字符串的？
 
-[![](../Images/59a7cc63659c0429b9cbfe59731c3641.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iUNKhDYu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A7juUZmdxIM0id44W.) 
+[![](img/59a7cc63659c0429b9cbfe59731c3641.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iUNKhDYu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A7juUZmdxIM0id44W.) 
 
 <figcaption>照片由 [Sandrachile 拍摄。](https://unsplash.com/@sandrachile?utm_source=medium&utm_medium=referral)on[un splash](https://unsplash.com?utm_source=medium&utm_medium=referral)T8】</figcaption>
 

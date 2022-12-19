@@ -287,7 +287,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 类型有特殊的行为。下面是逻辑 and 和 or 运算符应用于可空值时的“真值表”:
 
-[![Nullable bool truth table](../Images/9dc2a1c5c8cb412d999122debc040ce4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---9s2sM1P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tjdlqpqz7lcjjnv3wtjb.png)
+[![Nullable bool truth table](img/9dc2a1c5c8cb412d999122debc040ce4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---9s2sM1P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tjdlqpqz7lcjjnv3wtjb.png)
 
 # 来自 CLR 的支持
 

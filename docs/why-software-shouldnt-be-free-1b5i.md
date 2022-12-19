@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/aviaryan/why-software-shouldnt-be-free-1b5i>
 
-[![cover](../Images/132b00c4666e1174dc6ea1cde667d508.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--61oPhLko--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.us-east-2.amazonaws.com/devletters/covers/money.jpeg)
+[![cover](img/132b00c4666e1174dc6ea1cde667d508.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--61oPhLko--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.us-east-2.amazonaws.com/devletters/covers/money.jpeg)
 
 > 首次发布于 [Dev Letters](https://devletters.com/letters/software-shouldnt-be-free/)
 

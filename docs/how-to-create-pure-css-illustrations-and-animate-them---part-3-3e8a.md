@@ -10,7 +10,7 @@
 
 这是我们将要建造的:
 
-[![](../Images/902ce3088a5389f35820f5fcf5c5a3fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FMn19yJt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/05hsnvrtbdnb7f9rte4k.jpg)
+[![](img/902ce3088a5389f35820f5fcf5c5a3fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FMn19yJt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/05hsnvrtbdnb7f9rte4k.jpg)
 
 因为这个图比前几个图要复杂一点，我们将快速浏览一下我们已经看到的内容。然而，我将介绍一些新的技术，如 CSS 3D 变换，重复梯度和 SASS 循环。
 
@@ -121,7 +121,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 元素将作为我们的主容器，我们希望它和我们的屏幕一样宽一样高。`.background`是我们的第一层，`.sea`放在上面。我们使用`background-image`属性对两个元素应用渐变。同样，在现实生活中，我们将不得不对该属性使用供应商前缀，但是为了简洁起见，让我们省略它们。
 
-[![](../Images/ead8c3e4854a2ea8bb05bf7d3b89ee7d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I1fqzumg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wi1ixt8hxihg0thp21hm.jpg)
+[![](img/ead8c3e4854a2ea8bb05bf7d3b89ee7d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--I1fqzumg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wi1ixt8hxihg0thp21hm.jpg)
 
 #### 使用循环来生成和随机化内容
 
@@ -238,7 +238,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 开始了。我们的星星还没有动画，但我们稍后会解决这个问题。
 
-[![](../Images/a6d5de29a74201e015bc101551ff2463.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eYHW3pH7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xzwyevvf3ceyyzabgntp.jpg)
+[![](img/a6d5de29a74201e015bc101551ff2463.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eYHW3pH7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xzwyevvf3ceyyzabgntp.jpg)
 
 * * *
 
@@ -261,7 +261,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/42dd8b5b220ba9b442952f3fd67bf214.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_xsiLXXw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b4s203xvp9yqr34x5gmu.jpg)
+[![](img/42dd8b5b220ba9b442952f3fd67bf214.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_xsiLXXw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/b4s203xvp9yqr34x5gmu.jpg)
 
 对于山脉，我们再次使用 Pug 循环来创建四个元素。
 
@@ -322,7 +322,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/49ebac0e36dd8e3ff6a26f75550811d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZOxF5LdA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6cosroux6dw2bbe6uoh9.jpg)
+[![](img/49ebac0e36dd8e3ff6a26f75550811d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZOxF5LdA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6cosroux6dw2bbe6uoh9.jpg)
 
 为了给大海添加波浪，我再次使用了 Pug 和 SASS 循环:
 
@@ -356,7 +356,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/2a8108aafe931bdde843288ad9ecf24c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9LMS1yKl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r7bv5ag94dcubmpxui2l.jpg)
+[![](img/2a8108aafe931bdde843288ad9ecf24c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9LMS1yKl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r7bv5ag94dcubmpxui2l.jpg)
 
 背景中的最后一个元素是船。它由三个主要部分组成:一个底座和两个帆。为了创建船帆的底部和三角形，让我们使用[裁剪路径](https://css-tricks.com/almanac/properties/c/clip/)属性。[这个工具](https://bennettfeely.com/clippy/)非常适合动态创建剪辑路径形状。
 
@@ -425,7 +425,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/c193628d97aa96bcde102bb530ec07d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CdGtcbLK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i3fonc0e737a07nv63rz.jpg)
+[![](img/c193628d97aa96bcde102bb530ec07d6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CdGtcbLK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/i3fonc0e737a07nv63rz.jpg)
 
 #### 使用 CSS 变换
 
@@ -463,7 +463,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 使用 transform 属性，我们可以[倾斜](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/skew)元素，然后将其向左移动并隐藏左侧。
 
-[![](../Images/36ac2004dd858290e97a89087e989a34.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rW7V4CEP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g91wkkzdx6hpke979tfx.jpg)
+[![](img/36ac2004dd858290e97a89087e989a34.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rW7V4CEP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g91wkkzdx6hpke979tfx.jpg)
 
 现在对于实际的灯塔，我们可以从给灯塔组一个大小和位置开始:
 
@@ -493,7 +493,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/bbb89608e38d2326d81afa4ef63802a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--joegRnmv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tvra2td6po862hb3wcyi.jpg)
+[![](img/bbb89608e38d2326d81afa4ef63802a9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--joegRnmv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tvra2td6po862hb3wcyi.jpg)
 
 如果你想了解更多关于 CSS 3D 转换的知识，这里有一个很好的链接。
 
@@ -517,7 +517,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/a8c9a6c35cc88f3d2255cdfe9ba940f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M4-GYhTJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/10ctszbb0bnu3b9c3um1.jpg)
+[![](img/a8c9a6c35cc88f3d2255cdfe9ba940f2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M4-GYhTJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/10ctszbb0bnu3b9c3um1.jpg)
 
 我还想添加一些阴影与另一个梯度层在顶部。我们将使用`:after`伪选择器:
 
@@ -567,7 +567,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/1e6af3d3ee144f0d5c7c141a8bb8c748.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5xi7crhZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eatw3qr8uqjwgcrei82t.jpg)
+[![](img/1e6af3d3ee144f0d5c7c141a8bb8c748.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5xi7crhZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eatw3qr8uqjwgcrei82t.jpg)
 
 为了创建窗口，我们首先需要向 HTML 添加四个`.window`元素。为了将它们隔开，我们可以像以前一样使用一个 SASS 循环。然而这一次，我们可以做一个简单的加法，而不是使用 random 函数。
 
@@ -605,7 +605,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/4d852377150552a6a3037ec5b5b45115.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v-FDvE9V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6j102usz8fadj9q2kbrs.jpg)
+[![](img/4d852377150552a6a3037ec5b5b45115.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v-FDvE9V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6j102usz8fadj9q2kbrs.jpg)
 
 这门很简单。对于楼梯，让我们再次使用`perspective`和`rotateX`的组合来得到一个梯形。那么重复的梯度将产生台阶。
 
@@ -637,7 +637,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/7ef3480d788f77f86673cc52a5560120.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LWU-mVfa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v0t1utcm75t0uli6i7p5.jpg)
+[![](img/7ef3480d788f77f86673cc52a5560120.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LWU-mVfa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v0t1utcm75t0uli6i7p5.jpg)
 
 好了，灯塔的底部完成了。让我们继续看最上面的部分。
 
@@ -685,7 +685,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/ea4e77e299ba760c77080a2a0a440a05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--27mhgPY7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e4ubomtk8yzuu6i91e6o.jpg)
+[![](img/ea4e77e299ba760c77080a2a0a440a05.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--27mhgPY7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e4ubomtk8yzuu6i91e6o.jpg)
 
 除了我们不需要转换之外,`.middle`部分非常相似。我们还使用了`:before`选择器在它后面添加了一个漂亮的光晕:
 
@@ -718,7 +718,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/faf6b055000c085f0cd7b42bec2ca0e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v5Ibm76b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yl45romslg3q239sytxk.jpg)
+[![](img/faf6b055000c085f0cd7b42bec2ca0e6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v5Ibm76b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yl45romslg3q239sytxk.jpg)
 
 对于屋顶，我们可以使用[边界技术](https://css-tricks.com/snippets/css/css-triangle/)来创建一个三角形。
 
@@ -754,7 +754,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/143991f46bbda4554f1f73ab5b1330c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ALPe63Y---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4a9zpun7hdyay79ltxog.jpg)
+[![](img/143991f46bbda4554f1f73ab5b1330c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ALPe63Y---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4a9zpun7hdyay79ltxog.jpg)
 
 最后，我们需要在屋顶上添加一些光线。我们已经用完了伪选择器，所以我们需要创建一个新的 HTML `.roof-light`元素。这一次我使用了`clip-path`属性来确保渐变包含在屋顶中:
 
@@ -774,7 +774,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/e12d26fb51bbe4c29f3e0199a3485b0c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V2HtelRm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/derwf40plbkhmo1thju8.jpg)
+[![](img/e12d26fb51bbe4c29f3e0199a3485b0c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--V2HtelRm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/derwf40plbkhmo1thju8.jpg)
 
 我们插图的最后一个元素是光。因为我们马上要在 3D 空间中制作动画，所以我们需要两个元素。`.light-container`元素将用于从后向前旋转灯光。元素是用来给灯光一个梯形的形状:
 
@@ -817,7 +817,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/cf7325812f933f2ee8224cd4b476c8e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F9ezMFh7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fqpawnoixmhq1ropbleh.jpg)
+[![](img/cf7325812f933f2ee8224cd4b476c8e5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F9ezMFh7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fqpawnoixmhq1ropbleh.jpg)
 
 我们的插图完成了！这是大量的工作，但我们还没有完全完成。动画时间到了！
 

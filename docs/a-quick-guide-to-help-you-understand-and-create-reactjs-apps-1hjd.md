@@ -40,7 +40,7 @@ npm start
 
 进入你的浏览器，点击以下网址 **localhost:3000** 。您应该能够看到您的应用程序正在运行。该应用程序在您的浏览器中将如下所示:
 
-[![Output](../Images/d49981a3d2fa948c9ef1eb15ed8c89ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bVaOAHSs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gnpno7g8xjatppu9f3yd.jpg)
+[![Output](img/d49981a3d2fa948c9ef1eb15ed8c89ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bVaOAHSs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gnpno7g8xjatppu9f3yd.jpg)
 
 ## 解释了基本文件夹结构
 
@@ -157,7 +157,7 @@ export default App;
 
 您应该会在浏览器中看到以下结果。
 
-[![Output](../Images/9f5e7c19a09bcc306fd9ed38f074854e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pwVgVT6w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/af3i0qmhzpiah61uuhhk.jpg)
+[![Output](img/9f5e7c19a09bcc306fd9ed38f074854e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pwVgVT6w--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/af3i0qmhzpiah61uuhhk.jpg)
 
 ## 祝贺😄
 
@@ -181,7 +181,7 @@ export default App;
 
 该应用程序在移动屏幕上会是这样的
 
-[![Output](../Images/74e0eeb4c2a09c8cc8524d352e41cbe0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--huGrqBts--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/llipov2aypjlk2l6fxfz.jpg)
+[![Output](img/74e0eeb4c2a09c8cc8524d352e41cbe0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--huGrqBts--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/llipov2aypjlk2l6fxfz.jpg)
 
 ## 这个应用程序做什么
 

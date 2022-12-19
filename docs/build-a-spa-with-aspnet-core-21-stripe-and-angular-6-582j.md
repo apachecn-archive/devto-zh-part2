@@ -451,15 +451,15 @@ Enter fullscreen mode Exit fullscreen mode
 
 首先，您需要在 Okta 中创建一个 OpenID Connect 应用程序。注册一个永远免费的开发者账户(或者如果你已经有了的话就登录)。
 
-[![Okta's sign up page.](../Images/9856349c50e688be9f1c3dc6c2c1d3e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RP4I0urX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ticket-sales-app/OktaSignUp-accab135cb5e7cb06a3446679d6aef0958ea31b3b9444d87ffb2f70e5882d045.png)
+[![Okta's sign up page.](img/9856349c50e688be9f1c3dc6c2c1d3e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RP4I0urX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ticket-sales-app/OktaSignUp-accab135cb5e7cb06a3446679d6aef0958ea31b3b9444d87ffb2f70e5882d045.png)
 
 一旦您登录并登录到仪表板页面，请复制下图中的 Org URL。你以后会需要这个的。
 
-[![Okta developer dashboard highlighting the org URL.](../Images/772e474956b4139490855df2c4e02e9f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nbQDqN2A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ticket-sales-app/OktaOrgUrl-38ad1e82ab84ae824e053148055d7b7456c5675d3ef3f27e06874ba47904fcc4.png)
+[![Okta developer dashboard highlighting the org URL.](img/772e474956b4139490855df2c4e02e9f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nbQDqN2A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ticket-sales-app/OktaOrgUrl-38ad1e82ab84ae824e053148055d7b7456c5675d3ef3f27e06874ba47904fcc4.png)
 
 然后通过浏览到**应用**选项卡并点击**添加应用**来创建一个新的应用，并从向导的第一页选择**单页应用**。
 
-[![Create application wizard with Single Page App selected.](../Images/5b3db271ab6b92d80b86fd2d0d487a6b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4Lnv6_Vw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ticket-sales-app/CreateSpaAppScreenshot-4ae4c8451214a2329e260c16d0f9f0bd6b36a1a5438b8fa6ab4ccf798314b424.png)
+[![Create application wizard with Single Page App selected.](img/5b3db271ab6b92d80b86fd2d0d487a6b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4Lnv6_Vw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ticket-sales-app/CreateSpaAppScreenshot-4ae4c8451214a2329e260c16d0f9f0bd6b36a1a5438b8fa6ab4ccf798314b424.png)
 
 在“设置”页面上，输入以下值:
 
@@ -469,29 +469,29 @@ Enter fullscreen mode Exit fullscreen mode
 
 您可以保持其他值不变，并点击 **Done** 。
 
-[![The settings page for the application.](../Images/d232581b64805e78013a1538af1e25e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zL1N-YbP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ticket-sales-app/application-settings-9b7640d567f131905f14e462ddd9eacfaf4b6f27f9aac9f99f954109c4287459.png)
+[![The settings page for the application.](img/d232581b64805e78013a1538af1e25e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zL1N-YbP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ticket-sales-app/application-settings-9b7640d567f131905f14e462ddd9eacfaf4b6f27f9aac9f99f954109c4287459.png)
 
 现在您的应用程序已经创建好了，请将客户端 ID 和客户端密码值复制到下一页，您很快就会用到它们。
 
-[![The new client ID and client secret.](../Images/2200290533479047e71e5617d8627039.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RRN3olM3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ticket-sales-app/OktaAppSecrets-04f9ae1d82ab33072a0de5187e16c23eac3752b8fac955e10d4d2d6377358b12.png)
+[![The new client ID and client secret.](img/2200290533479047e71e5617d8627039.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RRN3olM3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ticket-sales-app/OktaAppSecrets-04f9ae1d82ab33072a0de5187e16c23eac3752b8fac955e10d4d2d6377358b12.png)
 
 最后，创建一个新的身份验证令牌。这将允许你的应用程序与 Okta 对话，以检索用户信息等。为此，点击页面顶部的 **API** 标签，然后点击**创建令牌**按钮。给你的令牌起个名字，在这种情况下，“Crud API”是个好名字，然后点击**创建令牌**。记下这个令牌值，因为您很快就会用到它。
 
-[![Screen showing the API Token.](../Images/005efc9b2a3f4b705ff39ad90218dc42.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ajFS2Yfs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ticket-sales-app/CrudApiToken-1e8f16398b8899e64b9aa02b9ab180535a3bd27d489cb1e0303212af2914f2bc.png)
+[![Screen showing the API Token.](img/005efc9b2a3f4b705ff39ad90218dc42.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ajFS2Yfs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ticket-sales-app/CrudApiToken-1e8f16398b8899e64b9aa02b9ab180535a3bd27d489cb1e0303212af2914f2bc.png)
 
 即使您有注册用户的方法，您也需要为票创建组，设置您的 API 以使用 Okta，并将其配置为从 Angular 应用程序的用户接收访问令牌以进行授权。
 
 首先，为您将要出售的三张门票分别创建一个小组。在 Okta 仪表板上，将鼠标悬停在**用户**菜单项上，直到出现下拉菜单，然后选择**组**。在群组页面中，点击**添加群组**按钮。
 
-[![List of groups](../Images/f480f929c8001e497e3520bda9fd16cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G4GEt8ck--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ticket-sales-app/groups-listing-f7e41cbcb65825bf6248bfa801a9337e41938709c4e0f2c980bce95ea37898dd.png)
+[![List of groups](img/f480f929c8001e497e3520bda9fd16cb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G4GEt8ck--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ticket-sales-app/groups-listing-f7e41cbcb65825bf6248bfa801a9337e41938709c4e0f2c980bce95ea37898dd.png)
 
 在弹出的添加组模式中，为每种票据类型添加一个组。
 
-[![Add group](../Images/5e93f3d71e754ad1ca8dec31ca7935ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5ML4Eeqh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ticket-sales-app/add-group-34c4b19eb22f436a30e2c4b1bae4c71810873ed993214825ad8fd7c84c0f5a2b.png)
+[![Add group](img/5e93f3d71e754ad1ca8dec31ca7935ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5ML4Eeqh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ticket-sales-app/add-group-34c4b19eb22f436a30e2c4b1bae4c71810873ed993214825ad8fd7c84c0f5a2b.png)
 
 现在，您需要将这些新创建的组添加到售票应用程序中。点击**应用**菜单项，从应用列表中选择 **TicketSalesApp** 。它应该在**分配**选项卡上打开。点击**分配**按钮，并从按钮的下拉菜单中选择**分配到组**。从这里，将您刚刚创建的每个组分配给售票应用程序。
 
-[![Assign group](../Images/6b7edf9f073472ca5d30e4cd45095e26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--He5-TyTo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ticket-sales-app/assign-groups-c2415fb0e9165efaee501b0ee2d0c7e3cd231b5adb0b0028b92fc1ee49cdd139.png)
+[![Assign group](img/6b7edf9f073472ca5d30e4cd45095e26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--He5-TyTo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ticket-sales-app/assign-groups-c2415fb0e9165efaee501b0ee2d0c7e3cd231b5adb0b0028b92fc1ee49cdd139.png)
 
 ### 给 ID 令牌添加组
 
@@ -505,7 +505,7 @@ Enter fullscreen mode Exit fullscreen mode
 *   在文本框中输入`.*`。
 *   最后，确保未选中**禁用声明**复选框，并且在设置中的**包含中选择了**任何范围**单选按钮。**
 
-[![Add Groups to Token Screen](../Images/c871b9b1dc303e21b06d031bf6df2302.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0p-zV2rA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ticket-sales-app/AddGroupsToTokenScreenshot-c78196f6d97cb7d76120047046bf9c59468fc758f001e08b175de017db8c58bf.png)
+[![Add Groups to Token Screen](img/c871b9b1dc303e21b06d031bf6df2302.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0p-zV2rA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://developer.okta.com/assets/blog/ticket-sales-app/AddGroupsToTokenScreenshot-c78196f6d97cb7d76120047046bf9c59468fc758f001e08b175de017db8c58bf.png)
 
 ## 将 Okta 添加到您的角度应用
 

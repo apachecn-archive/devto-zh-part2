@@ -8,7 +8,7 @@
 
 它看起来像这样:
 
-[![data binding](../Images/aa53975b477b53e484c23ea8cebae8b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LGZ2Th4o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://flippedcoding.com/wp-content/uploads/2018/10/data-bind.jpg)
+[![data binding](img/aa53975b477b53e484c23ea8cebae8b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LGZ2Th4o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://flippedcoding.com/wp-content/uploads/2018/10/data-bind.jpg)
 
 这就是数据绑定的全部内容。它将网站的前端连接到后端服务器。使用数据绑定有一些巨大的优势。基于用户与页面的交互方式实时更新页面是可能的。数据绑定的另一个优点是，它减少了您必须编写的代码量，因为您不再需要查找元素并手动获取它们的值。
 

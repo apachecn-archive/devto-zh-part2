@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/brettclawson75/building-out-your-companies-website-for-ecommerce-4f80>
 
-[![e-commerce](../Images/e2b8233b51eb01141f5d6be306a5f2e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q9rSy97M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1518425797340-4e87e7c19f31%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D22705436bdac1cd127f4ccb5952d290c%26auto%3Dformat%26fit%3Dcrop%26w%3D1651%26q%3D80)
+[![e-commerce](img/e2b8233b51eb01141f5d6be306a5f2e1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q9rSy97M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1518425797340-4e87e7c19f31%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D22705436bdac1cd127f4ccb5952d290c%26auto%3Dformat%26fit%3Dcrop%26w%3D1651%26q%3D80)
 
 如果你有一家电子商务公司，那么你需要有一个伟大的网站。不再可能通过建立一个设计和编码都不好的简单网站来获得竞争力。拥有一个伟大的网站有助于你建立自己的品牌，保护自己免受威胁。所以，使用下面的方法来确保你的网站给你带来最大的机会在你的市场上成功
 

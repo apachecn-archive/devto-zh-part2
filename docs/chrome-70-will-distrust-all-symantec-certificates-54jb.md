@@ -6,7 +6,7 @@
 
 从 Google Chrome 版本 70 开始，任何具有剩余赛门铁克证书的网站都将被标记为不可信，包括 2016 年 6 月 1 日之后发布的网站。
 
-[![Chrome console warning](../Images/eac7a203c89455d439c04f0a8a2ed3ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yF1Mp5ET--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/savnt0og7opbopv4239t.png)
+[![Chrome console warning](img/eac7a203c89455d439c04f0a8a2ed3ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yF1Mp5ET--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/savnt0og7opbopv4239t.png)
 
 Chrome 70 的发布时间表如下:
 

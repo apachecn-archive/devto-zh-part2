@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/blackode/2-biggest-exunit-improvements-in-elixir-17-22jo>
 
-[![Created using crello.com](../Images/c74c917deacaef45fffcf9bfa776e987.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QabqT9ab--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2048/1%2ARKP2KBCHBNoDf3V_1_JlcQ.jpeg)
+[![Created using crello.com](img/c74c917deacaef45fffcf9bfa776e987.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QabqT9ab--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2048/1%2ARKP2KBCHBNoDf3V_1_JlcQ.jpeg)
 
 *   失败报告中的参数
 *   运行带有失败标志的混合测试
@@ -33,7 +33,7 @@
 
 在继续之前，我想让你知道我在写这篇文章时使用的版本。
 
-[![**Elixir** and **Erlang** **OTP** versions](../Images/26dc622fc662e640015506733c5003fd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--m8PjvMWt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/8576/1%2AtHDoidj5NGMYz6ost2pwKQ.png)** *仙丹* *和**二郎** **OTP** 版本*
+[![**Elixir** and **Erlang** **OTP** versions](img/26dc622fc662e640015506733c5003fd.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--m8PjvMWt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/8576/1%2AtHDoidj5NGMYz6ost2pwKQ.png)** *仙丹* *和**二郎** **OTP** 版本*
 
 为了测试这个特性，我们将创建一个项目`basic_math`和一个简单的函数`is_valid_card/2`，这完全是一个**白痴**的函数。用于检查`card_type`给定的`card_number`是否有效。
 
@@ -77,7 +77,7 @@ end
 
 添加代码后，文件如下图所示…
 
-[![](../Images/79269b92503b537fe7bf46542e585a4d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qna3j39j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2808/1%2AwpLmHTLkFpoo7pBneNioXA.png)
+[![](img/79269b92503b537fe7bf46542e585a4d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qna3j39j--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2808/1%2AwpLmHTLkFpoo7pBneNioXA.png)
 
 ### 关于 basic_math.ex 文件中代码的快速文档。
 
@@ -147,7 +147,7 @@ end
 
 整个文件如下图所示
 
-[![basic_math_test.exs](../Images/1ae5860588bc6b1893f5959335fd83e9.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--s0ckicsm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3796/1%2Aq4J3Mt8u9_cfBe-dDYvc3A.png) *基础 _ 数学 _ 测试. exs*
+[![basic_math_test.exs](img/1ae5860588bc6b1893f5959335fd83e9.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--s0ckicsm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3796/1%2Aq4J3Mt8u9_cfBe-dDYvc3A.png) *基础 _ 数学 _ 测试. exs*
 
 在 credit_card 部分，我们使用了与 debit_card 单元测试用例相同的设置数据，最终导致测试用例失败。
 
@@ -159,7 +159,7 @@ $ mix test
 
 使用上面的命令运行您的测试用例。您将看到类似于下面截图的输出。
 
-[![mix test … testing the file basic_math.ex](../Images/860ce1b9d94314d22bf4764c47852a50.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--Qcm9QJ6k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3840/1%2ASlPz6vBSKVjYfy_84OMpRQ.png) *混合测试…测试文件 basic_math.ex*
+[![mix test … testing the file basic_math.ex](img/860ce1b9d94314d22bf4764c47852a50.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--Qcm9QJ6k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/3840/1%2ASlPz6vBSKVjYfy_84OMpRQ.png) *混合测试…测试文件 basic_math.ex*
 
 如果您观察上面的截图，在**四(4)、*** *两(2)* *个测试用例中，您可以在失败报告中看到传递给测试用例的参数。
 
@@ -189,7 +189,7 @@ arguments:
 
 您可以在下面的截图中观察到这一点。
 
-[![mix test — failed](../Images/df5cf3f00163ee4e0b8a96e9afcfe119.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--VQ1pn9rK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A39Qx0qT-tikAADaBFcpRCQ.png) *混测—失败*
+[![mix test — failed](img/df5cf3f00163ee4e0b8a96e9afcfe119.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--VQ1pn9rK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A39Qx0qT-tikAADaBFcpRCQ.png) *混测—失败*
 
 希望你喜欢。
 

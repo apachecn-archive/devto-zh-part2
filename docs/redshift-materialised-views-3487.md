@@ -4,7 +4,7 @@
 
 在规范化模式上创建一个视图来连接和聚集数据通常很方便，尤其是当它需要复杂的查询时。
 
-[![publish](../Images/2d832b15f84179dc2e5a84f9c39ac685.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ttvLpkTq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0x7tq927poqp5mwfr0w2.jpg)
+[![publish](img/2d832b15f84179dc2e5a84f9c39ac685.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ttvLpkTq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0x7tq927poqp5mwfr0w2.jpg)
 
 在 PostgreSQL 中，您可以基于查询创建视图。
 

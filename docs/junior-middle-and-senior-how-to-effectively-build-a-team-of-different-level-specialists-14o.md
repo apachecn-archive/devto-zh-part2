@@ -31,7 +31,7 @@
 
 这些团队易于管理，表现出色，冲突最小。你可以清楚地看到所有的风险和劣势。通常，这些团队包括团队领导、技术领导、项目经理和一些开发人员。
 
-[![Alt text of image](../Images/f8ff3afcc0568dd0ab3572f0039f4419.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XHG586Yz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lvivity.com/wp-content/uploads/2018/08/dev-types.jpg)
+[![Alt text of image](img/f8ff3afcc0568dd0ab3572f0039f4419.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XHG586Yz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://lvivity.com/wp-content/uploads/2018/08/dev-types.jpg)
 
 建立团队的最佳方式是从骨干员工开始，然后根据项目的任务进行。将简单的任务委托给高级开发人员是没有意义的，所以雇佣中级开发人员是明智的，这样可以节省预算而不损失质量。
 

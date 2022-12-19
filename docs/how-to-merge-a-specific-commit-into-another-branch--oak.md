@@ -24,7 +24,7 @@
 
 有了这个扩展，你所需要做的就是，在 gitlens 区域点击分支下拉菜单，然后点击你提交的分支的下拉菜单，然后右击一个提交并挑选它。别担心我在那里输入的那些胡言乱语。我附上了一张截图。(我很好，我知道)。
 
-[![gitlens screenshot](../Images/f02d900a932f4fb3f00a9de4c527b05c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8qthykM6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/hackafro/image/upload/v1518728407/Screenshot_9_ip7xnw.png)
+[![gitlens screenshot](img/f02d900a932f4fb3f00a9de4c527b05c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8qthykM6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/hackafro/image/upload/v1518728407/Screenshot_9_ip7xnw.png)
 
 当您查看您的终端时，您将看到这个命令正在运行
 
@@ -34,4 +34,4 @@
 
 我答应长话短说，所以再见！我希望这有所帮助。
 
-[![bye!!](../Images/14dd61394b87b2b73af6aae726457550.png)T2】](https://i.giphy.com/media/l49FqlUguNsGDNCGk/giphy.gif)
+[![bye!!](img/14dd61394b87b2b73af6aae726457550.png)T2】](https://i.giphy.com/media/l49FqlUguNsGDNCGk/giphy.gif)

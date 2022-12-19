@@ -8,7 +8,7 @@
 
 如果需要有多个回购，那么它们最好是同步的。幸运的是，Git 允许一次将源代码推送到多个仓库。
 
-[![Git Multi Repo](../Images/e8526c5dcbf86d0f03d0acc0f618bb8c.png)T2】](https://2.bp.blogspot.com/-EYBE6CHprjg/W4O3ZR-1uhI/AAAAAAAAz6E/iQ-1-NXU_hIbECnTSEnIXT19AX9HHocbACLcBGAs/s1600/Multiple%2BRepo.PNG)
+[![Git Multi Repo](img/e8526c5dcbf86d0f03d0acc0f618bb8c.png)T2】](https://2.bp.blogspot.com/-EYBE6CHprjg/W4O3ZR-1uhI/AAAAAAAAz6E/iQ-1-NXU_hIbECnTSEnIXT19AX9HHocbACLcBGAs/s1600/Multiple%2BRepo.PNG)
 
 ### 远程网址
 

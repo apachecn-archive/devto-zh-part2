@@ -10,7 +10,7 @@
 
 正如人们所说的，首先你抗拒，然后你接受，然后你质疑正在发生的事情。
 
-[![Squash diagram](../Images/39220e0fe3f827725bf912e36fa128a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M_QWfbWQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://help.github.com/assets/images/help/pull_requests/commit-squashing-diagram.png)
+[![Squash diagram](img/39220e0fe3f827725bf912e36fa128a2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--M_QWfbWQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://help.github.com/asseimg/help/pull_requests/commit-squashing-diagram.png)
 
 因此，为了帮助理解我为什么选择 Squash Merge 作为我们存储库的默认设置:
 

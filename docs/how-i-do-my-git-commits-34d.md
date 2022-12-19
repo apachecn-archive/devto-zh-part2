@@ -4,7 +4,7 @@
 
 *本文原载于[http://shreyasminocha.me/blog](http://shreyasminocha.me/blog)T3】*
 
-[![Commit message example](../Images/4a0fd7bacc50b360c8392384ad9b9772.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--msuUwPib--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h5gh9chb9p0plwebemct.jpg)
+[![Commit message example](img/4a0fd7bacc50b360c8392384ad9b9772.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--msuUwPib--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/h5gh9chb9p0plwebemct.jpg)
 
 我完全沉迷于提交消息。我经常花几分钟盯着空间，试图想出最好的方式来总结提交带来的变化。我虔诚地遵循好的提交信息的七条规则。正如您可能已经猜到的，我已经花了一些时间来开发一个用于编写提交消息的工作流。
 
@@ -92,7 +92,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 确保使用`chmod +x`将挂钩设置为可执行。现在讨厌的招聘启事再也不会打扰你了。
 
-[![Relevant xkcd](../Images/8eac34bf3860aad0da7682337b3ff744.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RFmYXWgV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6q1bi503x31zgfjbrdw0.png)
+[![Relevant xkcd](img/8eac34bf3860aad0da7682337b3ff744.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RFmYXWgV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6q1bi503x31zgfjbrdw0.png)
 
 最近，我发现了[这个非常酷的工具](////github.com/clns/node-commit-msg)，它允许你从命令行验证提交消息。我在一个[全局`commit-msg`钩子](////git-scm.com/docs/githooks#_commit_msg)中使用该实用程序的一个修改形式来自动验证我所做的每一次提交。在你的全局 git 钩子目录中创建`commit-msg`:
 
@@ -108,7 +108,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 同样，确保脚本被设置为可执行的。这个挂钩的结果是，如果我的提交消息不符合标准，提交将会中止。
 
-[![An example of an invalid commit message](../Images/79f55eb314f61f27b070850d675bf9bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gokhNiIR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ecoe98uzm3pyrvko9p1q.jpg)
+[![An example of an invalid commit message](img/79f55eb314f61f27b070850d675bf9bf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--gokhNiIR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ecoe98uzm3pyrvko9p1q.jpg)
 
 感谢阅读！
 

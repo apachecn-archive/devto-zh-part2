@@ -16,7 +16,7 @@
 
 抱怨丢了衣服不会持续太久。调查正在发生的事情，当你看到你的维修人员更换有故障的衣帽间时，你很快就会意识到正在发生什么:
 
-[![kubernetes stateful set maintenance](../Images/87ffab94b5112660330369428fc874ee.png "Kubernetes stateful set maintenance")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uOZ6Dhhz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://danlebrero.com/images/blog/kubernetes-explained/kubernetes-stateful-set-maintenance.jpg)
+[![kubernetes stateful set maintenance](img/87ffab94b5112660330369428fc874ee.png "Kubernetes stateful set maintenance")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uOZ6Dhhz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://danlebrero.cimg/blog/kubernetes-explained/kubernetes-stateful-set-maintenance.jpg)
 
 也许将一切付之一炬的想法并非没有缺陷。
 
@@ -24,7 +24,7 @@
 
 这对 KubePark 来说显然不是一个好的宣传，你的房东不会浪费时间提供他的自我存储服务 **(k8s [持久卷](https://cloud.google.com/kubernetes-engine/docs/concepts/persistent-volumes) )** ，作为一个解决方案，建在一个核避难所里。
 
-[![kubernetes stateful set maintenance](../Images/6d9b7f7d73a77b33d13c7c116fe63efa.png "Kubernetes persistent volume")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qAmbNjpR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://danlebrero.com/images/blog/kubernetes-explained/kubernetes-persistent-volume.jpg)
+[![kubernetes stateful set maintenance](img/6d9b7f7d73a77b33d13c7c116fe63efa.png "Kubernetes persistent volume")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qAmbNjpR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://danlebrero.cimg/blog/kubernetes-explained/kubernetes-persistent-volume.jpg)
 
 你需要做的唯一一件事就是在衣帽间的计划中指定必须租赁多少个存储单元，你的控制团队将负责所有的文书工作 **(k8s [动态持续量声明](https://kubernetes.io/docs/concepts/storage/persistent-volumes/) )** 。
 
@@ -38,7 +38,7 @@
 
 每个衣帽间都必须有自己的储物单元，但这带来了一系列全新的问题。
 
-[![kubernetes stateful set headless service missing](../Images/ebea6885b0b0500c0394c5b3dc405469.png "Kubernetes stateful set wrong instance")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1z3wez0k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://danlebrero.com/images/blog/kubernetes-explained/kubernetes-stateful-set-wrong-instance.jpg)
+[![kubernetes stateful set headless service missing](img/ebea6885b0b0500c0394c5b3dc405469.png "Kubernetes stateful set wrong instance")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1z3wez0k--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://danlebrero.cimg/blog/kubernetes-explained/kubernetes-stateful-set-wrong-instance.jpg)
 
 首先，游客需要在他们收到收据的同一个衣帽间里赎回衣帽间的收据。
 
@@ -53,7 +53,7 @@
 
 现在 KubePark 可以有上百个衣帽间。梦想成真。
 
-[![kubernetes stateful set headless service](../Images/a54452e9b311adcd8b5667eaed23c381.png "Kubernetes stateful set headless service")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--99iHpEqB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://danlebrero.com/images/blog/kubernetes-explained/kubernetes-stateful-set-final.jpg)
+[![kubernetes stateful set headless service](img/a54452e9b311adcd8b5667eaed23c381.png "Kubernetes stateful set headless service")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--99iHpEqB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://danlebrero.cimg/blog/kubernetes-explained/kubernetes-stateful-set-final.jpg)
 
 ## 就这些？
 

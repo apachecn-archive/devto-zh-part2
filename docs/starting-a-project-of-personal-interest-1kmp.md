@@ -6,7 +6,7 @@
 
 # 我现在在哪里
 
-[![Problem, oppertunity](../Images/dbc1fd1206fb7457590732a9b61c7cb0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HLEoNRWM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://proxy.duckduckgo.com/iu/%3Fu%3Dhttp%253A%252F%252Fwww.finerminds.com%252Fwp-content%252Fuploads%252F2013%252F03%252Fshutterstock_115912405.jpg%26f%3D1)
+[![Problem, oppertunity](img/dbc1fd1206fb7457590732a9b61c7cb0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HLEoNRWM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://proxy.duckduckgo.com/iu/%3Fu%3Dhttp%253A%252F%252Fwww.finerminds.com%252Fwp-content%252Fuploads%252F2013%252F03%252Fshutterstock_115912405.jpg%26f%3D1)
 
 我正处于学习 Angular 的初级阶段，还没有创建我的第一个应用程序。但是，我不想高枕无忧。我想开始把我的想法开发成真正的产品。我定期做了大量的研究，但我觉得还没准备好。多半是因为技术经验。
 
@@ -20,7 +20,7 @@ VS 2017 对我来说是一场噩梦。让平台为 Angular 开发做好准备已
 
 # 告诉我这个
 
-[![Tell me!](../Images/98b5514bf7ae2afef4da2b0c22ee0d6e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dUCDUIX_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://proxy.duckduckgo.com/iu/%3Fu%3Dhttp%253A%252F%252Fmemecrunch.com%252Fmeme%252F27TI%252Ftell-me-more%252Fimage.png%26f%3D1) 
+[![Tell me!](img/98b5514bf7ae2afef4da2b0c22ee0d6e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dUCDUIX_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://proxy.duckduckgo.com/iu/%3Fu%3Dhttp%253A%252F%252Fmemecrunch.com%252Fmeme%252F27TI%252Ftell-me-more%252Fimage.png%26f%3D1) 
 我是否承担了太多我无法应付的工作量？
 
 我努力的方向正确吗？

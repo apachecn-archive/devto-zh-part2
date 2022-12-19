@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/wiaio/play-rock-paper-scissors-using-the-esp8266-1h7>
 
-[![alt text](../Images/ed4ee2ce06c22d30467017e80a9868c5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EzRTciRN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-07-04/1530701878-372923-blog-05.png) 
+[![alt text](img/ed4ee2ce06c22d30467017e80a9868c5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EzRTciRN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-07-04/1530701878-372923-blog-05.png) 
 在本教程中，我们将使用 ESP8266、Wia Dashboard 和 Github 构建一个在线石头、布、剪刀游戏。
 
 # 你将需要什么
@@ -22,7 +22,7 @@
 
 接下来，导航到 Wia 仪表板，创建一个新的`space`和`add device`。给它起个类似“playerOne”的名字。
 
-[![alt text](../Images/e5428c622f640482acfc107147ca71bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mfVp0MmQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-07-03/1530630222-32159-screen-shot-2018-07-03-at-40324-pm.png)
+[![alt text](img/e5428c622f640482acfc107147ca71bc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mfVp0MmQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-07-03/1530630222-32159-screen-shot-2018-07-03-at-40324-pm.png)
 
 添加设备后，导航至页面左侧的`Devices`选项卡。选择您的设备，然后导航至`configuration`选项卡。您将看到您的设备 ID 以及您的`device_secret_key`。稍后您将需要设备密钥。
 
@@ -133,7 +133,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 从 trigger 选项卡中拖动一个`Event`并将其命名为 buttonPress。选择两个设备。
 
-[![alt text](../Images/b6692dae94313e0f2987235ddab4b564.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q_ybAHN3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-07-03/1530630415-225803-screen-shot-2018-07-03-at-40602-pm.png)
+[![alt text](img/b6692dae94313e0f2987235ddab4b564.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q_ybAHN3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-07-03/1530630415-225803-screen-shot-2018-07-03-at-40602-pm.png)
 
 在`logic`选项卡中，拖动一个`run-function`节点。将黄点从`Event`节点拖到`run-function`节点。在框中，复制并粘贴以下代码:
 
@@ -152,16 +152,16 @@ Enter fullscreen mode Exit fullscreen mode
 
 您的屏幕应该是这样的:
 
-[![alt text](../Images/02e7905bd45757972bf585de79faffbd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jr386xCV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-07-03/1530630492-182475-screen-shot-2018-07-03-at-40737-pm.png)
+[![alt text](img/02e7905bd45757972bf585de79faffbd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jr386xCV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-07-03/1530630492-182475-screen-shot-2018-07-03-at-40737-pm.png)
 
 点击`Update`。
 然后，在`action`选项卡中，拖动一个`event`并将其命名为`emoji`。要连接节点，请拖动橙色的点。您的屏幕应该是这样的:
 
-[![alt text](../Images/51e77064d96016d68f85e38efd4a767c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T6ROrLnU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-07-03/1530630561-581691-screen-shot-2018-07-03-at-40904-pm.png)
+[![alt text](img/51e77064d96016d68f85e38efd4a767c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--T6ROrLnU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-07-03/1530630561-581691-screen-shot-2018-07-03-at-40904-pm.png)
 
 接下来，导航至`Devices > playerOne`。这将带您进入设备的概览页面。在右上角，点击`add a widget`。标题写`emoji`，事件写`emoji`。然后，导航回侧边栏上的`Devices`，选择您的设备进行`playerTwo`。创建一个新的小部件，为标题编写`emoji`,为事件编写`emoji`。
 
-[![alt text](../Images/255a652afce0d91772be44e020ca8837.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U3zxPlK4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-07-03/1530630620-277373-screen-shot-2018-07-03-at-41007-pm.png)
+[![alt text](img/255a652afce0d91772be44e020ca8837.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U3zxPlK4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-07-03/1530630620-277373-screen-shot-2018-07-03-at-41007-pm.png)
 
 将两个设备都插入电脑。按下两个设备上的`flash`按钮。你的小工具将显示设备是选择石头、布还是剪刀。
 

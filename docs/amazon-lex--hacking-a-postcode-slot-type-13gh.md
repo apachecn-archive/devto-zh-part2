@@ -20,11 +20,11 @@
 
 对邮政编码类型的第一次尝试涉及用大约 8 个邮政编码填充示例值列表。我本以为 Lex 会从这些示例中学习邮政编码，但这导致了一些奇怪的事情发生。有时它拒绝大约 1/3 的真实邮政编码，有时它让几乎任何东西通过。
 
-[![](../Images/18dc741ea137934b25de14e52efa2402.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Pn9d8Rz7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/786/1%2Au88kERHMowHi8owdVFwTPg.png)
+[![](img/18dc741ea137934b25de14e52efa2402.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Pn9d8Rz7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/786/1%2Au88kERHMowHi8owdVFwTPg.png)
 
-[![](../Images/bfac18107fd7602c68891d2bc4bf2a38.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BoQyBB6h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/768/1%2A2AV1J6U4qptif4nmegZfLA.png)
+[![](img/bfac18107fd7602c68891d2bc4bf2a38.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BoQyBB6h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/768/1%2A2AV1J6U4qptif4nmegZfLA.png)
 
-[![](../Images/ae46b5cde05004945394b3d39243cf02.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZjBsYCcD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/764/1%2ABzDwL17xaOkKdO6H-7w5rA.png)
+[![](img/ae46b5cde05004945394b3d39243cf02.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZjBsYCcD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/764/1%2ABzDwL17xaOkKdO6H-7w5rA.png)
 
 插槽类型的关键是确保如果用户输入一个有效值，它将通过，不正确的值将被阻止。这种方法不够好。
 
@@ -58,9 +58,9 @@
 
 音乐很好，允许通过所有 XXX XXX 格式的邮编，但阻止所有 XXXX XXX 的邮编。音乐家是我们淘金的地方。这种插槽似乎可以让任何东西通过。当我说什么的时候，我是认真的，不管是猫、狗还是新鲜王子的歌词。
 
-[![](../Images/fac355b0c406877af56b54fadf0429e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GdU4kgsW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/424/1%2ApzgwvBUUsWh5iMet5uv4yg.png)
+[![](img/fac355b0c406877af56b54fadf0429e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GdU4kgsW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/424/1%2ApzgwvBUUsWh5iMet5uv4yg.png)
 
-[![](../Images/bcb4bed2e7cce937ac8aba2610c78791.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D-P1aPIM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/420/1%2Am3q8ZdQk2Q8KeJyeNBd1Ew.png)
+[![](img/bcb4bed2e7cce937ac8aba2610c78791.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D-P1aPIM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/420/1%2Am3q8ZdQk2Q8KeJyeNBd1Ew.png)
 
 这种插槽类型允许我们的 rejex 处理用户给它的任何值。你可以使用验证 Lambda 在他们说的时候捕捉它，或者只是在你实现 Lambda 的开始运行一些验证检查。
 

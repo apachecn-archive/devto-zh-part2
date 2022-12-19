@@ -23,7 +23,7 @@
 
 请通过开始菜单等输入 pgadmin 等启动 pgadmin。
 
-[![起動画面](../Images/5d5b9439c38b7bf99ca7de615cc390e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h8hytAZQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g3fhcxvs0ra7t7rx8hzn.png)
+[![起動画面](img/5d5b9439c38b7bf99ca7de615cc390e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--h8hytAZQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/g3fhcxvs0ra7t7rx8hzn.png)
 
 # 服务器连接
 
@@ -31,7 +31,7 @@
 
 右键单击 Server > PostgreSQL 10，然后按“连接服务器”。
 
-[![connect](../Images/c74daecb2c47e5d1ad122a64ee0446b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pIviDmT---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zpgwfc404gx3bdf299da.png)
+[![connect](img/c74daecb2c47e5d1ad122a64ee0446b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pIviDmT---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zpgwfc404gx3bdf299da.png)
 
 然后会出现输入密码的画面，请输入
 安装时设定的密码。
@@ -50,11 +50,11 @@
 
 ，然后单击。
 
-[![選択](../Images/c36d5ee9e705d45005ef59cfc75463de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QgN88HK5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yen0q4unrj5w379pwb7x.png)
+[![選択](img/c36d5ee9e705d45005ef59cfc75463de.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QgN88HK5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yen0q4unrj5w379pwb7x.png)
 
 然后就会出现制作数据库的画面
 
-[![作成画面](../Images/a4171e614ec51cd014fd8310a93904c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HK5bJDit--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bvjc0jmuf27hq09x10fk.png)
+[![作成画面](img/a4171e614ec51cd014fd8310a93904c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HK5bJDit--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bvjc0jmuf27hq09x10fk.png)
 
 请在 database 栏中输入数据库名称。
 这次设为 sample。
@@ -63,7 +63,7 @@
 
 已创建名为 sample 的数据库。
 可以用浏览器确认。
-[![データベース作成後](../Images/69dd25c19f35dc664289cab46a3c7329.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2k9EZk9d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ywjotx7yuajgamd02oax.png)
+[![データベース作成後](img/69dd25c19f35dc664289cab46a3c7329.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2k9EZk9d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ywjotx7yuajgamd02oax.png)
 
 # 制作表格
 
@@ -74,7 +74,7 @@ SQL 的发行使用 Query Tools。
 
 请右键单击样例，然后选择“查询工具”。
 
-[![aa](../Images/328979673332866a8cbf4299f15343fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XQoUNGFm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yqysv6r36hoyvttno7gw.png)
+[![aa](img/328979673332866a8cbf4299f15343fc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XQoUNGFm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yqysv6r36hoyvttno7gw.png)
 
 请在 Query Tool 窗口中粘贴以下 SQL 并单击运行按钮(雷电标记)。
 
@@ -92,7 +92,7 @@ create table m_country(
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![query 実行](../Images/999e67b1ce4e603337d929196659db9d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hCYKojBk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p3t845ozqfx0fplqou7w.png)
+[![query 実行](img/999e67b1ce4e603337d929196659db9d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hCYKojBk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p3t845ozqfx0fplqou7w.png)
 
 执行查询后会显示
 浏览器的
@@ -100,7 +100,7 @@ Enter fullscreen mode Exit fullscreen mode
 在 sample > Schemas(1) > public > Tables(1)下面应该出现用
 SQL 创建的 m_country。
 
-[![country](../Images/4f3ce348e8e140ae8c7a5dcce339e48b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2fsWjIsz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eyrhpa1oy6uhguejmww2.png)
+[![country](img/4f3ce348e8e140ae8c7a5dcce339e48b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2fsWjIsz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/eyrhpa1oy6uhguejmww2.png)
 
 ## 数据投入
 
@@ -125,7 +125,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我想可以确认用 insert 输入的数据。
 
-[![内容確認](../Images/b8ba72c483f098da9ffb377824ceb35c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qX3in6n_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5qhvxkxps3a199zdxy9c.png)
+[![内容確認](img/b8ba72c483f098da9ffb377824ceb35c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qX3in6n_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5qhvxkxps3a199zdxy9c.png)
 
 那么就用 SQL 玩一下吧。
 在 Query Tool 中输入以下查询

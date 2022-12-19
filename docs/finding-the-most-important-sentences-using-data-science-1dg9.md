@@ -4,7 +4,7 @@
 
 GitHub 回购在这里是:
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) [蜂散](https://github.com/bee-san) / [ tldr-News](https://github.com/bee-san/tldr-News)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) [蜂散](https://github.com/bee-san) / [ tldr-News](https://github.com/bee-san/tldr-News)
 
 ### 🏖️生成一个 TL；使用自然语言处理的新闻博士🏖️
 
@@ -14,7 +14,7 @@ GitHub 回购在这里是:
 
 使用算法确定新闻文章中最重要的句子，并将其显示在新闻文章的顶部。仅适用于 BBC 新闻文章。也不是一个合适的 Firefox 扩展(尽管您可以自由创建一个)。
 
-[![img](../Images/2f9a1581766316a2dfb31507487ea0d3.png)T2】](https://camo.githubusercontent.com/c9114c76c7f59177d7d7815af12f77e8303bea1070dc4c1b210d0766f60d3d2f/68747470733a2f2f736b6572726974742e626c6f672f636f6e74656e742f696d616765732f323031392f30312f696d6167652d3531322e706e67)
+[![img](img/2f9a1581766316a2dfb31507487ea0d3.png)T2】](https://camo.githubusercontent.com/c9114c76c7f59177d7d7815af12f77e8303bea1070dc4c1b210d0766f60d3d2f/68747470733a2f2f736b6572726974742e626c6f672f636f6e74656e742f696d616765732f323031392f30312f696d6167652d3531322e706e67)
 
 红框内的所有内容都被算法选为最重要的句子，从最重要到最不重要排序。
 
@@ -34,7 +34,7 @@ GitHub 回购在这里是:
 
 当我们完成时，它会看起来像这样:
 
-<figure>[![](../Images/e3c7fbe959a9dacc3e7968ccf240f35d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--J1MJVpeH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/666/1%2Ab01QNPpkOMWG1g-GLuab4Q.png) 
+<figure>[![](img/e3c7fbe959a9dacc3e7968ccf240f35d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--J1MJVpeH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/666/1%2Ab01QNPpkOMWG1g-GLuab4Q.png) 
 
 <figcaption>新闻文章找到[这里](https://www.bbc.co.uk/news/business-45289432)。红框突出了最重要的句子。红框不在最终产品中，仅用于说明目的。</figcaption>
 
@@ -50,7 +50,7 @@ GitHub 回购在这里是:
 
 词频(TF)是一个词在文档中出现的频率，除以有多少个词。
 
-<figure>[![](../Images/450ccae61ddb70a18472d874686b9635.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_q8_zNlJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/597/1%2AF4O-l5YkFEMU4WJQZOoBQw.png) 
+<figure>[![](img/450ccae61ddb70a18472d874686b9635.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_q8_zNlJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/597/1%2AF4O-l5YkFEMU4WJQZOoBQw.png) 
 
 <figcaption>一个术语的词频(TF)t，和一个文档的词频 d.</figcaption>
 
@@ -100,7 +100,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 第 5 行是[正则表达式](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)。方括号表示或。[,.]表示*“在逗号或句号上激活”*。/g 表示全局。一旦你找到一个*、*或*。”*不要停，继续搜索字符串。空字符串就是我们要替换的。如果我们发现一个句号或一个逗号，不用任何东西代替它——删除它。这是因为“非洲”这个词。如果没有这个，“非洲”会被归类为两个不同的词。
 
-<figure>[![](../Images/9dab5bb2db115693545e63e06a5d6164.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PyljUgwk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AtBAPevEG7SV1GQMXA8OQWg.jpeg) 
+<figure>[![](img/9dab5bb2db115693545e63e06a5d6164.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--PyljUgwk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AtBAPevEG7SV1GQMXA8OQWg.jpeg) 
 
 <figcaption>来自我的 Instagram， [@Brandon.codes](https://www.instagram.com/brandon.codes/)</figcaption>
 
@@ -108,7 +108,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 第 4 行将文档分割成单独的单词。 *map* 函数将函数应用于数组中的每个元素。一旦字符串被拆分成单词数组，我们就对每个元素应用 *toLowerCase()* 方法。它让每个单词都变成小写。
 
-<figure>[![](../Images/610486276a6e9a1371c22c70d15918ff.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NE5nCepp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A8aM6hM6ewnoY4j-dwC2cWw.png) 
+<figure>[![](img/610486276a6e9a1371c22c70d15918ff.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--NE5nCepp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A8aM6hM6ewnoY4j-dwC2cWw.png) 
 
 <figcaption>来自我的 Instagram， [@Brandon.codes](https://www.instagram.com/brandon.codes/) 。箭头是[箭头函数](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions) (Lambda /匿名函数)。</figcaption>
 
@@ -197,7 +197,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 还记得这个公式吗？
 
-<figure>[![](../Images/450ccae61ddb70a18472d874686b9635.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_q8_zNlJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/597/1%2AF4O-l5YkFEMU4WJQZOoBQw.png) 
+<figure>[![](img/450ccae61ddb70a18472d874686b9635.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--_q8_zNlJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/597/1%2AF4O-l5YkFEMU4WJQZOoBQw.png) 
 
 <figcaption>一个术语的词频(TF)t，和一个文档的词频 d.</figcaption>
 
@@ -205,7 +205,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 变量“ *TFVals* ”正在计算这个公式。如果我们运行句子“你好，我叫布兰登。布兰登布兰登。大象跳过月亮“通过项频率函数，我们会得到类似这样的东西:
 
-<figure>[![](../Images/6e2384e81e16fb78c653e877d4e1315e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QinEfqUq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/846/1%2AuTEkBVplTb57czjE2ZiuNw.png) 
+<figure>[![](img/6e2384e81e16fb78c653e877d4e1315e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--QinEfqUq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/846/1%2AuTEkBVplTb57czjE2ZiuNw.png) 
 
 <figcaption>TF 只返回 1 个“布兰登”，所以不是每个布兰登都有 TF 分值。对于这个例子，记住 TF 只返回 1 Brandon，因为我们正在计算单个术语(单词)的频率。</figcaption>
 
@@ -213,7 +213,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们有词的词频，但我们想计算最重要的**句**，而不是词。为了做到这一点，我们仔细检查每一个句子，看看在那个句子中出现了哪些在 *TFVals* 中的单词。
 
-<figure>[![](../Images/51774a8d2c28730a3d6c80a6e2659221.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5vGhYM1e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/854/1%2AGn5T98Vkm3C8hW87x2KpRQ.png) 
+<figure>[![](img/51774a8d2c28730a3d6c80a6e2659221.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5vGhYM1e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/854/1%2AGn5T98Vkm3C8hW87x2KpRQ.png) 
 
 <figcaption>还记得之前我说的我们不要把 3 个“布兰登”都算进去吗？我现在已经做到了。另外，请注意，我们把它分成了几个句子。这幅图中有三个句子。</figcaption>
 
@@ -221,7 +221,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们只需要把它们加起来，然后除以我们有多少单词。因为我们只是把非停用词的 TF 值相加，所以如果我们除以一个句子中有多少个非停用词，而不是句子中有多少个词，这才是公平的。如果不除以单词量，长句比短句更有优势。
 
-<figure>[![](../Images/03a2ff6fa9a4cc038acbde2a35a2b0ab.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iT8FfxvP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/863/1%2A3L16z-glMZjfjvrAaYTKcg.png)
+<figure>[![](img/03a2ff6fa9a4cc038acbde2a35a2b0ab.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iT8FfxvP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/863/1%2A3L16z-glMZjfjvrAaYTKcg.png)
 
 <figcaption>TF 最高的句子是“布兰登布兰登”</figcaption>
 
@@ -286,7 +286,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 词频是一个词有多常见，逆文档频率(IDF)是一个词有多独特或罕见。IDF 的公式为:
 
-<figure>[![](../Images/6f57373de19e6950c4c0a93063a6c308.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--U00ZS9Lp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/651/1%2AWD4Z2DxSrAicsKwuQm26wA.png) 
+<figure>[![](img/6f57373de19e6950c4c0a93063a6c308.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--U00ZS9Lp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/651/1%2AWD4Z2DxSrAicsKwuQm26wA.png) 
 
 <figcaption>t 是术语，d 是单据。我们有多个文档，我们把每个句子都当作它自己的文档。</figcaption>
 
@@ -325,7 +325,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 第 1–6 行并不新鲜。第 17 行的 for 循环遍历文档中的每个句子。因为每个句子都是一个新的“文档”，所以我们需要单独计算每个句子的字数。我们必须美化它们，去掉停用词，把它们变成一组单词。我们将每个新句子的单词计数对象推入*单词计数句子*。
 
-<figure>[![](../Images/caf83d1f6658d75f3d3e32305f729c52.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mwgb-IFy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/559/1%2AO9Lv6-QTG07EEqnLQNZ3xA.png) 
+<figure>[![](img/caf83d1f6658d75f3d3e32305f729c52.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mwgb-IFy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/559/1%2AO9Lv6-QTG07EEqnLQNZ3xA.png) 
 
 <figcaption>这里有 3 个句子。我们不关心 Brandon 在整个文档中出现了多少次。我试图在不使数学变得太大的情况下，选择一些词语来给你一些有趣的东西，但在这个过程中，我变得自恋了。</figcaption>
 
@@ -333,13 +333,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们现在将检查每个单词，并计算该单词在每个句子中出现的次数，然后使用下面的公式计算 IDF 得分。
 
-<figure>[![](../Images/a0e69c6874f2667d026c4421b97ae3a4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iKMda3CZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/658/1%2AkO4fXaJdu9QhbwICxbvc1w.png) 
+<figure>[![](img/a0e69c6874f2667d026c4421b97ae3a4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iKMda3CZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/658/1%2AkO4fXaJdu9QhbwICxbvc1w.png) 
 
 <figcaption>我在这里用 log 10。注意:所有的对数都是固定的[比例](https://www.khanacademy.org/math/algebra2/exponential-and-logarithmic-functions/logarithmic-scale/v/logarithmic-scale)，所以你用什么对数没多大关系。</figcaption>
 
 </figure>
 
-<figure>[![](../Images/c5eee3a2bba324a1c5917e1c748af663.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JMES2ddL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/472/1%2A8pJZji2F5uy6E6zAxKL06Q.png)
+<figure>[![](img/c5eee3a2bba324a1c5917e1c748af663.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--JMES2ddL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/472/1%2A8pJZji2F5uy6E6zAxKL06Q.png)
 
 <figcaption>IDF 如何使用的一个小例子。</figcaption>
 
@@ -347,7 +347,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在我们对每个不停的单词都这样做。
 
-[![](../Images/9e968b3ad3a8f869d8fd440907b23d5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Oj0s8BOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/602/1%2AomR9oAN2-yDYfOcIv7bPEw.png)
+[![](img/9e968b3ad3a8f869d8fd440907b23d5b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Oj0s8BOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/602/1%2AomR9oAN2-yDYfOcIv7bPEw.png)
 
 这个的代码是:
 
@@ -461,7 +461,7 @@ function inverseDocumentFrequency(document){
 
 Enter fullscreen mode Exit fullscreen mode
 
-<figure>[![](../Images/a23d46603dc4957f765600048a489a66.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Ic839E6J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/1%2Akxm0bf_KleZ31r1GszSw8g.png) 
+<figure>[![](img/a23d46603dc4957f765600048a489a66.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Ic839E6J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/638/1%2Akxm0bf_KleZ31r1GszSw8g.png) 
 
 <figcaption>既然我们已经编写了代码来计算语句的 IDF 值；我们已经完成了前面的公式。《是狗》IDF 值最高。</figcaption>
 
@@ -544,11 +544,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 转到任意一篇 [BBC](https://www.bbc.co.uk/news) 新闻文章，右键点击并按下“inspect element”。你会在屏幕底部看到一个漂亮的方框。使用左上角的元素选择器工具，将鼠标悬停在文章上。我们可以看到整篇文章都包含在一个 CSS 类“story-body”中。
 
-[![](../Images/d18b7b789a0a1768b1470847befb4c99.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g-g5Cov2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AgtYohYjQ76R6kjcU.png)
+[![](img/d18b7b789a0a1768b1470847befb4c99.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g-g5Cov2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AgtYohYjQ76R6kjcU.png)
 
 如果我们进一步深入，我们可以看到文章中的所有实际文本都包含在这个 CSS 类中的段落标记中。
 
-[![](../Images/680511f0ed4a6351713ec9d2d4817932.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jep_gphb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A5nY1VQtLqXTiPMHt.png)
+[![](img/680511f0ed4a6351713ec9d2d4817932.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jep_gphb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A5nY1VQtLqXTiPMHt.png)
 
 我们将使用 [JQuery](https://jquery.com/) 来选择文本。
 
@@ -602,11 +602,11 @@ Mozilla 开发者网络对这些有一个很好的解释:
 
 在您的 Firefox URL 中输入“ *about:debugging* ”来加载该页面:
 
-[![](../Images/8b6fd146f4a38b21f47b6cf35a6bb35a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j8m-BqrR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AG8AooP4-C9x4vjHK.png)
+[![](img/8b6fd146f4a38b21f47b6cf35a6bb35a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j8m-BqrR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AG8AooP4-C9x4vjHK.png)
 
 从这里，点击*“加载临时附件……”*，然后点击扩展中的任何文件。一旦你这样做了，你应该看到这个:
 
-[![](../Images/c3b5830b8ad5860c199a228dbfe3316c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--klbb_5po--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AL0rVhBpG2bOjkxt9.png)
+[![](img/c3b5830b8ad5860c199a228dbfe3316c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--klbb_5po--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AL0rVhBpG2bOjkxt9.png)
 
 Mozilla 有一篇关于火狐扩展基础的好文章。
 

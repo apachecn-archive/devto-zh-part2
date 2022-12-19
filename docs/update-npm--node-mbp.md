@@ -20,4 +20,4 @@
 
 #### npm 医生
 
-[![Image of desktop](../Images/b8f5c50fd30bc0a2c3f5fc79a4995572.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--czddVycx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hkkyy23lkodv59vrc3nd.png)
+[![Image of desktop](img/b8f5c50fd30bc0a2c3f5fc79a4995572.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--czddVycx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hkkyy23lkodv59vrc3nd.png)

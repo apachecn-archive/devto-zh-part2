@@ -8,7 +8,7 @@ Nokogiri 是一种红宝石，用于从网站上收集数据。要使用它，�
 
 对于这个演练，我使用的是[瑜伽杂志的](https://www.yogajournal.com/poses/types)类型的姿势。
 
-[![Yoga Journal's Poses by Type Webpage](../Images/5bbd93ec3dee286f0b0d516bad7ca727.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_Nt607ny--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/FRr2M3A.png)
+[![Yoga Journal's Poses by Type Webpage](img/5bbd93ec3dee286f0b0d516bad7ca727.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_Nt607ny--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/FRr2M3A.png)
 
 这是我在 CLI 应用程序中使用的页面之一。如果内容或结构发生变化，抓取网站可能会失败，因此截至 2018 年 6 月 12 日发布时，这些内容是准确的。我还将在 Mac 电脑上使用谷歌 Chrome 浏览器。请随意跟随！
 
@@ -61,9 +61,9 @@ binding.pry
 
 右键点击页面，点击*检查*。转到 inspect 窗口的左上角，单击指向正方形中间的箭头(信息气球应该显示类似于“在页面中选择一个元素来检查它”)。
 
-[![Right click, then select 'Inspect'](../Images/3e9b40e316df8575189f3841075f4c28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jaeAPM2K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/rS5ViSy.png)
+[![Right click, then select 'Inspect'](img/3e9b40e316df8575189f3841075f4c28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jaeAPM2K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/rS5ViSy.png)
 
-[![Locate the Element Inspector icon](../Images/371a385ca94a760a55829a351916108d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2RY3MeNm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/sRm1YT2.png)
+[![Locate the Element Inspector icon](img/371a385ca94a760a55829a351916108d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--2RY3MeNm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/sRm1YT2.png)
 
 将鼠标悬停在您正在寻找的商品示例上。这将在元素窗口中突出显示相应的 CSS，同时突出显示元素的边界(通常通过一个彩色框)。在“元素”窗口中单击该项以选择其 CSS。
 
@@ -71,19 +71,19 @@ binding.pry
 
 *   我要查找的内容是否存储在此项目中？我能看到文本、链接、图片等吗？包装在元素面板的 CSS 中？
 
-[![While hovering, look at the highlighted content in the Element Inspector Panel](../Images/3563bf21b22467770ebd36048c173919.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g4wUT2da--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/wmeoAwG.png)
+[![While hovering, look at the highlighted content in the Element Inspector Panel](img/3563bf21b22467770ebd36048c173919.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g4wUT2da--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/wmeoAwG.png)
 
 是啊！在>
 
 *   这个项目的 CSS 选择器或者 HTML 标签是什么？一些常见的例子有`div`、`a`和`h2`。在 Chrome 中，这将是首先显示的文本，以粉红色显示。
 
-[![Close up hovering view of Arm Balance Yoga Poses](../Images/a6eaa1ec34da534fdd6592c03dc074e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LA0BTbQQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/ZQk4oH3.png)
+[![Close up hovering view of Arm Balance Yoga Poses](img/a6eaa1ec34da534fdd6592c03dc074e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LA0BTbQQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/ZQk4oH3.png)
 
 对于这个例子，选择器是`h2`。
 
 *   选择器/标签后面有 ID 或类信息吗？
 
-[![Close up hovering view of Arm Balance Yoga Poses](../Images/a6eaa1ec34da534fdd6592c03dc074e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LA0BTbQQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/ZQk4oH3.png)
+[![Close up hovering view of Arm Balance Yoga Poses](img/a6eaa1ec34da534fdd6592c03dc074e7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LA0BTbQQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/ZQk4oH3.png)
 
 这里，正文有点长。貌似这个类叫`m-card--header-text ng-isolate-scope`。双击元素面板中的类信息并复制它。
 
@@ -91,7 +91,7 @@ binding.pry
 
 *   页面上相似的内容是否共享 CSS 选择器/类等？将鼠标悬停在相似的项目上，查看它们是否共享选择器/类别/id 信息。
 
-[![Close up hovering view of Balancing Yoga Poses](../Images/5fe1d108fbe8c95117b8279576dfcb4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ta19b0ji--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/HP9VtTF.png)
+[![Close up hovering view of Balancing Yoga Poses](img/5fe1d108fbe8c95117b8279576dfcb4f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ta19b0ji--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/HP9VtTF.png)
 
 是的:“平衡瑜伽体式”和“手臂平衡”有相同的 CSS！
 
@@ -149,7 +149,7 @@ pry(main)> doc.css('h2.m-card--header-text').first.text
 
 返回到您的网络浏览器。看看你想要的数据的父数据。在“元素”面板中查找指向下方的箭头。
 
-[![View of the parent element](../Images/568fa0cfc914c7440582d1d120971f6e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eKMQpiCn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/UPbbmYM.png)
+[![View of the parent element](img/568fa0cfc914c7440582d1d120971f6e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eKMQpiCn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/UPbbmYM.png)
 
 在构建从网页上抓取的数据数组时，我倾向于只使用类作为方法的参数。让我们测试以下内容:
 

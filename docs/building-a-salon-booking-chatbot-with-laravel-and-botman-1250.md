@@ -58,7 +58,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 点击链接“Tinker”，在那里你可以尝试一个非常简单的聊天机器人。对机器人说“嗨”，机器人会回复“你好！”。
 
-[![BotMan chatbot development](../Images/fefb8e56d40cb96925388d47c15f9d87.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IRnZtgvY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://preview.ibb.co/gq6g0U/qmrwa0sunw73g6upzx3s.png)
+[![BotMan chatbot development](img/fefb8e56d40cb96925388d47c15f9d87.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IRnZtgvY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://preview.ibb.co/gq6g0U/qmrwa0sunw73g6upzx3s.png)
 
 干得好。现在，您已经为构建第一个聊天机器人做好了一切准备。
 
@@ -86,7 +86,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，刷新您的页面，您可以在页面的右下角看到聊天小部件。对机器人说“嗨”，机器人会回复“你好！”。就是这样。
 
-[![BotMan chat widget](../Images/d534eb703b2dce5e40fba5b0ca318cf1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G8HVLosI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://preview.ibb.co/gOGQS9/yafe5vs55wpe1kzvbzts.png)
+[![BotMan chat widget](img/d534eb703b2dce5e40fba5b0ca318cf1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G8HVLosI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://preview.ibb.co/gOGQS9/yafe5vs55wpe1kzvbzts.png)
 
 在开始使用 BotMan Studio 构建聊天机器人之前，有两个重要的核心概念需要学习——听到消息和发送消息。
 
@@ -409,7 +409,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 让我们试试我们的聊天机器人，看看是否可行。进入 [http://127.0.0.1:8000](http://127.0.0.1:8000) ，刷新页面，发送‘Hello’开始对话。
 
-[![Botman Booking Chatbot](../Images/c85fc1375c3bbdf010d0ffc434e0de3c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Pze0-6qq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/j0zC79/jhxwnrhxl8lqdsbhypue.png)
+[![Botman Booking Chatbot](img/c85fc1375c3bbdf010d0ffc434e0de3c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Pze0-6qq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/j0zC79/jhxwnrhxl8lqdsbhypue.png)
 
 ## 提示访客选择其中一项服务
 
@@ -490,7 +490,7 @@ isInteractiveMessageReply 方法检测用户是否与消息进行了交互并单
 
 让我们试试我们的聊天机器人，看看是否可行。进入 [http://127.0.0.1:8000](http://127.0.0.1:8000) ，刷新页面，发送‘Hello’开始对话。
 
-[![](../Images/8730d95266650e12f329aa4aef8421b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3_O448VN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/mauen9/dfuktquf760gkx2phnhx.png)
+[![](img/8730d95266650e12f329aa4aef8421b4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3_O448VN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/mauen9/dfuktquf760gkx2phnhx.png)
 
 ## 提示访客选择日期和时间段
 
@@ -628,7 +628,7 @@ class BookingConversation extends Conversation
 
 Enter fullscreen mode Exit fullscreen mode
 
-[![](../Images/9e3d49ca13369cbc315655545b69cf49.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jlXCJ-M---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/nM6TEp/Bot_Man_Studio.png)
+[![](img/9e3d49ca13369cbc315655545b69cf49.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jlXCJ-M---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://image.ibb.co/nM6TEp/Bot_Man_Studio.png)
 
 # 结论
 

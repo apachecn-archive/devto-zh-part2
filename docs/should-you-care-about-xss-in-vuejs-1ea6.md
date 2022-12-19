@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nandod1707/should-you-care-about-xss-in-vuejs-1ea6>
 
-[![](../Images/d8fc766e591f86ac805ba32a2f9cf966.png)T2】](https://hackmetrix.com/)
+[![](img/d8fc766e591f86ac805ba32a2f9cf966.png)T2】](https://hackmetrix.com/)
 
 让我们先来看看这篇文章中最明显的部分:如果您不清理您的数据，无论您使用什么框架，您都将容易受到跨站点脚本(XSS)攻击。
 

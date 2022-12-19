@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/briannipper/fire-in-london-helped-preserve-the-city-of-savannah-ga-through-the-modern-age-42em>
 
-| [![A view of Savannah as it stood the 29th of March 1734](../Images/b250f154874f041b5a6143e7e272bf53.png "A view of Savannah as it stood the 29th of March 1734") ](https://upload.wikimedia.org/wikipedia/commons/4/41/A_view_of_Savannah_as_it_stood_the_29th_of_March_1734.jpg) |
+| [![A view of Savannah as it stood the 29th of March 1734](img/b250f154874f041b5a6143e7e272bf53.png "A view of Savannah as it stood the 29th of March 1734") ](https://upload.wikimedia.org/wikipedia/commons/4/41/A_view_of_Savannah_as_it_stood_the_29th_of_March_1734.jpg) |
 |作者 Pierre Fourdrinier 和 James Oglethorpe
 
 【公共领域或公共领域】，通过维基共享资源|

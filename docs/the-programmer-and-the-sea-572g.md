@@ -10,7 +10,7 @@
 
 * * *
 
-[![Morro Bay](../Images/7c7dc4912ea9a7f56945ee971fddca61.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aW9cfMvY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0h7lxpgnxr4xmm5yxj6k.jpg)
+[![Morro Bay](img/7c7dc4912ea9a7f56945ee971fddca61.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aW9cfMvY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0h7lxpgnxr4xmm5yxj6k.jpg)
 
 *照片由 Unsplash 上的 Ed Derrico 提供*
 
@@ -28,7 +28,7 @@
 
 本质上，他们在说，“你在做新的东西。困惑、迷失方向或害怕是很自然的。如果一切都失败了，你可以去一个安全的地方。”拥有那个逃生出口是至关重要的，大大减少了我的焦虑感。
 
-[![Confused lady](../Images/b5b344147e3a30734c790f7ed1a17063.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IH6E6ShZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ngyu390yslfihudn3dvt.png)
+[![Confused lady](img/b5b344147e3a30734c790f7ed1a17063.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IH6E6ShZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ngyu390yslfihudn3dvt.png)
 
 他们给我们提供了救生衣，一个防水袋，用来装我们的东西，木板和桨；保持我们的董事会稳定；帮助我们在水上行走。( [3](#footnote3)
 
@@ -56,7 +56,7 @@
 
 为什么我这么担心掉进去？
 
-[![Confused guy](../Images/0049096aa04ba655eb46d55f6a34e413.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iQQvgq3d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e1rskvect1kgytm40amg.png)
+[![Confused guy](img/0049096aa04ba655eb46d55f6a34e413.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--iQQvgq3d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e1rskvect1kgytm40amg.png)
 
 这无疑是发生在我身上最糟糕的事情。然而，水没有那么冷，我的手机和钱包都塞在防水袋里，我穿着救生衣，最重要的是，我知道如何游泳。哦，是的，没错。我从小学开始就一直在游泳。( [8](#footnote8)
 
@@ -88,7 +88,7 @@
 
 [7。](#sub7)如果需要休息也是可以的。倦怠是真实的，而且是强大的。无论如何，你的身体和精神健康应该在任何截止日期、老板的命令或绩效评估之前。如果有人告诉你不是这样，他们并没有把你的最佳利益放在心上。句号。
 
-[![Meditating nerd](../Images/9f71131eb17d245bb7816bbbd2db311b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L0bMxwwP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wy5po9egsuaw0qte5r98.png)
+[![Meditating nerd](img/9f71131eb17d245bb7816bbbd2db311b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--L0bMxwwP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wy5po9egsuaw0qte5r98.png)
 
 [8。](#sub8)当事情变得疯狂时，尤其是在一个你总是在学习并发现自己有多少不知道的行业，记住你确实知道一些事情是很重要的。记住你已经练习过的，尽你所能为自己的成功做准备，并将失败的后果最小化。
 

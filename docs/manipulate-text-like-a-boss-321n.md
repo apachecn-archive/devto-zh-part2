@@ -53,7 +53,7 @@
 
 > 注意:您不必选择整条线来使这些工作。
 
-[![Line bubbling](../Images/d95964bf559abbd4b7de3af761c52e11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XKUgtu0G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://nickymeuleman.netlify.com/line-bubbling-c27efa8831b5b89836be762964f1a27c.gif)
+[![Line bubbling](img/d95964bf559abbd4b7de3af761c52e11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XKUgtu0G--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://nickymeuleman.netlify.com/line-bubbling-c27efa8831b5b89836be762964f1a27c.gif)
 
 ### 扩大/缩小选择范围
 
@@ -62,7 +62,7 @@
 *   `alt+shift+right`扩展选择。
 *   `alt+shift+left`缩小选择范围。
 
-[![expand/shrink selection](../Images/33dd9bed3959a5b91d3f15838dac5197.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jfRgV7YK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://nickymeuleman.netlify.com/expand-shrink-selection-dcb22210e49087b4b7110d22d9edc52c.gif)
+[![expand/shrink selection](img/33dd9bed3959a5b91d3f15838dac5197.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jfRgV7YK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://nickymeuleman.netlify.com/expand-shrink-selection-dcb22210e49087b4b7110d22d9edc52c.gif)
 
 ### 重命名符号
 
@@ -70,13 +70,13 @@
 
 *   `F2`重命名高亮显示的符号。
 
-[![rename symbol](../Images/4c26a476f3d14bc303db1d26b648e665.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7z6EPCiu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://nickymeuleman.netlify.com/rename-symbol-8f38fc8a4f02e137219781463befe9a0.gif)
+[![rename symbol](img/4c26a476f3d14bc303db1d26b648e665.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7z6EPCiu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://nickymeuleman.netlify.com/rename-symbol-8f38fc8a4f02e137219781463befe9a0.gif)
 
 ### 其他收藏夹
 
 *   `ctrl+d`将选择添加到下一个查找匹配项。选择文本后，选择下一个匹配的文本。当光标在一个符号上时，选择下一个匹配的符号。
 
-[![add next match](../Images/260ea59863f11f42ef8bf4db4df61f75.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R1DD9Ogy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://nickymeuleman.netlify.com/add-next-match-7942a84370955f6035ba08e3f919ed22.gif)
+[![add next match](img/260ea59863f11f42ef8bf4db4df61f75.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--R1DD9Ogy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://nickymeuleman.netlify.com/add-next-match-7942a84370955f6035ba08e3f919ed22.gif)
 
 *   `ctrl+/`(azerty 键盘上的`ctrl+:`)切换当前行的注释。
 *   `ctrl+l`选择当前行。
@@ -87,7 +87,7 @@
 *   `ctrl+b`切换侧边栏可见性。
 
 节省一些屏幕空间，切换侧边栏。`ctrl+0`将打开侧边栏并聚焦它(`ctrl+à`在 azerty-keyboards 上)
-[![toggle sidebar](../Images/b52ef61e42ea85759e5ec66140510994.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Pg3IRcUq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://nickymeuleman.netlify.com/toggle-sidebar-32c55a0521b62ed64e244571acf08efb.gif)
+[![toggle sidebar](img/b52ef61e42ea85759e5ec66140510994.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Pg3IRcUq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://nickymeuleman.netlify.com/toggle-sidebar-32c55a0521b62ed64e244571acf08efb.gif)
 
 ## 绕开 VSCode
 

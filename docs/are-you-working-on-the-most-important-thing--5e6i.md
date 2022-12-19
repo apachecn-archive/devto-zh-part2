@@ -20,7 +20,7 @@
 
 一个不相关的工作任务促使我最终评估我的登陆页面。当我得知我丑陋的登录页面已经使我们超过了每小时 15，000 美元的努力(到目前为止)时，我震惊了。而且它的年收入每年都在增加。所以，很难说一个登陆页面会让我的雇主一生赚多少钱。
 
-[![landing page revenue 2013-2017](../Images/d9b08d19ca4d9eb5658b683a85faccea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yjs-bS9L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t655nxdd2iclzxaufauk.PNG)
+[![landing page revenue 2013-2017](img/d9b08d19ca4d9eb5658b683a85faccea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--yjs-bS9L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/t655nxdd2iclzxaufauk.PNG)
 
 现在，我的目标是永远做最重要的事情。我觉得我做得很好。但是考虑到这个登陆页面的回报率，我不得不说**我没有做最重要的事情**,因为我没有定期做任何每小时能带来五位数收入的事情。
 
@@ -67,7 +67,7 @@ CD3 迫使你将你的故事转换成金钱，这是整件事的关键。
 
 你的故事的价值很可能遵循[幂律分布](https://en.wikipedia.org/wiki/Power_law)，这具有重要的意义。
 
-[![Power Law Distribution](../Images/7b544952918138abf4fa3663b23d1fc2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JjFXimRa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3452ou8mr4f8u275nax5.PNG)
+[![Power Law Distribution](img/7b544952918138abf4fa3663b23d1fc2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JjFXimRa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3452ou8mr4f8u275nax5.PNG)
 
 你需要一个合理的方法，始终如一地识别分布图最左边的那些少数真正有价值的故事。如果没有这样的方法，你将会把大部分资源浪费在低优先级的故事上。如果你不想平庸，你需要 [CD3](https://smallbusinessprogramming.com/cost-of-delay-prioritize-your-product-backlog-by-cd3/) 。
 

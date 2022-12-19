@@ -91,7 +91,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 <center>No way... I'm leaving!</center>
 
-[![alt text](../Images/2dea2b1eb01faed933485840c36558ca.png "Logo Title Text 1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eBgaU2Pv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/4jop4FB.gif)
+[![alt text](img/2dea2b1eb01faed933485840c36558ca.png "Logo Title Text 1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eBgaU2Pv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/4jop4FB.gif)
 
 # 如此...**【让】****【常】**...他们是我们的救星！
 
@@ -128,10 +128,10 @@ Enter fullscreen mode Exit fullscreen mode
 
 **你能猜出，在全局范围内“let”和“const”会发生什么吗？**
 
-[![alt text](../Images/62c17cafe82015ade1d592881fa22674.png "Logo Title Text 1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--83T58CaE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://m.popkey.co/8b80f7/Nv8Gx.gif)
+[![alt text](img/62c17cafe82015ade1d592881fa22674.png "Logo Title Text 1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--83T58CaE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://m.popkey.co/8b80f7/Nv8Gx.gif)
 
 因为 let 是一个“块范围局部变量”,你需要把它放到一个块中来释放它的能力...
 
 <center>*But this is another story*</center>
 
-[![alt text](../Images/e40843dbf663b336e5c15e27f7f74fdc.png "Logo Title Text 1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t5kDXrz8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media3.giphy.com/media/udRSyh5yLCqKQ/giphy.gif)
+[![alt text](img/e40843dbf663b336e5c15e27f7f74fdc.png "Logo Title Text 1")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t5kDXrz8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media3.giphy.com/media/udRSyh5yLCqKQ/giphy.gif)

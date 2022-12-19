@@ -14,7 +14,7 @@
 
 因此，UI 开发人员需要在他们构建的 API 驱动的应用程序中考虑用户体验和功能需求。当然，应该是他们，因为他们了解两个世界:UI 和 API。别担心，在这些团队中，额外的敏捷应该是一项技能。
 
-[![Fig1](../Images/25ece28ec6a2d86002a6500fb32d7c08.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AWta7H6u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AWu33RiyVkIBfJgXqmcFoVg.png)
+[![Fig1](img/25ece28ec6a2d86002a6500fb32d7c08.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AWta7H6u--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AWu33RiyVkIBfJgXqmcFoVg.png)
 
 # 我们能做什么？
 
@@ -34,7 +34,7 @@
 1.  可用性。在我们构建前端时，数据接口是可用的，因为这个组件是由 UI 开发人员在前端实现的。这个中间人将为 UI 提供数据和资源的新表示。数据也将通过新的 GraphQL 接口公开。通过这种方式，我们不需要点击多个端点来获取我们需要的数据，因为 UI 开发人员现在将只从新模式中选择需要的字段。
 2.  稳定。BFF 提供了我们正在寻找的 UI 所需的资源模型和数据。这个 facade 组件将**从 API (SoR 数据)中获取** REST 资源，**将**它们改编成更符合 UI 需求的中间表示，**通过新的 GraphQL 接口将**它们暴露出来，最终映射到视图模型(UI 组件)。所有这些都发生在前端，所以在某种意义上，这就像拥有 UX API 一样。是的，我们这里说的是前端 API。这也意味着不需要在 UI 中实现复杂且性能不佳的逻辑来从不匹配的 RESTful APIs 中收集显示所需的数据。
 
-[![Fig1](../Images/e0fae5859fd9c6b081aec1efa7455686.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k8QZZjDL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AXyZVKlVFhcb6Ba_492418A.png)
+[![Fig1](img/e0fae5859fd9c6b081aec1efa7455686.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k8QZZjDL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AXyZVKlVFhcb6Ba_492418A.png)
 
 当然，这是我们对模式的解读。有人可能认为 BFF 是另一个服务器端组件或中间件，但这就是模式的魔力:我们给它我们想要的实现。
 

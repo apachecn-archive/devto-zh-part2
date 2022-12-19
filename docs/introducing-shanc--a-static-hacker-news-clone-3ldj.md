@@ -56,7 +56,7 @@ SHaNc 是一个静态页面，它显示所有的故事(计划的最佳和新故�
 
 SHaNc 建筑(手绘在一张纸上😝)
 
-[![architecture](../Images/9ff785345af4e7bcd64f366c1e9be991.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jIO1_O98--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/www.slightedgecoder.com/wp-content/uploads/2018/05/architecture.jpg%3Fresize%3D1024%252C653)
+[![architecture](img/9ff785345af4e7bcd64f366c1e9be991.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jIO1_O98--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/www.slightedgecoder.com/wp-content/uploads/2018/05/architecture.jpg%3Fresize%3D1024%252C653)
 
 ### 🏃‍♂️临别赠言
 

@@ -44,17 +44,17 @@ $ yarn run build
 
 要在亚马逊 S3 上托管，我需要一个有权限的 S3 存储桶，使其内容对公众开放，用于静态网站托管。这可以从 [AWS 控制台](https://aws.amazon.com)完成:
 
-[![](../Images/fe9e8261beaadacc13fca49bc41a7538.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HemTy-9J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rossta.net/assets/images/blog/connect-four/s3/aws-create-bucket-767a39de.jpg)
+[![](img/fe9e8261beaadacc13fca49bc41a7538.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HemTy-9J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rossta.net/asseimg/blog/connect-four/s3/aws-create-bucket-767a39de.jpg)
 
 在 bucket management 页面的 **Properties** 窗格上，我启用了*静态网站托管*，并输入`index.html`作为索引文档的名称，以匹配 Vue 构建的输出。
 
-[![](../Images/7239ef036dfbc0afb235b72ac4d674c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--McSb6V-Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rossta.net/assets/images/blog/connect-four/s3/aws-static-website-properties-03528fa5.jpg)
+[![](img/7239ef036dfbc0afb235b72ac4d674c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--McSb6V-Q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rossta.net/asseimg/blog/connect-four/s3/aws-static-website-properties-03528fa5.jpg)
 
 这个屏幕还显示了 S3 存储桶索引页面的公共端点，这是我们在浏览器中导航到我们部署的站点所需要的。端点可能是类似于的东西。
 
 在 **Permissions** 选项卡上，我添加了一个 bucket 策略，为 bucket 中的所有内容提供公共读取权限。
 
-[![](../Images/2272d2720429256b3b0e18437fe46829.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NtpqOqQV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rossta.net/assets/images/blog/connect-four/s3/aws-static-website-policy-10243aae.jpg)
+[![](img/2272d2720429256b3b0e18437fe46829.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NtpqOqQV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rossta.net/asseimg/blog/connect-four/s3/aws-static-website-policy-10243aae.jpg)
 
 AWS 文档推荐以下静态网站托管政策。如果为您自己的存储桶设置这个，请确保将*资源*字符串中的`bucket-name`替换为您的存储桶名称:
 
@@ -70,7 +70,7 @@ AWS 文档推荐以下静态网站托管政策。如果为您自己的存储桶�
 
 随着我的 Github 帐户链接到我的 CircleCI，我从 CircleCI 仪表板的*项目*选项卡将我的 Connect Four Github 项目添加到 CircleCI。
 
-[![](../Images/1273505105c06e9fc84cd8776f0d3975.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HNgDbZiB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rossta.net/assets/images/blog/connect-four/s3/circle-add-projects-922272d9.jpg)
+[![](img/1273505105c06e9fc84cd8776f0d3975.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HNgDbZiB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rossta.net/asseimg/blog/connect-four/s3/circle-add-projects-922272d9.jpg)
 
 我还在我的项目中添加了一个`circle.yml`文件，如下所示:
 
@@ -136,7 +136,7 @@ routes:
 
 快好了！为了给`s3deploy`命令在我的 S3 桶中添加和修改文件的权限，我需要一组链接到另一个 AWS 授权策略的 AWS 凭证。为此，我在 AWS 的 Security Credentials 面板中创建了一个新的 Amazon IAM 用户，用于编程访问。
 
-[![](../Images/e0a39c3bfa973fb89afa2ae21abe37fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vI_gcYjp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rossta.net/assets/images/blog/connect-four/s3/aws-add-user-1-2b33e2f3.jpg)
+[![](img/e0a39c3bfa973fb89afa2ae21abe37fd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vI_gcYjp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rossta.net/asseimg/blog/connect-four/s3/aws-add-user-1-2b33e2f3.jpg)
 
 我使用以下策略将该用户添加到安全组:
 
@@ -148,7 +148,7 @@ routes:
 
 对于我的新 IAM 用户，现在可以使用一组新的凭证、一个 AWS 访问密钥 id 和秘密访问密钥来以编程方式控制我的 S3 存储桶。
 
-[![](../Images/6d96bb3a921acd9e4ff8c55b78aacb8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rGSIuuf4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rossta.net/assets/images/blog/connect-four/s3/aws-add-user-2-5943f1b3.jpg)
+[![](img/6d96bb3a921acd9e4ff8c55b78aacb8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rGSIuuf4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rossta.net/asseimg/blog/connect-four/s3/aws-add-user-2-5943f1b3.jpg)
 
 如果您遵循这些步骤，请确保将您的凭据保存在安全的地方。拥有这些凭据的任何人都可以使用我们使用的权限修改您的 S3 存储桶的内容。
 
@@ -160,7 +160,7 @@ routes:
 
 我通过 web UI 中的项目级配置页面将这些凭证添加到 CircleCI 中。
 
-[![](../Images/8779eb2b8ebd1dd5133d07f521667f7b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MoMIOhni--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rossta.net/assets/images/blog/connect-four/s3/circle-aws-ceee440d.jpg)
+[![](img/8779eb2b8ebd1dd5133d07f521667f7b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MoMIOhni--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://rossta.net/asseimg/blog/connect-four/s3/circle-aws-ceee440d.jpg)
 
 这一步使 AWS 凭证对构建环境可用。这比在`circle.yml`文件中以纯文本形式添加凭证更安全。
 

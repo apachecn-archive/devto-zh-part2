@@ -8,7 +8,7 @@
 
 在纽奥良的[碰撞会议](https://collisionconf.com/)上，我有幸听了 [ThoughtWorks](https://www.thoughtworks.com/) 的[丽贝卡·帕森斯](https://www.linkedin.com/in/rebecca-parsons-871491/)的演讲*多样性，人工智能*中的编码&偏见。这次谈话揭示了当今社会存在的一些偏见。
 
-[![](../Images/a9d86ee017e7b283f1699084b486ad33.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LJkO4ANY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A-40kZcch8s7-qv1vSsz5xw.jpeg)
+[![](img/a9d86ee017e7b283f1699084b486ad33.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LJkO4ANY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A-40kZcch8s7-qv1vSsz5xw.jpeg)
 【the Collision 2018
 
 ### AI 是有偏见的
@@ -33,7 +33,7 @@ Rebecca 还对我们社会中的偏见进行了 360 度全方位报道，并展�
 
 提倡让不同人口统计的人参与用户测试。这将使我工作的产品能够很好地为更多人口统计数据的人工作，并防止类似于为医生设计的个人助理对男性声音(医生)工作良好但对女性声音(医生)不工作的情况发生。
 
-[![](../Images/37399ee15c5837ecc7a50bcdb6237c06.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9mth1zQw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A105eKYQ6akTzqEo5VHUeog.jpeg) 
+[![](img/37399ee15c5837ecc7a50bcdb6237c06.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9mth1zQw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2A105eKYQ6akTzqEo5VHUeog.jpeg) 
 照片由[维多利亚诺·伊斯基耶多](https://unsplash.com/photos/ldkinv-1_To?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)于 [Unsplash](https://unsplash.com/search/photos/shocked?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 **3。当有人做出不恰当的评论时大声说出来:**
@@ -44,7 +44,7 @@ Rebecca 还对我们社会中的偏见进行了 360 度全方位报道，并展�
 
 > 我有偏见。你有偏见。AI 有失偏颇。我们都有偏见。
 
-[![](../Images/b880d1a36436247fc65cad02bfd85de5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OhZEFEgO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AUmShAAcOuuuhsrcFWTYUGg.jpeg) 
+[![](img/b880d1a36436247fc65cad02bfd85de5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--OhZEFEgO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AUmShAAcOuuuhsrcFWTYUGg.jpeg) 
 照片由[莱尼](https://unsplash.com/photos/hx87JWG4yCI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)上[下](https://unsplash.com/search/photos/african-women?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 随着我们在技术上不断进步，开发出几乎可以冒充人的人工智能，我们是否可以集体和单独承认并检查我们的偏见，在用户研究和开发中包括不同的人口统计数据，并大声反对对与我们不同的人做出的不当评论。

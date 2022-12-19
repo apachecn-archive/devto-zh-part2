@@ -6,7 +6,7 @@
 
 今天，当我在[发展到](https://dev/to)上做一些日常阅读时，我看到了来自 [@ben](https://dev.to/ben) 的这个帖子。
 
-[![ben](../Images/fe64a787b888dfb20fc13ad1e466da3d.png)](/ben) [## 从开发到技术的堆栈
+[![ben](img/fe64a787b888dfb20fc13ad1e466da3d.png)](/ben) [## 从开发到技术的堆栈
 
 ### 本哈尔彭 8 月 9 日 171 分钟阅读
 

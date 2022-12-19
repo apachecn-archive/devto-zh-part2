@@ -9,7 +9,7 @@
 在本文中，我们将构建一个实时流媒体应用程序，显示当前正在播放视频的用户的在线状态。我们将使用 [Go](https://golang.org/doc/install) ，JavaScript (Vue)和 [Pusher](http://pusher.com/) 进行开发。
 
 下面是最终应用的演示:
-[![](../Images/fe2d8c9d4863aa9182395e090c85dc53.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jWFDS1x5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/beaph54uz3kz5asj9wgi.gif)
+[![](img/fe2d8c9d4863aa9182395e090c85dc53.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--jWFDS1x5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/beaph54uz3kz5asj9wgi.gif)
 
 本教程的源代码可以在 GitHub 上找到。
 
@@ -1074,7 +1074,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 该应用程序将可在此地址进行测试 [http://127.0.0.1:8090](http://127.0.0.1:8090/) ，这里显示了该应用程序的外观:
 
-[![](../Images/9bdfb2044da3a177d62e854a4c791ee0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PVA1-VM4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wfru5wpy5ysq0eypd6ld.gif)
+[![](img/9bdfb2044da3a177d62e854a4c791ee0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PVA1-VM4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wfru5wpy5ysq0eypd6ld.gif)
 
 ## 结论
 

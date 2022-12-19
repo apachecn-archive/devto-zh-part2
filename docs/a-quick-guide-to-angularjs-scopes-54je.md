@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/a-quick-guide-to-angularjs-scopes-54je>
 
-[![](../Images/83a3ef86299182ea97ff82591ef7048c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xvIjQuiZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AGmMtKznzJ1dS8sSzxzR3ow.png)
+[![](img/83a3ef86299182ea97ff82591ef7048c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xvIjQuiZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AGmMtKznzJ1dS8sSzxzR3ow.png)
 
 AngularJS 应用程序通常依靠控制器来控制应用程序中的数据流。然后，这些数据被传递到视图中进行渲染。为了将控制器和视图连接在一起，Angular 使用了一个名为 **scope** 的特殊对象。这个 scope 对象充当表达式的执行上下文，并模仿 DOM 结构分层排列。
 
@@ -23,7 +23,7 @@ AngularJS 应用程序通常依靠控制器来控制应用程序中的数据流�
 
 总而言之，以一种非常简单的方式，范围可以被看作仅仅是用于呈现视图的数据。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 #### **范围层级**
 
@@ -33,7 +33,7 @@ AngularJS 应用程序通常依靠控制器来控制应用程序中的数据流�
 
 [https://medium . com/media/97 C9 CBC 66139501 C5 e 743 BC 0 bb 2 deb F9/href](https://medium.com/media/97c9cbc66139501c5e743bc0bb2debf9/href)
 
-[![](../Images/627b76fbe2e89922587f5b7697d4386d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--si9KyoZI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/680/1%2AMPB_akdyDmQH913vjgll9w.png) 
+[![](img/627b76fbe2e89922587f5b7697d4386d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--si9KyoZI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/680/1%2AMPB_akdyDmQH913vjgll9w.png) 
 
 <figcaption>一棵普通的 DOM 树，检查' ng-scope '中的所有元素。</figcaption>
 
@@ -45,7 +45,7 @@ AngularJS 应用程序通常依靠控制器来控制应用程序中的数据流�
 *   如果尚未选择*控制台*选项，则选择该选项。调试器允许我们使用变量“$0”访问控制台中当前选定的元素。
 *   若要检索与当前元素关联的范围，请执行“angular.element($0)”。“scope()”命令。
 
-[![](../Images/041f953dda443162c107058cf0b9d6a4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MD9gfe7q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/855/1%2Ab8X4q0ZVIa_DxFeNFRszYQ.png) 
+[![](img/041f953dda443162c107058cf0b9d6a4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MD9gfe7q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/855/1%2Ab8X4q0ZVIa_DxFeNFRszYQ.png) 
 
 <figcaption>调试一个范围对象。</figcaption>
 
@@ -81,7 +81,7 @@ AngularJS 本身不知道模型修改。发生这种情况是因为当浏览器�
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

@@ -22,13 +22,13 @@
 
 非洲为了一个目标走到一起，这个目标就是学习。感谢**安德拉，谷歌**和 **Udacity** 。他们使这成为可能。
 
-<figure>[![](../Images/b21ab80d620eed55f1b529eeafc1d402.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iC-CjCpO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AaQKtiOSEFk4e9SRCVV0BmA.jpeg)
+<figure>[![](img/b21ab80d620eed55f1b529eeafc1d402.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--iC-CjCpO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AaQKtiOSEFk4e9SRCVV0BmA.jpeg)
 
 <figcaption>Pic[**克里斯·巴索莱**](https://twitter.com/ChrisBarso/status/1000321109676478464)</figcaption>
 
 </figure>
 
-<figure>[![](../Images/3d9945b67817373b7e6088a810391013.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--eMW6LICx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ANhDBj6qPORsEBlyx4GYs5Q.jpeg)
+<figure>[![](img/3d9945b67817373b7e6088a810391013.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--eMW6LICx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ANhDBj6qPORsEBlyx4GYs5Q.jpeg)
 
 <figcaption>Pic[**阿德泰约**](https://twitter.com/adetayo_james/status/1001114572449878017)</figcaption>
 
@@ -60,7 +60,7 @@
 
 暂停…
 
-<figure>[![](../Images/1d46214614877123c1b854d0b408f451.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ovR4f7pJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AXiVvxgN0tlBY0Dm7.jpg)
+<figure>[![](img/1d46214614877123c1b854d0b408f451.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ovR4f7pJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2AXiVvxgN0tlBY0Dm7.jpg)
 
 <figcaption>Pic[**安德拉尼**](https://twitter.com/Andela_Nigeria/status/1000365744083886081)</figcaption>
 
@@ -88,7 +88,7 @@
 
 暂停… *请确保你仍然保持这种精神，回去真的很有趣。你不会后悔的。*
 
-<figure>[![](../Images/95d7267587e44b11d93510e9278158fc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VcYNxPAM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A4xFAmI1_2T0DkvOX.jpg)
+<figure>[![](img/95d7267587e44b11d93510e9278158fc.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--VcYNxPAM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/0%2A4xFAmI1_2T0DkvOX.jpg)
 
 <figcaption>Pic[**Ajah David**](https://twitter.com/ajahdavid/status/1000769665801613313)</figcaption>
 

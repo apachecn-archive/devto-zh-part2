@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/lucasalt/a-personal-motd-14h8>
 
-[![A custom MOTD](../Images/353f904e24ee04ef763c91a2d82039e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lL35PwdK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/x3VM2ye.png)
+[![A custom MOTD](img/353f904e24ee04ef763c91a2d82039e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lL35PwdK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/x3VM2ye.png)
 
 今天，我们将修改将 SSH 连接到服务器时出现的 MOTD。一般来说，它会给你一些关于你的机器的一般信息。您可以显示服务器的正常运行时间、RAM 消耗，...
 
@@ -13,7 +13,7 @@
 
 如上所述，我写了一个小脚本(koff，koff，...是互联网为我写的)我保存在一个文件`raspi-motd.sh`里。如果你和我一样想要 MOTD，你可以在这里找到代码:[https://gist.github.com/piksel/3023588](https://gist.github.com/piksel/3023588)
 
-[![A custom MOTD: code](../Images/a2af7ba06df8c819e55eb03dc5204cd1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c8w5pwXm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/hLgD8ip.png)
+[![A custom MOTD: code](img/a2af7ba06df8c819e55eb03dc5204cd1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--c8w5pwXm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/hLgD8ip.png)
 
 我稍微修改了脚本，如下文评论中所解释的。你只要换 20 线`echo "$logo" > /etc/motd.tail to echo "$logo" > /etc/motd`。
 
@@ -30,7 +30,7 @@
 第二种方案
 `bash raspi-motd.sh`简单地执行脚本
 
-[![A custom MOTD: bash](../Images/b551fb4b1ef4f0d23eea135a592dc52c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VMUuxW4a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/zuysiFR.png)
+[![A custom MOTD: bash](img/b551fb4b1ef4f0d23eea135a592dc52c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VMUuxW4a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/zuysiFR.png)
 
 不幸的是，我有一个小错误，因为它没有在`/etc/init.d/`中找到`bootlogs`文件，但不用担心它仍然工作。最后，你需要做的就是重新连接，自定义 MOTD 就会出现。
 

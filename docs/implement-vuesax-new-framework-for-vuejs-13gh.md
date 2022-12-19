@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/luisdanielroviracontreras/implement-vuesax-new-framework-for-vuejs-13gh>
 
-[![Vuesax logo](../Images/5ae2040014a4fb8a5f9fc2cceee9ffc9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zhhbvHcL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/22gpstrydiklaeksom7u.png)
+[![Vuesax logo](img/5ae2040014a4fb8a5f9fc2cceee9ffc9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--zhhbvHcL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/22gpstrydiklaeksom7u.png)
 
 Vuesax 是一个基于 vuejs 的组件框架，这是一个从头开始设计的可增量采用的框架。
 
@@ -53,7 +53,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 过一会儿，我们的 Vue CLI 将启动我们的服务器，几乎总是服务器路径是`localhost:8080`
 
-[![Vuesax-init-vue](../Images/2d4b6c4701eb050f7401ea6c5b13ee26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xOqUduz0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7j1c06n1o2y1ho2vsekv.png)
+[![Vuesax-init-vue](img/2d4b6c4701eb050f7401ea6c5b13ee26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xOqUduz0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7j1c06n1o2y1ho2vsekv.png)
 
 准备好了，我们已经有了带有 vuejs 的活动服务器和带有 vuesax 的项目所需的一切
 
@@ -128,7 +128,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 实现之后，让我们回顾一下我们的`vs-button`组件是什么样子的
 
-[![Vuesax-implement-vue-gif](../Images/2f439c4b4c0ad9351e07dd0b5311a95e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RqU5K483--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qlyek9jdujlubcd5zqzv.gif)
+[![Vuesax-implement-vue-gif](img/2f439c4b4c0ad9351e07dd0b5311a95e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RqU5K483--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qlyek9jdujlubcd5zqzv.gif)
 
 准备好了我们的 Vuesax 应用程序正在运行，现已实施
 

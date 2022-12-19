@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ajmeyghani/javascript-generators-1i87>
 
-[![cover](../Images/72b4be0fd8b5b2151750ea8d1566ec33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ckDmSwd1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1485075792961-9ea033ad04fc%3Fixlib%3Drb-0.3.5%26q%3D80%26fm%3Djpg%26crop%3Dentropy%26cs%3Dtinysrgb%26w%3D1080%26fit%3Dmax%26ixid%3DeyJhcHBfaWQiOjExNzczfQ%26s%3D27199f55b7e17b540bb68285c450ce41)
+[![cover](img/72b4be0fd8b5b2151750ea8d1566ec33.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ckDmSwd1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1485075792961-9ea033ad04fc%3Fixlib%3Drb-0.3.5%26q%3D80%26fm%3Djpg%26crop%3Dentropy%26cs%3Dtinysrgb%26w%3D1080%26fit%3Dmax%26ixid%3DeyJhcHBfaWQiOjExNzczfQ%26s%3D27199f55b7e17b540bb68285c450ce41)
 
 > 下面是我的免费电子书 Async JavaScript 的摘录。你可以阅读关于 https://asyncjsbook.com 的整本书
 

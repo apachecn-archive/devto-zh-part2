@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/brandonweiss/promptconfig-a-way-to-craft-a-custom-terminal-prompt-with-json-3fa4>
 
-[![](../Images/0bbeff8e7f049c0af1bb2cc91ac0dd97.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_RwPfXiH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jyl2ikw6s9rob492lw9k.png)
+[![](img/0bbeff8e7f049c0af1bb2cc91ac0dd97.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_RwPfXiH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/jyl2ikw6s9rob492lw9k.png)
 
 [PromptConfig](https://github.com/brandonweiss/promptconfig) 让你用 JSON 来描述你的提示，然后它被编译成 Bash。一个非常简单的提示可能是这样的:
 

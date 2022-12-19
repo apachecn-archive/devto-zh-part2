@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/limiw/5-best-practices-for-setting-up-a-cloud-data-warehouse-1jl0>
 
-[![Cloud data warehouse](../Images/6375368b28367c8747e3679893af2654.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nPKQq1l8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rih18atrj4mrsz7gpflk.jpg) 
+[![Cloud data warehouse](img/6375368b28367c8747e3679893af2654.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nPKQq1l8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rih18atrj4mrsz7gpflk.jpg) 
 信用: [Pixabay](https://pixabay.com/en/cloud-finger-tablet-memory-store-3362004/)
 
 数据仓库是来自不同来源的集成数据的中央存储库，已针对分析和报告进行了优化。云数据仓库采用了一种新的方法，将数据仓库功能作为服务提供，而不是在传统的内部数据中心提供。

@@ -4,7 +4,7 @@
 
 *这次采访是为我们的[创业微服务](https://buttercms.com/books/microservices-for-startups/)电子书而做的。一定要去看看关于微服务的实用建议。感谢 Nick 的时间和投入！*
 
-**[![Nick Zadrozny](../Images/1060007d34a92bda5454eb6ecec95960.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9L3FVQ6s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/K01roV0TnCGJf2F7Vq2q)**[Nick Zadrozny](https://twitter.com/nz_?lang=en)是一家提供专门托管云服务的公司 [One More Cloud](https://omc.io/) 的创始人兼首席执行官。尼克是 OMC 两个托管搜索即服务产品 Bonsai 和 Websolr 的创始人。
+**[![Nick Zadrozny](img/1060007d34a92bda5454eb6ecec95960.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9L3FVQ6s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.buttercms.com/K01roV0TnCGJf2F7Vq2q)**[Nick Zadrozny](https://twitter.com/nz_?lang=en)是一家提供专门托管云服务的公司 [One More Cloud](https://omc.io/) 的创始人兼首席执行官。尼克是 OMC 两个托管搜索即服务产品 Bonsai 和 Websolr 的创始人。
 
 就背景而言，你的工程团队有多大？
 

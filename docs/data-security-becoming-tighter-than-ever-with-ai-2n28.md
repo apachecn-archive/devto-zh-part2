@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/brettclawson75/data-security-becoming-tighter-than-ever-with-ai-2n28>
 
-[![A.I.](../Images/67c7041db5c4a285f494f3112ea6137e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8RFaVbJ7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1528901166007-3784c7dd3653%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D18512df4d8ec00f8a1cd5f950111ac2c%26auto%3Dformat%26fit%3Dcrop%26w%3D1650%26q%3D80) 
+[![A.I.](img/67c7041db5c4a285f494f3112ea6137e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--8RFaVbJ7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images.unsplash.com/photo-1528901166007-3784c7dd3653%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D18512df4d8ec00f8a1cd5f950111ac2c%26auto%3Dformat%26fit%3Dcrop%26w%3D1650%26q%3D80) 
 信息时代已经到来，它有自己的一系列优势，其中最大的优势就是你可以将数据存储在云中，并从地球的任何一个角落访问这些数据。组织已经告别了如果要归档任何文档，都必须采用纸质方式的时代。然而，这些新的高效数据存储方法也带来了一系列挑战。例如，虽然以前很容易跟踪文档并确保没有人篡改它们，但目前数据系统被黑客攻击并不困难，从而危及数据安全。幸运的是，它的本质是它会变形以应对市场上即将到来的挑战，这就是为什么[AI 和 ML 应用](https://www.forbes.com/sites/bernardmarr/2016/12/06/what-is-the-difference-between-artificial-intelligence-and-machine-learning/#5415c0122742)正在将他们的重点转移到数据安全上。
 
 **什么是数据安全中的人工智能和人工智能**

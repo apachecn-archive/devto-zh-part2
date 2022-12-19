@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/kris/5-vuejs-course-that-makes-you-become-full-time-dev-at-weekends-3p4c>
 
-[![](../Images/558a34ab779fb5269b0eac7a90b4c0b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EBwZIr4E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ASGWdBxCZquYicbXW3EGBmA.png)
+[![](img/558a34ab779fb5269b0eac7a90b4c0b5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EBwZIr4E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ASGWdBxCZquYicbXW3EGBmA.png)
 
 > 如果你想成为全职 Vuejs 开发人员，这个周末是实现你梦想的时候。这是一系列 Vuejs 工作室课程，帮助你不断接近你的目标
 
@@ -12,7 +12,7 @@
 > 
 > **4.4(1433 收视率)| | 57208 名学生||69 场讲座||4 小时**
 
-<figure>[![](../Images/830226396f541b9428457479e7ac2851.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MlqpxTiT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/480/0%2Avl_8AzMiNxSsLnQ-.jpg)
+<figure>[![](img/830226396f541b9428457479e7ac2851.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MlqpxTiT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/480/0%2Avl_8AzMiNxSsLnQ-.jpg)
 
 <figcaption>[Vue JS 2.0—掌握 Web 应用](https://click.linksynergy.com/link?id=qt/jYwyHv8A&offerid=507388.1165096&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fvue-web-apps%2F)</figcaption>
 
@@ -30,7 +30,7 @@
 > 
 > **5.0 编写的 VueJS 和智能合同构建分散式应用程序(3 个等级)||16 名学生||25 堂课||01:44 小时**
 
-<figure>[![](../Images/3560cfdb40cb7e6c920f3d4b479491bd.png)](https://click.linksynergy.com/link?id=qt/jYwyHv8A&offerid=507388.1906462&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fethereum-and-solidity-build-dapp-with-vuejs%2F) 
+<figure>[![](img/3560cfdb40cb7e6c920f3d4b479491bd.png)](https://click.linksynergy.com/link?id=qt/jYwyHv8A&offerid=507388.1906462&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fethereum-and-solidity-build-dapp-with-vuejs%2F) 
 
 <figcaption>[以太坊与实性:用 Vue 构建 Dapp。JS](https://click.linksynergy.com/link?id=qt/jYwyHv8A&offerid=507388.1906462&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fethereum-and-solidity-build-dapp-with-vuejs%2F)T7</figcaption>
 
@@ -55,7 +55,7 @@
 > 
 > **4.9 (10 级评分)||95 级学生||15 节课||01:48 小时**
 
-<figure>[![](../Images/9fd2c3207ac8e7f16b50e70b30ef1e12.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--i6O39ehZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/550/0%2A6R2OpA1RYy3dkkaQ.jpg) 
+<figure>[![](img/9fd2c3207ac8e7f16b50e70b30ef1e12.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--i6O39ehZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/550/0%2A6R2OpA1RYy3dkkaQ.jpg) 
 
 <figcaption>[使用 Vue.js 2 创建一个漂亮的 SEO 就绪网站](https://www.udemy.com/vuejs-seo-website-course/)</figcaption>
 
@@ -77,7 +77,7 @@
 > 
 > **4.5(1197 收视率)| | 5787 名学生||185 场讲座||13:45 小时**
 
-<figure>[![](../Images/2587eefc38d533430233426add1aa3b6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7Ubpy0Gp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/480/0%2AWLQ2p57BO-u5JamS.jpg) 
+<figure>[![](img/2587eefc38d533430233426add1aa3b6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--7Ubpy0Gp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/480/0%2AWLQ2p57BO-u5JamS.jpg) 
 
 <figcaption>[终极 Vue JS 2 开发者教程](https://click.linksynergy.com/link?id=qt/jYwyHv8A&offerid=507388.1022582&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fvuejs-2-essentials%2F)</figcaption>
 
@@ -97,7 +97,7 @@
 > 
 > **4.7(18790 收视率)| | 62041 名学生||389 场讲座||21:49 小时**
 
-<figure>[![](../Images/e5a36ed6e8315495d7e04329a0c5e91e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5FnbRYrm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/480/0%2AcTH0c1kLO99YvpBp.jpg)
+<figure>[![](img/e5a36ed6e8315495d7e04329a0c5e91e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5FnbRYrm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/480/0%2AcTH0c1kLO99YvpBp.jpg)
 
 <figcaption>[【vista js 2】—完整指南(包括 vista 路由器&【vuex】](https://click.linksynergy.com/link?id=qt/jYwyHv8A&offerid=507388.995016&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fvuejs-2-the-complete-guide%2F)</figcaption>
 

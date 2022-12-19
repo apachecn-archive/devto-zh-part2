@@ -4,7 +4,7 @@
 
 如果你不知道什么是 [Omnipytent](https://github.com/idanarye/vim-omnipytent) ,先看看这个:
 
-[![idanarye image](../Images/456007709804c1392e9a743b81ebcafc.png)](/idanarye) [## Omnipytent 解释说
+[![idanarye image](img/456007709804c1392e9a743b81ebcafc.png)](/idanarye) [## Omnipytent 解释说
 
 ### idan Arye 12 月 19 日 17 时 15 分阅读
 
@@ -79,7 +79,7 @@ def add_owner(ctx):
 
 这是它实际运行的样子:
 
-[![input buffer example](../Images/73e0b47cb78ad3deebb366c27960abca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_ftBunph--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v45lk1uespbz8g9dg1a2.gif)
+[![input buffer example](img/73e0b47cb78ad3deebb366c27960abca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_ftBunph--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v45lk1uespbz8g9dg1a2.gif)
 
 # `CHOOSE` -选择 ui 的力量
 
@@ -142,7 +142,7 @@ def edit_owner(ctx):
 
 让我们看看它是如何工作的:
 
-[![selection UI example](../Images/155624bd2a94ec0388966d6f69448737.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_M4__EQf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0qgrv68jaryf4h7f8wvw.gif)
+[![selection UI example](img/155624bd2a94ec0388966d6f69448737.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_M4__EQf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0qgrv68jaryf4h7f8wvw.gif)
 
 # 多选和生成器选项任务——一个实际的激励性例子
 
@@ -178,7 +178,7 @@ def run_tests(ctx):
 
 然后我们加入选定的测试，瞧！
 
-[![multi selection example](../Images/8958aca226775d4b6bf9a59bca7aa7ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MiQNo5Qi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wo28my7fd82ddtgp4fsw.gif)
+[![multi selection example](img/8958aca226775d4b6bf9a59bca7aa7ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MiQNo5Qi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wo28my7fd82ddtgp4fsw.gif)
 
 但是...我们仍然需要选择每次想要运行的测试。用 fzf 选择它肯定比键入它好，但是由于我们通常希望在相同的代码区域工作时多次运行相同的测试，如果 Omnipytent 能够记住我们最后的选择就好了。
 
@@ -209,7 +209,7 @@ def run_tests(ctx):
 
 它是这样工作的:
 
-[![multi_options example](../Images/5d4dbd344916d5056bb0d942afdb6be7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DhmOmT41--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4mwtx6kzlaffrors1a22.gif)
+[![multi_options example](img/5d4dbd344916d5056bb0d942afdb6be7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DhmOmT41--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4mwtx6kzlaffrors1a22.gif)
 
 # 结论
 

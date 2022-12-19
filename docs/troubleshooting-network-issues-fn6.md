@@ -80,4 +80,4 @@ Sonos 正在通过 wifi(它自己的 wifi，不是我的主网络)创建网状�
 
 您可以在冒烟图中看到，自从修复后，网络有多干净，并与之前的网络状况的黑烟进行比较…
 
-[![SmokePing](../Images/261c2651d9f04ee956f387176456b0f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---OOnqm5x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://roznet.github.io/assets/smokeping.png)
+[![SmokePing](img/261c2651d9f04ee956f387176456b0f0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---OOnqm5x--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://roznet.github.io/assets/smokeping.png)

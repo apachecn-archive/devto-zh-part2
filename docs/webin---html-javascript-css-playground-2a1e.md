@@ -4,7 +4,7 @@
 
 我最近开始做一个简单的网络游乐场。
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) [普拉纳劳图](https://github.com/pranayrauthu) / [韦宾](https://github.com/pranayrauthu/webin)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) [普拉纳劳图](https://github.com/pranayrauthu) / [韦宾](https://github.com/pranayrauthu/webin)
 
 ### html、css 和 javascript 游乐场
 

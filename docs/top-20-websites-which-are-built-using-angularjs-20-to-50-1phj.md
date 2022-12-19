@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/vaibhavshah/top-20-websites-which-are-built-using-angularjs-20-to-50-1phj>
 
-[![Top 20 Websites Built Using AngularJS](../Images/43713c297e1da08ced73208ec252c457.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XfXryt9h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u8jwbfbtz5d4oy76j7ns.jpg)
+[![Top 20 Websites Built Using AngularJS](img/43713c297e1da08ced73208ec252c457.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XfXryt9h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u8jwbfbtz5d4oy76j7ns.jpg)
 
 AngularJS 网站无处不在。从 2009 年发布到现在，它是 web 上最流行的框架中的佼佼者，你可以在世界的任何一个地方作为开发人员加入。
 

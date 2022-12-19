@@ -12,7 +12,7 @@
 
 为了进行演示，我们将使用 Aspose 将下面的【Microsoft Visio 示例文档转换为 Java 中的 PNG。Java 的图表。但是，您可以在示例代码中使用您选择的任何 Microsoft Visio 文档，它也将被转换为 PNG fine。
 
-[![Sample Microsoft Visio Document to be converted to PNG using Aspose.Diagram API.](../Images/2f521287e49c4c6a25d5685a997838ea.png "Sample Microsoft Visio Document to be converted to PNG using Aspose.Diagram API.")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A9DWG4j---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/AsposeDiagram/AsposeDiagram-Screenshots-and-Sample-Files/master/Convert%2520Microsoft%2520Visio%2520Document%2520to%2520PNG/Microsoft-Visio-Document-to-be-convert-PNG-Aspose.Diagram.png)
+[![Sample Microsoft Visio Document to be converted to PNG using Aspose.Diagram API.](img/2f521287e49c4c6a25d5685a997838ea.png "Sample Microsoft Visio Document to be converted to PNG using Aspose.Diagram API.")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--A9DWG4j---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/AsposeDiagram/AsposeDiagram-Screenshots-and-Sample-Files/master/Convert%2520Microsoft%2520Visio%2520Document%2520to%2520PNG/Microsoft-Visio-Document-to-be-convert-PNG-Aspose.Diagram.png)
 
 # 发牌
 

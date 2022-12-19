@@ -60,7 +60,7 @@ int main () {
 
 在上面的代码片段中，我们成功地创建了一个类，还创建了一个对象，并从父类中为该对象分配了属性。
 
-[![object created](../Images/6a7653d7d35b01168d7aeba0e3506661.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z15-p1qk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/ichtrojan/image/upload/v1538312314/Screenshot_2018-09-30_at_1.57.45_PM_mb0z8z.png)
+[![object created](img/6a7653d7d35b01168d7aeba0e3506661.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z15-p1qk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/ichtrojan/image/upload/v1538312314/Screenshot_2018-09-30_at_1.57.45_PM_mb0z8z.png)
 
 至此，您应该已经了解了类和对象。请注意，一个类不仅限于一个对象，您可以创建任意多的对象。
 
@@ -95,7 +95,7 @@ int main () {
 
 如上面的代码片段所示，创建了一个新对象，并按照父类中的定义为其分配了属性。
 
-[![Two objects created](../Images/0260e7859a883d0a341888a5cc51ec2e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KB8VV4Pn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/ichtrojan/image/upload/v1538312453/Screenshot_2018-09-30_at_1.59.54_PM_nrejof.png)
+[![Two objects created](img/0260e7859a883d0a341888a5cc51ec2e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KB8VV4Pn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/ichtrojan/image/upload/v1538312453/Screenshot_2018-09-30_at_1.59.54_PM_nrejof.png)
 
 ## 什么是行为？
 
@@ -124,7 +124,7 @@ int main () {
 } 
 ```
 
-[![Output](../Images/14d47ea9ec752ef6869965d6d13089ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E6WrNyRr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/ichtrojan/image/upload/v1538312115/Screenshot_2018-09-30_at_1.51.45_PM_bn7aba.png)
+[![Output](img/14d47ea9ec752ef6869965d6d13089ea.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E6WrNyRr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/ichtrojan/image/upload/v1538312115/Screenshot_2018-09-30_at_1.51.45_PM_bn7aba.png)
 
 如上面的代码片段所示，创建了一个函数来传递 public name 变量以打印“Michael 正在运行”。基于分配给该函数/行为的对象，它将通过点符号传递该函数/行为所需的参数。
 
@@ -157,7 +157,7 @@ int main () {
 
 如上所示，我们创建了一个名为`eat`的行为，没有参数，它应该返回“Michael 正在吃饭”或者您声明为`exhibitA` name 的任何名称。
 
-[![Michael is eating](../Images/c4d0360b28b70cdc1aaa3838077a3a35.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bd8IZx-T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/ichtrojan/image/upload/v1538313193/Screenshot_2018-09-30_at_2.12.41_PM_jntguj.png)
+[![Michael is eating](img/c4d0360b28b70cdc1aaa3838077a3a35.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Bd8IZx-T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/ichtrojan/image/upload/v1538313193/Screenshot_2018-09-30_at_2.12.41_PM_jntguj.png)
 
 接下来，我们将通过为另一个名为 eat 的行为要求一个参数来重载`eat`行为。
 
@@ -191,7 +191,7 @@ int main () {
 
 上面的代码片段有第二个`eat`函数，但是需要一个参数，这个参数被传递以形成基于分配给它的对象的“Michael 正在吃米饭”。
 
-[![Michael is eating rice](../Images/6b206de83ef3db8e8a75ce5a842bd841.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tUl_SlSg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/ichtrojan/image/upload/v1538313662/Screenshot_2018-09-30_at_2.20.29_PM_1_vbvi8k.png)
+[![Michael is eating rice](img/6b206de83ef3db8e8a75ce5a842bd841.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tUl_SlSg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/ichtrojan/image/upload/v1538313662/Screenshot_2018-09-30_at_2.20.29_PM_1_vbvi8k.png)
 
 现在，最后让我们创建一个新的接受两个参数的`eat`行为。
 
@@ -230,7 +230,7 @@ int main () {
 
 这个代码片段的最终输出是“Michael 正在吃米饭和豆子”，最后一个`eat`调用触发了重载的`eat`行为，在 human 类中声明了两个参数，因为我们正好传递了两个参数。
 
-[![two parameters](../Images/27d5b4b634d5c5d5253380d356fe2df5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VQmGFCbR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/ichtrojan/image/upload/v1538314708/Screenshot_2018-09-30_at_2.37.07_PM_ybmmsu.png)
+[![two parameters](img/27d5b4b634d5c5d5253380d356fe2df5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--VQmGFCbR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/ichtrojan/image/upload/v1538314708/Screenshot_2018-09-30_at_2.37.07_PM_ybmmsu.png)
 
 如果您注意到声明的所有其他`eat`行为仍然有效，不管在此之前或之后声明的其他`eat`行为。
 

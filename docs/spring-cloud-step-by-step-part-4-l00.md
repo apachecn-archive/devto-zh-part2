@@ -33,7 +33,7 @@ curl -H 'Content-Type:application/json' http://localhost/v1/rentals/{id}/charges
 
 我们的 Spring 云系统现在将包含如下图所示的服务:
 
-[![Spring Cloud system](../Images/e4cd469de5ea1153fa68486789da56ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xTvj2ZJI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z5gyp01la0ajbu1otofz.png)
+[![Spring Cloud system](img/e4cd469de5ea1153fa68486789da56ba.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xTvj2ZJI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z5gyp01la0ajbu1otofz.png)
 
 使用服务发现有不同的方式:
 

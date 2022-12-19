@@ -24,7 +24,7 @@ GCP 还提供“云功能”服务来支持功能技术。
 
 1.进入[谷歌云控制台](https://console.cloud.google.com)，点击云壳图标。
 
-[![function](../Images/a0c030ed83585e7f514710fc3d227923.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FHbOmGRe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1xz2t4o57gdue6qrnjut.PNG)
+[![function](img/a0c030ed83585e7f514710fc3d227923.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FHbOmGRe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1xz2t4o57gdue6qrnjut.PNG)
 
 2.创建一个目录并将目录更改为该目录。
 
@@ -55,7 +55,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 5.一旦部署完毕，检查 url 并使用诸如 postman 或 curl 之类的工具调用它。我在这里用过邮递员。
 
-[![function](../Images/f6dc20d8e9e5e0af0779b565c3cf5f95.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HzRUF8S_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gwpk1jxls4zoa4fqgki9.PNG)
+[![function](img/f6dc20d8e9e5e0af0779b565c3cf5f95.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HzRUF8S_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gwpk1jxls4zoa4fqgki9.PNG)
 
 ### 本地调试经验
 
@@ -102,17 +102,17 @@ Enter fullscreen mode Exit fullscreen mode
 
 5.部署完成后，我可以看到部署的 URL。
 
-[![debug](../Images/97b9b5c5cbbddb336fd21f3066f47565.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9SqG2pMJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5v5ln4sqn05ocmiajhw1.PNG)
+[![debug](img/97b9b5c5cbbddb336fd21f3066f47565.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9SqG2pMJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5v5ln4sqn05ocmiajhw1.PNG)
 
 6.访问网址，以确认它的工作。
 
 7.返回 Visual Studio 代码，并选择调试菜单。然后点击“齿轮图标”，选择“Node.js”
 
-[![debug](../Images/264002a718b61a6ad998a5fa3f8a7945.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C7fFrl34--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9064ti7fupe08cg8tk2d.PNG)
+[![debug](img/264002a718b61a6ad998a5fa3f8a7945.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C7fFrl34--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9064ti7fupe08cg8tk2d.PNG)
 
 8.默认情况下，它会添加“启动”配置。通过开始键入来添加“附加”类型。
 
-[![debug](../Images/69c990bb2959c7bd1526e03aeb9e750f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qBgMyZx---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kc6571pphoj6bg5qn5ke.PNG)
+[![debug](img/69c990bb2959c7bd1526e03aeb9e750f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qBgMyZx---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kc6571pphoj6bg5qn5ke.PNG)
 
 9.运行以下命令启动调试器。
 
@@ -124,11 +124,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 10.它应该向您显示调试器端口。对我来说是 5858，所以将端口更改为 5858。
 
-[![debug](../Images/618d4524f4e8d0780d12806fa5d9897c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YJ-zZlP4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a85dhmv8t1xfbssamzwx.PNG)
+[![debug](img/618d4524f4e8d0780d12806fa5d9897c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YJ-zZlP4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/a85dhmv8t1xfbssamzwx.PNG)
 
 11.然后，在 Visual Studio 代码中，npm -从下拉列表中选择“Attach”并点击 F5。然后将断点设置为 index.js 并进行测试。
 
-[![debug](../Images/74cec1e1b5ff0307798111c770a36625.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b-t5tZgW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rxy6c9oa8smx4f6l197f.PNG)
+[![debug](img/74cec1e1b5ff0307798111c770a36625.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--b-t5tZgW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rxy6c9oa8smx4f6l197f.PNG)
 
 ### 其他调试选项
 

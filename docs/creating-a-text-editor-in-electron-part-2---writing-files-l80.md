@@ -142,7 +142,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们监听`NEW_DOCUMENT_NEEDED`的传输。当我们听到它时，我们显示一个表单(通常的 CSS 类切换)。
 
-[![](../Images/9e200c2a91871375070bf49110f79715.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---bt62m2X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0jc3y1livwh81ef6y6yg.gif)
+[![](img/9e200c2a91871375070bf49110f79715.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---bt62m2X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0jc3y1livwh81ef6y6yg.gif)
 
 然后当表单提交后，我们需要写一个新的文件。
 
@@ -218,7 +218,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这是我们目前掌握的代码图表
 
-[![](../Images/b370ddda653c11d79edb6566359b2d2d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oF1lAsnA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bsr98gyi3fg34kmangpg.png)
+[![](img/b370ddda653c11d79edb6566359b2d2d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--oF1lAsnA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bsr98gyi3fg34kmangpg.png)
 
 正如您所看到的，两个进程之间的这种舞蹈对于我们正在做的事情来说是多余的，但是为了不阻塞 UI，这种事情必须发生。正如我所说的，在更大的应用程序中，这可能还不够。我觉得不是功能，是 bug。
 
@@ -291,7 +291,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 最终结果是:
 
-[![](../Images/9d6c679596a17413ebd5bac19b163bc8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HlIK8Dex--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cpq3d0d9yt5pcz3s3aiz.gif)
+[![](img/9d6c679596a17413ebd5bac19b163bc8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HlIK8Dex--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/cpq3d0d9yt5pcz3s3aiz.gif)
 
 今天到此为止！
 
@@ -311,11 +311,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 同时，在 [github，branch: part2](https://github.com/aurelkurtula/Texty/tree/part2) 查看项目
 
-[![aurelkurtula image](../Images/e1a1b48b6a401b86d5a91c8729e26a35.png)](/aurelkurtula) [## 在 electronic 中创建文本编辑器:第 1 部分-读取文件
+[![aurelkurtula image](img/e1a1b48b6a401b86d5a91c8729e26a35.png)](/aurelkurtula) [## 在 electronic 中创建文本编辑器:第 1 部分-读取文件
 
 ### aurel Kurt ula 9 月 5 日 182 分钟阅读
 
-#electron #javascript #node](/aurelkurtula/creating-a-text-editor-in-electron-reading-files-13b8)[![aurelkurtula image](../Images/e1a1b48b6a401b86d5a91c8729e26a35.png)](/aurelkurtula) [## 在 electronic 中创建文本编辑器:第 3 部分-设置首选项
+#electron #javascript #node](/aurelkurtula/creating-a-text-editor-in-electron-reading-files-13b8)[![aurelkurtula image](img/e1a1b48b6a401b86d5a91c8729e26a35.png)](/aurelkurtula) [## 在 electronic 中创建文本编辑器:第 3 部分-设置首选项
 
 ### aurel Kurt ula 9 月 12 日 187 分钟阅读
 

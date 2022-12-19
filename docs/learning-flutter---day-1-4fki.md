@@ -8,7 +8,7 @@
 
 本帖经过第一课 1 至 9 集(共 2 课):
 
-[![](../Images/29613a8999feeeea65bdf51bf5102b4a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rY91wEk---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p3md37fmwqb4v8unsz26.png)
+[![](img/29613a8999feeeea65bdf51bf5102b4a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--rY91wEk---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p3md37fmwqb4v8unsz26.png)
 
 ## 随机标注
 
@@ -16,7 +16,7 @@
 
 超级慢的东西是启动时间，热重装足够快，考虑到它必须在连接到 USB 的手机上重新绘制应用程序的一部分。初始化速度很慢:
 
-[![](../Images/2c2a38d7025b978ab0ccccb7aa19e4c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eu3_5OfG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o3a2q5rggvyomp7vlwvc.png)
+[![](img/2c2a38d7025b978ab0ccccb7aa19e4c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eu3_5OfG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o3a2q5rggvyomp7vlwvc.png)
 
 从我输入`flutter run`到手机上的应用程序启动，超过 4 分钟。希望你只需要做一次，然后你就可以使用热重装。这是标准的 Flutter 应用程序在创建时生成的:一个递增计数器的按钮。
 
@@ -28,7 +28,7 @@ Visual Studio 代码有一个扩展，基本上嵌入了所有 Flutter 的工具
 
 您还可以从 VS 代码(和命令行)启动测试，这非常酷。测试看起来像这样:
 
-[![](../Images/108646e9785e6bd20b9c0813d376a018.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_3WiOmk8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bcpwtgxmgb7fgw3lt7yf.png)
+[![](img/108646e9785e6bd20b9c0813d376a018.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_3WiOmk8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bcpwtgxmgb7fgw3lt7yf.png)
 
 我试过了，他们通过了。我已经开始上课了。
 
@@ -36,7 +36,7 @@ Visual Studio 代码有一个扩展，基本上嵌入了所有 Flutter 的工具
 
 我目前有开放的 Visual Studio 代码来输入内容，还有 Android Studio 来运行应用程序。这有点适得其反，但我还没有准备好接受 Android Studio，在它里面呆了五分钟后，我宣布它是一个很好的 IDE，但却是一个糟糕的文本编辑器。幸运的是，它们彼此同步得很好，因为它们检测到项目文件夹中的文件变化。
 
-[![](../Images/217c296d717ec8797cb9fb6d896a2c09.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E_jDvKvP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/59zp6635qjzra38ldtqu.png)
+[![](img/217c296d717ec8797cb9fb6d896a2c09.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--E_jDvKvP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/59zp6635qjzra38ldtqu.png)
 
 ## 好的，坏的，不知道的
 

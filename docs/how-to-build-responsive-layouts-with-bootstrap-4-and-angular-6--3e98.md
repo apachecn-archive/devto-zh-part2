@@ -10,6 +10,6 @@
 
 或者对于更视觉化的人来说…
 
-[![Responsive design animation](../Images/490975bedd2842ae18ecc0715dbae257.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FlrzR75e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l86gtvuiqkerbo7qza3l.gif)
+[![Responsive design animation](img/490975bedd2842ae18ecc0715dbae257.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FlrzR75e--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/l86gtvuiqkerbo7qza3l.gif)
 
 [阅读更多...](https://medium.com/@tomastrajan/how-to-build-responsive-layouts-with-bootstrap-4-and-angular-6-cfbb108d797b)

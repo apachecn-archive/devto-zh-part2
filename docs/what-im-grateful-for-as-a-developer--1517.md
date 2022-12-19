@@ -6,7 +6,7 @@
 
 祝我们美国人感恩节快乐！
 
-[![Monica Gellar from TV show Friends with a turkey over her head putting on sunglasses.](../Images/e92b9f74deac798bace6e189f60704bd.png)T2】](https://i.giphy.com/media/PjYfyarIEsNGM/giphy.gif)
+[![Monica Gellar from TV show Friends with a turkey over her head putting on sunglasses.](img/e92b9f74deac798bace6e189f60704bd.png)T2】](https://i.giphy.com/media/PjYfyarIEsNGM/giphy.gif)
 
 我现在在这个行业大概 4 年半了。本着感恩的精神(在美国)，我想列一个具体的清单，列出我作为开发人员的旅程中要感谢的事情。
 
@@ -20,7 +20,7 @@
 
 当我 7 岁的时候，我被诊断患有多动症，并且一直在分心的事物中挣扎，因为它们变得越来越复杂。电话和桌面通知、短信和社交媒体对我们这些已经很难集中注意力的人没有帮助。
 
-[![Neil Patrick Harris tossing papers that say productivity on it.](../Images/fea927c193a530e1ffbea72d1e11f8f3.png)T2】](https://i.giphy.com/media/B2NKPKFTHtB7rTYNhN/giphy.gif)
+[![Neil Patrick Harris tossing papers that say productivity on it.](img/fea927c193a530e1ffbea72d1e11f8f3.png)T2】](https://i.giphy.com/media/B2NKPKFTHtB7rTYNhN/giphy.gif)
 
 我知道我不是唯一一个与分心做斗争的人，尤其是那些总是将他们的注意力从他们的代码上转移开的开发人员。我感谢许多开发人员和企业家设计了工具来帮助我们保持组织性。以下是帮助我提高工作效率的应用程序，它们最终帮助我减少了焦虑:
 
@@ -42,7 +42,7 @@
 
 我很感激有一个平台来帮助其他人实现网络无障碍。开博客已经脱离了我的舒适区，但却令人难以置信地值得。这是一次奇妙的经历，在这里我可以教学和帮助他人，同时也挑战自己学习和成长。我喜欢看到人们有最终明白的时刻。
 
-[![Hamster with glasses on reading a book, a metaphor for learning.](../Images/ce5914f78c7287dbbaca67774955c6bb.png)T2】](https://i.giphy.com/media/tHufwMDTUi20E/giphy.gif)
+[![Hamster with glasses on reading a book, a metaphor for learning.](img/ce5914f78c7287dbbaca67774955c6bb.png)T2】](https://i.giphy.com/media/tHufwMDTUi20E/giphy.gif)
 
 写博客和教别人也鼓励我进一步挖掘自己的才能和技能。这也迫使我更深入地解释事情，并扩展我对可访问性的看法。我上一篇关于阅读障碍的文章是我在开始写这个博客之前从未考虑过的，在这个过程中我学到了很多！
 

@@ -40,11 +40,11 @@ Firebase 是一个开发者可以轻松开发移动(iOS 和 Android)和 Web app 
 
 1.进入 [Firebase 控制台](https://console.firebase.google.com)并使用谷歌账户登录，然后点击“添加项目”。
 
-[![console](../Images/16a3531de47b1754ef804b9668da7355.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bhcx5fV8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3sj0qo83ryqkovbbsiot.PNG)
+[![console](img/16a3531de47b1754ef804b9668da7355.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bhcx5fV8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3sj0qo83ryqkovbbsiot.PNG)
 
 2.输入项目名称并创建项目。你也可以链接到 GCP 项目。
 
-[![console](../Images/89fc523dce000b7ab5276a80aaf773f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0DSFhHIp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q0o1cc6zbyolnc7h5066.PNG)
+[![console](img/89fc523dce000b7ab5276a80aaf773f9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0DSFhHIp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q0o1cc6zbyolnc7h5066.PNG)
 
 3.打开命令提示符或控制台，并运行以下命令。
 
@@ -70,11 +70,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 2.Firebase SDK 初始化项目。选择数据库和托管。
 
-[![init](../Images/32315a66c8cc6aecd09f140e5833f738.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OO0XZd-d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3l88q1ohpcxammc5wc7e.PNG)
+[![init](img/32315a66c8cc6aecd09f140e5833f738.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OO0XZd-d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3l88q1ohpcxammc5wc7e.PNG)
 
 3.然后，选择要关联的 firebase 项目。我可以从这里创建新项目，但我仍然需要在控制台中手动创建 firebase 项目。
 
-[![init](../Images/d0499300fe4de933711cdf596ba84ab9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qu2mwoD7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fse2xumra6k3c4lpipwc.PNG)
+[![init](img/d0499300fe4de933711cdf596ba84ab9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Qu2mwoD7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fse2xumra6k3c4lpipwc.PNG)
 
 4.选择数据库和主机的默认选项，并完成初始化。运行以下命令为应用程序提供服务。
 
@@ -86,7 +86,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 5.访问中显示的 URL 以确认它已启动并正在运行。 [http://localhost:5000](http://localhost:5000) 默认。
 
-[![init](../Images/a79bf81599dcaeeaf38bc3757483e18a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sEGfaif8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/clof90bg54ruyw6zvozr.PNG)
+[![init](img/a79bf81599dcaeeaf38bc3757483e18a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--sEGfaif8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/clof90bg54ruyw6zvozr.PNG)
 
 6.停止该服务，并通过 Visual Studio 代码打开文件夹。
 
@@ -123,19 +123,19 @@ Enter fullscreen mode Exit fullscreen mode
 
 1.首先，启用实时数据库。转到 firebase 控制台，选择“数据库”，然后单击“开始”实时数据库。
 
-[![console](../Images/6b50238391851767d59684d2701a280c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ySIlHKkR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fj299jpu63tbrxeeepp6.PNG)
+[![console](img/6b50238391851767d59684d2701a280c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ySIlHKkR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fj299jpu63tbrxeeepp6.PNG)
 
 2.选择“测试模式”,打开安全测试并启用它。
 
-[![console](../Images/37108dd0324cb1832393ecbba495b197.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tF7EB3FP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pcbss06tyz87tx47j99z.PNG)
+[![console](img/37108dd0324cb1832393ecbba495b197.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tF7EB3FP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pcbss06tyz87tx47j99z.PNG)
 
 3.单击“添加子代”添加字段。
 
-[![console](../Images/2ef6f9dc3fd56d4fc5e9d1338ba00106.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--icrIJNXJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/haojduy2u0yjti4c4t5x.PNG)
+[![console](img/2ef6f9dc3fd56d4fc5e9d1338ba00106.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--icrIJNXJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/haojduy2u0yjti4c4t5x.PNG)
 
 4.添加“文本”字段并输入任意值。
 
-[![console](../Images/ab16f8eb79533ceb7d8dc868fdf4c0fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Yny7K5mx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/drttm9uolwmzy24e4jry.PNG)
+[![console](img/ab16f8eb79533ceb7d8dc868fdf4c0fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Yny7K5mx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/drttm9uolwmzy24e4jry.PNG)
 
 5.编辑 main.js，如下所示。
 
@@ -170,7 +170,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 7.全部保存并刷新页面。我可以从数据库中看到的价值。
 
-[![app](../Images/5f1f0ce72a481fff5417076175d9a3c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1C5AVYck--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4lcnm1usk63xxqbi22wm.PNG)
+[![app](img/5f1f0ce72a481fff5417076175d9a3c7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1C5AVYck--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4lcnm1usk63xxqbi22wm.PNG)
 
 8.更改数据库中的值，并确认更改实时反映。
 
@@ -180,11 +180,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 1.首先，在控制台上启用身份验证。转到 Firebase 控制台，选择“身份验证”，然后单击“设置登录方法”。
 
-[![auth](../Images/0ed4746ed8857be3e53cc6b83a600566.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6LfoACcZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lartrha5wyh50pygnhny.PNG)
+[![auth](img/0ed4746ed8857be3e53cc6b83a600566.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6LfoACcZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lartrha5wyh50pygnhny.PNG)
 
 2.点击“脸书”勾选启用。然后添加屏幕上显示的必要信息。
 
-[![auth](../Images/89d777e709ef88b765a83c5350f5ef8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tAoIe9Uq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ri2xb0ar8hnpbigwsj9u.PNG)
+[![auth](img/89d777e709ef88b765a83c5350f5ef8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tAoIe9Uq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ri2xb0ar8hnpbigwsj9u.PNG)
 
 3.替换 main.js 中的代码以使用 firebase auth。
 
@@ -283,17 +283,17 @@ Enter fullscreen mode Exit fullscreen mode
 
 6.全部保存并刷新浏览器。我可以看到脸书登录按钮。
 
-[![auth](../Images/3aca12345733b9e86f5346e4b4a24f63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--shQeK6LN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/niz1fy0135nkjsqooi9z.PNG)
+[![auth](img/3aca12345733b9e86f5346e4b4a24f63.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--shQeK6LN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/niz1fy0135nkjsqooi9z.PNG)
 
 7.登录到脸书，并确认我得到我的登录信息。
 
-[![auth](../Images/4f01040707fe4190f3ba51c15e5b1bd7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e4lJRYb3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0ycqj7g25vzfki4npc7u.PNG)
+[![auth](img/4f01040707fe4190f3ba51c15e5b1bd7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e4lJRYb3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0ycqj7g25vzfki4npc7u.PNG)
 
 8.单击“注销”按钮注销。
 
 9.返回 Firebase 控制台，然后转到身份验证|用户。我可以看到我刚刚登录的用户已经创建。
 
-[![auth](../Images/30efb41b4cf4591806e9b2714f7f66cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--35kQZpec--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e9qv6ifw3dcokxzujp75.PNG)
+[![auth](img/30efb41b4cf4591806e9b2714f7f66cd.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--35kQZpec--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/e9qv6ifw3dcokxzujp75.PNG)
 
 # 托管
 
@@ -309,11 +309,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 2.部署完成后，对 URL 的访问显示为部署命令的结果。
 
-[![deploy](../Images/1ff1e85a7942203712e9e5f76b135121.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g5nXze0_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gqnkxz8skhsh26fr5pqs.PNG)
+[![deploy](img/1ff1e85a7942203712e9e5f76b135121.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--g5nXze0_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gqnkxz8skhsh26fr5pqs.PNG)
 
 3.返回控制台并选择“托管”以确认信息。
 
-[![deploy](../Images/3bf665d897d30a894f1278a564125843.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tWz6Eyof--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n9acfqpkpf0rmwsm9049.PNG)
+[![deploy](img/3bf665d897d30a894f1278a564125843.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tWz6Eyof--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n9acfqpkpf0rmwsm9049.PNG)
 
 # 消息/推送通知
 
@@ -325,7 +325,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 1.在公共文件夹下添加 firebase-messaging-sw.js 文件。
 
-[![push](../Images/a9f328d3a5b54fd80b0dedc0e25995ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5zVWqkDe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hrb60llkbw1dfc0kj65h.PNG)
+[![push](img/a9f328d3a5b54fd80b0dedc0e25995ae.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5zVWqkDe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hrb60llkbw1dfc0kj65h.PNG)
 
 2.添加以下脚本。
 
@@ -477,7 +477,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 9.全部保存并刷新浏览器。如果尚未登录，请单击“订阅”按钮，并确认令牌在数据库端有值。
 
-[![push](../Images/78f5dc1d1caaa6d391f14e2645bc90b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n9HkqC2H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ov6qm2pyumb40dqkejyp.PNG)
+[![push](img/78f5dc1d1caaa6d391f14e2645bc90b0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--n9HkqC2H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ov6qm2pyumb40dqkejyp.PNG)
 
 10.点击“取消订阅”按钮确认该值被删除。
 
@@ -494,7 +494,7 @@ Enter fullscreen mode Exit fullscreen mode
 *   标题:授权:密钥=
 *   标题:内容类型:应用程序/json
 
-[![postman](../Images/330312156fd090e985c1e0d709ef734d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_6WbT8mv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w82wgpt2980yso2rhurf.PNG)
+[![postman](img/330312156fd090e985c1e0d709ef734d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_6WbT8mv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/w82wgpt2980yso2rhurf.PNG)
 
 3.按如下方式指定主体。当您订阅推送通知时，用存储在数据库中的令牌替换“to”值。您也可以更改任何值。对于图标，我使用我的 dev.to 图标，并指定单击本地主机地址的动作。
 
@@ -506,11 +506,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 4.打开浏览器，进入 [http://localhost:5000](http://localhost:5000) ，然后按 F12 打开开发者控制台。然后从邮递员那里发送通知。您可以在控制台中看到收到的消息。
 
-[![push](../Images/03956ae2d22355d5ed5c99e369af4c87.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YndwnZ9H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/443ewg9do70v72v2rv5c.PNG)
+[![push](img/03956ae2d22355d5ed5c99e369af4c87.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YndwnZ9H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/443ewg9do70v72v2rv5c.PNG)
 
 5.最小化浏览器并再次发送通知。这一次，您会在操作系统中看到推送通知弹出窗口。
 
-[![push](../Images/811fa860a97f178a4f5e29c28ac6b2ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RkeVjgL1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9m9lw9ty3gwmpnxfpdgh.PNG)
+[![push](img/811fa860a97f178a4f5e29c28ac6b2ac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RkeVjgL1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9m9lw9ty3gwmpnxfpdgh.PNG)
 
 6.点击通知并确认 [http://localhost:5000](http://localhost:5000) 已打开。
 

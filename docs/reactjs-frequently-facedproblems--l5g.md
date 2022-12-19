@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/pluralsight/reactjs-frequently-facedproblems--l5g>
 
-[![](../Images/49de01910e4504bfbe526723668a5813.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YCW2sbg1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2ADX7mdH16kcPMxE5MWs66FQ.png)
+[![](img/49de01910e4504bfbe526723668a5813.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--YCW2sbg1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2ADX7mdH16kcPMxE5MWs66FQ.png)
 
 在 [**jsComplete**](https://jscomplete.com) ，我们管理一个 [slack 账户](https://slackin-bfcnswvsih.now.sh/)，致力于帮助代码学习者摆脱困境。我们不时会收到一些有趣的问题，但大多数问题都是常见问题。我创建这个资源来为初学者 React.js 学习者通常面临的常见问题编写详细的说明，以便我可以在这里引用它们，而不是一遍又一遍地输入。
 
@@ -36,7 +36,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这里更大的问题是当你决定将你的组件命名为`button`或`img`时。React 将忽略你的组件，只呈现一个普通的 HTML `button`或`img`标签。
 
-[![](../Images/7be02721f1b534170fceaeff89bcde57.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JBXEY0w3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A1DVD4DOgHfqAYXhQX1YYSw.png)
+[![](img/7be02721f1b534170fceaeff89bcde57.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--JBXEY0w3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A1DVD4DOgHfqAYXhQX1YYSw.png)
 
 请注意上面的“我的牛逼按钮”并没有呈现，React 只是呈现了一个空的 HTML 按钮元素。在这种情况下，React 不会警告您。
 
@@ -505,13 +505,13 @@ React 内部确保其类方法中的“`this`”引用实例。然而，当您�
 
 `whoIsThis`中的`console.dir`行将正确报告组件实例，因为该方法是用一个*显式*调用者(`this`)从`render`方法中直接调用*。当您执行上面的代码时，您应该会在控制台中看到`Greeting`对象:*
 
-[![](../Images/daa8d140083e4ee461de2b09c57ae02f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xPDiGjhR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Akaoe2WU6rYWm2M5pTNfdlg.png)
+[![](img/daa8d140083e4ee461de2b09c57ae02f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xPDiGjhR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2Akaoe2WU6rYWm2M5pTNfdlg.png)
 
 然而，当您在一个*延迟执行*通道中使用相同的方法时，比如一个*事件处理程序*，调用者将不再是显式的，并且`console.dir`行将不会报告组件实例。
 
 参见下面的代码和输出(点击后)。
 
-[![](../Images/0c99d2aa07b65044c62a1eec1c3560fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ge2hfjj4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A0A_QcuHnHG3IjMTiTySFaA.png)
+[![](img/0c99d2aa07b65044c62a1eec1c3560fa.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Ge2hfjj4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A0A_QcuHnHG3IjMTiTySFaA.png)
 
 在上面的代码中，当您单击字符串时，React 调用`whoIsThis`方法，但是它不会让您访问其中的组件实例。这就是为什么当我们点击字符串时会得到`undefined`。如果你的类方法需要访问像`this.props`和`this.state`这样的东西，这是一个问题。这根本行不通。
 
@@ -537,7 +537,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 这将按预期工作:
 
-[![](../Images/fd5bf96f888dd31c7be0e7f312555c8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qmLrX8JN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AyXSginjJHz7jZsCG_-K6Mw.png)
+[![](img/fd5bf96f888dd31c7be0e7f312555c8f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qmLrX8JN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AyXSginjJHz7jZsCG_-K6Mw.png)
 
 目前就这些。感谢阅读。
 
@@ -545,7 +545,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 查看我的[通过构建游戏学习 react . js](https://jscomplete.com/learn-react-js-by-building-games)书:
 
-[![](../Images/2cfd48f41bbd006064708164cdae08f4.png)T2】](https://jscomplete.com/learn-react-js-by-building-games)
+[![](img/2cfd48f41bbd006064708164cdae08f4.png)T2】](https://jscomplete.com/learn-react-js-by-building-games)
 
 我还有其他几本书，你可能会感兴趣:
 

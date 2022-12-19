@@ -142,7 +142,7 @@ this.render = observe(this.render, {
 
 如果不再使用存储对象或组件，则必须清理它们之间的所有关系。这需要一些交叉引用——因为这些关系必须可以被`component`、`object`和`(object, property)`对查询。长话短说，我搞砸了，Easy State 背后的反应核心泄露了整整一年的内存。
 
-[![Memory leak](../Images/5cf40509f746bd2a177467fba9704320.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FqetZFA---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iau9fu624z8z18129qft.png)
+[![Memory leak](img/5cf40509f746bd2a177467fba9704320.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FqetZFA---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/iau9fu624z8z18129qft.png)
 
 在解决这个问题的无数“聪明”的方法之后，我解决了在所有渲染之前擦除组件的每一个关系。在渲染过程中，这些关系将从触发的 get 陷阱中再次建立。
 
@@ -247,11 +247,11 @@ const traps = {
 
 一些内置的 JavaScript 对象——比如 ES6 集合——有特殊的“内部插槽”。这些隐藏的代码片段不能被修改，它们可能对自己的`this`值有所期望。如果有人用意想不到的`this`呼叫他们，他们会以`incompatible receiver error`失败。
 
-[![Error](../Images/5d586e187874d03c0c7eede8cc97e80d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cRR6MRVm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2l75o0nhylaivvxjp4x5.png)
+[![Error](img/5d586e187874d03c0c7eede8cc97e80d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cRR6MRVm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2l75o0nhylaivvxjp4x5.png)
 
 不幸的是，在这些情况下，代理也是无效的接收者，代理包装的对象抛出同样的错误。
 
-[![Proxy error](../Images/d8fcdb6b45293afad39512f44d66de0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OX_3nEmK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nhjj3ysgafsosfhip0cq.png)
+[![Proxy error](img/d8fcdb6b45293afad39512f44d66de0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--OX_3nEmK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nhjj3ysgafsosfhip0cq.png)
 
 为了解决这个问题，我必须为内置对象找到一个可行的替代代理。幸运的是，它们都有一个基于函数的接口，所以我可以求助于老式的猴子补丁。
 

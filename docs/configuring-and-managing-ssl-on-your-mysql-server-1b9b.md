@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/scalegrid/configuring-and-managing-ssl-on-your-mysql-server-1b9b>
 
-[![Configuring and Managing SSL On Your MySQL Server - ScaleGrid Blog](../Images/ebba46602ca59b0666c1a891766b91d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hmM6Xo5f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mongodb.scalegrid.io/hubfs/Configuring-and-Managing-SSL-on-Your-MySQL-Server-ScaleGrid-Blog-150551-edited.png)
+[![Configuring and Managing SSL On Your MySQL Server - ScaleGrid Blog](img/ebba46602ca59b0666c1a891766b91d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--hmM6Xo5f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://mongodb.scalegrid.io/hubfs/Configuring-and-Managing-SSL-on-Your-MySQL-Server-ScaleGrid-Blog-150551-edited.png)
 
 在这篇博文中，我们回顾了在 MySQL hosting 中配置和管理 SSL 的一些重要方面。这些包括默认配置、禁用 SSL 以及在 MySQL 服务器上启用和实施 SSL。我们的观察基于 MySQL 5.7.21 的社区版本。
 

@@ -22,7 +22,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 对此我回答道:
 
-> ![Matt Sparks profile image](../Images/70df7b83166ac7ab2a60fb77b6fa1963.png)马特火花@ development Matt![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)[@ Nikola posa](https://twitter.com/nikolaposa)我喜欢标量对象。2018 年 7 月 16 日 21 点 32 分[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1018971564287713281)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1018971564287713281)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1018971564287713281)
+> ![Matt Sparks profile image](img/70df7b83166ac7ab2a60fb77b6fa1963.png)马特火花@ development Matt![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)[@ Nikola posa](https://twitter.com/nikolaposa)我喜欢标量对象。2018 年 7 月 16 日 21 点 32 分[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1018971564287713281)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1018971564287713281)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1018971564287713281)
 
 ## PHP 中标量对象的情况
 

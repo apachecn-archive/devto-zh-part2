@@ -4,7 +4,7 @@
 
 你可以在这里找到这篇文章的源代码:
 
-## ![GitHub logo](../Images/75095a8afc1e0f207cda715962e75c8d.png)[AngelMunoz](https://github.com/AngelMunoz)/[tun-stencil-sample](https://github.com/AngelMunoz/tun-stencil-sample)
+## ![GitHub logo](img/75095a8afc1e0f207cda715962e75c8d.png)[AngelMunoz](https://github.com/AngelMunoz)/[tun-stencil-sample](https://github.com/AngelMunoz/tun-stencil-sample)
 
 ### 一个模板网站的例子，也可以导出为组件库
 

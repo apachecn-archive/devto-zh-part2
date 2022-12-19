@@ -10,7 +10,7 @@
 
 ## “Whaaaaat？”
 
-[![whaaaaat](../Images/b984a79c281f0308709722350b6cbf17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wqsZDlDC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://i0.kym-cdn.com/photos/images/newsfeed/000/768/057/7e2.gif)
+[![whaaaaat](img/b984a79c281f0308709722350b6cbf17.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wqsZDlDC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/http://i0.kym-cdn.com/photimg/newsfeed/000/768/057/7e2.gif)
 
 让我解释一下！我们建议你一句一句地讲一个故事(一个小故事)。每次选择一个句子，我们都会试着用代码来表达这个故事。
 

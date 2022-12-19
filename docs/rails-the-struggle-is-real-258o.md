@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/swlkr/rails-the-struggle-is-real-258o>
 
-[![](../Images/5a484293b924bd713660a2f7afe53c2b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a9BHJ9X6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0rrawr2rjzh2j16018hi.jpeg)
+[![](img/5a484293b924bd713660a2f7afe53c2b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a9BHJ9X6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0rrawr2rjzh2j16018hi.jpeg)
 
 我不知道我花了多少时间去寻找最简单的事情，但是我最终挠头了，因为我被迫用一种疯狂复杂的方式去做，因为一些丹麦人认为这是一个好主意。不要曲解，rails 有一些积极的东西，但对我来说有意义不是其中之一。让我给你一些我反复处理的 WTF 时刻的具体例子。
 

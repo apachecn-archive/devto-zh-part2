@@ -9,7 +9,7 @@
 如果您观察上面的模式，第一个值是 0，第二个值是 1，后面的数字是前面两个数字相加的结果。例如，第三个值是(0 + 1)，第四个值是(1 + 1)，依此类推。
 
 [Java 中的斐波那契数列](https://www.skptricks.com/2018/09/fibonacci-series-code-in-java.html)
-[![](../Images/612d8e9918ac02b0f8b04ac1536d0cc8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Farex5Sp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://4.bp.blogspot.com/-vEoRYWc1_z4/W6Mor-RPYfI/AAAAAAAAB5U/qR1qhkwvIo8bio9M1LmEb_ZpbTA1XmcfwCLcBGAs/s400/ja.png)
+[![](img/612d8e9918ac02b0f8b04ac1536d0cc8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Farex5Sp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://4.bp.blogspot.com/-vEoRYWc1_z4/W6Mor-RPYfI/AAAAAAAAB5U/qR1qhkwvIo8bio9M1LmEb_ZpbTA1XmcfwCLcBGAs/s400/ja.png)
 
 在数学术语中，斐波那契数列 Fn 由递归关系
 Fn = Fn-1 + Fn-2

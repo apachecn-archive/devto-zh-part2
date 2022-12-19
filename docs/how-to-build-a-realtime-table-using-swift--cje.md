@@ -6,7 +6,7 @@
 
 在本文中，您将看到如何使用 iOS 和 Pusher 创建一个在所有设备上实时更新的表格。你可以在下面看到应用程序如何工作的屏幕记录。
 
-[![](../Images/e069d38fd884f295afd9cdeee7feccac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vA5uoWfv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/11/How-to-build-a-realtime-table-using-Swift-6.gif)
+[![](img/e069d38fd884f295afd9cdeee7feccac.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vA5uoWfv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/11/How-to-build-a-realtime-table-using-Swift-6.gif)
 
 在上面的记录中，您可以看到在一个设备上对表所做的更改是如何立即镜像到另一个设备上的。让我们考虑如何使用 Pusher 和 Swift 来实现这一点。
 
@@ -51,17 +51,17 @@ Enter fullscreen mode Exit fullscreen mode
 
 打开`Main.storyboard`文件。将导航控制器拖放到情节提要中，并将入口点设置为新的导航控制器。现在，您的故事板中应该有这样的内容:
 
-[![](../Images/762db5c6e8cdd2ee8ee041c420762711.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RoracnMA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/11/How-to-build-a-realtime-table-using-Swift-1.png)
+[![](img/762db5c6e8cdd2ee8ee041c420762711.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RoracnMA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/11/How-to-build-a-realtime-table-using-Swift-1.png)
 
 正如在截图中看到的，我们有一个简单的导航控制器，我们已经将附加到它的表格视图控制器作为我们的根视图控制器。
 
 现在我们需要向表格单元格添加一个重用标识符。单击原型单元格，并添加一个新的重用标识符。
 
-[![](../Images/a11ba904ca2ef1016ee8f6c4d49fe992.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U1RfBh4n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/11/How-to-build-a-realtime-table-using-Swift-2.png)
+[![](img/a11ba904ca2ef1016ee8f6c4d49fe992.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U1RfBh4n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/11/How-to-build-a-realtime-table-using-Swift-2.png)
 
 我们已经将我们的重用标识符命名为用户**T2，但是您可以随意称呼这个重用标识符。接下来，创建一个新的`TableViewController`，并使用故事板的身份检查器将它附加到根视图控制器，如下所示:**
 
-[![](../Images/a7eaff1d61138d953ed29f1eea73e4c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4mnDGx0z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/11/How-to-build-a-realtime-table-using-Swift-3.png)
+[![](img/a7eaff1d61138d953ed29f1eea73e4c6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4mnDGx0z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/11/How-to-build-a-realtime-table-using-Swift-3.png)
 
 太好了！现在我们已经完成了应用程序的用户界面，让我们开始创建将填充并使我们的 iOS 表实时化的逻辑。
 
@@ -218,7 +218,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在，我们有了一个没有连接到任何 API 的工作原型。如果您在此时运行应用程序，您将能够看到所有的函数，它们将会工作，但是不会被持久化，因为它是硬编码的。
 
-[![](../Images/8d1e69a5da2b036c389ca86751b58b60.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BaSpmWzc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/11/How-to-build-a-realtime-table-using-Swift-4.png)
+[![](img/8d1e69a5da2b036c389ca86751b58b60.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BaSpmWzc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/11/How-to-build-a-realtime-table-using-Swift-4.png)
 
 很好，但是现在我们需要添加一个数据源。为此，我们将需要创建一个 Node.js 后端，然后我们的应用程序将能够调用它来检索数据。此外，当通过重新排序或删除修改数据时，请求被发送到后端，更改被存储在那里。
 
@@ -738,7 +738,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 一旦您的本地节点 web 服务器开始运行，您将需要进行一些更改，以便您的应用程序可以与本地 web 服务器通信。在`info.plist`文件中，进行以下更改:
 
-[![](../Images/ff8941a2c355ba94a7b549bd259b34fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D8dzqj3V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/11/How-to-build-a-realtime-table-using-Swift-5.png)
+[![](img/ff8941a2c355ba94a7b549bd259b34fe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--D8dzqj3V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://blog.pusher.com/wp-content/uploads/2017/11/How-to-build-a-realtime-table-using-Swift-5.png)
 
 通过这一更改，您可以构建并运行您的应用程序，它将直接与您的本地 web 应用程序对话。
 

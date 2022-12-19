@@ -24,7 +24,7 @@
 
 *   通过将你的网站和网站地图添加到谷歌搜索控制台，你基本上是在告诉谷歌“嗨，我的名字是某某，这是我的地址，这里你可以看到我的客厅，那是我的厨房，哦，我差点忘了门廊…”；).
 
-[![An illustratin depicting a network of devices](../Images/33f9d8010d9662736ac7ca812608f34b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BuvxV1Br--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://delivery.eusi.cloud/api/v1/f1a4305c-e431-4668-ae4c-02f78c656a41/media/s3/1538239337662_JSGuru-Body-Image-1.png)
+[![An illustratin depicting a network of devices](img/33f9d8010d9662736ac7ca812608f34b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--BuvxV1Br--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://delivery.eusi.cloud/api/v1/f1a4305c-e431-4668-ae4c-02f78c656a41/media/s3/1538239337662_JSGuru-Body-Image-1.png)
 
 # 1。谷歌搜索控制台
 
@@ -338,7 +338,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 当谈到博客的实现时，你仍然应该至少部分地坚持老派的服务器端渲染方法，因为谷歌索引是两遍的，第二遍是针对 JS 网站的，这是在第一遍之后一周，特别是如果你的商业模式是以出版为中心的话。保罗·金兰在推特上证实了这一点:
 
-> ![Paul Kinlan profile image](../Images/b713c3aa8e92a24455e0e7e915a8a2df.png)保罗·金兰[@保罗 _ 金兰](https://dev.to/paul_kinlan)![twitter logo](../Images/4c8a2313941dda016bf4d78d103264aa.png)[@ HenrikJoreteg](https://twitter.com/HenrikJoreteg)索引对于纯客户端侧是延迟的。Google 索引器是两遍的，第一遍运行是不带 js 的，然后一周以后是带 is 的2018 年 9 月 12 日下午 12 点 26 分[![Twitter reply action](../Images/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1039852756113080320)[![Twitter retweet action](../Images/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1039852756113080320)[![Twitter like action](../Images/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1039852756113080320)
+> ![Paul Kinlan profile image](img/b713c3aa8e92a24455e0e7e915a8a2df.png)保罗·金兰[@保罗 _ 金兰](https://dev.to/paul_kinlan)![twitter logo](img/4c8a2313941dda016bf4d78d103264aa.png)[@ HenrikJoreteg](https://twitter.com/HenrikJoreteg)索引对于纯客户端侧是延迟的。Google 索引器是两遍的，第一遍运行是不带 js 的，然后一周以后是带 is 的2018 年 9 月 12 日下午 12 点 26 分[![Twitter reply action](img/44d8b042100e231770330321e5b63d65.png)](https://twitter.com/intent/tweet?in_reply_to=1039852756113080320)[![Twitter retweet action](img/93d9c70ccc54851d2e8e881b53c21dae.png)](https://twitter.com/intent/retweet?tweet_id=1039852756113080320)[![Twitter like action](img/2e93f7775eadefab8bcd34a4542cc5a7.png)](https://twitter.com/intent/like?tweet_id=1039852756113080320)
 
 # 11。谷歌页面洞察
 

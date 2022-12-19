@@ -14,7 +14,7 @@ Fargate 是即将到来的第二个服务，旨在从你那里抽象出容器之
 
 下面的图片来源于 AWS 博客这里的[说明了 ECS 和 Fargate 服务之间的区别。](https://aws.amazon.com/blogs/compute/aws-fargate-a-product-overview/)
 
-[![fargate-1](../Images/5efbd5d9bcbf228fc96a52b1a15aa450.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lG8rksDY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datacenternotes.files.wordpress.com/2018/10/fargate-1.png)
+[![fargate-1](img/5efbd5d9bcbf228fc96a52b1a15aa450.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lG8rksDY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datacenternotes.files.wordpress.com/2018/10/fargate-1.png)
 
 EKS 是最新的产品，仍然只在部分地区提供。使用 EKS，您可以抽象启动 Kubernetes 集群的一些复杂性，因为 AWS 现在将管理主节点——控制平面。Kubernetes 是一个更加丰富的容器编排器，提供了诸如网络覆盖、允许您隔离容器通信和存储供应等功能。不用说，管理起来也要复杂得多，在开发运维工作方面的投资也更大。
 

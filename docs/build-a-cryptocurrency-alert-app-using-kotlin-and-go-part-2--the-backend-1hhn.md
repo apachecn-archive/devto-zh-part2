@@ -10,7 +10,7 @@
 
 作为一个总结，这里是一个屏幕记录，当我们完成时，我们将建立什么:
 
-[![](../Images/2727544daa0ff411923f6cb7bc88e5f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5Nahv3yb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2Ai6Kn3b-sXv-EfPo_.gif)
+[![](img/2727544daa0ff411923f6cb7bc88e5f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5Nahv3yb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2Ai6Kn3b-sXv-EfPo_.gif)
 
 ### 先决条件
 

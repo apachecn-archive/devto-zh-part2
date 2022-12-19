@@ -6,7 +6,7 @@
 
 Zaim 有可以在某个范围内自由决定开始工作时间的制度。 **是一种叫**的工作体系，从 5 点到 10 点之间开始工作，然后工作 8 小时和休息 1 小时。 虽然好像是弹性工作制度，但是工作时间本身是固定的，所以不是弹性工作。
 
-[![https://thepracticaldev.s3.amazonaws.com/i/5t927rb48xcsmfhhq6z6.jpg](../Images/2ea54c4cf77b280aa8bcae969f5d5030.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U2JxITZL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5t927rb48xcsmfhhq6z6.jpg)
+[![https://thepracticaldev.s3.amazonaws.com/i/5t927rb48xcsmfhhq6z6.jpg](img/2ea54c4cf77b280aa8bcae969f5d5030.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U2JxITZL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/5t927rb48xcsmfhhq6z6.jpg)
 
 以下，我来回答经常被问到的问题。
 

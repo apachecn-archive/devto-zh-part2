@@ -78,7 +78,7 @@
 
 简而言之，编写软件的整个过程很容易受到这些翻译错误的影响，一个看似简单的任务很容易变成一个长达数月的指示(编写)、观察(测试)、推断(调试)的长篇故事...洗涤，冲洗，重复。
 
-[![CommitStrip: Bugs of the future](../Images/a8607aa8db4cb5e7505b6bc1d6ac64ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m-lm6Q-y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.commitstrip.com/wp-content/uploads/2017/05/Strip-Les-bugs-du-futur-english650-final.jpg)
+[![CommitStrip: Bugs of the future](img/a8607aa8db4cb5e7505b6bc1d6ac64ef.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--m-lm6Q-y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.commitstrip.com/wp-content/uploads/2017/05/Strip-Les-bugs-du-futur-english650-final.jpg)
 
 # 质量三角形
 
@@ -108,7 +108,7 @@
 
 > 软件是硬的。
 
-[![CommitStrip: IT Project Estimates](../Images/45a77b7d68d2797f3f9a25bb95ac7f1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q_3dWEPF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.commitstrip.com/wp-content/uploads/2018/02/Strip-Supermarch%25C3%25A9-650-final650-final.jpg)
+[![CommitStrip: IT Project Estimates](img/45a77b7d68d2797f3f9a25bb95ac7f1f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Q_3dWEPF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.commitstrip.com/wp-content/uploads/2018/02/Strip-Supermarch%25C3%25A9-650-final650-final.jpg)
 
 # 布鲁克斯定律(s)
 
@@ -134,7 +134,7 @@ IBM 项目经理 Fred Brooks 在 20 世纪 70 年代初首次观察到这在编�
 
 (要了解更多信息，请阅读弗雷德·布鲁克斯的《神话人月》和《T2 没有灵丹妙药》。这里面有大量的有用信息！)
 
-[![CommitStrip: No-one's fault](../Images/25ea4f4cc9b81f908b546aa98dab5267.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3x8U663s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.commitstrip.com/wp-content/uploads/2017/02/Strip-Communication-de-Chantier-english650-final-v2.jpg)
+[![CommitStrip: No-one's fault](img/25ea4f4cc9b81f908b546aa98dab5267.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--3x8U663s--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.commitstrip.com/wp-content/uploads/2017/02/Strip-Communication-de-Chantier-english650-final-v2.jpg)
 
 # 不要小看基础
 
@@ -146,7 +146,7 @@ IBM 项目经理 Fred Brooks 在 20 世纪 70 年代初首次观察到这在编�
 
 简而言之，如果开发人员在开始时拖拖拉拉，他们可能只是在打基础。这是一个漫长、艰巨且很大程度上不可见的过程，但它对项目的成功至关重要！
 
-[![CommitStrip: Best CMS 2016](../Images/c9dc7da46f3bb98e751d2a8ddacd1759.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PrOxcnYH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.commitstrip.com/wp-content/uploads/2016/06/Strip-10-ans-de-CMS-650-finalenglish-1.jpg)
+[![CommitStrip: Best CMS 2016](img/c9dc7da46f3bb98e751d2a8ddacd1759.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PrOxcnYH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.commitstrip.com/wp-content/uploads/2016/06/Strip-10-ans-de-CMS-650-finalenglish-1.jpg)
 
 # 你能帮上什么忙
 

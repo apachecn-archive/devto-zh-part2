@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/bnevilleoneill/an-imperative-guide-to-setstate-in-react-3j6a>
 
-[![](../Images/545c17e207af529f0b4f59c6f327777c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qTokiiBF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AJLfnJyOTlxwknAB9oQ4FFg.png)
+[![](img/545c17e207af529f0b4f59c6f327777c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--qTokiiBF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AJLfnJyOTlxwknAB9oQ4FFg.png)
 
 与道具一样，React 中的状态是用于存储数据并影响组件呈现或行为方式的对象。与 props 不同，状态完全在组件中管理，并且可以随着时间的推移而改变。
 
@@ -38,7 +38,7 @@ this.state = {
 } 
 ```
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 #### 访问组件状态
 
@@ -171,7 +171,7 @@ this.user = {
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption>[https://logrocket.com/signup/](https://logrocket.com/signup/)</figcaption>
 

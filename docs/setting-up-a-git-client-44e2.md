@@ -44,7 +44,7 @@ Fork 看起来简洁明了，很容易上手。它现在处于测试阶段，所
 
 这是您第一次打开 Fork 时的欢迎屏幕:
 
-[![Welcome screen from Fork](../Images/cad6a70ef21517f91e838c8f46263d70.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Sboq4kcl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/setting-up-a-git-client/fork-welcome-screen.png) 
+[![Welcome screen from Fork](img/cad6a70ef21517f91e838c8f46263d70.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Sboq4kcl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/setting-up-a-git-client/fork-welcome-screen.png) 
 
 <figure>
 

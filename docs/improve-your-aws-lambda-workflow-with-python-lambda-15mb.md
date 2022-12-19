@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/hackersandslackers/improve-your-aws-lambda-workflow-with-python-lambda-15mb>
 
-[![Improve your AWS Lambda Workflow with Python-Lambda](../Images/c7c44bc5e774563ebbe13e9aab5686ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dPsePEcV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/hackers-and-slackers/image/upload/q_auto:good/v1/images/pythonlambda3.jpg)
+[![Improve your AWS Lambda Workflow with Python-Lambda](img/c7c44bc5e774563ebbe13e9aab5686ff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dPsePEcV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/hackers-and-slackers/image/upload/q_auto:good/img/pythonlambda3.jpg)
 
 在我们关于构建[AWS API](https://hackersandslackers.com/tag/aws-api/)的系列文章中，我们已经涵盖了很多关于学习 AWS 生态系统的内容。既然我们都感觉舒服一点了，也许是时候让大家知道这个世界上保守得最差的秘密了:几乎没有人通过直接与 AWS UI 交互来构建架构。有很多这样做的例子，主要的例子是 **HashiCorp:** 一个完整的商业模型，它基于 AWS 有一个糟糕的用户界面的前提，以至于更容易编写代码来托管你的代码。真是个世界。
 

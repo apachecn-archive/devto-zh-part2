@@ -8,9 +8,9 @@
 
 上周，我完成了西方世界的第二季，HBO 系列，被认为是取代王位游戏的赌注。它由 Jonathan Nolan 和 Lisa Joy 开发，于 2016 年上映。在第一季取得巨大成功后，数月前我们获得了第二季首演的殊荣，这也在世界各国取得了很大成功。
 
-就像第一季一样，这一季继续以非常引人入胜的方式展现出观众喜爱的样子，让观众从集的开头到集的结尾都保持警惕，在集的结尾也有这样的反应。![👇](../Images/aeba3976027c224cc841c5cd84b5ab92.png)[![👇](../Images/aeba3976027c224cc841c5cd84b5ab92.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6k1xZB52--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.org/images/core/emoji/2.3/72x72/1f447.png)[![👇](../Images/aeba3976027c224cc841c5cd84b5ab92.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6k1xZB52--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.org/images/core/emoji/2.3/72x72/1f447.png)![👇](../Images/aeba3976027c224cc841c5cd84b5ab92.png)
+就像第一季一样，这一季继续以非常引人入胜的方式展现出观众喜爱的样子，让观众从集的开头到集的结尾都保持警惕，在集的结尾也有这样的反应。![👇](img/aeba3976027c224cc841c5cd84b5ab92.png)[![👇](img/aeba3976027c224cc841c5cd84b5ab92.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6k1xZB52--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.oimg/core/emoji/2.3/72x72/1f447.png)[![👇](img/aeba3976027c224cc841c5cd84b5ab92.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--6k1xZB52--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.oimg/core/emoji/2.3/72x72/1f447.png)![👇](img/aeba3976027c224cc841c5cd84b5ab92.png)
 
-[![ux em westworld](../Images/34b8db6e6addfa98f0280ed9eb1ae688.png)T2】](https://i.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
+[![ux em westworld](img/34b8db6e6addfa98f0280ed9eb1ae688.png)T2】](https://i.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
 
 该系列以 1973 年的同名电影为基础，由美国作家迈克尔·克赖顿创作和导演，同时也以其续集《未来世界》(Futureworld，1976)为基础。西方世界不仅仅是一个关于机器人的系列，而是一个关于人类行为及其缺陷的系列，关于我们如何对待我们的愿望以及我们的行为。当然，这是我最喜欢的系列之一，对于今后的故事发展，我的期望很高，尤其是在最后一季之后。
 
@@ -63,11 +63,11 @@
 
 下面你可以更好地看到互动是如何工作的。在此界面中，您可以通过观察对话的决策树来查看角色:
 
-[![ux em westworld](../Images/e4f306d3c16736c66e09d055303bdbff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZWMGcqQ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2A8TnrRA3dNL5jO-hI)
+[![ux em westworld](img/e4f306d3c16736c66e09d055303bdbff.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZWMGcqQ8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2A8TnrRA3dNL5jO-hI)
 
 与所有以机器人为主题的系列一样，通常会有很多场景展示更为复杂的界面，以说明未来的界面和交互方式。但是，在西方世界，界面不仅仅是用像素来说明这个未来，它还有助于讲述这个系列的故事，甚至可以包含人物的一些秘密。
 
-[![ux em westworld](../Images/a05f78777d1165f45438ab9dc683b754.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eofuxGC2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AqIHK1qicUklCc2Z6)
+[![ux em westworld](img/a05f78777d1165f45438ab9dc683b754.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--eofuxGC2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/0%2AqIHK1qicUklCc2Z6)
 
 Chris Kieffer 是负责协调该系列界面设计、设计和动画制作的设计师。他还负责设计其他主要电影的接口，如《沉默、乘客和星际》，并依靠华纳兄弟影业富有才华的后期制作团队。在你的网站上更多地了解克里斯[的工作。](https://www.chriskieffer.com/)
 
@@ -77,8 +77,8 @@ Chris Kieffer 是负责协调该系列界面设计、设计和动画制作的设
 
 以上只是其中的几个要点，更不用说系列的工作原理以及系列中如何处理用户体验了。我希望他们能让你更了解公园里发生的事或者是公园里发生的事？如果你有兴趣看这部剧的话，第三季也确认了。
 
-但可能需要一段时间，正如系列的共同作者之一 [![😔](../Images/07f52673b872c7574c65adeb205cbcb2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ayiI7T7r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.org/images/core/emoji/2.3/72x72/1f614.png) 所说。这个折合式平板电脑有三个部分，有人知道在哪里买吗？哈哈哈
+但可能需要一段时间，正如系列的共同作者之一 [![😔](img/07f52673b872c7574c65adeb205cbcb2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ayiI7T7r--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s.w.oimg/core/emoji/2.3/72x72/1f614.png) 所说。这个折合式平板电脑有三个部分，有人知道在哪里买吗？哈哈哈
 
-[![ux em westworld](../Images/46d5e14e17c3c83e4bb04202df4133a4.png)T2】](//app.vulpi.com.br/dev?utm_source=blog&utm_medium=eu_sou_dev)
+[![ux em westworld](img/46d5e14e17c3c83e4bb04202df4133a4.png)T2】](//app.vulpi.com.br/dev?utm_source=blog&utm_medium=eu_sou_dev)
 
 帖子[用户体验 em Westworld](////eusoudev.com.br/ux-em-westworld/) 首先出现在 [Eu Sou Dev](////eusoudev.com.br) 上。

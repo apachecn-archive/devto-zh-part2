@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/sm0k3/how-to-create-own-threat-intelligence-platform-with-php-curl-and-api-53ch>
 
-[![alt text](../Images/ad97cea32864aad60a63f396a2c8d8df.png "Threat Intelligence")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--whZhf6Q8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ry2oaewi8q2tywa6r90e.jpg)
+[![alt text](img/ad97cea32864aad60a63f396a2c8d8df.png "Threat Intelligence")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--whZhf6Q8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ry2oaewi8q2tywa6r90e.jpg)
 
 几年前，当**信息安全**作为一个商业方向还不那么受欢迎的时候，还没有那么多有用的服务可以帮助你检测你的基础设施或网站上的技术问题、安全问题和漏洞。
 
@@ -32,9 +32,9 @@
 
 在我的例子中，我还添加了类似“我被 pwned 了吗”和“IBM X-Force”这样的服务，以获得关于目标的更多实际数据:
 
-[![alt text](../Images/edbbf7b94acdc17b7a5e3464c08e182e.png "Dev.to check with custom threat intelligence platform")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HLcpfMAb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7cvo3o872yn3cji3ioyj.PNG)
+[![alt text](img/edbbf7b94acdc17b7a5e3464c08e182e.png "Dev.to check with custom threat intelligence platform")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--HLcpfMAb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7cvo3o872yn3cji3ioyj.PNG)
 
-[![alt text](../Images/4537b9010126610e15a00a99ba2c365b.png "Dev.to check with custom threat intelligence platform")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G4bxZ8nF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uhq5k7e0ehqqds2qrc00.PNG)
+[![alt text](img/4537b9010126610e15a00a99ba2c365b.png "Dev.to check with custom threat intelligence platform")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G4bxZ8nF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uhq5k7e0ehqqds2qrc00.PNG)
 
 正如您所理解的，不需要专业的安全工程师或开发人员来找出这些数据并对项目进行基本的安全检查，我们需要做的事情很少:
 

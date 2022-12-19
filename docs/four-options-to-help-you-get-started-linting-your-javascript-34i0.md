@@ -8,11 +8,11 @@
 
 谈到 JavaScript 林挺，有几个工具是与众不同的。让我们来看四个 linters，它们可以帮助你开始或者改进你的林挺过程:JSLint、standardJS、JSHint 和 ESLint。
 
-[![](../Images/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
+[![](img/2063f22e152ef36aa267c13ae9842601.png)T2】](https://logrocket.com/signup/)
 
 ### JSLint
 
-[![](../Images/4ed19b3f9fa30450231c8adcfed2d749.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1ogXqN-L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/232/1%2ATyN5Vstv9Vr_BIc_6deF3w%402x.png)
+[![](img/4ed19b3f9fa30450231c8adcfed2d749.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1ogXqN-L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/232/1%2ATyN5Vstv9Vr_BIc_6deF3w%402x.png)
 
 JSLint 由道格拉斯·克洛克福特于 2002 年创立，他也写了一本可以说是 T2 最好的关于 JavaScript 的书。JSLint 为表格带来了简单性和速度。但它也非常固执己见，这可能是一件好事，也可能是一件坏事。
 
@@ -22,7 +22,7 @@ JSLint 由一个页面站点组成，该站点由一个文本字段控制，您�
 
 ### 标准
 
-[![](../Images/2554cc11b4793e3e8a45bc8cf73b86cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cTSuIFxJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/250/1%2A8es60D8fS4-SeuPUWfLXOg.jpeg)
+[![](img/2554cc11b4793e3e8a45bc8cf73b86cf.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cTSuIFxJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/250/1%2A8es60D8fS4-SeuPUWfLXOg.jpeg)
 
 仅基于 GitHub 的星星， [standardJS](https://standardjs.com/) 是最受欢迎的选项，有近 19，000 颗星星。它是完全自以为是的，意味着它根本不可定制。但是，如果你不依赖任何特定的风格指南，这可能是一件好事。它以节点 CLI 的形式出现，可以在全球范围内安装，或者作为开发依赖项使用您选择的终端或命令行:
 
@@ -56,7 +56,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### JSHint
 
-[![](../Images/424dd3d2a83fb40a766ae5c52cd095e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CWv7pecV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/577/1%2A-SsoEZPBekzxvx4xg6Z0RA.png)
+[![](img/424dd3d2a83fb40a766ae5c52cd095e2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--CWv7pecV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/577/1%2A-SsoEZPBekzxvx4xg6Z0RA.png)
 
 JSHint 开始是 JSLint 的一个分支。目标是制造一个更加可配置的棉绒。如果你一直在使用 standardJS，或者另一个固执己见的 linter，并且你正在寻找一种方式开始定制你自己的林挺规则，JSHint 可能适合你。它具有上述棉绒的大部分优点，还有其他一些优点。
 
@@ -127,7 +127,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### ESLint
 
-[![](../Images/262acc5889ca83f0c5c47ea94874d6d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---GoJn40g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/398/1%2ATPkhIqPgVzFSSpwdlVwhVw.png)
+[![](img/262acc5889ca83f0c5c47ea94874d6d7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---GoJn40g--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/398/1%2ATPkhIqPgVzFSSpwdlVwhVw.png)
 
 抛开 GitHub 明星不谈，谈到 JavaScript，林挺·埃斯林可能是最常见的，也将是很多人的首选。在它自己的[文档](https://eslint.org/docs/user-guide/getting-started)中，它将自己与 JSLint 和 JSHint 进行比较，看它用于解析 JavaScript 的方法。而且，与 JSHint 类似，您可以使用缺省值，并随着您的偏好或需求的变化添加定制。
 
@@ -195,7 +195,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 ### Plug: [LogRocket](https://logrocket.com/signup/) ，一款适用于网络应用的 DVR
 
-<figure>[![](../Images/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
+<figure>[![](img/d56be9e9e36d8fa98c6959f7097b7787.png)](https://logrocket.com/signup/)
 
 <figcaption></figcaption>
 

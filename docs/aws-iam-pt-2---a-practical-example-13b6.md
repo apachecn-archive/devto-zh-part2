@@ -4,7 +4,7 @@
 
 本系列的第一部分涵盖了 IAM 基础知识和一个通用用例:
 
-[![david_ojeda](../Images/3982752e278540bbb2ea6a3d4a365f5b.png)](/david_ojeda) [## AWS IAM 角。1 -基础知识
+[![david_ojeda](img/3982752e278540bbb2ea6a3d4a365f5b.png)](/david_ojeda) [## AWS IAM 角。1 -基础知识
 
 ### 大卫奥赫达 7 月 30 日 183 分钟阅读
 
@@ -34,13 +34,13 @@
 1.  转到 IAM 控制台，选择边栏上的 groups 部分
 2.  按下**创建新组**按钮
 
-[![](../Images/b5944777f85cf91d59a5130f949f5457.png "IAM Dashboard with group section selected")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QvCnJt6a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidojeda.mx/assets/iam/pt2/pt2-1.png)
+[![](img/b5944777f85cf91d59a5130f949f5457.png "IAM Dashboard with group section selected")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QvCnJt6a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidojeda.mx/assets/iam/pt2/pt2-1.png)
 
 ### 为您的群组命名
 
 我们的小组将被称为 *DevOps* :
 
-[![](../Images/29cb31d9a502c4caf59906bdf3221dcc.png "IAM Group creation - Group name")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FwWtG0OD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidojeda.mx/assets/iam/pt2/pt2-2.png)
+[![](img/29cb31d9a502c4caf59906bdf3221dcc.png "IAM Group creation - Group name")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FwWtG0OD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidojeda.mx/assets/iam/pt2/pt2-2.png)
 
 ### 附上保单
 
@@ -60,7 +60,7 @@
 *   您可以在不附加任何策略的情况下继续下一步。这意味着该组将没有任何权限。
 *   如果策略的名称不够详细，您可以随时转到 IAM 控制面板的“策略”部分查看详细信息:
 
-[![](../Images/6833bd490c5b5aa2e7e0d6a34b407fa0.png "IAM policy details - AWS Cognito Power User")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AC8dG4UE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidojeda.mx/assets/iam/pt2/pt2-3.png)
+[![](img/6833bd490c5b5aa2e7e0d6a34b407fa0.png "IAM policy details - AWS Cognito Power User")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AC8dG4UE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidojeda.mx/assets/iam/pt2/pt2-3.png)
 
 ### 评审组
 
@@ -77,13 +77,13 @@
 1.  转到 IAM 控制台，选择侧边栏上的 users 部分
 2.  按下**添加用户**按钮
 
-[![](../Images/279d597434d58f2ecb78f5855d93a921.png "IAM Dashboard with user section selected")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vPBEVm3P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidojeda.mx/assets/iam/pt2/pt2-4.png)
+[![](img/279d597434d58f2ecb78f5855d93a921.png "IAM Dashboard with user section selected")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vPBEVm3P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidojeda.mx/assets/iam/pt2/pt2-4.png)
 
 ### 命名您的用户并选择访问类型
 
 我们的第一个用户将是*莎莉*——一名**开发人员**工程师——这些是根据之前陈述的问题细节所需的配置:
 
-[![](../Images/1e309fa9e8634bedb02a0d459e4c67ed.png "IAM User creation- step one")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EkMENGk6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidojeda.mx/assets/iam/pt2/pt2-5.png)
+[![](img/1e309fa9e8634bedb02a0d459e4c67ed.png "IAM User creation- step one")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EkMENGk6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidojeda.mx/assets/iam/pt2/pt2-5.png)
 
 因此用户将拥有编程和控制台访问权限。用户将首先输入自动生成的密码，然后被要求重置密码。
 
@@ -97,7 +97,7 @@
 
 因为您已经完成了创建具有所需策略的组的繁重工作，所以我们将选择第一个选项:将用户添加到组中。继续并选择您在前面步骤中创建的组:
 
-[![](../Images/17758ce1387e0243ee9e41d2c8842c64.png "IAM User creation- step two")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AEYoFpPu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidojeda.mx/assets/iam/pt2/pt2-6.png)
+[![](img/17758ce1387e0243ee9e41d2c8842c64.png "IAM User creation- step two")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AEYoFpPu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidojeda.mx/assets/iam/pt2/pt2-6.png)
 
 ### 回顾
 
@@ -120,7 +120,7 @@
 1.  转到 IAM 控制台，选择侧边栏上的*策略*部分
 2.  按下**创建策略**按钮
 
-[![](../Images/8d0f24f92df3f7fa4542a0214abf24ad.png "IAM Dashboard with policies section selected")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZnNLQcHX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidojeda.mx/assets/iam/pt2/pt2-7.png)
+[![](img/8d0f24f92df3f7fa4542a0214abf24ad.png "IAM Dashboard with policies section selected")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ZnNLQcHX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidojeda.mx/assets/iam/pt2/pt2-7.png)
 
 现在，您将被重定向到策略创建页面。在此页面上创建策略有两种方式:
 
@@ -135,13 +135,13 @@
 
 您需要添加的第一个权限是:
 
-[![](../Images/c6eaf0e08d83a101ef352d54f93b84eb.png "IAM Policy creation - Permission one")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AZWQnJkc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidojeda.mx/assets/iam/pt2/pt2-8.png)
+[![](img/c6eaf0e08d83a101ef352d54f93b84eb.png "IAM Policy creation - Permission one")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--AZWQnJkc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidojeda.mx/assets/iam/pt2/pt2-8.png)
 
 **listallmybutes**和 **GetBucketLocation** 动作与 **All resources** 选项相结合，让用户可以看到你账户上存在的每一个桶。如果您希望用户能够通过 AWS 控制台访问 bucket，那么您实际上需要这个权限。不要担心，除了存储桶名称，他们将不能访问任何内容。
 
 现在，用右下角的按钮添加另一个权限。这一次你只需要 **ListBucket** 动作，并定义你需要访问的 bucket ARN。我的桶叫做*我的公司计费*。因此，选项看起来像这样:
 
-[![](../Images/9284dbe9b357252dd3d0422856a18cf6.png "IAM Policy creation - Permission two")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GRfD2cCc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidojeda.mx/assets/iam/pt2/pt2-9.png)
+[![](img/9284dbe9b357252dd3d0422856a18cf6.png "IAM Policy creation - Permission two")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GRfD2cCc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidojeda.mx/assets/iam/pt2/pt2-9.png)
 
 你可以通过在 S3 选择你的桶来得到你的桶 ARN。ARN 是**arn:AWS:S3:::{ YOUR _ BUCKET _ NAME }**。
 
@@ -149,7 +149,7 @@
 
 最后但同样重要的是，该权限将允许用户实际访问所需存储桶上的对象:
 
-[![](../Images/8eaf70c475c3a0b7d6f700a1bc582935.png "IAM Policy creation - Permission three")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DN3EZXHg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidojeda.mx/assets/iam/pt2/pt2-10.png)
+[![](img/8eaf70c475c3a0b7d6f700a1bc582935.png "IAM Policy creation - Permission three")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--DN3EZXHg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://davidojeda.mx/assets/iam/pt2/pt2-10.png)
 
 我们在 bucket 名称后面使用通配符“ ***** ”作为我们的资源 ARN，表示我们希望访问 bucket 中的每个对象。
 

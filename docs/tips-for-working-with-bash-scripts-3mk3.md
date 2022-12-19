@@ -4,7 +4,7 @@
 
 几年前，我在一家小公司编程，该公司使用*车载系统*。在那里，我为 *shell 脚本*、 *python 脚本*和另一个*车载系统*编写代码，有时是为住在另一个州的客户编写的，他们的机器我没有任何访问权限，所以我的脚本总是一个*黑盒*，因此通过电子邮件发送更新是很常见的。
 
-[![Alt Text](../Images/390075e4e2269eed4bda2c8e14f95ace.png)T2】](https://i.giphy.com/media/nkLB4Gp8H6hFe/giphy.gif)
+[![Alt Text](img/390075e4e2269eed4bda2c8e14f95ace.png)T2】](https://i.giphy.com/media/nkLB4Gp8H6hFe/giphy.gif)
 
 因此，客户给我发了一封电子邮件，主题是:“不工作”。5 分钟后，我刷新了文件并发回了邮件。问题解决了对吗？不完全是。
 
@@ -36,7 +36,7 @@
 
 是的，在 bash 脚本中进行测试。
 
-[![Alt Text](../Images/a9a402e5c7725b51d203ddf60646458f.png)T2】](https://i.giphy.com/media/3o6Mbbs879ozZ9Yic0/giphy.gif)
+[![Alt Text](img/a9a402e5c7725b51d203ddf60646458f.png)T2】](https://i.giphy.com/media/3o6Mbbs879ozZ9Yic0/giphy.gif)
 
 这种测试不一定是单元测试，例如可以是功能测试。
 

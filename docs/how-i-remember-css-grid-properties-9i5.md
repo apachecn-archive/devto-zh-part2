@@ -266,7 +266,7 @@ main {
 1.  主要:从左到右
 2.  交叉:从上到下
 
-[![Main-axis reads left to right. Cross-axis reads top to bottom](../Images/bd67fce5af517bcf110131a4ff00bdda.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KHDyRPM5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/remember-css-grid-properties/axes.png) 
+[![Main-axis reads left to right. Cross-axis reads top to bottom](img/bd67fce5af517bcf110131a4ff00bdda.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--KHDyRPM5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/remember-css-grid-properties/axes.png) 
 
 <figure>
 
@@ -297,7 +297,7 @@ main {
 6.  **空格环绕**:在每个网格项目周围散布空格
 7.  **空间均匀**:在所有网格项目周围均匀分布空白，包括两端
 
-[![7 possible alignment values and what they do](../Images/af0124f38618c6763af3d5d39b42227f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--v2mOckOk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/remember-css-grid-properties/alignment-values.png) 
+[![7 possible alignment values and what they do](img/af0124f38618c6763af3d5d39b42227f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--v2mOckOk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/remember-css-grid-properties/alignment-values.png) 
 
 <figure>
 
@@ -325,7 +325,7 @@ main {
 3.  **居中**:将项目对齐轴的中心
 4.  **拉伸**:填充轴(这是默认值)
 
-[![4 possible alignment values and what they do](../Images/751cbc061049ef3b86a35980088a2efe.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pxpnhLNf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.com/images/2018/remember-css-grid-properties/alignment-values-2.png) 
+[![4 possible alignment values and what they do](img/751cbc061049ef3b86a35980088a2efe.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pxpnhLNf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://zellwk.cimg/2018/remember-css-grid-properties/alignment-values-2.png) 
 
 <figure>
 

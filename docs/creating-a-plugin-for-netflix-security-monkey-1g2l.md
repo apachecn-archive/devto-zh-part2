@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/alanmbarr/creating-a-plugin-for-netflix-security-monkey-1g2l>
 
-[![Image of Security Monkey](../Images/6b1e1d1599713049252441f3f6a19b78.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S_IQoQjS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/www.alanmbarr.com/blog/images/Security_Monkey.png)
+[![Image of Security Monkey](img/6b1e1d1599713049252441f3f6a19b78.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--S_IQoQjS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.amazonaws.com/www.alanmbarr.com/blimg/Security_Monkey.png)
 
 ## 自动增强安全性
 

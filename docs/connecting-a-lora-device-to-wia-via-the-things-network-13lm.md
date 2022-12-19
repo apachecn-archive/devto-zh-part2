@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/wiaio/connecting-a-lora-device-to-wia-via-the-things-network-13lm>
 
-[![alt text](../Images/8d94cb95142ed7f3923031b10fb2ca89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GuEs53nn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-06-26/1530016343-835236-blog-02.png)
+[![alt text](img/8d94cb95142ed7f3923031b10fb2ca89.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--GuEs53nn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-06-26/1530016343-835236-blog-02.png)
 
 在本教程中，我们将使用两个 [Pycom LoPy 的](https://docs.pycom.io/chapter/datasheets/development/lopy.html)，将第一个设置为 LoRaWAN 网关，并将其注册为与[物联网](https://www.thethingsnetwork.org)的网关。然后在第二次 LoPy 中，我们设置它与我们的 LoRaWAN 网关对话，并让[物联网](https://www.thethingsnetwork.org)将事件推送到 Wia。
 
@@ -46,11 +46,11 @@ Enter fullscreen mode Exit fullscreen mode
 *   config.py
 *   nanogateway.py
 
-[![alt text](../Images/fad4d7faf025b5dc90a659c1962a5cb9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9FO3gPaU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-06-26/1530009786-273166-selection-166.png)
+[![alt text](img/fad4d7faf025b5dc90a659c1962a5cb9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9FO3gPaU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-06-26/1530009786-273166-selection-166.png)
 
 在 Atom 窗口底部的 Pymakr 插件中点击`Upload`,将代码发送到您的 Pycom 板。
 
-[![alt text](../Images/71ba4f05a0464d0a00d83dc820df19c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j7s-nfzA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-06-26/1530009143-504206-nanogatewaypushack.png)
+[![alt text](img/71ba4f05a0464d0a00d83dc820df19c2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--j7s-nfzA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-06-26/1530009143-504206-nanogatewaypushack.png)
 
 *   网关 ID 将在以后向物联网注册网关时使用
 
@@ -62,7 +62,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在 TTN 控制台中，有两个选项，应用程序和网关。选择网关，然后单击注册网关。这将允许新网关的设置和注册。
 
-[![alt text](../Images/84a8651ce9d1929d531a4ad61e394612.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F9wGrvgI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-06-26/1530003082-936235-ttn-register-gateway.png)
+[![alt text](img/84a8651ce9d1929d531a4ad61e394612.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--F9wGrvgI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-06-26/1530003082-936235-ttn-register-gateway.png)
 
 *   必须勾选`I'm using the legacy packet forwarder`的勾选框
 *   `Gateway EUI`是我们之前运行 Nano Gateway 时的数据
@@ -73,13 +73,13 @@ Enter fullscreen mode Exit fullscreen mode
 
 在注册你的网关时，你应该准备好你的网关与 TTN 通信所需的一切。
 
-[![alt text](../Images/a29c62410bc385d4bceee9393ceb74c5.png)T4】](https://res.cloudinary.com/practicaldev/image/fetch/s--6Fl7LGWw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-06-26/1530003100-353257-gateway-overview.png)
+[![alt text](img/a29c62410bc385d4bceee9393ceb74c5.png)T4】](https://res.cloudinary.com/practicaldev/image/fetch/s--6Fl7LGWw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-06-26/1530003100-353257-gateway-overview.png)
 
 ### 使用物联网配置您的 LoRaWAN nano 网关(TTN)
 
 现在，您的网关已经完全注册到 TTN，您应该在 atom 终端中看到推和拉确认。
 
-[![alt text](../Images/e8c373b95d813a4384d7cbfaba0c59a9.png)T4】](https://res.cloudinary.com/practicaldev/image/fetch/s--pBtlRZFn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-06-26/1530003137-632843-nanogatwayatompushpull.png)
+[![alt text](img/e8c373b95d813a4384d7cbfaba0c59a9.png)T4】](https://res.cloudinary.com/practicaldev/image/fetch/s--pBtlRZFn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-06-26/1530003137-632843-nanogatwayatompushpull.png)
 
 # 设置物联网应用(TTN)
 
@@ -103,19 +103,19 @@ Enter fullscreen mode Exit fullscreen mode
 *   点击铅笔图标为`Device EUI`
 *   点击`Register`按钮添加设备
 
-[![alt text](../Images/93647a4cecff2515c73c0a3e58ef0205.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nt4r5voE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-06-26/1530003189-741093-register-device.png)
+[![alt text](img/93647a4cecff2515c73c0a3e58ef0205.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nt4r5voE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-06-26/1530003189-741093-register-device.png)
 
 # 激活 Wia 中的物联网(TTN)集成
 
 在您的 Wia 仪表板中，单击您想要添加的共享空间，然后单击左侧菜单栏上的设置图标，以查看您的共享空间的设置页面。
 
-[![alt text](../Images/2ee837f9aa6a98dc06a1911d30240fa0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9QEuJLcm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-06-26/1530004257-935013-space-settings.png) 
+[![alt text](img/2ee837f9aa6a98dc06a1911d30240fa0.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--9QEuJLcm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-06-26/1530004257-935013-space-settings.png) 
 现在点击`Integrations`选项卡查看可用集成列表:
 
 *   找到`The Things Network`集成并点击添加它
 *   将为生成一个集成密钥，并应以`ik_`开始
 
-[![alt text](../Images/4f0d572344ad628e3879af0647520c21.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dWKMmA17--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-06-26/1530004533-550880-integration-added.png) 
+[![alt text](img/4f0d572344ad628e3879af0647520c21.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--dWKMmA17--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-06-26/1530004533-550880-integration-added.png) 
 回到您的 TTN 控制台，在您刚刚创建的应用程序中，单击集成选项卡:
 
 *   点击`Get started by creating a new one`查看可用的集成
@@ -128,7 +128,7 @@ Enter fullscreen mode Exit fullscreen mode
 *   `Custom Header Name`和`Custom Header Value`不需要添加任何内容
 *   点击“保存”, TTN 会将所有活动数据从您的 LoRa 设备推送到 Wia
 
-[![alt text](../Images/7ad11a266c81d0325d460e32de775fe1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ykHC7Ip8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-06-26/1530007857-617583-integration.png)
+[![alt text](img/7ad11a266c81d0325d460e32de775fe1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ykHC7Ip8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-06-26/1530007857-617583-integration.png)
 
 现在，设置好所有需要的东西，将我们的 LoRa 设备连接到物联网，并将我们的活动发布到 Wia。现在我们需要设置一个 LoRa 客户端节点。我们需要第二次机会来完成这项任务。
 
@@ -239,11 +239,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 在 Atom 窗口底部的 Pymakr 插件中点击`Upload`,将代码发送到您的 Pycom 板。
 
-[![alt text](../Images/953e9516fd288266f747b01296747a82.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C8qtPsb9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-06-26/1530005624-627540-client-data-push.png)
+[![alt text](img/953e9516fd288266f747b01296747a82.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--C8qtPsb9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-06-26/1530005624-627540-client-data-push.png)
 
 在您的 Wia 仪表板中，点击您的 LoRa 设备并切换到`Debugger`选项卡，以实时查看您的 LoRa 设备发布的事件。要查看全部内容，请点击`Events`选项卡。
 
-[![alt text](../Images/b12d437758e3eacb11b855c58a992020.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uowEeeS3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-06-26/1530010124-591193-image-2.png)
+[![alt text](img/b12d437758e3eacb11b855c58a992020.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--uowEeeS3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3-eu-west-1.amazonaws.com/wia-flarum-bucket/2018-06-26/1530010124-591193-image-2.png)
 
 # 在 Wia 中处理您的 LoRa 数据
 

@@ -6,6 +6,6 @@
 
 这很困难，我相信有办法改善我的经历。
 
-[![alt text](../Images/6fe369b95031aa17f8a4a8973844b3dc.png "Time to Break out Emacs and modify that perl script!")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G8UOVP8B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/t4Fbq7j.gif)
+[![alt text](img/6fe369b95031aa17f8a4a8973844b3dc.png "Time to Break out Emacs and modify that perl script!")T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--G8UOVP8B--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/t4Fbq7j.gif)
 
 ### **当你加入一家新公司、一个新团队，甚至一个新项目时，你会建议别人做些什么？**

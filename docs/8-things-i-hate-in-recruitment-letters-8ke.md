@@ -6,7 +6,7 @@
 
 在求职邮件中，什么让你感到困扰？
 
-[![gif](../Images/92ea10aa089f859d3d93079a2ac0e3b9.png)T2】](https://i.giphy.com/media/Ahw40HZzrd0yN9ndH5/giphy.gif)
+[![gif](img/92ea10aa089f859d3d93079a2ac0e3b9.png)T2】](https://i.giphy.com/media/Ahw40HZzrd0yN9ndH5/giphy.gif)
 
 1.  我的名字不是{first name}。
 2.  我不愿意回复题目里有“紧急”的信。这不仅不礼貌，而且很奇怪。就像我会回他们:紧急发布，请帮助寻找开发商。

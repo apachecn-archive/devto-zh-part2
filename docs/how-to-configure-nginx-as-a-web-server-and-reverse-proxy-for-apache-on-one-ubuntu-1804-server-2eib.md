@@ -242,9 +242,9 @@ Enter fullscreen mode Exit fullscreen mode
 
 要在浏览器中查看文件，请转到`http://your_server_ip:8080/info.php`。这会给你一个 PHP 正在使用的配置设置列表。您将看到类似如下的输出:
 
-[![phpinfo Server API](../Images/c6fc37e7aa9cd38544c6c90cd75b4629.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WlPRRT67--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assets.digitalocean.com/articles/nginx_apache_ubuntu_1804/qQcGNe8.png)
+[![phpinfo Server API](img/c6fc37e7aa9cd38544c6c90cd75b4629.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WlPRRT67--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assets.digitalocean.com/articles/nginx_apache_ubuntu_1804/qQcGNe8.png)
 
-[![phpinfo PHP Variables](../Images/b9d8b8fd26379f44ed9ae0c62e9ac6e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1xYkuFOl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assets.digitalocean.com/articles/nginx_apache_ubuntu_1804/eBuDnVU.png)
+[![phpinfo PHP Variables](img/b9d8b8fd26379f44ed9ae0c62e9ac6e9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1xYkuFOl--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assets.digitalocean.com/articles/nginx_apache_ubuntu_1804/eBuDnVU.png)
 
 在页面顶部，检查一下**服务器 API** 是否显示 **FPM/FastCGI** 。大约在页面的三分之二处， **PHP 变量**部分会告诉你 **SERVER_SOFTWARE** 是 Ubuntu 上的 Apache。这些确认了`mod_fastcgi`是活动的，Apache 正在使用 PHP-FPM 来处理 PHP 文件。
 
@@ -368,9 +368,9 @@ Enter fullscreen mode Exit fullscreen mode
 
 您将看到以下结果:
 
-[![foobar.net index page](../Images/8a819baaf25581cc5a3955d1cad505d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r-mMkFFi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assets.digitalocean.com/articles/nginx_apache_ubuntu_1804/2y1R8Zd.png)
+[![foobar.net index page](img/8a819baaf25581cc5a3955d1cad505d2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--r-mMkFFi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assets.digitalocean.com/articles/nginx_apache_ubuntu_1804/2y1R8Zd.png)
 
-[![test.io index page](../Images/2b99e38734e0ea66b2451312c5a26933.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ATpCU50a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assets.digitalocean.com/articles/nginx_apache_ubuntu_1804/wr1pzEj.png)
+[![test.io index page](img/2b99e38734e0ea66b2451312c5a26933.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--ATpCU50a--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assets.digitalocean.com/articles/nginx_apache_ubuntu_1804/wr1pzEj.png)
 
 另外，通过访问每个站点的 info.php 文件来确保 PHP 正在工作。在浏览器中访问`http://foobar.net:8080/info.php`和`http://test.io:8080/info.php`。
 
@@ -520,7 +520,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 现在通过访问[http://example.com/info.php](http://example.com/info.php)和[http://sample.org/info.php](http://sample.org/info.php)，在网络浏览器中访问你的 Nginx 虚拟主机的`phpinfo()`文件。再次查看 PHP 变量部分。
 
-[![Nginx PHP Variables](../Images/d0debcf095029056eb3768e03f195bd2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dPOMpluz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assets.digitalocean.com/articles/nginx_apache_ubuntu_1804/1FZeLUe.png)
+[![Nginx PHP Variables](img/d0debcf095029056eb3768e03f195bd2.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--dPOMpluz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assets.digitalocean.com/articles/nginx_apache_ubuntu_1804/1FZeLUe.png)
 
 **["SERVER_SOFTWARE"]** 应该说`nginx`，表示文件是 Nginx 直接服务的。 **["DOCUMENT_ROOT"]** 应该指向您之前在这个步骤中为每个 Nginx 站点创建的目录。
 
@@ -585,7 +585,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 打开浏览器，在浏览器中访问 URL `http://foobar.net/info.php`。向下滚动到 **PHP 变量**部分，检查显示的值。
 
-[![phpinfo of Apache via Nginx](../Images/7053cb2485ecfea79f5404cc103a3f96.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y2Z5HSOV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assets.digitalocean.com/articles/nginx_apache_ubuntu_1804/1XQi5kl.png)
+[![phpinfo of Apache via Nginx](img/7053cb2485ecfea79f5404cc103a3f96.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--y2Z5HSOV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assets.digitalocean.com/articles/nginx_apache_ubuntu_1804/1XQi5kl.png)
 
 变量 **SERVER_SOFTWARE** 和 **DOCUMENT_ROOT** 确认这个请求由 Apache 处理。变量 **HTTP_X_REAL_IP** 和 **HTTP_X_FORWARDED_FOR** 是 Nginx 添加的，应该显示你用来访问 URL 的计算机的公共 IP 地址。
 
@@ -832,7 +832,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 使用`https://`前缀在浏览器中访问 Apache 的一个域；访问`https://foobar.net/info.php`，你会看到这个:
 
-[![phpinfo ssl](../Images/d9c7f3ba7f3e4ba36ca0cb0bfe95b3fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8BM-XX9Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assets.digitalocean.com/articles/nginx_apache_ubuntu_1804/KK6AmWV.png)
+[![phpinfo ssl](img/d9c7f3ba7f3e4ba36ca0cb0bfe95b3fb.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8BM-XX9Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://assets.digitalocean.com/articles/nginx_apache_ubuntu_1804/KK6AmWV.png)
 
 查看 **PHP 变量**部分。变量 **SERVER_PORT** 已经被设置为 **443** 和 **HTTPS** 被设置为上的**，就好像 Apache 是通过 HTTPS 直接访问的一样。有了这些变量，PHP 应用程序就不需要特别配置就可以在反向代理后面工作。**
 
@@ -1039,5 +1039,5 @@ Enter fullscreen mode Exit fullscreen mode
 
 在 DigitalOcean 上构建、测试和部署一些新的东西——一体化云平台开发人员及其团队的最爱。为新用户提供 100 美元的免费帐户信用:[do.co/devto](http://do.co/devto)T3】
 
-[![Creative Commons License](../Images/4662fd03838b335557c183fd57c6b02c.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/) 
+[![Creative Commons License](img/4662fd03838b335557c183fd57c6b02c.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/) 
 本作品受[知识共享署名-非商业性使用-类似共享 4.0 国际许可](http://creativecommons.org/licenses/by-nc-sa/4.0/)的许可。

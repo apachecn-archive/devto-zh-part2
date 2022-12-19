@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/remejuan/handling-race-conditions-with-redux-thunk-1lo2>
 
-[![](../Images/764f384cea265cddd1984f4e2084d51e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vsnKbiof--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/1%2AvuRVtzCDBnbF_YINN6uKRg.png)
+[![](img/764f384cea265cddd1984f4e2084d51e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--vsnKbiof--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/500/1%2AvuRVtzCDBnbF_YINN6uKRg.png)
 
 许多现代网络应用程序中包含的一个非常重要的功能是搜索，我们的用户总是需要能够找到一些东西，最近我不得不连接一个由 [*弹性搜索*](https://www.elastic.co) *，*驱动的“实时”搜索，当用户键入时，我们开始返回一个与您键入的内容潜在最相关的简短列表。
 

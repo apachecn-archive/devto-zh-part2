@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/nabbisen/iphone--ipad-mail-adding-a-custom-mail-server-account-4k5d>
 
-[![](../Images/3aa6638d15a87df67aab269dd0471314.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k47rvVPq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ziw91yjl45kpblp5fr1k.jpg)
+[![](img/3aa6638d15a87df67aab269dd0471314.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--k47rvVPq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ziw91yjl45kpblp5fr1k.jpg)
 
 ## [T1】简介](#intro)
 
@@ -19,7 +19,7 @@
 
 邮箱:左边为前的*，右边为*后的*。*
 
-[![](../Images/eefc21f7b3e645b439cb2c2906a2a02e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SslmpLAW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dmtvge7y6yvk6cz83zfo.jpg)
+[![](img/eefc21f7b3e645b439cb2c2906a2a02e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SslmpLAW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dmtvge7y6yvk6cz83zfo.jpg)
 
 * *注*:苹果官方添加邮箱账号的页面是[这里是](https://support.apple.com/HT201320)。
 
@@ -29,21 +29,21 @@
 
 首先，打开**设置**，点击**密码&账号**:
 
-[![](../Images/a5b85a861908b36e7fbeeca4befe44c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KISm4Fj2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nt224c011eji9z23rskt.jpg)
+[![](img/a5b85a861908b36e7fbeeca4befe44c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KISm4Fj2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nt224c011eji9z23rskt.jpg)
 
 接下来，点击**添加账户**，然后选择**其他**:
 
-[![](../Images/e490352589b0dc21526e0a2514661cb0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FxuLEHsX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7slr0ug2bq195kpsrhi8.jpg)
+[![](img/e490352589b0dc21526e0a2514661cb0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FxuLEHsX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7slr0ug2bq195kpsrhi8.jpg)
 
 * *注*:当然可以通过选择添加其他种类的账号如 iCloud、Gmail 等等。
 
 然后，点击**“添加邮件账户”**:
 
-[![](../Images/53e4d06a03d9f65c91af7146dc9d52c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U1OfcHLe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hgt0ail00954i1q6gtwc.jpg)
+[![](img/53e4d06a03d9f65c91af7146dc9d52c4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--U1OfcHLe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/hgt0ail00954i1q6gtwc.jpg)
 
 至少填写**邮箱**(地址)和**密码**，点击**下一步**:
 
-[![](../Images/36d2560fe9d10e718bf86305ee7bf2d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_VNMolz3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4wkkocof3vx7pjl94rmw.jpg)
+[![](img/36d2560fe9d10e718bf86305ee7bf2d4.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--_VNMolz3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4wkkocof3vx7pjl94rmw.jpg)
 
 好的。现在你准备好了。
 
@@ -55,11 +55,11 @@
 
 #### 案例 IMAP
 
-[![](../Images/8bfbcce4b2fed1ecf0403db0c6ff7e47.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7DBVoUlz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x1yxckda3n31oslyu3yf.jpg)
+[![](img/8bfbcce4b2fed1ecf0403db0c6ff7e47.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--7DBVoUlz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/x1yxckda3n31oslyu3yf.jpg)
 
 #### 案例流行
 
-[![](../Images/b84b58916b59734246795cd891b4d75c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kj6VFsjZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rg9lbtktkh8sl5tlw5n8.jpg)
+[![](img/b84b58916b59734246795cd891b4d75c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kj6VFsjZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rg9lbtktkh8sl5tlw5n8.jpg)
 
 * * *
 
@@ -97,18 +97,18 @@
 
 * *注意*:当在此选择“取消”时，将出现确认:“无法使用 SSL 连接:您是否要尝试设置没有 SSL 的帐户？”。为了您的安全和隐私，不建议使用 SSL。
 
-[![](../Images/a8e460375936f2abfbdbbebc8b3b3a75.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1TZG69N1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8ok45kgpesc9qh5590k4.jpg)
+[![](img/a8e460375936f2abfbdbbebc8b3b3a75.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1TZG69N1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/8ok45kgpesc9qh5590k4.jpg)
 
 完了！
 添加的账户将出现:
 
-[![](../Images/f039f1ed20f697496252ce206a22e554.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EU33dZai--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ijxyc3q4jcblcof8emoz.jpg)
+[![](img/f039f1ed20f697496252ce206a22e554.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EU33dZai--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ijxyc3q4jcblcof8emoz.jpg)
 
 * * *
 
 回到家里，运行邮件，你会看到一个新账户的新邮箱。
 
-[![](../Images/a7f3663bbfc31713cf77a59c04669561.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mlwWzZjb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xz0vkwbct2yh62ea0m7c.jpg)
+[![](img/a7f3663bbfc31713cf77a59c04669561.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--mlwWzZjb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/xz0vkwbct2yh62ea0m7c.jpg)
 
 <center>✿ ✿ ✿</center>
 
@@ -116,19 +116,19 @@
 
 和添加一样，打开**设置**，点击**密码&账号**:
 
-[![](../Images/a5b85a861908b36e7fbeeca4befe44c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KISm4Fj2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nt224c011eji9z23rskt.jpg)
+[![](img/a5b85a861908b36e7fbeeca4befe44c3.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KISm4Fj2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nt224c011eji9z23rskt.jpg)
 
 选择您要删除的帐户:
 
-[![](../Images/f039f1ed20f697496252ce206a22e554.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EU33dZai--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ijxyc3q4jcblcof8emoz.jpg)
+[![](img/f039f1ed20f697496252ce206a22e554.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EU33dZai--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ijxyc3q4jcblcof8emoz.jpg)
 
 您会在底部找到“**删除账户**”按钮:
 
-[![](../Images/abf989b296a38fbd57ffacb54b1990c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a4AOBaVu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wjkr49f59goexbpw6syi.jpg)
+[![](img/abf989b296a38fbd57ffacb54b1990c1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--a4AOBaVu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wjkr49f59goexbpw6syi.jpg)
 
 当您点击它时，将出现确认信息:
 
-[![](../Images/87e6a40927a08de53e3c2a39e996cbb8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EDrk4dBq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/td7za8jozw0t7ial8bt5.jpg)
+[![](img/87e6a40927a08de53e3c2a39e996cbb8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--EDrk4dBq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/td7za8jozw0t7ial8bt5.jpg)
 
 如果您继续，您的帐户将被删除。
 

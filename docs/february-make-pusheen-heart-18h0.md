@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/charlyn/february-make-pusheen-heart-18h0>
 
-[![header image pusheen](../Images/6473faf86bfe7abefc1cea2bb38836ca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wQW9YNKH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3v0qbnfwnrs7p2iq0ne2.JPG)
+[![header image pusheen](img/6473faf86bfe7abefc1cea2bb38836ca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wQW9YNKH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3v0qbnfwnrs7p2iq0ne2.JPG)
 
 创建一个谷歌助手应用程序，如何避免焊接，以及发现是什么让项目变得有动力和有趣。警告:极端情人节奶酪在前面。
 
@@ -10,7 +10,7 @@
 
 这个月，我想做一些涉及 Google Home 的东西。我通常只问谷歌现在是什么时间，天气如何，所以我认为做一些可以用它工作的东西会很有趣，而不是购买。我对智能灯感兴趣已经有一段时间了，所以我想看看是否能创造自己的智能灯。我找到了这个[皮克斯风格的灯](https://www.thingiverse.com/thing:27062)并打印了出来，使用了我放在身边的[新像素光子工具包](https://www.adafruit.com/product/2268)，并取得了相当不错的进展:
 
-[![Pixar lamp](../Images/126f8a4faa13c1d52fc7eedcf68cff4e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N623B3PA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c2vulk6atoy1o8vfbyvn.jpg)
+[![Pixar lamp](img/126f8a4faa13c1d52fc7eedcf68cff4e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--N623B3PA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/c2vulk6atoy1o8vfbyvn.jpg)
 
 我可以用粒子 API 远程开关它。项目半途而废耶！
 

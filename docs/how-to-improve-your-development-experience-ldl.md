@@ -14,7 +14,7 @@
 
 <figure>
 
-[![Bush Business Furniture Series C 72W x 30D Office Desk in Mocha Cherry](../Images/a2d6494146c64715943d6e92a68c0cbc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WiYL3AaH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images-na.ssl-images-amazon.com/images/I/71O6qyv3sAL._SL1500_.jpg)
+[![Bush Business Furniture Series C 72W x 30D Office Desk in Mocha Cherry](img/a2d6494146c64715943d6e92a68c0cbc.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--WiYL3AaH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images-na.ssl-images-amazon.cimg/I/71O6qyv3sAL._SL1500_.jpg)
 
 <figcaption>[Bush Business Furniture Series C 72W x 30D Office Desk in Mocha Cherry](https://www.amazon.com/Bush-Business-Furniture-Office-Hansen/dp/B000W8JLD2/)</figcaption>
 
@@ -24,7 +24,7 @@
 
 <figure>
 
-[![Steelcase Leap v2 Chair](../Images/013aa34b17c93b6d6d5de73fd35e8887.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bPHwoDvR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images-na.ssl-images-amazon.com/images/I/41Z9O6qq2qL.jpg)
+[![Steelcase Leap v2 Chair](img/013aa34b17c93b6d6d5de73fd35e8887.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--bPHwoDvR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images-na.ssl-images-amazon.cimg/I/41Z9O6qq2qL.jpg)
 
 <figcaption>[Steelcase Leap v2](https://store.steelcase.com/seating/office-chairs/leap)</figcaption>
 
@@ -36,7 +36,7 @@
 
 <figure>
 
-[![Ducky Shine 5](../Images/3351bf3e3e97bb898b155351a9b50f26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---A1wuUuD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.duckychannel.com.tw/page-en/ducky-shine-5/img/ducky_shine_5_30.jpg)
+[![Ducky Shine 5](img/3351bf3e3e97bb898b155351a9b50f26.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---A1wuUuD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.duckychannel.com.tw/page-en/ducky-shine-5/img/ducky_shine_5_30.jpg)
 
 <figcaption>[Ducky Shine 5](https://www.duckychannel.com.tw/page-en/ducky-shine-5/)</figcaption>
 
@@ -46,7 +46,7 @@
 
 <figure>
 
-[![4K monitor](../Images/56a1a58d4fef201f930a93551bdd2597.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NsMksVT---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.lg.com/us/images/monitors/md05832389/gallery/medium02.jpg)
+[![4K monitor](img/56a1a58d4fef201f930a93551bdd2597.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--NsMksVT---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.lg.com/img/monitors/md05832389/gallery/medium02.jpg)
 
 <figcaption>[43" 4K UHD Monitor](https://www.lg.com/us/monitors/lg-43UD79-B-4k-uhd-led-monitor)</figcaption>
 
@@ -78,7 +78,7 @@
 
 <figure>
 
-[![Glass Dry-Erase Board](../Images/a9f1ef17525bdc5c72e76d43533f1d3c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jHT00nNe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images-na.ssl-images-amazon.com/images/I/51fg0MdzaPL._SL1250_.jpg)
+[![Glass Dry-Erase Board](img/a9f1ef17525bdc5c72e76d43533f1d3c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--jHT00nNe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://images-na.ssl-images-amazon.cimg/I/51fg0MdzaPL._SL1250_.jpg)
 
 <figcaption>[Clear Glass Dry-Erase Board](https://www.amazon.com/dp/B005DDPFC2/)</figcaption>
 
@@ -104,7 +104,7 @@
 
 如果这篇文章有帮助，❤️ it 和[在 Twitter 上关注我](https://twitter.com/intent/follow?screen_name=theoutlander)。
 
-[![theoutlander](../Images/fa3a5404d413070afd491a6351af2493.png)](/theoutlander) [## 我在微软做过 MSN，Live，Bing 搜索，问我什么都行！
+[![theoutlander](img/fa3a5404d413070afd491a6351af2493.png)](/theoutlander) [## 我在微软做过 MSN，Live，Bing 搜索，问我什么都行！
 
 ### 尼克卡尼克 9 月 12 日 181 分钟阅读
 

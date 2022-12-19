@@ -8,7 +8,7 @@
 
 不久前，我们收到一个警报，说我们在 Moxio 的一台服务器上的磁盘空间逐渐变少。我们不断监控我们的服务器，寻找可能威胁正常运行的因素，并在可用磁盘空间低于总磁盘大小的 30%时收到第一个警报。这样，在磁盘实际满之前，我们仍然有足够的时间来处理它。
 
-<figure>[![Graph of free disk space before moving tables](../Images/cbc380a36c78e244bc8668a0f0c223b4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---JfKyzyo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/823/0%2A1K_X4cy158Bclsjb.png) 
+<figure>[![Graph of free disk space before moving tables](img/cbc380a36c78e244bc8668a0f0c223b4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s---JfKyzyo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/823/0%2A1K_X4cy158Bclsjb.png) 
 
 <figcaption>移动表格前的空闲磁盘空间图</figcaption>
 
@@ -132,7 +132,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 在几次失败的尝试之后(尽管在这次尝试中我们学到了很多关于 MySQL 内部的知识)，我们最终找到了一个有效地将表移动到磁盘上另一个位置的解决方案。使用这种方法，我们将一些最大且增长最快的表移动到外部存储阵列，释放了保持服务器运行所需的磁盘空间。
 
-<figure>[![Graph of free disk space after moving tables](../Images/b5d0b558fd689ad2c595c81c5e270c38.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vSxwuDxM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/828/0%2AIDJHzccNPmcY6iFG.png) 
+<figure>[![Graph of free disk space after moving tables](img/b5d0b558fd689ad2c595c81c5e270c38.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--vSxwuDxM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/828/0%2AIDJHzccNPmcY6iFG.png) 
 
 <figcaption>移动表后的空闲磁盘空间图</figcaption>
 

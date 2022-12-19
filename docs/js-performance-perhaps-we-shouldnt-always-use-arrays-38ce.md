@@ -55,4 +55,4 @@ Enter fullscreen mode Exit fullscreen mode
 
 也感谢 [Oscar](https://dev.to/ibibgor) 接下来的性能测试，展示了在原始帖子中描述的两种方法之间的差异。< 3
 
-[![](../Images/0fd7e2479f149ce1e22a905f04ba3548.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TkXrIgvv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6o6kztplpgpz26tvlh2c.png)
+[![](img/0fd7e2479f149ce1e22a905f04ba3548.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TkXrIgvv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6o6kztplpgpz26tvlh2c.png)

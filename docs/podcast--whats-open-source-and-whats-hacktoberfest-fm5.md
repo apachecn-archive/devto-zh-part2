@@ -38,7 +38,7 @@
 
 我和 DevCast Pakistan 会喜欢你对播客的反馈。您可以通过以下链接联系 DevCast:
 
-> ![Developer Podcast Pakistan profile image](../Images/7419cec4a203c47d8eb17080c3e2dd45.png)开发者播客巴基斯坦@ devcastpak![twitter logo](../Images/65e26e35707d96169ec8af6b3cbf2003.png)参与者:
+> ![Developer Podcast Pakistan profile image](img/7419cec4a203c47d8eb17080c3e2dd45.png)开发者播客巴基斯坦@ devcastpak![twitter logo](img/65e26e35707d96169ec8af6b3cbf2003.png)参与者:
 > -Ahsan Ayaz(Modus Create，Inc 的软件架构师| Google 开发者 Angular 方面的专家)
 > -Wajahat Karim(Countour Software&开源贡献者的资深 Android 开发者)
 > 

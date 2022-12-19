@@ -22,7 +22,7 @@
     *   支持预定事件
     *   ECR 上仓库的循环清理
 
-[![](../Images/58615a25f67a32ca6363f354831b391e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pbWrTM2q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/wiki/metaps/genova/assets/images/overview.png)
+[![](img/58615a25f67a32ca6363f354831b391e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--pbWrTM2q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/wiki/metaps/genova/asseimg/overview.png)
 
 ## 这个包是开源的
 

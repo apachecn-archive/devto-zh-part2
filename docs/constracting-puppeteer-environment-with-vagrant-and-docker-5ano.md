@@ -123,7 +123,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 您可以在 script.js 中看到截图创建的图像结果
 
-[![google_top.png](../Images/f4dd5a00977da51663600d9b6fd1abe6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0XTxSTdj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/192145/7901f54b-dc67-1376-eea7-844d76203036.png)
+[![google_top.png](img/f4dd5a00977da51663600d9b6fd1abe6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0XTxSTdj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://qiita-image-store.s3.amazonaws.com/0/192145/7901f54b-dc67-1376-eea7-844d76203036.png)
 
 这是日语页面。
 如果不需要日文字体，应修改安装了日文字体的 Dockerfile。它在 Docker 构建中执行。

@@ -4,7 +4,7 @@
 
 让我们分享一些 MacOS 上的菜单栏？
 
-[![menubar](../Images/bda4a9c0da9b7ae89508102757180ea7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---qmXYLTY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o0no39v6w2b50kjv3ez4.png)
+[![menubar](img/bda4a9c0da9b7ae89508102757180ea7.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s---qmXYLTY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/o0no39v6w2b50kjv3ez4.png)
 
 更好的窗口位置和一些手势的触摸工具
 Dropbox

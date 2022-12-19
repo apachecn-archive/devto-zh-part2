@@ -4,19 +4,19 @@
 
 在学习 react-router v4 的时候，我读了一些他们的源代码。正如我们所知，他们使用当前上下文来传递路由器和路由信息，覆盖先前/父路由信息
 
-## ![GitHub logo](../Images/04febf72106d337f3956ebfaf9121dae.png) [反应训练](https://github.com/ReactTraining) / [反应路由器](https://github.com/ReactTraining/react-router)
+## ![GitHub logo](img/04febf72106d337f3956ebfaf9121dae.png) [反应训练](https://github.com/ReactTraining) / [反应路由器](https://github.com/ReactTraining/react-router)
 
 ### React 的声明性路由
 
 <article class="markdown-body entry-content" itemprop="text">
 
-[![react-router](../Images/08ac25ab0b926ef02fb659a00e77a870.png)T2】](https://reacttraining.com/react-router/)
+[![react-router](img/08ac25ab0b926ef02fb659a00e77a870.png)T2】](https://reacttraining.com/react-router/)
 
 ### 反应路由器
 
 [反应](https://facebook.github.io/react)的声明性路由
 
-[![](../Images/ff5ac13061650f0974ba01104c773300.png)](https://www.npmjs.com/package/react-router)[![](../Images/efd4bb034c13c2bf4f405a93dd6ee5ba.png)](https://www.npmjs.com/package/react-router)[![](../Images/3fd72b5cb1205860d3b5cd4a92d84052.png)](https://travis-ci.com/ReactTraining/react-router)
+[![](img/ff5ac13061650f0974ba01104c773300.png)](https://www.npmjs.com/package/react-router)[![](img/efd4bb034c13c2bf4f405a93dd6ee5ba.png)](https://www.npmjs.com/package/react-router)[![](img/3fd72b5cb1205860d3b5cd4a92d84052.png)](https://travis-ci.com/ReactTraining/react-router)
 
 ## 文件（documents 的简写）
 
@@ -34,10 +34,10 @@
 
 | 包裹 | 版本 | 文件（documents 的简写） | 描述 |
 | --- | --- | --- | --- |
-| [T2`react-router`](https://raw.githubusercontent.com/ReactTraining/react-router/master//packages/react-router) | [![npm](../Images/2bcdb5ce21a6054dcd6b8ab4a801bdff.png)T2】](https://www.npmjs.com/package/react-router) | [![](../Images/e2d6c6f636cade7f6831395edb457ba1.png) ](https://reacttraining.com/react-router/core/guides/quick-start) [ ![](../Images/929f0a47f5e402b516340ce6804620c8.png)](https://raw.githubusercontent.com/ReactTraining/react-router/master//packages/react-router/docs) | React 路由器的核心 |
-| [T2`react-router-dom`](https://raw.githubusercontent.com/ReactTraining/react-router/master//packages/react-router-dom) | [![npm](../Images/9d54420ee7730a0b1dafb6f0637560e7.png)T2】](https://www.npmjs.com/package/react-router-dom) | [![](../Images/e2d6c6f636cade7f6831395edb457ba1.png) ](https://reacttraining.com/react-router/web/guides/quick-start) [ ![](../Images/929f0a47f5e402b516340ce6804620c8.png)](https://raw.githubusercontent.com/ReactTraining/react-router/master//packages/react-router-dom/docs) | React 路由器的 DOM 绑定 |
-| [T2`react-router-native`](https://raw.githubusercontent.com/ReactTraining/react-router/master//packages/react-router-native) | [![npm](../Images/761a1a380ae38474e2b88a4221f2ec55.png)T2】](https://www.npmjs.com/package/react-router-native) | [![](../Images/e2d6c6f636cade7f6831395edb457ba1.png) ](https://reacttraining.com/react-router/native/guides/quick-start) [ ![](../Images/929f0a47f5e402b516340ce6804620c8.png)](https://raw.githubusercontent.com/ReactTraining/react-router/master//packages/react-router-native/docs) | [React 路由器的 React 本机](https://facebook.github.io/react-native/)绑定 |
-| [T2`react-router-config`](https://raw.githubusercontent.com/ReactTraining/react-router/master//packages/react-router-config) | [![npm](../Images/96afb8b04af8f65389f8c245aa7f8394.png)T2】](https://www.npmjs.com/package/react-router-config) | [![](../Images/19cd8184ebbcc7d23ab43d3333d19a9a.png)T2】](https://raw.githubusercontent.com/ReactTraining/react-router/master//packages/react-router-config/#readme) | 静态路由配置助手 |
+| [T2`react-router`](https://raw.githubusercontent.com/ReactTraining/react-router/master//packages/react-router) | [![npm](img/2bcdb5ce21a6054dcd6b8ab4a801bdff.png)T2】](https://www.npmjs.com/package/react-router) | [![](img/e2d6c6f636cade7f6831395edb457ba1.png) ](https://reacttraining.com/react-router/core/guides/quick-start) [ ![](img/929f0a47f5e402b516340ce6804620c8.png)](https://raw.githubusercontent.com/ReactTraining/react-router/master//packages/react-router/docs) | React 路由器的核心 |
+| [T2`react-router-dom`](https://raw.githubusercontent.com/ReactTraining/react-router/master//packages/react-router-dom) | [![npm](img/9d54420ee7730a0b1dafb6f0637560e7.png)T2】](https://www.npmjs.com/package/react-router-dom) | [![](img/e2d6c6f636cade7f6831395edb457ba1.png) ](https://reacttraining.com/react-router/web/guides/quick-start) [ ![](img/929f0a47f5e402b516340ce6804620c8.png)](https://raw.githubusercontent.com/ReactTraining/react-router/master//packages/react-router-dom/docs) | React 路由器的 DOM 绑定 |
+| [T2`react-router-native`](https://raw.githubusercontent.com/ReactTraining/react-router/master//packages/react-router-native) | [![npm](img/761a1a380ae38474e2b88a4221f2ec55.png)T2】](https://www.npmjs.com/package/react-router-native) | [![](img/e2d6c6f636cade7f6831395edb457ba1.png) ](https://reacttraining.com/react-router/native/guides/quick-start) [ ![](img/929f0a47f5e402b516340ce6804620c8.png)](https://raw.githubusercontent.com/ReactTraining/react-router/master//packages/react-router-native/docs) | [React 路由器的 React 本机](https://facebook.github.io/react-native/)绑定 |
+| [T2`react-router-config`](https://raw.githubusercontent.com/ReactTraining/react-router/master//packages/react-router-config) | [![npm](img/96afb8b04af8f65389f8c245aa7f8394.png)T2】](https://www.npmjs.com/package/react-router-config) | [![](img/19cd8184ebbcc7d23ab43d3333d19a9a.png)T2】](https://raw.githubusercontent.com/ReactTraining/react-router/master//packages/react-router-config/#readme) | 静态路由配置助手 |
 
 > **Redux 用户:**[`react-router-redux`包](https://github.com/ReactTraining/react-router/tree/5345a820818c8d43ac923558670538a479ac2234/packages/react-router-redux)现已弃用。参见 [Redux Integration](https://reacttraining.com/react-router/web/guides/redux-integration) 了解更好的方法。
 

@@ -77,7 +77,7 @@ console.log(uniqNumbers);
 
 现在，在浏览器中打开`index.html`文件并检查你的控制台。您看到的不是唯一的数字，而是如下所示的错误:
 
-[![](../Images/0fbf842b901705298e3481aaddbc7a67.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1yq2HHJv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pht0cxvj8dzirz2r4huf.png) 
+[![](img/0fbf842b901705298e3481aaddbc7a67.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--1yq2HHJv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/pht0cxvj8dzirz2r4huf.png) 
 
 <figure>
 
@@ -132,7 +132,7 @@ module.exports = {
 
 如果您在浏览器中打开`index.html`文件，您将看到如下唯一的数字:
 
-[![](../Images/5ca8800909f4187d53230ca5dbb97d93.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--v-7YBc0F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lh4k8j3l4td6f17lds67.png) 
+[![](img/5ca8800909f4187d53230ca5dbb97d93.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--v-7YBc0F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lh4k8j3l4td6f17lds67.png) 
 
 <figure>
 

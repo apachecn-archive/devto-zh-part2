@@ -16,6 +16,6 @@
 
 用过的技术:Gatsby.js，Netlify，Firebase，React.js
 
-[![GitHub Traffic Viewer](../Images/5c9e378fb0d5e8d58d04213dec1bbf1a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LwU6UTs---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s15.postimg.cc/x7qsfmga3/Screen_Shot_2018-08-17_at_22.15.07.png)
+[![GitHub Traffic Viewer](img/5c9e378fb0d5e8d58d04213dec1bbf1a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--LwU6UTs---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s15.postimg.cc/x7qsfmga3/Screen_Shot_2018-08-17_at_22.15.07.png)
 
 让我知道你对它的看法，以及它是否对你有帮助！

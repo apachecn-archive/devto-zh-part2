@@ -6,7 +6,7 @@
 
 您正在处理来自 API 的 JSON 响应，并且想要验证它们的模式？你的第一选择是什么？也许你会采用 Thoughtbot 的人在本文中解释的伟大方法。我已经启动并测试了基于该技术的各种项目，但我总是觉得自己做错了什么，因为这个过程太痛苦了。我来解释一下；如果您想验证 JSON 响应，首先您应该基于它创建一个 JSON 模式，然后您将编写您的测试并得到一些错误，因为缺少逗号/双引号。
 
-[![errors everywhere](../Images/ec7c2ee64f7511b30860e5aec3b319a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wyDHUSIf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AinL-FgfOPxYjynFh5-oNfA.png)
+[![errors everywhere](img/ec7c2ee64f7511b30860e5aec3b319a5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--wyDHUSIf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2AinL-FgfOPxYjynFh5-oNfA.png)
 
 测试 JSON 响应的老方法的一个例子。首先，定义 JSON 模式:
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/ervandra/indonesian-startup---ciayo-corp-1l02>
 
-[![CIAYO Corp](../Images/a76112006d41b3fa38c65abf3be11a28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mk_UwSKL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3r0cno04j2fh4yhvgbc5.jpg)
+[![CIAYO Corp](img/a76112006d41b3fa38c65abf3be11a28.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Mk_UwSKL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/3r0cno04j2fh4yhvgbc5.jpg)
 
 在这个技术日新月异的时代，谁能快速应对，谁就能获得成功。
 
@@ -23,11 +23,11 @@
 *   [CIAYO 漫画奖励](https://rewards.ciayo.com)
 
 我们目前正在招聘可能的前端开发人员:
-[![Javascript Developer](../Images/a010ac09e32cf00ee26aef598dda613e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EW-Vh-Ot--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lpf1xg0jlw9pjb2iakxc.png)
+[![Javascript Developer](img/a010ac09e32cf00ee26aef598dda613e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--EW-Vh-Ot--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lpf1xg0jlw9pjb2iakxc.png)
 
-[![Web Designer](../Images/9d37741efa9d2638f11ae39d1781ec85.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p6RipXf6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dwj2fdoc2cyob37c8mmu.png)
+[![Web Designer](img/9d37741efa9d2638f11ae39d1781ec85.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--p6RipXf6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dwj2fdoc2cyob37c8mmu.png)
 
-[![React Developer](../Images/c42d5b038dc4ec0ca70022f13b496a68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z31Tg7iM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zsnk5c77xo1e7h9xjooj.png)
+[![React Developer](img/c42d5b038dc4ec0ca70022f13b496a68.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Z31Tg7iM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zsnk5c77xo1e7h9xjooj.png)
 
 将简历和作品集发送给[join@ciayo.com](mailto:join@ciayo.com)
 填写主题:*前端开发者*

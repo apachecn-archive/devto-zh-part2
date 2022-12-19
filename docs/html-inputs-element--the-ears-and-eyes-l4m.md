@@ -45,6 +45,6 @@
 可以使用其他属性进一步增强输入。属性可以为输入设置规则，并有助于用户体验。公共属性**值**和**占位符**将默认文本添加到输入字段。占位符为用户提供了所请求输入的提示，而 value 规定了所提供的输入值。
 
 下图是页面上显示的表单:
-[![alt text](../Images/85854081c46c02502145be38da826e61.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ri_AEdgm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4mymz7ypb3961bg36376.png)
+[![alt text](img/85854081c46c02502145be38da826e61.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ri_AEdgm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/4mymz7ypb3961bg36376.png)
 
 请继续关注未来关于如何使用 GET、POST、PUT 和 DELETE 方法的讨论....

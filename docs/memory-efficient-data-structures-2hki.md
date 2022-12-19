@@ -37,7 +37,7 @@ RUM 系列的[第一篇博文](https://dev.to/frosnerd/rum-conjecture---reasonin
 
 布隆过滤器背后的思想类似于哈希表。第一个区别是，我们不是为整数数组保留空间，而是分配一个由 *m* 位组成的数组。其次，我们利用不是一个而是 *k* 个独立的散列函数。每个散列函数取集合中的一个(潜在的)元素，并在位数组中产生一个位置。
 
-[![bloom filter illustration](../Images/bac44c4f8532389553dc2afe11ed992c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Iv8w9lvT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tgp11bpflakmwhzlwtdd.png)
+[![bloom filter illustration](img/bac44c4f8532389553dc2afe11ed992c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Iv8w9lvT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tgp11bpflakmwhzlwtdd.png)
 
 最初，所有位都设置为 0。为了向集合中插入一个新值，我们使用每个 *k* 散列函数来计算它的散列值。然后，我们将相应位置的所有位设置为 1。
 
@@ -45,7 +45,7 @@ RUM 系列的[第一篇博文](https://dev.to/frosnerd/rum-conjecture---reasonin
 
 误报的概率取决于哈希函数的数量 *k* ，位数组的大小 *m* ，以及已经插入布隆过滤器的元素数量 *n* 。假设所有位都独立设置，则误报率 *FP* 可以近似为
 
-[![false positive rate formula](../Images/2e26f8f0f8ebae5f27f71ebebbdd7761.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xhgA0gIi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ea5iz4sisnkfy0fbh0s1.png)
+[![false positive rate formula](img/2e26f8f0f8ebae5f27f71ebebbdd7761.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xhgA0gIi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ea5iz4sisnkfy0fbh0s1.png)
 
 对于已经插入了 100 万比特、5 个散列函数和 100k 个元素的布隆过滤器，我们得到 *FP ≈ 1%* 。如果你想自己摆弄这些变量，可以看看托马斯·赫斯特的这个很棒的[布鲁姆过滤器计算器](https://hur.st/bloomfilter)。
 

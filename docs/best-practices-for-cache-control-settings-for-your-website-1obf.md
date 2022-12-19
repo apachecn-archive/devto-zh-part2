@@ -16,7 +16,7 @@
 
 如果没有缓存控制设置，浏览器会针对每个资源请求访问 web 服务器，并从中读取信息。这增加了受影响网站的加载时间，在传输信息时增加了 web 服务器的额外负载，并增加了对后端的调用次数。
 
-[![Requests flow with no cache settings](../Images/6d5f1d63ef2b609a17e40e77b004a164.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--ekD9gmUF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AlQnGue9Sakhrrp4jTAOZow%402x.jpeg) *无缓存设置的请求流*
+[![Requests flow with no cache settings](img/6d5f1d63ef2b609a17e40e77b004a164.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--ekD9gmUF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AlQnGue9Sakhrrp4jTAOZow%402x.jpeg) *无缓存设置的请求流*
 
 由浏览器决定做什么以及如何缓存信息，而无需来自服务器的指令。目前 Chrome 和 Safari 每次都是从后端下载数据，没有缓存指令。然而，这可能会改变并导致不同的行为，尤其是在其他平台上。
 
@@ -26,9 +26,9 @@
 
 Etag 是缓存设置之一。这个 HTTP 头背后的主要思想是允许你的浏览器知道对相关资源的修改，而不用下载完整的文件。服务器可以用每个文件的散列和进行类似的计算，然后将这个散列和发送给客户机。下次客户端试图访问这个资源时，浏览器不会下载文件，而是在 HTTP 头中发送类似这样的内容:**If-None-Match:W/" 1d2e 7–1648 e 509289 "**。然后，服务器将对照当前文件的哈希和检查该哈希和，如果有差异，则强制客户端下载新文件。否则，将通知客户端应该使用缓存版本。
 
-[![Requests flow with Etag — 1st load](../Images/aa9e00d4d01f007d175375966c895c8f.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s----bTgUwA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2An3A-uFOdl_oU6LhSGpA-Kg%402x.jpeg) *带 Etag 的请求流—第一次加载*
+[![Requests flow with Etag — 1st load](img/aa9e00d4d01f007d175375966c895c8f.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s----bTgUwA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2An3A-uFOdl_oU6LhSGpA-Kg%402x.jpeg) *带 Etag 的请求流—第一次加载*
 
-[![Requests flow with Etag — 2nd load](../Images/90c50e86c8f04055744c835e30048cb1.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--cuUIfW7t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AuM5Nver6fFIe6dwvsBXIsA%402x.jpeg) *带 Etag 的请求流—第二次加载*
+[![Requests flow with Etag — 2nd load](img/90c50e86c8f04055744c835e30048cb1.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--cuUIfW7t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AuM5Nver6fFIe6dwvsBXIsA%402x.jpeg) *带 Etag 的请求流—第二次加载*
 
 在 Etag 缓存策略打开的情况下，我们总是去服务器检查文件的哈希和，只有在这之后，浏览器才会决定从缓存中取出它或完全加载它。当资源未被修改时，无论您请求的是 10KB 还是 10MB 文件，都只需 80–100 字节即可验证。
 
@@ -41,11 +41,11 @@ Etag 是缓存设置之一。这个 HTTP 头背后的主要思想是允许你的
 > Last-Modified 是一个弱缓存头，因为浏览器应用启发式方法来确定是否从缓存中获取项目。和启发式算法因浏览器而异。
 > **谷歌缓存最佳实践指南**
 
-[![Requests flow with Last-Modified — 1st load](../Images/3f569cfbcde37cc573c9b0c6a287303a.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--Dl5o8EC0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AF3RwCxY65xWkb0zjzWmqAg%402x.jpeg) *最后修改—第一次加载的请求流*
+[![Requests flow with Last-Modified — 1st load](img/3f569cfbcde37cc573c9b0c6a287303a.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--Dl5o8EC0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AF3RwCxY65xWkb0zjzWmqAg%402x.jpeg) *最后修改—第一次加载的请求流*
 
-[![Requests flow with Last-Modified — 2nd load (Perfect Scenario)](../Images/c1ea2b8232a019b756c16dbbe84fcc33.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--IQoCw_3D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AzKRwT_36r_j4H2QOJ75bQQ%402x.png) *最后一次修改的请求流—第二次加载(完美场景)*
+[![Requests flow with Last-Modified — 2nd load (Perfect Scenario)](img/c1ea2b8232a019b756c16dbbe84fcc33.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--IQoCw_3D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2AzKRwT_36r_j4H2QOJ75bQQ%402x.png) *最后一次修改的请求流—第二次加载(完美场景)*
 
-[![Requests flow with Last-Modified — 2nd load (Common case)](../Images/fe00d08fa6c121a31120dbfeefd6ceb6.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--EeyvKxKo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A_uPJ65NH43nvWwkF_qr6Hg%402x.jpeg) *最后一次修改的请求流—第二次加载(常见情况)*
+[![Requests flow with Last-Modified — 2nd load (Common case)](img/fe00d08fa6c121a31120dbfeefd6ceb6.png) ](https://res.cloudinary.com/practicaldev/image/fetch/s--EeyvKxKo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2000/1%2A_uPJ65NH43nvWwkF_qr6Hg%402x.jpeg) *最后一次修改的请求流—第二次加载(常见情况)*
 
 因此，我们不能只依赖于最后修改，所以我宁愿完全删除它从我的服务器设置，以减少流量，即使它只是几个字节。
 

@@ -20,7 +20,7 @@
 
 让我们用一些具体的、运行中的例子来工作，这样概念就更清楚了。我们将开发一个博客平台的前端应用程序。简单的用户界面将显示来自不同作者和类别的文章。
 
-[![Blog!](../Images/707e9fac6abf127227c6ac9a5fa3cc69.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5YyiBamt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wz7rcqry5iuv87f92ksi.PNG)
+[![Blog!](img/707e9fac6abf127227c6ac9a5fa3cc69.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5YyiBamt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/wz7rcqry5iuv87f92ksi.PNG)
 
 ## 天真的做法
 

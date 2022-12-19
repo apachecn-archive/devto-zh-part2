@@ -38,7 +38,7 @@
 
 感谢上帝，我们有 Sebastian 帮助我完成了实现这些功能的实际代码。
 
-查看 [GitHub](https://github.com/spatie/spatie.be/blob/master/resources/assets/js/front/images/index.js) 上的所有代码。
+查看 [GitHub](https://github.com/spatie/spatie.be/blob/master/resources/assets/js/froimg/index.js) 上的所有代码。
 
 ## CSS
 

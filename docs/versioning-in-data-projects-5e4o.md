@@ -6,7 +6,7 @@
 
 因此，当我在数据团队的 git repos 上偶然发现 csv 文件时，这并不奇怪，因为他们很难跟踪代码和元数据。然而，对于今天的庞大数据集来说，这是不可能的。我见过几个解决这个问题的方法，没有一个是防弹的。这篇文章不是关于这些黑客，而是关于它的开源解决方案: [DVC](https://dvc.org/) 。
 
-[![dvc_flow_large](../Images/49fa3612e31140d31ab57c9456d82a67.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SibN27D1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datacenternotes.files.wordpress.com/2018/09/dvc_flow_large.png)
+[![dvc_flow_large](img/49fa3612e31140d31ab57c9456d82a67.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--SibN27D1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://datacenternotes.files.wordpress.com/2018/09/dvc_flow_large.png)
 
 让我们用一个 kaggle 挑战来举例:[用高级回归技术预测房价](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 

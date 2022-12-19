@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/plutov/organizing-the-first-gophercon-in-vietnam-59am>
 
-[![gophercon](../Images/2e57651b7eb412a3ec9a72fa3c6db70c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4I91w9xz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://pliutau.com/gopher-mic.png)
+[![gophercon](img/2e57651b7eb412a3ec9a72fa3c6db70c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--4I91w9xz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://pliutau.com/gopher-mic.png)
 
 嗨地鼠们！
 

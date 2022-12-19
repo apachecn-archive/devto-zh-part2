@@ -8,7 +8,7 @@
 
 作为一项实践，决定留下什么(或者一起扔掉)需要把我所有的东西都摆出来，并选择保留哪些。这个决定是基于物品对我的有用性(它的价值)和它的重量。
 
-[![All my stuff.](../Images/1695fbedc6465d8dcbbcec6c472bfe50.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FP6diD79--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7nfcnjvvi2130delgs1q.jpeg) 
+[![All my stuff.](img/1695fbedc6465d8dcbbcec6c472bfe50.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--FP6diD79--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7nfcnjvvi2130delgs1q.jpeg) 
 *这是我所有的东西，还有我的随身行李。*
 
 作为一名程序员，我意识到这样的决定可以由计算机更有效地做出。事实上，这种情况发生得如此频繁，如此普遍，以至于许多人会将这种情况视为经典的*打包问题*或*背包问题。*我该如何告诉电脑，当我的行李重量限制在 7 公斤或以下时，在我的包里放尽可能多的重要物品？用算法！耶！
@@ -323,7 +323,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 将我们的解空间形象化将是最有帮助的。下面是我们用代码构建的一个示例:
 
-[![A sketch of the matrix with rows for items and columns for grams of weight.](../Images/998a61b2e21b871b901b9fd5950192ac.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MAaSsb49--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/noe7bmr3fxuz0fa9nwah.jpg) 
+[![A sketch of the matrix with rows for items and columns for grams of weight.](img/998a61b2e21b871b901b9fd5950192ac.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--MAaSsb49--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/noe7bmr3fxuz0fa9nwah.jpg) 
 *空无一物的多元宇宙。*
 
 在围棋中，我们可以将这个矩阵创建为切片中的切片。
@@ -385,7 +385,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 我们会有一个大的数字图表，在最后一列最后一行我们会有我们可能的最高值。
 
-[![A strictly representative representation of the filled matrix.](../Images/1c3c58b72d79ae68569a3068f5415bba.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--56tWg83b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fi7w2pd3hb74tg0z1l1h.jpg) 
+[![A strictly representative representation of the filled matrix.](img/1c3c58b72d79ae68569a3068f5415bba.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--56tWg83b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/fi7w2pd3hb74tg0z1l1h.jpg) 
 *填充矩阵的严格代表性表示。*
 
 这很好，但是我们如何找出放在袋子里的物品的组合来达到这个价值呢？

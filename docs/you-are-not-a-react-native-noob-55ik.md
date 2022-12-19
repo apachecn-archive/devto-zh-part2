@@ -6,7 +6,7 @@
 
 > React Native 允许您使用 React 的相同知识库，并且您可以进行原生移动应用程序开发。这很有趣🐼
 
-[![](../Images/ba7265a38f0cd67b11d52dd3d019cd5d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aX8OephN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/384/1%2A_Q8TCuSlMVz2PIglVnKO_A.jpeg)
+[![](img/ba7265a38f0cd67b11d52dd3d019cd5d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--aX8OephN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/384/1%2A_Q8TCuSlMVz2PIglVnKO_A.jpeg)
 
 如果你是一名 React 开发人员，并且了解一些本地开发的基础知识，比如 iOS🍎还是安卓🤖然后你会很容易地学会反应，即不是一个 noob🙈。虽然，不是一一对应的关系。当我最初学习 React Native 时，我忘记了我的原生开发技能是如何容易地转移的。
 
@@ -85,7 +85,7 @@ const storeUserInfo = async (token) => {
 
 从开发人员的角度来看，这意味着您希望将设备方向锁定为仅纵向模式。这是每个平台都有的设置。您必须在 Android 的 androidManifest.xml 中进行更改，并在 iOS 中设置复选框。
 
-[![](../Images/f3c17cd7bfe7566560fe8ee0e375bff4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ESDqHmnz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/285/1%2AWWSyvvzVtHba9ZZ9xflAtg.png) 
+[![](img/f3c17cd7bfe7566560fe8ee0e375bff4.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ESDqHmnz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/285/1%2AWWSyvvzVtHba9ZZ9xflAtg.png) 
 
 <figcaption>锁定方向 iOS 配置</figcaption>
 
@@ -117,7 +117,7 @@ company-logo@3x.png
 
 ### 导航
 
-[![](../Images/4ba4130fcbf270534e101c8efbead069.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cU6Gb2TH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/199/1%2Ai63pKvT_8ZJWI2JivEJdyA.gif) 
+[![](img/4ba4130fcbf270534e101c8efbead069.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--cU6Gb2TH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://cdn-images-1.medium.com/max/199/1%2Ai63pKvT_8ZJWI2JivEJdyA.gif) 
 
 <figcaption>【导航示例(iOS)</figcaption>
 

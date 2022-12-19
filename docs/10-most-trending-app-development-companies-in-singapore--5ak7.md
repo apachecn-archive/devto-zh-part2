@@ -29,13 +29,13 @@
 **团队规模:** 10-49 人
 
 **服务重点**
-[![service focus](../Images/4179063e0a2b659061f8378ffbec0ba5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Muww8mcu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ims7geihyns06oae1m3v.png)
+[![service focus](img/4179063e0a2b659061f8378ffbec0ba5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Muww8mcu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ims7geihyns06oae1m3v.png)
 
 **客户端焦点**
-[![client focus](../Images/0bbd668b3eeb66114183abbb20f17de1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--q52d67FN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zx1yps4onm0eb7bf0993.png)
+[![client focus](img/0bbd668b3eeb66114183abbb20f17de1.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--q52d67FN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zx1yps4onm0eb7bf0993.png)
 
 **行业焦点**
-[![industry focus](../Images/0e37e3bccab5d7351267286002b443d3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mn7yLNiG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bhkmju6pe4rceoc97nf4.png)
+[![industry focus](img/0e37e3bccab5d7351267286002b443d3.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mn7yLNiG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bhkmju6pe4rceoc97nf4.png)
 
 **2。Rainmaker Labs**
 [Rainmaker Labs](http://rainmaker-labs.com/)在为初创公司和企业创建令人惊叹的移动应用程序方面拥有五年的经验，其中许多应用程序多次获得用户赞赏。
@@ -46,10 +46,10 @@
 T3 团队规模:50–249 人
 
 **服务重点**
-[![service focus](../Images/3ff6885c9c1d7979dade96dc99f015db.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yhEp7x4t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nfsmvsc9axogzi78btkd.png)
+[![service focus](img/3ff6885c9c1d7979dade96dc99f015db.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--yhEp7x4t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nfsmvsc9axogzi78btkd.png)
 
 **客户端焦点**
-[![client focus](../Images/79786595ddf972acd3b062b79dd9be64.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--abGdtk6d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m2m87kpauqz43a17dnq4.png)
+[![client focus](img/79786595ddf972acd3b062b79dd9be64.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--abGdtk6d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m2m87kpauqz43a17dnq4.png)
 
 **3。Applify**
 不仅是他们对完美和创新的热情，还有他们提供定制解决方案的能力，帮助 [Applify](https://www.applify.co/) 成为全球领先的移动解决方案提供商，包括新加坡应用开发市场。
@@ -63,13 +63,13 @@ T3 团队规模:50–249 人
 **团队规模:** 10-49
 
 **服务重点**
-[![Applify service focus](../Images/5dae4962bf123be20885d57965237b83.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2GDeESRX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r1qft6jzpc43gyq3qnb8.png)
+[![Applify service focus](img/5dae4962bf123be20885d57965237b83.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--2GDeESRX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/r1qft6jzpc43gyq3qnb8.png)
 
 **客户端焦点**
-[![Applify client focus](../Images/03f5d31d953013358f964cabc5173a42.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YAE-dbkq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sgcuze1jixlekk7ahcb7.png)
+[![Applify client focus](img/03f5d31d953013358f964cabc5173a42.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--YAE-dbkq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/sgcuze1jixlekk7ahcb7.png)
 
 **行业焦点**
-[![Industry Focus](../Images/2bd8de792ab96e16556bf343eed00d70.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LWvQ94FN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kyhiq6q9uqh6yoyltws0.png)
+[![Industry Focus](img/2bd8de792ab96e16556bf343eed00d70.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LWvQ94FN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/kyhiq6q9uqh6yoyltws0.png)
 
 **4。让我们培育**
 [让我们培育](https://www.letsnurture.com/)于 2008 年成立，当时是一家小型网络和移动应用开发公司。今天，它已经出现在应用程序开发的每个领域，无论是游戏开发，可穿戴应用程序开发，还是聊天机器人开发。
@@ -81,10 +81,10 @@ T3 团队规模:50–249 人
 **员工:** 50-249
 
 **服务重点**
-[![service focus](../Images/b2ad8f070d53254ff8c574c3f356ab78.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nsXoILjG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bs9t54nhsqc4ao0tsrm6.png)
+[![service focus](img/b2ad8f070d53254ff8c574c3f356ab78.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--nsXoILjG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bs9t54nhsqc4ao0tsrm6.png)
 
 **客户端焦点**
-[![Client Focus](../Images/47a73a824f2d383d4b1c7fd8a33bc022.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lJpeuID5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ktstqe3xgnozb108mq9y.png)
+[![Client Focus](img/47a73a824f2d383d4b1c7fd8a33bc022.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--lJpeuID5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ktstqe3xgnozb108mq9y.png)
 
 **行业聚焦**T2[T4](https://res.cloudinary.com/practicaldev/image/fetch/s--_wZgs7v6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1buj4p5plxqnvp96x387.png)
 
@@ -110,13 +110,13 @@ T3 团队规模:50–249 人
 团队规模: 250-999 人
 
 **服务重点**
-[![Service Focus](../Images/d3c5b7dccfac5601e150c64c6a604108.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--e_ZTx-FQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zutw0yhmv5sfl4jvki35.png)
+[![Service Focus](img/d3c5b7dccfac5601e150c64c6a604108.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--e_ZTx-FQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zutw0yhmv5sfl4jvki35.png)
 
 **客户端焦点**
-[![Client Focus](../Images/362ebcbf8a463c0600795c6c13063280.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rAakDRjq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/es3t5c8zpx3d8dbujqfx.png)
+[![Client Focus](img/362ebcbf8a463c0600795c6c13063280.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rAakDRjq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/es3t5c8zpx3d8dbujqfx.png)
 
 **行业焦点**
-[![Industry Focus](../Images/e534cb34063a23a674fa19ead5edff7e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--41mB7CR2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/agl1gdmech420ji378ya.png)
+[![Industry Focus](img/e534cb34063a23a674fa19ead5edff7e.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--41mB7CR2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/agl1gdmech420ji378ya.png)
 
 **7。Octal IT Solution**
 在其作为应用程序开发人员的 13 年漫长历程中， [Octal IT Solution](https://www.goodfirms.co/company/octal-it-solution) 成功地将无数想法以革命性应用程序的形式转化为现实，帮助数百人实现了他们的业务目标，并与 Skype、微软、NASSCOM 等科技巨头建立了合作关系。
@@ -126,13 +126,13 @@ T3 团队规模:50–249 人
 **团队规模:**$ 25-$ 49/小时
 
 **服务重点**
-[![Service Focus](../Images/a435822c39cdd864a705e302f98a62b8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--npNT2fWj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rd0vsnx70grbsywq81w3.png)
+[![Service Focus](img/a435822c39cdd864a705e302f98a62b8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--npNT2fWj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rd0vsnx70grbsywq81w3.png)
 
 **客户端焦点**
-[![Client Focus](../Images/e0346221901bd7c947e856c940946d78.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GkV6AHtk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/12tozzkd3dzwictuk923.png)
+[![Client Focus](img/e0346221901bd7c947e856c940946d78.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--GkV6AHtk--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/12tozzkd3dzwictuk923.png)
 
 **行业焦点**
-[![Industry Focus](../Images/01011e7cc139948e6195020865854f51.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DjDBJ0XE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mx4p0pflugc8yqzhspft.png)
+[![Industry Focus](img/01011e7cc139948e6195020865854f51.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--DjDBJ0XE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/mx4p0pflugc8yqzhspft.png)
 
 **8。明实验室**
 [明实验室](https://minglabs.com/en)是另一家应用程序开发公司，多年来创造了移动应用程序来吸引、激励和愉悦用户。他们的应用程序之所以广受认可，像西门子、阿迪达斯、迪士尼和新加坡电信这样的大公司都是他们的客户。
@@ -144,10 +144,10 @@ T3 团队规模:50–249 人
 **团队规模:** 50-249
 
 **服务重点**
-[![Service Focus](../Images/39352590fb5527b3d37950906262fd19.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ELJqL5Ts--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q4ixnowueu7z7xkxjwju.png)
+[![Service Focus](img/39352590fb5527b3d37950906262fd19.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ELJqL5Ts--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q4ixnowueu7z7xkxjwju.png)
 
 **行业焦点**
-[![Industry Focus](../Images/93075927212fe9ac8a1c0fc9e6019bf6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AL3H1bZg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/404wkgs5brcb24pzx9ow.png)
+[![Industry Focus](img/93075927212fe9ac8a1c0fc9e6019bf6.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--AL3H1bZg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/404wkgs5brcb24pzx9ow.png)
 
 **9。Mobiloitte**
 [Mobiloitte](https://www.mobiloitte.com/)自 2005 年开始从事软件和移动应用开发业务，已经为娱乐&音乐、教育、交通、零售、医疗保健等行业开发了无数应用和软件。
@@ -157,13 +157,13 @@ T3 团队规模:50–249 人
 **团队规模:** 250-999
 
 **服务重点**
-[![Service Focus](../Images/51a402a32de2d0fdbc8909fc40d7f3fb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Nx8dIIks--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/grfogbk15slvpu1llsn5.png)
+[![Service Focus](img/51a402a32de2d0fdbc8909fc40d7f3fb.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Nx8dIIks--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/grfogbk15slvpu1llsn5.png)
 
 **客户端焦点**
-[![Client Focus](../Images/0f59aa971fbca04d4f9210a741d861f9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--E-94AFmT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zinc3jxlwmlhn8xjmwij.png)
+[![Client Focus](img/0f59aa971fbca04d4f9210a741d861f9.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--E-94AFmT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/zinc3jxlwmlhn8xjmwij.png)
 
 **行业焦点**
-[![Industry Focus](../Images/2dd3561c328d6430648b61cfa3440733.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4IqQeILU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ajsw801cfswr3cq6j8fb.png)
+[![Industry Focus](img/2dd3561c328d6430648b61cfa3440733.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--4IqQeILU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ajsw801cfswr3cq6j8fb.png)
 
 10。Indus Net
 [Indus Net](https://www.indusnet.co.in/)是一家新兴的应用程序开发公司，主要专注于移动应用程序开发、移动游戏开发、物联网和可穿戴应用程序开发。到目前为止，他们已经为受欢迎的企业和政府机构开发了许多应用程序。
@@ -173,13 +173,13 @@ T3 团队规模:50–249 人
 **团队规模:** 250-999
 
 **服务重点**
-[![Service Focus](../Images/8c8019c3dbcc689107afc23853d7f335.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CurgVNUw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k1g3auwvlrqo5s12ogp6.png)
+[![Service Focus](img/8c8019c3dbcc689107afc23853d7f335.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--CurgVNUw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/k1g3auwvlrqo5s12ogp6.png)
 
 **客户端焦点**
-[![Client Focus](../Images/b7d192525c83d58990ae4730d9398eb7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pg83Seyf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/czwohahjkqa92bh5dwlx.png)
+[![Client Focus](img/b7d192525c83d58990ae4730d9398eb7.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--pg83Seyf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/czwohahjkqa92bh5dwlx.png)
 
 **行业焦点**
-[![Industry Focus](../Images/e0edcfa9964e3edce3f4287b7d31d1c2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--V3pfJlrU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6zsosm3e50lqiivfth8z.png)
+[![Industry Focus](img/e0edcfa9964e3edce3f4287b7d31d1c2.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--V3pfJlrU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6zsosm3e50lqiivfth8z.png)
 
 希望上面的列表可以帮助你选择最好的应用程序开发公司，创建一个最适合你的需求和期望的应用程序！
 

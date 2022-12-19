@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/asamolion/how-to-install-xi-editor-2emf>
 
-[![Xi](../Images/175f5c9bd0b1951f0035928db16d2e3b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Eu2U4X3N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9llpwpvnezugz963mlfs.png)
+[![Xi](img/175f5c9bd0b1951f0035928db16d2e3b.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Eu2U4X3N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9llpwpvnezugz963mlfs.png)
 
 我最近浏览了尼基塔·普罗科波夫的这篇博客文章。这篇文章让我大开眼界，也让我松了一口气，终于有人指出了大多数现代应用程序设计中的极端缺陷。
 

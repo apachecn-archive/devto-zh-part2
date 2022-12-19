@@ -16,7 +16,7 @@
 
 签出存储库
 
-## ![](../Images/375dfcc32199b4dedf2b526645c27ff7.png) [曼杰卡隆](https://github.com/manjrekarom) / [ XbyY](https://github.com/manjrekarom/XbyY)
+## ![](img/375dfcc32199b4dedf2b526645c27ff7.png) [曼杰卡隆](https://github.com/manjrekarom) / [ XbyY](https://github.com/manjrekarom/XbyY)
 
 ### 如何用 Y 制造、建造或求解 X？
 

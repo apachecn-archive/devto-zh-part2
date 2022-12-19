@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/wiaio/setup-a-raspberry-pi-zero-and-publish-an-event-to-wia-2e93>
 
-[![Raspberry Pi Zero](../Images/84e956c631b67c79c9208c56939be42d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IXX03luH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/ab3ee43-006.jpg)
+[![Raspberry Pi Zero](img/84e956c631b67c79c9208c56939be42d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--IXX03luH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/ab3ee43-006.jpg)
 
 #### **组件**
 
@@ -72,7 +72,7 @@ Enter fullscreen mode Exit fullscreen mode
 将`Your-SSID`替换为您的 WiFi 网络，将`Your-PSK`替换为您的 WiFi 密码。
 这个文件将告诉 Raspberry Pi 在启动时连接到指定的网络。
 
-[![alt text](../Images/9627ebd60057d48c25a08597cfc7e91a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XFd8bBVG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/dace3c3-Screenshot_from_2018-03-27_16-53-50.png)
+[![alt text](img/9627ebd60057d48c25a08597cfc7e91a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--XFd8bBVG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/dace3c3-Screenshot_from_2018-03-27_16-53-50.png)
 
 **注意:确保您的电脑与您的 Raspberry Pi 连接在同一个网络上。**
 
@@ -140,7 +140,7 @@ Enter fullscreen mode Exit fullscreen mode
     *   将`ip-address`替换为您在上一步中获得的值
 *   系统会提示您输入密码——默认密码是`raspberry`
 
-[![alt text](../Images/e0d1905334e0191386d6247c0b243dca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t_1wtEF4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/8fc3efc-Screenshot_from_2018-03-27_16-49-33.png)
+[![alt text](img/e0d1905334e0191386d6247c0b243dca.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--t_1wtEF4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/8fc3efc-Screenshot_from_2018-03-27_16-49-33.png)
 
 ##### Windows 上的
 
@@ -148,7 +148,7 @@ Enter fullscreen mode Exit fullscreen mode
 *   在`Host Name (or IP address)`下输入您的树莓 Pi 的 IP 地址。
 *   点击`Open`按钮创建连接。
 
-[![alt text](../Images/ad7a1eae9c1a9889afcaaa0d71ccb419.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xyC4ic9P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/db97bb0-d4ed00b-connect-to-pi-via-putty-2.PNG)
+[![alt text](img/ad7a1eae9c1a9889afcaaa0d71ccb419.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--xyC4ic9P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/db97bb0-d4ed00b-connect-to-pi-via-putty-2.PNG)
 
 ### **向 Wia 发布事件**
 
@@ -181,11 +181,11 @@ Enter fullscreen mode Exit fullscreen mode
 
 用您设备的密钥替换`your-access-token`(您可以在 Wia 仪表板中找到它，它以`d_sk`开始)，并按照底部屏幕上的说明保存文件。
 
-[![alt text](../Images/670b6c1a7b7bacbd4a415bebd321a2f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kcfrjcsJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/89b6898-Screenshot_from_2018-03-27_16-45-30.png)
+[![alt text](img/670b6c1a7b7bacbd4a415bebd321a2f6.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--kcfrjcsJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/89b6898-Screenshot_from_2018-03-27_16-45-30.png)
 
 *   通过运行`python test.py`来运行您新创建的脚本
 *   导航到 Wia 仪表板，您将看到您的设备已连接
 
-[![alt text](../Images/b7e817e93d473b03645dedf5b2dbd3f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TCcLG7-0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/37f0199-Screenshot_from_2018-03-28_09-55-45.png)
+[![alt text](img/b7e817e93d473b03645dedf5b2dbd3f8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--TCcLG7-0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://files.readme.io/37f0199-Screenshot_from_2018-03-28_09-55-45.png)
 
-*   导航到“事件”选项卡，您将看到一个事件已经发布![alt text](../Images/bb808a461c3e111dfad5b2ed774c2813.png)
+*   导航到“事件”选项卡，您将看到一个事件已经发布![alt text](img/bb808a461c3e111dfad5b2ed774c2813.png)

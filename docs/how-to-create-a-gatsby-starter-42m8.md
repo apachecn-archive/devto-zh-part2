@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/emasuriano/how-to-create-a-gatsby-starter-42m8>
 
-<figure>[![](../Images/7b99918c39a6d2e8651cd75c106c85f5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ILB0U3q---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A9Mntlltb4s_NTKQNNMfz9Q.jpeg) 
+<figure>[![](img/7b99918c39a6d2e8651cd75c106c85f5.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ILB0U3q---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A9Mntlltb4s_NTKQNNMfz9Q.jpeg) 
 
 <figcaption>照片由[杰德欧文](https://unsplash.com/photos/PpzBE1hWeGI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)上 [Unsplash](https://unsplash.com/search/photos/suitcase?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption>
 
@@ -12,7 +12,7 @@
 
 和《盖茨比》中的许多人一样，它是从个人投资组合开始的。在我发布并在 Tweeter 上分享之后，人们开始问我这是不是开源的，我说“嗯，是的🤔".
 
-> ![unknown tweet media content](../Images/46b6f176a064bc5c05a8b48fa70abf5c.png)![Ema Suriano profile image](../Images/3187553067f3bd3c48742091f190d815.png)Ema 苏里亚诺[@ emasuriano](https://dev.to/emasuriano)![twitter logo](../Images/03bb33b910d947ffb5d9c56b0a509ab2.png)经过日复一日的编码和设计，我用 rebass(styled-components system)[@ gatsbyjs](https://twitter.com/gatsbyjs)v2 和 [@contentful](https://twitter.com/contentful) 完成了我的网站的第二版🎉这是对我现有产品的全面重构，但我对结果真的很满意😁【emasuriano.com】2018 年 8 月 26 日 22 点 03 分[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1033837348881137665)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1033837348881137665)11[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1033837348881137665)94
+> ![unknown tweet media content](img/46b6f176a064bc5c05a8b48fa70abf5c.png)![Ema Suriano profile image](img/3187553067f3bd3c48742091f190d815.png)Ema 苏里亚诺[@ emasuriano](https://dev.to/emasuriano)![twitter logo](img/03bb33b910d947ffb5d9c56b0a509ab2.png)经过日复一日的编码和设计，我用 rebass(styled-components system)[@ gatsbyjs](https://twitter.com/gatsbyjs)v2 和 [@contentful](https://twitter.com/contentful) 完成了我的网站的第二版🎉这是对我现有产品的全面重构，但我对结果真的很满意😁【emasuriano.com】2018 年 8 月 26 日 22 点 03 分[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1033837348881137665)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1033837348881137665)11[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1033837348881137665)94
 
 从技术上来说，所有代码对 Github 的每个人都是开放的，但它根本不可配置(很多很多关于我的硬编码信息)。因此，当你不得不猜测在哪里修改代码时，这不是帮助开发人员，而是一种可怕的体验。
 
@@ -50,7 +50,7 @@
 
 当我查看我的页面时，我可以很容易地发现我的组件和信息混淆了。一个简单的例子是“关于我”页面，看起来像这样:
 
-<figure>[![](../Images/02c7b7fb9d71d91e0f4983abd1b63f6c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mmdZcPEm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AXCVR6iCsSAMOvP6Ypo-z_A.png) 
+<figure>[![](img/02c7b7fb9d71d91e0f4983abd1b63f6c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--mmdZcPEm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AXCVR6iCsSAMOvP6Ypo-z_A.png) 
 
 <figcaption>旧约我的片段章节</figcaption>
 
@@ -62,7 +62,7 @@
 
  *第一步是创建一个 ContentModel，在这里我可以声明关于投资组合所有者的数据的形状。
 
-<figure>[![](../Images/230f61e5f82633a47ed5615389789607.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ioGzx-30--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AfO6SDQeQlxjZMHTnnPzkMg.png) 
+<figure>[![](img/230f61e5f82633a47ed5615389789607.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--ioGzx-30--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AfO6SDQeQlxjZMHTnnPzkMg.png) 
 
 <figcaption>内容模式为</figcaption>
 
@@ -72,7 +72,7 @@
 
 之后，我需要通过创建一个内容来用数据填充我的内容模型。我这样做是为了提供一个例子，当你填写所有的信息时，它应该是什么样子，而且如果没有数据，开始是完全空的😂
 
-<figure>[![](../Images/f1069083ee19816361b89a51760a4a1b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Mw_FQRSb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ABvmjDD5BaFoZbl6OdBgwwA.png) 
+<figure>[![](img/f1069083ee19816361b89a51760a4a1b.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Mw_FQRSb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ABvmjDD5BaFoZbl6OdBgwwA.png) 
 
 <figcaption>关于我的新片段</figcaption>
 

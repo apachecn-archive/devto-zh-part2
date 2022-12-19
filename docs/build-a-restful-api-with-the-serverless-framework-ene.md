@@ -318,27 +318,27 @@ Enter fullscreen mode Exit fullscreen mode
 
 **终端快照:**
 
-[![Terminal snapshot](../Images/233bf6c5827169934590c2bcb8a06fb1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6zahfl5f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aq687tnep6b1r4foe0ok.png)
+[![Terminal snapshot](img/233bf6c5827169934590c2bcb8a06fb1.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--6zahfl5f--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/aq687tnep6b1r4foe0ok.png)
 
 **获得所有口袋妖怪:**
 
-[![GET all pokemon](../Images/58e8498eb8b6e36b74c2fc46f61d0653.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v207hjy---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rm9p406vuzo4owbd8rdm.png)
+[![GET all pokemon](img/58e8498eb8b6e36b74c2fc46f61d0653.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--v207hjy---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rm9p406vuzo4owbd8rdm.png)
 
 **通过 id 获得口袋妖怪:**
 
-[![GET pokemon](../Images/b15bfac221f011884327a58e8aef0ebe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K8FW_X2p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qvri39i4itioieox3fjw.png)
+[![GET pokemon](img/b15bfac221f011884327a58e8aef0ebe.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--K8FW_X2p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/qvri39i4itioieox3fjw.png)
 
 **添加新口袋妖怪:**
 
-[![Add new pokemon](../Images/8814d55a5ebddcb0f5fe9c6efd468800.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RRZYJHUX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6sthaflagvclef6f2hol.png)
+[![Add new pokemon](img/8814d55a5ebddcb0f5fe9c6efd468800.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--RRZYJHUX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6sthaflagvclef6f2hol.png)
 
 **更新现有口袋妖怪:**
 
-[![Update existing pokemon](../Images/a06520d64811a4b4d6c6538f8914a294.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QGX_5htz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ogopnd776x0wx0b63679.png)
+[![Update existing pokemon](img/a06520d64811a4b4d6c6538f8914a294.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QGX_5htz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ogopnd776x0wx0b63679.png)
 
 **删除现有口袋妖怪:**
 
-[![Delete existing pokemon](../Images/adf7d315c44bbcc2b4c7e7d91d7b37f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f7EeWRF0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ktbormln4t88bahr7b2s.png)
+[![Delete existing pokemon](img/adf7d315c44bbcc2b4c7e7d91d7b37f5.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--f7EeWRF0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ktbormln4t88bahr7b2s.png)
 
 ### 部署
 

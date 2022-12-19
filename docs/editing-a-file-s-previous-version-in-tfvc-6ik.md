@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/collinbarrett/editing-a-file-s-previous-version-in-tfvc-6ik>
 
-[![Visual Studio](../Images/f1037a9c1177a51fc2739194d6bc2cb5.png)T2】](https://collinmbarrett.com/editing-previous-version-tfvc/)
+[![Visual Studio](img/f1037a9c1177a51fc2739194d6bc2cb5.png)T2】](https://collinmbarrett.com/editing-previous-version-tfvc/)
 
 ## 痛点
 

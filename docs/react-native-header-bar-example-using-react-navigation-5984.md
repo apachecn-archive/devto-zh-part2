@@ -9,4 +9,4 @@
 
 [使用 React 导航的 React 本机标题栏示例](https://www.skptricks.com/2018/07/react-native-header-bar-example-using-createStackNavigator.html)
 
-[![](../Images/4544b690c6d01ea4fbd556263bdbc2b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nQwQk7n2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://4.bp.blogspot.com/-66firxnL3yY/W0wWP805T9I/AAAAAAAABt0/zMCF-BIyK90niSNE7AwopOMAFGYEgprOwCLcBGAs/s400/he.jpg)
+[![](img/4544b690c6d01ea4fbd556263bdbc2b9.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--nQwQk7n2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://4.bp.blogspot.com/-66firxnL3yY/W0wWP805T9I/AAAAAAAABt0/zMCF-BIyK90niSNE7AwopOMAFGYEgprOwCLcBGAs/s400/he.jpg)

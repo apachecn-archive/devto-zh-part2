@@ -29,6 +29,6 @@ markdown-raw_tex+tex_math_single_backslash+yaml_metadata_block
 Enter fullscreen mode Exit fullscreen mode
 
 减价预览加设置应该是这样的:
-[![Settings screenshot](../Images/fe2a06f13bcd767e86e57beaa04b4843.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fqhHPzXT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tm8hih3cpehgnk7tzlow.png)
+[![Settings screenshot](img/fe2a06f13bcd767e86e57beaa04b4843.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--fqhHPzXT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/tm8hih3cpehgnk7tzlow.png)
 
 让我知道，如果我错过了什么，或者如果你有更好的设置，你想分享😉

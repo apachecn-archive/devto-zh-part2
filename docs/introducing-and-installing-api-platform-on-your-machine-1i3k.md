@@ -6,7 +6,7 @@
 
 两个月前——我的记性不好——我在想，我希望有一天我能更快地自动化 API 设计和实现，也许运行几个 PHP 命令来创建一个完整的实体及其关系和 API 路径，并公开它们，用一个基于注释的实体的自动生成的文档——也许——..直到我的一个朋友告诉我他偶然发现了这个很棒的框架，“我们需要检查一下，这 100%会很棒”——他说。他是对的，他们做了我想做的事情，甚至更多。
 
-[![pffff](../Images/e2fb1e72e40c22e7bff8b2ad1db41a3c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RTN7hXTr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s5ku4wmmm336gcg29p5x.gif)T3】
+[![pffff](img/e2fb1e72e40c22e7bff8b2ad1db41a3c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--RTN7hXTr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/s5ku4wmmm336gcg29p5x.gif)T3】
 
 <center>pffff!</center>
 
@@ -25,7 +25,7 @@
 
 3.  现在一切都应该正常了，`docker-compose up -d`应该充满了绿色的 done 语句，表示一切都正常。你应该可以先去`[http://localhost](http://localhost)`，然后导航到`[https://localhost](https://localhost)`，看到很酷的 API 平台 PWA 客户端。
 
-[![pffff](../Images/ad00a5c8e1e6ff4f5325cd244ef32e11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9W38T58Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z5wcl64ea1fnbujt5iu5.gif)
+[![pffff](img/ad00a5c8e1e6ff4f5325cd244ef32e11.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--9W38T58Y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/z5wcl64ea1fnbujt5iu5.gif)
 
 > 但是如果不是呢！
 > 在这里你可能会遇到这个[问题，没关系我遇到了，而且](https://github.com/api-platform/api-platform/issues/730) [jcarrier-vp solution](https://github.com/api-platform/api-platform/issues/730#issuecomment-399941316) 为我解决了这个问题。

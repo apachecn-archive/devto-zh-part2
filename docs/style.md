@@ -2,7 +2,7 @@
 
 > [https://dev . to/juananuiz/como-create-one-list-horizontal-con-html-y-CSS-1j75](https://dev.to/juananruiz/como-crear-una-lista-horizontal-con-html-y-css-1j75)
 
-[![Iconos con distribución vertical y horizontal](../Images/b635f8ae50755046aed2367e90802f24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5P54vqT1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://galatar.com/wp-content/uploads/2018/06/lista-horizontal-iconos-300x163.png)
+[![Iconos con distribución vertical y horizontal](img/b635f8ae50755046aed2367e90802f24.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5P54vqT1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://galatar.com/wp-content/uploads/2018/06/lista-horizontal-iconos-300x163.png)
 
 如果你稍微考虑一下 HTML 是一种专注于垂直堆叠内容的语言。水平对齐的唯一内容是位于同一标签内的内容或使用字符标签的内容，如**<>**、**<>**、
 

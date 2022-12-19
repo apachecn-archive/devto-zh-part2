@@ -4,7 +4,7 @@
 
 比方说，你正在浏览 twitter，遇到了这样一个绝妙的笑话。
 
-> ![🌼Elle🐱Gato🌼 (they/them) profile image](../Images/47678ef979d0e6f3edf395184b012868.png)T3】🌼她🐱加托🌼(他们/他们)@ ellle _ em![twitter logo](../Images/ad0c7b03deabfe1a161345efb2d537eb.png)狗:博克博克
+> ![🌼Elle🐱Gato🌼 (they/them) profile image](img/47678ef979d0e6f3edf395184b012868.png)T3】🌼她🐱加托🌼(他们/他们)@ ellle _ em![twitter logo](img/ad0c7b03deabfe1a161345efb2d537eb.png)狗:博克博克
 > 人类:停止吠叫
 > 
 > 狗如何诠释这种交流
@@ -48,15 +48,15 @@
 
 那不太对，它匹配一个单词中的每一个*字符*。更多细节[此处](https://www.w3schools.com/jsref/jsref_regexp_wordchar.asp)。
 
-[![](../Images/7ca02cd47515a611b401b71b14ad54af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KFsFJh00--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ATql2LDR-5icz2um7jI0WQg.png)
+[![](img/7ca02cd47515a611b401b71b14ad54af.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--KFsFJh00--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ATql2LDR-5icz2um7jI0WQg.png)
 
 因此，我们将告诉它与匹配相同的每个邻居一起匹配。为此，只需添加' * '
 
-[![](../Images/05b02cd90e646833e989d7dc8dc33116.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lIfUXxlh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ADaH7-a3e_o8kgtz6OsD_YA.png)
+[![](img/05b02cd90e646833e989d7dc8dc33116.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--lIfUXxlh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2ADaH7-a3e_o8kgtz6OsD_YA.png)
 
 快到了！我们现在只需要告诉它只匹配以“:”结尾的单词，结果正如您所料。只需在其后键入:。
 
-[![](../Images/5f898fac64b78cae9e2085877c7e9051.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PquPagUj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A7-7-FmaZo1y7-DYd6kTMcw.png)
+[![](img/5f898fac64b78cae9e2085877c7e9051.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--PquPagUj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2A7-7-FmaZo1y7-DYd6kTMcw.png)
 
 好吧，看起来不错！现在我们如何把所有这些放到一个新的行上？概括地说，我们想在它之前添加一个换行符。我希望你看到的是 find 下面那个可疑的空“replace”文本框。
 
@@ -68,7 +68,7 @@
 
 捕获组
 
-<figure>[![](../Images/690d1f490336b29c8663526d8e87d87f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5qKaghI6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ay9rYIxt24YR2P4_7d0JE4Q.png) 
+<figure>[![](img/690d1f490336b29c8663526d8e87d87f.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--5qKaghI6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2Ay9rYIxt24YR2P4_7d0JE4Q.png) 
 
 <figcaption>注意正则表达式现在用圆括号(\w*)代替()</figcaption>
 
@@ -82,7 +82,7 @@
 
 这里有个提示，把这个词想象成变量$1，把一个换行符想象成文本\n。
 
-[![](../Images/9d70084c855a643af3ac15ae51c18f18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cucSekJd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AvJOzKRvhcGNa7Qy7vsZSFA.png)
+[![](img/9d70084c855a643af3ac15ae51c18f18.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--cucSekJd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AvJOzKRvhcGNa7Qy7vsZSFA.png)
 
 答案是:
 
@@ -92,13 +92,13 @@
 
 并且像变魔术一样我们以:
 
-[![](../Images/7958b193260f0fba86ae0d259e4ffe0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y2pzFfNV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2AsSqSxkXeUeEZ-OdnjPu57Q.png)
+[![](img/7958b193260f0fba86ae0d259e4ffe0a.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--Y2pzFfNV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2AsSqSxkXeUeEZ-OdnjPu57Q.png)
 
 太好了！我们就要得到我们想要的了！我犯了每次这样做时都会犯的同样的错误。我保留了单词中的空格，单词前的空格现在是换行符前的空格，即每行末尾的空格。
 
 在每一行的末尾寻找换行符，我们可以看到这个。
 
-<figure>[![](../Images/9fbbb4a4609e6211b103b8de35806930.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Oa1a8wSv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2AfUXgt0eh2qNq46pd-Uwh3w.png) 
+<figure>[![](img/9fbbb4a4609e6211b103b8de35806930.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--Oa1a8wSv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2AfUXgt0eh2qNq46pd-Uwh3w.png) 
 
 <figcaption>这是空格字符，后跟' $ '，在 find 中使用，表示'在末尾'</figcaption>
 
@@ -116,7 +116,7 @@
 
 所以最终在 2 个地方而不是 8 个地方进行了一点手动编辑！我们明白了。
 
-[![](../Images/f7c43c4fd24c4d527ec32e8793388f8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5ntl6wTs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2AgFsax4fe5eSOV1hbd2c0KA.png)
+[![](img/f7c43c4fd24c4d527ec32e8793388f8c.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--5ntl6wTs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/880/1%2AgFsax4fe5eSOV1hbd2c0KA.png)
 
 最后，你可以把那个笑话的文本发送到你的 slack 频道，假装那是你在开玩笑！
 
@@ -124,7 +124,7 @@
 
 Regex 非常有趣和强大，我们刚刚开始触及它的皮毛。尽管正因为如此，你很容易在一个可能导致更多麻烦的地方使用它。因此，如果遇到问题，不要忘记尽早提交 git 和 ctrl+z！
 
-<figure>[![](../Images/cade73add01082204af4f771fd3fbc7d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LLYdIT8t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/1%2AoGaYyDJNEZ6UL5nN-43YMg.png)
+<figure>[![](img/cade73add01082204af4f771fd3fbc7d.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--LLYdIT8t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/600/1%2AoGaYyDJNEZ6UL5nN-43YMg.png)
 
 <figcaption>——来自雄壮的 [XKCD](https://xkcd.com/208/)</figcaption>
 

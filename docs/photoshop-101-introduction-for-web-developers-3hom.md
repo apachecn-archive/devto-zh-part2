@@ -20,7 +20,7 @@ Photoshop 的工作空间是模块化的，你可以根据你所做的工作进�
 
 让我们看看我们的工作空间
 
-[![Layers box screenshot](../Images/bab3558c5fb6047d53418325f7b52686.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--soIWOg75--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s33.postimg.cc/azhnj48qn/photoshop.png)
+[![Layers box screenshot](img/bab3558c5fb6047d53418325f7b52686.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--soIWOg75--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s33.postimg.cc/azhnj48qn/photoshop.png)
 
 *   菜单栏:这是你获得大多数 photoshop 选项的地方。
 *   **B -选项栏**:该栏将给出当前所选工具的所有选项。
@@ -51,7 +51,7 @@ Photoshop 的核心功能之一就是**图层**。层就像一叠纸张，你可
 
 您可以在`Window/Layers`中打开图层面板。
 
-[![Layers box screen shot](../Images/a916a8d3c14129863672406dbb75e0e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QxERD1Fv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s33.postimg.cc/4yjym1een/layers.png)
+[![Layers box screen shot](img/a916a8d3c14129863672406dbb75e0e0.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--QxERD1Fv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s33.postimg.cc/4yjym1een/layers.png)
 
 在这个面板中，最上面的一层将覆盖下面所有的层。图层也可以在文件夹中进行组织。正确命名层和文件夹非常重要。这将有助于整合。
 
@@ -59,7 +59,7 @@ Photoshop 的核心功能之一就是**图层**。层就像一叠纸张，你可
 
 你的 PSD 可能有很多层和文档。快速找到图层的一种方法是选择`move tool (v)`。右键单击画布，在那里你想找到你的层。你将得到你右击的区域中的所有层。通过点击一个，它会在你的图层面板中选择这个图层。
 
-[![layer tree](../Images/434bc7c5d22da6f7b7207cde2cf4559f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1qvteZRn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s33.postimg.cc/85ei5n3zj/layers-tree.jpg)
+[![layer tree](img/434bc7c5d22da6f7b7207cde2cf4559f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--1qvteZRn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s33.postimg.cc/85ei5n3zj/layers-tree.jpg)
 
 # 工具箱
 
@@ -67,7 +67,7 @@ Photoshop 附带了很多工具。我要给你看几个有用的，对你有帮�
 
 首先，如果你刚刚安装了 Photoshop CC 2018，你需要恢复所有的工具。
 
-[![toolbox](../Images/d4fd984727258722a18a60af18836315.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P4jgvNWZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://helpx.adobe.com/content/dam/help/en/photoshop/using/tools/_jcr_content/main-pars/image_0/v2_Tools%2520panel_PS_update1.png)
+[![toolbox](img/d4fd984727258722a18a60af18836315.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--P4jgvNWZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://helpx.adobe.com/content/dam/help/en/photoshop/using/tools/_jcr_content/main-pars/image_0/v2_Tools%2520panel_PS_update1.png)
 
 *[图片来自土坯](https://helpx.adobe.com/photoshop/using/tools.html)*
 
@@ -78,7 +78,7 @@ Photoshop 附带了很多工具。我要给你看几个有用的，对你有帮�
 *   **移动**:允许用户在画布上移动一层。正如我们之前看到的，如果你右击你的画布，它也可以用来找到一个层。
 *   **矩形选框**:该工具用于选择画布的一个区域，进行复制粘贴、填充等操作。它也可以用来测量。选择完成后，您可以在`Window/Info`中找到所选区域的大小。您可能需要在 photoshop `Edit/preferences/general/Unit & Rulers`中更改默认单位，然后将单位设置为像素。
 
-[![select size](../Images/4ec254babb3891c4f40b1d2a33bce969.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e0tfn1_d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s33.postimg.cc/60u54khsf/size.jpg)
+[![select size](img/4ec254babb3891c4f40b1d2a33bce969.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--e0tfn1_d--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s33.postimg.cc/60u54khsf/size.jpg)
 
 ## B 裁剪和切片工具
 
@@ -87,7 +87,7 @@ Photoshop 附带了很多工具。我要给你看几个有用的，对你有帮�
 ## C -测量工具
 
 *   **滴管**:滴管可以让你在设计中快速得到一个颜色参考。只需点击你想要的颜色。然后在你的工具箱的底部，前景色会变成你选择的颜色。如果你点击前景色，它将打开`color picker window`,从这里你可以得到你的颜色值。
-*   **颜色采样器**:当整合你的设计时，你可能需要选择多种颜色。我们将再次使用信息窗口`Window/Info`。这个工具允许我们创建一个颜色采样器。只需点击你想获取颜色的图像区域。你将在信息面板中得到每种颜色。您可以通过点击数字下方的滴管图标将颜色类型更改为 web。![color sampler](../Images/d41c29ea0bb6808d999dc7495724f941.png)
+*   **颜色采样器**:当整合你的设计时，你可能需要选择多种颜色。我们将再次使用信息窗口`Window/Info`。这个工具允许我们创建一个颜色采样器。只需点击你想获取颜色的图像区域。你将在信息面板中得到每种颜色。您可以通过点击数字下方的滴管图标将颜色类型更改为 web。![color sampler](img/d41c29ea0bb6808d999dc7495724f941.png)
 *   **尺子**:帮助你测量你的模板。所有信息将出现在你的信息窗口。测量时保持`Shift`,这样你的尺子就能保持笔直。你也可以得到角度。
 
 ## G -导航工具
@@ -115,7 +115,7 @@ Photoshop 附带了很多工具。我要给你看几个有用的，对你有帮�
 
 当智能对象的缩略图中有以下图标时，可以在图层中识别智能对象:
 
-[![smart object](../Images/d2e673cc96a4e1ad7107ebaa4f1b826f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fIGbnQ4D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s33.postimg.cc/z38f7ebrz/smart-object.png)
+[![smart object](img/d2e673cc96a4e1ad7107ebaa4f1b826f.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--fIGbnQ4D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s33.postimg.cc/z38f7ebrz/smart-object.png)
 
 如果你处理矢量类型的图像(SVG，EPS，AI ),以及其他复杂的光栅文件，智能对象是非常方便的。
 
@@ -145,7 +145,7 @@ Photoshop 附带了很多工具。我要给你看几个有用的，对你有帮�
 
 让我们导出产品传送带中的左箭头:
 
-[![screenshot carousel](../Images/34bc00b441a81cd0ded340f19373b803.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0nwucDiq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s33.postimg.cc/5o2qydrsv/export1.jpg)
+[![screenshot carousel](img/34bc00b441a81cd0ded340f19373b803.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--0nwucDiq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s33.postimg.cc/5o2qydrsv/export1.jpg)
 
 使用移动工具，我们将找到我们的层。右键点击箭头，选择图层`Arrow Left`。现在只需在图层面板中右键单击该图层。选择`export as`。只需选择您需要的文件类型。
 

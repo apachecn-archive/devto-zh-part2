@@ -6,7 +6,7 @@
 
 这是一个小样本，当然只是轶事，但我不认为我是唯一一个害怕打开拉式请求的人:
 
-> ![Adrienne Domingus profile image](../Images/a7cdeab520031b272ab723b15f2c01c5.png)艾德丽安·多明戈斯@ a _ 多明戈斯![twitter logo](../Images/ad0c7b03deabfe1a161345efb2d537eb.png)好奇:你有没有对打开一个拉请求(无论是开源还是闭源)感到过胁迫/紧张？01:51AM-04 Sep 2018[![Twitter reply action](../Images/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1036793838713491457)[![Twitter retweet action](../Images/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1036793838713491457)0[![Twitter like action](../Images/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1036793838713491457)0
+> ![Adrienne Domingus profile image](img/a7cdeab520031b272ab723b15f2c01c5.png)艾德丽安·多明戈斯@ a _ 多明戈斯![twitter logo](img/ad0c7b03deabfe1a161345efb2d537eb.png)好奇:你有没有对打开一个拉请求(无论是开源还是闭源)感到过胁迫/紧张？01:51AM-04 Sep 2018[![Twitter reply action](img/269095962147c28351274afdd5486a48.png)](https://twitter.com/intent/tweet?in_reply_to=1036793838713491457)[![Twitter retweet action](img/771160ecf06ae3d4d7a7815c29c819c2.png)](https://twitter.com/intent/retweet?tweet_id=1036793838713491457)0[![Twitter like action](img/c077611ab2a5e0b4cd0c826ee7ae1e48.png)](https://twitter.com/intent/like?tweet_id=1036793838713491457)0
 
 所以，如果我们承认这种恐吓是人们确实感觉到的，我们能做些什么呢？我想把重点放在评论者身上，但作为作者，我们也可以做一些事情来增加我们获得我们想要的反馈的几率，所以我也将谈谈一些对我有用的事情。我很乐意听听你的其他想法！
 
@@ -44,8 +44,8 @@
 
 *   对代码中的特定内容给予积极的反馈。即使是需要大量返工的代码也有好的一面。这是一个比作者以前做过的更复杂或更大的项目，而且他们成功了！他们使用了一种你从未见过的有趣或简化的方法。他们重构了一段并不一定要重构的代码。可能性是无穷的——找些好听的话说出来！
 
-[![Alt Text](../Images/ac4fdac8f0f6a05e773bd920fca3b74c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rr_NiU-o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9al2t9qro76x2nh3kcpt.png)
-[![Alt Text](../Images/ebe0acb66a10e43f482d77b236f14293.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--E7N5verV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dy9n5cijb6tcdqgxvhlj.png)
+[![Alt Text](img/ac4fdac8f0f6a05e773bd920fca3b74c.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--rr_NiU-o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/9al2t9qro76x2nh3kcpt.png)
+[![Alt Text](img/ebe0acb66a10e43f482d77b236f14293.png)T6】](https://res.cloudinary.com/practicaldev/image/fetch/s--E7N5verV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/dy9n5cijb6tcdqgxvhlj.png)
 
 *   检查你的情绪——如果你在审查代码时感到沮丧，因为你以前解释过同样的事情，或者因为某些事情对你来说似乎是显而易见的，后退一步，以后再重新审视它。即使有些事情看起来很明显，以一种不会贬低或让他们觉得愚蠢的方式告诉作者也很重要，这将使他们更有可能接受你的反馈并从中学习。
 

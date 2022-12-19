@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/entrptaher/mocha-and-puppeteer-on-circleci-117e>
 
-[![](../Images/6d0eeec9909e12c80b41ca7599733170.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FvNFdvDn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/jDIthmt.png)
+[![](img/6d0eeec9909e12c80b41ca7599733170.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--FvNFdvDn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/jDIthmt.png)
 
 # 预取
 
@@ -18,7 +18,7 @@
 
 结果很棒，我也像其他人一样添加了一些很酷的徽章，
 
-[![](../Images/95020d3022c51dd3f850c60c728e482d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8otoqLye--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/Av2riR1.png)
+[![](img/95020d3022c51dd3f850c60c728e482d.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--8otoqLye--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/Av2riR1.png)
 
 啊！当有人告诉你质量很好时的喜悦(只是为了内心的平静)。
 
@@ -127,7 +127,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 结果是:
 
-[![Mocha test](../Images/ccd596deb1e4691eed2cdc957fcd6b74.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MT82rvKT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/entrptaher/mocha-ci-test/master/screenshots/mocha-test.png)
+[![Mocha test](img/ccd596deb1e4691eed2cdc957fcd6b74.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MT82rvKT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/entrptaher/mocha-ci-test/master/screenshots/mocha-test.png)
 
 ## 代码质量
 
@@ -137,7 +137,7 @@ Enter fullscreen mode Exit fullscreen mode
 
 因此，我们只需使用`eslint --init`，按照向导安装 airbnb 规则，然后使用`eslint .`运行，
 
-[![](../Images/f8130dc7f6f9b14209a42a66dfefd4c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tL4pRRZP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/19NZaVZ.png)
+[![](img/f8130dc7f6f9b14209a42a66dfefd4c8.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--tL4pRRZP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://i.imgur.com/19NZaVZ.png)
 
 ...
 
@@ -152,7 +152,7 @@ opps！然后`eslint --fix . --ext .js`自动修复基本问题。
 我们都很好，一旦我们把它脱绒。它可能会抛出一些关于最佳实践的小警告，如果我们愿意，我们可以修复它们，或者继续前进。
 
 结果:
-[![](../Images/6068e637d93f3ac8c244220dda0170d8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gqGe1dV6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/entrptaher/mocha-ci-test/master/screenshots/linting.png)
+[![](img/6068e637d93f3ac8c244220dda0170d8.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--gqGe1dV6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/entrptaher/mocha-ci-test/master/screenshots/linting.png)
 
 ### 其他质量检查
 
@@ -172,7 +172,7 @@ CircleCI 有`node:8.12.0-browsers`和其他类似的标签，包括`headless`和
 
 查看`.circleci/config.yml`中的代码。结果看起来很美，除非所有的测试都以红色结束。
 
-[![CircleCI example](../Images/940ab580e0ff48f8bbc20aabe29fe511.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MTpr5Yty--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/entrptaher/mocha-ci-test/master/screenshots/circleci-results.png)
+[![CircleCI example](img/940ab580e0ff48f8bbc20aabe29fe511.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--MTpr5Yty--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/entrptaher/mocha-ci-test/master/screenshots/circleci-results.png)
 
 ## 最终步骤
 

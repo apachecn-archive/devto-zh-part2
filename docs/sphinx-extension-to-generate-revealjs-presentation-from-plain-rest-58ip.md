@@ -4,7 +4,7 @@
 
 我创建 Sphinx 扩展来将 Reveal.js 表示从 **plain** reStructuredText 转换。如果你想用 Sphinx(reStructuredText)编写 Reveal.js，请尝试一下
 
-## ![GitHub logo](../Images/a73f630113876d78cff79f59c2125b24.png) [阿塔凯](https://github.com/attakei) / [狮身人面像-复仇女神](https://github.com/attakei/sphinx-revealjs)
+## ![GitHub logo](img/a73f630113876d78cff79f59c2125b24.png) [阿塔凯](https://github.com/attakei) / [狮身人面像-复仇女神](https://github.com/attakei/sphinx-revealjs)
 
 ### sphinx builder 展示演示文稿
 
@@ -12,7 +12,7 @@
 
 # 狮身人面像
 
-[![](../Images/9cd3d68ac70b4f9c5187e6b39f69fdc6.png) ](https://pypi.org/project/sphinx-revealjs/) [![](../Images/042838fade83795eaf81bbc376347315.png) ](https://github.com/attakei/sphinx-revealjs/actions) [![https://travis-ci.org/attakei/sphinx-revealjs.svg?branch=master](../Images/56e54cc2d0d91b5ef59949c18a640151.png)](https://travis-ci.org/attakei/sphinx-revealjs)
+[![](img/9cd3d68ac70b4f9c5187e6b39f69fdc6.png) ](https://pypi.org/project/sphinx-revealjs/) [![](img/042838fade83795eaf81bbc376347315.png) ](https://github.com/attakei/sphinx-revealjs/actions) [![https://travis-ci.org/attakei/sphinx-revealjs.svg?branch=master](img/56e54cc2d0d91b5ef59949c18a640151.png)](https://travis-ci.org/attakei/sphinx-revealjs)
 
 使用主题生成 Reveal.js 演示的 Sphinx 扩展
 

@@ -2,7 +2,7 @@
 
 > 原文：<https://dev.to/mrm8488/mongodb-schema-design-patterns-i-4gdp>
 
-[![](../Images/0ca9faadba4b317fac8c679e3db9085e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u4IDWbLq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q2skcobs31lu94rj80s3.png)
+[![](img/0ca9faadba4b317fac8c679e3db9085e.png)T2】](https://res.cloudinary.com/practicaldev/image/fetch/s--u4IDWbLq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/q2skcobs31lu94rj80s3.png)
 
 MongoDB 已经成为最流行的 noSQL 数据库之一。它经常被用作均值/MERN 堆栈的一部分，因为它很容易适应 JavaScript 生态系统。
 网上有成百上千的教程，成吨的课程，还有一些关于如何成为使用 MongoDB 作为栈中数据库系统的全栈开发人员的书籍(MERN 的 M/MEAN)。
